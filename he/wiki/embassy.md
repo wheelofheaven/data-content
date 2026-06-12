@@ -1,607 +1,597 @@
 +++
-title = "Embassy"
+title = "השגרירות"
 slug = "embassy"
-description = "The Embassy is the designated physical structure, located on a specific piece of land granted extraterritorial status by a host country, prepared to receive the formal arrival of the Elohim alliance and to serve as the operational location for the meetings between the alliance and humanity's representatives that the arrival will inaugurate. The embassy specifications were given in the 1973 contact and elaborated in subsequent communications. The source originally specified a strong preference for Israel near Jerusalem, identifying the embassy as the Third Temple of Jewish apocalyptic tradition; the December 13, 1997 message authorized relocation to other countries following repeated Israeli refusals."
+description = "השגרירות היא המבנה הפיזי המיועד, הממוקם על חלקת קרקע מסוימת שהוענק לה מעמד אקסטריטוריאלי על ידי מדינה מארחת, המוכן לקבל את הבואם הרשמי של ברית האלוהים ולשמש כמיקום התפעולי עבור המפגשים בין הברית לבין נציגי האנושות שבואם יחנוך. מפרטי השגרירות נמסרו במגע 1973 ופורטו בהמשך בתקשורות מאוחרות יותר. המקור ציין במקור העדפה חזקה לישראל סמוך לירושלים, וזיהה את השגרירות כבית המקדש השלישי של המסורת האפוקליפטית היהודית; המסר מ-13 בדצמבר 1997 התיר העברה למדינות אחרות בעקבות סירובים ישראליים חוזרים ונשנים."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the embassy", "the Third Temple", "the embassy of the Elohim", "the residence", "the alliance embassy"]
+claim_type = "framework"
+alternative_names = ["השגרירות", "בית המקדש השלישי", "שגרירות האלוהים", "המעון", "שגרירות הברית"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "ההתגלות של עידן הדלי שבתוכה מתרחש אירוע הירושה המוקרן של השגרירות." },
+    { title = "Third Temple", path = "wiki/third-temple", description = "בית המקדש הנבואי-אפוקליפטי היהודי שהמקור מזהה עמו את השגרירות." },
+    { title = "New Jerusalem", path = "wiki/new-jerusalem", description = "חזון ספר ההתגלות שהמסגרת קוראת בזיקה לתפקידה המוקרן של השגרירות." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "המסגרת הקוסמולוגית הרחבה יותר שבתוכה אירוע הירושה של השגרירות הוא שלב אחד ספציפי." },
+    { title = "Elohim", path = "wiki/elohim", description = "הברית שאת בואה הרשמי השגרירות נבנתה לקבל." },
+    { title = "Raël", path = "wiki/rael", description = "הנביא (קלוד וורילון) שהופקד על ארגון פרויקט השגרירות." },
+]
+
+footnotes = [
+    { content = "השגרירות היא המרכיב המעוגן ביותר במקור מכלל מסגרת הקורפוס. בניגוד לתחרות הקוסמית, החתימה הכפולה והשרשרת הקוסמית — שכולן כרוכות במבנה פרשני קורפוסי ניכר מעבר למקור — המפרטים האדריכליים המפורטים של השגרירות, העדפות המיקום, הדרישות התפעוליות והתפקיד המוקרן באים ישירות מן החומר המקורי הראלי (*הספר שאומר את האמת*, 1974, 'המצוות החדשות — שליחותך'). תרומתו הפרשנית של הקורפוס היא בעיקר שילוב החומר על השגרירות עם מסגרת עידן הדלי הרחבה יותר." },
+    { content = "השגרירות היא, באופן יוצא דופן, אחד המרכיבים המעטים של מסגרת הקורפוס שהוא ניתן לבדיקה תפעולית בטווח הקרוב: בנייתו הממשית (או אי-בנייתו) של המבנה בתוך לוח הזמנים המוקרן של התנועה הראלית לשנים 2027–2030 תספק ראיות אמפיריות ישירות בנוגע לתוכן הניבויי של החומר המקורי, באופן שרוב מרכיבי המסגרת האחרים אינם מאפשרים. הקורפוס רושם את לוח הזמנים של הפרויקט ואת שלבו הנוכחי כעובדות של ההווה מבלי לאשר את התאריכים הספציפיים כמובטחים — ההתקדמות הממשית תלויה במשאים ומתנים הדיפלומטיים ובתנאים הפוליטיים של המדינה המארחת." },
+    { content = "זיהוי השגרירות מצד המקור עם בית המקדש השלישי הנבואי-אפוקליפטי היהודי הוא מפורש. השגרירות באה אחרי מקדש שלמה הראשון (נבנה כ-950 לפנה״ס, נחרב 586 לפנה״ס) ובית המקדש השני (נבנה כ-516 לפנה״ס, הורחב בידי הורדוס, נחרב 70 לספירה), שכל אחד מהם נקרא על ידי המסגרת כמי ששימש כמיקום הפיזי לנוכחות הברית בתקופת פעולתה. המסורת התיאולוגית-היסטורית היהודית המרכזית אינה מקבלת את זיהוי השגרירות הראלי עם בית המקדש השלישי; הקורפוס רושם את הזיהוי כטענה המפורשת של המקור, לא כקריאה הזוכה לאישור מרכזי. הקורפוס קורא את יחזקאל מז 1–2 (מים יוצאים מתחת מפתן הבית) כהקדמה ובישור לתפקידה המוקרן של השגרירות." },
+    { content = "העדפת המקור המקורית הייתה שהשגרירות תמוקם בישראל סמוך לירושלים — מיקומה הגאוגרפי של מבצע גן עדן המקורי של הברית ושל פרויקט שושלת עדן המורחב. לאחר סירובים ישראליים חוזרים להעניק מעמד אקסטריטוריאלי לאורך בקשות רשמיות מ-1991 ואילך, המסר מ-13 בדצמבר 1997 מאת יהוה התיר רשמית לתנועה הראלית לבקש את המעמד מ'כל אומות תבל', כאשר לישראל נותרת אך אופציה אחרונה. הקורפוס מתייחס לשאלת המיקום כמעוגנת במקור אך בלתי מוכרעת בפועל." },
+    { content = "הקורפוס מתעסק בשיח חשיפת ה-UAP העכשווי (גילויי AATIP של הניו יורק טיימס ב-2017; *Imminent* מאת לואיס אליזונדו; עדותו של דייוויד גראש בפני הקונגרס ב-2023; פרויקט גלילאו של אבי לואב וטיעון ʻOumuamua; קרן Sol) כהקשר התרבותי בן-זמננו שבתוכו יתרחש המגע הגלוי המוקרן של השגרירות — מבלי לטעון שתופעות ה-UAP הן ברית האלוהים או שתנועת החשיפה תומכת בשגרירות. הקורפוס קורא את המסלול כשינוי בתנאי הסבירות למגע חוץ-ארצי גלוי, לא כאישור של המסגרת." },
+    { content = "הקורפוס קורא את ההישנות החוצת-תרבויות של ציפיות לדמות שבה (המשיח ובית המקדש השלישי היהודיים, הפארוסיה הנוצרית, המהדי האסלאמי, אווטאר הקאלקי ההינדי, הסאושיאנט הזורואסטרי, שיבת קצלקואטל האצטקית) כהתכנסות שהמסגרת קוראת כזיכרון מקוטע של, וכציפייה ל, שיבתה המוקרנת של הברית. הקורפוס אינו טוען שמסורות אלו הן באופן אחיד זיכרונות ישירים; הוא רושם את ההתכנסות כעקבית עם המסגרת תוך שמירה על התוכן התיאולוגי הייחודי של כל מסורת." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "'המצוות החדשות — שליחותך'"
+note = "מקור ראלי יסודי — המפרטים האדריכליים המפורטים של השגרירות, זיהוי בית המקדש השלישי, והתנאים לשיבתה הגלויה של הברית."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "יצירתו השנייה של וורילון (1975) — פירוטי המגע השני בְּרוֹק פּלָה מ-7 באוקטובר 1975 של מפרטי השגרירות ותפקידו המארגן של ראל."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "קריאתו של סנדי את חומר המקדש והנבואה של המקרא העברי כמשַמר תוכן של מגע עם הברית."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "קריאתו התרגומית-קפדנית של ביגלינו את חומר חזון המקדש של יחזקאל."
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "טיפולו של ווליס במסגרת המגע עם הברית העומדת ביסוד חומר השיבה הנבואי."
+
+[[extra.references]]
+id = "vienna-convention-diplomatic-relations"
+note = "המסגרת המשפטית בת-זמננו העיקרית למשלחות דיפלומטיות ולמעמד אקסטריטוריאלי שאתר השגרירות חייב להחזיק."
+
+[[extra.references]]
+id = "lateran-treaty"
+note = "האמנה משנת 1929 המכוננת את קריית הוותיקן — התקדים המשפטי הקרוב ביותר לישות דתית המחזיקה בשטח אקסטריטוריאלי ריבוני."
+
+[[extra.references]]
+id = "maimonides-mishneh-torah"
+note = "העמדה ההלכתית-יהודית הקלאסית בנוגע לימות המשיח ולבניין המקדש (הלכות מלכים יא א)."
+
+[[extra.references]]
+id = "halperin-faces-of-the-chariot"
+note = "מחקרו של הלפרין על קליטת חזונות המקדש והמרכבה של יחזקאל — חומר יחזקאל מ–מח שמאחורי בית המקדש השלישי."
+
+[[extra.references]]
+id = "goldberg-fight-for-jerusalem"
+note = "הקשר פוליטי-היסטורי למאבק בן-זמננו על ירושלים והר הבית הנוגע להעדפת המיקום המקורית של השגרירות."
+
+[[extra.references]]
+id = "wright-resurrection-son-of-god"
+note = "טיפולו הסטנדרטי של רייט באמונת התחייה הנוצרית הקדומה ובציפיית הפארוסיה."
+
+[[extra.references]]
+id = "sandt-zangenberg-matthew-james-didache"
+note = "הקשר מחקרי לסביבה היהודית-נוצרית של חומר השיבה הנבואי."
+
+[[extra.references]]
+id = "sachedina-islamic-messianism"
+note = "הטיפול הסטנדרטי בציפיית המהדי בשיעה התריסרית."
+
+[[extra.references]]
+id = "cook-muslim-apocalyptic"
+note = "הטיפול הסטנדרטי במסורת האפוקליפטית והאחרית-ימית המוסלמית."
+
+[[extra.references]]
+id = "doniger-the-hindus"
+note = "סקירתה של דוניגר הכוללת את ציפיית אווטאר הקאלקי העתידי."
+
+[[extra.references]]
+id = "boyce-zoroastrians"
+note = "בויס על הסאושיאנט הזורואסטרי, מושיע העתיד, ועל תורת חידוש העולם (frashokereti)."
+
+[[extra.references]]
+id = "carrasco-quetzalcoatl"
+note = "קאראסקו על נבואת שיבת קצלקואטל במסורת האצטקית."
+
+[[extra.references]]
+id = "elizondo-imminent"
+note = "סיפורו של אליזונדו, ראש AATIP לשעבר של הפנטגון — טקסט עיקרי של תנועת חשיפת ה-UAP בת-זמננו."
+
+[[extra.references]]
+id = "grusch-congressional-testimony"
+note = "עדותו המושבעת של גראש בפני הקונגרס ב-2023 — נקודת מפנה בשיח חשיפת ה-UAP בן-זמננו."
+
+[[extra.references]]
+id = "loeb-extraterrestrial"
+note = "טיעונו של לואב ש-ʻOumuamua אולי היה טכנולוגיה חוץ-ארצית — הקשר מדעי בן-זמננו לשאלת המגע."
+
+[[extra.references]]
+id = "loeb-interstellar"
+note = "הרחבת טיעון החיפוש-אחר-חפצים של לואב ותוכנית התצפית של פרויקט גלילאו."
 
 [extra.infobox]
-type = "Designated physical structure for the formal arrival of the Elohim alliance"
-basic_specifications = "≈4 km² site (1 km radius); conference room for 21; dining room for 21; seven guest rooms with separate bathrooms; swimming pool; landing platform for 12-m spacecraft; protective wall (max 2 stories); residence ≥1,000 m from the wall"
-legal_requirement = "Extraterritorial status granted by host country"
-preferred_original_location = "Israel near Jerusalem (per 1973-1974 source material)"
-current_authorization = "All nations of Earth (per the December 13, 1997 message from Yahweh)"
-identification_with_third_temple = "Yes; the source explicitly identifies the embassy as the Third Temple of Jewish apocalyptic tradition"
-prophetic_imagery = "Ezekiel 47:1-2; Acts 15:16; Isaiah 2:2-4; Micah 4:1-3"
-current_state_2026 = "2024 Memorandum of Collaboration with undisclosed national government; site acquisition phase 2025-2027; planning and construction 2027-2030"
-project_responsibility = "International Raëlian Movement; Daniel Turcotte as Raëlian guide responsible for the embassy project"
-distinguished_from = "The Solomonic First Temple; the Second Temple; the broader Apocalypse event; the Cosmic Competition framework"
-status_in_source_material = "Substantially source-grounded; detailed architectural specifications come directly from Raëlian source material"
-principal_text = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), 'The New Commandments — Your Mission'; *Extra-Terrestrials Took Me to Their Planet* (1975); the December 13, 1997 message"
+type = "מבנה פיזי מיועד לבואה הרשמי של ברית האלוהים"
+basic_specifications = "אתר של כ-4 קמ״ר (רדיוס 1 ק״מ); חדר ועידות ל-21; חדר אוכל ל-21; שבעה חדרי אורחים עם חדרי רחצה נפרדים; בריכת שחייה; משטח נחיתה לחללית בקוטר 12 מ׳; חומת מגן (עד 2 קומות); מעון במרחק 1,000 מ׳ לפחות מן החומה"
+legal_requirement = "מעמד אקסטריטוריאלי המוענק על ידי המדינה המארחת"
+preferred_original_location = "ישראל סמוך לירושלים (לפי החומר המקורי 1973–1974)"
+current_authorization = "כל אומות תבל (לפי המסר מ-13 בדצמבר 1997 מאת יהוה)"
+identification_with_third_temple = "כן; המקור מזהה במפורש את השגרירות כבית המקדש השלישי של המסורת האפוקליפטית היהודית"
+prophetic_imagery = "יחזקאל מז 1–2; מעשי השליחים טו 16; ישעיהו ב 2–4; מיכה ד 1–3"
+current_state_2026 = "מזכר שיתוף פעולה משנת 2024 עם ממשלה לאומית בלתי-מזוהה; שלב רכישת אתר 2025–2027; תכנון ובנייה 2027–2030"
+project_responsibility = "התנועה הראלית הבינלאומית; דניאל טורקוט כמדריך ראלי האחראי על פרויקט השגרירות"
+distinguished_from = "מקדש שלמה הראשון; בית המקדש השני; אירוע ההתגלות הרחב יותר; מסגרת התחרות הקוסמית"
+status_in_source_material = "מעוגן במקור באופן ניכר; המפרטים האדריכליים המפורטים באים ישירות מן החומר המקורי הראלי"
+principal_text = "*הספר שאומר את האמת* (וורילון/ראל, 1974), 'המצוות החדשות — שליחותך'; *חוצנים לקחו אותי לכוכבם* (1975); המסר מ-13 בדצמבר 1997"
 +++
 
-The **Embassy** is the designated physical structure, located on a specific piece of land granted extraterritorial status by a host country, prepared to receive the formal arrival of the Elohim alliance and to serve as the operational location for the meetings between the alliance and humanity's representatives that the arrival will inaugurate. The embassy is the most operationally specific element of the broader Aquarian-age program the alliance has proposed for humanity, with detailed architectural specifications given in the 1973 contact between Yahweh and Raël (Claude Vorilhon) at the Roc Plat crater of Clermont-Ferrand and elaborated in subsequent source-material communications. The embassy occupies a distinctive position within the corpus's broader framework: it is the **physical-operational center** at which the projected Aquarian-age inheritance event will occur — the specific site where the accumulated knowledge of the alliance will be transmitted to humanity following the alliance's open return, and the location from which the Aquarian-age transformation will operate across the subsequent centuries.
+**השגרירות** היא המבנה הפיזי המיועד, הממוקם על חלקת קרקע מסוימת שהוענק לה מעמד אקסטריטוריאלי על ידי מדינה מארחת, המוכן לקבל את בואה הרשמי של ברית האלוהים ולשמש כמיקום התפעולי עבור המפגשים בין הברית לבין נציגי האנושות שבואה יחנוך. השגרירות היא המרכיב התפעולי-הספציפי ביותר של תוכנית עידן הדלי הרחבה יותר שהציעה הברית לאנושות, עם מפרטים אדריכליים מפורטים שנמסרו במגע 1973 בין יהוה לראל (קלוד וורילון) במכתש רוֹק פּלָה של קלרמון-פראן, ופורטו בתקשורות חומר-מקורי מאוחרות יותר. השגרירות תופסת מקום ייחודי בתוך המסגרת הרחבה יותר של הקורפוס: היא **המרכז הפיזי-התפעולי** שבו יתרחש אירוע הירושה המוקרן של עידן הדלי — האתר הספציפי שבו הידע הצבור של הברית יועבר לאנושות בעקבות שיבתה הגלויה של הברית, והמיקום שממנו תפעל התמורה של עידן הדלי לאורך המאות הבאות.
 
-The embassy specifications include the broader site requirements (approximately 4 km² with at minimum a 1 km radius, with extraterritorial status granted by the host country, with air space above and around the residence not under direct military or radar surveillance), the residential complex specifications (a residence with maximum two stories situated at minimum 1,000 m from the surrounding park wall, with two entrances, with the residence further screened by an inner barrier of trees and bushes), the operational facilities (a conference room able to accommodate 21 people, a dining room able to seat 21 people, seven guest rooms each with separate bathroom, a swimming pool, a landing platform on the residence's roof terrace capable of receiving a 12-meter-diameter alliance craft), and the security features (a thick metal door separating the seven-room area under the terrace from the section used by humans, an aseptic chamber at the entrance to the conference room, walls preventing exterior viewing of the residence and swimming pool). The specifications reflect the practical requirements of a structure that must accommodate visitors of two different species (humans and Elohim, biologically similar but with distinct biochemistries requiring aseptic-chamber separation) and that must facilitate both ceremonial-formal events (the inheritance event itself) and continuing operational use (the millennia of subsequent alliance-humanity meetings the source projects).
+מפרטי השגרירות כוללים את דרישות האתר הרחבות יותר (כ-4 קמ״ר עם רדיוס של 1 ק״מ לכל הפחות, עם מעמד אקסטריטוריאלי המוענק על ידי המדינה המארחת, עם מרחב אווירי מעל המעון וסביבו שאינו תחת מעקב צבאי או מכ״מ ישיר), את מפרטי מתחם המגורים (מעון בגובה שתי קומות לכל היותר הממוקם במרחק 1,000 מ׳ לפחות מחומת הפארק המקיפה, עם שני כניסות, כאשר המעון מוסתר נוספות במחיצה פנימית של עצים ושיחים), את המתקנים התפעוליים (חדר ועידות המסוגל לאכלס 21 איש, חדר אוכל המסוגל להושיב 21 איש, שבעה חדרי אורחים שלכל אחד חדר רחצה נפרד, בריכת שחייה, משטח נחיתה על מרפסת גג המעון המסוגל לקבל חללית של הברית בקוטר 12 מטר), ואת מאפייני האבטחה (דלת מתכת עבה המפרידה את אזור שבעת החדרים מתחת למרפסת מן החלק המשמש בני אדם, תא אספטי בכניסה לחדר הוועידות, חומות המונעות צפייה חיצונית במעון ובבריכת השחייה). המפרטים משקפים את הדרישות המעשיות של מבנה שעליו לאכלס מבקרים משני מינים שונים (בני אדם ואלוהים, דומים ביולוגית אך בעלי ביוכימיות נבדלת המחייבת הפרדת תא אספטי) ושעליו לאפשר הן אירועים טקסיים-רשמיים (אירוע הירושה עצמו) והן שימוש תפעולי מתמשך (אלפי השנים של מפגשי ברית-אנושות עתידיים שהמקור מקרין).
 
-The embassy's identification with the Jewish prophetic-apocalyptic tradition's **Third Temple** is theologically substantial. The source explicitly identifies the embassy as the Third Temple succeeding the Solomonic First Temple (built c. 950 BCE, destroyed by the Babylonians in 586 BCE) and the Second Temple (built c. 516 BCE, expanded by Herod, destroyed by the Romans in 70 CE), each of which had served as the physical location for the alliance's presence during its period of operation. The source's original preference was for the embassy to be located in Israel near Jerusalem — the geographic site of the alliance's original Eden operation and of the extended Eden-lineage human project across the subsequent millennia. The connection to **Ezekiel 47:1-2** (the prophetic vision of waters issuing from the threshold of the temple) is read by the framework as the direct prefiguration of the embassy's projected operational role: the temple as the source from which the Aquarian-age waters of understanding flow outward, transforming the world they reach. The Israeli government has not granted the requested extraterritorial status across multiple formal requests from 1991 onward, and the December 13, 1997 message from Yahweh formally authorized the Raëlian movement to seek extraterritorial status from "all nations on Earth," with Israel retaining only a final option to grant authorization before the embassy is built elsewhere.
+זיהוי השגרירות עם **בית המקדש השלישי** של המסורת הנבואית-אפוקליפטית היהודית הוא מהותי תיאולוגית. המקור מזהה במפורש את השגרירות כבית המקדש השלישי הבא אחרי מקדש שלמה הראשון (נבנה כ-950 לפנה״ס, נחרב בידי הבבלים ב-586 לפנה״ס) ובית המקדש השני (נבנה כ-516 לפנה״ס, הורחב בידי הורדוס, נחרב בידי הרומאים ב-70 לספירה), שכל אחד מהם שימש כמיקום הפיזי לנוכחות הברית בתקופת פעולתה. העדפתו המקורית של המקור הייתה שהשגרירות תמוקם בישראל סמוך לירושלים — מיקומו הגאוגרפי של מבצע גן עדן המקורי של הברית ושל פרויקט שושלת עדן האנושי המורחב לאורך אלפי השנים שלאחר מכן. הזיקה ל**יחזקאל מז 1–2** (החזון הנבואי של מים יוצאים ממפתן הבית) נקראת על ידי המסגרת כבישור הישיר לתפקידה התפעולי המוקרן של השגרירות: המקדש כמקור שממנו זורמים החוצה מי ההבנה של עידן הדלי, ומשנים את העולם אליו הם מגיעים.{{ footnote(id="3") }} ממשלת ישראל לא העניקה את המעמד האקסטריטוריאלי המבוקש לאורך בקשות רשמיות מרובות מ-1991 ואילך, והמסר מ-13 בדצמבר 1997 מאת יהוה התיר רשמית לתנועה הראלית לבקש מעמד אקסטריטוריאלי מ»כל אומות תבל«, כאשר לישראל נותרת אך אופציה אחרונה להעניק היתר בטרם תיבנה השגרירות במקום אחר.{{ footnote(id="4") }}
 
-As of 2026, the embassy project is at the most advanced stage in its half-century history. The Raëlian movement has conducted systematic diplomatic engagement with potential host countries across the past three decades, with the 2015 UN Optional Protocol Concerning Embassies for Extraterrestrials, the 2021 Alliance for Extraterrestrial Diplomatic Contact, the 2022 presentations to mayors of fifty cities globally, and most significantly the 2024 Memorandum of Collaboration signed with an undisclosed national government. The Raëlian movement's published timeline divides the coming years into specific phases: the 2022-2025 site location analysis phase, the 2025-2027 site acquisition phase, the 2027-2030 planning and construction phase, and post-2030 caretaker mode awaiting the alliance's arrival. The corpus registers this timeline without endorsing its specific dates as confirmed — the project's actual progress will depend on the success of the diplomatic negotiations and the specific political conditions in the host country — but registers the project's existence and current stage as facts of the present.
+נכון לשנת 2026, פרויקט השגרירות נמצא בשלב המתקדם ביותר בתולדותיו בני חצי המאה. התנועה הראלית ניהלה מעורבות דיפלומטית שיטתית עם מדינות מארחות פוטנציאליות לאורך שלושת העשורים האחרונים, עם הפרוטוקול האופציונלי של האו״ם בנוגע לשגרירויות לחוצנים מ-2015, הברית למגע דיפלומטי חוץ-ארצי מ-2021, המצגות מ-2022 לראשי חמישים ערים ברחבי העולם, והמשמעותי מכולם — מזכר שיתוף הפעולה מ-2024 שנחתם עם ממשלה לאומית בלתי-מזוהה. לוח הזמנים שפרסמה התנועה הראלית מחלק את השנים הבאות לשלבים ספציפיים: שלב ניתוח מיקום האתר 2022–2025, שלב רכישת האתר 2025–2027, שלב התכנון והבנייה 2027–2030, ומ-2030 ואילך מצב שמירה הממתין לבואה של הברית. הקורפוס רושם לוח זמנים זה מבלי לאשר את תאריכיו הספציפיים כמובטחים — התקדמותו הממשית של הפרויקט תהיה תלויה בהצלחת המשאים ומתנים הדיפלומטיים ובתנאים הפוליטיים הספציפיים במדינה המארחת — אך רושם את עצם קיומו ושלבו הנוכחי של הפרויקט כעובדות של ההווה.
 
-The embassy is **substantially source-grounded** within the corpus's broader analytical apparatus. Unlike the Cosmic Competition framework, the Doubled Signature principle, and the Cosmic Chain framework — all of which involve substantial corpus interpretive construction extending beyond direct source-material content — the embassy's detailed specifications, location preferences, operational requirements, and projected role come directly from the Raëlian source material. The corpus's interpretive contribution is principally the integration of the embassy material with the broader Aquarian-age framework. Within the broader interpretive landscape, the embassy occupies an unusual position: it is one of the few elements of the corpus's framework that is **operationally testable in the near term** — the embassy's actual construction (or non-construction) within the projected timeline will provide direct empirical evidence regarding the source-material's predictive content, in a way that most other elements of the framework do not permit.
+השגרירות היא **מעוגנת במקור באופן ניכר** בתוך המנגנון האנליטי הרחב יותר של הקורפוס.{{ footnote(id="1") }} בניגוד למסגרת התחרות הקוסמית, עקרון החתימה הכפולה, ומסגרת השרשרת הקוסמית — שכולן כרוכות במבנה פרשני קורפוסי ניכר המשתרע מעבר לתוכן החומר-המקורי הישיר — המפרטים המפורטים של השגרירות, העדפות המיקום, הדרישות התפעוליות והתפקיד המוקרן באים ישירות מן החומר המקורי הראלי. תרומתו הפרשנית של הקורפוס היא בעיקר שילוב החומר על השגרירות עם מסגרת עידן הדלי הרחבה יותר. בתוך הנוף הפרשני הרחב יותר, השגרירות תופסת מקום יוצא דופן: היא אחד המרכיבים המעטים של מסגרת הקורפוס שהוא **ניתן לבדיקה תפעולית בטווח הקרוב** — בנייתה הממשית (או אי-בנייתה) של השגרירות בתוך לוח הזמנים המוקרן תספק ראיות אמפיריות ישירות בנוגע לתוכן הניבויי של החומר-המקורי, באופן שרוב מרכיבי המסגרת האחרים אינם מאפשרים.{{ footnote(id="2") }}
 
-## Etymology and naming
+## אטימולוגיה ושמות
 
-The embassy concept has several distinct designations across the source material and the corpus's broader treatment.
+מושג השגרירות נושא כמה כינויים נבדלים לאורך החומר המקורי וטיפול הקורפוס הרחב יותר.
 
-### "Embassy" as the principal designation
+### »שגרירות« ככינוי העיקרי
 
-The English term **"Embassy"** is the principal designation in both the source material and the corpus, drawing on the diplomatic vocabulary of the modern international system: an embassy is the formal diplomatic representation of one polity to another, with specific operational features (extraterritorial status, formal protocols, designated facilities) distinguishing embassies from other forms of cross-polity contact.
+המונח האנגלי **»Embassy«** (שגרירות) הוא הכינוי העיקרי הן בחומר המקורי והן בקורפוס, הנשען על אוצר המילים הדיפלומטי של המערכת הבינלאומית המודרנית: שגרירות היא הייצוג הדיפלומטי הרשמי של ישות מדינית אחת בפני אחרת, עם מאפיינים תפעוליים ספציפיים (מעמד אקסטריטוריאלי, נהלים רשמיים, מתקנים מיועדים) המבדילים שגרירויות מצורות אחרות של מגע חוצה-ישויות.
 
-### Source-material variations
+### וריאציות בחומר המקורי
 
-The source material uses several distinct phrasings:
+החומר המקורי משתמש בכמה ניסוחים נבדלים:
 
-- **"The residence"** — the source material's most common term in the original 1973-1974 specifications, referring specifically to the building complex within the broader site
-- **"The embassy of the Elohim"** — the formal designation used in subsequent source-material communications
-- **"Our embassy"** — the source's specific phrasing in the December 13, 1997 message
-- **"The Third Temple"** — the source's identification of the embassy with the Jewish prophetic-apocalyptic tradition's expected third temple
+- **»המעון«** — המונח הנפוץ ביותר של החומר המקורי במפרטים המקוריים 1973–1974, המתייחס במיוחד למתחם הבניינים בתוך האתר הרחב יותר
+- **»שגרירות האלוהים«** — הכינוי הרשמי בו נעשה שימוש בתקשורות חומר-מקורי מאוחרות יותר
+- **»שגרירותנו«** — הניסוח הספציפי של המקור במסר מ-13 בדצמבר 1997
+- **»בית המקדש השלישי«** — זיהוי השגרירות מצד המקור עם בית המקדש השלישי המצופה של המסורת הנבואית-אפוקליפטית היהודית
 
-### Related conceptual terminology
+### מינוח מושגי נלווה
 
-Several related terms operate within the framework:
+כמה מונחים נלווים פועלים בתוך המסגרת:
 
-- **"Extraterritorial status"** — the legal exemption from host country jurisdiction the embassy site must possess
-- **"The Great Return"** — the source's specific phrasing for the alliance's projected formal arrival
-- **"The Inheritance event"** — the corpus's term for the formal transmission of accumulated alliance knowledge at the embassy
-- **"The replica embassy"** — the public-facing model of the embassy that the source specifies will be constructed near the functional embassy
+- **»מעמד אקסטריטוריאלי«** — הפטור המשפטי מסמכות השיפוט של המדינה המארחת שאתר השגרירות חייב להחזיק
+- **»השיבה הגדולה«** — הניסוח הספציפי של המקור לבואה הרשמי המוקרן של הברית
+- **»אירוע הירושה«** — מונח הקורפוס להעברה הרשמית של ידע הברית הצבור בשגרירות
+- **»שגרירות העתק«** — דגם השגרירות הפונה לציבור שהמקור מציין כי ייבנה סמוך לשגרירות התפקודית
 
-## Conventional understanding
+## ההבנה המקובלת
 
-The embassy concept as a specific operational project is largely a Raëlian-movement initiative, with broader scholarly and theological treatment being principally engagement with the related Jewish Third Temple traditions and Christian Parousia traditions rather than with the embassy project specifically.
+מושג השגרירות כפרויקט תפעולי ספציפי הוא במידה רבה יוזמה של התנועה הראלית, כאשר הטיפול המחקרי והתיאולוגי הרחב יותר הוא בעיקר עיסוק במסורות בית המקדש השלישי היהודיות הנלוות ובמסורות הפארוסיה הנוצריות, ולא בפרויקט השגרירות באופן ספציפי.
 
-### Mainstream Jewish theological-historical treatment
+### טיפול תיאולוגי-היסטורי יהודי מרכזי
 
-Mainstream Jewish theological-historical treatment of the Third Temple tradition has produced substantial scholarship across the past several centuries.
+הטיפול התיאולוגי-ההיסטורי היהודי המרכזי במסורת בית המקדש השלישי הניב מחקר ניכר לאורך המאות האחרונות.
 
-**The First Temple (Solomonic)** was built by Solomon c. 950 BCE on the Temple Mount in Jerusalem, with detailed specifications preserved in 1 Kings 6-8 and 2 Chronicles 2-7. It served as the principal cultic center of the Israelite religion until its destruction by the Babylonians under Nebuchadnezzar II in 586 BCE.
+**בית המקדש הראשון (של שלמה)** נבנה בידי שלמה כ-950 לפנה״ס על הר הבית בירושלים, עם מפרטים מפורטים השמורים במלכים א ו–ח ובדברי הימים ב ב–ז. הוא שימש כמרכז הפולחני העיקרי של הדת הישראלית עד לחורבנו בידי הבבלים בהנהגת נבוכדנצר השני ב-586 לפנה״ס.
 
-**The Second Temple** was built following the Babylonian Exile, with construction beginning approximately 538 BCE and substantial completion by 516 BCE. Herod the Great substantially expanded the temple beginning approximately 20 BCE, producing the "Herodian Temple" that was the principal religious-political center of Second Temple Judaism. The temple was destroyed by the Romans under Titus in 70 CE during the Jewish Revolt.
+**בית המקדש השני** נבנה לאחר גלות בבל, כאשר הבנייה החלה כ-538 לפנה״ס והושלמה במידה ניכרת עד 516 לפנה״ס. הורדוס הגדול הרחיב את המקדש במידה ניכרת החל מכ-20 לפנה״ס, ויצר את »המקדש ההורדיאני« שהיה המרכז הדתי-הפוליטי העיקרי של היהדות של בית שני. המקדש נחרב בידי הרומאים בהנהגת טיטוס ב-70 לספירה בעת המרד היהודי.
 
-**The Third Temple in Jewish prophetic tradition**. Jewish prophetic-apocalyptic tradition has long anticipated a Third Temple that will be built in the messianic age, with substantial textual material across the prophetic books (particularly Ezekiel 40-48, with the elaborate "Ezekiel's Temple" specifications) and the broader rabbinic-apocalyptic tradition.
+**בית המקדש השלישי במסורת הנבואית היהודית**. המסורת הנבואית-אפוקליפטית היהודית ציפתה זה מכבר לבית מקדש שלישי שייבנה בימות המשיח, עם חומר טקסטואלי ניכר לאורך ספרי הנבואה (בפרט יחזקאל מ–מח, עם מפרטי »מקדש יחזקאל« המפורטים){{ cite(id="halperin-faces-of-the-chariot", text="[1]", title="הלפרין, *The Faces of the Chariot* (1988) — קליטת חזון המקדש של יחזקאל") }} ולאורך המסורת הרבנית-האפוקליפטית הרחבה יותר.{{ cite(id="maimonides-mishneh-torah", text="[2]", title="הרמב״ם, *משנה תורה, הלכות מלכים* יא א — המקדש בימות המשיח") }}
 
-**Contemporary mainstream Jewish positions on Third Temple construction** range from the explicit Temple Movement (which advocates for active preparation toward Third Temple construction), through traditional positions (which generally treat Third Temple construction as something that will occur in the messianic age but not through ordinary human initiative), to secular-Israeli positions (which generally regard Third Temple construction as politically destabilizing and not a current Israeli political priority).
+**עמדות יהודיות מרכזיות בנות-זמננו בנוגע לבניין בית המקדש השלישי** נעות מתנועת המקדש המפורשת (התומכת בהכנה פעילה לקראת בניין בית המקדש השלישי), דרך עמדות מסורתיות (המתייחסות בדרך כלל לבניין בית המקדש השלישי כדבר שיתרחש בימות המשיח אך לא ביוזמה אנושית רגילה), ועד עמדות חילוניות-ישראליות (הרואות בדרך כלל בבניין בית המקדש השלישי גורם מערער יציבות פוליטית ולא עדיפות פוליטית ישראלית נוכחית).
 
-The mainstream Jewish treatment generally does not engage the Raëlian embassy project directly. The Raëlian movement's identification of the embassy with the Third Temple is broadly not accepted within mainstream Jewish theological-historical scholarship.
+הטיפול היהודי המרכזי בדרך כלל אינו מתעסק בפרויקט השגרירות הראלי באופן ישיר. זיהוי השגרירות עם בית המקדש השלישי מצד התנועה הראלית אינו מתקבל בדרך כלל במחקר התיאולוגי-ההיסטורי היהודי המרכזי.
 
-### Mainstream Christian theological treatment
+### טיפול תיאולוגי נוצרי מרכזי
 
-Mainstream Christian theological treatment of the Parousia (the projected Second Coming) and related apocalyptic traditions has produced substantial scholarship across the past two millennia. The mainstream Christian treatment generally does not engage the Raëlian embassy project directly. The Raëlian framework's specific identification of the alliance's projected return with the Christian Parousia tradition is broadly not accepted within mainstream Christian theological-historical scholarship.
+הטיפול התיאולוגי הנוצרי המרכזי בפארוסיה (הביאה השנייה המוקרנת) ובמסורות האפוקליפטיות הנלוות הניב מחקר ניכר לאורך אלפיים השנים האחרונות. הטיפול הנוצרי המרכזי בדרך כלל אינו מתעסק בפרויקט השגרירות הראלי באופן ישיר. זיהויה הספציפי של המסגרת הראלית את שיבתה המוקרנת של הברית עם מסורת הפארוסיה הנוצרית אינו מתקבל בדרך כלל במחקר התיאולוגי-ההיסטורי הנוצרי המרכזי.
 
-### Mainstream international-diplomatic treatment
+### טיפול בינלאומי-דיפלומטי מרכזי
 
-The broader question of extraterritorial-status arrangements for diplomatic missions has substantial development in international law.
+השאלה הרחבה יותר של הסדרי מעמד אקסטריטוריאלי למשלחות דיפלומטיות זכתה לפיתוח ניכר במשפט הבינלאומי.
 
-**The Vienna Convention on Diplomatic Relations** (signed 1961, entered into force 1964) provides the principal contemporary framework for diplomatic missions and extraterritorial status, establishing standard diplomatic-mission protocols, immunities and privileges of diplomatic personnel, and the broader operational framework within which embassies between states operate.
+**אמנת וינה ליחסים דיפלומטיים** (נחתמה 1961, נכנסה לתוקף 1964) מספקת את המסגרת בת-זמננו העיקרית למשלחות דיפלומטיות ולמעמד אקסטריטוריאלי, ומכוננת נהלי משלחת דיפלומטית סטנדרטיים, חסינויות וזכויות של אנשי סגל דיפלומטי, והמסגרת התפעולית הרחבה יותר שבתוכה פועלות שגרירויות בין מדינות.{{ cite(id="vienna-convention-diplomatic-relations", text="[3]", title="אמנת וינה ליחסים דיפלומטיים (1961)") }}
 
-**Vatican City** is the principal contemporary example of a sovereign extraterritorial entity, occupying approximately 0.49 km² within Rome and serving as the spiritual and administrative center of the Roman Catholic Church. The Vatican City State was established by the Lateran Treaty of 1929, granting the Holy See full sovereignty over the territory.
+**קריית הוותיקן** היא הדוגמה בת-זמננו העיקרית לישות אקסטריטוריאלית ריבונית, התופסת כ-0.49 קמ״ר בתוך רומא ומשמשת כמרכז הרוחני והמנהלי של הכנסייה הקתולית. מדינת קריית הוותיקן כוננה באמנת לטראן מ-1929, שהעניקה לכס הקדוש ריבונות מלאה על השטח.{{ cite(id="lateran-treaty", text="[4]", title="אמנת לטראן (1929) — כינון מדינת קריית הוותיקן") }}
 
-**Sovereign Military Order of Malta** is another distinctive international-legal entity, recognized as a sovereign subject of international law without controlling specific territory in the conventional sense, with extraterritorial properties in Rome and various international diplomatic relationships.
+**מסדר מלטה הצבאי הריבוני** הוא ישות משפטית-בינלאומית נבדלת נוספת, המוכרת כנושא ריבוני של המשפט הבינלאומי בלא ששולטת בשטח ספציפי במובן המקובל, עם נכסים אקסטריטוריאליים ברומא ויחסים דיפלומטיים בינלאומיים שונים.
 
-**The broader question of extraterritorial status for non-state entities** has substantial complexity in contemporary international law. The Raëlian movement's request for extraterritorial status for the embassy site involves a non-conventional legal-diplomatic framework — the request is for extraterritorial status for an entity (the alliance) that is not yet in formal diplomatic relations with any host country and that will be in formal relations only after the embassy is built.
+**השאלה הרחבה יותר של מעמד אקסטריטוריאלי לישויות שאינן מדינות** טומנת בחובה מורכבות ניכרת במשפט הבינלאומי בן-זמננו. בקשת התנועה הראלית למעמד אקסטריטוריאלי לאתר השגרירות כרוכה במסגרת משפטית-דיפלומטית בלתי-מקובלת — הבקשה היא למעמד אקסטריטוריאלי עבור ישות (הברית) שאינה עדיין ביחסים דיפלומטיים רשמיים עם אף מדינה מארחת ושתהיה ביחסים רשמיים רק לאחר שתיבנה השגרירות.
 
-### Mainstream UFO/UAP studies
+### מחקר עב״מים/UAP מרכזי
 
-The broader question of extraterrestrial contact has received substantial recent academic and governmental attention, with detailed treatment under *Modern reinterpretations* below. The mainstream UFO/UAP studies have generally not engaged the Raëlian embassy project directly, with academic and governmental UAP studies focusing on observational data, military encounter reports, and broader empirical questions rather than on specific religious-prophetic frameworks within which contact is anticipated.
+השאלה הרחבה יותר של מגע חוץ-ארצי זכתה לתשומת לב אקדמית וממשלתית ניכרת לאחרונה, עם טיפול מפורט תחת *פרשנויות מודרניות* להלן. מחקר העב״מים/UAP המרכזי בדרך כלל לא התעסק בפרויקט השגרירות הראלי באופן ישיר, כאשר מחקרי ה-UAP האקדמיים והממשלתיים מתמקדים בנתוני תצפית, בדיווחי מפגש צבאיים, ובשאלות אמפיריות רחבות יותר, ולא במסגרות דתיות-נבואיות ספציפיות שבתוכן מצופה מגע.
 
-## In primary sources
+## במקורות הראשוניים
 
-### The 1973-1974 specifications
+### המפרטים מ-1973–1974
 
-The principal primary-source material for the embassy specifications is the section "The New Commandments — Your Mission" in *The Book Which Tells the Truth* (Vorilhon/Raël, 1974). The source's detailed specifications include the residence with seven guest rooms (each with separate bathroom), the conference room for 21 people, the swimming pool, the dining room for 21 people, the surrounding park with walls preventing exterior viewing, the residence situated at minimum 1,000 meters from the park walls, the maximum two-story residence height, the inner barrier of trees and bushes screening the residence, the two entrances in the surrounding wall (one south, one north), the two entrances in the residence itself, the roof terrace with a 12-meter-diameter spacecraft landing capability, the air-space restriction (no direct military or radar surveillance), the extraterritorial status requirement, and the prophet's permitted residence (with wife, children, servants, and invited guests).
+החומר הראשוני העיקרי למפרטי השגרירות הוא המדור »המצוות החדשות — שליחותך« ב*הספר שאומר את האמת* (וורילון/ראל, 1974).{{ cite(id="the-book-which-tells-the-truth", text="[5]", title="וורילון (ראל), *הספר שאומר את האמת* (1974), 'המצוות החדשות — שליחותך' — מפרטי השגרירות") }} המפרטים המפורטים של המקור כוללים את המעון עם שבעה חדרי אורחים (שלכל אחד חדר רחצה נפרד), חדר הוועידות ל-21 איש, בריכת השחייה, חדר האוכל ל-21 איש, הפארק המקיף עם חומות המונעות צפייה חיצונית, המעון הממוקם במרחק 1,000 מטר לפחות מחומות הפארק, גובה המעון של שתי קומות לכל היותר, המחיצה הפנימית של עצים ושיחים המסתירה את המעון, שני הפתחים בחומה המקיפה (אחד בדרום, אחד בצפון), שני הפתחים במעון עצמו, מרפסת הגג עם יכולת נחיתה לחללית בקוטר 12 מטר, הגבלת המרחב האווירי (ללא מעקב צבאי או מכ״מ ישיר), דרישת המעמד האקסטריטוריאלי, ומגוריו המותרים של הנביא (עם אשתו, ילדיו, משרתיו ואורחיו המוזמנים).
 
-The specifications also include the security features distinguishing the alliance-officer area from the human-occupied area: the seven rooms are to be located directly under the terrace, separated from the human-section by a thick metal door (lockable from the inside, kept permanently closed); an aseptic chamber is to be built at the entrance to the conference room, providing biosecurity separation between the human and alliance environments.
+המפרטים כוללים גם את מאפייני האבטחה המבדילים בין אזור קציני הברית לאזור התפוס בידי בני אדם: שבעת החדרים אמורים להיות ממוקמים ישירות מתחת למרפסת, מופרדים מן החלק האנושי בדלת מתכת עבה (הניתנת לנעילה מבפנים, ונשמרת סגורה לתמיד); תא אספטי אמור להיבנות בכניסה לחדר הוועידות, ולספק הפרדת ביו-ביטחון בין הסביבות האנושית והבריתית.
 
-The source's framing of the embassy's purpose is explicit: the embassy is the location at which the alliance will land openly and "give you our scientific knowledge as our heritage to all peoples of the Earth." The completion of the embassy is one of the conditions for the alliance's open return — the others being a sufficient population of humans wanting the return ("If those with warlike temperaments are rendered harmless all over the whole world... If the love of life and humanity's love for us and itself are strong enough"), and the absence of military threat to the alliance craft.
+מסגור מטרת השגרירות מצד המקור מפורש: השגרירות היא המיקום שבו תנחת הברית בגלוי ו»תיתן לכם את הידע המדעי שלנו כמורשתנו לכל עמי הארץ«. השלמת השגרירות היא אחד התנאים לשיבתה הגלויה של הברית — האחרים הם אוכלוסייה מספקת של בני אדם הרוצים בשיבה (»אם אלו בעלי הטמפרמנט הלוחמני יהפכו לבלתי-מזיקים בכל העולם כולו... אם אהבת החיים ואהבת האנושות אלינו ולעצמה חזקות מספיק«), והיעדר איום צבאי על חללית הברית.
 
-The source also specifies the broader operational practices supporting the embassy project: the appointment of a national representative in each country responsible for communicating the truth and coordinating local efforts, the maintenance of records of those who contribute financially to the embassy's construction and upkeep (whose contributions, however modest, will be rewarded when the alliance comes), and the annual gathering on a mountain near the residence at which all those who have heard about the alliance through these writings and want them to come will assemble to think intensely about the alliance and hope for its coming.
+המקור מציין גם את הנהלים התפעוליים הרחבים יותר התומכים בפרויקט השגרירות: מינוי נציג לאומי בכל מדינה האחראי על העברת האמת ותיאום מאמצים מקומיים, ניהול רישומים של אלו התורמים כספית לבניית השגרירות ולתחזוקתה (שתרומותיהם, ולו צנועות, יזכו לגמול בבוא הברית), והכינוס השנתי על הר סמוך למעון שאליו יתאספו כל אלו ששמעו על הברית דרך כתבים אלה ורוצים בבואה, כדי לחשוב בעוצמה על הברית ולקוות לבואה.
 
-### The 1975 Roc Plat second contact
+### המגע השני בְּרוֹק פּלָה מ-1975
 
-The principal primary-source elaborations of the embassy specifications occur in *Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), recording the second contact between Raël and the alliance on October 7, 1975 at Roc Plat. The 1975 elaborations include various clarifications of the embassy's projected role, additional context for the broader Aquarian-age program within which the embassy operates, and the specific identification of Raël's role as the prophet responsible for organizing the embassy project.
+פירוטי החומר-המקורי העיקריים של מפרטי השגרירות מופיעים ב*חוצנים לקחו אותי לכוכבם* (וורילון/ראל, 1975), המתעד את המגע השני בין ראל לברית ב-7 באוקטובר 1975 ברוק פלה.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[6]", title="וורילון (ראל), *חוצנים לקחו אותי לכוכבם* (1975) — פירוטי המגע השני ברוק פלה") }} הפירוטים מ-1975 כוללים הבהרות שונות לתפקידה המוקרן של השגרירות, הקשר נוסף לתוכנית עידן הדלי הרחבה יותר שבתוכה פועלת השגרירות, וזיהוי ספציפי של תפקיד ראל כנביא האחראי על ארגון פרויקט השגרירות.
 
-The source's specific framing of Raël's role: "You are the one whose coming was announced in all the religions by the ancient prophets, our representatives. You are the one who will bring back the shepherds' flock before the water is spilled, the one who will bring back to their creators those they have created."
+מסגור המקור הספציפי לתפקיד ראל: »אתה הוא שבואו בושר בכל הדתות בידי הנביאים הקדמונים, נציגינו. אתה הוא שתשיב את עדר הרועים בטרם יישפכו המים, זה שישיב לבוראיהם את אלו שהם בראו.«
 
-The source's specific framing of the Israeli context, addressed as a direct address to the people of Israel: "The State of Israel must give some territory located near Jerusalem to the Guide of Guides so that he may build there the residence, the embassy of the Elohim. The time has come, people of Israel, to build the New Jerusalem as it was foreseen. Claude Rael is the one who was foretold. Reread your writings and open your eyes."
+מסגור המקור הספציפי להקשר הישראלי, המופנה כפנייה ישירה לעם ישראל: »על מדינת ישראל לתת שטח כלשהו הממוקם סמוך לירושלים למדריך המדריכים, כדי שיוכל לבנות שם את המעון, שגרירות האלוהים. הגיעה העת, עם ישראל, לבנות את ירושלים החדשה כפי שנחזתה מראש. קלוד ראל הוא זה שנובא. קראו מחדש את כתביכם ופקחו את עיניכם.«
 
-The source explicitly invokes the Aries-age covenantal-relational framework, including the Hebrew lineage's role and the historical Hebrew-tradition mission: "We removed you from the clutches of the Egyptians, and you did not show yourselves worthy of our confidence; we entrusted you with a message destined for all humanity, and you jealously kept it instead of spreading it abroad." The source warns of the consequences of Israeli refusal: "This is your last chance, otherwise another country will welcome the Guide of Guides and build our embassy on its territory, and that country will be close to yours; it will be protected and happiness shall prevail, and the State of Israel will be destroyed once more."
+המקור מעלה במפורש את המסגרת הבריתית-יחסית של עידן הטלה, לרבות תפקיד השושלת העברית ושליחות המסורת העברית ההיסטורית: »הוצאנו אתכם מציפורני המצרים, ולא הוכחתם עצמכם ראויים לאמוננו; הפקדנו בידיכם מסר המיועד לכל האנושות, ואתם שמרתם אותו בקנאה במקום להפיצו ברבים.« המקור מזהיר מפני השלכות הסירוב הישראלי: »זוהי הזדמנותכם האחרונה, אחרת מדינה אחרת תקבל את פני מדריך המדריכים ותבנה את שגרירותנו על אדמתה, ואותה מדינה תהיה קרובה לשלכם; היא תזכה להגנה ואושר ישרור בה, ומדינת ישראל תיחרב פעם נוספת.«
 
-### The December 13, 1997 message authorizing relocation
+### המסר מ-13 בדצמבר 1997 המתיר העברה
 
-The principal primary-source material for the embassy's relocation from Israel is the message from Yahweh delivered to Raël on December 13, 1997 (the twenty-fourth anniversary of the original 1973 contact). The message's principal content:
+החומר הראשוני העיקרי להעברת השגרירות מישראל הוא המסר מאת יהוה שנמסר לראל ב-13 בדצמבר 1997 (יום השנה העשרים וארבעה למגע 1973 המקורי). תוכנו העיקרי של המסר:
 
-> *"It has been 24 years during which you Raelians, who have officially and publicly recognized us as your Creators, have worked so that we may be welcomed in the requested Embassy. Your devotion and your efforts have warmed our hearts."*
+> *»חלפו 24 שנה שבמהלכן אתם הראלים, אשר הכרתם בנו רשמית ובפומבי כבוראיכם, פעלתם כדי שנוכל להתקבל בשגרירות המבוקשת. מסירותכם ומאמציכם חיממו את לבנו.«*
 
-> *"In all the religions, there are people who deserve our love, but Raelians are the ones closest to us. They are our new Chosen People and will one day have a new Promised Land, because their love is based on consciousness and understanding, and not on blind faith."*
+> *»בכל הדתות יש אנשים הראויים לאהבתנו, אך הראלים הם הקרובים אלינו ביותר. הם העם הנבחר החדש שלנו ויום אחד תהיה להם ארץ מובטחת חדשה, משום שאהבתם מבוססת על תודעה והבנה ולא על אמונה עיוורת.«*
 
-> *"We asked that an Embassy be built to welcome us near Jerusalem, and the authorities of the stiff necked people have refused several times to grant the necessary authorizations and extra-territorial status. Our preference for Jerusalem is merely sentimental, because for us Jerusalem is everywhere where human beings love us, respect us and wish to welcome us with due respect."*
+> *»ביקשנו כי תיבנה שגרירות לקבל את פנינו סמוך לירושלים, ושלטונות העם קשה העורף סירבו פעמים אחדות להעניק את ההיתרים הנדרשים ואת המעמד האקסטריטוריאלי. העדפתנו לירושלים היא סנטימנטלית בלבד, שכן עבורנו ירושלים נמצאת בכל מקום שבו בני אדם אוהבים אותנו, מכבדים אותנו ומבקשים לקבל את פנינו בכבוד הראוי.«*
 
-> *"In the meantime, we must from now on ask for the necessary permission and extra-territorial status from all nations on Earth for the erection of our Embassy, and the radius of one kilometer can be composed of water as well as firm land, with the condition that navigation be prohibited."*
+> *»בינתיים, עלינו מעתה לבקש את ההיתר הדרוש ואת המעמד האקסטריטוריאלי מכל אומות תבל לשם הקמת שגרירותנו, ורדיוס הקילומטר האחד יכול להיות מורכב ממים כמו גם מקרקע יבשה, בתנאי שתיאסר השיט.«*
 
-> *"When a country grants this authorization, Israel will have, for the last time, a short period of reflection to grant this authorization and will keep the privilege, or the Embassy will be built elsewhere, and the people of David will lose our protection and will be dispersed."*
+> *»כאשר מדינה תעניק היתר זה, תהיה לישראל, בפעם האחרונה, תקופת מחשבה קצרה להעניק היתר זה ולשמור על הזכות, או שתיבנה השגרירות במקום אחר, ועם דוד יאבד את הגנתנו ויפוזר.«*
 
-> *"The country which will build the Embassy on its territory or on a territory it will give or sell to this effect, with the necessary extraterritorial status, will have a guaranteed and flourishing future, will benefit from our protection and will become the spiritual and scientific centre of the whole planet for the millenniums to come."*
+> *»המדינה שתבנה את השגרירות על אדמתה או על שטח שתיתן או תמכור למטרה זו, עם המעמד האקסטריטוריאלי הדרוש, יהיה לה עתיד מובטח ופורח, היא תזכה בהגנתנו ותהפוך למרכז הרוחני והמדעי של כל כדור הארץ לאלפי השנים הבאות.«*
 
-> *"The hour of our Great Return is near, and we will support and protect the most devoted ones among you."*
+> *»שעת שיבתנו הגדולה קרובה, ואנו נתמוך ונגן על המסורים שבכם ביותר.«*
 
-The 1997 message establishes several specific things: the formal authorization to seek extraterritorial status from all nations of Earth (rather than only Israel); the technical specification that the 1-kilometer radius can include water as well as firm land (with navigation prohibited in any water portion); the specific consequences for the host country (alliance protection, "guaranteed and flourishing future," status as "spiritual and scientific centre of the whole planet for the millenniums to come"); and the framework within which Israel retains a final option but is no longer the exclusive candidate.
+המסר מ-1997 מכונן כמה דברים ספציפיים: ההיתר הרשמי לבקש מעמד אקסטריטוריאלי מכל אומות תבל (ולא רק מישראל); המפרט הטכני שרדיוס הקילומטר האחד יכול לכלול מים כמו גם קרקע יבשה (כאשר השיט אסורה בכל חלק ימי); ההשלכות הספציפיות עבור המדינה המארחת (הגנת הברית, »עתיד מובטח ופורח«, מעמד כ»מרכז הרוחני והמדעי של כל כדור הארץ לאלפי השנים הבאות«); והמסגרת שבתוכה לישראל נותרת אופציה אחרונה אך היא אינה עוד המועמדת הבלעדית.
 
-### The Ezekiel 47:1-2 prophetic connection
+### הזיקה הנבואית ליחזקאל מז 1–2
 
-The framework's reading of the embassy's prophetic prefiguration draws principally on **Ezekiel 47:1-2**, with the Hebrew text and translation:
+קריאת המסגרת את הבישור הנבואי של השגרירות נשענת בעיקר על **יחזקאל מז 1–2**, עם הטקסט העברי והתרגום:
 
-> וַיְשִׁבֵנִי אֶל־פֶּתַח הַבַּיִת וְהִנֵּה־מַיִם יֹצְאִים מִתַּחַת מִפְתַּן הַבַּיִת קָדִימָה
+> <span class="hebrew">וַיְשִׁבֵנִי אֶל־פֶּתַח הַבַּיִת וְהִנֵּה־מַיִם יֹצְאִים מִתַּחַת מִפְתַּן הַבַּיִת קָדִימָה</span>
 > *Vayeshiveni el petach ha-bayit, ve-hineh mayim yotz'im mi-tachat miftan ha-bayit kadimah*
-> "Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward."
+> »וישבני אל פתח הבית, והנה מים יוצאים מתחת מפתן הבית קדימה.«
 
-The Hebrew מַיִם יֹצְאִים (*mayim yotz'im*), "waters going out," from the threshold of the temple is read by the framework as the Hebrew Bible's most direct prefiguration of the Aquarian-age water-bearer iconography. Ezekiel's vision describes water issuing from the temple, flowing eastward, growing into a river, eventually reaching the Dead Sea and rejuvenating its dead waters. The framework reads this as the prophetic image of the Aquarian-age pouring-out as it would unfold from the rebuilt temple, which the source identifies with the embassy. The water flowing from the threshold of the embassy, transforming the world it reaches, restoring what had been dead — this is the image Ezekiel was shown, recorded in his book in the vocabulary available to him.
+ה<span class="hebrew">מַיִם יֹצְאִים</span> (*mayim yotz'im*), »מים יוצאים«, ממפתן המקדש נקראים על ידי המסגרת כבישור הישיר ביותר של המקרא העברי לאיקונוגרפיית נושא-המים של עידן הדלי. חזון יחזקאל מתאר מים היוצאים מן המקדש, זורמים קדימה (מזרחה), הולכים וגדלים לנהר, ומגיעים בסופו של דבר אל ים המלח ומחיים את מימיו המתים. המסגרת קוראת זאת כדימוי הנבואי של מזיגת עידן הדלי כפי שתתפרש מן המקדש הבנוי מחדש, אותו מזהה המקור עם השגרירות. המים הזורמים ממפתן השגרירות, משנים את העולם אליו הם מגיעים, ומשיבים לחיים את שהיה מת — זהו הדימוי שהוראה ליחזקאל, שנרשם בספרו באוצר המילים שעמד לרשותו.
 
-The framework reads the embassy's projected operational role through this prophetic lens: the embassy will not merely be a meeting place for diplomats. It will be, on the source's framing, the operational center from which the Aquarian-age transformative content flows outward across the planet. Pilgrimage to the embassy, educational and scientific institutions clustering around it, the embassy as the spiritual and intellectual center of the world for millennia to come — all of this is the Ezekiel river made institutional.
+המסגרת קוראת את תפקידה התפעולי המוקרן של השגרירות דרך עדשה נבואית זו: השגרירות לא תהיה אך מקום מפגש לדיפלומטים. היא תהיה, לפי מסגור המקור, המרכז התפעולי שממנו זורם החוצה תוכן התמורה של עידן הדלי ברחבי כדור הארץ. עלייה לרגל אל השגרירות, מוסדות חינוכיים ומדעיים המתקבצים סביבה, השגרירות כמרכז הרוחני והאינטלקטואלי של העולם לאלפי שנים הבאות — כל זה הוא נהר יחזקאל שהפך למוסדי.
 
-### The Acts 15:16 rebuilt-tabernacle passage
+### קטע משכן דוד הבנוי מחדש במעשי השליחים טו 16
 
-The framework's secondary prophetic prefiguration draws on **Acts 15:16**:
+הבישור הנבואי המשני של המסגרת נשען על **מעשי השליחים טו 16**:
 
 > μετὰ ταῦτα ἀναστρέψω καὶ ἀνοικοδομήσω τὴν σκηνὴν Δαυὶδ τὴν πεπτωκυῖαν
 > *Meta tauta anastrepsō kai anoikodomēsō tēn skēnēn David tēn peptōkuian*
-> "After this I will return, and will build again the tabernacle of David, which is fallen down."
+> »אחרי זאת אשוב ואבנה מחדש את סוכת דוד הנופלת.«
 
-The Greek verb ἀναστρέφω (*anastrephō*), "to turn back, to return," indicates a return after departure; the verb ἀνοικοδομέω (*anoikodomeō*), "to build again, to rebuild," indicates restoration of what had been destroyed. The phrase τὴν σκηνὴν Δαυίδ (*tēn skēnēn David*), "the tabernacle of David," refers to the Davidic political-religious structure — the kingdom David established, the tabernacle that housed the Ark before Solomon's Temple, and by extension the whole alliance-Israelite arrangement that had governed the alliance's Earth presence during the Aries age.
+הפועל היווני ἀναστρέφω (*anastrephō*), »לפנות אחורה, לשוב«, מציין שיבה לאחר עזיבה; הפועל ἀνοικοδομέω (*anoikodomeō*), »לבנות מחדש, לבנות שנית«, מציין שיקום של מה שנחרב. הביטוי τὴν σκηνὴν Δαυίδ (*tēn skēnēn David*), »סוכת דוד«, מתייחס למבנה הפוליטי-הדתי הדוידי — הממלכה שכונן דוד, המשכן שאכסן את הארון בטרם מקדש שלמה, ובהרחבה כל ההסדר הבריתי-ישראלי שניהל את נוכחות הברית בכדור הארץ במהלך עידן הטלה.
 
-The framework reads the passage as the source's preferred New Testament passage for the Aquarian-age return: a return after departure, a rebuilding of what had been brought low, a restoration of the alliance-presence operational arrangement that had been the principal cosmic-political structure during the Aries age. The "rebuilding" anticipated in the passage is, on the source's reading, the establishment of the embassy and the alliance's return at the embassy's completion.
+המסגרת קוראת את הקטע כקטע הברית החדשה המועדף של המקור לשיבת עידן הדלי: שיבה לאחר עזיבה, בנייה מחדש של מה שהושפל, שיקום של הסדר התפעולי של נוכחות הברית שהיה המבנה הקוסמי-פוליטי העיקרי במהלך עידן הטלה. ה»בנייה מחדש« המצופה בקטע היא, לפי קריאת המקור, כינון השגרירות ושיבת הברית בעם השלמת השגרירות.
 
-## The concept's content
+## תוכן המושג
 
-### The basic operational features
+### המאפיינים התפעוליים הבסיסיים
 
-The embassy operates through several interrelated operational features:
+השגרירות פועלת דרך כמה מאפיינים תפעוליים שלובים זה בזה:
 
-**Physical-architectural specifications**. The detailed specifications outlined under *In primary sources* above provide the operational baseline. The specifications are detailed and operationally specific, reflecting the practical requirements of a structure that must accommodate two different species across both ceremonial-formal and continuing-operational use.
+**מפרטים פיזיים-אדריכליים**. המפרטים המפורטים המתוארים תחת *במקורות הראשוניים* לעיל מספקים את הבסיס התפעולי. המפרטים מפורטים וספציפיים תפעולית, ומשקפים את הדרישות המעשיות של מבנה שעליו לאכלס שני מינים שונים הן בשימוש טקסי-רשמי והן בשימוש תפעולי-מתמשך.
 
-**Extraterritorial legal status**. The site must be granted extraterritorial status by the host country, with legal exemption from the host country's jurisdiction analogous to the diplomatic-mission framework of the Vienna Convention or the sovereign status of Vatican City.
+**מעמד משפטי אקסטריטוריאלי**. לאתר חייב להיות מוענק מעמד אקסטריטוריאלי על ידי המדינה המארחת, עם פטור משפטי מסמכות השיפוט של המדינה המארחת בדומה למסגרת המשלחת הדיפלומטית של אמנת וינה או למעמד הריבוני של קריית הוותיקן.
 
-**Air-space restriction**. The air space above and around the residence must not be under direct military or radar surveillance, providing the operational conditions under which alliance craft can land and depart without military or surveillance interference.
+**הגבלת מרחב אווירי**. המרחב האווירי מעל המעון וסביבו אינו יכול להיות תחת מעקב צבאי או מכ״מ ישיר, ובכך מספק את התנאים התפעוליים שתחתם יכולה חללית הברית לנחות ולהמריא ללא הפרעה צבאית או מעקב.
 
-**Biosecurity separation**. The embassy's design separates the human-occupied and alliance-officer areas through specific architectural features (the thick metal door under the terrace, the aseptic chamber at the conference-room entrance), reflecting the practical biosecurity requirements of cross-species cohabitation.
+**הפרדת ביו-ביטחון**. תכנון השגרירות מפריד בין האזורים התפוסים בידי בני אדם לאזורי קציני הברית באמצעות מאפיינים אדריכליים ספציפיים (דלת המתכת העבה מתחת למרפסת, התא האספטי בכניסה לחדר הוועידות), ומשקף את דרישות הביו-ביטחון המעשיות של מגורים משותפים בין-מיניים.
 
-**Continuing operational role**. Beyond the initial inheritance event, the embassy will function as the operational center for the Aquarian age's subsequent development across the millennia to come, hosting continuing alliance-humanity meetings and serving as the focal point for pilgrimage, educational and scientific institutions, and broader cultural development.
+**תפקיד תפעולי מתמשך**. מעבר לאירוע הירושה הראשוני, השגרירות תתפקד כמרכז התפעולי לפיתוחו של עידן הדלי לאורך אלפי השנים הבאות, תארח מפגשי ברית-אנושות מתמשכים, ותשמש כמוקד לעלייה לרגל, למוסדות חינוכיים ומדעיים, ולפיתוח תרבותי רחב יותר.
 
-### The conditions for the alliance's open return
+### התנאים לשיבתה הגלויה של הברית
 
-The source specifies several specific conditions that must be met for the alliance's open return to occur:
+המקור מציין כמה תנאים ספציפיים שיש לקיים כדי שתתרחש שיבתה הגלויה של הברית:
 
-**The embassy must be built**. The completion of the embassy is the first specific operational condition. The alliance will not arrive without a designated physical structure prepared to receive them.
+**השגרירות חייבת להיבנות**. השלמת השגרירות היא התנאי התפעולי הספציפי הראשון. הברית לא תגיע ללא מבנה פיזי מיועד המוכן לקבלה.
 
-**Sufficient human population must want the return**. The source's framing: humanity must have "the love of life and humanity's love for us and itself" be "strong enough" — a sufficient population of humans must consciously want the alliance's return, recognizing the alliance as creators rather than as gods or as adversaries.
+**אוכלוסייה אנושית מספקת חייבת לרצות בשיבה**. מסגור המקור: על האנושות לקיים »אהבת חיים ואהבת האנושות אלינו ולעצמה« שתהיה »חזקה מספיק« — אוכלוסייה מספקת של בני אדם חייבת לרצות במודע בשיבת הברית, ולהכיר בברית כבוראים ולא כאלים או כיריבים.
 
-**Military threat must be neutralized**. The source's framing: the alliance craft must not be threatened by humanity's destructive military forces. The broader demilitarization commandment that the source articulates is one specific operational condition for the alliance's return — a humanity that retained its current military-confrontational posture would not be one that the alliance could safely return to.
+**האיום הצבאי חייב להיות מנוטרל**. מסגור המקור: חללית הברית אינה יכולה להיות מאוימת בידי כוחותיה הצבאיים ההרסניים של האנושות. מצוות הפירוז הרחבה יותר שהמקור מנסח היא תנאי תפעולי ספציפי אחד לשיבת הברית — אנושות ששמרה על תנוחתה הצבאית-עימותית הנוכחית לא תהיה כזו שהברית תוכל לשוב אליה בבטחה.
 
-**Conscious recognition rather than blind faith**. The source's specific framing: the humans welcoming the alliance must do so on the basis of consciousness and understanding rather than on the basis of blind religious faith. The Aquarian-age return is to be received by a scientifically and philosophically mature humanity that has evaluated the alliance's content on its rational merits.
+**הכרה מודעת ולא אמונה עיוורת**. מסגור המקור הספציפי: בני האדם המקבלים את פני הברית חייבים לעשות זאת על בסיס תודעה והבנה ולא על בסיס אמונה דתית עיוורת. שיבת עידן הדלי אמורה להתקבל בידי אנושות בוגרת מדעית ופילוסופית שהעריכה את תוכן הברית על פי מעלותיו הרציונליות.
 
-### The inheritance event
+### אירוע הירושה
 
-The framework reads the embassy as the operational location for the **inheritance event** — the formal transmission of accumulated alliance knowledge from the alliance to humanity that occurs following the alliance's open return.
+המסגרת קוראת את השגרירות כמיקום התפעולי ל**אירוע הירושה** — ההעברה הרשמית של ידע הברית הצבור מן הברית לאנושות המתרחשת בעקבות שיבתה הגלויה של הברית.
 
-The specific content of the inheritance event includes:
+התוכן הספציפי של אירוע הירושה כולל:
 
-**Scientific knowledge transmission**. The alliance's accumulated scientific knowledge — biotechnology, advanced physics, propulsion technologies, broader scientific content — will be transmitted to humanity in forms appropriate to humanity's current scientific maturity and capacity to integrate the transferred knowledge.
+**העברת ידע מדעי**. הידע המדעי הצבור של הברית — ביוטכנולוגיה, פיזיקה מתקדמת, טכנולוגיות הנעה, תוכן מדעי רחב יותר — יועבר לאנושות בצורות המתאימות לבגרות המדעית הנוכחית של האנושות וליכולתה להטמיע את הידע המועבר.
 
-**Political-philosophical content**. The alliance's accumulated political-philosophical content — the broader cosmic-political situation, the Cosmic Chain framework, the various alliance-internal political and ethical traditions — will be transmitted to humanity as the broader cosmic context for humanity's projected role as a future creator civilization.
+**תוכן פוליטי-פילוסופי**. התוכן הפוליטי-הפילוסופי הצבור של הברית — המצב הקוסמי-הפוליטי הרחב יותר, מסגרת השרשרת הקוסמית, המסורות הפוליטיות והאתיות הפנים-בריתיות השונות — יועבר לאנושות כהקשר הקוסמי הרחב יותר לתפקידה המוקרן של האנושות כציוויליזציית בורא עתידית.
 
-**Confirmation of the broader corpus content**. The alliance's open return will provide direct confirmation (or in specific cases, correction) of the broader corpus content — the Genesis 1 creation framework, the various age-specific operations, the seven creator teams and seven races content, the broader cosmological framework. The corpus's specific reconstructions will be either substantially confirmed or, in specific cases, corrected by the alliance's direct authoritative testimony.
+**אישור תוכן הקורפוס הרחב יותר**. שיבתה הגלויה של הברית תספק אישור ישיר (או במקרים ספציפיים, תיקון) לתוכן הקורפוס הרחב יותר — מסגרת הבריאה של בראשית א, המבצעים השונים הספציפיים לעידנים, תוכן שבע צוותי הבורא ושבעת הגזעים, המסגרת הקוסמולוגית הרחבה יותר. השחזורים הספציפיים של הקורפוס יאוששו במידה ניכרת, או במקרים ספציפיים יתוקנו, בידי עדותה הסמכותית הישירה של הברית.
 
-**Initiation of subsequent operational arrangements**. The inheritance event will inaugurate the subsequent millennia-long operational arrangement between the alliance and humanity, with the embassy serving as the principal operational center across the subsequent centuries.
+**חניכת הסדרים תפעוליים מאוחרים**. אירוע הירושה יחנוך את ההסדר התפעולי בן אלפי השנים שיבוא בין הברית לאנושות, כאשר השגרירות תשמש כמרכז התפעולי העיקרי לאורך המאות הבאות.
 
-### The replica embassy and broader infrastructure
+### שגרירות העתק והתשתית הרחבה יותר
 
-The source specifies that a **replica embassy**, open to the public, will be constructed near the functional embassy to allow ordinary visitors to experience the site without disrupting the ongoing diplomatic and operational activities.
+המקור מציין כי **שגרירות עתק**, הפתוחה לציבור, תיבנה סמוך לשגרירות התפקודית כדי לאפשר למבקרים רגילים לחוות את האתר מבלי לשבש את הפעילות הדיפלומטית והתפעולית המתמשכת.
 
-The broader infrastructure projected to develop around the embassy includes:
+התשתית הרחבה יותר המוקרנת להתפתח סביב השגרירות כוללת:
 
-**Pilgrimage infrastructure**. Visitor accommodations, transportation infrastructure, supporting commercial and cultural facilities catering to pilgrimage from all nations to the site.
+**תשתית עלייה לרגל**. מתקני אירוח, תשתית תחבורה, ומתקנים מסחריים ותרבותיים תומכים המשרתים עלייה לרגל מכל האומות אל האתר.
 
-**Educational and scientific institutions**. Universities, research institutions, libraries, archival facilities clustering around the embassy and providing the institutional infrastructure for the integration of the alliance's transmitted knowledge with humanity's existing scientific and educational structures.
+**מוסדות חינוכיים ומדעיים**. אוניברסיטאות, מוסדות מחקר, ספריות, ומתקני ארכיון המתקבצים סביב השגרירות ומספקים את התשתית המוסדית להטמעת הידע המועבר של הברית עם המבנים המדעיים והחינוכיים הקיימים של האנושות.
 
-**Cultural and religious institutions**. The embassy as "the spiritual center of the world for millennia to come" will produce substantial cultural and religious infrastructure development, with the specific forms of this development being one of the principal cultural projects of the Aquarian age's mature phase.
+**מוסדות תרבותיים ודתיים**. השגרירות כ»מרכז הרוחני של העולם לאלפי שנים הבאות« תניב פיתוח תשתית תרבותית ודתית ניכר, כאשר הצורות הספציפיות של פיתוח זה יהיו אחד הפרויקטים התרבותיים העיקריים של השלב הבוגר של עידן הדלי.
 
-### The Aquarian-age operational role
+### התפקיד התפעולי של עידן הדלי
 
-The embassy's broader Aquarian-age operational role can be summarized as follows: the embassy is the physical site at which the **Pisces-to-Aquarius transition** is concretely realized in operational form. The Piscean age was characterized by indirect contact through prophetic mediation; the Aquarian age is characterized by direct contact through the formal embassy arrangement. The embassy is the specific architectural-operational form that the transition takes, with the broader Aquarian-age developments operating from the embassy as their physical-operational center.
+ניתן לסכם את התפקיד התפעולי הרחב יותר של השגרירות בעידן הדלי כך: השגרירות היא האתר הפיזי שבו ה**מעבר מעידן הדגים לעידן הדלי** מתממש בצורה תפעולית קונקרטית. עידן הדגים התאפיין במגע עקיף דרך תיווך נבואי; עידן הדלי מתאפיין במגע ישיר דרך הסדר השגרירות הרשמי. השגרירות היא הצורה האדריכלית-התפעולית הספציפית שלובש המעבר, כאשר התפתחויות עידן הדלי הרחבות יותר פועלות מן השגרירות כמרכזן הפיזי-התפעולי.
 
-The source's specific framing places the embassy at the center of the broader Aquarian-age program: the embassy is the location where the seven new commandments (geniocracy, humanitarianism, world government, demilitarization, science as religion, telepathic cultivation, the metaphysical clarifications) will receive their operational implementation through the alliance's direct involvement; the embassy is the site at which the broader Aquarian-age Apocalypse (the unveiling phase) becomes operationally complete; the embassy is the place from which the Aquarian-age transformative content flows outward to humanity at large.
+מסגור המקור הספציפי מציב את השגרירות במרכז תוכנית עידן הדלי הרחבה יותר: השגרירות היא המיקום שבו שבע המצוות החדשות (גניוקרטיה, הומניטריות, ממשלה עולמית, פירוז, מדע כדת, טיפוח טלפתי, ההבהרות המטפיזיות) יקבלו את יישומן התפעולי דרך מעורבותה הישירה של הברית; השגרירות היא האתר שבו ההתגלות הרחבה יותר של עידן הדלי (שלב החשיפה) הופכת לשלמה תפעולית; השגרירות היא המקום שממנו זורם החוצה תוכן התמורה של עידן הדלי אל האנושות בכללותה.
 
-## The history of the embassy project
+## תולדות פרויקט השגרירות
 
-### The 1973-1991 preparatory period
+### תקופת ההכנה 1973–1991
 
-The 1973 contact established the basic embassy specifications, with subsequent Raëlian-movement development across the 1970s and 1980s focused on the broader institutional infrastructure (the International Raëlian Movement's establishment, the broader Raëlian-philosophical content, the seven new commandments). The specific embassy project was held in preparatory mode during this period.
+מגע 1973 כונן את מפרטי השגרירות הבסיסיים, כאשר פיתוח התנועה הראלית לאורך שנות ה-70 וה-80 התמקד בתשתית המוסדית הרחבה יותר (כינון התנועה הראלית הבינלאומית, התוכן הראלי-הפילוסופי הרחב יותר, שבע המצוות החדשות). פרויקט השגרירות הספציפי הוחזק במצב הכנה בתקופה זו.
 
-In 1990, as a sign of special feelings toward the people of Israel, the Elohim agreed to Raël's suggestion to modify the original Raëlian Symbol of Infinity when used by Raëlian Movement branches in the West. The central swastika (which means "well-being" in Sanskrit and represents infinity in time) was replaced with a galaxy-shaped swirl. This change was made in an effort to help the negotiations for building the embassy in Israel and out of respect for the sensitivities of victims of the Nazi swastika during the Second World War. In Asia, where the swastika appears in Buddhist temples as a symbol of infinity in time, the original symbol remained in use.
+ב-1990, כאות לרגשות מיוחדים כלפי עם ישראל, הסכימו האלוהים להצעתו של ראל לשנות את סמל האינסוף הראלי המקורי כאשר הוא בשימוש בענפי התנועה הראלית במערב. צלב הקרס המרכזי (שמשמעותו »רווחה« בסנסקריט והוא מייצג אינסוף בזמן) הוחלף בסחרור בצורת גלקסיה. שינוי זה נעשה במאמץ לסייע למשאים ומתנים לבניית השגרירות בישראל ומתוך כבוד לרגישותם של קורבנות צלב הקרס הנאצי במלחמת העולם השנייה. באסיה, שבה צלב הקרס מופיע במקדשים בודהיסטיים כסמל לאינסוף בזמן, נותר הסמל המקורי בשימוש.
 
-### The 1991-1997 Israeli engagement
+### המעורבות הישראלית 1991–1997
 
-The first formal request was made on November 8, 1991 (Jewish New Year) to the Chief Rabbi in Jerusalem. A subsequent official request was made to Israel's Chief Rabbi several months later. The request was acknowledged, and a study of the application began. In summer 1993, an Israeli government commission concluded that the Raëlian Movement was peaceful in intent and posed no threat to Israel's security. Two rabbis on the commission reportedly concluded that "it would be better not to do anything against Rael in case he really is the awaited Messiah."
+הבקשה הרשמית הראשונה הוגשה ב-8 בנובמבר 1991 (ראש השנה היהודי) לרב הראשי בירושלים. בקשה רשמית נוספת הוגשה לרב הראשי של ישראל כעבור מספר חודשים. הבקשה אושרה, והחלה בחינה של הפנייה. בקיץ 1993, ועדה ממשלתית ישראלית הסיקה כי התנועה הראלית שוחרת שלום בכוונותיה ואינה מהווה איום על ביטחון ישראל. שני רבנים בוועדה הסיקו לפי הדיווח כי »מוטב לא לעשות דבר נגד ראל למקרה שהוא באמת המשיח המצופה«.
 
-In November 1993, a further direct request was made to Israel's Prime Minister Yitzhak Rabin, who was attending the Montreal Jewish Convention. After approximately a month, Rabin replied through one of his office representatives that he could not comply. Subsequent administrations have not reopened the question.
+בנובמבר 1993 הוגשה בקשה ישירה נוספת לראש ממשלת ישראל יצחק רבין, ששהה בכינוס היהודי במונטריאול. כעבור כחודש השיב רבין דרך אחד מנציגי לשכתו כי אינו יכול להיענות. ממשלות לאחר מכן לא פתחו מחדש את השאלה.
 
-### The December 13, 1997 authorization
+### ההיתר מ-13 בדצמבר 1997
 
-The December 13, 1997 message from Yahweh formally authorized the relocation of the embassy project to other countries, with Israel retaining a final option but the project no longer being contingent on Israeli cooperation. The message's specific content has been treated above under *In primary sources*.
+המסר מ-13 בדצמבר 1997 מאת יהוה התיר רשמית את העברת פרויקט השגרירות למדינות אחרות, כאשר לישראל נותרה אופציה אחרונה אך הפרויקט אינו עוד מותנה בשיתוף פעולה ישראלי. תוכנו הספציפי של המסר טופל לעיל תחת *במקורות הראשוניים*.
 
-### The 1998-2020 negotiations
+### המשאים ומתנים 1998–2020
 
-Across the subsequent two decades, the Raëlian movement conducted negotiations with various potential host countries. The principal documented negotiations include engagement with Canada, Russia, Lebanon, and various other countries across the 1990s and 2000s. None of these negotiations produced a formal extraterritorial grant during this period.
+לאורך שני העשורים שלאחר מכן, ניהלה התנועה הראלית משאים ומתנים עם מדינות מארחות פוטנציאליות שונות. המשאים ומתנים המתועדים העיקריים כוללים מעורבות עם קנדה, רוסיה, לבנון, ומדינות שונות אחרות לאורך שנות ה-90 וה-2000. אף אחד מן המשאים ומתנים הללו לא הניב הענקה אקסטריטוריאלית רשמית בתקופה זו.
 
-In 2005, Raël's commentary in the published *Message from the Designers* identified Mount Sinai's lower slopes as a possible Egyptian alternative ("the lower slopes of Mount Sinai would make an excellent alternative choice since that is where Yahweh, the leader of the Elohim, first appeared to Moses"), with possible Palestinian or other neighboring-state locations also under consideration.
+ב-2005, פרשנותו של ראל ב*מסר מאת הבוראים* שפורסם זיהתה את מורדותיו התחתונות של הר סיני כחלופה מצרית אפשרית (»המורדות התחתונות של הר סיני יהוו ברירה חלופית מצוינת שכן שם הופיע יהוה, מנהיג האלוהים, לראשונה בפני משה«), כאשר מיקומים פלסטיניים אפשריים או מיקומים אחרים במדינות שכנות אף הם בשיקול.
 
-### The 2015 UN Optional Protocol
+### הפרוטוקול האופציונלי של האו״ם מ-2015
 
-In 2015, the Raëlian movement submitted to the United Nations an "Optional Protocol Concerning Embassies for Extraterrestrials," proposing a standard diplomatic framework that any host country could use to formalize the extraterritorial grant. The Protocol provided detailed provisions for the legal-diplomatic infrastructure required by the embassy project and represented the movement's most substantial attempt to formalize the embassy's legal status within established international-diplomatic frameworks.
+ב-2015 הגישה התנועה הראלית לאומות המאוחדות »פרוטוקול אופציונלי בנוגע לשגרירויות לחוצנים«, והציעה מסגרת דיפלומטית סטנדרטית שכל מדינה מארחת תוכל להשתמש בה כדי להסדיר רשמית את ההענקה האקסטריטוריאלית. הפרוטוקול סיפק הוראות מפורטות לתשתית המשפטית-הדיפלומטית הנדרשת בפרויקט השגרירות וייצג את הניסיון המהותי ביותר של התנועה להסדיר רשמית את מעמדה המשפטי של השגרירות בתוך מסגרות בינלאומיות-דיפלומטיות מבוססות.
 
-### The 2021-2024 acceleration
+### ההאצה 2021–2024
 
-Beginning in 2021, the embassy project entered a period of substantial acceleration:
+החל מ-2021 נכנס פרויקט השגרירות לתקופה של האצה ניכרת:
 
-**February 2021**: The Alliance for Extraterrestrial Diplomatic Contact (AEDC) was established as an international non-profit organization of politicians, diplomats, and government officials committed to welcoming extraterrestrial civilizations to Earth.
+**פברואר 2021**: הברית למגע דיפלומטי חוץ-ארצי (AEDC) כוננה כארגון בינלאומי ללא מטרות רווח של פוליטיקאים, דיפלומטים ופקידי ממשל המחויבים לקבל את פני ציוויליזציות חוץ-ארציות בכדור הארץ.
 
-**2022**: Embassy project teams began presentations to mayors of fifty selected cities on every continent, providing the project with substantially expanded political-diplomatic visibility.
+**2022**: צוותי פרויקט השגרירות החלו במצגות לראשי חמישים ערים נבחרות בכל יבשת, וסיפקו לפרויקט נראות פוליטית-דיפלומטית מורחבת במידה ניכרת.
 
-**2024**: A national government (whose identity the movement is maintaining confidentiality on, pending further stages of the negotiation) signed a Memorandum of Collaboration with the Raëlian movement to explore hosting the embassy project. Daniel Turcotte, the Raëlian guide responsible for the embassy project, described the signing as "a historic day for humanity," noting that "a nation has finally shown the courage and vision to prepare for the return of an advanced extraterrestrial civilization to Earth." The memorandum outlines a collaborative framework including objectives, roles, principles of cooperation, and a timeline for the exploratory work.
+**2024**: ממשלה לאומית (שעל זהותה שומרת התנועה בסודיות, עד לשלבים נוספים של המשא ומתן) חתמה על מזכר שיתוף פעולה עם התנועה הראלית כדי לבחון אירוח של פרויקט השגרירות. דניאל טורקוט, המדריך הראלי האחראי על פרויקט השגרירות, תיאר את החתימה כ»יום היסטורי לאנושות«, וציין כי »אומה הראתה סוף סוף את האומץ והחזון להתכונן לשיבתה של ציוויליזציה חוץ-ארצית מתקדמת לכדור הארץ«. המזכר משרטט מסגרת שיתוף פעולה הכוללת מטרות, תפקידים, עקרונות שיתוף פעולה, ולוח זמנים לעבודה הבוחנת.
 
-### The 2025-2030 projected timeline
+### לוח הזמנים המוקרן 2025–2030
 
-The Raëlian movement's published timeline projects the following phases:
+לוח הזמנים שפרסמה התנועה הראלית מקרין את השלבים הבאים:
 
-**2025-2027 (site acquisition phase)**: The preferred site will be identified, the extraterritorial transfer will be legally effected, and agreements concerning off-site infrastructure will be concluded.
+**2025–2027 (שלב רכישת האתר)**: האתר המועדף יזוהה, ההעברה האקסטריטוריאלית תיכון משפטית, והסכמים בנוגע לתשתית מחוץ לאתר ייחתמו.
 
-**2027-2030 (planning and construction phase)**: Master planning, architectural and engineering design, contracts, and actual construction of the embassy complex, including the public-facing replica embassy.
+**2027–2030 (שלב התכנון והבנייה)**: תכנון אב, עיצוב אדריכלי והנדסי, חוזים, ובנייה ממשית של מתחם השגרירות, לרבות שגרירות העתק הפונה לציבור.
 
-**Post-2030 (caretaker mode)**: The embassy will operate in caretaker mode awaiting the arrival of the alliance delegation.
+**מ-2030 ואילך (מצב שמירה)**: השגרירות תפעל במצב שמירה הממתין לבואה של משלחת הברית.
 
-The corpus registers these projections without endorsing them as confirmed. The specific Raëlian-movement timeline is the movement's own institutional projection, with the actual progress depending on the success of the diplomatic negotiations and broader political conditions.
+הקורפוס רושם תחזיות אלו מבלי לאשרן כמובטחות. לוח הזמנים הספציפי של התנועה הראלית הוא תחזית מוסדית של התנועה עצמה, כאשר ההתקדמות הממשית תלויה בהצלחת המשאים ומתנים הדיפלומטיים ובתנאים הפוליטיים הרחבים יותר.
 
-## Application across the corpus
+## יישום לאורך הקורפוס
 
-The embassy concept operates as a specific operational element within multiple corpus entries.
+מושג השגרירות פועל כמרכיב תפעולי ספציפי בתוך ערכי קורפוס מרובים.
 
-### The Apocalypse entry
+### ערך ההתגלות
 
-The embassy is the operational location for the broader Apocalypse (the unveiling phase) the corpus's framework articulates. The detailed treatment of the Apocalypse lives in the [Apocalypse](../apocalypse/) entry; the Embassy entry's specific contribution is establishing the embassy's specific role as the physical-operational site at which the Apocalypse becomes operationally complete.
+השגרירות היא המיקום התפעולי להתגלות הרחבה יותר (שלב החשיפה) שמנסחת מסגרת הקורפוס. הטיפול המפורט בהתגלות שוכן בערך [ההתגלות](../apocalypse/); תרומתו הספציפית של ערך השגרירות היא כינון תפקידה הספציפי של השגרירות כאתר הפיזי-התפעולי שבו ההתגלות הופכת לשלמה תפעולית.
 
-### The Cosmic Competition entry
+### ערך התחרות הקוסמית
 
-The embassy is the operational location for the inheritance event that follows the Cosmic Competition's evaluation phase. The detailed treatment of the Cosmic Competition lives in the [Cosmic Competition](../cosmic-competition/) entry; the Embassy entry's specific contribution is establishing the embassy as the specific architectural-operational form within which the inheritance transmission occurs.
+השגרירות היא המיקום התפעולי לאירוע הירושה הבא אחרי שלב ההערכה של התחרות הקוסמית. הטיפול המפורט בתחרות הקוסמית שוכן בערך [התחרות הקוסמית](../cosmic-competition/); תרומתו הספציפית של ערך השגרירות היא כינון השגרירות כצורה האדריכלית-התפעולית הספציפית שבתוכה מתרחשת העברת הירושה.
 
-### The Cosmic Chain entry
+### ערך השרשרת הקוסמית
 
-The embassy is the operational location for Earth's projected transition from created to creator civilization within the broader Cosmic Chain. The detailed treatment of the Cosmic Chain lives in the [Cosmic Chain](../cosmic-chain/) entry; the Embassy entry's specific contribution is establishing the embassy as the specific physical site at which Earth's place in the chain is operationally formalized.
+השגרירות היא המיקום התפעולי למעברו המוקרן של כדור הארץ מציוויליזציה נבראת לציוויליזציה בוראת בתוך השרשרת הקוסמית הרחבה יותר. הטיפול המפורט בשרשרת הקוסמית שוכן בערך [השרשרת הקוסמית](../cosmic-chain/); תרומתו הספציפית של ערך השגרירות היא כינון השגרירות כאתר הפיזי הספציפי שבו מקומו של כדור הארץ בשרשרת מוסדר רשמית.
 
-### The Doubled Signature entry
+### ערך החתימה הכפולה
 
-The embassy is the operational realization of the Aquarian age's water-bearer signature. The Ezekiel 47 imagery (water flowing from the threshold of the temple) is, on the framework's reading, the prophetic prefiguration of the embassy's projected operational role as the source from which the Aquarian-age waters of understanding flow. The detailed treatment of the Doubled Signature lives in the [Doubled Signature](../doubled-signature/) entry; the Embassy entry's specific contribution is establishing the embassy's role within the Aquarius-Leo signature's operational realization.
+השגרירות היא המימוש התפעולי של חתימת נושא-המים של עידן הדלי. דימויי יחזקאל מז (מים הזורמים ממפתן המקדש) הם, לפי קריאת המסגרת, הבישור הנבואי לתפקידה התפעולי המוקרן של השגרירות כמקור שממנו זורמים מי ההבנה של עידן הדלי. הטיפול המפורט בחתימה הכפולה שוכן בערך [החתימה הכפולה](../doubled-signature/); תרומתו הספציפית של ערך השגרירות היא כינון תפקיד השגרירות בתוך המימוש התפעולי של חתימת דלי-אריה.
 
-### The Raël entry
+### ערך ראל
 
-The embassy is the operational center for the Aquarian-age prophet's mission. The detailed treatment of Raël's role lives in the [Raël](../rael/) entry (when written); the Embassy entry's specific contribution is establishing the embassy as the principal operational project within Raël's broader prophetic mission.
+השגרירות היא המרכז התפעולי לשליחות נביא עידן הדלי. הטיפול המפורט בתפקיד ראל שוכן בערך [ראל](../rael/) (כשייכתב); תרומתו הספציפית של ערך השגרירות היא כינון השגרירות כפרויקט התפעולי העיקרי בתוך שליחותו הנבואית הרחבה יותר של ראל.
 
-### The Age of Aquarius entry
+### ערך עידן הדלי
 
-The embassy is the central operational element of the Aquarian-age program. The detailed treatment of the Age of Aquarius lives in the [Age of Aquarius](../timeline/age-of-aquarius/) entry; the Embassy entry's specific contribution is establishing the embassy's specific operational features.
+השגרירות היא המרכיב התפעולי המרכזי של תוכנית עידן הדלי. הטיפול המפורט בעידן הדלי שוכן בערך [עידן הדלי](../timeline/age-of-aquarius/); תרומתו הספציפית של ערך השגרירות היא כינון המאפיינים התפעוליים הספציפיים של השגרירות.
 
-## Distinguishing from adjacent concepts
+## הבחנה ממושגים סמוכים
 
-### The Embassy vs. the Solomonic First Temple
+### השגרירות לעומת מקדש שלמה הראשון
 
-The Solomonic First Temple was the historical first alliance-embassy at Jerusalem (built c. 950 BCE, destroyed 586 BCE), serving as the physical location for the alliance's presence during the Aries age. The contemporary Embassy is the projected Third Temple succeeding the Solomonic and Second Temples in the same operational lineage.
+מקדש שלמה הראשון היה שגרירות-הברית ההיסטורית הראשונה בירושלים (נבנה כ-950 לפנה״ס, נחרב 586 לפנה״ס), ששימשה כמיקום הפיזי לנוכחות הברית במהלך עידן הטלה. השגרירות בת-זמננו היא בית המקדש השלישי המוקרן הבא אחרי מקדש שלמה ובית המקדש השני באותה שושלת תפעולית.
 
-The relationship is one of **operational succession**. The contemporary Embassy is the third in a specific historical sequence of alliance-embassy structures, with each successive embassy serving the same broader operational purpose within the corresponding age's specific operational arrangements.
+הזיקה היא של **רציפות תפעולית**. השגרירות בת-זמננו היא השלישית ברצף היסטורי ספציפי של מבני שגרירות-ברית, כאשר כל שגרירות עוקבת משרתת את אותה מטרה תפעולית רחבה יותר בתוך ההסדרים התפעוליים הספציפיים של העידן המקביל.
 
-### The Embassy vs. the Second Temple
+### השגרירות לעומת בית המקדש השני
 
-The Second Temple was the historical second alliance-embassy at Jerusalem (built c. 516 BCE, expanded c. 20 BCE, destroyed 70 CE). The contemporary Embassy is the third in the operational sequence.
+בית המקדש השני היה שגרירות-הברית ההיסטורית השנייה בירושלים (נבנה כ-516 לפנה״ס, הורחב כ-20 לפנה״ס, נחרב 70 לספירה). השגרירות בת-זמננו היא השלישית ברצף התפעולי.
 
-### The Embassy vs. the broader Apocalypse event
+### השגרירות לעומת אירוע ההתגלות הרחב יותר
 
-The broader Apocalypse is the unveiling phase during which the alliance's previously concealed work becomes openly known to humanity. The Embassy is the specific physical-operational site at which the Apocalypse becomes operationally complete.
+ההתגלות הרחבה יותר היא שלב החשיפה שבמהלכו עבודת הברית שהוסתרה קודם לכן הופכת לידועה בגלוי לאנושות. השגרירות היא האתר הפיזי-התפעולי הספציפי שבו ההתגלות הופכת לשלמה תפעולית.
 
-The relationship is one of **broader-event-and-specific-site**. The Apocalypse is the broader unveiling phase; the Embassy is the specific architectural-operational location at which the unveiling reaches its specific formal completion.
+הזיקה היא של **אירוע-רחב-ואתר-ספציפי**. ההתגלות היא שלב החשיפה הרחב יותר; השגרירות היא המיקום האדריכלי-התפעולי הספציפי שבו החשיפה מגיעה להשלמתה הרשמית הספציפית.
 
-### The Embassy vs. the Cosmic Competition framework
+### השגרירות לעומת מסגרת התחרות הקוסמית
 
-The Cosmic Competition framework concerns the broader cosmological evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification. The Embassy is the specific physical-operational location at which the inheritance event occurs following the evaluation phase's completion.
+מסגרת התחרות הקוסמית עוסקת בשלב ההערכה הקוסמולוגי הרחב יותר שבמהלכו ציוויליזציית בורא מעריכה את האנושויות שבראה לשם כשירות לירושה. השגרירות היא המיקום הפיזי-התפעולי הספציפי שבו מתרחש אירוע הירושה בעקבות השלמת שלב ההערכה.
 
-The relationship is one of **broader-evaluation-and-specific-inheritance-site**. The Cosmic Competition is the broader evaluation framework; the Embassy is the specific architectural-operational form within which the inheritance transmission occurs.
+הזיקה היא של **הערכה-רחבה-ואתר-ירושה-ספציפי**. התחרות הקוסמית היא מסגרת ההערכה הרחבה יותר; השגרירות היא הצורה האדריכלית-התפעולית הספציפית שבתוכה מתרחשת העברת הירושה.
 
-### The Embassy vs. the alliance's residence on the home world
+### השגרירות לעומת מעון הברית בכוכב המוצא
 
-The alliance's residence on the home world is the principal location for the alliance's day-to-day operational activities. The Embassy on Earth is a specific operational facility designated for the alliance's Earth-side work during the Aquarian-age operational phase.
+מעון הברית בכוכב המוצא הוא המיקום העיקרי לפעילויות התפעוליות היומיומיות של הברית. השגרירות בכדור הארץ היא מתקן תפעולי ספציפי המיועד לעבודת הברית בצד כדור הארץ במהלך השלב התפעולי של עידן הדלי.
 
-The relationship is one of **home-world-base-and-Earth-side-operational-facility**. The home world is the alliance's principal residence; the Earth Embassy is a specific outpost facility with limited but specific operational functions.
+הזיקה היא של **בסיס-כוכב-מוצא-ומתקן-תפעולי-בצד-כדור-הארץ**. כוכב המוצא הוא מעונה העיקרי של הברית; שגרירות כדור הארץ היא מתקן מוצב ספציפי בעל תפקודים תפעוליים מוגבלים אך ספציפיים.
 
-## Modern reinterpretations
+## פרשנויות מודרניות
 
-### The contemporary UFO/UAP disclosure movement
+### תנועת חשיפת העב״מים/UAP בת-זמננו
 
-The broader question of extraterrestrial contact has received substantial recent academic and governmental attention, with substantial implications for the broader landscape within which the embassy project operates.
+השאלה הרחבה יותר של מגע חוץ-ארצי זכתה לתשומת לב אקדמית וממשלתית ניכרת לאחרונה, עם השלכות ניכרות על הנוף הרחב יותר שבתוכו פועל פרויקט השגרירות.
 
-**Christopher Mellon** (former Deputy Assistant Secretary of Defense for Intelligence) has been a substantial public advocate for transparency on UAP (Unidentified Aerial Phenomena) issues, with substantial public appearances, op-eds, and policy advocacy across the 2017-2025 period. Mellon's specific advocacy has been principally focused on the UAP disclosure question rather than on specific religious-prophetic frameworks.
+**כריסטופר מלון** (לשעבר סגן עוזר שר ההגנה למודיעין) היה תומך ציבורי ניכר בשקיפות בסוגיות UAP (תופעות אוויריות בלתי-מזוהות), עם הופעות פומביות ניכרות, מאמרי דעה, וקידום מדיניות לאורך התקופה 2017–2025.{{ footnote(id="5") }} קידומו הספציפי של מלון התמקד בעיקר בשאלת חשיפת ה-UAP ולא במסגרות דתיות-נבואיות ספציפיות.
 
-**Luis Elizondo** (former director of the U.S. Department of Defense's Advanced Aerospace Threat Identification Program, AATIP) became a substantial public figure following the December 2017 *New York Times* articles on the AATIP program and the subsequent Tom DeLonge/To the Stars Academy disclosures. Elizondo's 2024 book *Imminent: Inside the Pentagon's Hunt for UFOs* provided substantial public documentation of the U.S. government's UAP investigation programs.
+**לואיס אליזונדו** (לשעבר מנהל התוכנית לזיהוי איומים אוויריים מתקדמים של משרד ההגנה האמריקני, AATIP) הפך לדמות ציבורית ניכרת בעקבות מאמרי ה*ניו יורק טיימס* מדצמבר 2017 על תוכנית AATIP וחשיפותיהם של טום דה-לונג/To the Stars Academy שבאו בעקבותיהם. ספרו של אליזונדו מ-2024 *Imminent: Inside the Pentagon's Hunt for UFOs* סיפק תיעוד ציבורי ניכר של תוכניות חקירת ה-UAP של ממשלת ארצות הברית.{{ cite(id="elizondo-imminent", text="[7]", title="אליזונדו, *Imminent: Inside the Pentagon's Hunt for UFOs* (2024)") }}
 
-**David Grusch** (former U.S. intelligence officer, now retired) testified to the U.S. House Oversight Committee on July 26, 2023, providing substantial public testimony regarding alleged U.S. government UAP retrieval programs. The testimony was substantively significant in producing substantial subsequent congressional and media engagement with the broader UAP question.
+**דייוויד גראש** (לשעבר קצין מודיעין אמריקני, כיום בדימוס) העיד בפני ועדת הפיקוח של בית הנבחרים האמריקני ב-26 ביולי 2023, וסיפק עדות ציבורית ניכרת בנוגע לתוכניות שחזור UAP נטענות של ממשלת ארצות הברית.{{ cite(id="grusch-congressional-testimony", text="[8]", title="גראש, עדות בפני ועדת הפיקוח של בית הנבחרים האמריקני (26 ביולי 2023)") }} העדות הייתה משמעותית מהותית בהולדת מעורבות קונגרסיונלית ותקשורתית ניכרת בשאלת ה-UAP הרחבה יותר.
 
-**Recent congressional hearings**. The U.S. Congress has conducted multiple substantial UAP-related hearings across the 2022-2025 period, with substantial bipartisan engagement and various legislative proposals. The 2023 UAP Disclosure Act, while substantially amended in committee, represented a substantive congressional engagement with the disclosure question.
+**שימועים קונגרסיונליים אחרונים**. הקונגרס האמריקני קיים שימועים ניכרים מרובים הקשורים ל-UAP לאורך התקופה 2022–2025, עם מעורבות דו-מפלגתית ניכרת והצעות חקיקה שונות. חוק חשיפת ה-UAP מ-2023, אף שתוקן במידה ניכרת בוועדה, ייצג מעורבות קונגרסיונלית מהותית בשאלת החשיפה.
 
-**The mainstream UAP disclosure movement** has substantially expanded the cultural-political space within which extraterrestrial-contact discussions occur. The framework reads this expanded space as relevant background for the embassy project's contemporary diplomatic engagement, even where the disclosure movement's specific content does not engage the embassy project directly.
+**תנועת חשיפת ה-UAP המרכזית** הרחיבה במידה ניכרת את המרחב התרבותי-הפוליטי שבתוכו מתרחשים דיונים על מגע חוץ-ארצי. המסגרת קוראת מרחב מורחב זה כרקע רלוונטי למעורבות הדיפלומטית בת-זמננו של פרויקט השגרירות, אף במקום שבו תוכנה הספציפי של תנועת החשיפה אינו מתעסק בפרויקט השגרירות באופן ישיר.
 
-### Academic UAP studies
+### מחקר UAP אקדמי
 
-Academic engagement with UAP questions has substantially developed across the past several years.
+המעורבות האקדמית בשאלות UAP התפתחה במידה ניכרת לאורך השנים האחרונות.
 
-**The Stanford Sol Foundation** (established 2023, led by Garry Nolan and Peter Skafish at Stanford) has conducted substantial academic engagement with UAP questions, including academic conferences, publications, and broader academic-disciplinary engagement. The Sol Foundation's specific research focuses on the empirical question of UAP phenomena rather than on specific religious-prophetic frameworks.
+**קרן Sol של סטנפורד** (כוננה 2023, בהובלת גארי נולן ופיטר סקאפיש בסטנפורד) קיימה מעורבות אקדמית ניכרת בשאלות UAP, לרבות כנסים אקדמיים, פרסומים, ומעורבות אקדמית-דיסציפלינרית רחבה יותר. מחקרה הספציפי של קרן Sol מתמקד בשאלה האמפירית של תופעות UAP ולא במסגרות דתיות-נבואיות ספציפיות.
 
-**The Harvard Galileo Project** (established 2021, led by Avi Loeb at Harvard) has conducted substantial empirical research on UAP and broader questions of extraterrestrial intelligence. Loeb's research has been substantially focused on observational and empirical methodology, with various publications and broader public engagement across the 2021-2025 period.
+**פרויקט גלילאו של הרווארד** (כונן 2021, בהובלת אבי לואב בהרווארד) קיים מחקר אמפירי ניכר על UAP ועל שאלות רחבות יותר של תבונה חוץ-ארצית. מחקרו של לואב התמקד במידה ניכרת במתודולוגיה תצפיתית ואמפירית, עם פרסומים שונים ומעורבות ציבורית רחבה יותר לאורך התקופה 2021–2025.{{ cite(id="loeb-extraterrestrial", text="[9]", title="לואב, *Extraterrestrial* (2021) — טיעון ʻOumuamua") }}{{ cite(id="loeb-interstellar", text="[10]", title="לואב, *Interstellar* (2023) — פרויקט גלילאו") }}
 
-**Other academic engagement** includes various publications, conferences, and institutional initiatives across multiple universities and research organizations, with the academic UAP studies field substantially expanding from its prior peripheral status.
+**מעורבות אקדמית אחרת** כוללת פרסומים, כנסים, ויוזמות מוסדיות שונים לאורך אוניברסיטאות וארגוני מחקר מרובים, כאשר תחום מחקר ה-UAP האקדמי מתרחב במידה ניכרת ממעמדו השולי הקודם.
 
-The framework's relationship to academic UAP studies is one of structural compatibility on the broader empirical question while extending substantially beyond what academic UAP research directly engages.
+זיקת המסגרת למחקר UAP האקדמי היא של תאימות מבנית בשאלה האמפירית הרחבה יותר תוך השתרעות ניכרת מעבר למה שמחקר ה-UAP האקדמי מתעסק בו ישירות.
 
-### Extraterritorial diplomatic precedents
+### תקדימים דיפלומטיים אקסטריטוריאליים
 
-The legal-diplomatic framework within which the embassy operates draws on substantial diplomatic precedent.
+המסגרת המשפטית-הדיפלומטית שבתוכה פועלת השגרירות נשענת על תקדים דיפלומטי ניכר.
 
-**Vienna Convention on Diplomatic Relations** (1961). The Convention establishes the standard legal framework for diplomatic missions, with substantial implications for the embassy project's specific legal-diplomatic requirements.
+**אמנת וינה ליחסים דיפלומטיים** (1961). האמנה מכוננת את המסגרת המשפטית הסטנדרטית למשלחות דיפלומטיות, עם השלכות ניכרות על הדרישות המשפטיות-הדיפלומטיות הספציפיות של פרויקט השגרירות.
 
-**Vatican City State**. Established by the Lateran Treaty of 1929, Vatican City is the principal contemporary example of a sovereign extraterritorial entity occupying limited specific territory within a larger host state. The Vatican City precedent is substantially relevant for the embassy project's specific legal-diplomatic structure.
+**מדינת קריית הוותיקן**. שכוננה באמנת לטראן מ-1929, קריית הוותיקן היא הדוגמה בת-זמננו העיקרית לישות אקסטריטוריאלית ריבונית התופסת שטח ספציפי מוגבל בתוך מדינה מארחת גדולה יותר. תקדים קריית הוותיקן רלוונטי במידה ניכרת למבנה המשפטי-הדיפלומטי הספציפי של פרויקט השגרירות.
 
-**Sovereign Military Order of Malta**. The Order's distinctive international-legal status (sovereign subject of international law without controlling specific territory in the conventional sense) provides one specific precedent for non-state-entity diplomatic engagement.
+**מסדר מלטה הצבאי הריבוני**. מעמדו המשפטי-הבינלאומי הנבדל של המסדר (נושא ריבוני של המשפט הבינלאומי בלא ששולט בשטח ספציפי במובן המקובל) מספק תקדים ספציפי אחד למעורבות דיפלומטית של ישות שאינה מדינה.
 
-**Other extraterritorial precedents** include various international organization headquarters (UN headquarters, European Union institutions, various other inter-governmental organization sites) and various specific diplomatic-mission arrangements across contemporary international law.
+**תקדימים אקסטריטוריאליים אחרים** כוללים מטות ארגונים בינלאומיים שונים (מטה האו״ם, מוסדות האיחוד האירופי, אתרי ארגונים בין-ממשלתיים שונים אחרים) והסדרי משלחת דיפלומטית ספציפיים שונים לאורך המשפט הבינלאומי בן-זמננו.
 
-The framework reads these precedents as the substantial legal-diplomatic infrastructure within which the embassy project's specific legal requirements can be operationally formalized.
+המסגרת קוראת תקדימים אלו כתשתית המשפטית-הדיפלומטית הניכרת שבתוכה ניתן להסדיר תפעולית את הדרישות המשפטיות הספציפיות של פרויקט השגרירות.
 
-### Sendy on the prophesied return
+### סנדי על השיבה המבושרת
 
-**Jean Sendy** developed substantial engagement with what would become the embassy framework, principally through his treatment of the Hebrew prophetic tradition and the broader Aquarian-age framework. Sendy's specific contributions include:
+**ז'אן סנדי** פיתח מעורבות ניכרת במה שיהפוך למסגרת השגרירות, בעיקר דרך טיפולו במסורת הנבואית העברית ובמסגרת עידן הדלי הרחבה יותר. תרומותיו הספציפיות של סנדי כוללות:
 
-- The treatment of the Hebrew Bible's various prophetic passages as preserving substantive operational content concerning the alliance's projected return
-- The integration of these readings with the broader Aquarian-age framework Sendy developed in *L'ère du Verseau*
-- The specific identification of various Hebrew prophetic passages with the projected alliance return
+- הטיפול בקטעים הנבואיים השונים של המקרא העברי כמשַמרים תוכן תפעולי מהותי בנוגע לשיבתה המוקרנת של הברית
+- שילוב קריאות אלו עם מסגרת עידן הדלי הרחבה יותר שסנדי פיתח ב*L'ère du Verseau*
+- הזיהוי הספציפי של קטעים נבואיים עבריים שונים עם שיבת הברית המוקרנת
 
-Sendy's specific embassy development is more limited than the framework's contemporary articulation, but Sendy provides substantial methodological warrant for treating the Hebrew prophetic tradition as preserving substantive operational content.
+פיתוח השגרירות הספציפי של סנדי מוגבל יותר מן הניסוח בן-זמננו של המסגרת, אך סנדי מספק הצדקה מתודולוגית ניכרת לטיפול במסורת הנבואית העברית כמשַמרת תוכן תפעולי מהותי.
 
-### Biglino on the prophesied return
+### ביגלינו על השיבה המבושרת
 
-**Mauro Biglino**'s strict-translational engagement with the Hebrew Bible has produced limited specific engagement with the embassy project, though Biglino's broader treatment of the Hebrew Bible's specific prophetic content is structurally compatible with the embassy framework. Biglino's specific reading of the Hebrew prophetic literature as preserving substantive operational content (rather than as theological-symbolic content) provides one specific scholarly antecedent for the embassy framework's broader interpretive approach.
+מעורבותו התרגומית-הקפדנית של **מאורו ביגלינו** עם המקרא העברי הניבה מעורבות ספציפית מוגבלת בפרויקט השגרירות, אף שטיפולו הרחב יותר של ביגלינו בתוכן הנבואי הספציפי של המקרא העברי תואם מבנית את מסגרת השגרירות. קריאתו הספציפית של ביגלינו את הספרות הנבואית העברית כמשַמרת תוכן תפעולי מהותי (ולא כתוכן תיאולוגי-סמלי) מספקת תקדים מחקרי ספציפי אחד לגישתה הפרשנית הרחבה יותר של מסגרת השגרירות.
 
-### Wallis on the prophesied return
+### ווליס על השיבה המבושרת
 
-**Paul Anthony Wallis**'s broader engagement with the alliance-mediated history includes some treatment of the projected return question, principally within the broader context of the various ancient texts' references to anticipated alliance-contact events. Wallis's specific embassy development is more limited than the framework's contemporary articulation.
+מעורבותו הרחבה יותר של **פול אנתוני ווליס** עם ההיסטוריה המתווכת בידי הברית כוללת מידה של טיפול בשאלת השיבה המוקרנת, בעיקר בתוך ההקשר הרחב יותר של אזכורי הטקסטים הקדומים השונים לאירועי מגע-ברית מצופים. פיתוח השגרירות הספציפי של ווליס מוגבל יותר מן הניסוח בן-זמננו של המסגרת.
 
-### The framework's relationship to the broader landscape
+### זיקת המסגרת לנוף הרחב יותר
 
-The corpus's embassy framework is positioned within this landscape as follows: substantially source-grounded with detailed specifications drawn directly from Raëlian source material; structurally engaged with contemporary UFO/UAP disclosure movement at the broader cultural-political level; legally-diplomatically engaged with established extraterritorial-status precedents; structurally compatible with the broader Sendy-Biglino-Wallis tradition's reading of the Hebrew prophetic tradition; positioned as a present-day operational project rather than as a purely theoretical or interpretive framework; testable in the near term through direct observation of the project's actual progress (or lack thereof).
+מסגרת השגרירות של הקורפוס ממוקמת בתוך נוף זה כך: מעוגנת במקור באופן ניכר עם מפרטים מפורטים השאובים ישירות מן החומר המקורי הראלי; מעורבת מבנית עם תנועת חשיפת העב״מים/UAP בת-זמננו ברמה התרבותית-הפוליטית הרחבה יותר; מעורבת משפטית-דיפלומטית עם תקדימי מעמד אקסטריטוריאלי מבוססים; תואמת מבנית את קריאת מסורת סנדי-ביגלינו-ווליס הרחבה יותר את המסורת הנבואית העברית; ממוקמת כפרויקט תפעולי של ההווה ולא כמסגרת תיאורטית או פרשנית גרידא; ניתנת לבדיקה בטווח הקרוב דרך תצפית ישירה בהתקדמותו הממשית של הפרויקט (או היעדרה).
 
-## Comparative observations
+## תצפיות השוואתיות
 
-Anticipated-return traditions appear across multiple cultural-religious frameworks worldwide, with substantial structural parallels to the framework's embassy reading. The corpus reads this cross-cultural pattern as evidence of broader operational realities preserved in fragmentary form across the various traditions.
+מסורות שיבה-מצופה מופיעות לאורך מסגרות תרבותיות-דתיות מרובות ברחבי העולם, עם מקבילות מבניות ניכרות לקריאת השגרירות של המסגרת. הקורפוס קורא תבנית חוצת-תרבויות זו כעדות למציאויות תפעוליות רחבות יותר השמורות בצורה מקוטעת לאורך המסורות השונות.
 
-### Jewish Third Temple traditions
+### מסורות בית המקדש השלישי היהודיות
 
-The Jewish tradition preserves the most directly relevant comparative material on the projected return.
+המסורת היהודית משַמרת את החומר ההשוואתי הרלוונטי ביותר במישרין על השיבה המוקרנת.
 
-**Ezekiel's Temple** (Ezekiel 40-48) provides the most elaborate prophetic-architectural specifications in the Hebrew Bible. Ezekiel's vision details the dimensions, structures, courtyards, and ritual arrangements of a future temple, with substantial subsequent rabbinic and contemporary Jewish engagement. The Ezekiel specifications differ from the historical First and Second Temples in various specific respects, suggesting that the prophetic vision describes a third temple yet to be built.
+**מקדש יחזקאל** (יחזקאל מ–מח) מספק את המפרטים הנבואיים-האדריכליים המפורטים ביותר במקרא העברי. חזון יחזקאל מפרט את המידות, המבנים, החצרות וההסדרים הפולחניים של מקדש עתידי, עם מעורבות רבנית ויהודית בת-זמננו ניכרת שבאה בעקבותיו. מפרטי יחזקאל נבדלים מבתי המקדש הראשון והשני ההיסטוריים בכמה היבטים ספציפיים, ובכך מרמזים כי החזון הנבואי מתאר מקדש שלישי שטרם נבנה.
 
-**The messianic-age Third Temple tradition**. Jewish tradition has long anticipated a Third Temple to be built in the messianic age. The principal positions include the Maimonidean view (that the Third Temple will be built by the Messiah upon his arrival, *Mishneh Torah*, *Hilchot Melachim* 11:1), various medieval and modern positions on whether construction must precede or follow the messianic arrival, and various contemporary positions on the relationship between Third Temple construction and broader messianic eschatology.
+**מסורת בית המקדש השלישי של ימות המשיח**. המסורת היהודית ציפתה זה מכבר לבית מקדש שלישי שייבנה בימות המשיח. העמדות העיקריות כוללות את העמדה הרמב״מית (שבית המקדש השלישי ייבנה בידי המשיח עם בואו, *משנה תורה*, *הלכות מלכים* יא א), עמדות ימי-ביניימיות ומודרניות שונות בשאלה אם הבנייה חייבת לקדום את הבוא המשיחי או לבוא אחריו, ועמדות בנות-זמננו שונות בנוגע לזיקה בין בניין בית המקדש השלישי לאסכטולוגיה המשיחית הרחבה יותר.
 
-**The Temple Movement** (contemporary). Various contemporary Jewish organizations advocate for active preparation toward Third Temple construction, including the Temple Institute (founded 1987), the Temple Mount Faithful, and various other organizations engaged in the preparation of ritual implements, the training of priests, and broader institutional preparation for the projected Third Temple's construction.
+**תנועת המקדש** (בת-זמננו). ארגונים יהודיים שונים בני-זמננו תומכים בהכנה פעילה לקראת בניין בית המקדש השלישי, לרבות מכון המקדש (נוסד 1987), נאמני הר הבית, וארגונים שונים אחרים העוסקים בהכנת כלי פולחן, בהכשרת כוהנים, ובהכנה מוסדית רחבה יותר לבניית בית המקדש השלישי המוקרן.
 
-**The Temple Mount political situation** is the principal practical-political constraint on Third Temple construction in the contemporary period. The Temple Mount in Jerusalem hosts the al-Aqsa Mosque and the Dome of the Rock (both Islamic religious sites of substantial significance), with the broader Israeli-Palestinian-Islamic political situation creating substantial constraints on any potential construction project.
+**המצב הפוליטי של הר הבית** הוא האילוץ המעשי-הפוליטי העיקרי על בניין בית המקדש השלישי בתקופה בת-זמננו. הר הבית בירושלים מאכסן את מסגד אל-אקצא וכיפת הסלע (שניהם אתרים דתיים אסלאמיים בעלי משמעות ניכרת), כאשר המצב הפוליטי הישראלי-פלסטיני-אסלאמי הרחב יותר יוצר אילוצים ניכרים על כל פרויקט בנייה אפשרי.
 
-The framework reads the Jewish Third Temple tradition as substantively preserving the operational content of the embassy framework within the distinctive Jewish theological-religious framing. The specific Jewish elaborations (the Ezekiel specifications, the messianic-age framework, the Temple Mount complications) reflect the tradition's distinctive content while preserving the underlying operational pattern.
+המסגרת קוראת את מסורת בית המקדש השלישי היהודית כמשַמרת מהותית את התוכן התפעולי של מסגרת השגרירות בתוך המסגור התיאולוגי-הדתי היהודי הייחודי. הפירוטים היהודיים הספציפיים (מפרטי יחזקאל, מסגרת ימות המשיח, סיבוכי הר הבית) משקפים את התוכן הייחודי של המסורת תוך שמירה על התבנית התפעולית העומדת ביסוד.
 
-### Christian Second Coming and Parousia traditions
+### מסורות הביאה השנייה והפארוסיה הנוצריות
 
-The Christian tradition preserves substantial material on the **Parousia** (the projected Second Coming of Christ).
+המסורת הנוצרית משַמרת חומר ניכר על ה**פארוסיה** (הביאה השנייה המוקרנת של המשיח).
 
-**The Synoptic Gospel apocalyptic discourses** (Matthew 24, Mark 13, Luke 21) provide the principal Gospel material on the Parousia. The discourses describe the projected return in elaborate apocalyptic-symbolic language, with substantial subsequent theological-historical engagement.
+**שיחות האפוקליפסה של הבשורות הסינופטיות** (מתי כד, מרקוס יג, לוקס כא) מספקות את החומר העיקרי בבשורות על הפארוסיה. השיחות מתארות את השיבה המוקרנת בלשון אפוקליפטית-סמלית מפורטת, עם מעורבות תיאולוגית-היסטורית ניכרת שבאה בעקבותיהן.
 
-**The Pauline Parousia material**. Paul's letters develop the Parousia tradition extensively, with 1 Thessalonians 4:13-18 providing the principal Pauline statement on the projected return ("the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God").
+**החומר הפאולינית על הפארוסיה**. אגרותיו של פאולוס מפתחות את מסורת הפארוסיה בהרחבה, כאשר תסלוניקים א ד 13–18 מספק את ההצהרה הפאולינית העיקרית על השיבה המוקרנת (»כי האדון בעצמו ירד מן השמיים בתרועה, בקול שר המלאכים ובשופר אלוהים«).
 
-**The Book of Revelation**. The Book of Revelation (the Apocalypse of John) provides the most elaborate New Testament treatment of the projected return, with substantial apocalyptic-symbolic content. The detailed treatment of Revelation lives in the [Apocalypse](../apocalypse/) entry.
+**ספר ההתגלות**. ספר ההתגלות (אפוקליפסת יוחנן) מספק את הטיפול המפורט ביותר בברית החדשה בשיבה המוקרנת, עם תוכן אפוקליפטי-סמלי ניכר. הטיפול המפורט בספר ההתגלות שוכן בערך [ההתגלות](../apocalypse/).
 
-**Subsequent Christian theological development**. Christian theological tradition has developed the Parousia material extensively across the past two millennia, with substantial variations across the Catholic, Orthodox, Protestant, and various other Christian traditions. The principal contemporary positions include various amillennialist, premillennialist, and postmillennialist frameworks within Protestant tradition; various Catholic and Orthodox positions on the relationship between the Parousia and broader eschatology; and various contemporary scholarly engagements with the historical and theological content.
+**התפתחות תיאולוגית נוצרית מאוחרת**. המסורת התיאולוגית הנוצרית פיתחה את החומר על הפארוסיה בהרחבה לאורך אלפיים השנים האחרונות, עם וריאציות ניכרות לאורך המסורות הקתולית, האורתודוקסית, הפרוטסטנטית, ומסורות נוצריות שונות אחרות. העמדות בנות-זמננו העיקריות כוללות מסגרות אמילניאליסטיות, פרהמילניאליסטיות, ופוסטמילניאליסטיות שונות בתוך המסורת הפרוטסטנטית; עמדות קתוליות ואורתודוקסיות שונות בנוגע לזיקה בין הפארוסיה לאסכטולוגיה הרחבה יותר; ומעורבויות מחקריות בנות-זמננו שונות עם התוכן ההיסטורי והתיאולוגי.
 
-The framework reads the Christian Parousia tradition as substantively preserving the operational content of the embassy framework within the distinctive Christian theological-religious framing.
+המסגרת קוראת את מסורת הפארוסיה הנוצרית כמשַמרת מהותית את התוכן התפעולי של מסגרת השגרירות בתוך המסגור התיאולוגי-הדתי הנוצרי הייחודי.{{ cite(id="wright-resurrection-son-of-god", text="[11]", title="רייט, *The Resurrection of the Son of God* (2003) — תחייה ופארוסיה") }}{{ cite(id="sandt-zangenberg-matthew-james-didache", text="[12]", title="ון דה סנדט וצנגנברג, *Matthew, James, and Didache* (2008)") }}
 
-### Islamic Mahdi traditions
+### מסורות המהדי האסלאמיות
 
-The Islamic tradition preserves substantial material on anticipated-figure traditions.
+המסורת האסלאמית משַמרת חומר ניכר על מסורות דמות-מצופה.
 
-**The Mahdi tradition**. Both Sunni and Shia Islamic traditions preserve substantial material on the Mahdi (the "guided one"), an anticipated figure who will appear at the end of times to restore justice and righteousness. The Sunni Mahdi tradition is more diffuse; the Shia Mahdi tradition (particularly the Twelver Shia tradition's specific identification of the Mahdi with the Twelfth Imam Muhammad al-Mahdi, in occultation since 874 CE) is more elaborate.
+**מסורת המהדי**. הן המסורת האסלאמית הסונית והן השיעית משַמרות חומר ניכר על המהדי (»המודרך«), דמות מצופה שתופיע באחרית הימים לכונן מחדש צדק ויושר. מסורת המהדי הסונית מפושטת יותר; מסורת המהדי השיעית (בפרט זיהויה הספציפי של המסורת השיעית התריסרית את המהדי עם האימאם השנים-עשר מוחמד אל-מהדי, שבהיעלם מאז 874 לספירה) מפורטת יותר.
 
-**The Isa (Jesus) tradition in Islam**. Islamic tradition preserves substantial material on the projected return of Isa (Jesus), particularly in the Hadith literature. The Islamic Isa tradition treats Jesus as having been raised to heaven without dying, with a projected return at the end of times to participate in the broader eschatological events.
+**מסורת עיסא (ישוע) באסלאם**. המסורת האסלאמית משַמרת חומר ניכר על שיבתו המוקרנת של עיסא (ישוע), בפרט בספרות החדית'. מסורת עיסא האסלאמית מתייחסת לישוע כמי שהועלה לשמיים בלא שמת, עם שיבה מוקרנת באחרית הימים להשתתף באירועים האסכטולוגיים הרחבים יותר.
 
-**The relationship between the Mahdi and Isa**. Various Islamic traditions develop substantial material on the projected coordinated arrival of both the Mahdi and Isa, with various specific frameworks for understanding the relationship between the two figures.
+**הזיקה בין המהדי לעיסא**. מסורות אסלאמיות שונות מפתחות חומר ניכר על הבוא המתואם המוקרן של המהדי ועיסא כאחד, עם מסגרות ספציפיות שונות להבנת הזיקה בין שתי הדמויות.
 
-The framework reads the Islamic Mahdi and Isa traditions as substantively preserving the operational content of the projected return framework within the distinctive Islamic theological-religious framing.
+המסגרת קוראת את מסורות המהדי ועיסא האסלאמיות כמשַמרות מהותית את התוכן התפעולי של מסגרת השיבה המוקרנת בתוך המסגור התיאולוגי-הדתי האסלאמי הייחודי.{{ cite(id="sachedina-islamic-messianism", text="[13]", title="סאצ'דינה, *Islamic Messianism* (1981) — המהדי בשיעה התריסרית") }}{{ cite(id="cook-muslim-apocalyptic", text="[14]", title="קוק, *Studies in Muslim Apocalyptic* (2002)") }}
 
-### Buddhist Maitreya tradition
+### מסורת המאיטריה הבודהיסטית
 
-The Buddhist tradition preserves the **Maitreya** tradition — the anticipated future Buddha who will appear in the world following the decline of the present Buddhist tradition.
+המסורת הבודהיסטית משַמרת את מסורת ה**מאיטריה** — הבודהה העתידי המצופה שיופיע בעולם בעקבות שקיעת המסורת הבודהיסטית הנוכחית.
 
-**The basic Maitreya framework**. Maitreya is identified as the next Buddha following Śākyamuni Buddha (the historical Buddha), currently residing in the Tuṣita heaven and projected to appear in the world at a specific future moment.
+**מסגרת המאיטריה הבסיסית**. מאיטריה מזוהה כבודהה הבא אחרי בודהה שאקיאמוני (הבודהה ההיסטורי), השוהה כעת בשמי הטושיטה ומוקרן להופיע בעולם ברגע עתידי ספציפי.
 
-**The Maitreya iconographic tradition**. Maitreya is depicted in various iconographic forms across the Buddhist tradition, with substantial regional variations (the seated Maitreya of the Indian-Nepalese tradition, the standing Maitreya of various East Asian traditions, the laughing-Buddha Maitreya of the Chinese folk tradition).
+**המסורת האיקונוגרפית של המאיטריה**. מאיטריה מתואר בצורות איקונוגרפיות שונות לאורך המסורת הבודהיסטית, עם וריאציות אזוריות ניכרות (המאיטריה היושב של המסורת ההודית-הנפאלית, המאיטריה העומד של מסורות מזרח-אסיאתיות שונות, המאיטריה כבודהה הצוחק של המסורת העממית הסינית).
 
-**The Raëlian connection**. Notably, Raël has been identified within the Raëlian movement (and specifically in the published *Maitreya* book) as the Maitreya figure of the Buddhist tradition, providing one specific connection between the Buddhist Maitreya tradition and the Raëlian framework.
+**הזיקה הראלית**. באופן בולט, ראל זוהה בתוך התנועה הראלית (ובמיוחד בספר *מאיטריה* שפורסם) כדמות המאיטריה של המסורת הבודהיסטית, ובכך סיפק זיקה ספציפית אחת בין מסורת המאיטריה הבודהיסטית למסגרת הראלית.
 
-The framework reads the Buddhist Maitreya tradition as substantively preserving the operational content of the projected return framework within the distinctive Buddhist religious framing.
+המסגרת קוראת את מסורת המאיטריה הבודהיסטית כמשַמרת מהותית את התוכן התפעולי של מסגרת השיבה המוקרנת בתוך המסגור הדתי הבודהיסטי הייחודי.
 
-### Hindu Kalki avatar
+### אווטאר הקאלקי ההינדי
 
-The Hindu tradition preserves the **Kalki avatar** tradition — the projected tenth and final avatar of Vishnu, anticipated to appear at the end of the present Kali Yuga to restore righteousness and inaugurate a new cosmic age.
+המסורת ההינדית משַמרת את מסורת **אווטאר הקאלקי** — האווטאר העשירי והאחרון המוקרן של וישנו, המצופה להופיע בקץ הקאלי יוגה הנוכחית כדי לכונן מחדש את היושר ולחנוך עידן קוסמי חדש.
 
-**The Kalki framework**. Kalki is described in various Puranic texts as appearing on a white horse, wielding a sword, and conducting the cosmic-eschatological cleansing that ends the present Kali Yuga and inaugurates the new Satya Yuga.
+**מסגרת הקאלקי**. קאלקי מתואר בטקסטים פוראניים שונים כמופיע על סוס לבן, אוחז חרב, ומבצע את הטיהור הקוסמי-האסכטולוגי המסיים את הקאלי יוגה הנוכחית וחונך את הסאטיה יוגה החדשה.
 
-**The cosmic-cyclical context**. The Kalki tradition operates within the broader Hindu cyclic-cosmology framework (treated more fully in the [Cosmic Chain](../cosmic-chain/) entry), with the Kalki avatar marking the transition between cosmic ages.
+**ההקשר הקוסמי-המחזורי**. מסורת הקאלקי פועלת בתוך מסגרת הקוסמולוגיה ההינדית המחזורית הרחבה יותר (המטופלת באופן מלא יותר בערך [השרשרת הקוסמית](../cosmic-chain/)), כאשר אווטאר הקאלקי מסמן את המעבר בין עידנים קוסמיים.
 
-The framework reads the Hindu Kalki tradition as substantively preserving the operational content of the projected return framework within the distinctive Hindu religious-cosmological framing.
+המסגרת קוראת את מסורת הקאלקי ההינדית כמשַמרת מהותית את התוכן התפעולי של מסגרת השיבה המוקרנת בתוך המסגור הדתי-הקוסמולוגי ההינדי הייחודי.{{ cite(id="doniger-the-hindus", text="[15]", title="דוניגר, *The Hindus: An Alternative History* (2009) — אווטאר הקאלקי") }}
 
-### Zoroastrian Saoshyant
+### הסאושיאנט הזורואסטרי
 
-The Zoroastrian tradition preserves the **Saoshyant** tradition — the anticipated savior figure (or sequence of three savior figures) who will conduct the cosmic-eschatological renewal at the end of the present cosmic age.
+המסורת הזורואסטרית משַמרת את מסורת ה**סאושיאנט** — דמות המושיע המצופה (או רצף של שלוש דמויות מושיע) שתבצע את החידוש הקוסמי-האסכטולוגי בקץ העידן הקוסמי הנוכחי.
 
-**The Saoshyant framework**. Various Zoroastrian texts (the Avesta, the Pahlavi literature, various subsequent traditions) develop the Saoshyant tradition with substantial specific content. The principal Saoshyant figure (Astvat-ereta) is projected to conduct the *frashokereti* (the cosmic renewal), restoring the cosmos to its original perfect state.
+**מסגרת הסאושיאנט**. טקסטים זורואסטריים שונים (האווסטה, הספרות הפהלווית, מסורות מאוחרות שונות) מפתחים את מסורת הסאושיאנט עם תוכן ספציפי ניכר. דמות הסאושיאנט העיקרית (אסטוט-ארטה) מוקרנת לבצע את ה-*frashokereti* (החידוש הקוסמי), המשיב את הקוסמוס למצבו המושלם המקורי.
 
-**The historical influence**. The Zoroastrian Saoshyant tradition is widely recognized as having substantial historical influence on the development of Jewish, Christian, and Islamic eschatological frameworks, particularly through the Persian period of Israelite history and the broader Hellenistic-religious synthesis.
+**ההשפעה ההיסטורית**. מסורת הסאושיאנט הזורואסטרית מוכרת באופן רחב כבעלת השפעה היסטורית ניכרת על התפתחות המסגרות האסכטולוגיות היהודית, הנוצרית והאסלאמית, בפרט דרך התקופה הפרסית של ההיסטוריה הישראלית והסינתזה הדתית-ההלניסטית הרחבה יותר.
 
-The framework reads the Zoroastrian Saoshyant tradition as substantively preserving the operational content of the projected return framework within the distinctive Zoroastrian religious framing, with the broader historical influence on Western eschatological tradition being one specific channel through which the broader operational content has been preserved.
+המסגרת קוראת את מסורת הסאושיאנט הזורואסטרית כמשַמרת מהותית את התוכן התפעולי של מסגרת השיבה המוקרנת בתוך המסגור הדתי הזורואסטרי הייחודי, כאשר ההשפעה ההיסטורית הרחבה יותר על המסורת האסכטולוגית המערבית היא ערוץ ספציפי אחד שדרכו השתמר התוכן התפעולי הרחב יותר.{{ cite(id="boyce-zoroastrians", text="[16]", title="בויס, *Zoroastrians* (2001) — הסאושיאנט וה-frashokereti") }}
 
-### Indigenous return-of-creators traditions
+### מסורות שיבת-הבוראים הילידיות
 
-Various indigenous traditions preserve substantial material on anticipated returns of creator-figures.
+מסורות ילידיות שונות משַמרות חומר ניכר על שיבות מצופות של דמויות-בוראים.
 
-**Mesoamerican return-of-Quetzalcoatl tradition**. The Aztec and broader Mesoamerican tradition preserves substantial material on the projected return of Quetzalcoatl (the feathered serpent deity), with the projected return having substantial historical significance during the early period of the Spanish conquest (the Aztec emperor Moctezuma II's reported initial identification of Cortés as Quetzalcoatl returning, though the historical accuracy of this identification has been substantially debated in subsequent scholarship).
+**מסורת שיבת קצלקואטל המסואמריקנית**. המסורת האצטקית והמסואמריקנית הרחבה יותר משַמרת חומר ניכר על שיבתו המוקרנת של קצלקואטל (אל הנחש המנוצה), כאשר לשיבה המוקרנת הייתה משמעות היסטורית ניכרת בתקופה המוקדמת של הכיבוש הספרדי (הזיהוי הראשוני המדווח של הקיסר האצטקי מוקטסומה השני את קורטס כקצלקואטל השב, אף שדיוקו ההיסטורי של זיהוי זה נדון במידה ניכרת במחקר שבא בעקבותיו).{{ cite(id="carrasco-quetzalcoatl", text="[17]", title="קאראסקו, *Quetzalcoatl and the Irony of Empire* (1982) — נבואת השיבה") }}
 
-**Various other indigenous traditions** preserve return-of-creator content within their distinctive cultural-religious framings, with substantial specific material across multiple geographic regions (Polynesian, North American, South American, African, Australian Aboriginal, and various other indigenous traditions).
+**מסורות ילידיות שונות אחרות** משַמרות תוכן שיבת-בורא בתוך מסגוריהן התרבותיים-הדתיים הייחודיים, עם חומר ספציפי ניכר לאורך אזורים גאוגרפיים מרובים (מסורות פולינזיות, צפון-אמריקאיות, דרום-אמריקאיות, אפריקאיות, אבוריג'יניות אוסטרליות, ומסורות ילידיות שונות אחרות).
 
-The framework reads the indigenous return-of-creators traditions as substantively preserving the operational content of the projected return framework within the various distinctive cultural-religious framings.
+המסגרת קוראת את מסורות שיבת-הבוראים הילידיות כמשַמרות מהותית את התוכן התפעולי של מסגרת השיבה המוקרנת בתוך המסגורים התרבותיים-הדתיים הייחודיים השונים.
 
-### The convergence
+### ההתכנסות
 
-The corpus's working position on the comparative-anticipated-return question is that the global recurrence of anticipated-return traditions across cultural-religious frameworks is meaningful as evidence of a genuine underlying reality. The mainstream scholarly explanation — which generally treats the various traditions as developing their own anticipated-return content through internal religious-cultural processes combined with cultural diffusion — is read by the corpus as substantially insufficient to account for the breadth and the specific structural parallels (the projected return of specific creator-figures, the cosmic-eschatological context, the specific operational features) that appear consistently across geographically and chronologically separated traditions.
+עמדת העבודה של הקורפוס בשאלת השיבה-המצופה ההשוואתית היא שההישנות הגלובלית של מסורות שיבה-מצופה לאורך מסגרות תרבותיות-דתיות היא בעלת משמעות כעדות למציאות תשתיתית אמיתית.{{ footnote(id="6") }} ההסבר המחקרי המרכזי — המתייחס בדרך כלל למסורות השונות כמפתחות את תוכן השיבה-המצופה שלהן דרך תהליכים דתיים-תרבותיים פנימיים בשילוב התפשטות תרבותית — נקרא על ידי הקורפוס כבלתי-מספק במידה ניכרת להסביר את ההיקף ואת המקבילות המבניות הספציפיות (השיבה המוקרנת של דמויות-בורא ספציפיות, ההקשר הקוסמי-האסכטולוגי, המאפיינים התפעוליים הספציפיים) המופיעות באופן עקבי לאורך מסורות מופרדות גאוגרפית וכרונולוגית.
 
-The framework's specific reading is that the global anticipated-return pattern preserves common memory of the broader cosmic-political situation that the embassy framework articulates, with each cultural-religious tradition preserving the memory in its own terms and with its own specific details reflecting its own perspective and its own subsequent transmission history. The Jewish Third Temple tradition preserves the operational content most directly relative to the embassy framework's specific architectural-operational specifications; the Christian Parousia, Islamic Mahdi, Buddhist Maitreya, Hindu Kalki, Zoroastrian Saoshyant, and various indigenous return-of-creators traditions preserve the operational content through their respective cultural channels.
+קריאתה הספציפית של המסגרת היא שהתבנית הגלובלית של השיבה-המצופה משַמרת זיכרון משותף של המצב הקוסמי-הפוליטי הרחב יותר שמסגרת השגרירות מנסחת, כאשר כל מסורת תרבותית-דתית משַמרת את הזיכרון במונחיה שלה ועם הפרטים הספציפיים שלה המשקפים את נקודת מבטה שלה ואת תולדות העברתה שלה. מסורת בית המקדש השלישי היהודית משַמרת את התוכן התפעולי במישרין הרבה ביותר ביחס למפרטים האדריכליים-התפעוליים הספציפיים של מסגרת השגרירות; הפארוסיה הנוצרית, המהדי האסלאמי, המאיטריה הבודהיסטי, הקאלקי ההינדי, הסאושיאנט הזורואסטרי, ומסורות שיבת-הבוראים הילידיות השונות משַמרות את התוכן התפעולי דרך ערוציהן התרבותיים בהתאמה.
 
-The corpus does not require rejecting all of the mainstream scholarly framework. Cultural diffusion certainly occurred across the historical period, and the anticipated-return traditions across cultures show both common structural features (preserving the original framework) and culturally specific elaborations (reflecting the diffusion and local development). What the corpus's framework adds is the underlying cosmic-political situation that gave rise to the structural commonalities — a situation that the mainstream framework, lacking the corpus's broader cosmological framework, has had no way to identify and has therefore had to attribute to combinations of independent religious development and cultural diffusion.
-
-## See also
-
-- [Cosmic Competition](../cosmic-competition/)
-- [Doubled Signature](../doubled-signature/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Apocalypse](../apocalypse/)
-- [Raël](../rael/)
-- [Yahweh](../yahweh/)
-- [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Prophet](../prophet/)
-- [Jesus](../jesus/)
-- [Moses](../moses/)
-- [Atomic Threshold](../atomic-threshold/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Genesis](../genesis/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. The "New Commandments — Your Mission" section is the principal source for the embassy specifications.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*. The October 7, 1975 Roc Plat second-contact material elaborates the embassy specifications and the broader Israeli-context material.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagon Press, 2005 (English edition collecting the principal Raëlian source-material). The 2005 commentary by Raël includes substantial embassy-project status updates and the December 13, 1997 message.
-
-International Raëlian Movement. *Optional Protocol Concerning Embassies for Extraterrestrials*. Submitted to the United Nations, 2015.
-
-International Raëlian Movement. Various official communications regarding the embassy project across the 2021-2025 period, including AEDC announcements, mayoral-presentation reports, and the 2024 Memorandum of Collaboration announcement.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-The Hebrew Bible (BHS, Stuttgart Vulgate, NRSV).
-
-Ezekiel 40-48 (the prophetic-architectural specifications of the future temple).
-
-The Greek New Testament. Nestle-Aland, 28th rev. ed., 2012.
-
-Vienna Convention on Diplomatic Relations. Signed Vienna, April 18, 1961; entered into force April 24, 1964.
-
-Lateran Treaty. Signed Vatican City, February 11, 1929 (establishing Vatican City State).
-
-Mellon, Christopher. Various op-eds and policy statements on UAP transparency, 2017-2025.
-
-Elizondo, Luis. *Imminent: Inside the Pentagon's Hunt for UFOs*. William Morrow, 2024.
-
-Grusch, David. Testimony to U.S. House Oversight Committee, July 26, 2023.
-
-Loeb, Avi. *Extraterrestrial: The First Sign of Intelligent Life Beyond Earth*. Houghton Mifflin Harcourt, 2021.
-
-Loeb, Avi. *Interstellar: The Search for Extraterrestrial Life and Our Future Beyond Earth*. Mariner, 2023.
-
-Sol Foundation (Stanford University). Various publications and conferences, 2023-2025.
-
-Galileo Project (Harvard University). Various publications and observational reports, 2021-2025.
-
-Maimonides. *Mishneh Torah*, *Hilchot Melachim* 11:1 (the principal Maimonidean position on the Third Temple).
-
-Levi, Eliyahu. *The Third Temple: A Study of Future Worship*. Jerusalem, 2010.
-
-Goldberg, Hillel. *The Fight for Jerusalem: Radical Islam, the West, and the Future of the Holy City*. Regnery, 2007.
-
-Sandt, Huub van de, and Jürgen K. Zangenberg, eds. *Matthew, James, and Didache: Three Related Documents in Their Jewish and Christian Settings*. Society of Biblical Literature, 2008.
-
-Wright, N. T. *The Resurrection of the Son of God*. Christian Origins and the Question of God 3. Fortress Press, 2003.
-
-Halperin, David J. *The Faces of the Chariot: Early Jewish Responses to Ezekiel's Vision*. Mohr Siebeck, 1988.
-
-Sachedina, Abdulaziz Abdulhussein. *Islamic Messianism: The Idea of Mahdi in Twelver Shi'ism*. State University of New York Press, 1981.
-
-Cook, David. *Studies in Muslim Apocalyptic*. Darwin Press, 2002.
-
-Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. Routledge, 2nd ed., 2008.
-
-Buswell, Robert E., Jr., and Donald S. Lopez Jr. *The Princeton Dictionary of Buddhism*. Princeton University Press, 2014.
-
-Doniger, Wendy. *The Hindus: An Alternative History*. Penguin, 2009.
-
-Boyce, Mary. *Zoroastrians: Their Religious Beliefs and Practices*. Routledge, 2nd ed., 2001.
-
-Carrasco, Davíd. *Quetzalcoatl and the Irony of Empire: Myths and Prophecies in the Aztec Tradition*. University of Chicago Press, 1982.
-
-"Vienna Convention on Diplomatic Relations." *United Nations Treaty Series*, vol. 500, p. 95.
-
-"Vatican City State." *Encyclopaedia Britannica*. <https://www.britannica.com/place/Vatican-City>
-
-"Third Temple." *Wikipedia*. <https://en.wikipedia.org/wiki/Third_Temple>
-
-"Parousia." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Parousia>
-
-"Mahdi." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Mahdi-Islamic-concept>
-
-"Maitreya." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Maitreya-Buddhism>
-
-"Kalki." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Kalki>
-
-International Raëlian Movement. <https://www.rael.org>
-
-Embassy for the Elohim. <https://elohimembassy.org>
+הקורפוס אינו דורש דחייה של כל המסגרת המחקרית המרכזית. התפשטות תרבותית בהחלט התרחשה לאורך התקופה ההיסטורית, ומסורות השיבה-המצופה לאורך תרבויות מראות הן מאפיינים מבניים משותפים (המשַמרים את המסגרת המקורית) והן פירוטים ייחודיים-תרבותית (המשקפים את ההתפשטות וההתפתחות המקומית). מה שמסגרת הקורפוס מוסיפה הוא המצב הקוסמי-הפוליטי התשתיתי שהוליד את המשותפות המבניות — מצב שהמסגרת המרכזית, בהיעדר המסגרת הקוסמולוגית הרחבה יותר של הקורפוס, לא הייתה לה דרך לזהותו ולפיכך נאלצה לייחסו לשילובים של התפתחות דתית עצמאית והתפשטות תרבותית.

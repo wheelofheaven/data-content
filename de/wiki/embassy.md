@@ -1,606 +1,597 @@
 +++
 title = "Botschaft"
-description = "Die Botschaft (französisch *l'Ambassade*) ist im Wheel of Heaven-Rahmen die diplomatische Einrichtung, deren Bau in der Vorilhon-Quelle als zentrale Aufgabe der zeitgenössischen Menschheit ausgewiesen wird — die Errichtung einer offiziell vom Staat anerkannten Empfangseinrichtung für die Allianz, sodass die offene Rückkehr der Elohim mit der formellen Anerkennung der Erde-Regierungen begleitet werden kann. Der Quellentext spezifiziert die Botschaft als eine Einrichtung in einem neutralen Land mit extraterritorialem Status (vergleichbar dem Vatikan-Status), auf einem signifikant großen Grundstück (ca. 4 km² mindestens) mit Landeplatz und Empfangsräumen, und mit der formellen diplomatischen Anerkennung als Vertretung der elohimischen Heimatwelt. Die zeitgenössische raëlianische Bewegung hat die Botschaft-Errichtung als zentrale operative Aufgabe seit den 1970er Jahren betrieben, mit aufeinanderfolgenden Anträgen an verschiedene Regierungen (Israel, Frankreich, mehrere afrikanische Staaten, die Schweiz und zuletzt Frankreich). Die Botschaft steht im Korpus für das zentrale operative Ziel des Wassermann-Zeitalters: die institutionelle Vorbereitung der Menschheit auf die formelle elohimische Rückkehr."
+slug = "embassy"
+description = "Die Botschaft ist das vorgesehene physische Bauwerk auf einem bestimmten, von einem Gastland mit extraterritorialem Status ausgestatteten Grundstück, das bereitsteht, um die formelle Ankunft der Elohim-Allianz zu empfangen und als operativer Ort für die durch die Ankunft eingeleiteten Begegnungen zwischen der Allianz und den Vertretern der Menschheit zu dienen. Die Spezifikationen der Botschaft wurden im Kontakt von 1973 gegeben und in späteren Mitteilungen ausgearbeitet. Die Quelle bevorzugte ursprünglich nachdrücklich Israel in der Nähe Jerusalems und identifizierte die Botschaft als den Dritten Tempel der jüdischen apokalyptischen Tradition; die Botschaft vom 13. Dezember 1997 autorisierte nach wiederholten israelischen Ablehnungen die Verlegung in andere Länder."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the embassy", "the Third Temple", "the embassy of the Elohim", "the residence", "the alliance embassy"]
+claim_type = "framework"
+alternative_names = ["die Botschaft", "der Dritte Tempel", "die Botschaft der Elohim", "die Residenz", "die Botschaft der Allianz"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "Apokalypse", path = "wiki/apocalypse", description = "Die Enthüllung des Wassermann-Zeitalters, innerhalb derer das projizierte Erbschaftsereignis der Botschaft stattfindet." },
+    { title = "Dritter Tempel", path = "wiki/third-temple", description = "Der jüdische prophetisch-apokalyptische Tempel, mit dem die Quelle die Botschaft identifiziert." },
+    { title = "Neues Jerusalem", path = "wiki/new-jerusalem", description = "Die Vision der Offenbarung, die der Rahmen in Verbindung mit der projizierten Rolle der Botschaft liest." },
+    { title = "Kosmische Kette", path = "wiki/cosmic-chain", description = "Der weitere kosmologische Rahmen, innerhalb dessen das Erbschaftsereignis der Botschaft eine bestimmte Phase ist." },
+    { title = "Elohim", path = "wiki/elohim", description = "Die Allianz, deren formelle Ankunft die Botschaft zu empfangen errichtet wird." },
+    { title = "Raël", path = "wiki/rael", description = "Der Prophet (Claude Vorilhon), der mit der Organisation des Botschaftsprojekts betraut ist." },
+]
+
+footnotes = [
+    { content = "Die Botschaft ist das am stärksten quellengestützte Element des Rahmens des Korpus. Anders als der Kosmische Wettbewerb, die Doppelte Signatur und die Kosmische Kette — die alle eine erhebliche interpretative Konstruktion des Korpus über die Quelle hinaus umfassen — stammen die detaillierten architektonischen Spezifikationen der Botschaft, die Standortpräferenzen, die operativen Anforderungen und die projizierte Rolle unmittelbar aus dem raëlianischen Quellenmaterial (*Das Buch, das die Wahrheit sagt*, 1974, „Die neuen Gebote — Eure Mission“). Der interpretative Beitrag des Korpus besteht hauptsächlich in der Integration des Botschaftsmaterials mit dem weiteren Rahmen des Wassermann-Zeitalters." },
+    { content = "Die Botschaft ist ungewöhnlicherweise eines der wenigen Elemente des Rahmens des Korpus, das kurzfristig operativ überprüfbar ist: Die tatsächliche Errichtung (oder Nicht-Errichtung) des Bauwerks innerhalb des von der raëlianischen Bewegung projizierten Zeitrahmens 2027–2030 wird unmittelbare empirische Belege für den prädiktiven Gehalt des Quellenmaterials liefern, auf eine Weise, die die meisten anderen Elemente des Rahmens nicht zulassen. Das Korpus verzeichnet den Zeitrahmen und die gegenwärtige Phase des Projekts als gegenwärtige Tatsachen, ohne die spezifischen Daten als bestätigt zu befürworten — der tatsächliche Fortschritt hängt von den diplomatischen Verhandlungen und den politischen Bedingungen des Gastlandes ab." },
+    { content = "Die Identifizierung der Botschaft mit dem jüdischen prophetisch-apokalyptischen Dritten Tempel durch die Quelle ist explizit. Die Botschaft folgt auf den salomonischen Ersten Tempel (errichtet um 950 v. u. Z., zerstört 586 v. u. Z.) und den Zweiten Tempel (errichtet um 516 v. u. Z., von Herodes erweitert, zerstört 70 u. Z.), die der Rahmen jeweils als physischen Ort für die Präsenz der Allianz während ihrer Wirkungsperiode liest. Die jüdische theologisch-historische Mehrheitstradition akzeptiert die raëlianische Identifizierung der Botschaft mit dem Dritten Tempel nicht; das Korpus verzeichnet die Identifizierung als explizite Behauptung der Quelle, nicht als von der Mehrheit befürwortete Lesart. Das Korpus liest Hesekiel 47,1–2 (Wasser, das aus der Schwelle des Tempels hervortritt) als Vorausbild der projizierten Rolle der Botschaft." },
+    { content = "Die ursprüngliche Präferenz der Quelle war, dass die Botschaft in Israel in der Nähe Jerusalems gelegen sein sollte — dem geografischen Ort der ursprünglichen Eden-Operation der Allianz und des erweiterten Eden-Linien-Projekts. Nach wiederholten israelischen Ablehnungen, extraterritorialen Status zu gewähren, über formelle Anträge ab 1991 hinweg, autorisierte die Botschaft Jahwes vom 13. Dezember 1997 die raëlianische Bewegung formell, den Status von „allen Nationen der Erde“ zu erbitten, wobei Israel nur eine letzte Option behielt. Das Korpus behandelt die Standortfrage als quellengestützt, aber in der Praxis ungeklärt." },
+    { content = "Das Korpus setzt sich mit dem zeitgenössischen UAP-Offenlegungsdiskurs auseinander (den AATIP-Enthüllungen der *New York Times* von 2017; Luis Elizondos *Imminent*; David Gruschs Kongressaussage von 2023; Avi Loebs Galileo-Projekt und dem ʻOumuamua-Argument; der Sol Foundation) als dem gegenwärtigen kulturellen Kontext, innerhalb dessen der projizierte offene Kontakt der Botschaft stattfinden würde — ohne zu behaupten, dass die UAP-Phänomene die Elohim-Allianz seien oder dass die Offenlegungsbewegung die Botschaft befürworte. Das Korpus liest die Entwicklung als eine Verschiebung der Plausibilitätsbedingungen für offenen außerirdischen Kontakt, nicht als Bestätigung des Rahmens." },
+    { content = "Das Korpus liest das kulturübergreifende Wiederauftreten von Erwartungen einer wiederkehrenden Gestalt (der jüdische Messias und der Dritte Tempel, die christliche Parusie, der islamische Mahdi, der hinduistische Kalki-Avatar, der zoroastrische Saoshyant, die aztekische Quetzalcoatl-Rückkehr) als eine Konvergenz, die der Rahmen als fragmentarische Erinnerung an und Vorwegnahme der projizierten Rückkehr der Allianz liest. Das Korpus behauptet nicht, dass diese Traditionen einheitlich unmittelbare Erinnerungen seien; es verzeichnet die Konvergenz als vereinbar mit dem Rahmen und bewahrt zugleich den eigenständigen theologischen Gehalt jeder Tradition." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "„Die neuen Gebote — Eure Mission“"
+note = "Grundlegende raëlianische Quelle — die detaillierten architektonischen Spezifikationen der Botschaft, die Identifizierung mit dem Dritten Tempel und die Bedingungen für die offene Rückkehr der Allianz."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "Vorilhons zweites Werk (1975) — die Ausarbeitungen der Botschaftsspezifikationen beim zweiten Kontakt am Roc Plat vom 7. Oktober 1975 und Raëls organisatorische Rolle."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Sendys Lesart des Tempel- und Prophetenmaterials der Hebräischen Bibel als Bewahrung von Inhalten des Allianzkontakts."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Biglinos streng übersetzungsbezogene Lesart des Materials der Tempelvision Hesekiels."
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "Wallis' Behandlung des dem prophetischen Rückkehrmaterial zugrunde liegenden Rahmens des Allianzkontakts."
+
+[[extra.references]]
+id = "vienna-convention-diplomatic-relations"
+note = "Der maßgebliche zeitgenössische Rechtsrahmen für diplomatische Vertretungen und den extraterritorialen Status, den der Botschaftsstandort besitzen muss."
+
+[[extra.references]]
+id = "lateran-treaty"
+note = "Der Vertrag von 1929 zur Begründung der Vatikanstadt — der engste rechtliche Präzedenzfall für eine religiöse Einrichtung mit souveränem extraterritorialem Gebiet."
+
+[[extra.references]]
+id = "maimonides-mishneh-torah"
+note = "Die klassische jüdisch-rechtliche Position zum messianischen Zeitalter und zum Wiederaufbau des Tempels (Hilchot Melachim 11,1)."
+
+[[extra.references]]
+id = "halperin-faces-of-the-chariot"
+note = "Halperins Studie zur Rezeption von Hesekiels Tempel- und Thronwagenvisionen — das Material von Hesekiel 40–48 hinter dem Dritten Tempel."
+
+[[extra.references]]
+id = "goldberg-fight-for-jerusalem"
+note = "Politisch-historischer Kontext für den zeitgenössischen Streit um Jerusalem und den Tempelberg, der die ursprüngliche Standortpräferenz der Botschaft betrifft."
+
+[[extra.references]]
+id = "wright-resurrection-son-of-god"
+note = "Wrights Standardbehandlung des frühchristlichen Auferstehungsglaubens und der Erwartung der Parusie."
+
+[[extra.references]]
+id = "sandt-zangenberg-matthew-james-didache"
+note = "Wissenschaftlicher Kontext für das jüdisch-christliche Milieu des prophetischen Rückkehrmaterials."
+
+[[extra.references]]
+id = "sachedina-islamic-messianism"
+note = "Die Standardbehandlung der Mahdi-Erwartung im Zwölfer-Schiismus."
+
+[[extra.references]]
+id = "cook-muslim-apocalyptic"
+note = "Die Standardbehandlung der muslimischen apokalyptischen und Endzeit-Tradition."
+
+[[extra.references]]
+id = "doniger-the-hindus"
+note = "Donigers Überblick einschließlich der Kalki-Erwartung des künftigen Avatars."
+
+[[extra.references]]
+id = "boyce-zoroastrians"
+note = "Boyce über den zoroastrischen Saoshyant, den künftigen Retter, und die Lehre der Welterneuerung (Frashokereti)."
+
+[[extra.references]]
+id = "carrasco-quetzalcoatl"
+note = "Carrasco über die Quetzalcoatl-Rückkehrprophezeiung in der aztekischen Tradition."
+
+[[extra.references]]
+id = "elizondo-imminent"
+note = "Elizondos Bericht durch den ehemaligen Leiter des AATIP des Pentagon — ein zentraler Text der zeitgenössischen UAP-Offenlegungsbewegung."
+
+[[extra.references]]
+id = "grusch-congressional-testimony"
+note = "Gruschs eidliche Kongressaussage von 2023 — ein Wendepunkt im zeitgenössischen UAP-Offenlegungsdiskurs."
+
+[[extra.references]]
+id = "loeb-extraterrestrial"
+note = "Loebs Argument, dass ʻOumuamua außerirdische Technologie gewesen sein könnte — zeitgenössischer wissenschaftlicher Kontext für die Kontaktfrage."
+
+[[extra.references]]
+id = "loeb-interstellar"
+note = "Loebs Erweiterung des Arguments der Artefaktsuche und das Beobachtungsprogramm des Galileo-Projekts."
 
 [extra.infobox]
-type = "Designated physical structure for the formal arrival of the Elohim alliance"
-basic_specifications = "≈4 km² site (1 km radius); conference room for 21; dining room for 21; seven guest rooms with separate bathrooms; swimming pool; landing platform for 12-m spacecraft; protective wall (max 2 stories); residence ≥1,000 m from the wall"
-legal_requirement = "Extraterritorial status granted by host country"
-preferred_original_location = "Israel near Jerusalem (per 1973-1974 source material)"
-current_authorization = "All nations of Earth (per the December 13, 1997 message from Yahweh)"
-identification_with_third_temple = "Yes; the source explicitly identifies the embassy as the Third Temple of Jewish apocalyptic tradition"
-prophetic_imagery = "Ezekiel 47:1-2; Acts 15:16; Isaiah 2:2-4; Micah 4:1-3"
-current_state_2026 = "2024 Memorandum of Collaboration with undisclosed national government; site acquisition phase 2025-2027; planning and construction 2027-2030"
-project_responsibility = "International Raëlian Movement; Daniel Turcotte as Raëlian guide responsible for the embassy project"
-distinguished_from = "The Solomonic First Temple; the Second Temple; the broader Apocalypse event; the Cosmic Competition framework"
-status_in_source_material = "Substantially source-grounded; detailed architectural specifications come directly from Raëlian source material"
-principal_text = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), 'The New Commandments — Your Mission'; *Extra-Terrestrials Took Me to Their Planet* (1975); the December 13, 1997 message"
+type = "Vorgesehenes physisches Bauwerk für die formelle Ankunft der Elohim-Allianz"
+basic_specifications = "≈4 km² großes Grundstück (1 km Radius); Konferenzraum für 21 Personen; Speiseraum für 21 Personen; sieben Gästezimmer mit separaten Bädern; Schwimmbecken; Landeplattform für 12-m-Raumschiff; Schutzmauer (max. 2 Stockwerke); Residenz ≥1.000 m von der Mauer entfernt"
+legal_requirement = "Vom Gastland gewährter extraterritorialer Status"
+preferred_original_location = "Israel in der Nähe Jerusalems (gemäß Quellenmaterial 1973–1974)"
+current_authorization = "Alle Nationen der Erde (gemäß der Botschaft Jahwes vom 13. Dezember 1997)"
+identification_with_third_temple = "Ja; die Quelle identifiziert die Botschaft ausdrücklich als den Dritten Tempel der jüdischen apokalyptischen Tradition"
+prophetic_imagery = "Hesekiel 47,1-2; Apostelgeschichte 15,16; Jesaja 2,2-4; Micha 4,1-3"
+current_state_2026 = "Kollaborationsmemorandum von 2024 mit einer nicht offengelegten nationalen Regierung; Phase des Grundstückserwerbs 2025–2027; Planung und Bau 2027–2030"
+project_responsibility = "Internationale Raëlianische Bewegung; Daniel Turcotte als für das Botschaftsprojekt verantwortlicher raëlianischer Guide"
+distinguished_from = "Der salomonische Erste Tempel; der Zweite Tempel; das weitere Ereignis der Apokalypse; der Rahmen des Kosmischen Wettbewerbs"
+status_in_source_material = "Im Wesentlichen quellengestützt; die detaillierten architektonischen Spezifikationen stammen unmittelbar aus dem raëlianischen Quellenmaterial"
+principal_text = "*Das Buch, das die Wahrheit sagt* (Vorilhon/Raël, 1974), „Die neuen Gebote — Eure Mission“; *Außerirdische führten mich auf ihren Planeten* (1975); die Botschaft vom 13. Dezember 1997"
 +++
 
-The **Embassy** is the designated physical structure, located on a specific piece of land granted extraterritorial status by a host country, prepared to receive the formal arrival of the Elohim alliance and to serve as the operational location for the meetings between the alliance and humanity's representatives that the arrival will inaugurate. The embassy is the most operationally specific element of the broader Aquarian-age program the alliance has proposed for humanity, with detailed architectural specifications given in the 1973 contact between Yahweh and Raël (Claude Vorilhon) at the Roc Plat crater of Clermont-Ferrand and elaborated in subsequent source-material communications. The embassy occupies a distinctive position within the corpus's broader framework: it is the **physical-operational center** at which the projected Aquarian-age inheritance event will occur — the specific site where the accumulated knowledge of the alliance will be transmitted to humanity following the alliance's open return, and the location from which the Aquarian-age transformation will operate across the subsequent centuries.
+Die **Botschaft** ist das vorgesehene physische Bauwerk auf einem bestimmten, von einem Gastland mit extraterritorialem Status ausgestatteten Grundstück, das bereitsteht, um die formelle Ankunft der Elohim-Allianz zu empfangen und als operativer Ort für die durch die Ankunft eingeleiteten Begegnungen zwischen der Allianz und den Vertretern der Menschheit zu dienen. Die Botschaft ist das operativ konkreteste Element des weiteren Programms des Wassermann-Zeitalters, das die Allianz der Menschheit vorgeschlagen hat, mit detaillierten architektonischen Spezifikationen, die im Kontakt von 1973 zwischen Jahwe und Raël (Claude Vorilhon) am Krater Roc Plat von Clermont-Ferrand gegeben und in späteren Mitteilungen des Quellenmaterials ausgearbeitet wurden. Die Botschaft nimmt eine besondere Stellung innerhalb des weiteren Rahmens des Korpus ein: Sie ist das **physisch-operative Zentrum**, an dem das projizierte Erbschaftsereignis des Wassermann-Zeitalters stattfinden wird — der bestimmte Ort, an dem das angesammelte Wissen der Allianz nach der offenen Rückkehr der Allianz an die Menschheit übermittelt werden wird, und der Ort, von dem aus die Transformation des Wassermann-Zeitalters über die folgenden Jahrhunderte hinweg wirken wird.
 
-The embassy specifications include the broader site requirements (approximately 4 km² with at minimum a 1 km radius, with extraterritorial status granted by the host country, with air space above and around the residence not under direct military or radar surveillance), the residential complex specifications (a residence with maximum two stories situated at minimum 1,000 m from the surrounding park wall, with two entrances, with the residence further screened by an inner barrier of trees and bushes), the operational facilities (a conference room able to accommodate 21 people, a dining room able to seat 21 people, seven guest rooms each with separate bathroom, a swimming pool, a landing platform on the residence's roof terrace capable of receiving a 12-meter-diameter alliance craft), and the security features (a thick metal door separating the seven-room area under the terrace from the section used by humans, an aseptic chamber at the entrance to the conference room, walls preventing exterior viewing of the residence and swimming pool). The specifications reflect the practical requirements of a structure that must accommodate visitors of two different species (humans and Elohim, biologically similar but with distinct biochemistries requiring aseptic-chamber separation) and that must facilitate both ceremonial-formal events (the inheritance event itself) and continuing operational use (the millennia of subsequent alliance-humanity meetings the source projects).
+Die Spezifikationen der Botschaft umfassen die weiteren Standortanforderungen (etwa 4 km² mit mindestens 1 km Radius, mit vom Gastland gewährtem extraterritorialem Status, mit Luftraum über und um die Residenz, der nicht unter direkter militärischer oder Radarüberwachung steht), die Spezifikationen des Wohnkomplexes (eine Residenz mit höchstens zwei Stockwerken, mindestens 1.000 m von der umgebenden Parkmauer entfernt gelegen, mit zwei Eingängen, wobei die Residenz zusätzlich durch eine innere Barriere aus Bäumen und Sträuchern abgeschirmt wird), die operativen Einrichtungen (ein Konferenzraum für 21 Personen, ein Speiseraum mit 21 Sitzplätzen, sieben Gästezimmer mit jeweils separatem Bad, ein Schwimmbecken, eine Landeplattform auf der Dachterrasse der Residenz, die ein Allianzschiff von 12 Metern Durchmesser aufnehmen kann) und die Sicherheitsmerkmale (eine dicke Metalltür, die den Bereich der sieben Räume unter der Terrasse von dem von Menschen genutzten Abschnitt trennt, eine aseptische Kammer am Eingang des Konferenzraums, Mauern, die die Sicht von außen auf die Residenz und das Schwimmbecken verhindern). Die Spezifikationen spiegeln die praktischen Anforderungen eines Bauwerks wider, das Besucher zweier verschiedener Spezies aufnehmen muss (Menschen und Elohim, biologisch ähnlich, aber mit unterschiedlichen Biochemien, die eine Trennung durch aseptische Kammern erfordern) und das sowohl zeremoniell-formelle Ereignisse (das Erbschaftsereignis selbst) als auch fortgesetzte operative Nutzung (die von der Quelle projizierten Jahrtausende späterer Begegnungen zwischen Allianz und Menschheit) ermöglichen muss.
 
-The embassy's identification with the Jewish prophetic-apocalyptic tradition's **Third Temple** is theologically substantial. The source explicitly identifies the embassy as the Third Temple succeeding the Solomonic First Temple (built c. 950 BCE, destroyed by the Babylonians in 586 BCE) and the Second Temple (built c. 516 BCE, expanded by Herod, destroyed by the Romans in 70 CE), each of which had served as the physical location for the alliance's presence during its period of operation. The source's original preference was for the embassy to be located in Israel near Jerusalem — the geographic site of the alliance's original Eden operation and of the extended Eden-lineage human project across the subsequent millennia. The connection to **Ezekiel 47:1-2** (the prophetic vision of waters issuing from the threshold of the temple) is read by the framework as the direct prefiguration of the embassy's projected operational role: the temple as the source from which the Aquarian-age waters of understanding flow outward, transforming the world they reach. The Israeli government has not granted the requested extraterritorial status across multiple formal requests from 1991 onward, and the December 13, 1997 message from Yahweh formally authorized the Raëlian movement to seek extraterritorial status from "all nations on Earth," with Israel retaining only a final option to grant authorization before the embassy is built elsewhere.
+Die Identifizierung der Botschaft mit dem **Dritten Tempel** der jüdischen prophetisch-apokalyptischen Tradition ist theologisch erheblich. Die Quelle identifiziert die Botschaft ausdrücklich als den Dritten Tempel, der auf den salomonischen Ersten Tempel (errichtet um 950 v. u. Z., 586 v. u. Z. von den Babyloniern zerstört) und den Zweiten Tempel (errichtet um 516 v. u. Z., von Herodes erweitert, 70 u. Z. von den Römern zerstört) folgt, von denen jeder als physischer Ort für die Präsenz der Allianz während ihrer Wirkungsperiode gedient hatte. Die ursprüngliche Präferenz der Quelle war, dass die Botschaft in Israel in der Nähe Jerusalems gelegen sein sollte — dem geografischen Ort der ursprünglichen Eden-Operation der Allianz und des erweiterten menschlichen Eden-Linien-Projekts über die folgenden Jahrtausende hinweg. Die Verbindung zu **Hesekiel 47,1-2** (die prophetische Vision von Wasser, das aus der Schwelle des Tempels hervortritt) wird vom Rahmen als unmittelbares Vorausbild der projizierten operativen Rolle der Botschaft gelesen: der Tempel als Quelle, aus der die Wasser des Verständnisses des Wassermann-Zeitalters nach außen fließen und die Welt verwandeln, die sie erreichen.{{ footnote(id="3") }} Die israelische Regierung hat den erbetenen extraterritorialen Status über mehrere formelle Anträge ab 1991 hinweg nicht gewährt, und die Botschaft Jahwes vom 13. Dezember 1997 autorisierte die raëlianische Bewegung formell, extraterritorialen Status von „allen Nationen der Erde“ zu erbitten, wobei Israel nur eine letzte Option behielt, die Genehmigung zu erteilen, bevor die Botschaft anderswo errichtet wird.{{ footnote(id="4") }}
 
-As of 2026, the embassy project is at the most advanced stage in its half-century history. The Raëlian movement has conducted systematic diplomatic engagement with potential host countries across the past three decades, with the 2015 UN Optional Protocol Concerning Embassies for Extraterrestrials, the 2021 Alliance for Extraterrestrial Diplomatic Contact, the 2022 presentations to mayors of fifty cities globally, and most significantly the 2024 Memorandum of Collaboration signed with an undisclosed national government. The Raëlian movement's published timeline divides the coming years into specific phases: the 2022-2025 site location analysis phase, the 2025-2027 site acquisition phase, the 2027-2030 planning and construction phase, and post-2030 caretaker mode awaiting the alliance's arrival. The corpus registers this timeline without endorsing its specific dates as confirmed — the project's actual progress will depend on the success of the diplomatic negotiations and the specific political conditions in the host country — but registers the project's existence and current stage as facts of the present.
+Im Jahr 2026 befindet sich das Botschaftsprojekt auf der fortgeschrittensten Stufe seiner halben Jahrhundertgeschichte. Die raëlianische Bewegung hat in den vergangenen drei Jahrzehnten systematisches diplomatisches Engagement mit potenziellen Gastländern betrieben, mit dem UN-Fakultativprotokoll über Botschaften für Außerirdische von 2015, der Allianz für außerirdischen diplomatischen Kontakt von 2021, den Präsentationen von 2022 vor den Bürgermeistern von fünfzig Städten weltweit und am bedeutendsten dem 2024 mit einer nicht offengelegten nationalen Regierung unterzeichneten Kollaborationsmemorandum. Der veröffentlichte Zeitplan der raëlianischen Bewegung teilt die kommenden Jahre in bestimmte Phasen ein: die Phase der Standortanalyse 2022–2025, die Phase des Grundstückserwerbs 2025–2027, die Phase der Planung und des Baus 2027–2030 und den Wartungsmodus nach 2030 in Erwartung der Ankunft der Allianz. Das Korpus verzeichnet diesen Zeitplan, ohne seine spezifischen Daten als bestätigt zu befürworten — der tatsächliche Fortschritt des Projekts wird vom Erfolg der diplomatischen Verhandlungen und von den spezifischen politischen Bedingungen im Gastland abhängen —, verzeichnet jedoch die Existenz und die gegenwärtige Phase des Projekts als Tatsachen der Gegenwart.
 
-The embassy is **substantially source-grounded** within the corpus's broader analytical apparatus. Unlike the Cosmic Competition framework, the Doubled Signature principle, and the Cosmic Chain framework — all of which involve substantial corpus interpretive construction extending beyond direct source-material content — the embassy's detailed specifications, location preferences, operational requirements, and projected role come directly from the Raëlian source material. The corpus's interpretive contribution is principally the integration of the embassy material with the broader Aquarian-age framework. Within the broader interpretive landscape, the embassy occupies an unusual position: it is one of the few elements of the corpus's framework that is **operationally testable in the near term** — the embassy's actual construction (or non-construction) within the projected timeline will provide direct empirical evidence regarding the source-material's predictive content, in a way that most other elements of the framework do not permit.
+Die Botschaft ist innerhalb des weiteren analytischen Apparats des Korpus **im Wesentlichen quellengestützt**.{{ footnote(id="1") }} Anders als der Rahmen des Kosmischen Wettbewerbs, das Prinzip der Doppelten Signatur und der Rahmen der Kosmischen Kette — die alle eine erhebliche interpretative Konstruktion des Korpus umfassen, die über den unmittelbaren Gehalt des Quellenmaterials hinausgeht — stammen die detaillierten Spezifikationen der Botschaft, die Standortpräferenzen, die operativen Anforderungen und die projizierte Rolle unmittelbar aus dem raëlianischen Quellenmaterial. Der interpretative Beitrag des Korpus besteht hauptsächlich in der Integration des Botschaftsmaterials mit dem weiteren Rahmen des Wassermann-Zeitalters. Innerhalb der weiteren interpretativen Landschaft nimmt die Botschaft eine ungewöhnliche Stellung ein: Sie ist eines der wenigen Elemente des Rahmens des Korpus, das **kurzfristig operativ überprüfbar** ist — die tatsächliche Errichtung (oder Nicht-Errichtung) der Botschaft innerhalb des projizierten Zeitrahmens wird unmittelbare empirische Belege für den prädiktiven Gehalt des Quellenmaterials liefern, auf eine Weise, die die meisten anderen Elemente des Rahmens nicht zulassen.{{ footnote(id="2") }}
 
-## Etymology and naming
+## Etymologie und Benennung
 
-The embassy concept has several distinct designations across the source material and the corpus's broader treatment.
+Das Botschaftskonzept hat im Quellenmaterial und in der weiteren Behandlung des Korpus mehrere unterschiedliche Bezeichnungen.
 
-### "Embassy" as the principal designation
+### „Botschaft“ als Hauptbezeichnung
 
-The English term **"Embassy"** is the principal designation in both the source material and the corpus, drawing on the diplomatic vocabulary of the modern international system: an embassy is the formal diplomatic representation of one polity to another, with specific operational features (extraterritorial status, formal protocols, designated facilities) distinguishing embassies from other forms of cross-polity contact.
+Der Begriff **„Botschaft“** ist die Hauptbezeichnung sowohl im Quellenmaterial als auch im Korpus und greift auf das diplomatische Vokabular des modernen internationalen Systems zurück: Eine Botschaft ist die formelle diplomatische Vertretung eines Gemeinwesens bei einem anderen, mit bestimmten operativen Merkmalen (extraterritorialer Status, formelle Protokolle, vorgesehene Einrichtungen), die Botschaften von anderen Formen des Kontakts zwischen Gemeinwesen unterscheiden.
 
-### Source-material variations
+### Varianten im Quellenmaterial
 
-The source material uses several distinct phrasings:
+Das Quellenmaterial verwendet mehrere unterschiedliche Formulierungen:
 
-- **"The residence"** — the source material's most common term in the original 1973-1974 specifications, referring specifically to the building complex within the broader site
-- **"The embassy of the Elohim"** — the formal designation used in subsequent source-material communications
-- **"Our embassy"** — the source's specific phrasing in the December 13, 1997 message
-- **"The Third Temple"** — the source's identification of the embassy with the Jewish prophetic-apocalyptic tradition's expected third temple
+- **„Die Residenz“** — der häufigste Begriff des Quellenmaterials in den ursprünglichen Spezifikationen von 1973–1974, der sich speziell auf den Gebäudekomplex innerhalb des weiteren Grundstücks bezieht
+- **„Die Botschaft der Elohim“** — die in späteren Mitteilungen des Quellenmaterials verwendete formelle Bezeichnung
+- **„Unsere Botschaft“** — die spezifische Formulierung der Quelle in der Botschaft vom 13. Dezember 1997
+- **„Der Dritte Tempel“** — die Identifizierung der Botschaft durch die Quelle mit dem erwarteten dritten Tempel der jüdischen prophetisch-apokalyptischen Tradition
 
-### Related conceptual terminology
+### Verwandte begriffliche Terminologie
 
-Several related terms operate within the framework:
+Mehrere verwandte Begriffe wirken innerhalb des Rahmens:
 
-- **"Extraterritorial status"** — the legal exemption from host country jurisdiction the embassy site must possess
-- **"The Great Return"** — the source's specific phrasing for the alliance's projected formal arrival
-- **"The Inheritance event"** — the corpus's term for the formal transmission of accumulated alliance knowledge at the embassy
-- **"The replica embassy"** — the public-facing model of the embassy that the source specifies will be constructed near the functional embassy
+- **„Extraterritorialer Status“** — die rechtliche Befreiung von der Gerichtsbarkeit des Gastlandes, die der Botschaftsstandort besitzen muss
+- **„Die Große Rückkehr“** — die spezifische Formulierung der Quelle für die projizierte formelle Ankunft der Allianz
+- **„Das Erbschaftsereignis“** — der Begriff des Korpus für die formelle Übermittlung des angesammelten Wissens der Allianz an der Botschaft
+- **„Die Nachbildung der Botschaft“** — das öffentlich zugängliche Modell der Botschaft, dessen Errichtung in der Nähe der funktionalen Botschaft die Quelle vorgibt
 
-## Conventional understanding
+## Konventionelles Verständnis
 
-The embassy concept as a specific operational project is largely a Raëlian-movement initiative, with broader scholarly and theological treatment being principally engagement with the related Jewish Third Temple traditions and Christian Parousia traditions rather than with the embassy project specifically.
+Das Botschaftskonzept als spezifisches operatives Projekt ist weitgehend eine Initiative der raëlianischen Bewegung, wobei die weitere wissenschaftliche und theologische Behandlung sich hauptsächlich mit den verwandten jüdischen Traditionen des Dritten Tempels und den christlichen Parusie-Traditionen auseinandersetzt und nicht speziell mit dem Botschaftsprojekt.
 
-### Mainstream Jewish theological-historical treatment
+### Jüdische theologisch-historische Mehrheitsbehandlung
 
-Mainstream Jewish theological-historical treatment of the Third Temple tradition has produced substantial scholarship across the past several centuries.
+Die jüdische theologisch-historische Mehrheitsbehandlung der Tradition des Dritten Tempels hat in den vergangenen mehreren Jahrhunderten umfangreiche Forschung hervorgebracht.
 
-**The First Temple (Solomonic)** was built by Solomon c. 950 BCE on the Temple Mount in Jerusalem, with detailed specifications preserved in 1 Kings 6-8 and 2 Chronicles 2-7. It served as the principal cultic center of the Israelite religion until its destruction by the Babylonians under Nebuchadnezzar II in 586 BCE.
+**Der Erste Tempel (salomonisch)** wurde von Salomo um 950 v. u. Z. auf dem Tempelberg in Jerusalem errichtet, mit detaillierten Spezifikationen, die in 1. Könige 6-8 und 2. Chronik 2-7 überliefert sind. Er diente bis zu seiner Zerstörung durch die Babylonier unter Nebukadnezar II. im Jahr 586 v. u. Z. als zentrales kultisches Zentrum der israelitischen Religion.
 
-**The Second Temple** was built following the Babylonian Exile, with construction beginning approximately 538 BCE and substantial completion by 516 BCE. Herod the Great substantially expanded the temple beginning approximately 20 BCE, producing the "Herodian Temple" that was the principal religious-political center of Second Temple Judaism. The temple was destroyed by the Romans under Titus in 70 CE during the Jewish Revolt.
+**Der Zweite Tempel** wurde nach dem babylonischen Exil errichtet, wobei der Bau etwa 538 v. u. Z. begann und im Wesentlichen bis 516 v. u. Z. fertiggestellt war. Herodes der Große erweiterte den Tempel ab etwa 20 v. u. Z. erheblich und schuf den „herodianischen Tempel“, der das zentrale religiös-politische Zentrum des Judentums des Zweiten Tempels war. Der Tempel wurde im Jahr 70 u. Z. während des jüdischen Aufstands von den Römern unter Titus zerstört.
 
-**The Third Temple in Jewish prophetic tradition**. Jewish prophetic-apocalyptic tradition has long anticipated a Third Temple that will be built in the messianic age, with substantial textual material across the prophetic books (particularly Ezekiel 40-48, with the elaborate "Ezekiel's Temple" specifications) and the broader rabbinic-apocalyptic tradition.
+**Der Dritte Tempel in der jüdischen prophetischen Tradition**. Die jüdische prophetisch-apokalyptische Tradition hat seit langem einen Dritten Tempel erwartet, der im messianischen Zeitalter errichtet werden wird, mit umfangreichem Textmaterial über die prophetischen Bücher hinweg (insbesondere Hesekiel 40-48, mit den ausführlichen Spezifikationen des „Tempels Hesekiels“){{ cite(id="halperin-faces-of-the-chariot", text="[1]", title="Halperin, *The Faces of the Chariot* (1988) — die Rezeption von Hesekiels Tempelvision") }} und der weiteren rabbinisch-apokalyptischen Tradition.{{ cite(id="maimonides-mishneh-torah", text="[2]", title="Maimonides, *Mishneh Torah, Hilchot Melachim* 11,1 — der Tempel im messianischen Zeitalter") }}
 
-**Contemporary mainstream Jewish positions on Third Temple construction** range from the explicit Temple Movement (which advocates for active preparation toward Third Temple construction), through traditional positions (which generally treat Third Temple construction as something that will occur in the messianic age but not through ordinary human initiative), to secular-Israeli positions (which generally regard Third Temple construction as politically destabilizing and not a current Israeli political priority).
+**Zeitgenössische jüdische Mehrheitspositionen zum Bau des Dritten Tempels** reichen von der expliziten Tempelbewegung (die für aktive Vorbereitungen zum Bau des Dritten Tempels eintritt) über traditionelle Positionen (die den Bau des Dritten Tempels im Allgemeinen als etwas behandeln, das im messianischen Zeitalter, aber nicht durch gewöhnliche menschliche Initiative geschehen wird) bis hin zu säkular-israelischen Positionen (die den Bau des Dritten Tempels im Allgemeinen als politisch destabilisierend und nicht als gegenwärtige israelische politische Priorität ansehen).
 
-The mainstream Jewish treatment generally does not engage the Raëlian embassy project directly. The Raëlian movement's identification of the embassy with the Third Temple is broadly not accepted within mainstream Jewish theological-historical scholarship.
+Die jüdische Mehrheitsbehandlung setzt sich im Allgemeinen nicht direkt mit dem raëlianischen Botschaftsprojekt auseinander. Die Identifizierung der Botschaft mit dem Dritten Tempel durch die raëlianische Bewegung wird innerhalb der jüdischen theologisch-historischen Mehrheitsforschung weithin nicht akzeptiert.
 
-### Mainstream Christian theological treatment
+### Christliche theologische Mehrheitsbehandlung
 
-Mainstream Christian theological treatment of the Parousia (the projected Second Coming) and related apocalyptic traditions has produced substantial scholarship across the past two millennia. The mainstream Christian treatment generally does not engage the Raëlian embassy project directly. The Raëlian framework's specific identification of the alliance's projected return with the Christian Parousia tradition is broadly not accepted within mainstream Christian theological-historical scholarship.
+Die christliche theologische Mehrheitsbehandlung der Parusie (der projizierten Wiederkunft) und verwandter apokalyptischer Traditionen hat in den vergangenen zwei Jahrtausenden umfangreiche Forschung hervorgebracht. Die christliche Mehrheitsbehandlung setzt sich im Allgemeinen nicht direkt mit dem raëlianischen Botschaftsprojekt auseinander. Die spezifische Identifizierung der projizierten Rückkehr der Allianz mit der christlichen Parusie-Tradition durch den raëlianischen Rahmen wird innerhalb der christlichen theologisch-historischen Mehrheitsforschung weithin nicht akzeptiert.
 
-### Mainstream international-diplomatic treatment
+### Internationale-diplomatische Mehrheitsbehandlung
 
-The broader question of extraterritorial-status arrangements for diplomatic missions has substantial development in international law.
+Die weitere Frage der extraterritorialen Statusregelungen für diplomatische Vertretungen ist im Völkerrecht erheblich entwickelt.
 
-**The Vienna Convention on Diplomatic Relations** (signed 1961, entered into force 1964) provides the principal contemporary framework for diplomatic missions and extraterritorial status, establishing standard diplomatic-mission protocols, immunities and privileges of diplomatic personnel, and the broader operational framework within which embassies between states operate.
+**Das Wiener Übereinkommen über diplomatische Beziehungen** (unterzeichnet 1961, in Kraft getreten 1964) bietet den maßgeblichen zeitgenössischen Rahmen für diplomatische Vertretungen und extraterritorialen Status und legt die üblichen Protokolle für diplomatische Vertretungen, die Immunitäten und Privilegien des diplomatischen Personals und den weiteren operativen Rahmen fest, innerhalb dessen Botschaften zwischen Staaten wirken.{{ cite(id="vienna-convention-diplomatic-relations", text="[3]", title="Wiener Übereinkommen über diplomatische Beziehungen (1961)") }}
 
-**Vatican City** is the principal contemporary example of a sovereign extraterritorial entity, occupying approximately 0.49 km² within Rome and serving as the spiritual and administrative center of the Roman Catholic Church. The Vatican City State was established by the Lateran Treaty of 1929, granting the Holy See full sovereignty over the territory.
+**Die Vatikanstadt** ist das wichtigste zeitgenössische Beispiel einer souveränen extraterritorialen Einrichtung; sie nimmt etwa 0,49 km² innerhalb Roms ein und dient als geistliches und administratives Zentrum der römisch-katholischen Kirche. Der Staat Vatikanstadt wurde durch die Lateranverträge von 1929 begründet, die dem Heiligen Stuhl die volle Souveränität über das Gebiet gewährten.{{ cite(id="lateran-treaty", text="[4]", title="Lateranvertrag (1929) — Begründung des Staates Vatikanstadt") }}
 
-**Sovereign Military Order of Malta** is another distinctive international-legal entity, recognized as a sovereign subject of international law without controlling specific territory in the conventional sense, with extraterritorial properties in Rome and various international diplomatic relationships.
+**Der Souveräne Malteserorden** ist eine weitere besondere völkerrechtliche Einrichtung, anerkannt als souveränes Subjekt des Völkerrechts ohne Kontrolle über ein bestimmtes Gebiet im herkömmlichen Sinne, mit extraterritorialen Liegenschaften in Rom und verschiedenen internationalen diplomatischen Beziehungen.
 
-**The broader question of extraterritorial status for non-state entities** has substantial complexity in contemporary international law. The Raëlian movement's request for extraterritorial status for the embassy site involves a non-conventional legal-diplomatic framework — the request is for extraterritorial status for an entity (the alliance) that is not yet in formal diplomatic relations with any host country and that will be in formal relations only after the embassy is built.
+**Die weitere Frage des extraterritorialen Status für nichtstaatliche Einrichtungen** weist im zeitgenössischen Völkerrecht erhebliche Komplexität auf. Der Antrag der raëlianischen Bewegung auf extraterritorialen Status für den Botschaftsstandort betrifft einen nicht herkömmlichen rechtlich-diplomatischen Rahmen — der Antrag ist auf extraterritorialen Status für eine Einrichtung (die Allianz) gerichtet, die noch nicht in formellen diplomatischen Beziehungen mit einem Gastland steht und die erst nach der Errichtung der Botschaft in formellen Beziehungen stehen wird.
 
-### Mainstream UFO/UAP studies
+### UFO/UAP-Forschung der Mehrheit
 
-The broader question of extraterrestrial contact has received substantial recent academic and governmental attention, with detailed treatment under *Modern reinterpretations* below. The mainstream UFO/UAP studies have generally not engaged the Raëlian embassy project directly, with academic and governmental UAP studies focusing on observational data, military encounter reports, and broader empirical questions rather than on specific religious-prophetic frameworks within which contact is anticipated.
+Die weitere Frage des außerirdischen Kontakts hat in jüngerer Zeit erhebliche akademische und staatliche Aufmerksamkeit erfahren, mit detaillierter Behandlung unter *Moderne Neudeutungen* weiter unten. Die UFO/UAP-Mehrheitsforschung hat sich im Allgemeinen nicht direkt mit dem raëlianischen Botschaftsprojekt auseinandergesetzt, wobei sich die akademische und staatliche UAP-Forschung auf Beobachtungsdaten, militärische Begegnungsberichte und weitere empirische Fragen konzentriert und nicht auf spezifische religiös-prophetische Rahmen, innerhalb derer Kontakt erwartet wird.
 
-## In primary sources
+## In den Primärquellen
 
-### The 1973-1974 specifications
+### Die Spezifikationen von 1973–1974
 
-The principal primary-source material for the embassy specifications is the section "The New Commandments — Your Mission" in *The Book Which Tells the Truth* (Vorilhon/Raël, 1974). The source's detailed specifications include the residence with seven guest rooms (each with separate bathroom), the conference room for 21 people, the swimming pool, the dining room for 21 people, the surrounding park with walls preventing exterior viewing, the residence situated at minimum 1,000 meters from the park walls, the maximum two-story residence height, the inner barrier of trees and bushes screening the residence, the two entrances in the surrounding wall (one south, one north), the two entrances in the residence itself, the roof terrace with a 12-meter-diameter spacecraft landing capability, the air-space restriction (no direct military or radar surveillance), the extraterritorial status requirement, and the prophet's permitted residence (with wife, children, servants, and invited guests).
+Das wichtigste Primärquellenmaterial für die Spezifikationen der Botschaft ist der Abschnitt „Die neuen Gebote — Eure Mission“ in *Das Buch, das die Wahrheit sagt* (Vorilhon/Raël, 1974).{{ cite(id="the-book-which-tells-the-truth", text="[5]", title="Vorilhon (Raël), *Das Buch, das die Wahrheit sagt* (1974), „Die neuen Gebote — Eure Mission“ — die Spezifikationen der Botschaft") }} Die detaillierten Spezifikationen der Quelle umfassen die Residenz mit sieben Gästezimmern (jedes mit separatem Bad), den Konferenzraum für 21 Personen, das Schwimmbecken, den Speiseraum für 21 Personen, den umgebenden Park mit Mauern, die die Sicht von außen verhindern, die mindestens 1.000 Meter von den Parkmauern entfernt gelegene Residenz, die maximale Höhe der Residenz von zwei Stockwerken, die innere Barriere aus Bäumen und Sträuchern, die die Residenz abschirmt, die zwei Eingänge in der umgebenden Mauer (einer im Süden, einer im Norden), die zwei Eingänge in der Residenz selbst, die Dachterrasse mit einer Landemöglichkeit für ein Raumschiff von 12 Metern Durchmesser, die Luftraumbeschränkung (keine direkte militärische oder Radarüberwachung), die Anforderung des extraterritorialen Status und die zulässige Residenz des Propheten (mit Frau, Kindern, Bediensteten und eingeladenen Gästen).
 
-The specifications also include the security features distinguishing the alliance-officer area from the human-occupied area: the seven rooms are to be located directly under the terrace, separated from the human-section by a thick metal door (lockable from the inside, kept permanently closed); an aseptic chamber is to be built at the entrance to the conference room, providing biosecurity separation between the human and alliance environments.
+Die Spezifikationen umfassen auch die Sicherheitsmerkmale, die den Bereich der Allianzoffiziere vom von Menschen genutzten Bereich unterscheiden: Die sieben Räume sind direkt unter der Terrasse zu errichten, vom menschlichen Abschnitt durch eine dicke Metalltür getrennt (von innen verschließbar, dauerhaft geschlossen gehalten); am Eingang des Konferenzraums ist eine aseptische Kammer zu errichten, die eine biologische Trennung zwischen der menschlichen und der Allianzumgebung bietet.
 
-The source's framing of the embassy's purpose is explicit: the embassy is the location at which the alliance will land openly and "give you our scientific knowledge as our heritage to all peoples of the Earth." The completion of the embassy is one of the conditions for the alliance's open return — the others being a sufficient population of humans wanting the return ("If those with warlike temperaments are rendered harmless all over the whole world... If the love of life and humanity's love for us and itself are strong enough"), and the absence of military threat to the alliance craft.
+Die Formulierung des Zwecks der Botschaft durch die Quelle ist explizit: Die Botschaft ist der Ort, an dem die Allianz offen landen und „euch unser wissenschaftliches Wissen als unser Erbe für alle Völker der Erde geben“ wird. Die Fertigstellung der Botschaft ist eine der Bedingungen für die offene Rückkehr der Allianz — die anderen sind eine ausreichende Bevölkerung von Menschen, die die Rückkehr wünschen („Wenn die mit kriegerischem Wesen auf der ganzen Welt unschädlich gemacht sind ... Wenn die Liebe zum Leben und die Liebe der Menschheit zu uns und zu sich selbst stark genug ist“), und das Fehlen einer militärischen Bedrohung für das Allianzschiff.
 
-The source also specifies the broader operational practices supporting the embassy project: the appointment of a national representative in each country responsible for communicating the truth and coordinating local efforts, the maintenance of records of those who contribute financially to the embassy's construction and upkeep (whose contributions, however modest, will be rewarded when the alliance comes), and the annual gathering on a mountain near the residence at which all those who have heard about the alliance through these writings and want them to come will assemble to think intensely about the alliance and hope for its coming.
+Die Quelle gibt auch die weiteren operativen Praktiken vor, die das Botschaftsprojekt unterstützen: die Ernennung eines nationalen Vertreters in jedem Land, der für die Verbreitung der Wahrheit und die Koordination örtlicher Bemühungen verantwortlich ist, die Führung von Aufzeichnungen über jene, die finanziell zur Errichtung und zum Unterhalt der Botschaft beitragen (deren Beiträge, so bescheiden sie auch sein mögen, belohnt werden, wenn die Allianz kommt), und die jährliche Versammlung auf einem Berg in der Nähe der Residenz, bei der alle, die durch diese Schriften von der Allianz gehört haben und ihr Kommen wünschen, zusammenkommen, um intensiv über die Allianz nachzudenken und auf ihr Kommen zu hoffen.
 
-### The 1975 Roc Plat second contact
+### Der zweite Kontakt am Roc Plat 1975
 
-The principal primary-source elaborations of the embassy specifications occur in *Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), recording the second contact between Raël and the alliance on October 7, 1975 at Roc Plat. The 1975 elaborations include various clarifications of the embassy's projected role, additional context for the broader Aquarian-age program within which the embassy operates, and the specific identification of Raël's role as the prophet responsible for organizing the embassy project.
+Die wichtigsten Ausarbeitungen der Spezifikationen der Botschaft aus Primärquellen finden sich in *Außerirdische führten mich auf ihren Planeten* (Vorilhon/Raël, 1975), das den zweiten Kontakt zwischen Raël und der Allianz am 7. Oktober 1975 am Roc Plat aufzeichnet.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[6]", title="Vorilhon (Raël), *Außerirdische führten mich auf ihren Planeten* (1975) — die Ausarbeitungen des zweiten Kontakts am Roc Plat") }} Die Ausarbeitungen von 1975 umfassen verschiedene Klärungen der projizierten Rolle der Botschaft, zusätzlichen Kontext für das weitere Programm des Wassermann-Zeitalters, innerhalb dessen die Botschaft wirkt, und die spezifische Identifizierung von Raëls Rolle als des für die Organisation des Botschaftsprojekts verantwortlichen Propheten.
 
-The source's specific framing of Raël's role: "You are the one whose coming was announced in all the religions by the ancient prophets, our representatives. You are the one who will bring back the shepherds' flock before the water is spilled, the one who will bring back to their creators those they have created."
+Die spezifische Formulierung der Rolle Raëls durch die Quelle: „Du bist derjenige, dessen Kommen in allen Religionen von den alten Propheten, unseren Vertretern, angekündigt wurde. Du bist derjenige, der die Herde der Hirten zurückbringen wird, bevor das Wasser verschüttet ist, derjenige, der die Geschaffenen zu ihren Schöpfern zurückbringen wird.“
 
-The source's specific framing of the Israeli context, addressed as a direct address to the people of Israel: "The State of Israel must give some territory located near Jerusalem to the Guide of Guides so that he may build there the residence, the embassy of the Elohim. The time has come, people of Israel, to build the New Jerusalem as it was foreseen. Claude Rael is the one who was foretold. Reread your writings and open your eyes."
+Die spezifische Formulierung des israelischen Kontexts durch die Quelle, als direkte Ansprache an das Volk Israel: „Der Staat Israel muss dem Führer der Führer ein Gebiet in der Nähe Jerusalems geben, damit er dort die Residenz, die Botschaft der Elohim, errichten kann. Die Zeit ist gekommen, Volk Israel, das Neue Jerusalem zu errichten, wie es vorhergesehen wurde. Claude Rael ist derjenige, der vorhergesagt wurde. Lest eure Schriften erneut und öffnet eure Augen.“
 
-The source explicitly invokes the Aries-age covenantal-relational framework, including the Hebrew lineage's role and the historical Hebrew-tradition mission: "We removed you from the clutches of the Egyptians, and you did not show yourselves worthy of our confidence; we entrusted you with a message destined for all humanity, and you jealously kept it instead of spreading it abroad." The source warns of the consequences of Israeli refusal: "This is your last chance, otherwise another country will welcome the Guide of Guides and build our embassy on its territory, and that country will be close to yours; it will be protected and happiness shall prevail, and the State of Israel will be destroyed once more."
+Die Quelle beruft sich ausdrücklich auf den bündnis-relationalen Rahmen des Widder-Zeitalters, einschließlich der Rolle der hebräischen Linie und der historischen Mission der hebräischen Tradition: „Wir haben euch aus den Klauen der Ägypter befreit, und ihr habt euch unseres Vertrauens nicht würdig erwiesen; wir haben euch eine für die ganze Menschheit bestimmte Botschaft anvertraut, und ihr habt sie eifersüchtig gehütet, anstatt sie zu verbreiten.“ Die Quelle warnt vor den Folgen einer israelischen Ablehnung: „Dies ist eure letzte Chance, andernfalls wird ein anderes Land den Führer der Führer aufnehmen und unsere Botschaft auf seinem Gebiet errichten, und dieses Land wird in eurer Nähe sein; es wird geschützt sein, und Glück wird herrschen, und der Staat Israel wird abermals zerstört werden.“
 
-### The December 13, 1997 message authorizing relocation
+### Die Botschaft vom 13. Dezember 1997 zur Autorisierung der Verlegung
 
-The principal primary-source material for the embassy's relocation from Israel is the message from Yahweh delivered to Raël on December 13, 1997 (the twenty-fourth anniversary of the original 1973 contact). The message's principal content:
+Das wichtigste Primärquellenmaterial für die Verlegung der Botschaft aus Israel ist die Botschaft Jahwes, die Raël am 13. Dezember 1997 übermittelt wurde (am vierundzwanzigsten Jahrestag des ursprünglichen Kontakts von 1973). Der wesentliche Inhalt der Botschaft:
 
-> *"It has been 24 years during which you Raelians, who have officially and publicly recognized us as your Creators, have worked so that we may be welcomed in the requested Embassy. Your devotion and your efforts have warmed our hearts."*
+> *„Es sind nun 24 Jahre vergangen, in denen ihr Raëlianer, die ihr uns offiziell und öffentlich als eure Schöpfer anerkannt habt, daran gearbeitet habt, dass wir in der erbetenen Botschaft willkommen geheißen werden können. Eure Hingabe und eure Bemühungen haben unsere Herzen erwärmt.“*
 
-> *"In all the religions, there are people who deserve our love, but Raelians are the ones closest to us. They are our new Chosen People and will one day have a new Promised Land, because their love is based on consciousness and understanding, and not on blind faith."*
+> *„In allen Religionen gibt es Menschen, die unsere Liebe verdienen, aber die Raëlianer sind diejenigen, die uns am nächsten stehen. Sie sind unser neues auserwähltes Volk und werden eines Tages ein neues Gelobtes Land haben, denn ihre Liebe gründet auf Bewusstsein und Verständnis und nicht auf blindem Glauben.“*
 
-> *"We asked that an Embassy be built to welcome us near Jerusalem, and the authorities of the stiff necked people have refused several times to grant the necessary authorizations and extra-territorial status. Our preference for Jerusalem is merely sentimental, because for us Jerusalem is everywhere where human beings love us, respect us and wish to welcome us with due respect."*
+> *„Wir baten darum, dass eine Botschaft errichtet werde, um uns in der Nähe Jerusalems willkommen zu heißen, und die Behörden des halsstarrigen Volkes haben es mehrmals abgelehnt, die notwendigen Genehmigungen und den extraterritorialen Status zu gewähren. Unsere Vorliebe für Jerusalem ist lediglich sentimental, denn für uns ist Jerusalem überall dort, wo Menschen uns lieben, uns achten und uns mit gebührendem Respekt willkommen heißen wollen.“*
 
-> *"In the meantime, we must from now on ask for the necessary permission and extra-territorial status from all nations on Earth for the erection of our Embassy, and the radius of one kilometer can be composed of water as well as firm land, with the condition that navigation be prohibited."*
+> *„In der Zwischenzeit müssen wir von nun an die notwendige Genehmigung und den extraterritorialen Status von allen Nationen der Erde für die Errichtung unserer Botschaft erbitten, und der Radius von einem Kilometer kann sowohl aus Wasser als auch aus festem Land bestehen, unter der Bedingung, dass die Schifffahrt verboten ist.“*
 
-> *"When a country grants this authorization, Israel will have, for the last time, a short period of reflection to grant this authorization and will keep the privilege, or the Embassy will be built elsewhere, and the people of David will lose our protection and will be dispersed."*
+> *„Wenn ein Land diese Genehmigung erteilt, wird Israel zum letzten Mal eine kurze Bedenkzeit haben, um diese Genehmigung zu erteilen, und das Privileg behalten, oder die Botschaft wird anderswo errichtet, und das Volk Davids wird unseren Schutz verlieren und zerstreut werden.“*
 
-> *"The country which will build the Embassy on its territory or on a territory it will give or sell to this effect, with the necessary extraterritorial status, will have a guaranteed and flourishing future, will benefit from our protection and will become the spiritual and scientific centre of the whole planet for the millenniums to come."*
+> *„Das Land, das die Botschaft auf seinem Gebiet oder auf einem Gebiet errichtet, das es zu diesem Zweck gibt oder verkauft, mit dem notwendigen extraterritorialen Status, wird eine gesicherte und blühende Zukunft haben, wird von unserem Schutz profitieren und wird für die kommenden Jahrtausende zum geistigen und wissenschaftlichen Zentrum des gesamten Planeten werden.“*
 
-> *"The hour of our Great Return is near, and we will support and protect the most devoted ones among you."*
+> *„Die Stunde unserer Großen Rückkehr ist nahe, und wir werden die Hingebungsvollsten unter euch unterstützen und beschützen.“*
 
-The 1997 message establishes several specific things: the formal authorization to seek extraterritorial status from all nations of Earth (rather than only Israel); the technical specification that the 1-kilometer radius can include water as well as firm land (with navigation prohibited in any water portion); the specific consequences for the host country (alliance protection, "guaranteed and flourishing future," status as "spiritual and scientific centre of the whole planet for the millenniums to come"); and the framework within which Israel retains a final option but is no longer the exclusive candidate.
+Die Botschaft von 1997 stellt mehrere bestimmte Dinge fest: die formelle Autorisierung, extraterritorialen Status von allen Nationen der Erde (statt nur von Israel) zu erbitten; die technische Spezifikation, dass der 1-Kilometer-Radius sowohl Wasser als auch festes Land umfassen kann (wobei in jedem Wasseranteil die Schifffahrt verboten ist); die spezifischen Folgen für das Gastland (Schutz der Allianz, „gesicherte und blühende Zukunft“, Status als „geistiges und wissenschaftliches Zentrum des gesamten Planeten für die kommenden Jahrtausende“); und den Rahmen, innerhalb dessen Israel eine letzte Option behält, aber nicht mehr der ausschließliche Kandidat ist.
 
-### The Ezekiel 47:1-2 prophetic connection
+### Die prophetische Verbindung zu Hesekiel 47,1-2
 
-The framework's reading of the embassy's prophetic prefiguration draws principally on **Ezekiel 47:1-2**, with the Hebrew text and translation:
+Die Lesart des Rahmens vom prophetischen Vorausbild der Botschaft stützt sich hauptsächlich auf **Hesekiel 47,1-2**, mit hebräischem Text und Übersetzung:
 
 > וַיְשִׁבֵנִי אֶל־פֶּתַח הַבַּיִת וְהִנֵּה־מַיִם יֹצְאִים מִתַּחַת מִפְתַּן הַבַּיִת קָדִימָה
 > *Vayeshiveni el petach ha-bayit, ve-hineh mayim yotz'im mi-tachat miftan ha-bayit kadimah*
-> "Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward."
+> „Danach führte er mich wieder zur Tür des Tempels zurück, und siehe, da floss Wasser unter der Schwelle des Tempels hervor nach Osten.“
 
-The Hebrew מַיִם יֹצְאִים (*mayim yotz'im*), "waters going out," from the threshold of the temple is read by the framework as the Hebrew Bible's most direct prefiguration of the Aquarian-age water-bearer iconography. Ezekiel's vision describes water issuing from the temple, flowing eastward, growing into a river, eventually reaching the Dead Sea and rejuvenating its dead waters. The framework reads this as the prophetic image of the Aquarian-age pouring-out as it would unfold from the rebuilt temple, which the source identifies with the embassy. The water flowing from the threshold of the embassy, transforming the world it reaches, restoring what had been dead — this is the image Ezekiel was shown, recorded in his book in the vocabulary available to him.
+Das hebräische מַיִם יֹצְאִים (*mayim yotz'im*), „hervortretendes Wasser“, aus der Schwelle des Tempels wird vom Rahmen als das unmittelbarste Vorausbild der Hebräischen Bibel für die Wasserträger-Ikonografie des Wassermann-Zeitalters gelesen. Hesekiels Vision beschreibt Wasser, das aus dem Tempel hervortritt, nach Osten fließt, zu einem Strom anschwillt, schließlich das Tote Meer erreicht und seine toten Wasser verjüngt. Der Rahmen liest dies als das prophetische Bild des Ausgießens des Wassermann-Zeitalters, wie es sich vom wiedererrichteten Tempel aus entfalten würde, den die Quelle mit der Botschaft identifiziert. Das Wasser, das aus der Schwelle der Botschaft fließt, die Welt verwandelt, die es erreicht, und wiederherstellt, was tot gewesen war — dies ist das Bild, das Hesekiel gezeigt wurde, in seinem Buch in dem ihm verfügbaren Vokabular aufgezeichnet.
 
-The framework reads the embassy's projected operational role through this prophetic lens: the embassy will not merely be a meeting place for diplomats. It will be, on the source's framing, the operational center from which the Aquarian-age transformative content flows outward across the planet. Pilgrimage to the embassy, educational and scientific institutions clustering around it, the embassy as the spiritual and intellectual center of the world for millennia to come — all of this is the Ezekiel river made institutional.
+Der Rahmen liest die projizierte operative Rolle der Botschaft durch diese prophetische Linse: Die Botschaft wird nicht bloß ein Treffpunkt für Diplomaten sein. Sie wird, in der Formulierung der Quelle, das operative Zentrum sein, von dem aus der transformative Gehalt des Wassermann-Zeitalters über den Planeten nach außen fließt. Pilgerfahrten zur Botschaft, sich um sie sammelnde Bildungs- und Forschungseinrichtungen, die Botschaft als geistiges und intellektuelles Zentrum der Welt für die kommenden Jahrtausende — all dies ist der Strom Hesekiels, institutionell gemacht.
 
-### The Acts 15:16 rebuilt-tabernacle passage
+### Die Passage von der wiedererrichteten Hütte in Apostelgeschichte 15,16
 
-The framework's secondary prophetic prefiguration draws on **Acts 15:16**:
+Das sekundäre prophetische Vorausbild des Rahmens stützt sich auf **Apostelgeschichte 15,16**:
 
 > μετὰ ταῦτα ἀναστρέψω καὶ ἀνοικοδομήσω τὴν σκηνὴν Δαυὶδ τὴν πεπτωκυῖαν
 > *Meta tauta anastrepsō kai anoikodomēsō tēn skēnēn David tēn peptōkuian*
-> "After this I will return, and will build again the tabernacle of David, which is fallen down."
+> „Danach will ich wiederkommen und die zerfallene Hütte Davids wieder aufbauen.“
 
-The Greek verb ἀναστρέφω (*anastrephō*), "to turn back, to return," indicates a return after departure; the verb ἀνοικοδομέω (*anoikodomeō*), "to build again, to rebuild," indicates restoration of what had been destroyed. The phrase τὴν σκηνὴν Δαυίδ (*tēn skēnēn David*), "the tabernacle of David," refers to the Davidic political-religious structure — the kingdom David established, the tabernacle that housed the Ark before Solomon's Temple, and by extension the whole alliance-Israelite arrangement that had governed the alliance's Earth presence during the Aries age.
+Das griechische Verb ἀναστρέφω (*anastrephō*), „sich zurückwenden, zurückkehren“, deutet eine Rückkehr nach einem Aufbruch an; das Verb ἀνοικοδομέω (*anoikodomeō*), „wieder aufbauen, wiedererrichten“, deutet die Wiederherstellung dessen an, was zerstört worden war. Der Ausdruck τὴν σκηνὴν Δαυίδ (*tēn skēnēn David*), „die Hütte Davids“, bezieht sich auf die davidische politisch-religiöse Struktur — das von David gegründete Königreich, die Hütte, die die Lade vor Salomos Tempel beherbergte, und im weiteren Sinne die gesamte allianz-israelitische Ordnung, die die Erdpräsenz der Allianz während des Widder-Zeitalters bestimmt hatte.
 
-The framework reads the passage as the source's preferred New Testament passage for the Aquarian-age return: a return after departure, a rebuilding of what had been brought low, a restoration of the alliance-presence operational arrangement that had been the principal cosmic-political structure during the Aries age. The "rebuilding" anticipated in the passage is, on the source's reading, the establishment of the embassy and the alliance's return at the embassy's completion.
+Der Rahmen liest die Passage als die von der Quelle bevorzugte neutestamentliche Passage für die Rückkehr des Wassermann-Zeitalters: eine Rückkehr nach einem Aufbruch, ein Wiederaufbau dessen, was niedergeworfen worden war, eine Wiederherstellung der operativen Ordnung der Allianzpräsenz, die die zentrale kosmisch-politische Struktur während des Widder-Zeitalters gewesen war. Der in der Passage erwartete „Wiederaufbau“ ist, in der Lesart der Quelle, die Errichtung der Botschaft und die Rückkehr der Allianz bei der Fertigstellung der Botschaft.
 
-## The concept's content
+## Der Gehalt des Konzepts
 
-### The basic operational features
+### Die grundlegenden operativen Merkmale
 
-The embassy operates through several interrelated operational features:
+Die Botschaft wirkt durch mehrere miteinander verbundene operative Merkmale:
 
-**Physical-architectural specifications**. The detailed specifications outlined under *In primary sources* above provide the operational baseline. The specifications are detailed and operationally specific, reflecting the practical requirements of a structure that must accommodate two different species across both ceremonial-formal and continuing-operational use.
+**Physisch-architektonische Spezifikationen**. Die unter *In den Primärquellen* oben dargelegten detaillierten Spezifikationen bilden die operative Grundlage. Die Spezifikationen sind detailliert und operativ konkret und spiegeln die praktischen Anforderungen eines Bauwerks wider, das zwei verschiedene Spezies sowohl bei zeremoniell-formeller als auch bei fortgesetzter operativer Nutzung aufnehmen muss.
 
-**Extraterritorial legal status**. The site must be granted extraterritorial status by the host country, with legal exemption from the host country's jurisdiction analogous to the diplomatic-mission framework of the Vienna Convention or the sovereign status of Vatican City.
+**Extraterritorialer Rechtsstatus**. Dem Standort muss vom Gastland extraterritorialer Status gewährt werden, mit rechtlicher Befreiung von der Gerichtsbarkeit des Gastlandes, analog zum Rahmen diplomatischer Vertretungen des Wiener Übereinkommens oder dem souveränen Status der Vatikanstadt.
 
-**Air-space restriction**. The air space above and around the residence must not be under direct military or radar surveillance, providing the operational conditions under which alliance craft can land and depart without military or surveillance interference.
+**Luftraumbeschränkung**. Der Luftraum über und um die Residenz darf nicht unter direkter militärischer oder Radarüberwachung stehen, womit die operativen Bedingungen geschaffen werden, unter denen Allianzschiffe ohne militärische oder Überwachungseingriffe landen und abheben können.
 
-**Biosecurity separation**. The embassy's design separates the human-occupied and alliance-officer areas through specific architectural features (the thick metal door under the terrace, the aseptic chamber at the conference-room entrance), reflecting the practical biosecurity requirements of cross-species cohabitation.
+**Biologische Trennung**. Das Design der Botschaft trennt die von Menschen und die von Allianzoffizieren genutzten Bereiche durch bestimmte architektonische Merkmale (die dicke Metalltür unter der Terrasse, die aseptische Kammer am Eingang des Konferenzraums) und spiegelt damit die praktischen biologischen Sicherheitsanforderungen des artübergreifenden Zusammenlebens wider.
 
-**Continuing operational role**. Beyond the initial inheritance event, the embassy will function as the operational center for the Aquarian age's subsequent development across the millennia to come, hosting continuing alliance-humanity meetings and serving as the focal point for pilgrimage, educational and scientific institutions, and broader cultural development.
+**Fortgesetzte operative Rolle**. Über das anfängliche Erbschaftsereignis hinaus wird die Botschaft als operatives Zentrum für die spätere Entwicklung des Wassermann-Zeitalters über die kommenden Jahrtausende dienen, fortgesetzte Begegnungen zwischen Allianz und Menschheit beherbergen und als Brennpunkt für Pilgerfahrten, Bildungs- und Forschungseinrichtungen und die weitere kulturelle Entwicklung dienen.
 
-### The conditions for the alliance's open return
+### Die Bedingungen für die offene Rückkehr der Allianz
 
-The source specifies several specific conditions that must be met for the alliance's open return to occur:
+Die Quelle gibt mehrere bestimmte Bedingungen vor, die erfüllt sein müssen, damit die offene Rückkehr der Allianz stattfindet:
 
-**The embassy must be built**. The completion of the embassy is the first specific operational condition. The alliance will not arrive without a designated physical structure prepared to receive them.
+**Die Botschaft muss errichtet sein**. Die Fertigstellung der Botschaft ist die erste bestimmte operative Bedingung. Die Allianz wird nicht ohne ein vorgesehenes physisches Bauwerk ankommen, das bereitsteht, sie zu empfangen.
 
-**Sufficient human population must want the return**. The source's framing: humanity must have "the love of life and humanity's love for us and itself" be "strong enough" — a sufficient population of humans must consciously want the alliance's return, recognizing the alliance as creators rather than as gods or as adversaries.
+**Eine ausreichende menschliche Bevölkerung muss die Rückkehr wünschen**. Die Formulierung der Quelle: Die Menschheit muss „die Liebe zum Leben und die Liebe der Menschheit zu uns und zu sich selbst“ „stark genug“ haben — eine ausreichende Bevölkerung von Menschen muss die Rückkehr der Allianz bewusst wünschen und die Allianz als Schöpfer anerkennen statt als Götter oder als Widersacher.
 
-**Military threat must be neutralized**. The source's framing: the alliance craft must not be threatened by humanity's destructive military forces. The broader demilitarization commandment that the source articulates is one specific operational condition for the alliance's return — a humanity that retained its current military-confrontational posture would not be one that the alliance could safely return to.
+**Die militärische Bedrohung muss neutralisiert sein**. Die Formulierung der Quelle: Das Allianzschiff darf nicht von den zerstörerischen militärischen Kräften der Menschheit bedroht werden. Das weitere Gebot der Entmilitarisierung, das die Quelle formuliert, ist eine bestimmte operative Bedingung für die Rückkehr der Allianz — eine Menschheit, die ihre gegenwärtige militärisch-konfrontative Haltung beibehielte, wäre keine, zu der die Allianz sicher zurückkehren könnte.
 
-**Conscious recognition rather than blind faith**. The source's specific framing: the humans welcoming the alliance must do so on the basis of consciousness and understanding rather than on the basis of blind religious faith. The Aquarian-age return is to be received by a scientifically and philosophically mature humanity that has evaluated the alliance's content on its rational merits.
+**Bewusste Anerkennung statt blinden Glaubens**. Die spezifische Formulierung der Quelle: Die Menschen, die die Allianz willkommen heißen, müssen dies auf der Grundlage von Bewusstsein und Verständnis tun und nicht auf der Grundlage blinden religiösen Glaubens. Die Rückkehr des Wassermann-Zeitalters soll von einer wissenschaftlich und philosophisch reifen Menschheit empfangen werden, die den Gehalt der Allianz nach seinen rationalen Verdiensten bewertet hat.
 
-### The inheritance event
+### Das Erbschaftsereignis
 
-The framework reads the embassy as the operational location for the **inheritance event** — the formal transmission of accumulated alliance knowledge from the alliance to humanity that occurs following the alliance's open return.
+Der Rahmen liest die Botschaft als den operativen Ort für das **Erbschaftsereignis** — die formelle Übermittlung des angesammelten Wissens der Allianz von der Allianz an die Menschheit, die nach der offenen Rückkehr der Allianz stattfindet.
 
-The specific content of the inheritance event includes:
+Der spezifische Gehalt des Erbschaftsereignisses umfasst:
 
-**Scientific knowledge transmission**. The alliance's accumulated scientific knowledge — biotechnology, advanced physics, propulsion technologies, broader scientific content — will be transmitted to humanity in forms appropriate to humanity's current scientific maturity and capacity to integrate the transferred knowledge.
+**Übermittlung wissenschaftlichen Wissens**. Das angesammelte wissenschaftliche Wissen der Allianz — Biotechnologie, fortgeschrittene Physik, Antriebstechnologien, weiterer wissenschaftlicher Gehalt — wird an die Menschheit in Formen übermittelt, die der gegenwärtigen wissenschaftlichen Reife der Menschheit und ihrer Fähigkeit, das übertragene Wissen zu integrieren, angemessen sind.
 
-**Political-philosophical content**. The alliance's accumulated political-philosophical content — the broader cosmic-political situation, the Cosmic Chain framework, the various alliance-internal political and ethical traditions — will be transmitted to humanity as the broader cosmic context for humanity's projected role as a future creator civilization.
+**Politisch-philosophischer Gehalt**. Der angesammelte politisch-philosophische Gehalt der Allianz — die weitere kosmisch-politische Lage, der Rahmen der Kosmischen Kette, die verschiedenen allianz-internen politischen und ethischen Traditionen — wird an die Menschheit als weiterer kosmischer Kontext für die projizierte Rolle der Menschheit als künftige Schöpferzivilisation übermittelt.
 
-**Confirmation of the broader corpus content**. The alliance's open return will provide direct confirmation (or in specific cases, correction) of the broader corpus content — the Genesis 1 creation framework, the various age-specific operations, the seven creator teams and seven races content, the broader cosmological framework. The corpus's specific reconstructions will be either substantially confirmed or, in specific cases, corrected by the alliance's direct authoritative testimony.
+**Bestätigung des weiteren Korpusgehalts**. Die offene Rückkehr der Allianz wird eine unmittelbare Bestätigung (oder in bestimmten Fällen Korrektur) des weiteren Korpusgehalts liefern — des Schöpfungsrahmens von Genesis 1, der verschiedenen zeitalterspezifischen Operationen, des Gehalts der sieben Schöpferteams und sieben Rassen, des weiteren kosmologischen Rahmens. Die spezifischen Rekonstruktionen des Korpus werden durch das unmittelbare maßgebliche Zeugnis der Allianz entweder im Wesentlichen bestätigt oder in bestimmten Fällen korrigiert.
 
-**Initiation of subsequent operational arrangements**. The inheritance event will inaugurate the subsequent millennia-long operational arrangement between the alliance and humanity, with the embassy serving as the principal operational center across the subsequent centuries.
+**Einleitung späterer operativer Regelungen**. Das Erbschaftsereignis wird die spätere, jahrtausendelange operative Regelung zwischen der Allianz und der Menschheit einleiten, wobei die Botschaft über die folgenden Jahrhunderte hinweg als zentrales operatives Zentrum dient.
 
-### The replica embassy and broader infrastructure
+### Die Nachbildung der Botschaft und die weitere Infrastruktur
 
-The source specifies that a **replica embassy**, open to the public, will be constructed near the functional embassy to allow ordinary visitors to experience the site without disrupting the ongoing diplomatic and operational activities.
+Die Quelle gibt vor, dass eine **Nachbildung der Botschaft**, öffentlich zugänglich, in der Nähe der funktionalen Botschaft errichtet wird, um gewöhnlichen Besuchern zu ermöglichen, den Ort zu erleben, ohne die laufenden diplomatischen und operativen Aktivitäten zu stören.
 
-The broader infrastructure projected to develop around the embassy includes:
+Die weitere Infrastruktur, die sich voraussichtlich um die Botschaft entwickeln wird, umfasst:
 
-**Pilgrimage infrastructure**. Visitor accommodations, transportation infrastructure, supporting commercial and cultural facilities catering to pilgrimage from all nations to the site.
+**Pilgerinfrastruktur**. Besucherunterkünfte, Verkehrsinfrastruktur, unterstützende kommerzielle und kulturelle Einrichtungen für Pilgerfahrten aus allen Nationen zu dem Ort.
 
-**Educational and scientific institutions**. Universities, research institutions, libraries, archival facilities clustering around the embassy and providing the institutional infrastructure for the integration of the alliance's transmitted knowledge with humanity's existing scientific and educational structures.
+**Bildungs- und Forschungseinrichtungen**. Universitäten, Forschungseinrichtungen, Bibliotheken, Archive, die sich um die Botschaft sammeln und die institutionelle Infrastruktur für die Integration des übermittelten Wissens der Allianz mit den bestehenden wissenschaftlichen und bildungsbezogenen Strukturen der Menschheit bereitstellen.
 
-**Cultural and religious institutions**. The embassy as "the spiritual center of the world for millennia to come" will produce substantial cultural and religious infrastructure development, with the specific forms of this development being one of the principal cultural projects of the Aquarian age's mature phase.
+**Kulturelle und religiöse Einrichtungen**. Die Botschaft als „geistiges Zentrum der Welt für die kommenden Jahrtausende“ wird eine erhebliche Entwicklung kultureller und religiöser Infrastruktur hervorbringen, wobei die spezifischen Formen dieser Entwicklung eines der zentralen Kulturprojekte der reifen Phase des Wassermann-Zeitalters sein werden.
 
-### The Aquarian-age operational role
+### Die operative Rolle des Wassermann-Zeitalters
 
-The embassy's broader Aquarian-age operational role can be summarized as follows: the embassy is the physical site at which the **Pisces-to-Aquarius transition** is concretely realized in operational form. The Piscean age was characterized by indirect contact through prophetic mediation; the Aquarian age is characterized by direct contact through the formal embassy arrangement. The embassy is the specific architectural-operational form that the transition takes, with the broader Aquarian-age developments operating from the embassy as their physical-operational center.
+Die weitere operative Rolle der Botschaft im Wassermann-Zeitalter lässt sich wie folgt zusammenfassen: Die Botschaft ist der physische Ort, an dem der **Übergang von den Fischen zum Wassermann** konkret in operativer Form verwirklicht wird. Das Fische-Zeitalter war durch indirekten Kontakt durch prophetische Vermittlung gekennzeichnet; das Wassermann-Zeitalter ist durch direkten Kontakt durch die formelle Botschaftsregelung gekennzeichnet. Die Botschaft ist die spezifische architektonisch-operative Form, die der Übergang annimmt, wobei die weiteren Entwicklungen des Wassermann-Zeitalters von der Botschaft als ihrem physisch-operativen Zentrum aus wirken.
 
-The source's specific framing places the embassy at the center of the broader Aquarian-age program: the embassy is the location where the seven new commandments (geniocracy, humanitarianism, world government, demilitarization, science as religion, telepathic cultivation, the metaphysical clarifications) will receive their operational implementation through the alliance's direct involvement; the embassy is the site at which the broader Aquarian-age Apocalypse (the unveiling phase) becomes operationally complete; the embassy is the place from which the Aquarian-age transformative content flows outward to humanity at large.
+Die spezifische Formulierung der Quelle stellt die Botschaft in das Zentrum des weiteren Programms des Wassermann-Zeitalters: Die Botschaft ist der Ort, an dem die sieben neuen Gebote (Geniokratie, Humanitarismus, Weltregierung, Entmilitarisierung, Wissenschaft als Religion, Pflege der Telepathie, die metaphysischen Klärungen) durch die unmittelbare Beteiligung der Allianz ihre operative Umsetzung erhalten; die Botschaft ist der Ort, an dem die weitere Apokalypse des Wassermann-Zeitalters (die Enthüllungsphase) operativ vollständig wird; die Botschaft ist der Ort, von dem aus der transformative Gehalt des Wassermann-Zeitalters nach außen an die Menschheit insgesamt fließt.
 
-## The history of the embassy project
+## Die Geschichte des Botschaftsprojekts
 
-### The 1973-1991 preparatory period
+### Die vorbereitende Periode 1973–1991
 
-The 1973 contact established the basic embassy specifications, with subsequent Raëlian-movement development across the 1970s and 1980s focused on the broader institutional infrastructure (the International Raëlian Movement's establishment, the broader Raëlian-philosophical content, the seven new commandments). The specific embassy project was held in preparatory mode during this period.
+Der Kontakt von 1973 begründete die grundlegenden Spezifikationen der Botschaft, wobei die spätere Entwicklung der raëlianischen Bewegung in den 1970er und 1980er Jahren sich auf die weitere institutionelle Infrastruktur konzentrierte (die Gründung der Internationalen Raëlianischen Bewegung, den weiteren raëlianisch-philosophischen Gehalt, die sieben neuen Gebote). Das spezifische Botschaftsprojekt wurde in dieser Periode im vorbereitenden Modus gehalten.
 
-In 1990, as a sign of special feelings toward the people of Israel, the Elohim agreed to Raël's suggestion to modify the original Raëlian Symbol of Infinity when used by Raëlian Movement branches in the West. The central swastika (which means "well-being" in Sanskrit and represents infinity in time) was replaced with a galaxy-shaped swirl. This change was made in an effort to help the negotiations for building the embassy in Israel and out of respect for the sensitivities of victims of the Nazi swastika during the Second World War. In Asia, where the swastika appears in Buddhist temples as a symbol of infinity in time, the original symbol remained in use.
+Im Jahr 1990 stimmten die Elohim als Zeichen besonderer Zuneigung zum Volk Israel Raëls Vorschlag zu, das ursprüngliche raëlianische Symbol der Unendlichkeit zu ändern, wenn es von raëlianischen Zweigstellen im Westen verwendet wird. Die zentrale Swastika (die im Sanskrit „Wohlergehen“ bedeutet und die Unendlichkeit in der Zeit darstellt) wurde durch einen galaxienförmigen Wirbel ersetzt. Diese Änderung wurde vorgenommen, um die Verhandlungen für den Bau der Botschaft in Israel zu erleichtern und aus Respekt vor den Empfindlichkeiten der Opfer der nationalsozialistischen Swastika während des Zweiten Weltkriegs. In Asien, wo die Swastika in buddhistischen Tempeln als Symbol der Unendlichkeit in der Zeit erscheint, blieb das ursprüngliche Symbol in Gebrauch.
 
-### The 1991-1997 Israeli engagement
+### Das israelische Engagement 1991–1997
 
-The first formal request was made on November 8, 1991 (Jewish New Year) to the Chief Rabbi in Jerusalem. A subsequent official request was made to Israel's Chief Rabbi several months later. The request was acknowledged, and a study of the application began. In summer 1993, an Israeli government commission concluded that the Raëlian Movement was peaceful in intent and posed no threat to Israel's security. Two rabbis on the commission reportedly concluded that "it would be better not to do anything against Rael in case he really is the awaited Messiah."
+Der erste formelle Antrag wurde am 8. November 1991 (jüdisches Neujahr) an den Oberrabbiner in Jerusalem gestellt. Ein weiterer offizieller Antrag wurde mehrere Monate später an Israels Oberrabbiner gestellt. Der Antrag wurde anerkannt, und eine Prüfung des Antrags begann. Im Sommer 1993 kam eine israelische Regierungskommission zu dem Schluss, dass die Raëlianische Bewegung friedlicher Absicht sei und keine Bedrohung für Israels Sicherheit darstelle. Zwei Rabbiner der Kommission sollen zu dem Schluss gekommen sein, dass „es besser wäre, nichts gegen Rael zu unternehmen, für den Fall, dass er wirklich der erwartete Messias ist“.
 
-In November 1993, a further direct request was made to Israel's Prime Minister Yitzhak Rabin, who was attending the Montreal Jewish Convention. After approximately a month, Rabin replied through one of his office representatives that he could not comply. Subsequent administrations have not reopened the question.
+Im November 1993 wurde ein weiterer direkter Antrag an Israels Ministerpräsidenten Jitzhak Rabin gestellt, der an der Montrealer Jüdischen Versammlung teilnahm. Nach etwa einem Monat antwortete Rabin über einen seiner Bürovertreter, dass er nicht entsprechen könne. Nachfolgende Regierungen haben die Frage nicht wieder aufgegriffen.
 
-### The December 13, 1997 authorization
+### Die Autorisierung vom 13. Dezember 1997
 
-The December 13, 1997 message from Yahweh formally authorized the relocation of the embassy project to other countries, with Israel retaining a final option but the project no longer being contingent on Israeli cooperation. The message's specific content has been treated above under *In primary sources*.
+Die Botschaft Jahwes vom 13. Dezember 1997 autorisierte formell die Verlegung des Botschaftsprojekts in andere Länder, wobei Israel eine letzte Option behielt, das Projekt aber nicht mehr von der israelischen Zusammenarbeit abhängig war. Der spezifische Inhalt der Botschaft wurde oben unter *In den Primärquellen* behandelt.
 
-### The 1998-2020 negotiations
+### Die Verhandlungen 1998–2020
 
-Across the subsequent two decades, the Raëlian movement conducted negotiations with various potential host countries. The principal documented negotiations include engagement with Canada, Russia, Lebanon, and various other countries across the 1990s and 2000s. None of these negotiations produced a formal extraterritorial grant during this period.
+In den folgenden zwei Jahrzehnten führte die raëlianische Bewegung Verhandlungen mit verschiedenen potenziellen Gastländern. Die wichtigsten dokumentierten Verhandlungen umfassen das Engagement mit Kanada, Russland, dem Libanon und verschiedenen anderen Ländern in den 1990er und 2000er Jahren. Keine dieser Verhandlungen führte in dieser Periode zu einer formellen Gewährung extraterritorialen Status.
 
-In 2005, Raël's commentary in the published *Message from the Designers* identified Mount Sinai's lower slopes as a possible Egyptian alternative ("the lower slopes of Mount Sinai would make an excellent alternative choice since that is where Yahweh, the leader of the Elohim, first appeared to Moses"), with possible Palestinian or other neighboring-state locations also under consideration.
+Im Jahr 2005 nannte Raëls Kommentar in der veröffentlichten *Botschaft der Designer* die unteren Hänge des Berges Sinai als mögliche ägyptische Alternative („die unteren Hänge des Berges Sinai wären eine ausgezeichnete Alternativwahl, da dort Jahwe, der Anführer der Elohim, Mose zum ersten Mal erschien“), wobei auch mögliche palästinensische oder andere Standorte in Nachbarstaaten in Betracht gezogen wurden.
 
-### The 2015 UN Optional Protocol
+### Das UN-Fakultativprotokoll von 2015
 
-In 2015, the Raëlian movement submitted to the United Nations an "Optional Protocol Concerning Embassies for Extraterrestrials," proposing a standard diplomatic framework that any host country could use to formalize the extraterritorial grant. The Protocol provided detailed provisions for the legal-diplomatic infrastructure required by the embassy project and represented the movement's most substantial attempt to formalize the embassy's legal status within established international-diplomatic frameworks.
+Im Jahr 2015 legte die raëlianische Bewegung den Vereinten Nationen ein „Fakultativprotokoll über Botschaften für Außerirdische“ vor, das einen üblichen diplomatischen Rahmen vorschlug, den jedes Gastland nutzen könnte, um die Gewährung des extraterritorialen Status zu formalisieren. Das Protokoll bot detaillierte Bestimmungen für die rechtlich-diplomatische Infrastruktur, die das Botschaftsprojekt erfordert, und stellte den bedeutendsten Versuch der Bewegung dar, den rechtlichen Status der Botschaft innerhalb etablierter internationaler-diplomatischer Rahmen zu formalisieren.
 
-### The 2021-2024 acceleration
+### Die Beschleunigung 2021–2024
 
-Beginning in 2021, the embassy project entered a period of substantial acceleration:
+Ab 2021 trat das Botschaftsprojekt in eine Periode erheblicher Beschleunigung ein:
 
-**February 2021**: The Alliance for Extraterrestrial Diplomatic Contact (AEDC) was established as an international non-profit organization of politicians, diplomats, and government officials committed to welcoming extraterrestrial civilizations to Earth.
+**Februar 2021**: Die Allianz für außerirdischen diplomatischen Kontakt (AEDC) wurde als internationale gemeinnützige Organisation von Politikern, Diplomaten und Regierungsbeamten gegründet, die sich verpflichtet haben, außerirdische Zivilisationen auf der Erde willkommen zu heißen.
 
-**2022**: Embassy project teams began presentations to mayors of fifty selected cities on every continent, providing the project with substantially expanded political-diplomatic visibility.
+**2022**: Teams des Botschaftsprojekts begannen mit Präsentationen vor den Bürgermeistern von fünfzig ausgewählten Städten auf allen Kontinenten und verschafften dem Projekt eine erheblich erweiterte politisch-diplomatische Sichtbarkeit.
 
-**2024**: A national government (whose identity the movement is maintaining confidentiality on, pending further stages of the negotiation) signed a Memorandum of Collaboration with the Raëlian movement to explore hosting the embassy project. Daniel Turcotte, the Raëlian guide responsible for the embassy project, described the signing as "a historic day for humanity," noting that "a nation has finally shown the courage and vision to prepare for the return of an advanced extraterrestrial civilization to Earth." The memorandum outlines a collaborative framework including objectives, roles, principles of cooperation, and a timeline for the exploratory work.
+**2024**: Eine nationale Regierung (deren Identität die Bewegung bis zu weiteren Verhandlungsstufen vertraulich behandelt) unterzeichnete ein Kollaborationsmemorandum mit der raëlianischen Bewegung, um die Aufnahme des Botschaftsprojekts zu prüfen. Daniel Turcotte, der für das Botschaftsprojekt verantwortliche raëlianische Guide, bezeichnete die Unterzeichnung als „einen historischen Tag für die Menschheit“ und merkte an, dass „eine Nation endlich den Mut und die Vision gezeigt hat, sich auf die Rückkehr einer fortgeschrittenen außerirdischen Zivilisation auf die Erde vorzubereiten“. Das Memorandum umreißt einen kollaborativen Rahmen einschließlich Zielen, Rollen, Grundsätzen der Zusammenarbeit und eines Zeitplans für die Sondierungsarbeit.
 
-### The 2025-2030 projected timeline
+### Der projizierte Zeitplan 2025–2030
 
-The Raëlian movement's published timeline projects the following phases:
+Der veröffentlichte Zeitplan der raëlianischen Bewegung projiziert die folgenden Phasen:
 
-**2025-2027 (site acquisition phase)**: The preferred site will be identified, the extraterritorial transfer will be legally effected, and agreements concerning off-site infrastructure will be concluded.
+**2025–2027 (Phase des Grundstückserwerbs)**: Der bevorzugte Standort wird ermittelt, die extraterritoriale Übertragung wird rechtlich bewirkt, und Vereinbarungen über die Infrastruktur außerhalb des Standorts werden abgeschlossen.
 
-**2027-2030 (planning and construction phase)**: Master planning, architectural and engineering design, contracts, and actual construction of the embassy complex, including the public-facing replica embassy.
+**2027–2030 (Phase der Planung und des Baus)**: Generalplanung, architektonische und ingenieurtechnische Gestaltung, Verträge und der tatsächliche Bau des Botschaftskomplexes einschließlich der öffentlich zugänglichen Nachbildung der Botschaft.
 
-**Post-2030 (caretaker mode)**: The embassy will operate in caretaker mode awaiting the arrival of the alliance delegation.
+**Nach 2030 (Wartungsmodus)**: Die Botschaft wird im Wartungsmodus in Erwartung der Ankunft der Allianzdelegation wirken.
 
-The corpus registers these projections without endorsing them as confirmed. The specific Raëlian-movement timeline is the movement's own institutional projection, with the actual progress depending on the success of the diplomatic negotiations and broader political conditions.
+Das Korpus verzeichnet diese Projektionen, ohne sie als bestätigt zu befürworten. Der spezifische Zeitplan der raëlianischen Bewegung ist die eigene institutionelle Projektion der Bewegung, wobei der tatsächliche Fortschritt vom Erfolg der diplomatischen Verhandlungen und den weiteren politischen Bedingungen abhängt.
 
-## Application across the corpus
+## Anwendung im gesamten Korpus
 
-The embassy concept operates as a specific operational element within multiple corpus entries.
+Das Botschaftskonzept wirkt als spezifisches operatives Element innerhalb mehrerer Korpuseinträge.
 
-### The Apocalypse entry
+### Der Apokalypse-Eintrag
 
-The embassy is the operational location for the broader Apocalypse (the unveiling phase) the corpus's framework articulates. The detailed treatment of the Apocalypse lives in the [Apocalypse](../apocalypse/) entry; the Embassy entry's specific contribution is establishing the embassy's specific role as the physical-operational site at which the Apocalypse becomes operationally complete.
+Die Botschaft ist der operative Ort für die weitere Apokalypse (die Enthüllungsphase), die der Rahmen des Korpus artikuliert. Die detaillierte Behandlung der Apokalypse befindet sich im Eintrag [Apokalypse](../apocalypse/); der spezifische Beitrag des Botschaftseintrags besteht darin, die spezifische Rolle der Botschaft als physisch-operativen Ort zu begründen, an dem die Apokalypse operativ vollständig wird.
 
-### The Cosmic Competition entry
+### Der Eintrag zum Kosmischen Wettbewerb
 
-The embassy is the operational location for the inheritance event that follows the Cosmic Competition's evaluation phase. The detailed treatment of the Cosmic Competition lives in the [Cosmic Competition](../cosmic-competition/) entry; the Embassy entry's specific contribution is establishing the embassy as the specific architectural-operational form within which the inheritance transmission occurs.
+Die Botschaft ist der operative Ort für das Erbschaftsereignis, das auf die Bewertungsphase des Kosmischen Wettbewerbs folgt. Die detaillierte Behandlung des Kosmischen Wettbewerbs befindet sich im Eintrag [Kosmischer Wettbewerb](../cosmic-competition/); der spezifische Beitrag des Botschaftseintrags besteht darin, die Botschaft als die spezifische architektonisch-operative Form zu begründen, innerhalb derer die Erbschaftsübermittlung stattfindet.
 
-### The Cosmic Chain entry
+### Der Eintrag zur Kosmischen Kette
 
-The embassy is the operational location for Earth's projected transition from created to creator civilization within the broader Cosmic Chain. The detailed treatment of the Cosmic Chain lives in the [Cosmic Chain](../cosmic-chain/) entry; the Embassy entry's specific contribution is establishing the embassy as the specific physical site at which Earth's place in the chain is operationally formalized.
+Die Botschaft ist der operative Ort für den projizierten Übergang der Erde von einer geschaffenen zu einer Schöpferzivilisation innerhalb der weiteren Kosmischen Kette. Die detaillierte Behandlung der Kosmischen Kette befindet sich im Eintrag [Kosmische Kette](../cosmic-chain/); der spezifische Beitrag des Botschaftseintrags besteht darin, die Botschaft als den spezifischen physischen Ort zu begründen, an dem der Platz der Erde in der Kette operativ formalisiert wird.
 
-### The Doubled Signature entry
+### Der Eintrag zur Doppelten Signatur
 
-The embassy is the operational realization of the Aquarian age's water-bearer signature. The Ezekiel 47 imagery (water flowing from the threshold of the temple) is, on the framework's reading, the prophetic prefiguration of the embassy's projected operational role as the source from which the Aquarian-age waters of understanding flow. The detailed treatment of the Doubled Signature lives in the [Doubled Signature](../doubled-signature/) entry; the Embassy entry's specific contribution is establishing the embassy's role within the Aquarius-Leo signature's operational realization.
+Die Botschaft ist die operative Verwirklichung der Wasserträger-Signatur des Wassermann-Zeitalters. Die Bildwelt von Hesekiel 47 (Wasser, das aus der Schwelle des Tempels fließt) ist, in der Lesart des Rahmens, das prophetische Vorausbild der projizierten operativen Rolle der Botschaft als Quelle, aus der die Wasser des Verständnisses des Wassermann-Zeitalters fließen. Die detaillierte Behandlung der Doppelten Signatur befindet sich im Eintrag [Doppelte Signatur](../doubled-signature/); der spezifische Beitrag des Botschaftseintrags besteht darin, die Rolle der Botschaft innerhalb der operativen Verwirklichung der Wassermann-Löwe-Signatur zu begründen.
 
-### The Raël entry
+### Der Raël-Eintrag
 
-The embassy is the operational center for the Aquarian-age prophet's mission. The detailed treatment of Raël's role lives in the [Raël](../rael/) entry (when written); the Embassy entry's specific contribution is establishing the embassy as the principal operational project within Raël's broader prophetic mission.
+Die Botschaft ist das operative Zentrum für die Mission des Propheten des Wassermann-Zeitalters. Die detaillierte Behandlung von Raëls Rolle befindet sich im Eintrag [Raël](../rael/) (sofern geschrieben); der spezifische Beitrag des Botschaftseintrags besteht darin, die Botschaft als das zentrale operative Projekt innerhalb von Raëls weiterer prophetischer Mission zu begründen.
 
-### The Age of Aquarius entry
+### Der Eintrag zum Zeitalter des Wassermanns
 
-The embassy is the central operational element of the Aquarian-age program. The detailed treatment of the Age of Aquarius lives in the [Age of Aquarius](../timeline/age-of-aquarius/) entry; the Embassy entry's specific contribution is establishing the embassy's specific operational features.
+Die Botschaft ist das zentrale operative Element des Programms des Wassermann-Zeitalters. Die detaillierte Behandlung des Zeitalters des Wassermanns befindet sich im Eintrag [Zeitalter des Wassermanns](../timeline/age-of-aquarius/); der spezifische Beitrag des Botschaftseintrags besteht darin, die spezifischen operativen Merkmale der Botschaft zu begründen.
 
-## Distinguishing from adjacent concepts
+## Abgrenzung von benachbarten Konzepten
 
-### The Embassy vs. the Solomonic First Temple
+### Die Botschaft vs. der salomonische Erste Tempel
 
-The Solomonic First Temple was the historical first alliance-embassy at Jerusalem (built c. 950 BCE, destroyed 586 BCE), serving as the physical location for the alliance's presence during the Aries age. The contemporary Embassy is the projected Third Temple succeeding the Solomonic and Second Temples in the same operational lineage.
+Der salomonische Erste Tempel war die historische erste Allianz-Botschaft in Jerusalem (errichtet um 950 v. u. Z., zerstört 586 v. u. Z.) und diente während des Widder-Zeitalters als physischer Ort für die Präsenz der Allianz. Die zeitgenössische Botschaft ist der projizierte Dritte Tempel, der auf den salomonischen und den Zweiten Tempel in derselben operativen Linie folgt.
 
-The relationship is one of **operational succession**. The contemporary Embassy is the third in a specific historical sequence of alliance-embassy structures, with each successive embassy serving the same broader operational purpose within the corresponding age's specific operational arrangements.
+Die Beziehung ist eine der **operativen Abfolge**. Die zeitgenössische Botschaft ist die dritte in einer bestimmten historischen Folge von Allianz-Botschaftsbauwerken, wobei jede aufeinanderfolgende Botschaft denselben weiteren operativen Zweck innerhalb der spezifischen operativen Regelungen des entsprechenden Zeitalters erfüllt.
 
-### The Embassy vs. the Second Temple
+### Die Botschaft vs. der Zweite Tempel
 
-The Second Temple was the historical second alliance-embassy at Jerusalem (built c. 516 BCE, expanded c. 20 BCE, destroyed 70 CE). The contemporary Embassy is the third in the operational sequence.
+Der Zweite Tempel war die historische zweite Allianz-Botschaft in Jerusalem (errichtet um 516 v. u. Z., erweitert um 20 v. u. Z., zerstört 70 u. Z.). Die zeitgenössische Botschaft ist die dritte in der operativen Folge.
 
-### The Embassy vs. the broader Apocalypse event
+### Die Botschaft vs. das weitere Ereignis der Apokalypse
 
-The broader Apocalypse is the unveiling phase during which the alliance's previously concealed work becomes openly known to humanity. The Embassy is the specific physical-operational site at which the Apocalypse becomes operationally complete.
+Die weitere Apokalypse ist die Enthüllungsphase, während derer das zuvor verborgene Wirken der Allianz der Menschheit offen bekannt wird. Die Botschaft ist der spezifische physisch-operative Ort, an dem die Apokalypse operativ vollständig wird.
 
-The relationship is one of **broader-event-and-specific-site**. The Apocalypse is the broader unveiling phase; the Embassy is the specific architectural-operational location at which the unveiling reaches its specific formal completion.
+Die Beziehung ist eine von **weiterem Ereignis und spezifischem Ort**. Die Apokalypse ist die weitere Enthüllungsphase; die Botschaft ist der spezifische architektonisch-operative Ort, an dem die Enthüllung ihre spezifische formelle Vollendung erreicht.
 
-### The Embassy vs. the Cosmic Competition framework
+### Die Botschaft vs. der Rahmen des Kosmischen Wettbewerbs
 
-The Cosmic Competition framework concerns the broader cosmological evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification. The Embassy is the specific physical-operational location at which the inheritance event occurs following the evaluation phase's completion.
+Der Rahmen des Kosmischen Wettbewerbs betrifft die weitere kosmologische Bewertungsphase, während derer eine Schöpferzivilisation ihre geschaffenen Menschheiten auf ihre Qualifikation für das Erbe bewertet. Die Botschaft ist der spezifische physisch-operative Ort, an dem das Erbschaftsereignis nach Abschluss der Bewertungsphase stattfindet.
 
-The relationship is one of **broader-evaluation-and-specific-inheritance-site**. The Cosmic Competition is the broader evaluation framework; the Embassy is the specific architectural-operational form within which the inheritance transmission occurs.
+Die Beziehung ist eine von **weiterer Bewertung und spezifischem Erbschaftsort**. Der Kosmische Wettbewerb ist der weitere Bewertungsrahmen; die Botschaft ist die spezifische architektonisch-operative Form, innerhalb derer die Erbschaftsübermittlung stattfindet.
 
-### The Embassy vs. the alliance's residence on the home world
+### Die Botschaft vs. die Residenz der Allianz auf der Heimatwelt
 
-The alliance's residence on the home world is the principal location for the alliance's day-to-day operational activities. The Embassy on Earth is a specific operational facility designated for the alliance's Earth-side work during the Aquarian-age operational phase.
+Die Residenz der Allianz auf der Heimatwelt ist der zentrale Ort für die tägliche operative Tätigkeit der Allianz. Die Botschaft auf der Erde ist eine spezifische operative Einrichtung, die für die erdseitige Arbeit der Allianz während der operativen Phase des Wassermann-Zeitalters vorgesehen ist.
 
-The relationship is one of **home-world-base-and-Earth-side-operational-facility**. The home world is the alliance's principal residence; the Earth Embassy is a specific outpost facility with limited but specific operational functions.
+Die Beziehung ist eine von **Heimatwelt-Basis und erdseitiger operativer Einrichtung**. Die Heimatwelt ist die zentrale Residenz der Allianz; die Erd-Botschaft ist eine spezifische Außenposteneinrichtung mit begrenzten, aber spezifischen operativen Funktionen.
 
-## Modern reinterpretations
+## Moderne Neudeutungen
 
-### The contemporary UFO/UAP disclosure movement
+### Die zeitgenössische UFO/UAP-Offenlegungsbewegung
 
-The broader question of extraterrestrial contact has received substantial recent academic and governmental attention, with substantial implications for the broader landscape within which the embassy project operates.
+Die weitere Frage des außerirdischen Kontakts hat in jüngerer Zeit erhebliche akademische und staatliche Aufmerksamkeit erfahren, mit erheblichen Auswirkungen auf die weitere Landschaft, innerhalb derer das Botschaftsprojekt wirkt.
 
-**Christopher Mellon** (former Deputy Assistant Secretary of Defense for Intelligence) has been a substantial public advocate for transparency on UAP (Unidentified Aerial Phenomena) issues, with substantial public appearances, op-eds, and policy advocacy across the 2017-2025 period. Mellon's specific advocacy has been principally focused on the UAP disclosure question rather than on specific religious-prophetic frameworks.
+**Christopher Mellon** (ehemaliger stellvertretender Staatssekretär für Verteidigungsnachrichtenwesen) ist ein bedeutender öffentlicher Befürworter der Transparenz in Fragen von UAP (Unidentified Aerial Phenomena) gewesen, mit zahlreichen öffentlichen Auftritten, Meinungsbeiträgen und politischer Interessenvertretung über den Zeitraum 2017–2025 hinweg.{{ footnote(id="5") }} Mellons spezifische Interessenvertretung war hauptsächlich auf die Frage der UAP-Offenlegung ausgerichtet und nicht auf spezifische religiös-prophetische Rahmen.
 
-**Luis Elizondo** (former director of the U.S. Department of Defense's Advanced Aerospace Threat Identification Program, AATIP) became a substantial public figure following the December 2017 *New York Times* articles on the AATIP program and the subsequent Tom DeLonge/To the Stars Academy disclosures. Elizondo's 2024 book *Imminent: Inside the Pentagon's Hunt for UFOs* provided substantial public documentation of the U.S. government's UAP investigation programs.
+**Luis Elizondo** (ehemaliger Leiter des Advanced Aerospace Threat Identification Program, AATIP, des US-Verteidigungsministeriums) wurde nach den Artikeln der *New York Times* vom Dezember 2017 über das AATIP-Programm und den anschließenden Enthüllungen von Tom DeLonge/To the Stars Academy eine bedeutende öffentliche Figur. Elizondos Buch *Imminent: Inside the Pentagon's Hunt for UFOs* von 2024 lieferte eine umfangreiche öffentliche Dokumentation der UAP-Untersuchungsprogramme der US-Regierung.{{ cite(id="elizondo-imminent", text="[7]", title="Elizondo, *Imminent: Inside the Pentagon's Hunt for UFOs* (2024)") }}
 
-**David Grusch** (former U.S. intelligence officer, now retired) testified to the U.S. House Oversight Committee on July 26, 2023, providing substantial public testimony regarding alleged U.S. government UAP retrieval programs. The testimony was substantively significant in producing substantial subsequent congressional and media engagement with the broader UAP question.
+**David Grusch** (ehemaliger US-Geheimdienstoffizier, inzwischen im Ruhestand) sagte am 26. Juli 2023 vor dem Aufsichtsausschuss des US-Repräsentantenhauses aus und lieferte eine umfangreiche öffentliche Aussage zu mutmaßlichen UAP-Bergungsprogrammen der US-Regierung.{{ cite(id="grusch-congressional-testimony", text="[8]", title="Grusch, Aussage vor dem Aufsichtsausschuss des US-Repräsentantenhauses (26. Juli 2023)") }} Die Aussage war inhaltlich bedeutsam, da sie eine erhebliche anschließende Auseinandersetzung des Kongresses und der Medien mit der weiteren UAP-Frage hervorrief.
 
-**Recent congressional hearings**. The U.S. Congress has conducted multiple substantial UAP-related hearings across the 2022-2025 period, with substantial bipartisan engagement and various legislative proposals. The 2023 UAP Disclosure Act, while substantially amended in committee, represented a substantive congressional engagement with the disclosure question.
+**Jüngste Kongressanhörungen**. Der US-Kongress hat über den Zeitraum 2022–2025 hinweg mehrere bedeutende UAP-bezogene Anhörungen durchgeführt, mit erheblichem überparteilichem Engagement und verschiedenen Gesetzesvorschlägen. Der UAP Disclosure Act von 2023, obwohl im Ausschuss erheblich abgeändert, stellte eine bedeutende Auseinandersetzung des Kongresses mit der Offenlegungsfrage dar.
 
-**The mainstream UAP disclosure movement** has substantially expanded the cultural-political space within which extraterrestrial-contact discussions occur. The framework reads this expanded space as relevant background for the embassy project's contemporary diplomatic engagement, even where the disclosure movement's specific content does not engage the embassy project directly.
+**Die UAP-Offenlegungsbewegung der Mehrheit** hat den kulturell-politischen Raum, innerhalb dessen Diskussionen über außerirdischen Kontakt stattfinden, erheblich erweitert. Der Rahmen liest diesen erweiterten Raum als relevanten Hintergrund für das zeitgenössische diplomatische Engagement des Botschaftsprojekts, auch dort, wo der spezifische Gehalt der Offenlegungsbewegung sich nicht direkt mit dem Botschaftsprojekt auseinandersetzt.
 
-### Academic UAP studies
+### Akademische UAP-Forschung
 
-Academic engagement with UAP questions has substantially developed across the past several years.
+Die akademische Auseinandersetzung mit UAP-Fragen hat sich in den vergangenen Jahren erheblich entwickelt.
 
-**The Stanford Sol Foundation** (established 2023, led by Garry Nolan and Peter Skafish at Stanford) has conducted substantial academic engagement with UAP questions, including academic conferences, publications, and broader academic-disciplinary engagement. The Sol Foundation's specific research focuses on the empirical question of UAP phenomena rather than on specific religious-prophetic frameworks.
+**Die Stanford Sol Foundation** (gegründet 2023, geleitet von Garry Nolan und Peter Skafish an der Stanford University) hat sich in erheblichem Maße akademisch mit UAP-Fragen auseinandergesetzt, einschließlich akademischer Konferenzen, Publikationen und weiterer akademisch-disziplinärer Auseinandersetzung. Die spezifische Forschung der Sol Foundation konzentriert sich auf die empirische Frage der UAP-Phänomene und nicht auf spezifische religiös-prophetische Rahmen.
 
-**The Harvard Galileo Project** (established 2021, led by Avi Loeb at Harvard) has conducted substantial empirical research on UAP and broader questions of extraterrestrial intelligence. Loeb's research has been substantially focused on observational and empirical methodology, with various publications and broader public engagement across the 2021-2025 period.
+**Das Harvard Galileo Project** (gegründet 2021, geleitet von Avi Loeb an der Harvard University) hat erhebliche empirische Forschung zu UAP und weiteren Fragen außerirdischer Intelligenz durchgeführt. Loebs Forschung war im Wesentlichen auf beobachtungsbezogene und empirische Methodik ausgerichtet, mit verschiedenen Publikationen und weiterem öffentlichem Engagement über den Zeitraum 2021–2025 hinweg.{{ cite(id="loeb-extraterrestrial", text="[9]", title="Loeb, *Extraterrestrial* (2021) — das ʻOumuamua-Argument") }}{{ cite(id="loeb-interstellar", text="[10]", title="Loeb, *Interstellar* (2023) — das Galileo-Projekt") }}
 
-**Other academic engagement** includes various publications, conferences, and institutional initiatives across multiple universities and research organizations, with the academic UAP studies field substantially expanding from its prior peripheral status.
+**Weiteres akademisches Engagement** umfasst verschiedene Publikationen, Konferenzen und institutionelle Initiativen an mehreren Universitäten und Forschungsorganisationen, wobei sich das Feld der akademischen UAP-Forschung von seinem früheren peripheren Status aus erheblich erweitert hat.
 
-The framework's relationship to academic UAP studies is one of structural compatibility on the broader empirical question while extending substantially beyond what academic UAP research directly engages.
+Die Beziehung des Rahmens zur akademischen UAP-Forschung ist eine der strukturellen Vereinbarkeit in der weiteren empirischen Frage, während sie erheblich über das hinausgeht, womit sich die akademische UAP-Forschung unmittelbar auseinandersetzt.
 
-### Extraterritorial diplomatic precedents
+### Extraterritoriale diplomatische Präzedenzfälle
 
-The legal-diplomatic framework within which the embassy operates draws on substantial diplomatic precedent.
+Der rechtlich-diplomatische Rahmen, innerhalb dessen die Botschaft wirkt, stützt sich auf erhebliche diplomatische Präzedenzfälle.
 
-**Vienna Convention on Diplomatic Relations** (1961). The Convention establishes the standard legal framework for diplomatic missions, with substantial implications for the embassy project's specific legal-diplomatic requirements.
+**Wiener Übereinkommen über diplomatische Beziehungen** (1961). Das Übereinkommen legt den üblichen Rechtsrahmen für diplomatische Vertretungen fest, mit erheblichen Auswirkungen auf die spezifischen rechtlich-diplomatischen Anforderungen des Botschaftsprojekts.
 
-**Vatican City State**. Established by the Lateran Treaty of 1929, Vatican City is the principal contemporary example of a sovereign extraterritorial entity occupying limited specific territory within a larger host state. The Vatican City precedent is substantially relevant for the embassy project's specific legal-diplomatic structure.
+**Staat Vatikanstadt**. Durch die Lateranverträge von 1929 begründet, ist die Vatikanstadt das wichtigste zeitgenössische Beispiel einer souveränen extraterritorialen Einrichtung, die ein begrenztes, bestimmtes Gebiet innerhalb eines größeren Gaststaates einnimmt. Der Präzedenzfall der Vatikanstadt ist für die spezifische rechtlich-diplomatische Struktur des Botschaftsprojekts erheblich relevant.
 
-**Sovereign Military Order of Malta**. The Order's distinctive international-legal status (sovereign subject of international law without controlling specific territory in the conventional sense) provides one specific precedent for non-state-entity diplomatic engagement.
+**Souveräner Malteserorden**. Der besondere völkerrechtliche Status des Ordens (souveränes Subjekt des Völkerrechts ohne Kontrolle über ein bestimmtes Gebiet im herkömmlichen Sinne) bietet einen spezifischen Präzedenzfall für das diplomatische Engagement nichtstaatlicher Einrichtungen.
 
-**Other extraterritorial precedents** include various international organization headquarters (UN headquarters, European Union institutions, various other inter-governmental organization sites) and various specific diplomatic-mission arrangements across contemporary international law.
+**Weitere extraterritoriale Präzedenzfälle** umfassen verschiedene Hauptsitze internationaler Organisationen (UN-Hauptquartier, Institutionen der Europäischen Union, verschiedene andere zwischenstaatliche Organisationsstandorte) und verschiedene spezifische Regelungen für diplomatische Vertretungen im zeitgenössischen Völkerrecht.
 
-The framework reads these precedents as the substantial legal-diplomatic infrastructure within which the embassy project's specific legal requirements can be operationally formalized.
+Der Rahmen liest diese Präzedenzfälle als die erhebliche rechtlich-diplomatische Infrastruktur, innerhalb derer die spezifischen rechtlichen Anforderungen des Botschaftsprojekts operativ formalisiert werden können.
 
-### Sendy on the prophesied return
+### Sendy über die prophezeite Rückkehr
 
-**Jean Sendy** developed substantial engagement with what would become the embassy framework, principally through his treatment of the Hebrew prophetic tradition and the broader Aquarian-age framework. Sendy's specific contributions include:
+**Jean Sendy** entwickelte eine erhebliche Auseinandersetzung mit dem, was zum Botschaftsrahmen werden sollte, hauptsächlich durch seine Behandlung der hebräischen prophetischen Tradition und des weiteren Rahmens des Wassermann-Zeitalters. Sendys spezifische Beiträge umfassen:
 
-- The treatment of the Hebrew Bible's various prophetic passages as preserving substantive operational content concerning the alliance's projected return
-- The integration of these readings with the broader Aquarian-age framework Sendy developed in *L'ère du Verseau*
-- The specific identification of various Hebrew prophetic passages with the projected alliance return
+- Die Behandlung der verschiedenen prophetischen Passagen der Hebräischen Bibel als Bewahrung substanziellen operativen Gehalts über die projizierte Rückkehr der Allianz
+- Die Integration dieser Lesarten mit dem weiteren Rahmen des Wassermann-Zeitalters, den Sendy in *L'ère du Verseau* entwickelte
+- Die spezifische Identifizierung verschiedener hebräischer prophetischer Passagen mit der projizierten Rückkehr der Allianz
 
-Sendy's specific embassy development is more limited than the framework's contemporary articulation, but Sendy provides substantial methodological warrant for treating the Hebrew prophetic tradition as preserving substantive operational content.
+Sendys spezifische Entwicklung der Botschaft ist begrenzter als die zeitgenössische Artikulation des Rahmens, aber Sendy liefert eine erhebliche methodische Begründung dafür, die hebräische prophetische Tradition als Bewahrung substanziellen operativen Gehalts zu behandeln.
 
-### Biglino on the prophesied return
+### Biglino über die prophezeite Rückkehr
 
-**Mauro Biglino**'s strict-translational engagement with the Hebrew Bible has produced limited specific engagement with the embassy project, though Biglino's broader treatment of the Hebrew Bible's specific prophetic content is structurally compatible with the embassy framework. Biglino's specific reading of the Hebrew prophetic literature as preserving substantive operational content (rather than as theological-symbolic content) provides one specific scholarly antecedent for the embassy framework's broader interpretive approach.
+**Mauro Biglinos** streng übersetzungsbezogene Auseinandersetzung mit der Hebräischen Bibel hat eine begrenzte spezifische Auseinandersetzung mit dem Botschaftsprojekt hervorgebracht, obwohl Biglinos weitere Behandlung des spezifischen prophetischen Gehalts der Hebräischen Bibel strukturell mit dem Botschaftsrahmen vereinbar ist. Biglinos spezifische Lesart der hebräischen prophetischen Literatur als Bewahrung substanziellen operativen Gehalts (statt theologisch-symbolischen Gehalts) liefert einen spezifischen wissenschaftlichen Vorläufer für den weiteren interpretativen Ansatz des Botschaftsrahmens.
 
-### Wallis on the prophesied return
+### Wallis über die prophezeite Rückkehr
 
-**Paul Anthony Wallis**'s broader engagement with the alliance-mediated history includes some treatment of the projected return question, principally within the broader context of the various ancient texts' references to anticipated alliance-contact events. Wallis's specific embassy development is more limited than the framework's contemporary articulation.
+**Paul Anthony Wallis'** weitere Auseinandersetzung mit der allianz-vermittelten Geschichte umfasst eine gewisse Behandlung der Frage der projizierten Rückkehr, hauptsächlich innerhalb des weiteren Kontexts der Verweise verschiedener antiker Texte auf erwartete Ereignisse des Allianzkontakts. Wallis' spezifische Entwicklung der Botschaft ist begrenzter als die zeitgenössische Artikulation des Rahmens.
 
-### The framework's relationship to the broader landscape
+### Die Beziehung des Rahmens zur weiteren Landschaft
 
-The corpus's embassy framework is positioned within this landscape as follows: substantially source-grounded with detailed specifications drawn directly from Raëlian source material; structurally engaged with contemporary UFO/UAP disclosure movement at the broader cultural-political level; legally-diplomatically engaged with established extraterritorial-status precedents; structurally compatible with the broader Sendy-Biglino-Wallis tradition's reading of the Hebrew prophetic tradition; positioned as a present-day operational project rather than as a purely theoretical or interpretive framework; testable in the near term through direct observation of the project's actual progress (or lack thereof).
+Der Botschaftsrahmen des Korpus ist innerhalb dieser Landschaft wie folgt positioniert: im Wesentlichen quellengestützt mit detaillierten Spezifikationen, die unmittelbar aus dem raëlianischen Quellenmaterial stammen; strukturell mit der zeitgenössischen UFO/UAP-Offenlegungsbewegung auf der weiteren kulturell-politischen Ebene verbunden; rechtlich-diplomatisch mit etablierten Präzedenzfällen des extraterritorialen Status verbunden; strukturell vereinbar mit der Lesart der hebräischen prophetischen Tradition durch die weitere Sendy-Biglino-Wallis-Tradition; positioniert als gegenwärtiges operatives Projekt statt als rein theoretischer oder interpretativer Rahmen; kurzfristig durch unmittelbare Beobachtung des tatsächlichen Fortschritts des Projekts (oder dessen Ausbleibens) überprüfbar.
 
-## Comparative observations
+## Vergleichende Beobachtungen
 
-Anticipated-return traditions appear across multiple cultural-religious frameworks worldwide, with substantial structural parallels to the framework's embassy reading. The corpus reads this cross-cultural pattern as evidence of broader operational realities preserved in fragmentary form across the various traditions.
+Traditionen einer erwarteten Rückkehr treten weltweit in mehreren kulturell-religiösen Rahmen auf, mit erheblichen strukturellen Parallelen zur Botschaftslesart des Rahmens. Das Korpus liest dieses kulturübergreifende Muster als Beleg für weitere operative Realitäten, die in fragmentarischer Form über die verschiedenen Traditionen hinweg bewahrt sind.
 
-### Jewish Third Temple traditions
+### Jüdische Traditionen des Dritten Tempels
 
-The Jewish tradition preserves the most directly relevant comparative material on the projected return.
+Die jüdische Tradition bewahrt das unmittelbar relevanteste vergleichende Material über die projizierte Rückkehr.
 
-**Ezekiel's Temple** (Ezekiel 40-48) provides the most elaborate prophetic-architectural specifications in the Hebrew Bible. Ezekiel's vision details the dimensions, structures, courtyards, and ritual arrangements of a future temple, with substantial subsequent rabbinic and contemporary Jewish engagement. The Ezekiel specifications differ from the historical First and Second Temples in various specific respects, suggesting that the prophetic vision describes a third temple yet to be built.
+**Hesekiels Tempel** (Hesekiel 40-48) bietet die ausführlichsten prophetisch-architektonischen Spezifikationen in der Hebräischen Bibel. Hesekiels Vision beschreibt detailliert die Maße, Strukturen, Vorhöfe und rituellen Anordnungen eines künftigen Tempels, mit erheblicher anschließender rabbinischer und zeitgenössischer jüdischer Auseinandersetzung. Die Spezifikationen Hesekiels unterscheiden sich in verschiedenen spezifischen Hinsichten von den historischen Ersten und Zweiten Tempeln, was nahelegt, dass die prophetische Vision einen noch zu errichtenden dritten Tempel beschreibt.
 
-**The messianic-age Third Temple tradition**. Jewish tradition has long anticipated a Third Temple to be built in the messianic age. The principal positions include the Maimonidean view (that the Third Temple will be built by the Messiah upon his arrival, *Mishneh Torah*, *Hilchot Melachim* 11:1), various medieval and modern positions on whether construction must precede or follow the messianic arrival, and various contemporary positions on the relationship between Third Temple construction and broader messianic eschatology.
+**Die Tradition des Dritten Tempels im messianischen Zeitalter**. Die jüdische Tradition hat seit langem einen Dritten Tempel erwartet, der im messianischen Zeitalter errichtet werden soll. Zu den wichtigsten Positionen gehören die maimonidische Sichtweise (dass der Dritte Tempel vom Messias bei seiner Ankunft errichtet werden wird, *Mishneh Torah*, *Hilchot Melachim* 11,1), verschiedene mittelalterliche und moderne Positionen dazu, ob die Errichtung der messianischen Ankunft vorausgehen oder folgen muss, und verschiedene zeitgenössische Positionen zur Beziehung zwischen der Errichtung des Dritten Tempels und der weiteren messianischen Eschatologie.
 
-**The Temple Movement** (contemporary). Various contemporary Jewish organizations advocate for active preparation toward Third Temple construction, including the Temple Institute (founded 1987), the Temple Mount Faithful, and various other organizations engaged in the preparation of ritual implements, the training of priests, and broader institutional preparation for the projected Third Temple's construction.
+**Die Tempelbewegung** (zeitgenössisch). Verschiedene zeitgenössische jüdische Organisationen treten für aktive Vorbereitungen zur Errichtung des Dritten Tempels ein, darunter das Tempelinstitut (gegründet 1987), die Getreuen des Tempelbergs und verschiedene andere Organisationen, die sich mit der Vorbereitung ritueller Geräte, der Ausbildung von Priestern und der weiteren institutionellen Vorbereitung für die projizierte Errichtung des Dritten Tempels befassen.
 
-**The Temple Mount political situation** is the principal practical-political constraint on Third Temple construction in the contemporary period. The Temple Mount in Jerusalem hosts the al-Aqsa Mosque and the Dome of the Rock (both Islamic religious sites of substantial significance), with the broader Israeli-Palestinian-Islamic political situation creating substantial constraints on any potential construction project.
+**Die politische Lage am Tempelberg** ist die zentrale praktisch-politische Einschränkung für die Errichtung des Dritten Tempels in der zeitgenössischen Periode. Der Tempelberg in Jerusalem beherbergt die al-Aqsa-Moschee und den Felsendom (beides islamische religiöse Stätten von erheblicher Bedeutung), wobei die weitere israelisch-palästinensisch-islamische politische Lage erhebliche Einschränkungen für jedes potenzielle Bauprojekt schafft.
 
-The framework reads the Jewish Third Temple tradition as substantively preserving the operational content of the embassy framework within the distinctive Jewish theological-religious framing. The specific Jewish elaborations (the Ezekiel specifications, the messianic-age framework, the Temple Mount complications) reflect the tradition's distinctive content while preserving the underlying operational pattern.
+Der Rahmen liest die jüdische Tradition des Dritten Tempels als substanzielle Bewahrung des operativen Gehalts des Botschaftsrahmens innerhalb der eigentümlichen jüdischen theologisch-religiösen Rahmung. Die spezifischen jüdischen Ausarbeitungen (die Spezifikationen Hesekiels, der Rahmen des messianischen Zeitalters, die Komplikationen am Tempelberg) spiegeln den eigentümlichen Gehalt der Tradition wider und bewahren zugleich das zugrunde liegende operative Muster.
 
-### Christian Second Coming and Parousia traditions
+### Christliche Traditionen der Wiederkunft und Parusie
 
-The Christian tradition preserves substantial material on the **Parousia** (the projected Second Coming of Christ).
+Die christliche Tradition bewahrt umfangreiches Material über die **Parusie** (die projizierte Wiederkunft Christi).
 
-**The Synoptic Gospel apocalyptic discourses** (Matthew 24, Mark 13, Luke 21) provide the principal Gospel material on the Parousia. The discourses describe the projected return in elaborate apocalyptic-symbolic language, with substantial subsequent theological-historical engagement.
+**Die apokalyptischen Reden der synoptischen Evangelien** (Matthäus 24, Markus 13, Lukas 21) bieten das zentrale Evangelienmaterial über die Parusie. Die Reden beschreiben die projizierte Rückkehr in ausführlicher apokalyptisch-symbolischer Sprache, mit erheblicher anschließender theologisch-historischer Auseinandersetzung.
 
-**The Pauline Parousia material**. Paul's letters develop the Parousia tradition extensively, with 1 Thessalonians 4:13-18 providing the principal Pauline statement on the projected return ("the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God").
+**Das paulinische Parusie-Material**. Die Briefe des Paulus entwickeln die Parusie-Tradition ausführlich, wobei 1. Thessalonicher 4,13-18 die zentrale paulinische Aussage über die projizierte Rückkehr bietet („der Herr selbst wird vom Himmel herabkommen mit einem Befehlsruf, mit der Stimme des Erzengels und mit der Posaune Gottes“).
 
-**The Book of Revelation**. The Book of Revelation (the Apocalypse of John) provides the most elaborate New Testament treatment of the projected return, with substantial apocalyptic-symbolic content. The detailed treatment of Revelation lives in the [Apocalypse](../apocalypse/) entry.
+**Die Offenbarung des Johannes**. Die Offenbarung des Johannes (die Apokalypse des Johannes) bietet die ausführlichste neutestamentliche Behandlung der projizierten Rückkehr, mit erheblichem apokalyptisch-symbolischem Gehalt. Die detaillierte Behandlung der Offenbarung befindet sich im Eintrag [Apokalypse](../apocalypse/).
 
-**Subsequent Christian theological development**. Christian theological tradition has developed the Parousia material extensively across the past two millennia, with substantial variations across the Catholic, Orthodox, Protestant, and various other Christian traditions. The principal contemporary positions include various amillennialist, premillennialist, and postmillennialist frameworks within Protestant tradition; various Catholic and Orthodox positions on the relationship between the Parousia and broader eschatology; and various contemporary scholarly engagements with the historical and theological content.
+**Spätere christliche theologische Entwicklung**. Die christliche theologische Tradition hat das Parusie-Material in den vergangenen zwei Jahrtausenden ausführlich entwickelt, mit erheblichen Variationen über die katholische, orthodoxe, protestantische und verschiedene andere christliche Traditionen hinweg. Zu den wichtigsten zeitgenössischen Positionen gehören verschiedene amillennialistische, prämillennialistische und postmillennialistische Rahmen innerhalb der protestantischen Tradition; verschiedene katholische und orthodoxe Positionen zur Beziehung zwischen der Parusie und der weiteren Eschatologie; und verschiedene zeitgenössische wissenschaftliche Auseinandersetzungen mit dem historischen und theologischen Gehalt.
 
-The framework reads the Christian Parousia tradition as substantively preserving the operational content of the embassy framework within the distinctive Christian theological-religious framing.
+Der Rahmen liest die christliche Parusie-Tradition als substanzielle Bewahrung des operativen Gehalts des Botschaftsrahmens innerhalb der eigentümlichen christlichen theologisch-religiösen Rahmung.{{ cite(id="wright-resurrection-son-of-god", text="[11]", title="Wright, *The Resurrection of the Son of God* (2003) — Auferstehung und Parusie") }}{{ cite(id="sandt-zangenberg-matthew-james-didache", text="[12]", title="van de Sandt & Zangenberg, *Matthew, James, and Didache* (2008)") }}
 
-### Islamic Mahdi traditions
+### Islamische Mahdi-Traditionen
 
-The Islamic tradition preserves substantial material on anticipated-figure traditions.
+Die islamische Tradition bewahrt umfangreiches Material über Traditionen einer erwarteten Gestalt.
 
-**The Mahdi tradition**. Both Sunni and Shia Islamic traditions preserve substantial material on the Mahdi (the "guided one"), an anticipated figure who will appear at the end of times to restore justice and righteousness. The Sunni Mahdi tradition is more diffuse; the Shia Mahdi tradition (particularly the Twelver Shia tradition's specific identification of the Mahdi with the Twelfth Imam Muhammad al-Mahdi, in occultation since 874 CE) is more elaborate.
+**Die Mahdi-Tradition**. Sowohl die sunnitische als auch die schiitische islamische Tradition bewahren umfangreiches Material über den Mahdi (den „Rechtgeleiteten“), eine erwartete Gestalt, die am Ende der Zeiten erscheinen wird, um Gerechtigkeit und Rechtschaffenheit wiederherzustellen. Die sunnitische Mahdi-Tradition ist diffuser; die schiitische Mahdi-Tradition (insbesondere die spezifische Identifizierung des Mahdi mit dem zwölften Imam Muhammad al-Mahdi in der Zwölfer-Schia-Tradition, in Verborgenheit seit 874 u. Z.) ist ausgearbeiteter.
 
-**The Isa (Jesus) tradition in Islam**. Islamic tradition preserves substantial material on the projected return of Isa (Jesus), particularly in the Hadith literature. The Islamic Isa tradition treats Jesus as having been raised to heaven without dying, with a projected return at the end of times to participate in the broader eschatological events.
+**Die Isa-Tradition (Jesus) im Islam**. Die islamische Tradition bewahrt umfangreiches Material über die projizierte Rückkehr von Isa (Jesus), insbesondere in der Hadith-Literatur. Die islamische Isa-Tradition behandelt Jesus als jemanden, der ohne zu sterben in den Himmel erhoben wurde, mit einer projizierten Rückkehr am Ende der Zeiten, um an den weiteren eschatologischen Ereignissen teilzunehmen.
 
-**The relationship between the Mahdi and Isa**. Various Islamic traditions develop substantial material on the projected coordinated arrival of both the Mahdi and Isa, with various specific frameworks for understanding the relationship between the two figures.
+**Die Beziehung zwischen dem Mahdi und Isa**. Verschiedene islamische Traditionen entwickeln umfangreiches Material über die projizierte koordinierte Ankunft sowohl des Mahdi als auch von Isa, mit verschiedenen spezifischen Rahmen zum Verständnis der Beziehung zwischen den beiden Gestalten.
 
-The framework reads the Islamic Mahdi and Isa traditions as substantively preserving the operational content of the projected return framework within the distinctive Islamic theological-religious framing.
+Der Rahmen liest die islamischen Mahdi- und Isa-Traditionen als substanzielle Bewahrung des operativen Gehalts des Rahmens der projizierten Rückkehr innerhalb der eigentümlichen islamischen theologisch-religiösen Rahmung.{{ cite(id="sachedina-islamic-messianism", text="[13]", title="Sachedina, *Islamic Messianism* (1981) — der Mahdi im Zwölfer-Schiismus") }}{{ cite(id="cook-muslim-apocalyptic", text="[14]", title="Cook, *Studies in Muslim Apocalyptic* (2002)") }}
 
-### Buddhist Maitreya tradition
+### Buddhistische Maitreya-Tradition
 
-The Buddhist tradition preserves the **Maitreya** tradition — the anticipated future Buddha who will appear in the world following the decline of the present Buddhist tradition.
+Die buddhistische Tradition bewahrt die **Maitreya**-Tradition — den erwarteten künftigen Buddha, der nach dem Niedergang der gegenwärtigen buddhistischen Tradition in der Welt erscheinen wird.
 
-**The basic Maitreya framework**. Maitreya is identified as the next Buddha following Śākyamuni Buddha (the historical Buddha), currently residing in the Tuṣita heaven and projected to appear in the world at a specific future moment.
+**Der grundlegende Maitreya-Rahmen**. Maitreya wird als der nächste Buddha nach Śākyamuni Buddha (dem historischen Buddha) identifiziert, der gegenwärtig im Tuṣita-Himmel weilt und voraussichtlich zu einem bestimmten künftigen Zeitpunkt in der Welt erscheinen wird.
 
-**The Maitreya iconographic tradition**. Maitreya is depicted in various iconographic forms across the Buddhist tradition, with substantial regional variations (the seated Maitreya of the Indian-Nepalese tradition, the standing Maitreya of various East Asian traditions, the laughing-Buddha Maitreya of the Chinese folk tradition).
+**Die ikonografische Maitreya-Tradition**. Maitreya wird in der buddhistischen Tradition in verschiedenen ikonografischen Formen dargestellt, mit erheblichen regionalen Variationen (der sitzende Maitreya der indisch-nepalesischen Tradition, der stehende Maitreya verschiedener ostasiatischer Traditionen, der lachende-Buddha-Maitreya der chinesischen Volkstradition).
 
-**The Raëlian connection**. Notably, Raël has been identified within the Raëlian movement (and specifically in the published *Maitreya* book) as the Maitreya figure of the Buddhist tradition, providing one specific connection between the Buddhist Maitreya tradition and the Raëlian framework.
+**Die raëlianische Verbindung**. Bemerkenswerterweise ist Raël innerhalb der raëlianischen Bewegung (und insbesondere im veröffentlichten Buch *Maitreya*) als die Maitreya-Gestalt der buddhistischen Tradition identifiziert worden, was eine spezifische Verbindung zwischen der buddhistischen Maitreya-Tradition und dem raëlianischen Rahmen herstellt.
 
-The framework reads the Buddhist Maitreya tradition as substantively preserving the operational content of the projected return framework within the distinctive Buddhist religious framing.
+Der Rahmen liest die buddhistische Maitreya-Tradition als substanzielle Bewahrung des operativen Gehalts des Rahmens der projizierten Rückkehr innerhalb der eigentümlichen buddhistischen religiösen Rahmung.
 
-### Hindu Kalki avatar
+### Hinduistischer Kalki-Avatar
 
-The Hindu tradition preserves the **Kalki avatar** tradition — the projected tenth and final avatar of Vishnu, anticipated to appear at the end of the present Kali Yuga to restore righteousness and inaugurate a new cosmic age.
+Die hinduistische Tradition bewahrt die **Kalki-Avatar**-Tradition — den projizierten zehnten und letzten Avatar Vishnus, dessen Erscheinen am Ende des gegenwärtigen Kali Yuga erwartet wird, um die Rechtschaffenheit wiederherzustellen und ein neues kosmisches Zeitalter einzuleiten.
 
-**The Kalki framework**. Kalki is described in various Puranic texts as appearing on a white horse, wielding a sword, and conducting the cosmic-eschatological cleansing that ends the present Kali Yuga and inaugurates the new Satya Yuga.
+**Der Kalki-Rahmen**. Kalki wird in verschiedenen puranischen Texten als auf einem weißen Pferd erscheinend, ein Schwert führend und die kosmisch-eschatologische Reinigung durchführend beschrieben, die das gegenwärtige Kali Yuga beendet und das neue Satya Yuga einleitet.
 
-**The cosmic-cyclical context**. The Kalki tradition operates within the broader Hindu cyclic-cosmology framework (treated more fully in the [Cosmic Chain](../cosmic-chain/) entry), with the Kalki avatar marking the transition between cosmic ages.
+**Der kosmisch-zyklische Kontext**. Die Kalki-Tradition wirkt innerhalb des weiteren hinduistischen zyklisch-kosmologischen Rahmens (ausführlicher behandelt im Eintrag [Kosmische Kette](../cosmic-chain/)), wobei der Kalki-Avatar den Übergang zwischen kosmischen Zeitaltern markiert.
 
-The framework reads the Hindu Kalki tradition as substantively preserving the operational content of the projected return framework within the distinctive Hindu religious-cosmological framing.
+Der Rahmen liest die hinduistische Kalki-Tradition als substanzielle Bewahrung des operativen Gehalts des Rahmens der projizierten Rückkehr innerhalb der eigentümlichen hinduistischen religiös-kosmologischen Rahmung.{{ cite(id="doniger-the-hindus", text="[15]", title="Doniger, *The Hindus: An Alternative History* (2009) — der Kalki-Avatar") }}
 
-### Zoroastrian Saoshyant
+### Zoroastrischer Saoshyant
 
-The Zoroastrian tradition preserves the **Saoshyant** tradition — the anticipated savior figure (or sequence of three savior figures) who will conduct the cosmic-eschatological renewal at the end of the present cosmic age.
+Die zoroastrische Tradition bewahrt die **Saoshyant**-Tradition — die erwartete Retterfigur (oder Abfolge von drei Retterfiguren), die am Ende des gegenwärtigen kosmischen Zeitalters die kosmisch-eschatologische Erneuerung durchführen wird.
 
-**The Saoshyant framework**. Various Zoroastrian texts (the Avesta, the Pahlavi literature, various subsequent traditions) develop the Saoshyant tradition with substantial specific content. The principal Saoshyant figure (Astvat-ereta) is projected to conduct the *frashokereti* (the cosmic renewal), restoring the cosmos to its original perfect state.
+**Der Saoshyant-Rahmen**. Verschiedene zoroastrische Texte (das Avesta, die Pahlavi-Literatur, verschiedene spätere Traditionen) entwickeln die Saoshyant-Tradition mit erheblichem spezifischem Gehalt. Die zentrale Saoshyant-Gestalt (Astvat-ereta) wird voraussichtlich die *Frashokereti* (die kosmische Erneuerung) durchführen und den Kosmos in seinen ursprünglichen vollkommenen Zustand zurückversetzen.
 
-**The historical influence**. The Zoroastrian Saoshyant tradition is widely recognized as having substantial historical influence on the development of Jewish, Christian, and Islamic eschatological frameworks, particularly through the Persian period of Israelite history and the broader Hellenistic-religious synthesis.
+**Der historische Einfluss**. Die zoroastrische Saoshyant-Tradition wird weithin als von erheblichem historischem Einfluss auf die Entwicklung jüdischer, christlicher und islamischer eschatologischer Rahmen anerkannt, insbesondere durch die persische Periode der israelitischen Geschichte und die weitere hellenistisch-religiöse Synthese.
 
-The framework reads the Zoroastrian Saoshyant tradition as substantively preserving the operational content of the projected return framework within the distinctive Zoroastrian religious framing, with the broader historical influence on Western eschatological tradition being one specific channel through which the broader operational content has been preserved.
+Der Rahmen liest die zoroastrische Saoshyant-Tradition als substanzielle Bewahrung des operativen Gehalts des Rahmens der projizierten Rückkehr innerhalb der eigentümlichen zoroastrischen religiösen Rahmung, wobei der weitere historische Einfluss auf die westliche eschatologische Tradition ein spezifischer Kanal ist, durch den der weitere operative Gehalt bewahrt wurde.{{ cite(id="boyce-zoroastrians", text="[16]", title="Boyce, *Zoroastrians* (2001) — der Saoshyant und Frashokereti") }}
 
-### Indigenous return-of-creators traditions
+### Indigene Traditionen der Rückkehr der Schöpfer
 
-Various indigenous traditions preserve substantial material on anticipated returns of creator-figures.
+Verschiedene indigene Traditionen bewahren umfangreiches Material über erwartete Rückkehren von Schöpfergestalten.
 
-**Mesoamerican return-of-Quetzalcoatl tradition**. The Aztec and broader Mesoamerican tradition preserves substantial material on the projected return of Quetzalcoatl (the feathered serpent deity), with the projected return having substantial historical significance during the early period of the Spanish conquest (the Aztec emperor Moctezuma II's reported initial identification of Cortés as Quetzalcoatl returning, though the historical accuracy of this identification has been substantially debated in subsequent scholarship).
+**Mesoamerikanische Tradition der Rückkehr Quetzalcoatls**. Die aztekische und weitere mesoamerikanische Tradition bewahrt umfangreiches Material über die projizierte Rückkehr Quetzalcoatls (der gefiederten Schlangengottheit), wobei die projizierte Rückkehr während der frühen Periode der spanischen Eroberung erhebliche historische Bedeutung hatte (die berichtete anfängliche Identifizierung von Cortés als zurückkehrendem Quetzalcoatl durch den aztekischen Herrscher Moctezuma II., obwohl die historische Genauigkeit dieser Identifizierung in der späteren Forschung erheblich umstritten ist).{{ cite(id="carrasco-quetzalcoatl", text="[17]", title="Carrasco, *Quetzalcoatl and the Irony of Empire* (1982) — die Rückkehrprophezeiung") }}
 
-**Various other indigenous traditions** preserve return-of-creator content within their distinctive cultural-religious framings, with substantial specific material across multiple geographic regions (Polynesian, North American, South American, African, Australian Aboriginal, and various other indigenous traditions).
+**Verschiedene andere indigene Traditionen** bewahren Inhalte über die Rückkehr von Schöpfern innerhalb ihrer eigentümlichen kulturell-religiösen Rahmungen, mit erheblichem spezifischem Material über mehrere geografische Regionen hinweg (polynesische, nordamerikanische, südamerikanische, afrikanische, australische Aborigine- und verschiedene andere indigene Traditionen).
 
-The framework reads the indigenous return-of-creators traditions as substantively preserving the operational content of the projected return framework within the various distinctive cultural-religious framings.
+Der Rahmen liest die indigenen Traditionen der Rückkehr der Schöpfer als substanzielle Bewahrung des operativen Gehalts des Rahmens der projizierten Rückkehr innerhalb der verschiedenen eigentümlichen kulturell-religiösen Rahmungen.
 
-### The convergence
+### Die Konvergenz
 
-The corpus's working position on the comparative-anticipated-return question is that the global recurrence of anticipated-return traditions across cultural-religious frameworks is meaningful as evidence of a genuine underlying reality. The mainstream scholarly explanation — which generally treats the various traditions as developing their own anticipated-return content through internal religious-cultural processes combined with cultural diffusion — is read by the corpus as substantially insufficient to account for the breadth and the specific structural parallels (the projected return of specific creator-figures, the cosmic-eschatological context, the specific operational features) that appear consistently across geographically and chronologically separated traditions.
+Die Arbeitsposition des Korpus zur Frage der vergleichenden erwarteten Rückkehr ist, dass das globale Wiederauftreten von Traditionen einer erwarteten Rückkehr über kulturell-religiöse Rahmen hinweg als Beleg für eine genuine zugrunde liegende Realität bedeutsam ist.{{ footnote(id="6") }} Die wissenschaftliche Mehrheitserklärung — die die verschiedenen Traditionen im Allgemeinen so behandelt, als entwickelten sie ihre eigenen Inhalte einer erwarteten Rückkehr durch interne religiös-kulturelle Prozesse in Verbindung mit kultureller Diffusion — wird vom Korpus als im Wesentlichen unzureichend gelesen, um die Breite und die spezifischen strukturellen Parallelen (die projizierte Rückkehr bestimmter Schöpfergestalten, der kosmisch-eschatologische Kontext, die spezifischen operativen Merkmale) zu erklären, die durchgängig über geografisch und chronologisch getrennte Traditionen hinweg auftreten.
 
-The framework's specific reading is that the global anticipated-return pattern preserves common memory of the broader cosmic-political situation that the embassy framework articulates, with each cultural-religious tradition preserving the memory in its own terms and with its own specific details reflecting its own perspective and its own subsequent transmission history. The Jewish Third Temple tradition preserves the operational content most directly relative to the embassy framework's specific architectural-operational specifications; the Christian Parousia, Islamic Mahdi, Buddhist Maitreya, Hindu Kalki, Zoroastrian Saoshyant, and various indigenous return-of-creators traditions preserve the operational content through their respective cultural channels.
+Die spezifische Lesart des Rahmens ist, dass das globale Muster der erwarteten Rückkehr eine gemeinsame Erinnerung an die weitere kosmisch-politische Lage bewahrt, die der Botschaftsrahmen artikuliert, wobei jede kulturell-religiöse Tradition die Erinnerung in ihren eigenen Begriffen und mit ihren eigenen spezifischen Details bewahrt, die ihre eigene Perspektive und ihre eigene spätere Überlieferungsgeschichte widerspiegeln. Die jüdische Tradition des Dritten Tempels bewahrt den operativen Gehalt am unmittelbarsten in Bezug auf die spezifischen architektonisch-operativen Spezifikationen des Botschaftsrahmens; die christliche Parusie, der islamische Mahdi, der buddhistische Maitreya, der hinduistische Kalki, der zoroastrische Saoshyant und verschiedene indigene Traditionen der Rückkehr der Schöpfer bewahren den operativen Gehalt durch ihre jeweiligen kulturellen Kanäle.
 
-The corpus does not require rejecting all of the mainstream scholarly framework. Cultural diffusion certainly occurred across the historical period, and the anticipated-return traditions across cultures show both common structural features (preserving the original framework) and culturally specific elaborations (reflecting the diffusion and local development). What the corpus's framework adds is the underlying cosmic-political situation that gave rise to the structural commonalities — a situation that the mainstream framework, lacking the corpus's broader cosmological framework, has had no way to identify and has therefore had to attribute to combinations of independent religious development and cultural diffusion.
-
-## See also
-
-- [Cosmic Competition](../cosmic-competition/)
-- [Doubled Signature](../doubled-signature/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Apocalypse](../apocalypse/)
-- [Raël](../rael/)
-- [Yahweh](../yahweh/)
-- [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Prophet](../prophet/)
-- [Jesus](../jesus/)
-- [Moses](../moses/)
-- [Atomic Threshold](../atomic-threshold/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Genesis](../genesis/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. The "New Commandments — Your Mission" section is the principal source for the embassy specifications.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*. The October 7, 1975 Roc Plat second-contact material elaborates the embassy specifications and the broader Israeli-context material.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagon Press, 2005 (English edition collecting the principal Raëlian source-material). The 2005 commentary by Raël includes substantial embassy-project status updates and the December 13, 1997 message.
-
-International Raëlian Movement. *Optional Protocol Concerning Embassies for Extraterrestrials*. Submitted to the United Nations, 2015.
-
-International Raëlian Movement. Various official communications regarding the embassy project across the 2021-2025 period, including AEDC announcements, mayoral-presentation reports, and the 2024 Memorandum of Collaboration announcement.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-The Hebrew Bible (BHS, Stuttgart Vulgate, NRSV).
-
-Ezekiel 40-48 (the prophetic-architectural specifications of the future temple).
-
-The Greek New Testament. Nestle-Aland, 28th rev. ed., 2012.
-
-Vienna Convention on Diplomatic Relations. Signed Vienna, April 18, 1961; entered into force April 24, 1964.
-
-Lateran Treaty. Signed Vatican City, February 11, 1929 (establishing Vatican City State).
-
-Mellon, Christopher. Various op-eds and policy statements on UAP transparency, 2017-2025.
-
-Elizondo, Luis. *Imminent: Inside the Pentagon's Hunt for UFOs*. William Morrow, 2024.
-
-Grusch, David. Testimony to U.S. House Oversight Committee, July 26, 2023.
-
-Loeb, Avi. *Extraterrestrial: The First Sign of Intelligent Life Beyond Earth*. Houghton Mifflin Harcourt, 2021.
-
-Loeb, Avi. *Interstellar: The Search for Extraterrestrial Life and Our Future Beyond Earth*. Mariner, 2023.
-
-Sol Foundation (Stanford University). Various publications and conferences, 2023-2025.
-
-Galileo Project (Harvard University). Various publications and observational reports, 2021-2025.
-
-Maimonides. *Mishneh Torah*, *Hilchot Melachim* 11:1 (the principal Maimonidean position on the Third Temple).
-
-Levi, Eliyahu. *The Third Temple: A Study of Future Worship*. Jerusalem, 2010.
-
-Goldberg, Hillel. *The Fight for Jerusalem: Radical Islam, the West, and the Future of the Holy City*. Regnery, 2007.
-
-Sandt, Huub van de, and Jürgen K. Zangenberg, eds. *Matthew, James, and Didache: Three Related Documents in Their Jewish and Christian Settings*. Society of Biblical Literature, 2008.
-
-Wright, N. T. *The Resurrection of the Son of God*. Christian Origins and the Question of God 3. Fortress Press, 2003.
-
-Halperin, David J. *The Faces of the Chariot: Early Jewish Responses to Ezekiel's Vision*. Mohr Siebeck, 1988.
-
-Sachedina, Abdulaziz Abdulhussein. *Islamic Messianism: The Idea of Mahdi in Twelver Shi'ism*. State University of New York Press, 1981.
-
-Cook, David. *Studies in Muslim Apocalyptic*. Darwin Press, 2002.
-
-Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. Routledge, 2nd ed., 2008.
-
-Buswell, Robert E., Jr., and Donald S. Lopez Jr. *The Princeton Dictionary of Buddhism*. Princeton University Press, 2014.
-
-Doniger, Wendy. *The Hindus: An Alternative History*. Penguin, 2009.
-
-Boyce, Mary. *Zoroastrians: Their Religious Beliefs and Practices*. Routledge, 2nd ed., 2001.
-
-Carrasco, Davíd. *Quetzalcoatl and the Irony of Empire: Myths and Prophecies in the Aztec Tradition*. University of Chicago Press, 1982.
-
-"Vienna Convention on Diplomatic Relations." *United Nations Treaty Series*, vol. 500, p. 95.
-
-"Vatican City State." *Encyclopaedia Britannica*. <https://www.britannica.com/place/Vatican-City>
-
-"Third Temple." *Wikipedia*. <https://en.wikipedia.org/wiki/Third_Temple>
-
-"Parousia." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Parousia>
-
-"Mahdi." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Mahdi-Islamic-concept>
-
-"Maitreya." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Maitreya-Buddhism>
-
-"Kalki." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Kalki>
-
-International Raëlian Movement. <https://www.rael.org>
-
-Embassy for the Elohim. <https://elohimembassy.org>
+Das Korpus erfordert nicht die Ablehnung des gesamten wissenschaftlichen Mehrheitsrahmens. Kulturelle Diffusion fand im historischen Zeitraum gewiss statt, und die Traditionen einer erwarteten Rückkehr über Kulturen hinweg zeigen sowohl gemeinsame strukturelle Merkmale (die den ursprünglichen Rahmen bewahren) als auch kulturell spezifische Ausarbeitungen (die die Diffusion und lokale Entwicklung widerspiegeln). Was der Rahmen des Korpus hinzufügt, ist die zugrunde liegende kosmisch-politische Lage, die die strukturellen Gemeinsamkeiten hervorgebracht hat — eine Lage, die der Mehrheitsrahmen, dem der weitere kosmologische Rahmen des Korpus fehlt, nicht identifizieren konnte und die er daher Kombinationen aus unabhängiger religiöser Entwicklung und kultureller Diffusion zuschreiben musste.
