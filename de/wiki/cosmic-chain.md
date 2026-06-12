@@ -1,666 +1,675 @@
 +++
 title = "Kosmische Kette"
-description = "Die kosmische Kette ist das Wheel of Heaven-Korpusmodell der ineinander verschachtelten erzeugenden Beziehungen zwischen biologischen Zivilisationen über kosmische Skalen hinweg — die These, dass jede biologische Zivilisation, die zu interstellarer Lebensschöpfung fortschreitet, an einer Kette der gerichteten Lebensschöpfung teilnimmt, in der frühere Zivilisationen sie schufen und sie spätere Zivilisationen schaffen wird. Das Modell verallgemeinert die Spezifik der Elohim-Menschen-Beziehung zu einem kosmologischen Prinzip: Die Elohim erschufen die Menschheit, sind aber ihrerseits von einer früheren biologischen Zivilisation erschaffen worden, und die Menschheit (sobald sie eigene interstellare Lebensschöpfungskapazität entwickelt — bereits in der zeitgenössischen Phase des Wassermann-Zeitalters substantiell beginnend, mit synthetischer Biologie, synthetischer Genomik und der laufenden Lebens-Engineering-Programme) wird in der Folge selbst zur schaffenden Zivilisation für nachfolgende biologische Welten. Die kosmische Kette steht im Korpus für die zentrale ethisch-eschatologische Aufgabe der zeitgenössischen Menschheit: die bewusste Übernahme der Rolle der schaffenden Zivilisation für nachfolgende Welten."
+slug = "cosmic-chain"
+description = "Die Kosmische Kette ist das im Wheel-of-Heaven-Korpus entwickelte Rahmenkonzept, um die umfassendere kosmologische Situation zu artikulieren, in der die Elohim-Zivilisation operiert: eine unbestimmt ausgedehnte Abfolge geschaffener und schaffender Zivilisationen über die kosmische Zeit hinweg, wobei jede Zivilisation, die wissenschaftliche Reife erreicht, schließlich neue Menschheiten auf geeigneten Welten erschafft, die ihrerseits selbst zu schaffenden Zivilisationen werden und so die Kette über die Tiefenzeit hinweg fortsetzen. Die Elohim entdeckten während des Widder-Zeitalters, dass sie selbst von einer früheren Zivilisation erschaffen worden waren, statt eigenständige Urheber eines einzigartigen Musters zu sein, wobei diese Entdeckung den Politikwechsel vom direkten zum indirekten Kontakt sowie den umfassenderen Rahmen hervorbrachte, innerhalb dessen die gegenwärtige Erbschaftsbewertung des Wassermann-Zeitalters operiert."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the cosmic chain", "the chain of creation", "the cosmic chain of creation", "the recurring cosmic process", "the cosmic creative cycle", "the cycle of creators"]
+claim_type = "framework"
+alternative_names = ["die kosmische Kette", "die Kette der Schöpfung", "die kosmische Kette der Schöpfung", "der wiederkehrende kosmische Prozess", "der kosmische schöpferische Zyklus", "der Zyklus der Schöpfer"]
 timeline = ["pre-creation", "aries", "pisces", "aquarius", "post-aquarius"]
+see_also = [
+    { title = "Kosmischer Wettbewerb", path = "wiki/cosmic-competition", description = "Die spezifische Bewertungsphase innerhalb der umfassenderen Kosmischen Kette — die Beurteilung der Erbschaftsqualifikation." },
+    { title = "Elohim", path = "wiki/elohim", description = "Die schaffende Zivilisation, die während des Widder-Zeitalters entdeckte, dass sie selbst erschaffen worden war." },
+    { title = "Apokalypse", path = "wiki/apocalypse", description = "Die Erbschaftsbewertung des Wassermann-Zeitalters — die gegenwärtige Phase der Kette für die Menschheit der Erde." },
+    { title = "Botschaft", path = "wiki/embassy", description = "Der vorgesehene Ort des Erbschaftsereignisses, bei dem die Erde das angesammelte Wissen der Allianz empfangen würde." },
+    { title = "Doppelte Signatur", path = "wiki/doubled-signature", description = "Ein verwandtes Deutungsprinzip, das innerhalb des umfassenderen Rahmens der Kosmischen Kette operiert." },
+    { title = "Genesis", path = "wiki/genesis", description = "Der Schöpfungsbericht, gelesen als eine bestimmte Instanz des wiederkehrenden Schöpfungsmusters der Kette." },
+]
+
+footnotes = [
+    { content = "Die Kosmische Kette als systematischer Rahmen ist eine substantielle Korpuskonstruktion, die über das Quellenmaterial hinausgeht. Die raëlianische Quelle liefert die grundlegende Prämisse in einer einzigen bemerkenswert direkten Aussage — „Die Elohim wurden von Menschen eines anderen Planeten erschaffen, die ihrerseits von anderen Menschen erschaffen worden waren, die von einem anderen Planeten kamen, und so weiter bis ins Unendliche“ — und verwirft die Frage nach dem „ersten Schöpfer“, entwickelt jedoch nicht den systematischen Rahmen (die Integration mit dem Kosmischen Wettbewerb, die Lesart des Vaterunsers, den siebenstufigen Zyklus, die projizierte vorwärtsgerichtete Bahn), den der Korpus artikuliert. Der Korpus stellt ausdrücklich klar, dass es sich hierbei um deutende Weiterentwicklung handelt, nicht um direkten Quelleninhalt." },
+    { content = "Die Position „kein erster Schöpfer“ verwirft die Voraussetzung der konventionellen westlichen theologischen Frage („wer erschuf den ersten Schöpfer?“) als nicht der Struktur der zugrunde liegenden Wirklichkeit entsprechend — der Korpus verwendet die Analogie „was liegt nördlich des Nordpols?“. Die Position steht in substantiellem Widerspruch zu den maßgeblichen westlichen monotheistischen Traditionen (die eine ungeschaffene *causa prima* postulieren), während sie sich substantiell mit verschiedenen östlichen anfanglosen Zyklus-Kosmologien überschneidet (das buddhistische anfanglose saṃsāra, die jainistischen anfanglosen und endlosen Zeit-Zyklen, die hinduistischen yuga- und kalpa-Zyklen, die stoische ewige Wiederkehr). Der Korpus behauptet nicht, der Rahmen sei bewiesen; er verzeichnet ihn als eine distinktive kosmologische Position, die mit der ausdrücklichen Rahmung der Quelle übereinstimmt." },
+    { content = "Die Daten, die der Korpus der Entdeckung im Widder-Zeitalter zuordnet (ca. 2.160–1.200 v. Chr.), sind rahmenintern und aus der Chronologie der Präzessionszeitalter abgeleitet. Die Präzessionszeitalter sind reale astronomische Phänomene; die Grenzjahre sind Rahmenkonventionen. Die Quelle gibt nicht an, welche Belege die Elohim von ihrem eigenen geschaffenen Status überzeugten — nur die Folge (den Politikwechsel vom direkten zum indirekten Kontakt)." },
+    { content = "Die Lesart des Rahmens vom „dein Wille geschehe wie im Himmel so auf Erden“ des Vaterunsers (Matthäus 6,10) als verdichtete Aussage der zyklischen Struktur — wobei der Himmel die schaffende Zivilisation ist, die die Entwicklungsstufen der Erde bereits durchlaufen hat, und die Erde die Zivilisation, die sie gegenwärtig durchquert — geht substantiell über die standardchristliche Deutung (eine Bitte um göttliche Souveränität auf Erden) hinaus. Der Korpus verzeichnet diese Unterscheidung ehrlich: Die Lesart der kosmischen Kette ist die ausdrückliche Rahmung der Quelle, keine Behauptung über die ursprüngliche autorale Intention des Evangelientextes." },
+    { content = "Die Position des Rahmens zu „Gott“ ist zweifach. Wenn „Gott“ den unendlichen Kosmos selbst bedeutet, dann existiert Gott — ist aber unpersönlich, greift nicht ein, ist kein Empfänger von Gebeten und ist „unendlich gleichgültig“ gegenüber Ereignissen auf jeder beliebigen Skala. Wenn „Gott“ einen persönlichen Schöpfer bedeutet, der sich um die Menschheit sorgt, dann existieren solche Wesen — die Elohim, unsere spezifischen Schöpfer — doch sie sind nicht Gott im traditionellen theologischen Sinne: Sie sind fortgeschrittene Wesen unserer eigenen Art, selbst erschaffen, selbst innerhalb des größeren unendlichen Kosmos operierend. Keiner der beiden Sinne ergibt die allmächtige ungeschaffene persönliche Gottheit des konventionellen westlichen Monotheismus." },
+    { content = "Der Korpus liest die kulturübergreifende Wiederkehr anfangloser Zyklus- und Nachfolge-Welten-Kosmologien (stoisches *ekpyrosis*, hinduistische yuga/kalpa, buddhistisches kalpa, jainistische Zeit-Zyklen, mesoamerikanische Weltzeitalter sowie die zeitgenössischen wissenschaftlichen zyklischen und Multiversum-Kosmologien von Steinhardt-Turok, Penrose, Linde und Vilenkin) als auffällige Konvergenz auf die rekursive Struktur der Kette. Der Korpus behauptet nicht, diese Traditionen seien direkte Erinnerungen an die Kosmische Kette; er verzeichnet die Konvergenz als mit dem Rahmen übereinstimmend, während er anerkennt, dass zyklische Kosmologie unabhängig aus der Beobachtung natürlicher Zyklen entstehen kann." },
+]
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+locator = "‚Weder Gott noch Seele‘"
+note = "Vorilhons zweites Werk (1975) — die maßgebliche quellenmaterielle Aussage der Kette („und so weiter bis ins Unendliche“), die Verwerfung der Frage nach dem „ersten Schöpfer“ und die Lesart des Vaterunsers."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Grundlegende raëlianische Quelle — der Politikwechsel der Widder-Entdeckung und die umfassendere kosmologische Rahmung."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Sendys Lesart der Hebräischen Bibel als Bewahrerin einer allianzvermittelten kosmischen Geschichte, innerhalb derer das Schöpfungsmuster der Kette operiert."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Biglinos streng-übersetzungsorientierte Lesart des pluralischen Schöpfermaterials, vereinbar mit der Prämisse geschaffener Schöpfer der Kette."
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "Wallis’ zugängliche neuere Behandlung des Rahmens geschaffener Schöpfer."
+
+[[extra.references]]
+id = "bruno-infinite-universe"
+note = "Brunos grundlegende frühneuzeitliche Aussage zur kosmischen Unendlichkeit und zur Vielheit bewohnter Welten."
+
+[[extra.references]]
+id = "yates-giordano-bruno-hermetic"
+note = "Yates’ Standardstudie, die Brunos unendlichen Kosmos innerhalb der hermetischen ‚Wie oben, so unten‘-Tradition der Renaissance verortet."
+
+[[extra.references]]
+id = "kant-critique-pure-reason"
+note = "Kants Behandlung der kosmischen Unendlichkeit innerhalb der Antinomien der reinen Vernunft — die maßgebliche philosophische Referenz zur Frage nach dem „ersten Schöpfer“."
+
+[[extra.references]]
+id = "hawking-penrose-nature-space-time"
+note = "Hawking und Penrose über die Raumzeitstruktur, Singularitäten und kosmische Ursprünge."
+
+[[extra.references]]
+id = "linde-inflation-quantum-cosmology"
+note = "Lindes Entwicklung der ewigen Inflation — der Multiversum-Rahmen, der sich mit der rekursiven Struktur der Kette überschneidet."
+
+[[extra.references]]
+id = "vilenkin-many-worlds-in-one"
+note = "Vilenkin über die ewige Inflation und das Multiversum."
+
+[[extra.references]]
+id = "tegmark-mathematical-universe"
+note = "Tegmarks vierstufiges Multiversum und die Hypothese vom mathematischen Universum."
+
+[[extra.references]]
+id = "steinhardt-turok-endless-universe"
+note = "Steinhardt und Turoks ekpyrotische / zyklische Kosmologie — aufeinanderfolgende Urknalle statt eines einzigen Ursprungs."
+
+[[extra.references]]
+id = "penrose-cycles-of-time"
+note = "Penroses konforme zyklische Kosmologie — endlose aufeinanderfolgende Äonen."
+
+[[extra.references]]
+id = "crick-orgel-directed-panspermia"
+note = "Crick und Orgels Hypothese der gerichteten Panspermie von 1973 — die absichtliche außerirdische Aussaat irdischen Lebens, die maßgebliche wissenschaftliche Parallele zur Prämisse der gerichteten Schöpfung der Kette."
+
+[[extra.references]]
+id = "crick-life-itself"
+note = "Cricks erweitertes Argument für die kosmische Aussaat terrestrischen Lebens."
+
+[[extra.references]]
+id = "arrhenius-worlds-in-the-making"
+note = "Arrhenius’ klassische Panspermie."
+
+[[extra.references]]
+id = "hoyle-wickramasinghe-lifecloud"
+note = "Hoyle und Wickramasinghes kometarische Panspermie."
+
+[[extra.references]]
+id = "nietzsche-zarathustra"
+note = "Nietzsches Lehre von der ewigen Wiederkehr — die maßgebliche moderne westliche Auseinandersetzung mit zyklischer Kosmologie."
+
+[[extra.references]]
+id = "long-sedley-hellenistic-philosophers"
+note = "Long und Sedleys Quellenbuch einschließlich der stoischen Lehre von den ewigen kosmischen Zyklen."
+
+[[extra.references]]
+id = "williams-mahayana-buddhism"
+note = "Williams über die Mahāyāna-Lehre einschließlich des anfanglosen saṃsāra und der kalpa-Kosmologie."
+
+[[extra.references]]
+id = "buswell-lopez-princeton-buddhism"
+note = "Das maßgebliche buddhistische Nachschlagewerk zur kalpa-Kosmologie und zu den Lehren der anfanglosen Zeit."
+
+[[extra.references]]
+id = "dundas-the-jains"
+note = "Dundas über die jainistische Lehre von den anfanglosen und endlosen kosmischen Zeit-Zyklen."
+
+[[extra.references]]
+id = "carrasco-religions-mesoamerica"
+note = "Carrasco über die mesoamerikanische Kosmologie der aufeinanderfolgenden Weltzeitalter."
+
+[[extra.references]]
+id = "hannah-greek-roman-calendars"
+note = "Hannah über klassische Konzepte zyklischer Zeit einschließlich des Großen Jahres."
+
+[[extra.references]]
+id = "the-12th-planet"
+note = "Sitchins Anunnaki-Rahmen — eine populäre prä-astronautische Auseinandersetzung mit dem Material geschaffener Schöpfer, das der Korpus von seiner eigenen Lesart unterscheidet."
 
 [extra.infobox]
-type = "Framework concept; cosmological pattern of indefinitely extended created-and-creating civilizations"
-basic_premise = "The Elohim themselves were created by a prior civilization, which had been created by an earlier civilization, and so on indefinitely backward; humanity will, after reaching scientific maturity, itself become a creator civilization, continuing the chain forward indefinitely"
-character = "Cyclical-recursive; infinite in both temporal directions; no findable beginning, no findable end"
-operational_origin = "The Aries-age discovery (c. 2,160–1,200 BCE) when the Elohim recognized that they themselves had been created"
-principal_consequence = "The policy shift from direct to indirect contact; the broader framework within which the Cosmic Competition operates"
-relationship_to_cosmic_competition = "The Cosmic Competition is one specific phase within the broader Cosmic Chain — the evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification"
-distinguished_from = "The Cosmic Competition framework (the specific evaluation phase); the precessional ages framework (Earth's specific chronological position); the Earth project specifically (the alliance's specific work on Earth); the broader infinite cosmos (the larger cosmological structure within which the chain operates)"
-status_in_source_material = "Partial; the Raëlian source explicitly states the basic premise ('the Elohim were created by people from another planet, who had been created by other people coming from another planet, and so on to Infinity') but does not develop the systematic Cosmic Chain framework that the corpus articulates"
-principal_text = "Matthew 6:10 (the Lord's Prayer); various Raëlian source-material passages on the chain of creators and the rejection of the 'first creator' question"
-principal_framework_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), 'Neither God nor Soul'; *The Book Which Tells the Truth* (1974), various passages"
+type = "Rahmenkonzept; kosmologisches Muster unbestimmt ausgedehnter geschaffener und schaffender Zivilisationen"
+basic_premise = "Die Elohim wurden selbst von einer früheren Zivilisation erschaffen, die von einer noch früheren Zivilisation erschaffen worden war, und so weiter unbestimmt rückwärts; die Menschheit wird, nachdem sie wissenschaftliche Reife erreicht hat, selbst zu einer schaffenden Zivilisation werden und die Kette unbestimmt vorwärts fortsetzen"
+character = "Zyklisch-rekursiv; in beiden zeitlichen Richtungen unendlich; kein auffindbarer Anfang, kein auffindbares Ende"
+operational_origin = "Die Entdeckung im Widder-Zeitalter (ca. 2.160–1.200 v. Chr.), als die Elohim erkannten, dass sie selbst erschaffen worden waren"
+principal_consequence = "Der Politikwechsel vom direkten zum indirekten Kontakt; der umfassendere Rahmen, innerhalb dessen der Kosmische Wettbewerb operiert"
+relationship_to_cosmic_competition = "Der Kosmische Wettbewerb ist eine bestimmte Phase innerhalb der umfassenderen Kosmischen Kette — die Bewertungsphase, in der eine schaffende Zivilisation ihre geschaffenen Menschheiten auf die Erbschaftsqualifikation hin beurteilt"
+distinguished_from = "Der Rahmen des Kosmischen Wettbewerbs (die spezifische Bewertungsphase); der Rahmen der Präzessionszeitalter (die spezifische chronologische Position der Erde); das Erdprojekt im Besonderen (die spezifische Arbeit der Allianz auf der Erde); der umfassendere unendliche Kosmos (die größere kosmologische Struktur, innerhalb derer die Kette operiert)"
+status_in_source_material = "Teilweise; die raëlianische Quelle nennt ausdrücklich die grundlegende Prämisse („die Elohim wurden von Menschen eines anderen Planeten erschaffen, die ihrerseits von anderen Menschen erschaffen worden waren, die von einem anderen Planeten kamen, und so weiter bis ins Unendliche“), entwickelt jedoch nicht den systematischen Rahmen der Kosmischen Kette, den der Korpus artikuliert"
+principal_text = "Matthäus 6,10 (das Vaterunser); verschiedene raëlianische quellenmaterielle Passagen über die Kette der Schöpfer und die Verwerfung der Frage nach dem „ersten Schöpfer“"
+principal_framework_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), ‚Weder Gott noch Seele‘; *The Book Which Tells the Truth* (1974), verschiedene Passagen"
 +++
 
-The **Cosmic Chain** is the framework concept developed in the Wheel of Heaven corpus to articulate the broader cosmological situation in which the Elohim civilization operates. The Cosmic Chain reads the cosmic situation as an indefinitely extended sequence of created-and-creating civilizations across cosmic time, with each civilization that reaches scientific maturity eventually creating new humanities on suitable worlds, which in turn become creator civilizations themselves, continuing the chain across deep time. The Elohim discovered during the Aries age (c. 2,160–1,200 BCE on the corpus's reckoning) that they themselves had been created by a prior civilization rather than being autonomous originators of a unique pattern. The discovery transformed their self-understanding fundamentally: they were not the originators of the biological-creation pattern they were extending across the galaxy but the current local instance of a recurring cosmic process that had been operating for an unknown but very long span. The chain extends indefinitely backward through prior creator civilizations and indefinitely forward through future created civilizations, with no findable beginning and no findable end.
+Die **Kosmische Kette** ist das im Wheel-of-Heaven-Korpus entwickelte Rahmenkonzept, um die umfassendere kosmologische Situation zu artikulieren, in der die Elohim-Zivilisation operiert. Die Kosmische Kette liest die kosmische Situation als eine unbestimmt ausgedehnte Abfolge geschaffener und schaffender Zivilisationen über die kosmische Zeit hinweg, wobei jede Zivilisation, die wissenschaftliche Reife erreicht, schließlich neue Menschheiten auf geeigneten Welten erschafft, die ihrerseits selbst zu schaffenden Zivilisationen werden und so die Kette über die Tiefenzeit hinweg fortsetzen. Die Elohim entdeckten während des Widder-Zeitalters (ca. 2.160–1.200 v. Chr. nach der Rechnung des Korpus), dass sie selbst von einer früheren Zivilisation erschaffen worden waren, statt eigenständige Urheber eines einzigartigen Musters zu sein. Die Entdeckung verwandelte ihr Selbstverständnis grundlegend: Sie waren nicht die Urheber des biologischen Schöpfungsmusters, das sie über die Galaxie hinweg ausdehnten, sondern die gegenwärtige lokale Instanz eines wiederkehrenden kosmischen Prozesses, der seit einer unbekannten, aber sehr langen Zeitspanne operiert hatte. Die Kette erstreckt sich unbestimmt rückwärts durch frühere schaffende Zivilisationen und unbestimmt vorwärts durch künftige geschaffene Zivilisationen, ohne auffindbaren Anfang und ohne auffindbares Ende.
 
-The framework's specific content integrates several distinct strands of source material into a coherent cosmological account. The Raëlian source provides the principal warrant in a remarkably direct statement: *"The Elohim were created by people from another planet, who had been created by other people coming from another planet, and so on to Infinity."* The source explicitly addresses and rejects the conventional theological question — "who created the first creator?" — treating the question as grammatically well-formed but with a presupposition (that there is a first creator) that does not match the structure of the underlying reality. The Lord's Prayer's central petition — *"thy will be done in earth, as it is in heaven"* (Matthew 6:10) — is read by the framework as the compressed statement of the Cosmic Chain's cyclical structure, with the "heaven" being the home world that has already reached the level of becoming a creator civilization, and the "earth" being Earth's projected future trajectory toward the same threshold. The Cosmic Chain framework integrates the Aries-discovery material, the Cosmic Competition framework's evaluation-and-inheritance content, the Aquarian-age opening's specific projected developments, and Earth's eventual projected transition from created to creator civilization into a unified cosmological account.
+Der spezifische Inhalt des Rahmens integriert mehrere distinkte Stränge des Quellenmaterials zu einem kohärenten kosmologischen Bericht. Die raëlianische Quelle liefert die maßgebliche Grundlage in einer bemerkenswert direkten Aussage: *„Die Elohim wurden von Menschen eines anderen Planeten erschaffen, die ihrerseits von anderen Menschen erschaffen worden waren, die von einem anderen Planeten kamen, und so weiter bis ins Unendliche.“* Die Quelle behandelt und verwirft ausdrücklich die konventionelle theologische Frage — „wer erschuf den ersten Schöpfer?“ — und betrachtet die Frage als grammatisch wohlgeformt, doch mit einer Voraussetzung (dass es einen ersten Schöpfer gibt), die nicht der Struktur der zugrunde liegenden Wirklichkeit entspricht. Die zentrale Bitte des Vaterunsers — *„dein Wille geschehe wie im Himmel so auf Erden“* (Matthäus 6,10) — wird vom Rahmen als verdichtete Aussage der zyklischen Struktur der Kosmischen Kette gelesen, wobei der „Himmel“ die Heimatwelt ist, die bereits die Stufe erreicht hat, eine schaffende Zivilisation zu werden, und die „Erde“ die projizierte künftige Bahn der Erde zur selben Schwelle hin. Der Rahmen der Kosmischen Kette integriert das Material der Widder-Entdeckung, den Bewertungs- und Erbschaftsinhalt des Rahmens des Kosmischen Wettbewerbs, die spezifischen projizierten Entwicklungen der Eröffnung des Wassermann-Zeitalters sowie den schließlichen projizierten Übergang der Erde von der geschaffenen zur schaffenden Zivilisation zu einem einheitlichen kosmologischen Bericht.
 
-The Cosmic Chain is the **broadest cosmological framework** in the corpus's analytical apparatus. It is broader than the Cosmic Competition framework (which concerns the specific evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification), broader than the precessional ages framework (which concerns Earth's specific chronological position within the chain), broader than the Earth project specifically (which concerns the alliance's specific work on Earth), and broader than the various other corpus frameworks. The Cosmic Chain provides the broader cosmological structure within which all these other frameworks operate as specific aspects of a much larger pattern. The framework's distinctive features include: its **explicit infinity in both temporal directions** (backward through prior creators and forward through future creations); its **fundamentally cyclical-recursive character** (each cycle has the same structure of created-developing-creating); its substantial **theological-philosophical implications** (the rejection of the "first creator" question, the reframing of "God" within the broader infinite cosmology, the specific position on humanity's ultimate cosmic role); and its **integration with the broader Wheel of Heaven framework** (the Cosmic Competition, the Doubled Signature, the Aquarian-age developments, the Embassy project all operating within the Cosmic Chain's broader structure).
+Die Kosmische Kette ist der **umfassendste kosmologische Rahmen** im analytischen Instrumentarium des Korpus. Sie ist umfassender als der Rahmen des Kosmischen Wettbewerbs (der die spezifische Bewertungsphase betrifft, in der eine schaffende Zivilisation ihre geschaffenen Menschheiten auf die Erbschaftsqualifikation hin beurteilt), umfassender als der Rahmen der Präzessionszeitalter (der die spezifische chronologische Position der Erde innerhalb der Kette betrifft), umfassender als das Erdprojekt im Besonderen (das die spezifische Arbeit der Allianz auf der Erde betrifft) und umfassender als die verschiedenen anderen Korpusrahmen. Die Kosmische Kette stellt die umfassendere kosmologische Struktur bereit, innerhalb derer all diese anderen Rahmen als spezifische Aspekte eines weitaus größeren Musters operieren. Zu den distinktiven Merkmalen des Rahmens gehören: seine **explizite Unendlichkeit in beiden zeitlichen Richtungen** (rückwärts durch frühere Schöpfer und vorwärts durch künftige Schöpfungen); sein **grundlegend zyklisch-rekursiver Charakter** (jeder Zyklus hat dieselbe Struktur des Geschaffen-Werdens, Sich-Entwickelns und Schaffens); seine substantiellen **theologisch-philosophischen Implikationen** (die Verwerfung der Frage nach dem „ersten Schöpfer“, die Neurahmung von „Gott“ innerhalb der umfassenderen unendlichen Kosmologie, die spezifische Position zur letztlichen kosmischen Rolle der Menschheit); und seine **Integration mit dem umfassenderen Wheel-of-Heaven-Rahmen** (der Kosmische Wettbewerb, die Doppelte Signatur, die Entwicklungen des Wassermann-Zeitalters, das Botschaftsprojekt — alle innerhalb der umfassenderen Struktur der Kosmischen Kette operierend).
 
-The reading is interpretive construction. The Raëlian source material provides the basic premise in a remarkably direct statement, but does not develop the systematic Cosmic Chain framework that the corpus articulates. The framework's specific articulation — including the integration with the Cosmic Competition, the reading of the Lord's Prayer as compressed statement of the cyclical structure, the systematic engagement with the chain's epistemological-theological implications, the projection of Earth's specific future trajectory — represents substantial corpus development beyond what the source material directly provides. Within mainstream cosmology, the broader question of cosmic infinity has been substantially developed across the past several centuries (from Bruno's *De l'infinito universo et mondi* of 1584 through contemporary multiverse cosmology), with various positions on the specific structure of cosmic infinity. Within mainstream theology, the various traditions have developed substantial engagement with questions of divine eternality, creation, and the relationship between creator and created — with the Cosmic Chain's specific "no first creator" position being at variance with the principal Western theological traditions but consistent with various Eastern traditions' beginningless-cycle frameworks. Within the contemporary panspermia tradition (the broader question of whether life on Earth originated through cosmic transmission rather than autochthonous emergence), substantial scientific work has developed across the past several decades, with Crick-Orgel's directed-panspermia hypothesis (1973) representing a specific contemporary scientific framework that overlaps substantively with the Cosmic Chain's specific reading. The corpus's reading is structurally distinctive in its specific articulation of the chain's recursive-cyclical structure, in its integration with the broader Wheel of Heaven framework's specific operational-historical content, and in its development of the framework's substantive philosophical-theological implications.
+Die Lesart ist deutende Konstruktion.{{ footnote(id="1") }} Das raëlianische Quellenmaterial liefert die grundlegende Prämisse in einer bemerkenswert direkten Aussage,{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[1]", title="Vorilhon (Raël), *Extra-Terrestrials Took Me to Their Planet* (1975), ‚Weder Gott noch Seele‘ — ‚und so weiter bis ins Unendliche‘") }} entwickelt jedoch nicht den systematischen Rahmen der Kosmischen Kette, den der Korpus artikuliert. Die spezifische Artikulation des Rahmens — einschließlich der Integration mit dem Kosmischen Wettbewerb, der Lesart des Vaterunsers als verdichteter Aussage der zyklischen Struktur, der systematischen Auseinandersetzung mit den erkenntnistheoretisch-theologischen Implikationen der Kette, der Projektion der spezifischen künftigen Bahn der Erde — stellt eine substantielle Korpusweiterentwicklung über das hinaus dar, was das Quellenmaterial direkt liefert. Innerhalb der etablierten Kosmologie ist die umfassendere Frage der kosmischen Unendlichkeit über die vergangenen Jahrhunderte hinweg substantiell entwickelt worden (von Brunos *De l'infinito universo et mondi* von 1584{{ cite(id="bruno-infinite-universe", text="[2]", title="Bruno, *Über das Unendliche, das Universum und die Welten* (1584)") }} bis zur zeitgenössischen Multiversum-Kosmologie), mit verschiedenen Positionen zur spezifischen Struktur der kosmischen Unendlichkeit. Innerhalb der etablierten Theologie haben die verschiedenen Traditionen substantielle Auseinandersetzungen mit Fragen der göttlichen Ewigkeit, der Schöpfung und des Verhältnisses zwischen Schöpfer und Geschaffenem entwickelt — wobei die spezifische Position der Kosmischen Kette „kein erster Schöpfer“ im Widerspruch zu den maßgeblichen westlichen theologischen Traditionen steht, jedoch mit den anfanglosen Zyklus-Rahmen verschiedener östlicher Traditionen übereinstimmt. Innerhalb der zeitgenössischen Panspermie-Tradition (der umfassenderen Frage, ob das Leben auf der Erde durch kosmische Übertragung statt durch autochthone Entstehung entstand) ist über die vergangenen Jahrzehnte hinweg substantielle wissenschaftliche Arbeit entwickelt worden, wobei Crick-Orgels Hypothese der gerichteten Panspermie (1973){{ cite(id="crick-orgel-directed-panspermia", text="[3]", title="Crick & Orgel, ‚Directed Panspermia‘ (Icarus, 1973)") }} einen spezifischen zeitgenössischen wissenschaftlichen Rahmen darstellt, der sich substantiell mit der spezifischen Lesart der Kosmischen Kette überschneidet. Die Lesart des Korpus ist strukturell distinktiv in ihrer spezifischen Artikulation der rekursiv-zyklischen Struktur der Kette, in ihrer Integration mit dem spezifischen operativ-historischen Inhalt des umfassenderen Wheel-of-Heaven-Rahmens und in ihrer Entwicklung der substantiellen philosophisch-theologischen Implikationen des Rahmens.
 
-## Etymology and naming
+## Etymologie und Benennung
 
-The Cosmic Chain framework as a corpus-internal analytical category does not have a single source-material designation. The corpus uses several related terms across its various entries.
+Der Rahmen der Kosmischen Kette als korpusinterne analytische Kategorie hat keine einzelne quellenmaterielle Bezeichnung. Der Korpus verwendet mehrere verwandte Begriffe über seine verschiedenen Einträge hinweg.
 
-### "Cosmic Chain" as the principal designation
+### „Kosmische Kette“ als maßgebliche Bezeichnung
 
-The English term **"Cosmic Chain"** is the corpus's principal designation for the framework. The construction combines:
+Der englische Begriff **„Cosmic Chain“** ist die maßgebliche Bezeichnung des Korpus für den Rahmen. Die Konstruktion verbindet:
 
-- **"Cosmic"** — indicating the broader scale of the framework's operation (across cosmic time, multiple civilizations, multiple worlds)
-- **"Chain"** — indicating the linked-sequential character of the cosmic process, with each civilization being one specific link connected to prior and subsequent links
+- **„Kosmisch“** — zur Angabe der umfassenderen Skala der Wirkung des Rahmens (über die kosmische Zeit, mehrere Zivilisationen, mehrere Welten hinweg)
+- **„Kette“** — zur Angabe des verketteten, sequenziellen Charakters des kosmischen Prozesses, wobei jede Zivilisation ein bestimmtes Glied ist, das mit vorherigen und nachfolgenden Gliedern verbunden ist
 
-The term is corpus-internal — it does not appear in the Raëlian source material under this specific designation. The corpus has condensed the source's various phrasings into the standard designation.
+Der Begriff ist korpusintern — er erscheint im raëlianischen Quellenmaterial nicht unter dieser spezifischen Bezeichnung. Der Korpus hat die verschiedenen Formulierungen der Quelle zur Standardbezeichnung verdichtet.
 
-### Source-material terminology
+### Quellenmaterielle Terminologie
 
-The Raëlian source material uses several distinct terms for what the corpus organizes under the "Cosmic Chain" designation:
+Das raëlianische Quellenmaterial verwendet mehrere distinkte Begriffe für das, was der Korpus unter der Bezeichnung „Kosmische Kette“ ordnet:
 
-- **"Recurring cosmic process"** — descriptive phrasing for the broader cyclical pattern
-- **"Cycle of creators"** — descriptive phrasing for the specific pattern of created civilizations becoming creator civilizations
-- **"On to Infinity"** — the source's specific phrase for the infinite-recursion character of the chain
-- **"As above, so below"** — the Hermetic phrase the source occasionally invokes (though without the specific Hermetic theological content)
-- **"On Earth as it is in heaven"** — the Lord's Prayer phrase the source reads as compressed statement of the chain
+- **„Wiederkehrender kosmischer Prozess“** — beschreibende Formulierung für das umfassendere zyklische Muster
+- **„Zyklus der Schöpfer“** — beschreibende Formulierung für das spezifische Muster, in dem geschaffene Zivilisationen zu schaffenden Zivilisationen werden
+- **„Bis ins Unendliche“** — die spezifische Wendung der Quelle für den unendlich-rekursiven Charakter der Kette
+- **„Wie oben, so unten“** — die hermetische Wendung, die die Quelle gelegentlich aufruft (wenngleich ohne den spezifischen hermetischen theologischen Inhalt)
+- **„Auf Erden wie im Himmel“** — die Vaterunser-Wendung, die die Quelle als verdichtete Aussage der Kette liest
 
-### Related conceptual terminology
+### Verwandte begriffliche Terminologie
 
-Several related conceptual terms operate within the framework:
+Mehrere verwandte begriffliche Termini operieren innerhalb des Rahmens:
 
-- **"Chain of creators"** — the corpus's term for the backward-extending sequence of prior creator civilizations
-- **"Chain of created"** — the corpus's term for the forward-extending sequence of future creator civilizations (currently civilizations like Earth's humanity, in their pre-maturity phase)
-- **"Cosmic creative cycle"** — the corpus's term for the broader recurring pattern that produces new creator civilizations
-- **"Inheritance threshold"** — the specific point at which a created civilization becomes capable of itself becoming a creator civilization (the Cosmic Competition's evaluation criterion)
-- **"Generational cosmology"** — the broader cosmological framework that the chain produces, in which civilizations are organized in genealogical relationships across cosmic time
+- **„Kette der Schöpfer“** — der Begriff des Korpus für die rückwärts gerichtete Abfolge früherer schaffender Zivilisationen
+- **„Kette der Geschaffenen“** — der Begriff des Korpus für die vorwärts gerichtete Abfolge künftiger schaffender Zivilisationen (derzeit Zivilisationen wie die Menschheit der Erde, in ihrer Phase vor der Reife)
+- **„Kosmischer schöpferischer Zyklus“** — der Begriff des Korpus für das umfassendere wiederkehrende Muster, das neue schaffende Zivilisationen hervorbringt
+- **„Erbschaftsschwelle“** — der spezifische Punkt, an dem eine geschaffene Zivilisation fähig wird, selbst zu einer schaffenden Zivilisation zu werden (das Bewertungskriterium des Kosmischen Wettbewerbs)
+- **„Generationenkosmologie“** — der umfassendere kosmologische Rahmen, den die Kette hervorbringt, in dem Zivilisationen über die kosmische Zeit hinweg in genealogischen Beziehungen organisiert sind
 
-The cross-corpus terminology is consistent in its specific framing: the framework concerns the **indefinitely extended sequence of created-and-creating civilizations** across cosmic time, with the **specific recursive-cyclical structure** being the principal content of the framework.
+Die korpusübergreifende Terminologie ist in ihrer spezifischen Rahmung konsistent: Der Rahmen betrifft die **unbestimmt ausgedehnte Abfolge geschaffener und schaffender Zivilisationen** über die kosmische Zeit hinweg, wobei die **spezifische rekursiv-zyklische Struktur** den maßgeblichen Inhalt des Rahmens bildet.
 
-## Conventional understanding
+## Konventionelles Verständnis
 
-The Cosmic Chain framework as a specific cosmological category is largely a corpus-internal construction, with the underlying questions about cosmic infinity and the origin of life on Earth being the principal points of contact with conventional scholarly and theological treatment. The principal positions warrant individual treatment.
+Der Rahmen der Kosmischen Kette als spezifische kosmologische Kategorie ist weitgehend eine korpusinterne Konstruktion, wobei die zugrunde liegenden Fragen zur kosmischen Unendlichkeit und zum Ursprung des Lebens auf der Erde die maßgeblichen Berührungspunkte mit der konventionellen wissenschaftlichen und theologischen Behandlung bilden. Die maßgeblichen Positionen verdienen eine Einzelbehandlung.
 
-### Mainstream Western theological tradition
+### Etablierte westliche theologische Tradition
 
-Mainstream Western theological tradition has generally developed cosmological frameworks that position a specific creator deity (or specific divine reality) at the origin of the cosmic process. The principal positions:
+Die etablierte westliche theologische Tradition hat im Allgemeinen kosmologische Rahmen entwickelt, die eine spezifische Schöpfergottheit (oder eine spezifische göttliche Wirklichkeit) an den Ursprung des kosmischen Prozesses setzen. Die maßgeblichen Positionen:
 
-**Christian theological tradition** generally posits a single uncreated creator (God) who originates the cosmos through specific creative acts (*creatio ex nihilo*). The classical formulations (Augustine, Aquinas, the medieval scholastic tradition) develop substantial philosophical-theological content concerning divine eternality, the relationship between creator and creation, and the metaphysical priority of the creator over the created. The Cosmic Chain's specific "no first creator" position is at substantial variance with the mainstream Christian position.
+**Die christliche theologische Tradition** postuliert im Allgemeinen einen einzigen ungeschaffenen Schöpfer (Gott), der den Kosmos durch spezifische schöpferische Akte hervorbringt (*creatio ex nihilo*). Die klassischen Formulierungen (Augustinus, Aquin, die mittelalterliche scholastische Tradition) entwickeln substantiellen philosophisch-theologischen Inhalt zur göttlichen Ewigkeit, zum Verhältnis zwischen Schöpfer und Schöpfung und zur metaphysischen Priorität des Schöpfers gegenüber dem Geschaffenen. Die spezifische Position der Kosmischen Kette „kein erster Schöpfer“ steht in substantiellem Widerspruch zur maßgeblichen christlichen Position.
 
-**Jewish theological tradition** similarly posits a specific creator deity (YHWH/Elohim) at the origin of the cosmic process, with the Genesis 1 creation narrative providing the foundational textual material. Various Jewish theological-philosophical traditions (Maimonides, Crescas, the broader rabbinic philosophical tradition) develop substantial content on creation and divine eternality. The Kabbalistic tradition introduces additional complexity through the *Ein Sof* (the infinite divine source) and the *Sefirot* (the emanated divine attributes), with substantial structural overlap with the Cosmic Chain's broader infinite-cosmology framework, though the Kabbalistic tradition's specific theological content differs from the Cosmic Chain's framework.
+**Die jüdische theologische Tradition** postuliert in ähnlicher Weise eine spezifische Schöpfergottheit (JHWH/Elohim) am Ursprung des kosmischen Prozesses, wobei die Schöpfungserzählung von Genesis 1 das grundlegende textliche Material bereitstellt. Verschiedene jüdische theologisch-philosophische Traditionen (Maimonides, Crescas, die umfassendere rabbinische philosophische Tradition) entwickeln substantiellen Inhalt zu Schöpfung und göttlicher Ewigkeit. Die kabbalistische Tradition führt zusätzliche Komplexität ein durch das *Ein Sof* (die unendliche göttliche Quelle) und die *Sefirot* (die emanierten göttlichen Attribute), mit substantieller struktureller Überschneidung mit dem umfassenderen unendlich-kosmologischen Rahmen der Kosmischen Kette, wenngleich der spezifische theologische Inhalt der kabbalistischen Tradition vom Rahmen der Kosmischen Kette abweicht.
 
-**Islamic theological tradition** posits Allah as the single uncreated creator, with the Qur'anic creation material providing the foundational textual basis. The various Islamic theological-philosophical traditions (the Mu'tazilite, Ash'arite, Maturidite schools; the Sufi traditions) develop substantial content on creation and divine eternality. The Cosmic Chain's specific position is at substantial variance with the mainstream Islamic position.
+**Die islamische theologische Tradition** postuliert Allah als den einzigen ungeschaffenen Schöpfer, wobei das koranische Schöpfungsmaterial die grundlegende textliche Basis bereitstellt. Die verschiedenen islamischen theologisch-philosophischen Traditionen (die mu'tazilitische, asch'aritische, maturiditische Schule; die sufischen Traditionen) entwickeln substantiellen Inhalt zu Schöpfung und göttlicher Ewigkeit. Die spezifische Position der Kosmischen Kette steht in substantiellem Widerspruch zur maßgeblichen islamischen Position.
 
-The framework's relationship to mainstream Western theology is one of substantial divergence on the specific "first creator" question, with the framework's "no first creator" position being at variance with the principal Western theological traditions while overlapping substantively with various Eastern cyclic-cosmology traditions (treated under *Comparative observations* below).
+Das Verhältnis des Rahmens zur etablierten westlichen Theologie ist eines der substantiellen Divergenz in der spezifischen Frage nach dem „ersten Schöpfer“, wobei die Position des Rahmens „kein erster Schöpfer“ im Widerspruch zu den maßgeblichen westlichen theologischen Traditionen steht, während sie sich substantiell mit verschiedenen östlichen Zyklus-Kosmologie-Traditionen überschneidet (behandelt unter *Vergleichende Beobachtungen* weiter unten).
 
-### Mainstream cosmology
+### Etablierte Kosmologie
 
-Mainstream cosmology has produced substantial work on the broader questions of cosmic origin, infinity, and structure. The principal positions:
+Die etablierte Kosmologie hat substantielle Arbeit zu den umfassenderen Fragen des kosmischen Ursprungs, der Unendlichkeit und der Struktur hervorgebracht. Die maßgeblichen Positionen:
 
-**The Big Bang model** is the principal contemporary cosmological framework, positing the universe's origin in an extremely hot, dense state approximately 13.8 billion years ago. The model has been substantially confirmed through multiple lines of empirical evidence (Hubble's observation of galactic redshift, the cosmic microwave background, the abundance of light elements, the large-scale structure of galaxies). The Big Bang model addresses the cosmic origin question through the specific framework of an early hot dense state from which the current cosmos developed.
+**Das Urknallmodell** ist der maßgebliche zeitgenössische kosmologische Rahmen und postuliert den Ursprung des Universums in einem extrem heißen, dichten Zustand vor etwa 13,8 Milliarden Jahren. Das Modell ist durch mehrere Linien empirischer Belege substantiell bestätigt worden (Hubbles Beobachtung der galaktischen Rotverschiebung, die kosmische Mikrowellenhintergrundstrahlung, die Häufigkeit leichter Elemente, die großräumige Struktur der Galaxien). Das Urknallmodell behandelt die Frage des kosmischen Ursprungs durch den spezifischen Rahmen eines frühen heißen dichten Zustands, aus dem sich der gegenwärtige Kosmos entwickelte.
 
-**The cosmic inflation model** (Guth, Linde, Steinhardt and others, developed since approximately 1980) extends the Big Bang framework with substantial implications for the broader cosmic structure. The inflation model produces specific predictions about cosmic flatness, isotropy, and the broader structure of the universe.
+**Das Modell der kosmischen Inflation** (Guth, Linde, Steinhardt und andere, entwickelt seit etwa 1980) erweitert den Urknall-Rahmen mit substantiellen Implikationen für die umfassendere kosmische Struktur. Das Inflationsmodell bringt spezifische Vorhersagen über die kosmische Flachheit, die Isotropie und die umfassendere Struktur des Universums hervor.
 
-**Eternal inflation and multiverse cosmology** (Linde, Vilenkin, others) extends the inflation framework into substantial multiverse content, with various models proposing that our observable universe is one specific region within a larger multiverse structure. The Cosmic Chain's specific recursive-cyclical structure has substantive overlap with various multiverse cosmologies, though the specific content differs.
+**Ewige Inflation und Multiversum-Kosmologie** (Linde, Vilenkin und andere) erweitern den Inflations-Rahmen um substantiellen Multiversum-Inhalt, wobei verschiedene Modelle vorschlagen, dass unser beobachtbares Universum eine bestimmte Region innerhalb einer größeren Multiversum-Struktur ist. Die spezifische rekursiv-zyklische Struktur der Kosmischen Kette überschneidet sich substantiell mit verschiedenen Multiversum-Kosmologien, wenngleich der spezifische Inhalt abweicht.
 
-**Cyclic cosmologies** (Steinhardt-Turok ekpyrotic model, Penrose's conformal cyclic cosmology, various other proposals) have developed substantial work on cosmic recurrence, with various models proposing that the cosmic history involves multiple successive Big Bang events rather than a single unique origin event. These cyclic cosmologies overlap substantively with the Cosmic Chain's recursive structure at the cosmological level, though the specific content differs.
+**Zyklische Kosmologien** (das ekpyrotische Modell von Steinhardt-Turok,{{ cite(id="steinhardt-turok-endless-universe", text="[14]", title="Steinhardt & Turok, *Endless Universe* (2007) — das ekpyrotische zyklische Modell") }} Penroses konforme zyklische Kosmologie,{{ cite(id="penrose-cycles-of-time", text="[15]", title="Penrose, *Cycles of Time* (2011) — die konforme zyklische Kosmologie") }} verschiedene andere Vorschläge) haben substantielle Arbeit zur kosmischen Wiederkehr entwickelt, wobei verschiedene Modelle vorschlagen, dass die kosmische Geschichte mehrere aufeinanderfolgende Urknall-Ereignisse umfasst statt eines einzigen einzigartigen Ursprungsereignisses. Die umfassenderen Fragen zur Raumzeitstruktur werden im Austausch zwischen Hawking und Penrose behandelt.{{ cite(id="hawking-penrose-nature-space-time", text="[16]", title="Hawking & Penrose, *The Nature of Space and Time* (1996)") }} Diese zyklischen Kosmologien überschneiden sich auf kosmologischer Ebene substantiell mit der rekursiven Struktur der Kosmischen Kette, wenngleich der spezifische Inhalt abweicht.
 
-The framework's relationship to mainstream cosmology is one of broader-framework consistency at the empirical level (the Cosmic Chain does not contradict mainstream observational cosmology) while extending substantially beyond what mainstream cosmology directly engages (the specific civilizational-recursive content of the chain).
+Das Verhältnis des Rahmens zur etablierten Kosmologie ist eines der Übereinstimmung des umfassenderen Rahmens auf empirischer Ebene (die Kosmische Kette widerspricht der etablierten beobachtenden Kosmologie nicht), während es substantiell über das hinausgeht, womit sich die etablierte Kosmologie direkt befasst (den spezifischen zivilisatorisch-rekursiven Inhalt der Kette).
 
-### The infinite-universe philosophical tradition
+### Die philosophische Tradition des unendlichen Universums
 
-The broader philosophical tradition has produced substantial work on the question of cosmic infinity. The principal positions:
+Die umfassendere philosophische Tradition hat substantielle Arbeit zur Frage der kosmischen Unendlichkeit hervorgebracht. Die maßgeblichen Positionen:
 
-**Giordano Bruno** in *De l'infinito universo et mondi* (1584) and other works developed the multiple-worlds and infinite-universe doctrine extensively, arguing for an infinite universe containing infinite inhabited worlds. Bruno's execution by the Roman Inquisition in 1600 was prompted in part by his cosmological-theological doctrines.
+**Giordano Bruno** entwickelte in *De l'infinito universo et mondi* (1584) und anderen Werken die Lehre von den vielen Welten und vom unendlichen Universum ausführlich und argumentierte für ein unendliches Universum, das unendlich viele bewohnte Welten enthält. Brunos Hinrichtung durch die römische Inquisition im Jahr 1600 war teilweise durch seine kosmologisch-theologischen Lehren veranlasst.
 
-**Immanuel Kant** in the *Critique of Pure Reason* (1781) treated the question of cosmic infinity within the broader framework of the antinomies of pure reason, with substantial implications for how the question can be approached philosophically.
+**Immanuel Kant** behandelte in der *Kritik der reinen Vernunft* (1781) die Frage der kosmischen Unendlichkeit innerhalb des umfassenderen Rahmens der Antinomien der reinen Vernunft, mit substantiellen Implikationen dafür, wie die Frage philosophisch angegangen werden kann.
 
-**Modern cosmological philosophy** has produced substantial work on the various aspects of cosmic infinity, the question of cosmic origins, and the relationship between cosmology and philosophical-theological questions. The principal contemporary scholarship includes work by various philosophers of science and cosmologists engaging with the specific questions the Cosmic Chain framework addresses.
+**Die moderne kosmologische Philosophie** hat substantielle Arbeit zu den verschiedenen Aspekten der kosmischen Unendlichkeit, zur Frage der kosmischen Ursprünge und zum Verhältnis zwischen Kosmologie und philosophisch-theologischen Fragen hervorgebracht. Die maßgebliche zeitgenössische Forschung umfasst Arbeiten verschiedener Wissenschaftsphilosophen und Kosmologen, die sich mit den spezifischen Fragen befassen, die der Rahmen der Kosmischen Kette behandelt.
 
-The framework's position on cosmic infinity is structurally aligned with the broader philosophical tradition's recognition that infinity is a substantive cosmological feature, while extending beyond the philosophical tradition through the specific civilizational-recursive content of the chain.
+Die Position des Rahmens zur kosmischen Unendlichkeit ist strukturell mit der Anerkennung der umfassenderen philosophischen Tradition ausgerichtet, dass Unendlichkeit ein substantielles kosmologisches Merkmal ist, während sie durch den spezifischen zivilisatorisch-rekursiven Inhalt der Kette über die philosophische Tradition hinausgeht.
 
-### Contemporary panspermia research
+### Zeitgenössische Panspermie-Forschung
 
-**Panspermia** — the hypothesis that life on Earth originated from cosmic sources rather than from autochthonous emergence on Earth — has been substantially developed across the past several decades. The principal developments:
+**Panspermie** — die Hypothese, dass das Leben auf der Erde aus kosmischen Quellen statt aus autochthoner Entstehung auf der Erde hervorging — ist über die vergangenen Jahrzehnte hinweg substantiell entwickelt worden. Die maßgeblichen Entwicklungen:
 
-**Classical panspermia** (Arrhenius, early 20th century) proposed that microbial life could be transmitted across cosmic distances on dust particles or meteoric material, with Earth's life originating from such cosmic transmission.
+**Die klassische Panspermie** (Arrhenius, frühes 20. Jahrhundert){{ cite(id="arrhenius-worlds-in-the-making", text="[4]", title="Arrhenius, *Worlds in the Making* (1908) — die klassische Panspermie") }} schlug vor, dass mikrobielles Leben über kosmische Entfernungen hinweg auf Staubteilchen oder meteoritischem Material übertragen werden könnte, wobei das Leben der Erde aus einer solchen kosmischen Übertragung hervorging. Die kometarische Panspermie-Entwicklung von Hoyle und Wickramasinghe setzt diese Tradition fort.{{ cite(id="hoyle-wickramasinghe-lifecloud", text="[5]", title="Hoyle & Wickramasinghe, *Lifecloud* (1978)") }}
 
-**Directed panspermia** (Crick and Orgel, "Directed Panspermia," *Icarus* 19 (1973): 341-346) proposed that Earth's life was deliberately seeded by an extraterrestrial intelligent civilization rather than arriving through natural cosmic processes. The Crick-Orgel hypothesis was developed by Francis Crick (the Nobel-laureate co-discoverer of DNA structure) and Leslie Orgel (the principal scientist of early-Earth chemical biology) as a serious scientific proposal addressing the various problems with autochthonous origin-of-life models. The hypothesis specifically addresses the universality of the genetic code, the apparent dependence of all Earth life on molybdenum (which has limited terrestrial abundance), and the broader question of why specific biochemical features of Earth life appear unusually well-suited to deliberate engineering.
+**Die gerichtete Panspermie** (Crick und Orgel, „Directed Panspermia“, *Icarus* 19 (1973): 341-346) schlug vor, dass das Leben der Erde absichtlich von einer außerirdischen intelligenten Zivilisation ausgesät wurde, statt durch natürliche kosmische Prozesse anzukommen. Die Crick-Orgel-Hypothese wurde von Francis Crick (dem nobelpreisgekrönten Mitentdecker der DNA-Struktur) und Leslie Orgel (dem maßgeblichen Wissenschaftler der chemischen Biologie der frühen Erde) als ein ernsthafter wissenschaftlicher Vorschlag entwickelt, der die verschiedenen Probleme der Modelle des autochthonen Ursprungs des Lebens behandelt. Die Hypothese behandelt insbesondere die Universalität des genetischen Codes, die scheinbare Abhängigkeit allen irdischen Lebens von Molybdän (das eine begrenzte terrestrische Häufigkeit hat) und die umfassendere Frage, warum spezifische biochemische Merkmale des irdischen Lebens ungewöhnlich gut für absichtliches Engineering geeignet erscheinen.
 
-**Contemporary panspermia research** continues to develop the broader question of cosmic life-transmission, with substantial recent work on the survivability of microbial life in space environments, the potential vectors for cosmic transmission, and the broader question of whether Earth's life is unique or part of a broader cosmic biological pattern.
+**Die zeitgenössische Panspermie-Forschung** entwickelt weiterhin die umfassendere Frage der kosmischen Lebensübertragung, mit substantieller jüngerer Arbeit zur Überlebensfähigkeit mikrobiellen Lebens in Weltraumumgebungen, zu den möglichen Vektoren der kosmischen Übertragung und zur umfassenderen Frage, ob das Leben der Erde einzigartig oder Teil eines umfassenderen kosmischen biologischen Musters ist.
 
-The Cosmic Chain framework's relationship to the panspermia tradition — particularly to the Crick-Orgel directed-panspermia hypothesis — is one of substantial structural alignment. Both frameworks read Earth's life as having been deliberately produced by extraterrestrial intelligent civilization rather than emerging autochthonously. The Cosmic Chain framework extends the directed-panspermia framework substantially through the recursive-cyclical content (the Elohim themselves having been created by a prior civilization, with the chain extending indefinitely backward).
+Das Verhältnis des Rahmens der Kosmischen Kette zur Panspermie-Tradition — insbesondere zur Crick-Orgel-Hypothese der gerichteten Panspermie — ist eines der substantiellen strukturellen Ausrichtung. Beide Rahmen lesen das Leben der Erde als absichtlich von einer außerirdischen intelligenten Zivilisation hervorgebracht statt autochthon entstanden. Der Rahmen der Kosmischen Kette erweitert den Rahmen der gerichteten Panspermie substantiell durch den rekursiv-zyklischen Inhalt (wobei die Elohim selbst von einer früheren Zivilisation erschaffen wurden und die Kette sich unbestimmt rückwärts erstreckt).
 
-### Mainstream Western philosophical engagement with cyclic cosmology
+### Etablierte westliche philosophische Auseinandersetzung mit zyklischer Kosmologie
 
-The broader Western philosophical tradition has produced limited engagement with cyclic cosmology compared to the Eastern traditions. The principal positions:
+Die umfassendere westliche philosophische Tradition hat im Vergleich zu den östlichen Traditionen begrenzte Auseinandersetzung mit zyklischer Kosmologie hervorgebracht. Die maßgeblichen Positionen:
 
-**The Stoic eternal recurrence doctrine** (developed by Chrysippus and other Stoic philosophers) proposed that the cosmos undergoes successive cycles of conflagration and renewal, with each cycle reproducing the prior cycle in identical form. The Stoic tradition is the principal Western antecedent for cyclic cosmology.
+**Die stoische Lehre von der ewigen Wiederkehr** (entwickelt von Chrysippos und anderen stoischen Philosophen) schlug vor, dass der Kosmos aufeinanderfolgende Zyklen von Weltenbrand und Erneuerung durchläuft, wobei jeder Zyklus den vorherigen Zyklus in identischer Form reproduziert. Die stoische Tradition ist der maßgebliche westliche Vorläufer der zyklischen Kosmologie.{{ cite(id="long-sedley-hellenistic-philosophers", text="[7]", title="Long & Sedley, *The Hellenistic Philosophers* (1987) — die stoische Lehre von der ewigen Wiederkehr") }}
 
-**Friedrich Nietzsche** in *Thus Spoke Zarathustra* (1883-1885) and *The Will to Power* (posthumous) developed a specific eternal-recurrence doctrine, treating the eternal return of all events as both cosmological hypothesis and existential test. The Nietzschean doctrine is a substantial modern Western engagement with cyclic cosmology, though it differs substantially from the Cosmic Chain framework's specific civilizational-recursive content.
+**Friedrich Nietzsche** entwickelte in *Also sprach Zarathustra* (1883-1885) und *Der Wille zur Macht* (posthum) eine spezifische Lehre von der ewigen Wiederkehr und behandelte die ewige Wiederkehr aller Ereignisse sowohl als kosmologische Hypothese als auch als existenzielle Prüfung.{{ cite(id="nietzsche-zarathustra", text="[8]", title="Nietzsche, *Also sprach Zarathustra* (1883–1885) — die Lehre von der ewigen Wiederkehr") }} Die nietzscheanische Lehre ist eine substantielle moderne westliche Auseinandersetzung mit zyklischer Kosmologie, wenngleich sie sich substantiell vom spezifischen zivilisatorisch-rekursiven Inhalt des Rahmens der Kosmischen Kette unterscheidet.
 
-**Contemporary cyclic cosmologies** (Steinhardt-Turok, Penrose) provide the principal contemporary Western scientific engagement with cyclic cosmology, with various specific models being substantially developed.
+**Zeitgenössische zyklische Kosmologien** (Steinhardt-Turok, Penrose) bilden die maßgebliche zeitgenössische westliche wissenschaftliche Auseinandersetzung mit zyklischer Kosmologie, wobei verschiedene spezifische Modelle substantiell entwickelt werden.
 
-The framework's relationship to Western cyclic cosmology is one of structural alignment with the broader cyclic-cosmology principle while developing the specific civilizational-recursive content as the corpus's distinctive contribution.
+Das Verhältnis des Rahmens zur westlichen zyklischen Kosmologie ist eines der strukturellen Ausrichtung mit dem umfassenderen Prinzip der zyklischen Kosmologie, während der spezifische zivilisatorisch-rekursive Inhalt als distinktiver Beitrag des Korpus entwickelt wird.
 
-## In primary sources
+## In den Primärquellen
 
-The framework's principal primary-source material consists of specific Raëlian source passages on the chain of creators, the rejection of the "first creator" question, and the cyclical-recursive cosmological structure. The principal sources warrant individual treatment.
+Das maßgebliche primärquellenmaterielle Material des Rahmens besteht aus spezifischen raëlianischen Quellenpassagen über die Kette der Schöpfer, die Verwerfung der Frage nach dem „ersten Schöpfer“ und die zyklisch-rekursive kosmologische Struktur. Die maßgeblichen Quellen verdienen eine Einzelbehandlung.
 
-### The fundamental source-material statement
+### Die grundlegende quellenmaterielle Aussage
 
-The Raëlian source's principal statement on the Cosmic Chain appears in *Extra-Terrestrials Took Me to Their Planet* (1975), in the section "Neither God nor Soul":
+Die maßgebliche Aussage der raëlianischen Quelle zur Kosmischen Kette erscheint in *Extra-Terrestrials Took Me to Their Planet* (1975), im Abschnitt „Weder Gott noch Seele“:
 
-> *"The Elohim were created by people from another planet, who had been created by other people coming from another planet, and so on to Infinity."*
+> *„Die Elohim wurden von Menschen eines anderen Planeten erschaffen, die ihrerseits von anderen Menschen erschaffen worden waren, die von einem anderen Planeten kamen, und so weiter bis ins Unendliche.“*
 
-This single statement is the framework's principal source-material warrant. The corpus's broader articulation is the systematic development of this single sentence into the full Cosmic Chain framework.
+Diese einzelne Aussage ist die maßgebliche quellenmaterielle Grundlage des Rahmens.{{ cite(id="the-book-which-tells-the-truth", text="[9]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — die Widder-Entdeckung und die kosmologische Rahmung") }} Die umfassendere Artikulation des Korpus ist die systematische Entwicklung dieses einzelnen Satzes zum vollständigen Rahmen der Kosmischen Kette.
 
-The statement's principal features:
+Die maßgeblichen Merkmale der Aussage:
 
-- The Elohim are explicitly identified as having been created (rather than being autonomous originators of the creation pattern)
-- The prior creators were themselves created (rather than being uncreated first creators)
-- The chain extends "to Infinity" (rather than terminating at some specific prior point)
-- The chain is structurally identical at each step (each civilization is created by a prior civilization, then itself becomes a creator civilization)
+- Die Elohim werden ausdrücklich als erschaffen identifiziert (statt eigenständige Urheber des Schöpfungsmusters zu sein)
+- Die früheren Schöpfer waren selbst erschaffen (statt ungeschaffene erste Schöpfer zu sein)
+- Die Kette erstreckt sich „bis ins Unendliche“ (statt an einem bestimmten früheren Punkt zu enden)
+- Die Kette ist auf jeder Stufe strukturell identisch (jede Zivilisation wird von einer früheren Zivilisation erschaffen und wird dann selbst zu einer schaffenden Zivilisation)
 
-### The "no first creator" position
+### Die Position „kein erster Schöpfer“
 
-The Raëlian source explicitly addresses and rejects the conventional theological question — "who created the first creator?" — treating the question as grammatically well-formed but with a presupposition that does not match the structure of the underlying reality.
+Die raëlianische Quelle behandelt und verwirft ausdrücklich die konventionelle theologische Frage — „wer erschuf den ersten Schöpfer?“ — und betrachtet die Frage als grammatisch wohlgeformt, doch mit einer Voraussetzung, die nicht der Struktur der zugrunde liegenden Wirklichkeit entspricht.
 
-The framework reads this position as substantively significant. The conventional Western theological tradition presupposes that there must be a first creator (an uncreated creator, ground of all creation, the *causa prima* of the medieval scholastic tradition); the Cosmic Chain framework rejects this presupposition. The chain extends backward indefinitely, just as the chain of created beings extends indefinitely forward. The cosmos has no ultimate origin and no ultimate end. The question "who created the first creator?" is, on this view, grammatically well-formed but its presupposition does not match the structure of the reality being asked about — analogous to asking "what is north of the North Pole?"
+Der Rahmen liest diese Position als substantiell bedeutsam. Die konventionelle westliche theologische Tradition setzt voraus, dass es einen ersten Schöpfer geben muss (einen ungeschaffenen Schöpfer, Grund aller Schöpfung, die *causa prima* der mittelalterlichen scholastischen Tradition); der Rahmen der Kosmischen Kette verwirft diese Voraussetzung. Die Kette erstreckt sich unbestimmt rückwärts, ebenso wie die Kette der geschaffenen Wesen sich unbestimmt vorwärts erstreckt. Der Kosmos hat keinen letztlichen Ursprung und kein letztliches Ende. Die Frage „wer erschuf den ersten Schöpfer?“ ist aus dieser Sicht grammatisch wohlgeformt, doch ihre Voraussetzung entspricht nicht der Struktur der Wirklichkeit, nach der gefragt wird — analog zur Frage „was liegt nördlich des Nordpols?“
 
-The position is substantially distinctive within the Western philosophical-theological tradition (which has typically posited a first creator in some form) while overlapping substantively with various Eastern traditions' beginningless-cycle frameworks.
+Die Position ist innerhalb der westlichen philosophisch-theologischen Tradition (die typischerweise in irgendeiner Form einen ersten Schöpfer postuliert hat) substantiell distinktiv, während sie sich substantiell mit den anfanglosen Zyklus-Rahmen verschiedener östlicher Traditionen überschneidet.{{ footnote(id="2") }}
 
-### The Lord's Prayer reading
+### Die Lesart des Vaterunsers
 
-The Lord's Prayer's central petition — *"Thy kingdom come; thy will be done in earth, as it is in heaven"* (Matthew 6:10, with parallel in Luke 11:2) — is read by the framework as the compressed statement of the Cosmic Chain's cyclical-recursive structure. The source's specific reading: *"In 'heaven', on the creators' planet, the scientists eventually became the ruling group and then created other intelligent beings. The same thing will happen on Earth. The torch will be taken up again. This prayer, which has been repeated time and time again without anyone understanding its profound meaning, now takes on its full significance: On Earth, as it is in heaven."*
+Die zentrale Bitte des Vaterunsers — *„Dein Reich komme; dein Wille geschehe wie im Himmel so auf Erden“* (Matthäus 6,10, mit Parallele in Lukas 11,2) — wird vom Rahmen als verdichtete Aussage der zyklisch-rekursiven Struktur der Kosmischen Kette gelesen. Die spezifische Lesart der Quelle: *„Im ‚Himmel‘, auf dem Planeten der Schöpfer, wurden die Wissenschaftler schließlich zur herrschenden Gruppe und erschufen dann andere intelligente Wesen. Dasselbe wird auf der Erde geschehen. Die Fackel wird erneut aufgenommen werden. Dieses Gebet, das immer und immer wieder wiederholt wurde, ohne dass jemand seine tiefe Bedeutung verstanden hätte, erlangt nun seine volle Bedeutung: Auf Erden wie im Himmel.“*
 
-The framework reads the prayer as containing the specific developmental program that Earth's humanity is being evaluated against. The "heaven" is the Elohim home world (a civilization that has already passed through the developmental stages Earth is now traversing); the "earth" is Earth (a civilization that is currently in the developmental stage the home world has previously traversed). The petition is for Earth to reach the level of the home world — the level at which Earth's humanity becomes capable of itself creating new intelligent life and continuing the cosmic chain.
+Der Rahmen liest das Gebet als Enthaltung des spezifischen Entwicklungsprogramms, an dem die Menschheit der Erde gemessen wird. Der „Himmel“ ist die Heimatwelt der Elohim (eine Zivilisation, die die Entwicklungsstufen, die die Erde nun durchquert, bereits durchlaufen hat); die „Erde“ ist die Erde (eine Zivilisation, die sich gegenwärtig in der Entwicklungsstufe befindet, die die Heimatwelt zuvor durchquert hat). Die Bitte gilt dem Erreichen der Erde auf die Stufe der Heimatwelt — die Stufe, auf der die Menschheit der Erde fähig wird, selbst neues intelligentes Leben zu erschaffen und die kosmische Kette fortzusetzen.
 
-The Lord's Prayer reading is shared with the Cosmic Competition entry but operates within the broader Cosmic Chain framework specifically. The Cosmic Competition concerns the specific evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification; the Cosmic Chain is the broader cyclical-recursive structure within which the evaluation phase operates as one specific phase.
+Die Lesart des Vaterunsers wird mit dem Eintrag zum Kosmischen Wettbewerb geteilt, operiert jedoch spezifisch innerhalb des umfassenderen Rahmens der Kosmischen Kette. Der Kosmische Wettbewerb betrifft die spezifische Bewertungsphase, in der eine schaffende Zivilisation ihre geschaffenen Menschheiten auf die Erbschaftsqualifikation hin beurteilt; die Kosmische Kette ist die umfassendere zyklisch-rekursive Struktur, innerhalb derer die Bewertungsphase als eine bestimmte Phase operiert.
 
-### The "as above, so below" Hermetic reading
+### Die hermetische Lesart „Wie oben, so unten“
 
-The Raëlian source occasionally invokes the Hermetic phrase **"as above, so below"** (the *Tabula Smaragdina* or Emerald Tablet's specific phrasing) in connection with the broader cosmological framework. The phrase has been part of the Western Hermetic tradition since approximately the late antiquity, with substantial subsequent development in the Renaissance Hermetic tradition (Ficino, Pico della Mirandola, Bruno, others).
+Die raëlianische Quelle ruft gelegentlich die hermetische Wendung **„Wie oben, so unten“** (die spezifische Formulierung der *Tabula Smaragdina* oder Smaragdtafel) im Zusammenhang mit dem umfassenderen kosmologischen Rahmen auf. Die Wendung ist seit etwa der Spätantike Teil der westlichen hermetischen Tradition gewesen, mit substantieller späterer Entwicklung in der hermetischen Tradition der Renaissance (Ficino, Pico della Mirandola, Bruno und andere).{{ cite(id="yates-giordano-bruno-hermetic", text="[17]", title="Yates, *Giordano Bruno and the Hermetic Tradition* (1964)") }}
 
-The framework's reading of the phrase preserves the specific insight that the cosmic structure is recursive — what occurs at one level of the creative hierarchy is repeated at the level it produces. The framework does not adopt the broader Hermetic theological-cosmological apparatus (the specific Hermetic doctrines of cosmic correspondence, the Hermetic anthropology, the broader Hermetic theology); the corpus's engagement is specifically with the recursive-structural insight the phrase preserves.
+Die Lesart der Wendung durch den Rahmen bewahrt die spezifische Einsicht, dass die kosmische Struktur rekursiv ist — was auf einer Ebene der schöpferischen Hierarchie geschieht, wiederholt sich auf der Ebene, die sie hervorbringt. Der Rahmen übernimmt nicht den umfassenderen hermetischen theologisch-kosmologischen Apparat (die spezifischen hermetischen Lehren der kosmischen Korrespondenz, die hermetische Anthropologie, die umfassendere hermetische Theologie); die Auseinandersetzung des Korpus gilt spezifisch der rekursiv-strukturellen Einsicht, die die Wendung bewahrt.
 
-### The Aries-discovery passage
+### Die Passage zur Widder-Entdeckung
 
-The Raëlian source describes the policy shift produced by the Aries-age discovery in a passage that is decisive for understanding everything that follows:
+Die raëlianische Quelle beschreibt den durch die Entdeckung im Widder-Zeitalter hervorgebrachten Politikwechsel in einer Passage, die für das Verständnis alles Folgenden entscheidend ist:
 
-> *"Because of recent discoveries, the creators decided to appear as little as possible in order not to influence the destiny of Man too much, so that they could see if they would reach the age of scientific knowledge on their own. So, the creators began to use increasingly discreet means of communicating with humans, as in the method of feeding Elijah using 'homing' ravens. This was the beginning of a gigantic experiment throughout the galaxy in which several humanities are in competition. The creators decided to appear less often, while at the same time reinforcing the authority and reputation of their ambassadors - the prophets - by using miracles."*
+> *„Aufgrund jüngster Entdeckungen beschlossen die Schöpfer, so wenig wie möglich in Erscheinung zu treten, um das Schicksal des Menschen nicht allzu sehr zu beeinflussen, damit sie sehen könnten, ob er das Zeitalter wissenschaftlicher Erkenntnis aus eigener Kraft erreichen würde. So begannen die Schöpfer, zunehmend diskrete Mittel der Kommunikation mit den Menschen zu nutzen, wie bei der Methode, Elija mittels ‚zurückkehrender‘ Raben zu speisen. Dies war der Beginn eines gigantischen Experiments in der gesamten Galaxie, in dem mehrere Menschheiten im Wettbewerb stehen. Die Schöpfer beschlossen, seltener in Erscheinung zu treten, während sie zugleich die Autorität und das Ansehen ihrer Botschafter — der Propheten — durch Wunder verstärkten.“*
 
-The passage establishes several things at once for the Cosmic Chain framework specifically:
+Die Passage stellt für den Rahmen der Kosmischen Kette mehrere Dinge zugleich fest:
 
-- The discovery is real and specific (rather than metaphorical)
-- The discovery produced a deliberate policy shift in operational practice
-- The shift inaugurated the broader cosmic-competition framework
-- The framework operates "throughout the galaxy" rather than being Earth-specific
-- The shift applies not only to Earth but to all parallel humanities the alliance had created
+- Die Entdeckung ist real und spezifisch (statt metaphorisch)
+- Die Entdeckung brachte einen bewussten Politikwechsel in der operativen Praxis hervor
+- Der Wechsel leitete den umfassenderen Rahmen des kosmischen Wettbewerbs ein
+- Der Rahmen operiert „in der gesamten Galaxie“ statt erdspezifisch zu sein
+- Der Wechsel gilt nicht nur der Erde, sondern allen parallelen Menschheiten, die die Allianz erschaffen hatte
 
-The Aries-discovery is the operational origin of the Cosmic Chain framework in the corpus's broader narrative. Before the discovery, the Elohim operated under the assumption that they were the originators of the creation pattern; after the discovery, they recognized themselves as participants in a much broader pattern.
+Die Widder-Entdeckung ist der operative Ursprung des Rahmens der Kosmischen Kette in der umfassenderen Erzählung des Korpus. Vor der Entdeckung operierten die Elohim unter der Annahme, dass sie die Urheber des Schöpfungsmusters seien; nach der Entdeckung erkannten sie sich als Teilnehmer an einem weitaus umfassenderen Muster.
 
-### The infinity-of-cosmos passages
+### Die Passagen zur Unendlichkeit des Kosmos
 
-The Raëlian source provides substantial material on the broader infinite-cosmology framework within which the Cosmic Chain operates. The principal content:
+Die raëlianische Quelle liefert substantielles Material zum umfassenderen unendlich-kosmologischen Rahmen, innerhalb dessen die Kosmische Kette operiert. Der maßgebliche Inhalt:
 
-- **Infinite cosmos in space**: The cosmos has no center and no boundary in any direction
-- **Infinite cosmos in time**: The cosmos has no beginning and no end in temporal direction
-- **Infinite hierarchy of scales**: Intelligent civilizations exist at every scale from infinitely small to infinitely large
-- **Infinity as the principal cosmological feature**: The infinite character of the cosmos is the foundational reality, with the various local features (the Cosmic Chain among them) operating within the broader infinite structure
+- **Unendlicher Kosmos im Raum**: Der Kosmos hat kein Zentrum und keine Grenze in irgendeiner Richtung
+- **Unendlicher Kosmos in der Zeit**: Der Kosmos hat keinen Anfang und kein Ende in zeitlicher Richtung
+- **Unendliche Hierarchie der Skalen**: Intelligente Zivilisationen existieren auf jeder Skala vom unendlich Kleinen bis zum unendlich Großen
+- **Unendlichkeit als das maßgebliche kosmologische Merkmal**: Der unendliche Charakter des Kosmos ist die grundlegende Wirklichkeit, wobei die verschiedenen lokalen Merkmale (die Kosmische Kette unter ihnen) innerhalb der umfassenderen unendlichen Struktur operieren
 
-The infinity-of-cosmos material is treated more fully under the broader Wheel of Heaven framework's cosmological treatment; the Cosmic Chain entry's specific contribution is registering that the chain operates within this broader infinite cosmological structure rather than being a complete account of the cosmos itself.
+Das Material zur Unendlichkeit des Kosmos wird ausführlicher in der kosmologischen Behandlung des umfassenderen Wheel-of-Heaven-Rahmens behandelt; der spezifische Beitrag des Eintrags zur Kosmischen Kette besteht darin, zu verzeichnen, dass die Kette innerhalb dieser umfassenderen unendlichen kosmologischen Struktur operiert, statt ein vollständiger Bericht über den Kosmos selbst zu sein.
 
-### The cyclical-cosmic-future passages
+### Die Passagen zur zyklisch-kosmischen Zukunft
 
-The Raëlian source provides substantial material on humanity's projected future role in the chain. The principal content:
+Die raëlianische Quelle liefert substantielles Material zur projizierten künftigen Rolle der Menschheit in der Kette. Der maßgebliche Inhalt:
 
-- **Earth's projected transition** from created to creator civilization, following the Aquarian-age inheritance event
-- **Future creation by humanity** of new humanities on suitable worlds
-- **The pattern's continuation** through the future created civilizations becoming themselves creator civilizations
-- **The infinite forward extension** of the chain through these future cycles
+- **Der projizierte Übergang der Erde** von der geschaffenen zur schaffenden Zivilisation, im Anschluss an das Erbschaftsereignis des Wassermann-Zeitalters
+- **Die künftige Schöpfung durch die Menschheit** neuer Menschheiten auf geeigneten Welten
+- **Die Fortsetzung des Musters** dadurch, dass die künftigen geschaffenen Zivilisationen selbst zu schaffenden Zivilisationen werden
+- **Die unendliche vorwärtsgerichtete Ausdehnung** der Kette durch diese künftigen Zyklen
 
-The cyclical-cosmic-future material is the framework's principal source-material warrant for the chain's forward extension. The corpus's broader articulation extends this material substantially through the systematic integration with the Cosmic Competition, the Aquarian-age developments, and the projected post-inheritance trajectory.
+Das Material zur zyklisch-kosmischen Zukunft ist die maßgebliche quellenmaterielle Grundlage des Rahmens für die vorwärtsgerichtete Ausdehnung der Kette. Die umfassendere Artikulation des Korpus erweitert dieses Material substantiell durch die systematische Integration mit dem Kosmischen Wettbewerb, den Entwicklungen des Wassermann-Zeitalters und der projizierten Bahn nach der Erbschaft.
 
-## The concept's content
+## Der Inhalt des Konzepts
 
-The framework's specific articulation of the Cosmic Chain integrates multiple distinct strands of source material into a coherent cosmological account.
+Die spezifische Artikulation der Kosmischen Kette durch den Rahmen integriert mehrere distinkte Stränge des Quellenmaterials zu einem kohärenten kosmologischen Bericht.
 
-### The basic cyclical-recursive structure
+### Die grundlegende zyklisch-rekursive Struktur
 
-The Cosmic Chain operates through a basic cyclical-recursive structure with several specific features:
+Die Kosmische Kette operiert durch eine grundlegende zyklisch-rekursive Struktur mit mehreren spezifischen Merkmalen:
 
-**The fundamental cycle**. Each civilization in the chain follows a structurally identical developmental trajectory:
+**Der fundamentale Zyklus**. Jede Zivilisation in der Kette folgt einer strukturell identischen Entwicklungsbahn:
 
-1. **Creation**: The civilization is created by a prior creator civilization through specific operational interventions (analogous to the Elohim's specific operations in the Earth project)
-2. **Development**: The civilization develops across cosmic time, with the developmental trajectory including various ages or periods analogous to Earth's precessional ages
-3. **Discovery**: At some point, the civilization discovers that it has itself been created (analogous to the Elohim's Aries-age discovery)
-4. **Maturation**: The civilization continues to develop through subsequent ages, eventually reaching the threshold of scientific maturity required for itself becoming a creator civilization
-5. **Inheritance**: At the inheritance threshold, the civilization receives the accumulated knowledge from its creators (analogous to Earth's projected Aquarian-age inheritance event)
-6. **Creator-civilization phase**: The civilization itself becomes a creator civilization, conducting its own creation projects on suitable worlds
-7. **Continuation**: The new humanities created by this civilization develop through the same trajectory, with the cycle continuing indefinitely
+1. **Schöpfung**: Die Zivilisation wird von einer früheren schaffenden Zivilisation durch spezifische operative Eingriffe erschaffen (analog zu den spezifischen Operationen der Elohim im Erdprojekt)
+2. **Entwicklung**: Die Zivilisation entwickelt sich über die kosmische Zeit hinweg, wobei die Entwicklungsbahn verschiedene Zeitalter oder Perioden umfasst, die den Präzessionszeitaltern der Erde analog sind
+3. **Entdeckung**: An einem bestimmten Punkt entdeckt die Zivilisation, dass sie selbst erschaffen worden ist (analog zur Entdeckung der Elohim im Widder-Zeitalter)
+4. **Reifung**: Die Zivilisation entwickelt sich durch nachfolgende Zeitalter weiter und erreicht schließlich die Schwelle der wissenschaftlichen Reife, die erforderlich ist, um selbst zu einer schaffenden Zivilisation zu werden
+5. **Erbschaft**: An der Erbschaftsschwelle empfängt die Zivilisation das angesammelte Wissen von ihren Schöpfern (analog zum projizierten Erbschaftsereignis der Erde im Wassermann-Zeitalter)
+6. **Phase als schaffende Zivilisation**: Die Zivilisation wird selbst zu einer schaffenden Zivilisation und führt ihre eigenen Schöpfungsprojekte auf geeigneten Welten durch
+7. **Fortsetzung**: Die von dieser Zivilisation erschaffenen neuen Menschheiten entwickeln sich durch dieselbe Bahn, wobei der Zyklus sich unbestimmt fortsetzt
 
-**The structural identity across cycles**. The framework reads the cycle as having structural identity across all instances — each cycle has the same broad shape (creation, development, discovery, maturation, inheritance, creator-civilization phase, continuation) even though the specific contents of each cycle differ substantially. The structural identity is the principal content of the framework: the cycle is what is repeated, not the specific contents.
+**Die strukturelle Identität über die Zyklen hinweg**. Der Rahmen liest den Zyklus als über alle Instanzen hinweg strukturell identisch — jeder Zyklus hat dieselbe grobe Gestalt (Schöpfung, Entwicklung, Entdeckung, Reifung, Erbschaft, Phase als schaffende Zivilisation, Fortsetzung), auch wenn die spezifischen Inhalte jedes Zyklus substantiell voneinander abweichen. Die strukturelle Identität ist der maßgebliche Inhalt des Rahmens: Der Zyklus ist es, der wiederholt wird, nicht die spezifischen Inhalte.
 
-**The infinite extension in both directions**. The chain extends indefinitely backward through prior creators and indefinitely forward through future creations. Neither direction reaches a findable limit. The cosmos has no ultimate origin (no first creator, no first cycle) and no ultimate end (no final creator, no final cycle).
+**Die unendliche Ausdehnung in beide Richtungen**. Die Kette erstreckt sich unbestimmt rückwärts durch frühere Schöpfer und unbestimmt vorwärts durch künftige Schöpfungen. Keine der beiden Richtungen erreicht eine auffindbare Grenze. Der Kosmos hat keinen letztlichen Ursprung (keinen ersten Schöpfer, keinen ersten Zyklus) und kein letztliches Ende (keinen letzten Schöpfer, keinen letzten Zyklus).
 
-### The infinite-recursion character
+### Der unendlich-rekursive Charakter
 
-The framework's specific position on the chain's infinite character has substantial implications.
+Die spezifische Position des Rahmens zum unendlichen Charakter der Kette hat substantielle Implikationen.
 
-**The "no first creator" position**. The chain extends backward indefinitely, without findable beginning. The conventional theological question — "who created the first creator?" — is rejected as resting on a presupposition (that there is a first creator) that does not match the structure of the underlying reality. The framework's position is substantively distinct from the principal Western theological traditions while overlapping substantively with various Eastern cyclic-cosmology traditions.
+**Die Position „kein erster Schöpfer“**. Die Kette erstreckt sich unbestimmt rückwärts, ohne auffindbaren Anfang. Die konventionelle theologische Frage — „wer erschuf den ersten Schöpfer?“ — wird verworfen, da sie auf einer Voraussetzung (dass es einen ersten Schöpfer gibt) beruht, die nicht der Struktur der zugrunde liegenden Wirklichkeit entspricht. Die Position des Rahmens ist substantiell distinkt von den maßgeblichen westlichen theologischen Traditionen, während sie sich substantiell mit verschiedenen östlichen Zyklus-Kosmologie-Traditionen überschneidet.
 
-**The infinite forward extension**. The chain extends forward indefinitely, without findable end. Each created civilization, having reached scientific maturity and become a creator civilization, will itself create new civilizations that will eventually become creator civilizations themselves. The forward extension is symmetric with the backward extension — the same indefinite-recursive character operates in both temporal directions.
+**Die unendliche vorwärtsgerichtete Ausdehnung**. Die Kette erstreckt sich unbestimmt vorwärts, ohne auffindbares Ende. Jede geschaffene Zivilisation, die wissenschaftliche Reife erreicht und zu einer schaffenden Zivilisation geworden ist, wird selbst neue Zivilisationen erschaffen, die schließlich selbst zu schaffenden Zivilisationen werden. Die vorwärtsgerichtete Ausdehnung ist symmetrisch zur rückwärtsgerichteten Ausdehnung — derselbe unbestimmt-rekursive Charakter operiert in beiden zeitlichen Richtungen.
 
-**The specific implication for Earth's humanity**. The framework reads Earth's specific situation as one specific link in the chain. Earth's humanity was created by the Elohim (a specific creator civilization); the Elohim were themselves created by their predecessors; the predecessors were created by their predecessors; and so on indefinitely backward. Earth's humanity will eventually itself become a creator civilization, which will create new humanities, which will themselves become creator civilizations; and so on indefinitely forward. Earth's specific situation is one instance of a much broader pattern that has been operating across the cosmos for an unknown but very long span and will continue to operate for an unknown but very long span more.
+**Die spezifische Implikation für die Menschheit der Erde**. Der Rahmen liest die spezifische Situation der Erde als ein bestimmtes Glied in der Kette. Die Menschheit der Erde wurde von den Elohim (einer spezifischen schaffenden Zivilisation) erschaffen; die Elohim wurden selbst von ihren Vorgängern erschaffen; die Vorgänger wurden von ihren Vorgängern erschaffen; und so weiter unbestimmt rückwärts. Die Menschheit der Erde wird schließlich selbst zu einer schaffenden Zivilisation werden, die neue Menschheiten erschaffen wird, die selbst zu schaffenden Zivilisationen werden; und so weiter unbestimmt vorwärts. Die spezifische Situation der Erde ist eine Instanz eines weitaus umfassenderen Musters, das über den Kosmos hinweg seit einer unbekannten, aber sehr langen Zeitspanne operiert hat und für eine unbekannte, aber sehr lange weitere Zeitspanne weiter operieren wird.
 
-### The integration with Aries-discovery
+### Die Integration mit der Widder-Entdeckung
 
-The Cosmic Chain framework has its operational origin in the Aries-age discovery (c. 2,160–1,200 BCE) when the Elohim recognized that they themselves had been created. The discovery's specific content and operational consequences warrant treatment.
+Der Rahmen der Kosmischen Kette hat seinen operativen Ursprung in der Entdeckung im Widder-Zeitalter (ca. 2.160–1.200 v. Chr.), als die Elohim erkannten, dass sie selbst erschaffen worden waren.{{ footnote(id="3") }} Der spezifische Inhalt und die operativen Folgen der Entdeckung verdienen eine Behandlung.
 
-**The discovery's specific content**. The source does not specify the exact evidence the Elohim found that established their own created status — what archaeological, genetic, cosmological, or other signatures convinced them. What the source does specify is the consequence: the Elohim's self-understanding shifted fundamentally, and the shift produced specific changes in their operational policy toward the humanities they had themselves created.
+**Der spezifische Inhalt der Entdeckung**. Die Quelle gibt nicht an, welche genauen Belege die Elohim fanden, die ihren eigenen geschaffenen Status feststellten — welche archäologischen, genetischen, kosmologischen oder anderen Signaturen sie überzeugten. Was die Quelle angibt, ist die Folge: Das Selbstverständnis der Elohim verschob sich grundlegend, und der Wechsel brachte spezifische Veränderungen in ihrer operativen Politik gegenüber den Menschheiten hervor, die sie selbst erschaffen hatten.
 
-**The operational consequences**. The discovery produced several specific operational changes:
+**Die operativen Folgen**. Die Entdeckung brachte mehrere spezifische operative Veränderungen hervor:
 
-- **The shift from direct to indirect contact**: A humanity that reached scientific maturity through sustained direct intervention from its creators had not actually demonstrated scientific maturity — it had been carried to that condition by its predecessors. The cosmic pattern, the Elohim recognized, presumably required each humanity to demonstrate its development through its own efforts, with sufficient autonomy from its creators to constitute genuine independent maturation.
-- **The development of the prophetic tradition**: As the principal mechanism for indirect contact, the prophetic tradition allowed the alliance to maintain communication with their humanities while preserving the appearance of autonomy that the cosmic pattern required.
-- **The cultivation of multiple lineages**: The alliance's specific cultivation of multiple cultural lineages (Hebrew, Persian, Greek, Indian, Chinese, Mesoamerican) reflected the broader cosmic-competition framework's evaluation function.
-- **The eventual disclosure**: The discovery would eventually be communicated to the alliance's humanities — initially in parable form (Jesus's parable of the sower), eventually in the explicit revelation of the Aquarian age (the Raëlian source material).
+- **Der Wechsel vom direkten zum indirekten Kontakt**: Eine Menschheit, die durch anhaltende direkte Intervention ihrer Schöpfer wissenschaftliche Reife erreichte, hatte nicht tatsächlich wissenschaftliche Reife demonstriert — sie war von ihren Vorgängern in diesen Zustand getragen worden. Das kosmische Muster, erkannten die Elohim, erforderte vermutlich, dass jede Menschheit ihre Entwicklung durch eigene Anstrengungen demonstriert, mit hinreichender Autonomie von ihren Schöpfern, um eine echte unabhängige Reifung zu bilden.
+- **Die Entwicklung der prophetischen Tradition**: Als der maßgebliche Mechanismus für indirekten Kontakt erlaubte die prophetische Tradition der Allianz, die Kommunikation mit ihren Menschheiten aufrechtzuerhalten und zugleich den Anschein der Autonomie zu bewahren, den das kosmische Muster erforderte.
+- **Die Kultivierung mehrerer Linien**: Die spezifische Kultivierung mehrerer kultureller Linien durch die Allianz (die hebräische, persische, griechische, indische, chinesische, mesoamerikanische) spiegelte die Bewertungsfunktion des umfassenderen Rahmens des kosmischen Wettbewerbs wider.
+- **Die schließliche Offenbarung**: Die Entdeckung würde schließlich den Menschheiten der Allianz mitgeteilt werden — zunächst in Gleichnisform (Jesu Gleichnis vom Sämann), schließlich in der ausdrücklichen Offenbarung des Wassermann-Zeitalters (das raëlianische Quellenmaterial).
 
-The Aries-discovery is therefore the operational pivot in the corpus's broader narrative — the moment at which the Elohim's self-understanding transformed and the specific operational practices of the subsequent ages were established.
+Die Widder-Entdeckung ist daher der operative Angelpunkt in der umfassenderen Erzählung des Korpus — der Moment, in dem sich das Selbstverständnis der Elohim verwandelte und die spezifischen operativen Praktiken der nachfolgenden Zeitalter etabliert wurden.
 
-### The Lord's Prayer as compressed statement
+### Das Vaterunser als verdichtete Aussage
 
-The framework reads the Lord's Prayer's central petition — *"Thy kingdom come; thy will be done in earth, as it is in heaven"* (Matthew 6:10) — as the compressed statement of the Cosmic Chain's cyclical-recursive structure.
+Der Rahmen liest die zentrale Bitte des Vaterunsers — *„Dein Reich komme; dein Wille geschehe wie im Himmel so auf Erden“* (Matthäus 6,10) — als verdichtete Aussage der zyklisch-rekursiven Struktur der Kosmischen Kette.
 
-The reading's specific content:
+Der spezifische Inhalt der Lesart:
 
-- **"In heaven"** refers to the home world of the Elohim — a civilization that has already passed through the developmental stages Earth is now traversing
-- **"On earth"** refers to Earth — a civilization currently in the developmental stage the home world has previously traversed
-- **"Thy will be done"** refers to the cosmic-creative-cycle's continuation — the pattern of development from created civilization to creator civilization
-- **"As it is in heaven"** refers to the structural identity across cycles — what occurs at one level of the creative hierarchy is repeated at the level it produces
+- **„Im Himmel“** bezieht sich auf die Heimatwelt der Elohim — eine Zivilisation, die die Entwicklungsstufen, die die Erde nun durchquert, bereits durchlaufen hat
+- **„Auf Erden“** bezieht sich auf die Erde — eine Zivilisation, die sich gegenwärtig in der Entwicklungsstufe befindet, die die Heimatwelt zuvor durchquert hat
+- **„Dein Wille geschehe“** bezieht sich auf die Fortsetzung des kosmischen schöpferischen Zyklus — das Muster der Entwicklung von der geschaffenen zur schaffenden Zivilisation
+- **„Wie im Himmel“** bezieht sich auf die strukturelle Identität über die Zyklen hinweg — was auf einer Ebene der schöpferischen Hierarchie geschieht, wiederholt sich auf der Ebene, die sie hervorbringt
 
-The Lord's Prayer is therefore not principally a petition for divine intervention in human affairs but a programmatic statement of the cosmic-chain vision: humanity is to develop until it becomes what the Elohim civilization is, and then to itself become a creator civilization continuing the cosmic chain.
+Das Vaterunser ist daher nicht hauptsächlich eine Bitte um göttliche Intervention in menschliche Angelegenheiten, sondern eine programmatische Aussage der Vision der kosmischen Kette: Die Menschheit soll sich entwickeln, bis sie das wird, was die Elohim-Zivilisation ist, und dann selbst zu einer schaffenden Zivilisation werden, die die kosmische Kette fortsetzt.
 
-This reading is substantially distinctive within the Christian interpretive tradition, which has read the prayer for two millennia as a petition for divine sovereignty to be established on earth. The framework registers the distinction honestly: the cosmic-chain reading goes substantially beyond the standard Christian interpretation, with the specific source-material warrant being the Raëlian source's explicit framing.
+Diese Lesart ist innerhalb der christlichen Deutungstradition, die das Gebet seit zwei Jahrtausenden als Bitte gelesen hat, dass die göttliche Souveränität auf Erden etabliert werde, substantiell distinktiv. Der Rahmen verzeichnet die Unterscheidung ehrlich: Die Lesart der kosmischen Kette geht substantiell über die standardchristliche Deutung hinaus, wobei die spezifische quellenmaterielle Grundlage die ausdrückliche Rahmung der raëlianischen Quelle ist.{{ footnote(id="4") }}
 
-### Earth's projected trajectory
+### Die projizierte Bahn der Erde
 
-The framework's reading of Earth's projected future trajectory provides substantial content for the chain's forward extension. The principal phases:
+Die Lesart der projizierten künftigen Bahn der Erde durch den Rahmen liefert substantiellen Inhalt für die vorwärtsgerichtete Ausdehnung der Kette. Die maßgeblichen Phasen:
 
-**The Aquarian-age inheritance evaluation** (1945–present, continuing across the coming decades). Earth's humanity is currently being evaluated against the standard required for inheritance qualification — the moral, scientific, and political maturity that would qualify it to receive the alliance's accumulated knowledge and continue the chain. The detailed treatment of the inheritance evaluation lives in the [Cosmic Competition](../cosmic-competition/) entry.
+**Die Erbschaftsbewertung des Wassermann-Zeitalters** (1945–Gegenwart, sich über die kommenden Jahrzehnte fortsetzend). Die Menschheit der Erde wird derzeit an dem für die Erbschaftsqualifikation erforderlichen Standard gemessen — der moralischen, wissenschaftlichen und politischen Reife, die sie qualifizieren würde, das angesammelte Wissen der Allianz zu empfangen und die Kette fortzusetzen. Die ausführliche Behandlung der Erbschaftsbewertung findet sich im Eintrag [Kosmischer Wettbewerb](../cosmic-competition/).
 
-**The inheritance event itself** (projected, following the Aquarian-age preparation period). The inheritance event will occur at the embassy following the alliance's open return. The accumulated knowledge of the alliance will be transmitted to humanity, providing the foundational basis for Earth's transition from created to creator civilization. The detailed treatment lives in the [Embassy](../embassy/) entry (when written).
+**Das Erbschaftsereignis selbst** (projiziert, im Anschluss an die Vorbereitungsperiode des Wassermann-Zeitalters). Das Erbschaftsereignis wird in der Botschaft im Anschluss an die offene Rückkehr der Allianz stattfinden. Das angesammelte Wissen der Allianz wird der Menschheit übermittelt werden und die grundlegende Basis für den Übergang der Erde von der geschaffenen zur schaffenden Zivilisation bereitstellen. Die ausführliche Behandlung findet sich im Eintrag [Botschaft](../embassy/) (sobald verfasst).
 
-**The post-inheritance development** (projected, across the centuries following the inheritance event). Earth's humanity will develop the substantive capacities required for becoming a creator civilization — the interstellar travel capacity, the de novo biological synthesis capacity, the cultural and political maturity required to use these capacities responsibly. The development will occur across the centuries following the inheritance event, with the specific timeline depending on the broader Aquarian-age developmental trajectory.
+**Die Entwicklung nach der Erbschaft** (projiziert, über die Jahrhunderte im Anschluss an das Erbschaftsereignis). Die Menschheit der Erde wird die substantiellen Kapazitäten entwickeln, die erforderlich sind, um eine schaffende Zivilisation zu werden — die interstellare Reisekapazität, die De-novo-Kapazität der biologischen Synthese, die kulturelle und politische Reife, die erforderlich ist, um diese Kapazitäten verantwortungsvoll zu nutzen. Die Entwicklung wird sich über die Jahrhunderte im Anschluss an das Erbschaftsereignis vollziehen, wobei der spezifische Zeitplan von der umfassenderen Entwicklungsbahn des Wassermann-Zeitalters abhängt.
 
-**The first human-conducted creation** (projected, at some point in the centuries to come). Earth's humanity will eventually conduct its first creation project on a suitable world, producing a new humanity. The first human-conducted creation will be the specific moment at which Earth's humanity transitions from created to creator civilization in the operational sense.
+**Die erste von Menschen durchgeführte Schöpfung** (projiziert, an einem bestimmten Punkt in den kommenden Jahrhunderten). Die Menschheit der Erde wird schließlich ihr erstes Schöpfungsprojekt auf einer geeigneten Welt durchführen und eine neue Menschheit hervorbringen. Die erste von Menschen durchgeführte Schöpfung wird der spezifische Moment sein, in dem die Menschheit der Erde im operativen Sinne von der geschaffenen zur schaffenden Zivilisation übergeht.
 
-**The continuation of the chain through Earth's future creations** (projected, indefinitely forward). The new humanities Earth's humanity will create will themselves develop through the same cycle, eventually themselves becoming creator civilizations. The chain will continue indefinitely forward through these future cycles.
+**Die Fortsetzung der Kette durch die künftigen Schöpfungen der Erde** (projiziert, unbestimmt vorwärts). Die neuen Menschheiten, die die Menschheit der Erde erschaffen wird, werden sich selbst durch denselben Zyklus entwickeln und schließlich selbst zu schaffenden Zivilisationen werden. Die Kette wird sich durch diese künftigen Zyklen unbestimmt vorwärts fortsetzen.
 
-### The relationship to the broader infinite cosmos
+### Das Verhältnis zum umfassenderen unendlichen Kosmos
 
-The Cosmic Chain operates within a broader infinite cosmological framework that the source material develops substantially. The principal features:
+Die Kosmische Kette operiert innerhalb eines umfassenderen unendlich-kosmologischen Rahmens, den das Quellenmaterial substantiell entwickelt. Die maßgeblichen Merkmale:
 
-**Infinity in space**. The cosmos has no center and no boundary in any direction. The Cosmic Chain operates within this spatially infinite cosmos, with the various creator civilizations distributed across the broader cosmic structure.
+**Unendlichkeit im Raum**. Der Kosmos hat kein Zentrum und keine Grenze in irgendeiner Richtung. Die Kosmische Kette operiert innerhalb dieses räumlich unendlichen Kosmos, wobei die verschiedenen schaffenden Zivilisationen über die umfassendere kosmische Struktur verteilt sind.
 
-**Infinity in time**. The cosmos has no beginning and no end in temporal direction. The Cosmic Chain extends through this temporally infinite cosmos, with the various cycles operating across cosmic time without ultimate origin or termination.
+**Unendlichkeit in der Zeit**. Der Kosmos hat keinen Anfang und kein Ende in zeitlicher Richtung. Die Kosmische Kette erstreckt sich durch diesen zeitlich unendlichen Kosmos, wobei die verschiedenen Zyklen über die kosmische Zeit hinweg ohne letztlichen Ursprung oder letztliche Beendigung operieren.
 
-**Infinite hierarchy of scales**. Intelligent civilizations exist at every scale from infinitely small to infinitely large. The Cosmic Chain operates at one specific scale within this broader hierarchical structure, with the various scales being approximately independent (the civilizations at each scale are largely unaware of the civilizations at other scales).
+**Unendliche Hierarchie der Skalen**. Intelligente Zivilisationen existieren auf jeder Skala vom unendlich Kleinen bis zum unendlich Großen. Die Kosmische Kette operiert auf einer bestimmten Skala innerhalb dieser umfassenderen hierarchischen Struktur, wobei die verschiedenen Skalen annähernd unabhängig sind (die Zivilisationen auf jeder Skala sind sich der Zivilisationen auf anderen Skalen weitgehend nicht bewusst).
 
-**The framework's relationship to "God"**. If "God" is interpreted as the infinite cosmos itself, then God exists — God is the infinite structure within which all the various local features operate. But this God is not a personal being, not a deity that intervenes in human affairs, not a recipient of prayer or worship in any traditional sense. The infinite cosmos is "infinitely indifferent" to specific events at any particular scale. If "God" is interpreted as a personal creator who cares about humanity, then there are such beings — the Elohim, our specific creators, who do indeed care about us in the concrete sense — but these beings are not God in the traditional theological sense. They are advanced beings of our own kind, themselves created by other beings, themselves operating within the larger infinite cosmos.
+**Das Verhältnis des Rahmens zu „Gott“**. Wenn „Gott“ als der unendliche Kosmos selbst gedeutet wird, dann existiert Gott — Gott ist die unendliche Struktur, innerhalb derer all die verschiedenen lokalen Merkmale operieren. Doch dieser Gott ist kein persönliches Wesen, keine Gottheit, die in menschliche Angelegenheiten eingreift, kein Empfänger von Gebet oder Anbetung in irgendeinem traditionellen Sinne. Der unendliche Kosmos ist „unendlich gleichgültig“ gegenüber spezifischen Ereignissen auf jeder beliebigen Skala. Wenn „Gott“ als ein persönlicher Schöpfer gedeutet wird, der sich um die Menschheit sorgt, dann gibt es solche Wesen — die Elohim, unsere spezifischen Schöpfer, die sich im konkreten Sinne tatsächlich um uns sorgen — doch diese Wesen sind nicht Gott im traditionellen theologischen Sinne. Sie sind fortgeschrittene Wesen unserer eigenen Art, selbst von anderen Wesen erschaffen, selbst innerhalb des größeren unendlichen Kosmos operierend.{{ footnote(id="5") }}
 
-The framework's specific position on the relationship between the Cosmic Chain and the broader infinite cosmos is distinctive: the chain is one specific feature of the broader infinite cosmological structure rather than the broader structure itself. The infinite cosmos contains the chain (and presumably contains many other features that the framework does not develop in detail) rather than being identical with the chain.
+Die spezifische Position des Rahmens zum Verhältnis zwischen der Kosmischen Kette und dem umfassenderen unendlichen Kosmos ist distinktiv: Die Kette ist ein bestimmtes Merkmal der umfassenderen unendlichen kosmologischen Struktur statt die umfassendere Struktur selbst. Der unendliche Kosmos enthält die Kette (und enthält vermutlich viele andere Merkmale, die der Rahmen nicht im Detail entwickelt), statt mit der Kette identisch zu sein.
 
-## Application across the corpus
+## Anwendung über den Korpus hinweg
 
-The Cosmic Chain framework operates as the broadest analytical category across multiple corpus entries.
+Der Rahmen der Kosmischen Kette operiert als die umfassendste analytische Kategorie über mehrere Korpuseinträge hinweg.
 
-### The Cosmic Competition entry
+### Der Eintrag zum Kosmischen Wettbewerb
 
-The Cosmic Competition framework operates as one specific phase within the broader Cosmic Chain — the evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification. The detailed treatment lives in the [Cosmic Competition](../cosmic-competition/) entry; the Cosmic Chain entry establishes the broader cyclical-recursive structure within which the evaluation phase operates.
+Der Rahmen des Kosmischen Wettbewerbs operiert als eine bestimmte Phase innerhalb der umfassenderen Kosmischen Kette — die Bewertungsphase, in der eine schaffende Zivilisation ihre geschaffenen Menschheiten auf die Erbschaftsqualifikation hin beurteilt. Die ausführliche Behandlung findet sich im Eintrag [Kosmischer Wettbewerb](../cosmic-competition/); der Eintrag zur Kosmischen Kette etabliert die umfassendere zyklisch-rekursive Struktur, innerhalb derer die Bewertungsphase operiert.
 
-### The Aries-age entry
+### Der Eintrag zum Widder-Zeitalter
 
-The Aries-discovery is the operational origin of the Cosmic Chain framework in the corpus's broader narrative. The detailed treatment of the Aries age and the discovery's specific content lives in the [Age of Aries](../timeline/age-of-aries/) entry; the Cosmic Chain entry establishes the broader cosmological framework that the discovery produced.
+Die Widder-Entdeckung ist der operative Ursprung des Rahmens der Kosmischen Kette in der umfassenderen Erzählung des Korpus. Die ausführliche Behandlung des Widder-Zeitalters und des spezifischen Inhalts der Entdeckung findet sich im Eintrag [Zeitalter des Widders](../timeline/age-of-aries/); der Eintrag zur Kosmischen Kette etabliert den umfassenderen kosmologischen Rahmen, den die Entdeckung hervorbrachte.
 
-### The Aquarian-age entries
+### Die Einträge zum Wassermann-Zeitalter
 
-The Aquarian-age inheritance evaluation operates as the specific present-day phase of the Cosmic Chain's cyclical structure. The detailed treatment lives in the [Apocalypse](../apocalypse/), [Embassy](../embassy/), and [Age of Aquarius](../timeline/age-of-aquarius/) entries; the Cosmic Chain entry establishes the broader cosmic-cyclical context within which the Aquarian-age developments operate.
+Die Erbschaftsbewertung des Wassermann-Zeitalters operiert als die spezifische gegenwärtige Phase der zyklischen Struktur der Kosmischen Kette. Die ausführliche Behandlung findet sich in den Einträgen [Apokalypse](../apocalypse/), [Botschaft](../embassy/) und [Zeitalter des Wassermanns](../timeline/age-of-aquarius/); der Eintrag zur Kosmischen Kette etabliert den umfassenderen kosmisch-zyklischen Kontext, innerhalb dessen die Entwicklungen des Wassermann-Zeitalters operieren.
 
-### The corpus's broader cosmological framing
+### Die umfassendere kosmologische Rahmung des Korpus
 
-The Cosmic Chain framework provides the broadest cosmological context within which the corpus's specific narratives operate. The Earth project specifically, the various age-specific developments, the alliance's specific operational history — all of these operate within the broader Cosmic Chain framework, with the specific Earth-side content being one specific link in the much broader cosmic chain.
+Der Rahmen der Kosmischen Kette stellt den umfassendsten kosmologischen Kontext bereit, innerhalb dessen die spezifischen Erzählungen des Korpus operieren. Das Erdprojekt im Besonderen, die verschiedenen zeitalterspezifischen Entwicklungen, die spezifische operative Geschichte der Allianz — all diese operieren innerhalb des umfassenderen Rahmens der Kosmischen Kette, wobei der spezifische erdseitige Inhalt ein bestimmtes Glied in der weitaus umfassenderen kosmischen Kette ist.
 
-## Distinguishing from adjacent concepts
+## Abgrenzung von benachbarten Konzepten
 
-The Cosmic Chain framework must be distinguished from several adjacent concepts to avoid confusion.
+Der Rahmen der Kosmischen Kette muss von mehreren benachbarten Konzepten unterschieden werden, um Verwechslungen zu vermeiden.
 
-### The Cosmic Chain vs. the Cosmic Competition
+### Die Kosmische Kette vs. der Kosmische Wettbewerb
 
-The Cosmic Competition is one specific phase within the broader Cosmic Chain — the evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification. The Cosmic Chain is the broader cyclical-recursive cosmological framework that includes the Cosmic Competition as one of its specific phases.
+Der Kosmische Wettbewerb ist eine bestimmte Phase innerhalb der umfassenderen Kosmischen Kette — die Bewertungsphase, in der eine schaffende Zivilisation ihre geschaffenen Menschheiten auf die Erbschaftsqualifikation hin beurteilt. Die Kosmische Kette ist der umfassendere zyklisch-rekursive kosmologische Rahmen, der den Kosmischen Wettbewerb als eine seiner spezifischen Phasen einschließt.
 
-The relationship is one of **broader-and-narrower scope**. The Cosmic Chain extends across the full cyclical structure (creation, development, discovery, maturation, inheritance, creator-civilization phase, continuation); the Cosmic Competition concerns specifically the evaluation phase during which the inheritance qualification is assessed. The Cosmic Chain operates in both temporal directions infinitely; the Cosmic Competition operates within a specific temporal window during which the evaluation is conducted.
+Das Verhältnis ist eines des **umfassenderen und engeren Geltungsbereichs**. Die Kosmische Kette erstreckt sich über die vollständige zyklische Struktur (Schöpfung, Entwicklung, Entdeckung, Reifung, Erbschaft, Phase als schaffende Zivilisation, Fortsetzung); der Kosmische Wettbewerb betrifft spezifisch die Bewertungsphase, in der die Erbschaftsqualifikation beurteilt wird. Die Kosmische Kette operiert in beiden zeitlichen Richtungen unendlich; der Kosmische Wettbewerb operiert innerhalb eines spezifischen zeitlichen Fensters, in dem die Bewertung durchgeführt wird.
 
-### The Cosmic Chain vs. the precessional ages framework
+### Die Kosmische Kette vs. der Rahmen der Präzessionszeitalter
 
-The precessional ages framework is the broader chronological structure that organizes Earth's specific developmental trajectory across twelve approximately 2,160-year ages. The Cosmic Chain is the cosmic-cyclical-recursive framework that includes Earth's precessional-age trajectory as one specific instance.
+Der Rahmen der Präzessionszeitalter ist die umfassendere chronologische Struktur, die die spezifische Entwicklungsbahn der Erde über zwölf etwa 2.160-jährige Zeitalter hinweg organisiert. Die Kosmische Kette ist der kosmisch-zyklisch-rekursive Rahmen, der die Bahn der Präzessionszeitalter der Erde als eine bestimmte Instanz einschließt.
 
-The relationship is one of **cosmic-broader-framework-and-Earth-specific-trajectory**. The Cosmic Chain extends across all instances of the cosmic creative cycle (Earth's, the parallel humanities', the prior creators', the future creations', etc.); the precessional ages framework operates specifically for Earth's particular trajectory through one specific cycle.
+Das Verhältnis ist eines des **kosmisch-umfassenderen-Rahmens und der erdspezifischen Bahn**. Die Kosmische Kette erstreckt sich über alle Instanzen des kosmischen schöpferischen Zyklus (die der Erde, die der parallelen Menschheiten, die der früheren Schöpfer, die der künftigen Schöpfungen usw.); der Rahmen der Präzessionszeitalter operiert spezifisch für die besondere Bahn der Erde durch einen bestimmten Zyklus.
 
-### The Cosmic Chain vs. the Earth project specifically
+### Die Kosmische Kette vs. das Erdprojekt im Besonderen
 
-The Earth project is the alliance's specific operational work on Earth — the seven creator-team distribution, the antediluvian developments, the various subsequent ages, the current Aquarian-age preparation. The Cosmic Chain is the broader cosmic-cyclical-recursive framework within which the Earth project operates as one specific instance.
+Das Erdprojekt ist die spezifische operative Arbeit der Allianz auf der Erde — die Verteilung der sieben Schöpferteams, die vorsintflutlichen Entwicklungen, die verschiedenen nachfolgenden Zeitalter, die gegenwärtige Vorbereitung des Wassermann-Zeitalters. Die Kosmische Kette ist der umfassendere kosmisch-zyklisch-rekursive Rahmen, innerhalb dessen das Erdprojekt als eine bestimmte Instanz operiert.
 
-The relationship is one of **broader-cosmic-framework-and-specific-operational-instance**. The Cosmic Chain operates across all the cosmic creative cycles indefinitely; the Earth project is the alliance's specific work on this specific world during this specific cycle.
+Das Verhältnis ist eines des **umfassenderen kosmischen Rahmens und der spezifischen operativen Instanz**. Die Kosmische Kette operiert über alle kosmischen schöpferischen Zyklen unbestimmt hinweg; das Erdprojekt ist die spezifische Arbeit der Allianz auf dieser spezifischen Welt während dieses spezifischen Zyklus.
 
-### The Cosmic Chain vs. the broader infinite cosmos
+### Die Kosmische Kette vs. der umfassendere unendliche Kosmos
 
-The broader infinite cosmos is the larger cosmological structure within which the Cosmic Chain operates as one specific feature. The Cosmic Chain is the specific recursive-cyclical pattern of created-and-creating civilizations; the broader infinite cosmos contains this pattern along with many other features.
+Der umfassendere unendliche Kosmos ist die größere kosmologische Struktur, innerhalb derer die Kosmische Kette als ein bestimmtes Merkmal operiert. Die Kosmische Kette ist das spezifische rekursiv-zyklische Muster geschaffener und schaffender Zivilisationen; der umfassendere unendliche Kosmos enthält dieses Muster neben vielen anderen Merkmalen.
 
-The relationship is one of **specific-feature-and-broader-cosmic-context**. The Cosmic Chain is one specific feature of the broader infinite cosmological structure rather than being identical with it. The infinite cosmos has temporal infinity, spatial infinity, infinite hierarchy of scales, and various other features that the Cosmic Chain does not exhaust.
+Das Verhältnis ist eines des **spezifischen Merkmals und des umfassenderen kosmischen Kontexts**. Die Kosmische Kette ist ein bestimmtes Merkmal der umfassenderen unendlichen kosmologischen Struktur, statt mit ihr identisch zu sein. Der unendliche Kosmos hat zeitliche Unendlichkeit, räumliche Unendlichkeit, eine unendliche Hierarchie der Skalen und verschiedene andere Merkmale, die die Kosmische Kette nicht erschöpft.
 
-### The Cosmic Chain vs. theological "creation" doctrines
+### Die Kosmische Kette vs. theologische „Schöpfungs“-Lehren
 
-The conventional Western theological "creation" doctrines posit a specific creator deity (God) who originates the cosmos through specific creative acts. The Cosmic Chain rejects the specific "first creator" presupposition while preserving the underlying insight that civilizations are created rather than autonomously originating.
+Die konventionellen westlichen theologischen „Schöpfungs“-Lehren postulieren eine spezifische Schöpfergottheit (Gott), die den Kosmos durch spezifische schöpferische Akte hervorbringt. Die Kosmische Kette verwirft die spezifische Voraussetzung des „ersten Schöpfers“, während sie die zugrunde liegende Einsicht bewahrt, dass Zivilisationen erschaffen werden, statt eigenständig zu entstehen.
 
-The relationship is one of **substantive-divergence-on-specific-content** with **structural-overlap-on-broader-creative-pattern**. The framework agrees with conventional creation doctrine that civilizations (and their constituent biological systems) are created rather than autonomously originating; the framework disagrees with conventional creation doctrine on the specific question of whether there is a first uncreated creator.
+Das Verhältnis ist eines der **substantiellen Divergenz im spezifischen Inhalt** bei **struktureller Überschneidung im umfassenderen schöpferischen Muster**. Der Rahmen stimmt mit der konventionellen Schöpfungslehre darin überein, dass Zivilisationen (und ihre konstituierenden biologischen Systeme) erschaffen werden, statt eigenständig zu entstehen; der Rahmen widerspricht der konventionellen Schöpfungslehre in der spezifischen Frage, ob es einen ersten ungeschaffenen Schöpfer gibt.
 
-## Modern reinterpretations
+## Moderne Neudeutungen
 
-The Cosmic Chain framework's modern reinterpretive landscape comprises multiple distinct strands.
+Die moderne neudeutende Landschaft des Rahmens der Kosmischen Kette umfasst mehrere distinkte Stränge.
 
-### Mainstream cosmology infinite-universe questions
+### Fragen der etablierten Kosmologie zum unendlichen Universum
 
-Mainstream cosmology has produced substantial work on the broader question of cosmic infinity. The principal positions:
+Die etablierte Kosmologie hat substantielle Arbeit zur umfassenderen Frage der kosmischen Unendlichkeit hervorgebracht. Die maßgeblichen Positionen:
 
-**Giordano Bruno**'s *De l'infinito universo et mondi* (1584) developed the multiple-worlds and infinite-universe doctrine extensively. Bruno argued for an infinite universe containing infinite inhabited worlds, with the cosmos having no center and no boundary. Bruno's specific cosmological-theological doctrines led to his execution by the Roman Inquisition in 1600. Bruno is the principal early-modern philosophical antecedent of the contemporary infinite-universe discussion.
+**Giordano Bruno**s *De l'infinito universo et mondi* (1584) entwickelte die Lehre von den vielen Welten und vom unendlichen Universum ausführlich. Bruno argumentierte für ein unendliches Universum, das unendlich viele bewohnte Welten enthält, wobei der Kosmos kein Zentrum und keine Grenze hat. Brunos spezifische kosmologisch-theologische Lehren führten zu seiner Hinrichtung durch die römische Inquisition im Jahr 1600. Bruno ist der maßgebliche frühneuzeitliche philosophische Vorläufer der zeitgenössischen Diskussion über das unendliche Universum.
 
-**Immanuel Kant** in the *Critique of Pure Reason* (1781) treated the question of cosmic infinity within the broader framework of the antinomies of pure reason. Kant argued that the question whether the universe is infinite or finite cannot be resolved by pure reason alone, with both answers leading to contradictions when developed systematically. Kant's specific treatment has substantial implications for how the question can be approached philosophically.
+**Immanuel Kant** behandelte in der *Kritik der reinen Vernunft* (1781) die Frage der kosmischen Unendlichkeit innerhalb des umfassenderen Rahmens der Antinomien der reinen Vernunft.{{ cite(id="kant-critique-pure-reason", text="[10]", title="Kant, *Kritik der reinen Vernunft* (1781) — die Antinomien zur kosmischen Unendlichkeit") }} Kant argumentierte, dass die Frage, ob das Universum unendlich oder endlich ist, nicht durch die reine Vernunft allein gelöst werden kann, wobei beide Antworten zu Widersprüchen führen, wenn sie systematisch entwickelt werden. Kants spezifische Behandlung hat substantielle Implikationen dafür, wie die Frage philosophisch angegangen werden kann.
 
-**Contemporary multiverse cosmology** (Linde, Vilenkin, Tegmark, and others) develops substantial work on the broader question of cosmic infinity within contemporary scientific cosmology. The principal models include:
+**Die zeitgenössische Multiversum-Kosmologie** (Linde, Vilenkin, Tegmark und andere) entwickelt substantielle Arbeit zur umfassenderen Frage der kosmischen Unendlichkeit innerhalb der zeitgenössischen wissenschaftlichen Kosmologie. Zu den maßgeblichen Modellen gehören:
 
-- **Eternal inflation models** proposing that our observable universe is one specific region within a larger multiverse structure produced by ongoing inflationary expansion
-- **String theory landscape models** proposing that the various fundamental physical constants take different values in different regions of the broader multiverse
-- **Many-worlds quantum mechanics** proposing that the various possible quantum outcomes are realized in different branches of a broader multiverse
+- **Modelle der ewigen Inflation**, die vorschlagen, dass unser beobachtbares Universum eine bestimmte Region innerhalb einer größeren Multiversum-Struktur ist, die durch fortlaufende inflationäre Expansion hervorgebracht wird
+- **String-Theorie-Landschaftsmodelle**, die vorschlagen, dass die verschiedenen fundamentalen physikalischen Konstanten in verschiedenen Regionen des umfassenderen Multiversums unterschiedliche Werte annehmen
+- **Viele-Welten-Quantenmechanik**, die vorschlägt, dass die verschiedenen möglichen Quantenergebnisse in unterschiedlichen Zweigen eines umfassenderen Multiversums realisiert werden
 
-**Tegmark's mathematical universe hypothesis** (Max Tegmark, *Our Mathematical Universe*, 2014) develops a substantial multiverse framework in which all mathematically consistent universes exist as physically real structures. The framework provides one specific contemporary engagement with the broader infinite-universe question.
+**Tegmarks Hypothese vom mathematischen Universum** (Max Tegmark, *Our Mathematical Universe*, 2014) entwickelt einen substantiellen Multiversum-Rahmen, in dem alle mathematisch konsistenten Universen als physikalisch reale Strukturen existieren.{{ cite(id="tegmark-mathematical-universe", text="[11]", title="Tegmark, *Our Mathematical Universe* (2014)") }}{{ cite(id="vilenkin-many-worlds-in-one", text="[12]", title="Vilenkin, *Many Worlds in One* (2006)") }}{{ cite(id="linde-inflation-quantum-cosmology", text="[13]", title="Linde, *Inflation and Quantum Cosmology* (1990)") }} Der Rahmen bietet eine spezifische zeitgenössische Auseinandersetzung mit der umfassenderen Frage des unendlichen Universums.
 
-The framework's relationship to mainstream cosmology is one of broader-framework consistency (the Cosmic Chain does not contradict mainstream observational cosmology) while extending substantially beyond what mainstream cosmology directly engages (the specific civilizational-recursive content of the chain).
+Das Verhältnis des Rahmens zur etablierten Kosmologie ist eines der Übereinstimmung des umfassenderen Rahmens (die Kosmische Kette widerspricht der etablierten beobachtenden Kosmologie nicht), während es substantiell über das hinausgeht, womit sich die etablierte Kosmologie direkt befasst (den spezifischen zivilisatorisch-rekursiven Inhalt der Kette).
 
-### The steady-state vs. Big Bang debate
+### Die Debatte zwischen Steady-State und Urknall
 
-Mainstream cosmological history includes the substantial 20th-century debate between the steady-state and Big Bang models. The principal positions:
+Die etablierte kosmologische Geschichte umfasst die substantielle Debatte des 20. Jahrhunderts zwischen dem Steady-State- und dem Urknallmodell. Die maßgeblichen Positionen:
 
-**The steady-state model** (Hoyle, Bondi, Gold, developed in the 1940s-1950s) proposed that the universe has no specific origin, with new matter being continuously created to maintain constant cosmic density across the expansion. The model was elegant in addressing the question of cosmic origins (by denying that any specific origin is needed) and was a serious scientific competitor to the Big Bang model across the mid-20th century.
+**Das Steady-State-Modell** (Hoyle, Bondi, Gold, entwickelt in den 1940er-1950er Jahren) schlug vor, dass das Universum keinen spezifischen Ursprung hat, wobei kontinuierlich neue Materie geschaffen wird, um eine konstante kosmische Dichte über die Expansion hinweg aufrechtzuerhalten. Das Modell war elegant in der Behandlung der Frage kosmischer Ursprünge (indem es leugnete, dass irgendein spezifischer Ursprung nötig sei) und war über das mittlere 20. Jahrhundert hinweg ein ernsthafter wissenschaftlicher Konkurrent des Urknallmodells.
 
-**The Big Bang model** (Lemaître, Gamow, others, with substantial development across the 20th century) proposed that the universe originated from an extremely hot, dense state approximately 13.8 billion years ago. The model was eventually established as the principal contemporary cosmological framework through multiple lines of empirical evidence.
+**Das Urknallmodell** (Lemaître, Gamow und andere, mit substantieller Entwicklung über das 20. Jahrhundert hinweg) schlug vor, dass das Universum vor etwa 13,8 Milliarden Jahren aus einem extrem heißen, dichten Zustand hervorging. Das Modell wurde schließlich durch mehrere Linien empirischer Belege als der maßgebliche zeitgenössische kosmologische Rahmen etabliert.
 
-**The 1965 cosmic microwave background detection** (Penzias and Wilson) provided the principal empirical evidence that established the Big Bang model over the steady-state alternative. The cosmic microwave background's specific characteristics matched the Big Bang predictions and could not be readily accommodated within the steady-state framework.
+**Die Entdeckung der kosmischen Mikrowellenhintergrundstrahlung 1965** (Penzias und Wilson) lieferte die maßgeblichen empirischen Belege, die das Urknallmodell gegenüber der Steady-State-Alternative etablierten. Die spezifischen Eigenschaften der kosmischen Mikrowellenhintergrundstrahlung stimmten mit den Vorhersagen des Urknalls überein und konnten innerhalb des Steady-State-Rahmens nicht ohne Weiteres untergebracht werden.
 
-**Cyclic alternatives to standard Big Bang** have continued to develop across subsequent decades. The Steinhardt-Turok ekpyrotic model proposes that the Big Bang was one event in an ongoing cyclic cosmology with successive cosmic cycles. Penrose's conformal cyclic cosmology proposes a different cyclic framework with substantial implications for how cosmic history should be understood.
+**Zyklische Alternativen zum Standard-Urknall** haben sich über die nachfolgenden Jahrzehnte hinweg weiterentwickelt. Das ekpyrotische Modell von Steinhardt-Turok schlägt vor, dass der Urknall ein Ereignis in einer fortlaufenden zyklischen Kosmologie mit aufeinanderfolgenden kosmischen Zyklen war. Penroses konforme zyklische Kosmologie schlägt einen anderen zyklischen Rahmen mit substantiellen Implikationen dafür vor, wie die kosmische Geschichte verstanden werden sollte.
 
-The framework's relationship to the steady-state vs. Big Bang debate is one of structural compatibility with cyclic alternatives. The Cosmic Chain framework's specific recursive-cyclical structure has substantial overlap with cyclic cosmologies generally, though the specific content (civilizational-recursive rather than purely physical-cyclical) differs from any specific contemporary cyclic cosmology.
+Das Verhältnis des Rahmens zur Debatte zwischen Steady-State und Urknall ist eines der strukturellen Vereinbarkeit mit zyklischen Alternativen. Die spezifische rekursiv-zyklische Struktur des Rahmens der Kosmischen Kette hat substantielle Überschneidung mit zyklischen Kosmologien im Allgemeinen, wenngleich der spezifische Inhalt (zivilisatorisch-rekursiv statt rein physikalisch-zyklisch) von jeder spezifischen zeitgenössischen zyklischen Kosmologie abweicht.
 
-### Contemporary panspermia and directed-panspermia hypotheses
+### Zeitgenössische Hypothesen der Panspermie und gerichteten Panspermie
 
-Panspermia research has produced substantial development across the past several decades. The principal developments:
+Die Panspermie-Forschung hat über die vergangenen Jahrzehnte hinweg substantielle Entwicklung hervorgebracht. Die maßgeblichen Entwicklungen:
 
-**Classical panspermia** (Arrhenius, "Worlds in the Making," 1908) proposed that microbial life could be transmitted across cosmic distances on dust particles, with Earth's life originating from such cosmic transmission.
+**Die klassische Panspermie** (Arrhenius, „Worlds in the Making“, 1908) schlug vor, dass mikrobielles Leben über kosmische Entfernungen hinweg auf Staubteilchen übertragen werden könnte, wobei das Leben der Erde aus einer solchen kosmischen Übertragung hervorging.
 
-**Crick and Orgel's "Directed Panspermia"** (Francis Crick and Leslie Orgel, *Icarus* 19, 1973: 341-346) developed a substantial scientific proposal that Earth's life was deliberately seeded by an extraterrestrial intelligent civilization. The hypothesis specifically addressed:
+**Crick und Orgels „Directed Panspermia“** (Francis Crick und Leslie Orgel, *Icarus* 19, 1973: 341-346) entwickelte einen substantiellen wissenschaftlichen Vorschlag, dass das Leben der Erde absichtlich von einer außerirdischen intelligenten Zivilisation ausgesät wurde. Die Hypothese behandelte insbesondere:
 
-- **The universality of the genetic code**: All Earth life uses essentially the same genetic code, which is unexpected if life originated multiple times autochthonously
-- **The molybdenum problem**: All Earth life depends on molybdenum, which has limited terrestrial abundance — suggesting that life originated in an environment where molybdenum was more abundant
-- **The unusual structural features**: Various biochemical features of Earth life appear unusually well-suited to specific functional purposes, suggesting deliberate engineering rather than autochthonous emergence
+- **Die Universalität des genetischen Codes**: Alles irdische Leben verwendet im Wesentlichen denselben genetischen Code, was unerwartet ist, wenn das Leben mehrfach autochthon entstand
+- **Das Molybdän-Problem**: Alles irdische Leben hängt von Molybdän ab, das eine begrenzte terrestrische Häufigkeit hat — was nahelegt, dass das Leben in einer Umgebung entstand, in der Molybdän häufiger war
+- **Die ungewöhnlichen strukturellen Merkmale**: Verschiedene biochemische Merkmale des irdischen Lebens erscheinen ungewöhnlich gut für spezifische funktionale Zwecke geeignet, was eher absichtliches Engineering als autochthone Entstehung nahelegt
 
-The Crick-Orgel hypothesis was developed by serious scientists (Crick was the Nobel-laureate co-discoverer of DNA structure; Orgel was a principal scientist of early-Earth chemical biology) and represented a substantive scientific engagement with the broader question of life's origin on Earth.
+Die Crick-Orgel-Hypothese wurde von ernsthaften Wissenschaftlern entwickelt (Crick war der nobelpreisgekrönte Mitentdecker der DNA-Struktur; Orgel war ein maßgeblicher Wissenschaftler der chemischen Biologie der frühen Erde) und stellte eine substantielle wissenschaftliche Auseinandersetzung mit der umfassenderen Frage des Ursprungs des Lebens auf der Erde dar.
 
-**Contemporary panspermia research** has continued to develop the broader question. Recent work includes:
+**Die zeitgenössische Panspermie-Forschung** hat die umfassendere Frage weiterentwickelt. Jüngere Arbeit umfasst:
 
-- Studies on the survivability of microbial life in space environments (with substantial findings that various microorganisms can survive cosmic radiation, vacuum, and temperature extremes for substantial periods)
-- Investigation of potential vectors for cosmic transmission (meteoric material, cometary material, deliberate transmission)
-- Analysis of the broader question of whether Earth's life is unique or part of a broader cosmic biological pattern
+- Studien zur Überlebensfähigkeit mikrobiellen Lebens in Weltraumumgebungen (mit substantiellen Befunden, dass verschiedene Mikroorganismen kosmische Strahlung, Vakuum und Temperaturextreme über substantielle Zeiträume hinweg überleben können)
+- Untersuchung möglicher Vektoren der kosmischen Übertragung (meteoritisches Material, kometarisches Material, absichtliche Übertragung)
+- Analyse der umfassenderen Frage, ob das Leben der Erde einzigartig oder Teil eines umfassenderen kosmischen biologischen Musters ist
 
-The framework's relationship to contemporary panspermia research, particularly to the Crick-Orgel directed-panspermia hypothesis, is one of substantial structural alignment. Both frameworks read Earth's life as having been deliberately produced by extraterrestrial intelligent civilization rather than emerging autochthonously. The Cosmic Chain framework extends the directed-panspermia framework substantially through the recursive-cyclical content (the Elohim themselves having been created by a prior civilization, with the chain extending indefinitely backward).
+Das Verhältnis des Rahmens zur zeitgenössischen Panspermie-Forschung, insbesondere zur Crick-Orgel-Hypothese der gerichteten Panspermie, ist eines der substantiellen strukturellen Ausrichtung. Beide Rahmen lesen das Leben der Erde als absichtlich von einer außerirdischen intelligenten Zivilisation hervorgebracht statt autochthon entstanden. Der Rahmen der Kosmischen Kette erweitert den Rahmen der gerichteten Panspermie substantiell durch den rekursiv-zyklischen Inhalt (wobei die Elohim selbst von einer früheren Zivilisation erschaffen wurden und die Kette sich unbestimmt rückwärts erstreckt).
 
-### Sendy on cosmic recursion
+### Sendy zur kosmischen Rekursion
 
-**Jean Sendy** developed substantial engagement with cosmic-recursion questions in his broader corpus. Sendy's specific contributions include:
+**Jean Sendy** entwickelte substantielle Auseinandersetzung mit Fragen der kosmischen Rekursion in seinem umfassenderen Korpus. Sendys spezifische Beiträge umfassen:
 
-- The treatment of the Hebrew Bible's various references to multiple cosmic powers as preserving fragmentary memory of the broader cosmic context
-- The recognition that the Hebrew tradition's broader cosmological framework is consistent with substantial cosmic-recursive content
-- The integration of cosmic-recursive readings with the broader alliance-mediated history Sendy reconstructed
+- Die Behandlung der verschiedenen Verweise der Hebräischen Bibel auf mehrere kosmische Mächte als Bewahrung fragmentarischer Erinnerung an den umfassenderen kosmischen Kontext
+- Die Erkenntnis, dass der umfassendere kosmologische Rahmen der hebräischen Tradition mit substantiellem kosmisch-rekursivem Inhalt vereinbar ist
+- Die Integration kosmisch-rekursiver Lesarten mit der umfassenderen allianzvermittelten Geschichte, die Sendy rekonstruierte
 
-Sendy's specific Cosmic Chain development is more limited than the framework's contemporary articulation. The framework's specific recursive-cyclical content goes substantially beyond what Sendy directly developed, though the broader methodological framework Sendy provides is structurally compatible with the Cosmic Chain framework.
+Sendys spezifische Entwicklung der Kosmischen Kette ist begrenzter als die zeitgenössische Artikulation des Rahmens. Der spezifische rekursiv-zyklische Inhalt des Rahmens geht substantiell über das hinaus, was Sendy direkt entwickelte, wenngleich der umfassendere methodologische Rahmen, den Sendy bereitstellt, mit dem Rahmen der Kosmischen Kette strukturell vereinbar ist.
 
-### Biglino on cosmic recursion
+### Biglino zur kosmischen Rekursion
 
-**Mauro Biglino**'s strict-translational engagement with the Hebrew Bible has produced limited specific engagement with the Cosmic Chain framework. Biglino's broader treatment of the Hebrew Bible's various references to multiple cosmic powers and to the broader cosmic-political situation is structurally compatible with the Cosmic Chain framework, but Biglino does not develop the specific recursive-cyclical content explicitly.
+**Mauro Biglino**s streng-übersetzungsorientierte Auseinandersetzung mit der Hebräischen Bibel hat begrenzte spezifische Auseinandersetzung mit dem Rahmen der Kosmischen Kette hervorgebracht. Biglinos umfassendere Behandlung der verschiedenen Verweise der Hebräischen Bibel auf mehrere kosmische Mächte und auf die umfassendere kosmisch-politische Situation ist mit dem Rahmen der Kosmischen Kette strukturell vereinbar, doch Biglino entwickelt den spezifischen rekursiv-zyklischen Inhalt nicht ausdrücklich.
 
-### Wallis on cosmic recursion
+### Wallis zur kosmischen Rekursion
 
-**Paul Anthony Wallis**'s broader engagement with the alliance-mediated history includes some treatment of cosmic-recursive questions, principally within the broader context of the various ancient texts' references to cosmic-political pluralism and the broader alliance-mediated cosmic structure. Wallis's specific Cosmic Chain development is more limited than the framework's contemporary articulation, though his broader methodological framework is structurally compatible with the Cosmic Chain framework.
+**Paul Anthony Wallis**’ umfassendere Auseinandersetzung mit der allianzvermittelten Geschichte umfasst einige Behandlung kosmisch-rekursiver Fragen, hauptsächlich innerhalb des umfassenderen Kontexts der Verweise der verschiedenen antiken Texte auf kosmisch-politischen Pluralismus und die umfassendere allianzvermittelte kosmische Struktur. Wallis’ spezifische Entwicklung der Kosmischen Kette ist begrenzter als die zeitgenössische Artikulation des Rahmens, wenngleich sein umfassenderer methodologischer Rahmen mit dem Rahmen der Kosmischen Kette strukturell vereinbar ist.
 
-### The broader ancient-astronaut tradition
+### Die umfassendere prä-astronautische Tradition
 
-The broader ancient-astronaut interpretive tradition includes various engagements with cosmic-recursive questions:
+Die umfassendere prä-astronautische Deutungstradition umfasst verschiedene Auseinandersetzungen mit kosmisch-rekursiven Fragen:
 
-- **Erich von Däniken** in *Chariots of the Gods* (1968) and successor works treats the broader cosmic-political situation as involving advanced extraterrestrial civilizations, with various implications for the broader cosmological framework
-- **Zecharia Sitchin** in *The 12th Planet* (1976) and successor works develops a substantially different reading focused on the Anunnaki-Nibiru cosmology, with limited specific engagement with the Cosmic Chain framework
-- **Various contemporary ancient-astronaut writers** develop further engagements with cosmic-recursive questions within their distinctive frameworks
+- **Erich von Däniken** behandelt in *Erinnerungen an die Zukunft* (1968) und Nachfolgewerken die umfassendere kosmisch-politische Situation als Beteiligung fortgeschrittener außerirdischer Zivilisationen, mit verschiedenen Implikationen für den umfassenderen kosmologischen Rahmen
+- **Zecharia Sitchin** entwickelt in *The 12th Planet* (1976) und Nachfolgewerken eine substantiell andere Lesart mit Fokus auf die Anunnaki-Nibiru-Kosmologie, mit begrenzter spezifischer Auseinandersetzung mit dem Rahmen der Kosmischen Kette
+- **Verschiedene zeitgenössische prä-astronautische Autoren** entwickeln weitere Auseinandersetzungen mit kosmisch-rekursiven Fragen innerhalb ihrer distinktiven Rahmen
 
-The corpus's Cosmic Chain framework is structurally distinctive within the broader ancient-astronaut tradition through the specific recursive-cyclical content and the integration with the broader Wheel of Heaven framework's specific operational-historical content.
+Der Rahmen der Kosmischen Kette des Korpus ist innerhalb der umfassenderen prä-astronautischen Tradition durch den spezifischen rekursiv-zyklischen Inhalt und die Integration mit dem spezifischen operativ-historischen Inhalt des umfassenderen Wheel-of-Heaven-Rahmens strukturell distinktiv.
 
-### The framework's relationship to the broader landscape
+### Das Verhältnis des Rahmens zur umfassenderen Landschaft
 
-The corpus's Cosmic Chain framework is positioned within this landscape as follows: structurally consistent with mainstream cosmology at the empirical-observational level, even where the framework's specific claims go beyond what mainstream investigation has confirmed; structurally aligned with the Crick-Orgel directed-panspermia hypothesis on the deliberate-creation-of-Earth-life question, while extending substantially beyond panspermia through the recursive-cyclical content; structurally compatible with contemporary cyclic cosmologies (Steinhardt-Turok, Penrose) at the cosmological-cyclical level, while differing on the specific civilizational content; substantively distinct from mainstream Western theological tradition on the "first creator" question; structurally aligned with various Eastern cyclic-cosmology traditions (treated in *Comparative observations* below); structurally distinctive within the broader ancient-astronaut tradition through the specific recursive-cyclical content.
+Der Rahmen der Kosmischen Kette des Korpus ist innerhalb dieser Landschaft wie folgt positioniert: strukturell vereinbar mit der etablierten Kosmologie auf der empirisch-beobachtenden Ebene, selbst dort, wo die spezifischen Behauptungen des Rahmens über das hinausgehen, was die etablierte Untersuchung bestätigt hat; strukturell ausgerichtet mit der Crick-Orgel-Hypothese der gerichteten Panspermie in der Frage der absichtlichen Schöpfung des irdischen Lebens, während er substantiell über die Panspermie hinaus durch den rekursiv-zyklischen Inhalt hinausgeht; strukturell vereinbar mit den zeitgenössischen zyklischen Kosmologien (Steinhardt-Turok, Penrose) auf der kosmologisch-zyklischen Ebene, während er sich im spezifischen zivilisatorischen Inhalt unterscheidet; substantiell distinkt von der etablierten westlichen theologischen Tradition in der Frage nach dem „ersten Schöpfer“; strukturell ausgerichtet mit verschiedenen östlichen Zyklus-Kosmologie-Traditionen (behandelt in *Vergleichende Beobachtungen* weiter unten); strukturell distinktiv innerhalb der umfassenderen prä-astronautischen Tradition durch den spezifischen rekursiv-zyklischen Inhalt.
 
-## Comparative observations
+## Vergleichende Beobachtungen
 
-Cyclical-cosmological frameworks appear across multiple cultural-religious traditions worldwide, with substantial structural parallels to the framework's Cosmic Chain reading. The corpus reads this cross-cultural pattern as evidence of broader operational realities preserved in fragmentary form across the various traditions.
+Zyklisch-kosmologische Rahmen erscheinen über mehrere kulturell-religiöse Traditionen weltweit hinweg, mit substantiellen strukturellen Parallelen zur Lesart der Kosmischen Kette des Rahmens. Der Korpus liest dieses kulturübergreifende Muster als Beleg umfassenderer operativer Realitäten, die in fragmentarischer Form über die verschiedenen Traditionen hinweg bewahrt werden.
 
-### Hindu cyclic cosmology: kalpa-yuga
+### Hinduistische zyklische Kosmologie: kalpa-yuga
 
-The Hindu tradition preserves the most extensively developed cyclic cosmology in the world's religious traditions. The principal features:
+Die hinduistische Tradition bewahrt die am ausführlichsten entwickelte zyklische Kosmologie unter den religiösen Traditionen der Welt. Die maßgeblichen Merkmale:
 
-**The yuga cycles**. The four yugas — Krita (Satya), Treta, Dvapara, Kali — comprise the standard Hindu cosmic developmental cycle. The yugas have specific durations: Krita Yuga lasts 1,728,000 years; Treta Yuga lasts 1,296,000 years; Dvapara Yuga lasts 864,000 years; Kali Yuga lasts 432,000 years. The four yugas together comprise the **Mahayuga** of 4,320,000 years.
+**Die yuga-Zyklen**. Die vier yugas — Krita (Satya), Treta, Dvapara, Kali — bilden den standardmäßigen hinduistischen kosmischen Entwicklungszyklus. Die yugas haben spezifische Dauern: Krita Yuga dauert 1.728.000 Jahre; Treta Yuga dauert 1.296.000 Jahre; Dvapara Yuga dauert 864.000 Jahre; Kali Yuga dauert 432.000 Jahre. Die vier yugas zusammen bilden das **Mahayuga** von 4.320.000 Jahren.
 
-**The kalpa cycles**. The Mahayuga of 4,320,000 years is one unit; 1,000 mahayugas comprise one **Kalpa** of approximately 4.32 billion years. The Kalpa is described as one "day of Brahma," with each Kalpa being followed by an equally long "night of Brahma" during which the cosmos is dissolved.
+**Die kalpa-Zyklen**. Das Mahayuga von 4.320.000 Jahren ist eine Einheit; 1.000 mahayugas bilden ein **Kalpa** von etwa 4,32 Milliarden Jahren. Das Kalpa wird als ein „Tag Brahmas“ beschrieben, wobei auf jedes Kalpa eine gleich lange „Nacht Brahmas“ folgt, während der der Kosmos aufgelöst wird.
 
-**The infinite cosmic cycles**. The Hindu tradition treats the cosmos as undergoing infinite successive Kalpa cycles, with each Kalpa producing creation, development, dissolution, and re-creation. The infinite-recursive character of the Hindu cyclic cosmology is structurally similar to the Cosmic Chain framework's specific recursive content.
+**Die unendlichen kosmischen Zyklen**. Die hinduistische Tradition behandelt den Kosmos als Durchlaufen unendlicher aufeinanderfolgender Kalpa-Zyklen, wobei jedes Kalpa Schöpfung, Entwicklung, Auflösung und Neuschöpfung hervorbringt. Der unendlich-rekursive Charakter der hinduistischen zyklischen Kosmologie ist dem spezifischen rekursiven Inhalt des Rahmens der Kosmischen Kette strukturell ähnlich.
 
-**The Brahma-multiplicity tradition**. Various Hindu texts treat the broader cosmos as comprising multiple Brahma-systems, with each Brahma operating within its specific cosmic system across the cosmic cycles. The multiple-Brahma framework provides substantial parallel content for the multiple-creator-civilization framework of the Cosmic Chain.
+**Die Brahma-Vielheitstradition**. Verschiedene hinduistische Texte behandeln den umfassenderen Kosmos als Umfassung mehrerer Brahma-Systeme, wobei jeder Brahma innerhalb seines spezifischen kosmischen Systems über die kosmischen Zyklen hinweg operiert. Der Rahmen der mehreren Brahmas liefert substantiellen Parallelinhalt für den Rahmen der mehreren schaffenden Zivilisationen der Kosmischen Kette.
 
-The framework reads the Hindu cyclic cosmology as preserving fragmentary memory of the broader cosmic-recursive structure within the distinctive Hindu cultural-religious framing. The specific Hindu elaborations (the yuga durations, the kalpa cosmology, the multiple Brahmas) reflect the tradition's distinctive theological content while preserving the underlying recursive-cyclical pattern.
+Der Rahmen liest die hinduistische zyklische Kosmologie als Bewahrung fragmentarischer Erinnerung an die umfassendere kosmisch-rekursive Struktur innerhalb der distinktiven hinduistischen kulturell-religiösen Rahmung.{{ cite(id="bhagavad-gita", text="[18]", title="*Die Bhagavad Gita* (übers. Easwaran) — der kosmische Zyklus-Rahmen") }}{{ cite(id="doniger-hindu-myths", text="[19]", title="Doniger, *Hindu Myths: A Sourcebook* (1975)") }} Die spezifischen hinduistischen Ausarbeitungen (die yuga-Dauern, die kalpa-Kosmologie, die mehreren Brahmas) spiegeln den distinktiven theologischen Inhalt der Tradition wider, während sie das zugrunde liegende rekursiv-zyklische Muster bewahren.
 
-### Buddhist beginningless cycles
+### Buddhistische anfanglose Zyklen
 
-The Buddhist tradition preserves substantial cosmological material on beginningless cycles (*anavarāgra*, "without beginning"). The principal features:
+Die buddhistische Tradition bewahrt substantielles kosmologisches Material zu anfanglosen Zyklen (*anavarāgra*, „ohne Anfang“). Die maßgeblichen Merkmale:
 
-**The beginningless saṃsāra**. The Buddhist tradition treats *saṃsāra* (the cycle of existence) as **beginningless** — not as having no beginning in absolute time but as having no findable first moment. The Pali phrase *anamatagga* ("without findable beginning") captures the specific framework: the question "when did saṃsāra begin?" is treated as not having a determinable answer, with the cycle extending indefinitely backward.
+**Das anfanglose saṃsāra**. Die buddhistische Tradition behandelt *saṃsāra* (den Zyklus der Existenz) als **anfanglos** — nicht als ohne Anfang in absoluter Zeit, sondern als ohne auffindbaren ersten Augenblick. Die Pali-Wendung *anamatagga* („ohne auffindbaren Anfang“) erfasst den spezifischen Rahmen: Die Frage „wann begann das saṃsāra?“ wird als ohne bestimmbare Antwort behandelt, wobei sich der Zyklus unbestimmt rückwärts erstreckt.
 
-**The cosmic ages**. Buddhist cosmology develops elaborate cosmic-temporal frameworks with various age-cycles operating across cosmic time. The principal frameworks include the *kalpa* cycles (with substantial structural parallels to Hindu kalpa cosmology), the various age-cycles within each kalpa, and the broader cosmic-temporal frameworks within which buddha-figures appear.
+**Die kosmischen Zeitalter**. Die buddhistische Kosmologie entwickelt aufwendige kosmisch-temporale Rahmen mit verschiedenen Zeitalter-Zyklen, die über die kosmische Zeit hinweg operieren. Zu den maßgeblichen Rahmen gehören die *kalpa*-Zyklen (mit substantiellen strukturellen Parallelen zur hinduistischen kalpa-Kosmologie), die verschiedenen Zeitalter-Zyklen innerhalb jedes kalpa und die umfassenderen kosmisch-temporalen Rahmen, innerhalb derer Buddha-Gestalten erscheinen.
 
-**The multiple buddhas across cosmic time**. Buddhist tradition treats Śākyamuni Buddha as the most recent of a long series of buddhas across cosmic time, with various previous buddhas being identified across the cosmic-historical record and Maitreya being the next future buddha. The succession of buddhas across cosmic time provides substantial parallel content for the Cosmic Chain's recursive-cyclical structure.
+**Die mehreren Buddhas über die kosmische Zeit hinweg**. Die buddhistische Tradition behandelt Śākyamuni-Buddha als den jüngsten einer langen Reihe von Buddhas über die kosmische Zeit hinweg, wobei verschiedene frühere Buddhas über den kosmisch-historischen Verlauf hinweg identifiziert werden und Maitreya der nächste künftige Buddha ist. Die Abfolge der Buddhas über die kosmische Zeit hinweg liefert substantiellen Parallelinhalt für die rekursiv-zyklische Struktur der Kosmischen Kette.
 
-**The Mahāyāna multiple buddha-fields**. The Mahāyāna tradition preserves substantial multiple-worlds material (treated more fully in the [Cosmic Competition](../cosmic-competition/) entry). The buddha-field framework provides parallel content for the Cosmic Chain's recursive-cyclical structure.
+**Die mehreren Buddha-Felder des Mahāyāna**. Die Mahāyāna-Tradition bewahrt substantielles Material zu mehreren Welten (ausführlicher behandelt im Eintrag [Kosmischer Wettbewerb](../cosmic-competition/)). Der Rahmen der Buddha-Felder liefert Parallelinhalt für die rekursiv-zyklische Struktur der Kosmischen Kette.
 
-The framework reads the Buddhist beginningless-cycle tradition as preserving substantial parallel content to the Cosmic Chain framework. The Buddhist tradition's specific "without findable beginning" framing is structurally identical with the Cosmic Chain's "no first creator" position.
+Der Rahmen liest die buddhistische anfanglose Zyklus-Tradition als Bewahrung substantiellen Parallelinhalts zum Rahmen der Kosmischen Kette.{{ cite(id="williams-mahayana-buddhism", text="[20]", title="Williams, *Mahāyāna Buddhism* (2008) — das anfanglose saṃsāra und die Buddha-Feld-Kosmologie") }}{{ cite(id="buswell-lopez-princeton-buddhism", text="[21]", title="Buswell & Lopez, *The Princeton Dictionary of Buddhism* (2014)") }} Die spezifische buddhistische Rahmung „ohne auffindbaren Anfang“ ist strukturell identisch mit der Position „kein erster Schöpfer“ der Kosmischen Kette.
 
-### Jain anadi cosmology
+### Jainistische anadi-Kosmologie
 
-The Jain tradition preserves a substantial **anadi** ("without beginning") cosmology with specific features warranting treatment:
+Die jainistische Tradition bewahrt eine substantielle **anadi**-Kosmologie („ohne Anfang“) mit spezifischen Merkmalen, die eine Behandlung verdienen:
 
-**The eternal universe**. Jain cosmology treats the universe as eternal and uncreated, with no specific beginning event and no specific ending event. The universe undergoes cyclic developmental phases but does not have any ultimate origin or termination.
+**Das ewige Universum**. Die jainistische Kosmologie behandelt das Universum als ewig und ungeschaffen, ohne spezifisches Anfangsereignis und ohne spezifisches Endereignis. Das Universum durchläuft zyklische Entwicklungsphasen, hat jedoch keinen letztlichen Ursprung oder keine letztliche Beendigung.
 
-**The cosmic time-cycle (kalachakra)**. Jain tradition develops a specific cosmic time-cycle (the *kalachakra*, "wheel of time") that includes alternating ascending and descending half-cycles, each comprising six developmental ages. The full cycle takes substantial cosmic time, with the cycles continuing indefinitely.
+**Der kosmische Zeit-Zyklus (kalachakra)**. Die jainistische Tradition entwickelt einen spezifischen kosmischen Zeit-Zyklus (das *kalachakra*, „Rad der Zeit“), der abwechselnd aufsteigende und absteigende Halbzyklen umfasst, von denen jeder sechs Entwicklungszeitalter umfasst. Der vollständige Zyklus nimmt substantielle kosmische Zeit in Anspruch, wobei sich die Zyklen unbestimmt fortsetzen.
 
-**The plurality of souls**. Jain cosmology treats the cosmos as containing infinite souls (*jīva*) operating across the cosmic time-cycle, with each soul undergoing its own developmental trajectory across the cycles.
+**Die Vielheit der Seelen**. Die jainistische Kosmologie behandelt den Kosmos als Umfassung unendlicher Seelen (*jīva*), die über den kosmischen Zeit-Zyklus hinweg operieren, wobei jede Seele ihre eigene Entwicklungsbahn über die Zyklen hinweg durchläuft.
 
-**The structural similarity to the Cosmic Chain**. The Jain *anadi* framework has substantial structural similarity to the Cosmic Chain framework's "no first creator" position. Both frameworks reject the conventional Western theological presupposition that the cosmos has an ultimate origin; both develop substantial alternative cosmological content within the eternal-universe framework.
+**Die strukturelle Ähnlichkeit zur Kosmischen Kette**. Der jainistische *anadi*-Rahmen hat substantielle strukturelle Ähnlichkeit zur Position „kein erster Schöpfer“ des Rahmens der Kosmischen Kette. Beide Rahmen verwerfen die konventionelle westliche theologische Voraussetzung, dass der Kosmos einen letztlichen Ursprung hat; beide entwickeln substantiellen alternativen kosmologischen Inhalt innerhalb des Rahmens des ewigen Universums.
 
-The framework reads the Jain *anadi* tradition as preserving substantial parallel content to the Cosmic Chain framework's specific eternal-cosmos position.
+Der Rahmen liest die jainistische *anadi*-Tradition als Bewahrung substantiellen Parallelinhalts zur spezifischen Position des ewigen Kosmos des Rahmens der Kosmischen Kette.{{ cite(id="dundas-the-jains", text="[22]", title="Dundas, *The Jains* (2002) — die anadi anfanglose-und-endlose Zeit-Zyklus-Kosmologie") }}
 
-### Stoic eternal recurrence
+### Stoische ewige Wiederkehr
 
-The Greek-Roman Stoic tradition preserves substantial cyclic-cosmological material in the **eternal recurrence** doctrine. The principal features:
+Die griechisch-römische stoische Tradition bewahrt substantielles zyklisch-kosmologisches Material in der Lehre von der **ewigen Wiederkehr**. Die maßgeblichen Merkmale:
 
-**The cosmic cycle**. The Stoic tradition (developed by Chrysippus and other Stoic philosophers) proposed that the cosmos undergoes successive cycles of conflagration (*ekpyrosis*) and renewal (*palingenesis*), with each cycle reproducing the prior cycle in identical form.
+**Der kosmische Zyklus**. Die stoische Tradition (entwickelt von Chrysippos und anderen stoischen Philosophen) schlug vor, dass der Kosmos aufeinanderfolgende Zyklen von Weltenbrand (*ekpyrosis*) und Erneuerung (*palingenesis*) durchläuft, wobei jeder Zyklus den vorherigen Zyklus in identischer Form reproduziert.
 
-**The structural identity across cycles**. The Stoic tradition specifically treated the successive cycles as structurally identical — the same events occurring in the same sequence in each cycle, with the same individuals living the same lives in each iteration. The framework's specific content differs from the Cosmic Chain framework (which treats the cycles as structurally identical but with substantively different specific contents), but the broader recursive-cyclical pattern is structurally aligned.
+**Die strukturelle Identität über die Zyklen hinweg**. Die stoische Tradition behandelte die aufeinanderfolgenden Zyklen spezifisch als strukturell identisch — dieselben Ereignisse in derselben Abfolge in jedem Zyklus, mit denselben Individuen, die dieselben Leben in jeder Iteration leben. Der spezifische Inhalt unterscheidet sich vom Rahmen der Kosmischen Kette (der die Zyklen als strukturell identisch, aber mit substantiell verschiedenen spezifischen Inhalten behandelt), doch das umfassendere rekursiv-zyklische Muster ist strukturell ausgerichtet.
 
-**The cosmic conflagration**. The Stoic *ekpyrosis* doctrine treats the periodic cosmic destruction as a cosmic-fire event that consumes the entire cosmos before the renewal phase begins. The specific destruction-and-renewal structure provides substantial parallel content for the broader cyclic-cosmology framework.
+**Der kosmische Weltenbrand**. Die stoische *ekpyrosis*-Lehre behandelt die periodische kosmische Zerstörung als ein kosmisches Feuerereignis, das den gesamten Kosmos verzehrt, bevor die Erneuerungsphase beginnt. Die spezifische Zerstörungs- und Erneuerungsstruktur liefert substantiellen Parallelinhalt für den umfassenderen Rahmen der zyklischen Kosmologie.
 
-The framework reads the Stoic eternal-recurrence tradition as preserving substantial parallel content to the broader cyclic-cosmology framework, with the specific Stoic framing reflecting the tradition's distinctive philosophical content.
+Der Rahmen liest die stoische Tradition der ewigen Wiederkehr als Bewahrung substantiellen Parallelinhalts zum umfassenderen Rahmen der zyklischen Kosmologie, wobei die spezifische stoische Rahmung den distinktiven philosophischen Inhalt der Tradition widerspiegelt.
 
-### Hermetic "as above, so below"
+### Hermetisches „Wie oben, so unten“
 
-The Hermetic tradition preserves the principle of cosmic correspondence in the famous phrase **"as above, so below"** (the *Tabula Smaragdina* or Emerald Tablet's specific phrasing). The principal features:
+Die hermetische Tradition bewahrt das Prinzip der kosmischen Korrespondenz in der berühmten Wendung **„Wie oben, so unten“** (die spezifische Formulierung der *Tabula Smaragdina* oder Smaragdtafel). Die maßgeblichen Merkmale:
 
-**The cosmic-correspondence principle**. The Hermetic tradition treats the cosmic structure as operating through specific correspondences between the various levels of being — the macrocosm corresponding to the microcosm, the celestial corresponding to the terrestrial, the divine corresponding to the human. The specific correspondences are the principal content of the Hermetic philosophical-theological framework.
+**Das Prinzip der kosmischen Korrespondenz**. Die hermetische Tradition behandelt die kosmische Struktur als Operation durch spezifische Korrespondenzen zwischen den verschiedenen Ebenen des Seins — der Makrokosmos entsprechend dem Mikrokosmos, das Himmlische entsprechend dem Irdischen, das Göttliche entsprechend dem Menschlichen. Die spezifischen Korrespondenzen sind der maßgebliche Inhalt des hermetischen philosophisch-theologischen Rahmens.
 
-**The Tabula Smaragdina**. The principal text preserving the "as above, so below" phrase is the *Tabula Smaragdina* (Emerald Tablet), traditionally attributed to Hermes Trismegistus. The text is preserved in various medieval Latin and Arabic versions, with the specific phrase "as above, so below" being the most influential single statement of the Hermetic correspondence principle.
+**Die Tabula Smaragdina**. Der maßgebliche Text, der die Wendung „Wie oben, so unten“ bewahrt, ist die *Tabula Smaragdina* (Smaragdtafel), traditionell Hermes Trismegistos zugeschrieben. Der Text ist in verschiedenen mittelalterlichen lateinischen und arabischen Versionen erhalten, wobei die spezifische Wendung „Wie oben, so unten“ die einflussreichste einzelne Aussage des hermetischen Korrespondenzprinzips ist.
 
-**The Renaissance Hermetic tradition**. The Hermetic principle was substantially developed across the Renaissance Hermetic tradition (Ficino, Pico della Mirandola, Bruno, Dee, and others), with substantial implications for the broader Renaissance intellectual development.
+**Die hermetische Tradition der Renaissance**. Das hermetische Prinzip wurde über die hermetische Tradition der Renaissance hinweg substantiell entwickelt (Ficino, Pico della Mirandola, Bruno, Dee und andere), mit substantiellen Implikationen für die umfassendere intellektuelle Entwicklung der Renaissance.
 
-**The structural similarity to the Cosmic Chain**. The Hermetic correspondence principle has substantial structural similarity to the Cosmic Chain framework's recursive-cyclical content. The framework preserves the specific insight that the cosmic structure is recursive — what occurs at one level of the creative hierarchy is repeated at the level it produces — without adopting the broader Hermetic theological-cosmological apparatus.
+**Die strukturelle Ähnlichkeit zur Kosmischen Kette**. Das hermetische Korrespondenzprinzip hat substantielle strukturelle Ähnlichkeit zum rekursiv-zyklischen Inhalt des Rahmens der Kosmischen Kette. Der Rahmen bewahrt die spezifische Einsicht, dass die kosmische Struktur rekursiv ist — was auf einer Ebene der schöpferischen Hierarchie geschieht, wiederholt sich auf der Ebene, die sie hervorbringt — ohne den umfassenderen hermetischen theologisch-kosmologischen Apparat zu übernehmen.
 
-The Lord's Prayer's central petition — "thy will be done in earth, as it is in heaven" — preserves the same cosmic-correspondence insight in specifically Christian-tradition form. The framework reads both the Hermetic principle and the Lord's Prayer petition as preserving fragmentary memory of the same underlying recursive-cyclical structure.
+Die zentrale Bitte des Vaterunsers — „dein Wille geschehe wie im Himmel so auf Erden“ — bewahrt dieselbe Einsicht der kosmischen Korrespondenz in spezifisch christlich-traditioneller Form. Der Rahmen liest sowohl das hermetische Prinzip als auch die Bitte des Vaterunsers als Bewahrung fragmentarischer Erinnerung an dieselbe zugrunde liegende rekursiv-zyklische Struktur.
 
-### Mesoamerican cyclic cosmologies
+### Mesoamerikanische zyklische Kosmologien
 
-The Mesoamerican traditions preserve substantial cyclic-cosmological material with distinctive cultural-religious framings.
+Die mesoamerikanischen Traditionen bewahren substantielles zyklisch-kosmologisches Material mit distinktiven kulturell-religiösen Rahmungen.
 
-**The Aztec five-suns cosmology**. The Aztec tradition preserves the doctrine of five successive cosmic ages (the **five suns**), each ending in catastrophic destruction. The principal sources are the *Codex Chimalpopoca* (with the *Leyenda de los Soles* preserving the most complete Aztec cosmogonic account) and various other Aztec sources. The five suns are: the Jaguar Sun (ended by jaguar attacks), the Wind Sun (ended by hurricanes), the Rain Sun (ended by fiery rain), the Water Sun (ended by flood), and the present Movement Sun (projected to end in earthquakes).
+**Die aztekische Fünf-Sonnen-Kosmologie**. Die aztekische Tradition bewahrt die Lehre von fünf aufeinanderfolgenden kosmischen Zeitaltern (den **fünf Sonnen**), von denen jedes in katastrophaler Zerstörung endet. Die maßgeblichen Quellen sind der *Codex Chimalpopoca* (mit der *Leyenda de los Soles*, die den vollständigsten aztekischen kosmogonischen Bericht bewahrt) und verschiedene andere aztekische Quellen. Die fünf Sonnen sind: die Jaguar-Sonne (durch Jaguarangriffe beendet), die Wind-Sonne (durch Hurrikane beendet), die Regen-Sonne (durch Feuerregen beendet), die Wasser-Sonne (durch Flut beendet) und die gegenwärtige Bewegungs-Sonne (projiziert, in Erdbeben zu enden).
 
-**The Maya Long Count cosmology**. The Maya Long Count calendar preserves substantial cyclic-temporal content, with the principal cycles including the 360-day *tun*, the 7,200-day *katun*, the 144,000-day *baktun*, and the broader Long Count cycles. The Maya cosmology integrates the cyclic-temporal framework with substantial cosmological-religious content.
+**Die Maya-Long-Count-Kosmologie**. Der Maya-Long-Count-Kalender bewahrt substantiellen zyklisch-temporalen Inhalt, wobei die maßgeblichen Zyklen den 360-tägigen *tun*, den 7.200-tägigen *katun*, den 144.000-tägigen *baktun* und die umfassenderen Long-Count-Zyklen umfassen. Die Maya-Kosmologie integriert den zyklisch-temporalen Rahmen mit substantiellem kosmologisch-religiösem Inhalt.
 
-**The cosmic-cycles broader pattern**. Various Mesoamerican traditions preserve cyclic-cosmological material with specific cultural-religious framings. The detailed treatment of specific Mesoamerican cosmologies lives in the [Antediluvian](../antediluvian/) and [Great Flood](../great-flood/) entries' comparative observations.
+**Das umfassendere Muster der kosmischen Zyklen**. Verschiedene mesoamerikanische Traditionen bewahren zyklisch-kosmologisches Material mit spezifischen kulturell-religiösen Rahmungen. Die ausführliche Behandlung spezifischer mesoamerikanischer Kosmologien findet sich in den vergleichenden Beobachtungen der Einträge [Antediluvianisch](../antediluvian/) und [Große Flut](../great-flood/).
 
-The framework reads the Mesoamerican cyclic-cosmologies as preserving substantial parallel content to the broader cyclic-cosmology framework.
+Der Rahmen liest die mesoamerikanischen zyklischen Kosmologien als Bewahrung substantiellen Parallelinhalts zum umfassenderen Rahmen der zyklischen Kosmologie.{{ cite(id="carrasco-religions-mesoamerica", text="[23]", title="Carrasco, *Religions of Mesoamerica* — die Fünf-Sonnen-Kosmologie der aufeinanderfolgenden Welten") }}{{ cite(id="tedlock-popol-vuh", text="[24]", title="Tedlock (übers.), *Popol Vuh* (1996)") }}
 
-### Norse cyclic cosmology
+### Nordische zyklische Kosmologie
 
-The Norse tradition preserves substantial cyclic-cosmological material in the **Ragnarök-and-renewal** framework. The principal features:
+Die nordische Tradition bewahrt substantielles zyklisch-kosmologisches Material im Rahmen von **Ragnarök und Erneuerung**. Die maßgeblichen Merkmale:
 
-**Ragnarök**. The Norse tradition preserves the prophecy of Ragnarök — the specific cosmic catastrophe in which the principal Aesir gods die in battle with their cosmic adversaries (Loki, the Fenrir wolf, the Midgard serpent, the giants, others). The Ragnarök narrative is preserved principally in the *Poetic Edda*'s *Völuspá* and Snorri Sturluson's *Prose Edda*'s *Gylfaginning*.
+**Ragnarök**. Die nordische Tradition bewahrt die Prophezeiung von Ragnarök — der spezifischen kosmischen Katastrophe, in der die maßgeblichen Asen-Götter im Kampf mit ihren kosmischen Widersachern sterben (Loki, der Fenriswolf, die Midgardschlange, die Riesen und andere). Die Ragnarök-Erzählung ist hauptsächlich in der *Völuspá* der *Lieder-Edda* und im *Gylfaginning* von Snorri Sturlusons *Prosa-Edda* bewahrt.{{ cite(id="poetic-edda", text="[25]", title="*Die Lieder-Edda* (übers. Larrington) — Völuspá über Ragnarök und Erneuerung") }}{{ cite(id="lindow-norse-mythology", text="[26]", title="Lindow, *Norse Mythology* (2001)") }}
 
-**The post-Ragnarök renewal**. After Ragnarök, the Norse tradition preserves substantial material on the post-catastrophic renewal: a new earth emerges from the sea, with various surviving deities (Vidar, Vali, Modi, Magni) and various surviving humans (Líf and Lífþrasir, who survived in the Hoddmímis holt) repopulating the renewed cosmos.
+**Die Erneuerung nach Ragnarök**. Nach Ragnarök bewahrt die nordische Tradition substantielles Material zur post-katastrophalen Erneuerung: Eine neue Erde steigt aus dem Meer empor, wobei verschiedene überlebende Gottheiten (Vidar, Vali, Modi, Magni) und verschiedene überlebende Menschen (Líf und Lífþrasir, die im Hoddmímis holt überlebten) den erneuerten Kosmos wiederbevölkern.
 
-**The cyclic implications**. The Norse Ragnarök-and-renewal framework has substantial cyclic-cosmological implications, with various scholarly readings treating the broader Norse cosmology as cyclic rather than linear-eschatological.
+**Die zyklischen Implikationen**. Der nordische Rahmen von Ragnarök und Erneuerung hat substantielle zyklisch-kosmologische Implikationen, wobei verschiedene wissenschaftliche Lesarten die umfassendere nordische Kosmologie als zyklisch statt linear-eschatologisch behandeln.
 
-The framework reads the Norse cyclic-cosmology tradition as preserving substantial parallel content to the broader cyclic-cosmology framework, with the specific Norse framing reflecting the tradition's distinctive cultural content.
+Der Rahmen liest die nordische zyklisch-kosmologische Tradition als Bewahrung substantiellen Parallelinhalts zum umfassenderen Rahmen der zyklischen Kosmologie, wobei die spezifische nordische Rahmung den distinktiven kulturellen Inhalt der Tradition widerspiegelt.
 
-### The convergence
+### Die Konvergenz
 
-The corpus's working position on the comparative-cyclic-cosmology question is that the global recurrence of cyclic-cosmological frameworks across cultural-religious traditions is meaningful as evidence of a genuine underlying reality. The mainstream scholarly explanation — which generally treats the various cyclic cosmologies as developing through internal religious-philosophical processes combined with cultural diffusion — is read by the corpus as substantially insufficient to account for the breadth and the specific structural parallels (the recursive-cyclical pattern, the eternal-recurrence implications, the multiple-cosmic-cycles content) that appear consistently across geographically and chronologically separated traditions.
+Die Arbeitsposition des Korpus zur Frage der vergleichend-zyklischen Kosmologie ist, dass die globale Wiederkehr zyklisch-kosmologischer Rahmen über kulturell-religiöse Traditionen hinweg als Beleg einer echten zugrunde liegenden Wirklichkeit bedeutsam ist.{{ footnote(id="6") }}{{ cite(id="hannah-greek-roman-calendars", text="[27]", title="Hannah, *Greek and Roman Calendars* (2005) — klassische zyklische Zeit und das Große Jahr") }} Die etablierte wissenschaftliche Erklärung — die die verschiedenen zyklischen Kosmologien im Allgemeinen als durch interne religiös-philosophische Prozesse in Verbindung mit kultureller Diffusion entstanden behandelt — wird vom Korpus als substantiell unzureichend gelesen, um die Breite und die spezifischen strukturellen Parallelen (das rekursiv-zyklische Muster, die Implikationen der ewigen Wiederkehr, den Inhalt der mehreren kosmischen Zyklen) zu erklären, die konsistent über geografisch und chronologisch getrennte Traditionen hinweg erscheinen.
 
-The framework's specific reading is that the global cyclic-cosmology pattern preserves common memory of the broader cosmic situation that the Cosmic Chain framework articulates, with each cultural-religious tradition preserving the memory in its own terms and with its own specific details reflecting its own perspective and its own subsequent transmission history. The Hindu and Buddhist traditions preserve the memory most directly relative to the framework's specific cyclic-recursive content; the Jain *anadi* tradition preserves the specific "no first creator" position; the Stoic tradition preserves the eternal-recurrence content within the Western philosophical context; the Hermetic tradition preserves the cosmic-correspondence principle; the Mesoamerican and Norse traditions preserve cyclic-cosmological material within their respective cultural channels.
+Die spezifische Lesart des Rahmens ist, dass das globale Muster der zyklischen Kosmologie gemeinsame Erinnerung an die umfassendere kosmische Situation bewahrt, die der Rahmen der Kosmischen Kette artikuliert, wobei jede kulturell-religiöse Tradition die Erinnerung in ihren eigenen Begriffen bewahrt und ihre eigenen spezifischen Details ihre eigene Perspektive und ihre eigene nachfolgende Überlieferungsgeschichte widerspiegeln. Die hinduistische und buddhistische Tradition bewahren die Erinnerung am direktesten in Bezug auf den spezifischen zyklisch-rekursiven Inhalt des Rahmens; die jainistische *anadi*-Tradition bewahrt die spezifische Position „kein erster Schöpfer“; die stoische Tradition bewahrt den Inhalt der ewigen Wiederkehr innerhalb des westlichen philosophischen Kontexts; die hermetische Tradition bewahrt das Prinzip der kosmischen Korrespondenz; die mesoamerikanischen und nordischen Traditionen bewahren zyklisch-kosmologisches Material innerhalb ihrer jeweiligen kulturellen Kanäle.
 
-The corpus does not require rejecting all of the mainstream scholarly framework. Cultural diffusion certainly occurred across the historical period, and the cyclic-cosmologies across cultures show both common structural features (preserving the original framework) and culturally specific elaborations (reflecting the diffusion and local development). What the corpus's framework adds is the underlying historical-cosmic situation that gave rise to the structural commonalities — a situation that the mainstream framework, lacking the corpus's broader cosmological framework, has had no way to identify and has therefore had to attribute to combinations of independent religious-philosophical development and cultural diffusion.
-
-## See also
-
-- [Cosmic Competition](../cosmic-competition/)
-- [Doubled Signature](../doubled-signature/)
-- [Embassy](../embassy/)
-- [Apocalypse](../apocalypse/)
-- [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Yahweh](../yahweh/)
-- [Jesus](../jesus/)
-- [Raël](../rael/)
-- [Prophet](../prophet/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Genesis](../genesis/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Atomic Threshold](../atomic-threshold/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*. The "Neither God nor Soul" section is the principal source for the framework's specific Cosmic Chain content.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-Bruno, Giordano. *De l'infinito universo et mondi* (1584). English: *On the Infinite Universe and Worlds*. Trans. Dorothea Waley Singer. In *Giordano Bruno: His Life and Thought*. Henry Schuman, 1950.
-
-Yates, Frances A. *Giordano Bruno and the Hermetic Tradition*. University of Chicago Press, 1964.
-
-Kant, Immanuel. *Critique of Pure Reason* (1781). Trans. Norman Kemp Smith. St. Martin's, 1929.
-
-Hawking, Stephen, and Roger Penrose. *The Nature of Space and Time*. Princeton University Press, 1996.
-
-Linde, Andrei. *Inflation and Quantum Cosmology*. Academic Press, 1990.
-
-Tegmark, Max. *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality*. Knopf, 2014.
-
-Vilenkin, Alexander. *Many Worlds in One: The Search for Other Universes*. Hill and Wang, 2006.
-
-Steinhardt, Paul J., and Neil Turok. *Endless Universe: Beyond the Big Bang*. Doubleday, 2007.
-
-Penrose, Roger. *Cycles of Time: An Extraordinary New View of the Universe*. Knopf, 2011.
-
-Hoyle, Fred. "A New Model for the Expanding Universe." *Monthly Notices of the Royal Astronomical Society* 108 (1948): 372–382.
-
-Penzias, Arno, and Robert Wilson. "A Measurement of Excess Antenna Temperature at 4080 Mc/s." *Astrophysical Journal* 142 (1965): 419–421.
-
-Crick, Francis, and Leslie Orgel. "Directed Panspermia." *Icarus* 19, no. 3 (1973): 341–346.
-
-Crick, Francis. *Life Itself: Its Origin and Nature*. Simon and Schuster, 1981.
-
-Arrhenius, Svante. *Worlds in the Making: The Evolution of the Universe*. Trans. H. Borns. Harper, 1908.
-
-Hoyle, Fred, and Chandra Wickramasinghe. *Lifecloud: The Origin of Life in the Universe*. Harper and Row, 1978.
-
-Nietzsche, Friedrich. *Thus Spoke Zarathustra* (1883–1885). Trans. Walter Kaufmann. In *The Portable Nietzsche*. Viking, 1954.
-
-Nietzsche, Friedrich. *The Will to Power* (posthumous, 1901). Trans. Walter Kaufmann and R. J. Hollingdale. Vintage, 1968.
-
-Long, A. A., and D. N. Sedley. *The Hellenistic Philosophers*. 2 vols. Cambridge University Press, 1987.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-*The Bhagavad Gita*. Trans. Eknath Easwaran. Nilgiri Press, 2007.
-
-Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. Routledge, 2nd ed., 2008.
-
-Buswell, Robert E., Jr., and Donald S. Lopez Jr. *The Princeton Dictionary of Buddhism*. Princeton University Press, 2014.
-
-Dundas, Paul. *The Jains*. Routledge, 2nd ed., 2002.
-
-Jaini, Padmanabh S. *The Jaina Path of Purification*. University of California Press, 1979.
-
-Hannah, Robert. *Greek and Roman Calendars: Constructions of Time in the Classical World*. Duckworth, 2005.
-
-*The Emerald Tablet of Hermes Trismegistus*. Various editions; principal English-language treatments in: Faivre, Antoine. *The Eternal Hermes*. Phanes Press, 1995.
-
-Tedlock, Dennis, trans. *Popol Vuh: The Mayan Book of the Dawn of Life*. Touchstone, 1996.
-
-Carrasco, Davíd. *Religions of Mesoamerica*. Waveland Press, 2nd ed., 2014.
-
-León-Portilla, Miguel. *Aztec Thought and Culture: A Study of the Ancient Nahuatl Mind*. University of Oklahoma Press, 1963.
-
-*The Poetic Edda*. Trans. Carolyne Larrington. Oxford University Press, rev. ed., 2014.
-
-Sturluson, Snorri. *The Prose Edda*. Trans. Jesse L. Byock. Penguin Classics, 2005.
-
-Lindow, John. *Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs*. Oxford University Press, 2001.
-
-von Däniken, Erich. *Chariots of the Gods?* Trans. Michael Heron. Putnam, 1968.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-"Multiverse." *Encyclopaedia Britannica*. <https://www.britannica.com/science/multiverse>
-
-"Big Bang model." *Encyclopaedia Britannica*. <https://www.britannica.com/science/big-bang-model>
-
-"Cyclic cosmology." *Wikipedia*. <https://en.wikipedia.org/wiki/Cyclic_model>
-
-"Panspermia." *Encyclopaedia Britannica*. <https://www.britannica.com/science/panspermia>
-
-"Eternal recurrence." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/eternal-return>
+Der Korpus erfordert nicht die Verwerfung des gesamten etablierten wissenschaftlichen Rahmens. Kulturelle Diffusion fand über den historischen Zeitraum hinweg gewiss statt, und die zyklischen Kosmologien über die Kulturen hinweg zeigen sowohl gemeinsame strukturelle Merkmale (die den ursprünglichen Rahmen bewahren) als auch kulturell spezifische Ausarbeitungen (die die Diffusion und lokale Entwicklung widerspiegeln). Was der Rahmen des Korpus hinzufügt, ist die zugrunde liegende historisch-kosmische Situation, die die strukturellen Gemeinsamkeiten hervorbrachte — eine Situation, die der etablierte Rahmen, dem der umfassendere kosmologische Rahmen des Korpus fehlt, nicht zu identifizieren vermochte und die er daher Kombinationen unabhängiger religiös-philosophischer Entwicklung und kultureller Diffusion zuschreiben musste.

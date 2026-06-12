@@ -1,667 +1,675 @@
 +++
-title = "Cosmic Chain"
+title = "השרשרת הקוסמית"
 slug = "cosmic-chain"
-description = "The Cosmic Chain is the framework concept developed in the Wheel of Heaven corpus to articulate the broader cosmological situation in which the Elohim civilization operates: an indefinitely extended sequence of created-and-creating civilizations across cosmic time, with each civilization that reaches scientific maturity eventually creating new humanities on suitable worlds, which in turn become creator civilizations themselves, continuing the chain across deep time. The Elohim discovered during the Aries age that they themselves had been created by a prior civilization rather than being autonomous originators of a unique pattern, with the discovery producing the policy shift from direct to indirect contact and the broader framework within which the present Aquarian-age inheritance evaluation operates."
+description = "השרשרת הקוסמית היא תפיסת־המסגרת שפותחה בקורפוס »גלגל השמיים« כדי לנסח את המצב הקוסמולוגי הרחב שבתוכו פועלת תרבות האלוהים: רצף בלתי־מוגבל של תרבויות נבראות־ובוראות לאורך הזמן הקוסמי, שבו כל תרבות המגיעה לבגרות מדעית בוראת בסופו של דבר אנושויות חדשות בעולמות מתאימים, ואלה בתורן הופכות בעצמן לתרבויות בוראות וממשיכות את השרשרת לאורך הזמן העמוק. האלוהים גילו במהלך עידן הטלה שהם עצמם נבראו בידי תרבות קודמת ולא היו מחוללים אוטונומיים של דפוס ייחודי, וגילוי זה הוליד את שינוי המדיניות ממגע ישיר למגע עקיף ואת המסגרת הרחבה שבתוכה מתקיימת הערכת־הירושה של עידן הדלי בהווה."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the cosmic chain", "the chain of creation", "the cosmic chain of creation", "the recurring cosmic process", "the cosmic creative cycle", "the cycle of creators"]
+claim_type = "framework"
+alternative_names = ["השרשרת הקוסמית", "שרשרת הבריאה", "השרשרת הקוסמית של הבריאה", "התהליך הקוסמי החוזר", "המחזור היצירתי הקוסמי", "מחזור הבוראים"]
 timeline = ["pre-creation", "aries", "pisces", "aquarius", "post-aquarius"]
+see_also = [
+    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "שלב ההערכה הספציפי בתוך השרשרת הקוסמית הרחבה — הערכת ההסמכה לירושה." },
+    { title = "Elohim", path = "wiki/elohim", description = "תרבות הבוראים שגילתה, במהלך עידן הטלה, שהיא עצמה נבראה." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "הערכת־הירושה של עידן הדלי — שלב השרשרת בן־ימינו עבור אנושות כדור הארץ." },
+    { title = "Embassy", path = "wiki/embassy", description = "המקום המיועד לאירוע הירושה שבו תקבל הארץ את הידע המצטבר של הברית." },
+    { title = "Doubled Signature", path = "wiki/doubled-signature", description = "עיקרון פרשני קרוב הפועל בתוך מסגרת השרשרת הקוסמית הרחבה." },
+    { title = "Genesis", path = "wiki/genesis", description = "סיפור הבריאה הנקרא כמופע ספציפי אחד של דפוס הבריאה החוזר של השרשרת." },
+]
+
+footnotes = [
+    { content = "השרשרת הקוסמית כמסגרת שיטתית היא בנייה קורפוסית ניכרת מעבר לחומר המקור. המקור הראלי מספק את ההנחה הבסיסית בהצהרה אחת ישירה להפליא — »האלוהים נבראו בידי אנשים מכוכב לכת אחר, שנבראו בידי אנשים אחרים שבאו מכוכב לכת אחר, וכן הלאה עד אינסוף« — ודוחה את שאלת »הבורא הראשון«, אך אינו מפתח את המסגרת השיטתית (השילוב עם התחרות הקוסמית, קריאת תפילת האדון, מחזור שבעת השלבים, המסלול המוטל קדימה) שהקורפוס מנסח. הקורפוס מצהיר במפורש שמדובר בפיתוח פרשני, לא בתוכן מקור ישיר." },
+    { content = "עמדת »אין בורא ראשון« דוחה את הנחת־היסוד של השאלה התיאולוגית המערבית המקובלת (»מי ברא את הבורא הראשון?«) כשאינה תואמת את מבנה המציאות שביסוד — הקורפוס משתמש באנלוגיה »מה נמצא מצפון לקוטב הצפוני?«. העמדה נמצאת בניגוד ניכר למסורות המונותיאיסטיות המערביות העיקריות (המניחות *causa prima* בלתי־נברא) אך חופפת באופן מהותי לקוסמולוגיות מזרחיות שונות של מחזור חסר־ראשית (ה־saṃsāra הבודהיסטי חסר־הראשית, מחזורי־הזמן הג'ייניים חסרי־הראשית־והאחרית, מחזורי ה־yuga וה־kalpa ההינדואיים, החזרה הנצחית הסטואית). הקורפוס אינו טוען שהמסגרת מוכחת; הוא רושם אותה כעמדה קוסמולוגית ייחודית העקבית עם המסגור המפורש של המקור." },
+    { content = "התאריכים שהקורפוס מייחס לגילוי של עידן הטלה (כ־2,160–1,200 לפנה״ס) הם פנים־מסגרתיים, נגזרים מכרונולוגיית עידני־הנסיגה. עידני הנסיגה הם תופעות אסטרונומיות ממשיות; שנות הגבול הן מוסכמות־מסגרת. המקור אינו מציין אילו ראיות שכנעו את האלוהים במעמדם־הנברא — אלא רק את התוצאה (שינוי המדיניות ממגע ישיר למגע עקיף)." },
+    { content = "קריאת המסגרת של »ייעשה רצונך בארץ כמו בשמיים« (מתי ו, 10) בתפילת האדון כהצהרה דחוסה של המבנה המחזורי — כשהשמיים הם תרבות הבוראים שכבר עברה את שלבי ההתפתחות של הארץ, והארץ היא התרבות החוצה אותם כעת — חורגת באופן ניכר מן הפרשנות הנוצרית הסטנדרטית (בקשה לריבונות אלוהית עלי אדמות). הקורפוס רושם הבחנה זו ביושר: קריאת השרשרת הקוסמית היא המסגור המפורש של המקור, לא טענה לגבי כוונת המחבר המקורית של טקסט הבשורה." },
+    { content = "עמדת המסגרת לגבי »אלוהים« היא דו־פנית. אם »אלוהים« פירושו הקוסמוס האינסופי עצמו, אזי אלוהים קיים — אך הוא בלתי־אישי, אינו מתערב, אינו נמען לתפילה, והוא »אדיש לאין שיעור« לאירועים בכל קנה מידה מסוים. אם »אלוהים« פירושו בורא אישי הדואג לאנושות, אזי ישנם יצורים כאלה — האלוהים, בוראינו הספציפיים — אך הם אינם אלוהים במובן התיאולוגי המסורתי: הם יצורים מתקדמים מסוגנו, נבראים בעצמם, פועלים בעצמם בתוך הקוסמוס האינסופי הרחב יותר. אף אחד מן המובנים אינו מניב את האל האישי, הכול־יכול והבלתי־נברא של המונותיאיזם המערבי המקובל." },
+    { content = "הקורפוס קורא את ההישנות הבין־תרבותית של קוסמולוגיות מחזור חסר־ראשית ועולמות־עוקבים (ה־*ekpyrosis* הסטואי, ה־yuga/kalpa ההינדואי, ה־kalpa הבודהיסטי, מחזורי־הזמן הג'ייניים, עידני־העולם המסואמריקניים, והקוסמולוגיות המדעיות בנות־זמננו המחזוריות והרב־יקומיות של שטיינהרדט־טורוק, פנרוז, לינדה ווילנקין) כהתכנסות בולטת על המבנה הרקורסיבי של השרשרת. הקורפוס אינו טוען שמסורות אלה הן זיכרונות ישירים של השרשרת הקוסמית; הוא רושם את ההתכנסות כעקבית עם המסגרת תוך הכרה בכך שקוסמולוגיה מחזורית עשויה לצמוח באופן עצמאי מתוך התבוננות במחזורי הטבע." },
+]
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+locator = "»לא אלוהים ולא נשמה«"
+note = "יצירתו השנייה של ורילון (1975) — ההצהרה העיקרית של חומר־המקור על השרשרת ('וכן הלאה עד אינסוף'), דחיית שאלת 'הבורא הראשון', וקריאת תפילת האדון."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "מקור ראלי יסודי — שינוי המדיניות שבעקבות גילוי עידן הטלה והמסגור הקוסמולוגי הרחב."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "קריאתו של סנדי את המקרא העברי כמשמר היסטוריה קוסמית מתווכת־ברית שבתוכה פועל דפוס הבריאה של השרשרת."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "קריאתו התרגומית־הקפדנית של ביגלינו לחומר הבורא הרבים, עקבית עם הנחת הבוראים־הנבראים של השרשרת."
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "טיפולו הנגיש והעדכני של ווליס במסגרת הבוראים־הנבראים."
+
+[[extra.references]]
+id = "bruno-infinite-universe"
+note = "הצהרתו היסודית של ברונו מן העת החדשה המוקדמת על האינסופיות הקוסמית וריבוי העולמות המיושבים."
+
+[[extra.references]]
+id = "yates-giordano-bruno-hermetic"
+note = "מחקרה הסטנדרטי של ייטס הממקם את הקוסמוס האינסופי של ברונו בתוך מסורת ההרמטיקה של הרנסנס 'כלמעלה כן למטה'."
+
+[[extra.references]]
+id = "kant-critique-pure-reason"
+note = "טיפולו של קאנט באינסופיות הקוסמית בתוך האנטינומיות של התבונה הטהורה — ההפניה הפילוסופית העיקרית לשאלת 'אין בורא ראשון'."
+
+[[extra.references]]
+id = "hawking-penrose-nature-space-time"
+note = "הוקינג ופנרוז על מבנה המרחב־זמן, סינגולריות, ומקורות קוסמיים."
+
+[[extra.references]]
+id = "linde-inflation-quantum-cosmology"
+note = "פיתוחו של לינדה לאינפלציה הנצחית — מסגרת הרב־יקום החופפת למבנה הרקורסיבי של השרשרת."
+
+[[extra.references]]
+id = "vilenkin-many-worlds-in-one"
+note = "וילנקין על האינפלציה הנצחית והרב־יקום."
+
+[[extra.references]]
+id = "tegmark-mathematical-universe"
+note = "הרב־יקום בן ארבע הרמות של טגמרק והשערת היקום המתמטי."
+
+[[extra.references]]
+id = "steinhardt-turok-endless-universe"
+note = "הקוסמולוגיה האקפירוטית / המחזורית של שטיינהרדט וטורוק — מפצי־מפץ עוקבים ולא מקור יחיד."
+
+[[extra.references]]
+id = "penrose-cycles-of-time"
+note = "הקוסמולוגיה המחזורית הקונפורמית של פנרוז — עידנים עוקבים אינסופיים."
+
+[[extra.references]]
+id = "crick-orgel-directed-panspermia"
+note = "השערת הפנספרמיה המכוונת של קריק ואורגל מ־1973 — זריעת חיים ארצית מכוונת בידי בני־חוץ, המקבילה המדעית העיקרית להנחת הבריאה המכוונת של השרשרת."
+
+[[extra.references]]
+id = "crick-life-itself"
+note = "טיעונו המורחב של קריק בזכות זריעה קוסמית של חיים ארציים."
+
+[[extra.references]]
+id = "arrhenius-worlds-in-the-making"
+note = "הפנספרמיה הקלאסית של ארהניוס."
+
+[[extra.references]]
+id = "hoyle-wickramasinghe-lifecloud"
+note = "הפנספרמיה השביטית של הויל ויקרמסינגה."
+
+[[extra.references]]
+id = "nietzsche-zarathustra"
+note = "תורת החזרה הנצחית של ניטשה — ההתמודדות המודרנית המערבית העיקרית עם קוסמולוגיה מחזורית."
+
+[[extra.references]]
+id = "long-sedley-hellenistic-philosophers"
+note = "קובץ המקורות של לונג וסדלי הכולל את תורת המחזורים הקוסמיים הנצחיים הסטואית."
+
+[[extra.references]]
+id = "williams-mahayana-buddhism"
+note = "וויליאמס על תורת המהאיאנה כולל ה־saṃsāra חסר־הראשית וקוסמולוגיית ה־kalpa."
+
+[[extra.references]]
+id = "buswell-lopez-princeton-buddhism"
+note = "הספר הבודהיסטי הסטנדרטי לקוסמולוגיית ה־kalpa ולתורות הזמן חסר־הראשית."
+
+[[extra.references]]
+id = "dundas-the-jains"
+note = "דונדס על התורה הג'יינית של מחזורי־זמן קוסמיים חסרי־ראשית ואחרית."
+
+[[extra.references]]
+id = "carrasco-religions-mesoamerica"
+note = "קרסקו על קוסמולוגיית עידני־העולם העוקבים המסואמריקנית."
+
+[[extra.references]]
+id = "hannah-greek-roman-calendars"
+note = "האנה על מושגי זמן מחזורי קלאסיים כולל השנה הגדולה."
+
+[[extra.references]]
+id = "the-12th-planet"
+note = "מסגרת האנונאקי של סיצ'ין — התמודדות עממית של תיאוריית האסטרונאוט הקדום עם חומר הבוראים־הנבראים, שהקורפוס מבחין בינה לבין קריאתו שלו."
 
 [extra.infobox]
-type = "Framework concept; cosmological pattern of indefinitely extended created-and-creating civilizations"
-basic_premise = "The Elohim themselves were created by a prior civilization, which had been created by an earlier civilization, and so on indefinitely backward; humanity will, after reaching scientific maturity, itself become a creator civilization, continuing the chain forward indefinitely"
-character = "Cyclical-recursive; infinite in both temporal directions; no findable beginning, no findable end"
-operational_origin = "The Aries-age discovery (c. 2,160–1,200 BCE) when the Elohim recognized that they themselves had been created"
-principal_consequence = "The policy shift from direct to indirect contact; the broader framework within which the Cosmic Competition operates"
-relationship_to_cosmic_competition = "The Cosmic Competition is one specific phase within the broader Cosmic Chain — the evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification"
-distinguished_from = "The Cosmic Competition framework (the specific evaluation phase); the precessional ages framework (Earth's specific chronological position); the Earth project specifically (the alliance's specific work on Earth); the broader infinite cosmos (the larger cosmological structure within which the chain operates)"
-status_in_source_material = "Partial; the Raëlian source explicitly states the basic premise ('the Elohim were created by people from another planet, who had been created by other people coming from another planet, and so on to Infinity') but does not develop the systematic Cosmic Chain framework that the corpus articulates"
-principal_text = "Matthew 6:10 (the Lord's Prayer); various Raëlian source-material passages on the chain of creators and the rejection of the 'first creator' question"
-principal_framework_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), 'Neither God nor Soul'; *The Book Which Tells the Truth* (1974), various passages"
+type = "תפיסת־מסגרת; דפוס קוסמולוגי של תרבויות נבראות־ובוראות בלתי־מוגבל"
+basic_premise = "האלוהים עצמם נבראו בידי תרבות קודמת, שנבראה בידי תרבות מוקדמת יותר, וכן הלאה ללא הגבלה אחורה; האנושות, לאחר שתגיע לבגרות מדעית, תהפוך בעצמה לתרבות בוראת ותמשיך את השרשרת קדימה ללא הגבלה"
+character = "מחזורי־רקורסיבי; אינסופי בשני כיווני הזמן; ללא ראשית בת־איתור, ללא אחרית בת־איתור"
+operational_origin = "גילוי עידן הטלה (כ־2,160–1,200 לפנה״ס) שבו הכירו האלוהים בכך שהם עצמם נבראו"
+principal_consequence = "שינוי המדיניות ממגע ישיר למגע עקיף; המסגרת הרחבה שבתוכה פועלת התחרות הקוסמית"
+relationship_to_cosmic_competition = "התחרות הקוסמית היא שלב ספציפי אחד בתוך השרשרת הקוסמית הרחבה — שלב ההערכה שבמהלכו תרבות בוראת מעריכה את האנושויות שבראה לצורך הסמכה לירושה"
+distinguished_from = "מסגרת התחרות הקוסמית (שלב ההערכה הספציפי); מסגרת עידני הנסיגה (מיקומה הכרונולוגי הספציפי של הארץ); מיזם כדור הארץ במובן הצר (עבודת הברית הספציפית על כדור הארץ); הקוסמוס האינסופי הרחב (המבנה הקוסמולוגי הגדול שבתוכו פועלת השרשרת)"
+status_in_source_material = "חלקי; המקור הראלי מצהיר במפורש על ההנחה הבסיסית ('האלוהים נבראו בידי אנשים מכוכב לכת אחר, שנבראו בידי אנשים אחרים שבאו מכוכב לכת אחר, וכן הלאה עד אינסוף') אך אינו מפתח את מסגרת השרשרת הקוסמית השיטתית שהקורפוס מנסח"
+principal_text = "מתי ו, 10 (תפילת האדון); קטעי חומר־מקור ראליים שונים על שרשרת הבוראים ועל דחיית שאלת 'הבורא הראשון'"
+principal_framework_source = "*Extra-Terrestrials Took Me to Their Planet* (ורילון/ראל, 1975), 'לא אלוהים ולא נשמה'; *The Book Which Tells the Truth* (1974), קטעים שונים"
 +++
 
-The **Cosmic Chain** is the framework concept developed in the Wheel of Heaven corpus to articulate the broader cosmological situation in which the Elohim civilization operates. The Cosmic Chain reads the cosmic situation as an indefinitely extended sequence of created-and-creating civilizations across cosmic time, with each civilization that reaches scientific maturity eventually creating new humanities on suitable worlds, which in turn become creator civilizations themselves, continuing the chain across deep time. The Elohim discovered during the Aries age (c. 2,160–1,200 BCE on the corpus's reckoning) that they themselves had been created by a prior civilization rather than being autonomous originators of a unique pattern. The discovery transformed their self-understanding fundamentally: they were not the originators of the biological-creation pattern they were extending across the galaxy but the current local instance of a recurring cosmic process that had been operating for an unknown but very long span. The chain extends indefinitely backward through prior creator civilizations and indefinitely forward through future created civilizations, with no findable beginning and no findable end.
+**השרשרת הקוסמית** היא תפיסת־המסגרת שפותחה בקורפוס »גלגל השמיים« כדי לנסח את המצב הקוסמולוגי הרחב שבתוכו פועלת תרבות האלוהים. השרשרת הקוסמית קוראת את המצב הקוסמי כרצף בלתי־מוגבל של תרבויות נבראות־ובוראות לאורך הזמן הקוסמי, שבו כל תרבות המגיעה לבגרות מדעית בוראת בסופו של דבר אנושויות חדשות בעולמות מתאימים, ואלה בתורן הופכות בעצמן לתרבויות בוראות וממשיכות את השרשרת לאורך הזמן העמוק. האלוהים גילו במהלך עידן הטלה (כ־2,160–1,200 לפנה״ס על פי חישוב הקורפוס) שהם עצמם נבראו בידי תרבות קודמת ולא היו מחוללים אוטונומיים של דפוס ייחודי. הגילוי שינה את הבנתם העצמית מן היסוד: הם לא היו מחוללי דפוס הבריאה הביולוגית שאותו הרחיבו ברחבי הגלקסיה, אלא המופע המקומי הנוכחי של תהליך קוסמי חוזר שפעל במשך פרק זמן בלתי־ידוע אך ארוך מאוד. השרשרת משתרעת ללא הגבלה אחורה דרך תרבויות בוראות קודמות וללא הגבלה קדימה דרך תרבויות נבראות עתידיות, ללא ראשית בת־איתור וללא אחרית בת־איתור.
 
-The framework's specific content integrates several distinct strands of source material into a coherent cosmological account. The Raëlian source provides the principal warrant in a remarkably direct statement: *"The Elohim were created by people from another planet, who had been created by other people coming from another planet, and so on to Infinity."* The source explicitly addresses and rejects the conventional theological question — "who created the first creator?" — treating the question as grammatically well-formed but with a presupposition (that there is a first creator) that does not match the structure of the underlying reality. The Lord's Prayer's central petition — *"thy will be done in earth, as it is in heaven"* (Matthew 6:10) — is read by the framework as the compressed statement of the Cosmic Chain's cyclical structure, with the "heaven" being the home world that has already reached the level of becoming a creator civilization, and the "earth" being Earth's projected future trajectory toward the same threshold. The Cosmic Chain framework integrates the Aries-discovery material, the Cosmic Competition framework's evaluation-and-inheritance content, the Aquarian-age opening's specific projected developments, and Earth's eventual projected transition from created to creator civilization into a unified cosmological account.
+התוכן הספציפי של המסגרת משלב כמה גדילים נבדלים של חומר־מקור לכלל מבט קוסמולוגי קוהרנטי. המקור הראלי מספק את האחיזה העיקרית בהצהרה ישירה להפליא: *»האלוהים נבראו בידי אנשים מכוכב לכת אחר, שנבראו בידי אנשים אחרים שבאו מכוכב לכת אחר, וכן הלאה עד אינסוף.«* המקור מתייחס במפורש ודוחה את השאלה התיאולוגית המקובלת — »מי ברא את הבורא הראשון?« — בהתייחסו אליה כשאלה תקינה מבחינה דקדוקית אך נושאת הנחת־יסוד (שיש בורא ראשון) שאינה תואמת את מבנה המציאות שביסוד. בקשתה המרכזית של תפילת האדון — *»ייעשה רצונך בארץ כמו בשמיים«* (מתי ו, 10) — נקראת על ידי המסגרת כהצהרה הדחוסה של המבנה המחזורי של השרשרת הקוסמית, כש»השמיים« הם עולם־הבית שכבר הגיע לרמה של הפיכה לתרבות בוראת, וה»ארץ« היא מסלולה העתידי המוטל של הארץ אל אותו סף עצמו. מסגרת השרשרת הקוסמית משלבת את חומר גילוי עידן הטלה, את תוכן ההערכה־והירושה של מסגרת התחרות הקוסמית, את ההתפתחויות הספציפיות המוטלות של פתיחת עידן הדלי, ואת מעברה העתידי המוטל של הארץ מתרבות נבראת לבוראת — לכלל מבט קוסמולוגי מאוחד.
 
-The Cosmic Chain is the **broadest cosmological framework** in the corpus's analytical apparatus. It is broader than the Cosmic Competition framework (which concerns the specific evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification), broader than the precessional ages framework (which concerns Earth's specific chronological position within the chain), broader than the Earth project specifically (which concerns the alliance's specific work on Earth), and broader than the various other corpus frameworks. The Cosmic Chain provides the broader cosmological structure within which all these other frameworks operate as specific aspects of a much larger pattern. The framework's distinctive features include: its **explicit infinity in both temporal directions** (backward through prior creators and forward through future creations); its **fundamentally cyclical-recursive character** (each cycle has the same structure of created-developing-creating); its substantial **theological-philosophical implications** (the rejection of the "first creator" question, the reframing of "God" within the broader infinite cosmology, the specific position on humanity's ultimate cosmic role); and its **integration with the broader Wheel of Heaven framework** (the Cosmic Competition, the Doubled Signature, the Aquarian-age developments, the Embassy project all operating within the Cosmic Chain's broader structure).
+השרשרת הקוסמית היא **המסגרת הקוסמולוגית הרחבה ביותר** במכלול הכלים האנליטי של הקורפוס. היא רחבה ממסגרת התחרות הקוסמית (העוסקת בשלב ההערכה הספציפי שבמהלכו תרבות בוראת מעריכה את האנושויות שבראה לצורך הסמכה לירושה), רחבה ממסגרת עידני הנסיגה (העוסקת במיקומה הכרונולוגי הספציפי של הארץ בתוך השרשרת), רחבה ממיזם כדור הארץ במובן הצר (העוסק בעבודת הברית הספציפית על כדור הארץ), ורחבה ממסגרות הקורפוס השונות האחרות. השרשרת הקוסמית מספקת את המבנה הקוסמולוגי הרחב שבתוכו פועלות כל המסגרות האחרות הללו כהיבטים ספציפיים של דפוס גדול בהרבה. תכונותיה הייחודיות של המסגרת כוללות: את **אינסופיותה המפורשת בשני כיווני הזמן** (אחורה דרך בוראים קודמים וקדימה דרך בריאות עתידיות); את **אופיה המחזורי־רקורסיבי מן היסוד** (לכל מחזור אותו מבנה של נברא־מתפתח־בורא); את **השלכותיה התיאולוגיות־פילוסופיות הניכרות** (דחיית שאלת »הבורא הראשון«, מסגור־מחדש של »אלוהים« בתוך הקוסמולוגיה האינסופית הרחבה, העמדה הספציפית על תפקידה הקוסמי הסופי של האנושות); ואת **שילובה עם מסגרת »גלגל השמיים« הרחבה** (התחרות הקוסמית, החתימה הכפולה, התפתחויות עידן הדלי, מיזם המשגרירות — כולם פועלים בתוך המבנה הרחב של השרשרת הקוסמית).
 
-The reading is interpretive construction. The Raëlian source material provides the basic premise in a remarkably direct statement, but does not develop the systematic Cosmic Chain framework that the corpus articulates. The framework's specific articulation — including the integration with the Cosmic Competition, the reading of the Lord's Prayer as compressed statement of the cyclical structure, the systematic engagement with the chain's epistemological-theological implications, the projection of Earth's specific future trajectory — represents substantial corpus development beyond what the source material directly provides. Within mainstream cosmology, the broader question of cosmic infinity has been substantially developed across the past several centuries (from Bruno's *De l'infinito universo et mondi* of 1584 through contemporary multiverse cosmology), with various positions on the specific structure of cosmic infinity. Within mainstream theology, the various traditions have developed substantial engagement with questions of divine eternality, creation, and the relationship between creator and created — with the Cosmic Chain's specific "no first creator" position being at variance with the principal Western theological traditions but consistent with various Eastern traditions' beginningless-cycle frameworks. Within the contemporary panspermia tradition (the broader question of whether life on Earth originated through cosmic transmission rather than autochthonous emergence), substantial scientific work has developed across the past several decades, with Crick-Orgel's directed-panspermia hypothesis (1973) representing a specific contemporary scientific framework that overlaps substantively with the Cosmic Chain's specific reading. The corpus's reading is structurally distinctive in its specific articulation of the chain's recursive-cyclical structure, in its integration with the broader Wheel of Heaven framework's specific operational-historical content, and in its development of the framework's substantive philosophical-theological implications.
+הקריאה היא בנייה פרשנית.{{ footnote(id="1") }} חומר־המקור הראלי מספק את ההנחה הבסיסית בהצהרה ישירה להפליא,{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[1]", title="ורילון (ראל), *Extra-Terrestrials Took Me to Their Planet* (1975), »לא אלוהים ולא נשמה« — »וכן הלאה עד אינסוף«") }} אך אינו מפתח את מסגרת השרשרת הקוסמית השיטתית שהקורפוס מנסח. הניסוח הספציפי של המסגרת — לרבות השילוב עם התחרות הקוסמית, קריאת תפילת האדון כהצהרה דחוסה של המבנה המחזורי, ההתמודדות השיטתית עם ההשלכות האפיסטמולוגיות־התיאולוגיות של השרשרת, הקרנת מסלולה העתידי הספציפי של הארץ — מייצג פיתוח קורפוסי ניכר מעבר למה שחומר־המקור מספק במישרין. בקוסמולוגיה המרכזית, השאלה הרחבה של האינסופיות הקוסמית פותחה באופן ניכר במהלך כמה מאות השנים האחרונות (מ־*De l'infinito universo et mondi* של ברונו מ־1584{{ cite(id="bruno-infinite-universe", text="[2]", title="ברונו, *On the Infinite Universe and Worlds* (1584)") }} ועד הקוסמולוגיה הרב־יקומית בת־זמננו), עם עמדות שונות על המבנה הספציפי של האינסופיות הקוסמית. בתיאולוגיה המרכזית, המסורות השונות פיתחו התמודדות ניכרת עם שאלות של נצחיות אלוהית, בריאה, והיחס בין הבורא לנברא — כשעמדת »אין בורא ראשון« הספציפית של השרשרת הקוסמית נמצאת בניגוד למסורות התיאולוגיות המערביות העיקריות אך עקבית עם מסגרות המחזור חסר־הראשית של מסורות מזרחיות שונות. בתוך מסורת הפנספרמיה בת־זמננו (השאלה הרחבה אם החיים על כדור הארץ מקורם בהעברה קוסמית ולא בהתהוות עצמית), פותחה עבודה מדעית ניכרת במהלך כמה העשורים האחרונים, כשהשערת הפנספרמיה המכוונת של קריק־אורגל (1973){{ cite(id="crick-orgel-directed-panspermia", text="[3]", title="קריק ואורגל, »פנספרמיה מכוונת« (Icarus, 1973)") }} מייצגת מסגרת מדעית בת־זמננו ספציפית החופפת באופן מהותי לקריאה הספציפית של השרשרת הקוסמית. קריאת הקורפוס ייחודית במבנה ספציפי הניסוח של המבנה הרקורסיבי־מחזורי של השרשרת, בשילובה עם התוכן התפעולי־ההיסטורי הספציפי של מסגרת »גלגל השמיים« הרחבה, ובפיתוח ההשלכות הפילוסופיות־התיאולוגיות המהותיות של המסגרת.
 
-## Etymology and naming
+## אטימולוגיה ושמות
 
-The Cosmic Chain framework as a corpus-internal analytical category does not have a single source-material designation. The corpus uses several related terms across its various entries.
+מסגרת השרשרת הקוסמית כקטגוריה אנליטית פנים־קורפוסית אינה נושאת ייעוד יחיד בחומר־המקור. הקורפוס משתמש בכמה מונחים קרובים לאורך ערכיו השונים.
 
-### "Cosmic Chain" as the principal designation
+### »השרשרת הקוסמית« כייעוד העיקרי
 
-The English term **"Cosmic Chain"** is the corpus's principal designation for the framework. The construction combines:
+המונח האנגלי **"Cosmic Chain"** (השרשרת הקוסמית) הוא ייעוד הקורפוס העיקרי למסגרת. הצירוף משלב:
 
-- **"Cosmic"** — indicating the broader scale of the framework's operation (across cosmic time, multiple civilizations, multiple worlds)
-- **"Chain"** — indicating the linked-sequential character of the cosmic process, with each civilization being one specific link connected to prior and subsequent links
+- **"Cosmic"** (קוסמי) — מציין את קנה המידה הרחב של פעולת המסגרת (לאורך הזמן הקוסמי, תרבויות מרובות, עולמות מרובים)
+- **"Chain"** (שרשרת) — מציין את האופי המקושר־רציף של התהליך הקוסמי, כשכל תרבות היא חוליה ספציפית אחת המחוברת לחוליות קודמות ועוקבות
 
-The term is corpus-internal — it does not appear in the Raëlian source material under this specific designation. The corpus has condensed the source's various phrasings into the standard designation.
+המונח הוא פנים־קורפוסי — הוא אינו מופיע בחומר־המקור הראלי תחת ייעוד ספציפי זה. הקורפוס דחס את ניסוחי המקור השונים לכלל הייעוד הסטנדרטי.
 
-### Source-material terminology
+### מינוח חומר־המקור
 
-The Raëlian source material uses several distinct terms for what the corpus organizes under the "Cosmic Chain" designation:
+חומר־המקור הראלי משתמש בכמה מונחים נבדלים למה שהקורפוס מארגן תחת הייעוד »השרשרת הקוסמית«:
 
-- **"Recurring cosmic process"** — descriptive phrasing for the broader cyclical pattern
-- **"Cycle of creators"** — descriptive phrasing for the specific pattern of created civilizations becoming creator civilizations
-- **"On to Infinity"** — the source's specific phrase for the infinite-recursion character of the chain
-- **"As above, so below"** — the Hermetic phrase the source occasionally invokes (though without the specific Hermetic theological content)
-- **"On Earth as it is in heaven"** — the Lord's Prayer phrase the source reads as compressed statement of the chain
+- **»התהליך הקוסמי החוזר«** — ניסוח תיאורי לדפוס המחזורי הרחב
+- **»מחזור הבוראים«** — ניסוח תיאורי לדפוס הספציפי של תרבויות נבראות ההופכות לתרבויות בוראות
+- **»עד אינסוף«** — ביטוי המקור הספציפי לאופי הרקורסיה־האינסופית של השרשרת
+- **»כלמעלה כן למטה«** — הביטוי ההרמטי שהמקור מזמן לעיתים (אם כי ללא התוכן התיאולוגי ההרמטי הספציפי)
+- **»בארץ כמו בשמיים«** — ביטוי תפילת האדון שהמקור קורא כהצהרה דחוסה של השרשרת
 
-### Related conceptual terminology
+### מינוח מושגי קרוב
 
-Several related conceptual terms operate within the framework:
+כמה מונחים מושגיים קרובים פועלים בתוך המסגרת:
 
-- **"Chain of creators"** — the corpus's term for the backward-extending sequence of prior creator civilizations
-- **"Chain of created"** — the corpus's term for the forward-extending sequence of future creator civilizations (currently civilizations like Earth's humanity, in their pre-maturity phase)
-- **"Cosmic creative cycle"** — the corpus's term for the broader recurring pattern that produces new creator civilizations
-- **"Inheritance threshold"** — the specific point at which a created civilization becomes capable of itself becoming a creator civilization (the Cosmic Competition's evaluation criterion)
-- **"Generational cosmology"** — the broader cosmological framework that the chain produces, in which civilizations are organized in genealogical relationships across cosmic time
+- **»שרשרת הבוראים«** — מונח הקורפוס לרצף המשתרע אחורה של תרבויות בוראות קודמות
+- **»שרשרת הנבראים«** — מונח הקורפוס לרצף המשתרע קדימה של תרבויות בוראות עתידיות (כיום תרבויות כמו אנושות הארץ, בשלב טרום־בגרותן)
+- **»המחזור היצירתי הקוסמי«** — מונח הקורפוס לדפוס החוזר הרחב המייצר תרבויות בוראות חדשות
+- **»סף הירושה«** — הנקודה הספציפית שבה תרבות נבראת הופכת מסוגלת להיות בעצמה תרבות בוראת (קריטריון ההערכה של התחרות הקוסמית)
+- **»קוסמולוגיה דורית«** — המסגרת הקוסמולוגית הרחבה שהשרשרת מייצרת, שבה תרבויות מאורגנות ביחסים גנאלוגיים לאורך הזמן הקוסמי
 
-The cross-corpus terminology is consistent in its specific framing: the framework concerns the **indefinitely extended sequence of created-and-creating civilizations** across cosmic time, with the **specific recursive-cyclical structure** being the principal content of the framework.
+המינוח הבין־קורפוסי עקבי במסגורו הספציפי: המסגרת עוסקת ב**רצף הבלתי־מוגבל של תרבויות נבראות־ובוראות** לאורך הזמן הקוסמי, כש**המבנה הרקורסיבי־מחזורי הספציפי** הוא התוכן העיקרי של המסגרת.
 
-## Conventional understanding
+## ההבנה המקובלת
 
-The Cosmic Chain framework as a specific cosmological category is largely a corpus-internal construction, with the underlying questions about cosmic infinity and the origin of life on Earth being the principal points of contact with conventional scholarly and theological treatment. The principal positions warrant individual treatment.
+מסגרת השרשרת הקוסמית כקטגוריה קוסמולוגית ספציפית היא במידה רבה בנייה פנים־קורפוסית, כשהשאלות שביסוד על האינסופיות הקוסמית ועל מקור החיים בארץ הן נקודות המגע העיקריות עם הטיפול האקדמי והתיאולוגי המקובל. העמדות העיקריות ראויות לטיפול נפרד.
 
-### Mainstream Western theological tradition
+### המסורת התיאולוגית המערבית המרכזית
 
-Mainstream Western theological tradition has generally developed cosmological frameworks that position a specific creator deity (or specific divine reality) at the origin of the cosmic process. The principal positions:
+המסורת התיאולוגית המערבית המרכזית פיתחה בדרך כלל מסגרות קוסמולוגיות הממקמות אל־בורא ספציפי (או מציאות אלוהית ספציפית) בראשית התהליך הקוסמי. העמדות העיקריות:
 
-**Christian theological tradition** generally posits a single uncreated creator (God) who originates the cosmos through specific creative acts (*creatio ex nihilo*). The classical formulations (Augustine, Aquinas, the medieval scholastic tradition) develop substantial philosophical-theological content concerning divine eternality, the relationship between creator and creation, and the metaphysical priority of the creator over the created. The Cosmic Chain's specific "no first creator" position is at substantial variance with the mainstream Christian position.
+**המסורת התיאולוגית הנוצרית** מניחה בדרך כלל בורא יחיד בלתי־נברא (אלוהים) המחולל את הקוסמוס באמצעות מעשי בריאה ספציפיים (*creatio ex nihilo*). הניסוחים הקלאסיים (אוגוסטינוס, אקווינס, המסורת הסכולסטית של ימי הביניים) מפתחים תוכן פילוסופי־תיאולוגי ניכר בנוגע לנצחיות אלוהית, ליחס בין הבורא לבריאה, ולקדימות המטפיזית של הבורא על הנברא. עמדת »אין בורא ראשון« הספציפית של השרשרת הקוסמית נמצאת בניגוד ניכר לעמדה הנוצרית המרכזית.
 
-**Jewish theological tradition** similarly posits a specific creator deity (YHWH/Elohim) at the origin of the cosmic process, with the Genesis 1 creation narrative providing the foundational textual material. Various Jewish theological-philosophical traditions (Maimonides, Crescas, the broader rabbinic philosophical tradition) develop substantial content on creation and divine eternality. The Kabbalistic tradition introduces additional complexity through the *Ein Sof* (the infinite divine source) and the *Sefirot* (the emanated divine attributes), with substantial structural overlap with the Cosmic Chain's broader infinite-cosmology framework, though the Kabbalistic tradition's specific theological content differs from the Cosmic Chain's framework.
+**המסורת התיאולוגית היהודית** מניחה אף היא אל־בורא ספציפי (יהוה/אלוהים) בראשית התהליך הקוסמי, כשסיפור הבריאה של בראשית א מספק את החומר הטקסטואלי היסודי. מסורות תיאולוגיות־פילוסופיות יהודיות שונות (הרמב״ם, קרשקש, המסורת הפילוסופית הרבנית הרחבה) מפתחות תוכן ניכר על בריאה ועל נצחיות אלוהית. המסורת הקבלית מציגה מורכבות נוספת באמצעות ה*אין סוף* (המקור האלוהי האינסופי) וה*ספירות* (התכונות האלוהיות הנאצלות), עם חפיפה מבנית ניכרת למסגרת הקוסמולוגיה האינסופית הרחבה של השרשרת הקוסמית, אף שהתוכן התיאולוגי הספציפי של המסורת הקבלית שונה ממסגרת השרשרת הקוסמית.
 
-**Islamic theological tradition** posits Allah as the single uncreated creator, with the Qur'anic creation material providing the foundational textual basis. The various Islamic theological-philosophical traditions (the Mu'tazilite, Ash'arite, Maturidite schools; the Sufi traditions) develop substantial content on creation and divine eternality. The Cosmic Chain's specific position is at substantial variance with the mainstream Islamic position.
+**המסורת התיאולוגית האסלאמית** מניחה את אללה כבורא היחיד הבלתי־נברא, כשחומר הבריאה הקוראני מספק את הבסיס הטקסטואלי היסודי. המסורות התיאולוגיות־הפילוסופיות האסלאמיות השונות (האסכולות המועתזילית, האשערית, המאתורידית; המסורות הסופיות) מפתחות תוכן ניכר על בריאה ועל נצחיות אלוהית. העמדה הספציפית של השרשרת הקוסמית נמצאת בניגוד ניכר לעמדה האסלאמית המרכזית.
 
-The framework's relationship to mainstream Western theology is one of substantial divergence on the specific "first creator" question, with the framework's "no first creator" position being at variance with the principal Western theological traditions while overlapping substantively with various Eastern cyclic-cosmology traditions (treated under *Comparative observations* below).
+יחס המסגרת לתיאולוגיה המערבית המרכזית הוא יחס של סטייה ניכרת בשאלת »הבורא הראשון« הספציפית, כשעמדת »אין בורא ראשון« של המסגרת נמצאת בניגוד למסורות התיאולוגיות המערביות העיקריות תוך חפיפה מהותית למסורות מחזור־קוסמי מזרחיות שונות (הנדונות תחת *תצפיות השוואתיות* להלן).
 
-### Mainstream cosmology
+### הקוסמולוגיה המרכזית
 
-Mainstream cosmology has produced substantial work on the broader questions of cosmic origin, infinity, and structure. The principal positions:
+הקוסמולוגיה המרכזית הפיקה עבודה ניכרת על השאלות הרחבות של מקור קוסמי, אינסופיות ומבנה. העמדות העיקריות:
 
-**The Big Bang model** is the principal contemporary cosmological framework, positing the universe's origin in an extremely hot, dense state approximately 13.8 billion years ago. The model has been substantially confirmed through multiple lines of empirical evidence (Hubble's observation of galactic redshift, the cosmic microwave background, the abundance of light elements, the large-scale structure of galaxies). The Big Bang model addresses the cosmic origin question through the specific framework of an early hot dense state from which the current cosmos developed.
+**מודל המפץ הגדול** הוא המסגרת הקוסמולוגית בת־זמננו העיקרית, המניחה את מקור היקום במצב חם וצפוף ביותר לפני כ־13.8 מיליארד שנה. המודל אושש באופן ניכר באמצעות קווי ראיה אמפיריים מרובים (תצפית האבל על הסחה־לאדום גלקטית, קרינת הרקע הקוסמית, שפע היסודות הקלים, המבנה רחב־הקנה־מידה של הגלקסיות). מודל המפץ הגדול מטפל בשאלת המקור הקוסמי באמצעות המסגרת הספציפית של מצב חם וצפוף מוקדם שממנו התפתח הקוסמוס הנוכחי.
 
-**The cosmic inflation model** (Guth, Linde, Steinhardt and others, developed since approximately 1980) extends the Big Bang framework with substantial implications for the broader cosmic structure. The inflation model produces specific predictions about cosmic flatness, isotropy, and the broader structure of the universe.
+**מודל האינפלציה הקוסמית** (גות', לינדה, שטיינהרדט ואחרים, שפותח מאז כ־1980) מרחיב את מסגרת המפץ הגדול עם השלכות ניכרות למבנה הקוסמי הרחב. מודל האינפלציה מפיק תחזיות ספציפיות על שטיחות קוסמית, איזוטרופיה, והמבנה הרחב של היקום.
 
-**Eternal inflation and multiverse cosmology** (Linde, Vilenkin, others) extends the inflation framework into substantial multiverse content, with various models proposing that our observable universe is one specific region within a larger multiverse structure. The Cosmic Chain's specific recursive-cyclical structure has substantive overlap with various multiverse cosmologies, though the specific content differs.
+**אינפלציה נצחית וקוסמולוגיית רב־יקום** (לינדה, וילנקין ואחרים) מרחיבות את מסגרת האינפלציה לכלל תוכן רב־יקומי ניכר, עם מודלים שונים המציעים שהיקום הנצפה שלנו הוא אזור ספציפי אחד בתוך מבנה רב־יקומי רחב יותר. למבנה הרקורסיבי־מחזורי הספציפי של השרשרת הקוסמית יש חפיפה מהותית לקוסמולוגיות רב־יקום שונות, אף שהתוכן הספציפי שונה.
 
-**Cyclic cosmologies** (Steinhardt-Turok ekpyrotic model, Penrose's conformal cyclic cosmology, various other proposals) have developed substantial work on cosmic recurrence, with various models proposing that the cosmic history involves multiple successive Big Bang events rather than a single unique origin event. These cyclic cosmologies overlap substantively with the Cosmic Chain's recursive structure at the cosmological level, though the specific content differs.
+**קוסמולוגיות מחזוריות** (המודל האקפירוטי של שטיינהרדט־טורוק,{{ cite(id="steinhardt-turok-endless-universe", text="[14]", title="שטיינהרדט וטורוק, *Endless Universe* (2007) — המודל המחזורי האקפירוטי") }} הקוסמולוגיה המחזורית הקונפורמית של פנרוז,{{ cite(id="penrose-cycles-of-time", text="[15]", title="פנרוז, *Cycles of Time* (2011) — קוסמולוגיה מחזורית קונפורמית") }} הצעות שונות אחרות) פיתחו עבודה ניכרת על הישנות קוסמית, עם מודלים שונים המציעים שההיסטוריה הקוסמית כרוכה בכמה אירועי מפץ גדול עוקבים ולא באירוע מקור יחיד וייחודי. שאלות מבנה־המרחב־זמן הרחבות נדונות בחילופי הדברים של הוקינג ופנרוז.{{ cite(id="hawking-penrose-nature-space-time", text="[16]", title="הוקינג ופנרוז, *The Nature of Space and Time* (1996)") }} קוסמולוגיות מחזוריות אלה חופפות באופן מהותי למבנה הרקורסיבי של השרשרת הקוסמית ברמה הקוסמולוגית, אף שהתוכן הספציפי שונה.
 
-The framework's relationship to mainstream cosmology is one of broader-framework consistency at the empirical level (the Cosmic Chain does not contradict mainstream observational cosmology) while extending substantially beyond what mainstream cosmology directly engages (the specific civilizational-recursive content of the chain).
+יחס המסגרת לקוסמולוגיה המרכזית הוא יחס של עקביות מסגרתית־רחבה ברמה האמפירית (השרשרת הקוסמית אינה סותרת את הקוסמולוגיה התצפיתית המרכזית) תוך הרחבה ניכרת מעבר למה שהקוסמולוגיה המרכזית מתמודדת עימו במישרין (התוכן הציביליזציוני־רקורסיבי הספציפי של השרשרת).
 
-### The infinite-universe philosophical tradition
+### מסורת הפילוסופיה של היקום האינסופי
 
-The broader philosophical tradition has produced substantial work on the question of cosmic infinity. The principal positions:
+המסורת הפילוסופית הרחבה הפיקה עבודה ניכרת על שאלת האינסופיות הקוסמית. העמדות העיקריות:
 
-**Giordano Bruno** in *De l'infinito universo et mondi* (1584) and other works developed the multiple-worlds and infinite-universe doctrine extensively, arguing for an infinite universe containing infinite inhabited worlds. Bruno's execution by the Roman Inquisition in 1600 was prompted in part by his cosmological-theological doctrines.
+**ג'ורדנו ברונו** ב־*De l'infinito universo et mondi* (1584) וביצירות אחרות פיתח בהרחבה את תורת העולמות המרובים והיקום האינסופי, בטענו בזכות יקום אינסופי המכיל עולמות מיושבים אינסופיים. הוצאתו להורג של ברונו בידי האינקוויזיציה הרומית ב־1600 נבעה בחלקה מתורותיו הקוסמולוגיות־התיאולוגיות.
 
-**Immanuel Kant** in the *Critique of Pure Reason* (1781) treated the question of cosmic infinity within the broader framework of the antinomies of pure reason, with substantial implications for how the question can be approached philosophically.
+**עמנואל קאנט** ב־*ביקורת התבונה הטהורה* (1781) טיפל בשאלת האינסופיות הקוסמית בתוך המסגרת הרחבה של האנטינומיות של התבונה הטהורה, עם השלכות ניכרות לאופן שבו ניתן לגשת לשאלה מבחינה פילוסופית.
 
-**Modern cosmological philosophy** has produced substantial work on the various aspects of cosmic infinity, the question of cosmic origins, and the relationship between cosmology and philosophical-theological questions. The principal contemporary scholarship includes work by various philosophers of science and cosmologists engaging with the specific questions the Cosmic Chain framework addresses.
+**הפילוסופיה הקוסמולוגית המודרנית** הפיקה עבודה ניכרת על ההיבטים השונים של האינסופיות הקוסמית, על שאלת המקורות הקוסמיים, ועל היחס בין קוסמולוגיה לשאלות פילוסופיות־תיאולוגיות. המחקר העיקרי בן־זמננו כולל עבודה של פילוסופים של המדע וקוסמולוגים שונים המתמודדים עם השאלות הספציפיות שמסגרת השרשרת הקוסמית מטפלת בהן.
 
-The framework's position on cosmic infinity is structurally aligned with the broader philosophical tradition's recognition that infinity is a substantive cosmological feature, while extending beyond the philosophical tradition through the specific civilizational-recursive content of the chain.
+עמדת המסגרת על האינסופיות הקוסמית מתיישבת מבחינה מבנית עם הכרת המסורת הפילוסופית הרחבה בכך שאינסופיות היא תכונה קוסמולוגית מהותית, תוך הרחבה מעבר למסורת הפילוסופית באמצעות התוכן הציביליזציוני־רקורסיבי הספציפי של השרשרת.
 
-### Contemporary panspermia research
+### מחקר הפנספרמיה בן־זמננו
 
-**Panspermia** — the hypothesis that life on Earth originated from cosmic sources rather than from autochthonous emergence on Earth — has been substantially developed across the past several decades. The principal developments:
+**פנספרמיה** — ההשערה שהחיים על כדור הארץ מקורם במקורות קוסמיים ולא בהתהוות עצמית עלי אדמות — פותחה באופן ניכר במהלך כמה העשורים האחרונים. ההתפתחויות העיקריות:
 
-**Classical panspermia** (Arrhenius, early 20th century) proposed that microbial life could be transmitted across cosmic distances on dust particles or meteoric material, with Earth's life originating from such cosmic transmission.
+**פנספרמיה קלאסית** (ארהניוס, ראשית המאה ה־20){{ cite(id="arrhenius-worlds-in-the-making", text="[4]", title="ארהניוס, *Worlds in the Making* (1908) — פנספרמיה קלאסית") }} הציעה שחיים מיקרוביאליים עשויים לעבור על פני מרחקים קוסמיים על חלקיקי אבק או חומר מטאורי, כשחיי הארץ מקורם בהעברה קוסמית כזו. פיתוח הפנספרמיה השביטית של הויל ויקרמסינגה מרחיב מסורת זו.{{ cite(id="hoyle-wickramasinghe-lifecloud", text="[5]", title="הויל ויקרמסינגה, *Lifecloud* (1978)") }}
 
-**Directed panspermia** (Crick and Orgel, "Directed Panspermia," *Icarus* 19 (1973): 341-346) proposed that Earth's life was deliberately seeded by an extraterrestrial intelligent civilization rather than arriving through natural cosmic processes. The Crick-Orgel hypothesis was developed by Francis Crick (the Nobel-laureate co-discoverer of DNA structure) and Leslie Orgel (the principal scientist of early-Earth chemical biology) as a serious scientific proposal addressing the various problems with autochthonous origin-of-life models. The hypothesis specifically addresses the universality of the genetic code, the apparent dependence of all Earth life on molybdenum (which has limited terrestrial abundance), and the broader question of why specific biochemical features of Earth life appear unusually well-suited to deliberate engineering.
+**פנספרמיה מכוונת** (קריק ואורגל, »פנספרמיה מכוונת«, *Icarus* 19 (1973): 341-346) הציעה שחיי הארץ נזרעו במכוון בידי תרבות תבונית בת־חוץ ולא הגיעו בתהליכים קוסמיים טבעיים. השערת קריק־אורגל פותחה בידי פרנסיס קריק (חתן פרס נובל, ממגלי מבנה ה־DNA) ולסלי אורגל (המדען העיקרי של ביולוגיה כימית של כדור הארץ המוקדם) כהצעה מדעית רצינית המתמודדת עם הבעיות השונות במודלים של מקור־חיים עצמי. ההשערה מתמודדת באופן ספציפי עם אוניברסליות הקוד הגנטי, התלות הניכרת של כל חיי הארץ במוליבדן (שלו שכיחות ארצית מוגבלת), והשאלה הרחבה מדוע תכונות ביוכימיות ספציפיות של חיי הארץ נראות מתאימות באופן יוצא דופן להנדסה מכוונת.
 
-**Contemporary panspermia research** continues to develop the broader question of cosmic life-transmission, with substantial recent work on the survivability of microbial life in space environments, the potential vectors for cosmic transmission, and the broader question of whether Earth's life is unique or part of a broader cosmic biological pattern.
+**מחקר הפנספרמיה בן־זמננו** ממשיך לפתח את השאלה הרחבה של העברת חיים קוסמית, עם עבודה ניכרת ועדכנית על שרידות חיים מיקרוביאליים בסביבות חלל, על הווקטורים האפשריים להעברה קוסמית, ועל השאלה הרחבה אם חיי הארץ ייחודיים או חלק מדפוס ביולוגי קוסמי רחב יותר.
 
-The Cosmic Chain framework's relationship to the panspermia tradition — particularly to the Crick-Orgel directed-panspermia hypothesis — is one of substantial structural alignment. Both frameworks read Earth's life as having been deliberately produced by extraterrestrial intelligent civilization rather than emerging autochthonously. The Cosmic Chain framework extends the directed-panspermia framework substantially through the recursive-cyclical content (the Elohim themselves having been created by a prior civilization, with the chain extending indefinitely backward).
+יחס מסגרת השרשרת הקוסמית למסורת הפנספרמיה — בפרט להשערת הפנספרמיה המכוונת של קריק־אורגל — הוא יחס של התאמה מבנית ניכרת. שתי המסגרות קוראות את חיי הארץ כמי שהופקו במכוון בידי תרבות תבונית בת־חוץ ולא התהוו מעצמם. מסגרת השרשרת הקוסמית מרחיבה את מסגרת הפנספרמיה המכוונת באופן ניכר באמצעות התוכן הרקורסיבי־מחזורי (האלוהים עצמם שנבראו בידי תרבות קודמת, כשהשרשרת משתרעת ללא הגבלה אחורה).
 
-### Mainstream Western philosophical engagement with cyclic cosmology
+### התמודדות פילוסופית מערבית מרכזית עם קוסמולוגיה מחזורית
 
-The broader Western philosophical tradition has produced limited engagement with cyclic cosmology compared to the Eastern traditions. The principal positions:
+המסורת הפילוסופית המערבית הרחבה הפיקה התמודדות מוגבלת עם קוסמולוגיה מחזורית בהשוואה למסורות המזרחיות. העמדות העיקריות:
 
-**The Stoic eternal recurrence doctrine** (developed by Chrysippus and other Stoic philosophers) proposed that the cosmos undergoes successive cycles of conflagration and renewal, with each cycle reproducing the prior cycle in identical form. The Stoic tradition is the principal Western antecedent for cyclic cosmology.
+**תורת החזרה הנצחית הסטואית** (שפותחה בידי כריסיפוס ופילוסופים סטואיים אחרים) הציעה שהקוסמוס עובר מחזורים עוקבים של שרפה והתחדשות, כשכל מחזור משחזר את המחזור הקודם בצורה זהה. המסורת הסטואית היא הקדמה המערבית העיקרית לקוסמולוגיה מחזורית.{{ cite(id="long-sedley-hellenistic-philosophers", text="[7]", title="לונג וסדלי, *The Hellenistic Philosophers* (1987) — תורת החזרה הנצחית הסטואית") }}
 
-**Friedrich Nietzsche** in *Thus Spoke Zarathustra* (1883-1885) and *The Will to Power* (posthumous) developed a specific eternal-recurrence doctrine, treating the eternal return of all events as both cosmological hypothesis and existential test. The Nietzschean doctrine is a substantial modern Western engagement with cyclic cosmology, though it differs substantially from the Cosmic Chain framework's specific civilizational-recursive content.
+**פרידריך ניטשה** ב־*כה אמר זרתוסטרא* (1885-1883) וב־*הרצון לעוצמה* (לאחר מותו) פיתח תורת חזרה נצחית ספציפית, בהתייחסו לשיבה הנצחית של כל האירועים כהשערה קוסמולוגית וכמבחן קיומי כאחד.{{ cite(id="nietzsche-zarathustra", text="[8]", title="ניטשה, *כה אמר זרתוסטרא* (1885–1883) — תורת החזרה הנצחית") }} התורה הניטשיאנית היא התמודדות מערבית מודרנית ניכרת עם קוסמולוגיה מחזורית, אף שהיא שונה באופן ניכר מן התוכן הציביליזציוני־רקורסיבי הספציפי של מסגרת השרשרת הקוסמית.
 
-**Contemporary cyclic cosmologies** (Steinhardt-Turok, Penrose) provide the principal contemporary Western scientific engagement with cyclic cosmology, with various specific models being substantially developed.
+**קוסמולוגיות מחזוריות בנות־זמננו** (שטיינהרדט־טורוק, פנרוז) מספקות את ההתמודדות המדעית המערבית בת־זמננו העיקרית עם קוסמולוגיה מחזורית, עם מודלים ספציפיים שונים המפותחים באופן ניכר.
 
-The framework's relationship to Western cyclic cosmology is one of structural alignment with the broader cyclic-cosmology principle while developing the specific civilizational-recursive content as the corpus's distinctive contribution.
+יחס המסגרת לקוסמולוגיה המחזורית המערבית הוא יחס של התאמה מבנית לעיקרון הקוסמולוגיה המחזורית הרחב, תוך פיתוח התוכן הציביליזציוני־רקורסיבי הספציפי כתרומתו הייחודית של הקורפוס.
 
-## In primary sources
+## במקורות הראשוניים
 
-The framework's principal primary-source material consists of specific Raëlian source passages on the chain of creators, the rejection of the "first creator" question, and the cyclical-recursive cosmological structure. The principal sources warrant individual treatment.
+חומר המקור הראשוני העיקרי של המסגרת מורכב מקטעי מקור ראליים ספציפיים על שרשרת הבוראים, על דחיית שאלת »הבורא הראשון«, ועל המבנה הקוסמולוגי המחזורי־רקורסיבי. המקורות העיקריים ראויים לטיפול נפרד.
 
-### The fundamental source-material statement
+### הצהרת חומר־המקור היסודית
 
-The Raëlian source's principal statement on the Cosmic Chain appears in *Extra-Terrestrials Took Me to Their Planet* (1975), in the section "Neither God nor Soul":
+הצהרת המקור הראלי העיקרית על השרשרת הקוסמית מופיעה ב־*Extra-Terrestrials Took Me to Their Planet* (1975), בפרק »לא אלוהים ולא נשמה«:
 
-> *"The Elohim were created by people from another planet, who had been created by other people coming from another planet, and so on to Infinity."*
+> *»האלוהים נבראו בידי אנשים מכוכב לכת אחר, שנבראו בידי אנשים אחרים שבאו מכוכב לכת אחר, וכן הלאה עד אינסוף.«*
 
-This single statement is the framework's principal source-material warrant. The corpus's broader articulation is the systematic development of this single sentence into the full Cosmic Chain framework.
+הצהרה יחידה זו היא האחיזה העיקרית של המסגרת בחומר־המקור.{{ cite(id="the-book-which-tells-the-truth", text="[9]", title="ורילון (ראל), *The Book Which Tells the Truth* (1974) — גילוי עידן הטלה והמסגור הקוסמולוגי") }} הניסוח הרחב של הקורפוס הוא הפיתוח השיטתי של משפט יחיד זה לכלל מסגרת השרשרת הקוסמית המלאה.
 
-The statement's principal features:
+תכונות ההצהרה העיקריות:
 
-- The Elohim are explicitly identified as having been created (rather than being autonomous originators of the creation pattern)
-- The prior creators were themselves created (rather than being uncreated first creators)
-- The chain extends "to Infinity" (rather than terminating at some specific prior point)
-- The chain is structurally identical at each step (each civilization is created by a prior civilization, then itself becomes a creator civilization)
+- האלוהים מזוהים במפורש כמי שנבראו (ולא כמחוללים אוטונומיים של דפוס הבריאה)
+- הבוראים הקודמים נבראו אף הם (ולא היו בוראים ראשונים בלתי־נבראים)
+- השרשרת משתרעת »עד אינסוף« (ולא מסתיימת בנקודה קודמת ספציפית כלשהי)
+- השרשרת זהה מבנית בכל שלב (כל תרבות נבראת בידי תרבות קודמת, ואז הופכת בעצמה לתרבות בוראת)
 
-### The "no first creator" position
+### עמדת »אין בורא ראשון«
 
-The Raëlian source explicitly addresses and rejects the conventional theological question — "who created the first creator?" — treating the question as grammatically well-formed but with a presupposition that does not match the structure of the underlying reality.
+המקור הראלי מתייחס במפורש ודוחה את השאלה התיאולוגית המקובלת — »מי ברא את הבורא הראשון?« — בהתייחסו אליה כשאלה תקינה מבחינה דקדוקית אך נושאת הנחת־יסוד שאינה תואמת את מבנה המציאות שביסוד.
 
-The framework reads this position as substantively significant. The conventional Western theological tradition presupposes that there must be a first creator (an uncreated creator, ground of all creation, the *causa prima* of the medieval scholastic tradition); the Cosmic Chain framework rejects this presupposition. The chain extends backward indefinitely, just as the chain of created beings extends indefinitely forward. The cosmos has no ultimate origin and no ultimate end. The question "who created the first creator?" is, on this view, grammatically well-formed but its presupposition does not match the structure of the reality being asked about — analogous to asking "what is north of the North Pole?"
+המסגרת קוראת עמדה זו כבעלת משמעות מהותית. המסורת התיאולוגית המערבית המקובלת מניחה שחייב להיות בורא ראשון (בורא בלתי־נברא, יסוד כל בריאה, ה־*causa prima* של המסורת הסכולסטית של ימי הביניים); מסגרת השרשרת הקוסמית דוחה הנחה זו. השרשרת משתרעת אחורה ללא הגבלה, כשם ששרשרת הנבראים משתרעת ללא הגבלה קדימה. לקוסמוס אין מקור סופי ואין אחרית סופית. השאלה »מי ברא את הבורא הראשון?« היא, על פי השקפה זו, תקינה מבחינה דקדוקית אך הנחת־היסוד שלה אינה תואמת את מבנה המציאות הנשאלת עליה — בדומה לשאלה »מה נמצא מצפון לקוטב הצפוני?«
 
-The position is substantially distinctive within the Western philosophical-theological tradition (which has typically posited a first creator in some form) while overlapping substantively with various Eastern traditions' beginningless-cycle frameworks.
+העמדה ייחודית באופן ניכר בתוך המסורת הפילוסופית־התיאולוגית המערבית (שהניחה בדרך כלל בורא ראשון בצורה כלשהי) תוך חפיפה מהותית למסגרות המחזור חסר־הראשית של מסורות מזרחיות שונות.{{ footnote(id="2") }}
 
-### The Lord's Prayer reading
+### קריאת תפילת האדון
 
-The Lord's Prayer's central petition — *"Thy kingdom come; thy will be done in earth, as it is in heaven"* (Matthew 6:10, with parallel in Luke 11:2) — is read by the framework as the compressed statement of the Cosmic Chain's cyclical-recursive structure. The source's specific reading: *"In 'heaven', on the creators' planet, the scientists eventually became the ruling group and then created other intelligent beings. The same thing will happen on Earth. The torch will be taken up again. This prayer, which has been repeated time and time again without anyone understanding its profound meaning, now takes on its full significance: On Earth, as it is in heaven."*
+בקשתה המרכזית של תפילת האדון — *»תבוא מלכותך; ייעשה רצונך בארץ כמו בשמיים«* (מתי ו, 10, עם מקבילה בלוקס יא, 2) — נקראת על ידי המסגרת כהצהרה הדחוסה של המבנה המחזורי־רקורסיבי של השרשרת הקוסמית. קריאת המקור הספציפית: *»ב'שמיים', בכוכב הבוראים, הפכו המדענים בסופו של דבר לקבוצה השלטת ואז בראו יצורים תבוניים אחרים. אותו דבר יקרה על הארץ. הלפיד יורם שוב. תפילה זו, שנשנתה פעם אחר פעם מבלי שאיש הבין את משמעותה העמוקה, מקבלת כעת את מלוא משמעותה: בארץ, כמו בשמיים.«*
 
-The framework reads the prayer as containing the specific developmental program that Earth's humanity is being evaluated against. The "heaven" is the Elohim home world (a civilization that has already passed through the developmental stages Earth is now traversing); the "earth" is Earth (a civilization that is currently in the developmental stage the home world has previously traversed). The petition is for Earth to reach the level of the home world — the level at which Earth's humanity becomes capable of itself creating new intelligent life and continuing the cosmic chain.
+המסגרת קוראת את התפילה כמכילה את התוכנית ההתפתחותית הספציפית שכנגדה מוערכת אנושות הארץ. ה»שמיים« הם עולם־הבית של האלוהים (תרבות שכבר עברה את שלבי ההתפתחות שהארץ חוצה כעת); ה»ארץ« היא הארץ (תרבות הנמצאת כעת בשלב ההתפתחותי שעולם־הבית חצה בעבר). הבקשה היא שהארץ תגיע לרמת עולם־הבית — הרמה שבה אנושות הארץ הופכת מסוגלת בעצמה לברוא חיים תבוניים חדשים ולהמשיך את השרשרת הקוסמית.
 
-The Lord's Prayer reading is shared with the Cosmic Competition entry but operates within the broader Cosmic Chain framework specifically. The Cosmic Competition concerns the specific evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification; the Cosmic Chain is the broader cyclical-recursive structure within which the evaluation phase operates as one specific phase.
+קריאת תפילת האדון משותפת לערך התחרות הקוסמית אך פועלת בתוך מסגרת השרשרת הקוסמית הרחבה באופן ספציפי. התחרות הקוסמית עוסקת בשלב ההערכה הספציפי שבמהלכו תרבות בוראת מעריכה את האנושויות שבראה לצורך הסמכה לירושה; השרשרת הקוסמית היא המבנה המחזורי־רקורסיבי הרחב שבתוכו פועל שלב ההערכה כשלב ספציפי אחד.
 
-### The "as above, so below" Hermetic reading
+### קריאת »כלמעלה כן למטה« ההרמטית
 
-The Raëlian source occasionally invokes the Hermetic phrase **"as above, so below"** (the *Tabula Smaragdina* or Emerald Tablet's specific phrasing) in connection with the broader cosmological framework. The phrase has been part of the Western Hermetic tradition since approximately the late antiquity, with substantial subsequent development in the Renaissance Hermetic tradition (Ficino, Pico della Mirandola, Bruno, others).
+המקור הראלי מזמן לעיתים את הביטוי ההרמטי **»כלמעלה כן למטה«** (ניסוחו הספציפי של ה*Tabula Smaragdina* או הלוח האזמרגדי) בהקשר למסגרת הקוסמולוגית הרחבה. הביטוי היה חלק מן המסורת ההרמטית המערבית מאז שלהי העת העתיקה בקירוב, עם פיתוח ניכר לאחר מכן במסורת ההרמטית של הרנסנס (פיצ'ינו, פיקו דלה מירנדולה, ברונו, אחרים).{{ cite(id="yates-giordano-bruno-hermetic", text="[17]", title="ייטס, *Giordano Bruno and the Hermetic Tradition* (1964)") }}
 
-The framework's reading of the phrase preserves the specific insight that the cosmic structure is recursive — what occurs at one level of the creative hierarchy is repeated at the level it produces. The framework does not adopt the broader Hermetic theological-cosmological apparatus (the specific Hermetic doctrines of cosmic correspondence, the Hermetic anthropology, the broader Hermetic theology); the corpus's engagement is specifically with the recursive-structural insight the phrase preserves.
+קריאת המסגרת את הביטוי משמרת את התובנה הספציפית שהמבנה הקוסמי רקורסיבי — מה שמתרחש ברמה אחת של ההיררכיה היצירתית חוזר ברמה שהיא מייצרת. המסגרת אינה מאמצת את המכלול ההרמטי התיאולוגי־הקוסמולוגי הרחב (התורות ההרמטיות הספציפיות של התאמה קוסמית, האנתרופולוגיה ההרמטית, התיאולוגיה ההרמטית הרחבה); התמודדות הקורפוס היא ספציפית עם התובנה המבנית־רקורסיבית שהביטוי משמר.
 
-### The Aries-discovery passage
+### קטע גילוי עידן הטלה
 
-The Raëlian source describes the policy shift produced by the Aries-age discovery in a passage that is decisive for understanding everything that follows:
+המקור הראלי מתאר את שינוי המדיניות שהוליד גילוי עידן הטלה בקטע מכריע להבנת כל מה שבא לאחר מכן:
 
-> *"Because of recent discoveries, the creators decided to appear as little as possible in order not to influence the destiny of Man too much, so that they could see if they would reach the age of scientific knowledge on their own. So, the creators began to use increasingly discreet means of communicating with humans, as in the method of feeding Elijah using 'homing' ravens. This was the beginning of a gigantic experiment throughout the galaxy in which several humanities are in competition. The creators decided to appear less often, while at the same time reinforcing the authority and reputation of their ambassadors - the prophets - by using miracles."*
+> *»בשל תגליות שנעשו לאחרונה, החליטו הבוראים להופיע מעט ככל האפשר כדי לא להשפיע יתר על המידה על גורל האדם, כדי שיוכלו לראות אם יגיע לעידן הידע המדעי בכוחות עצמו. כך החלו הבוראים להשתמש באמצעי תקשורת דיסקרטיים יותר ויותר עם בני האדם, כמו בשיטת האכלת אליהו באמצעות עורבים 'ביתיים'. זו הייתה ראשיתו של ניסוי ענק ברחבי הגלקסיה שבו מתחרות כמה אנושויות. הבוראים החליטו להופיע לעיתים נדירות יותר, ובו בזמן לחזק את הסמכות והמוניטין של שגריריהם – הנביאים – באמצעות נסים.«*
 
-The passage establishes several things at once for the Cosmic Chain framework specifically:
+הקטע מקים כמה דברים בבת אחת עבור מסגרת השרשרת הקוסמית באופן ספציפי:
 
-- The discovery is real and specific (rather than metaphorical)
-- The discovery produced a deliberate policy shift in operational practice
-- The shift inaugurated the broader cosmic-competition framework
-- The framework operates "throughout the galaxy" rather than being Earth-specific
-- The shift applies not only to Earth but to all parallel humanities the alliance had created
+- הגילוי ממשי וספציפי (ולא מטפורי)
+- הגילוי הוליד שינוי מדיניות מכוון בפרקטיקה התפעולית
+- השינוי חנך את מסגרת התחרות הקוסמית הרחבה
+- המסגרת פועלת »ברחבי הגלקסיה« ולא היא ארצית־ספציפית
+- השינוי חל לא רק על הארץ אלא על כל האנושויות המקבילות שהברית בראה
 
-The Aries-discovery is the operational origin of the Cosmic Chain framework in the corpus's broader narrative. Before the discovery, the Elohim operated under the assumption that they were the originators of the creation pattern; after the discovery, they recognized themselves as participants in a much broader pattern.
+גילוי עידן הטלה הוא המקור התפעולי של מסגרת השרשרת הקוסמית בנרטיב הרחב של הקורפוס. לפני הגילוי פעלו האלוהים תחת ההנחה שהם מחוללי דפוס הבריאה; לאחר הגילוי הכירו בעצמם כמשתתפים בדפוס רחב בהרבה.
 
-### The infinity-of-cosmos passages
+### קטעי אינסופיות־הקוסמוס
 
-The Raëlian source provides substantial material on the broader infinite-cosmology framework within which the Cosmic Chain operates. The principal content:
+המקור הראלי מספק חומר ניכר על מסגרת הקוסמולוגיה האינסופית הרחבה שבתוכה פועלת השרשרת הקוסמית. התוכן העיקרי:
 
-- **Infinite cosmos in space**: The cosmos has no center and no boundary in any direction
-- **Infinite cosmos in time**: The cosmos has no beginning and no end in temporal direction
-- **Infinite hierarchy of scales**: Intelligent civilizations exist at every scale from infinitely small to infinitely large
-- **Infinity as the principal cosmological feature**: The infinite character of the cosmos is the foundational reality, with the various local features (the Cosmic Chain among them) operating within the broader infinite structure
+- **קוסמוס אינסופי במרחב**: לקוסמוס אין מרכז ואין גבול בשום כיוון
+- **קוסמוס אינסופי בזמן**: לקוסמוס אין ראשית ואין אחרית בכיוון הזמן
+- **היררכיה אינסופית של קני מידה**: תרבויות תבוניות מתקיימות בכל קנה מידה מן האינסופי־קטן ועד האינסופי־גדול
+- **אינסופיות כתכונה הקוסמולוגית העיקרית**: האופי האינסופי של הקוסמוס הוא המציאות היסודית, כשהתכונות המקומיות השונות (השרשרת הקוסמית בכללן) פועלות בתוך המבנה האינסופי הרחב
 
-The infinity-of-cosmos material is treated more fully under the broader Wheel of Heaven framework's cosmological treatment; the Cosmic Chain entry's specific contribution is registering that the chain operates within this broader infinite cosmological structure rather than being a complete account of the cosmos itself.
+חומר אינסופיות־הקוסמוס נדון באופן מלא יותר תחת הטיפול הקוסמולוגי של מסגרת »גלגל השמיים« הרחבה; תרומת ערך השרשרת הקוסמית הספציפית היא ברישום שהשרשרת פועלת בתוך מבנה קוסמולוגי אינסופי רחב זה ולא היא מבט מלא על הקוסמוס עצמו.
 
-### The cyclical-cosmic-future passages
+### קטעי העתיד הקוסמי־מחזורי
 
-The Raëlian source provides substantial material on humanity's projected future role in the chain. The principal content:
+המקור הראלי מספק חומר ניכר על תפקידה העתידי המוטל של האנושות בשרשרת. התוכן העיקרי:
 
-- **Earth's projected transition** from created to creator civilization, following the Aquarian-age inheritance event
-- **Future creation by humanity** of new humanities on suitable worlds
-- **The pattern's continuation** through the future created civilizations becoming themselves creator civilizations
-- **The infinite forward extension** of the chain through these future cycles
+- **מעברה המוטל של הארץ** מתרבות נבראת לבוראת, בעקבות אירוע הירושה של עידן הדלי
+- **בריאה עתידית בידי האנושות** של אנושויות חדשות בעולמות מתאימים
+- **המשך הדפוס** באמצעות הפיכת התרבויות הנבראות העתידיות בעצמן לתרבויות בוראות
+- **ההרחבה האינסופית קדימה** של השרשרת באמצעות מחזורים עתידיים אלה
 
-The cyclical-cosmic-future material is the framework's principal source-material warrant for the chain's forward extension. The corpus's broader articulation extends this material substantially through the systematic integration with the Cosmic Competition, the Aquarian-age developments, and the projected post-inheritance trajectory.
+חומר העתיד הקוסמי־מחזורי הוא האחיזה העיקרית של המסגרת בחומר־המקור עבור הרחבת השרשרת קדימה. הניסוח הרחב של הקורפוס מרחיב חומר זה באופן ניכר באמצעות השילוב השיטתי עם התחרות הקוסמית, התפתחויות עידן הדלי, והמסלול המוטל שלאחר הירושה.
 
-## The concept's content
+## תוכן התפיסה
 
-The framework's specific articulation of the Cosmic Chain integrates multiple distinct strands of source material into a coherent cosmological account.
+הניסוח הספציפי של השרשרת הקוסמית במסגרת משלב כמה גדילים נבדלים של חומר־מקור לכלל מבט קוסמולוגי קוהרנטי.
 
-### The basic cyclical-recursive structure
+### המבנה המחזורי־רקורסיבי הבסיסי
 
-The Cosmic Chain operates through a basic cyclical-recursive structure with several specific features:
+השרשרת הקוסמית פועלת באמצעות מבנה מחזורי־רקורסיבי בסיסי בעל כמה תכונות ספציפיות:
 
-**The fundamental cycle**. Each civilization in the chain follows a structurally identical developmental trajectory:
+**המחזור היסודי**. כל תרבות בשרשרת עוקבת אחר מסלול התפתחותי זהה מבנית:
 
-1. **Creation**: The civilization is created by a prior creator civilization through specific operational interventions (analogous to the Elohim's specific operations in the Earth project)
-2. **Development**: The civilization develops across cosmic time, with the developmental trajectory including various ages or periods analogous to Earth's precessional ages
-3. **Discovery**: At some point, the civilization discovers that it has itself been created (analogous to the Elohim's Aries-age discovery)
-4. **Maturation**: The civilization continues to develop through subsequent ages, eventually reaching the threshold of scientific maturity required for itself becoming a creator civilization
-5. **Inheritance**: At the inheritance threshold, the civilization receives the accumulated knowledge from its creators (analogous to Earth's projected Aquarian-age inheritance event)
-6. **Creator-civilization phase**: The civilization itself becomes a creator civilization, conducting its own creation projects on suitable worlds
-7. **Continuation**: The new humanities created by this civilization develop through the same trajectory, with the cycle continuing indefinitely
+1. **בריאה**: התרבות נבראת בידי תרבות בוראת קודמת באמצעות התערבויות תפעוליות ספציפיות (בדומה לפעולות הספציפיות של האלוהים במיזם כדור הארץ)
+2. **התפתחות**: התרבות מתפתחת לאורך הזמן הקוסמי, כשהמסלול ההתפתחותי כולל עידנים או תקופות שונים בדומה לעידני הנסיגה של הארץ
+3. **גילוי**: בנקודה כלשהי, התרבות מגלה שהיא עצמה נבראה (בדומה לגילוי עידן הטלה של האלוהים)
+4. **הבשלה**: התרבות ממשיכה להתפתח דרך עידנים עוקבים, ומגיעה בסופו של דבר לסף הבגרות המדעית הנדרש כדי להפוך בעצמה לתרבות בוראת
+5. **ירושה**: בסף הירושה, התרבות מקבלת את הידע המצטבר מבוראיה (בדומה לאירוע הירושה המוטל של עידן הדלי בארץ)
+6. **שלב התרבות הבוראת**: התרבות עצמה הופכת לתרבות בוראת, מנהלת מיזמי בריאה משלה בעולמות מתאימים
+7. **המשכיות**: האנושויות החדשות שתרבות זו בראה מתפתחות דרך אותו מסלול, כשהמחזור נמשך ללא הגבלה
 
-**The structural identity across cycles**. The framework reads the cycle as having structural identity across all instances — each cycle has the same broad shape (creation, development, discovery, maturation, inheritance, creator-civilization phase, continuation) even though the specific contents of each cycle differ substantially. The structural identity is the principal content of the framework: the cycle is what is repeated, not the specific contents.
+**הזהות המבנית בין המחזורים**. המסגרת קוראת את המחזור כבעל זהות מבנית בכל המופעים — לכל מחזור אותה צורה רחבה (בריאה, התפתחות, גילוי, הבשלה, ירושה, שלב התרבות הבוראת, המשכיות) אף שתכניו הספציפיים של כל מחזור שונים באופן ניכר. הזהות המבנית היא התוכן העיקרי של המסגרת: המחזור הוא מה שחוזר, לא התכנים הספציפיים.
 
-**The infinite extension in both directions**. The chain extends indefinitely backward through prior creators and indefinitely forward through future creations. Neither direction reaches a findable limit. The cosmos has no ultimate origin (no first creator, no first cycle) and no ultimate end (no final creator, no final cycle).
+**ההרחבה האינסופית בשני הכיוונים**. השרשרת משתרעת ללא הגבלה אחורה דרך בוראים קודמים וללא הגבלה קדימה דרך בריאות עתידיות. אף כיוון אינו מגיע לגבול בר־איתור. לקוסמוס אין מקור סופי (אין בורא ראשון, אין מחזור ראשון) ואין אחרית סופית (אין בורא אחרון, אין מחזור אחרון).
 
-### The infinite-recursion character
+### אופי הרקורסיה־האינסופית
 
-The framework's specific position on the chain's infinite character has substantial implications.
+עמדת המסגרת הספציפית על האופי האינסופי של השרשרת בעלת השלכות ניכרות.
 
-**The "no first creator" position**. The chain extends backward indefinitely, without findable beginning. The conventional theological question — "who created the first creator?" — is rejected as resting on a presupposition (that there is a first creator) that does not match the structure of the underlying reality. The framework's position is substantively distinct from the principal Western theological traditions while overlapping substantively with various Eastern cyclic-cosmology traditions.
+**עמדת »אין בורא ראשון«**. השרשרת משתרעת אחורה ללא הגבלה, ללא ראשית בת־איתור. השאלה התיאולוגית המקובלת — »מי ברא את הבורא הראשון?« — נדחית כנשענת על הנחת־יסוד (שיש בורא ראשון) שאינה תואמת את מבנה המציאות שביסוד. עמדת המסגרת נבדלת מהותית מן המסורות התיאולוגיות המערביות העיקריות תוך חפיפה מהותית למסורות מחזור־קוסמי מזרחיות שונות.
 
-**The infinite forward extension**. The chain extends forward indefinitely, without findable end. Each created civilization, having reached scientific maturity and become a creator civilization, will itself create new civilizations that will eventually become creator civilizations themselves. The forward extension is symmetric with the backward extension — the same indefinite-recursive character operates in both temporal directions.
+**ההרחבה האינסופית קדימה**. השרשרת משתרעת קדימה ללא הגבלה, ללא אחרית בת־איתור. כל תרבות נבראת, לאחר שהגיעה לבגרות מדעית והפכה לתרבות בוראת, תברא בעצמה תרבויות חדשות שיהפכו בסופו של דבר בעצמן לתרבויות בוראות. ההרחבה קדימה סימטרית להרחבה אחורה — אותו אופי רקורסיבי בלתי־מוגבל פועל בשני כיווני הזמן.
 
-**The specific implication for Earth's humanity**. The framework reads Earth's specific situation as one specific link in the chain. Earth's humanity was created by the Elohim (a specific creator civilization); the Elohim were themselves created by their predecessors; the predecessors were created by their predecessors; and so on indefinitely backward. Earth's humanity will eventually itself become a creator civilization, which will create new humanities, which will themselves become creator civilizations; and so on indefinitely forward. Earth's specific situation is one instance of a much broader pattern that has been operating across the cosmos for an unknown but very long span and will continue to operate for an unknown but very long span more.
+**ההשלכה הספציפית עבור אנושות הארץ**. המסגרת קוראת את מצבה הספציפי של הארץ כחוליה ספציפית אחת בשרשרת. אנושות הארץ נבראה בידי האלוהים (תרבות בוראת ספציפית); האלוהים נבראו בעצמם בידי קודמיהם; הקודמים נבראו בידי קודמיהם; וכן הלאה ללא הגבלה אחורה. אנושות הארץ תהפוך בסופו של דבר בעצמה לתרבות בוראת, שתברא אנושויות חדשות, שיהפכו בעצמן לתרבויות בוראות; וכן הלאה ללא הגבלה קדימה. מצבה הספציפי של הארץ הוא מופע אחד של דפוס רחב בהרבה שפעל ברחבי הקוסמוס במשך פרק זמן בלתי־ידוע אך ארוך מאוד וימשיך לפעול במשך פרק זמן בלתי־ידוע אך ארוך מאוד נוסף.
 
-### The integration with Aries-discovery
+### השילוב עם גילוי עידן הטלה
 
-The Cosmic Chain framework has its operational origin in the Aries-age discovery (c. 2,160–1,200 BCE) when the Elohim recognized that they themselves had been created. The discovery's specific content and operational consequences warrant treatment.
+למסגרת השרשרת הקוסמית יש מקור תפעולי בגילוי עידן הטלה (כ־2,160–1,200 לפנה״ס) שבו הכירו האלוהים בכך שהם עצמם נבראו.{{ footnote(id="3") }} התוכן הספציפי של הגילוי והשלכותיו התפעוליות ראויים לטיפול.
 
-**The discovery's specific content**. The source does not specify the exact evidence the Elohim found that established their own created status — what archaeological, genetic, cosmological, or other signatures convinced them. What the source does specify is the consequence: the Elohim's self-understanding shifted fundamentally, and the shift produced specific changes in their operational policy toward the humanities they had themselves created.
+**התוכן הספציפי של הגילוי**. המקור אינו מציין את הראיות המדויקות שמצאו האלוהים שביססו את מעמדם־הנברא — אילו חתימות ארכיאולוגיות, גנטיות, קוסמולוגיות או אחרות שכנעו אותם. מה שהמקור כן מציין הוא התוצאה: הבנתם העצמית של האלוהים השתנתה מן היסוד, והשינוי הוליד שינויים ספציפיים במדיניותם התפעולית כלפי האנושויות שבראו בעצמם.
 
-**The operational consequences**. The discovery produced several specific operational changes:
+**ההשלכות התפעוליות**. הגילוי הוליד כמה שינויים תפעוליים ספציפיים:
 
-- **The shift from direct to indirect contact**: A humanity that reached scientific maturity through sustained direct intervention from its creators had not actually demonstrated scientific maturity — it had been carried to that condition by its predecessors. The cosmic pattern, the Elohim recognized, presumably required each humanity to demonstrate its development through its own efforts, with sufficient autonomy from its creators to constitute genuine independent maturation.
-- **The development of the prophetic tradition**: As the principal mechanism for indirect contact, the prophetic tradition allowed the alliance to maintain communication with their humanities while preserving the appearance of autonomy that the cosmic pattern required.
-- **The cultivation of multiple lineages**: The alliance's specific cultivation of multiple cultural lineages (Hebrew, Persian, Greek, Indian, Chinese, Mesoamerican) reflected the broader cosmic-competition framework's evaluation function.
-- **The eventual disclosure**: The discovery would eventually be communicated to the alliance's humanities — initially in parable form (Jesus's parable of the sower), eventually in the explicit revelation of the Aquarian age (the Raëlian source material).
+- **המעבר ממגע ישיר למגע עקיף**: אנושות שהגיעה לבגרות מדעית באמצעות התערבות ישירה ומתמשכת מבוראיה לא הוכיחה למעשה בגרות מדעית — היא נישאה לאותו מצב בידי קודמיה. הדפוס הקוסמי, הכירו האלוהים, דרש ככל הנראה מכל אנושות להוכיח את התפתחותה במאמציה שלה, עם אוטונומיה מספקת מבוראיה כדי להוות הבשלה עצמאית אמיתית.
+- **פיתוח המסורת הנבואית**: כמנגנון העיקרי למגע עקיף, המסורת הנבואית איפשרה לברית לשמור על תקשורת עם אנושויותיה תוך שמירה על מראית עין של אוטונומיה שהדפוס הקוסמי דרש.
+- **טיפוח שושלות מרובות**: טיפוח הברית הספציפי של שושלות תרבותיות מרובות (עברית, פרסית, יוונית, הודית, סינית, מסואמריקנית) שיקף את תפקיד ההערכה של מסגרת התחרות הקוסמית הרחבה.
+- **החשיפה הסופית**: הגילוי יימסר בסופו של דבר לאנושויות הברית — תחילה בצורת משל (משל הזורע של ישוע), בסופו של דבר בהתגלות המפורשת של עידן הדלי (חומר־המקור הראלי).
 
-The Aries-discovery is therefore the operational pivot in the corpus's broader narrative — the moment at which the Elohim's self-understanding transformed and the specific operational practices of the subsequent ages were established.
+גילוי עידן הטלה הוא אפוא נקודת המפנה התפעולית בנרטיב הרחב של הקורפוס — הרגע שבו השתנתה הבנתם העצמית של האלוהים ונקבעו הפרקטיקות התפעוליות הספציפיות של העידנים העוקבים.
 
-### The Lord's Prayer as compressed statement
+### תפילת האדון כהצהרה דחוסה
 
-The framework reads the Lord's Prayer's central petition — *"Thy kingdom come; thy will be done in earth, as it is in heaven"* (Matthew 6:10) — as the compressed statement of the Cosmic Chain's cyclical-recursive structure.
+המסגרת קוראת את בקשתה המרכזית של תפילת האדון — *»תבוא מלכותך; ייעשה רצונך בארץ כמו בשמיים«* (מתי ו, 10) — כהצהרה הדחוסה של המבנה המחזורי־רקורסיבי של השרשרת הקוסמית.
 
-The reading's specific content:
+התוכן הספציפי של הקריאה:
 
-- **"In heaven"** refers to the home world of the Elohim — a civilization that has already passed through the developmental stages Earth is now traversing
-- **"On earth"** refers to Earth — a civilization currently in the developmental stage the home world has previously traversed
-- **"Thy will be done"** refers to the cosmic-creative-cycle's continuation — the pattern of development from created civilization to creator civilization
-- **"As it is in heaven"** refers to the structural identity across cycles — what occurs at one level of the creative hierarchy is repeated at the level it produces
+- **»בשמיים«** מתייחס לעולם־הבית של האלוהים — תרבות שכבר עברה את שלבי ההתפתחות שהארץ חוצה כעת
+- **»בארץ«** מתייחס לארץ — תרבות הנמצאת כעת בשלב ההתפתחותי שעולם־הבית חצה בעבר
+- **»ייעשה רצונך«** מתייחס להמשך המחזור היצירתי־הקוסמי — דפוס ההתפתחות מתרבות נבראת לבוראת
+- **»כמו בשמיים«** מתייחס לזהות המבנית בין המחזורים — מה שמתרחש ברמה אחת של ההיררכיה היצירתית חוזר ברמה שהיא מייצרת
 
-The Lord's Prayer is therefore not principally a petition for divine intervention in human affairs but a programmatic statement of the cosmic-chain vision: humanity is to develop until it becomes what the Elohim civilization is, and then to itself become a creator civilization continuing the cosmic chain.
+תפילת האדון אינה אפוא ביסודה בקשה להתערבות אלוהית בענייני אנוש אלא הצהרה תוכניתית של חזון השרשרת הקוסמית: על האנושות להתפתח עד שתהפוך למה שתרבות האלוהים היא, ואז להפוך בעצמה לתרבות בוראת הממשיכה את השרשרת הקוסמית.
 
-This reading is substantially distinctive within the Christian interpretive tradition, which has read the prayer for two millennia as a petition for divine sovereignty to be established on earth. The framework registers the distinction honestly: the cosmic-chain reading goes substantially beyond the standard Christian interpretation, with the specific source-material warrant being the Raëlian source's explicit framing.
+קריאה זו ייחודית באופן ניכר בתוך המסורת הפרשנית הנוצרית, שקראה את התפילה במשך שני אלפי שנים כבקשה לכינון ריבונות אלוהית עלי אדמות. המסגרת רושמת את ההבחנה ביושר: קריאת השרשרת הקוסמית חורגת באופן ניכר מן הפרשנות הנוצרית הסטנדרטית, כשהאחיזה הספציפית בחומר־המקור היא המסגור המפורש של המקור הראלי.{{ footnote(id="4") }}
 
-### Earth's projected trajectory
+### מסלולה המוטל של הארץ
 
-The framework's reading of Earth's projected future trajectory provides substantial content for the chain's forward extension. The principal phases:
+קריאת המסגרת את מסלולה העתידי המוטל של הארץ מספקת תוכן ניכר עבור הרחבת השרשרת קדימה. השלבים העיקריים:
 
-**The Aquarian-age inheritance evaluation** (1945–present, continuing across the coming decades). Earth's humanity is currently being evaluated against the standard required for inheritance qualification — the moral, scientific, and political maturity that would qualify it to receive the alliance's accumulated knowledge and continue the chain. The detailed treatment of the inheritance evaluation lives in the [Cosmic Competition](../cosmic-competition/) entry.
+**הערכת־הירושה של עידן הדלי** (1945–ההווה, נמשכת לאורך העשורים הקרובים). אנושות הארץ מוערכת כעת כנגד הסטנדרט הנדרש להסמכה לירושה — הבגרות המוסרית, המדעית והפוליטית שתכשיר אותה לקבל את הידע המצטבר של הברית ולהמשיך את השרשרת. הטיפול המפורט בהערכת הירושה מצוי בערך [התחרות הקוסמית](../cosmic-competition/).
 
-**The inheritance event itself** (projected, following the Aquarian-age preparation period). The inheritance event will occur at the embassy following the alliance's open return. The accumulated knowledge of the alliance will be transmitted to humanity, providing the foundational basis for Earth's transition from created to creator civilization. The detailed treatment lives in the [Embassy](../embassy/) entry (when written).
+**אירוע הירושה עצמו** (מוטל, בעקבות תקופת ההכנה של עידן הדלי). אירוע הירושה יתרחש במשגרירות בעקבות שובה הגלוי של הברית. הידע המצטבר של הברית יועבר לאנושות, ויספק את הבסיס היסודי למעברה של הארץ מתרבות נבראת לבוראת. הטיפול המפורט מצוי בערך [המשגרירות](../embassy/) (כשייכתב).
 
-**The post-inheritance development** (projected, across the centuries following the inheritance event). Earth's humanity will develop the substantive capacities required for becoming a creator civilization — the interstellar travel capacity, the de novo biological synthesis capacity, the cultural and political maturity required to use these capacities responsibly. The development will occur across the centuries following the inheritance event, with the specific timeline depending on the broader Aquarian-age developmental trajectory.
+**ההתפתחות שלאחר הירושה** (מוטלת, לאורך המאות שלאחר אירוע הירושה). אנושות הארץ תפתח את היכולות המהותיות הנדרשות להפיכה לתרבות בוראת — יכולת המסע הבין־כוכבי, יכולת הסינתזה הביולוגית מאין, והבגרות התרבותית והפוליטית הנדרשת לשימוש אחראי ביכולות אלה. ההתפתחות תתרחש לאורך המאות שלאחר אירוע הירושה, כשהלוח הזמנים הספציפי תלוי במסלול ההתפתחותי הרחב של עידן הדלי.
 
-**The first human-conducted creation** (projected, at some point in the centuries to come). Earth's humanity will eventually conduct its first creation project on a suitable world, producing a new humanity. The first human-conducted creation will be the specific moment at which Earth's humanity transitions from created to creator civilization in the operational sense.
+**הבריאה האנושית הראשונה** (מוטלת, בנקודה כלשהי במאות הבאות). אנושות הארץ תנהל בסופו של דבר את מיזם הבריאה הראשון שלה בעולם מתאים, ותפיק אנושות חדשה. הבריאה האנושית הראשונה תהיה הרגע הספציפי שבו אנושות הארץ עוברת מתרבות נבראת לבוראת במובן התפעולי.
 
-**The continuation of the chain through Earth's future creations** (projected, indefinitely forward). The new humanities Earth's humanity will create will themselves develop through the same cycle, eventually themselves becoming creator civilizations. The chain will continue indefinitely forward through these future cycles.
+**המשך השרשרת באמצעות בריאותיה העתידיות של הארץ** (מוטל, ללא הגבלה קדימה). האנושויות החדשות שאנושות הארץ תברא יתפתחו בעצמן דרך אותו מחזור, ויהפכו בסופו של דבר בעצמן לתרבויות בוראות. השרשרת תימשך ללא הגבלה קדימה באמצעות מחזורים עתידיים אלה.
 
-### The relationship to the broader infinite cosmos
+### היחס לקוסמוס האינסופי הרחב
 
-The Cosmic Chain operates within a broader infinite cosmological framework that the source material develops substantially. The principal features:
+השרשרת הקוסמית פועלת בתוך מסגרת קוסמולוגית אינסופית רחבה שחומר־המקור מפתח באופן ניכר. התכונות העיקריות:
 
-**Infinity in space**. The cosmos has no center and no boundary in any direction. The Cosmic Chain operates within this spatially infinite cosmos, with the various creator civilizations distributed across the broader cosmic structure.
+**אינסופיות במרחב**. לקוסמוס אין מרכז ואין גבול בשום כיוון. השרשרת הקוסמית פועלת בתוך קוסמוס אינסופי־מרחבית זה, כשהתרבויות הבוראות השונות מפוזרות ברחבי המבנה הקוסמי הרחב.
 
-**Infinity in time**. The cosmos has no beginning and no end in temporal direction. The Cosmic Chain extends through this temporally infinite cosmos, with the various cycles operating across cosmic time without ultimate origin or termination.
+**אינסופיות בזמן**. לקוסמוס אין ראשית ואין אחרית בכיוון הזמן. השרשרת הקוסמית משתרעת דרך קוסמוס אינסופי־זמנית זה, כשהמחזורים השונים פועלים לאורך הזמן הקוסמי ללא מקור סופי או סיום.
 
-**Infinite hierarchy of scales**. Intelligent civilizations exist at every scale from infinitely small to infinitely large. The Cosmic Chain operates at one specific scale within this broader hierarchical structure, with the various scales being approximately independent (the civilizations at each scale are largely unaware of the civilizations at other scales).
+**היררכיה אינסופית של קני מידה**. תרבויות תבוניות מתקיימות בכל קנה מידה מן האינסופי־קטן ועד האינסופי־גדול. השרשרת הקוסמית פועלת בקנה מידה ספציפי אחד בתוך מבנה היררכי רחב זה, כשקני המידה השונים בלתי־תלויים בקירוב (התרבויות בכל קנה מידה אינן מודעות בעיקר לתרבויות בקני מידה אחרים).
 
-**The framework's relationship to "God"**. If "God" is interpreted as the infinite cosmos itself, then God exists — God is the infinite structure within which all the various local features operate. But this God is not a personal being, not a deity that intervenes in human affairs, not a recipient of prayer or worship in any traditional sense. The infinite cosmos is "infinitely indifferent" to specific events at any particular scale. If "God" is interpreted as a personal creator who cares about humanity, then there are such beings — the Elohim, our specific creators, who do indeed care about us in the concrete sense — but these beings are not God in the traditional theological sense. They are advanced beings of our own kind, themselves created by other beings, themselves operating within the larger infinite cosmos.
+**יחס המסגרת ל»אלוהים«**. אם »אלוהים« מתפרש כקוסמוס האינסופי עצמו, אזי אלוהים קיים — אלוהים הוא המבנה האינסופי שבתוכו פועלות כל התכונות המקומיות השונות. אך אלוהים זה אינו יצור אישי, אינו אל המתערב בענייני אנוש, אינו נמען לתפילה או לפולחן בשום מובן מסורתי. הקוסמוס האינסופי »אדיש לאין שיעור« לאירועים ספציפיים בכל קנה מידה מסוים. אם »אלוהים« מתפרש כבורא אישי הדואג לאנושות, אזי ישנם יצורים כאלה — האלוהים, בוראינו הספציפיים, הדואגים לנו אכן במובן הקונקרטי — אך יצורים אלה אינם אלוהים במובן התיאולוגי המסורתי. הם יצורים מתקדמים מסוגנו, נבראים בעצמם בידי יצורים אחרים, פועלים בעצמם בתוך הקוסמוס האינסופי הרחב.{{ footnote(id="5") }}
 
-The framework's specific position on the relationship between the Cosmic Chain and the broader infinite cosmos is distinctive: the chain is one specific feature of the broader infinite cosmological structure rather than the broader structure itself. The infinite cosmos contains the chain (and presumably contains many other features that the framework does not develop in detail) rather than being identical with the chain.
+עמדת המסגרת הספציפית על היחס בין השרשרת הקוסמית לקוסמוס האינסופי הרחב ייחודית: השרשרת היא תכונה ספציפית אחת של המבנה הקוסמולוגי האינסופי הרחב ולא המבנה הרחב עצמו. הקוסמוס האינסופי מכיל את השרשרת (וככל הנראה מכיל תכונות רבות אחרות שהמסגרת אינה מפתחת בפירוט) ולא זהה לשרשרת.
 
-## Application across the corpus
+## יישום ברחבי הקורפוס
 
-The Cosmic Chain framework operates as the broadest analytical category across multiple corpus entries.
+מסגרת השרשרת הקוסמית פועלת כקטגוריה האנליטית הרחבה ביותר על פני ערכי קורפוס מרובים.
 
-### The Cosmic Competition entry
+### ערך התחרות הקוסמית
 
-The Cosmic Competition framework operates as one specific phase within the broader Cosmic Chain — the evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification. The detailed treatment lives in the [Cosmic Competition](../cosmic-competition/) entry; the Cosmic Chain entry establishes the broader cyclical-recursive structure within which the evaluation phase operates.
+מסגרת התחרות הקוסמית פועלת כשלב ספציפי אחד בתוך השרשרת הקוסמית הרחבה — שלב ההערכה שבמהלכו תרבות בוראת מעריכה את האנושויות שבראה לצורך הסמכה לירושה. הטיפול המפורט מצוי בערך [התחרות הקוסמית](../cosmic-competition/); ערך השרשרת הקוסמית מקים את המבנה המחזורי־רקורסיבי הרחב שבתוכו פועל שלב ההערכה.
 
-### The Aries-age entry
+### ערך עידן הטלה
 
-The Aries-discovery is the operational origin of the Cosmic Chain framework in the corpus's broader narrative. The detailed treatment of the Aries age and the discovery's specific content lives in the [Age of Aries](../timeline/age-of-aries/) entry; the Cosmic Chain entry establishes the broader cosmological framework that the discovery produced.
+גילוי עידן הטלה הוא המקור התפעולי של מסגרת השרשרת הקוסמית בנרטיב הרחב של הקורפוס. הטיפול המפורט בעידן הטלה ובתוכן הספציפי של הגילוי מצוי בערך [עידן הטלה](../timeline/age-of-aries/); ערך השרשרת הקוסמית מקים את המסגרת הקוסמולוגית הרחבה שהוליד הגילוי.
 
-### The Aquarian-age entries
+### ערכי עידן הדלי
 
-The Aquarian-age inheritance evaluation operates as the specific present-day phase of the Cosmic Chain's cyclical structure. The detailed treatment lives in the [Apocalypse](../apocalypse/), [Embassy](../embassy/), and [Age of Aquarius](../timeline/age-of-aquarius/) entries; the Cosmic Chain entry establishes the broader cosmic-cyclical context within which the Aquarian-age developments operate.
+הערכת־הירושה של עידן הדלי פועלת כשלב בן־ימינו הספציפי של המבנה המחזורי של השרשרת הקוסמית. הטיפול המפורט מצוי בערכי [אחרית הימים](../apocalypse/), [המשגרירות](../embassy/), ו[עידן הדלי](../timeline/age-of-aquarius/); ערך השרשרת הקוסמית מקים את ההקשר הקוסמי־מחזורי הרחב שבתוכו פועלות התפתחויות עידן הדלי.
 
-### The corpus's broader cosmological framing
+### המסגור הקוסמולוגי הרחב של הקורפוס
 
-The Cosmic Chain framework provides the broadest cosmological context within which the corpus's specific narratives operate. The Earth project specifically, the various age-specific developments, the alliance's specific operational history — all of these operate within the broader Cosmic Chain framework, with the specific Earth-side content being one specific link in the much broader cosmic chain.
+מסגרת השרשרת הקוסמית מספקת את ההקשר הקוסמולוגי הרחב ביותר שבתוכו פועלים הנרטיבים הספציפיים של הקורפוס. מיזם כדור הארץ במובן הצר, ההתפתחויות הספציפיות לעידנים השונים, ההיסטוריה התפעולית הספציפית של הברית — כל אלה פועלים בתוך מסגרת השרשרת הקוסמית הרחבה, כשהתוכן הספציפי בצד הארץ הוא חוליה ספציפית אחת בשרשרת הקוסמית הרחבה בהרבה.
 
-## Distinguishing from adjacent concepts
+## הבחנה מתפיסות סמוכות
 
-The Cosmic Chain framework must be distinguished from several adjacent concepts to avoid confusion.
+יש להבחין בין מסגרת השרשרת הקוסמית לכמה תפיסות סמוכות כדי למנוע בלבול.
 
-### The Cosmic Chain vs. the Cosmic Competition
+### השרשרת הקוסמית מול התחרות הקוסמית
 
-The Cosmic Competition is one specific phase within the broader Cosmic Chain — the evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification. The Cosmic Chain is the broader cyclical-recursive cosmological framework that includes the Cosmic Competition as one of its specific phases.
+התחרות הקוסמית היא שלב ספציפי אחד בתוך השרשרת הקוסמית הרחבה — שלב ההערכה שבמהלכו תרבות בוראת מעריכה את האנושויות שבראה לצורך הסמכה לירושה. השרשרת הקוסמית היא המסגרת הקוסמולוגית המחזורית־רקורסיבית הרחבה הכוללת את התחרות הקוסמית כאחד משלביה הספציפיים.
 
-The relationship is one of **broader-and-narrower scope**. The Cosmic Chain extends across the full cyclical structure (creation, development, discovery, maturation, inheritance, creator-civilization phase, continuation); the Cosmic Competition concerns specifically the evaluation phase during which the inheritance qualification is assessed. The Cosmic Chain operates in both temporal directions infinitely; the Cosmic Competition operates within a specific temporal window during which the evaluation is conducted.
+היחס הוא יחס של **היקף רחב־ומצומצם**. השרשרת הקוסמית משתרעת על פני המבנה המחזורי המלא (בריאה, התפתחות, גילוי, הבשלה, ירושה, שלב התרבות הבוראת, המשכיות); התחרות הקוסמית עוסקת באופן ספציפי בשלב ההערכה שבמהלכו מוערכת ההסמכה לירושה. השרשרת הקוסמית פועלת בשני כיווני הזמן באופן אינסופי; התחרות הקוסמית פועלת בתוך חלון זמן ספציפי שבמהלכו מתבצעת ההערכה.
 
-### The Cosmic Chain vs. the precessional ages framework
+### השרשרת הקוסמית מול מסגרת עידני הנסיגה
 
-The precessional ages framework is the broader chronological structure that organizes Earth's specific developmental trajectory across twelve approximately 2,160-year ages. The Cosmic Chain is the cosmic-cyclical-recursive framework that includes Earth's precessional-age trajectory as one specific instance.
+מסגרת עידני הנסיגה היא המבנה הכרונולוגי הרחב המארגן את מסלולה ההתפתחותי הספציפי של הארץ על פני שנים־עשר עידנים של כ־2,160 שנה. השרשרת הקוסמית היא המסגרת הקוסמית־מחזורית־רקורסיבית הכוללת את מסלול עידני הנסיגה של הארץ כמופע ספציפי אחד.
 
-The relationship is one of **cosmic-broader-framework-and-Earth-specific-trajectory**. The Cosmic Chain extends across all instances of the cosmic creative cycle (Earth's, the parallel humanities', the prior creators', the future creations', etc.); the precessional ages framework operates specifically for Earth's particular trajectory through one specific cycle.
+היחס הוא יחס של **מסגרת־קוסמית־רחבה־ומסלול־ארצי־ספציפי**. השרשרת הקוסמית משתרעת על פני כל מופעי המחזור היצירתי הקוסמי (של הארץ, של האנושויות המקבילות, של הבוראים הקודמים, של הבריאות העתידיות וכו'); מסגרת עידני הנסיגה פועלת באופן ספציפי עבור מסלולה המסוים של הארץ דרך מחזור ספציפי אחד.
 
-### The Cosmic Chain vs. the Earth project specifically
+### השרשרת הקוסמית מול מיזם כדור הארץ במובן הצר
 
-The Earth project is the alliance's specific operational work on Earth — the seven creator-team distribution, the antediluvian developments, the various subsequent ages, the current Aquarian-age preparation. The Cosmic Chain is the broader cosmic-cyclical-recursive framework within which the Earth project operates as one specific instance.
+מיזם כדור הארץ הוא עבודת הברית התפעולית הספציפית על כדור הארץ — חלוקת שבעת צוותי הבוראים, ההתפתחויות הקדם־מבוליות, העידנים העוקבים השונים, הכנת עידן הדלי הנוכחית. השרשרת הקוסמית היא המסגרת הקוסמית־מחזורית־רקורסיבית הרחבה שבתוכה פועל מיזם כדור הארץ כמופע ספציפי אחד.
 
-The relationship is one of **broader-cosmic-framework-and-specific-operational-instance**. The Cosmic Chain operates across all the cosmic creative cycles indefinitely; the Earth project is the alliance's specific work on this specific world during this specific cycle.
+היחס הוא יחס של **מסגרת־קוסמית־רחבה־ומופע־תפעולי־ספציפי**. השרשרת הקוסמית פועלת על פני כל המחזורים היצירתיים הקוסמיים ללא הגבלה; מיזם כדור הארץ הוא עבודת הברית הספציפית על עולם ספציפי זה במהלך מחזור ספציפי זה.
 
-### The Cosmic Chain vs. the broader infinite cosmos
+### השרשרת הקוסמית מול הקוסמוס האינסופי הרחב
 
-The broader infinite cosmos is the larger cosmological structure within which the Cosmic Chain operates as one specific feature. The Cosmic Chain is the specific recursive-cyclical pattern of created-and-creating civilizations; the broader infinite cosmos contains this pattern along with many other features.
+הקוסמוס האינסופי הרחב הוא המבנה הקוסמולוגי הגדול שבתוכו פועלת השרשרת הקוסמית כתכונה ספציפית אחת. השרשרת הקוסמית היא הדפוס הרקורסיבי־מחזורי הספציפי של תרבויות נבראות־ובוראות; הקוסמוס האינסופי הרחב מכיל דפוס זה לצד תכונות רבות אחרות.
 
-The relationship is one of **specific-feature-and-broader-cosmic-context**. The Cosmic Chain is one specific feature of the broader infinite cosmological structure rather than being identical with it. The infinite cosmos has temporal infinity, spatial infinity, infinite hierarchy of scales, and various other features that the Cosmic Chain does not exhaust.
+היחס הוא יחס של **תכונה־ספציפית־והקשר־קוסמי־רחב**. השרשרת הקוסמית היא תכונה ספציפית אחת של המבנה הקוסמולוגי האינסופי הרחב ולא זהה לו. לקוסמוס האינסופי יש אינסופיות זמנית, אינסופיות מרחבית, היררכיה אינסופית של קני מידה, ותכונות שונות אחרות שהשרשרת הקוסמית אינה ממצה.
 
-### The Cosmic Chain vs. theological "creation" doctrines
+### השרשרת הקוסמית מול תורות »בריאה« תיאולוגיות
 
-The conventional Western theological "creation" doctrines posit a specific creator deity (God) who originates the cosmos through specific creative acts. The Cosmic Chain rejects the specific "first creator" presupposition while preserving the underlying insight that civilizations are created rather than autonomously originating.
+תורות »הבריאה« התיאולוגיות המערביות המקובלות מניחות אל־בורא ספציפי (אלוהים) המחולל את הקוסמוס באמצעות מעשי בריאה ספציפיים. השרשרת הקוסמית דוחה את הנחת »הבורא הראשון« הספציפית תוך שמירה על התובנה שביסוד, שתרבויות נבראות ולא מתחוללות מעצמן.
 
-The relationship is one of **substantive-divergence-on-specific-content** with **structural-overlap-on-broader-creative-pattern**. The framework agrees with conventional creation doctrine that civilizations (and their constituent biological systems) are created rather than autonomously originating; the framework disagrees with conventional creation doctrine on the specific question of whether there is a first uncreated creator.
+היחס הוא יחס של **סטייה־מהותית־בתוכן־הספציפי** עם **חפיפה־מבנית־בדפוס־היצירתי־הרחב**. המסגרת מסכימה עם תורת הבריאה המקובלת שתרבויות (והמערכות הביולוגיות המרכיבות אותן) נבראות ולא מתחוללות מעצמן; המסגרת חולקת על תורת הבריאה המקובלת בשאלה הספציפית אם יש בורא ראשון בלתי־נברא.
 
-## Modern reinterpretations
+## פרשנויות מודרניות
 
-The Cosmic Chain framework's modern reinterpretive landscape comprises multiple distinct strands.
+הנוף הפרשני־מודרני של מסגרת השרשרת הקוסמית כולל כמה גדילים נבדלים.
 
-### Mainstream cosmology infinite-universe questions
+### שאלות היקום־האינסופי בקוסמולוגיה המרכזית
 
-Mainstream cosmology has produced substantial work on the broader question of cosmic infinity. The principal positions:
+הקוסמולוגיה המרכזית הפיקה עבודה ניכרת על השאלה הרחבה של האינסופיות הקוסמית. העמדות העיקריות:
 
-**Giordano Bruno**'s *De l'infinito universo et mondi* (1584) developed the multiple-worlds and infinite-universe doctrine extensively. Bruno argued for an infinite universe containing infinite inhabited worlds, with the cosmos having no center and no boundary. Bruno's specific cosmological-theological doctrines led to his execution by the Roman Inquisition in 1600. Bruno is the principal early-modern philosophical antecedent of the contemporary infinite-universe discussion.
+**ה־*De l'infinito universo et mondi* של ג'ורדנו ברונו** (1584) פיתח בהרחבה את תורת העולמות המרובים והיקום האינסופי. ברונו טען בזכות יקום אינסופי המכיל עולמות מיושבים אינסופיים, כשלקוסמוס אין מרכז ואין גבול. תורותיו הקוסמולוגיות־התיאולוגיות הספציפיות של ברונו הובילו להוצאתו להורג בידי האינקוויזיציה הרומית ב־1600. ברונו הוא הקדמה הפילוסופית העיקרית מן העת החדשה המוקדמת לדיון בן־זמננו על היקום האינסופי.
 
-**Immanuel Kant** in the *Critique of Pure Reason* (1781) treated the question of cosmic infinity within the broader framework of the antinomies of pure reason. Kant argued that the question whether the universe is infinite or finite cannot be resolved by pure reason alone, with both answers leading to contradictions when developed systematically. Kant's specific treatment has substantial implications for how the question can be approached philosophically.
+**עמנואל קאנט** ב־*ביקורת התבונה הטהורה* (1781) טיפל בשאלת האינסופיות הקוסמית בתוך המסגרת הרחבה של האנטינומיות של התבונה הטהורה.{{ cite(id="kant-critique-pure-reason", text="[10]", title="קאנט, *ביקורת התבונה הטהורה* (1781) — האנטינומיות על האינסופיות הקוסמית") }} קאנט טען שהשאלה אם היקום אינסופי או סופי אינה ניתנת ליישוב בתבונה הטהורה לבדה, כששתי התשובות מובילות לסתירות כשמפתחים אותן באופן שיטתי. טיפולו הספציפי של קאנט בעל השלכות ניכרות לאופן שבו ניתן לגשת לשאלה מבחינה פילוסופית.
 
-**Contemporary multiverse cosmology** (Linde, Vilenkin, Tegmark, and others) develops substantial work on the broader question of cosmic infinity within contemporary scientific cosmology. The principal models include:
+**קוסמולוגיית הרב־יקום בת־זמננו** (לינדה, וילנקין, טגמרק ואחרים) מפתחת עבודה ניכרת על השאלה הרחבה של האינסופיות הקוסמית בתוך הקוסמולוגיה המדעית בת־זמננו. המודלים העיקריים כוללים:
 
-- **Eternal inflation models** proposing that our observable universe is one specific region within a larger multiverse structure produced by ongoing inflationary expansion
-- **String theory landscape models** proposing that the various fundamental physical constants take different values in different regions of the broader multiverse
-- **Many-worlds quantum mechanics** proposing that the various possible quantum outcomes are realized in different branches of a broader multiverse
+- **מודלי אינפלציה נצחית** המציעים שהיקום הנצפה שלנו הוא אזור ספציפי אחד בתוך מבנה רב־יקומי רחב יותר המופק בידי התרחבות אינפלציונית מתמשכת
+- **מודלי נוף תורת המיתרים** המציעים שהקבועים הפיזיקליים היסודיים השונים מקבלים ערכים שונים באזורים שונים של הרב־יקום הרחב
+- **מכניקת הקוונטים של עולמות־מרובים** המציעה שהתוצאות הקוונטיות האפשריות השונות ממומשות בענפים שונים של רב־יקום רחב יותר
 
-**Tegmark's mathematical universe hypothesis** (Max Tegmark, *Our Mathematical Universe*, 2014) develops a substantial multiverse framework in which all mathematically consistent universes exist as physically real structures. The framework provides one specific contemporary engagement with the broader infinite-universe question.
+**השערת היקום המתמטי של טגמרק** (מקס טגמרק, *Our Mathematical Universe*, 2014) מפתחת מסגרת רב־יקומית ניכרת שבה כל היקומים העקביים מתמטית קיימים כמבנים ממשיים פיזיקלית.{{ cite(id="tegmark-mathematical-universe", text="[11]", title="טגמרק, *Our Mathematical Universe* (2014)") }}{{ cite(id="vilenkin-many-worlds-in-one", text="[12]", title="וילנקין, *Many Worlds in One* (2006)") }}{{ cite(id="linde-inflation-quantum-cosmology", text="[13]", title="לינדה, *Inflation and Quantum Cosmology* (1990)") }} המסגרת מספקת התמודדות ספציפית אחת בת־זמננו עם שאלת היקום־האינסופי הרחבה.
 
-The framework's relationship to mainstream cosmology is one of broader-framework consistency (the Cosmic Chain does not contradict mainstream observational cosmology) while extending substantially beyond what mainstream cosmology directly engages (the specific civilizational-recursive content of the chain).
+יחס המסגרת לקוסמולוגיה המרכזית הוא יחס של עקביות מסגרתית־רחבה (השרשרת הקוסמית אינה סותרת את הקוסמולוגיה התצפיתית המרכזית) תוך הרחבה ניכרת מעבר למה שהקוסמולוגיה המרכזית מתמודדת עימו במישרין (התוכן הציביליזציוני־רקורסיבי הספציפי של השרשרת).
 
-### The steady-state vs. Big Bang debate
+### הוויכוח בין המצב־היציב למפץ הגדול
 
-Mainstream cosmological history includes the substantial 20th-century debate between the steady-state and Big Bang models. The principal positions:
+ההיסטוריה הקוסמולוגית המרכזית כוללת את הוויכוח הניכר של המאה ה־20 בין מודל המצב־היציב למודל המפץ הגדול. העמדות העיקריות:
 
-**The steady-state model** (Hoyle, Bondi, Gold, developed in the 1940s-1950s) proposed that the universe has no specific origin, with new matter being continuously created to maintain constant cosmic density across the expansion. The model was elegant in addressing the question of cosmic origins (by denying that any specific origin is needed) and was a serious scientific competitor to the Big Bang model across the mid-20th century.
+**מודל המצב־היציב** (הויל, בונדי, גולד, שפותח בשנות ה־40 וה־50) הציע שליקום אין מקור ספציפי, כשחומר חדש נברא ברציפות כדי לשמור על צפיפות קוסמית קבועה לאורך ההתרחבות. המודל היה אלגנטי בהתמודדותו עם שאלת המקורות הקוסמיים (בשללו שיש צורך במקור ספציפי כלשהו) והיה מתחרה מדעי רציני למודל המפץ הגדול לאורך אמצע המאה ה־20.
 
-**The Big Bang model** (Lemaître, Gamow, others, with substantial development across the 20th century) proposed that the universe originated from an extremely hot, dense state approximately 13.8 billion years ago. The model was eventually established as the principal contemporary cosmological framework through multiple lines of empirical evidence.
+**מודל המפץ הגדול** (למטר, גמוב ואחרים, עם פיתוח ניכר לאורך המאה ה־20) הציע שהיקום מקורו במצב חם וצפוף ביותר לפני כ־13.8 מיליארד שנה. המודל בוסס בסופו של דבר כמסגרת הקוסמולוגית בת־זמננו העיקרית באמצעות קווי ראיה אמפיריים מרובים.
 
-**The 1965 cosmic microwave background detection** (Penzias and Wilson) provided the principal empirical evidence that established the Big Bang model over the steady-state alternative. The cosmic microwave background's specific characteristics matched the Big Bang predictions and could not be readily accommodated within the steady-state framework.
+**גילוי קרינת הרקע הקוסמית ב־1965** (פנזיאס ווילסון) סיפק את הראיה האמפירית העיקרית שביססה את מודל המפץ הגדול על פני חלופת המצב־היציב. תכונותיה הספציפיות של קרינת הרקע הקוסמית תאמו את תחזיות המפץ הגדול ולא ניתן היה להכילן בקלות בתוך מסגרת המצב־היציב.
 
-**Cyclic alternatives to standard Big Bang** have continued to develop across subsequent decades. The Steinhardt-Turok ekpyrotic model proposes that the Big Bang was one event in an ongoing cyclic cosmology with successive cosmic cycles. Penrose's conformal cyclic cosmology proposes a different cyclic framework with substantial implications for how cosmic history should be understood.
+**חלופות מחזוריות למפץ הגדול הסטנדרטי** המשיכו להתפתח לאורך העשורים העוקבים. המודל האקפירוטי של שטיינהרדט־טורוק מציע שהמפץ הגדול היה אירוע אחד בקוסמולוגיה מחזורית מתמשכת עם מחזורים קוסמיים עוקבים. הקוסמולוגיה המחזורית הקונפורמית של פנרוז מציעה מסגרת מחזורית שונה עם השלכות ניכרות לאופן שבו יש להבין את ההיסטוריה הקוסמית.
 
-The framework's relationship to the steady-state vs. Big Bang debate is one of structural compatibility with cyclic alternatives. The Cosmic Chain framework's specific recursive-cyclical structure has substantial overlap with cyclic cosmologies generally, though the specific content (civilizational-recursive rather than purely physical-cyclical) differs from any specific contemporary cyclic cosmology.
+יחס המסגרת לוויכוח בין המצב־היציב למפץ הגדול הוא יחס של תאימות מבנית עם החלופות המחזוריות. למבנה הרקורסיבי־מחזורי הספציפי של מסגרת השרשרת הקוסמית יש חפיפה ניכרת לקוסמולוגיות מחזוריות בכלל, אף שהתוכן הספציפי (ציביליזציוני־רקורסיבי ולא פיזיקלי־מחזורי גרידא) שונה מכל קוסמולוגיה מחזורית בת־זמננו ספציפית.
 
-### Contemporary panspermia and directed-panspermia hypotheses
+### השערות הפנספרמיה והפנספרמיה־המכוונת בנות־זמננו
 
-Panspermia research has produced substantial development across the past several decades. The principal developments:
+מחקר הפנספרמיה הפיק פיתוח ניכר במהלך כמה העשורים האחרונים. ההתפתחויות העיקריות:
 
-**Classical panspermia** (Arrhenius, "Worlds in the Making," 1908) proposed that microbial life could be transmitted across cosmic distances on dust particles, with Earth's life originating from such cosmic transmission.
+**פנספרמיה קלאסית** (ארהניוס, »Worlds in the Making«, 1908) הציעה שחיים מיקרוביאליים עשויים לעבור על פני מרחקים קוסמיים על חלקיקי אבק, כשחיי הארץ מקורם בהעברה קוסמית כזו.
 
-**Crick and Orgel's "Directed Panspermia"** (Francis Crick and Leslie Orgel, *Icarus* 19, 1973: 341-346) developed a substantial scientific proposal that Earth's life was deliberately seeded by an extraterrestrial intelligent civilization. The hypothesis specifically addressed:
+**»פנספרמיה מכוונת« של קריק ואורגל** (פרנסיס קריק ולסלי אורגל, *Icarus* 19, 1973: 341-346) פיתחה הצעה מדעית ניכרת שחיי הארץ נזרעו במכוון בידי תרבות תבונית בת־חוץ. ההשערה התמודדה באופן ספציפי עם:
 
-- **The universality of the genetic code**: All Earth life uses essentially the same genetic code, which is unexpected if life originated multiple times autochthonously
-- **The molybdenum problem**: All Earth life depends on molybdenum, which has limited terrestrial abundance — suggesting that life originated in an environment where molybdenum was more abundant
-- **The unusual structural features**: Various biochemical features of Earth life appear unusually well-suited to specific functional purposes, suggesting deliberate engineering rather than autochthonous emergence
+- **אוניברסליות הקוד הגנטי**: כל חיי הארץ משתמשים בעצם באותו קוד גנטי, דבר בלתי־צפוי אם החיים מקורם בכמה התהוויות עצמיות
+- **בעיית המוליבדן**: כל חיי הארץ תלויים במוליבדן, שלו שכיחות ארצית מוגבלת — מה שמרמז שהחיים מקורם בסביבה שבה המוליבדן היה שכיח יותר
+- **התכונות המבניות יוצאות הדופן**: תכונות ביוכימיות שונות של חיי הארץ נראות מתאימות באופן יוצא דופן למטרות תפקודיות ספציפיות, מה שמרמז על הנדסה מכוונת ולא על התהוות עצמית
 
-The Crick-Orgel hypothesis was developed by serious scientists (Crick was the Nobel-laureate co-discoverer of DNA structure; Orgel was a principal scientist of early-Earth chemical biology) and represented a substantive scientific engagement with the broader question of life's origin on Earth.
+השערת קריק־אורגל פותחה בידי מדענים רציניים (קריק היה חתן פרס נובל וממגלי מבנה ה־DNA; אורגל היה מדען עיקרי של ביולוגיה כימית של כדור הארץ המוקדם) וייצגה התמודדות מדעית מהותית עם השאלה הרחבה של מקור החיים בארץ.
 
-**Contemporary panspermia research** has continued to develop the broader question. Recent work includes:
+**מחקר הפנספרמיה בן־זמננו** המשיך לפתח את השאלה הרחבה. עבודה עדכנית כוללת:
 
-- Studies on the survivability of microbial life in space environments (with substantial findings that various microorganisms can survive cosmic radiation, vacuum, and temperature extremes for substantial periods)
-- Investigation of potential vectors for cosmic transmission (meteoric material, cometary material, deliberate transmission)
-- Analysis of the broader question of whether Earth's life is unique or part of a broader cosmic biological pattern
+- מחקרים על שרידות חיים מיקרוביאליים בסביבות חלל (עם ממצאים ניכרים שמיקרואורגניזמים שונים יכולים לשרוד קרינה קוסמית, ריק וקיצוניות טמפרטורה למשכים ניכרים)
+- חקר ווקטורים אפשריים להעברה קוסמית (חומר מטאורי, חומר שביטי, העברה מכוונת)
+- ניתוח השאלה הרחבה אם חיי הארץ ייחודיים או חלק מדפוס ביולוגי קוסמי רחב יותר
 
-The framework's relationship to contemporary panspermia research, particularly to the Crick-Orgel directed-panspermia hypothesis, is one of substantial structural alignment. Both frameworks read Earth's life as having been deliberately produced by extraterrestrial intelligent civilization rather than emerging autochthonously. The Cosmic Chain framework extends the directed-panspermia framework substantially through the recursive-cyclical content (the Elohim themselves having been created by a prior civilization, with the chain extending indefinitely backward).
+יחס המסגרת למחקר הפנספרמיה בן־זמננו, בפרט להשערת הפנספרמיה המכוונת של קריק־אורגל, הוא יחס של התאמה מבנית ניכרת. שתי המסגרות קוראות את חיי הארץ כמי שהופקו במכוון בידי תרבות תבונית בת־חוץ ולא התהוו מעצמם. מסגרת השרשרת הקוסמית מרחיבה את מסגרת הפנספרמיה המכוונת באופן ניכר באמצעות התוכן הרקורסיבי־מחזורי (האלוהים עצמם שנבראו בידי תרבות קודמת, כשהשרשרת משתרעת ללא הגבלה אחורה).
 
-### Sendy on cosmic recursion
+### סנדי על הרקורסיה הקוסמית
 
-**Jean Sendy** developed substantial engagement with cosmic-recursion questions in his broader corpus. Sendy's specific contributions include:
+**ז'אן סנדי** פיתח התמודדות ניכרת עם שאלות הרקורסיה הקוסמית במכלול הרחב שלו. תרומותיו הספציפיות של סנדי כוללות:
 
-- The treatment of the Hebrew Bible's various references to multiple cosmic powers as preserving fragmentary memory of the broader cosmic context
-- The recognition that the Hebrew tradition's broader cosmological framework is consistent with substantial cosmic-recursive content
-- The integration of cosmic-recursive readings with the broader alliance-mediated history Sendy reconstructed
+- הטיפול בהתייחסויות השונות של המקרא העברי לכוחות קוסמיים מרובים כמשמרות זיכרון מקוטע של ההקשר הקוסמי הרחב
+- ההכרה בכך שהמסגרת הקוסמולוגית הרחבה של המסורת העברית עקבית עם תוכן קוסמי־רקורסיבי ניכר
+- שילוב הקריאות הקוסמיות־רקורסיביות עם ההיסטוריה הרחבה המתווכת־ברית שסנדי שחזר
 
-Sendy's specific Cosmic Chain development is more limited than the framework's contemporary articulation. The framework's specific recursive-cyclical content goes substantially beyond what Sendy directly developed, though the broader methodological framework Sendy provides is structurally compatible with the Cosmic Chain framework.
+פיתוח השרשרת הקוסמית הספציפי של סנדי מוגבל יותר מן הניסוח בן־זמננו של המסגרת. התוכן הרקורסיבי־מחזורי הספציפי של המסגרת חורג באופן ניכר ממה שסנדי פיתח במישרין, אף שהמסגרת המתודולוגית הרחבה שסנדי מספק תואמת מבנית למסגרת השרשרת הקוסמית.
 
-### Biglino on cosmic recursion
+### ביגלינו על הרקורסיה הקוסמית
 
-**Mauro Biglino**'s strict-translational engagement with the Hebrew Bible has produced limited specific engagement with the Cosmic Chain framework. Biglino's broader treatment of the Hebrew Bible's various references to multiple cosmic powers and to the broader cosmic-political situation is structurally compatible with the Cosmic Chain framework, but Biglino does not develop the specific recursive-cyclical content explicitly.
+ההתמודדות התרגומית־הקפדנית של **מאורו ביגלינו** עם המקרא העברי הפיקה התמודדות ספציפית מוגבלת עם מסגרת השרשרת הקוסמית. טיפולו הרחב של ביגלינו בהתייחסויות השונות של המקרא העברי לכוחות קוסמיים מרובים ולמצב הקוסמי־פוליטי הרחב תואם מבנית למסגרת השרשרת הקוסמית, אך ביגלינו אינו מפתח את התוכן הרקורסיבי־מחזורי הספציפי במפורש.
 
-### Wallis on cosmic recursion
+### ווליס על הרקורסיה הקוסמית
 
-**Paul Anthony Wallis**'s broader engagement with the alliance-mediated history includes some treatment of cosmic-recursive questions, principally within the broader context of the various ancient texts' references to cosmic-political pluralism and the broader alliance-mediated cosmic structure. Wallis's specific Cosmic Chain development is more limited than the framework's contemporary articulation, though his broader methodological framework is structurally compatible with the Cosmic Chain framework.
+ההתמודדות הרחבה של **פול אנתוני ווליס** עם ההיסטוריה המתווכת־ברית כוללת טיפול מסוים בשאלות קוסמיות־רקורסיביות, בעיקר בתוך ההקשר הרחב של התייחסויות הטקסטים הקדומים השונים לפלורליזם קוסמי־פוליטי ולמבנה הקוסמי הרחב המתווך־ברית. פיתוח השרשרת הקוסמית הספציפי של ווליס מוגבל יותר מן הניסוח בן־זמננו של המסגרת, אף שהמסגרת המתודולוגית הרחבה שלו תואמת מבנית למסגרת השרשרת הקוסמית.
 
-### The broader ancient-astronaut tradition
+### מסורת האסטרונאוט־הקדום הרחבה
 
-The broader ancient-astronaut interpretive tradition includes various engagements with cosmic-recursive questions:
+מסורת הפרשנות של האסטרונאוט־הקדום הרחבה כוללת התמודדויות שונות עם שאלות קוסמיות־רקורסיביות:
 
-- **Erich von Däniken** in *Chariots of the Gods* (1968) and successor works treats the broader cosmic-political situation as involving advanced extraterrestrial civilizations, with various implications for the broader cosmological framework
-- **Zecharia Sitchin** in *The 12th Planet* (1976) and successor works develops a substantially different reading focused on the Anunnaki-Nibiru cosmology, with limited specific engagement with the Cosmic Chain framework
-- **Various contemporary ancient-astronaut writers** develop further engagements with cosmic-recursive questions within their distinctive frameworks
+- **אריך פון דניקן** ב־*Chariots of the Gods* (1968) וביצירות עוקבות מתייחס למצב הקוסמי־פוליטי הרחב כמערב תרבויות מתקדמות בנות־חוץ, עם השלכות שונות למסגרת הקוסמולוגית הרחבה
+- **זכריה סיצ'ין** ב־*The 12th Planet* (1976) וביצירות עוקבות מפתח קריאה שונה באופן ניכר המתמקדת בקוסמולוגיית האנונאקי־ניבירו, עם התמודדות ספציפית מוגבלת עם מסגרת השרשרת הקוסמית
+- **כותבי אסטרונאוט־קדום שונים בני־זמננו** מפתחים התמודדויות נוספות עם שאלות קוסמיות־רקורסיביות בתוך מסגרותיהם הייחודיות
 
-The corpus's Cosmic Chain framework is structurally distinctive within the broader ancient-astronaut tradition through the specific recursive-cyclical content and the integration with the broader Wheel of Heaven framework's specific operational-historical content.
+מסגרת השרשרת הקוסמית של הקורפוס ייחודית מבנית בתוך מסורת האסטרונאוט־הקדום הרחבה באמצעות התוכן הרקורסיבי־מחזורי הספציפי והשילוב עם התוכן התפעולי־ההיסטורי הספציפי של מסגרת »גלגל השמיים« הרחבה.
 
-### The framework's relationship to the broader landscape
+### יחס המסגרת לנוף הרחב
 
-The corpus's Cosmic Chain framework is positioned within this landscape as follows: structurally consistent with mainstream cosmology at the empirical-observational level, even where the framework's specific claims go beyond what mainstream investigation has confirmed; structurally aligned with the Crick-Orgel directed-panspermia hypothesis on the deliberate-creation-of-Earth-life question, while extending substantially beyond panspermia through the recursive-cyclical content; structurally compatible with contemporary cyclic cosmologies (Steinhardt-Turok, Penrose) at the cosmological-cyclical level, while differing on the specific civilizational content; substantively distinct from mainstream Western theological tradition on the "first creator" question; structurally aligned with various Eastern cyclic-cosmology traditions (treated in *Comparative observations* below); structurally distinctive within the broader ancient-astronaut tradition through the specific recursive-cyclical content.
+מסגרת השרשרת הקוסמית של הקורפוס ממוקמת בתוך נוף זה כדלקמן: עקבית מבנית עם הקוסמולוגיה המרכזית ברמה האמפירית־תצפיתית, גם היכן שטענות המסגרת הספציפיות חורגות ממה שהחקירה המרכזית אישרה; מיושרת מבנית עם השערת הפנספרמיה המכוונת של קריק־אורגל בשאלת הבריאה־המכוונת־של־חיי־הארץ, תוך הרחבה ניכרת מעבר לפנספרמיה באמצעות התוכן הרקורסיבי־מחזורי; תואמת מבנית לקוסמולוגיות המחזוריות בנות־זמננו (שטיינהרדט־טורוק, פנרוז) ברמה הקוסמולוגית־מחזורית, תוך הבדל בתוכן הציביליזציוני הספציפי; נבדלת מהותית מן המסורת התיאולוגית המערבית המרכזית בשאלת »הבורא הראשון«; מיושרת מבנית עם מסורות מחזור־קוסמי מזרחיות שונות (הנדונות ב*תצפיות השוואתיות* להלן); ייחודית מבנית בתוך מסורת האסטרונאוט־הקדום הרחבה באמצעות התוכן הרקורסיבי־מחזורי הספציפי.
 
-## Comparative observations
+## תצפיות השוואתיות
 
-Cyclical-cosmological frameworks appear across multiple cultural-religious traditions worldwide, with substantial structural parallels to the framework's Cosmic Chain reading. The corpus reads this cross-cultural pattern as evidence of broader operational realities preserved in fragmentary form across the various traditions.
+מסגרות קוסמולוגיות־מחזוריות מופיעות על פני מסורות תרבותיות־דתיות מרובות ברחבי העולם, עם מקבילות מבניות ניכרות לקריאת השרשרת הקוסמית של המסגרת. הקורפוס קורא דפוס בין־תרבותי זה כעדות למציאויות תפעוליות רחבות שנשתמרו בצורה מקוטעת על פני המסורות השונות.
 
-### Hindu cyclic cosmology: kalpa-yuga
+### קוסמולוגיה מחזורית הינדואית: kalpa-yuga
 
-The Hindu tradition preserves the most extensively developed cyclic cosmology in the world's religious traditions. The principal features:
+המסורת ההינדואית משמרת את הקוסמולוגיה המחזורית המפותחת ביותר במסורות הדתיות של העולם. התכונות העיקריות:
 
-**The yuga cycles**. The four yugas — Krita (Satya), Treta, Dvapara, Kali — comprise the standard Hindu cosmic developmental cycle. The yugas have specific durations: Krita Yuga lasts 1,728,000 years; Treta Yuga lasts 1,296,000 years; Dvapara Yuga lasts 864,000 years; Kali Yuga lasts 432,000 years. The four yugas together comprise the **Mahayuga** of 4,320,000 years.
+**מחזורי ה־yuga**. ארבעת ה־yuga — Krita (Satya), Treta, Dvapara, Kali — מהווים את המחזור ההתפתחותי הקוסמי ההינדואי הסטנדרטי. ל־yuga משכים ספציפיים: Krita Yuga נמשך 1,728,000 שנה; Treta Yuga נמשך 1,296,000 שנה; Dvapara Yuga נמשך 864,000 שנה; Kali Yuga נמשך 432,000 שנה. ארבעת ה־yuga יחד מהווים את ה**Mahayuga** של 4,320,000 שנה.
 
-**The kalpa cycles**. The Mahayuga of 4,320,000 years is one unit; 1,000 mahayugas comprise one **Kalpa** of approximately 4.32 billion years. The Kalpa is described as one "day of Brahma," with each Kalpa being followed by an equally long "night of Brahma" during which the cosmos is dissolved.
+**מחזורי ה־kalpa**. ה־Mahayuga של 4,320,000 שנה הוא יחידה אחת; 1,000 mahayuga מהווים **Kalpa** אחד של כ־4.32 מיליארד שנה. ה־Kalpa מתואר כ»יום אחד של ברהמה«, כשכל Kalpa נמשך אחריו »לילה של ברהמה« ארוך באותה מידה שבמהלכו הקוסמוס מתפרק.
 
-**The infinite cosmic cycles**. The Hindu tradition treats the cosmos as undergoing infinite successive Kalpa cycles, with each Kalpa producing creation, development, dissolution, and re-creation. The infinite-recursive character of the Hindu cyclic cosmology is structurally similar to the Cosmic Chain framework's specific recursive content.
+**המחזורים הקוסמיים האינסופיים**. המסורת ההינדואית מתייחסת לקוסמוס כעובר מחזורי Kalpa עוקבים אינסופיים, כשכל Kalpa מייצר בריאה, התפתחות, התפרקות ובריאה־מחדש. האופי האינסופי־רקורסיבי של הקוסמולוגיה המחזורית ההינדואית דומה מבנית לתוכן הרקורסיבי הספציפי של מסגרת השרשרת הקוסמית.
 
-**The Brahma-multiplicity tradition**. Various Hindu texts treat the broader cosmos as comprising multiple Brahma-systems, with each Brahma operating within its specific cosmic system across the cosmic cycles. The multiple-Brahma framework provides substantial parallel content for the multiple-creator-civilization framework of the Cosmic Chain.
+**מסורת ריבוי־הברהמה**. טקסטים הינדואיים שונים מתייחסים לקוסמוס הרחב כמורכב ממערכות־ברהמה מרובות, כשכל ברהמה פועל בתוך מערכתו הקוסמית הספציפית לאורך המחזורים הקוסמיים. מסגרת הברהמה־המרובה מספקת תוכן מקביל ניכר למסגרת התרבות־הבוראת־המרובה של השרשרת הקוסמית.
 
-The framework reads the Hindu cyclic cosmology as preserving fragmentary memory of the broader cosmic-recursive structure within the distinctive Hindu cultural-religious framing. The specific Hindu elaborations (the yuga durations, the kalpa cosmology, the multiple Brahmas) reflect the tradition's distinctive theological content while preserving the underlying recursive-cyclical pattern.
+המסגרת קוראת את הקוסמולוגיה המחזורית ההינדואית כמשמרת זיכרון מקוטע של המבנה הקוסמי־רקורסיבי הרחב בתוך המסגור התרבותי־דתי ההינדואי הייחודי.{{ cite(id="bhagavad-gita", text="[18]", title="*Bhagavad Gita* (תרגום איסווארן) — מסגרת המחזור הקוסמי") }}{{ cite(id="doniger-hindu-myths", text="[19]", title="דוניגר, *Hindu Myths: A Sourcebook* (1975)") }} הפיתוחים ההינדואיים הספציפיים (משכי ה־yuga, קוסמולוגיית ה־kalpa, הברהמות המרובות) משקפים את התוכן התיאולוגי הייחודי של המסורת תוך שימור הדפוס הרקורסיבי־מחזורי שביסוד.
 
-### Buddhist beginningless cycles
+### מחזורים בודהיסטיים חסרי־ראשית
 
-The Buddhist tradition preserves substantial cosmological material on beginningless cycles (*anavarāgra*, "without beginning"). The principal features:
+המסורת הבודהיסטית משמרת חומר קוסמולוגי ניכר על מחזורים חסרי־ראשית (*anavarāgra*, »ללא ראשית«). התכונות העיקריות:
 
-**The beginningless saṃsāra**. The Buddhist tradition treats *saṃsāra* (the cycle of existence) as **beginningless** — not as having no beginning in absolute time but as having no findable first moment. The Pali phrase *anamatagga* ("without findable beginning") captures the specific framework: the question "when did saṃsāra begin?" is treated as not having a determinable answer, with the cycle extending indefinitely backward.
+**ה־saṃsāra חסר־הראשית**. המסורת הבודהיסטית מתייחסת ל־*saṃsāra* (מחזור הקיום) כ**חסר־ראשית** — לא כחסר ראשית בזמן מוחלט אלא כחסר רגע ראשון בר־איתור. הביטוי הפאלי *anamatagga* (»ללא ראשית בת־איתור«) לוכד את המסגרת הספציפית: השאלה »מתי החל ה־saṃsāra?« נחשבת כחסרת תשובה בת־קביעה, כשהמחזור משתרע ללא הגבלה אחורה.
 
-**The cosmic ages**. Buddhist cosmology develops elaborate cosmic-temporal frameworks with various age-cycles operating across cosmic time. The principal frameworks include the *kalpa* cycles (with substantial structural parallels to Hindu kalpa cosmology), the various age-cycles within each kalpa, and the broader cosmic-temporal frameworks within which buddha-figures appear.
+**העידנים הקוסמיים**. הקוסמולוגיה הבודהיסטית מפתחת מסגרות קוסמיות־זמניות מורכבות עם מחזורי־עידן שונים הפועלים לאורך הזמן הקוסמי. המסגרות העיקריות כוללות את מחזורי ה־*kalpa* (עם מקבילות מבניות ניכרות לקוסמולוגיית ה־kalpa ההינדואית), את מחזורי־העידן השונים בתוך כל kalpa, ואת המסגרות הקוסמיות־זמניות הרחבות שבתוכן מופיעות דמויות־בודהה.
 
-**The multiple buddhas across cosmic time**. Buddhist tradition treats Śākyamuni Buddha as the most recent of a long series of buddhas across cosmic time, with various previous buddhas being identified across the cosmic-historical record and Maitreya being the next future buddha. The succession of buddhas across cosmic time provides substantial parallel content for the Cosmic Chain's recursive-cyclical structure.
+**הבודהות המרובים לאורך הזמן הקוסמי**. המסורת הבודהיסטית מתייחסת לבודהה שאקיאמוני כאחרון בסדרה ארוכה של בודהות לאורך הזמן הקוסמי, כשבודהות קודמים שונים מזוהים על פני התיעוד הקוסמי־היסטורי ומאיטרייה הוא הבודהה העתידי הבא. רצף הבודהות לאורך הזמן הקוסמי מספק תוכן מקביל ניכר למבנה המחזורי־רקורסיבי של השרשרת הקוסמית.
 
-**The Mahāyāna multiple buddha-fields**. The Mahāyāna tradition preserves substantial multiple-worlds material (treated more fully in the [Cosmic Competition](../cosmic-competition/) entry). The buddha-field framework provides parallel content for the Cosmic Chain's recursive-cyclical structure.
+**שדות־הבודהה המרובים של המהאיאנה**. מסורת המהאיאנה משמרת חומר עולמות־מרובים ניכר (הנדון באופן מלא יותר בערך [התחרות הקוסמית](../cosmic-competition/)). מסגרת שדה־הבודהה מספקת תוכן מקביל למבנה המחזורי־רקורסיבי של השרשרת הקוסמית.
 
-The framework reads the Buddhist beginningless-cycle tradition as preserving substantial parallel content to the Cosmic Chain framework. The Buddhist tradition's specific "without findable beginning" framing is structurally identical with the Cosmic Chain's "no first creator" position.
+המסגרת קוראת את המסורת הבודהיסטית של המחזור חסר־הראשית כמשמרת תוכן מקביל ניכר למסגרת השרשרת הקוסמית.{{ cite(id="williams-mahayana-buddhism", text="[20]", title="וויליאמס, *Mahāyāna Buddhism* (2008) — ה־saṃsāra חסר־הראשית וקוסמולוגיית שדה־הבודהה") }}{{ cite(id="buswell-lopez-princeton-buddhism", text="[21]", title="בסוול ולופז, *The Princeton Dictionary of Buddhism* (2014)") }} המסגור הבודהיסטי הספציפי של »ללא ראשית בת־איתור« זהה מבנית לעמדת »אין בורא ראשון« של השרשרת הקוסמית.
 
-### Jain anadi cosmology
+### קוסמולוגיית anadi ג'יינית
 
-The Jain tradition preserves a substantial **anadi** ("without beginning") cosmology with specific features warranting treatment:
+המסורת הג'יינית משמרת קוסמולוגיית **anadi** (»ללא ראשית«) ניכרת בעלת תכונות ספציפיות הראויות לטיפול:
 
-**The eternal universe**. Jain cosmology treats the universe as eternal and uncreated, with no specific beginning event and no specific ending event. The universe undergoes cyclic developmental phases but does not have any ultimate origin or termination.
+**היקום הנצחי**. הקוסמולוגיה הג'יינית מתייחסת ליקום כנצחי ובלתי־נברא, ללא אירוע ראשית ספציפי וללא אירוע סיום ספציפי. היקום עובר שלבים התפתחותיים מחזוריים אך אין לו מקור או סיום סופי כלשהו.
 
-**The cosmic time-cycle (kalachakra)**. Jain tradition develops a specific cosmic time-cycle (the *kalachakra*, "wheel of time") that includes alternating ascending and descending half-cycles, each comprising six developmental ages. The full cycle takes substantial cosmic time, with the cycles continuing indefinitely.
+**מחזור־הזמן הקוסמי (kalachakra)**. המסורת הג'יינית מפתחת מחזור־זמן קוסמי ספציפי (ה־*kalachakra*, »גלגל הזמן«) הכולל חצאי־מחזורים עולים ויורדים מתחלפים, שכל אחד מהם מורכב משישה עידנים התפתחותיים. המחזור המלא נמשך זמן קוסמי ניכר, כשהמחזורים נמשכים ללא הגבלה.
 
-**The plurality of souls**. Jain cosmology treats the cosmos as containing infinite souls (*jīva*) operating across the cosmic time-cycle, with each soul undergoing its own developmental trajectory across the cycles.
+**ריבוי הנשמות**. הקוסמולוגיה הג'יינית מתייחסת לקוסמוס כמכיל נשמות אינסופיות (*jīva*) הפועלות לאורך מחזור־הזמן הקוסמי, כשכל נשמה עוברת את מסלולה ההתפתחותי שלה על פני המחזורים.
 
-**The structural similarity to the Cosmic Chain**. The Jain *anadi* framework has substantial structural similarity to the Cosmic Chain framework's "no first creator" position. Both frameworks reject the conventional Western theological presupposition that the cosmos has an ultimate origin; both develop substantial alternative cosmological content within the eternal-universe framework.
+**הדמיון המבני לשרשרת הקוסמית**. למסגרת ה־*anadi* הג'יינית יש דמיון מבני ניכר לעמדת »אין בורא ראשון« של מסגרת השרשרת הקוסמית. שתי המסגרות דוחות את הנחת־היסוד התיאולוגית המערבית המקובלת שלקוסמוס יש מקור סופי; שתיהן מפתחות תוכן קוסמולוגי חלופי ניכר בתוך מסגרת היקום־הנצחי.
 
-The framework reads the Jain *anadi* tradition as preserving substantial parallel content to the Cosmic Chain framework's specific eternal-cosmos position.
+המסגרת קוראת את מסורת ה־*anadi* הג'יינית כמשמרת תוכן מקביל ניכר לעמדת הקוסמוס־הנצחי הספציפית של מסגרת השרשרת הקוסמית.{{ cite(id="dundas-the-jains", text="[22]", title="דונדס, *The Jains* (2002) — קוסמולוגיית מחזור־הזמן ה־anadi חסר־הראשית־והאחרית") }}
 
-### Stoic eternal recurrence
+### החזרה הנצחית הסטואית
 
-The Greek-Roman Stoic tradition preserves substantial cyclic-cosmological material in the **eternal recurrence** doctrine. The principal features:
+המסורת הסטואית היוונית־רומית משמרת חומר מחזורי־קוסמולוגי ניכר בתורת **החזרה הנצחית**. התכונות העיקריות:
 
-**The cosmic cycle**. The Stoic tradition (developed by Chrysippus and other Stoic philosophers) proposed that the cosmos undergoes successive cycles of conflagration (*ekpyrosis*) and renewal (*palingenesis*), with each cycle reproducing the prior cycle in identical form.
+**המחזור הקוסמי**. המסורת הסטואית (שפותחה בידי כריסיפוס ופילוסופים סטואיים אחרים) הציעה שהקוסמוס עובר מחזורים עוקבים של שרפה (*ekpyrosis*) והתחדשות (*palingenesis*), כשכל מחזור משחזר את המחזור הקודם בצורה זהה.
 
-**The structural identity across cycles**. The Stoic tradition specifically treated the successive cycles as structurally identical — the same events occurring in the same sequence in each cycle, with the same individuals living the same lives in each iteration. The framework's specific content differs from the Cosmic Chain framework (which treats the cycles as structurally identical but with substantively different specific contents), but the broader recursive-cyclical pattern is structurally aligned.
+**הזהות המבנית בין המחזורים**. המסורת הסטואית התייחסה באופן ספציפי למחזורים העוקבים כזהים מבנית — אותם אירועים מתרחשים באותו רצף בכל מחזור, כשאותם פרטים חיים את אותם חיים בכל איטרציה. התוכן הספציפי של המסגרת שונה ממסגרת השרשרת הקוסמית (המתייחסת למחזורים כזהים מבנית אך עם תכנים ספציפיים שונים מהותית), אך הדפוס הרקורסיבי־מחזורי הרחב מיושר מבנית.
 
-**The cosmic conflagration**. The Stoic *ekpyrosis* doctrine treats the periodic cosmic destruction as a cosmic-fire event that consumes the entire cosmos before the renewal phase begins. The specific destruction-and-renewal structure provides substantial parallel content for the broader cyclic-cosmology framework.
+**השרפה הקוסמית**. תורת ה־*ekpyrosis* הסטואית מתייחסת להרס הקוסמי המחזורי כאירוע אש קוסמי המכלה את הקוסמוס כולו לפני שמתחיל שלב ההתחדשות. מבנה ההרס־וההתחדשות הספציפי מספק תוכן מקביל ניכר למסגרת הקוסמולוגיה המחזורית הרחבה.
 
-The framework reads the Stoic eternal-recurrence tradition as preserving substantial parallel content to the broader cyclic-cosmology framework, with the specific Stoic framing reflecting the tradition's distinctive philosophical content.
+המסגרת קוראת את מסורת החזרה הנצחית הסטואית כמשמרת תוכן מקביל ניכר למסגרת הקוסמולוגיה המחזורית הרחבה, כשהמסגור הסטואי הספציפי משקף את התוכן הפילוסופי הייחודי של המסורת.
 
-### Hermetic "as above, so below"
+### »כלמעלה כן למטה« ההרמטית
 
-The Hermetic tradition preserves the principle of cosmic correspondence in the famous phrase **"as above, so below"** (the *Tabula Smaragdina* or Emerald Tablet's specific phrasing). The principal features:
+המסורת ההרמטית משמרת את עיקרון ההתאמה הקוסמית בביטוי המפורסם **»כלמעלה כן למטה«** (ניסוחו הספציפי של ה־*Tabula Smaragdina* או הלוח האזמרגדי). התכונות העיקריות:
 
-**The cosmic-correspondence principle**. The Hermetic tradition treats the cosmic structure as operating through specific correspondences between the various levels of being — the macrocosm corresponding to the microcosm, the celestial corresponding to the terrestrial, the divine corresponding to the human. The specific correspondences are the principal content of the Hermetic philosophical-theological framework.
+**עיקרון ההתאמה־הקוסמית**. המסורת ההרמטית מתייחסת למבנה הקוסמי כפועל באמצעות התאמות ספציפיות בין הרמות השונות של הקיום — המקרוקוסמוס המתאים למיקרוקוסמוס, השמימי המתאים לארצי, האלוהי המתאים לאנושי. ההתאמות הספציפיות הן התוכן העיקרי של המסגרת ההרמטית הפילוסופית־התיאולוגית.
 
-**The Tabula Smaragdina**. The principal text preserving the "as above, so below" phrase is the *Tabula Smaragdina* (Emerald Tablet), traditionally attributed to Hermes Trismegistus. The text is preserved in various medieval Latin and Arabic versions, with the specific phrase "as above, so below" being the most influential single statement of the Hermetic correspondence principle.
+**ה־Tabula Smaragdina**. הטקסט העיקרי המשמר את הביטוי »כלמעלה כן למטה« הוא ה־*Tabula Smaragdina* (הלוח האזמרגדי), המיוחס מסורתית להרמס טריסמגיסטוס. הטקסט נשתמר בגרסאות לטיניות וערביות שונות מימי הביניים, כשהביטוי הספציפי »כלמעלה כן למטה« הוא ההצהרה היחידה המשפיעה ביותר של עיקרון ההתאמה ההרמטי.
 
-**The Renaissance Hermetic tradition**. The Hermetic principle was substantially developed across the Renaissance Hermetic tradition (Ficino, Pico della Mirandola, Bruno, Dee, and others), with substantial implications for the broader Renaissance intellectual development.
+**המסורת ההרמטית של הרנסנס**. העיקרון ההרמטי פותח באופן ניכר על פני המסורת ההרמטית של הרנסנס (פיצ'ינו, פיקו דלה מירנדולה, ברונו, די, ואחרים), עם השלכות ניכרות לפיתוח האינטלקטואלי הרחב של הרנסנס.
 
-**The structural similarity to the Cosmic Chain**. The Hermetic correspondence principle has substantial structural similarity to the Cosmic Chain framework's recursive-cyclical content. The framework preserves the specific insight that the cosmic structure is recursive — what occurs at one level of the creative hierarchy is repeated at the level it produces — without adopting the broader Hermetic theological-cosmological apparatus.
+**הדמיון המבני לשרשרת הקוסמית**. לעיקרון ההתאמה ההרמטי יש דמיון מבני ניכר לתוכן הרקורסיבי־מחזורי של מסגרת השרשרת הקוסמית. המסגרת משמרת את התובנה הספציפית שהמבנה הקוסמי רקורסיבי — מה שמתרחש ברמה אחת של ההיררכיה היצירתית חוזר ברמה שהיא מייצרת — מבלי לאמץ את המכלול ההרמטי התיאולוגי־הקוסמולוגי הרחב.
 
-The Lord's Prayer's central petition — "thy will be done in earth, as it is in heaven" — preserves the same cosmic-correspondence insight in specifically Christian-tradition form. The framework reads both the Hermetic principle and the Lord's Prayer petition as preserving fragmentary memory of the same underlying recursive-cyclical structure.
+בקשתה המרכזית של תפילת האדון — »ייעשה רצונך בארץ כמו בשמיים« — משמרת את אותה תובנת התאמה־קוסמית בצורה נוצרית־מסורתית ספציפית. המסגרת קוראת הן את העיקרון ההרמטי והן את בקשת תפילת האדון כמשמרים זיכרון מקוטע של אותו מבנה רקורסיבי־מחזורי שביסוד.
 
-### Mesoamerican cyclic cosmologies
+### קוסמולוגיות מחזוריות מסואמריקניות
 
-The Mesoamerican traditions preserve substantial cyclic-cosmological material with distinctive cultural-religious framings.
+המסורות המסואמריקניות משמרות חומר מחזורי־קוסמולוגי ניכר עם מסגורים תרבותיים־דתיים ייחודיים.
 
-**The Aztec five-suns cosmology**. The Aztec tradition preserves the doctrine of five successive cosmic ages (the **five suns**), each ending in catastrophic destruction. The principal sources are the *Codex Chimalpopoca* (with the *Leyenda de los Soles* preserving the most complete Aztec cosmogonic account) and various other Aztec sources. The five suns are: the Jaguar Sun (ended by jaguar attacks), the Wind Sun (ended by hurricanes), the Rain Sun (ended by fiery rain), the Water Sun (ended by flood), and the present Movement Sun (projected to end in earthquakes).
+**קוסמולוגיית חמש־השמשות האצטקית**. המסורת האצטקית משמרת את תורת חמשת העידנים הקוסמיים העוקבים (**חמש השמשות**), שכל אחד מהם מסתיים בהרס קטסטרופלי. המקורות העיקריים הם ה־*Codex Chimalpopoca* (כש־*Leyenda de los Soles* משמר את המבט הקוסמוגוני האצטקי המלא ביותר) ומקורות אצטקיים שונים אחרים. חמש השמשות הן: שמש היגואר (הסתיימה בהתקפות יגואר), שמש הרוח (הסתיימה בהוריקנים), שמש הגשם (הסתיימה בגשם של אש), שמש המים (הסתיימה במבול), ושמש התנועה הנוכחית (מוטל שתסתיים ברעידות אדמה).
 
-**The Maya Long Count cosmology**. The Maya Long Count calendar preserves substantial cyclic-temporal content, with the principal cycles including the 360-day *tun*, the 7,200-day *katun*, the 144,000-day *baktun*, and the broader Long Count cycles. The Maya cosmology integrates the cyclic-temporal framework with substantial cosmological-religious content.
+**קוסמולוגיית הספירה הארוכה של המאיה**. לוח הספירה הארוכה של המאיה משמר תוכן מחזורי־זמני ניכר, כשהמחזורים העיקריים כוללים את ה־*tun* בן 360 הימים, ה־*katun* בן 7,200 הימים, ה־*baktun* בן 144,000 הימים, ואת מחזורי הספירה הארוכה הרחבים. הקוסמולוגיה המאיה משלבת את המסגרת המחזורית־זמנית עם תוכן קוסמולוגי־דתי ניכר.
 
-**The cosmic-cycles broader pattern**. Various Mesoamerican traditions preserve cyclic-cosmological material with specific cultural-religious framings. The detailed treatment of specific Mesoamerican cosmologies lives in the [Antediluvian](../antediluvian/) and [Great Flood](../great-flood/) entries' comparative observations.
+**הדפוס הרחב של המחזורים־הקוסמיים**. מסורות מסואמריקניות שונות משמרות חומר מחזורי־קוסמולוגי עם מסגורים תרבותיים־דתיים ספציפיים. הטיפול המפורט בקוסמולוגיות מסואמריקניות ספציפיות מצוי בתצפיות ההשוואתיות של ערכי [הקדם־מבולי](../antediluvian/) ו[המבול הגדול](../great-flood/).
 
-The framework reads the Mesoamerican cyclic-cosmologies as preserving substantial parallel content to the broader cyclic-cosmology framework.
+המסגרת קוראת את הקוסמולוגיות המחזוריות המסואמריקניות כמשמרות תוכן מקביל ניכר למסגרת הקוסמולוגיה המחזורית הרחבה.{{ cite(id="carrasco-religions-mesoamerica", text="[23]", title="קרסקו, *Religions of Mesoamerica* — קוסמולוגיית חמש־השמשות של עולמות עוקבים") }}{{ cite(id="tedlock-popol-vuh", text="[24]", title="טדלוק (תרגום), *Popol Vuh* (1996)") }}
 
-### Norse cyclic cosmology
+### קוסמולוגיה מחזורית נורדית
 
-The Norse tradition preserves substantial cyclic-cosmological material in the **Ragnarök-and-renewal** framework. The principal features:
+המסורת הנורדית משמרת חומר מחזורי־קוסמולוגי ניכר במסגרת **רגנארוק־וההתחדשות**. התכונות העיקריות:
 
-**Ragnarök**. The Norse tradition preserves the prophecy of Ragnarök — the specific cosmic catastrophe in which the principal Aesir gods die in battle with their cosmic adversaries (Loki, the Fenrir wolf, the Midgard serpent, the giants, others). The Ragnarök narrative is preserved principally in the *Poetic Edda*'s *Völuspá* and Snorri Sturluson's *Prose Edda*'s *Gylfaginning*.
+**רגנארוק**. המסורת הנורדית משמרת את נבואת הרגנארוק — הקטסטרופה הקוסמית הספציפית שבה האלים האסיר העיקריים מתים בקרב עם יריביהם הקוסמיים (לוקי, הזאב פנריר, נחש המידגרד, הענקים, אחרים). נרטיב הרגנארוק נשתמר בעיקר ב־*Völuspá* של ה־*Poetic Edda* וב־*Gylfaginning* של ה־*Prose Edda* של סנורי סטורלוסון.{{ cite(id="poetic-edda", text="[25]", title="*The Poetic Edda* (תרגום לרינגטון) — Völuspá על הרגנארוק וההתחדשות") }}{{ cite(id="lindow-norse-mythology", text="[26]", title="לינדאו, *Norse Mythology* (2001)") }}
 
-**The post-Ragnarök renewal**. After Ragnarök, the Norse tradition preserves substantial material on the post-catastrophic renewal: a new earth emerges from the sea, with various surviving deities (Vidar, Vali, Modi, Magni) and various surviving humans (Líf and Lífþrasir, who survived in the Hoddmímis holt) repopulating the renewed cosmos.
+**ההתחדשות שלאחר הרגנארוק**. לאחר הרגנארוק, המסורת הנורדית משמרת חומר ניכר על ההתחדשות שלאחר הקטסטרופה: ארץ חדשה עולה מן הים, כשאלים שורדים שונים (וידאר, ואלי, מודי, מגני) ובני־אדם שורדים שונים (ליף וליבת'רסיר, ששרדו בחורשת הודמימיר) מאכלסים מחדש את הקוסמוס המחודש.
 
-**The cyclic implications**. The Norse Ragnarök-and-renewal framework has substantial cyclic-cosmological implications, with various scholarly readings treating the broader Norse cosmology as cyclic rather than linear-eschatological.
+**ההשלכות המחזוריות**. למסגרת רגנארוק־וההתחדשות הנורדית יש השלכות מחזוריות־קוסמולוגיות ניכרות, עם קריאות מחקריות שונות המתייחסות לקוסמולוגיה הנורדית הרחבה כמחזורית ולא ליניארית־אסכטולוגית.
 
-The framework reads the Norse cyclic-cosmology tradition as preserving substantial parallel content to the broader cyclic-cosmology framework, with the specific Norse framing reflecting the tradition's distinctive cultural content.
+המסגרת קוראת את מסורת הקוסמולוגיה המחזורית הנורדית כמשמרת תוכן מקביל ניכר למסגרת הקוסמולוגיה המחזורית הרחבה, כשהמסגור הנורדי הספציפי משקף את התוכן התרבותי הייחודי של המסורת.
 
-### The convergence
+### ההתכנסות
 
-The corpus's working position on the comparative-cyclic-cosmology question is that the global recurrence of cyclic-cosmological frameworks across cultural-religious traditions is meaningful as evidence of a genuine underlying reality. The mainstream scholarly explanation — which generally treats the various cyclic cosmologies as developing through internal religious-philosophical processes combined with cultural diffusion — is read by the corpus as substantially insufficient to account for the breadth and the specific structural parallels (the recursive-cyclical pattern, the eternal-recurrence implications, the multiple-cosmic-cycles content) that appear consistently across geographically and chronologically separated traditions.
+עמדת העבודה של הקורפוס בשאלת הקוסמולוגיה־המחזורית־ההשוואתית היא שההישנות הגלובלית של מסגרות מחזוריות־קוסמולוגיות על פני מסורות תרבותיות־דתיות משמעותית כעדות למציאות אמיתית שביסוד.{{ footnote(id="6") }}{{ cite(id="hannah-greek-roman-calendars", text="[27]", title="האנה, *Greek and Roman Calendars* (2005) — זמן מחזורי קלאסי והשנה הגדולה") }} ההסבר המחקרי המרכזי — המתייחס בדרך כלל לקוסמולוגיות המחזוריות השונות כמתפתחות באמצעות תהליכים דתיים־פילוסופיים פנימיים בשילוב עם דיפוזיה תרבותית — נקרא על ידי הקורפוס כבלתי־מספק באופן ניכר להסבר הרוחב והמקבילות המבניות הספציפיות (הדפוס הרקורסיבי־מחזורי, השלכות החזרה הנצחית, תוכן המחזורים־הקוסמיים־המרובים) המופיעות באופן עקבי על פני מסורות מופרדות גיאוגרפית וכרונולוגית.
 
-The framework's specific reading is that the global cyclic-cosmology pattern preserves common memory of the broader cosmic situation that the Cosmic Chain framework articulates, with each cultural-religious tradition preserving the memory in its own terms and with its own specific details reflecting its own perspective and its own subsequent transmission history. The Hindu and Buddhist traditions preserve the memory most directly relative to the framework's specific cyclic-recursive content; the Jain *anadi* tradition preserves the specific "no first creator" position; the Stoic tradition preserves the eternal-recurrence content within the Western philosophical context; the Hermetic tradition preserves the cosmic-correspondence principle; the Mesoamerican and Norse traditions preserve cyclic-cosmological material within their respective cultural channels.
+קריאת המסגרת הספציפית היא שהדפוס הקוסמולוגי־המחזורי הגלובלי משמר זיכרון משותף של המצב הקוסמי הרחב שמסגרת השרשרת הקוסמית מנסחת, כשכל מסורת תרבותית־דתית משמרת את הזיכרון במונחיה שלה ועם פרטיה הספציפיים שלה המשקפים את נקודת מבטה ואת היסטוריית ההעברה העוקבת שלה. המסורות ההינדואית והבודהיסטית משמרות את הזיכרון באופן הישיר ביותר ביחס לתוכן המחזורי־רקורסיבי הספציפי של המסגרת; מסורת ה־*anadi* הג'יינית משמרת את עמדת »אין בורא ראשון« הספציפית; המסורת הסטואית משמרת את תוכן החזרה הנצחית בתוך ההקשר הפילוסופי המערבי; המסורת ההרמטית משמרת את עיקרון ההתאמה הקוסמית; המסורות המסואמריקנית והנורדית משמרות חומר מחזורי־קוסמולוגי בתוך ערוציהן התרבותיים בהתאמה.
 
-The corpus does not require rejecting all of the mainstream scholarly framework. Cultural diffusion certainly occurred across the historical period, and the cyclic-cosmologies across cultures show both common structural features (preserving the original framework) and culturally specific elaborations (reflecting the diffusion and local development). What the corpus's framework adds is the underlying historical-cosmic situation that gave rise to the structural commonalities — a situation that the mainstream framework, lacking the corpus's broader cosmological framework, has had no way to identify and has therefore had to attribute to combinations of independent religious-philosophical development and cultural diffusion.
-
-## See also
-
-- [Cosmic Competition](../cosmic-competition/)
-- [Doubled Signature](../doubled-signature/)
-- [Embassy](../embassy/)
-- [Apocalypse](../apocalypse/)
-- [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Yahweh](../yahweh/)
-- [Jesus](../jesus/)
-- [Raël](../rael/)
-- [Prophet](../prophet/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Genesis](../genesis/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Atomic Threshold](../atomic-threshold/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*. The "Neither God nor Soul" section is the principal source for the framework's specific Cosmic Chain content.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-Bruno, Giordano. *De l'infinito universo et mondi* (1584). English: *On the Infinite Universe and Worlds*. Trans. Dorothea Waley Singer. In *Giordano Bruno: His Life and Thought*. Henry Schuman, 1950.
-
-Yates, Frances A. *Giordano Bruno and the Hermetic Tradition*. University of Chicago Press, 1964.
-
-Kant, Immanuel. *Critique of Pure Reason* (1781). Trans. Norman Kemp Smith. St. Martin's, 1929.
-
-Hawking, Stephen, and Roger Penrose. *The Nature of Space and Time*. Princeton University Press, 1996.
-
-Linde, Andrei. *Inflation and Quantum Cosmology*. Academic Press, 1990.
-
-Tegmark, Max. *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality*. Knopf, 2014.
-
-Vilenkin, Alexander. *Many Worlds in One: The Search for Other Universes*. Hill and Wang, 2006.
-
-Steinhardt, Paul J., and Neil Turok. *Endless Universe: Beyond the Big Bang*. Doubleday, 2007.
-
-Penrose, Roger. *Cycles of Time: An Extraordinary New View of the Universe*. Knopf, 2011.
-
-Hoyle, Fred. "A New Model for the Expanding Universe." *Monthly Notices of the Royal Astronomical Society* 108 (1948): 372–382.
-
-Penzias, Arno, and Robert Wilson. "A Measurement of Excess Antenna Temperature at 4080 Mc/s." *Astrophysical Journal* 142 (1965): 419–421.
-
-Crick, Francis, and Leslie Orgel. "Directed Panspermia." *Icarus* 19, no. 3 (1973): 341–346.
-
-Crick, Francis. *Life Itself: Its Origin and Nature*. Simon and Schuster, 1981.
-
-Arrhenius, Svante. *Worlds in the Making: The Evolution of the Universe*. Trans. H. Borns. Harper, 1908.
-
-Hoyle, Fred, and Chandra Wickramasinghe. *Lifecloud: The Origin of Life in the Universe*. Harper and Row, 1978.
-
-Nietzsche, Friedrich. *Thus Spoke Zarathustra* (1883–1885). Trans. Walter Kaufmann. In *The Portable Nietzsche*. Viking, 1954.
-
-Nietzsche, Friedrich. *The Will to Power* (posthumous, 1901). Trans. Walter Kaufmann and R. J. Hollingdale. Vintage, 1968.
-
-Long, A. A., and D. N. Sedley. *The Hellenistic Philosophers*. 2 vols. Cambridge University Press, 1987.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-*The Bhagavad Gita*. Trans. Eknath Easwaran. Nilgiri Press, 2007.
-
-Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. Routledge, 2nd ed., 2008.
-
-Buswell, Robert E., Jr., and Donald S. Lopez Jr. *The Princeton Dictionary of Buddhism*. Princeton University Press, 2014.
-
-Dundas, Paul. *The Jains*. Routledge, 2nd ed., 2002.
-
-Jaini, Padmanabh S. *The Jaina Path of Purification*. University of California Press, 1979.
-
-Hannah, Robert. *Greek and Roman Calendars: Constructions of Time in the Classical World*. Duckworth, 2005.
-
-*The Emerald Tablet of Hermes Trismegistus*. Various editions; principal English-language treatments in: Faivre, Antoine. *The Eternal Hermes*. Phanes Press, 1995.
-
-Tedlock, Dennis, trans. *Popol Vuh: The Mayan Book of the Dawn of Life*. Touchstone, 1996.
-
-Carrasco, Davíd. *Religions of Mesoamerica*. Waveland Press, 2nd ed., 2014.
-
-León-Portilla, Miguel. *Aztec Thought and Culture: A Study of the Ancient Nahuatl Mind*. University of Oklahoma Press, 1963.
-
-*The Poetic Edda*. Trans. Carolyne Larrington. Oxford University Press, rev. ed., 2014.
-
-Sturluson, Snorri. *The Prose Edda*. Trans. Jesse L. Byock. Penguin Classics, 2005.
-
-Lindow, John. *Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs*. Oxford University Press, 2001.
-
-von Däniken, Erich. *Chariots of the Gods?* Trans. Michael Heron. Putnam, 1968.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-"Multiverse." *Encyclopaedia Britannica*. <https://www.britannica.com/science/multiverse>
-
-"Big Bang model." *Encyclopaedia Britannica*. <https://www.britannica.com/science/big-bang-model>
-
-"Cyclic cosmology." *Wikipedia*. <https://en.wikipedia.org/wiki/Cyclic_model>
-
-"Panspermia." *Encyclopaedia Britannica*. <https://www.britannica.com/science/panspermia>
-
-"Eternal recurrence." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/eternal-return>
+הקורפוס אינו דורש לדחות את כל המסגרת המחקרית המרכזית. דיפוזיה תרבותית התרחשה אכן על פני התקופה ההיסטורית, והקוסמולוגיות המחזוריות על פני התרבויות מציגות הן תכונות מבניות משותפות (המשמרות את המסגרת המקורית) והן פיתוחים תרבותיים־ספציפיים (המשקפים את הדיפוזיה והפיתוח המקומי). מה שמסגרת הקורפוס מוסיפה הוא המצב ההיסטורי־קוסמי שביסוד שהוליד את המשותפות המבנית — מצב שהמסגרת המרכזית, חסרת המסגרת הקוסמולוגית הרחבה של הקורפוס, לא היה לה אופן לזהותו ולכן נאלצה לייחסו לשילובים של פיתוח דתי־פילוסופי עצמאי ודיפוזיה תרבותית.

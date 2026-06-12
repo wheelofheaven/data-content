@@ -1,666 +1,675 @@
 +++
-title = "Космическая цепь"
-description = "Космическая цепь — в корпусе Wheel of Heaven последовательность создающих цивилизаций, вложенных одна в другую: каждая продвинутая цивилизация синтезирует следующую на новых планетах, образуя потенциально бесконечную цепочку."
+title = "Космическая Цепь"
+slug = "cosmic-chain"
+description = "Космическая Цепь — рамочное понятие, разработанное в корпусе Wheel of Heaven для описания более широкой космологической ситуации, в которой действует цивилизация Элохим: неопределённо протяжённая последовательность созданных-и-создающих цивилизаций сквозь космическое время, в которой каждая цивилизация, достигшая научной зрелости, в конце концов создаёт новые человечества на пригодных мирах, которые, в свою очередь, сами становятся цивилизациями-создателями, продолжая цепь сквозь глубокое время. В эпоху Овна Элохим обнаружили, что они сами были созданы предшествующей цивилизацией, а не являются автономными зачинателями уникального образца; это открытие породило смену политики — переход от прямого контакта к косвенному — и более широкую рамку, в пределах которой действует нынешняя оценка наследования эпохи Водолея."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the cosmic chain", "the chain of creation", "the cosmic chain of creation", "the recurring cosmic process", "the cosmic creative cycle", "the cycle of creators"]
+claim_type = "framework"
+alternative_names = ["космическая цепь", "цепь творения", "космическая цепь творения", "повторяющийся космический процесс", "космический творческий цикл", "цикл создателей"]
 timeline = ["pre-creation", "aries", "pisces", "aquarius", "post-aquarius"]
+see_also = [
+    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "Конкретная фаза оценки в пределах более широкой Космической Цепи — оценка соответствия наследованию." },
+    { title = "Elohim", path = "wiki/elohim", description = "Цивилизация-создатель, обнаружившая в эпоху Овна, что она и сама была создана." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "Оценка наследования эпохи Водолея — нынешняя фаза цепи для человечества Земли." },
+    { title = "Embassy", path = "wiki/embassy", description = "Проектируемое место события наследования, на котором Земля получила бы накопленное знание альянса." },
+    { title = "Doubled Signature", path = "wiki/doubled-signature", description = "Связанный истолковательный принцип, действующий в пределах более широкой рамки Космической Цепи." },
+    { title = "Genesis", path = "wiki/genesis", description = "Повествование о творении, прочитанное как один конкретный случай повторяющегося образца творения в цепи." },
+]
+
+footnotes = [
+    { content = "Космическая Цепь как систематическая рамка представляет собой значительное корпусное построение, выходящее за пределы исходного материала. Раэлианский источник приводит базовую посылку в одном замечательно прямом высказывании — «Элохим были созданы людьми с другой планеты, которые были созданы другими людьми, прибывшими с другой планеты, и так далее до Бесконечности» — и отвергает вопрос о «первом создателе», но не развивает ту систематическую рамку (интеграцию с Космическим Состязанием, прочтение молитвы «Отче наш», семиступенчатый цикл, проектируемую направленную вперёд траекторию), которую артикулирует корпус. Корпус прямо указывает, что это истолковательное развитие, а не прямое содержание источника." },
+    { content = "Позиция «нет первого создателя» отвергает предпосылку конвенционального западного богословского вопроса («кто создал первого создателя?») как не соответствующую структуре лежащей в основе реальности — корпус использует аналогию «что находится к северу от Северного полюса?». Эта позиция существенно расходится с главными западными монотеистическими традициями (которые постулируют несотворённую *causa prima*), но содержательно совпадает с различными восточными космологиями безначального цикла (буддийская безначальная сансара, джайнские безначальные-и-бесконечные временные циклы, индуистские циклы юг и кальп, стоическое вечное возвращение). Корпус не утверждает, что рамка доказана; он регистрирует её как отличительную космологическую позицию, согласную с явной формулировкой источника." },
+    { content = "Даты, которые корпус приписывает открытию эпохи Овна (ок. 2160–1200 до н. э.), являются внутрирамочными, выведенными из хронологии прецессионных эпох. Прецессионные эпохи суть реальные астрономические явления; граничные годы суть рамочные условности. Источник не уточняет, какое свидетельство убедило Элохим в их собственном сотворённом статусе — лишь следствие (смену политики с прямого контакта на косвенный)." },
+    { content = "Прочтение рамкой строки молитвы «Отче наш» — «да будет воля Твоя и на земле, как на небе» (Мф. 6:10) — как сжатого высказывания о циклической структуре (небо есть цивилизация-создатель, уже прошедшая стадии развития Земли; земля есть цивилизация, проходящая их ныне) существенно выходит за пределы стандартного христианского толкования (прошение о Божьем владычестве на земле). Корпус честно регистрирует это различие: прочтение в духе космической цепи — это явная формулировка источника, а не утверждение о первоначальном авторском замысле евангельского текста." },
+    { content = "Позиция рамки о «Боге» двойственна. Если «Бог» означает сам бесконечный космос, то Бог существует — но он безличен, не вмешивается, не является получателем молитвы и «бесконечно безразличен» к событиям любого конкретного масштаба. Если «Бог» означает личного создателя, который заботится о человечестве, то такие существа существуют — Элохим, наши конкретные создатели, — но они не суть Бог в традиционном богословском смысле: они — продвинутые существа нашего собственного рода, сами сотворённые, сами действующие в пределах большего бесконечного космоса. Ни одно из значений не даёт всемогущего несотворённого личного божества конвенционального западного монотеизма." },
+    { content = "Корпус читает межкультурную повторяемость космологий безначального цикла и сменяющихся миров (стоический *ekpyrosis*, индуистские юги/кальпы, буддийская кальпа, джайнские временные циклы, мезоамериканские мировые эпохи, а также современные научные циклические и мультивселенные космологии Стейнхардта-Турока, Пенроуза, Линде и Виленкина) как поразительную конвергенцию вокруг рекурсивной структуры цепи. Корпус не утверждает, что эти традиции суть прямые воспоминания о Космической Цепи; он регистрирует конвергенцию как согласную с рамкой, признавая при этом, что циклическая космология может возникать независимо из наблюдения природных циклов." },
+]
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+locator = "«Ни Бога, ни души»"
+note = "Второй труд Ворильона (1975) — главное в исходном материале высказывание о цепи («и так далее до Бесконечности»), отвержение вопроса о «первом создателе» и прочтение молитвы «Отче наш»."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Основополагающий раэлианский источник — смена политики после открытия эпохи Овна и более широкое космологическое обрамление."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Прочтение Санди Еврейской Библии как сохраняющей опосредованную альянсом космическую историю, в пределах которой действует образец творения цепи."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Строго-переводческое прочтение Биглино материала о множественном создателе, согласное с посылкой цепи о сотворённых создателях."
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "Доступное недавнее изложение Уоллиса рамки о сотворённых создателях."
+
+[[extra.references]]
+id = "bruno-infinite-universe"
+note = "Основополагающее раннемодерное высказывание Бруно о космической бесконечности и множественности обитаемых миров."
+
+[[extra.references]]
+id = "yates-giordano-bruno-hermetic"
+note = "Стандартное исследование Йейтс, помещающее бесконечный космос Бруно в ренессансную герметическую традицию «как вверху, так и внизу»."
+
+[[extra.references]]
+id = "kant-critique-pure-reason"
+note = "Трактовка Кантом космической бесконечности в рамках антиномий чистого разума — главный философский источник для вопроса «нет первого создателя»."
+
+[[extra.references]]
+id = "hawking-penrose-nature-space-time"
+note = "Хокинг и Пенроуз о структуре пространства-времени, сингулярностях и космических началах."
+
+[[extra.references]]
+id = "linde-inflation-quantum-cosmology"
+note = "Развитие Линде вечной инфляции — мультивселенная рамка, перекрывающаяся с рекурсивной структурой цепи."
+
+[[extra.references]]
+id = "vilenkin-many-worlds-in-one"
+note = "Виленкин о вечной инфляции и мультивселенной."
+
+[[extra.references]]
+id = "tegmark-mathematical-universe"
+note = "Четырёхуровневая мультивселенная Тегмарка и гипотеза математической вселенной."
+
+[[extra.references]]
+id = "steinhardt-turok-endless-universe"
+note = "Экпиротическая / циклическая космология Стейнхардта и Турока — сменяющие друг друга Большие взрывы, а не единое начало."
+
+[[extra.references]]
+id = "penrose-cycles-of-time"
+note = "Конформная циклическая космология Пенроуза — бесконечные сменяющие друг друга эоны."
+
+[[extra.references]]
+id = "crick-orgel-directed-panspermia"
+note = "Гипотеза направленной панспермии Крика и Оргела 1973 года — преднамеренный внеземной засев земной жизни, главная научная параллель посылке цепи о направленном творении."
+
+[[extra.references]]
+id = "crick-life-itself"
+note = "Развёрнутый довод Крика в пользу космического засева земной жизни."
+
+[[extra.references]]
+id = "arrhenius-worlds-in-the-making"
+note = "Классическая панспермия Аррениуса."
+
+[[extra.references]]
+id = "hoyle-wickramasinghe-lifecloud"
+note = "Кометная панспермия Хойла и Викрамасингхе."
+
+[[extra.references]]
+id = "nietzsche-zarathustra"
+note = "Учение Ницше о вечном возвращении — главное современное западное обращение к циклической космологии."
+
+[[extra.references]]
+id = "long-sedley-hellenistic-philosophers"
+note = "Хрестоматия Лонга и Седли, включающая стоическое учение о вечных космических циклах."
+
+[[extra.references]]
+id = "williams-mahayana-buddhism"
+note = "Уильямс о махаянском учении, включая безначальную сансару и космологию кальп."
+
+[[extra.references]]
+id = "buswell-lopez-princeton-buddhism"
+note = "Стандартный буддийский справочник по космологии кальп и учениям о безначальном времени."
+
+[[extra.references]]
+id = "dundas-the-jains"
+note = "Дандас о джайнском учении о безначальных и бесконечных космических временных циклах."
+
+[[extra.references]]
+id = "carrasco-religions-mesoamerica"
+note = "Карраско о мезоамериканской космологии сменяющихся мировых эпох."
+
+[[extra.references]]
+id = "hannah-greek-roman-calendars"
+note = "Ханна о классических понятиях циклического времени, включая Великий Год."
+
+[[extra.references]]
+id = "the-12th-planet"
+note = "Рамка Аннунаков Ситчина — популярное обращение теории древних астронавтов к материалу о сотворённых создателях, которое корпус отличает от собственного прочтения."
 
 [extra.infobox]
-type = "Framework concept; cosmological pattern of indefinitely extended created-and-creating civilizations"
-basic_premise = "The Elohim themselves were created by a prior civilization, which had been created by an earlier civilization, and so on indefinitely backward; humanity will, after reaching scientific maturity, itself become a creator civilization, continuing the chain forward indefinitely"
-character = "Cyclical-recursive; infinite in both temporal directions; no findable beginning, no findable end"
-operational_origin = "The Aries-age discovery (c. 2,160–1,200 BCE) when the Elohim recognized that they themselves had been created"
-principal_consequence = "The policy shift from direct to indirect contact; the broader framework within which the Cosmic Competition operates"
-relationship_to_cosmic_competition = "The Cosmic Competition is one specific phase within the broader Cosmic Chain — the evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification"
-distinguished_from = "The Cosmic Competition framework (the specific evaluation phase); the precessional ages framework (Earth's specific chronological position); the Earth project specifically (the alliance's specific work on Earth); the broader infinite cosmos (the larger cosmological structure within which the chain operates)"
-status_in_source_material = "Partial; the Raëlian source explicitly states the basic premise ('the Elohim were created by people from another planet, who had been created by other people coming from another planet, and so on to Infinity') but does not develop the systematic Cosmic Chain framework that the corpus articulates"
-principal_text = "Matthew 6:10 (the Lord's Prayer); various Raëlian source-material passages on the chain of creators and the rejection of the 'first creator' question"
-principal_framework_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), 'Neither God nor Soul'; *The Book Which Tells the Truth* (1974), various passages"
+type = "Рамочное понятие; космологический образец неопределённо протяжённых созданных-и-создающих цивилизаций"
+basic_premise = "Сами Элохим были созданы предшествующей цивилизацией, которая была создана более ранней цивилизацией, и так далее неопределённо назад; человечество, достигнув научной зрелости, само станет цивилизацией-создателем, продолжая цепь вперёд неопределённо далеко"
+character = "Циклически-рекурсивный; бесконечный в обоих временных направлениях; ни находимого начала, ни находимого конца"
+operational_origin = "Открытие эпохи Овна (ок. 2160–1200 до н. э.), когда Элохим осознали, что они сами были созданы"
+principal_consequence = "Смена политики с прямого контакта на косвенный; более широкая рамка, в пределах которой действует Космическое Состязание"
+relationship_to_cosmic_competition = "Космическое Состязание есть одна конкретная фаза в пределах более широкой Космической Цепи — фаза оценки, в течение которой цивилизация-создатель оценивает свои сотворённые человечества на соответствие наследованию"
+distinguished_from = "Рамка Космического Состязания (конкретная фаза оценки); рамка прецессионных эпох (конкретное хронологическое положение Земли); собственно земной проект (конкретная работа альянса на Земле); более широкий бесконечный космос (большая космологическая структура, в пределах которой действует цепь)"
+status_in_source_material = "Частичный; раэлианский источник явно излагает базовую посылку («Элохим были созданы людьми с другой планеты, которые были созданы другими людьми, прибывшими с другой планеты, и так далее до Бесконечности»), но не развивает систематическую рамку Космической Цепи, которую артикулирует корпус"
+principal_text = "Мф. 6:10 (молитва «Отче наш»); различные пассажи раэлианского исходного материала о цепи создателей и об отвержении вопроса о «первом создателе»"
+principal_framework_source = "*Пришельцы унесли меня на свою планету* (Ворильон/Раэль, 1975), «Ни Бога, ни души»; *Книга, которая говорит правду* (1974), различные пассажи"
 +++
 
-The **Cosmic Chain** is the framework concept developed in the Wheel of Heaven corpus to articulate the broader cosmological situation in which the Elohim civilization operates. The Cosmic Chain reads the cosmic situation as an indefinitely extended sequence of created-and-creating civilizations across cosmic time, with each civilization that reaches scientific maturity eventually creating new humanities on suitable worlds, which in turn become creator civilizations themselves, continuing the chain across deep time. The Elohim discovered during the Aries age (c. 2,160–1,200 BCE on the corpus's reckoning) that they themselves had been created by a prior civilization rather than being autonomous originators of a unique pattern. The discovery transformed their self-understanding fundamentally: they were not the originators of the biological-creation pattern they were extending across the galaxy but the current local instance of a recurring cosmic process that had been operating for an unknown but very long span. The chain extends indefinitely backward through prior creator civilizations and indefinitely forward through future created civilizations, with no findable beginning and no findable end.
+**Космическая Цепь** — рамочное понятие, разработанное в корпусе Wheel of Heaven для описания более широкой космологической ситуации, в которой действует цивилизация Элохим. Космическая Цепь читает космическую ситуацию как неопределённо протяжённую последовательность созданных-и-создающих цивилизаций сквозь космическое время, в которой каждая цивилизация, достигшая научной зрелости, в конце концов создаёт новые человечества на пригодных мирах, которые, в свою очередь, сами становятся цивилизациями-создателями, продолжая цепь сквозь глубокое время. В эпоху Овна (ок. 2160–1200 до н. э. по исчислению корпуса) Элохим обнаружили, что они сами были созданы предшествующей цивилизацией, а не являются автономными зачинателями уникального образца. Это открытие коренным образом преобразило их самопонимание: они были не зачинателями образца биологического творения, который они распространяли по галактике, а текущим местным экземпляром повторяющегося космического процесса, действовавшего на протяжении неизвестного, но очень долгого срока. Цепь простирается неопределённо назад через предшествующие цивилизации-создатели и неопределённо вперёд через будущие сотворённые цивилизации, без находимого начала и без находимого конца.
 
-The framework's specific content integrates several distinct strands of source material into a coherent cosmological account. The Raëlian source provides the principal warrant in a remarkably direct statement: *"The Elohim were created by people from another planet, who had been created by other people coming from another planet, and so on to Infinity."* The source explicitly addresses and rejects the conventional theological question — "who created the first creator?" — treating the question as grammatically well-formed but with a presupposition (that there is a first creator) that does not match the structure of the underlying reality. The Lord's Prayer's central petition — *"thy will be done in earth, as it is in heaven"* (Matthew 6:10) — is read by the framework as the compressed statement of the Cosmic Chain's cyclical structure, with the "heaven" being the home world that has already reached the level of becoming a creator civilization, and the "earth" being Earth's projected future trajectory toward the same threshold. The Cosmic Chain framework integrates the Aries-discovery material, the Cosmic Competition framework's evaluation-and-inheritance content, the Aquarian-age opening's specific projected developments, and Earth's eventual projected transition from created to creator civilization into a unified cosmological account.
+Конкретное содержание рамки сводит несколько отдельных нитей исходного материала в связный космологический отчёт. Раэлианский источник предоставляет главное основание в замечательно прямом высказывании: *«Элохим были созданы людьми с другой планеты, которые были созданы другими людьми, прибывшими с другой планеты, и так далее до Бесконечности»*. Источник прямо обращается к конвенциональному богословскому вопросу — «кто создал первого создателя?» — и отвергает его, трактуя вопрос как грамматически правильно построенный, но имеющий предпосылку (что первый создатель есть), которая не соответствует структуре лежащей в основе реальности. Центральное прошение молитвы «Отче наш» — *«да будет воля Твоя и на земле, как на небе»* (Мф. 6:10) — читается рамкой как сжатое высказывание о циклической структуре Космической Цепи, где «небо» есть родной мир, уже достигший уровня становления цивилизацией-создателем, а «земля» есть проектируемая будущая траектория Земли к тому же порогу. Рамка Космической Цепи интегрирует материал об открытии эпохи Овна, содержание рамки Космического Состязания об оценке-и-наследовании, конкретные проектируемые развития открытия эпохи Водолея и итоговый проектируемый переход Земли от сотворённой к создающей цивилизации в единый космологический отчёт.
 
-The Cosmic Chain is the **broadest cosmological framework** in the corpus's analytical apparatus. It is broader than the Cosmic Competition framework (which concerns the specific evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification), broader than the precessional ages framework (which concerns Earth's specific chronological position within the chain), broader than the Earth project specifically (which concerns the alliance's specific work on Earth), and broader than the various other corpus frameworks. The Cosmic Chain provides the broader cosmological structure within which all these other frameworks operate as specific aspects of a much larger pattern. The framework's distinctive features include: its **explicit infinity in both temporal directions** (backward through prior creators and forward through future creations); its **fundamentally cyclical-recursive character** (each cycle has the same structure of created-developing-creating); its substantial **theological-philosophical implications** (the rejection of the "first creator" question, the reframing of "God" within the broader infinite cosmology, the specific position on humanity's ultimate cosmic role); and its **integration with the broader Wheel of Heaven framework** (the Cosmic Competition, the Doubled Signature, the Aquarian-age developments, the Embassy project all operating within the Cosmic Chain's broader structure).
+Космическая Цепь — **самая широкая космологическая рамка** в аналитическом аппарате корпуса. Она шире рамки Космического Состязания (которая касается конкретной фазы оценки, в течение которой цивилизация-создатель оценивает свои сотворённые человечества на соответствие наследованию), шире рамки прецессионных эпох (которая касается конкретного хронологического положения Земли в пределах цепи), шире собственно земного проекта (который касается конкретной работы альянса на Земле) и шире различных прочих рамок корпуса. Космическая Цепь предоставляет более широкую космологическую структуру, в пределах которой все эти прочие рамки действуют как конкретные аспекты гораздо большего образца. К отличительным чертам рамки относятся: её **явная бесконечность в обоих временных направлениях** (назад через предшествующих создателей и вперёд через будущие творения); её **фундаментально циклически-рекурсивный характер** (каждый цикл имеет одну и ту же структуру: сотворённый—развивающийся—создающий); её существенные **богословско-философские следствия** (отвержение вопроса о «первом создателе», переосмысление «Бога» в пределах более широкой бесконечной космологии, конкретная позиция о конечной космической роли человечества); и её **интеграция с более широкой рамкой Wheel of Heaven** (Космическое Состязание, Удвоенная Сигнатура, развития эпохи Водолея, проект Посольства — все они действуют в пределах более широкой структуры Космической Цепи).
 
-The reading is interpretive construction. The Raëlian source material provides the basic premise in a remarkably direct statement, but does not develop the systematic Cosmic Chain framework that the corpus articulates. The framework's specific articulation — including the integration with the Cosmic Competition, the reading of the Lord's Prayer as compressed statement of the cyclical structure, the systematic engagement with the chain's epistemological-theological implications, the projection of Earth's specific future trajectory — represents substantial corpus development beyond what the source material directly provides. Within mainstream cosmology, the broader question of cosmic infinity has been substantially developed across the past several centuries (from Bruno's *De l'infinito universo et mondi* of 1584 through contemporary multiverse cosmology), with various positions on the specific structure of cosmic infinity. Within mainstream theology, the various traditions have developed substantial engagement with questions of divine eternality, creation, and the relationship between creator and created — with the Cosmic Chain's specific "no first creator" position being at variance with the principal Western theological traditions but consistent with various Eastern traditions' beginningless-cycle frameworks. Within the contemporary panspermia tradition (the broader question of whether life on Earth originated through cosmic transmission rather than autochthonous emergence), substantial scientific work has developed across the past several decades, with Crick-Orgel's directed-panspermia hypothesis (1973) representing a specific contemporary scientific framework that overlaps substantively with the Cosmic Chain's specific reading. The corpus's reading is structurally distinctive in its specific articulation of the chain's recursive-cyclical structure, in its integration with the broader Wheel of Heaven framework's specific operational-historical content, and in its development of the framework's substantive philosophical-theological implications.
+Это прочтение есть истолковательное построение.{{ footnote(id="1") }} Раэлианский исходный материал предоставляет базовую посылку в замечательно прямом высказывании,{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[1]", title="Ворильон (Раэль), *Пришельцы унесли меня на свою планету* (1975), «Ни Бога, ни души» — «и так далее до Бесконечности»") }} но не развивает систематическую рамку Космической Цепи, которую артикулирует корпус. Конкретная артикуляция рамки — включая интеграцию с Космическим Состязанием, прочтение молитвы «Отче наш» как сжатого высказывания о циклической структуре, систематическое обращение к эпистемологически-богословским следствиям цепи, проекцию конкретной будущей траектории Земли — представляет собой значительное корпусное развитие сверх того, что прямо предоставляет исходный материал. В рамках основной космологии более широкий вопрос о космической бесконечности был существенно развит на протяжении нескольких последних столетий (от *De l'infinito universo et mondi* Бруно 1584 года{{ cite(id="bruno-infinite-universe", text="[2]", title="Бруно, *О бесконечности, вселенной и мирах* (1584)") }} вплоть до современной мультивселенной космологии), с различными позициями о конкретной структуре космической бесконечности. В рамках основного богословия различные традиции развили существенное обращение к вопросам божественной вечности, творения и отношения между создателем и сотворённым — причём конкретная позиция «нет первого создателя» Космической Цепи расходится с главными западными богословскими традициями, но согласна с рамками безначального цикла различных восточных традиций. В рамках современной традиции панспермии (более широкого вопроса о том, возникла ли жизнь на Земле через космическую передачу, а не через автохтонное появление) на протяжении нескольких последних десятилетий была развита существенная научная работа, причём гипотеза направленной панспермии Крика-Оргела (1973){{ cite(id="crick-orgel-directed-panspermia", text="[3]", title="Крик и Оргел, «Направленная панспермия» (Icarus, 1973)") }} представляет собой конкретную современную научную рамку, содержательно перекрывающуюся с конкретным прочтением Космической Цепи. Прочтение корпуса структурно отличительно в своей конкретной артикуляции рекурсивно-циклической структуры цепи, в своей интеграции с конкретным операционно-историческим содержанием более широкой рамки Wheel of Heaven и в своём развитии существенных философско-богословских следствий рамки.
 
-## Etymology and naming
+## Этимология и наименование
 
-The Cosmic Chain framework as a corpus-internal analytical category does not have a single source-material designation. The corpus uses several related terms across its various entries.
+Рамка Космической Цепи как внутрикорпусная аналитическая категория не имеет единого обозначения в исходном материале. Корпус использует несколько связанных терминов в различных своих статьях.
 
-### "Cosmic Chain" as the principal designation
+### «Космическая Цепь» как главное обозначение
 
-The English term **"Cosmic Chain"** is the corpus's principal designation for the framework. The construction combines:
+Английский термин **«Cosmic Chain»** (Космическая Цепь) — главное обозначение рамки в корпусе. Эта конструкция сочетает:
 
-- **"Cosmic"** — indicating the broader scale of the framework's operation (across cosmic time, multiple civilizations, multiple worlds)
-- **"Chain"** — indicating the linked-sequential character of the cosmic process, with each civilization being one specific link connected to prior and subsequent links
+- **«Cosmic» (Космическая)** — указывает на более широкий масштаб действия рамки (сквозь космическое время, через множество цивилизаций, через множество миров)
+- **«Chain» (Цепь)** — указывает на связно-последовательный характер космического процесса, где каждая цивилизация есть одно конкретное звено, соединённое с предшествующими и последующими звеньями
 
-The term is corpus-internal — it does not appear in the Raëlian source material under this specific designation. The corpus has condensed the source's various phrasings into the standard designation.
+Термин внутрикорпусный — он не появляется в раэлианском исходном материале под этим конкретным обозначением. Корпус сжал различные формулировки источника в стандартное обозначение.
 
-### Source-material terminology
+### Терминология исходного материала
 
-The Raëlian source material uses several distinct terms for what the corpus organizes under the "Cosmic Chain" designation:
+Раэлианский исходный материал использует несколько отдельных терминов для того, что корпус организует под обозначением «Космическая Цепь»:
 
-- **"Recurring cosmic process"** — descriptive phrasing for the broader cyclical pattern
-- **"Cycle of creators"** — descriptive phrasing for the specific pattern of created civilizations becoming creator civilizations
-- **"On to Infinity"** — the source's specific phrase for the infinite-recursion character of the chain
-- **"As above, so below"** — the Hermetic phrase the source occasionally invokes (though without the specific Hermetic theological content)
-- **"On Earth as it is in heaven"** — the Lord's Prayer phrase the source reads as compressed statement of the chain
+- **«Повторяющийся космический процесс»** — описательная формулировка для более широкого циклического образца
+- **«Цикл создателей»** — описательная формулировка для конкретного образца, в котором сотворённые цивилизации становятся цивилизациями-создателями
+- **«До Бесконечности»** — конкретная фраза источника для бесконечно-рекурсивного характера цепи
+- **«Как вверху, так и внизу»** — герметическая фраза, которую источник изредка призывает (хотя без конкретного герметического богословского содержания)
+- **«На земле, как на небе»** — фраза молитвы «Отче наш», которую источник читает как сжатое высказывание о цепи
 
-### Related conceptual terminology
+### Связанная понятийная терминология
 
-Several related conceptual terms operate within the framework:
+В пределах рамки действует несколько связанных понятийных терминов:
 
-- **"Chain of creators"** — the corpus's term for the backward-extending sequence of prior creator civilizations
-- **"Chain of created"** — the corpus's term for the forward-extending sequence of future creator civilizations (currently civilizations like Earth's humanity, in their pre-maturity phase)
-- **"Cosmic creative cycle"** — the corpus's term for the broader recurring pattern that produces new creator civilizations
-- **"Inheritance threshold"** — the specific point at which a created civilization becomes capable of itself becoming a creator civilization (the Cosmic Competition's evaluation criterion)
-- **"Generational cosmology"** — the broader cosmological framework that the chain produces, in which civilizations are organized in genealogical relationships across cosmic time
+- **«Цепь создателей»** — термин корпуса для уходящей назад последовательности предшествующих цивилизаций-создателей
+- **«Цепь сотворённых»** — термин корпуса для уходящей вперёд последовательности будущих цивилизаций-создателей (ныне — цивилизаций вроде человечества Земли, в их фазе до-зрелости)
+- **«Космический творческий цикл»** — термин корпуса для более широкого повторяющегося образца, порождающего новые цивилизации-создатели
+- **«Порог наследования»** — конкретная точка, в которой сотворённая цивилизация становится способной сама стать цивилизацией-создателем (критерий оценки Космического Состязания)
+- **«Поколенческая космология»** — более широкая космологическая рамка, которую производит цепь, в которой цивилизации организованы в генеалогические отношения сквозь космическое время
 
-The cross-corpus terminology is consistent in its specific framing: the framework concerns the **indefinitely extended sequence of created-and-creating civilizations** across cosmic time, with the **specific recursive-cyclical structure** being the principal content of the framework.
+Межкорпусная терминология последовательна в своей конкретной формулировке: рамка касается **неопределённо протяжённой последовательности созданных-и-создающих цивилизаций** сквозь космическое время, причём **конкретная рекурсивно-циклическая структура** есть главное содержание рамки.
 
-## Conventional understanding
+## Конвенциональное понимание
 
-The Cosmic Chain framework as a specific cosmological category is largely a corpus-internal construction, with the underlying questions about cosmic infinity and the origin of life on Earth being the principal points of contact with conventional scholarly and theological treatment. The principal positions warrant individual treatment.
+Рамка Космической Цепи как конкретная космологическая категория в значительной мере есть внутрикорпусное построение, причём лежащие в основе вопросы о космической бесконечности и о происхождении жизни на Земле суть главные точки соприкосновения с конвенциональной научной и богословской трактовкой. Главные позиции заслуживают отдельного рассмотрения.
 
-### Mainstream Western theological tradition
+### Основная западная богословская традиция
 
-Mainstream Western theological tradition has generally developed cosmological frameworks that position a specific creator deity (or specific divine reality) at the origin of the cosmic process. The principal positions:
+Основная западная богословская традиция в целом развила космологические рамки, помещающие конкретное божество-создателя (или конкретную божественную реальность) в начало космического процесса. Главные позиции:
 
-**Christian theological tradition** generally posits a single uncreated creator (God) who originates the cosmos through specific creative acts (*creatio ex nihilo*). The classical formulations (Augustine, Aquinas, the medieval scholastic tradition) develop substantial philosophical-theological content concerning divine eternality, the relationship between creator and creation, and the metaphysical priority of the creator over the created. The Cosmic Chain's specific "no first creator" position is at substantial variance with the mainstream Christian position.
+**Христианская богословская традиция** в целом постулирует единого несотворённого создателя (Бога), который зачинает космос через конкретные творческие акты (*creatio ex nihilo*). Классические формулировки (Августин, Аквинат, средневековая схоластическая традиция) развивают существенное философско-богословское содержание о божественной вечности, об отношении между создателем и творением и о метафизической первичности создателя над сотворённым. Конкретная позиция «нет первого создателя» Космической Цепи существенно расходится с основной христианской позицией.
 
-**Jewish theological tradition** similarly posits a specific creator deity (YHWH/Elohim) at the origin of the cosmic process, with the Genesis 1 creation narrative providing the foundational textual material. Various Jewish theological-philosophical traditions (Maimonides, Crescas, the broader rabbinic philosophical tradition) develop substantial content on creation and divine eternality. The Kabbalistic tradition introduces additional complexity through the *Ein Sof* (the infinite divine source) and the *Sefirot* (the emanated divine attributes), with substantial structural overlap with the Cosmic Chain's broader infinite-cosmology framework, though the Kabbalistic tradition's specific theological content differs from the Cosmic Chain's framework.
+**Иудейская богословская традиция** аналогичным образом постулирует конкретное божество-создателя (Яхве/Элохим) в начале космического процесса, причём повествование о творении в Бытии 1 предоставляет основополагающий текстовый материал. Различные иудейские богословско-философские традиции (Маймонид, Крескас, более широкая раввинистическая философская традиция) развивают существенное содержание о творении и божественной вечности. Каббалистическая традиция вводит дополнительную сложность через *Эйн Соф* (бесконечный божественный источник) и *Сфирот* (эманированные божественные атрибуты), с существенным структурным перекрытием с более широкой рамкой бесконечной космологии Космической Цепи, хотя конкретное богословское содержание каббалистической традиции отличается от рамки Космической Цепи.
 
-**Islamic theological tradition** posits Allah as the single uncreated creator, with the Qur'anic creation material providing the foundational textual basis. The various Islamic theological-philosophical traditions (the Mu'tazilite, Ash'arite, Maturidite schools; the Sufi traditions) develop substantial content on creation and divine eternality. The Cosmic Chain's specific position is at substantial variance with the mainstream Islamic position.
+**Исламская богословская традиция** постулирует Аллаха как единого несотворённого создателя, причём коранический материал о творении предоставляет основополагающую текстовую основу. Различные исламские богословско-философские традиции (мутазилитская, ашаритская, матуридитская школы; суфийские традиции) развивают существенное содержание о творении и божественной вечности. Конкретная позиция Космической Цепи существенно расходится с основной исламской позицией.
 
-The framework's relationship to mainstream Western theology is one of substantial divergence on the specific "first creator" question, with the framework's "no first creator" position being at variance with the principal Western theological traditions while overlapping substantively with various Eastern cyclic-cosmology traditions (treated under *Comparative observations* below).
+Отношение рамки к основному западному богословию есть отношение существенного расхождения по конкретному вопросу о «первом создателе», причём позиция «нет первого создателя» рамки расходится с главными западными богословскими традициями, но содержательно совпадает с различными восточными традициями циклической космологии (рассматриваемыми в разделе *Сравнительные наблюдения* ниже).
 
-### Mainstream cosmology
+### Основная космология
 
-Mainstream cosmology has produced substantial work on the broader questions of cosmic origin, infinity, and structure. The principal positions:
+Основная космология произвела существенную работу над более широкими вопросами о космическом происхождении, бесконечности и структуре. Главные позиции:
 
-**The Big Bang model** is the principal contemporary cosmological framework, positing the universe's origin in an extremely hot, dense state approximately 13.8 billion years ago. The model has been substantially confirmed through multiple lines of empirical evidence (Hubble's observation of galactic redshift, the cosmic microwave background, the abundance of light elements, the large-scale structure of galaxies). The Big Bang model addresses the cosmic origin question through the specific framework of an early hot dense state from which the current cosmos developed.
+**Модель Большого взрыва** — главная современная космологическая рамка, постулирующая происхождение вселенной из чрезвычайно горячего, плотного состояния приблизительно 13,8 миллиардов лет назад. Модель была существенно подтверждена многими линиями эмпирических свидетельств (наблюдение Хабблом галактического красного смещения, космическое микроволновое фоновое излучение, обилие лёгких элементов, крупномасштабная структура галактик). Модель Большого взрыва обращается к вопросу о космическом происхождении через конкретную рамку раннего горячего плотного состояния, из которого развился нынешний космос.
 
-**The cosmic inflation model** (Guth, Linde, Steinhardt and others, developed since approximately 1980) extends the Big Bang framework with substantial implications for the broader cosmic structure. The inflation model produces specific predictions about cosmic flatness, isotropy, and the broader structure of the universe.
+**Модель космической инфляции** (Гут, Линде, Стейнхардт и другие, развиваемая примерно с 1980 года) расширяет рамку Большого взрыва с существенными следствиями для более широкой космической структуры. Инфляционная модель производит конкретные предсказания о космической плоскостности, изотропии и более широкой структуре вселенной.
 
-**Eternal inflation and multiverse cosmology** (Linde, Vilenkin, others) extends the inflation framework into substantial multiverse content, with various models proposing that our observable universe is one specific region within a larger multiverse structure. The Cosmic Chain's specific recursive-cyclical structure has substantive overlap with various multiverse cosmologies, though the specific content differs.
+**Вечная инфляция и мультивселенная космология** (Линде, Виленкин и другие) расширяют инфляционную рамку до существенного мультивселенного содержания, причём различные модели предполагают, что наша наблюдаемая вселенная есть одна конкретная область в пределах большей мультивселенной структуры. Конкретная рекурсивно-циклическая структура Космической Цепи имеет содержательное перекрытие с различными мультивселенными космологиями, хотя конкретное содержание отличается.
 
-**Cyclic cosmologies** (Steinhardt-Turok ekpyrotic model, Penrose's conformal cyclic cosmology, various other proposals) have developed substantial work on cosmic recurrence, with various models proposing that the cosmic history involves multiple successive Big Bang events rather than a single unique origin event. These cyclic cosmologies overlap substantively with the Cosmic Chain's recursive structure at the cosmological level, though the specific content differs.
+**Циклические космологии** (экпиротическая модель Стейнхардта-Турока,{{ cite(id="steinhardt-turok-endless-universe", text="[14]", title="Стейнхардт и Турок, *Бесконечная вселенная* (2007) — экпиротическая циклическая модель") }} конформная циклическая космология Пенроуза,{{ cite(id="penrose-cycles-of-time", text="[15]", title="Пенроуз, *Циклы времени* (2011) — конформная циклическая космология") }} различные другие предложения) развили существенную работу о космической повторяемости, причём различные модели предполагают, что космическая история включает множество сменяющих друг друга событий Большого взрыва, а не единое уникальное событие происхождения. Более широкие вопросы структуры пространства-времени рассматриваются в обмене мнениями Хокинга и Пенроуза.{{ cite(id="hawking-penrose-nature-space-time", text="[16]", title="Хокинг и Пенроуз, *Природа пространства и времени* (1996)") }} Эти циклические космологии содержательно перекрываются с рекурсивной структурой Космической Цепи на космологическом уровне, хотя конкретное содержание отличается.
 
-The framework's relationship to mainstream cosmology is one of broader-framework consistency at the empirical level (the Cosmic Chain does not contradict mainstream observational cosmology) while extending substantially beyond what mainstream cosmology directly engages (the specific civilizational-recursive content of the chain).
+Отношение рамки к основной космологии есть отношение более-широко-рамочной согласованности на эмпирическом уровне (Космическая Цепь не противоречит основной наблюдательной космологии) при существенном выходе за пределы того, к чему основная космология прямо обращается (конкретное цивилизационно-рекурсивное содержание цепи).
 
-### The infinite-universe philosophical tradition
+### Философская традиция бесконечной вселенной
 
-The broader philosophical tradition has produced substantial work on the question of cosmic infinity. The principal positions:
+Более широкая философская традиция произвела существенную работу над вопросом о космической бесконечности. Главные позиции:
 
-**Giordano Bruno** in *De l'infinito universo et mondi* (1584) and other works developed the multiple-worlds and infinite-universe doctrine extensively, arguing for an infinite universe containing infinite inhabited worlds. Bruno's execution by the Roman Inquisition in 1600 was prompted in part by his cosmological-theological doctrines.
+**Джордано Бруно** в *De l'infinito universo et mondi* (1584) и других трудах обширно развил учение о множественности миров и бесконечной вселенной, доказывая существование бесконечной вселенной, содержащей бесконечные обитаемые миры. Казнь Бруно римской инквизицией в 1600 году была отчасти вызвана его космологически-богословскими учениями.
 
-**Immanuel Kant** in the *Critique of Pure Reason* (1781) treated the question of cosmic infinity within the broader framework of the antinomies of pure reason, with substantial implications for how the question can be approached philosophically.
+**Иммануил Кант** в *Критике чистого разума* (1781) рассматривал вопрос о космической бесконечности в пределах более широкой рамки антиномий чистого разума, с существенными следствиями для того, как этот вопрос может быть подступен философски.
 
-**Modern cosmological philosophy** has produced substantial work on the various aspects of cosmic infinity, the question of cosmic origins, and the relationship between cosmology and philosophical-theological questions. The principal contemporary scholarship includes work by various philosophers of science and cosmologists engaging with the specific questions the Cosmic Chain framework addresses.
+**Современная космологическая философия** произвела существенную работу над различными аспектами космической бесконечности, над вопросом о космических началах и об отношении между космологией и философско-богословскими вопросами. Главная современная учёность включает работы различных философов науки и космологов, обращающихся к конкретным вопросам, к которым обращается рамка Космической Цепи.
 
-The framework's position on cosmic infinity is structurally aligned with the broader philosophical tradition's recognition that infinity is a substantive cosmological feature, while extending beyond the philosophical tradition through the specific civilizational-recursive content of the chain.
+Позиция рамки о космической бесконечности структурно согласована с признанием более широкой философской традицией того, что бесконечность есть существенная космологическая черта, при этом выходя за пределы философской традиции через конкретное цивилизационно-рекурсивное содержание цепи.
 
-### Contemporary panspermia research
+### Современные исследования панспермии
 
-**Panspermia** — the hypothesis that life on Earth originated from cosmic sources rather than from autochthonous emergence on Earth — has been substantially developed across the past several decades. The principal developments:
+**Панспермия** — гипотеза о том, что жизнь на Земле произошла из космических источников, а не из автохтонного появления на Земле, — была существенно развита на протяжении нескольких последних десятилетий. Главные развития:
 
-**Classical panspermia** (Arrhenius, early 20th century) proposed that microbial life could be transmitted across cosmic distances on dust particles or meteoric material, with Earth's life originating from such cosmic transmission.
+**Классическая панспермия** (Аррениус, начало XX века){{ cite(id="arrhenius-worlds-in-the-making", text="[4]", title="Аррениус, *Образование миров* (1908) — классическая панспермия") }} предположила, что микробная жизнь могла передаваться через космические расстояния на пылевых частицах или метеорном материале, причём жизнь Земли произошла из такой космической передачи. Кометно-панспермийное развитие Хойла и Викрамасингхе расширяет эту традицию.{{ cite(id="hoyle-wickramasinghe-lifecloud", text="[5]", title="Хойл и Викрамасингхе, *Облако жизни* (1978)") }}
 
-**Directed panspermia** (Crick and Orgel, "Directed Panspermia," *Icarus* 19 (1973): 341-346) proposed that Earth's life was deliberately seeded by an extraterrestrial intelligent civilization rather than arriving through natural cosmic processes. The Crick-Orgel hypothesis was developed by Francis Crick (the Nobel-laureate co-discoverer of DNA structure) and Leslie Orgel (the principal scientist of early-Earth chemical biology) as a serious scientific proposal addressing the various problems with autochthonous origin-of-life models. The hypothesis specifically addresses the universality of the genetic code, the apparent dependence of all Earth life on molybdenum (which has limited terrestrial abundance), and the broader question of why specific biochemical features of Earth life appear unusually well-suited to deliberate engineering.
+**Направленная панспермия** (Крик и Оргел, «Направленная панспермия», *Icarus* 19 (1973): 341–346) предположила, что жизнь Земли была преднамеренно засеяна внеземной разумной цивилизацией, а не прибыла через естественные космические процессы. Гипотеза Крика-Оргела была разработана Фрэнсисом Криком (нобелевским лауреатом, соавтором открытия структуры ДНК) и Лесли Оргелом (главным учёным в области химической биологии ранней Земли) как серьёзное научное предложение, обращающееся к различным проблемам моделей автохтонного происхождения жизни. Гипотеза конкретно обращается к универсальности генетического кода, к видимой зависимости всей жизни Земли от молибдена (который имеет ограниченную земную распространённость) и к более широкому вопросу о том, почему конкретные биохимические черты жизни Земли кажутся необычно хорошо приспособленными к преднамеренной инженерии.
 
-**Contemporary panspermia research** continues to develop the broader question of cosmic life-transmission, with substantial recent work on the survivability of microbial life in space environments, the potential vectors for cosmic transmission, and the broader question of whether Earth's life is unique or part of a broader cosmic biological pattern.
+**Современные исследования панспермии** продолжают развивать более широкий вопрос о космической передаче жизни, с существенной недавней работой о выживаемости микробной жизни в космических средах, о потенциальных переносчиках для космической передачи и о более широком вопросе о том, уникальна ли жизнь Земли или является частью более широкого космического биологического образца.
 
-The Cosmic Chain framework's relationship to the panspermia tradition — particularly to the Crick-Orgel directed-panspermia hypothesis — is one of substantial structural alignment. Both frameworks read Earth's life as having been deliberately produced by extraterrestrial intelligent civilization rather than emerging autochthonously. The Cosmic Chain framework extends the directed-panspermia framework substantially through the recursive-cyclical content (the Elohim themselves having been created by a prior civilization, with the chain extending indefinitely backward).
+Отношение рамки Космической Цепи к традиции панспермии — в особенности к гипотезе направленной панспермии Крика-Оргела — есть отношение существенного структурного согласования. Обе рамки читают жизнь Земли как преднамеренно произведённую внеземной разумной цивилизацией, а не возникшую автохтонно. Рамка Космической Цепи существенно расширяет рамку направленной панспермии через рекурсивно-циклическое содержание (сами Элохим были созданы предшествующей цивилизацией, причём цепь простирается неопределённо назад).
 
-### Mainstream Western philosophical engagement with cyclic cosmology
+### Обращение основной западной философии к циклической космологии
 
-The broader Western philosophical tradition has produced limited engagement with cyclic cosmology compared to the Eastern traditions. The principal positions:
+Более широкая западная философская традиция произвела ограниченное обращение к циклической космологии по сравнению с восточными традициями. Главные позиции:
 
-**The Stoic eternal recurrence doctrine** (developed by Chrysippus and other Stoic philosophers) proposed that the cosmos undergoes successive cycles of conflagration and renewal, with each cycle reproducing the prior cycle in identical form. The Stoic tradition is the principal Western antecedent for cyclic cosmology.
+**Стоическое учение о вечном возвращении** (развитое Хрисиппом и другими философами-стоиками) предположило, что космос претерпевает сменяющие друг друга циклы воспламенения и обновления, причём каждый цикл воспроизводит предшествующий цикл в тождественной форме. Стоическая традиция — главный западный предшественник циклической космологии.{{ cite(id="long-sedley-hellenistic-philosophers", text="[7]", title="Лонг и Седли, *Эллинистические философы* (1987) — стоическое учение о вечном возвращении") }}
 
-**Friedrich Nietzsche** in *Thus Spoke Zarathustra* (1883-1885) and *The Will to Power* (posthumous) developed a specific eternal-recurrence doctrine, treating the eternal return of all events as both cosmological hypothesis and existential test. The Nietzschean doctrine is a substantial modern Western engagement with cyclic cosmology, though it differs substantially from the Cosmic Chain framework's specific civilizational-recursive content.
+**Фридрих Ницше** в *Так говорил Заратустра* (1883–1885) и *Воле к власти* (посмертно) развил конкретное учение о вечном возвращении, трактуя вечное возвращение всех событий и как космологическую гипотезу, и как экзистенциальное испытание.{{ cite(id="nietzsche-zarathustra", text="[8]", title="Ницше, *Так говорил Заратустра* (1883–1885) — учение о вечном возвращении") }} Ницшеанское учение есть существенное современное западное обращение к циклической космологии, хотя оно существенно отличается от конкретного цивилизационно-рекурсивного содержания рамки Космической Цепи.
 
-**Contemporary cyclic cosmologies** (Steinhardt-Turok, Penrose) provide the principal contemporary Western scientific engagement with cyclic cosmology, with various specific models being substantially developed.
+**Современные циклические космологии** (Стейнхардт-Турок, Пенроуз) предоставляют главное современное западное научное обращение к циклической космологии, причём различные конкретные модели существенно развиты.
 
-The framework's relationship to Western cyclic cosmology is one of structural alignment with the broader cyclic-cosmology principle while developing the specific civilizational-recursive content as the corpus's distinctive contribution.
+Отношение рамки к западной циклической космологии есть отношение структурного согласования с более широким принципом циклической космологии при развитии конкретного цивилизационно-рекурсивного содержания как отличительного вклада корпуса.
 
-## In primary sources
+## В первоисточниках
 
-The framework's principal primary-source material consists of specific Raëlian source passages on the chain of creators, the rejection of the "first creator" question, and the cyclical-recursive cosmological structure. The principal sources warrant individual treatment.
+Главный первоисточниковый материал рамки состоит из конкретных раэлианских пассажей о цепи создателей, об отвержении вопроса о «первом создателе» и о циклически-рекурсивной космологической структуре. Главные источники заслуживают отдельного рассмотрения.
 
-### The fundamental source-material statement
+### Основополагающее высказывание исходного материала
 
-The Raëlian source's principal statement on the Cosmic Chain appears in *Extra-Terrestrials Took Me to Their Planet* (1975), in the section "Neither God nor Soul":
+Главное высказывание раэлианского источника о Космической Цепи появляется в *Пришельцы унесли меня на свою планету* (1975), в разделе «Ни Бога, ни души»:
 
-> *"The Elohim were created by people from another planet, who had been created by other people coming from another planet, and so on to Infinity."*
+> *«Элохим были созданы людьми с другой планеты, которые были созданы другими людьми, прибывшими с другой планеты, и так далее до Бесконечности».*
 
-This single statement is the framework's principal source-material warrant. The corpus's broader articulation is the systematic development of this single sentence into the full Cosmic Chain framework.
+Это единственное высказывание есть главное первоисточниковое основание рамки.{{ cite(id="the-book-which-tells-the-truth", text="[9]", title="Ворильон (Раэль), *Книга, которая говорит правду* (1974) — открытие эпохи Овна и космологическое обрамление") }} Более широкая артикуляция корпуса есть систематическое развитие этого единственного предложения в полную рамку Космической Цепи.
 
-The statement's principal features:
+Главные черты высказывания:
 
-- The Elohim are explicitly identified as having been created (rather than being autonomous originators of the creation pattern)
-- The prior creators were themselves created (rather than being uncreated first creators)
-- The chain extends "to Infinity" (rather than terminating at some specific prior point)
-- The chain is structurally identical at each step (each civilization is created by a prior civilization, then itself becomes a creator civilization)
+- Элохим явно отождествлены как сотворённые (а не как автономные зачинатели образца творения)
+- Предшествующие создатели сами были сотворены (а не были несотворёнными первыми создателями)
+- Цепь простирается «до Бесконечности» (а не обрывается в некой конкретной предшествующей точке)
+- Цепь структурно тождественна на каждом шаге (каждая цивилизация создаётся предшествующей цивилизацией, затем сама становится цивилизацией-создателем)
 
-### The "no first creator" position
+### Позиция «нет первого создателя»
 
-The Raëlian source explicitly addresses and rejects the conventional theological question — "who created the first creator?" — treating the question as grammatically well-formed but with a presupposition that does not match the structure of the underlying reality.
+Раэлианский источник прямо обращается к конвенциональному богословскому вопросу — «кто создал первого создателя?» — и отвергает его, трактуя вопрос как грамматически правильно построенный, но имеющий предпосылку, которая не соответствует структуре лежащей в основе реальности.
 
-The framework reads this position as substantively significant. The conventional Western theological tradition presupposes that there must be a first creator (an uncreated creator, ground of all creation, the *causa prima* of the medieval scholastic tradition); the Cosmic Chain framework rejects this presupposition. The chain extends backward indefinitely, just as the chain of created beings extends indefinitely forward. The cosmos has no ultimate origin and no ultimate end. The question "who created the first creator?" is, on this view, grammatically well-formed but its presupposition does not match the structure of the reality being asked about — analogous to asking "what is north of the North Pole?"
+Рамка читает эту позицию как содержательно значимую. Конвенциональная западная богословская традиция предполагает, что должен быть первый создатель (несотворённый создатель, основание всего творения, *causa prima* средневековой схоластической традиции); рамка Космической Цепи отвергает эту предпосылку. Цепь простирается назад неопределённо, точно так же как цепь сотворённых существ простирается неопределённо вперёд. У космоса нет ни конечного происхождения, ни конечного конца. Вопрос «кто создал первого создателя?» с этой точки зрения грамматически правильно построен, но его предпосылка не соответствует структуре реальности, о которой спрашивают, — подобно вопросу «что находится к северу от Северного полюса?»
 
-The position is substantially distinctive within the Western philosophical-theological tradition (which has typically posited a first creator in some form) while overlapping substantively with various Eastern traditions' beginningless-cycle frameworks.
+Эта позиция существенно отличительна в пределах западной философско-богословской традиции (которая, как правило, постулировала первого создателя в той или иной форме), но содержательно совпадает с рамками безначального цикла различных восточных традиций.{{ footnote(id="2") }}
 
-### The Lord's Prayer reading
+### Прочтение молитвы «Отче наш»
 
-The Lord's Prayer's central petition — *"Thy kingdom come; thy will be done in earth, as it is in heaven"* (Matthew 6:10, with parallel in Luke 11:2) — is read by the framework as the compressed statement of the Cosmic Chain's cyclical-recursive structure. The source's specific reading: *"In 'heaven', on the creators' planet, the scientists eventually became the ruling group and then created other intelligent beings. The same thing will happen on Earth. The torch will be taken up again. This prayer, which has been repeated time and time again without anyone understanding its profound meaning, now takes on its full significance: On Earth, as it is in heaven."*
+Центральное прошение молитвы «Отче наш» — *«Да приидет Царствие Твое; да будет воля Твоя и на земле, как на небе»* (Мф. 6:10, с параллелью в Лк. 11:2) — читается рамкой как сжатое высказывание о циклически-рекурсивной структуре Космической Цепи. Конкретное прочтение источника: *«На „небе“, на планете создателей, учёные в конце концов стали правящей группой и затем создали других разумных существ. То же самое произойдёт на Земле. Факел будет вновь подхвачен. Эта молитва, которую повторяли вновь и вновь, не понимая её глубокого смысла, теперь обретает своё полное значение: на Земле, как и на небе».*
 
-The framework reads the prayer as containing the specific developmental program that Earth's humanity is being evaluated against. The "heaven" is the Elohim home world (a civilization that has already passed through the developmental stages Earth is now traversing); the "earth" is Earth (a civilization that is currently in the developmental stage the home world has previously traversed). The petition is for Earth to reach the level of the home world — the level at which Earth's humanity becomes capable of itself creating new intelligent life and continuing the cosmic chain.
+Рамка читает молитву как содержащую конкретную программу развития, против которой оценивается человечество Земли. «Небо» есть родной мир Элохим (цивилизация, уже прошедшая стадии развития, которые Земля ныне проходит); «земля» есть Земля (цивилизация, ныне находящаяся на стадии развития, которую родной мир прошёл ранее). Прошение состоит в том, чтобы Земля достигла уровня родного мира — уровня, на котором человечество Земли становится способным само создавать новую разумную жизнь и продолжать космическую цепь.
 
-The Lord's Prayer reading is shared with the Cosmic Competition entry but operates within the broader Cosmic Chain framework specifically. The Cosmic Competition concerns the specific evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification; the Cosmic Chain is the broader cyclical-recursive structure within which the evaluation phase operates as one specific phase.
+Прочтение молитвы «Отче наш» разделяется со статьёй о Космическом Состязании, но действует в пределах более широкой рамки Космической Цепи в частности. Космическое Состязание касается конкретной фазы оценки, в течение которой цивилизация-создатель оценивает свои сотворённые человечества на соответствие наследованию; Космическая Цепь есть более широкая циклически-рекурсивная структура, в пределах которой фаза оценки действует как одна конкретная фаза.
 
-### The "as above, so below" Hermetic reading
+### Герметическое прочтение «как вверху, так и внизу»
 
-The Raëlian source occasionally invokes the Hermetic phrase **"as above, so below"** (the *Tabula Smaragdina* or Emerald Tablet's specific phrasing) in connection with the broader cosmological framework. The phrase has been part of the Western Hermetic tradition since approximately the late antiquity, with substantial subsequent development in the Renaissance Hermetic tradition (Ficino, Pico della Mirandola, Bruno, others).
+Раэлианский источник изредка призывает герметическую фразу **«как вверху, так и внизу»** (конкретную формулировку *Tabula Smaragdina*, или Изумрудной скрижали) в связи с более широкой космологической рамкой. Эта фраза была частью западной герметической традиции примерно с поздней античности, с существенным последующим развитием в ренессансной герметической традиции (Фичино, Пико делла Мирандола, Бруно и другие).{{ cite(id="yates-giordano-bruno-hermetic", text="[17]", title="Йейтс, *Джордано Бруно и герметическая традиция* (1964)") }}
 
-The framework's reading of the phrase preserves the specific insight that the cosmic structure is recursive — what occurs at one level of the creative hierarchy is repeated at the level it produces. The framework does not adopt the broader Hermetic theological-cosmological apparatus (the specific Hermetic doctrines of cosmic correspondence, the Hermetic anthropology, the broader Hermetic theology); the corpus's engagement is specifically with the recursive-structural insight the phrase preserves.
+Прочтение рамкой этой фразы сохраняет конкретное прозрение, что космическая структура рекурсивна — то, что происходит на одном уровне творческой иерархии, повторяется на уровне, который он производит. Рамка не перенимает более широкий герметический богословско-космологический аппарат (конкретные герметические учения о космическом соответствии, герметическую антропологию, более широкое герметическое богословие); обращение корпуса касается конкретно рекурсивно-структурного прозрения, которое сохраняет эта фраза.
 
-### The Aries-discovery passage
+### Пассаж об открытии эпохи Овна
 
-The Raëlian source describes the policy shift produced by the Aries-age discovery in a passage that is decisive for understanding everything that follows:
+Раэлианский источник описывает смену политики, произведённую открытием эпохи Овна, в пассаже, решающем для понимания всего, что следует далее:
 
-> *"Because of recent discoveries, the creators decided to appear as little as possible in order not to influence the destiny of Man too much, so that they could see if they would reach the age of scientific knowledge on their own. So, the creators began to use increasingly discreet means of communicating with humans, as in the method of feeding Elijah using 'homing' ravens. This was the beginning of a gigantic experiment throughout the galaxy in which several humanities are in competition. The creators decided to appear less often, while at the same time reinforcing the authority and reputation of their ambassadors - the prophets - by using miracles."*
+> *«Из-за недавних открытий создатели решили появляться как можно реже, чтобы не влиять слишком сильно на судьбу Человека, дабы увидеть, достигнет ли он возраста научного знания самостоятельно. Так создатели начали использовать всё более незаметные средства общения с людьми, как в способе кормления Илии при помощи „почтовых“ воронов. Это было началом гигантского эксперимента по всей галактике, в котором соревнуются несколько человечеств. Создатели решили появляться реже, в то же время укрепляя авторитет и репутацию своих посланников — пророков — при помощи чудес».*
 
-The passage establishes several things at once for the Cosmic Chain framework specifically:
+Этот пассаж устанавливает сразу несколько вещей для рамки Космической Цепи в частности:
 
-- The discovery is real and specific (rather than metaphorical)
-- The discovery produced a deliberate policy shift in operational practice
-- The shift inaugurated the broader cosmic-competition framework
-- The framework operates "throughout the galaxy" rather than being Earth-specific
-- The shift applies not only to Earth but to all parallel humanities the alliance had created
+- Открытие реально и конкретно (а не метафорично)
+- Открытие произвело преднамеренную смену политики в операционной практике
+- Эта смена положила начало более широкой рамке космического состязания
+- Рамка действует «по всей галактике», а не специфична для Земли
+- Эта смена применима не только к Земле, но и ко всем параллельным человечествам, которые создал альянс
 
-The Aries-discovery is the operational origin of the Cosmic Chain framework in the corpus's broader narrative. Before the discovery, the Elohim operated under the assumption that they were the originators of the creation pattern; after the discovery, they recognized themselves as participants in a much broader pattern.
+Открытие эпохи Овна есть операционное происхождение рамки Космической Цепи в более широком повествовании корпуса. До открытия Элохим действовали в предположении, что они суть зачинатели образца творения; после открытия они осознали себя участниками гораздо более широкого образца.
 
-### The infinity-of-cosmos passages
+### Пассажи о бесконечности космоса
 
-The Raëlian source provides substantial material on the broader infinite-cosmology framework within which the Cosmic Chain operates. The principal content:
+Раэлианский источник предоставляет существенный материал о более широкой рамке бесконечной космологии, в пределах которой действует Космическая Цепь. Главное содержание:
 
-- **Infinite cosmos in space**: The cosmos has no center and no boundary in any direction
-- **Infinite cosmos in time**: The cosmos has no beginning and no end in temporal direction
-- **Infinite hierarchy of scales**: Intelligent civilizations exist at every scale from infinitely small to infinitely large
-- **Infinity as the principal cosmological feature**: The infinite character of the cosmos is the foundational reality, with the various local features (the Cosmic Chain among them) operating within the broader infinite structure
+- **Бесконечный космос в пространстве**: у космоса нет центра и нет границы ни в одном направлении
+- **Бесконечный космос во времени**: у космоса нет начала и нет конца во временном направлении
+- **Бесконечная иерархия масштабов**: разумные цивилизации существуют на каждом масштабе от бесконечно малого до бесконечно большого
+- **Бесконечность как главная космологическая черта**: бесконечный характер космоса есть основополагающая реальность, причём различные местные черты (Космическая Цепь в их числе) действуют в пределах более широкой бесконечной структуры
 
-The infinity-of-cosmos material is treated more fully under the broader Wheel of Heaven framework's cosmological treatment; the Cosmic Chain entry's specific contribution is registering that the chain operates within this broader infinite cosmological structure rather than being a complete account of the cosmos itself.
+Материал о бесконечности космоса рассматривается более полно в космологической трактовке более широкой рамки Wheel of Heaven; конкретный вклад статьи о Космической Цепи состоит в регистрации того, что цепь действует в пределах этой более широкой бесконечной космологической структуры, а не является полным отчётом о самом космосе.
 
-### The cyclical-cosmic-future passages
+### Пассажи о циклическом космическом будущем
 
-The Raëlian source provides substantial material on humanity's projected future role in the chain. The principal content:
+Раэлианский источник предоставляет существенный материал о проектируемой будущей роли человечества в цепи. Главное содержание:
 
-- **Earth's projected transition** from created to creator civilization, following the Aquarian-age inheritance event
-- **Future creation by humanity** of new humanities on suitable worlds
-- **The pattern's continuation** through the future created civilizations becoming themselves creator civilizations
-- **The infinite forward extension** of the chain through these future cycles
+- **Проектируемый переход Земли** от сотворённой к создающей цивилизации, вслед за событием наследования эпохи Водолея
+- **Будущее творение человечеством** новых человечеств на пригодных мирах
+- **Продолжение образца** через будущие сотворённые цивилизации, сами становящиеся цивилизациями-создателями
+- **Бесконечное продолжение вперёд** цепи через эти будущие циклы
 
-The cyclical-cosmic-future material is the framework's principal source-material warrant for the chain's forward extension. The corpus's broader articulation extends this material substantially through the systematic integration with the Cosmic Competition, the Aquarian-age developments, and the projected post-inheritance trajectory.
+Материал о циклическом космическом будущем есть главное первоисточниковое основание рамки для продолжения цепи вперёд. Более широкая артикуляция корпуса существенно расширяет этот материал через систематическую интеграцию с Космическим Состязанием, с развитиями эпохи Водолея и с проектируемой пост-наследовательной траекторией.
 
-## The concept's content
+## Содержание понятия
 
-The framework's specific articulation of the Cosmic Chain integrates multiple distinct strands of source material into a coherent cosmological account.
+Конкретная артикуляция рамкой Космической Цепи интегрирует множество отдельных нитей исходного материала в связный космологический отчёт.
 
-### The basic cyclical-recursive structure
+### Базовая циклически-рекурсивная структура
 
-The Cosmic Chain operates through a basic cyclical-recursive structure with several specific features:
+Космическая Цепь действует через базовую циклически-рекурсивную структуру с несколькими конкретными чертами:
 
-**The fundamental cycle**. Each civilization in the chain follows a structurally identical developmental trajectory:
+**Фундаментальный цикл**. Каждая цивилизация в цепи следует структурно тождественной траектории развития:
 
-1. **Creation**: The civilization is created by a prior creator civilization through specific operational interventions (analogous to the Elohim's specific operations in the Earth project)
-2. **Development**: The civilization develops across cosmic time, with the developmental trajectory including various ages or periods analogous to Earth's precessional ages
-3. **Discovery**: At some point, the civilization discovers that it has itself been created (analogous to the Elohim's Aries-age discovery)
-4. **Maturation**: The civilization continues to develop through subsequent ages, eventually reaching the threshold of scientific maturity required for itself becoming a creator civilization
-5. **Inheritance**: At the inheritance threshold, the civilization receives the accumulated knowledge from its creators (analogous to Earth's projected Aquarian-age inheritance event)
-6. **Creator-civilization phase**: The civilization itself becomes a creator civilization, conducting its own creation projects on suitable worlds
-7. **Continuation**: The new humanities created by this civilization develop through the same trajectory, with the cycle continuing indefinitely
+1. **Творение**: цивилизация создаётся предшествующей цивилизацией-создателем через конкретные операционные вмешательства (аналогично конкретным операциям Элохим в земном проекте)
+2. **Развитие**: цивилизация развивается сквозь космическое время, причём траектория развития включает различные эпохи или периоды, аналогичные прецессионным эпохам Земли
+3. **Открытие**: в некий момент цивилизация обнаруживает, что она сама была создана (аналогично открытию эпохи Овна Элохим)
+4. **Созревание**: цивилизация продолжает развиваться сквозь последующие эпохи, в конце концов достигая порога научной зрелости, требуемого для того, чтобы самой стать цивилизацией-создателем
+5. **Наследование**: на пороге наследования цивилизация получает накопленное знание от своих создателей (аналогично проектируемому событию наследования эпохи Водолея для Земли)
+6. **Фаза цивилизации-создателя**: цивилизация сама становится цивилизацией-создателем, проводя собственные проекты творения на пригодных мирах
+7. **Продолжение**: новые человечества, созданные этой цивилизацией, развиваются по той же траектории, причём цикл продолжается неопределённо
 
-**The structural identity across cycles**. The framework reads the cycle as having structural identity across all instances — each cycle has the same broad shape (creation, development, discovery, maturation, inheritance, creator-civilization phase, continuation) even though the specific contents of each cycle differ substantially. The structural identity is the principal content of the framework: the cycle is what is repeated, not the specific contents.
+**Структурная тождественность через циклы**. Рамка читает цикл как имеющий структурную тождественность во всех экземплярах — каждый цикл имеет одну и ту же широкую форму (творение, развитие, открытие, созревание, наследование, фаза цивилизации-создателя, продолжение), даже если конкретные содержания каждого цикла существенно различаются. Структурная тождественность есть главное содержание рамки: повторяется именно цикл, а не конкретные содержания.
 
-**The infinite extension in both directions**. The chain extends indefinitely backward through prior creators and indefinitely forward through future creations. Neither direction reaches a findable limit. The cosmos has no ultimate origin (no first creator, no first cycle) and no ultimate end (no final creator, no final cycle).
+**Бесконечное протяжение в обоих направлениях**. Цепь простирается неопределённо назад через предшествующих создателей и неопределённо вперёд через будущие творения. Ни одно из направлений не достигает находимого предела. У космоса нет ни конечного происхождения (нет первого создателя, нет первого цикла), ни конечного конца (нет последнего создателя, нет последнего цикла).
 
-### The infinite-recursion character
+### Характер бесконечной рекурсии
 
-The framework's specific position on the chain's infinite character has substantial implications.
+Конкретная позиция рамки о бесконечном характере цепи имеет существенные следствия.
 
-**The "no first creator" position**. The chain extends backward indefinitely, without findable beginning. The conventional theological question — "who created the first creator?" — is rejected as resting on a presupposition (that there is a first creator) that does not match the structure of the underlying reality. The framework's position is substantively distinct from the principal Western theological traditions while overlapping substantively with various Eastern cyclic-cosmology traditions.
+**Позиция «нет первого создателя»**. Цепь простирается назад неопределённо, без находимого начала. Конвенциональный богословский вопрос — «кто создал первого создателя?» — отвергается как опирающийся на предпосылку (что первый создатель есть), которая не соответствует структуре лежащей в основе реальности. Позиция рамки содержательно отлична от главных западных богословских традиций, но содержательно совпадает с различными восточными традициями циклической космологии.
 
-**The infinite forward extension**. The chain extends forward indefinitely, without findable end. Each created civilization, having reached scientific maturity and become a creator civilization, will itself create new civilizations that will eventually become creator civilizations themselves. The forward extension is symmetric with the backward extension — the same indefinite-recursive character operates in both temporal directions.
+**Бесконечное протяжение вперёд**. Цепь простирается вперёд неопределённо, без находимого конца. Каждая сотворённая цивилизация, достигнув научной зрелости и став цивилизацией-создателем, сама создаст новые цивилизации, которые в конце концов сами станут цивилизациями-создателями. Протяжение вперёд симметрично протяжению назад — один и тот же неопределённо-рекурсивный характер действует в обоих временных направлениях.
 
-**The specific implication for Earth's humanity**. The framework reads Earth's specific situation as one specific link in the chain. Earth's humanity was created by the Elohim (a specific creator civilization); the Elohim were themselves created by their predecessors; the predecessors were created by their predecessors; and so on indefinitely backward. Earth's humanity will eventually itself become a creator civilization, which will create new humanities, which will themselves become creator civilizations; and so on indefinitely forward. Earth's specific situation is one instance of a much broader pattern that has been operating across the cosmos for an unknown but very long span and will continue to operate for an unknown but very long span more.
+**Конкретное следствие для человечества Земли**. Рамка читает конкретную ситуацию Земли как одно конкретное звено в цепи. Человечество Земли было создано Элохим (конкретной цивилизацией-создателем); сами Элохим были созданы своими предшественниками; предшественники были созданы своими предшественниками; и так далее неопределённо назад. Человечество Земли в конце концов само станет цивилизацией-создателем, которая создаст новые человечества, которые сами станут цивилизациями-создателями; и так далее неопределённо вперёд. Конкретная ситуация Земли есть один экземпляр гораздо более широкого образца, действовавшего в космосе на протяжении неизвестного, но очень долгого срока, и продолжающего действовать на протяжении неизвестного, но очень долгого срока далее.
 
-### The integration with Aries-discovery
+### Интеграция с открытием эпохи Овна
 
-The Cosmic Chain framework has its operational origin in the Aries-age discovery (c. 2,160–1,200 BCE) when the Elohim recognized that they themselves had been created. The discovery's specific content and operational consequences warrant treatment.
+Рамка Космической Цепи имеет своё операционное происхождение в открытии эпохи Овна (ок. 2160–1200 до н. э.), когда Элохим осознали, что они сами были созданы.{{ footnote(id="3") }} Конкретное содержание открытия и его операционные последствия заслуживают рассмотрения.
 
-**The discovery's specific content**. The source does not specify the exact evidence the Elohim found that established their own created status — what archaeological, genetic, cosmological, or other signatures convinced them. What the source does specify is the consequence: the Elohim's self-understanding shifted fundamentally, and the shift produced specific changes in their operational policy toward the humanities they had themselves created.
+**Конкретное содержание открытия**. Источник не уточняет точное свидетельство, которое Элохим нашли и которое установило их собственный сотворённый статус, — какие археологические, генетические, космологические или иные сигнатуры их убедили. Что источник действительно уточняет, так это следствие: самопонимание Элохим коренным образом сместилось, и эта смена произвела конкретные изменения в их операционной политике по отношению к человечествам, которые они сами создали.
 
-**The operational consequences**. The discovery produced several specific operational changes:
+**Операционные последствия**. Открытие произвело несколько конкретных операционных изменений:
 
-- **The shift from direct to indirect contact**: A humanity that reached scientific maturity through sustained direct intervention from its creators had not actually demonstrated scientific maturity — it had been carried to that condition by its predecessors. The cosmic pattern, the Elohim recognized, presumably required each humanity to demonstrate its development through its own efforts, with sufficient autonomy from its creators to constitute genuine independent maturation.
-- **The development of the prophetic tradition**: As the principal mechanism for indirect contact, the prophetic tradition allowed the alliance to maintain communication with their humanities while preserving the appearance of autonomy that the cosmic pattern required.
-- **The cultivation of multiple lineages**: The alliance's specific cultivation of multiple cultural lineages (Hebrew, Persian, Greek, Indian, Chinese, Mesoamerican) reflected the broader cosmic-competition framework's evaluation function.
-- **The eventual disclosure**: The discovery would eventually be communicated to the alliance's humanities — initially in parable form (Jesus's parable of the sower), eventually in the explicit revelation of the Aquarian age (the Raëlian source material).
+- **Смена с прямого контакта на косвенный**: человечество, достигшее научной зрелости через устойчивое прямое вмешательство своих создателей, на деле не продемонстрировало научную зрелость — оно было донесено до этого состояния своими предшественниками. Космический образец, как осознали Элохим, по-видимому, требовал, чтобы каждое человечество демонстрировало своё развитие собственными усилиями, с достаточной автономией от своих создателей, чтобы это составляло подлинное независимое созревание.
+- **Развитие пророческой традиции**: как главный механизм косвенного контакта, пророческая традиция позволяла альянсу поддерживать общение со своими человечествами, сохраняя при этом видимость автономии, которой требовал космический образец.
+- **Возделывание множества линий**: конкретное возделывание альянсом множества культурных линий (еврейской, персидской, греческой, индийской, китайской, мезоамериканской) отражало оценочную функцию более широкой рамки космического состязания.
+- **Итоговое раскрытие**: открытие в конце концов будет сообщено человечествам альянса — сначала в притчевой форме (притча Иисуса о сеятеле), в конце концов — в явном откровении эпохи Водолея (раэлианский исходный материал).
 
-The Aries-discovery is therefore the operational pivot in the corpus's broader narrative — the moment at which the Elohim's self-understanding transformed and the specific operational practices of the subsequent ages were established.
+Открытие эпохи Овна есть поэтому операционная ось в более широком повествовании корпуса — момент, в который самопонимание Элохим преобразилось и были установлены конкретные операционные практики последующих эпох.
 
-### The Lord's Prayer as compressed statement
+### Молитва «Отче наш» как сжатое высказывание
 
-The framework reads the Lord's Prayer's central petition — *"Thy kingdom come; thy will be done in earth, as it is in heaven"* (Matthew 6:10) — as the compressed statement of the Cosmic Chain's cyclical-recursive structure.
+Рамка читает центральное прошение молитвы «Отче наш» — *«Да приидет Царствие Твое; да будет воля Твоя и на земле, как на небе»* (Мф. 6:10) — как сжатое высказывание о циклически-рекурсивной структуре Космической Цепи.
 
-The reading's specific content:
+Конкретное содержание прочтения:
 
-- **"In heaven"** refers to the home world of the Elohim — a civilization that has already passed through the developmental stages Earth is now traversing
-- **"On earth"** refers to Earth — a civilization currently in the developmental stage the home world has previously traversed
-- **"Thy will be done"** refers to the cosmic-creative-cycle's continuation — the pattern of development from created civilization to creator civilization
-- **"As it is in heaven"** refers to the structural identity across cycles — what occurs at one level of the creative hierarchy is repeated at the level it produces
+- **«На небе»** относится к родному миру Элохим — цивилизации, уже прошедшей стадии развития, которые Земля ныне проходит
+- **«На земле»** относится к Земле — цивилизации, ныне находящейся на стадии развития, которую родной мир прошёл ранее
+- **«Да будет воля Твоя»** относится к продолжению космического творческого цикла — образца развития от сотворённой цивилизации к создающей цивилизации
+- **«Как на небе»** относится к структурной тождественности через циклы — то, что происходит на одном уровне творческой иерархии, повторяется на уровне, который он производит
 
-The Lord's Prayer is therefore not principally a petition for divine intervention in human affairs but a programmatic statement of the cosmic-chain vision: humanity is to develop until it becomes what the Elohim civilization is, and then to itself become a creator civilization continuing the cosmic chain.
+Молитва «Отче наш» есть поэтому не главным образом прошение о божественном вмешательстве в человеческие дела, а программное высказывание о видении космической цепи: человечеству надлежит развиваться, пока оно не станет тем, чем является цивилизация Элохим, и затем самому стать цивилизацией-создателем, продолжающей космическую цепь.
 
-This reading is substantially distinctive within the Christian interpretive tradition, which has read the prayer for two millennia as a petition for divine sovereignty to be established on earth. The framework registers the distinction honestly: the cosmic-chain reading goes substantially beyond the standard Christian interpretation, with the specific source-material warrant being the Raëlian source's explicit framing.
+Это прочтение существенно отличительно в пределах христианской истолковательной традиции, которая на протяжении двух тысячелетий читала молитву как прошение о том, чтобы божественное владычество было установлено на земле. Рамка честно регистрирует это различие: прочтение в духе космической цепи существенно выходит за пределы стандартного христианского толкования, причём конкретное первоисточниковое основание есть явная формулировка раэлианского источника.{{ footnote(id="4") }}
 
-### Earth's projected trajectory
+### Проектируемая траектория Земли
 
-The framework's reading of Earth's projected future trajectory provides substantial content for the chain's forward extension. The principal phases:
+Прочтение рамкой проектируемой будущей траектории Земли предоставляет существенное содержание для протяжения цепи вперёд. Главные фазы:
 
-**The Aquarian-age inheritance evaluation** (1945–present, continuing across the coming decades). Earth's humanity is currently being evaluated against the standard required for inheritance qualification — the moral, scientific, and political maturity that would qualify it to receive the alliance's accumulated knowledge and continue the chain. The detailed treatment of the inheritance evaluation lives in the [Cosmic Competition](../cosmic-competition/) entry.
+**Оценка наследования эпохи Водолея** (1945 — настоящее время, продолжающаяся на протяжении грядущих десятилетий). Человечество Земли в настоящее время оценивается против стандарта, требуемого для соответствия наследованию, — нравственной, научной и политической зрелости, которая квалифицировала бы его на получение накопленного знания альянса и продолжение цепи. Подробная трактовка оценки наследования содержится в статье [Космическое Состязание](../cosmic-competition/).
 
-**The inheritance event itself** (projected, following the Aquarian-age preparation period). The inheritance event will occur at the embassy following the alliance's open return. The accumulated knowledge of the alliance will be transmitted to humanity, providing the foundational basis for Earth's transition from created to creator civilization. The detailed treatment lives in the [Embassy](../embassy/) entry (when written).
+**Само событие наследования** (проектируемое, вслед за подготовительным периодом эпохи Водолея). Событие наследования произойдёт в посольстве вслед за открытым возвращением альянса. Накопленное знание альянса будет передано человечеству, предоставляя основополагающую базу для перехода Земли от сотворённой к создающей цивилизации. Подробная трактовка содержится в статье [Посольство](../embassy/) (когда написана).
 
-**The post-inheritance development** (projected, across the centuries following the inheritance event). Earth's humanity will develop the substantive capacities required for becoming a creator civilization — the interstellar travel capacity, the de novo biological synthesis capacity, the cultural and political maturity required to use these capacities responsibly. The development will occur across the centuries following the inheritance event, with the specific timeline depending on the broader Aquarian-age developmental trajectory.
+**Пост-наследовательное развитие** (проектируемое, на протяжении столетий, следующих за событием наследования). Человечество Земли разовьёт существенные способности, требуемые для становления цивилизацией-создателем, — способность к межзвёздному путешествию, способность к синтезу биологии de novo, культурную и политическую зрелость, требуемую для ответственного использования этих способностей. Развитие произойдёт на протяжении столетий, следующих за событием наследования, причём конкретные сроки зависят от более широкой траектории развития эпохи Водолея.
 
-**The first human-conducted creation** (projected, at some point in the centuries to come). Earth's humanity will eventually conduct its first creation project on a suitable world, producing a new humanity. The first human-conducted creation will be the specific moment at which Earth's humanity transitions from created to creator civilization in the operational sense.
+**Первое творение, проведённое человеком** (проектируемое, в некий момент грядущих столетий). Человечество Земли в конце концов проведёт свой первый проект творения на пригодном мире, произведя новое человечество. Первое творение, проведённое человеком, будет конкретным моментом, в который человечество Земли переходит от сотворённой к создающей цивилизации в операционном смысле.
 
-**The continuation of the chain through Earth's future creations** (projected, indefinitely forward). The new humanities Earth's humanity will create will themselves develop through the same cycle, eventually themselves becoming creator civilizations. The chain will continue indefinitely forward through these future cycles.
+**Продолжение цепи через будущие творения Земли** (проектируемое, неопределённо вперёд). Новые человечества, которые создаст человечество Земли, сами будут развиваться через тот же цикл, в конце концов сами становясь цивилизациями-создателями. Цепь будет продолжаться неопределённо вперёд через эти будущие циклы.
 
-### The relationship to the broader infinite cosmos
+### Отношение к более широкому бесконечному космосу
 
-The Cosmic Chain operates within a broader infinite cosmological framework that the source material develops substantially. The principal features:
+Космическая Цепь действует в пределах более широкой бесконечной космологической рамки, которую исходный материал существенно развивает. Главные черты:
 
-**Infinity in space**. The cosmos has no center and no boundary in any direction. The Cosmic Chain operates within this spatially infinite cosmos, with the various creator civilizations distributed across the broader cosmic structure.
+**Бесконечность в пространстве**. У космоса нет центра и нет границы ни в одном направлении. Космическая Цепь действует в пределах этого пространственно бесконечного космоса, причём различные цивилизации-создатели распределены по более широкой космической структуре.
 
-**Infinity in time**. The cosmos has no beginning and no end in temporal direction. The Cosmic Chain extends through this temporally infinite cosmos, with the various cycles operating across cosmic time without ultimate origin or termination.
+**Бесконечность во времени**. У космоса нет начала и нет конца во временном направлении. Космическая Цепь простирается сквозь этот временно бесконечный космос, причём различные циклы действуют сквозь космическое время без конечного происхождения или прекращения.
 
-**Infinite hierarchy of scales**. Intelligent civilizations exist at every scale from infinitely small to infinitely large. The Cosmic Chain operates at one specific scale within this broader hierarchical structure, with the various scales being approximately independent (the civilizations at each scale are largely unaware of the civilizations at other scales).
+**Бесконечная иерархия масштабов**. Разумные цивилизации существуют на каждом масштабе от бесконечно малого до бесконечно большого. Космическая Цепь действует на одном конкретном масштабе в пределах этой более широкой иерархической структуры, причём различные масштабы приблизительно независимы (цивилизации на каждом масштабе в значительной мере не ведают о цивилизациях на других масштабах).
 
-**The framework's relationship to "God"**. If "God" is interpreted as the infinite cosmos itself, then God exists — God is the infinite structure within which all the various local features operate. But this God is not a personal being, not a deity that intervenes in human affairs, not a recipient of prayer or worship in any traditional sense. The infinite cosmos is "infinitely indifferent" to specific events at any particular scale. If "God" is interpreted as a personal creator who cares about humanity, then there are such beings — the Elohim, our specific creators, who do indeed care about us in the concrete sense — but these beings are not God in the traditional theological sense. They are advanced beings of our own kind, themselves created by other beings, themselves operating within the larger infinite cosmos.
+**Отношение рамки к «Богу»**. Если «Бог» истолкован как сам бесконечный космос, то Бог существует — Бог есть бесконечная структура, в пределах которой действуют все различные местные черты. Но этот Бог не есть личное существо, не есть божество, которое вмешивается в человеческие дела, не есть получатель молитвы или поклонения в каком-либо традиционном смысле. Бесконечный космос «бесконечно безразличен» к конкретным событиям любого конкретного масштаба. Если «Бог» истолкован как личный создатель, который заботится о человечестве, то такие существа есть — Элохим, наши конкретные создатели, которые действительно заботятся о нас в конкретном смысле, — но эти существа не суть Бог в традиционном богословском смысле. Они — продвинутые существа нашего собственного рода, сами сотворённые другими существами, сами действующие в пределах большего бесконечного космоса.{{ footnote(id="5") }}
 
-The framework's specific position on the relationship between the Cosmic Chain and the broader infinite cosmos is distinctive: the chain is one specific feature of the broader infinite cosmological structure rather than the broader structure itself. The infinite cosmos contains the chain (and presumably contains many other features that the framework does not develop in detail) rather than being identical with the chain.
+Конкретная позиция рамки об отношении между Космической Цепью и более широким бесконечным космосом отличительна: цепь есть одна конкретная черта более широкой бесконечной космологической структуры, а не сама более широкая структура. Бесконечный космос содержит цепь (и, по-видимому, содержит многие другие черты, которые рамка не развивает подробно), а не тождествен ей.
 
-## Application across the corpus
+## Применение по всему корпусу
 
-The Cosmic Chain framework operates as the broadest analytical category across multiple corpus entries.
+Рамка Космической Цепи действует как самая широкая аналитическая категория в множестве корпусных статей.
 
-### The Cosmic Competition entry
+### Статья о Космическом Состязании
 
-The Cosmic Competition framework operates as one specific phase within the broader Cosmic Chain — the evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification. The detailed treatment lives in the [Cosmic Competition](../cosmic-competition/) entry; the Cosmic Chain entry establishes the broader cyclical-recursive structure within which the evaluation phase operates.
+Рамка Космического Состязания действует как одна конкретная фаза в пределах более широкой Космической Цепи — фаза оценки, в течение которой цивилизация-создатель оценивает свои сотворённые человечества на соответствие наследованию. Подробная трактовка содержится в статье [Космическое Состязание](../cosmic-competition/); статья о Космической Цепи устанавливает более широкую циклически-рекурсивную структуру, в пределах которой действует фаза оценки.
 
-### The Aries-age entry
+### Статья об эпохе Овна
 
-The Aries-discovery is the operational origin of the Cosmic Chain framework in the corpus's broader narrative. The detailed treatment of the Aries age and the discovery's specific content lives in the [Age of Aries](../timeline/age-of-aries/) entry; the Cosmic Chain entry establishes the broader cosmological framework that the discovery produced.
+Открытие эпохи Овна есть операционное происхождение рамки Космической Цепи в более широком повествовании корпуса. Подробная трактовка эпохи Овна и конкретного содержания открытия содержится в статье [Эпоха Овна](../timeline/age-of-aries/); статья о Космической Цепи устанавливает более широкую космологическую рамку, которую произвело это открытие.
 
-### The Aquarian-age entries
+### Статьи об эпохе Водолея
 
-The Aquarian-age inheritance evaluation operates as the specific present-day phase of the Cosmic Chain's cyclical structure. The detailed treatment lives in the [Apocalypse](../apocalypse/), [Embassy](../embassy/), and [Age of Aquarius](../timeline/age-of-aquarius/) entries; the Cosmic Chain entry establishes the broader cosmic-cyclical context within which the Aquarian-age developments operate.
+Оценка наследования эпохи Водолея действует как конкретная нынешняя фаза циклической структуры Космической Цепи. Подробная трактовка содержится в статьях [Апокалипсис](../apocalypse/), [Посольство](../embassy/) и [Эпоха Водолея](../timeline/age-of-aquarius/); статья о Космической Цепи устанавливает более широкий космически-циклический контекст, в пределах которого действуют развития эпохи Водолея.
 
-### The corpus's broader cosmological framing
+### Более широкое космологическое обрамление корпуса
 
-The Cosmic Chain framework provides the broadest cosmological context within which the corpus's specific narratives operate. The Earth project specifically, the various age-specific developments, the alliance's specific operational history — all of these operate within the broader Cosmic Chain framework, with the specific Earth-side content being one specific link in the much broader cosmic chain.
+Рамка Космической Цепи предоставляет самый широкий космологический контекст, в пределах которого действуют конкретные повествования корпуса. Собственно земной проект, различные эпохо-специфические развития, конкретная операционная история альянса — все они действуют в пределах более широкой рамки Космической Цепи, причём конкретное земное содержание есть одно конкретное звено в гораздо более широкой космической цепи.
 
-## Distinguishing from adjacent concepts
+## Отличение от смежных понятий
 
-The Cosmic Chain framework must be distinguished from several adjacent concepts to avoid confusion.
+Рамку Космической Цепи следует отличать от нескольких смежных понятий во избежание путаницы.
 
-### The Cosmic Chain vs. the Cosmic Competition
+### Космическая Цепь против Космического Состязания
 
-The Cosmic Competition is one specific phase within the broader Cosmic Chain — the evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification. The Cosmic Chain is the broader cyclical-recursive cosmological framework that includes the Cosmic Competition as one of its specific phases.
+Космическое Состязание есть одна конкретная фаза в пределах более широкой Космической Цепи — фаза оценки, в течение которой цивилизация-создатель оценивает свои сотворённые человечества на соответствие наследованию. Космическая Цепь есть более широкая циклически-рекурсивная космологическая рамка, которая включает Космическое Состязание как одну из своих конкретных фаз.
 
-The relationship is one of **broader-and-narrower scope**. The Cosmic Chain extends across the full cyclical structure (creation, development, discovery, maturation, inheritance, creator-civilization phase, continuation); the Cosmic Competition concerns specifically the evaluation phase during which the inheritance qualification is assessed. The Cosmic Chain operates in both temporal directions infinitely; the Cosmic Competition operates within a specific temporal window during which the evaluation is conducted.
+Это отношение — отношение **более широкого и более узкого охвата**. Космическая Цепь простирается через всю циклическую структуру (творение, развитие, открытие, созревание, наследование, фаза цивилизации-создателя, продолжение); Космическое Состязание касается конкретно фазы оценки, в течение которой оценивается соответствие наследованию. Космическая Цепь действует в обоих временных направлениях бесконечно; Космическое Состязание действует в пределах конкретного временного окна, в течение которого проводится оценка.
 
-### The Cosmic Chain vs. the precessional ages framework
+### Космическая Цепь против рамки прецессионных эпох
 
-The precessional ages framework is the broader chronological structure that organizes Earth's specific developmental trajectory across twelve approximately 2,160-year ages. The Cosmic Chain is the cosmic-cyclical-recursive framework that includes Earth's precessional-age trajectory as one specific instance.
+Рамка прецессионных эпох есть более широкая хронологическая структура, которая организует конкретную траекторию развития Земли через двенадцать эпох приблизительно по 2160 лет каждая. Космическая Цепь есть космически-циклически-рекурсивная рамка, которая включает прецессионно-эпохальную траекторию Земли как один конкретный экземпляр.
 
-The relationship is one of **cosmic-broader-framework-and-Earth-specific-trajectory**. The Cosmic Chain extends across all instances of the cosmic creative cycle (Earth's, the parallel humanities', the prior creators', the future creations', etc.); the precessional ages framework operates specifically for Earth's particular trajectory through one specific cycle.
+Это отношение — отношение **более широкой космической рамки и земно-специфической траектории**. Космическая Цепь простирается через все экземпляры космического творческого цикла (земной, параллельных человечеств, предшествующих создателей, будущих творений и т. д.); рамка прецессионных эпох действует конкретно для частной траектории Земли через один конкретный цикл.
 
-### The Cosmic Chain vs. the Earth project specifically
+### Космическая Цепь против собственно земного проекта
 
-The Earth project is the alliance's specific operational work on Earth — the seven creator-team distribution, the antediluvian developments, the various subsequent ages, the current Aquarian-age preparation. The Cosmic Chain is the broader cosmic-cyclical-recursive framework within which the Earth project operates as one specific instance.
+Земной проект есть конкретная операционная работа альянса на Земле — распределение семи команд-создателей, допотопные развития, различные последующие эпохи, нынешняя подготовка эпохи Водолея. Космическая Цепь есть более широкая космически-циклически-рекурсивная рамка, в пределах которой действует земной проект как один конкретный экземпляр.
 
-The relationship is one of **broader-cosmic-framework-and-specific-operational-instance**. The Cosmic Chain operates across all the cosmic creative cycles indefinitely; the Earth project is the alliance's specific work on this specific world during this specific cycle.
+Это отношение — отношение **более широкой космической рамки и конкретного операционного экземпляра**. Космическая Цепь действует через все космические творческие циклы неопределённо; земной проект есть конкретная работа альянса на этом конкретном мире в течение этого конкретного цикла.
 
-### The Cosmic Chain vs. the broader infinite cosmos
+### Космическая Цепь против более широкого бесконечного космоса
 
-The broader infinite cosmos is the larger cosmological structure within which the Cosmic Chain operates as one specific feature. The Cosmic Chain is the specific recursive-cyclical pattern of created-and-creating civilizations; the broader infinite cosmos contains this pattern along with many other features.
+Более широкий бесконечный космос есть большая космологическая структура, в пределах которой Космическая Цепь действует как одна конкретная черта. Космическая Цепь есть конкретный рекурсивно-циклический образец созданных-и-создающих цивилизаций; более широкий бесконечный космос содержит этот образец наряду со многими другими чертами.
 
-The relationship is one of **specific-feature-and-broader-cosmic-context**. The Cosmic Chain is one specific feature of the broader infinite cosmological structure rather than being identical with it. The infinite cosmos has temporal infinity, spatial infinity, infinite hierarchy of scales, and various other features that the Cosmic Chain does not exhaust.
+Это отношение — отношение **конкретной черты и более широкого космического контекста**. Космическая Цепь есть одна конкретная черта более широкой бесконечной космологической структуры, а не тождественна ей. Бесконечный космос имеет временну́ю бесконечность, пространственную бесконечность, бесконечную иерархию масштабов и различные другие черты, которые Космическая Цепь не исчерпывает.
 
-### The Cosmic Chain vs. theological "creation" doctrines
+### Космическая Цепь против богословских учений о «творении»
 
-The conventional Western theological "creation" doctrines posit a specific creator deity (God) who originates the cosmos through specific creative acts. The Cosmic Chain rejects the specific "first creator" presupposition while preserving the underlying insight that civilizations are created rather than autonomously originating.
+Конвенциональные западные богословские учения о «творении» постулируют конкретное божество-создателя (Бога), который зачинает космос через конкретные творческие акты. Космическая Цепь отвергает конкретную предпосылку «первого создателя», сохраняя при этом лежащее в основе прозрение, что цивилизации сотворены, а не возникают автономно.
 
-The relationship is one of **substantive-divergence-on-specific-content** with **structural-overlap-on-broader-creative-pattern**. The framework agrees with conventional creation doctrine that civilizations (and their constituent biological systems) are created rather than autonomously originating; the framework disagrees with conventional creation doctrine on the specific question of whether there is a first uncreated creator.
+Это отношение — отношение **содержательного расхождения по конкретному содержанию** при **структурном перекрытии по более широкому творческому образцу**. Рамка согласна с конвенциональным учением о творении в том, что цивилизации (и составляющие их биологические системы) сотворены, а не возникают автономно; рамка не согласна с конвенциональным учением о творении по конкретному вопросу о том, есть ли первый несотворённый создатель.
 
-## Modern reinterpretations
+## Современные переосмысления
 
-The Cosmic Chain framework's modern reinterpretive landscape comprises multiple distinct strands.
+Современный переосмысляющий ландшафт рамки Космической Цепи охватывает множество отдельных нитей.
 
-### Mainstream cosmology infinite-universe questions
+### Вопросы о бесконечной вселенной в основной космологии
 
-Mainstream cosmology has produced substantial work on the broader question of cosmic infinity. The principal positions:
+Основная космология произвела существенную работу над более широким вопросом о космической бесконечности. Главные позиции:
 
-**Giordano Bruno**'s *De l'infinito universo et mondi* (1584) developed the multiple-worlds and infinite-universe doctrine extensively. Bruno argued for an infinite universe containing infinite inhabited worlds, with the cosmos having no center and no boundary. Bruno's specific cosmological-theological doctrines led to his execution by the Roman Inquisition in 1600. Bruno is the principal early-modern philosophical antecedent of the contemporary infinite-universe discussion.
+*De l'infinito universo et mondi* (1584) **Джордано Бруно** обширно развил учение о множественности миров и бесконечной вселенной. Бруно доказывал существование бесконечной вселенной, содержащей бесконечные обитаемые миры, причём космос не имеет ни центра, ни границы. Конкретные космологически-богословские учения Бруно привели к его казни римской инквизицией в 1600 году. Бруно — главный раннемодерный философский предшественник современного обсуждения бесконечной вселенной.
 
-**Immanuel Kant** in the *Critique of Pure Reason* (1781) treated the question of cosmic infinity within the broader framework of the antinomies of pure reason. Kant argued that the question whether the universe is infinite or finite cannot be resolved by pure reason alone, with both answers leading to contradictions when developed systematically. Kant's specific treatment has substantial implications for how the question can be approached philosophically.
+**Иммануил Кант** в *Критике чистого разума* (1781) рассматривал вопрос о космической бесконечности в пределах более широкой рамки антиномий чистого разума.{{ cite(id="kant-critique-pure-reason", text="[10]", title="Кант, *Критика чистого разума* (1781) — антиномии о космической бесконечности") }} Кант доказывал, что вопрос о том, бесконечна вселенная или конечна, не может быть разрешён одним лишь чистым разумом, причём оба ответа ведут к противоречиям при систематическом развитии. Конкретная трактовка Канта имеет существенные следствия для того, как этот вопрос может быть подступен философски.
 
-**Contemporary multiverse cosmology** (Linde, Vilenkin, Tegmark, and others) develops substantial work on the broader question of cosmic infinity within contemporary scientific cosmology. The principal models include:
+**Современная мультивселенная космология** (Линде, Виленкин, Тегмарк и другие) развивает существенную работу над более широким вопросом о космической бесконечности в пределах современной научной космологии. Главные модели включают:
 
-- **Eternal inflation models** proposing that our observable universe is one specific region within a larger multiverse structure produced by ongoing inflationary expansion
-- **String theory landscape models** proposing that the various fundamental physical constants take different values in different regions of the broader multiverse
-- **Many-worlds quantum mechanics** proposing that the various possible quantum outcomes are realized in different branches of a broader multiverse
+- **Модели вечной инфляции**, предполагающие, что наша наблюдаемая вселенная есть одна конкретная область в пределах большей мультивселенной структуры, произведённой продолжающимся инфляционным расширением
+- **Модели ландшафта теории струн**, предполагающие, что различные фундаментальные физические константы принимают разные значения в разных областях более широкой мультивселенной
+- **Многомировая квантовая механика**, предполагающая, что различные возможные квантовые исходы реализуются в разных ветвях более широкой мультивселенной
 
-**Tegmark's mathematical universe hypothesis** (Max Tegmark, *Our Mathematical Universe*, 2014) develops a substantial multiverse framework in which all mathematically consistent universes exist as physically real structures. The framework provides one specific contemporary engagement with the broader infinite-universe question.
+**Гипотеза математической вселенной Тегмарка** (Макс Тегмарк, *Наша математическая вселенная*, 2014) развивает существенную мультивселенную рамку, в которой все математически непротиворечивые вселенные существуют как физически реальные структуры.{{ cite(id="tegmark-mathematical-universe", text="[11]", title="Тегмарк, *Наша математическая вселенная* (2014)") }}{{ cite(id="vilenkin-many-worlds-in-one", text="[12]", title="Виленкин, *Множество миров в одном* (2006)") }}{{ cite(id="linde-inflation-quantum-cosmology", text="[13]", title="Линде, *Инфляция и квантовая космология* (1990)") }} Рамка предоставляет одно конкретное современное обращение к более широкому вопросу о бесконечной вселенной.
 
-The framework's relationship to mainstream cosmology is one of broader-framework consistency (the Cosmic Chain does not contradict mainstream observational cosmology) while extending substantially beyond what mainstream cosmology directly engages (the specific civilizational-recursive content of the chain).
+Отношение рамки к основной космологии есть отношение более-широко-рамочной согласованности (Космическая Цепь не противоречит основной наблюдательной космологии) при существенном выходе за пределы того, к чему основная космология прямо обращается (конкретное цивилизационно-рекурсивное содержание цепи).
 
-### The steady-state vs. Big Bang debate
+### Спор стационарной модели против Большого взрыва
 
-Mainstream cosmological history includes the substantial 20th-century debate between the steady-state and Big Bang models. The principal positions:
+Основная космологическая история включает существенный спор XX века между стационарной моделью и моделью Большого взрыва. Главные позиции:
 
-**The steady-state model** (Hoyle, Bondi, Gold, developed in the 1940s-1950s) proposed that the universe has no specific origin, with new matter being continuously created to maintain constant cosmic density across the expansion. The model was elegant in addressing the question of cosmic origins (by denying that any specific origin is needed) and was a serious scientific competitor to the Big Bang model across the mid-20th century.
+**Стационарная модель** (Хойл, Бонди, Голд, развитая в 1940-х–1950-х годах) предположила, что вселенная не имеет конкретного происхождения, причём новая материя непрерывно создаётся для поддержания постоянной космической плотности по мере расширения. Модель была элегантна в обращении к вопросу о космических началах (отрицая, что какое-либо конкретное происхождение необходимо) и была серьёзным научным конкурентом модели Большого взрыва на протяжении середины XX века.
 
-**The Big Bang model** (Lemaître, Gamow, others, with substantial development across the 20th century) proposed that the universe originated from an extremely hot, dense state approximately 13.8 billion years ago. The model was eventually established as the principal contemporary cosmological framework through multiple lines of empirical evidence.
+**Модель Большого взрыва** (Леметр, Гамов и другие, с существенным развитием на протяжении XX века) предположила, что вселенная произошла из чрезвычайно горячего, плотного состояния приблизительно 13,8 миллиардов лет назад. Модель в конце концов была установлена как главная современная космологическая рамка через многие линии эмпирических свидетельств.
 
-**The 1965 cosmic microwave background detection** (Penzias and Wilson) provided the principal empirical evidence that established the Big Bang model over the steady-state alternative. The cosmic microwave background's specific characteristics matched the Big Bang predictions and could not be readily accommodated within the steady-state framework.
+**Обнаружение космического микроволнового фона в 1965 году** (Пензиас и Вильсон) предоставило главное эмпирическое свидетельство, установившее модель Большого взрыва над стационарной альтернативой. Конкретные характеристики космического микроволнового фона соответствовали предсказаниям Большого взрыва и не могли быть легко размещены в пределах стационарной рамки.
 
-**Cyclic alternatives to standard Big Bang** have continued to develop across subsequent decades. The Steinhardt-Turok ekpyrotic model proposes that the Big Bang was one event in an ongoing cyclic cosmology with successive cosmic cycles. Penrose's conformal cyclic cosmology proposes a different cyclic framework with substantial implications for how cosmic history should be understood.
+**Циклические альтернативы стандартному Большому взрыву** продолжали развиваться на протяжении последующих десятилетий. Экпиротическая модель Стейнхардта-Турока предполагает, что Большой взрыв был одним событием в продолжающейся циклической космологии со сменяющими друг друга космическими циклами. Конформная циклическая космология Пенроуза предлагает иную циклическую рамку с существенными следствиями для того, как следует понимать космическую историю.
 
-The framework's relationship to the steady-state vs. Big Bang debate is one of structural compatibility with cyclic alternatives. The Cosmic Chain framework's specific recursive-cyclical structure has substantial overlap with cyclic cosmologies generally, though the specific content (civilizational-recursive rather than purely physical-cyclical) differs from any specific contemporary cyclic cosmology.
+Отношение рамки к спору стационарной модели против Большого взрыва есть отношение структурной совместимости с циклическими альтернативами. Конкретная рекурсивно-циклическая структура рамки Космической Цепи имеет существенное перекрытие с циклическими космологиями в целом, хотя конкретное содержание (цивилизационно-рекурсивное, а не чисто физически-циклическое) отличается от любой конкретной современной циклической космологии.
 
-### Contemporary panspermia and directed-panspermia hypotheses
+### Современные гипотезы панспермии и направленной панспермии
 
-Panspermia research has produced substantial development across the past several decades. The principal developments:
+Исследования панспермии произвели существенное развитие на протяжении нескольких последних десятилетий. Главные развития:
 
-**Classical panspermia** (Arrhenius, "Worlds in the Making," 1908) proposed that microbial life could be transmitted across cosmic distances on dust particles, with Earth's life originating from such cosmic transmission.
+**Классическая панспермия** (Аррениус, «Образование миров», 1908) предположила, что микробная жизнь могла передаваться через космические расстояния на пылевых частицах, причём жизнь Земли произошла из такой космической передачи.
 
-**Crick and Orgel's "Directed Panspermia"** (Francis Crick and Leslie Orgel, *Icarus* 19, 1973: 341-346) developed a substantial scientific proposal that Earth's life was deliberately seeded by an extraterrestrial intelligent civilization. The hypothesis specifically addressed:
+**«Направленная панспермия» Крика и Оргела** (Фрэнсис Крик и Лесли Оргел, *Icarus* 19, 1973: 341–346) развила существенное научное предложение о том, что жизнь Земли была преднамеренно засеяна внеземной разумной цивилизацией. Гипотеза конкретно обращалась к:
 
-- **The universality of the genetic code**: All Earth life uses essentially the same genetic code, which is unexpected if life originated multiple times autochthonously
-- **The molybdenum problem**: All Earth life depends on molybdenum, which has limited terrestrial abundance — suggesting that life originated in an environment where molybdenum was more abundant
-- **The unusual structural features**: Various biochemical features of Earth life appear unusually well-suited to specific functional purposes, suggesting deliberate engineering rather than autochthonous emergence
+- **Универсальности генетического кода**: вся жизнь Земли использует по существу один и тот же генетический код, что неожиданно, если жизнь возникала многократно автохтонно
+- **Проблеме молибдена**: вся жизнь Земли зависит от молибдена, который имеет ограниченную земную распространённость, — это предполагает, что жизнь возникла в среде, где молибден был более обилен
+- **Необычным структурным чертам**: различные биохимические черты жизни Земли кажутся необычно хорошо приспособленными к конкретным функциональным целям, что предполагает преднамеренную инженерию, а не автохтонное появление
 
-The Crick-Orgel hypothesis was developed by serious scientists (Crick was the Nobel-laureate co-discoverer of DNA structure; Orgel was a principal scientist of early-Earth chemical biology) and represented a substantive scientific engagement with the broader question of life's origin on Earth.
+Гипотеза Крика-Оргела была разработана серьёзными учёными (Крик был нобелевским лауреатом, соавтором открытия структуры ДНК; Оргел был главным учёным в области химической биологии ранней Земли) и представляла собой содержательное научное обращение к более широкому вопросу о происхождении жизни на Земле.
 
-**Contemporary panspermia research** has continued to develop the broader question. Recent work includes:
+**Современные исследования панспермии** продолжали развивать более широкий вопрос. Недавняя работа включает:
 
-- Studies on the survivability of microbial life in space environments (with substantial findings that various microorganisms can survive cosmic radiation, vacuum, and temperature extremes for substantial periods)
-- Investigation of potential vectors for cosmic transmission (meteoric material, cometary material, deliberate transmission)
-- Analysis of the broader question of whether Earth's life is unique or part of a broader cosmic biological pattern
+- Исследования выживаемости микробной жизни в космических средах (с существенными находками о том, что различные микроорганизмы могут выживать при космической радиации, вакууме и температурных экстремумах на протяжении существенных периодов)
+- Исследование потенциальных переносчиков для космической передачи (метеорный материал, кометный материал, преднамеренная передача)
+- Анализ более широкого вопроса о том, уникальна ли жизнь Земли или является частью более широкого космического биологического образца
 
-The framework's relationship to contemporary panspermia research, particularly to the Crick-Orgel directed-panspermia hypothesis, is one of substantial structural alignment. Both frameworks read Earth's life as having been deliberately produced by extraterrestrial intelligent civilization rather than emerging autochthonously. The Cosmic Chain framework extends the directed-panspermia framework substantially through the recursive-cyclical content (the Elohim themselves having been created by a prior civilization, with the chain extending indefinitely backward).
+Отношение рамки к современным исследованиям панспермии, в особенности к гипотезе направленной панспермии Крика-Оргела, есть отношение существенного структурного согласования. Обе рамки читают жизнь Земли как преднамеренно произведённую внеземной разумной цивилизацией, а не возникшую автохтонно. Рамка Космической Цепи существенно расширяет рамку направленной панспермии через рекурсивно-циклическое содержание (сами Элохим были созданы предшествующей цивилизацией, причём цепь простирается неопределённо назад).
 
-### Sendy on cosmic recursion
+### Санди о космической рекурсии
 
-**Jean Sendy** developed substantial engagement with cosmic-recursion questions in his broader corpus. Sendy's specific contributions include:
+**Жан Санди** развил существенное обращение к вопросам космической рекурсии в своём более широком корпусе. Конкретные вклады Санди включают:
 
-- The treatment of the Hebrew Bible's various references to multiple cosmic powers as preserving fragmentary memory of the broader cosmic context
-- The recognition that the Hebrew tradition's broader cosmological framework is consistent with substantial cosmic-recursive content
-- The integration of cosmic-recursive readings with the broader alliance-mediated history Sendy reconstructed
+- Трактовку различных отсылок Еврейской Библии к множеству космических сил как сохраняющих фрагментарную память о более широком космическом контексте
+- Признание того, что более широкая космологическая рамка еврейской традиции согласна с существенным космически-рекурсивным содержанием
+- Интеграцию космически-рекурсивных прочтений с более широкой опосредованной альянсом историей, которую реконструировал Санди
 
-Sendy's specific Cosmic Chain development is more limited than the framework's contemporary articulation. The framework's specific recursive-cyclical content goes substantially beyond what Sendy directly developed, though the broader methodological framework Sendy provides is structurally compatible with the Cosmic Chain framework.
+Конкретное развитие Космической Цепи у Санди более ограничено, чем современная артикуляция рамки. Конкретное рекурсивно-циклическое содержание рамки существенно выходит за пределы того, что прямо развил Санди, хотя более широкая методологическая рамка, которую предоставляет Санди, структурно совместима с рамкой Космической Цепи.
 
-### Biglino on cosmic recursion
+### Биглино о космической рекурсии
 
-**Mauro Biglino**'s strict-translational engagement with the Hebrew Bible has produced limited specific engagement with the Cosmic Chain framework. Biglino's broader treatment of the Hebrew Bible's various references to multiple cosmic powers and to the broader cosmic-political situation is structurally compatible with the Cosmic Chain framework, but Biglino does not develop the specific recursive-cyclical content explicitly.
+Строго-переводческое обращение **Мауро Биглино** к Еврейской Библии произвело ограниченное конкретное обращение к рамке Космической Цепи. Более широкая трактовка Биглино различных отсылок Еврейской Библии к множеству космических сил и к более широкой космически-политической ситуации структурно совместима с рамкой Космической Цепи, но Биглино не развивает конкретное рекурсивно-циклическое содержание явно.
 
-### Wallis on cosmic recursion
+### Уоллис о космической рекурсии
 
-**Paul Anthony Wallis**'s broader engagement with the alliance-mediated history includes some treatment of cosmic-recursive questions, principally within the broader context of the various ancient texts' references to cosmic-political pluralism and the broader alliance-mediated cosmic structure. Wallis's specific Cosmic Chain development is more limited than the framework's contemporary articulation, though his broader methodological framework is structurally compatible with the Cosmic Chain framework.
+Более широкое обращение **Пола Энтони Уоллиса** к опосредованной альянсом истории включает некоторую трактовку вопросов космической рекурсии, главным образом в пределах более широкого контекста отсылок различных древних текстов к космически-политическому плюрализму и к более широкой опосредованной альянсом космической структуре. Конкретное развитие Космической Цепи у Уоллиса более ограничено, чем современная артикуляция рамки, хотя его более широкая методологическая рамка структурно совместима с рамкой Космической Цепи.
 
-### The broader ancient-astronaut tradition
+### Более широкая традиция теории древних астронавтов
 
-The broader ancient-astronaut interpretive tradition includes various engagements with cosmic-recursive questions:
+Более широкая истолковательная традиция теории древних астронавтов включает различные обращения к вопросам космической рекурсии:
 
-- **Erich von Däniken** in *Chariots of the Gods* (1968) and successor works treats the broader cosmic-political situation as involving advanced extraterrestrial civilizations, with various implications for the broader cosmological framework
-- **Zecharia Sitchin** in *The 12th Planet* (1976) and successor works develops a substantially different reading focused on the Anunnaki-Nibiru cosmology, with limited specific engagement with the Cosmic Chain framework
-- **Various contemporary ancient-astronaut writers** develop further engagements with cosmic-recursive questions within their distinctive frameworks
+- **Эрих фон Дэникен** в *Колесницах богов* (1968) и последующих трудах трактует более широкую космически-политическую ситуацию как включающую продвинутые внеземные цивилизации, с различными следствиями для более широкой космологической рамки
+- **Захария Ситчин** в *Двенадцатой планете* (1976) и последующих трудах развивает существенно иное прочтение, сосредоточенное на космологии Аннунаков-Нибиру, с ограниченным конкретным обращением к рамке Космической Цепи
+- **Различные современные авторы теории древних астронавтов** развивают дальнейшие обращения к вопросам космической рекурсии в пределах своих отличительных рамок
 
-The corpus's Cosmic Chain framework is structurally distinctive within the broader ancient-astronaut tradition through the specific recursive-cyclical content and the integration with the broader Wheel of Heaven framework's specific operational-historical content.
+Рамка Космической Цепи корпуса структурно отличительна в пределах более широкой традиции теории древних астронавтов через конкретное рекурсивно-циклическое содержание и интеграцию с конкретным операционно-историческим содержанием более широкой рамки Wheel of Heaven.
 
-### The framework's relationship to the broader landscape
+### Отношение рамки к более широкому ландшафту
 
-The corpus's Cosmic Chain framework is positioned within this landscape as follows: structurally consistent with mainstream cosmology at the empirical-observational level, even where the framework's specific claims go beyond what mainstream investigation has confirmed; structurally aligned with the Crick-Orgel directed-panspermia hypothesis on the deliberate-creation-of-Earth-life question, while extending substantially beyond panspermia through the recursive-cyclical content; structurally compatible with contemporary cyclic cosmologies (Steinhardt-Turok, Penrose) at the cosmological-cyclical level, while differing on the specific civilizational content; substantively distinct from mainstream Western theological tradition on the "first creator" question; structurally aligned with various Eastern cyclic-cosmology traditions (treated in *Comparative observations* below); structurally distinctive within the broader ancient-astronaut tradition through the specific recursive-cyclical content.
+Рамка Космической Цепи корпуса позиционирована в этом ландшафте следующим образом: структурно согласна с основной космологией на эмпирически-наблюдательном уровне, даже там, где конкретные утверждения рамки выходят за пределы того, что подтвердило основное исследование; структурно согласована с гипотезой направленной панспермии Крика-Оргела по вопросу о преднамеренном-творении-жизни-Земли, при существенном выходе за пределы панспермии через рекурсивно-циклическое содержание; структурно совместима с современными циклическими космологиями (Стейнхардт-Турок, Пенроуз) на космологически-циклическом уровне, при различии по конкретному цивилизационному содержанию; содержательно отлична от основной западной богословской традиции по вопросу о «первом создателе»; структурно согласована с различными восточными традициями циклической космологии (рассматриваемыми в разделе *Сравнительные наблюдения* ниже); структурно отличительна в пределах более широкой традиции теории древних астронавтов через конкретное рекурсивно-циклическое содержание.
 
-## Comparative observations
+## Сравнительные наблюдения
 
-Cyclical-cosmological frameworks appear across multiple cultural-religious traditions worldwide, with substantial structural parallels to the framework's Cosmic Chain reading. The corpus reads this cross-cultural pattern as evidence of broader operational realities preserved in fragmentary form across the various traditions.
+Циклически-космологические рамки появляются во множестве культурно-религиозных традиций по всему миру, с существенными структурными параллелями прочтению Космической Цепи рамкой. Корпус читает этот межкультурный образец как свидетельство более широких операционных реальностей, сохранённых в фрагментарной форме в различных традициях.
 
-### Hindu cyclic cosmology: kalpa-yuga
+### Индуистская циклическая космология: кальпа-юга
 
-The Hindu tradition preserves the most extensively developed cyclic cosmology in the world's religious traditions. The principal features:
+Индуистская традиция сохраняет наиболее обширно развитую циклическую космологию в религиозных традициях мира. Главные черты:
 
-**The yuga cycles**. The four yugas — Krita (Satya), Treta, Dvapara, Kali — comprise the standard Hindu cosmic developmental cycle. The yugas have specific durations: Krita Yuga lasts 1,728,000 years; Treta Yuga lasts 1,296,000 years; Dvapara Yuga lasts 864,000 years; Kali Yuga lasts 432,000 years. The four yugas together comprise the **Mahayuga** of 4,320,000 years.
+**Циклы юг**. Четыре юги — Крита (Сатья), Трета, Двапара, Кали — составляют стандартный индуистский космический цикл развития. Юги имеют конкретные длительности: Крита-юга длится 1 728 000 лет; Трета-юга длится 1 296 000 лет; Двапара-юга длится 864 000 лет; Кали-юга длится 432 000 лет. Четыре юги вместе составляют **Махаюгу** в 4 320 000 лет.
 
-**The kalpa cycles**. The Mahayuga of 4,320,000 years is one unit; 1,000 mahayugas comprise one **Kalpa** of approximately 4.32 billion years. The Kalpa is described as one "day of Brahma," with each Kalpa being followed by an equally long "night of Brahma" during which the cosmos is dissolved.
+**Циклы кальп**. Махаюга в 4 320 000 лет есть одна единица; 1000 махаюг составляют одну **Кальпу** приблизительно в 4,32 миллиарда лет. Кальпа описывается как один «день Брахмы», причём за каждой Кальпой следует равно долгая «ночь Брахмы», в течение которой космос растворяется.
 
-**The infinite cosmic cycles**. The Hindu tradition treats the cosmos as undergoing infinite successive Kalpa cycles, with each Kalpa producing creation, development, dissolution, and re-creation. The infinite-recursive character of the Hindu cyclic cosmology is structurally similar to the Cosmic Chain framework's specific recursive content.
+**Бесконечные космические циклы**. Индуистская традиция трактует космос как претерпевающий бесконечные сменяющие друг друга циклы Кальп, причём каждая Кальпа производит творение, развитие, растворение и пере-творение. Бесконечно-рекурсивный характер индуистской циклической космологии структурно подобен конкретному рекурсивному содержанию рамки Космической Цепи.
 
-**The Brahma-multiplicity tradition**. Various Hindu texts treat the broader cosmos as comprising multiple Brahma-systems, with each Brahma operating within its specific cosmic system across the cosmic cycles. The multiple-Brahma framework provides substantial parallel content for the multiple-creator-civilization framework of the Cosmic Chain.
+**Традиция множественности Брахм**. Различные индуистские тексты трактуют более широкий космос как охватывающий множество систем-Брахм, причём каждый Брахма действует в своей конкретной космической системе сквозь космические циклы. Рамка множества Брахм предоставляет существенное параллельное содержание для рамки множества цивилизаций-создателей Космической Цепи.
 
-The framework reads the Hindu cyclic cosmology as preserving fragmentary memory of the broader cosmic-recursive structure within the distinctive Hindu cultural-religious framing. The specific Hindu elaborations (the yuga durations, the kalpa cosmology, the multiple Brahmas) reflect the tradition's distinctive theological content while preserving the underlying recursive-cyclical pattern.
+Рамка читает индуистскую циклическую космологию как сохраняющую фрагментарную память о более широкой космически-рекурсивной структуре в пределах отличительного индуистского культурно-религиозного обрамления.{{ cite(id="bhagavad-gita", text="[18]", title="*Бхагавадгита* (пер. Исварана) — рамка космического цикла") }}{{ cite(id="doniger-hindu-myths", text="[19]", title="Донигер, *Индуистские мифы: хрестоматия* (1975)") }} Конкретные индуистские разработки (длительности юг, космология кальп, множественные Брахмы) отражают отличительное богословское содержание традиции, сохраняя при этом лежащий в основе рекурсивно-циклический образец.
 
-### Buddhist beginningless cycles
+### Буддийские безначальные циклы
 
-The Buddhist tradition preserves substantial cosmological material on beginningless cycles (*anavarāgra*, "without beginning"). The principal features:
+Буддийская традиция сохраняет существенный космологический материал о безначальных циклах (*anavarāgra*, «без начала»). Главные черты:
 
-**The beginningless saṃsāra**. The Buddhist tradition treats *saṃsāra* (the cycle of existence) as **beginningless** — not as having no beginning in absolute time but as having no findable first moment. The Pali phrase *anamatagga* ("without findable beginning") captures the specific framework: the question "when did saṃsāra begin?" is treated as not having a determinable answer, with the cycle extending indefinitely backward.
+**Безначальная сансара**. Буддийская традиция трактует *сансару* (цикл существования) как **безначальную** — не как не имеющую начала в абсолютном времени, а как не имеющую находимого первого мгновения. Палийская фраза *anamatagga* («без находимого начала») схватывает конкретную рамку: вопрос «когда началась сансара?» трактуется как не имеющий определимого ответа, причём цикл простирается неопределённо назад.
 
-**The cosmic ages**. Buddhist cosmology develops elaborate cosmic-temporal frameworks with various age-cycles operating across cosmic time. The principal frameworks include the *kalpa* cycles (with substantial structural parallels to Hindu kalpa cosmology), the various age-cycles within each kalpa, and the broader cosmic-temporal frameworks within which buddha-figures appear.
+**Космические эпохи**. Буддийская космология развивает разработанные космически-временны́е рамки с различными эпохо-циклами, действующими сквозь космическое время. Главные рамки включают циклы *кальп* (с существенными структурными параллелями индуистской космологии кальп), различные эпохо-циклы в пределах каждой кальпы и более широкие космически-временны́е рамки, в пределах которых появляются фигуры будд.
 
-**The multiple buddhas across cosmic time**. Buddhist tradition treats Śākyamuni Buddha as the most recent of a long series of buddhas across cosmic time, with various previous buddhas being identified across the cosmic-historical record and Maitreya being the next future buddha. The succession of buddhas across cosmic time provides substantial parallel content for the Cosmic Chain's recursive-cyclical structure.
+**Множество будд сквозь космическое время**. Буддийская традиция трактует Будду Шакьямуни как наиболее недавнего из долгой череды будд сквозь космическое время, причём различные предыдущие будды отождествлены сквозь космически-исторический отчёт, а Майтрея есть следующий будущий будда. Череда будд сквозь космическое время предоставляет существенное параллельное содержание для рекурсивно-циклической структуры Космической Цепи.
 
-**The Mahāyāna multiple buddha-fields**. The Mahāyāna tradition preserves substantial multiple-worlds material (treated more fully in the [Cosmic Competition](../cosmic-competition/) entry). The buddha-field framework provides parallel content for the Cosmic Chain's recursive-cyclical structure.
+**Махаянские множественные поля будд**. Махаянская традиция сохраняет существенный материал о множественности миров (рассматриваемый более полно в статье [Космическое Состязание](../cosmic-competition/)). Рамка полей будд предоставляет параллельное содержание для рекурсивно-циклической структуры Космической Цепи.
 
-The framework reads the Buddhist beginningless-cycle tradition as preserving substantial parallel content to the Cosmic Chain framework. The Buddhist tradition's specific "without findable beginning" framing is structurally identical with the Cosmic Chain's "no first creator" position.
+Рамка читает буддийскую традицию безначального цикла как сохраняющую существенное параллельное содержание рамке Космической Цепи.{{ cite(id="williams-mahayana-buddhism", text="[20]", title="Уильямс, *Махаянский буддизм* (2008) — безначальная сансара и космология полей будд") }}{{ cite(id="buswell-lopez-princeton-buddhism", text="[21]", title="Басуэлл и Лопес, *Принстонский словарь буддизма* (2014)") }} Конкретное буддийское обрамление «без находимого начала» структурно тождественно позиции «нет первого создателя» Космической Цепи.
 
-### Jain anadi cosmology
+### Джайнская космология анади
 
-The Jain tradition preserves a substantial **anadi** ("without beginning") cosmology with specific features warranting treatment:
+Джайнская традиция сохраняет существенную космологию **анади** («без начала») с конкретными чертами, заслуживающими рассмотрения:
 
-**The eternal universe**. Jain cosmology treats the universe as eternal and uncreated, with no specific beginning event and no specific ending event. The universe undergoes cyclic developmental phases but does not have any ultimate origin or termination.
+**Вечная вселенная**. Джайнская космология трактует вселенную как вечную и несотворённую, без конкретного события начала и без конкретного события конца. Вселенная претерпевает циклические фазы развития, но не имеет какого-либо конечного происхождения или прекращения.
 
-**The cosmic time-cycle (kalachakra)**. Jain tradition develops a specific cosmic time-cycle (the *kalachakra*, "wheel of time") that includes alternating ascending and descending half-cycles, each comprising six developmental ages. The full cycle takes substantial cosmic time, with the cycles continuing indefinitely.
+**Космический временно́й цикл (калачакра)**. Джайнская традиция развивает конкретный космический временно́й цикл (*калачакра*, «колесо времени»), который включает чередующиеся восходящие и нисходящие полуциклы, каждый из которых охватывает шесть эпох развития. Полный цикл занимает существенное космическое время, причём циклы продолжаются неопределённо.
 
-**The plurality of souls**. Jain cosmology treats the cosmos as containing infinite souls (*jīva*) operating across the cosmic time-cycle, with each soul undergoing its own developmental trajectory across the cycles.
+**Множественность душ**. Джайнская космология трактует космос как содержащий бесконечные души (*джива*), действующие сквозь космический временно́й цикл, причём каждая душа претерпевает свою собственную траекторию развития сквозь циклы.
 
-**The structural similarity to the Cosmic Chain**. The Jain *anadi* framework has substantial structural similarity to the Cosmic Chain framework's "no first creator" position. Both frameworks reject the conventional Western theological presupposition that the cosmos has an ultimate origin; both develop substantial alternative cosmological content within the eternal-universe framework.
+**Структурное подобие Космической Цепи**. Джайнская рамка *анади* имеет существенное структурное подобие позиции «нет первого создателя» рамки Космической Цепи. Обе рамки отвергают конвенциональную западную богословскую предпосылку, что космос имеет конечное происхождение; обе развивают существенное альтернативное космологическое содержание в пределах рамки вечной вселенной.
 
-The framework reads the Jain *anadi* tradition as preserving substantial parallel content to the Cosmic Chain framework's specific eternal-cosmos position.
+Рамка читает джайнскую традицию *анади* как сохраняющую существенное параллельное содержание конкретной позиции о вечном космосе рамки Космической Цепи.{{ cite(id="dundas-the-jains", text="[22]", title="Дандас, *Джайны* (2002) — космология безначальных-и-бесконечных временны́х циклов анади") }}
 
-### Stoic eternal recurrence
+### Стоическое вечное возвращение
 
-The Greek-Roman Stoic tradition preserves substantial cyclic-cosmological material in the **eternal recurrence** doctrine. The principal features:
+Греко-римская стоическая традиция сохраняет существенный циклически-космологический материал в учении о **вечном возвращении**. Главные черты:
 
-**The cosmic cycle**. The Stoic tradition (developed by Chrysippus and other Stoic philosophers) proposed that the cosmos undergoes successive cycles of conflagration (*ekpyrosis*) and renewal (*palingenesis*), with each cycle reproducing the prior cycle in identical form.
+**Космический цикл**. Стоическая традиция (развитая Хрисиппом и другими философами-стоиками) предположила, что космос претерпевает сменяющие друг друга циклы воспламенения (*ekpyrosis*) и обновления (*palingenesis*), причём каждый цикл воспроизводит предшествующий цикл в тождественной форме.
 
-**The structural identity across cycles**. The Stoic tradition specifically treated the successive cycles as structurally identical — the same events occurring in the same sequence in each cycle, with the same individuals living the same lives in each iteration. The framework's specific content differs from the Cosmic Chain framework (which treats the cycles as structurally identical but with substantively different specific contents), but the broader recursive-cyclical pattern is structurally aligned.
+**Структурная тождественность через циклы**. Стоическая традиция конкретно трактовала сменяющие друг друга циклы как структурно тождественные — одни и те же события происходят в одной и той же последовательности в каждом цикле, причём одни и те же индивиды проживают одни и те же жизни в каждой итерации. Конкретное содержание рамки отличается от рамки Космической Цепи (которая трактует циклы как структурно тождественные, но с содержательно различными конкретными содержаниями), но более широкий рекурсивно-циклический образец структурно согласован.
 
-**The cosmic conflagration**. The Stoic *ekpyrosis* doctrine treats the periodic cosmic destruction as a cosmic-fire event that consumes the entire cosmos before the renewal phase begins. The specific destruction-and-renewal structure provides substantial parallel content for the broader cyclic-cosmology framework.
+**Космическое воспламенение**. Стоическое учение об *ekpyrosis* трактует периодическое космическое разрушение как событие космического огня, которое поглощает весь космос прежде, чем начинается фаза обновления. Конкретная структура разрушения-и-обновления предоставляет существенное параллельное содержание для более широкой циклической космологической рамки.
 
-The framework reads the Stoic eternal-recurrence tradition as preserving substantial parallel content to the broader cyclic-cosmology framework, with the specific Stoic framing reflecting the tradition's distinctive philosophical content.
+Рамка читает стоическую традицию вечного возвращения как сохраняющую существенное параллельное содержание более широкой циклической космологической рамке, причём конкретное стоическое обрамление отражает отличительное философское содержание традиции.
 
-### Hermetic "as above, so below"
+### Герметическое «как вверху, так и внизу»
 
-The Hermetic tradition preserves the principle of cosmic correspondence in the famous phrase **"as above, so below"** (the *Tabula Smaragdina* or Emerald Tablet's specific phrasing). The principal features:
+Герметическая традиция сохраняет принцип космического соответствия в знаменитой фразе **«как вверху, так и внизу»** (конкретная формулировка *Tabula Smaragdina*, или Изумрудной скрижали). Главные черты:
 
-**The cosmic-correspondence principle**. The Hermetic tradition treats the cosmic structure as operating through specific correspondences between the various levels of being — the macrocosm corresponding to the microcosm, the celestial corresponding to the terrestrial, the divine corresponding to the human. The specific correspondences are the principal content of the Hermetic philosophical-theological framework.
+**Принцип космического соответствия**. Герметическая традиция трактует космическую структуру как действующую через конкретные соответствия между различными уровнями бытия — макрокосм соответствует микрокосму, небесное соответствует земному, божественное соответствует человеческому. Конкретные соответствия суть главное содержание герметической философско-богословской рамки.
 
-**The Tabula Smaragdina**. The principal text preserving the "as above, so below" phrase is the *Tabula Smaragdina* (Emerald Tablet), traditionally attributed to Hermes Trismegistus. The text is preserved in various medieval Latin and Arabic versions, with the specific phrase "as above, so below" being the most influential single statement of the Hermetic correspondence principle.
+**Tabula Smaragdina**. Главный текст, сохраняющий фразу «как вверху, так и внизу», — это *Tabula Smaragdina* (Изумрудная скрижаль), традиционно приписываемая Гермесу Трисмегисту. Текст сохранён в различных средневековых латинских и арабских версиях, причём конкретная фраза «как вверху, так и внизу» есть наиболее влиятельное единичное высказывание герметического принципа соответствия.
 
-**The Renaissance Hermetic tradition**. The Hermetic principle was substantially developed across the Renaissance Hermetic tradition (Ficino, Pico della Mirandola, Bruno, Dee, and others), with substantial implications for the broader Renaissance intellectual development.
+**Ренессансная герметическая традиция**. Герметический принцип был существенно развит на протяжении ренессансной герметической традиции (Фичино, Пико делла Мирандола, Бруно, Ди и другие), с существенными следствиями для более широкого ренессансного интеллектуального развития.
 
-**The structural similarity to the Cosmic Chain**. The Hermetic correspondence principle has substantial structural similarity to the Cosmic Chain framework's recursive-cyclical content. The framework preserves the specific insight that the cosmic structure is recursive — what occurs at one level of the creative hierarchy is repeated at the level it produces — without adopting the broader Hermetic theological-cosmological apparatus.
+**Структурное подобие Космической Цепи**. Герметический принцип соответствия имеет существенное структурное подобие рекурсивно-циклическому содержанию рамки Космической Цепи. Рамка сохраняет конкретное прозрение, что космическая структура рекурсивна — то, что происходит на одном уровне творческой иерархии, повторяется на уровне, который он производит, — не перенимая более широкий герметический богословско-космологический аппарат.
 
-The Lord's Prayer's central petition — "thy will be done in earth, as it is in heaven" — preserves the same cosmic-correspondence insight in specifically Christian-tradition form. The framework reads both the Hermetic principle and the Lord's Prayer petition as preserving fragmentary memory of the same underlying recursive-cyclical structure.
+Центральное прошение молитвы «Отче наш» — «да будет воля Твоя и на земле, как на небе» — сохраняет то же прозрение о космическом соответствии в специфически христианско-традиционной форме. Рамка читает и герметический принцип, и прошение молитвы «Отче наш» как сохраняющие фрагментарную память об одной и той же лежащей в основе рекурсивно-циклической структуре.
 
-### Mesoamerican cyclic cosmologies
+### Мезоамериканские циклические космологии
 
-The Mesoamerican traditions preserve substantial cyclic-cosmological material with distinctive cultural-religious framings.
+Мезоамериканские традиции сохраняют существенный циклически-космологический материал с отличительными культурно-религиозными обрамлениями.
 
-**The Aztec five-suns cosmology**. The Aztec tradition preserves the doctrine of five successive cosmic ages (the **five suns**), each ending in catastrophic destruction. The principal sources are the *Codex Chimalpopoca* (with the *Leyenda de los Soles* preserving the most complete Aztec cosmogonic account) and various other Aztec sources. The five suns are: the Jaguar Sun (ended by jaguar attacks), the Wind Sun (ended by hurricanes), the Rain Sun (ended by fiery rain), the Water Sun (ended by flood), and the present Movement Sun (projected to end in earthquakes).
+**Ацтекская космология пяти солнц**. Ацтекская традиция сохраняет учение о пяти сменяющих друг друга космических эпохах (**пять солнц**), каждая из которых оканчивается катастрофическим разрушением. Главные источники — *Codex Chimalpopoca* (где *Leyenda de los Soles* сохраняет наиболее полный ацтекский космогонический отчёт) и различные другие ацтекские источники. Пять солнц суть: Солнце Ягуара (окончилось нападениями ягуаров), Солнце Ветра (окончилось ураганами), Солнце Дождя (окончилось огненным дождём), Солнце Воды (окончилось потопом) и нынешнее Солнце Движения (которому предречено окончиться землетрясениями).
 
-**The Maya Long Count cosmology**. The Maya Long Count calendar preserves substantial cyclic-temporal content, with the principal cycles including the 360-day *tun*, the 7,200-day *katun*, the 144,000-day *baktun*, and the broader Long Count cycles. The Maya cosmology integrates the cyclic-temporal framework with substantial cosmological-religious content.
+**Космология майяского Долгого счёта**. Календарь Долгого счёта майя сохраняет существенное циклически-временно́е содержание, причём главные циклы включают 360-дневный *тун*, 7200-дневный *катун*, 144 000-дневный *бактун* и более широкие циклы Долгого счёта. Космология майя интегрирует циклически-временну́ю рамку с существенным космологически-религиозным содержанием.
 
-**The cosmic-cycles broader pattern**. Various Mesoamerican traditions preserve cyclic-cosmological material with specific cultural-religious framings. The detailed treatment of specific Mesoamerican cosmologies lives in the [Antediluvian](../antediluvian/) and [Great Flood](../great-flood/) entries' comparative observations.
+**Более широкий образец космических циклов**. Различные мезоамериканские традиции сохраняют циклически-космологический материал с конкретными культурно-религиозными обрамлениями. Подробная трактовка конкретных мезоамериканских космологий содержится в сравнительных наблюдениях статей [Допотопный мир](../antediluvian/) и [Великий потоп](../great-flood/).
 
-The framework reads the Mesoamerican cyclic-cosmologies as preserving substantial parallel content to the broader cyclic-cosmology framework.
+Рамка читает мезоамериканские циклические космологии как сохраняющие существенное параллельное содержание более широкой циклической космологической рамке.{{ cite(id="carrasco-religions-mesoamerica", text="[23]", title="Карраско, *Религии Мезоамерики* — космология пяти солнц и сменяющихся миров") }}{{ cite(id="tedlock-popol-vuh", text="[24]", title="Тедлок (пер.), *Пополь-Вух* (1996)") }}
 
-### Norse cyclic cosmology
+### Скандинавская циклическая космология
 
-The Norse tradition preserves substantial cyclic-cosmological material in the **Ragnarök-and-renewal** framework. The principal features:
+Скандинавская традиция сохраняет существенный циклически-космологический материал в рамке **Рагнарёк-и-обновление**. Главные черты:
 
-**Ragnarök**. The Norse tradition preserves the prophecy of Ragnarök — the specific cosmic catastrophe in which the principal Aesir gods die in battle with their cosmic adversaries (Loki, the Fenrir wolf, the Midgard serpent, the giants, others). The Ragnarök narrative is preserved principally in the *Poetic Edda*'s *Völuspá* and Snorri Sturluson's *Prose Edda*'s *Gylfaginning*.
+**Рагнарёк**. Скандинавская традиция сохраняет пророчество о Рагнарёке — конкретной космической катастрофе, в которой главные боги-асы погибают в битве со своими космическими противниками (Локи, волк Фенрир, мировой змей, великаны и другие). Повествование о Рагнарёке сохранено главным образом в *Прорицании вёльвы* (*Völuspá*) *Старшей Эдды* и в *Видении Гюльви* (*Gylfaginning*) *Младшей Эдды* Снорри Стурлусона.{{ cite(id="poetic-edda", text="[25]", title="*Старшая Эдда* (пер. Ларрингтон) — Völuspá о Рагнарёке и обновлении") }}{{ cite(id="lindow-norse-mythology", text="[26]", title="Линдоу, *Скандинавская мифология* (2001)") }}
 
-**The post-Ragnarök renewal**. After Ragnarök, the Norse tradition preserves substantial material on the post-catastrophic renewal: a new earth emerges from the sea, with various surviving deities (Vidar, Vali, Modi, Magni) and various surviving humans (Líf and Lífþrasir, who survived in the Hoddmímis holt) repopulating the renewed cosmos.
+**Пост-Рагнарёк обновление**. После Рагнарёка скандинавская традиция сохраняет существенный материал о посткатастрофическом обновлении: новая земля поднимается из моря, причём различные уцелевшие божества (Видар, Вали, Моди, Магни) и различные уцелевшие люди (Лив и Ливтрасир, которые выжили в роще Ходдмимир) вновь населяют обновлённый космос.
 
-**The cyclic implications**. The Norse Ragnarök-and-renewal framework has substantial cyclic-cosmological implications, with various scholarly readings treating the broader Norse cosmology as cyclic rather than linear-eschatological.
+**Циклические следствия**. Скандинавская рамка Рагнарёк-и-обновление имеет существенные циклически-космологические следствия, причём различные научные прочтения трактуют более широкую скандинавскую космологию как циклическую, а не линейно-эсхатологическую.
 
-The framework reads the Norse cyclic-cosmology tradition as preserving substantial parallel content to the broader cyclic-cosmology framework, with the specific Norse framing reflecting the tradition's distinctive cultural content.
+Рамка читает скандинавскую традицию циклической космологии как сохраняющую существенное параллельное содержание более широкой циклической космологической рамке, причём конкретное скандинавское обрамление отражает отличительное культурное содержание традиции.
 
-### The convergence
+### Конвергенция
 
-The corpus's working position on the comparative-cyclic-cosmology question is that the global recurrence of cyclic-cosmological frameworks across cultural-religious traditions is meaningful as evidence of a genuine underlying reality. The mainstream scholarly explanation — which generally treats the various cyclic cosmologies as developing through internal religious-philosophical processes combined with cultural diffusion — is read by the corpus as substantially insufficient to account for the breadth and the specific structural parallels (the recursive-cyclical pattern, the eternal-recurrence implications, the multiple-cosmic-cycles content) that appear consistently across geographically and chronologically separated traditions.
+Рабочая позиция корпуса по вопросу о сравнительной циклической космологии состоит в том, что глобальная повторяемость циклически-космологических рамок в культурно-религиозных традициях значима как свидетельство подлинной лежащей в основе реальности.{{ footnote(id="6") }}{{ cite(id="hannah-greek-roman-calendars", text="[27]", title="Ханна, *Греческие и римские календари* (2005) — классическое циклическое время и Великий Год") }} Основное научное объяснение, которое в целом трактует различные циклические космологии как развивающиеся через внутренние религиозно-философские процессы в сочетании с культурной диффузией, читается корпусом как существенно недостаточное для того, чтобы объяснить широту и конкретные структурные параллели (рекурсивно-циклический образец, следствия вечного возвращения, содержание о множественных космических циклах), которые последовательно появляются в географически и хронологически разделённых традициях.
 
-The framework's specific reading is that the global cyclic-cosmology pattern preserves common memory of the broader cosmic situation that the Cosmic Chain framework articulates, with each cultural-religious tradition preserving the memory in its own terms and with its own specific details reflecting its own perspective and its own subsequent transmission history. The Hindu and Buddhist traditions preserve the memory most directly relative to the framework's specific cyclic-recursive content; the Jain *anadi* tradition preserves the specific "no first creator" position; the Stoic tradition preserves the eternal-recurrence content within the Western philosophical context; the Hermetic tradition preserves the cosmic-correspondence principle; the Mesoamerican and Norse traditions preserve cyclic-cosmological material within their respective cultural channels.
+Конкретное прочтение рамки состоит в том, что глобальный образец циклической космологии сохраняет общую память о более широкой космической ситуации, которую артикулирует рамка Космической Цепи, причём каждая культурно-религиозная традиция сохраняет память в своих собственных терминах и со своими собственными конкретными деталями, отражающими её собственную перспективу и её собственную последующую историю передачи. Индуистская и буддийская традиции сохраняют память наиболее прямо относительно конкретного циклически-рекурсивного содержания рамки; джайнская традиция *анади* сохраняет конкретную позицию «нет первого создателя»; стоическая традиция сохраняет содержание о вечном возвращении в пределах западного философского контекста; герметическая традиция сохраняет принцип космического соответствия; мезоамериканская и скандинавская традиции сохраняют циклически-космологический материал в пределах своих соответствующих культурных каналов.
 
-The corpus does not require rejecting all of the mainstream scholarly framework. Cultural diffusion certainly occurred across the historical period, and the cyclic-cosmologies across cultures show both common structural features (preserving the original framework) and culturally specific elaborations (reflecting the diffusion and local development). What the corpus's framework adds is the underlying historical-cosmic situation that gave rise to the structural commonalities — a situation that the mainstream framework, lacking the corpus's broader cosmological framework, has had no way to identify and has therefore had to attribute to combinations of independent religious-philosophical development and cultural diffusion.
-
-## See also
-
-- [Cosmic Competition](../cosmic-competition/)
-- [Doubled Signature](../doubled-signature/)
-- [Embassy](../embassy/)
-- [Apocalypse](../apocalypse/)
-- [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Yahweh](../yahweh/)
-- [Jesus](../jesus/)
-- [Raël](../rael/)
-- [Prophet](../prophet/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Genesis](../genesis/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Atomic Threshold](../atomic-threshold/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*. The "Neither God nor Soul" section is the principal source for the framework's specific Cosmic Chain content.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-Bruno, Giordano. *De l'infinito universo et mondi* (1584). English: *On the Infinite Universe and Worlds*. Trans. Dorothea Waley Singer. In *Giordano Bruno: His Life and Thought*. Henry Schuman, 1950.
-
-Yates, Frances A. *Giordano Bruno and the Hermetic Tradition*. University of Chicago Press, 1964.
-
-Kant, Immanuel. *Critique of Pure Reason* (1781). Trans. Norman Kemp Smith. St. Martin's, 1929.
-
-Hawking, Stephen, and Roger Penrose. *The Nature of Space and Time*. Princeton University Press, 1996.
-
-Linde, Andrei. *Inflation and Quantum Cosmology*. Academic Press, 1990.
-
-Tegmark, Max. *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality*. Knopf, 2014.
-
-Vilenkin, Alexander. *Many Worlds in One: The Search for Other Universes*. Hill and Wang, 2006.
-
-Steinhardt, Paul J., and Neil Turok. *Endless Universe: Beyond the Big Bang*. Doubleday, 2007.
-
-Penrose, Roger. *Cycles of Time: An Extraordinary New View of the Universe*. Knopf, 2011.
-
-Hoyle, Fred. "A New Model for the Expanding Universe." *Monthly Notices of the Royal Astronomical Society* 108 (1948): 372–382.
-
-Penzias, Arno, and Robert Wilson. "A Measurement of Excess Antenna Temperature at 4080 Mc/s." *Astrophysical Journal* 142 (1965): 419–421.
-
-Crick, Francis, and Leslie Orgel. "Directed Panspermia." *Icarus* 19, no. 3 (1973): 341–346.
-
-Crick, Francis. *Life Itself: Its Origin and Nature*. Simon and Schuster, 1981.
-
-Arrhenius, Svante. *Worlds in the Making: The Evolution of the Universe*. Trans. H. Borns. Harper, 1908.
-
-Hoyle, Fred, and Chandra Wickramasinghe. *Lifecloud: The Origin of Life in the Universe*. Harper and Row, 1978.
-
-Nietzsche, Friedrich. *Thus Spoke Zarathustra* (1883–1885). Trans. Walter Kaufmann. In *The Portable Nietzsche*. Viking, 1954.
-
-Nietzsche, Friedrich. *The Will to Power* (posthumous, 1901). Trans. Walter Kaufmann and R. J. Hollingdale. Vintage, 1968.
-
-Long, A. A., and D. N. Sedley. *The Hellenistic Philosophers*. 2 vols. Cambridge University Press, 1987.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-*The Bhagavad Gita*. Trans. Eknath Easwaran. Nilgiri Press, 2007.
-
-Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. Routledge, 2nd ed., 2008.
-
-Buswell, Robert E., Jr., and Donald S. Lopez Jr. *The Princeton Dictionary of Buddhism*. Princeton University Press, 2014.
-
-Dundas, Paul. *The Jains*. Routledge, 2nd ed., 2002.
-
-Jaini, Padmanabh S. *The Jaina Path of Purification*. University of California Press, 1979.
-
-Hannah, Robert. *Greek and Roman Calendars: Constructions of Time in the Classical World*. Duckworth, 2005.
-
-*The Emerald Tablet of Hermes Trismegistus*. Various editions; principal English-language treatments in: Faivre, Antoine. *The Eternal Hermes*. Phanes Press, 1995.
-
-Tedlock, Dennis, trans. *Popol Vuh: The Mayan Book of the Dawn of Life*. Touchstone, 1996.
-
-Carrasco, Davíd. *Religions of Mesoamerica*. Waveland Press, 2nd ed., 2014.
-
-León-Portilla, Miguel. *Aztec Thought and Culture: A Study of the Ancient Nahuatl Mind*. University of Oklahoma Press, 1963.
-
-*The Poetic Edda*. Trans. Carolyne Larrington. Oxford University Press, rev. ed., 2014.
-
-Sturluson, Snorri. *The Prose Edda*. Trans. Jesse L. Byock. Penguin Classics, 2005.
-
-Lindow, John. *Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs*. Oxford University Press, 2001.
-
-von Däniken, Erich. *Chariots of the Gods?* Trans. Michael Heron. Putnam, 1968.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-"Multiverse." *Encyclopaedia Britannica*. <https://www.britannica.com/science/multiverse>
-
-"Big Bang model." *Encyclopaedia Britannica*. <https://www.britannica.com/science/big-bang-model>
-
-"Cyclic cosmology." *Wikipedia*. <https://en.wikipedia.org/wiki/Cyclic_model>
-
-"Panspermia." *Encyclopaedia Britannica*. <https://www.britannica.com/science/panspermia>
-
-"Eternal recurrence." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/eternal-return>
+Корпус не требует отвержения всей основной научной рамки. Культурная диффузия определённо происходила на протяжении исторического периода, и циклические космологии в культурах показывают как общие структурные черты (сохраняющие исходную рамку), так и культурно-специфические разработки (отражающие диффузию и местное развитие). Что добавляет рамка корпуса — так это лежащую в основе историко-космическую ситуацию, породившую структурные общности, — ситуацию, которую основная рамка, лишённая более широкой космологической рамки корпуса, не имела способа отождествить и которую поэтому ей пришлось приписать сочетаниям независимого религиозно-философского развития и культурной диффузии.
