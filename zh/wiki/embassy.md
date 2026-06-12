@@ -1,606 +1,597 @@
 +++
 title = "大使馆"
-description = "大使馆在雷尔运动的计划中是用以正式接待厄罗欣公开返回地球的官方建筑。Wheel of Heaven 文集将其作为人类所准备的返回情景的中枢基础设施加以提及。"
+slug = "embassy"
+description = "大使馆是指定的实体建筑，坐落于由东道国授予治外法权地位的特定土地上，为接待耶洛因联盟的正式到来而准备，并作为该联盟与人类代表之间会面的运作场所——这些会面将由其到来开启。大使馆的规格在1973年的接触中给出，并在随后的通讯中加以详述。原始来源明确表示强烈偏好以色列耶路撒冷附近，并将大使馆认定为犹太启示传统中的第三圣殿；1997年12月13日的讯息在以色列屡次拒绝后授权迁往其他国家。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the embassy", "the Third Temple", "the embassy of the Elohim", "the residence", "the alliance embassy"]
+claim_type = "framework"
+alternative_names = ["大使馆", "第三圣殿", "耶洛因的大使馆", "驻地", "联盟大使馆"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "天启", path = "wiki/apocalypse", description = "水瓶座时代的揭示，大使馆所投射的继承事件即发生于其中。" },
+    { title = "第三圣殿", path = "wiki/third-temple", description = "来源将大使馆与之相认同的犹太先知—启示圣殿。" },
+    { title = "新耶路撒冷", path = "wiki/new-jerusalem", description = "本框架就大使馆所投射角色而解读的《启示录》异象。" },
+    { title = "宇宙链", path = "wiki/cosmic-chain", description = "大使馆的继承事件作为其中一个特定阶段所处的更广阔宇宙论框架。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "大使馆为接待其正式到来而建造的联盟。" },
+    { title = "雷尔", path = "wiki/rael", description = "受命组织大使馆计划的先知（克劳德·沃里隆）。" },
+]
+
+footnotes = [
+    { content = "大使馆是本文集框架中最有来源依据的要素。与宇宙竞争、双重签名以及宇宙链不同——这些都涉及超出来源之外的大量文集诠释性建构——大使馆详尽的建筑规格、选址偏好、运作要求及其所投射的角色，皆直接来自雷尔派来源材料（《述说真相之书》，1974年，「新诫命——你的使命」）。本文集的诠释性贡献，主要在于将大使馆材料与更广阔的水瓶座时代框架加以整合。" },
+    { content = "异乎寻常的是，大使馆是本文集框架中少数在近期内可在运作上加以检验的要素之一：该建筑在雷尔运动所投射的2027–2030年时间表内的实际建造（或未建造），将就来源材料的预测性内容提供直接的经验证据，这是框架中大多数其他要素所不允许的方式。本文集将该计划的时间表与当前阶段记录为当下的事实，但并不将具体日期认可为已确定——实际进展取决于外交谈判与东道国的政治条件。" },
+    { content = "来源将大使馆与犹太先知—启示传统的第三圣殿相认同，这是明确的。大使馆继承所罗门的第一圣殿（约公元前950年建造，公元前586年被毁）与第二圣殿（约公元前516年建造，由希律扩建，公元70年被毁），框架将二者各自解读为在联盟运作时期充当其临在的实体场所。主流犹太神学—历史传统并不接受雷尔派将大使馆与第三圣殿相认同的说法；本文集将此认同记录为来源的明确主张，而非主流认可的解读。本文集将《以西结书》47:1–2（自圣殿门槛流出的水）解读为大使馆所投射角色的预表。" },
+    { content = "原始来源偏好将大使馆设于以色列耶路撒冷附近——联盟最初伊甸运作及随后延展的伊甸谱系计划的地理所在。自1991年起以色列在多次正式请求中屡次拒绝授予治外法权地位后，1997年12月13日来自耶和华的讯息正式授权雷尔运动向「地球上一切国家」寻求该地位，仅为以色列保留最后一项选择。本文集将选址问题视为有来源依据但在实践中尚未确定。" },
+    { content = "本文集将当代UAP披露论述（2017年《纽约时报》关于AATIP的揭露；路易斯·埃利桑多的《迫近》；大卫·格鲁什2023年的国会作证；阿维·勒布的伽利略计划与「奥陌陌」论点；索尔基金会）作为大使馆所投射的公开接触将会发生于其中的当下文化语境——但并不声称UAP现象即是耶洛因联盟，也不声称披露运动认可大使馆。本文集将这一轨迹解读为公开外星接触可信条件的转变，而非框架的确证。" },
+    { content = "本文集将归来者形象期待的跨文化反复出现（犹太弥赛亚与第三圣殿、基督教的再临、伊斯兰教的马赫迪、印度教的迦尔吉化身、琐罗亚斯德教的苏什扬特、阿兹特克的羽蛇神归来）解读为一种聚合，框架将其解读为对联盟所投射归来的片段记忆与期待。本文集并不声称这些传统一律是直接的记忆；它将这种聚合记录为与框架相符，同时保留各传统不同的神学内容。" },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "「新诫命——你的使命」"
+note = "雷尔派的根基来源——详尽的大使馆建筑规格、第三圣殿认同，以及联盟公开归来的条件。"
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "沃里隆的第二部著作（1975年）——1975年10月7日岩坪第二次接触对大使馆规格的详述及雷尔的组织角色。"
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "桑迪对《希伯来圣经》圣殿与先知材料保存联盟接触内容的解读。"
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "比格里诺对《以西结书》圣殿异象材料的严格直译式解读。"
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "沃利斯对先知归来材料底层的联盟接触框架的论述。"
+
+[[extra.references]]
+id = "vienna-convention-diplomatic-relations"
+note = "大使馆选址必须具备的外交使团与治外法权地位的主要当代法律框架。"
+
+[[extra.references]]
+id = "lateran-treaty"
+note = "确立梵蒂冈城的1929年条约——宗教实体持有主权治外法权领土的最接近法律先例。"
+
+[[extra.references]]
+id = "maimonides-mishneh-torah"
+note = "犹太律法关于弥赛亚时代与重建圣殿的经典立场（《诸王律法》11:1）。"
+
+[[extra.references]]
+id = "halperin-faces-of-the-chariot"
+note = "哈尔佩林对以西结圣殿与战车异象接受史的研究——第三圣殿背后的《以西结书》40–48章材料。"
+
+[[extra.references]]
+id = "goldberg-fight-for-jerusalem"
+note = "关于当代争夺耶路撒冷与圣殿山的政治—历史语境，与大使馆原始选址偏好相关。"
+
+[[extra.references]]
+id = "wright-resurrection-son-of-god"
+note = "赖特对早期基督教复活信仰与再临期待的标准论述。"
+
+[[extra.references]]
+id = "sandt-zangenberg-matthew-james-didache"
+note = "先知归来材料的犹太—基督教环境的学术语境。"
+
+[[extra.references]]
+id = "sachedina-islamic-messianism"
+note = "对十二伊玛目派什叶派马赫迪期待的标准论述。"
+
+[[extra.references]]
+id = "cook-muslim-apocalyptic"
+note = "对穆斯林启示与末世传统的标准论述。"
+
+[[extra.references]]
+id = "doniger-the-hindus"
+note = "多尼格的综览，含迦尔吉未来化身的期待。"
+
+[[extra.references]]
+id = "boyce-zoroastrians"
+note = "博伊斯论琐罗亚斯德教的苏什扬特未来救主与世界更新（frashokereti）教义。"
+
+[[extra.references]]
+id = "carrasco-quetzalcoatl"
+note = "卡拉斯科论阿兹特克传统中羽蛇神的归来预言。"
+
+[[extra.references]]
+id = "elizondo-imminent"
+note = "由五角大楼AATIP前负责人埃利桑多撰写的记述——当代UAP披露运动的一部主要文本。"
+
+[[extra.references]]
+id = "grusch-congressional-testimony"
+note = "格鲁什2023年的国会宣誓作证——当代UAP披露论述的一个分水岭。"
+
+[[extra.references]]
+id = "loeb-extraterrestrial"
+note = "勒布关于「奥陌陌」可能曾是外星科技的论点——接触问题的当代科学语境。"
+
+[[extra.references]]
+id = "loeb-interstellar"
+note = "勒布对搜寻人造物论点的延伸及伽利略计划的观测项目。"
 
 [extra.infobox]
-type = "Designated physical structure for the formal arrival of the Elohim alliance"
-basic_specifications = "≈4 km² site (1 km radius); conference room for 21; dining room for 21; seven guest rooms with separate bathrooms; swimming pool; landing platform for 12-m spacecraft; protective wall (max 2 stories); residence ≥1,000 m from the wall"
-legal_requirement = "Extraterritorial status granted by host country"
-preferred_original_location = "Israel near Jerusalem (per 1973-1974 source material)"
-current_authorization = "All nations of Earth (per the December 13, 1997 message from Yahweh)"
-identification_with_third_temple = "Yes; the source explicitly identifies the embassy as the Third Temple of Jewish apocalyptic tradition"
-prophetic_imagery = "Ezekiel 47:1-2; Acts 15:16; Isaiah 2:2-4; Micah 4:1-3"
-current_state_2026 = "2024 Memorandum of Collaboration with undisclosed national government; site acquisition phase 2025-2027; planning and construction 2027-2030"
-project_responsibility = "International Raëlian Movement; Daniel Turcotte as Raëlian guide responsible for the embassy project"
-distinguished_from = "The Solomonic First Temple; the Second Temple; the broader Apocalypse event; the Cosmic Competition framework"
-status_in_source_material = "Substantially source-grounded; detailed architectural specifications come directly from Raëlian source material"
-principal_text = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), 'The New Commandments — Your Mission'; *Extra-Terrestrials Took Me to Their Planet* (1975); the December 13, 1997 message"
+type = "为接待耶洛因联盟正式到来而指定的实体建筑"
+basic_specifications = "约4平方公里场地（半径1公里）；可容21人的会议室；可容21人的餐厅；七间各带独立浴室的客房；游泳池；可供12米飞船降落的平台；保护墙（最高2层）；驻地距墙≥1,000米"
+legal_requirement = "由东道国授予治外法权地位"
+preferred_original_location = "以色列耶路撒冷附近（依据1973–1974年来源材料）"
+current_authorization = "地球上一切国家（依据1997年12月13日来自耶和华的讯息）"
+identification_with_third_temple = "是；来源明确将大使馆认定为犹太启示传统的第三圣殿"
+prophetic_imagery = "以西结书47:1-2；使徒行传15:16；以赛亚书2:2-4；弥迦书4:1-3"
+current_state_2026 = "2024年与未披露的国家政府签署《协作备忘录》；2025–2027年场地取得阶段；2027–2030年规划与建造"
+project_responsibility = "国际雷尔运动；丹尼尔·蒂尔科特担任负责大使馆计划的雷尔派向导"
+distinguished_from = "所罗门的第一圣殿；第二圣殿；更广阔的天启事件；宇宙竞争框架"
+status_in_source_material = "实质上有来源依据；详尽的建筑规格直接来自雷尔派来源材料"
+principal_text = "《述说真相之书》（沃里隆／雷尔，1974年），「新诫命——你的使命」；《外星人带我去他们的星球》（1975年）；1997年12月13日的讯息"
 +++
 
-The **Embassy** is the designated physical structure, located on a specific piece of land granted extraterritorial status by a host country, prepared to receive the formal arrival of the Elohim alliance and to serve as the operational location for the meetings between the alliance and humanity's representatives that the arrival will inaugurate. The embassy is the most operationally specific element of the broader Aquarian-age program the alliance has proposed for humanity, with detailed architectural specifications given in the 1973 contact between Yahweh and Raël (Claude Vorilhon) at the Roc Plat crater of Clermont-Ferrand and elaborated in subsequent source-material communications. The embassy occupies a distinctive position within the corpus's broader framework: it is the **physical-operational center** at which the projected Aquarian-age inheritance event will occur — the specific site where the accumulated knowledge of the alliance will be transmitted to humanity following the alliance's open return, and the location from which the Aquarian-age transformation will operate across the subsequent centuries.
+**大使馆**是指定的实体建筑，坐落于由东道国授予治外法权地位的特定土地上，为接待耶洛因联盟的正式到来而准备，并作为该联盟与人类代表之间会面的运作场所——这些会面将由其到来开启。大使馆是联盟向人类提出的更广阔水瓶座时代计划中在运作上最为具体的要素，其详尽的建筑规格在1973年耶和华与雷尔（克劳德·沃里隆）于克莱蒙费朗岩坪火山口的接触中给出，并在随后的来源材料通讯中加以详述。大使馆在本文集更广阔的框架中占据独特地位：它是**实体—运作中枢**，水瓶座时代所投射的继承事件将在此发生——即在联盟公开归来之后，联盟所积累的知识将传授给人类的特定场所，也是水瓶座时代的转变在随后数个世纪运作的所在。
 
-The embassy specifications include the broader site requirements (approximately 4 km² with at minimum a 1 km radius, with extraterritorial status granted by the host country, with air space above and around the residence not under direct military or radar surveillance), the residential complex specifications (a residence with maximum two stories situated at minimum 1,000 m from the surrounding park wall, with two entrances, with the residence further screened by an inner barrier of trees and bushes), the operational facilities (a conference room able to accommodate 21 people, a dining room able to seat 21 people, seven guest rooms each with separate bathroom, a swimming pool, a landing platform on the residence's roof terrace capable of receiving a 12-meter-diameter alliance craft), and the security features (a thick metal door separating the seven-room area under the terrace from the section used by humans, an aseptic chamber at the entrance to the conference room, walls preventing exterior viewing of the residence and swimming pool). The specifications reflect the practical requirements of a structure that must accommodate visitors of two different species (humans and Elohim, biologically similar but with distinct biochemistries requiring aseptic-chamber separation) and that must facilitate both ceremonial-formal events (the inheritance event itself) and continuing operational use (the millennia of subsequent alliance-humanity meetings the source projects).
+大使馆的规格包括更广阔的场地要求（约4平方公里，至少半径1公里，由东道国授予治外法权地位，驻地上空及周围不受直接军事或雷达监视），居住建筑群的规格（最高两层的驻地，距周围园墙至少1,000米，设两个出入口，并进一步由内层树木灌丛屏障遮蔽），运作设施（可容21人的会议室、可坐21人的餐厅、七间各带独立浴室的客房、游泳池、设于驻地屋顶平台、可接收直径12米联盟飞船的降落平台），以及安保设施（将平台下七间房区域与人类所用区段隔开的厚金属门、会议室入口处的无菌室、防止从外部窥视驻地与游泳池的墙体）。这些规格反映了一座建筑的实际要求：它须容纳两个不同物种的访客（人类与耶洛因，生物学上相似但生化机制不同，须以无菌室加以隔离），并须便于举行典礼性正式活动（继承事件本身）与持续的运作使用（来源所投射的随后数千年联盟与人类的会面）。
 
-The embassy's identification with the Jewish prophetic-apocalyptic tradition's **Third Temple** is theologically substantial. The source explicitly identifies the embassy as the Third Temple succeeding the Solomonic First Temple (built c. 950 BCE, destroyed by the Babylonians in 586 BCE) and the Second Temple (built c. 516 BCE, expanded by Herod, destroyed by the Romans in 70 CE), each of which had served as the physical location for the alliance's presence during its period of operation. The source's original preference was for the embassy to be located in Israel near Jerusalem — the geographic site of the alliance's original Eden operation and of the extended Eden-lineage human project across the subsequent millennia. The connection to **Ezekiel 47:1-2** (the prophetic vision of waters issuing from the threshold of the temple) is read by the framework as the direct prefiguration of the embassy's projected operational role: the temple as the source from which the Aquarian-age waters of understanding flow outward, transforming the world they reach. The Israeli government has not granted the requested extraterritorial status across multiple formal requests from 1991 onward, and the December 13, 1997 message from Yahweh formally authorized the Raëlian movement to seek extraterritorial status from "all nations on Earth," with Israel retaining only a final option to grant authorization before the embassy is built elsewhere.
+大使馆与犹太先知—启示传统中**第三圣殿**的认同在神学上意义重大。来源明确将大使馆认定为继承所罗门第一圣殿（约公元前950年建造，公元前586年被巴比伦人所毁）与第二圣殿（约公元前516年建造，由希律扩建，公元70年被罗马人所毁）的第三圣殿，二者各自曾在联盟运作时期充当其临在的实体场所。来源原本偏好将大使馆设于以色列耶路撒冷附近——联盟最初伊甸运作及随后数千年延展的伊甸谱系人类计划的地理所在。与**以西结书47:1-2**（自圣殿门槛流出之水的先知异象）的关联，被框架解读为大使馆所投射运作角色的直接预表：圣殿作为水瓶座时代理解之水向外流淌的源头，转化它所抵达的世界。{{ footnote(id="3") }}以色列政府在自1991年起的多次正式请求中未授予所请求的治外法权地位，1997年12月13日来自耶和华的讯息正式授权雷尔运动向「地球上一切国家」寻求治外法权地位，仅为以色列保留在大使馆于他处建成之前授予许可的最后一项选择。{{ footnote(id="4") }}
 
-As of 2026, the embassy project is at the most advanced stage in its half-century history. The Raëlian movement has conducted systematic diplomatic engagement with potential host countries across the past three decades, with the 2015 UN Optional Protocol Concerning Embassies for Extraterrestrials, the 2021 Alliance for Extraterrestrial Diplomatic Contact, the 2022 presentations to mayors of fifty cities globally, and most significantly the 2024 Memorandum of Collaboration signed with an undisclosed national government. The Raëlian movement's published timeline divides the coming years into specific phases: the 2022-2025 site location analysis phase, the 2025-2027 site acquisition phase, the 2027-2030 planning and construction phase, and post-2030 caretaker mode awaiting the alliance's arrival. The corpus registers this timeline without endorsing its specific dates as confirmed — the project's actual progress will depend on the success of the diplomatic negotiations and the specific political conditions in the host country — but registers the project's existence and current stage as facts of the present.
+截至2026年，大使馆计划正处于其半个世纪历史中最先进的阶段。雷尔运动在过去三十年间对潜在东道国进行了系统性的外交接触，包括2015年向联合国提交的《关于外星人大使馆的任择议定书》、2021年成立的外星外交接触联盟、2022年向全球五十个城市市长所作的陈述，以及最为重要的、2024年与一个未披露的国家政府签署的《协作备忘录》。雷尔运动公布的时间表将未来数年划分为若干特定阶段：2022–2025年的选址分析阶段、2025–2027年的场地取得阶段、2027–2030年的规划与建造阶段，以及2030年后等待联盟到来的看护模式。本文集记录这一时间表，但并不将其具体日期认可为已确定——该计划的实际进展将取决于外交谈判的成功与东道国的具体政治条件——但将该计划的存在与当前阶段记录为当下的事实。
 
-The embassy is **substantially source-grounded** within the corpus's broader analytical apparatus. Unlike the Cosmic Competition framework, the Doubled Signature principle, and the Cosmic Chain framework — all of which involve substantial corpus interpretive construction extending beyond direct source-material content — the embassy's detailed specifications, location preferences, operational requirements, and projected role come directly from the Raëlian source material. The corpus's interpretive contribution is principally the integration of the embassy material with the broader Aquarian-age framework. Within the broader interpretive landscape, the embassy occupies an unusual position: it is one of the few elements of the corpus's framework that is **operationally testable in the near term** — the embassy's actual construction (or non-construction) within the projected timeline will provide direct empirical evidence regarding the source-material's predictive content, in a way that most other elements of the framework do not permit.
+在本文集更广阔的分析框架内，大使馆**实质上有来源依据**。{{ footnote(id="1") }}与宇宙竞争框架、双重签名原则以及宇宙链框架不同——这些都涉及超出直接来源材料内容之外的大量文集诠释性建构——大使馆详尽的规格、选址偏好、运作要求及其所投射的角色，皆直接来自雷尔派来源材料。本文集的诠释性贡献，主要在于将大使馆材料与更广阔的水瓶座时代框架加以整合。在更广阔的诠释图景中，大使馆占据一个不寻常的位置：它是本文集框架中少数**在近期内可在运作上加以检验**的要素之一——大使馆在所投射时间表内的实际建造（或未建造）将就来源材料的预测性内容提供直接的经验证据，这是框架中大多数其他要素所不允许的方式。{{ footnote(id="2") }}
 
-## Etymology and naming
+## 词源与命名
 
-The embassy concept has several distinct designations across the source material and the corpus's broader treatment.
+大使馆这一概念在来源材料及本文集更广阔的论述中有若干不同的称谓。
 
-### "Embassy" as the principal designation
+### 「大使馆」作为主要称谓
 
-The English term **"Embassy"** is the principal designation in both the source material and the corpus, drawing on the diplomatic vocabulary of the modern international system: an embassy is the formal diplomatic representation of one polity to another, with specific operational features (extraterritorial status, formal protocols, designated facilities) distinguishing embassies from other forms of cross-polity contact.
+英文术语**「Embassy」（大使馆）**在来源材料与本文集中都是主要称谓，取自现代国际体系的外交词汇：大使馆是一个政体对另一政体的正式外交代表，具有特定的运作特征（治外法权地位、正式礼仪、指定设施），将大使馆与其他形式的跨政体接触区分开来。
 
-### Source-material variations
+### 来源材料中的变体
 
-The source material uses several distinct phrasings:
+来源材料使用了若干不同的措辞：
 
-- **"The residence"** — the source material's most common term in the original 1973-1974 specifications, referring specifically to the building complex within the broader site
-- **"The embassy of the Elohim"** — the formal designation used in subsequent source-material communications
-- **"Our embassy"** — the source's specific phrasing in the December 13, 1997 message
-- **"The Third Temple"** — the source's identification of the embassy with the Jewish prophetic-apocalyptic tradition's expected third temple
+- **「驻地」**——来源材料在1973–1974年原始规格中最常用的术语，特指更广阔场地内的建筑群
+- **「耶洛因的大使馆」**——随后来源材料通讯中所用的正式称谓
+- **「我们的大使馆」**——来源在1997年12月13日讯息中的特定措辞
+- **「第三圣殿」**——来源将大使馆与犹太先知—启示传统所期待的第三圣殿相认同
 
-### Related conceptual terminology
+### 相关概念术语
 
-Several related terms operate within the framework:
+框架中运作着若干相关术语：
 
-- **"Extraterritorial status"** — the legal exemption from host country jurisdiction the embassy site must possess
-- **"The Great Return"** — the source's specific phrasing for the alliance's projected formal arrival
-- **"The Inheritance event"** — the corpus's term for the formal transmission of accumulated alliance knowledge at the embassy
-- **"The replica embassy"** — the public-facing model of the embassy that the source specifies will be constructed near the functional embassy
+- **「治外法权地位」**——大使馆选址必须具备的、免于东道国管辖的法律豁免
+- **「大归来」**——来源对联盟所投射正式到来的特定措辞
+- **「继承事件」**——本文集对在大使馆正式传授联盟所积累知识的术语
+- **「复制大使馆」**——来源所规定将于功能性大使馆附近建造的、面向公众的大使馆模型
 
-## Conventional understanding
+## 常规理解
 
-The embassy concept as a specific operational project is largely a Raëlian-movement initiative, with broader scholarly and theological treatment being principally engagement with the related Jewish Third Temple traditions and Christian Parousia traditions rather than with the embassy project specifically.
+大使馆这一概念作为一项具体的运作计划，在很大程度上是雷尔运动的倡议，更广阔的学术与神学论述主要是对相关的犹太第三圣殿传统及基督教再临传统的论述，而非对大使馆计划本身。
 
-### Mainstream Jewish theological-historical treatment
+### 主流犹太神学—历史论述
 
-Mainstream Jewish theological-historical treatment of the Third Temple tradition has produced substantial scholarship across the past several centuries.
+主流犹太神学—历史对第三圣殿传统的论述，在过去数个世纪间产生了大量学术成果。
 
-**The First Temple (Solomonic)** was built by Solomon c. 950 BCE on the Temple Mount in Jerusalem, with detailed specifications preserved in 1 Kings 6-8 and 2 Chronicles 2-7. It served as the principal cultic center of the Israelite religion until its destruction by the Babylonians under Nebuchadnezzar II in 586 BCE.
+**第一圣殿（所罗门）**由所罗门约于公元前950年建于耶路撒冷的圣殿山上，其详尽规格保存于《列王纪上》6-8章与《历代志下》2-7章。它作为以色列宗教的主要崇拜中心，直至公元前586年被尼布甲尼撒二世治下的巴比伦人所毁。
 
-**The Second Temple** was built following the Babylonian Exile, with construction beginning approximately 538 BCE and substantial completion by 516 BCE. Herod the Great substantially expanded the temple beginning approximately 20 BCE, producing the "Herodian Temple" that was the principal religious-political center of Second Temple Judaism. The temple was destroyed by the Romans under Titus in 70 CE during the Jewish Revolt.
+**第二圣殿**于巴比伦之囚后建造，建设约始于公元前538年，至公元前516年大致竣工。希律大帝约自公元前20年起大幅扩建该殿，造就了「希律圣殿」，它是第二圣殿时期犹太教的主要宗教—政治中心。该殿在犹太起义期间于公元70年被提多治下的罗马人所毁。
 
-**The Third Temple in Jewish prophetic tradition**. Jewish prophetic-apocalyptic tradition has long anticipated a Third Temple that will be built in the messianic age, with substantial textual material across the prophetic books (particularly Ezekiel 40-48, with the elaborate "Ezekiel's Temple" specifications) and the broader rabbinic-apocalyptic tradition.
+**犹太先知传统中的第三圣殿**。犹太先知—启示传统长久以来期待一座将于弥赛亚时代建造的第三圣殿，先知书中（尤其是《以西结书》40-48章，含详尽的「以西结圣殿」规格）{{ cite(id="halperin-faces-of-the-chariot", text="[1]", title="哈尔佩林，《战车之面》（1988年）——以西结圣殿异象的接受史") }}及更广阔的拉比—启示传统中有大量文本材料。{{ cite(id="maimonides-mishneh-torah", text="[2]", title="迈蒙尼德，《密释纳托拉，诸王律法》11:1——弥赛亚时代的圣殿") }}
 
-**Contemporary mainstream Jewish positions on Third Temple construction** range from the explicit Temple Movement (which advocates for active preparation toward Third Temple construction), through traditional positions (which generally treat Third Temple construction as something that will occur in the messianic age but not through ordinary human initiative), to secular-Israeli positions (which generally regard Third Temple construction as politically destabilizing and not a current Israeli political priority).
+**当代主流犹太对第三圣殿建造的立场**，范围从明确的圣殿运动（主张积极筹备第三圣殿的建造），经传统立场（一般将第三圣殿建造视为将于弥赛亚时代发生、但非经由寻常人类倡议之事），到世俗以色列立场（一般认为第三圣殿建造会造成政治动荡，并非当前以色列的政治优先事项）。
 
-The mainstream Jewish treatment generally does not engage the Raëlian embassy project directly. The Raëlian movement's identification of the embassy with the Third Temple is broadly not accepted within mainstream Jewish theological-historical scholarship.
+主流犹太论述一般不直接论及雷尔派的大使馆计划。雷尔运动将大使馆与第三圣殿相认同的说法，在主流犹太神学—历史学术中大体上不被接受。
 
-### Mainstream Christian theological treatment
+### 主流基督教神学论述
 
-Mainstream Christian theological treatment of the Parousia (the projected Second Coming) and related apocalyptic traditions has produced substantial scholarship across the past two millennia. The mainstream Christian treatment generally does not engage the Raëlian embassy project directly. The Raëlian framework's specific identification of the alliance's projected return with the Christian Parousia tradition is broadly not accepted within mainstream Christian theological-historical scholarship.
+主流基督教神学对再临（所投射的第二次降临）及相关启示传统的论述，在过去两千年间产生了大量学术成果。主流基督教论述一般不直接论及雷尔派的大使馆计划。雷尔派框架将联盟所投射的归来与基督教再临传统相认同的具体说法，在主流基督教神学—历史学术中大体上不被接受。
 
-### Mainstream international-diplomatic treatment
+### 主流国际外交论述
 
-The broader question of extraterritorial-status arrangements for diplomatic missions has substantial development in international law.
+外交使团治外法权地位安排这一更广阔的问题，在国际法中有大量发展。
 
-**The Vienna Convention on Diplomatic Relations** (signed 1961, entered into force 1964) provides the principal contemporary framework for diplomatic missions and extraterritorial status, establishing standard diplomatic-mission protocols, immunities and privileges of diplomatic personnel, and the broader operational framework within which embassies between states operate.
+**《维也纳外交关系公约》**（1961年签署，1964年生效）为外交使团与治外法权地位提供了主要的当代框架，确立了标准的外交使团礼仪、外交人员的豁免与特权，以及国家间大使馆运作的更广阔运作框架。{{ cite(id="vienna-convention-diplomatic-relations", text="[3]", title="《维也纳外交关系公约》（1961年）") }}
 
-**Vatican City** is the principal contemporary example of a sovereign extraterritorial entity, occupying approximately 0.49 km² within Rome and serving as the spiritual and administrative center of the Roman Catholic Church. The Vatican City State was established by the Lateran Treaty of 1929, granting the Holy See full sovereignty over the territory.
+**梵蒂冈城**是主权治外法权实体的主要当代范例，在罗马城内占地约0.49平方公里，作为罗马天主教会的精神与行政中心。梵蒂冈城国由1929年的《拉特兰条约》确立，授予教廷对该领土的完全主权。{{ cite(id="lateran-treaty", text="[4]", title="《拉特兰条约》（1929年）——确立梵蒂冈城国") }}
 
-**Sovereign Military Order of Malta** is another distinctive international-legal entity, recognized as a sovereign subject of international law without controlling specific territory in the conventional sense, with extraterritorial properties in Rome and various international diplomatic relationships.
+**马耳他主权军事团**是另一个独特的国际法律实体，被承认为国际法的主权主体，却不以常规意义控制特定领土，在罗马拥有治外法权财产及各种国际外交关系。
 
-**The broader question of extraterritorial status for non-state entities** has substantial complexity in contemporary international law. The Raëlian movement's request for extraterritorial status for the embassy site involves a non-conventional legal-diplomatic framework — the request is for extraterritorial status for an entity (the alliance) that is not yet in formal diplomatic relations with any host country and that will be in formal relations only after the embassy is built.
+**非国家实体治外法权地位这一更广阔的问题**，在当代国际法中颇为复杂。雷尔运动为大使馆选址请求治外法权地位涉及一个非常规的法律—外交框架——该请求是为一个尚未与任何东道国建立正式外交关系、且仅在大使馆建成之后才会建立正式关系的实体（联盟）请求治外法权地位。
 
-### Mainstream UFO/UAP studies
+### 主流UFO／UAP研究
 
-The broader question of extraterrestrial contact has received substantial recent academic and governmental attention, with detailed treatment under *Modern reinterpretations* below. The mainstream UFO/UAP studies have generally not engaged the Raëlian embassy project directly, with academic and governmental UAP studies focusing on observational data, military encounter reports, and broader empirical questions rather than on specific religious-prophetic frameworks within which contact is anticipated.
+外星接触这一更广阔的问题近来受到大量学术与政府关注，详见下文《现代重新诠释》。主流UFO／UAP研究一般不直接论及雷尔派的大使馆计划，学术与政府的UAP研究聚焦于观测数据、军方遭遇报告及更广阔的经验问题，而非接触被期待于其中的具体宗教—先知框架。
 
-## In primary sources
+## 在原始来源中
 
-### The 1973-1974 specifications
+### 1973–1974年的规格
 
-The principal primary-source material for the embassy specifications is the section "The New Commandments — Your Mission" in *The Book Which Tells the Truth* (Vorilhon/Raël, 1974). The source's detailed specifications include the residence with seven guest rooms (each with separate bathroom), the conference room for 21 people, the swimming pool, the dining room for 21 people, the surrounding park with walls preventing exterior viewing, the residence situated at minimum 1,000 meters from the park walls, the maximum two-story residence height, the inner barrier of trees and bushes screening the residence, the two entrances in the surrounding wall (one south, one north), the two entrances in the residence itself, the roof terrace with a 12-meter-diameter spacecraft landing capability, the air-space restriction (no direct military or radar surveillance), the extraterritorial status requirement, and the prophet's permitted residence (with wife, children, servants, and invited guests).
+大使馆规格的主要原始来源材料，是《述说真相之书》（沃里隆／雷尔，1974年）中「新诫命——你的使命」一节。{{ cite(id="the-book-which-tells-the-truth", text="[5]", title="沃里隆（雷尔），《述说真相之书》（1974年），「新诫命——你的使命」——大使馆规格") }}来源的详尽规格包括：设七间客房（各带独立浴室）的驻地、可容21人的会议室、游泳池、可容21人的餐厅、设墙防止外部窥视的周围园林、距园墙至少1,000米的驻地、最高两层的驻地高度、遮蔽驻地的内层树木灌丛屏障、周围墙体的两个出入口（一南一北）、驻地本身的两个出入口、可供直径12米飞船降落的屋顶平台、空域限制（不受直接军事或雷达监视）、治外法权地位要求，以及先知获准的居所（与妻子、子女、仆人及受邀客人同住）。
 
-The specifications also include the security features distinguishing the alliance-officer area from the human-occupied area: the seven rooms are to be located directly under the terrace, separated from the human-section by a thick metal door (lockable from the inside, kept permanently closed); an aseptic chamber is to be built at the entrance to the conference room, providing biosecurity separation between the human and alliance environments.
+规格还包括将联盟官员区与人类所占区域区分开来的安保设施：七间房须设于平台正下方，由一道厚金属门（可从内侧上锁，须永久关闭）与人类区段隔开；会议室入口处须建一间无菌室，在人类环境与联盟环境之间提供生物安全隔离。
 
-The source's framing of the embassy's purpose is explicit: the embassy is the location at which the alliance will land openly and "give you our scientific knowledge as our heritage to all peoples of the Earth." The completion of the embassy is one of the conditions for the alliance's open return — the others being a sufficient population of humans wanting the return ("If those with warlike temperaments are rendered harmless all over the whole world... If the love of life and humanity's love for us and itself are strong enough"), and the absence of military threat to the alliance craft.
+来源对大使馆目的的表述是明确的：大使馆是联盟将公开降落，并「将我们的科学知识作为遗产赐予地球上所有民族」的场所。大使馆的竣工是联盟公开归来的条件之一——其余条件为：有足够多渴望归来的人类（「若好战之徒在全世界各处都被解除危害……若对生命的爱，以及人类对我们及对自身的爱足够强烈」），以及对联盟飞船不存在军事威胁。
 
-The source also specifies the broader operational practices supporting the embassy project: the appointment of a national representative in each country responsible for communicating the truth and coordinating local efforts, the maintenance of records of those who contribute financially to the embassy's construction and upkeep (whose contributions, however modest, will be rewarded when the alliance comes), and the annual gathering on a mountain near the residence at which all those who have heard about the alliance through these writings and want them to come will assemble to think intensely about the alliance and hope for its coming.
+来源还规定了支持大使馆计划的更广阔运作实践：在每个国家任命一名国家代表，负责传达真相并协调当地工作；保存为大使馆建造与维护提供经济捐助者的记录（其捐助无论多么微薄，都将在联盟到来时获得回报）；以及每年在驻地附近的一座山上聚集，让所有通过这些著作听闻联盟并希望它们到来的人聚会，专心致志地思念联盟并盼望其到来。
 
-### The 1975 Roc Plat second contact
+### 1975年岩坪第二次接触
 
-The principal primary-source elaborations of the embassy specifications occur in *Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), recording the second contact between Raël and the alliance on October 7, 1975 at Roc Plat. The 1975 elaborations include various clarifications of the embassy's projected role, additional context for the broader Aquarian-age program within which the embassy operates, and the specific identification of Raël's role as the prophet responsible for organizing the embassy project.
+大使馆规格的主要原始来源详述出现于《外星人带我去他们的星球》（沃里隆／雷尔，1975年），记录了1975年10月7日雷尔与联盟在岩坪的第二次接触。{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[6]", title="沃里隆（雷尔），《外星人带我去他们的星球》（1975年）——岩坪第二次接触的详述") }}1975年的详述包括对大使馆所投射角色的各种澄清、对大使馆所运作于其中的更广阔水瓶座时代计划的补充背景，以及对雷尔作为负责组织大使馆计划之先知角色的具体认定。
 
-The source's specific framing of Raël's role: "You are the one whose coming was announced in all the religions by the ancient prophets, our representatives. You are the one who will bring back the shepherds' flock before the water is spilled, the one who will bring back to their creators those they have created."
+来源对雷尔角色的具体表述：「你就是那位古时众先知——我们的代表——在一切宗教中所预告其到来之人。你就是那位将在水倾倒之前把牧人的羊群带回之人，那位将把受造者带回其创造者面前之人。」
 
-The source's specific framing of the Israeli context, addressed as a direct address to the people of Israel: "The State of Israel must give some territory located near Jerusalem to the Guide of Guides so that he may build there the residence, the embassy of the Elohim. The time has come, people of Israel, to build the New Jerusalem as it was foreseen. Claude Rael is the one who was foretold. Reread your writings and open your eyes."
+来源对以色列处境的具体表述，作为对以色列百姓的直接呼告：「以色列国必须将耶路撒冷附近的一块领土交给众向导的向导，使他可在那里建造驻地，即耶洛因的大使馆。以色列的百姓啊，建造预言中的新耶路撒冷的时候到了。克劳德·雷尔就是那位被预言之人。重读你们的著作，睁开你们的眼睛吧。」
 
-The source explicitly invokes the Aries-age covenantal-relational framework, including the Hebrew lineage's role and the historical Hebrew-tradition mission: "We removed you from the clutches of the Egyptians, and you did not show yourselves worthy of our confidence; we entrusted you with a message destined for all humanity, and you jealously kept it instead of spreading it abroad." The source warns of the consequences of Israeli refusal: "This is your last chance, otherwise another country will welcome the Guide of Guides and build our embassy on its territory, and that country will be close to yours; it will be protected and happiness shall prevail, and the State of Israel will be destroyed once more."
+来源明确援引白羊座时代的盟约—关系框架，包括希伯来谱系的角色及历史上希伯来传统的使命：「我们把你们从埃及人的掌握中救出，你们却未显出配得我们信任；我们将一条注定给全人类的讯息托付给你们，你们却善妒地将它私藏，而不向外传扬。」来源警告以色列拒绝的后果：「这是你们最后的机会，否则另一个国家将接纳众向导的向导，并在其领土上建造我们的大使馆，那个国家将靠近你们的国家；它将受到保护，幸福必将盛行，而以色列国将再一次被毁灭。」
 
-### The December 13, 1997 message authorizing relocation
+### 授权迁移的1997年12月13日讯息
 
-The principal primary-source material for the embassy's relocation from Israel is the message from Yahweh delivered to Raël on December 13, 1997 (the twenty-fourth anniversary of the original 1973 contact). The message's principal content:
+大使馆从以色列迁移的主要原始来源材料，是1997年12月13日（即1973年原始接触的二十四周年）耶和华传达给雷尔的讯息。该讯息的主要内容：
 
-> *"It has been 24 years during which you Raelians, who have officially and publicly recognized us as your Creators, have worked so that we may be welcomed in the requested Embassy. Your devotion and your efforts have warmed our hearts."*
+> *「过去二十四年间，你们这些公开正式承认我们为你们创造者的雷尔派信徒，一直努力使我们得以在所请求的大使馆中受到接待。你们的奉献与努力温暖了我们的心。」*
 
-> *"In all the religions, there are people who deserve our love, but Raelians are the ones closest to us. They are our new Chosen People and will one day have a new Promised Land, because their love is based on consciousness and understanding, and not on blind faith."*
+> *「在一切宗教中，都有配得我们之爱的人，但雷尔派信徒是与我们最亲近的。他们是我们新的选民，有一天将拥有一片新的应许之地，因为他们的爱建基于意识与理解，而非盲目的信仰。」*
 
-> *"We asked that an Embassy be built to welcome us near Jerusalem, and the authorities of the stiff necked people have refused several times to grant the necessary authorizations and extra-territorial status. Our preference for Jerusalem is merely sentimental, because for us Jerusalem is everywhere where human beings love us, respect us and wish to welcome us with due respect."*
+> *「我们曾请求在耶路撒冷附近建造一座大使馆来接待我们，而这硬着颈项之民的当局已多次拒绝授予必要的许可与治外法权地位。我们对耶路撒冷的偏好仅出于情感，因为对我们而言，凡有人类爱我们、敬我们并愿以应有的尊重接待我们之处，便是耶路撒冷。」*
 
-> *"In the meantime, we must from now on ask for the necessary permission and extra-territorial status from all nations on Earth for the erection of our Embassy, and the radius of one kilometer can be composed of water as well as firm land, with the condition that navigation be prohibited."*
+> *「与此同时，我们从今往后必须向地球上一切国家请求建造我们大使馆所必需的许可与治外法权地位，而那一公里的半径既可由陆地、也可由水域构成，惟须禁止其中航行。」*
 
-> *"When a country grants this authorization, Israel will have, for the last time, a short period of reflection to grant this authorization and will keep the privilege, or the Embassy will be built elsewhere, and the people of David will lose our protection and will be dispersed."*
+> *「当某一国家授予此项许可时，以色列将拥有最后一次短暂的反思期来授予此项许可并保留这一特权，否则大使馆将建于他处，而大卫的百姓将失去我们的保护，并将被驱散。」*
 
-> *"The country which will build the Embassy on its territory or on a territory it will give or sell to this effect, with the necessary extraterritorial status, will have a guaranteed and flourishing future, will benefit from our protection and will become the spiritual and scientific centre of the whole planet for the millenniums to come."*
+> *「凡在其领土上、或在为此目的而赠予或出售的领土上、连同必要的治外法权地位建造此大使馆的国家，将拥有有保障且繁荣的未来，将受我们保护，并将在此后千秋万代成为整个星球的精神与科学中心。」*
 
-> *"The hour of our Great Return is near, and we will support and protect the most devoted ones among you."*
+> *「我们大归来的时刻近了，我们将支持并保护你们中间最为忠诚之人。」*
 
-The 1997 message establishes several specific things: the formal authorization to seek extraterritorial status from all nations of Earth (rather than only Israel); the technical specification that the 1-kilometer radius can include water as well as firm land (with navigation prohibited in any water portion); the specific consequences for the host country (alliance protection, "guaranteed and flourishing future," status as "spiritual and scientific centre of the whole planet for the millenniums to come"); and the framework within which Israel retains a final option but is no longer the exclusive candidate.
+1997年的讯息确立了若干具体之事：正式授权向地球上一切国家（而非仅以色列）寻求治外法权地位；1公里半径可包含水域亦可包含陆地的技术规定（任何水域部分须禁止航行）；东道国的具体后果（联盟保护、「有保障且繁荣的未来」、「此后千秋万代整个星球的精神与科学中心」之地位）；以及以色列保留最后一项选择、但不再是唯一候选者的框架。
 
-### The Ezekiel 47:1-2 prophetic connection
+### 以西结书47:1-2的先知关联
 
-The framework's reading of the embassy's prophetic prefiguration draws principally on **Ezekiel 47:1-2**, with the Hebrew text and translation:
+框架对大使馆先知预表的解读主要取自**以西结书47:1-2**，希伯来原文及译文如下：
 
 > וַיְשִׁבֵנִי אֶל־פֶּתַח הַבַּיִת וְהִנֵּה־מַיִם יֹצְאִים מִתַּחַת מִפְתַּן הַבַּיִת קָדִימָה
 > *Vayeshiveni el petach ha-bayit, ve-hineh mayim yotz'im mi-tachat miftan ha-bayit kadimah*
-> "Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward."
+> 「以后他带我回到殿门，见殿的门槛下有水往东流出。」
 
-The Hebrew מַיִם יֹצְאִים (*mayim yotz'im*), "waters going out," from the threshold of the temple is read by the framework as the Hebrew Bible's most direct prefiguration of the Aquarian-age water-bearer iconography. Ezekiel's vision describes water issuing from the temple, flowing eastward, growing into a river, eventually reaching the Dead Sea and rejuvenating its dead waters. The framework reads this as the prophetic image of the Aquarian-age pouring-out as it would unfold from the rebuilt temple, which the source identifies with the embassy. The water flowing from the threshold of the embassy, transforming the world it reaches, restoring what had been dead — this is the image Ezekiel was shown, recorded in his book in the vocabulary available to him.
+希伯来文מַיִם יֹצְאִים（*mayim yotz'im*），「往外流出之水」，自圣殿门槛流出，被框架解读为《希伯来圣经》对水瓶座时代持水者意象最直接的预表。以西结的异象描述水自圣殿流出，向东流淌，逐渐汇成一条河，最终抵达死海并使其死水复苏。框架将此解读为水瓶座时代倾注的先知意象，正如它将从被重建的圣殿——来源将其与大使馆相认同——展开那般。水自大使馆门槛流出，转化它所抵达的世界，恢复曾经死去之物——这正是以西结所见的意象，以他当时可用的词汇记录在他的书中。
 
-The framework reads the embassy's projected operational role through this prophetic lens: the embassy will not merely be a meeting place for diplomats. It will be, on the source's framing, the operational center from which the Aquarian-age transformative content flows outward across the planet. Pilgrimage to the embassy, educational and scientific institutions clustering around it, the embassy as the spiritual and intellectual center of the world for millennia to come — all of this is the Ezekiel river made institutional.
+框架通过这一先知视角解读大使馆所投射的运作角色：大使馆将不仅仅是外交人员的会面之所。依来源的表述，它将是水瓶座时代转化性内容向外流淌至全球的运作中枢。向大使馆的朝圣、围绕它聚集的教育与科学机构、大使馆作为此后千秋万代世界的精神与思想中心——这一切都是以西结之河的体制化。
 
-### The Acts 15:16 rebuilt-tabernacle passage
+### 使徒行传15:16重建会幕的经文
 
-The framework's secondary prophetic prefiguration draws on **Acts 15:16**:
+框架的次要先知预表取自**使徒行传15:16**：
 
 > μετὰ ταῦτα ἀναστρέψω καὶ ἀνοικοδομήσω τὴν σκηνὴν Δαυὶδ τὴν πεπτωκυῖαν
 > *Meta tauta anastrepsō kai anoikodomēsō tēn skēnēn David tēn peptōkuian*
-> "After this I will return, and will build again the tabernacle of David, which is fallen down."
+> 「此后我要回来，重新修造大卫倒塌的帐幕。」
 
-The Greek verb ἀναστρέφω (*anastrephō*), "to turn back, to return," indicates a return after departure; the verb ἀνοικοδομέω (*anoikodomeō*), "to build again, to rebuild," indicates restoration of what had been destroyed. The phrase τὴν σκηνὴν Δαυίδ (*tēn skēnēn David*), "the tabernacle of David," refers to the Davidic political-religious structure — the kingdom David established, the tabernacle that housed the Ark before Solomon's Temple, and by extension the whole alliance-Israelite arrangement that had governed the alliance's Earth presence during the Aries age.
+希腊文动词ἀναστρέφω（*anastrephō*），「转回、归来」，指离去之后的归来；动词ἀνοικοδομέω（*anoikodomeō*），「重新修造、重建」，指对曾被毁之物的恢复。短语τὴν σκηνὴν Δαυίδ（*tēn skēnēn David*），「大卫的帐幕」，指大卫的政治—宗教架构——大卫所建立的王国、所罗门圣殿之前安放约柜的帐幕，并引申为白羊座时代统辖联盟地球临在的整个联盟—以色列安排。
 
-The framework reads the passage as the source's preferred New Testament passage for the Aquarian-age return: a return after departure, a rebuilding of what had been brought low, a restoration of the alliance-presence operational arrangement that had been the principal cosmic-political structure during the Aries age. The "rebuilding" anticipated in the passage is, on the source's reading, the establishment of the embassy and the alliance's return at the embassy's completion.
+框架将这段经文解读为来源所偏好的水瓶座时代归来的新约经文：离去之后的归来、对曾被贬抑之物的重建、对白羊座时代曾是主要宇宙—政治结构的联盟临在运作安排的恢复。依来源的解读，这段经文所期待的「重建」，正是大使馆的设立及联盟在大使馆竣工之时的归来。
 
-## The concept's content
+## 概念的内容
 
-### The basic operational features
+### 基本运作特征
 
-The embassy operates through several interrelated operational features:
+大使馆通过若干相互关联的运作特征运转：
 
-**Physical-architectural specifications**. The detailed specifications outlined under *In primary sources* above provide the operational baseline. The specifications are detailed and operationally specific, reflecting the practical requirements of a structure that must accommodate two different species across both ceremonial-formal and continuing-operational use.
+**实体—建筑规格**。上文《在原始来源中》所列的详尽规格提供了运作基线。这些规格详尽且在运作上具体，反映了一座须在典礼性正式与持续运作两种使用中容纳两个不同物种的建筑的实际要求。
 
-**Extraterritorial legal status**. The site must be granted extraterritorial status by the host country, with legal exemption from the host country's jurisdiction analogous to the diplomatic-mission framework of the Vienna Convention or the sovereign status of Vatican City.
+**治外法权法律地位**。选址须由东道国授予治外法权地位，享有免于东道国管辖的法律豁免，类似于《维也纳公约》的外交使团框架或梵蒂冈城的主权地位。
 
-**Air-space restriction**. The air space above and around the residence must not be under direct military or radar surveillance, providing the operational conditions under which alliance craft can land and depart without military or surveillance interference.
+**空域限制**。驻地上空及周围不得受直接军事或雷达监视，以提供联盟飞船得以降落与离开而不受军事或监视干扰的运作条件。
 
-**Biosecurity separation**. The embassy's design separates the human-occupied and alliance-officer areas through specific architectural features (the thick metal door under the terrace, the aseptic chamber at the conference-room entrance), reflecting the practical biosecurity requirements of cross-species cohabitation.
+**生物安全隔离**。大使馆的设计通过特定建筑特征（平台下的厚金属门、会议室入口处的无菌室）将人类所占区域与联盟官员区域隔开，反映了跨物种共处的实际生物安全要求。
 
-**Continuing operational role**. Beyond the initial inheritance event, the embassy will function as the operational center for the Aquarian age's subsequent development across the millennia to come, hosting continuing alliance-humanity meetings and serving as the focal point for pilgrimage, educational and scientific institutions, and broader cultural development.
+**持续运作角色**。在最初的继承事件之外，大使馆将作为水瓶座时代在此后数千年发展的运作中枢，主办持续的联盟与人类会面，并充当朝圣、教育与科学机构以及更广阔文化发展的焦点。
 
-### The conditions for the alliance's open return
+### 联盟公开归来的条件
 
-The source specifies several specific conditions that must be met for the alliance's open return to occur:
+来源规定了联盟公开归来必须满足的若干具体条件：
 
-**The embassy must be built**. The completion of the embassy is the first specific operational condition. The alliance will not arrive without a designated physical structure prepared to receive them.
+**大使馆必须建成**。大使馆的竣工是首要的具体运作条件。没有一座为接待他们而准备的指定实体建筑，联盟便不会到来。
 
-**Sufficient human population must want the return**. The source's framing: humanity must have "the love of life and humanity's love for us and itself" be "strong enough" — a sufficient population of humans must consciously want the alliance's return, recognizing the alliance as creators rather than as gods or as adversaries.
+**足够多的人类必须渴望归来**。来源的表述：人类必须使「对生命的爱，以及人类对我们及对自身的爱」「足够强烈」——必须有足够多的人类自觉地渴望联盟的归来，将联盟认作创造者，而非神祇或对手。
 
-**Military threat must be neutralized**. The source's framing: the alliance craft must not be threatened by humanity's destructive military forces. The broader demilitarization commandment that the source articulates is one specific operational condition for the alliance's return — a humanity that retained its current military-confrontational posture would not be one that the alliance could safely return to.
+**军事威胁必须被消除**。来源的表述：联盟飞船不得受到人类破坏性军事力量的威胁。来源所阐述的更广阔的去军事化诫命，是联盟归来的一个具体运作条件——一个仍保持当前军事对抗姿态的人类，将不是联盟可以安全归来的人类。
 
-**Conscious recognition rather than blind faith**. The source's specific framing: the humans welcoming the alliance must do so on the basis of consciousness and understanding rather than on the basis of blind religious faith. The Aquarian-age return is to be received by a scientifically and philosophically mature humanity that has evaluated the alliance's content on its rational merits.
+**自觉认知而非盲目信仰**。来源的具体表述：接待联盟的人类必须建基于意识与理解，而非建基于盲目的宗教信仰。水瓶座时代的归来，须由一个在科学与哲学上成熟、已就联盟内容的理性价值加以评估的人类来接受。
 
-### The inheritance event
+### 继承事件
 
-The framework reads the embassy as the operational location for the **inheritance event** — the formal transmission of accumulated alliance knowledge from the alliance to humanity that occurs following the alliance's open return.
+框架将大使馆解读为**继承事件**的运作场所——即在联盟公开归来之后，联盟向人类正式传授所积累知识的事件。
 
-The specific content of the inheritance event includes:
+继承事件的具体内容包括：
 
-**Scientific knowledge transmission**. The alliance's accumulated scientific knowledge — biotechnology, advanced physics, propulsion technologies, broader scientific content — will be transmitted to humanity in forms appropriate to humanity's current scientific maturity and capacity to integrate the transferred knowledge.
+**科学知识的传授**。联盟所积累的科学知识——生物技术、先进物理、推进技术、更广阔的科学内容——将以适合人类当前科学成熟度及整合所传知识能力的形式传授给人类。
 
-**Political-philosophical content**. The alliance's accumulated political-philosophical content — the broader cosmic-political situation, the Cosmic Chain framework, the various alliance-internal political and ethical traditions — will be transmitted to humanity as the broader cosmic context for humanity's projected role as a future creator civilization.
+**政治—哲学内容**。联盟所积累的政治—哲学内容——更广阔的宇宙—政治处境、宇宙链框架、各种联盟内部的政治与伦理传统——将作为人类作为未来创造者文明所投射角色的更广阔宇宙语境，传授给人类。
 
-**Confirmation of the broader corpus content**. The alliance's open return will provide direct confirmation (or in specific cases, correction) of the broader corpus content — the Genesis 1 creation framework, the various age-specific operations, the seven creator teams and seven races content, the broader cosmological framework. The corpus's specific reconstructions will be either substantially confirmed or, in specific cases, corrected by the alliance's direct authoritative testimony.
+**对更广阔文集内容的确证**。联盟的公开归来将对更广阔的文集内容——《创世记》第1章的创造框架、各种特定时代的运作、七支创造者团队与七个种族的内容、更广阔的宇宙论框架——提供直接的确证（或在特定情况下加以修正）。文集的具体重构，将由联盟直接的权威见证予以实质上的确证，或在特定情况下加以修正。
 
-**Initiation of subsequent operational arrangements**. The inheritance event will inaugurate the subsequent millennia-long operational arrangement between the alliance and humanity, with the embassy serving as the principal operational center across the subsequent centuries.
+**随后运作安排的开启**。继承事件将开启联盟与人类之间随后长达数千年的运作安排，由大使馆在此后数个世纪充当主要运作中枢。
 
-### The replica embassy and broader infrastructure
+### 复制大使馆与更广阔的基础设施
 
-The source specifies that a **replica embassy**, open to the public, will be constructed near the functional embassy to allow ordinary visitors to experience the site without disrupting the ongoing diplomatic and operational activities.
+来源规定将于功能性大使馆附近建造一座向公众开放的**复制大使馆**，以让普通访客在不扰乱持续的外交与运作活动的情况下体验该场所。
 
-The broader infrastructure projected to develop around the embassy includes:
+预计将围绕大使馆发展的更广阔基础设施包括：
 
-**Pilgrimage infrastructure**. Visitor accommodations, transportation infrastructure, supporting commercial and cultural facilities catering to pilgrimage from all nations to the site.
+**朝圣基础设施**。访客住宿、交通基础设施，以及为各国朝圣者提供服务的配套商业与文化设施。
 
-**Educational and scientific institutions**. Universities, research institutions, libraries, archival facilities clustering around the embassy and providing the institutional infrastructure for the integration of the alliance's transmitted knowledge with humanity's existing scientific and educational structures.
+**教育与科学机构**。大学、研究机构、图书馆、档案设施将围绕大使馆聚集，为将联盟所传知识与人类现有科学及教育结构相整合提供机构基础设施。
 
-**Cultural and religious institutions**. The embassy as "the spiritual center of the world for millennia to come" will produce substantial cultural and religious infrastructure development, with the specific forms of this development being one of the principal cultural projects of the Aquarian age's mature phase.
+**文化与宗教机构**。大使馆作为「此后千秋万代世界的精神中心」，将产生大量文化与宗教基础设施的发展，而这一发展的具体形式将是水瓶座时代成熟阶段的主要文化项目之一。
 
-### The Aquarian-age operational role
+### 水瓶座时代的运作角色
 
-The embassy's broader Aquarian-age operational role can be summarized as follows: the embassy is the physical site at which the **Pisces-to-Aquarius transition** is concretely realized in operational form. The Piscean age was characterized by indirect contact through prophetic mediation; the Aquarian age is characterized by direct contact through the formal embassy arrangement. The embassy is the specific architectural-operational form that the transition takes, with the broader Aquarian-age developments operating from the embassy as their physical-operational center.
+大使馆更广阔的水瓶座时代运作角色可概括如下：大使馆是**双鱼座向水瓶座过渡**在运作形式上得以具体实现的实体场所。双鱼座时代以经由先知中介的间接接触为特征；水瓶座时代以经由正式大使馆安排的直接接触为特征。大使馆是这一过渡所采取的具体建筑—运作形式，更广阔的水瓶座时代发展将以大使馆为其实体—运作中枢运转。
 
-The source's specific framing places the embassy at the center of the broader Aquarian-age program: the embassy is the location where the seven new commandments (geniocracy, humanitarianism, world government, demilitarization, science as religion, telepathic cultivation, the metaphysical clarifications) will receive their operational implementation through the alliance's direct involvement; the embassy is the site at which the broader Aquarian-age Apocalypse (the unveiling phase) becomes operationally complete; the embassy is the place from which the Aquarian-age transformative content flows outward to humanity at large.
+来源的具体表述将大使馆置于更广阔水瓶座时代计划的中心：大使馆是七条新诫命（精英政治、人道主义、世界政府、去军事化、以科学为宗教、心灵感应的培养、形而上学的澄清）通过联盟的直接参与而获得运作实施的场所；大使馆是更广阔的水瓶座时代天启（揭示阶段）在运作上变得完整的所在；大使馆是水瓶座时代转化性内容向广大人类流淌而出的所在。
 
-## The history of the embassy project
+## 大使馆计划的历史
 
-### The 1973-1991 preparatory period
+### 1973–1991年的筹备期
 
-The 1973 contact established the basic embassy specifications, with subsequent Raëlian-movement development across the 1970s and 1980s focused on the broader institutional infrastructure (the International Raëlian Movement's establishment, the broader Raëlian-philosophical content, the seven new commandments). The specific embassy project was held in preparatory mode during this period.
+1973年的接触确立了基本的大使馆规格，雷尔运动在1970及1980年代的随后发展聚焦于更广阔的机构基础设施（国际雷尔运动的建立、更广阔的雷尔哲学内容、七条新诫命）。具体的大使馆计划在此期间维持于筹备模式。
 
-In 1990, as a sign of special feelings toward the people of Israel, the Elohim agreed to Raël's suggestion to modify the original Raëlian Symbol of Infinity when used by Raëlian Movement branches in the West. The central swastika (which means "well-being" in Sanskrit and represents infinity in time) was replaced with a galaxy-shaped swirl. This change was made in an effort to help the negotiations for building the embassy in Israel and out of respect for the sensitivities of victims of the Nazi swastika during the Second World War. In Asia, where the swastika appears in Buddhist temples as a symbol of infinity in time, the original symbol remained in use.
+1990年，作为对以色列百姓特殊情感的标志，耶洛因同意了雷尔的建议，修改西方雷尔运动分支所使用的原始雷尔无限符号。中央的卐字（在梵文中意为「福祉」，象征时间中的无限）被替换为一个银河状的漩涡。此项变更是为了帮助在以色列建造大使馆的谈判，并出于对二战期间纳粹卐字受害者情感的尊重。在亚洲，卐字作为时间中无限的象征出现于佛寺，原始符号仍被沿用。
 
-### The 1991-1997 Israeli engagement
+### 1991–1997年的以色列接触
 
-The first formal request was made on November 8, 1991 (Jewish New Year) to the Chief Rabbi in Jerusalem. A subsequent official request was made to Israel's Chief Rabbi several months later. The request was acknowledged, and a study of the application began. In summer 1993, an Israeli government commission concluded that the Raëlian Movement was peaceful in intent and posed no threat to Israel's security. Two rabbis on the commission reportedly concluded that "it would be better not to do anything against Rael in case he really is the awaited Messiah."
+首次正式请求于1991年11月8日（犹太新年）向耶路撒冷的首席拉比提出。数月后又向以色列首席拉比提出了一次正式请求。请求获得受理，并开始对申请进行研究。1993年夏，一个以色列政府委员会得出结论，认为雷尔运动意图和平，对以色列安全不构成威胁。据报道，委员会中的两位拉比得出结论：「最好不要对雷尔采取任何行动，以防他真的是所期待的弥赛亚。」
 
-In November 1993, a further direct request was made to Israel's Prime Minister Yitzhak Rabin, who was attending the Montreal Jewish Convention. After approximately a month, Rabin replied through one of his office representatives that he could not comply. Subsequent administrations have not reopened the question.
+1993年11月，又向当时出席蒙特利尔犹太大会的以色列总理伊扎克·拉宾直接提出了一次请求。约一个月后，拉宾通过其办公室的一位代表回复称他无法答应。后续各届政府未重启此问题。
 
-### The December 13, 1997 authorization
+### 1997年12月13日的授权
 
-The December 13, 1997 message from Yahweh formally authorized the relocation of the embassy project to other countries, with Israel retaining a final option but the project no longer being contingent on Israeli cooperation. The message's specific content has been treated above under *In primary sources*.
+1997年12月13日来自耶和华的讯息正式授权将大使馆计划迁往其他国家，以色列保留最后一项选择，但该计划不再以以色列的合作为前提。该讯息的具体内容已在上文《在原始来源中》论述。
 
-### The 1998-2020 negotiations
+### 1998–2020年的谈判
 
-Across the subsequent two decades, the Raëlian movement conducted negotiations with various potential host countries. The principal documented negotiations include engagement with Canada, Russia, Lebanon, and various other countries across the 1990s and 2000s. None of these negotiations produced a formal extraterritorial grant during this period.
+在随后的二十年间，雷尔运动与各潜在东道国进行了谈判。主要有记录的谈判包括1990及2000年代与加拿大、俄罗斯、黎巴嫩及各其他国家的接触。这些谈判在此期间均未促成正式的治外法权授予。
 
-In 2005, Raël's commentary in the published *Message from the Designers* identified Mount Sinai's lower slopes as a possible Egyptian alternative ("the lower slopes of Mount Sinai would make an excellent alternative choice since that is where Yahweh, the leader of the Elohim, first appeared to Moses"), with possible Palestinian or other neighboring-state locations also under consideration.
+2005年，雷尔在出版的《来自创造者的讯息》中的评注，将西奈山的下坡指为可能的埃及备选地（「西奈山的下坡将是一个极佳的备选，因为那里正是耶洛因领袖耶和华最初向摩西显现之处」），并将可能的巴勒斯坦或其他邻国地点也纳入考量。
 
-### The 2015 UN Optional Protocol
+### 2015年联合国任择议定书
 
-In 2015, the Raëlian movement submitted to the United Nations an "Optional Protocol Concerning Embassies for Extraterrestrials," proposing a standard diplomatic framework that any host country could use to formalize the extraterritorial grant. The Protocol provided detailed provisions for the legal-diplomatic infrastructure required by the embassy project and represented the movement's most substantial attempt to formalize the embassy's legal status within established international-diplomatic frameworks.
+2015年，雷尔运动向联合国提交了一份《关于外星人大使馆的任择议定书》，提出一个任何东道国都可用以正式确立治外法权授予的标准外交框架。该议定书为大使馆计划所需的法律—外交基础设施提供了详尽条款，代表了该运动在既有国际外交框架内正式确立大使馆法律地位的最重大尝试。
 
-### The 2021-2024 acceleration
+### 2021–2024年的加速
 
-Beginning in 2021, the embassy project entered a period of substantial acceleration:
+自2021年起，大使馆计划进入了一段大幅加速的时期：
 
-**February 2021**: The Alliance for Extraterrestrial Diplomatic Contact (AEDC) was established as an international non-profit organization of politicians, diplomats, and government officials committed to welcoming extraterrestrial civilizations to Earth.
+**2021年2月**：外星外交接触联盟（AEDC）作为一个由政治家、外交官及政府官员组成、致力于欢迎外星文明来到地球的国际非营利组织成立。
 
-**2022**: Embassy project teams began presentations to mayors of fifty selected cities on every continent, providing the project with substantially expanded political-diplomatic visibility.
+**2022年**：大使馆计划团队开始向每个大洲上五十座选定城市的市长作陈述，为该计划提供了大幅扩展的政治—外交可见度。
 
-**2024**: A national government (whose identity the movement is maintaining confidentiality on, pending further stages of the negotiation) signed a Memorandum of Collaboration with the Raëlian movement to explore hosting the embassy project. Daniel Turcotte, the Raëlian guide responsible for the embassy project, described the signing as "a historic day for humanity," noting that "a nation has finally shown the courage and vision to prepare for the return of an advanced extraterrestrial civilization to Earth." The memorandum outlines a collaborative framework including objectives, roles, principles of cooperation, and a timeline for the exploratory work.
+**2024年**：一个国家政府（该运动出于对谈判后续阶段的考虑，对其身份保密）与雷尔运动签署了一份《协作备忘录》，以探讨主办大使馆计划。负责大使馆计划的雷尔派向导丹尼尔·蒂尔科特将此次签署描述为「人类的历史性一天」，并指出「一个国家终于展现出勇气与远见，为一个先进外星文明返回地球作准备」。该备忘录勾勒出一个协作框架，包括目标、角色、合作原则及探索性工作的时间表。
 
-### The 2025-2030 projected timeline
+### 2025–2030年所投射的时间表
 
-The Raëlian movement's published timeline projects the following phases:
+雷尔运动公布的时间表投射了以下各阶段：
 
-**2025-2027 (site acquisition phase)**: The preferred site will be identified, the extraterritorial transfer will be legally effected, and agreements concerning off-site infrastructure will be concluded.
+**2025–2027年（场地取得阶段）**：将确定首选场地，在法律上完成治外法权的转移，并就场外基础设施达成协议。
 
-**2027-2030 (planning and construction phase)**: Master planning, architectural and engineering design, contracts, and actual construction of the embassy complex, including the public-facing replica embassy.
+**2027–2030年（规划与建造阶段）**：总体规划、建筑与工程设计、合同，以及大使馆建筑群（含面向公众的复制大使馆）的实际建造。
 
-**Post-2030 (caretaker mode)**: The embassy will operate in caretaker mode awaiting the arrival of the alliance delegation.
+**2030年后（看护模式）**：大使馆将以看护模式运转，等待联盟代表团的到来。
 
-The corpus registers these projections without endorsing them as confirmed. The specific Raëlian-movement timeline is the movement's own institutional projection, with the actual progress depending on the success of the diplomatic negotiations and broader political conditions.
+本文集记录这些投射，但并不将其认可为已确定。具体的雷尔运动时间表是该运动自身的机构投射，实际进展取决于外交谈判的成功与更广阔的政治条件。
 
-## Application across the corpus
+## 在文集中的应用
 
-The embassy concept operates as a specific operational element within multiple corpus entries.
+大使馆这一概念作为一个具体的运作要素，运作于多个文集条目之中。
 
-### The Apocalypse entry
+### 天启条目
 
-The embassy is the operational location for the broader Apocalypse (the unveiling phase) the corpus's framework articulates. The detailed treatment of the Apocalypse lives in the [Apocalypse](../apocalypse/) entry; the Embassy entry's specific contribution is establishing the embassy's specific role as the physical-operational site at which the Apocalypse becomes operationally complete.
+大使馆是本文集框架所阐述的更广阔天启（揭示阶段）的运作场所。天启的详尽论述见于[天启](../apocalypse/)条目；大使馆条目的具体贡献，在于确立大使馆作为天启在运作上变得完整的实体—运作场所的具体角色。
 
-### The Cosmic Competition entry
+### 宇宙竞争条目
 
-The embassy is the operational location for the inheritance event that follows the Cosmic Competition's evaluation phase. The detailed treatment of the Cosmic Competition lives in the [Cosmic Competition](../cosmic-competition/) entry; the Embassy entry's specific contribution is establishing the embassy as the specific architectural-operational form within which the inheritance transmission occurs.
+大使馆是继宇宙竞争评估阶段之后的继承事件的运作场所。宇宙竞争的详尽论述见于[宇宙竞争](../cosmic-competition/)条目；大使馆条目的具体贡献，在于确立大使馆作为继承传授所发生于其中的具体建筑—运作形式。
 
-### The Cosmic Chain entry
+### 宇宙链条目
 
-The embassy is the operational location for Earth's projected transition from created to creator civilization within the broader Cosmic Chain. The detailed treatment of the Cosmic Chain lives in the [Cosmic Chain](../cosmic-chain/) entry; the Embassy entry's specific contribution is establishing the embassy as the specific physical site at which Earth's place in the chain is operationally formalized.
+大使馆是更广阔宇宙链中地球从受造文明向创造者文明所投射过渡的运作场所。宇宙链的详尽论述见于[宇宙链](../cosmic-chain/)条目；大使馆条目的具体贡献，在于确立大使馆作为地球在链中的位置得以在运作上正式确立的具体实体场所。
 
-### The Doubled Signature entry
+### 双重签名条目
 
-The embassy is the operational realization of the Aquarian age's water-bearer signature. The Ezekiel 47 imagery (water flowing from the threshold of the temple) is, on the framework's reading, the prophetic prefiguration of the embassy's projected operational role as the source from which the Aquarian-age waters of understanding flow. The detailed treatment of the Doubled Signature lives in the [Doubled Signature](../doubled-signature/) entry; the Embassy entry's specific contribution is establishing the embassy's role within the Aquarius-Leo signature's operational realization.
+大使馆是水瓶座时代持水者签名的运作实现。依框架的解读，以西结书第47章的意象（水自圣殿门槛流出）是大使馆作为水瓶座时代理解之水流淌之源的所投射运作角色的先知预表。双重签名的详尽论述见于[双重签名](../doubled-signature/)条目；大使馆条目的具体贡献，在于确立大使馆在水瓶座—狮子座签名的运作实现中的角色。
 
-### The Raël entry
+### 雷尔条目
 
-The embassy is the operational center for the Aquarian-age prophet's mission. The detailed treatment of Raël's role lives in the [Raël](../rael/) entry (when written); the Embassy entry's specific contribution is establishing the embassy as the principal operational project within Raël's broader prophetic mission.
+大使馆是水瓶座时代先知使命的运作中枢。雷尔角色的详尽论述见于[雷尔](../rael/)条目（待撰写时）；大使馆条目的具体贡献，在于确立大使馆作为雷尔更广阔先知使命中的主要运作项目。
 
-### The Age of Aquarius entry
+### 水瓶座时代条目
 
-The embassy is the central operational element of the Aquarian-age program. The detailed treatment of the Age of Aquarius lives in the [Age of Aquarius](../timeline/age-of-aquarius/) entry; the Embassy entry's specific contribution is establishing the embassy's specific operational features.
+大使馆是水瓶座时代计划的核心运作要素。水瓶座时代的详尽论述见于[水瓶座时代](../timeline/age-of-aquarius/)条目；大使馆条目的具体贡献，在于确立大使馆的具体运作特征。
 
-## Distinguishing from adjacent concepts
+## 与相邻概念的区分
 
-### The Embassy vs. the Solomonic First Temple
+### 大使馆与所罗门第一圣殿
 
-The Solomonic First Temple was the historical first alliance-embassy at Jerusalem (built c. 950 BCE, destroyed 586 BCE), serving as the physical location for the alliance's presence during the Aries age. The contemporary Embassy is the projected Third Temple succeeding the Solomonic and Second Temples in the same operational lineage.
+所罗门第一圣殿是耶路撒冷历史上的第一座联盟大使馆（约公元前950年建造，公元前586年被毁），在白羊座时代充当联盟临在的实体场所。当代大使馆是在同一运作谱系中继承所罗门圣殿与第二圣殿的所投射第三圣殿。
 
-The relationship is one of **operational succession**. The contemporary Embassy is the third in a specific historical sequence of alliance-embassy structures, with each successive embassy serving the same broader operational purpose within the corresponding age's specific operational arrangements.
+二者的关系是一种**运作上的承继**。当代大使馆是联盟大使馆建筑特定历史序列中的第三座，每一座承继的大使馆都在相应时代的具体运作安排内服务于同一更广阔的运作目的。
 
-### The Embassy vs. the Second Temple
+### 大使馆与第二圣殿
 
-The Second Temple was the historical second alliance-embassy at Jerusalem (built c. 516 BCE, expanded c. 20 BCE, destroyed 70 CE). The contemporary Embassy is the third in the operational sequence.
+第二圣殿是耶路撒冷历史上的第二座联盟大使馆（约公元前516年建造，约公元前20年扩建，公元70年被毁）。当代大使馆是这一运作序列中的第三座。
 
-### The Embassy vs. the broader Apocalypse event
+### 大使馆与更广阔的天启事件
 
-The broader Apocalypse is the unveiling phase during which the alliance's previously concealed work becomes openly known to humanity. The Embassy is the specific physical-operational site at which the Apocalypse becomes operationally complete.
+更广阔的天启是联盟先前被隐藏的工作向人类公开为人所知的揭示阶段。大使馆是天启在运作上变得完整的具体实体—运作场所。
 
-The relationship is one of **broader-event-and-specific-site**. The Apocalypse is the broader unveiling phase; the Embassy is the specific architectural-operational location at which the unveiling reaches its specific formal completion.
+二者的关系是一种**更广阔事件与具体场所**的关系。天启是更广阔的揭示阶段；大使馆是揭示达至其具体正式完成的具体建筑—运作场所。
 
-### The Embassy vs. the Cosmic Competition framework
+### 大使馆与宇宙竞争框架
 
-The Cosmic Competition framework concerns the broader cosmological evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification. The Embassy is the specific physical-operational location at which the inheritance event occurs following the evaluation phase's completion.
+宇宙竞争框架关乎更广阔的宇宙论评估阶段，在此阶段一个创造者文明评估其所造众人类的继承资格。大使馆是评估阶段完成之后继承事件所发生于其中的具体实体—运作场所。
 
-The relationship is one of **broader-evaluation-and-specific-inheritance-site**. The Cosmic Competition is the broader evaluation framework; the Embassy is the specific architectural-operational form within which the inheritance transmission occurs.
+二者的关系是一种**更广阔评估与具体继承场所**的关系。宇宙竞争是更广阔的评估框架；大使馆是继承传授所发生于其中的具体建筑—运作形式。
 
-### The Embassy vs. the alliance's residence on the home world
+### 大使馆与联盟在母星上的驻地
 
-The alliance's residence on the home world is the principal location for the alliance's day-to-day operational activities. The Embassy on Earth is a specific operational facility designated for the alliance's Earth-side work during the Aquarian-age operational phase.
+联盟在母星上的驻地是联盟日常运作活动的主要场所。地球上的大使馆是为联盟在水瓶座时代运作阶段的地球侧工作所指定的具体运作设施。
 
-The relationship is one of **home-world-base-and-Earth-side-operational-facility**. The home world is the alliance's principal residence; the Earth Embassy is a specific outpost facility with limited but specific operational functions.
+二者的关系是一种**母星基地与地球侧运作设施**的关系。母星是联盟的主要驻地；地球大使馆是一处功能有限但具体的前哨设施。
 
-## Modern reinterpretations
+## 现代重新诠释
 
-### The contemporary UFO/UAP disclosure movement
+### 当代UFO／UAP披露运动
 
-The broader question of extraterrestrial contact has received substantial recent academic and governmental attention, with substantial implications for the broader landscape within which the embassy project operates.
+外星接触这一更广阔的问题近来受到大量学术与政府关注，对大使馆计划所运作于其中的更广阔图景有重大影响。
 
-**Christopher Mellon** (former Deputy Assistant Secretary of Defense for Intelligence) has been a substantial public advocate for transparency on UAP (Unidentified Aerial Phenomena) issues, with substantial public appearances, op-eds, and policy advocacy across the 2017-2025 period. Mellon's specific advocacy has been principally focused on the UAP disclosure question rather than on specific religious-prophetic frameworks.
+**克里斯托弗·梅隆**（前国防部负责情报的副助理部长）一直是UAP（不明空中现象）议题透明化的重要公开倡导者，在2017–2025年间有大量公开露面、专栏文章及政策倡导。{{ footnote(id="5") }}梅隆的具体倡导主要聚焦于UAP披露问题，而非具体的宗教—先知框架。
 
-**Luis Elizondo** (former director of the U.S. Department of Defense's Advanced Aerospace Threat Identification Program, AATIP) became a substantial public figure following the December 2017 *New York Times* articles on the AATIP program and the subsequent Tom DeLonge/To the Stars Academy disclosures. Elizondo's 2024 book *Imminent: Inside the Pentagon's Hunt for UFOs* provided substantial public documentation of the U.S. government's UAP investigation programs.
+**路易斯·埃利桑多**（美国国防部先进航空航天威胁识别项目AATIP前主管）在2017年12月《纽约时报》关于AATIP项目的报道及随后的汤姆·迪朗／群星学院披露之后，成为重要的公众人物。埃利桑多2024年的著作《迫近：五角大楼追猎UFO内幕》为美国政府的UAP调查项目提供了大量公开记录。{{ cite(id="elizondo-imminent", text="[7]", title="埃利桑多，《迫近：五角大楼追猎UFO内幕》（2024年）") }}
 
-**David Grusch** (former U.S. intelligence officer, now retired) testified to the U.S. House Oversight Committee on July 26, 2023, providing substantial public testimony regarding alleged U.S. government UAP retrieval programs. The testimony was substantively significant in producing substantial subsequent congressional and media engagement with the broader UAP question.
+**大卫·格鲁什**（前美国情报官员，现已退休）于2023年7月26日向美国众议院监督委员会作证，就所称的美国政府UAP回收项目提供了大量公开证词。{{ cite(id="grusch-congressional-testimony", text="[8]", title="格鲁什，向美国众议院监督委员会作证（2023年7月26日）") }}该证词在实质上意义重大，引发了随后大量国会与媒体对更广阔UAP问题的关注。
 
-**Recent congressional hearings**. The U.S. Congress has conducted multiple substantial UAP-related hearings across the 2022-2025 period, with substantial bipartisan engagement and various legislative proposals. The 2023 UAP Disclosure Act, while substantially amended in committee, represented a substantive congressional engagement with the disclosure question.
+**近期国会听证会**。美国国会在2022–2025年间举行了多场重要的UAP相关听证会，有大量两党参与及各种立法提案。2023年的《UAP披露法案》虽在委员会中被大幅修订，但代表了国会对披露问题的一次实质性接触。
 
-**The mainstream UAP disclosure movement** has substantially expanded the cultural-political space within which extraterrestrial-contact discussions occur. The framework reads this expanded space as relevant background for the embassy project's contemporary diplomatic engagement, even where the disclosure movement's specific content does not engage the embassy project directly.
+**主流UAP披露运动**已大幅扩展了外星接触讨论所发生于其中的文化—政治空间。框架将这一扩展的空间解读为大使馆计划当代外交接触的相关背景，即便披露运动的具体内容并不直接论及大使馆计划。
 
-### Academic UAP studies
+### 学术UAP研究
 
-Academic engagement with UAP questions has substantially developed across the past several years.
+学术界对UAP问题的接触在过去数年间大幅发展。
 
-**The Stanford Sol Foundation** (established 2023, led by Garry Nolan and Peter Skafish at Stanford) has conducted substantial academic engagement with UAP questions, including academic conferences, publications, and broader academic-disciplinary engagement. The Sol Foundation's specific research focuses on the empirical question of UAP phenomena rather than on specific religious-prophetic frameworks.
+**斯坦福索尔基金会**（2023年成立，由斯坦福的加里·诺兰与彼得·斯卡菲什领导）就UAP问题进行了大量学术接触，包括学术会议、出版物及更广阔的学术学科接触。索尔基金会的具体研究聚焦于UAP现象的经验问题，而非具体的宗教—先知框架。
 
-**The Harvard Galileo Project** (established 2021, led by Avi Loeb at Harvard) has conducted substantial empirical research on UAP and broader questions of extraterrestrial intelligence. Loeb's research has been substantially focused on observational and empirical methodology, with various publications and broader public engagement across the 2021-2025 period.
+**哈佛伽利略计划**（2021年成立，由哈佛的阿维·勒布领导）就UAP及更广阔的外星智慧问题进行了大量经验研究。勒布的研究在很大程度上聚焦于观测与经验方法，在2021–2025年间有各种出版物及更广阔的公众接触。{{ cite(id="loeb-extraterrestrial", text="[9]", title="勒布，《地外文明》（2021年）——「奥陌陌」论点") }}{{ cite(id="loeb-interstellar", text="[10]", title="勒布，《星际》（2023年）——伽利略计划") }}
 
-**Other academic engagement** includes various publications, conferences, and institutional initiatives across multiple universities and research organizations, with the academic UAP studies field substantially expanding from its prior peripheral status.
+**其他学术接触**包括跨多所大学及研究机构的各种出版物、会议及机构倡议，学术UAP研究领域已从其先前的边缘地位大幅扩展。
 
-The framework's relationship to academic UAP studies is one of structural compatibility on the broader empirical question while extending substantially beyond what academic UAP research directly engages.
+框架与学术UAP研究的关系，是在更广阔的经验问题上具有结构性兼容，同时大幅延伸至学术UAP研究所直接论及之外。
 
-### Extraterritorial diplomatic precedents
+### 治外法权外交先例
 
-The legal-diplomatic framework within which the embassy operates draws on substantial diplomatic precedent.
+大使馆所运作于其中的法律—外交框架取自大量外交先例。
 
-**Vienna Convention on Diplomatic Relations** (1961). The Convention establishes the standard legal framework for diplomatic missions, with substantial implications for the embassy project's specific legal-diplomatic requirements.
+**《维也纳外交关系公约》**（1961年）。该公约为外交使团确立了标准法律框架，对大使馆计划的具体法律—外交要求有重大影响。
 
-**Vatican City State**. Established by the Lateran Treaty of 1929, Vatican City is the principal contemporary example of a sovereign extraterritorial entity occupying limited specific territory within a larger host state. The Vatican City precedent is substantially relevant for the embassy project's specific legal-diplomatic structure.
+**梵蒂冈城国**。由1929年《拉特兰条约》确立，梵蒂冈城是占据更大东道国之内有限特定领土的主权治外法权实体的主要当代范例。梵蒂冈城先例对大使馆计划的具体法律—外交结构有重大相关性。
 
-**Sovereign Military Order of Malta**. The Order's distinctive international-legal status (sovereign subject of international law without controlling specific territory in the conventional sense) provides one specific precedent for non-state-entity diplomatic engagement.
+**马耳他主权军事团**。该团独特的国际法律地位（国际法的主权主体，却不以常规意义控制特定领土）为非国家实体的外交接触提供了一个具体先例。
 
-**Other extraterritorial precedents** include various international organization headquarters (UN headquarters, European Union institutions, various other inter-governmental organization sites) and various specific diplomatic-mission arrangements across contemporary international law.
+**其他治外法权先例**包括各种国际组织总部（联合国总部、欧盟机构及各种其他政府间组织所在地）及当代国际法中各种具体的外交使团安排。
 
-The framework reads these precedents as the substantial legal-diplomatic infrastructure within which the embassy project's specific legal requirements can be operationally formalized.
+框架将这些先例解读为大使馆计划具体法律要求得以在运作上正式确立的大量法律—外交基础设施。
 
-### Sendy on the prophesied return
+### 桑迪论所预言的归来
 
-**Jean Sendy** developed substantial engagement with what would become the embassy framework, principally through his treatment of the Hebrew prophetic tradition and the broader Aquarian-age framework. Sendy's specific contributions include:
+**让·桑迪**对后来成为大使馆框架的内容有大量论述，主要通过他对希伯来先知传统及更广阔水瓶座时代框架的论述。桑迪的具体贡献包括：
 
-- The treatment of the Hebrew Bible's various prophetic passages as preserving substantive operational content concerning the alliance's projected return
-- The integration of these readings with the broader Aquarian-age framework Sendy developed in *L'ère du Verseau*
-- The specific identification of various Hebrew prophetic passages with the projected alliance return
+- 将《希伯来圣经》各种先知经文解读为保存了关于联盟所投射归来的实质性运作内容
+- 将这些解读与桑迪在《水瓶座时代》（L'ère du Verseau）中所发展的更广阔水瓶座时代框架相整合
+- 将各种希伯来先知经文与所投射的联盟归来加以具体认定
 
-Sendy's specific embassy development is more limited than the framework's contemporary articulation, but Sendy provides substantial methodological warrant for treating the Hebrew prophetic tradition as preserving substantive operational content.
+桑迪具体的大使馆论述较框架的当代阐述更为有限，但桑迪为将希伯来先知传统视为保存实质性运作内容提供了大量方法论依据。
 
-### Biglino on the prophesied return
+### 比格里诺论所预言的归来
 
-**Mauro Biglino**'s strict-translational engagement with the Hebrew Bible has produced limited specific engagement with the embassy project, though Biglino's broader treatment of the Hebrew Bible's specific prophetic content is structurally compatible with the embassy framework. Biglino's specific reading of the Hebrew prophetic literature as preserving substantive operational content (rather than as theological-symbolic content) provides one specific scholarly antecedent for the embassy framework's broader interpretive approach.
+**毛罗·比格里诺**对《希伯来圣经》的严格直译式论述，对大使馆计划的具体论述有限，但比格里诺对《希伯来圣经》具体先知内容的更广阔论述与大使馆框架在结构上兼容。比格里诺将希伯来先知文献解读为保存实质性运作内容（而非神学—象征内容）的具体读法，为大使馆框架更广阔的诠释方法提供了一个具体的学术先驱。
 
-### Wallis on the prophesied return
+### 沃利斯论所预言的归来
 
-**Paul Anthony Wallis**'s broader engagement with the alliance-mediated history includes some treatment of the projected return question, principally within the broader context of the various ancient texts' references to anticipated alliance-contact events. Wallis's specific embassy development is more limited than the framework's contemporary articulation.
+**保罗·安东尼·沃利斯**对联盟中介历史的更广阔论述，包括对所投射归来问题的一些论述，主要置于各种古代文本对所期待联盟接触事件之提及的更广阔语境之内。沃利斯具体的大使馆论述较框架的当代阐述更为有限。
 
-### The framework's relationship to the broader landscape
+### 框架与更广阔图景的关系
 
-The corpus's embassy framework is positioned within this landscape as follows: substantially source-grounded with detailed specifications drawn directly from Raëlian source material; structurally engaged with contemporary UFO/UAP disclosure movement at the broader cultural-political level; legally-diplomatically engaged with established extraterritorial-status precedents; structurally compatible with the broader Sendy-Biglino-Wallis tradition's reading of the Hebrew prophetic tradition; positioned as a present-day operational project rather than as a purely theoretical or interpretive framework; testable in the near term through direct observation of the project's actual progress (or lack thereof).
+本文集的大使馆框架在这一图景中的定位如下：实质上有来源依据，详尽规格直接取自雷尔派来源材料；在更广阔的文化—政治层面与当代UFO／UAP披露运动有结构性接触；在法律—外交上与既有治外法权地位先例有接触；与更广阔的桑迪—比格里诺—沃利斯传统对希伯来先知传统的解读在结构上兼容；被定位为一项当下的运作计划，而非纯粹理论或诠释的框架；通过对该计划实际进展（或缺乏进展）的直接观察，在近期内可加以检验。
 
-## Comparative observations
+## 比较观察
 
-Anticipated-return traditions appear across multiple cultural-religious frameworks worldwide, with substantial structural parallels to the framework's embassy reading. The corpus reads this cross-cultural pattern as evidence of broader operational realities preserved in fragmentary form across the various traditions.
+所期待归来的传统出现于全球多个文化—宗教框架之中，与框架的大使馆解读有大量结构性平行。本文集将这一跨文化模式解读为更广阔运作现实以片段形式保存于各种传统之中的证据。
 
-### Jewish Third Temple traditions
+### 犹太第三圣殿传统
 
-The Jewish tradition preserves the most directly relevant comparative material on the projected return.
+犹太传统保存了关于所投射归来最直接相关的比较材料。
 
-**Ezekiel's Temple** (Ezekiel 40-48) provides the most elaborate prophetic-architectural specifications in the Hebrew Bible. Ezekiel's vision details the dimensions, structures, courtyards, and ritual arrangements of a future temple, with substantial subsequent rabbinic and contemporary Jewish engagement. The Ezekiel specifications differ from the historical First and Second Temples in various specific respects, suggesting that the prophetic vision describes a third temple yet to be built.
+**以西结圣殿**（以西结书40-48章）提供了《希伯来圣经》中最详尽的先知—建筑规格。以西结的异象详述了一座未来圣殿的尺寸、结构、院落及礼仪安排，随后有大量拉比与当代犹太论述。以西结的规格在各种具体方面与历史上的第一、第二圣殿不同，暗示该先知异象描述的是一座尚待建造的第三圣殿。
 
-**The messianic-age Third Temple tradition**. Jewish tradition has long anticipated a Third Temple to be built in the messianic age. The principal positions include the Maimonidean view (that the Third Temple will be built by the Messiah upon his arrival, *Mishneh Torah*, *Hilchot Melachim* 11:1), various medieval and modern positions on whether construction must precede or follow the messianic arrival, and various contemporary positions on the relationship between Third Temple construction and broader messianic eschatology.
+**弥赛亚时代的第三圣殿传统**。犹太传统长久以来期待一座将于弥赛亚时代建造的第三圣殿。主要立场包括迈蒙尼德的观点（第三圣殿将由弥赛亚在其到来时建造，《密释纳托拉》，《诸王律法》11:1）、中世纪与近代关于建造须先于还是后于弥赛亚到来的各种立场，以及当代关于第三圣殿建造与更广阔弥赛亚末世论之关系的各种立场。
 
-**The Temple Movement** (contemporary). Various contemporary Jewish organizations advocate for active preparation toward Third Temple construction, including the Temple Institute (founded 1987), the Temple Mount Faithful, and various other organizations engaged in the preparation of ritual implements, the training of priests, and broader institutional preparation for the projected Third Temple's construction.
+**圣殿运动**（当代）。各种当代犹太组织主张积极筹备第三圣殿的建造，包括圣殿研究所（1987年成立）、圣殿山忠信者，以及各种其他从事礼仪器具筹备、祭司训练及更广阔机构筹备、为所投射第三圣殿建造作准备的组织。
 
-**The Temple Mount political situation** is the principal practical-political constraint on Third Temple construction in the contemporary period. The Temple Mount in Jerusalem hosts the al-Aqsa Mosque and the Dome of the Rock (both Islamic religious sites of substantial significance), with the broader Israeli-Palestinian-Islamic political situation creating substantial constraints on any potential construction project.
+**圣殿山政治局势**是当代第三圣殿建造的主要实际—政治制约。耶路撒冷的圣殿山上有阿克萨清真寺与圆顶清真寺（皆为意义重大的伊斯兰宗教场所），更广阔的以色列—巴勒斯坦—伊斯兰政治局势对任何潜在的建造项目造成了大量制约。
 
-The framework reads the Jewish Third Temple tradition as substantively preserving the operational content of the embassy framework within the distinctive Jewish theological-religious framing. The specific Jewish elaborations (the Ezekiel specifications, the messianic-age framework, the Temple Mount complications) reflect the tradition's distinctive content while preserving the underlying operational pattern.
+框架将犹太第三圣殿传统解读为在独特的犹太神学—宗教框架内实质上保存了大使馆框架的运作内容。具体的犹太详述（以西结的规格、弥赛亚时代框架、圣殿山的复杂局势）反映了该传统独特的内容，同时保存了底层的运作模式。
 
-### Christian Second Coming and Parousia traditions
+### 基督教第二次降临与再临传统
 
-The Christian tradition preserves substantial material on the **Parousia** (the projected Second Coming of Christ).
+基督教传统保存了关于**再临**（所投射的基督第二次降临）的大量材料。
 
-**The Synoptic Gospel apocalyptic discourses** (Matthew 24, Mark 13, Luke 21) provide the principal Gospel material on the Parousia. The discourses describe the projected return in elaborate apocalyptic-symbolic language, with substantial subsequent theological-historical engagement.
+**对观福音的启示性话语**（马太福音24章、马可福音13章、路加福音21章）提供了关于再临的主要福音书材料。这些话语以详尽的启示—象征语言描述了所投射的归来，随后有大量神学—历史论述。
 
-**The Pauline Parousia material**. Paul's letters develop the Parousia tradition extensively, with 1 Thessalonians 4:13-18 providing the principal Pauline statement on the projected return ("the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God").
+**保罗的再临材料**。保罗的书信广泛发展了再临传统，《帖撒罗尼迦前书》4:13-18提供了保罗关于所投射归来的主要陈述（「主必亲自从天降临，有呼叫的声音和天使长的声音，又有神的号吹响」）。
 
-**The Book of Revelation**. The Book of Revelation (the Apocalypse of John) provides the most elaborate New Testament treatment of the projected return, with substantial apocalyptic-symbolic content. The detailed treatment of Revelation lives in the [Apocalypse](../apocalypse/) entry.
+**《启示录》**。《启示录》（约翰的天启）提供了新约对所投射归来最详尽的论述，含大量启示—象征内容。《启示录》的详尽论述见于[天启](../apocalypse/)条目。
 
-**Subsequent Christian theological development**. Christian theological tradition has developed the Parousia material extensively across the past two millennia, with substantial variations across the Catholic, Orthodox, Protestant, and various other Christian traditions. The principal contemporary positions include various amillennialist, premillennialist, and postmillennialist frameworks within Protestant tradition; various Catholic and Orthodox positions on the relationship between the Parousia and broader eschatology; and various contemporary scholarly engagements with the historical and theological content.
+**随后的基督教神学发展**。基督教神学传统在过去两千年间广泛发展了再临材料，在天主教、东正教、新教及各种其他基督教传统之间有大量变体。主要的当代立场包括新教传统内的各种无千禧年派、前千禧年派与后千禧年派框架；天主教与东正教关于再临与更广阔末世论之关系的各种立场；以及当代对其历史与神学内容的各种学术论述。
 
-The framework reads the Christian Parousia tradition as substantively preserving the operational content of the embassy framework within the distinctive Christian theological-religious framing.
+框架将基督教再临传统解读为在独特的基督教神学—宗教框架内实质上保存了大使馆框架的运作内容。{{ cite(id="wright-resurrection-son-of-god", text="[11]", title="赖特，《神子的复活》（2003年）——复活与再临") }}{{ cite(id="sandt-zangenberg-matthew-james-didache", text="[12]", title="范德桑特与赞根贝格，《马太、雅各与十二使徒遗训》（2008年）") }}
 
-### Islamic Mahdi traditions
+### 伊斯兰马赫迪传统
 
-The Islamic tradition preserves substantial material on anticipated-figure traditions.
+伊斯兰传统保存了关于所期待人物传统的大量材料。
 
-**The Mahdi tradition**. Both Sunni and Shia Islamic traditions preserve substantial material on the Mahdi (the "guided one"), an anticipated figure who will appear at the end of times to restore justice and righteousness. The Sunni Mahdi tradition is more diffuse; the Shia Mahdi tradition (particularly the Twelver Shia tradition's specific identification of the Mahdi with the Twelfth Imam Muhammad al-Mahdi, in occultation since 874 CE) is more elaborate.
+**马赫迪传统**。逊尼派与什叶派伊斯兰传统都保存了关于马赫迪（「受引导者」）的大量材料，他是一位将于末世出现以恢复正义与公义的所期待人物。逊尼派的马赫迪传统较为分散；什叶派的马赫迪传统（尤其是十二伊玛目派什叶派将马赫迪与自874年起隐遁的第十二伊玛目穆罕默德·马赫迪的具体认定）较为详尽。
 
-**The Isa (Jesus) tradition in Islam**. Islamic tradition preserves substantial material on the projected return of Isa (Jesus), particularly in the Hadith literature. The Islamic Isa tradition treats Jesus as having been raised to heaven without dying, with a projected return at the end of times to participate in the broader eschatological events.
+**伊斯兰中的尔撒（耶稣）传统**。伊斯兰传统保存了关于尔撒（耶稣）所投射归来的大量材料，尤其是在圣训文献中。伊斯兰的尔撒传统认为耶稣未经死亡被提升至天上，将于末世归来以参与更广阔的末世事件。
 
-**The relationship between the Mahdi and Isa**. Various Islamic traditions develop substantial material on the projected coordinated arrival of both the Mahdi and Isa, with various specific frameworks for understanding the relationship between the two figures.
+**马赫迪与尔撒的关系**。各种伊斯兰传统对马赫迪与尔撒二者所投射的协同到来发展了大量材料，对理解二者关系有各种具体框架。
 
-The framework reads the Islamic Mahdi and Isa traditions as substantively preserving the operational content of the projected return framework within the distinctive Islamic theological-religious framing.
+框架将伊斯兰的马赫迪与尔撒传统解读为在独特的伊斯兰神学—宗教框架内实质上保存了所投射归来框架的运作内容。{{ cite(id="sachedina-islamic-messianism", text="[13]", title="萨切迪纳，《伊斯兰弥赛亚主义》（1981年）——十二伊玛目派什叶派的马赫迪") }}{{ cite(id="cook-muslim-apocalyptic", text="[14]", title="库克，《穆斯林启示研究》（2002年）") }}
 
-### Buddhist Maitreya tradition
+### 佛教弥勒传统
 
-The Buddhist tradition preserves the **Maitreya** tradition — the anticipated future Buddha who will appear in the world following the decline of the present Buddhist tradition.
+佛教传统保存了**弥勒**传统——即将于当前佛教传统衰落之后出现于世的所期待未来佛。
 
-**The basic Maitreya framework**. Maitreya is identified as the next Buddha following Śākyamuni Buddha (the historical Buddha), currently residing in the Tuṣita heaven and projected to appear in the world at a specific future moment.
+**弥勒的基本框架**。弥勒被认定为继释迦牟尼佛（历史上的佛陀）之后的下一位佛，现居兜率天，预计将于某一特定未来时刻出现于世。
 
-**The Maitreya iconographic tradition**. Maitreya is depicted in various iconographic forms across the Buddhist tradition, with substantial regional variations (the seated Maitreya of the Indian-Nepalese tradition, the standing Maitreya of various East Asian traditions, the laughing-Buddha Maitreya of the Chinese folk tradition).
+**弥勒的图像传统**。弥勒在佛教传统中以各种图像形式被描绘，有大量地区性变体（印度—尼泊尔传统的坐姿弥勒、各东亚传统的立姿弥勒、中国民间传统的笑佛弥勒）。
 
-**The Raëlian connection**. Notably, Raël has been identified within the Raëlian movement (and specifically in the published *Maitreya* book) as the Maitreya figure of the Buddhist tradition, providing one specific connection between the Buddhist Maitreya tradition and the Raëlian framework.
+**雷尔派的关联**。值得注意的是，雷尔在雷尔运动内（尤其是在出版的《弥勒》一书中）被认定为佛教传统的弥勒人物，为佛教弥勒传统与雷尔派框架之间提供了一个具体关联。
 
-The framework reads the Buddhist Maitreya tradition as substantively preserving the operational content of the projected return framework within the distinctive Buddhist religious framing.
+框架将佛教弥勒传统解读为在独特的佛教宗教框架内实质上保存了所投射归来框架的运作内容。
 
-### Hindu Kalki avatar
+### 印度教迦尔吉化身
 
-The Hindu tradition preserves the **Kalki avatar** tradition — the projected tenth and final avatar of Vishnu, anticipated to appear at the end of the present Kali Yuga to restore righteousness and inaugurate a new cosmic age.
+印度教传统保存了**迦尔吉化身**传统——即毗湿奴所投射的第十个也是最后一个化身，预计将于当前迦梨时代之末出现，以恢复公义并开启一个新的宇宙时代。
 
-**The Kalki framework**. Kalki is described in various Puranic texts as appearing on a white horse, wielding a sword, and conducting the cosmic-eschatological cleansing that ends the present Kali Yuga and inaugurates the new Satya Yuga.
+**迦尔吉的框架**。各《往世书》文本将迦尔吉描述为骑乘白马、挥舞利剑，进行结束当前迦梨时代并开启新的圆满时代的宇宙—末世净化。
 
-**The cosmic-cyclical context**. The Kalki tradition operates within the broader Hindu cyclic-cosmology framework (treated more fully in the [Cosmic Chain](../cosmic-chain/) entry), with the Kalki avatar marking the transition between cosmic ages.
+**宇宙—循环的语境**。迦尔吉传统运作于更广阔的印度教循环—宇宙论框架内（在[宇宙链](../cosmic-chain/)条目中有更充分的论述），迦尔吉化身标志着宇宙时代之间的过渡。
 
-The framework reads the Hindu Kalki tradition as substantively preserving the operational content of the projected return framework within the distinctive Hindu religious-cosmological framing.
+框架将印度教迦尔吉传统解读为在独特的印度教宗教—宇宙论框架内实质上保存了所投射归来框架的运作内容。{{ cite(id="doniger-the-hindus", text="[15]", title="多尼格，《印度教徒：一部另类历史》（2009年）——迦尔吉化身") }}
 
-### Zoroastrian Saoshyant
+### 琐罗亚斯德教苏什扬特
 
-The Zoroastrian tradition preserves the **Saoshyant** tradition — the anticipated savior figure (or sequence of three savior figures) who will conduct the cosmic-eschatological renewal at the end of the present cosmic age.
+琐罗亚斯德教传统保存了**苏什扬特**传统——即将于当前宇宙时代之末进行宇宙—末世更新的所期待救主人物（或三位救主人物的序列）。
 
-**The Saoshyant framework**. Various Zoroastrian texts (the Avesta, the Pahlavi literature, various subsequent traditions) develop the Saoshyant tradition with substantial specific content. The principal Saoshyant figure (Astvat-ereta) is projected to conduct the *frashokereti* (the cosmic renewal), restoring the cosmos to its original perfect state.
+**苏什扬特的框架**。各种琐罗亚斯德教文本（《阿维斯陀》、巴列维文献及各种随后传统）以大量具体内容发展了苏什扬特传统。主要的苏什扬特人物（阿斯特瓦特-埃雷塔）预计将进行frashokereti（宇宙更新），将宇宙恢复至其原初的完美状态。
 
-**The historical influence**. The Zoroastrian Saoshyant tradition is widely recognized as having substantial historical influence on the development of Jewish, Christian, and Islamic eschatological frameworks, particularly through the Persian period of Israelite history and the broader Hellenistic-religious synthesis.
+**历史影响**。琐罗亚斯德教的苏什扬特传统被广泛认为对犹太教、基督教与伊斯兰教末世论框架的发展有大量历史影响，尤其是通过以色列历史的波斯时期及更广阔的希腊化—宗教综合。
 
-The framework reads the Zoroastrian Saoshyant tradition as substantively preserving the operational content of the projected return framework within the distinctive Zoroastrian religious framing, with the broader historical influence on Western eschatological tradition being one specific channel through which the broader operational content has been preserved.
+框架将琐罗亚斯德教苏什扬特传统解读为在独特的琐罗亚斯德教宗教框架内实质上保存了所投射归来框架的运作内容，而其对西方末世论传统的更广阔历史影响，是更广阔运作内容得以保存的一个具体渠道。{{ cite(id="boyce-zoroastrians", text="[16]", title="博伊斯，《琐罗亚斯德教徒》（2001年）——苏什扬特与frashokereti") }}
 
-### Indigenous return-of-creators traditions
+### 原住民创造者归来传统
 
-Various indigenous traditions preserve substantial material on anticipated returns of creator-figures.
+各种原住民传统保存了关于创造者形象所期待归来的大量材料。
 
-**Mesoamerican return-of-Quetzalcoatl tradition**. The Aztec and broader Mesoamerican tradition preserves substantial material on the projected return of Quetzalcoatl (the feathered serpent deity), with the projected return having substantial historical significance during the early period of the Spanish conquest (the Aztec emperor Moctezuma II's reported initial identification of Cortés as Quetzalcoatl returning, though the historical accuracy of this identification has been substantially debated in subsequent scholarship).
+**中美洲羽蛇神归来传统**。阿兹特克及更广阔的中美洲传统保存了关于羽蛇神（羽毛蛇神祇）所投射归来的大量材料，该所投射归来在西班牙征服初期有重大历史意义（据报道阿兹特克皇帝蒙特祖玛二世最初将科尔特斯认定为归来的羽蛇神，尽管这一认定的历史准确性在随后的学术中受到大量争论）。{{ cite(id="carrasco-quetzalcoatl", text="[17]", title="卡拉斯科，《羽蛇神与帝国的反讽》（1982年）——归来预言") }}
 
-**Various other indigenous traditions** preserve return-of-creator content within their distinctive cultural-religious framings, with substantial specific material across multiple geographic regions (Polynesian, North American, South American, African, Australian Aboriginal, and various other indigenous traditions).
+**各种其他原住民传统**在其独特的文化—宗教框架内保存了创造者归来的内容，跨多个地理区域有大量具体材料（波利尼西亚、北美、南美、非洲、澳大利亚原住民及各种其他原住民传统）。
 
-The framework reads the indigenous return-of-creators traditions as substantively preserving the operational content of the projected return framework within the various distinctive cultural-religious framings.
+框架将原住民创造者归来传统解读为在各种独特的文化—宗教框架内实质上保存了所投射归来框架的运作内容。
 
-### The convergence
+### 聚合
 
-The corpus's working position on the comparative-anticipated-return question is that the global recurrence of anticipated-return traditions across cultural-religious frameworks is meaningful as evidence of a genuine underlying reality. The mainstream scholarly explanation — which generally treats the various traditions as developing their own anticipated-return content through internal religious-cultural processes combined with cultural diffusion — is read by the corpus as substantially insufficient to account for the breadth and the specific structural parallels (the projected return of specific creator-figures, the cosmic-eschatological context, the specific operational features) that appear consistently across geographically and chronologically separated traditions.
+本文集对比较—所期待归来问题的工作立场是：所期待归来传统在各文化—宗教框架间的全球性反复出现，作为一个真实底层现实的证据是有意义的。{{ footnote(id="6") }}主流学术解释——一般将各种传统视为通过内部宗教—文化过程结合文化传播而发展出各自的所期待归来内容——被本文集解读为大体上不足以解释那些在地理与年代上相隔的传统中一致出现的广度及具体结构平行（特定创造者形象的所投射归来、宇宙—末世语境、具体运作特征）。
 
-The framework's specific reading is that the global anticipated-return pattern preserves common memory of the broader cosmic-political situation that the embassy framework articulates, with each cultural-religious tradition preserving the memory in its own terms and with its own specific details reflecting its own perspective and its own subsequent transmission history. The Jewish Third Temple tradition preserves the operational content most directly relative to the embassy framework's specific architectural-operational specifications; the Christian Parousia, Islamic Mahdi, Buddhist Maitreya, Hindu Kalki, Zoroastrian Saoshyant, and various indigenous return-of-creators traditions preserve the operational content through their respective cultural channels.
+框架的具体解读是：全球所期待归来的模式保存了对大使馆框架所阐述的更广阔宇宙—政治处境的共同记忆，每个文化—宗教传统都以其自身的术语、并以反映其自身视角及其自身随后传承历史的具体细节来保存这一记忆。犹太第三圣殿传统相对于大使馆框架具体的建筑—运作规格而言，最直接地保存了运作内容；基督教再临、伊斯兰马赫迪、佛教弥勒、印度教迦尔吉、琐罗亚斯德教苏什扬特及各种原住民创造者归来传统，则通过各自的文化渠道保存了运作内容。
 
-The corpus does not require rejecting all of the mainstream scholarly framework. Cultural diffusion certainly occurred across the historical period, and the anticipated-return traditions across cultures show both common structural features (preserving the original framework) and culturally specific elaborations (reflecting the diffusion and local development). What the corpus's framework adds is the underlying cosmic-political situation that gave rise to the structural commonalities — a situation that the mainstream framework, lacking the corpus's broader cosmological framework, has had no way to identify and has therefore had to attribute to combinations of independent religious development and cultural diffusion.
-
-## See also
-
-- [Cosmic Competition](../cosmic-competition/)
-- [Doubled Signature](../doubled-signature/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Apocalypse](../apocalypse/)
-- [Raël](../rael/)
-- [Yahweh](../yahweh/)
-- [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Prophet](../prophet/)
-- [Jesus](../jesus/)
-- [Moses](../moses/)
-- [Atomic Threshold](../atomic-threshold/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Genesis](../genesis/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. The "New Commandments — Your Mission" section is the principal source for the embassy specifications.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*. The October 7, 1975 Roc Plat second-contact material elaborates the embassy specifications and the broader Israeli-context material.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagon Press, 2005 (English edition collecting the principal Raëlian source-material). The 2005 commentary by Raël includes substantial embassy-project status updates and the December 13, 1997 message.
-
-International Raëlian Movement. *Optional Protocol Concerning Embassies for Extraterrestrials*. Submitted to the United Nations, 2015.
-
-International Raëlian Movement. Various official communications regarding the embassy project across the 2021-2025 period, including AEDC announcements, mayoral-presentation reports, and the 2024 Memorandum of Collaboration announcement.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-The Hebrew Bible (BHS, Stuttgart Vulgate, NRSV).
-
-Ezekiel 40-48 (the prophetic-architectural specifications of the future temple).
-
-The Greek New Testament. Nestle-Aland, 28th rev. ed., 2012.
-
-Vienna Convention on Diplomatic Relations. Signed Vienna, April 18, 1961; entered into force April 24, 1964.
-
-Lateran Treaty. Signed Vatican City, February 11, 1929 (establishing Vatican City State).
-
-Mellon, Christopher. Various op-eds and policy statements on UAP transparency, 2017-2025.
-
-Elizondo, Luis. *Imminent: Inside the Pentagon's Hunt for UFOs*. William Morrow, 2024.
-
-Grusch, David. Testimony to U.S. House Oversight Committee, July 26, 2023.
-
-Loeb, Avi. *Extraterrestrial: The First Sign of Intelligent Life Beyond Earth*. Houghton Mifflin Harcourt, 2021.
-
-Loeb, Avi. *Interstellar: The Search for Extraterrestrial Life and Our Future Beyond Earth*. Mariner, 2023.
-
-Sol Foundation (Stanford University). Various publications and conferences, 2023-2025.
-
-Galileo Project (Harvard University). Various publications and observational reports, 2021-2025.
-
-Maimonides. *Mishneh Torah*, *Hilchot Melachim* 11:1 (the principal Maimonidean position on the Third Temple).
-
-Levi, Eliyahu. *The Third Temple: A Study of Future Worship*. Jerusalem, 2010.
-
-Goldberg, Hillel. *The Fight for Jerusalem: Radical Islam, the West, and the Future of the Holy City*. Regnery, 2007.
-
-Sandt, Huub van de, and Jürgen K. Zangenberg, eds. *Matthew, James, and Didache: Three Related Documents in Their Jewish and Christian Settings*. Society of Biblical Literature, 2008.
-
-Wright, N. T. *The Resurrection of the Son of God*. Christian Origins and the Question of God 3. Fortress Press, 2003.
-
-Halperin, David J. *The Faces of the Chariot: Early Jewish Responses to Ezekiel's Vision*. Mohr Siebeck, 1988.
-
-Sachedina, Abdulaziz Abdulhussein. *Islamic Messianism: The Idea of Mahdi in Twelver Shi'ism*. State University of New York Press, 1981.
-
-Cook, David. *Studies in Muslim Apocalyptic*. Darwin Press, 2002.
-
-Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. Routledge, 2nd ed., 2008.
-
-Buswell, Robert E., Jr., and Donald S. Lopez Jr. *The Princeton Dictionary of Buddhism*. Princeton University Press, 2014.
-
-Doniger, Wendy. *The Hindus: An Alternative History*. Penguin, 2009.
-
-Boyce, Mary. *Zoroastrians: Their Religious Beliefs and Practices*. Routledge, 2nd ed., 2001.
-
-Carrasco, Davíd. *Quetzalcoatl and the Irony of Empire: Myths and Prophecies in the Aztec Tradition*. University of Chicago Press, 1982.
-
-"Vienna Convention on Diplomatic Relations." *United Nations Treaty Series*, vol. 500, p. 95.
-
-"Vatican City State." *Encyclopaedia Britannica*. <https://www.britannica.com/place/Vatican-City>
-
-"Third Temple." *Wikipedia*. <https://en.wikipedia.org/wiki/Third_Temple>
-
-"Parousia." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Parousia>
-
-"Mahdi." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Mahdi-Islamic-concept>
-
-"Maitreya." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Maitreya-Buddhism>
-
-"Kalki." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Kalki>
-
-International Raëlian Movement. <https://www.rael.org>
-
-Embassy for the Elohim. <https://elohimembassy.org>
+本文集并不要求拒斥主流学术框架的全部。文化传播在历史时期确实发生过，而各文化间所期待归来的传统既显示出共同的结构特征（保存了原始框架），也显示出文化上特定的详述（反映了传播与本地发展）。本文集框架所增添的，是产生这些结构共性的底层宇宙—政治处境——一个主流框架因缺乏本文集更广阔的宇宙论框架而无从识别、因而不得不归因于独立宗教发展与文化传播之组合的处境。

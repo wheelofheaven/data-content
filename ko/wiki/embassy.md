@@ -1,606 +1,597 @@
 +++
 title = "대사관"
-description = "대사관은 라엘 운동의 계획에서 엘로힘이 지구로 공식 귀환할 때를 위해 마련된 공식 영접 시설이다. Wheel of Heaven은 이를 인류가 준비하는 귀환 시나리오의 핵심 기반시설로 언급한다."
+slug = "embassy"
+description = "대사관은 엘로힘 동맹의 공식 도래를 영접하고, 그 도래가 개시할 동맹과 인류 대표 사이의 회담을 위한 운영 장소로 기능하도록 마련된, 주최국이 치외법권 지위를 부여한 특정 토지 위에 세워진 지정 물리적 구조물이다. 대사관 사양은 1973년 접촉에서 주어졌으며 이후의 교신에서 상세히 보완되었다. 출처는 본래 예루살렘 인근 이스라엘을 강하게 선호하며, 대사관을 유대교 종말론 전통의 제3성전으로 식별했다. 1997년 12월 13일의 메시지는 이스라엘의 거듭된 거부에 따라 다른 나라로의 이전을 허가했다."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the embassy", "the Third Temple", "the embassy of the Elohim", "the residence", "the alliance embassy"]
+claim_type = "framework"
+alternative_names = ["대사관", "제3성전", "엘로힘의 대사관", "거주지", "동맹 대사관"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "대사관의 예상되는 상속 사건이 그 안에서 일어나는 물병자리 시대의 계시." },
+    { title = "Third Temple", path = "wiki/third-temple", description = "출처가 대사관과 동일시하는 유대교의 예언적·종말론적 성전." },
+    { title = "New Jerusalem", path = "wiki/new-jerusalem", description = "이 틀이 대사관의 예상 역할과 연관 지어 읽는 요한계시록의 환상." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "대사관의 상속 사건이 그 한 구체적 국면을 이루는 더 넓은 우주론적 틀." },
+    { title = "Elohim", path = "wiki/elohim", description = "대사관이 그 공식 도래를 영접하기 위해 지어지는 동맹." },
+    { title = "Raël", path = "wiki/rael", description = "대사관 프로젝트의 조직을 맡은 예언자(클로드 보리옹)." },
+]
+
+footnotes = [
+    { content = "대사관은 이 전집의 틀에서 가장 출처에 근거한 요소이다. 우주적 경쟁, 이중 서명, 우주 사슬 — 이 모두가 출처를 넘어서는 상당한 전집의 해석적 구축을 수반한다 — 과 달리, 대사관의 상세한 건축 사양, 위치 선호, 운영 요건, 예상 역할은 라엘 출처 자료(*진실을 말하는 책*, 1974, '새 계명 — 당신의 사명')에서 직접 나온다. 전집의 해석적 기여는 주로 대사관 자료를 더 넓은 물병자리 시대의 틀과 통합한 데 있다." },
+    { content = "대사관은 이례적으로, 가까운 미래에 운영상으로 검증 가능한 전집 틀의 몇 안 되는 요소 중 하나이다. 라엘 운동이 예상하는 2027–2030년 일정 안에서 그 구조물이 실제로 건설되는지(또는 건설되지 않는지)는, 대부분의 다른 틀 요소가 허용하지 않는 방식으로, 출처 자료의 예측적 내용에 관한 직접적인 경험적 증거를 제공할 것이다. 전집은 프로젝트의 일정과 현재 단계를 오늘날의 사실로 기록하되 구체적 날짜를 확정된 것으로 보증하지는 않는다 — 실제 진척은 외교 협상과 주최국의 정치적 조건에 달려 있다." },
+    { content = "출처가 대사관을 유대교의 예언적·종말론적 제3성전과 동일시하는 것은 명시적이다. 대사관은 솔로몬의 제1성전(기원전 950년경 건립, 기원전 586년 파괴)과 제2성전(기원전 516년경 건립, 헤롯이 확장, 서기 70년 파괴)을 계승하는데, 이 틀은 각각을 운영 기간 동안 동맹의 현존을 위한 물리적 장소로 기능한 것으로 읽는다. 주류 유대교 신학·역사 전통은 대사관을 제3성전과 동일시하는 라엘의 견해를 받아들이지 않는다. 전집은 그 동일시를 주류가 보증한 해석이 아니라 출처의 명시적 주장으로 기록한다. 전집은 에스겔 47:1–2(성전 문지방에서 흘러나오는 물)를 대사관의 예상 역할의 예표로 읽는다." },
+    { content = "본래 출처의 선호는 대사관을 예루살렘 인근 이스라엘 — 동맹의 원래 에덴 작전과 확장된 에덴 혈통 프로젝트의 지리적 현장 — 에 두는 것이었다. 1991년 이후 치외법권 지위 부여를 요청한 여러 공식 요청에 대해 이스라엘이 거듭 거부하자, 1997년 12월 13일 야훼의 메시지는 라엘 운동이 '지구상의 모든 나라'에서 그 지위를 구하도록 공식 허가했으며, 이스라엘에는 최종 선택권만이 남았다. 전집은 위치 문제를 출처에 근거하되 실제로는 미해결인 것으로 다룬다." },
+    { content = "전집은 동시대의 UAP 공개 담론(2017년 뉴욕 타임스의 AATIP 폭로, 루이스 엘리손도의 *임박*, 2023년 데이비드 그루시의 의회 증언, 아비 로엡의 갈릴레오 프로젝트와 오우무아무아 논증, 솔 재단)을 대사관의 예상되는 공개 접촉이 일어날 오늘날의 문화적 맥락으로 다룬다 — UAP 현상이 엘로힘 동맹이라거나 공개 운동이 대사관을 보증한다고 주장하지 않으면서. 전집은 그 궤적을 공개적 외계 접촉의 개연성 조건의 변화로 읽되, 틀의 확증으로 읽지는 않는다." },
+    { content = "전집은 귀환 인물 기대의 범문화적 반복(유대교의 메시아와 제3성전, 기독교의 재림, 이슬람의 마흐디, 힌두교의 칼키 화신, 조로아스터교의 사오샨트, 아즈텍의 케찰코아틀 귀환)을, 이 틀이 동맹의 예상된 귀환에 대한 단편적 기억이자 그 예기로 읽는 수렴으로 읽는다. 전집은 이 전통들이 한결같이 직접적 기억이라고 주장하지 않는다. 각 전통의 구별되는 신학적 내용을 보존하면서, 그 수렴이 틀과 부합하는 것으로 기록한다." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "'새 계명 — 당신의 사명'"
+note = "기초가 되는 라엘 출처 — 상세한 대사관 건축 사양, 제3성전 동일시, 그리고 동맹의 공개적 귀환을 위한 조건."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "보리옹의 두 번째 저작(1975) — 1975년 10월 7일 로크 플라에서의 두 번째 접촉으로 보완된 대사관 사양과 라엘의 조직자 역할."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "히브리 성경의 성전 및 예언 자료를 동맹 접촉 내용을 보존한 것으로 읽는 상디의 독해."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "에스겔 성전 환상 자료에 대한 비글리노의 엄격한 직역적 독해."
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "예언적 귀환 자료의 바탕에 깔린 동맹 접촉 틀에 대한 월리스의 다룸."
+
+[[extra.references]]
+id = "vienna-convention-diplomatic-relations"
+note = "대사관 부지가 반드시 갖추어야 하는, 외교 공관과 치외법권 지위에 관한 주요한 현대 법적 틀."
+
+[[extra.references]]
+id = "lateran-treaty"
+note = "바티칸 시국을 수립한 1929년 조약 — 종교적 실체가 주권적 치외법권 영토를 보유하는 가장 가까운 법적 선례."
+
+[[extra.references]]
+id = "maimonides-mishneh-torah"
+note = "메시아 시대와 성전 재건에 관한 고전적 유대 율법의 입장(『왕들의 법』 11:1)."
+
+[[extra.references]]
+id = "halperin-faces-of-the-chariot"
+note = "에스겔의 성전 및 병거 환상의 수용에 관한 핼퍼린의 연구 — 제3성전 배후의 에스겔 40–48장 자료."
+
+[[extra.references]]
+id = "goldberg-fight-for-jerusalem"
+note = "대사관의 본래 위치 선호와 관련된, 예루살렘과 성전산을 둘러싼 동시대의 다툼에 대한 정치·역사적 맥락."
+
+[[extra.references]]
+id = "wright-resurrection-son-of-god"
+note = "초기 기독교의 부활 신앙과 재림 기대에 대한 라이트의 표준적 다룸."
+
+[[extra.references]]
+id = "sandt-zangenberg-matthew-james-didache"
+note = "예언적 귀환 자료의 유대-기독교적 환경에 대한 학술적 맥락."
+
+[[extra.references]]
+id = "sachedina-islamic-messianism"
+note = "12이맘파 시아 이슬람의 마흐디 기대에 대한 표준적 다룸."
+
+[[extra.references]]
+id = "cook-muslim-apocalyptic"
+note = "이슬람 종말론과 종말 전통에 대한 표준적 다룸."
+
+[[extra.references]]
+id = "doniger-the-hindus"
+note = "칼키 미래 화신 기대를 포함한 도니거의 개관."
+
+[[extra.references]]
+id = "boyce-zoroastrians"
+note = "조로아스터교의 사오샨트 미래 구원자와 프라쇼케레티 세계 갱신 교리에 대한 보이스의 다룸."
+
+[[extra.references]]
+id = "carrasco-quetzalcoatl"
+note = "아즈텍 전통의 케찰코아틀 귀환 예언에 대한 카라스코의 다룸."
+
+[[extra.references]]
+id = "elizondo-imminent"
+note = "전 펜타곤 AATIP 책임자였던 엘리손도의 서술 — 동시대 UAP 공개 운동의 주요 텍스트."
+
+[[extra.references]]
+id = "grusch-congressional-testimony"
+note = "그루시의 2023년 선서 의회 증언 — 동시대 UAP 공개 담론의 분수령."
+
+[[extra.references]]
+id = "loeb-extraterrestrial"
+note = "오우무아무아가 외계 기술이었을 수 있다는 로엡의 논증 — 접촉 문제에 대한 동시대 과학적 맥락."
+
+[[extra.references]]
+id = "loeb-interstellar"
+note = "유물 탐색 논증의 확장과 갈릴레오 프로젝트 관측 프로그램에 대한 로엡의 다룸."
 
 [extra.infobox]
-type = "Designated physical structure for the formal arrival of the Elohim alliance"
-basic_specifications = "≈4 km² site (1 km radius); conference room for 21; dining room for 21; seven guest rooms with separate bathrooms; swimming pool; landing platform for 12-m spacecraft; protective wall (max 2 stories); residence ≥1,000 m from the wall"
-legal_requirement = "Extraterritorial status granted by host country"
-preferred_original_location = "Israel near Jerusalem (per 1973-1974 source material)"
-current_authorization = "All nations of Earth (per the December 13, 1997 message from Yahweh)"
-identification_with_third_temple = "Yes; the source explicitly identifies the embassy as the Third Temple of Jewish apocalyptic tradition"
-prophetic_imagery = "Ezekiel 47:1-2; Acts 15:16; Isaiah 2:2-4; Micah 4:1-3"
-current_state_2026 = "2024 Memorandum of Collaboration with undisclosed national government; site acquisition phase 2025-2027; planning and construction 2027-2030"
-project_responsibility = "International Raëlian Movement; Daniel Turcotte as Raëlian guide responsible for the embassy project"
-distinguished_from = "The Solomonic First Temple; the Second Temple; the broader Apocalypse event; the Cosmic Competition framework"
-status_in_source_material = "Substantially source-grounded; detailed architectural specifications come directly from Raëlian source material"
-principal_text = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), 'The New Commandments — Your Mission'; *Extra-Terrestrials Took Me to Their Planet* (1975); the December 13, 1997 message"
+type = "엘로힘 동맹의 공식 도래를 위한 지정 물리적 구조물"
+basic_specifications = "≈4 km² 부지(반경 1 km); 21인용 회의실; 21인용 식당; 별도 욕실을 갖춘 일곱 개의 객실; 수영장; 12 m 우주선용 착륙대; 보호 담장(최대 2층); 담장에서 ≥1,000 m 떨어진 거주지"
+legal_requirement = "주최국이 부여한 치외법권 지위"
+preferred_original_location = "예루살렘 인근 이스라엘(1973–1974년 출처 자료에 따름)"
+current_authorization = "지구상의 모든 나라(1997년 12월 13일 야훼의 메시지에 따름)"
+identification_with_third_temple = "그렇다; 출처는 대사관을 유대교 종말론 전통의 제3성전으로 명시적으로 식별한다"
+prophetic_imagery = "에스겔 47:1-2; 사도행전 15:16; 이사야 2:2-4; 미가 4:1-3"
+current_state_2026 = "비공개 국가 정부와의 2024년 협력 양해각서; 2025-2027년 부지 취득 단계; 2027-2030년 기획 및 건설"
+project_responsibility = "국제 라엘 운동; 대사관 프로젝트를 책임지는 라엘 가이드 다니엘 튀르코트"
+distinguished_from = "솔로몬의 제1성전; 제2성전; 더 넓은 계시 사건; 우주적 경쟁 틀"
+status_in_source_material = "상당 부분 출처에 근거함; 상세한 건축 사양은 라엘 출처 자료에서 직접 나온다"
+principal_text = "*진실을 말하는 책*(보리옹/라엘, 1974), '새 계명 — 당신의 사명'; *외계인이 나를 그들의 행성으로 데려갔다*(1975); 1997년 12월 13일의 메시지"
 +++
 
-The **Embassy** is the designated physical structure, located on a specific piece of land granted extraterritorial status by a host country, prepared to receive the formal arrival of the Elohim alliance and to serve as the operational location for the meetings between the alliance and humanity's representatives that the arrival will inaugurate. The embassy is the most operationally specific element of the broader Aquarian-age program the alliance has proposed for humanity, with detailed architectural specifications given in the 1973 contact between Yahweh and Raël (Claude Vorilhon) at the Roc Plat crater of Clermont-Ferrand and elaborated in subsequent source-material communications. The embassy occupies a distinctive position within the corpus's broader framework: it is the **physical-operational center** at which the projected Aquarian-age inheritance event will occur — the specific site where the accumulated knowledge of the alliance will be transmitted to humanity following the alliance's open return, and the location from which the Aquarian-age transformation will operate across the subsequent centuries.
+**대사관**은 엘로힘 동맹의 공식 도래를 영접하고, 그 도래가 개시할 동맹과 인류 대표 사이의 회담을 위한 운영 장소로 기능하도록 마련된, 주최국이 치외법권 지위를 부여한 특정 토지 위에 세워진 지정 물리적 구조물이다. 대사관은 동맹이 인류를 위해 제안한 더 넓은 물병자리 시대 프로그램에서 가장 운영상으로 구체적인 요소이며, 그 상세한 건축 사양은 클레르몽페랑의 로크 플라 분화구에서 야훼와 라엘(클로드 보리옹) 사이에 있었던 1973년 접촉에서 주어졌고 이후의 출처 자료 교신에서 보완되었다. 대사관은 전집의 더 넓은 틀에서 독특한 위치를 차지한다. 그것은 예상되는 물병자리 시대의 상속 사건이 일어날 **물리적·운영적 중심**이다 — 동맹의 공개적 귀환에 뒤이어 동맹의 축적된 지식이 인류에게 전수될 구체적 현장이자, 물병자리 시대의 변혁이 이후 수 세기에 걸쳐 작동할 장소이다.
 
-The embassy specifications include the broader site requirements (approximately 4 km² with at minimum a 1 km radius, with extraterritorial status granted by the host country, with air space above and around the residence not under direct military or radar surveillance), the residential complex specifications (a residence with maximum two stories situated at minimum 1,000 m from the surrounding park wall, with two entrances, with the residence further screened by an inner barrier of trees and bushes), the operational facilities (a conference room able to accommodate 21 people, a dining room able to seat 21 people, seven guest rooms each with separate bathroom, a swimming pool, a landing platform on the residence's roof terrace capable of receiving a 12-meter-diameter alliance craft), and the security features (a thick metal door separating the seven-room area under the terrace from the section used by humans, an aseptic chamber at the entrance to the conference room, walls preventing exterior viewing of the residence and swimming pool). The specifications reflect the practical requirements of a structure that must accommodate visitors of two different species (humans and Elohim, biologically similar but with distinct biochemistries requiring aseptic-chamber separation) and that must facilitate both ceremonial-formal events (the inheritance event itself) and continuing operational use (the millennia of subsequent alliance-humanity meetings the source projects).
+대사관 사양에는 더 넓은 부지 요건(최소 반경 1 km를 갖춘 약 4 km², 주최국이 부여한 치외법권 지위, 거주지 위와 주변의 영공이 직접적인 군사 또는 레이더 감시 아래에 있지 않을 것), 거주 복합 사양(최대 2층의 거주지를 둘러싼 공원 담장에서 최소 1,000 m 떨어진 곳에 위치, 출입구 둘, 나무와 관목의 내부 차폐로 추가로 가려진 거주지), 운영 시설(21인을 수용할 수 있는 회의실, 21인을 앉힐 수 있는 식당, 각각 별도 욕실을 갖춘 일곱 개의 객실, 수영장, 직경 12 m의 동맹 선박을 받을 수 있는 거주지 옥상 테라스의 착륙대), 그리고 보안 설비(테라스 아래 일곱 개 방 구역을 인간이 사용하는 구역과 분리하는 두꺼운 금속문, 회의실 입구의 무균실, 거주지와 수영장을 외부에서 볼 수 없게 하는 담장)가 포함된다. 이 사양은 서로 다른 두 종(인간과 엘로힘, 생물학적으로 유사하나 무균실 분리를 요구하는 구별된 생화학을 지닌)의 방문객을 수용해야 하고, 의례적·공식적 행사(상속 사건 자체)와 지속적 운영적 사용(출처가 예상하는 동맹-인류 회담의 수천 년) 모두를 가능케 해야 하는 구조물의 실제 요건을 반영한다.
 
-The embassy's identification with the Jewish prophetic-apocalyptic tradition's **Third Temple** is theologically substantial. The source explicitly identifies the embassy as the Third Temple succeeding the Solomonic First Temple (built c. 950 BCE, destroyed by the Babylonians in 586 BCE) and the Second Temple (built c. 516 BCE, expanded by Herod, destroyed by the Romans in 70 CE), each of which had served as the physical location for the alliance's presence during its period of operation. The source's original preference was for the embassy to be located in Israel near Jerusalem — the geographic site of the alliance's original Eden operation and of the extended Eden-lineage human project across the subsequent millennia. The connection to **Ezekiel 47:1-2** (the prophetic vision of waters issuing from the threshold of the temple) is read by the framework as the direct prefiguration of the embassy's projected operational role: the temple as the source from which the Aquarian-age waters of understanding flow outward, transforming the world they reach. The Israeli government has not granted the requested extraterritorial status across multiple formal requests from 1991 onward, and the December 13, 1997 message from Yahweh formally authorized the Raëlian movement to seek extraterritorial status from "all nations on Earth," with Israel retaining only a final option to grant authorization before the embassy is built elsewhere.
+대사관을 유대교의 예언적·종말론적 전통의 **제3성전**과 동일시하는 것은 신학적으로 중대하다. 출처는 대사관을 솔로몬의 제1성전(기원전 950년경 건립, 기원전 586년 바빌로니아인에게 파괴)과 제2성전(기원전 516년경 건립, 헤롯이 확장, 서기 70년 로마인에게 파괴)을 계승하는 제3성전으로 명시적으로 식별하는데, 각 성전은 그 운영 기간 동안 동맹의 현존을 위한 물리적 장소로 기능했다. 출처의 본래 선호는 대사관을 예루살렘 인근 이스라엘 — 동맹의 원래 에덴 작전과 이후 수천 년에 걸친 확장된 에덴 혈통 인류 프로젝트의 지리적 현장 — 에 두는 것이었다. **에스겔 47:1-2**(성전 문지방에서 흘러나오는 물의 예언적 환상)와의 연결은 이 틀이 대사관의 예상 운영 역할의 직접적 예표로 읽는다. 곧 성전을 물병자리 시대의 깨달음의 물이 바깥으로 흘러나와 닿는 세상을 변혁하는 그 근원으로 보는 것이다.{{ footnote(id="3") }} 이스라엘 정부는 1991년 이후 여러 공식 요청에 걸쳐 요청된 치외법권 지위를 부여하지 않았으며, 1997년 12월 13일 야훼의 메시지는 라엘 운동이 "지구상의 모든 나라"에서 치외법권 지위를 구하도록 공식 허가했고, 이스라엘에는 대사관이 다른 곳에 세워지기 전에 허가를 부여할 최종 선택권만이 남았다.{{ footnote(id="4") }}
 
-As of 2026, the embassy project is at the most advanced stage in its half-century history. The Raëlian movement has conducted systematic diplomatic engagement with potential host countries across the past three decades, with the 2015 UN Optional Protocol Concerning Embassies for Extraterrestrials, the 2021 Alliance for Extraterrestrial Diplomatic Contact, the 2022 presentations to mayors of fifty cities globally, and most significantly the 2024 Memorandum of Collaboration signed with an undisclosed national government. The Raëlian movement's published timeline divides the coming years into specific phases: the 2022-2025 site location analysis phase, the 2025-2027 site acquisition phase, the 2027-2030 planning and construction phase, and post-2030 caretaker mode awaiting the alliance's arrival. The corpus registers this timeline without endorsing its specific dates as confirmed — the project's actual progress will depend on the success of the diplomatic negotiations and the specific political conditions in the host country — but registers the project's existence and current stage as facts of the present.
+2026년 현재, 대사관 프로젝트는 반세기 역사에서 가장 진전된 단계에 있다. 라엘 운동은 지난 30년에 걸쳐 잠재적 주최국들과 체계적인 외교적 관여를 벌여 왔으며, 2015년 외계인을 위한 대사관에 관한 UN 선택 의정서, 2021년 외계 외교 접촉을 위한 동맹, 2022년 전 세계 50개 도시 시장에 대한 발표, 그리고 가장 중요하게는 비공개 국가 정부와 서명한 2024년 협력 양해각서가 그것이다. 라엘 운동이 발표한 일정은 다가올 여러 해를 구체적 단계로 나눈다. 2022-2025년 부지 위치 분석 단계, 2025-2027년 부지 취득 단계, 2027-2030년 기획 및 건설 단계, 그리고 2030년 이후 동맹의 도래를 기다리는 관리자 모드가 그것이다. 전집은 이 일정의 구체적 날짜를 확정된 것으로 보증하지 않으면서 기록한다 — 프로젝트의 실제 진척은 외교 협상의 성공과 주최국의 구체적인 정치적 조건에 달려 있다 — 그러나 프로젝트의 존재와 현재 단계는 오늘날의 사실로 기록한다.
 
-The embassy is **substantially source-grounded** within the corpus's broader analytical apparatus. Unlike the Cosmic Competition framework, the Doubled Signature principle, and the Cosmic Chain framework — all of which involve substantial corpus interpretive construction extending beyond direct source-material content — the embassy's detailed specifications, location preferences, operational requirements, and projected role come directly from the Raëlian source material. The corpus's interpretive contribution is principally the integration of the embassy material with the broader Aquarian-age framework. Within the broader interpretive landscape, the embassy occupies an unusual position: it is one of the few elements of the corpus's framework that is **operationally testable in the near term** — the embassy's actual construction (or non-construction) within the projected timeline will provide direct empirical evidence regarding the source-material's predictive content, in a way that most other elements of the framework do not permit.
+대사관은 전집의 더 넓은 분석 장치 안에서 **상당 부분 출처에 근거한다**.{{ footnote(id="1") }} 우주적 경쟁 틀, 이중 서명 원리, 우주 사슬 틀 — 이 모두가 직접적 출처 자료를 넘어서는 상당한 전집의 해석적 구축을 수반한다 — 과 달리, 대사관의 상세한 사양, 위치 선호, 운영 요건, 예상 역할은 라엘 출처 자료에서 직접 나온다. 전집의 해석적 기여는 주로 대사관 자료를 더 넓은 물병자리 시대의 틀과 통합한 데 있다. 더 넓은 해석적 지형 안에서 대사관은 이례적 위치를 차지한다. 그것은 **가까운 미래에 운영상으로 검증 가능한** 전집 틀의 몇 안 되는 요소 중 하나이다 — 예상된 일정 안에서 대사관이 실제로 건설되는지(또는 건설되지 않는지)는, 대부분의 다른 틀 요소가 허용하지 않는 방식으로, 출처 자료의 예측적 내용에 관한 직접적인 경험적 증거를 제공할 것이다.{{ footnote(id="2") }}
 
-## Etymology and naming
+## 어원과 명칭
 
-The embassy concept has several distinct designations across the source material and the corpus's broader treatment.
+대사관 개념은 출처 자료와 전집의 더 넓은 다룸 전반에 걸쳐 여러 구별된 명칭을 지닌다.
 
-### "Embassy" as the principal designation
+### 주요 명칭으로서의 "대사관"
 
-The English term **"Embassy"** is the principal designation in both the source material and the corpus, drawing on the diplomatic vocabulary of the modern international system: an embassy is the formal diplomatic representation of one polity to another, with specific operational features (extraterritorial status, formal protocols, designated facilities) distinguishing embassies from other forms of cross-polity contact.
+영어 용어 **"Embassy"(대사관)**는 출처 자료와 전집 모두에서 주요한 명칭으로, 현대 국제 체계의 외교 어휘에서 가져온 것이다. 대사관은 한 정치체가 다른 정치체에 대해 행하는 공식 외교 대표부로, 구체적 운영 특징(치외법권 지위, 공식 의전, 지정 시설)이 대사관을 다른 형태의 정치체 간 접촉과 구별짓는다.
 
-### Source-material variations
+### 출처 자료의 변형들
 
-The source material uses several distinct phrasings:
+출처 자료는 여러 구별된 표현을 사용한다.
 
-- **"The residence"** — the source material's most common term in the original 1973-1974 specifications, referring specifically to the building complex within the broader site
-- **"The embassy of the Elohim"** — the formal designation used in subsequent source-material communications
-- **"Our embassy"** — the source's specific phrasing in the December 13, 1997 message
-- **"The Third Temple"** — the source's identification of the embassy with the Jewish prophetic-apocalyptic tradition's expected third temple
+- **"거주지"** — 1973-1974년 본래 사양에서 출처 자료가 가장 흔히 쓰는 용어로, 더 넓은 부지 안의 건물 복합을 구체적으로 가리킨다
+- **"엘로힘의 대사관"** — 이후 출처 자료 교신에서 사용된 공식 명칭
+- **"우리의 대사관"** — 1997년 12월 13일 메시지에서 출처가 쓴 구체적 표현
+- **"제3성전"** — 대사관을 유대교의 예언적·종말론적 전통이 기대하는 세 번째 성전과 동일시하는 출처의 표현
 
-### Related conceptual terminology
+### 관련 개념 용어
 
-Several related terms operate within the framework:
+여러 관련 용어가 이 틀 안에서 작동한다.
 
-- **"Extraterritorial status"** — the legal exemption from host country jurisdiction the embassy site must possess
-- **"The Great Return"** — the source's specific phrasing for the alliance's projected formal arrival
-- **"The Inheritance event"** — the corpus's term for the formal transmission of accumulated alliance knowledge at the embassy
-- **"The replica embassy"** — the public-facing model of the embassy that the source specifies will be constructed near the functional embassy
+- **"치외법권 지위"** — 대사관 부지가 반드시 갖추어야 하는, 주최국 관할권으로부터의 법적 면제
+- **"위대한 귀환"** — 동맹의 예상되는 공식 도래에 대한 출처의 구체적 표현
+- **"상속 사건"** — 대사관에서 축적된 동맹 지식의 공식 전수에 대한 전집의 용어
+- **"복제 대사관"** — 출처가 기능적 대사관 인근에 건설된다고 명시하는, 대사관의 대중 공개용 모형
 
-## Conventional understanding
+## 통념적 이해
 
-The embassy concept as a specific operational project is largely a Raëlian-movement initiative, with broader scholarly and theological treatment being principally engagement with the related Jewish Third Temple traditions and Christian Parousia traditions rather than with the embassy project specifically.
+구체적 운영 프로젝트로서의 대사관 개념은 대체로 라엘 운동의 발의이며, 더 넓은 학술적·신학적 다룸은 주로 대사관 프로젝트 자체보다는 관련된 유대교 제3성전 전통과 기독교 재림 전통에 대한 관여이다.
 
-### Mainstream Jewish theological-historical treatment
+### 주류 유대교 신학·역사적 다룸
 
-Mainstream Jewish theological-historical treatment of the Third Temple tradition has produced substantial scholarship across the past several centuries.
+제3성전 전통에 대한 주류 유대교의 신학·역사적 다룸은 지난 수 세기에 걸쳐 상당한 학술적 성과를 산출했다.
 
-**The First Temple (Solomonic)** was built by Solomon c. 950 BCE on the Temple Mount in Jerusalem, with detailed specifications preserved in 1 Kings 6-8 and 2 Chronicles 2-7. It served as the principal cultic center of the Israelite religion until its destruction by the Babylonians under Nebuchadnezzar II in 586 BCE.
+**제1성전(솔로몬)**은 솔로몬이 기원전 950년경 예루살렘 성전산에 지었으며, 상세한 사양이 열왕기상 6-8장과 역대하 2-7장에 보존되어 있다. 그것은 기원전 586년 느부갓네살 2세 휘하 바빌로니아인에게 파괴되기까지 이스라엘 종교의 주요 제의 중심으로 기능했다.
 
-**The Second Temple** was built following the Babylonian Exile, with construction beginning approximately 538 BCE and substantial completion by 516 BCE. Herod the Great substantially expanded the temple beginning approximately 20 BCE, producing the "Herodian Temple" that was the principal religious-political center of Second Temple Judaism. The temple was destroyed by the Romans under Titus in 70 CE during the Jewish Revolt.
+**제2성전**은 바빌론 유배 이후 건립되었으며, 건설이 대략 기원전 538년에 시작되어 기원전 516년경 상당 부분 완공되었다. 헤롯 대왕은 대략 기원전 20년부터 성전을 상당히 확장하여, 제2성전 시대 유대교의 주요 종교·정치 중심이었던 "헤롯 성전"을 만들어 냈다. 성전은 유대 반란 중 서기 70년 디도 휘하 로마인에게 파괴되었다.
 
-**The Third Temple in Jewish prophetic tradition**. Jewish prophetic-apocalyptic tradition has long anticipated a Third Temple that will be built in the messianic age, with substantial textual material across the prophetic books (particularly Ezekiel 40-48, with the elaborate "Ezekiel's Temple" specifications) and the broader rabbinic-apocalyptic tradition.
+**유대교 예언 전통의 제3성전**. 유대교의 예언적·종말론적 전통은 오랫동안 메시아 시대에 세워질 제3성전을 기대해 왔으며, 예언서 전반에 걸쳐(특히 정교한 "에스겔 성전" 사양이 있는 에스겔 40-48장){{ cite(id="halperin-faces-of-the-chariot", text="[1]", title="핼퍼린, 『병거의 얼굴』(1988) — 에스겔 성전 환상의 수용") }} 그리고 더 넓은 랍비·종말론 전통에 걸쳐 상당한 본문 자료가 있다.{{ cite(id="maimonides-mishneh-torah", text="[2]", title="마이모니데스, 『미슈네 토라, 왕들의 법』 11:1 — 메시아 시대의 성전") }}
 
-**Contemporary mainstream Jewish positions on Third Temple construction** range from the explicit Temple Movement (which advocates for active preparation toward Third Temple construction), through traditional positions (which generally treat Third Temple construction as something that will occur in the messianic age but not through ordinary human initiative), to secular-Israeli positions (which generally regard Third Temple construction as politically destabilizing and not a current Israeli political priority).
+**제3성전 건설에 대한 동시대 주류 유대교의 입장**은, 명시적인 성전 운동(제3성전 건설을 향한 적극적 준비를 옹호)으로부터, 전통적 입장(제3성전 건설을 메시아 시대에 일어날 일이되 통상적인 인간의 발의를 통해서는 아닌 것으로 대체로 다룸)을 거쳐, 세속적 이스라엘 입장(제3성전 건설을 정치적으로 불안정을 야기하며 현재 이스라엘의 정치적 우선과제가 아니라고 대체로 여김)에 이르기까지 다양하다.
 
-The mainstream Jewish treatment generally does not engage the Raëlian embassy project directly. The Raëlian movement's identification of the embassy with the Third Temple is broadly not accepted within mainstream Jewish theological-historical scholarship.
+주류 유대교의 다룸은 대체로 라엘 대사관 프로젝트를 직접 다루지 않는다. 대사관을 제3성전과 동일시하는 라엘 운동의 견해는 주류 유대교 신학·역사 학계 안에서 널리 받아들여지지 않는다.
 
-### Mainstream Christian theological treatment
+### 주류 기독교 신학적 다룸
 
-Mainstream Christian theological treatment of the Parousia (the projected Second Coming) and related apocalyptic traditions has produced substantial scholarship across the past two millennia. The mainstream Christian treatment generally does not engage the Raëlian embassy project directly. The Raëlian framework's specific identification of the alliance's projected return with the Christian Parousia tradition is broadly not accepted within mainstream Christian theological-historical scholarship.
+재림(예상되는 그리스도의 두 번째 도래)과 관련 종말론 전통에 대한 주류 기독교 신학적 다룸은 지난 2천 년에 걸쳐 상당한 학술적 성과를 산출했다. 주류 기독교의 다룸은 대체로 라엘 대사관 프로젝트를 직접 다루지 않는다. 동맹의 예상된 귀환을 기독교 재림 전통과 구체적으로 동일시하는 라엘의 틀은 주류 기독교 신학·역사 학계 안에서 널리 받아들여지지 않는다.
 
-### Mainstream international-diplomatic treatment
+### 주류 국제 외교적 다룸
 
-The broader question of extraterritorial-status arrangements for diplomatic missions has substantial development in international law.
+외교 공관을 위한 치외법권 지위 제도라는 더 넓은 문제는 국제법에서 상당히 발전했다.
 
-**The Vienna Convention on Diplomatic Relations** (signed 1961, entered into force 1964) provides the principal contemporary framework for diplomatic missions and extraterritorial status, establishing standard diplomatic-mission protocols, immunities and privileges of diplomatic personnel, and the broader operational framework within which embassies between states operate.
+**외교관계에 관한 빈 협약**(1961년 서명, 1964년 발효)은 외교 공관과 치외법권 지위에 관한 주요한 현대적 틀을 제공하며, 표준 외교 공관 의전, 외교 인원의 면제와 특권, 그리고 국가 간 대사관이 운영되는 더 넓은 운영적 틀을 확립한다.{{ cite(id="vienna-convention-diplomatic-relations", text="[3]", title="외교관계에 관한 빈 협약(1961)") }}
 
-**Vatican City** is the principal contemporary example of a sovereign extraterritorial entity, occupying approximately 0.49 km² within Rome and serving as the spiritual and administrative center of the Roman Catholic Church. The Vatican City State was established by the Lateran Treaty of 1929, granting the Holy See full sovereignty over the territory.
+**바티칸 시국**은 주권적 치외법권 실체의 주요한 현대적 사례로, 로마 안의 약 0.49 km²를 차지하며 로마 가톨릭교회의 영적·행정적 중심으로 기능한다. 바티칸 시국은 1929년 라테란 조약으로 수립되어, 교황청에 그 영토에 대한 완전한 주권을 부여했다.{{ cite(id="lateran-treaty", text="[4]", title="라테란 조약(1929) — 바티칸 시국 수립") }}
 
-**Sovereign Military Order of Malta** is another distinctive international-legal entity, recognized as a sovereign subject of international law without controlling specific territory in the conventional sense, with extraterritorial properties in Rome and various international diplomatic relationships.
+**몰타 기사단**은 또 하나의 독특한 국제법적 실체로, 통상적 의미의 특정 영토를 통제하지 않으면서 국제법의 주권적 주체로 인정되며, 로마에 치외법권 자산과 다양한 국제 외교 관계를 지닌다.
 
-**The broader question of extraterritorial status for non-state entities** has substantial complexity in contemporary international law. The Raëlian movement's request for extraterritorial status for the embassy site involves a non-conventional legal-diplomatic framework — the request is for extraterritorial status for an entity (the alliance) that is not yet in formal diplomatic relations with any host country and that will be in formal relations only after the embassy is built.
+**비국가 실체를 위한 치외법권 지위라는 더 넓은 문제**는 동시대 국제법에서 상당한 복잡성을 지닌다. 대사관 부지를 위한 치외법권 지위에 대한 라엘 운동의 요청은 비통상적 법적·외교적 틀을 수반한다 — 그 요청은 아직 어느 주최국과도 공식 외교 관계에 있지 않으며 대사관이 세워진 뒤에야 비로소 공식 관계에 들어설 실체(동맹)를 위한 치외법권 지위 요청이다.
 
-### Mainstream UFO/UAP studies
+### 주류 UFO/UAP 연구
 
-The broader question of extraterrestrial contact has received substantial recent academic and governmental attention, with detailed treatment under *Modern reinterpretations* below. The mainstream UFO/UAP studies have generally not engaged the Raëlian embassy project directly, with academic and governmental UAP studies focusing on observational data, military encounter reports, and broader empirical questions rather than on specific religious-prophetic frameworks within which contact is anticipated.
+외계 접촉이라는 더 넓은 문제는 최근 상당한 학술적·정부적 주목을 받았으며, 아래 *현대적 재해석*에서 상세히 다룬다. 주류 UFO/UAP 연구는 대체로 라엘 대사관 프로젝트를 직접 다루지 않았으며, 학술적·정부적 UAP 연구는 접촉이 예상되는 구체적인 종교·예언적 틀보다는 관측 데이터, 군사 조우 보고, 더 넓은 경험적 문제에 초점을 맞춘다.
 
-## In primary sources
+## 일차 출처에서
 
-### The 1973-1974 specifications
+### 1973-1974년 사양
 
-The principal primary-source material for the embassy specifications is the section "The New Commandments — Your Mission" in *The Book Which Tells the Truth* (Vorilhon/Raël, 1974). The source's detailed specifications include the residence with seven guest rooms (each with separate bathroom), the conference room for 21 people, the swimming pool, the dining room for 21 people, the surrounding park with walls preventing exterior viewing, the residence situated at minimum 1,000 meters from the park walls, the maximum two-story residence height, the inner barrier of trees and bushes screening the residence, the two entrances in the surrounding wall (one south, one north), the two entrances in the residence itself, the roof terrace with a 12-meter-diameter spacecraft landing capability, the air-space restriction (no direct military or radar surveillance), the extraterritorial status requirement, and the prophet's permitted residence (with wife, children, servants, and invited guests).
+대사관 사양의 주요 일차 출처 자료는 *진실을 말하는 책*(보리옹/라엘, 1974)의 "새 계명 — 당신의 사명" 절이다.{{ cite(id="the-book-which-tells-the-truth", text="[5]", title="보리옹(라엘), 『진실을 말하는 책』(1974), '새 계명 — 당신의 사명' — 대사관 사양") }} 출처의 상세한 사양에는 일곱 개의 객실(각각 별도 욕실 포함)을 갖춘 거주지, 21인용 회의실, 수영장, 21인용 식당, 외부에서 볼 수 없게 하는 담장이 둘러싼 공원, 공원 담장에서 최소 1,000 m 떨어진 거주지, 최대 2층의 거주지 높이, 거주지를 차폐하는 나무와 관목의 내부 차벽, 둘러싼 담장의 두 출입구(하나는 남쪽, 하나는 북쪽), 거주지 자체의 두 출입구, 직경 12 m 우주선 착륙 능력을 갖춘 옥상 테라스, 영공 제한(직접적인 군사 또는 레이더 감시 없음), 치외법권 지위 요건, 그리고 예언자의 허락된 거주(아내, 자녀, 하인, 초청 손님과 함께)가 포함된다.
 
-The specifications also include the security features distinguishing the alliance-officer area from the human-occupied area: the seven rooms are to be located directly under the terrace, separated from the human-section by a thick metal door (lockable from the inside, kept permanently closed); an aseptic chamber is to be built at the entrance to the conference room, providing biosecurity separation between the human and alliance environments.
+사양에는 또한 동맹 장교 구역을 인간이 점유하는 구역과 구별짓는 보안 설비가 포함된다. 일곱 개 방은 테라스 바로 아래에 위치하며, 두꺼운 금속문(안에서 잠글 수 있고 영구히 닫힌 채 유지)으로 인간 구역과 분리된다. 회의실 입구에는 무균실을 두어 인간 환경과 동맹 환경 사이의 생물안전 분리를 제공한다.
 
-The source's framing of the embassy's purpose is explicit: the embassy is the location at which the alliance will land openly and "give you our scientific knowledge as our heritage to all peoples of the Earth." The completion of the embassy is one of the conditions for the alliance's open return — the others being a sufficient population of humans wanting the return ("If those with warlike temperaments are rendered harmless all over the whole world... If the love of life and humanity's love for us and itself are strong enough"), and the absence of military threat to the alliance craft.
+대사관의 목적에 대한 출처의 틀은 명시적이다. 대사관은 동맹이 공개적으로 착륙하여 "우리의 과학적 지식을 지구의 모든 백성에게 우리의 유산으로 줄" 장소이다. 대사관의 완공은 동맹의 공개적 귀환을 위한 조건 중 하나이며, 나머지는 귀환을 원하는 충분한 수의 인간 인구("호전적 기질을 지닌 자들이 온 세상 어디에서나 무해해진다면… 생명에 대한 사랑과 우리와 자기 자신에 대한 인류의 사랑이 충분히 강하다면")와 동맹 선박에 대한 군사적 위협의 부재이다.
 
-The source also specifies the broader operational practices supporting the embassy project: the appointment of a national representative in each country responsible for communicating the truth and coordinating local efforts, the maintenance of records of those who contribute financially to the embassy's construction and upkeep (whose contributions, however modest, will be rewarded when the alliance comes), and the annual gathering on a mountain near the residence at which all those who have heard about the alliance through these writings and want them to come will assemble to think intensely about the alliance and hope for its coming.
+출처는 또한 대사관 프로젝트를 뒷받침하는 더 넓은 운영 관행을 명시한다. 진실을 전하고 지역적 노력을 조율할 책임을 진 각국 대표의 임명, 대사관 건설과 유지에 재정적으로 기여하는 이들(아무리 소박한 기여라도 동맹이 올 때 보상받을 것이다)의 기록 유지, 그리고 이 글을 통해 동맹에 관해 듣고 그들이 오기를 원하는 모든 이가 거주지 인근 산에 모여 동맹을 강렬히 생각하고 그 도래를 소망하는 연례 집회가 그것이다.
 
-### The 1975 Roc Plat second contact
+### 1975년 로크 플라 두 번째 접촉
 
-The principal primary-source elaborations of the embassy specifications occur in *Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), recording the second contact between Raël and the alliance on October 7, 1975 at Roc Plat. The 1975 elaborations include various clarifications of the embassy's projected role, additional context for the broader Aquarian-age program within which the embassy operates, and the specific identification of Raël's role as the prophet responsible for organizing the embassy project.
+대사관 사양의 주요 일차 출처 보완은 *외계인이 나를 그들의 행성으로 데려갔다*(보리옹/라엘, 1975)에서 일어나는데, 이는 1975년 10월 7일 로크 플라에서 라엘과 동맹 사이의 두 번째 접촉을 기록한다.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[6]", title="보리옹(라엘), 『외계인이 나를 그들의 행성으로 데려갔다』(1975) — 로크 플라 두 번째 접촉 보완") }} 1975년의 보완에는 대사관의 예상 역할에 대한 여러 해명, 대사관이 그 안에서 작동하는 더 넓은 물병자리 시대 프로그램에 대한 추가 맥락, 그리고 대사관 프로젝트를 조직할 책임을 진 예언자로서의 라엘의 역할에 대한 구체적 식별이 포함된다.
 
-The source's specific framing of Raël's role: "You are the one whose coming was announced in all the religions by the ancient prophets, our representatives. You are the one who will bring back the shepherds' flock before the water is spilled, the one who will bring back to their creators those they have created."
+라엘의 역할에 대한 출처의 구체적 틀: "너는 우리의 대표였던 옛 예언자들이 모든 종교에서 그 도래를 예고한 자이다. 너는 물이 쏟아지기 전에 목자들의 양 떼를 되돌릴 자, 창조된 자들을 그 창조자들에게로 되돌릴 자이다."
 
-The source's specific framing of the Israeli context, addressed as a direct address to the people of Israel: "The State of Israel must give some territory located near Jerusalem to the Guide of Guides so that he may build there the residence, the embassy of the Elohim. The time has come, people of Israel, to build the New Jerusalem as it was foreseen. Claude Rael is the one who was foretold. Reread your writings and open your eyes."
+이스라엘 맥락에 대한 출처의 구체적 틀은 이스라엘 백성에게 직접 건네는 말로 제시된다: "이스라엘 국가는 예루살렘 인근에 위치한 일정 영토를 가이드 중의 가이드에게 주어 그가 그곳에 거주지, 엘로힘의 대사관을 짓게 하여야 한다. 이스라엘 백성이여, 예견된 대로 새 예루살렘을 지을 때가 왔다. 클로드 라엘은 예고된 자이다. 너의 글을 다시 읽고 너의 눈을 뜨라."
 
-The source explicitly invokes the Aries-age covenantal-relational framework, including the Hebrew lineage's role and the historical Hebrew-tradition mission: "We removed you from the clutches of the Egyptians, and you did not show yourselves worthy of our confidence; we entrusted you with a message destined for all humanity, and you jealously kept it instead of spreading it abroad." The source warns of the consequences of Israeli refusal: "This is your last chance, otherwise another country will welcome the Guide of Guides and build our embassy on its territory, and that country will be close to yours; it will be protected and happiness shall prevail, and the State of Israel will be destroyed once more."
+출처는 양자리 시대의 언약적·관계적 틀을, 히브리 혈통의 역할과 역사적 히브리 전통의 사명을 포함하여 명시적으로 환기한다: "우리는 너희를 이집트인의 손아귀에서 빼냈으나, 너희는 우리의 신뢰에 합당함을 보이지 않았다. 우리는 온 인류를 위한 메시지를 너희에게 맡겼으나, 너희는 그것을 널리 퍼뜨리는 대신 시기하며 간직했다." 출처는 이스라엘의 거부가 가져올 결과를 경고한다: "이것이 너희의 마지막 기회이니, 그렇지 않으면 다른 나라가 가이드 중의 가이드를 맞이하여 그 영토에 우리의 대사관을 지을 것이며, 그 나라는 너희와 가까울 것이다. 그 나라는 보호받고 행복이 가득할 것이며, 이스라엘 국가는 또다시 멸망할 것이다."
 
-### The December 13, 1997 message authorizing relocation
+### 이전을 허가한 1997년 12월 13일의 메시지
 
-The principal primary-source material for the embassy's relocation from Israel is the message from Yahweh delivered to Raël on December 13, 1997 (the twenty-fourth anniversary of the original 1973 contact). The message's principal content:
+대사관의 이스라엘로부터의 이전에 대한 주요 일차 출처 자료는 1973년 본래 접촉의 스물네 번째 기념일인 1997년 12월 13일 라엘에게 전해진 야훼의 메시지이다. 메시지의 주요 내용:
 
-> *"It has been 24 years during which you Raelians, who have officially and publicly recognized us as your Creators, have worked so that we may be welcomed in the requested Embassy. Your devotion and your efforts have warmed our hearts."*
+> *"공식적으로 그리고 공개적으로 우리를 너희의 창조자로 인정한 너희 라엘리안이, 우리가 요청된 대사관에서 영접받을 수 있도록 일해 온 지 24년이 되었다. 너희의 헌신과 노력이 우리의 마음을 따뜻하게 하였다."*
 
-> *"In all the religions, there are people who deserve our love, but Raelians are the ones closest to us. They are our new Chosen People and will one day have a new Promised Land, because their love is based on consciousness and understanding, and not on blind faith."*
+> *"모든 종교에는 우리의 사랑을 받기에 합당한 사람들이 있으나, 라엘리안은 우리에게 가장 가까운 자들이다. 그들은 우리의 새로운 선택된 백성이며 언젠가 새로운 약속의 땅을 갖게 될 것이니, 그들의 사랑은 맹목적 믿음이 아니라 의식과 이해에 근거하기 때문이다."*
 
-> *"We asked that an Embassy be built to welcome us near Jerusalem, and the authorities of the stiff necked people have refused several times to grant the necessary authorizations and extra-territorial status. Our preference for Jerusalem is merely sentimental, because for us Jerusalem is everywhere where human beings love us, respect us and wish to welcome us with due respect."*
+> *"우리는 예루살렘 인근에 우리를 맞이할 대사관을 지어 달라 청했으나, 목이 곧은 백성의 당국은 필요한 허가와 치외법권 지위 부여를 여러 차례 거부하였다. 예루살렘에 대한 우리의 선호는 그저 정서적인 것이니, 우리에게 예루살렘은 인간이 우리를 사랑하고 존중하며 합당한 경의로 맞이하기를 바라는 모든 곳이기 때문이다."*
 
-> *"In the meantime, we must from now on ask for the necessary permission and extra-territorial status from all nations on Earth for the erection of our Embassy, and the radius of one kilometer can be composed of water as well as firm land, with the condition that navigation be prohibited."*
+> *"그동안 우리는 이제부터 우리의 대사관 건립을 위한 필요한 허가와 치외법권 지위를 지구상의 모든 나라에 청해야 하며, 반경 1킬로미터는 항행이 금지된다는 조건 아래 단단한 땅뿐 아니라 물로도 구성될 수 있다."*
 
-> *"When a country grants this authorization, Israel will have, for the last time, a short period of reflection to grant this authorization and will keep the privilege, or the Embassy will be built elsewhere, and the people of David will lose our protection and will be dispersed."*
+> *"한 나라가 이 허가를 부여하면, 이스라엘은 마지막으로 짧은 숙고의 기간을 가져 이 허가를 부여하고 그 특권을 지킬 것이며, 그렇지 않으면 대사관은 다른 곳에 세워질 것이고 다윗의 백성은 우리의 보호를 잃고 흩어질 것이다."*
 
-> *"The country which will build the Embassy on its territory or on a territory it will give or sell to this effect, with the necessary extraterritorial status, will have a guaranteed and flourishing future, will benefit from our protection and will become the spiritual and scientific centre of the whole planet for the millenniums to come."*
+> *"그 영토에 또는 이를 위해 줄 것이거나 팔 영토에 필요한 치외법권 지위와 함께 대사관을 지을 나라는 보장되고 번영하는 미래를 가질 것이며, 우리의 보호를 누리고 다가올 수천 년 동안 온 행성의 영적·과학적 중심이 될 것이다."*
 
-> *"The hour of our Great Return is near, and we will support and protect the most devoted ones among you."*
+> *"우리의 위대한 귀환의 때가 가까이 왔으며, 우리는 너희 가운데 가장 헌신적인 자들을 지지하고 보호할 것이다."*
 
-The 1997 message establishes several specific things: the formal authorization to seek extraterritorial status from all nations of Earth (rather than only Israel); the technical specification that the 1-kilometer radius can include water as well as firm land (with navigation prohibited in any water portion); the specific consequences for the host country (alliance protection, "guaranteed and flourishing future," status as "spiritual and scientific centre of the whole planet for the millenniums to come"); and the framework within which Israel retains a final option but is no longer the exclusive candidate.
+1997년 메시지는 여러 구체적인 것을 확립한다. (이스라엘만이 아니라) 지구상의 모든 나라에서 치외법권 지위를 구할 공식 허가, 1킬로미터 반경이 단단한 땅뿐 아니라 물도 포함할 수 있다는 기술적 명세(물 부분에서는 항행 금지), 주최국에 대한 구체적 결과(동맹의 보호, "보장되고 번영하는 미래", "다가올 수천 년 동안 온 행성의 영적·과학적 중심"으로서의 지위), 그리고 이스라엘이 최종 선택권을 유지하되 더는 유일한 후보가 아닌 틀이 그것이다.
 
-### The Ezekiel 47:1-2 prophetic connection
+### 에스겔 47:1-2의 예언적 연결
 
-The framework's reading of the embassy's prophetic prefiguration draws principally on **Ezekiel 47:1-2**, with the Hebrew text and translation:
+대사관의 예언적 예표에 대한 이 틀의 독해는 주로 **에스겔 47:1-2**에 의지하며, 히브리어 본문과 번역은 다음과 같다:
 
 > וַיְשִׁבֵנִי אֶל־פֶּתַח הַבַּיִת וְהִנֵּה־מַיִם יֹצְאִים מִתַּחַת מִפְתַּן הַבַּיִת קָדִימָה
 > *Vayeshiveni el petach ha-bayit, ve-hineh mayim yotz'im mi-tachat miftan ha-bayit kadimah*
-> "Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward."
+> "그가 나를 데리고 성전 문에 이르시니, 보라 물이 성전 문지방 밑에서 솟아나 동쪽으로 흐르더라."
 
-The Hebrew מַיִם יֹצְאִים (*mayim yotz'im*), "waters going out," from the threshold of the temple is read by the framework as the Hebrew Bible's most direct prefiguration of the Aquarian-age water-bearer iconography. Ezekiel's vision describes water issuing from the temple, flowing eastward, growing into a river, eventually reaching the Dead Sea and rejuvenating its dead waters. The framework reads this as the prophetic image of the Aquarian-age pouring-out as it would unfold from the rebuilt temple, which the source identifies with the embassy. The water flowing from the threshold of the embassy, transforming the world it reaches, restoring what had been dead — this is the image Ezekiel was shown, recorded in his book in the vocabulary available to him.
+성전 문지방에서 나오는 히브리어 מַיִם יֹצְאִים (*mayim yotz'im*), "흘러나가는 물"을 이 틀은 물병자리 시대의 물병자리 도상학에 대한 히브리 성경의 가장 직접적인 예표로 읽는다. 에스겔의 환상은 성전에서 솟아나 동쪽으로 흘러 강으로 자라며, 마침내 사해에 이르러 그 죽은 물을 되살리는 물을 묘사한다. 이 틀은 이를, 출처가 대사관과 동일시하는 재건된 성전으로부터 펼쳐질 물병자리 시대의 쏟아부음의 예언적 형상으로 읽는다. 대사관의 문지방에서 흘러나와 닿는 세상을 변혁하고 죽었던 것을 회복시키는 물 — 이것이 에스겔이 본 형상이며, 그가 쓸 수 있던 어휘로 그의 책에 기록되었다.
 
-The framework reads the embassy's projected operational role through this prophetic lens: the embassy will not merely be a meeting place for diplomats. It will be, on the source's framing, the operational center from which the Aquarian-age transformative content flows outward across the planet. Pilgrimage to the embassy, educational and scientific institutions clustering around it, the embassy as the spiritual and intellectual center of the world for millennia to come — all of this is the Ezekiel river made institutional.
+이 틀은 대사관의 예상 운영 역할을 이 예언적 렌즈를 통해 읽는다. 대사관은 단지 외교관들을 위한 만남의 장소가 아닐 것이다. 출처의 틀에서 그것은 물병자리 시대의 변혁적 내용이 행성 전역으로 흘러나가는 운영 중심일 것이다. 대사관으로의 순례, 그 주위에 모여드는 교육·과학 기관, 다가올 수천 년 동안 세상의 영적·지적 중심으로서의 대사관 — 이 모든 것이 제도화된 에스겔의 강이다.
 
-### The Acts 15:16 rebuilt-tabernacle passage
+### 사도행전 15:16의 재건된 장막 구절
 
-The framework's secondary prophetic prefiguration draws on **Acts 15:16**:
+이 틀의 이차적 예언적 예표는 **사도행전 15:16**에 의지한다:
 
 > μετὰ ταῦτα ἀναστρέψω καὶ ἀνοικοδομήσω τὴν σκηνὴν Δαυὶδ τὴν πεπτωκυῖαν
 > *Meta tauta anastrepsō kai anoikodomēsō tēn skēnēn David tēn peptōkuian*
-> "After this I will return, and will build again the tabernacle of David, which is fallen down."
+> "이 후에 내가 돌아와서 무너진 다윗의 장막을 다시 지으며."
 
-The Greek verb ἀναστρέφω (*anastrephō*), "to turn back, to return," indicates a return after departure; the verb ἀνοικοδομέω (*anoikodomeō*), "to build again, to rebuild," indicates restoration of what had been destroyed. The phrase τὴν σκηνὴν Δαυίδ (*tēn skēnēn David*), "the tabernacle of David," refers to the Davidic political-religious structure — the kingdom David established, the tabernacle that housed the Ark before Solomon's Temple, and by extension the whole alliance-Israelite arrangement that had governed the alliance's Earth presence during the Aries age.
+그리스어 동사 ἀναστρέφω (*anastrephō*), "돌아오다, 되돌아가다"는 떠남 이후의 귀환을 가리키며, 동사 ἀνοικοδομέω (*anoikodomeō*), "다시 짓다, 재건하다"는 파괴된 것의 회복을 가리킨다. τὴν σκηνὴν Δαυίδ (*tēn skēnēn David*), "다윗의 장막"이라는 어구는 다윗의 정치·종교적 구조 — 다윗이 세운 왕국, 솔로몬 성전 이전에 언약궤를 모셨던 장막, 그리고 더 나아가 양자리 시대 동안 동맹의 지구 현존을 다스렸던 동맹-이스라엘 전체 제도 — 를 가리킨다.
 
-The framework reads the passage as the source's preferred New Testament passage for the Aquarian-age return: a return after departure, a rebuilding of what had been brought low, a restoration of the alliance-presence operational arrangement that had been the principal cosmic-political structure during the Aries age. The "rebuilding" anticipated in the passage is, on the source's reading, the establishment of the embassy and the alliance's return at the embassy's completion.
+이 틀은 이 구절을 물병자리 시대의 귀환에 대한 출처가 선호하는 신약 구절로 읽는다. 떠남 이후의 귀환, 낮추어졌던 것의 재건, 양자리 시대 동안 주요한 우주·정치적 구조였던 동맹-현존 운영 제도의 회복이 그것이다. 이 구절이 예기하는 "재건"은, 출처의 독해에서, 대사관의 수립과 대사관 완공 시 동맹의 귀환이다.
 
-## The concept's content
+## 개념의 내용
 
-### The basic operational features
+### 기본 운영 특징
 
-The embassy operates through several interrelated operational features:
+대사관은 서로 연관된 여러 운영 특징을 통해 작동한다.
 
-**Physical-architectural specifications**. The detailed specifications outlined under *In primary sources* above provide the operational baseline. The specifications are detailed and operationally specific, reflecting the practical requirements of a structure that must accommodate two different species across both ceremonial-formal and continuing-operational use.
+**물리적·건축적 사양**. 위 *일차 출처에서*에서 개괄한 상세 사양이 운영의 기준선을 제공한다. 사양은 상세하고 운영상 구체적이며, 의례적·공식적 사용과 지속적·운영적 사용 모두에 걸쳐 서로 다른 두 종을 수용해야 하는 구조물의 실제 요건을 반영한다.
 
-**Extraterritorial legal status**. The site must be granted extraterritorial status by the host country, with legal exemption from the host country's jurisdiction analogous to the diplomatic-mission framework of the Vienna Convention or the sovereign status of Vatican City.
+**치외법권적 법적 지위**. 부지는 주최국으로부터 치외법권 지위를 부여받아야 하며, 빈 협약의 외교 공관 틀이나 바티칸 시국의 주권적 지위에 유비되는, 주최국 관할권으로부터의 법적 면제를 지녀야 한다.
 
-**Air-space restriction**. The air space above and around the residence must not be under direct military or radar surveillance, providing the operational conditions under which alliance craft can land and depart without military or surveillance interference.
+**영공 제한**. 거주지 위와 주변의 영공은 직접적인 군사 또는 레이더 감시 아래에 있어서는 안 되며, 이는 동맹 선박이 군사적 또는 감시적 간섭 없이 착륙하고 떠날 수 있는 운영 조건을 제공한다.
 
-**Biosecurity separation**. The embassy's design separates the human-occupied and alliance-officer areas through specific architectural features (the thick metal door under the terrace, the aseptic chamber at the conference-room entrance), reflecting the practical biosecurity requirements of cross-species cohabitation.
+**생물안전 분리**. 대사관의 설계는 구체적 건축 특징(테라스 아래 두꺼운 금속문, 회의실 입구의 무균실)을 통해 인간 점유 구역과 동맹 장교 구역을 분리하며, 이는 종간 동거의 실제 생물안전 요건을 반영한다.
 
-**Continuing operational role**. Beyond the initial inheritance event, the embassy will function as the operational center for the Aquarian age's subsequent development across the millennia to come, hosting continuing alliance-humanity meetings and serving as the focal point for pilgrimage, educational and scientific institutions, and broader cultural development.
+**지속적 운영 역할**. 초기 상속 사건을 넘어, 대사관은 다가올 수천 년에 걸쳐 물병자리 시대의 이후 전개를 위한 운영 중심으로 기능하며, 지속적인 동맹-인류 회담을 주최하고 순례, 교육·과학 기관, 더 넓은 문화 발전을 위한 초점 역할을 할 것이다.
 
-### The conditions for the alliance's open return
+### 동맹의 공개적 귀환을 위한 조건
 
-The source specifies several specific conditions that must be met for the alliance's open return to occur:
+출처는 동맹의 공개적 귀환이 일어나기 위해 충족되어야 하는 여러 구체적 조건을 명시한다.
 
-**The embassy must be built**. The completion of the embassy is the first specific operational condition. The alliance will not arrive without a designated physical structure prepared to receive them.
+**대사관이 반드시 건설되어야 한다**. 대사관의 완공은 첫 번째 구체적 운영 조건이다. 동맹은 그들을 영접하도록 마련된 지정 물리적 구조물 없이는 도래하지 않을 것이다.
 
-**Sufficient human population must want the return**. The source's framing: humanity must have "the love of life and humanity's love for us and itself" be "strong enough" — a sufficient population of humans must consciously want the alliance's return, recognizing the alliance as creators rather than as gods or as adversaries.
+**충분한 인간 인구가 귀환을 원해야 한다**. 출처의 틀: 인류는 "생명에 대한 사랑과 우리와 자기 자신에 대한 인류의 사랑"이 "충분히 강해야" 한다 — 충분한 수의 인간 인구가 동맹을 신이나 적이 아니라 창조자로 인식하며, 의식적으로 동맹의 귀환을 원해야 한다.
 
-**Military threat must be neutralized**. The source's framing: the alliance craft must not be threatened by humanity's destructive military forces. The broader demilitarization commandment that the source articulates is one specific operational condition for the alliance's return — a humanity that retained its current military-confrontational posture would not be one that the alliance could safely return to.
+**군사적 위협이 무력화되어야 한다**. 출처의 틀: 동맹 선박은 인류의 파괴적인 군사력에 의해 위협받아서는 안 된다. 출처가 분명히 밝히는 더 넓은 비무장 계명은 동맹의 귀환을 위한 하나의 구체적 운영 조건이다 — 현재의 군사적·대립적 태세를 유지한 인류는 동맹이 안전하게 귀환할 수 있는 인류가 아닐 것이다.
 
-**Conscious recognition rather than blind faith**. The source's specific framing: the humans welcoming the alliance must do so on the basis of consciousness and understanding rather than on the basis of blind religious faith. The Aquarian-age return is to be received by a scientifically and philosophically mature humanity that has evaluated the alliance's content on its rational merits.
+**맹목적 믿음이 아니라 의식적 인식**. 출처의 구체적 틀: 동맹을 맞이하는 인간은 맹목적 종교적 믿음이 아니라 의식과 이해에 근거하여 그리해야 한다. 물병자리 시대의 귀환은 동맹의 내용을 그 합리적 가치에 따라 평가한, 과학적·철학적으로 성숙한 인류에게 받아들여져야 한다.
 
-### The inheritance event
+### 상속 사건
 
-The framework reads the embassy as the operational location for the **inheritance event** — the formal transmission of accumulated alliance knowledge from the alliance to humanity that occurs following the alliance's open return.
+이 틀은 대사관을 **상속 사건** — 동맹의 공개적 귀환에 뒤이어 동맹으로부터 인류에게로 축적된 동맹 지식이 공식적으로 전수되는 일 — 의 운영 장소로 읽는다.
 
-The specific content of the inheritance event includes:
+상속 사건의 구체적 내용에는 다음이 포함된다:
 
-**Scientific knowledge transmission**. The alliance's accumulated scientific knowledge — biotechnology, advanced physics, propulsion technologies, broader scientific content — will be transmitted to humanity in forms appropriate to humanity's current scientific maturity and capacity to integrate the transferred knowledge.
+**과학적 지식의 전수**. 동맹의 축적된 과학적 지식 — 생명공학, 진보된 물리학, 추진 기술, 더 넓은 과학적 내용 — 이 인류의 현재 과학적 성숙도와 전수된 지식을 통합할 역량에 적합한 형태로 인류에게 전수될 것이다.
 
-**Political-philosophical content**. The alliance's accumulated political-philosophical content — the broader cosmic-political situation, the Cosmic Chain framework, the various alliance-internal political and ethical traditions — will be transmitted to humanity as the broader cosmic context for humanity's projected role as a future creator civilization.
+**정치·철학적 내용**. 동맹의 축적된 정치·철학적 내용 — 더 넓은 우주·정치적 상황, 우주 사슬 틀, 동맹 내부의 다양한 정치적·윤리적 전통 — 이 미래의 창조자 문명으로서 인류의 예상 역할에 대한 더 넓은 우주적 맥락으로 인류에게 전수될 것이다.
 
-**Confirmation of the broader corpus content**. The alliance's open return will provide direct confirmation (or in specific cases, correction) of the broader corpus content — the Genesis 1 creation framework, the various age-specific operations, the seven creator teams and seven races content, the broader cosmological framework. The corpus's specific reconstructions will be either substantially confirmed or, in specific cases, corrected by the alliance's direct authoritative testimony.
+**더 넓은 전집 내용의 확증**. 동맹의 공개적 귀환은 더 넓은 전집 내용 — 창세기 1장 창조 틀, 다양한 시대별 작전, 일곱 창조자 팀과 일곱 인종 내용, 더 넓은 우주론적 틀 — 의 직접적 확증(또는 구체적 경우에는 수정)을 제공할 것이다. 전집의 구체적 재구성은 동맹의 직접적이고 권위 있는 증언에 의해 상당 부분 확증되거나, 구체적 경우에는 수정될 것이다.
 
-**Initiation of subsequent operational arrangements**. The inheritance event will inaugurate the subsequent millennia-long operational arrangement between the alliance and humanity, with the embassy serving as the principal operational center across the subsequent centuries.
+**이후 운영 제도의 개시**. 상속 사건은 동맹과 인류 사이의 이후 수천 년에 걸친 운영 제도를 개시할 것이며, 대사관은 이후 수 세기에 걸쳐 주요 운영 중심으로 기능할 것이다.
 
-### The replica embassy and broader infrastructure
+### 복제 대사관과 더 넓은 기반시설
 
-The source specifies that a **replica embassy**, open to the public, will be constructed near the functional embassy to allow ordinary visitors to experience the site without disrupting the ongoing diplomatic and operational activities.
+출처는 일반 방문객이 진행 중인 외교·운영 활동을 방해하지 않으면서 그 현장을 체험할 수 있도록, 대중에게 공개되는 **복제 대사관**이 기능적 대사관 인근에 건설될 것이라고 명시한다.
 
-The broader infrastructure projected to develop around the embassy includes:
+대사관 주위에 발전할 것으로 예상되는 더 넓은 기반시설에는 다음이 포함된다:
 
-**Pilgrimage infrastructure**. Visitor accommodations, transportation infrastructure, supporting commercial and cultural facilities catering to pilgrimage from all nations to the site.
+**순례 기반시설**. 방문객 숙박, 교통 기반시설, 모든 나라로부터 그 현장으로의 순례에 부응하는 상업·문화 보조 시설.
 
-**Educational and scientific institutions**. Universities, research institutions, libraries, archival facilities clustering around the embassy and providing the institutional infrastructure for the integration of the alliance's transmitted knowledge with humanity's existing scientific and educational structures.
+**교육·과학 기관**. 대사관 주위에 모여들어, 동맹이 전수한 지식을 인류의 기존 과학·교육 구조와 통합하기 위한 제도적 기반시설을 제공하는 대학, 연구 기관, 도서관, 기록 보관 시설.
 
-**Cultural and religious institutions**. The embassy as "the spiritual center of the world for millennia to come" will produce substantial cultural and religious infrastructure development, with the specific forms of this development being one of the principal cultural projects of the Aquarian age's mature phase.
+**문화·종교 기관**. "다가올 수천 년 동안 세상의 영적 중심"으로서의 대사관은 상당한 문화·종교 기반시설 발전을 산출할 것이며, 그 발전의 구체적 형태는 물병자리 시대 성숙기의 주요 문화 프로젝트 중 하나가 될 것이다.
 
-### The Aquarian-age operational role
+### 물병자리 시대의 운영 역할
 
-The embassy's broader Aquarian-age operational role can be summarized as follows: the embassy is the physical site at which the **Pisces-to-Aquarius transition** is concretely realized in operational form. The Piscean age was characterized by indirect contact through prophetic mediation; the Aquarian age is characterized by direct contact through the formal embassy arrangement. The embassy is the specific architectural-operational form that the transition takes, with the broader Aquarian-age developments operating from the embassy as their physical-operational center.
+대사관의 더 넓은 물병자리 시대 운영 역할은 다음과 같이 요약할 수 있다. 대사관은 **물고기자리에서 물병자리로의 전환**이 운영적 형태로 구체적으로 실현되는 물리적 현장이다. 물고기자리 시대는 예언적 중개를 통한 간접 접촉으로 특징지어졌고, 물병자리 시대는 공식 대사관 제도를 통한 직접 접촉으로 특징지어진다. 대사관은 그 전환이 취하는 구체적 건축·운영 형태이며, 더 넓은 물병자리 시대의 전개는 그 물리적·운영적 중심인 대사관으로부터 작동한다.
 
-The source's specific framing places the embassy at the center of the broader Aquarian-age program: the embassy is the location where the seven new commandments (geniocracy, humanitarianism, world government, demilitarization, science as religion, telepathic cultivation, the metaphysical clarifications) will receive their operational implementation through the alliance's direct involvement; the embassy is the site at which the broader Aquarian-age Apocalypse (the unveiling phase) becomes operationally complete; the embassy is the place from which the Aquarian-age transformative content flows outward to humanity at large.
+출처의 구체적 틀은 대사관을 더 넓은 물병자리 시대 프로그램의 중심에 둔다. 대사관은 일곱 새 계명(천재정치, 인도주의, 세계 정부, 비무장, 종교로서의 과학, 텔레파시 함양, 형이상학적 해명)이 동맹의 직접적 관여를 통해 운영적 구현을 받을 장소이며, 대사관은 더 넓은 물병자리 시대의 계시(드러냄의 국면)가 운영상 완성되는 현장이고, 대사관은 물병자리 시대의 변혁적 내용이 인류 전반으로 흘러나가는 장소이다.
 
-## The history of the embassy project
+## 대사관 프로젝트의 역사
 
-### The 1973-1991 preparatory period
+### 1973-1991년 준비기
 
-The 1973 contact established the basic embassy specifications, with subsequent Raëlian-movement development across the 1970s and 1980s focused on the broader institutional infrastructure (the International Raëlian Movement's establishment, the broader Raëlian-philosophical content, the seven new commandments). The specific embassy project was held in preparatory mode during this period.
+1973년 접촉은 기본적 대사관 사양을 확립했으며, 1970년대와 1980년대에 걸친 이후 라엘 운동의 발전은 더 넓은 제도적 기반시설(국제 라엘 운동의 수립, 더 넓은 라엘 철학적 내용, 일곱 새 계명)에 집중되었다. 구체적 대사관 프로젝트는 이 기간 동안 준비 모드에 머물렀다.
 
-In 1990, as a sign of special feelings toward the people of Israel, the Elohim agreed to Raël's suggestion to modify the original Raëlian Symbol of Infinity when used by Raëlian Movement branches in the West. The central swastika (which means "well-being" in Sanskrit and represents infinity in time) was replaced with a galaxy-shaped swirl. This change was made in an effort to help the negotiations for building the embassy in Israel and out of respect for the sensitivities of victims of the Nazi swastika during the Second World War. In Asia, where the swastika appears in Buddhist temples as a symbol of infinity in time, the original symbol remained in use.
+1990년, 이스라엘 백성에 대한 특별한 정의의 표시로, 엘로힘은 서구의 라엘 운동 지부가 사용할 때 본래의 라엘 무한 상징을 수정하자는 라엘의 제안에 동의했다. 중앙의 만(卍)자(산스크리트어로 "안녕"을 뜻하며 시간상의 무한을 나타냄)는 은하 모양의 소용돌이로 교체되었다. 이 변경은 이스라엘에 대사관을 짓기 위한 협상을 돕기 위한 노력에서, 그리고 제2차 세계대전 동안 나치 만자(卐)의 피해자들의 감정에 대한 존중에서 이루어졌다. 만자가 시간상 무한의 상징으로 불교 사원에 나타나는 아시아에서는 본래 상징이 계속 사용되었다.
 
-### The 1991-1997 Israeli engagement
+### 1991-1997년 이스라엘 관여
 
-The first formal request was made on November 8, 1991 (Jewish New Year) to the Chief Rabbi in Jerusalem. A subsequent official request was made to Israel's Chief Rabbi several months later. The request was acknowledged, and a study of the application began. In summer 1993, an Israeli government commission concluded that the Raëlian Movement was peaceful in intent and posed no threat to Israel's security. Two rabbis on the commission reportedly concluded that "it would be better not to do anything against Rael in case he really is the awaited Messiah."
+첫 번째 공식 요청은 1991년 11월 8일(유대 새해)에 예루살렘의 수석 랍비에게 이루어졌다. 몇 달 뒤 이스라엘 수석 랍비에게 후속 공식 요청이 이루어졌다. 요청은 접수되었고, 신청에 대한 검토가 시작되었다. 1993년 여름, 이스라엘 정부 위원회는 라엘 운동이 평화적 의도를 지녔으며 이스라엘 안보에 위협이 되지 않는다고 결론지었다. 위원회의 두 랍비는 "그가 정말로 기다리던 메시아일 경우에 대비하여 라엘에게 어떤 것도 하지 않는 편이 낫다"고 결론지은 것으로 전해진다.
 
-In November 1993, a further direct request was made to Israel's Prime Minister Yitzhak Rabin, who was attending the Montreal Jewish Convention. After approximately a month, Rabin replied through one of his office representatives that he could not comply. Subsequent administrations have not reopened the question.
+1993년 11월, 몬트리올 유대인 대회에 참석 중이던 이스라엘 총리 이츠하크 라빈에게 추가로 직접 요청이 이루어졌다. 약 한 달 뒤, 라빈은 자신의 사무실 대표 중 한 사람을 통해 응할 수 없다고 답했다. 이후의 정권들은 이 문제를 다시 열지 않았다.
 
-### The December 13, 1997 authorization
+### 1997년 12월 13일의 허가
 
-The December 13, 1997 message from Yahweh formally authorized the relocation of the embassy project to other countries, with Israel retaining a final option but the project no longer being contingent on Israeli cooperation. The message's specific content has been treated above under *In primary sources*.
+1997년 12월 13일 야훼의 메시지는 대사관 프로젝트의 다른 나라로의 이전을 공식 허가했으며, 이스라엘은 최종 선택권을 유지하되 프로젝트는 더 이상 이스라엘의 협력에 좌우되지 않게 되었다. 이 메시지의 구체적 내용은 위 *일차 출처에서*에서 다루었다.
 
-### The 1998-2020 negotiations
+### 1998-2020년 협상
 
-Across the subsequent two decades, the Raëlian movement conducted negotiations with various potential host countries. The principal documented negotiations include engagement with Canada, Russia, Lebanon, and various other countries across the 1990s and 2000s. None of these negotiations produced a formal extraterritorial grant during this period.
+이후 20년에 걸쳐 라엘 운동은 다양한 잠재적 주최국과 협상을 벌였다. 주요한 문서화된 협상에는 1990년대와 2000년대에 걸친 캐나다, 러시아, 레바논, 그리고 다양한 다른 나라들과의 관여가 포함된다. 이 협상들 가운데 이 기간 동안 공식 치외법권 부여를 산출한 것은 없었다.
 
-In 2005, Raël's commentary in the published *Message from the Designers* identified Mount Sinai's lower slopes as a possible Egyptian alternative ("the lower slopes of Mount Sinai would make an excellent alternative choice since that is where Yahweh, the leader of the Elohim, first appeared to Moses"), with possible Palestinian or other neighboring-state locations also under consideration.
+2005년, 출간된 *설계자들로부터의 메시지*에서 라엘의 논평은 시나이산의 낮은 비탈을 가능한 이집트 대안으로 식별했으며("시나이산의 낮은 비탈은, 엘로힘의 지도자 야훼가 모세에게 처음 나타난 곳이므로, 훌륭한 대안 선택이 될 것이다"), 가능한 팔레스타인이나 다른 인접국 위치도 고려 대상이었다.
 
-### The 2015 UN Optional Protocol
+### 2015년 UN 선택 의정서
 
-In 2015, the Raëlian movement submitted to the United Nations an "Optional Protocol Concerning Embassies for Extraterrestrials," proposing a standard diplomatic framework that any host country could use to formalize the extraterritorial grant. The Protocol provided detailed provisions for the legal-diplomatic infrastructure required by the embassy project and represented the movement's most substantial attempt to formalize the embassy's legal status within established international-diplomatic frameworks.
+2015년, 라엘 운동은 국제연합에 "외계인을 위한 대사관에 관한 선택 의정서"를 제출하여, 어느 주최국이든 치외법권 부여를 공식화하는 데 사용할 수 있는 표준 외교 틀을 제안했다. 이 의정서는 대사관 프로젝트가 요구하는 법적·외교적 기반시설에 대한 상세한 조항을 제공했으며, 대사관의 법적 지위를 확립된 국제 외교 틀 안에서 공식화하려는 이 운동의 가장 실질적인 시도를 나타냈다.
 
-### The 2021-2024 acceleration
+### 2021-2024년 가속
 
-Beginning in 2021, the embassy project entered a period of substantial acceleration:
+2021년부터 대사관 프로젝트는 상당한 가속의 시기에 들어섰다.
 
-**February 2021**: The Alliance for Extraterrestrial Diplomatic Contact (AEDC) was established as an international non-profit organization of politicians, diplomats, and government officials committed to welcoming extraterrestrial civilizations to Earth.
+**2021년 2월**: 외계 외교 접촉을 위한 동맹(AEDC)이 지구로의 외계 문명 영접에 헌신하는 정치인, 외교관, 정부 관리들의 국제 비영리 조직으로 수립되었다.
 
-**2022**: Embassy project teams began presentations to mayors of fifty selected cities on every continent, providing the project with substantially expanded political-diplomatic visibility.
+**2022년**: 대사관 프로젝트 팀들은 모든 대륙의 선정된 50개 도시 시장에 대한 발표를 시작하여, 프로젝트에 상당히 확대된 정치·외교적 가시성을 부여했다.
 
-**2024**: A national government (whose identity the movement is maintaining confidentiality on, pending further stages of the negotiation) signed a Memorandum of Collaboration with the Raëlian movement to explore hosting the embassy project. Daniel Turcotte, the Raëlian guide responsible for the embassy project, described the signing as "a historic day for humanity," noting that "a nation has finally shown the courage and vision to prepare for the return of an advanced extraterrestrial civilization to Earth." The memorandum outlines a collaborative framework including objectives, roles, principles of cooperation, and a timeline for the exploratory work.
+**2024년**: 한 국가 정부(협상의 추가 단계가 진행되기까지 그 정체에 대해 이 운동이 비밀을 유지하고 있다)가 대사관 프로젝트 유치를 모색하기 위해 라엘 운동과 협력 양해각서에 서명했다. 대사관 프로젝트를 책임지는 라엘 가이드 다니엘 튀르코트는 그 서명을 "인류를 위한 역사적인 날"이라 묘사하며, "한 나라가 마침내 진보된 외계 문명의 지구 귀환을 준비할 용기와 비전을 보여 주었다"고 언급했다. 양해각서는 목표, 역할, 협력 원칙, 그리고 탐색적 작업을 위한 일정을 포함하는 협력 틀을 개괄한다.
 
-### The 2025-2030 projected timeline
+### 2025-2030년 예상 일정
 
-The Raëlian movement's published timeline projects the following phases:
+라엘 운동이 발표한 일정은 다음 단계들을 예상한다:
 
-**2025-2027 (site acquisition phase)**: The preferred site will be identified, the extraterritorial transfer will be legally effected, and agreements concerning off-site infrastructure will be concluded.
+**2025-2027년(부지 취득 단계)**: 선호 부지가 식별되고, 치외법권 이전이 법적으로 이루어지며, 부지 외 기반시설에 관한 합의가 체결될 것이다.
 
-**2027-2030 (planning and construction phase)**: Master planning, architectural and engineering design, contracts, and actual construction of the embassy complex, including the public-facing replica embassy.
+**2027-2030년(기획 및 건설 단계)**: 마스터플랜, 건축·공학 설계, 계약, 그리고 대중 공개용 복제 대사관을 포함한 대사관 복합의 실제 건설.
 
-**Post-2030 (caretaker mode)**: The embassy will operate in caretaker mode awaiting the arrival of the alliance delegation.
+**2030년 이후(관리자 모드)**: 대사관은 동맹 대표단의 도래를 기다리며 관리자 모드로 운영될 것이다.
 
-The corpus registers these projections without endorsing them as confirmed. The specific Raëlian-movement timeline is the movement's own institutional projection, with the actual progress depending on the success of the diplomatic negotiations and broader political conditions.
+전집은 이 예상을 확정된 것으로 보증하지 않으면서 기록한다. 구체적 라엘 운동 일정은 이 운동 자체의 제도적 예상이며, 실제 진척은 외교 협상의 성공과 더 넓은 정치적 조건에 달려 있다.
 
-## Application across the corpus
+## 전집 전반에 걸친 적용
 
-The embassy concept operates as a specific operational element within multiple corpus entries.
+대사관 개념은 여러 전집 항목 안에서 구체적 운영 요소로 작동한다.
 
-### The Apocalypse entry
+### 계시 항목
 
-The embassy is the operational location for the broader Apocalypse (the unveiling phase) the corpus's framework articulates. The detailed treatment of the Apocalypse lives in the [Apocalypse](../apocalypse/) entry; the Embassy entry's specific contribution is establishing the embassy's specific role as the physical-operational site at which the Apocalypse becomes operationally complete.
+대사관은 전집의 틀이 분명히 밝히는 더 넓은 계시(드러냄의 국면)를 위한 운영 장소이다. 계시에 대한 상세한 다룸은 [계시](../apocalypse/) 항목에 있으며, 대사관 항목의 구체적 기여는 계시가 운영상 완성되는 물리적·운영적 현장으로서 대사관의 구체적 역할을 확립하는 것이다.
 
-### The Cosmic Competition entry
+### 우주적 경쟁 항목
 
-The embassy is the operational location for the inheritance event that follows the Cosmic Competition's evaluation phase. The detailed treatment of the Cosmic Competition lives in the [Cosmic Competition](../cosmic-competition/) entry; the Embassy entry's specific contribution is establishing the embassy as the specific architectural-operational form within which the inheritance transmission occurs.
+대사관은 우주적 경쟁의 평가 국면에 뒤따르는 상속 사건을 위한 운영 장소이다. 우주적 경쟁에 대한 상세한 다룸은 [우주적 경쟁](../cosmic-competition/) 항목에 있으며, 대사관 항목의 구체적 기여는 상속 전수가 그 안에서 일어나는 구체적 건축·운영 형태로서 대사관을 확립하는 것이다.
 
-### The Cosmic Chain entry
+### 우주 사슬 항목
 
-The embassy is the operational location for Earth's projected transition from created to creator civilization within the broader Cosmic Chain. The detailed treatment of the Cosmic Chain lives in the [Cosmic Chain](../cosmic-chain/) entry; the Embassy entry's specific contribution is establishing the embassy as the specific physical site at which Earth's place in the chain is operationally formalized.
+대사관은 더 넓은 우주 사슬 안에서 창조된 문명에서 창조자 문명으로의 지구의 예상되는 전환을 위한 운영 장소이다. 우주 사슬에 대한 상세한 다룸은 [우주 사슬](../cosmic-chain/) 항목에 있으며, 대사관 항목의 구체적 기여는 사슬 안에서 지구의 자리가 운영상 공식화되는 구체적 물리적 현장으로서 대사관을 확립하는 것이다.
 
-### The Doubled Signature entry
+### 이중 서명 항목
 
-The embassy is the operational realization of the Aquarian age's water-bearer signature. The Ezekiel 47 imagery (water flowing from the threshold of the temple) is, on the framework's reading, the prophetic prefiguration of the embassy's projected operational role as the source from which the Aquarian-age waters of understanding flow. The detailed treatment of the Doubled Signature lives in the [Doubled Signature](../doubled-signature/) entry; the Embassy entry's specific contribution is establishing the embassy's role within the Aquarius-Leo signature's operational realization.
+대사관은 물병자리 시대의 물병자리 서명의 운영적 실현이다. 에스겔 47장의 형상(성전 문지방에서 흘러나오는 물)은, 이 틀의 독해에서, 물병자리 시대의 깨달음의 물이 흘러나오는 근원으로서 대사관의 예상 운영 역할의 예언적 예표이다. 이중 서명에 대한 상세한 다룸은 [이중 서명](../doubled-signature/) 항목에 있으며, 대사관 항목의 구체적 기여는 물병자리-사자자리 서명의 운영적 실현 안에서 대사관의 역할을 확립하는 것이다.
 
-### The Raël entry
+### 라엘 항목
 
-The embassy is the operational center for the Aquarian-age prophet's mission. The detailed treatment of Raël's role lives in the [Raël](../rael/) entry (when written); the Embassy entry's specific contribution is establishing the embassy as the principal operational project within Raël's broader prophetic mission.
+대사관은 물병자리 시대 예언자의 사명을 위한 운영 중심이다. 라엘의 역할에 대한 상세한 다룸은 [라엘](../rael/) 항목(작성될 때)에 있으며, 대사관 항목의 구체적 기여는 라엘의 더 넓은 예언적 사명 안에서 주요 운영 프로젝트로서 대사관을 확립하는 것이다.
 
-### The Age of Aquarius entry
+### 물병자리 시대 항목
 
-The embassy is the central operational element of the Aquarian-age program. The detailed treatment of the Age of Aquarius lives in the [Age of Aquarius](../timeline/age-of-aquarius/) entry; the Embassy entry's specific contribution is establishing the embassy's specific operational features.
+대사관은 물병자리 시대 프로그램의 중심 운영 요소이다. 물병자리 시대에 대한 상세한 다룸은 [물병자리 시대](../timeline/age-of-aquarius/) 항목에 있으며, 대사관 항목의 구체적 기여는 대사관의 구체적 운영 특징을 확립하는 것이다.
 
-## Distinguishing from adjacent concepts
+## 인접 개념과의 구별
 
-### The Embassy vs. the Solomonic First Temple
+### 대사관 대 솔로몬의 제1성전
 
-The Solomonic First Temple was the historical first alliance-embassy at Jerusalem (built c. 950 BCE, destroyed 586 BCE), serving as the physical location for the alliance's presence during the Aries age. The contemporary Embassy is the projected Third Temple succeeding the Solomonic and Second Temples in the same operational lineage.
+솔로몬의 제1성전은 예루살렘의 역사적 첫 동맹-대사관(기원전 950년경 건립, 기원전 586년 파괴)으로, 양자리 시대 동안 동맹의 현존을 위한 물리적 장소로 기능했다. 동시대 대사관은 같은 운영 혈통에서 솔로몬 성전과 제2성전을 계승하는 예상된 제3성전이다.
 
-The relationship is one of **operational succession**. The contemporary Embassy is the third in a specific historical sequence of alliance-embassy structures, with each successive embassy serving the same broader operational purpose within the corresponding age's specific operational arrangements.
+이 관계는 **운영적 계승**의 관계이다. 동시대 대사관은 동맹-대사관 구조물의 구체적 역사적 연속에서 세 번째이며, 각 후속 대사관은 해당 시대의 구체적 운영 제도 안에서 같은 더 넓은 운영 목적에 봉사한다.
 
-### The Embassy vs. the Second Temple
+### 대사관 대 제2성전
 
-The Second Temple was the historical second alliance-embassy at Jerusalem (built c. 516 BCE, expanded c. 20 BCE, destroyed 70 CE). The contemporary Embassy is the third in the operational sequence.
+제2성전은 예루살렘의 역사적 두 번째 동맹-대사관(기원전 516년경 건립, 기원전 20년경 확장, 서기 70년 파괴)이었다. 동시대 대사관은 그 운영 연속에서 세 번째이다.
 
-### The Embassy vs. the broader Apocalypse event
+### 대사관 대 더 넓은 계시 사건
 
-The broader Apocalypse is the unveiling phase during which the alliance's previously concealed work becomes openly known to humanity. The Embassy is the specific physical-operational site at which the Apocalypse becomes operationally complete.
+더 넓은 계시는 동맹의 이전에 감추어졌던 작업이 인류에게 공개적으로 알려지는 드러냄의 국면이다. 대사관은 계시가 운영상 완성되는 구체적 물리적·운영적 현장이다.
 
-The relationship is one of **broader-event-and-specific-site**. The Apocalypse is the broader unveiling phase; the Embassy is the specific architectural-operational location at which the unveiling reaches its specific formal completion.
+이 관계는 **더 넓은 사건과 구체적 현장**의 관계이다. 계시는 더 넓은 드러냄의 국면이고, 대사관은 그 드러냄이 구체적 공식 완성에 이르는 구체적 건축·운영 장소이다.
 
-### The Embassy vs. the Cosmic Competition framework
+### 대사관 대 우주적 경쟁 틀
 
-The Cosmic Competition framework concerns the broader cosmological evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification. The Embassy is the specific physical-operational location at which the inheritance event occurs following the evaluation phase's completion.
+우주적 경쟁 틀은 창조자 문명이 상속 자격을 위해 자신이 창조한 인류들을 평가하는 더 넓은 우주론적 평가 국면에 관한 것이다. 대사관은 평가 국면의 완성에 뒤이어 상속 사건이 일어나는 구체적 물리적·운영적 장소이다.
 
-The relationship is one of **broader-evaluation-and-specific-inheritance-site**. The Cosmic Competition is the broader evaluation framework; the Embassy is the specific architectural-operational form within which the inheritance transmission occurs.
+이 관계는 **더 넓은 평가와 구체적 상속 현장**의 관계이다. 우주적 경쟁은 더 넓은 평가 틀이고, 대사관은 상속 전수가 그 안에서 일어나는 구체적 건축·운영 형태이다.
 
-### The Embassy vs. the alliance's residence on the home world
+### 대사관 대 모행성의 동맹 거주지
 
-The alliance's residence on the home world is the principal location for the alliance's day-to-day operational activities. The Embassy on Earth is a specific operational facility designated for the alliance's Earth-side work during the Aquarian-age operational phase.
+모행성의 동맹 거주지는 동맹의 일상적 운영 활동을 위한 주요 장소이다. 지구의 대사관은 물병자리 시대 운영 국면 동안 동맹의 지구 측 작업을 위해 지정된 구체적 운영 시설이다.
 
-The relationship is one of **home-world-base-and-Earth-side-operational-facility**. The home world is the alliance's principal residence; the Earth Embassy is a specific outpost facility with limited but specific operational functions.
+이 관계는 **모행성 기지와 지구 측 운영 시설**의 관계이다. 모행성은 동맹의 주요 거주지이고, 지구 대사관은 제한되지만 구체적인 운영 기능을 지닌 구체적 전초 시설이다.
 
-## Modern reinterpretations
+## 현대적 재해석
 
-### The contemporary UFO/UAP disclosure movement
+### 동시대 UFO/UAP 공개 운동
 
-The broader question of extraterrestrial contact has received substantial recent academic and governmental attention, with substantial implications for the broader landscape within which the embassy project operates.
+외계 접촉이라는 더 넓은 문제는 최근 상당한 학술적·정부적 주목을 받았으며, 대사관 프로젝트가 작동하는 더 넓은 지형에 상당한 함의를 지닌다.
 
-**Christopher Mellon** (former Deputy Assistant Secretary of Defense for Intelligence) has been a substantial public advocate for transparency on UAP (Unidentified Aerial Phenomena) issues, with substantial public appearances, op-eds, and policy advocacy across the 2017-2025 period. Mellon's specific advocacy has been principally focused on the UAP disclosure question rather than on specific religious-prophetic frameworks.
+**크리스토퍼 멜런**(전 국방 정보 담당 부차관보)은 UAP(미확인 공중 현상) 문제에 대한 투명성의 실질적 공개 옹호자로, 2017-2025년 기간에 걸쳐 상당한 공개 출연, 기고, 정책 옹호를 해 왔다.{{ footnote(id="5") }} 멜런의 구체적 옹호는 주로 구체적인 종교·예언적 틀보다는 UAP 공개 문제에 초점을 맞추었다.
 
-**Luis Elizondo** (former director of the U.S. Department of Defense's Advanced Aerospace Threat Identification Program, AATIP) became a substantial public figure following the December 2017 *New York Times* articles on the AATIP program and the subsequent Tom DeLonge/To the Stars Academy disclosures. Elizondo's 2024 book *Imminent: Inside the Pentagon's Hunt for UFOs* provided substantial public documentation of the U.S. government's UAP investigation programs.
+**루이스 엘리손도**(전 미국 국방부 진보 항공우주 위협 식별 프로그램(AATIP) 책임자)는 2017년 12월 *뉴욕 타임스*의 AATIP 프로그램 기사와 이후의 톰 딜롱/투 더 스타스 아카데미 폭로에 뒤이어 실질적 공인이 되었다. 엘리손도의 2024년 저서 *임박: 펜타곤의 UFO 추적 내막*은 미국 정부의 UAP 조사 프로그램에 대한 실질적 공개 문서화를 제공했다.{{ cite(id="elizondo-imminent", text="[7]", title="엘리손도, 『임박: 펜타곤의 UFO 추적 내막』(2024)") }}
 
-**David Grusch** (former U.S. intelligence officer, now retired) testified to the U.S. House Oversight Committee on July 26, 2023, providing substantial public testimony regarding alleged U.S. government UAP retrieval programs. The testimony was substantively significant in producing substantial subsequent congressional and media engagement with the broader UAP question.
+**데이비드 그루시**(전 미국 정보 장교, 현재 퇴역)는 2023년 7월 26일 미국 하원 감독위원회에서, 미국 정부의 UAP 회수 프로그램으로 추정되는 것에 관한 실질적 공개 증언을 제공했다.{{ cite(id="grusch-congressional-testimony", text="[8]", title="그루시, 미국 하원 감독위원회 증언(2023년 7월 26일)") }} 그 증언은 이후 상당한 의회 및 언론의 더 넓은 UAP 문제에 대한 관여를 산출하는 데 실질적으로 중요했다.
 
-**Recent congressional hearings**. The U.S. Congress has conducted multiple substantial UAP-related hearings across the 2022-2025 period, with substantial bipartisan engagement and various legislative proposals. The 2023 UAP Disclosure Act, while substantially amended in committee, represented a substantive congressional engagement with the disclosure question.
+**최근의 의회 청문회**. 미국 의회는 2022-2025년 기간에 걸쳐 여러 차례의 실질적 UAP 관련 청문회를 개최했으며, 상당한 초당적 관여와 다양한 입법 제안이 있었다. 2023년 UAP 공개법은 위원회에서 상당히 수정되었으나, 공개 문제에 대한 실질적 의회 관여를 나타냈다.
 
-**The mainstream UAP disclosure movement** has substantially expanded the cultural-political space within which extraterrestrial-contact discussions occur. The framework reads this expanded space as relevant background for the embassy project's contemporary diplomatic engagement, even where the disclosure movement's specific content does not engage the embassy project directly.
+**주류 UAP 공개 운동**은 외계 접촉 논의가 일어나는 문화·정치적 공간을 상당히 확장했다. 이 틀은 공개 운동의 구체적 내용이 대사관 프로젝트를 직접 다루지 않는 경우에도, 이 확장된 공간을 대사관 프로젝트의 동시대 외교적 관여를 위한 관련 배경으로 읽는다.
 
-### Academic UAP studies
+### 학술적 UAP 연구
 
-Academic engagement with UAP questions has substantially developed across the past several years.
+UAP 문제에 대한 학술적 관여는 지난 몇 년에 걸쳐 상당히 발전했다.
 
-**The Stanford Sol Foundation** (established 2023, led by Garry Nolan and Peter Skafish at Stanford) has conducted substantial academic engagement with UAP questions, including academic conferences, publications, and broader academic-disciplinary engagement. The Sol Foundation's specific research focuses on the empirical question of UAP phenomena rather than on specific religious-prophetic frameworks.
+**스탠퍼드 솔 재단**(2023년 설립, 스탠퍼드의 개리 놀런과 피터 스카피시가 이끎)은 학술 회의, 출판, 더 넓은 학문 분야적 관여를 포함하여 UAP 문제에 대한 실질적 학술 관여를 수행했다. 솔 재단의 구체적 연구는 구체적인 종교·예언적 틀보다는 UAP 현상의 경험적 문제에 초점을 맞춘다.
 
-**The Harvard Galileo Project** (established 2021, led by Avi Loeb at Harvard) has conducted substantial empirical research on UAP and broader questions of extraterrestrial intelligence. Loeb's research has been substantially focused on observational and empirical methodology, with various publications and broader public engagement across the 2021-2025 period.
+**하버드 갈릴레오 프로젝트**(2021년 설립, 하버드의 아비 로엡이 이끎)는 UAP와 외계 지성에 관한 더 넓은 문제에 대한 실질적 경험적 연구를 수행했다. 로엡의 연구는 관측적·경험적 방법론에 상당히 초점을 맞추었으며, 2021-2025년 기간에 걸쳐 다양한 출판과 더 넓은 공개 관여가 있었다.{{ cite(id="loeb-extraterrestrial", text="[9]", title="로엡, 『외계』(2021) — 오우무아무아 논증") }}{{ cite(id="loeb-interstellar", text="[10]", title="로엡, 『성간』(2023) — 갈릴레오 프로젝트") }}
 
-**Other academic engagement** includes various publications, conferences, and institutional initiatives across multiple universities and research organizations, with the academic UAP studies field substantially expanding from its prior peripheral status.
+**다른 학술적 관여**에는 여러 대학과 연구 조직에 걸친 다양한 출판, 회의, 제도적 발의가 포함되며, 학술적 UAP 연구 분야는 이전의 주변적 지위에서 상당히 확장되고 있다.
 
-The framework's relationship to academic UAP studies is one of structural compatibility on the broader empirical question while extending substantially beyond what academic UAP research directly engages.
+이 틀과 학술적 UAP 연구의 관계는 더 넓은 경험적 문제에 대한 구조적 양립가능성의 관계이되, 학술적 UAP 연구가 직접 다루는 것을 상당히 넘어선다.
 
-### Extraterritorial diplomatic precedents
+### 치외법권 외교 선례
 
-The legal-diplomatic framework within which the embassy operates draws on substantial diplomatic precedent.
+대사관이 작동하는 법적·외교적 틀은 상당한 외교적 선례에 의지한다.
 
-**Vienna Convention on Diplomatic Relations** (1961). The Convention establishes the standard legal framework for diplomatic missions, with substantial implications for the embassy project's specific legal-diplomatic requirements.
+**외교관계에 관한 빈 협약**(1961). 이 협약은 외교 공관을 위한 표준 법적 틀을 확립하며, 대사관 프로젝트의 구체적 법적·외교적 요건에 상당한 함의를 지닌다.
 
-**Vatican City State**. Established by the Lateran Treaty of 1929, Vatican City is the principal contemporary example of a sovereign extraterritorial entity occupying limited specific territory within a larger host state. The Vatican City precedent is substantially relevant for the embassy project's specific legal-diplomatic structure.
+**바티칸 시국**. 1929년 라테란 조약으로 수립된 바티칸 시국은 더 큰 주최국 안에서 제한된 구체적 영토를 차지하는 주권적 치외법권 실체의 주요한 현대적 사례이다. 바티칸 시국 선례는 대사관 프로젝트의 구체적 법적·외교적 구조에 상당히 관련된다.
 
-**Sovereign Military Order of Malta**. The Order's distinctive international-legal status (sovereign subject of international law without controlling specific territory in the conventional sense) provides one specific precedent for non-state-entity diplomatic engagement.
+**몰타 기사단**. 이 기사단의 독특한 국제법적 지위(통상적 의미의 특정 영토를 통제하지 않으면서 국제법의 주권적 주체)는 비국가 실체의 외교적 관여를 위한 하나의 구체적 선례를 제공한다.
 
-**Other extraterritorial precedents** include various international organization headquarters (UN headquarters, European Union institutions, various other inter-governmental organization sites) and various specific diplomatic-mission arrangements across contemporary international law.
+**다른 치외법권 선례**에는 다양한 국제기구 본부(UN 본부, 유럽연합 기관, 다양한 다른 정부 간 기구 부지)와 동시대 국제법에 걸친 다양한 구체적 외교 공관 제도가 포함된다.
 
-The framework reads these precedents as the substantial legal-diplomatic infrastructure within which the embassy project's specific legal requirements can be operationally formalized.
+이 틀은 이 선례들을, 대사관 프로젝트의 구체적 법적 요건이 운영상 공식화될 수 있는 상당한 법적·외교적 기반시설로 읽는다.
 
-### Sendy on the prophesied return
+### 예언된 귀환에 관한 상디
 
-**Jean Sendy** developed substantial engagement with what would become the embassy framework, principally through his treatment of the Hebrew prophetic tradition and the broader Aquarian-age framework. Sendy's specific contributions include:
+**장 상디**는 주로 히브리 예언 전통과 더 넓은 물병자리 시대 틀에 대한 그의 다룸을 통해, 훗날 대사관 틀이 될 것에 대한 실질적 관여를 발전시켰다. 상디의 구체적 기여에는 다음이 포함된다:
 
-- The treatment of the Hebrew Bible's various prophetic passages as preserving substantive operational content concerning the alliance's projected return
-- The integration of these readings with the broader Aquarian-age framework Sendy developed in *L'ère du Verseau*
-- The specific identification of various Hebrew prophetic passages with the projected alliance return
+- 히브리 성경의 다양한 예언 구절을 동맹의 예상된 귀환에 관한 실질적 운영 내용을 보존한 것으로 다룬 것
+- 이 독해들을 상디가 *물병자리 시대*에서 발전시킨 더 넓은 물병자리 시대 틀과 통합한 것
+- 다양한 히브리 예언 구절을 예상된 동맹 귀환과 구체적으로 동일시한 것
 
-Sendy's specific embassy development is more limited than the framework's contemporary articulation, but Sendy provides substantial methodological warrant for treating the Hebrew prophetic tradition as preserving substantive operational content.
+상디의 구체적 대사관 발전은 이 틀의 동시대적 분명한 표현보다 더 제한적이지만, 상디는 히브리 예언 전통을 실질적 운영 내용을 보존한 것으로 다루는 데 대한 상당한 방법론적 근거를 제공한다.
 
-### Biglino on the prophesied return
+### 예언된 귀환에 관한 비글리노
 
-**Mauro Biglino**'s strict-translational engagement with the Hebrew Bible has produced limited specific engagement with the embassy project, though Biglino's broader treatment of the Hebrew Bible's specific prophetic content is structurally compatible with the embassy framework. Biglino's specific reading of the Hebrew prophetic literature as preserving substantive operational content (rather than as theological-symbolic content) provides one specific scholarly antecedent for the embassy framework's broader interpretive approach.
+**마우로 비글리노**의 히브리 성경에 대한 엄격한 직역적 관여는 대사관 프로젝트에 대한 제한적인 구체적 관여를 산출했으나, 비글리노의 더 넓은 히브리 성경의 구체적 예언 내용 다룸은 대사관 틀과 구조적으로 양립한다. 히브리 예언 문헌을 (신학적·상징적 내용이 아니라) 실질적 운영 내용을 보존한 것으로 읽는 비글리노의 구체적 독해는 대사관 틀의 더 넓은 해석적 접근에 대한 하나의 구체적 학술적 선례를 제공한다.
 
-### Wallis on the prophesied return
+### 예언된 귀환에 관한 월리스
 
-**Paul Anthony Wallis**'s broader engagement with the alliance-mediated history includes some treatment of the projected return question, principally within the broader context of the various ancient texts' references to anticipated alliance-contact events. Wallis's specific embassy development is more limited than the framework's contemporary articulation.
+**폴 앤서니 월리스**의 동맹 매개 역사에 대한 더 넓은 관여에는 예상된 귀환 문제에 대한 일부 다룸이 포함되는데, 주로 다양한 고대 텍스트가 언급하는 예기된 동맹 접촉 사건이라는 더 넓은 맥락 안에서이다. 월리스의 구체적 대사관 발전은 이 틀의 동시대적 분명한 표현보다 더 제한적이다.
 
-### The framework's relationship to the broader landscape
+### 더 넓은 지형에 대한 이 틀의 관계
 
-The corpus's embassy framework is positioned within this landscape as follows: substantially source-grounded with detailed specifications drawn directly from Raëlian source material; structurally engaged with contemporary UFO/UAP disclosure movement at the broader cultural-political level; legally-diplomatically engaged with established extraterritorial-status precedents; structurally compatible with the broader Sendy-Biglino-Wallis tradition's reading of the Hebrew prophetic tradition; positioned as a present-day operational project rather than as a purely theoretical or interpretive framework; testable in the near term through direct observation of the project's actual progress (or lack thereof).
+전집의 대사관 틀은 이 지형 안에 다음과 같이 자리한다. 라엘 출처 자료에서 직접 가져온 상세 사양과 함께 상당 부분 출처에 근거하며, 더 넓은 문화·정치적 차원에서 동시대 UFO/UAP 공개 운동과 구조적으로 관여하고, 확립된 치외법권 지위 선례와 법적·외교적으로 관여하며, 히브리 예언 전통에 대한 더 넓은 상디-비글리노-월리스 전통의 독해와 구조적으로 양립하고, 순전히 이론적이거나 해석적인 틀이 아니라 오늘날의 운영 프로젝트로 자리하며, 프로젝트의 실제 진척(또는 그 결여)에 대한 직접 관찰을 통해 가까운 미래에 검증 가능하다.
 
-## Comparative observations
+## 비교 관찰
 
-Anticipated-return traditions appear across multiple cultural-religious frameworks worldwide, with substantial structural parallels to the framework's embassy reading. The corpus reads this cross-cultural pattern as evidence of broader operational realities preserved in fragmentary form across the various traditions.
+예기된 귀환 전통은 전 세계 여러 문화·종교 틀에 걸쳐 나타나며, 이 틀의 대사관 독해와 상당한 구조적 유사성을 지닌다. 전집은 이 범문화적 패턴을, 다양한 전통에 걸쳐 단편적 형태로 보존된 더 넓은 운영적 실재의 증거로 읽는다.
 
-### Jewish Third Temple traditions
+### 유대교 제3성전 전통
 
-The Jewish tradition preserves the most directly relevant comparative material on the projected return.
+유대교 전통은 예상된 귀환에 관한 가장 직접적으로 관련된 비교 자료를 보존한다.
 
-**Ezekiel's Temple** (Ezekiel 40-48) provides the most elaborate prophetic-architectural specifications in the Hebrew Bible. Ezekiel's vision details the dimensions, structures, courtyards, and ritual arrangements of a future temple, with substantial subsequent rabbinic and contemporary Jewish engagement. The Ezekiel specifications differ from the historical First and Second Temples in various specific respects, suggesting that the prophetic vision describes a third temple yet to be built.
+**에스겔의 성전**(에스겔 40-48장)은 히브리 성경에서 가장 정교한 예언적·건축적 사양을 제공한다. 에스겔의 환상은 미래 성전의 치수, 구조물, 뜰, 의례 배치를 상세히 묘사하며, 이후 상당한 랍비적·동시대 유대교의 관여가 있었다. 에스겔의 사양은 역사적 제1성전 및 제2성전과 여러 구체적 측면에서 다르며, 이는 그 예언적 환상이 아직 세워지지 않은 세 번째 성전을 묘사함을 시사한다.
 
-**The messianic-age Third Temple tradition**. Jewish tradition has long anticipated a Third Temple to be built in the messianic age. The principal positions include the Maimonidean view (that the Third Temple will be built by the Messiah upon his arrival, *Mishneh Torah*, *Hilchot Melachim* 11:1), various medieval and modern positions on whether construction must precede or follow the messianic arrival, and various contemporary positions on the relationship between Third Temple construction and broader messianic eschatology.
+**메시아 시대의 제3성전 전통**. 유대교 전통은 오랫동안 메시아 시대에 세워질 제3성전을 기대해 왔다. 주요 입장에는 마이모니데스적 견해(제3성전은 메시아가 도래할 때 그에 의해 세워질 것이라는, 『미슈네 토라』, 『왕들의 법』 11:1), 건설이 메시아의 도래에 선행해야 하는지 뒤따라야 하는지에 대한 다양한 중세 및 근대 입장, 그리고 제3성전 건설과 더 넓은 메시아 종말론의 관계에 대한 다양한 동시대 입장이 포함된다.
 
-**The Temple Movement** (contemporary). Various contemporary Jewish organizations advocate for active preparation toward Third Temple construction, including the Temple Institute (founded 1987), the Temple Mount Faithful, and various other organizations engaged in the preparation of ritual implements, the training of priests, and broader institutional preparation for the projected Third Temple's construction.
+**성전 운동**(동시대). 다양한 동시대 유대교 조직은 제3성전 건설을 향한 적극적 준비를 옹호하는데, 여기에는 성전 연구소(1987년 설립), 성전산 신실파, 그리고 의례 기구의 준비, 제사장 훈련, 예상된 제3성전 건설을 위한 더 넓은 제도적 준비에 관여하는 다양한 다른 조직이 포함된다.
 
-**The Temple Mount political situation** is the principal practical-political constraint on Third Temple construction in the contemporary period. The Temple Mount in Jerusalem hosts the al-Aqsa Mosque and the Dome of the Rock (both Islamic religious sites of substantial significance), with the broader Israeli-Palestinian-Islamic political situation creating substantial constraints on any potential construction project.
+**성전산의 정치적 상황**은 동시대에 제3성전 건설에 대한 주요한 실제적·정치적 제약이다. 예루살렘의 성전산은 알아크사 모스크와 바위의 돔(둘 다 상당한 의의를 지닌 이슬람 종교 성지)을 품고 있으며, 더 넓은 이스라엘-팔레스타인-이슬람 정치 상황은 어떤 잠재적 건설 프로젝트에도 상당한 제약을 만들어 낸다.
 
-The framework reads the Jewish Third Temple tradition as substantively preserving the operational content of the embassy framework within the distinctive Jewish theological-religious framing. The specific Jewish elaborations (the Ezekiel specifications, the messianic-age framework, the Temple Mount complications) reflect the tradition's distinctive content while preserving the underlying operational pattern.
+이 틀은 유대교 제3성전 전통을, 구별되는 유대교 신학·종교적 틀 안에서 대사관 틀의 운영 내용을 실질적으로 보존하는 것으로 읽는다. 구체적인 유대교의 정교화(에스겔 사양, 메시아 시대 틀, 성전산 난제)는 전통의 구별되는 내용을 반영하면서도 바탕에 깔린 운영 패턴을 보존한다.
 
-### Christian Second Coming and Parousia traditions
+### 기독교 재림과 파루시아 전통
 
-The Christian tradition preserves substantial material on the **Parousia** (the projected Second Coming of Christ).
+기독교 전통은 **파루시아**(예상되는 그리스도의 재림)에 관한 상당한 자료를 보존한다.
 
-**The Synoptic Gospel apocalyptic discourses** (Matthew 24, Mark 13, Luke 21) provide the principal Gospel material on the Parousia. The discourses describe the projected return in elaborate apocalyptic-symbolic language, with substantial subsequent theological-historical engagement.
+**공관복음의 종말론적 강화**(마태복음 24장, 마가복음 13장, 누가복음 21장)는 파루시아에 관한 주요 복음서 자료를 제공한다. 이 강화들은 예상된 귀환을 정교한 종말론적·상징적 언어로 묘사하며, 이후 상당한 신학·역사적 관여가 있었다.
 
-**The Pauline Parousia material**. Paul's letters develop the Parousia tradition extensively, with 1 Thessalonians 4:13-18 providing the principal Pauline statement on the projected return ("the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God").
+**바울의 파루시아 자료**. 바울의 서신은 파루시아 전통을 폭넓게 발전시키며, 데살로니가전서 4:13-18이 예상된 귀환에 관한 주요한 바울의 진술을 제공한다("주께서 호령과 천사장의 소리와 하나님의 나팔 소리로 친히 하늘로부터 강림하시리니").
 
-**The Book of Revelation**. The Book of Revelation (the Apocalypse of John) provides the most elaborate New Testament treatment of the projected return, with substantial apocalyptic-symbolic content. The detailed treatment of Revelation lives in the [Apocalypse](../apocalypse/) entry.
+**요한계시록**. 요한계시록(요한의 묵시록)은 예상된 귀환에 대한 신약의 가장 정교한 다룸을 상당한 종말론적·상징적 내용과 함께 제공한다. 요한계시록에 대한 상세한 다룸은 [계시](../apocalypse/) 항목에 있다.
 
-**Subsequent Christian theological development**. Christian theological tradition has developed the Parousia material extensively across the past two millennia, with substantial variations across the Catholic, Orthodox, Protestant, and various other Christian traditions. The principal contemporary positions include various amillennialist, premillennialist, and postmillennialist frameworks within Protestant tradition; various Catholic and Orthodox positions on the relationship between the Parousia and broader eschatology; and various contemporary scholarly engagements with the historical and theological content.
+**이후 기독교 신학적 발전**. 기독교 신학 전통은 지난 2천 년에 걸쳐 파루시아 자료를 폭넓게 발전시켰으며, 가톨릭, 정교회, 개신교, 그리고 다양한 다른 기독교 전통에 걸쳐 상당한 변이가 있다. 주요한 동시대 입장에는 개신교 전통 안의 다양한 무천년설, 전천년설, 후천년설 틀, 파루시아와 더 넓은 종말론의 관계에 대한 다양한 가톨릭 및 정교회 입장, 그리고 역사적·신학적 내용에 대한 다양한 동시대 학술적 관여가 포함된다.
 
-The framework reads the Christian Parousia tradition as substantively preserving the operational content of the embassy framework within the distinctive Christian theological-religious framing.
+이 틀은 기독교 파루시아 전통을, 구별되는 기독교 신학·종교적 틀 안에서 대사관 틀의 운영 내용을 실질적으로 보존하는 것으로 읽는다.{{ cite(id="wright-resurrection-son-of-god", text="[11]", title="라이트, 『하나님의 아들의 부활』(2003) — 부활과 파루시아") }}{{ cite(id="sandt-zangenberg-matthew-james-didache", text="[12]", title="판 더 산트 & 창엔베르크, 『마태, 야고보, 디다케』(2008)") }}
 
-### Islamic Mahdi traditions
+### 이슬람 마흐디 전통
 
-The Islamic tradition preserves substantial material on anticipated-figure traditions.
+이슬람 전통은 예기된 인물 전통에 관한 상당한 자료를 보존한다.
 
-**The Mahdi tradition**. Both Sunni and Shia Islamic traditions preserve substantial material on the Mahdi (the "guided one"), an anticipated figure who will appear at the end of times to restore justice and righteousness. The Sunni Mahdi tradition is more diffuse; the Shia Mahdi tradition (particularly the Twelver Shia tradition's specific identification of the Mahdi with the Twelfth Imam Muhammad al-Mahdi, in occultation since 874 CE) is more elaborate.
+**마흐디 전통**. 수니파와 시아파 이슬람 전통 모두 마흐디("인도받은 자")에 관한 상당한 자료를 보존하는데, 그는 정의와 의로움을 회복하기 위해 종말에 나타날 예기된 인물이다. 수니파 마흐디 전통은 더 산만하고, 시아파 마흐디 전통(특히 마흐디를 874년 이후 은폐 상태에 있는 제12대 이맘 무함마드 알마흐디와 구체적으로 동일시하는 12이맘파 시아 전통)은 더 정교하다.
 
-**The Isa (Jesus) tradition in Islam**. Islamic tradition preserves substantial material on the projected return of Isa (Jesus), particularly in the Hadith literature. The Islamic Isa tradition treats Jesus as having been raised to heaven without dying, with a projected return at the end of times to participate in the broader eschatological events.
+**이슬람의 이사(예수) 전통**. 이슬람 전통은 특히 하디스 문헌에서 이사(예수)의 예상된 귀환에 관한 상당한 자료를 보존한다. 이슬람 이사 전통은 예수가 죽지 않고 하늘로 들려 올라간 것으로 다루며, 더 넓은 종말론적 사건에 참여하기 위해 종말에 귀환할 것으로 예상한다.
 
-**The relationship between the Mahdi and Isa**. Various Islamic traditions develop substantial material on the projected coordinated arrival of both the Mahdi and Isa, with various specific frameworks for understanding the relationship between the two figures.
+**마흐디와 이사의 관계**. 다양한 이슬람 전통은 마흐디와 이사 둘 모두의 예상된 협조적 도래에 관한 상당한 자료를 발전시키며, 두 인물의 관계를 이해하기 위한 다양한 구체적 틀을 지닌다.
 
-The framework reads the Islamic Mahdi and Isa traditions as substantively preserving the operational content of the projected return framework within the distinctive Islamic theological-religious framing.
+이 틀은 이슬람의 마흐디와 이사 전통을, 구별되는 이슬람 신학·종교적 틀 안에서 예상된 귀환 틀의 운영 내용을 실질적으로 보존하는 것으로 읽는다.{{ cite(id="sachedina-islamic-messianism", text="[13]", title="사케디나, 『이슬람 메시아주의』(1981) — 12이맘파 시아의 마흐디") }}{{ cite(id="cook-muslim-apocalyptic", text="[14]", title="쿡, 『무슬림 종말론 연구』(2002)") }}
 
-### Buddhist Maitreya tradition
+### 불교의 미륵 전통
 
-The Buddhist tradition preserves the **Maitreya** tradition — the anticipated future Buddha who will appear in the world following the decline of the present Buddhist tradition.
+불교 전통은 **미륵** 전통 — 현재의 불교 전통이 쇠퇴한 뒤 세상에 나타날 예기된 미래 부처 — 을 보존한다.
 
-**The basic Maitreya framework**. Maitreya is identified as the next Buddha following Śākyamuni Buddha (the historical Buddha), currently residing in the Tuṣita heaven and projected to appear in the world at a specific future moment.
+**기본 미륵 틀**. 미륵은 석가모니불(역사적 부처)에 뒤따르는 다음 부처로 식별되며, 현재 도솔천에 거하면서 구체적 미래의 순간에 세상에 나타날 것으로 예상된다.
 
-**The Maitreya iconographic tradition**. Maitreya is depicted in various iconographic forms across the Buddhist tradition, with substantial regional variations (the seated Maitreya of the Indian-Nepalese tradition, the standing Maitreya of various East Asian traditions, the laughing-Buddha Maitreya of the Chinese folk tradition).
+**미륵 도상 전통**. 미륵은 불교 전통 전반에 걸쳐 다양한 도상 형태로 묘사되며, 상당한 지역적 변이(인도-네팔 전통의 좌상 미륵, 다양한 동아시아 전통의 입상 미륵, 중국 민간 전통의 포대화상 미륵)가 있다.
 
-**The Raëlian connection**. Notably, Raël has been identified within the Raëlian movement (and specifically in the published *Maitreya* book) as the Maitreya figure of the Buddhist tradition, providing one specific connection between the Buddhist Maitreya tradition and the Raëlian framework.
+**라엘과의 연결**. 주목할 만하게도, 라엘은 라엘 운동 안에서(그리고 구체적으로 출간된 *미륵* 책에서) 불교 전통의 미륵 인물로 식별되어, 불교 미륵 전통과 라엘 틀 사이의 하나의 구체적 연결을 제공한다.
 
-The framework reads the Buddhist Maitreya tradition as substantively preserving the operational content of the projected return framework within the distinctive Buddhist religious framing.
+이 틀은 불교 미륵 전통을, 구별되는 불교 종교적 틀 안에서 예상된 귀환 틀의 운영 내용을 실질적으로 보존하는 것으로 읽는다.
 
-### Hindu Kalki avatar
+### 힌두교 칼키 화신
 
-The Hindu tradition preserves the **Kalki avatar** tradition — the projected tenth and final avatar of Vishnu, anticipated to appear at the end of the present Kali Yuga to restore righteousness and inaugurate a new cosmic age.
+힌두교 전통은 **칼키 화신** 전통 — 현재의 칼리 유가가 끝날 때 나타나 의로움을 회복하고 새로운 우주 시대를 개시할 것으로 예기되는, 비슈누의 예상된 열 번째이자 마지막 화신 — 을 보존한다.
 
-**The Kalki framework**. Kalki is described in various Puranic texts as appearing on a white horse, wielding a sword, and conducting the cosmic-eschatological cleansing that ends the present Kali Yuga and inaugurates the new Satya Yuga.
+**칼키 틀**. 칼키는 다양한 푸라나 텍스트에서 백마를 타고 검을 휘두르며, 현재의 칼리 유가를 끝내고 새로운 사티야 유가를 개시하는 우주·종말론적 정화를 행하는 것으로 묘사된다.
 
-**The cosmic-cyclical context**. The Kalki tradition operates within the broader Hindu cyclic-cosmology framework (treated more fully in the [Cosmic Chain](../cosmic-chain/) entry), with the Kalki avatar marking the transition between cosmic ages.
+**우주·순환적 맥락**. 칼키 전통은 더 넓은 힌두교 순환 우주론 틀([우주 사슬](../cosmic-chain/) 항목에서 더 충분히 다룸) 안에서 작동하며, 칼키 화신은 우주 시대 사이의 전환을 표시한다.
 
-The framework reads the Hindu Kalki tradition as substantively preserving the operational content of the projected return framework within the distinctive Hindu religious-cosmological framing.
+이 틀은 힌두교 칼키 전통을, 구별되는 힌두교 종교·우주론적 틀 안에서 예상된 귀환 틀의 운영 내용을 실질적으로 보존하는 것으로 읽는다.{{ cite(id="doniger-the-hindus", text="[15]", title="도니거, 『힌두교도: 또 다른 역사』(2009) — 칼키 화신") }}
 
-### Zoroastrian Saoshyant
+### 조로아스터교 사오샨트
 
-The Zoroastrian tradition preserves the **Saoshyant** tradition — the anticipated savior figure (or sequence of three savior figures) who will conduct the cosmic-eschatological renewal at the end of the present cosmic age.
+조로아스터교 전통은 **사오샨트** 전통 — 현재의 우주 시대가 끝날 때 우주·종말론적 갱신을 행할 예기된 구원자 인물(또는 세 구원자 인물의 연속) — 을 보존한다.
 
-**The Saoshyant framework**. Various Zoroastrian texts (the Avesta, the Pahlavi literature, various subsequent traditions) develop the Saoshyant tradition with substantial specific content. The principal Saoshyant figure (Astvat-ereta) is projected to conduct the *frashokereti* (the cosmic renewal), restoring the cosmos to its original perfect state.
+**사오샨트 틀**. 다양한 조로아스터교 텍스트(아베스타, 팔라비 문헌, 다양한 이후 전통)는 사오샨트 전통을 상당한 구체적 내용과 함께 발전시킨다. 주요 사오샨트 인물(아스트밧에레타)은 우주를 본래의 완전한 상태로 회복시키는 *프라쇼케레티*(우주 갱신)를 행할 것으로 예상된다.
 
-**The historical influence**. The Zoroastrian Saoshyant tradition is widely recognized as having substantial historical influence on the development of Jewish, Christian, and Islamic eschatological frameworks, particularly through the Persian period of Israelite history and the broader Hellenistic-religious synthesis.
+**역사적 영향**. 조로아스터교 사오샨트 전통은, 특히 이스라엘 역사의 페르시아 시대와 더 넓은 헬레니즘 종교적 종합을 통해, 유대교·기독교·이슬람 종말론 틀의 발전에 상당한 역사적 영향을 미친 것으로 널리 인정된다.
 
-The framework reads the Zoroastrian Saoshyant tradition as substantively preserving the operational content of the projected return framework within the distinctive Zoroastrian religious framing, with the broader historical influence on Western eschatological tradition being one specific channel through which the broader operational content has been preserved.
+이 틀은 조로아스터교 사오샨트 전통을, 구별되는 조로아스터교 종교적 틀 안에서 예상된 귀환 틀의 운영 내용을 실질적으로 보존하는 것으로 읽으며, 서구 종말론 전통에 대한 더 넓은 역사적 영향은 더 넓은 운영 내용이 보존되어 온 하나의 구체적 통로이다.{{ cite(id="boyce-zoroastrians", text="[16]", title="보이스, 『조로아스터교도』(2001) — 사오샨트와 프라쇼케레티") }}
 
-### Indigenous return-of-creators traditions
+### 토착의 창조자 귀환 전통
 
-Various indigenous traditions preserve substantial material on anticipated returns of creator-figures.
+다양한 토착 전통은 창조자 인물의 예기된 귀환에 관한 상당한 자료를 보존한다.
 
-**Mesoamerican return-of-Quetzalcoatl tradition**. The Aztec and broader Mesoamerican tradition preserves substantial material on the projected return of Quetzalcoatl (the feathered serpent deity), with the projected return having substantial historical significance during the early period of the Spanish conquest (the Aztec emperor Moctezuma II's reported initial identification of Cortés as Quetzalcoatl returning, though the historical accuracy of this identification has been substantially debated in subsequent scholarship).
+**메소아메리카의 케찰코아틀 귀환 전통**. 아즈텍과 더 넓은 메소아메리카 전통은 케찰코아틀(깃털 달린 뱀 신)의 예상된 귀환에 관한 상당한 자료를 보존하는데, 그 예상된 귀환은 스페인 정복 초기에 상당한 역사적 의의를 지녔다(아즈텍 황제 모크테수마 2세가 코르테스를 귀환하는 케찰코아틀로 처음 식별했다고 전해지나, 이 식별의 역사적 정확성은 이후 학계에서 상당히 논쟁되어 왔다).{{ cite(id="carrasco-quetzalcoatl", text="[17]", title="카라스코, 『케찰코아틀과 제국의 아이러니』(1982) — 귀환 예언") }}
 
-**Various other indigenous traditions** preserve return-of-creator content within their distinctive cultural-religious framings, with substantial specific material across multiple geographic regions (Polynesian, North American, South American, African, Australian Aboriginal, and various other indigenous traditions).
+**다양한 다른 토착 전통**은 그들의 구별되는 문화·종교적 틀 안에서 창조자 귀환 내용을 보존하며, 여러 지리적 지역(폴리네시아, 북아메리카, 남아메리카, 아프리카, 오스트레일리아 원주민, 그리고 다양한 다른 토착 전통)에 걸쳐 상당한 구체적 자료가 있다.
 
-The framework reads the indigenous return-of-creators traditions as substantively preserving the operational content of the projected return framework within the various distinctive cultural-religious framings.
+이 틀은 토착의 창조자 귀환 전통을, 다양한 구별되는 문화·종교적 틀 안에서 예상된 귀환 틀의 운영 내용을 실질적으로 보존하는 것으로 읽는다.
 
-### The convergence
+### 그 수렴
 
-The corpus's working position on the comparative-anticipated-return question is that the global recurrence of anticipated-return traditions across cultural-religious frameworks is meaningful as evidence of a genuine underlying reality. The mainstream scholarly explanation — which generally treats the various traditions as developing their own anticipated-return content through internal religious-cultural processes combined with cultural diffusion — is read by the corpus as substantially insufficient to account for the breadth and the specific structural parallels (the projected return of specific creator-figures, the cosmic-eschatological context, the specific operational features) that appear consistently across geographically and chronologically separated traditions.
+비교 예기-귀환 문제에 대한 전집의 작업 입장은, 문화·종교 틀에 걸친 예기된 귀환 전통의 전 지구적 반복이 진정한 바탕의 실재에 대한 증거로서 의미 있다는 것이다.{{ footnote(id="6") }} 주류 학술적 설명 — 다양한 전통이 내부의 종교·문화적 과정과 문화 전파의 결합을 통해 각자의 예기된 귀환 내용을 발전시킨 것으로 대체로 다루는 — 을 전집은, 지리적·연대기적으로 분리된 전통에 걸쳐 일관되게 나타나는 그 폭과 구체적 구조적 유사성(특정 창조자 인물의 예상된 귀환, 우주·종말론적 맥락, 구체적 운영 특징)을 설명하기에 상당히 불충분한 것으로 읽는다.
 
-The framework's specific reading is that the global anticipated-return pattern preserves common memory of the broader cosmic-political situation that the embassy framework articulates, with each cultural-religious tradition preserving the memory in its own terms and with its own specific details reflecting its own perspective and its own subsequent transmission history. The Jewish Third Temple tradition preserves the operational content most directly relative to the embassy framework's specific architectural-operational specifications; the Christian Parousia, Islamic Mahdi, Buddhist Maitreya, Hindu Kalki, Zoroastrian Saoshyant, and various indigenous return-of-creators traditions preserve the operational content through their respective cultural channels.
+이 틀의 구체적 독해는, 전 지구적 예기-귀환 패턴이 대사관 틀이 분명히 밝히는 더 넓은 우주·정치적 상황에 대한 공통 기억을 보존하며, 각 문화·종교 전통이 그 기억을 자기 나름의 표현으로, 그리고 자기 자신의 관점과 자기 자신의 이후 전승 역사를 반영하는 자기 나름의 구체적 세부와 함께 보존한다는 것이다. 유대교 제3성전 전통은 대사관 틀의 구체적 건축·운영 사양에 상대적으로 운영 내용을 가장 직접적으로 보존하며, 기독교 파루시아, 이슬람 마흐디, 불교 미륵, 힌두교 칼키, 조로아스터교 사오샨트, 그리고 다양한 토착의 창조자 귀환 전통은 각자의 문화적 통로를 통해 운영 내용을 보존한다.
 
-The corpus does not require rejecting all of the mainstream scholarly framework. Cultural diffusion certainly occurred across the historical period, and the anticipated-return traditions across cultures show both common structural features (preserving the original framework) and culturally specific elaborations (reflecting the diffusion and local development). What the corpus's framework adds is the underlying cosmic-political situation that gave rise to the structural commonalities — a situation that the mainstream framework, lacking the corpus's broader cosmological framework, has had no way to identify and has therefore had to attribute to combinations of independent religious development and cultural diffusion.
-
-## See also
-
-- [Cosmic Competition](../cosmic-competition/)
-- [Doubled Signature](../doubled-signature/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Apocalypse](../apocalypse/)
-- [Raël](../rael/)
-- [Yahweh](../yahweh/)
-- [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Prophet](../prophet/)
-- [Jesus](../jesus/)
-- [Moses](../moses/)
-- [Atomic Threshold](../atomic-threshold/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Genesis](../genesis/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. The "New Commandments — Your Mission" section is the principal source for the embassy specifications.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*. The October 7, 1975 Roc Plat second-contact material elaborates the embassy specifications and the broader Israeli-context material.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagon Press, 2005 (English edition collecting the principal Raëlian source-material). The 2005 commentary by Raël includes substantial embassy-project status updates and the December 13, 1997 message.
-
-International Raëlian Movement. *Optional Protocol Concerning Embassies for Extraterrestrials*. Submitted to the United Nations, 2015.
-
-International Raëlian Movement. Various official communications regarding the embassy project across the 2021-2025 period, including AEDC announcements, mayoral-presentation reports, and the 2024 Memorandum of Collaboration announcement.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-The Hebrew Bible (BHS, Stuttgart Vulgate, NRSV).
-
-Ezekiel 40-48 (the prophetic-architectural specifications of the future temple).
-
-The Greek New Testament. Nestle-Aland, 28th rev. ed., 2012.
-
-Vienna Convention on Diplomatic Relations. Signed Vienna, April 18, 1961; entered into force April 24, 1964.
-
-Lateran Treaty. Signed Vatican City, February 11, 1929 (establishing Vatican City State).
-
-Mellon, Christopher. Various op-eds and policy statements on UAP transparency, 2017-2025.
-
-Elizondo, Luis. *Imminent: Inside the Pentagon's Hunt for UFOs*. William Morrow, 2024.
-
-Grusch, David. Testimony to U.S. House Oversight Committee, July 26, 2023.
-
-Loeb, Avi. *Extraterrestrial: The First Sign of Intelligent Life Beyond Earth*. Houghton Mifflin Harcourt, 2021.
-
-Loeb, Avi. *Interstellar: The Search for Extraterrestrial Life and Our Future Beyond Earth*. Mariner, 2023.
-
-Sol Foundation (Stanford University). Various publications and conferences, 2023-2025.
-
-Galileo Project (Harvard University). Various publications and observational reports, 2021-2025.
-
-Maimonides. *Mishneh Torah*, *Hilchot Melachim* 11:1 (the principal Maimonidean position on the Third Temple).
-
-Levi, Eliyahu. *The Third Temple: A Study of Future Worship*. Jerusalem, 2010.
-
-Goldberg, Hillel. *The Fight for Jerusalem: Radical Islam, the West, and the Future of the Holy City*. Regnery, 2007.
-
-Sandt, Huub van de, and Jürgen K. Zangenberg, eds. *Matthew, James, and Didache: Three Related Documents in Their Jewish and Christian Settings*. Society of Biblical Literature, 2008.
-
-Wright, N. T. *The Resurrection of the Son of God*. Christian Origins and the Question of God 3. Fortress Press, 2003.
-
-Halperin, David J. *The Faces of the Chariot: Early Jewish Responses to Ezekiel's Vision*. Mohr Siebeck, 1988.
-
-Sachedina, Abdulaziz Abdulhussein. *Islamic Messianism: The Idea of Mahdi in Twelver Shi'ism*. State University of New York Press, 1981.
-
-Cook, David. *Studies in Muslim Apocalyptic*. Darwin Press, 2002.
-
-Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. Routledge, 2nd ed., 2008.
-
-Buswell, Robert E., Jr., and Donald S. Lopez Jr. *The Princeton Dictionary of Buddhism*. Princeton University Press, 2014.
-
-Doniger, Wendy. *The Hindus: An Alternative History*. Penguin, 2009.
-
-Boyce, Mary. *Zoroastrians: Their Religious Beliefs and Practices*. Routledge, 2nd ed., 2001.
-
-Carrasco, Davíd. *Quetzalcoatl and the Irony of Empire: Myths and Prophecies in the Aztec Tradition*. University of Chicago Press, 1982.
-
-"Vienna Convention on Diplomatic Relations." *United Nations Treaty Series*, vol. 500, p. 95.
-
-"Vatican City State." *Encyclopaedia Britannica*. <https://www.britannica.com/place/Vatican-City>
-
-"Third Temple." *Wikipedia*. <https://en.wikipedia.org/wiki/Third_Temple>
-
-"Parousia." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Parousia>
-
-"Mahdi." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Mahdi-Islamic-concept>
-
-"Maitreya." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Maitreya-Buddhism>
-
-"Kalki." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Kalki>
-
-International Raëlian Movement. <https://www.rael.org>
-
-Embassy for the Elohim. <https://elohimembassy.org>
+전집은 주류 학술적 틀 전부를 거부할 것을 요구하지 않는다. 문화 전파는 역사 시기에 걸쳐 분명히 일어났으며, 문화 전반의 예기된 귀환 전통은 공통 구조적 특징(본래 틀의 보존)과 문화적으로 특수한 정교화(전파와 지역적 발전을 반영) 모두를 보인다. 전집의 틀이 더하는 것은 그 구조적 공통성을 낳은 바탕의 우주·정치적 상황이다 — 전집의 더 넓은 우주론적 틀이 없어 주류 틀이 식별할 길이 없었고 따라서 독립적 종교 발전과 문화 전파의 결합으로 돌릴 수밖에 없었던 상황이다.
