@@ -12,6 +12,128 @@ entry_type = "concept"
 claim_type = "framework"
 alternative_names = ["the cosmic chain", "the chain of creation", "the cosmic chain of creation", "the recurring cosmic process", "the cosmic creative cycle", "the cycle of creators"]
 timeline = ["pre-creation", "aries", "pisces", "aquarius", "post-aquarius"]
+see_also = [
+    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "The specific evaluation phase within the broader Cosmic Chain — the inheritance-qualification assessment." },
+    { title = "Elohim", path = "wiki/elohim", description = "The creator civilization that discovered, during the Aries age, that it had itself been created." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "The Aquarian-age inheritance evaluation — the present-day phase of the chain for Earth's humanity." },
+    { title = "Embassy", path = "wiki/embassy", description = "The projected venue of the inheritance event at which Earth would receive the alliance's accumulated knowledge." },
+    { title = "Doubled Signature", path = "wiki/doubled-signature", description = "A related interpretive principle operating within the broader Cosmic Chain framework." },
+    { title = "Genesis", path = "wiki/genesis", description = "The creation account read as one specific instance of the chain's recurring creation pattern." },
+]
+
+footnotes = [
+    { content = "The Cosmic Chain as a systematic framework is substantial corpus construction beyond the source material. The Raëlian source provides the basic premise in a single remarkably direct statement — \"The Elohim were created by people from another planet, who had been created by other people coming from another planet, and so on to Infinity\" — and rejects the \"first creator\" question, but does not develop the systematic framework (the integration with the Cosmic Competition, the Lord's Prayer reading, the seven-stage cycle, the projected forward trajectory) that the corpus articulates. The corpus is explicit that this is interpretive development, not direct source content." },
+    { content = "The \"no first creator\" position rejects the presupposition of the conventional Western theological question (\"who created the first creator?\") as not matching the structure of the underlying reality — the corpus uses the analogy \"what is north of the North Pole?\". The position is at substantial variance with the principal Western monotheistic traditions (which posit an uncreated *causa prima*) while overlapping substantively with various Eastern beginningless-cycle cosmologies (the Buddhist beginningless saṃsāra, the Jain beginningless-and-endless time-cycles, the Hindu yuga and kalpa cycles, the Stoic eternal recurrence). The corpus does not claim the framework is proven; it registers it as a distinctive cosmological position consistent with the source's explicit framing." },
+    { content = "The dates the corpus assigns to the Aries-age discovery (c. 2,160–1,200 BCE) are framework-internal, derived from the precessional-age chronology. The precessional ages are real astronomical phenomena; the boundary years are framework conventions. The source does not specify what evidence convinced the Elohim of their own created status — only the consequence (the policy shift from direct to indirect contact)." },
+    { content = "The framework's reading of the Lord's Prayer's \"thy will be done in earth, as it is in heaven\" (Matthew 6:10) as a compressed statement of the cyclical structure — heaven being the creator civilization that has already passed through Earth's developmental stages, earth being the civilization currently traversing them — goes substantially beyond the standard Christian interpretation (a petition for divine sovereignty on earth). The corpus registers this distinction honestly: the cosmic-chain reading is the source's explicit framing, not a claim about the original authorial intent of the Gospel text." },
+    { content = "The framework's position on \"God\" is twofold. If \"God\" means the infinite cosmos itself, then God exists — but is impersonal, does not intervene, is not a recipient of prayer, and is \"infinitely indifferent\" to events at any particular scale. If \"God\" means a personal creator who cares about humanity, then such beings exist — the Elohim, our specific creators — but they are not God in the traditional theological sense: they are advanced beings of our own kind, themselves created, themselves operating within the larger infinite cosmos. Neither sense yields the omnipotent uncreated personal deity of conventional Western monotheism." },
+    { content = "The corpus reads the cross-cultural recurrence of beginningless-cycle and successive-world cosmologies (Stoic *ekpyrosis*, Hindu yuga/kalpa, Buddhist kalpa, Jain time-cycles, Mesoamerican world-ages, and the contemporary scientific cyclic and multiverse cosmologies of Steinhardt-Turok, Penrose, Linde, and Vilenkin) as a striking convergence on the chain's recursive structure. The corpus does not claim these traditions are direct memories of the Cosmic Chain; it registers the convergence as consistent with the framework while acknowledging that cyclic cosmology can arise independently from the observation of natural cycles." },
+]
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+locator = "'Neither God nor Soul'"
+note = "Vorilhon's second work (1975) — the principal source-material statement of the chain ('and so on to Infinity'), the rejection of the 'first creator' question, and the Lord's Prayer reading."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Foundational Raelian source — the Aries-discovery policy shift and the broader cosmological framing."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Sendy's reading of the Hebrew Bible as preserving an alliance-mediated cosmic history within which the chain's creation pattern operates."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Biglino's strict-translational reading of the plural creator material consistent with the chain's created-creators premise."
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "Wallis's accessible recent treatment of the created-creators framework."
+
+[[extra.references]]
+id = "bruno-infinite-universe"
+note = "Bruno's foundational early-modern statement of cosmic infinity and the plurality of inhabited worlds."
+
+[[extra.references]]
+id = "yates-giordano-bruno-hermetic"
+note = "Yates's standard study situating Bruno's infinite cosmos within the Renaissance Hermetic 'as above, so below' tradition."
+
+[[extra.references]]
+id = "kant-critique-pure-reason"
+note = "Kant's treatment of cosmic infinity within the antinomies of pure reason — the principal philosophical reference for the 'no first creator' question."
+
+[[extra.references]]
+id = "hawking-penrose-nature-space-time"
+note = "Hawking and Penrose on spacetime structure, singularities, and cosmic origins."
+
+[[extra.references]]
+id = "linde-inflation-quantum-cosmology"
+note = "Linde's development of eternal inflation — the multiverse framework overlapping with the chain's recursive structure."
+
+[[extra.references]]
+id = "vilenkin-many-worlds-in-one"
+note = "Vilenkin on eternal inflation and the multiverse."
+
+[[extra.references]]
+id = "tegmark-mathematical-universe"
+note = "Tegmark's four-level multiverse and mathematical-universe hypothesis."
+
+[[extra.references]]
+id = "steinhardt-turok-endless-universe"
+note = "Steinhardt and Turok's ekpyrotic / cyclic cosmology — successive Big Bangs rather than a single origin."
+
+[[extra.references]]
+id = "penrose-cycles-of-time"
+note = "Penrose's conformal cyclic cosmology — endless successive aeons."
+
+[[extra.references]]
+id = "crick-orgel-directed-panspermia"
+note = "Crick and Orgel's 1973 directed-panspermia hypothesis — deliberate extraterrestrial seeding of Earth life, the principal scientific parallel to the chain's directed-creation premise."
+
+[[extra.references]]
+id = "crick-life-itself"
+note = "Crick's extended argument for cosmic seeding of terrestrial life."
+
+[[extra.references]]
+id = "arrhenius-worlds-in-the-making"
+note = "Arrhenius's classical panspermia."
+
+[[extra.references]]
+id = "hoyle-wickramasinghe-lifecloud"
+note = "Hoyle and Wickramasinghe's cometary panspermia."
+
+[[extra.references]]
+id = "nietzsche-zarathustra"
+note = "Nietzsche's eternal-recurrence doctrine — the principal modern Western cyclic-cosmology engagement."
+
+[[extra.references]]
+id = "long-sedley-hellenistic-philosophers"
+note = "Long and Sedley's sourcebook including the Stoic doctrine of eternal cosmic cycles."
+
+[[extra.references]]
+id = "williams-mahayana-buddhism"
+note = "Williams on Mahāyāna doctrine including the beginningless saṃsāra and kalpa cosmology."
+
+[[extra.references]]
+id = "buswell-lopez-princeton-buddhism"
+note = "The standard Buddhist reference for the kalpa cosmology and beginningless-time doctrines."
+
+[[extra.references]]
+id = "dundas-the-jains"
+note = "Dundas on the Jain doctrine of beginningless and endless cosmic time-cycles."
+
+[[extra.references]]
+id = "carrasco-religions-mesoamerica"
+note = "Carrasco on the Mesoamerican successive-world-ages cosmology."
+
+[[extra.references]]
+id = "hannah-greek-roman-calendars"
+note = "Hannah on classical cyclic-time concepts including the Great Year."
+
+[[extra.references]]
+id = "the-12th-planet"
+note = "Sitchin's Anunnaki framework — a popular ancient-astronaut engagement with created-creators material the corpus distinguishes from its own reading."
 
 [extra.infobox]
 type = "Framework concept; cosmological pattern of indefinitely extended created-and-creating civilizations"
@@ -32,7 +154,7 @@ The framework's specific content integrates several distinct strands of source m
 
 The Cosmic Chain is the **broadest cosmological framework** in the corpus's analytical apparatus. It is broader than the Cosmic Competition framework (which concerns the specific evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification), broader than the precessional ages framework (which concerns Earth's specific chronological position within the chain), broader than the Earth project specifically (which concerns the alliance's specific work on Earth), and broader than the various other corpus frameworks. The Cosmic Chain provides the broader cosmological structure within which all these other frameworks operate as specific aspects of a much larger pattern. The framework's distinctive features include: its **explicit infinity in both temporal directions** (backward through prior creators and forward through future creations); its **fundamentally cyclical-recursive character** (each cycle has the same structure of created-developing-creating); its substantial **theological-philosophical implications** (the rejection of the "first creator" question, the reframing of "God" within the broader infinite cosmology, the specific position on humanity's ultimate cosmic role); and its **integration with the broader Wheel of Heaven framework** (the Cosmic Competition, the Doubled Signature, the Aquarian-age developments, the Embassy project all operating within the Cosmic Chain's broader structure).
 
-The reading is interpretive construction. The Raëlian source material provides the basic premise in a remarkably direct statement, but does not develop the systematic Cosmic Chain framework that the corpus articulates. The framework's specific articulation — including the integration with the Cosmic Competition, the reading of the Lord's Prayer as compressed statement of the cyclical structure, the systematic engagement with the chain's epistemological-theological implications, the projection of Earth's specific future trajectory — represents substantial corpus development beyond what the source material directly provides. Within mainstream cosmology, the broader question of cosmic infinity has been substantially developed across the past several centuries (from Bruno's *De l'infinito universo et mondi* of 1584 through contemporary multiverse cosmology), with various positions on the specific structure of cosmic infinity. Within mainstream theology, the various traditions have developed substantial engagement with questions of divine eternality, creation, and the relationship between creator and created — with the Cosmic Chain's specific "no first creator" position being at variance with the principal Western theological traditions but consistent with various Eastern traditions' beginningless-cycle frameworks. Within the contemporary panspermia tradition (the broader question of whether life on Earth originated through cosmic transmission rather than autochthonous emergence), substantial scientific work has developed across the past several decades, with Crick-Orgel's directed-panspermia hypothesis (1973) representing a specific contemporary scientific framework that overlaps substantively with the Cosmic Chain's specific reading. The corpus's reading is structurally distinctive in its specific articulation of the chain's recursive-cyclical structure, in its integration with the broader Wheel of Heaven framework's specific operational-historical content, and in its development of the framework's substantive philosophical-theological implications.
+The reading is interpretive construction.{{ footnote(id="1") }} The Raëlian source material provides the basic premise in a remarkably direct statement,{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[1]", title="Vorilhon (Raël), *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' — 'and so on to Infinity'") }} but does not develop the systematic Cosmic Chain framework that the corpus articulates. The framework's specific articulation — including the integration with the Cosmic Competition, the reading of the Lord's Prayer as compressed statement of the cyclical structure, the systematic engagement with the chain's epistemological-theological implications, the projection of Earth's specific future trajectory — represents substantial corpus development beyond what the source material directly provides. Within mainstream cosmology, the broader question of cosmic infinity has been substantially developed across the past several centuries (from Bruno's *De l'infinito universo et mondi* of 1584{{ cite(id="bruno-infinite-universe", text="[2]", title="Bruno, *On the Infinite Universe and Worlds* (1584)") }} through contemporary multiverse cosmology), with various positions on the specific structure of cosmic infinity. Within mainstream theology, the various traditions have developed substantial engagement with questions of divine eternality, creation, and the relationship between creator and created — with the Cosmic Chain's specific "no first creator" position being at variance with the principal Western theological traditions but consistent with various Eastern traditions' beginningless-cycle frameworks. Within the contemporary panspermia tradition (the broader question of whether life on Earth originated through cosmic transmission rather than autochthonous emergence), substantial scientific work has developed across the past several decades, with Crick-Orgel's directed-panspermia hypothesis (1973){{ cite(id="crick-orgel-directed-panspermia", text="[3]", title="Crick & Orgel, 'Directed Panspermia' (Icarus, 1973)") }} representing a specific contemporary scientific framework that overlaps substantively with the Cosmic Chain's specific reading. The corpus's reading is structurally distinctive in its specific articulation of the chain's recursive-cyclical structure, in its integration with the broader Wheel of Heaven framework's specific operational-historical content, and in its development of the framework's substantive philosophical-theological implications.
 
 ## Etymology and naming
 
@@ -95,7 +217,7 @@ Mainstream cosmology has produced substantial work on the broader questions of c
 
 **Eternal inflation and multiverse cosmology** (Linde, Vilenkin, others) extends the inflation framework into substantial multiverse content, with various models proposing that our observable universe is one specific region within a larger multiverse structure. The Cosmic Chain's specific recursive-cyclical structure has substantive overlap with various multiverse cosmologies, though the specific content differs.
 
-**Cyclic cosmologies** (Steinhardt-Turok ekpyrotic model, Penrose's conformal cyclic cosmology, various other proposals) have developed substantial work on cosmic recurrence, with various models proposing that the cosmic history involves multiple successive Big Bang events rather than a single unique origin event. These cyclic cosmologies overlap substantively with the Cosmic Chain's recursive structure at the cosmological level, though the specific content differs.
+**Cyclic cosmologies** (Steinhardt-Turok ekpyrotic model,{{ cite(id="steinhardt-turok-endless-universe", text="[14]", title="Steinhardt & Turok, *Endless Universe* (2007) — the ekpyrotic cyclic model") }} Penrose's conformal cyclic cosmology,{{ cite(id="penrose-cycles-of-time", text="[15]", title="Penrose, *Cycles of Time* (2011) — conformal cyclic cosmology") }} various other proposals) have developed substantial work on cosmic recurrence, with various models proposing that the cosmic history involves multiple successive Big Bang events rather than a single unique origin event. The broader spacetime-structure questions are treated in Hawking and Penrose's exchange.{{ cite(id="hawking-penrose-nature-space-time", text="[16]", title="Hawking & Penrose, *The Nature of Space and Time* (1996)") }} These cyclic cosmologies overlap substantively with the Cosmic Chain's recursive structure at the cosmological level, though the specific content differs.
 
 The framework's relationship to mainstream cosmology is one of broader-framework consistency at the empirical level (the Cosmic Chain does not contradict mainstream observational cosmology) while extending substantially beyond what mainstream cosmology directly engages (the specific civilizational-recursive content of the chain).
 
@@ -115,7 +237,7 @@ The framework's position on cosmic infinity is structurally aligned with the bro
 
 **Panspermia** — the hypothesis that life on Earth originated from cosmic sources rather than from autochthonous emergence on Earth — has been substantially developed across the past several decades. The principal developments:
 
-**Classical panspermia** (Arrhenius, early 20th century) proposed that microbial life could be transmitted across cosmic distances on dust particles or meteoric material, with Earth's life originating from such cosmic transmission.
+**Classical panspermia** (Arrhenius, early 20th century){{ cite(id="arrhenius-worlds-in-the-making", text="[4]", title="Arrhenius, *Worlds in the Making* (1908) — classical panspermia") }} proposed that microbial life could be transmitted across cosmic distances on dust particles or meteoric material, with Earth's life originating from such cosmic transmission. The cometary-panspermia development of Hoyle and Wickramasinghe extends this tradition.{{ cite(id="hoyle-wickramasinghe-lifecloud", text="[5]", title="Hoyle & Wickramasinghe, *Lifecloud* (1978)") }}
 
 **Directed panspermia** (Crick and Orgel, "Directed Panspermia," *Icarus* 19 (1973): 341-346) proposed that Earth's life was deliberately seeded by an extraterrestrial intelligent civilization rather than arriving through natural cosmic processes. The Crick-Orgel hypothesis was developed by Francis Crick (the Nobel-laureate co-discoverer of DNA structure) and Leslie Orgel (the principal scientist of early-Earth chemical biology) as a serious scientific proposal addressing the various problems with autochthonous origin-of-life models. The hypothesis specifically addresses the universality of the genetic code, the apparent dependence of all Earth life on molybdenum (which has limited terrestrial abundance), and the broader question of why specific biochemical features of Earth life appear unusually well-suited to deliberate engineering.
 
@@ -127,9 +249,9 @@ The Cosmic Chain framework's relationship to the panspermia tradition — partic
 
 The broader Western philosophical tradition has produced limited engagement with cyclic cosmology compared to the Eastern traditions. The principal positions:
 
-**The Stoic eternal recurrence doctrine** (developed by Chrysippus and other Stoic philosophers) proposed that the cosmos undergoes successive cycles of conflagration and renewal, with each cycle reproducing the prior cycle in identical form. The Stoic tradition is the principal Western antecedent for cyclic cosmology.
+**The Stoic eternal recurrence doctrine** (developed by Chrysippus and other Stoic philosophers) proposed that the cosmos undergoes successive cycles of conflagration and renewal, with each cycle reproducing the prior cycle in identical form. The Stoic tradition is the principal Western antecedent for cyclic cosmology.{{ cite(id="long-sedley-hellenistic-philosophers", text="[7]", title="Long & Sedley, *The Hellenistic Philosophers* (1987) — the Stoic eternal-recurrence doctrine") }}
 
-**Friedrich Nietzsche** in *Thus Spoke Zarathustra* (1883-1885) and *The Will to Power* (posthumous) developed a specific eternal-recurrence doctrine, treating the eternal return of all events as both cosmological hypothesis and existential test. The Nietzschean doctrine is a substantial modern Western engagement with cyclic cosmology, though it differs substantially from the Cosmic Chain framework's specific civilizational-recursive content.
+**Friedrich Nietzsche** in *Thus Spoke Zarathustra* (1883-1885) and *The Will to Power* (posthumous) developed a specific eternal-recurrence doctrine, treating the eternal return of all events as both cosmological hypothesis and existential test.{{ cite(id="nietzsche-zarathustra", text="[8]", title="Nietzsche, *Thus Spoke Zarathustra* (1883–1885) — the eternal-recurrence doctrine") }} The Nietzschean doctrine is a substantial modern Western engagement with cyclic cosmology, though it differs substantially from the Cosmic Chain framework's specific civilizational-recursive content.
 
 **Contemporary cyclic cosmologies** (Steinhardt-Turok, Penrose) provide the principal contemporary Western scientific engagement with cyclic cosmology, with various specific models being substantially developed.
 
@@ -145,7 +267,7 @@ The Raëlian source's principal statement on the Cosmic Chain appears in *Extra-
 
 > *"The Elohim were created by people from another planet, who had been created by other people coming from another planet, and so on to Infinity."*
 
-This single statement is the framework's principal source-material warrant. The corpus's broader articulation is the systematic development of this single sentence into the full Cosmic Chain framework.
+This single statement is the framework's principal source-material warrant.{{ cite(id="the-book-which-tells-the-truth", text="[9]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — the Aries-discovery and cosmological framing") }} The corpus's broader articulation is the systematic development of this single sentence into the full Cosmic Chain framework.
 
 The statement's principal features:
 
@@ -160,7 +282,7 @@ The Raëlian source explicitly addresses and rejects the conventional theologica
 
 The framework reads this position as substantively significant. The conventional Western theological tradition presupposes that there must be a first creator (an uncreated creator, ground of all creation, the *causa prima* of the medieval scholastic tradition); the Cosmic Chain framework rejects this presupposition. The chain extends backward indefinitely, just as the chain of created beings extends indefinitely forward. The cosmos has no ultimate origin and no ultimate end. The question "who created the first creator?" is, on this view, grammatically well-formed but its presupposition does not match the structure of the reality being asked about — analogous to asking "what is north of the North Pole?"
 
-The position is substantially distinctive within the Western philosophical-theological tradition (which has typically posited a first creator in some form) while overlapping substantively with various Eastern traditions' beginningless-cycle frameworks.
+The position is substantially distinctive within the Western philosophical-theological tradition (which has typically posited a first creator in some form) while overlapping substantively with various Eastern traditions' beginningless-cycle frameworks.{{ footnote(id="2") }}
 
 ### The Lord's Prayer reading
 
@@ -172,7 +294,7 @@ The Lord's Prayer reading is shared with the Cosmic Competition entry but operat
 
 ### The "as above, so below" Hermetic reading
 
-The Raëlian source occasionally invokes the Hermetic phrase **"as above, so below"** (the *Tabula Smaragdina* or Emerald Tablet's specific phrasing) in connection with the broader cosmological framework. The phrase has been part of the Western Hermetic tradition since approximately the late antiquity, with substantial subsequent development in the Renaissance Hermetic tradition (Ficino, Pico della Mirandola, Bruno, others).
+The Raëlian source occasionally invokes the Hermetic phrase **"as above, so below"** (the *Tabula Smaragdina* or Emerald Tablet's specific phrasing) in connection with the broader cosmological framework. The phrase has been part of the Western Hermetic tradition since approximately the late antiquity, with substantial subsequent development in the Renaissance Hermetic tradition (Ficino, Pico della Mirandola, Bruno, others).{{ cite(id="yates-giordano-bruno-hermetic", text="[17]", title="Yates, *Giordano Bruno and the Hermetic Tradition* (1964)") }}
 
 The framework's reading of the phrase preserves the specific insight that the cosmic structure is recursive — what occurs at one level of the creative hierarchy is repeated at the level it produces. The framework does not adopt the broader Hermetic theological-cosmological apparatus (the specific Hermetic doctrines of cosmic correspondence, the Hermetic anthropology, the broader Hermetic theology); the corpus's engagement is specifically with the recursive-structural insight the phrase preserves.
 
@@ -248,7 +370,7 @@ The framework's specific position on the chain's infinite character has substant
 
 ### The integration with Aries-discovery
 
-The Cosmic Chain framework has its operational origin in the Aries-age discovery (c. 2,160–1,200 BCE) when the Elohim recognized that they themselves had been created. The discovery's specific content and operational consequences warrant treatment.
+The Cosmic Chain framework has its operational origin in the Aries-age discovery (c. 2,160–1,200 BCE) when the Elohim recognized that they themselves had been created.{{ footnote(id="3") }} The discovery's specific content and operational consequences warrant treatment.
 
 **The discovery's specific content**. The source does not specify the exact evidence the Elohim found that established their own created status — what archaeological, genetic, cosmological, or other signatures convinced them. What the source does specify is the consequence: the Elohim's self-understanding shifted fundamentally, and the shift produced specific changes in their operational policy toward the humanities they had themselves created.
 
@@ -274,7 +396,7 @@ The reading's specific content:
 
 The Lord's Prayer is therefore not principally a petition for divine intervention in human affairs but a programmatic statement of the cosmic-chain vision: humanity is to develop until it becomes what the Elohim civilization is, and then to itself become a creator civilization continuing the cosmic chain.
 
-This reading is substantially distinctive within the Christian interpretive tradition, which has read the prayer for two millennia as a petition for divine sovereignty to be established on earth. The framework registers the distinction honestly: the cosmic-chain reading goes substantially beyond the standard Christian interpretation, with the specific source-material warrant being the Raëlian source's explicit framing.
+This reading is substantially distinctive within the Christian interpretive tradition, which has read the prayer for two millennia as a petition for divine sovereignty to be established on earth. The framework registers the distinction honestly: the cosmic-chain reading goes substantially beyond the standard Christian interpretation, with the specific source-material warrant being the Raëlian source's explicit framing.{{ footnote(id="4") }}
 
 ### Earth's projected trajectory
 
@@ -300,7 +422,7 @@ The Cosmic Chain operates within a broader infinite cosmological framework that 
 
 **Infinite hierarchy of scales**. Intelligent civilizations exist at every scale from infinitely small to infinitely large. The Cosmic Chain operates at one specific scale within this broader hierarchical structure, with the various scales being approximately independent (the civilizations at each scale are largely unaware of the civilizations at other scales).
 
-**The framework's relationship to "God"**. If "God" is interpreted as the infinite cosmos itself, then God exists — God is the infinite structure within which all the various local features operate. But this God is not a personal being, not a deity that intervenes in human affairs, not a recipient of prayer or worship in any traditional sense. The infinite cosmos is "infinitely indifferent" to specific events at any particular scale. If "God" is interpreted as a personal creator who cares about humanity, then there are such beings — the Elohim, our specific creators, who do indeed care about us in the concrete sense — but these beings are not God in the traditional theological sense. They are advanced beings of our own kind, themselves created by other beings, themselves operating within the larger infinite cosmos.
+**The framework's relationship to "God"**. If "God" is interpreted as the infinite cosmos itself, then God exists — God is the infinite structure within which all the various local features operate. But this God is not a personal being, not a deity that intervenes in human affairs, not a recipient of prayer or worship in any traditional sense. The infinite cosmos is "infinitely indifferent" to specific events at any particular scale. If "God" is interpreted as a personal creator who cares about humanity, then there are such beings — the Elohim, our specific creators, who do indeed care about us in the concrete sense — but these beings are not God in the traditional theological sense. They are advanced beings of our own kind, themselves created by other beings, themselves operating within the larger infinite cosmos.{{ footnote(id="5") }}
 
 The framework's specific position on the relationship between the Cosmic Chain and the broader infinite cosmos is distinctive: the chain is one specific feature of the broader infinite cosmological structure rather than the broader structure itself. The infinite cosmos contains the chain (and presumably contains many other features that the framework does not develop in detail) rather than being identical with the chain.
 
@@ -368,7 +490,7 @@ Mainstream cosmology has produced substantial work on the broader question of co
 
 **Giordano Bruno**'s *De l'infinito universo et mondi* (1584) developed the multiple-worlds and infinite-universe doctrine extensively. Bruno argued for an infinite universe containing infinite inhabited worlds, with the cosmos having no center and no boundary. Bruno's specific cosmological-theological doctrines led to his execution by the Roman Inquisition in 1600. Bruno is the principal early-modern philosophical antecedent of the contemporary infinite-universe discussion.
 
-**Immanuel Kant** in the *Critique of Pure Reason* (1781) treated the question of cosmic infinity within the broader framework of the antinomies of pure reason. Kant argued that the question whether the universe is infinite or finite cannot be resolved by pure reason alone, with both answers leading to contradictions when developed systematically. Kant's specific treatment has substantial implications for how the question can be approached philosophically.
+**Immanuel Kant** in the *Critique of Pure Reason* (1781) treated the question of cosmic infinity within the broader framework of the antinomies of pure reason.{{ cite(id="kant-critique-pure-reason", text="[10]", title="Kant, *Critique of Pure Reason* (1781) — the antinomies on cosmic infinity") }} Kant argued that the question whether the universe is infinite or finite cannot be resolved by pure reason alone, with both answers leading to contradictions when developed systematically. Kant's specific treatment has substantial implications for how the question can be approached philosophically.
 
 **Contemporary multiverse cosmology** (Linde, Vilenkin, Tegmark, and others) develops substantial work on the broader question of cosmic infinity within contemporary scientific cosmology. The principal models include:
 
@@ -376,7 +498,7 @@ Mainstream cosmology has produced substantial work on the broader question of co
 - **String theory landscape models** proposing that the various fundamental physical constants take different values in different regions of the broader multiverse
 - **Many-worlds quantum mechanics** proposing that the various possible quantum outcomes are realized in different branches of a broader multiverse
 
-**Tegmark's mathematical universe hypothesis** (Max Tegmark, *Our Mathematical Universe*, 2014) develops a substantial multiverse framework in which all mathematically consistent universes exist as physically real structures. The framework provides one specific contemporary engagement with the broader infinite-universe question.
+**Tegmark's mathematical universe hypothesis** (Max Tegmark, *Our Mathematical Universe*, 2014) develops a substantial multiverse framework in which all mathematically consistent universes exist as physically real structures.{{ cite(id="tegmark-mathematical-universe", text="[11]", title="Tegmark, *Our Mathematical Universe* (2014)") }}{{ cite(id="vilenkin-many-worlds-in-one", text="[12]", title="Vilenkin, *Many Worlds in One* (2006)") }}{{ cite(id="linde-inflation-quantum-cosmology", text="[13]", title="Linde, *Inflation and Quantum Cosmology* (1990)") }} The framework provides one specific contemporary engagement with the broader infinite-universe question.
 
 The framework's relationship to mainstream cosmology is one of broader-framework consistency (the Cosmic Chain does not contradict mainstream observational cosmology) while extending substantially beyond what mainstream cosmology directly engages (the specific civilizational-recursive content of the chain).
 
@@ -464,7 +586,7 @@ The Hindu tradition preserves the most extensively developed cyclic cosmology in
 
 **The Brahma-multiplicity tradition**. Various Hindu texts treat the broader cosmos as comprising multiple Brahma-systems, with each Brahma operating within its specific cosmic system across the cosmic cycles. The multiple-Brahma framework provides substantial parallel content for the multiple-creator-civilization framework of the Cosmic Chain.
 
-The framework reads the Hindu cyclic cosmology as preserving fragmentary memory of the broader cosmic-recursive structure within the distinctive Hindu cultural-religious framing. The specific Hindu elaborations (the yuga durations, the kalpa cosmology, the multiple Brahmas) reflect the tradition's distinctive theological content while preserving the underlying recursive-cyclical pattern.
+The framework reads the Hindu cyclic cosmology as preserving fragmentary memory of the broader cosmic-recursive structure within the distinctive Hindu cultural-religious framing.{{ cite(id="bhagavad-gita", text="[18]", title="*The Bhagavad Gita* (trans. Easwaran) — the cosmic-cycle framework") }}{{ cite(id="doniger-hindu-myths", text="[19]", title="Doniger, *Hindu Myths: A Sourcebook* (1975)") }} The specific Hindu elaborations (the yuga durations, the kalpa cosmology, the multiple Brahmas) reflect the tradition's distinctive theological content while preserving the underlying recursive-cyclical pattern.
 
 ### Buddhist beginningless cycles
 
@@ -478,7 +600,7 @@ The Buddhist tradition preserves substantial cosmological material on beginningl
 
 **The Mahāyāna multiple buddha-fields**. The Mahāyāna tradition preserves substantial multiple-worlds material (treated more fully in the [Cosmic Competition](../cosmic-competition/) entry). The buddha-field framework provides parallel content for the Cosmic Chain's recursive-cyclical structure.
 
-The framework reads the Buddhist beginningless-cycle tradition as preserving substantial parallel content to the Cosmic Chain framework. The Buddhist tradition's specific "without findable beginning" framing is structurally identical with the Cosmic Chain's "no first creator" position.
+The framework reads the Buddhist beginningless-cycle tradition as preserving substantial parallel content to the Cosmic Chain framework.{{ cite(id="williams-mahayana-buddhism", text="[20]", title="Williams, *Mahāyāna Buddhism* (2008) — the beginningless saṃsāra and buddha-field cosmology") }}{{ cite(id="buswell-lopez-princeton-buddhism", text="[21]", title="Buswell & Lopez, *The Princeton Dictionary of Buddhism* (2014)") }} The Buddhist tradition's specific "without findable beginning" framing is structurally identical with the Cosmic Chain's "no first creator" position.
 
 ### Jain anadi cosmology
 
@@ -492,7 +614,7 @@ The Jain tradition preserves a substantial **anadi** ("without beginning") cosmo
 
 **The structural similarity to the Cosmic Chain**. The Jain *anadi* framework has substantial structural similarity to the Cosmic Chain framework's "no first creator" position. Both frameworks reject the conventional Western theological presupposition that the cosmos has an ultimate origin; both develop substantial alternative cosmological content within the eternal-universe framework.
 
-The framework reads the Jain *anadi* tradition as preserving substantial parallel content to the Cosmic Chain framework's specific eternal-cosmos position.
+The framework reads the Jain *anadi* tradition as preserving substantial parallel content to the Cosmic Chain framework's specific eternal-cosmos position.{{ cite(id="dundas-the-jains", text="[22]", title="Dundas, *The Jains* (2002) — the anadi beginningless-and-endless time-cycle cosmology") }}
 
 ### Stoic eternal recurrence
 
@@ -530,13 +652,13 @@ The Mesoamerican traditions preserve substantial cyclic-cosmological material wi
 
 **The cosmic-cycles broader pattern**. Various Mesoamerican traditions preserve cyclic-cosmological material with specific cultural-religious framings. The detailed treatment of specific Mesoamerican cosmologies lives in the [Antediluvian](../antediluvian/) and [Great Flood](../great-flood/) entries' comparative observations.
 
-The framework reads the Mesoamerican cyclic-cosmologies as preserving substantial parallel content to the broader cyclic-cosmology framework.
+The framework reads the Mesoamerican cyclic-cosmologies as preserving substantial parallel content to the broader cyclic-cosmology framework.{{ cite(id="carrasco-religions-mesoamerica", text="[23]", title="Carrasco, *Religions of Mesoamerica* — the five-suns successive-world cosmology") }}{{ cite(id="tedlock-popol-vuh", text="[24]", title="Tedlock (trans.), *Popol Vuh* (1996)") }}
 
 ### Norse cyclic cosmology
 
 The Norse tradition preserves substantial cyclic-cosmological material in the **Ragnarök-and-renewal** framework. The principal features:
 
-**Ragnarök**. The Norse tradition preserves the prophecy of Ragnarök — the specific cosmic catastrophe in which the principal Aesir gods die in battle with their cosmic adversaries (Loki, the Fenrir wolf, the Midgard serpent, the giants, others). The Ragnarök narrative is preserved principally in the *Poetic Edda*'s *Völuspá* and Snorri Sturluson's *Prose Edda*'s *Gylfaginning*.
+**Ragnarök**. The Norse tradition preserves the prophecy of Ragnarök — the specific cosmic catastrophe in which the principal Aesir gods die in battle with their cosmic adversaries (Loki, the Fenrir wolf, the Midgard serpent, the giants, others). The Ragnarök narrative is preserved principally in the *Poetic Edda*'s *Völuspá* and Snorri Sturluson's *Prose Edda*'s *Gylfaginning*.{{ cite(id="poetic-edda", text="[25]", title="*The Poetic Edda* (trans. Larrington) — Völuspá on Ragnarök and renewal") }}{{ cite(id="lindow-norse-mythology", text="[26]", title="Lindow, *Norse Mythology* (2001)") }}
 
 **The post-Ragnarök renewal**. After Ragnarök, the Norse tradition preserves substantial material on the post-catastrophic renewal: a new earth emerges from the sea, with various surviving deities (Vidar, Vali, Modi, Magni) and various surviving humans (Líf and Lífþrasir, who survived in the Hoddmímis holt) repopulating the renewed cosmos.
 
@@ -546,122 +668,8 @@ The framework reads the Norse cyclic-cosmology tradition as preserving substanti
 
 ### The convergence
 
-The corpus's working position on the comparative-cyclic-cosmology question is that the global recurrence of cyclic-cosmological frameworks across cultural-religious traditions is meaningful as evidence of a genuine underlying reality. The mainstream scholarly explanation — which generally treats the various cyclic cosmologies as developing through internal religious-philosophical processes combined with cultural diffusion — is read by the corpus as substantially insufficient to account for the breadth and the specific structural parallels (the recursive-cyclical pattern, the eternal-recurrence implications, the multiple-cosmic-cycles content) that appear consistently across geographically and chronologically separated traditions.
+The corpus's working position on the comparative-cyclic-cosmology question is that the global recurrence of cyclic-cosmological frameworks across cultural-religious traditions is meaningful as evidence of a genuine underlying reality.{{ footnote(id="6") }}{{ cite(id="hannah-greek-roman-calendars", text="[27]", title="Hannah, *Greek and Roman Calendars* (2005) — classical cyclic-time and the Great Year") }} The mainstream scholarly explanation — which generally treats the various cyclic cosmologies as developing through internal religious-philosophical processes combined with cultural diffusion — is read by the corpus as substantially insufficient to account for the breadth and the specific structural parallels (the recursive-cyclical pattern, the eternal-recurrence implications, the multiple-cosmic-cycles content) that appear consistently across geographically and chronologically separated traditions.
 
 The framework's specific reading is that the global cyclic-cosmology pattern preserves common memory of the broader cosmic situation that the Cosmic Chain framework articulates, with each cultural-religious tradition preserving the memory in its own terms and with its own specific details reflecting its own perspective and its own subsequent transmission history. The Hindu and Buddhist traditions preserve the memory most directly relative to the framework's specific cyclic-recursive content; the Jain *anadi* tradition preserves the specific "no first creator" position; the Stoic tradition preserves the eternal-recurrence content within the Western philosophical context; the Hermetic tradition preserves the cosmic-correspondence principle; the Mesoamerican and Norse traditions preserve cyclic-cosmological material within their respective cultural channels.
 
 The corpus does not require rejecting all of the mainstream scholarly framework. Cultural diffusion certainly occurred across the historical period, and the cyclic-cosmologies across cultures show both common structural features (preserving the original framework) and culturally specific elaborations (reflecting the diffusion and local development). What the corpus's framework adds is the underlying historical-cosmic situation that gave rise to the structural commonalities — a situation that the mainstream framework, lacking the corpus's broader cosmological framework, has had no way to identify and has therefore had to attribute to combinations of independent religious-philosophical development and cultural diffusion.
-
-## See also
-
-- [Cosmic Competition](../cosmic-competition/)
-- [Doubled Signature](../doubled-signature/)
-- [Embassy](../embassy/)
-- [Apocalypse](../apocalypse/)
-- [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Yahweh](../yahweh/)
-- [Jesus](../jesus/)
-- [Raël](../rael/)
-- [Prophet](../prophet/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Genesis](../genesis/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Atomic Threshold](../atomic-threshold/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*. The "Neither God nor Soul" section is the principal source for the framework's specific Cosmic Chain content.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-Bruno, Giordano. *De l'infinito universo et mondi* (1584). English: *On the Infinite Universe and Worlds*. Trans. Dorothea Waley Singer. In *Giordano Bruno: His Life and Thought*. Henry Schuman, 1950.
-
-Yates, Frances A. *Giordano Bruno and the Hermetic Tradition*. University of Chicago Press, 1964.
-
-Kant, Immanuel. *Critique of Pure Reason* (1781). Trans. Norman Kemp Smith. St. Martin's, 1929.
-
-Hawking, Stephen, and Roger Penrose. *The Nature of Space and Time*. Princeton University Press, 1996.
-
-Linde, Andrei. *Inflation and Quantum Cosmology*. Academic Press, 1990.
-
-Tegmark, Max. *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality*. Knopf, 2014.
-
-Vilenkin, Alexander. *Many Worlds in One: The Search for Other Universes*. Hill and Wang, 2006.
-
-Steinhardt, Paul J., and Neil Turok. *Endless Universe: Beyond the Big Bang*. Doubleday, 2007.
-
-Penrose, Roger. *Cycles of Time: An Extraordinary New View of the Universe*. Knopf, 2011.
-
-Hoyle, Fred. "A New Model for the Expanding Universe." *Monthly Notices of the Royal Astronomical Society* 108 (1948): 372–382.
-
-Penzias, Arno, and Robert Wilson. "A Measurement of Excess Antenna Temperature at 4080 Mc/s." *Astrophysical Journal* 142 (1965): 419–421.
-
-Crick, Francis, and Leslie Orgel. "Directed Panspermia." *Icarus* 19, no. 3 (1973): 341–346.
-
-Crick, Francis. *Life Itself: Its Origin and Nature*. Simon and Schuster, 1981.
-
-Arrhenius, Svante. *Worlds in the Making: The Evolution of the Universe*. Trans. H. Borns. Harper, 1908.
-
-Hoyle, Fred, and Chandra Wickramasinghe. *Lifecloud: The Origin of Life in the Universe*. Harper and Row, 1978.
-
-Nietzsche, Friedrich. *Thus Spoke Zarathustra* (1883–1885). Trans. Walter Kaufmann. In *The Portable Nietzsche*. Viking, 1954.
-
-Nietzsche, Friedrich. *The Will to Power* (posthumous, 1901). Trans. Walter Kaufmann and R. J. Hollingdale. Vintage, 1968.
-
-Long, A. A., and D. N. Sedley. *The Hellenistic Philosophers*. 2 vols. Cambridge University Press, 1987.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-*The Bhagavad Gita*. Trans. Eknath Easwaran. Nilgiri Press, 2007.
-
-Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. Routledge, 2nd ed., 2008.
-
-Buswell, Robert E., Jr., and Donald S. Lopez Jr. *The Princeton Dictionary of Buddhism*. Princeton University Press, 2014.
-
-Dundas, Paul. *The Jains*. Routledge, 2nd ed., 2002.
-
-Jaini, Padmanabh S. *The Jaina Path of Purification*. University of California Press, 1979.
-
-Hannah, Robert. *Greek and Roman Calendars: Constructions of Time in the Classical World*. Duckworth, 2005.
-
-*The Emerald Tablet of Hermes Trismegistus*. Various editions; principal English-language treatments in: Faivre, Antoine. *The Eternal Hermes*. Phanes Press, 1995.
-
-Tedlock, Dennis, trans. *Popol Vuh: The Mayan Book of the Dawn of Life*. Touchstone, 1996.
-
-Carrasco, Davíd. *Religions of Mesoamerica*. Waveland Press, 2nd ed., 2014.
-
-León-Portilla, Miguel. *Aztec Thought and Culture: A Study of the Ancient Nahuatl Mind*. University of Oklahoma Press, 1963.
-
-*The Poetic Edda*. Trans. Carolyne Larrington. Oxford University Press, rev. ed., 2014.
-
-Sturluson, Snorri. *The Prose Edda*. Trans. Jesse L. Byock. Penguin Classics, 2005.
-
-Lindow, John. *Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs*. Oxford University Press, 2001.
-
-von Däniken, Erich. *Chariots of the Gods?* Trans. Michael Heron. Putnam, 1968.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-"Multiverse." *Encyclopaedia Britannica*. <https://www.britannica.com/science/multiverse>
-
-"Big Bang model." *Encyclopaedia Britannica*. <https://www.britannica.com/science/big-bang-model>
-
-"Cyclic cosmology." *Wikipedia*. <https://en.wikipedia.org/wiki/Cyclic_model>
-
-"Panspermia." *Encyclopaedia Britannica*. <https://www.britannica.com/science/panspermia>
-
-"Eternal recurrence." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/eternal-return>
