@@ -7,6 +7,10 @@ date = "2026-05-17T07:12:28Z"
 
 [extra]
 claim_type = "direct"
+# Prerecorded audio-play artifact present at
+# assets.wheelofheaven.world/audio/en/extraterrestrials-took-me-to-their-planet/.
+# Listen button is gated on this flag.
+audioplay = true
 +++
 
 This page displays "Extraterrestrials Took Me to Their Planet" with interactive features for viewing the original French text alongside the published English translation.
