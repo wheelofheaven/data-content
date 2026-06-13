@@ -3,6 +3,7 @@ title = "Made from the Ground to Bear the Labor"
 description = "Across Sumerian, Babylonian, and Hebrew creation accounts, humanity is formed from the earth to take over the gods' work. What the recurring motif encodes about why we were made."
 template = "articles-page.html"
 date = 2026-06-13
+draft = true
 
 [extra]
 claim_type = "inferred"
