@@ -19,7 +19,7 @@ This page displays "The Book Which Tells the Truth" with interactive features fo
 The book contains 7 chapters and is available in the following languages:
 - **FR**: Le Livre Qui Dit la Vérité
 - **EN**: The Book Which Tells the Truth
-- **DE**: Das Buch, das die Wahrheit verkündet
+- **DE**: Das Buch, das die Wahrheit sagt
 - **ES**: El Libro que Dice la Verdad
 - **RU**: Книга, которая говорит правду
 - **JA**: 真実を語る本
