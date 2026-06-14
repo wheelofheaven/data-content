@@ -1,6 +1,6 @@
 +++
 title = "The Wheel Keeps Turning"
-description = "The outro chapter — synthesis of the twelve-age cycle, the Raëlian source as interpretive lens, syncretism of world religions, the fractal cosmology of infinity, the four moral levels, epistemic humility, and hope without guarantees."
+description = "The closing synthesis: the twelve-age cycle as one turn of an infinite fractal cosmology, the Raëlian source as interpretive lens, the four moral levels, and hope held without guarantees."
 template = "timeline-page.html"
 toc = true
 weight = 270

@@ -1,6 +1,6 @@
 +++
 title = "Preamble"
-description = "The Preamble introduces a speculative narrative about an advanced extraterrestrial civilization, the Elohim, who embark on genetic experimentation and interstellar exploration. Drawing parallels with the \"Jurassic Park\" series, it delves into the hypothetical events leading up to the Elohim's arrival on Earth, set against the backdrop of the Age of Capricorn, 21,810 years ago. This story blends elements of science fiction with mythology, exploring themes of scientific hubris and the ramifications of genetic engineering."
+description = "A framing overture: the story of creators, a contested council, and engineered life recurs across independent ancient traditions — read here through the Raëlian source as interpretive lens."
 weight = 200
 template = "timeline-page.html"
 aliases = ["/intro/preamble/"]
