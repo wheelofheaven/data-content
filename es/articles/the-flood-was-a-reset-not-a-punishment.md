@@ -8,6 +8,8 @@ draft = false
 [extra]
 claim_type = "inferred"
 editorial_pass = "2026-05"
+author = "Zara Zinsfuss"
+author_slug = "zara-zinsfuss"
 article_type = "explainer"
 category = "Comparative"
 summary = "Leídas con atención, las historias del diluvio más antiguas no describen a un dios perdiendo los estribos. Describen una decisión tomada en asamblea, jurada bajo juramento y declarada irrevocable; un superviviente al que se le entregan especificaciones técnicas precisas y se le ordena cargar *la semilla de todo lo viviente*; y —lo más revelador— un debate entre los planificadores en el que uno de ellos sostiene que un diluvio es el *instrumento equivocado*, desproporcionado e indiscriminado, y nombra las alternativas selectivas que se deberían haber usado en su lugar. La *Historia del Diluvio* sumeria, el *Atraḫasīs* y el *Gilgamesh* XI babilónicos, el *Libro de los Vigilantes* y el *Génesis* 6–9 no comparten un estado de ánimo, sino un procedimiento. Este Explicativo recorre ese procedimiento línea por línea, toma en serio la explicación dominante de la difusión y luego lee la convergencia a través del marco de la Rueda del Cielo: como el registro administrativo de un reinicio gestionado."

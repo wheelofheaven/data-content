@@ -8,6 +8,8 @@ draft = false
 [extra]
 claim_type = "inferred"
 editorial_pass = "2026-05"
+author = "Zara Zinsfuss"
+author_slug = "zara-zinsfuss"
 article_type = "explainer"
 category = "Comparative"
 summary = "Genau gelesen beschreiben die ältesten Flutgeschichten nicht einen Gott, der die Beherrschung verliert. Sie beschreiben eine in der Versammlung gefasste Entscheidung, durch Eid beschworen und für unwiderruflich erklärt; einen Überlebenden, dem präzise technische Spezifikationen übergeben werden und der angewiesen wird, *die Saat aller lebenden Wesen* an Bord zu nehmen; und — am bezeichnendsten — eine Debatte unter den Planern, in der einer von ihnen argumentiert, eine Flut sei das *falsche Instrument*, unverhältnismäßig und wahllos, und die gezielten Alternativen benennt, die stattdessen hätten eingesetzt werden sollen. Die sumerische *Flood Story*, das babylonische *Atraḫasīs* und *Gilgamesch* XI, das *Buch der Wächter* und *Genesis* 6–9 teilen nicht eine Stimmung, sondern ein Verfahren. Dieser Explainer arbeitet dieses Verfahren Zeile für Zeile durch, nimmt die etablierte Diffusionserklärung ernst und liest die Konvergenz dann durch den Rahmen des Rad des Himmels — als das Verwaltungsprotokoll eines gesteuerten Resets."

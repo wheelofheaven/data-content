@@ -8,6 +8,8 @@ draft = false
 [extra]
 claim_type = "inferred"
 editorial_pass = "2026-05"
+author = "Zara Zinsfuss"
+author_slug = "zara-zinsfuss"
 article_type = "explainer"
 category = "Comparative"
 summary = "Lus de près, les plus anciens récits du déluge ne décrivent pas un dieu emporté par la colère. Ils décrivent une décision prise en assemblée, jurée sous serment et déclarée irrévocable ; un survivant à qui l'on remet des spécifications techniques précises et à qui l'on ordonne de charger *la semence de tous les êtres vivants* ; et — plus révélateur encore — un débat entre les planificateurs au cours duquel l'un d'eux soutient qu'un déluge est le *mauvais instrument*, disproportionné et indiscriminé, et nomme les solutions ciblées qui auraient dû être employées à la place. La *Légende du déluge* sumérienne, l'*Atraḫasīs* et le *Gilgamesh* XI babyloniens, le *Livre des Veilleurs* et la *Genèse* 6–9 partagent non pas une humeur mais une procédure. Cet Explicatif parcourt cette procédure ligne à ligne, prend au sérieux l'explication courante par la diffusion, puis lit la convergence à travers le cadre de la Roue du Ciel — comme le registre administratif d'une réinitialisation pilotée."
