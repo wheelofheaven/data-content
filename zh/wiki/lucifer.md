@@ -11,6 +11,11 @@ editorial_pass = "2026-05"
 claim_type = "framework"
 entry_type = "figure"
 alternative_names = ["光的携带者", "lūcifer", "Helel ben Shahar", "הֵילֵל בֶּן־שַׁחַר", "晨星", "Phosphoros", "Heosphoros", "路西法派系领袖"]
+portrait_id = "lucifer"
+image = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.avif"
+image_alt = "AI-generated editorial portrait of Lucifer as the Light-Bringer, an Eloha faction leader with long hair and a green-gold luminosity."
+image_caption = "Interpretive portrait for the Lucifer wiki entry and library personality metadata."
 timeline = ["leo", "cancer"]
 see_also = [
     { title = "蛇", path = "wiki/serpent", description = "路西法在其具体的《创世记》3 章伊甸披露角色中。" },

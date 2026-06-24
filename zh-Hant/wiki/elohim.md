@@ -11,6 +11,11 @@ category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "civilization"
 alternative_names = ["阿努納奇", "天界諸者", "造物主", "厄勒(El)", "諸神", "大能者", "天人", "Theosites"]
+portrait_id = "elohim"
+image = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.avif"
+image_alt = "AI-generated editorial group portrait of the Elohim as long-haired human-like creators in a green-lit council setting."
+image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
 see_also = [
     { title = "耶和華", path = "wiki/yahweh", description = "首要的耶洛因 —— 永恆者議會主席。" },
     { title = "永恆者議會", path = "wiki/council-of-eternals", description = "決定人類受造命運的治理機構。" },

@@ -12,6 +12,11 @@ claim_type = "framework"
 entry_type = "figure"
 alternative_names = ["the Light-Bringer", "lūcifer", "Helel ben Shahar", "הֵילֵל בֶּן־שַׁחַר", "the Morning Star", "Phosphoros", "Heosphoros", "the Lucifer faction leader"]
 timeline = ["leo", "cancer"]
+portrait_id = "lucifer"
+image = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.avif"
+image_alt = "AI-generated editorial portrait of Lucifer as the Light-Bringer, an Eloha faction leader with long hair and a green-gold luminosity."
+image_caption = "Interpretive portrait for the Lucifer wiki entry and library personality metadata."
 see_also = [
     { title = "Serpent", path = "wiki/serpent", description = "Lucifer in his specific Genesis 3 Eden-disclosure role." },
     { title = "Yahweh", path = "wiki/yahweh", description = "The Israel-team leader and alliance moderate; Lucifer's former colleague and post-Eden political opponent." },

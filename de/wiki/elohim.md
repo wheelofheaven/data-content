@@ -11,6 +11,11 @@ category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "civilization"
 alternative_names = ["Anunnaki", "Himmlische", "Schöpfer", "El", "Götter", "Mächtige", "Himmelsvolk", "Theositen"]
+portrait_id = "elohim"
+image = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.avif"
+image_alt = "AI-generated editorial group portrait of the Elohim as long-haired human-like creators in a green-lit council setting."
+image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
 see_also = [
     { title = "Jahwe", path = "wiki/yahweh", description = "Der oberste Elohim — Präsident des Rates der Ewigen." },
     { title = "Rat der Ewigen", path = "wiki/council-of-eternals", description = "Das leitende Gremium, das über das Schicksal der menschlichen Schöpfung entscheidet." },

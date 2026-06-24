@@ -11,6 +11,11 @@ editorial_pass = "2026-05"
 claim_type = "framework"
 entry_type = "figure"
 alternative_names = ["der Lichtbringer", "lūcifer", "Helel ben Shahar", "הֵילֵל בֶּן־שַׁחַר", "der Morgenstern", "Phosphoros", "Heosphoros", "der Anführer der Luzifer-Fraktion"]
+portrait_id = "lucifer"
+image = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.avif"
+image_alt = "AI-generated editorial portrait of Lucifer as the Light-Bringer, an Eloha faction leader with long hair and a green-gold luminosity."
+image_caption = "Interpretive portrait for the Lucifer wiki entry and library personality metadata."
 timeline = ["leo", "cancer"]
 see_also = [
     { title = "Serpent", path = "wiki/serpent", description = "Luzifer in seiner spezifischen Rolle bei der Eden-Enthüllung in Genesis 3." },

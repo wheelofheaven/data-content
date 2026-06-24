@@ -11,6 +11,11 @@ category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "civilization"
 alternative_names = ["Anunnaki", "Celestes", "Creadores", "El", "Dioses", "Los Poderosos", "Pueblo del Cielo", "Teositas"]
+portrait_id = "elohim"
+image = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.avif"
+image_alt = "AI-generated editorial group portrait of the Elohim as long-haired human-like creators in a green-lit council setting."
+image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
 see_also = [
     { title = "Yahvé", path = "wiki/yahweh", description = "El Elohim principal — presidente del Consejo de los Eternos." },
     { title = "Consejo de los Eternos", path = "wiki/council-of-eternals", description = "El órgano de gobierno que decide sobre el destino de la creación humana." },

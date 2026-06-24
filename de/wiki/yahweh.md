@@ -11,6 +11,11 @@ category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "Jehova", "der Ewige", "der Erste und der Letzte", "Alpha und Omega"]
+portrait_id = "yahweh"
+image = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.avif"
+image_alt = "AI-generated editorial portrait of Yahweh as an elder Eloha with almond-shaped eyes, long pale hair, and a calm green-lit presence."
+image_caption = "Interpretive portrait for the Yahweh wiki entry and library speaker metadata."
 see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "Die plurale Bezeichnung, deren wichtigstes Mitglied Jahwe ist." },
     { title = "Rat der Ewigen", path = "wiki/council-of-eternals", description = "Das leitende Gremium, dem Jahwe vorsitzt." },

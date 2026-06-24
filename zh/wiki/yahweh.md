@@ -11,6 +11,11 @@ category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "耶和华", "永恒者", "首者与末者", "阿尔法与俄梅戛"]
+portrait_id = "yahweh"
+image = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.avif"
+image_alt = "AI-generated editorial portrait of Yahweh as an elder Eloha with almond-shaped eyes, long pale hair, and a calm green-lit presence."
+image_caption = "Interpretive portrait for the Yahweh wiki entry and library speaker metadata."
 see_also = [
     { title = "耶洛因", path = "wiki/elohim", description = "耶和华为其首要成员的复数集合称谓。" },
     { title = "永恒者议会", path = "wiki/council-of-eternals", description = "耶和华所主持的治理机构。" },

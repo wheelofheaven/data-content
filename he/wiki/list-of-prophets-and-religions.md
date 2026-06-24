@@ -12,6 +12,11 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
 alternative_names = ["Catalogue of religions", "Prophet and tradition index", "Religious-tradition reference"]
+portrait_id = "prophetic-lineage"
+image = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.avif"
+image_alt = "AI-generated editorial group portrait of the prophetic lineage, with figures from multiple eras arranged around a luminous axis."
+image_caption = "Interpretive portrait for the prophets and religions reference catalogue."
 
 [extra.infobox]
 type = "Reference catalogue of religious traditions and their founding figures"

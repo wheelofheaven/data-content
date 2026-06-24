@@ -12,6 +12,11 @@ entry_type = "figure"
 claim_type = "framework"
 alternative_names = ["Claude Vorilhon", "Rael", "Raël Maitreya", "the Maitreya from the West", "Guide of Guides", "the last of the prophets"]
 timeline = ["aquarius"]
+portrait_id = "rael"
+image = "https://assets.wheelofheaven.world/images/wiki/rael-claude-vorilhon-v3.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/rael-claude-vorilhon-v3.avif"
+image_alt = "AI-generated editorial portrait of Rael as a 1970s Claude Vorilhon-style contactee with long hair and lightly tinted glasses."
+image_caption = "Interpretive portrait for the Rael wiki entry and library speaker metadata."
 
 [[extra.references]]
 id = "the-book-which-tells-the-truth"

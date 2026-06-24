@@ -12,6 +12,11 @@ entry_type = "figure"
 claim_type = "inferred"
 alternative_names = ["the Adversary", "the Accuser", "the Opposition", "*ha-satan* (הַשָּׂטָן, 'the satan')", "*satan* (שָׂטָן, common noun)", "the Slanderer", "*diabolos* (διάβολος, Greek)", "the Devil (medieval-Christian theological designation, conflated)", "the Tester", "the Skeptic"]
 timeline = ["all-ages"]
+portrait_id = "satan"
+image = "https://assets.wheelofheaven.world/images/wiki/satan-adversary-v2.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/satan-adversary-v2.avif"
+image_alt = "AI-generated editorial portrait of Satan as the Adversary, an Eloha opposition figure with long dark hair and austere green-lit features."
+image_caption = "Interpretive portrait for the Satan wiki entry and library personality metadata."
 
 see_also = [
     { title = "Lucifer", path = "/wiki/lucifer/", description = "The Earth-based exiled-creator faction leader; the Eden disclosure agent; distinguished from Satan in the corpus's four-figure taxonomy." },

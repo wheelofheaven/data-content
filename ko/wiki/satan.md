@@ -11,6 +11,11 @@ editorial_pass = "2026-05"
 entry_type = "figure"
 claim_type = "inferred"
 alternative_names = ["대적자", "기소자", "반대파", "*ha-satan* (הַשָּׂטָן, ‘그 사탄’)", "*satan* (שָׂטָן, 보통명사)", "중상모략자", "*diabolos* (διάβολος, 그리스어)", "악마 (중세 기독교 신학적 명칭, 통합된 형태)", "시험자", "회의주의자"]
+portrait_id = "satan"
+image = "https://assets.wheelofheaven.world/images/wiki/satan-adversary-v2.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/satan-adversary-v2.avif"
+image_alt = "AI-generated editorial portrait of Satan as the Adversary, an Eloha opposition figure with long dark hair and austere green-lit features."
+image_caption = "Interpretive portrait for the Satan wiki entry and library personality metadata."
 timeline = ["all-ages"]
 
 see_also = [
