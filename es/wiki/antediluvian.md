@@ -18,7 +18,7 @@ see_also = [
     { title = "Pangea", path = "wiki/pangaea", description = "La configuración del supercontinente de la Tierra antediluviana." },
     { title = "Árbol de la Vida", path = "wiki/tree-of-life", description = "La tecnología de longevidad por transferencia celular otorgada al liderazgo patriarcal del Edén." },
     { title = "Lucifer", path = "wiki/lucifer", description = "La facción disidente del equipo de Israel, exiliada en la Tierra, cuya tutela continuada configura el linaje del Edén." },
-    { title = "Consejo de los Eternos", path = "wiki/council-of-eternals", description = "El órgano deliberativo del mundo de origen cuya decisión produjo el Diluvio." },
+    { title = "Consejo de los Eternos", path = "wiki/council-of-the-eternals", description = "El órgano deliberativo del mundo de origen cuya decisión produjo el Diluvio." },
 ]
 
 footnotes = [
@@ -210,7 +210,7 @@ El supercontinente antediluviano del corpus *no* es la Pangea convencional de la
 
 ### El acuerdo político post-Edén
 
-El período antediluviano comienza, según la lectura del corpus, inmediatamente después del acuerdo político que clausuró el episodio del {% wiki(slug="eden") %}Edén{% end %}. La facción de Lucifer — los científicos disidentes del equipo de Israel que habían revelado conocimiento restringido a los primeros humanos — fue exiliada permanentemente en la Tierra, mientras que el resto del equipo de Israel y los otros seis equipos creadores se retiraron al mundo de origen. El resultado fue que el mundo post-Edén contenía una presencia continuada de la alianza (la facción exiliada de Lucifer) que operaba en contacto continuo con la población humana, mientras que la alianza más amplia mantenía la vigilancia desde la distancia a través del {% wiki(slug="council-of-eternals") %}Consejo{% end %} del mundo de origen y de la nave de la alianza estacionada cerca de la Tierra.
+El período antediluviano comienza, según la lectura del corpus, inmediatamente después del acuerdo político que clausuró el episodio del {% wiki(slug="eden") %}Edén{% end %}. La facción de Lucifer — los científicos disidentes del equipo de Israel que habían revelado conocimiento restringido a los primeros humanos — fue exiliada permanentemente en la Tierra, mientras que el resto del equipo de Israel y los otros seis equipos creadores se retiraron al mundo de origen. El resultado fue que el mundo post-Edén contenía una presencia continuada de la alianza (la facción exiliada de Lucifer) que operaba en contacto continuo con la población humana, mientras que la alianza más amplia mantenía la vigilancia desde la distancia a través del {% wiki(slug="council-of-the-eternals") %}Consejo{% end %} del mundo de origen y de la nave de la alianza estacionada cerca de la Tierra.
 
 Este acuerdo político estructura la totalidad del período antediluviano. La trayectoria distintiva del linaje del Edén — su rápido avance tecnológico, su liderazgo patriarcal longevo, la eventual producción de los descendientes híbridos *Nefilim*, sus logros civilizacionales — es resultado de la tutela continuada de la facción de Lucifer que el acuerdo político hizo posible. Los otros seis linajes, sin contacto directo continuado con creadores-maestros, se desarrollaron más lentamente y alcanzaron niveles más bajos de capacidad tecnológica a lo largo del mismo período.
 
@@ -292,7 +292,7 @@ La **facción exiliada de Lucifer** — los científicos Elohim que permaneciero
 
 Los ***Nefilim*** son los descendientes híbridos de las uniones de los *benei ha-Elohim*, y la tradición de los Vigilantes de la literatura enóquica elabora sus historias con considerable extensión. El texto bíblico da los nombres de *Nefilim* específicos sólo en casos limitados (los anaquitas, refaítas y emitas de referencias bíblicas posteriores se tratan a veces como descendientes de los *Nefilim* antediluvianos; los anaquitas de Números 13:33 se identifican explícitamente con los *Nefilim*).
 
-El **Consejo del mundo de origen** bajo la presidencia de Yahvé es el cuerpo político cuyas deliberaciones a lo largo del período antediluviano produjeron la decisión del Diluvio. Su composición y procedimientos se tratan más a fondo en la entrada {% wiki(slug="council-of-eternals") %}Consejo de los Eternos{% end %}.
+El **Consejo del mundo de origen** bajo la presidencia de Yahvé es el cuerpo político cuyas deliberaciones a lo largo del período antediluviano produjeron la decisión del Diluvio. Su composición y procedimientos se tratan más a fondo en la entrada {% wiki(slug="council-of-the-eternals") %}Consejo de los Eternos{% end %}.
 
 ## Evidencias y huellas supervivientes
 

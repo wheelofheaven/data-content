@@ -20,7 +20,7 @@ see_also = [
     { title = "聯盟", path = "/wiki/the-alliance/", description = "由挪亞之約所奠基的政治安排。" },
     { title = "路西法", path = "/wiki/lucifer/", description = "其介入透過方舟行動保全了挪亞的派系。" },
     { title = "耶和華", path = "/wiki/yahweh/", description = "其洪水後表決奠定永不再為承諾的議會領袖。" },
-    { title = "永恆者議會", path = "/wiki/council-of-eternals/", description = "授權打擊的母星政治機構。" },
+    { title = "永恆者議會", path = "/wiki/council-of-the-eternals/", description = "授權打擊的母星政治機構。" },
     { title = "洪水前", path = "/wiki/antediluvian/", description = "打擊所終結的洪水前文明時期。" },
     { title = "盤古大陸", path = "/wiki/pangaea/", description = "打擊所造成碎裂的超大陸。" },
     { title = "伊甸", path = "/wiki/eden/", description = "洪水前文明所延續譜系的原初聯盟實驗室。" },

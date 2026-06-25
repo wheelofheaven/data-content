@@ -20,7 +20,7 @@ see_also = [
     { title = "הברית", path = "/wiki/the-alliance/", description = "ההסדר הפוליטי שנוסד באמצעות ברית נח." },
     { title = "לוציפר", path = "/wiki/lucifer/", description = "הסיעה שהתערבותה שימרה את נח באמצעות מבצע התיבה." },
     { title = "יהוה", path = "/wiki/yahweh/", description = "מנהיג המועצה שעל הצבעתו שלאחר המבול נשענת ההתחייבות לאי־חזרה." },
-    { title = "מועצת הנצחיים", path = "/wiki/council-of-eternals/", description = "הגוף הפוליטי של כוכב־הבית שאישר את המתקפה." },
+    { title = "מועצת הנצחיים", path = "/wiki/council-of-the-eternals/", description = "הגוף הפוליטי של כוכב־הבית שאישר את המתקפה." },
     { title = "קדם־מבולי", path = "/wiki/antediluvian/", description = "התקופה הציוויליזציונית שלפני המבול שהמתקפה סיימה." },
     { title = "פנגיאה", path = "/wiki/pangaea/", description = "אדמת־העל שאת התפצלותה הפיקה המתקפה." },
     { title = "עדן", path = "/wiki/eden/", description = "מעבדת הברית המקורית שאת שושלתה הרחיבה התרבות הקדם־מבולית." },

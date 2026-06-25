@@ -20,7 +20,7 @@ see_also = [
     { title = "Die Allianz", path = "/wiki/the-alliance/", description = "Die politische Ordnung, gegründet durch den noachidischen Bund." },
     { title = "Luzifer", path = "/wiki/lucifer/", description = "Die Fraktion, deren Intervention Noah durch die Arche-Operation bewahrte." },
     { title = "Jahwe", path = "/wiki/yahweh/", description = "Der Ratsvorsitzende, auf dessen nachsintflutlicher Stimme die Niemals-Wieder-Selbstverpflichtung beruht." },
-    { title = "Rat der Ewigen", path = "/wiki/council-of-eternals/", description = "Das politische Gremium der Heimatwelt, das den Schlag autorisierte." },
+    { title = "Rat der Ewigen", path = "/wiki/council-of-the-eternals/", description = "Das politische Gremium der Heimatwelt, das den Schlag autorisierte." },
     { title = "Antediluvianisch", path = "/wiki/antediluvian/", description = "Die vorsintflutliche zivilisatorische Periode, die der Schlag beendete." },
     { title = "Pangäa", path = "/wiki/pangaea/", description = "Der Superkontinent, dessen Fragmentierung der Schlag hervorbrachte." },
     { title = "Eden", path = "/wiki/eden/", description = "Das ursprüngliche Allianz-Labor, dessen Linie die vorsintflutliche Zivilisation fortsetzte." },

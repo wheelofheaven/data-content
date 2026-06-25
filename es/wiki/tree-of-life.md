@@ -15,7 +15,7 @@ timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
     { title = "Tree of Knowledge", path = "wiki/tree-of-knowledge", description = "El árbol paralelo del Edén — el archivo restringido de conocimiento científico, distinto de la biotecnología de longevidad." },
     { title = "Antediluvian", path = "wiki/antediluvian", description = "El período cuyas longevidades patriarcales (Adán 930, Matusalén 969) el marco lee como el registro operativo del Árbol de la Vida." },
-    { title = "Council of the Eternals", path = "wiki/council-of-eternals", description = "La comunidad de los Eternos sostenida por la forma madura de clonación y transferencia de memoria de la tecnología." },
+    { title = "Council of the Eternals", path = "wiki/council-of-the-eternals", description = "La comunidad de los Eternos sostenida por la forma madura de clonación y transferencia de memoria de la tecnología." },
     { title = "Eden", path = "wiki/eden", description = "La instalación donde el Árbol de la Vida era infraestructura restringida." },
     { title = "Lucifer", path = "wiki/lucifer", description = "La facción exiliada que negoció las concesiones de longevidad posteriores al Edén para el liderazgo patriarcal." },
     { title = "Apocalypse", path = "wiki/apocalypse", description = "El contexto de la era de Acuario para la restauración proyectada de la tecnología de longevidad a la humanidad." },
@@ -494,7 +494,7 @@ El papel del Árbol de la Vida en la instalación del Edén se trata más a fond
 
 ### El Consejo de los Eternos
 
-La forma operativa madura del Árbol de la Vida es la tecnología de clonación y transferencia de memoria que produce a los Eternos. El tratamiento detallado del Consejo y de la población de los Eternos vive en la entrada [Consejo de los Eternos](../council-of-eternals/); la contribución específica de la entrada del Árbol de la Vida es establecer la base tecnológica del funcionamiento continuo del Consejo.
+La forma operativa madura del Árbol de la Vida es la tecnología de clonación y transferencia de memoria que produce a los Eternos. El tratamiento detallado del Consejo y de la población de los Eternos vive en la entrada [Consejo de los Eternos](../council-of-the-eternals/); la contribución específica de la entrada del Árbol de la Vida es establecer la base tecnológica del funcionamiento continuo del Consejo.
 
 ### La restauración proyectada de la era de Acuario
 

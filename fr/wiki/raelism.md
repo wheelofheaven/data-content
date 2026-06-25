@@ -624,7 +624,7 @@ L'explication savante dominante — qui traite généralement le raélisme à tr
 - [Yahvé](../yahweh/)
 - [Élohim](../elohim/)
 - [L'Alliance](../the-alliance/)
-- [Conseil des Éternels](../council-of-eternals/)
+- [Conseil des Éternels](../council-of-the-eternals/)
 - [Ambassade](../embassy/)
 - [Apocalypse](../apocalypse/)
 - [Compétition Cosmique](../cosmic-competition/)

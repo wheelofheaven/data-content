@@ -15,7 +15,7 @@ timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
     { title = "知識の樹", path = "wiki/tree-of-knowledge", description = "並行するエデンの樹 ― 制限された科学的知識のアーカイブであり、長寿バイオテクノロジーとは異なる。" },
     { title = "大洪水以前", path = "wiki/antediluvian", description = "本枠組みが生命の樹の運用記録として読む族長たちの寿命(アダム930年、メトシェラ969年)を持つ期間。" },
-    { title = "永遠の評議会", path = "wiki/council-of-eternals", description = "技術の成熟したクローン化・記憶移転形態によって維持される永遠者の共同体。" },
+    { title = "永遠の評議会", path = "wiki/council-of-the-eternals", description = "技術の成熟したクローン化・記憶移転形態によって維持される永遠者の共同体。" },
     { title = "エデン", path = "wiki/eden", description = "生命の樹が制限されたインフラであった施設。" },
     { title = "ルシファー", path = "wiki/lucifer", description = "族長指導層のためにエデン以後の長寿付与を交渉した追放派閥。" },
     { title = "黙示録", path = "wiki/apocalypse", description = "長寿技術の人類への投射された回復に関する水瓶座の時代の脈絡。" },
@@ -494,7 +494,7 @@ YHWH-エロヒムは、見て好ましく食べるに良いあらゆる樹を地
 
 ### 永遠の評議会
 
-生命の樹の成熟した運用形態は、永遠者を生み出すクローン化・記憶移転技術である。評議会と永遠者の人口の詳細な取り扱いは[永遠の評議会](../council-of-eternals/)の項目に置かれる。生命の樹の項目の具体的な貢献は、評議会の継続的な運用のための技術的基礎を確立することである。
+生命の樹の成熟した運用形態は、永遠者を生み出すクローン化・記憶移転技術である。評議会と永遠者の人口の詳細な取り扱いは[永遠の評議会](../council-of-the-eternals/)の項目に置かれる。生命の樹の項目の具体的な貢献は、評議会の継続的な運用のための技術的基礎を確立することである。
 
 ### 水瓶座の時代の投射された回復
 

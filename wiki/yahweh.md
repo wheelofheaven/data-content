@@ -18,7 +18,7 @@ image_alt = "AI-generated editorial portrait of Yahweh as an elder Eloha with al
 image_caption = "Interpretive portrait for the Yahweh wiki entry and library speaker metadata."
 see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "The plural designation of which Yahweh is the principal member." },
-    { title = "Council of Eternals", path = "wiki/council-of-eternals", description = "The governing body Yahweh presides over." },
+    { title = "Council of Eternals", path = "wiki/council-of-the-eternals", description = "The governing body Yahweh presides over." },
     { title = "Jesus", path = "wiki/jesus", description = "The figure conventionally identified as Yahweh's son in Christian tradition." },
     { title = "Moses", path = "wiki/moses", description = "Yahweh's primary contact during the Exodus narrative." },
     { title = "Abraham", path = "wiki/abraham", description = "The founding patriarch through whom Yahweh established the covenant." },
@@ -326,7 +326,7 @@ The relationships between Yahweh and other ancient Near Eastern divine figures a
 - [Satan](../satan/)
 - [Serpent](../serpent/)
 - [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Tree of Life](../tree-of-life/)
 - [Adam and Eve](../adam-and-eve/)
 - [Noah](../noah/)

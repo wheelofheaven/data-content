@@ -15,7 +15,7 @@ timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
     { title = "Baum der Erkenntnis", path = "wiki/tree-of-knowledge", description = "Der parallele Eden-Baum — das beschränkte wissenschaftliche Wissensarchiv, abzugrenzen von der Langlebigkeits-Biotechnologie." },
     { title = "Vorsintflutlich", path = "wiki/antediluvian", description = "Die Periode, deren patriarchale Lebensspannen (Adam 930, Methusalem 969) der Rahmen als operatives Protokoll des Baumes des Lebens liest." },
-    { title = "Rat der Ewigen", path = "wiki/council-of-eternals", description = "Die Gemeinschaft der Ewigen, die von der ausgereiften Klon- und Gedächtnisübertragungsform der Technologie getragen wird." },
+    { title = "Rat der Ewigen", path = "wiki/council-of-the-eternals", description = "Die Gemeinschaft der Ewigen, die von der ausgereiften Klon- und Gedächtnisübertragungsform der Technologie getragen wird." },
     { title = "Eden", path = "wiki/eden", description = "Die Anlage, in der der Baum des Lebens beschränkte Infrastruktur war." },
     { title = "Luzifer", path = "wiki/lucifer", description = "Die verbannte Fraktion, die die nach-edenischen Langlebigkeitsgewährungen für die patriarchale Führung aushandelte." },
     { title = "Apokalypse", path = "wiki/apocalypse", description = "Der Kontext des Wassermann-Zeitalters für die projizierte Rückführung der Langlebigkeitstechnologie an die Menschheit." },
@@ -494,7 +494,7 @@ Die Rolle des Baumes des Lebens in der Eden-Installation wird ausführlicher im 
 
 ### Der Rat der Ewigen
 
-Die ausgereifte operative Form des Baumes des Lebens ist die Klon- und Gedächtnisübertragungstechnologie, die die Ewigen erzeugt. Die ausführliche Behandlung des Rates und der Bevölkerung der Ewigen lebt im Eintrag [Rat der Ewigen](../council-of-eternals/); der spezifische Beitrag des Eintrags zum Baum des Lebens besteht darin, die technologische Grundlage für den fortgesetzten Betrieb des Rates zu etablieren.
+Die ausgereifte operative Form des Baumes des Lebens ist die Klon- und Gedächtnisübertragungstechnologie, die die Ewigen erzeugt. Die ausführliche Behandlung des Rates und der Bevölkerung der Ewigen lebt im Eintrag [Rat der Ewigen](../council-of-the-eternals/); der spezifische Beitrag des Eintrags zum Baum des Lebens besteht darin, die technologische Grundlage für den fortgesetzten Betrieb des Rates zu etablieren.
 
 ### Die projizierte Rückführung im Wassermann-Zeitalter
 

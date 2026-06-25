@@ -20,7 +20,7 @@ see_also = [
     { title = "The Alliance", path = "/wiki/the-alliance/", description = "The political arrangement founded by the Noahic covenant." },
     { title = "Lucifer", path = "/wiki/lucifer/", description = "The faction whose intervention preserved Noah through the ark operation." },
     { title = "Yahweh", path = "/wiki/yahweh/", description = "The Council leader on whose post-Flood vote the never-again commitment rests." },
-    { title = "Council of the Eternals", path = "/wiki/council-of-eternals/", description = "The home-world political body that authorised the strike." },
+    { title = "Council of the Eternals", path = "/wiki/council-of-the-eternals/", description = "The home-world political body that authorised the strike." },
     { title = "Antediluvian", path = "/wiki/antediluvian/", description = "The pre-Flood civilisational period that the strike ended." },
     { title = "Pangaea", path = "/wiki/pangaea/", description = "The supercontinent whose fragmentation the strike produced." },
     { title = "Eden", path = "/wiki/eden/", description = "The originary alliance laboratory whose lineage the antediluvian civilisation extended." },

@@ -15,7 +15,7 @@ timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
     { title = "Arbre de la Connaissance", path = "wiki/tree-of-knowledge", description = "L'arbre parallèle d'Éden — l'archive de connaissance scientifique restreinte, distincte de la biotechnologie de longévité." },
     { title = "Antédiluvien", path = "wiki/antediluvian", description = "La période dont le cadre lit les longévités patriarcales (Adam 930, Mathusalem 969) comme le registre opérationnel de l'Arbre de Vie." },
-    { title = "Conseil des Éternels", path = "wiki/council-of-eternals", description = "La communauté éternelle entretenue par la forme mûre de la technologie, le clonage et le transfert de mémoire." },
+    { title = "Conseil des Éternels", path = "wiki/council-of-the-eternals", description = "La communauté éternelle entretenue par la forme mûre de la technologie, le clonage et le transfert de mémoire." },
     { title = "Éden", path = "wiki/eden", description = "L'installation où l'Arbre de Vie était une infrastructure d'accès restreint." },
     { title = "Lucifer", path = "wiki/lucifer", description = "La faction exilée qui négocia les concessions de longévité post-Éden pour la direction patriarcale." },
     { title = "Apocalypse", path = "wiki/apocalypse", description = "Le contexte de l'ère du Verseau pour la restauration projetée de la technologie de longévité à l'humanité." },
@@ -494,7 +494,7 @@ Le rôle de l'Arbre de Vie dans l'installation d'Éden est traité plus complèt
 
 ### Le Conseil des Éternels
 
-La forme opérationnelle mûre de l'Arbre de Vie est la technologie de clonage et de transfert de mémoire qui produit les Éternels. Le traitement détaillé du Conseil et de la population éternelle réside dans l'entrée [Conseil des Éternels](../council-of-eternals/) ; la contribution spécifique de l'entrée Arbre de Vie est d'établir la base technologique du fonctionnement continu du Conseil.
+La forme opérationnelle mûre de l'Arbre de Vie est la technologie de clonage et de transfert de mémoire qui produit les Éternels. Le traitement détaillé du Conseil et de la population éternelle réside dans l'entrée [Conseil des Éternels](../council-of-the-eternals/) ; la contribution spécifique de l'entrée Arbre de Vie est d'établir la base technologique du fonctionnement continu du Conseil.
 
 ### La restauration projetée de l'ère du Verseau
 

@@ -18,7 +18,7 @@ image_alt = "AI-generated editorial portrait of Yahweh as an elder Eloha with al
 image_caption = "Interpretive portrait for the Yahweh wiki entry and library speaker metadata."
 see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "Die plurale Bezeichnung, deren wichtigstes Mitglied Jahwe ist." },
-    { title = "Rat der Ewigen", path = "wiki/council-of-eternals", description = "Das leitende Gremium, dem Jahwe vorsitzt." },
+    { title = "Rat der Ewigen", path = "wiki/council-of-the-eternals", description = "Das leitende Gremium, dem Jahwe vorsitzt." },
     { title = "Jesus", path = "wiki/jesus", description = "Die Figur, die in der christlichen Tradition konventionell als Sohn Jahwes identifiziert wird." },
     { title = "Mose", path = "wiki/moses", description = "Jahwes primärer Kontakt während der Exodus-Erzählung." },
     { title = "Abraham", path = "wiki/abraham", description = "Der Gründungspatriarch, durch den Jahwe den Bund schloss." },
@@ -326,7 +326,7 @@ Die Beziehungen zwischen Jahwe und anderen altorientalischen göttlichen Figuren
 - [Satan](../satan/)
 - [Schlange](../serpent/)
 - [Die Allianz](../the-alliance/)
-- [Rat der Ewigen](../council-of-eternals/)
+- [Rat der Ewigen](../council-of-the-eternals/)
 - [Baum des Lebens](../tree-of-life/)
 - [Adam und Eva](../adam-and-eve/)
 - [Noah](../noah/)

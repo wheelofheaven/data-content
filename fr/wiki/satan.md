@@ -22,7 +22,7 @@ see_also = [
     { title = "Lucifer", path = "/wiki/lucifer/", description = "Le chef de la faction des créateurs exilés sur Terre ; l'agent de divulgation d'Éden ; distingué de Satan dans la taxonomie à quatre figures du corpus." },
     { title = "Serpent", path = "/wiki/serpent/", description = "La faction de Lucifer collectivement dans le rôle de divulgation d'Éden ; distinguée de Satan." },
     { title = "Yahvé", path = "/wiki/yahweh/", description = "Le chef de la majorité au Conseil dont Satan accepta le vote postdiluvien tout en maintenant une opposition de principe." },
-    { title = "Conseil des Éternels", path = "/wiki/council-of-eternals/", description = "La structure politico-institutionnelle du monde d'origine au sein de laquelle Satan dirige la faction d'opposition." },
+    { title = "Conseil des Éternels", path = "/wiki/council-of-the-eternals/", description = "La structure politico-institutionnelle du monde d'origine au sein de laquelle Satan dirige la faction d'opposition." },
     { title = "Élohim", path = "/wiki/elohim/", description = "La désignation civilisationnelle plus large au sein de laquelle Satan opère comme figure politico-factionnelle spécifique." },
     { title = "L'Alliance", path = "/wiki/the-alliance/", description = "L'arrangement civilisationnel créateur du programme terrestre auquel la faction de Satan s'est constamment opposée." },
     { title = "Éden", path = "/wiki/eden/", description = "Le laboratoire originel de l'alliance ; l'expulsion d'Éden est l'épisode principal où les prédictions de Satan commencèrent à se vérifier." },
@@ -458,7 +458,7 @@ Satan opère au sein du contexte plus large du matériau source raëlien, avec u
 
 - Le contexte du prologue du monde d'origine (l'incident de laboratoire et l'arrêt politique originel) se rattache au traitement plus large du prologue du monde d'origine dans l'entrée {% wiki(slug="dragons") %}Dragons{% end %}
 - Le contexte de la taxonomie à quatre figures se rattache aux entrées {% wiki(slug="lucifer") %}Lucifer{% end %} et {% wiki(slug="serpent") %}Serpent{% end %}
-- Les dynamiques politiques du Conseil se rattachent à l'entrée plus large {% wiki(slug="council-of-eternals") %}Conseil des Éternels{% end %}
+- Les dynamiques politiques du Conseil se rattachent à l'entrée plus large {% wiki(slug="council-of-the-eternals") %}Conseil des Éternels{% end %}
 - Le contexte de la position modérée de Yahvé se rattache à l'entrée plus large {% wiki(slug="yahweh") %}Yahvé{% end %}
 - Le contexte de la décision de destruction se rattache à l'entrée plus large {% wiki(slug="great-flood") %}Grand Déluge{% end %}
 - Le contexte de la découverte de la Chaîne cosmique se rattache à l'entrée plus large {% wiki(slug="cosmic-chain") %}Chaîne cosmique{% end %}
@@ -547,7 +547,7 @@ La distinction spécifique de Satan d'avec le Serpent (la faction de Lucifer col
 
 ### L'entrée Conseil des Éternels
 
-La position institutionnelle spécifique de Satan comme chef de l'opposition au Conseil se rattache substantiellement à l'entrée plus large {% wiki(slug="council-of-eternals") %}Conseil des Éternels{% end %}. Le traitement détaillé de la structure institutionnelle du Conseil vit dans cette entrée ; la contribution spécifique de l'entrée Satan consiste à consigner le rôle politico-factionnel spécifique de Satan au sein des dynamiques plus larges du Conseil.
+La position institutionnelle spécifique de Satan comme chef de l'opposition au Conseil se rattache substantiellement à l'entrée plus large {% wiki(slug="council-of-the-eternals") %}Conseil des Éternels{% end %}. Le traitement détaillé de la structure institutionnelle du Conseil vit dans cette entrée ; la contribution spécifique de l'entrée Satan consiste à consigner le rôle politico-factionnel spécifique de Satan au sein des dynamiques plus larges du Conseil.
 
 ### L'entrée Yahvé
 

@@ -624,7 +624,7 @@ La explicación académica dominante — que generalmente trata al raelismo a tr
 - [Yahvé](../yahweh/)
 - [Elohim](../elohim/)
 - [La Alianza](../the-alliance/)
-- [Consejo de los Eternos](../council-of-eternals/)
+- [Consejo de los Eternos](../council-of-the-eternals/)
 - [Embajada](../embassy/)
 - [Apocalipsis](../apocalypse/)
 - [Competencia Cósmica](../cosmic-competition/)

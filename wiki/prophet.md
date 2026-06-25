@@ -358,7 +358,7 @@ The corpus's reading is positioned within this landscape as follows: aligned wit
 - [The Bab](../the-bab/)
 - [Bahá'u'lláh](../bahaullah/)
 - [Raël](../rael/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Planet of the Eternals](../planet-of-the-eternals/)
 - [Apocalypse](../apocalypse/)
 - [Embassy](../embassy/)

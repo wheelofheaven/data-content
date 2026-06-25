@@ -624,7 +624,7 @@ Die etablierte wissenschaftliche Erklärung — die den Raëlismus im Allgemeine
 - [Jahwe](../yahweh/)
 - [Elohim](../elohim/)
 - [Die Allianz](../the-alliance/)
-- [Rat der Ewigen](../council-of-eternals/)
+- [Rat der Ewigen](../council-of-the-eternals/)
 - [Botschaft](../embassy/)
 - [Apokalypse](../apocalypse/)
 - [Kosmische Konkurrenz](../cosmic-competition/)

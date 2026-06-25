@@ -20,7 +20,7 @@ see_also = [
     { title = "联盟", path = "/wiki/the-alliance/", description = "由挪亚之约创立的政治安排。" },
     { title = "路西法", path = "/wiki/lucifer/", description = "其干预通过方舟行动保存了挪亚的派系。" },
     { title = "耶和华", path = "/wiki/yahweh/", description = "议会领袖,洪水后“永不再如此”的承诺以其投票为依据。" },
-    { title = "永恒议会", path = "/wiki/council-of-eternals/", description = "授权进行打击的母星政治机构。" },
+    { title = "永恒议会", path = "/wiki/council-of-the-eternals/", description = "授权进行打击的母星政治机构。" },
     { title = "洪水前期", path = "/wiki/antediluvian/", description = "被该次打击终结的洪水前文明阶段。" },
     { title = "盘古大陆", path = "/wiki/pangaea/", description = "因该次打击而分裂的超大陆。" },
     { title = "伊甸", path = "/wiki/eden/", description = "其世系被洪水前文明延续的初始联盟实验室。" },

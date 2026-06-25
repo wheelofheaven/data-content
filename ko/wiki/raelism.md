@@ -624,7 +624,7 @@ Wheel of Heaven 틀(코퍼스의 독특한 해석적 기여)은 라엘리즘(종
 - [야훼](../yahweh/)
 - [엘로힘](../elohim/)
 - [동맹](../the-alliance/)
-- [영원자들의 의회](../council-of-eternals/)
+- [영원자들의 의회](../council-of-the-eternals/)
 - [대사관](../embassy/)
 - [아포칼립스](../apocalypse/)
 - [우주적 경쟁](../cosmic-competition/)

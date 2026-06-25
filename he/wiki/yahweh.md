@@ -18,7 +18,7 @@ image_alt = "AI-generated editorial portrait of Yahweh as an elder Eloha with al
 image_caption = "Interpretive portrait for the Yahweh wiki entry and library speaker metadata."
 see_also = [
     { title = "אלוהים", path = "wiki/elohim", description = "כינוי הרבים שיהוה הוא חבר עיקרי בו." },
-    { title = "מועצת הנצחיים", path = "wiki/council-of-eternals", description = "הגוף השלטוני שיהוה עומד בראשו." },
+    { title = "מועצת הנצחיים", path = "wiki/council-of-the-eternals", description = "הגוף השלטוני שיהוה עומד בראשו." },
     { title = "ישו", path = "wiki/jesus", description = "הדמות המזוהה באופן מקובל כבנו של יהוה במסורת הנוצרית." },
     { title = "משה", path = "wiki/moses", description = "מגעו העיקרי של יהוה לאורך נרטיב יציאת מצרים." },
     { title = "אברהם", path = "wiki/abraham", description = "אבי האומה היסודי שדרכו ביסס יהוה את הברית." },
@@ -326,7 +326,7 @@ principal_source = "*מסר מהמתכננים* (וורילון/ראל, 1974–7
 - [שָׂטָן](../satan/)
 - [נחש](../serpent/)
 - [הברית](../the-alliance/)
-- [מועצת הנצחיים](../council-of-eternals/)
+- [מועצת הנצחיים](../council-of-the-eternals/)
 - [עץ החיים](../tree-of-life/)
 - [אדם וחווה](../adam-and-eve/)
 - [נח](../noah/)

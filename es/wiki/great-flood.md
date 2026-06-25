@@ -20,7 +20,7 @@ see_also = [
     { title = "La Alianza", path = "/wiki/the-alliance/", description = "El arreglo político fundado por el pacto noáquico." },
     { title = "Lucifer", path = "/wiki/lucifer/", description = "La facción cuya intervención preservó a Noé a través de la operación del arca." },
     { title = "Yahvé", path = "/wiki/yahweh/", description = "El líder del Consejo sobre cuyo voto post-diluviano descansa el compromiso del «nunca más»." },
-    { title = "Consejo de los Eternos", path = "/wiki/council-of-eternals/", description = "El cuerpo político del mundo de origen que autorizó el ataque." },
+    { title = "Consejo de los Eternos", path = "/wiki/council-of-the-eternals/", description = "El cuerpo político del mundo de origen que autorizó el ataque." },
     { title = "Antediluviano", path = "/wiki/antediluvian/", description = "El periodo civilizacional pre-diluviano al que el ataque puso fin." },
     { title = "Pangea", path = "/wiki/pangaea/", description = "El supercontinente cuya fragmentación produjo el ataque." },
     { title = "Edén", path = "/wiki/eden/", description = "El laboratorio originario de la alianza cuyo linaje extendió la civilización antediluviana." },

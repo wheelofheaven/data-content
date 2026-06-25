@@ -553,7 +553,7 @@ The Nazi appropriation (1920-1945) operates as one specific historically-aberran
 - [The Alliance](../the-alliance/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Tree of Life](../tree-of-life/)
 
 ## References

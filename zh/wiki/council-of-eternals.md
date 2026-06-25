@@ -1,5 +1,7 @@
 +++
 title = "永恒者议会"
+slug = "council-of-the-eternals"
+aliases = ["/zh/wiki/council-of-eternals/"]
 description = "永恒者议会在雷尔派文献中是厄罗欣的治理机构,由其文明最年长的科学家组成,以耶和华为主席。Wheel of Heaven 文集将其置于一切与地球有关事项的厄罗欣决策等级之顶端。"
 template = "wiki-page.html"
 toc = true

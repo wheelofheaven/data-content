@@ -1,5 +1,7 @@
 +++
 title = "永遠者会議"
+slug = "council-of-the-eternals"
+aliases = ["/ja/wiki/council-of-eternals/"]
 description = "永遠者会議は、ラエル文献における エロヒムの統治機関であり、彼らの文明の最古参の科学者たちで構成され、ヤハウェがその議長を務める。Wheel of Heaven はこれを、地球に関わる全ての事項についてのエロヒム意思決定階層の最高位に位置づける。"
 template = "wiki-page.html"
 toc = true

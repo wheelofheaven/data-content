@@ -624,7 +624,7 @@ principal_text = "*הספר שאומר את האמת* (1974); *חוצנים לק
 - [יהוה](../yahweh/)
 - [אלוהים](../elohim/)
 - [הברית](../the-alliance/)
-- [מועצת הנצחיים](../council-of-eternals/)
+- [מועצת הנצחיים](../council-of-the-eternals/)
 - [השגרירות](../embassy/)
 - [האפוקליפסה](../apocalypse/)
 - [התחרות הקוסמית](../cosmic-competition/)

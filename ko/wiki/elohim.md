@@ -18,7 +18,7 @@ image_alt = "AI-generated editorial group portrait of the Elohim as long-haired 
 image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
 see_also = [
     { title = "야훼", path = "wiki/yahweh", description = "주요 엘로힘 — 영원자들의 의회 의장." },
-    { title = "영원자들의 의회", path = "wiki/council-of-eternals", description = "인류 창조물의 운명을 결정하는 통치 기구." },
+    { title = "영원자들의 의회", path = "wiki/council-of-the-eternals", description = "인류 창조물의 운명을 결정하는 통치 기구." },
     { title = "신들의 복수성", path = "wiki/plurality-of-gods", description = "엘로힘을 위엄의 단수형이 아닌 복수형으로 다루어야 한다는 문헌학적 논증." },
     { title = "라엘리즘", path = "wiki/raelism", description = "엘로힘을 진보한 인간 문명으로 읽는 현대적 해석의 렌즈." },
     { title = "엘로힘의 모행성", path = "wiki/elohim-home-planet", description = "1975년 라엘의 방문 이후 그가 묘사한 기원의 행성." },

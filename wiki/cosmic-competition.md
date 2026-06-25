@@ -489,7 +489,7 @@ The corpus does not require rejecting all of the mainstream scholarly framework.
 - [Yahweh](../yahweh/)
 - [Elohim](../elohim/)
 - [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Satan](../satan/)
 - [Prophet](../prophet/)
 - [Raël](../rael/)

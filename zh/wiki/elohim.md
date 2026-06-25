@@ -18,7 +18,7 @@ image_alt = "AI-generated editorial group portrait of the Elohim as long-haired 
 image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
 see_also = [
     { title = "耶和华", path = "wiki/yahweh", description = "首要的耶洛因 — 永恒者议会的主席。" },
-    { title = "永恒者议会", path = "wiki/council-of-eternals", description = "决定人类受造命运的执政机构。" },
+    { title = "永恒者议会", path = "wiki/council-of-the-eternals", description = "决定人类受造命运的执政机构。" },
     { title = "诸神的复数性", path = "wiki/plurality-of-gods", description = "将“耶洛因”视为复数而非尊严单数的语文学论证。" },
     { title = "雷尔派", path = "wiki/raelism", description = "将耶洛因解读为先进人类文明的当代诠释视角。" },
     { title = "耶洛因母星", path = "wiki/elohim-home-planet", description = "雷尔在 1975 年访问后所描述的起源行星。" },

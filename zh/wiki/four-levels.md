@@ -741,7 +741,7 @@ The corpus does not require rejecting all of the mainstream explanatory framewor
 - [Raëlian Symbol of Infinity](../raelian-symbol-of-infinity/)
 - [Star of David](../star-of-david/)
 - [Swastika](../swastika/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Tree of Life](../tree-of-life/)
 - [Jean Sendy](../jean-sendy/)
 

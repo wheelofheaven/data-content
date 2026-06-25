@@ -20,7 +20,7 @@ see_also = [
     { title = "同盟", path = "/wiki/the-alliance/", description = "ノアの契約によって創設された政治的な取り決め。" },
     { title = "ルシファー", path = "/wiki/lucifer/", description = "方舟作戦を通じてノアの存続を確保した派閥。" },
     { title = "ヤハウェ", path = "/wiki/yahweh/", description = "「もう二度と行わない」という洪水後の誓約がその投票に基づいている評議会の指導者。" },
-    { title = "永遠者の評議会", path = "/wiki/council-of-eternals/", description = "攻撃を承認した母惑星の政治機関。" },
+    { title = "永遠者の評議会", path = "/wiki/council-of-the-eternals/", description = "攻撃を承認した母惑星の政治機関。" },
     { title = "洪水以前（アンテディルヴィアン）", path = "/wiki/antediluvian/", description = "攻撃によって終止符を打たれた洪水以前の文明期。" },
     { title = "パンゲア", path = "/wiki/pangaea/", description = "攻撃がその分裂を生じさせた超大陸。" },
     { title = "エデン", path = "/wiki/eden/", description = "洪水以前の文明がその系譜を引き継いだ、起源の同盟研究施設。" },

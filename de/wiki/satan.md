@@ -22,7 +22,7 @@ see_also = [
     { title = "Luzifer", path = "/wiki/lucifer/", description = "Der Anführer der erdgebundenen Schöpfer-Exilfraktion; der Eden-Aufklärungsagent; in der Vier-Figuren-Taxonomie des Korpus von Satan unterschieden." },
     { title = "Schlange", path = "/wiki/serpent/", description = "Die Luzifer-Fraktion kollektiv in der Eden-Aufklärungsrolle; von Satan unterschieden." },
     { title = "Jahwe", path = "/wiki/yahweh/", description = "Der Anführer der Ratsmehrheit, dessen nachsintflutliches Votum Satan annahm, während er seine grundsätzliche Opposition fortsetzte." },
-    { title = "Rat der Ewigen", path = "/wiki/council-of-eternals/", description = "Die politisch-institutionelle Struktur der Heimatwelt, innerhalb derer Satan die Oppositionsfraktion anführt." },
+    { title = "Rat der Ewigen", path = "/wiki/council-of-the-eternals/", description = "Die politisch-institutionelle Struktur der Heimatwelt, innerhalb derer Satan die Oppositionsfraktion anführt." },
     { title = "Elohim", path = "/wiki/elohim/", description = "Die weitere zivilisatorische Bezeichnung, innerhalb derer Satan als spezifische politisch-fraktionelle Figur operiert." },
     { title = "Die Allianz", path = "/wiki/the-alliance/", description = "Die Schöpfer-zivilisatorische Konstellation des Erdprogramms, gegen die Satans Fraktion konsequent Widerstand geleistet hat." },
     { title = "Eden", path = "/wiki/eden/", description = "Das ursprüngliche Allianz-Labor; die Vertreibung aus Eden ist die zentrale Episode, in der Satans Voraussagen sich zu bewahrheiten begannen." },
@@ -458,7 +458,7 @@ Satan operiert innerhalb des weiteren raëlianischen Quellenmaterial-Kontextes, 
 
 - Der Kontext des Heimatwelt-Prologs (der Laborzwischenfall und die ursprüngliche politische Schließung) ist mit der weiteren Behandlung des Heimatwelt-Prologs im Eintrag {% wiki(slug="dragons") %}Drachen{% end %} verbunden
 - Der Kontext der Vier-Figuren-Taxonomie ist mit den Einträgen {% wiki(slug="lucifer") %}Luzifer{% end %} und {% wiki(slug="serpent") %}Schlange{% end %} verbunden
-- Die politische Dynamik des Rates ist mit dem weiteren Eintrag {% wiki(slug="council-of-eternals") %}Rat der Ewigen{% end %} verbunden
+- Die politische Dynamik des Rates ist mit dem weiteren Eintrag {% wiki(slug="council-of-the-eternals") %}Rat der Ewigen{% end %} verbunden
 - Der Kontext der gemäßigten Position Jahwes ist mit dem weiteren Eintrag {% wiki(slug="yahweh") %}Jahwe{% end %} verbunden
 - Der Kontext der Vernichtungsentscheidung ist mit dem weiteren Eintrag {% wiki(slug="great-flood") %}Große Flut{% end %} verbunden
 - Der Kontext der Entdeckung der Kosmischen Kette ist mit dem weiteren Eintrag {% wiki(slug="cosmic-chain") %}Kosmische Kette{% end %} verbunden
@@ -547,7 +547,7 @@ Satans spezifische Unterscheidung von der Schlange (der Luzifer-Fraktion kollekt
 
 ### Der Eintrag zum Rat der Ewigen
 
-Satans spezifische institutionelle Position als Anführer der Ratsopposition verbindet sich substanziell mit dem weiteren Eintrag {% wiki(slug="council-of-eternals") %}Rat der Ewigen{% end %}. Die detaillierte Behandlung der institutionellen Struktur des Rates findet sich in jenem Eintrag; der spezifische Beitrag des Satan-Eintrags ist die Verzeichnung von Satans spezifischer fraktionell-politischer Rolle innerhalb der weiteren Dynamik des Rates.
+Satans spezifische institutionelle Position als Anführer der Ratsopposition verbindet sich substanziell mit dem weiteren Eintrag {% wiki(slug="council-of-the-eternals") %}Rat der Ewigen{% end %}. Die detaillierte Behandlung der institutionellen Struktur des Rates findet sich in jenem Eintrag; der spezifische Beitrag des Satan-Eintrags ist die Verzeichnung von Satans spezifischer fraktionell-politischer Rolle innerhalb der weiteren Dynamik des Rates.
 
 ### Der Jahwe-Eintrag
 

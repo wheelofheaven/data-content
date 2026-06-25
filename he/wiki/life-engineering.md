@@ -360,7 +360,7 @@ The framework's reading is consistent with the direction of Ball's argument. The
 - [Apocalypse](../apocalypse/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Embassy](../embassy/)
 - [Golden Age](../golden-age/)
 - [Jean Sendy](../jean-sendy/)

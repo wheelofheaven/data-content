@@ -15,7 +15,7 @@ timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
     { title = "知识之树", path = "wiki/tree-of-knowledge", description = "并行的伊甸之树 — 受限的科学知识档案,有别于长寿生物技术。" },
     { title = "大洪水前", path = "wiki/antediluvian", description = "本框架将其族长寿数(亚当 930 岁、玛土撒拉 969 岁)读作生命之树运作记录的那一时期。" },
-    { title = "永恒者议会", path = "wiki/council-of-eternals", description = "由该技术成熟的克隆—记忆转移形态所维系的永恒者群体。" },
+    { title = "永恒者议会", path = "wiki/council-of-the-eternals", description = "由该技术成熟的克隆—记忆转移形态所维系的永恒者群体。" },
     { title = "伊甸园", path = "wiki/eden", description = "生命之树作为受限基础设施所在的那处装置。" },
     { title = "路西法", path = "wiki/lucifer", description = "为族长领导层谈成后伊甸长寿授予的被流放派系。" },
     { title = "启示录", path = "wiki/apocalypse", description = "长寿技术预计向人类恢复的水瓶座时代背景。" },
@@ -494,7 +494,7 @@ principal_framework_source = "《讲述真相之书》(佛里翁/雷尔,1974)第
 
 ### 永恒者议会
 
-生命之树成熟的运作形态,是产生永恒者的克隆—记忆转移技术。对议会及永恒者人口的详细论述见[永恒者议会](../council-of-eternals/)条目;生命之树条目的具体贡献,是确立议会持续运作的技术基础。
+生命之树成熟的运作形态,是产生永恒者的克隆—记忆转移技术。对议会及永恒者人口的详细论述见[永恒者议会](../council-of-the-eternals/)条目;生命之树条目的具体贡献,是确立议会持续运作的技术基础。
 
 ### 水瓶座时代预计的恢复
 

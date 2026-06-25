@@ -18,7 +18,7 @@ image_alt = "AI-generated editorial group portrait of the Elohim as long-haired 
 image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
 see_also = [
     { title = "Яхве", path = "wiki/yahweh", description = "Главный из Элохим — президент Совета Вечных." },
-    { title = "Совет Вечных", path = "wiki/council-of-eternals", description = "Управляющий орган, определяющий судьбу человеческого творения." },
+    { title = "Совет Вечных", path = "wiki/council-of-the-eternals", description = "Управляющий орган, определяющий судьбу человеческого творения." },
     { title = "Множественность богов", path = "wiki/plurality-of-gods", description = "Филологические основания для трактовки Элохим как множественного числа, а не как «множественного величия»." },
     { title = "Раэлизм", path = "wiki/raelism", description = "Современная интерпретационная оптика, в которой Элохим читаются как развитая человеческая цивилизация." },
     { title = "Родная планета Элохим", path = "wiki/elohim-home-planet", description = "Планета происхождения, описанная Раэлем после его визита в 1975 году." },

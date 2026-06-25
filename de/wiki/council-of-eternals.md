@@ -1,5 +1,7 @@
 +++
 title = "Rat der Ewigen"
+slug = "council-of-the-eternals"
+aliases = ["/de/wiki/council-of-eternals/"]
 description = "Der Rat der Ewigen (französisch *Conseil des Éternels* in der Vorilhon-Quelle) ist im Wheel of Heaven-Rahmen die zentrale beratende und gesetzgebende Institution der elohimischen Heimatwelt — die Versammlung von etwa 700 \"Ewigen\" (Elohim-Bürgern, denen die Klon-und-Gedächtnistransfer-Unsterblichkeitstechnik erfolgreich angewendet wurde) sowie etwa 8.400 von der Erde aufgenommenen Menschen, die nach ihrem Tod auf der elohimischen Heimatwelt rekonstruiert wurden. Jahwe steht dem Rat als gewählter Präsident vor; sein Amt ist nicht erblich, sondern auf der Grundlage gewichteter Verdienstabwägungen über lange Zeiträume periodisch ratifiziert. Der Rat trifft die operativen Entscheidungen über das Erden-Projekt — die Phasenführung der Menschen-Synthese, das Sintflut-Ereignis, die periodische Aussendung von Propheten und Botschaftern, die schließliche post-Apokalypse-Annäherung — und steht im Korpus für das politische Modell der zukünftigen Menschheits-Demokratie, die die Wiederherstellung der Erde nach der Wassermann-Zeitalter-Apokalypse begleiten soll."
 template = "wiki-page.html"
 toc = true

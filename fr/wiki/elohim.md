@@ -17,7 +17,7 @@ image_alt = "AI-generated editorial group portrait of the Elohim as long-haired 
 image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
 see_also = [
     { title = "Yahvé", path = "wiki/yahweh", description = "L'Éloha principal — président du Conseil des Éternels." },
-    { title = "Conseil des Éternels", path = "wiki/council-of-eternals", description = "L'organe directeur qui statue sur le sort de la création humaine." },
+    { title = "Conseil des Éternels", path = "wiki/council-of-the-eternals", description = "L'organe directeur qui statue sur le sort de la création humaine." },
     { title = "Pluralité des dieux", path = "wiki/plurality-of-gods", description = "Le dossier philologique en faveur d'une lecture plurielle d'Élohim plutôt que d'un singulier de majesté." },
     { title = "Raélisme", path = "wiki/raelism", description = "La grille de lecture contemporaine qui interprète les Élohim comme une civilisation humaine avancée." },
     { title = "Planète d'origine des Élohim", path = "wiki/elohim-home-planet", description = "La planète d'origine décrite par Raël après sa visite de 1975." },

@@ -249,7 +249,7 @@ The corpus's reading: the three terms together identify the **Lucifer faction** 
 
 The dragons operate within the broader Raëlian source-material context, with substantial supporting material across multiple passages:
 
-- The home-world prologue connects to the broader [Council of the Eternals](../council-of-eternals/) framework
+- The home-world prologue connects to the broader [Council of the Eternals](../council-of-the-eternals/) framework
 - The factional dimension connects to the broader [Lucifer](../lucifer/), [Satan](../satan/), and broader political-factional content
 - The Virgo-age placement connects to the broader [Age of Virgo](../age-of-virgo/) entry when written
 - The Gemini-flood connection connects to the broader [Great Flood](../great-flood/) entry
@@ -404,7 +404,7 @@ The dragons' specific connection to the Lucifer faction (through the Isaiah 27:1
 
 ### The Council of the Eternals entry
 
-The home-world prologue's specific connection to the broader Council debates connects to the [Council of the Eternals](../council-of-eternals/) entry. The detailed treatment of the Council framework lives in that entry; the Dragons entry's specific contribution is registering the laboratory-incident-and-Earth-relocation context.
+The home-world prologue's specific connection to the broader Council debates connects to the [Council of the Eternals](../council-of-the-eternals/) entry. The detailed treatment of the Council framework lives in that entry; the Dragons entry's specific contribution is registering the laboratory-incident-and-Earth-relocation context.
 
 ### The Hebrew Bible entry
 
@@ -633,7 +633,7 @@ The Hebrew tradition preserves the principal source-textual anchor through the *
 - [Great Flood](../great-flood/)
 - [Lucifer](../lucifer/)
 - [Serpent](../serpent/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Elohim](../elohim/)
 - [Yahweh](../yahweh/)
 - [Antediluvian](../antediluvian/)

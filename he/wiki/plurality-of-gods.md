@@ -250,7 +250,7 @@ The Plurality of Gods framework operates within the broader Raëlian source-mate
 - The Elohim framework (treated in the [Elohim](../elohim/) entry) provides the substantial creator-civilization specific content
 - The Yahweh framework (treated in the [Yahweh](../yahweh/) entry) provides the substantial Council-president specific content
 - The Cosmic Chain framework (treated in the [Cosmic Chain](../cosmic-chain/) entry) provides the substantial dynamic humans-becoming-creators content
-- The Council of the Eternals framework (treated in the [Council of the Eternals](../council-of-eternals/) entry) provides the substantial institutional-structure content
+- The Council of the Eternals framework (treated in the [Council of the Eternals](../council-of-the-eternals/) entry) provides the substantial institutional-structure content
 - The Tetragrammaton framework (treated in the [Tetragrammaton](../tetragrammaton/) entry when written) provides the substantial Yahweh-specific name content
 - The various individual Eloha entries (Lucifer, Satan, etc.) provide the substantial individual-figure content registering the substantial multiplicity
 
@@ -364,7 +364,7 @@ The Plurality of Gods framework operates as the substantial static interpretive 
 
 ### The Council of the Eternals entry
 
-The Plurality of Gods framework operates as substantial interpretive context within which the substantial Council institutional-structure operates. The detailed treatment of the Council lives in the [Council of the Eternals](../council-of-eternals/) entry.
+The Plurality of Gods framework operates as substantial interpretive context within which the substantial Council institutional-structure operates. The detailed treatment of the Council lives in the [Council of the Eternals](../council-of-the-eternals/) entry.
 
 ### The Genesis entry
 
@@ -664,7 +664,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Elohim](../elohim/)
 - [Yahweh](../yahweh/)
 - [Cosmic Chain](../cosmic-chain/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Cosmic Competition](../cosmic-competition/)
 - [Doubled Signature](../doubled-signature/)
 - [Genesis](../genesis/)

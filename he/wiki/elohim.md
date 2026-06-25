@@ -18,7 +18,7 @@ image_alt = "AI-generated editorial group portrait of the Elohim as long-haired 
 image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
 see_also = [
     { title = "יהוה", path = "wiki/yahweh", description = "האלוהה הראשי — נשיא מועצת הנצחיים." },
-    { title = "מועצת הנצחיים", path = "wiki/council-of-eternals", description = "הגוף השלטוני המכריע בגורל הבריאה האנושית." },
+    { title = "מועצת הנצחיים", path = "wiki/council-of-the-eternals", description = "הגוף השלטוני המכריע בגורל הבריאה האנושית." },
     { title = "ריבוי האלים", path = "wiki/plurality-of-gods", description = "הטיעון הפילולוגי להתייחסות לאלוהים כרבים ולא כיחיד של רוממות." },
     { title = "ראליזם", path = "wiki/raelism", description = "העדשה הפרשנית בת זמננו הקוראת את האלוהים כציוויליזציה אנושית מתקדמת." },
     { title = "כוכב הלכת הביתי של האלוהים", path = "wiki/elohim-home-planet", description = "כוכב הלכת שמקורם בו, המתואר על ידי ראל לאחר ביקורו ב-1975." },

@@ -18,7 +18,7 @@ see_also = [
     { title = "Pangaea", path = "wiki/pangaea", description = "The supercontinent configuration of the antediluvian Earth." },
     { title = "Tree of Life", path = "wiki/tree-of-life", description = "The cell-transfer longevity technology granted to the Eden patriarchal leadership." },
     { title = "Lucifer", path = "wiki/lucifer", description = "The exiled-on-Earth dissident Israel-team faction whose continuing tutelage shapes the Eden lineage." },
-    { title = "Council of the Eternals", path = "wiki/council-of-eternals", description = "The home-world deliberative body whose decision produced the Flood." },
+    { title = "Council of the Eternals", path = "wiki/council-of-the-eternals", description = "The home-world deliberative body whose decision produced the Flood." },
 ]
 
 footnotes = [
@@ -210,7 +210,7 @@ The corpus's antediluvian supercontinent is *not* the conventional Pangaea of ma
 
 ### The post-Eden political settlement
 
-The antediluvian period begins, on the corpus's reading, immediately after the political settlement that closed the {% wiki(slug="eden") %}Eden{% end %} episode. The Lucifer faction — the dissident Israel-team scientists who had disclosed restricted knowledge to the first humans — was permanently exiled on Earth, while the remainder of the Israel team and the other six creator teams withdrew to the home world. The result was that the post-Eden world contained a continuing alliance presence (the exiled Lucifer faction) operating in continuous contact with the human population, while the broader alliance maintained surveillance from a distance through the home-world {% wiki(slug="council-of-eternals") %}Council{% end %} and the alliance vessel stationed near Earth.
+The antediluvian period begins, on the corpus's reading, immediately after the political settlement that closed the {% wiki(slug="eden") %}Eden{% end %} episode. The Lucifer faction — the dissident Israel-team scientists who had disclosed restricted knowledge to the first humans — was permanently exiled on Earth, while the remainder of the Israel team and the other six creator teams withdrew to the home world. The result was that the post-Eden world contained a continuing alliance presence (the exiled Lucifer faction) operating in continuous contact with the human population, while the broader alliance maintained surveillance from a distance through the home-world {% wiki(slug="council-of-the-eternals") %}Council{% end %} and the alliance vessel stationed near Earth.
 
 This political settlement structures the entire antediluvian period. The Eden lineage's distinctive trajectory — its rapid technological advancement, its long-lived patriarchal leadership, its eventual production of the *Nephilim* hybrid offspring, its civilizational achievements — is the result of the continuing Lucifer-faction tutelage that the political settlement made possible. The other six lineages, without continuing direct creator-teacher contact, developed more slowly and reached lower levels of technological capability across the same period.
 
@@ -292,7 +292,7 @@ The **exiled Lucifer faction** — the Elohim scientists who remained on Earth a
 
 The ***Nephilim*** are the hybrid offspring of the *benei ha-Elohim* unions, and the Watchers tradition of the Enochic literature elaborates their stories at substantial length. The biblical text gives the names of specific *Nephilim* in only limited cases (the Anakim, Rephaim, and Emim of later biblical references are sometimes treated as descendants of the antediluvian *Nephilim*; the Anakim of Numbers 13:33 are explicitly identified with the *Nephilim*).
 
-The **home-world Council** under Yahweh's presidency is the political body whose deliberations across the antediluvian period produced the Flood decision. Its composition and procedures are treated more fully in the {% wiki(slug="council-of-eternals") %}Council of the Eternals{% end %} entry.
+The **home-world Council** under Yahweh's presidency is the political body whose deliberations across the antediluvian period produced the Flood decision. Its composition and procedures are treated more fully in the {% wiki(slug="council-of-the-eternals") %}Council of the Eternals{% end %} entry.
 
 ## Surviving evidence and traces
 

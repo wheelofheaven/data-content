@@ -18,7 +18,7 @@ image_alt = "AI-generated editorial group portrait of the Elohim as long-haired 
 image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
 see_also = [
     { title = "Jahwe", path = "wiki/yahweh", description = "Der oberste Elohim — Präsident des Rates der Ewigen." },
-    { title = "Rat der Ewigen", path = "wiki/council-of-eternals", description = "Das leitende Gremium, das über das Schicksal der menschlichen Schöpfung entscheidet." },
+    { title = "Rat der Ewigen", path = "wiki/council-of-the-eternals", description = "Das leitende Gremium, das über das Schicksal der menschlichen Schöpfung entscheidet." },
     { title = "Pluralität der Götter", path = "wiki/plurality-of-gods", description = "Die philologische Argumentation, Elohim als Plural und nicht als pluralis majestatis zu behandeln." },
     { title = "Raëlismus", path = "wiki/raelism", description = "Die zeitgenössische Deutungsperspektive, die die Elohim als fortgeschrittene menschliche Zivilisation liest." },
     { title = "Heimatplanet der Elohim", path = "wiki/elohim-home-planet", description = "Der von Raël nach seinem Besuch 1975 beschriebene Herkunftsplanet." },

@@ -18,7 +18,7 @@ see_also = [
     { title = "Pangée", path = "wiki/pangaea", description = "La configuration en supercontinent de la Terre antédiluvienne." },
     { title = "Arbre de Vie", path = "wiki/tree-of-life", description = "La technologie de longévité par transfert cellulaire accordée aux dirigeants patriarcaux d'Éden." },
     { title = "Lucifer", path = "wiki/lucifer", description = "La faction dissidente de l'équipe Israël, exilée sur Terre, dont la tutelle continue façonne la lignée d'Éden." },
-    { title = "Conseil des Éternels", path = "wiki/council-of-eternals", description = "L'organe délibératif du monde d'origine dont la décision a produit le Déluge." },
+    { title = "Conseil des Éternels", path = "wiki/council-of-the-eternals", description = "L'organe délibératif du monde d'origine dont la décision a produit le Déluge." },
 ]
 
 footnotes = [
@@ -210,7 +210,7 @@ Le supercontinent antédiluvien du corpus *n'est pas* la Pangée conventionnelle
 
 ### Le règlement politique post-Éden
 
-La période antédiluvienne commence, selon la lecture du corpus, immédiatement après le règlement politique qui clôt l'épisode d'{% wiki(slug="eden") %}Éden{% end %}. La faction Lucifer — les scientifiques dissidents de l'équipe Israël qui avaient divulgué une connaissance restreinte aux premiers humains — fut exilée à perpétuité sur Terre, tandis que le reste de l'équipe Israël et les six autres équipes créatrices se retirèrent vers le monde d'origine. Le résultat fut que le monde post-Éden contenait une présence d'alliance continue (la faction Lucifer exilée) opérant en contact continu avec la population humaine, tandis que l'alliance plus large maintenait une surveillance à distance par l'intermédiaire du {% wiki(slug="council-of-eternals") %}Conseil{% end %} du monde d'origine et du vaisseau de l'alliance stationné près de la Terre.
+La période antédiluvienne commence, selon la lecture du corpus, immédiatement après le règlement politique qui clôt l'épisode d'{% wiki(slug="eden") %}Éden{% end %}. La faction Lucifer — les scientifiques dissidents de l'équipe Israël qui avaient divulgué une connaissance restreinte aux premiers humains — fut exilée à perpétuité sur Terre, tandis que le reste de l'équipe Israël et les six autres équipes créatrices se retirèrent vers le monde d'origine. Le résultat fut que le monde post-Éden contenait une présence d'alliance continue (la faction Lucifer exilée) opérant en contact continu avec la population humaine, tandis que l'alliance plus large maintenait une surveillance à distance par l'intermédiaire du {% wiki(slug="council-of-the-eternals") %}Conseil{% end %} du monde d'origine et du vaisseau de l'alliance stationné près de la Terre.
 
 Ce règlement politique structure l'ensemble de la période antédiluvienne. La trajectoire distinctive de la lignée d'Éden — son avancement technologique rapide, ses dirigeants patriarcaux de longue durée de vie, sa production finale d'une descendance hybride *Nephilim*, ses réussites civilisationnelles — résulte de la tutelle continue de la faction Lucifer rendue possible par le règlement politique. Les six autres lignées, sans contact direct continu avec leurs créateurs-enseignants, se sont développées plus lentement et ont atteint des niveaux de capacité technologique plus faibles sur la même période.
 
@@ -292,7 +292,7 @@ La **faction Lucifer exilée** — les scientifiques Élohim restés sur Terre a
 
 Les ***Nephilim*** sont la descendance hybride des unions *benei ha-Elohim*, et la tradition des Veilleurs de la littérature hénochique élabore leurs récits sur une longueur substantielle. Le texte biblique ne donne les noms de *Nephilim* spécifiques que dans des cas limités (les Anaqim, Refaïm et Émim des références bibliques ultérieures sont parfois traités comme descendants des *Nephilim* antédiluviens ; les Anaqim de Nombres 13:33 sont explicitement identifiés aux *Nephilim*).
 
-Le **Conseil du monde d'origine** sous la présidence de Yahvé est l'organe politique dont les délibérations au cours de la période antédiluvienne produisirent la décision du Déluge. Sa composition et ses procédures sont traitées plus complètement dans l'entrée {% wiki(slug="council-of-eternals") %}Conseil des Éternels{% end %}.
+Le **Conseil du monde d'origine** sous la présidence de Yahvé est l'organe politique dont les délibérations au cours de la période antédiluvienne produisirent la décision du Déluge. Sa composition et ses procédures sont traitées plus complètement dans l'entrée {% wiki(slug="council-of-the-eternals") %}Conseil des Éternels{% end %}.
 
 ## Traces et preuves survivantes
 

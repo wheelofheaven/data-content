@@ -15,7 +15,7 @@ timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
     { title = "知識之樹", path = "wiki/tree-of-knowledge", description = "並列的伊甸之樹 —— 受限的科學知識檔案,與長壽生物技術有別。" },
     { title = "大洪水之前", path = "wiki/antediluvian", description = "其族長壽命(亞當 930、瑪土撒拉 969)為框架讀為生命之樹作業紀錄的時期。" },
-    { title = "永恆者議會", path = "wiki/council-of-eternals", description = "由該技術成熟之複製—記憶轉移形態所維繫的永恆者群體。" },
+    { title = "永恆者議會", path = "wiki/council-of-the-eternals", description = "由該技術成熟之複製—記憶轉移形態所維繫的永恆者群體。" },
     { title = "伊甸", path = "wiki/eden", description = "生命之樹作為受限基礎設施所在的設施。" },
     { title = "路西法", path = "wiki/lucifer", description = "為族長領導階層談成洪水後長壽授予的流亡派系。" },
     { title = "啟示錄", path = "wiki/apocalypse", description = "長壽技術預計向人類復歸之水瓶座時代脈絡。" },
@@ -494,7 +494,7 @@ principal_framework_source = "*道出真相之書*(沃里勒翁/雷爾,1974),第
 
 ### 永恆者議會
 
-生命之樹之成熟作業形態即產生永恆者之複製—記憶轉移技術。對議會與永恆者人口之詳細處理見於[永恆者議會](../council-of-eternals/)條目;生命之樹條目之具體貢獻為確立議會持續運作之技術基礎。
+生命之樹之成熟作業形態即產生永恆者之複製—記憶轉移技術。對議會與永恆者人口之詳細處理見於[永恆者議會](../council-of-the-eternals/)條目;生命之樹條目之具體貢獻為確立議會持續運作之技術基礎。
 
 ### 水瓶座時代之預計復歸
 

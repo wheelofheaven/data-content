@@ -18,7 +18,7 @@ image_alt = "AI-generated editorial group portrait of the Elohim as long-haired 
 image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
 see_also = [
     { title = "ヤハウェ", path = "wiki/yahweh", description = "エロヒムの主要人物 ― 永遠の評議会の議長。" },
-    { title = "永遠の評議会", path = "wiki/council-of-eternals", description = "人類創造の運命を決定する統治機関。" },
+    { title = "永遠の評議会", path = "wiki/council-of-the-eternals", description = "人類創造の運命を決定する統治機関。" },
     { title = "神々の複数性", path = "wiki/plurality-of-gods", description = "エロヒムを尊厳の複数形ではなく真の複数形として扱う文献学的論拠。" },
     { title = "ラエリズム", path = "wiki/raelism", description = "エロヒムを先進的な人類文明として読み解く現代の解釈レンズ。" },
     { title = "エロヒムの母星", path = "wiki/elohim-home-planet", description = "1975年のラエル訪問後に記述された起源の惑星。" },

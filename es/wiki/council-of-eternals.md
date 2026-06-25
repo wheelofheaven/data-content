@@ -1,5 +1,7 @@
 +++
 title = "Consejo de los Eternos"
+slug = "council-of-the-eternals"
+aliases = ["/es/wiki/council-of-eternals/"]
 description = "El Consejo de los Eternos (francés *Conseil des Éternels* en la fuente de Vorilhon) es, en el marco Wheel of Heaven, la institución consultiva y legislativa central del mundo natal Elohim — la asamblea de unos 700 \"Eternos\" (ciudadanos Elohim a quienes se les ha aplicado con éxito la técnica de clonación y transferencia de memoria para la inmortalidad) junto con unos 8.400 humanos transferidos desde la Tierra y reconstruidos en el mundo natal Elohim tras su muerte. Yahvé preside el Consejo como presidente electo; su cargo no es hereditario sino ratificado periódicamente sobre la base de evaluaciones ponderadas de mérito a lo largo de largos períodos. El Consejo toma las decisiones operativas sobre el proyecto Tierra — la conducción por fases de la síntesis humana, el evento del Diluvio, el envío periódico de profetas y embajadores, la aproximación final post-Apocalipsis — y representa en el corpus el modelo político de la futura democracia humana que ha de acompañar la restauración de la Tierra tras el Apocalipsis de la era de Acuario."
 template = "wiki-page.html"
 toc = true

@@ -18,7 +18,7 @@ image_alt = "AI-generated editorial portrait of Yahweh as an elder Eloha with al
 image_caption = "Interpretive portrait for the Yahweh wiki entry and library speaker metadata."
 see_also = [
     { title = "Élohim", path = "wiki/elohim", description = "La désignation plurielle dont Yahvé est le membre principal." },
-    { title = "Conseil des Éternels", path = "wiki/council-of-eternals", description = "L'organe directeur que Yahvé préside." },
+    { title = "Conseil des Éternels", path = "wiki/council-of-the-eternals", description = "L'organe directeur que Yahvé préside." },
     { title = "Jésus", path = "wiki/jesus", description = "La figure conventionnellement identifiée comme le fils de Yahvé dans la tradition chrétienne." },
     { title = "Moïse", path = "wiki/moses", description = "Le principal contact de Yahvé pendant le récit de l'Exode." },
     { title = "Abraham", path = "wiki/abraham", description = "Le patriarche fondateur par lequel Yahvé a établi l'alliance." },
@@ -326,7 +326,7 @@ Les rapports entre Yahvé et d'autres figures divines du Proche-Orient ancien so
 - [Satan](../satan/)
 - [Serpent](../serpent/)
 - [L'Alliance](../the-alliance/)
-- [Conseil des Éternels](../council-of-eternals/)
+- [Conseil des Éternels](../council-of-the-eternals/)
 - [Arbre de Vie](../tree-of-life/)
 - [Adam et Ève](../adam-and-eve/)
 - [Noé](../noah/)

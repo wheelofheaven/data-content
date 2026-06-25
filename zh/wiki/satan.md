@@ -22,7 +22,7 @@ see_also = [
     { title = "路西法", path = "/wiki/lucifer/", description = "地球上被流放的创造者派系领袖;伊甸披露代理人;在文集的四人物分类中与撒但相区分。" },
     { title = "蛇", path = "/wiki/serpent/", description = "在伊甸披露角色中集体行动的路西法派系;与撒但相区分。" },
     { title = "耶和华", path = "/wiki/yahweh/", description = "议会多数派领袖,撒但接受其大洪水后投票结果,同时持续持有原则性反对立场。" },
-    { title = "永恒者议会", path = "/wiki/council-of-eternals/", description = "母星上的政治—制度结构,撒但在其中领导反对派系。" },
+    { title = "永恒者议会", path = "/wiki/council-of-the-eternals/", description = "母星上的政治—制度结构,撒但在其中领导反对派系。" },
     { title = "耶洛因", path = "/wiki/elohim/", description = "更广泛的文明性称谓,撒但作为其中一位具体的政治派系性人物在其内运作。" },
     { title = "同盟", path = "/wiki/the-alliance/", description = "地球计划的创造者文明性安排,撒但的派系一贯反对之。" },
     { title = "伊甸", path = "/wiki/eden/", description = "最初的同盟实验室;伊甸驱逐是撒但的预言开始得到印证的主要事件。" },
@@ -458,7 +458,7 @@ Wheel of Heaven 文集使用 **撒但** 作为主要称谓,同时登记该形象
 
 - 母星序幕语境(实验室事故与原初政治停摆)连接至更广的 {% wiki(slug="dragons") %}龙{% end %} 条目的母星序幕处理
 - 四人物分类语境连接至 {% wiki(slug="lucifer") %}路西法{% end %} 与 {% wiki(slug="serpent") %}蛇{% end %} 条目
-- 议会政治动态连接至更广的 {% wiki(slug="council-of-eternals") %}永恒者议会{% end %} 条目
+- 议会政治动态连接至更广的 {% wiki(slug="council-of-the-eternals") %}永恒者议会{% end %} 条目
 - 耶和华温和立场语境连接至更广的 {% wiki(slug="yahweh") %}耶和华{% end %} 条目
 - 毁灭决定语境连接至更广的 {% wiki(slug="great-flood") %}大洪水{% end %} 条目
 - 宇宙链发现语境连接至更广的 {% wiki(slug="cosmic-chain") %}宇宙链{% end %} 条目
@@ -547,7 +547,7 @@ Wheel of Heaven 文集使用 **撒但** 作为主要称谓,同时登记该形象
 
 ### 永恒者议会条目
 
-撒但作为议会反对派领袖的具体制度性立场,实质性地连接至更广的 {% wiki(slug="council-of-eternals") %}永恒者议会{% end %} 条目。对议会制度结构的详细处理位于该条目;撒但条目的具体贡献是登记撒但在更广议会动态中的具体派系—政治角色。
+撒但作为议会反对派领袖的具体制度性立场,实质性地连接至更广的 {% wiki(slug="council-of-the-eternals") %}永恒者议会{% end %} 条目。对议会制度结构的详细处理位于该条目;撒但条目的具体贡献是登记撒但在更广议会动态中的具体派系—政治角色。
 
 ### 耶和华条目
 

@@ -268,7 +268,7 @@ The Theomachy operates within the broader Raëlian source-material context, with
 - The flood event connects to the broader [Great Flood](../great-flood/) entry
 - The Babel intervention connects to the broader [Babel](../babel/) entry when written
 - The covenant establishment connects to the broader [The Alliance](../the-alliance/) entry
-- The open-military phase connects to the broader [Lucifer](../lucifer/) and [Council of the Eternals](../council-of-eternals/) entries
+- The open-military phase connects to the broader [Lucifer](../lucifer/) and [Council of the Eternals](../council-of-the-eternals/) entries
 - The pardon and resolution connect to the broader political-settlement framework
 
 ## The narrative arc
@@ -369,7 +369,7 @@ The Theomachy's specific post-flood Tower of Babel intervention is one of the pr
 
 ### The Council of the Eternals entry
 
-The Theomachy's specific factional dimension on the Council side connects substantially to the broader [Council of the Eternals](../council-of-eternals/) entry. The detailed treatment of the Council's institutional structure lives in that entry; the Theomachy entry's specific contribution is registering the conflict's specific role in the broader Council political dynamics.
+The Theomachy's specific factional dimension on the Council side connects substantially to the broader [Council of the Eternals](../council-of-the-eternals/) entry. The detailed treatment of the Council's institutional structure lives in that entry; the Theomachy entry's specific contribution is registering the conflict's specific role in the broader Council political dynamics.
 
 ### The Yahweh entry
 
@@ -608,7 +608,7 @@ The mythologies are not invention. They are testimony, distorted by long transmi
 - [Serpent](../serpent/)
 - [Yahweh](../yahweh/)
 - [Satan](../satan/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Antediluvian](../antediluvian/)
 - [Great Flood](../great-flood/)
 - [The Alliance](../the-alliance/)

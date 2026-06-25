@@ -22,7 +22,7 @@ see_also = [
     { title = "Lucifer", path = "/wiki/lucifer/", description = "El líder de la facción de creadores exiliados con base en la Tierra; el agente de la divulgación del Edén; distinguido de Satán en la taxonomía de cuatro figuras del corpus." },
     { title = "Serpiente", path = "/wiki/serpent/", description = "La facción de Lucifer colectivamente en el papel de divulgación del Edén; distinguida de Satán." },
     { title = "Yahvé", path = "/wiki/yahweh/", description = "El líder de la mayoría del Consejo cuyo voto posdiluviano Satán aceptó mientras continuaba su oposición de principios." },
-    { title = "Consejo de los Eternos", path = "/wiki/council-of-eternals/", description = "La estructura político-institucional del mundo natal dentro de la cual Satán lidera la facción de oposición." },
+    { title = "Consejo de los Eternos", path = "/wiki/council-of-the-eternals/", description = "La estructura político-institucional del mundo natal dentro de la cual Satán lidera la facción de oposición." },
     { title = "Elohim", path = "/wiki/elohim/", description = "La designación civilizacional más amplia dentro de la cual Satán opera como figura político-faccional específica." },
     { title = "La Alianza", path = "/wiki/the-alliance/", description = "El acuerdo creacional-civilizacional del programa terrestre contra el cual la facción de Satán se ha opuesto consistentemente." },
     { title = "Edén", path = "/wiki/eden/", description = "El laboratorio originario de la alianza; la expulsión del Edén es el episodio principal en el que las predicciones de Satán comenzaron a verificarse." },
@@ -458,7 +458,7 @@ Satán opera dentro del contexto más amplio del material fuente raeliano, con s
 
 - El contexto del prólogo del mundo natal (el incidente de laboratorio y el cierre político original) conecta con el tratamiento más amplio del prólogo del mundo natal en la entrada {% wiki(slug="dragons") %}Dragones{% end %}
 - El contexto de la taxonomía de cuatro figuras conecta con las entradas {% wiki(slug="lucifer") %}Lucifer{% end %} y {% wiki(slug="serpent") %}Serpiente{% end %}
-- Las dinámicas políticas del Consejo conectan con la entrada más amplia {% wiki(slug="council-of-eternals") %}Consejo de los Eternos{% end %}
+- Las dinámicas políticas del Consejo conectan con la entrada más amplia {% wiki(slug="council-of-the-eternals") %}Consejo de los Eternos{% end %}
 - El contexto de la posición moderada de Yahvé conecta con la entrada más amplia {% wiki(slug="yahweh") %}Yahvé{% end %}
 - El contexto de la decisión de destrucción conecta con la entrada más amplia {% wiki(slug="great-flood") %}Gran Diluvio{% end %}
 - El contexto del descubrimiento de la Cadena Cósmica conecta con la entrada más amplia {% wiki(slug="cosmic-chain") %}Cadena Cósmica{% end %}
@@ -547,7 +547,7 @@ La distinción específica de Satán respecto de la Serpiente (la facción de Lu
 
 ### La entrada del Consejo de los Eternos
 
-La posición institucional específica de Satán como líder de la oposición del Consejo conecta sustancialmente con la entrada más amplia {% wiki(slug="council-of-eternals") %}Consejo de los Eternos{% end %}. El tratamiento detallado de la estructura institucional del Consejo vive en esa entrada; la contribución específica de la entrada de Satán es registrar el papel político-faccional específico de Satán dentro de las dinámicas más amplias del Consejo.
+La posición institucional específica de Satán como líder de la oposición del Consejo conecta sustancialmente con la entrada más amplia {% wiki(slug="council-of-the-eternals") %}Consejo de los Eternos{% end %}. El tratamiento detallado de la estructura institucional del Consejo vive en esa entrada; la contribución específica de la entrada de Satán es registrar el papel político-faccional específico de Satán dentro de las dinámicas más amplias del Consejo.
 
 ### La entrada de Yahvé
 

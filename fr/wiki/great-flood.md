@@ -20,7 +20,7 @@ see_also = [
     { title = "L'Alliance", path = "/wiki/the-alliance/", description = "L'arrangement politique fondé par l'alliance noachique." },
     { title = "Lucifer", path = "/wiki/lucifer/", description = "La faction dont l'intervention préserva Noé par l'opération de l'arche." },
     { title = "Yahvé", path = "/wiki/yahweh/", description = "Le chef du Conseil dont le vote post-diluvien fonde l'engagement du « plus jamais »." },
-    { title = "Conseil des Éternels", path = "/wiki/council-of-eternals/", description = "L'organe politique de la planète mère qui autorisa la frappe." },
+    { title = "Conseil des Éternels", path = "/wiki/council-of-the-eternals/", description = "L'organe politique de la planète mère qui autorisa la frappe." },
     { title = "Antédiluvien", path = "/wiki/antediluvian/", description = "La période civilisationnelle pré-diluvienne à laquelle la frappe mit fin." },
     { title = "Pangée", path = "/wiki/pangaea/", description = "Le supercontinent dont la fragmentation fut produite par la frappe." },
     { title = "Éden", path = "/wiki/eden/", description = "Le laboratoire alliancier originaire dont la lignée fut prolongée par la civilisation antédiluvienne." },

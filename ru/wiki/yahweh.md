@@ -18,7 +18,7 @@ image_alt = "AI-generated editorial portrait of Yahweh as an elder Eloha with al
 image_caption = "Interpretive portrait for the Yahweh wiki entry and library speaker metadata."
 see_also = [
     { title = "Элохим", path = "wiki/elohim", description = "Множественное обозначение, главным членом которого является Яхве." },
-    { title = "Совет Вечных", path = "wiki/council-of-eternals", description = "Руководящий орган, который возглавляет Яхве." },
+    { title = "Совет Вечных", path = "wiki/council-of-the-eternals", description = "Руководящий орган, который возглавляет Яхве." },
     { title = "Иисус", path = "wiki/jesus", description = "Фигура, традиционно отождествляемая с сыном Яхве в христианской традиции." },
     { title = "Моисей", path = "wiki/moses", description = "Основной контакт Яхве в повествовании об Исходе." },
     { title = "Авраам", path = "wiki/abraham", description = "Патриарх-основатель, через которого Яхве установил завет." },
@@ -326,7 +326,7 @@ principal_source = "*Послание от Создателей* (Ворилон
 - [*ха-сатан*](../satan/)
 - [Змей](../serpent/)
 - [Альянс](../the-alliance/)
-- [Совет Вечных](../council-of-eternals/)
+- [Совет Вечных](../council-of-the-eternals/)
 - [Древо Жизни](../tree-of-life/)
 - [Адам и Ева](../adam-and-eve/)
 - [Ной](../noah/)

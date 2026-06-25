@@ -22,7 +22,7 @@ see_also = [
     { title = "Lucifer", path = "/wiki/lucifer/", description = "The Earth-based exiled-creator faction leader; the Eden disclosure agent; distinguished from Satan in the corpus's four-figure taxonomy." },
     { title = "Serpent", path = "/wiki/serpent/", description = "The Lucifer faction collectively in the Eden-disclosure role; distinguished from Satan." },
     { title = "Yahweh", path = "/wiki/yahweh/", description = "The Council majority leader whose post-flood vote Satan accepted while continuing principled opposition." },
-    { title = "Council of the Eternals", path = "/wiki/council-of-eternals/", description = "The home-world political-institutional structure within which Satan leads the opposition faction." },
+    { title = "Council of the Eternals", path = "/wiki/council-of-the-eternals/", description = "The home-world political-institutional structure within which Satan leads the opposition faction." },
     { title = "Elohim", path = "/wiki/elohim/", description = "The broader civilisational designation within which Satan operates as a specific political-factional figure." },
     { title = "The Alliance", path = "/wiki/the-alliance/", description = "The Earth-program creator-civilisational arrangement against which Satan's faction has consistently opposed." },
     { title = "Eden", path = "/wiki/eden/", description = "The originary alliance laboratory; the Eden expulsion is the principal episode in which Satan's predictions began to be borne out." },
@@ -458,7 +458,7 @@ Satan operates within the broader Raëlian source-material context, with substan
 
 - The home-world prologue context (the laboratory incident and the original political shutdown) connects to the broader {% wiki(slug="dragons") %}Dragons{% end %} entry's home-world prologue treatment
 - The four-figure taxonomy context connects to the {% wiki(slug="lucifer") %}Lucifer{% end %} and {% wiki(slug="serpent") %}Serpent{% end %} entries
-- The Council political dynamics connect to the broader {% wiki(slug="council-of-eternals") %}Council of the Eternals{% end %} entry
+- The Council political dynamics connect to the broader {% wiki(slug="council-of-the-eternals") %}Council of the Eternals{% end %} entry
 - The Yahweh moderate-position context connects to the broader {% wiki(slug="yahweh") %}Yahweh{% end %} entry
 - The destruction-decision context connects to the broader {% wiki(slug="great-flood") %}Great Flood{% end %} entry
 - The Cosmic Chain discovery context connects to the broader {% wiki(slug="cosmic-chain") %}Cosmic Chain{% end %} entry
@@ -547,7 +547,7 @@ Satan's specific distinction from the Serpent (the Lucifer faction collectively 
 
 ### The Council of the Eternals entry
 
-Satan's specific institutional position as Council opposition leader connects substantially to the broader {% wiki(slug="council-of-eternals") %}Council of the Eternals{% end %} entry. The detailed treatment of the Council's institutional structure lives in that entry; the Satan entry's specific contribution is registering Satan's specific factional-political role within the broader Council dynamics.
+Satan's specific institutional position as Council opposition leader connects substantially to the broader {% wiki(slug="council-of-the-eternals") %}Council of the Eternals{% end %} entry. The detailed treatment of the Council's institutional structure lives in that entry; the Satan entry's specific contribution is registering Satan's specific factional-political role within the broader Council dynamics.
 
 ### The Yahweh entry
 

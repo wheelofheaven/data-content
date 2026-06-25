@@ -422,7 +422,7 @@ The Babel framework operates substantively within the broader Yahweh narrative. 
 
 ### The Council of the Eternals entry
 
-The Babel framework's Council intervention component connects substantially to the broader Council of the Eternals framework. The detailed treatment lives in the [Council of the Eternals](../council-of-eternals/) entry; the Babel entry's specific contribution is registering the Council's specific operational decision regarding the Babel intervention.
+The Babel framework's Council intervention component connects substantially to the broader Council of the Eternals framework. The detailed treatment lives in the [Council of the Eternals](../council-of-the-eternals/) entry; the Babel entry's specific contribution is registering the Council's specific operational decision regarding the Babel intervention.
 
 ### The Hebrew Bible entry
 
@@ -670,7 +670,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [The Alliance](../the-alliance/)
 - [Lucifer](../lucifer/)
 - [Yahweh](../yahweh/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Antediluvian](../antediluvian/)
 - [Adam and Eve](../adam-and-eve/)
 - [Eden](../eden/)

@@ -376,7 +376,7 @@ Abraham operates as substantial witness-and-recovery figure within the Sodom nar
 
 ### The Council of the Eternals entry
 
-The Sodom intervention operates as substantial Council operational decision. The detailed treatment of the Council lives in the [Council of the Eternals](../council-of-eternals/) entry.
+The Sodom intervention operates as substantial Council operational decision. The detailed treatment of the Council lives in the [Council of the Eternals](../council-of-the-eternals/) entry.
 
 ### The Yahweh entry
 
@@ -632,7 +632,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Lucifer](../lucifer/)
 - [Yahweh](../yahweh/)
 - [Satan](../satan/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Antediluvian](../antediluvian/)
 - [Adam and Eve](../adam-and-eve/)
 - [Eden](../eden/)

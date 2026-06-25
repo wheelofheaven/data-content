@@ -667,7 +667,7 @@ The corpus does not require rejecting all of the mainstream scholarly framework.
 - [The Alliance](../the-alliance/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Tree of Life](../tree-of-life/)
 - [Raëlian Symbol of Infinity](../raelian-symbol/)
 - [Star of David](../star-of-david/)

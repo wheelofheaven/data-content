@@ -203,7 +203,7 @@ The Alliance has undergone substantial structural transformation across its hist
 The framework reads the Alliance's current composition (as of 2026) as including:
 
 **The Eloha senior partner**:
-- The Council of the Eternals — the home-world ruling body of approximately 700 members (treated more fully in the [Council of the Eternals](../council-of-eternals/) entry, when written)
+- The Council of the Eternals — the home-world ruling body of approximately 700 members (treated more fully in the [Council of the Eternals](../council-of-the-eternals/) entry, when written)
 - The broader population of the home world — approximately 7 billion individuals
 - The resurrected prophets currently living on the Planet of the Eternals
 - The specific operational personnel currently engaged in Earth operations
@@ -290,7 +290,7 @@ The relationship between the Alliance and the Council has been one of the most c
 
 The current relationship is one of cooperation rather than opposition, but the structural distinction remains. The Council is the home-world's ruling body; the Alliance is the cross-civilizational political body that includes the Council, the broader Elohim civilization, and the human partners. The Alliance is therefore broader than the Council and includes the Council as one of its constituent components.
 
-The Council of the Eternals is treated more fully in the [Council of the Eternals](../council-of-eternals/) entry; the Alliance entry's principal contribution is establishing the specific political-structural relationship between the Council and the Alliance.
+The Council of the Eternals is treated more fully in the [Council of the Eternals](../council-of-the-eternals/) entry; the Alliance entry's principal contribution is establishing the specific political-structural relationship between the Council and the Alliance.
 
 ### The Alliance vs. the Lucifer faction
 
@@ -439,7 +439,7 @@ The corpus's working position on the comparative-alliance question is that the g
 ## See also
 
 - [Elohim](../elohim/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Lucifer](../lucifer/)
 - [Yahweh](../yahweh/)
 - [Satan](../satan/)

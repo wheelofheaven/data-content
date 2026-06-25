@@ -15,7 +15,7 @@ timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
     { title = "Tree of Knowledge", path = "wiki/tree-of-knowledge", description = "The parallel Eden tree — the restricted scientific-knowledge archive, distinct from the longevity biotechnology." },
     { title = "Antediluvian", path = "wiki/antediluvian", description = "The period whose patriarchal lifespans (Adam 930, Methuselah 969) the framework reads as the Tree of Life's operational record." },
-    { title = "Council of the Eternals", path = "wiki/council-of-eternals", description = "The Eternal community sustained by the mature cloning-and-memory-transfer form of the technology." },
+    { title = "Council of the Eternals", path = "wiki/council-of-the-eternals", description = "The Eternal community sustained by the mature cloning-and-memory-transfer form of the technology." },
     { title = "Eden", path = "wiki/eden", description = "The installation where the Tree of Life was restricted infrastructure." },
     { title = "Lucifer", path = "wiki/lucifer", description = "The exiled faction that negotiated the post-Eden longevity grants for the patriarchal leadership." },
     { title = "Apocalypse", path = "wiki/apocalypse", description = "The Aquarian-age context for the projected restoration of the longevity technology to humanity." },
@@ -494,7 +494,7 @@ The Tree of Life's role in the Eden installation is treated more fully in the [E
 
 ### The Council of the Eternals
 
-The Tree of Life's mature operational form is the cloning-and-memory-transfer technology that produces the Eternals. The detailed treatment of the Council and the Eternal population lives in the [Council of the Eternals](../council-of-eternals/) entry; the Tree of Life entry's specific contribution is establishing the technological basis for the Council's continuing operation.
+The Tree of Life's mature operational form is the cloning-and-memory-transfer technology that produces the Eternals. The detailed treatment of the Council and the Eternal population lives in the [Council of the Eternals](../council-of-the-eternals/) entry; the Tree of Life entry's specific contribution is establishing the technological basis for the Council's continuing operation.
 
 ### The Aquarian-age projected restoration
 

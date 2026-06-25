@@ -1,5 +1,7 @@
 +++
 title = "영원자 의회"
+slug = "council-of-the-eternals"
+aliases = ["/ko/wiki/council-of-eternals/"]
 description = "영원자 의회는 라엘 코퍼스에서 엘로힘의 통치 기관으로, 그들 문명의 가장 오래된 과학자들로 구성되며 야훼가 그 의장을 맡는다. Wheel of Heaven은 지구와 관련된 모든 사안에 대한 엘로힘 결정 위계의 최상위에 이 의회를 위치시킨다."
 template = "wiki-page.html"
 toc = true

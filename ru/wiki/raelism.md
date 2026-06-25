@@ -624,7 +624,7 @@ principal_text = "*The Book Which Tells the Truth* (1974); *Extra-Terrestrials T
 - [Яхве](../yahweh/)
 - [Элохим](../elohim/)
 - [Альянс](../the-alliance/)
-- [Совет Вечных](../council-of-eternals/)
+- [Совет Вечных](../council-of-the-eternals/)
 - [Посольство](../embassy/)
 - [Апокалипсис](../apocalypse/)
 - [Космическая конкуренция](../cosmic-competition/)

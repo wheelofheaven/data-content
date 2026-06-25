@@ -647,7 +647,7 @@ The mainstream scholarly explanation has substantial value at the historical-dev
 - [Yahweh](../yahweh/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Tree of Life](../tree-of-life/)
 - [Embassy](../embassy/)
 - [Jean Sendy](../jean-sendy/)

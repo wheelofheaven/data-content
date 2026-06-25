@@ -624,7 +624,7 @@ The mainstream scholarly explanation — which generally treats Raëlism through
 - [Yahweh](../yahweh/)
 - [Elohim](../elohim/)
 - [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Embassy](../embassy/)
 - [Apocalypse](../apocalypse/)
 - [Cosmic Competition](../cosmic-competition/)

@@ -624,7 +624,7 @@ Claude Vorilhon 於 1946 年生於法國中部,並自一段全然世俗的職業
 - [耶和華](../yahweh/)
 - [耶洛因](../elohim/)
 - [聯盟](../the-alliance/)
-- [永恆者議會](../council-of-eternals/)
+- [永恆者議會](../council-of-the-eternals/)
 - [大使館](../embassy/)
 - [啟示](../apocalypse/)
 - [宇宙競爭](../cosmic-competition/)

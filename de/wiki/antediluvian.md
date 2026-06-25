@@ -18,7 +18,7 @@ see_also = [
     { title = "Pangaea", path = "wiki/pangaea", description = "Die Superkontinent-Konfiguration der vorsintflutlichen Erde." },
     { title = "Baum des Lebens", path = "wiki/tree-of-life", description = "Die Zelltransfer-Technologie zur Lebensverlängerung, die der patriarchalen Führung Edens gewährt wurde." },
     { title = "Luzifer", path = "wiki/lucifer", description = "Die auf der Erde verbannte dissidente Fraktion des Israel-Teams, deren fortgesetzte Anleitung die Eden-Linie prägt." },
-    { title = "Rat der Ewigen", path = "wiki/council-of-eternals", description = "Das beratende Gremium der Heimatwelt, dessen Entscheidung die Flut hervorbrachte." },
+    { title = "Rat der Ewigen", path = "wiki/council-of-the-eternals", description = "Das beratende Gremium der Heimatwelt, dessen Entscheidung die Flut hervorbrachte." },
 ]
 
 footnotes = [
@@ -210,7 +210,7 @@ Der vorsintflutliche Superkontinent des Korpus ist *nicht* die konventionelle Pa
 
 ### Die politische Ordnung nach Eden
 
-Die vorsintflutliche Periode beginnt auf der Lesart des Korpus unmittelbar nach der politischen Ordnung, die die {% wiki(slug="eden") %}Eden{% end %}-Episode abschloss. Die Luzifer-Fraktion — die dissidenten Israel-Team-Wissenschaftler, die den ersten Menschen verbotenes Wissen offenbart hatten — wurde dauerhaft auf der Erde verbannt, während der Rest des Israel-Teams und die übrigen sechs Schöpferteams sich auf die Heimatwelt zurückzogen. Das Ergebnis war, dass die Welt nach Eden eine fortgesetzte Allianzpräsenz enthielt (die verbannte Luzifer-Fraktion), die in fortwährendem Kontakt mit der menschlichen Bevölkerung operierte, während die breitere Allianz aus der Ferne durch den {% wiki(slug="council-of-eternals") %}Rat{% end %} der Heimatwelt und das in Erdnähe stationierte Allianzschiff Überwachung wahrte.
+Die vorsintflutliche Periode beginnt auf der Lesart des Korpus unmittelbar nach der politischen Ordnung, die die {% wiki(slug="eden") %}Eden{% end %}-Episode abschloss. Die Luzifer-Fraktion — die dissidenten Israel-Team-Wissenschaftler, die den ersten Menschen verbotenes Wissen offenbart hatten — wurde dauerhaft auf der Erde verbannt, während der Rest des Israel-Teams und die übrigen sechs Schöpferteams sich auf die Heimatwelt zurückzogen. Das Ergebnis war, dass die Welt nach Eden eine fortgesetzte Allianzpräsenz enthielt (die verbannte Luzifer-Fraktion), die in fortwährendem Kontakt mit der menschlichen Bevölkerung operierte, während die breitere Allianz aus der Ferne durch den {% wiki(slug="council-of-the-eternals") %}Rat{% end %} der Heimatwelt und das in Erdnähe stationierte Allianzschiff Überwachung wahrte.
 
 Diese politische Ordnung strukturiert die gesamte vorsintflutliche Periode. Der distinkte Verlauf der Eden-Linie — ihre schnelle technologische Entwicklung, ihre langlebige patriarchale Führung, ihre schließliche Hervorbringung der hybriden *Nephilim*-Nachkommen, ihre zivilisatorischen Leistungen — ist das Ergebnis der fortgesetzten Anleitung durch die Luzifer-Fraktion, die die politische Ordnung möglich machte. Die anderen sechs Linien entwickelten sich ohne fortgesetzten direkten Kontakt zu Schöpfer-Lehrern langsamer und erreichten in derselben Periode niedrigere Ebenen technologischer Leistungsfähigkeit.
 
@@ -292,7 +292,7 @@ Die **verbannte Luzifer-Fraktion** — die Elohim-Wissenschaftler, die nach der 
 
 Die ***Nephilim*** sind die hybriden Nachkommen der *benei ha-Elohim*-Verbindungen, und die Wächter-Tradition der henochischen Literatur arbeitet ihre Geschichten in erheblicher Länge aus. Der biblische Text gibt die Namen bestimmter *Nephilim* nur in begrenzten Fällen (die Anakiter, Refaiter und Emiter späterer biblischer Bezugnahmen werden bisweilen als Nachkommen der vorsintflutlichen *Nephilim* behandelt; die Anakiter in Numeri 13,33 werden ausdrücklich mit den *Nephilim* identifiziert).
 
-Der **Rat der Heimatwelt** unter Jahwes Vorsitz ist das politische Gremium, dessen Beratungen über die vorsintflutliche Periode hinweg die Flut-Entscheidung hervorbrachten. Seine Zusammensetzung und Verfahren werden im Eintrag zum {% wiki(slug="council-of-eternals") %}Rat der Ewigen{% end %} ausführlicher behandelt.
+Der **Rat der Heimatwelt** unter Jahwes Vorsitz ist das politische Gremium, dessen Beratungen über die vorsintflutliche Periode hinweg die Flut-Entscheidung hervorbrachten. Seine Zusammensetzung und Verfahren werden im Eintrag zum {% wiki(slug="council-of-the-eternals") %}Rat der Ewigen{% end %} ausführlicher behandelt.
 
 ## Überlieferte Belege und Spuren
 

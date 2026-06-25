@@ -684,7 +684,7 @@ The Living Earth framework's principal contribution within this broader comparat
 - [Raëlian Symbol of Infinity](../raelian-symbol-of-infinity/)
 - [Star of David](../star-of-david/)
 - [Swastika](../swastika/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Tree of Life](../tree-of-life/)
 - [Theomachy](../theomachy/)
 - [Jean Sendy](../jean-sendy/)

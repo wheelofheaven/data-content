@@ -1,5 +1,7 @@
 +++
 title = "Conseil des éternels"
+slug = "council-of-the-eternals"
+aliases = ["/fr/wiki/council-of-eternals/"]
 description = "Le Conseil des éternels est, dans le corpus raëlien, l'instance dirigeante des Elohim — composée des plus anciens scientifiques de leur civilisation, présidée par Yahvé. Le corpus Wheel of Heaven le situe au sommet de la hiérarchie décisionnelle élohimique pour tout ce qui concerne la Terre."
 template = "wiki-page.html"
 toc = true
