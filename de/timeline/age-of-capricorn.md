@@ -33,6 +33,11 @@ references = [
     { title = "Breakthrough Starshot", author = "Breakthrough Initiatives", date = "angekündigt 2016", medium = "website", url = "https://breakthroughinitiatives.org/initiative/3", description = "Forschungsprogramm zu interstellaren Sonden mit gerichteter Energie, auf das im Schlussabschnitt zur aufkommenden interstellaren Fähigkeit verwiesen wird." },
 ]
 
+[[extra.prev_age]]
+name = "Am Anfang"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 [[extra.next_age]]
 name = "Zeitalter des Schützen"
 symbol = "♐"

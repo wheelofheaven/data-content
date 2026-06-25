@@ -43,6 +43,11 @@ references = [
     { title = "햄릿의 맷돌: 인간 지식의 기원과 신화를 통한 전승에 관한 에세이", author = "조르조 데 산틸라나와 헤르타 폰 데헨트", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
 ]
 
+[[extra.next_age]]
+name = "태초에"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 +++
 
 

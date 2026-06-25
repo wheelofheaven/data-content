@@ -43,6 +43,11 @@ references = [
     { title = "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (哈姆雷特之磨:探究人類知識起源及其透過神話傳播的論文)", author = "喬治奧·德·桑蒂利亞納與赫塔·馮·德申德", date = "1969 年", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
 ]
 
+[[extra.next_age]]
+name = "起初"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 +++
 
 

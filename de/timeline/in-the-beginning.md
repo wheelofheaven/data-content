@@ -27,6 +27,11 @@ references = [
     { title = "Buch Hiob", author = "Anonym (Hebräische Bibel)", date = "ca. 6. Jh. v. u. Z.", medium = "religious-text", path = "/library/job/", description = "Die ausdrücklichste Darstellung der hebräischen Bibel von ha-satan als Mitglied des göttlichen Rates, dessen institutionelle Rolle darin besteht, gegen selbstsichere Pläne zu argumentieren." },
 ]
 
+[[extra.prev_age]]
+name = "Einleitung"
+symbol = "🚀"
+link = "/timeline/preamble/"
+
 [[extra.next_age]]
 name = "Zeitalter des Steinbocks"
 symbol = "♑"

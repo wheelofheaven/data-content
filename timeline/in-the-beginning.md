@@ -27,6 +27,11 @@ references = [
     { title = "Book of Job", author = "Anonymous (Hebrew Bible)", date = "c. 6th c. BCE", medium = "religious-text", path = "/library/job/", description = "The Hebrew Bible's most explicit depiction of ha-satan as a member of the divine council whose institutional role is to argue against confident plans." },
 ]
 
+[[extra.prev_age]]
+name = "Preamble"
+symbol = "🚀"
+link = "/timeline/preamble/"
+
 [[extra.next_age]]
 name = "Age of Capricorn"
 symbol = "♑"

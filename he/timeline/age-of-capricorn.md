@@ -33,6 +33,11 @@ references = [
     { title = "Breakthrough Starshot", author = "Breakthrough Initiatives", date = "announced 2016", medium = "website", url = "https://breakthroughinitiatives.org/initiative/3", description = "תוכנית מחקר של גשושית בין־כוכבית מונעת אנרגיה מכוונת, המוזכרת בסעיף הסיום על יכולת בין־כוכבית מתהווה." },
 ]
 
+[[extra.prev_age]]
+name = "בראשית"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 [[extra.next_age]]
 name = "עידן הקשת"
 symbol = "♐"

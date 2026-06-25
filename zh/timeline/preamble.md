@@ -43,6 +43,11 @@ references = [
     { title = "哈姆雷特的磨坊：探究人类知识的起源及其通过神话的传承", author = "乔治·德·桑提拉纳与赫尔塔·冯·德辰德", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
 ]
 
+[[extra.next_age]]
+name = "起初"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 +++
 
 

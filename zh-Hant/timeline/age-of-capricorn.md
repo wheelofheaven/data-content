@@ -33,6 +33,11 @@ references = [
     { title = "Breakthrough Starshot (突破星擊計畫)", author = "Breakthrough Initiatives", date = "2016 年宣布", medium = "website", url = "https://breakthroughinitiatives.org/initiative/3", description = "本章結尾關於新興星際能力一節所引用的定向能量星際探測器研究計畫。" },
 ]
 
+[[extra.prev_age]]
+name = "起初"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 [[extra.next_age]]
 name = "射手座時代"
 symbol = "♐"

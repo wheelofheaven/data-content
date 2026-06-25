@@ -33,6 +33,11 @@ references = [
     { title = "ブレークスルー・スターショット", author = "ブレークスルー・イニシアチブズ", date = "2016年発表", medium = "website", url = "https://breakthroughinitiatives.org/initiative/3", description = "新興の恒星間能力に関する閉幕節で言及される指向性エネルギー型恒星間探査機の研究計画。" },
 ]
 
+[[extra.prev_age]]
+name = "はじめに"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 [[extra.next_age]]
 name = "射手座の時代"
 symbol = "♐"

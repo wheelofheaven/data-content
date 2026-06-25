@@ -27,6 +27,11 @@ references = [
     { title = "욥기", author = "익명 (히브리어 성경)", date = "기원전 6세기경", medium = "religious-text", path = "/library/job/", description = "히브리어 성경에서 신성한 평의회의 일원으로서 ha-satan을 가장 명시적으로 묘사한 것으로, 그 제도적 역할은 확신에 찬 계획에 반대하여 논쟁하는 것입니다." },
 ]
 
+[[extra.prev_age]]
+name = "서문"
+symbol = "🚀"
+link = "/timeline/preamble/"
+
 [[extra.next_age]]
 name = "염소자리 시대"
 symbol = "♑"

@@ -34,6 +34,11 @@ references = [
     { title = "Breakthrough Starshot", author = "Breakthrough Initiatives", date = "announced 2016", medium = "website", url = "https://breakthroughinitiatives.org/initiative/3", description = "Directed-energy interstellar-probe research program referenced in the closing section on emerging interstellar capability." },
 ]
 
+[[extra.prev_age]]
+name = "In the Beginning"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 [[extra.next_age]]
 name = "Age of Sagittarius"
 symbol = "♐"

@@ -43,6 +43,11 @@ references = [
     { title = "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth", author = "ג׳ורג׳ו דה סנטילנה והרתה פון דכנד", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
 ]
 
+[[extra.next_age]]
+name = "בראשית"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 +++
 
 

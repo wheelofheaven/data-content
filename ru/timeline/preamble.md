@@ -43,6 +43,11 @@ references = [
     { title = "Мельница Гамлета: эссе об истоках человеческого знания и его передаче через миф", author = "Джорджо де Сантильяна и Герта фон Дехенд", date = "1969 г.", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
 ]
 
+[[extra.next_age]]
+name = "В начале"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 +++
 
 

@@ -27,6 +27,11 @@ references = [
     { title = "约伯记", author = "佚名（希伯来圣经）", date = "公元前6世纪左右", medium = "religious-text", path = "/library/job/", description = "希伯来圣经中最明确地将ha-satan描绘为神圣议会成员的篇章，其制度角色是对自信的计划提出反对论证。" },
 ]
 
+[[extra.prev_age]]
+name = "序言"
+symbol = "🚀"
+link = "/timeline/preamble/"
+
 [[extra.next_age]]
 name = "摩羯座时代"
 symbol = "♑"

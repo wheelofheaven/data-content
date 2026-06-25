@@ -43,6 +43,11 @@ references = [
     { title = "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth", author = "Giorgio de Santillana y Hertha von Dechend", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
 ]
 
+[[extra.next_age]]
+name = "En el Principio"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 +++
 
 

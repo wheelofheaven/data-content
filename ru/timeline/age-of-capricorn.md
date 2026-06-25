@@ -33,6 +33,11 @@ references = [
     { title = "Breakthrough Starshot", author = "Breakthrough Initiatives", date = "анонсировано в 2016 г.", medium = "website", url = "https://breakthroughinitiatives.org/initiative/3", description = "Исследовательская программа межзвёздного зонда с направленной энергией, упомянутая в заключительном разделе о возникающей межзвёздной способности." },
 ]
 
+[[extra.prev_age]]
+name = "В начале"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 [[extra.next_age]]
 name = "Эпоха Стрельца"
 symbol = "♐"

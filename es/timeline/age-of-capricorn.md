@@ -33,6 +33,11 @@ references = [
     { title = "Breakthrough Starshot", author = "Breakthrough Initiatives", date = "anunciado en 2016", medium = "website", url = "https://breakthroughinitiatives.org/initiative/3", description = "Programa de investigación de sondas interestelares de energía dirigida referenciado en la sección de cierre sobre la capacidad interestelar emergente." },
 ]
 
+[[extra.prev_age]]
+name = "En el Principio"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 [[extra.next_age]]
 name = "Era de Sagitario"
 symbol = "♐"

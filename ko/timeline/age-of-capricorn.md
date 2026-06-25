@@ -33,6 +33,11 @@ references = [
     { title = "브레이크스루 스타샷(Breakthrough Starshot)", author = "Breakthrough Initiatives", date = "2016년 발표", medium = "website", url = "https://breakthroughinitiatives.org/initiative/3", description = "신흥 성간 능력에 관한 닫는 절에서 언급되는 지향성 에너지 성간 탐사선 연구 프로그램." },
 ]
 
+[[extra.prev_age]]
+name = "태초에"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 [[extra.next_age]]
 name = "사수자리 시대"
 symbol = "♐"

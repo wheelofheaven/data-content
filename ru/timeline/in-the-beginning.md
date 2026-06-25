@@ -27,6 +27,11 @@ references = [
     { title = "Книга Иова", author = "Anonymous (Hebrew Bible)", date = "ок. VI в. до н. э.", medium = "religious-text", path = "/library/job/", description = "Наиболее прямое изображение ха-сатана в Еврейской Библии как члена божественного совета, чья институциональная роль — возражать против уверенных планов." },
 ]
 
+[[extra.prev_age]]
+name = "Преамбула"
+symbol = "🚀"
+link = "/timeline/preamble/"
+
 [[extra.next_age]]
 name = "Эпоха Козерога"
 symbol = "♑"

@@ -27,6 +27,11 @@ references = [
     { title = "ヨブ記", author = "作者不詳(ヘブライ語聖書)", date = "紀元前6世紀頃", medium = "religious-text", path = "/library/job/", description = "ヘブライ語聖書において、ハ・サタンが神々の評議会の一員として、確信に満ちた計画に異を唱える制度的役割を担う姿を最も明示的に描いた書。" },
 ]
 
+[[extra.prev_age]]
+name = "序章"
+symbol = "🚀"
+link = "/timeline/preamble/"
+
 [[extra.next_age]]
 name = "山羊座の時代"
 symbol = "♑"

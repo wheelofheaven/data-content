@@ -27,6 +27,11 @@ references = [
     { title = "約伯記", author = "佚名(希伯來聖經)", date = "約公元前6世紀", medium = "religious-text", path = "/library/job/", description = "希伯來聖經中對「ha-satan」作為神聖議會成員之最明確的描繪,其制度角色乃是針對自信的計畫提出反駁。" },
 ]
 
+[[extra.prev_age]]
+name = "序章"
+symbol = "🚀"
+link = "/timeline/preamble/"
+
 [[extra.next_age]]
 name = "摩羯座時代"
 symbol = "♑"

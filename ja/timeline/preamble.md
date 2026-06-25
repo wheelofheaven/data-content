@@ -43,6 +43,11 @@ references = [
     { title = "ハムレットの臼:人類の知識の起源と神話を通じたその伝承に関する試論", author = "ジョルジョ・デ・サンティラーナおよびヘルタ・フォン・デヒェント", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
 ]
 
+[[extra.next_age]]
+name = "はじめに"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 +++
 
 

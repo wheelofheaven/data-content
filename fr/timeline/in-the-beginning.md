@@ -27,6 +27,11 @@ references = [
     { title = "Livre de Job", author = "Anonyme (Bible hébraïque)", date = "vers le VIe s. av. J.-C.", medium = "religious-text", path = "/library/job/", description = "La représentation la plus explicite de la Bible hébraïque du ha-satan en tant que membre du conseil divin dont le rôle institutionnel est d'argumenter contre les plans confiants." },
 ]
 
+[[extra.prev_age]]
+name = "Préambule"
+symbol = "🚀"
+link = "/timeline/preamble/"
+
 [[extra.next_age]]
 name = "Ère du Capricorne"
 symbol = "♑"

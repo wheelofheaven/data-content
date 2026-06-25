@@ -33,6 +33,11 @@ references = [
     { title = "突破摄星计划（Breakthrough Starshot）", author = "突破倡议", date = "2016年发布", medium = "website", url = "https://breakthroughinitiatives.org/initiative/3", description = "在本章结尾论及新兴恒星际能力时所引用的定向能量恒星际探测研究计划。" },
 ]
 
+[[extra.prev_age]]
+name = "起初"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 [[extra.next_age]]
 name = "射手座时代"
 symbol = "♐"

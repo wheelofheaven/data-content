@@ -27,6 +27,11 @@ references = [
     { title = "ספר איוב", author = "אנונימי (תנ״ך)", date = "מאה 6 לפנה״ס בקירוב", medium = "religious-text", path = "/library/job/", description = "התיאור המפורש ביותר בתנ״ך של ha-satan כחבר במועצה האלוהית שתפקידו המוסדי לטעון נגד תוכניות בטוחות בעצמן." },
 ]
 
+[[extra.prev_age]]
+name = "פתח דבר"
+symbol = "🚀"
+link = "/timeline/preamble/"
+
 [[extra.next_age]]
 name = "עידן הגדי"
 symbol = "♑"

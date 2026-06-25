@@ -43,6 +43,12 @@ references = [
     { id = "mathematics-and-the-unexpected" },
     { id = "hamlets-mill" },
 ]
+
+[[extra.next_age]]
+name = "In the Beginning"
+symbol = "✦"
+link = "/timeline/in-the-beginning/"
+
 +++
 
 
