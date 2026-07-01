@@ -42,17 +42,13 @@ The Great Month's duration depends on the choice of precessional rate. The two p
 The contemporary astronomical measurement of the precessional rate is approximately **50.29 arcseconds per year** as measured in the contemporary epoch. This rate gives a full precessional cycle of approximately **25,771.5 years**:
 
 $$
-\begin{equation*}
 \frac{360° \times 3600 \text{ arcsec/°}}{50.29 \text{ arcsec/year}} = \frac{1,296,000}{50.29} \approx 25,771.5 \text{ years}
-\end{equation*}
 $$
 
 Dividing the modern precessional cycle by twelve gives the modern astronomical Great Month:
 
 $$
-\begin{equation*}
 \frac{25,771.5 \text{ years}}{12} = 2,147.625 \text{ years}
-\end{equation*}
 $$
 
 The modern astronomical Great Month is therefore approximately **2,147 years and 7.5 months**. This figure is the one used in contemporary scientific discussions of the precessional cycle and in the rigorous astronomical literature.
@@ -64,9 +60,7 @@ The precessional rate itself is not perfectly constant — it varies slowly acro
 The astrological-tradition reckoning uses the convenient figure of **25,920 years** for the Great Year, giving a Great Month of exactly **2,160 years**:
 
 $$
-\begin{equation*}
 \frac{25,920 \text{ years}}{12} = 2,160 \text{ years}
-\end{equation*}
 $$
 
 The number 25,920 has substantial mathematical convenience that accounts for its traditional prominence:
@@ -96,25 +90,19 @@ The traditional reckoning's mathematical convenience accounts for its prominence
 The Great Month admits further subdivision. If the Great Year is divided into 360 equal parts (corresponding to the 360 degrees of the ecliptic), each part is a **Great Day** of approximately 72 years on the traditional reckoning:
 
 $$
-\begin{equation*}
 \frac{25,920 \text{ years}}{360} = 72 \text{ years}
-\end{equation*}
 $$
 
 The Great Day corresponds to one degree of ecliptic precession. On the modern astronomical reckoning, the Great Day is approximately:
 
 $$
-\begin{equation*}
 \frac{25,771.5 \text{ years}}{360} \approx 71.59 \text{ years}
-\end{equation*}
 $$
 
 The corpus's adopted reckoning uses the round figure of 72 years for the Great Day. The Great Month accordingly contains 30 Great Days:
 
 $$
-\begin{equation*}
 \frac{2,160 \text{ years}}{72 \text{ years}} = 30 \text{ Great Days}
-\end{equation*}
 $$
 
 The system thus mirrors the structure of the ordinary year (12 months of approximately 30 days each), with the Great Year, Great Month, and Great Day standing in approximately the same proportional relationships as the ordinary year, month, and day.

@@ -59,9 +59,7 @@ Das **Große Jahr** ist die Periode eines vollständigen Zyklus der **Achspräze
 Nach der modernen astronomischen Messung beträgt das Große Jahr etwa **25.772 Jahre**, basierend auf der gegenwärtigen präzessionalen Rate von etwa 50,29 Bogensekunden pro Jahr. Nach der **astrologisch-traditionellen Rechnung** beträgt das Große Jahr genau **25.920 Jahre** — abgeleitet aus der antiken Beobachtung von etwa einem Grad westlicher Verschiebung der Äquinoktien pro 72 Jahre, multipliziert mit den 360 Grad der vollständigen Ekliptik:
 
 $$
-\begin{equation*}
 360° \cdot 72 \tfrac{\text{Jahre}}{°} = 25{,}920 \text{ Jahre}
-\end{equation*}
 $$
 
 Die traditionelle Zahl von 25.920 Jahren besitzt eine erhebliche mathematische Bequemlichkeit, die ihre Prominenz in der vormodernen kosmologischen Tradition erklärt: Sie faktorisiert als 2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72, mit Teilbarkeitseigenschaften, die eine saubere Unterteilung in Große Monate (je 2.160 Jahre, 12 pro Großem Jahr), Große Tage (je 72 Jahre, 360 pro Großem Jahr) und andere bedeutungsvolle Einheiten erlauben.{{ footnote(id="2") }} Der Unterschied zwischen der modernen astronomischen und der traditionellen Rechnung (etwa 148 Jahre über den vollständigen Zyklus) ist klein genug, dass der Korpus beide je nach Kontext austauschbar verwendet, wobei die traditionelle Zahl wegen ihrer mathematischen Bequemlichkeit bevorzugt und die moderne Zahl verwendet wird, wenn zeitgenössische astronomische Präzision erforderlich ist.
@@ -81,9 +79,7 @@ Das Große Jahr wird unter Bezug auf das astronomische Phänomen der Präzession
 Die grundlegende empirische Beobachtung, die der traditionellen Zahl von 25.920 Jahren für das Große Jahr zugrunde liegt, besagt, dass sich die Äquinoktien entlang der Ekliptik um etwa **ein Grad pro 72 Jahre** westwärts verschieben. Diese Rate liegt nahe am modernen astronomischen Wert von etwa 71,59 Jahren pro Grad (abgeleitet aus der gegenwärtigen präzessionalen Rate von 50,29 Bogensekunden pro Jahr: 3.600 Bogensekunden pro Grad ÷ 50,29 Bogensekunden pro Jahr ≈ 71,59 Jahre pro Grad). Die traditionelle Zahl von 72 Jahren pro Grad ergibt:
 
 $$
-\begin{equation*}
 360° \cdot 72 \tfrac{\text{Jahre}}{°} = 25{,}920 \text{ Jahre}
-\end{equation*}
 $$
 
 Die Einheit von 72 Jahren entspricht einem Grad präzessionaler Bewegung entlang der Ekliptik. Praktisch veranschaulicht: Ein Bogengrad an der Himmelssphäre entspricht etwa der Breite eines menschlichen Daumens bei ausgestrecktem Arm — ein nützliches Feldmaß, das die kosmische präzessionale Bewegung mit einer direkt beobachtbaren menschlichen Referenz verbindet. Die Periode von 72 Jahren entspricht zudem etwa der durchschnittlichen menschlichen Lebensspanne (ausführlicher behandelt im Eintrag [Großer Monat](../great-month/) zur Behandlung des Großen Tages) und erzeugt die substantielle strukturelle Korrespondenz: **ein menschliches Leben ≈ ein Grad Präzession ≈ ein Großer Tag**.

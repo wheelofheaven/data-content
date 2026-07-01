@@ -59,9 +59,7 @@ El **Gran Año** es el período de un ciclo completo de **precesión axial** —
 Según la medición astronómica moderna, el Gran Año tiene una duración de aproximadamente **25.772 años**, basada en la tasa precesional contemporánea de aproximadamente 50,29 segundos de arco por año. Según el **cómputo de la tradición astrológica**, el Gran Año es exactamente de **25.920 años** — derivado de la antigua observación de aproximadamente un grado de desplazamiento hacia el oeste de los equinoccios cada 72 años, multiplicado por los 360 grados de la eclíptica completa:
 
 $$
-\begin{equation*}
 360° \cdot 72 \tfrac{\text{años}}{°} = 25{,}920 \text{ años}
-\end{equation*}
 $$
 
 La cifra tradicional de 25.920 años tiene una sustancial comodidad matemática que da cuenta de su prominencia en la tradición cosmológica premoderna: se factoriza como 2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72, con propiedades de divisibilidad que permiten una subdivisión limpia en Grandes Meses (2.160 años cada uno, 12 por Gran Año), Grandes Días (72 años cada uno, 360 por Gran Año) y otras unidades significativas.{{ footnote(id="2") }} La diferencia entre el cómputo astronómico moderno y el tradicional (aproximadamente 148 años a lo largo del ciclo completo) es lo suficientemente pequeña como para que el corpus use ambos indistintamente según el contexto, con la cifra tradicional favorecida por su comodidad matemática y la cifra moderna empleada cuando se requiere precisión astronómica contemporánea.
@@ -81,9 +79,7 @@ El Gran Año se define por referencia al fenómeno astronómico de la precesión
 La observación empírica fundacional que subyace al Gran Año tradicional de 25.920 años es que los equinoccios se desplazan hacia el oeste a lo largo de la eclíptica a aproximadamente **un grado cada 72 años**. Esta tasa se aproxima al valor astronómico moderno de aproximadamente 71,59 años por grado (derivado de la tasa precesional contemporánea de 50,29 segundos de arco por año: 3.600 segundos de arco por grado ÷ 50,29 segundos de arco por año ≈ 71,59 años por grado). La cifra tradicional de 72 años por grado da:
 
 $$
-\begin{equation*}
 360° \cdot 72 \tfrac{\text{años}}{°} = 25{,}920 \text{ años}
-\end{equation*}
 $$
 
 La unidad de 72 años corresponde a un grado de movimiento precesional a través de la eclíptica. Para situar esto en perspectiva práctica, un grado de arco contra la esfera celeste es aproximadamente el ancho de un pulgar humano a la distancia del brazo extendido — una útil medida de campo que conecta el movimiento precesional a escala cósmica con una referencia humana directamente observable. El período de 72 años también corresponde aproximadamente a la vida humana estándar (desarrollado con mayor extensión en el tratamiento del Gran Día en la entrada de [Gran Mes](../great-month/)), produciendo la correspondencia estructural sustantiva: **una vida humana ≈ un grado de precesión ≈ un Gran Día**.

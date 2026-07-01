@@ -59,9 +59,7 @@ La **Grande Année** est la période d'un cycle complet de **précession axiale*
 Selon la mesure astronomique moderne, la Grande Année est d'environ **25 772 ans**, sur la base du taux précessionnel contemporain d'environ 50,29 secondes d'arc par an. Selon le **calcul de la tradition astrologique**, la Grande Année est exactement de **25 920 ans** — dérivé de l'observation antique d'environ un degré de déplacement occidental des équinoxes par 72 ans, multiplié par les 360 degrés de l'écliptique complète :
 
 $$
-\begin{equation*}
 360° \cdot 72 \tfrac{\text{ans}}{°} = 25{,}920 \text{ ans}
-\end{equation*}
 $$
 
 Le chiffre traditionnel de 25 920 ans présente une commodité mathématique substantielle qui explique sa prééminence dans la tradition cosmologique prémoderne : il se factorise comme 2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72, avec des propriétés de divisibilité qui permettent une subdivision propre en Grands Mois (2 160 ans chacun, 12 par Grande Année), Grands Jours (72 ans chacun, 360 par Grande Année) et autres unités significatives.{{ footnote(id="2") }} L'écart entre la mesure astronomique moderne et les calculs traditionnels (environ 148 ans sur l'ensemble du cycle) est suffisamment réduit pour que le corpus utilise les deux indifféremment selon le contexte, le chiffre traditionnel étant privilégié pour sa commodité mathématique et le chiffre moderne employé lorsque la précision astronomique contemporaine est requise.
@@ -81,9 +79,7 @@ La Grande Année se définit par référence au phénomène astronomique de la p
 L'observation empirique fondamentale qui sous-tend la Grande Année traditionnelle de 25 920 ans est que les équinoxes se déplacent vers l'ouest le long de l'écliptique à environ **un degré tous les 72 ans**. Ce taux est proche de la valeur astronomique moderne d'environ 71,59 ans par degré (dérivée du taux précessionnel contemporain de 50,29 secondes d'arc par an : 3 600 secondes d'arc par degré ÷ 50,29 secondes d'arc par an ≈ 71,59 ans par degré). Le chiffre traditionnel de 72 ans par degré donne :
 
 $$
-\begin{equation*}
 360° \cdot 72 \tfrac{\text{ans}}{°} = 25{,}920 \text{ ans}
-\end{equation*}
 $$
 
 L'unité de 72 ans correspond à un degré de mouvement précessionnel à travers l'écliptique. Pour mettre cela en perspective pratique, un degré d'arc contre la sphère céleste est approximativement la largeur d'un pouce humain tenu à bout de bras — une mesure de terrain utile qui relie le mouvement précessionnel à l'échelle cosmique à une référence à l'échelle humaine directement observable. La période de 72 ans correspond également approximativement à la durée de vie humaine standard (développée plus longuement dans le traitement du Grand Jour par l'entrée [Grand Mois](../great-month/)), produisant la correspondance structurelle substantielle suivante : **une vie humaine ≈ un degré de précession ≈ un Grand Jour**.

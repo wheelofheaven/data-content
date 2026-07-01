@@ -59,9 +59,7 @@ The **Great Year** is the period of one complete cycle of **axial precession** �
 On the modern astronomical measurement, the Great Year is approximately **25,772 years** in duration, based on the contemporary precessional rate of approximately 50.29 arcseconds per year. On the **astrological-tradition reckoning**, the Great Year is exactly **25,920 years** — derived from the ancient observation of approximately one degree of westward shift of the equinoxes per 72 years, multiplied by the 360 degrees of the full ecliptic:
 
 $$
-\begin{equation*}
 360° \cdot 72 \tfrac{\text{years}}{°} = 25{,}920 \text{ years}
-\end{equation*}
 $$
 
 The traditional 25,920-year figure has substantial mathematical convenience that accounts for its prominence in pre-modern cosmological tradition: it factors as 2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72, with divisibility properties that allow clean subdivision into {% wiki(slug="great-month") %}Great Months{% end %} (2,160 years each, 12 per Great Year), Great Days (72 years each, 360 per Great Year), and other meaningful units.{{ footnote(id="2") }} The difference between the modern astronomical and traditional reckonings (approximately 148 years across the full cycle) is small enough that the corpus uses both interchangeably depending on context, with the traditional figure favoured for its mathematical convenience and the modern figure used when contemporary astronomical precision is required.
@@ -81,9 +79,7 @@ The Great Year is defined by reference to the astronomical phenomenon of precess
 The foundational empirical observation underlying the traditional 25,920-year Great Year is that the equinoxes shift westward along the ecliptic at approximately **one degree per 72 years**. This rate is close to the modern astronomical value of approximately 71.59 years per degree (derived from the contemporary precessional rate of 50.29 arcseconds per year: 3,600 arcseconds per degree ÷ 50.29 arcseconds per year ≈ 71.59 years per degree). The traditional figure of 72 years per degree gives:
 
 $$
-\begin{equation*}
 360° \cdot 72 \tfrac{\text{years}}{°} = 25{,}920 \text{ years}
-\end{equation*}
 $$
 
 The 72-year unit corresponds to one degree of precessional motion across the ecliptic. To put this in practical perspective, one degree of arc against the celestial sphere is approximately the width of a human thumb at arm's length — a useful field measurement that connects the cosmic-scale precessional motion to a directly observable human-scale reference. The 72-year period also corresponds approximately to the standard human lifespan (developed at greater length in the [Great Month](../great-month/) entry's treatment of the Great Day), producing the substantive structural correspondence: **one human lifetime ≈ one degree of precession ≈ one Great Day**.
