@@ -223,6 +223,12 @@ The Muhammad entry connects to several specific aspects of the broader corpus's 
 
 **The Council of the Eternals account.** The Vorilhon 1975 meeting with the assembled prior prophets, including Muhammad, is one of the principal source-material accounts of the continuing operational presence of the prior prophetic figures. The Council of the Eternals account is referenced across multiple corpus entries; the dedicated [Council of the Eternals](../council-of-the-eternals/) entry develops the operational reading in detail.
 
+## 佩特拉假说(一种介入式的修正主义)
+
+一项修正主义的考古假说——主要与加拿大研究者**丹·吉布森**相关联——主张早期伊斯兰最初的圣城并非希贾兹的**麦加**,而是**佩特拉**,即位于约旦南部、已被废弃的纳巴泰都城,并主张圣所、朝觐与黑石直到公元七世纪末与八世纪初才被南迁。该论证建立在数条线索彼此印证之上——最早期清真寺在伊斯兰头一个世纪左右朝向佩特拉的朝向(*qibla*);托勒密《地理学》中麦加的缺席;艾兹拉基所记录的克尔白四边不规则的尺寸;以及古兰经阿拉伯语及其文字本身源自纳巴泰阿拉米语。它与[哈尼夫信仰](../hanafiyya/)——即最早的文献称为这一新信仰之自我理解的“亚伯拉罕的宗教”——相连,方式是把该宗教中亚伯拉罕与以实玛利的祭坛定位于佩特拉的中心。
+
+框架对这一假说的立场是**介入,而非采纳**;本条目上文那套主流与框架并陈的叙述被有意保留、与之并置,而非予以改写。其中的传记材料——穆罕默德生于麦加、麦加附近的希拉山洞、麦加—耶路撒冷的夜行——反映的是伊斯兰传统自身的叙事以及框架对它既有的解读。吉布森的假说属于备受争议的修正主义:它遭到伊斯兰天文学史家大卫·A·金的否定(他把早期的朝向读作朝向克尔白的民间天文学“神圣朝向”对齐,而非瞄准佩特拉),它处于主流伊斯兰研究共识之外,也不属于雷尔运动的正典。本文集之所以探讨它,是因为*倘若*它成立,便为框架已在伊斯兰起源中读出的哈尼夫复原提供了一处具体的地理——从而强化、而非取代把早期伊斯兰读作双鱼座时代一场亚伯拉罕复原运动的解读。完整的论述,连同朝向、语言学以及反驳性的材料,在[佩特拉](../petra/)与[纳巴泰人](../nabataeans/)条目,以及题为《[最早的清真寺朝向佩特拉,而非麦加](/articles/the-first-mosques-faced-petra-not-mecca/)》的专文中展开。
+
 ## Open questions
 
 The Muhammad entry surfaces several open questions for the framework's broader interpretive work.
@@ -249,6 +255,9 @@ The Muhammad entry surfaces several open questions for the framework's broader i
 - [Ali ibn Abi Talib](../ali-ibn-abi-talib/)
 - [The Qur'an](../quran/)
 - [Mecca](../mecca/)
+- [佩特拉](../petra/)
+- [纳巴泰人](../nabataeans/)
+- [哈尼夫信仰](../hanafiyya/)
 - [Medina](../medina/)
 - [Jerusalem](../jerusalem/) / [al-Quds](../al-quds/)
 - [Cave of Hira](../cave-of-hira/)

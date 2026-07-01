@@ -607,6 +607,14 @@ The framework reading: substantive substantial cross-cultural founding-patriarch
 
 The framework's distinctive contribution within this broader comparative landscape is the alliance-articulation reading and the systematic integration with the broader corpus narrative architecture (Abraham operating as substantive substantial principal post-Sodom Council-recruited verification figure within substantive substantial broader Taurus-Aries transitional content, with substantive substantial structural parallel to substantive substantial subsequent alliance-cultivation engagements across substantive substantial subsequent ages).
 
+### Hanafiyya —— 伊斯蘭教作為亞伯拉罕式的復原
+
+文集將亞伯拉罕讀作一位招募與復原的形象,這一解讀在伊斯蘭教的起源中獲得了異常明確的印證。最早的伊斯蘭教文獻並未將這個新宗教呈現為一種創新,而是呈現為對 *millat Ibrāhīm*(亞伯拉罕之宗教)的復原,即 [Hanafiyya](../hanafiyya/)(阿拉伯語 *al-Ḥanīfiyyah*,「正直的原初一神信仰」)。《古蘭經》主張亞伯拉罕比那些為他爭執不休的傳統更為古老 —— *「亞伯拉罕既不是猶太教徒,也不是基督教徒,而是一位正直者(ḥanīf)」*(《古蘭經》3:67)—— 並直接命令人們遵循他的宗教(《古蘭經》16:123;2:135)。伊本·易斯哈格(Ibn Isḥāq)的傳記保存了一則傳統,講述四位前伊斯蘭時期的古萊什探尋者,他們判定自己的族人已敗壞了他們父親亞伯拉罕的宗教,於是「各自走遍諸方之地,尋找 Hanifiyya,即亞伯拉罕之宗教」。
+
+按照本框架的解讀,亞伯拉罕所轉向的「一神信仰」並非後世神學中那位抽象的單一神 —— [耶洛因](../elohim/)乃是[多元](../plurality-of-gods/)的、具形體的造物者 —— 而是對那些造物者之準確知識的復原,以對抗偶像崇拜。雷爾派源典將這一確切的失落置於亞伯拉罕自身的時代:在所多瑪毀滅之後,人們「愚昧地開始崇拜石塊與偶像,忘卻了究竟是誰創造了他們」([《道出真相之書》](../../library/the-book-which-tells-the-truth/))。亞伯拉罕之宗教,正是從那些死寂的形象回轉,朝向人類已然遺忘的造物者;參見 [Hanafiyya](../hanafiyya/)。
+
+這一復原尤其是透過**以實瑪利**一系而延續 —— 透過夏甲(《創世記》16、21),那位埃及使女,聯盟在契約血統之外同樣保護並投注於她的兒子。朝聖儀式被敘述為對亞伯拉罕與夏甲當年在那座據稱由亞伯拉罕與以實瑪利共同築起的祭壇旁所行之事的重演:繞行祭壇,以及在諸水源之間奔走,以紀念夏甲尋水之舉。對文集而言,這是亞伯拉罕式復原模式的自我明言 —— 以實瑪利一支孕育出屬於自己的復原傳統,正是文集橫貫諸時代所追蹤之循環的又一次輪轉。一項修正主義假說(與丹·吉布森 Dan Gibson 相關)將這座祭壇與聖城定位於納巴泰人的都城 [佩特拉](../petra/),而非漢志的麥加;該地理主張在 [佩特拉](../petra/) 與 [納巴泰人](../nabataeans/) 條目中被視為 `speculative`,而神學主張 —— 伊斯蘭教對自身作為亞伯拉罕之復原宗教的理解 —— 則直接立基於《古蘭經》與伊本·易斯哈格。參見專文「[最早的清真寺朝向佩特拉,而非麥加](/articles/the-first-mosques-faced-petra-not-mecca/)」。
+
 ## See also
 
 - [Wheel of Heaven](../wheel-of-heaven/)
@@ -634,6 +642,10 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Genesis](../genesis/)
 - [Religion](../religion/)
 - [Abrahamic Covenant](../abrahamic-covenant/)
+- [Hanafiyya](../hanafiyya/)
+- [穆罕默德](../muhammad/)
+- [佩特拉](../petra/)
+- [納巴泰人](../nabataeans/)
 - [Isaac](../isaac/)
 - [Jacob](../jacob/)
 - [Joseph](../joseph/)

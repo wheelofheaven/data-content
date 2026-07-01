@@ -607,6 +607,14 @@ The framework reading: substantive substantial cross-cultural founding-patriarch
 
 The framework's distinctive contribution within this broader comparative landscape is the alliance-articulation reading and the systematic integration with the broader corpus narrative architecture (Abraham operating as substantive substantial principal post-Sodom Council-recruited verification figure within substantive substantial broader Taurus-Aries transitional content, with substantive substantial structural parallel to substantive substantial subsequent alliance-cultivation engagements across substantive substantial subsequent ages).
 
+### La Hanafiyya — el islam como restauración abrahámica
+
+La lectura del corpus de Abraham como figura de reclutamiento y recuperación encuentra una confirmación inusualmente explícita en los orígenes del islam. Las fuentes islámicas más antiguas no presentan la nueva religión como una innovación, sino como la recuperación de la *millat Ibrāhīm*, la religión de Abraham — la [Hanafiyya](../hanafiyya/) (árabe *al-Ḥanīfiyyah*, «el monoteísmo primordial recto»). El Corán reivindica a Abraham como anterior a las tradiciones que disputan sobre él — *«Abraham no fue ni judío ni cristiano, sino que fue un recto (ḥanīf)»* (Corán 3:67) — y ordena seguir su religión directamente (Corán 16:123; 2:135). La biografía de Ibn Isḥāq conserva una tradición de cuatro buscadores qurašíes preislámicos que, juzgando que su pueblo había corrompido la religión de su padre Abraham, «partieron cada uno por su camino por las tierras, en busca de la Hanafiyya, la religión de Abraham».
+
+Según la lectura del marco, el «monoteísmo» hacia el que se vuelve Abraham no es el Dios único abstracto de la teología posterior — los [Elohim](../elohim/) son una [pluralidad](../plurality-of-gods/) de creadores corpóreos — sino la recuperación del conocimiento exacto de esos creadores frente a la idolatría. El canon raeliano sitúa este mismo fracaso en la propia época de Abraham: tras la destrucción de Sodoma los hombres «comenzaron neciamente a adorar trozos de piedra e ídolos, olvidando quién los había creado» ([*El Libro que Dice la Verdad*](../../library/the-book-which-tells-the-truth/)). La religión de Abraham es el retorno desde esas imágenes muertas hacia los hacedores que la humanidad había olvidado; véase [Hanafiyya](../hanafiyya/).
+
+Esta restauración discurrió específicamente a través de la línea de **Ismael** — a través de Agar (Génesis 16, 21), la sierva egipcia cuyo hijo la alianza protege y en el que invierte junto a la línea del pacto. Los ritos de la peregrinación se narran como recreaciones de lo que Abraham y Agar hicieron ante el altar que se dice que Abraham construyó con Ismael: la circunvalación del altar, la carrera entre los manantiales en memoria de la búsqueda de agua de Agar. Para el corpus, este es el patrón de restauración abrahámica nombrándose a sí mismo en voz alta — la rama de Ismael produciendo su propia tradición de recuperación, una vuelta más del ciclo que el corpus rastrea a lo largo de las eras. Una hipótesis revisionista (asociada a Dan Gibson) sitúa este altar y esta ciudad santa en [Petra](../petra/), la capital nabatea, en lugar de la Meca hiyazí; esa afirmación geográfica se trata como `speculative` en las entradas [Petra](../petra/) y [Nabateos](../nabataeans/), mientras que la afirmación teológica — la autocomprensión del islam como la religión restaurada de Abraham — se apoya directamente en el Corán e Ibn Isḥāq. Véase el artículo «[Las primeras mezquitas miraban hacia Petra, no hacia La Meca](/articles/the-first-mosques-faced-petra-not-mecca/)».
+
 ## See also
 
 - [Wheel of Heaven](../wheel-of-heaven/)
@@ -634,6 +642,10 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Genesis](../genesis/)
 - [Religion](../religion/)
 - [Abrahamic Covenant](../abrahamic-covenant/)
+- [Hanafiyya](../hanafiyya/)
+- [Mahoma](../muhammad/)
+- [Petra](../petra/)
+- [Nabateos](../nabataeans/)
 - [Isaac](../isaac/)
 - [Jacob](../jacob/)
 - [Joseph](../joseph/)

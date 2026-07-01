@@ -223,6 +223,12 @@ The Muhammad entry connects to several specific aspects of the broader corpus's 
 
 **The Council of the Eternals account.** The Vorilhon 1975 meeting with the assembled prior prophets, including Muhammad, is one of the principal source-material accounts of the continuing operational presence of the prior prophetic figures. The Council of the Eternals account is referenced across multiple corpus entries; the dedicated [Council of the Eternals](../council-of-the-eternals/) entry develops the operational reading in detail.
 
+## ペトラ仮説(関与的な修正主義)
+
+主としてカナダの研究者**ダン・ギブソン**に結びつけられる修正主義的な考古学的仮説は、初期イスラームの本来の聖都はヒジャーズの**メッカ**ではなく、ヨルダン南部にある放棄されたナバテアの首都**ペトラ**であり、聖域・巡礼・黒石が南方へ移されたのは7世紀後半から8世紀初頭にかけてのことにすぎないと論じます。この論証は複数の糸の収束に基づいています——最初期のモスクの方位(*qibla*)がイスラームのおよそ最初の1世紀の間ペトラを向いていること、プトレマイオスの『地理学』にメッカが現れないこと、アル=アズラキーが記録したカアバの不規則な四辺の寸法、そしてクルアーン・アラビア語とその文字そのものがナバテア・アラム語に由来すること。この仮説は[ハニーフィーヤ](../hanafiyya/)——最初期の史料が新しい信仰の自己理解として名指す「アブラハムの宗教」——と、その宗教のアブラハムとイシュマエルの祭壇をペトラの中心に位置づけることによって結びつきます。
+
+この仮説に対する枠組みの立場は**関与するが採用しない**というものであり、本項目の上記の主流および枠組みによる記述は、書き換えるのではなく意図的にそれと並べて残されています。伝記的な素材——ムハンマドのメッカでの生誕、メッカ近郊のヒラー洞窟、メッカ＝エルサレムの夜の旅——は、イスラーム伝統それ自体の物語と、それに対する枠組みの既存の読みを反映しています。ギブソンの仮説は異論のある修正主義です。すなわち、イスラーム天文学史の歴史家デイヴィッド・A・キング(初期のキブラを、ペトラを狙ったものではなく、カアバへ向かう民俗天文学的な「聖なる方向」の整合として読む)によって退けられており、主流のイスラーム学の合意の外にあり、ラエリアンの正典の一部でもありません。本コーパスがこれに関与するのは、*もし*それが妥当であれば、枠組みがすでにイスラームの起源のうちに読み取っているハニーフィーヤ復興に対して具体的な地理を提供するからです——初期イスラームを魚座の時代におけるアブラハム的復興運動とする読みを、置き換えるのではなく先鋭化させるものとして。キブラ・言語・反論の素材を含む完全な扱いは、[ペトラ](../petra/)および[ナバテア人](../nabataeans/)の項目、ならびに解説記事「[最初のモスクはメッカではなくペトラを向いていた](/articles/the-first-mosques-faced-petra-not-mecca/)」で展開されています。
+
 ## Open questions
 
 The Muhammad entry surfaces several open questions for the framework's broader interpretive work.
@@ -249,6 +255,9 @@ The Muhammad entry surfaces several open questions for the framework's broader i
 - [Ali ibn Abi Talib](../ali-ibn-abi-talib/)
 - [The Qur'an](../quran/)
 - [Mecca](../mecca/)
+- [ペトラ](../petra/)
+- [ナバテア人](../nabataeans/)
+- [ハニーフィーヤ](../hanafiyya/)
 - [Medina](../medina/)
 - [Jerusalem](../jerusalem/) / [al-Quds](../al-quds/)
 - [Cave of Hira](../cave-of-hira/)

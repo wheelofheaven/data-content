@@ -223,6 +223,12 @@ The Muhammad entry connects to several specific aspects of the broader corpus's 
 
 **The Council of the Eternals account.** The Vorilhon 1975 meeting with the assembled prior prophets, including Muhammad, is one of the principal source-material accounts of the continuing operational presence of the prior prophetic figures. The Council of the Eternals account is referenced across multiple corpus entries; the dedicated [Council of the Eternals](../council-of-the-eternals/) entry develops the operational reading in detail.
 
+## L'hypothèse de Pétra (un révisionnisme engagé)
+
+Une hypothèse archéologique révisionniste, associée principalement au chercheur canadien **Dan Gibson**, soutient que la cité sainte d'origine des débuts de l'islam n'était pas la **Mecque** du Hedjaz mais **Pétra**, la capitale nabatéenne abandonnée du sud de la Jordanie, et que le sanctuaire, le pèlerinage et la Pierre noire ne furent déplacés vers le sud qu'à la fin du VIIe et au début du VIIIe siècle de notre ère. L'argument repose sur la convergence de plusieurs fils : l'orientation (*qibla*) des toutes premières mosquées vers Pétra pendant environ le premier siècle de l'islam ; l'absence de la Mecque dans la *Géographie* de Ptolémée ; les mesures irrégulières et quadrangulaires de la Ka'ba consignées par al-Azraqī ; et la filiation de l'arabe coranique, et de son écriture même, à partir de l'araméen nabatéen. Elle se rattache à la [Hanafiyya](../hanafiyya/) — la « religion d'Abraham » que les sources les plus anciennes désignent comme la manière dont la nouvelle foi se comprenait elle-même — en situant l'autel d'Abraham et d'Ismaël de cette religion au centre de Pétra.
+
+La position du cadre sur cette hypothèse est **engagée, non adoptée**, et l'exposé courant-et-cadre développé plus haut dans cette notice est délibérément maintenu à ses côtés plutôt que réécrit. Le matériau biographique — la naissance de Mahomet à la Mecque, la grotte de Hira près de la Mecque, le Voyage nocturne de la Mecque à Jérusalem — reflète le récit propre de la tradition islamique et la lecture que le cadre en fait déjà. L'hypothèse de Gibson relève d'un révisionnisme contesté : elle est rejetée par l'historien de l'astronomie islamique David A. King (qui lit les premières qiblas comme un alignement folk-astronomique de « direction sacrée » vers la Ka'ba, et non comme visant Pétra), elle se situe en dehors du consensus dominant des études islamiques, et elle ne fait pas partie du canon raélien. Le corpus s'y intéresse parce que, *si* elle se vérifie, elle fournit une géographie concrète à la restauration de la Hanafiyya que le cadre lit déjà dans les origines de l'islam — affinant, plutôt que déplaçant, la lecture de l'islam primitif comme un mouvement de recouvrement abrahamique à l'Ère des Poissons. Le traitement complet, avec le matériau sur la qibla, la linguistique et les contre-arguments, est développé dans les notices [Pétra](../petra/) et [Nabatéens](../nabataeans/) ainsi que dans l'explicatif « [The First Mosques Faced Petra, Not Mecca](/articles/the-first-mosques-faced-petra-not-mecca/) ».
+
 ## Open questions
 
 The Muhammad entry surfaces several open questions for the framework's broader interpretive work.
@@ -249,6 +255,9 @@ The Muhammad entry surfaces several open questions for the framework's broader i
 - [Ali ibn Abi Talib](../ali-ibn-abi-talib/)
 - [The Qur'an](../quran/)
 - [Mecca](../mecca/)
+- [Pétra](../petra/)
+- [Nabatéens](../nabataeans/)
+- [Hanafiyya](../hanafiyya/)
 - [Medina](../medina/)
 - [Jerusalem](../jerusalem/) / [al-Quds](../al-quds/)
 - [Cave of Hira](../cave-of-hira/)

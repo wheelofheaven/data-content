@@ -607,6 +607,14 @@ The framework reading: substantive substantial cross-cultural founding-patriarch
 
 The framework's distinctive contribution within this broader comparative landscape is the alliance-articulation reading and the systematic integration with the broader corpus narrative architecture (Abraham operating as substantive substantial principal post-Sodom Council-recruited verification figure within substantive substantial broader Taurus-Aries transitional content, with substantive substantial structural parallel to substantive substantial subsequent alliance-cultivation engagements across substantive substantial subsequent ages).
 
+### ハニーフィーヤ──アブラハム的回復としてのイスラーム
+
+アブラハムを徴募と回復の人物とみなすコーパスの読解は、イスラームの起源においてとりわけ明示的な裏づけを得る。最初期のイスラーム史料は、この新しい宗教を革新としてではなく、*millat Ibrāhīm*、すなわちアブラハムの宗教──[ハニーフィーヤ](../hanafiyya/)(アラビア語 *al-Ḥanīfiyyah*、「直き原初の一神教」)──の回復として提示する。クルアーンはアブラハムを、彼をめぐって争う諸伝統よりも古い者として主張し──「アブラハムはユダヤ教徒でもキリスト教徒でもなく、直き者(ḥanīf)であった」(Quran 3:67)──、その宗教に従うことを直接命じている(Quran 16:123; 2:135)。イブン・イスハークの伝記は、自分たちの民が父アブラハムの宗教を堕落させたと判断し、「ハニーフィーヤ、すなわちアブラハムの宗教を求めて、それぞれの道を諸国へと旅立った」四人のイスラーム以前のクライシュ族の探求者の伝承を伝えている。
+
+フレームワークの読解では、アブラハムが向かう「一神教」とは、後代の神学が説く抽象的な唯一神ではない──[エロヒム](../elohim/)は受肉した創造者たちの[複数性](../plurality-of-gods/)である──。それはむしろ、偶像崇拝に抗して、それらの創造者についての正確な知識を回復することである。ラエリアンの正典は、まさにこの逸脱をアブラハム自身の時代に位置づける。ソドムの破壊の後、人々は「自分たちを創造したのが誰であったかを忘れ、愚かにも石の断片や偶像を崇拝しはじめた」([*真実を告げる書*](../../library/the-book-which-tells-the-truth/))。アブラハムの宗教とは、それらの死んだ像から、人類が忘れ去った創造者たちへと立ち帰ることである。[ハニーフィーヤ](../hanafiyya/)を参照。
+
+この回復は、とりわけ**イシュマエル**の系統を通じて進んだ──すなわちハガル(創世記16、21)、その息子を同盟が契約の系統と並んで保護し支えたエジプト人の女奴隷を通じてである。巡礼の儀礼は、アブラハムがイシュマエルとともに築いたとされる祭壇でアブラハムとハガルが行ったことの再演として語られる。祭壇のまわりを巡ること、そしてハガルが水を求めたことを記念して水場のあいだを走ることである。コーパスにとってこれは、アブラハム的回復のパターンがみずからを声高に名指すものである──イシュマエルの分枝が独自の回復の伝統を生み出し、コーパスが諸時代を通じて追跡する循環がもう一巡するのである。ある修正主義的仮説(ダン・ギブソンと結びつけられる)は、この祭壇と聖都を、ヒジャーズのメッカではなく、ナバテア人の首都[ペトラ](../petra/)に位置づける。その地理的主張は[ペトラ](../petra/)および[ナバテア人](../nabataeans/)の項目で`speculative`として扱われる一方、神学的主張──イスラームがアブラハムの回復された宗教であるという自己理解──は、クルアーンとイブン・イスハークに直接依拠している。エクスプレイナー「[最初のモスクはメッカではなくペトラを向いていた](/articles/the-first-mosques-faced-petra-not-mecca/)」を参照。
+
 ## See also
 
 - [Wheel of Heaven](../wheel-of-heaven/)
@@ -634,6 +642,10 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Genesis](../genesis/)
 - [Religion](../religion/)
 - [Abrahamic Covenant](../abrahamic-covenant/)
+- [ハニーフィーヤ](../hanafiyya/)
+- [ムハンマド](../muhammad/)
+- [ペトラ](../petra/)
+- [ナバテア人](../nabataeans/)
 - [Isaac](../isaac/)
 - [Jacob](../jacob/)
 - [Joseph](../joseph/)

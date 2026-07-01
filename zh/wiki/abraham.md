@@ -607,6 +607,14 @@ The framework reading: substantive substantial cross-cultural founding-patriarch
 
 The framework's distinctive contribution within this broader comparative landscape is the alliance-articulation reading and the systematic integration with the broader corpus narrative architecture (Abraham operating as substantive substantial principal post-Sodom Council-recruited verification figure within substantive substantial broader Taurus-Aries transitional content, with substantive substantial structural parallel to substantive substantial subsequent alliance-cultivation engagements across substantive substantial subsequent ages).
 
+### 哈尼夫信仰——伊斯兰教作为亚伯拉罕式的复原
+
+本文集将亚伯拉罕读作一位招募与复原的人物,这一解读在伊斯兰教的起源中得到了异常明确的印证。最早的伊斯兰教文献并不将这一新宗教呈现为一种创新,而是呈现为对 *millat Ibrāhīm*(亚伯拉罕的宗教)的复原——即[哈尼夫信仰](../hanafiyya/)(阿拉伯语 *al-Ḥanīfiyyah*,“正直的原初一神信仰”)。《古兰经》宣称亚伯拉罕比那些为他争执的传统更为古老——*“亚伯拉罕既不是犹太教徒,也不是基督教徒,而是一位正直者(ḥanīf)”*(《古兰经》3:67)——并直接命令人们追随他的宗教(《古兰经》16:123;2:135)。伊本·伊斯哈格的传记保存了一段传统:四位前伊斯兰时期的古莱什探寻者,判定其族人已败坏了他们先祖亚伯拉罕的宗教,于是“分头前往各地,寻求哈尼夫信仰,即亚伯拉罕的宗教”。
+
+按照本框架的解读,亚伯拉罕所转向的“一神信仰”并非后世神学中那位抽象的单一上帝——[耶洛因](../elohim/)是一个由具身造物者构成的[多元群体](../plurality-of-gods/)——而是针对偶像崇拜、对这些造物者的准确认识的复原。雷尔正典将这一确切的堕落置于亚伯拉罕自己的时代:在所多玛毁灭之后,人们“愚蠢地开始崇拜石块与偶像,忘记了究竟是谁创造了他们”([《揭示真相之书》](../../library/the-book-which-tells-the-truth/))。亚伯拉罕的宗教就是从那些死寂的偶像回转,重新面向人类所遗忘的造物者;参见[哈尼夫信仰](../hanafiyya/)。
+
+这场复原尤其经由**以实玛利**一脉展开——经由夏甲(《创世记》16、21),那位埃及使女,她的儿子受到同盟的保护,并与契约血脉一同得到同盟的投入。朝觐礼仪被叙述为对亚伯拉罕与夏甲当年在据说由亚伯拉罕与以实玛利共同筑起的祭坛旁所行之事的重演:绕行祭坛,并在数处水源之间奔走,以纪念夏甲寻水之举。对本文集而言,这正是亚伯拉罕式复原模式的自我明言——以实玛利这一支产生了它自身的复原传统,又一次转动了本文集跨越诸时代所追踪的循环。一种修正主义假说(与丹·吉布森相关联)将这座祭坛与圣城定位于纳巴泰人的都城[佩特拉](../petra/),而非希贾兹的麦加;这一地理主张在[佩特拉](../petra/)与[纳巴泰人](../nabataeans/)条目中被视为 `speculative`,而神学主张——伊斯兰教将自身理解为亚伯拉罕宗教的复原——则直接建立在《古兰经》与伊本·伊斯哈格之上。参见解说文章《[最早的清真寺朝向佩特拉,而非麦加](/articles/the-first-mosques-faced-petra-not-mecca/)》。
+
 ## See also
 
 - [Wheel of Heaven](../wheel-of-heaven/)
@@ -634,6 +642,10 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Genesis](../genesis/)
 - [Religion](../religion/)
 - [Abrahamic Covenant](../abrahamic-covenant/)
+- [哈尼夫信仰](../hanafiyya/)
+- [穆罕默德](../muhammad/)
+- [佩特拉](../petra/)
+- [纳巴泰人](../nabataeans/)
 - [Isaac](../isaac/)
 - [Jacob](../jacob/)
 - [Joseph](../joseph/)

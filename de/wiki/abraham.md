@@ -607,6 +607,14 @@ The framework reading: substantive substantial cross-cultural founding-patriarch
 
 The framework's distinctive contribution within this broader comparative landscape is the alliance-articulation reading and the systematic integration with the broader corpus narrative architecture (Abraham operating as substantive substantial principal post-Sodom Council-recruited verification figure within substantive substantial broader Taurus-Aries transitional content, with substantive substantial structural parallel to substantive substantial subsequent alliance-cultivation engagements across substantive substantial subsequent ages).
 
+### Die Hanafiyya — der Islam als abrahamitische Wiederherstellung
+
+Die Lesart des Korpus, die Abraham als Figur der Rekrutierung und Wiederherstellung versteht, findet in den Ursprüngen des Islam eine ungewöhnlich explizite Bestätigung. Die frühesten islamischen Quellen stellen die neue Religion nicht als Neuerung dar, sondern als die Wiederherstellung der *millat Ibrāhīm*, der Religion Abrahams — der [Hanafiyya](../hanafiyya/) (arabisch *al-Ḥanīfiyyah*, „der aufrechte ursprüngliche Monotheismus"). Der Koran beansprucht Abraham als älter als die Traditionen, die um ihn streiten — *„Abraham war weder Jude noch Christ, sondern er war ein Aufrechter (ḥanīf)"* (Koran 3:67) — und gebietet unmittelbar, seiner Religion zu folgen (Koran 16:123; 2:135). Die Biographie des Ibn Isḥāq bewahrt eine Überlieferung von vier vorislamischen quraischitischen Suchern, die, im Urteil, dass ihr Volk die Religion ihres Vaters Abraham verfälscht habe, „ihre verschiedenen Wege in die Länder zogen, auf der Suche nach der Hanafiyya, der Religion Abrahams".
+
+In der Lesart des Rahmens ist der „Monotheismus", dem Abraham sich zuwendet, nicht der abstrakte einzelne Gott der späteren Theologie — die [Elohim](../elohim/) sind eine [Vielheit](../plurality-of-gods/) verkörperter Schöpfer —, sondern die Wiedergewinnung genauen Wissens über jene Schöpfer gegen den Götzendienst. Der raëlianische Kanon verortet genau dieses Versagen in Abrahams eigener Epoche: Nach der Zerstörung Sodoms begannen die Menschen „töricht, Steinbrocken und Götzenbilder anzubeten, und vergaßen, wer sie erschaffen hatte" ([*Das Buch, das die Wahrheit sagt*](../../library/the-book-which-tells-the-truth/)). Die Religion Abrahams ist die Rückwendung von jenen toten Bildern zu den Schöpfern, die die Menschheit vergessen hatte; siehe [Hanafiyya](../hanafiyya/).
+
+Diese Wiederherstellung verlief speziell über die **Ismael**-Linie — über Hagar (Genesis 16, 21), die ägyptische Magd, deren Sohn die Allianz neben der Bundeslinie schützt und in den sie investiert. Die Pilgerriten werden als Nachvollzug dessen erzählt, was Abraham und Hagar an dem Altar taten, den Abraham gemeinsam mit Ismael errichtet haben soll: die Umschreitung des Altars, das Laufen zwischen den Wasserstellen im Gedenken an Hagars Suche nach Wasser. Für den Korpus benennt sich hier das abrahamitische Wiederherstellungsmuster selbst laut aus — der Ismael-Zweig bringt seine eigene Wiederherstellungstradition hervor, eine weitere Umdrehung des Zyklus, den der Korpus durch die Zeitalter verfolgt. Eine revisionistische Hypothese (verbunden mit Dan Gibson) verortet diesen Altar und diese heilige Stadt in [Petra](../petra/), der nabatäischen Hauptstadt, statt im hidschazischen Mekka; dieser geografische Anspruch wird in den Einträgen [Petra](../petra/) und [Nabatäer](../nabataeans/) als `speculative` behandelt, während der theologische Anspruch — das Selbstverständnis des Islam als die wiederhergestellte Religion Abrahams — unmittelbar auf dem Koran und Ibn Isḥāq beruht. Siehe den Explainer „[Die ersten Moscheen waren nach Petra ausgerichtet, nicht nach Mekka](/articles/the-first-mosques-faced-petra-not-mecca/)".
+
 ## See also
 
 - [Wheel of Heaven](../wheel-of-heaven/)
@@ -634,6 +642,10 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Genesis](../genesis/)
 - [Religion](../religion/)
 - [Abrahamic Covenant](../abrahamic-covenant/)
+- [Hanafiyya](../hanafiyya/)
+- [Mohammed](../muhammad/)
+- [Petra](../petra/)
+- [Nabatäer](../nabataeans/)
 - [Isaac](../isaac/)
 - [Jacob](../jacob/)
 - [Joseph](../joseph/)

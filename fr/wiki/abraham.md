@@ -607,6 +607,14 @@ The framework reading: substantive substantial cross-cultural founding-patriarch
 
 The framework's distinctive contribution within this broader comparative landscape is the alliance-articulation reading and the systematic integration with the broader corpus narrative architecture (Abraham operating as substantive substantial principal post-Sodom Council-recruited verification figure within substantive substantial broader Taurus-Aries transitional content, with substantive substantial structural parallel to substantive substantial subsequent alliance-cultivation engagements across substantive substantial subsequent ages).
 
+### La Hanafiyya — l'islam comme restauration abrahamique
+
+La lecture que le corpus fait d'Abraham comme figure de recrutement et de redressement trouve une confirmation particulièrement explicite dans les origines de l'islam. Les sources islamiques les plus anciennes ne présentent pas la nouvelle religion comme une innovation, mais comme la restauration de la *millat Ibrāhīm*, la religion d'Abraham — la [Hanafiyya](../hanafiyya/) (arabe *al-Ḥanīfiyyah*, « le monothéisme primordial et droit »). Le Coran revendique Abraham comme antérieur aux traditions qui se disputent à son sujet — *« Abraham n'était ni juif ni chrétien, mais il était un pur monothéiste (ḥanīf) »* (Coran 3:67) — et ordonne de suivre sa religion directement (Coran 16:123 ; 2:135). La biographie d'Ibn Isḥāq conserve la tradition de quatre chercheurs qurayshites préislamiques qui, jugeant que leur peuple avait corrompu la religion de leur père Abraham, « partirent chacun de leur côté à travers les pays, en quête de la Hanifiyya, la religion d'Abraham ».
+
+Selon la lecture du cadre, le « monothéisme » vers lequel Abraham se tourne n'est pas le Dieu unique et abstrait de la théologie ultérieure — les [Élohim](../elohim/) sont une [pluralité](../plurality-of-gods/) de créateurs incarnés — mais la restauration d'une connaissance exacte de ces créateurs, contre l'idolâtrie. Le canon raélien situe précisément cet échec à l'époque même d'Abraham : après la destruction de Sodome, les hommes « se mirent stupidement à adorer des morceaux de pierre et des idoles, oubliant qui les avait créés » ([*Le Livre qui dit la vérité*](../../library/the-book-which-tells-the-truth/)). La religion d'Abraham, c'est ce retour : se détourner de ces images mortes pour revenir aux créateurs que l'humanité avait oubliés ; voir [Hanafiyya](../hanafiyya/).
+
+Cette restauration passa spécifiquement par la lignée d'**Ismaël** — par Agar (Genèse 16, 21), la servante égyptienne dont l'alliance protège le fils et sur lequel elle investit, aux côtés de la lignée de l'alliance. Les rites du pèlerinage sont racontés comme la réactualisation de ce qu'Abraham et Agar accomplirent auprès de l'autel qu'Abraham aurait bâti avec Ismaël : la circumambulation autour de l'autel, la course entre les points d'eau en mémoire de la quête d'eau d'Agar. Pour le corpus, c'est le schéma de la restauration abrahamique qui se nomme lui-même à voix haute — la branche d'Ismaël produisant sa propre tradition de redressement, un tour de plus du cycle que le corpus suit à travers les âges. Une hypothèse révisionniste (associée à Dan Gibson) situe cet autel et cette ville sainte à [Pétra](../petra/), la capitale nabatéenne, plutôt qu'à La Mecque du Hedjaz ; cette affirmation géographique est traitée comme `speculative` dans les entrées [Pétra](../petra/) et [Nabatéens](../nabataeans/), tandis que l'affirmation théologique — la conscience qu'a l'islam d'être la religion restaurée d'Abraham — repose directement sur le Coran et Ibn Isḥāq. Voir l'article « [Les premières mosquées faisaient face à Pétra, et non à La Mecque](/articles/the-first-mosques-faced-petra-not-mecca/) ».
+
 ## See also
 
 - [Wheel of Heaven](../wheel-of-heaven/)
@@ -634,6 +642,10 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Genesis](../genesis/)
 - [Religion](../religion/)
 - [Abrahamic Covenant](../abrahamic-covenant/)
+- [Hanafiyya](../hanafiyya/)
+- [Mahomet](../muhammad/)
+- [Pétra](../petra/)
+- [Nabatéens](../nabataeans/)
 - [Isaac](../isaac/)
 - [Jacob](../jacob/)
 - [Joseph](../joseph/)

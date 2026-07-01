@@ -224,6 +224,12 @@ The Muhammad entry connects to several specific aspects of the broader corpus's 
 
 **The Council of the Eternals account.** The Vorilhon 1975 meeting with the assembled prior prophets, including Muhammad, is one of the principal source-material accounts of the continuing operational presence of the prior prophetic figures. The Council of the Eternals account is referenced across multiple corpus entries; the dedicated [Council of the Eternals](../council-of-the-eternals/) entry develops the operational reading in detail.
 
+## השערת פטרה (רוויזיוניזם מעורב)
+
+השערה ארכאולוגית רוויזיוניסטית, המזוהה בעיקר עם החוקר הקנדי **דן גיבסון**, טוענת שעיר הקודש המקורית של האסלאם הקדום לא הייתה **מכה** שבחג'אז אלא **פטרה**, הבירה הנבטית הנטושה בדרום ירדן, ושהמקדש, העלייה לרגל והאבן השחורה הועתקו דרומה רק בשלהי המאה השביעית ובראשית המאה השמינית לספירה. הטיעון נשען על התכנסות של כמה קווים — כיוון התפילה (*qibla*) של המסגדים הקדומים ביותר לעבר פטרה במשך כמאה השנים הראשונות של האסלאם; היעדרה של מכה מן ה*גאוגרפיה* של תלמי; מידות הכעבה הבלתי-סדירות בעלות ארבע הצלעות שתועדו בידי אל-אזרקי; וגזירת הערבית הקוראנית ואף כתבהּ מן הארמית הנבטית. היא מתקשרת אל ה[חניפיה](../hanafiyya/) — »דת אברהם« שהמקורות הקדומים ביותר מזהים כתפיסתה העצמית של האמונה החדשה — בכך שהיא ממקמת את מזבח אברהם וישמעאל של אותה דת במרכזה של פטרה.
+
+עמדת המסגרת כלפי השערה זו היא **מעורבת, לא מאומצת**, והתיאור המיינסטרימי-והמסגרתי של ערך זה לעיל מושאר במכוון לצד ההשערה ולא נכתב מחדש. החומר הביוגרפי — לידת מוחמד במכה, מערת היראא סמוך למכה, מסע הלילה מכה–ירושלים — משקף את הנרטיב של המסורת האסלאמית עצמה ואת קריאתה הקיימת של המסגרת בו. השערתו של גיבסון היא רוויזיוניזם שנוי במחלוקת: היא נדחית בידי היסטוריון האסטרונומיה האסלאמית דיוויד א. קינג (הקורא את כיווני התפילה הקדומים כיישור »כיוון מקודש« עממי-אסטרונומי לעבר הכעבה, לא כמכוון לעבר פטרה), היא ניצבת מחוץ לקונצנזוס המחקרי המיינסטרימי בחקר האסלאם, ואינה חלק מן הקאנון הראלי. הקורפוס מתכתב עמה משום ש*אם* היא נכונה, היא מספקת גאוגרפיה קונקרטית לשיקום החניפיה שהמסגרת כבר קוראת בראשית האסלאם — ובכך היא מחדדת, במקום לדחוק, את הקריאה של האסלאם הקדום כתנועת התאוששות אברהמית בעידן הדגים. הטיפול המלא, על החומר של כיוון התפילה, הבלשנות והטיעונים הנגדיים, מפותח בערכי [פטרה](../petra/) ו[הנבטים](../nabataeans/) ובמאמר ההסבר »[המסגדים הראשונים פנו אל פטרה, לא אל מכה](/articles/the-first-mosques-faced-petra-not-mecca/)«.
+
 ## Open questions
 
 The Muhammad entry surfaces several open questions for the framework's broader interpretive work.
@@ -250,6 +256,9 @@ The Muhammad entry surfaces several open questions for the framework's broader i
 - [Ali ibn Abi Talib](../ali-ibn-abi-talib/)
 - [The Qur'an](../quran/)
 - [Mecca](../mecca/)
+- [פטרה](../petra/)
+- [הנבטים](../nabataeans/)
+- [חניפיה](../hanafiyya/)
 - [Medina](../medina/)
 - [Jerusalem](../jerusalem/) / [al-Quds](../al-quds/)
 - [Cave of Hira](../cave-of-hira/)

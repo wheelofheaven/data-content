@@ -607,6 +607,14 @@ The framework reading: substantive substantial cross-cultural founding-patriarch
 
 The framework's distinctive contribution within this broader comparative landscape is the alliance-articulation reading and the systematic integration with the broader corpus narrative architecture (Abraham operating as substantive substantial principal post-Sodom Council-recruited verification figure within substantive substantial broader Taurus-Aries transitional content, with substantive substantial structural parallel to substantive substantial subsequent alliance-cultivation engagements across substantive substantial subsequent ages).
 
+### 하니피야 — 아브라함적 회복으로서의 이슬람
+
+말뭉치가 아브라함을 모집·회복 인물로 읽는 관점은 이슬람의 기원에서 유난히 명시적인 확증을 발견한다. 초기 이슬람 자료들은 이 새로운 종교를 혁신이 아니라 *밀랏 이브라힘(millat Ibrāhīm)*, 곧 아브라함의 종교 — [하니피야](../hanafiyya/)(아랍어 *al-Ḥanīfiyyah*, "올곧은 원초적 유일신 신앙") — 의 회복으로 제시한다. 꾸란은 아브라함을 그를 두고 다투는 전통들보다 더 오래된 존재로 주장하며 — *"아브라함은 유대인도 기독교인도 아니었고, 올곧은 자(ḥanīf)였다"*(Quran 3:67) — 그의 종교를 따르라고 직접 명한다(Quran 16:123; 2:135). 이븐 이스하끄의 전기는 자기 백성이 그들의 조상 아브라함의 종교를 타락시켰다고 판단하여 "여러 갈래로 땅을 돌아다니며 하니피야, 곧 아브라함의 종교를 찾았다"는 이슬람 이전 꾸라이시 구도자 네 사람의 전승을 보존하고 있다.
+
+이 틀의 관점에서 아브라함이 향해 돌아서는 "유일신 신앙"은 후대 신학의 추상적 단일 신이 아니다 — [엘로힘](../elohim/)은 육체를 지닌 창조자들의 [다수성](../plurality-of-gods/)이다 — 오히려 우상숭배에 맞서 그 창조자들에 대한 정확한 지식을 회복하는 것이다. 라엘리안 정전은 바로 이 실패를 아브라함 자신의 시대에 위치시킨다. 소돔 파괴 이후 사람들은 "누가 자신들을 창조했는지 잊은 채, 어리석게도 돌 조각과 우상을 숭배하기 시작했다"([*The Book Which Tells the Truth*](../../library/the-book-which-tells-the-truth/)). 아브라함의 종교는 그 죽은 형상들로부터 인류가 잊어버린 창조자들에게로 되돌아서는 전환이다. [하니피야](../hanafiyya/)를 보라.
+
+이 회복은 특히 **이스마엘** 계보를 통해 — 창세기 16, 21의 하갈, 곧 그 아들을 동맹이 보호하고 언약 계보와 나란히 투자하는 이집트인 여종을 통해 — 이어졌다. 순례 의례는 아브라함이 이스마엘과 함께 세웠다고 전해지는 제단에서 아브라함과 하갈이 행한 바의 재현으로 서술된다. 제단을 도는 회행(回行), 그리고 하갈이 물을 찾던 일을 기려 급수처 사이를 달리는 의식이 그것이다. 말뭉치에게 이는 아브라함적 회복 패턴이 스스로를 소리 내어 명명하는 것이다 — 이스마엘 분파가 자기 자신의 회복 전통을 산출하는 것, 곧 말뭉치가 여러 시대에 걸쳐 추적하는 순환의 또 한 번의 회전이다. 한 수정주의 가설(댄 깁슨과 연관됨)은 이 제단과 성지를 히자즈의 메카가 아니라 나바테아의 수도 [페트라](../petra/)에 위치시킨다. 그 지리적 주장은 [페트라](../petra/) 및 [나바테아인](../nabataeans/) 항목에서 `speculative`로 다루어지는 반면, 신학적 주장 — 아브라함의 회복된 종교라는 이슬람의 자기 이해 — 은 꾸란과 이븐 이스하끄에 직접 근거한다. 해설 기사 "[최초의 모스크들은 메카가 아니라 페트라를 향했다](/articles/the-first-mosques-faced-petra-not-mecca/)"를 보라.
+
 ## See also
 
 - [Wheel of Heaven](../wheel-of-heaven/)
@@ -634,6 +642,10 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Genesis](../genesis/)
 - [Religion](../religion/)
 - [Abrahamic Covenant](../abrahamic-covenant/)
+- [하니피야](../hanafiyya/)
+- [무함마드](../muhammad/)
+- [페트라](../petra/)
+- [나바테아인](../nabataeans/)
 - [Isaac](../isaac/)
 - [Jacob](../jacob/)
 - [Joseph](../joseph/)
