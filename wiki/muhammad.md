@@ -223,6 +223,12 @@ The Muhammad entry connects to several specific aspects of the broader corpus's 
 
 **The Council of the Eternals account.** The Vorilhon 1975 meeting with the assembled prior prophets, including Muhammad, is one of the principal source-material accounts of the continuing operational presence of the prior prophetic figures. The Council of the Eternals account is referenced across multiple corpus entries; the dedicated [Council of the Eternals](../council-of-the-eternals/) entry develops the operational reading in detail.
 
+## The Petra hypothesis (an engaged revisionism)
+
+A revisionist archaeological hypothesis, associated principally with the Canadian researcher **Dan Gibson**, argues that the original holy city of early Islam was not the Hijazi **Mecca** but **Petra**, the abandoned Nabataean capital in southern Jordan, and that the sanctuary, pilgrimage, and Black Stone were relocated south only in the late seventh and early eighth centuries CE. The argument rests on a convergence of strands — the orientation (*qibla*) of the earliest mosques toward Petra for roughly the first Islamic century; the absence of Mecca from Ptolemy's *Geography*; the irregular four-sided Ka'ba measurements recorded by al-Azraqī; and the descent of Qur'anic Arabic and its very script from Nabataean Aramaic. It connects to the [Hanafiyya](../hanafiyya/) — the "religion of Abraham" the earliest sources name as the new faith's self-understanding — by locating that religion's altar of Abraham and Ishmael at the centre of Petra.
+
+The framework's stance on this hypothesis is **engaged, not adopted**, and this entry's mainstream-and-framework account above is deliberately left standing alongside it rather than rewritten. The biographical material — Muhammad's birth in Mecca, the Cave of Hira near Mecca, the Mecca–Jerusalem Night Journey — reflects the Islamic tradition's own narrative and the framework's existing reading of it. Gibson's hypothesis is contested revisionism: it is rejected by the historian of Islamic astronomy David A. King (who reads the early qiblas as folk-astronomical "sacred-direction" alignment toward the Kaʿba, not aiming at Petra), it sits outside mainstream Islamic-studies consensus, and it is not part of the Raëlian canon. The corpus engages it because, *if* it holds, it supplies a concrete geography for the Hanafiyya restoration the framework already reads in Islamic origins — sharpening, rather than displacing, the reading of early Islam as an Abrahamic recovery movement in the Age of Pisces. The full treatment, with the qibla, linguistic, and counter-argument material, is developed in the [Petra](../petra/) and [Nabataeans](../nabataeans/) entries and in the Explainer "[The First Mosques Faced Petra, Not Mecca](/articles/the-first-mosques-faced-petra-not-mecca/)."
+
 ## Open questions
 
 The Muhammad entry surfaces several open questions for the framework's broader interpretive work.
@@ -249,6 +255,9 @@ The Muhammad entry surfaces several open questions for the framework's broader i
 - [Ali ibn Abi Talib](../ali-ibn-abi-talib/)
 - [The Qur'an](../quran/)
 - [Mecca](../mecca/)
+- [Petra](../petra/)
+- [Nabataeans](../nabataeans/)
+- [Hanafiyya](../hanafiyya/)
 - [Medina](../medina/)
 - [Jerusalem](../jerusalem/) / [al-Quds](../al-quds/)
 - [Cave of Hira](../cave-of-hira/)
