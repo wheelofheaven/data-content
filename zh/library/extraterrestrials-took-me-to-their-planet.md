@@ -6,5 +6,6 @@ template = "library-book.html"
 date = "2026-05-17T07:12:28Z"
 
 [extra]
+audioplay = true
 claim_type = "direct"
 +++
