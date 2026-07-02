@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 event_date = 2026-07-01
-event_type = "discovery"
+event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "2026 年 7 月 1 日,一支 University of Minnesota 團隊發表了 SpudCell——一個完全由非生命組件組裝而成的合成細胞,能夠生長、複製自身基因組,並歷經數個世代分裂。它是一項概念驗證,而非能自給自足的生物體:它無法自行製造蛋白質,必須以外部餵養維持。透過源典來讀,它恰好落在耶和華於《道出真相之書》中所描述的那道門檻上——Elohim 自身的文明正是由在『可與你們不久將要達到的水平相比』的科學水平上,製造出『試管中的活細胞』而起步。"

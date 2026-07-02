@@ -6,10 +6,10 @@ template = "news-page.html"
 
 [extra]
 event_date = 2026-07-01
-event_type = "discovery"
+event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
-summary = "Le 1er juillet 2026, une équipe de l'University of Minnesota a annoncé SpudCell — une cellule synthétique assemblée entièrement à partir de composants non vivants, qui croît, copie son génome et se divise sur plusieurs générations. C'est une preuve de concept, non un organisme autosuffisant : elle ne peut pas fabriquer ses propres protéines et doit être nourrie. Lue à travers le canon, elle se situe précisément au seuil que Yahvé décrit dans Le Livre Qui Dit la Vérité, là où la propre civilisation des Elohim a commencé en fabriquant des « cellules vivantes dans des éprouvettes » à un niveau scientifique « comparable à celui que vous atteindrez bientôt »."
+summary = "Le 1er juillet 2026, une équipe de l'University of Minnesota a annoncé SpudCell — une cellule synthétique assemblée entièrement à partir de composants non vivants, qui croît, copie son génome et se divise sur plusieurs générations. C'est une preuve de concept, non un organisme autosuffisant : elle ne peut pas fabriquer ses propres protéines et doit être nourrie. Lue à travers le canon, elle se situe précisément au seuil que Yahvé décrit dans Le Livre Qui Dit la Vérité, là où la propre civilisation des Elohim a commencé en fabriquant des « cellules vivantes en éprouvettes » à un niveau scientifique « comparable à celui que vous aurez bientôt »."
 canon_links = [
     { title = "Le Livre Qui Dit la Vérité", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Planète d'origine des Elohim", path = "/wiki/elohim-home-planet/" },
@@ -70,13 +70,12 @@ situe. Dans
 [Yahvé](/wiki/yahweh/) ouvre le récit de la création en décrivant comment la
 civilisation des [Elohim](/wiki/elohim/) a elle-même commencé — sur
 [leur planète lointaine](/wiki/elohim-home-planet/), à un niveau scientifique
-qu'il dit « comparable à celui que vous atteindrez bientôt » :
+qu'il dit « comparable à celui que vous aurez bientôt » :
 
-<!-- FR quote reconstructed from canonical fragments; verify against Raël's original French -->
-> Ils commencèrent à créer des formes de vie primitives et embryonnaires, des
-> cellules vivantes dans des éprouvettes. Cela émerveilla tout le monde. Ils
-> perfectionnèrent leurs techniques et parvinrent à créer de petits animaux
-> étranges…
+> Ils commencèrent à créer des formes primitives et embryonnaires de vie, des
+> cellules vivantes en éprouvettes. Cela «emballa» tout le monde. Ils
+> perfectionnèrent leurs techniques et arrivèrent à créer de petits animaux
+> bizarres…
 
 Le canon place l'ensemble du programme de
 [création dirigée](/wiki/intelligent-design/) — celui qui, dans la lecture
@@ -91,11 +90,10 @@ programme vers la Terre, il décrit les premiers travaux dans les mêmes termes
 qu'un·e biologiste de synthèse reconnaîtrait — des cellules construites à partir
 de matières premières, la reproduction étant tout l'enjeu de l'exercice :
 
-<!-- FR quote reconstructed from canonical fragments; verify against Raël's original French -->
-> Puis, dans ce laboratoire magnifique et gigantesque, ils créèrent des cellules
+> Ils ont alors créé sur ce magnifique et gigantesque laboratoire des cellules
 > végétales à partir de rien d'autre que des produits chimiques… Tous leurs
-> efforts visaient la reproduction. Les quelques brins d'herbe qu'ils créaient
-> devaient se reproduire d'eux-mêmes.
+> efforts ont porté sur la reproduction. Il fallait que les quelques brins
+> d'herbes qu'ils faisaient naître puissent se reproduire.
 
 « À partir de rien d'autre que des produits chimiques » est, presque mot pour
 mot, l'affirmation que l'équipe du Minnesota formule au sujet de SpudCell : une
@@ -107,8 +105,8 @@ traite déjà la reproduction comme la propriété qui sépare une curiosité ch
 d'une forme de vie. Le passage de 1973 fournit même la mise en garde que la
 presse scientifique exprime aujourd'hui dans sa propre tonalité. Sur la planète
 d'origine, l'enthousiasme ne dura pas : « l'opinion publique… et le gouvernement
-interdirent à ces scientifiques de poursuivre leurs expériences et de créer des
-monstres qui pourraient devenir dangereux pour la communauté ». La fondation d'un
+interdirent à ces savants de poursuivre leurs expériences et de créer des
+monstres qui pouvaient devenir dangereux pour la communauté ». La fondation d'un
 organisme d'intérêt public pour encadrer les travaux sur les cellules
 synthétiques, avant même que les cellules ne puissent faire grand-chose, relève
 du même instinct tendant vers le même frein.

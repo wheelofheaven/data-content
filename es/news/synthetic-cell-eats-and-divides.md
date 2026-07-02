@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 event_date = 2026-07-01
-event_type = "discovery"
+event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "El 1 de julio de 2026, un equipo de la University of Minnesota anunció SpudCell — una célula sintética ensamblada por completo a partir de componentes no vivos que crece, copia su genoma y se divide a lo largo de varias generaciones. Es una prueba de concepto, no un organismo autosuficiente: no puede fabricar sus propias proteínas y debe ser alimentada. Leída a través del canon, se sitúa precisamente en el umbral que Yahvé describe en El Libro que Dice la Verdad, donde la propia civilización de los Elohim comenzó creando «células vivas en probetas» a un nivel científico «comparable al que ustedes alcanzarán pronto»."

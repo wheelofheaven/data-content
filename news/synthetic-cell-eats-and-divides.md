@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 event_date = 2026-07-01
-event_type = "discovery"
+event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "On July 1, 2026, a University of Minnesota team announced SpudCell — a synthetic cell assembled entirely from non-living components that grows, copies its genome, and divides across several generations. It is a proof of concept, not a self-sufficient organism: it cannot make its own proteins and must be fed. Read through the canon, it sits precisely at the threshold Yahweh describes in The Book Which Tells the Truth, where the Elohim's own civilization began by making 'living cells in test tubes' at a scientific level 'comparable to the one you will soon attain.'"

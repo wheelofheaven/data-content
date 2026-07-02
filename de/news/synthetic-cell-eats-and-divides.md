@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 event_date = 2026-07-01
-event_type = "discovery"
+event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Am 1. Juli 2026 stellte ein Team der University of Minnesota SpudCell vor — eine synthetische Zelle, die vollständig aus nicht lebenden Komponenten zusammengesetzt ist und über mehrere Generationen hinweg wächst, ihr Genom kopiert und sich teilt. Es ist ein Machbarkeitsnachweis, kein eigenständiger Organismus: Sie kann ihre eigenen Proteine nicht herstellen und muss gefüttert werden. Durch den Kanon gelesen, steht sie genau an jener Schwelle, die Jahwe in Das Buch, das die Wahrheit sagt beschreibt, wo die Zivilisation der Elohim damit begann, „lebende Zellen in Reagenzgläsern“ zu erschaffen, auf einem wissenschaftlichen Niveau, „das mit dem vergleichbar ist, das Sie bald erreichen werden“."

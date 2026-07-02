@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 event_date = 2026-07-01
-event_type = "discovery"
+event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "2026年7月1日，明尼苏达大学的一个团队宣布了 SpudCell——一个完全由非生命组分组装而成、能够生长、复制其基因组并跨越数代分裂的合成细胞。它是一项概念验证，而非自给自足的生物体：它无法自行合成蛋白质，必须被喂养。透过正典来读，它恰好落在耶和华在《揭示真相之书》中所描述的那道门槛上——厄罗欣自身的文明正是从在“试管中”造出“活细胞”起步的，其科学水平“可与你们不久将要达到的水平相比”。"
