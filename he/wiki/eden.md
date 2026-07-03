@@ -6,6 +6,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.avif"
+image_alt = "נוף ציורי של גן קדום וסגור בעמק נהר עם שחר, ובו ארבעה אפיקי מים מתפצלים."
+image_caption = "עדן כמקום — גן ארבעת הנהרות הסגור של בראשית ב׳."
 featured_order = 7
 category = "Places & Locations"
 editorial_pass = "2026-05"

@@ -86,6 +86,8 @@ The 72-year unit corresponds to one degree of precessional motion across the ecl
 
 ### The subdivisions of the Great Year
 
+{{ diagram(name="great-year", alt="A wheel divided into twelve equal Ages, one per zodiac sign, showing the ~25,772-year Great Year; a pointer marks the current Pisces-to-Aquarius boundary.", caption="The Great Year as a wheel of twelve **Ages** (Great Months) of ~2,160 years each. Precession carries the equinox backward through the zodiac at roughly 1° every 72 years; it now sits at the Pisces → Aquarius cusp, entering the **Age of Aquarius**.") }}
+
 The full Great Year of 25,920 years admits structured subdivision into smaller chronological units that mirror the structure of the ordinary year:
 
 - **The Great Month** (one-twelfth of the Great Year, ~2,160 years) — corresponding to one zodiacal sign (30° of ecliptic precession); developed at length in the [Great Month](../great-month/) entry

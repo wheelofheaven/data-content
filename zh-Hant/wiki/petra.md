@@ -6,6 +6,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.avif"
+image_alt = "低垂金色光線下，佩特拉以玫瑰紅砂岩直接鑿刻於峽谷峭壁上的納巴泰立面。"
+image_caption = "佩特拉——鑿岩而成的納巴泰首都，朝拜方向假說的地理中心。"
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"

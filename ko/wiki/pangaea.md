@@ -5,6 +5,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.avif"
+image_alt = "하나의 세계 대양에 둘러싸인 거대한 단일 초대륙을 높은 고도에서 본 모습 — 대홍수 이전의 육괴."
+image_caption = "판게아 — 에덴 단계와 분산 문명 단계의 기반이 된 단일 대홍수 이전 육괴."
 translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"

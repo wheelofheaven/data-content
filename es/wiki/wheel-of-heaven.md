@@ -120,6 +120,8 @@ El nombre del proyecto encierra un doble contenido semántico al que el corpus s
 
 ### «Rueda» — el ciclo precesional
 
+{{ diagram(name="wheel-of-heaven", alt="Una rueda de doce radios de las eras precesionales, cada una leída como una fase del proyecto de la alianza — Leo (humanos creados), Cáncer (Edén), Géminis (el Diluvio), Tauro (Babel), Aries (los profetas), Piscis (los evangelios) y Acuario, la era actual.", caption="El **Wheel of Heaven** propiamente dicho: las doce eras precesionales de ~2.160 años, cada una leída como una fase operativa del proyecto de la alianza. Las eras avanzan en sentido horario; el equinoccio se sitúa ahora en la cúspide Piscis → Acuario.") }}
+
 El significado principal de «Wheel of Heaven» es el **ciclo precesional**. El ciclo lo produce el lento bamboleo cónico del eje de rotación de la Tierra bajo el par gravitacional del Sol y la Luna — un fenómeno astronómico real que completa una rotación completa cada aproximadamente 25.920 años. A medida que el eje traza su movimiento cónico, el polo celeste se desplaza lentamente por el cielo y el punto equinoccial vernal (el lugar donde sale el Sol en el primer día de la primavera) deriva hacia atrás a través de las constelaciones zodiacales a un ritmo aproximado de 2.160 años por constelación. El tratamiento detallado del ciclo precesional y de su mecánica vive en la entrada [Era del Mundo](../world-age/); el tratamiento detallado del marco zodiacal vive en la entrada [Zodíaco](../zodiac/).
 
 El marco lee el ciclo precesional como la estructura temporal-cosmológica organizadora principal de toda la narrativa del corpus. Cada una de las doce eras precesionales — Capricornio, Sagitario, Escorpio, Libra, Virgo, Leo, Cáncer, Géminis, Tauro, Aries, Piscis, Acuario — opera como una fase ingenieril-operativa del proyecto de veintidós mil años de la alianza en la Tierra, con tareas específicas, intervenciones características y una firma astronómica duplicada codificada en la tradición religioso-iconográfica de las culturas que la alianza cultivó durante esa era.
@@ -267,6 +269,8 @@ El corpus opera a través de varios principios editoriales sustantivos articulad
 
 ### La distinción epistémica en cuatro niveles
 
+{{ diagram(name="epistemic-tiers", alt="Una pirámide de cuatro niveles: afirmaciones directas de las fuentes en la base firme, luego observaciones comparativas, luego interpretación Wheel of Heaven, con cuestiones abiertas en la cúspide interpretativa.", caption="Los cuatro niveles de contenido que el corpus mantiene visiblemente separados — desde las afirmaciones directas de las fuentes (las más firmes, en la base) subiendo a través de las observaciones comparativas y la interpretación a nivel del corpus hasta las cuestiones abiertas dejadas explícitamente sin resolver.") }}
+
 El corpus distingue de manera consistente entre cuatro niveles de contenido:
 
 1. **Afirmaciones directas de las fuentes** — lo que una fuente específica afirma directamente (con atribución a la fuente)
@@ -326,6 +330,8 @@ La gobernanza editorial detallada vive en el documento de gobernanza `01-editori
 El marco Wheel of Heaven opera a lo largo del corpus más amplio mediante varias relaciones arquitectónicas principales.
 
 ### La arquitectura temporal principal
+
+{{ diagram(name="world-ages-timeline", alt="Una línea de tiempo horizontal de las doce eras precesionales contiguas desde la Era de Capricornio (~21.810 a. C., apertura del proyecto) hasta la Era de Acuario (desde 1950 d. C., la era actual), con eventos clave marcados bajo Leo, Cáncer, Géminis, Tauro, Aries y Piscis.", caption="El marco de las eras precesionales como línea de tiempo: doce eras contiguas de ~2.160 años que llevan la narrativa del corpus desde la apertura del proyecto en la Era de Capricornio hasta la actual Era de Acuario.") }}
 
 La arquitectura temporal principal del corpus es el marco de las eras precesionales, con cada una de las doce eras precesionales recibiendo un tratamiento sustantivo en una entrada dedicada. El tratamiento detallado de la arquitectura precesional vive en la entrada [Era del Mundo](../world-age/); el complemento simbólico-constelacional vive en la entrada [Zodíaco](../zodiac/).
 

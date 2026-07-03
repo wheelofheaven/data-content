@@ -13,6 +13,10 @@ entry_type = "place"
 claim_type = "inferred"
 alternative_names = ["エデンの園", "gan-ʿĒden", "גַּן־עֵדֶן", "楽園"]
 timeline = ["leo", "cancer"]
+image = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.avif"
+image_alt = "夜明けの囲まれた河谷の園を描いた絵画的風景。四つの水路が分岐している。"
+image_caption = "場所としてのエデン——『創世記』第2章の、四つの川をもつ囲まれた園。"
 
 see_also = [
     { title = "アダムとエバ", path = "/wiki/adam-and-eve/", description = "園に置かれた最初の二人の人間。" },

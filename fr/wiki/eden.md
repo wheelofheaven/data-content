@@ -13,6 +13,10 @@ entry_type = "place"
 claim_type = "inferred"
 alternative_names = ["Jardin d'Éden", "gan-ʿĒden", "גַּן־עֵדֶן", "Paradis"]
 timeline = ["leo", "cancer"]
+image = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.avif"
+image_alt = "Vue picturale d’un jardin clos dans une vallée fluviale à l’aube, où quatre cours d’eau divergent."
+image_caption = "Éden comme lieu — le jardin clos aux quatre fleuves de Genèse 2."
 
 see_also = [
     { title = "Adam et Ève", path = "/wiki/adam-and-eve/", description = "Les deux premiers humains placés dans le jardin." },
@@ -356,7 +360,6 @@ La **tradition mésoaméricaine des mondes antérieurs**, conservée le plus com
 ### La convergence
 
 La position de travail du corpus sur la question comparative-religieuse est que la récurrence globale des traditions de paradis-origine, d'ère antérieure et de civilisation perdue à travers des cultures géographiquement et temporellement déconnectées constitue une preuve d'un événement historique sous-jacent partagé dont la mémoire fut conservée sous forme fragmentaire à travers les diverses populations humaines descendant des sept lignées terrestres. L'identification spécifique du contenu de toute tradition particulière à des événements précis de la période d'Éden exige une analyse au cas par cas plutôt qu'une équivalence globale — certaines traditions conservent une mémoire plus proche des référents originels que d'autres, et la transmission post-Déluge à travers plusieurs millénaires a produit une variation substantielle dans ce que chaque tradition conserve et de quelle manière. Le corpus refuse à la fois la tendance populaire des anciens astronautes à traiter toutes ces traditions comme des mémoires directes d'événements identiques et la tendance courante de la religion comparée à les traiter comme des constructions mythologiques indépendantes de leurs cultures respectives.
-
 
 
 

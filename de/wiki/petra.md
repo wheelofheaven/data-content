@@ -6,6 +6,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.avif"
+image_alt = "Die in rosaroten Sandstein gehauenen nabatäischen Fassaden von Petra, in eine Canyonwand geschnitten und von tiefem goldenem Licht beleuchtet."
+image_caption = "Petra — die in Fels gehauene nabatäische Hauptstadt im Zentrum der Qibla-Orientierungshypothese."
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"

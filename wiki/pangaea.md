@@ -6,6 +6,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.avif"
+image_alt = "A single vast supercontinent surrounded by one world-ocean, seen from high altitude — the antediluvian landmass."
+image_caption = "Pangaea — the single antediluvian landmass, substrate of the Eden and dispersed-civilisation phases."
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"

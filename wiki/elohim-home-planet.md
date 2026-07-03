@@ -6,6 +6,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.avif"
+image_alt = "A tranquil extrasolar coastline — lush exotic vegetation and azure seas beneath a large, low sun."
+image_caption = "The Elohim home world as the source describes it: mild, lush, azure-sea'd, beneath a larger star."
 editorial_pass = "2026-05"
 category = "Elohim"
 entry_type = "place"

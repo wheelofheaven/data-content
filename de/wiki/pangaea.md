@@ -5,6 +5,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.avif"
+image_alt = "Ein einziger gewaltiger Superkontinent, umgeben von einem Weltozean, aus großer Höhe gesehen — die vorsintflutliche Landmasse."
+image_caption = "Pangaea — die einzige vorsintflutliche Landmasse, Grundlage der Eden- und der verstreuten Zivilisationsphasen."
 translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"

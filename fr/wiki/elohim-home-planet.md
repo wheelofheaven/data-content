@@ -5,6 +5,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.avif"
+image_alt = "Un littoral extrasolaire paisible — végétation exotique luxuriante et mer azur sous un grand soleil bas."
+image_caption = "Le monde d’origine des Élohim tel que le décrit la source : doux, luxuriant, aux mers azur, sous une étoile plus grande."
 translation_status = "metadata_only"
 editorial_pass = "2026-05"
 category = "Elohim"

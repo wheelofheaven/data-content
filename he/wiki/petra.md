@@ -6,6 +6,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.avif"
+image_alt = "חזיתותיה הנבטיות החצובות בסלע של פטרה, מגולפות באבן חול ורודה־אדומה בצוק קניון תחת אור זהוב נמוך."
+image_caption = "פטרה — בירת הנבטים החצובה בסלע, במרכז השערת כיוון הקיבלה."
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"

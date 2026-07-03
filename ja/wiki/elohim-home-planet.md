@@ -5,6 +5,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.avif"
+image_alt = "大きく低い太陽の下、豊かな異国の植生と紺碧の海が広がる静かな太陽系外の海岸。"
+image_caption = "資料が記すエロヒムの故郷世界——温暖で緑豊か、紺碧の海をもち、より大きな恒星の下にある。"
 translation_status = "metadata_only"
 editorial_pass = "2026-05"
 category = "Elohim"

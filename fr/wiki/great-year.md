@@ -86,6 +86,8 @@ L'unité de 72 ans correspond à un degré de mouvement précessionnel à traver
 
 ### Les subdivisions de la Grande Année
 
+{{ diagram(name="great-year", alt="Une roue divisée en douze Ères égales, une par signe du zodiaque, représentant la Grande Année d'environ 25 772 ans ; un indicateur marque la frontière actuelle entre les Poissons et le Verseau.", caption="La Grande Année comme roue de douze **Ères** (Grands Mois) d'environ 2 160 ans chacune. La précession entraîne l'équinoxe à rebours à travers le zodiaque d'environ 1° tous les 72 ans ; il se situe désormais à la charnière Poissons → Verseau, entrant dans l'**Ère du Verseau**.") }}
+
 La Grande Année complète de 25 920 ans admet une subdivision structurée en unités chronologiques plus petites qui reflètent la structure de l'année ordinaire :
 
 - **Le Grand Mois** (un douzième de la Grande Année, ~2 160 ans) — correspondant à un signe zodiacal (30° de précession écliptique) ; développé longuement dans l'entrée [Grand Mois](../great-month/)

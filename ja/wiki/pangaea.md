@@ -5,6 +5,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.avif"
+image_alt = "一つの世界海に囲まれた巨大な単一超大陸を高空から望む——大洪水前の陸塊。"
+image_caption = "パンゲア——エデン期と文明分散期の基盤となった、単一の大洪水前陸塊。"
 translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"

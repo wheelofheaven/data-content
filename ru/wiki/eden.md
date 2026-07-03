@@ -13,6 +13,10 @@ entry_type = "place"
 claim_type = "inferred"
 alternative_names = ["Эдемский сад", "gan-ʿĒden", "גַּן־עֵדֶן", "Рай"]
 timeline = ["leo", "cancer"]
+image = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.avif"
+image_alt = "Живописный вид замкнутого сада в речной долине на рассвете, где расходятся четыре водотока."
+image_caption = "Эдем как место — замкнутый сад четырёх рек из Бытия 2."
 
 see_also = [
     { title = "Адам и Ева", path = "/wiki/adam-and-eve/", description = "Двое первых людей, помещённых в сад." },

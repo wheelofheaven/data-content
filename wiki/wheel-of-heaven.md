@@ -120,6 +120,8 @@ The project name carries a dual semantic content that the corpus engages substan
 
 ### "Wheel" — the precessional cycle
 
+{{ diagram(name="wheel-of-heaven", alt="A twelve-spoke wheel of the precessional ages, each read as a phase of the alliance's project — Leo (humans made), Cancer (Eden), Gemini (the Flood), Taurus (Babel), Aries (the prophets), Pisces (the gospels), and Aquarius, the current age.", caption="The **Wheel of Heaven** proper: the twelve ~2,160-year precessional ages, each read as an operational phase of the alliance's project. Ages advance clockwise; the equinox now stands at the Pisces → Aquarius cusp.") }}
+
 The principal meaning of "Wheel of Heaven" is the **precessional cycle**. The cycle is produced by the slow conical wobble of Earth's rotational axis under gravitational torque from the sun and moon — a real astronomical phenomenon completing one full rotation every approximately 25,920 years. As the axis traces its conical motion, the celestial pole moves slowly across the sky and the vernal-equinox point (the place where the sun rises on the first day of spring) drifts backward through the zodiacal constellations at approximately 2,160 years per constellation. The detailed treatment of the precessional cycle and its mechanics lives in the [World Age](../world-age/) entry; the detailed treatment of the zodiacal framework lives in the [Zodiac](../zodiac/) entry.
 
 The framework reads the precessional cycle as the principal organizing temporal-cosmological structure of the entire corpus narrative. Each of twelve precessional ages — Capricorn, Sagittarius, Scorpio, Libra, Virgo, Leo, Cancer, Gemini, Taurus, Aries, Pisces, Aquarius — operates as an engineering-operational phase of the alliance's twenty-two-thousand-year project on Earth, with specific tasks, characteristic interventions, and a doubled astronomical signature encoded in the religious-iconographic tradition of the cultures the alliance cultivated during that age.
@@ -267,6 +269,8 @@ The corpus operates through several substantive editorial principles articulated
 
 ### The four-tier epistemic distinction
 
+{{ diagram(name="epistemic-tiers", alt="A four-tier pyramid: direct source claims at the firm base, then comparative observations, then Wheel of Heaven interpretation, with open questions at the interpretive apex.", caption="The four tiers of content the corpus keeps visibly separate — from direct source claims (firmest, at the base) up through comparative observations and corpus-level interpretation to open questions left explicitly unresolved.") }}
+
 The corpus consistently distinguishes between four tiers of content:
 
 1. **Direct source claims** — what a specific source directly asserts (with attribution to the source)
@@ -326,6 +330,8 @@ The detailed editorial governance lives in the project's `01-editorial-style.md`
 The Wheel of Heaven framework operates across the broader corpus through several principal architectural relationships.
 
 ### The principal temporal architecture
+
+{{ diagram(name="world-ages-timeline", alt="A horizontal timeline of the twelve contiguous precessional ages from the Age of Capricorn (~21,810 BCE, project opening) to the Age of Aquarius (from 1,950 CE, the current age), with key events marked under Leo, Cancer, Gemini, Taurus, Aries, and Pisces.", caption="The precessional-age framework as a timeline: twelve contiguous ~2,160-year ages carrying the corpus's narrative from the project's opening in the Age of Capricorn to the current Age of Aquarius.") }}
 
 The corpus's principal temporal architecture is the precessional-age framework, with each of the twelve precessional ages receiving substantive treatment in a dedicated entry. The detailed treatment of the precessional architecture lives in the [World Age](../world-age/) entry; the constellational-symbolic complement lives in the [Zodiac](../zodiac/) entry.
 

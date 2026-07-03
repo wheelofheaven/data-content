@@ -6,6 +6,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.avif"
+image_alt = "קו חוף שלֵו בעולם חוץ־שמשי — צמחייה אקזוטית שופעת וימים תכולים תחת שמש גדולה ונמוכה."
+image_caption = "עולם הבית של האלוהים כפי שמתאר אותו המקור: מתון, שופע, בעל ימים תכולים, תחת כוכב גדול יותר."
 translation_status = "metadata_only"
 editorial_pass = "2026-05"
 category = "Elohim"

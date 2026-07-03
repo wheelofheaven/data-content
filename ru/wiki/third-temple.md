@@ -5,6 +5,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.avif"
+image_alt = "Безмятежный обнесённый стеной храмово-жилой комплекс на возвышенности с упорядоченными дворами в вечернем свете."
+image_caption = "Третий Храм как Посольство — резиденция приёма из восстановительного видения Иезекииля."
 translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"

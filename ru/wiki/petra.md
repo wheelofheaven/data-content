@@ -6,6 +6,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.avif"
+image_alt = "Набатейские фасады Петры, высеченные в розово-красном песчанике каньонной скалы под низким золотистым светом."
+image_caption = "Петра — высеченная в скале набатейская столица в центре гипотезы об ориентации киблы."
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"

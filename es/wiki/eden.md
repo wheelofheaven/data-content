@@ -13,6 +13,10 @@ entry_type = "place"
 claim_type = "inferred"
 alternative_names = ["Jardín del Edén", "gan-ʿĒden", "גַּן־עֵדֶן", "Paraíso"]
 timeline = ["leo", "cancer"]
+image = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.avif"
+image_alt = "Una vista pictórica de un jardín cerrado en un valle fluvial al amanecer, con cuatro cursos de agua que divergen."
+image_caption = "Edén como lugar — el jardín cerrado de los cuatro ríos de Génesis 2."
 
 see_also = [
     { title = "Adán y Eva", path = "/wiki/adam-and-eve/", description = "Los dos primeros humanos colocados en el jardín." },

@@ -6,6 +6,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.avif"
+image_alt = "Las fachadas nabateas excavadas en la roca de Petra, talladas en arenisca rosada en un acantilado del cañón bajo una luz dorada y rasante."
+image_caption = "Petra — la capital nabatea excavada en la roca, en el centro de la hipótesis sobre la orientación de la alquibla."
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"

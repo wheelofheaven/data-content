@@ -13,6 +13,10 @@ entry_type = "place"
 claim_type = "inferred"
 alternative_names = ["Garden of Eden", "gan-ʿĒden", "גַּן־עֵדֶן", "Paradise"]
 timeline = ["leo", "cancer"]
+image = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.avif"
+image_alt = "A painterly landscape of a primeval, enclosed river-valley garden at dawn, with four watercourses diverging."
+image_caption = "Eden as place — the enclosed four-rivers garden of Genesis 2."
 
 see_also = [
     { title = "Adam and Eve", path = "/wiki/adam-and-eve/", description = "The two first humans placed in the garden." },

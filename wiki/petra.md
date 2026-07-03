@@ -6,6 +6,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.avif"
+image_alt = "The rock-cut Nabataean façades of Petra in rose-red sandstone, carved into a canyon cliff under low golden light."
+image_caption = "Petra — the rock-cut Nabataean capital at the centre of the qibla-orientation hypothesis."
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"

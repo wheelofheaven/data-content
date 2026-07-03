@@ -5,6 +5,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.avif"
+image_alt = "저녁빛 속 높은 지대에 정돈된 뜰을 갖춘 평온한 성벽형 성전·거주 복합단지."
+image_caption = "대사관으로 읽는 제3성전 — 에스겔의 회복 환상에 나타난 영접 거처."
 translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"

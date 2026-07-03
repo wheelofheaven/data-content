@@ -5,6 +5,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.avif"
+image_alt = "Un único y vasto supercontinente rodeado por un océano mundial, visto desde gran altitud — la masa terrestre antediluviana."
+image_caption = "Pangea — la única masa terrestre antediluviana, sustrato de las fases de Edén y de las civilizaciones dispersas."
 translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"

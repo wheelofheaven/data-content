@@ -120,6 +120,8 @@ Le nom du projet porte un contenu sémantique double que le corpus engage substa
 
 ### « Roue » — le cycle précessionnel
 
+{{ diagram(name="wheel-of-heaven", alt="Une roue à douze rayons des ères précessionnelles, chacune lue comme une phase du projet de l'alliance — le Lion (humains créés), le Cancer (Éden), les Gémeaux (le Déluge), le Taureau (Babel), le Bélier (les prophètes), les Poissons (les Évangiles), et le Verseau, l'ère actuelle.", caption="La **Roue du Ciel** proprement dite : les douze ères précessionnelles d'environ 2 160 ans, chacune lue comme une phase opérationnelle du projet de l'alliance. Les ères avancent dans le sens horaire ; l'équinoxe se situe désormais à la charnière Poissons → Verseau.") }}
+
 Le sens principal de « Wheel of Heaven » est le **cycle précessionnel**. Le cycle est produit par le lent vacillement conique de l'axe de rotation de la Terre sous l'effet du couple gravitationnel du soleil et de la lune — phénomène astronomique réel qui accomplit une rotation complète tous les ~25 920 ans environ. À mesure que l'axe trace son mouvement conique, le pôle céleste se déplace lentement à travers le ciel et le point de l'équinoxe vernal (le lieu où le soleil se lève le premier jour du printemps) dérive vers l'arrière à travers les constellations zodiacales au rythme d'environ 2 160 ans par constellation. Le traitement détaillé du cycle précessionnel et de sa mécanique vit dans l'entrée [Âge du monde](../world-age/) ; le traitement détaillé du cadre zodiacal vit dans l'entrée [Zodiaque](../zodiac/).
 
 Le cadre lit le cycle précessionnel comme la principale structure temporelle-cosmologique organisatrice du récit du corpus tout entier. Chacune des douze ères précessionnelles — Capricorne, Sagittaire, Scorpion, Balance, Vierge, Lion, Cancer, Gémeaux, Taureau, Bélier, Poissons, Verseau — opère comme phase d'ingénierie-opérationnelle du projet de vingt-deux mille ans de l'alliance sur Terre, avec des tâches spécifiques, des interventions caractéristiques, et une signature astronomique doublée encodée dans la tradition religieuse-iconographique des cultures que l'alliance cultivait durant cette ère.
@@ -267,6 +269,8 @@ Le corpus opère à travers plusieurs principes éditoriaux substantiels articul
 
 ### La distinction épistémique à quatre niveaux
 
+{{ diagram(name="epistemic-tiers", alt="Une pyramide à quatre niveaux : les assertions directes des sources à la base solide, puis les observations comparées, puis l'interprétation Wheel of Heaven, avec les questions ouvertes au faîte interprétatif.", caption="Les quatre niveaux de contenu que le corpus tient visiblement séparés — des assertions directes des sources (les plus solides, à la base) aux observations comparées et à l'interprétation au niveau du corpus, jusqu'aux questions ouvertes laissées explicitement irrésolues.") }}
+
 Le corpus distingue systématiquement entre quatre niveaux de contenu :
 
 1. **Assertions directes des sources** — ce qu'une source spécifique affirme directement (avec attribution à la source)
@@ -326,6 +330,8 @@ La gouvernance éditoriale détaillée vit dans le document de gouvernance `01-e
 Le cadre Wheel of Heaven opère à travers le corpus plus large grâce à plusieurs relations architecturales principales.
 
 ### L'architecture temporelle principale
+
+{{ diagram(name="world-ages-timeline", alt="Une chronologie horizontale des douze ères précessionnelles contiguës, de l'Ère du Capricorne (~21 810 av. J.-C., ouverture du projet) à l'Ère du Verseau (à partir de 1950 apr. J.-C., l'ère actuelle), avec les événements clés marqués sous le Lion, le Cancer, les Gémeaux, le Taureau, le Bélier et les Poissons.", caption="Le cadre des ères précessionnelles comme chronologie : douze ères contiguës d'environ 2 160 ans portant le récit du corpus depuis l'ouverture du projet à l'Ère du Capricorne jusqu'à l'actuelle Ère du Verseau.") }}
 
 L'architecture temporelle principale du corpus est le cadre des ères précessionnelles, chacune des douze ères précessionnelles recevant un traitement substantiel dans une entrée dédiée. Le traitement détaillé de l'architecture précessionnelle vit dans l'entrée [Âge du monde](../world-age/) ; le complément constellationnel-symbolique vit dans l'entrée [Zodiaque](../zodiac/).
 

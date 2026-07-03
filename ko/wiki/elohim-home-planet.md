@@ -5,6 +5,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.avif"
+image_alt = "크고 낮게 뜬 태양 아래 무성한 이국적 식생과 푸른 바다가 펼쳐진 고요한 외계 해안."
+image_caption = "자료가 묘사하는 엘로힘의 고향 세계 — 온화하고 무성하며 푸른 바다를 품고 더 큰 별 아래 놓인 곳."
 translation_status = "metadata_only"
 editorial_pass = "2026-05"
 category = "Elohim"

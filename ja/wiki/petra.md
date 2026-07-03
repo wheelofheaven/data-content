@@ -6,6 +6,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.avif"
+image_alt = "低い金色の光に照らされた峡谷の断崖に、赤みを帯びた砂岩から直接刻まれたペトラのナバテア人ファサード。"
+image_caption = "ペトラ——キブラ方位仮説の中心となる、岩窟造りのナバテア王国首都。"
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"

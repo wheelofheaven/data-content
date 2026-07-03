@@ -6,6 +6,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.avif"
+image_alt = "יבשת־על עצומה יחידה המוקפת באוקיינוס עולמי אחד, במבט מגובה רב — גוש היבשה שקדם למבול."
+image_caption = "פנגיאה — גוש היבשה היחיד שקדם למבול, התשתית הגאוגרפית לשלבי עדן והציוויליזציות הפזורות."
 translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"

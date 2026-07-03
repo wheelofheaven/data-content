@@ -6,6 +6,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.avif"
+image_alt = "Les façades nabatéennes de Pétra, taillées dans le grès rose d’une falaise de canyon sous une lumière dorée rasante."
+image_caption = "Pétra — la capitale nabatéenne taillée dans la roche, au centre de l’hypothèse sur l’orientation de la qibla."
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"

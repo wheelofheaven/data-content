@@ -13,6 +13,10 @@ entry_type = "place"
 claim_type = "inferred"
 alternative_names = ["에덴 동산", "gan-ʿĒden", "גַּן־עֵדֶן", "낙원"]
 timeline = ["leo", "cancer"]
+image = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.avif"
+image_alt = "새벽녘, 네 물줄기가 갈라지는 둘러싸인 강 계곡 정원을 그린 회화적 풍경."
+image_caption = "장소로서의 에덴 — 창세기 2장의 네 강이 흐르는 둘러싸인 정원."
 
 see_also = [
     { title = "아담과 하와", path = "/wiki/adam-and-eve/", description = "에덴 동산에 놓인 최초의 두 인간." },

@@ -5,6 +5,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.avif"
+image_alt = "夕光中坐落於高地、庭院井然的寧靜圍牆式聖殿與居所建築群。"
+image_caption = "作為大使館解讀的第三聖殿——以西結復興異象中的迎賓居所。"
 translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"

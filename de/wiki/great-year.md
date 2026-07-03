@@ -86,6 +86,8 @@ Die Einheit von 72 Jahren entspricht einem Grad präzessionaler Bewegung entlang
 
 ### Die Unterteilungen des Großen Jahres
 
+{{ diagram(name="great-year", alt="Ein Rad, geteilt in zwölf gleiche Zeitalter, eines je Tierkreiszeichen, das das ~25.772 Jahre lange Große Jahr zeigt; ein Zeiger markiert die aktuelle Grenze Fische–Wassermann.", caption="Das Große Jahr als Rad aus zwölf **Zeitaltern** (Großen Monaten) von je ~2.160 Jahren. Die Präzession trägt den Frühlingspunkt rückläufig durch den Tierkreis, etwa 1° je 72 Jahre; er steht nun an der Grenze Fische → Wassermann und tritt in das **Wassermann-Zeitalter** ein.") }}
+
 Das vollständige Große Jahr von 25.920 Jahren lässt eine strukturierte Unterteilung in kleinere chronologische Einheiten zu, die die Struktur des gewöhnlichen Jahres spiegeln:
 
 - **Der Große Monat** (ein Zwölftel des Großen Jahres, ~2.160 Jahre) — entspricht einem Tierkreiszeichen (30° ekliptikaler Präzession); ausführlich behandelt im Eintrag [Großer Monat](../great-month/)

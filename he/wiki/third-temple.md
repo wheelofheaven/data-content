@@ -6,6 +6,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.avif"
+image_alt = "מתחם שלֵו ומוקף חומה של מקדש ומגורים על גבעה, ובו חצרות סדורות באור ערב."
+image_caption = "בית המקדש השלישי כקריאה של השגרירות — משכן הקבלה בחזון השיקום של יחזקאל."
 translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"

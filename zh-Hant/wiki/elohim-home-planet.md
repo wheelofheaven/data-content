@@ -5,6 +5,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.avif"
+image_alt = "寧靜的太陽系外海岸——繁茂的異域植被與蔚藍海洋，籠罩在一輪巨大而低垂的太陽之下。"
+image_caption = "源材料所描述的耶洛因母星：氣候溫和、植被繁茂、海洋蔚藍，位於一顆更大恆星之下。"
 translation_status = "metadata_only"
 editorial_pass = "2026-05"
 category = "Elohim"

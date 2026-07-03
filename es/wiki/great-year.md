@@ -86,6 +86,8 @@ La unidad de 72 años corresponde a un grado de movimiento precesional a través
 
 ### Las subdivisiones del Gran Año
 
+{{ diagram(name="great-year", alt="Una rueda dividida en doce eras iguales, una por signo zodiacal, que muestra el Gran Año de ~25.772 años; un puntero marca la actual frontera Piscis–Acuario.", caption="El Gran Año como rueda de doce **eras** (Grandes Meses) de ~2.160 años cada una. La precesión arrastra el equinoccio hacia atrás a través del zodíaco a razón de aproximadamente 1° cada 72 años; ahora se sitúa en la cúspide Piscis → Acuario, entrando en la **Era de Acuario**.") }}
+
 El Gran Año completo de 25.920 años admite una subdivisión estructurada en unidades cronológicas más pequeñas que reflejan la estructura del año ordinario:
 
 - **El Gran Mes** (una doceava parte del Gran Año, ~2.160 años) — correspondiente a un signo zodiacal (30° de precesión eclíptica); desarrollado extensamente en la entrada de [Gran Mes](../great-month/)

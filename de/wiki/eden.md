@@ -13,6 +13,10 @@ entry_type = "place"
 claim_type = "inferred"
 alternative_names = ["Garten Eden", "gan-ʿĒden", "גַּן־עֵדֶן", "Paradies"]
 timeline = ["leo", "cancer"]
+image = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.avif"
+image_alt = "Eine malerische Ansicht eines umschlossenen Flusstalgartens im Morgengrauen, in dem vier Wasserläufe auseinanderfließen."
+image_caption = "Eden als Ort — der umschlossene Garten der vier Flüsse aus Genesis 2."
 
 see_also = [
     { title = "Adam und Eva", path = "/de/wiki/adam-and-eve/", description = "Die beiden ersten Menschen, die in den Garten gesetzt wurden." },

@@ -5,6 +5,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.avif"
+image_alt = "Спокойное побережье внесолнечного мира — пышная экзотическая растительность и лазурное море под большим низким солнцем."
+image_caption = "Родной мир Элохим в описании источника: мягкий, пышный, с лазурными морями, под более крупной звездой."
 translation_status = "metadata_only"
 editorial_pass = "2026-05"
 category = "Elohim"

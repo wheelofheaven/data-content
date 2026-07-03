@@ -13,6 +13,10 @@ entry_type = "place"
 claim_type = "inferred"
 alternative_names = ["伊甸園", "gan-ʿĒden", "גַּן־עֵדֶן", "樂園"]
 timeline = ["leo", "cancer"]
+image = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.avif"
+image_alt = "黎明時分一座封閉河谷園林的繪畫式景觀，四條水道自此分流。"
+image_caption = "作為地點的伊甸——《創世記》第2章中封閉的四河園林。"
 
 see_also = [
     { title = "亞當與夏娃", path = "/wiki/adam-and-eve/", description = "安置於園中的最初兩位人類。" },

@@ -5,6 +5,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.avif"
+image_alt = "Ein friedvoller ummauerter Tempel- und Residenzkomplex auf einer Anhöhe mit geordneten Höfen im Abendlicht."
+image_caption = "Der Dritte Tempel als Botschaft gelesen — die Empfangsresidenz aus Ezechiels Wiederherstellungsvision."
 translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"

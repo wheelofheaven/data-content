@@ -120,6 +120,8 @@ Der Projektname trägt einen doppelten semantischen Gehalt, mit dem sich der Kor
 
 ### „Rad" — der präzessionale Zyklus
 
+{{ diagram(name="wheel-of-heaven", alt="Ein zwölfspeichiges Rad der Präzessionszeitalter, jedes als Phase des Projekts der Allianz gelesen — Löwe (Menschen erschaffen), Krebs (Eden), Zwillinge (die Sintflut), Stier (Babel), Widder (die Propheten), Fische (die Evangelien) und Wassermann, das aktuelle Zeitalter.", caption="Das **Rad des Himmels** im eigentlichen Sinne: die zwölf rund 2.160 Jahre langen Präzessionszeitalter, jedes als operative Phase des Projekts der Allianz gelesen. Die Zeitalter schreiten im Uhrzeigersinn voran; der Äquinoktialpunkt steht nun an der Grenze Fische → Wassermann.") }}
+
 Die zentrale Bedeutung von „Wheel of Heaven" ist der **präzessionale Zyklus**. Der Zyklus entsteht durch das langsame kegelförmige Taumeln der Erdrotationsachse unter dem Gravitationsdrehmoment von Sonne und Mond — ein reales astronomisches Phänomen, das eine vollständige Umdrehung in etwa 25.920 Jahren vollzieht. Während die Achse ihre Kegelbewegung beschreibt, wandert der Himmelspol langsam über den Himmel und der Frühlingsäquinoktialpunkt (die Stelle, an der die Sonne am ersten Frühlingstag aufgeht) wandert rückwärts mit etwa 2.160 Jahren pro Sternbild durch die Tierkreiszeichen. Die ausführliche Behandlung des präzessionalen Zyklus und seiner Mechanik findet sich im Eintrag [Weltalter](../world-age/); die ausführliche Behandlung des Tierkreissystems im Eintrag [Tierkreis](../zodiac/).
 
 Der Rahmen liest den präzessionalen Zyklus als die zentrale organisierende temporal-kosmologische Struktur der gesamten Korpuserzählung. Jedes der zwölf präzessionalen Zeitalter — Steinbock, Schütze, Skorpion, Waage, Jungfrau, Löwe, Krebs, Zwillinge, Stier, Widder, Fische, Wassermann — operiert als eine ingenieursmäßig-operative Phase des zweiundzwanzigtausendjährigen Projekts des Bündnisses auf Erden, mit spezifischen Aufgaben, charakteristischen Eingriffen und einer doppelten astronomischen Signatur, die in der religiös-ikonographischen Tradition der vom Bündnis in diesem Zeitalter gepflegten Kulturen kodiert ist.
@@ -267,6 +269,8 @@ Der Korpus operiert nach mehreren substanziellen redaktionellen Prinzipien, die 
 
 ### Die vierstufige epistemische Unterscheidung
 
+{{ diagram(name="epistemic-tiers", alt="Eine vierstufige Pyramide: direkte Quellenaussagen an der festen Basis, dann vergleichende Beobachtungen, dann Wheel-of-Heaven-Deutung, mit offenen Fragen an der deutenden Spitze.", caption="Die vier Inhaltsstufen, die der Korpus sichtbar getrennt hält — von direkten Quellenaussagen (am festesten, an der Basis) über vergleichende Beobachtungen und die Deutung auf Korpusebene bis zu offenen Fragen, die ausdrücklich ungelöst bleiben.") }}
+
 Der Korpus unterscheidet durchgängig zwischen vier Inhaltsstufen:
 
 1. **Direkte Quellenaussagen** — was eine bestimmte Quelle direkt behauptet (mit Zuschreibung an die Quelle)
@@ -326,6 +330,8 @@ Die ausführliche redaktionelle Governance findet sich im Governance-Dokument `0
 Der Wheel-of-Heaven-Rahmen operiert im breiteren Korpus durch mehrere zentrale architektonische Beziehungen.
 
 ### Die zentrale temporale Architektur
+
+{{ diagram(name="world-ages-timeline", alt="Eine horizontale Zeitleiste der zwölf zusammenhängenden Präzessionszeitalter vom Zeitalter des Steinbocks (~21.810 v. u. Z., Projektbeginn) bis zum Zeitalter des Wassermanns (ab 1950 u. Z., das aktuelle Zeitalter), mit wichtigen Ereignissen unter Löwe, Krebs, Zwillinge, Stier, Widder und Fische.", caption="Der Präzessionszeitalter-Rahmen als Zeitleiste: zwölf zusammenhängende, rund 2.160 Jahre lange Zeitalter, die die Erzählung des Korpus vom Projektbeginn im Zeitalter des Steinbocks bis zum aktuellen Zeitalter des Wassermanns tragen.") }}
 
 Die zentrale temporale Architektur des Korpus ist der präzessionale Zeitalterrahmen, wobei jedes der zwölf präzessionalen Zeitalter eine substanzielle Behandlung in einem eigenen Eintrag erhält. Die ausführliche Behandlung der präzessionalen Architektur findet sich im Eintrag [Weltalter](../world-age/); das konstellations-symbolische Pendant im Eintrag [Tierkreis](../zodiac/).
 

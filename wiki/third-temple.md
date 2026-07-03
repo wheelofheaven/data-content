@@ -6,6 +6,10 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+image = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.avif"
+image_alt = "A serene walled temple-and-residence complex on a height, with ordered courts, in evening light."
+image_caption = "The Third Temple read as the Embassy — the reception residence of Ezekiel's restoration vision."
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
