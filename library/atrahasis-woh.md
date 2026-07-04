@@ -1,7 +1,7 @@
 +++
 title = "Atra-ḫasīs"
 slug = "atrahasis-woh"
-description = "Atra-ḫasīs, Tablet I — the Wheel of Heaven Translation from the Old Babylonian Akkadian: humankind fashioned from clay and a slain god's flesh and blood to bear the gods' labor."
+description = "Atra-ḫasīs — the Wheel of Heaven Translation of the complete Old Babylonian epic (Tablets I–III): humankind made from clay and a slain god's blood to bear the gods' labor, the population-control plagues, and the Flood."
 template = "library-book.html"
 date = 2026-07-04
 
@@ -35,5 +35,13 @@ pending. The clay-and-divine-blood, made-to-serve motif stands here in
 its own terms; the comparative reading — its relation to Genesis 2:7's
 dust-and-breath, and to the wider Wheel of Heaven frame — is developed
 in the encyclopedia and the Explainers, not imposed on the text.
-Initial scope is Tablet I; the plagues and the flood (Tablets II–III)
-remain to come.
+
+The translation now covers the **whole epic across all three tablets**:
+Tablet I (the labor of the lesser gods and the making of humankind),
+Tablet II (the clamor of a too-numerous humanity and the plagues,
+drought, and famine by which the gods try to thin it), and Tablet III
+(the Flood, the gods' regret and hunger when cut off from their
+offerings, and the new mortal order — settled death and permanent
+limits on human fertility). The overpopulation-as-problem and the
+deliberate population-control stand in the Akkadian in their own
+terms.
