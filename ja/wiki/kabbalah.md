@@ -219,6 +219,16 @@ The substantial corpus position registers a fourth component as well:
 
 **4. The esoteric-protection function.** The Kabbalah's substantial esoteric-restricted character preserved the content against the distortion that more widely distributed traditions suffered. This is a structural observation about the substantial pedagogy-of-traditions: traditions distributed widely become subject to substantial popular distortion; traditions transmitted only to initiated students within specific learned circles preserve their content with greater fidelity. The Kabbalah operates as the substantial example of this latter pattern within the broader Western religious-textual landscape.
 
+### *Shi'ur Qomah*——「真実に最も近い書」の主張の背後にあるテクスト
+
+「真実に最も近い書」の一節は単独では成り立たない。ヤハウェは同じ文脈のうちに二つの具体的な数値——「創造主の身長」236,000 *parasangs* と「その踵の高さ」3,000万——を挙げ、それらを *"the Song of Songs (V)"* に帰している。これらの数値は実在するが、上で扱った *Zohar* や *sephirot* に関わる資料に由来する**のではない**。それらはより古い特定のテクスト、すなわち ***Shi'ur Qomah***(ヘブライ語 שִׁעוּר קוֹמָה、*šiʿur qômāh*、「身丈の尺度」)——天使メタトロン(Metatron)が神的身体の宇宙的な寸法を手足ごとに口述し、各部位を *parasangs* で測り、秘密の名で呼ぶ、**前カバラ的なヘカロート/メルカバー文学**(pre-Kabbalistic Hekhalot / Merkavah literature)の一書——に由来する。出典テクストを正しく同定することは、コーパス内に長く存在してきた出典上の緊張を解消する。すなわち、この一節が引く「カバラ」は中世の古典カバラではまったくなく、それに先行する古代末期の神秘主義的地層なのである。
+
+236 という数は、詩篇 147:5(*gadol adoneinu ve-rav koaḥ*、「われらの主は大いなるかな、その力は大いなるかな」、その文字の総和が 236 になる)から *gematria* によって導かれる。「足の裏」を指す 3,000万 *parasangs* という数値と、切り詰められた「236,000」という総計は、いずれも写本伝承において確認される異読である(後者は10世紀のカライ派 al-Qirqisānī によって保存された)。このテクストは *Zohar* に数世紀先立つ——Gershom Scholem は2世紀に、Martin Samuel Cohen はガオン期の6~7世紀に位置づけ、一方 Peter Schäfer はこの流動的な文学において「単一のテクストというものは幻想である」と論じる——ものであり、*Sefer Raziel ha-Mal'akh*(アムステルダム、1701年、folio 37b)の内部に収められる形で印刷に付された。まさにこの印刷こそが、秘教的なヘブライ語コーパスの一節を、人が「一部を入手」しうる「書」として記述しえた理由である。
+
+フレームワークの読みにおいて、ヤハウェは欠けていた鍵を提供する。*parasang* は光が1秒間に進む距離(約300,000 km)として再定義され、これにより二つの数値は、[エロヒムの母星](../elohim-home-planet/)の自らの恒星からの距離(約70.8 billion km)と地球からの距離(約0.95 light-year)となる。これらの測定値は神秘主義的な誇張としてではなく、二つの実在する距離の歪められた記録——理解することをやめてもなお忠実に唱え続けた伝統によって保存された記録——として読まれる。
+
+完全な取り扱い——プロジェクト独自の翻訳を通じたテクストの精読、三つ巴の年代論争、主流の「測定=否定神学(apophasis)」的読みと正典による反対解釈、そしてこの一節の正確な形態(ヘブライ語「足の裏」に対する *talons*/「踵」という誤訳、および「Cantique des Cantiques (V)」という引用)が、Scholem の *Major Trends* を経由して Henri Sérouya の1957年のポケット版 *La Kabbale* に遡ることについての新たな知見——は、解説記事 [**真実に最も近い書**](/articles/the-book-closest-to-the-truth/) および [*Shi'ur Qomah*——Wheel of Heaven 訳](/library/shiur-qomah-woh/) において詳述される。
+
 ### The "richest in testimonies" articulation
 
 The Yahweh-articulated framework reading registers the Kabbalah as exceptional within the broader cross-traditional landscape: *"The Kabala especially is one of the richest in testimonies."* The framework reading: the Kabbalah is not merely one tradition among many that preserve fragments of alliance-transmitted content, but specifically among the richest in such content. The substantial concentration of preserved content within the Kabbalistic tradition registers as one of the tradition's principal characteristics.
@@ -617,6 +627,9 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Hebrews](../hebrews/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
+- [エロヒムの母星](../elohim-home-planet/)
+- [*Shi'ur Qomah*——Wheel of Heaven 訳](/library/shiur-qomah-woh/)
+- [真実に最も近い書(解説記事)](/articles/the-book-closest-to-the-truth/)
 
 ## References
 
@@ -731,3 +744,9 @@ White, David Gordon. *The Alchemical Body: Siddha Traditions in Medieval India*.
 "Cabala." *Jewish Encyclopedia*. <https://jewishencyclopedia.com/articles/3878-cabala>
 
 "Zohar." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/15278-zohar>
+
+Cohen, Martin Samuel. *The Shi'ur Qomah: Liturgy and Theurgy in Pre-Kabbalistic Jewish Mysticism*. University Press of America, 1983; and *The Shi'ur Qomah: Texts and Recensions* (TSAJ 9). Mohr Siebeck, 1985. parasang の数値の背後にあるテクストに関する標準的な現代の研究および校訂版。
+
+Schäfer, Peter. *The Hidden and Manifest God: Some Major Themes in Early Jewish Mysticism*. SUNY Press, 1992; and *Synopse zur Hekhalot-Literatur* (TSAJ 2). Mohr Siebeck, 1981.
+
+Sérouya, Henri. *La Kabbale* ("Que sais-je?" no. 1105). Presses Universitaires de France, 1957; 2nd rev. ed. 1967. その Shi'ur Qomah に関する段落が、正典の引く一節の正確な形態を伝えているポケット版。

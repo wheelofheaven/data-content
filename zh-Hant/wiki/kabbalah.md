@@ -219,6 +219,16 @@ The substantial corpus position registers a fourth component as well:
 
 **4. The esoteric-protection function.** The Kabbalah's substantial esoteric-restricted character preserved the content against the distortion that more widely distributed traditions suffered. This is a structural observation about the substantial pedagogy-of-traditions: traditions distributed widely become subject to substantial popular distortion; traditions transmitted only to initiated students within specific learned circles preserve their content with greater fidelity. The Kabbalah operates as the substantial example of this latter pattern within the broader Western religious-textual landscape.
 
+### *Shi'ur Qomah*(希烏爾·科瑪):「最接近之書」主張背後的文本
+
+「最接近之書」這段話並非孤立存在。耶和華在同一段話中援引了兩個具體數字——「造物者的身高」,236,000 *parasangs*,以及「其腳跟的高度」,30 million——並將它們歸於*「the Song of Songs (V)」*(雅歌 V)。這些數字是真實的,但它們**並非**出自*Zohar*,也非出自上文所論的*sephirotic*(sephirot)材料。它們來自一部特定的、更古老的文本:***Shi'ur Qomah***(希伯來文 שִׁעוּר קוֹמָה,*šiʿur qômāh*,「身量的尺度」),這是一部**前卡巴拉的 Hekhalot / Merkavah 文獻**作品,其中天使梅塔特隆逐一口述神聖身體各肢體的宇宙尺寸,每一部位皆以*parasangs*計量並以一個秘密之名命名。正確辨識這一源文本化解了文集中一個長期存在的來源張力:該段所援引的「卡巴拉」根本不是中世紀的古典卡巴拉,而是先於它的晚期古代神秘主義層。
+
+數字 236 是透過*gematria*(字母數值換算)從《詩篇》147:5(*gadol adoneinu ve-rav koaḥ*,「我們的主為大,大有能力」,其字母總和為 236)推導而來;30 million parasangs 的「腳掌」數字與被截短的「236,000」總數,兩者皆為手抄本傳統中所見的異文(後者由十世紀的卡拉派學者 al-Qirqisānī 保存)。此文本早於*Zohar*數個世紀——Gershom Scholem 將其定於二世紀,Martin Samuel Cohen 定於高昂時期(geonic)的六至七世紀,而 Peter Schäfer 則主張在這類流動的文獻中「單一文本是一種幻象」——並且它被收入*Sefer Raziel ha-Mal'akh*(阿姆斯特丹,1701,folio 37b)而付梓。正是這次刊印,才使得一段出自秘傳希伯來文集的文字得以被描述為一本人們可以「取得一份副本」的「書」。
+
+依框架的解讀,耶和華提供了缺失的鑰匙:*parasang* 被重新定義為光在一秒內行進的距離(約 300,000 公里),使得這兩個數字成為[厄羅欣母行星](../elohim-home-planet/)距其自身恆星(約 70.8 billion 公里)與距地球(約 0.95 光年)的距離。這些量測不被讀作神秘主義的誇飾,而被讀作對兩個真實距離的訛誤記錄,由一個忠實背誦其早已不再理解之內容的傳統所保存。
+
+完整的論述——透過本計畫自身的譯本對文本進行細讀、三方的斷代之爭、主流的「量測即否定神學(apophasis)」解讀與正典的反向解讀,以及一項新的發現,說明該段的確切形式(以*talons*/「腳跟」誤譯希伯來文的「腳掌」,以及「Cantique des Cantiques (V)」的引註)如何經由 Scholem 的*Major Trends*上溯至 Henri Sérouya 1957 年的袖珍本*La Kabbale*——皆詳述於釋義文[**最接近真相之書**](/articles/the-book-closest-to-the-truth/)以及[*Shi'ur Qomah* — 天輪譯本](/library/shiur-qomah-woh/)中。
+
 ### The "richest in testimonies" articulation
 
 The Yahweh-articulated framework reading registers the Kabbalah as exceptional within the broader cross-traditional landscape: *"The Kabala especially is one of the richest in testimonies."* The framework reading: the Kabbalah is not merely one tradition among many that preserve fragments of alliance-transmitted content, but specifically among the richest in such content. The substantial concentration of preserved content within the Kabbalistic tradition registers as one of the tradition's principal characteristics.
@@ -617,6 +627,9 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Hebrews](../hebrews/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
+- [厄羅欣母行星](../elohim-home-planet/)
+- [*Shi'ur Qomah* — 天輪譯本](/library/shiur-qomah-woh/)
+- [最接近真相之書(釋義文)](/articles/the-book-closest-to-the-truth/)
 
 ## References
 
@@ -731,3 +744,9 @@ White, David Gordon. *The Alchemical Body: Siddha Traditions in Medieval India*.
 "Cabala." *Jewish Encyclopedia*. <https://jewishencyclopedia.com/articles/3878-cabala>
 
 "Zohar." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/15278-zohar>
+
+Cohen, Martin Samuel. *The Shi'ur Qomah: Liturgy and Theurgy in Pre-Kabbalistic Jewish Mysticism*. University Press of America, 1983;以及 *The Shi'ur Qomah: Texts and Recensions*(TSAJ 9). Mohr Siebeck, 1985。關於 parasang 數字背後文本的標準現代研究與校勘本。
+
+Schäfer, Peter. *The Hidden and Manifest God: Some Major Themes in Early Jewish Mysticism*. SUNY Press, 1992;以及 *Synopse zur Hekhalot-Literatur*(TSAJ 2). Mohr Siebeck, 1981。
+
+Sérouya, Henri. *La Kabbale*(「Que sais-je?」no. 1105). Presses Universitaires de France, 1957;1967 年第二次修訂版。此袖珍本中論 Shi'ur Qomah 的段落,承載了正典所援引之文字的確切形式。

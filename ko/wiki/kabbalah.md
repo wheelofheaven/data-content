@@ -219,6 +219,16 @@ The substantial corpus position registers a fourth component as well:
 
 **4. The esoteric-protection function.** The Kabbalah's substantial esoteric-restricted character preserved the content against the distortion that more widely distributed traditions suffered. This is a structural observation about the substantial pedagogy-of-traditions: traditions distributed widely become subject to substantial popular distortion; traditions transmitted only to initiated students within specific learned circles preserve their content with greater fidelity. The Kabbalah operates as the substantial example of this latter pattern within the broader Western religious-textual landscape.
 
+### *Shi'ur Qomah*: "가장 가까운 책" 주장의 배후에 있는 텍스트
+
+"가장 가까운 책" 구절은 홀로 서 있지 않다. 야훼는 같은 맥락에서 두 개의 구체적 수치를 인용하는데 — "창조자의 키"인 236,000 *parasang*과 "그 발꿈치의 높이"인 30 million — 이를 *"아가서(V)"*에 귀속시킨다. 이 수치들은 실재하지만, 위에서 다룬 *Zohar*나 *sephirot* 관련 자료에서 오는 것이 **아니다**. 이들은 더 오래된 특정 텍스트, 곧 ***Shi'ur Qomah***(히브리어 שִׁעוּר קוֹמָה, *šiʿur qômāh*, "키의 척도")에서 유래하는데, 이는 천사 Metatron이 신적 몸의 우주적 치수를 사지별로 하나하나 받아쓰며 각 부위를 *parasang* 단위로 측정하고 비밀의 이름으로 명명하는 **선(先)카발라적 Hekhalot / Merkavah 문헌**의 저작이다. 출전 텍스트를 올바르게 식별하면 코퍼스 내의 오랜 출전-긴장이 해소된다. 곧 이 구절이 인용하는 "카발라"는 중세의 고전 카발라가 전혀 아니라, 그에 선행하는 고대 후기의 신비주의 지층인 것이다.
+
+236이라는 수는 시편 147:5(*gadol adoneinu ve-rav koaḥ*, "위대하신 우리 주, 그 능력이 크시도다"로, 그 글자들의 합이 236이다)로부터 *gematria*를 통해 산출된다. "발바닥"의 수치인 30 million parasang과 축약된 "236,000" 총계는 모두 사본 전승에서 입증된 이본(異本)들이며(후자는 10세기 카라이파의 al-Qirqisānī가 보존했다), 이 텍스트는 *Zohar*보다 수 세기 앞선다 — Gershom Scholem은 2세기로, Martin Samuel Cohen은 게오님 시대인 6~7세기로 연대를 매기는 한편, Peter Schäfer는 이 유동적 문헌에서 "단일한 텍스트란 환상에 불과하다"고 본다 — 그리고 이 텍스트는 *Sefer Raziel ha-Mal'akh*(Amsterdam, 1701, folio 37b) 안에 담겨 인쇄되었다. 바로 그 인쇄야말로 밀교적 히브리 코퍼스의 한 구절이 누군가가 "사본을 구할" 수 있는 "책"으로 묘사될 수 있었던 이유이다.
+
+프레임워크의 독해에서 야훼는 빠져 있던 열쇠를 제공한다. 곧 *parasang*은 빛이 1초 동안 이동하는 거리(~300,000 km)로 재정의되며, 이로써 두 수치는 [엘로힘의 모행성](../elohim-home-planet/)이 자신의 별로부터 떨어진 거리(~70.8 billion km)와 지구로부터 떨어진 거리(~0.95 light-year)가 된다. 이 측정치들은 신비주의적 과장이 아니라 두 실제 거리에 대한 왜곡된 기록으로 읽히며, 이는 이해하기를 그친 것을 충실히 암송해 온 한 전승이 보존한 것이다.
+
+전체 논의 — 프로젝트 자체의 번역을 통한 텍스트의 정밀 독해, 세 갈래의 연대 논쟁, 주류의 "측정치=부정신학(apophasis)" 독해와 이에 맞선 정경의 반대 독해, 그리고 이 구절의 정확한 형태(히브리어 "발바닥"에 대한 *talons*/"발꿈치" 오역과 "Cantique des Cantiques (V)" 인용)가 Scholem의 *Major Trends*를 경유하여 Henri Sérouya의 1957년 문고본 *La Kabbale*로 소급된다는 새로운 발견 — 는 해설(Explainer) [**진리에 가장 가까운 책**](/articles/the-book-closest-to-the-truth/)과 [*Shi'ur Qomah* — Wheel of Heaven 번역](/library/shiur-qomah-woh/)에 상술되어 있다.
+
 ### The "richest in testimonies" articulation
 
 The Yahweh-articulated framework reading registers the Kabbalah as exceptional within the broader cross-traditional landscape: *"The Kabala especially is one of the richest in testimonies."* The framework reading: the Kabbalah is not merely one tradition among many that preserve fragments of alliance-transmitted content, but specifically among the richest in such content. The substantial concentration of preserved content within the Kabbalistic tradition registers as one of the tradition's principal characteristics.
@@ -617,6 +627,9 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Hebrews](../hebrews/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
+- [엘로힘의 모행성](../elohim-home-planet/)
+- [*Shi'ur Qomah* — Wheel of Heaven 번역](/library/shiur-qomah-woh/)
+- [진리에 가장 가까운 책 (해설)](/articles/the-book-closest-to-the-truth/)
 
 ## References
 
@@ -731,3 +744,9 @@ White, David Gordon. *The Alchemical Body: Siddha Traditions in Medieval India*.
 "Cabala." *Jewish Encyclopedia*. <https://jewishencyclopedia.com/articles/3878-cabala>
 
 "Zohar." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/15278-zohar>
+
+Cohen, Martin Samuel. *The Shi'ur Qomah: Liturgy and Theurgy in Pre-Kabbalistic Jewish Mysticism*. University Press of America, 1983; 그리고 *The Shi'ur Qomah: Texts and Recensions* (TSAJ 9). Mohr Siebeck, 1985. parasang 수치의 배후에 있는 텍스트에 대한 표준적인 현대 연구이자 비평 정본.
+
+Schäfer, Peter. *The Hidden and Manifest God: Some Major Themes in Early Jewish Mysticism*. SUNY Press, 1992; 그리고 *Synopse zur Hekhalot-Literatur* (TSAJ 2). Mohr Siebeck, 1981.
+
+Sérouya, Henri. *La Kabbale* ("Que sais-je?" no. 1105). Presses Universitaires de France, 1957; 제2 개정판 1967. 그 Shi'ur Qomah 단락이 정경이 인용하는 구절의 정확한 형태를 담고 있는 문고본.

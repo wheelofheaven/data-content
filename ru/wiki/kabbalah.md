@@ -219,6 +219,16 @@ The substantial corpus position registers a fourth component as well:
 
 **4. The esoteric-protection function.** The Kabbalah's substantial esoteric-restricted character preserved the content against the distortion that more widely distributed traditions suffered. This is a structural observation about the substantial pedagogy-of-traditions: traditions distributed widely become subject to substantial popular distortion; traditions transmitted only to initiated students within specific learned circles preserve their content with greater fidelity. The Kabbalah operates as the substantial example of this latter pattern within the broader Western religious-textual landscape.
 
+### *Shi'ur Qomah*: текст, стоящий за утверждением о «ближайшей к истине книге»
+
+Пассаж о «ближайшей книге» не стоит особняком. В том же контексте Яхве приводит две конкретные величины — «рост творца», 236,000 *parasangs*, и «высоту его пят», 30 миллионов — и приписывает их *«Песни песней (V)»*. Эти величины реальны, но происходят они **не** из *Zohar* и не из *sephirotic*-материала, разобранного выше. Они восходят к особому, более древнему тексту: ***Shi'ur Qomah*** (иврит שִׁעוּר קוֹמָה, *šiʿur qômāh*, «Мера стана») — сочинению **докаббалистической литературы Hekhalot / Merkavah**, в котором ангел Metatron диктует космические размеры божественного тела, член за членом, каждый из которых измерен в *parasangs* и наделён тайным именем. Верное определение источника снимает давнее противоречие в корпусе: «каббала», на которую ссылается пассаж, — вовсе не средневековая классическая каббала, а предшествующий ей позднеантичный мистический пласт.
+
+Число 236 получено методом *gematria* из Псалма 147:5 (*gadol adoneinu ve-rav koaḥ*, «Велик Господь наш и велика крепость Его», сумма букв которого равна 236); величина «подошв» в 30 миллионов parasangs и усечённый итог «236,000» — обе засвидетельствованы как варианты в рукописной традиции (последний сохранён караимом al-Qirqisānī в десятом веке). Текст на столетия старше *Zohar* — Gershom Scholem датирует его вторым веком, Martin Samuel Cohen — гаонским шестым–седьмым, тогда как Peter Schäfer полагает, что в этой текучей литературе «единый текст — иллюзия» — и он попал в печать в составе *Sefer Raziel ha-Mal'akh* (Амстердам, 1701, лист 37b). Именно это издание объясняет, почему пассаж из эзотерического еврейского корпуса можно было описать как «книгу», «копию» которой удаётся «раздобыть».
+
+В прочтении рамочной модели Яхве даёт недостающий ключ: *parasang* переопределяется как расстояние, которое свет проходит за одну секунду (~300,000 км), и тогда две величины становятся расстоянием [родной планеты Элохимов](../elohim-home-planet/) от её собственной звезды (~70.8 млрд км) и от Земли (~0.95 светового года). Измерения читаются не как мистическая гипербола, а как искажённая запись двух реальных расстояний, сохранённая традицией, которая точно повторяла то, что перестала понимать.
+
+Полный разбор — внимательное чтение текста через собственный перевод проекта, тройной спор о датировке, магистральное прочтение «измерения-как-апофазы» и встречное прочтение канона, а также новое наблюдение о том, как точная форма пассажа (ошибочный перевод *talons*/«пят» вместо еврейских «подошв» и ссылка на «Cantique des Cantiques (V)») восходит к карманной *La Kabbale* Henri Sérouya 1957 года через *Major Trends* Scholem — изложен в статье-разъяснении [**Книга, ближайшая к истине**](/articles/the-book-closest-to-the-truth/) и в [*Shi'ur Qomah* — перевод Wheel of Heaven](/library/shiur-qomah-woh/).
+
 ### The "richest in testimonies" articulation
 
 The Yahweh-articulated framework reading registers the Kabbalah as exceptional within the broader cross-traditional landscape: *"The Kabala especially is one of the richest in testimonies."* The framework reading: the Kabbalah is not merely one tradition among many that preserve fragments of alliance-transmitted content, but specifically among the richest in such content. The substantial concentration of preserved content within the Kabbalistic tradition registers as one of the tradition's principal characteristics.
@@ -617,6 +627,9 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Hebrews](../hebrews/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
+- [Родная планета Элохимов](../elohim-home-planet/)
+- [*Shi'ur Qomah* — перевод Wheel of Heaven](/library/shiur-qomah-woh/)
+- [Книга, ближайшая к истине (разъяснение)](/articles/the-book-closest-to-the-truth/)
 
 ## References
 
@@ -731,3 +744,9 @@ White, David Gordon. *The Alchemical Body: Siddha Traditions in Medieval India*.
 "Cabala." *Jewish Encyclopedia*. <https://jewishencyclopedia.com/articles/3878-cabala>
 
 "Zohar." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/15278-zohar>
+
+Cohen, Martin Samuel. *The Shi'ur Qomah: Liturgy and Theurgy in Pre-Kabbalistic Jewish Mysticism*. University Press of America, 1983; и *The Shi'ur Qomah: Texts and Recensions* (TSAJ 9). Mohr Siebeck, 1985. Основное современное исследование и критическое издание текста, стоящего за величинами в parasangs.
+
+Schäfer, Peter. *The Hidden and Manifest God: Some Major Themes in Early Jewish Mysticism*. SUNY Press, 1992; и *Synopse zur Hekhalot-Literatur* (TSAJ 2). Mohr Siebeck, 1981.
+
+Sérouya, Henri. *La Kabbale* («Que sais-je?» no. 1105). Presses Universitaires de France, 1957; 2-е перераб. изд. 1967. Карманный том, чей абзац о Shi'ur Qomah несёт точную форму пассажа, цитируемого каноном.

@@ -220,6 +220,16 @@ The substantial corpus position registers a fourth component as well:
 
 **4. The esoteric-protection function.** The Kabbalah's substantial esoteric-restricted character preserved the content against the distortion that more widely distributed traditions suffered. This is a structural observation about the substantial pedagogy-of-traditions: traditions distributed widely become subject to substantial popular distortion; traditions transmitted only to initiated students within specific learned circles preserve their content with greater fidelity. The Kabbalah operates as the substantial example of this latter pattern within the broader Western religious-textual landscape.
 
+### שִׁעוּר קוֹמָה: הטקסט שמאחורי טענת "הספר הקרוב ביותר"
+
+הקטע על "הספר הקרוב ביותר" אינו עומד לבדו. באותה נשימה מצטט יהוה שני מספרים קונקרטיים — "גובהו של הבורא", 236,000 *parasangs*, ו"גובה עקביו", 30 מיליון — ומייחס אותם אל *"שיר השירים (V)."* המספרים הללו אמיתיים, אך הם **אינם** מגיעים מן ה*זוהר* או מן החומר ה*ספירותי* שנדון לעיל. הם מגיעים מטקסט מסוים וקדום יותר: ה***שִׁעוּר קוֹמָה*** (עברית שִׁעוּר קוֹמָה, *šiʿur qômāh*, "מידת הקומה"), חיבור מספרות ה**היכלות / מרכבה הטרום־קבלית**, שבו מכתיב המלאך מטטרון (Metatron) את מידותיו הקוסמיות של הגוף האלוהי, אבר אחר אבר, כשכל אחד נמדד ב*parasangs* ונקרא בשם סודי. זיהוי נכון של טקסט המקור פותר מתח־מקורות ותיק בקורפוס: ה"קבלה" שהקטע מצטט אינה הקבלה הקלאסית של ימי הביניים כלל, אלא הרובד המיסטי מן העת העתיקה המאוחרת שקדם לה.
+
+המספר 236 נוצר ב*gematria* מתהילים 147:5 (*gadol adoneinu ve-rav koaḥ*, "גדול אדונינו ורב כוח", שאותיותיו מסתכמות ל־236); הנתון של "כפות הרגליים" — 30 מיליון parasangs — והסך הכולל המקוצר "236,000" הם שניהם גרסאות מתועדות במסורת כתבי היד (האחרונה נשתמרה בידי הקראי al-Qirqisānī בן המאה העשירית). הטקסט קדם ל*זוהר* במאות שנים — Gershom Scholem תיארך אותו למאה השנייה, Martin Samuel Cohen לתקופה הגאונית של המאה השישית–השביעית, בעוד Peter Schäfer סבור שבספרות נזילה זו "הטקסט האחד הוא אשליה" — והוא הובא לדפוס בתוך *Sefer Raziel ha-Mal'akh* (אמסטרדם, 1701, folio 37b). דפוס זה הוא בדיוק הסיבה לכך שקטע מקורפוס עברי אזוטרי יכול היה להיות מתואר כ"ספר" שאפשר "להשיג ממנו עותק".
+
+על פי קריאת המסגרת, יהוה מספק את המפתח החסר: ה*parasang* מוגדר מחדש כמרחק שהאור עובר בשנייה אחת (כ־300,000 ק"מ), ובכך הופכים שני המספרים למרחקו של [כוכב הבית של האלוהים](../elohim-home-planet/) מן הכוכב שלו (כ־70.8 מיליארד ק"מ) ומכדור הארץ (כ־0.95 שנת אור). המידות נקראות לא כהגזמה מיסטית אלא כתיעוד משובש של שני מרחקים ממשיים, שנשתמר בידי מסורת שדקלמה בנאמנות את מה שחדלה להבין.
+
+הדיון המלא — קריאה צמודה של הטקסט דרך התרגום של הפרויקט עצמו, מחלוקת התיארוך המשולשת, הקריאה הרווחת של "מדידה כאפופזיס" וקריאת הנגד של הקאנון, וממצא חדש על האופן שבו צורתו המדויקת של הקטע (שיבוש התרגום *talons*/"עקבים" במקום "כפות רגליו" העבריות, *parsot raglav*, וציטוט "Cantique des Cantiques (V)") מתחקה אל כרך הכיס של Henri Sérouya משנת 1957, *La Kabbale*, דרך *Major Trends* של Scholem — מובא בהרחבה במאמר [**הספר הקרוב ביותר אל האמת**](/articles/the-book-closest-to-the-truth/) וב[*Shi'ur Qomah* — תרגום Wheel of Heaven](/library/shiur-qomah-woh/).
+
 ### The "richest in testimonies" articulation
 
 The Yahweh-articulated framework reading registers the Kabbalah as exceptional within the broader cross-traditional landscape: *"The Kabala especially is one of the richest in testimonies."* The framework reading: the Kabbalah is not merely one tradition among many that preserve fragments of alliance-transmitted content, but specifically among the richest in such content. The substantial concentration of preserved content within the Kabbalistic tradition registers as one of the tradition's principal characteristics.
@@ -618,6 +628,9 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Hebrews](../hebrews/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
+- [כוכב הבית של האלוהים](../elohim-home-planet/)
+- [*Shi'ur Qomah* — תרגום Wheel of Heaven](/library/shiur-qomah-woh/)
+- [הספר הקרוב ביותר אל האמת (מאמר)](/articles/the-book-closest-to-the-truth/)
 
 ## References
 
@@ -732,3 +745,9 @@ White, David Gordon. *The Alchemical Body: Siddha Traditions in Medieval India*.
 "Cabala." *Jewish Encyclopedia*. <https://jewishencyclopedia.com/articles/3878-cabala>
 
 "Zohar." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/15278-zohar>
+
+Cohen, Martin Samuel. *The Shi'ur Qomah: Liturgy and Theurgy in Pre-Kabbalistic Jewish Mysticism*. University Press of America, 1983; and *The Shi'ur Qomah: Texts and Recensions* (TSAJ 9). Mohr Siebeck, 1985. המחקר המודרני הסטנדרטי והמהדורה הביקורתית של הטקסט שמאחורי מספרי ה־parasang.
+
+Schäfer, Peter. *The Hidden and Manifest God: Some Major Themes in Early Jewish Mysticism*. SUNY Press, 1992; and *Synopse zur Hekhalot-Literatur* (TSAJ 2). Mohr Siebeck, 1981.
+
+Sérouya, Henri. *La Kabbale* ("Que sais-je?" no. 1105). Presses Universitaires de France, 1957; 2nd rev. ed. 1967. כרך הכיס שפסקת השִׁעוּר קוֹמָה שבו נושאת את הצורה המדויקת של הקטע שהקאנון מצטט.

@@ -341,7 +341,7 @@ The reading is interpretively substantial without being conclusive. The conventi
 
 ### The Kabbalistic "height of the creator"
 
-The principal Hebrew-textual source for the parasang measurements is the **Kabbalistic Shi'ur Qomah** tradition. The Shi'ur Qomah literature (Hebrew שִׁעוּר קוֹמָה, "the measure of the body/height") is an early-medieval Jewish mystical corpus that articulates the "measure of the divine body" through substantial numerical specifications. The principal content includes substantive parasang measurements of various divine "body parts" — figures that the conventional Kabbalistic interpretation treats as symbolic-anthropomorphic content within the broader mystical-theosophical framework.
+parasang の測定値に関する主たるヘブライ語テクスト上の出典は、**Shi'ur Qomah** の伝統である。Shi'ur Qomah(ヘブライ語 שִׁעוּר קוֹמָה、*šiʿur qômāh*、「身丈の尺度」)は、**前カバラ的なヘカロート/メルカバー**(pre-Kabbalistic Hekhalot / Merkavah)神秘主義文学(古代末期からガオン期にかけて)の一テクストであり、そこでは天使メタトロン(Metatron)が「神的身体の尺度」を、宇宙的な *parasang* の数値の頭から足への列挙として口述し、各部位は秘密の名で呼ばれる。236 という総計は詩篇 147:5 から *gematria* によって導かれ、このテクストは *Sefer Raziel ha-Mal'akh*(アムステルダム、1701年)の内部に収められる形で印刷に付された——これこそが、この資料が「カバラ」を、人が入手しうる書として語りうる理由である。主たる内容は、さまざまな神的な「身体部位」に関するこれらの parasang の測定値であり、それらの数値を、従来の解釈はより広範な神秘主義的=神智学的枠組みのうちの象徴的=擬人的な内容として扱う。
 
 The Vorilhon source treats the Shi'ur Qomah figures as substantive astronomical content. The 236,000 parasangs "height of the creator" reads as the home planet's orbital distance from its star; the 30,000,000 parasangs "height of his heels" reads as the home planet's distance from Earth. The substantive interpretive move: the Kabbalistic tradition preserves authentic content about the home planet's astronomical situation, with the substantial subsequent allegorical-mystical reinterpretation operating as obfuscation of originally concrete content.
 
@@ -350,6 +350,8 @@ The Vorilhon source's broader engagement with the Kabbalistic tradition:
 > *"The Kabala is the closest book to the truth, but almost all religious books allude to us with varying degrees of clarity."*
 
 The Kabbalistic tradition (treated systematically in the [Kabbalah](../kabbalah/) entry) is registered by the source as substantively the closest preservation of the original alliance-transmission content within the post-biblical Jewish tradition. The detailed engagement with the Kabbalistic content operates as one of the corpus's principal source-textual engagements with post-biblical Jewish material.
+
+Shi'ur Qomah の完全な取り扱い——そのテクスト、論争のある年代、主流の「測定=否定神学(apophasis)」的読み、および二つの *parasang* の数値を母星の天文学的距離とする正典による反対解釈——は、解説記事 [**真実に最も近い書**](/articles/the-book-closest-to-the-truth/) において詳述されており、同記事はこのテクストを [*Shi'ur Qomah*——Wheel of Heaven 訳](/library/shiur-qomah-woh/) を通じて読む。
 
 ### The throne of God / abode of the Elohim
 
@@ -615,6 +617,8 @@ The substantial alternative explanations — common cognitive structures (substa
 - [Cosmic Competition](../cosmic-competition/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Kabbalah](../kabbalah/)
+- [*Shi'ur Qomah*——Wheel of Heaven 訳](/library/shiur-qomah-woh/)
+- [真実に最も近い書(解説記事)](/articles/the-book-closest-to-the-truth/)
 - [Genesis](../genesis/)
 - [Tree of Life](../tree-of-life/)
 - [Paradism](../paradism/)

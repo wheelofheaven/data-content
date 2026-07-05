@@ -341,7 +341,7 @@ The reading is interpretively substantial without being conclusive. The conventi
 
 ### The Kabbalistic "height of the creator"
 
-The principal Hebrew-textual source for the parasang measurements is the **Kabbalistic Shi'ur Qomah** tradition. The Shi'ur Qomah literature (Hebrew שִׁעוּר קוֹמָה, "the measure of the body/height") is an early-medieval Jewish mystical corpus that articulates the "measure of the divine body" through substantial numerical specifications. The principal content includes substantive parasang measurements of various divine "body parts" — figures that the conventional Kabbalistic interpretation treats as symbolic-anthropomorphic content within the broader mystical-theosophical framework.
+Главный еврейский текстовый источник измерений в parasangs — традиция ***Shi'ur Qomah***. *Shi'ur Qomah* (иврит שִׁעוּר קוֹמָה, *šiʿur qômāh*, «Мера стана») — текст **докаббалистической мистической литературы Hekhalot / Merkavah** (от поздней античности до гаонского периода), в котором ангел Metatron диктует «меру божественного тела» как перечисление космических величин в *parasangs* от головы до пят, причём каждый член наделён тайным именем. Итог 236 получен методом *gematria* из Псалма 147:5, а текст попал в печать в составе *Sefer Raziel ha-Mal'akh* (Амстердам, 1701) — вот почему источник может говорить о «каббале» как о книге, которую можно раздобыть. Основное содержание — эти измерения в parasangs различных божественных «частей тела», величины, которые общепринятое толкование трактует как символико-антропоморфное содержание в рамках более широкой мистико-теософской модели.
 
 The Vorilhon source treats the Shi'ur Qomah figures as substantive astronomical content. The 236,000 parasangs "height of the creator" reads as the home planet's orbital distance from its star; the 30,000,000 parasangs "height of his heels" reads as the home planet's distance from Earth. The substantive interpretive move: the Kabbalistic tradition preserves authentic content about the home planet's astronomical situation, with the substantial subsequent allegorical-mystical reinterpretation operating as obfuscation of originally concrete content.
 
@@ -350,6 +350,8 @@ The Vorilhon source's broader engagement with the Kabbalistic tradition:
 > *"The Kabala is the closest book to the truth, but almost all religious books allude to us with varying degrees of clarity."*
 
 The Kabbalistic tradition (treated systematically in the [Kabbalah](../kabbalah/) entry) is registered by the source as substantively the closest preservation of the original alliance-transmission content within the post-biblical Jewish tradition. The detailed engagement with the Kabbalistic content operates as one of the corpus's principal source-textual engagements with post-biblical Jewish material.
+
+Полный разбор *Shi'ur Qomah* — его текст, спорная датировка, магистральное прочтение «измерения-как-апофазы» и встречное прочтение канона, читающее две величины в parasangs как астрономические расстояния родной планеты, — изложен в статье-разъяснении [**Книга, ближайшая к истине**](/articles/the-book-closest-to-the-truth/), которая читает текст через [*Shi'ur Qomah* — перевод Wheel of Heaven](/library/shiur-qomah-woh/).
 
 ### The throne of God / abode of the Elohim
 
@@ -615,6 +617,8 @@ The substantial alternative explanations — common cognitive structures (substa
 - [Cosmic Competition](../cosmic-competition/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Kabbalah](../kabbalah/)
+- [*Shi'ur Qomah* — перевод Wheel of Heaven](/library/shiur-qomah-woh/)
+- [Книга, ближайшая к истине (разъяснение)](/articles/the-book-closest-to-the-truth/)
 - [Genesis](../genesis/)
 - [Tree of Life](../tree-of-life/)
 - [Paradism](../paradism/)

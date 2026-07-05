@@ -219,6 +219,16 @@ The substantial corpus position registers a fourth component as well:
 
 **4. The esoteric-protection function.** The Kabbalah's substantial esoteric-restricted character preserved the content against the distortion that more widely distributed traditions suffered. This is a structural observation about the substantial pedagogy-of-traditions: traditions distributed widely become subject to substantial popular distortion; traditions transmitted only to initiated students within specific learned circles preserve their content with greater fidelity. The Kabbalah operates as the substantial example of this latter pattern within the broader Western religious-textual landscape.
 
+### El *Shi'ur Qomah*: el texto tras la afirmación del "libro más cercano"
+
+El pasaje del "libro más cercano" no aparece de forma aislada. En la misma frase, Yahvé cita dos cifras concretas — la "altura del creador", 236,000 *parasangs*, y la "altura de sus talones", 30 million — y las atribuye al *"Cantar de los Cantares (V)"*. Esas cifras son reales, pero **no** proceden del *Zohar* ni del material *sephirotic* tratado más arriba. Proceden de un texto específico y más antiguo: el ***Shi'ur Qomah*** (hebreo שִׁעוּר קוֹמָה, *šiʿur qômāh*, "la Medida de la Estatura"), una obra de la **literatura Hekhalot / Merkavah precabalística** en la que el ángel Metatron dicta las dimensiones cósmicas del cuerpo divino, miembro a miembro, cada uno medido en *parasangs* y nombrado con un nombre secreto. Identificar correctamente el texto fuente resuelve una tensión de fuentes largamente presente en el corpus: la "Cábala" que el pasaje cita no es en absoluto la Cábala clásica medieval, sino el estrato místico de la Antigüedad tardía que la precede.
+
+El número 236 se genera por *gematria* a partir del Salmo 147:5 (*gadol adoneinu ve-rav koaḥ*, "Grande es nuestro Señor y de mucho poder", cuyas letras suman 236); la cifra de las "plantas de los pies" de 30 million *parasangs* y el total truncado de "236,000" son ambos variantes atestiguadas en la tradición manuscrita (esta última conservada por el caraíta del siglo X al-Qirqisānī). El texto es anterior al *Zohar* en varios siglos — datado por Gershom Scholem en el siglo II, por Martin Samuel Cohen en los siglos VI–VII geónicos, mientras que Peter Schäfer sostiene que en esta literatura fluida "el texto único es una ilusión" — y pasó a la imprenta dentro del *Sefer Raziel ha-Mal'akh* (Ámsterdam, 1701, folio 37b). Esa impresión es precisamente la razón por la que un pasaje de un corpus hebreo esotérico pudo describirse como un "libro" del que uno podría "conseguir un ejemplar".
+
+En la lectura del marco, Yahvé aporta la clave que faltaba: el *parasang* se redefine como la distancia que la luz recorre en un segundo (~300,000 km), lo que convierte las dos cifras en la distancia del [Planeta natal de los Elohim](../elohim-home-planet/) respecto de su propia estrella (~70.8 billion km) y respecto de la Tierra (~0.95 años luz). Las medidas se leen no como hipérbole mística, sino como un registro distorsionado de dos distancias reales, conservado por una tradición que recitaba fielmente lo que había dejado de comprender.
+
+El tratamiento completo — una lectura atenta del texto a través de la propia traducción del proyecto, la disputa de datación a tres bandas, la lectura académica dominante de la "medida como apófasis" y la contralectura del canon, y un hallazgo reciente sobre cómo la forma exacta del pasaje (la traducción errónea de *talons*/"talones" por el hebreo "plantas de los pies", y la cita del "Cantique des Cantiques (V)") remonta a *La Kabbale* de bolsillo de Henri Sérouya de 1957 por vía de *Major Trends* de Scholem — se expone en el artículo [**El libro más cercano a la verdad**](/articles/the-book-closest-to-the-truth/) y en la [*Shi'ur Qomah* — Traducción Wheel of Heaven](/library/shiur-qomah-woh/).
+
 ### The "richest in testimonies" articulation
 
 The Yahweh-articulated framework reading registers the Kabbalah as exceptional within the broader cross-traditional landscape: *"The Kabala especially is one of the richest in testimonies."* The framework reading: the Kabbalah is not merely one tradition among many that preserve fragments of alliance-transmitted content, but specifically among the richest in such content. The substantial concentration of preserved content within the Kabbalistic tradition registers as one of the tradition's principal characteristics.
@@ -617,6 +627,9 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Hebrews](../hebrews/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
+- [Planeta natal de los Elohim](../elohim-home-planet/)
+- [*Shi'ur Qomah* — Traducción Wheel of Heaven](/library/shiur-qomah-woh/)
+- [El libro más cercano a la verdad (artículo)](/articles/the-book-closest-to-the-truth/)
 
 ## References
 
@@ -731,3 +744,9 @@ White, David Gordon. *The Alchemical Body: Siddha Traditions in Medieval India*.
 "Cabala." *Jewish Encyclopedia*. <https://jewishencyclopedia.com/articles/3878-cabala>
 
 "Zohar." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/15278-zohar>
+
+Cohen, Martin Samuel. *The Shi'ur Qomah: Liturgy and Theurgy in Pre-Kabbalistic Jewish Mysticism*. University Press of America, 1983; y *The Shi'ur Qomah: Texts and Recensions* (TSAJ 9). Mohr Siebeck, 1985. El estudio moderno de referencia y la edición crítica del texto que subyace a las cifras en parasangs.
+
+Schäfer, Peter. *The Hidden and Manifest God: Some Major Themes in Early Jewish Mysticism*. SUNY Press, 1992; y *Synopse zur Hekhalot-Literatur* (TSAJ 2). Mohr Siebeck, 1981.
+
+Sérouya, Henri. *La Kabbale* ("Que sais-je?" no. 1105). Presses Universitaires de France, 1957; 2.ª ed. rev. 1967. El volumen de bolsillo cuyo párrafo sobre el Shi'ur Qomah conserva la forma exacta del pasaje que el canon cita.
