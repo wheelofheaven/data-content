@@ -13,6 +13,11 @@ claim_type = "inferred"
 alternative_names = ["Cyber Paradise", "Cybergenesis", "Neogenesis", "the Cyberparadist aesthetic", "the Cyberparadism aesthetic-cultural movement"]
 timeline = ["age-of-aquarius"]
 
+image = "https://assets.wheelofheaven.world/images/wiki/cyberparadism-eden-valley.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/cyberparadism-eden-valley.avif"
+image_alt = "A monolithic bone-white domed leisure sanctuary in a lush untouched valley, small figures at leisure — a technological Eden in the Cyberparadism aesthetic."
+image_caption = "Cyberparadism as originary paradise: a resort-scale sanctuary grown into an undisturbed valley, technology and nature in harmony."
+
 [extra.infobox]
 type = "Contemporary aesthetic-cultural movement; the visual-conceptual articulation of harmonious coexistence between advanced technology and the natural world"
 formalization = "Aesthetics Wiki entry (origin venue); subsequent *Cyberparadism Manifesto* (2023) at github.com/zarazinsfuss/cyberparadism-manifesto"
@@ -166,6 +171,8 @@ The aesthetic positions itself within the broader contemporary cultural landscap
 
 Visually, Cyberparadism operates through specific aesthetic-formal commitments. **Architecture** integrates minimalist sleek lines with organic-natural elements, producing structures that appear as extensions of their environments rather than as impositions upon them; geometric forms (spheres, domes, hexagons) recur as principal elements that register both technological sophistication and natural-pattern resonance. **Color palettes** draw on aerospace orange, teal, aquamarine, and the broader oceanic-cosmic spectrum, evoking simultaneously the depth of natural environments and the clarity of advanced technological systems. **Settings** range from Earth-based ecologically-integrated communities (forest-embedded settlements, coastal-cliff developments, urban pods integrated with restored ecosystems) to extraterrestrial frontier habitats (terraforming-active planetary surfaces, biodome installations, space-station environments operating in continuity with the originating Earth-based aesthetic). **Atmosphere** prioritizes serenity, exploration, abundance, and collective purpose over the agitation, isolation, and scarcity that characterize the dystopian counter-aesthetics.
 
+{{ figure(src="wiki/cyberparadism-atrium-garden", alt="A vast sunlit interior atrium with tiered hanging gardens, a central tree and reflecting water, people at leisure — the Cyberparadism interior.", caption="Inside a Cyberparadist structure: a biophilic atrium where the building is a habitat for gardens and people alike.") }}
+
 Within the {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven framework{% end %}, Cyberparadism registers as the contemporary aesthetic-cultural articulation that aligns substantively with the framework's specific historical-civilizational content. The framework reads three distinct corpus-internal phenomena as substantively Cyberparadist in character. The **Eden lab** — the originary alliance laboratory in which the early human population lived in integrated harmony with engineered biological systems and advanced alliance technology — operates as the actual historical Cyberparadism that contemporary aesthetic vision recovers as memory or anticipates as future. The **Planet of the Eternals** — the alliance home-world as Vorilhon's contact accounts describe it{{ cite(id="les-extra-terrestres-m-ont-emmen-sur-leur-plan-te", text="[2]", title="Vorilhon, Les Extra-Terrestres m'ont emmené sur leur planète, 1975 — the contact-account source for the Planet of the Eternals") }}, with its substantial post-scarcity arrangement, advanced biological-technological integration, longevity, and harmonious organization — operates as the cosmic-civilizational Cyberparadism, the mature realization of the aesthetic's principles in actual operational form. The **Aquarian-age inheritance threshold** — the historical moment at which humanity matures into creating-civilization extending the alliance's work to other worlds — operates as the transition point at which Cyberparadism shifts from aesthetic vision to operational reality.
 
 The framework therefore reads Cyberparadism not principally as speculative future-vision (which is how the aesthetic generally registers in contemporary cultural discourse) but as recovered-and-anticipated reality: the aesthetic preserves cultural memory of the originary alliance project (Eden), articulates intuitive recognition of the cosmic-civilizational reality the alliance occupies (the Planet of the Eternals), and projects forward toward the inheritance moment the framework reads as operationally imminent (the Aquarian-age maturation). The substantive alignment between the contemporary aesthetic and the framework's specific content registers as evidence for the broader {% wiki(slug="doubled-signature") %}doubled-signature{% end %} principle — the corpus's reading that Aquarian-age cultural production registers substantive alignment with the framework's underlying historical-civilizational reality{{ footnote(id="doubled-signature-application") }}.
@@ -260,6 +267,8 @@ The manifesto articulates six principal Signs — specific technological develop
 
 The Signs operate as concrete-operational manifestations of the abstract Laws — together producing the aesthetic's substantive cultural-conceptual content.
 
+{{ figure(src="wiki/cyberparadism-wetland-transit", alt="A sleek silent elevated transit line gliding on slender supports over a wildlife-rich wetland delta full of wading birds — Cyberparadism automated mobility.", caption="Silent, automated transit threading a thriving wetland — mobility that leaves the ecosystem intact.") }}
+
 ### The Techno-Optimist Manifesto resonance
 
 The Cyberparadism Manifesto registers substantive resonance with **Marc Andreessen**'s *Techno-Optimist Manifesto* (October 16, 2023){{ cite(id="the-techno-optimist-manifesto", text="[6]", title="Andreessen, The Techno-Optimist Manifesto, October 16, 2023") }}, published shortly after the principal Cyberparadism Manifesto articulation. The substantial Andreessen articulation — registering technology as principal driver of growth, progress, and human-flourishing improvement — operates substantively in the same broader cultural-conceptual space as Cyberparadism. The Cyberparadism Manifesto explicitly notes the substantial resonance: *"very reminiscent of the Cyberparadism Manifesto. Go check it out."*{{ footnote(id="manifesto-andreessen-synchrony") }}
@@ -275,6 +284,8 @@ Cyberparadism operates through specific visual-aesthetic commitments that distin
 Cyberparadist architecture integrates minimalist sleek-line design with organic-natural elements. Structures register as extensions of their environments rather than as impositions upon them. Geometric forms (spheres, domes, hexagons) recur as principal architectural elements — registering both technological sophistication and resonance with natural patterns (the substantial hexagonal patterns in honeycombs, the spherical forms in fruit and seed structures, the dome-forms in shells and biological enclosures).
 
 The substantial inspiration draws on multiple antecedent architectural-design traditions: the substantial **Buckminster Fuller** geodesic-architectural tradition (the substantial geodesic-dome work, the substantial Spaceship Earth concept that the manifesto references explicitly){{ cite(id="fuller-spaceship-earth", text="[7]", title="Fuller, Operating Manual for Spaceship Earth, 1969") }}; the substantial **Frei Otto** lightweight-tensile architecture{{ cite(id="otto-hangende-dach", text="[8]", title="Otto, Das Hängende Dach, 1954") }}; the substantial Japanese metabolist movement (Kenzo Tange, Kisho Kurokawa, the substantial 1960s-70s biological-architectural metaphor work); contemporary **biomimetic architecture** (Janine Benyus's work, the substantial subsequent design-tradition){{ cite(id="benyus-biomimicry", text="[9]", title="Benyus, Biomimicry: Innovation Inspired by Nature, 1997") }}; the substantial **arcology** tradition (Paolo Soleri's work){{ cite(id="soleri-arcology", text="[10]", title="Soleri, Arcology: The City in the Image of Man, 1969") }}.
+
+{{ figure(src="wiki/cyberparadism-forest-pods", alt="Spherical and domed dwelling pods among ancient forest canopy linked by curving walkways — a Cyberparadism forest settlement in harmony with the trees.", caption="A forest-embedded Cyberparadist settlement: architecture built around the trees, not through them.") }}
 
 ### Color palette
 
@@ -295,11 +306,19 @@ Cyberparadist settings range across multiple distinctive registers:
 
 **Earth-based ecologically-integrated communities**. Forest-embedded settlements, coastal-cliff developments, mountain-integrated installations, urban pods integrated with restored ecosystems. The substantial visual signature: human-scale architecture integrated with substantial restored natural environment, with technology operating as enhancement rather than as displacement of natural-environmental presence.
 
+{{ figure(src="wiki/cyberparadism-desert-oasis", alt="A monolithic bone-white domed arcology rising from a greening desert around a reclaimed oasis under a solar-gold sky — Cyberparadism land reclamation.", caption="A desert arcology reclaiming an oasis: Cyberparadism greening arid land rather than paving it.") }}
+
 **Frontier extraterrestrial habitats**. Terraforming-active planetary surfaces (the substantial Mars-or-similar planetary engineering aesthetic), biodome installations on lunar or planetary surfaces, space-station environments operating in continuity with Earth-based aesthetic principles. The substantial visual signature: cosmic-frontier extension of the broader aesthetic.
+
+{{ figure(src="wiki/cyberparadism-terraform-frontier", alt="Hexagonal terraforming biodomes full of gardens on a greening planetary surface under two moons — Cyberparadism cosmic frontier.", caption="Cyberparadism extended to a new world: terraforming biodomes seeding a garden paradise on the frontier.") }}
 
 **Coastal and oceanic environments**. The substantial oceanic-civilization aesthetic (the substantial floating-platform installations, the substantial subsea-biodome installations, the substantial water-integrated architecture); the substantial coastal-cliff developments; the substantial maritime-frontier registration.
 
+{{ figure(src="wiki/cyberparadism-coastal-terraces", alt="Tiered cliffside leisure terraces and hexagonal biodomes above a turquoise sea, with a subsea ring below — Cyberparadism coastal architecture.", caption="A coastal Cyberparadist resort: organic terraces and biodomes woven into a living cliff and reef.") }}
+
 **Atmospheric environments**. The substantial high-altitude installations (the substantial cloud-architecture, the substantial atmospheric-platform aesthetic); the substantial sky-civilization registration.
+
+{{ figure(src="wiki/cyberparadism-cloud-platform", alt="A bone-white anti-gravity leisure platform with hanging gardens floating above a sea of clouds at golden hour — Cyberparadism sky architecture.", caption="Cyberparadist sky-civilization: a serene anti-gravity leisure platform above the clouds.") }}
 
 The **atmosphere** prioritizes serenity, exploration, abundance, collective purpose, and operational-functional clarity over agitation, isolation, scarcity, and dystopian-anxiety registration. Cyberparadist visual production characteristically includes substantial natural-light elements, substantial vegetative-natural presence, substantial human-scale features, and substantial implicit registration of post-scarcity post-conflict cultural arrangements.
 
@@ -401,6 +420,8 @@ The Eden engagement operates substantively in alignment with each of the eight L
 
 The framework therefore reads Eden not principally as supernatural-mythological location (the mainstream theological framing) but as the actual historical Cyberparadism — the originary alliance laboratory operating substantively as the first realization of the principles that contemporary Cyberparadist aesthetic articulates as future-vision. The detailed treatment of Eden lives in the {% wiki(slug="eden") %}Eden{% end %} entry when written; the broader treatment of the originary alliance project lives in the {% wiki(slug="age-of-cancer") %}Age of Cancer{% end %} entry when written.
 
+{{ figure(src="wiki/cyberparadism-aurora-night", alt="A serene Cyberparadist sanctuary at night, warm interior light and soft bioluminescent gardens mirrored in a still lake beneath a teal-and-gold aurora — the originary paradise at rest.", caption="Cyberparadism after dark: bioluminescent gardens and aurora over a sanctuary at rest.") }}
+
 ### The Planet of the Eternals as cosmic-civilizational Cyberparadism
 
 The framework reads the **Planet of the Eternals** — the alliance home-world as Vorilhon's contact accounts describe it — as the cosmic-civilizational Cyberparadism, the mature realization of the aesthetic's principles in actual operational form at planetary-civilizational scale.
@@ -415,6 +436,8 @@ The Vorilhon source-textual material, principally in *Les Extra-Terrestres m'ont
 - **Substantial cosmic-frontier engagement** — the Eternals operate substantively beyond their home planet, with substantial creating-civilization engagement (Earth being one substantial example) extending the Cyberparadist principles to additional worlds
 
 The framework reads the Planet of the Eternals as the substantively mature Cyberparadism that contemporary Cyberparadist aesthetic anticipates intuitively without specific knowledge of the actual operational existence. The substantial alignment registers significant evidence for the broader doubled-signature principle — the contemporary aesthetic registers in substantial alignment with the framework's specific underlying historical-civilizational reality. The detailed treatment of the Planet of the Eternals lives in the {% wiki(slug="planet-of-the-eternals") %}Planet of the Eternals{% end %} entry when written.
+
+{{ figure(src="wiki/cyberparadism-orbital-habitat", alt="The green interior of a rotating orbital habitat curving overhead, gardens and lakes along its inner surface, a blue planet visible through a vast window — cosmic-civilizational Cyberparadism.", caption="The Planet of the Eternals register: a rotating orbital habitat carrying a whole living landscape into space.") }}
 
 ### The Aquarian-age inheritance threshold
 
