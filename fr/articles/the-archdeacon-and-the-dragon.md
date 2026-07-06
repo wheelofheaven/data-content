@@ -3,7 +3,7 @@ title = "L'archidiacre et le dragon"
 description = "Paul Wallis a quitté trente-trois ans de ministère anglican pour lire la Genèse littéralement. Ses six livres d'Éden aboutissent, par la seule philologie, au voisinage du canon."
 template = "articles-page.html"
 date = 2026-07-05
-draft = true
+draft = false
 
 [extra]
 claim_type = "inferred"

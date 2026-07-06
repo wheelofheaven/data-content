@@ -3,7 +3,7 @@ title = "The Archdeacon and the Dragon"
 description = "Paul Wallis left thirty-three years of Anglican ministry to read Genesis literally. His six Eden books arrive, by philology alone, next door to the canon."
 template = "articles-page.html"
 date = 2026-07-05
-draft = true
+draft = false
 
 [extra]
 claim_type = "inferred"

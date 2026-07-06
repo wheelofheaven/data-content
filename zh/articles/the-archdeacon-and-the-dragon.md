@@ -3,7 +3,7 @@ title = "会吏总与龙"
 description = "Paul Wallis 抛下三十三年的圣公会圣职，只为按字面研读《创世记》。他那六部伊甸系列著作，仅凭语文学，便落脚在与正典比邻之处。"
 template = "articles-page.html"
 date = 2026-07-05
-draft = true
+draft = false
 
 [extra]
 claim_type = "inferred"

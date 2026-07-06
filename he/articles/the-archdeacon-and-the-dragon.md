@@ -3,7 +3,7 @@ title = "הארכידיאקון והדרקון"
 description = "Paul Wallis עזב שלושים ושלוש שנות כמורה אנגליקנית כדי לקרוא את בראשית כפשוטו. ששת ספרי עדן שלו מגיעים, בכוח הפילולוגיה בלבד, אל מפתן הקנון."
 template = "articles-page.html"
 date = 2026-07-05
-draft = true
+draft = false
 
 [extra]
 claim_type = "inferred"

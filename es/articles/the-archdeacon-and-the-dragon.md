@@ -3,7 +3,7 @@ title = "El arcediano y el dragón"
 description = "Paul Wallis dejó treinta y tres años de ministerio anglicano para leer el Génesis literalmente. Sus seis libros del Edén llegan, solo por la filología, a la puerta de al lado del canon."
 template = "articles-page.html"
 date = 2026-07-05
-draft = true
+draft = false
 
 [extra]
 claim_type = "inferred"

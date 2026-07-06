@@ -3,7 +3,7 @@ title = "會吏長與龍"
 description = "保羅·瓦利斯（Paul Wallis）辭去三十三年的聖公會聖職，只為按字面解讀《創世記》。他那六部《伊甸》系列著作，僅憑語文學，便抵達了與典籍毗鄰之處。"
 template = "articles-page.html"
 date = 2026-07-05
-draft = true
+draft = false
 
 [extra]
 claim_type = "inferred"

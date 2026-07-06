@@ -3,7 +3,7 @@ title = "Der Erzdiakon und der Drache"
 description = "Paul Wallis verließ dreiunddreißig Jahre anglikanischen Dienstes, um die Genesis wörtlich zu lesen. Seine sechs Eden-Bücher landen, allein durch Philologie, direkt neben dem Kanon."
 template = "articles-page.html"
 date = 2026-07-05
-draft = true
+draft = false
 
 [extra]
 claim_type = "inferred"

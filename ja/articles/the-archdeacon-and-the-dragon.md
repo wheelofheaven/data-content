@@ -3,7 +3,7 @@ title = "大執事と竜"
 description = "ポール・ウォリスは三十三年に及ぶ聖公会の聖職を離れ、創世記を字義どおりに読んだ。彼の六冊のエデン・シリーズは、文献学のみによって、正典の隣室へとたどり着く。"
 template = "articles-page.html"
 date = 2026-07-05
-draft = true
+draft = false
 
 [extra]
 claim_type = "inferred"

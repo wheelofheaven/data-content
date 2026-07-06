@@ -3,7 +3,7 @@ title = "부주교와 용"
 description = "폴 월리스는 창세기를 문자 그대로 읽기 위해 33년의 성공회 성직을 떠났다. 그의 여섯 권의 에덴 책들은 오직 문헌학만으로 이 정경의 바로 옆집에 다다른다."
 template = "articles-page.html"
 date = 2026-07-05
-draft = true
+draft = false
 
 [extra]
 claim_type = "inferred"
