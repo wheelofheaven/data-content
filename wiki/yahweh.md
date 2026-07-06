@@ -307,6 +307,10 @@ The Raëlian source material, beginning with *The Book Which Tells the Truth* (1
 
 **Mauro Biglino**'s strict-translational work treats Yahweh in continuity with his treatment of *Elohim* generally — as a specific individual within the plurality of *the lords from above*, with the Hebrew text describing his actions in concrete operational terms.{{ cite(id="the-bible-is-not-a-sacred-book", text="[14]", title="Biglino, strict-literal Hebrew Bible series (2010 onward) — Yahweh as an individual among the 'lords from above'") }}{{ cite(id="the-naked-bible", text="[15]", title="Biglino & Cattaneo, *The Naked Bible* (2022) — broader Hebrew Bible survey on the same strict-literal method") }} Biglino's reading of specific passages (the Genesis 18 visitation at Mamre, the Exodus theophanies, the destruction narratives) develops the corpus's general approach in particular textual cases.
 
+### The Wallis reading
+
+**Paul Wallis** reads Yahweh, with the rest of the Genesis *elohim*, as one of the plural "Powerful Ones," and presses the point further than the other neo-euhemerists in two directions. On the divine-council material (Joshua 24; 2 Kings 1; Daniel 10:13; Deuteronomy 32) he reads Yahweh as *a regional power differing in jurisdiction rather than in kind* from the surrounding deities (*The Eden Conspiracy*, 2023). More arrestingly, he derives the Tetragrammaton itself from the Egyptian creature-name *Akhekh*, reading Yahweh under a dragon-name (*Echoes of Eden*, 2022). The corpus adopts the first reading and declines the second. The jurisdictional observation is the divine-council reading in Wallis's own idiom, and it is compatible with the corpus's account of Yahweh as senior alliance authority for the Earth project. The dragon-name derivation runs against both the philology — catalogued under *The YHWH–Akhekh divergence* in [List of etymological readings](../list-of-etymological-readings/) — and the canon itself, in which Yahweh is emphatically a *man*, the president of the [Council of the Eternals](../council-of-the-eternals/), not a monster. The two readings converge on the plurality and part precisely over who, if anyone, wears the dragon; the full comparison is [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/).
+
 ## Comparative observations
 
 The relationships between Yahweh and other ancient Near Eastern divine figures are textually and historically complex. The principal comparative cases:
@@ -343,6 +347,10 @@ The relationships between Yahweh and other ancient Near Eastern divine figures a
 - [Allah](../allah/)
 - [El](../el/)
 - [Cosmic Chain](../cosmic-chain/)
+- [Paul Wallis](../paul-wallis/)
+- [Dragons](../dragons/)
+- [List of etymological readings](../list-of-etymological-readings/)
+- [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (canon Yahweh vs. the dragon-name reading)
 
 ## References
 

@@ -423,6 +423,10 @@ The framework's specific reading of dragons as deliberately-created creatures di
 
 The Isaiah 27:1 three-term identification (*liwyatan*/*nachash*/*tannin* applied to a single subject) registers the Lucifer faction's specific connection to the *tannin* vocabulary. The relationship is one of **specific-vocabulary-overlap-with-distinct-referents**: the same Hebrew word *tannin* operates in different specific contexts (the Day 5 creation in Genesis 1:21; the Lucifer-faction identification in Isaiah 27:1), with the Lucifer faction's specific historical referents being distinct from the Day 5 creature-category while operating within the same broader vocabulary.
 
+### Dragons vs. the dragon-name reading of Yahweh
+
+A reading advanced by Paul Wallis (*Echoes of Eden*, 2022; *The Eden Conspiracy*, 2023) derives the Tetragrammaton itself from the Egyptian creature-name *Akhekh*, placing Yahweh under a draconic name. The framework distinguishes its own dragon taxonomy sharply from this identification. The relationship is one of **chaos-serpent-cluster-vs-personal-council-referent**: *Akhekh* — a winged, Set-associated desert creature in the Egyptological record — sits with the chaos-monster vocabulary (the *tannin*/*liwyatan*/*rahab* cluster, and the Egyptian Apophis) that the corpus reads as the demonized memory of the losing faction, whereas the canon's Yahweh is emphatically a *man* — a human being, the president of the [Council of the Eternals](../council-of-the-eternals/) — categorically not a dragon at all. The framework therefore treats Wallis's *Akhekh* etymology as declined — the philological objections are catalogued under *The YHWH–Akhekh divergence* in [List of etymological readings](../list-of-etymological-readings/) — while noting that the structural observation underneath it (Yahweh presented by the text as a regional power differing in jurisdiction rather than in kind) is the divine-council reading and holds independently of the dragon-name. The full audit is [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/).
+
 ### Dragons vs. the K-Pg extinction's standard chronology
 
 The framework's specific position on the K-Pg extinction reconciliation diverges substantially from mainstream paleontological consensus on chronology. The relationship is one of **substantial-chronological-divergence-with-phylogenetic-alignment**: the corpus's framework rejects the 66-million-year date for the K-Pg event while preserving substantial alignment with mainstream paleontological consensus on phylogeny (particularly the dinosaur-bird connection).
@@ -641,6 +645,9 @@ The Hebrew tradition preserves the principal source-textual anchor through the *
 - [Cosmic Competition](../cosmic-competition/)
 - [Eden](../eden/)
 - [Hebrew Bible](../hebrew-bible/)
+- [Paul Wallis](../paul-wallis/)
+- [List of etymological readings](../list-of-etymological-readings/)
+- [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the dragon-name reading of Yahweh, audited)
 
 ## References
 
@@ -655,6 +662,8 @@ Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
 Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
 
 Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
+
+Wallis, Paul Anthony. *Echoes of Eden*. 6th Books, 2022.
 
 Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
 
