@@ -335,7 +335,7 @@ principal_source = "*מסר מהמתכננים* (וורילון/ראל, 1974–7
 - [אליהו](../elijah/)
 - [ישו](../jesus/)
 - [ראל](../rael/)
-- [*מסר מהמתכננים*](../library/message-from-the-designers/)
+- [*מסר מהמתכננים*](../message-from-the-designers/)
 - [שם המפורש](../tetragrammaton/)
 - [בראשית](../genesis/)
 - [מקרא](../bible/)

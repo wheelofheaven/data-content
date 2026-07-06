@@ -3,7 +3,7 @@ title = "Age of Pisces"
 description = "The eleventh age of the Great Year — Jesus as alliance project, the fish-and-virgin doubled signature, Islam and the question of Petra, the medieval synthesis across all civilizations, the scientific revolution, and the late-Piscean prophetic movements preparing for Aquarius."
 template = "timeline-page.html"
 toc = true
-aliases = ["/intro/age-of-pisces/"]
+aliases = ["/intro/age-of-pisces/", "/wiki/age-of-pisces/"]
 
 [extra]
 symbol = "♓"

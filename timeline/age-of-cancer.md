@@ -4,7 +4,7 @@ title = "Age of Cancer"
 description = "The seventh age of the Great Year — the Day of Rest and its consequences. The Eden expulsion, Cain and Abel, the exiled creators mating with human women, the Nephilim, and the rise of a pre-flood civilization that will alarm the home world."
 template = "timeline-page.html"
 toc = true
-aliases = ["/intro/age-of-cancer/"]
+aliases = ["/intro/age-of-cancer/", "/wiki/age-of-cancer/"]
 
 [extra]
 symbol = "♋"

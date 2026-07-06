@@ -3,6 +3,7 @@ title = "Revelation"
 slug = "revelation"
 description = "Revelation — 22 chapters, 404 verses. Part of New Testament in the Bible."
 template = "library-book.html"
+aliases = ["/wiki/book-of-revelation/"]
 date = 2026-04-09
 
 [extra]

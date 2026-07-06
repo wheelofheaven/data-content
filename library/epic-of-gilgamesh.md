@@ -3,6 +3,7 @@ title = "Epic of Gilgamesh"
 slug = "epic-of-gilgamesh"
 description = "The Standard Babylonian Epic of Gilgamesh — Gilgamesh and Enkidu, the death of Enkidu, and the failed quest for immortality that culminates in Utnapishtim's Flood (Tablet XI)."
 template = "library-book.html"
+aliases = ["/wiki/epic-of-gilgamesh/"]
 date = 2026-05-16
 
 [extra]

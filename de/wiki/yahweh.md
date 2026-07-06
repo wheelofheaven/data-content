@@ -335,7 +335,7 @@ Die Beziehungen zwischen Jahwe und anderen altorientalischen göttlichen Figuren
 - [Elija](../elijah/)
 - [Jesus](../jesus/)
 - [Raël](../rael/)
-- [*Botschaft der Designer*](../library/message-from-the-designers/)
+- [*Botschaft der Designer*](../message-from-the-designers/)
 - [Tetragrammaton](../tetragrammaton/)
 - [Genesis](../genesis/)
 - [Bibel](../bible/)

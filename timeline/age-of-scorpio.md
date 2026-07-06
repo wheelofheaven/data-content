@@ -4,7 +4,7 @@ title = "Age of Scorpio"
 description = "The third age of the Great Year, when the first life appears on Earth — plant cells synthesized from chemistry, designed by teams of scientists and artists, establishing the foundation of the biosphere."
 template = "timeline-page.html"
 toc = true
-aliases = ["/intro/age-of-scorpio/"]
+aliases = ["/intro/age-of-scorpio/", "/wiki/age-of-scorpio/"]
 
 [extra]
 symbol = "♏"

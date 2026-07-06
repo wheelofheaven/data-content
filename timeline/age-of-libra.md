@@ -3,7 +3,7 @@ title = "Age of Libra"
 description = "The fourth age of the Great Year, when the Elohim formalize their relationship to the sky — calibrating local time, mapping the constellations, and building the astronomical infrastructure the project requires."
 template = "timeline-page.html"
 toc = true
-aliases = ["/intro/age-of-libra/"]
+aliases = ["/intro/age-of-libra/", "/wiki/age-of-libra/"]
 
 [extra]
 symbol = "♎"

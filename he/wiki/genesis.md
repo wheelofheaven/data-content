@@ -316,7 +316,7 @@ Beyond the immediate Near Eastern context, traditions of creation and flood from
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [*Message from the Designers*](../library/message-from-the-designers/)
+- [*Message from the Designers*](../message-from-the-designers/)
 - [Documentary Hypothesis](../documentary-hypothesis/)
 - [Masoretic Text](../masoretic-text/)
 - [Septuagint](../septuagint/)

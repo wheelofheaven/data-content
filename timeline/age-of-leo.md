@@ -3,7 +3,7 @@ title = "Age of Leo"
 description = "The sixth age of the Great Year, when the creation program reaches its culmination — land animals, then human beings made in the image of their makers by seven factional teams, and the founding of the Garden of Eden."
 template = "timeline-page.html"
 toc = true
-aliases = ["/intro/age-of-leo/"]
+aliases = ["/intro/age-of-leo/", "/wiki/age-of-leo/"]
 
 [extra]
 symbol = "♌"

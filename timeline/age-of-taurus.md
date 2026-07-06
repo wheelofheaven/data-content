@@ -3,7 +3,7 @@ title = "Age of Taurus"
 description = "The ninth age of the Great Year — the pardon of the exiled creators, the rise of the post-flood civilizations, the vengeance movement at Sodom and Gomorrah, the Dead Sea as crater, Abraham's loyalty test, and the worldwide bull-cult."
 template = "timeline-page.html"
 toc = true
-aliases = ["/intro/age-of-taurus/"]
+aliases = ["/intro/age-of-taurus/", "/wiki/age-of-taurus/"]
 
 [extra]
 symbol = "♉"

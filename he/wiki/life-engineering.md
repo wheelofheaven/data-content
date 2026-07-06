@@ -365,7 +365,7 @@ The framework's reading is consistent with the direction of Ball's argument. The
 - [Golden Age](../golden-age/)
 - [Jean Sendy](../jean-sendy/)
 - [Raël](../rael/)
-- [*Message from the Designers*](../library/message-from-the-designers/)
+- [*Message from the Designers*](../message-from-the-designers/)
 - [Mauro Biglino](../mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 

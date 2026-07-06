@@ -335,7 +335,7 @@ Les rapports entre Yahvé et d'autres figures divines du Proche-Orient ancien so
 - [Élie](../elijah/)
 - [Jésus](../jesus/)
 - [Raël](../rael/)
-- [*Le Message des Élohim*](../library/message-from-the-designers/)
+- [*Le Message des Élohim*](../message-from-the-designers/)
 - [Tétragramme](../tetragrammaton/)
 - [Genèse](../genesis/)
 - [Bible](../bible/)

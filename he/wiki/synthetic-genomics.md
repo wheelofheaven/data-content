@@ -309,7 +309,7 @@ Within the specific Sendy–Raëlian interpretive tradition that the corpus read
 - [Cosmic Competition](../cosmic-competition/)
 - [Jean Sendy](../jean-sendy/)
 - [Raël](../rael/)
-- [*Message from the Designers*](../library/message-from-the-designers/)
+- [*Message from the Designers*](../message-from-the-designers/)
 
 ## References
 

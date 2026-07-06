@@ -335,7 +335,7 @@ The relationships between Yahweh and other ancient Near Eastern divine figures a
 - [Elijah](../elijah/)
 - [Jesus](../jesus/)
 - [Raël](../rael/)
-- [*Message from the Designers*](../library/message-from-the-designers/)
+- [*Message from the Designers*](../message-from-the-designers/)
 - [Tetragrammaton](../tetragrammaton/)
 - [Genesis](../genesis/)
 - [Bible](../bible/)

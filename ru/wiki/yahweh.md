@@ -335,7 +335,7 @@ principal_source = "*Послание от Создателей* (Ворилон
 - [Илия](../elijah/)
 - [Иисус](../jesus/)
 - [Раэль](../rael/)
-- [*Послание от Создателей*](../library/message-from-the-designers/)
+- [*Послание от Создателей*](../message-from-the-designers/)
 - [Тетраграмматон](../tetragrammaton/)
 - [Бытие](../genesis/)
 - [Библия](../bible/)

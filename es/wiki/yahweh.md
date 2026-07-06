@@ -335,7 +335,7 @@ Las relaciones entre Yahvé y otras figuras divinas del antiguo Próximo Oriente
 - [Elías](../elijah/)
 - [Jesús](../jesus/)
 - [Raël](../rael/)
-- [*Mensaje de los Diseñadores*](../library/message-from-the-designers/)
+- [*Mensaje de los Diseñadores*](../message-from-the-designers/)
 - [Tetragrámaton](../tetragrammaton/)
 - [Génesis](../genesis/)
 - [Biblia](../bible/)

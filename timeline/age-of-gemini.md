@@ -4,7 +4,7 @@ title = "Age of Gemini"
 description = "The eighth age of the Great Year — the flood, the ark in orbit, the shattering of the supercontinent, the Noahic covenant as a formal alliance between exiled creators and human survivors, the Tower of Babel, and the war in heaven."
 template = "timeline-page.html"
 toc = true
-aliases = ["/intro/age-of-gemini/"]
+aliases = ["/intro/age-of-gemini/", "/wiki/age-of-gemini/"]
 
 [extra]
 symbol = "♊"

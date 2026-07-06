@@ -3,7 +3,7 @@ title = "Age of Virgo"
 description = "The fifth age of the Great Year, when the first animal life appears — fish in the ocean, birds in the air, and the great tanninim (dragons/dinosaurs) on the land, establishing the moving world."
 template = "timeline-page.html"
 toc = true
-aliases = ["/intro/age-of-virgo/"]
+aliases = ["/intro/age-of-virgo/", "/wiki/age-of-virgo/"]
 
 [extra]
 symbol = "♍"

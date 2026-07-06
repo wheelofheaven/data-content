@@ -3,7 +3,7 @@ title = "Age of Aries"
 description = "The tenth age of the Great Year — Moses, the Exodus, the Law at Sinai, the horns of the ram-age prophet, the conquest of Canaan, the prophetic tradition, the Hebrews' failure to spread the message, the Council's cultivation of Persia and Greece, and the worldwide Axial Age preparation for Pisces."
 template = "timeline-page.html"
 toc = true
-aliases = ["/intro/age-of-aries/"]
+aliases = ["/intro/age-of-aries/", "/wiki/age-of-aries/"]
 
 [extra]
 symbol = "♈"

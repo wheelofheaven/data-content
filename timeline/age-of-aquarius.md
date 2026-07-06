@@ -3,7 +3,7 @@ title = "Age of Aquarius"
 description = "The twelfth and current age of the Great Year — the age of revelation, in which the accumulated content of all previous ages becomes legible to a humanity at last equipped to understand it. The 1946 threshold, the 1973 contact, the embassy project, the Golden Age, and humanity's eventual participation in the creation cycle."
 template = "timeline-page.html"
 toc = true
-aliases = ["/intro/age-of-aquarius/"]
+aliases = ["/intro/age-of-aquarius/", "/wiki/age-of-aquarius/"]
 
 [extra]
 symbol = "♒"

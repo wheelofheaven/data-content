@@ -3,6 +3,7 @@ title = "Atra-ḫasīs"
 slug = "atrahasis"
 description = "Old Babylonian Akkadian epic — gods' labour, the creation of humanity, the overpopulation crisis, the Flood, and Atra-ḫasīs the sage who is warned and survives."
 template = "library-book.html"
+aliases = ["/wiki/atra-hasis/"]
 date = 2026-05-16
 
 [extra]
