@@ -3,7 +3,7 @@ title = "The Shape of Humanity"
 description = "The canon calls humanity a single organism in gestation, each person a cell. This Explainer proposes the discipline that would study it: civilizational morphology."
 template = "articles-page.html"
 date = 2026-07-06
-draft = false
+draft = true
 
 [extra]
 claim_type = "speculative"
