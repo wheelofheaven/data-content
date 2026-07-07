@@ -255,6 +255,7 @@ The catalogue surfaces several methodological and substantive open questions.
 - [Paul Wallis](../paul-wallis/)
 - [Zecharia Sitchin](../zecharia-sitchin/)
 - [Erich von Däniken](../erich-von-daniken/)
+- [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the Joshua 24 'smoking gun' reading)
 
 ## References
 

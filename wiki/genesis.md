@@ -386,6 +386,7 @@ Beyond the immediate Near Eastern context, traditions of creation and flood from
 - [Masoretic Text](../masoretic-text/)
 - [Septuagint](../septuagint/)
 - [Dead Sea Scrolls](../dead-sea-scrolls/)
+- [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (a close neo-euhemerist reading of Genesis 1:26, 3, 6, 11)
 
 ## References
 

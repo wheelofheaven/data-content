@@ -29,6 +29,7 @@ see_also = [
     { title = "Septuagint", path = "/wiki/septuagint/", description = "The principal Greek translation of the Hebrew Bible." },
     { title = "Dead Sea Scrolls", path = "/wiki/dead-sea-scrolls/", description = "The substantial manuscript evidence for the Hebrew Bible's textual transmission." },
     { title = "Masoretic Text", path = "/wiki/masoretic-text/", description = "The principal vocalised Hebrew textual tradition." },
+    { title = "The Archdeacon and the Dragon", path = "/articles/the-archdeacon-and-the-dragon/", description = "The redaction / monotheizing-edit thread the article develops, from Hezekiah to Ezra." },
 ]
 
 footnotes = [

@@ -23,6 +23,7 @@ see_also = [
     { title = "Plurality of Gods", path = "wiki/plurality-of-gods", description = "The philological case for treating Elohim as plural rather than a majestic singular." },
     { title = "Raëlism", path = "wiki/raelism", description = "The contemporary interpretive lens that reads the Elohim as an advanced human civilization." },
     { title = "Elohim's Home Planet", path = "wiki/elohim-home-planet", description = "The planet of origin described by Raël after his 1975 visit." },
+    { title = "The Archdeacon and the Dragon", path = "articles/the-archdeacon-and-the-dragon", description = "The plural 'Powerful Ones' reading of the Genesis elohim, on which the article's whole argument rests." },
 ]
 
 footnotes = [

@@ -498,6 +498,7 @@ The corpus's position on what the cross-cultural patterns establish:
 - [World Age](../world-age/)
 - [Zodiac](../zodiac/)
 - [Mytheme](../mytheme/)
+- [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the cross-cultural k-k dragon-name pattern)
 
 ## References
 

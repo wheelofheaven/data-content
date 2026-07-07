@@ -431,6 +431,7 @@ The pattern is not universal — many cultural traditions do not develop this ki
 - [Septuagint](../septuagint/)
 - [Dead Sea Scrolls](../dead-sea-scrolls/)
 - [Logos](../logos/)
+- [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the philological audit turns on the he vs. ḥet distinction)
 
 ## References
 
