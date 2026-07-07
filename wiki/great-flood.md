@@ -33,6 +33,7 @@ see_also = [
     { title = "Babel", path = "/wiki/babel/", description = "The post-Flood civilisational dispersal episode." },
     { title = "Doubled Signature", path = "/wiki/doubled-signature/", description = "The corpus principle by which the global flood-tradition preserves underlying historical memory." },
     { title = "Theomachy", path = "/wiki/theomachy/", description = "The broader cosmic-political-conflict framework within which the strike operates." },
+    { title = "The Archdeacon and the Dragon", path = "articles/the-archdeacon-and-the-dragon", description = "The Flood-as-council-decision convergence between Wallis and the canon." },
 ]
 
 footnotes = [

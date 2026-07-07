@@ -619,6 +619,7 @@ The mythologies are not invention. They are testimony, distorted by long transmi
 - [Cosmic Competition](../cosmic-competition/)
 - [Tree of Life](../tree-of-life/)
 - [Hebrew Bible](../hebrew-bible/)
+- [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the war whose dragon-verses both readings claim)
 
 ## References
 

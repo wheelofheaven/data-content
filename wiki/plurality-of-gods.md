@@ -682,6 +682,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the redaction / monotheizing-edit argument)
 
 ## References
 

@@ -380,6 +380,7 @@ The corpus position registers this debate as live rather than settled. The texts
 - [The Truth](../the-truth/)
 - [Religion](../religion/)
 - [Genesis](../genesis/)
+- [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the Wallis-extends-Biglino thesis at article length)
 
 ## References
 

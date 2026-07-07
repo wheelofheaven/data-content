@@ -18,6 +18,7 @@ see_also = [
     { title = "Yahweh", path = "wiki/yahweh", description = "The Israel-team leader who pronounced the post-disclosure verdict." },
     { title = "Satan", path = "wiki/satan", description = "A separate Elohim figure — politically opposite to the Serpent/Lucifer, conflated only in later tradition." },
     { title = "Tree of Life", path = "wiki/tree-of-life", description = "The longevity technology guarded after the expulsion." },
+    { title = "The Archdeacon and the Dragon", path = "articles/the-archdeacon-and-the-dragon", description = "The four-figure Serpent/Lucifer/Satan/Yahweh taxonomy is built against this entry's dissenting-faction reading." },
 ]
 
 footnotes = [

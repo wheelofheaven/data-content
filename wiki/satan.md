@@ -35,6 +35,7 @@ see_also = [
     { title = "Jesus", path = "/wiki/jesus/", description = "The principal prophet-testing episode in the New Testament (Matthew 4:1-11; Luke 4:1-13)." },
     { title = "Prophet", path = "/wiki/prophet/", description = "The institutional role within which Satan's adversarial-testing function operates." },
     { title = "Hebrew Bible", path = "/wiki/hebrew-bible/", description = "The principal scriptural source for the ha-satan figure's Council-prosecutor articulation." },
+    { title = "The Archdeacon and the Dragon", path = "articles/the-archdeacon-and-the-dragon", description = "Credits this entry's Satan-Lucifer disentanglement; the two figures kept distinct." },
 ]
 
 footnotes = [

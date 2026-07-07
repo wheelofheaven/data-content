@@ -24,6 +24,7 @@ see_also = [
     { title = "Adam and Eve", path = "wiki/adam-and-eve", description = "The first humans Lucifer's faction educated and to whom they made the Eden disclosure." },
     { title = "Antediluvian", path = "wiki/antediluvian", description = "The period across which the exiled Lucifer faction served as teachers of the Eden-lineage civilization." },
     { title = "Tree of Life", path = "wiki/tree-of-life", description = "The longevity technology the Lucifer faction obtained for the Eden patriarchal leadership." },
+    { title = "The Archdeacon and the Dragon", path = "articles/the-archdeacon-and-the-dragon", description = "Maps Wallis's four-dragons arc onto the Lucifer-faction reading." },
 ]
 
 footnotes = [

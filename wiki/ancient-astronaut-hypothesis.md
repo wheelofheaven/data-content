@@ -701,6 +701,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Apocalypse](../apocalypse/)
 - [Age of Aquarius](../age-of-aquarius/)
 - [Embassy](../embassy/)
+- [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the Sendy-to-Wallis lineage the article traces)
 
 ## References
 

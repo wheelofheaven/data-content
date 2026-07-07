@@ -584,6 +584,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Raëlism](../raelism/)
 - [Prophet](../prophet/)
 - [Apocalypse](../apocalypse/)
+- [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (Wallis as one of the two most consequential living voices of the tradition)
 
 ## References
 

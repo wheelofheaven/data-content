@@ -774,6 +774,7 @@ The Council is therefore one component of the Alliance's senior partnership rath
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the El-Ba'adat council-of-factions convergence)
 
 ## References
 

@@ -682,6 +682,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Abraham](../abraham/)
 - [Noah](../noah/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (Babel as the sabotage of a spacefaring civilization)
 
 ## References
 
