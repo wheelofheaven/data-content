@@ -3,7 +3,7 @@ title = "Made from the Ground to Bear the Labor"
 description = "The oldest creation texts say humanity was shaped from clay to take over the gods' work. The material recurs worldwide; the labor-clause is the Mesopotamian signature — and the seam between them is the whole argument."
 template = "articles-page.html"
 date = 2026-06-13
-draft = false
+draft = true
 
 [extra]
 claim_type = "inferred"

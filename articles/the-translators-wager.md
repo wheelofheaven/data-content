@@ -3,7 +3,7 @@ title = "The Translator's Wager"
 description = "Mauro Biglino translated nineteen books of the Hebrew Bible for a Vatican-approved publisher — then wagered his career on reading them literally."
 template = "articles-page.html"
 date = 2026-07-05
-draft = true
+draft = false
 
 [extra]
 claim_type = "inferred"
@@ -155,8 +155,8 @@ the canon, the independence of the two witnesses was total: six books,
 interesting, and this article will handle it with the care it deserves —
 because in the bibliographies of his early books, sitting quietly between
 the Sumerologists, there is an entry the Wallis comparison could not
-offer. We will come to it. First, the method; then the lexicon; then the
-audit the method invites.
+offer. First, the method; then the lexicon; then the audit the method
+invites.
 
 ## The wager
 
