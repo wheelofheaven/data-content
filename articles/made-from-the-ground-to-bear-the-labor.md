@@ -3,7 +3,7 @@ title = "Made from the Ground to Bear the Labor"
 description = "The oldest creation texts say humanity was shaped from clay to take over the gods' work. The material recurs worldwide; the labor-clause is the Mesopotamian signature — and the seam between them is the whole argument."
 template = "articles-page.html"
 date = 2026-06-13
-draft = true
+draft = false
 
 [extra]
 claim_type = "inferred"
@@ -87,8 +87,7 @@ hymn built on a pun that runs the length of the poem. Enlil, "who brings
 forth what is fitting," resolves to make the seed of the land come up
 from the ground. He separates heaven from earth, fixes their bond at a
 place named *Uzu-e-a* — "Where Flesh Came Forth" — and drives in the hoe.
-What comes up is not a crop but a people. Humanity does not arrive; it
-germinates:
+What comes up is not a crop but a people, germinating from the soil:
 
 {% library(book="song-of-the-hoe-woh", chapter=1, verse=20) %}
 Before Enlil, his Land began to break up through the soil.
@@ -103,7 +102,7 @@ mould that shapes a mud brick, and humanity is pressed out of it like a
 casting. Either way the substance is the same, and it is the ground. The
 place-name says as much on its own: flesh came forth *here*, from *this
 dirt*. The Sumerian does not reach for a heavenly substance or a divine
-emanation. It reaches for the field.
+emanation; its raw material is the field underfoot.
 
 ### A substitute, so the gods may rest
 
@@ -141,8 +140,7 @@ in this article, on the other side of the world.
 The third witness is the fullest statement the ancient world produced,
 and until recently this project could only summarize it from the standard
 editions. The Wheel of Heaven library now hosts a translation of the Old
-Babylonian **Atraḫasīs**, so the lines can be read directly. They repay
-it.
+Babylonian **Atraḫasīs**, so the lines can be read directly.
 
 After the Igigi rebellion, Enki proposes the solution in open council.
 The language is administrative — a proposal, a role, a term of
@@ -190,7 +188,7 @@ and seven on the left, places a brick between them, and the womb-goddesses
 "seven and seven they fashioned: seven male, seven female." The first
 humans come off the line two by two, in a designed batch, from measured
 portions of a prepared mixture. The account is not embarrassed by the
-industrial character of it. It is proud of it.
+industrial character of it; if anything, it is proud of it.
 
 Set the four theological layers of *Atraḫasīs* side by side and the
 Mesopotamian answer to "why is there humanity" is complete: a terrestrial
@@ -312,8 +310,8 @@ from earth for Olodumare to breathe into, with the imperfect ones traced
 to Obatala's drinking; the Vedic *Puruṣa-sūkta*, which is not clay at all
 but the dismemberment of a cosmic being into the human classes, and which
 therefore preserves the *station* half of the motif without the *earth*
-half. But the cases already assembled make the necessary point, and it is
-a dividing one.
+half. But the cases already assembled make the necessary point, and that
+point divides the record.
 
 ## The two halves, and where they travel
 
@@ -386,7 +384,7 @@ accident of inheritance. A motif that survives every incentive to
 discard it is at least worth asking whether it is conserving *information*
 and not only *text*.
 
-Two further explanations deserve their place, and both are partly right.
+Two further explanations belong here, and each is partly right.
 Convergent invention accounts for the bare material half — the clay is
 the obvious material, as argued above, and needs no shared source. And
 the cognitive study of religion would add that a *manufactured* human,
@@ -434,7 +432,7 @@ sequence seen from Israel. And the labor-clause that every witness keeps
 is simply the answer to the question the myths are actually asking, which
 is not "what are we made of" but "what are we *for*."
 
-There is also a contemporary detail that is hard to set aside. For the
+One contemporary detail is harder to set aside. For the
 whole history of reading these texts, the one element that could be
 dismissed as obviously mythological was the workshop itself — the idea
 that somebody manufactured life from earth in a laboratory was exactly
@@ -453,8 +451,8 @@ It removes the easiest reason for assuming they cannot be.
 social projection rather than memory. Agrarian societies ran on brutal
 collective labor — the corvée, the canal-gangs, the brick-quotas — and a
 story that says *the gods built you to do exactly this* is the most
-natural ideological backfill imaginable. There is real force here, and it
-is partly right: these texts plainly do sanctify the labor order, and the
+natural ideological backfill imaginable. The objection has real force:
+these texts plainly do sanctify the labor order, and the
 Nüwa cord-and-clay episode all but confesses it. But aetiology accounts
 for the *purpose* half and not the *material* half. "We toil because the
 gods decreed it" needs no clay, no *Uzu-e-a*, no two-step of body then
