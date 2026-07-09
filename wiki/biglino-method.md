@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 editorial_pass = "2026-05"
+claim_type = "direct"
 category = "Methodology"
 entry_type = "concept"
 alternative_names = ["Biglino Method", "Metodo Biglino (Italian)", "the 'let's pretend it's true' method", "the naked-Bible method"]
@@ -122,6 +123,8 @@ From 2010 onward, Biglino published his own works developing the implications:
 - Numerous subsequent works through the 2020s
 
 The Italian publishing context shaped Biglino's reception. *Il libro che cambierà per sempre le nostre idee sulla Bibbia* was published by Mondadori (one of Italy's major mainstream publishers), reached substantial readership, and produced the surrounding cultural conversation that the subsequent works extended. In Italy, Biglino is a recognizable public figure in religious-cultural debate; in the Anglophone world, his reception is more limited, though *The Naked Bible* (2022) has reached wider audiences.
+
+The independent works also record a quiet change of sources. *Il libro che cambierà* named Zecharia Sitchin's *Earth Chronicles* as its principal frame for the Mesopotamian material — Nibiru, the gold-mining Anunnaki, the whole Sitchinian apparatus. The later books walk away from that scaffolding without announcement: the Sumerian and Akkadian parallels are re-sourced to academic Assyriology (Kramer, Pettinato, Castellino), Nibiru disappears, and Sitchin survives only as a bibliography entry and an occasional "famous and controversial" aside. The trajectory runs opposite to the usual career in the field, where authors tend to drift from the texts toward the mythology of the surrounding literature; Biglino began inside that literature's gravity and pulled himself back toward the consonants. The corpus reads the movement as the method disciplining its own practitioner — a point developed in the Explainer [*The Translator's Wager*](/articles/the-translators-wager/).
 
 ### The genealogical relationship
 
@@ -261,6 +264,22 @@ The corpus's specific divergences from Biglino are worth registering for methodo
 - **The corpus engages the textual-critical questions Biglino largely brackets.** The Masoretic Text is one textual tradition; the Samaritan Pentateuch, the Dead Sea Scrolls, the Septuagint, and various other early textual witnesses preserve substantial variant readings. The corpus engages these where they bear on the interpretive questions; Biglino tends to treat the Masoretic Text as the principal text without extensive engagement with textual variants.
 - **The corpus engages mainstream scholarship substantively.** Where Biglino tends to treat mainstream biblical scholarship dismissively, the corpus engages it substantively at the descriptive level (registering accurate observations about textual transmission, source-critical analysis, historical context) while differing at the interpretive level. The corpus does not need to reject mainstream scholarship to do its work; it needs to integrate mainstream observations with the alternative interpretive framework.
 
+## The audit: bedrock, live debate, and the leaps
+
+The "necessary but insufficient" verdict can be made more precise by sorting Biglino's readings into three zones by how much weight each will bear — a discipline the Explainer [*The Translator's Wager*](/articles/the-translators-wager/) applies at length, and one the method's own "we have no proof" caution invites.
+
+### Bedrock
+
+On a substantial set of readings Biglino stands exactly where the lexica and a large body of mainstream scholarship stand: the grammatical plurality of *elohim* and the plural verbs and pronouns that cling to it at the load-bearing joints; the divine-council scenes; the Qumran reading of Deuteronomy 32:8 ("sons of God" against the Masoretic "sons of Israel"); the root sense of *kavod* as heaviness; the concrete primary senses of *ruach*; the range of *olam* as long duration rather than philosophical eternity; and the late consolidation of monotheism out of an earlier plural cult. His habit of quoting Jewish authorities — Rashi, rabbinic lexicographers, the chief rabbis who share his platforms — is not decoration here; on these points the tradition's own philology is his witness. This is the zone the corpus adopts without qualification.
+
+### Live debate
+
+A second set of claims sits inside genuine, unsettled scholarly argument rather than on either bedrock or fantasy. His case that *bara* never denotes creation from nothing — that its occurrences describe acts performed on pre-existing material — runs parallel to Ellen van Wolde's peer-reviewed proposal that the verb means "to separate," contested among Hebraists but argued as scholarship (the [list of etymological readings](../list-of-etymological-readings/) records the corpus's own assessment). His dating of the monotheizing redaction to the exilic and post-exilic centuries is, in outline, the mainstream position. His insistence that "original sin" is absent from the Hebrew Bible is one that Catholic, Waldensian, and Jewish scholars conceded to his face at the 2016 Milan symposium (below). Here the corpus treats his readings as serious contributions to open questions, not as settled results.
+
+### The leaps
+
+A third set is where the wager outruns the lexicon, and the corpus labels them as such. *Tselem* as DNA is the clearest case: the dictionaries' "something cut out" belongs to the semantics of carved images, and the mainstream reading — the human as the living statue-image of the god, royal ideology democratized — accounts for the same concreteness without the molecule. The step to DNA is not philology but abduction from narrative coherence, and it should be marked as interpretation, exactly as Biglino at his most careful marks it ("we have no proof"). The same holds for the ephod read as a field radio, the Ark as a capacitor, and the *nichoach* odor of the offerings read through opioid biochemistry: the underlying lexical observations are sound, but the technological identifications are a lens, not a finding. The method survives this audit precisely because its author keeps the registers distinct — which is what lets the corpus adopt the bedrock, weigh the debates, and set the leaps aside without discarding the method that produced all three.
+
 ## Modern reinterpretations and adjacent methodologies
 
 The Biglino Method intersects with several distinct contemporary methodological engagements.
@@ -312,6 +331,10 @@ Mainstream biblical scholarship has not, on the whole, engaged substantively wit
 Where mainstream scholars have addressed Biglino, the engagement has been principally dismissive. Italian academic biblical scholarship treats Biglino's interpretive conclusions as pseudoscientific; English-language academic engagement is largely absent.
 
 The corpus position on this asymmetry: the lack of substantive academic engagement with Biglino is methodologically regrettable. Biglino's specific textual observations — the grammatical plurality of *Elohim*, the concrete physicality of the various theophanies, the technical character of the Ark of the Covenant descriptions — are observations that academic scholarship could productively engage even while rejecting Biglino's interpretive framework. The current situation, in which mainstream scholarship rejects Biglino without engaging him and Biglino dismisses mainstream scholarship without engaging it, is unhealthy for the broader interpretive conversation.
+
+The clearest exception to the silence came in 2016, when Biglino sat for more than four hours before an audience of some six hundred people with a panel drawn from the confessional traditions his method contests: the Catholic theologian Ermis Segatti, the Waldensian biblical scholar Daniele Garrone (a co-author of standard Hebrew dictionaries), the Orthodox archbishop Avondios, and Ariel Di Porto, chief rabbi of Turin. They examined his translations in public. By the account of his interviewer Giorgio Cattaneo the exchange produced *"nothing that could undermine his deductive system based on a literal reading of the Old Testament"*; Di Porto confirmed that Judaism carries no doctrine of original sin, and Garrone allowed that it is unclear where Paul derived the concept. None of the panelists adopted Biglino's conclusions, and none needed to — the significance of the event is procedural rather than doctrinal: for one afternoon the engagement mainstream scholarship otherwise declines actually took place, on the record, with the Hebrew text open.
+
+The principal academic study of Biglino, by contrast, studies him rather than his arguments. Manuel Ceccarelli's 2016 article in *Studi e materiali di storia delle religioni* treats the *"fenomeno Biglino"* through the sociology of paleoastronautics and secularization while leaving the philology unanswered — an asymmetry that recurs across the tradition: the academy studies the phenomenon and declines the arguments, while the phenomenon cites the academy's lexicons and declines its conclusions.
 
 ## Cross-cultural comparative observations
 
@@ -381,6 +404,7 @@ The corpus position registers this debate as live rather than settled. The texts
 - [Religion](../religion/)
 - [Genesis](../genesis/)
 - [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the Wallis-extends-Biglino thesis at article length)
+- [The Translator's Wager](/articles/the-translators-wager/) (the close reading of Biglino's whole corpus, and the bedrock/live-debate/leaps audit of the method)
 
 ## References
 

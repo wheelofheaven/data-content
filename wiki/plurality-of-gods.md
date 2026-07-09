@@ -678,6 +678,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Hebrew Bible](../hebrew-bible/)
 - [Tetragrammaton](../tetragrammaton/)
 - [Watchers](../watchers/)
+- [The Translator's Wager](/articles/the-translators-wager/) (Biglino's plural-Elohim reading, and the Psalm 82 / Deuteronomy 32:8 divine-council data, audited)
 - [Apocalypse](../apocalypse/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)

@@ -564,6 +564,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Babel](../babel/)
 - [Sodom and Gomorrah](../sodom-and-gomorrah/)
 - [Atlantis](../atlantis/)
+- [The Translator's Wager](/articles/the-translators-wager/) (Mauro Biglino — the tradition's most institutionally embedded voice — read at article length)
 - [Sumerian King List](../sumerian-king-list/)
 - [Anunnaki](../anunnaki/)
 - [Watchers](../watchers/)

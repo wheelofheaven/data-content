@@ -13,6 +13,7 @@ claim_type = "direct"
 alternative_names = ["Mauro Biglino (1950–)", "the San Paolo translator", "the 'let's pretend it's true' translator"]
 timeline = ["age-of-aquarius"]
 see_also = [
+    { title = "The Translator's Wager", path = "articles/the-translators-wager", description = "The corpus's close reading of Biglino's whole corpus — the bedrock/live-debate/leaps audit of the method and the convergence-and-divergence map with the canon." },
     { title = "Biglino Method", path = "wiki/biglino-method", description = "The strict-literal hermeneutic named after him — three commitments and the 'facciamo finta che' wager; the corpus's full methodological treatment." },
     { title = "Neo-euhemerism", path = "wiki/neo-euhemerism", description = "The umbrella tradition — gods as remembered visitors — in which the corpus places Sendy, Biglino, Wallis, and itself." },
     { title = "Paul Wallis", path = "wiki/paul-wallis", description = "The 'principal Anglophone popularizer of the Biglino-adjacent approach'; the two blurb each other's books and appear together on camera." },
@@ -323,6 +324,24 @@ observations (the grammatical plurality, the concreteness of the
 theophany descriptions, the *bara* question) are ones the academy
 could productively engage on its own terms.
 
+### The 2016 Milan symposium
+
+The standoff had at least one notable interruption. In 2016, before an
+audience of some six hundred, Biglino spent more than four hours on
+stage with a panel drawn from the traditions his method contests: the
+Catholic theologian Ermis Segatti, the Waldensian Hebraist Daniele
+Garrone (a co-author of standard Hebrew dictionaries), the Orthodox
+archbishop Avondios, and Ariel Di Porto, chief rabbi of Turin. They
+examined his translations in public. None adopted his conclusions; by
+his interviewer's account the exchange turned up *"nothing that could
+undermine his deductive system based on a literal reading of the Old
+Testament,"* Di Porto confirmed that Judaism carries no doctrine of
+original sin, and Garrone allowed that it is unclear where Paul derived
+the concept. The value of the event, for the corpus, is procedural: it
+is the one occasion on which the substantive engagement mainstream
+scholarship otherwise declines took place on the record, with the text
+open.
+
 ## Relation to the Wheel of Heaven framework
 
 The corpus's debt to Biglino is methodological and is stated openly:
@@ -351,8 +370,20 @@ his conclusions as what the text says, not as what he believes
 happened, and he draws no doctrine from them. The corpus reads that
 reticence not as a defect but as a division of labor — the translator
 establishes what the words say; the [framework](../wheel-of-heaven/)
-argues about what the words record. The three-generation lineage —
+argues about what the words record. Biglino's practice also tightened over the years, in a way that bears
+on this independence. His first book leaned on Zecharia Sitchin's
+*Earth Chronicles* as its frame for the Mesopotamian material; the
+later works quietly drop that scaffolding, re-sourcing the Sumerian and
+Akkadian parallels to academic Assyriology and leaving Sitchin as a
+bibliography entry and an occasional "famous and controversial" aside.
+The drift runs against the usual course in the genre — from the texts
+toward the mythology of the surrounding literature — and the corpus
+reads it as the method disciplining its own practitioner.
+
+The three-generation lineage —
 Sendy (1969), Biglino (2010–), Wallis (2020–) — and its place in the
 broader tradition is mapped in the
-[neo-euhemerism](../neo-euhemerism/) entry and in the Explainer
-[*The Archdeacon and the Dragon*](/articles/the-archdeacon-and-the-dragon/).
+[neo-euhemerism](../neo-euhemerism/) entry and in the Explainers
+[*The Archdeacon and the Dragon*](/articles/the-archdeacon-and-the-dragon/)
+and [*The Translator's Wager*](/articles/the-translators-wager/), the
+latter a close reading of Biglino's whole corpus.

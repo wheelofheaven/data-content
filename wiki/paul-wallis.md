@@ -14,6 +14,7 @@ claim_type = "direct"
 alternative_names = ["Paul Anthony Wallis", "the Archdeacon of the Eden Series"]
 timeline = ["age-of-aquarius"]
 see_also = [
+    { title = "The Translator's Wager", path = "articles/the-translators-wager", description = "The companion Explainer on Mauro Biglino — the other half of the 'good team'; reads his whole corpus and maps it against the canon." },
     { title = "Biglino Method", path = "wiki/biglino-method", description = "The strict-literal hermeneutic Wallis extends into the Anglophone world; the corpus's entry names him its 'principal Anglophone popularizer.'" },
     { title = "Neo-euhemerism", path = "wiki/neo-euhemerism", description = "The umbrella tradition — gods as remembered visitors — in which the corpus places Sendy, Biglino, Wallis, and itself." },
     { title = "Elohim", path = "wiki/elohim", description = "The plural whose restoration is the foundation of Wallis's whole argument." },
