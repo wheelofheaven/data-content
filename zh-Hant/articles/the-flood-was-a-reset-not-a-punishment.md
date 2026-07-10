@@ -2,7 +2,7 @@
 title = "大洪水是一次重置，而非懲罰"
 description = "細讀蘇美爾、巴比倫、希伯來與《以諾書》系統的洪水記載：一項在議會中作出的裁決、一位被改造以承載種源世系的倖存者，以及一種其策劃者事後懊悔的手段。"
 template = "articles-page.html"
-date = 2026-06-15
+date = 2026-06-16
 draft = false
 
 [extra]

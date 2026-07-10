@@ -2,7 +2,7 @@
 title = "翻譯者的賭注"
 description = "毛羅·比格利諾為一家獲梵蒂岡認可的出版社翻譯了希伯來聖經的十九卷書——隨後，他押上自己的事業，以字面方式解讀它們。"
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-09
 draft = false
 
 [extra]

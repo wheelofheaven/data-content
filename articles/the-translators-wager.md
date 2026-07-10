@@ -2,7 +2,7 @@
 title = "The Translator's Wager"
 description = "Mauro Biglino translated nineteen books of the Hebrew Bible for a Vatican-approved publisher — then wagered his career on reading them literally."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-09
 draft = false
 
 [extra]

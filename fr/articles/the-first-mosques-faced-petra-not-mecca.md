@@ -2,7 +2,7 @@
 title = "Les premières mosquées étaient orientées vers Pétra, non vers La Mecque"
 description = "Lire la qibla primitive, le silence de Ptolémée, la Ka'ba irrégulière d'al-Azraqī et la grammaire nabatéenne du Coran comme un seul argument : que l'islam a commencé comme la Hanafiyya, la religion retrouvée d'Abraham, à Pétra."
 template = "articles-page.html"
-date = 2026-06-30
+date = 2026-07-01
 draft = false
 
 [extra]
@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Pendant environ le premier siècle de l'islam, les mosquées ne sont pas orientées vers La Mecque. Dans le relevé que Dan Gibson a dressé des plus anciens sanctuaires datables, leurs murs de qibla pointent vers le nord — vers Pétra, la capitale nabatéenne abandonnée du sud de la Jordanie. Cette seule affirmation archéologique se trouve au centre d'une convergence : La Mecque est absente de la carte de l'Arabie de Ptolémée ; les plus anciennes mesures de la Ka'ba décrivent une structure quadrilatère irrégulière qui correspond à un autel de Pétra, non à un cube ; la grammaire et l'écriture du Coran descendent de l'araméen nabatéen, et non d'un quelconque dialecte bédouin du Hedjaz ; et les sources les plus anciennes nomment la nouvelle religion non pas « islam » mais la *Ḥanīfiyyah* — « la religion d'Abraham ». Cet Explicatif examine chaque fil à son tour, donne sa propre voix au principal critique (David A. King), puis lit l'ensemble à travers le cadre de la Roue du Ciel : comme un tour de plus du cycle de restauration abrahamique que le corpus suit déjà — un mouvement qui se comprenait lui-même, explicitement, comme la récupération d'une religion originelle perdue par la lignée d'Agar et d'Ismaël."
+summary = "Pendant environ le premier siècle de l'islam, les mosquées ne sont pas orientées vers La Mecque. Dans le relevé que Dan Gibson a dressé des plus anciens sanctuaires datables, leurs murs de qibla pointent vers le nord — vers Pétra, la capitale nabatéenne abandonnée du sud de la Jordanie. Cette seule affirmation archéologique se trouve au centre d'une convergence : La Mecque est absente de la carte de l'Arabie de Ptolémée ; les plus anciennes mesures de la Ka'ba décrivent une structure quadrilatère irrégulière qui correspond à un autel de Pétra, non à un cube ; la grammaire et l'écriture du Coran descendent de l'araméen nabatéen, et non d'un quelconque dialecte bédouin du Hedjaz ; et les sources les plus anciennes nomment la nouvelle religion non pas « islam » mais la *Ḥanīfiyyah* — « la religion d'Abraham ». Cet Explicatif examine chaque fil à son tour, donne sa propre voix au principal critique (David A. King), puis lit l'ensemble à travers le cadre de Wheel of Heaven : comme un tour de plus du cycle de restauration abrahamique que le corpus suit déjà — un mouvement qui se comprenait lui-même, explicitement, comme la récupération d'une religion originelle perdue par la lignée d'Agar et d'Ismaël."
 keywords = ["Pétra", "La Mecque", "qibla", "Dan Gibson", "Hanafiyya", "Nabatéens", "religion d'Abraham", "arabe coranique", "origines de l'islam", "Ismaël"]
 references = [
     { id = "the-book-which-tells-the-truth", locator = "Chapitre « La Vérité », « Le Sacrifice d'Abraham » (Abraham comme figure éprouvée et recrutée de la restauration)" },
@@ -43,7 +43,7 @@ footnotes = [
     { content = "La *Sīra* est le genre biographique traditionnel consacré à la vie de Mahomet. La plus ancienne, la *Sīrat Rasūl Allāh* d'Ibn Isḥāq (vers 760 apr. J.-C.), ne survit principalement qu'à travers la recension postérieure d'Ibn Hishām (mort en 833 apr. J.-C.). C'est la principale source narrative pour la période antérieure à la révélation, y compris les quatre chercheurs de la Hanafiyya." },
     { content = "Arabe *ḥanīf* (pluriel *ḥunafāʾ*) : celui qui s'est détourné de l'idolâtrie vers le monothéisme droit et primordial. Le Coran l'applique à Abraham à plusieurs reprises. Le nom abstrait *Ḥanīfiyyah* désigne cette religion. Le terme est sans rapport avec l'école juridique sunnite postérieure (le *madhhab* ḥanafite) nommée d'après le juriste Abū Ḥanīfa, malgré la racine commune." },
     { content = "Les Nabatéens étaient un peuple de langue arabe qui écrivait en araméen ; leur écriture araméenne cursive est l'ancêtre direct de l'alphabet arabe. Cette filiation scripturaire relève d'une épigraphie courante et incontestée, indépendante de toute thèse sur le lieu où l'islam a commencé." },
-    { content = "Un *calque*, ou traduction-emprunt, rend une expression étrangère élément par élément dans la langue d'accueil plutôt que d'importer le mot lui-même. Plusieurs termes coraniques du lexique opérationnel — *malak*, *rūḥ*, *sakīna* — sont apparentés, via l'araméen, à l'hébreu *mal'akh*, *ruaḥ*, *shekhinah* que le corpus de la Roue du Ciel suit à travers le registre plus ancien." },
+    { content = "Un *calque*, ou traduction-emprunt, rend une expression étrangère élément par élément dans la langue d'accueil plutôt que d'importer le mot lui-même. Plusieurs termes coraniques du lexique opérationnel — *malak*, *rūḥ*, *sakīna* — sont apparentés, via l'araméen, à l'hébreu *mal'akh*, *ruaḥ*, *shekhinah* que le corpus de Wheel of Heaven suit à travers le registre plus ancien." },
     { content = "ʿAbd Allāh ibn al-Zubayr dirigea un califat rival (683–692 apr. J.-C.) depuis la ville sainte contre les Omeyyades de Damas, et reconstruisit la Ka'ba durant son règne. Sa défaite face à al-Ḥajjāj est l'un des points fixes de la période ; Gibson déplace le siège du Hedjaz vers Pétra, citant les dépôts de boulets de catapulte mis au jour au Grand Temple." },
     { content = "La « géographie sacrée » astronomique populaire de David A. King : un ensemble de textes islamiques médiévaux qui assignent les orientations des mosquées aux points de lever et de coucher des étoiles, aux vents cardinaux et à des segments du périmètre même de la Ka'ba — des schémas non mathématiques pour faire face au sanctuaire à distance, dont King soutient qu'ils rendent compte des orientations primitives sans aucune visée vers Pétra." }
 ]
@@ -72,7 +72,7 @@ anciennes mesures consignées de la Ka'ba décrivent une structure quadrilatère
 irrégulière plutôt qu'un cube ; et que la langue, et l'alphabet même, du Coran
 descendent de l'araméen des Nabatéens plutôt que d'un quelconque dialecte du
 Hedjaz. Sous ces quatre affirmations en gît une cinquième, celle qui importe le
-plus au corpus de la Roue du Ciel : que les sources les plus anciennes ne nomment
+plus au corpus de Wheel of Heaven : que les sources les plus anciennes ne nomment
 pas du tout la nouvelle religion *islām*. Elles la nomment la *Ḥanīfiyyah* — la
 religion d'Abraham.
 
@@ -82,7 +82,7 @@ non. Il cède ensuite la parole à l'opposant le plus sérieux de l'hypothèse,
 l'historien de l'astronomie islamique David A. King, dont l'explication
 alternative doit être prise au sérieux avant que rien de tout cela ne soit cru.
 Alors seulement il lit l'ensemble à travers le cadre de la
-{% wiki(slug="wheel-of-heaven") %}Roue du Ciel{% end %} — non comme une
+{% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} — non comme une
 conclusion achevée, mais comme une hypothèse qui, si elle tient, affine un schéma
 que le corpus suit déjà : la récupération récurrente d'un original abrahamique
 perdu.
@@ -311,7 +311,7 @@ que les sources se souviennent qu'elle s'est produite.
 ## La grammaire d'une écriture du nord
 
 Le quatrième fil est celui qui touche le plus directement l'intérêt du corpus de la
-Roue du Ciel pour la langue, et il est, à certains égards, le plus robuste, parce
+Wheel of Heaven pour la langue, et il est, à certains égards, le plus robuste, parce
 que son fondement relève du courant dominant.
 
 Les {% wiki(slug="nabataeans") %}Nabatéens{% end %} étaient un peuple de langue
@@ -422,14 +422,14 @@ cercle pour récupérer une religion qu'elle croyait perdue.
 ## Lecture à travers le cadre
 
 Ici l'essai passe du compte rendu d'une hypothèse révisionniste à sa lecture à
-travers le corpus de la Roue du Ciel — et le passage doit être marqué, car les deux
+travers le corpus de Wheel of Heaven — et le passage doit être marqué, car les deux
 ne sont pas le même genre de revendication. L'archéologie de Gibson est un travail
 empirique contesté qui sera tranché, si jamais, par la fouille et par la réponse à
 David A. King. La lecture du corpus est une interprétation posée par-dessus ce
 travail. Elle est offerte comme `speculative` : une hypothèse sur une hypothèse.
 
 Ce que le cadre remarque, c'est que le corpus a déjà vu cette forme. La lecture
-que la Roue du Ciel fait d'{% wiki(slug="abraham") %}Abraham{% end %} ne le traite
+que Wheel of Heaven fait d'{% wiki(slug="abraham") %}Abraham{% end %} ne le traite
 pas comme le fondateur d'une foi nouvelle. Elle le traite comme une figure
 *recrutée* après l'intervention de Sodome — le chef éprouvé et vérifié autour
 duquel une lignée diminuée fut réorganisée, le fondateur d'un programme de
@@ -492,7 +492,7 @@ déjà nommée.
 
 Il est tentant de lire le retournement du *ḥanīf* comme l'histoire familière du
 monothéisme remplaçant le polythéisme — de multiples dieux se résorbant en un seul.
-Le cadre de la Roue du Ciel décline cette lecture, et la raison touche au cœur du
+Le cadre de Wheel of Heaven décline cette lecture, et la raison touche au cœur du
 corpus. Les {% wiki(slug="elohim") %}Élohim{% end %} sont une pluralité : un
 [Conseil](/wiki/council-of-eternals/) de créateurs finis et incarnés, le pluriel
 grammatical *Elohim* que le texte hébreu conserve et que le corpus lit à travers
@@ -597,7 +597,7 @@ coïncidences sont prises pour des dossiers. Laquelle des deux est en jeu ici se
 décidé par la fouille à Pétra, par la réponse savante à King, et par la question de
 savoir si le jeu de données de la qibla survit à un remesurage indépendant.
 
-Le corpus de la Roue du Ciel n'a pas besoin de ce verdict pour tirer sa propre
+Le corpus de Wheel of Heaven n'a pas besoin de ce verdict pour tirer sa propre
 conclusion, plus étroite. La part de tout ceci qui repose sur le Coran et Ibn Isḥāq
 — que la nouvelle religion se comprenait comme la
 {% wiki(slug="hanafiyya") %}Ḥanīfiyyah{% end %}, la religion retrouvée
@@ -642,7 +642,7 @@ devint une instance lourde de cette dérive — ce qui n'est pas un argument con
 qu'il fut à son commencement, seulement contre ce qu'on en a fait.
 
 C'est pourquoi je veux, quand le temps le permettra, retraduire le Coran à travers
-le prisme de la Roue du Ciel — et après lui le Hadith et d'autres textes — comme le
+le prisme de Wheel of Heaven — et après lui le Hadith et d'autres textes — comme le
 [Programme de traduction](/library/) l'a déjà entrepris avec la Genèse, l'Exode et
 le reste. Le but n'est pas de faire dire au Coran quelque chose de nouveau. C'est de
 le lire, autant que la langue le permet, comme ses premiers récitants l'ont

@@ -2,7 +2,7 @@
 title = "The First Mosques Faced Petra, Not Mecca"
 description = "Reading the early qibla, Ptolemy's silence, al-Azraqī's irregular Ka'ba, and the Nabataean grammar of the Qur'an as one argument: that Islam began as the Hanafiyya, the recovered religion of Abraham, at Petra."
 template = "articles-page.html"
-date = 2026-06-30
+date = 2026-07-01
 draft = false
 
 [extra]

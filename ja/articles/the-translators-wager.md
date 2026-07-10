@@ -2,7 +2,7 @@
 title = "翻訳者の賭け"
 description = "マウロ・ビリーノはバチカン公認の出版社のためにヘブライ語聖書の十九の書を翻訳した——そして自らの経歴を、それらを字義どおりに読むことに賭けた。"
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-09
 draft = false
 
 [extra]

@@ -2,7 +2,7 @@
 title = "El Diluvio fue un reinicio, no un castigo"
 description = "Una lectura atenta de los relatos sumerio, babilónico, hebreo y enóquico del diluvio: un decreto tomado en consejo, un superviviente diseñado para portar una línea-semilla, un método que sus propios planificadores lamentaron."
 template = "articles-page.html"
-date = 2026-06-15
+date = 2026-06-16
 draft = false
 
 [extra]
@@ -12,7 +12,7 @@ author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 article_type = "explainer"
 category = "Comparative"
-summary = "Leídas con atención, las historias del diluvio más antiguas no describen a un dios perdiendo los estribos. Describen una decisión tomada en asamblea, jurada bajo juramento y declarada irrevocable; un superviviente al que se le entregan especificaciones técnicas precisas y se le ordena cargar *la semilla de todo lo viviente*; y —lo más revelador— un debate entre los planificadores en el que uno de ellos sostiene que un diluvio es el *instrumento equivocado*, desproporcionado e indiscriminado, y nombra las alternativas selectivas que se deberían haber usado en su lugar. La *Historia del Diluvio* sumeria, el *Atraḫasīs* y el *Gilgamesh* XI babilónicos, el *Libro de los Vigilantes* y el *Génesis* 6–9 no comparten un estado de ánimo, sino un procedimiento. Este Explicativo recorre ese procedimiento línea por línea, toma en serio la explicación dominante de la difusión y luego lee la convergencia a través del marco de la Rueda del Cielo: como el registro administrativo de un reinicio gestionado."
+summary = "Leídas con atención, las historias del diluvio más antiguas no describen a un dios perdiendo los estribos. Describen una decisión tomada en asamblea, jurada bajo juramento y declarada irrevocable; un superviviente al que se le entregan especificaciones técnicas precisas y se le ordena cargar *la semilla de todo lo viviente*; y —lo más revelador— un debate entre los planificadores en el que uno de ellos sostiene que un diluvio es el *instrumento equivocado*, desproporcionado e indiscriminado, y nombra las alternativas selectivas que se deberían haber usado en su lugar. La *Historia del Diluvio* sumeria, el *Atraḫasīs* y el *Gilgamesh* XI babilónicos, el *Libro de los Vigilantes* y el *Génesis* 6–9 no comparten un estado de ánimo, sino un procedimiento. Este Explicativo recorre ese procedimiento línea por línea, toma en serio la explicación dominante de la difusión y luego lee la convergencia a través del marco de Wheel of Heaven: como el registro administrativo de un reinicio gestionado."
 keywords = ["el diluvio", "diluvio", "Atrahasis", "Gilgamesh", "diluvio del Génesis", "Vigilantes", "hipótesis de los Elohim"]
 references = [
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (The Flood; the cell-line preserved aboard a staged craft)" },
@@ -83,7 +83,7 @@ llevado a cabo por planificadores divididos al respecto, que después cuestionar
 cómo lo habían ejecutado. Leeré los textos con la atención suficiente para mostrar
 ese procedimiento a través de cuatro literaturas, sopesaré la explicación dominante
 de por qué se repite, y luego expondré qué hace de él el marco de la
-{% wiki(slug="wheel-of-heaven") %}Rueda del Cielo{% end %}. Allí donde la lectura
+{% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %}. Allí donde la lectura
 pasa de lo que las palabras dicen a lo que podrían significar, marco la línea.
 
 ## El decreto se toma en consejo, no con ira
@@ -433,7 +433,7 @@ por qué aquello que se copiaba ya tenía la forma de un registro de operaciones
 ## Leyéndolo a través del marco
 
 *Todo a partir de aquí es interpretación. La lectura atenta de arriba se sostiene
-por sí misma; lo que sigue es la lectura que la {% wiki(slug="wheel-of-heaven") %}Rueda del Cielo{% end %}
+por sí misma; lo que sigue es la lectura que la {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %}
 hace de ella, y debe sopesarse como tal.*
 
 El marco parte de la afirmación fundacional del corpus: que los

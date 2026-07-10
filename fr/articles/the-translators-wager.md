@@ -2,7 +2,7 @@
 title = "Le pari du traducteur"
 description = "Mauro Biglino a traduit dix-neuf livres de la Bible hébraïque pour un éditeur approuvé par le Vatican — puis il a misé sa carrière sur une lecture littérale de ces textes."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-09
 draft = false
 
 [extra]

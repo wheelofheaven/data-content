@@ -2,7 +2,7 @@
 title = "最早的清真寺朝向佩特拉，而非麥加"
 description = "將早期的朝向（qibla）、托勒密的沉默、阿茲拉基所記不規則的卡巴天房，以及《古蘭經》的納巴泰語法，視為同一個論證：伊斯蘭教始於佩特拉，作為哈尼夫信仰（Ḥanīfiyyah）——亞伯拉罕被尋回的宗教。"
 template = "articles-page.html"
-date = 2026-06-30
+date = 2026-07-01
 draft = false
 
 [extra]

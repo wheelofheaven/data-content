@@ -2,7 +2,7 @@
 title = "Las primeras mezquitas miraban hacia Petra, no hacia La Meca"
 description = "Una lectura de la quibla temprana, el silencio de Ptolomeo, la Kaaba irregular de al-Azraqī y la gramática nabatea del Corán como un solo argumento: que el islam comenzó como la Hanafiyya, la religión recuperada de Abraham, en Petra."
 template = "articles-page.html"
-date = 2026-06-30
+date = 2026-07-01
 draft = false
 
 [extra]
@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Durante aproximadamente el primer siglo islámico, las mezquitas no miran hacia La Meca. En el estudio que Dan Gibson hizo de los santuarios datables más antiguos, sus muros de la quibla apuntan al norte — hacia Petra, la abandonada capital nabatea del sur de Jordania. Esa única afirmación arqueológica se sitúa en el centro de una convergencia: La Meca está ausente del mapa de Arabia de Ptolomeo; las medidas más antiguas de la Kaaba describen una estructura irregular de cuatro lados que coincide con un altar de Petra, no con un cubo; la gramática y la escritura del Corán descienden del arameo nabateo, no de ningún dialecto beduino hiyazí; y las fuentes más tempranas llaman a la nueva religión no «islam» sino la *Ḥanīfiyyah* — «la religión de Abraham». Este Explicativo recorre cada hebra por turno, da su propia voz al principal crítico (David A. King) y luego lee el conjunto a través del marco de la Rueda del Cielo: como un giro más del ciclo de restauración abrahámica que el corpus ya rastrea — un movimiento que se entendió a sí mismo, explícitamente, como la recuperación de una religión original perdida a través de la línea de Agar e Ismael."
+summary = "Durante aproximadamente el primer siglo islámico, las mezquitas no miran hacia La Meca. En el estudio que Dan Gibson hizo de los santuarios datables más antiguos, sus muros de la quibla apuntan al norte — hacia Petra, la abandonada capital nabatea del sur de Jordania. Esa única afirmación arqueológica se sitúa en el centro de una convergencia: La Meca está ausente del mapa de Arabia de Ptolomeo; las medidas más antiguas de la Kaaba describen una estructura irregular de cuatro lados que coincide con un altar de Petra, no con un cubo; la gramática y la escritura del Corán descienden del arameo nabateo, no de ningún dialecto beduino hiyazí; y las fuentes más tempranas llaman a la nueva religión no «islam» sino la *Ḥanīfiyyah* — «la religión de Abraham». Este Explicativo recorre cada hebra por turno, da su propia voz al principal crítico (David A. King) y luego lee el conjunto a través del marco de Wheel of Heaven: como un giro más del ciclo de restauración abrahámica que el corpus ya rastrea — un movimiento que se entendió a sí mismo, explícitamente, como la recuperación de una religión original perdida a través de la línea de Agar e Ismael."
 keywords = ["Petra", "La Meca", "quibla", "Dan Gibson", "Hanafiyya", "nabateos", "religión de Abraham", "árabe coránico", "orígenes del islam", "Ismael"]
 references = [
     { id = "the-book-which-tells-the-truth", locator = "Capítulo 'La Verdad', 'El sacrificio de Abraham' (Abraham como figura probada y reclutada de la recuperación)" },
@@ -43,7 +43,7 @@ footnotes = [
     { content = "La *Sīra* es el género de la tradición biográfica sobre la vida de Mahoma. La más temprana, la *Sīrat Rasūl Allāh* de Ibn Isḥāq (h. 760 d. C.), se conserva principalmente a través de la recensión posterior de Ibn Hishām (m. 833 d. C.). Es la principal fuente narrativa para el período anterior a la revelación, incluidos los cuatro buscadores de la Hanafiyya." },
     { content = "Del árabe *ḥanīf* (plural *ḥunafāʾ*): aquel que se ha apartado de la idolatría hacia el monoteísmo recto y primordial. El Corán lo aplica repetidamente a Abraham. El sustantivo abstracto *Ḥanīfiyyah* nombra esa religión. El término no guarda relación con la posterior escuela jurídica suní (el *madhhab* ḥanafí) que toma su nombre del jurista Abū Ḥanīfa, pese a la raíz compartida." },
     { content = "Los nabateos eran un pueblo de habla árabe que escribía en arameo; su escritura aramea cursiva es el antepasado directo del alfabeto árabe. Esta descendencia de la escritura es epigrafía dominante incontestada, independiente de cualquier tesis sobre dónde comenzó el islam." },
-    { content = "Un *calco* o traducción por préstamo vierte una expresión extranjera parte por parte a la lengua receptora en lugar de importar la palabra misma. Varios términos coránicos del léxico operativo — *malak*, *rūḥ*, *sakīna* — son cognados, a través del arameo, de los hebreos *mal'akh*, *ruaḥ*, *shekhinah* que el corpus de la Rueda del Cielo rastrea a lo largo del registro más antiguo." },
+    { content = "Un *calco* o traducción por préstamo vierte una expresión extranjera parte por parte a la lengua receptora en lugar de importar la palabra misma. Varios términos coránicos del léxico operativo — *malak*, *rūḥ*, *sakīna* — son cognados, a través del arameo, de los hebreos *mal'akh*, *ruaḥ*, *shekhinah* que el corpus de Wheel of Heaven rastrea a lo largo del registro más antiguo." },
     { content = "ʿAbd Allāh ibn al-Zubayr encabezó un califato rival (683–692 d. C.) desde la ciudad santa contra los omeyas de Damasco, y reconstruyó la Kaaba durante su reinado. Su derrota a manos de al-Ḥajjāj es uno de los puntos fijos del período; Gibson reubica el asedio del Hiyaz a Petra, citando los depósitos de piedras de catapulta excavados en el Gran Templo." },
     { content = "La 'geografía sagrada' folclórico-astronómica de David A. King: un conjunto de textos islámicos medievales que asignan las orientaciones de las mezquitas a los puntos de salida y puesta de las estrellas, a los vientos cardinales y a segmentos del propio perímetro de la Kaaba — esquemas no matemáticos para mirar hacia el santuario a distancia, que según King explican las orientaciones tempranas sin ningún intento de apuntar a Petra." }
 ]
@@ -71,7 +71,7 @@ falta en la geografía antigua de Arabia; que las medidas más antiguas registra
 de la Kaaba describen una estructura irregular de cuatro lados en lugar de un
 cubo; y que la lengua y el propio alfabeto del Corán descienden del arameo de los
 nabateos y no de ningún dialecto del Hiyaz. Bajo las cuatro yace una quinta
-observación, la que más le importa al corpus de la Rueda del Cielo: que las
+observación, la que más le importa al corpus de Wheel of Heaven: que las
 fuentes más tempranas no llaman *Islām* a la nueva religión en absoluto. La llaman
 la *Ḥanīfiyyah* — la religión de Abraham.
 
@@ -80,7 +80,7 @@ separado y el argumento vive o muere según converjan o no de verdad. Luego cede
 la palabra al opositor más serio de la hipótesis, el historiador de la astronomía
 islámica David A. King, cuya explicación alternativa hay que tomar en serio antes
 de creer nada de esto. Solo entonces lee el conjunto a través del marco de la
-{% wiki(slug="wheel-of-heaven") %}Rueda del Cielo{% end %} — no como una
+{% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} — no como una
 conclusión acabada, sino como una hipótesis que, si se sostiene, agudiza un patrón
 que el corpus ya sigue: la recuperación recurrente de un original abrahámico
 perdido.
@@ -415,14 +415,14 @@ recuperar una religión que creía perdida.
 ## Una lectura a través del marco
 
 Aquí el ensayo cruza de informar sobre una hipótesis revisionista a leerla a través
-del corpus de la Rueda del Cielo — y el cruce ha de señalarse, porque no son el
+del corpus de Wheel of Heaven — y el cruce ha de señalarse, porque no son el
 mismo tipo de afirmación. La arqueología de Gibson es un trabajo empírico discutido
 que se zanjará, si alguna vez se zanja, mediante la excavación y mediante la
 respuesta a David A. King. La lectura del corpus es interpretación superpuesta a ese
 trabajo. Se ofrece como `speculative`: una hipótesis sobre una hipótesis.
 
 Lo que el marco advierte es que el corpus ya ha visto esta forma antes. La lectura
-que la Rueda del Cielo hace de {% wiki(slug="abraham") %}Abraham{% end %} no lo
+que Wheel of Heaven hace de {% wiki(slug="abraham") %}Abraham{% end %} no lo
 trata como el fundador de una nueva fe. Lo trata como una figura *reclutada* tras la
 intervención de Sodoma — el líder probado y verificado en torno al cual se
 reorganizó un linaje disminuido, el fundador de un programa de recuperación. El
@@ -483,7 +483,7 @@ Hanafiyya que el corpus ya había nombrado.
 
 Hay una tentación de leer el giro del *ḥanīf* como la historia conocida del
 monoteísmo reemplazando al politeísmo — muchos dioses colapsándose en uno. El marco
-de la Rueda del Cielo rechaza esa lectura, y la razón llega hasta el centro del
+de Wheel of Heaven rechaza esa lectura, y la razón llega hasta el centro del
 corpus. Los {% wiki(slug="elohim") %}Elohim{% end %} son una pluralidad: un
 [Consejo](/wiki/council-of-eternals/) de creadores finitos y corpóreos, el *Elohim*
 gramaticalmente plural que el texto hebreo conserva y que el corpus lee a lo largo de
@@ -584,7 +584,7 @@ coincidencias con casos. Cuál de las dos cosas es esta lo decidirán la excavac
 Petra, la respuesta académica a King y si el conjunto de datos de la quibla
 sobrevive a una remedición independiente.
 
-El corpus de la Rueda del Cielo no necesita ese veredicto para extraer su propia
+El corpus de Wheel of Heaven no necesita ese veredicto para extraer su propia
 conclusión, más estrecha. La parte de esto que descansa sobre el Corán e Ibn Isḥāq —
 que la nueva religión se entendió a sí misma como la
 {% wiki(slug="hanafiyya") %}Ḥanīfiyyah{% end %}, la religión recuperada de
@@ -627,7 +627,7 @@ deriva — lo cual no es un argumento contra aquello que fue en su comienzo, sin
 contra lo que se hizo con él.
 
 Por eso quiero, cuando haya tiempo, retraducir el Corán a través de la lente de la
-Rueda del Cielo — y tras él el Hadiz y otros textos — del mismo modo que el
+Wheel of Heaven — y tras él el Hadiz y otros textos — del mismo modo que el
 [Programa de Traducción](/library/) ya ha empezado con el Génesis, el Éxodo y los
 demás. El objetivo no es hacer que el Corán diga algo nuevo. Es leerlo, en la medida
 en que la lengua lo permita, tal como pudieron entenderlo sus primeros recitadores:

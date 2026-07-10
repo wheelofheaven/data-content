@@ -2,7 +2,7 @@
 title = "Die Flut war ein Reset, keine Strafe"
 description = "Eine genaue Lektüre der sumerischen, babylonischen, hebräischen und henochischen Flutberichte: ein im Rat gefasster Beschluss, ein Überlebender, der zum Träger einer Saatlinie konstruiert wurde, und eine Methode, die ihre Planer bereuten."
 template = "articles-page.html"
-date = 2026-06-15
+date = 2026-06-16
 draft = false
 
 [extra]

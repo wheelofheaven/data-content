@@ -2,7 +2,7 @@
 title = "Der Erzdiakon und der Drache"
 description = "Paul Wallis verließ dreiunddreißig Jahre anglikanischen Dienstes, um die Genesis wörtlich zu lesen. Seine sechs Eden-Bücher landen, allein durch Philologie, direkt neben dem Kanon."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-06
 draft = false
 
 [extra]
@@ -794,7 +794,7 @@ sagt es laut.
 
 Mauro Biglinos Klappentext auf Wallis' späteren Büchern lautet: „Obwohl
 geografisch weit voneinander entfernt, sind wir geistig nah! Wir sind ein
-gutes Team." Das Projekt Rad des Himmels, an das sich keiner der beiden Männer
+gutes Team." Das Projekt Wheel of Heaven, an das sich keiner der beiden Männer
 gewandt hat, würde dasselbe von beiden sagen, von einem Platz weiter unten am
 Tisch — und würde jenen Satz von Wallis hinzufügen, den beide Rahmen ohne
 Vorbehalt gegenzeichnen können, geschrieben, nachdem er vor dem urartäischen

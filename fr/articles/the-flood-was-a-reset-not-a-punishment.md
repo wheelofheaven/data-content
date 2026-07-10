@@ -2,7 +2,7 @@
 title = "Le Déluge fut une réinitialisation, non un châtiment"
 description = "Lecture serrée des récits sumérien, babylonien, hébraïque et hénochien du déluge : un décret pris en conseil, un survivant conçu pour porter une lignée-semence, une méthode que ses planificateurs ont regrettée."
 template = "articles-page.html"
-date = 2026-06-15
+date = 2026-06-16
 draft = false
 
 [extra]
@@ -12,7 +12,7 @@ author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 article_type = "explainer"
 category = "Comparative"
-summary = "Lus de près, les plus anciens récits du déluge ne décrivent pas un dieu emporté par la colère. Ils décrivent une décision prise en assemblée, jurée sous serment et déclarée irrévocable ; un survivant à qui l'on remet des spécifications techniques précises et à qui l'on ordonne de charger *la semence de tous les êtres vivants* ; et — plus révélateur encore — un débat entre les planificateurs au cours duquel l'un d'eux soutient qu'un déluge est le *mauvais instrument*, disproportionné et indiscriminé, et nomme les solutions ciblées qui auraient dû être employées à la place. La *Légende du déluge* sumérienne, l'*Atraḫasīs* et le *Gilgamesh* XI babyloniens, le *Livre des Veilleurs* et la *Genèse* 6–9 partagent non pas une humeur mais une procédure. Cet Explicatif parcourt cette procédure ligne à ligne, prend au sérieux l'explication courante par la diffusion, puis lit la convergence à travers le cadre de la Roue du Ciel — comme le registre administratif d'une réinitialisation pilotée."
+summary = "Lus de près, les plus anciens récits du déluge ne décrivent pas un dieu emporté par la colère. Ils décrivent une décision prise en assemblée, jurée sous serment et déclarée irrévocable ; un survivant à qui l'on remet des spécifications techniques précises et à qui l'on ordonne de charger *la semence de tous les êtres vivants* ; et — plus révélateur encore — un débat entre les planificateurs au cours duquel l'un d'eux soutient qu'un déluge est le *mauvais instrument*, disproportionné et indiscriminé, et nomme les solutions ciblées qui auraient dû être employées à la place. La *Légende du déluge* sumérienne, l'*Atraḫasīs* et le *Gilgamesh* XI babyloniens, le *Livre des Veilleurs* et la *Genèse* 6–9 partagent non pas une humeur mais une procédure. Cet Explicatif parcourt cette procédure ligne à ligne, prend au sérieux l'explication courante par la diffusion, puis lit la convergence à travers le cadre de Wheel of Heaven — comme le registre administratif d'une réinitialisation pilotée."
 keywords = ["le déluge", "déluge", "Atrahasis", "Gilgamesh", "déluge de la Genèse", "Veilleurs", "hypothèse Élohim"]
 references = [
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (The Flood; the cell-line preserved aboard a staged craft)" },
@@ -84,7 +84,7 @@ pilotée, menée par des planificateurs qui en étaient divisés, et qui, par la
 suite, remirent en question la manière dont ils l'avaient conduite. Je lirai les
 textes d'assez près pour faire apparaître cette procédure à travers quatre
 littératures, pèserai l'explication courante de sa récurrence, puis exposerai ce
-que le cadre de la {% wiki(slug="wheel-of-heaven") %}Roue du Ciel{% end %} en
+que le cadre de {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} en
 fait. Là où la lecture passe de ce que disent les mots à ce qu'ils pourraient
 signifier, je marque la frontière.
 
@@ -454,7 +454,7 @@ dit pas pourquoi la chose copiée avait déjà la forme d'un journal d'opératio
 
 *Tout ce qui suit est interprétation. La lecture serrée ci-dessus tient
 d'elle-même ; ce qui suit en est la lecture par la
-{% wiki(slug="wheel-of-heaven") %}Roue du Ciel{% end %}, et doit être pesé comme
+{% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %}, et doit être pesé comme
 tel.*
 
 Le cadre part de la prétention fondatrice du corpus : que les

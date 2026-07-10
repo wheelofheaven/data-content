@@ -2,7 +2,7 @@
 title = "翻译者的赌注"
 description = "毛罗·比格利诺为一家获梵蒂冈认可的出版社翻译了希伯来圣经的十九卷书——随后，他押上自己的事业，以字面方式解读它们。"
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-09
 draft = false
 
 [extra]

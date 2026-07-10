@@ -2,7 +2,7 @@
 title = "L'archidiacre et le dragon"
 description = "Paul Wallis a quitté trente-trois ans de ministère anglican pour lire la Genèse littéralement. Ses six livres d'Éden aboutissent, par la seule philologie, au voisinage du canon."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-06
 draft = false
 
 [extra]
@@ -798,7 +798,7 @@ haute.
 La note de couverture de Mauro Biglino sur les livres plus tardifs de
 Wallis se lit : « Bien que géographiquement éloignés, nous sommes
 spirituellement proches ! Nous formons une bonne équipe. » Le projet de la
-Roue du Ciel, qu'aucun des deux hommes n'a abordé, en dirait autant des
+Wheel of Heaven, qu'aucun des deux hommes n'a abordé, en dirait autant des
 deux, depuis un siège un peu plus bas à la table — et ajouterait la phrase
 de Wallis que les deux cadres peuvent contresigner sans réserve, écrite
 après qu'il se fut tenu devant la « Porte de Lumière » urartéenne de Meher

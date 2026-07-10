@@ -2,7 +2,7 @@
 title = "번역가의 내기"
 description = "마우로 빌리노는 바티칸 공인 출판사를 위해 히브리 성경 열아홉 권을 번역했다 — 그런 뒤 그 책들을 문자 그대로 읽는 데 자신의 경력을 걸었다."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-09
 draft = false
 
 [extra]

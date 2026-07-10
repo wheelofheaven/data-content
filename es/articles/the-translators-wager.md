@@ -2,7 +2,7 @@
 title = "La apuesta del traductor"
 description = "Mauro Biglino tradujo diecinueve libros de la Biblia hebrea para una editorial con aprobación vaticana —y entonces apostó su carrera a leerlos literalmente."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-09
 draft = false
 
 [extra]

@@ -2,7 +2,7 @@
 title = "Die Wette des Übersetzers"
 description = "Mauro Biglino übersetzte neunzehn Bücher der Hebräischen Bibel für einen vom Vatikan approbierten Verlag — und setzte dann seine Karriere darauf, sie wörtlich zu lesen."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-09
 draft = false
 
 [extra]

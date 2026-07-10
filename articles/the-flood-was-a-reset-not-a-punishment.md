@@ -2,7 +2,7 @@
 title = "The Flood Was a Reset, Not a Punishment"
 description = "Reading the Sumerian, Babylonian, Hebrew, and Enochic flood accounts closely: a decree taken in council, a survivor engineered to carry a seed-line, a method its planners regretted."
 template = "articles-page.html"
-date = 2026-06-15
+date = 2026-06-16
 draft = false
 
 [extra]

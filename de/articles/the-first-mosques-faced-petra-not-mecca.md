@@ -2,7 +2,7 @@
 title = "Die ersten Moscheen waren nach Petra ausgerichtet, nicht nach Mekka"
 description = "Eine Lektüre der frühen Qibla, des Schweigens des Ptolemäus, der unregelmäßigen Kaaba bei al-Azraqī und der nabatäischen Grammatik des Korans als ein einziges Argument: dass der Islam als die Hanafiyya begann, die wiedergewonnene Religion Abrahams, in Petra."
 template = "articles-page.html"
-date = 2026-06-30
+date = 2026-07-01
 draft = false
 
 [extra]
@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Etwa das erste islamische Jahrhundert lang sind die Moscheen nicht nach Mekka ausgerichtet. In Dan Gibsons Vermessung der ältesten datierbaren Heiligtümer weisen ihre Qibla-Wände nach Norden — auf Petra, die verlassene nabatäische Hauptstadt im südlichen Jordanien. Diese eine archäologische Behauptung steht im Zentrum einer Konvergenz: Mekka fehlt auf der Arabienkarte des Ptolemäus; die frühesten Kaaba-Maße beschreiben ein unregelmäßiges vierseitiges Bauwerk, das zu einem Altar in Petra passt, nicht zu einem Würfel; die Grammatik und die Schrift des Korans stammen vom nabatäischen Aramäisch ab, nicht von irgendeinem hidschazenischen Beduinendialekt; und die frühesten Quellen nennen die neue Religion nicht „Islam“, sondern die *Ḥanīfiyyah* — „die Religion Abrahams“. Dieser Explainer arbeitet jeden Strang der Reihe nach durch, gibt dem wichtigsten Kritiker (David A. King) eine eigene Stimme und liest dann das Ganze durch den Rahmen des Rad des Himmels: als eine weitere Drehung des abrahamitischen Wiederherstellungszyklus, den das Korpus bereits verfolgt — eine Bewegung, die sich selbst ausdrücklich als die Wiedergewinnung einer verlorenen ursprünglichen Religion durch die Linie Hagars und Ismaels verstand."
+summary = "Etwa das erste islamische Jahrhundert lang sind die Moscheen nicht nach Mekka ausgerichtet. In Dan Gibsons Vermessung der ältesten datierbaren Heiligtümer weisen ihre Qibla-Wände nach Norden — auf Petra, die verlassene nabatäische Hauptstadt im südlichen Jordanien. Diese eine archäologische Behauptung steht im Zentrum einer Konvergenz: Mekka fehlt auf der Arabienkarte des Ptolemäus; die frühesten Kaaba-Maße beschreiben ein unregelmäßiges vierseitiges Bauwerk, das zu einem Altar in Petra passt, nicht zu einem Würfel; die Grammatik und die Schrift des Korans stammen vom nabatäischen Aramäisch ab, nicht von irgendeinem hidschazenischen Beduinendialekt; und die frühesten Quellen nennen die neue Religion nicht „Islam“, sondern die *Ḥanīfiyyah* — „die Religion Abrahams“. Dieser Explainer arbeitet jeden Strang der Reihe nach durch, gibt dem wichtigsten Kritiker (David A. King) eine eigene Stimme und liest dann das Ganze durch den Rahmen von Wheel of Heaven: als eine weitere Drehung des abrahamitischen Wiederherstellungszyklus, den das Korpus bereits verfolgt — eine Bewegung, die sich selbst ausdrücklich als die Wiedergewinnung einer verlorenen ursprünglichen Religion durch die Linie Hagars und Ismaels verstand."
 keywords = ["Petra", "Mekka", "Qibla", "Dan Gibson", "Hanafiyya", "Nabatäer", "Religion Abrahams", "koranisches Arabisch", "Ursprünge des Islam", "Ismael"]
 references = [
     { id = "the-book-which-tells-the-truth", locator = "Kapitel ‚Die Wahrheit‘, ‚Das Opfer Abrahams‘ (Abraham als geprüfte, rekrutierte Gestalt der Wiederherstellung)" },
@@ -43,7 +43,7 @@ footnotes = [
     { content = "Die *Sīra* ist die biographische Überlieferungsgattung zum Leben Mohammeds. Die früheste, Ibn Isḥāqs *Sīrat Rasūl Allāh* (um 760 n. Chr.), ist hauptsächlich durch die spätere Rezension Ibn Hischāms (gest. 833 n. Chr.) überliefert. Sie ist die wichtigste Erzählquelle für die Zeit vor der Offenbarung, einschließlich der vier Suchenden der Hanafiyya." },
     { content = "Arabisch *ḥanīf* (Plural *ḥunafāʾ*): einer, der sich vom Götzendienst dem aufrechten, ursprünglichen Monotheismus zugewandt hat. Der Koran wendet es wiederholt auf Abraham an. Das Abstraktum *Ḥanīfiyyah* benennt jene Religion. Der Begriff steht in keinem Zusammenhang mit der späteren sunnitischen Rechtsschule (dem ḥanafitischen *madhhab*), die nach dem Juristen Abū Ḥanīfa benannt ist, trotz der gemeinsamen Wurzel." },
     { content = "Die Nabatäer waren ein arabischsprachiges Volk, das auf Aramäisch schrieb; ihre kursive aramäische Hand ist der direkte Vorfahr des arabischen Alphabets. Diese Schriftabstammung ist unbestrittene Standard-Epigraphik, unabhängig von jeder These darüber, wo der Islam begann." },
-    { content = "Ein *Calque* oder eine Lehnübersetzung gibt eine fremde Wendung Glied für Glied in der entlehnenden Sprache wieder, statt das Wort selbst zu übernehmen. Mehrere koranische Begriffe des operativen Vokabulars — *malak*, *rūḥ*, *sakīna* — sind über das Aramäische mit den hebräischen *mal’akh*, *ruaḥ*, *shekhinah* verwandt, die das Korpus des Rad des Himmels durch die ältere Überlieferung verfolgt." },
+    { content = "Ein *Calque* oder eine Lehnübersetzung gibt eine fremde Wendung Glied für Glied in der entlehnenden Sprache wieder, statt das Wort selbst zu übernehmen. Mehrere koranische Begriffe des operativen Vokabulars — *malak*, *rūḥ*, *sakīna* — sind über das Aramäische mit den hebräischen *mal’akh*, *ruaḥ*, *shekhinah* verwandt, die das Korpus von Wheel of Heaven durch die ältere Überlieferung verfolgt." },
     { content = "ʿAbd Allāh ibn al-Zubayr führte ein rivalisierendes Kalifat (683–692 n. Chr.) von der heiligen Stadt aus gegen die Umayyaden von Damaskus und baute die Kaaba während seiner Herrschaft wieder auf. Seine Niederlage gegen al-Ḥajjāj ist einer der Fixpunkte der Epoche; Gibson verlegt die Belagerung vom Hidschas nach Petra und beruft sich auf die am Großen Tempel ausgegrabenen Katapultstein-Funde." },
     { content = "Die volksastronomische ‚heilige Geographie‘ von David A. King: ein Korpus mittelalterlicher islamischer Texte, die Moscheeausrichtungen den Auf- und Untergangspunkten von Sternen, den Himmelsrichtungswinden und Segmenten des Kaaba-Umfangs selbst zuordnen — nicht-mathematische Schemata, um das Heiligtum aus der Ferne anzuvisieren, die nach Kings Auffassung die frühen Ausrichtungen ohne jedes Zielen auf Petra erklären." }
 ]
@@ -314,7 +314,7 @@ war und dass die Quellen sich daran erinnern.
 
 ## Die Grammatik einer nördlichen Schrift
 
-Der vierte Strang ist derjenige, der das Interesse des Korpus des Rad des Himmels
+Der vierte Strang ist derjenige, der das Interesse des Korpus von Wheel of Heaven
 an der Sprache am unmittelbarsten berührt, und er ist in mancher Hinsicht der
 robusteste, weil seine Grundlage Mainstream ist.
 
@@ -431,7 +431,7 @@ die zurückkreiste, um eine Religion wiederzugewinnen, die sie für verloren hie
 ## Gelesen durch den Rahmen
 
 Hier wechselt der Essay vom Bericht über eine revisionistische Hypothese zu ihrer
-Lektüre durch das Korpus des Rad des Himmels — und der Übergang muss markiert
+Lektüre durch das Korpus von Wheel of Heaven — und der Übergang muss markiert
 werden, denn die beiden sind nicht dieselbe Art von Behauptung. Gibsons Archäologie
 ist umstrittene empirische Arbeit, die, falls überhaupt, durch Ausgrabung und durch
 die Antwort auf David A. King entschieden wird. Die Lektüre des Korpus ist eine

@@ -2,7 +2,7 @@
 title = "El arcediano y el dragón"
 description = "Paul Wallis dejó treinta y tres años de ministerio anglicano para leer el Génesis literalmente. Sus seis libros del Edén llegan, solo por la filología, a la puerta de al lado del canon."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-06
 draft = false
 
 [extra]
@@ -781,7 +781,7 @@ diga en voz alta—.
 
 La reseña promocional de Mauro Biglino en los libros posteriores de Wallis
 dice: «Aunque estemos lejos geográficamente, ¡estamos cerca espiritualmente!
-Somos un buen equipo». El proyecto Rueda del Cielo, al que ninguno de los
+Somos un buen equipo». El proyecto Wheel of Heaven, al que ninguno de los
 dos hombres se ha dirigido, diría lo mismo de ambos, desde un asiento más
 abajo en la mesa —y añadiría la frase de Wallis que ambos marcos pueden
 refrendar sin reservas, escrita después de que se plantara ante la «Puerta
