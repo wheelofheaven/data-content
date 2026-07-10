@@ -9,7 +9,7 @@ event_date = 2026-05-08
 event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
-summary = "El Departamento de Guerra de EE. UU. abrió un portal público en war.gov/UFO con la primera entrega de registros UAP desclasificados — retornos de sensores, informes de operadores y un fotograma del Apolo 17 de 1972. El marco de la Rueda del Cielo lo lee como el primer punto datable en la curva de divulgación que la Era de Acuario §IX (Signos de Aceleración) predice para la ventana 2026–2030."
+summary = "El Departamento de Guerra de EE. UU. abrió un portal público en war.gov/UFO con la primera entrega de registros UAP desclasificados — retornos de sensores, informes de operadores y un fotograma del Apolo 17 de 1972. El marco de Wheel of Heaven lo lee como el primer punto datable en la curva de divulgación que la Era de Acuario §IX (Signos de Aceleración) predice para la ventana 2026–2030."
 filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
@@ -60,11 +60,11 @@ En una publicación en Truth Social el 8 de mayo, el presidente Donald J. Trump 
 
 La elección del modelo por parte del Departamento merece mención. La cobertura mediática del día de la publicación señaló que el portal war.gov/UFO se asemeja estructuralmente al formato de publicación de los Epstein Files del Departamento de Justicia inaugurado en diciembre de 2025: un dominio dedicado dot-gov, documentos indexados, entregas continuas, ningún tipo de acreditación requerida para el acceso. La implicación es procedimental — el poder ejecutivo dispone ahora de una plantilla operativa para la desclasificación pública y de alto volumen — y esa plantilla se ha aplicado, por primera vez, a la cuestión UAP.
 
-## Dónde se inscribe esto en el marco de la Rueda del Cielo
+## Dónde se inscribe esto en el marco de Wheel of Heaven
 
 El capítulo de la [Era de Acuario](/timeline/age-of-aquarius/), en su §IX (« Los Signos de Aceleración »), identificó la secuencia posterior a 2017 de compromisos oficiales con los UAP como la *primera* de seis categorías de aceleración que distinguen el momento presente de las condiciones culturales de 1973, cuando el contacto de Raël inauguró la misión reveladora de la era de Acuario. El argumento del capítulo es que la ventana 1973–2026 ha producido, en forma acumulativa, las condiciones bajo las cuales la presencia abierta de la alianza se vuelve culturalmente asimilable de un modo que no lo habría sido en décadas anteriores. La publicación del 8 de mayo es el siguiente punto datable en esa curva.
 
-**Interpretación de la Rueda del Cielo.** De situar la publicación de PURSUE dentro del marco existente del corpus se siguen tres observaciones.
+**Interpretación de Wheel of Heaven.** De situar la publicación de PURSUE dentro del marco existente del corpus se siguen tres observaciones.
 
 Primero, el *tipo* de divulgación que realiza el programa coincide con la lectura que el corpus hace de la era de Acuario como la era del *apokalypsis* — el desvelamiento de lo que ha sido ocultado. El corpus ha sido explícito en que el desvelamiento es gradual, multicanal, y se conduce en parte a través de mecanismos institucionales ordinarios y no mediante un único anuncio dramático. Un programa gubernamental que se compromete a publicar material desclasificado de manera continua, a lo largo de años, es precisamente la forma que adopta semejante desvelamiento cuando se conduce a través de las instituciones de un Estado constitucional. La forma encaja con el marco.
 
@@ -76,7 +76,7 @@ Este último punto es significativo. La publicación se estructura como una *ind
 
 ## Dónde se inscribe esto en la trayectoria más amplia
 
-**Interpretación de la Rueda del Cielo, marcada como tal.** El corpus ha tratado, en el capítulo de la Era de Acuario, el entorno geopolítico contemporáneo como uno de « tensión inusual y oportunidad inusual, con las condiciones tanto del fracaso catastrófico como del éxito transformador presentes simultáneamente ». El polo del fracaso catastrófico es, en el marco del corpus, un conflicto entre grandes potencias sin contención — una posibilidad que la sección de la era de Acuario identifica explícitamente en conexión con la adquisición de armas nucleares en 1945 y la capacidad continuada de la especie para la autodestrucción. El polo del éxito transformador es la maduración ordenada de la fase de divulgación hacia el proyecto de embajada que el corpus aborda en el §VIII del mismo capítulo.
+**Interpretación de Wheel of Heaven, marcada como tal.** El corpus ha tratado, en el capítulo de la Era de Acuario, el entorno geopolítico contemporáneo como uno de « tensión inusual y oportunidad inusual, con las condiciones tanto del fracaso catastrófico como del éxito transformador presentes simultáneamente ». El polo del fracaso catastrófico es, en el marco del corpus, un conflicto entre grandes potencias sin contención — una posibilidad que la sección de la era de Acuario identifica explícitamente en conexión con la adquisición de armas nucleares en 1945 y la capacidad continuada de la especie para la autodestrucción. El polo del éxito transformador es la maduración ordenada de la fase de divulgación hacia el proyecto de embajada que el corpus aborda en el §VIII del mismo capítulo.
 
 Una cuestión seria para el corpus es cómo registrar los desarrollos políticos que inciden en hacia qué polo se inclina la trayectoria. La publicación de PURSUE es, a primera vista, un desarrollo del lado de la divulgación: reduce la asimetría entre el conocimiento oficial y el conocimiento público, compromete al Estado con una transparencia continuada, y lo hace en una forma (institucional, multiagencia, continua) que es más difícil de revertir que una publicación única. El corpus registra esto sin pretender que la política más amplia de cualquier administración pueda reducirse a su postura UAP. Las administraciones son coaliciones; sus políticas son mixtas; sus efectos se producen con el tiempo y solo se evalúan retrospectivamente. Lo que el corpus puede afirmar con confianza es que la publicación del 8 de mayo hace avanzar la trayectoria de divulgación que el marco acuariano predice, y que las características *estructurales* del programa — durabilidad, amplitud, formato orientado al público — son las que el marco identificaría como propicias para la forma ordenada de la transición.
 
@@ -102,10 +102,10 @@ Una cuestión seria para el corpus es cómo registrar los desarrollos políticos
 
 2. **La durabilidad legal y procedimental del programa está por probar.** PURSUE se establece por dirección ejecutiva. Si sobrevivirá a la administración actual, y si las administraciones posteriores mantendrán la publicación continua con la cadencia establecida, son cuestiones abiertas.
 
-3. **El marco interpretativo en el que se leerá el material publicado es disputado.** La propia postura del Departamento es que los casos están no resueltos y que no se ha alcanzado ninguna conclusión extraterrestre; los investigadores independientes extraerán sus propias conclusiones, y la conversación pública se conformará en consecuencia. El corpus de la Rueda del Cielo ofrece uno de tales marcos interpretativos, marcado explícitamente como interpretativo, junto a otros.
+3. **El marco interpretativo en el que se leerá el material publicado es disputado.** La propia postura del Departamento es que los casos están no resueltos y que no se ha alcanzado ninguna conclusión extraterrestre; los investigadores independientes extraerán sus propias conclusiones, y la conversación pública se conformará en consecuencia. El corpus de Wheel of Heaven ofrece uno de tales marcos interpretativos, marcado explícitamente como interpretativo, junto a otros.
 
 4. **La relación entre la trayectoria de divulgación y el momento político más amplio** — la cuestión que el resumen plantea sobre la evitación de una catástrofe entre grandes potencias — es algo que el corpus aborda en el capítulo de la Era de Acuario, pero no debe colapsarse en un veredicto sobre la posición global de una administración determinada. La trayectoria de divulgación es un fenómeno real y rastreable; la trayectoria política es un objeto de análisis separado y más complejo. El corpus sigue ambos, y advierte su convergencia en momentos como el presente, sin confundirlos.
 
 ---
 
-*— Archivado el 8 de mayo de 2026, mesa editorial de la Rueda del Cielo.*
+*— Archivado el 8 de mayo de 2026, mesa editorial de Wheel of Heaven.*

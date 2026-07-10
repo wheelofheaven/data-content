@@ -12,7 +12,7 @@ author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 article_type = "explainer"
 category = "Comparative"
-summary = "Genau gelesen beschreiben die ältesten Flutgeschichten nicht einen Gott, der die Beherrschung verliert. Sie beschreiben eine in der Versammlung gefasste Entscheidung, durch Eid beschworen und für unwiderruflich erklärt; einen Überlebenden, dem präzise technische Spezifikationen übergeben werden und der angewiesen wird, *die Saat aller lebenden Wesen* an Bord zu nehmen; und — am bezeichnendsten — eine Debatte unter den Planern, in der einer von ihnen argumentiert, eine Flut sei das *falsche Instrument*, unverhältnismäßig und wahllos, und die gezielten Alternativen benennt, die stattdessen hätten eingesetzt werden sollen. Die sumerische *Flood Story*, das babylonische *Atraḫasīs* und *Gilgamesch* XI, das *Buch der Wächter* und *Genesis* 6–9 teilen nicht eine Stimmung, sondern ein Verfahren. Dieser Explainer arbeitet dieses Verfahren Zeile für Zeile durch, nimmt die etablierte Diffusionserklärung ernst und liest die Konvergenz dann durch den Rahmen des Rad des Himmels — als das Verwaltungsprotokoll eines gesteuerten Resets."
+summary = "Genau gelesen beschreiben die ältesten Flutgeschichten nicht einen Gott, der die Beherrschung verliert. Sie beschreiben eine in der Versammlung gefasste Entscheidung, durch Eid beschworen und für unwiderruflich erklärt; einen Überlebenden, dem präzise technische Spezifikationen übergeben werden und der angewiesen wird, *die Saat aller lebenden Wesen* an Bord zu nehmen; und — am bezeichnendsten — eine Debatte unter den Planern, in der einer von ihnen argumentiert, eine Flut sei das *falsche Instrument*, unverhältnismäßig und wahllos, und die gezielten Alternativen benennt, die stattdessen hätten eingesetzt werden sollen. Die sumerische *Flood Story*, das babylonische *Atraḫasīs* und *Gilgamesch* XI, das *Buch der Wächter* und *Genesis* 6–9 teilen nicht eine Stimmung, sondern ein Verfahren. Dieser Explainer arbeitet dieses Verfahren Zeile für Zeile durch, nimmt die etablierte Diffusionserklärung ernst und liest die Konvergenz dann durch den Rahmen von Wheel of Heaven — als das Verwaltungsprotokoll eines gesteuerten Resets."
 keywords = ["die Flut", "Sintflut", "Atrahasis", "Gilgamesch", "Genesis-Flut", "Wächter", "Elohim-Hypothese"]
 references = [
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (The Flood; the cell-line preserved aboard a staged craft)" },
@@ -84,7 +84,7 @@ Planern, die darüber gespalten waren und die hinterher die Durchführung
 hinterfragten. Ich werde die Texte genau genug lesen, um dieses Verfahren über
 vier Literaturen hinweg aufzuzeigen, die etablierte Erklärung für sein
 Wiederkehren abzuwägen und dann darzulegen, was der
-{% wiki(slug="wheel-of-heaven") %}Rad des Himmels{% end %}-Rahmen daraus macht.
+{% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %}-Rahmen daraus macht.
 Wo die Lektüre von dem, was die Worte sagen, zu dem übergeht, was sie bedeuten
 könnten, markiere ich die Grenze.
 
@@ -456,7 +456,7 @@ Betriebsprotokoll geformt war.
 ## Die Lektüre durch den Rahmen
 
 *Alles ab hier ist Deutung. Die obige genaue Lektüre steht für sich; was folgt,
-ist die {% wiki(slug="wheel-of-heaven") %}Rad des Himmels{% end %}-Lesart davon
+ist die {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %}-Lesart davon
 und sollte als solche gewichtet werden.*
 
 Der Rahmen geht von der grundlegenden Behauptung des Korpus aus: dass die

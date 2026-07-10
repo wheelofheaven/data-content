@@ -151,8 +151,8 @@ bochorno teológico por su contenido y —al final del todo— un barato libro d
 bolsillo francés con un revelador error de traducción. Vale la pena declarar el
 destino por adelantado: **el pasaje que Yahvé cita existe.** Se llama el
 *Shi'ur Qomah* (hebreo שִׁעוּר קוֹמָה, *šiʿur qômāh*, «la Medida de la
-Estatura»), y el proyecto de la Rueda del Cielo lo ha traducido íntegro:
-[*Shi'ur Qomah* — Traducción de la Rueda del Cielo](/library/shiur-qomah-woh/).
+Estatura»), y el proyecto de Wheel of Heaven lo ha traducido íntegro:
+[*Shi'ur Qomah* — Traducción de Wheel of Heaven](/library/shiur-qomah-woh/).
 Lo que los números *significan* es exactamente el punto en que la corriente
 dominante y el canon se separan, y este artículo marcará esa línea cuando llegue
 a ella.
@@ -586,7 +586,7 @@ calladamente.
 
 He aquí la línea, marcada como se prometió: todo lo anterior es filología y
 teología en los propios términos de la corriente dominante. Lo que sigue es el
-marco de la Rueda del Cielo, que lee el texto a contrapelo de quince siglos de
+marco de Wheel of Heaven, que lee el texto a contrapelo de quince siglos de
 espiritualización.
 
 La posición del canon es que los números enmudecieron porque ya nadie podía oír lo
@@ -759,7 +759,7 @@ tradición que los portó la más cercana a la verdad.
 
 ## Para seguir leyendo
 
-- [*Shi'ur Qomah* — la Traducción de la Rueda del Cielo](/library/shiur-qomah-woh/),
+- [*Shi'ur Qomah* — la Traducción de Wheel of Heaven](/library/shiur-qomah-woh/),
   con hebreo interlineal, el aparato completo de nombres mágicos y comentario a
   nivel de párrafo sobre cada pasaje citado más arriba.
 - La entrada de wiki [Cábala](/wiki/kabbalah/), para el arco histórico completo de

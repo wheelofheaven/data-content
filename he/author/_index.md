@@ -1,6 +1,6 @@
 +++
 title = "המחברת"
-description = "האדם שמאחורי גלגל השמיים."
+description = "האדם שמאחורי Wheel of Heaven."
 render = false
 transparent = true
 +++

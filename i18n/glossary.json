@@ -172,17 +172,17 @@
     {
       "id": "wheel-of-heaven",
       "category": "site",
-      "definition": "The name of this knowledge base, referencing Ezekiel's vision.",
+      "definition": "The name of this knowledge base, referencing Ezekiel's vision. A brand/proper name — kept as \"Wheel of Heaven\" in every language. The literal astronomical image (the precessional cycle as a turning wheel) may still be described with a translated phrase in prose, but the NAME is never translated.",
       "translations": {
         "en": "Wheel of Heaven",
-        "de": "Rad des Himmels",
-        "es": "Rueda del Cielo",
-        "fr": "Roue du Ciel",
-        "ja": "天の車輪",
-        "ko": "하늘의 바퀴",
-        "ru": "Колесо Небес",
-        "zh": "天轮",
-        "zh-Hant": "天輪"
+        "de": "Wheel of Heaven",
+        "es": "Wheel of Heaven",
+        "fr": "Wheel of Heaven",
+        "ja": "Wheel of Heaven",
+        "ko": "Wheel of Heaven",
+        "ru": "Wheel of Heaven",
+        "zh": "Wheel of Heaven",
+        "zh-Hant": "Wheel of Heaven"
       }
     },
     {

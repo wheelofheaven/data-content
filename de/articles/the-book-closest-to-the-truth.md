@@ -154,7 +154,7 @@ ein billiges französisches Taschenbuch mit einem verräterischen
 Jahwe zitierte Passage existiert.** Sie heißt *Shi'ur Qomah* (hebräisch
 שִׁעוּר קוֹמָה, *šiʿur qômāh*, „das Maß der Statur"), und das
 Rad-des-Himmels-Projekt hat sie vollständig übersetzt:
-[*Shi'ur Qomah* — Übersetzung des Rad des Himmels](/library/shiur-qomah-woh/).
+[*Shi'ur Qomah* — Übersetzung von Wheel of Heaven](/library/shiur-qomah-woh/).
 Was die Zahlen *bedeuten*, ist genau der Punkt, an dem sich Mainstream und Kanon
 trennen, und dieser Artikel wird diese Grenze markieren, wenn es so weit ist.
 
@@ -591,8 +591,8 @@ selbst — die tatsächlichen Zahlen — ließ man still verstummen.
 ## Die Gegenlesart des Kanons
 
 Hier ist die Grenze, wie versprochen markiert: Alles Obige ist Philologie und
-Theologie zu den eigenen Bedingungen des Mainstreams. Was folgt, ist der Rahmen des
-Rad des Himmels, der den Text gegen den Strich von fünfzehn Jahrhunderten der
+Theologie zu den eigenen Bedingungen des Mainstreams. Was folgt, ist der Rahmen von
+Wheel of Heaven, der den Text gegen den Strich von fünfzehn Jahrhunderten der
 Vergeistigung liest.
 
 Die Position des Kanons lautet, dass die Zahlen verstummten, weil niemand mehr
@@ -771,7 +771,7 @@ zwanzigste Jahrhundert über sie streiten und ein 1974 veröffentlichtes Buch di
 
 ## Weiterführende Lektüre
 
-- [*Shi'ur Qomah* — die Übersetzung des Rad des Himmels](/library/shiur-qomah-woh/),
+- [*Shi'ur Qomah* — die Übersetzung von Wheel of Heaven](/library/shiur-qomah-woh/),
   mit interlinearem Hebräisch, dem vollständigen Apparat der magischen Namen und
   einem Kommentar auf Absatzebene zu jeder oben zitierten Passage.
 - Der Wiki-Eintrag [Kabbala](/wiki/kabbalah/), für den vollständigen historischen

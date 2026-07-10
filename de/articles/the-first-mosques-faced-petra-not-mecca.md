@@ -439,7 +439,7 @@ die Antwort auf David A. King entschieden wird. Die Lektüre des Korpus ist eine
 Hypothese über eine Hypothese.
 
 Was der Rahmen bemerkt, ist, dass das Korpus diese Gestalt schon gesehen hat. Die
-Lektüre {% wiki(slug="abraham") %}Abrahams{% end %} durch das Rad des Himmels
+Lektüre {% wiki(slug="abraham") %}Abrahams{% end %} durch Wheel of Heaven
 behandelt ihn nicht als Gründer eines neuen Glaubens. Sie behandelt ihn als eine
 Gestalt, die nach der Intervention in Sodom *rekrutiert* wurde — den geprüften,
 verifizierten Anführer, um den eine dezimierte Linie neu geordnet wurde, den
@@ -505,7 +505,7 @@ das Korpus bereits benannt hatte.
 
 Es besteht die Versuchung, die Hinwendung des *ḥanīf* als die vertraute Geschichte
 zu lesen, in der der Monotheismus den Polytheismus ablöst — viele Götter, die in
-einen zusammenfallen. Der Rahmen des Rad des Himmels lehnt diese Lesart ab, und der
+einen zusammenfallen. Der Rahmen von Wheel of Heaven lehnt diese Lesart ab, und der
 Grund führt mitten ins Zentrum des Korpus. Die {% wiki(slug="elohim") %}Elohim{% end %}
 sind eine Pluralität: ein [Rat](/wiki/council-of-eternals/) endlicher,
 verkörperter Schöpfer, das grammatisch plurale *Elohim*, das der hebräische Text
@@ -610,7 +610,7 @@ werden. Welches von beiden dies ist, wird durch Ausgrabungen in Petra, durch die
 wissenschaftliche Antwort auf King und dadurch entschieden, ob der Qibla-Datensatz
 eine unabhängige Neuvermessung übersteht.
 
-Das Korpus des Rad des Himmels braucht dieses Urteil nicht, um seinen eigenen,
+Das Korpus von Wheel of Heaven braucht dieses Urteil nicht, um seinen eigenen,
 engeren Schluss zu ziehen. Der Teil davon, der auf dem Koran und Ibn Isḥāq beruht —
 dass die neue Religion sich als die {% wiki(slug="hanafiyya") %}Ḥanīfiyyah{% end %}
 verstand, die wiedergewonnene Religion {% wiki(slug="abraham") %}Abrahams{% end %}

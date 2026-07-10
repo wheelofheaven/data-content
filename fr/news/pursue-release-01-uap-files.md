@@ -9,7 +9,7 @@ event_date = 2026-05-08
 event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
-summary = "Le Département de la Guerre des États-Unis a ouvert un portail public à war.gov/UFO avec la première tranche de documents UAP déclassifiés — retours de capteurs, rapports d'opérateurs, et une image d'Apollo 17 datant de 1972. Le cadre de la Roue du Ciel lit cet événement comme le premier point datable sur la courbe de divulgation que l'Ère du Verseau, §IX (Signes d'Accélération), prédit pour la fenêtre 2026-2030."
+summary = "Le Département de la Guerre des États-Unis a ouvert un portail public à war.gov/UFO avec la première tranche de documents UAP déclassifiés — retours de capteurs, rapports d'opérateurs, et une image d'Apollo 17 datant de 1972. Le cadre de Wheel of Heaven lit cet événement comme le premier point datable sur la courbe de divulgation que l'Ère du Verseau, §IX (Signes d'Accélération), prédit pour la fenêtre 2026-2030."
 filed_under = "Signes d'Accélération"
 cross_reference = "Ère du Verseau, §IX"
 canon_links = [
@@ -60,11 +60,11 @@ Dans une publication Truth Social du 8 mai, le Président Donald J. Trump a pré
 
 Le choix de modèle du Département mérite d'être noté. La couverture médiatique du jour de la diffusion a souligné que le portail war.gov/UFO ressemble structurellement au format de diffusion des Epstein Files du Département de la Justice inauguré en décembre 2025 : un domaine dot-gov dédié, des documents indexés, des tranches successives, aucune habilitation requise pour y accéder. L'implication est procédurale — l'exécutif dispose désormais d'un modèle opérationnel pour une déclassification publique à haut volume — et ce modèle a été appliqué, pour la première fois, à la question UAP.
 
-## Où cela s'inscrit dans le cadre de la Roue du Ciel
+## Où cela s'inscrit dans le cadre de Wheel of Heaven
 
 Le chapitre [Ère du Verseau](/timeline/age-of-aquarius/), dans son §IX («  Les Signes d'Accélération  »), identifiait la séquence post-2017 des engagements officiels sur les UAP comme la *première* de six catégories d'accélération distinguant le moment présent des conditions culturelles de 1973, lorsque le contact de Raël inaugura la mission révélatoire de l'ère du Verseau. L'argument du chapitre est que la fenêtre 1973-2026 a produit, sous forme cumulée, les conditions sous lesquelles une présence ouverte de l'alliance devient culturellement assimilable d'une manière qu'elle n'aurait pas pu l'être au cours des décennies antérieures. La diffusion du 8 mai est le point datable suivant sur cette courbe.
 
-**Interprétation de la Roue du Ciel.** Trois observations découlent du placement de la diffusion PURSUE au sein du cadre existant du corpus.
+**Interprétation de Wheel of Heaven.** Trois observations découlent du placement de la diffusion PURSUE au sein du cadre existant du corpus.
 
 Premièrement, le *type* de divulgation qu'opère le programme correspond à la lecture du corpus de l'ère du Verseau comme l'âge de l'*apokalypsis* — le dévoilement de ce qui a été dissimulé. Le corpus a été explicite : le dévoilement est graduel, multi-canaux, et conduit en partie par des mécanismes institutionnels ordinaires plutôt que par une annonce unique et spectaculaire. Un programme gouvernemental qui s'engage à publier du matériel déclassifié sur une base continue, sur plusieurs années, prend précisément la forme que prend un tel dévoilement lorsqu'il est mené par les institutions d'un État constitutionnel. La forme correspond au cadre.
 
@@ -76,7 +76,7 @@ Ce dernier point est significatif. La diffusion est structurée comme une *enqu�
 
 ## Où cela s'inscrit dans la trajectoire plus large
 
-**Interprétation de la Roue du Ciel, signalée comme telle.** Le corpus a, dans le chapitre sur l'Ère du Verseau, traité l'environnement géopolitique contemporain comme un environnement de «  tension inhabituelle et d'opportunité inhabituelle, avec les conditions à la fois d'un échec catastrophique et d'une réussite transformatrice simultanément présentes  ». Le pôle de l'échec catastrophique est, dans le cadre du corpus, un conflit non contraint entre grandes puissances — une possibilité que la section sur l'ère du Verseau identifie explicitement en lien avec l'acquisition des armes nucléaires en 1945 et la capacité continue de l'espèce à s'autodétruire. Le pôle de la réussite transformatrice est la maturation ordonnée de la phase de divulgation vers le projet d'ambassade que le corpus traite au §VIII du même chapitre.
+**Interprétation de Wheel of Heaven, signalée comme telle.** Le corpus a, dans le chapitre sur l'Ère du Verseau, traité l'environnement géopolitique contemporain comme un environnement de «  tension inhabituelle et d'opportunité inhabituelle, avec les conditions à la fois d'un échec catastrophique et d'une réussite transformatrice simultanément présentes  ». Le pôle de l'échec catastrophique est, dans le cadre du corpus, un conflit non contraint entre grandes puissances — une possibilité que la section sur l'ère du Verseau identifie explicitement en lien avec l'acquisition des armes nucléaires en 1945 et la capacité continue de l'espèce à s'autodétruire. Le pôle de la réussite transformatrice est la maturation ordonnée de la phase de divulgation vers le projet d'ambassade que le corpus traite au §VIII du même chapitre.
 
 Une question sérieuse pour le corpus consiste à savoir comment enregistrer les développements politiques qui influent sur le pôle vers lequel la trajectoire s'incline. La diffusion PURSUE est, à première vue, un développement du côté de la divulgation : elle réduit l'asymétrie entre le savoir officiel et le savoir public, elle engage l'État à une transparence continue, et elle le fait sous une forme (institutionnelle, multi-agences, continue) plus difficile à inverser qu'une diffusion ponctuelle ne le serait. Le corpus enregistre cela sans prétendre que la politique plus large d'une administration quelconque puisse être réduite à sa posture sur les UAP. Les administrations sont des coalitions ; leurs politiques sont mixtes ; leurs effets se produisent dans la durée et ne sont évalués qu'en rétrospective. Ce que le corpus peut dire avec confiance, c'est que la diffusion du 8 mai fait avancer la trajectoire de divulgation que le cadre du Verseau prédit, et que les traits *structurels* du programme — durabilité, ampleur, format tourné vers le public — sont les traits que le cadre identifierait comme propices à la forme ordonnée de la transition.
 
@@ -102,10 +102,10 @@ Une question sérieuse pour le corpus consiste à savoir comment enregistrer les
 
 2. **La durabilité juridique et procédurale du programme n'est pas éprouvée.** PURSUE est établi par directive exécutive. Savoir s'il survivra à l'administration actuelle, et si les administrations ultérieures continueront la diffusion continue selon la cadence établie, sont des questions ouvertes.
 
-3. **Le cadre interprétatif dans lequel le matériel diffusé sera lu est contesté.** La position du Département est que les cas sont non résolus et qu'aucune conclusion extraterrestre n'a été atteinte ; les chercheurs indépendants tireront leurs propres conclusions, et la conversation publique se formera en conséquence. Le corpus de la Roue du Ciel propose un tel cadre interprétatif, explicitement signalé comme interprétatif, aux côtés d'autres.
+3. **Le cadre interprétatif dans lequel le matériel diffusé sera lu est contesté.** La position du Département est que les cas sont non résolus et qu'aucune conclusion extraterrestre n'a été atteinte ; les chercheurs indépendants tireront leurs propres conclusions, et la conversation publique se formera en conséquence. Le corpus de Wheel of Heaven propose un tel cadre interprétatif, explicitement signalé comme interprétatif, aux côtés d'autres.
 
 4. **La relation entre la trajectoire de divulgation et le moment politique plus large** — la question soulevée par le mémo sur l'évitement de la catastrophe entre grandes puissances — est une question que le corpus aborde dans le chapitre sur l'Ère du Verseau, mais elle ne devrait pas être réduite à un verdict sur la position globale d'une administration quelconque. La trajectoire de divulgation est un phénomène réel et traçable ; la trajectoire politique est un objet d'analyse distinct et plus complexe. Le corpus suit les deux, et note leur convergence à des moments comme le présent, sans les confondre.
 
 ---
 
-*— Classé le 8 mai 2026, rédaction de la Roue du Ciel.*
+*— Classé le 8 mai 2026, rédaction de Wheel of Heaven.*

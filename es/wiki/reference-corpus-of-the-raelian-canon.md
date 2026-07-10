@@ -111,7 +111,7 @@ note = "Brugger (1976); aparece en la lista de vestigios de Sí... soy raeliano.
 
 Los tres libros del canon raeliano —*El libro que dice la verdad* (1974), *Los extraterrestres me llevaron a su planeta* (1975) y *Acojamos a los extraterrestres* (1979)— no se presentan como derivados de escritos anteriores. Se presentan como revelación directa de los Elohim, y la literatura religiosa previa se trata como registro imperfecto de contactos anteriores con los Elohim. Dentro de ese marco, sin embargo, el canon dialoga con un cuerpo sustancial de material preexistente. Esta entrada traza ese diálogo en dos niveles: un **nivel primario** de textos y figuras que el canon nombra o cita, y un **nivel secundario** de tradiciones, lenguas y motivos a los que invoca por alusión.
 
-Una nota terminológica antes del catálogo. Dentro de la lectura de Rueda del Cielo, los textos enumerados a continuación no son *fuentes* del canon raeliano en el sentido filológico; el canon reivindica revelación, no derivación. La descripción precisa es que estos textos constituyen el **corpus de referencia** del canon —el conjunto de escritos previos que el canon lee, vuelve a leer y pide a su lector que vuelva a leer junto con él.
+Una nota terminológica antes del catálogo. Dentro de la lectura de Wheel of Heaven, los textos enumerados a continuación no son *fuentes* del canon raeliano en el sentido filológico; el canon reivindica revelación, no derivación. La descripción precisa es que estos textos constituyen el **corpus de referencia** del canon —el conjunto de escritos previos que el canon lee, vuelve a leer y pide a su lector que vuelva a leer junto con él.
 
 ## Alcance y método
 
@@ -182,7 +182,7 @@ El canon nombra una nómina de figuras religiosas, históricas y tradicionales, 
 - **{% wiki(slug="muhammad") %}Mahoma{% end %}** — en cuyos escritos se dice que al líder de los Elohim se le llamó *Alá* «por respeto».
 - **Joseph Smith** — nombrado junto a los cuatro anteriores en *Una religión atea*.
 
-Otras figuras nombradas dentro de citas bíblicas y a las que se da una interpretación pertinente para Rueda del Cielo incluyen Adán, Eva, Set, Enós, Enoc, Noé, Lot, Abraham, Isaac, Jacob, José, Sansón, Ezequiel, Juan (el vidente de Patmos), Pedro y José (el esposo de María). No son en sí mismas tradiciones de origen sino personajes cuyos relatos bíblicos relee el canon.
+Otras figuras nombradas dentro de citas bíblicas y a las que se da una interpretación pertinente para Wheel of Heaven incluyen Adán, Eva, Set, Enós, Enoc, Noé, Lot, Abraham, Isaac, Jacob, José, Sansón, Ezequiel, Juan (el vidente de Patmos), Pedro y José (el esposo de María). No son en sí mismas tradiciones de origen sino personajes cuyos relatos bíblicos relee el canon.
 
 ### Tradiciones religiosas nombradas como interlocutoras directas
 
@@ -253,15 +253,15 @@ Estos se catalogan en el nivel secundario porque el canon los aborda mediante la
 
 ## Tensiones de fuentes y cuestiones no resueltas
 
-Conviene señalar algunas tensiones nítidas para el trabajo futuro de Rueda del Cielo.
+Conviene señalar algunas tensiones nítidas para el trabajo futuro de Wheel of Heaven.
 
-**La divergencia Dhorme / RNKJV.** El canon francés y el compendio inglés no siempre citan la misma redacción bíblica. Las notas editoriales reconocen esto explícitamente, pero la consecuencia práctica es que algunas lecturas de Rueda del Cielo son sensibles a qué traducción tenga el lector delante. La elección de Dhorme por parte del canon es en sí misma una posición interpretativa —la versión de Dhorme tiende a desmitificar, y el canon depende de esa desmitificación.
+**La divergencia Dhorme / RNKJV.** El canon francés y el compendio inglés no siempre citan la misma redacción bíblica. Las notas editoriales reconocen esto explícitamente, pero la consecuencia práctica es que algunas lecturas de Wheel of Heaven son sensibles a qué traducción tenga el lector delante. La elección de Dhorme por parte del canon es en sí misma una posición interpretativa —la versión de Dhorme tiende a desmitificar, y el canon depende de esa desmitificación.
 
 **El estatus de la enumeración *Sí... soy raeliano*.** La lista de «vestigios» (Kojiki, Popol Vuh, Akakor, Gilgamesh, Mahābhārata) aparece en una contribución de un comentarista a *Acojamos a los extraterrestres*, no en la propia voz de Raël. La lista ha sido canonizada al preservarse a lo largo de las ediciones, pero es una síntesis de un seguidor y no una pretensión directa de revelación. Si conviene ponderarla en pie de igualdad con el nivel primario es una cuestión editorial abierta.
 
 **La referencia a la «Cábala».** El pasaje cosmológico atribuido a la Cábala en *El fin del mundo* —con la medida en *parasangas* y la fórmula «altura del creador» / «altura de sus talones»— coincide con motivos de la tradición *Shi'ur Qomah* y no del *Zohar* propiamente dicho. El canon nombra la Cábala de forma genérica. Esto plantea la cuestión de si la «Cábala» del canon debería glosarse como el corpus del *Shi'ur Qomah* en concreto, o dejarse en el nivel más general que el propio canon utiliza.
 
-**El problema de la *Crónica de Akakor*.** La *Crónica de Akakor*, publicada en 1976 por Karl Brugger a partir de una supuesta fuente indígena amazónica, ha sido tratada ampliamente como un fraude literario por la investigación posterior. Su aparición en la lista de «vestigios» del canon —publicada apenas unos años después del libro de Brugger— encaja con dificultad con el resto del catálogo, compuesto por textos con profundo pedigrí tradicional. Cómo manejar esto en un marco serio de Rueda del Cielo está sin resolver.
+**El problema de la *Crónica de Akakor*.** La *Crónica de Akakor*, publicada en 1976 por Karl Brugger a partir de una supuesta fuente indígena amazónica, ha sido tratada ampliamente como un fraude literario por la investigación posterior. Su aparición en la lista de «vestigios» del canon —publicada apenas unos años después del libro de Brugger— encaja con dificultad con el resto del catálogo, compuesto por textos con profundo pedigrí tradicional. Cómo manejar esto en un marco serio de Wheel of Heaven está sin resolver.
 
 **Directo frente a indirecto, otra vez.** Parte de la categorización anterior es fronteriza. Joseph Smith se nombra directamente, pero no se cita ninguna escritura mormona —de modo que la tradición mormona se sitúa en el nivel secundario aunque la figura de su fundador sea primaria. A la inversa, la *Cábala* se nombra de forma genérica (lenguaje propio del nivel secundario) pero se aborda un pasaje cosmológico específico (conducta propia del nivel primario). Estos casos quedan señalados para futuras refinaciones.
 

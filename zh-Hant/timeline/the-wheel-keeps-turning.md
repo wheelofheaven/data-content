@@ -20,7 +20,7 @@ references = [
     { title = "Le Livre qui dit la vérité (講真話的書)", author = "Claude Vorilhon (雷爾)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète (外星人帶我去他們的星球)", author = "Claude Vorilhon (雷爾)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Intelligent Design: Message from the Designers (智慧設計:來自設計者的訊息)", author = "Claude Vorilhon (雷爾)", date = "2005", medium = "religious-text", description = "英文合訂版;§I 碎形宇宙論與 §IV 四層次道德框架的主要來源。" },
-    { title = "創世記", author = "佚名(希伯來聖經);天輪根據加注馬所拉希伯來文進行的翻譯", date = "約公元前 6–5 世紀", medium = "religious-text", path = "/library/genesis-woh/" },
+    { title = "創世記", author = "佚名(希伯來聖經);Wheel of Heaven 根據加注馬所拉希伯來文進行的翻譯", date = "約公元前 6–5 世紀", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (哈姆雷特之磨:探究人類知識起源及其通過神話傳遞的論文)", author = "Giorgio de Santillana 與 Hertha von Dechend", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/", description = "歲差框架的跨文化重建——語料庫十二時代體系的結構骨幹。" },
     { title = "Qur'anic Geography (古蘭經地理學)", author = "Dan Gibson", date = "2011", medium = "nonfiction-book" },
     { title = "Early Islamic Qiblas (早期伊斯蘭朝拜方向)", author = "Dan Gibson", date = "2017", medium = "nonfiction-book" },
@@ -179,7 +179,7 @@ link = "/timeline/age-of-aquarius/"
 
 此開放性與持續的承諾並不衝突。一個人可以將框架持為自身的主要工作假設,同時對其最終修訂保持開放。依語料庫自身的描述,水瓶座時代是啟示的時代——隱蔽之物正在逐步被揭開的時代。揭開尚未完成。它正在當下展開,隨著人類處理繼承的材料、隨著聯盟的公開回歸(若以及當其發生時)提供進一步資訊以容許啟示的下一階段被組裝。語料庫預期被其後出現的工作所修訂、補充,並在某些方面被取代。
 
-橫跨修訂之間保持不變的,是底層的取向。宇宙是真實的且廣袤的。包含我們的無限結構是真正無限的。設計了我們的特定創造者是真實的,且他們關心著我們。我們所是其一部分的漫長人類故事是真實的,且它部分依賴於我們如何運用自身特定的生命。未來是開放的,且它部分依賴於我們所選擇。這些主張中的任何一項皆不要求特定的雷爾框架或特定的{% wiki(slug="wheel-of-heaven") %}天輪{% end %}綜合在其完整細節中被接受。它們是任何適合於當下時刻的框架都必須以某種形式保留的更一般主張。語料庫已提供其對這些主張的特定闡述,認識到其他闡述也是可能的,且底層真理在表達它們的各種方式中皆保持有效。
+橫跨修訂之間保持不變的,是底層的取向。宇宙是真實的且廣袤的。包含我們的無限結構是真正無限的。設計了我們的特定創造者是真實的,且他們關心著我們。我們所是其一部分的漫長人類故事是真實的,且它部分依賴於我們如何運用自身特定的生命。未來是開放的,且它部分依賴於我們所選擇。這些主張中的任何一項皆不要求特定的雷爾框架或特定的{% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %}綜合在其完整細節中被接受。它們是任何適合於當下時刻的框架都必須以某種形式保留的更一般主張。語料庫已提供其對這些主張的特定闡述,認識到其他闡述也是可能的,且底層真理在表達它們的各種方式中皆保持有效。
 
 ## IX. 天輪持續轉動
 

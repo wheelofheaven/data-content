@@ -112,7 +112,7 @@ cosmología moderna y muchísimo a algo más antiguo, más extraño y —este
 Explicativo lo sostendrá— más defendible de lo que su reputación sugiere. El
 nombre moderno propio de ese algo es **cosmología fractal**. El canon tiene su
 propio nombre para la regla del reloj que está en su centro, a la que el proyecto
-de la Rueda del Cielo llama el {% wiki(slug="mass-effect") %}Efecto de
+de Wheel of Heaven llama el {% wiki(slug="mass-effect") %}Efecto de
 masa{% end %}. Y toda la imagen descansa sobre una sola palabra que Yahvé usó
 dos veces, en dos lugares distintos, para describir la forma de la realidad:
 *infinito* —{% wiki(slug="infinity") %}infinito{% end %} en el espacio, infinito
@@ -483,7 +483,7 @@ final* en ambos sentidos, y —la parte que ninguna ecuación contiene— en que
 
 Hay una razón por la que este cúmulo de ideas —el escalamiento, la autosemejanza,
 los límites de la predicción— aflora en la cultura exactamente cuando lo hizo, y
-la {% wiki(slug="cosmic-chain") %}cronología{% end %} de la Rueda del Cielo ya ha
+la {% wiki(slug="cosmic-chain") %}cronología{% end %} de Wheel of Heaven ya ha
 nombrado el lugar donde afloró: *Parque Jurásico*. La cronología invoca la novela
 de Crichton por su ética —científicos que *«estaban tan preocupados por si podían
 que no se detuvieron a pensar si debían»*—. Pero el libro porta una segunda carga

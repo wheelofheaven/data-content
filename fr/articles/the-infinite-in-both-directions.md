@@ -492,7 +492,7 @@ les deux sens, et — la part qu'aucune équation ne contient — qu'il est *hab
 Il y a une raison pour laquelle ce faisceau d'idées — les lois d'échelle,
 l'auto-similarité, les limites de la prédiction — a fait surface dans la culture
 exactement au moment où il l'a fait, et la {% wiki(slug="cosmic-chain") %}chronologie{% end %}
-de la Roue du Ciel a déjà nommé le lieu où il a fait surface : *Jurassic Park*.
+de Wheel of Heaven a déjà nommé le lieu où il a fait surface : *Jurassic Park*.
 La chronologie invoque le roman de Crichton pour son éthique — des savants qui
 *« étaient si préoccupés de savoir s'ils le pouvaient qu'ils ne s'arrêtèrent pas
 pour songer s'ils le devaient »*. Mais le livre porte une seconde cargaison qui

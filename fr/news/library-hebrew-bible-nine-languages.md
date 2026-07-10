@@ -1,6 +1,6 @@
 +++
 title = "Bibliothèque : la Bible hébraïque désormais lisible en neuf langues"
-description = "Au 7 juin 2026, chaque livre de la Bible hébraïque dans la bibliothèque de la Roue du Ciel comporte le texte en neuf langues — l'ASV anglaise et huit traductions du domaine public importées."
+description = "Au 7 juin 2026, chaque livre de la Bible hébraïque dans la bibliothèque de Wheel of Heaven comporte le texte en neuf langues — l'ASV anglaise et huit traductions du domaine public importées."
 date = 2026-06-07
 template = "news-page.html"
 
@@ -24,7 +24,7 @@ sources = [
 
 ## Ce qui a été livré
 
-Au 7 juin 2026, la bibliothèque de la Roue du Ciel héberge l'intégralité de la Bible hébraïque — de la Genèse à Sophonie, soit trente-six livres — en neuf langues. Chaque chapitre affiche la base de référence anglaise ASV 1901 aux côtés d'éditions importées du domaine public en allemand, espagnol, français, japonais, coréen, russe, chinois simplifié et chinois traditionnel. Les lecteurs qui consultent la bibliothèque dans l'une quelconque des neuf langues du site voient désormais le texte dans leur langue de lecture sans avoir à passer par l'anglais.
+Au 7 juin 2026, la bibliothèque de Wheel of Heaven héberge l'intégralité de la Bible hébraïque — de la Genèse à Sophonie, soit trente-six livres — en neuf langues. Chaque chapitre affiche la base de référence anglaise ASV 1901 aux côtés d'éditions importées du domaine public en allemand, espagnol, français, japonais, coréen, russe, chinois simplifié et chinois traditionnel. Les lecteurs qui consultent la bibliothèque dans l'une quelconque des neuf langues du site voient désormais le texte dans leur langue de lecture sans avoir à passer par l'anglais.
 
 Les éditions importées sont nommées, datées et placées sous une licence ouverte. Le catalogue indique également la couverture par langue : lorsque les divergences de versification entre les traditions massorétique, de la Vulgate ou synodale laissent un verset non aligné, l'ASV anglaise demeure comme solution de repli.
 
@@ -62,9 +62,9 @@ Le corpus lit la Bible hébraïque comme un texte en couches dont le référent 
 
 ## Où cela s'inscrit dans le plan plus large
 
-Le pipeline des traductions importées constitue une moitié du mandat de la bibliothèque. L'autre moitié est la [Traduction de la Roue du Ciel](https://docs.wheelofheaven.world/contributing/content/source-text-translation/), qui progresse actuellement chapitre par chapitre à travers la Genèse — une nouvelle lecture anglaise produite à partir de l'hébreu selon la discipline glossaire propre au projet, avec un pipeline Traducteur-Éditeur-Réviseur derrière chaque chapitre. Les traductions importées couvrent l'**étendue** (chaque livre, huit langues, éditions du domaine public, livrées aujourd'hui) ; la Traduction de la Roue du Ciel apporte la **profondeur** (une tradition, un livre à la fois, philologiquement défendu, encore en cours).
+Le pipeline des traductions importées constitue une moitié du mandat de la bibliothèque. L'autre moitié est la [Traduction de Wheel of Heaven](https://docs.wheelofheaven.world/contributing/content/source-text-translation/), qui progresse actuellement chapitre par chapitre à travers la Genèse — une nouvelle lecture anglaise produite à partir de l'hébreu selon la discipline glossaire propre au projet, avec un pipeline Traducteur-Éditeur-Réviseur derrière chaque chapitre. Les traductions importées couvrent l'**étendue** (chaque livre, huit langues, éditions du domaine public, livrées aujourd'hui) ; la Traduction de Wheel of Heaven apporte la **profondeur** (une tradition, un livre à la fois, philologiquement défendu, encore en cours).
 
-Les deux pipelines alimentent le même champ `paragraphs[].i18n[lang]` sur chaque fichier de chapitre, ce qui signifie que le gabarit de la bibliothèque les affiche via la même interface. Lorsque la Traduction de la Roue du Ciel de la Genèse atteindra sa première version stable, elle prendra place aux côtés de ces lectures importées comme la contribution propre du projet au paysage comparatif qu'il a patiemment construit.
+Les deux pipelines alimentent le même champ `paragraphs[].i18n[lang]` sur chaque fichier de chapitre, ce qui signifie que le gabarit de la bibliothèque les affiche via la même interface. Lorsque la Traduction de Wheel of Heaven de la Genèse atteindra sa première version stable, elle prendra place aux côtés de ces lectures importées comme la contribution propre du projet au paysage comparatif qu'il a patiemment construit.
 
 ## Où consulter le résultat
 
@@ -79,4 +79,4 @@ Trois. Les placeholders français Dhorme pour 1-Samuel, 2-Samuel et Job attenden
 
 ---
 
-*— Déposé le 7 juin 2026, rédaction de la Roue du Ciel.*
+*— Déposé le 7 juin 2026, rédaction de Wheel of Heaven.*

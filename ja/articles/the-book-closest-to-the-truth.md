@@ -19,7 +19,7 @@ references = [
     { id = "the-book-which-tells-the-truth", locator = "Chapter 5, 'The End of the World,' section 'At the Origin of All the Religions' (¶¶51–54: the Kabbalah, the two parasang figures, the light-second gloss); Chapter 1, ¶46 (France as 'a country where new ideas are well received')" },
 
     # — Primary text: the Shi'ur Qomah, in the project's translation and in print —
-    { id = "shiur-qomah", locator = "Siddur Rabbah recension, §§2–3 (Metatron's testimony; the 236 measurement), §9 (the framing question), §10 (the soles), §19 (the unmeasurable face), §31 (the parasang reckoning), §39 (the self-total), §41 (the guarantor formula), §56 (Metatron the na'ar) — Wheel of Heaven Translation" },
+    { id = "shiur-qomah", locator = "Siddur Rabbah recension, §§2–3 (Metatron's testimony; the 236 measurement), §9 (the framing question), §10 (the soles), §19 (the unmeasurable face), §31 (the parasang reckoning), §39 (the self-total), §41 (the guarantor formula), §56 (Metatron the na'ar) —Wheel of Heaven Translation" },
     { id = "sefaria", locator = "Otzar Midrashim, Shiur Komah (ed. J. D. Eisenstein, 1915) — the recension reprinted from Sefer Raziel ha-Mal'akh, Amsterdam 1701, fol. 37b; and the Ashlag-glossary topic entry 'Shiur Koma (Kabbalah)'" },
     { title = "Bet ha-Midrasch: Sammlung kleiner Midraschim (the public-domain transmission of the Shi'ur Qomah fragments underlying the WoH base text)", author = "Adolf Jellinek (ed.)", date = "1853–1877" },
     { title = "Merkavah Shelemah (the printed collection of the Shi'ur Qomah fragments cited throughout Scholem)", author = "Shelomo Musajoff (ed.)", date = "Jerusalem, 1921" },
@@ -550,7 +550,7 @@ footnotes = [
 ## カノンの対抗的読解
 
 約束したとおりに印される境界は、ここである——上のすべては、主流派自身の土俵の
-上での文献学と神学である。これに続くのは天の車輪の枠組みであり、それは十五世紀
+上での文献学と神学である。これに続くのは Wheel of Heaven の枠組みであり、それは十五世紀
 にわたる霊性化の木目に逆らってこの本文を読む。
 
 カノンの立場は、これらの数が沈黙したのは、もはや誰も、それらが何を言っているの

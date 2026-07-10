@@ -227,7 +227,7 @@ The substantial corpus position registers a fourth component as well:
 
 在框架式的解读上,耶和华补上了缺失的钥匙:*parasang* 被重新定义为光在一秒钟内所行进的距离(约 300,000 千米),从而使这两个数字成为[耶洛因母行星](../elohim-home-planet/)距其自身恒星的距离(约 70.8 billion 千米)与距地球的距离(约 0.95 光年)。这些度量不再被读作神秘的夸张,而是被读作对两段真实距离的走样记录,由一个忠实背诵着它早已不再理解之内容的传统所保存。
 
-完整的论述——透过本项目自有译本对该文本的细读、三方定年之争、主流的"度量即否定神学"解读与正典的反向解读,以及一项新发现:该段落的确切形式(将希伯来文"脚掌"误译为 *talons*/"脚踵",以及"Cantique des Cantiques (V)"的引证)如何经由 Scholem 的 *Major Trends* 追溯至 Henri Sérouya 1957 年的口袋本 *La Kabbale*——载于解说文章[**最接近真理之书**](/articles/the-book-closest-to-the-truth/)以及[*Shi'ur Qomah* — 天轮译本](/library/shiur-qomah-woh/)中。
+完整的论述——透过本项目自有译本对该文本的细读、三方定年之争、主流的"度量即否定神学"解读与正典的反向解读,以及一项新发现:该段落的确切形式(将希伯来文"脚掌"误译为 *talons*/"脚踵",以及"Cantique des Cantiques (V)"的引证)如何经由 Scholem 的 *Major Trends* 追溯至 Henri Sérouya 1957 年的口袋本 *La Kabbale*——载于解说文章[**最接近真理之书**](/articles/the-book-closest-to-the-truth/)以及[*Shi'ur Qomah* — Wheel of Heaven 译本](/library/shiur-qomah-woh/)中。
 
 ### The "richest in testimonies" articulation
 
@@ -628,7 +628,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
 - [耶洛因母行星](../elohim-home-planet/)
-- [*Shi'ur Qomah* — 天轮译本](/library/shiur-qomah-woh/)
+- [*Shi'ur Qomah* — Wheel of Heaven 译本](/library/shiur-qomah-woh/)
 - [最接近真理之书(解说文章)](/articles/the-book-closest-to-the-truth/)
 
 ## References

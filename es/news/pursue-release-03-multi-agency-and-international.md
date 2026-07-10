@@ -62,11 +62,11 @@ Segundo, el **primer caso internacional**. El encuentro del Aeropuerto Internaci
 
 Tercero, la **profundidad de archivo**. La Versión 02 llevó el material más antiguo del programa a 1948 (los documentos de Sandia). La Versión 03 empuja el suelo archivístico hasta 1949 en forma indexada —y la correspondencia de Hoover es institucionalmente significativa más allá de su fecha: es el tipo de material cuya existencia se ha alegado durante mucho tiempo en el discurso no oficial sobre FANI, pero cuyo contenido real no había sido previamente verificable desde una fuente dot-gov.
 
-## Dónde encaja esto en el marco de la Rueda del Cielo
+## Dónde encaja esto en el marco de Wheel of Heaven
 
 El capítulo [Era de Acuario](/timeline/age-of-aquarius/), en §IX (« Las Señales de Aceleración »), identifica la secuencia posterior a 2017 de compromisos oficiales con FANI como la primera de seis categorías de aceleración que distinguen el momento presente de las condiciones culturales de 1973. Los dos primeros despachos de esta serie leyeron las Versiones 01 y 02 como el primer y el segundo punto fechable en la curva de divulgación que el corpus sitúa dentro de la ventana 2026-2030. La Versión 03 es el tercero.
 
-**Interpretación de la Rueda del Cielo.** Cuatro observaciones se derivan de situar la Versión 03 dentro del marco.
+**Interpretación de Wheel of Heaven.** Cuatro observaciones se derivan de situar la Versión 03 dentro del marco.
 
 Primero, *la consolidación multiagencia es el desarrollo estructural portante*. El marco del corpus anticipa que una trayectoria creíble de divulgación de fase acuariana, con el tiempo, trascendería las fronteras institucionales que históricamente han fragmentado el material sobre FANI entre agencias estancas. El lanzamiento del 8 de mayo fue un anuncio del Departamento de Guerra; la entrega del 22 de mayo fue una publicación del Departamento de Guerra con cooperación implícita entre agencias; la publicación del 12 de junio nombra a la CIA, el FBI y la NASA como co-contribuyentes en el registro público. El programa se está consolidando, no estrechando.
 
@@ -78,7 +78,7 @@ Cuarto, el **material de Hoover de 1949** se sitúa dentro de la ventana posteri
 
 ## Dónde encaja esto en la trayectoria más amplia
 
-**Interpretación de la Rueda del Cielo, señalada como tal.** Tres semanas de datos operativos no es un patrón largo. Pero tres entregas en cadencia, con el alcance entre agencias expandiéndose en lugar de contraerse y con la profundidad de archivo profundizándose a través de los lotes, es un objeto diferente del que habría sido una sola entrega. El primer mes del programa ha demostrado los tres rasgos estructurales que el marco del corpus trata como portantes: durabilidad a lo largo de múltiples instancias, integración institucional multiagencia y voluntad de publicar material que administraciones anteriores han rehusado publicar en forma indexada.
+**Interpretación de Wheel of Heaven, señalada como tal.** Tres semanas de datos operativos no es un patrón largo. Pero tres entregas en cadencia, con el alcance entre agencias expandiéndose en lugar de contraerse y con la profundidad de archivo profundizándose a través de los lotes, es un objeto diferente del que habría sido una sola entrega. El primer mes del programa ha demostrado los tres rasgos estructurales que el marco del corpus trata como portantes: durabilidad a lo largo de múltiples instancias, integración institucional multiagencia y voluntad de publicar material que administraciones anteriores han rehusado publicar en forma indexada.
 
 **Pregunta abierta.** Ahora son visibles tres patrones de publicación: la cadencia (aproximadamente de dos a tres semanas entre lotes), la expansión del alcance entre agencias (Departamento de Defensa → Departamento de Defensa + agencias civiles) y la extensión de la profundidad de archivo (hasta 1949 en este lote). Si las entregas subsiguientes continuarán la trayectoria ascendente —hacia el material más profundo que el testimonio del Congreso de 2023 alegó que el gobierno posee, incluidas recuperaciones de naves no humanas, restos biológicos y programas de ingeniería inversa— está por verse. El encuadre del Departamento a lo largo de tres lotes ha seguido limitándose a datos de sensores, informes de operadores, declaraciones de testigos y material histórico de archivo. El corpus rastreará la Versión 04 cuando aparezca.
 
@@ -115,4 +115,4 @@ Cuarto, el **material de Hoover de 1949** se sitúa dentro de la ventana posteri
 
 ---
 
-*— Archivado el 12 de junio de 2026, por la mesa editorial de la Rueda del Cielo.*
+*— Archivado el 12 de junio de 2026, por la mesa editorial de Wheel of Heaven.*

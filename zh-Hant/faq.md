@@ -19,7 +19,7 @@ title = "關於本專案"
 
 [[extra.faq_groups.items]]
 slug = "what-is-wheel-of-heaven"
-question = "什麼是 Wheel of Heaven（天輪）？"
+question = "什麼是 Wheel of Heaven？"
 answer = """
 Wheel of Heaven 是透過單一工作假設，對古代世界創造傳統進行的長篇解讀：希伯來聖經所稱的 *耶洛因*（Elohim）——一個複數名詞，被翻譯為單數的「神」所遮蔽——其實是來自他處的一個小型先進人類文明，他們來到此地，預備了這顆星球，設計了地球上的生命，並在宗教文本中留下了記錄。
 

@@ -1,6 +1,6 @@
 +++
 title = "百科全書"
-description = "天輪假說核心的術語、人物、地點與概念——附有來源出處的簡明定義，並連結至相關資料。"
+description = "Wheel of Heaven 假說核心的術語、人物、地點與概念——附有來源出處的簡明定義，並連結至相關資料。"
 template = "wiki-section.html"
 sort_by = "title"
 generate_feeds = true

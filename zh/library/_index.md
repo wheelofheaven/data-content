@@ -1,6 +1,6 @@
 +++
 title = "图书馆"
-description = "天轮文集所参照的原典——以雷尔派源典为核心，环绕以圣经、美索不达米亚及其他古代典籍。"
+description = "Wheel of Heaven 文集所参照的原典——以雷尔派源典为核心，环绕以圣经、美索不达米亚及其他古代典籍。"
 template = "library-section.html"
 
 [extra]

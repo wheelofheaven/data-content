@@ -486,7 +486,7 @@ ganzen Weg* läuft, und — der Teil, den keine Gleichung enthält — dass es *
 
 Es gibt einen Grund, warum dieses Bündel von Ideen — Skalierung, Selbstähnlichkeit, die
 Grenzen der Vorhersage — genau dann in der Kultur auftauchte, als es das tat, und die
-{% wiki(slug="cosmic-chain") %}Zeitleiste{% end %} des Rad des Himmels hat den Ort, an dem
+{% wiki(slug="cosmic-chain") %}Zeitleiste{% end %} von Wheel of Heaven hat den Ort, an dem
 es auftauchte, bereits benannt: *Jurassic Park*. Die Zeitleiste ruft Crichtons Roman um
 seiner Ethik willen auf — Wissenschaftler, die *„so sehr damit beschäftigt waren, ob sie
 es könnten, dass sie nicht innehielten, um zu bedenken, ob sie es sollten.“* Doch das Buch

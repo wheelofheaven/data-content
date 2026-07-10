@@ -1,6 +1,6 @@
 +++
 title = "圖書館"
-description = "天輪語料庫所依據的原典——以雷爾運動的源頭文獻為核心,並環繞著聖經、美索不達米亞及其他古代著作。"
+description = "Wheel of Heaven 語料庫所依據的原典——以雷爾運動的源頭文獻為核心,並環繞著聖經、美索不達米亞及其他古代著作。"
 template = "library-section.html"
 
 [extra]

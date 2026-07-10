@@ -62,11 +62,11 @@ Segundo, la **categoría transmedio**. El encuentro submarino de marzo de 2022 y
 
 Tercero, el **rango temporal**. Los documentos de Sandia de 1948-1950 son el material de archivo más profundo que PURSUE ha sacado a la luz hasta ahora. Sandia en aquella ventana era el principal centro estadounidense de ingeniería de armas nucleares, y una serie sostenida de avistamientos no resueltos de anomalías aéreas en ese lugar, en esos años, es el tipo de material histórico que esfuerzos previos de desclasificación han rechazado sistemáticamente publicar en forma indexada. El Departamento lo ha hecho ahora.
 
-## Dónde encaja esto en el marco de la Rueda del Cielo
+## Dónde encaja esto en el marco de Wheel of Heaven
 
 El capítulo [Era de Acuario](/timeline/age-of-aquarius/), en §IX (« Las Señales de Aceleración »), identifica la secuencia posterior a 2017 de compromisos oficiales con FANI como la primera de seis categorías de aceleración que distinguen el momento presente de las condiciones culturales de 1973. El primer despacho de esta serie leyó la Versión 01 de PURSUE como el punto fechable inaugural en la curva de divulgación dentro de la ventana 2026-2030 del corpus. La Versión 02 es el segundo.
 
-**Interpretación de la Rueda del Cielo.** Cuatro observaciones se derivan de situar la Versión 02 dentro del marco.
+**Interpretación de Wheel of Heaven.** Cuatro observaciones se derivan de situar la Versión 02 dentro del marco.
 
 Primero, la *cadencia se mantiene*. La lectura del corpus sobre la fase acuariana de divulgación como gradual, multicanal e institucional —en lugar de catastrófica y revelatoria— requiere que el programa sobreviva a su segunda instancia para ser tomado en serio como rasgo estructural en lugar de momento político único. La entrega del 22 de mayo es la primera confirmación de que la cadencia es real.
 
@@ -78,7 +78,7 @@ Cuarto, los **documentos de Sandia de 1948-1950** son el tipo de material histó
 
 ## Dónde encaja esto en la trayectoria más amplia
 
-**Interpretación de la Rueda del Cielo, señalada como tal.** El primer despacho de esta serie trató la trayectoria de divulgación y la trayectoria política más amplia como objetos de análisis separables. Esa distinción se mantiene aquí. Lo que puede afirmarse con confianza sobre la Versión 02, en sus propios términos, es que la *durabilidad estructural* del programa ha quedado demostrada ahora a lo largo de una segunda instancia, y que la segunda instancia es materialmente más sustantiva que la primera, tanto en calidad de imagen como en las categorías de fenómenos que se están introduciendo en el registro público. El reconocimiento de lo transmedio y el material de archivo profundo de Sandia no son expansiones menores; son el tipo de material que administraciones anteriores de ambos partidos han rechazado sistemáticamente publicar en forma indexada y citable. El hecho de que este material esté ahora en un dominio dot-gov, con la firma institucional del Departamento de Guerra de EE. UU. adjunta, es el desarrollo estructural que el corpus está rastreando.
+**Interpretación de Wheel of Heaven, señalada como tal.** El primer despacho de esta serie trató la trayectoria de divulgación y la trayectoria política más amplia como objetos de análisis separables. Esa distinción se mantiene aquí. Lo que puede afirmarse con confianza sobre la Versión 02, en sus propios términos, es que la *durabilidad estructural* del programa ha quedado demostrada ahora a lo largo de una segunda instancia, y que la segunda instancia es materialmente más sustantiva que la primera, tanto en calidad de imagen como en las categorías de fenómenos que se están introduciendo en el registro público. El reconocimiento de lo transmedio y el material de archivo profundo de Sandia no son expansiones menores; son el tipo de material que administraciones anteriores de ambos partidos han rechazado sistemáticamente publicar en forma indexada y citable. El hecho de que este material esté ahora en un dominio dot-gov, con la firma institucional del Departamento de Guerra de EE. UU. adjunta, es el desarrollo estructural que el corpus está rastreando.
 
 **Pregunta abierta.** Si la tercera entrega continuará la trayectoria ascendente —hacia el material más profundo que el testimonio del Congreso de 2023 alegó que el gobierno posee, incluidas recuperaciones de naves no humanas, restos biológicos y programas de ingeniería inversa— está por verse. El encuadre del Departamento a través de dos lotes se ha limitado deliberadamente a datos de sensores, informes de operadores y material histórico de archivo. El corpus rastreará la Versión 03 cuando aparezca.
 
@@ -113,4 +113,4 @@ Cuarto, los **documentos de Sandia de 1948-1950** son el tipo de material histó
 
 ---
 
-*— Archivado el 22 de mayo de 2026, por la mesa editorial de la Rueda del Cielo.*
+*— Archivado el 22 de mayo de 2026, por la mesa editorial de Wheel of Heaven.*

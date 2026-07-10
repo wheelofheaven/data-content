@@ -1,6 +1,6 @@
 +++
 title = "Artículos"
-description = "Explicativos perennes y guiados por una tesis sobre la hipótesis de la Rueda del Cielo. Análisis de fondo con fuentes completas — hechos para durar, no para reaccionar."
+description = "Explicativos perennes y guiados por una tesis sobre la hipótesis de Wheel of Heaven. Análisis de fondo con fuentes completas — hechos para durar, no para reaccionar."
 template = "articles-section.html"
 sort_by = "date"
 generate_feeds = true
@@ -12,7 +12,7 @@ editorial_pass = "2026-05"
 
 # Artículos
 
-Los artículos son **Explicativos perennes** — análisis de fondo, guiados por una tesis, sobre las ideas en el corazón de la hipótesis de la Rueda del Cielo. Se toman su tiempo. Cada uno cumple con un mínimo de seis fuentes y declara un `claim_type` para que sepas exactamente qué tipo de afirmación estás leyendo.
+Los artículos son **Explicativos perennes** — análisis de fondo, guiados por una tesis, sobre las ideas en el corazón de la hipótesis de Wheel of Heaven. Se toman su tiempo. Cada uno cumple con un mínimo de seis fuentes y declara un `claim_type` para que sepas exactamente qué tipo de afirmación estás leyendo.
 
 ## Qué es un Explicativo
 

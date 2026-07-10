@@ -351,7 +351,7 @@ The Vorilhon source's broader engagement with the Kabbalistic tradition:
 
 The Kabbalistic tradition (treated systematically in the [Kabbalah](../kabbalah/) entry) is registered by the source as substantively the closest preservation of the original alliance-transmission content within the post-biblical Jewish tradition. The detailed engagement with the Kabbalistic content operates as one of the corpus's principal source-textual engagements with post-biblical Jewish material.
 
-关于 Shi'ur Qomah 的完整论述——它的文本、其存在争议的定年、主流的"度量即否定神学"解读,以及正典将两个 parasang 数字反向解读为母行星天文距离的解读——载于解说文章[**最接近真理之书**](/articles/the-book-closest-to-the-truth/),该文透过[*Shi'ur Qomah* — 天轮译本](/library/shiur-qomah-woh/)对文本进行细读。
+关于 Shi'ur Qomah 的完整论述——它的文本、其存在争议的定年、主流的"度量即否定神学"解读,以及正典将两个 parasang 数字反向解读为母行星天文距离的解读——载于解说文章[**最接近真理之书**](/articles/the-book-closest-to-the-truth/),该文透过[*Shi'ur Qomah* — Wheel of Heaven 译本](/library/shiur-qomah-woh/)对文本进行细读。
 
 ### The throne of God / abode of the Elohim
 
@@ -617,7 +617,7 @@ The substantial alternative explanations — common cognitive structures (substa
 - [Cosmic Competition](../cosmic-competition/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Kabbalah](../kabbalah/)
-- [*Shi'ur Qomah* — 天轮译本](/library/shiur-qomah-woh/)
+- [*Shi'ur Qomah* — Wheel of Heaven 译本](/library/shiur-qomah-woh/)
 - [最接近真理之书(解说文章)](/articles/the-book-closest-to-the-truth/)
 - [Genesis](../genesis/)
 - [Tree of Life](../tree-of-life/)
