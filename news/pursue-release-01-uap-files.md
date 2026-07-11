@@ -44,6 +44,8 @@ Release 01 contains imagery and reporting drawn from:
 - a Department of the Army report of a UAP observed in North America in 2026;
 - and an archival NASA frame from the **Apollo 17** lunar mission (1972) showing three points of light above the lunar horizon, with the associated mission transcript in which the crew describes "a few very bright particles or fragments or something that go drifting by."
 
+{{ figure(src="news/pursue-01-apollo17-1972", alt="NASA Apollo 17 lunar-surface photograph, 1972, with a boxed inset enlarging a small cluster of bright points above the horizon.", caption="The Apollo 17 frame (1972): a NASA lunar-surface photograph, with the government's own inset enlargement of three bright points above the horizon — the archival image anchoring Release 01. Source: NASA, via U.S. Department of War / PURSUE Release 01 — public domain (17 U.S.C. §105).") }}
+
 The Department's framing is specific and worth quoting at minimum length: the materials archived in this release are **unresolved cases**, meaning the government has been unable to make a definitive determination on the nature of the observed phenomena. Resolved cases continue to be reported separately under existing statute. Further tranches are to be posted, the Department states, "every few weeks."
 
 The release is accompanied by a statement from Secretary of War Pete Hegseth describing the program as an effort to bring "unprecedented transparency" to material that "has long fueled justified speculation." Director of National Intelligence Tulsi Gabbard issued a parallel statement coordinating the intelligence community's contribution. NASA Administrator Jared Isaacman publicly endorsed the program the same morning.

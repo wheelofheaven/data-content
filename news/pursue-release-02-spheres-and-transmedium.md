@@ -46,6 +46,8 @@ Release 02 is materially different from Release 01 in three respects: the imager
 - A clip associated with the **Lake Huron** shoot-down of February 12, 2023, the incident that followed the Chinese surveillance-balloon recoveries that month.
 - **116 pages** of documentation from the Armed Forces Special Weapons Program and the U.S. Air Force concerning a sustained series of sightings and investigations at **Sandia, New Mexico**, between 1948 and 1950.
 
+{{ figure(src="news/pursue-02-sandia-correspondence-1948", alt="First page of declassified 1948–1950 U.S. military correspondence on aerial-phenomena sightings at Sandia, New Mexico.", caption="Page one of the 116 declassified pages on the 1948–1950 sighting series at Sandia, New Mexico — then the principal U.S. nuclear-weapons engineering site, and the deepest archival material in Release 02. Source: Armed Forces Special Weapons Program / U.S. Air Force, via U.S. Department of War / PURSUE Release 02 — public domain (17 U.S.C. §105).") }}
+
 Senior intelligence-community testimony preserved in the release describes one of the orb encounters in unusually direct language. A senior U.S. intelligence officer characterized "two large orbs" as "orange with a white or yellow center" and "emitt[ing] light in all directions," and concluded: *"We were virtually speechless after these observations."* The Department reiterated that all materials archived in Release 02, as in Release 01, are **unresolved cases**: sensor returns and operator reports for which government analysis has not produced a definitive identification.
 
 The Department closed the release announcement by noting that the third tranche is "actively being processed for publication," with an announcement to follow "in the near future."

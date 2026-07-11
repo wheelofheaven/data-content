@@ -48,6 +48,8 @@ The notable cases — named by the Department, by mainstream coverage, or both �
 
 - **Cascade Mountains, Washington, 1949.** A J. Edgar Hoover–era FBI file documents correspondence from Reverend Charles Barnes describing four sky beams converging over the Cascade Mountains, producing a "great explosion effect" visible for "at least ten minutes." The case is the **earliest archival material** PURSUE has surfaced to date, predating even the 1948–1950 Sandia documents that anchored Release 02.
 
+{{ figure(src="news/pursue-03-fbi-rendering-western-us-2023", alt="FBI digital rendering of a night desert scene: a dark road into low hills, a glowing orange orb and three small red points of light in the sky.", caption="Not a photograph — the FBI's own digital rendering, reconstructed from witness reports, of the October 2023 Western-U.S. encounter: a “large glowing ball” trailing red lights over a desert road. One of the ten renderings in Release 03. Source: FBI, via U.S. Department of War / PURSUE Release 03 — public domain (17 U.S.C. §105).") }}
+
 The Department's framing remains continuous with Releases 01 and 02: all materials are catalogued as **unresolved cases** — sensor returns, operator reports, and witness statements for which government analysis has not produced a definitive identification. Secretary of War Pete Hegseth, in the accompanying statement, characterized the program's intent as "unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena." Chief Pentagon spokesman Sean Parnell noted that **war.gov/UFO has received over 1.7 billion hits worldwide** since the site's launch on May 8, 2026.
 
 ## What this is, in plain terms
