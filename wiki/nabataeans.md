@@ -12,6 +12,14 @@ entry_type = "people"
 claim_type = "inferred"
 timeline = ["pisces", "aries"]
 alternative_names = ["נבטו (Nabataean Aramaic Nabaṭu)", "Ναβαταῖοι (Greek Nabataîoi)", "ٱلْأَنْبَاط (Arabic al-Anbāṭ)", "Nabateans", "the Nabati", "people of Raqmū"]
+see_also = [
+    { title = "Petra", path = "wiki/petra", description = "The Nabataeans' rock-cut capital, the site the framework's Petra hypothesis centres on." },
+    { title = "Hanafiyya", path = "wiki/hanafiyya", description = "The Abrahamic restoration the Nabataean people are read as the human medium of." },
+    { title = "Muhammad", path = "wiki/muhammad", description = "The prophet whose Quranic Arabic is argued to descend from Nabataean Arabic." },
+    { title = "Jesus", path = "wiki/jesus", description = "Speaker of the same Aramaic the Nabataeans wrote in, placing Islam in a shared milieu." },
+    { title = "Abraham", path = "wiki/abraham", description = "The patriarchal source of the Aramaic-Abrahamic milieu the Nabataeans sit within." },
+    { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "The corpus whose operational vocabulary shares the Aramaic-Abrahamic milieu tracked here." }
+]
 
 [extra.infobox]
 type = "Ancient North Arabian caravan-trade people; builders of Petra; transmitters of the Aramaic-to-Arabic script"

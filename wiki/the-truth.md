@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["la Vérité (French, the principal Vorilhon designation)", "the truth (lowercase, when referring to the recovered content as such)", "the underlying historical-civilizational reality (corpus-internal expansion)", "the message (in Raëlian source-textual usage)", "*emet* (אֱמֶת, Hebrew)", "*aletheia* (ἀλήθεια, Greek)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "The Tradition", path = "wiki/the-tradition", description = "The preserved transmission channel through which The Truth has been carried across millennia." },
+    { title = "Elohim", path = "wiki/elohim", description = "The civilization whose history is the specific content The Truth recovers." },
+    { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "The principal religious text whose mystified vocabulary etymological recovery decodes." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The corpus whose restoration project is the recovery of The Truth." },
+    { title = "Kabbalah", path = "wiki/kabbalah", description = "One esoteric tradition read as preserving the historical content in mystified form." },
+    { title = "World Age", path = "wiki/world-age", description = "The precessional framework structuring the historical reality The Truth recovers." },
+]
 
 [extra.infobox]
 type = "Foundational concept; the framework's specific designation for the underlying historical-civilizational reality preserved in mystified form across the religious traditions"

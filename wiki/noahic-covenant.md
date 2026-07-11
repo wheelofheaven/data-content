@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "event"
 alternative_names = ["the Noahic Covenant", "the post-flood covenant", "the rainbow covenant", "the Noahide covenant (Jewish tradition designation)", "the originary biblical covenant"]
 timeline = ["age-of-gemini"]
+see_also = [
+    { title = "Satan", path = "wiki/satan", description = "The exiled-creator (Serpentine) faction that becomes a covenant party at the altar." },
+    { title = "Babel", path = "wiki/babel", description = "The later project whose Council surprise demonstrates the covenant's private character." },
+    { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "The source of the Genesis 8-9 covenant narrative and its rainbow token." },
+    { title = "Yahweh", path = "wiki/yahweh", description = "The Council figure the covenant scene is conventionally attributed to." },
+    { title = "New Commandments", path = "wiki/new-commandments", description = "The Aquarian-age covenant closing the sequence the Noahic Covenant originates." },
+    { title = "Jesus", path = "wiki/jesus", description = "Mediator of the New Covenant, a later elaboration of the post-flood arrangement." },
+]
 
 [extra.infobox]
 type = "Post-flood political-religious event; formal alliance founding between the exiled-creator faction and the surviving humans led by Noah"

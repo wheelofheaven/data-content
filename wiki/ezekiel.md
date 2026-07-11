@@ -12,6 +12,14 @@ entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
 alternative_names = ["Yeḥezqēl", "Yechezkel", "Iezekiēl (Septuagint)", "Ezechiel", "Ḥizqīl (Arabic)", "Ezekiel son of Buzi", "Ezekiel the priest"]
+see_also = [
+    { title = "Third Temple", path = "wiki/third-temple", description = "The visionary temple of Ezekiel 40-48 the corpus reads with the Embassy line." },
+    { title = "Embassy", path = "wiki/embassy", description = "The project the returning-glory temple vision is read to anticipate." },
+    { title = "Hekhalot Literature", path = "wiki/hekhalot-literature", description = "The mystical tradition that grew from Ezekiel 1's chariot-throne vision." },
+    { title = "List of close encounters", path = "wiki/list-of-close-encounters", description = "The catalogue in which Ezekiel 1 sits as a detailed craft-observation." },
+    { title = "Elohim Home Planet", path = "wiki/elohim-home-planet", description = "The alliance world whose craft the mobile kavod is read to belong to." },
+    { title = "Kabbalah", path = "wiki/kabbalah", description = "The later esoteric current descending from the restricted merkavah exposition." }
+]
 
 [extra.infobox]
 type = "Hebrew prophet and priest"

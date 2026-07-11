@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Precessional Age", "Astrological Age", "Zodiacal Age", "Great Month", "Platonic Month (older Western-philosophical designation)", "Cosmic Age"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Great Month", path = "wiki/great-month", description = "The synonymous 2,160-year subdivision of the Great Year a World Age names." },
+    { title = "Hamlet's Mill", path = "wiki/hamlets-mill", description = "The Santillana-von Dechend reconstruction the framework draws its precessional model from." },
+    { title = "Doubled Signature", path = "wiki/doubled-signature", description = "The principle that each age references both its own sign and its zodiacal opposite." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The nested-scales cosmology within which the precessional ages are organized." },
+    { title = "Sumerian King List", path = "wiki/sumerian-king-list", description = "An ancient regnal record the corpus reads against the precessional chronology." },
+    { title = "Genesis", path = "wiki/genesis", description = "The creation narrative the corpus maps onto the sequence of precessional ages." },
+]
 
 [[extra.references]]
 id = "hamlets-mill"

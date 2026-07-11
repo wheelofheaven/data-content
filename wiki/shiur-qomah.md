@@ -12,6 +12,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["*Shiʿur Qomah* (שִׁעוּר קוֹמָה)", "Sefer Haqqomah ('Book of the [Divine] Body')", "the Measure of the Stature", "the Measure of the Body", "Ma'amar Rabbi Yishmael"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Yahweh", path = "wiki/yahweh", description = "The figure whose 'height of the creator' measurements the canon attributes to the Kabbalah." },
+    { title = "Elohim Home Planet", path = "wiki/elohim-home-planet", description = "The distance the framework recovers when the text's parasang is read as a light-second." },
+    { title = "Hekhalot Literature", path = "wiki/hekhalot-literature", description = "The late-antique palace-and-chariot mystical corpus to which the text belongs." },
+    { title = "Kabbalah", path = "wiki/kabbalah", description = "The later mysticism the Raëlian canon names as the source of the parasang figures." },
+    { title = "Elohim", path = "wiki/elohim", description = "The engineers whose cosmic measurements the framework reads behind the divine-body figures." },
+    { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "The scriptural source whose Psalm 147:5 gematria generates the keystone 236 figure." },
+]
 
 [extra.infobox]
 type = "Text of the Hekhalot / Merkavah mystical corpus; anthropomorphic 'measure of the divine body'"

@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["dinosaurs", "*taninim* (Hebrew plural)", "*tannin* (Hebrew singular)", "great sea creatures (English softened translation)", "*ketos* (Septuagint Greek)", "*cete grandia* (Vulgate Latin)", "sea monsters", "dragons of the deep"]
 timeline = ["virgo", "leo", "cancer", "gemini"]
+see_also = [
+    { title = "Serpent", path = "wiki/serpent", description = "The nachash whose Hebrew term overlaps tannin in the Isaiah 27:1 three-term dragon identification." },
+    { title = "Genesis", path = "wiki/genesis", description = "Its Day 5 creation account names the taninim with the strongest creation verb, bara." },
+    { title = "Great Flood", path = "wiki/great-flood", description = "The Gemini-age deluge that eliminated most of the larger dragon forms." },
+    { title = "Lucifer", path = "wiki/lucifer", description = "The opposition faction whose historical referents the same tannin vocabulary tracks in Isaiah 27:1." },
+    { title = "Satan", path = "wiki/satan", description = "The adversary tradition onto which later reptilian-dragon symbolism was mapped." },
+    { title = "List of etymological readings", path = "wiki/list-of-etymological-readings", description = "Where tannin sits among the corpus's directly-read Hebrew terms." },
+]
 
 [extra.infobox]
 type = "Concept; category of biological organism with substantial source-grounded creation history, mainstream-paleontological correspondence, and cross-cultural mythological-folkloric attestation"

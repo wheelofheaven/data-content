@@ -12,6 +12,14 @@ entry_type = "concept"
 claim_type = "framework"
 alternative_names = ["fractal cosmos", "the fractal-self-similar cosmology", "the infinite-hierarchical cosmology", "the nested-cosmos framework", "the scale-invariant cosmology"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Mass Effect", path = "wiki/mass-effect", description = "The sister framework addressing the temporal dimension of the same self-similar cosmology." },
+    { title = "Infinity", path = "wiki/infinity", description = "The broader framework of which fractal cosmology is the spatial dimension." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The nested hierarchy of beings that populates the infinite scale ladder." },
+    { title = "Doubled Signature", path = "wiki/doubled-signature", description = "A structural-recurrence principle that echoes the framework's self-similarity across scales." },
+    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "The framework reading of civilizational dynamics operating within the infinite cosmos." },
+    { title = "Elohim", path = "wiki/elohim", description = "The civilization whose home-world source material articulates the infinite-hierarchical structure." },
+]
 
 [extra.infobox]
 type = "Hypothetical cosmological framework; concept articulating the spatial-self-similar structure of the cosmos across the infinite hierarchy of scales"

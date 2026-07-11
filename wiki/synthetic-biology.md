@@ -11,6 +11,13 @@ editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
 alternative_names = ["Engineering biology", "Constructive biology", "Designed biology", "SynBio"]
+see_also = [
+    { title = "Life engineering", path = "wiki/life-engineering", description = "The umbrella field in which the full convergence argument for synthetic biology is developed." },
+    { title = "Genetic engineering", path = "wiki/genetic-engineering", description = "The older field synthetic biology overlaps and extends with genuine engineering-discipline practice." },
+    { title = "Synthetic genomics", path = "wiki/synthetic-genomics", description = "The complete-genome sister field synthetic biology overlaps and includes." },
+    { title = "Elohim", path = "wiki/elohim", description = "The civilization whose operational vocabulary the framework reads synthetic biology as most closely matching." },
+    { title = "Genesis", path = "wiki/genesis", description = "The creation account the framework reads as describing engineered biology in deep antiquity." },
+]
 
 [extra.infobox]
 type = "Engineering discipline applied to living systems"

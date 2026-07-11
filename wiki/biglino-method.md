@@ -12,6 +12,14 @@ category = "Methodology"
 entry_type = "concept"
 alternative_names = ["Biglino Method", "Metodo Biglino (Italian)", "the 'let's pretend it's true' method", "the naked-Bible method"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Mauro Biglino", path = "wiki/mauro-biglino", description = "The Italian translator whose reading practice the method is named for and codifies." },
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "Articulated the same Schliemann-Homer literal-reading principle four decades before Biglino." },
+    { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "The text the method reads literally, in the original, stripped of inherited theological framing." },
+    { title = "List of etymological readings", path = "wiki/list-of-etymological-readings", description = "The corpus catalogue of Hebrew terms read directly, applying the method term by term." },
+    { title = "Neo-Euhemerism", path = "wiki/neo-euhemerism", description = "The broader interpretive stance treating myth as compressed history that the method serves." },
+    { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The wider field whose literal-reading conclusions the method's outputs feed." },
+]
 
 [extra.infobox]
 type = "Hermeneutic methodology for reading the Hebrew Bible; principal contemporary articulation of the Schliemann-Sendy literal-reading tradition"

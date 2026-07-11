@@ -12,6 +12,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "framework"
 alternative_names = ["ID", "Design theory", "Design hypothesis", "Directed design (the Raëlian variant)"]
+see_also = [
+    { title = "Life engineering", path = "wiki/life-engineering", description = "The corpus mechanism by which the Elohim designer is held to have acted." },
+    { title = "Synthetic biology", path = "wiki/synthetic-biology", description = "The contemporary discipline the framework treats as recovering the designer's engineering capability." },
+    { title = "Synthetic genomics", path = "wiki/synthetic-genomics", description = "The genome-synthesis science the framework reads as continuous with the original design work." },
+    { title = "Pantropy", path = "wiki/pantropy", description = "The organism-tailoring concept extending the design claim to deliberate human modification." },
+    { title = "Genesis", path = "wiki/genesis", description = "The text whose Yamim phases the framework reads as the record of the engineering." },
+    { title = "Eden", path = "wiki/eden", description = "The site the framework identifies as the laboratory where humans were synthesised." },
+]
 
 [extra.infobox]
 type = "Philosophical and scientific doctrine that the functional complexity of biological systems is best explained by intelligent design"

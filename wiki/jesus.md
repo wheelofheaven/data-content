@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["Jesus of Nazareth", "Jesus Christ", "Yeshua", "Yēšuaʿ", "יֵשׁוּעַ", "Ἰησοῦς", "Iēsoûs", "Isa", "عيسى"]
 timeline = ["pisces"]
+see_also = [
+    { title = "The Alliance", path = "wiki/the-alliance", description = "The covenant program of which Jesus is read as a deliberate hybrid-conceived project." },
+    { title = "Yahweh", path = "wiki/yahweh", description = "The Elohim president who commissioned the alliance project that produced Jesus." },
+    { title = "Elohim", path = "wiki/elohim", description = "The creators supplying the Eloha father in the alliance-mediated conception." },
+    { title = "Prophet", path = "wiki/prophet", description = "The messenger role Jesus fills to inaugurate the Age of Pisces." },
+    { title = "Raël", path = "wiki/rael", description = "The Aquarian-age messenger paired with Jesus in the succession of prophets." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "The age-of-revelation that his Piscean mission was commissioned to prepare toward." },
+]
 
 [[extra.references]]
 id = "gospel-of-matthew"

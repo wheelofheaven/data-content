@@ -11,6 +11,13 @@ editorial_pass = "2026-05"
 entry_type = "event/period"
 alternative_names = ["the Cities of the Plain", "the Sodom event", "the Sodom strike", "*Sedom va-Amorah* (Hebrew: סְדֹם וַעֲמֹרָה)", "the Genesis 19 destruction", "the Council preventive strike (Taurus phase)", "the second preventive strike", "the Dead Sea event"]
 timeline = ["taurus"]
+see_also = [
+    { title = "Great Flood", path = "wiki/great-flood", description = "The first Council reset; Sodom is a later, localized preventive strike." },
+    { title = "Babel", path = "wiki/babel", description = "The adjacent post-Flood intervention, distinguished as reconciliation rather than vengeance-suppression." },
+    { title = "Abraham", path = "wiki/abraham", description = "Intercedes with Yahweh over the cities' destruction in Genesis 18." },
+    { title = "Satan", path = "wiki/satan", description = "The abolitionist Council faction whose position such strikes express." },
+    { title = "The Alliance", path = "wiki/the-alliance", description = "The body whose containment policy authorizes the strike." },
+]
 
 [extra.infobox]
 type = "Multi-component narrative event; the late-Taurus Council preventive strike against an organized human vengeance movement at the Cities of the Plain"

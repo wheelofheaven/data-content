@@ -12,6 +12,13 @@ entry_type = "symbol"
 claim_type = "inferred"
 timeline = ["taurus", "aries", "pisces"]
 alternative_names = ["Temple menorah", "Seven-branched lampstand", "Mosaic candelabrum", "Sevenfold lamp"]
+see_also = [
+    { title = "List of exegetic readings", path = "wiki/list-of-exegetic-readings", description = "The catalogue registering the Menorah among the framework's operational readings of sacred objects." },
+    { title = "Star of David", path = "wiki/star-of-david", description = "A comparably ancient Jewish emblem the framework reads for preserved operational memory." },
+    { title = "Swastika", path = "wiki/swastika", description = "Another enduring symbol the corpus reads as encoding forgotten operational content." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "The Revelation lampstand imagery that reuses the seven-lamp configuration read here." },
+    { title = "List of mythemes and mythological motifs", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "The companion catalogue of recurring motifs the seven-lamp symbol sits within." },
+]
 
 [extra.infobox]
 type = "Seven-branched golden lampstand of the Tabernacle and Temple"

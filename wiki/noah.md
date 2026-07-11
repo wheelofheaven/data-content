@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["Noah (English)", "נֹחַ (Hebrew Noaḥ)", "Νῶε (Greek Nōe)", "نوح (Arabic Nūḥ)", "the Eden-lineage flood survivor", "the ark-builder", "the post-flood patriarch"]
 timeline = ["age-of-cancer", "age-of-gemini"]
+see_also = [
+    { title = "Satan", path = "wiki/satan", description = "The exiled-creator (Serpentine) faction Noah served as principal operational partner in the ark project." },
+    { title = "Great Flood", path = "wiki/great-flood", description = "The Council-ordered cataclysm the ark-preservation project was mounted against." },
+    { title = "Theomachy", path = "wiki/theomachy", description = "The war-in-heaven conflict between creator factions preceding the flood Noah survived." },
+    { title = "Babel", path = "wiki/babel", description = "The post-flood recovery project whose Council alarm demonstrates the home world's non-participation in Noah's covenant." },
+    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "The civilizational-evaluation framework the flood punctuates as a paradigmatic threshold event." },
+    { title = "Saṃsāra", path = "wiki/samsara", description = "The cyclical-cosmological pattern for which the flood serves as paradigmatic cycle-restart." },
+]
 
 [extra.infobox]
 type = "Biblical figure; principal human operational partner of the exiled-creator (Serpentine) faction in the ark-preservation project"

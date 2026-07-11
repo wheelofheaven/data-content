@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "event"
 alternative_names = ["Noah's Ark", "the ark of Noah", "תֵּבַת נֹחַ (Hebrew tevat Noaḥ)", "the preservation vessel", "the orbital spacecraft (corpus reading)", "كَشْتِيُّ نُوحٍ (Arabic safīnat Nūḥ)"]
 timeline = ["age-of-cancer", "age-of-gemini"]
+see_also = [
+    { title = "Satan", path = "wiki/satan", description = "The exiled-creator (Serpentine) faction that directed the ark's construction." },
+    { title = "Babel", path = "wiki/babel", description = "The post-flood Eden-lineage engineering project the preserved remnant went on to mount." },
+    { title = "Embassy", path = "wiki/embassy", description = "The later alliance-and-human engineering project the ark structurally predates." },
+    { title = "Moses", path = "wiki/moses", description = "Later covenant-mediator in the Eden-lineage the ark preserved." },
+    { title = "Noahic Covenant", path = "wiki/noahic-covenant", description = "The post-flood agreement following the preservation the ark accomplished." },
+    { title = "Raël", path = "wiki/rael", description = "Recipient of the source account reading the ark as an orbital preservation craft." }
+]
 
 [extra.infobox]
 type = "Cancer-Gemini-age preservation event; orbital spacecraft constructed under exiled-creator technical direction, crewed by Noah's family"

@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Humanitarianism (proper-noun framework concept)", "humanitarianism (lowercase, when used in mainstream sense)", "the second New Commandment", "the Raëlian property-and-inheritance doctrine", "the forty-nine-year rental doctrine"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Geniocracy", path = "wiki/geniocracy", description = "The political-governance commandment paired with Humanitarianism in the New Commandments." },
+    { title = "New Commandments", path = "wiki/new-commandments", description = "The seven-part Aquarian program of which Humanitarianism is the second commandment." },
+    { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "The source of the Leviticus 25 Jubilee tradition anchoring the forty-nine-year tenure." },
+    { title = "Yahweh", path = "wiki/yahweh", description = "The Elohim president who articulated the doctrine to Vorilhon." },
+    { title = "Raël", path = "wiki/rael", description = "The recipient and transmitter of the socio-economic doctrine." },
+    { title = "Message from the Designers", path = "wiki/message-from-the-designers", description = "The consolidated source text recording the doctrine's original articulation." },
+]
 
 [extra.infobox]
 type = "Raëlian socio-economic doctrine; the second of the seven New Commandments delivered to Vorilhon during the December 1973 contact"

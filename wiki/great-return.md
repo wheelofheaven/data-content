@@ -13,6 +13,14 @@ entry_type = "event"
 claim_type = "direct"
 timeline = ["aquarius"]
 alternative_names = ["The Return", "Second Coming (in some comparative-religion framings)", "The Arrival", "The Reunification"]
+see_also = [
+    { title = "Embassy", path = "wiki/embassy", description = "The installation humanity must build as the principal precondition of the Return." },
+    { title = "Third Temple", path = "wiki/third-temple", description = "The Embassy read through the Hebrew Bible's Temple-restoration prophecies." },
+    { title = "Golden Age", path = "wiki/golden-age", description = "The post-Return condition the arrival inaugurates once its preconditions are met." },
+    { title = "Council of the Eternals", path = "wiki/council-of-the-eternals", description = "The Elohim governing body whose official arrival the Return represents." },
+    { title = "Jesus", path = "wiki/jesus", description = "The Christian Parousia figure the framework reads as one vocabulary for the Return." },
+    { title = "List of prophets and religions", path = "wiki/list-of-prophets-and-religions", description = "The cross-tradition eschatological figures the framework reads as anticipating the same event." },
+]
 
 [extra.infobox]
 type = "Anticipated official arrival of the Elohim on Earth; the framework's culminating eschatological event"

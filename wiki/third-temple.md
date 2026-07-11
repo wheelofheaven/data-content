@@ -16,6 +16,13 @@ entry_type = "place"
 claim_type = "direct"
 alternative_names = ["Beit ha-Mikdash ha-Shlishi (Hebrew, \"the Third Holy House\")", "The Embassy (in Raëlian terminology)", "The Residence (in some source-material passages)", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "The Messianic Temple"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "Embassy", path = "wiki/embassy", description = "The Vorilhon-specified reception residence the framework identifies functionally with the Third Temple." },
+    { title = "Great Return", path = "wiki/great-return", description = "The Elohim's anticipated return for which the Embassy/Third Temple is the required reception site." },
+    { title = "Yahweh", path = "wiki/yahweh", description = "The Elohim president whose terrestrial reception the temple sequence has served since the Tabernacle." },
+    { title = "Elohim", path = "wiki/elohim", description = "The civilization for whose terrestrial presence the temple-sequence sites are prepared." },
+    { title = "Golden Age", path = "wiki/golden-age", description = "The Aquarian-age fulfillment within which the Third Temple's construction is anticipated." },
+]
 
 [extra.infobox]
 type = "Anticipated future Temple in Jerusalem (in Jewish eschatology); functionally identified with the Embassy required for the Elohim's Great Return (in the Wheel of Heaven framework)"

@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Geniocracy (proper-noun framework concept)", "selective democracy (Vorilhon source-textual designation)", "the first New Commandment", "the Raëlian political-governance doctrine", "Géniocratie (French)", "government by the geniuses (descriptive expansion)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Humanitarianism", path = "wiki/humanitarianism", description = "The property-and-inheritance commandment paired with Geniocracy in the New Commandments." },
+    { title = "New Commandments", path = "wiki/new-commandments", description = "The seven-part Aquarian program of which Geniocracy is the first commandment." },
+    { title = "Yahweh", path = "wiki/yahweh", description = "The Elohim president who articulated the doctrine to Vorilhon." },
+    { title = "Raël", path = "wiki/rael", description = "The recipient of the doctrine and founder of the Movement for Worldwide Geniocracy." },
+    { title = "Message from the Designers", path = "wiki/message-from-the-designers", description = "The consolidated source text recording the doctrine's original articulation." },
+    { title = "Raëlism", path = "wiki/raelism", description = "The movement within which Geniocracy functions as foundational political doctrine." },
+]
 
 [extra.infobox]
 type = "Raëlian political-governance doctrine; the first of the seven New Commandments delivered to Vorilhon during the December 1973 contact"

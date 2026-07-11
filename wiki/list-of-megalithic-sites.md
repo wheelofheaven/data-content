@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "direct"
 alternative_names = ["Catalogue of megalithic sites", "Ancient megalithic architecture index", "Cyclopean and megalithic construction reference"]
+see_also = [
+    { title = "Ancient Builders", path = "wiki/ancient-builders", description = "The paired entry addressing who constructed the sites this catalogue lists." },
+    { title = "Archaeoastronomy", path = "wiki/archaeoastronomy", description = "The systematic astronomical alignments documented across many catalogued sites." },
+    { title = "Elohim", path = "wiki/elohim", description = "The creators the framework credits with intermittent support of advanced ancient construction." },
+    { title = "List of mythemes and mythological motifs", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "The mythological record the corpus reads alongside the megalithic material evidence." },
+    { title = "Pangaea", path = "wiki/pangaea", description = "The antediluvian landmass predating and framing the corpus's deep construction chronology." },
+    { title = "Genesis", path = "wiki/genesis", description = "The source narrative anchoring the corpus's account of early advanced human civilisation." },
+]
 
 [extra.infobox]
 type = "Reference catalogue of megalithic archaeological sites"

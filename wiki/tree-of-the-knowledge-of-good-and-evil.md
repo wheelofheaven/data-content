@@ -12,6 +12,14 @@ category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["Tree of the Knowledge of Good and Evil", "Tree of Knowledge", "עֵץ הַדַּעַת טוֹב וָרָע (Hebrew etz ha-daat tov va-ra)", "the forbidden tree", "the tree in the midst of the garden", "the second tree (alongside Tree of Life)"]
 timeline = ["age-of-leo", "age-of-cancer"]
+see_also = [
+    { title = "Tree of Life", path = "wiki/tree-of-life", description = "The paired tree encoding the longevity technology withheld alongside scientific knowledge." },
+    { title = "Satan", path = "wiki/satan", description = "The Lucifer faction read as the serpent that discloses the withheld knowledge." },
+    { title = "Eden", path = "wiki/eden", description = "The laboratory-garden where the tree stood and the disclosure occurred." },
+    { title = "Theomachy", path = "wiki/theomachy", description = "The creator-faction conflict the disclosure act inaugurates." },
+    { title = "Sodom and Gomorrah", path = "wiki/sodom-and-gomorrah", description = "A later instance of the atomic-weapon enforcement first seen at the garden's guard." },
+    { title = "Noah", path = "wiki/noah", description = "Later carrier of the Eden lineage whose flood the post-disclosure trajectory reaches." },
+]
 
 [extra.infobox]
 type = "Symbolic-conceptual; principal Genesis 2-3 designation for scientific knowledge archives withheld from first synthetic humans"

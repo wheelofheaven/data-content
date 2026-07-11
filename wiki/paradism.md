@@ -11,6 +11,13 @@ category = "Raëlism"
 entry_type = "concept"
 alternative_names = ["Paradism", "paradisme (French)", "Earthly paradise (substantive Vorilhon designation)", "Paradise on Earth (substantive Vorilhon section title)", "the realized post-scarcity society", "fully-automated post-money society"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Golden Age", path = "wiki/golden-age", description = "The post-scarcity content of which Paradism is read as the operational form." },
+    { title = "New Commandments", path = "wiki/new-commandments", description = "The Aquarian-age program of which Paradism is a principal component." },
+    { title = "Geniocracy", path = "wiki/geniocracy", description = "The selective-democracy governance program integrated alongside Paradism." },
+    { title = "Humanitarianism", path = "wiki/humanitarianism", description = "The wealth-and-property reform program integrated alongside Paradism." },
+    { title = "Cyberparadism", path = "wiki/cyberparadism", description = "The digital-platform extension of the Paradism program." },
+]
 
 [extra.infobox]
 type = "Socio-economic concept; principal New Commandments program-component articulating post-scarcity post-money society through advanced automation"

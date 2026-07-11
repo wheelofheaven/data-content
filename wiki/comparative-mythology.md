@@ -12,6 +12,14 @@ category = "Methodology"
 entry_type = "concept"
 alternative_names = ["Comparative Mythology", "comparative religion (overlapping discipline)", "mythography (related but distinct discipline)", "comparative folklore", "Mythologie comparée (French)", "vergleichende Mythologie (German)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Hamlet's Mill", path = "wiki/hamlets-mill", description = "The precessional-encoding thesis the corpus adopts as the discipline's structural organizing principle." },
+    { title = "Theomachy", path = "wiki/theomachy", description = "The war-among-the-gods motif cluster the discipline catalogues cross-culturally." },
+    { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The broader interpretive frame the corpus reads the recurring motifs through." },
+    { title = "Neo-Euhemerism", path = "wiki/neo-euhemerism", description = "The common-historical-referent method the corpus applies to the cross-cultural patterns." },
+    { title = "Tree of the Knowledge of Good and Evil", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "The cosmic-tree motif as one instance of the discipline's recurring pattern set." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The project engaging the discipline as one of its principal methodological commitments." },
+]
 
 [extra.infobox]
 type = "Academic and interpretive discipline studying recurring patterns across geographically and historically separated mythological corpora; one of the corpus's principal methodological commitments"

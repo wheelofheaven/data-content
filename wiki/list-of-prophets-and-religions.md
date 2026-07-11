@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "direct"
 alternative_names = ["Catalogue of religions", "Prophet and tradition index", "Religious-tradition reference"]
+see_also = [
+    { title = "Religion", path = "wiki/religion", description = "The parent entry developing the framework reading of religious history this catalogue tabulates." },
+    { title = "Raëlism", path = "wiki/raelism", description = "The tradition classified canonical at the top of the authenticity scale used here." },
+    { title = "Raël", path = "wiki/rael", description = "The final messenger in the prophetic lineage the catalogue indexes." },
+    { title = "Muhammad", path = "wiki/muhammad", description = "One of the founding prophets whose tradition the catalogue classifies and cross-references." },
+    { title = "Moses", path = "wiki/moses", description = "One of the founding prophets whose tradition the catalogue classifies and cross-references." },
+    { title = "Elohim", path = "wiki/elohim", description = "The civilization whose contacts the framework reads behind the authentic traditions listed." },
+]
 portrait_id = "prophetic-lineage"
 image = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.avif"

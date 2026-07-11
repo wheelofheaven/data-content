@@ -11,6 +11,14 @@ category = "Methodology"
 entry_type = "concept"
 alternative_names = ["Ancient Astronaut Hypothesis", "Ancient Astronaut Theory", "Ancient Aliens hypothesis", "paleocontact hypothesis", "extraterrestrial-intervention hypothesis", "ancient-extraterrestrial-hypothesis"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "The principal pre-Vorilhon figure whose framework the corpus integrates into its version of the hypothesis." },
+    { title = "Neo-Euhemerism", path = "wiki/neo-euhemerism", description = "The interpretive method underlying the corpus reading of ancient testimony as garbled contact record." },
+    { title = "Mauro Biglino", path = "wiki/mauro-biglino", description = "Contemporary textual-philological engagement judged methodologically closer to corpus discipline than the popularizers." },
+    { title = "Message from the Designers", path = "wiki/message-from-the-designers", description = "The direct Vorilhon revelation grounding the corpus rather than speculative interpretation of ancient evidence." },
+    { title = "The Tradition", path = "wiki/the-tradition", description = "The corpus term for the transmitted contact record the hypothesis reads across ancient cultures." },
+    { title = "Forerunners", path = "wiki/forerunners", description = "The earlier authors who anticipated the hypothesis before its twentieth-century popularization." },
+]
 
 [[extra.references]]
 id = "those-gods-who-made-heaven-and-earth"

@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
 alternative_names = ["Whole-genome synthesis", "Genome engineering", "Genome-scale design"]
+see_also = [
+    { title = "Life engineering", path = "wiki/life-engineering", description = "The parent field of which synthetic genomics is the most ambitious wing." },
+    { title = "Synthetic biology", path = "wiki/synthetic-biology", description = "The sister field operating at sub-system scale below whole-genome construction." },
+    { title = "Genetic engineering", path = "wiki/genetic-engineering", description = "The sister field operating by modifying existing genomes rather than synthesizing them." },
+    { title = "Elohim", path = "wiki/elohim", description = "The civilization whose whole-organism creation the field's scale most directly matches." },
+    { title = "Genesis", path = "wiki/genesis", description = "The creation narrative the corpus reads as describing designed-sequence life-construction." },
+    { title = "Tree of Life", path = "wiki/tree-of-life", description = "The longevity-technology counterpart the corpus pairs with created-life engineering." },
+]
 
 [extra.infobox]
 type = "Engineering sub-discipline of life engineering concerned with whole-genome design and synthesis"

@@ -11,6 +11,14 @@ category = "Science & Technology"
 entry_type = "concept"
 alternative_names = ["Drake Equation", "Green Bank Equation (occasional alternative)", "Drake-Sagan Equation (rarely used)", "\u00e9quation de Drake (French)", "Drake-Gleichung (German)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Astrobiology", path = "wiki/astrobiology", description = "The mainstream research program within which the corpus engages the equation." },
+    { title = "Ufology", path = "wiki/ufology", description = "The contact-evidence domain the corpus reads as already resolving the equation's Fermi question." },
+    { title = "Elohim Home Planet", path = "wiki/elohim-home-planet", description = "The specific documented civilization the corpus treats as the equation's answered case." },
+    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "The framework reading of galactic-civilization dynamics the equation abstractly counts." },
+    { title = "Sendy's Conditions of Coherence", path = "wiki/sendys-conditions-of-coherence", description = "The single-data-point constraint on the equation's biological and civilizational parameters." },
+    { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The broader frame in which the corpus positions the contact-already-established claim." },
+]
 
 [extra.infobox]
 type = "Probabilistic formulation expressing the number of detectable communicative extraterrestrial civilizations in the Milky Way galaxy as the product of seven contributing factors"

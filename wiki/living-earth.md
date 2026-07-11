@@ -12,6 +12,14 @@ entry_type = "concept"
 claim_type = "framework"
 alternative_names = ["the Earth-as-organism framework", "the planetary-organism claim", "the cosmic-biology framework", "the universal-aliveness principle", "Living Cosmos", "the biological correlate of Infinity"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Infinity", path = "wiki/infinity", description = "The foundational cosmological precondition on which the Living Earth claim rests." },
+    { title = "Fractal Cosmology", path = "wiki/fractal-cosmology", description = "The spatial self-similarity within which each scale hosts living beings." },
+    { title = "Mass Effect", path = "wiki/mass-effect", description = "The time-scaling that explains why Earth's aliveness is imperceptible to humans." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The nested lineage of living beings across scales that Living Earth instantiates." },
+    { title = "Four Levels", path = "wiki/four-levels", description = "The scale-hierarchy of organization the universal-aliveness principle spans." },
+    { title = "Raëlian Symbol of Infinity", path = "wiki/raelian-symbol-of-infinity", description = "The emblem encoding the infinitely-large and infinitely-small aliveness principle." },
+]
 
 [extra.infobox]
 type = "Foundational cosmological framework; biological correlate of the broader Infinity-Fractal-Mass-Effect cluster"

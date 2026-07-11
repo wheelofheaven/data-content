@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Mass Effect", "the Law of Masstime", "the law of subjective time", "the time-mass relationship", "the scale-time correspondence"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Infinity", path = "wiki/infinity", description = "The foundational framework of which the Mass Effect is the temporal-scaling dimension." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The civilizational-succession framework the source passage connects the law to." },
+    { title = "Yahweh", path = "wiki/yahweh", description = "The Elohim figure whose 1975 source-material statement establishes the law." },
+    { title = "Elohim", path = "wiki/elohim", description = "The creator civilization whose delivered passage warrants the framework." },
+    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "The civilizational dynamic playing out across the scale-time hierarchy the law describes." },
+    { title = "The Alliance", path = "wiki/the-alliance", description = "The cosmic collaboration operating across the infinite scale hierarchy the law spans." }
+]
 
 [extra.infobox]
 type = "Hypothetical physical-cosmological law; framework concept articulating the relationship between mass-or-scale and the experience of time"

@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Infinite", "the infinite cosmos", "infinite-cosmological framework", "the broader infinite framework", "cosmic infinity"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Fractal Cosmology", path = "wiki/fractal-cosmology", description = "The spatial dimension operating within the Infinity framework." },
+    { title = "Mass Effect", path = "wiki/mass-effect", description = "The temporal-scaling dimension operating within the Infinity framework." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The causal-cosmic-civilizational dimension operating within the Infinity framework." },
+    { title = "Four Levels", path = "wiki/four-levels", description = "The ethical-practical correlate the infinite cosmos entails." },
+    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "The civilizational dynamic the infinite-hierarchy premise frames." },
+    { title = "Elohim", path = "wiki/elohim", description = "The creator civilization whose Yahweh-delivered passages supply the framework's source warrant." }
+]
 
 [extra.infobox]
 type = "Foundational cosmological framework; concept articulating the infinite extent of the cosmos along spatial, temporal, and hierarchical dimensions"

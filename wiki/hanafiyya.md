@@ -12,6 +12,14 @@ entry_type = "concept"
 claim_type = "inferred"
 timeline = ["pisces"]
 alternative_names = ["ٱلْحَنِيفِيَّة (al-Ḥanīfiyyah)", "حَنِيف (ḥanīf, sing.)", "حُنَفَاء (ḥunafāʾ, plural)", "millat Ibrāhīm ('the religion of Abraham')", "dīn Ibrāhīm", "the primordial monotheism", "the religion of the upright"]
+see_also = [
+    { title = "Abraham", path = "wiki/abraham", description = "The founding figure whose lost original religion the Hanafiyya claims to restore." },
+    { title = "Muhammad", path = "wiki/muhammad", description = "Presented by the Quran as returning to the millat Ibrāhīm the Hanafiyya names." },
+    { title = "Petra", path = "wiki/petra", description = "Gibson's proposed original locus of the movement that first called itself Hanafiyya." },
+    { title = "Nabataeans", path = "wiki/nabataeans", description = "The Aramaic-Christian milieu implicated in the term's transmission through the ḥanpā cognate." },
+    { title = "Elohim", path = "wiki/elohim", description = "The creators whose Abrahamic recovery program the corpus reads the Hanafiyya as continuing." },
+    { title = "List of prophets and religions", path = "wiki/list-of-prophets-and-religions", description = "Where the Hanafiyya sits among the alliance-cultivated traditions across the ages." },
+]
 
 [extra.infobox]
 type = "Quranic and early-Islamic term for the primordial monotheism of Abraham; proposed original self-name of early Islam"

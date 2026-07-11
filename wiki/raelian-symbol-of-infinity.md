@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Symbol of Infinity", "the Raëlian emblem", "the Raëlian movement symbol", "the Elohim emblem"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "Infinity", path = "wiki/infinity", description = "The broader framework the emblem distills into a single iconographic form." },
+    { title = "Fractal Cosmology", path = "wiki/fractal-cosmology", description = "The as-above-so-below spatial dimension the Star of David component encodes." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The nested-scales structure the symbol's spatial dimension represents visually." },
+    { title = "Mass Effect", path = "wiki/mass-effect", description = "One of the frameworks the emblem condenses into apprehensible visual form." },
+    { title = "Raëlism", path = "wiki/raelism", description = "The movement whose principal identifier the emblem is, delivered by Yahweh in 1973." },
+    { title = "Embassy", path = "wiki/embassy", description = "The Israeli negotiations that prompted the 1990 swastika-to-spiral modification." },
+]
 
 [extra.infobox]
 type = "Iconographic emblem; principal symbol of the Raëlian movement and the broader Wheel of Heaven framework"

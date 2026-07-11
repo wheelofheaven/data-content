@@ -12,6 +12,14 @@ entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
 alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "Moses the Lawgiver", "Mosheh Rabbenu (\"Moses our Teacher\")"]
+see_also = [
+    { title = "Yahweh", path = "wiki/yahweh", description = "The Elohim president behind the burning bush and Sinai contact events." },
+    { title = "Council of the Eternals", path = "wiki/council-of-the-eternals", description = "The body at which Moses is reported present alongside the other prior prophets." },
+    { title = "Muhammad", path = "wiki/muhammad", description = "A later prophet in the same alliance-messenger lineage as Moses." },
+    { title = "Jesus", path = "wiki/jesus", description = "A subsequent covenant-mediator continuing the recovery Moses advances." },
+    { title = "Elijah", path = "wiki/elijah", description = "A later Hebrew prophet in the same operational-contact tradition on the mountain." },
+    { title = "List of prophets and religions", path = "wiki/list-of-prophets-and-religions", description = "The wider messenger sequence in which the corpus situates Moses." },
+]
 
 [[extra.references]]
 id = "exodus"

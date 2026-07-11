@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Saṃsāra (Sanskrit संसार, Pali saṃsāra)", "the Wheel of Life (Bhavacakra)", "the cycle of birth, death, and rebirth", "the cycle of reincarnation", "cyclic existence", "the cycle (Vorilhon source designation)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Swastika", path = "wiki/swastika", description = "The cycle-symbol the corpus reads as preserving the saṃsāra pattern." },
+    { title = "Golden Age", path = "wiki/golden-age", description = "The corpus rereading of Buddhist awakening as escape from the civilizational cycle." },
+    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "The cosmic-level selection that sorts species escaping versus falling back into the cycle." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "The Aquarian-age threshold at which humanity faces the cycle-escape choice." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The nested creation lineage within which the civilizational cycle recurs." },
+    { title = "Four Levels", path = "wiki/four-levels", description = "The scale hierarchy across which the cyclical pattern is read to operate." },
+]
 
 [extra.infobox]
 type = "Cosmological-cyclical concept; the substantive cyclical pattern of civilizational rise-and-fall the corpus reads as underlying cosmic-civilizational reality preserved in Indian-religions saṃsāra-cycle traditions"

@@ -12,6 +12,14 @@ category = "Ufology"
 entry_type = "concept"
 alternative_names = ["government UAP cover-up", "UFO cover-up", "UAP disclosure", "military cover-up of exobiology (earlier designation)", "UAP secrecy", "extraterrestrial contact cover-up"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "Embassy", path = "wiki/embassy", description = "The Vorilhon-source resolution to the disclosure question through diplomatic recognition." },
+    { title = "Ufology", path = "wiki/ufology", description = "The broader field of which the cover-up question is one contested component." },
+    { title = "Astrobiology", path = "wiki/astrobiology", description = "The scientific field engaging the extraterrestrial-life question the cover-up allegedly conceals." },
+    { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The corpus frame reading UAP contact as continuous with historical Elohim presence." },
+    { title = "New Jerusalem", path = "wiki/new-jerusalem", description = "The Embassy-as-Third-Temple that recognized contact would require to be built." },
+    { title = "Drake Equation", path = "wiki/drake-equation", description = "The formal statement of the extraterrestrial-contact probability the disclosure debate presupposes." },
+]
 
 [extra.infobox]
 type = "Substantive question of governmental concealment of UAP investigation and alleged contact, with substantial 2017-2024 disclosure transformation; methodologically complex subject matter operating across multiple evidential categories"

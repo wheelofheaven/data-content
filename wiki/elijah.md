@@ -12,6 +12,13 @@ entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
 alternative_names = ["Eliyyahu", "Eliyahu", "Elias", "Ilyas", "Elijah the Tishbite", "Elijah the Messenger"]
+see_also = [
+    { title = "Moses", path = "wiki/moses", description = "The earlier Horeb theophany figure whose contact precedent the Elijah narrative deliberately echoes." },
+    { title = "Ezekiel", path = "wiki/ezekiel", description = "Whose merkavah vision is the only Hebrew Bible aerial-craft account more explicit than Elijah's chariot." },
+    { title = "List of close encounters", path = "wiki/list-of-close-encounters", description = "Catalogues the chariot-of-fire ascension under Abduction of Elijah, c. 850 BCE." },
+    { title = "Yahweh", path = "wiki/yahweh", description = "The Elohim president whose name Elijah's theophoric name confesses against the Baal cult." },
+    { title = "Elohim", path = "wiki/elohim", description = "The civilization whose operational contact the framework reads behind Elijah's chariot and theophany episodes." },
+]
 
 [extra.infobox]
 type = "Hebrew prophet"

@@ -13,6 +13,13 @@ entry_type = "civilization"
 
 alternative_names = ["the Grand Council of the Eternals", "the Council", "the Council of Eternals", "the Divine Council", "the Divine Assembly", "the Heavenly Court", "the Assembly of the Elohim"]
 timeline = ["pre-creation", "capricorn", "sagittarius", "scorpio", "libra", "virgo", "leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
+see_also = [
+    { title = "Yahweh", path = "wiki/yahweh", description = "The Council's president across the roughly 25,000-year Earth project." },
+    { title = "The Alliance", path = "wiki/the-alliance", description = "The wider cross-civilizational body within which the Council sits." },
+    { title = "Lucifer", path = "wiki/lucifer", description = "The full-disclosure faction whose Earth exile the Council adjudicated." },
+    { title = "Antediluvian", path = "wiki/antediluvian", description = "The pre-Flood advancement crisis the Council resolved with the reset." },
+    { title = "Eden", path = "wiki/eden", description = "The disclosure crisis whose political settlement the Council decided." },
+]
 
 [[extra.references]]
 id = "extraterrestrials-took-me-to-their-planet"

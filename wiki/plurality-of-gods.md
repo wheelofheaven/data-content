@@ -11,6 +11,13 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["plurality of the gods", "plurality of the Elohim", "the multiple-creators reading", "biblical polytheism", "Hebrew Bible plurality content", "the divine council reading", "the Elohim plural reading"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Elohim", path = "wiki/elohim", description = "The plural Hebrew noun at the heart of the plurality reading." },
+    { title = "Yahweh", path = "wiki/yahweh", description = "One specific Eloha, distinguished from the Elohim collective the plural names." },
+    { title = "Council of the Eternals", path = "wiki/council-of-the-eternals", description = "The governing body that gives the biblical plural a political referent." },
+    { title = "Watchers", path = "wiki/watchers", description = "A second biblical plural-of-beings the reading draws on." },
+    { title = "Satan", path = "wiki/satan", description = "A Council figure read politically rather than as metaphysical evil." },
+]
 
 [extra.infobox]
 type = "Foundational interpretive concept; the principal corpus position on the substantial multiple-divine-beings content of the Hebrew Bible and the broader cross-cultural religious-mythological traditions"

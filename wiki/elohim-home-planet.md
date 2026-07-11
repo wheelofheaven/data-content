@@ -17,6 +17,14 @@ entry_type = "place"
 claim_type = "framework"
 alternative_names = ["Elohim Home Planet", "the home planet", "the planet of the Elohim", "the planet of the creators", "the planet of the Eternals (per single-planet reading)", "the other world", "the Mormon Kolob (per Tvedtnes hypothesis)"]
 timeline = ["age-of-capricorn", "age-of-aquarius"]
+see_also = [
+    { title = "Council of the Eternals", path = "wiki/council-of-the-eternals", description = "The governing body seated on the home planet in the source description." },
+    { title = "Yahweh", path = "wiki/yahweh", description = "President of the Eternals and first immortal of the home world." },
+    { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The broader framework in which an extrasolar creator homeworld is situated." },
+    { title = "Kabbalah", path = "wiki/kabbalah", description = "The tradition from which the parasang distance-measurements of the home world derive." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The nested creator-created lineage in which the home planet is one link." },
+    { title = "Forerunners", path = "wiki/forerunners", description = "The prior civilization that seeded the Elohim line preceding the home world." },
+]
 
 [extra.infobox]
 type = "Extrasolar planet; political-civilizational center of the Elohim alliance that conducted the genetic-engineering project producing terrestrial life"

@@ -12,6 +12,14 @@ category = "Ufology"
 entry_type = "concept"
 alternative_names = ["ufology", "UAP studies (contemporary policy designation)", "flying saucer studies (historical designation)", "anomalistics (broader related field)", "exopolitics (specific subdiscipline)", "OVNIs (French; Objet volant non identifié)", "UFO research"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The historical-contact tradition ufology is distinguished from but sits substantively adjacent to." },
+    { title = "Ezekiel", path = "wiki/ezekiel", description = "The chariot vision the corpus reads as a pre-modern alliance-craft encounter within ufology's record." },
+    { title = "Astrobiology", path = "wiki/astrobiology", description = "The broader scientific field engaging extraterrestrial life, of which ufology is one component." },
+    { title = "Elohim Home Planet", path = "wiki/elohim-home-planet", description = "The world of Vorilhon's 1975 transport, the principal contactee case within ufology." },
+    { title = "Comparative Mythology", path = "wiki/comparative-mythology", description = "The cross-cultural folklore continuity Vallée and Hynek traced through the phenomenon." },
+    { title = "Plurality of Gods", path = "wiki/plurality-of-gods", description = "The reading of ancient sky-visitors that the pre-modern UFO record intersects." }
+]
 
 [extra.infobox]
 type = "Interdisciplinary field studying reports of unidentified flying objects (UFOs) / Unidentified Aerial Phenomena (UAP) and the broader question of non-human technological presence; substantive engagement community within which corpus framework operates"

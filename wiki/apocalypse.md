@@ -12,6 +12,13 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Revelation", "ἀποκάλυψις", "Age of Apocalypse", "Age of Revelation"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "Golden Age", path = "wiki/golden-age", description = "The civilizational outcome the Apocalypse opens toward once the transition is navigated." },
+    { title = "Prophet", path = "wiki/prophet", description = "The tradition whose cumulative work the Apocalypse brings to culmination." },
+    { title = "Embassy", path = "wiki/embassy", description = "The planned open return made operationally possible during this period." },
+    { title = "Elohim", path = "wiki/elohim", description = "The alliance whose content becomes available for direct evaluation in the Apocalypse." },
+    { title = "Raël", path = "wiki/rael", description = "The prophet through whom the framework content of the Apocalypse was delivered." },
+]
 +++
 
 **Apocalypse** (Greek: *ἀποκάλυψις*, *apokalypsis*) is, in its plain Greek meaning, an *uncovering* or *unveiling* — the disclosure of what was previously concealed. The English word entered medieval and early-modern usage through the Latin *apocalypsis* and the Vulgate's title for the New Testament's Book of Revelation (*Apocalypsis Iohannis*, "the Unveiling of John"). Across the medieval and early-modern centuries, the term acquired a secondary set of connotations — catastrophic destruction, end-of-the-world judgment, eschatological cataclysm — that the original Greek does not carry and that have come to dominate popular English usage. The two senses are now substantially distinct in contemporary English: the popular *apocalypse* names a destructive end; the technical *apocalypse* names a revelation of hidden truth.

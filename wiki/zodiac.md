@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the zodiac belt", "the zodiacal circle", "*zōidiakos kyklos* (Greek: ζῳδιακὸς κύκλος, 'circle of small figures')", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "the celestial circle", "the wheel of heaven (in older usage)", "the twelve houses (in astrological usage)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "World Age", path = "wiki/world-age", description = "The precessional age each zodiacal segment marks in the framework's calendar." },
+    { title = "Doubled Signature", path = "wiki/doubled-signature", description = "The principle produced by the zodiac's six paired-opposition axes." },
+    { title = "Hamlet's Mill", path = "wiki/hamlets-mill", description = "The scholarly anchor for reading zodiacal-precessional encoding cross-culturally." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The broader chronological framework the zodiacal calendar structures." },
+    { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "A tradition whose Mazzaroth content the corpus reads through the zodiacal framework." },
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "The author whose religion zodiacale reading precedes the corpus precessional treatment." },
+]
 
 [[extra.references]]
 id = "hamlets-mill"

@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the New Commandments (proper-noun framework concept)", "the Aquarian-age program", "the seven commandments", "the Raëlian socio-political-religious doctrine"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Moses", path = "wiki/moses", description = "Mediator of the paired Aries-age Decalogue these commandments succeed for the Aquarian age." },
+    { title = "Geniocracy", path = "wiki/geniocracy", description = "The first commandment — the governance dimension of the seven-part program." },
+    { title = "Humanitarianism", path = "wiki/humanitarianism", description = "The second commandment — the property-and-inheritance dimension of the program." },
+    { title = "Golden Age", path = "wiki/golden-age", description = "The form of life that full implementation of the program is meant to produce." },
+    { title = "Embassy", path = "wiki/embassy", description = "The specific operational requirement set apart in the original Your Mission section." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "The threshold-revelation moment opening the age these directives orient toward." },
+]
 
 [extra.infobox]
 type = "Raëlian umbrella concept; the seven principal political-religious-cultural directives delivered by Yahweh to Vorilhon during the December 1973 contact"

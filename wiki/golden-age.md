@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the awaited Golden Age", "the Golden Age of civilization", "the earthly paradise", "the Golden Age of interplanetary civilization", "the operational Golden Age"]
 timeline = ["age-of-aquarius", "post-aquarius"]
+see_also = [
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "The threshold-revelation moment that may inaugurate the Golden Age or its catastrophic alternative." },
+    { title = "Eden", path = "wiki/eden", description = "The originary lab read as the historical Golden Age the future realization recovers." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The succession framework within which Golden Age maturation operates as one stage." },
+    { title = "Paradism", path = "wiki/paradism", description = "The post-scarcity social program whose implementation characterizes the Golden Age." },
+    { title = "Geniocracy", path = "wiki/geniocracy", description = "The governance model articulated alongside the Golden Age in the source material." },
+    { title = "Embassy", path = "wiki/embassy", description = "The project whose completion conditions humanity's successful Aquarian-age navigation." }
+]
 
 [[extra.references]]
 id = "extraterrestrials-took-me-to-their-planet"

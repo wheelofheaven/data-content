@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "direct"
 alternative_names = ["Catalogue of etymological readings", "Framework philology index", "Glossary of source-language readings"]
+see_also = [
+    { title = "List of exegetic readings", path = "wiki/list-of-exegetic-readings", description = "The companion catalogue addressing what terms refer to, complementing this philological level." },
+    { title = "List of mythemes and mythological motifs", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "The third companion catalogue addressing recurring cross-cultural narrative patterns." },
+    { title = "Biglino Method", path = "wiki/biglino-method", description = "The strict-philology procedure the catalogue's Sendy-Biglino method draws on." },
+    { title = "Hebrew", path = "wiki/hebrew", description = "The largest source-language category in the catalogue." },
+    { title = "Bible", path = "wiki/bible", description = "The principal textual corpus whose terms the catalogue recovers etymologically." },
+    { title = "Neo-Euhemerism", path = "wiki/neo-euhemerism", description = "The interpretive tradition supplying the operational lens the readings apply." }
+]
 
 [extra.infobox]
 type = "Reference catalogue of framework etymological readings of religious and mythological terms"

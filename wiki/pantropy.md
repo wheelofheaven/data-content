@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
 alternative_names = ["Human adaptation", "Biological space adaptation", "Human pantropic engineering", "Adapted Men (Blish's term)", "Volitional evolution (NASA-affiliated literature)"]
+see_also = [
+    { title = "Terraforming", path = "wiki/terraforming", description = "The complementary approach modifying environments rather than organisms." },
+    { title = "Synthetic biology", path = "wiki/synthetic-biology", description = "The engineering discipline giving pantropy its contemporary technical plausibility." },
+    { title = "Synthetic genomics", path = "wiki/synthetic-genomics", description = "The genome-construction toolkit underlying human pantropic modification." },
+    { title = "Genesis", path = "wiki/genesis", description = "The creation account read as preserving humanity's pantropic origin in the Elohim image." },
+    { title = "Eden", path = "wiki/eden", description = "The laboratory setting of the Elohim pantropic operation on humans." },
+    { title = "Life engineering", path = "wiki/life-engineering", description = "The broader design-of-life program the framework reads the human synthesis within." },
+]
 
 [extra.infobox]
 type = "Speculative-then-engineering practice of modifying organisms (particularly humans) to survive in otherwise inhospitable environments"

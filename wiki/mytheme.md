@@ -11,6 +11,14 @@ category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["mytheme", "mythological motif (broader usage)", "narrative element (broader usage)", "mythème (French original)", "Mythem (German)", "mitema (Italian, Spanish)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Comparative Mythology", path = "wiki/comparative-mythology", description = "The broader disciplinary engagement within which the mytheme is one analytical tool." },
+    { title = "Theomachy", path = "wiki/theomachy", description = "One of the recurring cross-cultural motif clusters the corpus analyses as a mytheme." },
+    { title = "Noah's Ark", path = "wiki/noahs-ark", description = "An instance of the flood mytheme, one of the corpus's principal motif clusters." },
+    { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The corpus's preferred historical explanation for the recurring cross-cultural motifs." },
+    { title = "Tree of the Knowledge of Good and Evil", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "A Genesis motif read as compressed history within the mytheme engagement." },
+    { title = "Ancient Builders", path = "wiki/ancient-builders", description = "The subjects of the megalith-and-construction motifs the corpus reads across traditions." },
+]
 
 [extra.infobox]
 type = "Technical analytical unit in Claude Lévi-Strauss's structural-anthropological method for the study of myth; also broader popular term for recurring cross-cultural mythological motifs"

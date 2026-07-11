@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["hexagram", "Magen David (מָגֵן דָּוִד, 'Shield of David')", "Solomon's Seal (Seal of Solomon)", "Hindu Shatkona (षट्कोण, 'six-cornered')", "Star of Goliath (older Karaite designation)", "Creator's Star", "Hex Star"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Raëlian Symbol of Infinity", path = "wiki/raelian-symbol-of-infinity", description = "The composite emblem in which the Star of David is the outer component." },
+    { title = "Swastika", path = "wiki/swastika", description = "The other component of that emblem, encoding infinity's temporal dimension." },
+    { title = "Infinity", path = "wiki/infinity", description = "The spatial dimension the intertwined triangles represent for the framework." },
+    { title = "The Alliance", path = "wiki/the-alliance", description = "The creator-creation covenant Sendy reads the intertwined triangles as encoding." },
+    { title = "Fractal Cosmology", path = "wiki/fractal-cosmology", description = "The scale-crossing as-above-so-below structure the hexagram figures." },
+    { title = "Doubled Signature", path = "wiki/doubled-signature", description = "The corpus principle of paired iconographic encoding this symbol exemplifies." },
+]
 
 [extra.infobox]
 type = "Religious-iconographic symbol; hexagram comprising two intertwined equilateral triangles forming a six-pointed star; substantial cross-cultural distribution across multiple religious-traditional contexts"

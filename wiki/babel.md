@@ -12,6 +12,13 @@ entry_type = "event/period"
 claim_type = "framework"
 alternative_names = ["the Tower of Babel", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (Akkadian: 'gate of the god')", "the Babel project", "the Babel event", "the Tower-of-Babel intervention", "the Confounding of Tongues", "the Confusion of Languages"]
 timeline = ["gemini"]
+see_also = [
+    { title = "Great Flood", path = "wiki/great-flood", description = "The prior Council reset; Babel is the next intervention against renewed human advancement." },
+    { title = "Sodom and Gomorrah", path = "wiki/sodom-and-gomorrah", description = "The later preventive strike, distinguished from Babel as vengeance-suppression rather than reconciliation." },
+    { title = "Theomachy", path = "wiki/theomachy", description = "The wider Elohim political conflict the Babel intervention belongs to." },
+    { title = "Yahweh", path = "wiki/yahweh", description = "Speaks the plural 'let us go down' that triggers the Babel dispersal." },
+    { title = "The Alliance", path = "wiki/the-alliance", description = "The cross-civilizational body whose peace-offering the Babel tower was." },
+]
 
 [extra.infobox]
 type = "Multi-component narrative event; the post-flood collaborative space-program reconciliation attempt and the Council intervention that ended it"

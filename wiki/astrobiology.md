@@ -11,6 +11,14 @@ category = "Science & Technology"
 entry_type = "concept"
 alternative_names = ["astrobiology", "exobiology (earlier synonymous term)", "bioastronomy", "xenobiology (related but distinct)", "astrobiologie (French)", "Astrobiologie (German)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Elohim Home Planet", path = "wiki/elohim-home-planet", description = "The specific extraterrestrial world whose existence the corpus offers as astrobiology's second data point." },
+    { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The adjacent discipline engaging historical rather than contemporary evidence for extraterrestrial contact." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The corpus account of civilizations seeding life, framing the origin-of-life question astrobiology studies." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The broader framework positioning the alliance-contact narrative alongside mainstream astrobiological research." },
+    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "The corpus premise of multiple engineered humanities bearing on the distribution-of-life question." },
+    { title = "Mass Effect", path = "wiki/mass-effect", description = "The corpus reading of civilizational-scale intervention shaping where and how life develops." },
+]
 
 [extra.infobox]
 type = "Multidisciplinary scientific field studying the origin, evolution, distribution, and future of life in the universe; subject of substantive corpus engagement at the intersection of mainstream science and the alliance-contact framework"

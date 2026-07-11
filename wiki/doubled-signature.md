@@ -12,6 +12,14 @@ entry_type = "concept"
 claim_type = "speculative"
 alternative_names = ["the doubled signature", "the doubled-signature principle", "the Hamlet's Mill principle", "the doubled astronomical signature", "doubled invocation across the zodiacal axis"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Jesus", path = "wiki/jesus", description = "The fish-and-virgin figure carrying the Pisces-Virgo signature of the Christian era." },
+    { title = "Moses", path = "wiki/moses", description = "The horned ram-age inaugurator whose tradition encodes the Aries-Libra signature." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "The present age whose Aquarius-Leo water-and-lion signature is being laid down now." },
+    { title = "Genesis", path = "wiki/genesis", description = "A principal text the principle reads as preserving encoded precessional-astronomical content." },
+    { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "The corpus of religious symbolism the doubled invocation reads for its astronomical signatures." },
+    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "A distinct corpus framework the entry marks off from the doubled-signature principle." },
+]
 
 [extra.infobox]
 type = "Hermeneutic-interpretive principle for reading precessional-age symbolism"

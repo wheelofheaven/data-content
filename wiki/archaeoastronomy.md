@@ -11,6 +11,14 @@ category = "Methodology"
 entry_type = "concept"
 alternative_names = ["archaeoastronomy", "astroarchaeology (earlier term)", "cultural astronomy (broader contemporary term)", "ethnoastronomy (related discipline)", "astronomy in culture (alternative designation)", "arch\u00e9oastronomie (French)", "Arch\u00e4oastronomie (German)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus", "age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "Hamlet's Mill", path = "wiki/hamlets-mill", description = "The precessional-encoding hypothesis whose ancient astronomical claims archaeoastronomy is equipped to test." },
+    { title = "World Age", path = "wiki/world-age", description = "The precessional-age structure that depends on ancient cultures possessing precessional knowledge." },
+    { title = "Zodiac", path = "wiki/zodiac", description = "The constellational framework whose ancient reckoning archaeoastronomy documents through site alignments." },
+    { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The interpretive tradition the corpus threads against mainstream archaeoastronomy on pre-Hipparchean awareness." },
+    { title = "Ancient Builders", path = "wiki/ancient-builders", description = "The megalithic and temple constructors whose astronomical alignments the discipline field-surveys." },
+    { title = "Sacred Geometry", path = "wiki/sacred-geometry", description = "The architectural-mathematical encoding of celestial knowledge the discipline reads at aligned sites." }
+]
 
 [extra.infobox]
 type = "Interdisciplinary scientific field studying astronomical knowledge, practices, and beliefs of ancient and pre-modern cultures; principal empirical discipline relevant to corpus chronological framework"

@@ -12,6 +12,14 @@ entry_type = "figure"
 claim_type = "framework"
 alternative_names = ["Claude Vorilhon", "Rael", "Raël Maitreya", "the Maitreya from the West", "Guide of Guides", "the last of the prophets"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "Raëlism", path = "wiki/raelism", description = "The movement Vorilhon founded in 1976 as the vehicle for the embassy project." },
+    { title = "Prophet", path = "wiki/prophet", description = "The category in which the corpus places him as the last of roughly forty." },
+    { title = "Elohim", path = "wiki/elohim", description = "The civilization whose officer he reported meeting on December 13, 1973." },
+    { title = "Yahweh", path = "wiki/yahweh", description = "The Elohim president who delivered the teaching across the six-day contact." },
+    { title = "Embassy", path = "wiki/embassy", description = "The installation project his mission and movement are directed toward building." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "The Aquarian revelation age his contact is held to inaugurate." },
+]
 portrait_id = "rael"
 image = "https://assets.wheelofheaven.world/images/wiki/rael-claude-vorilhon-v3.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/rael-claude-vorilhon-v3.avif"

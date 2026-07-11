@@ -12,6 +12,13 @@ entry_type = "concept"
 claim_type = "framework"
 alternative_names = ["the cosmic competition", "the cosmic competition framework", "the inheritance evaluation", "the parallel-humanities framework", "the multiple-worlds creation framework"]
 timeline = ["aries", "pisces", "aquarius"]
+see_also = [
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The broader recurring creation pattern of which this competition is one iteration." },
+    { title = "Jesus", path = "wiki/jesus", description = "Whose parable of the sower the corpus reads as the explicit articulation of the parallel-humanities framework." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "The broader unveiling event distinguished from the inheritance-evaluation this framework describes." },
+    { title = "Great Flood", path = "wiki/great-flood", description = "A prior threshold-failure moment in the alliance's evaluation of Earth's humanity." },
+    { title = "Embassy", path = "wiki/embassy", description = "The reception site whose construction marks Earth qualifying for the inheritance." },
+]
 
 [extra.infobox]
 type = "Framework concept; corpus-internal interpretive construction integrating multiple Raëlian source-material gestures into a systematic account of the cosmic-political situation"

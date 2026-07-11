@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["svastika", "sauvastika", "manji (卍)", "Hakenkreuz (Nazi-specific tilted form)", "fylfot", "gammadion", "sun cross", "tetraskelion", "whirling logs (Navajo)"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Raëlian Symbol of Infinity", path = "wiki/raelian-symbol-of-infinity", description = "The composite emblem in which the swastika is the central element." },
+    { title = "Star of David", path = "wiki/star-of-david", description = "The other principal component of the same composite emblem." },
+    { title = "Infinity", path = "wiki/infinity", description = "The broader concept the swastika encodes in its temporal, cyclic-eternal dimension." },
+    { title = "Mass Effect", path = "wiki/mass-effect", description = "The temporal-cyclic framework the swastika's everything-is-cyclic meaning aligns with." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The nested-cycle cosmology the top-becomes-bottom reading participates in." },
+    { title = "Raëlism", path = "wiki/raelism", description = "The movement whose Asian branches retain the original swastika-centered emblem." },
+]
 
 [extra.infobox]
 type = "Religious-iconographic symbol; one of the oldest known symbols globally with cross-cultural distribution across virtually all major cultural-religious traditions"

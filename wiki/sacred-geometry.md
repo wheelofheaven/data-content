@@ -11,6 +11,13 @@ category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["Sacred Geometry", "geometric symbolism", "sacred mathematics", "sacred proportion", "divine geometry", "Heilige Geometrie (German)", "géométrie sacrée (French)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus", "age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "Raëlian Symbol of Infinity", path = "wiki/raelian-symbol-of-infinity", description = "The corpus's principal geometric-symbolic engagement, combining the Star of David and the swastika." },
+    { title = "Kabbalah", path = "wiki/kabbalah", description = "Source of the Tree of Life and Sephirot diagram, a principal sacred-geometric form." },
+    { title = "Third Temple", path = "wiki/third-temple", description = "Whose precise-proportional specifications the corpus reads as alliance-transmitted sacred geometry." },
+    { title = "Embassy", path = "wiki/embassy", description = "The reception residence whose architectural specifications carry the corpus's sacred-proportional content." },
+    { title = "Zodiac", path = "wiki/zodiac", description = "The precessional-geometric framework the corpus reads alongside cross-cultural sacred proportion." },
+]
 
 [extra.infobox]
 type = "Body of geometric forms, ratios, and proportions to which religious, cosmological, or metaphysical significance has been attributed across cultures and traditions; designates both documented cross-cultural use of geometric ratios in sacred architecture and interpretive tradition treating geometric forms as carrying inherent metaphysical meaning"

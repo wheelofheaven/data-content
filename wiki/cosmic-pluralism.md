@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
 alternative_names = ["Plurality of worlds", "Plurality of inhabited worlds", "Many-worlds cosmology (in the classical sense, distinct from the Everett quantum interpretation)", "Pluralität der Welten", "Pluralité des mondes"]
+see_also = [
+    { title = "Drake Equation", path = "wiki/drake-equation", description = "The 20th-century attempt to estimate how many of the plural worlds are inhabited." },
+    { title = "Elohim", path = "wiki/elohim", description = "The extraterrestrial civilization whose existence the corpus reads cosmic pluralism as requiring." },
+    { title = "Infinity", path = "wiki/infinity", description = "The infinite-scale premise that grounds the combinatorial argument for many worlds." },
+    { title = "Life engineering", path = "wiki/life-engineering", description = "The mechanism by which life propagates across the plural worlds in the corpus reading." },
+    { title = "List of close encounters", path = "wiki/list-of-close-encounters", description = "The record the corpus reads as contact already established between inhabited worlds." },
+    { title = "Synthetic genomics", path = "wiki/synthetic-genomics", description = "The terrestrial capability approaching the world-seeding scale cosmic pluralism describes." },
+]
 
 [extra.infobox]
 type = "Philosophical and scientific doctrine that the universe contains many worlds (or many *inhabited* worlds) beyond Earth"

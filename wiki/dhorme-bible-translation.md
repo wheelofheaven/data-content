@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "biographical and methodological"
 claim_type = "direct"
 alternative_names = ["Bible de la Pléiade (Dhorme)", "La Bible: L'Ancien Testament (Dhorme)", "Dhorme Old Testament", "Bible Dhorme"]
+see_also = [
+    { title = "Elohim", path = "wiki/elohim", description = "The plural form Dhorme preserves as Élohim rather than translating it as Dieu." },
+    { title = "Yahweh", path = "wiki/yahweh", description = "The Tetragrammaton Dhorme renders phonologically as Iahvé rather than substituting a theological title." },
+    { title = "Genesis", path = "wiki/genesis", description = "The book whose opening verse exemplifies Dhorme's preserved-vocabulary method." },
+    { title = "List of etymological readings", path = "wiki/list-of-etymological-readings", description = "The framework's philological catalogue that draws on Dhorme's footnote apparatus." },
+    { title = "List of exegetic readings", path = "wiki/list-of-exegetic-readings", description = "The companion referential catalogue built on the same literal-vocabulary foundation." },
+    { title = "Hebrew", path = "wiki/hebrew", description = "The source language whose operational terms Dhorme's translation transmits intact." }
+]
 
 [extra.infobox]
 type = "French scholarly translation of the Hebrew Bible / Old Testament"

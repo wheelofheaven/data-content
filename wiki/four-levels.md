@@ -12,6 +12,14 @@ entry_type = "concept"
 claim_type = "framework"
 alternative_names = ["the Four Levels of Consideration", "the Four Levels of Estimation", "the four-level framework", "the four-perspective evaluation framework", "the cosmic-to-individual evaluation framework", "*les quatre plans* (French source-original)"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Infinity", path = "wiki/infinity", description = "The most-important first level, the cosmic reference point against which all things are judged." },
+    { title = "Elohim", path = "wiki/elohim", description = "The second level — the creator-relational accountability that prevents nihilism." },
+    { title = "Fractal Cosmology", path = "wiki/fractal-cosmology", description = "The cosmological structure grounding the Infinite level's scale-crossing perspective." },
+    { title = "Living Earth", path = "wiki/living-earth", description = "Part of the cosmological cluster this ethical framework serves as practical correlate." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The nested-scales cosmology that concretizes the cosmic-to-individual span of the four levels." },
+    { title = "Raëlism", path = "wiki/raelism", description = "The movement whose source material first articulates the four-level orientation." },
+]
 
 [extra.infobox]
 type = "Foundational ethical-practical framework; the ethical-practical correlate of the broader Infinity-Fractal-Cosmology-Mass-Effect-Living-Earth cosmological cluster"

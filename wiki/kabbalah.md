@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "text"
 alternative_names = ["Cabala (older European spelling)", "Qabalah (Hermetic / Western-esoteric spelling)", "Kabbala", "*Qabbalah* (Hebrew: קַבָּלָה)", "the Jewish mystical tradition", "*shalshelet ha-Kabbalah* ('chain of Tradition')", "*torat ha-sod* ('the secret teaching')", "*chokhmah penimit* ('inner wisdom')"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Plurality of Gods", path = "wiki/plurality-of-gods", description = "The structured-plurality reading the sephirot cosmology is said to preserve most directly." },
+    { title = "Tree of Life", path = "wiki/tree-of-life", description = "The Etz Chaim diagram that arranges the ten sephirot the tradition articulates." },
+    { title = "Elohim", path = "wiki/elohim", description = "The alliance structure the corpus maps the sephirot emanations onto." },
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "The author whose engagement with Safran's Cabale supplies the framework's Kabbalah reading." },
+    { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "The scriptural base the esoteric tradition reads for its plurality content." },
+    { title = "Star of David", path = "wiki/star-of-david", description = "A cognate Jewish-symbolic form within the tradition's esoteric vocabulary." },
+]
 
 [extra.infobox]
 type = "Major Jewish mystical-esoteric tradition; the principal living Western esoteric tradition with continuous textual-pedagogical transmission"

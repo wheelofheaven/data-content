@@ -11,6 +11,14 @@ category = "Ufology"
 entry_type = "concept"
 alternative_names = ["U.S. Space Force", "USSF", "Space Force", "United States Space Force"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Military cover-up of exobiology", path = "wiki/military-cover-up-of-exobiology", description = "The UAP cover-up-and-disclosure question the Space Force's founding sits temporally beside." },
+    { title = "Ufology", path = "wiki/ufology", description = "The field whose alternative engagement connects the branch to the broader UAP framework." },
+    { title = "Astrobiology", path = "wiki/astrobiology", description = "The science of extraterrestrial life the space-domain mission intersects contextually." },
+    { title = "Drake Equation", path = "wiki/drake-equation", description = "The estimation framework for the extraterrestrial civilizations the surrounding disclosure implicates." },
+    { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The past-contact position the corpus reads alongside the contemporary disclosure trajectory." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The framework positioning this mainstream military development in the Aquarian-age context." },
+]
 
 [extra.infobox]
 type = "Sixth and youngest branch of U.S. Armed Forces; established December 20, 2019; operates under Department of the Air Force; substantive mission focus on military operations in space domain"

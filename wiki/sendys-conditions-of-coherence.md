@@ -11,6 +11,14 @@ category = "Methodology"
 entry_type = "concept"
 alternative_names = ["Sendy's Conditions of Coherence", "Sendy's five conditions", "the conditions of coherence", "Les conditions de cohérence (French)", "the hologram conditions"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "The author who articulated the five conditions in L'Ère du Verseau (1970)." },
+    { title = "Biglino Method", path = "wiki/biglino-method", description = "The paired operative procedure specifying what the reader must do to Sendy's what-they-must-have." },
+    { title = "Mauro Biglino", path = "wiki/mauro-biglino", description = "The philologist whose three-step method the corpus pairs with these conditions." },
+    { title = "The Tradition", path = "wiki/the-tradition", description = "The transmitted knowledge Sendy's fourth condition reframes as physical galactic contact." },
+    { title = "Neo-Euhemerism", path = "wiki/neo-euhemerism", description = "The interpretive tradition the conditions equip a reader to enter." },
+    { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The broader interpretive tradition within which the conditions specify a reading method." }
+]
 
 [extra.infobox]
 type = "Methodological framework specifying preconditions for coherent literal reading of the Hebrew Bible within the ancient-astronaut interpretive tradition"

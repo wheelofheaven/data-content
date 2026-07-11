@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
 alternative_names = ["Planetary engineering", "Ecological engineering at planetary scale", "Earth-shaping", "Geoengineering of other worlds"]
+see_also = [
+    { title = "Genesis", path = "wiki/genesis", description = "The text whose first four ages the framework reads as the Elohim terraforming Earth." },
+    { title = "Elohim", path = "wiki/elohim", description = "The civilization read as having terraformed Earth before biological synthesis." },
+    { title = "Synthetic biology", path = "wiki/synthetic-biology", description = "The adjacent discipline of the biological-synthesis phase that followed the terraforming." },
+    { title = "Life engineering", path = "wiki/life-engineering", description = "The biological counterpart to planetary terraforming in the Earth project." },
+    { title = "Pantropy", path = "wiki/pantropy", description = "The inverse strategy of adapting organisms to worlds rather than worlds to organisms." },
+    { title = "Pangaea", path = "wiki/pangaea", description = "The continental configuration bearing on the framework's continental-engineering reading." }
+]
 
 [extra.infobox]
 type = "Planetary-engineering discipline aimed at making other worlds habitable for terrestrial life"

@@ -11,6 +11,13 @@ editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["Abraham (English)", "Abram (pre-renaming name)", "אַבְרָהָם (Hebrew Avraham)", "אַבְרָם (Hebrew Avram)", "إبراهيم (Arabic Ibrāhīm)", "Ἀβραάμ (Greek Abraám)", "the Patriarch", "Avraham Avinu (Jewish 'Abraham our father')", "Khalīl Allāh (Arabic 'Friend of God')"]
 timeline = ["age-of-taurus", "age-of-aries"]
+see_also = [
+    { title = "Noahic Covenant", path = "wiki/noahic-covenant", description = "The post-Flood covenant whose lineage the Abrahamic covenant continues." },
+    { title = "Sodom and Gomorrah", path = "wiki/sodom-and-gomorrah", description = "The Council preventive strike Abraham negotiates over in Genesis 18." },
+    { title = "Moses", path = "wiki/moses", description = "The later covenant-mediator in the same Eden-lineage recovery." },
+    { title = "Hanafiyya", path = "wiki/hanafiyya", description = "The primordial hanif monotheism the Islamic tradition traces back to Abraham." },
+    { title = "Petra", path = "wiki/petra", description = "The Nabataean sanctuary at the center of the Abrahamic-Hijaz question." },
+]
 
 [extra.infobox]
 type = "Biblical figure; Eden-lineage patriarch verified by post-Sodom Council loyalty test; founding patriarch for three Abrahamic religions plus Baha'i"

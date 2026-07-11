@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["666", "Six Hundred Sixty-Six", "the Number of the Beast", "the Number of Man (proper-noun framework concept)", "χξϛ (Greek isopsephic representation)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "The Revelation 13:18 setting and the 1945 nuclear threshold marking the 666th generation." },
+    { title = "Genesis", path = "wiki/genesis", description = "The Eden-laboratory creation event the generation-count dates to 11,375 BCE." },
+    { title = "World Age", path = "wiki/world-age", description = "The precessional ages across which the 13,320-year span runs to the Virgo-Leo boundary." },
+    { title = "Golden Age", path = "wiki/golden-age", description = "The Aquarian culmination the creation-to-Apocalypse trajectory arrives at after half the cycle." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The framework whose precessional chronology the 666 calculation helps anchor." },
+    { title = "Raël", path = "wiki/rael", description = "The source of the generation-count interpretation in Let Us Welcome the Extra-Terrestrials." },
+]
 
 [extra.infobox]
 type = "Number-symbolic concept; the Revelation 13:18 numerical specification interpreted as the number of human generations from creation to nuclear-acquisition threshold"

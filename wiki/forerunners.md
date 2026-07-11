@@ -11,6 +11,14 @@ category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["Forerunners", "Forerunner", "prodromos (Greek πρόδρομος, 'one who runs ahead')", "preparator", "way-preparer", "the messenger before"]
 timeline = ["age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "Raël", path = "wiki/rael", description = "The Aquarian-age inaugural figure whose reception the late-Piscean Forerunners prepared." },
+    { title = "Prophet", path = "wiki/prophet", description = "The broader category within which Forerunners function as the preparatory sub-class." },
+    { title = "Elijah", path = "wiki/elijah", description = "The Hebrew Bible Forerunner whose promised return was applied to John the Baptist." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The entry the pre-Elohim creator content was reassigned to, disentangled from Forerunners." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "The Aquarian-age revelation phase toward which the preparatory missions point." },
+    { title = "Embassy", path = "wiki/embassy", description = "The alliance-contact goal the Forerunners' cultural preparation ultimately serves." },
+]
 
 [extra.infobox]
 type = "Functional category within broader Prophet framework; figures whose missions prepare way for subsequent alliance-contact missions"

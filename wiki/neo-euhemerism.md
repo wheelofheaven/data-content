@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["neo-evhemerism (alternative French spelling)", "neo-Euhemerist interpretation", "the neo-euhemeristic reading", "extraterrestrial euhemerism (occasional descriptive term)", "the ancient astronaut hypothesis (overlapping but not identical)", "paleocontact hypothesis (overlapping but not identical)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Mauro Biglino", path = "wiki/mauro-biglino", description = "A principal contemporary articulator of the strict-translational neo-euhemeristic Hebrew reading." },
+    { title = "Elohim", path = "wiki/elohim", description = "The Genesis figures the method reads as historical extraterrestrial creators rather than divinity." },
+    { title = "The Tradition", path = "wiki/the-tradition", description = "Sendy's transmission framework built on the same neo-euhemeristic interpretive commitments." },
+    { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "The corpus whose theophanies the method reads as preserved alliance-contact memory." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The framework that operates neo-euhemeristically while extending it with precessional astronomy." },
+    { title = "Religion", path = "wiki/religion", description = "The mythological content the method treats as preserved memory of historical contact." },
+]
 
 [extra.infobox]
 type = "Foundational interpretive-methodological concept; the position that reads religious-mythological gods and divine beings as preserved cultural memory of historical extraterrestrial-civilizational contact"

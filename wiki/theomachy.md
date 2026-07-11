@@ -12,6 +12,14 @@ entry_type = "event/period"
 claim_type = "framework"
 alternative_names = ["Serpentine Rebellion", "the War in Heaven", "the Battle of the Gods", "the First War", "the Cosmic Conflict", "the War of the Serpent", "the Lucifer-Council Conflict"]
 timeline = ["cancer", "gemini", "taurus"]
+see_also = [
+    { title = "Lucifer", path = "wiki/lucifer", description = "The exiled-creator faction leader whose Eden disclosure initiates the conflict." },
+    { title = "Serpent", path = "wiki/serpent", description = "The nachash vocabulary through which the Hebrew Bible preserves the conflict's memory." },
+    { title = "Great Flood", path = "wiki/great-flood", description = "The Gemini-age destructive event operating within the broader war." },
+    { title = "Eden", path = "wiki/eden", description = "The setting of the forbidden-knowledge disclosure that begins the conflict." },
+    { title = "Babel", path = "wiki/babel", description = "A Council intervention against the post-flood human project during the same conflict." },
+    { title = "Dragons", path = "wiki/dragons", description = "The tannin imagery the corpus reads as the pursued exiled creators." },
+]
 
 [extra.infobox]
 type = "Multi-age narrative event; political-military conflict between the Elohim home-world Council and the exiled-creator-and-human alliance on Earth"

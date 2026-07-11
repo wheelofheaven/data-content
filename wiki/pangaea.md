@@ -15,6 +15,14 @@ editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "direct"
 alternative_names = ["Pangea", "Antediluvian supercontinent", "The pre-deluge landmass", "The one continent"]
+see_also = [
+    { title = "Eden", path = "wiki/eden", description = "The creation site located on this single antediluvian landmass." },
+    { title = "Antediluvian", path = "wiki/antediluvian", description = "The whole pre-deluge period for which Pangaea served as geographic substrate." },
+    { title = "Noah's Ark", path = "wiki/noahs-ark", description = "The deluge-survival account tied to the catastrophic single-event breakup of the landmass." },
+    { title = "Genesis", path = "wiki/genesis", description = "Its chapters 6–9 supply the deluge intervention that broke the continent apart." },
+    { title = "Terraforming", path = "wiki/terraforming", description = "The continental-engineering operation that raised Pangaea from the primordial seabed." },
+    { title = "The Tradition", path = "wiki/the-tradition", description = "The preserved memory the corpus reads as encoding the antediluvian supercontinent." },
+]
 
 [extra.infobox]
 type = "Supercontinent — both a mainstream-geological reconstruction and a framework-adopted antediluvian referent"

@@ -11,6 +11,13 @@ editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
 alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "Bioengineering of life", "Living-systems engineering"]
+see_also = [
+    { title = "Synthetic biology", path = "wiki/synthetic-biology", description = "The most ambitious wing of the field, the standard disciplinary name for what the corpus calls life engineering." },
+    { title = "Genetic engineering", path = "wiki/genetic-engineering", description = "The foundational read-write-edit sub-discipline within the life-engineering umbrella." },
+    { title = "Synthetic genomics", path = "wiki/synthetic-genomics", description = "The genome-scale design and synthesis component of the emerging human capacity." },
+    { title = "Elohim", path = "wiki/elohim", description = "The civilization whose life-design capability the framework reads humanity as now re-approaching." },
+    { title = "Genesis", path = "wiki/genesis", description = "The creation account the framework reads as describing the Elohim exercising this same capability." },
+]
 
 [extra.infobox]
 type = "Engineering discipline applied to living systems"

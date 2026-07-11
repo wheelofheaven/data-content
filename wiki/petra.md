@@ -15,7 +15,15 @@ editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "speculative"
 timeline = ["pisces"]
-alternative_names = ["Πέτρα (Greek 'rock')", "רקמו (Nabataean Raqmū)", "רֶקֶם (Hebrew Reqem)", "Rekem", "Raqēmō", "ٱلْبَتْرَاء (Arabic al-Batrāʾ)", "Sela (biblical 'rock')", "Mother of the Colonies", "Reqem of the Gorges"]
+see_also = [
+    { title = "Nabataeans", path = "wiki/nabataeans", description = "The Arab kingdom whose rock-cut capital Petra was." },
+    { title = "Hanafiyya", path = "wiki/hanafiyya", description = "The religion of Abraham whose geography the hypothesis relocates to Petra." },
+    { title = "Muhammad", path = "wiki/muhammad", description = "The prophet whose earliest community the qibla-orientation argument reorients toward Petra." },
+    { title = "Abraham", path = "wiki/abraham", description = "The patriarch whose restored religion the corpus reads early Islam as reviving." },
+    { title = "Plurality of Gods", path = "wiki/plurality-of-gods", description = "The Nabataean pagan pantheon Petra hosted before its Abrahamic reading." },
+    { title = "Genesis", path = "wiki/genesis", description = "The scriptural Abrahamic backdrop against which the Petra hypothesis is read." },
+]
+alternative_names = ["Πέτρα (Greek 'rock')", "רקמו (Nabataean Raqmū)", "רֶקֶם (Hebrew Reqem)", "Rekem", "Raqēmō", "ٱلْبَتْרَاء (Arabic al-Batrāʾ)", "Sela (biblical 'rock')", "Mother of the Colonies", "Reqem of the Gorges"]
 
 [extra.infobox]
 type = "Rock-cut Nabataean caravan capital; UNESCO World Heritage Site; geographic centre of the Petra-as-original-Mecca hypothesis"

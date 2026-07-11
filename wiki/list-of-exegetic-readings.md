@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "direct"
 alternative_names = ["Catalogue of neo-euhemeristic readings", "Framework exegesis index", "Glossary of operational readings"]
+see_also = [
+    { title = "List of mythemes and mythological motifs", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "The companion catalogue covering recurring cross-cultural narrative patterns rather than individual terms." },
+    { title = "List of etymological readings", path = "wiki/list-of-etymological-readings", description = "The companion catalogue covering philological readings of specific words and phrases." },
+    { title = "Elohim", path = "wiki/elohim", description = "A cataloged term the framework reads operationally as the historical extraterrestrial creators." },
+    { title = "Genesis", path = "wiki/genesis", description = "A principal source whose narrative episodes the catalogue reads neo-euhemeristically." },
+    { title = "Yahweh", path = "wiki/yahweh", description = "A cataloged person-title reading translating the divine name into operational terms." },
+    { title = "Tower of Babel", path = "wiki/tower-of-babel", description = "A narrative episode the catalogue re-reads as recovered operational history." },
+]
 
 [extra.infobox]
 type = "Reference catalogue of framework readings of religious and mythological terms"

@@ -10,6 +10,14 @@ category = "Cosmic Roles"
 editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["נָבִיא", "navi", "προφήτης", "prophētēs", "نبي", "nabī", "messenger", "seer"]
+see_also = [
+    { title = "Yahweh", path = "wiki/yahweh", description = "The Elohim figure the prophetic institution serves as interlocutor for." },
+    { title = "Adam and Eve", path = "wiki/adam-and-eve", description = "The lineage that opens the prophetic list in the post-Eden period." },
+    { title = "Noah", path = "wiki/noah", description = "An early figure in the framework's roughly forty-prophet succession." },
+    { title = "Abraham", path = "wiki/abraham", description = "A patriarchal prophet in the cumulative preparation the institution effects." },
+    { title = "Moses", path = "wiki/moses", description = "A major Hebrew prophet within the mediated-contact mechanism." },
+    { title = "Jesus", path = "wiki/jesus", description = "One of the two Piscean-age prophets in the succession." }
+]
 portrait_id = "prophetic-lineage"
 image = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.avif"

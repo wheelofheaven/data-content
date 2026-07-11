@@ -10,6 +10,13 @@ category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "text"
 alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "the Holy Tongue", "Biblical Hebrew", "Classical Hebrew"]
+see_also = [
+    { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "The principal corpus preserved in this language and read for framework content." },
+    { title = "Genesis", path = "wiki/genesis", description = "The creation account whose Hebrew wording the corpus reads operationally." },
+    { title = "Eden", path = "wiki/eden", description = "The creation-laboratory setting where, on the reading, the language was first transmitted." },
+    { title = "Adam and Eve", path = "wiki/adam-and-eve", description = "The first humans who, on the reading, learned their creators' spoken language." },
+    { title = "Babel", path = "wiki/babel", description = "The dispersal event framing the diversification of the original transmitted tongue." },
+]
 
 [extra.infobox]
 hebrew_name = "עִבְרִית"

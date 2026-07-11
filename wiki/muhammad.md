@@ -12,6 +12,14 @@ entry_type = "biographical"
 claim_type = "framework"
 timeline = ["pisces"]
 alternative_names = ["Muḥammad ibn ʿAbd Allāh", "Muhammad ibn Abdullah", "Abu al-Qasim", "Ahmad", "Rasūl Allāh", "Khātam al-Anbiyāʾ"]
+see_also = [
+    { title = "List of prophets and religions", path = "wiki/list-of-prophets-and-religions", description = "Places Muhammad as the thirty-ninth of the forty prophets in the source-material lineage." },
+    { title = "Jesus", path = "wiki/jesus", description = "The earlier prophet whose coming Islamic tradition reads as foretelling Muhammad." },
+    { title = "List of close encounters", path = "wiki/list-of-close-encounters", description = "Catalogues the Isra' and Mi'raj ascent as an aerial-craft translation event." },
+    { title = "Council of the Eternals", path = "wiki/council-of-the-eternals", description = "The body Vorilhon reportedly met Muhammad among on the Elohim planet in 1975." },
+    { title = "Hanafiyya", path = "wiki/hanafiyya", description = "The pre-Islamic Abrahamic monotheism into which the framework situates Muhammad's revelation." },
+    { title = "Petra", path = "wiki/petra", description = "The Nabataean site proposed in the revisionist geography engaged in this entry's context." },
+]
 
 [extra.infobox]
 type = "Arabian prophet, founder of the religious community that became Islam"

@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["*religio* (Latin)", "*religare* (Latin verbal root, 'to bind/link')", "the cultivated bond", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Elohim", path = "wiki/elohim", description = "The creator civilization to which religion, on the reading, cultivates the binding link." },
+    { title = "Raëlism", path = "wiki/raelism", description = "The movement self-positioning as an atheist religion in the religare sense." },
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "The author whose religare-as-link framing precedes and grounds the corpus reading." },
+    { title = "Prophet", path = "wiki/prophet", description = "The messenger role through which the creator-created link is periodically renewed." },
+    { title = "Plurality of Gods", path = "wiki/plurality-of-gods", description = "The reading the link-maintenance traditions are said to preserve across cultures." },
+    { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "A principal textual tradition preserving the link-maintenance content." },
+]
 
 [extra.infobox]
 type = "Foundational concept; the framework's specific definition of religion as the cultivated relationship between humanity and its extraterrestrial creators"

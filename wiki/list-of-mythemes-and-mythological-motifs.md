@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "direct"
 alternative_names = ["Catalogue of mythological motifs", "Mythological-motif index (framework reading)", "Cross-cultural mythemes catalogue"]
+see_also = [
+    { title = "Mytheme", path = "wiki/mytheme", description = "The technical unit the catalogue's usage draws on and distinguishes from motif and tale type." },
+    { title = "Genesis", path = "wiki/genesis", description = "The chapter-scale application of the same operational-translation method the catalogue extends." },
+    { title = "Eden", path = "wiki/eden", description = "A source narrative several catalogued motifs are read back onto." },
+    { title = "Lucifer", path = "wiki/lucifer", description = "A figure recurring across the catalogue's forbidden-knowledge and rebellion motifs." },
+    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "The framework reading several catalogued war-among-powers motifs converge on." },
+    { title = "Religion", path = "wiki/religion", description = "The broader tradition-forming category the catalogued motifs are embedded within." },
+]
 
 [extra.infobox]
 type = "Reference catalogue of cross-cultural mythological motifs with framework readings"

@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["la Tradition (French, Sendy's principal designation)", "the Tradition (capitalized to distinguish from generic 'tradition')", "the chain of Tradition (in the Hebrew *shalshelet ha-Kabbalah* sense)", "the perennial Tradition (in partial alignment with the perennialist designation)", "the Hermetic Tradition (in Western-esoteric usage)", "the Wisdom Tradition (in broader spiritual usage)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "The author who articulated The Tradition as the central scaffold of his framework." },
+    { title = "Kabbalah", path = "wiki/kabbalah", description = "The Hebrew esoteric-protective stream Sendy treats as a principal transmission chain." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The framework that inherits Sendy's Tradition and extends it with new source material." },
+    { title = "World Age", path = "wiki/world-age", description = "The precessional chronology the corpus integrates with Sendy's transmission lineages." },
+    { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "A principal body Sendy reads for preserved sky-people content within the Tradition." },
+    { title = "Plurality of Gods", path = "wiki/plurality-of-gods", description = "A recovered element of the preserved cosmic-religious knowledge the Tradition carries." },
+]
 
 [extra.infobox]
 type = "Foundational Sendy-derived framework concept; the cross-cultural body of preserved knowledge transmitted across millennia within esoteric pedagogical-textual traditions"

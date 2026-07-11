@@ -12,6 +12,13 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["Hekhalot / Heikhalot literature (הֵיכָלוֹת)", "Merkavah mysticism", "Merkabah mysticism", "the 'palace' literature", "*ma'aseh merkavah* ('the work of the chariot')"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Shi'ur Qomah", path = "wiki/shiur-qomah", description = "The parasang-measurement text transmitted within this corpus and read by the Raëlian canon." },
+    { title = "Kabbalah", path = "wiki/kabbalah", description = "The later classical Jewish mysticism this pre-Kabbalistic stratum precedes by centuries." },
+    { title = "Tree of Life", path = "wiki/tree-of-life", description = "The Kabbalistic diagram that develops out of the ascent-through-palaces tradition." },
+    { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "Source of Ezekiel's throne-chariot vision from which the merkavah mysticism takes its name." },
+    { title = "Yahweh", path = "wiki/yahweh", description = "The enthroned figure of the merkavah whose stature the embedded Shi'ur Qomah measures." },
+]
 
 [extra.infobox]
 type = "Corpus of late-antique / early-medieval Jewish mystical texts (pre-Kabbalistic)"

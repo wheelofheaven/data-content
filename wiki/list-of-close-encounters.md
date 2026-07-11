@@ -11,6 +11,14 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "direct"
 alternative_names = ["Catalogue of pre-modern close encounters", "Pre-1500 UFO and contact-event index", "Catalogue of unexplained aerial phenomena (antiquity through 1499 CE)"]
+see_also = [
+    { title = "Elohim", path = "wiki/elohim", description = "The presence the catalogued encounters are read as documenting across the post-Eden period." },
+    { title = "Neo-Euhemerism", path = "wiki/neo-euhemerism", description = "The interpretive move applying modern encounter terminology to pre-modern accounts." },
+    { title = "List of mythemes and mythological motifs", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "A companion catalogue indexing the recurring narrative material alongside the encounters." },
+    { title = "List of megalithic sites", path = "wiki/list-of-megalithic-sites", description = "A companion reference catalogue of the physical construction record." },
+    { title = "Ezekiel", path = "wiki/ezekiel", description = "A prophetic encounter account included among the catalogued reports." },
+    { title = "Elijah", path = "wiki/elijah", description = "A biblical aerial-ascent account read as a close encounter in the catalogue." },
+]
 
 [extra.infobox]
 type = "Reference catalogue of pre-modern reported close encounters and aerial phenomena"

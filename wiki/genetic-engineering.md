@@ -12,6 +12,14 @@ entry_type = "concept"
 claim_type = "direct"
 alternative_names = ["Genetic modification", "Gene splicing (historical informal usage)", "Recombinant DNA technology (the foundational subdomain)", "Genome editing (the contemporary CRISPR-era subdomain)"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "Life engineering", path = "wiki/life-engineering", description = "The umbrella concept organizing genetic engineering and its sister disciplines within the framework." },
+    { title = "Synthetic biology", path = "wiki/synthetic-biology", description = "The engineering-discipline field that overlaps and extends genetic engineering." },
+    { title = "Synthetic genomics", path = "wiki/synthetic-genomics", description = "The genome-scale design and synthesis field spawned from genetic engineering." },
+    { title = "Pantropy", path = "wiki/pantropy", description = "The engineering of organisms for non-terrestrial environments, a related descendant discipline." },
+    { title = "Great Return", path = "wiki/great-return", description = "The anticipated knowledge transfer onto which contemporary engineering capability is read as the substrate." },
+    { title = "Elohim", path = "wiki/elohim", description = "The civilization whose original synthesis capability the framework reads humanity as recovering." },
+]
 
 [extra.infobox]
 type = "The scientific discipline of deliberately modifying an organism's genetic material to introduce, alter, or transfer genetic content"

@@ -12,6 +12,13 @@ entry_type = "concept"
 claim_type = "speculative"
 alternative_names = ["the alliance", "the cross-civilizational alliance", "the Eloha-human alliance", "the Noahic alliance", "the covenant partnership"]
 timeline = ["gemini", "taurus", "aries", "pisces", "aquarius"]
+see_also = [
+    { title = "Council of the Eternals", path = "wiki/council-of-the-eternals", description = "The home-world Council the Alliance formed in opposition to at the Noahic moment." },
+    { title = "Elohim", path = "wiki/elohim", description = "The creator civilization the Alliance binds to the human population." },
+    { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The deep-time succession of creator civilizations the Alliance sits within." },
+    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "The evaluative framework applied to the humanities the Alliance sponsors." },
+    { title = "Prophet", path = "wiki/prophet", description = "The human intermediaries through whom the Alliance conducted mediated contact." },
+]
 
 [extra.infobox]
 type = "Cross-civilizational political body; formal partnership between Eloha and human parties"

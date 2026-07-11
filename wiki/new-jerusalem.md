@@ -11,6 +11,13 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the New Jerusalem", "Third Temple (Jewish-historical register)", "Embassy (contemporary operational register)", "the Heavenly Jerusalem (Christian-apocalyptic register)", "the descending Holy City (Revelation 21 designation)", "the residence of the Elohim (Vorilhon source designation)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Embassy", path = "wiki/embassy", description = "The contemporary operational register of the same physical-institutional structure." },
+    { title = "Third Temple", path = "wiki/third-temple", description = "The Jewish-historical register naming the same intended reception structure." },
+    { title = "Ezekiel", path = "wiki/ezekiel", description = "The prophet whose temple-threshold vision the corpus reads as prefiguration." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "The Revelation eschatology supplying the descending-city imagery for the term." },
+    { title = "Golden Age", path = "wiki/golden-age", description = "The Aquarian transformation the structure is meant to center and radiate outward." },
+]
 
 [extra.infobox]
 type = "Aquarian-age physical-institutional concept; the structure intended to receive the alliance's formal arrival and to serve as the operational location of human-Elohim diplomatic engagement"
