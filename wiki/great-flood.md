@@ -571,7 +571,7 @@ The corpus reads the *Atra-ḫasīs* as preserving substantial fragmentary memor
 
 **The Sumerian *Eridu Genesis*** preserves the earliest known version of the flood narrative, with Ziusudra ("life of long days") as the parallel figure. The Sumerian account, fragmentary in its preserved form, records substantially the same narrative elements as the later Akkadian and Hebrew traditions. The Sumerian King List divides into pre-Flood and post-Flood sections, with the antediluvian kings receiving substantially extended reigns (some recorded reigns exceeding 28,000 years) before the Flood reduces the human lifespans to the more conventional figures of the post-Flood period.
 
-The Mesopotamian flood material is treated more fully in the {% wiki(slug="atra-hasis") %}Atra-ḫasīs{% end %} and {% wiki(slug="epic-of-gilgamesh") %}Epic of Gilgamesh{% end %} entries (when written).
+The Mesopotamian flood material is treated more fully in the Atra-ḫasīs and Epic of Gilgamesh entries (when written).
 
 ### The Greek Deucalion narrative
 

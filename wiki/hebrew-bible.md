@@ -470,7 +470,7 @@ The substantial framework articulates substantial systematic hermeneutic for sub
 - **The substantial parted waters as substantial directed-beam operations** rather than substantial supernatural intervention
 - **The substantial Sodom destruction as substantial atomic strike** (treated principally in the {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %} entry)
 - **The substantial Babel intervention as substantial Council operational dispersion** (treated principally in the {% wiki(slug="babel") %}Babel{% end %} entry)
-- **The substantial Tetragrammaton as substantial Council-president personal designation** (treated principally in the {% wiki(slug="yahweh") %}Yahweh{% end %} and {% wiki(slug="tetragrammaton") %}Tetragrammaton{% end %} entries)
+- **The substantial Tetragrammaton as substantial Council-president personal designation** (treated principally in the {% wiki(slug="yahweh") %}Yahweh{% end %} and Tetragrammaton entries)
 
 **The substantial decoding methodology**. The substantial framework operates through substantial systematic textual engagement:
 
@@ -546,7 +546,7 @@ The Hebrew Bible operates as substantial source-textual foundation for the vario
 
 ### The various text entries
 
-The Hebrew Bible operates as substantial textual-tradition context for various other text entries when written: {% wiki(slug="tetragrammaton") %}Tetragrammaton{% end %}, various subsequent Hellenistic-Jewish and Christian-tradition textual entities, various Islamic-tradition textual entities.
+The Hebrew Bible operates as substantial textual-tradition context for various other text entries when written: Tetragrammaton, various subsequent Hellenistic-Jewish and Christian-tradition textual entities, various Islamic-tradition textual entities.
 
 ### The Apocalypse entry
 
@@ -578,7 +578,7 @@ The substantial Quran operates as substantial Islamic-tradition canonical text r
 
 ### Hebrew Bible vs. the Book of Mormon
 
-The substantial Book of Mormon operates as substantial Mormon LDS canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Book of Mormon operates substantively (treated principally in the {% wiki(slug="joseph-smith") %}Joseph Smith{% end %} entry when written and the broader Mormon LDS corpus content) but substantially separately from the substantial Hebrew Bible engagement.
+The substantial Book of Mormon operates as substantial Mormon LDS canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Book of Mormon operates substantively (treated principally in the Joseph Smith entry when written and the broader Mormon LDS corpus content) but substantially separately from the substantial Hebrew Bible engagement.
 
 ### Hebrew Bible vs. Apocryphal and Pseudepigraphal texts
 

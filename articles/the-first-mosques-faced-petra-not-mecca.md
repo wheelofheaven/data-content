@@ -60,7 +60,7 @@ Canadian researcher Dan Gibson, assembled over two decades and published as
 *Early Islamic Qiblas* (2017) and *Let the Stones Speak* (2023) — a great many
 of them do not point where the tradition says they should. For roughly the
 first Islamic century, their qibla walls do not face the Hijazi city now called
-{% wiki(slug="mecca") %}Mecca{% end %}. They face north, toward {% wiki(slug="petra") %}Petra{% end %},
+Mecca. They face north, toward {% wiki(slug="petra") %}Petra{% end %},
 the abandoned Nabataean capital in the sandstone gorges of southern Jordan.
 
 That is one claim, and it is contested. What makes it worth a long essay is

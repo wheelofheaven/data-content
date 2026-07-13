@@ -178,7 +178,7 @@ The canon names a roster of historical and traditional religious figures and ide
 - **{% wiki(slug="moses") %}Moses{% end %}**
 - **{% wiki(slug="elijah") %}Elijah{% end %}** (transliterated *EliYah* in some quotations)
 - **{% wiki(slug="jesus") %}Jesus{% end %}**
-- **{% wiki(slug="buddha") %}Buddha{% end %}** — given a brief biographical sketch in *Extra-Terrestrials Took Me To Their Planet*, chapter *Buddhism*.
+- **Buddha** — given a brief biographical sketch in *Extra-Terrestrials Took Me To Their Planet*, chapter *Buddhism*.
 - **{% wiki(slug="muhammad") %}Muhammad{% end %}** — within whose writings the Elohim leader is said to have been called *Allah* "out of respect."
 - **Joseph Smith** — named alongside the four above in *An Atheist Religion*.
 
