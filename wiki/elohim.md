@@ -18,12 +18,14 @@ image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v
 image_alt = "AI-generated editorial group portrait of the Elohim as long-haired human-like creators in a green-lit council setting."
 image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
 see_also = [
+    { title = "Are the Anunnaki the Elohim?", path = "articles/anunnaki-and-the-elohim", description = "Whether the Sumerian Anunnaki name the same makers — a case-by-case comparison." },
     { title = "Yahweh", path = "wiki/yahweh", description = "The principal Elohim — president of the Council of Eternals." },
     { title = "Council of Eternals", path = "wiki/council-of-the-eternals", description = "The governing body that decides on the fate of the human creation." },
     { title = "Plurality of Gods", path = "wiki/plurality-of-gods", description = "The philological case for treating Elohim as plural rather than a majestic singular." },
     { title = "Raëlism", path = "wiki/raelism", description = "The contemporary interpretive lens that reads the Elohim as an advanced human civilization." },
     { title = "Elohim's Home Planet", path = "wiki/elohim-home-planet", description = "The planet of origin described by Raël after his 1975 visit." },
     { title = "The Archdeacon and the Dragon", path = "articles/the-archdeacon-and-the-dragon", description = "The plural 'Powerful Ones' reading of the Genesis elohim, on which the article's whole argument rests." },
+    { title = "The Scrolls That Woke in Year One", path = "articles/the-scrolls-that-woke-in-year-one", description = "4QDeut(j) 'sons of Elohim' and 11QMelchizedek's heavenly 'elohim' — the plural read on ancient Qumran leather." },
 ]
 
 footnotes = [

@@ -17,7 +17,8 @@ see_also = [
     { title = "Biglino Method", path = "wiki/biglino-method", description = "The strict-philology procedure the catalogue's Sendy-Biglino method draws on." },
     { title = "Hebrew", path = "wiki/hebrew", description = "The largest source-language category in the catalogue." },
     { title = "Bible", path = "wiki/bible", description = "The principal textual corpus whose terms the catalogue recovers etymologically." },
-    { title = "Neo-Euhemerism", path = "wiki/neo-euhemerism", description = "The interpretive tradition supplying the operational lens the readings apply." }
+    { title = "Neo-Euhemerism", path = "wiki/neo-euhemerism", description = "The interpretive tradition supplying the operational lens the readings apply." },
+    { title = "The Scrolls That Woke in Year One", path = "articles/the-scrolls-that-woke-in-year-one", description = "11QMelchizedek applies 'elohim' to a heavenly officer — the etymological reading's best ancient manuscript witness." }
 ]
 
 [extra.infobox]

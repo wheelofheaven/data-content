@@ -3,7 +3,7 @@ title = "The Scrolls That Woke in Year One"
 description = "A shepherd's stone broke a jar above the Dead Sea in year one of the calendar that counts from Hiroshima. What the scrolls unveiled — and why the timing fits."
 template = "articles-page.html"
 date = 2026-07-05
-draft = true
+draft = false
 
 [extra]
 claim_type = "speculative"

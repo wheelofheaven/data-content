@@ -18,6 +18,7 @@ see_also = [
     { title = "Embassy", path = "wiki/embassy", description = "The planned open return made operationally possible during this period." },
     { title = "Elohim", path = "wiki/elohim", description = "The alliance whose content becomes available for direct evaluation in the Apocalypse." },
     { title = "Raël", path = "wiki/rael", description = "The prophet through whom the framework content of the Apocalypse was delivered." },
+    { title = "The Scrolls That Woke in Year One", path = "articles/the-scrolls-that-woke-in-year-one", description = "The Dead Sea Scrolls surfaced in year one of the era's calendar — the unveiling read against the manuscript find." },
 ]
 +++
 

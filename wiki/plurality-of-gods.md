@@ -17,6 +17,7 @@ see_also = [
     { title = "Council of the Eternals", path = "wiki/council-of-the-eternals", description = "The governing body that gives the biblical plural a political referent." },
     { title = "Watchers", path = "wiki/watchers", description = "A second biblical plural-of-beings the reading draws on." },
     { title = "Satan", path = "wiki/satan", description = "A Council figure read politically rather than as metaphysical evil." },
+    { title = "The Scrolls That Woke in Year One", path = "articles/the-scrolls-that-woke-in-year-one", description = "4QDeut(j) preserves 'sons of Elohim' where the Masoretic text was edited to 'sons of Israel' — the plurality caught in the manuscripts." },
 ]
 
 [extra.infobox]
