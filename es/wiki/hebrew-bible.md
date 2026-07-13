@@ -22,13 +22,8 @@ see_also = [
     { title = "Gran Diluvio", path = "/wiki/great-flood/", description = "El evento de la Era de Géminis central a la historia primigenia de la Biblia hebrea." },
     { title = "Moisés", path = "/wiki/moses/", description = "El principal profeta postdiluviano cuya misión produjo el corpus de la Torá." },
     { title = "Abraham", path = "/wiki/abraham/", description = "La figura de reconstrucción del periodo patriarcal, central a la narrativa de la Biblia hebrea." },
-    { title = "Hipótesis Documentaria", path = "/wiki/documentary-hypothesis/", description = "El principal marco histórico-crítico convencional para la composición del Pentateuco." },
-    { title = "Hebreos", path = "/wiki/hebrews/", description = "Los descendientes genealógicos del linaje edénico cuya tradición produjo el corpus textual." },
     { title = "Firma Duplicada", path = "/wiki/doubled-signature/", description = "El principio del corpus por el cual la Biblia hebrea registra la realidad histórica subyacente." },
     { title = "Corpus de Referencia del Canon Raëliano", path = "/wiki/reference-corpus-of-the-raelian-canon/", description = "El principal corpus fuente raëliano que opera como lente canónica de lectura." },
-    { title = "Septuaginta", path = "/wiki/septuagint/", description = "La principal traducción griega de la Biblia hebrea." },
-    { title = "Manuscritos del Mar Muerto", path = "/wiki/dead-sea-scrolls/", description = "La evidencia manuscrita sustancial para la transmisión textual de la Biblia hebrea." },
-    { title = "Texto Masorético", path = "/wiki/masoretic-text/", description = "La principal tradición textual hebrea vocalizada." },
 ]
 
 footnotes = [
@@ -469,7 +464,7 @@ El marco sustancial articula hermenéutica sistemática sustancial para el compr
 - **Las aguas divididas sustanciales como operaciones sustanciales de haz dirigido** en lugar de intervención sobrenatural sustancial
 - **La destrucción sustancial de Sodoma como ataque atómico sustancial** (tratada principalmente en la entrada {% wiki(slug="sodom-and-gomorrah") %}Sodoma y Gomorra{% end %})
 - **La intervención sustancial de Babel como dispersión operacional sustancial del Consejo** (tratada principalmente en la entrada {% wiki(slug="babel") %}Babel{% end %})
-- **El Tetragrámaton sustancial como designación personal sustancial del presidente del Consejo** (tratado principalmente en las entradas {% wiki(slug="yahweh") %}Yahvé{% end %} y {% wiki(slug="tetragrammaton") %}Tetragrámaton{% end %})
+- **El Tetragrámaton sustancial como designación personal sustancial del presidente del Consejo** (tratado principalmente en las entradas {% wiki(slug="yahweh") %}Yahvé{% end %} y Tetragrámaton)
 
 **La metodología sustancial de decodificación**. El marco sustancial opera a través de compromiso textual sistemático sustancial:
 
@@ -545,7 +540,7 @@ La Biblia hebrea opera como fundación fuente-textual sustancial para las divers
 
 ### Las diversas entradas de texto
 
-La Biblia hebrea opera como contexto sustancial de tradición textual para diversas otras entradas de texto cuando estén escritas: {% wiki(slug="tetragrammaton") %}Tetragrámaton{% end %}, diversas entidades textuales helenístico-judías y cristiano-tradicionales subsiguientes, diversas entidades textuales islámico-tradicionales.
+La Biblia hebrea opera como contexto sustancial de tradición textual para diversas otras entradas de texto cuando estén escritas: Tetragrámaton, diversas entidades textuales helenístico-judías y cristiano-tradicionales subsiguientes, diversas entidades textuales islámico-tradicionales.
 
 ### La entrada Apocalipsis
 
@@ -577,7 +572,7 @@ El Corán sustancial opera como texto canónico islámico-tradicional sustancial
 
 ### Biblia hebrea vs. el Libro de Mormón
 
-El Libro de Mormón sustancial opera como texto canónico mormón SUD sustancial que registra contenido paralelo sustancial con la Biblia hebrea sustancial mientras opera desde tradición cultural-religiosa distinta. La relación es de **contenido-paralelo-sustancial-con-encuadre-tradicional-distinto-sustancial**. El compromiso sustancial del marco con el Libro de Mormón opera sustantivamente (tratado principalmente en la entrada {% wiki(slug="joseph-smith") %}Joseph Smith{% end %} cuando esté escrita y en el contenido más amplio del corpus mormón SUD) pero sustancialmente separado del compromiso con la Biblia hebrea.
+El Libro de Mormón sustancial opera como texto canónico mormón SUD sustancial que registra contenido paralelo sustancial con la Biblia hebrea sustancial mientras opera desde tradición cultural-religiosa distinta. La relación es de **contenido-paralelo-sustancial-con-encuadre-tradicional-distinto-sustancial**. El compromiso sustancial del marco con el Libro de Mormón opera sustantivamente (tratado principalmente en la entrada Joseph Smith cuando esté escrita y en el contenido más amplio del corpus mormón SUD) pero sustancialmente separado del compromiso con la Biblia hebrea.
 
 ### Biblia hebrea vs. textos apócrifos y pseudoepigráficos
 

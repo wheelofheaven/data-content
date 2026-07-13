@@ -26,8 +26,6 @@ see_also = [
     { title = "Edén", path = "/wiki/eden/", description = "El laboratorio originario de la alianza cuyo linaje extendió la civilización antediluviana." },
     { title = "Biblia Hebrea", path = "/wiki/hebrew-bible/", description = "La principal fuente escritural para la narrativa del Diluvio." },
     { title = "Génesis", path = "/wiki/genesis/", description = "El libro bíblico que contiene el relato del Diluvio (Génesis 6-9)." },
-    { title = "Atra-ḫasīs", path = "/wiki/atra-hasis/", description = "La narrativa del diluvio babilónica estrechamente paralela al relato hebreo." },
-    { title = "Epopeya de Gilgamesh", path = "/wiki/epic-of-gilgamesh/", description = "El relato mesopotámico del diluvio en la tablilla XI." },
     { title = "Sodoma y Gomorra", path = "/wiki/sodom-and-gomorrah/", description = "Un evento de ataque análogo posterior cuyo mecanismo es estructuralmente similar." },
     { title = "Babel", path = "/wiki/babel/", description = "El episodio post-diluviano de dispersión civilizacional." },
     { title = "Firma Doblada", path = "/wiki/doubled-signature/", description = "El principio del corpus por el cual la tradición global del diluvio preserva la memoria histórica subyacente." },
@@ -569,7 +567,7 @@ El corpus lee el *Atra-ḫasīs* como preservación de sustancial memoria fragme
 
 **El sumerio *Génesis de Eridu*** preserva la versión más antigua conocida de la narrativa del diluvio, con Ziusudra («vida de largos días») como figura paralela. El relato sumerio, fragmentario en su forma preservada, registra sustancialmente los mismos elementos narrativos que las tradiciones acadia y hebrea posteriores. La Lista de Reyes Sumerios se divide en secciones pre-diluviana y post-diluviana, recibiendo los reyes antediluvianos reinados sustancialmente extendidos (algunos reinados registrados superando los 28.000 años) antes de que el Diluvio reduzca las vidas humanas a las cifras más convencionales del periodo post-diluviano.
 
-El material mesopotámico del diluvio se trata más plenamente en las entradas {% wiki(slug="atra-hasis") %}Atra-ḫasīs{% end %} y {% wiki(slug="epic-of-gilgamesh") %}Epopeya de Gilgamesh{% end %} (cuando estén escritas).
+El material mesopotámico del diluvio se trata más plenamente en las entradas Atra-ḫasīs y Epopeya de Gilgamesh (cuando estén escritas).
 
 ### La narrativa griega de Deucalión
 

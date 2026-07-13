@@ -61,8 +61,8 @@ En el mayor estudio realizado hasta ahora de las mezquitas datables más antigua
 décadas y publicada como *Early Islamic Qiblas* (2017) y *Let the Stones Speak*
 (2023) — muchísimas de ellas no apuntan hacia donde la tradición dice que
 deberían. Durante aproximadamente el primer siglo islámico, sus muros de la
-quibla no miran hacia la ciudad hiyazí hoy llamada {% wiki(slug="mecca") %}La
-Meca{% end %}. Miran al norte, hacia {% wiki(slug="petra") %}Petra{% end %}, la
+quibla no miran hacia la ciudad hiyazí hoy llamada La
+Meca. Miran al norte, hacia {% wiki(slug="petra") %}Petra{% end %}, la
 abandonada capital nabatea en las gargantas de arenisca del sur de Jordania.
 
 Esa es una afirmación, y es discutida. Lo que la hace merecedora de un ensayo

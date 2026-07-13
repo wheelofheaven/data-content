@@ -33,7 +33,6 @@ see_also = [
     { title = "希伯来圣经", path = "/wiki/hebrew-bible/", description = "伊甸叙事的主要经文来源。" },
     { title = "圣经", path = "/wiki/bible/", description = "保存创世记的更广泛文本传统。" },
     { title = "双重印记", path = "/wiki/doubled-signature/", description = "文化传统借以记录其所依据之历史事件之记忆的文集原则。" },
-    { title = "希伯来人", path = "/wiki/hebrews/", description = "由以色列团队所合成之最初人类的直接遗传后裔。" },
 ]
 
 footnotes = [

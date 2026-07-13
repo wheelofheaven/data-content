@@ -26,8 +26,6 @@ see_also = [
     { title = "에덴", path = "/wiki/eden/", description = "홍수 이전 문명이 그 계보를 확장한 원초적 동맹 실험실." },
     { title = "히브리어 성경", path = "/wiki/hebrew-bible/", description = "홍수 서사의 주된 경전 출전." },
     { title = "창세기", path = "/wiki/genesis/", description = "홍수 기사를 담은 성경의 책(창세기 6–9장)." },
-    { title = "아트라하시스", path = "/wiki/atra-hasis/", description = "히브리 기록과 매우 평행한 바빌로니아 홍수 서사." },
-    { title = "길가메시 서사시", path = "/wiki/epic-of-gilgamesh/", description = "토판 XI에 기록된 메소포타미아 홍수 기사." },
     { title = "소돔과 고모라", path = "/wiki/sodom-and-gomorrah/", description = "그 기제가 구조적으로 유사한 후대의 유비적 타격 사건." },
     { title = "바벨", path = "/wiki/babel/", description = "홍수 이후의 문명적 분산 일화." },
     { title = "이중 서명", path = "/wiki/doubled-signature/", description = "전 지구적 홍수 전승이 그 기저의 역사적 기억을 보존한다는 코퍼스의 원리." },
@@ -569,7 +567,7 @@ note = "홍수 서사의 주된 경전 출전; 항목 전반에 걸친 일차적
 
 **수메르어 *에리두 창세기***는 홍수 서사의 알려진 가장 이른 판본을 보존하며, 지우수드라("긴 날들의 생명")가 평행 인물로 등장합니다. 단편적인 형태로 보존된 수메르어 기사는 후대의 아카드어와 히브리 전통과 실질적으로 동일한 서사 요소들을 기록합니다. 수메르 왕명록은 홍수 이전과 홍수 이후 부분으로 나뉘며, 홍수 이전의 왕들은 실질적으로 연장된 통치 기간을 받습니다(어떤 기록된 통치는 28,000년을 넘음). 홍수가 인간의 수명을 홍수 이후의 보다 통상적인 수치로 줄이기 전까지 말입니다.
 
-메소포타미아 홍수 자료는 {% wiki(slug="atra-hasis") %}아트라하시스{% end %}와 {% wiki(slug="epic-of-gilgamesh") %}길가메시 서사시{% end %} 항목(작성될 때)에서 더 충실히 다루어집니다.
+메소포타미아 홍수 자료는 아트라하시스와 길가메시 서사시 항목(작성될 때)에서 더 충실히 다루어집니다.
 
 ### 그리스의 데우칼리온 서사
 

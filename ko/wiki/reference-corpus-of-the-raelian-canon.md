@@ -26,7 +26,6 @@ see_also = [
     { title = "모세", path = "/wiki/moses/", description = "정전 전반에 걸쳐 나열된 명명된 메신저들 중 첫 번째입니다." },
     { title = "예수", path = "/wiki/jesus/", description = "물고기자리 시대의 주요 메신저로, 『그리스도의 역할』은 마태복음을 중심으로 구성되어 있습니다." },
     { title = "무함마드", path = "/wiki/muhammad/", description = "쿠란의 메신저로, 정전은 수라 21, 54, 56을 직접적으로 다룹니다." },
-    { title = "히브리인", path = "/wiki/hebrews/", description = "그 텍스트 전통이 정전의 가장 큰 참조 본문을 공급하는 혈통입니다." },
     { title = "아포칼립스", path = "/wiki/apocalypse/", description = "『새로운 계시』에서 발전된 요한계시록 독해입니다." },
     { title = "햄릿의 맷돌", path = "/wiki/hamlets-mill/", description = "정전의 흔적 논증에 인접한 범문화적 신화적-세차적 독해입니다." },
     { title = "이중 서명", path = "/wiki/doubled-signature/", description = "정전과 그 참조 텍스트들이 동일한 근저의 현실로 수렴된다는 코퍼스의 원리입니다." },
@@ -178,7 +177,7 @@ note = "브루거(1976); 『그래... 나는 라엘리안이다』 흔적 목록
 - **{% wiki(slug="moses") %}모세{% end %}**
 - **{% wiki(slug="elijah") %}엘리야{% end %}**(일부 인용에서는 *엘리야*로 음역됨)
 - **{% wiki(slug="jesus") %}예수{% end %}**
-- **{% wiki(slug="buddha") %}붓다{% end %}** — 『외계인들이 나를 그들의 행성으로 데려갔다』의 *불교* 장에서 간략한 전기적 스케치를 받습니다.
+- **붓다** — 『외계인들이 나를 그들의 행성으로 데려갔다』의 *불교* 장에서 간략한 전기적 스케치를 받습니다.
 - **{% wiki(slug="muhammad") %}무함마드{% end %}** — 그의 저작 안에서 엘로힘 지도자가 "존경의 표시로" *알라*라고 불렸다고 합니다.
 - **조셉 스미스** — 『무신론적 종교』에서 위의 네 명과 함께 명명됩니다.
 

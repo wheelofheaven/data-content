@@ -22,13 +22,8 @@ see_also = [
     { title = "Sintflut", path = "/wiki/great-flood/", description = "Das Ereignis im Zeitalter der Zwillinge, zentral für die Urgeschichte der Hebräischen Bibel." },
     { title = "Mose", path = "/wiki/moses/", description = "Der wichtigste nachsintflutliche Prophet, dessen Mission das Tora-Korpus hervorbrachte." },
     { title = "Abraham", path = "/wiki/abraham/", description = "Die Rekonstruktionsfigur der patriarchalischen Periode, zentral für die Erzählung der Hebräischen Bibel." },
-    { title = "Dokumentenhypothese", path = "/wiki/documentary-hypothesis/", description = "Der wichtigste etablierte historisch-kritische Rahmen für die Komposition des Pentateuch." },
-    { title = "Hebräer", path = "/wiki/hebrews/", description = "Die genealogischen Nachkommen der Eden-Linie, deren Tradition das Textkorpus hervorbrachte." },
     { title = "Doppelte Signatur", path = "/wiki/doubled-signature/", description = "Das Korpusprinzip, durch das die Hebräische Bibel die zugrunde liegende historische Realität erfasst." },
     { title = "Referenzkorpus des raelianischen Kanons", path = "/wiki/reference-corpus-of-the-raelian-canon/", description = "Das wichtigste raelianische Quellenkorpus, das als kanonische Leselinse fungiert." },
-    { title = "Septuaginta", path = "/wiki/septuagint/", description = "Die wichtigste griechische Übersetzung der Hebräischen Bibel." },
-    { title = "Schriftrollen vom Toten Meer", path = "/wiki/dead-sea-scrolls/", description = "Der substantielle handschriftliche Befund für die Textüberlieferung der Hebräischen Bibel." },
-    { title = "Masoretischer Text", path = "/wiki/masoretic-text/", description = "Die wichtigste vokalisierte hebräische Texttradition." },
 ]
 
 footnotes = [
@@ -469,7 +464,7 @@ Der substantielle Rahmen artikuliert eine substantielle systematische Hermeneuti
 - **Die substantiellen geteilten Wasser als substantielle Operationen gerichteter Strahlen** statt als substantielle übernatürliche Intervention
 - **Die substantielle Zerstörung Sodoms als substantieller atomarer Angriff** (hauptsächlich im Eintrag {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %} behandelt)
 - **Die substantielle Babel-Intervention als substantielle operative Zerstreuung des Rates** (hauptsächlich im Eintrag {% wiki(slug="babel") %}Babel{% end %} behandelt)
-- **Das substantielle Tetragrammaton als substantielle persönliche Bezeichnung des Ratspräsidenten** (hauptsächlich in den Einträgen {% wiki(slug="yahweh") %}Yahweh{% end %} und {% wiki(slug="tetragrammaton") %}Tetragrammaton{% end %} behandelt)
+- **Das substantielle Tetragrammaton als substantielle persönliche Bezeichnung des Ratspräsidenten** (hauptsächlich in den Einträgen {% wiki(slug="yahweh") %}Yahweh{% end %} und Tetragrammaton behandelt)
 
 **Die substantielle Entschlüsselungsmethodik**. Der substantielle Rahmen operiert durch substantielle systematische textliche Auseinandersetzung:
 
@@ -545,7 +540,7 @@ Die Hebräische Bibel fungiert als substantielle textliche Quellengrundlage für
 
 ### Die verschiedenen Texteinträge
 
-Die Hebräische Bibel fungiert als substantieller textlich-traditioneller Kontext für verschiedene andere Texteinträge, wenn verfasst: {% wiki(slug="tetragrammaton") %}Tetragrammaton{% end %}, verschiedene nachfolgende hellenistisch-jüdische und christlich-traditionelle textliche Entitäten, verschiedene textliche Entitäten der islamischen Tradition.
+Die Hebräische Bibel fungiert als substantieller textlich-traditioneller Kontext für verschiedene andere Texteinträge, wenn verfasst: Tetragrammaton, verschiedene nachfolgende hellenistisch-jüdische und christlich-traditionelle textliche Entitäten, verschiedene textliche Entitäten der islamischen Tradition.
 
 ### Der Eintrag Apokalypse
 
@@ -577,7 +572,7 @@ Der substantielle Koran fungiert als substantieller kanonischer Text der islamis
 
 ### Hebräische Bibel vs. Buch Mormon
 
-Das substantielle Buch Mormon fungiert als substantieller kanonischer Text der mormonischen LDS, der substantiellen parallelen Inhalt mit der substantiellen Hebräischen Bibel erfasst, während es aus einer distinkten kulturell-religiösen Tradition operiert. Die Beziehung ist eine von **substantiell-parallelem-Inhalt-mit-substantiell-distinkter-traditioneller-Rahmung**. Die substantielle Rahmenauseinandersetzung mit dem substantiellen Buch Mormon operiert substantiell (hauptsächlich im Eintrag {% wiki(slug="joseph-smith") %}Joseph Smith{% end %}, wenn verfasst, und im breiteren mormonischen LDS-Korpusinhalt behandelt), aber substantiell getrennt von der substantiellen Auseinandersetzung mit der Hebräischen Bibel.
+Das substantielle Buch Mormon fungiert als substantieller kanonischer Text der mormonischen LDS, der substantiellen parallelen Inhalt mit der substantiellen Hebräischen Bibel erfasst, während es aus einer distinkten kulturell-religiösen Tradition operiert. Die Beziehung ist eine von **substantiell-parallelem-Inhalt-mit-substantiell-distinkter-traditioneller-Rahmung**. Die substantielle Rahmenauseinandersetzung mit dem substantiellen Buch Mormon operiert substantiell (hauptsächlich im Eintrag Joseph Smith, wenn verfasst, und im breiteren mormonischen LDS-Korpusinhalt behandelt), aber substantiell getrennt von der substantiellen Auseinandersetzung mit der Hebräischen Bibel.
 
 ### Hebräische Bibel vs. apokryphe und pseudepigraphische Texte
 

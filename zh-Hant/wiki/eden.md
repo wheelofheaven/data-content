@@ -33,7 +33,6 @@ see_also = [
     { title = "希伯來聖經", path = "/wiki/hebrew-bible/", description = "伊甸敘事的主要經文源典。" },
     { title = "聖經", path = "/wiki/bible/", description = "《創世記》於其中得以保存的更廣文本傳統。" },
     { title = "雙重簽名", path = "/wiki/doubled-signature/", description = "文化傳統據以登錄底層歷史事件記憶的文集原則。" },
-    { title = "希伯來人", path = "/wiki/hebrews/", description = "以色列隊所合成之最初人類的直接基因後裔。" },
 ]
 
 footnotes = [

@@ -22,13 +22,8 @@ see_also = [
     { title = "Grand Déluge", path = "/wiki/great-flood/", description = "L'événement de l'Âge des Gémeaux central à l'histoire primitive de la Bible hébraïque." },
     { title = "Moïse", path = "/wiki/moses/", description = "Le principal prophète post-Déluge dont la mission a produit le corpus de la Torah." },
     { title = "Abraham", path = "/wiki/abraham/", description = "La figure de reconstruction de la période patriarcale centrale au récit biblique-hébraïque." },
-    { title = "Hypothèse documentaire", path = "/wiki/documentary-hypothesis/", description = "Le principal cadre historique-critique dominant pour la composition pentateucale." },
-    { title = "Hébreux", path = "/wiki/hebrews/", description = "Les descendants généalogiques de la lignée d'Éden dont la tradition a produit le corpus textuel." },
     { title = "Signature doublée", path = "/wiki/doubled-signature/", description = "Le principe du corpus selon lequel la Bible hébraïque enregistre la réalité historique sous-jacente." },
     { title = "Corpus de référence du canon raëlien", path = "/wiki/reference-corpus-of-the-raelian-canon/", description = "Le corpus source raëlien principal qui opère comme prisme de lecture canonique." },
-    { title = "Septante", path = "/wiki/septuagint/", description = "La principale traduction grecque de la Bible hébraïque." },
-    { title = "Manuscrits de la mer Morte", path = "/wiki/dead-sea-scrolls/", description = "Les preuves manuscrites substantielles de la transmission textuelle de la Bible hébraïque." },
-    { title = "Texte massorétique", path = "/wiki/masoretic-text/", description = "La principale tradition textuelle hébraïque vocalisée." },
 ]
 
 footnotes = [
@@ -469,7 +464,7 @@ Le cadre substantiel articule une herméneutique systématique substantielle pou
 - **Les eaux séparées substantielles comme opérations substantielles de faisceaux dirigés** plutôt qu'intervention surnaturelle substantielle
 - **La destruction substantielle de Sodome comme frappe atomique substantielle** (traité principalement dans l'entrée {% wiki(slug="sodom-and-gomorrah") %}Sodome et Gomorrhe{% end %})
 - **L'intervention substantielle de Babel comme dispersion opérationnelle substantielle du Conseil** (traité principalement dans l'entrée {% wiki(slug="babel") %}Babel{% end %})
-- **Le Tétragramme substantiel comme désignation personnelle substantielle du président du Conseil** (traité principalement dans les entrées {% wiki(slug="yahweh") %}Yahvé{% end %} et {% wiki(slug="tetragrammaton") %}Tétragramme{% end %})
+- **Le Tétragramme substantiel comme désignation personnelle substantielle du président du Conseil** (traité principalement dans les entrées {% wiki(slug="yahweh") %}Yahvé{% end %} et Tétragramme)
 
 **La méthodologie de décodage substantielle**. Le cadre substantiel opère à travers un engagement textuel systématique substantiel :
 
@@ -545,7 +540,7 @@ La Bible hébraïque opère comme fondement source-textuel substantiel pour les 
 
 ### Les diverses entrées textuelles
 
-La Bible hébraïque opère comme contexte textuel-traditionnel substantiel pour diverses autres entrées textuelles lorsqu'elles seront rédigées : {% wiki(slug="tetragrammaton") %}Tétragramme{% end %}, diverses entités textuelles ultérieures hellénistiques-juives et de tradition chrétienne, diverses entités textuelles de tradition islamique.
+La Bible hébraïque opère comme contexte textuel-traditionnel substantiel pour diverses autres entrées textuelles lorsqu'elles seront rédigées : Tétragramme, diverses entités textuelles ultérieures hellénistiques-juives et de tradition chrétienne, diverses entités textuelles de tradition islamique.
 
 ### L'entrée Apocalypse
 
@@ -577,7 +572,7 @@ Le Coran substantiel opère comme texte canonique substantiel de tradition islam
 
 ### Bible hébraïque vs Livre de Mormon
 
-Le Livre de Mormon substantiel opère comme texte canonique substantiel mormon LDS enregistrant un contenu parallèle substantiel avec la Bible hébraïque substantielle tout en opérant à partir d'une tradition culturelle-religieuse distincte. La relation est celle d'un **contenu-parallèle-substantiel-avec-cadrage-traditionnel-distinct-substantiel**. L'engagement substantiel du cadre avec le Livre de Mormon substantiel opère substantivement (traité principalement dans l'entrée {% wiki(slug="joseph-smith") %}Joseph Smith{% end %} lorsqu'elle sera rédigée et le contenu corpus mormon LDS plus large) mais substantiellement séparément de l'engagement substantiel avec la Bible hébraïque.
+Le Livre de Mormon substantiel opère comme texte canonique substantiel mormon LDS enregistrant un contenu parallèle substantiel avec la Bible hébraïque substantielle tout en opérant à partir d'une tradition culturelle-religieuse distincte. La relation est celle d'un **contenu-parallèle-substantiel-avec-cadrage-traditionnel-distinct-substantiel**. L'engagement substantiel du cadre avec le Livre de Mormon substantiel opère substantivement (traité principalement dans l'entrée Joseph Smith lorsqu'elle sera rédigée et le contenu corpus mormon LDS plus large) mais substantiellement séparément de l'engagement substantiel avec la Bible hébraïque.
 
 ### Bible hébraïque vs textes apocryphes et pseudépigraphiques
 

@@ -33,7 +33,6 @@ see_also = [
     { title = "המקרא העברי", path = "/wiki/hebrew-bible/", description = "המקור הכתבי העיקרי לנרטיב עדן." },
     { title = "המקרא", path = "/wiki/bible/", description = "המסורת הטקסטואלית הרחבה יותר בתוכה משומר ספר בראשית." },
     { title = "החתימה הכפולה", path = "/wiki/doubled-signature/", description = "עקרון הקורפוס לפיו מסורות תרבותיות רושמות זיכרון של אירועים היסטוריים תשתיתיים." },
-    { title = "העברים", path = "/wiki/hebrews/", description = "הצאצאים הגנטיים הישירים של האנשים הראשונים שסונתזו על ידי צוות ישראל." },
 ]
 
 footnotes = [

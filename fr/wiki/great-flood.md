@@ -26,8 +26,6 @@ see_also = [
     { title = "Éden", path = "/wiki/eden/", description = "Le laboratoire alliancier originaire dont la lignée fut prolongée par la civilisation antédiluvienne." },
     { title = "Bible hébraïque", path = "/wiki/hebrew-bible/", description = "La source scripturaire principale du récit du Déluge." },
     { title = "Genèse", path = "/wiki/genesis/", description = "Le livre biblique contenant le récit du Déluge (Genèse 6-9)." },
-    { title = "Atra-ḫasīs", path = "/wiki/atra-hasis/", description = "Le récit babylonien du déluge étroitement parallèle au récit hébreu." },
-    { title = "Épopée de Gilgamesh", path = "/wiki/epic-of-gilgamesh/", description = "Le récit mésopotamien du déluge dans la tablette XI." },
     { title = "Sodome et Gomorrhe", path = "/wiki/sodom-and-gomorrah/", description = "Un événement de frappe analogue postérieur dont le mécanisme est structurellement similaire." },
     { title = "Babel", path = "/wiki/babel/", description = "L'épisode post-diluvien de dispersion civilisationnelle." },
     { title = "Signature doublée", path = "/wiki/doubled-signature/", description = "Le principe du corpus selon lequel la tradition mondiale du déluge préserve la mémoire historique sous-jacente." },
@@ -569,7 +567,7 @@ Le corpus lit l'*Atra-ḫasīs* comme préservant une mémoire fragmentaire subs
 
 **L'*Eridu Genesis* sumérien** préserve la plus ancienne version connue du récit du déluge, avec Ziusudra (« vie de longs jours ») comme figure parallèle. Le récit sumérien, fragmentaire dans sa forme préservée, consigne substantiellement les mêmes éléments narratifs que les traditions akkadiennes et hébraïques ultérieures. La Liste royale sumérienne se divise en sections pré-déluvienne et post-déluvienne, les rois antédiluviens recevant des règnes substantiellement étendus (certains règnes consignés excédant 28 000 ans) avant que le Déluge ne réduise les durées de vie humaines aux figures plus conventionnelles de la période post-déluvienne.
 
-Le matériel mésopotamien du déluge est traité plus pleinement dans les entrées {% wiki(slug="atra-hasis") %}Atra-ḫasīs{% end %} et {% wiki(slug="epic-of-gilgamesh") %}Épopée de Gilgamesh{% end %} (lorsqu'elles seront écrites).
+Le matériel mésopotamien du déluge est traité plus pleinement dans les entrées Atra-ḫasīs et Épopée de Gilgamesh (lorsqu'elles seront écrites).
 
 ### Le récit grec de Deucalion
 

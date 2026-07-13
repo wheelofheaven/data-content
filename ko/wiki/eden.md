@@ -33,7 +33,6 @@ see_also = [
     { title = "히브리어 성경", path = "/wiki/hebrew-bible/", description = "에덴 서사의 주요 성경 자료." },
     { title = "성경", path = "/wiki/bible/", description = "창세기가 보존되어 있는 더 넓은 본문 전통." },
     { title = "이중 서명", path = "/wiki/doubled-signature/", description = "문화적 전통이 기저의 역사적 사건에 대한 기억을 기록하는 코퍼스의 원리." },
-    { title = "히브리인", path = "/wiki/hebrews/", description = "이스라엘 팀이 합성한 최초의 인간들의 직접적 유전 후손." },
 ]
 
 footnotes = [

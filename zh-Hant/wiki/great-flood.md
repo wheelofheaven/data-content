@@ -26,8 +26,6 @@ see_also = [
     { title = "伊甸", path = "/wiki/eden/", description = "洪水前文明所延續譜系的原初聯盟實驗室。" },
     { title = "希伯來聖經", path = "/wiki/hebrew-bible/", description = "洪水敘事的主要經典來源。" },
     { title = "創世記", path = "/wiki/genesis/", description = "包含洪水記載的聖經之書（創世記6–9章）。" },
-    { title = "Atra-ḫasīs", path = "/wiki/atra-hasis/", description = "與希伯來記載密切平行的巴比倫洪水敘事。" },
-    { title = "吉爾伽美什史詩", path = "/wiki/epic-of-gilgamesh/", description = "美索不達米亞洪水記載見於第十一塊泥版。" },
     { title = "所多瑪與蛾摩拉", path = "/wiki/sodom-and-gomorrah/", description = "機制結構上相似的較晚類比性打擊事件。" },
     { title = "巴別", path = "/wiki/babel/", description = "洪水後的文明分散事件。" },
     { title = "雙重簽章", path = "/wiki/doubled-signature/", description = "語料庫原則：全球洪水傳統保留底層歷史記憶。" },
@@ -569,7 +567,7 @@ note = "洪水敘事的主要經典來源；條目通篇的主要解讀焦點。
 
 **蘇美《埃利都創世記》** 保存了已知最早版本的洪水敘事，以 Ziusudra（「長日之生」）為平行人物。蘇美記載的保存形式雖殘缺，仍記錄了與後來阿卡德與希伯來傳統實質相同的敘事元素。蘇美王表分為洪水前與洪水後段，洪水前諸王獲得實質延長的在位期（某些記錄之在位期超過28,000年），洪水則將人類壽命縮減至洪水後時期更常規之數字。
 
-美索不達米亞洪水材料於 {% wiki(slug="atra-hasis") %}Atra-ḫasīs{% end %} 與 {% wiki(slug="epic-of-gilgamesh") %}吉爾伽美什史詩{% end %} 條目（待撰）中有更完整的處理。
+美索不達米亞洪水材料於 Atra-ḫasīs 與 吉爾伽美什史詩 條目（待撰）中有更完整的處理。
 
 ### 希臘 Deucalion 敘事
 

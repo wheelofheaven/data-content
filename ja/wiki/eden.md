@@ -33,7 +33,6 @@ see_also = [
     { title = "ヘブライ語聖書", path = "/wiki/hebrew-bible/", description = "エデン物語の主要な聖書典拠。" },
     { title = "聖書", path = "/wiki/bible/", description = "創世記が保存されているより広範な本文伝統。" },
     { title = "二重署名", path = "/wiki/doubled-signature/", description = "文化的諸伝統が基底にある歴史的事象の記憶を保存する仕方を扱う文献集の原理。" },
-    { title = "ヘブライ人", path = "/wiki/hebrews/", description = "イスラエル・チームによって合成された最初の人類の直系の遺伝的子孫。" },
 ]
 
 footnotes = [

@@ -26,7 +26,6 @@ see_also = [
     { title = "Moisés", path = "/wiki/moses/", description = "Primero de los mensajeros nombrados que recorre el canon." },
     { title = "Jesús", path = "/wiki/jesus/", description = "El principal mensajero de la era de Piscis; El papel de Cristo se articula en torno al Evangelio de Mateo." },
     { title = "Mahoma", path = "/wiki/muhammad/", description = "El mensajero coránico; el canon dialoga directamente con las suras 21, 54 y 56." },
-    { title = "Hebreos", path = "/wiki/hebrews/", description = "El linaje cuya tradición textual aporta el cuerpo de referencia más amplio del canon." },
     { title = "Apocalipsis", path = "/wiki/apocalypse/", description = "La lectura del Apocalipsis desarrollada en Las nuevas revelaciones." },
     { title = "El molino de Hamlet", path = "/wiki/hamlets-mill/", description = "Lectura mitológico-precesional intercultural adyacente al argumento de los «vestigios» del canon." },
     { title = "Firma doble", path = "/wiki/doubled-signature/", description = "El principio del corpus por el cual el canon y sus textos de referencia convergen sobre la misma realidad subyacente." },
@@ -178,7 +177,7 @@ El canon nombra una nómina de figuras religiosas, históricas y tradicionales, 
 - **{% wiki(slug="moses") %}Moisés{% end %}**
 - **{% wiki(slug="elijah") %}Elías{% end %}** (transliterado *EliYah* en algunas citas)
 - **{% wiki(slug="jesus") %}Jesús{% end %}**
-- **{% wiki(slug="buddha") %}Buda{% end %}** — con una breve semblanza biográfica en *Los extraterrestres me llevaron a su planeta*, capítulo *Budismo*.
+- **Buda** — con una breve semblanza biográfica en *Los extraterrestres me llevaron a su planeta*, capítulo *Budismo*.
 - **{% wiki(slug="muhammad") %}Mahoma{% end %}** — en cuyos escritos se dice que al líder de los Elohim se le llamó *Alá* «por respeto».
 - **Joseph Smith** — nombrado junto a los cuatro anteriores en *Una religión atea*.
 

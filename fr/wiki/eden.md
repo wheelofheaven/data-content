@@ -33,7 +33,6 @@ see_also = [
     { title = "Bible hébraïque", path = "/wiki/hebrew-bible/", description = "La source scripturaire principale du récit d'Éden." },
     { title = "Bible", path = "/wiki/bible/", description = "La tradition textuelle plus large dans laquelle la Genèse est conservée." },
     { title = "Signature redoublée", path = "/wiki/doubled-signature/", description = "Le principe du corpus selon lequel les traditions culturelles enregistrent la mémoire d'événements historiques sous-jacents." },
-    { title = "Hébreux", path = "/wiki/hebrews/", description = "Les descendants génétiques directs des premiers humains synthétisés par l'équipe Israël." },
 ]
 
 footnotes = [

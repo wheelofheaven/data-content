@@ -26,7 +26,6 @@ see_also = [
     { title = "Mose", path = "/wiki/moses/", description = "Der erste der im gesamten Kanon namentlich genannten Boten." },
     { title = "Jesus", path = "/wiki/jesus/", description = "Der zentrale Bote des Fische-Zeitalters; Die Rolle Christi ist um das Matthäusevangelium herum aufgebaut." },
     { title = "Mohammed", path = "/wiki/muhammad/", description = "Der koranische Bote; der Kanon befasst sich direkt mit den Suren 21, 54 und 56." },
-    { title = "Hebräer", path = "/wiki/hebrews/", description = "Die Linie, deren Texttradition den größten Referenzbestand des Kanons liefert." },
     { title = "Apokalypse", path = "/wiki/apocalypse/", description = "Die Lesart der Offenbarung, entwickelt in Die neuen Offenbarungen." },
     { title = "Hamlets Mühle", path = "/wiki/hamlets-mill/", description = "Kulturübergreifende mythologisch-präzessionale Lesart, die dem Spurenargument des Kanons benachbart ist." },
     { title = "Doppelte Signatur", path = "/wiki/doubled-signature/", description = "Das Korpusprinzip, nach dem der Kanon und seine Bezugstexte auf dieselbe zugrundeliegende Wirklichkeit konvergieren." },
@@ -178,7 +177,7 @@ Der Kanon nennt eine Liste historischer und traditioneller religiöser Persönli
 - **{% wiki(slug="moses") %}Mose{% end %}**
 - **{% wiki(slug="elijah") %}Elia{% end %}** (in einigen Zitaten als *EliYah* transliteriert)
 - **{% wiki(slug="jesus") %}Jesus{% end %}**
-- **{% wiki(slug="buddha") %}Buddha{% end %}** — in *Außerirdische brachten mich auf ihren Planeten*, Kapitel *Buddhismus*, mit einer kurzen biographischen Skizze versehen.
+- **Buddha** — in *Außerirdische brachten mich auf ihren Planeten*, Kapitel *Buddhismus*, mit einer kurzen biographischen Skizze versehen.
 - **{% wiki(slug="muhammad") %}Mohammed{% end %}** — in dessen Schriften der Anführer der Elohim „aus Respekt“ *Allah* genannt worden sein soll.
 - **Joseph Smith** — in *Eine atheistische Religion* zusammen mit den vier Genannten aufgeführt.
 

@@ -26,8 +26,6 @@ see_also = [
     { title = "Eden", path = "/wiki/eden/", description = "Das ursprüngliche Allianz-Labor, dessen Linie die vorsintflutliche Zivilisation fortsetzte." },
     { title = "Hebräische Bibel", path = "/wiki/hebrew-bible/", description = "Die wichtigste schriftliche Quelle für die Sintflut-Erzählung." },
     { title = "Genesis", path = "/wiki/genesis/", description = "Das biblische Buch, das den Sintflut-Bericht enthält (Genesis 6–9)." },
-    { title = "Atra-ḫasīs", path = "/wiki/atra-hasis/", description = "Die babylonische Sintflut-Erzählung, eng parallel zum hebräischen Bericht." },
-    { title = "Gilgamesch-Epos", path = "/wiki/epic-of-gilgamesh/", description = "Der mesopotamische Sintflut-Bericht in Tafel XI." },
     { title = "Sodom und Gomorra", path = "/wiki/sodom-and-gomorrah/", description = "Ein späteres analoges Schlag-Ereignis mit strukturell ähnlichem Mechanismus." },
     { title = "Babel", path = "/wiki/babel/", description = "Die nachsintflutliche zivilisatorische Zerstreuungsepisode." },
     { title = "Doppelte Signatur", path = "/wiki/doubled-signature/", description = "Das Korpus-Prinzip, nach dem die globale Sintflut-Tradition die zugrundeliegende historische Erinnerung bewahrt." },
@@ -569,7 +567,7 @@ Der Korpus liest das *Atra-ḫasīs* als Bewahrung substantieller fragmentarisch
 
 **Die sumerische *Eridu-Genesis*** bewahrt die früheste bekannte Version der Sintflut-Erzählung, mit Ziusudra („Leben langer Tage") als paralleler Figur. Der sumerische Bericht, fragmentarisch in seiner überlieferten Form, verzeichnet im Wesentlichen die gleichen narrativen Elemente wie die späteren akkadischen und hebräischen Traditionen. Die sumerische Königsliste teilt sich in vor- und nachsintflutliche Abschnitte auf, wobei die vorsintflutlichen Könige substantiell verlängerte Regierungszeiten erhalten (einige verzeichnete Regierungszeiten überschreiten 28.000 Jahre), bevor die Sintflut die menschlichen Lebensspannen auf die konventionelleren Zahlen der nachsintflutlichen Periode reduziert.
 
-Das mesopotamische Sintflut-Material wird eingehender in den Einträgen {% wiki(slug="atra-hasis") %}Atra-ḫasīs{% end %} und {% wiki(slug="epic-of-gilgamesh") %}Gilgamesch-Epos{% end %} (sobald geschrieben) behandelt.
+Das mesopotamische Sintflut-Material wird eingehender in den Einträgen Atra-ḫasīs und Gilgamesch-Epos (sobald geschrieben) behandelt.
 
 ### Die griechische Deukalion-Erzählung
 

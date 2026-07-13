@@ -33,7 +33,6 @@ see_also = [
     { title = "Hebräische Bibel", path = "wiki/hebrew-bible", description = "Die wichtigste schriftliche Quelle für die Eden-Erzählung." },
     { title = "Bibel", path = "wiki/bible", description = "Die weitere Texttradition, in der die Genesis bewahrt ist." },
     { title = "Doppelte Signatur", path = "wiki/doubled-signature", description = "Das Korpus-Prinzip, nach dem kulturelle Traditionen die Erinnerung an zugrundeliegende historische Ereignisse bewahren." },
-    { title = "Hebräer", path = "wiki/hebrews", description = "Die direkten genetischen Nachkommen der vom Israel-Team synthetisierten ersten Menschen." },
 ]
 
 footnotes = [

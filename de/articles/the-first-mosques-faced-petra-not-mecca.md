@@ -61,7 +61,7 @@ Werk des kanadischen Forschers Dan Gibson, über zwei Jahrzehnte zusammengetrage
 und als *Early Islamic Qiblas* (2017) und *Let the Stones Speak* (2023)
 veröffentlicht — tun das sehr viele von ihnen nicht. Etwa das erste islamische
 Jahrhundert lang weisen ihre Qibla-Wände nicht zu der hidschazenischen Stadt, die
-heute {% wiki(slug="mecca") %}Mekka{% end %} genannt wird. Sie weisen nach Norden,
+heute Mekka genannt wird. Sie weisen nach Norden,
 auf {% wiki(slug="petra") %}Petra{% end %}, die verlassene nabatäische Hauptstadt
 in den Sandsteinschluchten des südlichen Jordaniens.
 

@@ -33,7 +33,6 @@ see_also = [
     { title = "Biblia Hebrea", path = "/wiki/hebrew-bible/", description = "La principal fuente escrituraria de la narrativa del Edén." },
     { title = "Biblia", path = "/wiki/bible/", description = "La tradición textual más amplia dentro de la cual se conserva el Génesis." },
     { title = "Firma duplicada", path = "/wiki/doubled-signature/", description = "El principio del corpus por el cual las tradiciones culturales registran memoria de eventos históricos subyacentes." },
-    { title = "Hebreos", path = "/wiki/hebrews/", description = "Los descendientes genéticos directos de los primeros humanos sintetizados por el equipo Israel." },
 ]
 
 footnotes = [

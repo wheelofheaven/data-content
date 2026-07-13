@@ -26,7 +26,6 @@ see_also = [
     { title = "Moïse", path = "/wiki/moses/", description = "Premier des messagers nommés énumérés dans le canon." },
     { title = "Jésus", path = "/wiki/jesus/", description = "Le principal messager de l'âge des Poissons ; Le Rôle du Christ est construit autour de l'Évangile de Matthieu." },
     { title = "Mahomet", path = "/wiki/muhammad/", description = "Le messager coranique ; le canon engage directement les sourates 21, 54 et 56." },
-    { title = "Hébreux", path = "/wiki/hebrews/", description = "La lignée dont la tradition textuelle fournit le plus vaste corpus de référence du canon." },
     { title = "Apocalypse", path = "/wiki/apocalypse/", description = "La lecture de l'Apocalypse développée dans Les Nouvelles Révélations." },
     { title = "Le Moulin d'Hamlet", path = "/wiki/hamlets-mill/", description = "Lecture mythologico-précessionnelle interculturelle adjacente à l'argument des traces du canon." },
     { title = "Signature dédoublée", path = "/wiki/doubled-signature/", description = "Le principe selon lequel le canon et ses textes de référence convergent vers la même réalité sous-jacente." },
@@ -178,7 +177,7 @@ Le canon nomme un répertoire de figures religieuses historiques et traditionnel
 - **{% wiki(slug="moses") %}Moïse{% end %}**
 - **{% wiki(slug="elijah") %}Élie{% end %}** (translittéré *EliYah* dans certaines citations)
 - **{% wiki(slug="jesus") %}Jésus{% end %}**
-- **{% wiki(slug="buddha") %}Bouddha{% end %}** — qui reçoit une brève esquisse biographique dans *Les Extra-terrestres m'ont emmené sur leur planète*, chapitre *Bouddhisme*.
+- **Bouddha** — qui reçoit une brève esquisse biographique dans *Les Extra-terrestres m'ont emmené sur leur planète*, chapitre *Bouddhisme*.
 - **{% wiki(slug="muhammad") %}Mahomet{% end %}** — dans les écrits duquel le chef des Élohim aurait été appelé *Allah* « par respect ».
 - **Joseph Smith** — nommé aux côtés des quatre précédents dans *Une Religion Athée*.
 

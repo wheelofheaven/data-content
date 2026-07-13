@@ -61,8 +61,8 @@ l'œuvre du chercheur canadien Dan Gibson, assemblée sur deux décennies et pub
 sous les titres *Early Islamic Qiblas* (2017) et *Let the Stones Speak* (2023) —
 un grand nombre d'entre elles ne pointent pas là où la tradition dit qu'elles le
 devraient. Pendant environ le premier siècle de l'islam, leurs murs de qibla ne
-font pas face à la ville du Hedjaz aujourd'hui appelée {% wiki(slug="mecca") %}La
-Mecque{% end %}. Ils font face au nord, vers {% wiki(slug="petra") %}Pétra{% end %},
+font pas face à la ville du Hedjaz aujourd'hui appelée La
+Mecque. Ils font face au nord, vers {% wiki(slug="petra") %}Pétra{% end %},
 la capitale nabatéenne abandonnée dans les gorges de grès du sud de la Jordanie.
 
 Voilà une affirmation, et elle est contestée. Ce qui la rend digne d'un long
