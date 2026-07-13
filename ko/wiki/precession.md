@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 featured_order = 5
-redirect_to = { title = "세계의 시대", path = "/ko/wiki/world-age/" }
+redirect_to = { title = "세계의 시대", path = "wiki/world-age" }
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 featured_order = 6
-redirect_to = { title = "עידן עולם", path = "/he/wiki/world-age/" }
+redirect_to = { title = "עידן עולם", path = "wiki/world-age" }
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"

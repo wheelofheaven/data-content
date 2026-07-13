@@ -19,21 +19,21 @@ image_alt = "Eine malerische Ansicht eines umschlossenen Flusstalgartens im Morg
 image_caption = "Eden als Ort — der umschlossene Garten der vier Flüsse aus Genesis 2."
 
 see_also = [
-    { title = "Adam und Eva", path = "/de/wiki/adam-and-eve/", description = "Die beiden ersten Menschen, die in den Garten gesetzt wurden." },
-    { title = "Baum des Lebens", path = "/de/wiki/tree-of-life/", description = "Einer der beiden benannten Bäume im Zentrum des Gartens." },
-    { title = "Baum der Erkenntnis von Gut und Böse", path = "/de/wiki/tree-of-the-knowledge-of-good-and-evil/", description = "Der andere benannte Baum — der mit dem Verbot." },
-    { title = "Schlange", path = "/de/wiki/serpent/", description = "Die Figur, die den Bruch des Gartenzustands einleitet." },
-    { title = "Genesis", path = "/de/wiki/genesis/", description = "Der Text, in dem die Gartenerzählung verortet ist." },
-    { title = "Elohim", path = "/de/wiki/elohim/", description = "Die zivilisatorische Bezeichnung der Allianz, deren Israel-Team in der Eden-Region operierte." },
-    { title = "Jahwe", path = "/de/wiki/yahweh/", description = "Die Ratsführer-Figur, deren Politik die Siedlung nach Eden strukturierte." },
-    { title = "Luzifer", path = "/de/wiki/lucifer/", description = "Der Anführer der dissidenten Fraktion, dessen Offenbarung die Genesis-3-Episode hervorbrachte." },
-    { title = "Vorsintflutlich", path = "/de/wiki/antediluvian/", description = "Die vorsintflutliche Periode, in der sich die weitere Eden-Zivilisation entwickelte." },
-    { title = "Pangaea", path = "/de/wiki/pangaea/", description = "Der vorsintflutliche Superkontinent, auf dem Eden lag." },
-    { title = "Sintflut", path = "/de/wiki/great-flood/", description = "Das Ereignis im Zeitalter der Zwillinge, das Edens operative Periode beendete." },
-    { title = "Hebräische Bibel", path = "/de/wiki/hebrew-bible/", description = "Die wichtigste schriftliche Quelle für die Eden-Erzählung." },
-    { title = "Bibel", path = "/de/wiki/bible/", description = "Die weitere Texttradition, in der die Genesis bewahrt ist." },
-    { title = "Doppelte Signatur", path = "/de/wiki/doubled-signature/", description = "Das Korpus-Prinzip, nach dem kulturelle Traditionen die Erinnerung an zugrundeliegende historische Ereignisse bewahren." },
-    { title = "Hebräer", path = "/de/wiki/hebrews/", description = "Die direkten genetischen Nachkommen der vom Israel-Team synthetisierten ersten Menschen." },
+    { title = "Adam und Eva", path = "wiki/adam-and-eve", description = "Die beiden ersten Menschen, die in den Garten gesetzt wurden." },
+    { title = "Baum des Lebens", path = "wiki/tree-of-life", description = "Einer der beiden benannten Bäume im Zentrum des Gartens." },
+    { title = "Baum der Erkenntnis von Gut und Böse", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "Der andere benannte Baum — der mit dem Verbot." },
+    { title = "Schlange", path = "wiki/serpent", description = "Die Figur, die den Bruch des Gartenzustands einleitet." },
+    { title = "Genesis", path = "wiki/genesis", description = "Der Text, in dem die Gartenerzählung verortet ist." },
+    { title = "Elohim", path = "wiki/elohim", description = "Die zivilisatorische Bezeichnung der Allianz, deren Israel-Team in der Eden-Region operierte." },
+    { title = "Jahwe", path = "wiki/yahweh", description = "Die Ratsführer-Figur, deren Politik die Siedlung nach Eden strukturierte." },
+    { title = "Luzifer", path = "wiki/lucifer", description = "Der Anführer der dissidenten Fraktion, dessen Offenbarung die Genesis-3-Episode hervorbrachte." },
+    { title = "Vorsintflutlich", path = "wiki/antediluvian", description = "Die vorsintflutliche Periode, in der sich die weitere Eden-Zivilisation entwickelte." },
+    { title = "Pangaea", path = "wiki/pangaea", description = "Der vorsintflutliche Superkontinent, auf dem Eden lag." },
+    { title = "Sintflut", path = "wiki/great-flood", description = "Das Ereignis im Zeitalter der Zwillinge, das Edens operative Periode beendete." },
+    { title = "Hebräische Bibel", path = "wiki/hebrew-bible", description = "Die wichtigste schriftliche Quelle für die Eden-Erzählung." },
+    { title = "Bibel", path = "wiki/bible", description = "Die weitere Texttradition, in der die Genesis bewahrt ist." },
+    { title = "Doppelte Signatur", path = "wiki/doubled-signature", description = "Das Korpus-Prinzip, nach dem kulturelle Traditionen die Erinnerung an zugrundeliegende historische Ereignisse bewahren." },
+    { title = "Hebräer", path = "wiki/hebrews", description = "Die direkten genetischen Nachkommen der vom Israel-Team synthetisierten ersten Menschen." },
 ]
 
 footnotes = [
