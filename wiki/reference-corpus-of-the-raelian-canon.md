@@ -26,7 +26,6 @@ see_also = [
     { title = "Moses", path = "/wiki/moses/", description = "First of the named messengers listed across the canon." },
     { title = "Jesus", path = "/wiki/jesus/", description = "The principal Piscean-age messenger; The Role of Christ is built around the Gospel of Matthew." },
     { title = "Muhammad", path = "/wiki/muhammad/", description = "The Qur'anic messenger; the canon engages Suras 21, 54, and 56 directly." },
-    { title = "Hebrews", path = "/wiki/hebrews/", description = "The lineage whose textual tradition supplies the canon's largest reference body." },
     { title = "Apocalypse", path = "/wiki/apocalypse/", description = "The Revelation reading developed in The New Revelations." },
     { title = "Hamlet's Mill", path = "/wiki/hamlets-mill/", description = "Cross-cultural mythological-precessional reading adjacent to the canon's traces argument." },
     { title = "Doubled Signature", path = "/wiki/doubled-signature/", description = "The corpus principle by which the canon and its reference texts converge on the same underlying reality." },

@@ -22,13 +22,8 @@ see_also = [
     { title = "Great Flood", path = "/wiki/great-flood/", description = "The Age-of-Gemini event central to the Hebrew Bible's primeval history." },
     { title = "Moses", path = "/wiki/moses/", description = "The principal post-flood prophet whose mission produced the Torah corpus." },
     { title = "Abraham", path = "/wiki/abraham/", description = "The patriarchal-period reconstruction figure central to the Hebrew Bible narrative." },
-    { title = "Documentary Hypothesis", path = "/wiki/documentary-hypothesis/", description = "The principal mainstream historical-critical framework for Pentateuchal composition." },
-    { title = "Hebrews", path = "/wiki/hebrews/", description = "The Eden-lineage genealogical descendants whose tradition produced the textual corpus." },
     { title = "Doubled Signature", path = "/wiki/doubled-signature/", description = "The corpus principle by which the Hebrew Bible registers underlying historical reality." },
     { title = "Reference Corpus of the Raëlian Canon", path = "/wiki/reference-corpus-of-the-raelian-canon/", description = "The principal Raëlian source corpus that operates as canonical reading lens." },
-    { title = "Septuagint", path = "/wiki/septuagint/", description = "The principal Greek translation of the Hebrew Bible." },
-    { title = "Dead Sea Scrolls", path = "/wiki/dead-sea-scrolls/", description = "The substantial manuscript evidence for the Hebrew Bible's textual transmission." },
-    { title = "Masoretic Text", path = "/wiki/masoretic-text/", description = "The principal vocalised Hebrew textual tradition." },
     { title = "The Archdeacon and the Dragon", path = "/articles/the-archdeacon-and-the-dragon/", description = "The redaction / monotheizing-edit thread the article develops, from Hezekiah to Ezra." },
 ]
 

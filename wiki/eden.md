@@ -33,7 +33,6 @@ see_also = [
     { title = "Hebrew Bible", path = "/wiki/hebrew-bible/", description = "The principal scriptural source for the Eden narrative." },
     { title = "Bible", path = "/wiki/bible/", description = "The broader textual tradition within which Genesis is preserved." },
     { title = "Doubled Signature", path = "/wiki/doubled-signature/", description = "The corpus principle by which cultural traditions register memory of underlying historical events." },
-    { title = "Hebrews", path = "/wiki/hebrews/", description = "The direct genetic descendants of the Israel-team-synthesised first humans." },
 ]
 
 footnotes = [
