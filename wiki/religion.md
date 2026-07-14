@@ -412,6 +412,8 @@ The corpus does not require rejecting all of the mainstream explanatory framewor
 
 ## See also
 
+- [Monotheism](../monotheism/)
+- [Idolatry](../idolatry/)
 - [Wheel of Heaven](../wheel-of-heaven/)
 - [Elohim](../elohim/)
 - [Yahweh](../yahweh/)
@@ -434,6 +436,8 @@ The corpus does not require rejecting all of the mainstream explanatory framewor
 - [Muhammad](../muhammad/)
 - [Buddha](../buddha/)
 - [Jean Sendy](../jean-sendy/)
+- [Monotheism Is the Wrong Question](/articles/monotheism-is-the-wrong-question/)
+- [The Religion of Religions](/articles/the-religion-of-religions/)
 
 ## References
 
