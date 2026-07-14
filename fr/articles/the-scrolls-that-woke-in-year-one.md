@@ -81,8 +81,10 @@ rangées de hautes jarres d'argile, la plupart vides, l'une contenant des
 paquets enveloppés de lin noirci par l'âge. Les paquets étaient de cuir,
 et le cuir était couvert d'écriture.
 
-John Collins, dont la « biographie » des manuscrits, publiée par
-Princeton, est le récit court le plus posé de ce qui s'ensuivit, prend
+John J. Collins — l'universitaire de Yale spécialiste du judaïsme du
+Second Temple dont la « biographie » des manuscrits, publiée par
+Princeton, est le récit court le plus posé de ce qui s'ensuivit, et sur
+les lectures duquel cet article s'appuie d'un bout à l'autre — prend
 soin avec cette scène : les versions qu'edh-Dhib raconta plus tard ne
 concordent pas entre elles, et le résidu sobre se réduit à ceci, que des
 membres de la tribu Ta'amireh prirent trois manuscrits dans une grotte au

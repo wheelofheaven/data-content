@@ -81,9 +81,10 @@ de altas tinajas de barro, la mayoría vacías, una de ellas con fardos
 envueltos en lino ennegrecido por la edad. Los fardos eran de cuero, y
 el cuero estaba cubierto de escritura.
 
-John Collins, cuya «biografía» de los rollos publicada en Princeton es
-el relato breve más ecuánime de lo que siguió, es cuidadoso con esta
-escena: las versiones que edh-Dhib contó después discrepan entre sí, y
+John J. Collins —el estudioso del judaísmo del Segundo Templo en Yale
+cuya «biografía» de los rollos publicada en Princeton es el relato breve
+más ecuánime de lo que siguió, y en cuyas lecturas se apoya este
+artículo de principio a fin— es cuidadoso con esta escena: las versiones que edh-Dhib contó después discrepan entre sí, y
 el residuo sobrio es tan solo que unos beduinos ta'amireh sacaron tres
 rollos de una cueva al sur de Jericó «en algún momento de finales de
 1946 o principios de 1947». Incluso el residuo sobrio es

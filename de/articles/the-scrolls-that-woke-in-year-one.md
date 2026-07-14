@@ -81,8 +81,10 @@ Reihen hoher Tonkrüge, die meisten leer, einer mit Bündeln, gehüllt in
 alterschwarz gewordenes Leinen. Die Bündel waren aus Leder, und das
 Leder war mit Schrift bedeckt.
 
-John Collins, dessen Princeton-„Biographie" der Rollen der besonnenste
-kurze Bericht über das Folgende ist, geht behutsam mit dieser Szene um:
+John J. Collins — der Yale-Gelehrte des Judentums des Zweiten Tempels,
+dessen Princeton-„Biographie" der Rollen der besonnenste kurze Bericht
+über das Folgende ist und auf dessen Lesarten sich dieser Artikel
+durchgehend stützt — geht behutsam mit dieser Szene um:
 Die Fassungen, die edh-Dhib später erzählte, widersprechen einander,
 und der nüchterne Bodensatz besteht nur darin, dass Taʿamireh-Stammes\-
 angehörige drei Rollen aus einer Höhle südlich von Jericho nahmen,

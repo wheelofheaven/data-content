@@ -79,9 +79,10 @@ pottery.{{ footnote(id="2") }} Inside the cave stood rows of tall clay
 jars, most empty, one holding bundles wrapped in linen gone black with
 age. The bundles were leather, and the leather was covered in writing.
 
-John Collins, whose Princeton "biography" of the scrolls is the most
-level-headed short account of what followed, is careful with this
-scene: the versions edh-Dhib told later disagree with each other, and
+John J. Collins — the Yale scholar of Second Temple Judaism whose
+Princeton "biography" of the scrolls is the most level-headed short
+account of what followed, and whose readings this article leans on
+throughout — is careful with this scene: the versions edh-Dhib told later disagree with each other, and
 the sober residue is only that Ta'amireh tribesmen took three scrolls
 from a cave south of Jericho "some time in late 1946 or early 1947."
 Even the sober residue is remarkable enough. The three bundles were a
