@@ -18,6 +18,7 @@ see_also = [
     { title = "Prophet", path = "wiki/prophet", description = "The messenger role through which the creator-created link is periodically renewed." },
     { title = "Plurality of Gods", path = "wiki/plurality-of-gods", description = "The reading the link-maintenance traditions are said to preserve across cultures." },
     { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "A principal textual tradition preserving the link-maintenance content." },
+    { title = "The Religion of Religions", path = "articles/the-religion-of-religions", description = "Reads Raëlism's 'atheistic religion' self-definition through the religare etymology and the young universalist family." },
 ]
 
 [extra.infobox]
@@ -412,8 +413,6 @@ The corpus does not require rejecting all of the mainstream explanatory framewor
 
 ## See also
 
-- [Monotheism](../monotheism/)
-- [Idolatry](../idolatry/)
 - [Wheel of Heaven](../wheel-of-heaven/)
 - [Elohim](../elohim/)
 - [Yahweh](../yahweh/)
@@ -436,8 +435,6 @@ The corpus does not require rejecting all of the mainstream explanatory framewor
 - [Muhammad](../muhammad/)
 - [Buddha](../buddha/)
 - [Jean Sendy](../jean-sendy/)
-- [Monotheism Is the Wrong Question](/articles/monotheism-is-the-wrong-question/)
-- [The Religion of Religions](/articles/the-religion-of-religions/)
 
 ## References
 

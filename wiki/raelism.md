@@ -19,6 +19,7 @@ see_also = [
     { title = "Embassy", path = "wiki/embassy", description = "The diplomatic compound the movement seeks to build for the Elohim's official return." },
     { title = "Geniocracy", path = "wiki/geniocracy", description = "The political system Raël proposes — rule by the demonstrably intelligent." },
     { title = "Paradism", path = "wiki/paradism", description = "The post-scarcity economic vision Raël proposes for a fully automated society." },
+    { title = "The Religion of Religions", path = "articles/the-religion-of-religions", description = "Audits every scholarly label the movement has been given and reads it beside the Bahá'í Faith, Oomoto, and Cao Đài." },
 ]
 timeline = ["aquarius"]
 

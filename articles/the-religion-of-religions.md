@@ -3,7 +3,7 @@ title = "The Religion of Religions"
 description = "Yahweh named the category himself in 1975: 'the religion of religions… an atheistic religion.' Fifty years of scholarship has been testing that label."
 template = "articles-page.html"
 date = 2026-07-05
-draft = true
+draft = false
 
 [extra]
 claim_type = "inferred"
@@ -24,7 +24,7 @@ references = [
     # — Other primary Raëlian works —
     { title = "La Géniocratie (English: Geniocracy: Government of the People, for the People, by the Geniuses, trans. Wenner & Ponty, Nova Distribution, 2008) — the political manifesto: the 10%/50% franchise thresholds, the Geneva appeal, the near-total absence of the Elohim from the main text", author = "Raël (Claude Vorilhon)", date = "1977" },
     { title = "Yes to Human Cloning: Eternal Life Thanks to Science (the three-stage eternal-life doctrine; the aquarium-machine eyewitness passage; the 55,000-members-in-84-countries cover datum)", author = "Raël", date = "2001" },
-    { title = "The Maitreya: Extracts From His Teachings (the Buddhist framing performed rather than argued; 'If Jesus or Buddha were here today, they would be Raelian')", author = "Raël", date = "2004" },
+    { title = "The Maitreya: Extracts From His Teachings (the Buddhist framing performed rather than argued; 'If Jesus or Buddha were here today, they would be Raelian')", author = "Raël", date = "2003" },
     { title = "Le racisme religieux financé par le gouvernement socialiste (the anticult polemic: the rouelle cover device, the Vivien bill, the UNADFI subsidies, 'La «secte», c'est la religion des autres')", author = "Raël", date = "1992" },
 
     # — The comparanda, in the project's translations —

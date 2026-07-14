@@ -18,6 +18,7 @@ see_also = [
     { title = "Muhammad", path = "wiki/muhammad", description = "One of the founding prophets whose tradition the catalogue classifies and cross-references." },
     { title = "Moses", path = "wiki/moses", description = "One of the founding prophets whose tradition the catalogue classifies and cross-references." },
     { title = "Elohim", path = "wiki/elohim", description = "The civilization whose contacts the framework reads behind the authentic traditions listed." },
+    { title = "The Religion of Religions", path = "articles/the-religion-of-religions", description = "Sets three of the catalogue's tier-two universalisms — Bahá'í, Oomoto, Cao Đài — beside Raëlism in their own words." },
 ]
 portrait_id = "prophetic-lineage"
 image = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.webp"
