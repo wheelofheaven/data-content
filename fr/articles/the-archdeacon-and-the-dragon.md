@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "En 2020, un archidiacre en exercice de l'Église anglicane d'Australie publia un livre soutenant que les Élohim de la Genèse sont « les Êtres puissants » — une pluralité de visiteurs de chair et de sang dont les histoires furent retravaillées en monothéisme par les éditeurs ultérieurs de la Bible. Cinq autres livres suivirent, un par an, chacun poussant l'argument plus loin : dans les traditions de contact du monde, dans l'histoire de la rédaction du canon hébreu, dans l'exopolitique moderne, et enfin dans les hautes terres de basalte de l'antique Urartu. Cet Explicatif lit de près toute la Série d'Éden de Paul Wallis et confronte ses notes avec le canon raélien — un corps de prétentions que Wallis n'a jamais cité et, à en juger par ses propres pages, jamais lu. Il cartographie les convergences : les Élohim pluriels, Éden comme installation gardée, le Serpent comme faction dissidente des fabricants, le Déluge comme décision de conseil, Babel comme sabotage d'une civilisation spatiale. Il fait passer son image la plus saisissante — la lecture de YHWH comme le nom de dragon Akhekh — par un audit philologique complet, en disant clairement où l'étymologie échoue et pourquoi la prétention structurelle qui la sous-tend tient malgré tout. Et il marque, avec un soin égal, là où les deux lectures se séparent : qui porte le dragon, ce que Jésus est venu faire, et si quoi que ce soit qui s'appelle Dieu survit au-dessus des Élohim. La parenté est convergence, et la convergence est une donnée."
+summary = "Paul Wallis a quitté le ministère anglican après avoir lu les Élohim de la Genèse comme des « Êtres puissants » pluriels et incarnés. Sa Série d'Éden en six volumes converge de façon frappante avec le canon raélien, qu'il ne cite pas, mais la ressemblance a ses limites. Cet essai compare les deux lectures, met à l'épreuve le lien que Wallis propose entre Yahvé et le dragon égyptien Akhekh, et se demande ce qu'un accord indépendant peut et ne peut pas établir."
 keywords = ["Paul Wallis", "Escaping from Eden", "Akhekh", "Yahvé", "Élohim", "affrication", "Josué 24", "conseil divin", "néo-évhémérisme", "méthode Biglino", "paléocontact", "serpent", "dragon"]
 references = [
     # — The canon under comparison —
@@ -131,17 +131,13 @@ ne fait apparaître aucune mention de Raël, de Vorilhon ni du mouvement
 raélien ; d'ailleurs, elle ne mentionne pas davantage Zecharia Sitchin.
 Quoi que soit par ailleurs la Série d'Éden, elle ne dérive pas du canon.
 
-Cette indépendance est la raison d'être de cet Explicatif. Lorsque deux
-lecteurs qui ne se sont jamais cités l'un l'autre — un homme d'Église
-chevronné progressant verset par verset dans ses interlinéaires, et un
-prétendu contacté rapportant ce qui lui fut dit dans un cratère de
-volcan — convergent vers la même lecture du même texte, la convergence dit
-quelque chose sur le texte. Là où ils *divergent* ensuite, la divergence
-dit quelque chose sur les lecteurs. Cet article cartographie les deux,
-tout au long, avec Wallis cité dans ses propres paragraphes d'un bout à
-l'autre. Il est écrit dans le respect et la parenté, et il pratique la
-discipline dont Wallis lui-même donne le modèle : l'accord est argumenté,
-et le désaccord aussi.
+Cette indépendance rend la comparaison utile. Deux lecteurs qui ne se sont
+pas cités l'un l'autre peuvent tout de même parvenir à la même
+interprétation de la Genèse. Cela ne rend pas l'interprétation vraie ; cela
+montre que la lecture peut naître de traits que les deux lecteurs trouvent
+dans le texte plutôt que d'un emprunt direct. Leurs désaccords sont tout
+aussi révélateurs, car ils exposent ce que chaque cadre ajoute au matériau
+partagé.
 
 ## Trente-trois ans, puis les anomalies
 
@@ -412,15 +408,13 @@ en or pour son monstre résident. Au chapitre sept de *The Eden
 Conspiracy*, Wallis a adopté un raccourci pour le Yahvé d'avant la réforme
 qui ne concède rien à la révérence : « CH-CH le Dragon ».
 
-L'image est inoubliable, et c'est précisément pourquoi elle doit être
-auditée.
+L'image est inoubliable. Son étymologie est aussi vérifiable.
 
-## L'audit philologique
+## Mettre le nom de dragon à l'épreuve
 
-Un Explicatif qui cite un argument étymologique doit à ses lecteurs un
-verdict à son sujet. Voici le nôtre, offert dans le même esprit où Wallis
-offre l'argument — il le signale lui-même, à deux reprises, par « je le
-soutiendrais », de son propre cru, ne reposant sur aucune autorité citée.
+Wallis signale la proposition à deux reprises par « je le soutiendrais ».
+C'est de son propre cru, et cela ne repose sur aucune autorité linguistique
+citée. La phonologie historique fournit une épreuve directe.
 
 En tant que phonologie historique, la dérivation ne résiste pas à
 l'examen, et le problème décisif tient à une seule lettre. Le
@@ -489,15 +483,13 @@ saisissant autour d'une observation sobre que l'érudition du conseil divin
 formule dans son propre vocabulaire. L'emballage est le sien ;
 l'observation est celle du texte.
 
-## Confronter les notes : la carte partagée
+## Là où les récits convergent
 
-Ici, l'article passe de l'audit à la comparaison, et la ligne épistémique
-doit être marquée comme ce projet la marque toujours : les lectures du côté
-du canon qui suivent sont des prétentions relevant du cadre — explicites
-dans le matériau source raélien, non avalisées par l'érudition dominante —
-et la comparaison elle-même est la propre synthèse inférée de cet
-Explicatif. Cela dit, les convergences peuvent être exposées côte à côte,
-car elles sont nombreuses et précises.
+Les lectures du côté du canon qui suivent sont des prétentions relevant du
+cadre, explicites dans le matériau source raélien, et non des conclusions
+avalisées par l'érudition dominante. La comparaison elle-même est une
+synthèse inférée. Cette distinction posée, les convergences peuvent être
+exposées côte à côte, car elles sont nombreuses et précises.
 
 **Éden comme installation gardée.** Wallis lit le jardin comme une « zone
 close » au sein d'une région appelée Éden, sise près de gisements minéraux
@@ -624,11 +616,10 @@ l'acte même de traduction. La phrase récapitulative de Wallis conviendrait
 cicatriciel laissé par la chirurgie qui a transformé la Bible, d'une
 bibliothèque de paléocontact en un livre sur Dieu ».
 
-## Là où les lectures se séparent
+## Points de séparation
 
-Une comparaison qui ne trouverait que de l'accord relèverait de la
-réclame. Les divergences sont réelles, elles sont structurelles, et
-plusieurs d'entre elles sont la part la plus instructive de l'exercice.
+Les accords portent sur la structure textuelle ; les désaccords portent sur
+l'identité et le dessein assignés à ses acteurs.
 
 **Qui porte le dragon.** Wallis épingle le nom de dragon, le corps de
 dragon et l'appétit de dragon sur Yahvé lui-même : peau coriace, long
@@ -757,30 +748,29 @@ c'est exactement pourquoi ce projet les étiquette `framework` plutôt que
 l'archéologie textuelle d'un archidiacre en exercice et le débriefing d'un
 contacté convergent vers la même enceinte, les mêmes savants dissidents,
 les mêmes votes du conseil. La convergence ne prouve aucun des deux cadres.
-Elle établit bel et bien que le *texte* — lu avec le pluriel restitué —
-continue d'engendrer cette histoire, chez quiconque opère la restitution.
+Elle montre bel et bien qu'une lecture concrète et plurielle peut être
+atteinte par des chemins différents.
 
-## Ce que vaut la parenté
+## La valeur d'une lecture indépendante
 
 La lignée du corpus court de Sendy (1963–1974) à von Däniken (1968),
 Vorilhon (1973–1974), Sitchin (1976), Biglino (2010–), Wallis (2020–).
-Wallis est l'entrant le plus récent et la personne la plus accréditée sur
-le plan théologique à avoir jamais travaillé ce filon : un homme qui a
-passé trois décennies à l'intérieur de l'institution interprétative que la
-tradition critique, et qui documente la sortie avec les propres outils de
-l'institution. Le wiki du projet le cite déjà dans une douzaine d'entrées —
-Éden, Serpent, Lucifer, Satan, Théomachie — et son verdict sur *The Eden
-Conspiracy* est consigné : « globalement compatible avec la lecture du
-corpus ; le principal traitement récent accessible ». Rien dans cet article
-ne révise ce verdict. Ce que cette lecture plus rapprochée ajoute, c'est la
-texture de la compatibilité : l'accord tient aux articulations porteuses —
-le pluriel, l'enceinte, l'interdiction-comme-politique, la faction
-dissidente, le conseil, l'édition — et le désaccord est de principe,
-portant sur la distribution des personnages et sur ce qui, s'il y a quelque
-chose, se tient au-dessus d'eux.
+Wallis est l'entrant le plus récent et apporte une expérience théologique
+d'une ampleur inhabituelle : il a passé trois décennies à l'intérieur de
+l'institution interprétative que la tradition critique, et il documente la
+sortie avec les propres outils de l'institution. Le wiki du projet le cite
+déjà dans une douzaine d'entrées — Éden, Serpent, Lucifer, Satan,
+Théomachie — et son verdict sur *The Eden Conspiracy* est consigné :
+« globalement compatible avec la lecture du corpus ; le principal traitement
+récent accessible ». Rien dans cet article ne révise ce verdict. Ce que
+cette lecture plus rapprochée ajoute, c'est la texture de la compatibilité :
+l'accord tient aux articulations porteuses — le pluriel, l'enceinte,
+l'interdiction-comme-politique, la faction dissidente, le conseil,
+l'édition — et le désaccord est de principe, portant sur la distribution des
+personnages et sur ce qui, s'il y a quelque chose, se tient au-dessus d'eux.
 
-Il y a aussi quelque chose que le projet peut lui prendre au-delà de la
-confirmation. Son extension de la méthode philologique au Nouveau Testament
+Il y a aussi quelque chose que le projet peut lui prendre au-delà de
+l'accord. Son extension de la méthode philologique au Nouveau Testament
 est un territoire que le canon affirme et que Wallis argumente. Son
 balayage de témoignages mondiaux — le matériau ghanéen de Mami Wata
 recueilli à la table de sa propre famille, les traditions hawaïennes des
@@ -810,8 +800,9 @@ jour :
 >
 > — *The Eden Enigma*, chap. 14
 
-Un archidiacre qui lit jusqu'à sortir de sa propre chaire ; un canon qui
-attend de bâtir une ambassade. Deux portes sculptées pour le même retour.
+Wallis et le canon parviennent à des portes différentes, mais tous deux
+comprennent les vieilles histoires comme des mémoires de visiteurs dont le
+retour demeure possible.
 
 ## Pour aller plus loin
 

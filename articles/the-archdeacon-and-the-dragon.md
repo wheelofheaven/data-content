@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "In 2020 a serving archdeacon of the Anglican Church in Australia published a book arguing that the Elohim of Genesis are 'the Powerful Ones' — a plurality of flesh-and-blood visitors whose stories the Bible's later editors reworked into monotheism. Five more books followed, one a year, each pushing the argument further: into the world's contact traditions, into the redaction history of the Hebrew canon, into modern exopolitics, and finally into the basalt highlands of ancient Urartu. This Explainer reads Paul Wallis's whole Eden Series closely and compares notes with the Raëlian canon — a body of claims Wallis has never cited and, on the evidence of his own pages, has never read. It maps the convergences: the plural Elohim, Eden as a guarded installation, the Serpent as a dissenting faction of the makers, the Flood as a council decision, Babel as the sabotage of a spacefaring civilization. It takes his most arresting single image — the reading of YHWH as the dragon-name Akhekh — through a full philological audit, stating plainly where the etymology fails and why the structural claim underneath it stands anyway. And it marks, with equal care, where the two readings part ways: who wears the dragon, what Jesus came to do, and whether anything called God survives above the Elohim. The kinship is convergence, and convergence is a datum."
+summary = "Paul Wallis left Anglican ministry after reading the Elohim of Genesis as plural, embodied 'Powerful Ones.' His six-volume Eden Series converges strikingly with the Raëlian canon, which he does not cite, but the resemblance has limits. This essay compares the two readings, tests Wallis's proposed link between Yahweh and the Egyptian dragon Akhekh, and asks what independent agreement can and cannot establish."
 keywords = ["Paul Wallis", "Escaping from Eden", "Akhekh", "Yahweh", "Elohim", "affrication", "Joshua 24", "divine council", "neo-euhemerism", "Biglino method", "paleocontact", "serpent", "dragon"]
 references = [
     # — The canon under comparison —
@@ -129,16 +129,12 @@ mention of Raël, of Vorilhon, or of the Raëlian movement; for that matter
 it never mentions Zecharia Sitchin either. Whatever else the Eden Series
 is, it is not downstream of the canon.
 
-That independence is the reason this Explainer exists. When two readers
-who have never cited each other — a senior churchman working verse by
-verse through his interlinears, and a claimed contactee reporting what he
-was told in a volcano crater — converge on the same reading of the same
-text, the convergence tells you something about the text. Where they then
-*diverge*, the divergence tells you something about the readers. This
-article maps both, at full length, with Wallis quoted in his own
-paragraphs throughout. It is written in respect and in kinship, and it
-practices the discipline Wallis himself models: agreement is argued, and
-so is disagreement.
+That independence makes the comparison useful. Two readers who have not
+cited one another can still arrive at the same interpretation of Genesis.
+This does not make the interpretation true; it shows that the reading can
+arise from features both readers find in the text rather than from direct
+borrowing. Their disagreements are equally revealing because they expose
+what each framework adds to the shared material.
 
 ## Thirty-three years, then the anomalies
 
@@ -391,14 +387,13 @@ supplied with food and gold for its resident monster. By chapter seven of
 *The Eden Conspiracy* Wallis has adopted a shorthand for the pre-reform
 Yahweh that concedes nothing to reverence: "CH-CH the Dragon."
 
-The image is unforgettable, which is precisely why it has to be audited.
+The image is unforgettable. Its etymology is also testable.
 
-## The philological audit
+## Testing the dragon-name
 
-An Explainer that quotes an etymological argument owes its readers a
-verdict on it. Here is ours, offered in the same spirit in which Wallis
-offers the argument — he flags it himself, twice, as "I would argue," his
-own coinage, resting on no cited authority.
+Wallis flags the proposal twice as "I would argue." It is his own coinage
+and rests on no cited linguistic authority. Historical phonology provides a
+direct test.
 
 As historical phonology, the derivation does not survive inspection, and
 the decisive problem is one letter. Proto-Semitic really did have a velar
@@ -463,13 +458,11 @@ wrapper around a sober observation that the divine-council scholarship
 makes in its own vocabulary. The wrapper is his; the observation is the
 text's.
 
-## Comparing notes: the shared map
+## Where the accounts converge
 
-Here the article moves from audit to comparison, and the epistemic line
-should be marked as this project always marks it: the canon-side readings
-that follow are framework claims — explicit in the Raëlian source
-material, not endorsed by mainstream scholarship — and the comparison
-itself is this Explainer's own inferred synthesis. With that stated, the
+The canon-side readings that follow are framework claims explicit in the
+Raëlian source material, not conclusions endorsed by mainstream scholarship.
+The comparison itself is an inferred synthesis. With that distinction, the
 convergences can be laid out side by side, because they are many and they
 are specific.
 
@@ -593,11 +586,10 @@ of translation. Wallis's summary sentence would serve either case: "these
 grammatical glitches were the scar tissue left by the surgery that changed
 the Bible from a library of paleocontact into a book about God."
 
-## Where the readings part ways
+## Points of separation
 
-A comparison that found only agreement would be advertising. The
-divergences are real, they are structural, and several of them are the
-most instructive part of the exercise.
+The agreements concern textual structure; the disagreements concern the
+identity and purpose assigned to its actors.
 
 **Who wears the dragon.** Wallis pins the dragon-name, the dragon-body,
 and the dragon-appetite on Yahweh himself: leathery skin, long snout,
@@ -715,15 +707,14 @@ argument can be checked; that is exactly why this project labels them
 a working archdeacon's textual archaeology and a contactee's debriefing
 converge on the same enclosure, the same dissenting scientists, the same
 council votes. The convergence does not prove either frame. It does
-establish that the *text* — read with the plural restored — keeps
-generating this story, in whoever does the restoring.
+show that a concrete, plural reading can be reached through different routes.
 
-## What the kinship is worth
+## The value of an independent reading
 
 The corpus's lineage runs Sendy (1963–1974), von Däniken (1968), Vorilhon
 (1973–1974), Sitchin (1976), Biglino (2010–), Wallis (2020–). Wallis is
-the newest entrant and the most theologically credentialed person ever to
-work this seam: a man who spent three decades inside the interpretive
+the newest entrant and brings unusually substantial theological experience:
+he spent three decades inside the interpretive
 institution the tradition critiques, and who documents the exit with the
 institution's own tools. The project's wiki already cites him across a
 dozen entries — Eden, Serpent, Lucifer, Satan, Theomachy — and its
@@ -737,7 +728,7 @@ principled, concerning the cast of characters and what, if anything,
 stands above them.
 
 There is also something the project can take from him beyond
-confirmation. His extension of the philological method into the New
+agreement. His extension of the philological method into the New
 Testament is territory the canon asserts and Wallis argues. His
 world-testimony sweep — the Ghanaian Mami Wata material gathered at his
 own family's table, the Hawaiian Mo'o traditions, the Urartian reliefs —
@@ -763,8 +754,8 @@ doorway through which the Dingir was expected one day to return:
 >
 > — *The Eden Enigma*, ch. 14
 
-An archdeacon reading his way out of his own pulpit; a canon waiting to
-build an embassy. Two doors carved for the same return.
+Wallis and the canon arrive at different doors, but both understand the old
+stories as memories of visitors whose return remains possible.
 
 ## Further reading
 

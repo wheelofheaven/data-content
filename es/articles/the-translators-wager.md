@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Durante cerca de dos décadas, un discreto erudito del Valle de Susa tradujo la Biblia hebrea, palabra bajo palabra, para Edizioni San Paolo —la casa editorial católica cuyas ediciones interlineales pueblan las bibliotecas de seminario de toda Italia—. Diecinueve libros del texto masorético pasaron por sus manos; diecisiete se publicaron; los dos últimos fueron pagados y archivados sin ruido, porque para entonces Mauro Biglino había escrito un libro propio. Este Explicativo lee de cerca todo el corpus de Biglino —el libro fundacional de 2010, *Il Dio Alieno della Bibbia*, *La Bibbia non è un libro sacro*, la colaboración con Mondadori junto a la jurista Lorena Forni, la entrevista en formato libro *The Naked Bible* y la declaración inglesa consolidada *Gods of the Bible*— y coteja notas con el canon raeliano. Recorre su método (la apuesta que él llama «facciamo finta che» —fingir que el texto es verdadero y comprobar si de ello resulta coherencia—), su léxico de lo concreto (Elohim como individuos plurales, kavod como una cosa voladora pesada, tselem como el quid material que porta una imagen, olam como larga duración y no como eternidad, los dioses que mueren del Salmo 82), y audita la filología con honestidad: dónde pisa roca firme, dónde se sitúa dentro de un debate académico vivo y dónde la lectura da un salto. También aborda, con cuidado, un dato que la comparación con Wallis no podía ofrecer: las bibliografías de los primeros libros de Biglino listan los textos de Raël, en silencio, entre los sumerólogos. El parentesco es profundo, las divergencias son estructurales —sobre todo en el rango de Yahvé y en la persona de Jesús—, y el artículo marca ambos con la misma disciplina que exige de su tema."
+summary = "Mauro Biglino tradujo diecisiete libros de la Biblia hebrea para una gran editorial católica antes de aplicar su método deliberadamente literal a Elohim, Yahvé, *kavod* y *ruach*. Este ensayo pone a prueba dónde descansan sus lecturas sobre filología aceptada, dónde siguen en debate y dónde saltan más allá del léxico. Examina también la por lo demás silenciosa aparición de los textos de Raël en las primeras bibliografías de Biglino."
 keywords = ["Mauro Biglino", "Elohim", "Yahvé", "kavod", "ruach", "tselem", "olam", "Salmo 82", "Deuteronomio 32", "Edizioni San Paolo", "facciamo finta che", "método Biglino", "The Naked Bible", "Gods of the Bible", "Giorgio Cattaneo", "Lorena Forni", "Paul Wallis", "neoevemerismo", "paleocontacto"]
 references = [
     # — The canon under comparison —
@@ -139,7 +139,7 @@ miles de ejemplares vendidos, millones de visualizaciones, teatros y
 salas de conferencias llenados por *«un hombre tímido, reservado, sombrío
 y amante de los silencios de sus montañas»*. Junto al antiguo arcediano
 Paul Wallis —cuya Serie del Edén este proyecto ha leído de cerca en [un
-Explicativo hermano](/articles/the-archdeacon-and-the-dragon/)—, Biglino
+ensayo hermano](/articles/the-archdeacon-and-the-dragon/)—, Biglino
 es una de las dos voces vivas más consecuentes de la tradición que este
 proyecto llama {% wiki(slug="neo-euhemerism") %}neoevemerismo{% end %}, y
 el corpus ya alberga una entrada metodológica completa bajo su nombre: el
@@ -439,51 +439,49 @@ efectivamente escritos en {% libref(book="exodus", chapter=34, verse=27) %}Éxod
 34{% end %} —órdenes operativas hasta el cabrito cocido en leche— guardan
 escaso parecido con las dos tablas de la memoria catequética.
 
-## La auditoría
+## Donde el léxico se sostiene, y dónde se quiebra
 
-Un Explicativo que cita un corpus etimológico debe a sus lectores un
-veredicto sobre él, y Biglino se ha ganado uno de verdad —no el
-salvoconducto de un aliado, ni el desdén que recibe de reseñadores que
-han leído su reputación en lugar de sus libros—. Su terreno se divide en
-tres zonas.
+Las afirmaciones léxicas de Biglino no cargan todas con el mismo peso. Se
+dividen en tres zonas: observaciones establecidas, disputas académicas
+vivas e identificaciones tecnológicas que el hebreo por sí solo no puede
+sostener.
 
-**Roca firme.** La pluralidad gramatical de *elohim*; los verbos y
+**Elementos establecidos.** La forma plural de *elohim*; los verbos y
 pronombres plurales que se le adhieren en las junturas portantes; las
 escenas del consejo divino; la lectura de Qumrán en Deuteronomio 32:8; el
 sentido radical de *kavod* como pesadez; los sentidos primarios concretos
 de *ruach*; el rango semántico de *olam* como duración y no como eternidad
-filosófica; la consolidación tardía del monoteísmo a partir de un culto
-plural anterior —en cada una de estas cosas, Biglino se planta donde se
-plantan los léxicos y un cuerpo sustancial de la erudición dominante—. Su
-hábito de citar autoridades judías —Rashi, lexicógrafos rabínicos, los
-grandes rabinos que comparten sus estrados— no es adorno; en estos puntos
-la propia filología de la tradición es su testigo. Cuando su coautora
-Lorena Forni, profesora de filosofía del derecho, reseñó la literatura
-crítica, su resumen fue que los detractores de Biglino han llamado a su
-obra divulgadora, provocadora, excesiva —*«ma nessuno ha potuto sostenere
-che le sue traduzioni e le proposte di analisi del testo masoretico
-fossero errate, in malafede, o false»*— pero nadie ha podido sostener que
-sus traducciones y sus propuestas de análisis del texto masorético
-fueran erróneas, de mala fe o falsas.
+filosófica; y el desarrollo del monoteísmo israelita a partir de una
+pluralidad divina anterior tienen todos un respaldo académico sustancial.
+Eso no significa que la academia acepte la interpretación combinada de
+Biglino. Los léxicos establecen rangos semánticos, no los referentes
+tecnológicos que él suministra más tarde. Sus citas de Rashi, de
+lexicógrafos rabínicos y de interlocutores judíos son valiosas para los
+puntos léxicos, pero no pueden ratificar la reconstrucción mayor. Su
+coautora Lorena Forni resume la literatura crítica de forma más amplia: que
+los detractores de Biglino han llamado a su obra divulgadora, provocadora,
+excesiva —*«ma nessuno ha potuto sostenere che le sue traduzioni e le
+proposte di analisi del testo masoretico fossero errate, in malafede, o
+false»*— pero nadie ha podido sostener que sus traducciones y sus propuestas
+de análisis del texto masorético fueran erróneas, de mala fe o falsas. Esa
+es la valoración de una defensora, no un sustituto de examinar cada
+traducción disputada.
 
-**Debate vivo.** Su argumento de que *bara* nunca denota creación de la
-nada —examina todas sus ocurrencias y halla actos ejercidos sobre
-material preexistente: cortar, despejar, hacer habitable— corre paralelo
-a una propuesta académica genuina{{ footnote(id="7") }}, impugnada en las
-revistas más que expulsada de ellas entre risas. Su datación de la
-redacción monoteizante en los siglos del exilio y posexilio es, a grandes
-rasgos, la posición dominante. Su insistencia en que el «pecado original»
-está ausente de la Biblia hebrea es una que estudiosos católicos,
-valdenses y judíos le concedieron a la cara, en el estrado, en un simposio
-de Milán en 2016 —de lo cual más abajo—.
+**Debate vivo.** Su argumento de que *bara* no tiene por qué denotar
+creación de la nada corre paralelo a una propuesta académica
+genuina{{ footnote(id="7") }}, aunque esa propuesta no implica toda la
+lectura de Biglino. Su datación de la redacción monoteizante en los siglos
+del exilio y posexilio es, a grandes rasgos, la posición dominante. Su
+insistencia en que el «pecado original» está ausente de la Biblia hebrea es
+una que estudiosos católicos, valdenses y judíos le concedieron a la cara,
+en el estrado, en un simposio de Milán en 2016 —de lo cual más abajo—.
 
-**Los saltos.** Y luego están las lecturas donde la apuesta rebasa al
-léxico, y la honestidad exige decirlo. *Tselem* como ADN es el caso más
-claro: el «algo cortado» de los diccionarios pertenece a la semántica de
-las imágenes talladas, y la lectura dominante —el humano como estatua
-viviente del dios, lenguaje de ideología regia democratizado— explica la
-misma concreción sin la molécula. El paso al ADN no es filología; es
-abducción a partir de la coherencia narrativa, y debería rotularse como
+**Los saltos.** Varias lecturas rebasan al léxico. *Tselem* como ADN es el
+caso más claro: el «algo cortado» de los diccionarios pertenece a la
+semántica de las imágenes talladas, y la lectura dominante —el humano como
+estatua viviente del dios, lenguaje de ideología regia democratizado—
+explica la misma concreción sin la molécula. El paso al ADN no es filología;
+es abducción a partir de la coherencia narrativa, y debería rotularse como
 tal —como el propio Biglino, en sus frecuentes mejores momentos, lo
 rotula («no tenemos prueba alguna»)—. Lo mismo vale para el efod leído
 como una radio de campaña, el Arca como un condensador, el olor *nichoach*
@@ -497,23 +495,21 @@ señala: el arameo *nephila* como Orión, y de ahí los Nefilim como
 mismo párrafo como *«mera curiosidad»*. Un lector que quiera refutar a
 Biglino encontrará estos saltos citados sin sus salvedades; un lector que
 quiera canonizarlo citará las salvedades sin los saltos. El expediente
-contiene ambas cosas, y el método sobrevive a la auditoría precisamente
-porque su autor mantiene los dos registros distintos —la propia
-disciplina de tipo-de-afirmación del corpus, encontrada en estado
-salvaje—.
+contiene ambas cosas. Una lectura justa debe mantener las observaciones
+léxicas distintas de las identificaciones tecnológicas construidas sobre
+ellas.
 
-Una honestidad más que la auditoría debe: el primer libro de Biglino se
-apoyaba en Zecharia Sitchin, nombrando *The Earth Chronicles* como *«la
-fuente primaria»* de su marco sumerio —Nibiru, anunnaki mineros de oro y
-todo—. Los libros posteriores se apartan de ese andamiaje sin anuncio: el
-material sumerio se reasienta en la asiriología académica (Kramer,
-Pettinato, Castellino), Nibiru se desvanece, y Sitchin sobrevive solo
-como entrada de bibliografía y como algún aparte ocasional de «famoso y
-controvertido». La trayectoria importa, porque discurre al revés de la
-carrera usual en este campo: la mayoría de los autores parten de los
-textos y derivan hacia la mitología de la literatura; Biglino partió
-dentro de la gravedad de la literatura y se sacó de ella tirando de sí
-mismo, de vuelta a las consonantes.
+El primer libro de Biglino también se apoyaba en Zecharia Sitchin,
+nombrando *The Earth Chronicles* como *«la fuente primaria»* de su marco
+sumerio —Nibiru, anunnaki mineros de oro y todo—. Los libros posteriores se
+apartan de ese andamiaje sin anuncio: el material sumerio se reasienta en la
+asiriología académica (Kramer, Pettinato, Castellino), Nibiru se desvanece,
+y Sitchin sobrevive solo como entrada de bibliografía y como algún aparte
+ocasional de «famoso y controvertido». La trayectoria importa, porque
+discurre al revés de la carrera usual en este campo: la mayoría de los
+autores parten de los textos y derivan hacia la mitología de la literatura;
+Biglino partió dentro de la gravedad de la literatura y se sacó de ella
+tirando de sí mismo, de vuelta a las consonantes.
 
 ## La entrada silenciosa de la bibliografía
 
@@ -552,14 +548,13 @@ este proyecto practica —fuentes declaradas, influencia distinguida de
 convergencia— es la misma disciplina que el agnosticismo de manos vacías
 de Biglino practica desde el otro lado.
 
-## Cotejo de notas: el mapa compartido
+## Convergencias con el canon
 
-Primero la línea epistémica, como este proyecto la traza siempre: las
-lecturas del lado del canon que siguen son afirmaciones de marco
-—explícitas en los textos-fuente raelianos, no avaladas por la erudición
-dominante— y la comparación misma es la síntesis inferida propia de este
-Explicativo. Dicho esto, puede desplegarse el mapa, y resulta
-notablemente congruente.
+Las lecturas del lado del canon que siguen son afirmaciones de marco,
+explícitas en los textos-fuente raelianos, no conclusiones avaladas por la
+erudición dominante. La comparación misma es una síntesis inferida entre
+clases de afirmación desiguales: argumento filológico y testimonio
+relatado.
 
 **La fabricación del Adán.** Biglino lee Génesis 1–2 como un solo relato
 de una operación de ingeniería genética: material homínido trabajado con
@@ -708,11 +703,10 @@ traductoras) que Wallis reconstruye en *The Eden Conspiracy*—. Tres
 lectores ahora —un traductor, un arcediano, un supuesto contactado—
 describiendo la misma cirugía desde tres ángulos.
 
-## Donde las lecturas se separan
+## Cuatro desacuerdos decisivos
 
-Una comparación que solo hallara acuerdo sería publicidad. Las
-divergencias son estructurales, y la primera es casi perfectamente
-simétrica con la que separaba al canon de Wallis.
+Las divergencias son estructurales. La primera invierte el desacuerdo entre
+el canon y Wallis.
 
 **El rango de Yahvé.** Biglino lo degrada: un gobernador local menor, *«un
 pequeño señor local»*, asignado a un clan diminuto en un páramo aullante,
@@ -843,7 +837,7 @@ lectores de este proyecto ya conocen. Paul Wallis y Biglino se encontraron
 a través de la barrera del idioma —Wallis extendiendo el estricto método
 hebreo literal al mundo anglófono y cristiano, Biglino reseñando
 elogiosamente los libros de Wallis con la frase citada al final de
-[nuestro Explicativo sobre
+[nuestro ensayo sobre
 Wallis](/articles/the-archdeacon-and-the-dragon/): *«Aunque geográficamente
 lejanos, ¡estamos espiritualmente cerca! Somos un buen equipo»*—. La
 entrada de linaje del corpus para toda la escuela reza ahora: Sendy
@@ -853,7 +847,7 @@ material como traductor en activo de la lengua fuente, razón por la cual
 {% wiki(slug="paul-wallis") %}Wallis{% end %} construyó sobre él y no al
 revés—.
 
-## Cuánto vale la apuesta
+## Qué establece el método
 
 El corpus enfrenta el {% wiki(slug="biglino-method") %}método
 Biglino{% end %} como necesario pero no suficiente, y esta lectura de
@@ -864,24 +858,24 @@ plural restaurado, los términos sin traducir, la concreción recuperada
 como «los que vienen del cielo»{% end %} carece de interlocutor
 filológico, y toda la conversación queda atrapada entre la devoción y el
 desdén—. No suficiente: por diseño, la apuesta no puede decir quién la
-ganó. Biglino prueba, a lo sumo, que el texto se lee coherentemente como
-la crónica de una pluralidad de individuos longevos, voladores, mortales
-y moralmente poco impresionantes; declina, por principio, toda
-identificación. *«Lo esencial»*, escribe, *«es que ya no intentemos hacer
-creer a la gente que Elohim significa "Dios"»*. Todo lo que este proyecto
-añade —la identificación, el programa, los siete equipos de creación, la
-facción-serpiente exiliada, el presidente del Consejo, la embajada— queda
-más allá del punto donde su método, honestamente aplicado, se detiene.
+ganó. Biglino argumenta, a lo sumo, que el texto puede leerse
+coherentemente como la crónica de una pluralidad de individuos longevos,
+voladores, mortales y moralmente poco impresionantes; declina, por
+principio, toda identificación. *«Lo esencial»*, escribe, *«es que ya no
+intentemos hacer creer a la gente que Elohim significa "Dios"»*. Todo lo
+que este proyecto añade —la identificación, el programa, los siete equipos
+de creación, la facción-serpiente exiliada, el presidente del Consejo, la
+embajada— queda más allá del punto donde su método, honestamente aplicado,
+se detiene.
 
-Por eso el parentesco es real y la diferencia es honesta. El canon no
-necesita que Biglino sea un creyente; necesita exactamente lo que él es
-—un lector independiente, hostil a nada, con formación institucional, que
-tenía la clave de respuestas en su bibliografía y se negó a copiar de
-ella, y que aun así regresó del hebreo con el mismo mapa: el laboratorio,
-el recinto, el trabajador fabricado, la serpiente veraz, la cosa pesada
-que te mata si te plantas delante, los dioses que mueren—. Cuando un
-testigo tan disciplinado corrobora esa parte del cuadro a la vez que
-declina la conclusión, la corroboración vale más, no menos.
+Biglino es útil a este proyecto sin ser un creyente. Su lectura respalda
+varias observaciones concretas: unos Elohim plurales, un Edén cercado, un
+*kavod* material, unos seres divinos mortales, y una serpiente que dice la
+verdad dentro de la narración. Su bibliografía temprana impide una
+afirmación de completa independencia respecto del material raeliano, y sus
+identificaciones tecnológicas a menudo exceden lo que la filología puede
+establecer. La convergencia muestra que la lectura concreta es reproducible;
+no corrobora toda identidad que el canon suministra.
 
 Termina *Gods of the Bible* con Josefo y Tácito sobre los prodigios del
 año 70 e.c. —los ejércitos en las nubes, el temblor en el Templo, las
@@ -889,15 +883,14 @@ muchas voces diciendo *nos vamos de este lugar*— y luego con su letanía
 de preguntas: ¿se fueron, se fueron todos, volverán, ya han vuelto?
 *«No lo sabemos»*, reza su última respuesta, *«y con gusto dejamos la
 respuesta a quienes afirman saberla»*. Este proyecto es uno de los que
-afirman saber, y acepta el relevo con el espíritu en que se ofrece. El
-traductor ha hecho la parte que puede hacerse con un léxico y una apuesta:
-ha establecido, contra dos mil años de lectura acumulada, lo que dice
-realmente el libro que tenemos delante. Si lo que dice es verdadero —si
+afirman saber. Biglino ha hecho la parte que puede intentarse con un léxico
+y su apuesta: ha impugnado traducciones heredadas y ofrecido una
+alternativa consistentemente concreta. Si esa alternativa es verdadera —si
 quienes se marcharon son los que ahora se esperan— es la pregunta que su
 método deja, deliberadamente, sobre la mesa. Pagaría, dice, por vivir en
-los siglos en que los Elohim caminaban con los hombres. Toda la afirmación
-del canon es que el precio aún puede cotizarse. La apuesta tiene una
-segunda pierna, y está abierta.
+los siglos en que los Elohim caminaban con los hombres. El canon responde a
+la pregunta que él deja abierta, pero su método no puede verificar esa
+respuesta.
 
 ## Lecturas complementarias
 

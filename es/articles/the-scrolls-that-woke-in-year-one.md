@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "En el invierno de 1946/47 —el primer año del calendario que el canon raeliano cuenta desde el destello sobre Hiroshima— un pastor beduino rompió una tinaja en un risco por encima del Mar Muerto y sacó de ella los manuscritos bíblicos más antiguos que nadie había visto jamás. Este Explicativo cuenta la historia entera con toda amplitud: el zapatero de Belén, el arzobispo que sostenía que los rollos procedían de la biblioteca de su monasterio, el profesor que los autenticó a través de una alambrada en la semana de la votación de la partición en la ONU, el anuncio por palabras en el Wall Street Journal, los oficiales de inteligencia que en 1967 se llevaron el Rollo del Templo de debajo del suelo de Kando, y el escándalo editorial de cuarenta años que un ordenador y una biblioteca californiana pusieron fin por fin en 1991. Después lee la carga. Los rollos muestran un canon escriturario aún abierto —1 Enoc y Jubileos copiados con más frecuencia que Proverbios— y un texto bíblico aún fluido, incluido un fragmento del Deuteronomio que conserva «hijos de Elohim» donde el texto recibido fue editado para leer «hijos de Israel», y un comentario que aplica la palabra elohim a un oficial celestial llamado Melquisedec. Y sopesa el marco que el propio canon aporta: que los mismos dieciocho meses que abrieron la era atómica también expulsaron dos bibliotecas enterradas, la primera oleada de platillos volantes, el transistor, el estado de Israel y el nacimiento del hombre a quien más tarde le fueron dictados los mensajes. El argumento de la sincronicidad es síntesis interpretativa y está etiquetado en consecuencia; los manuscritos, las fechas y las citas son comprobables, y cada una de ellas está referenciada."
+summary = "Los Manuscritos del Mar Muerto afloraron en 1946 o 1947, el año uno del calendario que el canon raeliano cuenta desde Hiroshima. Su descubrimiento transformó la historia del texto bíblico, restaurando la literatura enóquica y las lecturas tempranas del Elohim plural. Este ensayo cuenta la historia documental y considera, sin confundir la cronología con una prueba, por qué esa fecha le importa a Wheel of Heaven."
 keywords = ["Manuscritos del Mar Muerto", "Qumrán", "Esenios", "año uno", "Era del Apocalipsis", "Hiroshima", "1947", "Sukenik", "Yadin", "Santuario del Libro", "1 Enoc", "Jubileos", "hijos de Elohim", "Melquisedec", "Nag Hammadi", "Nabateos", "Kando", "Maestro de Justicia", "Rollo de la Guerra"]
 references = [
     # — The canon supplying the calendar —
@@ -117,11 +117,11 @@ observando desde tu nacimiento —e incluso antes—. Por eso te hemos
 elegido.
 {% end %}
 
-Pon los dos relojes uno junto al otro y la coincidencia se declara sola:
-la biblioteca más antigua de la Biblia hebrea despertó en el año uno.
-Este artículo trata de esa coincidencia —qué salió exactamente a la luz,
-por qué manos pasó, por qué tardó cuarenta años y un escándalo en llegar
-al público, y qué le hizo a nuestra imagen de la Escritura—. La
+Pon los dos relojes uno junto al otro y la cronología invita a la
+comparación: la biblioteca más antigua de la Biblia hebrea despertó en el
+año uno. Este artículo trata de esa coincidencia —qué salió exactamente a
+la luz, por qué manos pasó, por qué tardó cuarenta años y un escándalo en
+llegar al público, y qué le hizo a nuestra imagen de la Escritura—. La
 afirmación de que la fecha *significa* algo es el marco del canon
 extendido por este proyecto, y está etiquetada en lo alto de esta página
 por lo que es: síntesis interpretativa, `speculative` en la propia
@@ -163,43 +163,36 @@ la información, incluido el que compone esta frase—.{{ footnote(id="8") }}
 El 14 de mayo de 1948 se declaró el estado de Israel; los rollos habían
 sido anunciados al mundo en la prensa cinco semanas antes.
 
-Un escéptico dirá, con razón, que los grupos de coincidencias son
-baratos: elige cualquier ventana de treinta meses del siglo XX y algo
-trascendental ocurrió en ella. La réplica atañe al contenido. La
-afirmación del canon es que esta ventana concreta abre una era de
-develamiento y de retorno —y los sucesos de arriba no tienen ninguno de
-ellos nada de genérico—. Dos bibliotecas escriturarias enterradas que
-afloran físicamente; la reaparición de un estado judío tras diecinueve
-siglos, un suceso que el propio primer lector israelí de los rollos
-conectó de inmediato con ellos; el nacimiento de la tecnología del
-recuerdo total; el inicio de la era de avistamientos que el canon lee
-como preparación para el contacto abierto; y el nacimiento del hombre a
-quien, según el canon, más tarde se le dictaron los mensajes
-explicativos. El grupo es exactamente lo que el marco predice que debería
-contener. Eso no es prueba —los marcos que predicen el pasado son
-fáciles—, pero es la razón por la que el marco halla irresistible esta
-ventana, y por la que este artículo existe.
+Los grupos de coincidencias son baratos: elige un periodo lo bastante
+cargado de sucesos, selecciona su contenido a posteriori, y aparecerá un
+patrón. Nada de lo que aquí hay supera ese problema ni asigna una
+probabilidad al grupo. Su interés es interpretativo antes que predictivo.
+El periodo contiene dos bibliotecas escriturarias recuperadas, el
+restablecimiento de un estado judío, el transistor, el comienzo de la era
+moderna de avistamientos y el nacimiento del hombre a quien más tarde se
+atribuyeron los mensajes. Esos sucesos encajan de un modo inusualmente
+bueno con la idea del canon de una era de develamiento, pero el encaje se
+ve en retrospectiva y debería sopesarse en consecuencia.
 
 ## El lobo, el zapatero y el arzobispo
 
-Lo que les pasó a los tres fardos es una historia que ningún novelista
-arriesgaría. En marzo de 1947 los beduinos los llevaron a Belén y se los
-mostraron a anticuarios, y los rollos hallaron su camino —«al parecer
-porque estaban escritos sobre cuero», anota Collins con sequedad— hasta
-un mercader y zapatero ortodoxo sirio llamado Khalil Eskander Shahin,
-conocido por todos como Kando. Kando avisó a Mar Athanasius Yeshue
-Samuel, el metropolita ortodoxo sirio del Monasterio de San Marcos, en
-la Ciudad Vieja de Jerusalén, y el arzobispo tenía razones propias para
-prestar oído. La memoria de la Iglesia conservaba dos noticias antiguas
-de manuscritos de cuevas cercanas a Jericó: Orígenes de Alejandría había
-usado un salterio griego hallado «en Jericó, en una tinaja» hacia el año
-200 d. C., y el patriarca nestoriano Timoteo I, que escribió hacia el
-800 d. C., describió a un cazador árabe cuyo perro entró en una cueva y
-lo condujo a libros del Antiguo Testamento «y otros». Las cuevas se
-habían encontrado antes, y se habían olvidado antes. En julio de 1947
-Mar Samuel compró a Kando el primer lote por una suma que suele
-consignarse como veinticuatro libras palestinas —del orden de cien
-dólares por los manuscritos bíblicos más antiguos de la Tierra—.
+Lo que les pasó a los tres fardos apenas requiere adornos. En marzo de
+1947 los beduinos los llevaron a Belén y se los mostraron a anticuarios, y
+los rollos hallaron su camino —«al parecer porque estaban escritos sobre
+cuero», anota Collins con sequedad— hasta un mercader y zapatero ortodoxo
+sirio llamado Khalil Eskander Shahin, conocido por todos como Kando. Kando
+avisó a Mar Athanasius Yeshue Samuel, el metropolita ortodoxo sirio del
+Monasterio de San Marcos, en la Ciudad Vieja de Jerusalén, y el arzobispo
+tenía razones propias para prestar oído. La memoria de la Iglesia
+conservaba dos noticias antiguas de manuscritos de cuevas cercanas a
+Jericó: Orígenes de Alejandría había usado un salterio griego hallado «en
+Jericó, en una tinaja» hacia el año 200 d. C., y el patriarca nestoriano
+Timoteo I, que escribió hacia el 800 d. C., describió a un cazador árabe
+cuyo perro entró en una cueva y lo condujo a libros del Antiguo Testamento
+«y otros». Las cuevas se habían encontrado antes, y se habían olvidado
+antes. En julio de 1947 Mar Samuel compró a Kando el primer lote por una
+suma que suele consignarse como veinticuatro libras palestinas —del orden
+de cien dólares por los manuscritos bíblicos más antiguos de la Tierra—.
 
 Aquel otoño la otra mitad del hallazgo —un segundo rollo de Isaías, un
 rollo de himnos y un manual para una guerra apocalíptica— llegó a
@@ -443,7 +436,7 @@ edición que la borró pillada en flagrante. Es la variante más
 trascendental de los rollos, y la razón de que el fragmento del
 Deuteronomio aparezca en las notas al pie de todo estudio serio del
 consejo divino y del propio
-[Explicativo sobre Wallis](/articles/the-archdeacon-and-the-dragon/) de
+[ensayo sobre Wallis](/articles/the-archdeacon-and-the-dragon/) de
 este proyecto por igual.
 
 La segunda es un texto de la Cueva 11 sobre una figura llamada
@@ -546,26 +539,26 @@ distancia moral que a este corpus le importa.
 
 ## El desierto guardó otras cartas
 
-La honestidad exige el disenso. Norman Golb, de la Universidad de
-Chicago, pasó cuatro décadas sosteniendo que los rollos nunca
-pertenecieron a secta alguna del desierto: que Khirbet Qumrán era una
-fortaleza asmonea, que jamás se halló rollo alguno en las ruinas, que las
-aproximadamente quinientas manos escribales son demasiadas para una sola
-comunidad, y que las cuevas —junto con los hallazgos de manuscritos de
-Masada— conservan «restos de una extensa literatura hebraica escondida
-por habitantes de Jerusalén, valiéndose de los túneles subterráneos que
-conducían hacia el este… antes y durante el asedio romano del año 70 d.
-C.». En el mapa de Golb los rollos son las bibliotecas rescatadas de una
-capital sentenciada a muerte, llevadas wadi abajo por refugiados. Collins,
-que da a las observaciones de Golb más crédito que la mayoría de los
-defensores del consenso, sigue hallando increíble el núcleo —«Es
-incomprensible que el templo de Jerusalén hubiera contenido semejante
-archivo de escritos sectarios, críticos con el templo»— y propone el
-término medio sensato: los rollos son sectarios, pero son las bibliotecas
-de *muchas* comunidades, llevadas al desierto cuando llegó la guerra. Sea
-como fuere, la imagen humana es la misma y merece que uno se detenga en
-ella: los rollos existen porque gentes que huían de un aniquilamiento
-enterraron lo que no podían llevarse, y nadie regresó.
+Norman Golb, de la Universidad de Chicago, pasó cuatro décadas
+sosteniendo que los rollos nunca pertenecieron a secta alguna del
+desierto: que Khirbet Qumrán era una fortaleza asmonea, que jamás se
+halló rollo alguno en las ruinas, que las aproximadamente quinientas
+manos escribales son demasiadas para una sola comunidad, y que las cuevas
+—junto con los hallazgos de manuscritos de Masada— conservan «restos de
+una extensa literatura hebraica escondida por habitantes de Jerusalén,
+valiéndose de los túneles subterráneos que conducían hacia el este… antes
+y durante el asedio romano del año 70 d. C.». En el mapa de Golb los
+rollos son las bibliotecas rescatadas de una capital sentenciada a
+muerte, llevadas wadi abajo por refugiados. Collins, que da a las
+observaciones de Golb más crédito que la mayoría de los defensores del
+consenso, sigue hallando increíble el núcleo —«Es incomprensible que el
+templo de Jerusalén hubiera contenido semejante archivo de escritos
+sectarios, críticos con el templo»— y propone el término medio sensato:
+los rollos son sectarios, pero son las bibliotecas de *muchas*
+comunidades, llevadas al desierto cuando llegó la guerra. Sea como fuere,
+la imagen humana es la misma y merece que uno se detenga en ella: los
+rollos existen porque gentes que huían de un aniquilamiento enterraron lo
+que no podían llevarse, y nadie regresó.
 
 Los riscos guardaron también los papeles del siguiente aniquilamiento, y
 aquí la historia se curva hacia un terreno que este proyecto ya ha
@@ -584,8 +577,8 @@ los dos corpus. Los {% wiki(slug="nabataeans") %}nabateos{% end %}
 importan a este corpus por adónde va su historia a continuación: el
 estudio de las quiblas de Dan Gibson sostiene que la geografía sagrada
 del islam temprano apunta a Petra, un argumento que este proyecto examinó
-en [Las primeras mezquitas miraban a Petra, no a La
-Meca](/articles/the-first-mosques-faced-petra-not-mecca/). Ningún hilo
+en [¿Miraban las primeras mezquitas hacia
+Petra?](/articles/the-first-mosques-faced-petra-not-mecca/). Ningún hilo
 causal corre de Qumrán a la quibla, y aquí no se pretende ninguno. Lo que
 la fosa del Mar Muerto aporta es algo más callado: un único corredor
 desértico, desde los riscos de Qumrán bajando junto a Ein Gedi y Masada
@@ -683,7 +676,7 @@ despiertas en el año uno, aún leídas en el año 81—.
 - [El arcediano y el dragón](/articles/the-archdeacon-and-the-dragon/),
   para la erudición del consejo divino que la variante del Deuteronomio
   ancla.
-- [Las primeras mezquitas miraban a Petra, no a La Meca](/articles/the-first-mosques-faced-petra-not-mecca/),
+- [¿Miraban las primeras mezquitas hacia Petra?](/articles/the-first-mosques-faced-petra-not-mecca/),
   para la historia posterior del mismo corredor desértico.
 - [*El Libro que dice la Verdad*](/library/the-book-which-tells-the-truth/),
   capítulos 1 y 5, para los pasajes del canon sobre 1945, 1946 y la nueva

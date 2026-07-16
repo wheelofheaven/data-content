@@ -1,6 +1,6 @@
 +++
-title = "Die ersten Moscheen waren nach Petra ausgerichtet, nicht nach Mekka"
-description = "Eine Lektüre der frühen Qibla, des Schweigens des Ptolemäus, der unregelmäßigen Kaaba bei al-Azraqī und der nabatäischen Grammatik des Korans als ein einziges Argument: dass der Islam als die Hanafiyya begann, die wiedergewonnene Religion Abrahams, in Petra."
+title = "Waren die ersten Moscheen nach Petra ausgerichtet?"
+description = "Eine Prüfung von Dan Gibsons Petra-Hypothese anhand der frühen Qiblas, der antiken Geographie Arabiens, der nabatäischen Sprache und des islamischen Anspruchs, die Religion Abrahams wiederherzustellen."
 template = "articles-page.html"
 date = 2026-07-01
 draft = false
@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Etwa das erste islamische Jahrhundert lang sind die Moscheen nicht nach Mekka ausgerichtet. In Dan Gibsons Vermessung der ältesten datierbaren Heiligtümer weisen ihre Qibla-Wände nach Norden — auf Petra, die verlassene nabatäische Hauptstadt im südlichen Jordanien. Diese eine archäologische Behauptung steht im Zentrum einer Konvergenz: Mekka fehlt auf der Arabienkarte des Ptolemäus; die frühesten Kaaba-Maße beschreiben ein unregelmäßiges vierseitiges Bauwerk, das zu einem Altar in Petra passt, nicht zu einem Würfel; die Grammatik und die Schrift des Korans stammen vom nabatäischen Aramäisch ab, nicht von irgendeinem hidschazenischen Beduinendialekt; und die frühesten Quellen nennen die neue Religion nicht „Islam“, sondern die *Ḥanīfiyyah* — „die Religion Abrahams“. Dieser Explainer arbeitet jeden Strang der Reihe nach durch, gibt dem wichtigsten Kritiker (David A. King) eine eigene Stimme und liest dann das Ganze durch den Rahmen von Wheel of Heaven: als eine weitere Drehung des abrahamitischen Wiederherstellungszyklus, den das Korpus bereits verfolgt — eine Bewegung, die sich selbst ausdrücklich als die Wiedergewinnung einer verlorenen ursprünglichen Religion durch die Linie Hagars und Ismaels verstand."
+summary = "Dan Gibson argumentiert, dass sich viele frühe Moscheeausrichtungen besser durch Petra als durch Mekka erklären lassen. Der Vorschlag bleibt umstritten, besonders beim Historiker David A. King, doch er eröffnet eine weitere Untersuchung des nabatäischen Arabien und der Selbstdarstellung des Islam als wiederhergestellte Religion Abrahams. Dieser Essay trennt jene gut bezeugte Wiederherstellungsbehauptung von der eher mutmaßlichen Verlagerung der heiligen Geographie des Islam."
 keywords = ["Petra", "Mekka", "Qibla", "Dan Gibson", "Hanafiyya", "Nabatäer", "Religion Abrahams", "koranisches Arabisch", "Ursprünge des Islam", "Ismael"]
 references = [
     { id = "the-book-which-tells-the-truth", locator = "Kapitel ‚Die Wahrheit‘, ‚Das Opfer Abrahams‘ (Abraham als geprüfte, rekrutierte Gestalt der Wiederherstellung)" },
@@ -49,41 +49,28 @@ footnotes = [
 ]
 +++
 
-Eine Gebetsrichtung ist etwas Falsifizierbares. Eine Moschee ist ein Gebäude;
-ihre *qibla*{{ footnote(id="1") }}-Wand hat einen Azimut; dieser Azimut lässt sich
-mit einem Kompass und einer Satellitenortung messen und mit der Großkreis-Peilung
-zu jedem beliebigen Punkt der Erde vergleichen. Anders als eine Lehre lässt sich
-eine Wand nicht in Übereinstimmung umdeuten. Sie zeigt entweder dorthin, wo die
-Überlieferung es behauptet, oder nicht.
+Eine Moscheewand hat einen messbaren Azimut. Worauf ihre Bauleute diesen Azimut
+auszurichten meinten, ist eine historische Schlussfolgerung. Dan Gibsons
+Vermessung früher Moscheen, veröffentlicht in *Early Islamic Qiblas* (2017) und
+*Let the Stones Speak* (2023), argumentiert, dass viele der ältesten
+Ausrichtungen besser zu {% wiki(slug="petra") %}Petra{% end %} passen als zu
+Mekka. David A. King, der führende Kritiker jener Rekonstruktion, stimmt darin
+überein, dass zahlreiche frühe Moscheen nicht auf die moderne Großkreis-Peilung
+zu Mekka weisen, bestreitet aber, dass sie auf Petra zielten.
 
-In der bislang umfangreichsten Vermessung der ältesten datierbaren Moscheen — dem
-Werk des kanadischen Forschers Dan Gibson, über zwei Jahrzehnte zusammengetragen
-und als *Early Islamic Qiblas* (2017) und *Let the Stones Speak* (2023)
-veröffentlicht — tun das sehr viele von ihnen nicht. Etwa das erste islamische
-Jahrhundert lang weisen ihre Qibla-Wände nicht zu der hidschazenischen Stadt, die
-heute Mekka genannt wird. Sie weisen nach Norden,
-auf {% wiki(slug="petra") %}Petra{% end %}, die verlassene nabatäische Hauptstadt
-in den Sandsteinschluchten des südlichen Jordaniens.
+Die Unterscheidung bestimmt diesen Essay. Die Messungen sind Daten; die
+beabsichtigten Ziele sind Deutungen. Gibson verbindet seine Qibla-Lesart mit
+Argumenten über Mekka in der antiken Geographie, über die frühe Kaaba, über die
+nabatäische Sprache und über den Namen *Ḥanīfiyyah*, die Religion Abrahams. Diese
+Stränge haben nicht alle dasselbe Beweisgewicht, und einige hängen überhaupt
+nicht von Petra ab.
 
-Das ist eine Behauptung, und sie ist umstritten. Was sie einen langen Essay wert
-macht, ist, dass sie nicht allein steht. Sie kommt verflochten mit drei weiteren:
-dass Mekka in der antiken Geographie Arabiens fehlt; dass die frühesten
-überlieferten Maße der Kaaba ein unregelmäßiges vierseitiges Bauwerk beschreiben
-statt eines Würfels; und dass die Sprache und das Alphabet selbst des Korans vom
-Aramäischen der Nabatäer abstammen statt von irgendeinem Dialekt des Hidschas.
-Unter allen vieren liegt eine fünfte Beobachtung, die dem Korpus des Rad des
-Himmels am meisten am Herzen liegt: dass die frühesten Quellen die neue Religion
-gar nicht *Islām* nennen. Sie nennen sie die *Ḥanīfiyyah* — die Religion Abrahams.
-
-Dieser Explainer arbeitet die Stränge einen nach dem anderen durch, denn jeder
-ist für sich anfechtbar, und das Argument steht und fällt damit, ob sie wirklich
-zusammenlaufen. Dann überlässt er dem ernsthaftesten Gegner der Hypothese das
-Wort, dem Historiker der islamischen Astronomie David A. King, dessen alternative
-Erklärung ernst genommen werden muss, ehe irgendetwas davon geglaubt wird. Erst
-danach liest er das Ganze durch den Rahmen des {% wiki(slug="wheel-of-heaven") %}Rad
-des Himmels{% end %} — nicht als fertige Schlussfolgerung, sondern als Hypothese,
-die, falls sie standhält, ein Muster schärft, dem das Korpus bereits folgt: die
-wiederkehrende Wiedergewinnung eines verlorenen abrahamitischen Ursprungs.
+Der sicherste Punkt ist zugleich der für Wheel of Heaven wichtigste: Der Islam
+stellt Mohammeds Sendung als eine Wiederherstellung der Religion Abrahams dar. Ob
+diese Wiederherstellung in Petra begann, ist eine gesonderte und weit
+mutmaßlichere Frage. Die folgende Erörterung hält jene Aussagen auseinander, ehe
+sie eine von beiden durch den Rahmen des {% wiki(slug="wheel-of-heaven") %}Wheel
+of Heaven{% end %} liest.
 
 ## Die 200 stummen Jahre
 
@@ -101,16 +88,14 @@ andere Art von Beleg zu behandeln. Während jener zwei Jahrhunderte schrieb die
 frühe Gemeinschaft nicht die Geschichten, die wir gern hätten, aber sie *baute*.
 Über ein Reich hin, das von Spanien bis Zentralasien reichte, entstanden Moscheen,
 und eine Moschee verzeichnet in ihren Fundamenten eine Entscheidung, die kein
-späterer Redaktor nachträglich revidierte: in welche Richtung man sich wendet. Wo
-die Handschriften verstummen, spricht das Mauerwerk weiter. Die Ausrichtungen der
-frühen Moscheen sind ein zeitgleich niedergelegtes dokumentarisches Zeugnis, von
-den Bauleuten selbst, immun gegen die redaktionelle Schichtung, die die
-literarische Überlieferung umformte.
+späterer literarischer Redaktor umschreiben konnte. Das Mauerwerk kann daher
+spätere Berichte prüfen, obgleich Datierung, Umbau, örtliche Topographie und das
+beabsichtigte Ziel weiterhin der Deutung bedürfen.
 
-Die Qibla ist mit anderen Worten eine Kontrolle über die Texte. Stimmen die
-Gebäude und die Bücher überein, umso besser für beide. Stimmen sie nicht überein,
-haben die Gebäude den stärkeren Anspruch festzuhalten, was die frühe Gemeinschaft
-tatsächlich tat, weil sie nicht umgeschrieben wurden.
+Die Qiblas sind somit eine unabhängige Klasse von Belegen, keine automatische
+Kontrolle über die Texte. Ihr Wert liegt darin, einen Vergleich zu erzwingen
+zwischen dem, was die spätere Überlieferung sagt, und dem, was die frühen
+Gemeinschaften bauten.
 
 ## Worauf die Wände zeigen
 
@@ -314,17 +299,19 @@ war und dass die Quellen sich daran erinnern.
 
 ## Die Grammatik einer nördlichen Schrift
 
-Der vierte Strang ist derjenige, der das Interesse des Korpus von Wheel of Heaven
-an der Sprache am unmittelbarsten berührt, und er ist in mancher Hinsicht der
-robusteste, weil seine Grundlage Mainstream ist.
+Der vierte Strang berührt die Sprache, doch zwei Behauptungen darin dürfen nicht
+in eins gesetzt werden. Die Abstammung der arabischen Schrift ist gut gesichert.
+Ein spezifisch nabatäischer Ursprung des koranischen Arabisch und die daraus
+gezogene geographische Schlussfolgerung sind gesonderte Argumente.
 
 Die {% wiki(slug="nabataeans") %}Nabatäer{% end %} waren ein arabischsprachiges
 Volk, das auf Aramäisch schrieb. Ihre kursive aramäische Hand wurde, Ligatur um
 Ligatur über die spätantiken Jahrhunderte, zum arabischen
 Alphabet.{{ footnote(id="9") }} Dies ist nicht Gibsons Behauptung; es ist der
 gesicherte Befund von Epigraphikern wie Ahmad al-Jallad und Laïla Nehmé. Die
-Schrift, in der der Koran geschrieben ist, ist ein nabatäisches Erbe. So viel ist
-schlicht wahr.
+Schrift, in der der Koran geschrieben ist, ist ein nabatäisches Erbe. Eine Schrift
+kann jedoch über Dialekte und Bevölkerungen hinweg wandern, sodass diese
+Genealogie die Abfassung des Korans nicht verortet.
 
 Auf dieser Grundlage errichtet Mark Durie, gestützt auf al-Jallads epigraphische
 Arbeit, ein linguistisches Argument, das zwei alte Rätsel auf einmal löst. Das
@@ -333,11 +320,11 @@ reinste Arabisch lebe auf Beduinenzungen fort, die hidschazenischen Dialekte nac
 der Sprache des Korans durchkämmten und nie eine Entsprechung fanden. Das zweite
 ist, dass von den Tausenden vorislamischer Inschriften, die über Arabien gekratzt
 sind, fast keine den koranischen Standard-Definitartikel *al-* verwendet. Duries
-Auflösung lautet, dass die Sprache hinter dem Koran das **nabatäische Arabisch**
-ist: ein nördliches Arabisch, in dem der *al-*-Artikel bereits zum Standard
-geworden war, geschrieben von einem Volk, das so an das Aramäische gewöhnt war,
-dass sein *Arabisch* im inschriftlichen Befund selten unter eigenem Namen
-auftaucht. Wo der *al-*-Artikel vor dem Islam doch erscheint, ist ein
+vorgeschlagene Auflösung lautet, dass die Sprache hinter dem Koran das
+**nabatäische Arabisch** ist: ein nördliches Arabisch, in dem der *al-*-Artikel
+bereits zum Standard geworden war, geschrieben von einem Volk, das so an das
+Aramäische gewöhnt war, dass sein *Arabisch* im inschriftlichen Befund selten unter
+eigenem Namen auftaucht. Wo der *al-*-Artikel vor dem Islam doch erscheint, ist ein
 auffälliger Anteil jener Inschriften in nabatäischer Schrift; und der nabatäische
 *Rasm*{{ footnote(id="4") }}, das Konsonantengerüst, stimmt wiederholt mit dem
 Koran überein. In al-Jallads Wendung „wirft“ die aramäische Schrift der Nabatäer
@@ -349,12 +336,11 @@ Volkes“ senden. Wenn die Sprache des Korans nabatäischen Charakters ist und e
 Prophet die Zunge seines eigenen Volkes spricht, dann — in Duries eigenen Worten —
 „ist schwer zu sehen, wie dies Mekka gewesen sein könnte“, dessen Dialekt ein
 anderer war. Durie wirft die Idee auf, dass allein der Handel eine nabatäische
-Lingua franca in den Hidschas getragen habe, und zweifelt sie dann an. Die
-Spannung ist in seinen eigenen Begriffen real. Es ist genau die Spannung, die die
-Petra-Hypothese auflöst, indem sie die heilige Stadt des Korans dorthin verlegt,
-wo seine Sprache bereits lebte. Das linguistische Argument und das archäologische
-Argument, von verschiedenen Menschen aus verschiedenen Gründen entwickelt, weisen
-auf dieselbe Kartenkoordinate.
+Lingua franca in den Hidschas getragen habe, und zweifelt sie dann an. Nach seinen
+Prämissen würde ein nördlicher Schauplatz jene Spannung mindern. Petra ist ein
+möglicher nördlicher Schauplatz, doch der linguistische Befund wählt diese Stadt
+nicht von sich aus aus. Er ist mit Gibsons Karte vereinbar und keine unabhängige
+Bestätigung ihrer genauen Koordinate.
 
 Eine weitere, stärker umstrittene Schicht gehört der Vollständigkeit halber
 hierher. Christoph Luxenbergs *Die syro-aramäische Lesart des Koran* argumentiert,
@@ -371,9 +357,10 @@ Stütze.
 
 ## Der Name vor dem Namen
 
-Streift man für einen Augenblick die Geographie und das Mauerwerk ab und fragt,
-wie die neue Religion sich selbst nannte. Die Antwort ist, in der ältesten Schicht
-der Überlieferung, nicht *Islām*.
+Streift man die Geographie und das Mauerwerk ab und fragt, wie die frühe
+Überlieferung Mohammeds Verhältnis zu Abraham beschrieb. Hier ist der Befund
+bedeutsam, aber enger als die Behauptung, die Bewegung habe ursprünglich einen
+anderen Eigennamen getragen.
 
 Ibn Isḥāqs Biographie{{ footnote(id="7") }} bewahrt eine Geschichte, die *vor*
 Mohammeds Sendung angesiedelt ist. Vier Männer der Quraisch — Waraqa ibn Nawfal,
@@ -390,11 +377,10 @@ Balqāʾ, dass „die Zeit eines Propheten, der aus deinem eigenen Land hervorge
 wird … nahe gerückt ist. Er wird mit der Hanifiya gesandt werden, der Religion
 Abrahams.“
 
-Ein *ḥanīf*{{ footnote(id="8") }} ist einer, der sich vom Götzendienst dem
-aufrechten, ursprünglichen Monotheismus zugewandt hat; die *Ḥanīfiyyah* ist jene
-Religion. Und der Koran selbst verwendet genau dieses Vokabular, um zu bestimmen,
-was Mohammed bringt. Es wird nicht als etwas Neues dargestellt. Es wird als die
-Wiedergewinnung des Ältesten dargestellt:
+Ein *ḥanīf*{{ footnote(id="8") }} ist einer, der sich vom Götzendienst der
+aufrechten, mit Abraham verbundenen Religion zugewandt hat; *Ḥanīfiyyah* ist das
+entsprechende Abstraktum. Der Koran nennt Abraham wiederholt einen *ḥanīf* und
+weist Mohammed an, seiner *millah*, seinem religiösen Weg, zu folgen:
 
 > Abraham war weder Jude noch Christ, sondern er war ein Aufrechter (*ḥanīf*), ein
 > *muslim*, und er gehörte nicht zu den Götzendienern. (Koran 3:67)
@@ -413,10 +399,12 @@ vorherrschend wurde, als die Gemeinschaft sich von der Bekehrung arabischer
 Polytheisten der Auseinandersetzung mit den etablierten Monotheismen zuwandte. Er
 bietet die naheliegende Parallele an: Die frühesten Nachfolger Jesu waren „der
 Weg“, bevor sie „Christen“ waren, so genannt erst später und anderswo (Apg 11,26).
-Ob der Namenswechsel nun so sauber war, wie die Analogie nahelegt, oder nicht — der
-zugrunde liegende Punkt steht direkt auf dem Koran und Ibn Isḥāq, unabhängig von
-jedem in Petra umgegrabenen Spaten: Die neue Religion verstand sich als die
-**Wiederherstellung der Religion Abrahams**.
+Der vorgeschlagene Namenswechsel ist aus Ibn Isḥāq schwer zu belegen, dessen
+Bericht Generationen nach den Ereignissen geschrieben wurde, und der Koran verwendet
+*islām* und *muslim* für Abraham ebenso wie *ḥanīf*. Was unabhängig von Petra
+Bestand hat, ist das Wiederherstellungsmotiv: Mohammeds Botschaft stellt sich als
+eine Rückkehr zur Religion Abrahams dar, vor der späteren Trennung von Judentum und
+Christentum.
 
 Und die Religion Abrahams lief, dieser Erzählung zufolge, durch einen bestimmten
 Sohn. Ibn Isḥāq stellt die Suche der vier Suchenden in den Rahmen der heiligen
@@ -424,82 +412,42 @@ Stadt, der Wallfahrt und des Altars Abrahams — des Altars, den Abraham mit Hag
 und ihrem Sohn Ismael errichtet haben soll. Die Wallfahrtsriten selbst werden als
 Nachstellungen dessen erzählt, was Abraham tat: die Umschreitung seines Altars,
 der Lauf zwischen den Wasserstellen zum Gedenken an Hagars Suche nach Wasser. Wie
-auch immer die Geographie aussieht, das Selbstverständnis ist unzweideutig. Dies
-war die {% wiki(slug="abraham") %}abrahamitische{% end %} Linie Hagars und Ismaels,
-die zurückkreiste, um eine Religion wiederzugewinnen, die sie für verloren hielt.
+auch immer die Geographie aussieht, die Überlieferung verortet das Heiligtum
+innerhalb der {% wiki(slug="abraham") %}abrahamitischen{% end %} Linie Hagars und
+Ismaels und deutet Mohammeds Sendung als Wiedergewinnung statt als Erfindung.
 
 ## Gelesen durch den Rahmen
 
-Hier wechselt der Essay vom Bericht über eine revisionistische Hypothese zu ihrer
-Lektüre durch das Korpus von Wheel of Heaven — und der Übergang muss markiert
-werden, denn die beiden sind nicht dieselbe Art von Behauptung. Gibsons Archäologie
-ist umstrittene empirische Arbeit, die, falls überhaupt, durch Ausgrabung und durch
-die Antwort auf David A. King entschieden wird. Die Lektüre des Korpus ist eine
-über diese Arbeit gelegte Deutung. Sie wird als `speculative` angeboten: eine
-Hypothese über eine Hypothese.
+Gibsons Archäologie ist umstrittene empirische Arbeit. Sie durch Wheel of Heaven
+zu lesen, fügt eine zweite deutende Schicht hinzu, sodass das Folgende
+`speculative` ist, selbst wo eine zugrunde liegende historische Beobachtung
+gesichert ist.
 
-Was der Rahmen bemerkt, ist, dass das Korpus diese Gestalt schon gesehen hat. Die
-Lektüre {% wiki(slug="abraham") %}Abrahams{% end %} durch Wheel of Heaven
-behandelt ihn nicht als Gründer eines neuen Glaubens. Sie behandelt ihn als eine
-Gestalt, die nach der Intervention in Sodom *rekrutiert* wurde — den geprüften,
-verifizierten Anführer, um den eine dezimierte Linie neu geordnet wurde, den
-Begründer eines Wiederherstellungsprogramms. Das Korpus stellt im Abraham-Eintrag
-fest, dass die abrahamitische Linie „über die folgenden Zeitalter hinweg weiterhin
-allianz-gepflegte Traditionen hervorbringt“. Das Muster ist Wiederherstellung:
-jede große Tradition greift zurück, um ein Original wiederzubegründen, das sie für
-von den früheren Hütern verdorben hält.
+Der Rahmen behandelt {% wiki(slug="abraham") %}Abraham{% end %} nicht als Erfinder
+einer neuen Religion, sondern als den rekrutierten Anführer eines
+Wiederherstellungsprogramms nach der Intervention in Sodom. Spätere abrahamitische
+Traditionen beschreiben sich immer wieder in derselben restaurativen Grammatik:
+Eine ursprüngliche Offenbarung ist verdunkelt worden und muss wiedergewonnen
+werden. Der Rückgriff des Korans auf Abraham fügt sich unmittelbar in dieses
+Muster, ohne einen Ursprung in Petra vorauszusetzen.
 
-Die Hanafiyya ist dieses Muster, das sich selbst laut benennt. Eine Bewegung,
-deren eigene früheste Selbstbeschreibung „die Wiedergewinnung der Religion
-Abrahams“ lautet, angesiedelt um einen Abraham und Ismael zugeschriebenen Altar,
-weitergegeben durch die Linie, die der {% wiki(slug="abraham") %}Abraham{% end %}-Eintrag
-bereits als den Zweig kennzeichnet, den die Allianz neben der Bundeslinie
-„schützt“ und in den sie investiert — dies ist kein neues Datum, das das Korpus
-mühsam einpassen müsste. Es ist die eigene These des Korpus, erschienen im Gewand
-des siebten Jahrhunderts.
+Sein Vokabular bewahrt zudem die von einer Wiederherstellung zu erwartende
+sprachliche Kontinuität. *Malak* steht neben dem hebräischen *mal’akh* (Bote),
+*rūḥ* neben *ruaḥ* (Atem oder Geist) und *sakīna* neben *shekhinah*.{{ footnote(id="10") }}
+Diese Verwandtschaften laufen durch das Aramäische, die Schriftsprache der
+{% wiki(slug="nabataeans") %}Nabatäer{% end %} und weiter Teile des Judentums der
+Zweiten-Tempel-Zeit. Diese Kontinuität ist über den Nahen Osten hinweg historisch
+verständlich; sie hebt keine einzelne heilige Stadt heraus.
 
-Drei Merkmale schärfen die Passung, und ein Petra-Schauplatz zieht jedes davon
-fester.
-
-Das erste ist **Wiederherstellung statt Neuheit**. Das Korpus liest die großen
-Traditionen als aufeinanderfolgende Kultivierungen einer Linie, nicht als
-unverbundene Erfindungen. Die Hanafiyya formuliert diese Logik von innen heraus —
-älter als Judentum und Christentum, wiedergewonnen statt gegründet.
-
-Das zweite ist **das von der Sprache getragene operative Vokabular**. Der
-{% wiki(slug="muhammad") %}Mohammed{% end %}-Eintrag vermerkt bereits, dass der
-Koran Vokabular bewahrt, das mit den hebräischen operativen Begriffen verwandt
-ist, die das Korpus verfolgt: *malak* neben *mal’akh* (Bote), *rūḥ* neben *ruaḥ*
-(Geist, Atem), *sakīna* neben *shekhinah*. Diese Verwandtschaften laufen durch das
-Aramäische.{{ footnote(id="10") }} Wenn die Sprache des Korans vom nabatäischen
-Aramäisch abstammt, dann erbte die neue Schrift die operativen Wörter der älteren
-Überlieferung durch denselben Kanal, der ihr Alphabet trug — die
-{% wiki(slug="nabataeans") %}Nabatäer{% end %}, ein arabisches Volk, das in der
-Sprache {% wiki(slug="jesus") %}Jesu{% end %} und des Judentums der Zweiten-Tempel-Zeit
-schreibkundig war. Die Wiederherstellung, die die Hanafiyya auf der Ebene der
-Religion beansprucht, spiegelt sich auf der Ebene des Vokabulars.
-
-Das dritte ist die **redaktionelle Schichtung**, ein Thema, zu dem das Korpus über
-die prophetische Überlieferung hinweg zurückkehrt: die Lücke zwischen einem
-auslösenden Ereignis und der kanonischen Überlieferung, die es später festschreibt.
-Gibsons al-Ḥajjāj — der, dieser Rekonstruktion zufolge, die Qibla änderte, den Text
-neu punktierte und die Verlagerung nach Süden festigte, alles innerhalb des ersten
-islamischen Jahrhunderts — ist eine konkrete Instanz genau dieser Lücke. Das Korpus
-braucht Gibsons spezifische Rekonstruktion nicht in jeder Einzelheit für wahr zu
-halten, um die Gestalt zu erkennen. Es ist dieselbe Gestalt, die das Korpus in der
-redaktionellen Geschichte des hebräischen und des christlichen Kanons liest: ein
-Original, von seinen Hütern überschrieben, nur wiedergewinnbar, indem man die
-Überlieferung gegen sich selbst liest.
-
-Dies ist die bestehende Lektüre Mohammeds durch den {% wiki(slug="muhammad") %}Rahmen{% end %},
-unangetastet. Das Korpus verortet seine Laufbahn im frühen bis mittleren
-[Zeitalter der Fische](/timeline/age-of-pisces/) — seiner Periode der breiten
-kulturellen Übertragung der operativen Botschaft über zivilisatorische Regionen
-hinweg. Eine innerhalb eines einzigen Jahrhunderts verlagerte und neu formulierte
-Heiligtumstradition ist mit diesem Bild von in der Übertragung redigierten
-Traditionen vereinbar. Die Petra-Hypothese, durch den Rahmen gelesen, stürzt den
-Mohammed des Korpus nicht um. Sie liefert eine Geographie für die Hanafiyya, die
-das Korpus bereits benannt hatte.
+Gibsons Verlagerungserzählung fügte ein weiteres Wheel-of-Heaven-Thema hinzu: die
+redaktionelle Schichtung zwischen einem auslösenden Ereignis und dem späteren
+kanonischen Bericht. Doch diese Passung kann nicht als Beleg dafür dienen, dass
+al-Ḥajjāj die Qibla verschob oder die Geographie neu schrieb. Bestenfalls liefert
+die Petra-Hypothese einen möglichen Schauplatz für eine Wiederherstellungsbewegung,
+die in den Texten bereits lesbar ist. Der {% wiki(slug="muhammad") %}Mohammed{% end %}-Eintrag
+und das [Zeitalter der Fische](/timeline/age-of-pisces/) verorten diese Bewegung
+innerhalb einer breiteren Periode der Übertragung, gleichviel ob ihr Heiligtum in
+Petra oder in Mekka stand.
 
 ## Wovon sich die Hanafiyya abwandte
 
@@ -548,10 +496,6 @@ ihre Passung zur Unterscheidung *ḥanīf*/Götzendiener die Lesart ist.
 
 ## Gegenargumente
 
-Nichts davon ist Glauben geschuldet, und die redaktionellen Standards dieser Seite
-verlangen, dass der stärkste Einwand in seiner eigenen Stimme dargelegt wird statt
-karikiert.
-
 Der ernsthafteste Gegner ist **David A. King**, der führende Historiker der
 mittelalterlichen islamischen Astronomie, und sein Einwand lautet nicht, dass die
 frühen Moscheen nach Mekka weisen. Er räumt ein, dass viele frühe Moscheen im
@@ -598,30 +542,22 @@ Hanafiyya-These annehmen und das Urteil über Petra dennoch aussetzen kann.
 
 ## Schluss
 
-Die Stärke der Petra-Hypothese liegt nicht in irgendeinem einzelnen Strang, von
-denen ein Fachmann jeden anfechten kann. Sie liegt in der Konvergenz — darin, wie
-ein Archäologe, der Qibla-Wände zählt, ein Statistiker, der die Streuung prüft, ein
-Kartograph, der Ptolemäus neu projiziert, ein Historiker, der al-Azraqīs Maßband
-liest, und ein Linguist, der den *al-*-Artikel verfolgt, alle bei derselben
-verlassenen Stadt im südlichen Jordanien enden, aus Gründen, die nichts miteinander
-zu tun haben. Die Konvergenz unabhängiger Linien ist die Art, wie Indizienketten
-gebaut werden, und sie ist zugleich die Art, wie Zufälle für Ketten gehalten
-werden. Welches von beiden dies ist, wird durch Ausgrabungen in Petra, durch die
-wissenschaftliche Antwort auf King und dadurch entschieden, ob der Qibla-Datensatz
-eine unabhängige Neuvermessung übersteht.
+Die Petra-Hypothese versammelt mehrere suggestive Beobachtungen, doch sie bilden
+noch keinen Satz gleichermaßen unabhängiger Beweise. Die Qibla-Ausrichtungen sind
+der zentrale Beleg. Das linguistische Material erlaubt einen nordarabischen Kontext,
+ohne Petra zu wählen; das Schweigen des Ptolemäus ist ein negativer Beleg; und der
+Kaaba-Vergleich hängt von einem nicht ausgegrabenen Bauwerk ab. Ausgrabung und
+unabhängige Neuvermessung könnten die vorgeschlagene Konvergenz stärken oder
+auflösen.
 
-Das Korpus von Wheel of Heaven braucht dieses Urteil nicht, um seinen eigenen,
-engeren Schluss zu ziehen. Der Teil davon, der auf dem Koran und Ibn Isḥāq beruht —
-dass die neue Religion sich als die {% wiki(slug="hanafiyya") %}Ḥanīfiyyah{% end %}
-verstand, die wiedergewonnene Religion {% wiki(slug="abraham") %}Abrahams{% end %}
-durch die Linie Hagars und Ismaels —, steht, ob die heilige Stadt nun Petra war oder
-nicht. Und dieser Teil ist der Teil, auf den das Korpus bereits vorbereitet war.
-Der Rahmen liest die abrahamitische Linie als ein Wiederherstellungsprogramm, das
-über die Zeitalter hinweg immer wieder Restaurationstraditionen hervorbringt. In
-der Hanafiyya formuliert eine dieser Traditionen das Programm in ihren eigenen
-Worten. Gibsons Steine würden uns, wenn sie so sprechen, wie er sie hört, sagen, wo
-es stand. Die Texte sagen uns bereits, wofür es sich hielt: nicht für einen Anfang,
-sondern für eine Rückkehr.
+Der engere Schluss hängt nicht von jenem Urteil ab. Der Koran und die spätere
+biographische Überlieferung stellen Mohammeds Botschaft als eine Rückkehr zur
+Religion {% wiki(slug="abraham") %}Abrahams{% end %} dar, über Hagar und Ismael mit
+dem Heiligtum verbunden. Ob *Ḥanīfiyyah* je der Eigenname der Bewegung war, bleibt
+weniger sicher als das Wiederherstellungsmotiv selbst. Wheel of Heaven liest dieses
+Motiv als eine weitere Wiedergewinnung innerhalb der abrahamitischen Linie. Gibsons
+Steine mögen schließlich klären, wo die Bewegung stand; die Texte machen bereits
+klar, dass sie zurückblickte, um zu beglaubigen, was sie nach vorn brachte.
 
 ## Eine persönliche Anmerkung
 
@@ -655,21 +591,10 @@ ursprüngliche Absicht verschlammt. Der Islam wurde in seiner späteren imperial
 Laufbahn zu einem schweren Fall jener Abdrift — was kein Argument gegen das ist, als
 was er begann, sondern nur gegen das, was ihm angetan wurde.
 
-Deshalb möchte ich, wenn die Zeit dafür ist, den Koran durch die Linse des Rad des
-Himmels neu übersetzen — und danach den Hadith und andere Texte —, so wie das
+Deshalb möchte ich, wenn die Zeit dafür ist, den Koran durch die Linse des Wheel of
+Heaven neu übersetzen — und danach den Hadith und andere Texte —, so wie das
 [Übersetzungsprogramm](/library/) es mit Genesis, Exodus und dem Übrigen bereits
 begonnen hat. Das Ziel ist nicht, den Koran etwas Neues sagen zu lassen. Es ist,
 ihn zu lesen, so weit die Sprache es erlaubt, so wie seine ersten Rezitatoren ihn
 gemeint haben mögen: als die wiedergewonnene Religion Abrahams, zurückgewendet auf
 die Schöpfer, die ihr Volk vergessen hatte. — *Zara Zinsfuss*
-
-
-
-
-
-
-
-
-
-
-

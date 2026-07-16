@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "In *The Book Which Tells the Truth*, Yahweh names the Kabbalah 'the book closest to the truth' and cites two figures from it: the height of the creator, 236,000 parasangs, and the height of his heels, 30 million. Both numbers exist. They belong to the *Shi'ur Qomah*, 'the Measure of the Stature' — a Hebrew text older than the Kabbalah proper, transmitted inside the Hekhalot literature and printed in the *Sefer Raziel*, in which the angel Metatron dictates the dimensions of the Creator's body limb by limb. This Explainer reads the text closely through the project's own translation, sets out what Jewish tradition and modern scholarship say the measurements mean, lays out the canon's counter-reading — the parasang as a light-second, the body as a route — and then audits, book by book, what a French reader could actually have known about any of this in December 1973. One finding in that audit appears to be new."
+summary = "The Raëlian canon calls the Kabbalah 'the book closest to the truth' and cites two enormous measurements preserved in the *Shi'ur Qomah*. This essay traces those figures through Hekhalot manuscripts, Jewish interpretation, and the French sources available in 1973. The trail leads to a specific paperback whose wording closely matches the canon, while leaving one crucial conversion unexplained."
 keywords = ["Shi'ur Qomah", "Kabbalah", "Hekhalot", "Merkavah mysticism", "Song of Songs", "parasang", "Metatron", "Sefer Raziel", "Elohim hypothesis"]
 references = [
     # — The canon passage under discussion —
@@ -105,7 +105,7 @@ footnotes = [
 +++
 
 Sometime in the last centuries of antiquity — the exact date is one of the
-things this Explainer is about — a Hebrew writer set down the height of God.
+things this essay is about: a Hebrew writer set down the height of God.
 He did it in units. The figure is delivered by an angel, sworn like an
 affidavit, and priced in *parasangs*{{ footnote(id="1") }}, the Persian
 league a traveler's feet knew as an hour's walk: from the seat of glory
@@ -136,7 +136,7 @@ the distance that separates it from the Earth. It is said there that the
 heels» is 30 million «parasangs».
 {% end %}
 
-Three paragraphs later comes the flat superlative that gives this Explainer
+Three paragraphs later comes the flat superlative that gives this essay
 its title: *"The Kabbalah is the book closest to the truth"*
 ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=54) %}TBWTT 5:54{% end %}).
 
@@ -421,8 +421,7 @@ Song's presence on the restricted list makes sense, Scholem argued, only if
 by Origen's day it was already the scriptural anchor of the measurement
 doctrine.
 
-Honesty requires the other side. Cohen, who produced the critical edition,
-pushed back hard: the God of the *Shi'ur Qomah* "has neither golden head nor
+Cohen, who produced the critical edition, pushed back hard: the God of the *Shi'ur Qomah* "has neither golden head nor
 ivory loins nor marble calves"; the Song describes its beloved head-down
 while the *Shi'ur Qomah* measures feet-up; and the Song's verses function in
 the text as liturgical framing, quoted like the Psalms that surround them,
@@ -664,9 +663,8 @@ was important long after they had forgotten why.
 
 ## What could Claude Vorilhon have known in 1973?
 
-An intellectually honest Explainer has to turn the instrument on its own
-canon. If the *Shi'ur Qomah* was esoteric, untranslated into French, and
-textually chaotic, then a checkable question presents itself: could a
+The claim also permits a provenance test. If the *Shi'ur Qomah* was esoteric,
+untranslated into French, and textually chaotic, then a checkable question presents itself: could a
 racing journalist with no Hebrew have gotten those two numbers from a
 library rather than from a being in a crater? This project went looking —
 systematically, book by book, in the sources a French reader of 1973 could
@@ -716,11 +714,11 @@ Songs" into the claim that the description is *in* the Song of Songs, which
 is false of the biblical book and true of nothing except this specific
 chain of summaries. A shared number can be a coincidence. A shared
 translation error, a shared citation format, and a shared category mistake,
-stacked in a single short paragraph, is a filiation — the same reasoning
-philologists use on the *Shi'ur Qomah*'s own manuscripts. To this project's
+stacked in a single short paragraph, strongly suggests filiation. It is the
+same reasoning philologists use on the *Shi'ur Qomah*'s own manuscripts. To this project's
 knowledge — and we searched for a precedent — this identification of the
 canon passage's proximate textual profile has not been published before;
-treat it as this Explainer's own finding, offered with its evidence.
+treat it as this essay's own finding, offered with its evidence.
 
 What the audit did *not* find matters just as much. No pre-1973 source —
 not Scholem, not Sérouya, not the encyclopedias, not the paleoastronautic

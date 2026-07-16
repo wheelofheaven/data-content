@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "In *Das Buch, das die Wahrheit sagt* nennt Jahwe die Kabbala „das Buch, das der Wahrheit am nächsten kommt“, und zitiert zwei Zahlen daraus: die Höhe des Schöpfers, 236,000 Parasangen, und die Höhe seiner Fersen, 30 Millionen. Beide Zahlen existieren. Sie gehören zum *Shi'ur Qomah*, „dem Maß der Statur“ — einem hebräischen Text, älter als die eigentliche Kabbala, überliefert innerhalb der Hekhalot-Literatur und gedruckt im *Sefer Raziel*, in dem der Engel Metatron die Maße des Leibes des Schöpfers Glied für Glied diktiert. Dieser Explainer liest den Text genau durch die eigene Übersetzung des Projekts, legt dar, was jüdische Überlieferung und moderne Forschung über die Bedeutung der Maße sagen, entfaltet die Gegenlesart des Kanons — die Parasange als Lichtsekunde, den Leib als Route — und prüft dann, Buch für Buch, was ein französischer Leser im Dezember 1973 davon tatsächlich hätte wissen können. Ein Befund dieser Prüfung scheint neu zu sein."
+summary = "Der raëlianische Kanon nennt die Kabbala „das Buch, das der Wahrheit am nächsten kommt“ und zitiert zwei gewaltige Maße, die im *Shi'ur Qomah* bewahrt sind. Dieser Essay verfolgt jene Zahlen durch Hekhalot-Handschriften, jüdische Deutung und die 1973 verfügbaren französischen Quellen. Die Spur führt zu einem bestimmten Taschenbuch, dessen Wortlaut dem Kanon eng entspricht, während eine entscheidende Umrechnung ungeklärt bleibt."
 keywords = ["Shi'ur Qomah", "Kabbala", "Hekhalot", "Merkava-Mystik", "Hohelied", "Parasange", "Metatron", "Sefer Raziel", "Elohim-Hypothese"]
 references = [
     # — The canon passage under discussion —
@@ -105,7 +105,7 @@ footnotes = [
 +++
 
 Irgendwann in den letzten Jahrhunderten der Antike — das genaue Datum ist
-eines der Themen dieses Explainers — hielt ein hebräischer Schreiber die Höhe
+eines der Themen dieses Essays: Ein hebräischer Schreiber hielt die Höhe
 Gottes fest. Er tat es in Einheiten. Die Zahl wird von einem Engel überbracht,
 beschworen wie eine eidesstattliche Erklärung, und in
 *Parasangen*{{ footnote(id="1") }} beziffert, der persischen Meile, die die Füße
@@ -137,7 +137,7 @@ Schöpfers" 236,000 „Parasangen" beträgt und dass die „Höhe seiner Fersen"
 30 Millionen „Parasangen" beträgt.
 {% end %}
 
-Drei Absätze später folgt der schlichte Superlativ, der diesem Explainer seinen
+Drei Absätze später folgt der schlichte Superlativ, der diesem Essay seinen
 Titel gibt: *„Die Kabbala ist das Buch, das der Wahrheit am nächsten kommt"*
 ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=54) %}DBWS 5:54{% end %}).
 
@@ -422,7 +422,7 @@ Anwesenheit des Hoheliedes auf der beschränkten Liste ergibt nur dann einen Sin
 argumentierte Scholem, wenn es zu Origenes' Zeit bereits der Schriftanker der
 Maß-Lehre war.
 
-Ehrlichkeit verlangt die andere Seite. Cohen, der die kritische Edition besorgte,
+Cohen, der die kritische Edition besorgte,
 widersprach entschieden: Der Gott des *Shi'ur Qomah* „hat weder ein goldenes Haupt
 noch elfenbeinerne Lenden noch marmorne Waden"; das Hohelied beschreibt seinen
 Geliebten von Kopf abwärts, während der *Shi'ur Qomah* von den Füßen aufwärts
@@ -665,9 +665,9 @@ wussten, dass sie wichtig war, lange nachdem sie vergessen hatten, warum.
 
 ## Was konnte Claude Vorilhon 1973 wissen?
 
-Ein intellektuell redlicher Explainer muss das Instrument auf den eigenen Kanon
-richten. War der *Shi'ur Qomah* esoterisch, nicht ins Französische übersetzt und
-textlich chaotisch, so stellt sich eine überprüfbare Frage: Konnte ein
+Die Behauptung erlaubt auch eine Herkunftsprüfung. War der *Shi'ur Qomah*
+esoterisch, nicht ins Französische übersetzt und textlich chaotisch, so stellt
+sich eine überprüfbare Frage: Konnte ein
 Rennsportjournalist ohne Hebräischkenntnisse diese beiden Zahlen aus einer
 Bibliothek statt von einem Wesen in einem Krater bekommen haben? Dieses Projekt
 ging auf die Suche — systematisch, Buch für Buch, in den Quellen, die ein
@@ -717,11 +717,11 @@ Behauptung, die Beschreibung stehe *im* Hohelied, was vom biblischen Buch falsch
 und von nichts wahr ist außer dieser spezifischen Kette von Zusammenfassungen. Eine
 gemeinsame Zahl kann ein Zufall sein. Ein gemeinsamer Übersetzungsfehler, ein
 gemeinsames Zitierformat und ein gemeinsamer Kategorienfehler, in einem einzigen
-kurzen Absatz gestapelt, sind eine Filiation — dieselbe Schlussweise, die
-Philologen auf die eigenen Handschriften des *Shi'ur Qomah* anwenden. Nach dem
+kurzen Absatz gestapelt, legen mit Nachdruck eine Filiation nahe. Es ist dieselbe Schlussweise,
+die Philologen auf die eigenen Handschriften des *Shi'ur Qomah* anwenden. Nach dem
 Wissen dieses Projekts — und wir haben nach einem Vorläufer gesucht — ist diese
 Identifizierung des unmittelbaren textlichen Profils der Kanon-Passage zuvor nicht
-veröffentlicht worden; behandeln Sie sie als eigenen Befund dieses Explainers, mit
+veröffentlicht worden; behandeln Sie sie als eigenen Befund dieses Essays, mit
 seinen Belegen dargeboten.
 
 Was die Prüfung *nicht* fand, ist ebenso von Bedeutung. Keine Quelle vor 1973 —
