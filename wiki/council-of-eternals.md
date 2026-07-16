@@ -623,6 +623,10 @@ The corpus's Council reading is positioned within this landscape as follows: ali
 
 Divine-council bodies appear across multiple cultural-religious traditions, with substantial structural and detailed parallels to the framework's Council of the Eternals reading. The corpus reads this cross-cultural pattern as evidence of broader operational realities preserved in fragmentary form across the various traditions.
 
+{% info(title="Explore the data") %}
+The council attestations discussed below are collected in the [Divine-Council Index](/datasets/divine-council-index/) — a downloadable CC0 dataset of eleven council scenes across six traditions (presiding figure, council term, members, function, reference) in CSV and JSON.
+{% end %}
+
 ### Mesopotamian divine assemblies: the Anunnaki and Igigi
 
 The Mesopotamian tradition preserves the most substantively developed divine-assembly material, with the principal cases warranting treatment.

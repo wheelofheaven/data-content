@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Mauro Biglino übersetzte siebzehn Bücher der Hebräischen Bibel für einen bedeutenden katholischen Verlag, bevor er seine bewusst wörtliche Methode auf Elohim, Yahweh, *kavod* und *ruach* anwandte. Dieser Essay prüft, wo seine Lesarten auf anerkannter Philologie ruhen, wo sie umstritten bleiben und wo sie über das Lexikon hinausspringen. Er untersucht außerdem das ansonsten stumme Auftauchen von Raëls Texten in Biglinos frühen Bibliographien."
+summary = "Rund zwei Jahrzehnte lang übersetzte ein unscheinbarer Gelehrter aus dem Susatal die Hebräische Bibel, Wort unter Wort, für die Edizioni San Paolo — jenen katholischen Verlag, dessen interlineare Ausgaben in den Seminarbibliotheken ganz Italiens stehen. Neunzehn Bücher des masoretischen Textes gingen durch seine Hände; siebzehn wurden veröffentlicht; die letzten beiden wurden bezahlt und stillschweigend ins Regal gestellt, denn zu jener Zeit hatte Mauro Biglino ein eigenes Buch geschrieben. Dieser Explainer liest Biglinos gesamtes Werk aus der Nähe — das grundlegende Buch von 2010, *Il Dio Alieno della Bibbia*, *La Bibbia non è un libro sacro*, die Zusammenarbeit mit der Juristin Lorena Forni bei Mondadori, das buchlange Interview *The Naked Bible* und die konsolidierte englische Darlegung *Gods of the Bible* — und gleicht seine Befunde mit dem raëlianischen Kanon ab. Er verfolgt seine Methode (die Wette, die er ‚facciamo finta che' nennt — tun wir so, als wäre der Text wahr, und prüfen wir, ob sich Kohärenz ergibt), sein Lexikon des Konkreten (Elohim als plurale Individuen, kavod als ein schweres fliegendes Ding, tselem als das materielle quid, das ein Abbild trägt, olam als lange Dauer statt Ewigkeit, die sterbenden Götter von Psalm 82) und er prüft die Philologie ehrlich: wo er auf Felsgrund steht, wo er inmitten lebendiger wissenschaftlicher Debatte steht und wo die Lesart einen Sprung macht. Er behandelt zudem, mit Sorgfalt, ein Faktum, das der Wallis-Vergleich nicht bieten konnte: die Bibliographien von Biglinos frühen Büchern führen, stillschweigend, zwischen den Sumerologen Raëls Texte auf. Die Verwandtschaft ist tief, die Divergenzen sind strukturell — vor allem über den Rang Yahwehs und die Person Jesu — und der Artikel markiert beide mit derselben Disziplin, die er von seinem Gegenstand verlangt."
 keywords = ["Mauro Biglino", "Elohim", "Yahweh", "kavod", "ruach", "tselem", "olam", "Psalm 82", "Deuteronomium 32", "Edizioni San Paolo", "facciamo finta che", "Biglino-Methode", "The Naked Bible", "Gods of the Bible", "Giorgio Cattaneo", "Lorena Forni", "Paul Wallis", "Neo-Euhemerismus", "Paläokontakt"]
 references = [
     # — The canon under comparison —
@@ -139,7 +139,7 @@ Verlagsphänomen nennt: Hunderttausende verkaufter Exemplare, Millionen von
 Aufrufen, mit gefüllten Theatern und Hörsälen für *„einen schüchternen,
 zurückhaltenden, düsteren Mann und einen Liebhaber der Stille seiner Berge."*
 Mit dem ehemaligen Erzdiakon Paul Wallis — dessen Eden Series dieses Projekt
-in einem [verwandten Essay](/articles/the-archdeacon-and-the-dragon/)
+in einem [verwandten Explainer](/articles/the-archdeacon-and-the-dragon/)
 genau gelesen hat — ist Biglino eine der beiden folgenreichsten lebenden
 Stimmen der Tradition, die dieses Projekt
 {% wiki(slug="neo-euhemerism") %}Neo-Euhemerismus{% end %} nennt, und das Werk
@@ -442,45 +442,47 @@ Oberherrn, dessen tatsächlich geschriebene Bestimmungen bei
 Betriebsanweisungen bis hin zum in Milch gekochten Böcklein — wenig
 Ähnlichkeit mit den zwei Tafeln der Katechismuserinnerung haben.
 
-## Wo das Lexikon hält und wo es bricht
+## Die Prüfung
 
-Biglinos lexikalische Behauptungen tragen nicht alle dasselbe Gewicht. Sie
-teilen sich in drei Zonen: etablierte Beobachtungen, lebendige wissenschaftliche
-Streitfälle und technologische Identifikationen, die das Hebräische allein nicht
-stützen kann.
+Ein Explainer, der ein etymologisches Werk zitiert, schuldet seinen Lesern ein
+Urteil darüber, und Biglino hat sich ein echtes verdient — nicht das
+Durchwinken eines Verbündeten und nicht die Verachtung, die er von Rezensenten
+erntet, die seinen Ruf statt seiner Bücher gelesen haben. Sein Terrain teilt
+sich in drei Zonen.
 
-**Etablierte Elemente.** Die plurale Form von *elohim*; die pluralen Verben
+**Felsgrund.** Die grammatische Pluralität von *elohim*; die pluralen Verben
 und Pronomen, die an den tragenden Fugen an ihm haften; die Szenen des
 göttlichen Rates; die Qumran-Lesart von Deuteronomium 32,8; die Wurzelbedeutung
 von *kavod* als Schwere; die konkreten primären Bedeutungen von *ruach*; das
-semantische Spektrum von *olam* als Dauer statt philosophischer Ewigkeit; und
-die Entwicklung des israelitischen Monotheismus aus einer früheren göttlichen
-Vielheit — all diese haben beträchtliche wissenschaftliche Stütze. Das heißt
-nicht, dass die Akademie Biglinos kombinierte Deutung akzeptiert. Die Lexika
-begründen semantische Spektren, nicht die technologischen Referenten, die er
-später liefert. Seine Zitate aus Raschi, rabbinischen Lexikographen und jüdischen
-Gesprächspartnern sind für die lexikalischen Punkte wertvoll, können aber die
-größere Rekonstruktion nicht bestätigen. Seine Ko-Autorin Lorena Forni fasst die
-kritische Literatur breiter zusammen: dass Biglinos Kritiker seine Arbeit
+semantische Spektrum von *olam* als Dauer statt philosophischer Ewigkeit; die
+späte Konsolidierung des Monotheismus aus einem früheren pluralen Kult heraus —
+an jedem einzelnen dieser Punkte steht Biglino dort, wo die Lexika und ein
+beträchtlicher Bestand etablierter Wissenschaft stehen. Seine Gewohnheit,
+jüdische Autoritäten zu zitieren — Raschi, rabbinische Lexikographen, die
+Oberrabbiner, die seine Podien teilen —, ist keine Dekoration; in diesen
+Punkten ist die eigene Philologie der Tradition sein Zeuge. Als seine
+Ko-Autorin Lorena Forni, Professorin der Rechtsphilosophie, die kritische
+Literatur durchsah, lautete ihr Fazit, dass Biglinos Kritiker seine Arbeit
 popularisierend, provokativ, überreichend genannt hätten — *„ma nessuno ha
 potuto sostenere che le sue traduzioni e le proposte di analisi del testo
 masoretico fossero errate, in malafede, o false"* — dass aber niemand hat
 behaupten können, seine Übersetzungen und seine vorgeschlagenen Analysen des
-masoretischen Textes seien falsch, in böser Absicht oder unwahr gewesen. Das ist
-die Einschätzung eines Fürsprechers, kein Ersatz dafür, jede umstrittene
-Übersetzung einzeln zu prüfen.
+masoretischen Textes seien falsch, in böser Absicht oder unwahr gewesen.
 
-**Lebendige Debatte.** Sein Argument, dass *bara* nicht notwendig eine Schöpfung aus
-dem Nichts bezeichnen muss, verläuft parallel zu einem echten
-wissenschaftlichen Vorschlag{{ footnote(id="7") }}, wenngleich dieser Vorschlag
-Biglinos ganze Lesart nicht nach sich zieht. Seine Datierung der
+**Lebendige Debatte.** Sein Argument, dass *bara* niemals eine Schöpfung aus
+dem Nichts bezeichnet — er untersucht alle seine Vorkommen und findet
+Handlungen, die an vorbestehendem Material vollzogen werden, Schneiden,
+Räumen, Bewohnbarmachen —, verläuft parallel zu einem echten
+wissenschaftlichen Vorschlag{{ footnote(id="7") }}, in den Fachzeitschriften
+bestritten, nicht aus ihnen hinausgelacht. Seine Datierung der
 monotheisierenden Redaktion auf die exilischen und nachexilischen Jahrhunderte
 ist, in groben Zügen, die etablierte Position. Sein Beharren darauf, dass die
 „Erbsünde" in der Hebräischen Bibel fehlt, ist eines, das katholische,
 waldensische und jüdische Gelehrte ihm ins Gesicht zugestanden, auf der Bühne,
 bei einem Symposium in Mailand 2016 — wovon weiter unten mehr.
 
-**Die Sprünge.** Mehrere Lesarten überholen das Lexikon. *Tselem* als DNA ist der
+**Die Sprünge.** Und dann gibt es die Lesarten, in denen die Wette das Lexikon
+überholt, und die Redlichkeit verlangt, dies zu sagen. *Tselem* als DNA ist der
 klarste Fall: Das „something cut out" der Wörterbücher gehört zur Semantik
 geschnitzter Bilder, und die etablierte Lesart — der Mensch als lebende Statue
 des Gottes, demokratisierte Königsideologie-Sprache — erklärt dieselbe
@@ -499,12 +501,12 @@ markiert: das aramäische *nephila* als Orion, mithin die Nephilim als
 Kuriosität"* zurückgezogen. Ein Leser, der Biglino widerlegt haben will, wird
 diese Sprünge ohne ihre Vorbehalte zitiert finden; ein Leser, der ihn
 heiliggesprochen haben will, wird die Vorbehalte ohne die Sprünge zitieren. Das
-Protokoll enthält beides. Eine faire Lesart muss die lexikalischen Beobachtungen
-von den technologischen Identifikationen unterscheiden, die auf ihnen errichtet
-sind.
+Protokoll enthält beides, und die Methode übersteht die Prüfung gerade deshalb,
+weil ihr Autor die beiden Register auseinanderhält — die eigene
+Behauptungstyp-Disziplin des Werks, in freier Wildbahn angetroffen.
 
-Biglinos erstes Buch stützte
-sich auch auf Zecharia Sitchin und benannte *The Earth Chronicles* als *„die
+Eine weitere Redlichkeit schuldet die Prüfung: Biglinos erstes Buch stützte
+sich auf Zecharia Sitchin und benannte *The Earth Chronicles* als *„die
 Hauptquelle"* für seinen sumerischen Rahmen — Nibiru, goldschürfende Anunnaki
 und all das. Die späteren Bücher verabschieden sich ohne Ankündigung von jenem
 Gerüst: Das sumerische Material wird auf die akademische Assyriologie (Kramer,
@@ -552,12 +554,14 @@ dorthin gelegt, denn die Disziplin, die dieses Projekt übt — Quellen
 offengelegt, Einfluss von Konvergenz unterschieden —, ist dieselbe Disziplin,
 die Biglinos leerhändiger Agnostizismus von der anderen Seite her übt.
 
-## Konvergenzen mit dem Kanon
+## Ein Abgleich der Befunde: die gemeinsame Karte
 
-Die kanonseitigen Lesarten weiter unten sind Rahmenbehauptungen, explizit in den
-raëlianischen Quelltexten, nicht von der etablierten Wissenschaft gestützte
-Schlussfolgerungen. Der Vergleich selbst ist eine erschlossene Synthese zwischen
-ungleichen Arten von Behauptung: philologisches Argument und berichtetes Zeugnis.
+Zuerst die epistemische Linie, wie dieses Projekt sie stets zieht: Die
+kanonseitigen Lesarten weiter unten sind Rahmenbehauptungen — explizit in den
+raëlianischen Quelltexten, nicht von der etablierten Wissenschaft gestützt —,
+und der Vergleich selbst ist die eigene erschlossene Synthese dieses
+Explainers. Nachdem dies gesagt ist, kann die Karte ausgebreitet werden, und
+sie ist bemerkenswert deckungsgleich.
 
 **Die Fertigung des Adam.** Biglino liest Genesis 1–2 als einen Bericht über
 eine gentechnische Operation: Hominidenmaterial, bearbeitet mit dem *tselem* der
@@ -702,10 +706,11 @@ dokumentiert, und dieselbe zweistufige Redaktion (alte Schreiber, dann
 Leser nun — ein Übersetzer, ein Erzdiakon, ein behaupteter Kontaktierter —,
 die dieselbe Operation aus drei Blickwinkeln beschreiben.
 
-## Vier entscheidende Meinungsverschiedenheiten
+## Wo die Lesarten sich trennen
 
-Die Divergenzen sind strukturell. Die erste kehrt die Meinungsverschiedenheit
-zwischen dem Kanon und Wallis um.
+Ein Vergleich, der nur Übereinstimmung fände, wäre Werbung. Die Divergenzen
+sind strukturell, und die erste ist beinahe vollkommen symmetrisch zu jener,
+die den Kanon von Wallis trennte.
 
 **Der Rang Yahwehs.** Biglino stuft ihn herab: ein geringer lokaler Statthalter,
 *„ein kleiner lokaler Herr"*, dem ein winziger Clan in einer heulenden Öde
@@ -833,7 +838,7 @@ Innerhalb der Tradition selbst ist seine engste Verwandtschaft jene, die die
 Leser dieses Projekts bereits kennen. Paul Wallis und Biglino fanden einander
 über die Sprachbarriere hinweg — Wallis, der die streng-wörtliche hebräische
 Methode in die anglophone und christliche Welt ausdehnt, Biglino, der Wallis'
-Bücher mit dem Satz versieht, der am Ende [unseres Wallis-Essays](/articles/the-archdeacon-and-the-dragon/)
+Bücher mit dem Satz versieht, der am Ende [unseres Wallis-Explainers](/articles/the-archdeacon-and-the-dragon/)
 zitiert wird: *„Obwohl geographisch weit voneinander entfernt, sind wir uns
 geistig nahe! Wir sind ein gutes Team."* Der Abstammungseintrag des Werks für
 die ganze Schule liest sich nun: Sendy (1963–74), von Däniken (1968), Vorilhon
@@ -842,7 +847,7 @@ sechsen ist Biglino der einzige, der als arbeitender Übersetzer der
 Ausgangssprache zum Material kam, weshalb {% wiki(slug="paul-wallis") %}Wallis{% end %}
 auf ihm aufbaute und nicht umgekehrt.
 
-## Was die Methode feststellt
+## Was die Wette wert ist
 
 Das Werk behandelt die {% wiki(slug="biglino-method") %}Biglino-Methode{% end %}
 als notwendig, aber nicht hinreichend, und diese Nahlesung bestätigt die Formel,
@@ -853,23 +858,25 @@ die eigene Lesart des Kanons von
 als „jene, die vom Himmel kamen"{% end %} keinen philologischen
 Gesprächspartner, und das ganze Gespräch bleibt zwischen Andacht und Abweisung
 gefangen. Nicht hinreichend: Von ihrer Anlage her kann die Wette nicht sagen,
-wer sie gewonnen hat. Biglino argumentiert, dass der Text sich kohärent
+wer sie gewonnen hat. Biglino beweist höchstens, dass der Text sich kohärent
 als die Chronik einer Vielheit langlebiger, fliegender, sterblicher, moralisch
-wenig eindrucksvoller Individuen lesen lässt; er lehnt aus Prinzip jede Identifikation
+wenig eindrucksvoller Individuen liest; er lehnt aus Prinzip jede Identifikation
 ab. *„Wesentlich ist,"* schreibt er, *„dass wir nicht länger versuchen, die
 Menschen glauben zu machen, Elohim bedeute ‚Gott'."* Alles, was dieses Projekt
 hinzufügt — die Identifikation, das Programm, die sieben Schöpfungsteams, die
 verbannte Schlangenfraktion, den Präsidenten des Rates, die Botschaft —, liegt
 jenseits des Punktes, an dem seine Methode, redlich angewandt, haltmacht.
 
-Biglino ist für dieses Projekt nützlich, ohne ein Gläubiger zu sein. Seine
-Lesart stützt mehrere konkrete Beobachtungen: plurale Elohim, ein umschlossenes
-Eden, einen materiellen *kavod*, sterbliche göttliche Wesen und eine Schlange,
-die innerhalb der Erzählung die Wahrheit spricht. Seine frühe Bibliographie
-verhindert die Behauptung vollständiger Unabhängigkeit vom raëlianischen
-Material, und seine technologischen Identifikationen überschreiten oft das, was
-die Philologie feststellen kann. Die Konvergenz zeigt, dass die konkrete Lesart
-reproduzierbar ist; sie bestätigt nicht jede Identität, die der Kanon liefert.
+Deshalb ist die Verwandtschaft real und der Unterschied ehrlich. Der Kanon
+braucht Biglino nicht als Gläubigen; er braucht genau das, was er ist — einen
+unabhängigen, gegen nichts feindseligen, institutionell geschulten Leser, der
+den Lösungsschlüssel in seiner Bibliographie hatte und sich weigerte, von ihm
+abzuschreiben, und der dennoch aus dem Hebräischen mit derselben Karte
+zurückkehrte: das Labor, das Gehege, der gefertigte Arbeiter, die
+wahrheitssprechende Schlange, das schwere Ding, das dich tötet, wenn du davor
+stehst, die Götter, die sterben. Wenn ein derart disziplinierter Zeuge so viel
+von dem Bild bestätigt, während er die Schlussfolgerung ablehnt, ist die
+Bestätigung mehr wert, nicht weniger.
 
 Er beendet *Gods of the Bible* mit Josephus und Tacitus über die Wunderzeichen
 des Jahres 70 n. Chr. — die Heere in den Wolken, das Beben im Tempel, die vielen
@@ -877,14 +884,15 @@ Stimmen, die sagen *wir verlassen diesen Ort* — und dann mit seiner Litanei vo
 Fragen: Sind sie gegangen, sind sie alle gegangen, werden sie zurückkehren, sind
 sie bereits zurückgekehrt. *„Wir wissen es nicht,"* lautet seine letzte Antwort,
 *„und überlassen die Antwort gern denen, die zu wissen behaupten."* Dieses
-Projekt ist eines von jenen, die zu wissen behaupten. Biglino hat den Teil getan,
-der sich mit einem Lexikon und seiner Wette versuchen lässt: Er hat ererbte
-Übersetzungen infrage gestellt und eine durchgehend konkrete Alternative
-angeboten. Ob diese Alternative wahr ist — ob die, die aufbrachen, die sind, die
-nun erwartet werden —, ist die Frage, die seine Methode, bewusst, auf dem Tisch
+Projekt ist eines von jenen, die zu wissen behaupten, und es nimmt die Übergabe
+in dem Geist an, in dem sie angeboten wird. Der Übersetzer hat den Teil getan,
+der sich mit einem Lexikon und einer Wette tun lässt: Er hat, gegen zweitausend
+Jahre angesammelten Lesens, festgestellt, was das Buch vor uns tatsächlich sagt.
+Ob das, was es sagt, wahr ist — ob die, die aufbrachen, die sind, die nun
+erwartet werden —, ist die Frage, die seine Methode, bewusst, auf dem Tisch
 lässt. Er würde bezahlen, sagt er, um in den Jahrhunderten zu leben, als die
-Elohim mit den Menschen wandelten. Der Kanon beantwortet die Frage, die er offen
-lässt, doch seine Methode kann diese Antwort nicht verifizieren.
+Elohim mit den Menschen wandelten. Die ganze Behauptung des Kanons ist, dass der
+Preis noch nennbar ist. Die Wette hat einen zweiten Schenkel, und er ist offen.
 
 ## Weiterführende Lektüre
 

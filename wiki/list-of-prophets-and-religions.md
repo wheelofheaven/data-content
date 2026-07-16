@@ -83,6 +83,10 @@ Three things the classifications do not claim are worth stating explicitly.
 
 The catalogue below covers the principal religious traditions of historical and contemporary significance, classified by the five-tier system described above. The catalogue is not exhaustive; coverage is most complete for traditions with substantial historical documentation and existing dedicated wiki entries. Traditions are ordered by approximate historical period, most recent first.
 
+{% info(title="Explore the data") %}
+This catalogue is available as a downloadable dataset — the [Prophets & Religions Catalogue](/datasets/prophets-and-religions/) gives all 48 traditions with founder, period, framework-relevant content, and the corpus's authenticity assessment as CC0 CSV and JSON.
+{% end %}
+
 | Tradition | Period | Founder(s) / Prophet(s) | Principal content relevant to framework | Authenticity |
 |---|---|---|---|---|
 | **[Raëlism](../raelism/)** | 1973–present | [Claude Vorilhon (Raël)](../rael/) | Direct first-person contact narrative; Elohim creation account; cosmic-chain doctrine; embassy project | Canonical |

@@ -704,8 +704,8 @@ by a boy with a stone — right on time.
   Eternals{% end %} entries, for the framework's reading of the
   divine-council texts that 4QDeutj and 11QMelchizedek carry in
   ancient form.
-- [Did the First Mosques Face
-  Petra?](/articles/the-first-mosques-faced-petra-not-mecca/), for the
+- [The First Mosques Faced Petra, Not
+  Mecca](/articles/the-first-mosques-faced-petra-not-mecca/), for the
   southern end of the desert corridor whose northern end this article
   has walked.
 - [The Archdeacon and the

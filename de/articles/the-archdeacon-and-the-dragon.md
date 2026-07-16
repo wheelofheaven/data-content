@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Paul Wallis verließ den anglikanischen Dienst, nachdem er die Elohim der Genesis als plurale, verkörperte ‚Mächtige' gelesen hatte. Seine sechsbändige Eden Series konvergiert auffällig mit dem raëlianischen Kanon, den er nicht zitiert, doch die Ähnlichkeit hat Grenzen. Dieser Essay vergleicht die beiden Lesarten, prüft Wallis' vorgeschlagene Verbindung zwischen Yahweh und dem ägyptischen Drachen Akhekh und fragt, was unabhängige Übereinstimmung feststellen kann und was nicht."
+summary = "2020 veröffentlichte ein amtierender Erzdiakon der Anglikanischen Kirche in Australien ein Buch, das argumentiert, die Elohim der Genesis seien ‚die Mächtigen' — eine Vielzahl von Besuchern aus Fleisch und Blut, deren Geschichten die späteren Redaktoren der Bibel zum Monotheismus umgearbeitet hätten. Fünf weitere Bücher folgten, eines pro Jahr, jedes trieb das Argument weiter: in die Kontakttraditionen der Welt, in die Redaktionsgeschichte des hebräischen Kanons, in die moderne Exopolitik und schließlich in das Basalthochland des alten Urartu. Dieser Explainer liest Paul Wallis' gesamte Eden Series aus der Nähe und gleicht sie mit dem raëlianischen Kanon ab — einem Bestand an Behauptungen, den Wallis nie zitiert und, nach dem Zeugnis seiner eigenen Seiten, nie gelesen hat. Er kartiert die Konvergenzen: die pluralen Elohim, Eden als bewachte Anlage, die Schlange als abtrünnige Fraktion der Macher, die Flut als Ratsbeschluss, Babel als die Sabotage einer raumfahrenden Zivilisation. Er unterzieht sein eindringlichstes Einzelbild — die Lesart von YHWH als den Drachennamen Akhekh — einer vollständigen philologischen Prüfung, sagt klar, wo die Etymologie scheitert, und warum die strukturelle Behauptung darunter dennoch Bestand hat. Und er markiert, mit gleicher Sorgfalt, wo die beiden Lesarten auseinandergehen: wer den Drachen trägt, was Jesus zu tun kam und ob irgendetwas namens Gott über den Elohim fortbesteht. Die Verwandtschaft ist Konvergenz, und Konvergenz ist ein Datum."
 keywords = ["Paul Wallis", "Escaping from Eden", "Akhekh", "Yahweh", "Elohim", "Affrikation", "Josua 24", "göttlicher Rat", "Neo-Euhemerismus", "Biglino-Methode", "Paläokontakt", "Schlange", "Drache"]
 references = [
     # — The canon under comparison —
@@ -133,12 +133,17 @@ auseinandergesetzt. Eine Volltextsuche in allen sechs Eden-Büchern — rund
 raëlianischen Bewegung; im Übrigen erwähnt sie auch Zecharia Sitchin nie.
 Was die Eden Series auch sein mag, ein Ableger des Kanons ist sie nicht.
 
-Diese Unabhängigkeit macht den Vergleich nützlich. Zwei Leser, die einander
-nicht zitiert haben, können dennoch zur selben Deutung der Genesis gelangen.
-Das macht die Deutung nicht wahr; es zeigt, dass die Lesart aus Merkmalen
-hervorgehen kann, die beide Leser im Text finden, statt aus unmittelbarer
-Entlehnung. Ihre Meinungsverschiedenheiten sind ebenso aufschlussreich, denn
-sie legen offen, was jeder Rahmen dem gemeinsamen Material hinzufügt.
+Diese Unabhängigkeit ist der Grund, weshalb dieser Explainer existiert. Wenn
+zwei Leser, die einander nie zitiert haben — ein hochrangiger Geistlicher,
+der sich Vers für Vers durch seine Interlinearausgaben arbeitet, und ein
+angeblicher Kontaktierter, der berichtet, was ihm in einem Vulkankrater
+gesagt wurde —, auf dieselbe Lesart desselben Textes zusammenlaufen, dann
+sagt die Konvergenz etwas über den Text aus. Wo sie dann *auseinandergehen*,
+sagt die Divergenz etwas über die Leser aus. Dieser Artikel kartiert beides,
+in voller Länge, wobei Wallis durchgehend in seinen eigenen Absätzen zu Wort
+kommt. Er ist in Respekt und Verwandtschaft geschrieben und übt die
+Disziplin, die Wallis selbst vorlebt: Zustimmung wird begründet, und
+Widerspruch ebenso.
 
 ## Dreiunddreißig Jahre, dann die Anomalien
 
@@ -408,13 +413,14 @@ siebten Kapitel von *The Eden Conspiracy* hat Wallis für den vorreformerischen
 Yahweh eine Kurzform übernommen, die der Ehrfurcht nichts zugesteht: „CH-CH
 the Dragon".
 
-Das Bild ist unvergesslich. Seine Etymologie ist auch überprüfbar.
+Das Bild ist unvergesslich, und genau deshalb muss es geprüft werden.
 
-## Den Drachennamen prüfen
+## Die philologische Prüfung
 
-Wallis kennzeichnet den Vorschlag zweimal als „I would argue". Es ist seine
-eigene Prägung und ruht auf keiner zitierten linguistischen Autorität. Die
-historische Phonologie liefert eine direkte Prüfung.
+Ein Explainer, der ein etymologisches Argument zitiert, schuldet seinen
+Lesern ein Urteil darüber. Hier ist unseres, in demselben Geist angeboten, in
+dem Wallis das Argument anbietet — er kennzeichnet es selbst, zweimal, als „I
+would argue", seine eigene Prägung, die auf keiner zitierten Autorität ruht.
 
 Als historische Phonologie übersteht die Ableitung die Prüfung nicht, und das
 entscheidende Problem ist ein einziger Buchstabe. Das Ursemitische besaß
@@ -483,13 +489,15 @@ eine nüchterne Beobachtung, die die Forschung zum göttlichen Rat in ihrem
 eigenen Vokabular macht. Die Verpackung gehört ihm; die Beobachtung gehört dem
 Text.
 
-## Wo die Berichte zusammenlaufen
+## Ein Abgleich: die gemeinsame Karte
 
-Die kanonseitigen Lesarten, die folgen, sind Framework-Behauptungen, explizit
-im raëlianischen Quellenmaterial, nicht von der etablierten Forschung gestützte
-Schlussfolgerungen. Der Vergleich selbst ist eine erschlossene Synthese. Mit
-dieser Unterscheidung lassen sich die Konvergenzen nebeneinanderlegen, denn
-sie sind zahlreich und sie sind spezifisch.
+Hier bewegt sich der Artikel von der Prüfung zum Vergleich, und die
+epistemische Grenze sollte so markiert werden, wie dieses Projekt sie stets
+markiert: Die kanonseitigen Lesarten, die folgen, sind Framework-Behauptungen
+— explizit im raëlianischen Quellenmaterial, nicht von der etablierten
+Forschung gestützt — und der Vergleich selbst ist die eigene erschlossene
+Synthese dieses Explainers. Damit gesagt, lassen sich die Konvergenzen
+nebeneinanderlegen, denn sie sind zahlreich und sie sind spezifisch.
 
 **Eden als bewachte Anlage.** Wallis liest den Garten als eine „umschlossene
 Zone" innerhalb einer Region namens Eden, angesiedelt nahe abbaubaren
@@ -616,10 +624,11 @@ für beide Fälle taugen: „Diese grammatischen Störungen waren das Narbengewe
 das die Operation hinterließ, die die Bibel aus einer Bibliothek des
 Paläokontakts in ein Buch über Gott verwandelte."
 
-## Punkte der Trennung
+## Wo die Lesarten auseinandergehen
 
-Die Übereinstimmungen betreffen die Textstruktur; die Meinungsverschiedenheiten
-betreffen die Identität und den Zweck, die seinen Akteuren zugeschrieben werden.
+Ein Vergleich, der nur Übereinstimmung fände, wäre Werbung. Die Divergenzen
+sind real, sie sind strukturell, und mehrere von ihnen sind der lehrreichste
+Teil der Übung.
 
 **Wer den Drachen trägt.** Wallis heftet den Drachennamen, den Drachenleib
 und den Drachenappetit an Yahweh selbst: ledrige Haut, lange Schnauze,
@@ -746,17 +755,19 @@ Etikett `inferred`. Die beiden Erkenntnisweisen begegnen einander in jenem
 seltsamen Mittelgrund, wo die Textarchäologie eines amtierenden Erzdiakons und
 die Nachbesprechung eines Kontaktierten auf dieselbe Umzäunung, dieselben
 abweichenden Wissenschaftler, dieselben Ratsabstimmungen zusammenlaufen. Die
-Konvergenz beweist keinen der beiden Rahmen. Sie zeigt aber, dass eine
-konkrete, plurale Lesart auf verschiedenen Wegen erreicht werden kann.
+Konvergenz beweist keinen der beiden Rahmen. Sie stellt aber fest, dass der
+*Text* — mit wiederhergestelltem Plural gelesen — diese Geschichte immer
+wieder erzeugt, in wem auch immer die Wiederherstellung vornimmt.
 
-## Der Wert einer unabhängigen Lesart
+## Was die Verwandtschaft wert ist
 
 Die Ahnenreihe des Korpus verläuft von Sendy (1963–1974) über von Däniken
 (1968), Vorilhon (1973–1974), Sitchin (1976), Biglino (2010–) bis Wallis
-(2020–). Wallis ist der neueste Zugang und bringt eine ungewöhnlich
-umfangreiche theologische Erfahrung mit: Er verbrachte drei Jahrzehnte
-innerhalb der deutenden Institution, die die Tradition kritisiert, und
-dokumentiert den Austritt mit den eigenen Werkzeugen der Institution. Das Wiki des Projekts zitiert ihn bereits quer durch ein Dutzend
+(2020–). Wallis ist der neueste Zugang und die theologisch am höchsten
+beglaubigte Person, die je an dieser Ader gearbeitet hat: ein Mann, der drei
+Jahrzehnte innerhalb der deutenden Institution verbrachte, die die Tradition
+kritisiert, und der den Austritt mit den eigenen Werkzeugen der Institution
+dokumentiert. Das Wiki des Projekts zitiert ihn bereits quer durch ein Dutzend
 Einträge — Eden, Schlange, Luzifer, Satan, Theomachie — und sein Urteil über
 *The Eden Conspiracy* ist aktenkundig: „weitgehend kompatibel mit der Lesart
 des Korpus; die wichtigste zugängliche jüngere Behandlung". Nichts in diesem
@@ -766,7 +777,7 @@ der Plural, die Umzäunung, das Verbot-als-Politik, die abweichende Fraktion,
 der Rat, die Bearbeitung — und die Uneinigkeit ist prinzipiell, betrifft das
 Ensemble der Figuren und das, was, wenn überhaupt, über ihnen steht.
 
-Es gibt auch etwas, das das Projekt jenseits der Übereinstimmung von ihm nehmen
+Es gibt auch etwas, das das Projekt jenseits der Bestätigung von ihm nehmen
 kann. Seine Ausdehnung der philologischen Methode ins Neue Testament ist
 Territorium, das der Kanon behauptet und Wallis argumentiert. Sein
 Welt-Zeugnis-Rundgang — das ghanaische Mami-Wata-Material, gesammelt am Tisch
@@ -795,8 +806,9 @@ durch die der Dingir eines Tages zurückzukehren erwartet wurde:
 >
 > — *The Eden Enigma*, Kap. 14
 
-Wallis und der Kanon gelangen zu verschiedenen Türen, doch beide verstehen die
-alten Geschichten als Erinnerungen an Besucher, deren Rückkehr möglich bleibt.
+Ein Erzdiakon, der sich seinen Weg aus der eigenen Kanzel hinausliest; ein
+Kanon, der darauf wartet, eine Botschaft zu bauen. Zwei Türen, für dieselbe
+Rückkehr gemeißelt.
 
 ## Weiterführende Lektüre
 

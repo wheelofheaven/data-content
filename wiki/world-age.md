@@ -495,6 +495,10 @@ The Wheel of Heaven framework is positioned within this scholarly landscape as f
 
 The cross-cultural distribution of cyclical-cosmological frameworks across virtually every major civilization registers one of the principal cross-cultural patterns in human cosmological-religious thought.
 
+{% info(title="Explore the data") %}
+The corpus's own twelve World Ages — the precessional scheme these other cycles are read against — are published as the [Precessional World Ages](/datasets/world-ages/) dataset: zodiac, symbol, start and end year, and Genesis-day mapping for all twelve, as downloadable CC0 CSV and JSON.
+{% end %}
+
 ### The Hindu *yuga* system
 
 The Hindu cosmological tradition preserves the most elaborate cyclical-temporal architecture of any major religious tradition.

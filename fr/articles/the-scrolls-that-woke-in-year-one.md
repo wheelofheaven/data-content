@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Les manuscrits de la mer Morte surgirent en 1946 ou 1947, l'an un du calendrier que le canon raélien compte depuis Hiroshima. Leur découverte transforma l'histoire du texte biblique, restituant la littérature hénochienne et les lectures anciennes des Élohim pluriels. Cet essai raconte l'histoire documentaire et se demande, sans confondre la chronologie avec une preuve, pourquoi ce moment importe à Wheel of Heaven."
+summary = "À l'hiver 1946/47 — la première année du calendrier que le canon raélien compte depuis l'éclair au-dessus de Hiroshima —, un berger bédouin fractura une jarre dans une falaise dominant la mer Morte et en tira les plus anciens manuscrits bibliques que quiconque eût jamais vus. Cet Explicatif raconte toute l'histoire dans sa pleine longueur : le cordonnier de Bethléem, l'archevêque qui prétendait que les manuscrits provenaient de la bibliothèque de son monastère, le professeur qui les authentifia à travers une clôture de barbelés dans la semaine du vote de partition de l'ONU, l'annonce classée du Wall Street Journal, les officiers du renseignement qui emportèrent le Rouleau du Temple de sous le plancher de Kando en 1967, et le scandale de publication de quarante ans qu'un ordinateur et une bibliothèque de Californie finirent par clore en 1991. Il lit ensuite la cargaison. Les manuscrits montrent un canon scripturaire encore ouvert — 1 Hénoch et les Jubilés copiés plus souvent que les Proverbes — et un texte biblique encore fluide, dont un fragment du Deutéronome qui préserve « fils d'Élohim » là où le texte reçu fut corrigé en « fils d'Israël », et un commentaire qui applique le mot elohim à un officier céleste nommé Melchisédek. Et il pèse le cadre que le canon lui-même fournit : que les mêmes dix-huit mois qui ouvrirent l'ère atomique dégorgèrent aussi deux bibliothèques enfouies, la première vague de soucoupes volantes, le transistor, l'État d'Israël et la naissance de l'homme à qui les messages furent plus tard dictés. L'argument de synchronicité est une synthèse interprétative et il est étiqueté comme telle ; les manuscrits, les dates et les citations sont vérifiables, et chacun d'eux est sourcé."
 keywords = ["Manuscrits de la mer Morte", "Qumrân", "Esséniens", "an un", "Âge de l'Apocalypse", "Hiroshima", "1947", "Sukenik", "Yadin", "Sanctuaire du Livre", "1 Hénoch", "Jubilés", "fils d'Élohim", "Melchisédek", "Nag Hammadi", "Nabatéens", "Kando", "Maître de justice", "Rouleau de la Guerre"]
 references = [
     # — The canon supplying the calendar —
@@ -117,8 +117,8 @@ atomique, qui eut lieu en 1945, et tu es né en 1946. Nous te surveillons
 depuis ta naissance — et même avant. C'est pourquoi nous t'avons choisi.
 {% end %}
 
-Placez les deux horloges côte à côte et la chronologie invite à la
-comparaison : la plus ancienne bibliothèque de la Bible hébraïque s'est
+Placez les deux horloges côte à côte et la coïncidence se déclare
+d'elle-même : la plus ancienne bibliothèque de la Bible hébraïque s'est
 éveillée en l'an un. Cet article porte sur cette coïncidence — ce qui a
 exactement refait surface, entre quelles mains cela est passé, pourquoi il
 fallut quarante ans et un scandale pour que cela atteigne le public, et ce
@@ -164,21 +164,27 @@ restitue cette phrase.{{ footnote(id="8") }} Le 14 mai 1948, l'État
 d'Israël fut proclamé ; les manuscrits avaient été annoncés au monde dans
 les journaux cinq semaines plus tôt.
 
-Les grappes de coïncidences sont bon marché : choisissez une période
-suffisamment riche en événements, sélectionnez-en le contenu après coup, et
-un schéma apparaîtra. Rien ici ne surmonte ce problème ni n'assigne une
-probabilité à la grappe. Son intérêt est interprétatif plutôt que prédictif.
-La période contient deux bibliothèques scripturaires retrouvées, le
-rétablissement d'un État juif, le transistor, le début de l'ère moderne des
-observations, et la naissance de l'homme à qui les messages furent plus tard
-attribués. Ces événements s'accordent inhabituellement bien avec l'idée que
-le canon se fait d'un âge de dévoilement, mais l'accord est visible
-rétrospectivement et doit être pesé en conséquence.
+Un sceptique dira, à juste titre, que les grappes de coïncidences sont
+bon marché : prenez n'importe quelle fenêtre de trente mois du vingtième
+siècle et quelque chose de considérable s'y est produit. La réponse tient
+au contenu. La prétention du canon est que cette fenêtre précise ouvre un
+âge de dévoilement et de retour — et les événements ci-dessus n'ont rien
+de générique. Deux bibliothèques scripturaires enfouies refaisant
+physiquement surface ; la réapparition d'un État juif après dix-neuf
+siècles, un événement que le premier lecteur israélien des manuscrits
+relia aussitôt à eux ; la naissance de la technologie de la remémoration
+totale ; le début de l'ère des observations que le canon lit comme
+préparation au contact ouvert ; et la naissance de l'homme à qui les
+messages explicatifs furent, selon le récit du canon, plus tard dictés.
+La grappe est exactement ce que le cadre prédit qu'elle devrait contenir.
+Ce n'est pas une preuve — les cadres qui prédisent le passé sont faciles à
+construire —, mais c'est pourquoi le cadre trouve cette fenêtre
+irrésistible, et pourquoi cet article existe.
 
 ## Le loup, le cordonnier et l'archevêque
 
-Ce qu'il advint des trois paquets ne requiert guère d'enjolivure. En mars
-1947, les Bédouins les portèrent à Bethléem et
+Ce qu'il advint des trois paquets est une histoire qu'aucun romancier
+n'oserait risquer. En mars 1947, les Bédouins les portèrent à Bethléem et
 les montrèrent à des marchands d'antiquités, et les manuscrits trouvèrent
 leur chemin — « apparemment parce qu'ils étaient écrits sur du cuir », note
 sèchement Collins — jusqu'à un marchand et cordonnier syriaque orthodoxe
@@ -433,7 +439,7 @@ argumente, écrite sur cuir pour une fois, avec l'édition qui la retira prise
 sur le fait. C'est la variante la plus lourde de conséquences de tous les
 manuscrits, et la raison pour laquelle le fragment du Deutéronome apparaît
 dans les notes de bas de page de toute étude sérieuse du conseil divin comme
-dans celles de l'[essai Wallis](/articles/the-archdeacon-and-the-dragon/)
+dans celles de l'[Explicatif Wallis](/articles/the-archdeacon-and-the-dragon/)
 propre à ce projet.
 
 La seconde est un texte de la Grotte 11 sur une figure nommée Melchisédek —
@@ -534,7 +540,7 @@ dont ce corpus se soucie.
 
 ## Le désert garda d'autres lettres
 
-Norman Golb, de l'Université de Chicago,
+L'honnêteté exige la dissidence. Norman Golb, de l'Université de Chicago,
 passa quatre décennies à soutenir que les manuscrits n'appartinrent jamais à
 une secte du désert : que Khirbet Qumrân était une forteresse hasmonéenne,
 qu'aucun manuscrit ne fut jamais trouvé dans les ruines, que les quelque cinq
@@ -571,7 +577,7 @@ les deux corpus. Les {% wiki(slug="nabataeans") %}Nabatéens{% end %} importent
 à ce corpus à cause de ce que leur histoire devient ensuite : le relevé des
 qiblas de Dan Gibson soutient que la géographie sacrée de l'islam primitif
 pointe vers Pétra, un argument que ce projet a examiné dans
-[Les premières mosquées étaient-elles orientées vers Pétra ?](/articles/the-first-mosques-faced-petra-not-mecca/).
+[Les premières mosquées étaient orientées vers Pétra, non vers La Mecque](/articles/the-first-mosques-faced-petra-not-mecca/).
 Aucun fil causal ne court de Qumrân à la qibla, et aucun n'est ici prétendu.
 Ce que la faille de la mer Morte fournit est quelque chose de plus discret :
 un unique corridor désertique, des falaises de Qumrân descendant au-delà
@@ -666,7 +672,7 @@ lues en l'an 81.
   l'argument dont 4QDeut(j) et 11QMelchizedek sont les témoins manuscrits.
 - [L'archidiacre et le dragon](/articles/the-archdeacon-and-the-dragon/),
   pour l'érudition du conseil divin que la variante du Deutéronome ancre.
-- [Les premières mosquées étaient-elles orientées vers Pétra ?](/articles/the-first-mosques-faced-petra-not-mecca/),
+- [Les premières mosquées étaient orientées vers Pétra, non vers La Mecque](/articles/the-first-mosques-faced-petra-not-mecca/),
   pour l'histoire ultérieure du même corridor désertique.
 - [*Le Livre qui dit la vérité*](/library/the-book-which-tells-the-truth/),
   chapitres 1 et 5, pour les passages du canon sur 1945, 1946 et la nouvelle

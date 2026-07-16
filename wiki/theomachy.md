@@ -466,6 +466,10 @@ The Wheel of Heaven corpus's Theomachy treatment is positioned within this schol
 
 The cross-cultural distribution of Theomachy traditions across virtually every major mythological tradition is one of the framework's principal comparative-observational findings. The pattern is global, with substantial structural correspondences appearing consistently across geographically and chronologically separated traditions.
 
+{% info(title="Explore the data") %}
+The combat-myth parallels surveyed below are cross-referenced in the [Theomachy Cross-References](/datasets/theomachy-crossrefs/) dataset — eight traditions compared by champion, adversary, chaos-form, weapon, and outcome, as downloadable CC0 CSV and JSON.
+{% end %}
+
 ### Greek Titanomachy and Gigantomachy
 
 The Greek tradition preserves two distinct but related Theomachy narratives.

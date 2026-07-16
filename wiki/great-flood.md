@@ -552,6 +552,10 @@ The corpus's Flood reading is positioned within this landscape as follows: align
 
 Flood narratives appear across more than two hundred distinct cultures worldwide, with substantial structural and detailed parallels to the Hebrew Bible's Genesis account. The corpus reads this cross-cultural pattern as substantial evidence of the underlying historical reality the framework describes. The principal cross-cultural cases warrant treatment.
 
+{% info(title="Explore the data") %}
+The traditions compared below are tabulated side by side in the [Flood-Myth Concordance](/datasets/flood-myths/) — a downloadable CC0 dataset of eight ancient flood accounts (survivor, decreeing power, warner, cause, vessel, birds released, landing place, aftermath) in CSV and JSON.
+{% end %}
+
 ### The Mesopotamian flood traditions
 
 The Mesopotamian flood traditions provide the most substantively developed parallels to the Hebrew Bible's Genesis narrative, with substantial textual evidence preserved in cuneiform tablets dating from the third millennium BCE through the first millennium BCE.

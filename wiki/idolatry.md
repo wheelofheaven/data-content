@@ -154,4 +154,4 @@ The full comparative argument is developed in
 [*Monotheism Is the Wrong Question*](/articles/monotheism-is-the-wrong-question/).
 The broader prophetic test appears in [*The Forty Chairs*](/articles/the-forty-chairs/),
 and Islam's restoration claim in
-[*Did the First Mosques Face Petra?*](/articles/the-first-mosques-faced-petra-not-mecca/).
+[*The First Mosques Faced Petra, Not Mecca*](/articles/the-first-mosques-faced-petra-not-mecca/).
