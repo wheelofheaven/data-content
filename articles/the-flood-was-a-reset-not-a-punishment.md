@@ -446,7 +446,7 @@ Several features can be mapped onto that picture of a divided institution:
 - The **council and the binding oath** depict a collective commitment, with the
   oath treated as the operative fact.
 - The **survivor's specification** — coated hull, fixed dimensions, decks and
-  compartments, and a cargo defined as *the seed of all living things* — is a
+  compartments, and a cargo defined as *the seed of all living things* —
   can be read as a preservation plan intended to carry living stock through the
   catastrophe.
 - **Ea's proportionality speech** presents the flood as an indiscriminate
