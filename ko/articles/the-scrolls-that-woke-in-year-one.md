@@ -2,7 +2,7 @@
 title = "원년에 깨어난 두루마리들"
 description = "히로시마 섬광을 기점으로 세는 달력의 원년, 한 목자의 돌멩이가 사해 위 절벽에서 항아리를 깨뜨렸다. 그 두루마리들이 벗겨 낸 것 — 그리고 그 시점이 어째서 들어맞는가."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-13
 draft = false
 
 [extra]

@@ -2,7 +2,7 @@
 title = "Los rollos que despertaron en el año uno"
 description = "La piedra de un pastor rompió una tinaja sobre el Mar Muerto en el año uno del calendario que cuenta desde Hiroshima. Lo que los rollos develaron —y por qué la fecha encaja—."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-13
 draft = false
 
 [extra]

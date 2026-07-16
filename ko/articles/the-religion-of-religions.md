@@ -2,7 +2,7 @@
 title = "종교들의 종교"
 description = "야훼는 1975년에 스스로 그 범주에 이름을 붙였다. '종교들의 종교… 무신론적 종교.' 오십 년의 학문이 그 이름표를 시험해 왔다."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-14
 draft = false
 
 [extra]

@@ -2,7 +2,7 @@
 title = "諸宗教の宗教"
 description = "ヤハウェは1975年に自らその範疇を名づけた——「諸宗教の宗教……無神論の宗教」。五十年におよぶ学問はその呼び名を検証しつづけてきた。"
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-14
 draft = false
 
 [extra]

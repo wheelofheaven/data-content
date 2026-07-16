@@ -2,7 +2,7 @@
 title = "The Religion of Religions"
 description = "Yahweh named the category himself in 1975: 'the religion of religions… an atheistic religion.' Fifty years of scholarship has been testing that label."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-14
 draft = false
 
 [extra]

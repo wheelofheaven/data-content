@@ -2,7 +2,7 @@
 title = "在元年甦醒的書卷"
 description = "在以廣島為起點紀年的曆法之元年，一名牧羊人的石子擊碎了死海之上一只陶罐。那些書卷所揭示的——以及為何這一時機恰相吻合。"
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-13
 draft = false
 
 [extra]

@@ -2,7 +2,7 @@
 title = "在元年苏醒的书卷"
 description = "在从广岛起算的历法的元年，一位牧人的石块在死海之上击破了一只陶罐。那些书卷所揭示的——以及这个时机为何契合。"
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-13
 draft = false
 
 [extra]

@@ -2,7 +2,7 @@
 title = "Die Religion der Religionen"
 description = "Jahwe benannte die Kategorie 1975 selbst: „die Religion der Religionen … eine atheistische Religion.“ Fünfzig Jahre Forschung haben dieses Etikett auf die Probe gestellt."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-14
 draft = false
 
 [extra]

@@ -2,7 +2,7 @@
 title = "דת הדתות"
 description = "יהוה עצמו נתן שם לקטגוריה ב-1975: 'דת הדתות… דת אתאיסטית'. חמישים שנות מחקר בוחנות מאז את התווית הזו."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-14
 draft = false
 
 [extra]

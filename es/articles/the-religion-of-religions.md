@@ -2,7 +2,7 @@
 title = "La religión de las religiones"
 description = "Yahvé nombró la categoría él mismo en 1975: «la religión de las religiones… una religión atea». Medio siglo de erudición lleva poniendo a prueba esa etiqueta."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-14
 draft = false
 
 [extra]

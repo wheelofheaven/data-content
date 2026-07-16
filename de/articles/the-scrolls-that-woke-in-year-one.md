@@ -2,7 +2,7 @@
 title = "Die Schriftrollen, die im Jahr eins erwachten"
 description = "Der Stein eines Hirten zerbrach über dem Toten Meer einen Krug im Jahr eins des Kalenders, der von Hiroshima an zählt. Was die Rollen enthüllten — und warum die Zeitrechnung passt."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-13
 draft = false
 
 [extra]

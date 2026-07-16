@@ -2,7 +2,7 @@
 title = "宗教中的宗教"
 description = "耶和华早在 1975 年就亲自命名了这一类别：「宗教中的宗教……一种无神论的宗教。」五十年的学术研究一直在检验这个标签。"
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-14
 draft = false
 
 [extra]

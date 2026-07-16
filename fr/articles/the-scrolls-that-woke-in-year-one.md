@@ -2,7 +2,7 @@
 title = "Les manuscrits qui s'éveillèrent en l'an un"
 description = "La pierre d'un berger brisa une jarre au-dessus de la mer Morte en l'an un du calendrier qui compte depuis Hiroshima. Ce que les manuscrits dévoilèrent — et pourquoi la coïncidence de date tient."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-13
 draft = false
 
 [extra]

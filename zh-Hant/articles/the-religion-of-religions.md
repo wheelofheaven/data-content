@@ -2,7 +2,7 @@
 title = "眾宗教之宗教"
 description = "耶和華早在 1975 年就親自為這一範疇命了名：「眾宗教之宗教……一種無神論的宗教。」五十年的學術，一直在檢驗那個標籤。"
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-14
 draft = false
 
 [extra]

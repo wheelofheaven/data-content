@@ -2,7 +2,7 @@
 title = "元年に目覚めた巻物"
 description = "ある羊飼いの投げた石が、死海の上の崖で一つの壺を割った——広島の閃光から数える暦の元年に。巻物が明らかにしたもの、そしてなぜその時期が符合するのか。"
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-13
 draft = false
 
 [extra]

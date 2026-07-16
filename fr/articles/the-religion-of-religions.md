@@ -2,7 +2,7 @@
 title = "La religion des religions"
 description = "Yahvé a lui-même nommé la catégorie en 1975 : « la religion des religions… une religion athée. » Cinquante ans d'érudition ont mis cette étiquette à l'épreuve."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-14
 draft = false
 
 [extra]
