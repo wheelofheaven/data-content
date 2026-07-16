@@ -18,6 +18,7 @@ see_also = [
     { title = "World Age", path = "wiki/world-age", description = "The precessional chronology the corpus integrates with Sendy's transmission lineages." },
     { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "A principal body Sendy reads for preserved sky-people content within the Tradition." },
     { title = "Plurality of Gods", path = "wiki/plurality-of-gods", description = "A recovered element of the preserved cosmic-religious knowledge the Tradition carries." },
+    { title = "The Man Who Bet the Bible on the Moon", path = "articles/the-man-who-bet-the-bible-on-the-moon", description = "Jean Sendy engaged the Tradition through Chief Rabbi Safran's Kabbalah — the full study." },
 ]
 
 [extra.infobox]

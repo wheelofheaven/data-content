@@ -19,6 +19,7 @@ see_also = [
     { title = "List of etymological readings", path = "wiki/list-of-etymological-readings", description = "The corpus catalogue of Hebrew terms read directly, applying the method term by term." },
     { title = "Neo-Euhemerism", path = "wiki/neo-euhemerism", description = "The broader interpretive stance treating myth as compressed history that the method serves." },
     { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The wider field whose literal-reading conclusions the method's outputs feed." },
+    { title = "The Man Who Bet the Bible on the Moon", path = "articles/the-man-who-bet-the-bible-on-the-moon", description = "Jean Sendy stated the Schliemann-Homer principle four decades before Biglino — the full study." },
 ]
 
 [extra.infobox]

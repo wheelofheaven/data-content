@@ -17,7 +17,8 @@ see_also = [
     { title = "Mauro Biglino", path = "wiki/mauro-biglino", description = "The philologist whose three-step method the corpus pairs with these conditions." },
     { title = "The Tradition", path = "wiki/the-tradition", description = "The transmitted knowledge Sendy's fourth condition reframes as physical galactic contact." },
     { title = "Neo-Euhemerism", path = "wiki/neo-euhemerism", description = "The interpretive tradition the conditions equip a reader to enter." },
-    { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The broader interpretive tradition within which the conditions specify a reading method." }
+    { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The broader interpretive tradition within which the conditions specify a reading method." },
+    { title = "The Man Who Bet the Bible on the Moon", path = "articles/the-man-who-bet-the-bible-on-the-moon", description = "The full Explainer on Jean Sendy, whose conditions of coherence this entry catalogues." }
 ]
 
 [extra.infobox]
@@ -62,12 +63,12 @@ The book is the fourth in Sendy's mature alternative-history sequence:
 
 - *Les cahiers de cours de Moïse* (Julliard, 1963)
 - *La lune, clé de la Bible* (Julliard, 1968)
-- *Les dieux nous sont nés* (Grasset, 1968)
+- *Les dieux nous sont nés* (Grasset, 1966)
 - *Ces dieux qui firent le ciel et la terre* (Robert Laffont, 1969; English: *Those Gods Who Made Heaven and Earth*, Berkley, 1972)
 - *L'Ère du Verseau* (Robert Laffont, 1970)
-- *Nous autres, gens du Moyen Age* (Julliard, 1973)
+- *Nous autres, gens du Moyen Age* (Julliard, 1969)
 
-A note on the v1 attribution: the previous wiki entry attributed the five conditions to *The Coming of the Gods* (1970). This is a bibliographical error. *The Coming of the Gods* is not an actual Sendy title; the source is *L'Ère du Verseau*. The error appears to derive from confusion between Sendy's various titles in the English-language reception, where translation history is incomplete and titles have been variously rendered.
+A note on the v1 attribution: the previous wiki entry attributed the five conditions to *The Coming of the Gods* (1970). *The Coming of the Gods* (Berkley, 1973) is the English translation of *L'Ère du Verseau* (Robert Laffont, 1970) — the same work, not a separate one — and the five conditions appear in *L'Ère du Verseau* (chapter 18 of the J'ai lu edition). The confusion derives from Sendy's incomplete English-language reception, in which the French and English titles have been variously rendered and sometimes mistaken for distinct books.
 
 The immediate textual context of the five conditions deserves noting. The paragraph that introduces the conditions occurs midway through chapter 18, in a discussion of the Genesis chronology and its correspondence with the precessional dating Sendy is developing. The paragraph immediately preceding the conditions reads:
 
@@ -377,11 +378,11 @@ Sendy, Jean. *Les cahiers de cours de Moïse*. Julliard, 1963.
 
 Sendy, Jean. *La lune, clé de la Bible*. Julliard, 1968.
 
-Sendy, Jean. *Les dieux nous sont nés*. Grasset, 1968.
+Sendy, Jean. *Les dieux nous sont nés*. Grasset, 1966.
 
 Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972. The principal articulation of the Schliemann-Homer reading principle.
 
-Sendy, Jean. *Nous autres, gens du Moyen Age*. Julliard, 1973.
+Sendy, Jean. *Nous autres, gens du Moyen Age*. Julliard, 1969.
 
 ### Mauro Biglino — paired methodology
 

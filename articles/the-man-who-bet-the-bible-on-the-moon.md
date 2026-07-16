@@ -3,7 +3,7 @@ title = "The Man Who Bet the Bible on the Moon"
 description = "Jean Sendy read Genesis as the log of a cosmonaut colonization and staked the whole reading on a falsifiable lunar prediction — a decade before Raël."
 template = "articles-page.html"
 date = 2026-07-05
-draft = true
+draft = false
 
 [extra]
 claim_type = "inferred"
