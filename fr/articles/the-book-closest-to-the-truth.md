@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Dans *Le Livre qui dit la vérité*, Yahvé nomme la Kabbale « le livre le plus proche de la vérité » et en cite deux chiffres : la hauteur du créateur, 236 000 parasanges, et la hauteur de ses talons, 30 millions. Les deux nombres existent. Ils appartiennent au *Shi'ur Qomah*, « la Mesure de la Stature » — un texte hébreu plus ancien que la Kabbale proprement dite, transmis au sein de la littérature hekhalot et imprimé dans le *Sefer Raziel*, où l'ange Metatron dicte les dimensions du corps du Créateur membre par membre. Cet Explicatif lit le texte de près à travers la traduction propre du projet, expose ce que la tradition juive et l'érudition moderne disent de la signification des mesures, déploie la contre-lecture du canon — le parasange comme seconde-lumière, le corps comme itinéraire — puis vérifie, livre par livre, ce qu'un lecteur français pouvait réellement savoir de tout cela en décembre 1973. L'une des trouvailles de cette vérification paraît inédite."
+summary = "Le canon raélien appelle la Kabbale « le livre le plus proche de la vérité » et en cite deux mesures colossales conservées dans le *Shi'ur Qomah*. Cet essai suit ces chiffres à travers les manuscrits hekhalot, l'interprétation juive et les sources françaises disponibles en 1973. La piste mène à un livre de poche précis dont la formulation coïncide étroitement avec le canon, tout en laissant une conversion cruciale inexpliquée."
 keywords = ["Shi'ur Qomah", "Kabbale", "Hekhalot", "mystique de la Merkava", "Cantique des Cantiques", "parasange", "Métatron", "Sefer Raziel", "hypothèse Élohim"]
 references = [
     # — The canon passage under discussion —
@@ -105,7 +105,7 @@ footnotes = [
 +++
 
 Quelque part dans les derniers siècles de l'Antiquité — la date exacte est
-l'un des objets de cet Explicatif — un écrivain hébreu consigna la taille de
+l'un des objets de cet essai : un écrivain hébreu consigna la taille de
 Dieu. Il le fit en unités. Le chiffre est délivré par un ange, juré comme une
 déclaration sous serment, et chiffré en *parasanges*{{ footnote(id="1") }}, la
 lieue perse que les pieds d'un voyageur connaissaient comme une heure de
@@ -138,7 +138,7 @@ de ses talons» est de 30 millions de «parasanges».
 {% end %}
 
 Trois paragraphes plus loin vient le superlatif catégorique qui donne son titre
-à cet Explicatif : *« La Kabbale est le livre le plus proche de la vérité »*
+à cet essai : *« La Kabbale est le livre le plus proche de la vérité »*
 ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=54) %}LLQDV 5:54{% end %}).
 
 La plupart des affirmations du canon raélien sont des lectures — un laboratoire
@@ -424,7 +424,7 @@ la Mishna. La présence du Cantique sur la liste restreinte n'a de sens, soutint
 Scholem, que si, du temps d'Origène, il était déjà l'ancrage scripturaire de la
 doctrine des mesures.
 
-L'honnêteté requiert l'autre versant. Cohen, qui produisit l'édition critique,
+Cohen, qui produisit l'édition critique,
 riposta fermement : le Dieu du *Shi'ur Qomah* « n'a ni tête d'or ni reins
 d'ivoire ni mollets de marbre » ; le Cantique décrit son bien-aimé de la tête
 vers le bas tandis que le *Shi'ur Qomah* mesure des pieds vers le haut ; et les
@@ -670,9 +670,9 @@ pourquoi.
 
 ## Que pouvait savoir Claude Vorilhon en 1973 ?
 
-Un Explicatif intellectuellement honnête doit retourner l'instrument sur son
-propre canon. Si le *Shi'ur Qomah* était ésotérique, non traduit en français et
-textuellement chaotique, alors une question vérifiable se présente : un
+L'affirmation autorise aussi un test de provenance. Si le *Shi'ur Qomah* était
+ésotérique, non traduit en français et textuellement chaotique, alors une
+question vérifiable se présente : un
 journaliste de course automobile sans hébreu aurait-il pu tirer ces deux nombres
 d'une bibliothèque plutôt que d'un être dans un cratère ? Ce projet est allé
 chercher — systématiquement, livre par livre, dans les sources qu'un lecteur
@@ -726,12 +726,12 @@ Cantique des Cantiques » de Scholem en l'affirmation que la description est
 rien sinon de cette chaîne particulière de résumés. Un nombre partagé peut être
 une coïncidence. Une erreur de traduction partagée, un format de citation
 partagé et une erreur de catégorie partagée, empilés dans un seul court
-paragraphe, forment une filiation — le raisonnement même que les philologues
-appliquent aux propres manuscrits du *Shi'ur Qomah*. À la connaissance de ce
-projet — et nous avons cherché un précédent — cette identification du profil
-textuel prochain du passage du canon n'a pas été publiée auparavant ; à
-considérer comme la trouvaille propre de cet Explicatif, offerte avec ses
-preuves.
+paragraphe, suggèrent fortement une filiation. C'est le raisonnement même que
+les philologues appliquent aux propres manuscrits du *Shi'ur Qomah*. À la
+connaissance de ce projet — et nous avons cherché un précédent — cette
+identification du profil textuel prochain du passage du canon n'a pas été
+publiée auparavant ; à considérer comme la trouvaille propre de cet essai,
+offerte avec ses preuves.
 
 Ce que l'audit n'a *pas* trouvé importe tout autant. Aucune source antérieure à
 1973 — ni Scholem, ni Sérouya, ni les encyclopédies, ni la littérature

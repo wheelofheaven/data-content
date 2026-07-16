@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "En *El Libro que dice la Verdad*, Yahvé nombra a la Cábala «el libro más cercano a la verdad» y cita de ella dos cifras: la altura del creador, 236,000 parasangas, y la altura de sus talones, 30 millones. Ambos números existen. Pertenecen al *Shi'ur Qomah*, «la Medida de la Estatura» —un texto hebreo más antiguo que la Cábala propiamente dicha, transmitido dentro de la literatura Hekhalot e impreso en el *Sefer Raziel*, en el que el ángel Metatron dicta las dimensiones del cuerpo del Creador miembro a miembro—. Este Explicativo lee el texto de cerca a través de la propia traducción del proyecto, expone lo que la tradición judía y la erudición moderna dicen que significan las medidas, plantea la contralectura del canon —la parasanga como un segundo-luz, el cuerpo como una ruta— y luego audita, libro por libro, qué podía saber realmente un lector francés de todo esto en diciembre de 1973. Uno de los hallazgos de esa auditoría parece ser nuevo."
+summary = "El canon raeliano llama a la Cábala «el libro más cercano a la verdad» y cita de ella dos medidas enormes conservadas en el *Shi'ur Qomah*. Este ensayo rastrea esas cifras a través de los manuscritos Hekhalot, la interpretación judía y las fuentes francesas disponibles en 1973. El rastro conduce a un libro de bolsillo concreto cuya redacción coincide de cerca con el canon, dejando sin explicar una conversión crucial."
 keywords = ["Shi'ur Qomah", "Cábala", "Hekhalot", "mística de la Merkavah", "Cantar de los Cantares", "parasanga", "Metatron", "Sefer Raziel", "hipótesis de los Elohim"]
 references = [
     # — The canon passage under discussion —
@@ -105,7 +105,7 @@ footnotes = [
 +++
 
 En algún momento de los últimos siglos de la Antigüedad —la fecha exacta es
-una de las cosas de las que trata este Explicativo—, un escritor hebreo
+una de las cosas de las que trata este ensayo—: un escritor hebreo
 consignó la altura de Dios. Lo hizo en unidades. La cifra la entrega un ángel,
 jurada como una declaración jurada, y tasada en *parasangas*{{ footnote(id="1") }},
 la legua persa que los pies de un viajero conocían como una hora de camino:
@@ -137,7 +137,7 @@ talones» es de 30 millones de «parasangas».
 {% end %}
 
 Tres párrafos más adelante llega el superlativo rotundo que da título a este
-Explicativo: *«La Cábala es el libro más cercano a la verdad»*
+ensayo: *«La Cábala es el libro más cercano a la verdad»*
 ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=54) %}TBWTT 5:54{% end %}).
 
 La mayoría de las afirmaciones del canon raeliano son lecturas —un laboratorio
@@ -420,7 +420,7 @@ de la Mishná. La presencia del Cantar en la lista restringida solo tiene sentid
 sostuvo Scholem, si para los días de Orígenes ya era el ancla escrituraria de la
 doctrina de la medición.
 
-La honestidad exige la otra cara. Cohen, que produjo la edición crítica, replicó
+Cohen, que produjo la edición crítica, replicó
 con fuerza: el Dios del *Shi'ur Qomah* «no tiene ni cabeza de oro ni lomos de
 marfil ni pantorrillas de mármol»; el Cantar describe a su amado de cabeza abajo
 mientras que el *Shi'ur Qomah* mide de pies arriba; y los versículos del Cantar
@@ -657,8 +657,8 @@ era importante mucho después de haber olvidado por qué.
 
 ## ¿Qué podía saber Claude Vorilhon en 1973?
 
-Un Explicativo intelectualmente honesto tiene que volver el instrumento sobre su
-propio canon. Si el *Shi'ur Qomah* era esotérico, no traducido al francés y
+La afirmación permite además una prueba de procedencia. Si el *Shi'ur Qomah* era
+esotérico, no traducido al francés y
 textualmente caótico, entonces se presenta una pregunta comprobable: ¿pudo un
 periodista de automovilismo sin hebreo alguno haber obtenido esos dos números de
 una biblioteca en lugar de de un ser en un cráter? Este proyecto se puso a buscar
@@ -708,11 +708,12 @@ afirmación de que la descripción está *en* el Cantar de los Cantares, lo cual
 falso del libro bíblico y verdadero de nada excepto de esta cadena específica de
 resúmenes. Un número compartido puede ser una coincidencia. Un error de traducción
 compartido, un formato de cita compartido y un error categorial compartido,
-apilados en un solo párrafo breve, son una filiación —el mismo razonamiento que
-los filólogos usan sobre los propios manuscritos del *Shi'ur Qomah*—. Que este
+apilados en un solo párrafo breve, sugieren con fuerza una filiación. Es el mismo
+razonamiento que los filólogos usan sobre los propios manuscritos del *Shi'ur
+Qomah*. Que este
 proyecto sepa —y buscamos un precedente—, esta identificación del perfil textual
 próximo del pasaje del canon no se ha publicado antes; trátese como el hallazgo
-propio de este Explicativo, ofrecido con su prueba.
+propio de este ensayo, ofrecido con su prueba.
 
 Lo que la auditoría *no* encontró importa igual de mucho. Ninguna fuente anterior
 a 1973 —ni Scholem, ni Sérouya, ni las enciclopedias, ni la literatura

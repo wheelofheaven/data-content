@@ -12,7 +12,7 @@ author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 article_type = "explainer"
 category = "Comparative"
-summary = "Leídas con atención, las historias del diluvio más antiguas no describen a un dios perdiendo los estribos. Describen una decisión tomada en asamblea, jurada bajo juramento y declarada irrevocable; un superviviente al que se le entregan especificaciones técnicas precisas y se le ordena cargar *la semilla de todo lo viviente*; y —lo más revelador— un debate entre los planificadores en el que uno de ellos sostiene que un diluvio es el *instrumento equivocado*, desproporcionado e indiscriminado, y nombra las alternativas selectivas que se deberían haber usado en su lugar. La *Historia del Diluvio* sumeria, el *Atraḫasīs* y el *Gilgamesh* XI babilónicos, el *Libro de los Vigilantes* y el *Génesis* 6–9 no comparten un estado de ánimo, sino un procedimiento. Este Explicativo recorre ese procedimiento línea por línea, toma en serio la explicación dominante de la difusión y luego lee la convergencia a través del marco de Wheel of Heaven: como el registro administrativo de un reinicio gestionado."
+summary = "Las tradiciones mesopotámicas más antiguas del diluvio describen una decisión de asamblea, un dios disidente, instrucciones detalladas de supervivencia y una «semilla de todo lo viviente» preservada. Este ensayo sigue esos motivos a través de *Atraḫasīs*, *Gilgamesh*, *Enoc* y el Génesis, y luego pregunta si la lectura que Wheel of Heaven hace de un reinicio deliberado aclara la tradición o se limita a traducir el mito antiguo a términos modernos."
 keywords = ["el diluvio", "diluvio", "Atrahasis", "Gilgamesh", "diluvio del Génesis", "Vigilantes", "hipótesis de los Elohim"]
 references = [
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (The Flood; the cell-line preserved aboard a staged craft)" },
@@ -71,7 +71,7 @@ se lleve a algunos y deje al resto. *Pon el pecado sobre el pecador.* Está
 diciendo, después del hecho, que el diluvio había sido el instrumento
 equivocado, y el texto registra la queja sin pestañear.
 
-Este Explicativo sigue esa queja de vuelta a través de los textos. El argumento
+Este ensayo sigue esa queja de vuelta a través de los textos. El argumento
 no es el habitual, que muchas culturas tienen un mito del diluvio y los mitos
 casualmente riman. Es más exigente que eso. En su forma más antigua, los relatos
 del diluvio describen un procedimiento: una decisión tomada en consejo y jurada
@@ -86,7 +86,7 @@ de por qué se repite, y luego expondré qué hace de él el marco de la
 {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %}. Allí donde la lectura
 pasa de lo que las palabras dicen a lo que podrían significar, marco la línea.
 
-## El decreto se toma en consejo, no con ira
+## El decreto se toma en consejo
 
 El testigo más fragmentario resulta mostrar el esqueleto con mayor claridad. La
 composición sumeria que los estudiosos modernos llaman la
@@ -128,7 +128,7 @@ el príncipe Ea estaba con ellos, ligado por el mismo juramento.
 {% end %}
 
 Los dioses son presentados por sus cargos —consejero, portador del trono,
-inspector de canales— como se levantaría acta de los miembros de una junta. Un
+inspector de canales— como una enumeración oficial de los participantes. Un
 juramento los liga a todos a la decisión, incluido el disidente Ea. Esta es la
 maquinaria que el texto sumerio llama un *veredicto concluido*: una decisión
 colectiva, formalmente ligada, siendo la ligadura misma el hecho que importa.
@@ -162,7 +162,7 @@ comentario de la casa sobre la línea sumeria paralela (C:19) lo identifica como
 el tropo mesopotámico estándar de la advertencia, la manera de Ea de sortear el
 problema que su propio juramento ha creado. Él ha firmado el decreto; el decreto
 se mantiene. Lo que hace es ejecutar un rescate discreto en paralelo a él, un
-miembro de la misma junta actuando contra un fallo que no pudo bloquear. La
+miembro del mismo consejo actuando contra un fallo que no pudo bloquear. La
 advertencia nunca revoca el diluvio. Opera en paralelo con él.
 
 El cargamento se especifica con el mismo cuidado, y el cuidado tiene que ver con
@@ -180,8 +180,8 @@ La narración de Utnapishtim{{ footnote(id="5") }} que sigue es uno de los pasaj
 más concretos de toda la literatura antigua, todo él en unidades de medida
 acadias: un casco de un *ikû* de superficie, muros de diez *nindan* de alto, seis
 cubiertas que dividen el interior en siete, nueve compartimentos internos,
-betún y asfalto vertidos por *šar*. Es un hombre leyendo en voz alta una hoja de
-construcción.
+betún y asfalto vertidos por *šar*. La narración se lee como una especificación
+técnica.
 
 El hebreo conserva el pliego y cambia casi nada estructural:
 
@@ -242,8 +242,8 @@ la hambruna, y solo cuando estas fracasan el consejo escala hasta el diluvio tot
 Ea le recuerda a Enlil que disponía de un instrumental graduado y, pasando por
 encima de todo él, echó mano del instrumento contundente.
 
-Este es el lenguaje de una revisión posterior a la acción, no de una teodicea{{ footnote(id="8") }}. Los
-participantes debaten *si la operación se ejecutó correctamente*. Y el resto de la
+Esta es una disputa sobre la justicia y la eficacia del diluvio, no una teodicea{{ footnote(id="8") }}. Los
+participantes debaten si debería haberse usado siquiera. Y el resto de la
 escena babilónica confirma que el diluvio excedió lo que sus propios planificadores
 pretendían. El diluvio aterroriza a los dioses que lo invocaron:
 
@@ -399,7 +399,7 @@ lanzado contra Enlil, ahora pronunciada por el único actor hebreo a sí mismo.
 
 ## ¿Por qué se sostiene el procedimiento a través de cuatro literaturas?
 
-La honesta respuesta dominante es la *difusión*{{ footnote(id="11") }}, y es sólida. Los textos
+La respuesta dominante es la *difusión*{{ footnote(id="11") }}, y es sólida. Los textos
 sumerio, acadio y hebreo emergen de un mundo escribal continuo y
 demostrablemente interconectado. El material cuneiforme del diluvio circuló
 durante dos milenios; se halló un fragmento del diluvio de Gilgamesh en acadio en
@@ -411,9 +411,8 @@ evolución literaria de la propia epopeya de Gilgamesh, traten la dependencia
 hebrea de la tradición mesopotámica como algo establecido. Según esto el
 procedimiento se repite por la más ordinaria de las razones: es una sola historia,
 contada y recontada y traducida y re-teologizada río abajo por un único cauce
-cultural. El Génesis preserva la hoja de construcción babilónica porque el Génesis,
-en el plano de la historia literaria, está *leyendo* la hoja de construcción
-babilónica.
+cultural. El Génesis preserva las especificaciones babilónicas porque el Génesis,
+en el plano de la historia literaria, está reelaborando la historia babilónica.
 
 Esta explicación es suficiente para la *recurrencia*. Da cuenta de por qué las
 barcas tienen cubiertas y dimensiones semejantes, de por qué las aves se sueltan
@@ -424,11 +423,11 @@ estos textos compartan un procedimiento es que comparten una ascendencia.
 Lo que la difusión explica y lo que deja abierto son dos cosas distintas. Explica
 por qué los textos posteriores se parecen a los anteriores. No dice nada sobre el
 carácter del estrato más antiguo: por qué el relato fundacional ya presenta el
-diluvio como una decisión administrativa ratificada, equipa a su superviviente con
-especificaciones de ingeniería y un cargamento de mínimo genético, y escenifica un
-argumento técnico entre los planificadores sobre si el método había sido
-proporcionado. La difusión nos dice que el procedimiento fue copiado. No nos dice
-por qué aquello que se copiaba ya tenía la forma de un registro de operaciones.
+diluvio como una decisión ratificada, equipa a su superviviente con instrucciones
+detalladas de construcción y un cargamento llamado la semilla de la vida, y
+escenifica un argumento entre los dioses sobre si el diluvio fue justo. El lenguaje
+moderno de operaciones y protocolos es una interpretación de esa combinación, no
+una descripción suministrada por el propio género antiguo.
 
 ## Leyéndolo a través del marco
 
@@ -440,40 +439,35 @@ El marco parte de la afirmación fundacional del corpus: que los
 {% wiki(slug="elohim") %}Elohim{% end %} del Génesis no eran un absoluto
 abstracto sino una civilización real y avanzada de capacidad finita —artífices que
 trabajaban con materiales, tomaban decisiones en consejo y podían equivocarse—.
-Léase el material del diluvio con esa premisa y los textos dejan de leerse como una
-teología que casualmente suena administrativa y empiezan a leerse como una
-administración que más tarde fue teologizada.
+Con esa premisa, los consejos, las especificaciones, la disidencia y la
+preservación pueden leerse como recuerdos de agentes finitos antes que como actos
+de un absoluto omnisciente.
 
-En esa lectura, la convergencia no es un enigma. Los relatos del diluvio comparten
-un procedimiento porque son recuerdos comprimidos y degradados de *una sola
-operación* —y, con más exactitud, de una *disputa política* dentro del cuerpo que la
-ejecutó—. Los artífices no son una voluntad única sino un conjunto de partes que
-sostienen posturas opuestas: una facción resuelve terminar con una población que se
-había vuelto un problema; otras objetan, y una de ellas se mueve para preservar una
-reserva-semilla a partir de la cual reiniciar. Cada rasgo que la lectura atenta sacó
-a la superficie encaja con esa imagen de una institución dividida contra sí misma:
+En esa lectura, los relatos del diluvio se vuelven recuerdos comprimidos de una
+sola catástrofe y de una disputa política entre los seres implicados. Los
+artífices no son una voluntad única sino un conjunto de partes que sostienen
+posturas opuestas: una facción resuelve terminar con una población que se había
+vuelto un problema; otras objetan, y una de ellas se mueve para preservar una
+reserva-semilla a partir de la cual reiniciar. Varios rasgos pueden proyectarse
+sobre esa imagen de una institución dividida:
 
-- El **consejo y el juramento vinculante** son un órgano decisorio comprometiéndose
-  con una política, tratándose la ligadura como el hecho operativo: exactamente el
-  detalle que un participante destacaría y que un redactor monoteizante posterior
-  encontraría embarazoso y eliminaría.
+- El **consejo y el juramento vinculante** representan un compromiso colectivo,
+  tratándose el juramento como el hecho operativo.
 - La **especificación del superviviente** —casco recubierto, dimensiones fijas,
   cubiertas y compartimentos, y un cargamento definido como *la semilla de todo lo
-  viviente*— es un protocolo de preservación, no un acto de sentimiento. El objeto
-  de la operación es la continuidad de la reserva a través de la discontinuidad.
-- El **discurso de proporcionalidad de Ea** es el propio registro de los operarios
-  de que un diluvio fue el instrumento equivocado: indiscriminado allí donde la
-  tarea pedía selección, con un instrumental graduado (el león, el lobo, la
-  hambruna, la peste) deliberadamente eludido. El texto preserva la disidencia del
-  planificador que pensó que el método era un error.
-- **Los dioses que se acobardan y la diosa que se retracta** son agentes que
-  perdieron el control de una herramienta de mayor fuerza de la que pretendían: la
-  admisión franca, después borrada del hebreo, de que la operación desbordó su plan.
+  viviente*— puede leerse como un plan de preservación destinado a llevar la
+  reserva viva a través de la catástrofe.
+- El **discurso de proporcionalidad de Ea** presenta el diluvio como un instrumento
+  indiscriminado allí donde las alternativas habrían sido selectivas, con un
+  instrumental graduado (el león, el lobo, la hambruna, la peste) deliberadamente
+  eludido. El texto preserva la disidencia del planificador que pensó que el método
+  era un error.
+- **Los dioses que se acobardan y la diosa que se retracta** retratan a agentes
+  finitos atemorizados por la catástrofe que autorizaron, una escena que la versión
+  hebrea no conserva.
 - El **«sana la tierra, que los Vigilantes han corrompido» de Enoc** enuncia el
-  *porqué* en los términos más llanos que la tradición conserva: una contaminación
-  introducida desde arriba —la transferencia no autorizada de la metalurgia, las
-  armas y lo demás— se propagó fuera de control, y el diluvio es la purga que
-  permite replantar una línea limpia.
+  *porqué* dentro de la tradición enóquica: una corrupción introducida por los
+  Vigilantes es seguida de la destrucción y de la preservación de la línea de Noé.
 
 El canon hace concreta esta lectura en vez de dejarla como inferencia. En
 {% libref(book="the-book-which-tells-the-truth", chapter=2, verse=58) %}*El Libro
@@ -495,62 +489,49 @@ La barca se convierte en una nave escalonada que contiene una biblioteca genéti
 después, los artífices «vigilan la radiactividad y la hacen desaparecer», prueban la
 atmósfera soltando animales, y reinician la agricultura y la reproducción —con Noé
 prometiendo «una parte de todas las cosechas» a sus benefactores para su
-*subsistencia*—. Pon eso junto a la lectura atenta y las correspondencias se alinean
-punto por punto: la *semilla de todo lo viviente* se convierte en la línea-celular
+*subsistencia*—. Pon eso junto a la lectura atenta y varios motivos se corresponden:
+la *semilla de todo lo viviente* se convierte en la línea-celular
 preservada; las *tres cubiertas* del {% wiki(slug="noahs-ark") %}arca{% end %} se convierten en las *tres fases* de la nave; la
 *ofrenda olida* se convierte en el tributo que una población reiniciada debe a los
 artífices que se alimentaban de ella; y el *comité ligado por juramento* se
 convierte en una civilización-artífice escindida en facciones, una ordenando el
-sacrificio y otra preservando la reserva. La máquina voladora no está ahí por su
-valor de impacto. La afirmación del canon es que el registro de operaciones fue
-real, y que las cuatro literaturas leídas arriba son el aspecto que adopta un
-registro así tras miles de años de retransmisión por personas que habían perdido los
-conceptos para describir lo que recordaban.
+sacrificio y otra preservando la reserva. El canon afirma que un suceso real
+sobrevivió en estas literaturas emparentadas después de que se perdiera su contexto
+técnico. El ajuste motivo por motivo hace coherente esa lectura dentro del marco;
+no distingue el mito heredado del recuerdo de testigo degradado.
 
-Esta es la lectura hacia la que el ensayo ha estado avanzando, y debe decirse sin
-ambages. El Diluvio no es la ira de un solo ser —y no basta con responder que el
-Dios único del Génesis era «en realidad» muchos dioses, porque escindir una deidad
-en un panteón cambia la aritmética, no la política—. Los artífices son agentes
-políticos. Sostienen convicciones opuestas, discuten, se dividen en facciones, y una
-facción con los medios para actuar puede llevar adelante una decisión catastrófica
-por encima de las objeciones de las demás. Por eso el relato hebreo de un solo actor
-encaja tan mal: una mente única, omnisciente, inunda el mundo y luego, al oler una
-ofrenda, resuelve no repetirlo jamás. Una sola mente no da bandazos así; un cuerpo
-dividido sí, porque la parte que ordenó el sacrificio y la parte que salvó la
-línea-semilla nunca fueron la misma parte, y la segunda fue oída solo una vez que la
-primera había agotado su arma. Según el relato del canon, esa arma fue nuclear, y el
-Diluvio su efecto secundario indiscriminado —que es precisamente lo que Ea nombra
-cuando dice, demasiado tarde, que un diluvio se lleva a todos allí donde un león se
-habría llevado a algunos—. Nada de esto convierte a los Elohim en señores de la
-guerra; el corpus no describe una civilización dada a la conquista. Pero la
-sofisticación no es la ausencia de desacuerdo. Las convicciones opuestas, sostenidas
-con la fuerza suficiente, pueden terminar donde este ensayo comenzó: en un arma que
-no puede apuntar. Lo primero: esta no es la lectura de los
+El movimiento interpretativo central del marco es político. Un grupo plural puede
+autorizar una catástrofe, dividirse por ella y conservar recuerdos contradictorios
+de la responsabilidad. Eso ofrece una explicación de la diferencia entre el consejo
+mesopotámico y el actor divino único del Génesis, que inunda el mundo y luego jura
+no repetirlo. La crítica histórica ofrece otra: los autores hebreos reelaboraron un
+material politeísta heredado en torno al pacto y a un único Dios soberano. El canon
+añade un golpe nuclear y un archivo genético, detalles suministrados por su
+revelación relatada antes que recuperables del vocabulario antiguo. De ahí se siguen
+dos cautelas. La primera: esta no es la lectura de los
 {% wiki(slug="ancient-astronaut-hypothesis") %}«antiguos astronautas»{% end %} de la escritura marginal popular, un linaje que el
 propio aparato del corpus desautoriza explícitamente. Los *Anunnaki*{{ footnote(id="12") }} sumerios no son un
 panteón literal de hombres del espacio, y los textos no esconden ningún vocabulario
 de ingeniería bajo los nombres divinos. El caso descansa solo en la forma narrativa
 —en que la historia del diluvio más antigua está construida como una decisión, una
-ejecución y una revisión—. Lo segundo: la lectura atenta no depende en absoluto del
-marco. Un lector que encuentre la reconstrucción del canon un paso demasiado lejos
-puede aun así conservar la observación de carga, a saber, que estos textos en su
-forma más antigua presentan el diluvio como una operación deliberada, cuestionada y
-preservadora de la semilla, antes que como la ira de un absoluto ofendido. El marco
-suministra un motivo para esa forma; la forma está en los textos se acepte o no el
-motivo.
+ejecución y una revisión—. Lo segundo: la lectura atenta no depende del
+marco. Un lector que rechace la reconstrucción del canon puede aun así observar que
+el relato mesopotámico más antiguo presenta un diluvio deliberado y cuestionado
+junto a la preservación de la semilla viva. El marco suministra un motivo para esa
+forma narrativa, no el único posible.
 
 ## Contraargumentos
 
-La objeción más fuerte es la ya concedida: *la difusión basta*. El procedimiento
+La objeción principal es que *la difusión basta*. El procedimiento
 compartido se sigue de la ascendencia compartida, y leer una «forma» administrativa
 en el estrato más antiguo es proyectar una categoría moderna —operaciones,
-protocolos, reinicios— sobre escribas que estaban haciendo mitología. La réplica no
-es negar la difusión sino marcar lo que esta deja intacto. La difusión explica la
-transmisión; no explica el molde original de aquello transmitido, que es
-procedimental de cabo a rabo. Ese es un argumento desde el *carácter*, y los
-argumentos desde el carácter son más blandos que los argumentos desde el léxico. La
-lectura debe sostenerse con la confianza que su evidencia permite —razón por la cual
-lleva la etiqueta *inferido* antes que *directo*.
+protocolos, reinicios— sobre escribas que estaban componiendo mitología. La difusión
+explica plenamente la recurrencia, mientras que los consejos divinos, los juramentos,
+la construcción técnica de la barca y las disputas entre dioses son inteligibles
+dentro de la cultura literaria mesopotámica. La lectura de Wheel of Heaven no
+desplaza ese relato. Propone que el género preservó el carácter de un suceso detrás
+de la historia, una inferencia desde la forma narrativa que sigue siendo más blanda
+que la evidencia léxica o arqueológica.
 
 Una segunda objeción: la lectura «de proporcionalidad» del discurso de Ea es
 anacrónica; *bēl ḫīṭīti emid ḫīṭa-šu* trata de la asignación ritual de culpa, no de
@@ -575,7 +556,7 @@ propio de la tradición hebrea sea descartado.
 Por último, la objeción científica, que es decisiva en un punto y muda en otro. No
 hubo diluvio global; el registro geológico es inequívoco, y el caso lo expone de
 forma accesible Montgomery, un geólogo que escribe precisamente sobre el diluvio de
-Noé. Nada en este Explicativo sostiene lo contrario, y el propio relato del canon
+Noé. Nada en este ensayo sostiene lo contrario, y el propio relato del canon
 notablemente *no* es una afirmación de diluvio global en el sentido de la Tierra
 joven: describe un cataclismo regional y una reserva preservada, no un planeta
 cubierto uniformemente hasta las cumbres. Lo que la geología clausura es la lectura
@@ -585,24 +566,17 @@ una pregunta para los textos, y los textos la responden de forma consistente.
 
 ## Conclusión
 
-En su capa legible más antigua, el diluvio no es la historia de un dios perdiendo
-los estribos. Un cuerpo toma una decisión con arreglo a un procedimiento y se liga
-por juramento; a un superviviente se le entrega una hoja de construcción y un
-cargamento definido como simiente preservada; el método se ejecuta y desborda el
-control de quienes lo ordenaron; y después —en el relato completo más antiguo de
-todos— esas personas discuten sobre si alguna vez había sido el método correcto,
-nombrando en voz alta las alternativas graduadas y selectivas. La tradición hebrea
-asimila toda la maquinaria y trabaja con cuidado la teología en torno a ella,
-cortando el comité y el hambre divina, y extrayendo de un diagnóstico idéntico de la
-naturaleza humana la conclusión opuesta: que el instrumento había fracasado y nunca
-debe volver a usarse. Enoc conserva la razón que los demás pierden, y la da como
-descontaminación: *sana la tierra, que los Vigilantes han corrompido, para que su
-simiente perdure.*
+En el relato mesopotámico completo más antiguo, una asamblea divina autoriza el
+diluvio, Ea preserva a un superviviente y una semilla viva, los dioses retroceden
+ante la destrucción, y Ea argumenta después a favor de castigos más selectivos. El
+Génesis hereda buena parte de la narración, al tiempo que suprime el comité divino y
+convierte la promesa de no volver a inundar la tierra en parte de un pacto. Enoc da
+a la catástrofe una razón adicional en la corrupción introducida por los Vigilantes.
 
-A través del marco, esto es lo que sobrevive de una operación real: un reinicio
-gestionado por artífices de capacidad alta pero finita que decidieron, ejecutaron,
-preservaron una línea y se pelearon entre sí por el coste. Sin el marco, sigue siendo
-algo más extraño y más interesante que un castigo —cuatro literaturas, de forma
-independiente, recordando el diluvio como una deliberación antes que como una
-rabieta—. El diluvio que los textos realmente preservan nunca fue simple ira. Fue una
-decisión, tomada por alguien, ejecutada mal, y abjurada una vez consumada.
+Son literaturas emparentadas, no testigos independientes. Su ascendencia compartida
+explica sus motivos compartidos. Wheel of Heaven lee los motivos como el recuerdo
+degradado de un reinicio gestionado por artífices finitos divididos por su coste. Eso
+sigue siendo una reconstrucción inferida, reforzada por su coherencia dentro del
+canon pero no demostrada por los textos antiguos. Lo que los textos establecen con
+mayor firmeza ya es significativo: la tradición del diluvio contiene deliberación,
+disidencia, preservación, arrepentimiento y pacto, no solo ira.

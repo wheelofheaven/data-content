@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "In the winter of 1946/47 — the first year of the calendar the Raëlian canon counts from the flash over Hiroshima — a Bedouin shepherd broke open a jar in a cliff above the Dead Sea and pulled out the oldest Bible manuscripts anyone had ever seen. This Explainer tells the whole story at full length: the cobbler of Bethlehem, the archbishop who claimed the scrolls came from his monastery library, the professor who authenticated them through a barbed-wire fence in the week of the UN partition vote, the classified ad in the Wall Street Journal, the intelligence officers who took the Temple Scroll from under Kando's floor in 1967, and the forty-year publication scandal that a computer and a California library finally ended in 1991. It then reads the cargo. The scrolls show a scriptural canon still open — 1 Enoch and Jubilees copied more often than Proverbs — and a biblical text still fluid, including a Deuteronomy fragment that preserves 'sons of Elohim' where the received text was edited to read 'sons of Israel,' and a commentary that applies the word elohim to a heavenly officer named Melchizedek. And it weighs the frame the canon itself supplies: that the same eighteen months which opened the atomic age also disgorged two buried libraries, the first flying-saucer wave, the transistor, the state of Israel, and the birth of the man the messages were later dictated to. The synchronicity argument is interpretive synthesis and is labeled accordingly; the manuscripts, the dates, and the quotations are checkable, and every one of them is sourced."
+summary = "The Dead Sea Scrolls emerged in 1946 or 1947, year one in the calendar the Raëlian canon counts from Hiroshima. Their discovery transformed the history of the biblical text, restoring Enochic literature and early readings of the plural Elohim. This essay tells the documentary story and considers, without confusing chronology with proof, why that timing matters to Wheel of Heaven."
 keywords = ["Dead Sea Scrolls", "Qumran", "Essenes", "year one", "Age of Apocalypse", "Hiroshima", "1947", "Sukenik", "Yadin", "Shrine of the Book", "1 Enoch", "Jubilees", "sons of Elohim", "Melchizedek", "Nag Hammadi", "Nabataeans", "Kando", "Teacher of Righteousness", "War Scroll"]
 references = [
     # — The canon supplying the calendar —
@@ -112,7 +112,7 @@ watching you since your birth—and even before. That is why we have
 chosen you.
 {% end %}
 
-Set the two clocks side by side and the coincidence declares itself:
+Set the two clocks side by side and the chronology invites comparison:
 the oldest library of the Hebrew Bible woke up in year one. This
 article is about that coincidence — what exactly surfaced, through
 whose hands it passed, why it took forty years and a scandal to reach
@@ -156,25 +156,19 @@ sentence, depends.{{ footnote(id="8") }} On May 14, 1948 the state of
 Israel was declared; the scrolls had been announced to the world in
 the papers five weeks earlier.
 
-A skeptic will say, correctly, that coincidence-clusters are cheap:
-pick any thirty-month window in the twentieth century and something
-momentous happened in it. The reply is about content. The canon's
-claim is that this specific window opens an age of unveiling and
-return — and the events above are none of them generic. Two buried
-scriptural libraries physically surfacing; the reappearance of a
-Jewish state after nineteen centuries, an event the scrolls' own
-first Israeli reader immediately connected to them; the birth of the
-technology of total recall; the start of the sighting era the canon
-reads as preparation for open contact; and the birth of the man to
-whom the explanatory messages were, on the canon's account, later
-dictated. The cluster is exactly what the frame predicts it should
-contain. That is not proof — frames that predict the past are easy —
-but it is why the frame finds this window irresistible, and why this
-article exists.
+Coincidence-clusters are cheap: choose a sufficiently eventful period,
+select its contents afterward, and a pattern will appear. Nothing here
+overcomes that problem or assigns a probability to the cluster. Its
+interest is interpretive rather than predictive. The period contains two
+recovered scriptural libraries, the re-establishment of a Jewish state,
+the transistor, the beginning of the modern sighting era, and the birth
+of the man to whom the messages were later attributed. Those events fit
+the canon's idea of an age of unveiling unusually well, but the fit is
+visible in retrospect and should be weighed accordingly.
 
 ## The wolf, the cobbler, and the archbishop
 
-What happened to the three bundles is a story no novelist would risk.
+What happened to the three bundles requires little embellishment.
 In March 1947 the Bedouin carried them to Bethlehem and showed them to
 antiquities dealers, and the scrolls found their way — "apparently
 because the scrolls were written on leather," Collins notes drily — to
@@ -420,7 +414,7 @@ that removed it caught in the act. It is the
 single most consequential variant in the scrolls, and the reason the
 Deuteronomy fragment appears in the footnotes of every serious
 divine-council study and of this project's own
-[Wallis Explainer](/articles/the-archdeacon-and-the-dragon/) alike.
+[Wallis essay](/articles/the-archdeacon-and-the-dragon/) alike.
 
 The second is a text from Cave 11 about a figure named Melchizedek —
 the priest-king who blesses Abraham in Genesis and then vanishes from
@@ -520,7 +514,7 @@ distance this corpus cares about.
 
 ## The desert kept other letters
 
-Honesty requires the dissent. Norman Golb of the University of Chicago
+Norman Golb of the University of Chicago
 spent four decades arguing that the scrolls never belonged to a desert
 sect at all: that Khirbet Qumran was a Hasmonean fortress, that no
 scroll was ever found in the ruins, that the roughly five hundred
@@ -556,7 +550,7 @@ between the two corpora. The {% wiki(slug="nabataeans") %}Nabataeans{% end %}
 matter to this corpus because of where their story goes next: Dan
 Gibson's qibla survey argues that early Islam's sacred geography
 points at Petra, an argument this project examined in
-[The First Mosques Faced Petra, Not Mecca](/articles/the-first-mosques-faced-petra-not-mecca/).
+[Did the First Mosques Face Petra?](/articles/the-first-mosques-faced-petra-not-mecca/).
 No causal thread runs from Qumran to the qibla, and none is claimed
 here. What the Dead Sea rift supplies is something quieter: a single
 desert corridor, from the Qumran cliffs down past En-Gedi and Masada
@@ -651,7 +645,7 @@ read in year 81.
   the manuscript witnesses.
 - [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/),
   for the divine-council scholarship the Deuteronomy variant anchors.
-- [The First Mosques Faced Petra, Not Mecca](/articles/the-first-mosques-faced-petra-not-mecca/),
+- [Did the First Mosques Face Petra?](/articles/the-first-mosques-faced-petra-not-mecca/),
   for the later history of the same desert corridor.
 - [*The Book Which Tells the Truth*](/library/the-book-which-tells-the-truth/),
   chapters 1 and 5, for the canon passages on 1945, 1946, and the new

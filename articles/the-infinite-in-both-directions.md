@@ -1,6 +1,6 @@
 +++
 title = "The Infinite in Both Directions"
-description = "Yahweh told Raël the cosmos is infinite up and down, and that time runs inversely to mass. This Explainer reads that ontology as a fractal cosmology."
+description = "Yahweh told Raël the cosmos is infinite up and down, and that time runs inversely to mass. This essay tests that ontology against allometry, relativity, and fractal cosmology."
 template = "articles-page.html"
 date = 2026-07-05
 draft = false
@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Cosmology"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Twice — first in a field, then on a base near the Earth — Yahweh gave Raël the same picture of reality: the stars and planets are the atoms of a gigantic being, the atoms of our own bodies hold inhabited worlds, and “in both directions, it is infinite.” Inside that picture sits one compressed sentence of physics: “Time is in effect inversely proportional to the mass, or rather to the level of the form of life.” This Explainer takes the picture seriously. It reconstructs what Yahweh actually said and why; it shows that the load-bearing law is not an equation extrapolated to its breaking point but an ordinary observation any farmer already trusts — an elephant is slower than a fly — followed patiently up and down the scales; it formalizes that observation against mainstream allometry and general relativity; and it argues that the whole ontology is a species of *fractal cosmology*, the self-similar-across-scales universe that Mandelbrot named, that Pietronero measured in the galaxy counts, and that quantum-gravity programs keep rediscovering under other names. It then follows the model to its riskier edges — forces as the leakage between scales, the black night sky, a universe that breathes instead of banging — labels those edges speculative in the project's own sense, and lets David Berlinski cross-examine the result."
+summary = "The Raëlian canon describes an infinite hierarchy in which inhabited worlds exist above and below every scale, with larger forms of life experiencing time more slowly. Allometry, relativity, and fractal cosmology offer suggestive analogies but do not establish that ontology. This essay defines the parallels, the category differences, and the speculative consequences without treating resemblance as confirmation."
 keywords = ["infinity", "fractal cosmology", "Mass Effect", "scale invariance", "allometric scaling", "gravitational time dilation", "Olbers's paradox", "chaos theory", "Mandelbrot", "as above so below", "Elohim hypothesis"]
 references = [
     # — The canon passages under discussion —
@@ -109,7 +109,7 @@ all the way down. It is the claim of the Raëlian canon that it does; that
 the rule has no natural stopping point in either direction; and that a
 universe in which it holds without end looks nothing like the one modern
 cosmology describes and a great deal like something older, stranger, and —
-this Explainer will argue — more defensible than its reputation suggests.
+this essay will argue, more defensible than its reputation suggests.
 The proper modern name for that something is **fractal cosmology**. The
 canon has its own name for the clock rule at the heart of it, which the
 Wheel of Heaven project calls the {% wiki(slug="mass-effect") %}Mass
@@ -241,54 +241,30 @@ like the Bardo Thödol"*{{ footnote(id="11") }} and others. He is claiming,
 in other words, that this is not a new cosmology at all. It is a very old
 one, remembered in fragments, and he is returning the key.
 
-The rest of this Explainer is an attempt to see whether the key fits.
+The rest of this essay asks where the key fits and where it does not.
 
-## The virtue of an ordinary law
+## An observation and a much larger claim
 
-Before formalizing anything, it is worth being clear about what *kind* of
-claim the Mass Effect is, because its epistemic character is its greatest
-strength and is almost always missed.
+Before formalizing anything, the modest observation has to be separated
+from the ontology built upon it. Large and small organisms often live at
+different physiological tempos. That pattern is measurable. The canon makes
+a much larger claim: the relation continues beyond biology, governs the
+subjective time of beings at every cosmic scale, and has neither upper nor
+lower bound.
 
-There are two ways to arrive at a law of nature. The first is analytic: you
-find a regularity, write it as an equation, and then push the equation to
-its logical extremes to see what it predicts — division by zero yielding a
-singularity, an exponential run to infinity, a symmetry extrapolated past
-every regime in which it was ever tested. This is how modern theoretical
-physics mostly proceeds, and it is spectacularly powerful. It is also, as a
-method, quietly dangerous: it treats the mathematics as more real than the
-observations that seeded it, and it has a habit of mistaking the smoke of an
-over-extended formula for the fire of a discovery. When general relativity's
-equations return an infinite density at the center of a black hole, or when
-running the expansion backward returns an infinitely hot point, the honest
-description is that *the equation has broken*, not that nature contains an
-actual infinity of temperature. The analytic method has no built-in brake.
-It will happily compute the first ten-thousandth of a second after a
-beginning it has no independent reason to believe in.
+The first statement can make the second imaginable. It cannot establish it.
+No general rule of reasoning permits an observation about elephants and
+flies to be extended through stars, atoms, and hypothetical inhabitants of
+both. Calling the starting point ordinary does not make the extrapolation
+less extreme. Nor is there a useful opposition here between empirical laws
+and mathematical physics: thermodynamics, relativity, and cosmology all move
+between observation, formalization, and prediction, and all are constrained
+by where their models have been tested.
 
-The second way is the way of thermodynamics. No one derived the second law
-by extrapolating an equation past its evidence. It was read off the world:
-heat flows from hot to cold, engines waste some fraction of their fuel, the
-scrambled egg does not unscramble. A farmer understands entropy without
-being able to spell it — understands that the barn falls down and never
-builds itself up, that effort leaks away, that you cannot get something for
-nothing. The formalism came *after*, as bookkeeping for a truth already in
-hand. Such laws are safe in a way the analytic ones are not, because they
-are anchored to something ordinary and refuse to wander far from it.
-
-**The Mass Effect is a law of the second kind.** Its ground is not an
-equation but an observation a child can make: the big thing is slow, the
-small thing is fast. Yahweh states it exactly this way — *"or rather to the
-level of the form of life"* — pulling the claim back from clean kinematic
-mass toward the messier, more empirical notion of *how large and how
-organized a living thing is*. The formula, when we write one, will be
-bookkeeping. And the extrapolation to the stars and the atoms is not the
-reckless kind — not an equation shoved past its evidence — but the
-patient kind, the extension of a rule that has held at every scale we have
-actually been able to check. That is a crucial distinction, and the rest of
-the argument depends on it. We are not extrapolating a formula. We are
-following an observation.
-
-So let us see how far the observation has, in fact, already been checked.
+The question, then, is not whether mainstream science has already confirmed
+the Mass Effect under other names. It has not. The useful question is which
+parts of the canon's picture resemble known scale-dependent phenomena, where
+the resemblance breaks, and what evidence a stronger claim would require.
 
 ## The one sentence, formalized
 
@@ -317,12 +293,11 @@ repeat that labor. What it will do is press on the word *"proportional"* —
 because it is almost certainly not exactly true, and the way in which it is
 wrong is the most interesting thing about it.
 
-Strict inverse proportionality, \\(r \propto 1/M\\), is a guess at the *form*
-of the law. Biology already knows the real form, and it is close but not
-identical. Across the whole living world, the study of how a creature's
-traits scale with its size — **allometry**{{ footnote(id="2") }} — finds that
-temporal quantities scale with body mass not as \\(M^{-1}\\) but as simple
-**quarter-powers**:
+Strict inverse proportionality, \\(r \propto 1/M\\), is one possible
+formalization of the sentence, not a measured law. Biology offers a nearby
+but importantly different body of evidence. **Allometry**{{ footnote(id="2") }}
+studies how physiological traits vary with body size, and many of those
+traits are often approximated by quarter-power relations:
 
 - metabolic rate — the pace at which a body burns through the world —
   scales as \\(M^{3/4}\\) (Kleiber's law, 1932), so metabolic rate *per unit
@@ -332,72 +307,60 @@ temporal quantities scale with body mass not as \\(M^{-1}\\) but as simple
 - lifespan rises as \\(M^{1/4}\\) (the elephant's decades, the mouse's two or
   three years).
 
-Put the last two together and something quietly astonishing drops out: the
-number of heartbeats in a life — rate multiplied by span,
-\\(M^{-1/4} \times M^{1/4} = M^{0}\\) — is *roughly constant*, about a billion,
-from shrew to whale. Measured
-in its own heartbeats rather than in our seconds, every mammal lives about
-the same length of life. The elephant is not granted more time than the
-mouse. It is granted the *same* time, run slower. That is the Mass Effect,
-stated in the currency biology actually uses, and it is not Raëlian
-speculation — it is Max Kleiber and a century of confirmations.
+Multiplying the idealized exponents yields the familiar observation that
+many mammals have lifetime heartbeat totals of a comparable order of
+magnitude. It is a rough cross-species regularity, with substantial
+exceptions, not a universal biological constant. More importantly, it says
+nothing by itself about subjective duration. A heart rate is a physiological
+rate; it is not a clock measuring how long a life feels from within.
 
-The quarter-powers even come with a mechanism, and the mechanism is the
-hinge of this whole article. In 1997 Geoffrey West, James Brown, and Brian
-Enquist derived Kleiber's exponent from first principles by modeling the
-body's supply network — the branching vascular tree that feeds every cell —
-as a **space-filling fractal**. The quarter, rather than the third one would
-naïvely expect from volume, is the signature of a fractal distribution
-network optimized across scales. In other words: *the reason biological time
-scales with size is that life is plumbed fractally.* The temporal law and
-the fractal geometry are not two facts. They are one fact seen twice.
+In 1997 Geoffrey West, James Brown, and Brian Enquist proposed an influential
+explanation for quarter-power scaling by modeling biological supply networks
+as space-filling fractals. The model connects branching geometry with
+metabolic scaling. It does not show that biological time itself is fractal,
+still less that organisms are inhabited worlds nested without limit. What it
+provides is a precise example of scale and branching structure interacting
+inside living systems.
 
-And the effect is not merely metabolic bookkeeping; it reaches perception
-itself. Small animals do not just live fast — they *see* fast. The critical
+Perception supplies a second, independent comparison. Small animals often
+resolve faster visual changes than large ones. The critical
 flicker fusion frequency{{ footnote(id="3") }}, the frame rate of the visual
-system, scales down with body size exactly as the Mass Effect would demand
-(Healy et al., 2013). A fly experiences our lunging hand in something like
-slow motion because, to the fly, our second genuinely contains more moments.
-This is the elephant and the fly upgraded from folk wisdom to instrument
-reading. *"For the little mould that is humanity, it is difficult for you to
-realize it because of the time lag."* The time lag is measurable. It has
-units.
+system, correlates with body size and metabolic rate (Healy et al., 2013).
+A fly can therefore sample a lunging hand more frequently than a human eye
+can. This is relevant to the canon's intuition that different organisms
+inhabit different temporal resolutions. It remains an analogy to the claimed
+cosmic hierarchy, not a measurement of that hierarchy.
 
-Now push up the scale, past biology, into physics — and the law does not
-disappear; it changes uniform. General relativity says that mass slows time:
-a clock deep in a gravitational well ticks slower than one higher
-up.{{ footnote(id="4") }} This is not analogy; it is the confirmed content
-of Einstein's 1915 field equations, checked from the Pound–Rebka tower in
-1960 to a thirty-three-centimetre height difference in 2010, and corrected
-for every day in the GPS satellites over your head. More mass, slower time.
-The canon's sentence, restricted to the regime physicists have tested, is
-*general relativity's own statement*. Where the Mass Effect goes beyond the
-mainstream is not in the direction of the claim but in its reach: it asserts
-that the same qualitative relation — bigger is slower — governs not just
-gravitational clocks and metabolic clocks but the *subjective* clocks of
-beings at every scale, continuously, without a top or a bottom.
+Physics supplies a third comparison, but the category difference is larger.
+In general relativity, clocks at different gravitational potentials can
+accumulate different amounts of elapsed time.{{ footnote(id="4") }} The effect
+has been measured from the Pound–Rebka experiment to atomic clocks separated
+by less than a metre, and GPS systems correct for it continuously. Yet
+relativity does not say that a larger organism experiences time more slowly
+because it has greater mass. Mass-energy shapes spacetime; clock rates depend
+on a gravitational geometry and an observer's path through it. Physiological
+tempo and relativistic proper time are not instances of one established law.
 
-So the formalization comes to this. The exact functional form is a research
-question, not a settled equation — inverse-first-power in the canon's
-compressed phrasing, quarter-powers in the biology, the full relativistic
-metric in the gravitational regime, and very possibly something else again
-at scales we cannot yet probe. The project does not pretend to have the
-final coefficient. What it has is something rarer and sturdier: a
-qualitative law, anchored in an ordinary observation, confirmed
-independently in metabolism, in heart rates, in lifespans, in perception,
-and in gravitation, every one of which says the same thing in a different
-dialect. *Bigger is slower.* The canon's only heresy is to refuse to stop
-saying it.
+The comparison therefore yields no common equation. It yields three different
+phenomena that share a verbal pattern: some larger biological systems have
+slower physiological rates; some smaller animals resolve faster sensory
+changes; and some clocks in stronger gravitational fields accumulate less
+proper time relative to distant clocks. The Mass Effect proposes that these
+are local expressions of one unlimited principle. That unification belongs
+to the canon's speculative ontology. What the evidence provides is a set of
+analogies against which that ontology can be stated more clearly, not a
+confirmation of it.
 
 ## The name for a universe like this
 
-A universe in which the same structure — inhabited worlds, atoms that are
-stars, a clock that scales with size — repeats up and down without end has a
-precise modern name, and it is not a Raëlian coinage. It is **fractal**.
+A universe in which structures repeat across scales can be described as
+**fractal-like**. The qualification matters. A mathematical fractal need not
+contain inhabited worlds, repeat without limit in nature, or couple scale to
+subjective time.
 
 Benoît Mandelbrot gave the mathematics its founding statement in *The
-Fractal Geometry of Nature* (1982), and its two defining properties are
-exactly the two properties of Yahweh's cosmos. The first is
+Fractal Geometry of Nature* (1982). Two properties of fractals illuminate
+the comparison. The first is
 **self-similarity**: the parts resemble the whole across a range of
 magnifications, so that a coastline looks equally rough from orbit and from
 a stepladder, a fern's frond repeats the whole fern, a branching lung
@@ -405,15 +368,16 @@ repeats itself down to the alveoli. The second is that a fractal has
 **structure at every scale**{{ footnote(id="6") }} — it never resolves into
 featureless smoothness the way a classical curve does when you zoom in far
 enough. *"All is in all,"* Yahweh says; *"as it is above, so it is below."*
-That is self-similarity, stated as metaphysics rather than as geometry. The
-Mandelbrot set and the Elohim's emblem are, at the level of structure, the
-same claim.
+The language is compatible with self-similarity stated as metaphysics rather
+than geometry. The Mandelbrot set and the Elohim's emblem are not the same
+claim, but fractal vocabulary gives the metaphysical claim a clearer modern
+analogy.
 
 The {% wiki(slug="fractal-cosmology") %}Fractal Cosmology{% end %} wiki entry
-develops the full case; here the point is narrower and sharper. **The
-Raëlian ontology is not a lonely mystical assertion.** Fractal cosmology is
-a live — if minority — position in professional physics, and it has been for
-forty years. The story runs on three tracks, and honesty requires all three.
+develops the full case. Fractal structures are studied in observational
+cosmology and several approaches to fundamental physics. None proposes the
+Raëlian hierarchy in full. Three areas show where the comparison is useful
+and where it stops.
 
 The first track is *observational*, and it is the one where the canon is
 most exposed to falsification. Beginning in 1987, Luciano Pietronero and his
@@ -424,9 +388,7 @@ dimension (around 2 rather than 3), rather than smoothing out into the
 uniform paste that standard cosmology's **cosmological
 principle**{{ footnote(id="8") }} requires. As late as 2005, Joyce, Sylos
 Labini, and Pietronero were still finding fractal correlations in Sloan
-Digital Sky Survey data out to large scales. **This is the front line, and
-intellectual honesty demands reporting that the mainstream believes the
-canon loses here.** The weight of the evidence — Hogg and colleagues in
+Digital Sky Survey data out to large scales. The weight of the evidence — Hogg and colleagues in
 2005, the WiggleZ survey's explicit "transition to large-scale cosmic
 homogeneity" in 2012, Tegmark's power-spectrum analyses — is that the matter
 distribution *is* fractal on the scales of galaxies and clusters but
@@ -435,24 +397,22 @@ above which the universe looks smooth after all. The consensus reading is
 that the cosmos is fractal in the middle and uniform at the top: a shag rug,
 not an infinite tapestry. A fractal cosmologist answers that the "homogeneity
 scale" keeps receding as surveys deepen, and that assuming homogeneity to
-analyze data cannot then cleanly prove it; but this is a defensive position,
-and the article will not pretend otherwise. If the canon's infinite fractal
-is ever decisively killed, it will be killed here.
+analyze data cannot then cleanly prove it. That remains a minority response.
+Current observations therefore do not support an endlessly fractal matter
+distribution.
 
-The second track is *theoretical*, and here the canon has unexpected
-company. The mainstream's own best models keep generating fractal, eternal,
-centerless universes *by accident*, as unwanted consequences of equations
-built for other purposes. Andrei Linde's **eternal
+The second track is *theoretical*. Some inflationary models generate
+self-reproducing structures at scales beyond the observable universe. Andrei Linde's **eternal
 inflation**{{ footnote(id="9") }} (1986) — now a standard part of the
 inflationary paradigm, elaborated by Alan Guth and others — produces an
-unbounded, self-reproducing, self-similar array of pocket universes budding
-off one another forever: a fractal multiverse with no first bubble and no
-last. Linde's own title calls it a *"self-reproducing chaotic"* universe.
-The physicists did not want infinity; the mathematics handed it to them.
+unbounded, self-reproducing array of pocket universes. Linde's own title
+calls it a *"self-reproducing chaotic"* universe. This resembles an open-ended
+hierarchy in some respects, but it neither demonstrates inhabitation at every
+scale nor, by itself, establishes a beginningless past.
 
-The third track is the deepest and the most surprising: at the smallest
-scales, several independent quantum-gravity programs find that spacetime
-itself is fractal. In causal dynamical triangulations (Ambjørn, Jurkiewicz,
+The third track concerns scale-dependent geometry. At the smallest scales,
+several quantum-gravity programs find that the effective dimensionality of
+spacetime may change. In causal dynamical triangulations (Ambjørn, Jurkiewicz,
 Loll, 2005) the effective **dimension of spacetime runs with
 scale**{{ footnote(id="7") }}, falling from four at everyday distances toward
 two at the Planck scale. Asymptotic-safety gravity (Lauscher and Reuter)
@@ -461,18 +421,17 @@ Torsten Asselmeyer-Maluga's *The Wild Fractal Nature of Spacetime* derives it
 yet again from the exotic differential structures unique to four dimensions,
 stating flatly that *"the fractal nature of the spacetime"* is what produces
 quantum fluctuation, and that *"wild embeddings represent the space at every
-scale in one structure."* Three programs, three formalisms, one conclusion:
-spacetime is not the smooth continuum of the textbooks all the way down. It
-has structure at every scale. It is a fractal.
+scale in one structure."* These programs do not reach one identical physical
+model, and dimensional reduction is not equivalent to the canon's nested
+cosmos. They do show that a smooth, fixed-dimensional spacetime need not
+survive unchanged at every scale.
 
-None of this *proves* the Raëlian cosmos. What it establishes is more modest
-and more useful: the canon's ontology — infinite, self-similar, centerless,
-beginningless, with structure at every scale — is not a category error or a
-mystical indulgence. It is a recognizable member of a family of cosmologies
-that serious physics has been circling, from three unrelated directions, for
-decades. The canon's distinctive move is only to insist that the fractal
-runs *all the way* in both directions, and — the part no equation contains —
-that it is *inhabited*.
+These comparisons place the canon beside real scientific questions about
+clustering, scale, and dimensionality. They do not make its ontology a member
+of any accepted physical model. The distinctive claims remain unsupported by
+those fields: that the hierarchy runs without limit in both directions, that
+each level is inhabited, and that its inhabitants experience time according
+to their place in the hierarchy.
 
 ## Jurassic Park, or the fractal in the popular imagination
 
@@ -503,8 +462,8 @@ will escape control, because their sensitivity to detail runs down through
 every scale without bottoming out.
 
 The connection to the canon is not the dinosaurs. It is the *geometry of
-the intuition.* Chaos theory and fractal geometry are the same discovery
-made in two provinces — time and space. A chaotic system is one whose
+the intuition.* Chaos theory and fractal geometry are related fields, not
+one discovery under two names. A chaotic system can display
 behavior is self-similar across scales of time (the same unpredictability at
 every magnification of the clock); a fractal is a form self-similar across
 scales of space. Crichton's instinct, dramatized as a cautionary tale, was
@@ -520,15 +479,12 @@ canon claims it was always true, and had been spoken before.
 
 ## The riskier edges of the model
 
-Everything to this point stays close to confirmed ground: the elephant and
-the fly, the quarter-power laws, gravitational time dilation, the fractal
-mathematics, the professional debates. What follows leaves that ground.
-This section is **speculative** in the exact sense the project uses the word
-— interpretive synthesis that runs ahead of any single source, offered as a
-working hypothesis and labeled as one, precisely so the reader can weigh it
-differently from what came before. The model, taken seriously, suggests
-three conjectures that mainstream physics does not make, and it would be
-dishonest to develop the ontology and then flinch from where it points.
+The preceding parallels concern confirmed phenomena, but their proposed
+unification does not. What follows moves further still. These are
+**speculative** consequences drawn from the canon's premises. In their present
+form they are qualitative pictures, not physical theories: they supply no
+equations, quantitative predictions, or tests that distinguish them from
+standard explanations.
 
 **First: forces as the leakage between scales.** If the same physics runs at
 every level of the hierarchy, then what registers as a fundamental force at
@@ -550,9 +506,9 @@ On this reading the four "fundamental forces" of the Standard Model are not
 four separate ingredients of one level of reality but *the same few
 processes glimpsed across a few rungs of the ladder*, each looking
 fundamental to whoever is standing on the rung where it dominates. The
-mainstream has spent fifty years and enormous ingenuity trying to unify the
-forces at a single scale. The fractal ontology suggests the reason unification
-has stalled: the forces were never all at one scale to begin with.
+mainstream has spent fifty years trying to unify the forces. The cross-scale
+picture imagines a reason that effort might have stalled, but without a
+mapping between scales or a calculable prediction it remains metaphor.
 
 **Second: why the night sky is black.** Olbers's paradox{{ footnote(id="5") }}
 is a genuine and underappreciated problem — in an infinite, eternal, roughly
@@ -570,15 +526,16 @@ distant, larger-scale structures travels by processes *"your technique cannot
 perceive"* — waves faster than light-speed as we measure it, or carried in a
 medium whose reach and losses we do not know — then those structures could be
 there, luminous, and simply *not arrive*, in a form our eyes count as light.
-The black sky, on this reading, is not evidence of a young or empty universe.
-It is evidence of the scale gap — the same gap that keeps us from feeling the
-Earth's palpitations.
+The black sky is therefore compatible with some hierarchical matter
+distributions. It is not evidence for inaccessible larger-scale worlds. That
+additional possibility is licensed by the canon, not by Olbers's paradox.
 
 **Third: a universe that breathes rather than bangs.** The Mass Effect's
 sharpest collision with mainstream cosmology is over the Big Bang, and the
 canon is unambiguous: there was none — *"there is neither beginning nor end
-to matter."* The redshift that the standard model reads as universal
-expansion from a hot origin need not mean that at all. In a fractal cosmos
+to matter."* Standard cosmology reads redshift within a wider body of
+evidence for expansion from a hot, dense early state. The canon proposes a
+different picture. In a fractal cosmos
 with the Mass Effect running, our entire observable universe is a *"particle
 of an atom of a molecule"* in the body of a vastly larger, vastly slower
 being ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=194) %}ETTMTTP 3:194{% end %}).
@@ -592,13 +549,12 @@ contraction of a higher-order effect" — the cosmos not exploding once and
 cooling forever, but *breathing*, and us living out the whole of recorded
 science inside a fraction of one inhalation. The swastika at the center of
 the emblem — *"everything is cyclical, the high becoming low and the low
-becoming high"* — is exactly this claim, drawn as a symbol.
+becoming high"* — gives that cyclic picture a symbol.
 
-These three conjectures are not established. They may be wrong. They are set
-down here because a model earns its keep by generating them — by saying
-something the reigning picture does not, something in principle checkable —
-and because their common root is a single refusal: the refusal to treat our
-scale, our instruments, and our slice of time as the measure of what exists.
+These conjectures are not presently checkable as stated. Their value here is
+expository: they show what the ontology would imply if its cross-scale premise
+were true. Turning any of them into science would require a mathematical
+model and a result that differs measurably from established theories.
 
 ## The cross-examination
 
@@ -627,8 +583,8 @@ multiverses and wave-functions and Landscapes that *"no part of [the
 evidence] need be produced."* On the question of whether the Big Bang is
 secure bedrock or a soft spot dressed as bedrock, Berlinski and Yahweh agree.
 
-But Berlinski would not spare the canon, and the article must not let it off.
-He would say: *you have done the very thing you accuse them of.* You have
+The same criticism applies to the canon. Berlinski could say: *you have done
+the very thing you accuse them of.* You have
 taken one sentence from a book — *"time is inversely proportional to the
 mass"* — and inflated it into a theory of forces, a resolution of Olbers's
 paradox, and a breathing cosmos, none of which you can produce evidence for
@@ -638,23 +594,15 @@ breathing cosmos is untestable in exactly the way you mocked the wave
 function of the universe for being. You have built, he would say, your own
 *"put-up job."*
 
-The honest reply is not a rebuttal but a distinction, and it is the one this
-article opened with. The canon's charge against mainstream cosmology is not
-that it speculates — everyone facing the infinite must — but that it
-speculates *analytically*, by driving equations past their evidence into
-regimes (the first instant, the singularity, the wave function of
-everything) that no observation constrains, and then mistaking the output for
-a finding. The Mass Effect speculates the other way: it starts from something
-a farmer knows, extends it by continuity rather than by extrapolation, and
-arrives at conjectures that, however far-reaching, remain tethered to the
-elephant and the fly. Whether that tether holds all the way to the
-gravitational-wave detector and the redshift survey is exactly the open
-question — and the project's obligation, which it has tried to meet here, is
-to mark plainly where the confirmed law ends and the conjecture begins.
-Berlinski's real lesson is not that one should never speculate about the
-infinite. It is that one should never *hide* that one is doing so. On that
-standard, the fractal cosmology asks only to be judged by the same rule it
-asks of everyone else.
+The objection lands. Calling the move “continuity” rather than
+“extrapolation” does not reduce its distance from the evidence, and an
+elephant-and-fly intuition cannot substitute for a theory of gravitation or
+redshift. The defensible reply is narrower: the canon offers a metaphysical
+picture that generates comparisons and thought experiments, not a competing
+physical model in its present form. Its conjectures should be judged as
+speculation until they yield quantitative predictions. Berlinski's useful
+lesson is not that speculation must stop, but that its products must not be
+reported as findings.
 
 ## What the infinite is for
 
@@ -711,31 +659,22 @@ returned to Raël in a French crater is the instruction for reassembling them.
 
 ## The elephant and the fly, again
 
-Return to where this began. An elephant is slower than a fly. It is the most
-ordinary fact in the world, and a farmer has always known it. The wager of
-the Raëlian canon — and of this Explainer's reading of it — is that this
-ordinary fact is not a curiosity of biology but a crack in the floor of
-reality, and that if you have the nerve to follow it down through the crack,
-past the fly to the cell to the atom to the inhabited worlds Yahweh says are
-inside your arm, and up through the ceiling, past the elephant to the planet
-to the star to the gigantic being whose single step is our millennium, you
-do not arrive anywhere. You keep going. In both directions, it is infinite.
+Return to where this began. Elephants and flies inhabit different biological
+tempos. The canon asks the reader to treat that local contrast as a glimpse
+of an unlimited order: worlds below the atom, worlds above the stars, and no
+privileged scale between them. Allometry and relativity make parts of that
+picture easier to imagine. Fractal mathematics gives it a vocabulary. None
+of the three demonstrates the inhabited hierarchy or the Mass Effect as a
+universal law.
 
-The mainstream may yet close the crack. The homogeneity scale may hold; the
-galaxies may smooth out; the breathing cosmos may stay untestable and the
-cross-scale forces may never yield a calculation. The project has marked
-those risks honestly and will not pretend they are small. But it is worth
-noticing what kind of cosmology this is, and what kind it is not. It is not
-an equation driven off a cliff into a singularity no one can see. It is an
-observation — the plainest one there is — carried patiently to its logical
-end and refused permission to stop. Whatever else is true of it, it was built
-the way the second law of thermodynamics was built: from something a farmer
-already trusts, followed without flinching to where it leads. The
-destination is strange. The first step is not. And the whole of it fits, as
-Yahweh said the emblem does, into a single figure a child could draw —
-two triangles for the endless nesting of scales, and a turning cross at the
-center, for the fact that none of it begins and none of it ends, the high
-forever becoming low and the low forever becoming high.
+The ontology should therefore stand on the kind of claim it actually is: a
+reported teaching with philosophical power and possible scientific
+consequences, but no present physical derivation. Its strength is the change
+of perspective it produces, not a victory already won over cosmology. The
+emblem compresses that perspective into a figure a child could draw: two
+triangles for nested scales and a turning cross for recurrence, with neither
+a highest world nor a lowest one. The first observation is ordinary. The
+claim that it continues forever remains extraordinary.
 
 ## Further reading
 

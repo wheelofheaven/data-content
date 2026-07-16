@@ -1147,8 +1147,8 @@ shrug — and publishes its instrument instead.
   Truth*](/articles/the-book-closest-to-the-truth/), for the corpus's
   provenance audit of its own founding book — Test 4 and Test 5 run
   against the canon itself.
-- [*The First Mosques Faced Petra, Not
-  Mecca*](/articles/the-first-mosques-faced-petra-not-mecca/), for the
+- [*Did the First Mosques Face
+  Petra?*](/articles/the-first-mosques-faced-petra-not-mecca/), for the
   full qibla file behind the watermark section's type case of a
   founding stratum recovered by measurement — and the
   {% wiki(slug="hanafiyya") %}Hanafiyya{% end %} entry, for the
