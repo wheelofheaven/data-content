@@ -63,3 +63,10 @@ another. The Wheel of Heaven corpus reads that convergence not as a borrowed
 folk-motif but as the administrative record of a **managed reset** — treated at
 length in [The Flood Was a Reset, Not a Punishment](/articles/the-flood-was-a-reset-not-a-punishment/)
 and the [Great Flood](/wiki/great-flood/) entry.
+
+## Also available on
+
+This dataset is also published, CC0, on two open-data platforms — the same files, mirrored for reach and preservation:
+
+- **Hugging Face** — [huggingface.co/datasets/wheelofheaven/flood-myths](https://huggingface.co/datasets/wheelofheaven/flood-myths)
+- **Kaggle** — [kaggle.com/datasets/zarazinsfuss/flood-myths](https://www.kaggle.com/datasets/zarazinsfuss/flood-myths)

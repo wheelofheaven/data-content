@@ -66,3 +66,10 @@ as one and the same referent across the traditions: the
 the Ugaritic *sons of El* are the compressed cultural memory. The same council
 that, in the [flood dataset](/datasets/flood-myths/), is recorded deciding on
 the reset.
+
+## Also available on
+
+This dataset is also published, CC0, on two open-data platforms — the same files, mirrored for reach and preservation:
+
+- **Hugging Face** — [huggingface.co/datasets/wheelofheaven/divine-council-index](https://huggingface.co/datasets/wheelofheaven/divine-council-index)
+- **Kaggle** — [kaggle.com/datasets/zarazinsfuss/divine-council-index](https://www.kaggle.com/datasets/zarazinsfuss/divine-council-index)

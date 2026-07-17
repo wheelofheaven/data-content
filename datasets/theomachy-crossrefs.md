@@ -64,3 +64,10 @@ the [Elohim](/wiki/elohim/) home-world Council and the exiled-creator faction on
 Earth — retold by each tradition as its own dragon-slaying. The "serpent" who
 withholds order, in this reading, is the losing side of that war, and the
 [flood](/datasets/flood-myths/) is one of its campaigns.
+
+## Also available on
+
+This dataset is also published, CC0, on two open-data platforms — the same files, mirrored for reach and preservation:
+
+- **Hugging Face** — [huggingface.co/datasets/wheelofheaven/theomachy-crossrefs](https://huggingface.co/datasets/wheelofheaven/theomachy-crossrefs)
+- **Kaggle** — [kaggle.com/datasets/zarazinsfuss/theomachy-crossrefs](https://www.kaggle.com/datasets/zarazinsfuss/theomachy-crossrefs)

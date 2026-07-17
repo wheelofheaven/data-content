@@ -62,3 +62,10 @@ first eight ages onto the eight "days" of the [Genesis](/wiki/genesis/) creation
 account (`genesis_day`, columns above) is the corpus's claim that *Genesis 1 is
 a compressed precessional chronology* rather than a week. The full argument is
 in the [World Age](/wiki/world-age/) entry and the [timeline](/timeline/).
+
+## Also available on
+
+This dataset is also published, CC0, on two open-data platforms — the same files, mirrored for reach and preservation:
+
+- **Hugging Face** — [huggingface.co/datasets/wheelofheaven/world-ages](https://huggingface.co/datasets/wheelofheaven/world-ages)
+- **Kaggle** — [kaggle.com/datasets/zarazinsfuss/world-ages](https://www.kaggle.com/datasets/zarazinsfuss/world-ages)
