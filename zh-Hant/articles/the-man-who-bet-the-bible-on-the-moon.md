@@ -2,7 +2,7 @@
 title = "那個把聖經押在月球上的人"
 description = "讓·桑迪把《創世記》讀作一場宇航員殖民行動的航行日誌，並將整套解讀押在一項可證偽的月球預測上——比雷爾早了整整十年。"
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-16
 draft = false
 
 [extra]

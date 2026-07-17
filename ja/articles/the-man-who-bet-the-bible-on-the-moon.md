@@ -2,7 +2,7 @@
 title = "聖書を月に賭けた男"
 description = "ジャン・サンディは創世記を宇宙飛行士による植民の航海日誌として読み、その読解のすべてを反証可能な月面予言に賭けた——ラエルより十年も前のことである。"
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-16
 draft = false
 
 [extra]

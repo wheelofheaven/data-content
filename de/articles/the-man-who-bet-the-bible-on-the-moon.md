@@ -2,7 +2,7 @@
 title = "Der Mann, der die Bibel auf den Mond verwettete"
 description = "Jean Sendy las die Genesis als das Logbuch einer kosmonautischen Kolonisierung und setzte die ganze Lesart auf eine falsifizierbare Mondvorhersage — ein Jahrzehnt vor Raël."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-16
 draft = false
 
 [extra]

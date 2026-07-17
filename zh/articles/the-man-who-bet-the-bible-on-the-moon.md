@@ -2,7 +2,7 @@
 title = "以圣经赌月球的人"
 description = "让·桑迪把《创世记》读作一场宇航员殖民的航行日志，并把整套解读押在一个可证伪的登月预言上——比雷尔早了整整十年。"
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-16
 draft = false
 
 [extra]

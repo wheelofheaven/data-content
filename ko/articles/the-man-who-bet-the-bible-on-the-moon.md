@@ -2,7 +2,7 @@
 title = "성경을 달에 건 남자"
 description = "장 상디는 창세기를 우주비행사 식민화의 항해 일지로 읽었고, 그 독해 전체를 반증 가능한 달의 예언에 걸었다 — 라엘보다 10년 앞서서."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-16
 draft = false
 
 [extra]

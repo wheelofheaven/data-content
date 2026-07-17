@@ -2,7 +2,7 @@
 title = "El hombre que apostó la Biblia a la Luna"
 description = "Jean Sendy leyó el Génesis como el diario de una colonización cosmonáutica y jugó toda la lectura a una predicción lunar falsable —una década antes de Raël."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-16
 draft = false
 
 [extra]

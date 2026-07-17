@@ -2,7 +2,7 @@
 title = "L'homme qui joua la Bible sur la Lune"
 description = "Jean Sendy lut la Genèse comme le journal de bord d'une colonisation par des cosmonautes et misa toute sa lecture sur une prédiction lunaire falsifiable — une décennie avant Raël."
 template = "articles-page.html"
-date = 2026-07-05
+date = 2026-07-16
 draft = false
 
 [extra]
