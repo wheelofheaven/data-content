@@ -18,6 +18,7 @@ see_also = [
     { title = "Tree of Life", path = "wiki/tree-of-life", description = "The Kabbalistic diagram that develops out of the ascent-through-palaces tradition." },
     { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "Source of Ezekiel's throne-chariot vision from which the merkavah mysticism takes its name." },
     { title = "Yahweh", path = "wiki/yahweh", description = "The enthroned figure of the merkavah whose stature the embedded Shi'ur Qomah measures." },
+    { title = "Unsealed in Year One", path = "articles/unsealed-in-year-one", description = "Reads the Qumran Songs of the Sabbath Sacrifice as the proto-merkavah liturgy behind this tradition." },
 ]
 
 [extra.infobox]

@@ -2,8 +2,8 @@
 title = "Unsealed in Year One"
 description = "In year one of the new era, a Bedouin shepherd broke open a jar in a Dead Sea cave. The books inside had waited nineteen centuries for the time of the end."
 template = "articles-page.html"
-date = 2026-07-05
-draft = true
+date = 2026-07-17
+draft = false
 
 [extra]
 claim_type = "speculative"
@@ -12,8 +12,8 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Sometime between November 1946 and February 1947, a Ta'amireh shepherd tossed a stone into a cliff-side cave above the Dead Sea and heard pottery break. The jars he found held the first of roughly a thousand manuscripts — the oldest Bibles in existence, and beside them the books the Bible lost: Enoch in eleven Aramaic copies, Jubilees in more copies than almost any biblical book, a Book of Giants in which Gilgamesh walks among the Nephilim, a scroll that names Melchizedek an elohim and schedules the liberation of the world for the tenth jubilee. The canon of this project counts 1946 as year one of the new era — the year of the messenger's birth, chosen 'after the first atomic explosion' — and the same source quotes Daniel's instruction to 'seal the book, even to the time of the end.' This Explainer reads the Dead Sea Scrolls through that frame, and it declares the wager openly: the facts are established history, the canon's claims are framework, and the reading that binds them — the unsealing as an event scheduled to the era — is this article's own speculation, argued rather than assumed. Along the way it tells the whole saga: Sukenik buying scrolls on the day of the UN partition vote, the Wall Street Journal classified ad, the Allegro and Strugnell wrecks, the 1991 liberation, the Nabataean papyri that tie the caves to Petra, and the white dome and black wall of the Shrine of the Book — where its author once stood alone for ten minutes, in year 77 of the era, and decided to build this project."
-keywords = ["Dead Sea Scrolls", "Qumran", "1947", "1946", "year one", "Raëlian calendar", "Age of Apocalypse", "Daniel 12", "sealed book", "1 Enoch", "Jubilees", "Book of Giants", "11QMelchizedek", "Psalm 82", "4QDeutj", "divine council", "364-day calendar", "jubilee", "Shrine of the Book", "Nabataean", "Essenes", "Great Isaiah Scroll"]
+summary = "The companion to 'The Scrolls That Woke in Year One': that Explainer tells what happened to the jars — the discovery, the forty-year publication scandal — while this one reads what was inside them. Between November 1946 and February 1947, in year one of the era the Raëlian canon counts from Hiroshima, a shepherd's stone cracked a jar above the Dead Sea and began releasing the library of a community organized around the conviction that sealed books open on schedule. Its foundational text quotes that community's own charter verse — Daniel's 'seal the book, even to the time of the end' — and reads the atomic age as the moment the seal breaks. This Explainer weighs the cargo through that frame: the books the later canon lost, kept at Qumran in bulk — Enoch in eleven Aramaic copies, Jubilees, a Book of Giants in which Gilgamesh walks among the Nephilim, the Genesis Apocryphon's drama of a child fathered by the Watchers; a 364-day calendar and a jubilee countdown that schedules the liberation of the world; and 11QMelchizedek, which names a heavenly elohim its executor. The wager is declared openly: the manuscripts and dates are established history, the canon's claims are framework, and the reading that binds them — that what these books say is addressed to the era that unsealed them — is this article's own labeled speculation."
+keywords = ["Dead Sea Scrolls", "Qumran", "1947", "1946", "year one", "Raëlian calendar", "Age of Apocalypse", "Daniel 12", "sealed book", "1 Enoch", "Jubilees", "Book of Giants", "11QMelchizedek", "Melchizedek", "Psalm 82", "4QDeutj", "divine council", "364-day calendar", "jubilee", "Genesis Apocryphon", "New Jerusalem", "Great Isaiah Scroll"]
 references = [
     # — The canon under comparison —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶47 (the messenger chosen after the 1945 explosion, born 1946); Chapter 2, ¶55 (the creators and the daughters of men); Chapter 3 (¶¶221–227: the Daniel 12 'sealed book' passages and their unsealing 'now'; ¶225: the recreation of Israel as sign); Chapter 5 (¶1: '1946, year 1 of the new era'; ¶¶3–8: the Fish Gate and the end of the world of the Church)" },
@@ -60,16 +60,12 @@ references = [
 footnotes = [
     { content = "The Raëlian calendar counts years 'after Hiroshima' (a.H.), with the New Year on each August 6. The observable mapping — 6 August 2003 opened year 58, 6 August 2024 opened year 79, February 2026 falls in year 80 — means year N begins on August 6 of Gregorian 1945+N, so the year that began on 6 August 1946 is year 1. The corpus's own Apocalypse entry keeps both clocks: 1946 as the operational opening on the source material's reckoning, and approximately 1950 as the precessional boundary on the corpus's astronomical chronology, treating the offset as a feature of the dating rather than a problem with it." },
     { content = "The exact date of the Cave 1 find is genuinely uncertain. The standard scholarly window is November 1946 to February 1947, reconstructed by John Trever from interviews with the Bedouin; Muhammed edh-Dhib's own account was taken down secondhand and published by William Brownlee in 1957, and Trever conceded that the retellings 'seemed irreconcilable at several points.' What is fixed is the sale trail: the scrolls reach the Bethlehem dealers by March 1947 and Mar Samuel buys his four in July 1947." },
-    { content = "The Hebrew Bible's medieval textual basis is the Masoretic text, represented by the Leningrad Codex of 1008 CE; before Qumran, the oldest substantial Hebrew witness was the Nash Papyrus, a single liturgical sheet. The Qumran biblical scrolls are roughly a thousand years older than the Masoretic codices — which is why a complete Isaiah from ~125 BCE was, and remains, the single most consequential biblical manuscript ever found." },
     { content = "A pesher (plural pesharim, 'interpretation') is the Qumran genre that quotes a biblical prophecy verse by verse and then declares 'its interpretation concerns…' some figure or event of the commentator's own days — on the stated theory that the prophets wrote for the final generation without knowing it. About twenty-five pesharim survive. The genre is the community's own claim that sealed meanings open on schedule." },
     { content = "The 364-day calendar of Enoch's Astronomical Book, Jubilees, and the Qumran texts divides cleanly by seven: exactly fifty-two weeks, so every festival falls on the same weekday forever and never collides with a Sabbath. The Jerusalem temple ran on a 354-day lunar year. Because 364 is also short of the true solar year, the system needed intercalation the surviving texts never fully explain; texts like 4Q319 ('Otot,' signs) synchronize it with the six-year rotation of priestly courses and the 49-year jubilee across a 294-year grand cycle." },
     { content = "At Deuteronomy 32:8 the Masoretic text says the Most High divided the nations 'according to the number of the sons of Israel'; the Qumran fragment 4QDeutj reads 'sons of elohim,' and most Septuagint manuscripts read 'angels of God.' The scholarly consensus (Tov's phrase is 'anti-polytheistic alteration') holds the Qumran reading original: the nations were allotted to divine beings, with Jacob as Yahweh's portion. The companion witness 4QDeutq preserves the related council reading at 32:43, 'bow down to him, all you gods.' Both fragments came out of Cave 4." },
     { content = "Psalm 82 stages Elohim taking his stand 'in the divine council,' judging 'in the midst of the gods,' and sentencing them to die like men. Mainstream scholarship treats the divine council as standard ancient Near Eastern furniture; the corpus reads the plural referents as the Elohim of the framework. 11Q13 is a third reading, from antiquity itself: the elohim of the psalm's first verse is Melchizedek." },
     { content = "The jubilee of Leviticus 25: after seven weeks of years — forty-nine years — liberty is proclaimed on the Day of Atonement; slaves go free, debts release, alienated land returns. Daniel 9's 'seventy weeks' (490 years) was read in the Second Temple period as ten jubilees, and a family of Qumran-era texts (the Apocalypse of Weeks, the Testament of Levi, 4Q390, 11QMelchizedek) schematizes history in exactly those units, with the liberation scheduled for the last of them." },
-    { content = "The Essene identification — Pliny's celibate community above Engedi, Josephus's initiation rules matching the Community Rule — remains the majority view, in Frank Moore Cross's words about the 'perennial houseguests,' though every element has been contested: Norman Golb argued the scrolls are Jerusalem libraries hidden during the revolt, and the site has been re-read as fortress, villa, and pottery works. Collins's mediating position, followed here, is that the scrolls represent the libraries of a wider sectarian movement, concentrated at Qumran during the war. Notably, the word 'Essene' appears nowhere in the scrolls themselves." },
-    { content = "The securely Nabataean documentary material from the Judaean Desert belongs to the Babatha archive from the Cave of Letters at Nahal Hever — a Jewish woman's legal papers from Roman Arabia, hidden in 135 CE, of which the four oldest (P. Yadin 1–4, 94–99 CE) are written in Nabataean Aramaic. One further item, the letter 4Q343, is catalogued to Qumran Cave 4 and written in Nabataean script, but its provenance is questioned (the 'Seiyal collection' problem): it may have entered the Qumran corpus from another desert site. The article treats it accordingly." },
     { content = "Two radiocarbon campaigns (Zurich 1991, Tucson 1994–95) confirmed the palaeographic dating: the Great Isaiah Scroll calibrates to roughly the fourth-to-mid-first century BCE, in agreement across labs. In June 2025 a Groningen team published an AI model — named, aptly, 'Enoch' — trained on new radiocarbon dates and digital handwriting analysis; its results run older than the traditional palaeographic estimates for many manuscripts, nudging some scrolls back toward their authors' own lifetimes." },
-    { content = "The Shrine of the Book, designed over seven years by Frederick Kiesler and Armand Bartos and dedicated on 20 April 1965, was funded by the family of David Samuel Gottesman, the philanthropist who had bought the four Mar Samuel scrolls for Israel. Two-thirds of the structure lies below ground; the white parabolic dome reproduces the lid of the scroll jars; the freestanding black basalt wall opposite completes the building's stated iconography, taken from the War Scroll — the Sons of Light against the Sons of Darkness. The scroll displayed around the great drum under the dome is a facsimile of the complete Isaiah; the fragile originals rotate in and out of darkness." }
 ]
 +++
 
@@ -77,38 +73,24 @@ Sometime in the winter that joined 1946 to 1947 — the accounts never
 settled on a month{{ footnote(id="2") }} — a young shepherd of the
 Ta'amireh Bedouin named Muhammed edh-Dhib, "the wolf," tossed a stone
 into a hole in the cliffs above the northwest shore of the Dead Sea and
-heard something break. Inside the cave were rows of tall clay jars.
-Most were empty. One held three leather scrolls, wrapped in linen gone
-green with age; a return visit yielded four more. The finders kept them
-in a bag hanging on a tent pole while they looked for a buyer, and for a
-while — the detail is almost unbearable in retrospect — considered
-cutting them into strips for sandal leather. In March 1947 the scrolls
-reached the Bethlehem market; a Syrian Orthodox cobbler-dealer known as
-Kando took them on; and in July the Metropolitan of St. Mark's Monastery
-in Jerusalem, Mar Athanasius Yeshue Samuel, bought four of the seven for
-twenty-four Palestinian pounds — about a hundred dollars. He suspected
-they might be old because he remembered the ancient reports: Origen,
-around 200 CE, had known of Greek and Hebrew books found "in a jar near
-Jericho," and a Nestorian patriarch around 800 had recorded an Arab
-huntsman whose dog went into a cave and found books of the Old
-Testament. The cave had been opened before. It had been waiting even
-so.
+heard something break. The jars he found held the first of what became,
+across eleven caves, roughly nine hundred to a thousand manuscripts: the
+greatest manuscript discovery ever made. How the three scrolls in that
+first cave passed through a Bethlehem cobbler's hands to a Syrian
+archbishop, how the state of Israel and the oldest Isaiah entered
+history in the same week, and how the whole corpus took forty years and
+a scandal to reach the public — that is the story this project tells in
+its companion Explainer, [The Scrolls That Woke in Year
+One](/articles/the-scrolls-that-woke-in-year-one/). That article is
+about what *happened* to the jars. This one is about what was *inside*
+them — the sealed cargo, and why its contents read, from here, like mail
+addressed to a century its authors could not have known.
 
-What had come out of the jars, though nobody would grasp it for months,
-was the greatest manuscript discovery ever made: the first of what
-became, across eleven caves and a decade of Bedouin-archaeologist
-racing, roughly nine hundred to a thousand manuscripts in some tens of
-thousands of fragments — Bibles a thousand years older than the oldest
-Bibles{{ footnote(id="3") }}, the library of a Jewish community that had
-organized its entire life around the conviction that it was living at
-the end of days, and, beside the books that became the Bible, the books
-that did not.
-
-This project keeps a second calendar, and on that calendar the date of
-the discovery reads differently. The Raëlian source material counts
-years from the atomic flash over Hiroshima, and its foundational text
-heads its fifth chapter with the era's founding formula — *"1946, year 1
-of the new era"*
+This project keeps a second calendar, and on it the date of the find
+reads differently. The Raëlian source material counts years from the
+atomic flash over Hiroshima, and its foundational text heads its fifth
+chapter with the era's founding formula — *"1946, year 1 of the new
+era"*
 ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=1) %}TBWTT 5:1{% end %}).
 The being who dictated that text explained the choice of messenger in
 the same breath:
@@ -121,19 +103,22 @@ chosen you.
 {% end %}
 
 On the era's own arithmetic{{ footnote(id="1") }}, year one opened on
-August 6, 1946. Claude Vorilhon — {% wiki(slug="rael") %}Raël{% end %} —
+August 6, 1946; Claude Vorilhon — {% wiki(slug="rael") %}Raël{% end %} —
 was born eight weeks into it, on September 30, 1946. And somewhere in
-the months either side of that autumn, a shepherd's stone cracked a jar
-above the Dead Sea, and books sealed since the year 68 began coming back
-into the light. This Explainer is about that coincidence — the word is
-chosen deliberately, and whether it deserves a stronger one is exactly
-the question the article will keep in front of it. The epistemic line,
-drawn now and holding throughout: the history recounted here is
-established fact; the canon-side readings are framework claims, explicit
-in the Raëlian source material and not endorsed by scholarship; and the
-thesis that binds them — that the unsealing of the scrolls belongs to
-the inauguration of the era — is this article's own speculation, labeled
-as such in its frontmatter, argued rather than assumed.
+the months either side of that autumn, a shepherd's stone cracked a jar,
+and books sealed since the year 68 began coming back into the light. The
+companion article weighs the *timing* of that return — the year-one
+cluster of the bomb, the saucers, the transistor, and the reborn state
+of Israel — and there is no need to re-argue it here. This Explainer
+takes the frame one layer inward, into the writing itself: not when the
+jars opened, but what the community had sealed inside them, and how much
+of it belongs to the world this corpus has been reconstructing. The
+epistemic line is drawn now and holds throughout: the history recounted
+here is established fact; the canon-side readings are framework claims,
+explicit in the Raëlian source material and not endorsed by scholarship;
+and the thesis that binds them — that what these books *say* is addressed
+to the era that unsealed them — is this article's own speculation,
+labeled as such in its frontmatter, argued rather than assumed.
 
 ## Sealed until the time of the end
 
@@ -163,7 +148,7 @@ to open.
 
 Now set beside that the self-understanding of the people who owned the
 jars. The Qumran community read scripture through a genre of its own
-invention, the pesher{{ footnote(id="4") }}, and the Habakkuk
+invention, the pesher{{ footnote(id="3") }}, and the Habakkuk
 commentary — one of the three scrolls in edh-Dhib's first armful —
 states the hermeneutic outright:
 
@@ -190,89 +175,24 @@ of the end. Daniel again, eight verses later, as the canon quotes him:
 time of the end"*
 ({% libref(book="the-book-which-tells-the-truth", chapter=3, verse=226) %}TBWTT 3:226{% end %}).
 
-## The constellation of year one
-
-The scrolls did not come back alone. It is a matter of record — no
-framework required — that the window of their return was one of the
-strangest concentrations of threshold events in recorded history, and
-the article owes the reader the cluster in full, dated and sourced,
-before any reading of it is attempted.
-
-The Trinity test fired on July 16, 1945; Hiroshima followed on August 6,
-Nagasaki on August 9; the United Nations was founded that October. In
-February 1946 the first general-purpose electronic computer, ENIAC, was
-unveiled in Philadelphia. In the autumn of 1946 Vorilhon was born, and
-in the same season — give or take the shepherds' uncertain memory — Cave
-1 was opened. Then 1947 arrived and seemed to lose its composure. On
-June 24, Kenneth Arnold watched nine objects skip past Mount Rainier
-"like a saucer if you skip it across water," and the press coined the
-flying saucer; on July 8, the Roswell Army Air Field announced in an
-official release that it had recovered a "flying disc," retracting the
-claim the next day — the twin founding documents of modern
-{% wiki(slug="ufology") %}ufology{% end %} and of the
-{% wiki(slug="military-cover-up-of-exobiology") %}cover-up
-question{% end %} respectively. On July 26 the National Security Act
-created the CIA and an independent Air Force; on October 14 Chuck Yeager
-broke the sound barrier; that same year the atomic scientists of the
-*Bulletin* set a newly drawn Doomsday Clock at seven minutes to
-midnight, and a tubercular Englishman on the island of Jura finished the
-first draft of *Nineteen Eighty-Four*. On November 29 the United
-Nations voted, 33 to 13, to partition Palestine. And on December 16, at
-Bell Labs, two physicists passed a signal through a sliver of germanium
-and got out more than they put in: the transistor, the seed of every
-machine on which these words will ever be read. Israel declared its
-independence on May 14, 1948 — four weeks after Yale's press release of
-April 10, 1948 had announced to the world, in the discovery's "birth
-announcement," that the oldest known manuscript of Isaiah had been found.
-
-Inside that constellation, one conjunction is so exact that it reads
-like fiction and is documented like law. Eleazar Sukenik, archaeologist
-of the Hebrew University, had been shown a scroll fragment through the
-barbed wire of divided Jerusalem. Against his family's pleading, he
-took the bus to Bethlehem to buy manuscripts from the dealer Faidi
-Salahi on the very day the partition vote was cast — November 29,
-1947 — and his memoir preserves the scene at his desk that night: *"I
-was engrossed in a particularly absorbing passage in one of the scrolls
-when my son rushed in with the shout that the vote on the Jewish State
-had passed."* The scrolls he carried home were the War Scroll and the
-Thanksgiving Hymns. The state and the library arrived in the same
-hour, and the men of 1948 noticed. Nelson Glueck wondered in print
-whether the scrolls "were hailed unconsciously by myriads as a symbol of
-luminescent hope in an age of otherwise unrelieved darkness"; and when
-Israel built a home for them, the architect Frederick Kiesler explained
-his design by the same conjunction: *"We were told that the scrolls had
-been underground over 2,000 years and were brought to light almost the
-same week the U.N. voted the independence of Israel… This coincidence of
-rebirths suggested to me the concept of two complementary architectural
-units."* The year-one reading of the discovery, in other words, is not
-this project's invention. It was felt at the time, by the discoverers
-and the builders, in their own vocabularies.
-
-What does the framework add? Precisely one move: it takes the cluster
-as addressed rather than accidental. The canon reads the bomb as the
-threshold-marker — the species now "capable of destroying itself and
-therefore eligible to be addressed as adult," as the corpus's
-{% wiki(slug="apocalypse") %}Apocalypse{% end %} entry puts it — and
-reads Zephaniah's *"noise of a cry from the fish gate"*
+The scrolls did not come back alone, and the companion article documents
+the year-one cluster in full — the bomb, ENIAC, the saucers over Mount
+Rainier, the transistor, and the state of Israel voted into being the
+same week Sukenik carried the War Scroll home from Bethlehem. The canon
+reads that window as an era of unveiling opening in 1945–46, keyed to
+Zephaniah's *"noise of a cry from the fish gate"*
 ({% libref(book="zephaniah", chapter=1, verse=10) %}Zephaniah 1:10{% end %})
-as the acoustic signature of the crossing into Aquarius, with the
-sequel: *"The Fish Gate is the passage into the new era of Aquarius…
-And if you were born in 1946, it is not by chance"*
+— *"the passage into the new era of Aquarius… And if you were born in
+1946, it is not by chance"*
 ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=7) %}TBWTT 5:7{% end %}).
-On that reading, an era of unveiling opens in 1945–46, and the pattern
-of what unveils itself in the following thirty months — the weapon, the
-computer, the transistor, the saucers, the state of Israel, and the
-oldest library of the tradition that predicted all of it — is the era
-behaving in character. A skeptic will answer, fairly, that history is
-dense and pattern-hungry readers will always find constellations; that
-the war itself explains half the cluster; that the scrolls could have
-surfaced in 1937 or 1957. The article concedes all of it, which is why
-the frontmatter of this page says `speculative` and not `inferred`. But
-the skeptic should concede one thing back: of all the possible windows
-in nineteen centuries, the books sealed by an apocalyptic community
-against the time of the end did, in fact, open in the one window that an
-entire living religion — and, on the evidence of Glueck and Kiesler, not
-only that religion — experiences as the hinge of the ages.
+A skeptic will answer that history is dense and pattern-hungry readers
+always find constellations, and this page concedes it — its frontmatter
+says `speculative`, not `inferred`. But the wager here is narrower than
+the companion's, and it turns not on the timing but on the text: that of
+all the windows in nineteen centuries, the books an apocalyptic community
+sealed *against the time of the end* say, when unrolled, what the rest of
+this article will show they say. So set the calendar aside and open the
+jars.
 
 ## What came out of the jars
 
@@ -288,7 +208,7 @@ rankings themselves a datum — roughly thirty-six copies of Psalms,
 thirty of Deuteronomy, twenty-one of Isaiah. The centerpiece, from
 edh-Dhib's first three, is the Great Isaiah Scroll: 7.34 meters of
 leather, fifty-four columns, all sixty-six chapters, copied around 125
-BCE{{ footnote(id="11") }} — a complete biblical book a millennium older
+BCE{{ footnote(id="8") }} — a complete biblical book a millennium older
 than the codices behind every modern Bible, differing from them in more
 than 2,600 particulars and yet, in substance, the same book. Both
 halves of that sentence mattered. The sameness demolished the
@@ -321,7 +241,7 @@ requires. The scrolls even caught the editors in the act. At
 {% libref(book="deuteronomy", chapter=32, verse=8) %}Deuteronomy
 32:8{% end %}, the Masoretic text says the Most High divided the nations
 "according to the number of the sons of Israel"; the Cave 4 fragment
-4QDeutj reads *"sons of elohim"*{{ footnote(id="6") }} — the reading
+4QDeutj reads *"sons of elohim"*{{ footnote(id="5") }} — the reading
 mainstream scholarship judges original, its replacement an
 "anti-polytheistic alteration" in Tov's phrase. The verse on which the
 divine-council literature, Paul Wallis, Mauro Biglino, and this corpus
@@ -342,7 +262,7 @@ Qumran in eleven Aramaic manuscripts (4Q201–212) — more copies than most
 biblical books. The oldest fragments of its Astronomical Book date to
 the early second century BCE, pushing the composition earlier still; in
 them the angel Uriel teaches Enoch the 364-day solar
-calendar{{ footnote(id="5") }} that the whole community lived by.
+calendar{{ footnote(id="4") }} that the whole community lived by.
 [Jubilees](/library/book-of-jubilees/), the retelling of Genesis as a
 chronology of forty-nine-year cycles, survived in at least fourteen and
 perhaps sixteen copies — better represented than every biblical book
@@ -404,7 +324,7 @@ of heaven{% end %}; its chronology runs on
 {% wiki(slug="world-age") %}world ages{% end %} cut from the
 {% wiki(slug="great-year") %}precessional cycle{% end %}; its
 {% wiki(slug="great-return") %}eschatology is a scheduled return{% end %}.
-The Qumran community's chronology ran on jubilees{{ footnote(id="8") }}
+The Qumran community's chronology ran on jubilees{{ footnote(id="7") }}
 cut from a calendar of perfect weeks, and its eschatology was a
 scheduled liberation.
 
@@ -442,7 +362,7 @@ executor:
 > — 11QMelchizedek, applying Psalm 82:1 to Melchizedek (trans. Vermes)
 
 The *elohim* of {% libref(book="psalms", chapter=82, verse=1) %}Psalm
-82{% end %}{{ footnote(id="7") }}, in this pre-Christian Jewish text, is
+82{% end %}{{ footnote(id="6") }}, in this pre-Christian Jewish text, is
 Melchizedek — a heavenly being who is not Yahweh, who presides in the
 council of the gods, who will "carry out the vengeance of God's
 judgements" against Belial and his spirits, and whose "year of favor"
@@ -487,147 +407,37 @@ scheduled return of heavenly beings, computed against a celestial
 calendar — is not a modern import into the tradition. It is among the
 oldest things the tradition's own manuscripts contain.
 
-## The war over the scrolls
+## The unsealing has not stopped
 
-The afterlife of the discovery is a story of human appetite so vivid
-that Collins reaches for Edmund Burke to describe it, and it deserves
-its place here because the corpus maintains an entry on
-{% wiki(slug="military-cover-up-of-exobiology") %}institutional
-concealment{% end %} and ought to be scrupulous about what this case
-does and does not show.
+The books did not come quietly into the light. How the corpus reached
+the public — Mar Samuel's *Wall Street Journal* advertisement, Yadin's
+covert repurchase, the Temple Scroll pulled from a shoebox under Kando's
+floor, the forty-year editorial embargo Geza Vermes branded *"the
+academic scandal par excellence of the twentieth century,"* and the 1991
+liberation by bootleg concordance and opened vault — is the burden of
+the [companion article](/articles/the-scrolls-that-woke-in-year-one/).
+The verdict that matters here is the one this corpus should state against
+its own temptations. A conspiracy industry grew up around the delay —
+Baigent and Leigh's *The Dead Sea Scrolls Deception* proposing that the
+Vatican had buried scrolls fatal to Christianity — and it was false.
+There was no vault and no doctrinal censor, only institutional vanity,
+understaffing, and the human reluctance to share; the texts, once freed,
+contained nothing any church needed to hide. The scandal was one of
+slowness, not suppression — worth remembering whenever this corpus
+weighs claims of
+{% wiki(slug="military-cover-up-of-exobiology") %}concealment{% end %}
+elsewhere.
 
-The bare chronicle is picaresque. Mar Samuel, unable to sell his four
-scrolls in the polarized new Middle East, carried them to America and
-finally offered them through a classified advertisement in the *Wall
-Street Journal* of June 1, 1954 — "The Four Dead Sea Scrolls… This
-would be an ideal gift to an educational or religious institution by an
-individual or group. Box F 206" — where they were bought for $250,000
-by a front acting for Yigael Yadin: Sukenik's son, the archaeologist
-who had been the Haganah's chief of operations in 1948. The father
-bought the first scrolls the day the state was voted; the son covertly
-repatriated the rest; and in 1967, as Israeli forces took Bethlehem,
-Yadin's officers extracted the last great scroll — the Temple Scroll —
-from a shoebox under Kando's floor after an interrogation "described as
-'unpleasant.'" Meanwhile the Cave 4 fragments, tens of thousands of
-them, "brittle or friable… warped, crinkled, or shrunken, crusted with
-soil chemicals," sat with a tiny editorial team that published at a
-pace Geza Vermes, in 1977, branded with the sentence that stuck: unless
-drastic measures were taken, this would become *"the academic scandal
-par excellence of the twentieth century."* Drastic measures were not
-taken. The team's stars destroyed themselves in public — John Allegro,
-who told the BBC in 1956 that the scrolls' Teacher had been crucified
-and awaited in resurrection before Jesus, was repudiated in *The Times*
-by his own colleagues, chased the Copper Scroll's treasure through the
-Judaean hills, and finally wrote Christianity off as the residue of a
-psychedelic mushroom cult, a book his own publisher apologized for;
-John Strugnell, brilliant and broken, ended his editorship with an
-interview calling Judaism "a horrible religion." The liberation, when
-it came in 1991, was a heist in three acts: a doctoral student and his
-professor reverse-engineered unpublished texts from a bootlegged
-concordance by computer; the Huntington Library opened its vault of
-security photographs to all comers; and the Israel Antiquities
-Authority, after weeks of calling everyone involved thieves,
-capitulated. "Despite the dire warnings of the official editors,"
-Collins notes drily, "chaos did not result."
-
-What did result, briefly, was a conspiracy industry — Baigent and
-Leigh's *The Dead Sea Scrolls Deception* darkly proposing that the
-Vatican had suppressed scrolls fatal to Christianity. Here the corpus
-should speak plainly against its own temptations: the theory is false,
-and its falsity is instructive. There was no vault and no doctrinal
-censor; there was ordinary institutional vanity, perfectionism,
-understaffing, and the human reluctance to share. The texts, once
-freed, contained nothing that any church needed to hide — no crucified
-pre-Jesus, no Vatican-slaying secret. What they contained was quieter
-and, for a project like this one, far more useful: proof that the
-tradition's own oldest library was plural where the canons became
-singular, scheduled where the theologies became timeless, and populated
-with elohim where the creeds had installed a lone God. The scandal was
-real but it was a scandal of slowness, not of suppression — worth
-remembering whenever the corpus weighs claims of concealment elsewhere.
-The pattern has continued into the era of full disclosure: the entire
-corpus is now photographed in multispectral light and free online; the
-Museum of the Bible's sixteen "scroll fragments" were exposed in 2020 as
-modern forgeries, a cautionary tale from the other direction; new Greek
-fragments of Zechariah and Nahum came out of the Cave of Horror in 2021,
-the first in sixty years; and in 2025 an AI model trained to redate the
-manuscripts — its builders named it Enoch{{ footnote(id="11") }} —
-began nudging the scrolls' dates earlier still. The unsealing, once
-begun, has not stopped.
-
-## The Nabataean thread
-
-One more filament, thin but real, ties the caves to another article in
-this series. Among the documents of the Judaean Desert are papers in
-Nabataean Aramaic{{ footnote(id="10") }} — the script and legal idiom of
-the caravan kingdom whose capital was
-{% wiki(slug="petra") %}Petra{% end %}. The securely provenanced group
-belongs to the archive of Babatha, a Jewish landowner from the south
-shore of the Dead Sea whose family papers — thirty-five legal documents
-in Greek, Jewish Aramaic, and Nabataean Aramaic, the oldest four drawn
-up between 94 and 99 CE — were hidden in the Cave of Letters at Nahal
-Hever during the Bar Kokhba revolt and found by Yadin's expedition in
-1961. One further piece, the letter 4Q343, is catalogued to Qumran's
-own Cave 4 and written in Nabataean script, though its provenance is
-honestly disputed. The point for this project is modest and worth
-exactly its weight: the world that sealed the scrolls was not a sealed
-world. Jewish and Nabataean lives interpenetrated across the Dead Sea
-rift — one woman's strongbox held contracts in three scripts — and the
-desert that preserved the Hebrew library at its north end preserved, at
-its south, the inscriptions and qiblas from which Dan Gibson would
-reconstruct [the Petra origins of
-Islam](/articles/the-first-mosques-faced-petra-not-mecca/) that the
-corpus's {% wiki(slug="nabataeans") %}Nabataean{% end %} and
-{% wiki(slug="hanafiyya") %}Hanafiyya{% end %} entries carry forward.
-The same arid corridor kept both ends of the story: the scrolls of the
-first covenant's dissidents, and the stones of the last prophet's first
-qibla. Deserts are the tradition's archive. They release their
-holdings on their own schedule.
-
-## The dome and the wall
-
-The scrolls' house deserves a section, because the building is itself a
-reading of them{{ footnote(id="12") }}. The Shrine of the Book, opened
-at the Israel Museum in April 1965, sinks two-thirds of its volume
-underground; the visitor walks a dim cave-like passage — the architects
-spoke of it frankly as a birth canal — and emerges under a white
-parabolic dome shaped as the lid of the scroll jars, ringed by water,
-while across the plaza stands a sheer wall of black basalt. The
-iconography is taken straight from the War Scroll: the Sons of Light
-against the Sons of Darkness, the whole Qumran dualism cast in
-architecture at national scale, with the state's founding library
-enshrined where other nations keep their crown jewels. Yadin told the
-Shrine's trustees in 1966 exactly what the building was for: when
-foreign visitors "view the Book of Isaiah… written in the same language
-that every Israeli child uses today — this is true Zionism." Its
-current curator has staged the Songs of the Sabbath Sacrifice as living
-music under the dome, "recreating the 'angelical' atmosphere prevailing
-in Qumran." Kiesler, for his part, called the building a sanctuary
-expressing the "coincidence of rebirths" — scrolls and state — that this
-article has been circling from its first page. Every reading this
-Explainer has attempted, the building attempted first, in concrete and
-basalt.
-
-A personal note, offered as testimony rather than argument. I visited
-the Shrine in September 2022 — year 77 of the era, on the calendar this
-article has been keeping — on the same journey that took me across the
-Jordan to Petra, and on the evening of the autumn equinox, from a hotel
-rooftop in that country of thresholds, I decided to begin building
-Wheel of Heaven. The day I came to the Shrine was ferociously hot, and
-I had queued early enough to be the first one through the doors. For
-about ten minutes I had the building to myself. What I remember is the
-cold — the sudden wet, mineral cold of the descending passage after the
-white glare outside, the sense of entering something between a cave, a
-reactor, and a ship; a place engineered by humans that did not feel
-entirely of human scale, the way certain interiors in *Alien* do not,
-though this one felt benevolent. At the center, under the oculus, the
-drum with the facsimile of Isaiah wound around it like a spine. I
-understood the building's argument physically before I could have
-stated it: you go down into the earth and the past closes over you, and
-then the dome opens and the oldest book rises in the middle of the
-light. Whatever else the Shrine is, it is a machine for making the
-visitor feel the unsealing. It worked on me. This project is part of
-the evidence.
+And the unsealing, once begun, did not stop. The entire corpus is now
+photographed in multispectral light and free online; the Museum of the
+Bible's sixteen "scroll fragments" were exposed in 2020 as modern
+forgeries, a caution from the opposite direction; new Greek fragments of
+Zechariah and Nahum came out of the Cave of Horror in 2021, the first in
+sixty years; and in 2025 a Groningen team trained an AI model to redate
+the manuscripts — its builders named it, aptly,
+Enoch{{ footnote(id="8") }} — and began nudging some of the scrolls back
+toward their authors' own lifetimes. Books sealed against the time of
+the end keep opening, on a schedule no editor controls.
 
 ## Year one, read from year eighty
 
@@ -691,6 +501,10 @@ by a boy with a stone — right on time.
 
 ## Further reading
 
+- [The Scrolls That Woke in Year
+  One](/articles/the-scrolls-that-woke-in-year-one/), the companion
+  Explainer — what *happened* to the jars: the discovery, the forty-year
+  publication scandal, and the year-one synchronicity in full.
 - The {% wiki(slug="apocalypse") %}Apocalypse{% end %} entry, for the
   full framework treatment of 1945–46 as the opening of the era of
   unveiling, and the [Age of Aquarius](/timeline/age-of-aquarius/)
@@ -704,10 +518,10 @@ by a boy with a stone — right on time.
   Eternals{% end %} entries, for the framework's reading of the
   divine-council texts that 4QDeutj and 11QMelchizedek carry in
   ancient form.
-- [Did the First Mosques Face
-  Petra?](/articles/the-first-mosques-faced-petra-not-mecca/), for the
-  southern end of the desert corridor whose northern end this article
-  has walked.
+- [The First Mosques Faced Petra, Not
+  Mecca](/articles/the-first-mosques-faced-petra-not-mecca/), for the
+  other end of the same desert archive — the Nabataean qiblas the Dead
+  Sea rift preserved at its southern shore.
 - [The Archdeacon and the
   Dragon](/articles/the-archdeacon-and-the-dragon/) and [The
   Translator's Wager](/articles/the-translators-wager/), for the two

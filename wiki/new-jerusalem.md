@@ -17,6 +17,7 @@ see_also = [
     { title = "Ezekiel", path = "wiki/ezekiel", description = "The prophet whose temple-threshold vision the corpus reads as prefiguration." },
     { title = "Apocalypse", path = "wiki/apocalypse", description = "The Revelation eschatology supplying the descending-city imagery for the term." },
     { title = "Golden Age", path = "wiki/golden-age", description = "The Aquarian transformation the structure is meant to center and radiate outward." },
+    { title = "Unsealed in Year One", path = "articles/unsealed-in-year-one", description = "Reads the Qumran Aramaic New Jerusalem text — the measured city awaiting construction — as an ancestor of this entry." },
 ]
 
 [extra.infobox]
