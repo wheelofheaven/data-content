@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-06-03
 
 [extra]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/quran-woh"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "islamic"
