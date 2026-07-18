@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-06-07
 
 [extra]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/daniel-woh"
 translation_status = "complete"
 claim_type = "direct"
 source_family = "hebrew-bible"
@@ -224,4 +225,3 @@ The methodology is documented at
 - [Genesis (Wheel of Heaven Translation)](/library/genesis-woh/) — the Genesis 6:1-4 *bnei elohim* tradition that the Dan 7 angelological framework presupposes
 - [Reference corpus of the Raëlian canon](/wiki/reference-corpus-of-the-raelian-canon/) — the catalogue of texts the Raëlian canon engages
 
-**Available as data:** this translation is also published as a CC0 verse-aligned parallel corpus on [Hugging Face](https://huggingface.co/datasets/wheelofheaven/daniel-woh) — the source text aligned to the Wheel of Heaven English, with transliteration, manuscript witnesses, per-verse commentary, and the translation glossary.

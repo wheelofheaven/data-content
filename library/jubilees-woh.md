@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-06-06
 
 [extra]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/jubilees-woh"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "abrahamic"
@@ -249,4 +250,3 @@ The methodology is documented at
 - [The Epic of Gilgamesh (Wheel of Heaven Translation)](/library/gilgamesh-woh/) — also named in *Yes... I am Raelian* among the texts "closer to the truth"
 - [Genesis (Wheel of Heaven Translation)](/library/genesis-woh/) — the canonical Genesis material Jubilees rewrites
 
-**Available as data:** this translation is also published as a CC0 verse-aligned parallel corpus on [Hugging Face](https://huggingface.co/datasets/wheelofheaven/jubilees-woh) — the source text aligned to the Wheel of Heaven English, with transliteration, manuscript witnesses, per-verse commentary, and the translation glossary.

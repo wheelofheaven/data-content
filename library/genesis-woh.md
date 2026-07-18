@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-05-18
 
 [extra]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/genesis-woh"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "abrahamic"
@@ -35,4 +36,3 @@ and signed off by the named human reviewer per chapter. The methodology is
 documented at
 [Source-Text Translation](https://docs.wheelofheaven.world/contributing/content/source-text-translation/).
 
-**Available as data:** this translation is also published as a CC0 verse-aligned parallel corpus on [Hugging Face](https://huggingface.co/datasets/wheelofheaven/genesis-woh) — the source text aligned to the Wheel of Heaven English, with transliteration, manuscript witnesses, per-verse commentary, and the translation glossary.
