@@ -249,3 +249,5 @@ The methodology is documented at
 - [The Epic of Gilgamesh (Wheel of Heaven Translation)](/library/gilgamesh-woh/) — also named in *Yes... I am Raelian* among the texts "closer to the truth"
 - [Adapa (Wheel of Heaven Translation)](/library/adapa-woh/) — the Mesopotamian apkallū tradition (cross-corpus to Asael's knowledge-transmission)
 - [Genesis (Wheel of Heaven Translation)](/library/genesis-woh/) — Genesis 6:1-4 *bnei elohim* + Nephilim, the seed of the Watchers narrative
+
+**Available as data:** this translation is also published as a CC0 verse-aligned parallel corpus on [Hugging Face](https://huggingface.co/datasets/wheelofheaven/book-of-enoch-woh) — the source text aligned to the Wheel of Heaven English, with transliteration, manuscript witnesses, per-verse commentary, and the translation glossary.
