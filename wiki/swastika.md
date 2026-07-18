@@ -18,6 +18,7 @@ see_also = [
     { title = "Mass Effect", path = "wiki/mass-effect", description = "The temporal-cyclic framework the swastika's everything-is-cyclic meaning aligns with." },
     { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The nested-cycle cosmology the top-becomes-bottom reading participates in." },
     { title = "Raëlism", path = "wiki/raelism", description = "The movement whose Asian branches retain the original swastika-centered emblem." },
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The swastika as the turning wheel of the ages — Yahweh's gloss of the emblem as infinity in time." },
 ]
 
 [extra.infobox]

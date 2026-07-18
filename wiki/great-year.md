@@ -20,6 +20,7 @@ see_also = [
     { title = "Zodiac", path = "wiki/zodiac", description = "The 12-fold celestial division that names each age of the Great Year." },
     { title = "Great Return", path = "wiki/great-return", description = "The Raëlian framing of the cycle's culmination — the Elohim's promised return." },
     { title = "Cosmic Evolution", path = "wiki/cosmic-evolution", description = "The framework that situates the Great Year within deep-time evolution." },
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The Great Year's precessional numbers (72, 2,160, 25,920, 432,000) traced across Berossus, the Rigveda, and Valhalla." },
 ]
 
 footnotes = [

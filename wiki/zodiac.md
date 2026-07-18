@@ -18,6 +18,7 @@ see_also = [
     { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The broader chronological framework the zodiacal calendar structures." },
     { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "A tradition whose Mazzaroth content the corpus reads through the zodiacal framework." },
     { title = "Jean Sendy", path = "wiki/jean-sendy", description = "The author whose religion zodiacale reading precedes the corpus precessional treatment." },
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The zodiac as the twelve hours of the Great Year, each age named for its equinox constellation." },
 ]
 
 [[extra.references]]

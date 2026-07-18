@@ -18,6 +18,7 @@ see_also = [
     { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The nested-scales cosmology within which the precessional ages are organized." },
     { title = "Sumerian King List", path = "wiki/sumerian-king-list", description = "An ancient regnal record the corpus reads against the precessional chronology." },
     { title = "Genesis", path = "wiki/genesis", description = "The creation narrative the corpus maps onto the sequence of precessional ages." },
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The world-age sequence traced through the cult symbols that tracked it, from Hamlet's Mill to the Mazzaroth." },
 ]
 
 [[extra.references]]

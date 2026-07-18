@@ -19,6 +19,7 @@ see_also = [
     { title = "World Age", path = "wiki/world-age", description = "A precessional age treated as a chapter of human history." },
     { title = "Zodiac", path = "wiki/zodiac", description = "The constellation belt against which precession is measured." },
     { title = "Archaeoastronomy", path = "wiki/archaeoastronomy", description = "The discipline that reads ancient monuments against the precessional clock." },
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "Reads Hamlet's Mill's thesis that precession was measured in deep antiquity and encoded in myth." },
 ]
 
 footnotes = [
