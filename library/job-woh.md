@@ -7,6 +7,7 @@ date = 2026-05-21
 
 [extra]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/job-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/job-woh"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "abrahamic"

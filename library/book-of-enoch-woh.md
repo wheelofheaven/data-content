@@ -7,6 +7,7 @@ date = 2026-06-05
 
 [extra]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/book-of-enoch-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/book-of-enoch-woh"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "abrahamic"

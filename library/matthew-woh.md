@@ -7,6 +7,7 @@ date = 2026-06-04
 
 [extra]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/matthew-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/matthew-woh"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "christian"

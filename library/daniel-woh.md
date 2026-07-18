@@ -7,6 +7,7 @@ date = 2026-06-07
 
 [extra]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/daniel-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/daniel-woh"
 translation_status = "complete"
 claim_type = "direct"
 source_family = "hebrew-bible"
