@@ -9,6 +9,7 @@ toc = true
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
+claim_type = "inferred"
 alternative_names = ["Precessional Age", "Astrological Age", "Zodiacal Age", "Great Month", "Platonic Month (older Western-philosophical designation)", "Cosmic Age"]
 timeline = ["multi-age"]
 see_also = [

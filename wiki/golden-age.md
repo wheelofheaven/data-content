@@ -9,6 +9,7 @@ toc = true
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
+claim_type = "framework"
 alternative_names = ["the awaited Golden Age", "the Golden Age of civilization", "the earthly paradise", "the Golden Age of interplanetary civilization", "the operational Golden Age"]
 timeline = ["age-of-aquarius", "post-aquarius"]
 see_also = [
@@ -17,7 +18,9 @@ see_also = [
     { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The succession framework within which Golden Age maturation operates as one stage." },
     { title = "Paradism", path = "wiki/paradism", description = "The post-scarcity social program whose implementation characterizes the Golden Age." },
     { title = "Geniocracy", path = "wiki/geniocracy", description = "The governance model articulated alongside the Golden Age in the source material." },
-    { title = "Embassy", path = "wiki/embassy", description = "The project whose completion conditions humanity's successful Aquarian-age navigation." }
+    { title = "Embassy", path = "wiki/embassy", description = "The project whose completion conditions humanity's successful Aquarian-age navigation." },
+    { title = "Hamlet's Mill", path = "wiki/hamlets-mill", description = "The deposed 'Lord of the Golden Age' — Saturn, the giver of measures — whose wrecked mill grinds out the ages." },
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The Golden Age as the reign of the deposed sleeping king, due back when the precessional wheel completes." }
 ]
 
 [[extra.references]]
@@ -355,6 +358,12 @@ The substantial subsequent classical reception developed Hesiod's framework subs
 The substantial subsequent classical-Christian reception engaged the Golden Age tradition extensively across the medieval period. The substantial **Boethius**'s *Consolation of Philosophy* (c. 524 CE) Book 2, Meter 5 articulates substantive Golden Age content within Christian-Platonist framing. The substantial subsequent medieval-Renaissance reception extended the engagement substantially.
 
 The framework's relationship to the Hesiodic tradition: substantial structural parallel with substantive structural inversion. Both register substantive past Golden Age in environmental-divine harmony; the Hesiodic framework operates substantively declensionally (substantive subsequent ages are substantively descending from the Golden Age standard); the corpus framework operates substantively cyclically (substantive subsequent ages prepare substantive return to substantive Golden Age content at substantively expanded scale).
+
+### The deposed king: Saturn, Kronos, and the mill of the ages
+
+The classical Golden Age has an owner. In Greek and Latin tradition the first and best age is the reign of **Kronos** — **Saturn** to the Romans, whose *Saturnia regna* Virgil invokes in the Fourth Eclogue as the age due to return. Read through the lens of *Hamlet's Mill* (Santillana and von Dechend, 1969), this deposed king is one figure across a wide family of traditions — Kronos, Saturn, the Indian Yama, the Persian Jamshyd, the Sumerian Enki — everywhere the Lord of the Golden Age and the *giver of measures* (the *mē* of Sumer, the *maat* of Egypt): the ruler who set the order of the world once, was dethroned, and now sleeps at the edge of the world "until his time shall come to awaken again." On that reading the deposed king is the configuration of the sky under the lost Golden Age, gone below the horizon of time as the [precessional](../precession/) frame turned; his promised waking is the [Great Year](../great-year/) coming round to its start. The full treatment of the mill and its owner lives in the [Hamlet's Mill](../hamlets-mill/) entry.
+
+The corpus reads this pattern as inheritance rather than coincidence. The shape of a founder who established order, departed, and is scheduled to return on the clock of the turning heaven is the shape the canon gives the Elohim's own departure and their [Great Return](../great-return/) — the arrival that, on the source material's reading, opens the operational Golden Age treated throughout this entry. The past Golden Age remembered as the reign of the sleeping king and the future Golden Age awaited at the close of the cycle are, in this reading, the two ends of a single precessional arc; the [swastika](../swastika/) at the center of the canon's emblem — glossed as "infinity in time" — is its sign. This is a framework reading, explicit in the canon and not endorsed by mainstream scholarship, and the corpus marks it as such.
 
 ### The Hindu yuga-cycle scholarship
 

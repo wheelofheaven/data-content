@@ -6,7 +6,11 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-see_also = [{ title = "World Age", path = "/wiki/world-age/" }]
+see_also = [
+    { title = "World Age", path = "/wiki/world-age/" },
+    { title = "Great Year", path = "wiki/great-year", description = "The full precessional cycle, and the 432,000 count across Berossus, the Rigveda, Valhalla, and Angkor." },
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The precessional number-code — 72, 2,160, 25,920, 432,000 — traced across the traditions that preserved it." },
+]
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
@@ -189,6 +193,8 @@ The framework's adopted position: the Mesoamerican Long Count's substantive nume
 ### The broader cross-cultural pattern
 
 The combined evidence from the Hindu, Greek, Babylonian, and Mesoamerican traditions supports the framework's reading that the precessional Great Year and Great Month numerical structures were preserved across multiple pre-modern cosmological systems. The specific numbers (25,920, 2,160, 432, 72, 360, 4,320) appear with substantial frequency in cosmological-mythological contexts that predate explicit astronomical identification of precession. The framework's reading is that this pattern is evidence of cross-cultural transmission of astronomical content through symbolic-numerological vocabulary — the broader thesis developed in **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time*** (1969), treated in more detail in the [Precession](../precession/) entry.
+
+The same numbers surface not only as durations but as bare *counts* in traditions with no plausible contact: Berossus's 432,000 years of antediluvian Sumerian kingship, the Rigveda's 432,000 syllables (10,800 stanzas of 40), the 432,000 *einherjar* of Valhalla (540 doors × 800), and the 108 churning figures on the causeways of Angkor. The [Great Year](../great-year/) entry assembles this roster in full, and the corpus's long-form reading of the number-code is *The Mill That Grinds the Ages*.
 
 ## In the Wheel of Heaven framework
 

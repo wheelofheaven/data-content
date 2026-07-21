@@ -9,6 +9,7 @@ toc = true
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
+claim_type = "framework"
 alternative_names = ["svastika", "sauvastika", "manji (卍)", "Hakenkreuz (Nazi-specific tilted form)", "fylfot", "gammadion", "sun cross", "tetraskelion", "whirling logs (Navajo)"]
 timeline = ["all-ages"]
 see_also = [
@@ -210,6 +211,8 @@ The passage establishes the swastika's specific Raëlian-framework semantic cont
 
 **4. The cosmic-civilizational connection**. *"The origins and destiny of the creators and human beings are similar and linked."* The swastika's specific cyclic content articulates the broader cosmic-civilizational pattern of created-and-creating civilizations across cosmic time, with the Elohim's specific situation operating within the same cyclic structure as humanity's specific situation.
 
+**5. The most ancient symbol — the Elohim's own sign**. A parallel articulation of the emblem adds that the Star of David "represents infinity in space" and the swastika "infinity in time," and that it is *"certainly the most ancient symbol that has appeared on our planet."* On the framework's reading the swastika is old precisely because it is not native: it is the [Elohim's](../elohim/) own emblem, the sign of the civilization that ran the Earth project, and its worldwide association with good fortune is the residue of its worldwide association with the teachers. This is a framework claim — explicit in the canon and not endorsed by any mainstream discipline. The composite emblem is treated in the [Raëlian Symbol of Infinity](../raelian-symbol-of-infinity/) entry, and the corpus's long-form reading in *The Mill That Grinds the Ages*.
+
 ### The "the cycle" passage in *Extra-Terrestrials Took Me to Their Planet*
 
 The principal subsequent source-material passage establishing the swastika's specific operational role appears in *Extra-Terrestrials Took Me to Their Planet* (1975), in the "Buddhism" section (within the broader "The Second Encounter" content). Yahweh's specific articulation:
@@ -385,7 +388,7 @@ The European scholarly engagement with the swastika across the late nineteenth c
 
 **Heinrich Schliemann** (1822-1890) discovered substantial swastika artifacts during his archaeological excavations at Troy in the 1870s, with his 1875 book *Trojanische Alterthümer* substantially popularizing the symbol in European cultural-archaeological contexts. Schliemann's specific identification of the symbol as "Aryan" within his broader interpretive framework contributed substantively to the symbol's subsequent appropriation in nationalist-political contexts.
 
-**The Theosophical Society** (founded 1875 by Helena Blavatsky and Henry Steel Olcott) incorporated the swastika into its institutional iconography. The Theosophical seal includes the swastika alongside the Star of David, the Ouroboros, the Ankh, and the Aum symbol. The Theosophical movement's specific syncretic religious framework and its broader cultural reach across the late nineteenth and early twentieth centuries provided one specific cultural channel through which the swastika entered late-nineteenth and early-twentieth-century European religious and political contexts.
+**The Theosophical Society** (founded 1875 by Helena Blavatsky and Henry Steel Olcott) incorporated the swastika into its institutional iconography. The Theosophical seal includes the swastika alongside the Star of David, the Ouroboros, the Ankh, and the Aum symbol. The Theosophical movement's specific syncretic religious framework and its broader cultural reach across the late nineteenth and early twentieth centuries provided one specific cultural channel through which the swastika entered late-nineteenth and early-twentieth-century European religious and political contexts. Blavatsky's own gloss in *The Secret Doctrine* (1888) read the swastika as "the continual motion and revolution of the invisible Kosmos of Forces… the rotation in the cycles of Time of the world's axes," adding that "the cross is equivalent to the circle of the year" — a nineteenth-century reading the corpus files as reception history, but one that, whatever its sources, anticipates almost exactly the cyclic-time content the framework reads in the symbol.
 
 ### Nazi appropriation 1920-1945
 
@@ -492,7 +495,7 @@ The Jain tradition provides another substantial cross-cultural articulation of t
 
 Various European traditions preserve substantial pre-Nazi swastika usage across substantial historical depth.
 
-**Paleolithic Mezin culture (Ukraine, c. 10,000 BCE)**. The Mezin culture of the Upper Paleolithic period preserves the earliest known swastika representation, on a carved-mammoth-ivory bracelet discovered at the Mezin site in present-day Ukraine. The artifact provides one of the principal material anchors for the symbol's substantial historical depth in European prehistory.
+**Paleolithic Mezin culture (Ukraine, c. 10,000 BCE)**. The Mezin culture of the Upper Paleolithic period preserves the earliest known swastika representation, on a carved-mammoth-ivory bracelet discovered at the Mezin site in present-day Ukraine. The artifact provides one of the principal material anchors for the symbol's substantial historical depth in European prehistory. The Mezin reading is contested — the carved pattern is a continuous diagonal meander that only resembles linked swastikas, and its Paleolithic dating is broad — so the safer statement is the one the United States Holocaust Memorial Museum uses in its own history of the symbol: the motif appears across Eurasia *"as early as 7,000 years ago, perhaps representing the movement of the sun through the sky,"* remaining an auspicious sign in Hinduism, Buddhism, and Jainism continuously into the present.
 
 **Cucuteni-Trypillian culture (Ukraine-Romania-Moldova, c. 5,000-3,000 BCE)**. The Cucuteni-Trypillian culture preserves substantial swastika usage across pottery, ritual objects, and broader cultural-iconographic contexts. The culture's substantial archaeological documentation provides extensive material on the symbol's specific Neolithic European context.
 

@@ -25,6 +25,7 @@ see_also = [
     { title = "Doubled Signature", path = "/wiki/doubled-signature/", description = "The corpus principle by which the Hebrew Bible registers underlying historical reality." },
     { title = "Reference Corpus of the Raëlian Canon", path = "/wiki/reference-corpus-of-the-raelian-canon/", description = "The principal Raëlian source corpus that operates as canonical reading lens." },
     { title = "The Archdeacon and the Dragon", path = "/articles/the-archdeacon-and-the-dragon/", description = "The redaction / monotheizing-edit thread the article develops, from Hezekiah to Ezra." },
+    { title = "The Mill That Grinds the Ages", path = "/articles/the-mill-that-grinds-the-ages/", description = "The Mazzaroth of Job 38 and the mazzalot of 2 Kings 23 read as the Hebrew line's own zodiacal vocabulary." },
 ]
 
 footnotes = [
@@ -518,6 +519,10 @@ The substantial framework articulates substantial Israel-team genealogical speci
 **The substantial preservation-fidelity content**. The substantial Israel-team's humans, more than any other team's, became the substantial cultural carriers of the substantial creation memory. The substantial preservation-fidelity reflects the substantial historical-developmental specifics of the substantial Eden-lineage genealogical line — substantial consistent population-continuity across the post-flood millennia, substantial religious-cultural-textual tradition development, substantial alliance-officer direct contact across the broader period.
 
 **The substantial other-teams comparative content**. The substantial other six creator-teams' humans had their own substantial creation traditions, with substantial fragments surviving substantively in the substantial comparative-mythology material across various other religious-cultural traditions. The substantial detailed cross-cultural comparative content lives in the various comparative entries (Genesis, Antediluvian, Great Flood, etc.).
+
+### The astral vocabulary: Mazzaroth and the mazzalot
+
+The Hebrew Bible keeps its astronomy sparse, which makes its two explicit references to the constellations stand out. Out of the whirlwind, {% libref(book="job", chapter=38, verse=32) %}Job 38:32{% end %} asks whether Job can "bring forth **Mazzaroth** (<span class="hebrew">מַזָּרוֹת</span>) in his season" — a *hapax legomenon* the ancient versions could no longer translate. Its near-twin, **mazzalot** (<span class="hebrew">מַזָּלוֹת</span>), appears at {% libref(book="2-kings", chapter=23, verse=5) %}2 Kings 23:5{% end %} in the account of King Josiah's purge of the priests who burned incense "to the sun, and to the moon, and to the mazzalot, and to all the host of heaven." Both descend, by the standard etymology, from Akkadian *manzaltu*, "the station of a star." The corpus reads these as the Hebrew line's own witness to the zodiacal tradition it carried; the etymology and its survival in *mazel tov* are treated in the {% wiki(slug="hebrew") %}Hebrew{% end %} entry, and the zodiacal reading in the {% wiki(slug="zodiac") %}Zodiac{% end %} entry.
 
 ## Application across the corpus
 

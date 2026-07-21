@@ -9,6 +9,7 @@ toc = true
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
+claim_type = "speculative"
 alternative_names = ["666", "Six Hundred Sixty-Six", "the Number of the Beast", "the Number of Man (proper-noun framework concept)", "χξϛ (Greek isopsephic representation)"]
 timeline = ["multi-age"]
 see_also = [
@@ -18,6 +19,7 @@ see_also = [
     { title = "Golden Age", path = "wiki/golden-age", description = "The Aquarian culmination the creation-to-Apocalypse trajectory arrives at after half the cycle." },
     { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The framework whose precessional chronology the 666 calculation helps anchor." },
     { title = "Raël", path = "wiki/rael", description = "The source of the generation-count interpretation in Let Us Welcome the Extra-Terrestrials." },
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The broader precessional number-family (72, 2,160, 25,920, 432,000) this generation-count sits beside — and the round-numbers caution that travels with it." },
 ]
 
 [extra.infobox]
