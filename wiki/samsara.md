@@ -9,6 +9,7 @@ toc = true
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
+claim_type = "framework"
 alternative_names = ["Saṃsāra (Sanskrit संसार, Pali saṃsāra)", "the Wheel of Life (Bhavacakra)", "the cycle of birth, death, and rebirth", "the cycle of reincarnation", "cyclic existence", "the cycle (Vorilhon source designation)"]
 timeline = ["multi-age"]
 see_also = [
@@ -18,6 +19,7 @@ see_also = [
     { title = "Apocalypse", path = "wiki/apocalypse", description = "The Aquarian-age threshold at which humanity faces the cycle-escape choice." },
     { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The nested creation lineage within which the civilizational cycle recurs." },
     { title = "Four Levels", path = "wiki/four-levels", description = "The scale hierarchy across which the cyclical pattern is read to operate." },
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The precessional wheel behind the cycle — the mill that grinds the ages, and the swastika the canon reads as its sign." },
 ]
 
 [extra.infobox]

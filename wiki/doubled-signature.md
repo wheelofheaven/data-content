@@ -19,6 +19,7 @@ see_also = [
     { title = "Genesis", path = "wiki/genesis", description = "A principal text the principle reads as preserving encoded precessional-astronomical content." },
     { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "The corpus of religious symbolism the doubled invocation reads for its astronomical signatures." },
     { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "A distinct corpus framework the entry marks off from the doubled-signature principle." },
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The doubled signature read as the initiates' countersignature — Sendy's règle des signes opposés — walked age by age." },
 ]
 
 [extra.infobox]

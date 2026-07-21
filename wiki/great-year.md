@@ -20,6 +20,7 @@ see_also = [
     { title = "Zodiac", path = "wiki/zodiac", description = "The 12-fold celestial division that names each age of the Great Year." },
     { title = "Great Return", path = "wiki/great-return", description = "The Raëlian framing of the cycle's culmination — the Elohim's promised return." },
     { title = "Cosmic Evolution", path = "wiki/cosmic-evolution", description = "The framework that situates the Great Year within deep-time evolution." },
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The Great Year's precessional numbers (72, 2,160, 25,920, 432,000) traced across Berossus, the Rigveda, and Valhalla." },
 ]
 
 footnotes = [
@@ -178,6 +179,10 @@ The Hesiodic Ages are not explicitly precessional — Hesiod predates Hipparchus
 The Mesoamerican Long Count calendar's **13-B'ak'tun Great Cycle** of approximately **5,125 years** (1,872,000 days) corresponds to approximately **one-fifth of the precessional Great Year** (25,920 / 5 = 5,184 years; 25,772 / 5 = 5,154 years — both close to the Great Cycle figure). The numerical correspondence has been the subject of substantial 20th-21st century interpretive engagement, particularly in connection with the December 21, 2012 completion of the most recent Great Cycle.
 
 The framework's adopted position on the Mesoamerican Long Count is that the substantive numerical correspondence with the precessional Great Year is consistent with the broader cross-cultural preservation pattern, but that the specific question of whether the Mesoamerican tradition explicitly encoded precessional content is treated as open.{{ footnote(id="5") }} The dedicated [Mesoamerican astronomy](../mesoamerican-astronomy/) entry would develop this question further.
+
+### The 432,000 count across traditions
+
+Beyond the Hindu durations, the number **432,000** and its factors recur as *counts* in widely separated traditions — the pattern *Hamlet's Mill* made its flagship exhibit. **Berossus**, the Babylonian priest of Marduk, assigned the kings of Sumer before the Flood a combined reign of 432,000 years. The **Rigveda**, composed a continent away, runs to 10,800 stanzas of 40 syllables — 432,000 syllables in all. In the Norse *Grímnismál*, **Valhalla** has 540 doors, and 800 warriors issue from each to the last battle: 432,000 *einherjar*, in a poem that leaves the reader to do the multiplication. And the causeways of **Angkor** carry 108 stone figures per avenue, 54 to a side, churning the Milky Ocean — 108, 540, and 432,000 rendered in stone. Skeptics answer that 12, 30, 60, and 360 — humanity's favourite round numbers — generate these products without any precessional referent, and the objection is a real one, weighed in the [Precession](../precession/) and [Hamlet's Mill](../hamlets-mill/) entries. What the recurrences establish, at minimum, is that the same small set of numbers keeps surfacing in cosmological contexts across unconnected cultures.
 
 ### The broader cross-cultural pattern
 

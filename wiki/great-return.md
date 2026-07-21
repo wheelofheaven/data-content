@@ -20,6 +20,8 @@ see_also = [
     { title = "Council of the Eternals", path = "wiki/council-of-the-eternals", description = "The Elohim governing body whose official arrival the Return represents." },
     { title = "Jesus", path = "wiki/jesus", description = "The Christian Parousia figure the framework reads as one vocabulary for the Return." },
     { title = "List of prophets and religions", path = "wiki/list-of-prophets-and-religions", description = "The cross-tradition eschatological figures the framework reads as anticipating the same event." },
+    { title = "Hamlet's Mill", path = "wiki/hamlets-mill", description = "The comparative study whose deposed 'Lord of the Golden Age, due to return' the corpus reads alongside the Return." },
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The sleeping king who wakes — Saturn, Kronos, the Once and Future King — read as the precessional shape of the Return." },
 ]
 
 [extra.infobox]
@@ -191,6 +193,35 @@ The framework reads Maitreya as preserving substantive content about the same an
 The Zoroastrian **Saoshyant** (Avestan **𐬯𐬀𐬊𐬱𐬌𐬌𐬀𐬧𐬝** *Saošiiaṇt̰*, "Bringer of Benefit"; Pahlavi **Sōšyans**) is the **eschatological savior** who appears at the end of the present cosmic cycle to defeat the forces of evil (*Angra Mainyu* and his demonic hosts), inaugurate the *Frashokereti* (the "renovation" or "making wonderful" of the cosmos), resurrect the dead, and restore the original perfect creation. The principal sources include the *Yasht* literature (particularly *Yasht* 19), the *Vendidad*, the *Bundahishn*, and the broader Zoroastrian textual tradition.
 
 The framework reads Saoshyant as preserving substantive content about the same anticipated event as the Great Return. The Zoroastrian tradition is among the oldest of the eschatological-savior traditions (with the foundational Zoroastrian material plausibly dating to the late 2nd millennium BCE), and the substantive influence of Zoroastrian eschatology on the subsequent Jewish, Christian, and Islamic eschatological traditions is well-documented in the comparative religion scholarship.
+
+### The Greco-Roman pattern: the deposed king who wakes
+
+One strand of the pattern faces the other way: it awaits not a savior
+descending from the future but a king remembered from the past —
+deposed, not dead, and due to return. In the [comparative material](../comparative-mythology/)
+that *Hamlet's Mill* reconstructs, Kronos of the Greeks, Saturn of the
+Latins, Yama of India, Jamshyd of Persia, and Enki of Sumer are one
+figure: the Lord of the Golden Age and the *giver of measures* (the *mē*
+of Sumer, the *maat* of Egypt), who set the order of the world once, was
+dethroned, and now sleeps at the edge of the world — wrapped, in several
+tellings, in funerary linen — *until his time shall come to awaken
+again.* The motif crystallized in the medieval West as the **Once and
+Future King**, the *rex quondam rexque futurus* of the Arthurian
+tradition: the ruler who did not die but withdrew, and whose return is
+promised.
+
+On the reading the corpus adopts from [Hamlet's Mill](../hamlets-mill/),
+this sleeping king is the configuration of the sky under the lost
+[Golden Age](../golden-age/) — gone below the horizon of time as the
+precessional frame turned, and due back when the wheel completes its
+[Great Year](../great-year/). The corpus reads the resonance with the
+Great Return as inheritance rather than coincidence: a founder who
+departs and is scheduled to return on the clock of the whole turning
+heaven is the shape the canon gives the Elohim's own departure and
+promised arrival. The comparative claim stays hedged — the traditions
+are kept in their own terms, not flattened into one — but the point of
+contact is exact: a return timed to the turning of the sky is where the
+myth of the sleeping king and the canon's Great Return meet.
 
 ### Other traditions
 

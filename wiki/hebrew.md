@@ -9,6 +9,7 @@ toc = true
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "text"
+claim_type = "inferred"
 alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "the Holy Tongue", "Biblical Hebrew", "Classical Hebrew"]
 see_also = [
     { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "The principal corpus preserved in this language and read for framework content." },
@@ -16,6 +17,8 @@ see_also = [
     { title = "Eden", path = "wiki/eden", description = "The creation-laboratory setting where, on the reading, the language was first transmitted." },
     { title = "Adam and Eve", path = "wiki/adam-and-eve", description = "The first humans who, on the reading, learned their creators' spoken language." },
     { title = "Babel", path = "wiki/babel", description = "The dispersal event framing the diversification of the original transmitted tongue." },
+    { title = "Zodiac", path = "wiki/zodiac", description = "The Mazzaroth thread — the mazzal that survives in mazel tov reads through the zodiacal framework." },
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The Hebrew astral thread in full — Mazzaroth, mazzalot, and the star's station that became a blessing." },
 ]
 
 [extra.infobox]
@@ -258,6 +261,12 @@ A small set of words pertaining to gods, sky, and ancient cities exhibits a part
 The most quietly significant entry in this table is *Bāvel / Bāb-ilim / KA₂.DINGIR.RA*. The Hebrew name for Babylon, the Akkadian name for Babylon, and the Sumerian name for Babylon all gloss, transparently and convergently, as "gate of the god(s)." The Sumerian DINGIR — the same star-shaped logogram that writes *ilum* and that ideographically depicts the sky — is the divine element. The corpus reads this convergence as a residue: the city's name, in three independent writing traditions, preserves a memory of what Babylon was understood to be, and that understanding is consistent with the framework's reading of the Elohim as celestial-origin beings. The standard philological explanation that *Bāb-ilim* simply means "gate of the gods" in the conventional theological sense is not in conflict with this reading; the corpus's claim is that the conventional theological sense is itself a later abstraction of an originally more concrete referent.
 
 The Erech / Uruk and Akkad / *URI.KI* correspondences in Genesis 10:10 (*"The beginning of his kingdom was Babel, and Erech, and Akkad, and Calneh, in the land of Shinar"*) show that the Hebrew Bible preserves accurate names for Mesopotamian cities whose Sumerian and Akkadian originals are independently attested in cuneiform. The naming is at the level of philological detail unlikely to be coincidental and consistent with the framework's reading that the Hebrew tradition preserves accurate ancient memory of the Mesopotamian world.
+
+### *Mazzal*: the star's station
+
+One celestial term traveled further into everyday speech than any other. The Hebrew Bible carries two near-twin words for the stars in their courses: **Mazzaroth** (<span class="hebrew">מַזָּרוֹת</span>) at {% libref(book="job", chapter=38, verse=32) %}Job 38:32{% end %}, a *hapax legomenon* whose meaning was already lost by the time of the ancient translators (the Septuagint transliterates, the Vulgate guesses at the morning star, the King James leaves it untranslated with "the twelve signs" in the margin), and its counterpart **mazzalot** (<span class="hebrew">מַזָּלוֹת</span>) at {% libref(book="2-kings", chapter=23, verse=5) %}2 Kings 23:5{% end %}, where King Josiah purges the priests who burned incense "to the sun, and to the moon, and to the mazzalot, and to all the host of heaven." The standard etymology (Klein) derives both from Akkadian *manzaltu* / *mazaltu*, "the station, the standing-place of a star," from *nazāzu*, "to stand" — the word for where a star stands in its circuit.
+
+The singular, *mazzal* (<span class="hebrew">מַזָּל</span>), carried that astral sense down the centuries into the meaning of one's portion, one's fortune, one's luck — the star one stands under. Rabbinic Hebrew made it proverbial, and the most casual blessing in the Jewish world preserves the fossil intact: ***mazel tov***, literally "a good constellation" — may the star you stand under stand well. The corpus reads the word as a small confirmation of the zodiacal thread the Hebrew line carried; see the [Zodiac](../zodiac/) entry for the *Mazzaroth* and the [Hebrew Bible](../hebrew-bible/) entry for the verses in their setting.
 
 ### Common Biblical Hebrew terms with framework-relevant readings
 

@@ -18,6 +18,7 @@ alternative_names = [
 ]
 timeline = ["age-of-aquarius"]
 see_also = [
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The corpus's long-form reading of this book — the mill complex, the ages it grinds, the number-code, the Mazzaroth, and the canon's swastika." },
     { title = "Precession", path = "wiki/precession", description = "The astronomical phenomenon the book argues myth encodes." },
     { title = "World Age", path = "wiki/world-age", description = "A precessional age treated as a chapter of human history — the book's 'frame of time'." },
     { title = "Great Year", path = "wiki/great-year", description = "The full ~26,000-year precessional cycle." },
@@ -28,6 +29,7 @@ see_also = [
     { title = "Comparative Mythology", path = "wiki/comparative-mythology", description = "The corpus's broader cross-cultural pattern-recognition engagement." },
     { title = "Mytheme", path = "wiki/mytheme", description = "The adjacent structural-analytical vocabulary for recurring mythological units." },
     { title = "Golden Age", path = "wiki/golden-age", description = "The age the mill ground out before its wrecking — Saturn's deposed kingdom." },
+    { title = "Great Return", path = "wiki/great-return", description = "The deposed king's promised waking, read by the corpus as the precessional shape of the Elohim's scheduled return." },
     { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The corpus's name for the turning precessional frame itself." },
 ]
 
@@ -233,7 +235,7 @@ The identity of mill and turning sky, the authors observe, was never really hidd
 
 > *"How and why does it always happen that this Mill, the peg of which is Polaris, had to be wrecked or unhinged? Once the archaic mind had grasped the forever-enduring rotation, what caused it to think that the axle jumps out of the hole?"*
 
-Their answer: *the unhinging of the Mill is caused by the shifting of the world axis.* The pole star does get out of place; every few thousand years the peg fails and another star must be chosen; the equinoctial sunrise does abandon the constellation it had kept for two millennia. To an astronomy that had made the frame of heaven the guarantor of all stability, the discovery that the frame itself creeps registered as catastrophe — and the myths record it as exactly that. Presiding over the wrecked machine is the deposed king: Kronos of the Greeks, Saturn of the Latins, Yama of India, Jamshyd of Persia, Enki of Sumer — everywhere the Lord of the Golden Age and the *giver of measures*, dethroned, sleeping at the edge of the world until his time comes to waken. His deposition and promised return is, on the authors' reading, the myth of the age-cycle itself.
+Their answer: *the unhinging of the Mill is caused by the shifting of the world axis.* The pole star does get out of place; every few thousand years the peg fails and another star must be chosen; the equinoctial sunrise does abandon the constellation it had kept for two millennia. To an astronomy that had made the frame of heaven the guarantor of all stability, the discovery that the frame itself creeps registered as catastrophe — and the myths record it as exactly that. Presiding over the wrecked machine is the deposed king: Kronos of the Greeks, Saturn of the Latins, Yama of India, Jamshyd of Persia, Enki of Sumer — everywhere the Lord of the Golden Age and the *giver of measures* — the *mē* of Sumer, the *maat* of Egypt — dethroned, sleeping at the edge of the world until his time comes to waken. His deposition and promised return is, on the authors' reading, the myth of the age-cycle itself.
 
 ### The canonical numbers
 
@@ -330,7 +332,7 @@ The corpus's specific commitments, stated plainly:
 
 ### Integration: the World Ages chronology
 
-The book's "frame of time" — history divided into precessional ages of roughly 2,160 years, each named for the constellation hosting the vernal equinox — is the same structure the corpus operates as its working calendar. The corpus's twelve-age [chronology](../chronology/), running from the Age of Leo of the human synthesis through the Age of Pisces of the Christian era to the present [Age of Aquarius](../world-age/), integrates the book's world-age framework with the specific dated content of the Raëlian source material, which places the opening of the era of Aquarius in the mid-1940s. The name of the project itself belongs to this register: the [Wheel of Heaven](../wheel-of-heaven/) is the turning frame the book spent five hundred pages reconstructing. The mill's owner — Saturn the giver of measures, the deposed king of the [Golden Age](../golden-age/) whose return is promised — and the wrecking of the mill at each age-boundary are read by the corpus alongside its own treatments of the [Great Flood](../great-flood/) and the age-transition catastrophes; the cyclical cosmology the book recovers is likewise read alongside the canon's own emblem of infinite cyclic time, treated in the [Swastika](../swastika/) and [Infinity](../infinity/) entries.
+The book's "frame of time" — history divided into precessional ages of roughly 2,160 years, each named for the constellation hosting the vernal equinox — is the same structure the corpus operates as its working calendar. The corpus's twelve-age [chronology](../chronology/), running from the Age of Leo of the human synthesis through the Age of Pisces of the Christian era to the present [Age of Aquarius](../world-age/), integrates the book's world-age framework with the specific dated content of the Raëlian source material, which places the opening of the era of Aquarius in the mid-1940s. The name of the project itself belongs to this register: the [Wheel of Heaven](../wheel-of-heaven/) is the turning frame the book spent five hundred pages reconstructing. The mill's owner — Saturn the giver of measures, the deposed king of the [Golden Age](../golden-age/) whose [return is promised](../great-return/) — and the wrecking of the mill at each age-boundary are read by the corpus alongside its own treatments of the [Great Flood](../great-flood/) and the age-transition catastrophes; the cyclical cosmology the book recovers is likewise read alongside the canon's own emblem of infinite cyclic time, treated in the [Swastika](../swastika/) and [Infinity](../infinity/) entries.
 
 ### Extension: the Doubled Signature
 

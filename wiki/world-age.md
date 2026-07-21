@@ -9,6 +9,7 @@ toc = true
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
+claim_type = "inferred"
 alternative_names = ["Precessional Age", "Astrological Age", "Zodiacal Age", "Great Month", "Platonic Month (older Western-philosophical designation)", "Cosmic Age"]
 timeline = ["multi-age"]
 see_also = [
@@ -18,6 +19,7 @@ see_also = [
     { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The nested-scales cosmology within which the precessional ages are organized." },
     { title = "Sumerian King List", path = "wiki/sumerian-king-list", description = "An ancient regnal record the corpus reads against the precessional chronology." },
     { title = "Genesis", path = "wiki/genesis", description = "The creation narrative the corpus maps onto the sequence of precessional ages." },
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The world-age sequence traced through the cult symbols that tracked it, from Hamlet's Mill to the Mazzaroth." },
 ]
 
 [[extra.references]]
