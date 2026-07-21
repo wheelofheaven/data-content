@@ -32,7 +32,7 @@ The **Great Month** is the unit of chronological measurement corresponding to **
 
 On the modern astronomical reckoning, the precessional Great Year completes one full cycle in approximately **25,771.5 years**, giving a Great Month of approximately **2,147.625 years** (≈ 2,147 years 7.5 months). On the astrological-tradition reckoning, the Great Year is taken as **25,920 years** exactly — a number with substantial divisibility properties (2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72) that makes it mathematically convenient and that has substantively shaped its prominence in cross-cultural cosmological tradition. On the traditional reckoning, the Great Month is exactly **2,160 years** (one-twelfth of 25,920), with the convenient factorization 2⁴ × 3³ × 5. The two reckonings differ by approximately 12 years per Great Month, sufficient to produce moderate divergence in long-period chronologies but small enough that the practical use of either figure produces broadly consistent results for the corpus's chronological purposes.
 
-The corpus uses the Great Month as the principal chronological unit because the precessional Great Months align meaningfully with the substantive events of the broader prophetic record: the Adamite synthesis in the **Age of Leo** (c. 13,170 – 11,010 BCE), the Sumerian and Egyptian civilisations in the **Age of Taurus** (c. 6,690 – 4,530 BCE), the Hebrew prophetic period in the **Age of Aries** (c. 4,530 – 2,370 BCE on the broader reckoning, with the principal events concentrated in the middle-to-late portion), the Christian era in the **Age of Pisces** (c. 1 CE – 2,160 CE), and the contemporary transition into the **Age of Aquarius** (c. 2,160 CE onward). The framework's reading is that this alignment is not coincidental — that the Great Months structure the chronology of the Elohim project in a substantively meaningful way that is preserved in cross-cultural mythological tradition through the symbolic vocabulary of the zodiacal signs.
+The corpus uses the Great Month as the principal chronological unit because the precessional Great Months align meaningfully with the substantive events of the broader prophetic record: the Adamite synthesis in the **Age of Leo** (c. 11,010 – 8,850 BCE), the Sumerian and Egyptian civilisations in the **Age of Taurus** (c. 4,530 – 2,370 BCE), the Hebrew prophetic period in the **Age of Aries** (c. 2,370 – 210 BCE, with the principal events concentrated in the middle-to-late portion), the Christian era in the **Age of Pisces** (c. 210 BCE – 1950 CE), and the contemporary **Age of Aquarius** (c. 1950 CE onward). The framework's reading is that this alignment is not coincidental — that the Great Months structure the chronology of the Elohim project in a substantively meaningful way that is preserved in cross-cultural mythological tradition through the symbolic vocabulary of the zodiacal signs.
 
 The Great Month entry is a focused unit-of-measurement entry within the broader Cosmic Chronology category. The astronomical phenomenon of precession itself is treated more fully in the dedicated [Precession](../precession/) entry; the broader cross-cultural doctrine of cosmic ages (the Hindu *yuga* cycle, the Hesiodic ages, the broader cyclical-cosmological tradition) is treated in the dedicated [World Age](../world-age/) entry; the full Great Year is treated in the dedicated [Great Year](../great-year/) entry. The present entry focuses specifically on the Great Month as a unit of time, its mathematical structure, the cross-cultural preservation of its numerical signatures, and the framework's specific use of the unit as chronological infrastructure.
 
@@ -204,14 +204,14 @@ The framework's specific use of the Great Month is multilayered. The unit serves
 
 The corpus's broader interpretive work uses Great Months as the structured temporal framework for dating the principal events of the Elohim project and the broader prophetic record. The principal Great Month identifications used across the corpus:
 
-- **Age of Virgo** (c. 15,330 – 13,170 BCE) — the *yom* 5 phase of Genesis 1, the synthesis of the broader animal life
-- **Age of Leo** (c. 13,170 – 11,010 BCE) — the *yom* 6 human-synthesis phase, the principal Adamite synthesis, the Eden phase
-- **Age of Cancer** (c. 11,010 – 8,850 BCE) — the post-deluge reorganisation following the Younger Dryas-era catastrophic events
-- **Age of Gemini** (c. 8,850 – 6,690 BCE) — the early Neolithic population developments, the broader Holocene climate stabilisation
-- **Age of Taurus** (c. 6,690 – 4,530 BCE) — the Sumerian, Egyptian, and broader Bronze Age civilisations
-- **Age of Aries** (c. 4,530 – 2,370 BCE) — the principal Hebrew prophetic period (Abraham through Moses, the Sinai theophany, the Davidic monarchy, the prophetic tradition)
-- **Age of Pisces** (c. 1 CE – 2,160 CE) — the Christian era and the broader subsequent religious developments
-- **Age of Aquarius** (c. 2,160 CE onward) — the contemporary recovery period, overlapping with the corpus's identification of the **Age of Apocalypse**
+- **Age of Virgo** (c. 13,170 – 11,010 BCE) — the *yom* 5 phase of Genesis 1, the synthesis of the broader animal life
+- **Age of Leo** (c. 11,010 – 8,850 BCE) — the *yom* 6 human-synthesis phase, the principal Adamite synthesis, the Eden phase
+- **Age of Cancer** (c. 8,850 – 6,690 BCE) — the *yom* 7 antediluvian period: the Eden expulsion, the Nephilim, the rise of the pre-flood civilisation
+- **Age of Gemini** (c. 6,690 – 4,530 BCE) — the *yom* 8 Flood, Noah's covenant, and the war in heaven
+- **Age of Taurus** (c. 4,530 – 2,370 BCE) — the Sumerian, Egyptian, and broader Bronze Age civilisations
+- **Age of Aries** (c. 2,370 – 210 BCE) — the principal Hebrew prophetic period (Abraham through Moses, the Sinai theophany, the Davidic monarchy, the prophetic tradition)
+- **Age of Pisces** (c. 210 BCE – 1950 CE) — the Christian era and the broader subsequent religious developments
+- **Age of Aquarius** (c. 1950 CE onward) — the contemporary recovery period, overlapping with the corpus's identification of the **Age of Apocalypse**
 
 The dedicated entries on each Great Month develop the specific content; the present entry establishes the chronological unit on which the broader framework depends.
 

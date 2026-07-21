@@ -250,7 +250,7 @@ The framework's reading of the Great Year is multilayered. The mainstream astron
 The framework's most substantive interpretive position concerning the Great Year is that **approximately one complete Great Year corresponds to the duration of the Elohim project on Earth**. The principal connections:
 
 - The Vorilhon source material's central claim that the Elohim arrived on Earth and began their operational project approximately **25,000 years ago**{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — primary source for the framework's ~25,000-year Elohim-project chronology") }} corresponds to approximately one Great Year on the modern astronomical reckoning (25,772 years) or 96% of one Great Year on the traditional reckoning (25,920 years)
-- The framework's chronological reading places the principal human-synthesis event in the **Age of Leo** (c. 13,170 – 11,010 BCE), with the {% wiki(slug="eden") %}Eden{% end %} phase, the antediluvian Adamite period, and the broader prophetic record continuing through the subsequent Ages
+- The framework's chronological reading places the principal human-synthesis event in the **Age of Leo** (c. 11,010 – 8,850 BCE), with the {% wiki(slug="eden") %}Eden{% end %} phase, the antediluvian Adamite period, and the broader prophetic record continuing through the subsequent Ages
 - The contemporary period (early 21st century CE) is approximately **12,000-15,000 years after** the principal synthesis event, corresponding to approximately **half of the Great Year** — placing humanity at approximately the midpoint of the precessional cycle from the synthesis event
 - The framework's reading of the **Age of {% wiki(slug="apocalypse") %}Apocalypse{% end %}** (treated in the dedicated entry) as the recovery and recognition phase places the contemporary period at the substantive transition from the Elohim's covert operational supervision to the broader recognition phase
 
@@ -272,14 +272,14 @@ The framework's broader work uses the Great Year as the master temporal framewor
 
 | Great Month | Approximate dates | Principal framework content |
 |---|---|---|
-| **Age of Virgo** | c. 15,330 – 13,170 BCE | The *yom* 5 phase; synthesis of broader animal life |
-| **Age of Leo** | c. 13,170 – 11,010 BCE | The *yom* 6 phase; principal human synthesis; Eden phase |
-| **Age of Cancer** | c. 11,010 – 8,850 BCE | Post-deluge reorganisation; Younger Dryas-era catastrophic events |
-| **Age of Gemini** | c. 8,850 – 6,690 BCE | Early Neolithic; Holocene climate stabilisation |
-| **Age of Taurus** | c. 6,690 – 4,530 BCE | Sumerian and Egyptian civilisations; principal megalithic period |
-| **Age of Aries** | c. 4,530 – 2,370 BCE | Principal Hebrew prophetic period (Abraham–{% wiki(slug="moses") %}Moses{% end %}–Davidic monarchy) |
-| **Age of Pisces** | c. 1 CE – 2,160 CE | Christian era and broader subsequent religious developments |
-| **Age of Aquarius** | c. 2,160 CE onward | Contemporary recovery period; transition into the Age of Apocalypse |
+| **Age of Virgo** | c. 13,170 – 11,010 BCE | The *yom* 5 phase; synthesis of broader animal life |
+| **Age of Leo** | c. 11,010 – 8,850 BCE | The *yom* 6 phase; principal human synthesis; Eden phase |
+| **Age of Cancer** | c. 8,850 – 6,690 BCE | The *yom* 7 antediluvian period; Eden expulsion; the Nephilim |
+| **Age of Gemini** | c. 6,690 – 4,530 BCE | The *yom* 8 Flood; Noah's covenant; the war in heaven |
+| **Age of Taurus** | c. 4,530 – 2,370 BCE | Sumerian and Egyptian civilisations; principal megalithic period |
+| **Age of Aries** | c. 2,370 – 210 BCE | Principal Hebrew prophetic period (Abraham–{% wiki(slug="moses") %}Moses{% end %}–Davidic monarchy) |
+| **Age of Pisces** | c. 210 BCE – 1950 CE | Christian era and broader subsequent religious developments |
+| **Age of Aquarius** | c. 1950 CE onward | Contemporary recovery period; transition into the Age of Apocalypse |
 
 The Great Year therefore organises approximately 27,500 years of corpus-relevant content from the Age of Virgo through the contemporary period. The earlier portions of the Great Year (the Ages of Libra, Scorpio, Sagittarius, Capricorn) correspond on the framework's reading to the **preparatory phases** of the Earth project — the *yamim* 1-4 of Genesis 1, the terraforming operations treated in the dedicated [Terraforming](../terraforming/) entry. The framework's complete Great Year sequence therefore covers the full Elohim project from initial terraforming through the contemporary recovery phase.
 
@@ -287,7 +287,7 @@ The Great Year therefore organises approximately 27,500 years of corpus-relevant
 
 The contemporary cultural recognition that "the world is entering the Age of Aquarius" — a phrase that became culturally prominent through the 1967 song "Aquarius / Let the Sunshine In" from the Broadway musical *Hair* and has been substantially developed in subsequent esoteric and "New Age" discourse — is read by the framework as preserving popular awareness of the precessional Age transition. The specific timing of the Pisces-to-Aquarius transition is contested (different reckonings place it variously between approximately 1900 CE and 2700 CE), but the broader cultural recognition that a substantive Age transition is occurring is consistent with the framework's reading that the contemporary period is the substantive recovery and recognition phase of the broader Elohim project.
 
-The framework's specific Pisces-to-Aquarius transition timing is treated as approximate (c. 2,160 CE on the framework's adopted reckoning, but with ±200-year uncertainty as discussed in the [Precession](../precession/) and [Great Month](../great-month/) entries). What is substantively significant on the framework's reading is not the precise date of transition but the broader pattern: the Age of Pisces (the Christian era and the broader subsequent religious developments) is concluding, and the contemporary period is the substantive transition into a new precessional Age within which the broader corpus's interpretive recovery work is operating.
+The framework places the Pisces-to-Aquarius transition at 1950 CE, following the canon's operational dating of the era of Aquarius (anchored to 1946) and treating the boundary as a convention rather than a sharp astronomical line; other reckonings range from about 1900 CE to AD 2597, as discussed in the [Precession](../precession/) and [Great Month](../great-month/) entries. What is substantively significant on the framework's reading is not the precise date of transition but the broader pattern: the Age of Pisces (the Christian era and the broader subsequent religious developments) is concluding, and the contemporary period is the substantive transition into a new precessional Age within which the broader corpus's interpretive recovery work is operating.
 
 ## Connections to the broader framework
 
