@@ -3,7 +3,7 @@ title = "Monotheism Is the Wrong Question"
 description = "Ancient wars on idols were often contests of allegiance, mediation, and memory, not arithmetic about divine beings. A rigorous Wheel of Heaven rereading."
 template = "articles-page.html"
 date = 2026-07-14
-draft = true
+draft = false
 
 [extra]
 claim_type = "speculative"
@@ -707,7 +707,5 @@ necessarily emptying heaven. They were clearing the line of sight.
 
 - [*The Religion of Religions*](/articles/the-religion-of-religions/) develops the full canonical model of revelation, recovery, and institutional overburden.
 - [*The Translators' Wager*](/articles/the-translators-wager/) follows the linguistic path by which plural *Elohim* became singular "God."
-- [*The Forty Chairs*](/articles/the-forty-chairs/) tests which prophetic traditions preserve the shared signature of the empty idol, plural sky, and non-deified creators.
-- [*The Filing Cabinet of the Gods*](/articles/the-filing-cabinet-of-the-gods/) sets divine councils, rival factions, and recurring mythic scenes inside the comparative archive.
 - [*Did the First Mosques Face Petra?*](/articles/the-first-mosques-faced-petra-not-mecca/) presents the companion argument about the Hanafiyya and early Islamic geography.
 - The {% wiki(slug="monotheism") %}Monotheism{% end %}, {% wiki(slug="idolatry") %}Idolatry{% end %}, and {% wiki(slug="plurality-of-gods") %}Plurality of Gods{% end %} entries provide compact reference versions of the article's three main categories.

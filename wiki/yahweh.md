@@ -22,6 +22,7 @@ see_also = [
     { title = "Jesus", path = "wiki/jesus", description = "The figure conventionally identified as Yahweh's son in Christian tradition." },
     { title = "Moses", path = "wiki/moses", description = "Yahweh's primary contact during the Exodus narrative." },
     { title = "Abraham", path = "wiki/abraham", description = "The founding patriarch through whom Yahweh established the covenant." },
+    { title = "Monotheism Is the Wrong Question", path = "articles/monotheism-is-the-wrong-question", description = "Yahweh read as a named, representative Eloha who speaks for the plural makers — not being itself." },
 ]
 
 footnotes = [

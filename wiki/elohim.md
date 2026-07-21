@@ -26,6 +26,7 @@ see_also = [
     { title = "Elohim's Home Planet", path = "wiki/elohim-home-planet", description = "The planet of origin described by Raël after his 1975 visit." },
     { title = "The Archdeacon and the Dragon", path = "articles/the-archdeacon-and-the-dragon", description = "The plural 'Powerful Ones' reading of the Genesis elohim, on which the article's whole argument rests." },
     { title = "The Scrolls That Woke in Year One", path = "articles/the-scrolls-that-woke-in-year-one", description = "4QDeut(j) 'sons of Elohim' and 11QMelchizedek's heavenly 'elohim' — the plural read on ancient Qumran leather." },
+    { title = "Monotheism Is the Wrong Question", path = "articles/monotheism-is-the-wrong-question", description = "Why the singular biblical 'God' may be a representative Eloha, not a supernatural Absolute — the plurality read across idol polemic." },
 ]
 
 footnotes = [
