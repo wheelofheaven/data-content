@@ -11,6 +11,7 @@ featured_order = 1
 category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "civilization"
+claim_type = "framework"
 alternative_names = ["Anunnaki", "Celestials", "Creators", "El", "Gods", "Powerful Ones", "Sky People", "Theosites"]
 portrait_id = "elohim"
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.webp"

@@ -10,6 +10,7 @@ toc = true
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "civilization"
+claim_type = "framework"
 
 alternative_names = ["the Grand Council of the Eternals", "the Council", "the Council of Eternals", "the Divine Council", "the Divine Assembly", "the Heavenly Court", "the Assembly of the Elohim"]
 timeline = ["pre-creation", "capricorn", "sagittarius", "scorpio", "libra", "virgo", "leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
@@ -19,6 +20,7 @@ see_also = [
     { title = "Lucifer", path = "wiki/lucifer", description = "The full-disclosure faction whose Earth exile the Council adjudicated." },
     { title = "Antediluvian", path = "wiki/antediluvian", description = "The pre-Flood advancement crisis the Council resolved with the reset." },
     { title = "Eden", path = "wiki/eden", description = "The disclosure crisis whose political settlement the Council decided." },
+    { title = "Monotheism Is the Wrong Question", path = "articles/monotheism-is-the-wrong-question", description = "The divine council read as the plurality behind the biblical 'one God' — a representative speaking for the whole assembly." },
 ]
 
 [[extra.references]]
