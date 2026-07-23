@@ -19,7 +19,8 @@ see_also = [
     { title = "Ancient Builders", path = "wiki/ancient-builders", description = "The megalithic and temple constructors whose astronomical alignments the discipline field-surveys." },
     { title = "Sacred Geometry", path = "wiki/sacred-geometry", description = "The architectural-mathematical encoding of celestial knowledge the discipline reads at aligned sites." },
     { title = "Göbekli Tepe", path = "wiki/gobekli-tepe", description = "The ~9600 BCE sanctuary at the centre of the Pillar 43 archaeoastronomy debate." },
-    { title = "Graham Hancock", path = "wiki/graham-hancock", description = "The writer whose books popularized — and provoked debate over — the archaeoastronomical reading of ancient sites." }
+    { title = "Graham Hancock", path = "wiki/graham-hancock", description = "The writer whose books popularized — and provoked debate over — the archaeoastronomical reading of ancient sites." },
+    { title = "Great Sphinx", path = "wiki/great-sphinx", description = "The equinox-facing lion monument at the centre of the older-dating and Age-of-Leo argument." }
 ]
 
 [extra.infobox]
