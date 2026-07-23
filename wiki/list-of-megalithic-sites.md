@@ -18,6 +18,7 @@ see_also = [
     { title = "List of mythemes and mythological motifs", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "The mythological record the corpus reads alongside the megalithic material evidence." },
     { title = "Pangaea", path = "wiki/pangaea", description = "The antediluvian landmass predating and framing the corpus's deep construction chronology." },
     { title = "Genesis", path = "wiki/genesis", description = "The source narrative anchoring the corpus's account of early advanced human civilisation." },
+    { title = "Göbekli Tepe", path = "wiki/gobekli-tepe", description = "The ~9600 BCE sanctuary — the earliest dated site the catalogue addresses." },
 ]
 
 [extra.infobox]
