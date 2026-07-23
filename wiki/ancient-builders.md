@@ -22,6 +22,7 @@ see_also = [
     { title = "Sacred Geometry", path = "wiki/sacred-geometry", description = "The geometric sophistication present in monumental architecture across traditions." },
     { title = "Precession", path = "wiki/precession", description = "The 25,800-year astronomical cycle whose tracking by ancient monuments warrants substantive engagement." },
     { title = "Göbekli Tepe", path = "wiki/gobekli-tepe", description = "The oldest monumental architecture — the anomalously early build the entry's question centres on." },
+    { title = "Graham Hancock", path = "wiki/graham-hancock", description = "The best-known proponent of the lost-civilization reading of the early builders." },
 ]
 
 footnotes = [

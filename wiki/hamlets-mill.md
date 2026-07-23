@@ -31,6 +31,7 @@ see_also = [
     { title = "Golden Age", path = "wiki/golden-age", description = "The age the mill ground out before its wrecking — Saturn's deposed kingdom." },
     { title = "Great Return", path = "wiki/great-return", description = "The deposed king's promised waking, read by the corpus as the precessional shape of the Elohim's scheduled return." },
     { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The corpus's name for the turning precessional frame itself." },
+    { title = "Graham Hancock", path = "wiki/graham-hancock", description = "The writer who carried this book's thesis to a mass audience as the 'precessional code'." },
 ]
 
 [[extra.references]]

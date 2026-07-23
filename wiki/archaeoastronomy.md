@@ -18,7 +18,8 @@ see_also = [
     { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The interpretive tradition the corpus threads against mainstream archaeoastronomy on pre-Hipparchean awareness." },
     { title = "Ancient Builders", path = "wiki/ancient-builders", description = "The megalithic and temple constructors whose astronomical alignments the discipline field-surveys." },
     { title = "Sacred Geometry", path = "wiki/sacred-geometry", description = "The architectural-mathematical encoding of celestial knowledge the discipline reads at aligned sites." },
-    { title = "Göbekli Tepe", path = "wiki/gobekli-tepe", description = "The ~9600 BCE sanctuary at the centre of the Pillar 43 archaeoastronomy debate." }
+    { title = "Göbekli Tepe", path = "wiki/gobekli-tepe", description = "The ~9600 BCE sanctuary at the centre of the Pillar 43 archaeoastronomy debate." },
+    { title = "Graham Hancock", path = "wiki/graham-hancock", description = "The writer whose books popularized — and provoked debate over — the archaeoastronomical reading of ancient sites." }
 ]
 
 [extra.infobox]
