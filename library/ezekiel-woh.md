@@ -6,6 +6,8 @@ template = "library-book.html"
 date = 2026-05-21
 
 [extra]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/ezekiel-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/ezekiel-woh"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "abrahamic"

@@ -6,6 +6,8 @@ template = "library-book.html"
 date = 2026-06-04
 
 [extra]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/luke-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/luke-woh"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "christian"

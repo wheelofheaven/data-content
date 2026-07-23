@@ -10,6 +10,7 @@ featured_order = 2
 category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "figure"
+claim_type = "framework"
 alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "Jehovah", "the Eternal", "the First and the Last", "Alpha and Omega"]
 portrait_id = "yahweh"
 image = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.webp"
@@ -22,6 +23,7 @@ see_also = [
     { title = "Jesus", path = "wiki/jesus", description = "The figure conventionally identified as Yahweh's son in Christian tradition." },
     { title = "Moses", path = "wiki/moses", description = "Yahweh's primary contact during the Exodus narrative." },
     { title = "Abraham", path = "wiki/abraham", description = "The founding patriarch through whom Yahweh established the covenant." },
+    { title = "Monotheism Is the Wrong Question", path = "articles/monotheism-is-the-wrong-question", description = "Yahweh read as a named, representative Eloha who speaks for the plural makers — not being itself." },
 ]
 
 footnotes = [

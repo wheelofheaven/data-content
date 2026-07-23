@@ -61,3 +61,10 @@ A machine-readable census of contact-and-revelation traditions — useful for
 comparative religion and new-religious-movements research whether or not you
 share the corpus's frame. Free to filter, sort, and cite; the `authenticity`
 column is simply one project's labelled hypothesis, there to be argued with.
+
+## Also available on
+
+This dataset is also published, CC0, on two open-data platforms — the same files, mirrored for reach and preservation:
+
+- **Hugging Face** — [huggingface.co/datasets/wheelofheaven/prophets-and-religions](https://huggingface.co/datasets/wheelofheaven/prophets-and-religions)
+- **Kaggle** — [kaggle.com/datasets/zarazinsfuss/prophets-and-religions](https://www.kaggle.com/datasets/zarazinsfuss/prophets-and-religions)

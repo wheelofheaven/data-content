@@ -6,6 +6,8 @@ template = "library-book.html"
 date = 2026-06-07
 
 [extra]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/daniel-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/daniel-woh"
 translation_status = "complete"
 claim_type = "direct"
 source_family = "hebrew-bible"
@@ -223,3 +225,4 @@ The methodology is documented at
 - [Jubilees (Ship A: Primeval + Patriarchal Frame)](/library/jubilees-woh/) — the Hebrew Enochian companion text; Jub 6 jubilee-chronology bidirectionally locks Dan 9 70-weeks
 - [Genesis (Wheel of Heaven Translation)](/library/genesis-woh/) — the Genesis 6:1-4 *bnei elohim* tradition that the Dan 7 angelological framework presupposes
 - [Reference corpus of the Raëlian canon](/wiki/reference-corpus-of-the-raelian-canon/) — the catalogue of texts the Raëlian canon engages
+

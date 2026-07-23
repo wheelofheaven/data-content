@@ -6,6 +6,8 @@ template = "library-book.html"
 date = 2026-06-05
 
 [extra]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/book-of-enoch-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/book-of-enoch-woh"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "abrahamic"
@@ -249,3 +251,4 @@ The methodology is documented at
 - [The Epic of Gilgamesh (Wheel of Heaven Translation)](/library/gilgamesh-woh/) — also named in *Yes... I am Raelian* among the texts "closer to the truth"
 - [Adapa (Wheel of Heaven Translation)](/library/adapa-woh/) — the Mesopotamian apkallū tradition (cross-corpus to Asael's knowledge-transmission)
 - [Genesis (Wheel of Heaven Translation)](/library/genesis-woh/) — Genesis 6:1-4 *bnei elohim* + Nephilim, the seed of the Watchers narrative
+

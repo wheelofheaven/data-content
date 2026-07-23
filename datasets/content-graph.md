@@ -65,3 +65,10 @@ English corpus only, regenerated on every deploy — treat the counts above as t
 current scale and the [live API](https://api.wheelofheaven.world/v1/graph/) as
 the source of truth. For per-page relatedness in any of the nine site languages,
 each page's own *See also* block is the localized equivalent.
+
+## Also available on
+
+This dataset is also published, CC0, on two open-data platforms — the same files, mirrored for reach and preservation:
+
+- **Hugging Face** — [huggingface.co/datasets/wheelofheaven/content-graph](https://huggingface.co/datasets/wheelofheaven/content-graph)
+- **Kaggle** — [kaggle.com/datasets/zarazinsfuss/content-graph](https://www.kaggle.com/datasets/zarazinsfuss/content-graph)

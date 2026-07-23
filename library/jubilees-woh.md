@@ -6,6 +6,8 @@ template = "library-book.html"
 date = 2026-06-06
 
 [extra]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/jubilees-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/jubilees-woh"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "abrahamic"
@@ -248,3 +250,4 @@ The methodology is documented at
 - [1 Enoch (Watchers + Astronomical Book)](/library/book-of-enoch-woh/) — the principal Aramaic Enochian companion text
 - [The Epic of Gilgamesh (Wheel of Heaven Translation)](/library/gilgamesh-woh/) — also named in *Yes... I am Raelian* among the texts "closer to the truth"
 - [Genesis (Wheel of Heaven Translation)](/library/genesis-woh/) — the canonical Genesis material Jubilees rewrites
+

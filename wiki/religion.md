@@ -9,6 +9,7 @@ toc = true
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
+claim_type = "framework"
 alternative_names = ["*religio* (Latin)", "*religare* (Latin verbal root, 'to bind/link')", "the cultivated bond", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
 timeline = ["multi-age"]
 see_also = [
@@ -19,6 +20,7 @@ see_also = [
     { title = "Plurality of Gods", path = "wiki/plurality-of-gods", description = "The reading the link-maintenance traditions are said to preserve across cultures." },
     { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "A principal textual tradition preserving the link-maintenance content." },
     { title = "The Religion of Religions", path = "articles/the-religion-of-religions", description = "Reads Raëlism's 'atheistic religion' self-definition through the religare etymology and the young universalist family." },
+    { title = "Monotheism Is the Wrong Question", path = "articles/monotheism-is-the-wrong-question", description = "Why 'monotheism vs polytheism' is the wrong frame — anti-idol polemic as memory and allegiance, and the singular as representative of the plural makers." },
 ]
 
 [extra.infobox]
@@ -44,6 +46,8 @@ The **Raëlian Movement** specifically self-positions as an "**atheist religion*
 The cross-cultural pattern across virtually every major civilization globally registers priesthood-architecture-ritual complexes operating as link-maintenance institutions: the Mesopotamian temple-priesthood, the Egyptian astronomical-architectural priesthood, the Vedic / Hindu priestly tradition, the Greek and Roman state-cult tradition, the Chinese imperial-cosmological mediation, the Mesoamerican priest-astronomer tradition, the various indigenous shamanic traditions. The substantial cross-cultural distribution registers substantive evidence for the framework's reading: religion as link-maintenance is not a peculiar Western-Christian invention but a global pattern with substantial structural recurrence.
 
 The reading is grounded across multiple source families. The principal Vorilhon articulation derives from *Let Us Welcome the Extra-Terrestrials* (1979). Substantial prior articulation derives from Jean Sendy's *L'ère du Verseau* (1970), particularly the *La Religion* section. Substantial subsequent corpus development engages the *religare* framework across multiple corpus entries, with Noah's pre-flood community articulated as "the first religious community in the corpus's framework" through the bond-of-shared-work-with-the-alliance reading. The framework's epistemic status is **substantial-source-grounding-with-substantial-corpus-extension**.
+
+A recurring corollary of this reading concerns the categories *monotheism* and *polytheism* themselves. The Explainer [Monotheism Is the Wrong Question](/articles/monotheism-is-the-wrong-question/) argues that the ancient contests the tradition remembers as battles between "one God" and "many gods" were less arithmetic — how many superhuman beings exist — than struggles over memory, representation, mediation, and loyalty. Anti-idol polemic attacks *function*, not manufacture: the prophets' charge is that an image cannot hear, speak, help, or save — the tests of a living agent, not a tally of statues. On the framework's reading the prophetic restorations recalled humanity from dead images to the real creators, represented in each mission by a particular [Eloha](../elohim/) or messenger, before later theology universalised that representative into a single supernatural Absolute. A confession of "one" is then *operationally* true — one authorised command, one mission, one direction of loyalty — without being *ontologically* singular: the singular is representative, not exhaustive. Read this way the *religare* bond and the divine plurality the [Council of Eternals](../council-of-eternals/) preserves are not in tension; "monotheism" names a narrowing of cult and allegiance, not a discovery that the makers were only ever one.
 
 ## Etymology and naming
 
