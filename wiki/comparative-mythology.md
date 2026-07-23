@@ -20,6 +20,7 @@ see_also = [
     { title = "Tree of the Knowledge of Good and Evil", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "The cosmic-tree motif as one instance of the discipline's recurring pattern set." },
     { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The project engaging the discipline as one of its principal methodological commitments." },
     { title = "Carl Jung", path = "wiki/carl-jung", description = "The founder of the archetypal school of myth-reading (with Campbell); his Aion reads the Pisces aeon." },
+    { title = "Jane Sellers", path = "wiki/jane-sellers", description = "The precessional reading of the Osiris death-and-rising myth." },
 ]
 
 [extra.infobox]

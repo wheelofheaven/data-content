@@ -35,6 +35,7 @@ see_also = [
     { title = "Tauroctony", path = "wiki/tauroctony", description = "The Mithraic bull-slaying icon that vindicates the book's mechanism in one documented case." },
     { title = "Orion Correlation", path = "wiki/orion-correlation", description = "Bauval's Giza–Orion correlation — precession as a star-clock read in the pyramids." },
     { title = "Carl Jung", path = "wiki/carl-jung", description = "Jung's Aion — the independent reading of Christian history as the Age of Pisces." },
+    { title = "Jane Sellers", path = "wiki/jane-sellers", description = "The disciplined Egyptological continuation — the Osiris myth as precessional record." },
 ]
 
 [[extra.references]]
