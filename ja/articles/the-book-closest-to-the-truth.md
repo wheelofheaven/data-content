@@ -12,14 +12,14 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "ラエリアン正典はカバラを「真実に最も近い書」と呼び、*シウル・コマー*に保たれた二つの巨大な測定値を引きます。このエッセイは、それらの数値を、ヘーハーロートの写本、ユダヤの解釈、そして1973年に入手可能であったフランスの諸典拠を通じて辿ります。その足跡は、その文言が正典と密接に一致する特定の一冊の文庫本へと導かれます——ただし、一つの決定的な換算は説明されないまま残されるのです。"
+summary = "*真実を告げる書*において、ヤハウェはカバラを「真実に最も近い書」と名指し、そこから二つの数値を引く——創造者の身の丈、236,000パラサング、そしてその踵の高さ、三千万。どちらの数も実在する。それらは*シウル・コマー*、「身の丈の寸法」に属している——カバラそのものよりも古いヘブライ語の本文で、ヘーハーロート文献の内に伝えられ、*ラジエルの書*に印刷されたものであり、そこでは天使メタトロンが創造者の身体の寸法を手足一つずつ口述する。この解説は、プロジェクト自身の翻訳を通じてこの本文を精読し、ユダヤの伝統と近代の学問がその測定を何と言うかを示し、カノンの対抗的読解——一光秒としてのパラサング、経路としての身体——を並べ、そして一冊ずつ、1973年12月にフランスの読者がこれらのいずれかについて実際に何を知りえたかを監査する。その監査の中の一つの発見は、新しいものであるように思われる。"
 keywords = ["シウル・コマー", "カバラ", "ヘーハーロート文献", "メルカバー神秘主義", "雅歌", "パラサング", "メタトロン", "ラジエルの書", "エロヒム仮説"]
 references = [
     # — The canon passage under discussion —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 5, 'The End of the World,' section 'At the Origin of All the Religions' (¶¶51–54: the Kabbalah, the two parasang figures, the light-second gloss); Chapter 1, ¶46 (France as 'a country where new ideas are well received')" },
 
     # — Primary text: the Shi'ur Qomah, in the project's translation and in print —
-    { id = "shiur-qomah", locator = "Siddur Rabbah recension, §§2–3 (Metatron's testimony; the 236 measurement), §9 (the framing question), §10 (the soles), §19 (the unmeasurable face), §31 (the parasang reckoning), §39 (the self-total), §41 (the guarantor formula), §56 (Metatron the na'ar) — Wheel of Heaven Translation" },
+    { id = "shiur-qomah", locator = "Siddur Rabbah recension, §§2–3 (Metatron's testimony; the 236 measurement), §9 (the framing question), §10 (the soles), §19 (the unmeasurable face), §31 (the parasang reckoning), §39 (the self-total), §41 (the guarantor formula), §56 (Metatron the na'ar) —Wheel of Heaven Translation" },
     { id = "sefaria", locator = "Otzar Midrashim, Shiur Komah (ed. J. D. Eisenstein, 1915) — the recension reprinted from Sefer Raziel ha-Mal'akh, Amsterdam 1701, fol. 37b; and the Ashlag-glossary topic entry 'Shiur Koma (Kabbalah)'" },
     { title = "Bet ha-Midrasch: Sammlung kleiner Midraschim (the public-domain transmission of the Shi'ur Qomah fragments underlying the WoH base text)", author = "Adolf Jellinek (ed.)", date = "1853–1877" },
     { title = "Merkavah Shelemah (the printed collection of the Shi'ur Qomah fragments cited throughout Scholem)", author = "Shelomo Musajoff (ed.)", date = "Jerusalem, 1921" },
@@ -104,7 +104,7 @@ footnotes = [
 ]
 +++
 
-古代の最後の数世紀のいつか——その正確な年代こそ、このエッセイが扱うことの一つ
+古代の最後の数世紀のいつか——その正確な年代こそ、この解説が扱うことの一つ
 である——一人のヘブライ語の書き手が神の身の丈を書き記した。彼はそれを単位
 で記した。その数値は一人の天使によって告げられ、宣誓供述書のように誓われ、
 *パラサング*{{ footnote(id="1") }}——旅人の足が一時間の歩みとして知っていた
@@ -134,7 +134,7 @@ footnotes = [
 であると記されている。
 {% end %}
 
-三段落のちに、このエッセイにその題を与える平明な最上級の言葉が来る——
+三段落のちに、この解説にその題を与える平明な最上級の言葉が来る——
 *「カバラは真実に最も近い書である」*
 （{% libref(book="the-book-which-tells-the-truth", chapter=5, verse=54) %}真実を告げる書5:54{% end %})。
 
@@ -398,7 +398,7 @@ footnotes = [
 雅歌が制限つきの一覧に含まれていることが理に適うのは、オリゲネスの時代までに
 それがすでに測定の教義の聖書的錨となっていた場合にかぎる、とショーレムは論じた。
 
-校訂版を作り上げたコーエンは強く反論した
+誠実さはもう一方の側をも要求する。校訂版を作り上げたコーエンは強く反論した
 ——*シウル・コマー*の神は「黄金の頭も、象牙の腰も、大理石のふくらはぎも
 もたない」。雅歌はその恋人を頭から下へと描くのに対し、*シウル・コマー*は足から
 上へと測る。そして雅歌の節はこの本文において、それらを取り巻く詩篇と同じように
@@ -613,7 +613,7 @@ footnotes = [
 
 ## 1973年にクロード・ヴォリロンは何を知りえたか
 
-この主張はまた、来歴の検証をも許します。もし
+知的に誠実な解説は、その道具を自らのカノンへと向けねばならない。もし
 *シウル・コマー*が秘教的で、フランス語に訳されておらず、本文として混沌として
 いたのなら、検証可能な一つの問いが立ち現れる——ヘブライ語を解さないレース・
 ジャーナリストが、あの二つの数を、噴火口の中の存在からではなく、図書館から得る
@@ -663,11 +663,10 @@ footnotes = [
 ついては誤りであり、この特定の要約の連鎖以外の何についても真ではない。共有された
 一つの数は偶然でありうる。共有された翻訳の誤り、共有された引用の書式、そして共有
 された範疇の取り違えが、一つの短い段落の中に積み重なっているなら、それは系統関係
-(filiation)を強く示唆する。それは、文献学者が*シウル・コマー*自身の写本に対して
-用いるのと同じ推論である。本プロジェクトの知るかぎり——そして我々は先例を探した
-——カノンの一節の直近の本文的な特徴についてのこの同定は、これまで公刊されたことが
-ない。これをこのエッセイ自身の発見として、その証拠とともに提示されたものとして
-扱われたい。
+(filiation)である——文献学者が*シウル・コマー*自身の写本に対して用いるのと同じ
+推論である。本プロジェクトの知るかぎり——そして我々は先例を探した——カノンの
+一節の直近の本文的な特徴についてのこの同定は、これまで公刊されたことがない。これ
+をこの解説自身の発見として、その証拠とともに提示されたものとして扱われたい。
 
 監査が*見いださなかった*ものも、同じだけ肝要である。1973年より前のいかなる源泉
 も——ショーレムも、セルーヤも、諸百科事典も、古代宇宙飛行士系の文献も——

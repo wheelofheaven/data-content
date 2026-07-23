@@ -1,9 +1,9 @@
 +++
 title = "The Shape of Humanity"
-description = "The canon calls humanity a single organism in gestation, each person a cell. This Explainer proposes the discipline that would study it: civilizational morphology."
+description = "The canon calls humanity a single organism in gestation, each person a cell. This Explainer proposes the discipline to study it: civilizational morphology."
 template = "articles-page.html"
-date = 2026-07-06
-draft = true
+date = 2026-07-23
+draft = false
 
 [extra]
 claim_type = "speculative"
@@ -29,25 +29,25 @@ references = [
     { title = "Mass Effect — Wheel of Heaven wiki (the Law of Masstime; the scale-dependence of biological time invoked in 'The Infinite in Both Directions')", author = "Wheel of Heaven", date = "2026" },
 
     # — Macro-history and the science of civilizations —
-    { title = "Guns, Germs, and Steel: The Fates of Human Societies (chapter 2, 'A Natural Experiment of History,' the Chatham Islands; the Epilogue, 'The Future of Human History as a Science')", author = "Jared Diamond", date = "1997" },
-    { title = "The Decline of the West, vol. 1 (the 'morphology of world-history'; cultures as living forms with a life-cycle; '“Mankind” is a zoological expression, or an empty word')", author = "Oswald Spengler", date = "1918" },
-    { title = "A Study of History (abridgement of vols. I–VI by D. C. Somervell) (challenge-and-response; the growth and breakdown of civilizations; the failure of the creative minority and the withdrawal of mimesis)", author = "Arnold J. Toynbee", date = "1946" },
-    { title = "The Collapse of Complex Societies (New Studies in Archaeology) (collapse as declining marginal returns on socio-political complexity; 'Collapse, if and when it comes again, will this time be global')", author = "Joseph A. Tainter", date = "1988" },
+    { id = "guns-germs-and-steel-the-fates-of-human-societies-chapter-2-a-natural-experiment" },
+    { id = "the-decline-of-the-west-vol-1-the-morphology-of-world-history-cultures-as-living" },
+    { id = "a-study-of-history-abridgement-of-vols-i-vi-by-d-c-somervell-challenge-and-respo" },
+    { id = "the-collapse-of-complex-societies-new-studies-in-archaeology-collapse-as-declini" },
 
     # — Growth, scaling, and the planetary metabolism —
     { id = "scale-the-universal-laws-of-growth-innovation-sustainability-and-the-pace-of-lif", locator = "the sublinear scaling of organisms (bounded life) vs. the superlinear scaling of cities (open-ended growth); the accelerating treadmill of innovation and the finite-time singularity" },
-    { title = "Evolution of the Noösphere (Teilhard Studies No. 42) (the noösphere as the 'thinking stratum of the Earth'; complexification, convergence, and directionality in evolution; Vernadsky's 'pressure of life')", author = "Mark A. S. McMenamin", date = "2001" },
-    { title = "The Phenomenon of Man (the noosphere; complexity-consciousness; the convergence of humanity toward the Omega Point)", author = "Pierre Teilhard de Chardin", date = "1955" },
-    { title = "The Biosphere (the living envelope of the Earth as a geological force; the groundwork Vernadsky laid for the noosphere concept)", author = "Vladimir I. Vernadsky", date = "1926" },
+    { id = "evolution-of-the-no-sphere-teilhard-studies-no-42-the-no-sphere-as-the-thinking-" },
+    { id = "the-phenomenon-of-man-the-noosphere-complexity-consciousness-the-convergence-of-" },
+    { id = "the-biosphere-the-living-envelope-of-the-earth-as-a-geological-force-the-groundw" },
 
     # — The comparative and mythological frame for the cycle —
-    { title = "Theogony and Works and Days (the myth of the Five Ages — Gold, Silver, Bronze, Heroes, Iron — the ages 'brought low by their own hands')", author = "Hesiod", date = "c. 700 BCE" },
+    { id = "theogony-and-works-and-days", locator = "The myth of the Five Ages — Gold, Silver, Bronze, Heroes, Iron — the ages 'brought low by their own hands'" },
     { id = "mahabharata", locator = "the yuga cycle: the descent from Krita (Satya) to Kali and the turning of the wheel of ages" },
     { id = "popol-vuh", locator = "the successive creations and destructions of humanity by the makers before a satisfactory humanity is achieved" },
 
     # — The critical and cautionary voice —
-    { title = "The Open Society and Its Enemies (the critique of historicism — the doctrine that history obeys discoverable laws of destiny — with Spengler and organicist Geschichtsphilosophie among its targets)", author = "Karl R. Popper", date = "1945" },
-    { title = "The Myth of the Machine, vol. 1: Technics and Human Development (the ambivalence of the 'megamachine'; large-scale social organization as both organism and trap)", author = "Lewis Mumford", date = "1967" }
+    { id = "the-open-society-and-its-enemies-the-critique-of-historicism-the-doctrine-that-h" },
+    { id = "the-myth-of-the-machine-vol-1-technics-and-human-development-the-ambivalence-of-" },
 ]
 
 footnotes = [
@@ -73,8 +73,8 @@ wound, the body's quiet decision to repair rather than to bleed — all of
 that would lie permanently above the cell's horizon, too large and too
 slow for it to see.
 
-This article asks a question that sounds like a metaphor and is meant as
-something more literal than that. **What if we are the cells?** What if
+The question sounds like a metaphor but is meant more literally than
+that. **What if we are the cells?** What if
 the thing we call human history — the migrations and the wars, the cities
 rising and the empires falling, the slow braiding-together of eight
 billion strangers into one increasingly interconnected system — is not a
@@ -85,20 +85,19 @@ possibly true, what would the science that studied it look like — the
 science we do not yet have, because we have been standing too close, and
 have been, ourselves, the tissue under the microscope?
 
-The Raëlian canon states the premise without hedging, and the whole of
-what follows is an attempt to take the statement seriously enough to build
-on it. In the second message, laying out how the Elohim can foresee the
-future of a civilization they cannot control, Yahweh asks Raël to hold a
-single picture in mind:
+The Raëlian canon states the premise without hedging. In the second
+message, laying out how the Elohim can foresee the future of a
+civilization they cannot control, Yahweh asks Raël to hold a single
+picture in mind:
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=108) %}
 It is exactly the same thing for humanity, considering each human to be
 like a cell of the great being in gestation, that is, Humanity.
 {% end %}
 
-A being in gestation. Not a crowd, not a statistical aggregate, not a
-figure of speech — a single organism, still forming, of which you and I
-and everyone who has ever lived are the constituent cells.{{ footnote(id="1") }}
+A being in gestation — and not as a figure of speech: a single organism,
+still forming, of which you and I and everyone who has ever lived are
+the constituent cells.{{ footnote(id="1") }}
 The claim is startling enough on its own. What makes it the seed of a
 discipline rather than a devotional image is the sentence Yahweh places
 right beside it: that *because* humanity is such an organism, its future
@@ -110,14 +109,14 @@ predict, however, what should normally happen to a living organism during
 the gestation period or to a Humanity in the course of its development.
 {% end %}
 
-Set those two sentences together and they describe a science. Its object
+Those two sentences together describe a science. Its object
 is humanity-as-organism. Its method is developmental prediction — the same
 logic that lets a doctor say *this foetus will grow eyes in the fourth
 week and lungs in the sixth* without knowing anything about the particular
 child. Its practitioners, in the canon, are the Elohim, who can do this
 because they have watched it happen before, on other worlds. And its
-central and terrible finding, which the rest of this article will circle
-back to, is that unlike a foetus, this organism can fail to be born.
+central and terrible finding is that unlike a foetus, this organism can
+fail to be born.
 
 The Wheel of Heaven project has a name for the parts of that picture. The
 comparison of humanities across worlds it calls
@@ -126,9 +125,8 @@ failure mode it calls {% wiki(slug="samsara") %}Saṃsāra{% end %}; the
 successful outcome it calls the {% wiki(slug="golden-age") %}Golden
 Age{% end %}. What it does not yet have is a name for the *science itself*
 — the discipline that would study the organism as an organism. This
-Explainer proposes one, and then argues that half of it already exists,
-scattered across a century of work under other headings, waiting to be
-assembled.
+Explainer proposes one, and argues that half the discipline already
+exists, scattered across a century of work under other headings.
 
 ## A discipline that does not yet exist
 
@@ -136,8 +134,8 @@ Call it **civilizational morphology**{{ footnote(id="2") }} — the study of
 the form, growth, and transformation of humanity as a single developing
 planetary body.
 
-The word "morphology" is doing precise work. A morphology is not a
-history and not a sociology. History narrates what happened; sociology
+A morphology is not a history and not a sociology. History narrates
+what happened; sociology
 anatomizes how a society hangs together at a moment; but a morphology asks
 what *form* the thing is taking over its whole life — the way an
 embryologist is asking not "what is this cell doing" but "what is this
@@ -169,20 +167,20 @@ macrobiology would study the systems *composed of* biological units the way
 a cell is composed of microbiological ones — humanity standing to the human
 as the human stands to the cell, one more rung on the same ladder the
 previous Explainer climbed up and down without end. The older and more
-precise word, though, is **morphology**, the study of *form*, and this
-article keeps it in front on purpose. A morphology claims only to read the
-shape of the whole; a *biology* asserts that the whole is itself alive. The
-second is the stronger claim, and a discipline ought to earn it rather than
-smuggle it in through its own name — which is a quarrel the cross-examination
-near the end of this article will have to settle. Until then the three
-names can be read as one, pointing at the same undiscovered country.
+precise word, though, is **morphology**, the study of *form*, and it is
+the one to keep in front. A morphology claims only to read the shape of
+the whole; a *biology* asserts that the whole is itself alive. The second
+is the stronger claim, and a discipline ought to earn it rather than
+smuggle it in through its own name — a quarrel the cross-examination will
+return to. Until then the three names can be read as one, pointing at the
+same undiscovered country.
 
-The audacity is obvious, and so is the objection. Every science that has
+The audacity invites an obvious objection. Every science that has
 ever earned the name did so by finding a law — a regularity that holds
 across many instances of its object. Physics has many falling bodies.
 Biology has many organisms, many species, many cells. Epidemiology has
-many outbreaks. From the many, the pattern; from the pattern, the law. But
-civilizational morphology proposes to study an object of which there is,
+many outbreaks. But civilizational morphology proposes to study an object
+of which there is,
 so far as we can observe, exactly **one**. One planetary humanity. One
 history. One specimen, examined once, from the inside, by itself. You
 cannot find a law from a sample of one. This is the wall that has stopped
@@ -224,8 +222,7 @@ We are still inside the only instance we know of, and we do not know
 whether we are early or late, healthy or sick, being born or dying.
 
 So the discipline needs, above all, a way around the sample of one. There
-are, it turns out, three — and the canon quietly supplies the strongest of
-them.
+are three — and the canon quietly supplies the strongest of them.
 
 ## The nearest thing to an experiment
 
@@ -282,9 +279,9 @@ Long before Diamond, three thinkers looked at the record of civilizations
 and refused to see only one damned thing after another. They saw
 *forms* — recurring shapes of rise and decline — and each tried to state
 the law behind them. They are out of fashion, for reasons that matter and
-that this article will come to. But they were the first civilizational
-morphologists, and they mapped the terrain the discipline would have to
-occupy.
+that the cross-examination will come to. But they were the first
+civilizational morphologists, and they mapped the terrain the discipline
+would have to occupy.
 
 **Oswald Spengler** gave the field its very word. Writing in the wreckage
 of the First World War, he called his method a "morphology of
@@ -358,10 +355,10 @@ thing, and now stands or falls as one thing.
 Three theorists, three broken and brilliant systems, and a shared
 intuition none of them could quite discipline: that the history of
 civilizations has a *shape*, that the shape recurs, and that we are
-somewhere inside its current instance. Their failure was not the intuition
-but the tools. Spengler had only analogy; Toynbee only erudition; Tainter
-only the archaeological record of the dead. None had a quantitative law of
-growth. It took a physicist to find one.
+somewhere inside its current instance. The intuition outran the tools:
+Spengler had only analogy; Toynbee only erudition; Tainter only the
+archaeological record of the dead. None had a quantitative law of
+growth; the first one came from a physicist.
 
 ## The organism has a metabolism now
 
@@ -375,8 +372,7 @@ speeds. Biological organisms scale **sublinearly**: double an animal's
 mass and it needs less than double the energy, because a fractal supply
 network gets more efficient at scale. Sublinear scaling has a consequence
 West states flatly — it produces "bounded growth and a finite life span."
-The animal grows fast when young, slows, stops, and dies. Economies of
-scale are also, in the end, a sentence of death.
+The animal grows fast when young, slows, stops, and dies.
 
 Then West turned the same instruments on cities, and the sign flipped.
 Cities scale **superlinearly**: double a city's population and its wealth,
@@ -392,8 +388,8 @@ reset itself with a fundamental innovation. And to keep resetting, "the
 time between successive innovations has to get shorter and shorter … we
 must innovate at a faster and faster rate." West's own image is of "a
 succession of accelerating treadmills" onto which we must keep leaping at
-an ever-increasing pace, a process he calls, in as many words, "clearly
-not sustainable."
+an ever-increasing pace, a process he calls "clearly not
+sustainable."
 
 Here is a quantitative morphology at last — a real law of growth for the
 economic-urban organism, with a real prediction about its crisis. And the
@@ -408,8 +404,8 @@ past the point of control. Two descriptions of one predicament: an
 organism whose metabolism has entered the phase where it either transforms
 utterly or tears itself apart.
 
-And the organism's nervous system arrived on schedule to match. The
-concept for it is old — the **noosphere**,{{ footnote(id="5") }} the
+And the organism grew a nervous system to match. The concept for it is
+old — the **noosphere**,{{ footnote(id="5") }} the
 "thinking layer" of the Earth that Vladimir Vernadsky and Pierre Teilhard
 de Chardin proposed in the 1920s and 30s: the idea that once a species
 becomes able to reshape its whole planet and to knit its minds together
@@ -432,8 +428,7 @@ Apocalypse{% end %}, the age of *revelation*, dated to 1945, defined by the
 moment humanity could both destroy itself with the atom and speak across
 the oceans and see with electronic eyes. Read morphologically, that is the
 description of an organism whose nervous system has just switched on, in
-the same instant that it acquired the power to kill itself. Adolescence
-and the loaded gun, arriving together.
+the same instant that it acquired the power to kill itself.
 
 ## The two roads to the missing method
 
@@ -452,9 +447,9 @@ initial parameters (this planet with abundant metals, that one without;
 this one with an easy climate, that one on a knife-edge; this one that
 discovers the atom before it discovers empathy, that one the reverse), and
 let ten thousand of them run in parallel to see which trajectories end in
-a stable global body and which in fire. This is not fantasy — it is the
-natural extension of the agent-based models economists and ecologists
-already build, scaled up in ambition to the whole organism. Its promise is
+a stable global body and which in fire. This is the natural extension
+of the agent-based models economists and ecologists already build,
+scaled up in ambition to the whole organism. Its promise is
 real: a *statistics* of civilizations, a distribution of outcomes, a way to
 ask which parameters are load-bearing. Its peril is equally real, and West's
 work names it — a model of a system that scales superlinearly and races to
@@ -464,11 +459,11 @@ false morphology and you will get ten thousand confident, identical,
 wrong answers. Still, it is the one road open to us from *inside* the
 specimen, and the discipline will have to walk it.
 
-The second road we cannot walk, but someone else can, and this is the
-canon's quiet, radical contribution to the whole question. Imagine a
-civilization that is not inside the specimen at all — that stands outside,
-having created human life on many worlds, deliberately, as an experiment,
-and watched each one run to its outcome. Such a civilization would possess
+The second road we cannot walk, but someone else can — and this is the
+canon's quiet, radical contribution. A civilization that is not inside the
+specimen at all: one that stands outside, having created human life on many
+worlds, deliberately, as an experiment, and watched each one run to its
+outcome. Such a civilization would possess
 exactly the dataset embryology has and history lacks: *many instances of
 the same process, observed to completion, from the outside*. It would have
 the baseline. It could tell gestation from disease. It could say, of a new
@@ -501,8 +496,7 @@ have turned that assertion into a science — and claims that observer
 exists, has done exactly that, and has now, through Raël, handed us a
 fragment of its findings.
 
-The fragment is not flattering. It is a warning that the organism can die
-in the womb.
+The fragment is a warning: the organism can die in the womb.
 
 ## The organism can miscarry: saṃsāra
 
@@ -581,8 +575,8 @@ wise enough to understand and grab this tiny chance of escaping the final
 cataclysm, so as to enter the Golden Age.
 {% end %}
 
-One in a hundred. It is a brutal number, and it is meant to be. But notice
-its logic against everything above. Spengler said the death was fixed by
+One in a hundred — a brutal number, and deliberately so. Its logic cuts
+against every fatalism above. Spengler said the death was fixed by
 the calendar; the canon says it is a probability that our own conduct
 moves. Toynbee said breakdown comes when the creative minority fails; the
 canon agrees and makes the "demons" precise — aggression toward one
@@ -601,10 +595,9 @@ against a single standard of maturity — Earth one specimen among several,
 saying that the embryology has a pass mark, and that not every embryo
 reaches it.
 
-That is the finding the fragment carries. It is not that we are an
-organism and all is well. It is that we are an organism at the one moment
-in gestation that decides whether there will be a birth or a
-reabsorption — and that the observer who has watched this before puts our
+That is the finding the fragment carries: we are an organism at the one
+moment in gestation that decides whether there will be a birth or a
+reabsorption — and the observer who has watched this before puts our
 odds at one in a hundred, and then tells us the odds are ours to change.
 
 ## The cross-examination

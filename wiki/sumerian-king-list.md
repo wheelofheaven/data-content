@@ -14,6 +14,7 @@ alternative_names = ["SKL (scholarly abbreviation)", "nam-lugal an-ta e₁₁-da
 timeline = ["multi-age"]
 
 see_also = [
+    { title = "Are the Anunnaki the Elohim?", path = "articles/anunnaki-and-the-elohim", description = "Whether the Anunnaki of the Sumerian record are the biblical Elohim." },
     { title = "Antediluvian", path = "/wiki/antediluvian/", description = "The pre-flood period whose kings the list's opening section catalogues." },
     { title = "Great Flood", path = "/wiki/great-flood/", description = "The cataclysm marked by the list's dividing line, 'Then the flood swept over.'" },
     { title = "Noah", path = "/wiki/noah/", description = "The Hebrew flood-survivor figure parallel to the Shuruppak tradition the list presupposes." },

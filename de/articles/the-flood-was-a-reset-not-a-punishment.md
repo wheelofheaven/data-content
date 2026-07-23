@@ -12,7 +12,7 @@ author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 article_type = "explainer"
 category = "Comparative"
-summary = "Die ältesten mesopotamischen Fluttraditionen beschreiben einen Beschluss der Versammlung, einen abweichenden Gott, ausführliche Überlebensanweisungen und eine bewahrte „Saat aller lebenden Wesen“. Dieser Essay verfolgt jene Motive durch *Atraḫasīs*, *Gilgamesch*, *Henoch* und die Genesis und fragt dann, ob die Wheel-of-Heaven-Lesart eines bewussten Resets die Tradition erhellt oder den alten Mythos bloß in moderne Begriffe übersetzt."
+summary = "Genau gelesen beschreiben die ältesten Flutgeschichten nicht einen Gott, der die Beherrschung verliert. Sie beschreiben eine in der Versammlung gefasste Entscheidung, durch Eid beschworen und für unwiderruflich erklärt; einen Überlebenden, dem präzise technische Spezifikationen übergeben werden und der angewiesen wird, *die Saat aller lebenden Wesen* an Bord zu nehmen; und — am bezeichnendsten — eine Debatte unter den Planern, in der einer von ihnen argumentiert, eine Flut sei das *falsche Instrument*, unverhältnismäßig und wahllos, und die gezielten Alternativen benennt, die stattdessen hätten eingesetzt werden sollen. Die sumerische *Flood Story*, das babylonische *Atraḫasīs* und *Gilgamesch* XI, das *Buch der Wächter* und *Genesis* 6–9 teilen nicht eine Stimmung, sondern ein Verfahren. Dieser Explainer arbeitet dieses Verfahren Zeile für Zeile durch, nimmt die etablierte Diffusionserklärung ernst und liest die Konvergenz dann durch den Rahmen von Wheel of Heaven — als das Verwaltungsprotokoll eines gesteuerten Resets."
 keywords = ["die Flut", "Sintflut", "Atrahasis", "Gilgamesch", "Genesis-Flut", "Wächter", "Elohim-Hypothese"]
 references = [
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (The Flood; the cell-line preserved aboard a staged craft)" },
@@ -71,7 +71,7 @@ Hungersnot. Eine Seuche. Irgendetwas, das einige nimmt und den Rest lässt. *Leg
 die Sünde auf den Sünder.* Er sagt, im Nachhinein, dass die Flut das falsche
 Instrument gewesen sei — und der Text hält die Klage fest, ohne zu zucken.
 
-Dieser Essay verfolgt diese Klage durch die Texte zurück. Das Argument ist
+Dieser Explainer verfolgt diese Klage durch die Texte zurück. Das Argument ist
 nicht das vertraute, dass viele Kulturen einen Flutmythos haben und die Mythen
 sich zufällig reimen. Es ist anspruchsvoller als das. In ihrer ältesten Schicht
 beschreiben die Flutberichte ein Verfahren: eine im Rat gefasste und durch Eid
@@ -88,7 +88,7 @@ Wiederkehren abzuwägen und dann darzulegen, was der
 Wo die Lektüre von dem, was die Worte sagen, zu dem übergeht, was sie bedeuten
 könnten, markiere ich die Grenze.
 
-## Der Beschluss wird im Rat gefasst
+## Der Beschluss wird im Rat gefasst, nicht im Zorn
 
 Der fragmentarischste Zeuge zeigt zufällig die Knochen am deutlichsten. Die
 sumerische Komposition, die moderne Gelehrte
@@ -131,7 +131,7 @@ Fürst Ea war mit ihnen, durch denselben Eid gebunden.
 {% end %}
 
 Die Götter werden durch ihre Ämter eingeführt — Ratgeber, Thronträger,
-Kanalinspektor — als eine amtliche Aufzählung der Beteiligten.
+Kanalinspektor — so, wie man die Mitglieder eines Gremiums protokollieren würde.
 Ein Eid bindet sie alle an die Entscheidung, den Abweichler Ea eingeschlossen.
 Dies ist die Maschinerie, die der sumerische Text einen *abgeschlossenen
 Urteilsspruch* nennt: eine kollektive Entscheidung, förmlich gebunden, wobei die
@@ -167,7 +167,7 @@ eines Erzählers. Der hauseigene Kommentar zur parallelen sumerischen Zeile (C:1
 identifiziert ihn als den üblichen mesopotamischen Warnungstropus, Eas Weg um das
 Problem herum, das sein eigener Eid geschaffen hat. Er hat den Beschluss
 unterzeichnet; der Beschluss steht. Was er tut, ist, eine leise Rettung daneben
-laufen zu lassen, ein Mitglied desselben Rates, das gegen ein Urteil handelt,
+laufen zu lassen, ein Mitglied desselben Gremiums, das gegen ein Urteil handelt,
 das es nicht verhindern konnte. Die Warnung widerruft die Flut nie. Sie wirkt
 parallel zu ihr.
 
@@ -186,9 +186,9 @@ Die Erzählung Utnapischtims{{ footnote(id="5") }}, die folgt, ist eine der konk
 Passagen der antiken Literatur, alles in akkadischen Maßeinheiten: ein Rumpf von
 einem *ikû* Fläche, Wände zehn *nindan* hoch, sechs Decks, die das Innere in
 sieben unterteilen, neun innere Abteilungen, Bitumen und Asphalt gegossen nach
-dem *šar*. Die Erzählung liest sich wie eine technische Spezifikation.
+dem *šar*. Dies ist ein Mann, der ein Bauprotokoll abliest.
 
-Das Hebräische bewahrt die Kürze und ändert strukturell fast nichts:
+Das Hebräische bewahrt das Lastenheft und ändert strukturell fast nichts:
 
 {% library(book="genesis-woh", chapter=6, verse=14, verse_end=15, interlinear=true) %}
 Mache dir eine Arche aus Gopherholz. Mache die Arche mit Kammern und überziehe sie innen und außen mit Pech. So sollst du sie machen: die Länge der Arche dreihundert Ellen, ihre Breite fünfzig Ellen und ihre Höhe dreißig Ellen.
@@ -248,9 +248,8 @@ als diese versagen, eskaliert der Rat zur totalen Sintflut. Ea erinnert Enlil
 daran, dass er einen abgestuften Werkzeugkasten hatte und über all das hinweg zum
 stumpfen Instrument griff.
 
-Dies ist ein Streit über die Gerechtigkeit und Wirksamkeit der Flut, keine
-Theodizee{{ footnote(id="8") }}. Die Beteiligten debattieren, ob sie überhaupt hätte
-eingesetzt werden sollen. Und der Rest
+Dies ist die Sprache einer Nachbesprechung, keiner Theodizee{{ footnote(id="8") }}. Die Beteiligten
+debattieren *darüber, ob die Operation korrekt durchgeführt wurde*. Und der Rest
 der babylonischen Szene bestätigt, dass die Flut über das hinausging, was ihre
 eigenen Planer beabsichtigten. Die Sintflut ängstigt die Götter, die sie
 herabriefen:
@@ -420,7 +419,7 @@ Akteur zu sich selbst gesprochen.
 
 ## Warum hält das Verfahren über vier Literaturen hinweg?
 
-Die etablierte Antwort lautet *Diffusion*{{ footnote(id="11") }}, und sie ist stark. Die
+Die ehrliche etablierte Antwort lautet *Diffusion*{{ footnote(id="11") }}, und sie ist stark. Die
 sumerischen, akkadischen und hebräischen Texte gehen aus einer kontinuierlichen,
 nachweislich verflochtenen Schreiberwelt hervor. Keilschriftliches Flutmaterial
 zirkulierte zwei Jahrtausende lang; ein Fragment der Gilgamesch-Flut auf
@@ -433,9 +432,9 @@ Gilgamesch-Epos selbst nachzeichnet, die hebräische Abhängigkeit von der
 mesopotamischen Tradition als erwiesen behandeln. Nach diesem Befund kehrt das
 Verfahren aus dem gewöhnlichsten aller Gründe wieder: Es ist eine Geschichte,
 erzählt und wiedererzählt und übersetzt und neu theologisiert einen einzigen
-kulturellen Strom hinab. Die Genesis bewahrt die babylonischen Spezifikationen, weil
-die Genesis, auf der Ebene der Literaturgeschichte, die babylonische Geschichte
-neu bearbeitet.
+kulturellen Strom hinab. Die Genesis bewahrt das babylonische Bauprotokoll, weil
+die Genesis, auf der Ebene der Literaturgeschichte, das babylonische Bauprotokoll
+*liest*.
 
 Diese Erklärung ist für das *Wiederkehren* hinreichend. Sie erklärt, warum die
 Boote gleichermaßen mit Decks versehen und bemessen sind, warum die Vögel
@@ -447,11 +446,12 @@ darin liegt, dass sie eine Abstammung teilen.
 Was die Diffusion erklärt und was sie offen lässt, sind zweierlei Dinge. Sie
 erklärt, warum die späteren Texte den früheren ähneln. Sie sagt nichts über den
 Charakter der ältesten Schicht — warum die grundlegende Erzählung die Flut
-bereits als ratifizierte Entscheidung gestaltet, ihren Überlebenden mit
-detaillierten Bauanweisungen und einer als Saat des Lebens bezeichneten Ladung
-ausstattet und ein Argument unter den Göttern darüber inszeniert, ob die Flut
-gerecht war. Die moderne Sprache von Operationen und Protokollen ist eine Deutung
-dieser Kombination, keine vom antiken Genre selbst gelieferte Beschreibung.
+bereits als ratifizierten Verwaltungsbeschluss gestaltet, ihren Überlebenden mit
+technischen Spezifikationen und einer genetisch-minimalen Ladung ausstattet und
+ein technisches Argument unter den Planern darüber inszeniert, ob die Methode
+verhältnismäßig gewesen sei. Die Diffusion sagt uns, dass das Verfahren kopiert
+wurde. Sie sagt uns nicht, warum das, was kopiert wurde, bereits wie ein
+Betriebsprotokoll geformt war.
 
 ## Die Lektüre durch den Rahmen
 
@@ -463,35 +463,43 @@ Der Rahmen geht von der grundlegenden Behauptung des Korpus aus: dass die
 {% wiki(slug="elohim") %}Elohim{% end %} der Genesis kein abstraktes Absolutes
 waren, sondern eine reale, fortgeschrittene Zivilisation von endlicher Kapazität
 — Macher, die mit Materialien arbeiteten, Entscheidungen im Rat trafen und sich
-irren konnten. Mit dieser Prämisse lassen sich die Räte, Spezifikationen, der
-Widerspruch und die Bewahrung als Erinnerungen an endliche Akteure lesen statt
-als Taten eines allwissenden Absoluten.
+irren konnten. Liest man das Flutmaterial mit dieser Prämisse, hören die Texte
+auf, sich wie Theologie zu lesen, die zufällig administrativ klingt, und beginnen,
+sich wie Administration zu lesen, die später theologisiert wurde.
 
-Nach dieser Lesart werden die Flutberichte zu verdichteten Erinnerungen an einen
-Kataklysmus und an einen politischen Streit unter den beteiligten Wesen. Die
-Macher sind kein einziger Wille, sondern eine Menge von Parteien mit
-gegensätzlichen Auffassungen: Eine Fraktion entschließt sich, eine Bevölkerung zu
-beenden, die zum Problem geworden war; andere widersprechen, und eine von ihnen
-beantragt, einen Saatbestand zu bewahren, von dem aus neu zu starten ist. Mehrere
-Merkmale lassen sich auf dieses Bild einer gespaltenen Institution abbilden:
+Nach dieser Lesart ist die Konvergenz kein Rätsel. Die Flutberichte teilen ein
+Verfahren, weil sie verdichtete, abbauende Erinnerungen an *eine Operation* sind
+— und, genauer gesagt, an einen *politischen Streit* innerhalb des Gremiums, das
+sie durchführte. Die Macher sind kein einziger Wille, sondern eine Menge von
+Parteien mit gegensätzlichen Auffassungen: Eine Fraktion entschließt sich, eine
+Bevölkerung zu beenden, die zum Problem geworden war; andere widersprechen, und
+eine von ihnen beantragt, einen Saatbestand zu bewahren, von dem aus neu zu
+starten ist. Jedes Merkmal, das die genaue Lektüre zutage förderte, fügt sich in
+dieses Bild einer gegen sich selbst gespaltenen Institution:
 
-- Der **Rat und der bindende Eid** stellen eine kollektive Selbstverpflichtung
-  dar, wobei der Eid als die maßgebliche Tatsache behandelt wird.
+- Der **Rat und der bindende Eid** sind ein Entscheidungsgremium, das sich auf
+  eine politische Maßnahme festlegt, wobei die Bindung als die maßgebliche
+  Tatsache behandelt wird — genau das Detail, das ein Beteiligter in den
+  Vordergrund rücken und ein späterer monotheisierender Redaktor peinlich finden
+  und tilgen würde.
 - Die **Spezifikation des Überlebenden** — überzogener Rumpf, feste Maße, Decks
   und Kammern, und eine als *die Saat aller lebenden Wesen* definierte Ladung —
-  lässt sich als ein Bewahrungsplan lesen, der lebenden Bestand durch den
-  Kataklysmus tragen soll.
-- **Eas Verhältnismäßigkeitsrede** stellt die Flut als ein wahlloses Instrument
-  dar, wo die Alternativen selektiv gewesen wären, mit einem absichtlich
-  übergangenen abgestuften Werkzeugkasten (der Löwe, der Wolf, die Hungersnot, die
-  Pest). Der Text bewahrt den Widerspruch des Planers, der die Methode für einen
-  Fehler hielt.
-- **Die Götter, die kauern, und die Göttin, die widerruft** stellen endliche
-  Akteure dar, die von dem Kataklysmus erschreckt werden, den sie autorisiert
-  haben — eine Szene, die die hebräische Fassung nicht bewahrt.
+  ist ein Bewahrungsprotokoll, kein Akt der Sentimentalität. Der Sinn der
+  Operation ist die Kontinuität des Bestands durch die Diskontinuität hindurch.
+- **Eas Verhältnismäßigkeitsrede** ist das eigene Protokoll der Operateure
+  darüber, dass eine Flut das falsche Instrument war: wahllos, wo die Aufgabe
+  Auswahl verlangte, mit einem absichtlich übergangenen abgestuften
+  Werkzeugkasten (der Löwe, der Wolf, die Hungersnot, die Pest). Der Text bewahrt
+  den Widerspruch des Planers, der die Methode für einen Fehler hielt.
+- **Die Götter, die kauern, und die Göttin, die widerruft** sind Agenten, die die
+  Kontrolle über ein Werkzeug von größerer Wucht verloren, als sie beabsichtigt
+  hatten — das freimütige Eingeständnis, später aus dem Hebräischen getilgt, dass
+  die Operation ihren Plan überrannte.
 - **Henochs „heile die Erde, die die Wächter verderbt haben"** nennt das *Warum*
-  innerhalb der henochischen Tradition: Auf eine von den Wächtern eingeführte
-  Verderbnis folgen die Zerstörung und die Bewahrung der Linie Noahs.
+  in den schlichtesten Worten, die die Tradition bewahrt: Eine von oben
+  eingeführte Kontamination — der unbefugte Transfer von Metallurgie, Waffen und
+  dem Rest — breitete sich außer Kontrolle aus, und die Flut ist die Ausmerzung,
+  die es erlaubt, eine reine Linie neu zu pflanzen.
 
 Der Kanon macht diese Lesart konkret, statt sie als Schlussfolgerung stehen zu
 lassen. In
@@ -516,53 +524,66 @@ danach „überwachen die Macher die Radioaktivität und lassen sie verschwinden
 prüfen die Atmosphäre, indem sie Tiere freilassen, und starten Landwirtschaft und
 Fortpflanzung neu — wobei Noah „einen Anteil an allen Ernten" seinen Wohltätern
 für ihren *Lebensunterhalt* zusagt. Stellt man das neben die genaue Lektüre, so
-entsprechen sich mehrere Motive: Die *Saat aller lebenden Wesen*
+fügen sich die Entsprechungen Punkt für Punkt: Die *Saat aller lebenden Wesen*
 wird zur bewahrten Zelllinie; die *drei Decks* der
 {% wiki(slug="noahs-ark") %}Arche{% end %} werden zu den *drei Stufen* des
 Gefährts; das *gerochene Opfer* wird zum Tribut, den eine neu gestartete
 Bevölkerung den Machern schuldet, die sich davon nährten; und das *durch Eid
 gebundene Gremium* wird zu einer in Fraktionen gespaltenen Macher-Zivilisation,
-die eine die Tötung anordnet und die andere den Bestand bewahrt. Der Kanon
-behauptet, dass ein reales Ereignis in diesen verwandten Literaturen überlebte,
-nachdem sein technischer Kontext verloren gegangen war. Die Übereinstimmung Motiv
-für Motiv macht diese Lesart innerhalb des Rahmens kohärent; sie unterscheidet
-nicht zwischen ererbtem Mythos und degradierter Augenzeugenerinnerung.
+die eine die Tötung anordnet und die andere den Bestand bewahrt. Die Flugmaschine
+ist nicht des Schockeffekts wegen da. Die Behauptung des Kanons lautet, dass das
+Betriebsprotokoll real war und dass die vier oben gelesenen Literaturen das sind,
+wie ein solches Protokoll nach Tausenden von Jahren des Wiedererzählens durch
+Menschen aussieht, die die Begriffe verloren hatten, um zu beschreiben, woran sie
+sich erinnerten.
 
-Der zentrale deutende Zug des Rahmens ist politisch. Eine plurale Gruppe kann
-einen Kataklysmus autorisieren, sich über ihn spalten und widersprüchliche
-Erinnerungen an die Verantwortung bewahren. Das bietet eine Erklärung für den
-Unterschied zwischen dem mesopotamischen Rat und dem einzigen göttlichen Akteur
-der Genesis, der die Welt flutet und später gelobt, es nicht zu wiederholen. Die
-historische Kritik bietet eine andere: Hebräische Autoren formten ererbtes
-polytheistisches Material um Bund und einen einzigen souveränen Gott herum um. Der
-Kanon fügt einen Nuklearschlag und ein genetisches Archiv hinzu, Einzelheiten,
-die seine berichtete Offenbarung liefert und die nicht aus dem antiken Vokabular
-rückgewinnbar sind. Zwei Vorbehalte folgen. Das Erste: Dies ist nicht die
+Dies ist die Lesart, auf die der Essay hingearbeitet hat, und sie sollte ohne
+Absicherung gesagt werden. Die Flut ist nicht der Zorn eines einzigen Wesens —
+und es genügt nicht zu antworten, dass der einzige Gott der Genesis „eigentlich"
+viele Götter waren, denn eine Gottheit in ein Pantheon aufzuspalten ändert die
+Arithmetik, nicht die Politik. Die Macher sind politische Akteure. Sie hegen
+gegensätzliche Überzeugungen, sie streiten, sie teilen sich in Fraktionen, und
+eine Fraktion mit den Mitteln zu handeln kann eine katastrophale Entscheidung
+über die Einwände der anderen hinweg durchsetzen. Deshalb sitzt die hebräische
+Einzelakteur-Erzählung so schief — ein einsamer, allwissender Verstand flutet die
+Welt und entschließt sich dann, beim Riechen eines Opfers, sie nie zu
+wiederholen. Ein einziger Verstand schwankt nicht so; ein gespaltenes Gremium tut
+es, denn die Partei, die die Tötung anordnete, und die Partei, die die Saatlinie
+rettete, waren nie dieselbe Partei, und die zweite wurde erst gehört, als die
+erste ihre Waffe verbraucht hatte. Nach dem Bericht des Kanons war diese Waffe
+nuklear, und die Flut ihr wahlloser Nebeneffekt — was genau das ist, was Ea
+benennt, wenn er, zu spät, sagt, dass eine Flut alle nimmt, wo ein Löwe einige
+genommen hätte. Nichts davon macht die Elohim zu Kriegsherren; der Korpus
+beschreibt keine zur Eroberung neigende Zivilisation. Aber Raffinesse ist nicht
+die Abwesenheit von Meinungsverschiedenheit. Gegensätzliche Überzeugungen, stark
+genug gehegt, können dort enden, wo dieser Essay begann: in einer Waffe, die
+nicht zielen kann. Das Erste: Dies ist nicht die
 {% wiki(slug="ancient-astronaut-hypothesis") %}„Prä-Astronautik"{% end %}-Lesart der populären randständigen Literatur, eine Linie, die der
 eigene Apparat des Korpus ausdrücklich von sich weist. Die sumerischen
 *Anunnaki*{{ footnote(id="12") }} sind kein wörtliches Pantheon von Raumfahrern, und die Texte
 verbergen kein technisches Vokabular unter den göttlichen Namen. Der Fall ruht
 allein auf der narrativen Gestalt — darauf, dass die älteste Flutgeschichte als
 Entscheidung, Vollzug und Nachprüfung gebaut ist. Das Zweite: Die genaue Lektüre
-hängt nicht vom Rahmen ab. Eine Leserin, die die Rekonstruktion des
-Kanons zurückweist, kann dennoch beobachten, dass die ältere mesopotamische
-Erzählweise eine beratene und bestrittene Flut neben der Bewahrung lebender Saat
-darstellt. Der Rahmen liefert ein Motiv für diese narrative Gestalt, nicht das
-einzig mögliche.
+hängt überhaupt nicht vom Rahmen ab. Eine Leserin, die die Rekonstruktion des
+Kanons für zu weit hergeholt hält, kann die tragende Beobachtung dennoch
+behalten, dass diese Texte in ihrer ältesten Schicht die Flut als eine beratene,
+bestrittene, saatbewahrende Operation darstellen statt als den Zorn eines
+gekränkten Absoluten. Der Rahmen liefert ein Motiv für diese Gestalt; die Gestalt
+ist in den Texten, ob man das Motiv annimmt oder nicht.
 
 ## Gegenargumente
 
-Der Haupteinwand lautet, dass *Diffusion genügt*. Das
+Der stärkste Einwand ist der bereits eingeräumte: *Diffusion genügt*. Das
 geteilte Verfahren folgt aus der geteilten Abstammung, und eine administrative
 „Gestalt" in die älteste Schicht hineinzulesen heißt, eine moderne Kategorie —
 Operationen, Protokolle, Resets — auf Schreiber zu projizieren, die Mythologie
-verfassten. Die Diffusion erklärt das Wiederkehren vollständig, während
-göttliche Räte, Eide, technischer Bootsbau und Streitigkeiten unter Göttern
-innerhalb der mesopotamischen Literaturkultur verständlich sind. Die
-Wheel-of-Heaven-Lesart verdrängt diesen Befund nicht. Sie schlägt vor, dass das
-Genre den Charakter eines Ereignisses hinter der Geschichte bewahrte, ein Schluss
-aus der narrativen Gestalt, der weicher bleibt als lexikalische oder
-archäologische Belege.
+betrieben. Die Erwiderung besteht nicht darin, die Diffusion zu leugnen, sondern
+darin zu markieren, was sie unberührt lässt. Die Diffusion erklärt die
+Übertragung; sie erklärt nicht die ursprüngliche Prägung des Übertragenen, die
+durch und durch prozedural ist. Das ist ein Argument aus dem *Charakter*, und
+Argumente aus dem Charakter sind weicher als Argumente aus dem Lexikon. Die
+Lesart sollte auf dem Vertrauensniveau gehalten werden, das ihre Belege erlauben
+— weshalb sie das Etikett *inferred* (erschlossen) trägt statt *direct* (direkt).
 
 Ein zweiter Einwand: Die „Verhältnismäßigkeits"-Lesart von Eas Rede ist
 anachronistisch; *bēl ḫīṭīti emid ḫīṭa-šu* handelt von ritueller Schuldzuweisung,
@@ -588,7 +609,7 @@ verwerfen.
 Schließlich der wissenschaftliche Einwand, der in einem Punkt entscheidend und in
 einem anderen stumm ist. Es gab keine globale Flut; der geologische Befund ist
 unzweideutig, und der Fall wird zugänglich von Montgomery dargelegt, einem
-Geologen, der genau über Noahs Flut schreibt. Nichts in diesem Essay
+Geologen, der genau über Noahs Flut schreibt. Nichts in diesem Explainer
 argumentiert das Gegenteil, und der eigene Bericht des Kanons ist bemerkenswert
 *keine* Behauptung einer globalen Sintflut im jungerdlichen Sinn — er beschreibt
 einen regionalen Kataklysmus und einen bewahrten Bestand, nicht einen Planeten,
@@ -600,19 +621,26 @@ Texte beantworten sie konsistent.
 
 ## Schluss
 
-In der ältesten vollständigen mesopotamischen Erzählung autorisiert eine
-göttliche Versammlung die Flut, Ea bewahrt einen Überlebenden und lebende Saat,
-die Götter schrecken vor der Zerstörung zurück, und Ea plädiert hinterher für
-selektivere Strafen. Die Genesis erbt vieles von der Erzählung, entfernt jedoch
-das göttliche Gremium und macht das Versprechen, die Erde nie wieder zu fluten,
-zum Teil eines Bundes. Henoch gibt dem Kataklysmus eine weitere Begründung in der
-von den Wächtern eingeführten Verderbnis.
+In ihrer ältesten lesbaren Schicht ist die Flut nicht die Geschichte eines
+Gottes, der die Beherrschung verliert. Ein Gremium fasst nach Verfahren eine
+Entscheidung und bindet sich durch Eid; einem Überlebenden werden ein
+Bauprotokoll und eine als bewahrte Saat definierte Ladung übergeben; die Methode
+wird ausgeführt und überrennt die Kontrolle derer, die sie anordneten; und
+hinterher — in der allerältesten vollständigen Erzählung — streiten jene Menschen
+darüber, ob sie je die richtige Methode gewesen sei, und benennen die abgestuften,
+selektiven Alternativen laut. Die hebräische Tradition nimmt die ganze Maschinerie
+auf und arbeitet sorgfältig an der Theologie um sie herum, schneidet das Gremium
+und den göttlichen Hunger heraus und zieht aus einer identischen Diagnose der
+menschlichen Natur die entgegengesetzte Schlussfolgerung: dass das Instrument
+versagt hatte und nie wieder gebraucht werden darf. Henoch bewahrt die Begründung,
+die die anderen verlieren, und gibt sie als Dekontamination — *heile die Erde, die
+die Wächter verderbt haben, damit seine Saat bestehe.*
 
-Dies sind verwandte Literaturen, keine unabhängigen Zeugen. Ihre geteilte
-Abstammung erklärt ihre geteilten Motive. Wheel of Heaven liest die Motive als
-die degradierte Erinnerung an einen gesteuerten Reset durch endliche Macher, die
-sich über seine Kosten zerstritten. Das bleibt eine erschlossene Rekonstruktion,
-gestärkt durch ihre Kohärenz innerhalb des Kanons, aber nicht von den antiken
-Texten bewiesen. Was die Texte fester feststellen, ist bereits bedeutsam: Die
-Fluttradition enthält Beratung, Widerspruch, Bewahrung, Reue und Bund, nicht
-Zorn allein.
+Durch den Rahmen ist dies, was von einer realen Operation übrigbleibt: ein
+gesteuerter Reset durch Macher von hoher, aber endlicher Kapazität, die
+entschieden, ausgeführt, eine Linie bewahrt und sich über die Kosten zerstritten
+haben. Ohne den Rahmen bleibt es seltsamer und interessanter als Strafe — vier
+Literaturen, unabhängig voneinander, die die Sintflut als eine Beratung statt
+eines Wutanfalls erinnern. Die Flut, die die Texte tatsächlich bewahren, war nie
+schlicht Zorn. Sie war eine Entscheidung, von jemandem getroffen, schlecht
+ausgeführt und abgeschworen, als sie getan war.

@@ -20,7 +20,8 @@ see_also = [
     { title = "Geniocracy", path = "wiki/geniocracy", description = "The governance model articulated alongside the Golden Age in the source material." },
     { title = "Embassy", path = "wiki/embassy", description = "The project whose completion conditions humanity's successful Aquarian-age navigation." },
     { title = "Hamlet's Mill", path = "wiki/hamlets-mill", description = "The deposed 'Lord of the Golden Age' — Saturn, the giver of measures — whose wrecked mill grinds out the ages." },
-    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The Golden Age as the reign of the deposed sleeping king, due back when the precessional wheel completes." }
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The Golden Age as the reign of the deposed sleeping king, due back when the precessional wheel completes." },
+    { title = "The Shape of Humanity", path = "articles/the-shape-of-humanity", description = "The Explainer framing the Golden Age as the successful maturation of humanity-as-organism past the one-in-a-hundred threshold." }
 ]
 
 [[extra.references]]

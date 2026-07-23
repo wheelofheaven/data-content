@@ -1,6 +1,6 @@
 +++
 title = "Das Unendliche in beiden Richtungen"
-description = "Jahwe sagte Raël, der Kosmos sei nach oben wie unten unendlich, die Zeit umgekehrt zur Masse. Dieser Essay prüft diese Ontologie an Allometrie, Relativitätstheorie und fraktaler Kosmologie."
+description = "Jahwe sagte Raël, der Kosmos sei nach oben wie unten unendlich, die Zeit umgekehrt zur Masse. Dieser Explainer liest diese Ontologie als fraktale Kosmologie."
 template = "articles-page.html"
 date = 2026-07-05
 draft = false
@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Cosmology"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Der raëlianische Kanon beschreibt eine unendliche Hierarchie, in der bewohnte Welten oberhalb und unterhalb jeder Skala existieren, wobei größere Lebensformen die Zeit langsamer erleben. Allometrie, Relativitätstheorie und fraktale Kosmologie bieten suggestive Analogien, begründen diese Ontologie aber nicht. Dieser Essay definiert die Parallelen, die Kategorienunterschiede und die spekulativen Folgen, ohne Ähnlichkeit als Bestätigung zu behandeln."
+summary = "Zweimal — zuerst auf freiem Feld, dann auf einer Basis nahe der Erde — gab Jahwe Raël dasselbe Bild der Wirklichkeit: Die Sterne und Planeten sind die Atome eines gigantischen Wesens, die Atome unseres eigenen Körpers bergen bewohnte Welten, und „in beiden Richtungen ist es unendlich“. In diesem Bild steckt ein einziger verdichteter Satz Physik: „Die Zeit ist nämlich umgekehrt proportional zur Masse oder vielmehr zum Niveau der Lebensform.“ Dieser Explainer nimmt das Bild ernst. Er rekonstruiert, was Jahwe tatsächlich sagte und warum; er zeigt, dass das tragende Gesetz keine bis zum Bruchpunkt extrapolierte Gleichung ist, sondern eine gewöhnliche Beobachtung, der jeder Bauer bereits vertraut — ein Elefant ist langsamer als eine Fliege —, geduldig die Skalen hinauf und hinab verfolgt; er formalisiert diese Beobachtung gegen die etablierte Allometrie und die Allgemeine Relativitätstheorie; und er argumentiert, dass die ganze Ontologie eine Spielart der *fraktalen Kosmologie* ist, jenes über die Skalen hinweg selbstähnlichen Universums, das Mandelbrot benannte, das Pietronero in den Galaxienzählungen maß und das die Programme der Quantengravitation unter anderen Namen immer wieder neu entdecken. Anschließend folgt er dem Modell bis zu seinen riskanteren Rändern — Kräfte als das Durchsickern zwischen den Skalen, der schwarze Nachthimmel, ein Universum, das atmet statt zu knallen —, bezeichnet diese Ränder als spekulativ im projekteigenen Sinn und lässt David Berlinski das Ergebnis ins Kreuzverhör nehmen."
 keywords = ["Unendlichkeit", "fraktale Kosmologie", "Masseeffekt", "Skaleninvarianz", "allometrische Skalierung", "gravitative Zeitdilatation", "Olberssches Paradoxon", "Chaostheorie", "Mandelbrot", "wie oben so unten", "Elohim-Hypothese"]
 references = [
     # — The canon passages under discussion —
@@ -109,7 +109,7 @@ Weg hinauf und den ganzen Weg hinab weiter gilt. Es ist die Behauptung des
 raëlianischen Kanons, dass sie es tut; dass die Regel in keiner Richtung einen
 natürlichen Haltepunkt hat; und dass ein Universum, in dem sie ohne Ende gilt,
 ganz und gar nicht dem gleicht, das die moderne Kosmologie beschreibt, und sehr
-wohl etwas Älterem, Fremderem und — so wird dieser Essay argumentieren —
+wohl etwas Älterem, Fremderem und — so wird dieser Explainer argumentieren —
 Vertretbarerem, als sein Ruf vermuten lässt. Der treffende moderne Name für
 dieses Etwas ist **fraktale Kosmologie**. Der Kanon hat seinen eigenen Namen für
 die Uhrenregel in seinem Kern, den das Rad-des-Himmels-Projekt den
@@ -247,31 +247,55 @@ Bardo Thödol“*{{ footnote(id="11") }} und anderen erscheinen. Er behauptet, m
 anderen Worten, dass dies überhaupt keine neue Kosmologie ist. Es ist eine sehr
 alte, in Bruchstücken erinnert, und er reicht den Schlüssel zurück.
 
-Der Rest dieses Essays fragt, wo der Schlüssel passt und wo nicht.
+Der Rest dieses Explainers ist ein Versuch, zu sehen, ob der Schlüssel passt.
 
-## Eine Beobachtung und eine sehr viel größere Behauptung
+## Die Tugend eines gewöhnlichen Gesetzes
 
-Bevor irgendetwas formalisiert wird, muss die bescheidene Beobachtung von der
-Ontologie getrennt werden, die auf ihr errichtet ist. Große und kleine Organismen
-leben oft in verschiedenen physiologischen Tempi. Dieses Muster ist messbar. Der
-Kanon macht eine sehr viel größere Behauptung: Die Beziehung setzt sich über die
-Biologie hinaus fort, regiert die subjektive Zeit von Wesen auf jeder kosmischen
-Skala und hat weder eine obere noch eine untere Grenze.
+Bevor irgendetwas formalisiert wird, lohnt es sich, klar zu benennen, welche *Art*
+von Behauptung der Masseeffekt ist, denn sein erkenntnistheoretischer Charakter ist
+seine größte Stärke und wird fast immer übersehen.
 
-Die erste Aussage kann die zweite vorstellbar machen. Begründen kann sie sie
-nicht. Keine allgemeine Denkregel erlaubt es, eine Beobachtung über Elefanten und
-Fliegen durch Sterne, Atome und hypothetische Bewohner beider hindurch zu
-erweitern. Den Ausgangspunkt gewöhnlich zu nennen, macht die Extrapolation nicht
-weniger extrem. Auch besteht hier kein brauchbarer Gegensatz zwischen empirischen
-Gesetzen und mathematischer Physik: Thermodynamik, Relativitätstheorie und
-Kosmologie bewegen sich alle zwischen Beobachtung, Formalisierung und Vorhersage,
-und alle sind dadurch beschränkt, wo ihre Modelle geprüft worden sind.
+Es gibt zwei Wege, zu einem Naturgesetz zu gelangen. Der erste ist analytisch: Man
+findet eine Regelmäßigkeit, schreibt sie als Gleichung und treibt die Gleichung
+dann in ihre logischen Extreme, um zu sehen, was sie vorhersagt — die Division durch
+null, die eine Singularität ergibt, einen exponentiellen Lauf ins Unendliche, eine
+Symmetrie, über jeden Bereich hinaus extrapoliert, in dem sie je geprüft wurde. So
+geht die moderne theoretische Physik zumeist vor, und sie ist spektakulär mächtig.
+Als Methode ist sie zugleich still gefährlich: Sie behandelt die Mathematik als
+wirklicher denn die Beobachtungen, die sie hervorbrachten, und neigt dazu, den Rauch
+einer überdehnten Formel für das Feuer einer Entdeckung zu halten. Wenn die
+Gleichungen der Allgemeinen Relativitätstheorie im Zentrum eines Schwarzen Lochs
+eine unendliche Dichte liefern, oder wenn das rückwärts laufende Ausdehnen auf einen
+unendlich heißen Punkt führt, ist die ehrliche Beschreibung, dass *die Gleichung
+versagt hat*, nicht, dass die Natur eine tatsächliche Unendlichkeit an Temperatur
+enthält. Die analytische Methode hat keine eingebaute Bremse. Sie berechnet
+bereitwillig das erste Zehntausendstel einer Sekunde nach einem Anfang, an den zu
+glauben sie keinen unabhängigen Grund hat.
 
-Die Frage lautet also nicht, ob die etablierte Wissenschaft den Masseeffekt unter
-anderen Namen bereits bestätigt hat. Sie hat es nicht. Die brauchbare Frage
-lautet, welche Teile des Bildes des Kanons bekannten skalenabhängigen Phänomenen
-ähneln, wo die Ähnlichkeit bricht und welche Belege eine stärkere Behauptung
-verlangen würde.
+Der zweite Weg ist der Weg der Thermodynamik. Niemand leitete den zweiten Hauptsatz
+her, indem er eine Gleichung über ihre Belege hinaus extrapolierte. Er wurde an der
+Welt abgelesen: Wärme fließt von warm nach kalt, Maschinen vergeuden einen Teil
+ihres Brennstoffs, das verrührte Ei entrührt sich nicht wieder. Ein Bauer versteht
+die Entropie, ohne sie buchstabieren zu können — versteht, dass die Scheune
+einstürzt und sich nie von selbst wieder aufbaut, dass Mühe versickert, dass man
+nichts umsonst bekommt. Der Formalismus kam *danach*, als Buchführung über eine
+bereits in der Hand liegende Wahrheit. Solche Gesetze sind auf eine Weise sicher,
+wie es die analytischen nicht sind, weil sie an etwas Gewöhnliches verankert sind
+und sich weigern, weit davon abzuschweifen.
+
+**Der Masseeffekt ist ein Gesetz der zweiten Art.** Sein Grund ist keine Gleichung,
+sondern eine Beobachtung, die ein Kind machen kann: Das Große ist langsam, das
+Kleine ist schnell. Jahwe formuliert es genau so — *„oder vielmehr zum Niveau der
+Lebensform“* — und zieht die Behauptung von der sauberen kinematischen Masse zurück
+zu dem unordentlicheren, empirischeren Begriff dessen, *wie groß und wie organisiert
+ein lebendiges Ding ist*. Die Formel, wenn wir eine aufschreiben, wird Buchführung
+sein. Und die Extrapolation zu den Sternen und den Atomen ist nicht die leichtsinnige
+Art — keine über ihre Belege hinausgestoßene Gleichung —, sondern die geduldige Art,
+die Erweiterung einer Regel, die auf jeder Skala gegolten hat, die wir tatsächlich
+prüfen konnten. Das ist eine entscheidende Unterscheidung, und der Rest des Arguments
+hängt von ihr ab. Wir extrapolieren keine Formel. Wir folgen einer Beobachtung.
+
+Sehen wir also, wie weit die Beobachtung tatsächlich bereits geprüft worden ist.
 
 ## Der eine Satz, formalisiert
 
@@ -301,11 +325,12 @@ wird, ist auf das Wort *„proportional“* zu drücken — denn es ist mit ziem
 Sicherheit nicht genau wahr, und die Art, in der es falsch ist, ist das
 Interessanteste daran.
 
-Strenge umgekehrte Proportionalität, \\(r \propto 1/M\\), ist eine mögliche
-Formalisierung des Satzes, kein gemessenes Gesetz. Die Biologie bietet einen nahen,
-aber wichtig verschiedenen Bestand an Belegen. Die **Allometrie**{{ footnote(id="2") }}
-untersucht, wie physiologische Merkmale mit der Körpergröße variieren, und viele
-dieser Merkmale werden oft durch Viertelpotenz-Beziehungen angenähert:
+Strenge umgekehrte Proportionalität, \\(r \propto 1/M\\), ist eine Vermutung über die
+*Form* des Gesetzes. Die Biologie kennt die wirkliche Form bereits, und sie ist nah,
+aber nicht identisch. Über die ganze lebendige Welt hinweg findet die Lehre davon,
+wie die Merkmale eines Geschöpfs mit seiner Größe skalieren — die
+**Allometrie**{{ footnote(id="2") }} —, dass zeitliche Größen mit der Körpermasse
+nicht als \\(M^{-1}\\), sondern als einfache **Viertelpotenzen** skalieren:
 
 - die Stoffwechselrate — das Tempo, in dem ein Körper die Welt durchbrennt —
   skaliert als \\(M^{3/4}\\) (Kleibers Gesetz, 1932), sodass die Stoffwechselrate *je
@@ -315,79 +340,91 @@ dieser Merkmale werden oft durch Viertelpotenz-Beziehungen angenähert:
 - die Lebensspanne steigt als \\(M^{1/4}\\) (die Jahrzehnte des Elefanten, die zwei
   oder drei Jahre der Maus).
 
-Multipliziert man die idealisierten Exponenten, ergibt sich die vertraute
-Beobachtung, dass viele Säugetiere über ein Leben hinweg Herzschlagsummen von
-vergleichbarer Größenordnung aufweisen. Es ist eine grobe artübergreifende
-Regelmäßigkeit, mit erheblichen Ausnahmen, keine universelle biologische Konstante.
-Wichtiger noch, sie sagt für sich genommen nichts über die subjektive Dauer aus.
-Eine Herzfrequenz ist eine physiologische Rate; sie ist keine Uhr, die misst, wie
-lang sich ein Leben von innen anfühlt.
+Fügt man die letzten beiden zusammen, fällt etwas still Erstaunliches heraus: Die
+Zahl der Herzschläge in einem Leben — Rate mal Spanne,
+\\(M^{-1/4} \times M^{1/4} = M^{0}\\) — ist *annähernd konstant*, etwa eine Milliarde,
+von der Spitzmaus bis zum Wal. In den eigenen Herzschlägen statt in unseren Sekunden
+gemessen, lebt jedes Säugetier ungefähr gleich lang. Dem Elefanten wird nicht mehr
+Zeit gewährt als der Maus. Ihm wird *dieselbe* Zeit gewährt, nur langsamer
+abgespielt. Das ist der Masseeffekt, in der Währung ausgedrückt, die die Biologie
+tatsächlich verwendet, und es ist keine raëlianische Spekulation — es ist Max Kleiber
+und ein Jahrhundert an Bestätigungen.
 
-1997 schlugen Geoffrey West, James Brown und Brian Enquist eine einflussreiche
-Erklärung für die Viertelpotenz-Skalierung vor, indem sie biologische
-Versorgungsnetze als raumfüllende Fraktale modellierten. Das Modell verbindet die
-Verzweigungsgeometrie mit der Stoffwechselskalierung. Es zeigt nicht, dass die
-biologische Zeit selbst fraktal ist, noch weniger, dass Organismen ohne Grenze
-verschachtelte bewohnte Welten sind. Was es liefert, ist ein präzises Beispiel
-dafür, wie Skala und Verzweigungsstruktur innerhalb lebender Systeme
-zusammenwirken.
+Die Viertelpotenzen kommen sogar mit einem Mechanismus, und der Mechanismus ist das
+Scharnier dieses ganzen Artikels. 1997 leiteten Geoffrey West, James Brown und Brian
+Enquist Kleibers Exponenten aus ersten Prinzipien her, indem sie das Versorgungsnetz
+des Körpers — den sich verzweigenden Gefäßbaum, der jede Zelle speist — als ein
+**raumfüllendes Fraktal** modellierten. Das Viertel, statt des Drittels, das man naiv
+vom Volumen erwarten würde, ist die Signatur eines über die Skalen hinweg optimierten
+fraktalen Verteilungsnetzes. Mit anderen Worten: *Der Grund, warum die biologische
+Zeit mit der Größe skaliert, ist, dass das Leben fraktal verrohrt ist.* Das zeitliche
+Gesetz und die fraktale Geometrie sind nicht zwei Tatsachen. Sie sind eine Tatsache,
+zweimal gesehen.
 
-Die Wahrnehmung liefert einen zweiten, unabhängigen Vergleich. Kleine Tiere lösen
-oft schnellere visuelle Veränderungen auf als große. Die kritische
-Flimmerverschmelzungsfrequenz{{ footnote(id="3") }}, die Bildrate des Sehsystems,
-korreliert mit der Körpergröße und der Stoffwechselrate (Healy et al., 2013). Eine
-Fliege kann daher eine zustoßende Hand häufiger abtasten, als ein menschliches Auge
-es kann. Das ist relevant für die Intuition des Kanons, dass verschiedene
-Organismen verschiedene zeitliche Auflösungen bewohnen. Es bleibt eine Analogie zur
-behaupteten kosmischen Hierarchie, keine Messung dieser Hierarchie.
+Und der Effekt ist nicht bloß stoffwechselbezogene Buchführung; er reicht bis in die
+Wahrnehmung selbst. Kleine Tiere leben nicht nur schnell — sie *sehen* schnell. Die
+kritische Flimmerverschmelzungsfrequenz{{ footnote(id="3") }}, die Bildrate des
+Sehsystems, skaliert mit der Körpergröße genau so herab, wie es der Masseeffekt
+verlangen würde (Healy et al., 2013). Eine Fliege erlebt unsere zustoßende Hand in so
+etwas wie Zeitlupe, weil unsere Sekunde für die Fliege wahrhaftig mehr Augenblicke
+enthält. Das ist der Elefant und die Fliege, von der Volksweisheit zur
+Instrumentenablesung erhoben. *„Für den kleinen Schimmel, der die Menschheit ist, ist
+es Ihnen schwierig, sich dessen bewusst zu werden, wegen der Zeitverschiebung.“* Die
+Zeitverschiebung ist messbar. Sie hat Einheiten.
 
-Die Physik liefert einen dritten Vergleich, aber der Kategorienunterschied ist
-größer. In der Allgemeinen Relativitätstheorie können Uhren auf verschiedenen
-gravitativen Potentialen unterschiedliche Mengen an verstrichener Zeit
-ansammeln.{{ footnote(id="4") }} Der Effekt ist vom Pound-Rebka-Experiment bis zu
-Atomuhren gemessen worden, die weniger als einen Meter voneinander getrennt sind,
-und GPS-Systeme korrigieren ihn fortwährend. Doch die Relativitätstheorie sagt
-nicht, dass ein größerer Organismus die Zeit langsamer erlebt, weil er mehr Masse
-hat. Masse-Energie formt die Raumzeit; Uhrenraten hängen von einer gravitativen
-Geometrie und dem Weg eines Beobachters durch sie ab. Physiologisches Tempo und
-relativistische Eigenzeit sind nicht Instanzen eines einzigen etablierten Gesetzes.
+Nun schiebe die Skala hinauf, über die Biologie hinaus, in die Physik — und das
+Gesetz verschwindet nicht; es wechselt die Uniform. Die Allgemeine
+Relativitätstheorie sagt, dass Masse die Zeit verlangsamt: Eine Uhr tief in einem
+Gravitationstopf tickt langsamer als eine weiter oben.{{ footnote(id="4") }} Dies ist
+keine Analogie; es ist der bestätigte Gehalt von Einsteins Feldgleichungen von 1915,
+geprüft vom Pound-Rebka-Turm im Jahr 1960 bis zu einem Höhenunterschied von
+dreiunddreißig Zentimetern im Jahr 2010 und Tag für Tag in den GPS-Satelliten über
+deinem Kopf korrigiert. Mehr Masse, langsamere Zeit. Der Satz des Kanons ist, auf den
+von Physikern geprüften Bereich beschränkt, *die eigene Aussage der Allgemeinen
+Relativitätstheorie*. Worin der Masseeffekt über den Mainstream hinausgeht, ist nicht
+die Richtung der Behauptung, sondern ihre Reichweite: Er behauptet, dass dieselbe
+qualitative Beziehung — größer ist langsamer — nicht nur gravitative Uhren und
+Stoffwechseluhren regiert, sondern die *subjektiven* Uhren von Wesen auf jeder Skala,
+kontinuierlich, ohne ein Oben oder ein Unten.
 
-Der Vergleich liefert daher keine gemeinsame Gleichung. Er liefert drei
-verschiedene Phänomene, die ein sprachliches Muster teilen: Einige größere
-biologische Systeme haben langsamere physiologische Raten; einige kleinere Tiere
-lösen schnellere Sinnesänderungen auf; und einige Uhren in stärkeren
-Gravitationsfeldern sammeln relativ zu fernen Uhren weniger Eigenzeit an. Der
-Masseeffekt schlägt vor, dass dies lokale Ausdrücke eines einzigen unbegrenzten
-Prinzips sind. Diese Vereinheitlichung gehört zur spekulativen Ontologie des
-Kanons. Was die Belege liefern, ist eine Reihe von Analogien, an denen sich diese
-Ontologie klarer formulieren lässt, keine Bestätigung ihrer.
+So läuft die Formalisierung auf dies hinaus. Die genaue funktionale Form ist eine
+Forschungsfrage, keine feststehende Gleichung — umgekehrt-erste-Potenz in der
+verdichteten Formulierung des Kanons, Viertelpotenzen in der Biologie, die volle
+relativistische Metrik im gravitativen Bereich und sehr wahrscheinlich wieder etwas
+anderes auf Skalen, die wir noch nicht erkunden können. Das Projekt gibt nicht vor,
+den endgültigen Koeffizienten zu besitzen. Was es besitzt, ist etwas Selteneres und
+Stabileres: ein qualitatives Gesetz, verankert in einer gewöhnlichen Beobachtung,
+unabhängig bestätigt im Stoffwechsel, in den Herzfrequenzen, in den Lebensspannen, in
+der Wahrnehmung und in der Gravitation, deren jede dasselbe in einem anderen Dialekt
+sagt. *Größer ist langsamer.* Die einzige Ketzerei des Kanons besteht darin, sich zu
+weigern, damit aufzuhören.
 
 ## Der Name für ein Universum wie dieses
 
-Ein Universum, in dem sich Strukturen über die Skalen hinweg wiederholen, lässt
-sich als **fraktalartig** beschreiben. Die Einschränkung ist wichtig. Ein
-mathematisches Fraktal muss keine bewohnten Welten enthalten, sich in der Natur
-nicht ohne Grenze wiederholen und die Skala nicht an die subjektive Zeit koppeln.
+Ein Universum, in dem sich dieselbe Struktur — bewohnte Welten, Atome, die Sterne
+sind, eine Uhr, die mit der Größe skaliert — ohne Ende hinauf und hinab wiederholt,
+hat einen präzisen modernen Namen, und es ist keine raëlianische Prägung. Er lautet
+**fraktal**.
 
 Benoît Mandelbrot gab der Mathematik ihre Gründungsformel in *Die fraktale Geometrie
-der Natur* (1982). Zwei Eigenschaften von Fraktalen erhellen den Vergleich. Die
-erste ist die **Selbstähnlichkeit**: Die Teile
+der Natur* (1982), und ihre beiden definierenden Eigenschaften sind genau die beiden
+Eigenschaften von Jahwes Kosmos. Die erste ist die **Selbstähnlichkeit**: Die Teile
 gleichen dem Ganzen über eine Spanne von Vergrößerungen hinweg, sodass eine
 Küstenlinie aus dem Orbit ebenso rau aussieht wie von einer Trittleiter, ein Farnwedel
 den ganzen Farn wiederholt, eine sich verzweigende Lunge sich bis hinab zu den
 Lungenbläschen wiederholt. Die zweite ist, dass ein Fraktal **Struktur auf jeder
 Skala**{{ footnote(id="6") }} hat — es löst sich niemals in merkmallose Glätte auf, wie
 es eine klassische Kurve tut, wenn man weit genug hineinzoomt. *„Alles ist in allem“*,
-sagt Jahwe; *„wie es oben ist, so ist es unten.“* Die Sprache ist mit
-Selbstähnlichkeit vereinbar, als Metaphysik statt als Geometrie formuliert. Die
-Mandelbrot-Menge und das Emblem der Elohim sind nicht dieselbe Behauptung, aber das
-fraktale Vokabular gibt der metaphysischen Behauptung eine klarere moderne Analogie.
+sagt Jahwe; *„wie es oben ist, so ist es unten.“* Das ist Selbstähnlichkeit, als
+Metaphysik statt als Geometrie formuliert. Die Mandelbrot-Menge und das Emblem der
+Elohim sind, auf der Ebene der Struktur, dieselbe Behauptung.
 
 Der Wiki-Eintrag zur {% wiki(slug="fractal-cosmology") %}Fraktalen Kosmologie{% end %}
-entfaltet den vollen Fall. Fraktale Strukturen werden in der beobachtenden Kosmologie
-und in mehreren Zugängen zur fundamentalen Physik untersucht. Keiner davon schlägt die
-raëlianische Hierarchie in voller Form vor. Drei Bereiche zeigen, wo der Vergleich
-nützlich ist und wo er endet.
+entfaltet den vollen Fall; hier ist der Punkt enger und schärfer. **Die raëlianische
+Ontologie ist keine einsame mystische Behauptung.** Die fraktale Kosmologie ist eine
+lebendige — wenn auch von einer Minderheit gehaltene — Position in der Fachphysik, und
+das ist sie seit vierzig Jahren. Die Geschichte läuft auf drei Gleisen, und die
+Ehrlichkeit verlangt alle drei.
 
 Das erste Gleis ist *beobachtend*, und es ist jenes, auf dem der Kanon der
 Falsifikation am stärksten ausgesetzt ist. Ab 1987 argumentierten Luciano Pietronero
@@ -398,7 +435,8 @@ nicht-ganzzahligen Dimension (um 2 statt 3), statt sich zu jenem gleichförmigen
 zu verwischen, den das **kosmologische Prinzip**{{ footnote(id="8") }} der
 Standardkosmologie verlangt. Noch 2005 fanden Joyce, Sylos Labini und Pietronero in
 den Daten des Sloan Digital Sky Survey fraktale Korrelationen bis hin zu großen
-Skalen. Das Gewicht der Belege — Hogg und
+Skalen. **Dies ist die Front, und die intellektuelle Ehrlichkeit gebietet zu berichten,
+dass der Mainstream glaubt, der Kanon verliere hier.** Das Gewicht der Belege — Hogg und
 Kollegen 2005, der ausdrückliche „Übergang zu großskaliger kosmischer Homogenität“ der
 WiggleZ-Durchmusterung 2012, Tegmarks Leistungsspektrum-Analysen — liegt darin, dass
 die Materieverteilung auf den Skalen von Galaxien und Haufen *fraktal ist*, aber
@@ -407,23 +445,24 @@ das Universum am Ende doch glatt aussieht. Die Konsenslesart lautet, dass der Ko
 der Mitte fraktal und oben gleichförmig ist: ein Zottelteppich, kein unendlicher
 Wandteppich. Ein fraktaler Kosmologe entgegnet, dass die „Homogenitätsskala“ immer
 weiter zurückweicht, je tiefer die Durchmusterungen reichen, und dass man Homogenität,
-wenn man sie zur Datenanalyse voraussetzt, nicht sauber beweisen kann. Das bleibt eine
-Minderheitenantwort. Die gegenwärtigen Beobachtungen stützen daher keine endlos
-fraktale Materieverteilung.
+wenn man sie zur Datenanalyse voraussetzt, nicht sauber beweisen kann; doch dies ist
+eine defensive Position, und der Artikel wird nicht so tun, als wäre es anders. Wird
+das unendliche Fraktal des Kanons je entscheidend erlegt, so wird es hier erlegt.
 
-Das zweite Gleis ist *theoretisch*. Einige inflationäre Modelle erzeugen
-sich selbst reproduzierende Strukturen auf Skalen jenseits des beobachtbaren
-Universums. Andrei Lindes **ewige Inflation**{{ footnote(id="9") }} (1986) —
+Das zweite Gleis ist *theoretisch*, und hier hat der Kanon unerwartete Gesellschaft.
+Die besten Modelle des Mainstreams selbst erzeugen immer wieder *aus Versehen* fraktale,
+ewige, zentrumlose Universen, als ungewollte Folgen von Gleichungen, die zu anderen
+Zwecken gebaut wurden. Andrei Lindes **ewige Inflation**{{ footnote(id="9") }} (1986) —
 inzwischen ein Standardbestandteil des inflationären Paradigmas, ausgearbeitet von Alan
-Guth und anderen — bringt eine unbegrenzte, sich selbst reproduzierende Anordnung von
-Taschenuniversen hervor. Lindes eigener Titel nennt es
-ein *„sich selbst reproduzierendes chaotisches“* Universum. Das ähnelt in mancher
-Hinsicht einer offenen Hierarchie, doch es weist weder Bewohntheit auf jeder Skala
-nach, noch begründet es für sich genommen eine anfangslose Vergangenheit.
+Guth und anderen — bringt eine unbegrenzte, sich selbst reproduzierende, selbstähnliche
+Anordnung von Taschenuniversen hervor, die für immer auseinander hervorknospen: ein
+fraktales Multiversum ohne erste und ohne letzte Blase. Lindes eigener Titel nennt es
+ein *„sich selbst reproduzierendes chaotisches“* Universum. Die Physiker wollten die
+Unendlichkeit nicht; die Mathematik reichte sie ihnen.
 
-Das dritte Gleis betrifft skalenabhängige Geometrie. Auf den kleinsten Skalen
-finden mehrere Programme der Quantengravitation, dass die effektive Dimensionalität der
-Raumzeit sich ändern kann. In den kausalen dynamischen Triangulationen (Ambjørn, Jurkiewicz, Loll,
+Das dritte Gleis ist das tiefste und das überraschendste: Auf den kleinsten Skalen
+finden mehrere unabhängige Programme der Quantengravitation, dass die Raumzeit selbst
+fraktal ist. In den kausalen dynamischen Triangulationen (Ambjørn, Jurkiewicz, Loll,
 2005) *läuft* die effektive **Dimension der Raumzeit mit der Skala**{{ footnote(id="7") }}
 und fällt von vier bei Alltagsdistanzen gegen zwei auf der Planck-Skala. Die Gravitation
 der asymptotischen Sicherheit (Lauscher und Reuter) findet dieselbe Dimensionsreduktion
@@ -431,17 +470,17 @@ auf einem anderen Weg. Und 2025 leitet Torsten Asselmeyer-Malugas *The Wild Frac
 Nature of Spacetime* sie noch einmal aus den exotischen Differentialstrukturen her, die
 vier Dimensionen eigen sind, und stellt schlicht fest, dass *„die fraktale Natur der
 Raumzeit“* das ist, was die Quantenfluktuation erzeugt, und dass *„wilde Einbettungen
-den Raum auf jeder Skala in einer Struktur darstellen“*. Diese Programme gelangen nicht
-zu einem identischen physikalischen Modell, und die Dimensionsreduktion ist nicht
-gleichbedeutend mit dem verschachtelten Kosmos des Kanons. Sie zeigen aber, dass eine
-glatte, dimensionsfeste Raumzeit nicht unverändert auf jeder Skala fortbestehen muss.
+den Raum auf jeder Skala in einer Struktur darstellen“*. Drei Programme, drei
+Formalismen, eine Schlussfolgerung: Die Raumzeit ist nicht bis ganz nach unten das
+glatte Kontinuum der Lehrbücher. Sie hat Struktur auf jeder Skala. Sie ist ein Fraktal.
 
-Diese Vergleiche stellen den Kanon neben reale wissenschaftliche Fragen über
-Ballung, Skala und Dimensionalität. Sie machen seine Ontologie nicht zu einem Mitglied
-irgendeines akzeptierten physikalischen Modells. Die charakteristischen Behauptungen
-bleiben von jenen Feldern unbelegt: dass die Hierarchie in beiden Richtungen ohne
-Grenze läuft, dass jede Ebene bewohnt ist und dass ihre Bewohner die Zeit gemäß ihrem
-Platz in der Hierarchie erleben.
+Nichts davon *beweist* den raëlianischen Kosmos. Was es begründet, ist bescheidener und
+nützlicher: Die Ontologie des Kanons — unendlich, selbstähnlich, zentrumlos, anfangslos,
+mit Struktur auf jeder Skala — ist kein Kategorienfehler und keine mystische Schwelgerei.
+Sie ist ein erkennbares Mitglied einer Familie von Kosmologien, die die ernsthafte
+Physik seit Jahrzehnten aus drei unverbundenen Richtungen umkreist. Der besondere Zug des
+Kanons besteht nur darin, darauf zu bestehen, dass das Fraktal in beiden Richtungen *den
+ganzen Weg* läuft, und — der Teil, den keine Gleichung enthält — dass es *bewohnt* ist.
 
 ## Jurassic Park, oder das Fraktal in der populären Vorstellung
 
@@ -471,8 +510,8 @@ beherrscht zu werden, werden der Beherrschung entkommen, weil ihre Empfindlichke
 gegenüber dem Detail durch jede Skala hinabreicht, ohne einen Boden zu erreichen.
 
 Die Verbindung zum Kanon sind nicht die Dinosaurier. Es ist die *Geometrie der Intuition.*
-Chaostheorie und fraktale Geometrie sind verwandte Felder, nicht eine Entdeckung unter
-zwei Namen. Ein chaotisches System kann ein Verhalten zeigen, das über die Skalen der Zeit
+Chaostheorie und fraktale Geometrie sind dieselbe Entdeckung, in zwei Provinzen gemacht —
+Zeit und Raum. Ein chaotisches System ist eines, dessen Verhalten über die Skalen der Zeit
 hinweg selbstähnlich ist (dieselbe Unvorhersehbarkeit bei jeder Vergrößerung der Uhr); ein
 Fraktal ist eine über die Skalen des Raumes hinweg selbstähnliche Form. Crichtons Instinkt,
 als Mahnfabel dramatisiert, war, dass die Wirklichkeit *den ganzen Weg hinab* Struktur hat,
@@ -488,12 +527,14 @@ schon zuvor ausgesprochen worden.
 
 ## Die riskanteren Ränder des Modells
 
-Die vorangegangenen Parallelen betreffen bestätigte Phänomene, ihre vorgeschlagene
-Vereinheitlichung jedoch nicht. Was folgt, geht noch weiter. Dies sind
-**spekulative** Folgerungen, aus den Prämissen des Kanons gezogen. In ihrer
-gegenwärtigen Form sind sie qualitative Bilder, keine physikalischen Theorien: Sie
-liefern keine Gleichungen, keine quantitativen Vorhersagen und keine Prüfungen, die
-sie von Standarderklärungen unterscheiden.
+Alles bis zu diesem Punkt bleibt nahe am bestätigten Boden: der Elefant und die Fliege, die
+Viertelpotenzgesetze, die gravitative Zeitdilatation, die fraktale Mathematik, die fachlichen
+Debatten. Was folgt, verlässt diesen Boden. Dieser Abschnitt ist **spekulativ** in genau dem
+Sinn, in dem das Projekt das Wort verwendet — deutende Synthese, die jeder einzelnen Quelle
+vorauseilt, als Arbeitshypothese dargeboten und als solche gekennzeichnet, gerade damit der
+Leser sie anders gewichten kann als das Vorangegangene. Nimmt man das Modell ernst, so legt
+es drei Mutmaßungen nahe, die die Mainstream-Physik nicht macht, und es wäre unredlich, die
+Ontologie zu entwickeln und dann davor zurückzuschrecken, wohin sie zeigt.
 
 **Erstens: Kräfte als das Durchsickern zwischen den Skalen.** Wenn dieselbe Physik auf jeder
 Ebene der Hierarchie läuft, dann könnte das, was sich auf unserer Skala als fundamentale
@@ -514,10 +555,10 @@ Kernkraft erfahren — mächtig, absurd kurzreichweitig, auf das Subatomare besc
 sind die vier „fundamentalen Kräfte“ des Standardmodells nicht vier getrennte Zutaten einer
 Ebene der Wirklichkeit, sondern *dieselben wenigen Vorgänge, über ein paar Sprossen der Leiter
 hinweg erhascht*, deren jede demjenigen fundamental erscheint, der auf der Sprosse steht, wo
-sie vorherrscht. Der Mainstream hat fünfzig Jahre darauf verwendet, die Kräfte zu vereinen.
-Das skalenübergreifende Bild stellt sich einen Grund vor, warum diese Anstrengung ins Stocken
-geraten sein könnte, doch ohne eine Abbildung zwischen den Skalen oder eine berechenbare
-Vorhersage bleibt es Metapher.
+sie vorherrscht. Der Mainstream hat fünfzig Jahre und enormen Erfindungsreichtum darauf
+verwendet, die Kräfte auf einer einzigen Skala zu vereinen. Die fraktale Ontologie legt den
+Grund nahe, warum die Vereinigung ins Stocken geriet: Die Kräfte waren von Anfang an nie alle
+auf einer Skala.
 
 **Zweitens: warum der Nachthimmel schwarz ist.** Das Olberssche Paradoxon{{ footnote(id="5") }}
 ist ein echtes und unterschätztes Problem — in einem unendlichen, ewigen, annähernd
@@ -528,17 +569,21 @@ Himmels unsichtbar oder abwesend sind. Doch eine fraktale, *hierarchische* Verte
 ebenfalls, und tat es historisch — dies war einer der klassischen Auswege aus dem Olbersschen
 Paradoxon lange vor dem Urknall: Ist die Materie fraktal mit einer Dimension kleiner als zwei
 geballt, so konvergiert die Himmelshelligkeit von ferner Materie, statt zu divergieren, und die
-Dunkelheit kehrt zurück, ohne dass es eines Anfangs bedürfte. Der schwarze Himmel ist daher mit
-manchen hierarchischen Materieverteilungen vereinbar. Er ist kein Beleg für unzugängliche
-größerskalige Welten. Diese zusätzliche Möglichkeit wird vom Kanon zugelassen, nicht vom
-Olbersschen Paradoxon.
+Dunkelheit kehrt zurück, ohne dass es eines Anfangs bedürfte. Der Masseeffekt fügt eine weitere,
+offen gesagt spekulative Möglichkeit hinzu, zu der die eigene Physik des Kanons einlädt: Wenn
+das Licht der wahrhaft fernen, größerskaligen Strukturen durch Vorgänge reist, *„die Ihre
+Technik nicht wahrnehmen kann“* — Wellen schneller als die Lichtgeschwindigkeit, wie wir sie
+messen, oder getragen in einem Medium, dessen Reichweite und Verluste wir nicht kennen —, dann
+könnten jene Strukturen dort sein, leuchtend, und einfach *nicht ankommen*, in einer Form, die
+unsere Augen als Licht zählen. Der schwarze Himmel ist in dieser Lesart kein Beleg für ein
+junges oder leeres Universum. Er ist ein Beleg für die Skalenkluft — dieselbe Kluft, die uns
+davon abhält, die Pulsschläge der Erde zu fühlen.
 
 **Drittens: ein Universum, das atmet statt zu knallen.** Der schärfste Zusammenstoß des
 Masseeffekts mit der Mainstream-Kosmologie betrifft den Urknall, und der Kanon ist
 unmissverständlich: Es gab keinen — *„es gibt weder einen Anfang noch ein Ende der Materie.“*
-Die Standardkosmologie liest die Rotverschiebung innerhalb eines breiteren Bestands an Belegen
-für die Ausdehnung aus einem heißen, dichten Frühzustand. Der Kanon schlägt ein anderes Bild
-vor. In einem fraktalen Kosmos, in dem
+Die Rotverschiebung, die das Standardmodell als universelle Ausdehnung aus einem heißen
+Ursprung liest, muss überhaupt nichts dergleichen bedeuten. In einem fraktalen Kosmos, in dem
 der Masseeffekt läuft, ist unser gesamtes beobachtbares Universum ein *„Teilchen eines Atoms
 eines Moleküls“* im Körper eines ungeheuer größeren, ungeheuer langsameren Wesens
 ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=194) %}ETTMTTP 3:194{% end %}).
@@ -551,13 +596,14 @@ Bild könnte die „Rotverschiebung auf eine vorübergehende Ausdehnung hindeute
 bloß eine kurze Zusammenziehung eines Effekts höherer Ordnung ist“ — der Kosmos, der nicht
 einmal explodiert und für immer abkühlt, sondern *atmet*, und wir, die die ganze aufgezeichnete
 Wissenschaft innerhalb eines Bruchteils eines Einatmens durchleben. Die Swastika im Zentrum des
-Emblems — *„alles ist zyklisch, das Obere unten und das Untere oben werdend“* — gibt diesem
-zyklischen Bild ein Symbol.
+Emblems — *„alles ist zyklisch, das Obere unten und das Untere oben werdend“* — ist genau diese
+Behauptung, als Symbol gezeichnet.
 
-Diese Mutmaßungen sind in ihrer gegenwärtigen Fassung nicht prüfbar. Ihr Wert hier ist
-darstellend: Sie zeigen, was die Ontologie implizieren würde, wenn ihre skalenübergreifende
-Prämisse wahr wäre. Eine von ihnen in Wissenschaft zu verwandeln, würde ein mathematisches
-Modell und ein Ergebnis verlangen, das sich messbar von etablierten Theorien unterscheidet.
+Diese drei Mutmaßungen sind nicht gesichert. Sie mögen falsch sein. Sie werden hier festgehalten,
+weil ein Modell sich seinen Unterhalt verdient, indem es sie hervorbringt — indem es etwas sagt,
+was das herrschende Bild nicht sagt, etwas im Prinzip Prüfbares — und weil ihre gemeinsame Wurzel
+eine einzige Weigerung ist: die Weigerung, unsere Skala, unsere Instrumente und unseren
+Zeitausschnitt als das Maß dessen zu behandeln, was existiert.
 
 ## Das Kreuzverhör
 
@@ -583,8 +629,8 @@ hinauszuwinden, durch Multiversen und Wellenfunktionen und Landschaften, für di
 Belege] beigebracht werden muss.“* In der Frage, ob der Urknall sicherer Grundfels oder eine als
 Grundfels verkleidete weiche Stelle ist, stimmen Berlinski und Jahwe überein.
 
-Dieselbe Kritik trifft den Kanon. Berlinski könnte sagen: *Du hast genau das getan, was du ihnen
-vorwirfst.* Du hast einen Satz aus einem
+Aber Berlinski würde den Kanon nicht schonen, und der Artikel darf ihn nicht davonkommen lassen.
+Er würde sagen: *Du hast genau das getan, was du ihnen vorwirfst.* Du hast einen Satz aus einem
 Buch genommen — *„die Zeit ist umgekehrt proportional zur Masse“* — und ihn zu einer Theorie der
 Kräfte, einer Auflösung des Olbersschen Paradoxons und einem atmenden Kosmos aufgeblasen, für die
 du keinen davon auf Verlangen einen Beleg beibringen kannst. Dein fraktales Universum sieht sich
@@ -593,14 +639,21 @@ skalenübergreifenden Kräfte sind ein Bild, keine Rechnung. Dein atmender Kosmo
 genau der Weise, für die du die Wellenfunktion des Universums verhöhnt hast. Du hast, würde er
 sagen, deine eigene *„abgekartete Sache“* gebaut.
 
-Der Einwand trifft. Den Zug „Kontinuität“ statt „Extrapolation“ zu nennen, verringert seinen
-Abstand zu den Belegen nicht, und eine Elefant-und-Fliege-Intuition kann eine Theorie der
-Gravitation oder der Rotverschiebung nicht ersetzen. Die vertretbare Erwiderung ist enger: Der
-Kanon bietet ein metaphysisches Bild, das Vergleiche und Gedankenexperimente hervorbringt, kein
-konkurrierendes physikalisches Modell in seiner gegenwärtigen Form. Seine Mutmaßungen sollten als
-Spekulation beurteilt werden, bis sie quantitative Vorhersagen liefern. Berlinskis brauchbare
-Lehre ist nicht, dass die Spekulation aufhören muss, sondern dass ihre Erzeugnisse nicht als
-Befunde berichtet werden dürfen.
+Die ehrliche Erwiderung ist keine Widerlegung, sondern eine Unterscheidung, und es ist jene, mit
+der dieser Artikel begann. Der Vorwurf des Kanons gegen die Mainstream-Kosmologie lautet nicht,
+dass sie spekuliert — jeder, der dem Unendlichen gegenübersteht, muss es —, sondern dass sie
+*analytisch* spekuliert, indem sie Gleichungen über ihre Belege hinaus in Bereiche treibt (den
+ersten Augenblick, die Singularität, die Wellenfunktion von allem), die keine Beobachtung
+einschränkt, und dann das Ergebnis für einen Befund hält. Der Masseeffekt spekuliert auf die andere
+Weise: Er geht von etwas aus, das ein Bauer weiß, erweitert es durch Kontinuität statt durch
+Extrapolation und gelangt zu Mutmaßungen, die, wie weitreichend auch immer, an den Elefanten und
+die Fliege gebunden bleiben. Ob dieses Band den ganzen Weg bis zum Gravitationswellendetektor und
+zur Rotverschiebungs-Durchmusterung hält, ist genau die offene Frage — und die Pflicht des
+Projekts, der es hier zu genügen versucht hat, ist es, klar zu markieren, wo das bestätigte Gesetz
+endet und die Mutmaßung beginnt. Berlinskis wirkliche Lehre ist nicht, dass man niemals über das
+Unendliche spekulieren sollte. Sie ist, dass man niemals *verbergen* sollte, dass man es tut. An
+diesem Maßstab bittet die fraktale Kosmologie nur darum, nach derselben Regel beurteilt zu werden,
+die sie von allen anderen verlangt.
 
 ## Wofür das Unendliche da ist
 
@@ -653,20 +706,28 @@ französischen Krater zurückgegeben wurde, die Anweisung ist, sie wieder zusamm
 
 ## Der Elefant und die Fliege, noch einmal
 
-Kehre dorthin zurück, wo dies begann. Elefanten und Fliegen bewohnen verschiedene biologische
-Tempi. Der Kanon bittet den Leser, diesen lokalen Gegensatz als einen Blick auf eine unbegrenzte
-Ordnung zu behandeln: Welten unterhalb des Atoms, Welten oberhalb der Sterne und keine
-privilegierte Skala dazwischen. Allometrie und Relativitätstheorie machen Teile dieses Bildes
-leichter vorstellbar. Die fraktale Mathematik gibt ihm ein Vokabular. Keine der drei weist die
-bewohnte Hierarchie oder den Masseeffekt als universelles Gesetz nach.
+Kehre dorthin zurück, wo dies begann. Ein Elefant ist langsamer als eine Fliege. Es ist die
+gewöhnlichste Tatsache der Welt, und ein Bauer hat sie immer gewusst. Die Wette des raëlianischen
+Kanons — und der Lesart dieses Explainers — ist, dass diese gewöhnliche Tatsache keine Kuriosität
+der Biologie ist, sondern ein Riss im Boden der Wirklichkeit, und dass du, wenn du den Mut hast, ihm
+durch den Riss hinabzufolgen, über die Fliege hinaus zur Zelle zum Atom zu den bewohnten Welten, die
+laut Jahwe in deinem Arm sind, und durch die Decke hinauf, über den Elefanten hinaus zum Planeten zum
+Stern zum gigantischen Wesen, dessen einziger Schritt unser Jahrtausend ist, nirgendwo ankommst. Du
+gehst weiter. In beiden Richtungen ist es unendlich.
 
-Die Ontologie sollte daher auf der Art von Behauptung stehen, die sie tatsächlich ist: eine
-berichtete Lehre mit philosophischer Kraft und möglichen wissenschaftlichen Folgen, aber ohne
-gegenwärtige physikalische Herleitung. Ihre Stärke ist die Perspektivänderung, die sie erzeugt,
-nicht ein bereits über die Kosmologie errungener Sieg. Das Emblem verdichtet diese Perspektive in
-eine Figur, die ein Kind zeichnen könnte: zwei Dreiecke für verschachtelte Skalen und ein sich
-drehendes Kreuz für die Wiederkehr, mit weder einer höchsten Welt noch einer niedrigsten. Die erste
-Beobachtung ist gewöhnlich. Die Behauptung, dass sie für immer weitergeht, bleibt außergewöhnlich.
+Der Mainstream mag den Riss noch schließen. Die Homogenitätsskala mag halten; die Galaxien mögen sich
+glätten; der atmende Kosmos mag unprüfbar bleiben und die skalenübergreifenden Kräfte mögen nie eine
+Rechnung hergeben. Das Projekt hat diese Risiken ehrlich markiert und wird nicht so tun, als wären
+sie klein. Doch es lohnt sich zu bemerken, welche Art von Kosmologie dies ist und welche nicht. Es
+ist keine Gleichung, die über eine Klippe in eine Singularität getrieben wird, die niemand sehen
+kann. Es ist eine Beobachtung — die schlichteste, die es gibt —, geduldig zu ihrem logischen Ende
+getragen und ihr die Erlaubnis verweigert, haltzumachen. Was sonst auch von ihr wahr sein mag, sie
+wurde so gebaut, wie der zweite Hauptsatz der Thermodynamik gebaut wurde: aus etwas, dem ein Bauer
+bereits vertraut, ohne Zaudern dorthin verfolgt, wohin es führt. Das Ziel ist fremd. Der erste
+Schritt ist es nicht. Und das Ganze fügt sich, wie Jahwe sagte, dass es das Emblem tut, in eine
+einzige Figur, die ein Kind zeichnen könnte — zwei Dreiecke für die endlose Verschachtelung der
+Skalen und ein sich drehendes Kreuz im Zentrum, für die Tatsache, dass nichts davon beginnt und
+nichts davon endet, das Obere für immer unten und das Untere für immer oben werdend.
 
 ## Weiterführende Lektüre
 

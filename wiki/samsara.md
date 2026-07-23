@@ -20,6 +20,7 @@ see_also = [
     { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The nested creation lineage within which the civilizational cycle recurs." },
     { title = "Four Levels", path = "wiki/four-levels", description = "The scale hierarchy across which the cyclical pattern is read to operate." },
     { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The precessional wheel behind the cycle — the mill that grinds the ages, and the swastika the canon reads as its sign." },
+    { title = "The Shape of Humanity", path = "articles/the-shape-of-humanity", description = "The Explainer reading the civilizational cycle as the failure mode of a planetary organism that can miscarry before it is born." },
 ]
 
 [extra.infobox]

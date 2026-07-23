@@ -19,6 +19,7 @@ see_also = [
     { title = "World Age", path = "wiki/world-age", description = "A precessional age treated as a chapter of human history." },
     { title = "Zodiac", path = "wiki/zodiac", description = "The constellation belt against which precession is measured." },
     { title = "Archaeoastronomy", path = "wiki/archaeoastronomy", description = "The discipline that reads ancient monuments against the precessional clock." },
+    { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "Reads Hamlet's Mill's thesis that precession was measured in deep antiquity and encoded in myth." },
 ]
 
 footnotes = [
@@ -77,7 +78,7 @@ key_external_references = "Santillana, Giorgio de, and Hertha von Dechend. *Haml
 
 The phenomenon was first identified empirically by the Greek astronomer **Hipparchus of Rhodes** (c. 190 – c. 120 BCE) in approximately 129–127 BCE, who compared his own positional measurements of the bright stars against the earlier measurements of **Timocharis of Alexandria** from approximately 283 BCE and noticed that the longitudes of the stars had shifted by approximately 2° relative to the equinox points across the intervening 150 years. Hipparchus's discovery established precession as a recognised astronomical phenomenon and provided the foundation for all subsequent astronomical work on the topic. The **Newtonian mechanical explanation** of precession as the gravitational torque exerted by the Sun and Moon on Earth's equatorial bulge was developed by Isaac Newton himself in the *Philosophiæ Naturalis Principia Mathematica* (1687), Book III, completing the transition from observational identification to causal physical explanation.
 
-The {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} framework reads precession not merely as an astronomical phenomenon but as **foundational chronological infrastructure** for the corpus's broader interpretive work. The precessional **Ages** provide the temporal framework within which the corpus dates the principal events of the {% wiki(slug="elohim") %}Elohim{% end %} project: the **Age of Virgo** (c. 15,330 – 13,170 BCE) for the *yom* 5 phase of Genesis 1; the **Age of Leo** (c. 13,170 – 11,010 BCE) for the *yom* 6 human-synthesis phase; the **Age of Cancer** (c. 11,010 – 8,850 BCE) for the post-deluge reorganisation; the **Age of Gemini** (c. 8,850 – 6,690 BCE) for the early Neolithic population developments; the **Age of Taurus** (c. 6,690 – 4,530 BCE) for the Sumerian, Egyptian, and broader bronze-age civilisations; the **Age of Aries** (c. 4,530 – 2,370 BCE, with the principal Hebrew prophetic events concentrated in the middle-to-late portion); the **Age of Pisces** (c. 1 CE – 2,160 CE) for the Christian era; the **Age of Aquarius** (c. 2,160 CE forward) for the contemporary recovery period. The cross-cultural mythological preservation of precessional content — developed substantively in **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time*** (Gambit, 1969){{ cite(id="hamlets-mill", text="[2]", title="Santillana & von Dechend, *Hamlet's Mill* (1969) — the foundational thesis on pre-Hipparchian mythological encoding of precession") }} — is treated by the framework as evidence for the pre-Hipparchian transmission of precessional astronomical knowledge through the broader source-tradition material that the corpus engages.
+The {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} framework reads precession not merely as an astronomical phenomenon but as **foundational chronological infrastructure** for the corpus's broader interpretive work. The precessional **Ages** provide the temporal framework within which the corpus dates the principal events of the {% wiki(slug="elohim") %}Elohim{% end %} project: the **Age of Virgo** (c. 13,170 – 11,010 BCE) for the *yom* 5 phase of Genesis 1; the **Age of Leo** (c. 11,010 – 8,850 BCE) for the *yom* 6 human-synthesis phase; the **Age of Cancer** (c. 8,850 – 6,690 BCE) for the *yom* 7 antediluvian period; the **Age of Gemini** (c. 6,690 – 4,530 BCE) for the *yom* 8 Flood; the **Age of Taurus** (c. 4,530 – 2,370 BCE) for the Sumerian, Egyptian, and broader bronze-age civilisations; the **Age of Aries** (c. 2,370 – 210 BCE, with the principal Hebrew prophetic events concentrated in the middle-to-late portion); the **Age of Pisces** (c. 210 BCE – 1950 CE) for the Christian era; the **Age of Aquarius** (c. 1950 CE forward) for the contemporary recovery period. The cross-cultural mythological preservation of precessional content — developed substantively in **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time*** (Gambit, 1969){{ cite(id="hamlets-mill", text="[2]", title="Santillana & von Dechend, *Hamlet's Mill* (1969) — the foundational thesis on pre-Hipparchian mythological encoding of precession") }} — is treated by the framework as evidence for the pre-Hipparchian transmission of precessional astronomical knowledge through the broader source-tradition material that the corpus engages.
 
 {{ diagram(name="precession", alt="Earth's tilted rotation axis sweeps a cone so the north celestial pole traces a circle through the fixed stars, passing Thuban, Polaris, and Vega.", caption="Axial precession. Earth's axis, tilted 23.4° from the ecliptic normal, sweeps a full cone once per **Great Year** (≈ 25,772 years). The north celestial pole traces a slow circle against the fixed stars — Thuban held the pole around 2800 BCE, Polaris marks it today, and Vega will around 13,700 CE.") }}
 
@@ -212,13 +213,13 @@ The shift of the vernal equinox point along the ecliptic at the precessional rat
 
 | Age | Approximate dates (corpus reckoning) | Approximate dates (alternative reckonings) |
 |---|---|---|
-| **Age of Leo** | c. 13,170 – 11,010 BCE | c. 10,500 – 8,000 BCE (varies) |
-| **Age of Cancer** | c. 11,010 – 8,850 BCE | c. 8,000 – 6,000 BCE |
-| **Age of Gemini** | c. 8,850 – 6,690 BCE | c. 6,000 – 4,000 BCE |
-| **Age of Taurus** | c. 6,690 – 4,530 BCE | c. 4,000 – 2,000 BCE |
-| **Age of Aries** | c. 4,530 – 2,370 BCE (or c. 2,065 BCE on alternative) | c. 2,000 – 0 BCE |
-| **Age of Pisces** | c. 1 CE – 2,160 CE | c. 0 – 2,000 CE |
-| **Age of Aquarius** | c. 2,160 CE onward | c. 2,000 CE onward |
+| **Age of Leo** | c. 11,010 – 8,850 BCE | c. 10,500 – 8,000 BCE (varies) |
+| **Age of Cancer** | c. 8,850 – 6,690 BCE | c. 8,000 – 6,000 BCE |
+| **Age of Gemini** | c. 6,690 – 4,530 BCE | c. 6,000 – 4,000 BCE |
+| **Age of Taurus** | c. 4,530 – 2,370 BCE | c. 4,000 – 2,000 BCE |
+| **Age of Aries** | c. 2,370 – 210 BCE | c. 2,000 – 0 BCE |
+| **Age of Pisces** | c. 210 BCE – 1950 CE | c. 0 – 2,000 CE |
+| **Age of Aquarius** | c. 1950 CE onward | c. 2,000 CE onward |
 
 The specific dating of the Age transitions varies substantially across different astrological-astronomical traditions, depending on the precise definition of constellation boundaries (which are not standardised in classical astrology), the choice of starting reference point, and the choice between modern astronomical and astrological-tradition rates. The framework's adopted reckoning (used consistently across the corpus's entries) places the Age boundaries at approximately the points indicated in the table above, with the understanding that the transitions are not sharply defined and that alternative reckonings produce ±200-year variations in the boundary dates.{{ footnote(id="5") }}
 
@@ -239,14 +240,14 @@ The framework's most basic use of precession is as the **chronological infrastru
 
 The corpus's broader work uses the precessional Ages to date the principal events:
 
-- The **Age of Virgo** (c. 15,330 – 13,170 BCE) for the *yom* 5 phase of Genesis 1 — the synthesis of the broader animal life on which humans subsequently depend
-- The **Age of Leo** (c. 13,170 – 11,010 BCE) for the *yom* 6 human-synthesis phase — the principal Adamite synthesis and the Eden phase
-- The **Age of Cancer** (c. 11,010 – 8,850 BCE) for the post-deluge reorganisation following the Younger Dryas-era catastrophic events
-- The **Age of Gemini** (c. 8,850 – 6,690 BCE) for the early Neolithic population developments and the broader Holocene climate stabilisation
-- The **Age of Taurus** (c. 6,690 – 4,530 BCE) for the Sumerian, Egyptian, and broader Bronze Age civilisations; the principal megalithic construction period
-- The **Age of Aries** (c. 4,530 – 2,370 BCE on the broader reckoning, or c. 2,065 BCE on the corpus's more specific Hebrew prophetic dating) for the principal Hebrew prophetic period — {% wiki(slug="abraham") %}Abraham{% end %} through Moses, the Exodus, the Sinai theophany, the Davidic monarchy, the prophetic tradition
-- The **Age of Pisces** (c. 1 CE – 2,160 CE) for the Christian era and the broader subsequent religious developments
-- The **Age of Aquarius** (c. 2,160 CE onward; the framework's reading places the contemporary period in the transition between Pisces and Aquarius, with the broader recovery treated as the **Age of {% wiki(slug="apocalypse") %}Apocalypse{% end %}**)
+- The **Age of Virgo** (c. 13,170 – 11,010 BCE) for the *yom* 5 phase of Genesis 1 — the synthesis of the broader animal life on which humans subsequently depend
+- The **Age of Leo** (c. 11,010 – 8,850 BCE) for the *yom* 6 human-synthesis phase — the principal Adamite synthesis and the Eden phase
+- The **Age of Cancer** (c. 8,850 – 6,690 BCE) for the *yom* 7 antediluvian period — the Eden expulsion, the Nephilim, and the rise of the pre-flood civilisation
+- The **Age of Gemini** (c. 6,690 – 4,530 BCE) for the *yom* 8 Flood, Noah's covenant, and the war in heaven
+- The **Age of Taurus** (c. 4,530 – 2,370 BCE) for the Sumerian, Egyptian, and broader Bronze Age civilisations; the principal megalithic construction period
+- The **Age of Aries** (c. 2,370 – 210 BCE) for the principal Hebrew prophetic period — {% wiki(slug="abraham") %}Abraham{% end %} through Moses, the Exodus, the Sinai theophany, the Davidic monarchy, the prophetic tradition
+- The **Age of Pisces** (c. 210 BCE – 1950 CE) for the Christian era and the broader subsequent religious developments
+- The **Age of Aquarius** (c. 1950 CE onward; the framework treats the broader contemporary recovery as the **Age of {% wiki(slug="apocalypse") %}Apocalypse{% end %}**)
 
 The dedicated [Age of Virgo](../timeline/age-of-virgo/), [Age of Leo](../timeline/age-of-leo/), [Age of Cancer](../timeline/age-of-cancer/), [Age of Gemini](../timeline/age-of-gemini/), [Age of Taurus](../timeline/age-of-taurus/), [Age of Aries](../timeline/age-of-aries/), [Age of Pisces](../timeline/age-of-pisces/), and [Age of Aquarius](../timeline/age-of-aquarius/) entries develop the specific content of each Age; the present entry establishes the broader precessional framework on which the individual Age entries depend.
 
@@ -331,7 +332,7 @@ The Precession entry surfaces several open questions for the framework's broader
 - **The specific Elohim use of precession.** The framework's reading of precession as potentially serving the Elohim as a navigation or chronological-calibration aid (per Biglino) is substantively open. The corpus's broader account does not commit to a specific operational use; future corpus work on the operational reading of the Elohim project may permit more developed positions.
 - **The precise dating of the Age transitions.** The framework's adopted reckoning produces approximate boundary dates with ±200-year uncertainty due to the methodological choices involved. Future corpus work on the alignment between the framework's reckoning and the specific source-tradition chronological content may permit more precise dating.
 - **The relationship to the Vedic *yuga* cycles.** The Vedic *yuga* cycles (the *manvantaras*, the *Kali Yuga* / *Dwapara Yuga* / *Treta Yuga* / *Satya Yuga* sequence, the broader *Mahayuga* of 4.32 million years) are substantially longer than the precessional cycle. Whether the shorter Vedic subdivisions preserve precessional content, and what the relationship is between the precessional and *yuga* cosmological frameworks, is treated as open.
-- **The contemporary transition into the Age of Aquarius.** The framework's adopted reckoning places the contemporary period in transition between Pisces and Aquarius, with the precise transition date treated as open. Different astrological-astronomical traditions place this transition variously between approximately 1900 CE and 2700 CE; the framework's adopted reading uses c. 2,160 CE but treats this as approximate.
+- **The contemporary transition into the Age of Aquarius.** The framework places the Pisces-to-Aquarius boundary at 1950 CE, following the canon's operational dating of the era of Aquarius (anchored to 1946). Different astrological-astronomical traditions place the transition variously between approximately 1900 CE and 2700 CE (the sidereal boundary on the IAU constellation limits falls around AD 2597); the framework treats the boundary as a convention rather than a sharp astronomical line, as discussed in the {% wiki(slug="great-year") %}Great Year{% end %} entry.
 
 ## See also
 

@@ -18,6 +18,7 @@ image_avif = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bring
 image_alt = "AI-generated editorial portrait of Lucifer as the Light-Bringer, an Eloha faction leader with long hair and a green-gold luminosity."
 image_caption = "Interpretive portrait for the Lucifer wiki entry and library personality metadata."
 see_also = [
+    { title = "Are Lucifer and Satan the Same?", path = "articles/lucifer-and-satan", description = "The head-to-head reading distinguishing Lucifer from Satan as opposite factions." },
     { title = "Serpent", path = "wiki/serpent", description = "Lucifer in his specific Genesis 3 Eden-disclosure role." },
     { title = "Yahweh", path = "wiki/yahweh", description = "The Israel-team leader and alliance moderate; Lucifer's former colleague and post-Eden political opponent." },
     { title = "Satan", path = "wiki/satan", description = "A separate Elohim figure leading the home-world abolitionist faction — politically opposite to Lucifer, not identical." },

@@ -18,6 +18,7 @@ see_also = [
     { title = "Apocalypse", path = "wiki/apocalypse", description = "The broader unveiling event distinguished from the inheritance-evaluation this framework describes." },
     { title = "Great Flood", path = "wiki/great-flood", description = "A prior threshold-failure moment in the alliance's evaluation of Earth's humanity." },
     { title = "Embassy", path = "wiki/embassy", description = "The reception site whose construction marks Earth qualifying for the inheritance." },
+    { title = "The Shape of Humanity", path = "articles/the-shape-of-humanity", description = "The Explainer that builds the multiple-humanities framework into a proposed science — civilizational morphology — reading Earth as one specimen among many." },
 ]
 
 [extra.infobox]

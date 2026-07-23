@@ -668,8 +668,6 @@ The framework's distinctive contribution within this broader comparative landsca
 
 ## See also
 
-- [Monotheism](../monotheism/)
-- [Idolatry](../idolatry/)
 - [Elohim](../elohim/)
 - [Yahweh](../yahweh/)
 - [Cosmic Chain](../cosmic-chain/)
@@ -694,7 +692,6 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Mauro Biglino](../mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 - [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the redaction / monotheizing-edit argument)
-- [Monotheism Is the Wrong Question](/articles/monotheism-is-the-wrong-question/)
 
 ## References
 

@@ -2,8 +2,8 @@
 title = "The Mill That Grinds the Ages"
 description = "How the turning of the world ages was written into myth — Hamlet's Mill, the zodiac's twelve hours, the Hebrew Mazzaroth, and the oldest sign of good luck."
 template = "articles-page.html"
-date = 2026-07-05
-draft = true
+date = 2026-07-18
+draft = false
 
 [extra]
 claim_type = "inferred"

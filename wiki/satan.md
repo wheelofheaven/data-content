@@ -19,6 +19,7 @@ image_alt = "AI-generated editorial portrait of Satan as the Adversary, an Eloha
 image_caption = "Interpretive portrait for the Satan wiki entry and library personality metadata."
 
 see_also = [
+    { title = "Are Lucifer and Satan the Same?", path = "articles/lucifer-and-satan", description = "Why Lucifer and Satan are distinct — and politically opposite — not one Devil." },
     { title = "Lucifer", path = "/wiki/lucifer/", description = "The Earth-based exiled-creator faction leader; the Eden disclosure agent; distinguished from Satan in the corpus's four-figure taxonomy." },
     { title = "Serpent", path = "/wiki/serpent/", description = "The Lucifer faction collectively in the Eden-disclosure role; distinguished from Satan." },
     { title = "Yahweh", path = "/wiki/yahweh/", description = "The Council majority leader whose post-flood vote Satan accepted while continuing principled opposition." },

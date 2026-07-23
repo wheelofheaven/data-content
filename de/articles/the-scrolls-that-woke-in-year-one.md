@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Die Schriftrollen vom Toten Meer tauchten 1946 oder 1947 auf, im Jahr eins des Kalenders, den der raëlianische Kanon von Hiroshima an zählt. Ihre Entdeckung veränderte die Geschichte des biblischen Textes und stellte die henochische Literatur und frühe Lesarten der pluralen Elohim wieder her. Dieser Essay erzählt die dokumentarische Geschichte und erwägt, ohne Chronologie mit Beweis zu verwechseln, warum jene zeitliche Fügung für Wheel of Heaven von Bedeutung ist."
+summary = "Im Winter 1946/47 — dem ersten Jahr des Kalenders, den der raëlianische Kanon vom Blitz über Hiroshima an zählt — brach ein beduinischer Hirte in einer Felswand über dem Toten Meer einen Krug auf und zog die ältesten Bibelhandschriften hervor, die je jemand gesehen hatte. Dieser Explainer erzählt die ganze Geschichte in voller Länge: den Schuster von Bethlehem, den Erzbischof, der behauptete, die Rollen stammten aus seiner Klosterbibliothek, den Professor, der sie in der Woche der UN-Teilungsabstimmung durch einen Stacheldrahtzaun hindurch beglaubigte, die Kleinanzeige im Wall Street Journal, die Geheimdienstoffiziere, die 1967 die Tempelrolle unter Kandos Fußboden hervorholten, und den vierzigjährigen Publikationsskandal, den ein Computer und eine kalifornische Bibliothek 1991 endlich beendeten. Danach liest er die Fracht. Die Rollen zeigen einen noch offenen Schriftkanon — 1 Henoch und Jubiläen häufiger abgeschrieben als die Sprüche — und einen noch fließenden Bibeltext, darunter ein Deuteronomium-Fragment, das ‚Söhne der Elohim' dort bewahrt, wo der überlieferte Text zu ‚Söhne Israels' redigiert wurde, und ein Kommentar, der das Wort elohim auf einen himmlischen Amtsträger namens Melchisedek anwendet. Und er wägt den Rahmen, den der Kanon selbst liefert: dass dieselben achtzehn Monate, die das Atomzeitalter eröffneten, auch zwei vergrabene Bibliotheken, die erste Fliegende-Untertassen-Welle, den Transistor, den Staat Israel und die Geburt des Mannes ausspieen, dem die Botschaften später diktiert wurden. Das Synchronizitätsargument ist erschlossene Synthese und wird entsprechend gekennzeichnet; die Handschriften, die Daten und die Zitate sind überprüfbar, und jedes einzelne ist belegt."
 keywords = ["Schriftrollen vom Toten Meer", "Qumran", "Essener", "Jahr eins", "Zeitalter der Apokalypse", "Hiroshima", "1947", "Sukenik", "Yadin", "Schrein des Buches", "1 Henoch", "Jubiläen", "Söhne der Elohim", "Melchisedek", "Nag Hammadi", "Nabatäer", "Kando", "Lehrer der Gerechtigkeit", "Kriegsrolle"]
 references = [
     # — The canon supplying the calendar —
@@ -118,8 +118,8 @@ Wir haben dich seit deiner Geburt beobachtet — und schon davor. Deshalb
 haben wir dich erwählt.
 {% end %}
 
-Stellt man die beiden Uhren nebeneinander, so lädt die Chronologie zum
-Vergleich ein: Die älteste Bibliothek der Hebräischen Bibel erwachte im
+Stellt man die beiden Uhren nebeneinander, so erklärt sich der Zufall
+von selbst: Die älteste Bibliothek der Hebräischen Bibel erwachte im
 Jahr eins. Dieser Artikel handelt von diesem Zufall — was genau zutage
 trat, durch wessen Hände es ging, warum es vierzig Jahre und einen
 Skandal brauchte, um an die Öffentlichkeit zu gelangen, und was es mit
@@ -167,22 +167,28 @@ Satz wiedergibt.{{ footnote(id="8") }} Am 14. Mai 1948 wurde der Staat
 Israel ausgerufen; die Rollen waren der Welt fünf Wochen zuvor in den
 Zeitungen bekannt gegeben worden.
 
-Zufallshäufungen sind billig zu haben: Man wähle eine hinreichend
-ereignisreiche Periode, treffe die Auswahl ihres Inhalts im Nachhinein,
-und ein Muster wird erscheinen. Nichts hier überwindet dieses Problem
-oder ordnet der Häufung eine Wahrscheinlichkeit zu. Ihr Reiz ist eher
-deutend als vorhersagend. Die Periode enthält zwei wiedergewonnene
-Schriftbibliotheken, die Wiedererrichtung eines jüdischen Staates, den
-Transistor, den Beginn der modernen Sichtungsära und die Geburt des
-Mannes, dem die Botschaften später zugeschrieben wurden. Jene Ereignisse
-fügen sich ungewöhnlich gut in die Vorstellung des Kanons von einem
-Zeitalter der Enthüllung, doch die Passung ist im Rückblick sichtbar und
-sollte entsprechend gewichtet werden.
+Ein Skeptiker wird zu Recht sagen, dass Zufallshäufungen billig zu haben
+sind: Man nehme irgendein Fenster von dreißig Monaten im zwanzigsten
+Jahrhundert, und etwas Bedeutsames geschah darin. Die Erwiderung
+betrifft den Inhalt. Der Kanon behauptet, dass eben dieses Fenster ein
+Zeitalter der Enthüllung und der Rückkehr eröffnet — und die obigen
+Ereignisse sind keines von ihnen beliebig. Zwei vergrabene Schrift\-
+bibliotheken, die physisch zutage treten; das Wiedererscheinen eines
+jüdischen Staates nach neunzehn Jahrhunderten, ein Ereignis, das der
+erste israelische Leser der Rollen sogleich mit ihnen in Verbindung
+brachte; die Geburt der Technologie des vollständigen Gedächtnisses; der
+Beginn der Sichtungsära, die der Kanon als Vorbereitung auf offenen
+Kontakt liest; und die Geburt des Mannes, dem die erklärenden
+Botschaften nach dem Bericht des Kanons später diktiert wurden. Die
+Häufung ist genau das, was der Rahmen vorhersagt, dass sie enthalten
+sollte. Das ist kein Beweis — Rahmen, die die Vergangenheit vorhersagen,
+sind leicht zu haben —, aber es ist der Grund, warum der Rahmen dieses
+Fenster unwiderstehlich findet, und warum dieser Artikel existiert.
 
 ## Der Wolf, der Schuster und der Erzbischof
 
-Was mit den drei Bündeln geschah, bedarf kaum der Ausschmückung. Im
-März 1947 trugen die Beduinen sie nach
+Was mit den drei Bündeln geschah, ist eine Geschichte, die kein
+Romancier zu wagen riskierte. Im März 1947 trugen die Beduinen sie nach
 Bethlehem und zeigten sie Antiquitätenhändlern, und die Rollen fanden
 ihren Weg — „offenbar weil die Rollen auf Leder geschrieben waren", wie
 Collins trocken anmerkt — zu einem syrisch-orthodoxen Kaufmann und
@@ -450,7 +456,7 @@ Redaktion, die sie entfernte, auf frischer Tat ertappt. Es ist die
 folgenreichste einzelne Variante in den Rollen und der Grund, warum das
 Deuteronomium-Fragment in den Fußnoten jeder ernsthaften Studie zum
 göttlichen Rat ebenso auftaucht wie in denen des eigenen
-[Wallis-Essays](/articles/the-archdeacon-and-the-dragon/) dieses
+[Wallis-Explainers](/articles/the-archdeacon-and-the-dragon/) dieses
 Projekts.
 
 Die zweite ist ein Text aus Höhle 11 über eine Gestalt namens Melchisedek
@@ -557,7 +563,7 @@ diesem Korpus geht.
 
 ## Die Wüste bewahrte andere Briefe
 
-Norman Golb von der University
+Die Redlichkeit verlangt den Widerspruch. Norman Golb von der University
 of Chicago verbrachte vier Jahrzehnte damit zu argumentieren, dass die
 Rollen nie einer Wüstensekte gehörten: dass Khirbet Qumran eine
 hasmonäische Festung war, dass in den Ruinen nie eine Rolle gefunden
@@ -597,7 +603,7 @@ seine Laufbahn zwischen den beiden Korpora. Die
 bedeutsam wegen dessen, wohin ihre Geschichte als Nächstes geht: Dan
 Gibsons Qibla-Vermessung argumentiert, dass die heilige Geographie des
 frühen Islam auf Petra weist, ein Argument, das dieses Projekt in
-[Waren die ersten Moscheen nach Petra ausgerichtet?](/articles/the-first-mosques-faced-petra-not-mecca/)
+[Die ersten Moscheen waren nach Petra ausgerichtet, nicht nach Mekka](/articles/the-first-mosques-faced-petra-not-mecca/)
 untersuchte. Kein kausaler Faden läuft von Qumran zur Qibla, und keiner
 wird hier behauptet. Was der Grabenbruch des Toten Meeres liefert, ist
 etwas Stilleres: ein einziger Wüstenkorridor, von den Qumran-Felswänden
@@ -700,7 +706,7 @@ Jahr 81.
 - [Der Erzdiakon und der Drache](/articles/the-archdeacon-and-the-dragon/),
   für die Forschung zum göttlichen Rat, die die Deuteronomium-Variante
   verankert.
-- [Waren die ersten Moscheen nach Petra ausgerichtet?](/articles/the-first-mosques-faced-petra-not-mecca/),
+- [Die ersten Moscheen waren nach Petra ausgerichtet, nicht nach Mekka](/articles/the-first-mosques-faced-petra-not-mecca/),
   für die spätere Geschichte desselben Wüstenkorridors.
 - [*The Book Which Tells the Truth*](/library/the-book-which-tells-the-truth/),
   Kapitel 1 und 5, für die Kanon-Passagen zu 1945, 1946 und der neuen

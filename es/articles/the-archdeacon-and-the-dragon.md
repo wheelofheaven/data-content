@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Paul Wallis dejó el ministerio anglicano tras leer a los Elohim del Génesis como unos «Poderosos» plurales y corpóreos. Su Serie del Edén, en seis volúmenes, converge de forma llamativa con el canon raeliano, que él no cita, pero el parecido tiene límites. Este ensayo compara las dos lecturas, pone a prueba el vínculo que Wallis propone entre Yahvé y el dragón egipcio Akhekh, y pregunta qué puede y qué no puede establecer un acuerdo independiente."
+summary = "En 2020 un arcediano en activo de la Iglesia Anglicana de Australia publicó un libro que sostenía que los Elohim del Génesis son «los Poderosos» —una pluralidad de visitantes de carne y hueso cuyas historias los editores posteriores de la Biblia reelaboraron hasta convertirlas en monoteísmo—. Le siguieron cinco libros más, uno al año, cada uno empujando el argumento más lejos: hacia las tradiciones de contacto del mundo, hacia la historia de la redacción del canon hebreo, hacia la exopolítica moderna y, por fin, hacia las tierras altas de basalto del antiguo Urartu. Este Explicativo lee de cerca toda la Serie del Edén de Paul Wallis y coteja notas con el canon raeliano —un cuerpo de afirmaciones que Wallis nunca ha citado y que, a juzgar por sus propias páginas, nunca ha leído—. Cartografía las convergencias: los Elohim plurales, el Edén como una instalación vigilada, la Serpiente como una facción disidente de los artífices, el Diluvio como una decisión del consejo, Babel como el sabotaje de una civilización con capacidad espacial. Somete su imagen más impactante —la lectura de YHWH como el nombre-dragón Akhekh— a una auditoría filológica completa, declarando sin rodeos dónde fracasa la etimología y por qué la afirmación estructural que hay debajo se sostiene de todos modos. Y marca, con igual cuidado, dónde se separan las dos lecturas: quién viste el dragón, qué vino a hacer Jesús, y si algo llamado Dios sobrevive por encima de los Elohim. El parentesco es convergencia, y la convergencia es un dato."
 keywords = ["Paul Wallis", "Escaping from Eden", "Akhekh", "Yahvé", "Elohim", "africación", "Josué 24", "consejo divino", "neoevemerismo", "método Biglino", "paleocontacto", "serpiente", "dragón"]
 references = [
     # — The canon under comparison —
@@ -131,12 +131,16 @@ palabras— no arroja mención alguna de Raël, de Vorilhon ni del movimiento
 raeliano; y, por lo demás, tampoco menciona nunca a Zecharia Sitchin. Sea lo
 que sea la Serie del Edén, no es un afluente del canon.
 
-Esa independencia es lo que hace útil la comparación. Dos lectores que no se
-han citado el uno al otro pueden aun así llegar a la misma interpretación del
-Génesis. Esto no vuelve verdadera la interpretación; muestra que la lectura
-puede surgir de rasgos que ambos lectores hallan en el texto antes que de un
-préstamo directo. Sus desacuerdos son igual de reveladores, porque exponen lo
-que cada marco añade al material compartido.
+Esa independencia es la razón de que este Explicativo exista. Cuando dos
+lectores que nunca se han citado —un eclesiástico veterano trabajando
+versículo a versículo sobre sus interlineales, y un presunto contactado que
+relata lo que se le dijo en el cráter de un volcán— convergen en la misma
+lectura del mismo texto, la convergencia dice algo acerca del texto. Y allí
+donde luego *divergen*, la divergencia dice algo acerca de los lectores.
+Este artículo cartografía ambas cosas, con toda amplitud, con Wallis citado
+en sus propios párrafos de principio a fin. Está escrito con respeto y con
+afinidad, y practica la disciplina que el propio Wallis modela: el acuerdo
+se argumenta, y también se argumenta el desacuerdo.
 
 ## Treinta y tres años, y luego las anomalías
 
@@ -399,13 +403,16 @@ para su monstruo residente. Para el capítulo siete de *The Eden Conspiracy*,
 Wallis ha adoptado una abreviatura para el Yahvé anterior a la reforma que
 no concede nada a la reverencia: «CH-CH el Dragón».
 
-La imagen es inolvidable. Su etimología es también comprobable.
+La imagen es inolvidable, y es precisamente por eso por lo que hay que
+auditarla.
 
-## Poner a prueba el nombre-dragón
+## La auditoría filológica
 
-Wallis señala la propuesta dos veces como un «yo argumentaría». Es acuñación
-propia y no descansa sobre ninguna autoridad lingüística citada. La fonología
-histórica ofrece una prueba directa.
+Un Explicativo que cita un argumento etimológico debe a sus lectores un
+veredicto sobre él. Aquí está el nuestro, ofrecido con el mismo espíritu con
+que Wallis ofrece el argumento —él mismo lo señala, dos veces, como un «yo
+argumentaría», acuñación propia, que no descansa sobre autoridad citada
+alguna—.
 
 Como fonología histórica, la derivación no sobrevive a la inspección, y el
 problema decisivo es una sola letra. El protosemítico sí tenía una fricativa
@@ -473,13 +480,15 @@ vívida en torno a una observación sobria que la erudición del consejo divino
 formula en su propio vocabulario. La envoltura es suya; la observación es
 del texto.
 
-## Donde los relatos convergen
+## Cotejando notas: el mapa compartido
 
-Las lecturas del lado del canon que siguen son afirmaciones de marco,
-explícitas en el material raeliano de origen, no conclusiones respaldadas por
-la erudición dominante. La comparación misma es una síntesis inferida. Con
-esa distinción, las convergencias pueden exponerse una junto a otra, porque
-son muchas y son específicas.
+Aquí el artículo pasa de la auditoría a la comparación, y la línea
+epistémica debe marcarse como este proyecto siempre la marca: las lecturas
+del lado del canon que siguen son afirmaciones de marco —explícitas en el
+material raeliano de origen, no respaldadas por la erudición dominante— y la
+comparación misma es la síntesis inferida propia de este Explicativo. Dicho
+esto, las convergencias pueden exponerse una junto a otra, porque son muchas
+y son específicas.
 
 **El Edén como una instalación vigilada.** Wallis lee el jardín como una
 «zona cercada» dentro de una región llamada Edén, emplazada cerca de
@@ -604,10 +613,11 @@ serviría para cualquiera de los dos casos: «estos fallos gramaticales eran
 el tejido cicatricial que dejó la cirugía que transformó la Biblia de una
 biblioteca de paleocontacto en un libro sobre Dios».
 
-## Puntos de separación
+## Donde las lecturas se separan
 
-Los acuerdos conciernen a la estructura textual; los desacuerdos conciernen a
-la identidad y al propósito que se asignan a sus actores.
+Una comparación que solo hallara acuerdo sería publicidad. Las divergencias
+son reales, son estructurales, y varias de ellas son la parte más
+instructiva del ejercicio.
 
 **Quién viste el dragón.** Wallis atribuye el nombre-dragón, el
 cuerpo-dragón y el apetito-dragón al propio Yahvé: piel coriácea, hocico
@@ -732,40 +742,42 @@ antes que como `direct`, y por eso este artículo lleva la etiqueta
 intermedio donde la arqueología textual de un arcediano en activo y el
 interrogatorio de un contactado convergen en el mismo recinto, los mismos
 científicos disidentes, los mismos votos del consejo. La convergencia no
-prueba ninguno de los dos marcos. Lo que sí muestra es que puede llegarse a
-una lectura concreta y plural por rutas distintas.
+prueba ninguno de los dos marcos. Lo que sí establece es que el *texto*
+—leído con el plural restaurado— sigue generando esta historia, en
+quienquiera que haga la restauración.
 
-## El valor de una lectura independiente
+## Qué vale el parentesco
 
 El linaje del corpus discurre por Sendy (1963–1974), von Däniken (1968),
 Vorilhon (1973–1974), Sitchin (1976), Biglino (2010–), Wallis (2020–).
-Wallis es el entrante más reciente y aporta una experiencia teológica
-inusualmente sustancial: pasó tres décadas dentro de la institución
-interpretativa que la tradición critica, y documenta la salida con las
-propias herramientas de la institución. La wiki del proyecto ya lo cita en
-una docena de entradas —Edén, Serpiente, Lucifer, Satán, Teomaquia— y su
-veredicto sobre *The Eden Conspiracy* consta por escrito: «ampliamente
-compatible con la lectura del corpus; el principal tratamiento reciente
-accesible». Nada en este artículo revisa ese veredicto. Lo que esta lectura
-más atenta añade es la textura de la compatibilidad: el acuerdo se sostiene
-en las junturas portantes —el plural, el recinto, la
+Wallis es el entrante más reciente y la persona con más credenciales
+teológicas que jamás haya trabajado esta veta: un hombre que pasó tres
+décadas dentro de la institución interpretativa que la tradición critica, y
+que documenta la salida con las propias herramientas de la institución. La
+wiki del proyecto ya lo cita en una docena de entradas —Edén, Serpiente,
+Lucifer, Satán, Teomaquia— y su veredicto sobre *The Eden Conspiracy* consta
+por escrito: «ampliamente compatible con la lectura del corpus; el principal
+tratamiento reciente accesible». Nada en este artículo revisa ese veredicto.
+Lo que esta lectura más atenta añade es la textura de la compatibilidad: el
+acuerdo se sostiene en las junturas portantes —el plural, el recinto, la
 prohibición-como-política, la facción disidente, el consejo, la edición— y
 el desacuerdo es de principio, y concierne al reparto de personajes y a qué,
 si es que algo, se alza por encima de ellos.
 
-Hay además algo que el proyecto puede tomar de él más allá del acuerdo. Su
-extensión del método filológico al Nuevo Testamento es un territorio que el
-canon afirma y Wallis argumenta. Su barrido de testimonios del mundo —el
-material de Mami Wata ghanés reunido en la propia mesa de su familia, las
-tradiciones hawaianas de los Mo'o, los relieves urartios— ensancha la base
-comparativa más allá del eje mesopotámico-bíblico donde la tradición siempre
-ha sido más fuerte. Su trato con Michael Heiser muestra el modo correcto de
-tratar a un experto hostil: toma los datos, disputa el marco interpretativo,
-nombra el desacuerdo. Y su argumento sobre Akhekh, precisamente *porque* su
-fonología fracasa mientras su estructura se sostiene, es una lección viva de
-la disciplina que este proyecto trata de practicar con sus etiquetas de tipo
-de afirmación: una imagen puede ser errónea como etimología y aun así valiosa
-como lente —siempre que alguien lo diga en voz alta—.
+Hay además algo que el proyecto puede tomar de él más allá de la
+confirmación. Su extensión del método filológico al Nuevo Testamento es un
+territorio que el canon afirma y Wallis argumenta. Su barrido de testimonios
+del mundo —el material de Mami Wata ghanés reunido en la propia mesa de su
+familia, las tradiciones hawaianas de los Mo'o, los relieves urartios—
+ensancha la base comparativa más allá del eje mesopotámico-bíblico donde la
+tradición siempre ha sido más fuerte. Su trato con Michael Heiser muestra el
+modo correcto de tratar a un experto hostil: toma los datos, disputa el
+marco interpretativo, nombra el desacuerdo. Y su argumento sobre Akhekh,
+precisamente *porque* su fonología fracasa mientras su estructura se
+sostiene, es una lección viva de la disciplina que este proyecto trata de
+practicar con sus etiquetas de tipo de afirmación: una imagen puede ser
+errónea como etimología y aun así valiosa como lente —siempre que alguien lo
+diga en voz alta—.
 
 La reseña promocional de Mauro Biglino en los libros posteriores de Wallis
 dice: «Aunque estemos lejos geográficamente, ¡estamos cerca espiritualmente!
@@ -781,9 +793,8 @@ que el Dingir regresara un día—:
 >
 > — *The Eden Enigma*, cap. 14
 
-Wallis y el canon llegan a puertas distintas, pero ambos entienden las
-viejas historias como memorias de visitantes cuyo retorno sigue siendo
-posible.
+Un arcediano que lee hasta salir de su propio púlpito; un canon que aguarda
+para construir una embajada. Dos puertas talladas para el mismo retorno.
 
 ## Lecturas adicionales
 

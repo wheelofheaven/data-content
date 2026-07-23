@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Mauro Biglino a traduit dix-sept livres de la Bible hébraïque pour un grand éditeur catholique avant d'appliquer sa méthode délibérément littérale aux Élohim, à Yahvé, au *kavod* et au *ruach*. Cet essai met à l'épreuve les endroits où ses lectures reposent sur une philologie admise, ceux où elles demeurent débattues, et ceux où elles bondissent au-delà du lexique. Il examine aussi l'apparition, par ailleurs silencieuse, des textes de Raël dans les premières bibliographies de Biglino."
+summary = "Pendant près de deux décennies, un érudit effacé de la vallée de Suse a traduit la Bible hébraïque, mot sous mot, pour les Edizioni San Paolo — la maison d'édition catholique dont les éditions interlinéaires garnissent les bibliothèques de séminaire dans toute l'Italie. Dix-neuf livres du texte massorétique sont passés entre ses mains ; dix-sept furent publiés ; les deux derniers furent payés puis discrètement remisés, car Mauro Biglino avait entre-temps écrit un livre bien à lui. Cet Explicatif lit de près tout le corpus de Biglino — le livre fondateur de 2010, *Il Dio Alieno della Bibbia*, *La Bibbia non è un libro sacro*, la collaboration Mondadori avec la juriste Lorena Forni, l'entretien-livre *The Naked Bible*, et la synthèse anglaise *Gods of the Bible* — et confronte ses notes avec le canon raélien. Il suit sa méthode (le pari qu'il nomme « facciamo finta che » — faire comme si le texte était vrai, et vérifier si la cohérence en résulte), son lexique du concret (les Élohim comme individus pluriels, le kavod comme chose lourde et volante, le tselem comme le quid matériel qui porte une image, l'olam comme longue durée plutôt qu'éternité, les dieux mourants du Psaume 82), et il vérifie honnêtement la philologie : où il repose sur le roc, où il se tient au cœur d'un débat savant vivant, et où la lecture fait un saut. Il traite aussi, avec soin, une donnée que la comparaison avec Wallis ne pouvait offrir : les bibliographies des premiers livres de Biglino citent, en silence, les textes de Raël entre les sumérologues. La parenté est profonde, les divergences sont structurelles — surtout sur le rang de Yahvé et la personne de Jésus — et l'article marque les deux avec la discipline qu'il exige de son sujet."
 keywords = ["Mauro Biglino", "Élohim", "Yahvé", "kavod", "ruach", "tselem", "olam", "Psaume 82", "Deutéronome 32", "Edizioni San Paolo", "facciamo finta che", "méthode Biglino", "The Naked Bible", "Gods of the Bible", "Giorgio Cattaneo", "Lorena Forni", "Paul Wallis", "néo-évhémérisme", "paléocontact"]
 references = [
     # — The canon under comparison —
@@ -140,7 +140,7 @@ Cattaneo appelle un phénomène d'édition : des centaines de milliers
 d'exemplaires vendus, des millions de vues, des théâtres et des salles de
 conférence remplis par *« un homme timide, réservé, sombre, et amoureux
 des silences de ses montagnes »*. Avec l'ancien archidiacre Paul Wallis —
-dont ce projet a lu de près la Série d'Éden dans [un essai
+dont ce projet a lu de près la Série d'Éden dans [un Explicatif
 frère](/articles/the-archdeacon-and-the-dragon/) — Biglino est l'une des
 deux voix vivantes les plus conséquentes de la tradition que ce projet
 nomme {% wiki(slug="neo-euhemerism") %}néo-évhémérisme{% end %}, et le
@@ -447,47 +447,48 @@ suzerain dont les termes effectivement écrits en
 ordres opérationnels jusqu'au chevreau bouilli dans le lait — ne
 ressemblent guère aux deux tables de la mémoire catéchistique.
 
-## Où le lexique tient, et où il rompt
+## L'audit
 
-Les prétentions lexicales de Biglino ne portent pas toutes le même poids.
-Elles se divisent en trois zones : observations établies, disputes savantes
-vivantes, et identifications technologiques que le seul hébreu ne peut
-étayer.
+Un Explicatif qui cite un corpus étymologique doit à ses lecteurs un
+verdict sur celui-ci, et Biglino en a mérité un vrai — non le
+laissez-passer d'un allié, ni le ricanement que lui adressent des
+recenseurs qui ont lu sa réputation plutôt que ses livres. Son terrain se
+divise en trois zones.
 
-**Les éléments établis.** La forme plurielle d'*elohim* ; les verbes et
-pronoms pluriels qui s'y accrochent aux jointures porteuses ; les scènes du
-conseil divin ; la leçon de Qumrân sur Deutéronome 32,8 ; le sens racinaire
-de *kavod* comme lourdeur ; les sens premiers concrets de *ruach* ;
-l'éventail sémantique d'*olam* comme durée plutôt qu'éternité philosophique ;
-et le développement du monothéisme israélite à partir d'une pluralité divine
-antérieure disposent tous d'un soutien savant substantiel. Cela ne signifie
-pas que l'université accepte l'interprétation combinée de Biglino. Les
-lexiques établissent des éventails sémantiques, non les référents
-technologiques qu'il fournit ensuite. Ses citations de Rachi, des
-lexicographes rabbiniques et d'interlocuteurs juifs sont précieuses pour les
-points lexicaux mais ne peuvent ratifier la reconstruction plus vaste. Sa
-co-autrice Lorena Forni résume plus largement la littérature critique : les
+**Le roc.** La pluralité grammaticale d'*elohim* ; les verbes et pronoms
+pluriels qui s'y accrochent aux jointures porteuses ; les scènes du
+conseil divin ; la leçon de Qumrân sur Deutéronome 32,8 ; le sens
+racinaire de *kavod* comme lourdeur ; les sens premiers concrets de
+*ruach* ; l'éventail sémantique d'*olam* comme durée plutôt qu'éternité
+philosophique ; la consolidation tardive du monothéisme à partir d'un
+culte pluriel antérieur — sur chacun de ces points, Biglino se tient là où
+se tiennent les lexiques et un corps substantiel d'érudition dominante.
+Son habitude de citer des autorités juives — Rachi, les lexicographes
+rabbiniques, les grands rabbins qui partagent ses tribunes — n'est pas un
+ornement ; sur ces points, la propre philologie de la tradition est son
+témoin. Lorsque sa co-autrice Lorena Forni, professeure de philosophie du
+droit, passa en revue la littérature critique, son bilan fut que les
 détracteurs de Biglino ont qualifié son travail de vulgarisateur,
 provocateur, excessif — *« ma nessuno ha potuto sostenere che le sue
-traduzioni e le proposte di analisi del testo masoretico fossero errate, in
-malafede, o false »* — mais personne n'a pu soutenir que ses traductions et
-ses propositions d'analyse du texte massorétique fussent erronées, de
-mauvaise foi, ou fausses. C'est là l'appréciation d'une avocate, non un
-substitut à l'examen de chaque traduction disputée.
+traduzioni e le proposte di analisi del testo masoretico fossero errate,
+in malafede, o false »* — mais que personne n'a pu soutenir que ses
+traductions et ses propositions d'analyse du texte massorétique fussent
+erronées, de mauvaise foi, ou fausses.
 
-**Le débat vivant.** Son argument selon lequel *bara* n'a pas besoin de
-dénoter une création à partir de rien court parallèle à une véritable
-proposition savante{{ footnote(id="7") }}, quoique cette proposition
-n'entraîne pas toute la lecture de Biglino. Sa datation de la rédaction
-monothéisante aux siècles de l'exil et de l'après-exil est, dans ses grandes
-lignes, la position dominante. Son insistance sur le fait que le « péché
-originel » est absent de la Bible hébraïque en est une que des érudits
-catholiques, vaudois et juifs lui concédèrent en face, sur scène, lors d'un
-symposium à Milan en 2016 — dont il sera question plus loin.
+**Le débat vivant.** Son argument selon lequel *bara* ne dénote jamais une
+création à partir de rien — il en examine toutes les occurrences et trouve
+des actes opérés sur une matière préexistante, découper, dégager, rendre
+habitable — court parallèle à une véritable proposition savante{{ footnote(id="7") }},
+contestée dans les revues plutôt que raillée. Sa datation de la rédaction
+monothéisante aux siècles de l'exil et de l'après-exil est, dans ses
+grandes lignes, la position dominante. Son insistance sur le fait que le
+« péché originel » est absent de la Bible hébraïque en est une que des
+érudits catholiques, vaudois et juifs lui concédèrent en face, sur scène,
+lors d'un symposium à Milan en 2016 — dont il sera question plus loin.
 
-**Les sauts.** Plusieurs lectures devancent le lexique. *Tselem* comme ADN
-est le cas le plus net : le « quelque chose de découpé » des dictionnaires
-relève de la
+**Les sauts.** Et puis il y a les lectures où le pari devance le lexique,
+et l'honnêteté exige de le dire. *Tselem* comme ADN est le cas le plus
+net : le « quelque chose de découpé » des dictionnaires relève de la
 sémantique des images taillées, et la lecture dominante — l'homme comme
 statue vivante du dieu, langage de l'idéologie royale démocratisé — rend
 compte de la même concrétude sans la molécule. Le pas vers l'ADN n'est pas
@@ -505,12 +506,13 @@ comme Orion, d'où les Nephilim comme « Orioniens ? », offert avec un point
 d'interrogation et retiré dans le même paragraphe comme *« simple
 curiosité »*. Un lecteur qui veut réfuter Biglino trouvera ces sauts cités
 sans leurs mises en garde ; un lecteur qui veut le canoniser citera les
-mises en garde sans les sauts. Le dossier contient les deux. Une lecture
-juste doit maintenir les observations lexicales distinctes des
-identifications technologiques bâties sur elles.
+mises en garde sans les sauts. Le dossier contient les deux, et la méthode
+survit à l'audit précisément parce que son auteur maintient les deux
+registres distincts — la propre discipline de type-de-prétention du
+corpus, rencontrée à l'état sauvage.
 
-Le premier livre de Biglino
-s'appuyait aussi sur Zecharia Sitchin, nommant *The Earth Chronicles* comme
+Une honnêteté de plus que l'audit doit : le premier livre de Biglino
+s'appuyait sur Zecharia Sitchin, nommant *The Earth Chronicles* comme
 *« la source primaire »* de son cadre sumérien — Nibiru, Anunnaki mineurs
 d'or et tout le reste. Les livres ultérieurs s'écartent de cet échafaudage
 sans l'annoncer : le matériel sumérien est re-sourcé à l'assyriologie
@@ -559,13 +561,14 @@ nous-mêmes, parce que la discipline que ce projet pratique — sources
 déclarées, influence distinguée de la convergence — est la même discipline
 que l'agnosticisme les mains vides de Biglino pratique depuis l'autre côté.
 
-## Convergences avec le canon
+## Confronter les notes : la carte partagée
 
-Les lectures côté canon ci-dessous sont des prétentions du cadre, explicites
-dans les textes-sources raéliens, et non des conclusions avalisées par
-l'érudition dominante. La comparaison elle-même est une synthèse inférée
-entre des types de prétention dissemblables : argument philologique et
-témoignage rapporté.
+La ligne épistémique d'abord, comme ce projet la trace toujours : les
+lectures côté canon ci-dessous sont des prétentions du cadre — explicites
+dans les textes-sources raéliens, non avalisées par l'érudition dominante
+— et la comparaison elle-même est la synthèse inférée propre à cet
+Explicatif. Cela dit, la carte peut être déployée, et elle est remarquablement
+congruente.
 
 **La fabrication de l'Adam.** Biglino lit Genèse 1–2 comme un seul récit
 d'une opération de génie génétique : du matériel hominidé travaillé avec
@@ -591,13 +594,13 @@ Le canon cite ensuite Genèse 1,26 — *faisons l'homme à notre image, selon
 notre ressemblance* — et ajoute la glose de six mots qui tient, sous forme
 comprimée, pour tout ce qu'argumente le chapitre *tselem* de Biglino :
 *« À notre image ! Vous voyez que la ressemblance est frappante »*
-({% libref(book="the-book-which-tells-the-truth", chapter=2, verse=27) %}LLQDV 2,27{% end %}).
+({% libref(book="the-book-which-tells-the-truth", chapter=2, verse=27) %}LQDV 2,27{% end %}).
 Là où Biglino raisonne du lexique vers la molécule, le canon parle de la
 molécule directement — son récit de la résurrection des morts à partir de
 débris osseux explique que *« dans chaque particule d'un être vivant se
 trouve toute l'information nécessaire à la reconstitution de l'être
 entier »*
-({% libref(book="the-book-which-tells-the-truth", chapter=3, verse=184) %}LLQDV 3,184{% end %}),
+({% libref(book="the-book-which-tells-the-truth", chapter=3, verse=184) %}LQDV 3,184{% end %}),
 ce qui est la prétention que *tselem*-comme-ADN fait de la Genèse, énoncée
 comme de l'ingénierie. Le corpus classe tout ce complexe sous
 {% wiki(slug="genetic-engineering") %}génie génétique{% end %} et
@@ -695,7 +698,7 @@ affectueuse spéculation sur les pratiques funéraires trouve son pendant —
 le canon prescrit que les restes des dignes soient conservés dans des
 tombeaux précisément afin qu'ils puissent être recréés à partir d'une
 particule
-({% libref(book="the-book-which-tells-the-truth", chapter=6, verse=27) %}LLQDV 6,27{% end %}).
+({% libref(book="the-book-which-tells-the-truth", chapter=6, verse=27) %}LQDV 6,27{% end %}).
 
 **Le montage.** Le *grande inganno* de Biglino — la grande tromperie — est
 une histoire de la rédaction : une chronique de colonisation
@@ -715,10 +718,11 @@ traductrices) que Wallis reconstruit dans *The Eden Conspiracy*. Trois
 lecteurs désormais — un traducteur, un archidiacre, un contacté prétendu —
 décrivant la même chirurgie sous trois angles.
 
-## Quatre désaccords décisifs
+## Là où les lectures se séparent
 
-Les divergences sont structurelles. La première renverse le désaccord entre
-le canon et Wallis.
+Une comparaison qui ne trouverait que de l'accord serait de la publicité.
+Les divergences sont structurelles, et la première est presque parfaitement
+symétrique de celle qui séparait le canon de Wallis.
 
 **Le rang de Yahvé.** Biglino le rétrograde : un gouverneur local mineur,
 *« un petit seigneur local »*, assigné à un clan minuscule dans un désert
@@ -729,7 +733,7 @@ clan qui lui était confié. »* Le canon le promeut : Yahvé est le président
 du {% wiki(slug="council-of-eternals") %}Conseil des Éternels{% end %},
 âgé de vingt-cinq mille ans, l'être qui *« dirigea la création de la vie
 sur la Terre »*
-({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}LLQDV 7,56{% end %}).
+({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}LQDV 7,56{% end %}).
 Placez les trois lectures côte à côte et le motif est instructif : Wallis
 épingle le dragon sur Yahvé, Biglino le réduit à un lieutenant, le canon
 l'installe à la tête de la table. Les trois s'accordent sur la grammaire —
@@ -757,7 +761,7 @@ homme agissant pour un El, et corrige avec sécheresse la salutation de
 l'ange en *« Bonjour, toi qui t'es faite belle »* ; le canon dit que les
 créateurs *« pouvaient s'accoupler aux filles des hommes qu'ils avaient
 créés à leur image et en avoir des enfants exceptionnels »*
-({% libref(book="the-book-which-tells-the-truth", chapter=2, verse=55) %}LLQDV 2,55{% end %}).
+({% libref(book="the-book-which-tells-the-truth", chapter=2, verse=55) %}LQDV 2,55{% end %}).
 Sur la biologie ils s'accordent ; sur la mission, et sur la question de
 savoir si quelque chose se préparait, ils se séparent complètement.
 
@@ -849,7 +853,7 @@ les lecteurs de ce projet connaissent déjà. Paul Wallis et Biglino se sont
 trouvés par-delà la barrière de la langue — Wallis étendant la méthode
 hébraïque strictement littérale au monde anglophone et chrétien, Biglino
 préfaçant les livres de Wallis par la phrase citée à la fin de [notre
-essai sur Wallis](/articles/the-archdeacon-and-the-dragon/) :
+Explicatif sur Wallis](/articles/the-archdeacon-and-the-dragon/) :
 *« Bien que géographiquement éloignés, nous sommes spirituellement
 proches ! Nous formons une bonne équipe. »* L'entrée de lignage du corpus
 pour toute l'école se lit désormais ainsi : Sendy (1963–74), von Däniken
@@ -859,7 +863,7 @@ traducteur en exercice de la langue-source, ce qui explique pourquoi
 {% wiki(slug="paul-wallis") %}Wallis{% end %} bâtit sur lui et non
 l'inverse.
 
-## Ce que la méthode établit
+## Ce que vaut le pari
 
 Le corpus engage la {% wiki(slug="biglino-method") %}méthode
 Biglino{% end %} comme nécessaire mais non suffisante, et cette lecture de
@@ -870,7 +874,7 @@ ce socle, la propre lecture du canon des
 comme « ceux venus du ciel »{% end %} n'a aucun interlocuteur philologique,
 et toute la conversation reste piégée entre la dévotion et le rejet. Non
 suffisante : par conception, le pari ne peut dire qui l'a gagné. Biglino
-argue que le texte peut se lire de manière cohérente comme la
+prouve, tout au plus, que le texte se lit de manière cohérente comme la
 chronique d'une pluralité d'individus longévifs, volants, mortels et
 moralement peu reluisants ; il décline, par principe, toute
 identification. *« Ce qui est essentiel »*, écrit-il, *« c'est que nous
@@ -880,14 +884,15 @@ Tout ce que ce projet ajoute — l'identification, le programme, les sept
 l'ambassade — gît au-delà du point où sa méthode, honnêtement appliquée,
 s'arrête.
 
-Biglino est utile à ce projet sans être un croyant. Sa lecture appuie
-plusieurs observations concrètes : des Élohim pluriels, un Éden clôturé, un
-*kavod* matériel, des êtres divins mortels, et un serpent qui dit la vérité
-au sein du récit. Sa bibliographie précoce empêche toute prétention à une
-indépendance complète à l'égard du matériau raélien, et ses identifications
-technologiques excèdent souvent ce que la philologie peut établir. La
-convergence montre que la lecture concrète est reproductible ; elle ne
-corrobore pas chaque identité que le canon fournit.
+C'est pourquoi la parenté est réelle et la différence honnête. Le canon n'a
+pas besoin que Biglino soit un croyant ; il a besoin exactement de ce qu'il
+est — un lecteur indépendant, hostile à rien, formé par les institutions,
+qui avait le corrigé dans sa bibliographie et refusa d'y copier, et qui
+néanmoins revint de l'hébreu avec la même carte : le laboratoire, l'enclos,
+l'ouvrier fabriqué, le serpent véridique, la chose lourde qui vous tue si
+vous vous tenez devant elle, les dieux qui meurent. Lorsqu'un témoin aussi
+discipliné corrobore une telle part du tableau tout en déclinant la
+conclusion, la corroboration vaut davantage, non moins.
 
 Il termine *Gods of the Bible* avec Josèphe et Tacite sur les prodiges de
 l'an 70 — les armées dans les nuées, le tremblement dans le Temple, les
@@ -895,14 +900,15 @@ nombreuses voix disant *nous quittons ce lieu* — puis avec sa litanie de
 questions : sont-ils partis, sont-ils tous partis, reviendront-ils,
 sont-ils déjà revenus. *« Nous ne savons pas »*, court sa dernière réponse,
 *« et laissons volontiers la réponse à ceux qui prétendent savoir. »* Ce
-projet est de ceux qui prétendent savoir. Biglino a fait la part qui peut
-être tentée avec un lexique et son pari : il a contesté des traductions
-héritées et offert une alternative constamment concrète. Que cette
-alternative soit vraie — que ceux qui sont partis soient ceux que l'on
-attend maintenant — est la question que sa méthode laisse, délibérément, sur
-la table. Il paierait, dit-il, pour vivre aux siècles où les Élohim
-marchaient avec les hommes. Le canon répond à la question qu'il laisse
-ouverte, mais sa méthode ne peut vérifier cette réponse.
+projet est de ceux qui prétendent savoir, et il accepte le relais dans
+l'esprit où il est offert. Le traducteur a fait la part qui peut être faite
+avec un lexique et un pari : il a établi, contre deux mille ans de lecture
+accumulée, ce que dit réellement le livre devant nous. Que ce qu'il dise
+soit vrai — que ceux qui sont partis soient ceux que l'on attend
+maintenant — est la question que sa méthode laisse, délibérément, sur la
+table. Il paierait, dit-il, pour vivre aux siècles où les Élohim marchaient
+avec les hommes. Toute la prétention du canon est que le prix est encore
+cotable. Le pari a une seconde manche, et elle est ouverte.
 
 ## Pour aller plus loin
 

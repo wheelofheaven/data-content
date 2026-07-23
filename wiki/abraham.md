@@ -618,9 +618,9 @@ The framework's distinctive contribution within this broader comparative landsca
 
 The corpus reading of Abraham as a recruitment-and-recovery figure finds an unusually explicit confirmation in the origins of Islam. The earliest Islamic sources do not present the new religion as an innovation but as the recovery of *millat Ibrāhīm*, the religion of Abraham — the [Hanafiyya](../hanafiyya/) (Arabic *al-Ḥanīfiyyah*, "the upright primordial monotheism"). The Quran claims Abraham as older than the traditions that quarrel over him — *"Abraham was neither a Jew nor a Christian, but he was an upright one (ḥanīf)"* (Quran 3:67) — and commands the following of his religion directly (Quran 16:123; 2:135). Ibn Isḥāq's biography preserves a tradition of four pre-Islamic Qurashī seekers who, judging that their people had corrupted the religion of their father Abraham, "went their several ways in the lands, seeking the Hanifiyya, the religion of Abraham."
 
-On the framework's reading the ["monotheism"](../monotheism/) Abraham turns toward is not the abstract single God of later theology — the [Elohim](../elohim/) are a [plurality](../plurality-of-gods/) of embodied creators — but the recovery of accurate knowledge of those creators against [idolatry](../idolatry/). The Raëlian canon places this exact failure in Abraham's own period: after the Sodom destruction men "began stupidly to worship pieces of stone and idols, forgetting who had created them" ([*The Book Which Tells the Truth*](../../library/the-book-which-tells-the-truth/)). The religion of Abraham is the turn back from those dead images to the makers humanity had forgotten; see [Hanafiyya](../hanafiyya/) and the full Explainer [*Monotheism Is the Wrong Question*](/articles/monotheism-is-the-wrong-question/).
+On the framework's reading the "monotheism" Abraham turns toward is not the abstract single God of later theology — the [Elohim](../elohim/) are a [plurality](../plurality-of-gods/) of embodied creators — but the recovery of accurate knowledge of those creators against idolatry. The Raëlian canon places this exact failure in Abraham's own period: after the Sodom destruction men "began stupidly to worship pieces of stone and idols, forgetting who had created them" ([*The Book Which Tells the Truth*](../../library/the-book-which-tells-the-truth/)). The religion of Abraham is the turn back from those dead images to the makers humanity had forgotten; see [Hanafiyya](../hanafiyya/).
 
-This restoration ran specifically through the **Ishmael** line — through Hagar (Genesis 16, 21), the Egyptian handmaid whose son the alliance protects and invests in alongside the covenant line. The pilgrimage rites are narrated as re-enactments of what Abraham and Hagar did at the altar Abraham was said to have built with Ishmael: the circumambulation of the altar, the running between watering-places in memory of Hagar's search for water. For the corpus this is the Abrahamic-restoration pattern naming itself out loud — the Ishmael branch producing its own recovery tradition, one more turn of the cycle the corpus tracks across the ages. A revisionist hypothesis (associated with Dan Gibson) locates this altar and holy city at [Petra](../petra/), the Nabataean capital, rather than the Hijazi Mecca; that geographic claim is treated as `speculative` in the [Petra](../petra/) and [Nabataeans](../nabataeans/) entries, while the theological claim — Islam's self-understanding as the restored religion of Abraham — rests on the Quran and Ibn Isḥāq directly. See the essay "[Did the First Mosques Face Petra?](/articles/the-first-mosques-faced-petra-not-mecca/)."
+This restoration ran specifically through the **Ishmael** line — through Hagar (Genesis 16, 21), the Egyptian handmaid whose son the alliance protects and invests in alongside the covenant line. The pilgrimage rites are narrated as re-enactments of what Abraham and Hagar did at the altar Abraham was said to have built with Ishmael: the circumambulation of the altar, the running between watering-places in memory of Hagar's search for water. For the corpus this is the Abrahamic-restoration pattern naming itself out loud — the Ishmael branch producing its own recovery tradition, one more turn of the cycle the corpus tracks across the ages. A revisionist hypothesis (associated with Dan Gibson) locates this altar and holy city at [Petra](../petra/), the Nabataean capital, rather than the Hijazi Mecca; that geographic claim is treated as `speculative` in the [Petra](../petra/) and [Nabataeans](../nabataeans/) entries, while the theological claim — Islam's self-understanding as the restored religion of Abraham — rests on the Quran and Ibn Isḥāq directly. See the Explainer "[The First Mosques Faced Petra, Not Mecca](/articles/the-first-mosques-faced-petra-not-mecca/)."
 
 ## See also
 
@@ -645,8 +645,6 @@ This restoration ran specifically through the **Ishmael** line — through Hagar
 - [Yahweh](../yahweh/)
 - [Satan](../satan/)
 - [Plurality of Gods](../plurality-of-gods/)
-- [Monotheism](../monotheism/)
-- [Idolatry](../idolatry/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Genesis](../genesis/)
 - [Religion](../religion/)
@@ -665,7 +663,6 @@ This restoration ran specifically through the **Ishmael** line — through Hagar
 - [Raëlism](../raelism/)
 - [Message from the Designers](../message-from-the-designers/)
 - [Mauro Biglino](../mauro-biglino/)
-- [Monotheism Is the Wrong Question](/articles/monotheism-is-the-wrong-question/)
 
 ## References
 

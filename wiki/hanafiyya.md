@@ -32,7 +32,7 @@ framework_reading = "The clearest instance of the corpus's Abrahamic-restoration
 distinguished_from = "The later Sunni legal school named for Abū Ḥanīfa (the Ḥanafī madhhab — unrelated despite the shared root); 'Islam' as the consolidated later name; generic 'monotheism'"
 +++
 
-**Hanafiyya** (Arabic <span class="arabic">ٱلْحَنِيفِيَّة</span> *al-Ḥanīfiyyah*, from <span class="arabic">حَنِيف</span> *ḥanīf*) is the Quranic and early-Islamic term for the pure, primordial [monotheism](../monotheism/) of **Abraham** — the *millat Ibrāhīm*, "the religion of Abraham," understood as the upright worship that preceded both Judaism and Christianity and to which Muhammad's mission is presented as a return. The term names a *restoration*: not a new revelation but the recovery of an original religion held to have been lost or corrupted. That restorationist self-understanding is what makes the Hanafiyya central to the Wheel of Heaven reading of Islamic origins, and what links it to the corpus's broader treatment of [Abraham](../abraham/) as the founding figure of a recovery program.
+**Hanafiyya** (Arabic <span class="arabic">ٱلْحَنِيفِيَّة</span> *al-Ḥanīfiyyah*, from <span class="arabic">حَنِيف</span> *ḥanīf*) is the Quranic and early-Islamic term for the pure, primordial monotheism of **Abraham** — the *millat Ibrāhīm*, "the religion of Abraham," understood as the upright worship that preceded both Judaism and Christianity and to which Muhammad's mission is presented as a return. The term names a *restoration*: not a new revelation but the recovery of an original religion held to have been lost or corrupted. That restorationist self-understanding is what makes the Hanafiyya central to the Wheel of Heaven reading of Islamic origins, and what links it to the corpus's broader treatment of [Abraham](../abraham/) as the founding figure of a recovery program.
 
 A terminological caution at the outset: the *Ḥanīfiyyah* discussed here is **not** the later Sunni legal school (the *Ḥanafī madhhab*) named for the jurist Abū Ḥanīfa (d. 767 CE). The two share the *ḥ-n-f* root but are historically distinct — one a pre-Islamic and early-Quranic concept of primordial monotheism, the other an eighth-century school of jurisprudence.
 
@@ -96,7 +96,7 @@ What the frame reads instead is a contrast between **idolatry** and **knowing th
 But men, having fallen back into a very primitive state after the destruction of the most intelligent and of centers of progress like Sodom and Gomorrah, began stupidly to worship pieces of stone and idols, forgetting who had created them.
 {% end %}
 
-The error is not believing in too many beings; it is worshipping wood and stone and gold — meaningless statues — *having forgotten who actually made humanity*. The remedy is not the abstraction of the divine into a single point but the recovery of accurate knowledge of the real creators, the [Elohim](../elohim/). Read this way, the *ḥanīf*'s "turning toward the upright" is a turn from false images back to the true makers — and the four seekers' own words are the same rejection: the stone they circled "was of no account; it could neither hear, nor see, nor hurt, nor help." That is a verdict on [**idolatry**](../idolatry/), not on plurality. The "oneness" the Hanafiyya recovers, on the frame's reading, is the singleness of the *truth about the creators* against the scatter of dead images that had replaced them — not the philosophers' One. This is a `framework` reading: the Elohim-plurality and the idolatry-as-forgetting premises are explicit in the Raëlian canon, while their application to the *ḥanīf*/idolater distinction is the corpus's interpretive synthesis. The full category argument appears in [*Monotheism Is the Wrong Question*](/articles/monotheism-is-the-wrong-question/).
+The error is not believing in too many beings; it is worshipping wood and stone and gold — meaningless statues — *having forgotten who actually made humanity*. The remedy is not the abstraction of the divine into a single point but the recovery of accurate knowledge of the real creators, the [Elohim](../elohim/). Read this way, the *ḥanīf*'s "turning toward the upright" is a turn from false images back to the true makers — and the four seekers' own words are the same rejection: the stone they circled "was of no account; it could neither hear, nor see, nor hurt, nor help." That is a verdict on **idols**, not on plurality. The "oneness" the Hanafiyya recovers, on the frame's reading, is the singleness of the *truth about the creators* against the scatter of dead images that had replaced them — not the philosophers' One. This is a `framework` reading: the Elohim-plurality and the idolatry-as-forgetting premises are explicit in the Raëlian canon, while their application to the *ḥanīf*/idolater distinction is the corpus's interpretive synthesis.
 
 The entry's overall `claim_type` is `inferred`: the *ḥanīf* concept and the *millat Ibrāhīm* command are explicit in the Quran (`direct`), and the four-seekers tradition is explicit in Ibn Isḥāq; the framework's reading of all this as an instance of the Abrahamic-restoration pattern is a reasonable reading consistent with the sources rather than a literal restatement of them. Gibson's stronger claim that Hanafiyya was the literal original name is noted as the more contested `speculative` strand.
 
@@ -110,14 +110,12 @@ The entry's overall `claim_type` is `inferred`: the *ḥanīf* concept and the *
 - [Mecca](../mecca/)
 - [Abrahamic Covenant](../abrahamic-covenant/)
 - [Plurality of Gods](../plurality-of-gods/)
-- [Monotheism](../monotheism/)
-- [Idolatry](../idolatry/)
 - [Elohim](../elohim/)
 - [Council of the Eternals](../council-of-eternals/)
 - [Religion](../religion/)
-- [Age of Pisces](/timeline/age-of-pisces/)
+- [Age of Pisces](../timeline/age-of-pisces/)
 - [List of prophets and religions](../list-of-prophets-and-religions/)
-- [Monotheism Is the Wrong Question](/articles/monotheism-is-the-wrong-question/)
+- [Elohim](../elohim/)
 
 ## References
 
