@@ -21,6 +21,7 @@ see_also = [
     { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The project engaging the discipline as one of its principal methodological commitments." },
     { title = "Carl Jung", path = "wiki/carl-jung", description = "The founder of the archetypal school of myth-reading (with Campbell); his Aion reads the Pisces aeon." },
     { title = "Jane Sellers", path = "wiki/jane-sellers", description = "The precessional reading of the Osiris death-and-rising myth." },
+    { title = "Sampo", path = "wiki/sampo", description = "The Finnish Sampo as the Baltic-Finnic instance of the world-mill mytheme." },
 ]
 
 [extra.infobox]
