@@ -17,7 +17,8 @@ see_also = [
     { title = "Yahweh", path = "wiki/yahweh", description = "The Elohim figure whose 1975 source-material statement establishes the law." },
     { title = "Elohim", path = "wiki/elohim", description = "The creator civilization whose delivered passage warrants the framework." },
     { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "The civilizational dynamic playing out across the scale-time hierarchy the law describes." },
-    { title = "The Alliance", path = "wiki/the-alliance", description = "The cosmic collaboration operating across the infinite scale hierarchy the law spans." }
+    { title = "The Alliance", path = "wiki/the-alliance", description = "The cosmic collaboration operating across the infinite scale hierarchy the law spans." },
+    { title = "The Shape of Humanity", path = "articles/the-shape-of-humanity", description = "The Explainer extending the scaling-law cosmology into civilizational morphology — West's superlinear growth as the organism's metabolism." }
 ]
 
 [extra.infobox]

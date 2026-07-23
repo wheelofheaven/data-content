@@ -20,6 +20,7 @@ see_also = [
     { title = "Raël", path = "wiki/rael", description = "The prophet through whom the framework content of the Apocalypse was delivered." },
     { title = "The Scrolls That Woke in Year One", path = "articles/the-scrolls-that-woke-in-year-one", description = "The Dead Sea Scrolls surfaced in year one of the era's calendar — the unveiling read against the manuscript find." },
     { title = "Unsealed in Year One", path = "articles/unsealed-in-year-one", description = "The companion reading of the same find — Daniel's sealed book opened, and what the scrolls' contents say to the era." },
+    { title = "The Shape of Humanity", path = "articles/the-shape-of-humanity", description = "The Explainer reading 1945 as the moment the planetary organism's nervous system switched on alongside the power to end itself." },
 ]
 +++
 
