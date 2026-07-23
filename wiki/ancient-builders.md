@@ -24,6 +24,7 @@ see_also = [
     { title = "Göbekli Tepe", path = "wiki/gobekli-tepe", description = "The oldest monumental architecture — the anomalously early build the entry's question centres on." },
     { title = "Graham Hancock", path = "wiki/graham-hancock", description = "The best-known proponent of the lost-civilization reading of the early builders." },
     { title = "Great Sphinx", path = "wiki/great-sphinx", description = "The lion-bodied monument whose pre-Dynastic dating the entry's question weighs." },
+    { title = "John Anthony West", path = "wiki/john-anthony-west", description = "The symbolist reading of Egyptian building as an encoded sacred science." },
 ]
 
 footnotes = [
