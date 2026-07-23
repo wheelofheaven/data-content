@@ -33,6 +33,7 @@ see_also = [
     { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The corpus's name for the turning precessional frame itself." },
     { title = "Graham Hancock", path = "wiki/graham-hancock", description = "The writer who carried this book's thesis to a mass audience as the 'precessional code'." },
     { title = "Tauroctony", path = "wiki/tauroctony", description = "The Mithraic bull-slaying icon that vindicates the book's mechanism in one documented case." },
+    { title = "Orion Correlation", path = "wiki/orion-correlation", description = "Bauval's Giza–Orion correlation — precession as a star-clock read in the pyramids." },
 ]
 
 [[extra.references]]
