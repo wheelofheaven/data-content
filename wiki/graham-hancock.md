@@ -23,6 +23,7 @@ see_also = [
     { title = "Jean Sendy", path = "wiki/jean-sendy", description = "The other great twentieth-century extender of the thesis — who named a different sender." },
     { title = "Precession", path = "wiki/precession", description = "The astronomical cycle at the heart of Hancock's 'precessional code'." },
     { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The Explainer that weighs Hancock's 'message in a bottle of time' against the canon's account." },
+    { title = "Jane Sellers", path = "wiki/jane-sellers", description = "The Egyptologist whose 'Osiris numbers' Hancock built into the precessional code." },
 ]
 
 references = [

@@ -20,7 +20,9 @@ see_also = [
     { title = "Sacred Geometry", path = "wiki/sacred-geometry", description = "The architectural-mathematical encoding of celestial knowledge the discipline reads at aligned sites." },
     { title = "Göbekli Tepe", path = "wiki/gobekli-tepe", description = "The ~9600 BCE sanctuary at the centre of the Pillar 43 archaeoastronomy debate." },
     { title = "Graham Hancock", path = "wiki/graham-hancock", description = "The writer whose books popularized — and provoked debate over — the archaeoastronomical reading of ancient sites." },
-    { title = "Great Sphinx", path = "wiki/great-sphinx", description = "The equinox-facing lion monument at the centre of the older-dating and Age-of-Leo argument." }
+    { title = "Great Sphinx", path = "wiki/great-sphinx", description = "The equinox-facing lion monument at the centre of the older-dating and Age-of-Leo argument." },
+    { title = "Orion Correlation", path = "wiki/orion-correlation", description = "Bauval's Giza–Orion ground-map thesis and the c. 10,500 BCE dating." },
+    { title = "John Anthony West", path = "wiki/john-anthony-west", description = "West and Schwaller's symbolist Egypt and the precession-tracked iconography claim." }
 ]
 
 [extra.infobox]

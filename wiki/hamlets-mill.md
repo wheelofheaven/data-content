@@ -32,6 +32,11 @@ see_also = [
     { title = "Great Return", path = "wiki/great-return", description = "The deposed king's promised waking, read by the corpus as the precessional shape of the Elohim's scheduled return." },
     { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The corpus's name for the turning precessional frame itself." },
     { title = "Graham Hancock", path = "wiki/graham-hancock", description = "The writer who carried this book's thesis to a mass audience as the 'precessional code'." },
+    { title = "Tauroctony", path = "wiki/tauroctony", description = "The Mithraic bull-slaying icon that vindicates the book's mechanism in one documented case." },
+    { title = "Orion Correlation", path = "wiki/orion-correlation", description = "Bauval's Giza–Orion correlation — precession as a star-clock read in the pyramids." },
+    { title = "Carl Jung", path = "wiki/carl-jung", description = "Jung's Aion — the independent reading of Christian history as the Age of Pisces." },
+    { title = "Jane Sellers", path = "wiki/jane-sellers", description = "The disciplined Egyptological continuation — the Osiris myth as precessional record." },
+    { title = "Sampo", path = "wiki/sampo", description = "The Finnish world-mill of the Kalevala — a core member of the mill complex." },
 ]
 
 [[extra.references]]

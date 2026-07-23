@@ -21,6 +21,7 @@ see_also = [
     { title = "Jean Sendy", path = "wiki/jean-sendy", description = "The author whose religion zodiacale reading precedes the corpus precessional treatment." },
     { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The zodiac as the twelve hours of the Great Year, each age named for its equinox constellation." },
     { title = "Mazzaroth", path = "wiki/mazzaroth", description = "The Hebrew name for the zodiac — the Mazzaroth of Job 38 and its mazzal descendants." },
+    { title = "Tauroctony", path = "wiki/tauroctony", description = "The Mithraic bull-slaying read as a star-map of the Age of Taurus." },
 ]
 
 [[extra.references]]

@@ -24,6 +24,8 @@ see_also = [
     { title = "Graham Hancock", path = "wiki/graham-hancock", description = "The popularizer of the Sphinx's older dating and the 'Giza clock'." },
     { title = "Precession", path = "wiki/precession", description = "The cycle that carries the equinox constellation backward through the zodiac." },
     { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The Explainer treating the Sphinx as the Age-of-Leo marker within the precessional argument." },
+    { title = "Orion Correlation", path = "wiki/orion-correlation", description = "The pyramids' Orion-Belt correlation — the Giza clock's second hand, paired with the Sphinx." },
+    { title = "John Anthony West", path = "wiki/john-anthony-west", description = "The champion (with Schoch) of the Sphinx's water-erosion redating." },
 ]
 
 references = [
