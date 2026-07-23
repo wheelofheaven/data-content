@@ -32,10 +32,10 @@ references = [
     { id = "the-message-of-the-sphinx-keeper-of-genesis-with-robert-bauval-the-giza-orion-co", locator = "Hancock & Bauval (1996) — the Giza–Orion correlation and the c. 10,500 BCE 'First Time'" },
     { id = "fingerprints-of-the-gods", locator = "Hancock — the Sphinx facing 'his own celestial counterpart' in the Age of Leo" },
     { id = "magicians-of-the-gods", locator = "Hancock — the Sphinx as the hour hand of the Giza clock" },
-    { id = "Herodotus", locator = "Histories, Book 2 — the fifth-century-BCE report that the Giza monuments were of great antiquity (the Sphinx itself unmentioned, possibly because sand-buried)" },
+    { title = "Histories, Book 2 — the fifth-century-BCE report that the Giza monuments were of great antiquity (the Sphinx itself unmentioned, possibly because sand-buried)", author = "Herodotus", date = "c. 430 BCE" },
     { id = "hamlets-mill", locator = "the precessional-encoding thesis within which the Leo alignment is read" },
     { id = "the-book-which-tells-the-truth", locator = "the pre-Flood advanced human civilization — the framework's basis for a pre-Dynastic monument" },
-    { id = "Sphinx", locator = "the mainstream Egyptological account: the Sphinx as part of Khafre's Fourth-Dynasty complex, c. 2500 BCE" },
+    { title = "Great Sphinx of Giza — the mainstream Egyptological account: the Sphinx as part of Khafre's Fourth-Dynasty complex, c. 2500 BCE", url = "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza" },
 ]
 +++
 
