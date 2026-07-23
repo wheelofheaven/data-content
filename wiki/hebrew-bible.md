@@ -26,6 +26,7 @@ see_also = [
     { title = "Reference Corpus of the Raëlian Canon", path = "/wiki/reference-corpus-of-the-raelian-canon/", description = "The principal Raëlian source corpus that operates as canonical reading lens." },
     { title = "The Archdeacon and the Dragon", path = "/articles/the-archdeacon-and-the-dragon/", description = "The redaction / monotheizing-edit thread the article develops, from Hezekiah to Ezra." },
     { title = "The Mill That Grinds the Ages", path = "/articles/the-mill-that-grinds-the-ages/", description = "The Mazzaroth of Job 38 and the mazzalot of 2 Kings 23 read as the Hebrew line's own zodiacal vocabulary." },
+    { title = "Mazzaroth", path = "/wiki/mazzaroth/", description = "The dedicated entry on the Job 38 hapax and the 2 Kings mazzalot." },
 ]
 
 footnotes = [

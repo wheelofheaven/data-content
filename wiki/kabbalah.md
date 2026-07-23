@@ -21,6 +21,7 @@ see_also = [
     { title = "Star of David", path = "wiki/star-of-david", description = "A cognate Jewish-symbolic form within the tradition's esoteric vocabulary." },
     { title = "Zodiac", path = "wiki/zodiac", description = "The twelve constellations the Sefer Yetzirah assigns to the twelve simple Hebrew letters." },
     { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The Sefer Yetzirah's zodiac-mapping and the Talmud's ein mazal le-Yisrael within the wider precessional thread." },
+    { title = "Mazzaroth", path = "wiki/mazzaroth", description = "The astral term behind the Sefer Yetzirah's zodiac-letters and the mazel-tov blessing." },
 ]
 
 [extra.infobox]

@@ -19,6 +19,7 @@ see_also = [
     { title = "Babel", path = "wiki/babel", description = "The dispersal event framing the diversification of the original transmitted tongue." },
     { title = "Zodiac", path = "wiki/zodiac", description = "The Mazzaroth thread — the mazzal that survives in mazel tov reads through the zodiacal framework." },
     { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The Hebrew astral thread in full — Mazzaroth, mazzalot, and the star's station that became a blessing." },
+    { title = "Mazzaroth", path = "wiki/mazzaroth", description = "The dedicated entry on the mazzal vocabulary and its survival in mazel tov." },
 ]
 
 [extra.infobox]
