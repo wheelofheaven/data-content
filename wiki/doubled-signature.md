@@ -20,6 +20,7 @@ see_also = [
     { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "The corpus of religious symbolism the doubled invocation reads for its astronomical signatures." },
     { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "A distinct corpus framework the entry marks off from the doubled-signature principle." },
     { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The doubled signature read as the initiates' countersignature — Sendy's règle des signes opposés — walked age by age." },
+    { title = "Tauroctony", path = "wiki/tauroctony", description = "The Taurus–Scorpio pairing carried by the scorpion of the Mithraic bull-slaying." },
 ]
 
 [extra.infobox]

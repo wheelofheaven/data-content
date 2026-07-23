@@ -32,6 +32,7 @@ see_also = [
     { title = "Great Return", path = "wiki/great-return", description = "The deposed king's promised waking, read by the corpus as the precessional shape of the Elohim's scheduled return." },
     { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The corpus's name for the turning precessional frame itself." },
     { title = "Graham Hancock", path = "wiki/graham-hancock", description = "The writer who carried this book's thesis to a mass audience as the 'precessional code'." },
+    { title = "Tauroctony", path = "wiki/tauroctony", description = "The Mithraic bull-slaying icon that vindicates the book's mechanism in one documented case." },
 ]
 
 [[extra.references]]
