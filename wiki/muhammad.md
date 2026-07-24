@@ -266,6 +266,8 @@ The Muhammad entry surfaces several open questions for the framework's broader i
 - [Petra](../petra/)
 - [Nabataeans](../nabataeans/)
 - [Hanafiyya](../hanafiyya/)
+- [Monotheism](../monotheism/)
+- [Idolatry](../idolatry/)
 - [Medina](../medina/)
 - [Jerusalem](../jerusalem/) / [al-Quds](../al-quds/)
 - [Cave of Hira](../cave-of-hira/)
@@ -284,6 +286,7 @@ The Muhammad entry surfaces several open questions for the framework's broader i
 ## Read more
 
 - [Timeline › Age of Pisces](../timeline/age-of-pisces/)
+- [Monotheism Is the Wrong Question](/articles/monotheism-is-the-wrong-question/)
 
 ## External links
 
