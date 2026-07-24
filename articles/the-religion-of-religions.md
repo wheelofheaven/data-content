@@ -92,24 +92,23 @@ translation errors of thirty centuries. The book Claude Vorilhon published
 from his notes the following year, [*The Book Which Tells the
 Truth*](/library/the-book-which-tells-the-truth/), became the founding
 scripture of the movement this project takes as its canon; the man himself
-became {% wiki(slug="rael") %}Raël{% end %}; and the question this
-Explainer takes up is the one that has quietly defeated every institution
-that has tried to answer it: *what kind of thing is the religion that
-resulted?*
+became {% wiki(slug="rael") %}Raël{% end %}; and this Explainer takes up a
+question on which institutions and scholars have repeatedly disagreed:
+*what kind of religion resulted?*
 
-The institutional record is genuinely comic in its disagreement. In 1995 a
-French parliamentary commission filed the Raelian Movement among the
+The institutional record is notably inconsistent. In 1995 a
+French parliamentary commission filed the Raëlian Movement among the
 *sectes* that "present dangers for the individual… and also dangers for
 the community" — the wording later quoted, deadpan, by the European Court
 of Human Rights.{{ footnote(id="3") }} Canada's tax authorities refused it
 recognition as a religion on the stated ground that "the Elohim are not
 gods… they do not correspond to jurisprudence" — a revenue agency ruling
 on the ontology of divinity. The United States granted it tax exemption
-*as* the Raelian Religion; Quebec incorporated it as a religious
+*as* the Raëlian Religion; Quebec incorporated it as a religious
 corporation in the same year France blacklisted it. Four jurisdictions,
 four verdicts: menace, non-religion, religion, church.
 
-The scholars have done better, but they have done it by multiplication.
+Scholars have proposed several overlapping categories.
 {% wiki(slug="raelism") %}Raëlism{% end %} is, in the published
 literature, a "UFO religion" (Christopher Partridge, Benjamin Zeller), an
 "atheistic religion" (George Chryssides, Massimo Introvigne, and the
@@ -119,18 +118,17 @@ postmodern "religion of science" (Bryan Sentes and Susan Palmer), a
 "biblical religion" built on "extraterrestrial exegesis" (Eugene
 Gallagher), and — in the sentence of Palmer's that comes closest to a
 verdict — "a new fundamentalist, apocalyptic Abrahamic religion." Each
-label is defensible. Each catches one surface of the object. This article
-reads the primary sources at full length, audits the labels against them,
-and then does what the labels themselves suggest: it sets Raëlism beside
-the three other young universalist religions of the modern period — the
-Bahá'í Faith, Oomoto, and Cao Đài — and lets the family resemblance carry
-the classification. The comparison runs on this project's own translations
-of all four founding corpora, which is the discipline the exercise
-requires: the traditions get compared in their own words, at paragraph
-resolution, with the differences preserved.
+describes a real feature, but none accounts for the whole movement. This
+article reads the primary sources at length, tests the labels against them,
+and then sets Raëlism beside three other young universalist religions of
+the modern period — the Bahá'í Faith, Oomoto, and Cao Đài — to ask what
+their family resemblance can and cannot establish. The comparison uses
+this project's translations of all four founding corpora, allowing the
+traditions to be compared in their own words while keeping their
+differences visible.
 
-One more thing belongs in the opening, because the reader deserves to know
-the stance. This project reads the Raëlian source material as its canon;
+The project's stance should be explicit. It reads the Raëlian source
+material as its canon;
 its claims about the {% wiki(slug="elohim") %}Elohim{% end %} are
 framework claims, explicit in that material and not endorsed by mainstream
 scholarship. The categorization argued here, though, is an *inferred*
@@ -153,10 +151,9 @@ Catholic boarding school, he took communion without having been baptized —
 "I will never forget the priests, when they discovered that I was not
 baptized, running around on the lawn in their long black cassocks!" he
 told Palmer twenty years later — and was barred from the sacrament
-thereafter. The biography, in other words, opens on the exact fault line
+thereafter. His biography thus opens on a fault line
 of twentieth-century French religion: a child of *laïcité*{{ footnote(id="2") }}
-processed through, and expelled from the edge of, the Catholic
-machine.
+processed through, and then excluded from, a Catholic institution.
 
 At fifteen he ran away to Paris with a guitar; at nineteen, discovered by
 the radio director Lucien Morisse, he was recording as "Claude Celler" and
@@ -168,11 +165,11 @@ November 1973, the French government — mid-oil-crisis — suspended all
 automobile racing. His magazine's reason to exist was gone. Thirteen days
 later he was in the volcano.
 
-The timing has to be stated that plainly, because any honest account of
-the movement's origins owes the reader the sequence, and because the canon
-itself is unembarrassed by the adjacent fact of Vorilhon's ordinariness.
+The sequence matters because the end of *Autopop* immediately preceded the
+reported encounter, and because the canon itself emphasizes Vorilhon's lack
+of conventional religious qualifications.
 Asked, in the first book, why he of all people had been chosen, the being
-gives an answer that is practically a sociology of the choice:
+gives a sociological rationale for the choice:
 
 {% library(book="the-book-which-tells-the-truth", chapter=1, verse=46) %}
 For many reasons. First, we needed someone in a country where new ideas
@@ -190,12 +187,12 @@ Not being a literary man, you will not write convoluted sentences that are
 hard for most people to read.
 {% end %}
 
-A scripture that makes its messenger's lack of qualifications the
-qualification is doing something specific, and Palmer catches it in her
+A text that makes its messenger's lack of qualifications a qualification
+is making a specific claim about authority, and Palmer catches it in her
 portrait of his charisma: "Raël's ordinariness and humility are precisely
 his charm… He is an average man who has been chosen by above-average
-beings." Weber's ethical prophet was never required to be impressive;
-he was required to be *sent*.
+beings." In Weberian terms, his authority rests on being *sent*, not on
+prior religious standing.
 
 What a historian can add is the milieu. By December 1973 the
 ancient-astronaut reading of Genesis was, in France, nearly mainstream
@@ -211,11 +208,11 @@ stops short of a derivation claim, and so does this project, whose own
 audit of one such trail — the Kabbalah passage of the first book — found
 the likeliest print source and [documented it at
 length](/articles/the-book-closest-to-the-truth/). Whether one reads the
-December encounter as event, experience, or invention, the *content* that
-came down the volcano had a French bibliography, and the canon's
-distinctiveness lies elsewhere: in what it did with the material — turned
-it from a hypothesis into a covenant, with a ritual calendar, a
-priesthood, and a building permit perpetually pending.
+December encounter as event, experience, or invention, its published
+content emerged within a recognizable French intellectual setting. The
+canon became distinctive in what it did with that material: it turned an
+ancient-astronaut hypothesis into a covenant with a ritual calendar, a
+priesthood, and a prescribed embassy.
 
 Palmer, for the record, canvassed the four readings available to a
 sociologist — a genuine encounter, a psychotic break, a calculated hoax,
@@ -229,12 +226,9 @@ artist, a kind of religious genius."
 
 ## Six days of Bible study
 
-The single most under-reported fact about Raëlism — under-reported in the
-press coverage, that is; the scholarship of the last two decades has
-converged on it — is what the founding revelation actually consists of:
-a *seminar on the Hebrew Bible and the Gospels*, conducted with the text
-open on the witness's knees, and only incidentally the account of a
-landing. The
+Press accounts often foreground the landed craft, but the founding
+revelation is structured largely as a *seminar on the Hebrew Bible and the
+Gospels*, conducted with the text open on the witness's knees. The
 being's first request is that Vorilhon return with a Bible; the six days
 run through Genesis, the Flood, Babel, Sodom, the Sinai theophany,
 Ezekiel's wheels, the career of Jesus read as a planned communications
@@ -242,8 +236,8 @@ program. The hermeneutic rule is stated inside the text: the Bible is
 reliable wherever it is strange, because the strangeness is the residue of
 technology described by Bronze Age witnesses, and the task is to strip the
 "poetic babblings" of later copyists from the operational core. Eugene
-Gallagher's *Nova Religio* study made the point that names this article's
-category: Vorilhon's contact narrative is "immediately followed by an
+Gallagher's *Nova Religio* study supports the classification advanced
+here: Vorilhon's contact narrative is "immediately followed by an
 intensive week of Bible study," and the movement that resulted practices
 "extraterrestrial exegesis" — its religiosity is a way of *reading*, and
 the thing it reads is scripture. Movements like this one, Gallagher
@@ -252,8 +246,8 @@ traditions in some occult "cultic milieu"; they originate inside the
 biblical tradition's own gravitational field.
 
 The canon is explicit that its frame extends past the Bible — and the
-sentence in which it says so, from the fifth chapter of the 1973 book, is
-the seed of everything this article will do in its second half:
+sentence in which it says so, from the fifth chapter of the 1973 book,
+provides the canonical basis for the later comparison:
 
 {% library(book="the-book-which-tells-the-truth", chapter=5, verse=54) %}
 The Kabbalah is the book closest to the truth, but almost all the
@@ -265,9 +259,10 @@ cite all the religions and sects that testify in a more or less obscure
 way to our work.
 {% end %}
 
-Buddhism, Islam, and the Latter-day Saints, named in a French paperback of
-1974 as parallel witnesses to the same events the Bible records: the
-comparative-religion program is in the founding document, six days old.
+Buddhism, Islam, and the Latter-day Saints are therefore presented in the
+1974 founding document as parallel witnesses to the events recorded in the
+Bible. Comparative religion was part of the initial message, not a later
+addition.
 The movement's charge follows in the next chapter — spread the message,
 prepare an {% wiki(slug="embassy") %}embassy{% end %} for the creators'
 {% wiki(slug="great-return") %}return{% end %} — along with a name for
@@ -293,15 +288,14 @@ uses for himself: {% libref(book="the-book-which-tells-the-truth", chapter=7, ve
 
 ## The escalation: from stenographer to son
 
-Religions that begin in a private revelation tend to raise the founder's
-status in steps, and the Raëlian canon performs its escalation in public,
-book by book, which makes it unusually good material for watching the
-process. In the first book Raël is a stenographer with a mission. In the
+The Raëlian canon raises its founder's status in stages, book by book,
+making the development unusually easy to trace. In the first book Raël is
+a stenographer with a mission. In the
 second — *Extraterrestrials Took Me to Their Planet*, published in 1975
 after what the canon dates as a 7 October 1975 second
 encounter{{ footnote(id="5") }} — he is taken to the home world, and the
-narrative delivers the scene that quietly settles this article's
-classification question. At a meal on the planet of the eternals, the host
+narrative provides central evidence for this article's classification. At
+a meal on the planet of the eternals, the host
 identifies the company:
 
 {% library(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=64) %}
@@ -313,19 +307,19 @@ present at this meal are all beings representative of the religions
 created following our contacts on the Earth.
 {% end %}
 
-This is the paragraph from which the movement's whole prophetology
-descends — "the last of forty prophets" is an articulation of this one
-sentence, and the canon never enumerates the forty.{{ footnote(id="11") }}
-What the sentence does enumerate is a seating order, and the order is the
-argument: a Jewish table — Moses at the right hand, Elijah the eternal
-attendee of every seder — extended leftward to Buddha, with Muhammad "a
-little further," and Yahweh presiding as the referent behind the word
-*Allah*. The theology of every Abrahamic expansion is in that spatial
-arrangement. And the host of the meal is the figure the Hebrew Bible calls
+This paragraph provides the textual basis for the movement's later
+prophetology. The phrase "the last of forty prophets" develops this
+sentence, although the canon never enumerates the forty.{{ footnote(id="11") }}
+What the sentence does enumerate is a seating order: Moses at the right
+hand, Elijah beside him, Buddha to the left of Jesus, Muhammad "a little
+further," and Yahweh presiding as the referent behind the word *Allah*.
+The arrangement places Jewish, Christian, Buddhist, and Islamic figures
+within one claimed lineage. The host of the meal is the figure the Hebrew
+Bible calls
 by the tetragrammaton: {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=50) %}"My name is Yahweh and I am the president of the council of the eternals"{% end %}
 — the {% wiki(slug="yahweh") %}Yahweh{% end %} and
 {% wiki(slug="council-of-eternals") %}Council of the Eternals{% end %}
-this corpus treats across a dozen entries.
+discussed throughout this corpus.
 
 The same book names the category of the movement itself, in the passage
 this article takes its title from:
@@ -339,13 +333,14 @@ religion as you had already understood.
 
 Both halves of the formula deserve their full weight. *Religion of
 religions*: a meta-religion, whose claim is to be the frame in which all
-prior revelation becomes legible — the structural claim of Bahá'u'lláh,
-of Oomoto's founding oracles, of the Cao Đài séances, as the second half
+prior revelation becomes legible — a structural claim also found, in
+different forms, in Bahá'u'lláh's writings, Oomoto's founding oracles, and
+the Cao Đài séances, as the second half
 of this article will show in their own words. *Atheistic religion*: a
 religion whose referents are physical, whose "gods" are mortal, and whose
-afterlife is a laboratory procedure. The canon does not experience these
-as tension, and the passage's rhetoric — "I insist" — shows it knows the
-reader will.
+afterlife is a laboratory procedure. The canon presents these descriptions
+without contradiction, while the phrase "I insist" acknowledges that a
+reader may find them difficult to reconcile.
 
 The third book completes the escalation. In *Let's Welcome the
 Extraterrestrials* (1979), Yahweh discloses the messenger's paternity:
@@ -367,17 +362,17 @@ Joseph, he was to take care of you and your mother until such time as you
 could provide for yourself.
 {% end %}
 
-Messenger, then prophet, then son — the trajectory Christianity took
-three centuries to formalize, run in six years of paperback. Two things
-keep the escalation from being the whole story. The first is the rider the
+Across the three books, the messenger's status changes from commissioned
+witness to prophet and son. Two qualifications keep that escalation from
+being the whole story. The first is the rider the
 same chapter attaches, in the canon's most quoted piece of
 self-limitation: "It is not the messenger who is important, but the
 message itself… Do not look at my finger, but rather in the direction in
 which it's pointed" (LWTE 2:96–99). The second is the phrase inside the
 paternity passage itself — *the first one to address Mankind asking them
 to understand and not to believe* — which is the canon's own epistemology
-in one line, and the reason the movement's classification keeps sliding
-off the shelf where sonship stories usually sit.
+in one line. It complicates any classification based solely on familiar
+sonship narratives.
 
 The prophetic sequence, meanwhile, is made pointedly universal. The second
 book closes with four direct appeals — to Christians, to Jews, to
@@ -387,18 +382,17 @@ line: {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, ver
 The Buddhist appeal was eventually performed rather than merely printed:
 in January 2003 Raël published *The Maitreya*,{{ footnote(id="4") }}
 claiming the mantle of the future Buddha — a book of seminar aphorisms
-that never argues the identification, simply wears it, down to the back-cover
+that assumes rather than argues the identification, down to the back cover
 copy ("Meeting the Maitreya while he is still alive is an opportunity that
-you cannot afford to miss"). Its one genuinely doctrinal sentence about
-the lineage is the cleanest statement of supersessionism in the whole
+you cannot afford to miss"). Its most explicit doctrinal sentence about
+the lineage is a statement of supersessionism in the
 Raëlian corpus: "It was fantastic to be Buddhist at the time of Buddha,
 Christian at the time of Jesus… If Jesus or Buddha were here today, they
 would be Raelian."
 
 ## A religion without metaphysics
 
-What the labels are trying to catch is a doctrinal structure that can be
-stated in a paragraph, because the canon states it in one:
+The labels describe a doctrinal structure that the canon states concisely:
 
 {% library(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=30) %}
 As we have already explained to you in the first message, there is no god
@@ -410,37 +404,36 @@ No god, because the universe is infinite and uncentered — the cosmology
 argued at ETTMTTP 2:31–34 and treated at full length in [its own
 Explainer](/articles/the-infinite-in-both-directions/) — and no soul,
 because the person is information: a genetic plan plus a lifetime of
-memory, both of which are, on the canon's account, storable, and stored.
+memory, both of which are, on the canon's account, stored.
 The Elohim keep records; a
-{% wiki(slug="council-of-eternals") %}council{% end %} runs a last
-judgment worthy of the name over them; the worthy are recreated from
-their code on a reserved planet. Eternal life is a service, with an
-admissions policy. The 2001 cloning tract makes the mechanics explicit in
+{% wiki(slug="council-of-eternals") %}council{% end %} conducts a final
+judgment; those judged worthy are recreated from
+their code on a reserved planet. Access to eternal life therefore depends
+on judgment rather than an immortal soul. The 2001 cloning tract makes the
+mechanics explicit in
 a three-stage program — cloning, accelerated growth, memory transfer —
 and anchors it in testimony: "I saw the Elohim insert a cell taken from my
 forehead into a huge aquarium-like machine… and then watched a perfect
 copy of myself grow in just a few seconds… That is how the Elohim live
 for ever. That is why cloning is the key to eternal life."
 
-Around that core the movement built, with striking speed, the full
-equipment of a church. An initiation — the "transmission of the cellular
-plan," performed on four festival days of the movement's calendar (in
-early April, on 6 August, 7 October, and 13 December — a liturgical year
-whose feasts are Hiroshima and the two encounters).{{ footnote(id="7") }}
-A priesthood in six ascending grades, from animator to bishop-guide, with
-Raël as Guide of Guides re-elected every seven years. A weekly observance
-— Sunday, 11 a.m., a directed thought toward the Elohim. A practice of
-the body, "sensual meditation," whose canonical instruction reads:
+Around that core, the movement quickly developed the institutions and
+practices of a church. Its initiation, the "transmission of the cellular
+plan," is performed on four festival days: one in early April and the
+others on 6 August, 7 October, and 13 December. The calendar thus
+commemorates Hiroshima and the two reported encounters.{{ footnote(id="7") }} Its
+priesthood has six ascending grades, from animator to bishop-guide, with
+Raël as Guide of Guides re-elected every seven years. Members direct their
+thoughts toward the Elohim each Sunday at 11 a.m. The movement also
+practices "sensual meditation," whose canonical instruction reads:
 {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=113) %}"Your meditation shall not be a dry meditation, but on the contrary a sensual meditation; you shall let yourself be invaded by peace and by harmony until it becomes an enjoyment"{% end %}
-— the experiential organ a religion needs when it has abolished the
-soul the experience was supposed to belong to. And a politics, published
-in 1977 as *Geniocracy* — the "selective democracy" of the intelligent —
-which the movement has carried ever since as an aspirational program and
-its critics have carried as Exhibit A.{{ footnote(id="12") }}
+— an embodied religious practice within a system that rejects an immortal
+soul. Its political program, published in 1977 as *Geniocracy*, advocates
+the "selective democracy" of the intelligent. The movement has retained it
+as an aspiration, while critics cite it as evidence of elitism.{{ footnote(id="12") }}
 
-The self-definition is worked out most carefully in the third book, and
-it runs through an etymology this corpus has its own
-{% wiki(slug="religion") %}entry{% end %} on:
+The third book develops this self-definition through an etymology
+discussed in the corpus's {% wiki(slug="religion") %}religion entry{% end %}:
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=32) %}
 Thus it becomes clear that the Raelian Movement is a religion; it ties the
@@ -451,85 +444,81 @@ form of divinity".
 {% end %}
 
 *Religare*, to bind back: religion as the maintained link between
-creators and created, with belief in the supernatural demoted to an
-accident of the primitive phase. The same chapter names the prophets the
+creators and created, with belief in the supernatural treated, in the
+canon, as an accident of the primitive phase. The same chapter names the prophets the
 link ran through — "Jesus… Moses, Buddha, Mohammed, Joseph Smith, and
 all the other great prophets" (LWTE 3:34), the 1830 American prophet
 included as casually as the rest — and the first chapter of the same book
 compresses the whole system into two sentences that could serve as the
 movement's catechism: {% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=79) %}"There is no "God", but there are the Elohim… there is no autonomous soul flying from the body after death, but there is the genetic code which allows access to eternal life"{% end %}.
 
-Chryssides, who has read this material as carefully as any scholar,
-formulated the category it implies in a sentence this article regards as
-the analytic key to the whole movement: "suppose it were the case that the
+Chryssides formulated the category it implies in a passage that provides a
+useful analytic key: "suppose it were the case that the
 gods are physical beings, and that traditional religious discourse is a
 misguided attempt to impose metaphysics on crucially significant physical
 events? A religion without metaphysics would be a 'scientific' religion,
 and one which avoids all the philosophical problems relating to
-non-empirical verification." That is the wager, stated exactly. Every
-familiar religious furnishing is retained — prophet, scripture, priest,
-baptism, feast, temple, judgment, resurrection, messiah — and the
-supernatural warrant under each is swapped for a technological one.
+non-empirical verification." Familiar religious forms remain — prophet,
+scripture, priest, baptism, feast, temple, judgment, resurrection, messiah
+— but each receives a technological rather than supernatural explanation.
 Whether one regards the swap as a demystification or a science-fiction
 veneer (Stefano Bigliardi's verdict: the discourse "while seemingly
 talking about 'science,' is actually constructing a science-fictional and
-even pseudoscientific narrative") is the live scholarly dispute; that the
-swap is systematic, both sides agree.
+even pseudoscientific narrative") remains a live scholarly dispute. The
+systematic substitution itself is clear in the primary sources.
 
-One demographic fact belongs here, because it explains who the wager was
-placed *for*. Palmer's surveys found the movement's converts were
+Palmer's surveys also help identify the audience for this reinterpretation.
+She found the movement's converts were
 overwhelmingly lapsed Catholics — 72 percent Catholic-baptized in her
-Quebec sample, most of them never members of any other movement, drawn
-from precisely the population that post-1960 Quebec and post-*laïcité*
-France had unchurched: "the movement attracts young, attractive adults
+Quebec sample, most of them never members of any other movement. She
+connects this pattern to the secularization of post-1960 Quebec and
+republican France: "the movement attracts young, attractive adults
 from a Catholic background that they have already rejected… They tend to
 revere science and despise religious institutions, particularly the
-Catholic Church." Raëlism's converts were never New Age seekers moving
-between occultisms; they were biblical-civilization people who had lost
-the warrant and kept the shape. The religion that recruited them offers,
-in Palmer's summary of its pitch, the old furniture with a new
-foundation — which is a sentence one could also write about the birth of
-Christianity out of Hellenistic Judaism, and is exactly what "cultural
-continuity," the sociologists' term she applies, means.
+Catholic Church." Her sample therefore suggests that Raëlism recruited
+less from the New Age milieu than from people who had rejected Catholic
+institutions but remained familiar with biblical categories. This is what
+she means by "cultural continuity": the movement supplies new
+explanations for a recognizable religious structure.
 
 ## The shelf of labels
 
 The labels can now be audited in order, each against the text.
 
-**"Secte."** The French classification{{ footnote(id="3") }} is the one
-label with no analytic content — the 1995 list was compiled from police
+**"Secte."** The French classification{{ footnote(id="3") }} does little
+taxonomic work here. The 1995 list was compiled from police
 intelligence criteria, carried no legal definition of the word, and swept
 in movements as unlike as the Jehovah's Witnesses and the Order of the
 Solar Temple. Its consequences were real: canceled meeting halls, custody
 rulings, Brigitte Boisselier's dismissal from her corporate chemistry
-post. Introvigne's refusal of the term is the scholarly consensus
-position, and his preferred substitute is the movement's own: "atheistic
-religion." The full cult-wars file is taken up two sections below, where
-it belongs — as history, since as taxonomy it is empty.
+post. Introvigne rejects the term on taxonomic grounds and prefers the
+movement's own description, "atheistic religion." The label matters to
+the movement's political history, which is
+examined below, but it does not describe its beliefs.
 
-**UFO religion.** Etic,{{ footnote(id="1") }} accurate, and resented from
-inside — a Raëlian statement Chryssides quotes runs "The UFO dimension
+**UFO religion.** Etic,{{ footnote(id="1") }} accurate, and rejected by
+some adherents — a Raëlian statement Chryssides quotes runs "The UFO dimension
 alone is totally boring. It is the philosophical, the religious dimension
 which interest us." Chryssides defends the label anyway, on the
 reasonable ground that a family of movements grounding their teachings in
-extraterrestrial contact is a real comparative class. What the closer
-studies then show is how badly Raëlism fits the class it names. Palmer,
-whose fieldwork covered the whole saucer spectrum, lists the divergences:
+extraterrestrial contact is a real comparative class. Palmer's comparison
+also shows how Raëlism differs from many movements in that class. Her
+fieldwork covered the wider field of UFO religions, and she lists several
+divergences:
 the other UFO religions (Aetherius, Unarius, Ashtar Command, Heaven's
-Gate) are Theosophy's grandchildren, trafficking in ascended masters,
-vibrations, and reincarnation; "Oriental concepts and esoteric symbols —
+Gate) draw heavily on Theosophy, including ascended masters, vibrations,
+and reincarnation; "Oriental concepts and esoteric symbols —
 chakras, reincarnation, karma, enlightenment, violet rays… do not
 feature in Raël's books." Raëlism has no evil aliens and no cosmic
 dualism — "humanity's worst enemy is itself." Its recruits, as above,
-come from parish rolls rather than the cultic milieu. It is, in the
+come largely from Catholic backgrounds rather than the cultic milieu. It is, in the
 phrase attributed to James R. Lewis, "the most thoroughly secular of all
-the UFO religions" — a superlative that quietly concedes the class is
-the wrong cut. The saucer is the *vehicle* of the revelation, in both
-senses; it is what the numinous arrives in after 1947, as Jung argued in
-the book Chryssides leans on. It tells you the century, and little else.
+the UFO religions." The label identifies the medium of revelation and its
+post-1947 setting more clearly than it identifies the movement's theology
+or lineage.
 
 **Atheistic religion.** Emic, and precise. The canon asserts it (ETTMTTP
-2:105, LWTE 3:32), the scholarship ratifies it, and the nearest
+2:105, LWTE 3:32), several scholars adopt it, and the nearest
 comparison is the one the movement's own literature reaches for:
 Theravada Buddhism, a soteriology without a creator god. The label's
 limit is that it names an absence. "Atheistic religion" tells you what
@@ -537,23 +526,23 @@ Raëlism removed; it cannot tell you what the religion is *made of* — and
 what it is made of is Genesis, Exodus, Ezekiel, the Gospels, and the
 Apocalypse.
 
-**Scientific religion / scientific creationism.** Chryssides's category,
-and the best one-line account of the doctrinal mechanism: an account of
+**Scientific religion / scientific creationism.** Chryssides's category
+offers a concise account of the doctrinal mechanism: an account of
 origins that is "an alternative both to creationism and to evolutionism,"
 guided design without a designer-God. Its strength is that it captures
 the epistemic posture — the movement's slogan, on its own website, was
 for years "intelligent design for atheists." Its weakness is that the
-posture is aspiration, and the aspiration has a due date. Rodney Stark's
+posture is aspirational, and that aspiration has a due date. Rodney Stark's
 model of movement success holds that durable religions keep their core
-claims safely non-empirical; Palmer, running Raëlism through Stark's
-criteria, flags the exception with evident relish: "The Raelian doctrine
-is uncompromisingly empirical: The aliens must descend in material bodies
+claims safely non-empirical; Palmer, applying Stark's criteria to Raëlism,
+flags the exception: "The Raelian doctrine is uncompromisingly empirical:
+The aliens must descend in material bodies
 and metal machines by 2035 at the latest." A religion that can be
-falsified by a date is either the first of a new kind or a movement that
-has scheduled its own crisis; Palmer's dry addendum — the Raelians
+falsified by a date faces a specific crisis if that deadline passes;
+Palmer's addendum — the Raëlians
 "cannot 'spiritualize,' since they do not believe in a spiritual realm…
-Hence they must postpone" — records that the classic escape hatch is,
-uniquely here, welded shut from inside.
+Hence they must postpone" — identifies the difficulty of revising an
+empirical deadline within a system that rejects spiritual explanations.
 
 **Postmodern religion.** Sentes and Palmer's *Nova Religio* argument:
 Raëlism "replaces the supernatural with the extraterrestrial and
@@ -563,72 +552,71 @@ the ideology of technoscience that governs the world's advanced
 societies." Palmer's monograph pushes the paradox further: "In a strange
 way, Raël's movement combines the militant anthropocentric atheism of
 secular humanism with the strict reverence for religious authority found
-in Christian fundamentalism." Both observations are right, and both are
-observations about *fit* — about how frictionlessly the movement sits in
-a culture of laboratories and press conferences — rather than about
-lineage.
+in Christian fundamentalism." Both observations concern cultural *fit* —
+how readily the movement's language works in a culture of laboratories and
+press conferences — rather than historical lineage.
 
-**Biblical religion, fundamentalist and Abrahamic.** Gallagher's category,
-Palmer's adjectives, and the one the primary sources keep voting for. The
-founding scripture is a Bible commentary. The revelation scene is an
-Isaian commissioning. The presiding figure is Yahweh; the messenger's
+**Biblical religion, fundamentalist and Abrahamic.** Gallagher's category
+and Palmer's adjectives are the labels most directly supported by the
+primary sources. The founding scripture is a Bible commentary. The
+revelation scene resembles
+Isaiah's commissioning. The presiding figure is Yahweh; the messenger's
 half-brother is Jesus; the calendar's pivot (1945, the Age of Apocalypse)
 is a reading of Daniel's sealed book and John's Revelation; the
 eschatology is Jewish messianism relocated to aeronautics — the canon
 asks Israel for land, and Chryssides states the identification without
 hedging: "he is the mashiach, the messiah, and the proposed embassy will
 be the new {% wiki(slug="third-temple") %}Third Temple{% end %}." Islam
-is inside the tent by name — "Mohammed in whose writings I am called
-Allah" — and the canon quotes the Qur'an back at its readers, choosing,
-of all passages, the one in which every messenger is dismissed as a
+is included explicitly — "Mohammed in whose writings I am called
+Allah" — and the canon quotes the Qur'an back at its readers, choosing a
+passage in which a messenger is dismissed as a
 forger: {% libref(book="quran-woh", chapter=21, verse=5) %}"A jumble of dreams! No, he has forged it! No, he is a poet-seer!"{% end %}
-(Sura 21:5, cited at ETTMTTP 2:106–109). Mormonism — the Abrahamic
-family's previous new branch — is claimed as a sibling in both the 1973
-and 1979 books. Palmer's summary sentence carries the taxonomic weight:
+(Sura 21:5, cited at ETTMTTP 2:106–109). Mormonism is also claimed as a
+sibling in both the 1973 and 1979 books. Palmer summarizes the cultural
+continuity:
 "Raelian beliefs refer directly to the Bible and retain the outward shape
 of the Judeo-Christian tradition… a large part of the Raelian success
 story is related to its cultural continuity with both the Christian and
-the conflicting scientific worldviews." And her exclamation, closing her
-survey of the first encounter's effect on its first believers, is the
-label this article regards as the most literally accurate on the shelf:
+the conflicting scientific worldviews." She closes her survey of the
+first encounter's effect on its first believers with the same category:
 "They are now true believers in a new fundamentalist, apocalyptic
 Abrahamic religion!"
 
-Assembled, the labels stop competing. By *imagery* Raëlism is a UFO
-religion; by *metaphysics* an atheism; by *epistemic posture* a
-scientism; by *social fit* a postmodernism; by *content, form, lineage,
-and eschatology* it is Abrahamic — a religion whose scripture comments on
-the Tanakh and the Gospels, whose God-word is a Hebrew plural, whose
-messiah petitions Jerusalem for a temple site. The phrase "the youngest
+Viewed as descriptions of different dimensions, the labels need not
+compete. By *imagery* Raëlism is a UFO religion; by *metaphysics* it is an
+atheistic religion; by *epistemic posture* it presents itself as
+scientific; by *social fit* it has been described as postmodern; by
+*content, form, lineage, and eschatology* it can be read as Abrahamic — a
+religion whose scripture comments on the Tanakh and the Gospels, whose
+name for the creators is a Hebrew plural, and whose messenger petitions
+Jerusalem for a temple site. The phrase "the youngest
 Abrahamic religion" appears nowhere in the scholarly literature — the
-descriptor stops at Palmer's adjective — so the reader should take the
-substantive claim as this corpus's own inference, offered with its
-evidence on the table. On that evidence, the case is hard to resist: no
-other twentieth-century movement outside the biblical family's own
-revivals is built this completely out of the family's text, cast, and
-promised future.
+descriptor stops at Palmer's adjective. The substantive claim is therefore
+this corpus's own inference rather than a scholarly consensus. The founding
+texts nevertheless provide substantial evidence
+for that placement through their biblical commentary, prophetic cast, and
+eschatology.
 
 ## The family resemblance: Bahá'í, Oomoto, Cao Đài
 
-There is a second way to classify a religion: put it beside its
-contemporaries and see what shape they share. Raëlism's contemporaries
-are the young universalist religions of the industrial era, and three of
-them make the comparison precise — precise enough that this project
-maintains translations of their founding texts alongside the Raëlian
-canon. The corpus's own
+Comparison with other young universalist religions provides a second way
+to test the classification. The Bahá'í Faith, Oomoto, and Cao Đài are not
+the only possible comparanda, but this project maintains translations of
+their founding texts alongside the Raëlian canon. The corpus's own
 {% wiki(slug="list-of-prophets-and-religions") %}catalog of prophets and
 religions{% end %} already registers all three at its second-highest
-tier of authenticity; what follows reads them side by side, in their own
-words, as the canon's nearest relatives.
+tier of authenticity. What follows reads them side by side, in their own
+words, as especially relevant comparanda.
 
-**The Bahá'í Faith** (declared 1863) is the paradigm case. Out of Shi'i
-Islam's messianic ferment — the Báb's movement of 1844, drowned in blood
-— Bahá'u'lláh announced a revelation that did not abolish the prior
-religions; it *serialized* them. The doctrine of progressive revelation
+**The Bahá'í Faith** (declared 1863) provides the clearest precedent. Out of Shi'i
+Islam's messianic ferment — the Báb's movement of 1844, violently
+suppressed — Bahá'u'lláh announced a revelation that placed the prior
+religions in succession. The doctrine of progressive revelation
 holds that Krishna, Buddha, Zoroaster, Moses, Jesus, and Muhammad were
 successive "Manifestations of God," each delivering what its age could
-bear, each superseded on schedule. The claim is announced in the very
-first line of the *Hidden Words*, in this project's translation:
+bear and followed in time by later manifestations. The first line of the
+*Hidden Words*, in this project's translation, presents revelation as
+something already given to earlier prophets:
 
 {% library(book="hidden-words-woh", chapter=1, verse=1) %}
 He is the Glorious, the Most Glorious. This is that which was sent down
@@ -639,9 +627,10 @@ may fulfil the covenant of God and render up His trusts within their own
 souls.
 {% end %}
 
-*Sent down upon the prophets of old; distilled here* — one revelation,
-many messengers, and a final compact edition. The faith built a world
-administrative center on the slopes of Mount Carmel, adopted the ideal of
+*Sent down upon the prophets of old; distilled here* — one revelation
+expressed through many messengers and presented here in concentrated form.
+The faith built a world administrative center on the slopes of Mount
+Carmel, adopted the ideal of
 a universal auxiliary language,{{ footnote(id="8") }} and has been
 persecuted in its Iranian homeland from the 1850s to the present.
 Scholars class it, without much controversy, as an independent Abrahamic
@@ -659,30 +648,30 @@ Throughout the three-thousand worlds, all together, the plum blossom
 opens; the age of Ushitora no Konjin has come to be.
 {% end %}
 
-Under Nao's successor Onisaburō — showman, sculptor, author of the
-dictum "art is the mother of religion" — Oomoto articulated the doctrine
-that gives the whole comparative class its Japanese name: *bankyō dōkon*,
-"all religions spring from the same root." The oracles centralize the
-claim geographically — {% libref(book="oomoto-shinyu-woh", chapter=1, verse=53) %}"the kami of every land and the guardian deities will be gathered to Ayabe… for this is the noble root of the world"{% end %}
+Under Nao's successor Onisaburō — artist, organizer, and author of the
+dictum "art is the mother of religion" — Oomoto articulated its formula
+for religious unity as *bankyō dōkon*,
+"all religions spring from the same root." The oracles give this claim a
+geographic center — {% libref(book="oomoto-shinyu-woh", chapter=1, verse=53) %}"the kami of every land and the guardian deities will be gathered to Ayabe… for this is the noble root of the world"{% end %}
 — and promise a *tatekae-tatenaoshi*, a "reconstruction and renewal of
 the world's foundation"
 ({% libref(book="oomoto-shinyu-woh", chapter=1, verse=56) %}Shin'yu ¶56{% end %}).
-Oomoto adopted Esperanto in the 1920s and publishes in it still; its
+Oomoto adopted Esperanto in the 1920s and continues to publish in it; its
 Kameoka gate carries the motto "one God, one world, one
 interlanguage."{{ footnote(id="8") }} On 3 March 1928 Onisaburō
 inaugurated a festival proclaiming the opening of the age of Miroku —
 Maitreya — with himself as its herald.{{ footnote(id="4") }} The
-Japanese state answered the movement's scale with the era's full
-violence: prosecutions in 1921, and in 1935 a second suppression in which
-the headquarters at Ayabe and Kameoka were dynamited and the leadership
+Japanese state prosecuted the movement in 1921 and launched a second,
+more destructive suppression in 1935, when the headquarters at Ayabe and
+Kameoka were dynamited and the leadership
 imprisoned — the first religious body prosecuted under the Peace
 Preservation Law.
 
 **Cao Đài** (1926) is revelation by séance. In colonial Saigon, a circle
 of Vietnamese civil servants practicing table-turning in the French
 spiritist fashion began receiving messages from an entity that
-identified itself, in the corpus this project translates, with
-escalating economy:
+identified itself, in the corpus this project translates, in increasingly
+comprehensive terms:
 
 {% library(book="thanh-ngon-hiep-tuyen-woh", chapter=1, verse=69) %}
 Dīpaṃkara, the Ancient Buddha (Nhiên-Đăng Cổ-Phật), is I;
@@ -691,79 +680,79 @@ Taishang, the Primordial Beginning (Thái-Thượng Ngươn-Thỉ), is I;
 Now am I called Cao Đài.
 {% end %}
 
-Every prior founder, one speaker; the unification claim in first-person
-grammar. The messages periodize revelation into three "universal
+Several earlier religious figures are identified with one speaker, making
+the unification claim in first-person grammar. The messages periodize
+revelation into three "universal
 amnesties"{{ footnote(id="9") }} — the prior religions were the first
 two, garbled in transmission; the third dispenses with human
 intermediaries — and the joy of the announcement survives translation:
 {% libref(book="thanh-ngon-hiep-tuyen-woh", chapter=1, verse=73) %}"Rejoice! Rejoice! We have met with the Third Universal Amnesty; the Spirits, Saints, Immortals, and Buddhas in great gladness break into great laughter"{% end %}.
 The religion that organized itself around the séances{{ footnote(id="10") }}
-took its administrative anatomy from the Catholicism of its colonial
+took its administrative structure from the Catholicism of its colonial
 setting — a pope, cardinals, a Holy See at Tây Ninh — canonized Victor
 Hugo among its saints, counted millions of adherents within a
 generation, and was banned outright by the unified communist state from
 1975 until 1997.
 
-Set Raëlism as the fourth column and the structure repeats with the
-regularity of a crystal. A lone, unlettered or unpedigreed messenger
-receives direct dictation from a higher intelligence — Bahá'u'lláh in
-the Síyáh-Chál dungeon, Nao possessed at her kitchen, the Saigon circle
-at the basket, Vorilhon in the crater. The dictation's central claim is
-that *all previous religions are one corrupted memory*, now corrected —
-progressive revelation, *bankyō dōkon*, the Third Amnesty, "the religion
-of religions." The prior founders are enumerated and re-employed —
-Manifestations of God; kami and buddhas gathered to Ayabe; Dīpaṃkara,
-Śākyamuni, Taishang; forty guests at Yahweh's table. A universal language
-is commanded or adopted — the Bahá'í auxiliary-language principle,
-Oomoto's Esperanto, the new tongue of TBWTT 6:16. A sacred center is
-built or awaited — the Arc on Carmel, Ayabe as "the noble root of the
-world," the Holy See at Tây Ninh, the embassy the canon still lacks. The
-home state answers with force or blacklist — Iran's pogroms, the
-dynamite of 1935, the ban of 1975, the *secte* list of 1995. Twice, the
-new messenger reaches for the same waiting title, Maitreya — Onisaburō
-in 1928, Raël in 2003 — two men, seventy-five years apart, claiming one
-Buddhist future in the name of two entirely different cosmologies.
+Placed beside these three traditions, Raëlism shares several structural
+features, though they do not form an exact template. Each begins with a
+claim of new revelation associated with a named person or small circle:
+Bahá'u'lláh in the Síyáh-Chál, Nao writing oracles at Ayabe, the Saigon
+séance circle, and Vorilhon in the crater. Each situates earlier religions
+within a larger scheme, but the schemes differ: progressive revelation,
+*bankyō dōkon*, the Third Amnesty, and "the religion of religions." Each
+also incorporates figures from earlier traditions — Manifestations of
+God; kami and buddhas gathered to Ayabe; Dīpaṃkara, Śākyamuni, and
+Taishang; the forty guests at Yahweh's table.
 
-The differences are just as instructive, and this corpus's standing rule
-— preserve the irreducible differences; the traditions are not "the
-same" — has an easy time here, because the four metaphysics could hardly
-be less alike. Bahá'u'lláh's God is the unknowable One of high
-monotheism. Nao's Ushitora no Konjin is a wronged and returning kami.
+Other parallels are real but uneven. The Bahá'í auxiliary-language
+principle, Oomoto's use of Esperanto, and the new language ordered in
+TBWTT 6:16 have no exact Cao Đài counterpart here. Each tradition has a
+sacred or administrative center — the Arc on Carmel, Ayabe, the Holy See
+at Tây Ninh, or the proposed embassy — but these places serve different
+functions. All four faced state opposition, although persecution in Iran,
+the destruction of Oomoto's centers, Cao Đài's prohibition, and France's
+administrative blacklist differed greatly in severity and kind. A more
+specific parallel joins Onisaburō and Raël: in 1928 and 2003 respectively,
+both claimed the title Maitreya within otherwise different cosmologies.
+
+The metaphysical differences are fundamental. Bahá'u'lláh's God is the
+unknowable One of high monotheism. Nao's Ushitora no Konjin is a wronged
+and returning kami.
 Cao Đài is the Jade Emperor speaking Vietnamese through a beaked basket.
-And the Raëlian canon deletes the category of god altogether, replacing
-the divine speaker with a committee of engineers. What the four share is
-form; what distinguishes them is the furniture of the invisible world —
-and Raëlism is the limiting case of the series, the member in which the
-invisible world's furniture count reaches zero. Each universalism speaks
-the technical idiom of its moment: Persian mysticism in the age of
-empire, kami possession in Meiji Japan, spiritist séances in the
-francophone 1920s, and — after Hiroshima, after Watson and Crick, after
-Sputnik — flying craft and genetic engineering. The canon's own calendar
-concedes the periodization: it counts its years from 1945. A reader who
-wants the four-column comparison in one sentence can have it as a
-hypothesis this project regards as its own *inferred* synthesis: the
-same event keeps happening, and each century's witnesses can only
-describe it with the machines they know.
+The Raëlian canon rejects the category of god altogether, replacing a
+divine speaker with a council of physical creators. The comparison
+therefore concerns patterns of authority, succession, and institution,
+not shared metaphysics. Each tradition also uses concepts available in
+its historical setting: Persian revelatory language, kami possession in
+Meiji Japan, French-influenced spiritist séances in 1920s Vietnam, and —
+after Hiroshima, molecular genetics, and the space age — flying craft and
+genetic engineering. The Raëlian calendar reinforces that last setting by
+counting its years from 1945.
 
-Whether "the same event" is a recurring sociological form or a recurring
-*contact* is exactly the line between the scholarship and the canon, and
-the corpus keeps both readings on the table by policy. The canon's
-position is on record in the fifth chapter of the 1973 book: almost all
+The Wheel of Heaven inference goes further: these recurring forms may
+preserve repeated contacts described in the language available to each
+recipient. Comparative scholarship can identify the recurring form; it
+cannot by itself establish that the events had a common external cause.
+That distinction marks the line between the scholarly comparison and the
+canon. The canon's position is on record in the fifth chapter of the 1973
+book: almost all
 the religious books allude to the creators "more or less clearly." The
-sociologist's position is Palmer's: the future of such movements is
-mainstreaming, and "today's 'cult' might grow up to become the Mormon
-Church, the Bahá'í faith, or the Jehovah's Witnesses of tomorrow." It is
-a mark of how well-formed the comparative class is that the two
-positions predict the same shelf order.
+scholarly comparison supports a more limited conclusion: institutions
+once treated as marginal can develop into durable religions. As Palmer
+puts it, "today's 'cult' might grow up to become the Mormon Church, the
+Bahá'í faith, or the Jehovah's Witnesses of tomorrow." That observation
+does not establish a common cause for the four traditions, but it explains
+why their present size or status cannot settle their classification.
 
 ## The cult wars
 
-No categorization of Raëlism is honest without the file that shaped its
-public image, because for most readers — francophone readers especially
-— the word *Raëlien* arrives pre-loaded: a guru, sex, money. The record
+Any categorization of Raëlism should account for the controversies that
+shaped its public image, because for many readers — especially francophone
+readers — the word *Raëlien* arrives pre-loaded: a guru, sex, money. The record
 is more specific and less lurid, and it cuts in both directions.
 
-The money first, since it is the easiest to audit. Palmer, who examined
+Finances are the easiest part of that record to audit. Palmer, who examined
 the movement's finances across a decade, found an organization running on
 roughly a million dollars a year — book royalties, a modest membership
 fee, and a tithing schedule (3 percent national, 7 percent international,
@@ -772,126 +761,113 @@ claimed in an interview that more than 60 percent of Raelians do not
 tithe," and only the small annual fee was obligatory. When a Quebec
 journalist alleged that Raël pocketed the million, the court's finding —
 in a libel suit the movement *lost* on other grounds — was that the
-revenue figure was accurate and the pocketing inference was not. The
-serious internal allegation on record is an ex-member's charge that
+revenue figure was accurate and the pocketing inference was not. A
+specific internal allegation on record is an ex-member's charge that
 embassy funds subsidized Raël's return to motor racing; the movement's
 books, as Palmer read them, ring-fenced the racing sponsorships instead.
-A religion of sixty-some thousand nominal members{{ footnote(id="6") }}
-holding nine million dollars toward a building it is forbidden to build
-until a government signs is, whatever else, an implausible design for a
-personal enrichment scheme.
+An organization claiming sixty-some thousand nominal members{{ footnote(id="6") }}
+and holding nine million dollars for a building that requires government
+approval does not, on those facts alone, substantiate the charge that it
+was designed chiefly for personal enrichment.
 
-The sex is doctrine, and the doctrine is consent. The movement's sexual
-ethic — hedonist, anti-marriage, contraception-mandatory at its camps
-since 1978, with guides expelled for unwanted advances — scandalized
-exactly the institutions whose own registers of scandal were filling in
-those same decades with materially worse entries. Palmer's chapters on
-the Order of Raël's Angels record the movement's most genuinely
+Sexual ethics form an explicit part of the doctrine. The movement's
+position is hedonist and critical of marriage; contraception has been
+mandatory at its camps since 1978, and guides have been expelled for
+unwanted advances. Palmer's chapters on
+the Order of Raël's Angels record the movement's most
 contested turn — an all-female order, founded on a 1997 revelation, that
 re-polarized a previously gender-flat movement — and her demographic
-portrait records who was actually in the rooms: sex workers, drag queens,
-people with AIDS, the constituencies the Catholic 1980s had no pew for.
-Her summary verdict, from fifteen years of fieldwork, is the one datum
-this section asks the skeptical reader to weigh against the folk image: "a
+portrait records who attended: sex workers, drag queens, and people with
+AIDS, groups often marginalized by Catholic institutions in the 1980s.
+After fifteen years of fieldwork, Palmer described the movement as "a
 harmless, delightful religious subculture bursting with vitality, whose
 values were far more responsive to contemporary dilemmas (overpopulation,
 sexism, racism, nuclear war) than were those of most of the great
 traditions."
 
-The French state's campaign is its own chapter of the story, and Raël's
-1992 pamphlet against it — *Le racisme religieux financé par le
-gouvernement socialiste*, unread in the anglophone literature — is a
-document the categorization debate should know. Its cover bears a red
-circle: the *rouelle*, the badge medieval France forced its Jews to wear.
-Inside, Raël assembles the state's file — a Socialist deputy's proposal
-to legally extract adults from minority religions, education-ministry
-subsidies to the anticult federation UNADFI over a minister's signature,
+The French state's anticult campaign is another part of the record.
+Raël's 1992 pamphlet against it, *Le racisme religieux financé par le
+gouvernement socialiste*, is largely absent from anglophone scholarship
+but documents how the movement answered its classification. Its cover
+bears a red circle: the *rouelle*, the badge medieval France forced its
+Jews to wear. Inside, Raël presents what he regards as the state's case —
+a Socialist deputy's proposal for legal powers to remove adults from
+minority religions, education-ministry subsidies to the anticult federation
+UNADFI over a minister's signature,
 the murder of the Raëlian guide Jean Miguères by a relative steeped in
-anticult rhetoric — and sets it in a longer French series: the Cathars,
-Saint Bartholomew's, 1394, the Vél d'Hiv. The pamphlet's thesis
-sentence is a definition this article, which is about definitions, has
-to record: "La «secte», c'est la religion des autres" — *a "cult" is
-other people's religion.* Three years later the Guyard list made his
-point for him,{{ footnote(id="3") }} and in 1998 Raëlians marched in
-Paris wearing yellow stars. One can find the pamphlet's Holocaust
-rhetoric disproportionate — this corpus does — and still register the
-striking fact about its method: Raël defends himself by citing the
-academic sociology of religion, Eileen Barker and Danielle Hervieu-Léger
-by name, against the psychiatric vocabulary of the anticult movement. The
-prophet's chosen expert witnesses are the discipline whose classification
-problem this article has been working through.
+anticult rhetoric — and places it in a longer history of French
+persecution: the Cathars, the Saint Bartholomew's Day massacre, the 1394
+expulsion of the Jews, and the Vél d'Hiv roundup. Its thesis is a definition
+directly relevant here: "La «secte», c'est la religion des autres" — *a
+"cult" is other people's religion.* Three years later, the Guyard list
+placed the movement within the classification he opposed,{{ footnote(id="3") }}
+and in 1998 Raëlians marched in
+Paris wearing yellow stars. The pamphlet's Holocaust analogy is
+disproportionate, but its method remains notable: Raël defends himself by
+citing the academic sociology of religion, Eileen Barker and Danielle
+Hervieu-Léger by name, against the psychiatric vocabulary of the anticult movement. His
+chosen expert witnesses come from the same discipline whose classification
+problem this article has examined.
 
-And then Clonaid, the episode that fixed the movement's global image in
+The Clonaid announcement transformed the movement's global image in
 seventy-two hours. The corporate shell was real and nearly empty — a
 Bahamas mailbox, then a West Virginia lab the FDA found contained cow
 eggs. The 26 December 2002 announcement of "Eve," the first human clone,
 produced no baby, no DNA test, and no retraction; Boisselier's promised
 verification dissolved; Palmer, canvassing the scenarios, settled on the
 hunch that the chemist had been conned by her own subcontractors, "though
-I have no hard evidence to support it." What the episode proved about
-the movement's relationship to truth-claims is best carried by Raël's own
-sentence, delivered to his followers while the world's cameras were still
-running: "If Brigitte has done it, she has achieved a wonderful thing…
+I have no hard evidence to support it." The episode exposed a tension
+between empirical verification and publicity strategy, captured in Raël's
+own sentence, delivered to his followers while the world's cameras were
+still running: "If Brigitte has done it, she has achieved a wonderful thing…
 If it isn't true, it's the most beautiful scientific joke… but in any
 case, whether true or false, it has allowed us to communicate our message
-to the whole planet." Introvigne's gloss became the standard scholarly
-epitaph: "There is only one thing worse than having a bad press, and that
-is to have no press take an interest in you." Palmer's is stranger and
-deeper — Eve as "prophecy recast in scientific language… a
-reenactment of the Raelian creation myth," a religion demonstrating,
-in a hotel ballroom, that its god-act (creation by cloning) is now a
-human competence. Her aphorism from the book's opening pages is the
-one to keep: "If it is a hoax, it's much more than a hoax." A movement
-that will spend its credibility to dramatize its cosmology has told you
-what it thinks credibility is *for* — and has also told you why the
-taxonomies keep filing it, correctly on the evidence of that week, under
-publicity as much as under piety.
+to the whole planet." Introvigne summarized the media logic: "There is
+only one thing worse than having a bad press, and that is to have no press
+take an interest in you." Palmer instead read Eve as "prophecy recast in
+scientific language… a reenactment of the Raelian creation myth": the
+cloning claim dramatized the movement's belief that a power once attributed
+to gods had become a human competence. Her summary was: "If it is a hoax,
+it's much more than a hoax." Whether fraud, credulity, or failed experiment,
+the episode made media strategy part of the movement's religious history
+rather than a detachable publicity story.
 
 ## The youngest canon and the oldest method
 
-Chryssides closes his study with the observation this project is, in a
-sense, built on: Raëlianism "not only offers a religion, but a theory
-about the origin of all religions." That is the movement's real
-audacity, and it is also the reason a critical, comparative,
-source-driven reading of its canon is not a category error but the only
-adequate response. A theory about all religions invites testing against
-all religions. The Wheel of Heaven corpus does to the Raëlian books
-exactly what generations of scholars have done to the traditions those
-books claim to explain: {% wiki(slug="reference-corpus-of-the-raelian-canon") %}fixed
+Chryssides closes his study with an observation central to this project's
+method: Raëlism "not only offers a religion, but a theory
+about the origin of all religions." That claim makes a critical,
+comparative, source-driven reading of the canon appropriate. A theory
+about all religions should be tested against the traditions it claims to
+explain. The Wheel of Heaven corpus applies familiar scholarly methods to
+the Raëlian books: {% wiki(slug="reference-corpus-of-the-raelian-canon") %}fixed
 reference texts{% end %}, translation with apparatus, claim-typing,
-provenance audits that sometimes cut against the canon — the Kabbalah
-audit found the likeliest 1957 print source for the founding book's most
-technical passage, and said so. Fifty years in, the canon has survived
-the one test a young scripture can be given: it keeps rewarding exactly
-the kind of reading that kills lesser texts. Read casually, it is a
-saucer story. Read closely — against the Hebrew plural it is named for,
-against the Atrahasis and the Popol Vuh, against Bahá'u'lláh and Nao and
-the Tây Ninh séances — it keeps opening onto structure.
+provenance audits that sometimes cut against the canon. The Kabbalah audit,
+for example, identified the likely 1957 print source for the founding
+book's most technical passage. This method has disclosed both meaningful
+comparisons and problems for the canon's claims. It treats the text as a
+source to be tested, rather than reducing it to a saucer story or assuming
+its conclusions in advance.
 
-The classification, then, in the order the evidence assembled it.
-Raëlism is a new religious movement of the UFO era by costume; an
-atheistic religion by its own precise self-description; a scientific
-religion by wager, with a falsification date it has twice moved and
-cannot spiritualize away; a postmodern religion by fit; and by descent,
-content, cast, and eschatology, a member of the Abrahamic family —
-formed, like the Bahá'í Faith before it, by a messenger who serialized
-his predecessors, and standing to the space age as Cao Đài stood to the
-séance room and Oomoto to the possessed brush. The scholars supplied
-every word of that sentence except the family verdict, which is this
-corpus's own inference, argued above.
+The evidence supports a layered classification. Raëlism is a new religious
+movement of the UFO era by imagery; an atheistic religion by its own
+self-description; a scientific religion by stated epistemology, although
+its return deadline puts a central prediction at risk of empirical
+failure; and a
+postmodern religion by cultural fit. Its descent, texts, prophetic cast,
+and eschatology also support reading it as a member of the Abrahamic
+family. The first four descriptions come from the scholarship discussed
+above. The family placement is this corpus's own inference.
 
-Each of the four young universalisms built, or is building, the place
-where its claim is supposed to be made good: the terraced gardens on
-Carmel, the rebuilt courts at Ayabe, the Holy See at Tây Ninh with its
-dragon-wrapped columns. The youngest of the four is the only one whose
-center does not exist — a seven-room residence with a rooftop pad and
-extraterritorial status, specified to the meter in 1973, still waiting
-on a signature that no government has supplied. The canon is
-characteristically unbothered about the wait; its author was told the
-condition in the crater, and the condition is the categorization
-argument in miniature — a temple that is also a landing pad, an
-eschatology that is also a diplomatic protocol, the oldest promise in
-the family's oldest book restated as an infrastructure project:
+Three of the four young universalisms give their claims an established
+institutional or sacred center: the terraced gardens on Carmel, the rebuilt
+courts at Ayabe, and the Holy See at Tây Ninh with its dragon-wrapped
+columns. The Raëlian center does not yet exist. The 1973 text specifies a
+seven-room residence with a rooftop pad and extraterritorial status, a
+design still waiting on a signature that no government has supplied. The text makes the
+return conditional on that preparation. The embassy's double character —
+temple and landing pad, eschatological expectation and diplomatic protocol
+— condenses the article's classification argument:
 
 {% library(book="the-book-which-tells-the-truth", chapter=6, verse=25) %}
 When they are numerous enough and have intensely enough the desire to see
