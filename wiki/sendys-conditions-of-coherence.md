@@ -9,6 +9,7 @@ toc = true
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
+claim_type = "direct"
 alternative_names = ["Sendy's Conditions of Coherence", "Sendy's five conditions", "the conditions of coherence", "Les conditions de cohérence (French)", "the hologram conditions"]
 timeline = ["age-of-aquarius"]
 see_also = [

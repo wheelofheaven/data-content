@@ -9,6 +9,7 @@ toc = true
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
+claim_type = "framework"
 alternative_names = ["the Infinite", "the infinite cosmos", "infinite-cosmological framework", "the broader infinite framework", "cosmic infinity"]
 timeline = ["all-ages"]
 see_also = [

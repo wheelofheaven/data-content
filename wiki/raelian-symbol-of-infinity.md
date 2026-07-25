@@ -9,6 +9,7 @@ toc = true
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
+claim_type = "framework"
 alternative_names = ["the Symbol of Infinity", "the Raëlian emblem", "the Raëlian movement symbol", "the Elohim emblem"]
 timeline = ["aquarius"]
 see_also = [

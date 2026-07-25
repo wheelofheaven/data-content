@@ -10,6 +10,7 @@ featured_order = 3
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
+claim_type = "direct"
 alternative_names = ["the Raëlian Movement", "the International Raëlian Movement", "the Raëlian religion", "Raëlianism", "the IRM"]
 see_also = [
     { title = "Raël", path = "wiki/rael", description = "The founder, born Claude Vorilhon, who reported the 1973 contact." },

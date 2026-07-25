@@ -10,6 +10,7 @@ aliases = ["/wiki/age-of-apocalypse/"]
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "concept"
+claim_type = "framework"
 alternative_names = ["Revelation", "ἀποκάλυψις", "Age of Apocalypse", "Age of Revelation"]
 timeline = ["aquarius"]
 see_also = [

@@ -10,6 +10,7 @@ featured_order = 8
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
+claim_type = "framework"
 alternative_names = ["Bereshit", "B'reshit", "First Book of Moses"]
 see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "The plural creators whose work the first chapter narrates." },
