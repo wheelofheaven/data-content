@@ -104,7 +104,7 @@ its practitioners rarely used the word "euhemerism." **Jean Sendy** read the
 Hebrew Bible this way from 1963 onward; **Erich von Däniken**'s *Chariots of the
 Gods?* (1968) carried a similar thesis to a mass audience; **Zecharia Sitchin**'s
 *The 12th Planet* (1976) and the *Earth Chronicles* built the most detailed
-single system, identifying the Sumerian Anunnaki with visitors from a putative
+single system, identifying the Sumerian {% wiki(slug="anunnaki") %}Anunnaki{% end %} with visitors from a putative
 planet Nibiru; **Robert Charroux** developed a French popular version; and
 **Mauro Biglino** and **Paul Anthony Wallis** carried the reading into close work
 on the biblical text. Most of this literature is filed by scholarship under the

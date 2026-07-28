@@ -495,7 +495,7 @@ claim-type discipline, met in the wild.
 
 One further honesty the audit owes: Biglino's first book leaned on
 Zecharia Sitchin, naming *The Earth Chronicles* as *"the primary source"*
-for its Sumerian frame — Nibiru, gold-mining Anunnaki and all. The later
+for its Sumerian frame — Nibiru, gold-mining {% wiki(slug="anunnaki") %}Anunnaki{% end %} and all. The later
 books walk away from that scaffolding without announcement: the Sumerian
 material is re-sourced to academic Assyriology (Kramer, Pettinato,
 Castellino), Nibiru vanishes, and Sitchin survives only as a bibliography

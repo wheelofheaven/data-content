@@ -37,7 +37,7 @@ references = [
 ]
 +++
 
-Two names sit behind the same recurring question. The Hebrew Bible calls its makers {% wiki(slug="elohim") %}Elohim{% end %} — grammatically plural, usually translated *God*. The cuneiform traditions of Sumer and Babylonia remember the **Anunnaki** among the great gods whose councils frame the creation of humanity and the decision to send the Flood. Are they the same beings under two vocabularies?
+Two names sit behind the same recurring question. The Hebrew Bible calls its makers {% wiki(slug="elohim") %}Elohim{% end %} — grammatically plural, usually translated *God*. The cuneiform traditions of Sumer and Babylonia remember the {% wiki(slug="anunnaki") %}**Anunnaki**{% end %} among the great gods whose councils frame the creation of humanity and the decision to send the Flood. Are they the same beings under two vocabularies?
 
 Wheel of Heaven's answer is **yes**: the Anunnaki and the Elohim are the same creator-civilization, remembered in Sumerian and Hebrew traditions. That answer is more radical than the mainstream reading, because it treats both corpora as {% wiki(slug="neo-euhemerism") %}memories of physically embodied creators{% end %} rather than metaphors for transcendence. It does not, however, make canonical the reconstruction proposed by Zecharia Sitchin, the popular {% wiki(slug="ancient-astronaut-hypothesis") %}ancient-astronaut{% end %} author. The identity of the beings and the interpretation of the surviving records are separate questions. The first is explicit in the corpus's frame; the second still requires philology, comparison, and restraint.
 

@@ -165,7 +165,7 @@ both matter disproportionately to Wheel of Heaven, for reasons given below.
 **Sitchin and the elaboration of the system.** Zecharia Sitchin's *The 12th
 Planet* (1976) and the twelve-volume *Earth Chronicles* that followed gave the
 field its most detailed single reconstruction: a planet "Nibiru" on a 3,600-year
-orbit, and the Sumerian Anunnaki as its inhabitants, who — on Sitchin's reading —
+orbit, and the Sumerian {% wiki(slug="anunnaki") %}Anunnaki{% end %} as its inhabitants, who — on Sitchin's reading —
 engineered humanity as a labour force to mine gold. In the same year Robert
 Temple's *The Sirius Mystery* argued that the Dogon of Mali preserved knowledge of
 the companion star Sirius B that they could not have obtained unaided.

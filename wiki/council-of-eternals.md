@@ -418,7 +418,7 @@ The framework aligns with that scholarly observation, and with Heiser that the m
 
 Assyriological and Ugaritic-studies research supplies textual-historical context. The principal work:
 
-**Thorkild Jacobsen** (*The Treasures of Darkness*, 1976) develops the Mesopotamian assembly in detail, treating the *puḫrum* as the central political-deliberative institution of the Mesopotamian framework, with the Anunnaki and Igigi as its principal members.
+**Thorkild Jacobsen** (*The Treasures of Darkness*, 1976) develops the Mesopotamian assembly in detail, treating the *puḫrum* as the central political-deliberative institution of the Mesopotamian framework, with the {% wiki(slug="anunnaki") %}Anunnaki{% end %} and Igigi as its principal members.
 
 **Wolfgang Heimpel** and other Assyriologists have worked on aspects of the council material across the cuneiform record.
 

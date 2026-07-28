@@ -431,7 +431,7 @@ The pattern is not universal — many cultural traditions do not develop this ki
 - [Babel](../babel/)
 - [Tetragrammaton](../tetragrammaton/)
 - [Yahweh](../yahweh/)
-- [Anunnaki](../anunnaki/)
+- {% wiki(slug="anunnaki") %}Anunnaki{% end %}
 - [Sumerian King List](../sumerian-king-list/)
 - [Plurality of Gods](../plurality-of-gods/)
 - [Antediluvian](../antediluvian/)

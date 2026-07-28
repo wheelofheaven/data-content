@@ -118,7 +118,7 @@ This catalogue is available as a downloadable dataset — the [Prophets & Religi
 | Jainism | 9th c. BCE–present | Parshvanatha; Mahavira | Twenty-four *tirthankaras*; *ahimsa*; ascetic tradition; jiva–ajiva dualism | Highly likely |
 | Sabaean / Harranian tradition | 12th c. BCE–10th c. CE | Hermes / Idris / Enoch | Sabian astral religion; the Harranian Sabians; transmission of late antique pagan philosophy to Islamic philosophy | Highly likely |
 | Ancient Egyptian religion | 31st c. BCE–4th c. CE | — | The *netjeru* (Ennead, Ogdoad); afterlife doctrine; pyramid and coffin texts; *Book of the Dead*; long temple tradition | Highly likely |
-| Sumerian religion | 31st c. BCE–6th c. BCE | — | The Anunnaki; *Enuma Elish*; *Gilgamesh*; the deluge tradition; cuneiform sources | Highly likely |
+| Sumerian religion | 31st c. BCE–6th c. BCE | — | {% wiki(slug="anunnaki") %}The Anunnaki{% end %}; *Enuma Elish*; *Gilgamesh*; the deluge tradition; cuneiform sources | Highly likely |
 | Akkadian / Babylonian religion | 24th c. BCE–6th c. BCE | — | Continuation of Sumerian theology in Semitic form; *Enuma Elish*; astrological tradition | Highly likely |
 | Canaanite religion | 24th c. BCE–6th c. BCE | — | El, Baal, Asherah, Mot, Yam; Ugaritic texts; substrate of Hebrew Bible terminology | Highly likely |
 | Hittite religion | 17th c. BCE–8th c. BCE | — | "Thousand gods" syncretic pantheon; Anatolian–Hurrian–Mesopotamian fusion | Likely |

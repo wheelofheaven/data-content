@@ -164,7 +164,7 @@ distributed patterns in the history of religion, and the framework reads its
 recurrence as meaningful without flattening the traditions into one another.
 
 The Mesopotamian record is the closest neighbour: the high triad of Anu, Enlil,
-and Ea presides over the broader assembly of the Anunnaki, and the councils of
+and Ea presides over the broader assembly of the {% wiki(slug="anunnaki") %}Anunnaki{% end %}, and the councils of
 the *Enuma Elish* and *Atrahasis* deliberate over creation and flood much as the
 Hebrew council deliberates over Ahab or Sodom. Egypt orders its gods into the
 Heliopolitan Ennead and the Hermopolitan Ogdoad; Greece into the Olympian twelve,
