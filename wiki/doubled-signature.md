@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 category = "Cosmology & Framework"
-editorial_pass = "2026-05"
+editorial_pass = "2026-07"
 entry_type = "concept"
 claim_type = "speculative"
 alternative_names = ["the doubled signature", "the doubled-signature principle", "the Hamlet's Mill principle", "the doubled astronomical signature", "doubled invocation across the zodiacal axis"]
@@ -36,526 +36,310 @@ principal_text = "Hamlet's Mill (Santillana and von Dechend, 1969); various Whee
 principal_framework_source = "Giorgio de Santillana and Hertha von Dechend, *Hamlet's Mill* (1969); Jean Sendy, *L'ère du Verseau* (1970)"
 +++
 
-The **Doubled Signature** is the hermeneutic-interpretive principle, drawn from Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (1969) and applied systematically by the Wheel of Heaven corpus, by which each precessional age encodes its astronomical signature in iconographic and religious form across both its current zodiacal sign and the opposite sign on the zodiacal axis. The principle reads the religious symbolism of any precessional age as preserving identifiable astronomical content through the *doubled* invocation of opposed zodiacal figures — the current sign of the age, which marks the constellation against which the vernal equinox rises, and the opposite sign across the zodiacal axis, which appears at the autumnal equinox and provides the iconographic counterweight to the current sign. The redundancy of the doubled invocation is the principle's specific operational feature: by encoding the astronomical signature in *two* iconographic-symbolic complexes rather than one, the cultures that transmit the religious tradition preserve the underlying astronomical identity across centuries during which the original meaning may be lost, the original observers may be forgotten, and the religious tradition may develop substantial subsequent theological elaboration that obscures the astronomical content.
+The **Doubled Signature** is a hermeneutic principle, drawn from Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (1969) and applied systematically by the Wheel of Heaven corpus, by which each precessional age encodes its astronomical signature in iconographic and religious form across two zodiacal signs: the current sign, which marks the constellation against which the vernal equinox rises, and its opposite across the zodiacal axis, which appears at the autumnal equinox and supplies the iconographic counterweight. Encoding the signature in *two* symbolic complexes rather than one is the principle's operative feature: the redundancy lets the astronomical identity survive centuries of transmission during which the original meaning is lost, the first observers are forgotten, and later theological elaboration obscures the astronomical content.
 
-The framework applies the Doubled Signature systematically across the twelve precessional ages of the corpus's broader chronological framework, with substantial development of four specific cases. The **Pisces-Virgo signature** of the Christian era (fish-and-virgin) preserves the Piscean-age astronomical identity through the iconographic pairing of the *ichthys*-bearing Christ with the Virgin Mary, whose virginity has been defended with exceptional theological insistence across two millennia in part because the doctrine's preservation has been the specific mechanism by which the Virgo half of the precessional signature has been transmitted. The **Aries-Libra signature** of the Mosaic period (ram-and-balance) preserves the Aries-age astronomical identity through the pairing of the ram-iconography of the age (Moses's horns, the shofar, the Passover lamb, the substitutionary ram of Isaac, the Egyptian Khnum, the Greek golden fleece) with the scales-of-justice imagery encoded in the Mosaic legal-ethical tradition. The **Taurus-Scorpio signature** of the Abrahamic reconstruction (bull-and-scorpion) preserves the Taurus-age astronomical identity through the well-developed bull-cults of the age (Mesopotamian, Cretan, Egyptian, Indian) paired with the scorpion-iconography that appears at the margins of the same cultural traditions. The **Aquarius-Leo signature** of the present Aquarian age (water-bearer-and-lion) is being laid down across the present period, with the water-imagery saturating contemporary information-age metaphors and Christian baptismal practice while the lion-imagery emerges through the Christian Lion-of-Judah motif, the resurgent political-sovereignty imagery, and the solar-illumination metaphors of the contemporary cultural moment.
+The corpus applies the principle across the twelve precessional ages of its chronology, developing four cases in detail. The **Pisces-Virgo signature** of the Christian era (fish-and-virgin) preserves the Piscean identity through the *ichthys*-bearing Christ paired with the Virgin Mary, whose virginity has been defended with exceptional theological insistence for two millennia — the mechanism, on this reading, by which the Virgo half was transmitted. The **Aries-Libra signature** of the Mosaic period (ram-and-balance) pairs the age's ram-iconography — Moses's horns, the shofar, the Passover lamb, the substitutionary ram of Isaac, the Egyptian Khnum, the Greek golden fleece — with the scales-of-justice imagery of the Mosaic legal-ethical tradition. The **Taurus-Scorpio signature** of the Abrahamic reconstruction (bull-and-scorpion) pairs the bull-cults of the age (Mesopotamian, Cretan, Egyptian, Indian) with the scorpion-iconography at the margins of the same traditions. The **Aquarius-Leo signature** of the present Aquarian age (water-bearer-and-lion) is being laid down now: water-imagery saturates information-age metaphor and Christian baptismal practice, while lion-imagery emerges through the Christian Lion-of-Judah motif, resurgent political-sovereignty imagery, and solar-illumination metaphor.
 
-The reading is contested. Within mainstream historical-critical biblical scholarship, the doubled-signature reading is broadly absent — the various religious traditions are treated as developing through their own internal theological-cultural logics rather than as encoding astronomical content systematically. Within mainstream Egyptology, Assyriology, and broader ancient Near Eastern studies, substantial recognition of astronomical content in religious-iconographic traditions exists, but the specific Hamlet's Mill thesis (that ancient mythological traditions preserve precessional-astronomical knowledge) remains contested, with Santillana and von Dechend's work having received both substantial scholarly engagement and significant critical pushback. Within mainstream astronomy and astronomical history, the precession of the equinoxes is well-established as a real astronomical phenomenon, with the discovery conventionally attributed to Hipparchus in the 2nd century BCE; the question of whether earlier cultures had observational awareness of the phenomenon is the principal point of mainstream-scholarly contention regarding the broader Hamlet's Mill thesis. Within the broader Hamlet's Mill scholarly reception, substantial engagement has developed across the past five decades, with various scholars treating the work's specific claims with varying degrees of acceptance. The corpus's reading is structurally distinctive in its **systematic application** of the doubled-signature principle across all twelve precessional ages — extending the Hamlet's Mill thesis substantially beyond what Santillana and von Dechend explicitly developed, and integrating the principle with the broader Wheel of Heaven framework's specific operational-historical content drawn from the Raëlian source material.
+The reading is contested. Mainstream historical-critical biblical scholarship largely ignores it, treating religious traditions as developing through their own theological-cultural logics rather than encoding astronomical content. Egyptology, Assyriology, and ancient Near Eastern studies recognize astronomical content in religious iconography, but the specific Hamlet's Mill thesis — that ancient myth preserves precessional-astronomical knowledge — remains contested, having drawn both scholarly engagement and sharp criticism. Astronomy treats precession as a real phenomenon discovered, by convention, by Hipparchus in the 2nd century BCE; whether earlier cultures observed it is the central point of contention around the broader thesis. The corpus's reading is distinctive in applying the doubled-signature principle across all twelve ages — extending the Hamlet's Mill thesis beyond what Santillana and von Dechend developed and integrating it with the Wheel of Heaven framework's operational-historical content drawn from the Raëlian source material.
 
-The Doubled Signature principle is registered explicitly as a corpus-internal interpretive contribution rather than as Raëlian source-material content. The Raëlian source identifies certain specific precessional references (the "fish gate" of Pisces, the Age of Apocalypse) but does not develop the full twelve-age framework that the corpus has constructed, and the source does not articulate the doubled-signature principle as a systematic interpretive category. The principle's integration into the corpus's broader analytical apparatus is the corpus's first major contribution beyond the source material — the Hamlet's Mill framework provides the principal interpretive infrastructure within which the Raëlian source's specific historical-operational content is read.
+The principle is registered as a corpus-internal interpretive contribution, not Raëlian source material. The Raëlian source identifies certain precessional references — the "fish gate" of Pisces, the Age of Apocalypse — but neither develops the twelve-age framework nor articulates the doubled-signature principle as a systematic category. Its integration into the corpus is the first major contribution beyond the source material: the Hamlet's Mill framework supplies the interpretive infrastructure within which the Raëlian source's historical-operational content is read.
 
 ## Etymology and naming
 
-The Doubled Signature principle does not have a single source-material designation. The corpus uses several related terms across its various entries.
+The principle has no single source-material name; the corpus uses several related terms.
 
 ### "Doubled Signature" as the principal designation
 
-The English term **"Doubled Signature"** is the corpus's principal designation for the principle. The construction combines:
-
-- **"Doubled"** — indicating the specific redundant character of the invocation across the zodiacal opposition axis
-- **"Signature"** — indicating the identifying-marker character of the astronomical content preserved in religious-iconographic form
-
-The term is corpus-internal — it does not appear in either the Raëlian source material or in Santillana and von Dechend's *Hamlet's Mill* under this specific designation. The corpus has condensed the broader Hamlet's Mill argument and various related phrasings into the standard designation.
+The English term **"Doubled Signature"** is the corpus's principal designation. "Doubled" marks the redundant invocation across the zodiacal opposition axis; "Signature" marks the identifying character of the astronomical content preserved in religious-iconographic form. The term is corpus-internal — it appears under this designation in neither the Raëlian source material nor Santillana and von Dechend's *Hamlet's Mill* — and condenses the broader Hamlet's Mill argument into a single label.
 
 ### Hamlet's Mill terminology
 
-Santillana and von Dechend use various terms for the underlying observation across *Hamlet's Mill*:
+Santillana and von Dechend use several terms for the underlying observation:
 
-- **"Astronomical signature"** — the specific astronomical content preserved in mythological-religious tradition
-- **"Code language"** — the broader designation for the systematic encoding of astronomical content in religious-mythological form
-- **"International initiatic language"** — the specific phrase from *Hamlet's Mill* describing the cross-cultural pattern of astronomical-religious encoding (cited at *Hamlet's Mill* p. 347 and discussed in Sendy's engagement with the work)
-- **"Doubled invocation"** — descriptive phrasing for the specific opposition-axis pattern
+- **"Astronomical signature"** — the astronomical content preserved in mythological-religious tradition
+- **"Code language"** — the systematic encoding of astronomical content in religious-mythological form
+- **"International initiatic language"** — the cross-cultural pattern of astronomical-religious encoding (*Hamlet's Mill* p. 347, discussed in Sendy's engagement with the work)
+- **"Doubled invocation"** — the opposition-axis pattern
 
-The Hamlet's Mill terminology is more diffuse than the corpus's standardized designation, with Santillana and von Dechend developing the underlying observation across multiple specific cases rather than condensing it into a single technical term.
+Their terminology is more diffuse than the corpus's standardized designation, developed across many cases rather than condensed into one technical term.
 
 ### Other related terminology
 
-Several related conceptual terms operate within the framework:
+Related terms operate within the framework:
 
-- **"Opposition axis"** — the corpus's term for the line connecting opposed zodiacal signs (Aries-Libra, Taurus-Scorpio, etc.)
-- **"Precessional signature"** — the astronomical identity of a specific precessional age, preserved through doubled iconographic invocation
-- **"Iconographic encoding"** — the specific mechanism by which the astronomical signature is preserved in religious-cultural form
-- **"Cross-age preservation"** — the broader function the doubled signature serves (preserving astronomical identity across long cultural-transmission periods)
-
-The cross-corpus terminology is consistent in its specific framing: the principle concerns the **systematic preservation of astronomical content** through the **redundant doubled invocation of opposed zodiacal figures** in religious-iconographic tradition.
+- **"Opposition axis"** — the line connecting opposed zodiacal signs (Aries-Libra, Taurus-Scorpio, etc.)
+- **"Precessional signature"** — the astronomical identity of an age, preserved through doubled iconographic invocation
+- **"Iconographic encoding"** — the mechanism preserving the signature in religious-cultural form
+- **"Cross-age preservation"** — the function the doubled signature serves across long transmission periods
 
 ## Conventional understanding
 
-The Doubled Signature principle as a specific hermeneutic category is largely a corpus-internal analytical construction, with the underlying *Hamlet's Mill* thesis being the principal point of contact with conventional scholarly treatment. The principal positions on the broader question of astronomical content in religious-iconographic traditions warrant individual treatment.
+The Doubled Signature as a hermeneutic category is largely a corpus-internal construction; its principal point of contact with conventional scholarship is the underlying *Hamlet's Mill* thesis.
 
 ### Mainstream historical-critical biblical scholarship
 
-Mainstream historical-critical biblical scholarship has largely not engaged the doubled-signature reading as a systematic hermeneutic category. The principal positions:
-
-**The literary-theological reading**. The various biblical traditions are read as developing through their own internal theological-cultural logics rather than as encoding astronomical content systematically. Specific iconographic features (the Mosaic horns, the ram of Isaac's sacrifice, the Christian fish symbolism) are treated within their specific theological-narrative contexts rather than as fragments of a broader systematic astronomical encoding.
-
-**The form-critical and source-critical readings**. The various biblical traditions are analyzed through specific source-critical and form-critical methodologies, with substantial attention to compositional history, redactional layers, and genre conventions. The doubled-signature reading would require a substantially different methodological framework than these mainstream approaches employ.
-
-**The history-of-religions readings**. Some mainstream scholarship has engaged with the broader question of astronomical-religious content (particularly in connection with Mesopotamian, Egyptian, and Greek astronomical traditions), but the specific Hamlet's Mill systematic-encoding thesis has not been broadly accepted as a methodological framework for biblical interpretation.
-
-The framework's reading is structurally distinctive within this scholarly landscape — substantially extending the doubled-signature reading beyond what mainstream biblical scholarship has engaged.
+Mainstream biblical scholarship has not engaged the doubled-signature reading as a systematic category. On the **literary-theological** reading, the biblical traditions develop through their own theological-cultural logics; iconographic features such as the Mosaic horns, the ram of Isaac's sacrifice, and Christian fish symbolism are read in their narrative contexts, not as fragments of an astronomical code. **Source- and form-critical** approaches analyze compositional history, redactional layers, and genre conventions — a methodological frame quite different from what the doubled-signature reading requires. **History-of-religions** work has engaged astronomical-religious content, particularly in Mesopotamian, Egyptian, and Greek traditions, but the Hamlet's Mill systematic-encoding thesis has not been accepted as a framework for biblical interpretation.
 
 ### Mainstream astronomical-historical scholarship
 
-Mainstream astronomical-historical scholarship has produced substantial work on the precession of the equinoxes and on ancient astronomical knowledge generally. The principal positions:
-
-**Hipparchus and the conventional discovery date**. The precession of the equinoxes is conventionally attributed to **Hipparchus of Rhodes** (c. 190–120 BCE), whose specific astronomical observations and calculations are preserved through Ptolemy's *Almagest* and other sources. Hipparchus identified the precession by comparing his own stellar observations with those of earlier Greek astronomers (Timocharis, Aristyllus) and noting the systematic shift in stellar positions over the intervening centuries. The conventional astronomical-history reading treats Hipparchus as the discoverer of the phenomenon.
-
-**Earlier observational awareness questions**. Various scholars have argued for earlier observational awareness of precession in Babylonian, Egyptian, and other ancient astronomical traditions. The arguments are technically substantial but contested. **Bartel Leendert van der Waerden**'s work on Babylonian astronomy proposed substantial precession awareness in pre-Hipparchian Babylonian sources; **Otto Neugebauer**'s extensive Babylonian-astronomical scholarship was more cautious, treating precession as a Hipparchan discovery; **Norman Lockyer**'s late-19th-century work on Egyptian astronomy proposed substantial precession-related content in Egyptian temple alignments; **Giorgio de Santillana and Hertha von Dechend**'s *Hamlet's Mill* (1969) extended the broader argument substantially, treating the precessional content as systematically encoded across multiple cultural traditions reaching back into pre-literate prehistory.
-
-**Modern precession measurements**. Contemporary astronomy has measured the precession with substantial precision: the Earth's axis precesses at approximately 50.3 arcseconds per year, completing a full circuit in approximately 25,772 years (the contemporary "Platonic year" figure, refined from the broader 25,920-year traditional figure). The precession is well-established as a real astronomical phenomenon, with the conventional 25,920-year figure being a slightly idealized version of the more precise modern measurement.
-
-The framework's relationship to mainstream astronomical-historical scholarship is one of broader-framework consistency. The framework accepts the precession as a real astronomical phenomenon (consistent with mainstream science), accepts that observational awareness of precession is technically achievable from naked-eye astronomical observation maintained across centuries (consistent with the Hamlet's Mill argument), and applies the doubled-signature reading as a specific hermeneutic principle for interpreting the religious-iconographic record.
+Precession is conventionally attributed to **Hipparchus of Rhodes** (c. 190–120 BCE), whose observations and calculations survive through Ptolemy's *Almagest* and other sources; he identified it by comparing his own stellar positions with those of the earlier Greek astronomers Timocharis and Aristyllus. Various scholars have argued for earlier awareness, on technically substantial but contested grounds: **Bartel Leendert van der Waerden** proposed precession awareness in pre-Hipparchian Babylonian sources; **Otto Neugebauer** was more cautious, treating it as a Hipparchan discovery; **Norman Lockyer** proposed precession-related content in Egyptian temple alignments; and **Giorgio de Santillana and Hertha von Dechend**'s *Hamlet's Mill* (1969) extended the argument to content systematically encoded across many traditions reaching into pre-literate prehistory. Modern astronomy measures the axis precessing at about 50.3 arcseconds per year, a full circuit in about 25,772 years — the modern figure that the traditional 25,920-year "Platonic year" idealizes. The framework accepts precession as a real phenomenon and accepts that observational awareness of it is achievable from naked-eye observation maintained across centuries.
 
 ### Scholarly engagement with astrology
 
-Mainstream scholarly engagement with astrology has produced substantial work on the historical development of astrological tradition and on its specific relationship to astronomical observation. The principal positions:
-
-**Jim Tester**'s *A History of Western Astrology* (1987) provides the principal scholarly treatment of Western astrology's historical development from Mesopotamian origins through the Hellenistic synthesis to medieval and modern developments.
-
-**James Holden**'s *A History of Horoscopic Astrology* (2nd ed., 2006) provides comprehensive treatment of the technical-historical development of horoscopic astrology specifically.
-
-**Nicholas Campion**'s various works (including *A History of Western Astrology*, 2 vols., 2008-2009; *Astrology and Cosmology in the World's Religions*, 2012; and others) provide substantial cultural-historical treatment of astrology's place in the broader history of religion and culture.
-
-**The mainstream astrological-historical position** generally treats the zodiacal opposition-axis pattern as a well-established feature of classical astrological tradition, with substantial documentation across the Hellenistic, medieval Islamic, and medieval European astrological literature. The opposition axes (Aries-Libra, Taurus-Scorpio, etc.) are treated as fundamental structural features of the zodiacal system, with the meaning of any sign being understood in relation to its opposite.
-
-The framework's reading is substantially aligned with mainstream astrological-historical scholarship at the structural level (the opposition-axis principle is well-documented in the astrological tradition) while extending it through the doubled-signature application to the broader religious-iconographic record.
+Scholarship on astrology's history documents the zodiacal opposition-axis pattern as a structural feature of the tradition. **Jim Tester**'s *A History of Western Astrology* (1987) traces Western astrology from Mesopotamian origins through the Hellenistic synthesis to the modern period; **James Holden**'s *A History of Horoscopic Astrology* (2nd ed., 2006) treats horoscopic astrology specifically; and **Nicholas Campion**'s works (*A History of Western Astrology*, 2 vols., 2008–2009; *Astrology and Cosmology in the World's Religions*, 2012; *Astrology and Popular Religion in the Modern West*, 2012) treat astrology's place in the history of religion and culture. The opposition axes (Aries-Libra, Taurus-Scorpio, and the rest) are well documented across Hellenistic, medieval Islamic, and medieval European astrological literature, each sign read in relation to its opposite. The corpus's reading aligns with this structural point while extending it, through the doubled-signature application, to the wider religious-iconographic record.
 
 ### Hamlet's Mill scholarly reception
 
-*Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* by **Giorgio de Santillana** (Professor of History and Philosophy of Science at MIT) and **Hertha von Dechend** (University of Frankfurt) was published in 1969 by Gambit (Boston). The work has had a complex scholarly reception across the subsequent decades.
-
-**The work's basic argument** is that ancient mythological traditions across multiple cultures encode substantial astronomical knowledge — particularly knowledge of precession — in coded mythological form. The work's principal evidence is drawn from Mesopotamian, Egyptian, Greek, Norse, Indian, and various other mythological traditions, with extensive cross-cultural comparison establishing what Santillana and von Dechend treat as a coherent "code language" of astronomical-mythological encoding.
-
-**Substantial scholarly engagement** has developed across the past five decades. The work has been substantially praised by some scholars (including various scholars Sendy notes in his engagement with the work — Princeton, Cornell, and Harvard professors he cites by reference) and substantially criticized by others. The principal critical positions include questions about the work's methodological rigor, the specific philological claims it makes, and the broader plausibility of the systematic encoding thesis.
-
-**Subsequent developments** in archaeoastronomy and the broader history-of-science literature have produced both supporting and critical material relative to the Hamlet's Mill thesis. The broader scholarly question of whether ancient mythological traditions systematically encode precessional knowledge remains open, with mainstream scholarship generally treating the question with caution while acknowledging that substantial astronomical content does appear in ancient religious-mythological traditions.
-
-The corpus's relationship to Hamlet's Mill is one of substantial methodological adoption with specific extension. The corpus accepts the broad Hamlet's Mill argument as the principal interpretive framework within which the Raëlian source's specific historical-operational content is read; the corpus extends the argument substantially through the systematic application of the doubled-signature principle across all twelve precessional ages.
+*Hamlet's Mill* was published in 1969 by Gambit (Boston) by **Giorgio de Santillana** (Professor of History and Philosophy of Science at MIT) and **Hertha von Dechend** (University of Frankfurt). Its argument is that ancient myths across many cultures — Mesopotamian, Egyptian, Greek, Norse, Indian, and others — encode astronomical knowledge, particularly of precession, in a coherent "code language." Reception has been mixed: some scholars praised it (Sendy reports Princeton, Cornell, and Harvard professors speaking admiringly), while critics questioned its methodological rigor, its philological claims, and the plausibility of the systematic-encoding thesis. The corpus adopts the broad argument as its principal interpretive framework and extends it through the systematic twelve-age application.
 
 ## In primary sources
 
-The Doubled Signature principle does not appear in the Raëlian source material directly, but is drawn from Santillana and von Dechend's *Hamlet's Mill* and applied by the corpus to the broader source material. The principal primary-source content for the principle's application warrants treatment.
+The principle does not appear in the Raëlian source material directly; it is drawn from *Hamlet's Mill* and applied by the corpus to that material.
 
 ### Hamlet's Mill (Santillana and von Dechend, 1969)
 
-The principal primary source for the Doubled Signature principle is *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (Boston: Gambit, 1969). The work is comprehensive — over 500 pages of detailed cross-cultural comparison — and the corpus does not attempt to summarize its full content. The principal points relevant to the doubled-signature principle:
-
-**The basic thesis** is that ancient mythological traditions across multiple cultures encode substantial astronomical knowledge in coded mythological form, with the encoding being systematic rather than coincidental and reflecting a substantial pre-literate astronomical tradition that subsequent cultural transmission has preserved without preserving the encoding-key.
-
-**The opposition-axis observation** is developed across multiple specific cases in *Hamlet's Mill*. Santillana and von Dechend observe that the religious-mythological treatments of the various zodiacal signs typically reference both the current sign and the opposite sign across the zodiacal axis, with the specific iconographic content of each treatment preserving the doubled astronomical identity.
-
-**The "international initiatic language" passage** at *Hamlet's Mill* p. 347 treats the cross-cultural astronomical encoding as the residue of a substantial pre-literate astronomical tradition that has been preserved across multiple cultural traditions through the doubled-encoding mechanism. The passage is cited by Sendy in *L'ère du Verseau* as one of the principal Hamlet's Mill passages establishing the broader argument.
-
-**The specific cases developed in Hamlet's Mill** include substantial treatment of the Mesopotamian, Egyptian, Greek, Norse, and various other mythological traditions, with attention to the specific astronomical content encoded in each. The work does not develop the systematic twelve-age application that the corpus has subsequently constructed.
+The principal source is *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (Boston: Gambit, 1969), over 500 pages of cross-cultural comparison the corpus does not attempt to summarize in full. Its **thesis** is that ancient myths systematically encode astronomical knowledge, reflecting a pre-literate astronomical tradition preserved by later transmission without its encoding-key. The **opposition-axis observation** runs through many cases: mythological treatments of a zodiacal sign typically reference both that sign and its opposite across the axis, each preserving the doubled astronomical identity. The **"international initiatic language"** passage (p. 347) treats the cross-cultural encoding as the residue of that pre-literate tradition; Sendy cites it in *L'ère du Verseau* as one of the work's key passages. The developed cases — Mesopotamian, Egyptian, Greek, Norse, and others — do not include the twelve-age application the corpus later constructed.
 
 ### Sendy on Hamlet's Mill
 
-**Jean Sendy** in *L'ère du Verseau* (1970) provides the principal scholarly bridge between *Hamlet's Mill* and the broader interpretive framework the Wheel of Heaven corpus has developed. The relevant passage from Sendy's chapter 7:
+**Jean Sendy**, in *L'ère du Verseau* (1970), provides the principal scholarly bridge between *Hamlet's Mill* and the framework the Wheel of Heaven corpus has developed. From his chapter 7:
 
 > *"Je ne saurais trop vous engager à vous procurer Hamlet's Mill, parce que ce livre a changé la face du problème... Depuis la parution de Hamlet's Mill, le fait que la Tradition transmet, depuis le néolithique, des connaissances en astronomie que nous commençons tout juste à retrouver, ce fait n'est plus contestable. C'est une idée neuve."*
 
-Sendy's specific contributions:
-
-- The recognition that *Hamlet's Mill* establishes a substantively new interpretive framework for reading ancient religious-mythological tradition
-- The integration of the *Hamlet's Mill* framework with Sendy's broader reading of the Hebrew Bible as preserving substantive operational content
-- The specific application of *Hamlet's Mill* readings to the broader question of when the prophesied Golden Age would arrive (Sendy specifically argues for "now" rather than "seven or eight centuries hence" based partly on the *Hamlet's Mill* framework)
-- The cross-references to specific Princeton, Cornell, and Harvard scholars who, Sendy reports, spoke admiringly of *Hamlet's Mill* in his conversations with them
-
-Sendy's *L'ère du Verseau* engagement with *Hamlet's Mill* is the principal source material for the corpus's specific Hamlet's Mill-Raëlian integration — Sendy provides the methodological warrant for treating *Hamlet's Mill* as a substantive interpretive framework within which the Raëlian source material can be read.
+Sendy's contributions: recognizing that *Hamlet's Mill* establishes a new interpretive framework for reading ancient religious-mythological tradition; integrating it with his reading of the Hebrew Bible as preserving operational content; applying it to when the prophesied Golden Age would arrive (arguing for "now" rather than "seven or eight centuries hence"); and citing Princeton, Cornell, and Harvard scholars who, he reports, spoke admiringly of the work. His *L'ère du Verseau* engagement is the corpus's principal warrant for treating *Hamlet's Mill* as an interpretive framework within which the Raëlian material can be read.
 
 ### The Raëlian source material's specific precessional references
 
-The Raëlian source material identifies certain specific precessional references that the corpus integrates with the broader doubled-signature framework:
+The Raëlian source identifies precessional references the corpus integrates with the framework:
 
-**The "fish gate" of Pisces** at Zephaniah 1:10 is identified by the source material as the prophetic reference to the Pisces-to-Aquarius transition. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry; the doubled-signature contribution is registering that the Hebrew prophet's specific use of "fish gate" terminology preserves the Piscean-age astronomical signature in the Hebrew Bible itself.
+- **The "fish gate" of Pisces** at Zephaniah 1:10 is read as the prophetic reference to the Pisces-to-Aquarius transition; the detailed treatment lives in the [Apocalypse](../apocalypse/) entry. The doubled-signature contribution is that the prophet's "fish gate" terminology preserves the Piscean-age signature in the Hebrew Bible itself.
+- **The Age of Apocalypse** is the source's designation for what the corpus's chronology treats as the Aquarian age.
+- **The 1946 "first year of the new era"** marks the Aquarian-age opening, aligning with the precessional transition the framework places in the same period.
 
-**The Age of Apocalypse** terminology used by the source material for the present period is the source's specific designation for what the corpus's broader chronological framework treats as the Aquarian age. The doubled-signature contribution is registering that the source's specific terminology aligns with the broader precessional framework the corpus develops.
-
-**The 1946 "first year of the new era"** designation is the source's specific marker for the Aquarian-age opening. The doubled-signature contribution is registering that the source's specific dating aligns with the precessional transition that the broader framework places in the same period.
-
-The Raëlian source material does not develop the full twelve-age framework or the systematic doubled-signature principle. These are corpus contributions building on the source's specific gestures.
+The source develops neither the twelve-age framework nor the systematic doubled-signature principle; both are corpus contributions building on these gestures.
 
 ### The corpus's worked-case primary sources
 
-The principal primary-source material for the four worked cases:
+The four worked cases draw on:
 
-**The Pisces-Virgo case** draws on the New Testament's Christian-tradition material (the Gospels' fish-related episodes, the *ichthys* tradition, the Mary-virgin theology of the Gospels and subsequent tradition), the Christian iconographic tradition across two millennia (the Madonna-and-fish imagery, the *ichthys* symbol, the broader Christian art tradition), and the specific theological developments (the virginity doctrine's preservation against substantial exegetical pressure).
-
-**The Aries-Libra case** draws on the Hebrew Bible's Mosaic-period material (Exodus, Leviticus, Numbers, Deuteronomy), the specific Mosaic iconographic preservation (the horns of Moses in the Vulgate's *cornuta facies*, preserved in medieval and Renaissance iconography), the shofar tradition in continuing Jewish liturgical practice, and the broader Aries-period iconographic record (the Egyptian Khnum, the Greek golden fleece, the substitutionary ram of Isaac's sacrifice).
-
-**The Taurus-Scorpio case** draws on the Mesopotamian, Cretan, Egyptian, and Indian bull-cult traditions of the Taurus period; the specific scorpion-iconography of various ancient Near Eastern traditions (the Babylonian scorpion-deity, various scorpion-related religious motifs); and the Hebrew Bible's Abrahamic-period material that the corpus reads through the broader Taurus-age framework.
-
-**The Aquarius-Leo case** draws on contemporary cultural material (information-age water metaphors, the resurgent political-sovereignty imagery, contemporary solar-illumination metaphors), the Christian baptismal tradition (the water imagery extending into the Aquarian age), and the Christian Lion-of-Judah motif (the Davidic-and-Christological imagery preserved in Genesis 49:9 and Revelation 5:5).
+- **Pisces-Virgo**: the New Testament fish episodes and *ichthys* tradition, the Mary-virgin theology of the Gospels and later tradition, two millennia of Christian iconography (Madonna-and-fish imagery, the *ichthys* symbol), and the virginity doctrine's preservation against exegetical pressure.
+- **Aries-Libra**: the Mosaic-period books (Exodus, Leviticus, Numbers, Deuteronomy), the horns of Moses in the Vulgate's *cornuta facies* preserved in medieval and Renaissance iconography, the shofar tradition in Jewish liturgy, and the wider Aries-period record (the Egyptian Khnum, the Greek golden fleece, the substitutionary ram of Isaac's sacrifice).
+- **Taurus-Scorpio**: the Mesopotamian, Cretan, Egyptian, and Indian bull-cults, the scorpion-iconography of ancient Near Eastern traditions (the Babylonian scorpion-deity), and the Hebrew Bible's Abrahamic-period material read through the Taurus-age frame.
+- **Aquarius-Leo**: contemporary cultural material (information-age water metaphors, resurgent political-sovereignty and solar imagery), the Christian baptismal tradition, and the Christian Lion-of-Judah motif (Genesis 49:9, Revelation 5:5).
 
 ## The concept's content
 
-The framework's specific articulation of the Doubled Signature principle integrates the Hamlet's Mill argument with the corpus's broader twelve-age framework into a coherent interpretive category.
-
 ### The basic operational principle
 
-The Doubled Signature operates through three interrelated components:
-
-**Astronomical observation**: Each precessional age corresponds to the constellation against which the vernal equinox rises. The age's defining astronomical feature is therefore the specific zodiacal sign that hosts the equinox during the age. The age's iconographic-religious symbolism encodes this astronomical fact through specific animal, human, or other imagery associated with the constellation.
-
-**Opposition-axis encoding**: The age's iconography also encodes the opposite zodiacal sign across the axis. The opposition is structural — any division of the ecliptic into twelve equal segments produces six pairs of opposed signs, with each pair separated by 180 degrees. The specific opposition pairs are: Aries-Libra, Taurus-Scorpio, Gemini-Sagittarius, Cancer-Capricorn, Leo-Aquarius, Virgo-Pisces. The age's iconography systematically references both the current sign and the opposite sign, with both references reinforcing the astronomical signature.
-
-**Doubled redundancy**: The doubling provides redundancy that ensures the astronomical signature survives cultural transmission. A single iconographic reference might be lost or transformed across centuries of transmission; doubled references in opposed iconographic complexes preserve the underlying astronomical identity through cross-redundancy. The principle reads the doubled invocation as the specific mechanism by which precessional knowledge has been preserved across the long cultural-transmission periods during which the original meaning may have been forgotten.
+The Doubled Signature operates through three components. **Astronomical observation**: each precessional age corresponds to the constellation hosting the vernal equinox, and the age's iconography encodes that constellation through associated animal, human, or other imagery. **Opposition-axis encoding**: the iconography also encodes the opposite sign across the axis — dividing the ecliptic into twelve equal segments yields six pairs 180 degrees apart (Aries-Libra, Taurus-Scorpio, Gemini-Sagittarius, Cancer-Capricorn, Leo-Aquarius, Virgo-Pisces) — so both signs reinforce the signature. **Doubled redundancy**: a single reference may be lost or transformed over centuries, but references in two opposed complexes preserve the astronomical identity through cross-redundancy, the mechanism by which precessional knowledge survives the loss of its original meaning.
 
 ### The principle's epistemic status
 
-The Doubled Signature is, on the corpus's explicit registration, **interpretive construction** rather than direct source-material content. The principle is drawn from Santillana and von Dechend's *Hamlet's Mill* and applied systematically by the corpus to the twelve-age framework — neither *Hamlet's Mill* itself nor the Raëlian source material articulates the principle in the systematic form the corpus develops.
-
-The framework's specific position on the principle's epistemic status:
-
-- The principle is **methodological** rather than **ontological** — it concerns how to read the religious-iconographic record rather than making specific historical claims
-- The principle is **consistent** with the corpus's broader framework but is **not derived** from the framework
-- The principle is **predictive** in the sense that it generates specific expectations about the iconographic content of any age (for example, the Aquarian age should produce both water-bearer and lion iconography), but the predictions are testable against the actual iconographic record
-- The principle is **open to revision** if specific cases fail to confirm the doubled-encoding pattern, though the four worked cases substantially confirm the pattern
-
-The framework's epistemic-status registration is important because the principle's specific applications (particularly to specific theological doctrines like Mary's virginity) involve substantial interpretive claims that go beyond what mainstream theological-historical scholarship would accept. The framework registers these claims as specifically corpus-internal rather than as scholarly consensus.
+On the corpus's own registration, the Doubled Signature is **interpretive construction**, not direct source content: drawn from *Hamlet's Mill* and applied to the twelve-age framework, though neither *Hamlet's Mill* nor the Raëlian source material articulates it in that systematic form. It is **methodological** rather than ontological — about how to read the religious-iconographic record, not a historical claim; **consistent** with but **not derived** from the broader framework; **predictive**, generating testable expectations (the Aquarian age should yield both water-bearer and lion iconography); and **open to revision** if cases fail, though the four worked cases confirm the pattern. The registration matters because some applications — Mary's virginity above all — carry interpretive claims well beyond what mainstream theological-historical scholarship accepts, and the corpus marks these as corpus-internal rather than scholarly consensus.
 
 ### The mechanism of preservation
 
-The framework reads the doubled-signature mechanism as having several specific features that account for its long-term preservation function:
-
-**Iconographic redundancy** ensures that loss of one half of the signature does not destroy the underlying astronomical identity. If only the fish symbolism of Christianity were preserved without the virgin imagery, the Piscean-age signature would be partially preserved; the virgin imagery alongside the fish ensures fuller preservation. The redundancy is the specific feature that distinguishes the doubled signature from single-signature preservation.
-
-**Theological insulation** preserves the iconographic content even when the astronomical meaning is forgotten. The Christian tradition's preservation of Mary's virginity has not been driven by astronomical-iconographic awareness across the past two millennia — most Christians who have venerated Mary's virginity have not been aware of the Virgo-Pisces precessional connection. The theological-doctrinal insulation has preserved the iconographic content despite the loss of the original astronomical meaning. This is a substantively significant feature of the principle: it explains why the iconographic content can be preserved across centuries during which the original meaning is unknown.
-
-**Cross-cultural transmission** ensures that the doubled signature can survive the specific cultural-political vicissitudes of any single tradition. The Aries-age ram-and-balance signature, for example, is preserved across multiple distinct cultural traditions (Hebrew, Egyptian, Greek, Celtic) — the loss of any one tradition does not destroy the underlying signature.
-
-**Liturgical embedding** preserves the iconographic content through ritual practice across centuries. The Jewish shofar tradition has preserved the Aries-age ram signature through continuous liturgical use across approximately three thousand years. The Christian baptismal tradition has preserved water imagery that will increasingly serve as the Aquarian-age water-bearer signature across the Aquarian centuries.
-
-The mechanism's combined effect is substantial preservation across long timescales, with the doubled-signature pattern providing the specific structural feature that enables the preservation function.
+Several features account for the long-term preservation function. **Iconographic redundancy** means loss of one half does not destroy the identity: fish symbolism alone would preserve the Piscean signature only partially; the virgin imagery alongside it preserves it more fully. **Theological insulation** preserves the iconographic content after the astronomical meaning is forgotten — most Christians venerating Mary's virginity across two millennia were unaware of the Virgo-Pisces connection, yet the doctrine carried the imagery regardless, which is why the content can survive centuries during which its meaning is unknown. **Cross-cultural transmission** lets the signature survive the fortunes of any one tradition: the Aries ram-and-balance signature is preserved across Hebrew, Egyptian, Greek, and Celtic traditions, so no single loss destroys it. **Liturgical embedding** preserves content through ritual: the Jewish shofar has carried the Aries ram signature through roughly three thousand years of continuous use, and Christian baptism carries water imagery that will increasingly serve as the Aquarian signature.
 
 ### The four worked cases: detail
 
-The corpus has developed four specific worked cases of the doubled-signature principle. The worked cases are the principal evidence for the principle's operational reality.
+The four worked cases are the principal evidence for the principle's operation.
 
 #### The Pisces-Virgo signature (Christianity)
 
-The Pisces-Virgo signature is the most extensively developed worked case in the corpus, given the substantial Christian iconographic record across two millennia.
+The most fully developed case, given the two-millennia Christian iconographic record.
 
-**The Pisces half: fish symbolism**. The Christian tradition's fish symbolism is extensive and well-documented:
+**The Pisces half (fish symbolism)**:
 
-- The *ichthys* (ΙΧΘΥΣ, "fish") acronym serving as a Christian identification mark from the early Christian period — Ἰησοῦς Χριστὸς Θεοῦ Υἱὸς Σωτήρ ("Jesus Christ, God's Son, Savior")
-- Jesus's calling of fishermen disciples (Peter, Andrew, James, John) and the specific phrase "fishers of men" (Matthew 4:19, Mark 1:17)
-- The miraculous catches of fish in Luke 5:1-11 and John 21:1-14
-- The feeding of the 5,000 with five loaves and two fish (Matthew 14:13-21 and parallels)
-- The post-resurrection meal of fish in Luke 24:42-43
-- The fish as eucharistic symbol in early Christian art (catacomb paintings, sarcophagus reliefs)
+- the *ichthys* (ΙΧΘΥΣ, "fish") acronym as a Christian identification mark from the early Christian period — Ἰησοῦς Χριστὸς Θεοῦ Υἱὸς Σωτήρ ("Jesus Christ, God's Son, Savior")
+- the calling of fishermen disciples (Peter, Andrew, James, John) and "fishers of men" (Matthew 4:19, Mark 1:17)
+- the miraculous catches of fish (Luke 5:1-11, John 21:1-14)
+- the feeding of the 5,000 with five loaves and two fish (Matthew 14:13-21 and parallels)
+- the post-resurrection meal of fish (Luke 24:42-43)
+- the fish as eucharistic symbol in early Christian art (catacomb paintings, sarcophagus reliefs)
 
-**The Virgo half: virgin symbolism**. The Christian tradition's Virgin Mary doctrine is the principal Virgo-half preservation:
+**The Virgo half (virgin symbolism)**:
 
 - Mary's virginity at conception (Matthew 1:18-25, Luke 1:26-38) — the *parthenos* doctrine
-- The doctrine's substantial theological development across the patristic period (Irenaeus, Origen, Augustine, others)
-- The perpetual virginity doctrine's establishment in the early ecumenical councils
-- The extensive Marian iconographic tradition (the Madonna in numerous specific iconographic types: *Theotokos*, *Hodegetria*, *Eleousa*, *Maria Lactans*, the *Madonna of the Crescent Moon*, the *Madonna Crowned in Stars*)
-- The continuing Marian devotion across Catholic, Orthodox, and various Protestant traditions
+- its patristic development (Irenaeus, Origen, Augustine, and others)
+- the perpetual-virginity doctrine established in the early ecumenical councils
+- the Marian iconographic types (*Theotokos*, *Hodegetria*, *Eleousa*, *Maria Lactans*, the *Madonna of the Crescent Moon*, the *Madonna Crowned in Stars*)
+- continuing Marian devotion across Catholic, Orthodox, and Protestant traditions
 
-**The combined signature in iconography**. Christian religious art of the medieval and Renaissance periods is saturated with both fish and virgin imagery, often in the same compositions. The Madonna nursing the infant Christ, the Madonna with fish-symbolism somewhere in the composition, the Madonna standing on the crescent moon (echoing the watery-aquatic imagery), the Madonna with various scriptural iconographic elements that include Piscean-age references — these are among the most common religious images in the Western tradition. The two halves of the signature reinforce each other across the iconographic record.
+**The combined signature** saturates medieval and Renaissance Christian art, often in one composition: the Madonna nursing the infant Christ, the Madonna with fish-symbolism, the Madonna standing on the crescent moon echoing the watery imagery. The two halves reinforce each other across the record.
 
-**The framework's specific analytical centerpiece** is the reading of Mary's virginity as iconographic preservation rather than as theological-pedagogical development. The Christian tradition's exceptional theological insistence on Mary's virginity — against substantial exegetical pressure from the brothers-and-sisters references (Matthew 12:46-50 and parallels), against the ordinary social context of first-century Jewish marriage practice, and against various other theological-pedagogical considerations — is read by the framework as the specific mechanism by which the Virgo half of the precessional signature has been preserved. The doctrine's substantive theological status across two millennia reflects the depth of the astronomical encoding the tradition was preserving, even when its transmitters no longer understood what they were encoding.
-
-This reading is substantially distinctive within Christian-tradition interpretation. The framework registers the distinction explicitly: the doubled-signature reading of Mary's virginity goes substantially beyond what mainstream theological or biblical-historical scholarship would accept, with the framework's specific warrant being the broader Hamlet's Mill principle and the corpus's systematic application.
+The framework's **analytical centerpiece** reads Mary's virginity as iconographic preservation rather than theological-pedagogical development. The tradition's exceptional insistence on it — against the brothers-and-sisters references (Matthew 12:46-50 and parallels), against the ordinary social context of first-century Jewish marriage practice — is read as the mechanism preserving the Virgo half, its depth reflecting the depth of the encoding even when its transmitters no longer understood what they encoded. This goes well beyond mainstream theological or biblical-historical interpretation, and the framework marks the distinction explicitly, its warrant being the broader Hamlet's Mill principle and the corpus's systematic application.
 
 #### The Aries-Libra signature (Mosaic period)
 
-The Aries-Libra signature is well-developed in the corpus's broader treatment of the Aries age.
+**The Aries half (ram symbolism)**:
 
-**The Aries half: ram symbolism**. The Aries-age ram symbolism is extensively documented:
+- Moses's "horns" in Exodus 34:29-35 — the Hebrew *qāran* (קָרַן), ambiguous between "horns" and "rays of light," with the horned reading preserved in medieval and Renaissance iconography (Michelangelo's Moses, the Vulgate's *cornuta facies*)
+- the shofar (ram's-horn trumpet) in Jewish liturgy, sounded at the High Holy Days and the close of Yom Kippur
+- the substitutionary ram caught in the thicket at Genesis 22:13 (the Sacrifice of Isaac), at the Taurus-Aries transitional moment
+- the Passover lamb ritual marking the Aries-age Israelite founding event
+- the Egyptian ram-headed Khnum, the Aries-age creator god of the New Kingdom
+- the Greek golden fleece sought by Jason and the Argonauts
+- the Celtic ram-headed gods
 
-- Moses's "horns" in the Hebrew text of Exodus 34:29-35 — the Hebrew *qāran* (קָרַן) with the ambiguous reading between "horns" and "rays of light," with the medieval and Renaissance iconographic tradition preserving the horned reading (Michelangelo's Moses, the Vulgate's *cornuta facies*)
-- The shofar (ram's-horn trumpet) tradition in Jewish liturgical practice — the specific ram's-horn instrument used at the High Holy Days, at the end of Yom Kippur, on various other occasions
-- The substitutionary ram caught in the thicket at Genesis 22:13 (the Sacrifice of Isaac), arriving at the Taurus-Aries transitional moment
-- The Passover lamb tradition, with the specific lamb ritual establishing the Aries-age Israelite founding event
-- The Egyptian ram-headed Khnum, the Aries-age creator god of the New Kingdom
-- The Greek golden fleece, the ram's pelt sought by Jason and the Argonauts
-- The Celtic ram-headed gods preserved in various artistic and textual traditions
+**The Libra half (balance symbolism)** appears in the Mosaic legal-ethical tradition:
 
-**The Libra half: balance symbolism**. The Libra-half preservation appears in the Mosaic legal-ethical tradition's specific judicial-ethical content:
+- the Mosaic Law's judicial framework, with "an eye for an eye" as measured rather than unlimited retribution
+- the scales-of-justice imagery, preserved in the Egyptian Ma'at (the feather of truth weighed against the deceased's heart on the cosmic scales) and later legal-judicial traditions
+- the Hebrew judicial-ethical vocabulary — *mishpaṭ* ("judgment, justice"), *ṣedeq* ("righteousness, equity")
+- the balance-and-justice iconography across the Aries-period civilizations (Egyptian, Mesopotamian, Persian)
 
-- The Mosaic Law's elaborate judicial framework, with substantial attention to fair judgment, proportional response, equal treatment ("an eye for an eye" as the principle of measured rather than unlimited retribution)
-- The "scales of justice" iconography that develops across the Mediterranean tradition during the Aries period and is preserved in the Egyptian Ma'at imagery (the feather of truth weighed against the deceased's heart on the cosmic scales) and in subsequent legal-judicial traditions
-- The specific Hebrew judicial-ethical vocabulary (*mishpaṭ* "judgment, justice"; *ṣedeq* "righteousness, equity") that develops substantially across the Mosaic-period material
-- The broader balance-and-justice iconography that appears across the Aries-period civilizations (Egyptian, Mesopotamian, Persian) as a marker of the age's specific judicial-ethical concerns
-
-**The combined signature in iconography**. The Aries-Libra signature is less extensively developed in the iconographic record than the Pisces-Virgo signature (the religious-art tradition of the Aries period being substantially less preserved than the Christian iconographic tradition), but the combined signature appears across multiple specific cultural traditions. The Mosaic tradition's specific combination of ram-iconography (the shofar, the Moses-horns iconography) with judicial-ethical content (the Mosaic Law) preserves both halves of the signature in continuing liturgical and legal practice.
+**The combined signature** is less developed in the record than Pisces-Virgo, the Aries-period art tradition being less preserved than the Christian, but appears across traditions: the Mosaic combination of ram-iconography (shofar, Moses-horns) with judicial content (the Mosaic Law) preserves both halves in continuing liturgical and legal practice.
 
 #### The Taurus-Scorpio signature (Abrahamic-Egyptian reconstruction)
 
-The Taurus-Scorpio signature is moderately developed in the corpus's broader treatment of the Taurus age.
+**The Taurus half (bull symbolism)**:
 
-**The Taurus half: bull symbolism**. The Taurus-age bull symbolism is extensively documented:
+- the Mesopotamian bull-cults (Sumerian, Akkadian, Assyrian, Babylonian; the Assyrian palace *lamassu* bull-figures)
+- the Cretan bull-tradition (Minoan bull-leaping, the Minotaur)
+- the Egyptian Apis bull-cult of Memphis
+- the Indian Nandi, the bull associated with Shiva
+- the Hebrew bull-references (the golden calf at Sinai, the bull-images of the Northern Kingdom under Jeroboam) that the prophets polemicized against
 
-- The Mesopotamian bull-cults (the bulls of the Sumerian, Akkadian, Assyrian, and Babylonian temple traditions; the specific lamassu bull-figures of the Assyrian palace iconography)
-- The Cretan bull-tradition (the Minoan bull-leaping iconography, the Minotaur tradition, the broader Bronze Age Cretan religious framework)
-- The Egyptian Apis bull-cult (the specific bull-deity of Memphis, with substantial cultic-religious development across the Egyptian Old and Middle Kingdom periods)
-- The Indian Nandi (the bull associated with Shiva, with substantial subsequent Hindu development)
-- The Hebrew tradition's specific bull-references (the golden calf at Sinai, the bull-images of the Northern Kingdom under Jeroboam, the broader bull-iconography that the Hebrew prophets specifically polemicized against)
+**The Scorpio half (scorpion symbolism)** appears at the margins of the same traditions:
 
-**The Scorpio half: scorpion symbolism**. The Scorpio-half preservation appears at the margins of the same cultural traditions:
+- the Babylonian scorpion-deity and scorpion-related iconography
+- the Egyptian Serqet, the scorpion-goddess of funerary and protective function
+- the Mesopotamian scorpion-men of the *Epic of Gilgamesh* and the scorpion-iconography of various boundary-stone reliefs
+- the Hebrew scorpion-references (Deuteronomy 8:15, Ezekiel 2:6)
 
-- The Babylonian scorpion-deity and scorpion-related iconographic traditions
-- The Egyptian Serqet (the scorpion-goddess associated with various funerary and protective functions)
-- The various Mesopotamian scorpion-related religious motifs (the scorpion-men of the *Epic of Gilgamesh*, the scorpion-iconography of various boundary-stone reliefs)
-- The Hebrew Bible's specific scorpion-references (Deuteronomy 8:15, Ezekiel 2:6) preserving the underlying iconographic awareness even as the Hebrew tradition polemicized against the broader bull-and-scorpion religious framework
-
-**The combined signature**. The Taurus-Scorpio signature appears across the Abrahamic-period civilizations in continuing religious-iconographic tradition, with the bull-and-scorpion combination being a specifically documented feature of various ancient Near Eastern boundary-stone iconography and broader religious symbolism.
+**The combined signature** appears across the Abrahamic-period civilizations, the bull-and-scorpion pairing being documented on ancient Near Eastern boundary-stones.
 
 #### The Aquarius-Leo signature (the present age)
 
-The Aquarius-Leo signature is being laid down across the present period.
+**The Aquarius half (water-bearer symbolism)**:
 
-**The Aquarius half: water-bearer symbolism**. The water-bearer iconography is emerging across multiple contemporary domains:
+- the Aquarius constellation itself — a human figure pouring water from a vessel, the only zodiacal constellation depicted as a wholly human figure without animal features or hybrid form
+- the Christian baptismal water imagery extending from the late Piscean period into the Aquarian age
+- the Hebrew eschatological water imagery (Joel's "pouring out," Ezekiel's river from the temple, Isaiah's nations flowing toward the mountain)
+- the New Testament water imagery (John 4:14's "water springing up into everlasting life," John 7:38's "rivers of living water," Revelation 22:1's "river of water of life")
+- contemporary information-age water metaphors (data *flows*, information *streams*, knowledge *pours*, networks *channel*, the internet as *deluge* or *flood* or *sea* of data)
 
-- The Aquarius constellation's specific iconographic image: a human figure pouring water from a vessel — the only zodiacal constellation depicted as a wholly human figure without animal features or hybrid form
-- The Christian baptismal tradition's water imagery, which extends from the late Piscean period into the Aquarian age
-- The Hebrew Bible's eschatological water imagery (Joel's "pouring out," Ezekiel's river from the temple, Isaiah's nations flowing toward the mountain) — preserving the Aquarian-age signature in pre-Christian Hebrew tradition
-- The New Testament's specific water imagery (Jesus's "water springing up into everlasting life" at John 4:14, "rivers of living water" at John 7:38, Revelation 22:1's "river of water of life")
-- Contemporary information-age water metaphors (data *flows*, information *streams*, knowledge *pours*, networks *channel*, the internet as *deluge* or *flood* or *sea* of data)
+**The Leo half (lion symbolism)**:
 
-**The Leo half: lion symbolism**. The lion iconography is similarly emerging across multiple contemporary domains:
+- the Christian Lion-of-Judah motif (Genesis 49:9, Revelation 5:5)
+- the resurgent political-sovereignty imagery of the contemporary period
+- solar-illumination metaphor (the Aquarian age as an age of *enlightenment* in the literal sense)
+- recovered ancient solar-lion traditions (the Egyptian Sekhmet, the Mithraic leontocephaline, the alchemical solar lions)
 
-- The Christian Lion-of-Judah motif (Genesis 49:9, Revelation 5:5) preserving the Leo-half signature in the Christian tradition
-- The resurgent political-sovereignty imagery of the contemporary period
-- The solar-illumination metaphors (the Aquarian age as the age of *enlightenment* in the literal sense)
-- The various ancient solar-lion traditions being recovered in contemporary cultural awareness (the Egyptian Sekhmet, the Mithraic leontocephaline, the alchemical solar lions)
-
-**The combined signature**. The Aquarius-Leo signature is at an early stage of its iconographic development. The water-bearer half is being laid down through contemporary cultural-technological metaphors and continuing Christian baptismal practice; the lion half is emerging through the Christian Lion-of-Judah motif and the broader political-sovereignty imagery. The framework expects substantial further iconographic development of the doubled signature across the centuries to come, as the Aquarian age's mature cultural-religious forms develop following the projected open return.
+**The combined signature** is at an early stage: the water-bearer half through contemporary cultural-technological metaphor and Christian baptism, the lion half through the Lion-of-Judah motif and political-sovereignty imagery. The framework expects further iconographic development across the centuries following the projected open return.
 
 ### The eight remaining ages
 
-The corpus has not substantively developed the doubled signatures for the other eight precessional ages — Capricorn-Cancer, Sagittarius-Gemini, Cancer-Capricorn (already noted), Gemini-Sagittarius, Leo-Aquarius (already noted in the Aquarius treatment), Virgo-Pisces (already noted in the Pisces treatment), Libra-Aries (already noted in the Aries treatment), Scorpio-Taurus (already noted in the Taurus treatment).
-
-The principle applies to all twelve ages, with the four worked cases representing the corpus's substantive analytical development. The eight remaining ages are open for future development, with the framework expecting that careful analysis of each age's specific iconographic record will reveal the doubled-signature pattern.
-
-For the prehistorical ages (Capricorn through Gemini, c. 21,810 BCE through c. 4,530 BCE), the doubled-signature analysis is more difficult given the limited iconographic record from pre-literate periods. The framework expects that doubled-signature content exists in the various antediluvian and immediately post-Flood iconographic traditions but registers that the specific analytical work has not been substantively developed in the corpus.
+The corpus has not developed the doubled signatures for the other eight precessional ages. The principle applies to all twelve; the four worked cases are the developed analytical core, and the remaining eight are open for future work, the framework expecting that close analysis of each age's iconographic record will reveal the doubled-signature pattern. For the prehistorical ages (Capricorn through Gemini, c. 21,810 BCE to c. 4,530 BCE), the analysis is harder given the limited pre-literate record; the framework expects doubled-signature content in the antediluvian and immediately post-Flood traditions but has not developed it.
 
 ## Application across the corpus
 
-The Doubled Signature principle operates as a load-bearing analytical principle across multiple corpus entries.
+The Doubled Signature is a load-bearing analytical principle across several corpus entries.
 
 ### The age-specific entries
 
-The principle is most extensively applied in the precessional age-specific entries — particularly the [Age of Pisces](../timeline/age-of-pisces/), [Age of Aries](../timeline/age-of-aries/), [Age of Taurus](../timeline/age-of-taurus/), and [Age of Aquarius](../timeline/age-of-aquarius/) entries. The detailed treatment of each age's specific doubled signature lives in the relevant age entry; the Doubled Signature entry's specific contribution is establishing the broader principle's analytical content.
+It is most fully applied in the precessional age entries — [Age of Pisces](../timeline/age-of-pisces/), [Age of Aries](../timeline/age-of-aries/), [Age of Taurus](../timeline/age-of-taurus/), and [Age of Aquarius](../timeline/age-of-aquarius/) — each of which carries the detailed treatment of its own doubled signature; this entry establishes the general principle.
 
 ### The Jesus and Mary entries
 
-The Pisces-Virgo signature operates as the principal analytical framework within which the [Jesus](../jesus/) and [Mary](../mary/) entries develop their specific content. The framework's reading of Mary's virginity as iconographic preservation of the Virgo half of the signature is treated more extensively in the Mary entry; the Doubled Signature entry establishes the broader interpretive principle.
+The Pisces-Virgo signature frames the [Jesus](../jesus/) and [Mary](../mary/) entries; the reading of Mary's virginity as preservation of the Virgo half is treated more fully in the Mary entry.
 
 ### The Apocalypse entry
 
-The principle operates as the broader interpretive framework within which the [Apocalypse](../apocalypse/) entry develops its specific content concerning the Pisces-to-Aquarius transition. The "fish gate" of Zephaniah 1:10, the Aquarian-age opening of 1945-1946, the broader projected open return — all of these are read within the broader doubled-signature framework that the Doubled Signature entry establishes.
+The principle frames the [Apocalypse](../apocalypse/) entry's treatment of the Pisces-to-Aquarius transition — the "fish gate" of Zephaniah 1:10, the Aquarian-age opening of 1945-1946, and the projected open return.
 
 ### The Prophet entry
 
-The principle operates as one of the broader interpretive frameworks within which the [Prophet](../prophet/) entry treats the various prophets' specific iconographic-symbolic content. Moses's horns, the various ram-iconography of the Aries-age prophets, the Christic *ichthys* and the broader Marian-Christological signature, the contemporary Aquarian-age figures' specific iconographic content — all of these are read within the broader doubled-signature framework.
+It is one frame within which the [Prophet](../prophet/) entry treats the prophets' iconographic-symbolic content — Moses's horns, the Aries-age ram-iconography, the Christic *ichthys* and the Marian-Christological signature, and contemporary Aquarian-age figures.
 
 ### The Genesis and Hebrew Bible entries
 
-The principle operates as one of the broader interpretive frameworks within which the [Genesis](../genesis/) and [Hebrew Bible](../hebrew-bible/) entries treat the specific iconographic-symbolic content of the Hebrew Bible's various texts. The Genesis 49:9 Lion-of-Judah passage, the various Mosaic-period iconographic markers, the broader Hebrew Bible's specific astronomical-iconographic content — all of these are read within the broader doubled-signature framework.
+It frames the [Genesis](../genesis/) and [Hebrew Bible](../hebrew-bible/) entries' treatment of the Hebrew Bible's iconographic-symbolic content, including the Genesis 49:9 Lion-of-Judah passage and the Mosaic-period markers.
 
 ## Distinguishing from adjacent concepts
 
-The Doubled Signature principle must be distinguished from several adjacent concepts to avoid confusion.
-
 ### The Doubled Signature vs. the precessional ages framework
 
-The precessional ages framework is the broader chronological structure that organizes the corpus's narrative into twelve approximately 2,160-year ages corresponding to the precessional cycle. The Doubled Signature is a specific hermeneutic principle for reading the iconographic-religious content of any age within that framework.
-
-The relationship is one of **broader-framework-and-specific-principle**. The precessional ages framework provides the chronological-cosmological structure; the Doubled Signature principle provides the specific interpretive method for reading the iconographic content within that structure.
+The precessional ages framework is the chronological structure — twelve roughly 2,160-year ages tracking the precessional cycle. The Doubled Signature is the interpretive method for reading the iconographic-religious content of an age within that structure: the framework supplies the chronology, the principle the reading.
 
 ### The Doubled Signature vs. the Cosmic Competition framework
 
-The Cosmic Competition framework concerns the broader cosmological situation in which Earth's humanity is being evaluated alongside parallel humanities for inheritance qualification. The Doubled Signature is a specific interpretive principle for reading the iconographic-religious content of any age.
-
-The relationship is one of **distinct analytical functions**. The Cosmic Competition framework operates at the cosmological-historical level; the Doubled Signature operates at the hermeneutic-interpretive level. The two principles are independent in the sense that either can be applied without the other, though both are part of the corpus's broader analytical apparatus.
+The Cosmic Competition framework concerns Earth's humanity being evaluated alongside parallel humanities for inheritance qualification — a cosmological-historical claim. The Doubled Signature is a hermeneutic-interpretive method. The two are independent: either can be applied without the other, though both belong to the corpus's analytical apparatus.
 
 ### The Doubled Signature vs. the precession of the equinoxes itself
 
-The precession of the equinoxes is the underlying astronomical phenomenon — the slow westward motion of the equinoctial points along the ecliptic, completing a full circuit in approximately 25,772 years. The Doubled Signature is a specific interpretive principle for how the religious-iconographic record encodes precessional content.
-
-The relationship is one of **astronomical-phenomenon-and-interpretive-method**. The precession is a real astronomical phenomenon (well-established in mainstream astronomy); the Doubled Signature is a specific method for reading how the religious-iconographic record preserves awareness of the precession.
+Precession is the underlying astronomical phenomenon — the slow westward motion of the equinoctial points along the ecliptic, one circuit in about 25,772 years. The Doubled Signature is the method for reading how the religious-iconographic record preserves awareness of it.
 
 ### The Doubled Signature vs. astrological tradition generally
 
-The astrological tradition broadly engages the zodiacal signs and their oppositions across multiple cultural-religious frameworks. The Doubled Signature is a specific interpretive principle that uses astrological terminology but is not coextensive with the broader astrological tradition.
-
-The relationship is one of **broader-tradition-and-specific-principle**. The astrological tradition provides the technical vocabulary (zodiacal signs, opposition axes, precessional ages) within which the Doubled Signature operates; the principle itself is a specific hermeneutic method drawn from Hamlet's Mill rather than from the broader astrological tradition.
-
-The corpus's relationship to the broader astrological tradition is one of selective engagement — the corpus uses the astrological technical vocabulary where it is operationally useful (specifically for the precessional-age framework) but does not adopt the broader astrological tradition's specific predictive-interpretive content (natal astrology, predictive astrology, the various branches of astrological practice).
+The astrological tradition broadly engages the zodiacal signs and their oppositions. The Doubled Signature uses that technical vocabulary — signs, opposition axes, precessional ages — but is a specific hermeneutic drawn from Hamlet's Mill, not the broader astrological tradition. The corpus engages astrology selectively: it uses the vocabulary where operationally useful (the precessional-age framework) but does not adopt natal or predictive astrology or its other branches.
 
 ## Modern reinterpretations
 
-The Doubled Signature principle's adjacent modern reinterpretive landscape comprises multiple distinct strands.
+The principle's adjacent modern reinterpretive landscape has several strands.
 
 ### Hamlet's Mill scholarly reception
 
-Santillana and von Dechend's *Hamlet's Mill* has received substantial scholarly engagement since its 1969 publication. The principal positions:
-
-**Initial reception** (1969-1980s) was substantially positive in some quarters and substantially critical in others. Sendy's 1970 *L'ère du Verseau* engagement with the work registers Princeton, Cornell, and Harvard scholars who, Sendy reports, spoke admiringly of the work; substantial positive reviews appeared in various scholarly venues. Critical reception focused on questions about the work's methodological rigor, its specific philological claims, and the broader plausibility of the systematic-encoding thesis.
-
-**Subsequent engagement** (1990s-present) has produced both supporting and critical material. The broader **archaeoastronomy** field, which emerged substantially in the 1970s and 1980s and developed significantly across the subsequent decades, has produced substantial work on astronomical content in ancient cultural-religious traditions, with various points of contact with the Hamlet's Mill thesis. **Anthony Aveni**'s extensive work on Mesoamerican archaeoastronomy and on broader archaeoastronomy has been generally cautious about specific Hamlet's Mill claims while acknowledging substantial astronomical content in ancient traditions. **E. C. Krupp**'s work on archaeoastronomy has been similarly cautious. Various other scholars have produced work that engages with specific Hamlet's Mill claims at varying levels of sympathy.
-
-**The mainstream scholarly position** generally treats the broad Hamlet's Mill argument as overreaching while acknowledging the legitimate scholarly questions the work raises about astronomical content in ancient cultural-religious traditions. The specific systematic-encoding thesis remains contested.
-
-The corpus's position on Hamlet's Mill is one of substantial methodological adoption with explicit registration of the contested status. The corpus accepts the broad argument as the principal interpretive framework while acknowledging that mainstream scholarship has not broadly accepted the work's specific thesis.
+Reception of *Hamlet's Mill* since 1969 has been mixed. **Initial reception** (1969–1980s) was positive in some quarters and critical in others, the criticism focused on methodological rigor, philological claims, and the plausibility of the systematic-encoding thesis. **Subsequent engagement** (1990s–present) has produced both supporting and critical material. **Archaeoastronomy**, which emerged in the 1970s and 1980s, has documented astronomical content in ancient cultural-religious traditions with various points of contact with the thesis: **Anthony Aveni**, on Mesoamerican and broader archaeoastronomy, and **E. C. Krupp** have both been cautious about specific *Hamlet's Mill* claims while acknowledging genuine astronomical content in ancient traditions. The mainstream position treats the broad argument as overreaching while granting the legitimate questions it raises; the systematic-encoding thesis remains contested. The corpus adopts the broad argument while registering its contested status.
 
 ### Precession-of-the-equinoxes science from Hipparchus to modern
 
-The mainstream astronomical-historical tradition has produced substantial scholarly work on precession from antiquity through the modern period. The principal developments:
-
-**Hipparchus (c. 190–120 BCE)** is conventionally credited with the discovery of precession through his comparison of his own stellar observations with those of earlier Greek astronomers. The specific Hipparchan calculations, preserved through Ptolemy's *Almagest* (2nd century CE) and other sources, established the precessional rate at approximately 1 degree per century — a value somewhat slower than the modern measurement (which gives approximately 1 degree per 71.6 years, or about 1.4 degrees per century).
-
-**Ptolemy (c. 100–170 CE)** in the *Almagest* provided the principal classical astronomical synthesis incorporating the Hipparchan precession discovery. The Ptolemaic system's specific treatment of precession influenced subsequent Islamic and European astronomical tradition substantially.
-
-**Islamic astronomical tradition** developed substantial precession-related work, with **al-Battani** (c. 858-929 CE) producing more accurate precession measurements than Ptolemy. **Ibn Yunus** (c. 950-1009 CE), **al-Ṭūsī** (1201-1274 CE), and **Ulugh Beg** (1394-1449 CE) all contributed to the progressive refinement of precession measurements across the medieval Islamic period.
-
-**Copernicus (1473-1543)** in *De Revolutionibus Orbium Coelestium* (1543) treated precession within the broader heliocentric framework, with substantial implications for the conceptual understanding of the phenomenon.
-
-**Newton (1643-1727)** in the *Principia Mathematica* (1687) provided the dynamical explanation for precession — the gravitational torques exerted on the Earth's equatorial bulge by the Moon and Sun causing the slow precession of the rotational axis.
-
-**Modern measurements** have refined the precessional rate substantially. Contemporary measurements give the precessional period as approximately 25,772 years, with the precession measured with substantial precision through modern observational methods (radio interferometry, satellite tracking, lunar laser ranging).
-
-The framework's relationship to mainstream precession-science is one of broader-framework consistency. The framework accepts the precession as a real astronomical phenomenon with the broadly established characteristics that mainstream science has determined. The specific question the framework engages — whether ancient cultures had observational awareness of precession and encoded that awareness in religious-iconographic tradition — is the substantive question on which the framework engages with the broader Hamlet's Mill argument.
-
-### Scholarly engagement with astrology
-
-Mainstream scholarly engagement with astrology has produced substantial work on the historical development of astrological tradition. The principal contemporary scholars:
-
-**Jim Tester** (*A History of Western Astrology*, 1987) provides the principal scholarly treatment of Western astrology's historical development from Mesopotamian origins through the Hellenistic synthesis to medieval and modern developments. Tester's work establishes the historical-philological framework within which astrology's specific traditions have developed.
-
-**James Holden** (*A History of Horoscopic Astrology*, 2nd ed. 2006) provides comprehensive treatment of horoscopic astrology specifically, with substantial documentation of the technical-historical development of horoscopic methodology.
-
-**Nicholas Campion** (*A History of Western Astrology*, 2 vols., 2008-2009; *Astrology and Cosmology in the World's Religions*, 2012; *Astrology and Popular Religion in the Modern West*, 2012) provides substantial cultural-historical treatment of astrology's place in the broader history of religion and culture.
-
-**The mainstream scholarly position** treats the zodiacal opposition-axis pattern as a well-established feature of classical astrological tradition, with substantial documentation across Hellenistic, medieval Islamic, and medieval European astrological literature. The specific Hamlet's Mill thesis (that the opposition-axis principle extends to systematic doubled-signature encoding in religious-mythological tradition) is generally not engaged within mainstream astrological-historical scholarship as a methodological framework.
+The astronomical-historical tradition on precession runs from antiquity to the present. **Hipparchus** (c. 190–120 BCE) is credited with the discovery, setting the rate at about 1 degree per century — slower than the modern value of about 1 degree per 71.6 years (about 1.4 degrees per century). **Ptolemy** (c. 100–170 CE), in the *Almagest*, gave the classical synthesis incorporating it, influencing later Islamic and European astronomy. The **Islamic tradition** refined the measurements: **al-Battani** (c. 858–929 CE) improved on Ptolemy, and **Ibn Yunus** (c. 950–1009 CE), **al-Ṭūsī** (1201–1274 CE), and **Ulugh Beg** (1394–1449 CE) advanced them further. **Copernicus** (1473–1543), in *De Revolutionibus Orbium Coelestium* (1543), treated precession within the heliocentric framework. **Newton** (1643–1727), in the *Principia Mathematica* (1687), gave the dynamical explanation: gravitational torque from the Moon and Sun on the Earth's equatorial bulge. Modern measurements give a period of about 25,772 years, determined by radio interferometry, satellite tracking, and lunar laser ranging. The framework accepts precession as established; the question it engages — whether ancient cultures observed it and encoded that awareness in religious-iconographic tradition — is where it meets the *Hamlet's Mill* argument.
 
 ### Sendy on the doubled signature
 
-**Jean Sendy** in *L'ère du Verseau* (1970) provides the principal scholarly bridge between Hamlet's Mill and the broader interpretive framework the Wheel of Heaven corpus has developed. Sendy's specific contributions have been treated under *In primary sources* above. The framework's specific application of the doubled-signature principle goes substantially beyond Sendy's specific Hamlet's Mill engagement, but Sendy's methodological warrant for treating Hamlet's Mill as a substantive interpretive framework provides the principal scholarly antecedent for the corpus's broader approach.
+**Jean Sendy**'s *L'ère du Verseau* (1970), treated under *In primary sources* above, is the corpus's bridge between *Hamlet's Mill* and its framework. The corpus's systematic application goes well beyond Sendy's own engagement, but his methodological warrant for treating *Hamlet's Mill* as an interpretive framework is the principal scholarly antecedent for the corpus's approach.
 
 ### Biglino on precessional symbolism
 
-**Mauro Biglino**'s strict-translational engagement with the Hebrew Bible has produced limited specific engagement with the Doubled Signature principle. Biglino's broader treatment of the Hebrew Bible's specific iconographic content (the Mosaic horns, the various animal-iconographic markers, the broader symbolic content) is structurally compatible with the doubled-signature reading at specific points but does not develop the systematic principle.
+**Mauro Biglino**'s strict-translational engagement with the Hebrew Bible touches the Doubled Signature only lightly. His treatment of the Bible's iconographic content (the Mosaic horns, the animal-iconographic markers) is compatible with the doubled-signature reading at points but does not develop the systematic principle.
 
 ### Wallis on precessional symbolism
 
-**Paul Anthony Wallis**'s broader engagement with the alliance-mediated history includes some treatment of precessional content, principally within the broader context of the various ancient texts' specific iconographic markers. Wallis's specific development of the doubled-signature principle is more limited than the framework's contemporary articulation.
+**Paul Anthony Wallis**'s engagement with the alliance-mediated history includes some treatment of precessional content, mainly in the context of ancient texts' iconographic markers, but develops the doubled-signature principle less than the framework's current articulation.
 
 ### The framework's relationship to the broader landscape
 
-The corpus's Doubled Signature principle is positioned within this landscape as follows: substantially adopted from Santillana and von Dechend's *Hamlet's Mill* and extended through the systematic twelve-age application; bridged to the Raëlian source material through Sendy's *L'ère du Verseau* engagement with Hamlet's Mill; consistent with mainstream precession-science at the astronomical-phenomenon level while extending substantially beyond mainstream interpretive scholarship at the hermeneutic level; selectively engaged with the broader astrological tradition (using the technical vocabulary while not adopting the broader interpretive content); and developing the specific systematic doubled-signature application as the corpus's distinctive contribution to the broader interpretive landscape.
+The corpus's Doubled Signature is: adopted from Santillana and von Dechend's *Hamlet's Mill* and extended through the systematic twelve-age application; bridged to the Raëlian source material through Sendy's *L'ère du Verseau*; consistent with mainstream precession-science at the astronomical level while extending beyond mainstream interpretive scholarship at the hermeneutic level; selectively engaged with the astrological tradition; and distinctive in its systematic twelve-age application.
 
 ## Comparative observations
 
-Astronomical content in religious-iconographic tradition appears across multiple cultural-religious traditions worldwide, with substantial parallel material to the framework's Doubled Signature reading. The corpus reads this cross-cultural pattern as evidence of broader operational realities preserved in fragmentary form across the various traditions.
+Astronomical content in religious-iconographic tradition recurs across cultures worldwide, offering parallels to the Doubled Signature reading. The corpus reads the recurrence as evidence of a broader operational reality preserved in fragments across the traditions.
 
 ### Babylonian astronomical traditions
 
-The Babylonian astronomical tradition is substantially developed and well-documented through the cuneiform record. The principal features:
-
-**The MUL.APIN tradition** (preserved on cuneiform tablets dating from c. 1000 BCE onward) is the principal Babylonian astronomical compendium, documenting the constellations, their risings and settings, and the various calendrical-astronomical relationships. The MUL.APIN preserves the Babylonian zodiacal tradition in its developing form.
-
-**The Babylonian zodiac** developed across the late second and early first millennia BCE, with the specific twelve-sign zodiac being substantially established by approximately 500 BCE. The Babylonian tradition is the principal antecedent for the Hellenistic Greek zodiacal tradition that subsequently developed.
-
-**Astronomical diaries and ephemerides** preserve substantial observational records across the Neo-Babylonian and Persian periods, with specific calendrical-astronomical content documented in elaborate cuneiform records.
-
-**Astrological tradition** developed substantially in the late Babylonian period, with horoscopic astrology emerging in approximately the 5th-4th centuries BCE.
-
-The framework reads the Babylonian astronomical-religious tradition as preserving substantial doubled-signature content within the distinctive Babylonian cultural-religious framing. The specific Babylonian elaborations (the bull-and-scorpion iconography of various boundary-stone reliefs, the lion-and-bull motifs of royal iconography, the various other zodiacal-religious connections) reflect the doubled-signature pattern within the Babylonian cultural form.
+The Babylonian tradition is well documented through the cuneiform record. The **MUL.APIN** compendium (on tablets from c. 1000 BCE onward) documents the constellations, their risings and settings, and the calendrical-astronomical relationships, preserving the developing zodiacal tradition. The **twelve-sign zodiac** was substantially established by about 500 BCE and is the principal antecedent for the Hellenistic Greek zodiac. **Astronomical diaries and ephemerides** preserve observational records across the Neo-Babylonian and Persian periods, and **horoscopic astrology** emerged around the 5th–4th centuries BCE. The framework reads the tradition — the bull-and-scorpion iconography of boundary-stone reliefs, the lion-and-bull royal motifs — as carrying doubled-signature content in Babylonian form.
 
 ### Egyptian astronomical iconography
 
-The Egyptian astronomical tradition is preserved through extensive temple iconography, papyrus texts, and burial-chamber representations. The principal features:
-
-**The decans tradition** divides the ecliptic into 36 ten-degree sections (decans), with each decan associated with specific stars and specific religious-iconographic content. The decan tradition is documented from the Old Kingdom (c. 2700-2200 BCE) onward, with substantial development across the Middle and New Kingdom periods.
-
-**The temple alignments** of various Egyptian temples (Karnak, Dendera, Edfu, others) preserve substantial astronomical content, with the temple orientations frequently aligned to specific stellar risings or settings at specific calendrical moments.
-
-**The Dendera Zodiac** (c. 50 BCE, now in the Louvre) preserves the most elaborate Egyptian zodiacal-iconographic compilation, with substantial integration of Egyptian and Hellenistic astronomical-iconographic content.
-
-**The Pyramid Texts and Coffin Texts** preserve substantial astronomical content within the broader Egyptian funerary-religious tradition, with the deceased's specific journey through the afterlife being charted in astronomical terms.
-
-The framework reads the Egyptian astronomical-iconographic tradition as preserving substantial doubled-signature content. The specific Egyptian elaborations (the Khnum-and-bull combinations, the Apis-and-various-counterpart pairings, the Isis-and-Sirius astronomical iconography) reflect doubled-signature patterns within the distinctive Egyptian cultural form.
+The Egyptian tradition survives through temple iconography, papyri, and burial chambers. The **decans** divide the ecliptic into 36 ten-degree sections, each tied to specific stars and iconography, documented from the Old Kingdom (c. 2700–2200 BCE) onward. The **temple alignments** (Karnak, Dendera, Edfu, and others) frequently orient to stellar risings or settings at specific calendrical moments. The **Dendera Zodiac** (c. 50 BCE, now in the Louvre) is the most elaborate Egyptian zodiacal compilation, integrating Egyptian and Hellenistic content. The **Pyramid Texts and Coffin Texts** chart the deceased's afterlife journey in astronomical terms. The framework reads the Khnum-and-bull combinations, the Apis pairings, and the Isis-and-Sirius iconography as doubled-signature patterns in Egyptian form.
 
 ### Greek astronomical traditions
 
-The Greek astronomical tradition is the principal Hellenistic synthesis through which Babylonian and Egyptian astronomical content was transmitted to subsequent European tradition. The principal features:
-
-**Pre-Socratic astronomical tradition** (Thales, Anaximander, Pythagoras, Anaxagoras, others) developed substantial astronomical content in connection with the broader pre-Socratic philosophical tradition.
-
-**Hipparchus** discovered precession in the 2nd century BCE through systematic comparison of his own stellar observations with earlier Greek astronomical records.
-
-**Ptolemy** in the *Almagest* and *Tetrabiblos* (2nd century CE) provided the principal Hellenistic synthesis incorporating the Hipparchan precession discovery within the broader astronomical-astrological framework.
-
-**Greek zodiacal iconography** developed substantially across the Hellenistic period, with the specific Greek zodiacal figures (the ram, the bull, the twins, the crab, the lion, the virgin, the scales, the scorpion, the archer, the goat-fish, the water-bearer, the fishes) being substantially established through the Hellenistic synthesis.
-
-The framework reads the Greek astronomical-iconographic tradition as preserving substantial doubled-signature content. The specific Greek elaborations (the various zodiacal-mythological narratives, the opposition-axis treatments in classical astrological tradition) reflect the doubled-signature pattern within the distinctive Greek cultural form.
+The Greek tradition is the Hellenistic synthesis transmitting Babylonian and Egyptian content to later Europe. **Pre-Socratic** astronomy (Thales, Anaximander, Pythagoras, Anaxagoras, and others) developed alongside the philosophical tradition; **Hipparchus** discovered precession in the 2nd century BCE through systematic comparison of his observations with earlier Greek records; **Ptolemy**, in the *Almagest* and *Tetrabiblos* (2nd century CE), gave the synthesis incorporating it. The **Greek zodiacal figures** (ram, bull, twins, crab, lion, virgin, scales, scorpion, archer, goat-fish, water-bearer, fishes) were established through this synthesis. The framework reads the zodiacal-mythological narratives and the opposition-axis treatments of classical astrology as doubled-signature patterns in Greek form.
 
 ### Mesoamerican calendar cycles
 
-The Mesoamerican astronomical tradition is preserved through substantial calendrical-iconographic content across Olmec, Maya, Aztec, and broader Mesoamerican civilizations. The principal features:
-
-**The Maya Long Count calendar** preserves substantial astronomical-calendrical content, with the specific 52-year and 5,125-year cycles reflecting elaborate astronomical-mathematical work.
-
-**The Tzolkin and Haab calendars** preserve the 260-day and 365-day Maya calendar systems, with substantial integration of astronomical-religious content.
-
-**The Aztec calendar stone** (the *Piedra del Sol*, c. 1479) preserves the Aztec cosmological-calendrical framework with elaborate iconographic content.
-
-**The various Mesoamerican astronomical observations** are preserved in temple alignments, codices (the few Pre-Columbian codices that survived the Spanish destruction), and continuing indigenous tradition.
-
-The framework reads the Mesoamerican astronomical-iconographic tradition as preserving substantial doubled-signature content within the distinctive Mesoamerican cultural form. The specific Mesoamerican elaborations (the various paired-deity configurations, the calendrical opposition-symbolism) reflect the doubled-signature pattern within the tradition's specific cultural framework.
+The Mesoamerican tradition survives through calendrical-iconographic content across Olmec, Maya, Aztec, and other civilizations. The **Maya Long Count** preserves astronomical-calendrical content, with 52-year and 5,125-year cycles; the **Tzolkin** (260-day) and **Haab** (365-day) calendars integrate astronomical and religious content; the **Aztec calendar stone** (the *Piedra del Sol*, c. 1479) preserves the Aztec cosmological framework. The framework reads the paired-deity configurations and calendrical opposition-symbolism as doubled-signature patterns in Mesoamerican form.
 
 ### Hindu yuga cycles
 
-The Hindu tradition preserves substantial cosmological-cyclical content in the **yuga cycle** tradition. The principal features:
-
-**The four yugas** — Krita (Satya), Treta, Dvapara, Kali — comprise the standard Hindu cosmic cycle of approximately 4.32 million years, with each yuga having specific characteristics and durations.
-
-**The Mahayuga** (the four yugas combined) of 4.32 million years is the principal Hindu cosmic-cyclical unit.
-
-**The Kalpa** of approximately 4.32 billion years comprises 1,000 mahayugas and is the principal Hindu cosmic-temporal framework.
-
-**The astronomical content** of the Hindu yuga tradition includes substantial integration of precession-related material, with various Hindu texts treating the cosmic cycles as related to precessional and other astronomical phenomena.
-
-The framework reads the Hindu yuga tradition as preserving fragmentary memory of the broader precessional-cosmological framework within the distinctive Hindu cultural-religious form. The specific Hindu elaborations (the four-yuga cycle, the kalpa cosmology, the various astronomical-mythological narratives) reflect the broader pattern within the tradition's distinctive content.
+The Hindu tradition preserves cyclical cosmology in the **yuga** cycle. The **four yugas** — Krita (Satya), Treta, Dvapara, Kali — make up a cosmic cycle of about 4.32 million years; the **Mahayuga** (all four combined) spans that 4.32 million years; the **Kalpa** of about 4.32 billion years comprises 1,000 mahayugas. Various Hindu texts treat these cycles as related to precessional and other astronomical phenomena. The framework reads the yuga tradition as fragmentary memory of the broader precessional-cosmological framework in Hindu form.
 
 ### Chinese astronomical traditions
 
-The Chinese astronomical tradition is among the longest continuous astronomical traditions in the world, with substantial content preserved across multiple millennia. The principal features:
-
-**The 28 lunar mansions** (xiu) preserve the principal Chinese astronomical framework for charting the sky, with the 28 mansions being the principal Chinese counterpart to the Western zodiacal tradition.
-
-**The five elements** (wu xing) provide the broader cosmological framework within which Chinese astronomical content is integrated.
-
-**The various Chinese astronomical observations** preserve substantial precession-related content across the long Chinese astronomical history.
-
-**The specific Chinese astrological-religious content** is preserved through various texts and continuing tradition, with substantial integration of astronomical and religious-cosmological content.
-
-The framework reads the Chinese astronomical-iconographic tradition as preserving substantial parallel content to the doubled-signature reading within the distinctive Chinese cultural form.
+The Chinese tradition is among the world's longest continuous, with content preserved across millennia. The **28 lunar mansions** (*xiu*) are the principal Chinese sky-charting framework and the counterpart to the Western zodiac; the **five elements** (*wu xing*) provide the cosmological frame; and the long observational record preserves precession-related content. The framework reads it as carrying parallel content to the doubled-signature reading in Chinese form.
 
 ### Tibetan-Buddhist Kalachakra
 
-The Tibetan Buddhist **Kalachakra** ("Wheel of Time") tradition preserves substantial astronomical-cosmological content within the distinctive Vajrayana Buddhist framework. The principal features:
-
-**The Kalachakra Tantra** is the principal text, preserving elaborate astronomical-cosmological-soteriological content with substantial integration of precession-related material.
-
-**The Kalachakra calendar** preserves substantial astronomical content with specific calendrical-mathematical relationships.
-
-**The Kalachakra mandala** preserves elaborate iconographic-cosmological content with substantial astronomical encoding.
-
-The framework reads the Kalachakra tradition as preserving substantial parallel content to the doubled-signature reading within the distinctive Tibetan-Buddhist cultural form.
+The Tibetan Buddhist **Kalachakra** ("Wheel of Time") tradition preserves astronomical-cosmological content in Vajrayana form. The **Kalachakra Tantra** is the principal text, integrating precession-related material; the **Kalachakra calendar** preserves calendrical-mathematical relationships; and the **Kalachakra mandala** carries iconographic-cosmological content with astronomical encoding. The framework reads it as parallel to the doubled-signature reading in Tibetan-Buddhist form.
 
 ### The convergence
 
-The corpus's working position on the comparative-astronomical-iconographic question is that the global recurrence of substantial astronomical content in religious-iconographic traditions across cultural-religious frameworks is meaningful as evidence of a broader pattern. The mainstream scholarly explanation — which generally treats the various traditions as developing their own astronomical content through internal processes combined with cultural diffusion — is read by the corpus as substantially insufficient to account for the breadth, the specific structural parallels, and the consistent functional features that appear across geographically and chronologically separated traditions.
+The corpus's working position is that the global recurrence of astronomical content in religious-iconographic traditions — across geographically and chronologically separated cultures — is meaningful as evidence of a broader pattern. It reads the mainstream explanation, which attributes the recurrence to independent observation combined with cultural diffusion, as insufficient to account for the breadth, the structural parallels, and the consistent functional features. The framework's reading is that the global pattern preserves common memory of astronomical knowledge originally transmitted through the alliance-mediated cultural-educational programs of the various ages, each tradition preserving it in its own terms and framing. The Doubled Signature is one hermeneutic for reading this cross-cultural content.
 
-The framework's specific reading is that the global astronomical-iconographic pattern preserves common memory of substantial astronomical knowledge that was originally transmitted through the alliance-mediated cultural-educational programs of the various ages, with each tradition preserving the content in its own terms and with its own specific cultural-religious framing. The Doubled Signature principle is one specific hermeneutic for reading this broader cross-cultural astronomical content.
-
-The corpus does not require rejecting all of the mainstream scholarly framework. Cultural diffusion certainly occurred across the historical period, and the astronomical-iconographic traditions across cultures show both common structural features (preserving the original framework) and culturally specific elaborations (reflecting the diffusion and local development). What the corpus's framework adds is the underlying alliance-mediated transmission that gave rise to the structural commonalities — a transmission that the mainstream framework, lacking the corpus's broader cosmological framework, has had no way to identify and has therefore had to attribute to combinations of independent astronomical observation and cultural diffusion.
+The corpus does not reject the mainstream framework wholesale: cultural diffusion did occur, and the traditions show both common structural features (preserving the original framework) and culturally specific elaborations (reflecting diffusion and local development). What the corpus adds is the underlying alliance-mediated transmission behind the structural commonalities — a transmission the mainstream framework, lacking the corpus's cosmological frame, has had to attribute to combinations of independent observation and diffusion.
 
 ## See also
 
