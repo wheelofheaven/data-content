@@ -195,8 +195,8 @@ beings." In Weberian terms, his authority rests on being *sent*, not on
 prior religious standing.
 
 What a historian can add is the milieu. By December 1973 the
-ancient-astronaut reading of Genesis was, in France, nearly mainstream
-paperback fare — Jean Sendy's *La Lune, clé de la Bible* (1968) had
+{% wiki(slug="ancient-astronaut-hypothesis") %}ancient-astronaut reading{% end %} of Genesis was, in France, nearly mainstream
+paperback fare — {% wiki(slug="jean-sendy") %}Jean Sendy{% end %}'s *La Lune, clé de la Bible* (1968) had
 already argued that the {% wiki(slug="elohim") %}Elohim{% end %} were "physical
 angels" and Genesis the log of a colonization, and Sendy's whole
 program is the subject of [its own Explainer in this
@@ -227,11 +227,11 @@ artist, a kind of religious genius."
 ## Six days of Bible study
 
 Press accounts often foreground the landed craft, but the founding
-revelation is structured largely as a *seminar on the Hebrew Bible and the
+revelation is structured largely as a *seminar on the {% wiki(slug="hebrew-bible") %}Hebrew Bible{% end %} and the
 Gospels*, conducted with the text open on the witness's knees. The
 being's first request is that Vorilhon return with a Bible; the six days
 run through Genesis, the Flood, Babel, Sodom, the Sinai theophany,
-Ezekiel's wheels, the career of Jesus read as a planned communications
+Ezekiel's wheels, the career of {% wiki(slug="jesus") %}Jesus{% end %} read as a planned communications
 program. The hermeneutic rule is stated inside the text: the Bible is
 reliable wherever it is strange, because the strangeness is the residue of
 technology described by Bronze Age witnesses, and the task is to strip the
@@ -310,8 +310,8 @@ created following our contacts on the Earth.
 This paragraph provides the textual basis for the movement's later
 prophetology. The phrase "the last of forty prophets" develops this
 sentence, although the canon never enumerates the forty.{{ footnote(id="11") }}
-What the sentence does enumerate is a seating order: Moses at the right
-hand, Elijah beside him, Buddha to the left of Jesus, Muhammad "a little
+What the sentence does enumerate is a seating order: {% wiki(slug="moses") %}Moses{% end %} at the right
+hand, {% wiki(slug="elijah") %}Elijah{% end %} beside him, Buddha to the left of Jesus, {% wiki(slug="muhammad") %}Muhammad{% end %} "a little
 further," and Yahweh presiding as the referent behind the word *Allah*.
 The arrangement places Jewish, Christian, Buddhist, and Islamic figures
 within one claimed lineage. The host of the meal is the figure the Hebrew
@@ -363,7 +363,7 @@ could provide for yourself.
 {% end %}
 
 Across the three books, the messenger's status changes from commissioned
-witness to prophet and son. Two qualifications keep that escalation from
+witness to {% wiki(slug="prophet") %}prophet{% end %} and son. Two qualifications keep that escalation from
 being the whole story. The first is the rider the
 same chapter attaches, in the canon's most quoted piece of
 self-limitation: "It is not the messenger who is important, but the
@@ -428,7 +428,7 @@ thoughts toward the Elohim each Sunday at 11 a.m. The movement also
 practices "sensual meditation," whose canonical instruction reads:
 {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=113) %}"Your meditation shall not be a dry meditation, but on the contrary a sensual meditation; you shall let yourself be invaded by peace and by harmony until it becomes an enjoyment"{% end %}
 — an embodied religious practice within a system that rejects an immortal
-soul. Its political program, published in 1977 as *Geniocracy*, advocates
+soul. Its political program, published in 1977 as *{% wiki(slug="geniocracy") %}Geniocracy{% end %}*, advocates
 the "selective democracy" of the intelligent. The movement has retained it
 as an aspiration, while critics cite it as evidence of elitism.{{ footnote(id="12") }}
 
@@ -531,7 +531,7 @@ offers a concise account of the doctrinal mechanism: an account of
 origins that is "an alternative both to creationism and to evolutionism,"
 guided design without a designer-God. Its strength is that it captures
 the epistemic posture — the movement's slogan, on its own website, was
-for years "intelligent design for atheists." Its weakness is that the
+for years "{% wiki(slug="intelligent-design") %}intelligent design{% end %} for atheists." Its weakness is that the
 posture is aspirational, and that aspiration has a due date. Rodney Stark's
 model of movement success holds that durable religions keep their core
 claims safely non-empirical; Palmer, applying Stark's criteria to Raëlism,
@@ -561,7 +561,7 @@ and Palmer's adjectives are the labels most directly supported by the
 primary sources. The founding scripture is a Bible commentary. The
 revelation scene resembles
 Isaiah's commissioning. The presiding figure is Yahweh; the messenger's
-half-brother is Jesus; the calendar's pivot (1945, the Age of Apocalypse)
+half-brother is Jesus; the calendar's pivot (1945, the {% wiki(slug="apocalypse") %}Age of Apocalypse{% end %})
 is a reading of Daniel's sealed book and John's Revelation; the
 eschatology is Jewish messianism relocated to aeronautics — the canon
 asks Israel for land, and Chryssides states the identification without

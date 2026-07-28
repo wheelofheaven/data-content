@@ -142,7 +142,7 @@ The word *monotheism* is younger than the telescope. It was coined and
 popularised by Christian philosophers in the second half of the seventeenth
 century; Henry More is usually credited with its first English use. The word
 names a real and important family of convictions, but it is not an ancient
-self-description shared by Moses, Paul, and Muhammad. It is a ruler made in one
+self-description shared by {% wiki(slug="moses") %}Moses{% end %}, Paul, and Muhammad. It is a ruler made in one
 intellectual workshop and laid retrospectively across very different religious
 worlds.
 
@@ -488,7 +488,7 @@ could be distributed among lesser beings and their objects.
 Within the [Age of Aquarius](/timeline/age-of-aquarius/), the Wheel of Heaven
 canon begins by reversing the later settlement. It accepts the ancient
 plurality and rejects the supernatural category. The Elohim are many, finite,
-embodied makers. Yahweh is a named individual and institutional president, not
+embodied makers. Yahweh is a named individual and {% wiki(slug="council-of-eternals") %}institutional president{% end %}, not
 being itself. Gabriel or
 Jibril is read as a messenger involved in prophetic contact, not an immaterial
 species hovering between creation and creator.{{ footnote(id="7") }}
@@ -575,7 +575,7 @@ do.
 **It explains the recurring grammar of restoration.** Abraham stands at the
 edge of the [Age of Taurus](/timeline/age-of-taurus/); Moses returns Israel to
 the covenant in the [Age of Aries](/timeline/age-of-aries/) after the calf;
-prophets accuse the people of forgetting; Jesus calls hearers back to the law's
+prophets accuse the people of forgetting; {% wiki(slug="jesus") %}Jesus{% end %} calls hearers back to the law's
 weightier matters; and the Qur'an, within the
 [Age of Pisces](/timeline/age-of-pisces/), calls Abraham neither Jew nor
 Christian and commands Muhammad to follow his religion. New messages present
@@ -621,7 +621,7 @@ about community boundary-making than about what image worship replaced. G. R.
 Hawting's work makes the same warning for Islam: polemical "associators" cannot
 simply be turned into a photographic account of pre-Islamic religion.
 
-**The third objection is category substitution.** Replacing "god" with
+**The third objection is {% wiki(slug="neo-euhemerism") %}category substitution{% end %}.** Replacing "god" with
 "advanced being" does not automatically recover history. It may merely
 translate ancient mythology into the prestige language of the technological
 present. Susan Palmer and George Chryssides describe exactly this operation in

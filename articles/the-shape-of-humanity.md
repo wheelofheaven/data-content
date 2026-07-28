@@ -86,8 +86,8 @@ science we do not yet have, because we have been standing too close, and
 have been, ourselves, the tissue under the microscope?
 
 The Raëlian canon states the premise without hedging. In the second
-message, laying out how the Elohim can foresee the future of a
-civilization they cannot control, Yahweh asks Raël to hold a single
+message, laying out how {% wiki(slug="elohim") %}the Elohim{% end %} can foresee the future of a
+civilization they cannot control, {% wiki(slug="yahweh") %}Yahweh{% end %} asks {% wiki(slug="rael") %}Raël{% end %} to hold a single
 picture in mind:
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=108) %}
@@ -369,8 +369,8 @@ found, across the whole tree of life, the astonishing regularity that
 project: the {% wiki(slug="mass-effect") %}quarter-power laws{% end %} that
 make a mouse and a whale run the same billion-heartbeat life at different
 speeds. Biological organisms scale **sublinearly**: double an animal's
-mass and it needs less than double the energy, because a fractal supply
-network gets more efficient at scale. Sublinear scaling has a consequence
+mass and it needs less than double the energy, because a {% wiki(slug="fractal-cosmology") %}fractal supply
+network{% end %} gets more efficient at scale. Sublinear scaling has a consequence
 West states flatly — it produces "bounded growth and a finite life span."
 The animal grows fast when young, slows, stops, and dies.
 
@@ -461,8 +461,8 @@ specimen, and the discipline will have to walk it.
 
 The second road we cannot walk, but someone else can — and this is the
 canon's quiet, radical contribution. A civilization that is not inside the
-specimen at all: one that stands outside, having created human life on many
-worlds, deliberately, as an experiment, and watched each one run to its
+specimen at all: one that stands outside, having {% wiki(slug="life-engineering") %}created human life{% end %} on {% wiki(slug="cosmic-pluralism") %}many
+worlds{% end %}, deliberately, as an experiment, and watched each one run to its
 outcome. Such a civilization would possess
 exactly the dataset embryology has and history lacks: *many instances of
 the same process, observed to completion, from the outside*. It would have
@@ -640,7 +640,7 @@ without concluding that the body may eat its cells; a civilizational
 morphology can describe the species-organism while insisting, as the canon
 in fact insists, that its purpose is served by the flourishing of the
 cells, not their expenditure. The canon is emphatic on exactly this point:
-the Infinite is "infinitely indifferent" to us
+{% wiki(slug="infinity") %}the Infinite{% end %} is "infinitely indifferent" to us
 ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=71) %}LWTE 1:71{% end %}),
 which means no cosmic body is owed our sacrifice; and the individual's life
 "has only the importance that we give it," a value assigned from within,

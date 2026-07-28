@@ -117,7 +117,7 @@ Giorgio de Santillana of MIT and Hertha von Dechend of Frankfurt, both
 of them professionally suspicious of pretty coincidences and both, by
 the end, convinced they had found something older than
 literature.{{ footnote(id="4") }} The book they published in 1969,
-*Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge
+*{% wiki(slug="hamlets-mill") %}Hamlet's Mill{% end %}: An Essay Investigating the Origins of Human Knowledge
 and Its Transmission Through Myth*, is the interpretive instrument
 this Explainer takes up: the argument that the world's great myths are
 the ruins of a technical language, that the machine the stories keep
@@ -128,8 +128,8 @@ slowest and most majestic fact accessible to naked-eye astronomy: the
 {% wiki(slug="precession") %}precession of the equinoxes{% end %}, the
 wheel that turns once in twenty-six thousand years and divides history
 into {% wiki(slug="world-age") %}world ages{% end %}. This project has
-already told the story of the man who read Genesis by that wheel — Jean
-Sendy, in [The Man Who Bet the Bible on the
+already told the story of the man who read Genesis by that wheel — {% wiki(slug="jean-sendy") %}Jean
+Sendy{% end %}, in [The Man Who Bet the Bible on the
 Moon](/articles/the-man-who-bet-the-bible-on-the-moon/) — and the
 corpus operates the ages as its working calendar across the entire
 [timeline](/timeline/). What follows is the case for the wheel itself:
@@ -155,7 +155,7 @@ years. And the constellation that hosts the sunrise on the spring
 equinox — the most watchable, datable event in the archaic sky — drifts
 backward through the zodiac at about one degree every 72 years, one
 whole constellation every 2,160. In the age of the early Sumerian
-cities the equinox sun rose in Taurus. In the age of Moses it rose in
+cities the equinox sun rose in Taurus. In the age of {% wiki(slug="moses") %}Moses{% end %} it rose in
 Aries. At the birth of Christianity it slipped into Pisces, where it
 technically still stands; the boundary of Aquarius lies a few
 centuries ahead on the sidereal reckoning, or a few decades behind us
@@ -231,7 +231,7 @@ the iron rivets burst, the shaft tree shivered, the bin shot down, the
 massy mill-stone rent in twain* — and where the water pours through
 the hole in the sunken millstone there is a whirlpool in the sea to
 this day, and that is why the sea is salt. In Finland the same story
-wears different clothes: the smith Ilmarinen forges the *Sampo* with
+wears different clothes: the smith Ilmarinen forges the *{% wiki(slug="sampo") %}Sampo{% end %}* with
 its many-colored cover — the word, the philologists eventually
 noticed, descends from Sanskrit *skambha*, the world-pillar — and it
 grinds out flour and salt and money until it is stolen, fought over at
@@ -379,20 +379,20 @@ enough to walk the stretch where the evidence clusters, in the order
 the precession actually runs — backward through the zodiac.
 
 **Leo (roughly 10,800–8600 BCE).** The oldest claimed marker is the
-largest: the Great Sphinx, a lion facing due east, watching the
+largest: the {% wiki(slug="great-sphinx") %}Great Sphinx{% end %}, a lion facing due east, watching the
 equinox sunrise. In the epoch of its conventional attribution — the
 reign of Khafre, deep in the Age of Taurus — a leonine equinoctial
 marker answers to nothing in the sky; project the sky back to the
 eleventh millennium BCE and the Sphinx watches the sun rise against
-the stars of Leo, "his own celestial counterpart," in Hancock's
+the stars of Leo, "his own celestial counterpart," in {% wiki(slug="graham-hancock") %}Hancock{% end %}'s
 phrase. Hancock's later refinement locks the claim to a harder
 boundary: "even with a little boundary juggling... the Age of Leo
 pretty much perfectly encloses the Younger Dryas (10,800 BC to 9600
 BC)" — the abrupt, still-debated relapse into glacial cold that
 brackets the world's flood memories on his reading, and whose end,
-9600 BCE, is both the excavators' foundation date for Göbekli Tepe and
+9600 BCE, is both the excavators' foundation date for {% wiki(slug="gobekli-tepe") %}Göbekli Tepe{% end %} and
 the date Plato's priest gives Solon for the sinking of
-Atlantis.{{ footnote(id="15") }} Bauval's Orion correlation supplies
+Atlantis.{{ footnote(id="15") }} Bauval's {% wiki(slug="orion-correlation") %}Orion correlation{% end %} supplies
 the second hand of what Hancock calls the Giza clock: the Belt stars
 at their precessional minimum, mirrored by the three pyramids, at
 circa 10,450 BCE. Mainstream Egyptology rejects every element of this
@@ -407,7 +407,7 @@ equinoctial colure ran along the Milky Way — the shining road visibly
 connected the crossroads of heaven, "the way up and the way down where
 men and gods could meet in that Golden Age." When precession pulled
 the equinox out of Gemini, the gate closed; the road and the crossing
-parted company. Jane Sellers, the Egyptologist-outsider who applied
+parted company. {% wiki(slug="jane-sellers") %}Jane Sellers{% end %}, the Egyptologist-outsider who applied
 the *Hamlet's Mill* method to Egypt in the one book mainstream
 reviewers half-forgave, dates the trauma precisely: at the latitude of
 southern Egypt, the stars of Orion — Osiris — ceased to rise on the
@@ -425,14 +425,14 @@ opposite sign) as its zodiacal registration.
 almost embarrassingly literal. The civilizations of the fourth and
 third millennia worshipped bulls with a unanimity that startled the
 first Egyptologists: Apis and Mnevis in Egypt, the Bull of Heaven in
-Uruk, the bull-leaping and bull-horned shrines of Crete. John Anthony
-West, carrying Schwaller de Lubicz's argument, put the strong claim on
+Uruk, the bull-leaping and bull-horned shrines of Crete. {% wiki(slug="john-anthony-west") %}John Anthony
+West{% end %}, carrying Schwaller de Lubicz's argument, put the strong claim on
 record: "from the earliest dynasties, the precession through the
 zodiac was what guided the course of Egyptian artistic and
 architectural policy" — dual symbols and twin capitals under Gemini,
 the bull of Mentu dominating Old Kingdom iconography under Taurus.
 Sendy adds the counterpart detail this corpus's
-doubled-signature principle formalizes: while Pharaoh worshipped the
+{% wiki(slug="doubled-signature") %}doubled-signature principle{% end %} formalizes: while Pharaoh worshipped the
 Bull, the queen wore the scorpion — the diametrically opposite sign —
 on her headdress.{{ footnote(id="16") }} And at the age's far end
 stands the strangest witness: the Roman cult of Mithras, whose central
@@ -440,7 +440,7 @@ icon shows a god killing a bull surrounded by a scorpion, a dog, a
 snake, a raven — a frieze of exactly the constellations that lay on
 the celestial equator when the equinox was in Taurus. David Ulansey's
 reconstruction, from inside the academy and with no debt to
-Santillana, reads the tauroctony as a star map and the bull's death as
+Santillana, reads the {% wiki(slug="tauroctony") %}tauroctony{% end %} as a star map and the bull's death as
 the death of an age: the image of "that cosmic force which had, in
 ancient times, destroyed the power of the bull by moving the entire
 cosmic structure," a god so powerful he could shift the frame of the
@@ -474,7 +474,7 @@ of Aries](/timeline/age-of-aries/) for the corpus's own treatment.
 
 **Pisces (roughly 1–2000 CE).** The Magi are astrologers; the gospel
 says so without embarrassment. They come because they have seen a
-star; Jung — whose *Aion* is a book-length meditation on this age —
+star; {% wiki(slug="carl-jung") %}Jung{% end %} — whose *Aion* is a book-length meditation on this age —
 notes the famous triple conjunction of Jupiter and Saturn *in Pisces*
 in 7 BCE, and states the correspondence with a directness that
 unsettled his own editors: "to the extent that Christ was regarded as
@@ -546,12 +546,12 @@ The ages are the dial; the numbers are the gear-teeth, and they are
 the part of the case that travels best, because numbers survive
 translation the way images do not. The set is small and specific: 72,
 the years per precessional degree; 2,160, the years per sign; 4,320,
-two signs; 25,920, the Great Year; 108 and 10,800, the halves and
+two signs; 25,920, the {% wiki(slug="great-year") %}Great Year{% end %}; 108 and 10,800, the halves and
 hundredfolds; 432,000, the grand multiple.{{ footnote(id="6") }}
 
 They surface where no one was looking for them. Berossus, the priest
-of Marduk who opened an astrology school on Kos, assigns the kings of
-Sumer before the Flood a combined reign of 432,000 years. The Rigveda,
+of Marduk who opened an astrology school on Kos, assigns the {% wiki(slug="sumerian-king-list") %}kings of
+Sumer before the Flood{% end %} a combined reign of 432,000 years. The Rigveda,
 composed a continent away, runs to 10,800 stanzas of 40 syllables:
 432,000 syllables. The Kali Yuga lasts 432,000 years; Heraclitus's
 aiōn, per Censorinus, 10,800. In the *Grímnismál*, Valhalla has 540
@@ -721,7 +721,7 @@ one verse the interrogation turns to the wheel:
 >
 > — {% libref(book="job", chapter=38, verse=32) %}Job 38:31–33{% end %} (KJV)
 
-*Mazzaroth* is a hapax legomenon; the word occurs exactly once in the
+*{% wiki(slug="mazzaroth") %}Mazzaroth{% end %}* is a hapax legomenon; the word occurs exactly once in the
 Bible, and by the time the ancient translators reached it, the meaning
 was already lost — the Septuagint simply transliterates, the Vulgate
 guesses at Venus, and the King James gives up gracefully, carrying the
@@ -910,7 +910,7 @@ circumstantial evidence for archaic knowledge of precession "is no
 more substantial than the coincidence" of favored round numbers, and
 "it would be foolish to construct a theory on such scant evidence."
 Even Jane Sellers's sympathetic reviewer at the Griffith Observatory,
-E. C. Krupp, drew the line that keeps archaeoastronomy honest:
+E. C. Krupp, drew the line that keeps {% wiki(slug="archaeoastronomy") %}archaeoastronomy{% end %} honest:
 "whether the Egyptians were fully aware of precession is one thing;
 that they responded to its effect is another."
 
