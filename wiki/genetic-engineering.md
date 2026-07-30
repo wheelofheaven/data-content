@@ -179,7 +179,7 @@ the creation account it reads as an engineering record.
 knowledge at the centre of the Eden story. The
 [Tree of the Knowledge of Good and Evil](../tree-of-the-knowledge-of-good-and-evil/)
 is read as the Elohim's own body of scientific knowledge, withheld from the first
-humans by order of the home-world [Council of the Eternals](../council-of-eternals/)
+humans by order of the home-world [Council of the Eternals](../council-of-the-eternals/)
 so that the creation would not become the creators' equal. The disclosure narrated
 in Genesis 3 — the [serpent](../serpent/)'s counsel — is read as the act of the
 [Lucifer](../lucifer/) faction: a minority of the creators who judged the

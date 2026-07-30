@@ -290,7 +290,7 @@ From this point the canon has three off-Earth locations in play: the
 {% wiki(slug="elohim-home-planet") %}home planet{% end %}, atmosphere
 lethal to unprotected humans, location withheld; the planet of the
 Eternals, seat of the
-{% wiki(slug="council-of-eternals") %}Council{% end %}, population
+{% wiki(slug="council-of-the-eternals") %}Council{% end %}, population
 8,400 recreated Terrans and 700 Elohim; and the near-Earth observation
 station. The meditation instruction at ETTMTTP 3:193 keeps the first
 two rigorously distinct. The lapse at 3:216 — "scientific reincarnation

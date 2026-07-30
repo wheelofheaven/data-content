@@ -703,7 +703,7 @@ Elohim, cela veut dire littéralement «venus du ciel» en Hébreu.
 **Ранг — и природа — Яхве.** Читатели родственных разборов знают
 рисунок: Уоллис вешает дракона на Яхве, Бильино разжалует его в мелкого
 территориального управляющего, канон сажает его как президента
-{% wiki(slug="council-of-eternals") %}Совета Вечных{% end %}
+{% wiki(slug="council-of-the-eternals") %}Совета Вечных{% end %}
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}TBWTT 7:56{% end %}).
 Сенди делает то, чего не делает ни один из трёх: он вовсе убирает
 {% wiki(slug="yahweh") %}Яхве{% end %} из списка личностей. Его Iahvé —

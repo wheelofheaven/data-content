@@ -176,7 +176,7 @@ returning to the primitive stage."* The full treatment lives in the
 The clearest instance of the cycle within the corpus's own history of Earth is
 the [Great Flood](../great-flood/). On the canon's reading the antediluvian
 [Eden](../eden/) civilization reached an advanced technological state, and the
-home-world [Council of the Eternals](../council-of-eternals/) judged that it had
+home-world [Council of the Eternals](../council-of-the-eternals/) judged that it had
 passed the point the original settlement could sustain and ordered its
 destruction. A remnant was preserved not by the faction that pressed for
 humanity's end but by the exiled [Lucifer](../lucifer/) faction — the creators
@@ -257,7 +257,7 @@ something real is being remembered.
 - [Lucifer](../lucifer/)
 - [Satan](../satan/)
 - [Eden](../eden/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)
 - [Doubled Signature](../doubled-signature/)

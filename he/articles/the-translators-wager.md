@@ -695,7 +695,7 @@ bicicletta? Ora pedalerete!"* — רציתם את האופניים? עכשיו �
 ואינו יכול להיחשב, אלוהי האנושות, אלא מושל
 שבטי שעסק אך ורק בשבט שהופקד
 בידיו."* הקאנון מקדם אותו: יהוה הוא נשיא
-{% wiki(slug="council-of-eternals") %}מועצת הנצחיים{% end %},
+{% wiki(slug="council-of-the-eternals") %}מועצת הנצחיים{% end %},
 בן עשרים וחמישה אלף שנה, הישות אשר *"הנחתה את יצירת
 החיים על פני הארץ"*
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}הספר האומר את האמת 7:56{% end %}).

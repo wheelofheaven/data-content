@@ -326,7 +326,7 @@ footnotes = [
 끝에, "빛의 모든 아들들을 위한 속죄가 이루어질" 때에 떨어진다. 이 말뭉치의
 독자들은 이에 아무 도움도 필요치 않을 것이다. 엘로힘의 복수성, 그 안에서
 직임과 관할을 지닌 이름 붙은 개별자들, 심판하는
-{% wiki(slug="council-of-eternals") %}회의{% end %}, 사람들이 그것을 받아
+{% wiki(slug="council-of-the-eternals") %}회의{% end %}, 사람들이 그것을 받아
 마땅해서가 아니라 그 셈이 완성될 때에 도래하는 해방 — 그 두루마리는 그 틀의
 신적 회의 세계이며, 기독교보다 한 세기 앞서 히브리인의 손으로 쓰였고, 그것은
 줄곧 항아리 안에 놓여 있었다. 그 둘레에는 안식일 제사의 노래들이 서 있었다 —
@@ -447,7 +447,7 @@ footnotes = [
   [희년서](/library/book-of-jubilees/) 번역 — 그 동굴들이 전통의 핵심으로
   되돌린 그 두 잃어버린 책을 위해.
 - {% wiki(slug="plurality-of-gods") %}신들의 복수성{% end %}과
-  {% wiki(slug="council-of-eternals") %}영원자 평의회{% end %} 항목 —
+  {% wiki(slug="council-of-the-eternals") %}영원자 평의회{% end %} 항목 —
   4QDeutj와 11QMelchizedek이 고대의 형태로 실어 나르는 그 신적 회의 본문들에
   대한 틀의 독해를 위해.
 - [최초의 모스크들은 메카가 아니라 페트라를 향했다](/articles/the-first-mosques-faced-petra-not-mecca/) —

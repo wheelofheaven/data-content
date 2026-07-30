@@ -720,7 +720,7 @@ lo bastante subalterno como para que el reparto obre contra su
 importancia —*«Yahvé no es, ni puede considerarse, el Dios de la
 humanidad, sino un gobernador tribal que se ocupaba exclusivamente del
 clan que se le encomendó»*—. El canon lo promueve: Yahvé es el presidente
-del {% wiki(slug="council-of-eternals") %}Consejo de los Eternos{% end %},
+del {% wiki(slug="council-of-the-eternals") %}Consejo de los Eternos{% end %},
 de veinticinco mil años de edad, el ser que *«dirigió la creación de la
 vida en la Tierra»*
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}TBWTT 7:56{% end %}).

@@ -702,7 +702,7 @@ enough that the allotment tells against his importance — *"Yahweh is
 not, and cannot be considered, the God of humanity, but a tribal
 governor who occupied himself exclusively with the clan entrusted to
 him."* The canon promotes him: Yahweh is the president of the
-{% wiki(slug="council-of-eternals") %}Council of the Eternals{% end %},
+{% wiki(slug="council-of-the-eternals") %}Council of the Eternals{% end %},
 twenty-five thousand years old, the being who *"directed the creation of
 life on the Earth"*
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}TBWTT 7:56{% end %}).

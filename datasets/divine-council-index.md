@@ -61,7 +61,7 @@ a presiding figure, a bounded body of "sons" or "holy ones," and decisions —
 over kingship, over the nations, over the fate of humankind — taken *in
 assembly* rather than by fiat. The Wheel of Heaven corpus reads that institution
 as one and the same referent across the traditions: the
-[Council of the Eternals](/wiki/council-of-eternals/), the governing body of the
+[Council of the Eternals](/wiki/council-of-the-eternals/), the governing body of the
 [Elohim](/wiki/elohim/) civilization, of which the biblical *bene elohim* and
 the Ugaritic *sons of El* are the compressed cultural memory. The same council
 that, in the [flood dataset](/datasets/flood-myths/), is recorded deciding on

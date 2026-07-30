@@ -88,7 +88,7 @@ Three features make the fit precise:
 
 ### Idolatry, not polytheism — what the Hanafiyya turned from
 
-The standard gloss translates the *ḥanīf*'s turn as monotheism replacing polytheism: many gods giving way to one God. The Wheel of Heaven frame reads the axis differently, because it does not share the metaphysical contrast that gloss assumes. The Elohim of the corpus are a **plurality** — a [Council](../council-of-eternals/) of finite, embodied creators, the grammatically plural *Elohim* the Hebrew text preserves (see [Plurality of Gods](../plurality-of-gods/)). In that sense the corpus stands *closer* to a pantheon of real, locatable beings than to the abstract, omnipresent, omniscient, omnipotent single God of later theology — a God the Raëlian canon names as the **mistranslation** that "transform[ed] the creators into a single incomprehensible God" ([*The Book Which Tells the Truth*](../../library/the-book-which-tells-the-truth/)). The frame therefore cannot read the Hanafiyya as a victory of metaphysical oneness over plurality, because it does not hold that the truth is metaphysically one.
+The standard gloss translates the *ḥanīf*'s turn as monotheism replacing polytheism: many gods giving way to one God. The Wheel of Heaven frame reads the axis differently, because it does not share the metaphysical contrast that gloss assumes. The Elohim of the corpus are a **plurality** — a [Council](../council-of-the-eternals/) of finite, embodied creators, the grammatically plural *Elohim* the Hebrew text preserves (see [Plurality of Gods](../plurality-of-gods/)). In that sense the corpus stands *closer* to a pantheon of real, locatable beings than to the abstract, omnipresent, omniscient, omnipotent single God of later theology — a God the Raëlian canon names as the **mistranslation** that "transform[ed] the creators into a single incomprehensible God" ([*The Book Which Tells the Truth*](../../library/the-book-which-tells-the-truth/)). The frame therefore cannot read the Hanafiyya as a victory of metaphysical oneness over plurality, because it does not hold that the truth is metaphysically one.
 
 What the frame reads instead is a contrast between **idolatry** and **knowing the creators**. The canon states it directly, and sets it in the same post-Sodom collapse that frames [Abraham](../abraham/) as the recovery figure:
 
@@ -113,7 +113,7 @@ The entry's overall `claim_type` is `inferred`: the *ḥanīf* concept and the *
 - [Monotheism](../monotheism/)
 - [Idolatry](../idolatry/)
 - [Elohim](../elohim/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Religion](../religion/)
 - [Age of Pisces](../timeline/age-of-pisces/)
 - [List of prophets and religions](../list-of-prophets-and-religions/)

@@ -714,7 +714,7 @@ manufactura.
 **El rango —y la naturaleza— de Yahvé.** Los lectores de los Explicativos
 hermanos conocen el patrón: Wallis carga el dragón sobre Yahvé, Biglino lo
 degrada a un gobernador territorial menor, el canon lo entroniza como
-presidente del {% wiki(slug="council-of-eternals") %}Consejo de los
+presidente del {% wiki(slug="council-of-the-eternals") %}Consejo de los
 Eternos{% end %}
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}TBWTT 7:56{% end %}).
 Sendy hace algo que ninguno de los tres hace: retira a

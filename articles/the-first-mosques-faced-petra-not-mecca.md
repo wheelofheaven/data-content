@@ -468,7 +468,7 @@ There is a temptation to read the *ḥanīf*'s turn as the familiar story of
 monotheism replacing polytheism — many gods collapsing into one. The Wheel of
 Heaven frame declines that reading, and the reason cuts to the centre of the
 corpus. The {% wiki(slug="elohim") %}Elohim{% end %} are a plurality: a
-[Council](/wiki/council-of-eternals/) of finite, embodied creators, the
+[Council](/wiki/council-of-the-eternals/) of finite, embodied creators, the
 grammatically plural *Elohim* the Hebrew text keeps and that the corpus reads
 across the {% wiki(slug="plurality-of-gods") %}whole record{% end %}. The
 corpus stands, if anything, *closer* to a pantheon of real and locatable beings

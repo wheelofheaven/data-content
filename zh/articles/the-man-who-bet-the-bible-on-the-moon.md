@@ -627,7 +627,7 @@ principe mathématique」*——像一条数学原理那样非物质。正典：
 **耶和华的位阶——以及其本性。** 读过那几篇姊妹解说的读者
 知道这套模式：沃利斯把那条龙钉在耶和华身上，比利诺把他
 贬为一位小小的领地总督，正典则把他安坐为
-{% wiki(slug="council-of-eternals") %}永恒者议会{% end %}的
+{% wiki(slug="council-of-the-eternals") %}永恒者议会{% end %}的
 主席（{% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}TBWTT 7:56{% end %}）。
 桑迪做了那三人都没做的事：他把
 {% wiki(slug="yahweh") %}耶和华{% end %}从位格的名册里整个

@@ -249,14 +249,14 @@ Ninety thousand biological robots serve nine thousand residents; cities
 are single kilometer-scale structures designed by one architect apiece,
 "kinds of cubes so as not to «eat» the countryside"
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=47) %}TBWTT 7:39–47{% end %});
-a {% wiki(slug="council-of-eternals") %}council of seven hundred{% end %}
+a {% wiki(slug="council-of-the-eternals") %}council of seven hundred{% end %}
 administers the automated substrate for seven billion people who are
 under no obligation to do anything at all. Within the frame, this is
 what the doctrine is *for*: the terrestrial program is a copy of a
 working original. Even the adversary in the canon's dramatis personae
 prices the question in these terms —
 {% wiki(slug="satan") %}Satan{% end %}, the skeptic of the
-{% wiki(slug="council-of-eternals") %}Council{% end %}, "will not be
+{% wiki(slug="council-of-the-eternals") %}Council{% end %}, "will not be
 convinced that something good can be expected of men until they are
 united, and money and all weapons are destroyed"
 ({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=72) %}LWTE 2:72{% end %}).

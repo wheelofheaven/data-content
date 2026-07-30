@@ -47,7 +47,7 @@ Wheel of Heaven's answer is **yes**: the Anunnaki and the Elohim are the same cr
 |---|---|---|
 | **Source corpus** | Hebrew Bible (from c. 10th–5th c. BCE) | Sumerian and Akkadian texts (attested from the mid-3rd millennium BCE) |
 | **The word** | Plural of *Eloah*; "powerful ones," "those from the sky" | Sumerian *a-nun-na(-k)*, "offspring of the prince" (the sky-god An) |
-| **Number** | A collective; a {% wiki(slug="council-of-eternals") %}Council{% end %} of ~700 on the corpus's reading | Conventionally the great gods; later texts count them in the hundreds |
+| **Number** | A collective; a {% wiki(slug="council-of-the-eternals") %}Council{% end %} of ~700 on the corpus's reading | Conventionally the great gods; later texts count them in the hundreds |
 | **Made humanity** | In {% wiki(slug="eden") %}Eden{% end %}, "in our image," by design | From clay and a slain god's blood, "to bear the labor of the gods" |
 | **Sent a flood** | {% wiki(slug="great-flood") %}Yes — a council decision{% end %} | Yes — a council decision, survivor warned by Enki |
 | **On the corpus's reading** | The extraterrestrial creator-civilization, read directly | The same creator-civilization in the Mesopotamian record |

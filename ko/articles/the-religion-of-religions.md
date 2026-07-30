@@ -302,7 +302,7 @@ footnotes = [
 {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=50) %}"내 이름은 야훼이며 나는 영원자 평의회의 의장이다"{% end %}
 — 이 말뭉치가 열두어 항목에 걸쳐 다루는 그
 {% wiki(slug="yahweh") %}야훼{% end %}와
-{% wiki(slug="council-of-eternals") %}영원자 평의회{% end %}이다.
+{% wiki(slug="council-of-the-eternals") %}영원자 평의회{% end %}이다.
 
 같은 책은, 이 글이 그 제목을 취한 대목에서, 그 운동 자체의 범주에 이름을
 붙인다.
@@ -382,7 +382,7 @@ Extraterrestrials, 1979)에서, 야훼는 그 사자의 친자(親子)를 밝힌
 길이로 다루어지는 우주론이다 — 영혼이 없는 것은 사람이 곧 정보이기 때문이다.
 유전적 계획에 더해 일생분의 기억이며, 그 둘 모두는, 정경의 설명으로는,
 저장 가능하고, 저장되어 있다. 엘로힘은 기록을 보관한다.
-{% wiki(slug="council-of-eternals") %}평의회{% end %}가 그 이름값을 하는
+{% wiki(slug="council-of-the-eternals") %}평의회{% end %}가 그 이름값을 하는
 최후의 심판을 그것들에 대해 시행한다. 합당한 자들은 예약된 한 행성에서 그들의
 코드로부터 재창조된다. 영원한 생명은 하나의 서비스이며, 입회 방침을 지닌다.
 2001년의 복제 소책자는 그 기제를 세 단계 프로그램 — 복제, 가속 성장, 기억

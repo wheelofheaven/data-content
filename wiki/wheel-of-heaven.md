@@ -188,7 +188,7 @@ framework holds that early cultures did not discover precession on their own but
 were taught it. The teachers were the exiled creators who had sided with their
 own creation and stayed on Earth — the [Lucifer](../lucifer/) faction, the party
 of the Eden [Serpent](../serpent/) — and not the home-world
-[Council of the Eternals](../council-of-eternals/), nor
+[Council of the Eternals](../council-of-the-eternals/), nor
 [Satan](../satan/)'s faction, which had argued for humanity's abolition and had
 no reason to instruct it. The astronomical knowledge was then set into sacred
 iconography — the bull of the Age of Taurus, the ram of Aries, the fish of

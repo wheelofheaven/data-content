@@ -479,7 +479,7 @@ Akhekh라는 이름을 제쳐 두면 그 목록의 다른 모든 항목은 견�
 >
 > — *에덴 침공*, 9장
 
-정경의 {% wiki(slug="council-of-eternals") %}영원자 평의회{% end %}는 이름이 붙은
+정경의 {% wiki(slug="council-of-the-eternals") %}영원자 평의회{% end %}는 이름이 붙은
 직위와 더불어 같은 내부 정치를 지닌다. {% wiki(slug="satan") %}사탄{% end %} 분파는
 '지구만큼 가까운 행성에 다른 지적 존재들을 창조하는 데 반대'했고({% libref(book="the-book-which-tells-the-truth", chapter=3, verse=251) %}TBWTT 3:251{% end %}),
 루시퍼 분파는 인간들이 동등한 자로 교육받기를 원했으며,

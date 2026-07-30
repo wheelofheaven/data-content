@@ -16,7 +16,7 @@ alternative_names = ["Anuna", "Anunna", "Anunnakū", "a-nun-na", "the great gods
 see_also = [
     { title = "Elohim", path = "/wiki/elohim/" },
     { title = "Are the Anunnaki the Elohim?", path = "/articles/anunnaki-and-the-elohim/" },
-    { title = "Council of Eternals", path = "/wiki/council-of-eternals/" },
+    { title = "Council of Eternals", path = "/wiki/council-of-the-eternals/" },
     { title = "Great Flood", path = "/wiki/great-flood/" },
     { title = "Serpent", path = "/wiki/serpent/" },
     { title = "Sumerian King List", path = "/wiki/sumerian-king-list/" },
@@ -158,7 +158,7 @@ but as an identification of the underlying beings, while the two traditions
 preserve different names, emphases, and narrative layers. What the cuneiform
 record supplies is a structural series that matches the biblical one — plural
 makers, the fashioning of humanity, labor assigned to the made, conflict within
-the {% wiki(slug="council-of-eternals") %}council{% end %}, a council-decreed
+the {% wiki(slug="council-of-the-eternals") %}council{% end %}, a council-decreed
 Flood, and a dissenter who preserves a human line.
 
 The identity is stated as framework, not as established history. The cuneiform

@@ -494,7 +494,7 @@ Il est tentant de lire le retournement du *ḥanīf* comme l'histoire familière
 monothéisme remplaçant le polythéisme — de multiples dieux se résorbant en un seul.
 Le cadre de Wheel of Heaven décline cette lecture, et la raison touche au cœur du
 corpus. Les {% wiki(slug="elohim") %}Élohim{% end %} sont une pluralité : un
-[Conseil](/wiki/council-of-eternals/) de créateurs finis et incarnés, le pluriel
+[Conseil](/wiki/council-of-the-eternals/) de créateurs finis et incarnés, le pluriel
 grammatical *Elohim* que le texte hébreu conserve et que le corpus lit à travers
 {% wiki(slug="plurality-of-gods") %}tout le registre{% end %}. Le corpus se tient,
 s'il faut le dire, *plus près* d'un panthéon d'êtres réels et localisables que du

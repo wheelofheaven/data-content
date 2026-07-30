@@ -27,7 +27,7 @@ references = [
     { title = "창세기", author = "익명 (히브리어 성경); 점이 찍힌 마소라 히브리어로부터의 WoH 번역", date = "기원전 6–5세기경", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "아트라하시스", author = "익명 (고대 바빌로니아 아카드어)", date = "기원전 17세기경", medium = "religious-text", path = "/library/atrahasis/", description = "고대 바빌로니아 홍수 서사. 창세기 6–9장과 가장 가까운 성서 이전의 평행 텍스트." },
     { title = "에누마 엘리시", author = "익명 (바빌로니아)", date = "기원전 12세기경", medium = "religious-text", path = "/library/enuma-elish/" },
-    { title = "길가메시 서사시 (제11서판)", author = "익명 (표준 바빌로니아어)", date = "기원전 12세기경", medium = "religious-text", path = "/library/gilgamesh/", description = "우트나피슈팀의 홍수 서사. 본 장은 이를 아트라하시스 및 에리두 창세기와 함께 사용합니다." },
+    { title = "길가메시 서사시 (제11서판)", author = "익명 (표준 바빌로니아어)", date = "기원전 12세기경", medium = "religious-text", path = "/library/epic-of-gilgamesh/", description = "우트나피슈팀의 홍수 서사. 본 장은 이를 아트라하시스 및 에리두 창세기와 함께 사용합니다." },
     { title = "에리두 창세기", author = "익명 (수메르)", date = "기원전 17세기경", medium = "religious-text", path = "/library/eridu-genesis/", description = "홍수의 수메르 지우수드라 판본." },
     { title = "에녹1서 (감시자의 책 + 천문학의 책)", author = "익명 (제2성전기 유대교)", date = "기원전 3세기경", medium = "religious-text", path = "/library/book-of-enoch/" },
     { title = "바빌로니아카", author = "베로수스 (Bel-re'ushu); 에우세비우스와 신켈루스를 통해 그리스어 단편으로 보존됨", date = "기원전 290년경", medium = "religious-text", description = "아다파/오안네스 압칼루 이야기를 보존한 메소포타미아 전통의 헬레니즘 시기 요약." },

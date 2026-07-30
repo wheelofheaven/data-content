@@ -39,7 +39,7 @@ cataclysm, and repopulate the earth afterward. In the Wheel of Heaven framework
 he is read as an Eden-lineage human — the on-the-ground partner of the exiled
 [Lucifer](../lucifer/) faction of creators — who coordinated the preservation of
 Earth's biological heritage against a deliberate strike ordered by the home-world
-[Council of the Eternals](../council-of-eternals/). On that reading Noah is not a
+[Council of the Eternals](../council-of-the-eternals/). On that reading Noah is not a
 uniquely righteous individual spared as a moral reward but the human coordinator
 of a technical rescue operation, and the flood is not divine punishment but the
 [Great Flood](../great-flood/) as a military event of the Age of Gemini
@@ -100,7 +100,7 @@ articulation in *The Book Which Tells the Truth*.
 
 **The flood as a Council-ordered strike.** On the canon's reading the cataclysm
 was not weather but a deliberate military action: the home-world
-[Council of the Eternals](../council-of-eternals/) resolved to destroy the
+[Council of the Eternals](../council-of-the-eternals/) resolved to destroy the
 antediluvian [Eden](../eden/) civilisation that had grown up on Earth under the
 continuing tutelage of the exiled creators. The Genesis 7:11 imagery — the
 "fountains of the great deep" broken up, the "windows of heaven" opened — is read
@@ -210,7 +210,7 @@ place of — that scholarship.
 - [Theomachy](../theomachy/)
 - [Babel](../babel/)
 - [Yahweh](../yahweh/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Genesis](../genesis/)
 - [Doubled Signature](../doubled-signature/)
 - [Age of Gemini](../timeline/age-of-gemini/)

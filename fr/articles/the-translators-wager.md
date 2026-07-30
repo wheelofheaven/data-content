@@ -730,7 +730,7 @@ hurlant, assez subalterne pour que l'attribution témoigne contre son
 importance — *« Yahvé n'est pas, et ne peut être considéré comme, le Dieu
 de l'humanité, mais un gouverneur tribal qui s'occupait exclusivement du
 clan qui lui était confié. »* Le canon le promeut : Yahvé est le président
-du {% wiki(slug="council-of-eternals") %}Conseil des Éternels{% end %},
+du {% wiki(slug="council-of-the-eternals") %}Conseil des Éternels{% end %},
 âgé de vingt-cinq mille ans, l'être qui *« dirigea la création de la vie
 sur la Terre »*
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}LQDV 7,56{% end %}).

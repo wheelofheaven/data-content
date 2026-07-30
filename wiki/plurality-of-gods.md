@@ -132,7 +132,7 @@ no longer identify. On this reading the corrective is not the rejection of
 [monotheism](../monotheism/) so much as the recovery of its referent.
 
 The plurality is political as well as numerical. The Elohim govern themselves
-through the [Council of Eternals](../council-of-eternals/), and the Council
+through the [Council of Eternals](../council-of-the-eternals/), and the Council
 contains standing factions that disagreed sharply over the human creation.
 [Yahweh](../yahweh/) presides as its moderate president. [Satan](../satan/) led
 the abolitionist faction, which held the making of beings in the creators' own
@@ -252,7 +252,7 @@ preserves the differences rather than absorbing them.
 - [Hebrew Bible](../hebrew-bible/)
 - [Hebrew](../hebrew/)
 - [Genesis](../genesis/)
-- [Council of Eternals](../council-of-eternals/)
+- [Council of Eternals](../council-of-the-eternals/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)
 - [Cosmic Pluralism](../cosmic-pluralism/)

@@ -372,7 +372,7 @@ Melchizedek standing where the text had Yahweh) falls at the end of the
 tenth jubilee, when "atonement shall be made for all the sons of light."
 The corpus's readers will need no help with this. A plurality of
 elohim; named individuals within it holding offices and jurisdictions; a
-{% wiki(slug="council-of-eternals") %}council{% end %} that judges; a
+{% wiki(slug="council-of-the-eternals") %}council{% end %} that judges; a
 liberation that arrives not when men deserve it but when the count
 completes — the scroll is the divine-council world of the framework,
 written by Hebrew hands a century before Christianity, and it was lying
@@ -514,7 +514,7 @@ by a boy with a stone — right on time.
   [Jubilees](/library/book-of-jubilees/) translations, for the two
   lost books the caves restored to the tradition's core.
 - The {% wiki(slug="plurality-of-gods") %}plurality of gods{% end %}
-  and {% wiki(slug="council-of-eternals") %}Council of the
+  and {% wiki(slug="council-of-the-eternals") %}Council of the
   Eternals{% end %} entries, for the framework's reading of the
   divine-council texts that 4QDeutj and 11QMelchizedek carry in
   ancient form.

@@ -707,7 +707,7 @@ Herstellungserzählung.
 **Der Rang — und die Natur — Jahwes.** Leser der Geschwister-Explainer kennen
 das Muster: Wallis heftet den Drachen an Jahwe, Biglino stuft ihn zu einem
 kleinen Territorialgouverneur herab, der Kanon setzt ihn als Präsidenten des
-{% wiki(slug="council-of-eternals") %}Rats der Ewigen{% end %}
+{% wiki(slug="council-of-the-eternals") %}Rats der Ewigen{% end %}
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}DBWS 7:56{% end %}).
 Sendy tut etwas, das keiner der drei tut: Er entfernt
 {% wiki(slug="yahweh") %}Jahwe{% end %} überhaupt aus dem Verzeichnis der

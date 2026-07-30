@@ -458,7 +458,7 @@ Kucedra；格魯吉亞的 Kholkhis；埃及的 Akhekh——一種反覆出現的
 >
 > ——《伊甸入侵》，第 9 章
 
-典籍的{% wiki(slug="council-of-eternals") %}永恆者議會{% end %}承載著同
+典籍的{% wiki(slug="council-of-the-eternals") %}永恆者議會{% end %}承載著同
 樣的內部政治，並帶有具名的立場：{% wiki(slug="satan") %}撒但{% end %}派
 系，「反對在一顆像地球這樣近的行星上創造其他智慧存有」
 （{% libref(book="the-book-which-tells-the-truth", chapter=3, verse=251) %}《揭示真相之書》3:251{% end %}）；

@@ -340,7 +340,7 @@ Gastgeber des Mahls ist die Gestalt, die die Hebräische Bibel mit dem
 Tetragramm benennt:
 {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=50) %}„Mein Name ist Jahwe, und ich bin der Präsident des Rates der Ewigen“{% end %}
 — der {% wiki(slug="yahweh") %}Jahwe{% end %} und der
-{% wiki(slug="council-of-eternals") %}Rat der Ewigen{% end %}, die dieser
+{% wiki(slug="council-of-the-eternals") %}Rat der Ewigen{% end %}, die dieser
 Korpus über ein Dutzend Einträge hinweg behandelt.
 
 Dasselbe Buch benennt die Kategorie der Bewegung selbst, in der Passage, aus
@@ -432,7 +432,7 @@ Explainer](/articles/the-infinite-in-both-directions/) in voller Länge
 behandelt wird — und keine Seele, weil die Person Information ist: ein
 genetischer Plan plus ein Leben lang Erinnerung, die beide, nach der
 Darstellung des Kanons, speicherbar sind und gespeichert werden. Die Elohim
-führen Akten; ein {% wiki(slug="council-of-eternals") %}Rat{% end %} hält über
+führen Akten; ein {% wiki(slug="council-of-the-eternals") %}Rat{% end %} hält über
 sie ein Jüngstes Gericht, das den Namen verdient; die Würdigen werden aus
 ihrem Code auf einem reservierten Planeten wiedererschaffen. Das ewige Leben
 ist eine Dienstleistung, mit einer Aufnahmeordnung. Die Klon-Schrift von 2001

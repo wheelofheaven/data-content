@@ -597,7 +597,7 @@ aux dieux」*——神々に自らを等しくする——時代であり、変�
 
 **ヤハウェの序列——そしてその本性。** 姉妹解説の読者はその型を知っている。
 ウォリスは竜をヤハウェになすりつけ、ビリーノは彼を一介の領土的な総督に降格させ、
-カノンは彼を{% wiki(slug="council-of-eternals") %}永遠者の評議会{% end %}の
+カノンは彼を{% wiki(slug="council-of-the-eternals") %}永遠者の評議会{% end %}の
 大統領に据える
 （{% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}真実を告げる書7:56{% end %}）。
 サンディは、三者のいずれもしないことをする。彼は{% wiki(slug="yahweh") %}ヤハウェ{% end %}

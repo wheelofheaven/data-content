@@ -718,7 +718,7 @@ zugewiesen ist, so nachrangig, dass die Zuteilung gegen seine Bedeutung
 spricht — *„Yahweh ist nicht und kann nicht betrachtet werden als der Gott der
 Menschheit, sondern als ein Stammesstatthalter, der sich ausschließlich mit dem
 ihm anvertrauten Clan befasste."* Der Kanon stuft ihn herauf: Yahweh ist der
-Präsident des {% wiki(slug="council-of-eternals") %}Rates der Ewigen{% end %},
+Präsident des {% wiki(slug="council-of-the-eternals") %}Rates der Ewigen{% end %},
 fünfundzwanzigtausend Jahre alt, das Wesen, das *„die Erschaffung des Lebens
 auf der Erde leitete"*
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}TBWTT 7,56{% end %}).

@@ -375,7 +375,7 @@ Melchisédek se tenant là où le texte avait Yahvé) tombe à la fin du dixièm
 jubilé, quand « l'expiation sera faite pour tous les fils de la lumière ».
 Les lecteurs du corpus n'auront besoin d'aucune aide sur ce point. Une
 pluralité d'elohim ; des individus nommés en son sein tenant des offices et
-des juridictions ; un {% wiki(slug="council-of-eternals") %}conseil{% end %}
+des juridictions ; un {% wiki(slug="council-of-the-eternals") %}conseil{% end %}
 qui juge ; une libération qui arrive non quand les hommes la méritent mais
 quand le décompte s'achève — le rouleau est le monde du conseil divin du
 cadre, écrit par des mains hébraïques un siècle avant le christianisme, et il
@@ -520,7 +520,7 @@ garçon armé d'une pierre — juste à l'heure.
   [Jubilés](/library/book-of-jubilees/) du corpus, pour les deux livres
   perdus que les grottes restituèrent au cœur de la tradition.
 - Les entrées {% wiki(slug="plurality-of-gods") %}pluralité des
-  dieux{% end %} et {% wiki(slug="council-of-eternals") %}Conseil des
+  dieux{% end %} et {% wiki(slug="council-of-the-eternals") %}Conseil des
   Éternels{% end %}, pour la lecture, du côté du cadre, des textes du conseil
   divin que 4QDeutj et 11QMelchizedek portent sous forme ancienne.
 - [Les premières mosquées étaient orientées vers Pétra, non vers La

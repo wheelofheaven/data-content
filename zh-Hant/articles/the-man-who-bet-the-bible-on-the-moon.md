@@ -608,7 +608,7 @@ immatériel qu'un principe mathématique」*——像一個數學原理一樣
 
 **耶和華的位階——以及本質。**讀過姊妹解說的讀者知道那個套
 路：華理士把那條龍釘在耶和華身上，比格利諾把他貶為一個次要
-的領地總督，正典則讓他就座為{% wiki(slug="council-of-eternals") %}永恆者議會{% end %}的主席
+的領地總督，正典則讓他就座為{% wiki(slug="council-of-the-eternals") %}永恆者議會{% end %}的主席
 （{% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}TBWTT 7:56{% end %}）。
 桑迪做了那三人都未做的事：他把{% wiki(slug="yahweh") %}耶和
 華{% end %}整個地從位格名冊上移除。他的 Iahvé 是那個不可發音

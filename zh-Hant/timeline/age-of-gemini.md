@@ -27,7 +27,7 @@ references = [
     { title = "創世記", author = "佚名（希伯來聖經）；Wheel of Heaven 根據附有元音標記的馬所拉希伯來文本翻譯", date = "公元前6–5世紀", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "阿特拉哈西斯史詩 (Atrahasis)", author = "佚名（古巴比倫阿卡德語）", date = "約公元前17世紀", medium = "religious-text", path = "/library/atrahasis/", description = "古巴比倫的洪水敘事；與《創世記》6–9章最接近的前聖經對應文本。" },
     { title = "埃努瑪·埃利什 (Enuma Elish)", author = "佚名（巴比倫）", date = "約公元前12世紀", medium = "religious-text", path = "/library/enuma-elish/" },
-    { title = "吉爾伽美什史詩（第十一塊泥板）", author = "佚名（標準巴比倫語）", date = "約公元前12世紀", medium = "religious-text", path = "/library/gilgamesh/", description = "烏特納庇什提姆的洪水敘事，本章與《阿特拉哈西斯》及《埃利都創世記》並列使用。" },
+    { title = "吉爾伽美什史詩（第十一塊泥板）", author = "佚名（標準巴比倫語）", date = "約公元前12世紀", medium = "religious-text", path = "/library/epic-of-gilgamesh/", description = "烏特納庇什提姆的洪水敘事，本章與《阿特拉哈西斯》及《埃利都創世記》並列使用。" },
     { title = "埃利都創世記 (Eridu Genesis)", author = "佚名（蘇美爾）", date = "約公元前17世紀", medium = "religious-text", path = "/library/eridu-genesis/", description = "蘇美爾人吉烏蘇德拉版本的洪水。" },
     { title = "以諾一書（守望者之書 + 天文書）", author = "佚名（第二聖殿時期猶太教）", date = "約公元前3世紀", medium = "religious-text", path = "/library/book-of-enoch/" },
     { title = "巴比倫尼亞卡 (Babyloniaca)", author = "貝洛索斯 (Berossus, Bel-re'ushu)；經由優西比烏與辛凱盧斯保存的希臘文殘篇", date = "約公元前290年", medium = "religious-text", description = "希臘化時期對美索不達米亞傳統的概述，保存了阿達帕／奧安內斯（apkallu）的故事。" },

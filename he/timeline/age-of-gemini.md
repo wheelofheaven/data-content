@@ -27,7 +27,7 @@ references = [
     { title = "בראשית", author = "אנונימי (תנ״ך); תרגום WoH מן העברית המסורה המנוקדת", date = "המאות ה־6–5 לפנה״ס לערך", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "אטרחסיס", author = "אנונימי (אכדית בבלית עתיקה)", date = "המאה ה־17 לפנה״ס לערך", medium = "religious-text", path = "/library/atrahasis/", description = "נרטיב המבול הבבלי העתיק; ההקבלה הטרום־מקראית הקרובה ביותר לבראשית 6–9." },
     { title = "אנומה אליש", author = "אנונימי (בבלי)", date = "המאה ה־12 לפנה״ס לערך", medium = "religious-text", path = "/library/enuma-elish/" },
-    { title = "אפוס גילגמש (לוח XI)", author = "אנונימי (בבלית סטנדרטית)", date = "המאה ה־12 לפנה״ס לערך", medium = "religious-text", path = "/library/gilgamesh/", description = "נרטיב המבול של אותנפישתים, בו משתמש הפרק לצד אטרחסיס ובראשית של אריידו." },
+    { title = "אפוס גילגמש (לוח XI)", author = "אנונימי (בבלית סטנדרטית)", date = "המאה ה־12 לפנה״ס לערך", medium = "religious-text", path = "/library/epic-of-gilgamesh/", description = "נרטיב המבול של אותנפישתים, בו משתמש הפרק לצד אטרחסיס ובראשית של אריידו." },
     { title = "בראשית של אריידו", author = "אנונימי (שומרית)", date = "המאה ה־17 לפנה״ס לערך", medium = "religious-text", path = "/library/eridu-genesis/", description = "הגרסה השומרית של זיוסודרא למבול." },
     { title = "ספר חנוך הראשון (ספר הצופים + הספר האסטרונומי)", author = "אנונימי (יהדות בית שני)", date = "המאה ה־3 לפנה״ס לערך", medium = "religious-text", path = "/library/book-of-enoch/" },
     { title = "Babyloniaca", author = "ברוסוס (בל־רעושו); שמור בשברים יווניים דרך אוסביוס וסינקלוס", date = "290 לפנה״ס לערך", medium = "religious-text", description = "התקציר ההלניסטי של המסורת המסופוטמית ששימר את סיפור האפקאלו אדפה / אואנס." },

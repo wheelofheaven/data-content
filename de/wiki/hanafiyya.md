@@ -80,7 +80,7 @@ Drei Merkmale machen die Entsprechung präzise:
 
 ### Götzendienst, nicht Polytheismus — wovon sich die Hanafiyya abwandte
 
-Die übliche Deutung übersetzt die Hinwendung des *ḥanīf* als Monotheismus, der den Polytheismus ablöst: viele Götter, die einem einzigen Gott weichen. Der Wheel of Heaven-Rahmen liest die Achse anders, denn er teilt den metaphysischen Gegensatz nicht, den diese Deutung voraussetzt. Die Elohim des Korpus sind eine **Pluralität** — ein [Rat](../council-of-eternals/) endlicher, verkörperter Schöpfer, das grammatikalisch plurale *Elohim*, das der hebräische Text bewahrt (siehe [Pluralität der Götter](../plurality-of-gods/)). In diesem Sinne steht der Korpus *näher* an einem Pantheon realer, verortbarer Wesen als an dem abstrakten, allgegenwärtigen, allwissenden, allmächtigen einzigen Gott der späteren Theologie — einem Gott, den der raëlianische Kanon als die **Fehlübersetzung** benennt, die „die Schöpfer in einen einzigen unbegreiflichen Gott verwandelt[e]“ ([*The Book Which Tells the Truth*](../../library/the-book-which-tells-the-truth/)). Der Rahmen kann die Hanafiyya daher nicht als einen Sieg der metaphysischen Einheit über die Pluralität lesen, denn er hält die Wahrheit nicht für metaphysisch eine.
+Die übliche Deutung übersetzt die Hinwendung des *ḥanīf* als Monotheismus, der den Polytheismus ablöst: viele Götter, die einem einzigen Gott weichen. Der Wheel of Heaven-Rahmen liest die Achse anders, denn er teilt den metaphysischen Gegensatz nicht, den diese Deutung voraussetzt. Die Elohim des Korpus sind eine **Pluralität** — ein [Rat](../council-of-the-eternals/) endlicher, verkörperter Schöpfer, das grammatikalisch plurale *Elohim*, das der hebräische Text bewahrt (siehe [Pluralität der Götter](../plurality-of-gods/)). In diesem Sinne steht der Korpus *näher* an einem Pantheon realer, verortbarer Wesen als an dem abstrakten, allgegenwärtigen, allwissenden, allmächtigen einzigen Gott der späteren Theologie — einem Gott, den der raëlianische Kanon als die **Fehlübersetzung** benennt, die „die Schöpfer in einen einzigen unbegreiflichen Gott verwandelt[e]“ ([*The Book Which Tells the Truth*](../../library/the-book-which-tells-the-truth/)). Der Rahmen kann die Hanafiyya daher nicht als einen Sieg der metaphysischen Einheit über die Pluralität lesen, denn er hält die Wahrheit nicht für metaphysisch eine.
 
 Was der Rahmen stattdessen liest, ist ein Gegensatz zwischen **Götzendienst** und dem **Kennen der Schöpfer**. Der Kanon sagt es unmittelbar und stellt es in denselben Zusammenbruch nach Sodom, der [Abraham](../abraham/) als die Wiederherstellungsfigur rahmt:
 
@@ -103,7 +103,7 @@ Der `claim_type` des Eintrags insgesamt ist `inferred`: Das *ḥanīf*-Konzept u
 - [Abrahamitischer Bund](../abrahamic-covenant/)
 - [Pluralität der Götter](../plurality-of-gods/)
 - [Elohim](../elohim/)
-- [Rat der Ewigen](../council-of-eternals/)
+- [Rat der Ewigen](../council-of-the-eternals/)
 - [Religion](../religion/)
 - [Zeitalter der Fische](../timeline/age-of-pisces/)
 - [Liste der Propheten und Religionen](../list-of-prophets-and-religions/)

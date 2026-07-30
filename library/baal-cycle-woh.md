@@ -28,7 +28,7 @@ and the central comparative-philology document for understanding the
 Northwest-Semitic background of the Hebrew Bible. The six-tablet
 narrative covers Baʿlu's conflicts with Yammu (Sea) and Môtu (Death)
 and his ascension to kingship over the gods. Cross-corpus parallels
-include: Yahweh-vs-Yam ({% wiki(slug="psalm-74") %}Ps 74:13–14{% end %},
+include: Yahweh-vs-Yam ({% libref(book="psalms", chapter=74, verse=13) %}Ps 74:13–14{% end %},
 Ps 89:9–10, Isa 27:1); El/Elohim and the Northwest-Semitic divine
 council; *bn ʾilm* = *bnei elohim* (Gen 6:2, Job 1:6, Deut 32:8
 LXX/4QDeut^j); ʾAṯirat = Asherah; Lôtanu = Leviathan (the cleanest
@@ -57,7 +57,7 @@ Kothar's seven-day construction of the cosmic palace on Mount Ṣapūnu
 (Jebel al-Aqra, the 1759m peak ~40 km north of Ugarit); the famous
 window-debate (Baʿlu initially refuses a window "lest Yamm see," then
 reverses himself); Baʿlu's voice from the palace (*ytn qlh b ʿrpt*,
-*qdš tr ʾarṣ* — direct cross-corpus to {% wiki(slug="psalm-29") %}Ps
+*qdš tr ʾarṣ* — direct cross-corpus to {% libref(book="psalms", chapter=29, verse=1) %}Ps
 29{% end %}'s seven-fold *qol YHWH* thunder-theophany); the proleptic
 challenge to Môt.
 

@@ -50,7 +50,7 @@ aboard it. On that reading the covenant is the founding charter of
 [the Alliance](../the-alliance/), the durable partnership between the creators
 who sided with their creation and the human lineage they preserved, and it
 stands deliberately apart from the home-world
-[Council of the Eternals](../council-of-eternals/) that had ordered the
+[Council of the Eternals](../council-of-the-eternals/) that had ordered the
 destruction of both. The principal articulation is Claude Vorilhon's *The Book
 Which Tells the Truth* (1974).
 
@@ -267,7 +267,7 @@ framework's reading is offered alongside it rather than in its place.
 - [Great Flood](../great-flood/)
 - [Lucifer](../lucifer/)
 - [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Yahweh](../yahweh/)
 - [Satan](../satan/)
 - [Eden](../eden/)

@@ -702,7 +702,7 @@ narrative, theirs a manufacture narrative.
 **The rank — and the nature — of Yahweh.** Readers of the sibling
 Explainers know the pattern: Wallis pins the dragon on Yahweh, Biglino
 demotes him to a minor territorial governor, the canon seats him as
-president of the {% wiki(slug="council-of-eternals") %}Council of the
+president of the {% wiki(slug="council-of-the-eternals") %}Council of the
 Eternals{% end %}
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}TBWTT 7:56{% end %}).
 Sendy does something none of the three does: he removes

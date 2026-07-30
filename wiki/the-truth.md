@@ -145,7 +145,7 @@ is a record of contact with a physical, mortal, technologically advanced people 
 the Elohim — and that its "God" is that people, remembered as a deity once the
 memory of who they were had faded. Yahweh, who speaks with Vorilhon, is not that
 abstract God but a specific officer: the president of the
-[Council of the Eternals](../council-of-eternals/) on the Elohim home world.
+[Council of the Eternals](../council-of-the-eternals/) on the Elohim home world.
 
 The decoded Eden turns on a political split among the creators, and the framework
 is careful to keep that split distinct from the single "Devil" of later

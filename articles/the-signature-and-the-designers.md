@@ -720,7 +720,7 @@ the earth!» (Genesis, I-26)
 {% end %}
 
 — it does not hear a solitary God soliloquizing in the royal plural. It hears a
-{% wiki(slug="council-of-eternals") %}team{% end %} of scientists at a bench,
+{% wiki(slug="council-of-the-eternals") %}team{% end %} of scientists at a bench,
 comparing results — "the most skilled among us wanted to create a man like
 ourselves, artificially"
 ({% libref(book="the-book-which-tells-the-truth", chapter=2, verse=25) %}TBWTT 2:25{% end %}) —

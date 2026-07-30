@@ -507,7 +507,7 @@ Es besteht die Versuchung, die Hinwendung des *ḥanīf* als die vertraute Gesch
 zu lesen, in der der Monotheismus den Polytheismus ablöst — viele Götter, die in
 einen zusammenfallen. Der Rahmen von Wheel of Heaven lehnt diese Lesart ab, und der
 Grund führt mitten ins Zentrum des Korpus. Die {% wiki(slug="elohim") %}Elohim{% end %}
-sind eine Pluralität: ein [Rat](/wiki/council-of-eternals/) endlicher,
+sind eine Pluralität: ein [Rat](/wiki/council-of-the-eternals/) endlicher,
 verkörperter Schöpfer, das grammatisch plurale *Elohim*, das der hebräische Text
 beibehält und das das Korpus durch die {% wiki(slug="plurality-of-gods") %}gesamte
 Überlieferung{% end %} liest. Das Korpus steht, wenn überhaupt, einem Pantheon

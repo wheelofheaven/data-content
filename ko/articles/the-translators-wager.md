@@ -617,7 +617,7 @@ bicicletta? Ora pedalerete!"* — 자전거를 원했느냐? 이제 페달을 �
 반하는 증거가 될 만큼 하급인 자 — *"야훼는 인류의 하느님이 아니며, 그렇게
 여겨질 수도 없고, 자기에게 맡겨진 씨족만을 오로지 돌본 부족의 통치자다."*
 정경은 그를 승격한다. 야훼는
-{% wiki(slug="council-of-eternals") %}영원자 평의회{% end %}의 의장이며, 이만
+{% wiki(slug="council-of-the-eternals") %}영원자 평의회{% end %}의 의장이며, 이만
 오천 살이고, *"지구상 생명의 창조를 지휘한"* 존재다
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}TBWTT 7:56{% end %}).
 세 독해를 나란히 놓으면 그 유형이 시사적이다. 월리스는 그 용을 야훼에게

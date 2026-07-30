@@ -393,7 +393,7 @@ entnommen, mit Melchisedek dort, wo der Text Yahweh hatte) auf das Ende
 des zehnten Jubiläums fällt, wenn „Sühne für alle Söhne des Lichts
 geschaffen werden soll". Die Leser des Korpus werden hierbei keine Hilfe
 brauchen. Eine Vielheit von elohim; namentliche Einzelne darin, die Ämter
-und Zuständigkeiten innehaben; ein {% wiki(slug="council-of-eternals") %}Rat{% end %},
+und Zuständigkeiten innehaben; ein {% wiki(slug="council-of-the-eternals") %}Rat{% end %},
 der richtet; eine Befreiung, die nicht ankommt, wenn die Menschen sie
 verdienen, sondern wenn die Zählung sich vollendet — die Rolle ist die
 Welt des göttlichen Rats des Rahmens, von hebräischen Händen ein
@@ -552,7 +552,7 @@ von einem Jungen mit einem Stein — genau zur rechten Zeit.
   verlorenen Bücher, die die Höhlen dem Kern der Tradition
   wiedergaben.
 - Die Einträge {% wiki(slug="plurality-of-gods") %}Götter-Vielheit{% end %}
-  und {% wiki(slug="council-of-eternals") %}Rat der Ewigen{% end %}, für
+  und {% wiki(slug="council-of-the-eternals") %}Rat der Ewigen{% end %}, für
   die Lesart des Rahmens von den Texten zum göttlichen Rat, die 4QDeut(j)
   und 11QMelchizedek in antiker Gestalt tragen.
 - [Die ersten Moscheen waren nach Petra ausgerichtet, nicht nach

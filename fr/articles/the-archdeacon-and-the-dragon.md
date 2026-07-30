@@ -593,7 +593,7 @@ lisent la politique qui s'y joue :
 >
 > — *The Invasion of Eden*, chap. 9
 
-Le {% wiki(slug="council-of-eternals") %}Conseil des Éternels{% end %} du
+Le {% wiki(slug="council-of-the-eternals") %}Conseil des Éternels{% end %} du
 canon porte la même politique interne, avec des positions nommées : la
 faction {% wiki(slug="satan") %}Satan{% end %}, « opposée à la création
 d'autres êtres intelligents sur une planète aussi proche que la Terre »

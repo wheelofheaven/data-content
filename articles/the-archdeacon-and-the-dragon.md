@@ -564,7 +564,7 @@ politics inside it:
 >
 > — *The Invasion of Eden*, ch. 9
 
-The canon's {% wiki(slug="council-of-eternals") %}Council of the
+The canon's {% wiki(slug="council-of-the-eternals") %}Council of the
 Eternals{% end %} carries the same internal politics, with named
 positions: the {% wiki(slug="satan") %}Satan{% end %} faction, "opposed to
 the creation of other intelligent beings on a planet as close as Earth"

@@ -652,7 +652,7 @@ aussi immatériel qu'un principe mathématique"* — 수학적 원리만큼이�
 
 **야훼의 지위 — 그리고 본성.** 자매 해설들의 독자는 그 유형을 안다.
 월리스는 용(龍)을 야훼에게 씌우고, 비글리노는 그를 사소한 영토
-총독으로 강등하며, 정경은 그를 {% wiki(slug="council-of-eternals") %}영원자
+총독으로 강등하며, 정경은 그를 {% wiki(slug="council-of-the-eternals") %}영원자
 평의회{% end %}의 대통령으로 앉힌다
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}TBWTT 7:56{% end %}).
 상디는 셋 가운데 누구도 하지 않는 일을 한다. 그는

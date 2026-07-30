@@ -301,7 +301,7 @@ Ulrich），這批語料的首席聖經編者，認可詹姆斯·范德坎（Jam
 基洗德站在了文本原本安置耶和華之處）落在第十個禧年的末尾，其時「必為一切
 光明之子成就贖罪」。語料集的讀者對此無須任何幫助。一個複數的耶洛因；其中
 持有職分與轄權的具名個體；一個施行審判的
-{% wiki(slug="council-of-eternals") %}議會{% end %}；一場並非在人配得之時、
+{% wiki(slug="council-of-the-eternals") %}議會{% end %}；一場並非在人配得之時、
 而是在那計數完滿之時方才到來的解放——這卷書卷就是那框架的神聖議會世界，由
 希伯來人之手寫於基督教之前一個世紀，而它自始至終就躺在一只陶罐裡。圍繞著
 它的，是《安息日獻祭之歌》——那部十份抄本的天使禮儀，其中那些敬拜的天軍
@@ -407,7 +407,7 @@ Ulrich），這批語料的首席聖經編者，認可詹姆斯·范德坎（Jam
   [《禧年書》](/library/book-of-jubilees/)譯本，可資參看那些洞穴為傳統的核
   心所復原的兩部失落之書。
 - {% wiki(slug="plurality-of-gods") %}眾神的複數性{% end %}與
-  {% wiki(slug="council-of-eternals") %}永恆者議會{% end %}條目，可資參看
+  {% wiki(slug="council-of-the-eternals") %}永恆者議會{% end %}條目，可資參看
   4QDeutj 與 11QMelchizedek 以古代形式所承載的那些神聖議會文本的框架解讀。
 - [《最早的清真寺朝向佩特拉，而非麥加》](/articles/the-first-mosques-faced-petra-not-mecca/)，
   可資參看同一份沙漠檔案的另一端——死海裂谷在其南岸所保存的那些納巴泰朝

@@ -338,7 +338,7 @@ expansion abrahamique est dans cet agencement spatial. Et l'hôte du repas est
 la figure que la Bible hébraïque désigne par le tétragramme :
 {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=50) %}« Mon nom est Yahvé et je suis le président du conseil des éternels »{% end %}
 — le {% wiki(slug="yahweh") %}Yahvé{% end %} et le
-{% wiki(slug="council-of-eternals") %}Conseil des Éternels{% end %} que ce
+{% wiki(slug="council-of-the-eternals") %}Conseil des Éternels{% end %} que ce
 corpus traite à travers une douzaine d'entrées.
 
 Le même livre nomme la catégorie du mouvement lui-même, dans le passage dont
@@ -428,7 +428,7 @@ propre Explicatif](/articles/the-infinite-in-both-directions/) — et pas d'âme
 parce que la personne est information : un plan génétique plus une vie de
 mémoire, l'un et l'autre étant, selon le récit du canon, stockables, et
 stockés. Les Élohim tiennent des registres ; un
-{% wiki(slug="council-of-eternals") %}conseil{% end %} organise à leur endroit
+{% wiki(slug="council-of-the-eternals") %}conseil{% end %} organise à leur endroit
 un jugement dernier digne de ce nom ; les dignes sont recréés à partir de leur
 code sur une planète réservée. La vie éternelle est un service, avec une
 politique d'admission. Le traité sur le clonage de 2001 rend le mécanisme

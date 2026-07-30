@@ -317,7 +317,7 @@ disposición espacial. Y el anfitrión de la comida es la figura que la Biblia
 hebrea llama por el tetragrámaton:
 {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=50) %}«Mi nombre es Yahvé y soy el presidente del consejo de los eternos»{% end %}
 —el {% wiki(slug="yahweh") %}Yahvé{% end %} y el
-{% wiki(slug="council-of-eternals") %}Consejo de los Eternos{% end %} que este
+{% wiki(slug="council-of-the-eternals") %}Consejo de los Eternos{% end %} que este
 corpus trata a lo largo de una docena de entradas—.
 
 El mismo libro nombra la categoría del movimiento en sí, en el pasaje del que este
@@ -400,7 +400,7 @@ argumentada en ETTMTTP 2:31–34 y tratada en toda su extensión en [su propio
 Explicativo](/articles/the-infinite-in-both-directions/)— y ningún alma, porque la
 persona es información: un plan genético más una vida de memoria, ambos, según el
 relato del canon, almacenables, y almacenados. Los Elohim guardan registros; un
-{% wiki(slug="council-of-eternals") %}consejo{% end %} ejecuta sobre ellos un
+{% wiki(slug="council-of-the-eternals") %}consejo{% end %} ejecuta sobre ellos un
 juicio final digno del nombre; los dignos son recreados a partir de su código en
 un planeta reservado. La vida eterna es un servicio, con una política de
 admisiones. El tratado sobre la clonación de 2001 explicita la mecánica en un

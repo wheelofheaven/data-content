@@ -593,7 +593,7 @@ Politik in seinem Innern:
 >
 > — *The Invasion of Eden*, Kap. 9
 
-Der {% wiki(slug="council-of-eternals") %}Rat der Ewigen{% end %} des Kanons
+Der {% wiki(slug="council-of-the-eternals") %}Rat der Ewigen{% end %} des Kanons
 trägt dieselbe innere Politik, mit benannten Positionen: die
 {% wiki(slug="satan") %}Satan{% end %}-Fraktion, „gegen die Erschaffung
 anderer intelligenter Wesen auf einem Planeten so nahe wie der Erde"

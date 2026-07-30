@@ -738,7 +738,7 @@ repopulate a devastated Earth
 ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=23) %}ETTMTTP 2:23{% end %}).
 Within the canon's own dramatis personae, the wager even has a named
 adversary: the {% wiki(slug="satan") %}Satan{% end %} faction of the
-{% wiki(slug="council-of-eternals") %}Council of the Eternals{% end %},
+{% wiki(slug="council-of-the-eternals") %}Council of the Eternals{% end %},
 which holds that synthetic species are irredeemably violent and regards
 humanity's final test as "the last opportunity for Satan to prove that he
 was right"

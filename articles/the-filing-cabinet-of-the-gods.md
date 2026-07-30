@@ -377,7 +377,7 @@ body — {% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %
 and the project reads the council scenes of Psalm 82, Ugarit, and
 Nippur as the same institution seen through different national
 memories: organized plurality, with rank, decree, dissent, and
-{% wiki(slug="council-of-eternals") %}minutes kept{% end %}.
+{% wiki(slug="council-of-the-eternals") %}minutes kept{% end %}.
 
 **The divided gods.** Inside the council, the traditions remember
 faction. The clearest ancient template is the Mesopotamian pairing of

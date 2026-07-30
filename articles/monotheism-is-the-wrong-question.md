@@ -488,7 +488,7 @@ could be distributed among lesser beings and their objects.
 Within the [Age of Aquarius](/timeline/age-of-aquarius/), the Wheel of Heaven
 canon begins by reversing the later settlement. It accepts the ancient
 plurality and rejects the supernatural category. The Elohim are many, finite,
-embodied makers. Yahweh is a named individual and {% wiki(slug="council-of-eternals") %}institutional president{% end %}, not
+embodied makers. Yahweh is a named individual and {% wiki(slug="council-of-the-eternals") %}institutional president{% end %}, not
 being itself. Gabriel or
 Jibril is read as a messenger involved in prophetic contact, not an immaterial
 species hovering between creation and creator.{{ footnote(id="7") }}

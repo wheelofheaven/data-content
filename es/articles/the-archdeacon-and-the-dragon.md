@@ -583,7 +583,7 @@ política en su interior:
 >
 > — *The Invasion of Eden*, cap. 9
 
-El {% wiki(slug="council-of-eternals") %}Consejo de los Eternos{% end %} del
+El {% wiki(slug="council-of-the-eternals") %}Consejo de los Eternos{% end %} del
 canon lleva la misma política interna, con cargos nombrados: la facción
 {% wiki(slug="satan") %}Satán{% end %}, «opuesta a la creación de otros
 seres inteligentes en un planeta tan cercano como la Tierra»

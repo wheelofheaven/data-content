@@ -259,7 +259,7 @@ footnotes = [
 次亞伯拉罕式擴張的神學，都在那一空間布局之中。而這場餐宴的主人，正是希伯來
 聖經以四字神名相稱的那一位：{% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=50) %}「我的名是耶和華，我是永恆者議會的主席」{% end %}
 ——正是這一文集在十來個條目中處理的那位{% wiki(slug="yahweh") %}耶和華{% end %}
-與{% wiki(slug="council-of-eternals") %}永恆者議會{% end %}。
+與{% wiki(slug="council-of-the-eternals") %}永恆者議會{% end %}。
 
 同一本書為運動本身的範疇命了名，就在本文以之為題的那一段裡：
 
@@ -326,7 +326,7 @@ footnotes = [
 並在[它自己的一篇解說](/articles/the-infinite-in-both-directions/)中被
 詳加處理——也沒有靈魂，因為人即是資訊：一份基因計畫加上一生的記憶，而依
 正典的說法，這兩者都是可儲存的、也已被儲存。耶洛因保存著檔案；一個
-{% wiki(slug="council-of-eternals") %}議會{% end %}對這些檔案運行著一場
+{% wiki(slug="council-of-the-eternals") %}議會{% end %}對這些檔案運行著一場
 名副其實的末日審判；配得的人則從他們的密碼中，在一顆保留的行星上被重造。
 永恆的生命是一項服務，附帶一套准入政策。2001 年的複製人論冊在一套三階段的
 方案中——複製、加速生長、記憶轉移——把其機制講明，並用親歷的證詞加以錨定：

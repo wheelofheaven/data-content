@@ -276,7 +276,7 @@ footnotes = [
 空间布置之中。而这场晚餐的主人，正是希伯来圣经以四字神名称呼的
 那位：{% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=50) %}「我的名是耶和华，我是永恒者议会的主席」{% end %}
 ——本文集在十几个条目里论及的那位{% wiki(slug="yahweh") %}耶和华{% end %}
-与{% wiki(slug="council-of-eternals") %}永恒者议会{% end %}。
+与{% wiki(slug="council-of-the-eternals") %}永恒者议会{% end %}。
 
 同一本书为该运动本身命名了它的类别，就在本文借为标题的那段话里：
 
@@ -346,7 +346,7 @@ Extraterrestrials，1979）中，耶和华揭示了信使的父系：
 被论证，并在[它自己的专文](/articles/the-infinite-in-both-directions/)
 里被详尽处理——而没有灵魂，因为一个人就是信息：一份遗传蓝图，
 加上一生的记忆，按正典的说法，这两者都是可储存的、也已被储存。
-耶洛因保存著档案；一个{% wiki(slug="council-of-eternals") %}议会{% end %}
+耶洛因保存著档案；一个{% wiki(slug="council-of-the-eternals") %}议会{% end %}
 对之运行一场名副其实的末日审判；配得的人从其代码中在一颗保留的
 行星上被再造出来。永生是一项服务，附有一份准入政策。2001 年那本
 克隆论著以一个三阶段的纲领——克隆、加速生长、记忆转移——把这套

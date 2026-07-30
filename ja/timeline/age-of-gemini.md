@@ -27,7 +27,7 @@ references = [
     { title = "創世記", author = "無名(ヘブライ語聖書);ニクード付きマソラ本文からのWoH訳", date = "前6–5世紀頃", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "アトラハシス", author = "無名(古バビロニア・アッカド語)", date = "前17世紀頃", medium = "religious-text", path = "/library/atrahasis/", description = "古バビロニアの洪水物語。聖書創世記6–9章に最も近い前聖書的並行資料。" },
     { title = "エヌマ・エリシュ", author = "無名(バビロニア)", date = "前12世紀頃", medium = "religious-text", path = "/library/enuma-elish/" },
-    { title = "ギルガメシュ叙事詩(第11の書板)", author = "無名(標準バビロニア語)", date = "前12世紀頃", medium = "religious-text", path = "/library/gilgamesh/", description = "ウトナピシュティムの洪水物語。本章ではアトラハシスおよびエリドゥ創世記とともに用いられる。" },
+    { title = "ギルガメシュ叙事詩(第11の書板)", author = "無名(標準バビロニア語)", date = "前12世紀頃", medium = "religious-text", path = "/library/epic-of-gilgamesh/", description = "ウトナピシュティムの洪水物語。本章ではアトラハシスおよびエリドゥ創世記とともに用いられる。" },
     { title = "エリドゥ創世記", author = "無名(シュメール語)", date = "前17世紀頃", medium = "religious-text", path = "/library/eridu-genesis/", description = "洪水のシュメール版ジウスドラ伝承。" },
     { title = "エノク書1(監視者たちの書+天文の書)", author = "無名(第二神殿期ユダヤ教)", date = "前3世紀頃", medium = "religious-text", path = "/library/book-of-enoch/" },
     { title = "バビロニア誌 (Babyloniaca)", author = "ベロッソス(ベル・レウシュ);エウセビオスおよびシュンケロス経由のギリシア語断片で伝承", date = "前290年頃", medium = "religious-text", description = "アダパ/オアンネスのアプカル伝承を保存したヘレニズム期のメソポタミア伝承要約。" },

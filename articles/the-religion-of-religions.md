@@ -318,7 +318,7 @@ within one claimed lineage. The host of the meal is the figure the Hebrew
 Bible calls
 by the tetragrammaton: {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=50) %}"My name is Yahweh and I am the president of the council of the eternals"{% end %}
 — the {% wiki(slug="yahweh") %}Yahweh{% end %} and
-{% wiki(slug="council-of-eternals") %}Council of the Eternals{% end %}
+{% wiki(slug="council-of-the-eternals") %}Council of the Eternals{% end %}
 discussed throughout this corpus.
 
 The same book names the category of the movement itself, in the passage
@@ -406,7 +406,7 @@ Explainer](/articles/the-infinite-in-both-directions/) — and no soul,
 because the person is information: a genetic plan plus a lifetime of
 memory, both of which are, on the canon's account, stored.
 The Elohim keep records; a
-{% wiki(slug="council-of-eternals") %}council{% end %} conducts a final
+{% wiki(slug="council-of-the-eternals") %}council{% end %} conducts a final
 judgment; those judged worthy are recreated from
 their code on a reserved planet. Access to eternal life therefore depends
 on judgment rather than an immortal soul. The 2001 cloning tract makes the

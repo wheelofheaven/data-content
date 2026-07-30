@@ -27,7 +27,7 @@ references = [
     { title = "创世记", author = "佚名(希伯来圣经);WoH 据点化马所拉希伯来文翻译", date = "约公元前 6–5 世纪", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "阿特拉哈西斯", author = "佚名(古巴比伦阿卡德语)", date = "约公元前 17 世纪", medium = "religious-text", path = "/library/atrahasis/", description = "古巴比伦的洪水叙事;与《创世记》6–9 章最接近的圣经前期对照文本。" },
     { title = "埃努玛·埃利什", author = "佚名(巴比伦)", date = "约公元前 12 世纪", medium = "religious-text", path = "/library/enuma-elish/" },
-    { title = "吉尔伽美什史诗(第十一块泥板)", author = "佚名(标准巴比伦语)", date = "约公元前 12 世纪", medium = "religious-text", path = "/library/gilgamesh/", description = "乌特纳皮什提姆的洪水叙事,本章与《阿特拉哈西斯》及《埃利都创世记》并用。" },
+    { title = "吉尔伽美什史诗(第十一块泥板)", author = "佚名(标准巴比伦语)", date = "约公元前 12 世纪", medium = "religious-text", path = "/library/epic-of-gilgamesh/", description = "乌特纳皮什提姆的洪水叙事,本章与《阿特拉哈西斯》及《埃利都创世记》并用。" },
     { title = "埃利都创世记", author = "佚名(苏美尔)", date = "约公元前 17 世纪", medium = "religious-text", path = "/library/eridu-genesis/", description = "苏美尔的吉乌苏德拉版本洪水叙事。" },
     { title = "以诺一书(《守望者之书》+《天文书》)", author = "佚名(第二圣殿时期犹太教)", date = "约公元前 3 世纪", medium = "religious-text", path = "/library/book-of-enoch/" },
     { title = "Babyloniaca", author = "贝罗索斯(Bel-re'ushu);经由优西比乌与辛塞勒以希腊文残篇保存", date = "约公元前 290 年", medium = "religious-text", description = "保存了阿达帕/奥安内斯 apkallu 故事的希腊化时期美索不达米亚传统摘要。" },

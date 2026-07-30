@@ -241,7 +241,7 @@ megaliths.{{ footnote(id="2") }}
 faction that sided with its own creation: [Lucifer](../lucifer/), the
 [Serpent](../serpent/) of [Eden](../eden/), and those with him. They are to be
 kept distinct from [Satan](../satan/)'s faction, which pressed the home-world
-[Council of the Eternals](../council-of-eternals/) for humanity's abolition
+[Council of the Eternals](../council-of-the-eternals/) for humanity's abolition
 rather than its protection; it was the Serpent's people, not Satan's, who stayed
 near Earth and went on teaching. The cross-cultural memory of serpents, dragons,
 and sea-monsters — and the submerged anomalies the alternative tradition
@@ -395,7 +395,7 @@ the teachers went.
 - [Satan](../satan/)
 - [Eden](../eden/)
 - [Theomachy](../theomachy/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Göbekli Tepe](../gobekli-tepe/)
 - [Great Sphinx](../great-sphinx/)
 - [Archaeoastronomy](../archaeoastronomy/)

@@ -425,7 +425,7 @@ individuals," and Mauro Biglino's tally of some twenty distinct beings in
 the text.
 
 This is, structurally, the
-{% wiki(slug="council-of-eternals") %}Council of the Eternals{% end %} of
+{% wiki(slug="council-of-the-eternals") %}Council of the Eternals{% end %} of
 the Raëlian canon — a governing body of the Elohim, deliberating over the
 human project and presided over by one of their number. The convergence
 is striking given Wallis's independence from the source material. The
@@ -521,7 +521,7 @@ Eden serpent with the Job prosecutor.
 The divergences are equally structural, and honestly held. Wallis
 subordinates Yahweh beneath El Elyon and pins the Bible's dragon-imagery
 on him; the corpus keeps Yahweh a man and president of the
-{% wiki(slug="council-of-eternals") %}Council of the Eternals{% end %}
+{% wiki(slug="council-of-the-eternals") %}Council of the Eternals{% end %}
 (both set out above). Wallis reads Jesus *against* Yahweh; the corpus
 reads Jesus as Yahweh's son and envoy. Wallis retains a Source-God above
 the Powerful Ones; the corpus's ontology has no such being — above the

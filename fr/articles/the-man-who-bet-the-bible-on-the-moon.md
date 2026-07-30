@@ -689,7 +689,7 @@ le leur un récit de manufacture.
 **Le rang — et la nature — de Yahvé.** Les lecteurs des Explicatifs
 frères connaissent le motif : Wallis épingle le dragon sur Yahvé, Biglino
 le rétrograde en gouverneur territorial mineur, le canon l'installe comme
-président du {% wiki(slug="council-of-eternals") %}Conseil des
+président du {% wiki(slug="council-of-the-eternals") %}Conseil des
 Éternels{% end %}
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}LLQDV 7:56{% end %}).
 Sendy fait ce qu'aucun des trois ne fait : il retire

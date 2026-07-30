@@ -392,7 +392,7 @@ décimo jubileo, cuando «se hará expiación por todos los hijos de la
 luz»—. Los lectores del corpus no necesitarán ayuda con esto. Una
 pluralidad de elohim; individuos con nombre dentro de ella que ostentan
 cargos y jurisdicciones; un
-{% wiki(slug="council-of-eternals") %}consejo{% end %} que juzga; una
+{% wiki(slug="council-of-the-eternals") %}consejo{% end %} que juzga; una
 liberación que llega no cuando los hombres la merecen sino cuando la
 cuenta se completa —el rollo es el mundo del consejo divino del marco,
 escrito por manos hebreas un siglo antes del cristianismo, y estuvo
@@ -546,7 +546,7 @@ con una piedra— justo a tiempo.
   [Jubileos](/library/book-of-jubilees/) del corpus, para los dos libros
   perdidos que las cuevas devolvieron al núcleo de la tradición.
 - Las entradas {% wiki(slug="plurality-of-gods") %}pluralidad de
-  dioses{% end %} y {% wiki(slug="council-of-eternals") %}Consejo de los
+  dioses{% end %} y {% wiki(slug="council-of-the-eternals") %}Consejo de los
   Eternos{% end %}, para la lectura de marco de los textos del consejo
   divino que 4QDeutj y 11QMelchizedek portan en forma antigua.
 - [Las primeras mezquitas miraban a Petra, no a La

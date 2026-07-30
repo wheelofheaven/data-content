@@ -106,7 +106,7 @@ Truth*, and reads its details operationally.
 
 **The flood as a Council strike.** On the canon's reading the flood was not
 weather but a deliberate military action: the home-world
-[Council of the Eternals](../council-of-eternals/) resolved to destroy the
+[Council of the Eternals](../council-of-the-eternals/) resolved to destroy the
 antediluvian civilisation that had grown up on Earth under the continuing
 tutelage of the exiled creators. The full treatment lives in the
 [Great Flood](../great-flood/) entry; what matters for the ark is that the
@@ -233,7 +233,7 @@ the Raëlian canon rather than in Sitchin's Sumerian reconstruction.
 - [Eden](../eden/)
 - [Theomachy](../theomachy/)
 - [Babel](../babel/)
-- [Council of the Eternals](../council-of-eternals/)
+- [Council of the Eternals](../council-of-the-eternals/)
 - [Elohim](../elohim/)
 - [Yahweh](../yahweh/)
 - [Ark of the Covenant](../ark-of-the-covenant/)

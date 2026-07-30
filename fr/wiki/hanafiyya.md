@@ -80,7 +80,7 @@ Trois traits rendent l'adéquation précise :
 
 ### Idolâtrie, non polythéisme — ce dont la Hanafiyya s'est détournée
 
-La glose habituelle traduit le détournement du *ḥanīf* comme le monothéisme remplaçant le polythéisme : de nombreux dieux cédant la place à un seul Dieu. Le cadre Wheel of Heaven lit cet axe différemment, car il ne partage pas le contraste métaphysique que cette glose présuppose. Les Élohim du corpus sont une **pluralité** — un [Conseil](../council-of-eternals/) de créateurs finis et incarnés, le pluriel grammatical *Elohim* que le texte hébreu conserve (voir [Pluralité des dieux](../plurality-of-gods/)). En ce sens, le corpus se tient *plus près* d'un panthéon d'êtres réels et localisables que du Dieu unique abstrait, omniprésent, omniscient et omnipotent de la théologie ultérieure — un Dieu que le canon raélien nomme comme l'**erreur de traduction** qui « transform[a] les créateurs en un seul Dieu incompréhensible » ([*Le Livre qui dit la vérité*](../../library/the-book-which-tells-the-truth/)). Le cadre ne peut donc pas lire la Hanafiyya comme une victoire de l'unité métaphysique sur la pluralité, car il ne tient pas que la vérité soit métaphysiquement une.
+La glose habituelle traduit le détournement du *ḥanīf* comme le monothéisme remplaçant le polythéisme : de nombreux dieux cédant la place à un seul Dieu. Le cadre Wheel of Heaven lit cet axe différemment, car il ne partage pas le contraste métaphysique que cette glose présuppose. Les Élohim du corpus sont une **pluralité** — un [Conseil](../council-of-the-eternals/) de créateurs finis et incarnés, le pluriel grammatical *Elohim* que le texte hébreu conserve (voir [Pluralité des dieux](../plurality-of-gods/)). En ce sens, le corpus se tient *plus près* d'un panthéon d'êtres réels et localisables que du Dieu unique abstrait, omniprésent, omniscient et omnipotent de la théologie ultérieure — un Dieu que le canon raélien nomme comme l'**erreur de traduction** qui « transform[a] les créateurs en un seul Dieu incompréhensible » ([*Le Livre qui dit la vérité*](../../library/the-book-which-tells-the-truth/)). Le cadre ne peut donc pas lire la Hanafiyya comme une victoire de l'unité métaphysique sur la pluralité, car il ne tient pas que la vérité soit métaphysiquement une.
 
 Ce que le cadre lit à la place est un contraste entre l'**idolâtrie** et la **connaissance des créateurs**. Le canon l'énonce directement, et le situe dans le même effondrement post-Sodome qui fait de [Abraham](../abraham/) la figure de la récupération :
 
@@ -103,7 +103,7 @@ Le `claim_type` global de l'entrée est `inferred` : le concept de *ḥanīf* et
 - [Alliance abrahamique](../abrahamic-covenant/)
 - [Pluralité des dieux](../plurality-of-gods/)
 - [Élohim](../elohim/)
-- [Conseil des Éternels](../council-of-eternals/)
+- [Conseil des Éternels](../council-of-the-eternals/)
 - [Religion](../religion/)
 - [Ère des Poissons](../timeline/age-of-pisces/)
 - [Liste des prophètes et des religions](../list-of-prophets-and-religions/)
