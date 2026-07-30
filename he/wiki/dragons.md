@@ -1,7 +1,7 @@
 +++
-title = "Dragons"
+title = "דרקונים"
 slug = "dragons"
-description = "Dragons are a category of large reptilian or serpentine creatures that the Wheel of Heaven framework identifies as deliberately created biological organisms produced by specific factional teams within the Elohim creation program during the Age of Virgo (c. 13,170 to 11,010 BCE), corresponding to the fifth day of the Genesis 1 creation account. The framework identifies these creatures with the dinosaurs of mainstream paleontology, with the Hebrew word תַּנִּין (*tannin*) of Genesis 1:21 — translated as 'whales' or 'great sea creatures' in most major Bible translations but unambiguously meaning 'dragon' or 'sea-monster' in the Hebrew lexicon — providing the principal source-textual anchor. The framework's specific reading registers four converging claims: the Hebrew text of Genesis 1:21 explicitly describes the Elohim's creation of dragons with the strongest creation verb (*bara*); the Raëlian source places dragons and birds together in the same creative age; modern phylogenetics establishes that birds are the surviving theropod lineage of the dinosaur clade; and universal dragon memory across human cultures preserves cultural memory of creatures actually encountered before the Gemini-age flood eliminated most of the larger forms."
+description = "דרקונים הם יצורים מורכבים המתועדים כמעט בכל המיתולוגיות, שהתכנסותם האיקונוגרפית הטרידה זה מכבר את המיתולוגיה ההשוואתית. במסגרת Wheel of Heaven הם נקראים כדחיסה זיכרונית של מכונות או יצורים של האלוהים שנצפו בעידנים שונים."
 template = "wiki-page.html"
 toc = true
 

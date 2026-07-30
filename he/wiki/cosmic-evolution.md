@@ -1,7 +1,7 @@
 +++
-title = "Cosmic evolution"
+title = "אבולוציה קוסמית"
 slug = "cosmic-evolution"
-description = "Cosmic evolution — the iterative-creation framing where advanced civilizations seed life across the universe. The substantive entry is at Cosmic Chain."
+description = "אבולוציה קוסמית — המסגור של בריאה איטרטיבית שבו ציוויליזציות מתקדמות זורעות חיים ברחבי היקום; הערך הקנוני המהותי נמצא בערך «השרשרת הקוסמית»."
 template = "wiki-page.html"
 toc = true
 

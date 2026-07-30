@@ -1,7 +1,7 @@
 +++
-title = "Genesis"
+title = "בראשית"
 slug = "genesis"
-description = "Genesis (Hebrew: בְּרֵאשִׁית, B'reshit) is the first book of the Hebrew Bible, opening with two distinct creation narratives followed by the primeval and patriarchal histories. On the reading developed by Jean Sendy and the Raëlian source material and adopted by the Wheel of Heaven corpus, the seven-day creation account of Genesis 1 is read as a compressed record of seven precessional ages, c. 21,810 BCE through c. 6,690 BCE, during which the Elohim conducted the surveying, terraforming, and biological synthesis of the planet."
+description = "בראשית (בְּרֵאשִׁית) הוא הספר הראשון של התורה והמקרא, ובו סיפורי הבריאה, גן עדן, המבול והאבות. במסגרת Wheel of Heaven הוא טקסט המקור הראשון במעלה שיש לקרוא מחדש דרך עדשת האלוהים."
 template = "wiki-page.html"
 toc = true
 

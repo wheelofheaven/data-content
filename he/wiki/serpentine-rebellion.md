@@ -1,6 +1,6 @@
 +++
-title = "Serpentine Rebellion"
-description = "Earlier name for the faction's defiance of Yahweh — now treated under Theomachy as part of the same cosmic conflict."
+title = "המרד הנחשי"
+description = "המרד הנחשי, בקורפוס Wheel of Heaven, מציין פילוג גדול בתוך ציוויליזציית האלוהים ברגע ראשית האנושות — אירוע שבו סיעה טכנולוגית חולקת התייצבה נגד מדיניות הרוב בנוגע לאב-טיפוס של שושלת אדם."
 template = "wiki-page.html"
 
 [extra]

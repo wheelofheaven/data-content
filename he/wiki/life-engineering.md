@@ -1,7 +1,7 @@
 +++
-title = "Life engineering"
+title = "הנדסת חיים"
 slug = "life-engineering"
-description = "Life engineering is the application of scientific and engineering methods to the deliberate design and construction of living organisms or biological systems with novel functions, characteristics, or capabilities. It encompasses several adjacent disciplines — genetic engineering, synthetic biology, synthetic genomics, and xenobiology — that share the common project of treating living matter as something that can be designed at the molecular level rather than only observed and described. On the Wheel of Heaven framework, the emergence of this capability in present-day humanity is the framework's most concrete predicted convergence with the source material's account of the Elohim's work."
+description = "הנדסת חיים היא, במסגרת Wheel of Heaven, התוכנית הטכנולוגית הכוללת ביולוגיה סינתטית, גנומיקה סינתטית וטרהפורמינג — מכלול היכולות לזריעה מכוונת של חיים בעולמות חדשים, כפי שמיוחס לאלוהים בכדור הארץ."
 template = "wiki-page.html"
 toc = true
 

@@ -1,7 +1,7 @@
 +++
-title = "Great Month"
+title = "החודש הגדול"
 slug = "great-month"
-description = "The Great Month is the unit of time corresponding to one-twelfth of the precessional Great Year — the period required for the vernal equinox point to traverse 30° (one zodiacal sign) along the ecliptic at the precessional rate. On the modern astronomical reckoning, the Great Month is approximately 2,147.6 years (one-twelfth of the precessional cycle of 25,772 years). On the astrological-tradition reckoning, the Great Month is 2,160 years exactly (one-twelfth of the 25,920-year Great Year, with the convenient factorization 2⁶ × 3⁴ × 5). The Great Month is also called the **Astrological Age**, the **Precessional Month**, or the **World Age**, and constitutes the principal chronological unit on which the corpus's broader temporal framework depends. The Wheel of Heaven framework uses the Great Months (Age of Virgo, Age of Leo, Age of Cancer, Age of Gemini, Age of Taurus, Age of Aries, Age of Pisces, Age of Aquarius) as the structured temporal framework within which the principal events of the Elohim project and the broader prophetic record are dated."
+description = "החודש הגדול הוא, במסגרת הנסיגה, פרק הזמן שבו נקודת השוויון האביבי חוצה אחד ממזלות גלגל המזלות — כ-2,160 שנה. קורפוס Wheel of Heaven מזהה אותו עם עידן העולם ורואה בו את יחידת היסוד של הכרונולוגיה הקוסמית שלו."
 template = "wiki-page.html"
 toc = true
 

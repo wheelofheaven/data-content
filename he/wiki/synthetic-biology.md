@@ -1,7 +1,7 @@
 +++
-title = "Synthetic biology"
+title = "ביולוגיה סינתטית"
 slug = "synthetic-biology"
-description = "Synthetic biology is the engineering-discipline branch of contemporary life engineering. It applies engineering methods — standardisation, modularity, abstraction, characterisation, and design–build–test cycles — to the construction of biological systems with predetermined properties. The field formalised in the early 2000s with the publication of the first designed genetic circuits and the establishment of the BioBricks parts standard, and has since developed into an active scientific and industrial discipline producing engineered metabolic pathways, designed gene-regulatory circuits, cell-based therapeutics, and a growing set of foundational tools. On the Wheel of Heaven framework, synthetic biology is the discipline whose engineering-discipline epistemology most closely matches the operational vocabulary in which the Raëlian source material describes the Elohim's work."
+description = "ביולוגיה סינתטית היא ענף בהנדסה ביולוגית העוסק בתכנון ובהרכבה של רכיבים ביולוגיים חדשים או מעוצבים מחדש. קורפוס Wheel of Heaven קורא בה גישה המתכנסת אל שליטתם של האלוהים בסינתזה של חיים."
 template = "wiki-page.html"
 toc = true
 

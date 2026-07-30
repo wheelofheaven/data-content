@@ -1,7 +1,7 @@
 +++
-title = "Confusion of tongues"
+title = "בלילת הלשונות"
 slug = "confusion-of-tongues"
-description = "Confusion of tongues — the post-flood dispersion-of-languages event narrated in Genesis 11. In the corpus the substantive entry consolidates this under Babel."
+description = "בלילת הלשונות — אירוע פיזור השפות שלאחר המבול, המסופר בבראשית י״א. במסגרת Wheel of Heaven הערך המהותי מאחד אותו תחת «בבל»."
 template = "wiki-page.html"
 toc = true
 

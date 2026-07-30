@@ -1,7 +1,7 @@
 +++
-title = "Tower of Babel"
+title = "מגדל בבל"
 slug = "tower-of-babel"
-description = "Tower of Babel (Hebrew Mīgdal Bāḇel) — the post-flood collaborative spacecraft project narrated in Genesis 11. The corpus entry treats it under Babel."
+description = "מגדל בבל (עברית: מִגְדַּל בָּבֶל) — מיזם החללית השיתופי שלאחר המבול המתואר בבראשית י״א; לערך הקנוני על אירוע זה ולפרשנותו האלוהימית במסגרת Wheel of Heaven ראו «בבל»."
 template = "wiki-page.html"
 toc = true
 

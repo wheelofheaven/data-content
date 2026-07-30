@@ -1,7 +1,7 @@
 +++
-title = "Elohimian War"
+title = "מלחמות החלל של האלוהים"
 slug = "elohimian-space-wars"
-description = "Elohimian space wars — the post-flood armed conflict between Yahweh's faction and the exiled creators. The corpus entry consolidates this under Theomachy."
+description = "מלחמות החלל של האלוהים — העימות המזוין שלאחר המבול בין סיעת יהוה לבין הבוראים המוגלים; לערך הקנוני המאוחד של Wheel of Heaven ראו «תיאומכיה»."
 template = "wiki-page.html"
 toc = true
 

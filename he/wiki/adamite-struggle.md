@@ -1,7 +1,7 @@
 +++
-title = "Adamite struggle"
+title = "מאבק שושלת אדם"
 slug = "adamite-struggle"
-description = "Adamite struggle — the Adamite community's journey to autonomy under the Serpent faction's influence. The corpus entry treats this under Serpentine Rebellion."
+description = "מאבק שושלת אדם מציין את מסע בני האדם הראשונים שסונתזו אל עבר עצמאות תחת השפעת סיעת הנחש; התיאור הקנוני מובא בערך «מרד הנחש»."
 template = "wiki-page.html"
 toc = true
 

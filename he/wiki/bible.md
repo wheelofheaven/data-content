@@ -1,7 +1,7 @@
 +++
-title = "Bible"
+title = "הביבליה"
 slug = "bible"
-description = "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the substantive entry lives at Hebrew Bible / Tanakh."
+description = "הביבליה — אסופת כתבי הקודש הקנוניים של היהדות והנצרות; בקורפוס Wheel of Heaven הערך המהותי מצוי תחת «המקרא העברי»."
 template = "wiki-page.html"
 toc = true
 

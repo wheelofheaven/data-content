@@ -1,7 +1,7 @@
 +++
-title = "Leviathan"
+title = "לווייתן"
 slug = "leviathan"
-description = "Leviathan — the Hebrew Bible's primordial sea-serpent. In the corpus, one of several names for the figure the Wheel of Heaven entry treats under Serpent."
+description = "לווייתן — נחש הים הקדמון של המקרא העברי. במסגרת Wheel of Heaven זהו אחד מכמה שמות לדמות שהערך המרכזי דן בה תחת «נחש»."
 template = "wiki-page.html"
 toc = true
 

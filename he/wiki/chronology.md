@@ -1,7 +1,7 @@
 +++
-title = "Chronology"
+title = "כרונולוגיה"
 slug = "chronology"
-description = "Chronology — the corpus's cosmic timeline of twelve precessional ages making up the Great Year. The substantive entry lives at World Age."
+description = "כרונולוגיה — ציר הזמן הקוסמי של הקורפוס, המורכב משנים-עשר עידני המזלות המרכיבים את השנה הגדולה. הערך המהותי מצוי בעידן העולם."
 template = "wiki-page.html"
 toc = true
 
