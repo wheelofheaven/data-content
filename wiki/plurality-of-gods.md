@@ -122,7 +122,7 @@ Yahweh's own articulation:
 > term God, whereas in fact Elohim in Hebrew is the plural of Eloha. In this way,
 > the Church transformed the creators into a single incomprehensible God."
 
-The mechanism was gradual and cumulative. The Septuagint rendered *Elohim* with
+The mechanism was gradual and cumulative. The {% wiki(slug="septuagint") %}Septuagint{% end %} rendered *Elohim* with
 the Greek *Theos*, the Vulgate with the Latin *Deus*, and the vernacular Bibles
 that followed with "God," "Dieu," "Gott," "Dios." Each step was defensible on its
 own terms; together they effaced a company of named, embodied makers into one

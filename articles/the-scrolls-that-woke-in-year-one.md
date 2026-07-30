@@ -196,7 +196,7 @@ That autumn the other half of the find — a second Isaiah scroll, a
 scroll of hymns, and a manual for an apocalyptic war — reached Eleazar
 Sukenik, professor of archaeology at the Hebrew University, through an
 Armenian dealer. Jerusalem was already dividing into armed zones, and
-the first authentication of the Dead Sea Scrolls was performed across
+the first authentication of the {% wiki(slug="dead-sea-scrolls") %}Dead Sea Scrolls{% end %} was performed across
 a military barrier: "Initially Sukenik had to peer at a fragment
 through a barbed wire fence," Collins records. Days later, with a pass
 into the dealer's zone, Sukenik examined the scrolls properly, judged
@@ -390,9 +390,9 @@ which treats the Watchers material of Enoch — the descent of the
 the last centuries BCE, in Judea, in Aramaic, Enoch was scripture.
 
 The text of the canonical books was equally unsettled. The caves
-yielded Hebrew manuscripts agreeing with the Masoretic text, others
+yielded Hebrew manuscripts agreeing with the {% wiki(slug="masoretic-text") %}Masoretic text{% end %}, others
 agreeing with the Samaritan Pentateuch, others agreeing with the Greek
-Septuagint where it diverges — including a short Hebrew Jeremiah
+{% wiki(slug="septuagint") %}Septuagint{% end %} where it diverges — including a short Hebrew Jeremiah
 one-eighth leaner than the received book — side by side in the same
 collection, with no sign the sect cared. Collins spells out the
 consequence: "For Christians brought up to believe in verbal

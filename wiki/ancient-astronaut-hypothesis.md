@@ -104,8 +104,8 @@ But where much of the field proceeds by speculative interpretation of ancient
 evidence, the corpus grounds its reading in the [Raëlian](../raelism/) canon — the
 contact account [Claude Vorilhon (Raël)](../rael/) reported in 1973 — and in the
 earlier, more disciplined work of [Jean Sendy](../jean-sendy/); and it is careful
-to distinguish its own position from the better-known reconstructions of Erich von
-Däniken and Zecharia Sitchin. It should be said plainly at the outset that the
+to distinguish its own position from the better-known reconstructions of {% wiki(slug="erich-von-daniken") %}Erich von
+Däniken{% end %} and {% wiki(slug="zecharia-sitchin") %}Zecharia Sitchin{% end %}. It should be said plainly at the outset that the
 field as a whole is rejected by mainstream archaeology and the academic study of
 religion, which regard it as pseudoscience. The corpus shares many of those
 disciplines' specific objections while parting company on the underlying question

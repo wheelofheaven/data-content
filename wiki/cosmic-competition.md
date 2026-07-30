@@ -383,8 +383,8 @@ Sendy's specific cosmic-competition development is more limited than the framewo
 
 The broader ancient-astronaut interpretive tradition includes various engagements with multiple-worlds questions. The principal cases:
 
-- **Erich von Däniken** in *Chariots of the Gods* (1968) and successor works treats multiple-worlds creation as a possibility within his broader framework, but does not develop the specific cosmic-competition framework
-- **Zecharia Sitchin** in *The 12th Planet* (1976) and successor works develops a substantially different reading focused on the Anunnaki-Nibiru cosmology, with limited specific engagement with the cosmic-competition framework
+- {% wiki(slug="erich-von-daniken") %}**Erich von Däniken**{% end %} in *Chariots of the Gods* (1968) and successor works treats multiple-worlds creation as a possibility within his broader framework, but does not develop the specific cosmic-competition framework
+- {% wiki(slug="zecharia-sitchin") %}**Zecharia Sitchin**{% end %} in *The 12th Planet* (1976) and successor works develops a substantially different reading focused on the Anunnaki-Nibiru cosmology, with limited specific engagement with the cosmic-competition framework
 - **Various contemporary ancient-astronaut writers** (Tellinger, others) develop further engagements with multiple-worlds questions within their distinctive frameworks
 
 The corpus's cosmic-competition framework is structurally distinctive within the broader ancient-astronaut tradition in its specific integration of the parable-of-the-sower exegesis with the Aries-discovery material and the Aquarian-age inheritance-threshold material, producing a coherent framework that goes substantially beyond what the broader ancient-astronaut tradition has articulated.

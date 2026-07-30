@@ -262,7 +262,7 @@ infrastructure — honestly, as an inferred reading rather than an established
 fact — and attributes the pre-Hipparchean knowledge to teaching by the Elohim.
 
 Several neighboring frameworks share the direction while differing on warrant.
-Zecharia Sitchin's *The 12th Planet* (1976){{ cite(id="the-12th-planet", text="[8]", title="Sitchin, *The 12th Planet* (1976) — the Anunnaki / Nibiru reading") }}
+{% wiki(slug="zecharia-sitchin") %}Zecharia Sitchin{% end %}'s *The 12th Planet* (1976){{ cite(id="the-12th-planet", text="[8]", title="Sitchin, *The 12th Planet* (1976) — the Anunnaki / Nibiru reading") }}
 reads the Mesopotamian Anunnaki as extraterrestrial engineers of humanity; the
 Wheel of Heaven framework works principally from Hebrew Bible sources and
 differs from Sitchin on interpretation more than on the basic identification.

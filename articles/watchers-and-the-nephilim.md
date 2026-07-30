@@ -40,7 +40,7 @@ references = [
 
 Four names are routinely poured into one vessel: **Watchers**, **fallen angels**, **Nephilim**, and **giants**. Popular retellings use them almost interchangeably for the beings who descended before the {% wiki(slug="great-flood") %}Flood{% end %}, married human women, taught forbidden knowledge, and produced a violent antediluvian race. The terms belong to the same story, but they do not name the same generation.
 
-The distinction is simple: **the Watchers are the fathers; the Nephilim are the offspring**. Genesis names the *benei ha-Elohim* and the Nephilim without calling either group Watchers. The Book of the Watchers identifies the descending heavenly beings and then distinguishes them repeatedly from "their children," the giants. Wheel of Heaven preserves that genealogy. It reads the Watchers as the exiled {% wiki(slug="lucifer") %}Lucifer faction{% end %} of {% wiki(slug="elohim") %}the Elohim{% end %}, and the Nephilim as the hybrid children born from their unions with women of the {% wiki(slug="eden") %}Eden{% end %} lineage.
+The distinction is simple: **the Watchers are the fathers; the Nephilim are the offspring**. Genesis names the *benei ha-Elohim* and the Nephilim without calling either group Watchers. The {% wiki(slug="book-of-enoch") %}Book of the Watchers{% end %} identifies the descending heavenly beings and then distinguishes them repeatedly from "their children," the giants. Wheel of Heaven preserves that genealogy. It reads the Watchers as the exiled {% wiki(slug="lucifer") %}Lucifer faction{% end %} of {% wiki(slug="elohim") %}the Elohim{% end %}, and the Nephilim as the hybrid children born from their unions with women of the {% wiki(slug="eden") %}Eden{% end %} lineage.
 
 ## The two groups at a glance
 

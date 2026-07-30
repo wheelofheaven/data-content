@@ -456,7 +456,7 @@ that Biglino's detractors have called his work popularizing, provocative,
 overreaching — *"ma nessuno ha potuto sostenere che le sue traduzioni e
 le proposte di analisi del testo masoretico fossero errate, in malafede,
 o false"* — but no one has been able to maintain that his translations
-and his proposed analyses of the Masoretic text were wrong, in bad faith,
+and his proposed analyses of the {% wiki(slug="masoretic-text") %}Masoretic text{% end %} were wrong, in bad faith,
 or false.
 
 **Live debate.** His argument that *bara* never denotes creation from

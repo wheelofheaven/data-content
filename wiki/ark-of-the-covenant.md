@@ -133,7 +133,7 @@ Uzzah at the threshing floor, the men of Beth-shemesh who look inside. The
 framework reads this cluster as the handling signature of a dangerous
 energetic device: a thing that must never be touched directly, only carried by
 its insulated poles, by trained handlers, under strict protocol. This is the
-reading the interventionist tradition has pressed since Erich von Däniken, who
+reading the interventionist tradition has pressed since {% wiki(slug="erich-von-daniken") %}Erich von Däniken{% end %}, who
 argued in *Chariots of the Gods?* (1968) that the Ark behaves like an electrical
 conductor and that its accidents read as electrocutions. The framework does not
 inherit von Däniken's specific "condenser" mechanism — a gold-lined box is, the

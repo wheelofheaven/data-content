@@ -260,7 +260,7 @@ A reset implies something to reset *from*. The Mesopotamian texts are thin on
 motive — the Babylonian *Atraḫasīs* gives overpopulation and *noise*; the
 Sumerian is too broken to be sure. The Hebrew tradition supplies a motive but
 states it abstractly: the earth was "filled with violence." It is the
-{% wiki(slug="elohim") %}Enochic{% end %} tradition — the *Book of the Watchers*{{ footnote(id="9") }},
+{% wiki(slug="elohim") %}Enochic{% end %} tradition — the {% wiki(slug="book-of-enoch") %}*Book of the Watchers*{% end %}{{ footnote(id="9") }},
 1 Enoch 6–11 — that preserves the most mechanically specific account of *what
 went wrong*, and it reads less like a morality tale than an incident report.
 

@@ -239,7 +239,7 @@ and the fixing came later, by human committee, exactly as the corpus's
 {% wiki(slug="plurality-of-gods") %}account of the great edit{% end %}
 requires. The scrolls even caught the editors in the act. At
 {% libref(book="deuteronomy", chapter=32, verse=8) %}Deuteronomy
-32:8{% end %}, the Masoretic text says the Most High divided the nations
+32:8{% end %}, the {% wiki(slug="masoretic-text") %}Masoretic{% end %} text says the Most High divided the nations
 "according to the number of the sons of Israel"; the Cave 4 fragment
 4QDeutj reads *"sons of elohim"*{{ footnote(id="5") }} — the reading
 mainstream scholarship judges original, its replacement an
@@ -256,7 +256,7 @@ The deeper revelation was not the biblical texts but their shelf-mates,
 because the library kept books the later canons threw away — and kept
 them in bulk.
 
-The Book of Enoch, quoted as scripture in the New Testament's letter of
+The {% wiki(slug="book-of-enoch") %}Book of Enoch{% end %}, quoted as scripture in the New Testament's letter of
 Jude and then expelled from every Bible but Ethiopia's, survived at
 Qumran in eleven Aramaic manuscripts (4Q201–212) — more copies than most
 biblical books. The oldest fragments of its Astronomical Book date to
@@ -493,7 +493,7 @@ finished. The corpus holds that the count the covenanters kept is
 still running — on a wheel older than their calendar — and that what
 they awaited under the name of the tenth jubilee is what it awaits
 under the name of the {% wiki(slug="great-return") %}Return{% end %}.
-On that reading, the Dead Sea Scrolls are not merely the era's first
+On that reading, the {% wiki(slug="dead-sea-scrolls") %}Dead Sea Scrolls{% end %} are not merely the era's first
 great archaeological event. They are year one's first delivery: the
 tradition's sealed mail, postmarked at the fall of the Temple,
 addressed to the time of the end, and opened — early in the morning,

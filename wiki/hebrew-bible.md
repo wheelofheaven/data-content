@@ -192,7 +192,7 @@ initial letters give the acronym *Tanakh*.{{ footnote(id="1") }} It is the
 canonical scripture of Judaism, the source of the Christian Old Testament, and a
 text Islam holds in respect while reading through the Quran. Composed across
 roughly twelve centuries and transmitted with unusual fidelity through the
-Masoretic tradition, it is among the most closely studied bodies of writing in
+{% wiki(slug="masoretic-text") %}Masoretic{% end %} tradition, it is among the most closely studied bodies of writing in
 human history — engaged by textual, archaeological, theological, and literary
 scholarship alike.
 
@@ -250,9 +250,9 @@ The received Hebrew text is the **Masoretic Text**, the consonantal text supplie
 with vowels and cantillation marks by the Masoretes of Tiberias between roughly
 the 6th and 10th centuries CE; its principal manuscripts are the Aleppo Codex
 (c. 930 CE) and the complete Leningrad Codex (1008 CE). Three further witnesses
-anchor the text's history. The **Dead Sea Scrolls** (c. 2nd century BCE – 1st
+anchor the text's history. The {% wiki(slug="dead-sea-scrolls") %}**Dead Sea Scrolls**{% end %} (c. 2nd century BCE – 1st
 century CE) pushed the manuscript evidence back a full millennium. The
-**Septuagint** (LXX), the 3rd–2nd-century-BCE Greek translation made in
+{% wiki(slug="septuagint") %}**Septuagint**{% end %} (LXX), the 3rd–2nd-century-BCE Greek translation made in
 Alexandria, sometimes preserves a pre-Masoretic Hebrew reading. The **Samaritan
 Pentateuch** transmits an independent recension of the Torah. The witnesses vary
 in orthography, order, and occasional verses, but agree closely on the substance:

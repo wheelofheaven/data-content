@@ -101,8 +101,8 @@ describe.
 
 The reading became a recognisable position in the mid-twentieth century, though
 its practitioners rarely used the word "euhemerism." **Jean Sendy** read the
-Hebrew Bible this way from 1963 onward; **Erich von Däniken**'s *Chariots of the
-Gods?* (1968) carried a similar thesis to a mass audience; **Zecharia Sitchin**'s
+Hebrew Bible this way from 1963 onward; {% wiki(slug="erich-von-daniken") %}**Erich von Däniken**{% end %}'s *Chariots of the
+Gods?* (1968) carried a similar thesis to a mass audience; {% wiki(slug="zecharia-sitchin") %}**Zecharia Sitchin**{% end %}'s
 *The 12th Planet* (1976) and the *Earth Chronicles* built the most detailed
 single system, identifying the Sumerian {% wiki(slug="anunnaki") %}Anunnaki{% end %} with visitors from a putative
 planet Nibiru; **Robert Charroux** developed a French popular version; and

@@ -136,9 +136,9 @@ Mainstream comparative mythology has produced substantial work on Indo-European 
 
 Various alternative-history scholarly traditions have engaged substantially with Theomachy material as evidence of forgotten historical content.
 
-**Zecharia Sitchin's broader engagement**. **Zecharia Sitchin** (1920-2010) produced substantial alternative-history work engaging Mesopotamian and Hebrew material as evidence of extra-terrestrial-civilization presence in human prehistory. Sitchin's specific framework (the "Anunnaki" reading of Mesopotamian texts) is broadly compatible with the corpus's framework at the structural level, while substantively differing in specific details.
+**Zecharia Sitchin's broader engagement**. {% wiki(slug="zecharia-sitchin") %}**Zecharia Sitchin**{% end %} (1920-2010) produced substantial alternative-history work engaging Mesopotamian and Hebrew material as evidence of extra-terrestrial-civilization presence in human prehistory. Sitchin's specific framework (the "Anunnaki" reading of Mesopotamian texts) is broadly compatible with the corpus's framework at the structural level, while substantively differing in specific details.
 
-**Erich von Däniken's broader work**. **Erich von Däniken**'s broader alternative-history scholarship (*Chariots of the Gods?*, 1968, and various subsequent works) engaged substantial cross-cultural mythological material as evidence of extra-terrestrial-civilization presence, with substantial popular-cultural reach despite limited mainstream scholarly acceptance.
+**Erich von Däniken's broader work**. {% wiki(slug="erich-von-daniken") %}**Erich von Däniken**{% end %}'s broader alternative-history scholarship (*Chariots of the Gods?*, 1968, and various subsequent works) engaged substantial cross-cultural mythological material as evidence of extra-terrestrial-civilization presence, with substantial popular-cultural reach despite limited mainstream scholarly acceptance.
 
 **The broader alternative-history landscape**. Various other alternative-history scholars (Graham Hancock, Robert Bauval, various others) have engaged substantial cross-cultural mythological material as evidence of forgotten historical content, with various specific framings and varying degrees of mainstream scholarly engagement.
 

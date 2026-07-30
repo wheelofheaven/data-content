@@ -110,7 +110,7 @@ Between 1963 and 1975 this man published, under his reduced name, the
 first sustained statement of the reading this project is built on:
 that the Hebrew Bible, taken at the letter, relates the sojourn on
 Earth of a plurality of physical beings called the Elohim. He
-published it five years before Erich von Däniken made the general idea
+published it five years before {% wiki(slug="erich-von-daniken") %}Erich von Däniken{% end %} made the general idea
 a global commonplace, eleven years before a French motor-racing
 journalist named Claude Vorilhon — {% wiki(slug="rael") %}Raël{% end %}
 — reported that one of those beings had explained the same passages to
@@ -224,7 +224,7 @@ recommended readers check him against nothing but the Hebrew or
 Édouard Dhorme's Pléiade translation{{ footnote(id="5") }}, the one
 French Bible that leaves *Iahvé Elohim* standing. The second feature
 is the flavor of the imagined visitors. Sendy's Elohim are neither
-Sitchin's gold-mining taskmasters nor the "violent, abusive, and
+{% wiki(slug="zecharia-sitchin") %}Sitchin{% end %}'s gold-mining taskmasters nor the "violent, abusive, and
 sinister" managers of the later Italian literature — Stefano
 Bigliardi, the one academic to have studied Sendy closely, calls his
 Celestials *"diaphanous, elusive, and fascinating figures."* They live

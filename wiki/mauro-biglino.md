@@ -113,7 +113,7 @@ two millennia of theological interpretation — has made him the most
 widely read figure of the contemporary reinterpretive tradition in
 continental Europe. His authority rests on an unusual credential: before
 he wrote a single book of his own, Biglino spent years translating the
-Hebrew Masoretic Text into Italian for **Edizioni San Paolo**, the
+Hebrew {% wiki(slug="masoretic-text") %}Masoretic Text{% end %} into Italian for **Edizioni San Paolo**, the
 Catholic publishing house, which published seventeen books of the Hebrew
 Bible in his renderings within its interlinear *Vulgata
 Ebraico-Interlineare* series. The method that emerged from that
