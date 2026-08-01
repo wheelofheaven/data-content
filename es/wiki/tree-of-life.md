@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "La lectura traduccional estricta de Biglino de *ʿēṣ ha-ḥayyîm* como referencia a una biotecnología específica más que a un símbolo teológico."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "La lectura estructural de Wallis de la infraestructura de la instalación del Edén, incluido el Árbol de la Vida como componente clave."
 
 [[extra.references]]
@@ -647,7 +647,7 @@ La lectura del marco está ampliamente alineada con la lectura de Biglino a nive
 
 ### Wallis sobre el Árbol de la Vida
 
-El compromiso de **Paul Anthony Wallis** con el material del Árbol de la Vida en su corpus más amplio desarrolla un sustancial tratamiento de la biotecnología subyacente y su historia operativa.{{ cite(id="the-eden-conspiracy", text="[20]", title="Wallis, *The Eden Conspiracy* (2024)") }} Las contribuciones específicas de Wallis incluyen la lectura estructural de la infraestructura específica de la instalación del Edén (incluido el Árbol de la Vida como componente clave), el cuidadoso tratamiento de las concesiones patriarcales posteriores al Edén como sucesos histórico-operativos, y el compromiso comparado con referencias paralelas a biotecnología antigua.
+El compromiso de **Paul Anthony Wallis** con el material del Árbol de la Vida en su corpus más amplio desarrolla un sustancial tratamiento de la biotecnología subyacente y su historia operativa.{{ cite(id="wallis-eden-conspiracy", text="[20]", title="Wallis, *The Eden Conspiracy* (2024)") }} Las contribuciones específicas de Wallis incluyen la lectura estructural de la infraestructura específica de la instalación del Edén (incluido el Árbol de la Vida como componente clave), el cuidadoso tratamiento de las concesiones patriarcales posteriores al Edén como sucesos histórico-operativos, y el compromiso comparado con referencias paralelas a biotecnología antigua.
 
 ### La relación del marco con el panorama más amplio
 

@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "비글리노가 흙-형성 및 ṣēlāʿ 언어를 생물학적 합성과 복제로 읽은 엄격한 번역적 독해; 코퍼스는 가인-뱀-계통 독해를 제외하고 합치한다."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "월리스가 엘로힘 복수론적 관점에서 창세기 2–3장 자료를 다룬 최근의 접근하기 쉬운 다룸."
 
 [[extra.references]]
@@ -542,7 +542,7 @@ principal_framework_source = "*진실을 말하는 책*(보릴롱/라엘, 1974),
 
 ### 아담과 하와에 관한 상디와 월리스
 
-**장 상디**와 **폴 앤서니 월리스** 둘 다 코퍼스의 독해와 실질적으로 합치하는 아담-하와 독해를 발전시킨다. 상디의 *Ces dieux qui firent le ciel et la terre*(1969)는 코퍼스 독해의 주된 학술적 선례를 제공하며, 아담과 하와를 이스라엘 팀 계통의 최초 인간으로 다루고 창세기 서사를 실질적 운영적 내용을 보존하는 것으로 읽는다.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[15]", title="상디, *Ces dieux qui firent le ciel et la terre* (1969)") }} 월리스의 *The Eden Conspiracy*(2024)는 접근하기 쉬운 최근의 다룸을 제공하며, 코퍼스의 독해와 폭넓게 양립 가능한 엘로힘 복수론적 관점에서 창세기 2–3장 자료와 상세하게 씨름한다.{{ cite(id="the-eden-conspiracy", text="[16]", title="월리스, *The Eden Conspiracy* (2024)") }}
+**장 상디**와 **폴 앤서니 월리스** 둘 다 코퍼스의 독해와 실질적으로 합치하는 아담-하와 독해를 발전시킨다. 상디의 *Ces dieux qui firent le ciel et la terre*(1969)는 코퍼스 독해의 주된 학술적 선례를 제공하며, 아담과 하와를 이스라엘 팀 계통의 최초 인간으로 다루고 창세기 서사를 실질적 운영적 내용을 보존하는 것으로 읽는다.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[15]", title="상디, *Ces dieux qui firent le ciel et la terre* (1969)") }} 월리스의 *The Eden Conspiracy*(2024)는 접근하기 쉬운 최근의 다룸을 제공하며, 코퍼스의 독해와 폭넓게 양립 가능한 엘로힘 복수론적 관점에서 창세기 2–3장 자료와 상세하게 씨름한다.{{ cite(id="wallis-eden-conspiracy", text="[16]", title="월리스, *The Eden Conspiracy* (2024)") }}
 
 ### 프레임워크와 보다 광범위한 지형의 관계
 

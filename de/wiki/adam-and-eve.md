@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "Biglinos streng-translatorische Lesart der Staubformungs- und ṣēlāʿ-Sprache als biologische Synthese und Klonen; der Korpus stimmt überein, außer in der Lesart Kain-als-Schlangenlinie."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Wallis' jüngere zugängliche Behandlung des Genesis-2–3-Materials aus einer Elohim-pluralistischen Perspektive."
 
 [[extra.references]]
@@ -542,7 +542,7 @@ Der Korpus übernimmt die Identifikation Adam-als-Michael nicht. Das raëlianisc
 
 ### Sendy und Wallis über Adam und Eva
 
-**Jean Sendy** und **Paul Anthony Wallis** entwickeln beide Lesarten von Adam und Eva, die substantiell mit der Lesart des Korpus übereinstimmen. Sendys *Ces dieux qui firent le ciel et la terre* (1969) liefert den wichtigsten wissenschaftlichen Vorläufer der Lesart des Korpus, indem es Adam und Eva als die ersten Menschen der Israel-Team-Linie behandelt und die Genesis-Erzählung als Bewahrung substantiellen operativen Inhalts liest.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[15]", title="Sendy, *Ces dieux qui firent le ciel et la terre* (1969)") }} Wallis' *The Eden Conspiracy* (2024) liefert eine zugängliche jüngere Behandlung, mit detaillierter Auseinandersetzung mit dem Genesis-2–3-Material aus einer Elohim-pluralistischen Perspektive, die mit der Lesart des Korpus weitgehend vereinbar ist.{{ cite(id="the-eden-conspiracy", text="[16]", title="Wallis, *The Eden Conspiracy* (2024)") }}
+**Jean Sendy** und **Paul Anthony Wallis** entwickeln beide Lesarten von Adam und Eva, die substantiell mit der Lesart des Korpus übereinstimmen. Sendys *Ces dieux qui firent le ciel et la terre* (1969) liefert den wichtigsten wissenschaftlichen Vorläufer der Lesart des Korpus, indem es Adam und Eva als die ersten Menschen der Israel-Team-Linie behandelt und die Genesis-Erzählung als Bewahrung substantiellen operativen Inhalts liest.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[15]", title="Sendy, *Ces dieux qui firent le ciel et la terre* (1969)") }} Wallis' *The Eden Conspiracy* (2024) liefert eine zugängliche jüngere Behandlung, mit detaillierter Auseinandersetzung mit dem Genesis-2–3-Material aus einer Elohim-pluralistischen Perspektive, die mit der Lesart des Korpus weitgehend vereinbar ist.{{ cite(id="wallis-eden-conspiracy", text="[16]", title="Wallis, *The Eden Conspiracy* (2024)") }}
 
 ### Das Verhältnis des Rahmens zur breiteren Landschaft
 

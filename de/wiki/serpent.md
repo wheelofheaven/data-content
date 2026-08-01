@@ -43,7 +43,7 @@ id = "the-naked-bible"
 note = "Biglinos Lesart der Schlange als Figur einer Elohim-Fraktion; der Korpus deckt sich hinsichtlich der Identität der Figur, weist aber die Erweiterung Kain-als-Schlangenlinie zurück."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Wallis' strukturelle Lesart der politischen Krise von Eden sowie der Cherubim / des flammenden Schwertes als technologisch."
 
 [[extra.references]]
@@ -382,7 +382,7 @@ Sendys spezifische Beiträge zur Auslegung der Schlange schließen die philologi
 
 ### Paul Anthony Wallis: *The Eden Conspiracy* (2024)
 
-**Paul Anthony Wallis'** *The Eden Conspiracy* (2024) ist die direkteste neuere Auseinandersetzung mit der Eden-Erzählung als Ganzem, einschließlich beträchtlicher Behandlung der Schlange.{{ cite(id="the-eden-conspiracy", text="[10]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis liest die Schlange als Mitglied einer Elohim-Fraktion, deren Meinungsverschiedenheit mit der Politik der Eden-Kommandanten zur menschlichen Bildung zum Ereignis der Eden-Enthüllung führte. Wallis' spezifische Beiträge zur Auslegung der Schlange schließen die strukturelle Lesart der politischen Krise von Eden ein (die Meinungsverschiedenheit zwischen der ranghohen Allianzautorität und der dissidenten Fraktion als zugrundeliegender Konflikt, mit der Schlange als operativem Ausdruck der dissidenten Position), die sorgfältige Behandlung der Cherubim und des flammenden Schwertes als technologisch statt mythologisch sowie die vergleichende Auseinandersetzung mit sumerischen und anderen altorientalischen Parallelerzählungen.
+**Paul Anthony Wallis'** *The Eden Conspiracy* (2024) ist die direkteste neuere Auseinandersetzung mit der Eden-Erzählung als Ganzem, einschließlich beträchtlicher Behandlung der Schlange.{{ cite(id="wallis-eden-conspiracy", text="[10]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis liest die Schlange als Mitglied einer Elohim-Fraktion, deren Meinungsverschiedenheit mit der Politik der Eden-Kommandanten zur menschlichen Bildung zum Ereignis der Eden-Enthüllung führte. Wallis' spezifische Beiträge zur Auslegung der Schlange schließen die strukturelle Lesart der politischen Krise von Eden ein (die Meinungsverschiedenheit zwischen der ranghohen Allianzautorität und der dissidenten Fraktion als zugrundeliegender Konflikt, mit der Schlange als operativem Ausdruck der dissidenten Position), die sorgfältige Behandlung der Cherubim und des flammenden Schwertes als technologisch statt mythologisch sowie die vergleichende Auseinandersetzung mit sumerischen und anderen altorientalischen Parallelerzählungen.
 
 Wallis' Lesart ist mit der Lesart des Korpus weitgehend vereinbar und liefert eine zugängliche neuere Behandlung von Material, das der Rahmen seit fünfzig Jahren durch die Sendy-Raëlian-Tradition entwickelt hat.
 

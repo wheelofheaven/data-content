@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "La lectura estricto-traduccional de Biglino del material de la visión del templo de Ezequiel."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "El tratamiento de Wallis del marco de contacto con la alianza subyacente al material del retorno profético."
 
 [[extra.references]]

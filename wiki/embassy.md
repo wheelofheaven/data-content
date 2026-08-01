@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "Biglino's strict-translational reading of the Ezekiel temple-vision material."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Wallis's treatment of the alliance-contact framework underlying the prophetic return material."
 
 [[extra.references]]

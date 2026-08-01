@@ -49,7 +49,7 @@ id = "the-naked-bible"
 note = "Biglinos streng übersetzerische Lesart Luzifers und der Morgenstern-Passagen als Bezug auf physisch verkörperte Wesen statt auf metaphysische Kategorien."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Wallis' jüngere zugängliche Behandlung Luzifers als Anführer der dissidenten Fraktion, dessen Eden-Enthüllung die Ordnung nach Eden hervorbrachte."
 
 [[extra.references]]
@@ -431,7 +431,7 @@ Die Überschneidungspunkte zwischen Biglinos Lesart und der Lesart des Korpus si
 
 ### Wallis über Luzifer
 
-**Paul Anthony Wallis**' Auseinandersetzung mit Luzifer ist in *The Eden Conspiracy* (2024) und in den verschiedenen Werken seines breiteren Korpus entwickelt.{{ cite(id="the-eden-conspiracy", text="[16]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis liest Luzifer als den Anführer der dissidenten Elohim-Fraktion, dessen Eden-Enthüllung die politische Ordnung nach Eden hervorbrachte, mit der breiteren Rolle der Gestalt als fortdauernder Lehrer der vorsintflutlichen Zivilisation. Wallis' Lesart ist mit der Lesart des Korpus erheblich vereinbar und bietet eine zugängliche jüngere Auseinandersetzung mit Material, das der Rahmen seit fünfzig Jahren durch die Sendy-raëlianische Tradition entwickelt hat.
+**Paul Anthony Wallis**' Auseinandersetzung mit Luzifer ist in *The Eden Conspiracy* (2024) und in den verschiedenen Werken seines breiteren Korpus entwickelt.{{ cite(id="wallis-eden-conspiracy", text="[16]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis liest Luzifer als den Anführer der dissidenten Elohim-Fraktion, dessen Eden-Enthüllung die politische Ordnung nach Eden hervorbrachte, mit der breiteren Rolle der Gestalt als fortdauernder Lehrer der vorsintflutlichen Zivilisation. Wallis' Lesart ist mit der Lesart des Korpus erheblich vereinbar und bietet eine zugängliche jüngere Auseinandersetzung mit Material, das der Rahmen seit fünfzig Jahren durch die Sendy-raëlianische Tradition entwickelt hat.
 
 ### Das Verhältnis des Rahmens zur breiteren Landschaft
 

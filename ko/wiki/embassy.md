@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "에스겔 성전 환상 자료에 대한 비글리노의 엄격한 직역적 독해."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "예언적 귀환 자료의 바탕에 깔린 동맹 접촉 틀에 대한 월리스의 다룸."
 
 [[extra.references]]

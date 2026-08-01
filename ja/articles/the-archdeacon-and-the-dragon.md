@@ -24,7 +24,7 @@ references = [
     { id = "escaping-from-eden", locator = "the anomalies-as-portals method; elohim as 'Powerful Ones'; the kruvim argument; Genesis 22 ('opposite teams'); Joshua 24 as 'the smoking gun'; the Babel and Flood retellings" },
     { id = "the-scars-of-eden", locator = "the world tour of contact traditions; the Viracocha 'confusion' argument; kavod as 'a heavy thing'; the Amos passage on YHWH-as-Source" },
     { id = "echoes-of-eden", locator = "ch. 2 'Dragons and Teachers': the first Akhekh argument, Yahweh's ap (nostrils) and fiery breath, the worldwide k-k dragon names; the Popol Vuh cognitive-downgrade reading" },
-    { id = "the-eden-conspiracy", locator = "ch. 6 'What Kind of Father?': YHWH as loan word, the affrication argument, ACH ECH / yACHwECH at Shechem; ch. 7: the Nehushtan rebranding, Bel and the Dragon, Numbers 31; ch. 10: the regional jurisdictions of the Powerful Ones; ch. 13: Eden as genetic-engineering site" },
+    { id = "wallis-eden-conspiracy", locator = "ch. 6 'What Kind of Father?': YHWH as loan word, the affrication argument, ACH ECH / yACHwECH at Shechem; ch. 7: the Nehushtan rebranding, Bel and the Dragon, Numbers 31; ch. 10: the regional jurisdictions of the Powerful Ones; ch. 13: Eden as genetic-engineering site" },
     { title = "The Invasion of Eden: Did our ancestors warn us about ET invasions? (the Sky Armies; the El-Ba'adat council of factions; the Chinese four-dragons story; 'arrive, colonize, delegate and leave')", author = "Paul Anthony Wallis", date = "2024" },
     { title = "The Eden Enigma (the Urartian Dingir; the hand-pollination reading; the engagement with Michael Heiser; 'Our ancestors were the rememberers')", author = "Paul Anthony Wallis", date = "2025" },
 

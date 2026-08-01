@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "Biglinos streng übersetzungsbezogene Lesart des Materials der Tempelvision Hesekiels."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Wallis' Behandlung des dem prophetischen Rückkehrmaterial zugrunde liegenden Rahmens des Allianzkontakts."
 
 [[extra.references]]

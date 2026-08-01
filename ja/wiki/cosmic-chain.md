@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "連鎖の「創造された創造者たち」という前提と一貫する、複数の創造者に関する資料についてのビリーノの厳密な逐語訳的読解。"
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "「創造された創造者たち」の枠組みについてのウォリスの分かりやすい近年の論述。"
 
 [[extra.references]]

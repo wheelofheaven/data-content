@@ -44,7 +44,7 @@ id = "the-naked-bible"
 note = "Biglino's reading of the Serpent as an Elohim faction figure; the corpus aligns on the figure's identity but rejects the Cain-as-serpent-lineage extension."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Wallis's structural reading of the Eden political crisis and the cherubim / flaming sword as technological."
 
 [[extra.references]]
@@ -383,7 +383,7 @@ Sendy's specific contributions to Serpent interpretation include the philologica
 
 ### Paul Anthony Wallis: *The Eden Conspiracy* (2024)
 
-**Paul Anthony Wallis**'s *The Eden Conspiracy* (2024) is the most direct recent engagement with the Eden narrative as a whole, including substantial treatment of the Serpent.{{ cite(id="the-eden-conspiracy", text="[10]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis reads the Serpent as a member of an Elohim faction whose disagreement with the Eden commanders' policy on human education led to the Eden disclosure event. Wallis's specific contributions to Serpent interpretation include the structural reading of the Eden political crisis (the disagreement between the senior alliance authority and the dissenting faction as the underlying conflict, with the Serpent as the operational expression of the dissenting position), the careful treatment of the cherubim and flaming sword as technological rather than mythological, and the comparative engagement with Sumerian and other ancient Near Eastern parallel narratives.
+**Paul Anthony Wallis**'s *The Eden Conspiracy* (2024) is the most direct recent engagement with the Eden narrative as a whole, including substantial treatment of the Serpent.{{ cite(id="wallis-eden-conspiracy", text="[10]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis reads the Serpent as a member of an Elohim faction whose disagreement with the Eden commanders' policy on human education led to the Eden disclosure event. Wallis's specific contributions to Serpent interpretation include the structural reading of the Eden political crisis (the disagreement between the senior alliance authority and the dissenting faction as the underlying conflict, with the Serpent as the operational expression of the dissenting position), the careful treatment of the cherubim and flaming sword as technological rather than mythological, and the comparative engagement with Sumerian and other ancient Near Eastern parallel narratives.
 
 Wallis's reading is broadly compatible with the corpus's reading and provides accessible recent treatment of material the framework has been developing for fifty years through the Sendy-Raëlian tradition.
 

@@ -43,7 +43,7 @@ id = "the-naked-bible"
 note = "La lectura de Biglino de la Serpiente como una figura de facción Elohim; el corpus se alinea en la identidad de la figura pero rechaza la extensión de Caín-como-linaje-de-la-serpiente."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "La lectura estructural de Wallis de la crisis política del Edén y de los querubines / la espada flamígera como tecnológicos."
 
 [[extra.references]]
@@ -382,7 +382,7 @@ Las aportaciones específicas de Sendy a la interpretación de la Serpiente incl
 
 ### Paul Anthony Wallis: *The Eden Conspiracy* (2024)
 
-El *The Eden Conspiracy* (2024) de **Paul Anthony Wallis** es el compromiso reciente más directo con la narración del Edén en su conjunto, incluido un tratamiento sustancial de la Serpiente.{{ cite(id="the-eden-conspiracy", text="[10]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis lee a la Serpiente como miembro de una facción Elohim cuyo desacuerdo con la política de los comandantes del Edén sobre la educación humana condujo al acontecimiento de la revelación del Edén. Las aportaciones específicas de Wallis a la interpretación de la Serpiente incluyen la lectura estructural de la crisis política del Edén (el desacuerdo entre la autoridad superior de la alianza y la facción disidente como el conflicto subyacente, con la Serpiente como la expresión operativa de la posición disidente), el tratamiento cuidadoso de los querubines y la espada flamígera como tecnológicos más que mitológicos, y el compromiso comparativo con las narraciones paralelas sumerias y de otros lugares del antiguo Oriente Próximo.
+El *The Eden Conspiracy* (2024) de **Paul Anthony Wallis** es el compromiso reciente más directo con la narración del Edén en su conjunto, incluido un tratamiento sustancial de la Serpiente.{{ cite(id="wallis-eden-conspiracy", text="[10]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis lee a la Serpiente como miembro de una facción Elohim cuyo desacuerdo con la política de los comandantes del Edén sobre la educación humana condujo al acontecimiento de la revelación del Edén. Las aportaciones específicas de Wallis a la interpretación de la Serpiente incluyen la lectura estructural de la crisis política del Edén (el desacuerdo entre la autoridad superior de la alianza y la facción disidente como el conflicto subyacente, con la Serpiente como la expresión operativa de la posición disidente), el tratamiento cuidadoso de los querubines y la espada flamígera como tecnológicos más que mitológicos, y el compromiso comparativo con las narraciones paralelas sumerias y de otros lugares del antiguo Oriente Próximo.
 
 La lectura de Wallis es ampliamente compatible con la lectura del corpus y proporciona un tratamiento reciente accesible de material que el marco ha estado desarrollando durante cincuenta años a través de la tradición sendy-raeliana.
 

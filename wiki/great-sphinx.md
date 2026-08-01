@@ -31,7 +31,7 @@ see_also = [
 references = [
     { id = "redating-the-great-sphinx-of-giza", locator = "Schoch (with John Anthony West) — the water-erosion / rainfall-weathering case for a pre-Dynastic date" },
     { id = "the-orion-mystery-precession-as-a-sort-of-star-clock-for-our-planet-the-shaft-da", locator = "Bauval & Gilbert (1994) — precession as 'a sort of star-clock', and the Orion correlation" },
-    { id = "the-message-of-the-sphinx-keeper-of-genesis-with-robert-bauval-the-giza-orion-co", locator = "Hancock & Bauval (1996) — the Giza–Orion correlation and the c. 10,500 BCE 'First Time'" },
+    { id = "hancock-bauval-message-of-the-sphinx", locator = "Hancock & Bauval (1996) — the Giza–Orion correlation and the c. 10,500 BCE 'First Time'" },
     { id = "fingerprints-of-the-gods", locator = "Hancock — the Sphinx facing 'his own celestial counterpart' in the Age of Leo" },
     { id = "magicians-of-the-gods", locator = "Hancock — the Sphinx as the hour hand of the Giza clock" },
     { title = "Histories, Book 2 — the fifth-century-BCE report that the Giza monuments were of great antiquity (the Sphinx itself unmentioned, possibly because sand-buried)", author = "Herodotus", date = "c. 430 BCE" },

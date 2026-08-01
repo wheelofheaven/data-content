@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "복수 창조자 자료를, 사슬의 창조된-창조자 전제와 부합하게 엄격히 번역하여 읽는 비글리노의 독법."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "창조된-창조자 틀에 대한 월리스의 접근하기 쉬운 최근 논의."
 
 [[extra.references]]

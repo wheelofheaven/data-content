@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "Biglino's strict-translational reading of *ʿēṣ ha-ḥayyîm* as referring to specific biotechnology rather than theological symbol."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Wallis's structural reading of the Eden installation's infrastructure including the Tree of Life as a key component."
 
 [[extra.references]]
@@ -647,7 +647,7 @@ The framework's reading is broadly aligned with Biglino's reading at the methodo
 
 ### Wallis on the Tree of Life
 
-**Paul Anthony Wallis**'s engagement with the Tree of Life material in his broader corpus develops substantial treatment of the underlying biotechnology and its operational history.{{ cite(id="the-eden-conspiracy", text="[20]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis's specific contributions include the structural reading of the Eden installation's specific infrastructure (including the Tree of Life as a key component), the careful treatment of the post-Eden patriarchal grants as historical-operational events, and the comparative engagement with parallel ancient biotechnology references.
+**Paul Anthony Wallis**'s engagement with the Tree of Life material in his broader corpus develops substantial treatment of the underlying biotechnology and its operational history.{{ cite(id="wallis-eden-conspiracy", text="[20]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis's specific contributions include the structural reading of the Eden installation's specific infrastructure (including the Tree of Life as a key component), the careful treatment of the post-Eden patriarchal grants as historical-operational events, and the comparative engagement with parallel ancient biotechnology references.
 
 ### The framework's relationship to the broader landscape
 

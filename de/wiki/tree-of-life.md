@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "Biglinos streng-translationale Lesart von *ʿēṣ ha-ḥayyîm* als Bezug auf eine konkrete Biotechnologie statt auf ein theologisches Symbol."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Wallis' strukturelle Lesart der Infrastruktur der Eden-Anlage einschließlich des Baumes des Lebens als zentraler Komponente."
 
 [[extra.references]]
@@ -647,7 +647,7 @@ Die Lesart des Rahmens ist auf methodischer Ebene weitgehend auf Biglinos Lesart
 
 ### Wallis über den Baum des Lebens
 
-**Paul Anthony Wallis**' Auseinandersetzung mit dem Material zum Baum des Lebens in seinem breiteren Korpus entwickelt eine substantielle Behandlung der zugrundeliegenden Biotechnologie und ihrer operativen Geschichte.{{ cite(id="the-eden-conspiracy", text="[20]", title="Wallis, *The Eden Conspiracy* (2024)") }} Zu Wallis' spezifischen Beiträgen gehören die strukturelle Lesart der spezifischen Infrastruktur der Eden-Installation (einschließlich des Baumes des Lebens als zentraler Komponente), die sorgfältige Behandlung der nach-edenischen patriarchalen Gewährungen als historisch-operative Ereignisse sowie die vergleichende Auseinandersetzung mit parallelen antiken Verweisen auf Biotechnologie.
+**Paul Anthony Wallis**' Auseinandersetzung mit dem Material zum Baum des Lebens in seinem breiteren Korpus entwickelt eine substantielle Behandlung der zugrundeliegenden Biotechnologie und ihrer operativen Geschichte.{{ cite(id="wallis-eden-conspiracy", text="[20]", title="Wallis, *The Eden Conspiracy* (2024)") }} Zu Wallis' spezifischen Beiträgen gehören die strukturelle Lesart der spezifischen Infrastruktur der Eden-Installation (einschließlich des Baumes des Lebens als zentraler Komponente), die sorgfältige Behandlung der nach-edenischen patriarchalen Gewährungen als historisch-operative Ereignisse sowie die vergleichende Auseinandersetzung mit parallelen antiken Verweisen auf Biotechnologie.
 
 ### Das Verhältnis des Rahmens zum breiteren Feld
 

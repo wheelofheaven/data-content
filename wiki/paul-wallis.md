@@ -47,7 +47,7 @@ locator = "ch. 2 'Dragons and Teachers' — the k-k dragon-name family (Kukulkan
 note = "The third volume (2022)."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 locator = "ch. 3/5 — the El-Ba'adat 'Council of Power', El Elyon 'above the others' as president, Yahweh 'the junior of El Elyon', and Deuteronomy 32:8–9 as the allotment of lands and peoples; ch. 6 — YHWH as loan word, the affrication argument, ACH ECH / yACHwECH at Shechem, olam as 'the Great Beyond'; ch. 7 — the Josiah-era 'silent coup', the C6th-BCE redaction, and the Nehushtan rebranding; ch. 8/9 — the 'Great Coup' of 1 Samuel 8; ch. 10 — the regional jurisdictions of the Powerful Ones and El Shaddai 'the Destroyer'; ch. 13 — Eden as genetic-engineering site"
 note = "The fourth volume (2023; the corpus's source record carries the 2024 6th Books edition). The corpus's own verdict on record: 'broadly compatible with the corpus's reading; the principal accessible recent treatment.'"
 

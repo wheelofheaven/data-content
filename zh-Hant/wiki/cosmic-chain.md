@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "比格利諾對複數創造者材料的嚴格直譯解讀,與此鏈「被造之創造者」的前提相一致。"
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "華利斯對「被造之創造者」框架平易近人的晚近處理。"
 
 [[extra.references]]

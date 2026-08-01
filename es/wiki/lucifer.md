@@ -49,7 +49,7 @@ id = "the-naked-bible"
 note = "La lectura estrictamente traduccional de Biglino de Lucifer y de los pasajes del lucero del alba como referentes a seres físicamente encarnados en lugar de a categorías metafísicas."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "El tratamiento reciente y accesible de Wallis de Lucifer como el jefe de la facción disidente cuya revelación del Edén produjo el acuerdo post-Edén."
 
 [[extra.references]]
@@ -431,7 +431,7 @@ Los puntos de solapamiento entre la lectura de Biglino y la del corpus son susta
 
 ### Wallis sobre Lucifer
 
-El compromiso de **Paul Anthony Wallis** con Lucifer se desarrolla en *The Eden Conspiracy* (2024) y en las diversas obras de su corpus más amplio.{{ cite(id="the-eden-conspiracy", text="[16]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis lee a Lucifer como el jefe de la facción Elohim disidente cuya revelación del Edén produjo el acuerdo político post-Edén, con el papel más amplio de la figura como maestro continuado de la civilización antediluviana. La lectura de Wallis es sustancialmente compatible con la lectura del corpus y proporciona un compromiso reciente y accesible con material que el marco ha estado desarrollando durante cincuenta años a través de la tradición Sendy-raeliana.
+El compromiso de **Paul Anthony Wallis** con Lucifer se desarrolla en *The Eden Conspiracy* (2024) y en las diversas obras de su corpus más amplio.{{ cite(id="wallis-eden-conspiracy", text="[16]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis lee a Lucifer como el jefe de la facción Elohim disidente cuya revelación del Edén produjo el acuerdo político post-Edén, con el papel más amplio de la figura como maestro continuado de la civilización antediluviana. La lectura de Wallis es sustancialmente compatible con la lectura del corpus y proporciona un compromiso reciente y accesible con material que el marco ha estado desarrollando durante cincuenta años a través de la tradición Sendy-raeliana.
 
 ### La relación del marco con el panorama más amplio
 

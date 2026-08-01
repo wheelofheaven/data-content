@@ -43,7 +43,7 @@ id = "the-naked-bible"
 note = "Lecture par Biglino du Serpent comme figure de faction Élohim ; le corpus s'aligne sur l'identité de la figure mais rejette l'extension Caïn-comme-lignée-du-serpent."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Lecture structurelle par Wallis de la crise politique d'Éden et des chérubins / de l'épée flamboyante comme technologiques."
 
 [[extra.references]]
@@ -382,7 +382,7 @@ Les contributions spécifiques de Sendy à l'interprétation du Serpent incluent
 
 ### Paul Anthony Wallis : *The Eden Conspiracy* (2024)
 
-*The Eden Conspiracy* (2024) de **Paul Anthony Wallis** est l'engagement récent le plus direct avec le récit d'Éden dans son ensemble, incluant un traitement substantiel du Serpent.{{ cite(id="the-eden-conspiracy", text="[10]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis lit le Serpent comme un membre d'une faction Élohim dont le désaccord avec la politique des commandants d'Éden sur l'éducation humaine conduisit à l'événement de divulgation d'Éden. Les contributions spécifiques de Wallis à l'interprétation du Serpent incluent la lecture structurelle de la crise politique d'Éden (le désaccord entre l'autorité supérieure de l'alliance et la faction dissidente comme conflit sous-jacent, avec le Serpent comme expression opérationnelle de la position dissidente), le traitement soigneux des chérubins et de l'épée flamboyante comme technologiques plutôt que mythologiques, et l'engagement comparatif avec les récits parallèles sumériens et autres du Proche-Orient ancien.
+*The Eden Conspiracy* (2024) de **Paul Anthony Wallis** est l'engagement récent le plus direct avec le récit d'Éden dans son ensemble, incluant un traitement substantiel du Serpent.{{ cite(id="wallis-eden-conspiracy", text="[10]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis lit le Serpent comme un membre d'une faction Élohim dont le désaccord avec la politique des commandants d'Éden sur l'éducation humaine conduisit à l'événement de divulgation d'Éden. Les contributions spécifiques de Wallis à l'interprétation du Serpent incluent la lecture structurelle de la crise politique d'Éden (le désaccord entre l'autorité supérieure de l'alliance et la faction dissidente comme conflit sous-jacent, avec le Serpent comme expression opérationnelle de la position dissidente), le traitement soigneux des chérubins et de l'épée flamboyante comme technologiques plutôt que mythologiques, et l'engagement comparatif avec les récits parallèles sumériens et autres du Proche-Orient ancien.
 
 La lecture de Wallis est largement compatible avec la lecture du corpus et fournit un traitement récent accessible d'un matériau que le cadre développe depuis cinquante ans à travers la tradition Sendy-raëlienne.
 

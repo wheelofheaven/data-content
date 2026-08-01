@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "Строго-переводческое прочтение Бильино материала о храмовом видении Иезекииля."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Трактовка Уоллисом рамки контакта с альянсом, лежащей в основе материала о пророческом возвращении."
 
 [[extra.references]]

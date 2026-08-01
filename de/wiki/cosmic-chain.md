@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "Biglinos streng-übersetzungsorientierte Lesart des pluralischen Schöpfermaterials, vereinbar mit der Prämisse geschaffener Schöpfer der Kette."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Wallis’ zugängliche neuere Behandlung des Rahmens geschaffener Schöpfer."
 
 [[extra.references]]

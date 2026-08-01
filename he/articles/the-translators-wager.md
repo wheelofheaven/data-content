@@ -35,7 +35,7 @@ references = [
     { id = "chariots-of-the-gods", locator = "the popular foundation of the ancient-astronaut tradition" },
     { id = "sitchin-12th-planet", locator = "the Mesopotamian frame Biglino's first book names as its 'primary source' and his later work quietly walks away from" },
     { id = "escaping-from-eden", locator = "the Anglophone extension of the Biglino method; Wallis's acknowledged debt" },
-    { id = "the-eden-conspiracy", locator = "Wallis's redaction-history argument, the sibling of Biglino's 'grande inganno'" },
+    { id = "wallis-eden-conspiracy", locator = "Wallis's redaction-history argument, the sibling of Biglino's 'grande inganno'" },
 
     # — Scriptural loci under discussion —
     { id = "genesis", locator = "Genesis 1:26–27 (tselem and demut); 2:7 (the forming of the Adam); 2:8 (gan be-Eden mi-qedem); 2:21–22 (the deep sleep and the tsela); 3 (the serpent's claim and its vindication); 6:1–4 (the sons of the Elohim)" },

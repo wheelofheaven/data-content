@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "קריאתו התרגומית-קפדנית של ביגלינו את חומר חזון המקדש של יחזקאל."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "טיפולו של ווליס במסגרת המגע עם הברית העומדת ביסוד חומר השיבה הנבואי."
 
 [[extra.references]]

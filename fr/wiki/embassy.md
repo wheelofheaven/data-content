@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "La lecture strictement traductionnelle par Biglino du matériel de la vision templière d'Ézéchiel."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Le traitement par Wallis du cadre de contact avec l'alliance qui sous-tend le matériel du retour prophétique."
 
 [[extra.references]]

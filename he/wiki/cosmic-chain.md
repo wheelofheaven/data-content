@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "קריאתו התרגומית־הקפדנית של ביגלינו לחומר הבורא הרבים, עקבית עם הנחת הבוראים־הנבראים של השרשרת."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "טיפולו הנגיש והעדכני של ווליס במסגרת הבוראים־הנבראים."
 
 [[extra.references]]

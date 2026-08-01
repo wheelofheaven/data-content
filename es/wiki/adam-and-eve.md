@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "La lectura estricto-traduccional de Biglino del lenguaje de la formación del polvo y de *ṣēlāʿ* como síntesis biológica y clonación; el corpus se alinea salvo en la lectura de Caín-como-linaje-de-la-serpiente."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "El reciente tratamiento accesible de Wallis del material de Génesis 2–3 desde una perspectiva Elohim-pluralista."
 
 [[extra.references]]
@@ -542,7 +542,7 @@ El corpus no adopta la identificación de Adán-como-Miguel. El material fuente 
 
 ### Sendy y Wallis sobre Adán y Eva
 
-**Jean Sendy** y **Paul Anthony Wallis** desarrollan ambos lecturas de Adán y Eva sustancialmente alineadas con la lectura del corpus. *Ces dieux qui firent le ciel et la terre* (1969) de Sendy proporciona el principal antecedente erudito de la lectura del corpus, tratando a Adán y Eva como los primeros humanos del linaje del equipo de Israel y leyendo la narración del Génesis como conservadora de contenido operativo sustantivo.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[15]", title="Sendy, *Ces dieux qui firent le ciel et la terre* (1969)") }} *The Eden Conspiracy* (2024) de Wallis proporciona un tratamiento reciente accesible, con detallado diálogo con el material de Génesis 2–3 desde una perspectiva Elohim-pluralista ampliamente compatible con la lectura del corpus.{{ cite(id="the-eden-conspiracy", text="[16]", title="Wallis, *The Eden Conspiracy* (2024)") }}
+**Jean Sendy** y **Paul Anthony Wallis** desarrollan ambos lecturas de Adán y Eva sustancialmente alineadas con la lectura del corpus. *Ces dieux qui firent le ciel et la terre* (1969) de Sendy proporciona el principal antecedente erudito de la lectura del corpus, tratando a Adán y Eva como los primeros humanos del linaje del equipo de Israel y leyendo la narración del Génesis como conservadora de contenido operativo sustantivo.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[15]", title="Sendy, *Ces dieux qui firent le ciel et la terre* (1969)") }} *The Eden Conspiracy* (2024) de Wallis proporciona un tratamiento reciente accesible, con detallado diálogo con el material de Génesis 2–3 desde una perspectiva Elohim-pluralista ampliamente compatible con la lectura del corpus.{{ cite(id="wallis-eden-conspiracy", text="[16]", title="Wallis, *The Eden Conspiracy* (2024)") }}
 
 ### La relación del marco con el panorama más amplio
 

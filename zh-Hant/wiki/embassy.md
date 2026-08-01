@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "比格里諾對《以西結書》聖殿異象材料的嚴格直譯式解讀。"
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "華利斯對先知返回材料背後聯盟—接觸框架的處理。"
 
 [[extra.references]]

@@ -28,7 +28,7 @@ see_also = [
 
 references = [
     { id = "the-orion-mystery-precession-as-a-sort-of-star-clock-for-our-planet-the-shaft-da", locator = "Bauval & Gilbert (1994) — the pyramid–Orion's Belt correlation, the shaft alignments, and precession as 'a sort of star-clock'" },
-    { id = "the-message-of-the-sphinx-keeper-of-genesis-with-robert-bauval-the-giza-orion-co", locator = "Hancock & Bauval (1996) — the c. 10,500 BCE 'First Time' and the Giza ground-to-sky mapping" },
+    { id = "hancock-bauval-message-of-the-sphinx", locator = "Hancock & Bauval (1996) — the c. 10,500 BCE 'First Time' and the Giza ground-to-sky mapping" },
     { id = "krupp-echoes-ancient-skies", locator = "E. C. Krupp — the astronomer's critique: matching the pyramids to Orion's Belt requires an inverted (north–south flipped) orientation, and the correlation is looser than claimed" },
     { id = "fingerprints-of-the-gods", locator = "Hancock — the correlation as the 'second hand' of the Giza clock" },
     { id = "hamlets-mill", locator = "the precessional star-clock framing" },

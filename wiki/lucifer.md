@@ -51,7 +51,7 @@ id = "the-naked-bible"
 note = "Biglino's strict-translational reading of Lucifer and the morning-star passages as referring to physically embodied beings rather than metaphysical categories."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Wallis's recent accessible treatment of Lucifer as the dissenting-faction leader whose Eden disclosure produced the post-Eden settlement."
 
 [[extra.references]]
@@ -383,7 +383,7 @@ The corpus endorses neither: Lucifer is a historical Eloha figure with real oper
 
 ### Wallis on Lucifer
 
-**Paul Anthony Wallis** treats Lucifer in *The Eden Conspiracy* (2024) and across his corpus.{{ cite(id="the-eden-conspiracy", text="[16]", title="Wallis, *The Eden Conspiracy* (2024)") }} He reads Lucifer as leader of the dissenting Elohim faction whose Eden disclosure produced the post-Eden settlement — compatible with the corpus's reading, and accessible recent engagement with material the framework has developed for fifty years through the Sendy-Raëlian tradition.
+**Paul Anthony Wallis** treats Lucifer in *The Eden Conspiracy* (2024) and across his corpus.{{ cite(id="wallis-eden-conspiracy", text="[16]", title="Wallis, *The Eden Conspiracy* (2024)") }} He reads Lucifer as leader of the dissenting Elohim faction whose Eden disclosure produced the post-Eden settlement — compatible with the corpus's reading, and accessible recent engagement with material the framework has developed for fifty years through the Sendy-Raëlian tradition.
 
 Across this landscape the corpus's reading is aligned with the Romantic rehabilitation and with Sendy, Biglino, and Wallis on Lucifer as a historical Eloha figure, respectful of Milton but differing on the cosmology, and non-aligned with both Satanist appropriations — distinct from each in offering an operational account the others do not.
 

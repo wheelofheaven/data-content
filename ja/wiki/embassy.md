@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "エゼキエルの神殿幻視の資料に対するビリーノの厳密な逐語訳的読み。"
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "預言的帰還の資料の根底にある同盟コンタクトの枠組みに関するウォリスの論考。"
 
 [[extra.references]]

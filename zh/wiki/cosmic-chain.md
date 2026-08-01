@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "Biglino 对复数施造者材料的严格直译式解读,与此链条「施造者亦被造」的前提相一致。"
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Wallis 对「施造者亦被造」框架的晚近通俗论述。"
 
 [[extra.references]]

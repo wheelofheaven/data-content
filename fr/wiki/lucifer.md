@@ -49,7 +49,7 @@ id = "the-naked-bible"
 note = "Lecture strictement traductionnelle par Biglino de Lucifer et des passages de l'étoile du matin comme se référant à des êtres physiquement incarnés plutôt qu'à des catégories métaphysiques."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Traitement accessible récent par Wallis de Lucifer comme chef de la faction dissidente dont la divulgation d'Éden produisit le règlement post-Éden."
 
 [[extra.references]]
@@ -431,7 +431,7 @@ Les points de recoupement entre la lecture de Biglino et celle du corpus sont su
 
 ### Wallis sur Lucifer
 
-L'engagement de **Paul Anthony Wallis** avec Lucifer est développé dans *The Eden Conspiracy* (2024) et dans les divers ouvrages de son corpus plus large.{{ cite(id="the-eden-conspiracy", text="[16]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis lit Lucifer comme le chef de la faction Élohim dissidente dont la divulgation d'Éden produisit le règlement politique post-Éden, le rôle plus large de la figure étant celui d'enseignant continu de la civilisation antédiluvienne. La lecture de Wallis est substantiellement compatible avec celle du corpus et fournit un engagement récent accessible avec un matériau que le cadre développe depuis cinquante ans à travers la tradition Sendy-raëlienne.
+L'engagement de **Paul Anthony Wallis** avec Lucifer est développé dans *The Eden Conspiracy* (2024) et dans les divers ouvrages de son corpus plus large.{{ cite(id="wallis-eden-conspiracy", text="[16]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis lit Lucifer comme le chef de la faction Élohim dissidente dont la divulgation d'Éden produisit le règlement politique post-Éden, le rôle plus large de la figure étant celui d'enseignant continu de la civilisation antédiluvienne. La lecture de Wallis est substantiellement compatible avec celle du corpus et fournit un engagement récent accessible avec un matériau que le cadre développe depuis cinquante ans à travers la tradition Sendy-raëlienne.
 
 ### La relation du cadre au paysage plus large
 

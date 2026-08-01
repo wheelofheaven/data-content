@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "Biglino's strict-translational reading of the dust-formation and ṣēlāʿ language as biological synthesis and cloning; the corpus aligns except on the Cain-as-serpent-lineage reading."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Wallis's recent accessible treatment of the Genesis 2–3 material from an Elohim-pluralist perspective."
 
 [[extra.references]]
@@ -206,7 +206,7 @@ The framework's reading sits alongside the scholarship on Genesis 2–3, not in 
 
 **Feminist scholarship.** Phyllis Trible's close reading of Genesis 2–3 argues for mutuality in the Hebrew — *ʿēzer kə-negdô* as "a helper corresponding to him," not a subordinate, and the *ṣēlāʿ* as a parallel side rather than a derivative part — while Carol Meyers reads Eve as the labouring woman of Iron Age Israel and the Genesis 3 "curses" as descriptions of hard agricultural life rather than prescriptions of hierarchy.{{ cite(id="trible-rhetoric-sexuality", text="[11]", title="Trible, *God and the Rhetoric of Sexuality* (1978)") }}{{ cite(id="meyers-discovering-eve", text="[12]", title="Meyers, *Discovering Eve* (1988)") }} On the single point that Eve is not uniquely to blame, the corpus agrees; it does not adopt the wider feminist-theological programme, and it notes without endorsing the medieval Lilith tradition, which the Raëlian material nowhere mentions.
 
-**Ancient-astronaut readings.** Mauro Biglino's strict-literal Hebrew work reads the "dust" formation and the *ṣēlāʿ* as plainly biological — synthesis and cloning — which aligns with the corpus; the two part company where Biglino makes Cain a child of the serpent's line, a reading the corpus rejects.{{ cite(id="the-naked-bible", text="[13]", title="Biglino & Cattaneo, *The Naked Bible* (2022)") }} Jean Sendy and Paul Wallis both read Adam and Eve as the first humans of the Israel-team lineage, and are the corpus's principal antecedents here.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[14]", title="Sendy, *Ces dieux qui firent le ciel et la terre* (1969)") }}{{ cite(id="the-eden-conspiracy", text="[15]", title="Wallis, *The Eden Conspiracy* (2024)") }}
+**Ancient-astronaut readings.** Mauro Biglino's strict-literal Hebrew work reads the "dust" formation and the *ṣēlāʿ* as plainly biological — synthesis and cloning — which aligns with the corpus; the two part company where Biglino makes Cain a child of the serpent's line, a reading the corpus rejects.{{ cite(id="the-naked-bible", text="[13]", title="Biglino & Cattaneo, *The Naked Bible* (2022)") }} Jean Sendy and Paul Wallis both read Adam and Eve as the first humans of the Israel-team lineage, and are the corpus's principal antecedents here.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[14]", title="Sendy, *Ces dieux qui firent le ciel et la terre* (1969)") }}{{ cite(id="wallis-eden-conspiracy", text="[15]", title="Wallis, *The Eden Conspiracy* (2024)") }}
 
 **Human origins.** Mainstream paleoanthropology traces *Homo sapiens* to evolutionary processes over roughly 200,000–300,000 years, with no identifiable first pair. The framework does not contest that record for the species at large; its claim concerns one engineered lineage set within that longer history, and it distinguishes what the science establishes from what the framework adds.
 

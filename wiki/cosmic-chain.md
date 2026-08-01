@@ -48,7 +48,7 @@ id = "the-naked-bible"
 note = "Biglino's strict-translational reading of the plural creator material consistent with the chain's created-creators premise."
 
 [[extra.references]]
-id = "the-eden-conspiracy"
+id = "wallis-eden-conspiracy"
 note = "Wallis's accessible recent treatment of the created-creators framework."
 
 [[extra.references]]
