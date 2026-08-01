@@ -1,7 +1,7 @@
 {
   "$schema": "./translation-glossary-schema.json",
   "name": "Wheel of Heaven Translation Glossary",
-  "version": "2.72.0",
+  "version": "2.73.0",
   "released": "2026-07-31",
   "description": "Lexical decisions made by the Wheel of Heaven Translation Program. Distinct from content/i18n/glossary.json, which records site-UI terminology. Each entry records a source-language term, the standard PD-translation rendering, the WoH choice, the rationale, and the verses where the choice applies. Pinned to per-chapter translations via `glossaryVersion` in chapter metadata.",
   "sourceLanguages": [
@@ -430,7 +430,8 @@
       "claim_type": "inferred",
       "rationale": "תַּנִּינִם is the standard Hebrew Bible word for the serpent-dragon class of creatures. BDB s.v. תַּנִּין: 'sea-monster, serpent, dragon'; HALOT: 'sea-monster, dragon, snake'. The lexical core is the serpent-dragon register; the word itself contains no aquatic morpheme — the sea-association in Gen 1:21 is positional (the verse sits between the swarming-waters of v20 and the blessing-of-the-seas of v22), not lexical. KJV renders the same word 'dragon(s)' across the corpus (Deut 32:33, Ps 91:13, Isa 13:22, Isa 27:1, Jer 9:11, Ezek 29:3, Mal 1:3, etc.); only Gen 1:21 gets the euphemistic 'whales'. Modern translations soften to 'sea-monsters' (ASV, NJPS, NRSV) or 'great sea-creatures' (NIV, ESV, Alter) for Gen 1:21 specifically, but the lexical case for the dragon rendering is the same here as in the prophets. The text is explicitly performing a Chaoskampf demythologization at this verse: the same dragon-class beings deified across the ANE — Akkadian Tiamat (etymologically cognate with תְהוֹם tehom in Gen 1:2), Ugaritic Lotan / Hebrew Leviathan, Egyptian Apep — are something Elohim shaped, and the deliberate switch from asah to bara (cf. the bara entry) is the demythologizing move. Translating as 'sea-creatures' obscures the polemic the verse exists to perform. Rendering as 'great dragons' preserves the lexical register and makes the demythologization visible in the translation itself: the reader sees the dragon-class creatures named, and sees Elohim shaping them rather than fighting them. Reclassified from direct to inferred in v2.0.0 because the choice between 'dragons' and the modern translation tradition's 'sea-creatures' / 'sea-monsters' is a genuine interpretive call.",
       "appliesTo": [
-        "GEN-1:21"
+        "GEN-1:21",
+        "ISA-27:1"
       ]
     },
     {
@@ -2241,7 +2242,8 @@
         "GEN-9:16",
         "GEN-17:7",
         "GEN-17:13",
-        "GEN-17:19"
+        "GEN-17:19",
+        "ISA-24:5"
       ]
     },
     {
@@ -3926,7 +3928,8 @@
         "JOB-41:23",
         "JOB-41:24",
         "JOB-41:25",
-        "JOB-41:26"
+        "JOB-41:26",
+        "ISA-27:1"
       ]
     },
     {
@@ -5041,7 +5044,10 @@
         "DEUT-13:18",
         "DEUT-28:63",
         "DEUT-30:5",
-        "ISA-6:9"
+        "ISA-6:9",
+        "ISA-24:3",
+        "ISA-24:19",
+        "ISA-24:20"
       ]
     },
     {
@@ -8650,7 +8656,9 @@
         "GEN-WOH-44:16",
         "ISA-53:5",
         "ISA-53:6",
-        "ISA-53:11"
+        "ISA-53:11",
+        "ISA-26:21",
+        "ISA-27:9"
       ]
     },
     {
@@ -12520,7 +12528,8 @@
         "BCY-WOH-1.3-iii:49",
         "BCY-WOH-1.3-iv:26",
         "BCY-WOH-1.3-iv:27",
-        "BCY-WOH-1.3-iv:28"
+        "BCY-WOH-1.3-iv:28",
+        "ISA-27:1"
       ]
     },
     {
@@ -12559,7 +12568,8 @@
         "BCY-WOH-1.4-viii:26",
         "BCY-WOH-1.4-viii:32",
         "BCY-WOH-1.4-viii:34",
-        "BCY-WOH-1.4-viii:35"
+        "BCY-WOH-1.4-viii:35",
+        "ISA-25:8"
       ]
     },
     {
@@ -12579,7 +12589,8 @@
         "BCY-WOH-1.3-iii:49",
         "BCY-WOH-1.3-iv:26",
         "BCY-WOH-1.3-iv:27",
-        "BCY-WOH-1.3-iv:28"
+        "BCY-WOH-1.3-iv:28",
+        "ISA-27:1"
       ]
     },
     {
@@ -16007,7 +16018,8 @@
       "rationale": "Daniel 12:2-3 is the FOUNDATIONAL explicit-resurrection text in the Hebrew Bible. Earlier resurrection-language (Isa 26:19 + Ezek 37) is metaphorical-corporate (Israel-as-corpse-resurrected). Daniel 12:2 is the first unambiguous individual-eschatological resurrection text. The two-fold structure — some to ḥayyê ʿōlām 'everlasting life' + some to dirʾôn ʿōlām 'shame and everlasting contempt' — establishes the differentiated-resurrection-to-judgment framework that becomes central to all subsequent Jewish + Christian eschatology. The 12:3 'wise shall shine like the brightness of the firmament' + 'those who lead many to righteousness like the stars forever' connects the wise + righteous-leaders (the maskilim of 11:33-35 — the Maccabean-period sages who taught the people despite persecution) to astral-glorification — cross-corpus to: (i) 1 En 104:2 (the righteous shall shine as the lights of heaven); (ii) Mt 13:43 (the righteous shall shine forth as the sun); (iii) Phil 2:15 (Christians shine as stars in the world); (iv) 4Q521 (the Qumran messianic text invoking resurrection). The rabbîm 'many' is philologically ambiguous: does it mean 'all of those sleeping' (inclusive 'many' = 'multitude') or 'some of those sleeping' (limited 'many' = 'a great number')? Scholarly debate is divided — Collins 1993 + Newsom 2014 read inclusive (all); Hartman-Di Lella + Goldingay read limited (some). The WoH translation preserves the ambiguity. **Cross-corpus reception in Second Temple Judaism**: 2 Maccabees 7 (the seven brothers' martyrdom narrative) is the foundational expansion — the brothers explicitly cite resurrection-hope as the basis for their martyrdom. Wisdom of Solomon 3 + 1 Enoch 22, 102-104 + 2 Baruch 30 + 4 Ezra 7 all develop the differentiated-resurrection framework. **Rabbinic reception**: m. Sanhedrin 10:1 makes belief in techiyat ha-metim 'resurrection of the dead' a credal-requirement: 'these have no portion in the world to come: he who says there is no resurrection of the dead from the Torah'. **NT reception**: the Synoptic resurrection-debate (Mk 12:18-27 + parallels) presents Jesus citing Exod 3:6 ('God of Abraham...') to argue for resurrection against the Sadducees — but Daniel 12 was the foundational Jewish text. Jn 5:28-29 directly echoes Dan 12:2: 'all who are in the tombs will hear his voice and come out, those who have done good to a resurrection of life, those who have done evil to a resurrection of judgment'. 1 Cor 15 + 1 Thess 4:16 + Rev 20:5-15 build the Christian resurrection-eschatology on Dan 12. Scholarly anchors: Collins 1993 Hermeneia pp 391-394; Newsom 2014 OTL pp 354-359; Hartman-Di Lella 1978 AB pp 307-310; Goldingay 1989 WBC pp 305-308; G. W. E. Nickelsburg 2006 *Resurrection, Immortality, and Eternal Life in Intertestamental Judaism and Early Christianity*; J. J. Collins 1998 *The Apocalyptic Imagination* ch 4; A. Chester 2007 *Messiah and Exaltation*; J. D. Levenson 2006 *Resurrection and the Restoration of Israel*. **Lens-discipline**: (i) No Christian 'resurrection = bodily resurrection of all the dead at the parousia' pre-resolution on surface — the rabbîm ambiguity is preserved. (ii) No 'resurrection = soul-immortality' pre-resolution. (iii) No Raelian-canon 'resurrection = Elohim-cloning-technology' pre-resolution; this reception is acknowledged at apparatus level.",
       "appliesTo": [
         "DAN-WOH-12:2",
-        "DAN-WOH-12:3"
+        "DAN-WOH-12:3",
+        "ISA-26:19"
       ]
     },
     {
