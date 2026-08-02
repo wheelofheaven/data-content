@@ -161,7 +161,7 @@ the sum and trajectory of all of them.
 Other names would serve, and each catches something the others miss. The
 plainest is **civilizational biology** — the label a reader raised on
 *sociobiology* and *astrobiology* reaches for first. Another is
-**macrobiology**, and its symmetry is exact enough to be worth pausing on:
+[**macrobiology**](/articles/macrobiology/), and its symmetry is exact enough to be worth pausing on:
 microbiology studies the cell and the units of its scale, so a
 macrobiology would study the systems *composed of* biological units the way
 a cell is composed of microbiological ones — humanity standing to the human

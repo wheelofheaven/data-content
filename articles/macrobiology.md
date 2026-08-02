@@ -3,7 +3,7 @@ title = "Macrobiology"
 description = "Its companion named the discipline and kept 'morphology' in front. This Explainer argues the honest name is macrobiology — because the whole is alive."
 template = "articles-page.html"
 date = 2026-08-02
-draft = true
+draft = false
 
 [extra]
 claim_type = "speculative"
