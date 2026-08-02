@@ -13,6 +13,7 @@ claim_type = "framework"
 alternative_names = ["the cosmic chain", "the chain of creation", "the cosmic chain of creation", "the recurring cosmic process", "the cosmic creative cycle", "the cycle of creators"]
 timeline = ["pre-creation", "aries", "pisces", "aquarius", "post-aquarius"]
 see_also = [
+    { title = "Macrobiology", path = "wiki/macrobiology", description = "Humanity read as an organism one scale up, propagating along the chain of created-and-creating civilizations." },
     { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "The specific evaluation phase within the broader Cosmic Chain — the inheritance-qualification assessment." },
     { title = "Elohim", path = "wiki/elohim", description = "The creator civilization that discovered, during the Aries age, that it had itself been created." },
     { title = "Apocalypse", path = "wiki/apocalypse", description = "The Aquarian-age inheritance evaluation — the present-day phase of the chain for Earth's humanity." },

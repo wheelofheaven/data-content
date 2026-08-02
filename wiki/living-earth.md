@@ -13,6 +13,7 @@ claim_type = "framework"
 alternative_names = ["the Living Cosmos", "Earth as a living being", "the planetary-organism claim", "universal aliveness"]
 timeline = ["all-ages"]
 see_also = [
+    { title = "Macrobiology", path = "wiki/macrobiology", description = "The discipline studying living systems one scale up — humanity as an organism — extending the Living Earth claim from the planet to the species." },
     { title = "Infinity", path = "wiki/infinity", description = "The foundational cosmology on which the Living Earth claim rests." },
     { title = "Fractal Cosmology", path = "wiki/fractal-cosmology", description = "The spatial self-similarity within which each scale hosts living beings." },
     { title = "Mass Effect", path = "wiki/mass-effect", description = "The time-scaling that explains why Earth's life is imperceptible to humans." },
@@ -181,7 +182,10 @@ The strong-Gaia version of the idea drew sharp criticism from neo-Darwinian
 biologists, who argued that natural selection acts on competing individuals and
 genes, not on a single planet that has no population to be selected among and no
 lineage of rival variants. Earth-system science kept the regulatory insight and
-dropped the organism.
+dropped the organism. The corpus's {% wiki(slug="macrobiology") %}macrobiology{% end %}
+entry answers this objection directly, arguing that the canon supplies exactly what
+the critics find missing — a population of created worlds under a «natural
+selection, on the cosmic scale».
 
 The framework's own defence — that Earth's life is imperceptible to us because of
 the Mass Effect — is, from a critical standpoint, also its exposure: a claim built

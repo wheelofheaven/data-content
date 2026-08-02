@@ -13,6 +13,7 @@ claim_type = "framework"
 alternative_names = ["the cosmic competition", "the cosmic competition framework", "the inheritance evaluation", "the parallel-humanities framework", "the multiple-worlds creation framework"]
 timeline = ["aries", "pisces", "aquarius"]
 see_also = [
+    { title = "Macrobiology", path = "wiki/macrobiology", description = "The biology of the whole: Cosmic Competition supplies the population of created humanities that a science of planetary organisms requires." },
     { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The broader recurring creation pattern of which this competition is one iteration." },
     { title = "Jesus", path = "wiki/jesus", description = "Whose parable of the sower the corpus reads as the explicit articulation of the parallel-humanities framework." },
     { title = "Apocalypse", path = "wiki/apocalypse", description = "The broader unveiling event distinguished from the inheritance-evaluation this framework describes." },

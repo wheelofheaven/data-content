@@ -13,6 +13,7 @@ entry_type = "concept"
 alternative_names = ["astrobiology", "exobiology (earlier synonymous term)", "bioastronomy", "xenobiology (related but distinct)", "astrobiologie (French)", "Astrobiologie (German)"]
 timeline = ["age-of-aquarius"]
 see_also = [
+    { title = "Macrobiology", path = "wiki/macrobiology", description = "The sister discipline: where astrobiology studies life in the universe, macrobiology studies life as the universe's larger living units." },
     { title = "Elohim Home Planet", path = "wiki/elohim-home-planet", description = "The world the framework offers as astrobiology's missing second example of life." },
     { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The adjacent tradition reading historical rather than contemporary evidence for contact." },
     { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The framework's account of civilizations seeding life, the setting for its directed-panspermia reading." },

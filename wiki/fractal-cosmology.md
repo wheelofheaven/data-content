@@ -13,6 +13,7 @@ claim_type = "framework"
 alternative_names = ["fractal cosmos", "the fractal-self-similar cosmology", "the infinite-hierarchical cosmology", "the nested-cosmos framework", "the scale-invariant cosmology"]
 timeline = ["all-ages"]
 see_also = [
+    { title = "Macrobiology", path = "wiki/macrobiology", description = "The study of the living systems on one rung of the fractal ladder: humanity to the human as the human to the cell." },
     { title = "Mass Effect", path = "wiki/mass-effect", description = "The sister framework addressing the temporal dimension of the same self-similar cosmology." },
     { title = "Infinity", path = "wiki/infinity", description = "The broader framework of which fractal cosmology is the spatial dimension." },
     { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The nested hierarchy of beings that populates the infinite scale ladder." },

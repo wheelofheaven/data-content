@@ -13,6 +13,7 @@ claim_type = "speculative"
 alternative_names = ["the Mass Effect", "the Law of Masstime", "the law of subjective time", "the time-mass relationship", "the scale-time correspondence"]
 timeline = ["all-ages"]
 see_also = [
+    { title = "Macrobiology", path = "wiki/macrobiology", description = "The biology of the whole — humanity as an organism one rung up the ladder of living scales whose time-scaling the Mass Effect describes." },
     { title = "Infinity", path = "wiki/infinity", description = "The foundational framework of which the Mass Effect is the temporal-scaling dimension." },
     { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The civilizational-succession framework the source passage connects the law to." },
     { title = "Yahweh", path = "wiki/yahweh", description = "The Elohim figure whose 1975 source-material statement establishes the law." },

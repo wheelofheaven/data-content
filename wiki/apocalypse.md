@@ -14,6 +14,7 @@ claim_type = "framework"
 alternative_names = ["Revelation", "ἀποκάλυψις", "Age of Apocalypse", "Age of Revelation"]
 timeline = ["aquarius"]
 see_also = [
+    { title = "Macrobiology", path = "wiki/macrobiology", description = "The biology of humanity-as-organism, for which 1945 marks the planetary nervous system switching on." },
     { title = "Golden Age", path = "wiki/golden-age", description = "The civilizational outcome the Apocalypse opens toward once the transition is navigated." },
     { title = "Prophet", path = "wiki/prophet", description = "The tradition whose cumulative work the Apocalypse brings to culmination." },
     { title = "Embassy", path = "wiki/embassy", description = "The planned open return made operationally possible during this period." },

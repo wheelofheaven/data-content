@@ -14,6 +14,7 @@ entry_type = "concept"
 alternative_names = ["macrobiology", "civilizational biology", "the biology of the whole", "macro-scale biology", "macrobiologie (French)", "Makrobiologie (German)"]
 timeline = ["age-of-aquarius"]
 see_also = [
+    { title = "Living Earth", path = "wiki/living-earth", description = "The sibling claim that the planet itself is a literal living being; macrobiology extends the aliveness from the planet to the species." },
     { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "The population of created humanities that supplies what the Gaia hypothesis lacked — a set of planetary organisms undergoing selection." },
     { title = "Saṃsāra", path = "wiki/samsara", description = "The failure mode of the macrobiological transition: the organism can miscarry and the gestation begin again." },
     { title = "Mass Effect", path = "wiki/mass-effect", description = "Why the larger living body's clock runs too slow for its cells to feel it living beneath them." },

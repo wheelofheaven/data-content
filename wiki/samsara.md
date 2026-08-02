@@ -13,6 +13,7 @@ claim_type = "framework"
 alternative_names = ["Saṃsāra (Sanskrit संसार, Pali saṃsāra)", "the Wheel of Life (Bhavacakra)", "the cycle of birth, death, and rebirth", "the cycle of reincarnation", "cyclic existence", "the cycle (Vorilhon source designation)"]
 timeline = ["multi-age"]
 see_also = [
+    { title = "Macrobiology", path = "wiki/macrobiology", description = "The biology of humanity-as-organism, for which saṃsāra is the failure mode — the transition that miscarries before it completes." },
     { title = "Swastika", path = "wiki/swastika", description = "The cycle-symbol the corpus reads as preserving the saṃsāra pattern." },
     { title = "Golden Age", path = "wiki/golden-age", description = "The corpus rereading of Buddhist awakening as escape from the civilizational cycle." },
     { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "The cosmic-level selection that sorts species escaping versus falling back into the cycle." },

@@ -747,6 +747,8 @@ forever becoming low and the low forever becoming high.
   cosmology, theology, and ethics.
 - [Fractal Cosmology](/wiki/fractal-cosmology/) — the spatial dimension of
   Infinity, and the full dossier on the galaxy-distribution debate.
+- [Macrobiology](/wiki/macrobiology/) — the biology one rung up this ladder:
+  humanity read as a single living organism, the human standing to the cell.
 - [The Raëlian Symbol of Infinity](/wiki/raelian-symbol-of-infinity/) — the
   emblem itself, and the history of the two symbols it joins.
 - [*Extra-Terrestrials Took Me to Their Planet*](/library/extraterrestrials-took-me-to-their-planet/),

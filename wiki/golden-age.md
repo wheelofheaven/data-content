@@ -13,6 +13,7 @@ claim_type = "framework"
 alternative_names = ["the awaited Golden Age", "the Golden Age of civilization", "the earthly paradise", "the Golden Age of interplanetary civilization"]
 timeline = ["age-of-aquarius", "post-aquarius"]
 see_also = [
+    { title = "Macrobiology", path = "wiki/macrobiology", description = "The completed major transition in individuality — humanity carried to a coherent global organism, read biologically." },
     { title = "Apocalypse", path = "wiki/apocalypse", description = "The threshold-revelation moment that may inaugurate the Golden Age or its catastrophic alternative." },
     { title = "Eden", path = "wiki/eden", description = "The originary lab read as the historical Golden Age the future realization recovers." },
     { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The succession framework within which Golden Age maturation operates as one stage." },
