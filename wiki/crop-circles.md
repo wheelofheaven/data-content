@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q193330", "https://en.wikipedia.org/wiki/Crop_circle"]
+same_as = ["https://www.wikidata.org/wiki/Q193330", "https://en.wikipedia.org/wiki/Crop_circle", "https://www.britannica.com/art/crop-circle"]
 editorial_pass = "2026-07"
 claim_type = "speculative"
 category = "Ufology"

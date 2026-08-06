@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q4398", "https://en.wikipedia.org/wiki/Pangaea"]
+same_as = ["https://www.wikidata.org/wiki/Q4398", "https://en.wikipedia.org/wiki/Pangaea", "https://www.britannica.com/place/Pangea"]
 image = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.avif"
 image_alt = "A single vast supercontinent surrounded by one world-ocean, seen from high altitude — the antediluvian landmass."

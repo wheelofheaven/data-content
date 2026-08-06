@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q220890", "https://en.wikipedia.org/wiki/Book_of_Enoch"]
+same_as = ["https://www.wikidata.org/wiki/Q220890", "https://en.wikipedia.org/wiki/Book_of_Enoch", "https://www.britannica.com/topic/First-Book-of-Enoch"]
 category = "Texts & Sources"
 entry_type = "text"
 claim_type = "framework"

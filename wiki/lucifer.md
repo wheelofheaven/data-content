@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q185498", "https://en.wikipedia.org/wiki/Lucifer"]
+same_as = ["https://www.wikidata.org/wiki/Q185498", "https://en.wikipedia.org/wiki/Lucifer", "https://www.britannica.com/topic/Lucifer-classical-mythology"]
 category = "Biblical Figures"
 editorial_pass = "2026-07"
 claim_type = "framework"

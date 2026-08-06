@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q81422", "https://en.wikipedia.org/wiki/Noah"]
+same_as = ["https://www.wikidata.org/wiki/Q81422", "https://en.wikipedia.org/wiki/Noah", "https://www.britannica.com/topic/Noah", "https://viaf.org/viaf/11187922"]
 category = "Biblical Figures"
 claim_type = "framework"
 editorial_pass = "2026-07"

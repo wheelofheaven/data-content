@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q169613", "https://en.wikipedia.org/wiki/Zecharia_Sitchin"]
+same_as = ["https://www.wikidata.org/wiki/Q169613", "https://en.wikipedia.org/wiki/Zecharia_Sitchin", "https://viaf.org/viaf/5720310"]
 category = "Methodology"
 entry_type = "biographical"
 claim_type = "direct"

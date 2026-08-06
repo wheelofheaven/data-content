@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q130958", "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza"]
+same_as = ["https://www.wikidata.org/wiki/Q130958", "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza", "https://www.britannica.com/place/Great-Sphinx", "https://pleiades.stoa.org/places/536839380"]
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "site"

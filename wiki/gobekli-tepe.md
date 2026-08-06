@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q214944", "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe"]
+same_as = ["https://www.wikidata.org/wiki/Q214944", "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe", "https://www.britannica.com/place/Gobekli-Tepe", "https://viaf.org/viaf/247424754", "https://pleiades.stoa.org/places/245438984"]
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "site"

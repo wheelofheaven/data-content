@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q3174611", "https://en.wikipedia.org/wiki/Jean_Sendy"]
+same_as = ["https://www.wikidata.org/wiki/Q3174611", "https://en.wikipedia.org/wiki/Jean_Sendy", "https://viaf.org/viaf/59089162"]
 category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "biographical"

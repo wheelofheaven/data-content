@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q41532", "https://en.wikipedia.org/wiki/Carl_Jung"]
+same_as = ["https://www.wikidata.org/wiki/Q41532", "https://en.wikipedia.org/wiki/Carl_Jung", "https://www.britannica.com/biography/Carl-Jung", "https://viaf.org/viaf/88819182"]
 category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "biographical"

@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q370235", "https://en.wikipedia.org/wiki/Graham_Hancock"]
+same_as = ["https://www.wikidata.org/wiki/Q370235", "https://en.wikipedia.org/wiki/Graham_Hancock", "https://viaf.org/viaf/110640834"]
 category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "biographical"

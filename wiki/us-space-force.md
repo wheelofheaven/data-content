@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q55088961", "https://en.wikipedia.org/wiki/United_States_Space_Force"]
+same_as = ["https://www.wikidata.org/wiki/Q55088961", "https://en.wikipedia.org/wiki/United_States_Space_Force", "https://viaf.org/viaf/40155563945613000194"]
 editorial_pass = "2026-07"
 claim_type = "direct"
 category = "Ufology"

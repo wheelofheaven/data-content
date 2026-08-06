@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q40540", "https://en.wikipedia.org/wiki/Zodiac"]
+same_as = ["https://www.wikidata.org/wiki/Q40540", "https://en.wikipedia.org/wiki/Zodiac", "https://www.britannica.com/topic/zodiac"]
 category = "Cosmic Chronology"
 editorial_pass = "2026-07"
 entry_type = "concept"

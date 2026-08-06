@@ -7,7 +7,7 @@ aliases = ["/wiki/tree-of-knowledge/"]
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q639789", "https://en.wikipedia.org/wiki/Tree_of_the_knowledge_of_good_and_evil"]
+same_as = ["https://www.wikidata.org/wiki/Q639789", "https://en.wikipedia.org/wiki/Tree_of_the_knowledge_of_good_and_evil", "https://www.britannica.com/topic/tree-of-knowledge"]
 editorial_pass = "2026-07"
 claim_type = "framework"
 category = "Symbolism & Motifs"

@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q19014", "https://en.wikipedia.org/wiki/Garden_of_Eden"]
+same_as = ["https://www.wikidata.org/wiki/Q19014", "https://en.wikipedia.org/wiki/Garden_of_Eden", "https://www.britannica.com/topic/Garden-of-Eden"]
 featured_order = 7
 category = "Places & Locations"
 editorial_pass = "2026-05"

@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q45513", "https://en.wikipedia.org/wiki/Swastika"]
+same_as = ["https://www.wikidata.org/wiki/Q45513", "https://en.wikipedia.org/wiki/Swastika", "https://www.britannica.com/topic/swastika"]
 category = "Symbolism & Motifs"
 editorial_pass = "2026-07"
 entry_type = "concept"

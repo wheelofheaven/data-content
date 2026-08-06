@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q9174", "https://en.wikipedia.org/wiki/Religion"]
+same_as = ["https://www.wikidata.org/wiki/Q9174", "https://en.wikipedia.org/wiki/Religion", "https://www.britannica.com/topic/religion", "https://plato.stanford.edu/entries/concept-religion/"]
 category = "Theology & Traditions"
 editorial_pass = "2026-07"
 entry_type = "concept"

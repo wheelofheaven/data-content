@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q192677", "https://en.wikipedia.org/wiki/Leviathan"]
+same_as = ["https://www.wikidata.org/wiki/Q192677", "https://en.wikipedia.org/wiki/Leviathan", "https://www.britannica.com/topic/Leviathan-Middle-Eastern-mythology", "https://viaf.org/viaf/958162783899366280009"]
 redirect_to = { title = "Serpent", path = "/wiki/serpent/" }
 category = "Symbolism & Motifs"
 timeline = ["gemini"]

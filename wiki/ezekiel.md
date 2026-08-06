@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q194064", "https://en.wikipedia.org/wiki/Ezekiel"]
+same_as = ["https://www.wikidata.org/wiki/Q194064", "https://en.wikipedia.org/wiki/Ezekiel", "https://www.britannica.com/biography/Ezekiel-Hebrew-prophet", "https://viaf.org/viaf/149799338"]
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "biographical"

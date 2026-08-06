@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q29334", "https://en.wikipedia.org/wiki/Septuagint"]
+same_as = ["https://www.wikidata.org/wiki/Q29334", "https://en.wikipedia.org/wiki/Septuagint", "https://www.britannica.com/topic/Septuagint", "https://viaf.org/viaf/295128581"]
 category = "Texts & Sources"
 entry_type = "text"
 claim_type = "direct"

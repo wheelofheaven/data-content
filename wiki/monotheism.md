@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q9159", "https://en.wikipedia.org/wiki/Monotheism"]
+same_as = ["https://www.wikidata.org/wiki/Q9159", "https://en.wikipedia.org/wiki/Monotheism", "https://www.britannica.com/topic/monotheism", "https://plato.stanford.edu/entries/monotheism/"]
 category = "Theology & Traditions"
 entry_type = "concept"
 claim_type = "inferred"

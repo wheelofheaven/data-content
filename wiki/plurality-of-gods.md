@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q9163", "https://en.wikipedia.org/wiki/Polytheism"]
+same_as = ["https://www.wikidata.org/wiki/Q9163", "https://en.wikipedia.org/wiki/Polytheism", "https://www.britannica.com/topic/polytheism"]
 category = "Cosmology & Framework"
 claim_type = "framework"
 editorial_pass = "2026-07"

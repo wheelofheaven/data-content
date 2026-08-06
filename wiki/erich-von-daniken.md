@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q122965", "https://en.wikipedia.org/wiki/Erich_von_D%C3%A4niken"]
+same_as = ["https://www.wikidata.org/wiki/Q122965", "https://en.wikipedia.org/wiki/Erich_von_D%C3%A4niken", "https://viaf.org/viaf/109457153"]
 category = "Methodology"
 entry_type = "biographical"
 claim_type = "direct"

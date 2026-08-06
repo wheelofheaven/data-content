@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q270860", "https://en.wikipedia.org/wiki/Sumerian_King_List"]
+same_as = ["https://www.wikidata.org/wiki/Q270860", "https://en.wikipedia.org/wiki/Sumerian_King_List", "https://www.britannica.com/topic/The-Sumerian-King-List"]
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"

@@ -7,7 +7,7 @@ toc = true
 aliases = ["/intro/extraterrestrial-civilization/"]
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q868915", "https://en.wikipedia.org/wiki/Elohim"]
+same_as = ["https://www.wikidata.org/wiki/Q868915", "https://en.wikipedia.org/wiki/Elohim", "https://www.britannica.com/topic/Elohim"]
 featured_order = 1
 category = "Elohim"
 editorial_pass = "2026-05"

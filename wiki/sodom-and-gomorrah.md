@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-same_as = ["https://www.wikidata.org/wiki/Q180141", "https://en.wikipedia.org/wiki/Sodom_and_Gomorrah"]
+same_as = ["https://www.wikidata.org/wiki/Q180141", "https://en.wikipedia.org/wiki/Sodom_and_Gomorrah", "https://www.britannica.com/place/Sodom-and-Gomorrah"]
 category = "Events & Narratives"
 claim_type = "framework"
 editorial_pass = "2026-07"
