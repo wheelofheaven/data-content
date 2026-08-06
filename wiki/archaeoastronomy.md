@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q463923", "https://en.wikipedia.org/wiki/Archaeoastronomy"]
 category = "Methodology"
 claim_type = "inferred"
 editorial_pass = "2026-07"

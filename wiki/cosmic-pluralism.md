@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q541598", "https://en.wikipedia.org/wiki/Cosmic_pluralism"]
 category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"

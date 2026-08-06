@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q380669", "https://en.wikipedia.org/wiki/Masoretic_Text"]
 category = "Texts & Sources"
 entry_type = "text"
 claim_type = "direct"

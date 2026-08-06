@@ -7,6 +7,7 @@ toc = true
 aliases = ["/wiki/age-of-apocalypse/"]
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q696203", "https://en.wikipedia.org/wiki/Apocalypse"]
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "concept"

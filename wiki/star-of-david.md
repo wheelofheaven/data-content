@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q161396", "https://en.wikipedia.org/wiki/Star_of_David"]
 category = "Symbolism & Motifs"
 claim_type = "framework"
 editorial_pass = "2026-07"

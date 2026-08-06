@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q1276385", "https://en.wikipedia.org/wiki/Geniocracy"]
 category = "Raëlism"
 claim_type = "framework"
 editorial_pass = "2026-07"

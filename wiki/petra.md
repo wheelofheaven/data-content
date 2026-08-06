@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q5788", "https://en.wikipedia.org/wiki/Petra"]
 image = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.avif"
 image_alt = "The rock-cut Nabataean façades of Petra in rose-red sandstone, carved into a canyon cliff under low golden light."

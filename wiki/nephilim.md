@@ -7,6 +7,7 @@ toc = true
 aliases = ["/wiki/sons-of-elohim/"]
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q747737", "https://en.wikipedia.org/wiki/Nephilim"]
 category = "Peoples & Groups"
 editorial_pass = "2026-05"
 claim_type = "framework"

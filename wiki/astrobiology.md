@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q411", "https://en.wikipedia.org/wiki/Astrobiology"]
 editorial_pass = "2026-07"
 claim_type = "direct"
 category = "Science & Technology"

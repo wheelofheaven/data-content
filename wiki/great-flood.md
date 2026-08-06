@@ -7,6 +7,7 @@ toc = true
 aliases = ["/wiki/deluge/"]
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q134052", "https://en.wikipedia.org/wiki/Flood_myth"]
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"

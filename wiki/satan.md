@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q35230", "https://en.wikipedia.org/wiki/Satan"]
 category = "Elohim"
 editorial_pass = "2026-07"
 entry_type = "figure"

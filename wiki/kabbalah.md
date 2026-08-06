@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q123006", "https://en.wikipedia.org/wiki/Kabbalah"]
 category = "Texts & Sources"
 editorial_pass = "2026-07"
 entry_type = "text"

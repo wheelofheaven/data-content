@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q9174", "https://en.wikipedia.org/wiki/Religion"]
 category = "Theology & Traditions"
 editorial_pass = "2026-07"
 entry_type = "concept"

@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q41213", "https://en.wikipedia.org/wiki/Tower_of_Babel"]
 redirect_to = { title = "Babel", path = "/wiki/babel/" }
 category = "Events & Narratives"
 alternative_names = ["Mīgdal Bāḇel", "מִגְדַּל בָּבֶל"]

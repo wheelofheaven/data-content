@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q238526", "https://en.wikipedia.org/wiki/Golden_Age"]
 category = "Cosmic Chronology"
 editorial_pass = "2026-07"
 entry_type = "concept"

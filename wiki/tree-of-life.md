@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q4746911", "https://en.wikipedia.org/wiki/Tree_of_life_%28biblical%29"]
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 claim_type = "framework"

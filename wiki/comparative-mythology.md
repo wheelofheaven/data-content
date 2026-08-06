@@ -7,6 +7,7 @@ toc = true
 aliases = ["/intro/religious-syncretism/"]
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q640280", "https://en.wikipedia.org/wiki/Comparative_mythology"]
 category = "Methodology"
 claim_type = "speculative"
 editorial_pass = "2026-07"

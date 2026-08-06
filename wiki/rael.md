@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q1190688", "https://en.wikipedia.org/wiki/Ra%C3%ABl"]
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "figure"

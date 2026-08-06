@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q173324", "https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra"]
 category = "Cosmic Chronology"
 editorial_pass = "2026-07"
 entry_type = "concept"

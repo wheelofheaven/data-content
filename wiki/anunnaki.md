@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q676379", "https://en.wikipedia.org/wiki/Anunnaki"]
 category = "Elohim"
 entry_type = "civilization"
 claim_type = "framework"

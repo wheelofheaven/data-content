@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q9288", "https://en.wikipedia.org/wiki/Hebrew_language"]
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "text"

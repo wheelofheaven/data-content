@@ -7,6 +7,7 @@ toc = true
 aliases = ["/intro/ufology/"]
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q219611", "https://en.wikipedia.org/wiki/Ufology"]
 editorial_pass = "2026-07"
 claim_type = "direct"
 category = "Ufology"

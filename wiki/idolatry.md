@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q840665", "https://en.wikipedia.org/wiki/Idolatry"]
 category = "Theology & Traditions"
 entry_type = "concept"
 claim_type = "framework"

@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q16735538", "https://en.wikipedia.org/wiki/Mauro_Biglino"]
 category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "biographical"

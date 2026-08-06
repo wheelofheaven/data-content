@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q136618973", "https://en.wikipedia.org/wiki/Noahic_Covenant"]
 category = "Events & Narratives"
 claim_type = "framework"
 editorial_pass = "2026-07"

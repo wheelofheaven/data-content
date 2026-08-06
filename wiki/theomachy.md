@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q2419033", "https://en.wikipedia.org/wiki/Theomachy"]
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"

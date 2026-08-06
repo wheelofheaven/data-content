@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q2469326", "https://en.wikipedia.org/wiki/Watcher_%28angel%29"]
 category = "Peoples & Groups"
 editorial_pass = "2026-05"
 entry_type = "concept"

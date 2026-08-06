@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q583915", "https://en.wikipedia.org/wiki/Sacred_geometry"]
 category = "Symbolism & Motifs"
 claim_type = "speculative"
 editorial_pass = "2026-07"

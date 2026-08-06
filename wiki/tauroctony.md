@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q1138068", "https://en.wikipedia.org/wiki/Tauroctony"]
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "symbol"

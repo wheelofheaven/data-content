@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q10862179", "https://en.wikipedia.org/wiki/Great_Year"]
 featured_order = 6
 redirect_to = { title = "World Age", path = "/wiki/world-age/" }
 category = "Cosmic Chronology"

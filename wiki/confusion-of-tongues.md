@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q4120380", "https://en.wikipedia.org/wiki/Confusion_of_tongues"]
 redirect_to = { title = "Babel", path = "/wiki/babel/" }
 category = "Events & Narratives"
 alternative_names = ["Confusio linguarum"]

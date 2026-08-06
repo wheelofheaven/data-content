@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q862838", "https://en.wikipedia.org/wiki/Synthetic_biology"]
 category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"

@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q253855", "https://en.wikipedia.org/wiki/Mytheme"]
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"

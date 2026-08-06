@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q180316", "https://en.wikipedia.org/wiki/Drake_equation"]
 editorial_pass = "2026-07"
 claim_type = "direct"
 category = "Science & Technology"

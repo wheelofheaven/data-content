@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q1415267", "https://en.wikipedia.org/wiki/Third_Temple"]
 image = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.avif"
 image_alt = "A serene walled temple-and-residence complex on a height, with ordered courts, in evening light."

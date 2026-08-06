@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q159236", "https://en.wikipedia.org/wiki/Genetic_engineering"]
 category = "Science & Technology"
 editorial_pass = "2026-07"
 entry_type = "concept"

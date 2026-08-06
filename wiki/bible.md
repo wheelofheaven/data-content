@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q1845", "https://en.wikipedia.org/wiki/Bible"]
 redirect_to = { title = "Hebrew Bible", path = "/wiki/hebrew-bible/" }
 category = "Theology & Traditions"
 alternative_names = ["Tanakh"]

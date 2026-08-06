@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q131316", "https://en.wikipedia.org/wiki/Ark_of_the_Covenant"]
 category = "Symbolism & Motifs"
 claim_type = "framework"
 editorial_pass = "2026-07"

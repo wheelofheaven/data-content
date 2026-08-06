@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q130958", "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza"]
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "site"

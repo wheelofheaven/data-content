@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q58701", "https://en.wikipedia.org/wiki/Adam_and_Eve"]
 category = "Biblical Figures"
 editorial_pass = "2026-07"
 claim_type = "framework"

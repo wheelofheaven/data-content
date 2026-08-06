@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q83094", "https://en.wikipedia.org/wiki/Axial_precession"]
 featured_order = 5
 redirect_to = { title = "World Age", path = "/wiki/world-age/" }
 category = "Cosmic Chronology"

@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q220594", "https://en.wikipedia.org/wiki/Nabataeans"]
 category = "Peoples & Groups"
 editorial_pass = "2026-05"
 entry_type = "people"

@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q7559", "https://en.wikipedia.org/wiki/Dragon"]
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"

@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q41188", "https://en.wikipedia.org/wiki/Adamites"]
 see_also = [{ title = "Adam and Eve", path = "/wiki/adam-and-eve/" }]
 category = "Peoples & Groups"
 editorial_pass = "2026-05"

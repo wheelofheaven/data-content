@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q9184", "https://en.wikipedia.org/wiki/Book_of_Genesis"]
 featured_order = 8
 category = "Texts & Sources"
 editorial_pass = "2026-05"

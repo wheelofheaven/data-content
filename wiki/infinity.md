@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q205", "https://en.wikipedia.org/wiki/Infinity"]
 category = "Cosmology & Framework"
 editorial_pass = "2026-07"
 entry_type = "concept"

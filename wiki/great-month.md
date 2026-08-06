@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q15027185", "https://en.wikipedia.org/wiki/Astrological_age"]
 see_also = [
     { title = "World Age", path = "/wiki/world-age/" },
     { title = "Great Year", path = "wiki/great-year", description = "The full precessional cycle, and the 432,000 count across Berossus, the Rigveda, Valhalla, and Angkor." },

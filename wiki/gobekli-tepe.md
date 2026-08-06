@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q214944", "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe"]
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "site"

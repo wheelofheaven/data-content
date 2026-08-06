@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q81422", "https://en.wikipedia.org/wiki/Noah"]
 category = "Biblical Figures"
 claim_type = "framework"
 editorial_pass = "2026-07"

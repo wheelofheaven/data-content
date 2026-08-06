@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q145780", "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls"]
 category = "Texts & Sources"
 entry_type = "text"
 claim_type = "inferred"
