@@ -2,12 +2,15 @@
 title = "Council of the Eternals"
 slug = "council-of-the-eternals"
 aliases = ["/wiki/council-of-eternals/"]
-description = "The Council of the Eternals is the principal governing body of the Elohim civilization — a 700-member political authority composed of the senior eternals, individuals who have undergone the cloning-and-memory-transfer technology that produces practical immortality on the home world. The Council sits on the second smaller planet of the alliance home system (the Planet of the Eternals) where its members reside alongside approximately 8,400 resurrected humans. The Council has been continuously presided over by Yahweh across approximately 25,000 years and has been the executive authority for the entire Earth project from its inauguration in the Age of Capricorn through the present Aquarian-age preparation for the open return."
+description = "The Council of the Eternals is the 700-member governing body of the Elohim, presided over by Yahweh — the executive of the Earth project in the Raëlian canon."
 template = "wiki-page.html"
 toc = true
 
 [extra]
 category = "Cosmology & Framework"
+summary = "The Council of the Eternals is the principal governing body of the Elohim civilization: a 700-member political authority of senior Eternals — individuals kept practically immortal through cloning-and-memory-transfer. It sits on the Planet of the Eternals, the second smaller planet of the alliance home system, where its members live alongside roughly 8,400 resurrected humans. Yahweh has presided over it for approximately 25,000 years, and every major decision of the Earth project — from its Capricorn-age inauguration to the present Aquarian-age preparation for the open return — has passed through it."
+tldr = "The Elohim's 700-member governing council, presided over by Yahweh, which has directed the Earth project for roughly 25,000 years."
+keywords = ["Council of the Eternals", "Council of Eternals", "divine council", "Yahweh", "Elohim government", "Planet of the Eternals"]
 editorial_pass = "2026-07"
 entry_type = "civilization"
 claim_type = "framework"
