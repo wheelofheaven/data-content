@@ -1,6 +1,6 @@
 +++
 title = "Divine-Council Index"
-description = "A comparative CC0 index of the divine council across the ancient traditions — presiding figure, council term, members, function, and primary reference, with links to the digitized texts. CSV and JSON."
+description = "A comparative table of divine councils across the ancient religions — presiding figure, council term, members, function. Machine-readable CC0 CSV and JSON."
 template = "dataset-page.html"
 
 [extra]

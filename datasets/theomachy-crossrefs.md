@@ -1,6 +1,6 @@
 +++
 title = "Theomachy Cross-References"
-description = "A comparative CC0 dataset of the combat myth (chaoskampf) across the ancient traditions — champion, adversary, chaos form, weapon, outcome, reference — with links to the digitized texts. CSV and JSON."
+description = "A CC0 dataset of combat myths (chaoskampf) across cultures — champion, adversary, chaos form, weapon, outcome. Machine-readable CSV and JSON download."
 template = "dataset-page.html"
 
 [extra]

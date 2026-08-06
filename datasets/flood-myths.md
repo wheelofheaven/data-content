@@ -1,6 +1,6 @@
 +++
 title = "Flood-Myth Concordance"
-description = "A comparative CC0 dataset of the ancient flood traditions — survivor, decreeing power, warner, cause, vessel, birds, landing place, aftermath — with links to the digitized source texts. CSV and JSON."
+description = "A machine-readable, comparative CC0 dataset of eight ancient flood myths — survivor, warner, cause, vessel, landing, aftermath. Download as CSV or JSON."
 template = "dataset-page.html"
 
 [extra]
@@ -8,7 +8,7 @@ dataset_name = "Wheel of Heaven Flood-Myth Concordance"
 license = "CC0-1.0"
 license_url = "https://creativecommons.org/publicdomain/zero/1.0/"
 updated = "2026-07"
-keywords = ["flood myth", "deluge", "comparative mythology", "ancient Near East", "Atrahasis", "Gilgamesh", "Genesis flood", "digital humanities"]
+keywords = ["flood myth dataset", "machine-readable", "deluge", "comparative mythology data", "ancient Near East", "Atrahasis", "Gilgamesh", "Genesis flood", "digital humanities", "open data", "CC0 download"]
 
 stats = [
     { label = "Traditions", value = "8" },
