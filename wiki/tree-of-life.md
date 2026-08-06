@@ -1,14 +1,17 @@
 +++
 title = "Tree of Life"
 slug = "tree-of-life"
-description = "The Tree of Life (Hebrew: עֵץ הַחַיִּים, ʿēṣ ha-ḥayyîm) is the figure introduced at Genesis 2:9 as one of the two named trees in the garden of Eden, alongside the Tree of the Knowledge of Good and Evil. The Tree of Life appears in the Genesis narrative as the source of extended life that, after the Eden disclosure, was barred from human access by the cherubim and the flaming sword. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Tree of Life is read as a specific historical biotechnology: the cellular-extension technique that the Elohim civilization developed to extend natural lifespan, granted on a limited basis to specific Eden-lineage patriarchal leaders during the antediluvian period (producing the recorded lifespans of 930 years for Adam, 969 for Methuselah, 950 for Noah) and operating in its mature form on the home world as the cloning-and-memory-transfer technology that produces the practical immortality of the Council of the Eternals."
+description = "What is the Tree of Life? The Genesis 2:9 tree of Eden, read in the Raëlian canon as the Elohim's life-extension biotechnology behind the patriarchal lifespans."
 template = "wiki-page.html"
 toc = true
 
 [extra]
+summary = "The Tree of Life (Hebrew: עֵץ הַחַיִּים, ʿēṣ ha-ḥayyîm) is the figure introduced at Genesis 2:9 as one of the two named trees in the garden of Eden, alongside the Tree of the Knowledge of Good and Evil. The Tree of Life appears in the Genesis narrative as the source of extended life that, after the Eden disclosure, was barred from human access by the cherubim and the flaming sword. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Tree of Life is read as a specific historical biotechnology: the cellular-extension technique that the Elohim civilization developed to extend natural lifespan, granted on a limited basis to specific Eden-lineage patriarchal leaders during the antediluvian period (producing the recorded lifespans of 930 years for Adam, 969 for Methuselah, 950 for Noah) and operating in its mature form on the home world as the cloning-and-memory-transfer technology that produces the practical immortality of the Council of the Eternals."
+tldr = "In the Wheel of Heaven framework, the Genesis Tree of Life is the Elohim's longevity biotechnology — granted briefly to the antediluvian patriarchs and operating today as the Eternals' cloning-and-memory-transfer immortality."
+keywords = ["Tree of Life", "ʿēṣ ha-ḥayyîm", "Genesis 2:9", "Eden", "longevity biotechnology", "patriarchal lifespans", "Council of the Eternals", "Kabbalah"]
 same_as = ["https://www.wikidata.org/wiki/Q4746911", "https://en.wikipedia.org/wiki/Tree_of_life_%28biblical%29"]
 category = "Cosmology & Framework"
-editorial_pass = "2026-05"
+editorial_pass = "2026-08"
 claim_type = "framework"
 entry_type = "concept"
 alternative_names = ["the Tree of Life", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "the Tree of Eternal Life", "the Tree of Immortality", "the longevity technology", "the cellular-transfer technology"]
@@ -26,7 +29,7 @@ footnotes = [
     { content = "The corpus reads the Genesis Tree of Life not as a botanical tree or a theological symbol but as a specific cellular-extension biotechnology with multiple operational phases. This is the framework's foundational reframing: the mainstream-scholarly observation that the Genesis material reflects the broader ancient Near Eastern sacred-tree tradition is accepted, but the underlying ontology is reframed — all such material is read as preserving fragmentary memory of an actual technology the Elohim civilization developed and transmitted in limited grants. The source material specifies the result (the patriarchal lifespans, the Eloha 700–1,200-year longevity, the Eternal cloning-and-memory-transfer) without detailing the mechanism; the corpus does not extrapolate a specific biology beyond what the source states." },
     { content = "The dates the corpus assigns to the Tree of Life's operational phases — the original Eden installation c. 11,400 BCE, the post-Eden patriarchal grant c. 11,000–6,690 BCE, the post-Flood restriction from c. 6,690 BCE — are framework-internal, derived from the precessional-age chronology. The precessional ages are real astronomical phenomena; the specific boundary years are framework conventions. See the Antediluvian entry for the chronology's derivation." },
     { content = "The patriarchal lifespans of Genesis 5 (Adam 930, Seth 912, Methuselah 969, Noah 950) are read literally on the corpus's account as the consequence of the limited, non-hereditary longevity grant the exiled Lucifer faction negotiated with the Council. The source material is explicit that the grant did not pass to the patriarchs' children — \"the secret of life was lost\" — which the framework reads as the operational reason lifespans contract sharply across the post-Flood genealogy of Genesis 11. Mainstream readings of the lifespans as numerological or symbolic are noted and not adopted." },
-    { content = "The Raëlian source material's striking endorsement of the Kabbalah as \"the closest book to the truth\" of any religious tradition frames the corpus's critical-respectful relationship to the Kabbalistic Tree of Life. The corpus respects the Kabbalistic recognition of a structured plurality of related beings/principles (against simple monotheistic singleness) and the Lurianic vocabulary of cosmic catastrophe and repair (*tikkun*) as preserving fragmentary memory of real cosmic-political conflict — while NOT adopting the Sephirot emanationist apparatus as the operational form of the framework's Tree of Life. The Kabbalistic Tree is a cosmological diagram; the framework's Tree of Life is a biotechnology. They share the *ʿēṣ ḥayyim* terminology and refer to substantive realities, but differ in content." },
+    { content = "The Raëlian source material's striking endorsement of the Kabbalah as \"the closest book to the truth\" of any religious tradition frames the corpus's critical-respectful relationship to the Kabbalistic Tree of Life. The corpus respects the Kabbalistic recognition of a structured plurality of related beings/principles (against simple monotheistic singleness) and the Lurianic vocabulary of cosmic catastrophe and repair (*tikkun*) as preserving fragmentary memory of real cosmic-political conflict — while NOT adopting the Sephirot emanationist apparatus as the operational form of the framework's Tree of Life. The Kabbalistic Tree is a cosmological diagram; the framework's Tree of Life is a biotechnology. They share the *ʿēṣ ḥayyim* terminology, and the framework takes each to have a real referent, but they differ in content." },
     { content = "The corpus reads the contemporary longevity-research trajectory (the Yamanaka factors and partial cellular reprogramming, the hallmarks-of-aging framework, telomere and senolytic research, cloning and CRISPR) as developing in directions consistent with the framework's Tree of Life claims — without claiming it vindicates the framework. Current research has not produced practical immortality, and the cellular-transfer-plus-memory-transfer technology remains beyond contemporary capability. What the trajectory demonstrates is that radical lifespan extension is not biologically impossible: a civilization with several thousand years of sustained research could plausibly have developed the technologies the framework attributes to the Elohim." },
     { content = "The corpus reads the global recurrence of sacred-tree imagery (Yggdrasil, the Egyptian sycamore and *ished* tree, the Mesopotamian *kishkanu* and *huluppu*, the Hindu *Ashvattha* and *Kalpavriksha*, the Chinese *Fusang* and *Jianmu*, the Mesoamerican *Wakah-Chan*) as evidence of a genuine underlying reality preserved in fragmentary form. The corpus does not reject cultural diffusion as a partial explanation — diffusion certainly occurred — but reads the breadth and the specific structural parallels (the cosmic-axis function, the longevity associations, the divine-attendant figures) as more than independent religious development and diffusion can account for. It does not claim every sacred-tree figure is a direct memory of the biotechnology; many are independently developed cultural constructions." },
 ]
@@ -42,7 +45,7 @@ note = "Vorilhon's second work (1975) — the cellular-transfer technology, Yahw
 
 [[extra.references]]
 id = "those-gods-who-made-heaven-and-earth"
-note = "Sendy's reading of the Genesis Tree of Life as actual longevity biotechnology and the patriarchal lifespans as substantively accurate — the principal scholarly antecedent."
+note = "Sendy's reading of the Genesis Tree of Life as actual longevity biotechnology and the patriarchal lifespans as accurate records — the principal scholarly antecedent."
 
 [[extra.references]]
 id = "the-naked-bible"
@@ -191,8 +194,6 @@ The reading is contested. Within Christian theological tradition, the Tree of Li
 
 ## Etymology and naming
 
-The principal terms for the Tree of Life across the languages and traditions in which the figure has been preserved warrant individual treatment.
-
 ### Hebrew *ʿēṣ ha-ḥayyîm*
 
 The Hebrew *ʿēṣ ha-ḥayyîm* (<span class="hebrew">עֵץ הַחַיִּים</span>) is the specific Hebrew Bible designation for the Tree of Life. The construction combines:
@@ -201,7 +202,7 @@ The Hebrew *ʿēṣ ha-ḥayyîm* (<span class="hebrew">עֵץ הַחַיִּי�
 - **ha-** (<span class="hebrew">הַ</span>) — the definite article, marking "the" specific tree
 - **ḥayyîm** (<span class="hebrew">חַיִּים</span>) — "life" or "lives," a plural form (the so-called *intensive plural* in Hebrew grammar) that conveys the abundance or fullness of life rather than ordinary plural multiplicity. The form derives from the root *ḥ-y-h* meaning "to live."
 
-The full construction *ʿēṣ ha-ḥayyîm* preserves the literal sense of "the tree of (the abundance of) life" — a specific tree associated with the giving or extending of life. The Hebrew tradition's intensive-plural *ḥayyîm* is itself substantively significant: the construction does not simply mean "the tree of biological-existence" but specifically "the tree of life-in-its-fullness," with the underlying sense of substantial, abundant, extended life rather than ordinary mortal existence.
+The full construction *ʿēṣ ha-ḥayyîm* preserves the literal sense of "the tree of (the abundance of) life" — a specific tree associated with the giving or extending of life. The intensive plural *ḥayyîm* shapes the sense of the whole construction: "the tree of life-in-its-fullness," with the connotation of abundant, extended life rather than ordinary mortal existence.
 
 The Hebrew Bible uses the construction *ʿēṣ ha-ḥayyîm* exclusively for the Eden tree (Genesis 2:9, 3:22, 3:24) and for the figurative-wisdom uses (Proverbs 3:18, 11:30, 13:12, 15:4). The figurative uses in Proverbs apply the construction to wisdom, righteousness, fulfilled desire, and gentle speech — preserving the underlying sense that the *ʿēṣ ha-ḥayyîm* is the source of substantial, life-extending benefit.
 
@@ -244,8 +245,6 @@ The cross-tradition convergence on substantial sacred-tree imagery is part of th
 YHWH-Elohim caused every tree desirable to the sight and good for food to sprout from the ground — and within the garden, the tree of life and the tree of knowing good and bad.
 {% end %}
 
-The Tree of Life material has been the subject of substantial conventional-scholarly and theological treatment across multiple traditions.
-
 ### Mainstream historical-critical biblical scholarship
 
 Mainstream historical-critical biblical scholarship treats the Genesis Tree of Life material as drawing on the broader ancient Near Eastern sacred-tree tradition. The principal positions:
@@ -265,7 +264,7 @@ Mainstream historical-critical biblical scholarship treats the Genesis Tree of L
 The principal recent works in mainstream sacred-tree scholarship include:
 
 - **Mariana Giovino**'s *The Assyrian Sacred Tree: A History of Interpretations* (2007) — comprehensive treatment of the Assyrian sacred tree iconographic tradition and its scholarly reception{{ cite(id="giovino-assyrian-sacred-tree", text="[1]", title="Giovino, *The Assyrian Sacred Tree: A History of Interpretations* (2007)") }}
-- **Simo Parpola**'s "The Assyrian Tree of Life" (1993) and related work — substantive engagement with the Assyrian sacred tree material, including the controversial proposal that the iconographic tradition preserves a structured cosmological-philosophical system{{ cite(id="parpola-assyrian-tree-of-life", text="[2]", title="Parpola, 'The Assyrian Tree of Life' (Journal of Near Eastern Studies, 1993)") }}
+- **Simo Parpola**'s "The Assyrian Tree of Life" (1993) and related work — the controversial proposal that the Assyrian iconographic tradition preserves a structured cosmological-philosophical system{{ cite(id="parpola-assyrian-tree-of-life", text="[2]", title="Parpola, 'The Assyrian Tree of Life' (Journal of Near Eastern Studies, 1993)") }}
 - **Howard N. Wallace**'s *The Eden Narrative* (1985) — substantial treatment of the Genesis 2–3 material in its ancient Near Eastern context{{ cite(id="wallace-eden-narrative", text="[3]", title="Wallace, *The Eden Narrative* (1985)") }}
 - **Terje Stordalen**'s *Echoes of Eden: Genesis 2–3 and Symbolism of the Eden Garden in Biblical Hebrew Literature* (2000) — comprehensive scholarly treatment of the Eden material's literary and theological reception across the Hebrew Bible{{ cite(id="stordalen-echoes-of-eden", text="[4]", title="Stordalen, *Echoes of Eden* (2000)") }}
 
@@ -335,7 +334,7 @@ Genesis 5 preserves the patriarchal genealogy with specific recorded ages. The p
 - Lamech: 777 years (Genesis 5:31)
 - Noah: 950 years (Genesis 9:29)
 
-The framework reads these specific recorded ages as substantively accurate to the actual lifespans of the named individuals.{{ footnote(id="3") }} The Genesis 5 genealogy is therefore the principal primary-source evidence for the Tree of Life's operational presence in the antediluvian period — preserving the biographical record of beings who received the longevity treatment in limited measure.
+The framework reads these recorded ages as the actual lifespans of the named individuals.{{ footnote(id="3") }} The Genesis 5 genealogy is therefore the principal primary-source evidence for the Tree of Life's operational presence in the antediluvian period — preserving the biographical record of beings who received the longevity treatment in limited measure.
 
 ### The figurative wisdom-tradition references
 
@@ -346,7 +345,7 @@ The Hebrew Bible's wisdom literature contains several figurative uses of the Tre
 - **Proverbs 13:12**: *"Hope deferred makes the heart sick, but a desire fulfilled is a tree of life."*
 - **Proverbs 15:4**: *"A gentle tongue is a tree of life, but perverseness in it breaks the spirit."*
 
-These figurative uses apply the Tree of Life construction to specific positive qualities (wisdom, righteousness, fulfilled hope, gentle speech), with the underlying sense that these qualities provide the substantial life-extending benefit that the Tree-of-Life specifically denotes. The framework reads these figurative uses as preserving cultural memory of the Tree of Life as a substantively beneficial reality, with the wisdom-tradition's figurative application reflecting the broader cultural recognition of the Tree-of-Life motif's positive associations.
+These figurative uses apply the Tree of Life construction to wisdom, righteousness, fulfilled hope, and gentle speech — each cast as a source of the life-extending benefit the tree denotes. The framework reads them as preserving cultural memory of the Tree of Life as a real and desirable benefit, familiar enough to serve the wisdom tradition as a standard figure.
 
 ### Ezekiel 47:12 — the trees of the river of life
 
@@ -468,11 +467,7 @@ The Council's specific policy considerations:
 - **The post-Flood restriction** reflects the Council's specific response to the antediluvian civilization's threatening development — the Flood having destroyed the broader population that had received various benefits from the exiled creators, the Council subsequently restricted the longevity-grant policy more strictly.
 - **The current Aquarian-age preparation** reflects the Council's eventual recognition that humanity has developed sufficient maturity to warrant access to substantial alliance technology, with the open return at the embassy projected to inaugurate the formal extension of longevity technology to humanity.
 
-The Tree of Life is therefore politically significant in ways that extend beyond its biological-technical character — the technology's distribution has been a continuing political question across the framework's broader history, with the various operational decisions reflecting the broader political-historical context.
-
 ## Application across the corpus
-
-The Tree of Life's role in the broader corpus extends across multiple distinct domains.
 
 ### The patriarchal lifespans
 
@@ -480,7 +475,7 @@ The Genesis 5 patriarchal genealogy is the framework's principal evidence for th
 
 The framework's reading of the lifespans:
 
-- The recorded figures are substantively accurate to the actual lifespans of the named individuals
+- The recorded figures are the actual lifespans of the named individuals
 - The lifespans reflect the operational reality of the limited longevity grant
 - The asymmetry between the patriarchal lifespans and the broader human population's normal lifespans reflects the limited and selective character of the grant
 - The progressive reduction in lifespans across the post-Flood generations reflects the Council's restriction policy
@@ -507,14 +502,12 @@ The contemporary longevity-research trajectory (Yamanaka factors, partial cellul
 
 ## Distinguishing from adjacent concepts
 
-The Tree of Life must be carefully distinguished from several adjacent concepts to avoid confusion.
-
 ### The Tree of Life vs. the Tree of the Knowledge of Good and Evil
 
 The two Eden trees are paired but functionally distinct:
 
 - **The Tree of Life** is the longevity-extending biotechnology, with the operational function of extending biological existence
-- **The Tree of the Knowledge of Good and Evil** is the restricted scientific-knowledge archive, with the operational function of providing substantive scientific and technological knowledge
+- **The Tree of the Knowledge of Good and Evil** is the restricted scientific-knowledge archive, with the operational function of providing scientific and technological knowledge
 
 The trees are paired in the Genesis narrative because they are the two principal restricted-access resources of the Eden installation, both subject to the original prohibition. The Eden disclosure event (treated in the [Serpent](../serpent/) entry) involved access to the Tree of the Knowledge specifically, not the Tree of Life — the post-disclosure prohibition on the Tree of Life (Genesis 3:22–24) was the Council's specific response to prevent humans from acquiring longevity in addition to the knowledge they had just acquired.
 
@@ -544,8 +537,6 @@ The Tree of Life is a specific technology, not a category of beings. Various Heb
 
 ## Modern reinterpretations
 
-The Tree of Life material has been the subject of substantial modern reinterpretive engagement across multiple traditions. The principal strands warrant treatment.
-
 ### The Kabbalistic Sephirot tradition
 
 The Kabbalistic Tree of Life (*ʿEṣ Ḥayyim* in Hebrew, with the same construction as the Genesis Tree of Life) is the principal cosmological diagram of the medieval and early-modern Kabbalistic tradition. The principal features:
@@ -569,14 +560,14 @@ The Kabbalistic Tree of Life (*ʿEṣ Ḥayyim* in Hebrew, with the same constru
 
 **The principal texts.** The *Sefer Yetzirah* ("Book of Formation," composed somewhere between the 3rd and 6th centuries CE) provides foundational material;{{ cite(id="sefer-yetzirah", text="[8]", title="*Sefer Yetzirah* (trans. Kaplan, 1997) — the foundational sefirot framework") }} the *Bahir* (12th century) develops the early medieval Kabbalistic framework; the *Zohar* (composed in its preserved form c. late 13th century) provides the principal classical Kabbalistic text;{{ cite(id="zohar-pritzker", text="[9]", title="The Zohar, Pritzker Edition (Matt et al., 2003–2017)") }} the various Lurianic works (preserved through Hayyim Vital and other students) develop the Lurianic synthesis.{{ cite(id="major-trends-jewish-mysticism", text="[10]", title="Scholem, *Major Trends in Jewish Mysticism* (1941)") }}{{ cite(id="idel-kabbalah-new-perspectives", text="[11]", title="Idel, *Kabbalah: New Perspectives* (1988)") }}{{ cite(id="matt-essential-kabbalah", text="[12]", title="Matt, *The Essential Kabbalah* (1996)") }}
 
-The framework's relationship to the Kabbalistic Tree of Life is critical-respectful. The Raëlian source material identifies the Kabbalah as *"the closest book to the truth"* of any religious tradition — a striking endorsement that registers substantive recognition of the Kabbalistic tradition's preservation of accurate content.{{ footnote(id="4") }} The framework specifically respects:
+The framework's relationship to the Kabbalistic Tree of Life is critical-respectful. The Raëlian source material identifies the Kabbalah as *"the closest book to the truth"* of any religious tradition.{{ footnote(id="4") }} The framework specifically respects:
 
 - The Kabbalistic tradition's recognition that the underlying reality involves a structured plurality of related beings/principles rather than a simple monotheistic singleness
 - The Kabbalistic vocabulary of *sephirot* as preserving fragmentary memory of the broader cosmic-political-structural reality
 - The Lurianic concepts of cosmic catastrophe and repair (*tikkun olam*) as preserving fragmentary memory of the actual political-historical conflicts the corpus's framework reads
-- The Kabbalistic tradition's preservation of substantive content despite its esoteric transmission
+- The tradition's preservation of this material across centuries of esoteric transmission
 
-The framework does not adopt the Kabbalistic Tree of Life as the operational form of the framework's Tree of Life. The Kabbalistic Tree is principally a cosmological-emanationist diagram; the framework's Tree of Life is principally a biotechnology. The two are related (both use the same underlying *ʿēṣ ḥayyim* terminology and both refer to substantive cosmic-historical realities) but distinct in their specific content and operational character.
+The framework does not adopt the Kabbalistic Tree of Life as the operational form of the framework's Tree of Life. The Kabbalistic Tree is principally a cosmological-emanationist diagram; the framework's Tree of Life is principally a biotechnology. The two are related — they share the *ʿēṣ ḥayyim* terminology, and the framework takes each to refer to a real cosmic-historical reality — but distinct in content and operational character.
 
 ### Christian theological traditions of immortality and resurrection
 
@@ -622,14 +613,12 @@ Other labs (Juan Carlos Izpisua Belmonte at the Salk Institute, Vittorio Sebasti
 
 The corpus reads the contemporary longevity research as developing in directions consistent with the framework's reading of the Tree of Life. The contemporary research is not vindicating the framework directly — current research has not produced practical immortality, and the cellular-transfer-plus-memory-transfer technology specifically remains beyond contemporary scientific capability. But the trajectory of the research demonstrates that the framework's specific claims about biotechnology are not biologically impossible. A more advanced civilization with several thousand years of sustained research could plausibly have developed the technologies the framework attributes to the Elohim.
 
-The detailed treatment of the contemporary research trajectory in connection with the broader framework's reading lives in the Wheel of Heaven corpus's broader chapter material.
-
 ### Sendy on the Tree of Life
 
 **Jean Sendy** developed the principal scholarly antecedent of the framework's Tree of Life reading. Sendy's *Ces dieux qui firent le ciel et la terre* (1969) and related works treat the Genesis Tree of Life as referring to actual longevity-extending biotechnology rather than as theological symbol or mythological motif.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[18]", title="Sendy, *Ces dieux qui firent le ciel et la terre* (1969)") }} Sendy's specific contributions include:
 
-- The philological-historical reading of the Hebrew *ʿēṣ ha-ḥayyîm* as preserving substantive operational content
-- The recognition that the patriarchal lifespans of Genesis 5 should be read as substantively accurate rather than as symbolic
+- The philological-historical reading of the Hebrew *ʿēṣ ha-ḥayyîm* as preserving operational content
+- The reading of the patriarchal lifespans of Genesis 5 as actual ages rather than symbolic numbers
 - The broader treatment of the Eden material as preserving accurate political-historical content rather than as religious mythology
 - The integration of the Tree of Life material with the broader alliance-mediated history Sendy reconstructed
 
@@ -642,7 +631,7 @@ The framework's Tree of Life reading is structurally aligned with Sendy's approa
 - The Hebrew *ʿēṣ ha-ḥayyîm* read as referring to specific biotechnology rather than as theological symbol
 - The patriarchal lifespans read literally as the actual lifespans achieved by the named individuals
 - The various Hebrew Bible Tree-of-Life references (the wisdom-literature uses, the Ezekiel vision, the broader material) read as preserving operational content
-- The broader integration with Biglino's strict-translational reading of the Hebrew Bible as preserving substantive operational content
+- The integration of the Tree of Life material into his broader strict-translational reading of the Hebrew Bible
 
 The framework's reading is broadly aligned with Biglino's reading at the methodological level, with substantial overlap on specific lexical-philological readings.
 
@@ -650,13 +639,9 @@ The framework's reading is broadly aligned with Biglino's reading at the methodo
 
 **Paul Anthony Wallis**'s engagement with the Tree of Life material in his broader corpus develops substantial treatment of the underlying biotechnology and its operational history.{{ cite(id="wallis-eden-conspiracy", text="[20]", title="Wallis, *The Eden Conspiracy* (2024)") }} Wallis's specific contributions include the structural reading of the Eden installation's specific infrastructure (including the Tree of Life as a key component), the careful treatment of the post-Eden patriarchal grants as historical-operational events, and the comparative engagement with parallel ancient biotechnology references.
 
-### The framework's relationship to the broader landscape
-
-The corpus's Tree of Life reading is positioned within this landscape as follows: aligned with Sendy's, Biglino's, and Wallis's readings as the principal scholarly antecedents; respectful of the Kabbalistic tradition's underlying intuition that the Tree of Life refers to substantive cosmic reality, while not endorsing the specific Sephirot emanationist apparatus; respectful of the Christian theological tradition's various engagements while not adopting the typological-symbolic readings; aligned with the contemporary longevity research in registering that the framework's specific biological claims are within the realm of biologically achievable technology; structurally distinct from mainstream historical-critical biblical scholarship at the level of underlying ontology; and developing the specific corpus-internal reading (the five operational phases, the Eternal technology, the contemporary research-trajectory parallels) as the framework's distinctive contribution to the broader reinterpretive landscape.
-
 ## Comparative observations
 
-Sacred-tree imagery appears across an extraordinarily wide range of cultural-religious traditions worldwide. The corpus reads this cross-cultural pattern as evidence of broader operational realities preserved in fragmentary form across the various traditions.{{ footnote(id="6") }} The principal cross-cultural cases warrant treatment.
+Sacred-tree imagery appears across an extraordinarily wide range of cultural-religious traditions worldwide. The corpus reads this cross-cultural pattern as evidence of broader operational realities preserved in fragmentary form across the various traditions.{{ footnote(id="6") }}
 
 ### Norse Yggdrasil
 
