@@ -1,11 +1,14 @@
 +++
 title = "Watchers"
 slug = "watchers"
-description = "The Watchers (Aramaic ʿîrin, 'wakeful ones'; Greek egrēgoroi; Slavonic Grigori) are the heavenly beings of the Enochic tradition — most fully narrated in the Book of the Watchers (1 Enoch 1–36) — who descend to Earth in the days before the Flood, bind themselves by oath on Mount Hermon under their leader Shemihazah, take human wives who bear them giant offspring, and transmit to humanity a catalogue of forbidden arts ranging from metallurgy and weapons-making to cosmetics, enchantments, and astrology. The tradition condemns them for both transgressions, and the divine response — the binding of Azazel, the imprisonment of Shemihazah's company, and the decree of the deluge — sets the Enochic frame for the Flood narrative. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Watchers material is the most detailed surviving national memory of the exiled creator faction of the antediluvian period: the Lucifer-faction Elohim scientists exiled on Earth after the Eden settlement, whose continued teaching of the Eden lineage and whose unions with human women — producing the hybrid Nephilim — are compressed in Genesis 6:1–4 and elaborated at narrative length in 1 Enoch."
+description = "The Watchers are the beings of 1 Enoch who descend to Earth before the Flood and father the Nephilim — in the Raëlian canon, the exiled Lucifer-faction Elohim."
 template = "wiki-page.html"
 toc = true
 
 [extra]
+summary = "The Watchers (Aramaic ʿîrin, 'wakeful ones'; Greek egrēgoroi; Slavonic Grigori) are the heavenly beings of the Enochic tradition — most fully narrated in the Book of the Watchers (1 Enoch 1–36) — who descend to Earth in the days before the Flood, bind themselves by oath on Mount Hermon under their leader Shemihazah, take human wives who bear them giant offspring, and transmit to humanity a catalogue of forbidden arts ranging from metallurgy and weapons-making to cosmetics, enchantments, and astrology. The tradition condemns them for both transgressions, and the divine response — the binding of Azazel, the imprisonment of Shemihazah's company, and the decree of the deluge — sets the Enochic frame for the Flood narrative. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Watchers material is the most detailed surviving national memory of the exiled creator faction of the antediluvian period: the Lucifer-faction Elohim scientists exiled on Earth after the Eden settlement, whose continued teaching of the Eden lineage and whose unions with human women — producing the hybrid Nephilim — are compressed in Genesis 6:1–4 and elaborated at narrative length in 1 Enoch."
+tldr = "The Enochic beings who descended before the Flood — the fathers of the Nephilim, not the Nephilim themselves."
+keywords = ["Watchers", "Grigori", "Book of Enoch", "1 Enoch", "Watchers vs Nephilim", "Shemihazah", "Azazel", "fallen angels"]
 same_as = ["https://www.wikidata.org/wiki/Q2469326", "https://en.wikipedia.org/wiki/Watcher_%28angel%29"]
 category = "Peoples & Groups"
 editorial_pass = "2026-05"
