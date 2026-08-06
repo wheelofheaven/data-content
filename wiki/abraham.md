@@ -27,7 +27,7 @@ hebrew_name = "אַבְרָהָם (Avraham, 'father of multitudes'); originally 
 arabic_name = "إبراهيم (Ibrāhīm)"
 biblical_dating = "Taurus-Aries boundary in corpus chronology (late Age of Taurus, c. 2,000-1,900 BCE in mainstream traditional chronology); Genesis records Abraham as 75 years old at the lekh lekha call (Gen 12:4), 100 at Isaac's birth (Gen 21:5), 175 at death (Gen 25:7)"
 principal_biblical_location = "Genesis 11:26-25:18; subsequent references in Exodus 3:6-15, Joshua 24:2-3, Isaiah 41:8, 51:2, Psalms 105:6-9, Matthew 1:1-2, Luke 3:34, Romans 4, Galatians 3, Hebrews 11:8-19, James 2:21-23"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Sacrifice of Abraham' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Taurus chapter, Sections VIII and IX"
+principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Sacrifice of Abraham' section; consolidated *Message from the Designers* (2005); *timeline.epub* — extended corpus engagement principally in Age of Taurus chapter, Sections VIII and IX"
 core_corpus_articulation = "Post-Sodom Council recruitment and verification figure; tested loyalty around whom diminished Eden-lineage population reorganized; founding patriarch for Aries-age recovery program"
 covenant_role = "Abrahamic Covenant (Genesis 15, 17): geographic promise (Nile-to-Euphrates); descendant promise (numerous as stars and sand); circumcision (*brit milah*) as physical-marker covenant institution"
 loyalty_test = "Akedah / Sacrifice of Isaac (Genesis 22) — formal Council loyalty test conducted by visiting officer; Hebrew *nissah* ('tested') frames episode from opening verse; *ki atah yadati* ('for now I know') confirms empirical-investigation framing"
@@ -302,7 +302,7 @@ Soulen, R. Kendall. *The God of Israel and Christian Theology*. Fortress, 1996.
 
 ### Islamic engagement
 
-The Quran. Sura 2 (al-Baqarah), Sura 3 (Ali Imran), Sura 6 (al-An'am), Sura 11 (Hud), Sura 14 (Ibrahim), Sura 19 (Maryam), Sura 21 (al-Anbiya), Sura 22 (al-Hajj), Sura 26 (al-Shu'ara), Sura 29 (al-Ankabut), Sura 37 (al-Saffat), Sura 51 (al-Dhariyat), Sura 60 (al-Mumtahanah), and substantive related passages. Various translations and editions.
+The Quran. Sura 2 (al-Baqarah), Sura 3 (Ali Imran), Sura 6 (al-An'am), Sura 11 (Hud), Sura 14 (Ibrahim), Sura 19 (Maryam), Sura 21 (al-Anbiya), Sura 22 (al-Hajj), Sura 26 (al-Shu'ara), Sura 29 (al-Ankabut), Sura 37 (al-Saffat), Sura 51 (al-Dhariyat), Sura 60 (al-Mumtahanah), and related passages. Various translations and editions.
 
 Firestone, Reuven. *Journeys in Holy Lands: The Evolution of the Abraham-Ishmael Legends in Islamic Exegesis*. SUNY Press, 1990.
 
@@ -332,7 +332,7 @@ Biglino, Mauro. *Various works* (Italian-language scholarship).
 
 Frazer, James G. *Folk-lore in the Old Testament*. 3 vols. Macmillan, 1918.
 
-Levenson, Jon D. *Inheriting Abraham*. Princeton University Press, 2012. (Treated above; substantive cross-tradition comparative engagement.)
+Levenson, Jon D. *Inheriting Abraham*. Princeton University Press, 2012. (Treated above; cross-tradition comparative engagement.)
 
 Goodman, Lenn E. *Judaism, Human Rights, and Human Values*. Oxford University Press, 1998.
 

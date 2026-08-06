@@ -194,7 +194,7 @@ his own emphases. Its elements:
   hypothesis, the exilic redaction, and "a very broad scholarly consensus"
   on the Bible's composite character before departing from the consensus
   on what the recovered stories describe. He engages hostile experts by
-  name — most substantively Michael Heiser, whose divine-council
+  name — most notably Michael Heiser, whose divine-council
   scholarship assembles the same plurality data against all paleocontact
   readings.
 - **Comparative triangulation.** "The moment you begin to compare notes

@@ -1,7 +1,7 @@
 +++
 title = "Cosmic evolution"
 slug = "cosmic-evolution"
-description = "Cosmic evolution — the iterative-creation framing where advanced civilizations seed life across the universe. The substantive entry is at Cosmic Chain."
+description = "Cosmic evolution — the iterative-creation framing where advanced civilizations seed life across the universe. The full entry is at Cosmic Chain."
 template = "wiki-page.html"
 toc = true
 

@@ -1,7 +1,7 @@
 +++
 title = "Bible"
 slug = "bible"
-description = "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the substantive entry lives at Hebrew Bible / Tanakh."
+description = "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the full entry lives at Hebrew Bible / Tanakh."
 template = "wiki-page.html"
 toc = true
 

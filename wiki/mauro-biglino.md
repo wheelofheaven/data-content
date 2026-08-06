@@ -339,7 +339,7 @@ undermine his deductive system based on a literal reading of the Old
 Testament,"* Di Porto confirmed that Judaism carries no doctrine of
 original sin, and Garrone allowed that it is unclear where Paul derived
 the concept. The value of the event, for the corpus, is procedural: it
-is the one occasion on which the substantive engagement mainstream
+is the one occasion on which the direct engagement mainstream
 scholarship otherwise declines took place on the record, with the text
 open.
 

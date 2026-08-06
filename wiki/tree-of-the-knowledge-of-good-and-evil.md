@@ -127,8 +127,8 @@ knowledge — a difference discussed below.
 
 ## The Wheel of Heaven reading
 
-The framework takes the Genesis account as a compressed but substantively
-accurate record of operational events at the [Eden](../eden/) installation, and
+The framework takes the Genesis account as a compressed but accurate
+record of operational events at the [Eden](../eden/) installation, and
 reads its details concretely rather than allegorically.
 
 **The garden as laboratory, the tree as archive.** Eden, on the corpus's

@@ -1,7 +1,7 @@
 +++
 title = "Chronology"
 slug = "chronology"
-description = "Chronology — the corpus's cosmic timeline of twelve precessional ages making up the Great Year. The substantive entry lives at World Age."
+description = "Chronology — the corpus's cosmic timeline of twelve precessional ages making up the Great Year. The full entry lives at World Age."
 template = "wiki-page.html"
 toc = true
 

@@ -59,7 +59,7 @@ note = "Principal official website of the International Raëlian Movement; insti
 [[extra.references]]
 id = "genesis"
 locator = "Genesis 1"
-note = "The Hebrew Bible's first creation account, read in the Raëlian framework as preserving substantively accurate memory of the Elohim civilization's genetic-engineering creation work."
+note = "The Hebrew Bible's first creation account, read in the Raëlian framework as preserving accurate memory of the Elohim civilization's genetic-engineering creation work."
 
 [[extra.references]]
 id = "those-gods-who-made-heaven-and-earth"

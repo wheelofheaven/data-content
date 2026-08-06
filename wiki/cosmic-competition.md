@@ -85,7 +85,7 @@ Christian theological tradition has read the parable of the sower for two millen
 
 **Patristic readings** (Origen, Chrysostom, Augustine) develop the parable as a teaching about the various human responses to divine teaching, with the four kinds of ground representing the four principal human dispositions: hardened resistance (the path), shallow enthusiasm without depth (rocky ground), spiritual concerns crowded out by worldly cares (thorns), and genuine receptive response (good ground). The patristic reading establishes the principal interpretive frame within which subsequent Christian engagement has operated.
 
-**Medieval theological elaboration** develops the parable extensively across the Catholic, Orthodox, and various other Christian traditions, with substantial homiletical, allegorical, and devotional treatment. The parable's central place in Christian preaching reflects its perceived pedagogical importance — Jesus's own explanation (Matthew 13:18-23) provides the foundational interpretive framework, with subsequent tradition elaborating without substantively departing from the Jesus-given interpretation.
+**Medieval theological elaboration** develops the parable extensively across the Catholic, Orthodox, and various other Christian traditions, with substantial homiletical, allegorical, and devotional treatment. The parable's central place in Christian preaching reflects its perceived pedagogical importance — Jesus's own explanation (Matthew 13:18-23) provides the foundational interpretive framework, with subsequent tradition elaborating without departing from the Jesus-given interpretation.
 
 **Reformation and post-Reformation readings** maintain the basic patristic-medieval framework while developing distinctive emphases. The Reformed tradition has tended to emphasize the divine sovereignty implied in the parable's outcomes (the seed produces fruit only on good ground, with the difference being attributable to divine election rather than human choice). Various Protestant traditions develop alternative emphases within the broader interpretive frame.
 
@@ -167,7 +167,7 @@ The framework's specific exegesis of the parable's other elements:
 
 Jesus's explanation of the parable to the disciples is preserved in Matthew 13:18-23 (with parallels). The standard reading treats this passage as the authoritative interpretation of the parable, with the various grounds being read as the various human responses to the kingdom-of-heaven message.
 
-The framework's reading: Jesus's surface interpretation is genuine but is the surface meaning Jesus deliberately preserved for general transmission. The deeper meaning — the cosmic-competition reading the framework articulates — is the substantive content Jesus reserved for those "with ears to hear." The Christian tradition has preserved the parable for two millennia, generally interpreting it according to the surface explanation, with the deeper meaning waiting in the text for the framework that would enable its recognition.
+The framework's reading: Jesus's surface interpretation is genuine but is the surface meaning Jesus deliberately preserved for general transmission. The deeper meaning — the cosmic-competition reading the framework articulates — is the content Jesus reserved for those "with ears to hear." The Christian tradition has preserved the parable for two millennia, generally interpreting it according to the surface explanation, with the deeper meaning waiting in the text for the framework that would enable its recognition.
 
 This is a substantial interpretive claim. The framework registers the claim explicitly: the cosmic-competition reading is the corpus's interpretive construction, building on the source material's explicit identification but going substantially beyond what the source material directly states. The framework does not claim that all subsequent Christian readings of the parable are wrong; it claims that the surface reading is partial and that the cosmic-competition reading captures the deeper content the parable was designed to preserve.
 
@@ -215,7 +215,7 @@ The Cosmic Competition framework comprises five interrelated components:
 
 **Multiple humanities**. The Elohim alliance has conducted creation experiments on multiple worlds. The parable of the sower preserves the record of four creation attempts (three successes, one failure), but the framework does not preclude the possibility that additional creation attempts occurred either before or after the four the parable describes. The 1978 message specifies that "other extra-terrestrial civilizations" exist with whom the alliance currently maintains "no direct communication," with the framing implying multiple parallel humanities rather than a single specific other case.
 
-**Evaluation against a standard**. Each humanity is being evaluated against the same standard — the level of moral, scientific, and political maturity required for inheritance. The standard is exacting and specific, with the three categories of qualification (treated below) providing the principal substantive content.
+**Evaluation against a standard**. Each humanity is being evaluated against the same standard — the level of moral, scientific, and political maturity required for inheritance. The standard is exacting and specific, with the three categories of qualification (treated below) providing the principal content.
 
 **Inheritance as the outcome**. The qualifying humanities receive **inheritance** — the alliance's accumulated scientific, political, and ethical knowledge transmitted through the formal embassy event. The inheritance enables the qualifying humanity to itself become a creator civilization, capable of continuing the cosmic chain of creation.
 
@@ -392,7 +392,7 @@ The corpus's cosmic-competition framework is structurally distinctive within the
 
 ### The framework's relationship to the broader landscape
 
-The corpus's cosmic-competition framework is positioned within this landscape as follows: structurally consistent with mainstream exoplanet research and SETI scholarship at the empirical level, even where the framework's specific claims go beyond what mainstream investigation has confirmed; structurally aligned with the broader Sendy-Biglino-Wallis tradition's reading of the Hebrew Bible as preserving substantive cosmological content, while developing the specific cosmic-competition content beyond what these scholars have articulated; structurally distinctive within the broader ancient-astronaut tradition through the specific parable-of-the-sower exegesis and the integration with the Aquarian-age inheritance-threshold material; and developing the framework as the corpus's distinctive contribution to the broader interpretive landscape.
+The corpus's cosmic-competition framework is positioned within this landscape as follows: structurally consistent with mainstream exoplanet research and SETI scholarship at the empirical level, even where the framework's specific claims go beyond what mainstream investigation has confirmed; structurally aligned with the broader Sendy-Biglino-Wallis tradition's reading of the Hebrew Bible as preserving cosmological content, while developing the specific cosmic-competition content beyond what these scholars have articulated; structurally distinctive within the broader ancient-astronaut tradition through the specific parable-of-the-sower exegesis and the integration with the Aquarian-age inheritance-threshold material; and developing the framework as the corpus's distinctive contribution to the broader interpretive landscape.
 
 ## Comparative observations
 
@@ -456,7 +456,7 @@ The framework reads the Jewish multiple-worlds tradition as preserving fragmenta
 
 The Greek philosophical tradition preserves substantial multiple-worlds material across multiple distinct schools.
 
-**Anaximander** (c. 610–546 BCE) is reported to have proposed multiple worlds emerging from the *apeiron* (the unbounded), with the multiple worlds being a substantive feature of his cosmological system.
+**Anaximander** (c. 610–546 BCE) is reported to have proposed multiple worlds emerging from the *apeiron* (the unbounded), with the multiple worlds being a genuine feature of his cosmological system.
 
 **The atomist tradition** — Leucippus (5th century BCE) and Democritus (c. 460–370 BCE) — proposed that infinite atoms moving through infinite void produce infinite worlds, with multiple inhabited worlds being a specific consequence of the atomistic cosmology.
 

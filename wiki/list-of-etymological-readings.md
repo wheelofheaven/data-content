@@ -238,7 +238,7 @@ What survives the audit is not the etymology but the structural claim it was bui
 
 ## Open questions
 
-The catalogue surfaces several methodological and substantive open questions.
+The catalogue surfaces several open questions of method and substance.
 
 - **The boundary between adopted etymology and operational reading.** For many catalogue entries, the framework's contribution is the operational reading rather than the etymology itself. For other entries, the framework adopts specific scholarly choices within the range of philological debate (e.g., the *Yahweh* derivation from *hāyāh*, the *El Shaddai* derivation as "mountain god"). The boundary between cases where the framework simply adopts mainstream philology and cases where the framework makes a specific philological choice could be more sharply distinguished in future editorial passes.
 - **The expansion to additional language traditions.** The catalogue is most developed for Hebrew. Substantial expansion is possible for Greek, Sanskrit, Sumerian/Akkadian, and Latin. Other language traditions of framework relevance (Egyptian, Aramaic, Old Persian, Avestan, Classical Chinese, Quechua, Nahuatl, Maya) are not yet represented and would warrant inclusion in future editorial passes.

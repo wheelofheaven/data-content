@@ -106,7 +106,7 @@ The framework's reading of the Menorah is developed principally from a specific 
 >
 > — *Le Livre qui dit la vérité*, Vorilhon (1974); English in *Message from the Designers*
 
-The framework reads the passage as making three substantive operational claims that the corpus's interpretive work develops.
+The framework reads the passage as making three operational claims that the corpus's interpretive work develops.
 
 ### The seven Elohim bases on elevated terrain
 

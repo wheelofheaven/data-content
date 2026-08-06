@@ -1,7 +1,7 @@
 +++
 title = "Confusion of tongues"
 slug = "confusion-of-tongues"
-description = "Confusion of tongues — the post-flood dispersion-of-languages event narrated in Genesis 11. In the corpus the substantive entry consolidates this under Babel."
+description = "Confusion of tongues — the post-flood dispersion-of-languages event narrated in Genesis 11. In the corpus the full entry consolidates this under Babel."
 template = "wiki-page.html"
 toc = true
 

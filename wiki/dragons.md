@@ -224,7 +224,7 @@ The pairing of birds and dragons in the same creative age aligns precisely with 
 
 The *timeline.epub* Age of Virgo chapter (Sections VI-IX) provides substantial subsequent development of the dragons' specific framework status. The principal contributions:
 
-**1. The factional-political articulation**. The chapter elaborates the source's "some other groups of scientists" phrasing into a substantive treatment of the home-world dissidents' research program. The dinosaur enthusiasts in the Elohim program were a constituency whose preferences were toward scale and dominance, and Earth gave them the opportunity to realize those preferences without the political constraints that had prevented similar work at home.
+**1. The factional-political articulation**. The chapter elaborates the source's "some other groups of scientists" phrasing into an extended treatment of the home-world dissidents' research program. The dinosaur enthusiasts in the Elohim program were a constituency whose preferences were toward scale and dominance, and Earth gave them the opportunity to realize those preferences without the political constraints that had prevented similar work at home.
 
 **2. The Jurassic Park parallel**. The chapter draws the structural parallel between the home-world incident and Michael Crichton's *Jurassic Park* (1990, adapted into Spielberg's 1993 film). The plot of *Jurassic Park* is, in outline: scientists in a remote facility recreate extinct dinosaurs from preserved genetic material; the recreations are intended as a controlled exhibit; the containment fails, and the dinosaurs escape; the people responsible for the project discover, too late, that they were never in control of what they had made. The home-world incident, on the corpus's reading, was the original *Jurassic Park* scenario. The Earth relocation was the political solution to the immediate problem rather than the categorical one.
 
@@ -397,7 +397,7 @@ The dragons operate as one specific element across multiple corpus framework ent
 
 ### The Genesis entry
 
-The dragons' specific Day 5 creation status is one of the principal operational components of the broader [Genesis](../genesis/) entry's framework reading. The detailed treatment of the broader Genesis framework lives in that entry; the Dragons entry's specific contribution is the substantive treatment of the Day 5 *taninim* and the broader translation-history context.
+The dragons' specific Day 5 creation status is one of the principal operational components of the broader [Genesis](../genesis/) entry's framework reading. The detailed treatment of the broader Genesis framework lives in that entry; the Dragons entry's specific contribution is the extended treatment of the Day 5 *taninim* and the broader translation-history context.
 
 ### The Age of Virgo entry
 
@@ -427,7 +427,7 @@ The framework's specific position is that dragon folklore preserves cultural mem
 
 ### Dragons vs. the broader category of fossil organisms
 
-The framework's specific reading of dragons as deliberately-created creatures distinguishes them from the broader category of fossil organisms produced through unguided evolutionary processes. The relationship is one of **specific-design-product-vs-broader-evolutionary-category**: the corpus's framework treats the broader Mesozoic fauna as substantively involved in the Elohim creation program, with the specific factional-political context of the dragon creation being one specific dimension within the broader program.
+The framework's specific reading of dragons as deliberately-created creatures distinguishes them from the broader category of fossil organisms produced through unguided evolutionary processes. The relationship is one of **specific-design-product-vs-broader-evolutionary-category**: the corpus's framework treats the broader Mesozoic fauna as directly involved in the Elohim creation program, with the specific factional-political context of the dragon creation being one specific dimension within the broader program.
 
 ### Dragons vs. the Lucifer faction's specific historical referents
 
@@ -482,7 +482,7 @@ The soft-tissue preservation findings represent one of the principal twenty-firs
 
 **The corpus's alternative reading**. The corpus reads the same findings differently: soft tissue, on any honest reading of the relevant biochemistry, is not the kind of material that should survive for 66 million years. The expected degradation timescales for proteins like collagen, even under optimal preservation conditions, are on the order of thousands to perhaps tens of thousands of years, not millions. The fact that soft tissue is recovered from dinosaur specimens, with proteins still recognizable as collagen and with apparent vascular structures still discernible, is consistent with the corpus's reading that the actual ages of the specimens are vastly less than the radiometric methods report.
 
-The soft-tissue findings do not by themselves establish the corpus's reading; they are consistent with the alternative reading without independently confirming it. The corpus's reading is presented as a principled alternative rather than as established fact, with the mainstream interpretation also recognized as a substantively defensible reading of the same empirical evidence.
+The soft-tissue findings do not by themselves establish the corpus's reading; they are consistent with the alternative reading without independently confirming it. The corpus's reading is presented as a principled alternative rather than as established fact, with the mainstream interpretation also recognized as a defensible reading of the same empirical evidence.
 
 ### The corpus's K-Pg / Gemini-flood reconciliation
 
@@ -512,7 +512,7 @@ Mainstream comparative mythology and folklore studies have developed substantial
 
 ### The framework's relationship to the broader landscape
 
-The Wheel of Heaven corpus's dragon treatment is positioned within this scholarly landscape as follows: substantially aligned with mainstream paleontology at the morphological-zoological-phylogenetic level (recognizing dinosaurs as biological organisms, recognizing the dinosaur-bird connection, recognizing the substantial Mesozoic fossil record); substantively distinct from mainstream paleontology at the chronological level (rejecting the 66-million-year K-Pg date, proposing the Gemini-flood elimination framework); substantially aligned with mainstream Hebrew biblical scholarship at the philological level (recognizing the unambiguous *tannin* meaning); substantively distinct from mainstream Hebrew biblical scholarship at the interpretive level (reading the Genesis 1:21 *taninim* as referring to actual deliberately-created creatures rather than as mythological imagery); substantively distinct from mainstream comparative mythology at the explanatory level (reading dragon folklore as cultural memory rather than as purely imaginative invention) while acknowledging that mainstream explanations may have contributed to the specific elaboration of the traditions across cultures.
+The Wheel of Heaven corpus's dragon treatment is positioned within this scholarly landscape as follows: substantially aligned with mainstream paleontology at the morphological-zoological-phylogenetic level (recognizing dinosaurs as biological organisms, recognizing the dinosaur-bird connection, recognizing the substantial Mesozoic fossil record); distinct from mainstream paleontology at the chronological level (rejecting the 66-million-year K-Pg date, proposing the Gemini-flood elimination framework); substantially aligned with mainstream Hebrew biblical scholarship at the philological level (recognizing the unambiguous *tannin* meaning); distinct from mainstream Hebrew biblical scholarship at the interpretive level (reading the Genesis 1:21 *taninim* as referring to actual deliberately-created creatures rather than as mythological imagery); distinct from mainstream comparative mythology at the explanatory level (reading dragon folklore as cultural memory rather than as purely imaginative invention) while acknowledging that mainstream explanations may have contributed to the specific elaboration of the traditions across cultures.
 
 ## Comparative observations
 
