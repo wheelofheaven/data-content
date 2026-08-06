@@ -1,12 +1,15 @@
 +++
 title = "Nephilim"
 slug = "nephilim"
-description = "The Nephilim (Hebrew: nephilim, conventionally 'the fallen ones,' rendered gigantes — 'giants' — in the Greek Septuagint) are the figures introduced in Genesis 6:1–4, where the benei ha-Elohim ('sons of the Elohim') take human women as wives and the resulting generation are 'the mighty men that were of old, the men of renown.' The term recurs once more in the Hebrew Bible, in the spies' report of Numbers 13:33, where the Anakim of Canaan are said to descend 'from the Nephilim.' The passage is among the most contested in the biblical corpus, with three historic lines of interpretation — the angelic, the Sethite, and the dynastic — and a substantial Second Temple expansion in the Enochic Watchers literature. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Nephilim are the hybrid offspring of reproductive unions between members of the exiled Elohim faction present on Earth after the Eden settlement and human women of the Eden lineage — a substantial population within the antediluvian civilization's leadership, and one of the developments that produced the home-world Council's decision to send the Flood."
+description = "The Nephilim of Genesis 6 are the offspring of the 'sons of the Elohim' and human women — in the Raëlian canon, hybrid children of the exiled Elohim faction."
 template = "wiki-page.html"
 toc = true
 aliases = ["/wiki/sons-of-elohim/"]
 
 [extra]
+summary = "The Nephilim (Hebrew: nephilim, conventionally 'the fallen ones,' rendered gigantes — 'giants' — in the Greek Septuagint) are the figures introduced in Genesis 6:1–4, where the benei ha-Elohim ('sons of the Elohim') take human women as wives and the resulting generation are 'the mighty men that were of old, the men of renown.' The term recurs once more in the Hebrew Bible, in the spies' report of Numbers 13:33, where the Anakim of Canaan are said to descend 'from the Nephilim.' The passage is among the most contested in the biblical corpus, with three historic lines of interpretation — the angelic, the Sethite, and the dynastic — and a substantial Second Temple expansion in the Enochic Watchers literature. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Nephilim are the hybrid offspring of reproductive unions between members of the exiled Elohim faction present on Earth after the Eden settlement and human women of the Eden lineage — a substantial population within the antediluvian civilization's leadership, and one of the developments that produced the home-world Council's decision to send the Flood."
+tldr = "The hybrid offspring of Genesis 6 — children of the Watchers and human women, not the Watchers themselves."
+keywords = ["Nephilim", "Genesis 6", "giants", "benei ha-Elohim", "sons of God", "Nephilim vs Watchers", "Anakim"]
 same_as = ["https://www.wikidata.org/wiki/Q747737", "https://en.wikipedia.org/wiki/Nephilim"]
 category = "Peoples & Groups"
 editorial_pass = "2026-05"
