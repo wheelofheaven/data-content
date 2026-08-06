@@ -6,6 +6,7 @@ toc = true
 aliases = ["/intro/age-of-aquarius/", "/wiki/age-of-aquarius/"]
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q1569944", "https://en.wikipedia.org/wiki/Age_of_Aquarius"]
 symbol = "♒"
 color = "cyan"
 claim_type = "inferred"
