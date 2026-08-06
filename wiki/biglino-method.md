@@ -27,7 +27,7 @@ see_also = [
 
 [extra.infobox]
 type = "Hermeneutic methodology for reading the Hebrew Bible; principal contemporary articulation of the Schliemann-Sendy literal-reading tradition"
-developer = "Mauro Biglino (1950–), Italian translator and scholar; 17-year career as Hebrew Bible translator for Edizioni San Paolo (Pauline Editions, Vatican-affiliated Catholic publisher); independent author from 2010 onward"
+developer = "Mauro Biglino (1950–), Italian translator and scholar; translator of seventeen books of the Hebrew Bible for Edizioni San Paolo (Pauline Editions, Vatican-affiliated Catholic publisher) across more than a decade; independent author from 2010 onward"
 principal_source = "*Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011); *The Naked Bible* (with Giorgio Cattaneo, English edition 2022) for the explicit methodological articulation"
 methodology = "Three steps: (1) obtain familiarity with the original Hebrew text; (2) set aside accumulated traditional interpretation; (3) read the text literally, taking words in their concrete sense"
 slogan = "'Pretend that the Bible is simply telling the truth' — Biglino's principal methodological formulation"
@@ -63,7 +63,7 @@ The method's principal critics within mainstream biblical scholarship argue that
 
 The term *Biglino Method* (Italian *Metodo Biglino*) is a name applied by readers and commentators to Mauro Biglino's interpretive approach. Biglino himself does not consistently use the formal designation, preferring to articulate the method through its operational slogan ("let's pretend it's true") and its concrete application across his works.
 
-The phrase first appears in print in *The Naked Bible* (2022), where Cattaneo describes Biglino's approach with the explicit formulation: *"The Biglino method works like this: 'pretend' that the Bible is simply telling the truth."* The naming reflects standard convention for methodologies associated with a single principal figure (the Socratic method, the Cartesian method, the Schliemann approach). The Italian *Metodo Biglino* and English *Biglino Method* are used interchangeably in contemporary engagement.
+The phrase first appears in print in the Italian original *La Bibbia nuda* (2021; English edition *The Naked Bible*, 2022), where Cattaneo describes Biglino's approach with the explicit formulation: *"The Biglino method works like this: 'pretend' that the Bible is simply telling the truth."* The naming reflects standard convention for methodologies associated with a single principal figure (the Socratic method, the Cartesian method, the Schliemann approach). The Italian *Metodo Biglino* and English *Biglino Method* are used interchangeably in contemporary engagement.
 
 Alternative designations register in different contexts:
 
@@ -117,9 +117,9 @@ The principal Hebrew-textual observation — *Elohim* as plural, requiring plura
 
 ### Biglino's 2011-onward independent development
 
-Biglino's articulation of the method came through his own work as a Hebrew Bible translator rather than through direct discipleship of Sendy. From approximately 1990 to 2007, Biglino worked as a Hebrew Bible translator for **Edizioni San Paolo** (the Pauline Editions, an Italian Catholic publisher with substantial Vatican connections). The translation project produced bilingual Hebrew-Italian editions of the Hebrew Bible for Catholic readers, with Biglino responsible for the Hebrew-to-Italian rendering of seventeen volumes.
+Biglino's articulation of the method came through his own work as a Hebrew Bible translator rather than through direct discipleship of Sendy. For more than a decade — a collaboration that ended around 2010 — Biglino worked as a Hebrew Bible translator for **Edizioni San Paolo** (the Pauline Editions, an Italian Catholic publisher with substantial Vatican connections). The translation project produced bilingual Hebrew-Italian editions of the Hebrew Bible for Catholic readers, with Biglino responsible for the Hebrew-to-Italian rendering of seventeen volumes.
 
-The seventeen years of close direct engagement with the Hebrew text produced, in Biglino's account, a progressive realization that the text the translation was rendering bore only loose resemblance to the theological framework the surrounding apparatus assumed. As Biglino describes the process in *The Naked Bible*:
+The years of close direct engagement with the Hebrew text produced, in Biglino's account, a progressive realization that the text the translation was rendering bore only loose resemblance to the theological framework the surrounding apparatus assumed. As Biglino describes the process in *The Naked Bible*:
 
 > *"This type of project, which I worked on for a few years, brought me into direct contact, let's say, with the very origins, with the etymology of each individual word. Terms that, time after time, are put back into the context of the stories. Words that gave birth to a mosaic that is totally different from what is traditionally told to us."*
 
@@ -138,7 +138,7 @@ The independent works also record a quiet change of sources. *Il libro che cambi
 
 ### The genealogical relationship
 
-The Sendy-Biglino genealogy operates as a case of methodological convergence rather than direct intellectual influence. Biglino does not present himself as a Sendy disciple; in many interviews and works he does not engage Sendy directly. The convergence appears to be the product of two independent figures arriving at structurally similar methodological commitments through close engagement with the Hebrew text — Sendy through his autodidactic alternative-history work in 1960s France, Biglino through his seventeen-year professional translation career in 1990s-2000s Italy.
+The Sendy-Biglino genealogy operates as a case of methodological convergence rather than direct intellectual influence. Biglino does not present himself as a Sendy disciple; in many interviews and works he does not engage Sendy directly. The convergence appears to be the product of two independent figures arriving at structurally similar methodological commitments through close engagement with the Hebrew text — Sendy through his autodidactic alternative-history work in 1960s France, Biglino through his decade-plus professional translation career in 2000s Italy.
 
 The convergence itself is methodologically significant. When two independent figures, working from different starting points in different decades, arrive at the same hermeneutic commitments and the same principal textual observations (the plurality of *Elohim*, the political rather than theological character of the prohibitions, the concrete rather than allegorical character of the narratives), the convergence suggests that the text is producing the methodology when engaged closely rather than the methodology producing pre-selected readings of the text.
 
@@ -172,7 +172,7 @@ Biglino's own position on terms he considers untranslatable, articulated in *The
 
 > *"I've said many times in recent years that there are terms that, in my opinion, should not be translated. It's a question of integrity, since we do not know exactly what they mean. So honesty requires leaving them just as they are written."*
 
-During Biglino's Edizioni San Paolo translation work, terms including *Elohim*, *kavod*, *ruach*, and *Yahweh* were preserved in transliteration in the published Italian editions — registering that mainstream Catholic biblical publishing recognized the integrity concerns even in formally orthodox contexts.
+In Biglino's account of his Edizioni San Paolo translation work, terms including *Elohim*, *kavod*, *ruach*, and *Yahweh* were preserved in transliteration in the published interlinear editions — a practice he reads as registering that mainstream Catholic biblical publishing recognized the integrity concerns even in formally orthodox contexts.
 
 ### Step 2: Disregard all preconceived traditional interpretations
 

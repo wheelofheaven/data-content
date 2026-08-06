@@ -162,7 +162,7 @@ The Greek philosophical tradition includes substantial engagement with the conce
 >
 > — Plato, *Timaeus* 39d (translation Cornford)
 
-Plato did not specify the duration of the Perfect Year; later authors gave various figures. **Cicero** in *De Natura Deorum* (c. 45 BCE) discussed the concept following Plato. **Censorinus** (3rd century CE) preserved several ancient calculations: **Heraclitus** (c. 540–480 BCE) was given as 10,800 years; **Aristarchus of Samos** (c. 310–230 BCE) as 2,484 years; **Diogenes of Babylonia** as 360 times Heraclitus's figure. The figure of **36,000 years** for the Platonic Great Year appears in **Ptolemy** (c. 150 CE) and became the dominant Western figure through the medieval period.
+Plato did not specify the duration of the Perfect Year; later authors gave various figures. **Cicero** in *De Natura Deorum* (c. 45 BCE) discussed the concept following Plato. **Censorinus** (3rd century CE) preserved several ancient calculations: **Heraclitus** (c. 540–480 BCE) was given as 10,800 years; **Aristarchus of Samos** (c. 310–230 BCE) as 2,484 years. **Diogenes of Babylonia** put the Great Year at 365 times Heraclitus's figure, a report transmitted in the doxographic tradition under Aëtius's name. The figure of **36,000 years** for the Platonic Great Year appears in **Ptolemy** (c. 150 CE) and became the dominant Western figure through the medieval period.
 
 The relationship between the Platonic Magnus Annus and the precessional Great Year is genuinely contested. Plato himself, predating Hipparchus by approximately 230 years, could not have known the precessional cycle. The original Magnus Annus concept appears to have been about planetary conjunctions rather than precession; the conflation of the two came after Hipparchus's discovery, when subsequent commentators retrospectively connected Plato's vague description to the newly identified precessional phenomenon. By the Renaissance, the Magnus Annus was commonly identified with the precessional cycle, and the figure of 25,920 years (sometimes 36,000) was used as the standard Platonic figure.
 
@@ -234,7 +234,7 @@ The framework's adopted reckoning uses the traditional 25,920-year cycle and the
 The framework connects the 72-year Great Day to the pattern of prophetic transmission. The principal observations:
 
 - **One Great Day (72 years) ≈ one human lifespan** — the temporal scope across which a single prophetic figure can directly transmit content
-- **One Great Day ≈ three biblical generations** — the standard biblical generation of approximately 20-25 years (Genesis 25:26: Isaac at age 60 when Jacob was born; Genesis 5 genealogies' approximately 20-year average childbearing ages on the framework's reading)
+- **One Great Day ≈ three biblical generations** — the standard biblical generation of approximately 20-25 years (Genesis 5 genealogies' approximately 20-year average childbearing ages on the framework's reading)
 - **Thirty Great Days = one Great Month** — the temporal scope across which a religious tradition's continuous transmission typically operates before substantial reformulation or renewal
 
 The framework's broader reading treats the structural relationship between the 72-year Great Day and the typical prophetic lifespan as preserving content about the chronological infrastructure within which the prophetic tradition operates. The dedicated [List of prophets and religions](../list-of-prophets-and-religions/) entry develops the broader pattern; the present entry establishes the chronological-unit connection.
@@ -250,8 +250,6 @@ The number 72 — the Great Day in years — has substantial significance across
 - **The 72 angels of the *Shemhamphorash*** — derived from the 72 Names, each Name associated with a specific angel. The tradition is developed in Pseudo-Solomonic and broader medieval ceremonial magic literature.
 - **The 70 (or 72) translators of the Septuagint** — the legendary group of Jewish scholars who translated the Hebrew Bible into Greek under Ptolemy II Philadelphus (mid-3rd century BCE). The number is traditional 70 in earlier sources, 72 in later (six translators from each of the twelve tribes).
 - **The 72 conspirators against Osiris** — in the Egyptian myth of Osiris's death at the hands of Set and his seventy-two co-conspirators (preserved in Plutarch's *De Iside et Osiride*, c. 100 CE). The number 72 in this context has been read by some interpreters (including Santillana and von Dechend) as connecting to the precessional Great Day.
-- **The 72-day Egyptian decan-week period** — in the broader Egyptian astronomical tradition, 72 days corresponds to one-fifth of the 360-day schematic year and connects to the decanal division of the ecliptic.
-- **The 72-fold structure of the *Bardo Thodol* (Tibetan Book of the Dead)** — the 72 manifestations of the deities encountered in the bardo state, developed in the Tibetan Buddhist tradition.
 
 The cross-cultural appearance of the number 72 in symbolic-numerological contexts is consistent with the framework's broader reading that pre-modern cosmological systems preserved the precessional numerical structure through symbolic vocabulary. The framework does not require that every appearance of 72 in source-tradition material be precessionally significant — the number has substantial intrinsic mathematical properties (the divisibility, the close approximation to human lifespan, etc.) that account for some of its prominence. But the broader pattern is consistent with the *Hamlet's Mill* thesis.
 
@@ -291,7 +289,7 @@ The Great Month entry surfaces several open questions for the framework's broade
 - **The reconciliation of the modern astronomical and traditional reckonings.** The framework currently uses both the modern astronomical 25,771.5-year cycle and the traditional 25,920-year cycle in different contexts. Whether the corpus should converge on one of these as the principal reckoning, and what the principled basis for the choice should be, is treated as open.
 - **The specific significance of 432.** The number 432 appears with extraordinary frequency in cross-cultural cosmological-numerological contexts (the Hindu 432,000-year Kali Yuga, the 4,320,000-year Mahayuga, the 432,000-year Babylonian *sar*-related calculations, the 432 Hz frequency in some musical-tradition contexts). Whether the 432 pattern is principally a derivation from the precessional structure (with 432 = 60 × 7.2, where 7.2 is the close approximation to 72/10) or whether 432 has independent significance that secondarily connects to precession is treated as open.
 - **The Yukteshwar 24,000-year cycle.** The 19th-century Indian astrological tradition associated with Sri Yukteshwar uses a 24,000-year *yuga* cycle that does not match the standard Puranic figures. The framework's adopted position is open on whether the Yukteshwar reading preserves earlier content or is a 19th-century reinterpretation; subsequent corpus work on the broader Hindu cosmological tradition may permit more developed readings.
-- **The Egyptian decanal connection.** The Egyptian astronomical tradition's 36 decans (10° divisions of the ecliptic, corresponding to 10-day periods within the 360-day schematic year) and the broader 72-day Egyptian periods may preserve precessional content. Future corpus work on the Egyptian astronomical tradition may permit more developed readings.
+- **The Egyptian decanal connection.** The Egyptian astronomical tradition's 36 decans (10° divisions of the ecliptic, corresponding to 10-day periods within the 360-day schematic year) may preserve precessional content. Future corpus work on the Egyptian astronomical tradition may permit more developed readings.
 - **The specific operational use by the Elohim.** Whether the Elohim used the Great Month / Great Year cycle as navigation infrastructure (per the Biglino reading developed in the [Precession](../precession/) entry), as project-chronology infrastructure, as some other operational application, or as a combination of these is treated as open.
 
 ## See also
@@ -330,7 +328,7 @@ Plato. *Timaeus*. c. 360 BCE. Standard English translation: *Plato: Complete Wor
 
 Cicero. *De Natura Deorum*. c. 45 BCE. [The principal Latin source for the post-Platonic Magnus Annus tradition.]
 
-Censorinus. *De Die Natali*. c. 238 CE. [Preserves the various ancient calculations of the Great Year (Heraclitus, Aristarchus, Diogenes of Babylonia).]
+Censorinus. *De Die Natali*. c. 238 CE. [Preserves several ancient calculations of the Great Year (Heraclitus, Aristarchus); Diogenes of Babylonia's 365× figure is transmitted via Aëtius.]
 
 Plutarch. *De Iside et Osiride* (*On Isis and Osiris*). c. 100 CE. [Preserves the Egyptian Osiris-Set tradition with the 72 conspirators against Osiris.]
 

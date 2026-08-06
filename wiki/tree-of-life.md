@@ -607,7 +607,7 @@ Other labs (Juan Carlos Izpisua Belmonte at the Salk Institute, Vittorio Sebasti
 - **Stem cell exhaustion** — the loss of stem cell function with age; stem cell treatments address this
 - **Intercellular communication breakdown** — the progressive failure of communication between cells; various interventions address this
 
-**The current state of the research.** Contemporary research suggests that human lifespans of 150–200 years may be achievable within the coming decades through combinations of these interventions. Lifespans of 500–1,000 years would require either substantial breakthroughs beyond the current trajectory or entirely different approaches (such as the cellular-transfer technology the source material describes).
+**The current state of the research.** Optimistic projections within the longevity field envision human lifespans of 150–200 years through combinations of these interventions; mainstream geroscience treats such figures as speculative. Lifespans of 500–1,000 years would require either substantial breakthroughs beyond the current trajectory or entirely different approaches (such as the cellular-transfer technology the source material describes).
 
 **Cloning and regeneration research.** The cloning of Dolly the sheep (1996) demonstrated that complete mammals could be regenerated from single somatic cells. Subsequent work has extended cloning to numerous species, with substantial research now applied to species recovery (the Frozen Zoo's work, the de-extinction projects). The CRISPR-based gene editing technology (developed since c. 2012) has dramatically expanded the precision with which genetic material can be modified.
 
