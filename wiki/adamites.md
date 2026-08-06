@@ -1,15 +1,18 @@
 +++
 title = "Adamites"
 slug = "adamites"
-description = "The Adamites, in the Wheel of Heaven framework, are the distinct community of engineered humans synthesised by the Elohim during the *yom* 6 phase of the Earth project (Age of Leo on the corpus's precessional reckoning, c. 13,170 – 11,010 BCE) and resident within the Gan Eden (the Garden of Eden) during the immediate post-synthesis phase. The framework reads the Adamites as the original engineered human population — the *adam* of Genesis 1:26–2:7, named for the Hebrew *adamah* (\"earth, soil\") — designed in the biological image of the Elohim and adapted for the specific terrestrial conditions of the antediluvian world. The framework's reading of the subsequent Eden narrative (Genesis 3) holds that a rebellious Elohim faction (the *Serpent* of the canonical text) engaged in unauthorised reproductive contact with the Adamite population, producing hybrid offspring that subsequently assimilated into the broader Adamite community. The hybridisation event is read by the framework as the historical content preserved in the Genesis 3 Fall narrative and as connected to the Genesis 6:1–4 *bnei ha-Elohim*-*bnot ha-adam* passage and the broader Watcher / Nephilim tradition. The Adamites of the framework's reading should not be confused with the early Christian sect of the same name (active in North Africa from the 2nd through 4th centuries CE) that practised ritual nudity in imitation of pre-Fall Adam; the two are unrelated phenomena treated separately in the entry."
+description = "Who were the Adamites? In the Wheel of Heaven framework, they are the original human population engineered by the Elohim in the antediluvian Garden of Eden."
 template = "wiki-page.html"
 toc = true
 
 [extra]
+summary = "The Adamites, in the Wheel of Heaven framework, are the distinct community of engineered humans synthesised by the Elohim during the *yom* 6 phase of the Earth project (Age of Leo on the corpus's precessional reckoning, c. 13,170 – 11,010 BCE) and resident within the Gan Eden (the Garden of Eden) during the immediate post-synthesis phase. The framework reads the Adamites as the original engineered human population — the *adam* of Genesis 1:26–2:7, named for the Hebrew *adamah* (\"earth, soil\") — designed in the biological image of the Elohim and adapted for the specific terrestrial conditions of the antediluvian world. The framework's reading of the subsequent Eden narrative (Genesis 3) holds that a rebellious Elohim faction (the *Serpent* of the canonical text) engaged in unauthorised reproductive contact with the Adamite population, producing hybrid offspring that subsequently assimilated into the broader Adamite community. The hybridisation event is read by the framework as the historical content preserved in the Genesis 3 Fall narrative and as connected to the Genesis 6:1–4 *bnei ha-Elohim*-*bnot ha-adam* passage and the broader Watcher / Nephilim tradition. The Adamites of the framework's reading should not be confused with the early Christian sect of the same name (active in North Africa from the 2nd through 4th centuries CE) that practised ritual nudity in imitation of pre-Fall Adam; the two are unrelated phenomena treated separately in the entry."
+tldr = "The Adamites are the Elohim's original engineered human population of the Eden phase, later mixed with the hybrid offspring of a rebellious Elohim faction."
+keywords = ["Adamites", "Garden of Eden", "Elohim", "engineered humans", "Genesis", "Serpent hybridisation", "Nephilim", "ancient astronaut theory"]
 same_as = ["https://www.wikidata.org/wiki/Q41188", "https://en.wikipedia.org/wiki/Adamites"]
 see_also = [{ title = "Adam and Eve", path = "/wiki/adam-and-eve/" }]
 category = "Peoples & Groups"
-editorial_pass = "2026-05"
+editorial_pass = "2026-08"
 entry_type = "people group"
 claim_type = "framework"
 timeline = ["leo", "cancer", "gemini"]
@@ -35,7 +38,7 @@ The corpus's broader treatment of the *adam* material distributes across multipl
 
 ## Etymology
 
-The English term **Adamites** is formed from the Hebrew *adam* (<span class="hebrew">אָדָם</span>) plus the English collective-formative suffix *-ites* (used for designating people groups, as in *Israelites*, *Hittites*, *Canaanites*, *Moabites*). The substantive etymological work is on the underlying Hebrew root.
+The English term **Adamites** is formed from the Hebrew *adam* (<span class="hebrew">אָדָם</span>) plus the English collective-formative suffix *-ites* (used for designating people groups, as in *Israelites*, *Hittites*, *Canaanites*, *Moabites*). The etymological weight falls on the underlying Hebrew root.
 
 The Hebrew **<span class="hebrew">אָדָם</span>** (*adam*) derives from the triliteral root **<span class="hebrew">א-ד-ם</span>** (*ʾ-d-m*) and is connected to a cluster of cognate terms within Hebrew and the broader Proto-Semitic linguistic family:
 
@@ -52,7 +55,7 @@ The corpus's [List of etymological readings](../list-of-etymological-readings/) 
 
 ## The Christian Adamite sect (historical disambiguation)
 
-Before treating the framework's reading of the Adamites, it is important to disambiguate the term from the **early Christian sect** of the same name. The framework's Adamites and the Christian Adamites are unrelated phenomena that share an English designation due to common dependence on the Hebrew *adam*; the framework reads the early Christian sect as an unrelated historical phenomenon and treats them here for clarity rather than substantive engagement.
+Before treating the framework's reading of the Adamites, it is important to disambiguate the term from the **early Christian sect** of the same name. The framework's Adamites and the Christian Adamites are unrelated phenomena that share an English designation only through common dependence on the Hebrew *adam*; the sect is treated here for disambiguation.
 
 The **Adamites** (also called **Adamians**) were an early Christian sect reportedly active principally in **North Africa** from the **2nd through 4th centuries CE**, with possibly some presence in the eastern Mediterranean (Cyprus, Cilicia, Syria). The principal historical sources for the sect are the writings of early Christian heresiologists — **Epiphanius of Salamis** in his *Panarion* (c. 374–377 CE), **Augustine of Hippo** in his *De Haeresibus*, and **Theodoret of Cyrrhus** in his *Compendium of Heretical Fables*. The accounts are substantially uncertain: Epiphanius himself acknowledged that he knew of the Adamites only from hearsay, and the heresiological accounts vary in their characterisation of the sect (Theodoret emphasised promiscuity and connection to the Carpocratian Gnostic tradition; Epiphanius emphasised asceticism). Modern scholarship treats the heresiological accounts with caution; the historical reliability of the sect's specific practices is contested.
 
@@ -69,7 +72,7 @@ The sect's specific origin is contested. Theodoret connected the Adamites to the
 
 The Adamite designation was subsequently revived for later European groups. The most significant later revival was the **Bohemian Adamites**, an offshoot of the Hussite Taborite movement active from approximately **1419 CE** in the early phases of the Hussite Wars. The Bohemian Adamites took to public nudity, communal property, and a substantially antinomian theological position; they were suppressed by Hussite leader **Jan Žižka** in 1421 CE. Subsequent occasional revivals of the Adamite designation occurred in the Netherlands and elsewhere in late-medieval and early-modern Europe, generally as heresiological labels applied to communities accused of nude or libertine worship practices.
 
-None of these historical Adamite phenomena — the 2nd-4th century North African sect, the 15th-century Bohemian Adamites, the various later revivals — bear substantive connection to the framework's Adamites. The shared designation reflects only the common dependence on the Hebrew *adam* and the broader cultural significance of the Adamic figure in subsequent Western religious tradition. The framework treats the early Christian sect and its later revivals as a separate phenomenon and engages it here principally for disambiguation.
+None of these historical Adamite phenomena — the 2nd-4th century North African sect, the 15th-century Bohemian Adamites, the various later revivals — bear any meaningful connection to the framework's Adamites. The shared designation reflects only the common dependence on the Hebrew *adam* and the broader cultural significance of the Adamic figure in subsequent Western religious tradition. The framework treats the early Christian sect and its later revivals as a separate phenomenon and engages it here principally for disambiguation.
 
 ## In Jewish, Christian, and Islamic tradition
 
@@ -113,7 +116,7 @@ The Islamic tradition treats **Ādam** (Arabic *آدَم*) as the first prophet 
 
 Contemporary academic historical-critical scholarship engages the Genesis 1–11 material as a composite text composed across an extended period (the documentary hypothesis: J, E, P, with the Adamic material principally from J and P sources) and as preserving a complex relationship with the broader Ancient Near Eastern mythological tradition (the Mesopotamian *Atrahasis* and *Enuma Elish*, the broader West Semitic creation traditions, the Egyptian primordial-creation material). The mainstream-academic position treats the Adamic narrative as a substantially literary-mythological text with significant but indirect relationship to historical events.
 
-The framework's adopted position engages this academic-historical work substantively while reading the source-tradition material as preserving operational content about specific historical events. The corpus's broader interpretive method (developed in the [List of exegetic readings](../list-of-exegetic-readings/) and related entries) treats the source-tradition material as historiographic evidence subject to interpretive recovery rather than as either literal-historical narrative or as purely mythological composition.
+The framework's adopted position engages this academic-historical work while reading the source-tradition material as preserving operational content about specific historical events. The corpus's broader interpretive method (developed in the [List of exegetic readings](../list-of-exegetic-readings/) and related entries) treats the source-tradition material as historiographic evidence subject to interpretive recovery rather than as either literal-historical narrative or as purely mythological composition.
 
 ## In the Wheel of Heaven framework
 
@@ -159,7 +162,7 @@ Biglino's reading frames the Adamites as a distinctive sub-population within the
 
 ### The Serpent contact event
 
-The framework's most substantively distinctive reading concerns the **Serpent contact event** preserved in Genesis 3. The mainstream Christian-tradition reading treats Genesis 3 as the Fall narrative — the moment when human sin entered the world through Adam and Eve's disobedience to the divine commandment. The framework's reading is substantially different: the Serpent is read as a **rebellious Elohim faction**, and the "eating of the fruit" is read as a **figurative-philological compression** of a more substantive contact event between the Adamite population and this rebellious faction.
+The framework's most distinctive reading concerns the **Serpent contact event** preserved in Genesis 3. The mainstream Christian-tradition reading treats Genesis 3 as the Fall narrative — the moment when human sin entered the world through Adam and Eve's disobedience to the divine commandment. The framework's reading is substantially different: the Serpent is read as a **rebellious Elohim faction**, and the "eating of the fruit" is read as a **figurative-philological compression** of a concrete contact event between the Adamite population and this rebellious faction.
 
 The principal framework claims:
 
@@ -181,7 +184,7 @@ The framework reads the Serpent contact as producing **hybrid offspring** — ch
 
 ### Connection to contemporary archaic admixture research
 
-The framework's reading of the Adamite-Serpent hybridisation has substantive intellectual cognate in **contemporary genomic research on archaic human admixture**. The mainstream scientific record now substantially establishes:
+The framework's reading of the Adamite-Serpent hybridisation has an intellectual cognate in **contemporary genomic research on archaic human admixture**. The mainstream scientific record now substantially establishes:
 
 - All non-African modern human populations carry approximately **1–4% Neanderthal DNA** as a result of admixture events approximately 50,000 years ago when anatomically modern humans migrating out of Africa encountered Neanderthal populations in Eurasia
 - **Melanesian, Australian Aboriginal, and Papuan populations** carry an additional approximately **2–5% Denisovan DNA** as a result of admixture with the Denisovan population (a distinct archaic hominin group identified principally from genetic and limited skeletal evidence from Denisova Cave in southern Siberia)
@@ -192,7 +195,7 @@ The framework's adopted position registers this contemporary genomic evidence as
 
 - The mainstream-genomic record establishes that **archaic admixture occurred** — the human genome is substantially a hybrid of multiple hominin lineages rather than a single uniform descent
 - The archaic admixture is **non-uniform across populations** — some populations carry substantially more archaic DNA than others
-- The archaic admixture has had **substantive functional consequences** — many of the introgressed genetic variants have been positively selected and continue to function in the contemporary human genome
+- The archaic admixture has had **significant functional consequences** — many of the introgressed genetic variants have been positively selected and continue to function in the contemporary human genome
 - The full archaic-admixture record is **not yet complete** — research continues to identify additional admixture events and to characterise the relationships among the various contributing hominin lineages
 
 The framework does not require that the Adamite-Serpent hybridisation be identified with the documented Neanderthal-modern-human admixture (the chronology, geography, and specific genetic signatures do not match in any obvious way). What the framework reads as significant is the mainstream-scientific recognition that **modern human descent is substantially hybrid** rather than uniform — establishing the broader pattern within which the framework's specific Adamite-Serpent hybridisation reading can be considered. The relationship between the framework's specific reading and the documented archaic-admixture record is treated as one of the entry's principal open questions.
@@ -203,7 +206,7 @@ The framework's reading of the post-deluge human population treats the contempor
 
 - The Genesis 10 Table of Nations preserves the principal post-deluge population divisions, with the descendants of Noah's three sons (Shem, Ham, Japheth) as the founding figures of the broader regional human populations
 - The contemporary human population is descended from the post-deluge Adamite preservation, with substantial subsequent population history (the Ages of Cancer and Gemini, the broader Holocene population expansions)
-- The substantive hybridisation events of the Watcher-Adamite pattern were principally restricted to the antediluvian period; the post-deluge population reflects a more uniform Adamite descent with subsequent population-historical developments
+- The major hybridisation events of the Watcher-Adamite pattern were principally restricted to the antediluvian period; the post-deluge population reflects a more uniform Adamite descent with subsequent population-historical developments
 - The framework's reading is open on the question of whether subsequent contact events (the broader cross-cultural Watcher / *gandharva* / *yaksha* / other supernatural-being traditions) preserve content about continued post-deluge reproductive contact, or whether these traditions are derivative cultural transmissions from the antediluvian period
 
 ## Connections to the broader framework
