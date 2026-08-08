@@ -177,7 +177,7 @@ reject the deep-time history of life. It reads the Elohim as having engineered
 particular organisms — humanity above all — on top of a biosphere that itself
 involved evolutionary processes, not as having conjured every species from
 nothing. Its one sharp divergence from mainstream biology is narrow and datable:
-it places the synthesis of anatomically modern humans at roughly 25,000 years
+it places the synthesis of anatomically modern humans at roughly 13,000 years
 ago, against the mainstream figure of some 200,000 years, and it treats that
 tension openly as an unresolved question rather than smoothing it over. The
 [pantropy](../pantropy/) entry develops the human-synthesis reading in detail.

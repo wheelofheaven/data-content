@@ -211,7 +211,7 @@ The Age transitions are dated variously across traditions, depending on constell
 
 ### Precession as chronological infrastructure
 
-Precession's most basic use is as **chronological infrastructure**. The Ages give a frame spanning approximately 26,000 years per cycle — enough to hold the principal events of the Elohim project (synthesis approximately 25,000 years ago) and the subsequent history — divided into twelve distinct Ages of approximately 2,150-2,160 years, tied to an independently verifiable phenomenon and aligned with the zodiacal signs' symbolic weight across religious and cultural traditions. The corpus dates the principal events to these Ages:
+Precession's most basic use is as **chronological infrastructure**. The Ages give a frame spanning approximately 26,000 years per cycle — enough to hold the principal events of the Elohim project (the human synthesis about 13,000 years ago, c. 11,375 BCE) and the subsequent history — divided into twelve distinct Ages of approximately 2,150-2,160 years, tied to an independently verifiable phenomenon and aligned with the zodiacal signs' symbolic weight across religious and cultural traditions. The corpus dates the principal events to these Ages:
 
 - **Virgo** (c. 13,170 – 11,010 BCE) — the *yom* 5 phase of Genesis 1, the synthesis of the animal life humans depend on
 - **Leo** (c. 11,010 – 8,850 BCE) — the *yom* 6 human synthesis: the principal Adamite synthesis and the Eden phase
