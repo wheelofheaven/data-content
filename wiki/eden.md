@@ -138,7 +138,7 @@ transliteration = "ʿĒden; gan-ʿĒden"
 type = "Geographic region with enclosed installation"
 biblical_location = "Genesis 2:8 ('eastward in Eden')"
 geographic_referent = "Eastern Mediterranean / Levantine region of the antediluvian supercontinent"
-operational_period = "Mid–late Age of Leo through Age of Cancer, c. 11,375 – 6,690 BCE"
+operational_period = "The Age of Leo through the Age of Cancer, c. 11,375 – 6,690 BCE"
 date_type = "framework-internal; derived from precessional reading of Genesis and the 666-generation anchor"
 closing_event = "Catastrophic disruption during the Flood of the Age of Gemini, c. 6,690 BCE"
 current_status = "Region's antediluvian configuration no longer extant; post-Flood remnants identified by the framework with the modern Levant"
@@ -229,7 +229,7 @@ The size of the installation is not specified in the source material. The Genesi
 
 Eden was occupied, on the corpus's reading, across a specific period that maps to two precessional ages and a specific set of operational phases. The framework's chronology of these phases derives from the Raëlian source material's account of the creation work, with the Hebrew Bible's narrative providing the principal textual evidence for the political and biographical events.
 
-### The Israel-team operational period: late Leo
+### The Israel-team operational period: the Age of Leo
 
 The Israel team's operations in the Eden region began, on the framework's reading, during the broader Age of Leo (c. 11,010 – 8,850 BCE) — the sixth precessional age of the creation project, in which the seven creator teams synthesized the land animals and ultimately the first humans. The Israel team's specific work in Eden during late Leo culminated in the creation of the first humans (Adam and Eve, on the Genesis names) at approximately 11,375 BCE — the date derived from the 666-generation calculation anchoring the framework's chronology.
 

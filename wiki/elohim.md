@@ -277,7 +277,7 @@ The exact membership and structure of the alliance is, on the corpus's reading, 
 The Elohim's relationship to Earth's humanity is the corpus's principal subject. The relationship is structured as that between a creator civilization and its synthesized creation, with the specific operational character of the relationship having shifted across the post-creation history through several distinct phases:
 
 - **The creation phase** (Capricorn through Leo, c. 21,810 – 8,850 BCE): direct laboratory work, with humanity not yet existing as the relationship's counterparty.
-- **The Eden phase** (late Leo through early Cancer, c. 11,400 – 10,000 BCE): direct teacher-student relationship between the Israel team and the first humans.
+- **The Eden phase** (the Age of Leo, c. 11,010 – 8,850 BCE): direct teacher-student relationship between the Israel team and the first humans.
 - **The post-Eden mediated phase** (Cancer through early Aries, c. 10,000 – 1,500 BCE): continuing teaching by the exiled Lucifer faction; periodic alliance visitation through Yahweh and other officers; the Antediluvian crisis and the Flood reset.
 - **The patriarchal and Mosaic phase** (mid Taurus through Aries, c. 2,000 – 600 BCE): formal covenantal relationships established with selected human lineages (Abraham, the Hebrew people); sustained direct intervention through Moses and the wilderness operations.
 - **The discovery-driven withdrawal phase** (late Aries through middle Pisces, c. 600 BCE – 1500 CE): policy shift to indirect contact; prophetic missions delivering content in religious vocabulary; supervision from operational distance.

@@ -82,7 +82,7 @@ principal_text = "Book of the Watchers (1 Enoch 1–36), especially chapters 6�
 biblical_anchor = "Genesis 6:1–4 (*benei ha-Elohim*); Daniel 4:13, 17 (*ʿîr we-qaddîš*, 'a watcher, a holy one')"
 leaders_in_tradition = "Shemihazah (Semjâzâ) — the oath and the unions; Asael (Azâzêl) — the forbidden instruction"
 number_in_tradition = "Two hundred, organized under twenty chiefs of ten (1 Enoch 6)"
-period = "Antediluvian — late Age of Leo through Age of Cancer on the corpus's reckoning (c. 11,375 – 6,690 BCE)"
+period = "Antediluvian — the Age of Leo through the Age of Cancer on the corpus's reckoning (c. 11,375 – 6,690 BCE)"
 framework_identification = "The exiled Lucifer-faction creator-scientists of the post-Eden settlement; identification of individual named Watchers left open"
 +++
 

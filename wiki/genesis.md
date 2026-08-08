@@ -228,7 +228,7 @@ The framework reads the seven *yamim* of Genesis 1 as seven precessional ages, m
 | Third | Scorpio | c. 17,490 – 15,330 BCE | 1:9–13: dry land emerges; vegetation | Continental work; first plant synthesis |
 | Fourth | Libra | c. 15,330 – 13,170 BCE | 1:14–19: sun, moon, stars established as time-markers | Astronomical calibration; precision measurement of celestial cycles |
 | Fifth | Virgo | c. 13,170 – 11,010 BCE | 1:20–23: marine life and birds | Synthesis of marine organisms and avian life |
-| Sixth | Leo | c. 11,010 – 8,850 BCE | 1:24–31: land animals; humans | Land-animal synthesis; humans created mid-Leo, c. 11,375 BCE |
+| Sixth | Leo | c. 11,010 – 8,850 BCE | 1:24–31: land animals; humans | Land-animal synthesis; first Adamites created at the opening of Leo, c. 11,375 BCE |
 | Seventh (*shabbat*) | Cancer | c. 8,850 – 6,690 BCE | 2:1–3 + Gen. 2:4–6:8 | The garden, Adam and Eve, expulsion, generations, *benei ha-Elohim* |
 
 A note on the seventh *yom* is in order, because the existing Genesis text apportions its content unevenly. The first six *yamim* are covered in Genesis 1:1–31. The seventh *yom* — the Day of Rest — opens at Genesis 2:1 and, on the framework's reading, extends through the entirety of the garden narrative (Genesis 2:4–25), the expulsion (Genesis 3), Cain and Abel (Genesis 4), the long-lived generations (Genesis 5), and the opening of the Flood narrative (Genesis 6:1–8). The biblical text does not partition this material into discrete ages; the framework reads it as a single extended narrative arc occupying the Age of Cancer, with the Flood itself belonging to the subsequent Age of Gemini.
