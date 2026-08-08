@@ -179,7 +179,7 @@ arabic_name = "شجرة الخلد (shajarat al-khuld, 'tree of immortality', in
 type = "Biotechnology for cellular extension and life-span prolongation; in mature form, cloning-and-memory-transfer technology producing practical immortality"
 biblical_appearance = "Genesis 2:9 (the Tree of Life in the garden); Genesis 3:22–24 (the access prohibition after the disclosure); Proverbs 3:18, 11:30, 13:12, 15:4 (figurative wisdom-tradition uses); Ezekiel 47:12 (the trees by the river of life); Revelation 2:7, 22:2, 22:14, 22:19 (the Tree of Life in the New Jerusalem)"
 operational_phases = "1) Original Eden installation feature (restricted to alliance personnel); 2) Post-Eden patriarchal grant phase (limited longevity for specific leaders, c. 8,850–6,690 BCE); 3) Post-Flood restricted phase (progressively reduced human access); 4) Basic Eloha longevity phase (700–1,200 years per body, standard for Elohim civilization); 5) Eternal cloning-and-memory-transfer phase (practical immortality, the Council of the Eternals)"
-recipients_in_framework = "Eden-lineage patriarchal leaders (Adam, Seth, Enos, Kenan, Mahalalel, Jared, Enoch, Methuselah, Lamech, Noah, and others); the broader Elohim civilization (~7 billion individuals with natural extended lifespan); the Eternals on the Planet of the Eternals (~700 Council members plus ~8,400 resurrected humans)"
+recipients_in_framework = "Eden-lineage patriarchal leaders via the post-Eden longevity grant (Adam, Seth, Enos, Kenan, Mahalalel, Jared, Methuselah, Lamech, Noah, and others); the broader Elohim civilization (~7 billion individuals with natural extended lifespan); the Eternals on the Planet of the Eternals (~700 Council members plus ~8,400 resurrected humans, including pre-Flood figures extracted before natural death such as Enoch)"
 distinguished_from = "The Tree of Knowledge of Good and Evil (the parallel Eden tree); the resurrection technology specifically (cellular-transfer plus memory-transfer for previously deceased individuals); the basic Eloha longevity treatment (the simpler 'small surgical adjustment')"
 current_status = "Operational on the Elohim home world and on the Planet of the Eternals; Earth-side longevity grants withdrawn after the post-Flood Council restrictions; projected extension to humanity following the Aquarian-age open return"
 principal_text = "Genesis 2:9; Genesis 3:22–24; the patriarchal genealogies of Genesis 5; Revelation 22:2"
@@ -395,7 +395,7 @@ The principal source-material content on the Tree of Life:
 
 > *"The oldest, the president of the council of the eternals, is 25,000 years old, and you see him before you now. I have lived in twenty-five bodies up to this day, and I was the first one on whom this experiment was successfully carried out."*
 
-**The cellular-transfer mechanism** (from the broader Raëlian source material):
+**The cellular-transfer mechanism** (from *Extra-Terrestrials Took Me to Their Planet* (1975), the Planet of the Eternals account):
 
 > *"The body is made up of new elements with the potential for another one thousand years of life — and so on eternally. But in order to limit the growth of the population, only geniuses have the right to eternity. Everybody on our planet has a cell sample taken at a certain age, hoping that they will be chosen for re-creation after their death."*
 
