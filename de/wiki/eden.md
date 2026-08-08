@@ -137,7 +137,7 @@ transliteration = "ʿĒden; gan-ʿĒden"
 type = "Geographische Region mit abgeschlossener Anlage"
 biblical_location = "Genesis 2,8 („östlich in Eden“)"
 geographic_referent = "Östlicher Mittelmeerraum / levantinische Region des vorsintflutlichen Superkontinents"
-operational_period = "Mittleres bis spätes Zeitalter des Löwen bis Zeitalter des Krebses, ca. 11.375 – 6.690 v. u. Z."
+operational_period = "Zeitalter des Löwen bis Zeitalter des Krebses, ca. 11.375 – 6.690 v. u. Z."
 date_type = "rahmenintern; abgeleitet aus der präzessionalen Lesart der Genesis und der 666-Generationen-Verankerung"
 closing_event = "Katastrophische Disruption während der Sintflut im Zeitalter der Zwillinge, ca. 6.690 v. u. Z."
 current_status = "Vorsintflutliche Konfiguration der Region nicht mehr existent; nachsintflutliche Überreste vom Rahmen mit der modernen Levante identifiziert"
@@ -228,7 +228,7 @@ Die Größe der Anlage ist im Quellenmaterial nicht angegeben. Der Genesis-Text 
 
 Eden war nach der Lesart des Korpus über eine spezifische Periode hinweg besetzt, die auf zwei präzessionale Zeitalter und einen spezifischen Satz operativer Phasen abgebildet werden kann. Die Chronologie dieser Phasen im Rahmen leitet sich aus der Schilderung der Schöpfungsarbeit im raëlianischen Quellenmaterial ab, wobei die Erzählung der hebräischen Bibel den wichtigsten textlichen Beleg für die politischen und biographischen Ereignisse liefert.
 
-### Die operative Periode des Israel-Teams: spätes Löwe-Zeitalter
+### Die operative Periode des Israel-Teams: das Zeitalter des Löwen
 
 Die Operationen des Israel-Teams in der Eden-Region begannen nach der Lesart des Rahmens während des weiteren Zeitalters des Löwen (ca. 11.010 – 8.850 v. u. Z.) — des sechsten präzessionalen Zeitalters des Schöpfungsprojekts, in dem die sieben Schöpferteams die Landtiere und schließlich die ersten Menschen synthetisierten. Die spezifische Arbeit des Israel-Teams in Eden während des späten Löwe-Zeitalters gipfelte in der Erschaffung der ersten Menschen (Adam und Eva nach den Genesis-Namen) bei ungefähr 11.375 v. u. Z. — dem Datum, das aus der Berechnung der 666 Generationen abgeleitet ist, welche die Chronologie des Rahmens verankert.
 

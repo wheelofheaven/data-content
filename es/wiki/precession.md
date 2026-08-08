@@ -232,7 +232,7 @@ La lectura que el marco hace de la precesión es de varias capas. El fenómeno a
 
 El uso más básico que el marco hace de la precesión es como **infraestructura cronológica** para el trabajo interpretativo más amplio del corpus. Las eras precesionales proporcionan un marco temporal estructurado que:
 
-- Abarca aproximadamente 26.000 años por ciclo completo, suficiente para englobar los eventos principales del proyecto Elohim (síntesis hace aproximadamente 25.000 años) y la historia terrestre subsiguiente
+- Abarca aproximadamente 26.000 años por ciclo completo, suficiente para englobar los eventos principales del proyecto Elohim (la síntesis humana hace aproximadamente 13.000 años, c. 11.375 a. e. c.) y la historia terrestre subsiguiente
 - Divide este período en doce eras sustantivamente distintas, cada una de aproximadamente 2.150-2.160 años
 - Conecta el marco cronológico con un fenómeno astronómico sustantivo que es verificable independientemente y culturalmente significativo
 - Se alinea con la significación simbólico-cultural de los signos zodiacales en múltiples tradiciones religiosas y culturales

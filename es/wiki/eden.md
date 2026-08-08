@@ -137,7 +137,7 @@ transliteration = "ʿĒden; gan-ʿĒden"
 type = "Región geográfica con instalación cerrada"
 biblical_location = "Génesis 2:8 («al oriente, en Edén»)"
 geographic_referent = "Región del Mediterráneo oriental / levantina del supercontinente antediluviano"
-operational_period = "Era de Leo media-tardía hasta la Era de Cáncer, c. 11.375 – 6.690 a. e. c."
+operational_period = "La Era de Leo hasta la Era de Cáncer, c. 11.375 – 6.690 a. e. c."
 date_type = "interno al marco; derivado de la lectura precesional del Génesis y del anclaje de las 666 generaciones"
 closing_event = "Disrupción catastrófica durante el Diluvio de la Era de Géminis, c. 6.690 a. e. c."
 current_status = "Configuración antediluviana de la región ya no existente; remanentes posdiluvianos identificados por el marco con el Levante moderno"
@@ -228,7 +228,7 @@ El tamaño de la instalación no se especifica en el material fuente. El texto d
 
 El Edén estuvo ocupado, según la lectura del corpus, a lo largo de un período específico que se mapea con dos eras precesionales y un conjunto específico de fases operativas. La cronología del marco de estas fases deriva del relato del material fuente raeliano sobre el trabajo de creación, con la narrativa de la Biblia hebrea proporcionando la principal evidencia textual de los eventos políticos y biográficos.
 
-### El período operativo del equipo Israel: Leo tardío
+### El período operativo del equipo Israel: la Era de Leo
 
 Las operaciones del equipo Israel en la región del Edén comenzaron, según la lectura del marco, durante la Era de Leo más amplia (c. 11.010 – 8.850 a. e. c.) — la sexta era precesional del proyecto de creación, en la que los siete equipos creadores sintetizaron los animales terrestres y, en última instancia, los primeros humanos. El trabajo específico del equipo Israel en el Edén durante el Leo tardío culminó en la creación de los primeros humanos (Adán y Eva, en los nombres del Génesis) aproximadamente en el 11.375 a. e. c. — la fecha derivada del cálculo de las 666 generaciones que ancla la cronología del marco.
 

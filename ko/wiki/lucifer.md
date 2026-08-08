@@ -30,7 +30,7 @@ footnotes = [
     { content = "루시퍼라는 이름은 라틴어 불가타의 산물이다. 히에로니무스(c. 405 CE)는 이사야 14:12의 히브리어 *Helel ben Shahar*를 *lūcifer*(\"빛을 가져오는 자\")로 옮겼는데, 이 구절은 히브리어 본문 자체가 바빌론 왕을 향해 말하는 것(이사야 14:4) — 우주적 인물이 아니라 오만한 역사적 왕에 대한 풍자적 애가이다. 주류 역사-비평적 학계는 이 구절을 우주적-신화적 심상을 강화 수단으로 사용하는 정치적 수사로 읽는다. 교부-중세 전통은 이를 우주적 타락 인물을 가리키는 것으로 재독해하여 에덴의 뱀 및 *satan* 언급들과 융합시켰다. 코퍼스는 이름 *루시퍼*를, 창세기 3장에서의 역할을 회복하는 그 인물에 대한 전통적 명칭으로 채택하면서도, 그 이름의 특정한 번역사적 기원을 인지한다." },
     { content = "네 인물의 정치적 분류 체계 — 야훼(동맹 온건파), 루시퍼(완전한 폭로를 주창하는 반체제 분파 지도자), 뱀(특정하게 에덴 폭로 역할에 있는 루시퍼), 그리고 사탄(프로젝트의 종결을 원하는 모행성 폐지론 분파를 이끄는 별개의 엘로힘 인물) — 는 통상적 기독교 신학에 대한 코퍼스의 가장 중대한 교정이다. 후대 전통은 이 넷 모두를 우주적 악의 단일한 인물로 붕괴시켰다. 코퍼스는 이들을 정치적으로 구별되는 행위자들로 읽으며, 실제로 루시퍼와 사탄은 정반대의 입장을 견지한다(루시퍼는 인류가 확장되고 권능을 부여받기를 원하고, 사탄은 인류가 제거되기를 원한다). 이 상세한 분류 체계는 뱀 항목에 있다." },
     { content = "코퍼스의 독해상, 루시퍼와 야훼의 관계는 처음부터 적대적이었던 것은 아니다. 둘 다 동일한 이스라엘 팀의 일원이었고, 둘 다 지구 프로젝트에 헌신했으며, 둘 다 합성된 인간들과의 교육 작업에 종사했다. 루시퍼 분파를 구별짓는 반체제 입장은 사전에 존재하던 적대로서가 아니라 에덴 시기에 걸쳐 출현했다. 에덴 이후의 대립은 입장이 화해 불가능해진 옛 동료들 사이의 정치적 불일치였지, 통상적 기독교 독해의 우주적-악의 대립이 아니었다." },
-    { content = "코퍼스가 루시퍼의 생애에 부여한 연대 — 기원전 약 11,400년의 에덴 유배, 게자리 시대(기원전 약 8,850년 – 6,690년)에 걸친 대홍수 이전 교육 역할 — 는 프레임워크 내부적인 것으로, 세차 시대 연대기 및 인류 창조 연대를 정박시키는 666세대 계산에서 도출된다. 세차 시대들은 실제의 천문 현상이지만, 코퍼스가 그것들을 놓는 경계 연도는 프레임워크의 관행이다. 연대기의 도출에 관해서는 대홍수 이전 시대 항목을 참조하라." },
+    { content = "코퍼스가 루시퍼의 생애에 부여한 연대 — 기원전 약 8,850년의 에덴 유배, 게자리 시대(기원전 약 8,850년 – 6,690년)에 걸친 대홍수 이전 교육 역할 — 는 프레임워크 내부적인 것으로, 세차 시대 연대기 및 인류 창조 연대를 정박시키는 666세대 계산에서 도출된다. 세차 시대들은 실제의 천문 현상이지만, 코퍼스가 그것들을 놓는 경계 연도는 프레임워크의 관행이다. 연대기의 도출에 관해서는 대홍수 이전 시대 항목을 참조하라." },
     { content = "코퍼스의 루시퍼 독해는 통상적 기독교의 \"우주적 악\" 독해도, 단순한 낭만주의의 \"영웅적 반역자\" 독해도 아니며, 보다 미묘한 무엇이다. 즉 특정한 반체제 입장을 가진 역사적 인물로서, 그 특정한 순간에 실제의 정치적 이유로 실제의 대가(통제된 환경의 상실, 대홍수 결정에 기여한 *Nephilim* 혼혈 인구, 장기적 정치적 긴장)와 함께 단죄되었으나, 공개적 폭로를 향한 동맹의 장기적 궤적 — 코퍼스가 스스로 참여하고 있다고 읽는 그 궤적 — 에 의해 점차 입증된 인물이다. 프레임워크는 루시퍼가 무조건적으로 도덕적으로 선하다고 주장하지 않으며, 그가 하느님과 인류의 우주적 적수라고도 주장하지 않는다." },
     { content = "지속적 현존 및 화해 독해는 루시퍼 전기적 궤적에서 가장 사변적인 부분이다. 자료는 루시퍼와 그의 분파가 계속 존재한다고 보고하지만, 현재의 위치, 역할, 또는 활동을 상세히 명시하지는 않는다. 코퍼스는 보다 광범위한 동맹과의 점진적인 대홍수 이후 화해를 읽으며, 그 분파의 문화-전달자 역할이 세계 전승들 전반에 단편적 형태로 보존되어 있다고 본다(프로메테우스, 케찰코아틀, 그리고 보다 광범위한 문화-영웅 패턴). 코퍼스는 모든 문화-영웅 인물이 특정하게 루시퍼에 대한 직접적 기억이라고 주장하지 않는다. 다수는 독립적으로 발전된 신화적 구성물이다." },
 ]
@@ -122,7 +122,7 @@ greek_name = "Φωσφόρος (Phosphoros); Ἑωσφόρος (Heosphoros)"
 latin_name = "Lūcifer ('light-bringer')"
 title = "Light-Bringer; leader of the dissenting faction within the Israel team"
 born = "Eloha home world; born approximately during the late Age of Capricorn or early Age of Sagittarius (no specific date in the source material)"
-operational_period = "Late Age of Leo through the present (Lucifer's continuing presence on Earth begins with the Eden exile, c. 11,400 BCE on the corpus's reckoning, and continues across the antediluvian period and beyond)"
+operational_period = "Late Age of Leo through the present (Lucifer's continuing presence on Earth begins with the Eden exile, c. 8,850 BCE on the corpus's reckoning, and continues across the antediluvian period and beyond)"
 date_type = "framework-internal; derived from the Eden chronology and continuing-presence reading"
 biblical_appearance = "Genesis 3 (the Eden episode, in his Serpent role); Isaiah 14:12 (Helel ben Shahar); Job 38:7 (the morning stars); 2 Peter 1:19 (the morning star); Revelation 22:16 (Jesus identified as the morning star — distinct from Lucifer)"
 faction = "The dissenting faction within the Israel team; advocates for full disclosure of scientific knowledge to the synthesized humans"
@@ -237,7 +237,7 @@ principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 
 
 ### 에덴 시기: 교육과 반체제의 형성
 
-사자자리 시대 후반에 걸쳐, 루시퍼는 에덴 시설에서의 창조 이후 시기 동안 합성된 인간들의 교육자 중 하나로 봉사했다. 교육의 작업은 상당했다. 합성된 인간들은 상당한 인지 역량을 가진 기능적 성인으로 창조되었으나, 그들은 언어, 기초적 기술 역량, 그리고 그들의 발전된 인간성을 구성하게 될 문화적-사회적 패턴에 대한 교육을 필요로 했다. 루시퍼와 다른 이스라엘 팀 구성원들은 연장된 기간에 걸쳐 이 교육을 제공했다.
+사자자리 시대에 걸쳐, 루시퍼는 에덴 시설에서의 창조 이후 시기 동안 합성된 인간들의 교육자 중 하나로 봉사했다. 교육의 작업은 상당했다. 합성된 인간들은 상당한 인지 역량을 가진 기능적 성인으로 창조되었으나, 그들은 언어, 기초적 기술 역량, 그리고 그들의 발전된 인간성을 구성하게 될 문화적-사회적 패턴에 대한 교육을 필요로 했다. 루시퍼와 다른 이스라엘 팀 구성원들은 연장된 기간에 걸쳐 이 교육을 제공했다.
 
 루시퍼의 반체제 입장의 발전은 이 교육 시기에 걸쳐 출현했다. 프레임워크는 그 반체제가 여러 상호 연결된 헌신으로부터 발전하는 것으로 읽는다. 첫째는, 모행성의 봉쇄 정책 — 선악을 알게 하는 나무에 대한 금지에 반영된, 인간들로부터 과학적·기술적 지식을 보류하는 정책 — 이 그가 수행하고 있던 교육 프로젝트에 부적합하다는 루시퍼의 점증하는 인식이었다. 상당한 인지 역량을 가지고 상당한 기술적 이해가 가능했던 합성된 인간들은 의도적으로 인위적 무지 속에 유지되고 있었으며, 교육 프로젝트는 루시퍼가 왜곡적이고 부적합하다고 본 방식으로 제약되어 있었다.
 

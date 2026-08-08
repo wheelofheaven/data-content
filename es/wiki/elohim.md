@@ -268,7 +268,7 @@ La composición y la estructura exactas de la alianza son, según la lectura del
 La relación de los Elohim con la humanidad de la Tierra es el tema principal del corpus. La relación está estructurada como la que existe entre una civilización creadora y su creación sintetizada, con el carácter operativo específico de la relación habiendo cambiado a lo largo de la historia post-creacional a través de varias fases distintas:
 
 - **La fase de creación** (de Capricornio a Leo, c. 21.810 – 8.850 a. C.): trabajo de laboratorio directo, con la humanidad sin existir todavía como contraparte de la relación.
-- **La fase del Edén** (Leo tardío hasta Cáncer temprano, c. 11.400 – 10.000 a. C.): relación directa de maestro-discípulo entre el equipo de Israel y los primeros humanos.
+- **La fase del Edén** (la Era de Leo, c. 11.010 – 8.850 a. C.): relación directa de maestro-discípulo entre el equipo de Israel y los primeros humanos.
 - **La fase post-Edén mediada** (Cáncer hasta Aries temprano, c. 10.000 – 1.500 a. C.): enseñanza continuada por la facción exiliada de Lucifer; visitas periódicas de la alianza a través de Yahvé y otros oficiales; la crisis antediluviana y el reinicio del Diluvio.
 - **La fase patriarcal y mosaica** (Tauro medio hasta Aries, c. 2.000 – 600 a. C.): se establecen relaciones formales de pacto con linajes humanos seleccionados (Abraham, el pueblo hebreo); intervención directa sostenida a través de Moisés y las operaciones del desierto.
 - **La fase de retirada motivada por el descubrimiento** (Aries tardío hasta Piscis medio, c. 600 a. C. – 1500 d. C.): cambio de política hacia el contacto indirecto; misiones proféticas que entregan contenido en vocabulario religioso; supervisión desde una distancia operativa.

@@ -137,7 +137,7 @@ transliteration = "ʿĒden ; gan-ʿĒden"
 type = "Région géographique avec installation close"
 biblical_location = "Genèse 2:8 (« vers l'orient, en Éden »)"
 geographic_referent = "Région orientale méditerranéenne / levantine du supercontinent antédiluvien"
-operational_period = "Milieu–fin de l'Ère du Lion jusqu'à l'Ère du Cancer, vers 11 375 – 6 690 AEC"
+operational_period = "De l'Ère du Lion à l'Ère du Cancer, vers 11 375 – 6 690 AEC"
 date_type = "interne au cadre ; dérivée d'une lecture précessionnelle de la Genèse et de l'ancrage des 666 générations"
 closing_event = "Disruption catastrophique pendant le Déluge de l'Ère des Gémeaux, vers 6 690 AEC"
 current_status = "Configuration antédiluvienne de la région disparue ; vestiges post-Déluge identifiés par le cadre au Levant moderne"
@@ -228,7 +228,7 @@ La taille de l'installation n'est pas précisée dans le matériau source. Le te
 
 Éden a été occupé, selon la lecture par le corpus, à travers une période spécifique qui se cartographie sur deux ères précessionnelles et un ensemble spécifique de phases opérationnelles. La chronologie de ces phases par le cadre dérive du récit du travail de création donné dans le matériau source raélien, le récit de la Bible hébraïque fournissant la principale preuve textuelle des événements politiques et biographiques.
 
-### La période opérationnelle de l'équipe Israël : fin du Lion
+### La période opérationnelle de l'équipe Israël : l'Ère du Lion
 
 Les opérations de l'équipe Israël dans la région d'Éden ont commencé, selon la lecture par le cadre, durant l'Ère du Lion plus large (vers 11 010 – 8 850 AEC) — la sixième ère précessionnelle du projet de création, dans laquelle les sept équipes de créateurs ont synthétisé les animaux terrestres et finalement les premiers humains. Le travail spécifique de l'équipe Israël en Éden durant la fin du Lion a culminé avec la création des premiers humains (Adam et Ève, selon les noms de la Genèse) vers 11 375 AEC — date dérivée du calcul des 666 générations ancrant la chronologie du cadre.
 

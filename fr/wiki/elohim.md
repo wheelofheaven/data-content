@@ -267,7 +267,7 @@ La composition et la structure exactes de l'alliance constituent, selon la lectu
 La relation des Élohim à l'humanité terrestre est le sujet principal du corpus. La relation se structure comme celle entre une civilisation créatrice et sa création synthétisée, le caractère opérationnel spécifique de la relation s'étant déplacé à travers l'histoire post-création par plusieurs phases distinctes :
 
 - **La phase de création** (du Capricorne au Lion, vers 21 810 – 8 850 AEC) : travaux directs en laboratoire, l'humanité n'existant pas encore comme contrepartie de la relation.
-- **La phase d'Éden** (fin du Lion à début du Cancer, vers 11 400 – 10 000 AEC) : relation directe d'enseignant à élève entre l'équipe Israël et les premiers humains.
+- **La phase d'Éden** (l'Ère du Lion, vers 11 010 – 8 850 AEC) : relation directe d'enseignant à élève entre l'équipe Israël et les premiers humains.
 - **La phase post-édénique médiatisée** (du Cancer au début du Bélier, vers 10 000 – 1 500 AEC) : poursuite de l'enseignement par la faction Lucifer exilée ; visites périodiques de l'alliance par Yahvé et d'autres officiers ; crise antédiluvienne et réinitialisation par le Déluge.
 - **La phase patriarcale et mosaïque** (milieu du Taureau au Bélier, vers 2 000 – 600 AEC) : établissement de relations alliancielles formelles avec des lignées humaines sélectionnées (Abraham, le peuple hébreu) ; intervention directe soutenue à travers Moïse et les opérations du désert.
 - **La phase de retrait consécutive à la découverte** (fin du Bélier au milieu des Poissons, vers 600 AEC – 1500 EC) : virage politique vers le contact indirect ; missions prophétiques délivrant le contenu en vocabulaire religieux ; supervision à distance opérationnelle.

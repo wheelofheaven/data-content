@@ -268,7 +268,7 @@ Die genaue Mitgliedschaft und Struktur der Allianz ist nach Lesart des Korpus ei
 Das Verhältnis der Elohim zur Menschheit der Erde ist der zentrale Gegenstand des Korpus. Das Verhältnis ist als das zwischen einer Schöpferzivilisation und ihrer synthetisierten Schöpfung strukturiert, wobei der konkrete operative Charakter des Verhältnisses sich über die nachschöpfungszeitliche Geschichte hinweg durch mehrere deutliche Phasen verschoben hat:
 
 - **Die Schöpfungsphase** (Steinbock bis Löwe, ca. 21.810 – 8.850 v. Chr.): direkte Laborarbeit, wobei die Menschheit noch nicht als Gegenpart des Verhältnisses existierte.
-- **Die Eden-Phase** (später Löwe bis früher Krebs, ca. 11.400 – 10.000 v. Chr.): direkte Lehrer-Schüler-Beziehung zwischen dem Israel-Team und den ersten Menschen.
+- **Die Eden-Phase** (das Zeitalter des Löwen, ca. 11.010 – 8.850 v. Chr.): direkte Lehrer-Schüler-Beziehung zwischen dem Israel-Team und den ersten Menschen.
 - **Die nach-edenische mediatisierte Phase** (Krebs bis früher Widder, ca. 10.000 – 1.500 v. Chr.): fortwährende Lehre durch die exilierte Luzifer-Fraktion; periodische Bündnisbesuche durch Jahwe und andere Offiziere; die antediluvianische Krise und die Flut als Neustart.
 - **Die patriarchalische und mosaische Phase** (mittlerer Stier bis Widder, ca. 2.000 – 600 v. Chr.): formale Bündnisbeziehungen, mit ausgewählten menschlichen Linien (Abraham, dem hebräischen Volk) etabliert; nachhaltige direkte Intervention durch Mose und die Wüstenoperationen.
 - **Die durch die Entdeckung getriebene Rückzugsphase** (später Widder bis mittlere Fische, ca. 600 v. Chr. – 1500 n. Chr.): Politikverschiebung zum indirekten Kontakt; prophetische Sendungen, die Inhalt im religiösen Vokabular ausrichten; Überwachung aus operativer Distanz.

@@ -232,7 +232,7 @@ La lecture de la précession par le cadre est multicouche. Le phénomène astron
 
 L'usage le plus fondamental que le cadre fait de la précession est celui d'**infrastructure chronologique** pour le travail interprétatif plus large du corpus. Les Ères précessionnelles fournissent un cadre temporel structuré qui :
 
-- Couvre environ 26 000 ans par cycle complet, suffisant pour englober les événements principaux du projet des Élohim (synthèse il y a environ 25 000 ans) et l'histoire terrestre ultérieure
+- Couvre environ 26 000 ans par cycle complet, suffisant pour englober les événements principaux du projet des Élohim (la synthèse humaine il y a environ 13 000 ans, vers 11 375 AEC) et l'histoire terrestre ultérieure
 - Divise cette période en douze Ères substantiellement distinctes, chacune d'environ 2 150-2 160 ans
 - Relie le cadre chronologique à un phénomène astronomique substantiel, indépendamment vérifiable et culturellement significatif
 - S'aligne sur la signification symbolico-culturelle des signes zodiacaux dans de multiples traditions religieuses et culturelles

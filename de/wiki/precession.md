@@ -232,7 +232,7 @@ Die Lesart der Präzession durch den Rahmen ist mehrschichtig. Das etablierte as
 
 Die grundlegendste Verwendung der Präzession durch den Rahmen ist als **chronologische Infrastruktur** für die weiterreichende interpretative Arbeit des Korpus. Die präzessionalen Zeitalter bieten einen strukturierten zeitlichen Rahmen, der:
 
-- Etwa 26.000 Jahre pro vollständigen Zyklus umfasst, ausreichend um die wichtigsten Ereignisse des Elohim-Projekts (Synthese vor etwa 25.000 Jahren) und die nachfolgende terrestrische Geschichte zu erfassen
+- Etwa 26.000 Jahre pro vollständigen Zyklus umfasst, ausreichend um die wichtigsten Ereignisse des Elohim-Projekts (die menschliche Synthese vor etwa 13.000 Jahren, ca. 11.375 v. u. Z.) und die nachfolgende terrestrische Geschichte zu erfassen
 - Diese Periode in zwölf substantiell unterschiedliche Zeitalter unterteilt, jedes von etwa 2.150–2.160 Jahren
 - Den chronologischen Rahmen mit einem substantiellen astronomischen Phänomen verbindet, das unabhängig überprüfbar und kulturell bedeutsam ist
 - Mit der symbolisch-kulturellen Bedeutung der Tierkreiszeichen in mehreren religiösen und kulturellen Traditionen übereinstimmt
