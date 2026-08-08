@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q16840912", "https://en.wikipedia.org/wiki/Hamlet%27s_Mill"]
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"

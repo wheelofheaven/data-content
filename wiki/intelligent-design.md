@@ -7,6 +7,7 @@ toc = true
 aliases = ["/intro/intelligent-design/"]
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q172618", "https://en.wikipedia.org/wiki/Intelligent_design", "https://www.britannica.com/topic/intelligent-design"]
 category = "Science & Technology"
 editorial_pass = "2026-07"
 entry_type = "concept"

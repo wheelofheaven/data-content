@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q567888", "https://en.wikipedia.org/wiki/New_Jerusalem", "https://www.britannica.com/topic/New-Jerusalem"]
 category = "Places & Locations"
 claim_type = "framework"
 editorial_pass = "2026-07"

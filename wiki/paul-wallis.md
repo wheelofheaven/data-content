@@ -7,6 +7,7 @@ toc = true
 aliases = ["/wiki/paul-anthony-wallis/"]
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q122853552", "https://viaf.org/viaf/162861655"]
 category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "biographical"

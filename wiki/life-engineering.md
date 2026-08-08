@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q97175368"]
 category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"

@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q75744689"]
 category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "biographical"

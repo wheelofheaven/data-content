@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q775858", "https://en.wikipedia.org/wiki/Humanitarianism", "https://www.britannica.com/topic/humanitarianism"]
 category = "Raëlism"
 claim_type = "framework"
 editorial_pass = "2026-07"
