@@ -15,7 +15,7 @@ timeline = ["age-of-aquarius"]
 
 [extra.infobox]
 type = "Hermeneutic methodology for reading the Hebrew Bible; principal contemporary articulation of the Schliemann-Sendy literal-reading tradition"
-developer = "Mauro Biglino (1950–), Italian translator and scholar; 17-year career as Hebrew Bible translator for Edizioni San Paolo (Pauline Editions, Vatican-affiliated Catholic publisher); independent author from 2010 onward"
+developer = "Mauro Biglino (1950–), Italian translator and scholar; translator of seventeen books of the Hebrew Bible for Edizioni San Paolo (Pauline Editions, Vatican-affiliated Catholic publisher) across more than a decade; independent author from 2010 onward"
 principal_source = "*Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011); *The Naked Bible* (with Giorgio Cattaneo, English edition 2022) for the explicit methodological articulation"
 methodology = "Three steps: (1) obtain familiarity with the original Hebrew text; (2) set aside accumulated traditional interpretation; (3) read the text literally, taking words in their concrete sense"
 slogan = "'Pretend that the Bible is simply telling the truth' — Biglino's principal methodological formulation"
@@ -47,13 +47,11 @@ The Wheel of Heaven framework engages the Biglino Method as a **necessary but in
 
 The method's principal critics within mainstream biblical scholarship argue that pure literal reading ignores genre, literary convention, and the composite character of the Hebrew Bible's textual transmission. The corpus position is that these critiques register legitimate concerns about the method applied alone, while missing what the method can recover when integrated with broader methodological commitments.
 
-This entry articulates the Biglino Method as a methodology — its etymology and naming, the Schliemann-Homer precedent, the Sendy-Biglino methodological genealogy, the three-step methodology in detail, Biglino's biography and bibliography, the corpus's specific positioning within and against the broader method, the mainstream scholarly engagement and the corpus response, the cross-cultural literal-reading comparative tradition, and the entry's place in the broader corpus framework.
-
 ## Etymology and naming
 
 The term *Biglino Method* (Italian *Metodo Biglino*) is a name applied by readers and commentators to Mauro Biglino's interpretive approach. Biglino himself does not consistently use the formal designation, preferring to articulate the method through its operational slogan ("let's pretend it's true") and its concrete application across his works.
 
-The phrase first appears in print in *The Naked Bible* (2022), where Cattaneo describes Biglino's approach with the explicit formulation: *"The Biglino method works like this: 'pretend' that the Bible is simply telling the truth."* The naming reflects standard convention for methodologies associated with a single principal figure (the Socratic method, the Cartesian method, the Schliemann approach). The Italian *Metodo Biglino* and English *Biglino Method* are used interchangeably in contemporary engagement.
+The phrase first appears in print in the Italian original *La Bibbia nuda* (2021; English edition *The Naked Bible*, 2022), where Cattaneo describes Biglino's approach with the explicit formulation: *"The Biglino method works like this: 'pretend' that the Bible is simply telling the truth."* The naming reflects standard convention for methodologies associated with a single principal figure (the Socratic method, the Cartesian method, the Schliemann approach). The Italian *Metodo Biglino* and English *Biglino Method* are used interchangeably in contemporary engagement.
 
 Alternative designations register in different contexts:
 
@@ -107,9 +105,9 @@ The principal Hebrew-textual observation — *Elohim* as plural, requiring plura
 
 ### Biglino's 2011-onward independent development
 
-Biglino's articulation of the method came through his own work as a Hebrew Bible translator rather than through direct discipleship of Sendy. From approximately 1990 to 2007, Biglino worked as a Hebrew Bible translator for **Edizioni San Paolo** (the Pauline Editions, an Italian Catholic publisher with substantial Vatican connections). The translation project produced bilingual Hebrew-Italian editions of the Hebrew Bible for Catholic readers, with Biglino responsible for the Hebrew-to-Italian rendering of seventeen volumes.
+Biglino's articulation of the method came through his own work as a Hebrew Bible translator rather than through direct discipleship of Sendy. For more than a decade — a collaboration that ended around 2010 — Biglino worked as a Hebrew Bible translator for **Edizioni San Paolo** (the Pauline Editions, an Italian Catholic publisher with substantial Vatican connections). The translation project produced bilingual Hebrew-Italian editions of the Hebrew Bible for Catholic readers, with Biglino responsible for the Hebrew-to-Italian rendering of seventeen volumes.
 
-The seventeen years of close direct engagement with the Hebrew text produced, in Biglino's account, a progressive realization that the text the translation was rendering bore only loose resemblance to the theological framework the surrounding apparatus assumed. As Biglino describes the process in *The Naked Bible*:
+The years of close direct engagement with the Hebrew text produced, in Biglino's account, a progressive realization that the text the translation was rendering bore only loose resemblance to the theological framework the surrounding apparatus assumed. As Biglino describes the process in *The Naked Bible*:
 
 > *"This type of project, which I worked on for a few years, brought me into direct contact, let's say, with the very origins, with the etymology of each individual word. Terms that, time after time, are put back into the context of the stories. Words that gave birth to a mosaic that is totally different from what is traditionally told to us."*
 
@@ -124,9 +122,11 @@ From 2010 onward, Biglino published his own works developing the implications:
 
 The Italian publishing context shaped Biglino's reception. *Il libro che cambierà per sempre le nostre idee sulla Bibbia* was published by Mondadori (one of Italy's major mainstream publishers), reached substantial readership, and produced the surrounding cultural conversation that the subsequent works extended. In Italy, Biglino is a recognizable public figure in religious-cultural debate; in the Anglophone world, his reception is more limited, though *The Naked Bible* (2022) has reached wider audiences.
 
+The independent works also record a quiet change of sources. *Il libro che cambierà* named {% wiki(slug="zecharia-sitchin") %}Zecharia Sitchin{% end %}'s *Earth Chronicles* as its principal frame for the Mesopotamian material — Nibiru, the gold-mining Anunnaki, the whole Sitchinian apparatus. The later books walk away from that scaffolding without announcement: the Sumerian and Akkadian parallels are re-sourced to academic Assyriology (Kramer, Pettinato, Castellino), Nibiru disappears, and Sitchin survives only as a bibliography entry and an occasional "famous and controversial" aside. The trajectory runs opposite to the usual career in the field, where authors tend to drift from the texts toward the mythology of the surrounding literature; Biglino began inside that literature's gravity and pulled himself back toward the consonants. The corpus reads the movement as the method disciplining its own practitioner — a point developed in the Explainer [*The Translator's Wager*](/articles/the-translators-wager/).
+
 ### The genealogical relationship
 
-The Sendy-Biglino genealogy operates as a case of methodological convergence rather than direct intellectual influence. Biglino does not present himself as a Sendy disciple; in many interviews and works he does not engage Sendy directly. The convergence appears to be the product of two independent figures arriving at structurally similar methodological commitments through close engagement with the Hebrew text — Sendy through his autodidactic alternative-history work in 1960s France, Biglino through his seventeen-year professional translation career in 1990s-2000s Italy.
+The Sendy-Biglino genealogy operates as a case of methodological convergence rather than direct intellectual influence. Biglino does not present himself as a Sendy disciple; in many interviews and works he does not engage Sendy directly. The convergence appears to be the product of two independent figures arriving at structurally similar methodological commitments through close engagement with the Hebrew text — Sendy through his autodidactic alternative-history work in 1960s France, Biglino through his decade-plus professional translation career in 2000s Italy.
 
 The convergence itself is methodologically significant. When two independent figures, working from different starting points in different decades, arrive at the same hermeneutic commitments and the same principal textual observations (the plurality of *Elohim*, the political rather than theological character of the prohibitions, the concrete rather than allegorical character of the narratives), the convergence suggests that the text is producing the methodology when engaged closely rather than the methodology producing pre-selected readings of the text.
 
@@ -144,7 +144,7 @@ Biglino elsewhere articulates an additional commitment — that ambiguous Hebrew
 
 The first step is engagement with the Hebrew text in its original language, or with reliable resources where direct linguistic competence is unavailable. Direct fluency in biblical Hebrew is not strictly required, but the reader must work with materials that preserve access to the original — interlinear translations, lexicons, concordances, and commentaries that engage Hebrew terms rather than substituting English-language theological vocabulary.
 
-The substantive content of this step is the recognition that translation is always interpretation. The Hebrew Bible has been transmitted into English (and into the other major modern languages) through a chain of translations — Hebrew to Greek (the Septuagint, third century BCE), Greek and Hebrew to Latin (the Vulgate, fourth century CE), Latin and Hebrew to English (the various English translations from Wycliffe through the King James Version and modern editions). Each stage of transmission has involved interpretive decisions, and the cumulative interpretive load on the English text is substantial.
+This step rests on the recognition that translation is always interpretation. The Hebrew Bible has been transmitted into English (and into the other major modern languages) through a chain of translations — Hebrew to Greek (the Septuagint, third century BCE), Greek and Hebrew to Latin (the Vulgate, fourth century CE), Latin and Hebrew to English (the various English translations from Wycliffe through the King James Version and modern editions). Each stage of transmission has involved interpretive decisions, and the cumulative interpretive load on the English text is substantial.
 
 The principal Hebrew terms the Biglino Method engages directly:
 
@@ -160,7 +160,7 @@ Biglino's own position on terms he considers untranslatable, articulated in *The
 
 > *"I've said many times in recent years that there are terms that, in my opinion, should not be translated. It's a question of integrity, since we do not know exactly what they mean. So honesty requires leaving them just as they are written."*
 
-The footnoted reference in the v1 entry observes that during Biglino's Edizioni San Paolo translation work, terms including *Elohim*, *kavod*, *ruach*, and *Yahweh* were preserved in transliteration in the published Italian editions — registering that mainstream Catholic biblical publishing recognized the integrity concerns even in formally orthodox contexts.
+In Biglino's account of his Edizioni San Paolo translation work, terms including *Elohim*, *kavod*, *ruach*, and *Yahweh* were preserved in transliteration in the published interlinear editions — a practice he reads as registering that mainstream Catholic biblical publishing recognized the integrity concerns even in formally orthodox contexts.
 
 ### Step 2: Disregard all preconceived traditional interpretations
 
@@ -174,8 +174,6 @@ The principal traditional frameworks the method asks the reader to suspend:
 - **Jewish rabbinic monotheism** — which reads the Hebrew Bible's plural *Elohim* as grammatical singular and interprets various plural passages as majestic plurals or as collective addresses to angelic courts
 - **Islamic strict monotheism** — which reads the Hebrew Bible's monotheistic framework as the original pre-corrupted form subsequently distorted by Jewish and Christian transmission
 - **Mainstream academic historical-critical method** — which often treats the Hebrew Bible's narrative content as the product of theological and political concerns of its various editorial communities, with the underlying historical content treated as substantially unrecoverable
-
-The suspension is provisional. After the literal reading produces its account, the reader can compare what the literal reading yields against the various inherited frameworks. The frameworks can be retained, modified, or replaced based on which produces the more coherent account of the actual textual content.
 
 ### Step 3: Embrace a literal approach to reading the verses
 
@@ -200,7 +198,7 @@ The methodology is closely tied to its principal articulator. A brief biographic
 
 Mauro Biglino was born in 1950. His early academic training was in religious studies and classical languages. From approximately 1990 to 2007, he worked as a Hebrew Bible translator for **Edizioni San Paolo** (the Pauline Editions, the Italian publishing arm of the Society of St. Paul, a Catholic religious congregation founded by Saint James Alberione). The Pauline Editions publish religious materials for Catholic readers, with substantial Vatican connections through the broader Catholic publishing infrastructure.
 
-The seventeen-year period of professional translation work is the foundation of Biglino's subsequent authority on the Hebrew text. He translated seventeen books of the Hebrew Bible into Italian, working from the Masoretic Text in close collaboration with the Pauline Editions editorial board. The published editions appeared as bilingual Hebrew-Italian volumes with extensive apparatus.
+The seventeen-year period of professional translation work is the foundation of Biglino's subsequent authority on the Hebrew text. He translated seventeen books of the Hebrew Bible into Italian, working from the {% wiki(slug="masoretic-text") %}Masoretic Text{% end %} in close collaboration with the Pauline Editions editorial board. The published editions appeared as bilingual Hebrew-Italian volumes with extensive apparatus.
 
 From 2010 onward, Biglino began publishing independent works developing his own readings of the texts. The transition from Pauline Editions translator to independent author marked a methodological as well as institutional shift — Biglino moved from working within a Catholic theological framework that constrained his published interpretive observations to working independently, where his observations could appear without the constraining apparatus.
 
@@ -234,7 +232,7 @@ The limits are equally worth registering:
 - Biglino's Hebrew-language competence is for translation purposes rather than for the kind of detailed philological work that academic biblical scholarship requires. His etymological observations are sometimes contested by specialists who hold positions Biglino does not engage.
 - Biglino's framing has substantial popular-cultural character that creates some methodological problems. His "let's pretend it's true" slogan is rhetorically effective but methodologically loose — what counts as the literal text, what counts as coherence, what alternative explanations have been considered, are not always specified.
 
-The corpus position: Biglino's contribution is real and substantive within its specific domain (direct Hebrew-textual engagement leading to plural-*Elohim* and concrete-narrative readings), but it is a contribution that requires integration with broader scholarly engagement to support the conclusions Biglino wants to draw. Biglino's method is necessary but not sufficient for the corpus framework's conclusions.
+The corpus position: Biglino's contribution is genuine within its specific domain (direct Hebrew-textual engagement leading to plural-*Elohim* and concrete-narrative readings), but it requires integration with broader scholarly engagement to support the conclusions Biglino wants to draw. Biglino's method is necessary but not sufficient for the corpus framework's conclusions.
 
 ## The corpus's positioning
 
@@ -252,15 +250,31 @@ The Wheel of Heaven framework engages the Biglino Method as one component of a b
 - **The Hamlet's Mill precessional framework.** The corpus reads the Hebrew Bible's seven Genesis "days" as the seven precessional ages of the alliance's work on Earth, integrating the literal-textual content with the broader cosmological framework Santillana and von Dechend established. Biglino does not engage the precessional framework; the corpus's adoption of *Hamlet's Mill* is independent.
 - **The Vorilhon source-textual primacy.** The corpus reads the Hebrew Bible alongside the Vorilhon revelation as paired source-traditions. Biglino does not engage the Vorilhon material; his framework operates without reference to the specific alliance-contact tradition the corpus draws on.
 - **The cross-cultural comparative engagement.** The corpus reads the Hebrew Bible alongside the Sumerian, Akkadian, Greek, Indian, Chinese, and other major religious-mythological traditions, looking for the structural convergences that suggest common historical referents. Biglino's work is principally Hebrew-Bible-focused; the cross-cultural integration is the corpus's own contribution.
-- **The disciplined epistemic-pluralism methodology.** The corpus distinguishes (1) direct source claims, (2) comparative observations, (3) corpus interpretations, and (4) speculative inference at every interpretive move. Biglino's framework does not consistently distinguish these levels — the "let's pretend it's true" slogan blurs the distinction between provisional methodological suspension and substantive truth-claim.
+- **The disciplined epistemic-pluralism methodology.** The corpus distinguishes (1) direct source claims, (2) comparative observations, (3) corpus interpretations, and (4) speculative inference at every interpretive move. Biglino's framework does not consistently distinguish these levels — the "let's pretend it's true" slogan blurs the distinction between provisional methodological suspension and outright truth-claim.
 
 ### Where the corpus diverges from Biglino
 
 The corpus's specific divergences from Biglino are worth registering for methodological clarity:
 
-- **The corpus does not treat the Hebrew Bible as the sole or principal source.** Biglino's framework gives the Hebrew Bible something close to evidentiary priority; the corpus treats the Hebrew Bible as one source among several, with the Vorilhon revelation, the *Hamlet's Mill* framework, the contemporary scientific evidence, and the cross-cultural comparative material all functioning as substantive evidence-streams that have to be triangulated.
+- **The corpus does not treat the Hebrew Bible as the sole or principal source.** Biglino's framework gives the Hebrew Bible something close to evidentiary priority; the corpus treats the Hebrew Bible as one source among several, with the Vorilhon revelation, the *Hamlet's Mill* framework, the contemporary scientific evidence, and the cross-cultural comparative material all functioning as evidence-streams that have to be triangulated.
 - **The corpus engages the textual-critical questions Biglino largely brackets.** The Masoretic Text is one textual tradition; the Samaritan Pentateuch, the Dead Sea Scrolls, the Septuagint, and various other early textual witnesses preserve substantial variant readings. The corpus engages these where they bear on the interpretive questions; Biglino tends to treat the Masoretic Text as the principal text without extensive engagement with textual variants.
-- **The corpus engages mainstream scholarship substantively.** Where Biglino tends to treat mainstream biblical scholarship dismissively, the corpus engages it substantively at the descriptive level (registering accurate observations about textual transmission, source-critical analysis, historical context) while differing at the interpretive level. The corpus does not need to reject mainstream scholarship to do its work; it needs to integrate mainstream observations with the alternative interpretive framework.
+- **The corpus engages mainstream scholarship rather than dismissing it.** Where Biglino tends to treat mainstream biblical scholarship dismissively, the corpus adopts its accurate descriptive observations — about textual transmission, source-critical analysis, historical context — while differing at the interpretive level.
+
+## The audit: bedrock, live debate, and the leaps
+
+The "necessary but insufficient" verdict can be made more precise by sorting Biglino's readings into three zones by how much weight each will bear — a discipline the Explainer [*The Translator's Wager*](/articles/the-translators-wager/) applies at length, and one the method's own "we have no proof" caution invites.
+
+### Bedrock
+
+On a substantial set of readings Biglino stands exactly where the lexica and a large body of mainstream scholarship stand: the grammatical plurality of *elohim* and the plural verbs and pronouns that cling to it at the load-bearing joints; the divine-council scenes; the Qumran reading of Deuteronomy 32:8 ("sons of God" against the Masoretic "sons of Israel"); the root sense of *kavod* as heaviness; the concrete primary senses of *ruach*; the range of *olam* as long duration rather than philosophical eternity; and the late consolidation of monotheism out of an earlier plural cult. His habit of quoting Jewish authorities — Rashi, rabbinic lexicographers, the chief rabbis who share his platforms — is not decoration here; on these points the tradition's own philology is his witness. This is the zone the corpus adopts without qualification.
+
+### Live debate
+
+A second set of claims sits inside genuine, unsettled scholarly argument rather than on either bedrock or fantasy. His case that *bara* never denotes creation from nothing — that its occurrences describe acts performed on pre-existing material — runs parallel to Ellen van Wolde's peer-reviewed proposal that the verb means "to separate," contested among Hebraists but argued as scholarship (the [list of etymological readings](../list-of-etymological-readings/) records the corpus's own assessment). His dating of the monotheizing redaction to the exilic and post-exilic centuries is, in outline, the mainstream position. His insistence that "original sin" is absent from the Hebrew Bible is one that Catholic, Waldensian, and Jewish scholars conceded to his face at the 2016 Milan symposium (below). Here the corpus treats his readings as serious contributions to open questions, not as settled results.
+
+### The leaps
+
+A third set is where the wager outruns the lexicon, and the corpus labels them as such. *Tselem* as DNA is the clearest case: the dictionaries' "something cut out" belongs to the semantics of carved images, and the mainstream reading — the human as the living statue-image of the god, royal ideology democratized — accounts for the same concreteness without the molecule. The step to DNA is not philology but abduction from narrative coherence, and it should be marked as interpretation, exactly as Biglino at his most careful marks it ("we have no proof"). The same holds for the ephod read as a field radio, the Ark as a capacitor, and the *nichoach* odor of the offerings read through opioid biochemistry: the underlying lexical observations are sound, but the technological identifications are a lens, not a finding. The method survives this audit precisely because its author keeps the registers distinct — which is what lets the corpus adopt the bedrock, weigh the debates, and set the leaps aside without discarding the method that produced all three.
 
 ## Modern reinterpretations and adjacent methodologies
 
@@ -288,7 +302,7 @@ The most substantial recent academic engagement with the Hebrew Bible's literary
 
 Alter's project shares specific commitments with the Biglino Method: close attention to the Hebrew text's specific language, resistance to the smoothing-out tendencies of conventional English translations, recovery of the Hebrew's literary texture and concrete diction. Alter writes with substantial awareness that the English Bible tradition has accumulated theological weight that is not present in the Hebrew text, and his translations work to recover the directness and concreteness of the Hebrew.
 
-Alter differs from Biglino in commitments and conclusions. Alter is an academic literary scholar working within mainstream Hebrew Bible scholarship; he engages source-critical and historical-critical questions substantively; he treats the text as principally a literary artifact whose historical referent is recoverable only in limited ways. Alter does not draw the conclusions Biglino draws about the Hebrew Bible's content because Alter is not working within an ancient-astronaut interpretive framework. The methodological convergence at the level of translation practice is genuine; the interpretive divergence is also genuine.
+Alter differs from Biglino in commitments and conclusions. Alter is an academic literary scholar working within mainstream Hebrew Bible scholarship; he engages source-critical and historical-critical questions in detail; he treats the text as principally a literary artifact whose historical referent is recoverable only in limited ways. Alter does not draw the conclusions Biglino draws about the Hebrew Bible's content because Alter is not working within an ancient-astronaut interpretive framework. The methodological convergence at the level of translation practice is genuine; the interpretive divergence is also genuine.
 
 The corpus reads Alter as an important contemporary witness to what direct Hebrew-textual engagement produces in a mainstream academic context. Where Alter's translations and commentary register Hebrew terms and phrasings the conventional translations smooth away, the corpus is on substantially supported ground in adopting the Hebrew readings.
 
@@ -304,15 +318,19 @@ The Biglino Method represents the methodologically tightest engagement within th
 
 ### Mainstream scholarly engagement with the Biglino Method
 
-Mainstream biblical scholarship has not, on the whole, engaged substantively with Biglino's specific arguments. The principal reasons:
+Mainstream biblical scholarship has not, on the whole, engaged Biglino's specific arguments. The principal reasons:
 
 - Biglino has not published in peer-reviewed academic venues; his work is published by mainstream commercial presses and aimed at popular readership rather than academic engagement
 - Biglino's institutional affiliation is independent rather than academic; he does not present at academic conferences or engage in the formal scholarly conversation
-- Biglino's conclusions (the Hebrew Bible as a record of ancient extraterrestrial contact) are far outside the range of conclusions mainstream scholarship treats as worth substantive engagement
+- Biglino's conclusions (the Hebrew Bible as a record of ancient extraterrestrial contact) are far outside the range of conclusions mainstream scholarship treats as worth engaging
 
 Where mainstream scholars have addressed Biglino, the engagement has been principally dismissive. Italian academic biblical scholarship treats Biglino's interpretive conclusions as pseudoscientific; English-language academic engagement is largely absent.
 
-The corpus position on this asymmetry: the lack of substantive academic engagement with Biglino is methodologically regrettable. Biglino's specific textual observations — the grammatical plurality of *Elohim*, the concrete physicality of the various theophanies, the technical character of the Ark of the Covenant descriptions — are observations that academic scholarship could productively engage even while rejecting Biglino's interpretive framework. The current situation, in which mainstream scholarship rejects Biglino without engaging him and Biglino dismisses mainstream scholarship without engaging it, is unhealthy for the broader interpretive conversation.
+The corpus position on this asymmetry: the absence of academic engagement with Biglino's arguments is methodologically regrettable. Biglino's specific textual observations — the grammatical plurality of *Elohim*, the concrete physicality of the various theophanies, the technical character of the Ark of the Covenant descriptions — are observations that academic scholarship could productively engage even while rejecting Biglino's interpretive framework. The current situation, in which mainstream scholarship rejects Biglino without engaging him and Biglino dismisses mainstream scholarship without engaging it, is unhealthy for the broader interpretive conversation.
+
+The clearest exception to the silence came in 2016, when Biglino sat for more than four hours before an audience of some six hundred people with a panel drawn from the confessional traditions his method contests: the Catholic theologian Ermis Segatti, the Waldensian biblical scholar Daniele Garrone (a co-author of standard Hebrew dictionaries), the Orthodox archbishop Avondios, and Ariel Di Porto, chief rabbi of Turin. They examined his translations in public. By the account of his interviewer Giorgio Cattaneo the exchange produced *"nothing that could undermine his deductive system based on a literal reading of the Old Testament"*; Di Porto confirmed that Judaism carries no doctrine of original sin, and Garrone allowed that it is unclear where Paul derived the concept. None of the panelists adopted Biglino's conclusions, and none needed to — the significance of the event is procedural rather than doctrinal: for one afternoon the engagement mainstream scholarship otherwise declines actually took place, on the record, with the Hebrew text open.
+
+The principal academic study of Biglino, by contrast, studies him rather than his arguments. Manuel Ceccarelli's 2016 article in *Studi e materiali di storia delle religioni* treats the *"fenomeno Biglino"* through the sociology of paleoastronautics and secularization while leaving the philology unanswered — an asymmetry that recurs across the tradition: the academy studies the phenomenon and declines the arguments, while the phenomenon cites the academy's lexicons and declines its conclusions.
 
 ## Cross-cultural comparative observations
 
@@ -381,6 +399,8 @@ The corpus position registers this debate as live rather than settled. The texts
 - [The Truth](../the-truth/)
 - [Religion](../religion/)
 - [Genesis](../genesis/)
+- [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the Wallis-extends-Biglino thesis at article length)
+- [The Translator's Wager](/articles/the-translators-wager/) (the close reading of Biglino's whole corpus, and the bedrock/live-debate/leaps audit of the method)
 
 ## References
 

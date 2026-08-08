@@ -26,11 +26,11 @@ framework_significance = "Principal chronological unit for the corpus; the prece
 
 The **Great Month** is the unit of chronological measurement corresponding to **one-twelfth of the precessional Great Year** — the period required for the vernal equinox point to traverse 30° (one zodiacal sign) along the ecliptic at the precessional rate. The unit is also known as the **Astrological Age**, the **Precessional Month**, or the **World Age**, and constitutes the principal chronological building block on which the Wheel of Heaven corpus's broader temporal framework depends.
 
-On the modern astronomical reckoning, the precessional Great Year completes one full cycle in approximately **25,771.5 years**, giving a Great Month of approximately **2,147.625 years** (≈ 2,147 years 7.5 months). On the astrological-tradition reckoning, the Great Year is taken as **25,920 years** exactly — a number with substantial divisibility properties (2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72) that makes it mathematically convenient and that has substantively shaped its prominence in cross-cultural cosmological tradition. On the traditional reckoning, the Great Month is exactly **2,160 years** (one-twelfth of 25,920), with the convenient factorization 2⁴ × 3³ × 5. The two reckonings differ by approximately 12 years per Great Month, sufficient to produce moderate divergence in long-period chronologies but small enough that the practical use of either figure produces broadly consistent results for the corpus's chronological purposes.
+On the modern astronomical reckoning, the precessional Great Year completes one full cycle in approximately **25,771.5 years**, giving a Great Month of approximately **2,147.625 years** (≈ 2,147 years 7.5 months). On the astrological-tradition reckoning, the Great Year is taken as **25,920 years** exactly — a number whose divisibility (2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72) makes it mathematically convenient and accounts for its prominence in cross-cultural cosmological tradition. On the traditional reckoning, the Great Month is exactly **2,160 years** (one-twelfth of 25,920), with the convenient factorization 2⁴ × 3³ × 5. The two reckonings differ by approximately 12 years per Great Month, sufficient to produce moderate divergence in long-period chronologies but small enough that the practical use of either figure produces broadly consistent results for the corpus's chronological purposes.
 
-The corpus uses the Great Month as the principal chronological unit because the precessional Great Months align meaningfully with the substantive events of the broader prophetic record: the Adamite synthesis in the **Age of Leo** (c. 13,170 – 11,010 BCE), the Sumerian and Egyptian civilisations in the **Age of Taurus** (c. 6,690 – 4,530 BCE), the Hebrew prophetic period in the **Age of Aries** (c. 4,530 – 2,370 BCE on the broader reckoning, with the principal events concentrated in the middle-to-late portion), the Christian era in the **Age of Pisces** (c. 1 CE – 2,160 CE), and the contemporary transition into the **Age of Aquarius** (c. 2,160 CE onward). The framework's reading is that this alignment is not coincidental — that the Great Months structure the chronology of the Elohim project in a substantively meaningful way that is preserved in cross-cultural mythological tradition through the symbolic vocabulary of the zodiacal signs.
+The corpus uses the Great Month as its principal chronological unit because the Great Months align with the principal events of the prophetic record: the Adamite synthesis in the **Age of Leo** (c. 11,010 – 8,850 BCE), the Sumerian and Egyptian civilisations in the **Age of Taurus** (c. 4,530 – 2,370 BCE), the Hebrew prophetic period in the **Age of Aries** (c. 2,370 – 210 BCE, with the principal events concentrated in the middle-to-late portion), the Christian era in the **Age of Pisces** (c. 210 BCE – 1950 CE), and the contemporary **Age of Aquarius** (c. 1950 CE onward). The framework reads this alignment as deliberate: the Great Months structure the chronology of the Elohim project, and that structure is preserved in cross-cultural mythological tradition through the symbolic vocabulary of the zodiacal signs.
 
-The Great Month entry is a focused unit-of-measurement entry within the broader Cosmic Chronology category. The astronomical phenomenon of precession itself is treated more fully in the dedicated [Precession](../precession/) entry; the broader cross-cultural doctrine of cosmic ages (the Hindu *yuga* cycle, the Hesiodic ages, the broader cyclical-cosmological tradition) is treated in the dedicated [World Age](../world-age/) entry; the full Great Year is treated in the dedicated [Great Year](../great-year/) entry. The present entry focuses specifically on the Great Month as a unit of time, its mathematical structure, the cross-cultural preservation of its numerical signatures, and the framework's specific use of the unit as chronological infrastructure.
+The astronomical phenomenon of precession itself is treated more fully in the dedicated [Precession](../precession/) entry; the broader cross-cultural doctrine of cosmic ages (the Hindu *yuga* cycle, the Hesiodic ages, the broader cyclical-cosmological tradition) is treated in the dedicated [World Age](../world-age/) entry; the full Great Year is treated in the dedicated [Great Year](../great-year/) entry. The present entry focuses specifically on the Great Month as a unit of time, its mathematical structure, the cross-cultural preservation of its numerical signatures, and the framework's specific use of the unit as chronological infrastructure.
 
 ## Duration and mathematical structure
 
@@ -82,7 +82,7 @@ $$
 2,160 = 2^4 \times 3^3 \times 5 = 30 \times 72 = 12 \times 180 = 6 \times 360 = 60 \times 36
 $$
 
-The traditional reckoning's mathematical convenience accounts for its prominence in pre-modern cosmological systems. The corpus's broader work uses the traditional 25,920 / 2,160 figures as the primary reckoning while acknowledging the modern astronomical 25,771.5 / 2,147.6 figures as the contemporary empirical measurement. The choice between the two does not substantially affect the corpus's chronological framework — the difference of approximately 12 years per Great Month is well within the inherent uncertainty of the Age-boundary definitions.
+The corpus's broader work uses the traditional 25,920 / 2,160 figures as the primary reckoning while acknowledging the modern astronomical 25,771.5 / 2,147.6 figures as the contemporary empirical measurement. The choice between the two does not substantially affect the corpus's chronological framework — the difference of approximately 12 years per Great Month is well within the inherent uncertainty of the Age-boundary definitions.
 
 ### The Great Day
 
@@ -108,9 +108,9 @@ The system thus mirrors the structure of the ordinary year (12 months of approxi
 
 ### The 72-year Great Day and the human lifespan
 
-A substantively interesting observation: the Great Day of 72 years approximates the **average human lifespan**. The contemporary global life expectancy at birth is approximately 73 years (2024 World Bank estimate, with substantial regional variation from approximately 53 years in some sub-Saharan African countries to approximately 84 years in Japan and several other developed countries). The biblical figure of "threescore years and ten" (Psalm 90:10) — the seventy-year span the Psalmist gives as the typical human lifetime — falls within two years of the Great Day. The Aristotelian and Hippocratic traditions used 70 years as the conventional human lifespan. The Roman tradition counted "septem decades" (seventy years) similarly.
+The Great Day of 72 years approximates the **average human lifespan**. The contemporary global life expectancy at birth is approximately 73 years (2024 World Bank estimate, with substantial regional variation from approximately 53 years in some sub-Saharan African countries to approximately 84 years in Japan and several other developed countries). The biblical figure of "threescore years and ten" (Psalm 90:10) — the seventy-year span the Psalmist gives as the typical human lifetime — falls within two years of the Great Day. The Aristotelian and Hippocratic traditions used 70 years as the conventional human lifespan. The Roman tradition counted "septem decades" (seventy years) similarly.
 
-The framework reads the 72-year Great Day / human-lifespan correspondence as substantively significant. The relationship suggests that:
+The framework reads the 72-year Great Day / human-lifespan correspondence as significant:
 
 - **One ordinary human life ≈ one Great Day of ecliptic precession** — a structural correspondence between human-scale time and cosmic-scale time
 - **One Great Month (2,160 years) ≈ 30 human lifespans in succession** — roughly the temporal scope across which cultural-religious traditions maintain continuous transmission
@@ -120,7 +120,7 @@ The framework's broader reading treats this correspondence as one of several str
 
 ## Cross-cultural preservation of the numerical structure
 
-The numerical structure of the precessional cycle (25,920 years for the Great Year, 2,160 years for the Great Month, 72 years for the Great Day, and the broader family of related numbers including 432, 4,320, 43,200, and 432,000) is substantially preserved across multiple pre-modern cosmological traditions. The cross-cultural pattern is one of the principal substantive supports for the corpus's broader reading of pre-Hipparchian transmission of precessional content, developed more fully in the [Precession](../precession/) entry's treatment of the *Hamlet's Mill* thesis.
+The numerical structure of the precessional cycle (25,920 years for the Great Year, 2,160 years for the Great Month, 72 years for the Great Day, and the broader family of related numbers including 432, 4,320, 43,200, and 432,000) is substantially preserved across multiple pre-modern cosmological traditions. The cross-cultural pattern is one of the principal supports for the corpus's reading of pre-Hipparchian transmission of precessional content, developed more fully in the [Precession](../precession/) entry's treatment of the *Hamlet's Mill* thesis.
 
 ### The Hindu yuga cycle
 
@@ -139,10 +139,10 @@ The number **432,000** is the basic unit of the entire Hindu cosmological time-s
 
 - **432,000 = 60 × 7,200 = 1,000 × 432**, with 432 as the basic unit
 - The precessional Great Year of 25,920 years can be expressed as **432,000 ÷ 16.67** in arcsecond-related arithmetic
-- More substantively: the Kali Yuga of 432,000 years corresponds (through symbolic-numerological calculation) to **one-third** of the precessional Great Year measured in arcseconds: the Great Year contains 360° × 60' × 60" = 1,296,000 arcseconds, of which 432,000 arcseconds = 120° = one-third
-- The Mahayuga of 4,320,000 years can be read as the precessional Great Year (25,920) scaled by 10 × 360/2.16 = 1666.67, producing the 4,320,000 figure
+- More directly: the Kali Yuga of 432,000 years corresponds (through symbolic-numerological calculation) to **one-third** of the precessional Great Year measured in arcseconds: the Great Year contains 360° × 60' × 60" = 1,296,000 arcseconds, of which 432,000 arcseconds = 120° = one-third
+- The Mahayuga of 4,320,000 years can be read as the precessional Great Year (25,920) scaled by 360/2.16 ≈ 166.67, producing the 4,320,000 figure
 
-The mainstream-academic reception of these numerical correspondences is contested. The earlier-20th-century scholarly tradition (particularly the work of Hermann Jacobi and others) treated the Hindu *yuga* numbers as substantially astronomical in derivation; subsequent scholarship has been more skeptical, treating the numbers as primarily cosmological-mythological with possible secondary astronomical connections. The framework's adopted position is that the substantive numerical correspondence between the Hindu cosmological time-system and the precessional cycle is sufficiently striking to warrant treating it as evidence of cross-cultural preservation of astronomical content — consistent with the broader *Hamlet's Mill* thesis.
+The mainstream-academic reception of these numerical correspondences is contested. The earlier-20th-century scholarly tradition (particularly the work of Hermann Jacobi and others) treated the Hindu *yuga* numbers as substantially astronomical in derivation; subsequent scholarship has been more skeptical, treating the numbers as primarily cosmological-mythological with possible secondary astronomical connections. The framework's adopted position is that the numerical correspondence between the Hindu cosmological time-system and the precessional cycle is sufficiently striking to warrant treating it as evidence of cross-cultural preservation of astronomical content — consistent with the broader *Hamlet's Mill* thesis.
 
 A separate but related tradition is associated with **Sri Yukteshwar** (1855–1936), the Indian astronomer-astrologer whose *The Holy Science* (1894) proposed a 24,000-year *yuga* cycle (substantially shorter than the standard Puranic figure) explicitly correlated with the precessional cycle. The Yukteshwar tradition treats the standard 4.32-million-year *yuga* numbers as misinterpretations of an underlying 24,000-year cycle; the position is contested in the broader Hindu astronomical tradition and is treated as one possible reading rather than the orthodox position. The corpus's broader engagement with Hindu cosmology is treated in the [List of exegetic readings](../list-of-exegetic-readings/) entry.
 
@@ -154,11 +154,11 @@ The Greek philosophical tradition includes substantial engagement with the conce
 >
 > — Plato, *Timaeus* 39d (translation Cornford)
 
-Plato did not specify the duration of the Perfect Year; later authors gave various figures. **Cicero** in *De Natura Deorum* (c. 45 BCE) discussed the concept following Plato. **Censorinus** (3rd century CE) preserved several ancient calculations: **Heraclitus** (c. 540–480 BCE) was given as 10,800 years; **Aristarchus of Samos** (c. 310–230 BCE) as 2,484 years; **Diogenes of Babylonia** as 360 times Heraclitus's figure. The figure of **36,000 years** for the Platonic Great Year appears in **Ptolemy** (c. 150 CE) and became the dominant Western figure through the medieval period.
+Plato did not specify the duration of the Perfect Year; later authors gave various figures. **Cicero** in *De Natura Deorum* (c. 45 BCE) discussed the concept following Plato. **Censorinus** (3rd century CE) preserved several ancient calculations: **Heraclitus** (c. 540–480 BCE) was given as 10,800 years; **Aristarchus of Samos** (c. 310–230 BCE) as 2,484 years. **Diogenes of Babylonia** put the Great Year at 365 times Heraclitus's figure, a report transmitted in the doxographic tradition under Aëtius's name. The figure of **36,000 years** for the Platonic Great Year appears in **Ptolemy** (c. 150 CE) and became the dominant Western figure through the medieval period.
 
 The relationship between the Platonic Magnus Annus and the precessional Great Year is genuinely contested. Plato himself, predating Hipparchus by approximately 230 years, could not have known the precessional cycle. The original Magnus Annus concept appears to have been about planetary conjunctions rather than precession; the conflation of the two came after Hipparchus's discovery, when subsequent commentators retrospectively connected Plato's vague description to the newly identified precessional phenomenon. By the Renaissance, the Magnus Annus was commonly identified with the precessional cycle, and the figure of 25,920 years (sometimes 36,000) was used as the standard Platonic figure.
 
-The framework's reading of the Magnus Annus tradition: the post-Hipparchian conflation of Plato's planetary-conjunction cycle with the precessional cycle was substantively *correct*, in the sense that the underlying intuition (a long cosmic cycle structuring history into ages) was applied to the actual phenomenon (precession) once that phenomenon was identified. The framework treats this as one instance of the broader pattern of pre-Hipparchian cosmic-cycle awareness being retrospectively connected to the precessional phenomenon.
+The framework's reading of the Magnus Annus tradition: the post-Hipparchian conflation of Plato's planetary-conjunction cycle with the precessional cycle was *correct* in the sense that the underlying intuition (a long cosmic cycle structuring history into ages) was applied to the actual phenomenon (precession) once that phenomenon was identified. The framework treats this as one instance of the broader pattern of pre-Hipparchian cosmic-cycle awareness being retrospectively connected to the precessional phenomenon.
 
 ### Babylonian sexagesimal numerology
 
@@ -182,30 +182,32 @@ The Mesoamerican Long Count calendar (developed by the Olmec and Maya civilisati
 - **B'ak'tun** = 20 k'atun = 144,000 days ≈ 394.3 years
 - **Great Cycle (13 B'ak'tun)** = 1,872,000 days ≈ 5,125 years
 
-The relationship between the Long Count and the precessional cycle is substantively contested. The widely-publicised "2012 phenomenon" — the completion of the 13 B'ak'tun Great Cycle on December 21, 2012 — was interpreted by some commentators as indicating Mayan awareness of the precessional cycle (with one Great Cycle corresponding to approximately one-fifth of the precessional period, or with the December solstice 2012 alignment to the galactic centre being a precession-related event). The mainstream-academic position is that the Long Count is principally a counting system without explicit precessional content; the contemporary popular conflation of the Long Count with precession is largely a 20th-21st century interpretive overlay rather than an established Mayan tradition.
+The relationship between the Long Count and the precessional cycle is contested. The widely-publicised "2012 phenomenon" — the completion of the 13 B'ak'tun Great Cycle on December 21, 2012 — was interpreted by some commentators as indicating Mayan awareness of the precessional cycle (with one Great Cycle corresponding to approximately one-fifth of the precessional period, or with the December solstice 2012 alignment to the galactic centre being a precession-related event). The mainstream-academic position is that the Long Count is principally a counting system without explicit precessional content; the contemporary popular conflation of the Long Count with precession is largely a 20th-21st century interpretive overlay rather than an established Mayan tradition.
 
-The framework's adopted position: the Mesoamerican Long Count's substantive numerical correspondences with the precessional cycle (the 360-day Tun base, the relationship between the K'atun and the Great Day, the broader integration of cosmic time-structure into the calendar system) are consistent with the cross-cultural pattern that the framework reads as evidence of pre-Hipparchian astronomical transmission. The specific question of whether the Long Count explicitly encodes precession is treated as open.
+The framework's adopted position: the Mesoamerican Long Count's numerical correspondences with the precessional cycle (the 360-day Tun base, the relationship between the K'atun and the Great Day, the broader integration of cosmic time-structure into the calendar system) are consistent with the cross-cultural pattern that the framework reads as evidence of pre-Hipparchian astronomical transmission. The specific question of whether the Long Count explicitly encodes precession is treated as open.
 
 ### The broader cross-cultural pattern
 
 The combined evidence from the Hindu, Greek, Babylonian, and Mesoamerican traditions supports the framework's reading that the precessional Great Year and Great Month numerical structures were preserved across multiple pre-modern cosmological systems. The specific numbers (25,920, 2,160, 432, 72, 360, 4,320) appear with substantial frequency in cosmological-mythological contexts that predate explicit astronomical identification of precession. The framework's reading is that this pattern is evidence of cross-cultural transmission of astronomical content through symbolic-numerological vocabulary — the broader thesis developed in **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time*** (1969), treated in more detail in the [Precession](../precession/) entry.
 
+The same numbers surface not only as durations but as bare *counts* in traditions with no plausible contact: Berossus's 432,000 years of antediluvian Sumerian kingship, the Rigveda's 432,000 syllables (10,800 stanzas of 40), the 432,000 *einherjar* of Valhalla (540 doors × 800), and the 108 churning figures on the causeways of Angkor. The [Great Year](../great-year/) entry assembles this roster in full, and the corpus's long-form reading of the number-code is *The Mill That Grinds the Ages*.
+
 ## In the Wheel of Heaven framework
 
-The framework's specific use of the Great Month is multilayered. The unit serves as chronological infrastructure for the corpus's broader work, and the substantive symbolic-numerological properties of the unit and its components connect to substantial source-tradition material.
+The framework uses the Great Month in two capacities: as chronological infrastructure for the corpus's dating work, and as a unit whose symbolic-numerological properties connect to source-tradition material on the number 72 and its multiples.
 
 ### Great Months as chronological infrastructure
 
 The corpus's broader interpretive work uses Great Months as the structured temporal framework for dating the principal events of the Elohim project and the broader prophetic record. The principal Great Month identifications used across the corpus:
 
-- **Age of Virgo** (c. 15,330 – 13,170 BCE) — the *yom* 5 phase of Genesis 1, the synthesis of the broader animal life
-- **Age of Leo** (c. 13,170 – 11,010 BCE) — the *yom* 6 human-synthesis phase, the principal Adamite synthesis, the Eden phase
-- **Age of Cancer** (c. 11,010 – 8,850 BCE) — the post-deluge reorganisation following the Younger Dryas-era catastrophic events
-- **Age of Gemini** (c. 8,850 – 6,690 BCE) — the early Neolithic population developments, the broader Holocene climate stabilisation
-- **Age of Taurus** (c. 6,690 – 4,530 BCE) — the Sumerian, Egyptian, and broader Bronze Age civilisations
-- **Age of Aries** (c. 4,530 – 2,370 BCE) — the principal Hebrew prophetic period (Abraham through Moses, the Sinai theophany, the Davidic monarchy, the prophetic tradition)
-- **Age of Pisces** (c. 1 CE – 2,160 CE) — the Christian era and the broader subsequent religious developments
-- **Age of Aquarius** (c. 2,160 CE onward) — the contemporary recovery period, overlapping with the corpus's identification of the **Age of Apocalypse**
+- **Age of Virgo** (c. 13,170 – 11,010 BCE) — the *yom* 5 phase of Genesis 1, the synthesis of the broader animal life
+- **Age of Leo** (c. 11,010 – 8,850 BCE) — the *yom* 6 human-synthesis phase, the principal Adamite synthesis, the Eden phase
+- **Age of Cancer** (c. 8,850 – 6,690 BCE) — the *yom* 7 antediluvian period: the Eden expulsion, the Nephilim, the rise of the pre-flood civilisation
+- **Age of Gemini** (c. 6,690 – 4,530 BCE) — the *yom* 8 Flood, Noah's covenant, and the war in heaven
+- **Age of Taurus** (c. 4,530 – 2,370 BCE) — the Sumerian, Egyptian, and broader Bronze Age civilisations
+- **Age of Aries** (c. 2,370 – 210 BCE) — the principal Hebrew prophetic period (Abraham through Moses, the Sinai theophany, the Davidic monarchy, the prophetic tradition)
+- **Age of Pisces** (c. 210 BCE – 1950 CE) — the Christian era and the broader subsequent religious developments
+- **Age of Aquarius** (c. 1950 CE onward) — the contemporary recovery period, overlapping with the corpus's identification of the **Age of Apocalypse**
 
 The dedicated entries on each Great Month develop the specific content; the present entry establishes the chronological unit on which the broader framework depends.
 
@@ -217,14 +219,14 @@ The framework's adopted reckoning produces Great Month boundary dates with appro
 - **Which starting reference to use** — the choice of starting reference (the contemporary equinox position, the position at a specific historical date, the conventional zero-point at 0° Aries in the tropical zodiac, etc.) produces variation in the boundary dates
 - **How to define constellation boundaries** — the IAU-standardised constellation boundaries (defined 1930) differ substantially from the classical astrological boundaries, producing alternative dating systems
 
-The framework's adopted reckoning uses the traditional 25,920-year cycle and the conventional zero-point at the vernal equinox / 0° Aries in the tropical zodiac. The boundary dates given above should be treated as approximate (±200 years), with the substantive interpretive content concerning the Great Month-specific events and not the precise transition dates.
+The framework's adopted reckoning uses the traditional 25,920-year cycle and the conventional zero-point at the vernal equinox / 0° Aries in the tropical zodiac. The boundary dates given above should be treated as approximate (±200 years); the interpretive weight rests on the events within each Great Month, not on the precise transition dates.
 
 ### The Great Day and the prophetic generations
 
-The framework reads the 72-year Great Day as substantively connected to the broader pattern of prophetic transmission. The principal observations:
+The framework connects the 72-year Great Day to the pattern of prophetic transmission. The principal observations:
 
 - **One Great Day (72 years) ≈ one human lifespan** — the temporal scope across which a single prophetic figure can directly transmit content
-- **One Great Day ≈ three biblical generations** — the standard biblical generation of approximately 20-25 years (Genesis 25:26: Isaac at age 60 when Jacob was born; Genesis 5 genealogies' approximately 20-year average childbearing ages on the framework's reading)
+- **One Great Day ≈ three biblical generations** — the standard biblical generation of approximately 20-25 years (Genesis 5 genealogies' approximately 20-year average childbearing ages on the framework's reading)
 - **Thirty Great Days = one Great Month** — the temporal scope across which a religious tradition's continuous transmission typically operates before substantial reformulation or renewal
 
 The framework's broader reading treats the structural relationship between the 72-year Great Day and the typical prophetic lifespan as preserving content about the chronological infrastructure within which the prophetic tradition operates. The dedicated [List of prophets and religions](../list-of-prophets-and-religions/) entry develops the broader pattern; the present entry establishes the chronological-unit connection.
@@ -240,8 +242,6 @@ The number 72 — the Great Day in years — has substantial significance across
 - **The 72 angels of the *Shemhamphorash*** — derived from the 72 Names, each Name associated with a specific angel. The tradition is developed in Pseudo-Solomonic and broader medieval ceremonial magic literature.
 - **The 70 (or 72) translators of the Septuagint** — the legendary group of Jewish scholars who translated the Hebrew Bible into Greek under Ptolemy II Philadelphus (mid-3rd century BCE). The number is traditional 70 in earlier sources, 72 in later (six translators from each of the twelve tribes).
 - **The 72 conspirators against Osiris** — in the Egyptian myth of Osiris's death at the hands of Set and his seventy-two co-conspirators (preserved in Plutarch's *De Iside et Osiride*, c. 100 CE). The number 72 in this context has been read by some interpreters (including Santillana and von Dechend) as connecting to the precessional Great Day.
-- **The 72-day Egyptian decan-week period** — in the broader Egyptian astronomical tradition, 72 days corresponds to one-fifth of the 360-day schematic year and connects to the decanal division of the ecliptic.
-- **The 72-fold structure of the *Bardo Thodol* (Tibetan Book of the Dead)** — the 72 manifestations of the deities encountered in the bardo state, developed in the Tibetan Buddhist tradition.
 
 The cross-cultural appearance of the number 72 in symbolic-numerological contexts is consistent with the framework's broader reading that pre-modern cosmological systems preserved the precessional numerical structure through symbolic vocabulary. The framework does not require that every appearance of 72 in source-tradition material be precessionally significant — the number has substantial intrinsic mathematical properties (the divisibility, the close approximation to human lifespan, etc.) that account for some of its prominence. But the broader pattern is consistent with the *Hamlet's Mill* thesis.
 
@@ -280,8 +280,8 @@ The Great Month entry surfaces several open questions for the framework's broade
 
 - **The reconciliation of the modern astronomical and traditional reckonings.** The framework currently uses both the modern astronomical 25,771.5-year cycle and the traditional 25,920-year cycle in different contexts. Whether the corpus should converge on one of these as the principal reckoning, and what the principled basis for the choice should be, is treated as open.
 - **The specific significance of 432.** The number 432 appears with extraordinary frequency in cross-cultural cosmological-numerological contexts (the Hindu 432,000-year Kali Yuga, the 4,320,000-year Mahayuga, the 432,000-year Babylonian *sar*-related calculations, the 432 Hz frequency in some musical-tradition contexts). Whether the 432 pattern is principally a derivation from the precessional structure (with 432 = 60 × 7.2, where 7.2 is the close approximation to 72/10) or whether 432 has independent significance that secondarily connects to precession is treated as open.
-- **The Yukteshwar 24,000-year cycle.** The 19th-century Indian astrological tradition associated with Sri Yukteshwar uses a 24,000-year *yuga* cycle that does not match the standard Puranic figures. The framework's adopted position is open on whether the Yukteshwar reading preserves substantive earlier content or is a 19th-century reinterpretation; subsequent corpus work on the broader Hindu cosmological tradition may permit more developed readings.
-- **The Egyptian decanal connection.** The Egyptian astronomical tradition's 36 decans (10° divisions of the ecliptic, corresponding to 10-day periods within the 360-day schematic year) and the broader 72-day Egyptian periods may preserve precessional content. Future corpus work on the Egyptian astronomical tradition may permit more developed readings.
+- **The Yukteshwar 24,000-year cycle.** The 19th-century Indian astrological tradition associated with Sri Yukteshwar uses a 24,000-year *yuga* cycle that does not match the standard Puranic figures. The framework's adopted position is open on whether the Yukteshwar reading preserves earlier content or is a 19th-century reinterpretation; subsequent corpus work on the broader Hindu cosmological tradition may permit more developed readings.
+- **The Egyptian decanal connection.** The Egyptian astronomical tradition's 36 decans (10° divisions of the ecliptic, corresponding to 10-day periods within the 360-day schematic year) may preserve precessional content. Future corpus work on the Egyptian astronomical tradition may permit more developed readings.
 - **The specific operational use by the Elohim.** Whether the Elohim used the Great Month / Great Year cycle as navigation infrastructure (per the Biglino reading developed in the [Precession](../precession/) entry), as project-chronology infrastructure, as some other operational application, or as a combination of these is treated as open.
 
 ## See also
@@ -320,7 +320,7 @@ Plato. *Timaeus*. c. 360 BCE. Standard English translation: *Plato: Complete Wor
 
 Cicero. *De Natura Deorum*. c. 45 BCE. [The principal Latin source for the post-Platonic Magnus Annus tradition.]
 
-Censorinus. *De Die Natali*. c. 238 CE. [Preserves the various ancient calculations of the Great Year (Heraclitus, Aristarchus, Diogenes of Babylonia).]
+Censorinus. *De Die Natali*. c. 238 CE. [Preserves several ancient calculations of the Great Year (Heraclitus, Aristarchus); Diogenes of Babylonia's 365× figure is transmitted via Aëtius.]
 
 Plutarch. *De Iside et Osiride* (*On Isis and Osiris*). c. 100 CE. [Preserves the Egyptian Osiris-Set tradition with the 72 conspirators against Osiris.]
 
