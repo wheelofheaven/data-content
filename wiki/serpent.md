@@ -126,7 +126,7 @@ greek_name = "ὄφις (ophis)"
 latin_name = "serpens"
 title = "The Serpent of Eden; the Lucifer faction in their disclosure role"
 type = "Faction-as-figure: a specific group of Elohim scientists with their leader; named singularly in the Genesis text"
-operational_period = "Late Age of Leo through early Age of Cancer, c. 11,400 – 10,000 BCE; with the faction's continued presence on Earth extending through the Age of Cancer"
+operational_period = "Late Age of Leo through the Age of Cancer, c. 9,000 – 6,690 BCE; the Eden disclosure event itself at the Leo–Cancer boundary, c. 8,850 BCE"
 date_type = "framework-internal; derived from the Eden chronology"
 biblical_appearance = "Genesis 3:1–15 (the Eden episode); echoes in Numbers 21 (the bronze serpent) and Revelation 12:9 ('that ancient serpent'); Isaiah 27:1's Leviathan shares the naḥash vocabulary but is a figure of distinct lineage"
 faction_leader = "Lucifer (so identified in the broader corpus from later patristic-tradition naming)"
@@ -228,7 +228,7 @@ The faction's leader was the figure later named Lucifer in the patristic-medieva
 
 ### The Eden disclosure: late Leo
 
-The Eden disclosure event — the act narrated in Genesis 3 — occurred at a specific moment in the late Age of Leo, approximately at the boundary with the early Age of Cancer (c. 11,400 – 11,000 BCE on the corpus's chronology). The corpus reads the Genesis 3 narrative as preserving accurate memory of the event, with the surface religious vocabulary covering specific operational realities.
+The Eden disclosure event — the act narrated in Genesis 3 — occurred at a specific moment in the late Age of Leo, approximately at the boundary with the early Age of Cancer (c. 9,000 – 8,850 BCE on the corpus's chronology). The corpus reads the Genesis 3 narrative as preserving accurate memory of the event, with the surface religious vocabulary covering specific operational realities.
 
 The act itself involved the dissenting faction providing the first humans (Adam and Eve) with access to the restricted scientific and technological materials of the garden — the materials that the prohibition on the Tree of the Knowledge of Good and Evil had restricted. The corpus does not specify the exact mechanism of the disclosure; the Genesis text's "eating of the fruit" is read as a stylized account of whatever specific transmission occurred (instruction, demonstration, transfer of information through whatever means the alliance's technology made possible).
 
