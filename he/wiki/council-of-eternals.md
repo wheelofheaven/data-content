@@ -223,7 +223,7 @@ The principal executive decisions across the Earth-project history:
 
 **The seven-team distribution (c. 21,810 BCE onward)**. The Council authorized the distribution of the Earth synthesis work across seven creator teams, with each team responsible for a specific geographic region of the antediluvian supercontinent. The detailed treatment of this distribution lives in the [Antediluvian](../antediluvian/) entry.
 
-**The post-Eden destruction order (c. 11,400 BCE)**. The Council ordered the exile of the Lucifer faction following the Eden disclosure event, with the formal verdict being delivered through Yahweh's pronouncement at the Eden settlement. The detailed treatment lives in the [Lucifer](../lucifer/), [Serpent](../serpent/), and [Eden](../eden/) entries.
+**The post-Eden destruction order (c. 8,850 BCE)**. The Council ordered the exile of the Lucifer faction following the Eden disclosure event, with the formal verdict being delivered through Yahweh's pronouncement at the Eden settlement. The detailed treatment lives in the [Lucifer](../lucifer/), [Serpent](../serpent/), and [Eden](../eden/) entries.
 
 **The Flood destruction order (c. 6,690 BCE)**. The Council ordered the destruction of all life on Earth through nuclear weapons impacts, executing the order despite the exiled creators' counter-preparation through the ark project. The detailed treatment lives in the [Great Flood](../great-flood/) entry.
 
@@ -296,7 +296,7 @@ The Council's specific authorization of the Earth project followed substantial p
 
 The Earth-project authorization is the critical decision that produced the entire subsequent corpus narrative. Without it, no Earth biological-synthesis would have occurred; with it, the entire arc from Capricorn-age site survey through the Aquarian-age open return becomes possible.
 
-### Pre-Eden Earth-project phase (c. 21,810–11,400 BCE)
+### Pre-Eden Earth-project phase (c. 21,810–8,850 BCE)
 
 Across the seven precessional ages from Capricorn through Leo, the Council supervised the ongoing Earth synthesis work through the seven creator teams. The detailed treatment lives in the various age-specific entries; for the Council entry, the principal point is that the Council maintained continuous oversight of the Earth project from the home world while the operational work was conducted on Earth by the deployed personnel.
 
@@ -307,7 +307,7 @@ The Council's specific operational role during this period:
 - Authorization of specific operational decisions (the various biological-synthesis stages, the human-creation authorization, the educational-program parameters)
 - Maintenance of the political-institutional framework within which the Earth project operated
 
-### Post-Eden conflict phase (c. 11,400–6,690 BCE)
+### Post-Eden conflict phase (c. 8,850–6,690 BCE)
 
 The Eden disclosure event and the subsequent post-Eden settlement initiated a substantial political conflict between the Council and the exiled Lucifer faction. The Council's role across this period:
 

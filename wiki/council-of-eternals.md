@@ -240,7 +240,7 @@ The principal decisions:
 
 **The seven-team distribution (c. 21,810 BCE onward).** The Council split the Earth work across seven creator teams, each assigned a region of the antediluvian supercontinent. See the [Antediluvian](../antediluvian/) entry.
 
-**The post-Eden destruction order (c. 11,400 BCE).** After the Eden disclosure, the Council exiled the Lucifer faction, the verdict delivered through Yahweh's pronouncement at the Eden settlement. See the [Lucifer](../lucifer/), [Serpent](../serpent/), and [Eden](../eden/) entries.
+**The post-Eden destruction order (c. 8,850 BCE).** After the Eden disclosure, the Council exiled the Lucifer faction, the verdict delivered through Yahweh's pronouncement at the Eden settlement. See the [Lucifer](../lucifer/), [Serpent](../serpent/), and [Eden](../eden/) entries.
 
 **The Flood destruction order (c. 6,690 BCE).** The Council ordered all life on Earth destroyed by nuclear weapons and carried it out despite the exiled creators' ark project. See the [Great Flood](../great-flood/) entry.
 
@@ -284,11 +284,11 @@ The Council was founded when Yahweh became the first successful beneficiary of t
 
 Authorization followed serious political conflict at home. The genetic-synthesis program had reached advanced, politically controversial capabilities; a crisis produced a Council vote to halt it and destroy existing specimens; a large faction opposed this and won relocation of the work to a distant site — Earth — under modified terms. Yahweh, as president, took personal charge and traveled to Earth to lead it. This is the decision that set the whole corpus narrative in motion: without it, no Earth synthesis; with it, the arc from the Capricorn-age site survey to the Aquarian-age return.
 
-### Pre-Eden Earth-project phase (c. 21,810–11,400 BCE)
+### Pre-Eden Earth-project phase (c. 21,810–8,850 BCE)
 
 Across the seven precessional ages from Capricorn through Leo, the Council supervised the synthesis work through the seven creator teams — deliberating on progress, reviewing the teams' reports, authorizing the synthesis stages and the human-creation, and maintaining the project's political framework. The age-specific entries treat the detail; here the point is that it kept continuous oversight from the home world while deployed personnel worked on Earth.
 
-### Post-Eden conflict phase (c. 11,400–6,690 BCE)
+### Post-Eden conflict phase (c. 8,850–6,690 BCE)
 
 The Eden disclosure and its settlement opened a long conflict between the Council and the exiled Lucifer faction: the post-Eden destruction order, continued observation of the antediluvian Earth, the decision to destroy the human creation in the Flood and its execution, then the post-Flood Babel intervention. Throughout, the Council was not in cooperation with the Earth-side Lucifer faction but in opposition, which drove the era's interventions and counter-interventions.
 
