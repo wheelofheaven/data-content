@@ -1,6 +1,6 @@
 +++
 title = "Flood-Myth Concordance"
-description = "A machine-readable, comparative CC0 dataset of eight ancient flood myths — survivor, warner, cause, vessel, landing, aftermath. Download as CSV or JSON."
+description = "A machine-readable, comparative CC0 dataset of eleven ancient flood myths — survivor, warner, cause, vessel, landing, aftermath. Download as CSV or JSON."
 template = "dataset-page.html"
 
 [extra]
@@ -11,7 +11,7 @@ updated = "2026-07"
 keywords = ["flood myth dataset", "machine-readable", "deluge", "comparative mythology data", "ancient Near East", "Atrahasis", "Gilgamesh", "Genesis flood", "digital humanities", "open data", "CC0 download"]
 
 stats = [
-    { label = "Traditions", value = "8" },
+    { label = "Traditions", value = "11" },
     { label = "Fields", value = "13" },
     { label = "Formats", value = "CSV · JSON" },
     { label = "License", value = "CC0-1.0" },
@@ -42,8 +42,9 @@ source text where the Wheel of Heaven library holds one.
 
 Sumerian (Ziusudra), Babylonian *Atra-ḫasīs* and *Gilgamesh* XI (Utnapishtim),
 Hebrew *Genesis* (Noah), Islamic *Qurʾān* (Nūḥ), Greek Deucalion, the
-Greco-Babylonian Berossus (Xisuthros), and the Vedic *Śatapatha Brāhmaṇa*
-(Manu).
+Greco-Babylonian Berossus (Xisuthros), the Vedic *Śatapatha Brāhmaṇa* (Manu),
+the Aztec *Leyenda de los Soles* (Tata and Nena), the Andean Viracocha
+chronicles (Betanzos, Molina), and the Norse *Prose Edda* (Bergelmir).
 
 ## What it's for
 
@@ -58,7 +59,7 @@ Each row is a flood tradition attested in a **primary text** — named in the
 *Source text* column. A tradition is included when its flood account survives
 in a readable source and states enough of the shared elements to populate the
 comparative columns; the concordance is deliberately conservative, favouring
-eight well-attested traditions over a long tail of fragmentary or contested
+eleven well-attested traditions over a long tail of fragmentary or contested
 parallels. Where the corpus has digitized the source, the *Read in* link points
 into the Wheel of Heaven library; where it has not, the source is named but not
 yet hosted.
@@ -75,10 +76,12 @@ source text**, not for any event it narrates. Traditions are grouped by textual
 family, so the two Babylonian rows (*Atra-ḫasīs* and the *Gilgamesh* Tablet XI)
 appear separately: they are distinct compositions, not two readings of one text.
 
-This is **version 1.0** of the concordance — the first published cut. It is
-CC0, so it can be extended, corrected, or merged without permission; additions
-should preserve the "primary text required" rule so every row stays anchored to
-a citable source.
+This is **version 1.1** of the concordance. Version 1.0 shipped eight rows
+across the Near Eastern and Mediterranean core; 1.1 adds three traditions from
+outside it — Aztec (Tata and Nena), Andean (Viracocha), and Norse (Bergelmir) —
+for eleven rows in all. It is CC0, so it can be extended, corrected, or merged
+without permission; additions should preserve the "primary text required" rule
+so every row stays anchored to a citable source.
 
 ## How Wheel of Heaven reads it
 

@@ -11,8 +11,8 @@ updated = "2026-07"
 keywords = ["divine council", "sons of God", "assembly of the gods", "comparative religion", "ancient Near East", "Ugaritic", "biblical studies", "digital humanities"]
 
 stats = [
-    { label = "Attestations", value = "11" },
-    { label = "Traditions", value = "6" },
+    { label = "Attestations", value = "17" },
+    { label = "Traditions", value = "12" },
     { label = "Formats", value = "CSV · JSON" },
     { label = "License", value = "CC0-1.0" },
 ]
@@ -42,9 +42,13 @@ linked to the digitized text where the library holds one.
 
 Ugaritic (the assembly of El in the *Baal Cycle*), Hebrew (*Psalm* 82, *1
 Kings* 22, *Job*, *Deuteronomy* 32, *Isaiah* 6), Babylonian (*Enūma Eliš*,
-*Atra-ḫasīs*), Second Temple (the *Book of the Watchers*), Hurrian-Hittite (the
-*Song of Emergence*), and Latter-day Saint (the premortal council of the *Book
-of Moses*).
+*Atra-ḫasīs*), Sumerian (the assembly that judges Enlil in *Enlil and Ninlil*),
+Second Temple (the *Book of the Watchers*), Hurrian-Hittite (the *Song of
+Emergence*), Greek (the Olympian *agorḗ* of the *Iliad*), Roman (the *concilium
+deorum* of Ovid's *Metamorphoses*), Egyptian (the Great Ennead of *The
+Contendings of Horus and Seth*), Norse (the *rökstólar* of the *Völuspá*), Hindu
+(the *devasabhā* of the *Mahābhārata*), and Latter-day Saint (the premortal
+council of the *Book of Moses*).
 
 ## What it's for
 
@@ -70,9 +74,12 @@ its own language, the *presiding figure*, the *members*, and the *function* the
 passage assigns the body. A blank cell means the feature is unstated in that
 source.
 
-This is **version 1.0** of the index. It is CC0 and extensible; additions
-should preserve the "deliberative assembly, named in a primary text" rule so
-every row stays a citable attestation rather than an inference.
+This is **version 1.1** of the index. Version 1.0 gathered eleven attestations
+across six traditions; 1.1 adds six more — Sumerian, Greek, Roman, Egyptian,
+Norse, and Hindu — for seventeen attestations across twelve traditions. It is
+CC0 and extensible; additions should preserve the "deliberative assembly, named
+in a primary text" rule so every row stays a citable attestation rather than an
+inference.
 
 ## How Wheel of Heaven reads it
 
