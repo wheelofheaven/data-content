@@ -1,6 +1,6 @@
 +++
 title = "Newsroom"
-description = "Time-anchored dispatches reading current events through the Wheel of Heaven canon — discoveries, announcements, anniversaries, and cultural moments seen from the Elohim hypothesis."
+description = "Time-anchored dispatches reading current events through the Wheel of Heaven canon — announcements and developments seen from the Elohim hypothesis."
 template = "news-section.html"
 sort_by = "date"
 generate_feeds = true
