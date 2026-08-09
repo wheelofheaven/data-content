@@ -6,6 +6,8 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+core_claim_ids = ["woh-claim-0002"]
+core_versions = { woh-claim-0002 = "0.1.0" }
 same_as = ["https://www.wikidata.org/wiki/Q676379", "https://en.wikipedia.org/wiki/Anunnaki"]
 category = "Elohim"
 entry_type = "civilization"
