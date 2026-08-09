@@ -10,7 +10,6 @@ color = "silver"
 start_year = "before -21810"
 end_year = "-21810"
 period = "antes del 21.810 a. C."
-image = "saurian-experiments.png"
 chapter = "2.1"
 genesis_interpretation = "El Preámbulo prepara el escenario para toda la cronología, estableciendo las circunstancias que llevaron a los Elohim a buscar la Tierra como su nueva frontera para la investigación genética. Como la fábula admonitoria de Jurassic Park, explora las consecuencias de la experimentación científica desenfrenada y la búsqueda de nuevas fronteras cuando el progreso se vuelve controvertido en casa."
 footnotes = [

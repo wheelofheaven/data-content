@@ -10,7 +10,6 @@ color = "silver"
 start_year = "before -21810"
 end_year = "-21810"
 period = "기원전 21,810년 이전"
-image = "saurian-experiments.png"
 chapter = "2.1"
 genesis_interpretation = "서문은 전체 연표의 무대를 설정하여, 엘로힘이 유전 연구의 새로운 개척지로 지구를 찾게 된 경위를 확립합니다. 〈쥬라기 공원〉의 경고적 이야기처럼, 통제되지 않은 과학적 실험과, 진보가 본국에서 논쟁의 대상이 될 때 새로운 개척지를 찾는 행위의 결과를 탐구합니다."
 footnotes = [

@@ -67,5 +67,5 @@ shifts from narrative to specification.
 ## See also
 
 - [Genesis](/library/genesis/)
-- [Elohim concept hub](/explore/concept/elohim/)
+- [Elohim concept hub](/wiki/elohim/)
 - [Hebrew & Biblical tradition hub](/sources/tradition/hebrew/)

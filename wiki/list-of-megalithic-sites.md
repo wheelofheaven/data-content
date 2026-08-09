@@ -250,7 +250,7 @@ The catalogue maintains the discipline of treating mainstream archaeology as the
 
 ## Read more
 
-- [Graham Hancock, *Fingerprints of the Gods*](../library/fingerprints-of-the-gods/)
+- [Graham Hancock, *Fingerprints of the Gods*](/sources/fingerprints-of-the-gods/)
 
 ## References
 

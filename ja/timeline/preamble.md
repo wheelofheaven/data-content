@@ -10,7 +10,6 @@ color = "silver"
 start_year = "before -21810"
 end_year = "-21810"
 period = "before 21'810BC"
-image = "saurian-experiments.png"
 chapter = "2.1"
 genesis_interpretation = "序章は時系列全体の舞台を整え、エロヒムが遺伝子研究の新たなフロンティアとして地球を求めるに至った状況を確立します。ジュラシック・パークの警鐘的な物語と同じく、抑制を欠いた科学的実験の帰結と、母星で進歩が物議をかもしたときに新たなフロンティアを求める姿勢を考察します。"
 footnotes = [

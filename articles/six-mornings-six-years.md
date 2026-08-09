@@ -521,7 +521,7 @@ of 1975, a throwaway count, resurface correct in 1979 ("the great
 prophets – nearly 40 in all"); the count's own translation history —
 French *la quarantaine*, hardened by the English edition into a
 definite forty — is examined in
-[*The Forty Chairs*](/articles/the-forty-chairs/). The geniocracy
+*The Forty Chairs*. The geniocracy
 thresholds (eligibility at 50 percent above average, franchise at 10)
 recur verbatim, introduced with an explicit cross-reference, "As is
 said in the first part of this book"
@@ -769,7 +769,7 @@ is simply, as of this writing, unredeemed.
   Religions*](/articles/the-religion-of-religions/), for the public
   escalation the disclosure system produced: stenographer, prophet,
   son, in six years of paperback.
-- [*The Forty Chairs*](/articles/the-forty-chairs/), which formalizes
+- *The Forty Chairs*, which formalizes
   the instrument for grading founding narratives — and whose first
   footnote is a worked example of translation-artifact criticism on
   the 1975 book.

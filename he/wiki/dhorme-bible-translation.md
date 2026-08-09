@@ -155,7 +155,7 @@ Posthumous treatments of Dhorme's archives include:
 
 - Agnès Spycket, "Les Archives d'Édouard Dhorme (1881–1966) à la bibliothèque du Saulchoir," *Revue Biblique* 104:1 (1997): 5–39
 
-![Dhorme Bible: Tome I and Tome II](images/dhorme-bible-books.jpg "La Bible: L'Ancien Testament, Tome I (1956) and Tome II (1959) — Édouard Dhorme")
+ and Tome II (1959) — Édouard Dhorme")
 
 ## See also
 

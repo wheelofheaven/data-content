@@ -11,7 +11,6 @@ color = "silver"
 start_year = "before -21810"
 end_year = "-21810"
 period = "before 21'810BC"
-image = "saurian-experiments.png"
 chapter = "2.1"
 genesis_interpretation = "The Preamble sets the stage for the entire timeline, establishing the circumstances that led the Elohim to seek Earth as their new frontier for genetic research. Like the cautionary tale of Jurassic Park, it explores the consequences of unchecked scientific experimentation and the search for new frontiers when progress becomes controversial at home."
 footnotes = [

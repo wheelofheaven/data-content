@@ -10,7 +10,6 @@ color = "silver"
 start_year = "before -21810"
 end_year = "-21810"
 period = "before 21'810BC"
-image = "saurian-experiments.png"
 chapter = "2.1"
 genesis_interpretation = "序章為整部時間軸奠定舞臺,確立耶洛因將地球視為基因研究新疆域的緣由。如同《侏羅紀公園》的警世寓言,本章探討當進步在家鄉引起爭議時,失控的科學實驗與對新疆域的追尋所帶來的後果。"
 footnotes = [

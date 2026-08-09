@@ -82,5 +82,5 @@ reading.
 - [Exodus](/library/exodus/)
 - [Leviticus](/library/leviticus/)
 - [Numbers](/library/numbers/)
-- [Elohim concept hub](/explore/concept/elohim/)
+- [Elohim concept hub](/wiki/elohim/)
 - [Hebrew & Biblical tradition hub](/sources/tradition/hebrew/)

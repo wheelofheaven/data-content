@@ -242,7 +242,7 @@ The catalogue surfaces several methodological and substantive open questions.
 
 ## Read more
 
-- [Graham Hancock, *Fingerprints of the Gods*](../library/fingerprints-of-the-gods/)
+- [Graham Hancock, *Fingerprints of the Gods*](/sources/fingerprints-of-the-gods/)
 
 ## References
 

@@ -27,4 +27,4 @@ Mesopotamian cosmogony.
 ## See also
 
 - [Chaldean Account of Genesis](/library/chaldean-account-of-genesis/) — George Smith's 1876 commentary which contextualizes the Enuma Elish
-- [Elohim concept hub](/explore/concept/elohim/) — references the Babylonian creation parallel
+- [Elohim concept hub](/wiki/elohim/) — references the Babylonian creation parallel

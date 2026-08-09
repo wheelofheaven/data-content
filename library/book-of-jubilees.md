@@ -42,4 +42,4 @@ and corrupting the earth — closely paralleling 1 Enoch 6-16.
 
 - [Book of Enoch](/library/book-of-enoch/) — the closely related Watchers tradition
 - [Genesis](/library/genesis/) — the biblical source Jubilees retells
-- [Elohim concept hub](/explore/concept/elohim/)
+- [Elohim concept hub](/wiki/elohim/)

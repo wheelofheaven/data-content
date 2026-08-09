@@ -10,7 +10,6 @@ color = "silver"
 start_year = "before -21810"
 end_year = "-21810"
 period = "avant 21 810 av. J.-C."
-image = "saurian-experiments.png"
 chapter = "2.1"
 genesis_interpretation = "Le Préambule prépare le terrain pour l'ensemble de la chronologie, en établissant les circonstances qui ont conduit les Élohim à chercher dans la Terre leur nouvelle frontière pour la recherche génétique. À l'image de la mise en garde de Jurassic Park, il explore les conséquences de l'expérimentation scientifique sans frein et la quête de nouvelles frontières lorsque le progrès devient controversé chez soi."
 footnotes = [

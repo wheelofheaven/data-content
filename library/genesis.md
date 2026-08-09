@@ -58,7 +58,7 @@ Genesis is traditionally divided into two main narrative blocks:
 ## Why this is in the Wheel of Heaven library
 
 Genesis is cited directly in the
-[Elohim concept hub](/explore/concept/elohim/) as the primary
+[Elohim concept hub](/wiki/elohim/) as the primary
 textual spine for the canon's reading. It is also referenced
 extensively in the
 [Hebrew & Biblical tradition hub](/sources/tradition/hebrew/). Having
@@ -68,7 +68,7 @@ literal source and read the passage in context.
 
 ## See also
 
-- [Elohim concept hub](/explore/concept/elohim/)
+- [Elohim concept hub](/wiki/elohim/)
 - [Hebrew & Biblical tradition hub](/sources/tradition/hebrew/)
 - [Elohim wiki entry](/wiki/elohim/)
 - [Tanakh resource entry](/resources/tanakh/)

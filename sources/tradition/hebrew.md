@@ -57,7 +57,7 @@ manuscript fidelity.
 The Raëlian canon anchors its own reading directly to this corpus —
 *The Book Which Tells the Truth* treats Genesis as a compressed first-
 person account of the Elohim's engineering work. The
-[Elohim concept hub](/explore/concept/elohim/) walks the specific
+[Elohim concept hub](/wiki/elohim/) walks the specific
 textual spine. This page is the broader tradition hub: it situates
 the Hebrew Bible in its own terms, names the motifs that matter for
 the frame, and lists the source layers a reader can explore.
@@ -119,7 +119,7 @@ Within them:
 - **Genesis 1** — creation by *Elohim* (grammatically plural),
   sequenced as six "days" of bounded activity with explicit
   separations, namings, and "after their kinds" reproducibility
-  constraints. See the [Elohim concept hub](/explore/concept/elohim/)
+  constraints. See the [Elohim concept hub](/wiki/elohim/)
   for the textual detail.
 - **Genesis 2-3** — a distinct creation account centered on a
   specific location (Eden), a hands-on making of the first human,
@@ -327,7 +327,7 @@ Four honest objections, in decreasing order of weight.
 ---
 
 **This hub is a pilot.** Together with the
-[Elohim concept hub](/explore/concept/elohim/), it is the Phase 3
+[Elohim concept hub](/wiki/elohim/), it is the Phase 3
 validation of the tradition-hub template, the six-source citation
 pattern, and the editorial tone. Future expansions: translations to
 the other eight supported languages; a sibling tradition hub for

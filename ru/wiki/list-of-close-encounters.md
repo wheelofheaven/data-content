@@ -359,7 +359,7 @@ The catalogue surfaces several methodological and substantive open questions.
 
 ## Read more
 
-- [Jacques Vallée and Chris Aubeck, *Wonders in the Sky*](../library/wonders-in-the-sky/)
+- [Jacques Vallée and Chris Aubeck, *Wonders in the Sky*](/sources/wonders-in-the-sky/)
 
 ## References
 

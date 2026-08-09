@@ -10,7 +10,6 @@ color = "silver"
 start_year = "before -21810"
 end_year = "-21810"
 period = "vor 21.810 v. Chr."
-image = "saurian-experiments.png"
 chapter = "2.1"
 genesis_interpretation = "Die Einleitung bereitet die Bühne für die gesamte Zeitleiste und etabliert die Umstände, die die Elohim dazu brachten, die Erde als ihre neue Grenze für genetische Forschung zu suchen. Wie das Lehrstück von Jurassic Park erforscht sie die Folgen ungezügelter wissenschaftlicher Experimente und die Suche nach neuen Grenzen, wenn der Fortschritt im eigenen Land umstritten wird."
 footnotes = [
