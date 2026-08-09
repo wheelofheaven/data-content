@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q123808", "https://en.wikipedia.org/wiki/Second_Epistle_to_the_Corinthians", "https://viaf.org/viaf/181845414"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

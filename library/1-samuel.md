@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q1975029", "https://en.wikipedia.org/wiki/First_Book_of_Samuel", "https://viaf.org/viaf/1093154387371730970007"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

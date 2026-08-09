@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q40309", "https://en.wikipedia.org/wiki/Acts_of_the_Apostles", "https://www.britannica.com/topic/The-Acts-of-the-Apostles-New-Testament", "https://viaf.org/viaf/174983206"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

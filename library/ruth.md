@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q80038", "https://en.wikipedia.org/wiki/Book_of_Ruth", "https://www.britannica.com/topic/Book-of-Ruth", "https://viaf.org/viaf/4493158070674908780009"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

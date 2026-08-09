@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-08-04
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q156498", "https://en.wikipedia.org/wiki/Theogony", "https://www.britannica.com/topic/Theogony-by-Hesiod", "https://viaf.org/viaf/269732238"]
 translation_status = "complete"
 claim_type = "direct"
 source_family = "greek"

@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-06-12
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q7561191", "https://en.wikipedia.org/wiki/Song_of_the_hoe"]
 translation_status = "complete"
 claim_type = "direct"
 source_family = "ane"

@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q843946", "https://en.wikipedia.org/wiki/Book_of_Jubilees", "https://www.britannica.com/topic/Book-of-Jubilees", "https://viaf.org/viaf/176601643"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "second_temple"

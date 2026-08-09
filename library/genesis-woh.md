@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-05-18
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q9184", "https://en.wikipedia.org/wiki/Book_of_Genesis", "https://www.britannica.com/topic/Genesis-Old-Testament", "https://viaf.org/viaf/316751363"]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/genesis-woh"
 kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/genesis-woh"
 translation_status = "partial"

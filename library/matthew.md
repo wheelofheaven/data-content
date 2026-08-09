@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q392302", "https://en.wikipedia.org/wiki/Gospel_of_Matthew", "https://www.britannica.com/topic/Gospel-According-to-Matthew", "https://viaf.org/viaf/188427863"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

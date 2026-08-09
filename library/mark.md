@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q107388", "https://en.wikipedia.org/wiki/Gospel_of_Mark", "https://viaf.org/viaf/179823714"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

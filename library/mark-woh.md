@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-06-04
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q107388", "https://en.wikipedia.org/wiki/Gospel_of_Mark", "https://viaf.org/viaf/179823714"]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/mark-woh"
 kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/mark-woh"
 translation_status = "partial"

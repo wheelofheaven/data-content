@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q131066", "https://en.wikipedia.org/wiki/First_Book_of_Kings", "https://viaf.org/viaf/179031496"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q328804", "https://en.wikipedia.org/wiki/John_the_Evangelist", "https://viaf.org/viaf/40648922"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-06-04
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q40309", "https://en.wikipedia.org/wiki/Acts_of_the_Apostles", "https://www.britannica.com/topic/The-Acts-of-the-Apostles-New-Testament", "https://viaf.org/viaf/174983206"]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/acts-woh"
 kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/acts-woh"
 translation_status = "partial"

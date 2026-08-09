@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-07-04
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q530320", "https://en.wikipedia.org/wiki/Atra-Hasis_%28mythological_character%29", "https://viaf.org/viaf/30341805"]
 translation_status = "partial"
 claim_type = "direct"
 source_family = "mesopotamian"

@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q131101", "https://en.wikipedia.org/wiki/First_Epistle_of_John", "https://viaf.org/viaf/615154387441230970009"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

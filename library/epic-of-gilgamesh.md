@@ -7,6 +7,7 @@ aliases = ["/wiki/epic-of-gilgamesh/"]
 date = 2026-05-16
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q8272", "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh", "https://www.britannica.com/topic/Epic-of-Gilgamesh", "https://viaf.org/viaf/183878181"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "mesopotamian"

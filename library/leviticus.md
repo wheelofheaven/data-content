@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q41490", "https://en.wikipedia.org/wiki/Book_of_Leviticus", "https://www.britannica.com/topic/Leviticus", "https://viaf.org/viaf/181434281"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

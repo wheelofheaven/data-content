@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q16387108", "https://en.wikipedia.org/wiki/Moroni_%28prophet%29"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "mormon"

@@ -7,6 +7,7 @@ aliases = ["/wiki/atra-hasis/"]
 date = 2026-05-16
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q530320", "https://en.wikipedia.org/wiki/Atra-Hasis_%28mythological_character%29", "https://viaf.org/viaf/30341805"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "mesopotamian"

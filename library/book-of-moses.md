@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-06-12
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q3257242", "https://en.wikipedia.org/wiki/Book_of_Moses"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "mormon"

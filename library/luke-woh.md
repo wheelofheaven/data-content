@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-06-04
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q39939", "https://en.wikipedia.org/wiki/Gospel_of_Luke", "https://www.britannica.com/topic/Gospel-According-to-Luke", "https://viaf.org/viaf/175769882"]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/luke-woh"
 kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/luke-woh"
 translation_status = "partial"

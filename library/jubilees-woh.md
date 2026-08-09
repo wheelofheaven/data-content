@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-06-06
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q843946", "https://en.wikipedia.org/wiki/Book_of_Jubilees", "https://www.britannica.com/topic/Book-of-Jubilees", "https://viaf.org/viaf/176601643"]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/jubilees-woh"
 kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/jubilees-woh"
 translation_status = "partial"

@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q2726059", "https://en.wikipedia.org/wiki/Fourth_Nephi", "https://viaf.org/viaf/176528459"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "mormon"

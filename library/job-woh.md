@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-05-21
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q110527104"]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/job-woh"
 kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/job-woh"
 translation_status = "partial"

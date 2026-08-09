@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q3091208", "https://en.wikipedia.org/wiki/Helaman"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "mormon"

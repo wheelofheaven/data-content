@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q131072", "https://en.wikipedia.org/wiki/Ecclesiastes", "https://www.britannica.com/topic/Ecclesiastes-Old-Testament", "https://viaf.org/viaf/316620548"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

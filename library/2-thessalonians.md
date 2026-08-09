@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q131107", "https://en.wikipedia.org/wiki/Second_Epistle_to_the_Thessalonians", "https://viaf.org/viaf/292615356"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

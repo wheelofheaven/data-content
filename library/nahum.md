@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q1981722", "https://en.wikipedia.org/wiki/Nahum", "https://www.britannica.com/biography/Nahum-Old-Testament-prophet", "https://viaf.org/viaf/316444044"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

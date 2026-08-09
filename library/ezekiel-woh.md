@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-05-21
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q178390", "https://en.wikipedia.org/wiki/Book_of_Ezekiel", "https://www.britannica.com/topic/The-Book-of-Ezekiel", "https://viaf.org/viaf/228351759"]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/ezekiel-woh"
 kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/ezekiel-woh"
 translation_status = "partial"

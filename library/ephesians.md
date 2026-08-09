@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q408673", "https://en.wikipedia.org/wiki/Epistle_to_the_Ephesians", "https://www.britannica.com/topic/Letter-of-Paul-to-the-Ephesians", "https://viaf.org/viaf/316751369"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

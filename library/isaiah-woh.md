@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-05-21
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q131458", "https://en.wikipedia.org/wiki/Book_of_Isaiah", "https://www.britannica.com/topic/Book-of-Isaiah", "https://viaf.org/viaf/296479192"]
 translation_status = "planned"
 claim_type = "direct"
 source_family = "abrahamic"

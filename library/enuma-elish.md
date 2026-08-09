@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q206063", "https://en.wikipedia.org/wiki/En%C5%ABma_Eli%C5%A1", "https://www.britannica.com/topic/Enuma-Elish", "https://viaf.org/viaf/185885738"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "mesopotamian"

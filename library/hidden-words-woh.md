@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-07-02
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q1519440", "https://en.wikipedia.org/wiki/Hidden_Words", "https://viaf.org/viaf/195849318"]
 translation_status = "partial"
 claim_type = "direct"
 source_family = "bahai"

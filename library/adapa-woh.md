@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-06-02
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q136188282"]
 translation_status = "partial"
 claim_type = "direct"
 source_family = "ane"

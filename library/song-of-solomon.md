@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q51670", "https://en.wikipedia.org/wiki/Song_of_Songs", "https://www.britannica.com/topic/Song-of-Solomon", "https://viaf.org/viaf/180229179"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q39939", "https://en.wikipedia.org/wiki/Gospel_of_Luke", "https://www.britannica.com/topic/Gospel-According-to-Luke", "https://viaf.org/viaf/175769882"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q41064", "https://en.wikipedia.org/wiki/Psalms", "https://www.britannica.com/topic/Psalms", "https://viaf.org/viaf/189399370"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-06-02
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q2735731", "https://en.wikipedia.org/wiki/Baal_Cycle", "https://viaf.org/viaf/179917936"]
 translation_status = "partial"
 claim_type = "direct"
 source_family = "ane"

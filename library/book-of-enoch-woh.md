@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-06-05
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q220890", "https://en.wikipedia.org/wiki/Book_of_Enoch", "https://www.britannica.com/topic/First-Book-of-Enoch"]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/book-of-enoch-woh"
 kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/book-of-enoch-woh"
 translation_status = "partial"

@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-06-12
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q6287078", "https://en.wikipedia.org/wiki/Joseph_Smith%E2%80%93History"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "mormon"

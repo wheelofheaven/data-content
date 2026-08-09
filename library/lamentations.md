@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q179058", "https://en.wikipedia.org/wiki/Book_of_Lamentations", "https://www.britannica.com/topic/The-Lamentations-of-Jeremiah", "https://viaf.org/viaf/182726631"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

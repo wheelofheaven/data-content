@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-06-01
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q10436112", "https://en.wikipedia.org/wiki/Eridu_Genesis"]
 translation_status = "complete"
 claim_type = "direct"
 source_family = "ane"

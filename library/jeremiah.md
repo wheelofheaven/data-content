@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q131590", "https://en.wikipedia.org/wiki/Book_of_Jeremiah", "https://www.britannica.com/topic/The-Book-of-Jeremiah", "https://viaf.org/viaf/176172762"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

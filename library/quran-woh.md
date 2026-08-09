@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-06-03
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q428", "https://en.wikipedia.org/wiki/Quran", "https://www.britannica.com/topic/Quran", "https://viaf.org/viaf/175382719"]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/quran-woh"
 kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/quran-woh"
 translation_status = "partial"

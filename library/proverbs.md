@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q4579", "https://en.wikipedia.org/wiki/Book_of_Proverbs", "https://www.britannica.com/topic/The-Proverbs", "https://viaf.org/viaf/177805643"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

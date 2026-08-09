@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q131119", "https://en.wikipedia.org/wiki/First_Epistle_of_Peter", "https://www.britannica.com/topic/biblical-literature/The-First-Letter-of-Peter", "https://viaf.org/viaf/193812516"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

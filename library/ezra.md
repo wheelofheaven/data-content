@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q131635", "https://en.wikipedia.org/wiki/Book_of_Ezra", "https://viaf.org/viaf/315943963"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

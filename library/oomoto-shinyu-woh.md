@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-07-02
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q11435937", "https://en.wikipedia.org/wiki/Oomoto_Shin%27yu"]
 translation_status = "partial"
 claim_type = "direct"
 source_family = "oomoto"

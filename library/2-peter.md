@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q131178", "https://en.wikipedia.org/wiki/Second_Epistle_of_Peter", "https://viaf.org/viaf/183897792"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

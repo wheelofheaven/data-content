@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q135106", "https://en.wikipedia.org/wiki/Habakkuk", "https://www.britannica.com/biography/Habakkuk", "https://viaf.org/viaf/9739544"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

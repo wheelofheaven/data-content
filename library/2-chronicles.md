@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q209720", "https://en.wikipedia.org/wiki/Second_Book_of_Chronicles", "https://viaf.org/viaf/181825435"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

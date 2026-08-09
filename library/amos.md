@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q174677", "https://en.wikipedia.org/wiki/Book_of_Amos", "https://www.britannica.com/topic/Book-of-Amos", "https://viaf.org/viaf/316751468"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

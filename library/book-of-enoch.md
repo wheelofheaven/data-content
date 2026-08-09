@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q220890", "https://en.wikipedia.org/wiki/Book_of_Enoch", "https://www.britannica.com/topic/First-Book-of-Enoch"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "second_temple"

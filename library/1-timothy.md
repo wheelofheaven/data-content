@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q131180", "https://en.wikipedia.org/wiki/First_Epistle_to_Timothy", "https://viaf.org/viaf/186274959"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"

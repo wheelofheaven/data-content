@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q6411895", "https://en.wikipedia.org/wiki/King_Mosiah_II"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "mormon"

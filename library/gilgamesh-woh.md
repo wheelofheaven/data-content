@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-06-05
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q8272", "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh", "https://www.britannica.com/topic/Epic-of-Gilgamesh", "https://viaf.org/viaf/183878181"]
 translation_status = "partial"
 claim_type = "direct"
 source_family = "ane"

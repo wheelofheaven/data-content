@@ -6,6 +6,7 @@ template = "library-book.html"
 date = 2026-04-09
 
 [extra]
+same_as = ["https://www.wikidata.org/wiki/Q479645", "https://en.wikipedia.org/wiki/Obadiah", "https://www.britannica.com/biography/Obadiah", "https://viaf.org/viaf/85050107"]
 translation_status = "en_only"
 claim_type = "direct"
 source_family = "abrahamic"
