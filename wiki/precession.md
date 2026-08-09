@@ -6,6 +6,8 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+core_claim_ids = ["woh-claim-0003"]
+core_versions = { woh-claim-0003 = "0.1.0" }
 same_as = ["https://www.wikidata.org/wiki/Q83094", "https://en.wikipedia.org/wiki/Axial_precession", "https://www.britannica.com/topic/precession-of-the-equinoxes"]
 featured_order = 5
 redirect_to = { title = "World Age", path = "/wiki/world-age/" }

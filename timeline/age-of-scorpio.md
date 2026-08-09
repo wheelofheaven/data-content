@@ -7,6 +7,8 @@ toc = true
 aliases = ["/intro/age-of-scorpio/", "/wiki/age-of-scorpio/"]
 
 [extra]
+core_claim_ids = ["woh-claim-0003"]
+core_versions = { woh-claim-0003 = "0.1.0" }
 symbol = "♏"
 color = "red"
 start_year = "-17490"

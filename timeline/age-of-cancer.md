@@ -7,6 +7,8 @@ toc = true
 aliases = ["/intro/age-of-cancer/", "/wiki/age-of-cancer/"]
 
 [extra]
+core_claim_ids = ["woh-claim-0003"]
+core_versions = { woh-claim-0003 = "0.1.0" }
 symbol = "♋"
 color = "teal"
 start_year = "-8850"

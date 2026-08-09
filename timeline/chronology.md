@@ -5,6 +5,8 @@ template = "timeline-chronology.html"
 weight = 5
 
 [extra]
+core_claim_ids = ["woh-claim-0003"]
+core_versions = { woh-claim-0003 = "0.1.0" }
 claim_type = "inferred"
 editorial_pass = "2026-06"
 +++

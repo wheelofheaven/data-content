@@ -6,6 +6,8 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+core_claim_ids = ["woh-claim-0003"]
+core_versions = { woh-claim-0003 = "0.1.0" }
 same_as = ["https://www.wikidata.org/wiki/Q40540", "https://en.wikipedia.org/wiki/Zodiac", "https://www.britannica.com/topic/zodiac"]
 category = "Cosmic Chronology"
 editorial_pass = "2026-07"

@@ -6,6 +6,8 @@ date = 2026-07-11
 draft = false
 
 [extra]
+core_claim_ids = ["woh-claim-0002"]
+core_versions = { woh-claim-0002 = "0.1.0" }
 claim_type = "framework"
 editorial_pass = "2026-05"
 article_type = "comparison"

@@ -6,6 +6,8 @@ toc = true
 aliases = ["/intro/age-of-leo/", "/wiki/age-of-leo/"]
 
 [extra]
+core_claim_ids = ["woh-claim-0003"]
+core_versions = { woh-claim-0003 = "0.1.0" }
 symbol = "♌"
 color = "yellow"
 claim_type = "inferred"

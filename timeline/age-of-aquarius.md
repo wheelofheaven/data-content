@@ -6,6 +6,8 @@ toc = true
 aliases = ["/intro/age-of-aquarius/", "/wiki/age-of-aquarius/"]
 
 [extra]
+core_claim_ids = ["woh-claim-0003"]
+core_versions = { woh-claim-0003 = "0.1.0" }
 same_as = ["https://www.wikidata.org/wiki/Q1569944", "https://en.wikipedia.org/wiki/Age_of_Aquarius"]
 symbol = "♒"
 color = "cyan"

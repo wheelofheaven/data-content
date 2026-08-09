@@ -6,6 +6,8 @@ toc = true
 aliases = ["/intro/age-of-pisces/", "/wiki/age-of-pisces/"]
 
 [extra]
+core_claim_ids = ["woh-claim-0003"]
+core_versions = { woh-claim-0003 = "0.1.0" }
 symbol = "♓"
 color = "turquoise"
 claim_type = "inferred"
