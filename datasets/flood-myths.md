@@ -52,6 +52,34 @@ scattered editions. Here it is once, in the open, as CSV and JSON — free to
 sort, filter, merge, and cite. The **JSON** is self-describing (columns + rows);
 the **CSV** opens in any spreadsheet.
 
+## How the table was built
+
+Each row is a flood tradition attested in a **primary text** — named in the
+*Source text* column. A tradition is included when its flood account survives
+in a readable source and states enough of the shared elements to populate the
+comparative columns; the concordance is deliberately conservative, favouring
+eight well-attested traditions over a long tail of fragmentary or contested
+parallels. Where the corpus has digitized the source, the *Read in* link points
+into the Wheel of Heaven library; where it has not, the source is named but not
+yet hosted.
+
+The columns are the recurring elements of the ancient Near Eastern and
+Indo-European flood narrative — the **survivor**, the power that **decrees** the
+flood, the figure who **warns** the hero, the stated **cause**, the **vessel**,
+the **birds** released, the **landing place**, and the **aftermath**. A blank
+cell means the element is absent or unstated in that tradition's source, not
+that it was dropped.
+
+*Approximate date* is the scholarly consensus for the **composition of the
+source text**, not for any event it narrates. Traditions are grouped by textual
+family, so the two Babylonian rows (*Atra-ḫasīs* and the *Gilgamesh* Tablet XI)
+appear separately: they are distinct compositions, not two readings of one text.
+
+This is **version 1.0** of the concordance — the first published cut. It is
+CC0, so it can be extended, corrected, or merged without permission; additions
+should preserve the "primary text required" rule so every row stays anchored to
+a citable source.
+
 ## How Wheel of Heaven reads it
 
 The rows are laid out as neutral comparative data — but read down the columns

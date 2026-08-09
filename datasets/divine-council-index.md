@@ -54,6 +54,26 @@ on passages scattered across a dozen corpora in five languages. This index
 gathers the core attestations into one sortable table, as CSV and JSON, free to
 filter, merge, and cite.
 
+## How the table was built
+
+Each row is an attestation of a **divine council** in a primary text — named in
+the *Source text* column with a *Reference* locator. A passage is included when
+it depicts a deliberative assembly of divine beings (not a single deity acting
+alone) and names enough of the institution's features to populate the columns.
+Several rows can share a textual family — the Hebrew Bible contributes several
+distinct passages — because each is a separate attestation, not a re-reading of
+one. Where the corpus has digitized the source, the *Read in* link points into
+the Wheel of Heaven library.
+
+The columns capture the council **as an institution**: the *council term* in
+its own language, the *presiding figure*, the *members*, and the *function* the
+passage assigns the body. A blank cell means the feature is unstated in that
+source.
+
+This is **version 1.0** of the index. It is CC0 and extensible; additions
+should preserve the "deliberative assembly, named in a primary text" rule so
+every row stays a citable attestation rather than an inference.
+
 ## How Wheel of Heaven reads it
 
 Line the councils up and a single institution shows through the local vocabulary:
