@@ -20,6 +20,7 @@ see_also = [
     { title = "Eden", path = "wiki/eden", description = "The setting of the forbidden-knowledge disclosure that begins the conflict." },
     { title = "Babel", path = "wiki/babel", description = "A Council intervention against the post-flood human project during the same conflict." },
     { title = "Dragons", path = "wiki/dragons", description = "The tannin imagery the corpus reads as the pursued exiled creators." },
+    { title = "The World Behind the Odyssey", path = "/articles/the-world-behind-the-odyssey/", description = "The Explainer that excavates the Greek strata of the pattern — Homer, Hesiod, and the Anatolian succession myths — before the framework reading." },
 ]
 
 [extra.infobox]
