@@ -8,8 +8,8 @@ draft = false
 [extra]
 claim_type = "speculative"
 editorial_pass = "2026-05"
-core_claim_ids = ["woh-claim-0004"]
-core_versions = { woh-claim-0004 = "0.1.0" }
+core_claim_ids = ["woh-claim-0004", "woh-claim-0008"]
+core_versions = { woh-claim-0004 = "0.2.0", woh-claim-0008 = "0.1.0" }
 article_type = "explainer"
 category = "Comparative Mythology"
 author = "Zara Zinsfuss"
@@ -591,7 +591,7 @@ Civilization* (нем. 1992) выстроила стандартную теор�
 По рассказу канона, стало быть, греческая мифология — не чужая страна для
 библейского материала, с которым корпус обыкновенно работает. И то и другое —
 вниз по течению одной истории: малая, технологически развитая цивилизация —
-Элохим, чей {% wiki(slug="council-of-eternals") %}Совет Вечных{% end %} под
+Элохим, чей {% wiki(slug="council-of-the-eternals") %}Совет Вечных{% end %} под
 началом {% wiki(slug="yahweh") %}Яхве{% end %} управлял проектом Земли, — её
 внутренний фракционный конфликт и долгое культурное переваривание обоих людьми,
 которые их застали. Корпус систематически развивает это прочтение в статье

@@ -8,8 +8,8 @@ draft = false
 [extra]
 claim_type = "speculative"
 editorial_pass = "2026-05"
-core_claim_ids = ["woh-claim-0004"]
-core_versions = { woh-claim-0004 = "0.1.0" }
+core_claim_ids = ["woh-claim-0004", "woh-claim-0008"]
+core_versions = { woh-claim-0004 = "0.2.0", woh-claim-0008 = "0.1.0" }
 article_type = "explainer"
 category = "Comparative Mythology"
 author = "Zara Zinsfuss"
@@ -497,7 +497,7 @@ memory，即一個社會被建制化了的、深遠的過去），並觀察到�
 
 那麼，依正典的說法，希臘神話對本典籍通常所處理的聖經材料而言，並不是一個陌生的
 異邦。二者都是同一段歷史的下游產物：一個小而技術先進的文明——耶洛因，其在
-{% wiki(slug="yahweh") %}耶和華{% end %}之下的{% wiki(slug="council-of-eternals") %}永恆者議會{% end %}
+{% wiki(slug="yahweh") %}耶和華{% end %}之下的{% wiki(slug="council-of-the-eternals") %}永恆者議會{% end %}
 治理著地球這項工程——以及它內部的派系衝突，還有目睹了這一切的人類對二者所作的
 漫長文化消化。本典籍在{% wiki(slug="theomachy") %}神戰{% end %}詞條中，系統性地
 展開了那一解讀：一場戰爭，發生在較年長、被逐出的一代神聖人物與較年輕、已確立的

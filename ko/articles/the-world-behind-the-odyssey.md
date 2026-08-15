@@ -8,8 +8,8 @@ draft = false
 [extra]
 claim_type = "speculative"
 editorial_pass = "2026-05"
-core_claim_ids = ["woh-claim-0004"]
-core_versions = { woh-claim-0004 = "0.1.0" }
+core_claim_ids = ["woh-claim-0004", "woh-claim-0008"]
+core_versions = { woh-claim-0004 = "0.2.0", woh-claim-0008 = "0.1.0" }
 article_type = "explainer"
 category = "Comparative Mythology"
 author = "Zara Zinsfuss"
@@ -575,7 +575,7 @@ Oral Traditions, 1995)에서 고전학자들이 추론했던 바를 실험적으
 그러므로 정경의 설명에 따르면, 그리스 신화는 이 말뭉치가 통상 다루는 성경
 자료에 낯선 나라가 아니다. 둘 다 같은 역사의 하류(下流)에 있다. 곧 작고
 기술적으로 진보한 하나의 문명 — {% wiki(slug="yahweh") %}야훼{% end %} 아래의
-{% wiki(slug="council-of-eternals") %}영원자 평의회{% end %}가 지구 프로젝트를
+{% wiki(slug="council-of-the-eternals") %}영원자 평의회{% end %}가 지구 프로젝트를
 다스린 엘로힘 — 과, 그 내부의 파벌 갈등과, 그 둘 모두를 목격한 인간들에 의한
 오랜 문화적 소화(消化)이다. 이 말뭉치는 그 독해를
 {% wiki(slug="theomachy") %}테오마키{% end %} 항목에서 체계적으로 전개한다. 곧

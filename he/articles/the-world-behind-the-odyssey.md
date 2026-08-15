@@ -8,8 +8,8 @@ draft = false
 [extra]
 claim_type = "speculative"
 editorial_pass = "2026-05"
-core_claim_ids = ["woh-claim-0004"]
-core_versions = { woh-claim-0004 = "0.1.0" }
+core_claim_ids = ["woh-claim-0004", "woh-claim-0008"]
+core_versions = { woh-claim-0004 = "0.2.0", woh-claim-0008 = "0.1.0" }
 article_type = "explainer"
 category = "Comparative Mythology"
 author = "Zara Zinsfuss"
@@ -527,7 +527,7 @@ Heroes* (2008), יוונים אֶאובואים של המאה השמינית ש�
 
 לפי הקנון, אפוא, המיתולוגיה היוונית אינה ארץ זרה לחומר המקראי שבו עוסק
 הקורפוס בדרך כלל. שניהם במורד אותה היסטוריה: ציוויליזציה קטנה ומתקדמת
-טכנולוגית — האלוהים, ש{% wiki(slug="council-of-eternals") %}מועצת
+טכנולוגית — האלוהים, ש{% wiki(slug="council-of-the-eternals") %}מועצת
 הנצחיים{% end %} שלהם תחת {% wiki(slug="yahweh") %}יהוה{% end %} ניהלה
 את מיזם כדור הארץ — הסכסוך הסיעתי הפנימי שלה, והעיכול התרבותי הארוך של
 שניהם בידי בני האדם שהיו עדים להם. הקורפוס מפתח קריאה זו באורח שיטתי

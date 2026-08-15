@@ -9,6 +9,8 @@ toc = true
 same_as = ["https://www.wikidata.org/wiki/Q9163", "https://en.wikipedia.org/wiki/Polytheism", "https://www.britannica.com/topic/polytheism"]
 category = "Cosmology & Framework"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0009", "woh-claim-0011"]
+core_versions = { woh-claim-0009 = "0.1.0", woh-claim-0011 = "0.1.0" }
 editorial_pass = "2026-07"
 entry_type = "concept"
 alternative_names = ["plurality of the gods", "plurality of the Elohim", "the multiple-creators reading", "biblical polytheism", "Hebrew Bible plurality content", "the divine council reading", "the Elohim plural reading"]

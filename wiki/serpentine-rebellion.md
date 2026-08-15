@@ -8,6 +8,8 @@ category = "Events & Narratives"
 editorial_pass = "2026-05"
 timeline = ["cancer", "gemini"]
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0008"]
+core_versions = { woh-claim-0008 = "0.1.0" }
 redirect_to = { title = "Theomachy", path = "/wiki/theomachy/" }
 +++
 

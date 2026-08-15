@@ -8,8 +8,8 @@ draft = false
 [extra]
 claim_type = "speculative"
 editorial_pass = "2026-05"
-core_claim_ids = ["woh-claim-0004"]
-core_versions = { woh-claim-0004 = "0.1.0" }
+core_claim_ids = ["woh-claim-0004", "woh-claim-0008"]
+core_versions = { woh-claim-0004 = "0.2.0", woh-claim-0008 = "0.1.0" }
 article_type = "explainer"
 category = "Comparative Mythology"
 author = "Zara Zinsfuss"
@@ -639,7 +639,7 @@ Selon le récit du canon, donc, la mythologie grecque n'est pas un pays étrange
 la matière biblique dans laquelle le corpus travaille habituellement. L'une et
 l'autre découlent de la même histoire : une petite civilisation technologiquement
 avancée — les Élohim, dont le
-{% wiki(slug="council-of-eternals") %}Conseil des Éternels{% end %}, sous
+{% wiki(slug="council-of-the-eternals") %}Conseil des Éternels{% end %}, sous
 {% wiki(slug="yahweh") %}Yahvé{% end %}, gouvernait le projet Terre —, son
 conflit interne de factions, et la longue digestion culturelle de l'un et de
 l'autre par les humains qui en furent témoins. Le corpus développe cette lecture

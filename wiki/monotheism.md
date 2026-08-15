@@ -10,6 +10,8 @@ same_as = ["https://www.wikidata.org/wiki/Q9159", "https://en.wikipedia.org/wiki
 category = "Theology & Traditions"
 entry_type = "concept"
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0011"]
+core_versions = { woh-claim-0011 = "0.1.0" }
 editorial_pass = "2026-05"
 summary = "Monotheism is a modern analytical category applied retrospectively to ancient traditions. It can identify genuine claims about one creator or incomparable sovereign, but it often compresses five different questions: what beings exist, who receives worship, whose authority binds a community, what may mediate divine presence, and who receives credit for creation. Wheel of Heaven retains those distinctions and proposes that some ancient confessions of one God were representative and allegiance-based before later theology made them statements about one immaterial Absolute."
 alternative_names = ["belief in one God", "divine unity", "exclusive monotheism", "monolatry", "henotheism"]

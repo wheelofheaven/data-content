@@ -8,8 +8,8 @@ draft = false
 [extra]
 claim_type = "speculative"
 editorial_pass = "2026-05"
-core_claim_ids = ["woh-claim-0004"]
-core_versions = { woh-claim-0004 = "0.1.0" }
+core_claim_ids = ["woh-claim-0004", "woh-claim-0008"]
+core_versions = { woh-claim-0004 = "0.2.0", woh-claim-0008 = "0.1.0" }
 article_type = "explainer"
 category = "Comparative Mythology"
 author = "Zara Zinsfuss"
@@ -648,7 +648,7 @@ Nach der Darstellung des Kanons ist die griechische Mythologie also kein fremdes
 Land für das biblische Material, in dem das Korpus gewöhnlich arbeitet. Beide
 sind Ausfluss derselben Geschichte: einer kleinen, technologisch
 fortgeschrittenen Zivilisation — der Elohim, deren
-{% wiki(slug="council-of-eternals") %}Rat der Ewigen{% end %} unter
+{% wiki(slug="council-of-the-eternals") %}Rat der Ewigen{% end %} unter
 {% wiki(slug="yahweh") %}Yahweh{% end %} das Erdprojekt lenkte —, ihres inneren
 Fraktionskonflikts und der langen kulturellen Verarbeitung beider durch die
 Menschen, die sie erlebten. Das Korpus entwickelt diese Lesart systematisch im

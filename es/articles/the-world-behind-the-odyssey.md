@@ -8,8 +8,8 @@ draft = false
 [extra]
 claim_type = "speculative"
 editorial_pass = "2026-05"
-core_claim_ids = ["woh-claim-0004"]
-core_versions = { woh-claim-0004 = "0.1.0" }
+core_claim_ids = ["woh-claim-0004", "woh-claim-0008"]
+core_versions = { woh-claim-0004 = "0.2.0", woh-claim-0008 = "0.1.0" }
 article_type = "explainer"
 category = "Comparative Mythology"
 author = "Zara Zinsfuss"
@@ -628,7 +628,7 @@ Según el relato del canon, pues, la mitología griega no es un país extranjero
 para el material bíblico con el que el corpus suele trabajar. Ambos descienden
 de la misma historia: una pequeña civilización tecnológicamente avanzada —los
 Elohim, cuyo
-{% wiki(slug="council-of-eternals") %}Consejo de los Eternos{% end %}, bajo
+{% wiki(slug="council-of-the-eternals") %}Consejo de los Eternos{% end %}, bajo
 {% wiki(slug="yahweh") %}Yahvé{% end %}, gobernaba el proyecto de la Tierra—, su
 conflicto faccional interno y la larga digestión cultural de ambos por parte de
 los humanos que los presenciaron. El corpus desarrolla esa lectura de forma

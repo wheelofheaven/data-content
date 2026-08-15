@@ -8,8 +8,8 @@ draft = false
 [extra]
 claim_type = "speculative"
 editorial_pass = "2026-05"
-core_claim_ids = ["woh-claim-0004"]
-core_versions = { woh-claim-0004 = "0.1.0" }
+core_claim_ids = ["woh-claim-0004", "woh-claim-0008"]
+core_versions = { woh-claim-0004 = "0.2.0", woh-claim-0008 = "0.1.0" }
 article_type = "explainer"
 category = "Comparative Mythology"
 author = "Zara Zinsfuss"
@@ -606,7 +606,7 @@ The Kabbalah is the book closest to the truth, but almost all the religious book
 On the canon's account, then, Greek mythology is not a foreign country to
 the biblical material the corpus usually works in. Both are downstream of
 the same history: a small, technologically advanced civilisation — the
-Elohim, whose {% wiki(slug="council-of-eternals") %}Council of the
+Elohim, whose {% wiki(slug="council-of-the-eternals") %}Council of the
 Eternals{% end %} under {% wiki(slug="yahweh") %}Yahweh{% end %} governed
 the Earth project — its internal factional conflict, and the long cultural
 digestion of both by the humans who witnessed them. The corpus develops

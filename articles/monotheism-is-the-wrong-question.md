@@ -7,6 +7,8 @@ draft = false
 
 [extra]
 claim_type = "speculative"
+core_claim_ids = ["woh-claim-0009", "woh-claim-0011"]
+core_versions = { woh-claim-0009 = "0.1.0", woh-claim-0011 = "0.1.0" }
 editorial_pass = "2026-05"
 article_type = "explainer"
 category = "Hermeneutics"

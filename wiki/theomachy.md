@@ -11,6 +11,8 @@ category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0008"]
+core_versions = { woh-claim-0008 = "0.1.0" }
 alternative_names = ["Serpentine Rebellion", "the War in Heaven", "the Battle of the Gods", "the First War", "the Cosmic Conflict", "the War of the Serpent", "the Lucifer-Council Conflict"]
 timeline = ["cancer", "gemini", "taurus"]
 see_also = [

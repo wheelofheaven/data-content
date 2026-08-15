@@ -14,6 +14,8 @@ same_as = ["https://www.wikidata.org/wiki/Q747737", "https://en.wikipedia.org/wi
 category = "Peoples & Groups"
 editorial_pass = "2026-05"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0012"]
+core_versions = { woh-claim-0012 = "0.1.0" }
 entry_type = "people group"
 alternative_names = ["Nefilim", "the fallen ones", "giants (LXX gigantes)", "benei ha-Elohim offspring", "gibborim"]
 timeline = ["cancer", "gemini", "aries"]

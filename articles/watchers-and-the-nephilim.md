@@ -7,6 +7,8 @@ draft = false
 
 [extra]
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0012"]
+core_versions = { woh-claim-0012 = "0.1.0" }
 editorial_pass = "2026-05"
 article_type = "comparison"
 category = "Comparative"
