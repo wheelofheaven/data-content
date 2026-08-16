@@ -79,7 +79,10 @@ Reference tables in folklore databases, historical study of the
 classification itself, joining against motif-indexed corpora, and training
 data grounded in a clean-provenance source. It is the "official layer"
 companion to the [Myth Index](/datasets/myth-index/), which cross-references
-Thompson motif numbers and carries an `aarne_1910_type` join column.
+Thompson motif numbers and carries an `aarne_1910_type` join column — and to
+the [Grimm KHM Tale-Type Crosswalk](/datasets/grimm-khm-index/), which
+inverts this catalogue's own `grimm_no` citations into a per-tale join across
+the whole *Kinder- und Hausmärchen*.
 
 ## Also available on
 
