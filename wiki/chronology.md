@@ -9,5 +9,7 @@ toc = true
 redirect_to = { title = "World Age", path = "/wiki/world-age/" }
 category = "Cosmic Chronology"
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0003"]
+core_versions = { woh-claim-0003 = "0.1.0" }
 editorial_pass = "2026-05"
 +++

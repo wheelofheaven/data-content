@@ -10,6 +10,8 @@ category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0047"]
+core_versions = { woh-claim-0047 = "0.1.0" }
 alternative_names = ["the cosmic competition", "the cosmic competition framework", "the inheritance evaluation", "the parallel-humanities framework", "the multiple-worlds creation framework"]
 timeline = ["aries", "pisces", "aquarius"]
 see_also = [

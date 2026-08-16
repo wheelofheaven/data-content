@@ -11,5 +11,7 @@ redirect_to = { title = "Hebrew Bible", path = "/wiki/hebrew-bible/" }
 category = "Theology & Traditions"
 alternative_names = ["Tanakh"]
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0053"]
+core_versions = { woh-claim-0053 = "0.1.0" }
 editorial_pass = "2026-05"
 +++

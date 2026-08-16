@@ -10,6 +10,8 @@ category = "Cosmology & Framework"
 editorial_pass = "2026-07"
 entry_type = "concept"
 claim_type = "speculative"
+core_claim_ids = ["woh-claim-0044"]
+core_versions = { woh-claim-0044 = "0.1.0" }
 alternative_names = ["the doubled signature", "the doubled-signature principle", "the Hamlet's Mill principle", "the doubled astronomical signature", "doubled invocation across the zodiacal axis"]
 timeline = ["all-ages"]
 see_also = [

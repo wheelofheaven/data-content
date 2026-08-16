@@ -8,6 +8,8 @@ toc = true
 [extra]
 category = "Theology & Traditions"
 claim_type = "speculative"
+core_claim_ids = ["woh-claim-0046"]
+core_versions = { woh-claim-0046 = "0.1.0" }
 editorial_pass = "2026-07"
 entry_type = "concept"
 alternative_names = ["la Tradition (French, Sendy's principal designation)", "the Tradition (capitalized to distinguish from generic 'tradition')", "the chain of Tradition (in the Hebrew *shalshelet ha-Kabbalah* sense)", "the perennial Tradition (in partial alignment with the perennialist designation)", "the Hermetic Tradition (in Western-esoteric usage)", "the Wisdom Tradition (in broader spiritual usage)"]

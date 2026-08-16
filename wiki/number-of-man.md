@@ -10,6 +10,8 @@ category = "Symbolism & Motifs"
 editorial_pass = "2026-07"
 entry_type = "concept"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0050"]
+core_versions = { woh-claim-0050 = "0.1.0" }
 alternative_names = ["666", "Six Hundred Sixty-Six", "the Number of the Beast", "the Number of Man (proper-noun framework concept)", "χξϛ (Greek isopsephic representation)"]
 timeline = ["multi-age"]
 see_also = [

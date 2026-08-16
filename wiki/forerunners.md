@@ -8,6 +8,8 @@ toc = true
 [extra]
 editorial_pass = "2026-07"
 claim_type = "speculative"
+core_claim_ids = ["woh-claim-0052"]
+core_versions = { woh-claim-0052 = "0.1.0" }
 category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["Forerunners", "Forerunner", "prodromos (Greek πρόδρομος, 'one who runs ahead')", "preparator", "way-preparer", "the messenger before"]

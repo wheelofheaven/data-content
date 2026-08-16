@@ -9,6 +9,8 @@ toc = true
 same_as = ["https://www.wikidata.org/wiki/Q463923", "https://en.wikipedia.org/wiki/Archaeoastronomy"]
 category = "Methodology"
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0014"]
+core_versions = { woh-claim-0014 = "0.1.0" }
 editorial_pass = "2026-07"
 entry_type = "concept"
 alternative_names = ["archaeoastronomy", "astroarchaeology (earlier term)", "cultural astronomy (broader contemporary term)", "ethnoastronomy (related discipline)", "astronomy in culture (alternative designation)", "archéoastronomie (French)", "Archäoastronomie (German)"]

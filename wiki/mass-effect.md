@@ -10,6 +10,8 @@ category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "speculative"
+core_claim_ids = ["woh-claim-0051"]
+core_versions = { woh-claim-0051 = "0.1.0" }
 alternative_names = ["the Mass Effect", "the Law of Masstime", "the law of subjective time", "the time-mass relationship", "the scale-time correspondence"]
 timeline = ["all-ages"]
 see_also = [

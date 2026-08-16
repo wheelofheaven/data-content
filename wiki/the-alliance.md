@@ -10,6 +10,8 @@ category = "Cosmology & Framework"
 editorial_pass = "2026-07"
 entry_type = "concept"
 claim_type = "speculative"
+core_claim_ids = ["woh-claim-0045"]
+core_versions = { woh-claim-0045 = "0.1.0" }
 alternative_names = ["the alliance", "the cross-civilizational alliance", "the Eloha-human alliance", "the Noahic alliance", "the covenant partnership"]
 timeline = ["gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [

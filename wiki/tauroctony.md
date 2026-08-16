@@ -11,6 +11,8 @@ category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "symbol"
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0044"]
+core_versions = { woh-claim-0044 = "0.1.0" }
 alternative_names = [
     "the bull-slaying",
     "Mithras Tauroctonos",
