@@ -14,6 +14,8 @@ keywords = ["Council of the Eternals", "Council of Eternals", "divine council", 
 editorial_pass = "2026-07"
 entry_type = "civilization"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0029"]
+core_versions = { woh-claim-0029 = "0.1.0" }
 
 alternative_names = ["the Grand Council of the Eternals", "the Council", "the Council of Eternals", "the Divine Council", "the Divine Assembly", "the Heavenly Court", "the Assembly of the Elohim"]
 timeline = ["pre-creation", "capricorn", "sagittarius", "scorpio", "libra", "virgo", "leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]

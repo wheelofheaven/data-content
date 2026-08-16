@@ -12,6 +12,8 @@ category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "figure"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0028"]
+core_versions = { woh-claim-0028 = "0.1.0" }
 alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "Jehovah", "the Eternal", "the First and the Last", "Alpha and Omega"]
 portrait_id = "yahweh"
 image = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.webp"

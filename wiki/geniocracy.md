@@ -9,6 +9,8 @@ toc = true
 same_as = ["https://www.wikidata.org/wiki/Q1276385", "https://en.wikipedia.org/wiki/Geniocracy"]
 category = "Raëlism"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0032"]
+core_versions = { woh-claim-0032 = "0.1.0" }
 editorial_pass = "2026-07"
 entry_type = "concept"
 alternative_names = ["Geniocracy", "selective democracy", "the first New Commandment", "Raëlian governance doctrine", "Géniocratie (French)", "government by the geniuses"]

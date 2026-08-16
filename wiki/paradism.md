@@ -8,6 +8,8 @@ toc = true
 [extra]
 category = "Raëlism"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0033"]
+core_versions = { woh-claim-0033 = "0.1.0" }
 editorial_pass = "2026-07"
 entry_type = "concept"
 alternative_names = ["Paradism", "paradisme (French)", "Earthly paradise", "Paradise on Earth (Vorilhon section title)", "the post-scarcity society", "fully automated post-money society"]
