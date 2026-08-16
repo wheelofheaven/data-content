@@ -11,6 +11,8 @@ category = "Cosmology & Framework"
 editorial_pass = "2026-07"
 entry_type = "concept"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0023"]
+core_versions = { woh-claim-0023 = "0.1.0" }
 alternative_names = ["the Infinite", "the infinite cosmos", "infinite-cosmological framework", "the broader infinite framework", "cosmic infinity"]
 timeline = ["all-ages"]
 see_also = [

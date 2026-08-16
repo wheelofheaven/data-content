@@ -10,6 +10,8 @@ same_as = ["https://www.wikidata.org/wiki/Q840665", "https://en.wikipedia.org/wi
 category = "Theology & Traditions"
 entry_type = "concept"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0011"]
+core_versions = { woh-claim-0011 = "0.1.0" }
 editorial_pass = "2026-05"
 summary = "Idolatry is the polemical category used by biblical, Christian, and Islamic traditions for worship directed toward images, rival powers, or unauthorised intermediaries. Ancient image cults did not necessarily identify raw wood or stone with a self-created deity; they often treated a consecrated image as an authorised body or locus of presence. Wheel of Heaven accepts the prophetic criticism but changes its ontology: idolatry is the displacement of memory and allegiance from living creators and their authorised representatives onto dead objects, inherited signs, and accumulated mediators."
 alternative_names = ["idol worship", "image worship", "graven images", "association", "shirk"]

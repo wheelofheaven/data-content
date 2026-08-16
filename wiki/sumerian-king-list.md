@@ -11,6 +11,8 @@ category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0019"]
+core_versions = { woh-claim-0019 = "0.1.0" }
 alternative_names = ["SKL (scholarly abbreviation)", "nam-lugal an-ta e₁₁-da-ba (Sumerian incipit: 'After the kingship had descended from heaven')", "the Weld-Blundell Prism (WB 444, the fullest single witness)", "Chronicle of the Single Monarchy (Glassner's designation)"]
 timeline = ["multi-age"]
 

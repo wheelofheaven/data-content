@@ -10,6 +10,8 @@ same_as = ["https://www.wikidata.org/wiki/Q58701", "https://en.wikipedia.org/wik
 category = "Biblical Figures"
 editorial_pass = "2026-07"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0018"]
+core_versions = { woh-claim-0018 = "0.1.0" }
 entry_type = "figure"
 alternative_names = ["Adam", "Eve", "אָדָם וְחַוָּה", "ʾĀḏām and Ḥawwāh", "the First Humans", "the First Pair", "Adam Kadmon and Hawwah (in Kabbalistic tradition)"]
 timeline = ["leo", "cancer"]

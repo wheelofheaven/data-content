@@ -11,6 +11,8 @@ category = "Theology & Traditions"
 editorial_pass = "2026-07"
 entry_type = "concept"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0027"]
+core_versions = { woh-claim-0027 = "0.1.0" }
 alternative_names = ["*religio* (Latin)", "*religare* (Latin verbal root, 'to bind/link')", "the cultivated bond", "the link between the creators and their creation", "*Dharma* (Sanskrit, partial equivalent)", "*Dao* (Chinese, partial equivalent)", "*Din* (Arabic, partial equivalent)"]
 timeline = ["multi-age"]
 see_also = [

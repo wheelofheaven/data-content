@@ -11,6 +11,8 @@ category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0038"]
+core_versions = { woh-claim-0038 = "0.1.0" }
 timeline = ["aries"]
 alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "Moses the Lawgiver", "Mosheh Rabbenu (\"Moses our Teacher\")"]
 see_also = [

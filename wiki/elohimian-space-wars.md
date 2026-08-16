@@ -11,5 +11,7 @@ category = "Elohim"
 alternative_names = ["Æsir–Vanir War", "Theomachy", "Titanomachy", "War in Heaven"]
 timeline = ["gemini"]
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0008"]
+core_versions = { woh-claim-0008 = "0.1.0" }
 editorial_pass = "2026-05"
 +++

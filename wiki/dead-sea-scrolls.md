@@ -10,6 +10,8 @@ same_as = ["https://www.wikidata.org/wiki/Q145780", "https://en.wikipedia.org/wi
 category = "Texts & Sources"
 entry_type = "text"
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0026"]
+core_versions = { woh-claim-0026 = "0.1.0" }
 editorial_pass = "2026-05"
 summary = "The Dead Sea Scrolls are roughly 950 manuscripts recovered from the caves at Qumran between 1947 and 1956, dating from the third century BCE to the first century CE — the oldest surviving witnesses to the Hebrew Bible, a thousand years older than the medieval Masoretic codices, alongside the rule texts and para-biblical literature of a Second Temple Jewish community. Three readings from the caves bear on the Wheel of Heaven framework: 4QDeutj preserves 'sons of Elohim' at Deuteronomy 32:8 where the later Masoretic text reads 'sons of Israel'; 11QMelchizedek applies the word elohim to a heavenly officer; and the Aramaic Enoch literature and Book of Giants attest the antediluvian Watchers tradition early and independently. The corpus reads these as ancient textual support for the plural-Elohim reading — a reasonable reading of real variants, not a proof."
 alternative_names = ["DSS", "the Qumran Scrolls", "the Qumran library"]

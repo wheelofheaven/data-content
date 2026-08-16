@@ -11,6 +11,8 @@ category = "Texts & Sources"
 editorial_pass = "2026-07"
 entry_type = "text"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0021"]
+core_versions = { woh-claim-0021 = "0.1.0" }
 alternative_names = ["Cabala (older European spelling)", "Qabalah (Hermetic / Western-esoteric spelling)", "Kabbala", "*Qabbalah* (Hebrew: קַבָּלָה)", "the Jewish mystical tradition", "*shalshelet ha-Kabbalah* ('chain of Tradition')", "*torat ha-sod* ('the secret teaching')", "*chokhmah penimit* ('inner wisdom')"]
 timeline = ["multi-age"]
 see_also = [

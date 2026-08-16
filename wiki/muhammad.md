@@ -11,6 +11,8 @@ category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0038"]
+core_versions = { woh-claim-0038 = "0.1.0" }
 timeline = ["pisces"]
 alternative_names = ["Muḥammad ibn ʿAbd Allāh", "Muhammad ibn Abdullah", "Abu al-Qasim", "Ahmad", "Rasūl Allāh", "Khātam al-Anbiyāʾ"]
 see_also = [

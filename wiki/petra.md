@@ -15,6 +15,8 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "speculative"
+core_claim_ids = ["woh-claim-0024"]
+core_versions = { woh-claim-0024 = "0.1.0" }
 timeline = ["pisces"]
 see_also = [
     { title = "Nabataeans", path = "wiki/nabataeans", description = "The Arab kingdom whose rock-cut capital Petra was." },

@@ -10,6 +10,8 @@ category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0024"]
+core_versions = { woh-claim-0024 = "0.1.0" }
 timeline = ["pisces"]
 alternative_names = ["ٱلْحَنِيفِيَّة (al-Ḥanīfiyyah)", "حَنِيف (ḥanīf, sing.)", "حُنَفَاء (ḥunafāʾ, plural)", "millat Ibrāhīm ('the religion of Abraham')", "dīn Ibrāhīm", "the primordial monotheism", "the religion of the upright"]
 see_also = [

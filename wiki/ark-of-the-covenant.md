@@ -9,6 +9,8 @@ toc = true
 same_as = ["https://www.wikidata.org/wiki/Q131316", "https://en.wikipedia.org/wiki/Ark_of_the_Covenant", "https://www.britannica.com/topic/Ark-of-the-Covenant"]
 category = "Symbolism & Motifs"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0040"]
+core_versions = { woh-claim-0040 = "0.1.0" }
 editorial_pass = "2026-07"
 entry_type = "object"
 alternative_names = ["Ark of the Covenant", "Ark of the Testimony", "אֲרוֹן הַבְּרִית (Hebrew aron ha-brit)", "אֲרוֹן הָעֵדוּת (aron ha-edut)", "the aron", "التابوت (Arabic al-tābūt)", "Ark of God"]

@@ -10,6 +10,8 @@ category = "Cosmology & Framework"
 editorial_pass = "2026-07"
 entry_type = "concept"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0025"]
+core_versions = { woh-claim-0025 = "0.1.0" }
 alternative_names = ["the Living Cosmos", "Earth as a living being", "the planetary-organism claim", "universal aliveness"]
 timeline = ["all-ages"]
 see_also = [

@@ -11,6 +11,8 @@ category = "Cosmic Chronology"
 editorial_pass = "2026-07"
 entry_type = "concept"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0015", "woh-claim-0033"]
+core_versions = { woh-claim-0015 = "0.1.0", woh-claim-0033 = "0.1.0" }
 alternative_names = ["the awaited Golden Age", "the Golden Age of civilization", "the earthly paradise", "the Golden Age of interplanetary civilization"]
 timeline = ["age-of-aquarius", "post-aquarius"]
 see_also = [

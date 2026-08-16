@@ -11,5 +11,7 @@ redirect_to = { title = "Serpent", path = "/wiki/serpent/" }
 category = "Symbolism & Motifs"
 timeline = ["gemini"]
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0022"]
+core_versions = { woh-claim-0022 = "0.1.0" }
 editorial_pass = "2026-05"
 +++

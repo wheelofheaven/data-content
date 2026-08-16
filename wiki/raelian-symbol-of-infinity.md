@@ -10,6 +10,8 @@ category = "Symbolism & Motifs"
 editorial_pass = "2026-07"
 entry_type = "concept"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0043"]
+core_versions = { woh-claim-0043 = "0.1.0" }
 alternative_names = ["the Symbol of Infinity", "the Raëlian emblem", "the Raëlian movement symbol", "the Elohim emblem"]
 timeline = ["aquarius"]
 see_also = [

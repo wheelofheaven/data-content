@@ -9,6 +9,8 @@ toc = true
 same_as = ["https://www.wikidata.org/wiki/Q136618973", "https://en.wikipedia.org/wiki/Noahic_Covenant"]
 category = "Events & Narratives"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0010"]
+core_versions = { woh-claim-0010 = "0.1.0" }
 editorial_pass = "2026-07"
 entry_type = "event"
 alternative_names = ["the Noahic Covenant", "the post-flood covenant", "the rainbow covenant", "the Noahide covenant (Jewish-tradition designation)", "the originary biblical covenant"]

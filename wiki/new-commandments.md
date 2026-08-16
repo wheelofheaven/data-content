@@ -8,6 +8,8 @@ toc = true
 [extra]
 category = "Raëlism"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0032", "woh-claim-0033"]
+core_versions = { woh-claim-0032 = "0.1.0", woh-claim-0033 = "0.1.0" }
 editorial_pass = "2026-07"
 entry_type = "concept"
 alternative_names = ["the New Commandments", "the Aquarian-age program", "the seven commandments", "the Raëlian socio-political-religious doctrine"]

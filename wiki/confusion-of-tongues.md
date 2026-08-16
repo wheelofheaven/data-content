@@ -12,5 +12,7 @@ category = "Events & Narratives"
 alternative_names = ["Confusio linguarum"]
 timeline = ["gemini"]
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0017"]
+core_versions = { woh-claim-0017 = "0.1.0" }
 editorial_pass = "2026-05"
 +++

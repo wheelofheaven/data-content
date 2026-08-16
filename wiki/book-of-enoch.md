@@ -10,6 +10,8 @@ same_as = ["https://www.wikidata.org/wiki/Q220890", "https://en.wikipedia.org/wi
 category = "Texts & Sources"
 entry_type = "text"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0012"]
+core_versions = { woh-claim-0012 = "0.1.0" }
 editorial_pass = "2026-05"
 timeline = ["multi-age"]
 summary = "The Book of Enoch (1 Enoch) is a composite Second Temple Jewish apocalyptic work attributed to the antediluvian patriarch Enoch, surviving complete only in Ge'ez, with Aramaic fragments among the Dead Sea Scrolls and Greek excerpts. Of its five parts, the Book of the Watchers (chapters 1–36) is the fullest ancient narrative of the sons of the Elohim who descend, take human wives, teach forbidden arts, and father the giant Nephilim before the Flood. Wheel of Heaven reads the Watchers as the exiled Lucifer faction of the Elohim, the Nephilim as their hybrid offspring, and the taught arts as technology transfer — the antediluvian reset that Genesis 6 compresses into four verses. The claim is framework: explicit in the canon, not endorsed by mainstream scholarship, which reads 1 Enoch as literature."

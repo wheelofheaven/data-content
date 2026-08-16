@@ -10,6 +10,8 @@ toc = true
 same_as = ["https://www.wikidata.org/wiki/Q639789", "https://en.wikipedia.org/wiki/Tree_of_the_knowledge_of_good_and_evil", "https://www.britannica.com/topic/tree-of-knowledge"]
 editorial_pass = "2026-07"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0018"]
+core_versions = { woh-claim-0018 = "0.1.0" }
 category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["Tree of the Knowledge of Good and Evil", "Tree of Knowledge", "עֵץ הַדַּעַת טוֹב וָרָע (Hebrew etz ha-daat tov va-ra)", "the forbidden tree", "the tree in the midst of the garden", "the second tree (alongside Tree of Life)"]

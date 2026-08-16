@@ -10,6 +10,8 @@ featured_order = 4
 category = "Meta"
 editorial_pass = "2026-07"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0003"]
+core_versions = { woh-claim-0003 = "0.1.0" }
 entry_type = "concept"
 alternative_names = ["the Wheel of Heaven framework", "the Wheel of Heaven corpus", "the Wheel of Heaven project", "the Wheel of Heaven thesis", "the framework (corpus-internal short form)", "the corpus (when referring to the written body of project content)"]
 see_also = [

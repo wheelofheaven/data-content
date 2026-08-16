@@ -13,6 +13,8 @@ same_as = ["https://www.wikidata.org/wiki/Q4746911", "https://en.wikipedia.org/w
 category = "Cosmology & Framework"
 editorial_pass = "2026-08"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0018"]
+core_versions = { woh-claim-0018 = "0.1.0" }
 entry_type = "concept"
 alternative_names = ["the Tree of Life", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "the Tree of Eternal Life", "the Tree of Immortality", "the longevity technology", "the cellular-transfer technology"]
 timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]

@@ -9,6 +9,8 @@ toc = true
 same_as = ["https://www.wikidata.org/wiki/Q567888", "https://en.wikipedia.org/wiki/New_Jerusalem", "https://www.britannica.com/topic/New-Jerusalem"]
 category = "Places & Locations"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0016"]
+core_versions = { woh-claim-0016 = "0.1.0" }
 editorial_pass = "2026-07"
 entry_type = "concept"
 alternative_names = ["the New Jerusalem", "the Heavenly Jerusalem", "the descending Holy City", "Third Temple", "Embassy", "the residence of the Elohim"]

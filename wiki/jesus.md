@@ -11,6 +11,8 @@ category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0037"]
+core_versions = { woh-claim-0037 = "0.1.0" }
 alternative_names = ["Jesus of Nazareth", "Jesus Christ", "Yeshua", "Yēšuaʿ", "יֵשׁוּעַ", "Ἰησοῦς", "Iēsoûs", "Isa", "عيسى"]
 timeline = ["pisces"]
 see_also = [

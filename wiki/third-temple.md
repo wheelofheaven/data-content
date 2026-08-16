@@ -15,6 +15,8 @@ category = "Places & Locations"
 editorial_pass = "2026-07"
 entry_type = "place"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0016"]
+core_versions = { woh-claim-0016 = "0.1.0" }
 alternative_names = ["Beit ha-Mikdash ha-Shlishi (Hebrew, \"the Third Holy House\")", "The Embassy (in Raëlian terminology)", "The Residence (in some source-material passages)", "Ezekiel's Temple (the Ezekiel 40-48 vision)", "The Messianic Temple"]
 timeline = ["aquarius"]
 see_also = [

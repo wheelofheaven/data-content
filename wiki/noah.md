@@ -9,6 +9,8 @@ toc = true
 same_as = ["https://www.wikidata.org/wiki/Q81422", "https://en.wikipedia.org/wiki/Noah", "https://www.britannica.com/topic/Noah", "https://viaf.org/viaf/11187922"]
 category = "Biblical Figures"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0010"]
+core_versions = { woh-claim-0010 = "0.1.0" }
 editorial_pass = "2026-07"
 entry_type = "figure"
 alternative_names = ["Noah (English)", "נֹחַ (Hebrew Noaḥ)", "Νῶε (Greek Nōe)", "نوح (Arabic Nūḥ)", "the ark-builder", "the post-flood patriarch"]

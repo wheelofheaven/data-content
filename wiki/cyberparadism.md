@@ -10,6 +10,8 @@ category = "Culture & Aesthetics"
 editorial_pass = "2026-07"
 entry_type = "concept"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0033"]
+core_versions = { woh-claim-0033 = "0.1.0" }
 alternative_names = ["Cyber Paradise", "Cybergenesis", "Neogenesis", "the Cyberparadist aesthetic"]
 timeline = ["age-of-aquarius"]
 

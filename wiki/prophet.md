@@ -11,6 +11,8 @@ category = "Cosmic Roles"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0038"]
+core_versions = { woh-claim-0038 = "0.1.0" }
 alternative_names = ["נָבִיא", "navi", "προφήτης", "prophētēs", "نبي", "nabī", "messenger", "seer"]
 see_also = [
     { title = "Yahweh", path = "wiki/yahweh", description = "The Elohim figure the prophetic institution serves as interlocutor for." },

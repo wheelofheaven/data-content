@@ -11,6 +11,8 @@ category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0021"]
+core_versions = { woh-claim-0021 = "0.1.0" }
 alternative_names = ["Hekhalot / Heikhalot literature (הֵיכָלוֹת)", "Merkavah mysticism", "Merkabah mysticism", "the 'palace' literature", "*ma'aseh merkavah* ('the work of the chariot')"]
 timeline = ["multi-age"]
 see_also = [

@@ -15,6 +15,8 @@ category = "Peoples & Groups"
 editorial_pass = "2026-08"
 entry_type = "people group"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0019"]
+core_versions = { woh-claim-0019 = "0.1.0" }
 timeline = ["leo", "cancer", "gemini"]
 alternative_names = ["The Adamic population", "The Edenic humans", "The first human community", "*Bnei adam* (in the Hebrew biblical sense, distinguished from the post-deluge meaning)"]
 

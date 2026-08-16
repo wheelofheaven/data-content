@@ -10,5 +10,7 @@ redirect_to = { title = "Serpentine Rebellion", path = "/wiki/serpentine-rebelli
 category = "Events & Narratives"
 timeline = ["cancer", "gemini", "taurus"]
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0019"]
+core_versions = { woh-claim-0019 = "0.1.0" }
 editorial_pass = "2026-05"
 +++

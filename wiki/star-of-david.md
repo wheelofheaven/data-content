@@ -9,6 +9,8 @@ toc = true
 same_as = ["https://www.wikidata.org/wiki/Q161396", "https://en.wikipedia.org/wiki/Star_of_David", "https://www.britannica.com/topic/Star-of-David"]
 category = "Symbolism & Motifs"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0043"]
+core_versions = { woh-claim-0043 = "0.1.0" }
 editorial_pass = "2026-07"
 entry_type = "concept"
 alternative_names = ["hexagram", "Magen David (מָגֵן דָּוִד, 'Shield of David')", "Solomon's Seal (Seal of Solomon)", "Hindu Shatkona (षट्कोण, 'six-cornered')", "Star of Goliath (older Karaite designation)", "Creator's Star", "Hex Star"]
