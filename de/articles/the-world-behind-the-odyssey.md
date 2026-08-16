@@ -823,6 +823,7 @@ wenn der Kanon recht hat, keine Überlieferung auf Erden je vergessen konnte.
 
 ## Weiterlesen
 
+- [*Die Ostseite Homers*](/articles/the-east-face-of-homer/) — die zweite Hälfte dieses Paares: der Korridor altorientalischer Übertragung hinter den hier freigelegten Schichten, was die Entlehnung beweisen kann und was nicht, und die Lesart des Kanons zu Griechenland innerhalb der elohimischen Sphäre.
 - Der Eintrag {% wiki(slug="theomachy") %}Theomachie{% end %} entfaltet die vollständige Lesart des Korpus zum Muster der Götterschlacht, einschließlich der hier zusammengefassten Abschnitte zur Titanomachie und Gigantomachie.
 - [*Das Buch, das der Wahrheit am nächsten ist*](/articles/the-book-closest-to-the-truth/) untersucht die kanonische Stelle (TBWTT 5:54), auf der die spekulative Schicht dieses Artikels ruht.
 - [*Die Wächter und die Nephilim*](/articles/watchers-and-the-nephilim/) behandelt den Stoff der Vermischung von Mensch und Gott in seinen biblischen und henochischen Formen.

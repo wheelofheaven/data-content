@@ -25,6 +25,7 @@ see_also = [
     { title = "Jane Sellers", path = "wiki/jane-sellers", description = "The precessional reading of the Osiris death-and-rising myth." },
     { title = "Sampo", path = "wiki/sampo", description = "The Finnish Sampo as the Baltic-Finnic instance of the world-mill mytheme." },
     { title = "The World Behind the Odyssey", path = "/articles/the-world-behind-the-odyssey/", description = "The corpus's Greek case study — documented transmission from the Near East to Hesiod and Homer, with the framework reading kept separate." },
+    { title = "The East Face of Homer", path = "/articles/the-east-face-of-homer/", description = "The second half of the Greek case study: the eighth-century transmission corridor in detail, and the discipline of what literary borrowing can and cannot prove." },
 ]
 
 [extra.infobox]

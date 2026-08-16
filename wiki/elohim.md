@@ -22,6 +22,7 @@ image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v
 image_alt = "AI-generated editorial group portrait of the Elohim as long-haired human-like creators in a green-lit council setting."
 image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
 see_also = [
+    { title = "The East Face of Homer", path = "/articles/the-east-face-of-homer/", description = "The Explainer that reads Greece as a province of the Elohimian sphere, on the strength of two canonical anchors." },
     { title = "Are the Anunnaki the Elohim?", path = "articles/anunnaki-and-the-elohim", description = "Whether the Sumerian Anunnaki name the same makers — a case-by-case comparison." },
     { title = "Yahweh", path = "wiki/yahweh", description = "The principal Elohim — president of the Council of Eternals." },
     { title = "Council of Eternals", path = "wiki/council-of-the-eternals", description = "The governing body that decides on the fate of the human creation." },
