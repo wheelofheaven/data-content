@@ -12,6 +12,8 @@ category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0015"]
+core_versions = { woh-claim-0015 = "0.1.0" }
 alternative_names = ["Revelation", "ἀποκάλυψις", "Age of Apocalypse", "Age of Revelation"]
 timeline = ["aquarius"]
 see_also = [

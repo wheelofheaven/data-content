@@ -10,8 +10,8 @@ same_as = ["https://www.wikidata.org/wiki/Q185498", "https://en.wikipedia.org/wi
 category = "Biblical Figures"
 editorial_pass = "2026-07"
 claim_type = "framework"
-core_claim_ids = ["woh-claim-0008"]
-core_versions = { woh-claim-0008 = "0.1.0" }
+core_claim_ids = ["woh-claim-0008", "woh-claim-0013"]
+core_versions = { woh-claim-0008 = "0.1.0", woh-claim-0013 = "0.1.0" }
 entry_type = "figure"
 alternative_names = ["the Light-Bringer", "lūcifer", "Helel ben Shahar", "הֵילֵל בֶּן־שַׁחַר", "the Morning Star", "Phosphoros", "Heosphoros", "the Lucifer faction leader"]
 timeline = ["leo", "cancer"]

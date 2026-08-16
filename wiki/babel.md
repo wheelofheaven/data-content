@@ -10,6 +10,8 @@ category = "Events & Narratives"
 editorial_pass = "2026-07"
 entry_type = "event/period"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0017"]
+core_versions = { woh-claim-0017 = "0.1.0" }
 alternative_names = ["the Tower of Babel", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (Akkadian: 'gate of the god')", "the Babel project", "the Babel event", "the Confounding of Tongues", "the Confusion of Languages"]
 timeline = ["gemini"]
 see_also = [

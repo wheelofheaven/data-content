@@ -10,6 +10,8 @@ category = "Cosmology & Framework"
 editorial_pass = "2026-07"
 entry_type = "concept"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0016"]
+core_versions = { woh-claim-0016 = "0.1.0" }
 alternative_names = ["the embassy", "the Third Temple", "the embassy of the Elohim", "the residence", "the alliance embassy"]
 timeline = ["aquarius"]
 see_also = [

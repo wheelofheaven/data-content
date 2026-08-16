@@ -11,6 +11,8 @@ category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0014"]
+core_versions = { woh-claim-0014 = "0.1.0" }
 alternative_names = [
     "Hamlet's Mill: An Essay on Myth and the Frame of Time",
     "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (original 1969 subtitle)",

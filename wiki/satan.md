@@ -11,6 +11,8 @@ category = "Elohim"
 editorial_pass = "2026-07"
 entry_type = "figure"
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0013"]
+core_versions = { woh-claim-0013 = "0.1.0" }
 alternative_names = ["the Adversary", "the Accuser", "the Opposition", "*ha-satan* (הַשָּׂטָן, 'the satan')", "*satan* (שָׂטָן, common noun)", "the Slanderer", "*diabolos* (διάβολος, Greek)", "the Devil (medieval-Christian theological designation, conflated)", "the Tester", "the Skeptic"]
 timeline = ["all-ages"]
 portrait_id = "satan"

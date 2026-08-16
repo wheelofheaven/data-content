@@ -11,6 +11,8 @@ category = "Events & Narratives"
 editorial_pass = "2026-07"
 entry_type = "event"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0015"]
+core_versions = { woh-claim-0015 = "0.1.0" }
 timeline = ["aquarius"]
 alternative_names = ["The Return", "Second Coming (in some comparative-religion framings)", "The Arrival", "The Reunification"]
 see_also = [
