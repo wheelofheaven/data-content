@@ -6,6 +6,8 @@ template = "library-book.html"
 date = 2026-06-01
 
 [extra]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/enki-and-ninmah-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/enki-and-ninmah-woh"
 translation_status = "complete"
 claim_type = "direct"
 source_family = "ane"

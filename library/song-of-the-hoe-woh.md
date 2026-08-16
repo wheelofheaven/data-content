@@ -6,6 +6,8 @@ template = "library-book.html"
 date = 2026-06-12
 
 [extra]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/song-of-the-hoe-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/song-of-the-hoe-woh"
 same_as = ["https://www.wikidata.org/wiki/Q7561191", "https://en.wikipedia.org/wiki/Song_of_the_hoe"]
 translation_status = "complete"
 claim_type = "direct"
