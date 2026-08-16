@@ -9,6 +9,8 @@ toc = true
 same_as = ["https://www.wikidata.org/wiki/Q193330", "https://en.wikipedia.org/wiki/Crop_circle", "https://www.britannica.com/art/crop-circle"]
 editorial_pass = "2026-07"
 claim_type = "speculative"
+core_claim_ids = ["woh-claim-0057"]
+core_versions = { woh-claim-0057 = "0.1.0" }
 category = "Ufology"
 entry_type = "concept"
 alternative_names = ["crop circles", "crop formations", "agriglyphs", "pictograms (1990s designation)", "cercles de cultures (French)", "Kornkreise (German)"]

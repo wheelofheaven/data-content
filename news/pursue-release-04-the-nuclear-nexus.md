@@ -8,6 +8,8 @@ template = "news-page.html"
 event_date = 2026-07-10
 event_type = "announcement"
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0057"]
+core_versions = { woh-claim-0057 = "0.1.0" }
 editorial_pass = "2026-05"
 summary = "Four weeks after Release 03, the U.S. Department of War posted Release 04 at war.gov/UFO: 40 files — 14 documents, 19 videos, 4 audio recordings, and 3 images — from the War Department, NASA, the CIA, the FBI, and, for the first time, the Department of Energy. The two headline files share a subject: nuclear-weapons sites. A newly declassified transcript records a 1949 Los Alamos conference at which Manhattan Project physicists — Edward Teller, Norris Bradbury, and meteor expert Lincoln LaPaz among them — tried and failed to explain the 'green fireballs' seen over the lab; an Energy Department file documents a September 2015 airspace intrusion over the Pantex nuclear-weapons plant near Amarillo, Texas. The corpus reads Release 04 as the fourth datable point on the disclosure curve the Age of Aquarius §IX predicts for the 2026–2030 window — and notes that its nuclear framing sits directly atop the age's own inaugural sign: the atomic threshold of 1945."
 filed_under = "Signs of Acceleration"

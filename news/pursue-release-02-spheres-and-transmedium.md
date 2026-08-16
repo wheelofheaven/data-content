@@ -8,6 +8,8 @@ template = "news-page.html"
 event_date = 2026-05-22
 event_type = "announcement"
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0057"]
+core_versions = { woh-claim-0057 = "0.1.0" }
 editorial_pass = "2026-05"
 summary = "Two weeks after PURSUE Release 01, the U.S. Department of War posted Release 02 at war.gov/UFO: more than fifty previously classified items, including the first non-thermal, full-color UAP video, an MQ-9 Reaper weapons-lock incident on the Jordan–Syria border, a March 2022 submarine encounter with transmedium spherical objects, and 116 archival pages from Sandia, New Mexico, 1948–1950. The corpus reads Release 02 as the second datable point on the disclosure curve the Age of Aquarius §IX predicts for the 2026–2030 window."
 filed_under = "Signs of Acceleration"

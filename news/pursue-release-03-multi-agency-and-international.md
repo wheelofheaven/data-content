@@ -8,6 +8,8 @@ template = "news-page.html"
 event_date = 2026-06-12
 event_type = "announcement"
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0057"]
+core_versions = { woh-claim-0057 = "0.1.0" }
 editorial_pass = "2026-05"
 summary = "Three weeks after Release 02, the U.S. Department of War posted Release 03 at war.gov/UFO: 53 documents, 10 digital renderings, 6 videos, and 3 NASA audio recordings drawn from the CIA, FBI, NASA, and Pentagon — the first PURSUE tranche to incorporate civilian-agency holdings alongside DoD material. Headline cases include a potato-shaped, opalescent, fish-scaled object observed over the Cheyenne Mountains in February 2022 by an Army intelligence officer and four unit members; a 2008 disc with rotating underside lights and emitted beams over Harare International Airport; a 2026 paired-orb encounter in the Northeast U.S.; and a 1949 J. Edgar Hoover file on sky-beam convergence over the Cascade Mountains. The corpus reads Release 03 as the third datable point on the disclosure curve the Age of Aquarius §IX predicts for the 2026–2030 window."
 filed_under = "Signs of Acceleration"

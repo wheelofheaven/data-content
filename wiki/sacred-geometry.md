@@ -9,6 +9,8 @@ toc = true
 same_as = ["https://www.wikidata.org/wiki/Q583915", "https://en.wikipedia.org/wiki/Sacred_geometry"]
 category = "Symbolism & Motifs"
 claim_type = "speculative"
+core_claim_ids = ["woh-claim-0058"]
+core_versions = { woh-claim-0058 = "0.1.0" }
 editorial_pass = "2026-07"
 entry_type = "concept"
 alternative_names = ["Sacred Geometry", "geometric symbolism", "sacred mathematics", "sacred proportion", "divine geometry", "Heilige Geometrie (German)", "géométrie sacrée (French)"]

@@ -8,6 +8,8 @@ template = "news-page.html"
 event_date = 2026-05-08
 event_type = "announcement"
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0057"]
+core_versions = { woh-claim-0057 = "0.1.0" }
 editorial_pass = "2026-05"
 summary = "The U.S. Department of War opened a public portal at war.gov/UFO with the first tranche of declassified UAP records — sensor returns, operator reports, and a 1972 Apollo 17 frame. The Wheel of Heaven framework reads this as the first datable point on the disclosure curve the Age of Aquarius §IX (Signs of Acceleration) predicts for the 2026–2030 window."
 filed_under = "Signs of Acceleration"

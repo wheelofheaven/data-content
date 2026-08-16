@@ -8,6 +8,8 @@ toc = true
 [extra]
 editorial_pass = "2026-07"
 claim_type = "speculative"
+core_claim_ids = ["woh-claim-0058"]
+core_versions = { woh-claim-0058 = "0.1.0" }
 category = "Peoples & Groups"
 entry_type = "concept"
 alternative_names = ["Ancient Builders", "Builder Race", "Megalithic Builders", "the Builders", "lost civilization (broader popular usage)", "Atlantean builders (in Atlantis-tradition usage)"]

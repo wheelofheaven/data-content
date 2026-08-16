@@ -11,6 +11,8 @@ category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0058"]
+core_versions = { woh-claim-0058 = "0.1.0" }
 alternative_names = [
     "Orion Correlation Theory",
     "OCT",
