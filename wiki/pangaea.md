@@ -1,7 +1,7 @@
 +++
 title = "Pangaea"
 slug = "pangaea"
-description = "Pangaea is the name conventionally given to the supercontinent that mainstream geology identifies as having existed from approximately 335 to 195 million years ago, from the late Carboniferous through the early Jurassic, before breaking up into the continental configuration of the present-day Earth. In the Wheel of Heaven framework, the name *Pangaea* is also adopted for the antediluvian supercontinent the Raëlian source material describes — a single landmass deliberately raised from the planet's primordial seabed during the *yom* 3 continental-engineering phase of the Earth project (corresponding to the Age of Scorpio, c. 17,490 – 15,330 BCE on the corpus's precessional reckoning), serving as the geographic substrate of the entire antediluvian period (including the Eden phase and the subsequent dispersed-civilisation phase), and broken apart at the time of the deluge by the operational intervention described in Genesis 6–9. The framework reads the two Pangaeas as referring to the same geographic structure, with the divergence between the mainstream geological timescale and the framework's human-history timescale registered explicitly as the entry's principal interpretive question."
+description = "Pangaea is the name conventionally given to the supercontinent that mainstream geology identifies as having existed from approximately 335 to 195 million years ago, from the late Carboniferous through the early Jurassic, before breaking up into the continental configuration of the present-day Earth. In the Wheel of Heaven framework, the name *Pangaea* is also adopted for the antediluvian supercontinent the Raëlian source material describes — a single landmass deliberately raised from the planet's primordial seabed late in the Age of Sagittarius (c. 19,650 – 17,490 BCE on the corpus's precessional reckoning) — the continental-engineering work the Genesis text compresses into *yom* 3 — serving as the geographic substrate of the entire antediluvian period (including the Eden phase and the subsequent dispersed-civilisation phase), and broken apart at the deluge at the opening of the Age of Gemini (c. 6,690 BCE) by the operational intervention described in Genesis 6–9. The framework reads the two Pangaeas as referring to the same geographic structure, with the divergence between the mainstream geological timescale and the framework's human-history timescale registered explicitly as the entry's principal interpretive question."
 template = "wiki-page.html"
 toc = true
 
@@ -14,7 +14,9 @@ image_caption = "Pangaea — the single antediluvian landmass, substrate of the 
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
-claim_type = "direct"
+claim_type = "framework"
+core_claim_ids = ["woh-claim-0010", "woh-claim-0019"]
+core_versions = { woh-claim-0010 = "0.1.0", woh-claim-0019 = "0.1.0" }
 alternative_names = ["Pangea", "Antediluvian supercontinent", "The pre-deluge landmass", "The one continent"]
 see_also = [
     { title = "Eden", path = "wiki/eden", description = "The creation site located on this single antediluvian landmass." },
@@ -28,7 +30,7 @@ see_also = [
 [extra.infobox]
 type = "Supercontinent — both a mainstream-geological reconstruction and a framework-adopted antediluvian referent"
 mainstream_dating = "c. 335 million years ago (Carboniferous assembly) through c. 195 million years ago (Triassic-Jurassic breakup)"
-framework_dating = "Constructed during *yom* 3 / Age of Scorpio (c. 17,490 – 15,330 BCE on the corpus's reckoning); broken apart at the deluge event (c. 13,000 BCE on the corpus's reckoning)"
+framework_dating = "Raised late in the Age of Sagittarius (c. 19,650 – 17,490 BCE on the corpus's reckoning), the continental work the Genesis text compresses into *yom* 3, with stabilisation continuing into early Scorpio; broken apart at the deluge at the opening of the Age of Gemini (c. 6,690 BCE on the corpus's reckoning)"
 extent = "Approximately equal to the combined landmass of all present-day continents, organised as a single contiguous body"
 shape_mainstream = "C-shaped with the Tethys Sea contained within the curve, surrounded by the superocean Panthalassa"
 geographic_role_framework = "The geographic substrate of the entire antediluvian period: the location of Eden, the location of the post-Eden dispersed civilisations, the area destroyed by the deluge event"
@@ -39,7 +41,7 @@ divergence_from_mainstream = "Approximately three orders of magnitude on timesca
 
 **Pangaea** is the name conventionally given to the single supercontinent identified by mainstream geology as having existed from approximately 335 million years ago through approximately 195 million years ago, before breaking up via plate-tectonic processes into the continental configuration of the present-day Earth. The name derives from the Greek *Παγγαία*, "all earth," and was introduced into geological scholarship by the German meteorologist and geophysicist **Alfred Wegener** in his 1912 paper *Die Entstehung der Kontinente* and subsequently developed in *Die Entstehung der Kontinente und Ozeane* (*The Origin of Continents and Oceans*, 1915, with major revisions through 1929) — the foundational works of the continental-drift theory that subsequently developed into the contemporary theory of plate tectonics.
 
-In the Wheel of Heaven framework, the name *Pangaea* is also adopted for the antediluvian supercontinent the Raëlian source material describes. The source material's account, developed principally in *Le Livre qui dit la vérité* (Vorilhon, 1974), describes Earth's surface at the start of the project as essentially a shallow water-covered planet on which the Elohim raised a single contiguous landmass through deliberate continental engineering, producing the substrate for the entire subsequent biological synthesis and for the antediluvian civilisation that occupied the substrate until the deluge event. The framework reads this antediluvian supercontinent as the same geographic structure that mainstream geology identifies as Pangaea — the same single landmass, the same general configuration, the same eventual breakup. What the framework reads differently from mainstream geology is the **timescale** of the supercontinent's existence and breakup: on the framework's reading, Pangaea was constructed during the *yom* 3 / Age of Scorpio (c. 17,490 – 15,330 BCE on the corpus's precessional reckoning), persisted across the entire antediluvian period (the Ages of Libra and Virgo, and into the early Age of Leo), and was broken apart at the deluge event (c. 13,000 BCE on the corpus's reckoning) — a total duration of approximately five to ten thousand years rather than the approximately 140 million years of the mainstream account.
+In the Wheel of Heaven framework, the name *Pangaea* is also adopted for the antediluvian supercontinent the Raëlian source material describes. The source material's account, developed principally in *Le Livre qui dit la vérité* (Vorilhon, 1974), describes Earth's surface at the start of the project as essentially a shallow water-covered planet on which the Elohim raised a single contiguous landmass through deliberate continental engineering, producing the substrate for the entire subsequent biological synthesis and for the antediluvian civilisation that occupied the substrate until the deluge event. The framework reads this antediluvian supercontinent as the same geographic structure that mainstream geology identifies as Pangaea — the same single landmass, the same general configuration, the same eventual breakup. What the framework reads differently from mainstream geology is the **timescale** of the supercontinent's existence and breakup: on the framework's reading, Pangaea was raised late in the Age of Sagittarius (c. 19,650 – 17,490 BCE on the corpus's precessional reckoning) — the continental work the Genesis text compresses into *yom* 3, with stabilisation continuing into early Scorpio — persisted across the entire antediluvian period (the Ages of Scorpio, Libra, Virgo, Leo, and Cancer), and was broken apart at the deluge at the opening of the Age of Gemini (c. 6,690 BCE on the corpus's reckoning) — a total duration of approximately eleven thousand years rather than the approximately 140 million years of the mainstream account.
 
 The divergence between the mainstream geological timescale and the framework's human-history timescale is the entry's principal interpretive question. The two accounts differ by approximately three orders of magnitude on dating. The framework's adopted position is that the source material's specific testimony about continental engineering on human-history timescales is correct, with the mainstream geological dating reflecting a misinterpretation of the available geological evidence rather than an accurate measurement of historical timescale. This is the framework's most substantial single divergence from mainstream science across the entire corpus, and the entry's dedicated divergence section treats it transparently rather than glossing the difference.
 
@@ -88,9 +90,9 @@ Mainstream geology places Pangaea within a broader pattern of supercontinent cyc
 
 The framework's adopted reading of Pangaea engages the same geographic structure as the mainstream account but on a fundamentally different timescale. The reading is developed in several connected sections below, treating the construction of Pangaea, the geography and life of the antediluvian world, the location of Eden, the deluge event and the supercontinent's breakup, and the relationship to the present-day continental configuration.
 
-### The construction of Pangaea (*yom* 3 / Age of Scorpio)
+### The construction of Pangaea (late Age of Sagittarius)
 
-The framework's reading of the construction of Pangaea is developed principally in the [Genesis](../genesis/) entry and the [Age of Scorpio](../timeline/age-of-scorpio/) entry, with the [terraforming](../terraforming/) entry providing the broader theoretical context.
+The framework's reading of the construction of Pangaea is developed principally in the [Genesis](../genesis/) entry and the [Age of Sagittarius](../timeline/age-of-sagittarius/) entry (with the stabilisation phase continuing into the [Age of Scorpio](../timeline/age-of-scorpio/)), and the [terraforming](../terraforming/) entry providing the broader theoretical context.
 
 The source material's account of the construction is given in *Le Livre qui dit la vérité* (Vorilhon, 1974), where the visitor (identified in the source material as Yahweh) describes the work as follows:
 
@@ -100,13 +102,13 @@ The source material's account of the construction is given in *Le Livre qui dit 
 
 The framework reads the source material's account as describing a deliberate operational construction. The "explosions which acted rather like bulldozers" are read as the operational mechanism through which the Elohim raised seabed material to form the supercontinent — a mechanism the framework treats as preserving operational content about the actual continental-engineering technology, with the specifics (whether nuclear-scale explosives, controlled seismic events, or other large-energy techniques) left underdetermined by the source material's brief account.
 
-The framework places the construction within the broader Earth-project chronology. The Genesis 1 account's *yom* 3 is read on the framework as the **Age of Scorpio** (c. 17,490 – 15,330 BCE on the corpus's precessional reckoning), the third in the seven-age sequence of the Earth project's preparation and synthesis phases. The Age of Scorpio falls within the broader *terraforming* phase of the project (the first four *yamim*, c. 21,810 – 13,170 BCE), preceded by the *yom* 1 reconnaissance work (Age of Capricorn), the *yom* 2 atmospheric engineering (Age of Sagittarius), and followed by the *yom* 4 astronomical calibration (Age of Libra) before the biological synthesis phases begin.
+The framework places the construction within the broader Earth-project chronology. The continent-raising is carried in the corpus's age narrative as the closing work of the **Age of Sagittarius** (c. 19,650 – 17,490 BCE on the corpus's precessional reckoning) — the age that also holds the *yom* 2 atmospheric engineering — even though the Genesis text compresses the dry-land work into *yom* 3; the timeline chapters treat this seam explicitly, with continental stabilisation continuing into early Scorpio. The **Age of Scorpio** (*yom* 3, c. 17,490 – 15,330 BCE) then opens the biological program with the plant synthesis on the new landmass. The full preparation sequence of the first four *yamim* (c. 21,810 – 13,170 BCE) runs: *yom* 1 reconnaissance (Age of Capricorn), *yom* 2 atmospheric and continental engineering (Age of Sagittarius), *yom* 3 plant synthesis (Age of Scorpio), and *yom* 4 astronomical calibration (Age of Libra), before the animal and human syntheses of *yamim* 5 and 6 begin.
 
 The construction of Pangaea is therefore not the framework's reading of a primordial event in deep prehistory; it is the framework's reading of a specific operational phase of the deliberate Earth-project programme, occurring on the same timescale as the broader project — human-history timescales of approximately two thousand years per *yom* / precessional age. This is the framework's principal divergence from mainstream geology, treated more fully in the dedicated divergence section below.
 
 ### The geography and life of the antediluvian world
 
-On the framework's reading, the antediluvian world from approximately 17,490 BCE through approximately 13,000 BCE was a single-continent configuration substantially different from the present-day Earth. The relevant features:
+On the framework's reading, the antediluvian world from approximately 17,490 BCE through the deluge at the opening of the Age of Gemini (c. 6,690 BCE) was a single-continent configuration substantially different from the present-day Earth. The relevant features:
 
 - **A single contiguous landmass** of approximately the combined area of the present-day continents, configured as a single body with internal geographic features (mountains, river systems, climatic zones)
 - **Surrounded by a single global ocean** (corresponding to the mainstream-geology Panthalassa)
@@ -134,7 +136,7 @@ The framework's reading of the deluge event (Genesis 6–9) connects directly to
 
 The framework reads "the explosion" as a deliberate operational event — either a single catastrophic intervention or a sequence of coordinated interventions — that produced two distinct consequences: a global tidal wave that submerged the supercontinent's surface (the source material's reading of the deluge in Genesis 6–9) and the structural breakup of the supercontinent into the configuration that subsequently drifted to form the present-day continents. The framework reads the post-deluge continental configuration as the surface signature of the deluge event preserved in the contemporary geological record, with the apparent slow drift of the continents on the mainstream account corresponding, on the framework's reading, to a more rapid post-event repositioning following the initial breakup.
 
-The deluge event is dated by the framework to approximately **c. 13,000 BCE** on the corpus's reckoning, near the boundary between the Age of Leo and the broader Younger Dryas climatic transition. The framework's reading connects the deluge to several other phenomena registered in the corpus's other entries: the Younger Dryas impact hypothesis (Firestone et al. 2007, registered in the [Pillar 43 of Göbekli Tepe](../list-of-megalithic-sites/) entry via Sweatman's archaeoastronomical work), the major Pleistocene extinctions, the broader catastrophe-and-renewal narrative of cross-cultural mythology (treated in the [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/) under the deluge motif), and the post-deluge reorganisation of human civilisation that the framework reads in the Göbekli Tepe / Karahan Tepe complex and the subsequent Pre-Pottery Neolithic transition.
+The deluge event is dated by the framework to **c. 6,690 BCE**, the opening of the [Age of Gemini](../timeline/age-of-gemini/) — the dating carried by the [Great Flood](../great-flood/) entry and the timeline chapters, which control the corpus's age assignments. The corpus registers, without enlisting, the contemporary catastrophist literature as establishing that mainstream paleoscience recognises substantial catastrophic events in the broad period: the Younger Dryas impact hypothesis (Firestone et al. 2007, registered in the [Pillar 43 of Göbekli Tepe](../list-of-megalithic-sites/) entry via Sweatman's archaeoastronomical work), the Ryan–Pitman Black Sea flood proposal (c. 5,600 BCE), and the major late-Pleistocene extinctions — none of which reaches the framework's continental-fragmentation reading. The broader catastrophe-and-renewal narrative of cross-cultural mythology is treated in the [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/) under the deluge motif.
 
 ### Genetic preservation and the post-deluge reseeding
 
@@ -144,7 +146,7 @@ The post-deluge reseeding is the framework's reading of how the present-day cont
 
 ## The divergence from mainstream science
 
-The framework's reading of Pangaea diverges from the mainstream geological account on the question of **timescale**, and the divergence is the entry's most significant single interpretive question. The mainstream account places Pangaea's existence from approximately 335 to 195 million years ago, with the breakup occurring over a period of approximately 130 million years through plate-tectonic processes. The framework's reading places Pangaea's existence from approximately 17,490 to 13,000 BCE — a duration of approximately 4,500 years — with the breakup occurring as a catastrophic event at the deluge rather than as a slow plate-tectonic process. The two accounts differ on timescale by approximately three orders of magnitude.
+The framework's reading of Pangaea diverges from the mainstream geological account on the question of **timescale**, and the divergence is the entry's most significant single interpretive question. The mainstream account places Pangaea's existence from approximately 335 to 195 million years ago, with the breakup occurring over a period of approximately 130 million years through plate-tectonic processes. The framework's reading places Pangaea's existence from approximately 17,490 BCE to the Gemini-age deluge of c. 6,690 BCE — a duration of approximately eleven thousand years — with the breakup occurring as a catastrophic event at the deluge rather than as a slow plate-tectonic process. The two accounts differ on timescale by roughly four orders of magnitude.
 
 The divergence has several specific points where the framework's position is at odds with established mainstream evidence:
 
@@ -164,7 +166,7 @@ The corpus does not treat the divergence as a casual matter. The framework's rea
 
 Pangaea's role as the antediluvian supercontinent connects to several specific aspects of the broader corpus's interpretive work.
 
-**The Earth-project timeline.** Pangaea's construction during *yom* 3 / Age of Scorpio places it within the broader seven-age sequence of the Earth project. The construction is the third of the four terraforming-phase operations (reconnaissance, atmospheric engineering, continental engineering, astronomical calibration) before the biological synthesis phases of *yamim* 5 and 6 begin. The full Earth-project timeline is developed in the [Genesis](../genesis/) entry and the dedicated entries on each precessional age.
+**The Earth-project timeline.** Pangaea's construction late in the Age of Sagittarius places it within the broader seven-age sequence of the Earth project: reconnaissance (Capricorn), atmospheric and continental engineering (Sagittarius), plant synthesis (Scorpio), and astronomical calibration (Libra), before the animal and human syntheses of *yamim* 5 and 6 begin. The full Earth-project timeline is developed in the [Genesis](../genesis/) entry and the dedicated entries on each precessional age.
 
 **Eden and the antediluvian period.** Eden's location on Pangaea is what makes the Hebrew Bible's specific Eden-geography (the four rivers from one source) operationally coherent. The broader antediluvian period — the entire pre-deluge phase of human history on the framework's reading — occurred on Pangaea. The [Eden](../eden/) entry develops the operational reading of Eden in detail; the present entry registers the geographic substrate the Eden phase occupied.
 
@@ -185,17 +187,19 @@ Pangaea's role as the antediluvian supercontinent connects to several specific a
 - [Deluge](../deluge/)
 - [Antediluvian](../antediluvian/)
 - [Nephilim](../nephilim/)
+- [Age of Sagittarius](../timeline/age-of-sagittarius/)
 - [Age of Scorpio](../timeline/age-of-scorpio/)
 - [Age of Libra](../timeline/age-of-libra/)
 - [Age of Virgo](../timeline/age-of-virgo/)
 - [Age of Leo](../timeline/age-of-leo/)
+- [Age of Gemini](../timeline/age-of-gemini/)
 - [Elohim](../elohim/)
 - [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/)
 - [List of megalithic sites](../list-of-megalithic-sites/)
 
 ## Read more
 
-- [Timeline › Age of Scorpio](../timeline/age-of-scorpio/)
+- [Timeline › Age of Sagittarius](../timeline/age-of-sagittarius/)
 
 ## External links
 
