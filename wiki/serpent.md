@@ -13,6 +13,8 @@ same_as = ["https://www.wikidata.org/wiki/Q721221", "https://en.wikipedia.org/wi
 category = "Symbolism & Motifs"
 editorial_pass = "2026-08"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0022"]
+core_versions = { woh-claim-0022 = "0.1.0" }
 entry_type = "figure"
 alternative_names = ["the Serpent of Eden", "naḥash", "נָחָשׁ", "the Lucifer faction", "the Serpentine party", "ho ophis"]
 see_also = [

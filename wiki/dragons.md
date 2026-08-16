@@ -11,6 +11,8 @@ category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0022"]
+core_versions = { woh-claim-0022 = "0.1.0" }
 alternative_names = ["dinosaurs", "*taninim* (Hebrew plural)", "*tannin* (Hebrew singular)", "great sea creatures (English softened translation)", "*ketos* (Septuagint Greek)", "*cete grandia* (Vulgate Latin)", "sea monsters", "dragons of the deep"]
 timeline = ["virgo", "leo", "cancer", "gemini"]
 see_also = [

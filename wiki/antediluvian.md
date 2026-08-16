@@ -10,6 +10,8 @@ same_as = ["https://www.wikidata.org/wiki/Q4771131", "https://en.wikipedia.org/w
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0019"]
+core_versions = { woh-claim-0019 = "0.1.0" }
 entry_type = "event_period"
 alternative_names = ["pre-diluvian", "pre-flood", "pre-Flood"]
 timeline = ["leo", "cancer"]

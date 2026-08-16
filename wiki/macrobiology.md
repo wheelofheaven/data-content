@@ -9,6 +9,8 @@ aliases = ["/articles/macrobiology/"]
 [extra]
 editorial_pass = "2026-08"
 claim_type = "speculative"
+core_claim_ids = ["woh-claim-0025"]
+core_versions = { woh-claim-0025 = "0.1.0" }
 category = "Science & Technology"
 entry_type = "concept"
 alternative_names = ["macrobiology", "civilizational biology", "the biology of the whole", "macro-scale biology", "macrobiologie (French)", "Makrobiologie (German)"]

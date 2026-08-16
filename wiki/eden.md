@@ -12,6 +12,8 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0018"]
+core_versions = { woh-claim-0018 = "0.1.0" }
 alternative_names = ["Garden of Eden", "gan-ʿĒden", "גַּן־עֵדֶן", "Paradise"]
 timeline = ["leo", "cancer"]
 image = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.webp"
