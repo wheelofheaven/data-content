@@ -6,6 +6,8 @@ template = "library-book.html"
 date = 2026-08-04
 
 [extra]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/theogony-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/theogony-woh"
 same_as = ["https://www.wikidata.org/wiki/Q156498", "https://en.wikipedia.org/wiki/Theogony", "https://www.britannica.com/topic/Theogony-by-Hesiod", "https://viaf.org/viaf/269732238"]
 translation_status = "complete"
 claim_type = "direct"
