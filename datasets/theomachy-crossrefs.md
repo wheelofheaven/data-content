@@ -65,6 +65,9 @@ Earth — retold by each tradition as its own dragon-slaying. The "serpent" who
 withholds order, in this reading, is the losing side of that war, and the
 [flood](/datasets/flood-myths/) is one of its campaigns.
 
+
+This concordance is one family of the broader [Myth Index](/datasets/myth-index/), which lines up nine motif families — flood, divine council, theomachy, creation of humans, and more — in a single spine table with Thompson Motif-Index cross-references.
+
 ## Also available on
 
 This dataset is also published, CC0, on two open-data platforms — the same files, mirrored for reach and preservation:
