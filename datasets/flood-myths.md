@@ -4,6 +4,8 @@ description = "A machine-readable, comparative CC0 dataset of eleven ancient flo
 template = "dataset-page.html"
 
 [extra]
+core_claim_ids = ["woh-claim-0010", "woh-claim-0060"]
+core_versions = { woh-claim-0010 = "0.1.0", woh-claim-0060 = "0.1.0" }
 dataset_name = "Wheel of Heaven Flood-Myth Concordance"
 license = "CC0-1.0"
 license_url = "https://creativecommons.org/publicdomain/zero/1.0/"

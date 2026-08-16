@@ -10,6 +10,8 @@ same_as = ["https://www.wikidata.org/wiki/Q122965", "https://en.wikipedia.org/wi
 category = "Methodology"
 entry_type = "biographical"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0068"]
+core_versions = { woh-claim-0068 = "0.1.0" }
 editorial_pass = "2026-05"
 alternative_names = ["Erich von Däniken (1935–)", "the Chariots of the Gods author"]
 timeline = ["age-of-aquarius"]

@@ -11,6 +11,8 @@ category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "symbol"
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0069"]
+core_versions = { woh-claim-0069 = "0.1.0" }
 timeline = ["taurus", "aries", "pisces"]
 alternative_names = ["Temple menorah", "Seven-branched lampstand", "Mosaic candelabrum", "Sevenfold lamp"]
 see_also = [

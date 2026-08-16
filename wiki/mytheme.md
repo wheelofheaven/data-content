@@ -14,6 +14,8 @@ editorial_pass = "2026-08"
 category = "Symbolism & Motifs"
 entry_type = "concept"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0056"]
+core_versions = { woh-claim-0056 = "0.1.0" }
 alternative_names = ["mytheme", "mythological motif (broader usage)", "narrative element (broader usage)", "mythème (French original)", "Mythem (German)", "mitema (Italian, Spanish)"]
 timeline = ["age-of-aquarius"]
 see_also = [

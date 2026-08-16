@@ -10,6 +10,8 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0038", "woh-claim-0054"]
+core_versions = { woh-claim-0038 = "0.1.0", woh-claim-0054 = "0.1.0" }
 alternative_names = ["Catalogue of religions", "Prophet and tradition index", "Religious-tradition reference"]
 see_also = [
     { title = "Religion", path = "wiki/religion", description = "The parent entry developing the framework reading of religious history this catalogue tabulates." },

@@ -5,6 +5,8 @@ template = "library-section.html"
 
 [extra]
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0061"]
+core_versions = { woh-claim-0061 = "0.1.0" }
 editorial_pass = "2026-05"
 +++
 

@@ -10,6 +10,8 @@ same_as = ["https://www.wikidata.org/wiki/Q169613", "https://en.wikipedia.org/wi
 category = "Methodology"
 entry_type = "biographical"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0068"]
+core_versions = { woh-claim-0068 = "0.1.0" }
 editorial_pass = "2026-05"
 summary = "**Zecharia Sitchin** (1920–2010) was an Azerbaijani-born American author whose *Earth Chronicles* — beginning with the best-seller *The 12th Planet* (1976) — advanced the most detailed and widely read version of the ancient-astronaut reading of Mesopotamia: the Sumerian Anunnaki as flesh-and-blood visitors from a planet Nibiru, who came to mine gold and engineered humanity from their own genes. His cuneiform translations are rejected across Assyriology. The Wheel of Heaven corpus shares his broad direction — the gods as physically embodied makers — while discarding his apparatus, and reads the Anunnaki through the Elohim and the *Message*, not through Sitchin."
 alternative_names = [

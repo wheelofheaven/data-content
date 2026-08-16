@@ -11,6 +11,8 @@ category = "Biblical Figures"
 editorial_pass = "2026-07"
 entry_type = "figure"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0045", "woh-claim-0062"]
+core_versions = { woh-claim-0045 = "0.1.0", woh-claim-0062 = "0.1.0" }
 alternative_names = ["Abraham (English)", "Abram (pre-renaming name)", "אַבְרָהָם (Hebrew Avraham)", "אַבְרָם (Hebrew Avram)", "إبراهيم (Arabic Ibrāhīm)", "Ἀβραάμ (Greek Abraám)", "the Patriarch", "Avraham Avinu (Jewish 'Abraham our father')", "Khalīl Allāh (Arabic 'Friend of God')"]
 timeline = ["age-of-taurus", "age-of-aries"]
 see_also = [

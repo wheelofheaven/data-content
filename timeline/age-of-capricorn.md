@@ -7,8 +7,8 @@ toc = true
 aliases = ["/intro/age-of-capricorn/", "/wiki/age-of-capricorn/"]
 
 [extra]
-core_claim_ids = ["woh-claim-0003"]
-core_versions = { woh-claim-0003 = "0.1.0" }
+core_claim_ids = ["woh-claim-0003", "woh-claim-0059"]
+core_versions = { woh-claim-0003 = "0.1.0", woh-claim-0059 = "0.1.0" }
 symbol = "♑"
 color = "mauve"
 start_year = "-21810"

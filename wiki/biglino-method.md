@@ -11,6 +11,8 @@ tldr = "Mauro Biglino reads the Hebrew Bible as Schliemann read Homer: literally
 keywords = ["Biglino Method", "Mauro Biglino", "Hebrew Bible", "literal reading", "Jean Sendy", "Heinrich Schliemann", "The Naked Bible", "biblical translation"]
 editorial_pass = "2026-08"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0064"]
+core_versions = { woh-claim-0064 = "0.1.0" }
 category = "Methodology"
 entry_type = "concept"
 alternative_names = ["Biglino Method", "Metodo Biglino (Italian)", "the 'let's pretend it's true' method", "the naked-Bible method"]

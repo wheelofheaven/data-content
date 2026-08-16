@@ -13,6 +13,8 @@ editorial_pass = "2026-08"
 category = "Methodology"
 entry_type = "concept"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0064"]
+core_versions = { woh-claim-0064 = "0.1.0" }
 alternative_names = ["Sendy's Conditions of Coherence", "Sendy's five conditions", "the conditions of coherence", "Les conditions de cohérence (French)", "the hologram conditions"]
 timeline = ["age-of-aquarius"]
 see_also = [

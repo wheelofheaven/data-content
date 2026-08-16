@@ -9,6 +9,8 @@ toc = true
 same_as = ["https://www.wikidata.org/wiki/Q55088961", "https://en.wikipedia.org/wiki/United_States_Space_Force", "https://viaf.org/viaf/40155563945613000194"]
 editorial_pass = "2026-07"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0057"]
+core_versions = { woh-claim-0057 = "0.1.0" }
 category = "Ufology"
 entry_type = "concept"
 alternative_names = ["U.S. Space Force", "USSF", "Space Force", "United States Space Force"]

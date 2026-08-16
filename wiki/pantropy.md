@@ -11,6 +11,8 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0065"]
+core_versions = { woh-claim-0065 = "0.1.0" }
 alternative_names = ["Human adaptation", "Biological space adaptation", "Human pantropic engineering", "Adapted Men (Blish's term)", "Volitional evolution (NASA-affiliated literature)"]
 see_also = [
     { title = "Terraforming", path = "wiki/terraforming", description = "The complementary approach modifying environments rather than organisms." },

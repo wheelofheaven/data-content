@@ -10,6 +10,8 @@ aliases = ["/intro/ufology/"]
 same_as = ["https://www.wikidata.org/wiki/Q219611", "https://en.wikipedia.org/wiki/Ufology"]
 editorial_pass = "2026-07"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0057"]
+core_versions = { woh-claim-0057 = "0.1.0" }
 category = "Ufology"
 entry_type = "concept"
 alternative_names = ["ufology", "UAP studies (contemporary policy designation)", "flying saucer studies (historical designation)", "anomalistics (broader related field)", "exopolitics (policy subfield)", "OVNIs (French; Objet volant non identifié)", "UFO research"]

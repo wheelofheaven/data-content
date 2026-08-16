@@ -11,6 +11,8 @@ category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0064", "woh-claim-0042"]
+core_versions = { woh-claim-0064 = "0.1.0", woh-claim-0042 = "0.1.0" }
 alternative_names = ["Mauro Biglino (1950–)", "the San Paolo translator", "the 'let's pretend it's true' translator"]
 timeline = ["age-of-aquarius"]
 see_also = [

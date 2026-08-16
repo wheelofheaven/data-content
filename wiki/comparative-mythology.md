@@ -10,6 +10,8 @@ aliases = ["/intro/religious-syncretism/"]
 same_as = ["https://www.wikidata.org/wiki/Q640280", "https://en.wikipedia.org/wiki/Comparative_mythology"]
 category = "Methodology"
 claim_type = "speculative"
+core_claim_ids = ["woh-claim-0056"]
+core_versions = { woh-claim-0056 = "0.1.0" }
 editorial_pass = "2026-07"
 entry_type = "concept"
 alternative_names = ["Comparative Mythology", "comparative religion (overlapping discipline)", "mythography (related but distinct discipline)", "comparative folklore", "Mythologie comparée (French)", "vergleichende Mythologie (German)"]

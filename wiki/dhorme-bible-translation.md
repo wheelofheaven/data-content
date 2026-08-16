@@ -10,6 +10,8 @@ category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "biographical and methodological"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0066"]
+core_versions = { woh-claim-0066 = "0.1.0" }
 alternative_names = ["Bible de la Pléiade (Dhorme)", "La Bible: L'Ancien Testament (Dhorme)", "Dhorme Old Testament", "Bible Dhorme"]
 see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "The plural form Dhorme preserves as Élohim rather than translating it as Dieu." },

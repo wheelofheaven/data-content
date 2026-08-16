@@ -9,6 +9,8 @@ toc = true
 same_as = ["https://www.wikidata.org/wiki/Q411", "https://en.wikipedia.org/wiki/Astrobiology", "https://www.britannica.com/science/astrobiology"]
 editorial_pass = "2026-07"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0067"]
+core_versions = { woh-claim-0067 = "0.1.0" }
 category = "Science & Technology"
 entry_type = "concept"
 alternative_names = ["astrobiology", "exobiology (earlier synonymous term)", "bioastronomy", "xenobiology (related but distinct)", "astrobiologie (French)", "Astrobiologie (German)"]

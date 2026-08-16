@@ -4,6 +4,8 @@ description = "A machine-readable CC0 index of 75 myth-motif attestations across
 template = "dataset-page.html"
 
 [extra]
+core_claim_ids = ["woh-claim-0056", "woh-claim-0060"]
+core_versions = { woh-claim-0056 = "0.1.0", woh-claim-0060 = "0.1.0" }
 dataset_name = "Wheel of Heaven Myth Index"
 license = "CC0-1.0"
 license_url = "https://creativecommons.org/publicdomain/zero/1.0/"

@@ -11,6 +11,8 @@ category = "Science & Technology"
 editorial_pass = "2026-07"
 entry_type = "concept"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0065"]
+core_versions = { woh-claim-0065 = "0.1.0" }
 alternative_names = ["Genetic modification", "Gene splicing (historical informal usage)", "Recombinant DNA technology (the foundational subdomain)", "Genome editing (the contemporary CRISPR-era subdomain)"]
 timeline = ["aquarius"]
 see_also = [

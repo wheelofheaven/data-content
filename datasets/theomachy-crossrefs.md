@@ -4,6 +4,8 @@ description = "A CC0 dataset of combat myths (chaoskampf) across cultures — ch
 template = "dataset-page.html"
 
 [extra]
+core_claim_ids = ["woh-claim-0008", "woh-claim-0060"]
+core_versions = { woh-claim-0008 = "0.1.0", woh-claim-0060 = "0.1.0" }
 dataset_name = "Wheel of Heaven Theomachy Cross-References"
 license = "CC0-1.0"
 license_url = "https://creativecommons.org/publicdomain/zero/1.0/"

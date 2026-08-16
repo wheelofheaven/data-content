@@ -14,6 +14,8 @@ category = "Science & Technology"
 editorial_pass = "2026-08"
 entry_type = "concept"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0067"]
+core_versions = { woh-claim-0067 = "0.1.0" }
 alternative_names = ["Plurality of worlds", "Plurality of inhabited worlds", "Many-worlds cosmology (in the classical sense, distinct from the Everett quantum interpretation)", "Pluralität der Welten", "Pluralité des mondes"]
 see_also = [
     { title = "Drake Equation", path = "wiki/drake-equation", description = "The 20th-century attempt to estimate how many of the plural worlds are inhabited." },

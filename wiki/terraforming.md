@@ -11,6 +11,8 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0065"]
+core_versions = { woh-claim-0065 = "0.1.0" }
 alternative_names = ["Planetary engineering", "Ecological engineering at planetary scale", "Earth-shaping", "Geoengineering of other worlds"]
 see_also = [
     { title = "Genesis", path = "wiki/genesis", description = "The text whose first four ages the framework reads as the Elohim terraforming Earth." },

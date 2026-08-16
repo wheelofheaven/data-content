@@ -10,6 +10,8 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0065"]
+core_versions = { woh-claim-0065 = "0.1.0" }
 alternative_names = ["Whole-genome synthesis", "Genome engineering", "Genome-scale design"]
 see_also = [
     { title = "Life engineering", path = "wiki/life-engineering", description = "The parent field of which synthetic genomics is the most ambitious wing." },

@@ -8,6 +8,8 @@ toc = true
 [extra]
 category = "Methodology"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0064"]
+core_versions = { woh-claim-0064 = "0.1.0" }
 editorial_pass = "2026-07"
 entry_type = "concept"
 alternative_names = ["neo-evhemerism (French néo-évhémérisme)", "neo-Euhemerist reading", "extraterrestrial euhemerism", "the neo-euhemeristic reading", "paleocontact hypothesis (overlapping)"]

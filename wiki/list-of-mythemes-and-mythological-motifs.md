@@ -10,6 +10,8 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0056"]
+core_versions = { woh-claim-0056 = "0.1.0" }
 alternative_names = ["Catalogue of mythological motifs", "Mythological-motif index (framework reading)", "Cross-cultural mythemes catalogue"]
 see_also = [
     { title = "Mytheme", path = "wiki/mytheme", description = "The technical unit the catalogue's usage draws on and distinguishes from motif and tale type." },

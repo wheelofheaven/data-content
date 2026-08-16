@@ -9,6 +9,8 @@ toc = true
 same_as = ["https://www.wikidata.org/wiki/Q180316", "https://en.wikipedia.org/wiki/Drake_equation", "https://www.britannica.com/science/Drake-equation"]
 editorial_pass = "2026-07"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0067"]
+core_versions = { woh-claim-0067 = "0.1.0" }
 category = "Science & Technology"
 entry_type = "concept"
 alternative_names = ["Drake Equation", "Green Bank Equation (occasional alternative)", "Drake-Sagan Equation (rarely used)", "équation de Drake (French)", "Drake-Gleichung (German)"]

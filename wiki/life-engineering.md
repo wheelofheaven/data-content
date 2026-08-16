@@ -11,6 +11,8 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0065"]
+core_versions = { woh-claim-0065 = "0.1.0" }
 alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "Bioengineering of life", "Living-systems engineering"]
 see_also = [
     { title = "Synthetic biology", path = "wiki/synthetic-biology", description = "The most ambitious wing of the field, the standard disciplinary name for what the corpus calls life engineering." },

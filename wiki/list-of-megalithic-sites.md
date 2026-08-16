@@ -13,6 +13,8 @@ category = "Reference Lists"
 editorial_pass = "2026-08"
 entry_type = "reference list"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0058"]
+core_versions = { woh-claim-0058 = "0.1.0" }
 alternative_names = ["Catalogue of megalithic sites", "Ancient megalithic architecture index", "Cyclopean and megalithic construction reference"]
 see_also = [
     { title = "Ancient Builders", path = "wiki/ancient-builders", description = "The paired entry addressing who constructed the sites this catalogue lists." },

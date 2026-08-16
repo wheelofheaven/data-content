@@ -4,6 +4,8 @@ description = "The founding catalogue of the Aarne–Thompson–Uther system, fu
 template = "dataset-page.html"
 
 [extra]
+core_claim_ids = ["woh-claim-0056", "woh-claim-0060"]
+core_versions = { woh-claim-0056 = "0.1.0", woh-claim-0060 = "0.1.0" }
 dataset_name = "Aarne 1910 Tale-Type Index (Verzeichnis der Märchentypen)"
 license = "CC0-1.0"
 license_url = "https://creativecommons.org/publicdomain/zero/1.0/"

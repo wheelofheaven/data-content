@@ -11,6 +11,8 @@ category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0063"]
+core_versions = { woh-claim-0063 = "0.1.0" }
 timeline = ["aries"]
 alternative_names = ["Yeḥezqēl", "Yechezkel", "Iezekiēl (Septuagint)", "Ezechiel", "Ḥizqīl (Arabic)", "Ezekiel son of Buzi", "Ezekiel the priest"]
 see_also = [

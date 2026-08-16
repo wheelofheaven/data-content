@@ -11,6 +11,8 @@ category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0064"]
+core_versions = { woh-claim-0064 = "0.1.0" }
 alternative_names = ["Dimitri Abelson (birth name)", "the man who bet the Bible on the Moon"]
 timeline = ["age-of-aquarius"]
 see_also = [

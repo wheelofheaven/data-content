@@ -10,6 +10,8 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0063"]
+core_versions = { woh-claim-0063 = "0.1.0" }
 alternative_names = ["Catalogue of pre-modern close encounters", "Pre-1500 UFO and contact-event index", "Catalogue of unexplained aerial phenomena (antiquity through 1499 CE)"]
 see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "The presence the catalogued encounters are read as documenting across the post-Eden period." },

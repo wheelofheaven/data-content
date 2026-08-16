@@ -11,6 +11,8 @@ category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
+core_claim_ids = ["woh-claim-0068"]
+core_versions = { woh-claim-0068 = "0.1.0" }
 alternative_names = [
     "Graham Bruce Hancock",
     "author of Fingerprints of the Gods",

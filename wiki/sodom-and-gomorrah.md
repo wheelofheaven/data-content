@@ -9,6 +9,8 @@ toc = true
 same_as = ["https://www.wikidata.org/wiki/Q180141", "https://en.wikipedia.org/wiki/Sodom_and_Gomorrah", "https://www.britannica.com/place/Sodom-and-Gomorrah"]
 category = "Events & Narratives"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0062"]
+core_versions = { woh-claim-0062 = "0.1.0" }
 editorial_pass = "2026-07"
 entry_type = "event/period"
 alternative_names = ["the Cities of the Plain", "the Sodom event", "the Sodom strike", "*Sedom va-Amorah* (Hebrew: סְדֹם וַעֲמֹרָה)", "the Genesis 19 destruction", "the Council preventive strike (Taurus phase)", "the second preventive strike", "the Dead Sea event"]
