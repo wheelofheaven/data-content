@@ -7,8 +7,8 @@ draft = false
 
 [extra]
 claim_type = "inferred"
-core_claim_ids = ["woh-claim-0022"]
-core_versions = { woh-claim-0022 = "0.1.0" }
+core_claim_ids = ["woh-claim-0022", "woh-claim-0042"]
+core_versions = { woh-claim-0022 = "0.1.0", woh-claim-0042 = "0.1.0" }
 editorial_pass = "2026-05"
 article_type = "explainer"
 category = "Comparative"
