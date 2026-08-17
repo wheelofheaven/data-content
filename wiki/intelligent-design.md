@@ -8,7 +8,7 @@ aliases = ["/intro/intelligent-design/"]
 
 [extra]
 core_claim_ids = ["woh-claim-0001"]
-core_versions = { woh-claim-0001 = "0.1.0" }
+core_versions = { woh-claim-0001 = "0.2.0" }
 same_as = ["https://www.wikidata.org/wiki/Q172618", "https://en.wikipedia.org/wiki/Intelligent_design", "https://www.britannica.com/topic/intelligent-design"]
 category = "Science & Technology"
 editorial_pass = "2026-07"

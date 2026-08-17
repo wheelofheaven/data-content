@@ -6,7 +6,7 @@ aliases = ["/intro/community/", "/our-vision/"]
 
 [extra]
 core_claim_ids = ["woh-claim-0001"]
-core_versions = { woh-claim-0001 = "0.1.0" }
+core_versions = { woh-claim-0001 = "0.2.0" }
 claim_type = "direct"
 editorial_pass = "2026-05"
 summary = "Wheel of Heaven is a long working-out of one specific reading of the ancient creation traditions, conducted across many years and now opened to public engagement."

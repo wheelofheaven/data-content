@@ -8,7 +8,7 @@ aliases = ["/wiki/planet-of-the-eternals/"]
 
 [extra]
 core_claim_ids = ["woh-claim-0001"]
-core_versions = { woh-claim-0001 = "0.1.0" }
+core_versions = { woh-claim-0001 = "0.2.0" }
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.avif"
 image_alt = "A tranquil extrasolar coastline — lush exotic vegetation and azure seas beneath a large, low sun."

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 core_claim_ids = ["woh-claim-0001"]
-core_versions = { woh-claim-0001 = "0.1.0" }
+core_versions = { woh-claim-0001 = "0.2.0" }
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "text"
