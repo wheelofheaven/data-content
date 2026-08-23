@@ -14,6 +14,7 @@ filed_under = "Signes d'Accélération"
 cross_reference = "Ère du Verseau, §IX"
 canon_links = [
     { title = "Ère du Verseau", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufologie", path = "/wiki/ufology/" },
     { title = "Élohim", path = "/wiki/elohim/" },
     { title = "Théorie des Anciens Astronautes", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -35,7 +36,7 @@ sources = [
 
 ## Ce qui a été divulgué
 
-Le matin du 8 mai 2026, le Département de la Guerre des États-Unis — le département du cabinet renommé, anciennement connu sous le nom de Département de la Défense — a ouvert un portail public à **war.gov/UFO** et publié la première tranche de documents déclassifiés, photographies et vidéos issus des fonds du gouvernement fédéral relatifs aux Phénomènes Anormaux Non Identifiés (UAP). Le portail est la vitrine publique d'un programme multi-agences désigné **Presidential Unsealing and Reporting System for UAP Encounters**, abrégé PURSUE, opérant sous la direction du Bureau du Directeur du Renseignement National (ODNI) et coordonnant, selon les termes mêmes du Département, «  des dizaines d'agences et l'examen de dizaines de millions de documents, dont beaucoup n'existent que sur papier, couvrant plusieurs décennies  ».
+Le matin du 8 mai 2026, le Département de la Guerre des États-Unis — le département du cabinet renommé, anciennement connu sous le nom de Département de la Défense — a ouvert un portail public à **war.gov/UFO** et publié la première tranche de documents déclassifiés, photographies et vidéos issus des fonds du gouvernement fédéral relatifs aux Phénomènes Anormaux Non Identifiés (UAP). Le portail est la vitrine publique d'un programme multi-agences désigné **[Presidential Unsealing and Reporting System for UAP Encounters](/wiki/pursue/)**, abrégé PURSUE, opérant sous la direction du Bureau du Directeur du Renseignement National (ODNI) et coordonnant, selon les termes mêmes du Département, «  des dizaines d'agences et l'examen de dizaines de millions de documents, dont beaucoup n'existent que sur papier, couvrant plusieurs décennies  ».
 
 La Release 01 contient des images et des rapports tirés de :
 

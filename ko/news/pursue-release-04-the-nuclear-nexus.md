@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §III and §IX"
 canon_links = [
     { title = "물병자리 시대", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "묵시록", path = "/wiki/apocalypse/" },
     { title = "UFO학", path = "/wiki/ufology/" },
     { title = "엘로힘", path = "/wiki/elohim/" },
@@ -34,7 +35,7 @@ sources = [
 
 ## 무엇이 공개되었는가
 
-2026년 7월 10일 — 제3차 공개로부터 4주가 지난 시점에 — 미국 전쟁부는 **UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters, PURSUE)**에 따라 기밀이 해제된 네 번째 기록물 자료군을 war.gov/UFO에 게시했습니다. 이번 공개에는 전쟁부, NASA, CIA, FBI, 그리고 — 명시된 기여 부처로서는 처음으로 등장하는 — **에너지부**에서 가져온 **40건의 파일: 14건의 문서, 19편의 영상, 4건의 음성 녹음, 그리고 3건의 이미지**가 포함됩니다.
+2026년 7월 10일 — 제3차 공개로부터 4주가 지난 시점에 — 미국 전쟁부는 **[UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters, PURSUE)](/wiki/pursue/)**에 따라 기밀이 해제된 네 번째 기록물 자료군을 war.gov/UFO에 게시했습니다. 이번 공개에는 전쟁부, NASA, CIA, FBI, 그리고 — 명시된 기여 부처로서는 처음으로 등장하는 — **에너지부**에서 가져온 **40건의 파일: 14건의 문서, 19편의 영상, 4건의 음성 녹음, 그리고 3건의 이미지**가 포함됩니다.
 
 바로 이 마지막 추가분이 이번 자료군을 규정하는 구조적 특징입니다. 제3차 공개의 뉴스가 민간 정보기관과 법집행기관의 등장이었다면, 제4차 공개의 뉴스는 **국가 핵무기 복합체의 관리 주체**의 등장입니다. 그리고 전쟁부와 주요 언론이 앞세운 두 건의 파일은 모두 그 복합체를 배경으로 삼고 있습니다.
 

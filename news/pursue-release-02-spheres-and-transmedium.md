@@ -16,6 +16,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Age of Aquarius", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufology", path = "/wiki/ufology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
     { title = "Ancient Astronaut Hypothesis", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -35,7 +36,7 @@ sources = [
 
 ## What was released
 
-On May 22, 2026 — two weeks to the day after the opening tranche — the United States Department of War posted the second release of declassified records under the **Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)** at war.gov/UFO. The new batch contains more than fifty previously classified items, of which over forty are videos. The cadence the Department promised at launch — rolling tranches "every few weeks" — has held.
+On May 22, 2026 — two weeks to the day after the opening tranche — the United States Department of War posted the second release of declassified records under the **[Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)](/wiki/pursue/)** at war.gov/UFO. The new batch contains more than fifty previously classified items, of which over forty are videos. The cadence the Department promised at launch — rolling tranches "every few weeks" — has held.
 
 Release 02 is materially different from Release 01 in three respects: the imagery is dramatically clearer, the case mix tilts toward sensor footage from active military platforms rather than archival stills, and the release includes for the first time a **non-thermal, full-color** video of an unidentified object. The notable items, named by the Department and mainstream coverage, include:
 

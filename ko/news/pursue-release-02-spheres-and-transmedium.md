@@ -14,6 +14,7 @@ filed_under = "가속화의 징후"
 cross_reference = "물병자리 시대, 제IX장"
 canon_links = [
     { title = "물병자리 시대", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "UFO학", path = "/wiki/ufology/" },
     { title = "엘로힘", path = "/wiki/elohim/" },
     { title = "고대 우주인 가설", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -33,7 +34,7 @@ sources = [
 
 ## 무엇이 공개되었는가
 
-2026년 5월 22일 — 최초 자료군이 공개된 지 정확히 2주가 지난 시점에 — 미국 전쟁부는 **UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters, PURSUE)**에 따라 기밀이 해제된 두 번째 기록물 자료군을 war.gov/UFO에 게시했습니다. 이번 자료군에는 이전에 기밀로 분류되었던 50여 점의 자료가 포함되어 있으며, 그중 40편 이상이 영상입니다. 출범 당시 국방부가 약속한 발표 주기 — "몇 주에 한 번씩" 순차 공개 — 가 유지된 셈입니다.
+2026년 5월 22일 — 최초 자료군이 공개된 지 정확히 2주가 지난 시점에 — 미국 전쟁부는 **[UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters, PURSUE)](/wiki/pursue/)**에 따라 기밀이 해제된 두 번째 기록물 자료군을 war.gov/UFO에 게시했습니다. 이번 자료군에는 이전에 기밀로 분류되었던 50여 점의 자료가 포함되어 있으며, 그중 40편 이상이 영상입니다. 출범 당시 국방부가 약속한 발표 주기 — "몇 주에 한 번씩" 순차 공개 — 가 유지된 셈입니다.
 
 제2차 공개는 세 가지 측면에서 제1차 공개와 실질적으로 다릅니다. 영상의 선명도가 극적으로 향상되었으며, 사례 구성이 기록 보관소의 정지 영상보다는 현역 군 플랫폼에서 수집된 센서 영상 쪽으로 기울어 있고, 미확인 물체에 대한 **비열화상 풀컬러** 영상이 처음으로 포함되어 있다는 점입니다. 국방부와 주요 언론이 거명한 주목할 만한 항목은 다음과 같습니다.
 

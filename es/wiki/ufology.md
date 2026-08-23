@@ -10,6 +10,10 @@ category = "Ufology"
 entry_type = "concept"
 alternative_names = ["ufology", "UAP studies (contemporary policy designation)", "flying saucer studies (historical designation)", "anomalistics (broader related field)", "exopolitics (specific subdiscipline)", "OVNIs (French; Objet volant non identifié)", "UFO research"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "Encubrimiento militar de la exobiología", path = "wiki/military-cover-up-of-exobiology", description = "La cuestión del secreto gubernamental y la divulgación que atraviesa la ufología moderna." },
+    { title = "PURSUE", path = "wiki/pursue", description = "El programa del gobierno de EE. UU. de 2026 que publica registros FANI no resueltos en war.gov/UFO — el desarrollo institucional actual del campo." },
+]
 
 [extra.infobox]
 type = "Interdisciplinary field studying reports of unidentified flying objects (UFOs) / Unidentified Aerial Phenomena (UAP) and the broader question of non-human technological presence; substantive engagement community within which corpus framework operates"

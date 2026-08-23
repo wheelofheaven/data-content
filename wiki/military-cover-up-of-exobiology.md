@@ -17,6 +17,7 @@ alternative_names = ["government UAP cover-up", "UFO cover-up", "UAP disclosure"
 timeline = ["age-of-pisces", "age-of-aquarius"]
 see_also = [
     { title = "Embassy", path = "wiki/embassy", description = "The canon's resolution to the disclosure question through formal diplomatic recognition." },
+    { title = "PURSUE", path = "wiki/pursue", description = "The 2026 public-release program whose public-by-default archive bears on the secrecy claim from the official side." },
     { title = "Ufology", path = "wiki/ufology", description = "The broader field of which the cover-up question is one contested part." },
     { title = "Astrobiology", path = "wiki/astrobiology", description = "The scientific study of extraterrestrial life the cover-up allegedly conceals." },
     { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The frame that reads UAP contact as continuous with the historical Elohim presence." },
@@ -259,6 +260,7 @@ government secrecy for proof of what the secrecy concealed.
 - [New Jerusalem](../new-jerusalem/)
 - [Third Temple](../third-temple/)
 - [Ufology](../ufology/)
+- [PURSUE](../pursue/)
 - [Astrobiology](../astrobiology/)
 - [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
 - [Drake Equation](../drake-equation/)

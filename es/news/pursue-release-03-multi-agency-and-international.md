@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Era de Acuario", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufología", path = "/wiki/ufology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
     { title = "Hipótesis de los Antiguos Astronautas", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -32,7 +33,7 @@ sources = [
 
 ## Lo que se publicó
 
-El 12 de junio de 2026 —tres semanas después de la Versión 02 y cinco semanas después del lanzamiento del programa— el Departamento de Guerra de los Estados Unidos publicó el tercer lote de documentos desclasificados bajo el **Sistema Presidencial de Apertura y Notificación de Encuentros con FANI (PURSUE)** en war.gov/UFO. La entrega contiene **53 documentos, 10 renderizaciones digitales, 6 vídeos y 3 grabaciones de audio de la NASA**. La cadencia que el Departamento prometió al lanzamiento se ha mantenido a lo largo de tres instancias.
+El 12 de junio de 2026 —tres semanas después de la Versión 02 y cinco semanas después del lanzamiento del programa— el Departamento de Guerra de los Estados Unidos publicó el tercer lote de documentos desclasificados bajo el **[Sistema Presidencial de Apertura y Notificación de Encuentros con FANI (PURSUE)](/wiki/pursue/)** en war.gov/UFO. La entrega contiene **53 documentos, 10 renderizaciones digitales, 6 vídeos y 3 grabaciones de audio de la NASA**. La cadencia que el Departamento prometió al lanzamiento se ha mantenido a lo largo de tres instancias.
 
 La Versión 03 es estructuralmente distinta de los dos primeros lotes en un aspecto crítico: es la primera entrega de PURSUE que extrae material de **múltiples agencias federales** en lugar de hacerlo únicamente de los archivos del Departamento de Defensa. El Departamento de Guerra nombra a la **CIA, el FBI, la NASA y el Pentágono** como agencias contribuyentes. La contribución de la NASA es el primer material de audio que el programa ha incorporado al registro público. La contribución del FBI introduce informes de fuerzas civiles del orden junto a datos de sensores militares. La contribución de la CIA extiende el alcance institucional del programa a la agencia históricamente más asociada con el estrato más profundo del material clasificado sobre FANI.
 

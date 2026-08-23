@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §III and §IX"
 canon_links = [
     { title = "水瓶座时代", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "启示", path = "/wiki/apocalypse/" },
     { title = "不明飞行物学", path = "/wiki/ufology/" },
     { title = "耶洛因", path = "/wiki/elohim/" },
@@ -34,7 +35,7 @@ sources = [
 
 ## 公布了什么
 
-2026年7月10日——距第三批材料公布四周——美国战争部在 war.gov/UFO 发布了**总统不明异常现象遭遇启封与报告系统(PURSUE)**项下的第四批解密档案。本批次包含 **40份文件:14份文档、19段视频、4段音频录音与3幅图像**,材料取自战争部、NASA、中央情报局、联邦调查局,并首次以署名贡献方身份出现的**能源部**。
+2026年7月10日——距第三批材料公布四周——美国战争部在 war.gov/UFO 发布了**[总统不明异常现象遭遇启封与报告系统(PURSUE)](/wiki/pursue/)**项下的第四批解密档案。本批次包含 **40份文件:14份文档、19段视频、4段音频录音与3幅图像**,材料取自战争部、NASA、中央情报局、联邦调查局,并首次以署名贡献方身份出现的**能源部**。
 
 最后这一项新增正是本批次决定性的结构特征。第三批的新闻是民事情报与执法机构的登场,第四批的新闻则是**国家核武器综合体守护者**的登场。而战争部与主流报道领衔的两份文件,都以该综合体为其发生场景。
 

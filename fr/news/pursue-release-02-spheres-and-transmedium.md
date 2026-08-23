@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Âge du Verseau", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufologie", path = "/wiki/ufology/" },
     { title = "Élohim", path = "/wiki/elohim/" },
     { title = "Hypothèse des anciens astronautes", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -33,7 +34,7 @@ sources = [
 
 ## Ce qui a été publié
 
-Le 22 mai 2026 — deux semaines jour pour jour après la tranche d'ouverture — le Département de la Guerre des États-Unis a publié la deuxième série de documents déclassifiés au titre du **Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)** sur war.gov/UFO. Le nouveau lot contient plus de cinquante éléments auparavant classifiés, dont plus de quarante sont des vidéos. La cadence promise par le Département au lancement — des tranches successives «&#8239;toutes les quelques semaines&#8239;» — a tenu.
+Le 22 mai 2026 — deux semaines jour pour jour après la tranche d'ouverture — le Département de la Guerre des États-Unis a publié la deuxième série de documents déclassifiés au titre du **[Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)](/wiki/pursue/)** sur war.gov/UFO. Le nouveau lot contient plus de cinquante éléments auparavant classifiés, dont plus de quarante sont des vidéos. La cadence promise par le Département au lancement — des tranches successives «&#8239;toutes les quelques semaines&#8239;» — a tenu.
 
 Le Communiqué 02 diffère matériellement du Communiqué 01 sur trois points : l'imagerie est nettement plus claire, l'éventail des cas penche vers des séquences capteur issues de plateformes militaires actives plutôt que vers des clichés d'archives, et le communiqué inclut pour la première fois une vidéo **non thermique, en couleurs réelles** d'un objet non identifié. Les éléments notables, nommés par le Département et par la couverture grand public, comprennent :
 

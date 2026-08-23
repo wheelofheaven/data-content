@@ -10,6 +10,9 @@ category = "Ufology"
 entry_type = "concept"
 alternative_names = ["government UAP cover-up", "UFO cover-up", "UAP disclosure", "military cover-up of exobiology (earlier designation)", "UAP secrecy", "extraterrestrial contact cover-up"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "PURSUE", path = "wiki/pursue", description = "2026 年的公開釋出計畫,其預設公開的檔案庫從官方一側觸及這項保密之說。" },
+]
 
 [extra.infobox]
 type = "Substantive question of governmental concealment of UAP investigation and alleged contact, with substantial 2017-2024 disclosure transformation; methodologically complex subject matter operating across multiple evidential categories"
@@ -638,6 +641,7 @@ The substantive contemporary UAP disclosure operates substantively within this b
 
 - [Wheel of Heaven](../wheel-of-heaven/)
 - [Ufology](../ufology/)
+- [PURSUE](../pursue/)
 - [Astrobiology](../astrobiology/)
 - [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
 - [Crop Circles](../crop-circles/)

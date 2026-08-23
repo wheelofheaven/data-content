@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "みずがめ座の時代", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "UFO学", path = "/wiki/ufology/" },
     { title = "エロヒム", path = "/wiki/elohim/" },
     { title = "古代宇宙飛行士仮説", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -35,7 +36,7 @@ sources = [
 
 ## 何が公開されたか
 
-2026年5月8日の朝、米国戦争省——以前は国防総省として知られていた閣僚級官庁の改称後の名称——は、**war.gov/UFO** に公開ポータルを開設し、未確認異常現象(UAP)に関する連邦政府の保有資料から、機密解除された記録、写真、動画の第一弾を掲載しました。このポータルは、**Presidential Unsealing and Reporting System for UAP Encounters**(略称PURSUE)と命名された複数機関プログラムの公的な窓口です。同プログラムは国家情報長官室(ODNI)の指揮下で運営され、戦争省自身の表現によれば「数十の機関と、その多くが紙のみで存在し、数十年にわたって蓄積された数千万件の記録のレビュー」を調整しています。
+2026年5月8日の朝、米国戦争省——以前は国防総省として知られていた閣僚級官庁の改称後の名称——は、**war.gov/UFO** に公開ポータルを開設し、未確認異常現象(UAP)に関する連邦政府の保有資料から、機密解除された記録、写真、動画の第一弾を掲載しました。このポータルは、**[Presidential Unsealing and Reporting System for UAP Encounters](/wiki/pursue/)**(略称PURSUE)と命名された複数機関プログラムの公的な窓口です。同プログラムは国家情報長官室(ODNI)の指揮下で運営され、戦争省自身の表現によれば「数十の機関と、その多くが紙のみで存在し、数十年にわたって蓄積された数千万件の記録のレビュー」を調整しています。
 
 第01次公開には、以下に由来する画像と報告が含まれます。
 

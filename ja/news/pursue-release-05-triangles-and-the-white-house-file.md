@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "みずがめ座の時代", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "UFO学", path = "/wiki/ufology/" },
     { title = "エクソバイオロジーの軍事的隠蔽", path = "/wiki/military-cover-up-of-exobiology/" },
     { title = "エロヒム", path = "/wiki/elohim/" },
@@ -36,7 +37,7 @@ sources = [
 
 ## 公開された内容
 
-2026年8月7日——第04弾リリースから四週間後——米国戦争省はwar.gov/UFOにて、**UAP遭遇に関する大統領による開封および報告システム（PURSUE）**のもとで、機密解除された記録の第五弾を公開しました。報道機関の集計によれば、本リリースには**41点のファイル**——文書、画像、動画——が含まれ、ペンタゴン、FBI、CIAから、そして本プログラムに初めて登場する二つの機関、すなわち**国務省**と**大統領府（Executive Office of the President）**から採取されています。
+2026年8月7日——第04弾リリースから四週間後——米国戦争省はwar.gov/UFOにて、**[UAP遭遇に関する大統領による開封および報告システム（PURSUE）](/wiki/pursue/)**のもとで、機密解除された記録の第五弾を公開しました。報道機関の集計によれば、本リリースには**41点のファイル**——文書、画像、動画——が含まれ、ペンタゴン、FBI、CIAから、そして本プログラムに初めて登場する二つの機関、すなわち**国務省**と**大統領府（Executive Office of the President）**から採取されています。
 
 この二機関の登場こそ、本一括資料の構造的特徴です。第03弾は民間の情報機関および法執行機関をもたらし、第04弾は核兵器複合体の管理者をもたらしました。第05弾は、プログラムの制度的外周を外交機構へ、そしてホワイトハウス自身の記録へと拡張します——具体的には、1958年から1973年まで大統領府の内部に置かれていた宇宙政策機関、**国家航空宇宙会議（National Aeronautics and Space Council）**が保有していた一つのファイルへと。
 

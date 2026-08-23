@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "宝瓶座时代", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "不明飞行物学", path = "/wiki/ufology/" },
     { title = "耶洛因", path = "/wiki/elohim/" },
     { title = "远古宇航员假说", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -35,7 +36,7 @@ sources = [
 
 ## 披露的内容
 
-2026年5月8日上午，美国战争部——原国防部更名后的内阁部门——开通了公共门户 **war.gov/UFO**，并发布了来自联邦政府所持有关不明异常现象（UAP）档案的首批解密记录、照片与视频。该门户是一项多机构计划的对外门面，该计划代号为**总统 UAP 接触解封与报告系统**（Presidential Unsealing and Reporting System for UAP Encounters），缩写为 PURSUE，依国家情报总监办公室（ODNI）指导运作。按战争部的描述，该计划协调"数十个机构、审阅数千万份记录，其中许多仅以纸质形式存在，跨越数十年"。
+2026年5月8日上午，美国战争部——原国防部更名后的内阁部门——开通了公共门户 **war.gov/UFO**，并发布了来自联邦政府所持有关不明异常现象（UAP）档案的首批解密记录、照片与视频。该门户是一项多机构计划的对外门面，该计划代号为**[总统 UAP 接触解封与报告系统](/wiki/pursue/)**（Presidential Unsealing and Reporting System for UAP Encounters），缩写为 PURSUE，依国家情报总监办公室（ODNI）指导运作。按战争部的描述，该计划协调"数十个机构、审阅数千万份记录，其中许多仅以纸质形式存在，跨越数十年"。
 
 第一次披露包含以下来源的影像与报告：
 

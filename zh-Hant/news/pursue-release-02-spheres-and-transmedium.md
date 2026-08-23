@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Age of Aquarius", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufology", path = "/wiki/ufology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
     { title = "Ancient Astronaut Hypothesis", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -33,7 +34,7 @@ sources = [
 
 ## 此次公布的內容
 
-2026 年 5 月 22 日——距首批公布恰好兩週——美國戰爭部在 war.gov/UFO 發布了**「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters,PURSUE)**下第二批解密檔案。本批包含超過五十項先前列為機密的材料,其中逾四十項為影片。戰爭部在計畫啟動時所承諾的節奏——每隔數週滾動釋出——至今得以維持。
+2026 年 5 月 22 日——距首批公布恰好兩週——美國戰爭部在 war.gov/UFO 發布了**[「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters,PURSUE)](/wiki/pursue/)**下第二批解密檔案。本批包含超過五十項先前列為機密的材料,其中逾四十項為影片。戰爭部在計畫啟動時所承諾的節奏——每隔數週滾動釋出——至今得以維持。
 
 第二批與第一批在三個面向上有顯著差異:影像清晰度大幅提升;案例組合明顯偏向現役軍事平台的感測器畫面,而非檔案中的靜態影像;且首次納入一段不明物體的**非熱像、全彩**影片。戰爭部與主流媒體所點名的重要項目包括:
 

@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Wassermann-Zeitalter", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufologie", path = "/wiki/ufology/" },
     { title = "Militärische Vertuschung der Exobiologie", path = "/wiki/military-cover-up-of-exobiology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
@@ -36,7 +37,7 @@ sources = [
 
 ## Was veröffentlicht wurde
 
-Am 7. August 2026 – vier Wochen nach Veröffentlichung 04 – stellte das Department of War der Vereinigten Staaten die fünfte Tranche freigegebener Akten im Rahmen des **Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)** auf war.gov/UFO online. Nach Presse-Zählung enthält die Veröffentlichung **41 Akten** – Dokumente, Bilder und Videos – aus dem Pentagon, dem FBI und der CIA, ergänzt um zwei Behörden, die zum ersten Mal im Programm auftreten: das **Department of State** und das **Executive Office of the President**.
+Am 7. August 2026 – vier Wochen nach Veröffentlichung 04 – stellte das Department of War der Vereinigten Staaten die fünfte Tranche freigegebener Akten im Rahmen des **[Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)](/wiki/pursue/)** auf war.gov/UFO online. Nach Presse-Zählung enthält die Veröffentlichung **41 Akten** – Dokumente, Bilder und Videos – aus dem Pentagon, dem FBI und der CIA, ergänzt um zwei Behörden, die zum ersten Mal im Programm auftreten: das **Department of State** und das **Executive Office of the President**.
 
 Dieses Paar ist das prägende strukturelle Merkmal der Tranche. Veröffentlichung 03 brachte die zivilen Geheimdienst- und Strafverfolgungsbehörden ins Programm; Veröffentlichung 04 den Verwalter des Nuklearwaffenkomplexes. Veröffentlichung 05 dehnt den institutionellen Perimeter des Programms auf den diplomatischen Apparat und auf die eigenen Akten des Weißen Hauses aus – konkret auf eine Akte des **National Aeronautics and Space Council**, des weltraumpolitischen Gremiums, das von 1958 bis 1973 innerhalb des Executive Office of the President angesiedelt war.
 

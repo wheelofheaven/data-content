@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §III and §IX"
 canon_links = [
     { title = "水瓶座時代", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "啟示", path = "/wiki/apocalypse/" },
     { title = "不明飛行物學", path = "/wiki/ufology/" },
     { title = "耶洛因", path = "/wiki/elohim/" },
@@ -34,7 +35,7 @@ sources = [
 
 ## 此次公布的內容
 
-2026 年 7 月 10 日——距第三批解密四週之後——美國戰爭部在 war.gov/UFO 公布了**「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters,PURSUE)**下第四批解密紀錄。本批包含 **40 份檔案:14 份文件、19 段影片、4 段音訊紀錄,以及 3 幅影像**,汲自戰爭部、NASA、CIA、FBI,以及首度以具名提供者身份現身的**能源部(Department of Energy)**。
+2026 年 7 月 10 日——距第三批解密四週之後——美國戰爭部在 war.gov/UFO 公布了**[「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters,PURSUE)](/wiki/pursue/)**下第四批解密紀錄。本批包含 **40 份檔案:14 份文件、19 段影片、4 段音訊紀錄,以及 3 幅影像**,汲自戰爭部、NASA、CIA、FBI,以及首度以具名提供者身份現身的**能源部(Department of Energy)**。
 
 最後這項新增,正是本批解密決定性的結構特徵。第三批的新聞是民事情報與執法機關的登場;第四批的新聞,則是**國家核武複合體的看管者**登場。而戰爭部及主流媒體所領銜的兩份檔案,皆以該複合體為其背景。
 

@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Era de Acuario", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufología", path = "/wiki/ufology/" },
     { title = "Encubrimiento Militar de la Exobiología", path = "/wiki/military-cover-up-of-exobiology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
@@ -36,7 +37,7 @@ sources = [
 
 ## Lo que se publicó
 
-El 7 de agosto de 2026 —cuatro semanas después de la Versión 04— el Departamento de Guerra de los Estados Unidos publicó el quinto lote de registros desclasificados bajo el **Sistema Presidencial de Apertura y Notificación de Encuentros con FANI (PURSUE)** en war.gov/UFO. Según el recuento de la prensa, la entrega contiene **41 archivos** —documentos, imágenes y vídeos— procedentes del Pentágono, el FBI y la CIA, a los que se suman dos agencias que aparecen en el programa por primera vez: el **Departamento de Estado** y la **Oficina Ejecutiva del Presidente**.
+El 7 de agosto de 2026 —cuatro semanas después de la Versión 04— el Departamento de Guerra de los Estados Unidos publicó el quinto lote de registros desclasificados bajo el **[Sistema Presidencial de Apertura y Notificación de Encuentros con FANI (PURSUE)](/wiki/pursue/)** en war.gov/UFO. Según el recuento de la prensa, la entrega contiene **41 archivos** —documentos, imágenes y vídeos— procedentes del Pentágono, el FBI y la CIA, a los que se suman dos agencias que aparecen en el programa por primera vez: el **Departamento de Estado** y la **Oficina Ejecutiva del Presidente**.
 
 Ese par es el rasgo estructural del lote. La Versión 03 incorporó a las agencias civiles de inteligencia y de las fuerzas del orden; la Versión 04, al custodio del complejo de armas nucleares. La Versión 05 extiende el perímetro institucional del programa al aparato diplomático y a los propios registros de la Casa Blanca —en concreto, a un archivo en poder del **National Aeronautics and Space Council** (Consejo Nacional de Aeronáutica y del Espacio), el órgano de política espacial que operó dentro de la Oficina Ejecutiva del Presidente entre 1958 y 1973.
 

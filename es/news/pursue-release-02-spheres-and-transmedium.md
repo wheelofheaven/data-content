@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Age of Aquarius", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufology", path = "/wiki/ufology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
     { title = "Ancient Astronaut Hypothesis", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -33,7 +34,7 @@ sources = [
 
 ## Lo que se publicó
 
-El 22 de mayo de 2026 —dos semanas exactas después del lote inicial— el Departamento de Guerra de los Estados Unidos publicó la segunda entrega de documentos desclasificados bajo el **Sistema Presidencial de Apertura y Notificación de Encuentros con FANI (PURSUE)** en war.gov/UFO. El nuevo lote contiene más de cincuenta elementos previamente clasificados, de los cuales más de cuarenta son vídeos. La cadencia que el Departamento prometió al lanzamiento —entregas sucesivas « cada pocas semanas »— se ha mantenido.
+El 22 de mayo de 2026 —dos semanas exactas después del lote inicial— el Departamento de Guerra de los Estados Unidos publicó la segunda entrega de documentos desclasificados bajo el **[Sistema Presidencial de Apertura y Notificación de Encuentros con FANI (PURSUE)](/wiki/pursue/)** en war.gov/UFO. El nuevo lote contiene más de cincuenta elementos previamente clasificados, de los cuales más de cuarenta son vídeos. La cadencia que el Departamento prometió al lanzamiento —entregas sucesivas « cada pocas semanas »— se ha mantenido.
 
 La Versión 02 difiere materialmente de la Versión 01 en tres aspectos: las imágenes son drásticamente más nítidas, la combinación de casos se inclina hacia material de sensores procedente de plataformas militares activas más que hacia fotografías de archivo, y la entrega incluye por primera vez un vídeo **no térmico, a todo color** de un objeto no identificado. Los elementos destacables, nombrados por el Departamento y por la cobertura mayoritaria, incluyen:
 

@@ -16,6 +16,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Age of Aquarius", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufology", path = "/wiki/ufology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
     { title = "Ancient Astronaut Hypothesis", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -34,7 +35,7 @@ sources = [
 
 ## What was released
 
-On June 12, 2026 — three weeks after Release 02 and five weeks after the program's launch — the United States Department of War posted the third tranche of declassified records under the **Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)** at war.gov/UFO. The release contains **53 documents, 10 digital renderings, 6 videos, and 3 NASA audio recordings**. The cadence the Department promised at launch has held across three instances.
+On June 12, 2026 — three weeks after Release 02 and five weeks after the program's launch — the United States Department of War posted the third tranche of declassified records under the **[Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)](/wiki/pursue/)** at war.gov/UFO. The release contains **53 documents, 10 digital renderings, 6 videos, and 3 NASA audio recordings**. The cadence the Department promised at launch has held across three instances.
 
 Release 03 is structurally distinct from the first two tranches in one critical respect: it is the first PURSUE release to draw material from **multiple federal agencies** rather than from DoD holdings alone. The Department of War names the **CIA, FBI, NASA, and the Pentagon** as contributing agencies. NASA's contribution is the first audio material the program has placed in the public record. The FBI's contribution introduces civilian-law-enforcement reporting alongside military sensor data. The CIA's contribution extends the program's institutional reach into the agency historically most associated with the deepest tier of classified UAP material.
 

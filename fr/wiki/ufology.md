@@ -10,6 +10,9 @@ category = "Ufology"
 entry_type = "concept"
 alternative_names = ["ufology", "UAP studies (contemporary policy designation)", "flying saucer studies (historical designation)", "anomalistics (broader related field)", "exopolitics (specific subdiscipline)", "OVNIs (French; Objet volant non identifié)", "UFO research"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "PURSUE", path = "wiki/pursue", description = "Le programme du gouvernement des États-Unis de 2026 publiant les dossiers UAP non résolus sur war.gov/UFO — le développement institutionnel actuel du champ." },
+]
 
 [extra.infobox]
 type = "Interdisciplinary field studying reports of unidentified flying objects (UFOs) / Unidentified Aerial Phenomena (UAP) and the broader question of non-human technological presence; substantive engagement community within which corpus framework operates"

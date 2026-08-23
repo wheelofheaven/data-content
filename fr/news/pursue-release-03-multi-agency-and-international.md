@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Âge du Verseau", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufologie", path = "/wiki/ufology/" },
     { title = "Élohim", path = "/wiki/elohim/" },
     { title = "Hypothèse des anciens astronautes", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -32,7 +33,7 @@ sources = [
 
 ## Ce qui a été publié
 
-Le 12 juin 2026 — trois semaines après le Communiqué 02 et cinq semaines après le lancement du programme — le Département de la Guerre des États-Unis a publié la troisième tranche de documents déclassifiés au titre du **Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)** sur war.gov/UFO. Le communiqué contient **53 documents, 10 rendus numériques, 6 vidéos et 3 enregistrements audio de la NASA**. La cadence promise par le Département au lancement a tenu sur trois instances.
+Le 12 juin 2026 — trois semaines après le Communiqué 02 et cinq semaines après le lancement du programme — le Département de la Guerre des États-Unis a publié la troisième tranche de documents déclassifiés au titre du **[Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)](/wiki/pursue/)** sur war.gov/UFO. Le communiqué contient **53 documents, 10 rendus numériques, 6 vidéos et 3 enregistrements audio de la NASA**. La cadence promise par le Département au lancement a tenu sur trois instances.
 
 Le Communiqué 03 se distingue structurellement des deux premières tranches sur un point essentiel : c'est la première publication PURSUE à puiser son matériel dans **plusieurs agences fédérales** plutôt que dans les seuls fonds du DoD. Le Département de la Guerre cite la **CIA, le FBI, la NASA et le Pentagone** comme agences contributrices. La contribution de la NASA constitue le premier matériel audio que le programme verse au dossier public. La contribution du FBI introduit, aux côtés des données capteurs militaires, des signalements provenant des forces de l'ordre civiles. La contribution de la CIA étend la portée institutionnelle du programme à l'agence historiquement la plus associée au niveau le plus profond de classification du matériel UAP.
 

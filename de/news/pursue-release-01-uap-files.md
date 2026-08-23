@@ -14,6 +14,7 @@ filed_under = "Anzeichen der Beschleunigung"
 cross_reference = "Zeitalter des Wassermanns, §IX"
 canon_links = [
     { title = "Zeitalter des Wassermanns", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufologie", path = "/wiki/ufology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
     { title = "Prä-Astronautik-Hypothese", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -35,7 +36,7 @@ sources = [
 
 ## Was freigegeben wurde
 
-Am Morgen des 8. Mai 2026 öffnete das Kriegsministerium der Vereinigten Staaten — das umbenannte Kabinettsressort, das zuvor als Verteidigungsministerium bekannt war — ein öffentliches Portal unter **war.gov/UFO** und stellte die erste Tranche freigegebener Aufzeichnungen, Fotografien und Videos aus den Beständen der Bundesregierung zu unidentifizierten anomalen Phänomenen (UAP) online. Das Portal ist das öffentliche Gesicht eines ressortübergreifenden Programms mit der Bezeichnung **Presidential Unsealing and Reporting System for UAP Encounters**, abgekürzt PURSUE, das unter der Leitung des Office of the Director of National Intelligence (ODNI) arbeitet und nach Beschreibung des Ministeriums selbst „Dutzende von Behörden und die Sichtung von Dutzenden Millionen Aufzeichnungen koordiniert, von denen viele nur in Papierform existieren und sich über viele Jahrzehnte erstrecken.“
+Am Morgen des 8. Mai 2026 öffnete das Kriegsministerium der Vereinigten Staaten — das umbenannte Kabinettsressort, das zuvor als Verteidigungsministerium bekannt war — ein öffentliches Portal unter **war.gov/UFO** und stellte die erste Tranche freigegebener Aufzeichnungen, Fotografien und Videos aus den Beständen der Bundesregierung zu unidentifizierten anomalen Phänomenen (UAP) online. Das Portal ist das öffentliche Gesicht eines ressortübergreifenden Programms mit der Bezeichnung **[Presidential Unsealing and Reporting System for UAP Encounters](/wiki/pursue/)**, abgekürzt PURSUE, das unter der Leitung des Office of the Director of National Intelligence (ODNI) arbeitet und nach Beschreibung des Ministeriums selbst „Dutzende von Behörden und die Sichtung von Dutzenden Millionen Aufzeichnungen koordiniert, von denen viele nur in Papierform existieren und sich über viele Jahrzehnte erstrecken.“
 
 Release 01 enthält Bildmaterial und Berichte aus folgenden Quellen:
 

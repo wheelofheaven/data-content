@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §III and §IX"
 canon_links = [
     { title = "Era de Acuario", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Apocalipsis", path = "/wiki/apocalypse/" },
     { title = "Ufología", path = "/wiki/ufology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
@@ -34,7 +35,7 @@ sources = [
 
 ## Lo que se publicó
 
-El 10 de julio de 2026 —cuatro semanas después de la Versión 03— el Departamento de Guerra de los Estados Unidos publicó el cuarto lote de registros desclasificados bajo el **Sistema Presidencial de Apertura y Notificación de Encuentros con FANI (PURSUE)** en war.gov/UFO. La entrega contiene **40 archivos: 14 documentos, 19 vídeos, 4 grabaciones de audio y 3 imágenes**, procedentes del Departamento de Guerra, la NASA, la CIA, el FBI y —apareciendo como contribuyente nombrado por primera vez— el **Departamento de Energía**.
+El 10 de julio de 2026 —cuatro semanas después de la Versión 03— el Departamento de Guerra de los Estados Unidos publicó el cuarto lote de registros desclasificados bajo el **[Sistema Presidencial de Apertura y Notificación de Encuentros con FANI (PURSUE)](/wiki/pursue/)** en war.gov/UFO. La entrega contiene **40 archivos: 14 documentos, 19 vídeos, 4 grabaciones de audio y 3 imágenes**, procedentes del Departamento de Guerra, la NASA, la CIA, el FBI y —apareciendo como contribuyente nombrado por primera vez— el **Departamento de Energía**.
 
 Esa última incorporación es el rasgo estructural definitorio del lote. Donde la noticia de la Versión 03 fue la llegada de las agencias civiles de inteligencia y de las fuerzas del orden, la de la Versión 04 es la llegada del **custodio del complejo de armas nucleares de la nación**. Y los dos archivos con los que encabezan tanto el Departamento como la cobertura mayoritaria toman ambos ese complejo como escenario.
 

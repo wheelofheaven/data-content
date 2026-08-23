@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "水瓶座时代", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "不明飞行物学", path = "/wiki/ufology/" },
     { title = "外星生物学的军事隐瞒", path = "/wiki/military-cover-up-of-exobiology/" },
     { title = "耶洛因", path = "/wiki/elohim/" },
@@ -36,7 +37,7 @@ sources = [
 
 ## 公布了什么
 
-2026年8月7日——距第四批材料公布四周——美国战争部在 war.gov/UFO 发布了**总统不明异常现象遭遇启封与报告系统(PURSUE)**项下的第五批解密档案。据媒体统计,本批次包含 **41份文件**——文档、图像与视频——材料取自五角大楼、联邦调查局与中央情报局,并有两个首次出现在该计划中的机构加入:**国务院**与**总统行政办公室**。
+2026年8月7日——距第四批材料公布四周——美国战争部在 war.gov/UFO 发布了**[总统不明异常现象遭遇启封与报告系统(PURSUE)](/wiki/pursue/)**项下的第五批解密档案。据媒体统计,本批次包含 **41份文件**——文档、图像与视频——材料取自五角大楼、联邦调查局与中央情报局,并有两个首次出现在该计划中的机构加入:**国务院**与**总统行政办公室**。
 
 这一对新增机构正是本批次的结构特征。第三批引入了民事情报与执法机构;第四批引入了核武器综合体的守护者;第五批则将该计划的机构边界延伸至外交系统与白宫自身的档案——具体而言,延伸至**国家航空航天委员会(National Aeronautics and Space Council)**所持有的一份档案。该委员会是1958年至1973年间设于总统行政办公室之内的太空政策机构。
 

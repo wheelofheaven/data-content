@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Era de Acuario", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufología", path = "/wiki/ufology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
     { title = "Hipótesis de los Antiguos Astronautas", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -35,7 +36,7 @@ sources = [
 
 ## Lo que se publicó
 
-En la mañana del 8 de mayo de 2026, el Departamento de Guerra de los Estados Unidos — el departamento del gabinete renombrado, antes conocido como Departamento de Defensa — abrió un portal público en **war.gov/UFO** y publicó la primera entrega de registros desclasificados, fotografías y vídeo procedentes de los fondos del gobierno federal sobre Fenómenos Anómalos No Identificados (UAP). El portal es la cara pública de un programa multiagencia denominado **Presidential Unsealing and Reporting System for UAP Encounters** (Sistema Presidencial de Desclasificación y Notificación de Encuentros UAP), abreviado PURSUE, que opera bajo la dirección de la Oficina del Director de Inteligencia Nacional (ODNI) y que coordina, según la propia descripción del Departamento, « decenas de agencias y la revisión de decenas de millones de registros, muchos de los cuales existen solo en papel, abarcando muchas décadas ».
+En la mañana del 8 de mayo de 2026, el Departamento de Guerra de los Estados Unidos — el departamento del gabinete renombrado, antes conocido como Departamento de Defensa — abrió un portal público en **war.gov/UFO** y publicó la primera entrega de registros desclasificados, fotografías y vídeo procedentes de los fondos del gobierno federal sobre Fenómenos Anómalos No Identificados (UAP). El portal es la cara pública de un programa multiagencia denominado **[Presidential Unsealing and Reporting System for UAP Encounters](/wiki/pursue/)** (Sistema Presidencial de Desclasificación y Notificación de Encuentros UAP), abreviado PURSUE, que opera bajo la dirección de la Oficina del Director de Inteligencia Nacional (ODNI) y que coordina, según la propia descripción del Departamento, « decenas de agencias y la revisión de decenas de millones de registros, muchos de los cuales existen solo en papel, abarcando muchas décadas ».
 
 La Publicación 01 contiene imágenes e informes extraídos de:
 

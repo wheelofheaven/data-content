@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §III and §IX"
 canon_links = [
     { title = "Âge du Verseau", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Apocalypse", path = "/wiki/apocalypse/" },
     { title = "Ufologie", path = "/wiki/ufology/" },
     { title = "Élohim", path = "/wiki/elohim/" },
@@ -34,7 +35,7 @@ sources = [
 
 ## Ce qui a été publié
 
-Le 10 juillet 2026 — quatre semaines après le Communiqué 03 — le Département de la Guerre des États-Unis a publié la quatrième tranche de documents déclassifiés au titre du **Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)** sur war.gov/UFO. Le communiqué contient **40 fichiers : 14 documents, 19 vidéos, 4 enregistrements audio et 3 images**, tirés du Département de la Guerre, de la NASA, de la CIA, du FBI et — apparaissant comme contributeur nommé pour la première fois — du **Département de l'Énergie**.
+Le 10 juillet 2026 — quatre semaines après le Communiqué 03 — le Département de la Guerre des États-Unis a publié la quatrième tranche de documents déclassifiés au titre du **[Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)](/wiki/pursue/)** sur war.gov/UFO. Le communiqué contient **40 fichiers : 14 documents, 19 vidéos, 4 enregistrements audio et 3 images**, tirés du Département de la Guerre, de la NASA, de la CIA, du FBI et — apparaissant comme contributeur nommé pour la première fois — du **Département de l'Énergie**.
 
 Ce dernier ajout est le trait structurel déterminant de la tranche. Là où la nouvelle du Communiqué 03 était l'arrivée des agences civiles de renseignement et de maintien de l'ordre, celle du Communiqué 04 est l'arrivée du **gardien du complexe d'armes nucléaires de la nation**. Et les deux fichiers que le Département et la couverture grand public mettent en avant prennent tous deux ce complexe pour cadre.
 

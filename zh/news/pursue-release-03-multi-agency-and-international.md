@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "水瓶座时代", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "不明飞行物学", path = "/wiki/ufology/" },
     { title = "耶洛因", path = "/wiki/elohim/" },
     { title = "古代宇航员假说", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -32,7 +33,7 @@ sources = [
 
 ## 公布了什么
 
-2026年6月12日——距第二批材料公布三周、距项目启动五周——美国战争部在 war.gov/UFO 发布了**总统不明异常现象遭遇启封与报告系统(PURSUE)**项下的第三批解密档案。本批次包含 **53份文件、10幅数字渲染图、6段视频与3段 NASA 音频**。战争部在项目启动时承诺的发布节奏,已在三次实例中得到延续。
+2026年6月12日——距第二批材料公布三周、距项目启动五周——美国战争部在 war.gov/UFO 发布了**[总统不明异常现象遭遇启封与报告系统(PURSUE)](/wiki/pursue/)**项下的第三批解密档案。本批次包含 **53份文件、10幅数字渲染图、6段视频与3段 NASA 音频**。战争部在项目启动时承诺的发布节奏,已在三次实例中得到延续。
 
 第三批在一个关键层面与前两批存在结构性差异:这是 PURSUE 首次从**多个联邦机构**取材发布,而不再仅限于国防部所持档案。战争部点名**中央情报局、联邦调查局、NASA 与五角大楼**为本次贡献机构。NASA 的贡献是该项目首次将音频材料置入公开记录。联邦调查局的贡献则在军事传感器数据之外引入了民事执法层面的报告。中央情报局的贡献则将该项目的机构触及面延伸至历史上与最深层级机密 UAP 材料关联最为紧密的那家机构。
 

@@ -16,6 +16,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Age of Aquarius", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufology", path = "/wiki/ufology/" },
     { title = "Military Cover-up of Exobiology", path = "/wiki/military-cover-up-of-exobiology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
@@ -38,7 +39,7 @@ sources = [
 
 ## What was released
 
-On August 7, 2026 — four weeks after Release 04 — the United States Department of War posted the fifth tranche of declassified records under the **Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)** at war.gov/UFO. By press tally the release contains **41 files** — documents, images, and videos — from the Pentagon, the FBI, and the CIA, joined by two agencies appearing in the program for the first time: the **Department of State** and the **Executive Office of the President**.
+On August 7, 2026 — four weeks after Release 04 — the United States Department of War posted the fifth tranche of declassified records under the **[Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)](/wiki/pursue/)** at war.gov/UFO. By press tally the release contains **41 files** — documents, images, and videos — from the Pentagon, the FBI, and the CIA, joined by two agencies appearing in the program for the first time: the **Department of State** and the **Executive Office of the President**.
 
 That pair is the tranche's structural feature. Release 03 brought in the civilian intelligence and law-enforcement agencies; Release 04 brought in the custodian of the nuclear-weapons complex. Release 05 extends the program's institutional perimeter to the diplomatic apparatus and to the White House's own records — specifically, to a file held by the **National Aeronautics and Space Council**, the space-policy body that sat inside the Executive Office of the President from 1958 to 1973.
 

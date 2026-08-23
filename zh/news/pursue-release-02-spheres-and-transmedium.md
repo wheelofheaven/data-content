@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "水瓶座时代", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "不明飞行物学", path = "/wiki/ufology/" },
     { title = "耶洛因", path = "/wiki/elohim/" },
     { title = "古代宇航员假说", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -33,7 +34,7 @@ sources = [
 
 ## 公布了什么
 
-2026年5月22日——距首批材料公布恰好两周——美国战争部在 war.gov/UFO 发布了**总统不明异常现象遭遇启封与报告系统(PURSUE)**项下的第二批解密档案。新批次包含逾五十项此前列为机密的内容,其中四十余项为视频。战争部在项目启动时承诺的"每隔数周"滚动发布的节奏,得到了兑现。
+2026年5月22日——距首批材料公布恰好两周——美国战争部在 war.gov/UFO 发布了**[总统不明异常现象遭遇启封与报告系统(PURSUE)](/wiki/pursue/)**项下的第二批解密档案。新批次包含逾五十项此前列为机密的内容,其中四十余项为视频。战争部在项目启动时承诺的"每隔数周"滚动发布的节奏,得到了兑现。
 
 第二批材料在三个方面与第一批存在实质性差别:影像清晰度显著提升;案例构成更多来自现役军事平台的传感器记录,而非档案静态影像;并且首次包含一段**非热成像、全彩色**的不明物体视频。战争部及主流媒体提及的代表性案例包括:
 

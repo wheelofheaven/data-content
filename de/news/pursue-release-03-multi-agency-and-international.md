@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Wassermann-Zeitalter", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufologie", path = "/wiki/ufology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
     { title = "Prä-Astronautik-Hypothese", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -32,7 +33,7 @@ sources = [
 
 ## Was veröffentlicht wurde
 
-Am 12. Juni 2026 – drei Wochen nach Veröffentlichung 02 und fünf Wochen nach dem Start des Programms – stellte das Department of War der Vereinigten Staaten die dritte Tranche freigegebener Akten im Rahmen des **Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)** auf war.gov/UFO online. Die Veröffentlichung enthält **53 Dokumente, 10 digitale Renderings, 6 Videos und 3 NASA-Audioaufnahmen**. Der Rhythmus, den das Department beim Start zugesagt hatte, ist über drei Instanzen hinweg eingehalten worden.
+Am 12. Juni 2026 – drei Wochen nach Veröffentlichung 02 und fünf Wochen nach dem Start des Programms – stellte das Department of War der Vereinigten Staaten die dritte Tranche freigegebener Akten im Rahmen des **[Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)](/wiki/pursue/)** auf war.gov/UFO online. Die Veröffentlichung enthält **53 Dokumente, 10 digitale Renderings, 6 Videos und 3 NASA-Audioaufnahmen**. Der Rhythmus, den das Department beim Start zugesagt hatte, ist über drei Instanzen hinweg eingehalten worden.
 
 Veröffentlichung 03 unterscheidet sich strukturell in einer entscheidenden Hinsicht von den ersten beiden Tranchen: Sie ist die erste PURSUE-Veröffentlichung, die Material von **mehreren Bundesbehörden** und nicht ausschließlich aus DoD-Beständen schöpft. Das Department of War nennt **CIA, FBI, NASA und das Pentagon** als beitragende Behörden. NASAs Beitrag ist das erste Audiomaterial, das das Programm in die öffentliche Aktenlage gebracht hat. Der Beitrag des FBI führt zivile Strafverfolgungsmeldungen neben militärischen Sensordaten ein. Der Beitrag der CIA erweitert die institutionelle Reichweite des Programms auf die Behörde, die historisch am stärksten mit der tiefsten Stufe klassifizierten UAP-Materials in Verbindung gebracht wird.
 

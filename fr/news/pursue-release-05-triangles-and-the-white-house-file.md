@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Âge du Verseau", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufologie", path = "/wiki/ufology/" },
     { title = "Dissimulation militaire de l'exobiologie", path = "/wiki/military-cover-up-of-exobiology/" },
     { title = "Élohim", path = "/wiki/elohim/" },
@@ -36,7 +37,7 @@ sources = [
 
 ## Ce qui a été publié
 
-Le 7 août 2026 — quatre semaines après le Communiqué 04 — le Département de la Guerre des États-Unis a publié la cinquième tranche de documents déclassifiés au titre du **Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)** sur war.gov/UFO. Selon le décompte de la presse, le communiqué contient **41 fichiers** — documents, images et vidéos — provenant du Pentagone, du FBI et de la CIA, rejoints par deux agences qui apparaissent dans le programme pour la première fois : le **Département d'État** et le **Bureau exécutif du président** (Executive Office of the President).
+Le 7 août 2026 — quatre semaines après le Communiqué 04 — le Département de la Guerre des États-Unis a publié la cinquième tranche de documents déclassifiés au titre du **[Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)](/wiki/pursue/)** sur war.gov/UFO. Selon le décompte de la presse, le communiqué contient **41 fichiers** — documents, images et vidéos — provenant du Pentagone, du FBI et de la CIA, rejoints par deux agences qui apparaissent dans le programme pour la première fois : le **Département d'État** et le **Bureau exécutif du président** (Executive Office of the President).
 
 Cette paire est le trait structurel de la tranche. Le Communiqué 03 a fait entrer les agences civiles de renseignement et de maintien de l'ordre ; le Communiqué 04, le gardien du complexe d'armes nucléaires. Le Communiqué 05 étend le périmètre institutionnel du programme à l'appareil diplomatique et aux propres archives de la Maison-Blanche — plus précisément, à un dossier détenu par le **National Aeronautics and Space Council**, l'organe de politique spatiale qui a siégé au sein du Bureau exécutif du président de 1958 à 1973.
 

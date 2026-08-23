@@ -14,6 +14,7 @@ filed_under = "가속의 징후"
 cross_reference = "물병자리 시대, §IX"
 canon_links = [
     { title = "물병자리 시대", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "UFO학", path = "/wiki/ufology/" },
     { title = "엘로힘", path = "/wiki/elohim/" },
     { title = "고대 우주인 가설", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -35,7 +36,7 @@ sources = [
 
 ## 공개된 내용
 
-2026년 5월 8일 오전, 미국 전쟁부 — 이전에 국방부로 알려져 있던 명칭이 변경된 내각 부처 — 는 **war.gov/UFO**라는 공공 포털을 개설하고, 미확인 변칙 현상(UAP)에 관한 연방정부 보유 자료에서 기밀 해제된 기록, 사진, 영상의 첫 번째 묶음을 게시하였습니다. 이 포털은 **UAP 조우에 관한 대통령 봉인 해제 및 보고 시스템(Presidential Unsealing and Reporting System for UAP Encounters)** — 약칭 PURSUE — 이라는 다기관 프로그램의 공개적 표면이며, 국가정보국장실(ODNI)의 지휘 하에 운영되고, 전쟁부 자체의 표현에 따르면 "수십 개 기관과 수천만 건의 기록 — 그 다수는 종이로만 존재하며 수십 년에 걸친 — 의 검토"를 조정합니다.
+2026년 5월 8일 오전, 미국 전쟁부 — 이전에 국방부로 알려져 있던 명칭이 변경된 내각 부처 — 는 **war.gov/UFO**라는 공공 포털을 개설하고, 미확인 변칙 현상(UAP)에 관한 연방정부 보유 자료에서 기밀 해제된 기록, 사진, 영상의 첫 번째 묶음을 게시하였습니다. 이 포털은 **[UAP 조우에 관한 대통령 봉인 해제 및 보고 시스템(Presidential Unsealing and Reporting System for UAP Encounters)](/wiki/pursue/)** — 약칭 PURSUE — 이라는 다기관 프로그램의 공개적 표면이며, 국가정보국장실(ODNI)의 지휘 하에 운영되고, 전쟁부 자체의 표현에 따르면 "수십 개 기관과 수천만 건의 기록 — 그 다수는 종이로만 존재하며 수십 년에 걸친 — 의 검토"를 조정합니다.
 
 1차 공개에는 다음에서 추출된 영상과 보고가 포함되어 있습니다:
 

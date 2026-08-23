@@ -18,6 +18,7 @@ alternative_names = ["ufology", "UAP studies (contemporary policy designation)",
 timeline = ["age-of-pisces", "age-of-aquarius"]
 see_also = [
     { title = "Military cover-up of exobiology", path = "wiki/military-cover-up-of-exobiology", description = "The government-secrecy and disclosure question that runs through modern ufology." },
+    { title = "PURSUE", path = "wiki/pursue", description = "The 2026 U.S. government program releasing unresolved UAP records at war.gov/UFO — the field's current institutional development." },
     { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The historical past-contact tradition ufology sits beside and is often confused with." },
     { title = "Ezekiel", path = "wiki/ezekiel", description = "The chariot vision the framework reads as a pre-modern Elohim-craft encounter." },
     { title = "Astrobiology", path = "wiki/astrobiology", description = "The mainstream science of extraterrestrial life, distinct from ufology's investigation of sightings." },
@@ -239,6 +240,7 @@ are different questions.
 
 - [Wheel of Heaven](../wheel-of-heaven/)
 - [Military cover-up of exobiology](../military-cover-up-of-exobiology/)
+- [PURSUE](../pursue/)
 - [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
 - [Astrobiology](../astrobiology/)
 - [Comparative Mythology](../comparative-mythology/)

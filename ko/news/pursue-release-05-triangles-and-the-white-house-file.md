@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "물병자리 시대", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "UFO학", path = "/wiki/ufology/" },
     { title = "외계 생물학에 대한 군사적 은폐", path = "/wiki/military-cover-up-of-exobiology/" },
     { title = "엘로힘", path = "/wiki/elohim/" },
@@ -36,7 +37,7 @@ sources = [
 
 ## 무엇이 공개되었는가
 
-2026년 8월 7일 — 제4차 공개로부터 4주가 지난 시점에 — 미국 전쟁부는 **UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters, PURSUE)**에 따라 기밀이 해제된 다섯 번째 기록물 자료군을 war.gov/UFO에 게시했습니다. 언론 집계에 따르면 이번 공개에는 전쟁부, FBI, CIA에서 가져온 **41건의 파일** — 문서, 이미지, 영상 — 이 포함되며, 프로그램에 처음으로 등장하는 두 기관, 곧 **국무부(Department of State)**와 **대통령실(Executive Office of the President)**이 여기에 합류합니다.
+2026년 8월 7일 — 제4차 공개로부터 4주가 지난 시점에 — 미국 전쟁부는 **[UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters, PURSUE)](/wiki/pursue/)**에 따라 기밀이 해제된 다섯 번째 기록물 자료군을 war.gov/UFO에 게시했습니다. 언론 집계에 따르면 이번 공개에는 전쟁부, FBI, CIA에서 가져온 **41건의 파일** — 문서, 이미지, 영상 — 이 포함되며, 프로그램에 처음으로 등장하는 두 기관, 곧 **국무부(Department of State)**와 **대통령실(Executive Office of the President)**이 여기에 합류합니다.
 
 바로 이 한 쌍이 이번 자료군의 구조적 특징입니다. 제3차 공개가 민간 정보기관과 법집행기관을 불러들였고, 제4차 공개가 핵무기 복합체의 관리 주체를 불러들였다면, 제5차 공개는 프로그램의 제도적 경계를 외교 기구와 백악관 자체의 기록으로 — 구체적으로는, 1958년부터 1973년까지 대통령실 안에 자리했던 우주정책 기구인 **국가항공우주위원회(National Aeronautics and Space Council)**가 보유하던 파일로 — 확장합니다.
 

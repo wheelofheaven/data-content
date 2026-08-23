@@ -14,6 +14,7 @@ filed_under = "가속화의 징후"
 cross_reference = "물병자리 시대, 제IX장"
 canon_links = [
     { title = "물병자리 시대", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "UFO학", path = "/wiki/ufology/" },
     { title = "엘로힘", path = "/wiki/elohim/" },
     { title = "고대 우주인 가설", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -32,7 +33,7 @@ sources = [
 
 ## 무엇이 공개되었는가
 
-2026년 6월 12일 — 제2차 공개로부터 3주, 본 프로그램 출범으로부터 5주가 지난 시점에 — 미국 전쟁부는 **UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters, PURSUE)**에 따라 기밀이 해제된 세 번째 기록물 자료군을 war.gov/UFO에 게시했습니다. 이번 공개에는 **53건의 문서, 10건의 디지털 렌더링, 6편의 영상, 그리고 3건의 NASA 음성 녹음**이 포함됩니다. 출범 당시 국방부가 약속한 발표 주기가 세 차례의 사례에 걸쳐 유지되어 온 셈입니다.
+2026년 6월 12일 — 제2차 공개로부터 3주, 본 프로그램 출범으로부터 5주가 지난 시점에 — 미국 전쟁부는 **[UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters, PURSUE)](/wiki/pursue/)**에 따라 기밀이 해제된 세 번째 기록물 자료군을 war.gov/UFO에 게시했습니다. 이번 공개에는 **53건의 문서, 10건의 디지털 렌더링, 6편의 영상, 그리고 3건의 NASA 음성 녹음**이 포함됩니다. 출범 당시 국방부가 약속한 발표 주기가 세 차례의 사례에 걸쳐 유지되어 온 셈입니다.
 
 제3차 공개는 한 가지 결정적인 측면에서 앞선 두 자료군과 구조적으로 구별됩니다. 국방부 보유 자료에만 기대지 않고 **여러 연방 부처**에서 자료를 끌어온 최초의 PURSUE 공개라는 점입니다. 전쟁부는 **CIA, FBI, NASA, 그리고 국방부**를 기여 부처로 명시했습니다. NASA의 기여분은 본 프로그램이 공개 기록에 올린 최초의 음성 자료입니다. FBI의 기여분은 군 센서 데이터와 더불어 민간 법집행 분야의 보고를 도입합니다. CIA의 기여분은 가장 깊은 등급의 기밀 UAP 자료와 역사적으로 가장 결부된 것으로 알려진 부처에까지 본 프로그램의 제도적 손길을 확장합니다.
 

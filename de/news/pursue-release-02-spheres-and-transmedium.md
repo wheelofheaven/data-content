@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Wassermann-Zeitalter", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufologie", path = "/wiki/ufology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
     { title = "Prä-Astronautik-Hypothese", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -33,7 +34,7 @@ sources = [
 
 ## Was veröffentlicht wurde
 
-Am 22. Mai 2026 – auf den Tag genau zwei Wochen nach der Eröffnungstranche – stellte das Department of War der Vereinigten Staaten die zweite Veröffentlichung freigegebener Akten im Rahmen des **Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)** auf war.gov/UFO online. Die neue Charge enthält mehr als fünfzig zuvor klassifizierte Dokumente, von denen über vierzig Videos sind. Der Rhythmus, den das Department beim Start zugesagt hatte – fortlaufende Tranchen „alle paar Wochen" –, wurde eingehalten.
+Am 22. Mai 2026 – auf den Tag genau zwei Wochen nach der Eröffnungstranche – stellte das Department of War der Vereinigten Staaten die zweite Veröffentlichung freigegebener Akten im Rahmen des **[Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)](/wiki/pursue/)** auf war.gov/UFO online. Die neue Charge enthält mehr als fünfzig zuvor klassifizierte Dokumente, von denen über vierzig Videos sind. Der Rhythmus, den das Department beim Start zugesagt hatte – fortlaufende Tranchen „alle paar Wochen" –, wurde eingehalten.
 
 Veröffentlichung 02 unterscheidet sich in drei Hinsichten substanziell von Veröffentlichung 01: Die Bildmaterialien sind deutlich klarer, die Fallzusammensetzung tendiert eher zu Sensoraufnahmen aktiver militärischer Plattformen als zu Archivstandbildern, und die Veröffentlichung enthält erstmals ein **nicht-thermisches Video in voller Farbe** eines nicht identifizierten Objekts. Zu den vom Department und in der allgemeinen Berichterstattung benannten bemerkenswerten Dokumenten gehören:
 

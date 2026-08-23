@@ -16,6 +16,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Age of Aquarius", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Ufology", path = "/wiki/ufology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
     { title = "Ancient Astronaut Hypothesis", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -37,7 +38,7 @@ sources = [
 
 ## What was released
 
-On the morning of May 8, 2026, the United States Department of War — the renamed cabinet department formerly known as the Department of Defense — opened a public portal at **war.gov/UFO** and posted the first tranche of declassified records, photographs, and video from the federal government's holdings on Unidentified Anomalous Phenomena (UAP). The portal is the public face of a multi-agency program designated the **Presidential Unsealing and Reporting System for UAP Encounters**, abbreviated PURSUE, operating under direction of the Office of the Director of National Intelligence (ODNI) and coordinating, by the Department's own description, "dozens of agencies and the review of tens of millions of records, many existing only on paper, spanning many decades."
+On the morning of May 8, 2026, the United States Department of War — the renamed cabinet department formerly known as the Department of Defense — opened a public portal at **war.gov/UFO** and posted the first tranche of declassified records, photographs, and video from the federal government's holdings on Unidentified Anomalous Phenomena (UAP). The portal is the public face of a multi-agency program designated the **[Presidential Unsealing and Reporting System for UAP Encounters](/wiki/pursue/)**, abbreviated PURSUE, operating under direction of the Office of the Director of National Intelligence (ODNI) and coordinating, by the Department's own description, "dozens of agencies and the review of tens of millions of records, many existing only on paper, spanning many decades."
 
 Release 01 contains imagery and reporting drawn from:
 

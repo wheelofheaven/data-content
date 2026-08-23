@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "水瓶座時代", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "不明飛行物學", path = "/wiki/ufology/" },
     { title = "耶洛因", path = "/wiki/elohim/" },
     { title = "古代宇航員假說", path = "/wiki/ancient-astronaut-hypothesis/" },
@@ -32,7 +33,7 @@ sources = [
 
 ## 此次公布的內容
 
-2026 年 6 月 12 日——距第二批解密三週、距該計畫啟動五週之後——美國戰爭部在 war.gov/UFO 公布了**「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters,PURSUE)**下第三批解密檔案。本批包含 **53 份文件、10 幅數位繪製圖、6 段影片,以及 3 段 NASA 音訊紀錄**。戰爭部於計畫啟動時所承諾的節奏,已連續維持三次。
+2026 年 6 月 12 日——距第二批解密三週、距該計畫啟動五週之後——美國戰爭部在 war.gov/UFO 公布了**[「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters,PURSUE)](/wiki/pursue/)**下第三批解密檔案。本批包含 **53 份文件、10 幅數位繪製圖、6 段影片,以及 3 段 NASA 音訊紀錄**。戰爭部於計畫啟動時所承諾的節奏,已連續維持三次。
 
 第三批與前兩批在一項關鍵特徵上有結構性差異:這是 PURSUE 首批不再僅汲自國防部館藏,而是匯集**多個聯邦機關**材料的公布。戰爭部點名 **CIA、FBI、NASA 及五角大廈**為共同提供機關。NASA 所提供的,是該計畫首度納入公開紀錄的音訊材料;FBI 所提供的,則將民事執法部門的通報與軍方感測器資料並列;CIA 所提供的,將該計畫的制度觸角延伸至歷史上與最深層機密 UAP 材料關聯最深的機關。
 

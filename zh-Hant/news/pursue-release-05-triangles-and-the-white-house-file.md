@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "水瓶座時代", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "不明飛行物學", path = "/wiki/ufology/" },
     { title = "外星生物學的軍事隱瞞", path = "/wiki/military-cover-up-of-exobiology/" },
     { title = "耶洛因", path = "/wiki/elohim/" },
@@ -36,7 +37,7 @@ sources = [
 
 ## 此次公布的內容
 
-2026 年 8 月 7 日——距第四批解密四週之後——美國戰爭部在 war.gov/UFO 公布了**「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters,PURSUE)**下第五批解密紀錄。依媒體統計,本批包含 **41 份檔案**——文件、影像與影片——來自五角大廈、FBI 與 CIA,並由兩個首度現身於本計畫的機關共同提供:**國務院(Department of State)**與**總統行政辦公室(Executive Office of the President)**。
+2026 年 8 月 7 日——距第四批解密四週之後——美國戰爭部在 war.gov/UFO 公布了**[「總統 UAP 接觸啟封與通報系統」(Presidential Unsealing and Reporting System for UAP Encounters,PURSUE)](/wiki/pursue/)**下第五批解密紀錄。依媒體統計,本批包含 **41 份檔案**——文件、影像與影片——來自五角大廈、FBI 與 CIA,並由兩個首度現身於本計畫的機關共同提供:**國務院(Department of State)**與**總統行政辦公室(Executive Office of the President)**。
 
 這一對新增者,正是本批解密的結構特徵。第三批引入了民事情報與執法機關;第四批引入了核武複合體的看管者。第五批則將本計畫的制度邊界,延伸至外交機構,以及白宮自身的紀錄——具體而言,延伸至**國家航空暨太空委員會(National Aeronautics and Space Council)**所持有的一份檔案;該委員會是 1958 至 1973 年間設於總統行政辦公室之內的太空政策機構。
 

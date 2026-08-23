@@ -16,6 +16,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §III and §IX"
 canon_links = [
     { title = "Age of Aquarius", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Apocalypse", path = "/wiki/apocalypse/" },
     { title = "Ufology", path = "/wiki/ufology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
@@ -36,7 +37,7 @@ sources = [
 
 ## What was released
 
-On July 10, 2026 — four weeks after Release 03 — the United States Department of War posted the fourth tranche of declassified records under the **Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)** at war.gov/UFO. The release contains **40 files: 14 documents, 19 videos, 4 audio recordings, and 3 images**, drawn from the War Department, NASA, the CIA, the FBI, and — appearing as a named contributor for the first time — the **Department of Energy**.
+On July 10, 2026 — four weeks after Release 03 — the United States Department of War posted the fourth tranche of declassified records under the **[Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)](/wiki/pursue/)** at war.gov/UFO. The release contains **40 files: 14 documents, 19 videos, 4 audio recordings, and 3 images**, drawn from the War Department, NASA, the CIA, the FBI, and — appearing as a named contributor for the first time — the **Department of Energy**.
 
 That last addition is the tranche's defining structural feature. Where Release 03's news was the arrival of the civilian intelligence and law-enforcement agencies, Release 04's is the arrival of the **custodian of the nation's nuclear-weapons complex**. And the two files the Department and mainstream coverage lead with both take that complex as their setting.
 

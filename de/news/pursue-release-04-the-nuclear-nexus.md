@@ -14,6 +14,7 @@ filed_under = "Signs of Acceleration"
 cross_reference = "Age of Aquarius, §III and §IX"
 canon_links = [
     { title = "Wassermann-Zeitalter", path = "/timeline/age-of-aquarius/" },
+    { title = "PURSUE", path = "/wiki/pursue/" },
     { title = "Apokalypse", path = "/wiki/apocalypse/" },
     { title = "Ufologie", path = "/wiki/ufology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
@@ -34,7 +35,7 @@ sources = [
 
 ## Was veröffentlicht wurde
 
-Am 10. Juli 2026 – vier Wochen nach Veröffentlichung 03 – stellte das Department of War der Vereinigten Staaten die vierte Tranche freigegebener Akten im Rahmen des **Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)** auf war.gov/UFO online. Die Veröffentlichung enthält **40 Akten: 14 Dokumente, 19 Videos, 4 Audioaufnahmen und 3 Bilder**, aus dem Kriegsministerium, der NASA, der CIA, dem FBI und – erstmals als namentlich genannter Beitragender auftretend – dem **Department of Energy**.
+Am 10. Juli 2026 – vier Wochen nach Veröffentlichung 03 – stellte das Department of War der Vereinigten Staaten die vierte Tranche freigegebener Akten im Rahmen des **[Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)](/wiki/pursue/)** auf war.gov/UFO online. Die Veröffentlichung enthält **40 Akten: 14 Dokumente, 19 Videos, 4 Audioaufnahmen und 3 Bilder**, aus dem Kriegsministerium, der NASA, der CIA, dem FBI und – erstmals als namentlich genannter Beitragender auftretend – dem **Department of Energy**.
 
 Diese letzte Ergänzung ist das prägende strukturelle Merkmal der Tranche. Wo die Nachricht von Veröffentlichung 03 die Ankunft der zivilen Geheimdienst- und Strafverfolgungsbehörden war, ist die von Veröffentlichung 04 die Ankunft des **Verwalters des nationalen Nuklearwaffenkomplexes**. Und die beiden Akten, die das Department und die allgemeine Berichterstattung anführen, nehmen beide diesen Komplex zum Schauplatz.
 
