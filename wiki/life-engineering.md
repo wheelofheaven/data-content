@@ -15,6 +15,7 @@ core_claim_ids = ["woh-claim-0065"]
 core_versions = { woh-claim-0065 = "0.1.0" }
 alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "Bioengineering of life", "Living-systems engineering"]
 see_also = [
+    { title = "Genesis Toolbox", path = "wiki/genesis-toolbox", description = "The program-level synthesis: life engineering as the central phase of the canon's creation stack." },
     { title = "Synthetic biology", path = "wiki/synthetic-biology", description = "The most ambitious wing of the field, the standard disciplinary name for what the corpus calls life engineering." },
     { title = "Genetic engineering", path = "wiki/genetic-engineering", description = "The foundational read-write-edit sub-discipline within the life-engineering umbrella." },
     { title = "Synthetic genomics", path = "wiki/synthetic-genomics", description = "The genome-scale design and synthesis component of the emerging human capacity." },
@@ -357,6 +358,7 @@ The framework's reading is consistent with the direction of Ball's argument. The
 
 ## See also
 
+- [Genesis Toolbox](../genesis-toolbox/)
 - [Genesis](../genesis/)
 - [Genetic engineering](../genetic-engineering/)
 - [Synthetic biology](../synthetic-biology/)

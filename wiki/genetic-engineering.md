@@ -16,6 +16,7 @@ core_versions = { woh-claim-0065 = "0.1.0" }
 alternative_names = ["Genetic modification", "Gene splicing (historical informal usage)", "Recombinant DNA technology (the foundational subdomain)", "Genome editing (the contemporary CRISPR-era subdomain)"]
 timeline = ["aquarius"]
 see_also = [
+    { title = "Genesis Toolbox", path = "wiki/genesis-toolbox", description = "The program-level synthesis assembling the full creation stack this discipline is one component of." },
     { title = "Life engineering", path = "wiki/life-engineering", description = "The umbrella concept organizing genetic engineering and its sister disciplines within the framework." },
     { title = "Synthetic biology", path = "wiki/synthetic-biology", description = "The engineering-discipline field that overlaps and extends genetic engineering." },
     { title = "Synthetic genomics", path = "wiki/synthetic-genomics", description = "The genome-scale design and synthesis field spawned from genetic engineering." },
@@ -241,6 +242,7 @@ and on whether the answer is written in the genome or in the texts.
 
 ## See also
 
+- [Genesis Toolbox](../genesis-toolbox/)
 - [Life engineering](../life-engineering/)
 - [Synthetic biology](../synthetic-biology/)
 - [Synthetic genomics](../synthetic-genomics/)

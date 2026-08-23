@@ -15,6 +15,7 @@ core_claim_ids = ["woh-claim-0065"]
 core_versions = { woh-claim-0065 = "0.1.0" }
 alternative_names = ["Engineering biology", "Constructive biology", "Designed biology", "SynBio"]
 see_also = [
+    { title = "Genesis Toolbox", path = "wiki/genesis-toolbox", description = "The program-level synthesis: the canon's creation stack, of which this discipline is the closest modern match." },
     { title = "Life engineering", path = "wiki/life-engineering", description = "The umbrella field in which the full convergence argument for synthetic biology is developed." },
     { title = "Genetic engineering", path = "wiki/genetic-engineering", description = "The older field synthetic biology overlaps and extends with genuine engineering-discipline practice." },
     { title = "Synthetic genomics", path = "wiki/synthetic-genomics", description = "The complete-genome sister field synthetic biology overlaps and includes." },
@@ -299,6 +300,7 @@ Within the specific Sendy–Raëlian interpretive tradition that the corpus read
 
 ## See also
 
+- [Genesis Toolbox](../genesis-toolbox/)
 - [Life engineering](../life-engineering/)
 - [Genetic engineering](../genetic-engineering/)
 - [Synthetic genomics](../synthetic-genomics/)

@@ -16,6 +16,7 @@ core_claim_ids = ["woh-claim-0039"]
 core_versions = { woh-claim-0039 = "0.1.0" }
 alternative_names = ["Bereshit", "B'reshit", "First Book of Moses"]
 see_also = [
+    { title = "Genesis Toolbox", path = "wiki/genesis-toolbox", description = "The corpus's assembly of the science and technology the creation account describes in operation." },
     { title = "Elohim", path = "wiki/elohim", description = "The plural creators whose work the first chapter narrates." },
     { title = "Eden", path = "wiki/eden", description = "The garden where the first humans were placed in Genesis 2–3." },
     { title = "Adam and Eve", path = "wiki/adam-and-eve", description = "The first humans of the second creation account." },
@@ -353,6 +354,7 @@ Beyond the immediate Near Eastern context, traditions of creation and flood from
 
 ## See also
 
+- [Genesis Toolbox](../genesis-toolbox/)
 - [Elohim](../elohim/)
 - [Yahweh](../yahweh/)
 - [Hebrew](../hebrew/)

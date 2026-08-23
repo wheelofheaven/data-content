@@ -16,6 +16,7 @@ entry_type = "concept"
 claim_type = "framework"
 alternative_names = ["ID", "Design theory", "Design hypothesis", "Directed design (the Raëlian variant)"]
 see_also = [
+    { title = "Genesis Toolbox", path = "wiki/genesis-toolbox", description = "The framework's answer to the design debate in operational form: designers with a documented toolbox." },
     { title = "Life engineering", path = "wiki/life-engineering", description = "The corpus mechanism by which the Elohim designer is held to have acted." },
     { title = "Synthetic biology", path = "wiki/synthetic-biology", description = "The contemporary discipline the framework treats as recovering the designer's engineering capability." },
     { title = "Synthetic genomics", path = "wiki/synthetic-genomics", description = "The genome-synthesis science the framework reads as continuous with the original design work." },
@@ -261,6 +262,7 @@ genome or in the texts.
 
 ## See also
 
+- [Genesis Toolbox](../genesis-toolbox/)
 - [Elohim](../elohim/)
 - [Genetic engineering](../genetic-engineering/)
 - [Astrobiology](../astrobiology/)

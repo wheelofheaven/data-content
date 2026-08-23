@@ -15,6 +15,7 @@ core_claim_ids = ["woh-claim-0065"]
 core_versions = { woh-claim-0065 = "0.1.0" }
 alternative_names = ["Planetary engineering", "Ecological engineering at planetary scale", "Earth-shaping", "Geoengineering of other worlds"]
 see_also = [
+    { title = "Genesis Toolbox", path = "wiki/genesis-toolbox", description = "The program-level synthesis: terraforming as one phase of the full creation stack the canon describes." },
     { title = "Genesis", path = "wiki/genesis", description = "The text whose first four ages the framework reads as the Elohim terraforming Earth." },
     { title = "Elohim", path = "wiki/elohim", description = "The civilization read as having terraformed Earth before biological synthesis." },
     { title = "Synthetic biology", path = "wiki/synthetic-biology", description = "The adjacent discipline of the biological-synthesis phase that followed the terraforming." },
@@ -286,6 +287,7 @@ Within the specific Sendy–Raëlian interpretive tradition, the framework's rea
 
 ## See also
 
+- [Genesis Toolbox](../genesis-toolbox/)
 - [Genesis](../genesis/)
 - [Life engineering](../life-engineering/)
 - [Synthetic biology](../synthetic-biology/)
