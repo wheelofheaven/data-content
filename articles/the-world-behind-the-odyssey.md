@@ -771,6 +771,7 @@ right, no tradition on Earth was ever able to forget.
 ## Continue reading
 
 - [*The East Face of Homer*](/articles/the-east-face-of-homer/) — the second half of this pair: the corridor of Near Eastern transmission behind the strata excavated here, what the borrowing can and cannot prove, and the canon's reading of Greece inside the Elohimian sphere.
+- [*The Rain Over Helicon*](/articles/the-rain-over-helicon/) — the method audit behind both: how M. L. West grades a comparative case across Hesiod, Homer, poetic craft, and the contact routes, and where documented transmission stops and the framework reading begins.
 - The {% wiki(slug="theomachy") %}Theomachy{% end %} entry develops the corpus's full reading of the battle-of-the-gods pattern, including the Titanomachy and Gigantomachy sections summarised here.
 - [*The Book Closest to the Truth*](/articles/the-book-closest-to-the-truth/) examines the canonical passage (TBWTT 5:54) on which this article's speculative layer rests.
 - [*Watchers and the Nephilim*](/articles/watchers-and-the-nephilim/) treats the human-divine interbreeding material in its biblical and Enochic forms.

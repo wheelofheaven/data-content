@@ -13,7 +13,7 @@ category = "Comparative Mythology"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 core_claim_ids = ["woh-claim-0005", "woh-claim-0006", "woh-claim-0007"]
-core_versions = { woh-claim-0005 = "0.1.0", woh-claim-0006 = "0.1.0", woh-claim-0007 = "0.1.0" }
+core_versions = { woh-claim-0005 = "0.2.0", woh-claim-0006 = "0.1.0", woh-claim-0007 = "0.1.0" }
 summary = "El artículo compañero de *El mundo tras la Odisea* sigue la trinchera hacia el este. La filología dominante ha documentado en detalle cuánto de la poesía y el mito de la Grecia arcaica llegó desde Mesopotamia, Anatolia y el Levante: la propia Odisea mantiene una relación literaria demostrable con la Epopeya de Gilgamesh. Este Explicativo expone esa erudición con toda su fuerza, señala con precisión qué puede y qué no puede probar el préstamo literario acerca de los orígenes de la civilización, y después lee el cuadro entero a través del canon: Grecia como provincia de la misma historia elohimiana que registra el corpus bíblico, nombrada como región de bases de los creadores cuya mitología conserva testimonios y, siglos después de Homero, receptora de emisarios propios."
 keywords = ["Gilgamesh", "Odisea", "Homero", "Próximo Oriente", "Mesopotamia", "revolución orientalizante", "M. L. West", "Daniel", "emisarios", "mitología comparada"]
 references = [
@@ -363,6 +363,7 @@ registros: al este, y hacia abajo.
 ## Seguir leyendo
 
 - [*El mundo tras la Odisea*](/articles/the-world-behind-the-odyssey/) — la primera mitad de este par: la tradición oral, las memorias de la Edad del Bronce y las lecturas de la teomaquia sobre las que se apoya este artículo.
+- [*La lluvia sobre el Helicón*](/articles/the-rain-over-helicon/) — la auditoría del método que hay tras ambos: cómo M. L. West califica un argumento comparativo a través de Hesíodo, Homero, el oficio poético y las rutas de contacto, y dónde se detiene la transmisión documentada y empieza la lectura del marco.
 - La entrada {% wiki(slug="theomachy") %}Teomaquia{% end %} desarrolla el patrón de la batalla de los dioses a través de ocho tradiciones.
 - [*Los Anunnaki y los Elohim*](/articles/anunnaki-and-the-elohim/) realiza el ejercicio de la capa profunda para la propia Mesopotamia.
 - La [tablilla del Diluvio de Gilgamesh](/library/gilgamesh-woh/) y la [Teogonía](/library/theogony-woh/) están disponibles en las propias traducciones del corpus.

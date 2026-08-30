@@ -13,7 +13,7 @@ category = "Comparative Mythology"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 core_claim_ids = ["woh-claim-0005", "woh-claim-0006", "woh-claim-0007"]
-core_versions = { woh-claim-0005 = "0.1.0", woh-claim-0006 = "0.1.0", woh-claim-0007 = "0.1.0" }
+core_versions = { woh-claim-0005 = "0.2.0", woh-claim-0006 = "0.1.0", woh-claim-0007 = "0.1.0" }
 summary = "Das Gegenstück zu *Die Welt hinter der Odyssee* folgt dem Grabungsschnitt nach Osten. Die etablierte Philologie hat im Einzelnen belegt, wie viel der archaischen griechischen Dichtung und Mythologie aus Mesopotamien, Anatolien und der Levante kam — die Odyssee selbst steht in einer nachweisbaren literarischen Beziehung zum Gilgamesch-Epos. Dieser Explainer legt diese Wissenschaft in ihrer eigenen Stärke dar, bestimmt genau, was literarische Entlehnung über die Ursprünge der Zivilisation beweisen kann und was nicht, und liest dann das ganze Bild durch den Kanon: Griechenland als eine Provinz derselben elohimischen Geschichte, die das biblische Korpus verzeichnet — benannt als Region eines Schöpferstützpunkts, deren Mythologie Zeugnisse bewahrt, und, Jahrhunderte nach Homer, Empfängerin eigener Emissäre."
 keywords = ["Gilgamesch", "Odyssee", "Homer", "Alter Orient", "Mesopotamien", "orientalisierende Revolution", "M. L. West", "Daniel", "Emissäre", "vergleichende Mythologie"]
 references = [
@@ -371,6 +371,7 @@ Aufzeichnungen weisen — nach Osten und nach unten.
 ## Weiterlesen
 
 - [*Die Welt hinter der Odyssee*](/articles/the-world-behind-the-odyssey/) — die erste Hälfte dieses Paares: die mündliche Überlieferung, die Erinnerungen der Bronzezeit und die Theomachie-Lesarten, auf denen dieser Artikel aufbaut.
+- [*Der Regen über dem Helikon*](/articles/the-rain-over-helicon/) — die Methodenprüfung hinter beiden: wie M. L. West einen vergleichenden Fall über Hesiod, Homer, die Dichtkunst und die Kontaktwege hinweg abstuft und wo die belegte Übertragung endet und die Lesart des Rahmens beginnt.
 - Der Eintrag {% wiki(slug="theomachy") %}Theomachie{% end %} entfaltet das Muster der Götterschlacht über acht Überlieferungen hinweg.
 - [*Anunnaki und die Elohim*](/articles/anunnaki-and-the-elohim/) führt die Übung an der tiefen Schicht für Mesopotamien selbst durch.
 - Die [Gilgamesch-Fluttafel](/library/gilgamesh-woh/) und die [Theogonie](/library/theogony-woh/) liegen in den eigenen Übersetzungen des Korpus vor.

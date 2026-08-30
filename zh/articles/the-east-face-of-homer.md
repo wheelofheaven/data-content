@@ -13,7 +13,7 @@ category = "Comparative Mythology"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 core_claim_ids = ["woh-claim-0005", "woh-claim-0006", "woh-claim-0007"]
-core_versions = { woh-claim-0005 = "0.1.0", woh-claim-0006 = "0.1.0", woh-claim-0007 = "0.1.0" }
+core_versions = { woh-claim-0005 = "0.2.0", woh-claim-0006 = "0.1.0", woh-claim-0007 = "0.1.0" }
 summary = "*《奥德赛》背后的世界*的姊妹篇，把那道探沟朝东挖了下去。主流语文学已经详尽地记录下来：古风时期的希腊诗歌与神话，有多大一部分是从美索不达米亚、安纳托利亚与黎凡特抵达的——《奥德赛》本身，就与《吉尔伽美什史诗》处在一种可被证明的文学关联之中。本篇解说以这批学术自身的力度把它陈列出来，精确地标出文学借用对于文明的起源能够证明什么、又不能证明什么，然后透过正典来读整幅图景：希腊，是圣经文献所记载的那同一段耶洛因历史中的一个行省——它被指名为创造者基地所在的地区之一，其神话保存着见证；而在荷马之后数个世纪，它又迎来了属于它自己的使者。"
 keywords = ["吉尔伽美什", "奥德赛", "荷马", "近东", "美索不达米亚", "东方化革命", "M. L. 韦斯特", "但以理", "使者", "比较神话学"]
 references = [
@@ -154,6 +154,7 @@ footnotes = [
 ## 延伸阅读
 
 - [*《奥德赛》背后的世界*](/articles/the-world-behind-the-odyssey/)——这一对文章的上半篇：口传传统、青铜时代的记忆，以及本文所倚赖的诸神之战读法。
+- [*赫利孔山上的雨*](/articles/the-rain-over-helicon/)——这两篇背后的方法审计：M. L. 韦斯特如何横跨赫西俄德、荷马、诗艺与接触路线，为一桩比较性的案情分级，以及有文献可证的传递止步于何处、框架性的读法又从何处开始。
 - {% wiki(slug="theomachy") %}神战{% end %}词条展开了横跨八个传统的诸神之战模式。
 - [*阿努纳奇与耶洛因*](/articles/anunnaki-and-the-elohim/)为美索不达米亚自身做了这番深层的功课。
 - [吉尔伽美什洪水泥板](/library/gilgamesh-woh/)与[《神谱》](/library/theogony-woh/)都已有文集自己的译本。

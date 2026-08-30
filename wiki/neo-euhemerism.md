@@ -24,6 +24,7 @@ see_also = [
     { title = "Religion", path = "wiki/religion", description = "The mythological material the method treats as preserved memory of real contact." },
     { title = "The World Behind the Odyssey", path = "/articles/the-world-behind-the-odyssey/", description = "An Explainer that states the category-substitution objection to the method at full strength before applying it to Greek myth." },
     { title = "The East Face of Homer", path = "/articles/the-east-face-of-homer/", description = "The companion Explainer that applies the category-substitution audit to the canon's reading of Daniel's emissaries and the Elohimian sphere." },
+    { title = "The Rain Over Helicon", path = "/articles/the-rain-over-helicon/", description = "The third Greek Explainer, which states the category-substitution objection as a live constraint on the framework rather than a hurdle already cleared." },
 ]
 
 [extra.infobox]

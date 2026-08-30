@@ -795,6 +795,7 @@ olvidar.
 ## Seguir leyendo
 
 - [*El rostro oriental de Homero*](/articles/the-east-face-of-homer/) — la segunda mitad de este par: el corredor de la transmisión próximo-oriental que hay tras los estratos aquí excavados, qué puede y qué no puede probar el préstamo, y la lectura del canon sobre Grecia dentro de la esfera elohimiana.
+- [*La lluvia sobre el Helicón*](/articles/the-rain-over-helicon/) — la auditoría del método que hay tras ambos: cómo M. L. West califica un argumento comparativo a través de Hesíodo, Homero, el oficio poético y las rutas de contacto, y dónde se detiene la transmisión documentada y empieza la lectura del marco.
 - La entrada {% wiki(slug="theomachy") %}Teomaquia{% end %} desarrolla la lectura completa del corpus sobre el patrón de la batalla de los dioses, incluidas las secciones de la Titanomaquia y la Gigantomaquia aquí resumidas.
 - [*El libro más cercano a la verdad*](/articles/the-book-closest-to-the-truth/) examina el pasaje canónico (TBWTT 5:54) sobre el que descansa la capa especulativa de este artículo.
 - [*Los Vigilantes y los Nephilim*](/articles/watchers-and-the-nephilim/) trata el material del cruce entre humanos y divinidades en sus formas bíblicas y enóquicas.

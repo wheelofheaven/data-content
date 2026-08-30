@@ -24,6 +24,7 @@ see_also = [
     { title = "Dragons", path = "wiki/dragons", description = "The tannin imagery the corpus reads as the pursued exiled creators." },
     { title = "The World Behind the Odyssey", path = "/articles/the-world-behind-the-odyssey/", description = "The Explainer that excavates the Greek strata of the pattern — Homer, Hesiod, and the Anatolian succession myths — before the framework reading." },
     { title = "The East Face of Homer", path = "/articles/the-east-face-of-homer/", description = "The companion Explainer that follows the pattern's eastward strata into Mesopotamia: the documented transmission corridor, and the canon's reading of Greece inside the Elohimian sphere." },
+    { title = "The Rain Over Helicon", path = "/articles/the-rain-over-helicon/", description = "The third Greek Explainer, auditing M. L. West's comparative method: why the divine-combat family holds together historically while its members keep their differences." },
 ]
 
 [extra.infobox]

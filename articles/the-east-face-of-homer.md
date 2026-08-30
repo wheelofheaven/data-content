@@ -13,7 +13,7 @@ category = "Comparative Mythology"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 core_claim_ids = ["woh-claim-0005", "woh-claim-0006", "woh-claim-0007"]
-core_versions = { woh-claim-0005 = "0.1.0", woh-claim-0006 = "0.1.0", woh-claim-0007 = "0.1.0" }
+core_versions = { woh-claim-0005 = "0.2.0", woh-claim-0006 = "0.1.0", woh-claim-0007 = "0.1.0" }
 summary = "The companion to *The World Behind the Odyssey* follows the trench eastward. Mainstream philology has documented, in detail, how much of archaic Greek poetry and myth arrived from Mesopotamia, Anatolia, and the Levant — the Odyssey itself stands in a demonstrable literary relationship with the Epic of Gilgamesh. This Explainer lays out that scholarship at its own strength, marks precisely what literary borrowing can and cannot prove about the origins of civilization, and then reads the whole picture through the canon: Greece as a province of the same Elohimian history the biblical corpus records — named as a creator-base region whose mythology preserves testimonies, and, centuries after Homer, receiving emissaries of its own."
 keywords = ["Gilgamesh", "Odyssey", "Homer", "Near East", "Mesopotamia", "orientalizing revolution", "M. L. West", "Daniel", "emissaries", "comparative mythology"]
 references = [
@@ -354,6 +354,7 @@ east, and down.
 ## Continue reading
 
 - [*The World Behind the Odyssey*](/articles/the-world-behind-the-odyssey/) — the first half of this pair: the oral tradition, the Bronze Age memories, and the theomachy readings this article builds on.
+- [*The Rain Over Helicon*](/articles/the-rain-over-helicon/) — the method audit behind both: how M. L. West grades a comparative case across Hesiod, Homer, poetic craft, and the contact routes, and where documented transmission stops and the framework reading begins.
 - The {% wiki(slug="theomachy") %}Theomachy{% end %} entry develops the battle-of-the-gods pattern across eight traditions.
 - [*Anunnaki and the Elohim*](/articles/anunnaki-and-the-elohim/) performs the deep-layer exercise for Mesopotamia itself.
 - The [Gilgamesh flood tablet](/library/gilgamesh-woh/) and the [Theogony](/library/theogony-woh/) are available in the corpus's own translations.

@@ -13,7 +13,7 @@ category = "Comparative Mythology"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 core_claim_ids = ["woh-claim-0005", "woh-claim-0006", "woh-claim-0007"]
-core_versions = { woh-claim-0005 = "0.1.0", woh-claim-0006 = "0.1.0", woh-claim-0007 = "0.1.0" }
+core_versions = { woh-claim-0005 = "0.2.0", woh-claim-0006 = "0.1.0", woh-claim-0007 = "0.1.0" }
 summary = "Le pendant du *Monde derrière l'Odyssée* poursuit la tranchée vers l'est. La philologie dominante a documenté en détail tout ce que la poésie et le mythe grecs archaïques doivent à la Mésopotamie, à l'Anatolie et au Levant — l'Odyssée elle-même entretient une relation littéraire démontrable avec l'Épopée de Gilgamesh. Cet Explicatif expose cette érudition dans toute sa force, marque précisément ce que l'emprunt littéraire peut et ne peut pas prouver quant aux origines de la civilisation, puis lit l'ensemble du tableau à travers le canon : la Grèce comme province de la même histoire élohimienne que consigne le corpus biblique — nommée parmi les régions abritant des bases de créateurs, dont la mythologie conserve des témoignages, et recevant, des siècles après Homère, ses propres émissaires."
 keywords = ["Gilgamesh", "Odyssée", "Homère", "Proche-Orient", "Mésopotamie", "révolution orientalisante", "M. L. West", "Daniel", "émissaires", "mythologie comparée"]
 references = [
@@ -370,6 +370,7 @@ poursuit là où les registres pointent — vers l'est, et vers le bas.
 ## Poursuivre la lecture
 
 - [*Le monde derrière l'Odyssée*](/articles/the-world-behind-the-odyssey/) — la première moitié de ce diptyque : la tradition orale, les souvenirs de l'âge du bronze et les lectures théomachiques sur lesquelles cet article s'appuie.
+- [*La pluie sur l'Hélicon*](/articles/the-rain-over-helicon/) — l'audit de méthode qui sous-tend les deux : comment M. L. West gradue un dossier comparatif à travers Hésiode, Homère, le métier poétique et les routes de contact, et où s'arrête la transmission documentée et où commence la lecture du cadre.
 - L'entrée {% wiki(slug="theomachy") %}Théomachie{% end %} développe le motif de la bataille des dieux à travers huit traditions.
 - [*Les Anunnaki et les Élohim*](/articles/anunnaki-and-the-elohim/) accomplit l'exercice de la strate profonde pour la Mésopotamie elle-même.
 - La [tablette du déluge de Gilgamesh](/library/gilgamesh-woh/) et la [Théogonie](/library/theogony-woh/) sont disponibles dans les traductions propres du corpus.

@@ -802,6 +802,7 @@ dit vrai, aucune tradition sur Terre ne fut jamais capable d'oublier.
 ## Poursuivre la lecture
 
 - [*La face orientale d'Homère*](/articles/the-east-face-of-homer/) — la seconde moitié de ce diptyque : le corridor de transmission proche-orientale derrière les strates exhumées ici, ce que l'emprunt peut et ne peut pas prouver, et la lecture canonique de la Grèce à l'intérieur de la sphère élohimienne.
+- [*La pluie sur l'Hélicon*](/articles/the-rain-over-helicon/) — l'audit de méthode qui sous-tend les deux : comment M. L. West gradue un dossier comparatif à travers Hésiode, Homère, le métier poétique et les routes de contact, et où s'arrête la transmission documentée et où commence la lecture du cadre.
 - L'entrée {% wiki(slug="theomachy") %}Théomachie{% end %} développe la lecture complète du corpus du motif de la bataille des dieux, y compris les sections sur la Titanomachie et la Gigantomachie résumées ici.
 - [*Le livre le plus proche de la vérité*](/articles/the-book-closest-to-the-truth/) examine le passage canonique (TBWTT 5:54) sur lequel repose la strate spéculative de cet article.
 - [*Les Veilleurs et les Néphilim*](/articles/watchers-and-the-nephilim/) traite la matière du métissage humano-divin sous ses formes bibliques et hénochiennes.
