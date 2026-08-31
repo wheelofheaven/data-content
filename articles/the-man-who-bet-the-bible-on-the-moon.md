@@ -53,7 +53,7 @@ references = [
     # — The critical and adversarial voices —
     { title = "Les dieux nous sont nés ou les tribulations d'un honnête homme (Phénomènes Spatiaux 12, pp. 11–12 — the rationalist ufologists' contemporary review: Sendy's laser hypothesis judged scientifically untenable)", author = "Patrick Maurel", date = "1967" },
     { title = "Raël: Voleur d'âmes (the book-length statement of the plagiarism case: L'Ère du Verseau as the claimed primary source of the 1974 revelation)", author = "Maryse Péloquin", date = "2004" },
-    { title = "Aliens Adored: Raël's UFO Religion (the standard academic study of Raëlism; notes Sendy as possible inspiration, p. 28, while recording that Raël claims direct revelation)", author = "Susan J. Palmer", date = "2004" }
+    { id = "aliens-adored", locator = "the standard academic study of Raëlism; notes Sendy as possible inspiration, p. 28, while recording that Raël claims direct revelation" }
 ]
 
 # Explanatory footnotes — lettered notes keyed by 1-based index to the
