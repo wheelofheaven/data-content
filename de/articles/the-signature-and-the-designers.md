@@ -2,7 +2,7 @@
 title = "Die Signatur und die Designer"
 description = "Stephen Meyer sagt, der Geist hinter dem Leben müsse transzendent sein. Liest man die Design-Debatte durch den raëlianischen Kanon, hat der Designer einen Körper — und einen Macher."
 template = "articles-page.html"
-date = 2026-07-06
+date = 2026-09-01
 draft = false
 
 [extra]

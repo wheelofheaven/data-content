@@ -2,7 +2,7 @@
 title = "החתימה והמתכננים"
 description = "Stephen Meyer טוען שהתודעה שמאחורי החיים חייבת להיות טרנסצנדנטית. קִראו את ויכוח התכנון דרך הקנון הראליאני, ולמתכנן יש גוף — ויש לו עושה."
 template = "articles-page.html"
-date = 2026-07-06
+date = 2026-09-01
 draft = false
 
 [extra]

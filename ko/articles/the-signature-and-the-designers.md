@@ -2,7 +2,7 @@
 title = "서명과 설계자들"
 description = "스티븐 마이어는 생명 배후의 지성이 초월적이어야 한다고 말한다. 그 설계 논쟁을 라엘 정경을 통해 읽으면, 설계자는 몸을 지니며 — 자신을 만든 이 또한 지닌다."
 template = "articles-page.html"
-date = 2026-07-06
+date = 2026-09-01
 draft = false
 
 [extra]

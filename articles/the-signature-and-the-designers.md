@@ -2,7 +2,7 @@
 title = "The Signature and the Designers"
 description = "Stephen Meyer says the mind behind life must be transcendent. Read the design debate through the Raëlian canon and the designer has a body — and a maker."
 template = "articles-page.html"
-date = 2026-07-06
+date = 2026-09-01
 draft = false
 
 [extra]

@@ -2,7 +2,7 @@
 title = "La signature et les concepteurs"
 description = "Pour Stephen Meyer, l'esprit derrière la vie doit être transcendant. Lu à travers le canon raélien, le concepteur a un corps — et un créateur."
 template = "articles-page.html"
-date = 2026-07-06
+date = 2026-09-01
 draft = false
 
 [extra]

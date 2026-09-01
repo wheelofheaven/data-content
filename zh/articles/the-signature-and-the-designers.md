@@ -2,7 +2,7 @@
 title = "签名与设计者们"
 description = "斯蒂芬·迈尔说，生命背后的那个心智必定是超越的。透过雷尔派正典阅读这场设计之争，设计者便有了身体——也有了自己的创造者。"
 template = "articles-page.html"
-date = 2026-07-06
+date = 2026-09-01
 draft = false
 
 [extra]

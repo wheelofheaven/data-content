@@ -2,7 +2,7 @@
 title = "La firma y los diseñadores"
 description = "Stephen Meyer dice que la mente tras la vida debe ser trascendente. Leído el debate del diseño por el canon raeliano, el diseñador tiene cuerpo — y un hacedor."
 template = "articles-page.html"
-date = 2026-07-06
+date = 2026-09-01
 draft = false
 
 [extra]

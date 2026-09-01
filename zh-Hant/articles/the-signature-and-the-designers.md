@@ -2,7 +2,7 @@
 title = "簽名與設計者們"
 description = "史蒂芬·邁爾說，生命背後的那個心智必須是超越的。透過雷爾正典來讀這場設計之爭，設計者卻有一具身體——而且也有一位造他的人。"
 template = "articles-page.html"
-date = 2026-07-06
+date = 2026-09-01
 draft = false
 
 [extra]
