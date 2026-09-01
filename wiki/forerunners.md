@@ -21,6 +21,7 @@ see_also = [
     { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The entry the pre-Elohim creator content belongs to, kept distinct from Forerunners." },
     { title = "Apocalypse", path = "wiki/apocalypse", description = "The Aquarian-age revelation phase toward which the preparatory missions point." },
     { title = "Embassy", path = "wiki/embassy", description = "The alliance-contact goal the Forerunners' cultural preparation ultimately serves." },
+    { title = "The Signature and the Designers", path = "/articles/the-signature-and-the-designers/", description = "The chain of makers with no first link, read as the canon's answer to the regress both Dawkins and Meyer demand a bottom for." }
 ]
 
 [extra.infobox]

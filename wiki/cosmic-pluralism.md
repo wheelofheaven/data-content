@@ -24,6 +24,7 @@ see_also = [
     { title = "Life engineering", path = "wiki/life-engineering", description = "The mechanism by which life propagates across the plural worlds in the corpus reading." },
     { title = "List of close encounters", path = "wiki/list-of-close-encounters", description = "The record the corpus reads as contact already established between inhabited worlds." },
     { title = "Synthetic genomics", path = "wiki/synthetic-genomics", description = "The terrestrial capability approaching the world-seeding scale cosmic pluralism describes." },
+    { title = "The Signature and the Designers", path = "/articles/the-signature-and-the-designers/", description = "Hume's under-determined designer taken as a finding rather than a demolition — finite, plural, and physical." }
 ]
 
 [extra.infobox]

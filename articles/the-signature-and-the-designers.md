@@ -3,11 +3,13 @@ title = "The Signature and the Designers"
 description = "Stephen Meyer says the mind behind life must be transcendent. Read the design debate through the Raëlian canon and the designer has a body — and a maker."
 template = "articles-page.html"
 date = 2026-07-06
-draft = true
+draft = false
 
 [extra]
 claim_type = "speculative"
 editorial_pass = "2026-05"
+core_claim_ids = ["woh-claim-0036", "woh-claim-0030"]
+core_versions = { woh-claim-0036 = "0.1.0", woh-claim-0030 = "0.1.0" }
 article_type = "explainer"
 category = "Science & Technology"
 author = "Zara Zinsfuss"
@@ -146,8 +148,8 @@ founding document is *The Genesis Flood* (1961), by the theologian John
 Whitcomb and the hydraulic engineer Henry Morris, and its manifesto is
 Morris's *Scientific Creationism* (1974). It is a living tradition, and it
 makes real documentaries with real production values — most successfully *Is
-Genesis History?* (2017), of which more below. Its distinguishing feature is
-that it takes the age of the Earth as a battlefield.
+Genesis History?* (2017). Its distinguishing feature is that it takes the age
+of the Earth as a battlefield.
 
 Next along the spectrum is **old-earth**, or progressive, creationism, whose
 ablest contemporary voice is the astronomer Hugh Ross. Ross accepts the

@@ -23,6 +23,7 @@ see_also = [
     { title = "Doubled Signature", path = "wiki/doubled-signature", description = "A structural-recurrence principle that echoes the framework's self-similarity across scales." },
     { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "The framework reading of civilizational dynamics operating within the infinite cosmos." },
     { title = "Elohim", path = "wiki/elohim", description = "The civilization whose home-world source material articulates the infinite-hierarchical structure." },
+    { title = "The Signature and the Designers", path = "/articles/the-signature-and-the-designers/", description = "The beginningless cosmos as the hinge that disarms Meyer's fine-tuning argument: no first moment, nothing ever 'set'." }
 ]
 
 [extra.infobox]

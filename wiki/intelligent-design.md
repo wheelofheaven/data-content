@@ -23,6 +23,7 @@ see_also = [
     { title = "Pantropy", path = "wiki/pantropy", description = "The organism-tailoring concept extending the design claim to deliberate human modification." },
     { title = "Genesis", path = "wiki/genesis", description = "The text whose Yamim phases the framework reads as the record of the engineering." },
     { title = "Eden", path = "wiki/eden", description = "The site the framework identifies as the laboratory where humans were synthesised." },
+    { title = "The Signature and the Designers", path = "/articles/the-signature-and-the-designers/", description = "The Explainer placing the framework on the full design spectrum — Meyer's transcendent designer answered with an embodied, made one." }
 ]
 
 [extra.infobox]

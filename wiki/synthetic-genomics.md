@@ -20,6 +20,7 @@ see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "The civilization whose whole-organism creation the field's scale most directly matches." },
     { title = "Genesis", path = "wiki/genesis", description = "The creation narrative the corpus reads as describing designed-sequence life-construction." },
     { title = "Tree of Life", path = "wiki/tree-of-life", description = "The longevity-technology counterpart the corpus pairs with created-life engineering." },
+    { title = "The Signature and the Designers", path = "/articles/the-signature-and-the-designers/", description = "Venter's designed minimal genome read as the contemporary recovery of the Elohim's laboratory capability." }
 ]
 
 [extra.infobox]
