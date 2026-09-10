@@ -18,9 +18,9 @@ summary = "À la première, en 2008, d'un documentaire sur la persécution des t
 keywords = ["Dessein Intelligent", "créationnisme scientifique", "Stephen Meyer", "David Berlinski", "James Tour", "Michael Behe", "William Dembski", "panspermie dirigée", "Return of the God Hypothesis", "Is Genesis History", "complexité irréductible", "complexité spécifiée", "origine de la vie", "Élohim", "Raélisme", "George Chryssides", "réglage fin"]
 references = [
     # — The canon under comparison —
-    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition)" },
+    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶14: the single original continent raised from the seabed, and 'all the continents which drifted apart fit together perfectly to form a single one'; ¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition); Chapter 2, 'The Flood' (¶58: the home planet's decision 'to destroy all life on Earth by sending nuclear missiles'; ¶64: the radioactivity monitored and removed before the survivors disembark)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'Neither God nor Soul' (¶¶31–34: the gigantic being, 'time is inversely proportional to the mass,' the centerless universe, 'nothing is lost, nothing is created'); Chapter 3, 'The Keys' (¶102: respecting nature 'as long as he is not capable of becoming himself a creator')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonies of Raëlians,' §2 'A New Hypothesis for the History of Humanity' (¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the whole account of the Elohim's laboratory creation of terrestrial life" },
 
     # — The modern Intelligent Design movement —
@@ -210,11 +210,12 @@ appartient, par sa logique propre, au genre créationniste et non au genre
 agents intelligents, et que le texte de la Genèse en est un compte rendu
 véridique quoique brouillé. Mais c'est un créationnisme *scientifique* en un
 sens que le mouvement Jeune-Terre ne pourrait jamais accepter — car ses
-créateurs ne sont pas Dieu, sa Terre n'est pas jeune, son Déluge n'est pas la
-géologie du monde, et ses concepteurs ont employé une technologie en continuité
-avec la nôtre. Deux espèces, un seul genre. Le créationniste Jeune-Terre et le
-raélien refusent tous deux de lire la Genèse comme un pur mythe. Ils sont en
-désaccord sur presque tout le reste.
+créateurs ne sont pas Dieu, sa Terre n'est pas jeune, son Déluge fut une frappe
+nucléaire venue d'une autre planète et non une année de pluie, et ses
+concepteurs ont employé une technologie en continuité avec la nôtre. Deux
+espèces, un seul genre. Le créationniste Jeune-Terre et le raélien refusent
+tous deux de lire la Genèse comme un pur mythe. Ils sont en désaccord sur
+presque tout le reste.
 
 Voilà le cadrage. Le reste de cet article le développe — d'abord en prenant
 l'argument du dessein au sérieux sur son terrain le plus fort, puis en observant
@@ -363,30 +364,50 @@ Ici la lecture Wheel of Heaven et la lecture Jeune-Terre, que la taxinomie de
 Chryssides range sous le même genre, révèlent à quel point deux espèces peuvent
 être éloignées. Le canon partage le refus fondateur du film — l'insistance sur
 le fait que la Genèse *parle de quelque chose qui a réellement eu lieu*, qu'elle
-est un rapport et non une fable. Mais il ne partage presque rien d'autre. Dans
-la lecture du canon, la Terre est ancienne, exactement comme le dit la géologie
-dominante ; le {% wiki(slug="great-flood") %}Déluge{% end %} ne fut pas une
-année d'hydrologie planétaire triant le registre fossile, mais un événement
-ciblé, une remise à zéro et non une réécriture des roches ; les « jours » de
+est un rapport et non une fable. Mais il ne partage guère plus. Dans la lecture
+du canon, la planète est ancienne, et rien dans la source ne conteste les
+quatre milliards et demi d'années que la science lui donne ; les « jours » de
 Genèse 1 ne sont pas des jours de calendrier mais des phases comprimées d'un
 long chantier d'ingénierie ; et les humains d'Éden ne furent pas appelés à l'être
 par la parole il y a six mille ans, mais *synthétisés*, en laboratoire, par une
 équipe de scientifiques en visite. La science du film est bâtie pour défendre la
 Terre jeune. Le canon abandonne la Terre jeune sans combattre, parce qu'il n'en
-a jamais eu besoin. Ce qu'il garde est la seule chose que le film et le canon
-refusent tous deux de céder à la lecture purement mythique : le texte est le
-souvenir d'événements réels, mal transmis, et la tâche d'un lecteur sérieux est
-de retrouver les événements à partir du souvenir.
+a jamais eu besoin.
+
+Le {% wiki(slug="great-flood") %}Déluge{% end %} est le point où les deux
+espèces se rapprochent le plus, et il demande de l'exactitude, car il est
+facile d'y exagérer la distance. Le Déluge du canon ne fut pas une année de
+pluie. Ce fut une frappe nucléaire, ordonnée depuis la planète natale des
+Elohim pour mettre fin à tout ce que les créateurs avaient fait sur Terre, et
+le canon est explicite : elle a réécrit les roches. L'unique
+{% wiki(slug="pangaea") %}continent{% end %} que les créateurs avaient fait
+surgir du fond des mers fut brisé par les explosions, ses fragments partirent
+« à la dérive vers l'extérieur depuis le centre du choc », et toute la surface
+des terres fut balayée : « toute la matière vivante, forêts immenses, animaux
+et même l'Homme » fut ensevelie « immédiatement et toute ensemble », en un
+anneau autour du point d'impact. Les continents d'aujourd'hui en sont les
+morceaux, encore en mouvement. Les gisements fossiles en sont l'ensevelissement,
+et le canon lit leur succession comme le relevé de ce qui mourut quand, dans
+les suites de l'explosion initiale, et non comme cent millions d'années de
+sédimentation tranquille. Sur cette seule question, le canon se range avec
+Snelling et Wise contre le manuel : les strates sont la signature d'une
+catastrophe. Il se sépare d'eux sur tout ce qui entoure cet accord — l'âge de
+la planète, la date de l'événement, sa cause et l'identité de son auteur. Ce
+qu'il garde, avec le film, est la seule chose que tous deux refusent de céder à
+la lecture purement mythique : le texte est le souvenir d'événements réels, mal
+transmis, et la tâche d'un lecteur sérieux est de retrouver les événements à
+partir du souvenir.
 
 Il vaut de le dire clairement, car cela immunise contre une erreur réelle. Dire,
 avec Chryssides, que le raélisme est un « créationnisme scientifique » n'est
-*pas* dire qu'il s'agit de géologie du Déluge dans une soucoupe volante. C'est
-le situer dans le genre des lectures qui prennent la Genèse pour de l'histoire —
-puis insister aussitôt sur la différence d'espèce, qui est énorme. Le
-créationniste Jeune-Terre et le canon sont l'un et l'autre créationnistes au
-sens structurel de Chryssides, et ils ne pourraient tenir dans la même pièce sur
-une seule question de fait touchant l'âge du monde. Le genre partagé est réel,
-et la distance qui le traverse aussi.
+*pas* dire qu'il s'agit de *The Genesis Flood* avec un vaisseau spatial dedans,
+si proches que soient les deux devant les gisements fossiles. C'est le situer
+dans le genre des lectures qui prennent la Genèse pour de l'histoire — puis
+insister aussitôt sur la différence d'espèce, qui est énorme. Le créationniste
+Jeune-Terre et le canon sont l'un et l'autre créationnistes au sens structurel
+de Chryssides, et ils ne pourraient tenir dans la même pièce sur l'âge de la
+planète, l'identité de l'artisan ou les moyens de la fabrication. Le genre
+partagé est réel, et la distance qui le traverse aussi.
 
 ## Le cheval de Troie
 

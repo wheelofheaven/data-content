@@ -18,9 +18,9 @@ summary = "Bei der Premiere einer Dokumentation über die Verfolgung von Designt
 keywords = ["Intelligentes Design", "wissenschaftlicher Kreationismus", "Stephen Meyer", "David Berlinski", "James Tour", "Michael Behe", "William Dembski", "gerichtete Panspermie", "Return of the God Hypothesis", "Is Genesis History", "nicht reduzierbare Komplexität", "spezifizierte Komplexität", "Ursprung des Lebens", "Elohim", "Raëlismus", "George Chryssides", "Feinabstimmung"]
 references = [
     # — The canon under comparison —
-    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition)" },
+    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶14: the single original continent raised from the seabed, and 'all the continents which drifted apart fit together perfectly to form a single one'; ¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition); Chapter 2, 'The Flood' (¶58: the home planet's decision 'to destroy all life on Earth by sending nuclear missiles'; ¶64: the radioactivity monitored and removed before the survivors disembark)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'Neither God nor Soul' (¶¶31–34: the gigantic being, 'time is inversely proportional to the mass,' the centerless universe, 'nothing is lost, nothing is created'); Chapter 3, 'The Keys' (¶102: respecting nature 'as long as he is not capable of becoming himself a creator')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonies of Raëlians,' §2 'A New Hypothesis for the History of Humanity' (¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the whole account of the Elohim's laboratory creation of terrestrial life" },
 
     # — The modern Intelligent Design movement —
@@ -216,11 +216,11 @@ absichtsvoll von intelligenten Akteuren *gemacht* wurde und dass der
 Genesis-Text ein zwar entstellter, aber wahrer Bericht über dieses Machen ist.
 Doch es ist ein *wissenschaftlicher* Kreationismus in einem Sinn, den die
 Junge-Erde-Bewegung niemals akzeptieren könnte — denn seine Schöpfer sind nicht
-Gott, seine Erde ist nicht jung, seine Flut ist nicht die Geologie der Welt, und
-seine Designer benutzten eine Technik, die mit der unseren kontinuierlich ist.
-Zwei Arten, eine Gattung. Der Junge-Erde-Kreationist und der Raëlianer weigern
-sich beide, die Genesis als reinen Mythos zu lesen. In fast allem übrigen sind
-sie uneins.
+Gott, seine Erde ist nicht jung, seine Flut war ein Atomschlag von einem anderen
+Planeten und kein Jahr Regen, und seine Designer benutzten eine Technik, die
+mit der unseren kontinuierlich ist. Zwei Arten, eine Gattung. Der
+Junge-Erde-Kreationist und der Raëlianer weigern sich beide, die Genesis als
+reinen Mythos zu lesen. In fast allem übrigen sind sie uneins.
 
 Das ist der Rahmen. Der Rest dieses Artikels arbeitet ihn aus — zuerst, indem er
 das Designargument auf seinem stärksten Boden ernst nimmt, dann, indem er
@@ -370,30 +370,50 @@ Hier zeigen die Wheel-of-Heaven-Lesart und die Junge-Erde-Lesart, die
 Chryssides’ Taxonomie unter dieselbe Gattung einordnet, wie weit zwei Arten
 auseinanderliegen können. Der Kanon teilt die grundlegende Weigerung des Films —
 das Beharren darauf, dass die Genesis *von etwas handelt, das tatsächlich
-geschehen ist*, dass sie Bericht ist und nicht Fabel. Sonst aber teilt er fast
-nichts. Nach der Lesart des Kanons ist die Erde alt, genau wie die etablierte
-Geologie sagt; die {% wiki(slug="great-flood") %}Sintflut{% end %} war nicht ein
-Jahr globaler Hydrologie, das den Fossilbefund sortierte, sondern ein gezieltes
-Ereignis, ein Reset und keine Neuschreibung des Gesteins; die „Tage“ von Genesis
-1 sind keine Kalendertage, sondern verdichtete Phasen eines langen
-Ingenieurprojekts; und die Menschen Edens wurden nicht vor sechstausend Jahren
-ins Dasein gesprochen, sondern in Laboratorien von einem Team besuchender
-Wissenschaftler *synthetisiert*. Die Wissenschaft des Films ist darauf gebaut,
-die junge Erde zu verteidigen. Der Kanon gibt die junge Erde kampflos preis, weil
-er sie nie brauchte. Was er behält, ist das Eine, was Film und Kanon beide der
-Nur-Mythos-Lesart nicht überlassen wollen: dass der Text eine Erinnerung an
-wirkliche Ereignisse ist, schlecht überliefert, und dass es die Aufgabe einer
-ernsthaften Leserin ist, die Ereignisse aus der Erinnerung zurückzugewinnen.
+geschehen ist*, dass sie Bericht ist und nicht Fabel. Sonst aber teilt er
+wenig. Nach der Lesart des Kanons ist der Planet alt, und nichts in der Quelle
+bestreitet die viereinhalb Milliarden Jahre, die die Wissenschaft ihm gibt; die
+„Tage“ von Genesis 1 sind keine Kalendertage, sondern verdichtete Phasen eines
+langen Ingenieurprojekts; und die Menschen Edens wurden nicht vor sechstausend
+Jahren ins Dasein gesprochen, sondern in Laboratorien von einem Team
+besuchender Wissenschaftler *synthetisiert*. Die Wissenschaft des Films ist
+darauf gebaut, die junge Erde zu verteidigen. Der Kanon gibt die junge Erde
+kampflos preis, weil er sie nie brauchte.
+
+Bei der {% wiki(slug="great-flood") %}Sintflut{% end %} kommen sich die beiden
+Arten am nächsten, und der Punkt verlangt Genauigkeit, weil sich die Distanz
+hier leicht übertreiben lässt. Die Sintflut des Kanons war kein Jahr Regen. Sie
+war ein Atomschlag, vom Heimatplaneten der Elohim angeordnet, um alles zu
+beenden, was die Schöpfer auf der Erde gemacht hatten, und der Kanon sagt
+ausdrücklich, dass sie das Gestein neu schrieb. Der einzige
+{% wiki(slug="pangaea") %}Kontinent{% end %}, den die Schöpfer vom Meeresgrund
+aufgeschüttet hatten, wurde von den Explosionen zerbrochen, seine Bruchstücke
+trieben „vom Zentrum der Erschütterung nach außen“, und die gesamte
+Landoberfläche wurde weggefegt: „alle lebende Materie, gewaltige Wälder,
+Tiere und selbst der Mensch“ wurde „sofort und alles zugleich“ begraben, in
+einem Ring um den Einschlagpunkt. Die heutigen Kontinente sind die Stücke, noch
+immer in Bewegung. Die Fossillager sind das Grab, und der Kanon liest ihre
+Abfolge als Protokoll dessen, was wann starb, im Nachgang der ersten Explosion —
+nicht als hundert Millionen Jahre stiller Ablagerung. In dieser einen Frage
+steht der Kanon mit Snelling und Wise gegen das Lehrbuch: Die Gesteinsschichten
+sind die Signatur einer Katastrophe. Er trennt sich von ihnen in allem, was
+diese Übereinstimmung umgibt — im Alter des Planeten, im Datum des Ereignisses,
+in seiner Ursache und in der Identität seines Urhebers. Was er mit dem Film
+behält, ist das Eine, was beide der Nur-Mythos-Lesart nicht überlassen wollen:
+dass der Text eine Erinnerung an wirkliche Ereignisse ist, schlecht überliefert,
+und dass es die Aufgabe einer ernsthaften Leserin ist, die Ereignisse aus der
+Erinnerung zurückzugewinnen.
 
 Das muss deutlich gesagt werden, denn es impft gegen einen realen Irrtum. Mit
 Chryssides zu sagen, der Raëlismus sei ein „wissenschaftlicher Kreationismus“,
-heißt *nicht* zu sagen, er sei Flutgeologie in einer fliegenden Untertasse. Es
-heißt, ihn in der Gattung jener Lesarten zu verorten, die die Genesis als
-Geschichte nehmen — und dann sogleich auf dem Artunterschied zu bestehen, der
-gewaltig ist. Der Junge-Erde-Kreationist und der Kanon sind beide Kreationisten
-in Chryssides’ strukturellem Sinn und könnten in keiner einzigen Tatsachenfrage
-zum Alter der Welt im selben Raum sitzen. Die gemeinsame Gattung ist real, und
-die Distanz quer durch sie ist es auch.
+heißt *nicht* zu sagen, er sei *The Genesis Flood* mit einem Raumschiff darin,
+so nah sich die beiden bei den Fossillagern auch stehen. Es heißt, ihn in der
+Gattung jener Lesarten zu verorten, die die Genesis als Geschichte nehmen — und
+dann sogleich auf dem Artunterschied zu bestehen, der gewaltig ist. Der
+Junge-Erde-Kreationist und der Kanon sind beide Kreationisten in Chryssides’
+strukturellem Sinn und könnten beim Alter des Planeten, bei der Identität des
+Machers oder bei den Mitteln des Machens nicht im selben Raum sitzen. Die
+gemeinsame Gattung ist real, und die Distanz quer durch sie ist es auch.
 
 ## Das trojanische Pferd
 

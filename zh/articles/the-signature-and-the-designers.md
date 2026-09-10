@@ -18,9 +18,9 @@ summary = "2008 年，在一部讲述设计论学者遭受迫害的纪录片首�
 keywords = ["智能设计", "科学创造论", "斯蒂芬·迈尔", "大卫·柏林斯基", "詹姆斯·图尔", "迈克尔·贝希", "威廉·邓布斯基", "定向胚种论", "Return of the God Hypothesis", "Is Genesis History", "不可化约的复杂性", "特定复杂性", "生命起源", "耶洛因", "雷尔运动", "乔治·克里西德斯", "精细调节"]
 references = [
     # — The canon under comparison —
-    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition)" },
+    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶14: the single original continent raised from the seabed, and 'all the continents which drifted apart fit together perfectly to form a single one'; ¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition); Chapter 2, 'The Flood' (¶58: the home planet's decision 'to destroy all life on Earth by sending nuclear missiles'; ¶64: the radioactivity monitored and removed before the survivors disembark)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'Neither God nor Soul' (¶¶31–34: the gigantic being, 'time is inversely proportional to the mass,' the centerless universe, 'nothing is lost, nothing is created'); Chapter 3, 'The Keys' (¶102: respecting nature 'as long as he is not capable of becoming himself a creator')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonies of Raëlians,' §2 'A New Hypothesis for the History of Humanity' (¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the whole account of the Elohim's laboratory creation of terrestrial life" },
 
     # — The modern Intelligent Design movement —
@@ -107,7 +107,7 @@ footnotes = [
 
 而在最远的那一端，站着**理查德·道金斯**，以及对一切设计的彻底否认：*The Blind Watchmaker*（1986），它的副标题——*Why the Evidence of Evolution Reveals a Universe Without Design*——用九个词就说尽了整个立场。
 
-那么：Wheel of Heaven 的解读落在这道光谱的什么位置？直觉的答案——大约在智能设计附近——错得很有教益，而看得最清楚的那位学者根本不是雷尔派。2003 年，宗教社会学家乔治·克里西德斯（George Chryssides）发表了一项关于该运动的研究，并给了它一个本身就是论证的标题：**〈Scientific Creationism: A Study of the Raëlian Church〉**。{{ footnote(id="2") }} 克里西德斯的要点是：雷尔派关于人类起源的叙述，按其自身的逻辑，属于创造论这个属，而不属于演化论那个属：它主张人类是被智能行动者*造出来的*，是刻意造出来的，而《创世记》文本是关于这场制造的一份真实却被搅乱的报告。但它是一种*科学的*创造论，其意义是年轻地球运动绝不可能接受的——因为它的创造者不是上帝，它的地球并不年轻，它的洪水不是全世界的地质学，而它的设计者所用的技术与我们自己的技术是连续的。同属，两个物种。年轻地球创造论者与雷尔派都拒绝把《创世记》读作纯粹的神话。在几乎其余的一切上，他们意见相左。
+那么：Wheel of Heaven 的解读落在这道光谱的什么位置？直觉的答案——大约在智能设计附近——错得很有教益，而看得最清楚的那位学者根本不是雷尔派。2003 年，宗教社会学家乔治·克里西德斯（George Chryssides）发表了一项关于该运动的研究，并给了它一个本身就是论证的标题：**〈Scientific Creationism: A Study of the Raëlian Church〉**。{{ footnote(id="2") }} 克里西德斯的要点是：雷尔派关于人类起源的叙述，按其自身的逻辑，属于创造论这个属，而不属于演化论那个属：它主张人类是被智能行动者*造出来的*，是刻意造出来的，而《创世记》文本是关于这场制造的一份真实却被搅乱的报告。但它是一种*科学的*创造论，其意义是年轻地球运动绝不可能接受的——因为它的创造者不是上帝，它的地球并不年轻，它的洪水是来自另一颗行星的核打击而不是一整年的雨，而它的设计者所用的技术与我们自己的技术是连续的。同属，两个物种。年轻地球创造论者与雷尔派都拒绝把《创世记》读作纯粹的神话。在几乎其余的一切上，他们意见相左。
 
 这就是那个框架。本文余下的部分把它展开——先在设计论最强的地基上认真对待它，再看这个家族的每一支在何处与正典分手，最后回到 2008 年那间屋子里的两个人，以及他们两次退缩之间的那个立场。
 
@@ -141,9 +141,11 @@ footnotes = [
 
 *Is Genesis History?* 是一部有水准的影片。由托马斯·普里福伊（Thomas Purifoy Jr.）执导，由德尔·塔基特（Del Tackett）——广受观看的「真理计划」的创作者——主持，2017 年 2 月在美国院线只上映一晚，却拿下单银幕票房冠军，并衍生出一整套续作与流媒体剧集的生态。它拍得很美：塔基特走过狭缝峡谷、化石层与天文台穹顶，采访了十三位有资历的科学家与学者——地质学家安德鲁·斯内林（Andrew Snelling）、古生物学家库尔特·怀斯（Kurt Wise）、生物学哲学家保罗·纳尔逊（Paul Nelson）、希伯来语学者史蒂文·博伊德（Steven Boyd）——累积起来的效果，是一种严肃、自信、内部自洽的世界观。它的论题就是严格创造论那一套，毫不含糊地说出：《创世记》是字面意义上的自然史。地球有数千年之久。一场全球性的洪水刻出了大峡谷，并埋下了那些化石。世上的诸语言在{% wiki(slug="genesis") %}巴别{% end %}散开。影片所称的「观察科学」证实了圣经，而它所称的「历史科学」——主流地质学与生物学的深时重建——则是一套建立在不可证明之假设上的敌对范式。
 
-在这里，被克里西德斯的分类学归入同一个属的 Wheel of Heaven 解读与年轻地球解读，显示出两个物种之间可以相隔多远。正典共享该片那个奠基性的拒绝——坚持《创世记》是*关于某件真实发生过的事*的，它是报告，不是寓言。但除此之外，它几乎什么都不与之共享。按正典的解读，地球是古老的，恰如主流地质学所说；{% wiki(slug="great-flood") %}洪水{% end %}不是一整年分选了化石记录的全球水文事件，而是一次有针对性的事件，是一次重置，不是对岩层的重写；《创世记》第一章的那些「日」不是日历上的日子，而是一项漫长工程项目被压缩起来的阶段；而伊甸的那些人类，也不是六千年前被一句话说出来的，而是被一支来访的科学家团队在实验室里*合成*出来的。该片的科学是为捍卫年轻的地球而造的。正典则不战而让出年轻的地球，因为它从来就不需要它。它所保留的，是该片与正典都拒绝向「纯神话」式解读交出的那一件事：文本是对真实事件的记忆，只是传递得很糟糕；而一个严肃读者的工作，就是从记忆中把事件复原出来。
+在这里，被克里西德斯的分类学归入同一个属的 Wheel of Heaven 解读与年轻地球解读，显示出两个物种之间可以相隔多远。正典共享该片那个奠基性的拒绝——坚持《创世记》是*关于某件真实发生过的事*的，它是报告，不是寓言。但除此之外，它与之共享的不多。按正典的解读，这颗行星是古老的，源文本中没有任何地方质疑科学给它的四十五亿年；《创世记》第一章的那些「日」不是日历上的日子，而是一项漫长工程项目被压缩起来的阶段；而伊甸的那些人类，也不是六千年前被一句话说出来的，而是被一支来访的科学家团队在实验室里*合成*出来的。该片的科学是为捍卫年轻的地球而造的。正典则不战而让出年轻的地球，因为它从来就不需要它。
 
-这一点值得明说，因为它能防住一个真实的错误。与克里西德斯一道说雷尔主义是一种「科学创造论」，*并不是*说它是装进飞碟里的洪水地质学。那是把它定位在「把《创世记》当作历史来读」的那个属里——然后立刻坚持那个物种差异，而那个差异是巨大的。年轻地球创造论者与正典，在克里西德斯的结构意义上都是创造论者，却在关于世界年龄的任何一个事实问题上都不可能同坐一室。共享的属是真实的，横跨其间的距离也是。
+{% wiki(slug="great-flood") %}洪水{% end %}是两个物种靠得最近的地方，这一点需要精确，因为在这里很容易夸大距离。正典的洪水不是一整年的雨。它是一次核打击，由耶洛因的母星下令，要终结创造者们在地球上造出的一切；而正典明言，它重写了岩层。创造者们从海底抬升起来的那块唯一的{% wiki(slug="pangaea") %}大陆{% end %}被爆炸击碎，碎片「从冲击中心向外漂移」，整个陆地表面被席卷：「包括广袤森林、动物乃至人类在内的一切活物质」被「立即、全部一起」埋入环绕爆心的一圈之下。今天的各大洲就是那些碎片，至今仍在移动。化石层就是那场掩埋，而正典把它们的先后次序读作最初那次爆炸的余波之中「什么在何时死去」的记录，而不是一亿年安静的沉积。在这一个问题上，正典与斯内林和怀斯站在一起，对着教科书：岩层记录是一场灾变的签名。而在围绕这一共识的一切上——行星的年龄、事件的日期、它的成因、它的作者是谁——正典与他们分道扬镳。它与该片共同保留的，是两者都拒绝向「纯神话」式解读交出的那一件事：文本是对真实事件的记忆，只是传递得很糟糕；而一个严肃读者的工作，就是从记忆中把事件复原出来。
+
+这一点值得明说，因为它能防住一个真实的错误。与克里西德斯一道说雷尔主义是一种「科学创造论」，*并不是*说它是装进宇宙飞船里的 *The Genesis Flood*——无论两者在化石层前站得多近。那是把它定位在「把《创世记》当作历史来读」的那个属里——然后立刻坚持那个物种差异，而那个差异是巨大的。年轻地球创造论者与正典，在克里西德斯的结构意义上都是创造论者，却在行星的年龄、造物者的身份、造物的手段这些问题上不可能同坐一室。共享的属是真实的，横跨其间的距离也是。
 
 ## 特洛伊木马
 

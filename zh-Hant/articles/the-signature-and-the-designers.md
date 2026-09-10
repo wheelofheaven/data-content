@@ -18,9 +18,9 @@ summary = "2008 年，一部關於設計理論家如何遭受迫害的紀錄片�
 keywords = ["智慧設計", "科學創造論", "史蒂芬·邁爾", "大衛·柏林斯基", "詹姆斯·圖爾", "麥可·貝希", "威廉·丹姆斯基", "定向胚種論", "Return of the God Hypothesis", "Is Genesis History", "不可化約的複雜性", "特定複雜性", "生命起源", "耶洛因", "雷爾運動", "喬治·克里賽德斯", "微調"]
 references = [
     # — The canon under comparison —
-    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition)" },
+    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶14: the single original continent raised from the seabed, and 'all the continents which drifted apart fit together perfectly to form a single one'; ¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition); Chapter 2, 'The Flood' (¶58: the home planet's decision 'to destroy all life on Earth by sending nuclear missiles'; ¶64: the radioactivity monitored and removed before the survivors disembark)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'Neither God nor Soul' (¶¶31–34: the gigantic being, 'time is inversely proportional to the mass,' the centerless universe, 'nothing is lost, nothing is created'); Chapter 3, 'The Keys' (¶102: respecting nature 'as long as he is not capable of becoming himself a creator')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonies of Raëlians,' §2 'A New Hypothesis for the History of Humanity' (¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the whole account of the Elohim's laboratory creation of terrestrial life" },
 
     # — The modern Intelligent Design movement —
@@ -107,7 +107,7 @@ footnotes = [
 
 而在最遠的一端站著**理查·道金斯**，以及對任何設計的一概否認：*The Blind Watchmaker*（1986），其副標題——*Why the Evidence of Evolution Reveals a Universe Without Design*——用九個英文字說盡了整個立場。
 
-那麼：Wheel of Heaven 的讀法落在這道光譜的哪裡？直覺的答案——大約在智慧設計附近——錯得很有教益，而看得最清楚的那位學者根本不是雷爾派信徒。2003 年，宗教社會學家喬治·克里賽德斯發表了一項關於這場運動的研究，並給了它一個本身就是一個論證的標題：**〈Scientific Creationism: A Study of the Raëlian Church〉**{{ footnote(id="2") }} 克里賽德斯的重點是，雷爾派關於人類起源的說法，按其自身的邏輯，屬於創造論這個屬，而不屬於演化論那個屬：它主張人類是被有智慧的行動者刻意*造出來*的，而創世記文本是一份雖經走樣卻真實的製造報告。但它是一種年輕地球運動絕不可能接受的*科學*創造論——因為它的創造者不是上帝，它的地球並不年輕，它的洪水不是全世界的地質，而它的設計者所使用的技術，與我們自己的技術是連續的。兩個種，一個屬。年輕地球創造論者與雷爾派信徒都拒絕把創世記讀成純粹的神話。他們在幾乎其他一切事情上都不同意。
+那麼：Wheel of Heaven 的讀法落在這道光譜的哪裡？直覺的答案——大約在智慧設計附近——錯得很有教益，而看得最清楚的那位學者根本不是雷爾派信徒。2003 年，宗教社會學家喬治·克里賽德斯發表了一項關於這場運動的研究，並給了它一個本身就是一個論證的標題：**〈Scientific Creationism: A Study of the Raëlian Church〉**{{ footnote(id="2") }} 克里賽德斯的重點是，雷爾派關於人類起源的說法，按其自身的邏輯，屬於創造論這個屬，而不屬於演化論那個屬：它主張人類是被有智慧的行動者刻意*造出來*的，而創世記文本是一份雖經走樣卻真實的製造報告。但它是一種年輕地球運動絕不可能接受的*科學*創造論——因為它的創造者不是上帝，它的地球並不年輕，它的洪水是來自另一顆行星的核打擊而不是一整年的雨，而它的設計者所使用的技術，與我們自己的技術是連續的。兩個種，一個屬。年輕地球創造論者與雷爾派信徒都拒絕把創世記讀成純粹的神話。他們在幾乎其他一切事情上都不同意。
 
 這就是那個框架。這篇文章其餘的部分要把它做出來——先在設計論證最強的地面上認真對待它，再看這個家族的每一支在哪裡與正典分手，最後回到 2008 年那個房間裡的兩個人，以及他們兩次退縮之間的那個位置。
 
@@ -141,9 +141,11 @@ footnotes = [
 
 *Is Genesis History?* 是一部有水準的片子。由小湯瑪斯·普里福伊執導、由廣受觀看的「Truth Project」的創作者戴爾·塔基特主持，它在 2017 年 2 月以一夜放映的形式登上美國院線，拿下單廳票房冠軍，並衍生出一整個續集與串流影集的生態。它拍得很美：塔基特走過狹縫峽谷、化石層與天文台圓頂，訪問了十三位有資歷的科學家與學者——地質學家安德魯·斯內林、古生物學家庫爾特·懷斯、生物學哲學家保羅·尼爾森、希伯來文學者史蒂芬·博伊德——而累積起來的效果，是一種嚴肅、自信、內部融貫的世界觀。它的論題就是嚴格創造論的那一個，毫不含糊地陳述出來：創世記是字面意義上的自然史。地球只有數千歲。一場全球性的洪水刻出了大峽谷，並埋下了那些化石。世界的語言在{% wiki(slug="genesis") %}巴別{% end %}散了開來。該片所謂的「觀察科學」證實了聖經，而它所謂的「歷史科學」——主流地質學與生物學的深遠時間重建——則是一套建立在無法證明之假設上的敵對典範。
 
-在這裡，Wheel of Heaven 的讀法與年輕地球的讀法——克里賽德斯的分類把它們歸在同一個屬底下——顯示出兩個種可以相隔多遠。正典分享該片那項奠基性的拒絕：堅持創世記是*關於真正發生過的事情*，它是報告而不是寓言。但除此之外，它幾乎什麼都不分享。按正典的讀法，地球是古老的，正如主流地質學所說；{% wiki(slug="great-flood") %}洪水{% end %}不是一年之久、把化石記錄分選好的全球水文事件，而是一次有目標的事件，是一次重置，而不是對岩層的一次改寫；創世記第 1 章的那些「日」不是曆日，而是一項漫長工程計畫被壓縮的階段；而伊甸的人類不是在六千年前被說出來的，而是被一隊來訪的科學家在實驗室裡*合成*出來的。該片的科學是為了捍衛年輕的地球而打造的。正典則不打一仗就把年輕的地球讓了出去，因為它從來就不需要它。它所保留的，是該片與正典都拒絕交給「純神話」讀法的那一樣東西：那份文本是對真實事件的記憶，只是傳遞得很糟，而一位嚴肅讀者的工作，就是從記憶中把事件復原出來。
+在這裡，Wheel of Heaven 的讀法與年輕地球的讀法——克里賽德斯的分類把它們歸在同一個屬底下——顯示出兩個種可以相隔多遠。正典分享該片那項奠基性的拒絕：堅持創世記是*關於真正發生過的事情*，它是報告而不是寓言。但除此之外，它分享的不多。按正典的讀法，這顆行星是古老的，源文本中沒有任何一處質疑科學給它的四十五億年；創世記第 1 章的那些「日」不是曆日，而是一項漫長工程計畫被壓縮的階段；而伊甸的人類不是在六千年前被說出來的，而是被一隊來訪的科學家在實驗室裡*合成*出來的。該片的科學是為了捍衛年輕的地球而打造的。正典則不打一仗就把年輕的地球讓了出去，因為它從來就不需要它。
 
-這一點值得明說，因為它能防住一個真實的錯誤。與克里賽德斯一同說雷爾運動是一種「科學創造論」，*並不是*說它是裝在飛碟裡的洪水地質學。那是把它定位在「把創世記當作歷史來讀」的那個屬裡——然後立刻堅持那個種的差異，而那差異是巨大的。年輕地球創造論者與正典，在克里賽德斯結構性的意義上都是創造論者，卻無法在關於世界年齡的任何一個事實問題上同坐一室。共有的屬是真的，橫跨其間的距離也是真的。
+{% wiki(slug="great-flood") %}洪水{% end %}是兩個種靠得最近的地方，這一點需要精確，因為在這裡很容易誇大距離。正典的洪水不是一整年的雨。它是一次核打擊，由耶洛因的母星下令，要終結創造者們在地球上所造的一切；而正典明言，它改寫了岩層。創造者們從海底抬升起來的那塊唯一的{% wiki(slug="pangaea") %}大陸{% end %}被爆炸擊碎，碎片「從衝擊中心向外漂移」，整個陸地表面被席捲：「包括廣袤森林、動物乃至人類在內的一切活物質」被「立即、全部一起」埋在環繞爆心的一圈之下。今天的各大洲就是那些碎片，至今仍在移動。化石層就是那場掩埋，而正典把它們的先後次序讀作最初那次爆炸的餘波之中「什麼在何時死去」的記錄，而不是一億年安靜的沉積。在這一個問題上，正典與斯內林和懷斯站在一起，對著教科書：岩層記錄是一場災變的簽名。而在圍繞這項共識的一切上——行星的年齡、事件的日期、它的成因、它的作者是誰——正典與他們分道揚鑣。它與該片共同保留的，是兩者都拒絕交給「純神話」讀法的那一樣東西：那份文本是對真實事件的記憶，只是傳遞得很糟，而一位嚴肅讀者的工作，就是從記憶中把事件復原出來。
+
+這一點值得明說，因為它能防住一個真實的錯誤。與克里賽德斯一同說雷爾運動是一種「科學創造論」，*並不是*說它是裝進太空船裡的 *The Genesis Flood*——無論兩者在化石層前站得多近。那是把它定位在「把創世記當作歷史來讀」的那個屬裡——然後立刻堅持那個種的差異，而那差異是巨大的。年輕地球創造論者與正典，在克里賽德斯結構性的意義上都是創造論者，卻無法在行星的年齡、造物者的身分、造物的手段上同坐一室。共有的屬是真的，橫跨其間的距離也是真的。
 
 ## 特洛伊木馬
 

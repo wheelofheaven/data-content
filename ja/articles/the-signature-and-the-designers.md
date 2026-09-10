@@ -18,9 +18,9 @@ summary = "2008年、設計論者たちへの迫害についてのあるドキ�
 keywords = ["インテリジェント・デザイン", "科学的創造説", "スティーヴン・マイヤー", "デイヴィッド・バーリンスキ", "ジェームズ・トゥアー", "マイケル・ベーエ", "ウィリアム・デムスキー", "意図的パンスペルミア", "Return of the God Hypothesis", "Is Genesis History", "還元不可能な複雑性", "特定化された複雑性", "生命の起源", "エロヒム", "ラエリアン・ムーブメント", "ジョージ・クリサイズ", "微調整"]
 references = [
     # — The canon under comparison —
-    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition)" },
+    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶14: the single original continent raised from the seabed, and 'all the continents which drifted apart fit together perfectly to form a single one'; ¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition); Chapter 2, 'The Flood' (¶58: the home planet's decision 'to destroy all life on Earth by sending nuclear missiles'; ¶64: the radioactivity monitored and removed before the survivors disembark)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'Neither God nor Soul' (¶¶31–34: the gigantic being, 'time is inversely proportional to the mass,' the centerless universe, 'nothing is lost, nothing is created'); Chapter 3, 'The Keys' (¶102: respecting nature 'as long as he is not capable of becoming himself a creator')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonies of Raëlians,' §2 'A New Hypothesis for the History of Humanity' (¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the whole account of the Elohim's laboratory creation of terrestrial life" },
 
     # — The modern Intelligent Design movement —
@@ -198,10 +198,10 @@ Raëlian Church」**{{ footnote(id="2") }}。クリサイズの論点は、人�
 *作られた*のであり、創世記のテクストはその作成についての、歪んではいるが真なる
 報告である、と。しかしそれは、若い地球説の運動には決して受け入れられない意味に
 おいて*科学的な*創造説です。というのも、その創造者たちは神ではなく、その地球は
-若くなく、その洪水は世界の地質学ではなく、そしてその設計者たちは私たち自身の
-ものと連続する技術を用いたからです。二つの種、一つの属。若い地球説の論者も
-ラエリアンも、ともに創世記を純粋な神話として読むことを拒みます。彼らは他の
-ほとんどすべてについて意見を異にします。
+若くなく、その洪水は別の惑星からの核攻撃であって一年間の雨ではなく、そして
+その設計者たちは私たち自身のものと連続する技術を用いたからです。二つの種、
+一つの属。若い地球説の論者もラエリアンも、ともに創世記を純粋な神話として読む
+ことを拒みます。彼らは他のほとんどすべてについて意見を異にします。
 
 これが枠組みです。本稿の残りはそれを展開します——まず設計論証をその最も強い地盤
 のうえで真剣に受け取り、次に一族の各枝がどこでカノンから分かれるのかを見届け、
@@ -331,27 +331,43 @@ Raëlian Church」**{{ footnote(id="2") }}。クリサイズの論点は、人�
 ここで、Wheel of Heaven の読みと若い地球説の読み——クリサイズの分類法が同じ属の
 下に整理する二つ——は、二つの種がどれほど遠く隔たりうるかを露わにします。カノン
 はこの映画の根本的な拒絶を共有します。すなわち、創世記は*実際に起こった何かに
-ついてのものだ*、それは寓話ではなく報告だ、という主張です。しかし他のほとんど
-何も共有しません。カノンの読みでは、地球は古く、まさに主流の地質学が言うとおり
-です。{% wiki(slug="great-flood") %}洪水{% end %}は化石記録を選り分けた一年間の
-全地球的水文現象ではなく、標的を定めた出来事であり、岩石の書き直しではなく
-リセットでした。創世記1章の「日」は暦の日ではなく、長い工学的計画の圧縮された
-諸段階です。そしてエデンの人間たちは六千年前に言葉によって存在させられたのでは
-なく、訪れた科学者たちのチームによって、実験室で*合成された*のです。この映画の
-科学は若い地球を防衛するために作られています。カノンは若い地球を、戦わずして
-明け渡します。それを必要としたことが一度もないからです。カノンが保つのは、この
-映画とカノンがともに神話一辺倒の読みへ明け渡すことを拒む唯一のもの、すなわち、
-テクストは実際の出来事の記憶であり、ひどく伝えられてはいるが記憶であって、真剣な
-読者の仕事はその記憶から出来事を回復することだ、という主張です。
+ついてのものだ*、それは寓話ではなく報告だ、という主張です。しかしそれ以外に
+共有するものは多くありません。カノンの読みでは、この惑星は古く、科学がそれに
+与える四十五億年という年齢に、源泉のどこも異を唱えません。創世記1章の「日」は
+暦の日ではなく、長い工学的計画の圧縮された諸段階です。そしてエデンの人間たちは
+六千年前に言葉によって存在させられたのではなく、訪れた科学者たちのチームに
+よって、実験室で*合成された*のです。この映画の科学は若い地球を防衛するために
+作られています。カノンは若い地球を、戦わずして明け渡します。それを必要とした
+ことが一度もないからです。
+
+{% wiki(slug="great-flood") %}洪水{% end %}こそ、二つの種が最も近づく場所であり、
+この点は正確さを要します。ここでは距離を誇張しやすいからです。カノンの洪水は
+一年間の雨ではありませんでした。それはエロヒムの母星から、創造者たちが地球で
+作ったすべてを終わらせるために命じられた核攻撃であり、カノンはそれが岩石を
+書き直したと明言しています。創造者たちが海底から隆起させた唯一の
+{% wiki(slug="pangaea") %}大陸{% end %}は爆発によって砕かれ、その断片は「衝撃の
+中心から外へ向かって漂流し」、陸地の全表面が押し流されました。「巨大な森林、
+動物、そして人間さえも含むすべての生きた物質」が、「即座に、すべて一緒に」、
+衝突点を取り巻く環状に埋められたのです。今日の大陸はその破片であり、今なお
+動いています。化石層はその埋葬であり、カノンはその順序を、最初の爆発の余波の
+なかで何がいつ死んだかの記録として読みます。一億年の静かな堆積としてでは
+ありません。この一点において、カノンはスネリングやワイズとともに教科書に
+対峙します。岩石の記録は一つの破局の署名なのです。カノンが彼らと袂を分かつ
+のは、その一致を取り巻くすべて——惑星の年齢、出来事の日付、その原因、そして
+その作者の正体——においてです。カノンがこの映画とともに保つのは、両者が神話
+一辺倒の読みへ明け渡すことを拒む唯一のもの、すなわち、テクストは実際の出来事の
+記憶であり、ひどく伝えられてはいるが記憶であって、真剣な読者の仕事はその記憶
+から出来事を回復することだ、という主張です。
 
 これは平明に述べておく価値があります。それが本物の誤りへの予防接種になるから
 です。クリサイズとともに、ラエリアンの説明が「科学的創造説」だと言うことは、
-それが空飛ぶ円盤に乗った洪水地質学だと言うことでは*ありません*。それは、創世記を
-歴史として受け取る読みの属の中にそれを位置づけ、そしてただちに、種の差——それは
-巨大です——を主張することです。若い地球説の論者とカノンは、クリサイズの構造的な
-意味においてはともに創造説の側にありながら、世界の年齢についての事実の問いの
-ただ一つについてすら、同じ部屋に座ることができません。共有された属は実在します。
-そしてその属を横切る距離も実在します。
+それが宇宙船を積んだ*The Genesis Flood*だと言うことでは*ありません*。化石層を
+めぐって両者がどれほど近くに立とうとも、です。それは、創世記を歴史として
+受け取る読みの属の中にそれを位置づけ、そしてただちに、種の差——それは巨大
+です——を主張することです。若い地球説の論者とカノンは、クリサイズの構造的な
+意味においてはともに創造説の側にありながら、惑星の年齢、作り手の正体、作る
+手段のいずれについても、同じ部屋に座ることができません。共有された属は実在
+します。そしてその属を横切る距離も実在します。
 
 ## トロイの木馬
 

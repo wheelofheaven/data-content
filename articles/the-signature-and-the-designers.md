@@ -18,9 +18,9 @@ summary = "At the 2008 premiere of a documentary about the persecution of design
 keywords = ["Intelligent Design", "scientific creationism", "Stephen Meyer", "David Berlinski", "James Tour", "Michael Behe", "William Dembski", "directed panspermia", "Return of the God Hypothesis", "Is Genesis History", "irreducible complexity", "specified complexity", "origin of life", "Elohim", "Raëlism", "George Chryssides", "fine-tuning"]
 references = [
     # — The canon under comparison —
-    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition)" },
+    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶14: the single original continent raised from the seabed, and 'all the continents which drifted apart fit together perfectly to form a single one'; ¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition); Chapter 2, 'The Flood' (¶58: the home planet's decision 'to destroy all life on Earth by sending nuclear missiles'; ¶64: the radioactivity monitored and removed before the survivors disembark)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'Neither God nor Soul' (¶¶31–34: the gigantic being, 'time is inversely proportional to the mass,' the centerless universe, 'nothing is lost, nothing is created'); Chapter 3, 'The Keys' (¶102: respecting nature 'as long as he is not capable of becoming himself a creator')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonies of Raëlians,' §2 'A New Hypothesis for the History of Humanity' (¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the whole account of the Elohim's laboratory creation of terrestrial life" },
 
     # — The modern Intelligent Design movement —
@@ -207,10 +207,10 @@ holds that humanity was *made*, deliberately, by intelligent agents, and that
 the Genesis text is a true if garbled report of the making. But it is a
 *scientific* creationism in a sense the young-earth movement could never
 accept — because its creators are not God, its Earth is not young, its Flood
-is not the world's geology, and its designers used technology continuous with
-our own. Two species, one genus. The young-earth creationist and the Raëlian
-both refuse to read Genesis as pure myth. They disagree about almost
-everything else.
+was a nuclear strike from another planet and not a year of rain, and its
+designers used technology continuous with our own. Two species, one genus.
+The young-earth creationist and the Raëlian both refuse to read Genesis as
+pure myth. They disagree about almost everything else.
 
 That is the frame. The rest of this article works it out — first by taking the
 design argument seriously on its strongest ground, then by watching where each
@@ -349,28 +349,46 @@ Here the Wheel of Heaven reading and the young-earth reading, which
 Chryssides's taxonomy files under the same genus, reveal how far apart two
 species can be. The canon shares the film's foundational refusal — the
 insistence that Genesis is *about something that actually happened*, that it
-is report and not fable. But it shares almost nothing else. On the canon's
-reading the Earth is old, exactly as mainstream geology says; the
-{% wiki(slug="great-flood") %}Flood{% end %} was not a year of global
-hydrology that sorted the fossil record but a targeted event, a reset and not
-a rewriting of the rocks; the "days" of Genesis 1 are not calendar days but
-compressed phases of a long engineering project; and the humans of Eden were
-not spoken into being six thousand years ago but *synthesized*, in
+is report and not fable. But it shares little else. On the canon's reading
+the planet is old, and nothing in the source disputes the four and a half
+billion years that science gives it; the "days" of Genesis 1 are not calendar
+days but compressed phases of a long engineering project; and the humans of
+Eden were not spoken into being six thousand years ago but *synthesized*, in
 laboratories, by a team of visiting scientists. The film's science is built to
 defend the young Earth. The canon gives the young Earth away without a fight,
-because it never needed it. What it keeps is the one thing the film and the
-canon both refuse to surrender to the myth-only reading: that the text is a
-memory of real events, badly transmitted, and that the job of a serious reader
-is to recover the events from the memory.
+because it never needed it.
+
+The {% wiki(slug="great-flood") %}Flood{% end %} is where the two species
+come nearest, and the point deserves exactness, because it is easy to
+overstate the distance. The canon's Flood was not a year of rain. It was a
+nuclear strike, ordered from the Elohim's home planet to end everything the
+creators had made on Earth, and the canon is explicit that it rewrote the
+rocks. The single {% wiki(slug="pangaea") %}continent{% end %} the creators
+had raised from the seabed was broken by the blasts, its fragments sent
+"drifting outwards from the centre of the shock," and the whole land surface
+was swept: "all the living matter including immense forests, animals and even
+Man" went under "immediately and all together," in a ring around the point of
+impact. Today's continents are the pieces, still moving. The fossil beds are
+the burial, and the canon reads their sequence as a record of what died when,
+in the aftermath of the initial explosion, and not as a hundred million years
+of quiet deposition. On that one question the canon stands with Snelling and
+Wise against the textbook: the rock record is the signature of a catastrophe.
+It parts from them on everything around the agreement — the age of the
+planet, the date of the event, its cause, and the identity of its author.
+What it keeps, with the film, is the one thing both refuse to surrender to the
+myth-only reading: that the text is a memory of real events, badly
+transmitted, and that the job of a serious reader is to recover the events
+from the memory.
 
 This bears stating plainly, because it inoculates against a real error. To
 say, with Chryssides, that Raëlism is a "scientific creationism" is *not* to
-say it is Flood geology in a flying saucer. It is to locate it in the genus of
-readings that take Genesis as history — and then to insist, immediately, on
-the species difference, which is enormous. The young-earth creationist and the
-canon are both creationists in Chryssides's structural sense and could not
-sit in the same room on a single question of fact about the age of the world.
-The shared genus is real, and so is the distance across it.
+say it is *The Genesis Flood* with a spacecraft in it, however close the two
+stand on the fossil beds. It is to locate it in the genus of readings that
+take Genesis as history — and then to insist, immediately, on the species
+difference, which is enormous. The young-earth creationist and the canon are
+both creationists in Chryssides's structural sense and could not sit in the
+same room on the age of the planet, the identity of the maker, or the means
+of the making. The shared genus is real, and so is the distance across it.
 
 ## The Trojan horse
 

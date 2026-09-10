@@ -18,9 +18,9 @@ summary = "En el estreno, en 2008, de un documental sobre la persecución de los
 keywords = ["Diseño Inteligente", "creacionismo científico", "Stephen Meyer", "David Berlinski", "James Tour", "Michael Behe", "William Dembski", "panspermia dirigida", "Return of the God Hypothesis", "Is Genesis History", "complejidad irreducible", "complejidad especificada", "origen de la vida", "Elohim", "Raelismo", "George Chryssides", "ajuste fino"]
 references = [
     # — The canon under comparison —
-    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition)" },
+    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶14: the single original continent raised from the seabed, and 'all the continents which drifted apart fit together perfectly to form a single one'; ¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition); Chapter 2, 'The Flood' (¶58: the home planet's decision 'to destroy all life on Earth by sending nuclear missiles'; ¶64: the radioactivity monitored and removed before the survivors disembark)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'Neither God nor Soul' (¶¶31–34: the gigantic being, 'time is inversely proportional to the mass,' the centerless universe, 'nothing is lost, nothing is created'); Chapter 3, 'The Keys' (¶102: respecting nature 'as long as he is not capable of becoming himself a creator')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonies of Raëlians,' §2 'A New Hypothesis for the History of Humanity' (¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the whole account of the Elohim's laboratory creation of terrestrial life" },
 
     # — The modern Intelligent Design movement —
@@ -212,10 +212,11 @@ sostiene que la humanidad fue *hecha*, deliberadamente, por agentes
 inteligentes, y que el texto del Génesis es un informe verdadero aunque
 distorsionado de esa factura. Pero es un creacionismo *científico* en un
 sentido que el movimiento de la Tierra joven jamás podría aceptar — porque sus
-creadores no son Dios, su Tierra no es joven, su Diluvio no es la geología del
-mundo y sus diseñadores usaron una tecnología continua con la nuestra. Dos
-especies, un género. El creacionista de la Tierra joven y el raeliano se niegan
-ambos a leer el Génesis como puro mito. Discrepan en casi todo lo demás.
+creadores no son Dios, su Tierra no es joven, su Diluvio fue un ataque nuclear
+desde otro planeta y no un año de lluvia, y sus diseñadores usaron una
+tecnología continua con la nuestra. Dos especies, un género. El creacionista de
+la Tierra joven y el raeliano se niegan ambos a leer el Génesis como puro mito.
+Discrepan en casi todo lo demás.
 
 Ese es el marco. El resto de este artículo lo desarrolla — primero tomando en
 serio el argumento del diseño en su terreno más firme, luego observando dónde
@@ -360,30 +361,49 @@ Aquí la lectura de Wheel of Heaven y la lectura de la Tierra joven, que la
 taxonomía de Chryssides archiva bajo el mismo género, revelan lo lejos que
 pueden estar dos especies. El canon comparte la negativa fundacional de la
 película — la insistencia en que el Génesis trata *de algo que sucedió
-realmente*, en que es informe y no fábula. Pero no comparte casi nada más. En
-la lectura del canon la Tierra es antigua, exactamente como dice la geología
-dominante; el {% wiki(slug="great-flood") %}Diluvio{% end %} no fue un año de
-hidrología global que ordenó el registro fósil, sino un acontecimiento
-selectivo, un reinicio y no una reescritura de las rocas; los «días» del
+realmente*, en que es informe y no fábula. Pero comparte poco más. En la
+lectura del canon el planeta es antiguo, y nada en la fuente discute los cuatro
+mil quinientos millones de años que la ciencia le atribuye; los «días» del
 Génesis 1 no son días de calendario, sino fases comprimidas de un largo
 proyecto de ingeniería; y los humanos del Edén no fueron pronunciados a la
 existencia hace seis mil años, sino *sintetizados*, en laboratorios, por un
 equipo de científicos visitantes. La ciencia de la película está construida
 para defender la Tierra joven. El canon entrega la Tierra joven sin dar pelea,
-porque nunca la necesitó. Lo que conserva es la única cosa que la película y el
-canon se niegan por igual a ceder a la lectura de solo-mito: que el texto es un
-recuerdo de acontecimientos reales, mal transmitido, y que la tarea de un
-lector serio consiste en recuperar los acontecimientos a partir del recuerdo.
+porque nunca la necesitó.
+
+El {% wiki(slug="great-flood") %}Diluvio{% end %} es donde las dos especies
+más se acercan, y el punto exige exactitud, porque aquí es fácil exagerar la
+distancia. El Diluvio del canon no fue un año de lluvia. Fue un ataque nuclear,
+ordenado desde el planeta natal de los Elohim para acabar con todo lo que los
+creadores habían hecho en la Tierra, y el canon es explícito en que reescribió
+las rocas. El único {% wiki(slug="pangaea") %}continente{% end %} que los
+creadores habían levantado del fondo marino fue quebrado por las explosiones,
+sus fragmentos salieron «a la deriva hacia fuera desde el centro del impacto»,
+y toda la superficie terrestre fue barrida: «toda la materia viva, incluidos
+bosques inmensos, animales e incluso el Hombre» quedó enterrada «de inmediato y
+toda a la vez», en un anillo alrededor del punto de impacto. Los continentes
+de hoy son los pedazos, todavía en movimiento. Los lechos fósiles son el
+entierro, y el canon lee su secuencia como un registro de qué murió cuándo, en
+las secuelas de la explosión inicial, y no como cien millones de años de
+sedimentación tranquila. En esa única cuestión el canon se alinea con Snelling
+y Wise contra el manual: el registro rocoso es la firma de una catástrofe. Se
+separa de ellos en todo lo que rodea ese acuerdo — la edad del planeta, la
+fecha del acontecimiento, su causa y la identidad de su autor. Lo que conserva,
+con la película, es la única cosa que ambos se niegan a ceder a la lectura de
+solo-mito: que el texto es un recuerdo de acontecimientos reales, mal
+transmitido, y que la tarea de un lector serio consiste en recuperar los
+acontecimientos a partir del recuerdo.
 
 Conviene decir esto sin rodeos, porque inocula contra un error real. Decir, con
 Chryssides, que el raelismo es un «creacionismo científico» *no* es decir que
-sea geología del Diluvio en un platillo volante. Es situarlo en el género de
-las lecturas que toman el Génesis como historia — e insistir de inmediato en la
-diferencia de especie, que es enorme. El creacionista de la Tierra joven y el
-canon son ambos creacionistas en el sentido estructural de Chryssides y no
-podrían sentarse en la misma sala ante una sola cuestión de hecho sobre la edad
-del mundo. El género compartido es real, y también lo es la distancia que lo
-atraviesa.
+sea *The Genesis Flood* con una nave espacial dentro, por cerca que estén los
+dos ante los lechos fósiles. Es situarlo en el género de las lecturas que toman
+el Génesis como historia — e insistir de inmediato en la diferencia de especie,
+que es enorme. El creacionista de la Tierra joven y el canon son ambos
+creacionistas en el sentido estructural de Chryssides y no podrían sentarse en
+la misma sala ante la edad del planeta, la identidad del hacedor o los medios
+de la hechura. El género compartido es real, y también lo es la distancia que
+lo atraviesa.
 
 ## El caballo de Troya
 

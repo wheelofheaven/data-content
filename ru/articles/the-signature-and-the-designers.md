@@ -18,9 +18,9 @@ summary = "На премьере 2008 года документального ф
 keywords = ["Разумный замысел", "научный креационизм", "Стивен Мейер", "Дэвид Берлински", "Джеймс Тур", "Майкл Бихи", "Уильям Дембски", "направленная панспермия", "Return of the God Hypothesis", "Is Genesis History", "неупрощаемая сложность", "специфицированная сложность", "происхождение жизни", "Элохим", "Раэлизм", "Джордж Крисайдс", "тонкая настройка"]
 references = [
     # — The canon under comparison —
-    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition)" },
+    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶14: the single original continent raised from the seabed, and 'all the continents which drifted apart fit together perfectly to form a single one'; ¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition); Chapter 2, 'The Flood' (¶58: the home planet's decision 'to destroy all life on Earth by sending nuclear missiles'; ¶64: the radioactivity monitored and removed before the survivors disembark)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'Neither God nor Soul' (¶¶31–34: the gigantic being, 'time is inversely proportional to the mass,' the centerless universe, 'nothing is lost, nothing is created'); Chapter 3, 'The Keys' (¶102: respecting nature 'as long as he is not capable of becoming himself a creator')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonies of Raëlians,' §2 'A New Hypothesis for the History of Humanity' (¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the whole account of the Elohim's laboratory creation of terrestrial life" },
 
     # — The modern Intelligent Design movement —
@@ -206,10 +206,10 @@ Evolution Reveals a Universe Without Design* — есть вся позиция 
 разумными деятелями, и что текст Бытия есть истинный, хотя и искажённый
 отчёт об этом делании. Но это *научный* креационизм в смысле, какого движение
 молодой Земли никогда не смогло бы принять, — ибо его творцы не Бог, его Земля
-не молода, его потоп не есть геология мира, а его замыслители пользовались
-технологией, непрерывной с нашей. Два вида, один род. Креационист молодой
-Земли и раэлианин оба отказываются читать Бытие как чистый миф. Почти во всём
-остальном они расходятся.
+не молода, его потоп был ядерным ударом с другой планеты, а не годом дождя, а
+его замыслители пользовались технологией, непрерывной с нашей. Два вида, один
+род. Креационист молодой Земли и раэлианин оба отказываются читать Бытие как
+чистый миф. Почти во всём остальном они расходятся.
 
 Такова рама. Остальная часть статьи её разрабатывает — сперва принимая довод о
 замысле всерьёз на его сильнейшей почве, затем наблюдая, где каждая ветвь
@@ -347,27 +347,44 @@ Species* (1859) ответило ему механизмом — ненапра�
 Крисайдса заносит в один род, обнаруживают, как далеко могут отстоять друг от
 друга два вида. Канон разделяет основоположный отказ фильма — настояние на
 том, что Бытие *о чём-то, что действительно произошло*, что оно есть отчёт, а
-не басня. Но почти ничего иного он с ним не разделяет. В прочтении канона
-Земля стара — ровно так, как говорит мейнстримная геология;
-{% wiki(slug="great-flood") %}потоп{% end %} был не годом всемирной
-гидрологии, рассортировавшей ископаемую летопись, а нацеленным событием,
-перезапуском, а не переписыванием пород; «дни» первой главы Бытия суть не
+не басня. Но сверх этого он разделяет с ним немногое. В прочтении канона
+планета стара, и ничто в источнике не оспаривает четырёх с половиной
+миллиардов лет, которые даёт ей наука; «дни» первой главы Бытия суть не
 календарные дни, а сжатые фазы долгого инженерного проекта; а люди Эдема были
 не изречены в бытие шесть тысяч лет назад, а *синтезированы*, в лабораториях,
 командой приезжих учёных. Наука фильма выстроена, чтобы защищать молодую Землю.
-Канон отдаёт молодую Землю без боя, ибо она никогда не была ему нужна. Он
-удерживает то единственное, что и фильм, и канон отказываются уступить
-мифологическому прочтению: что текст есть память о реальных событиях, дурно
-переданная, и что дело серьёзного читателя — восстановить события из памяти.
+Канон отдаёт молодую Землю без боя, ибо она никогда не была ему нужна.
+
+{% wiki(slug="great-flood") %}Потоп{% end %} — то место, где два вида сходятся
+ближе всего, и здесь нужна точность, ибо расстояние легко преувеличить. Потоп
+канона не был годом дождя. Это был ядерный удар, назначенный с родной планеты
+Элохим, чтобы положить конец всему, что творцы сделали на Земле, и канон прямо
+говорит, что он переписал породы. Единственный
+{% wiki(slug="pangaea") %}континент{% end %}, который творцы подняли со дна
+моря, был расколот взрывами, его обломки отправились «дрейфовать наружу от
+центра удара», а вся поверхность суши была сметена: «всё живое вещество,
+включая необъятные леса, животных и даже Человека» оказалось погребено
+«немедленно и всё разом», кольцом вокруг точки взрыва. Нынешние материки — это
+обломки, всё ещё движущиеся. Ископаемые пласты — это погребение, и канон читает
+их последовательность как запись того, что и когда погибло в последствиях
+первоначального взрыва, а не как сто миллионов лет тихого осадконакопления. В
+этом одном вопросе канон стоит со Снеллингом и Уайзом против учебника: каменная
+летопись есть подпись катастрофы. Он расходится с ними во всём, что окружает
+это согласие, — в возрасте планеты, в дате события, в его причине и в личности
+его виновника. Он удерживает, вместе с фильмом, то единственное, что оба
+отказываются уступить мифологическому прочтению: что текст есть память о
+реальных событиях, дурно переданная, и что дело серьёзного читателя —
+восстановить события из памяти.
 
 Это стоит сказать прямо, ибо это прививает от настоящей ошибки. Сказать, вместе
 с Крисайдсом, что раэлизм есть «научный креационизм», *не* значит сказать, что
-это геология потопа в летающей тарелке. Это значит поместить его в род
-прочтений, берущих Бытие как историю, — и тут же настоять на видовом различии,
-которое огромно. Креационист молодой Земли и канон оба суть креационисты в
-структурном смысле Крисайдса и не могли бы усидеть в одной комнате ни при одном
-фактическом вопросе о возрасте мира. Общий род реален, и расстояние поперёк
-него реально тоже.
+это *The Genesis Flood* с космическим кораблём внутри, как бы близко ни стояли
+оба у ископаемых пластов. Это значит поместить его в род прочтений, берущих
+Бытие как историю, — и тут же настоять на видовом различии, которое огромно.
+Креационист молодой Земли и канон оба суть креационисты в структурном смысле
+Крисайдса и не могли бы усидеть в одной комнате ни о возрасте планеты, ни о
+личности создателя, ни о средствах созидания. Общий род реален, и расстояние
+поперёк него реально тоже.
 
 ## Троянский конь
 

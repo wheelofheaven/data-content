@@ -18,9 +18,9 @@ summary = "설계 이론가들에 대한 박해를 다룬 한 다큐멘터리의
 keywords = ["지적 설계", "과학적 창조론", "스티븐 마이어", "데이비드 베를린스키", "제임스 투어", "마이클 비히", "윌리엄 뎀스키", "지향 범종설", "Return of the God Hypothesis", "Is Genesis History", "환원 불가능한 복잡성", "특정된 복잡성", "생명의 기원", "엘로힘", "라엘리안 운동", "조지 크리시데스", "미세 조정"]
 references = [
     # — The canon under comparison —
-    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition)" },
+    { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶14: the single original continent raised from the seabed, and 'all the continents which drifted apart fit together perfectly to form a single one'; ¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition); Chapter 2, 'The Flood' (¶58: the home planet's decision 'to destroy all life on Earth by sending nuclear missiles'; ¶64: the radioactivity monitored and removed before the survivors disembark)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'Neither God nor Soul' (¶¶31–34: the gigantic being, 'time is inversely proportional to the mass,' the centerless universe, 'nothing is lost, nothing is created'); Chapter 3, 'The Keys' (¶102: respecting nature 'as long as he is not capable of becoming himself a creator')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonies of Raëlians,' §2 'A New Hypothesis for the History of Humanity' (¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the whole account of the Elohim's laboratory creation of terrestrial life" },
 
     # — The modern Intelligent Design movement —
@@ -195,10 +195,11 @@ Church.”**{{ footnote(id="2") }} 크리시데스의 논점은, 인간 기원�
 것이었다. 그것은 인류가 지적 행위자들에 의해 의도적으로 *만들어졌다*고 보며,
 창세기 본문이 뒤틀렸을지언정 그 만듦에 대한 참된 보고라고 본다. 그러나 그것은
 젊은 지구 운동으로서는 결코 받아들일 수 없는 뜻에서의 *과학적* 창조론이다. 그
-창조자들은 하느님이 아니고, 그 지구는 젊지 않으며, 그 홍수는 세계의 지질학이
-아니고, 그 설계자들은 우리 자신의 것과 연속적인 기술을 썼기 때문이다. 두 종,
-한 속. 젊은 지구 창조론자와 라엘리안은 둘 다 창세기를 순전한 신화로 읽기를
-거부한다. 그들은 그 밖의 거의 모든 것에서 의견이 갈린다.
+창조자들은 하느님이 아니고, 그 지구는 젊지 않으며, 그 홍수는 다른 행성에서 온
+핵공격이었지 한 해 동안의 비가 아니고, 그 설계자들은 우리 자신의 것과 연속적인
+기술을 썼기 때문이다. 두 종, 한 속. 젊은 지구 창조론자와 라엘리안은 둘 다
+창세기를 순전한 신화로 읽기를 거부한다. 그들은 그 밖의 거의 모든 것에서 의견이
+갈린다.
 
 그것이 이 글의 틀이다. 나머지는 그것을 풀어낸다. 먼저 설계 논증을 그 가장 강한
 지반 위에서 진지하게 받아들이고, 그다음 그 가족의 각 가지가 정경과 어디에서
@@ -321,27 +322,42 @@ of Species*(1859)는 그에게 하나의 메커니즘 — 방향 없는 변이, 
 여기서 Wheel of Heaven의 독해와 젊은 지구의 독해는, 크리시데스의 분류법이
 같은 속 아래에 묶어 놓은 두 종이 얼마나 멀리 떨어질 수 있는지를 드러낸다.
 정경은 그 영화의 근본적인 거부 — 창세기가 *실제로 일어난 무언가에 관한 것*이며
-꾸며 낸 이야기가 아니라 보고라는 고집 — 를 공유한다. 그러나 그 밖에는 거의
-아무것도 공유하지 않는다. 정경의 독해에서 지구는 오래되었으니, 주류 지질학이
-말하는 그대로이다. {% wiki(slug="great-flood") %}대홍수{% end %}는 화석 기록을
-분류해 놓은 한 해 동안의 전 지구적 수문(水文) 현상이 아니라 표적을 정한 사건,
-곧 초기화였지 암석의 다시 쓰기가 아니었다. 창세기 1장의 “날”들은 달력의 날이
-아니라 긴 공학 사업의 압축된 국면이다. 그리고 에덴의 인간들은 육천 년 전에
-말로써 존재하게 된 것이 아니라, 방문한 과학자 팀에 의해 실험실에서
+꾸며 낸 이야기가 아니라 보고라는 고집 — 를 공유한다. 그러나 그 밖에 공유하는
+것은 많지 않다. 정경의 독해에서 이 행성은 오래되었고, 과학이 그것에 부여하는
+45억 년이라는 나이를 원전의 어느 대목도 다투지 않는다. 창세기 1장의 “날”들은
+달력의 날이 아니라 긴 공학 사업의 압축된 국면이다. 그리고 에덴의 인간들은 육천
+년 전에 말로써 존재하게 된 것이 아니라, 방문한 과학자 팀에 의해 실험실에서
 *합성되었다*. 그 영화의 과학은 젊은 지구를 방어하도록 지어졌다. 정경은 젊은
-지구를 싸움 없이 내주는데, 애초에 그것이 필요했던 적이 없기 때문이다. 정경이
-지키는 것은, 그 영화와 정경이 둘 다 신화-일변도의 독해에 넘겨주기를 거부하는 단
-하나, 곧 그 본문이 실제 사건들에 대한 기억이며 잘못 전해졌을 뿐이라는 것,
-그리고 진지한 독자의 일은 그 기억에서 사건들을 되찾아 내는 것이라는 사실이다.
+지구를 싸움 없이 내주는데, 애초에 그것이 필요했던 적이 없기 때문이다.
+
+{% wiki(slug="great-flood") %}대홍수{% end %}는 두 종이 가장 가까이 다가서는
+지점이며, 이 점은 정확함을 요구한다. 여기서는 거리를 과장하기 쉽기 때문이다.
+정경의 대홍수는 한 해 동안의 비가 아니었다. 그것은 창조자들이 지구에서 만든
+모든 것을 끝내기 위해 엘로힘의 모행성에서 명령된 핵공격이었으며, 정경은 그것이
+암석을 다시 썼다고 명시한다. 창조자들이 해저에서 끌어올린 단 하나의
+{% wiki(slug="pangaea") %}대륙{% end %}은 폭발로 부서졌고, 그 조각들은 “충격의
+중심에서 바깥으로 표류”했으며, 육지의 표면 전체가 휩쓸렸다. “거대한 숲과 동물,
+심지어 인간까지 포함한 모든 살아 있는 물질”이 “즉시, 그리고 모두 한꺼번에”
+충돌 지점을 둘러싼 고리 모양으로 묻혔다. 오늘의 대륙들은 그 조각들이며, 아직도
+움직이고 있다. 화석층은 그 매장이며, 정경은 그 순서를 최초의 폭발 이후의
+여파 속에서 무엇이 언제 죽었는지의 기록으로 읽는다 — 일억 년에 걸친 고요한
+퇴적으로 읽지 않는다. 이 한 가지 물음에서 정경은 스넬링, 와이즈와 함께 교과서에
+맞선다. 암석 기록은 한 파국의 서명이다. 정경이 그들과 갈라서는 것은 그 합의를
+둘러싼 모든 것 — 행성의 나이, 사건의 날짜, 그 원인, 그리고 그 장본인의 정체 —
+에서다. 정경이 그 영화와 더불어 지키는 것은, 둘 다 신화-일변도의 독해에
+넘겨주기를 거부하는 단 하나, 곧 그 본문이 실제 사건들에 대한 기억이며 잘못
+전해졌을 뿐이라는 것, 그리고 진지한 독자의 일은 그 기억에서 사건들을 되찾아
+내는 것이라는 사실이다.
 
 이것은 분명히 말해 둘 값어치가 있으니, 실재하는 오류 하나를 예방해 주기
 때문이다. 크리시데스와 더불어 라엘리즘이 “과학적 창조론”이라고 말하는 것은
-그것이 비행접시에 탄 홍수 지질학이라는 말이 *아니다*. 그것은 창세기를 역사로
-받아들이는 독해들의 속 안에 그것을 자리매김하는 것이며 — 그런 다음 곧바로 그
-종의 차이를, 그 엄청난 차이를 못 박는 것이다. 젊은 지구 창조론자와 정경은
-크리시데스의 구조적 뜻에서 둘 다 창조론자이면서도, 세계의 나이에 관한 단 하나의
-사실 문제를 두고 같은 방에 앉아 있을 수조차 없다. 공유된 속도 실재하고, 그것을
-가로지르는 거리도 실재한다.
+그것이 우주선을 실은 *The Genesis Flood*라는 말이 *아니다* — 화석층 앞에서 둘이
+아무리 가까이 서 있다 해도 그렇다. 그것은 창세기를 역사로 받아들이는 독해들의
+속 안에 그것을 자리매김하는 것이며 — 그런 다음 곧바로 그 종의 차이를, 그 엄청난
+차이를 못 박는 것이다. 젊은 지구 창조론자와 정경은 크리시데스의 구조적 뜻에서
+둘 다 창조론자이면서도, 행성의 나이, 만든 이의 정체, 만듦의 수단에 관해 같은
+방에 앉아 있을 수 없다. 공유된 속도 실재하고, 그것을 가로지르는 거리도
+실재한다.
 
 ## 트로이 목마
 
