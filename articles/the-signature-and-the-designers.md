@@ -8,8 +8,8 @@ draft = false
 [extra]
 claim_type = "speculative"
 editorial_pass = "2026-05"
-core_claim_ids = ["woh-claim-0036", "woh-claim-0030"]
-core_versions = { woh-claim-0036 = "0.1.0", woh-claim-0030 = "0.1.0" }
+core_claim_ids = ["woh-claim-0036", "woh-claim-0030", "woh-claim-0071"]
+core_versions = { woh-claim-0036 = "0.1.0", woh-claim-0030 = "0.1.0", woh-claim-0071 = "0.1.0" }
 article_type = "explainer"
 category = "Science & Technology"
 author = "Zara Zinsfuss"

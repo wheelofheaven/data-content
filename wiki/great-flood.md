@@ -15,8 +15,8 @@ category = "Events & Narratives"
 editorial_pass = "2026-08"
 entry_type = "event"
 claim_type = "inferred"
-core_claim_ids = ["woh-claim-0010"]
-core_versions = { woh-claim-0010 = "0.1.0" }
+core_claim_ids = ["woh-claim-0010", "woh-claim-0071"]
+core_versions = { woh-claim-0010 = "0.1.0", woh-claim-0071 = "0.1.0" }
 alternative_names = ["the Great Deluge", "the Flood", "the Mabbul", "the Deluge", "ha-mabbul", "הַמַּבּוּל", "the Noahic Flood"]
 timeline = ["gemini"]
 
@@ -76,6 +76,10 @@ note = "Vorilhon (Raël, 1974), chapter 2; the principal Raëlian source for the
 [[extra.references]]
 id = "intelligent-design-message-from-the-designers"
 note = "Collected canonical edition of the three Raëlian source-material books, including the Flood material."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Vorilhon (Raël, 1979), chapter 4, ¶35 — the continental-breakup passage quoted in this entry, printed in the volume's commentaries section; ¶37 on the petroleum ring, ¶¶43–44 on the geological and climatic upheaval."
 
 [[extra.references]]
 id = "sendy-ces-dieux"
@@ -338,7 +342,7 @@ The Council's destruction order was executed through nuclear weapons impacts dir
 
 **The atmospheric and seismic disruption**. The strike produced substantial atmospheric disturbance (the "windows of heaven" being "opened" in Genesis 7:11, the "forty days and forty nights" of rain in Genesis 7:12), with the precipitation reflecting both the impact-disturbed water cycle and the fallout-bearing precipitation across the affected zones.
 
-**The continental fragmentation**. The most substantial geological consequence of the strike was the fragmentation of the Pangaean supercontinent into the modern continental configuration. The source material is explicit on this point: *"When the Elohim decided to destroy their bases, their laboratories and all that they had created on Earth, they must have used extremely powerful methods of destruction, which, as well as breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock, must also have swept the whole land surface."* The framework reads the modern continental drift as the residual momentum from this original displacement, with the ongoing GPS-measured plate motion being the slowing-down phase of the original Gemini-age event.
+**The continental fragmentation**. The most substantial geological consequence of the strike was the fragmentation of the Pangaean supercontinent into the modern continental configuration. The canon's third book, *Let's Welcome the Extraterrestrials* (chapter 4, ¶35, in the commentaries printed with the message), is explicit on this point: *"When the Elohim decided to destroy their bases, their laboratories and all that they had created on Earth, they must have used extremely powerful methods of destruction, which, as well as breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock, must also have swept the whole land surface."* The framework reads the modern continental drift as the residual momentum from this original displacement, with the ongoing GPS-measured plate motion being the slowing-down phase of the original Gemini-age event.
 
 **The mass extinction**. The strike effectively destroyed the broader pre-Flood biosphere on the supercontinent's surface — the antediluvian human civilization's broader population, the Nephilim hybrid lineages, the various large terrestrial organisms (including the surviving dinosaur populations the source material treats as having persisted into the late antediluvian period), the broader plant and animal communities. The post-Flood biosphere would be reconstructed substantially from the genetic cargo preserved in the ark.
 
