@@ -1,0 +1,10 @@
++++
+title = "The Pillar of Enoch"
+path = "/he/sources/pillar-of-enoch-dot-com/"
+template = "source-page.html"
+description = "Helena Lehman's \"Pillar of Enoch\" website is a resource for those interested in Judeo-Christian spiritual truths, ancient history, and future prophecies related to signs in the heavens as connected to Bible prophecy. The site features her \"Language of God Book Series,\" which explores biblical allegory and symbolism. The series delves into the prophetic imagery of the Bible, sacred monuments like the Great Pyramid and Solomon's Temple, and connections to constellations like Orion. Additionally, it discusses the Pillar of Enoch or Great Pyramid and its relation to the pre-Flood Sethites, the Gospel in the Stars, and how these elements tie into understanding biblical prophecies like those in Daniel, Ezekiel, and Revelation​.\n\n### See also\n\n[Wiki › Great Year](/wiki/encyclopedia/great-year/)</br>\n[Wiki › Precession](/wiki/encyclopedia/precession/)</br>"
+
+[extra]
+source_id = "pillar-of-enoch-dot-com"
+translation_status = "en_only"
++++

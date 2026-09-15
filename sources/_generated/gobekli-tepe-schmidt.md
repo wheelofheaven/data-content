@@ -1,0 +1,10 @@
++++
+title = "Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia"
+path = "/sources/gobekli-tepe-schmidt/"
+template = "source-page.html"
+description = "Klaus Schmidt's 2012 English edition (originally *Sie bauten die ersten Tempel: Das rätselhafte Heiligtum der Steinzeitjäger*, 2006) — the principal scholarly treatment of the Göbekli Tepe excavation, written by the archaeologist who identified and led the dig from 1995 until his death in 2014. The site's massive carved limestone pillars (the largest 5.5m tall, weighing 10–20 tons each), the deliberate burial of the enclosures around 8000 BCE, and the carbon dating placing earliest construction at c. 9600 BCE have substantially overturned the previously dominant view of when complex human civilization began. The work is the foundational source for the Pre-Pottery Neolithic revision that underwrites contemporary archaeological engagement with the early Holocene."
+
+[extra]
+source_id = "gobekli-tepe-schmidt"
+translation_status = "en_only"
++++

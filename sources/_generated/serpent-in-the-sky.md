@@ -1,0 +1,10 @@
++++
+title = "Serpent in the Sky: The High Wisdom of Ancient Egypt"
+path = "/sources/serpent-in-the-sky/"
+template = "source-page.html"
+description = "John Anthony West's 1993 Quest Books work — the principal articulation of West's substantial alternative-Egyptology argument and the first major popular presentation of the Sphinx redating hypothesis that Robert Schoch subsequently developed geologically. West (1932–2018) developed the René Schwaller de Lubicz \"symbolist\" reading of Egyptian iconography and argued for a substantially older Egyptian civilizational origin than the conventional dynastic chronology allows. The work remains the principal entry point to West's broader alternative-Egyptology corpus."
+
+[extra]
+source_id = "serpent-in-the-sky"
+translation_status = "en_only"
++++

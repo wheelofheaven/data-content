@@ -1,0 +1,10 @@
++++
+title = "Ancient Apocalypse"
+path = "/he/sources/ancient-apocalypse/"
+template = "source-page.html"
+description = "\"Ancient Apocalypse,\" a 2022 Netflix documentary series hosted by British writer Graham Hancock, presents a series of pseudoarchaeological theories about an advanced civilization that existed during the last ice age. The series, produced by ITN Productions and highly watched upon release, suggests that this civilization was destroyed in a cataclysm and its survivors introduced agriculture, monumental architecture, and astronomy to hunter-gatherers around the world. Hancock contends that various ancient monuments are evidence of this civilization and accuses archaeologists of ignoring or covering up this alleged evidence. The series incorporates ideas from the Comet Research Group, including the controversial Younger Dryas impact hypothesis.\n\n### See also\n\n- [Graham Hancock\\'s Fingerprints of the Gods\\: The Evidence of Earth\\'s Lost Civilization](/resources/fingerprints-of-the-gods/index/)\n\n### External links\n\n- [Ancient Apocalypse | Wikipedia](https://en.wikipedia.org/wiki/Ancient_Apocalypse)"
+
+[extra]
+source_id = "ancient-apocalypse"
+translation_status = "en_only"
++++

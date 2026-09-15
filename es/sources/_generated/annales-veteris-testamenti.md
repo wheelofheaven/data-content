@@ -1,0 +1,10 @@
++++
+title = "Annales Veteris Testamenti"
+path = "/es/sources/annales-veteris-testamenti/"
+template = "source-page.html"
+description = "Archbishop James Ussher's 1650 chronology of the Old Testament — the work that produced the famous date of 4004 BCE for the creation of the world and 2348 BCE for the Flood. Ussher's chronology, derived from summing the patriarchal ages in Genesis 5 and tracking the genealogies through to identifiable historical events, was widely adopted across the Anglophone world, printed in the margins of the Authorized Version for two centuries, and is the principal reference point for the early-modern Christian chronology of the antediluvian period."
+
+[extra]
+source_id = "annales-veteris-testamenti"
+translation_status = "en_only"
++++
