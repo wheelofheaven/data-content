@@ -16,7 +16,7 @@ editorial_pass = "2026-08"
 entry_type = "event"
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0010", "woh-claim-0071"]
-core_versions = { woh-claim-0010 = "0.1.0", woh-claim-0071 = "0.1.0" }
+core_versions = { woh-claim-0010 = "0.1.0", woh-claim-0071 = "0.2.0" }
 alternative_names = ["the Great Deluge", "the Flood", "the Mabbul", "the Deluge", "ha-mabbul", "הַמַּבּוּל", "the Noahic Flood"]
 timeline = ["gemini"]
 
@@ -79,7 +79,11 @@ note = "Collected canonical edition of the three Raëlian source-material books,
 
 [[extra.references]]
 id = "lets-welcome-the-extraterrestrials"
-note = "Vorilhon (Raël, 1979), chapter 4, ¶35 — the continental-breakup passage quoted in this entry, printed in the volume's commentaries section; ¶37 on the petroleum ring, ¶¶43–44 on the geological and climatic upheaval."
+note = "Vorilhon (Raël, 1979), chapter 4: Marcel Terrusse, 'Raelism Through the Eyes of Science', §2 'A New Hypothesis for the History of Humanity' — the continental-breakup passage quoted in this entry (2005 English edition p. 331; 1979 French text at LWTE-4:34–41, whose residual-velocity sentences the English omits), the petroleum-ring citation (p. 330), and the upheaval and the survivors' return (p. 332). A signed contribution printed with the message, absent from the 2005 French combined edition."
+
+[[extra.references]]
+id = "nehring-giant-oil-fields-1978"
+note = "RAND R-2284-CIA (June 1978), prepared for the CIA — the study Terrusse's essay cites, as a 'Hudson Institute' study by 'Professor Nehring', for the petroleum ring. Its p. 39 and Fig. 3.1 describe the 'ring of oil' on a plate reconstruction for the end of the Triassic, 180 million years ago, and leave it unexplained; the ring is Nehring's, the burial-rim reading is Terrusse's."
 
 [[extra.references]]
 id = "sendy-ces-dieux"
@@ -342,7 +346,7 @@ The Council's destruction order was executed through nuclear weapons impacts dir
 
 **The atmospheric and seismic disruption**. The strike produced substantial atmospheric disturbance (the "windows of heaven" being "opened" in Genesis 7:11, the "forty days and forty nights" of rain in Genesis 7:12), with the precipitation reflecting both the impact-disturbed water cycle and the fallout-bearing precipitation across the affected zones.
 
-**The continental fragmentation**. The most substantial geological consequence of the strike was the fragmentation of the Pangaean supercontinent into the modern continental configuration. The canon's third book, *Let's Welcome the Extraterrestrials* (chapter 4, ¶35, in the commentaries printed with the message), is explicit on this point: *"When the Elohim decided to destroy their bases, their laboratories and all that they had created on Earth, they must have used extremely powerful methods of destruction, which, as well as breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock, must also have swept the whole land surface."* The framework reads the modern continental drift as the residual momentum from this original displacement, with the ongoing GPS-measured plate motion being the slowing-down phase of the original Gemini-age event.
+**The continental fragmentation**. The most substantial geological consequence of the strike was the fragmentation of the Pangaean supercontinent into the modern continental configuration. The canon's third book carries the point explicitly, in the signed essay by the Raëlian guide and chemical engineer Marcel Terrusse printed as its chapter 4, *Raelism Through the Eyes of Science* (§2, "A New Hypothesis for the History of Humanity"; 2005 English edition, p. 331): *"When the Elohim decided to destroy their bases, their laboratories and all that they had created on Earth, they must have used extremely powerful methods of destruction, which, as well as breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock, must also have swept the whole land surface."* The framework reads the modern continental drift as the residual momentum from this original displacement, with the ongoing GPS-measured plate motion being the slowing-down phase of the original Gemini-age event.
 
 **The mass extinction**. The strike effectively destroyed the broader pre-Flood biosphere on the supercontinent's surface — the antediluvian human civilization's broader population, the Nephilim hybrid lineages, the various large terrestrial organisms (including the surviving dinosaur populations the source material treats as having persisted into the late antediluvian period), the broader plant and animal communities. The post-Flood biosphere would be reconstructed substantially from the genetic cargo preserved in the ark.
 

@@ -20,7 +20,7 @@ references = [
     # — The canon under comparison —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶14: the single original continent raised from the seabed, and 'all the continents which drifted apart fit together perfectly to form a single one'; ¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition); Chapter 2, 'The Flood' (¶58: the home planet's decision 'to destroy all life on Earth by sending nuclear missiles'; ¶64: the radioactivity monitored and removed before the survivors disembark)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'Neither God nor Soul' (¶¶31–34: the gigantic being, 'time is inversely proportional to the mass,' the centerless universe, 'nothing is lost, nothing is created'); Chapter 3, 'The Keys' (¶102: respecting nature 'as long as he is not capable of becoming himself a creator')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonies of Raëlians,' §2 'A New Hypothesis for the History of Humanity' (¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonials of Raelians': Marcel Terrusse, 'Raelism Through the Eyes of Science,' §2 'A New Hypothesis for the History of Humanity' (2005 English edition p. 331, digitization ¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the whole account of the Elohim's laboratory creation of terrestrial life" },
 
     # — The modern Intelligent Design movement —
@@ -384,8 +384,10 @@ Bei der {% wiki(slug="great-flood") %}Sintflut{% end %} kommen sich die beiden
 Arten am nächsten, und der Punkt verlangt Genauigkeit, weil sich die Distanz
 hier leicht übertreiben lässt. Die Sintflut des Kanons war kein Jahr Regen. Sie
 war ein Atomschlag, vom Heimatplaneten der Elohim angeordnet, um alles zu
-beenden, was die Schöpfer auf der Erde gemacht hatten, und der Kanon sagt
-ausdrücklich, dass sie das Gestein neu schrieb. Der einzige
+beenden, was die Schöpfer auf der Erde gemacht hatten, und das dritte Buch
+des Kanons sagt, in einem signierten Essay des raëlianischen Guides und
+Chemieingenieurs Marcel Terrusse, ausdrücklich, dass sie das Gestein neu
+schrieb. Der einzige
 {% wiki(slug="pangaea") %}Kontinent{% end %}, den die Schöpfer vom Meeresgrund
 aufgeschüttet hatten, wurde von den Explosionen zerbrochen, seine Bruchstücke
 trieben „vom Zentrum der Erschütterung nach außen“, und die gesamte

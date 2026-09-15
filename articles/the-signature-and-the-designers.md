@@ -9,7 +9,7 @@ draft = false
 claim_type = "speculative"
 editorial_pass = "2026-05"
 core_claim_ids = ["woh-claim-0036", "woh-claim-0030", "woh-claim-0071"]
-core_versions = { woh-claim-0036 = "0.1.0", woh-claim-0030 = "0.1.0", woh-claim-0071 = "0.1.0" }
+core_versions = { woh-claim-0036 = "0.1.0", woh-claim-0030 = "0.1.0", woh-claim-0071 = "0.2.0" }
 article_type = "explainer"
 category = "Science & Technology"
 author = "Zara Zinsfuss"
@@ -20,7 +20,7 @@ references = [
     # — The canon under comparison —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶14: the single original continent raised from the seabed, and 'all the continents which drifted apart fit together perfectly to form a single one'; ¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition); Chapter 2, 'The Flood' (¶58: the home planet's decision 'to destroy all life on Earth by sending nuclear missiles'; ¶64: the radioactivity monitored and removed before the survivors disembark)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'Neither God nor Soul' (¶¶31–34: the gigantic being, 'time is inversely proportional to the mass,' the centerless universe, 'nothing is lost, nothing is created'); Chapter 3, 'The Keys' (¶102: respecting nature 'as long as he is not capable of becoming himself a creator')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonies of Raëlians,' §2 'A New Hypothesis for the History of Humanity' (¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonials of Raelians': Marcel Terrusse, 'Raelism Through the Eyes of Science,' §2 'A New Hypothesis for the History of Humanity' (2005 English edition p. 331, digitization ¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the whole account of the Elohim's laboratory creation of terrestrial life" },
 
     # — The modern Intelligent Design movement —
@@ -362,8 +362,9 @@ The {% wiki(slug="great-flood") %}Flood{% end %} is where the two species
 come nearest, and the point deserves exactness, because it is easy to
 overstate the distance. The canon's Flood was not a year of rain. It was a
 nuclear strike, ordered from the Elohim's home planet to end everything the
-creators had made on Earth, and the canon is explicit that it rewrote the
-rocks. The single {% wiki(slug="pangaea") %}continent{% end %} the creators
+creators had made on Earth, and the canon's third book, in a signed essay by
+the Raëlian guide and chemical engineer Marcel Terrusse, is explicit that it
+rewrote the rocks. The single {% wiki(slug="pangaea") %}continent{% end %} the creators
 had raised from the seabed was broken by the blasts, its fragments sent
 "drifting outwards from the centre of the shock," and the whole land surface
 was swept: "all the living matter including immense forests, animals and even

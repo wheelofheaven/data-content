@@ -20,7 +20,7 @@ references = [
     # — The canon under comparison —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶14: the single original continent raised from the seabed, and 'all the continents which drifted apart fit together perfectly to form a single one'; ¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition); Chapter 2, 'The Flood' (¶58: the home planet's decision 'to destroy all life on Earth by sending nuclear missiles'; ¶64: the radioactivity monitored and removed before the survivors disembark)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'Neither God nor Soul' (¶¶31–34: the gigantic being, 'time is inversely proportional to the mass,' the centerless universe, 'nothing is lost, nothing is created'); Chapter 3, 'The Keys' (¶102: respecting nature 'as long as he is not capable of becoming himself a creator')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonies of Raëlians,' §2 'A New Hypothesis for the History of Humanity' (¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonials of Raelians': Marcel Terrusse, 'Raelism Through the Eyes of Science,' §2 'A New Hypothesis for the History of Humanity' (2005 English edition p. 331, digitization ¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the whole account of the Elohim's laboratory creation of terrestrial life" },
 
     # — The modern Intelligent Design movement —
@@ -333,8 +333,8 @@ of Species*(1859)는 그에게 하나의 메커니즘 — 방향 없는 변이, 
 {% wiki(slug="great-flood") %}대홍수{% end %}는 두 종이 가장 가까이 다가서는
 지점이며, 이 점은 정확함을 요구한다. 여기서는 거리를 과장하기 쉽기 때문이다.
 정경의 대홍수는 한 해 동안의 비가 아니었다. 그것은 창조자들이 지구에서 만든
-모든 것을 끝내기 위해 엘로힘의 모행성에서 명령된 핵공격이었으며, 정경은 그것이
-암석을 다시 썼다고 명시한다. 창조자들이 해저에서 끌어올린 단 하나의
+모든 것을 끝내기 위해 엘로힘의 모행성에서 명령된 핵공격이었으며, 정경의 셋째 책은, 라엘리안 가이드이자 화학 기술자인 마르셀 테뤼스가 서명한
+논고에서, 그것이 암석을 다시 썼다고 명시한다. 창조자들이 해저에서 끌어올린 단 하나의
 {% wiki(slug="pangaea") %}대륙{% end %}은 폭발로 부서졌고, 그 조각들은 “충격의
 중심에서 바깥으로 표류”했으며, 육지의 표면 전체가 휩쓸렸다. “거대한 숲과 동물,
 심지어 인간까지 포함한 모든 살아 있는 물질”이 “즉시, 그리고 모두 한꺼번에”
