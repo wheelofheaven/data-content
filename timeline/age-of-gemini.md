@@ -8,7 +8,7 @@ aliases = ["/intro/age-of-gemini/", "/wiki/age-of-gemini/"]
 
 [extra]
 core_claim_ids = ["woh-claim-0003", "woh-claim-0071"]
-core_versions = { woh-claim-0003 = "0.1.0", woh-claim-0071 = "0.2.0" }
+core_versions = { woh-claim-0003 = "0.1.0", woh-claim-0071 = "0.3.0" }
 symbol = "♊"
 color = "blue"
 claim_type = "inferred"

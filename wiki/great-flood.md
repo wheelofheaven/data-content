@@ -16,7 +16,7 @@ editorial_pass = "2026-08"
 entry_type = "event"
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0010", "woh-claim-0071"]
-core_versions = { woh-claim-0010 = "0.1.0", woh-claim-0071 = "0.2.0" }
+core_versions = { woh-claim-0010 = "0.1.0", woh-claim-0071 = "0.3.0" }
 alternative_names = ["the Great Deluge", "the Flood", "the Mabbul", "the Deluge", "ha-mabbul", "הַמַּבּוּל", "the Noahic Flood"]
 timeline = ["gemini"]
 

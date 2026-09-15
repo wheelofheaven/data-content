@@ -16,7 +16,7 @@ editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "framework"
 core_claim_ids = ["woh-claim-0010", "woh-claim-0019", "woh-claim-0071"]
-core_versions = { woh-claim-0010 = "0.1.0", woh-claim-0019 = "0.1.0", woh-claim-0071 = "0.2.0" }
+core_versions = { woh-claim-0010 = "0.1.0", woh-claim-0019 = "0.1.0", woh-claim-0071 = "0.3.0" }
 alternative_names = ["Pangea", "Antediluvian supercontinent", "The pre-deluge landmass", "The one continent"]
 see_also = [
     { title = "Eden", path = "wiki/eden", description = "The creation site located on this single antediluvian landmass." },
