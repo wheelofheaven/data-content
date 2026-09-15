@@ -27,6 +27,7 @@ see_also = [
     { title = "Moses", path = "wiki/moses", description = "Yahweh's primary contact during the Exodus narrative." },
     { title = "Abraham", path = "wiki/abraham", description = "The founding patriarch through whom Yahweh established the covenant." },
     { title = "Monotheism Is the Wrong Question", path = "articles/monotheism-is-the-wrong-question", description = "Yahweh read as a named, representative Eloha who speaks for the plural makers — not being itself." },
+    { title = "Six Mornings, Six Years", path = "articles/six-mornings-six-years", description = "Reads him as his own redactor: withheld names, timed embargoes, source-protecting repair." },
 ]
 
 footnotes = [

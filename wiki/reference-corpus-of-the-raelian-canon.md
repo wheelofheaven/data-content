@@ -29,6 +29,7 @@ see_also = [
     { title = "Apocalypse", path = "/wiki/apocalypse/", description = "The Revelation reading developed in The New Revelations." },
     { title = "Hamlet's Mill", path = "/wiki/hamlets-mill/", description = "Cross-cultural mythological-precessional reading adjacent to the canon's traces argument." },
     { title = "Doubled Signature", path = "/wiki/doubled-signature/", description = "The corpus principle by which the canon and its reference texts converge on the same underlying reality." },
+    { title = "Six Mornings, Six Years", path = "/articles/six-mornings-six-years/", description = "The textual-criticism case for a critical apparatus over the three source books." },
 ]
 
 footnotes = [

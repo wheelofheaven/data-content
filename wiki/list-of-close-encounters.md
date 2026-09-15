@@ -20,6 +20,7 @@ see_also = [
     { title = "List of megalithic sites", path = "wiki/list-of-megalithic-sites", description = "A companion reference catalogue of the physical construction record." },
     { title = "Ezekiel", path = "wiki/ezekiel", description = "A prophetic encounter account included among the catalogued reports." },
     { title = "Elijah", path = "wiki/elijah", description = "A biblical aerial-ascent account read as a close encounter in the catalogue." },
+    { title = "Six Mornings, Six Years", path = "articles/six-mornings-six-years", description = "A paragraph-level reconstruction of the 1973 and 1975 encounters and their geography." },
 ]
 
 [extra.infobox]

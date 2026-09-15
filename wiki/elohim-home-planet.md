@@ -26,6 +26,7 @@ see_also = [
     { title = "Kabbalah", path = "wiki/kabbalah", description = "The tradition from which the parasang distance-measurements of the home world derive." },
     { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The nested creator-created lineage in which the home planet is one link." },
     { title = "Forerunners", path = "wiki/forerunners", description = "The prior civilization that seeded the Elohim line preceding the home world." },
+    { title = "Six Mornings, Six Years", path = "articles/six-mornings-six-years", description = "Establishes from the itinerary that the 1975 voyage never reaches this world." },
 ]
 
 [extra.infobox]

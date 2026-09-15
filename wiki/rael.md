@@ -22,6 +22,7 @@ see_also = [
     { title = "Yahweh", path = "wiki/yahweh", description = "The Elohim president who delivered the teaching across the six-day contact." },
     { title = "Embassy", path = "wiki/embassy", description = "The installation project his mission and movement are directed toward building." },
     { title = "Apocalypse", path = "wiki/apocalypse", description = "The Aquarian revelation age his contact is held to inaugurate." },
+    { title = "Six Mornings, Six Years", path = "articles/six-mornings-six-years", description = "His three books read as one serial dictation, and the disclosure system that runs them." },
 ]
 portrait_id = "rael"
 image = "https://assets.wheelofheaven.world/images/wiki/rael-claude-vorilhon-v3.webp"

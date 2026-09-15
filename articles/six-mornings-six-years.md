@@ -2,8 +2,8 @@
 title = "Six Mornings, Six Years"
 description = "The three source books read as one staged dictation: the geography of the revelation, the mechanics of withheld disclosure, and the audit a forger should fail."
 template = "articles-page.html"
-date = 2026-07-06
-draft = true
+date = 2026-09-15
+draft = false
 
 [extra]
 claim_type = "inferred"
@@ -156,8 +156,9 @@ pedigree: the guided tour of the other world, conducted by an angelic
 interpreter, with the seer returned to write what he saw. The
 Enochic literature runs on this frame, which is worth saying carefully
 — it is a comparative observation about form; dependence is a separate
-question this article does not decide. What ETTMTTP adds to the genre is a technology of
-reception. Raël brings no notebook this time and is told he will not
+question this article does not decide. What ETTMTTP adds to the
+genre is a technology of reception. Raël brings no notebook this time
+and is told he will not
 need one: "all that I am going to tell you will remain engraved in your
 mind, for here we have a technical means for you to remember all that
 you are going to hear"
@@ -202,7 +203,7 @@ fit the same page.
 
 ## One night, two craft, three worlds
 
-Since the geography is the part most often mangled, it is worth fixing
+Since the geography is the part most often mangled, it repays fixing
 with the precision the text actually supplies. The itinerary of 7–8
 October is two-staged in both directions, and every transition is
 narrated.
@@ -503,7 +504,7 @@ fiction. A fabricator writing across six years, under interview
 pressure, without a continuity bible, fails in characteristic places:
 throwaway numbers, minor characters, obscure details re-exposed years
 later, the seams where new material meets old. The three books offer a
-rich examination paper, and it is worth grading honestly in both
+rich examination paper, and this article grades it honestly in both
 directions.
 
 The maintained column is long. The six-meetings frame — 13 December
@@ -520,8 +521,7 @@ book 2 ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, v
 of 1975, a throwaway count, resurface correct in 1979 ("the great
 prophets – nearly 40 in all"); the count's own translation history —
 French *la quarantaine*, hardened by the English edition into a
-definite forty — is examined in
-*The Forty Chairs*. The geniocracy
+definite forty — is examined in *The Forty Chairs*. The geniocracy
 thresholds (eligibility at 50 percent above average, franchise at 10)
 recur verbatim, introduced with an explicit cross-reference, "As is
 said in the first part of this book"
@@ -622,8 +622,8 @@ paraphrasing under proof-text pressure as with a fabricator losing
 track of a throwaway. What the examination *does* establish is the
 system: a disclosure apparatus of deferral, embargo, and
 source-protecting repair, run consistently across six years, whose
-failures
-cluster precisely where its reference texts exert force. Under the
+failures cluster precisely where its reference texts exert force. Under
+the
 skeptical frame, that is the fingerprint of composition from sources.
 Under the canon's frame, it is what Yahweh said it would be — a message
 issued to a scribe in stages, tested, corrected, and timed for an age
@@ -739,8 +739,8 @@ scale, with the paper trail still warm.
 That is the finding, and it holds under both readings of the crater.
 If Vorilhon invented his encounter, the three books are the most
 completely documented case study in existence of how a scripture
-assembles
-itself: seeded, serialized, corrected, and canonized in fifty years
+assembles itself: seeded, serialized, corrected, and canonized in fifty
+years
 flat, every mechanism the ancient texts hide performed here in
 daylight. If he reported one, then the speaker who managed this
 disclosure — who withheld his name for two years and his fatherhood
@@ -748,8 +748,8 @@ for six, who assigned every correction to the scribe or the schedule,
 who reserved Revelation and dropped the Kabbalah — was what he told a
 motor-racing journalist to expect: a communicator addressing "the
 first one to understand and not to believe," running a demystification
-long enough to survive its own reception. Six
-mornings, then six years, and the archive is still open. The last
+long enough to survive its own reception. Six mornings, then six
+years, and the archive is still open. The last
 deferral in the file — the embassy, the one disclosure the canon has
 always said will settle the rest — has never needed a correction. It
 is simply, as of this writing, unredeemed.
@@ -769,8 +769,8 @@ is simply, as of this writing, unredeemed.
   Religions*](/articles/the-religion-of-religions/), for the public
   escalation the disclosure system produced: stenographer, prophet,
   son, in six years of paperback.
-- *The Forty Chairs*, which formalizes
-  the instrument for grading founding narratives — and whose first
+- *The Forty Chairs*, which formalizes the instrument for grading
+  founding narratives — and whose first
   footnote is a worked example of translation-artifact criticism on
   the 1975 book.
 - [*The Man Who Bet the Bible on the
