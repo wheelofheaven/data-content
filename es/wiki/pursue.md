@@ -1,7 +1,7 @@
 +++
 title = "PURSUE"
 slug = "pursue"
-description = "PURSUE — el Presidential Unsealing and Reporting System for UAP Encounters, en español Sistema Presidencial de Apertura y Notificación de Encuentros con FANI — es el programa del gobierno de los Estados Unidos, lanzado en 2026, para desclasificar y publicar los registros no resueltos sobre fenómenos anómalos no identificados (FANI) en el portal war.gov/UFO del Departamento de Guerra. Ordenado por una directiva presidencial del 19 de febrero de 2026 y operando sobre un canal de divulgación estatutario que el Congreso creó en 2022, ha publicado cinco lotes de documentos, imágenes, vídeos y audio con cadencia continua desde el 8 de mayo de 2026, procedentes de un elenco creciente de agencias. El marco Wheel of Heaven lo rastrea como una aceleración institucional fechable de la cuestión de la divulgación — sosteniendo a la vez, bajo su propia postura de recepción, que ningún archivo publicado es prueba a favor del marco y que ningún caso desmentido es prueba en su contra."
+description = "PURSUE — el Presidential Unsealing and Reporting System for UAP Encounters, en español Sistema Presidencial de Apertura y Notificación de Encuentros con FANI — es el programa del gobierno de los Estados Unidos, lanzado en 2026, para desclasificar y publicar los registros no resueltos sobre fenómenos anómalos no identificados (FANI) en el portal war.gov/UFO del Departamento de Guerra. Ordenado por una directiva presidencial del 19 de febrero de 2026 y operando sobre un canal de divulgación estatutario que el Congreso creó en 2022, ha publicado seis lotes de documentos, imágenes, vídeos y audio con cadencia continua desde el 8 de mayo de 2026, procedentes de un elenco creciente de agencias. El marco Wheel of Heaven lo rastrea como una aceleración institucional fechable de la cuestión de la divulgación — sosteniendo a la vez, bajo su propia postura de recepción, que ningún archivo publicado es prueba a favor del marco y que ningún caso desmentido es prueba en su contra."
 template = "wiki-page.html"
 toc = true
 
@@ -27,9 +27,9 @@ ordered_by = "Directiva presidencial del 19 de febrero de 2026 (no se ha publica
 statutory_context = "50 U.S.C. § 3373b — el canal de divulgación autorizada y las protecciones contra represalias promulgados en la Ley de Autorización de Defensa Nacional para el año fiscal 2023 (diciembre de 2022)"
 administering_body = "Departamento de Guerra de EE. UU. (Department of War), con el apoyo de la Oficina del Director de Inteligencia Nacional (ODNI)"
 launched = "Primer lote publicado el 8 de mayo de 2026 en war.gov/UFO; el análisis jurídico fecha la puesta en pie del grupo de trabajo el 1 de mayo de 2026"
-releases_to_date = "Cinco (8 de mayo, 22 de mayo, 12 de junio, 10 de julio y 7 de agosto de 2026); nuevas entregas anunciadas como en preparación"
-database = "Base de datos consultable del portal con 375 archivos a lo largo de las cinco entregas (según captura del 22 de agosto de 2026), filtrable por agencia, entrega, fecha del incidente, lugar y tipo de archivo"
-contributing_agencies = "Departamento de Guerra, NASA, CIA, FBI, Departamento de Energía, Departamento de Estado, Oficina Ejecutiva del Presidente; la ODNI en papel coordinador"
+releases_to_date = "Seis (8 de mayo, 22 de mayo, 12 de junio, 10 de julio, 7 de agosto y 18 de septiembre de 2026); nuevas entregas anunciadas como en preparación"
+database = "Base de datos consultable del portal con 447 archivos a lo largo de las seis entregas (según captura del 18 de septiembre de 2026), filtrable por agencia, entrega, fecha del incidente, lugar y tipo de archivo"
+contributing_agencies = "Departamento de Guerra, NASA, CIA, FBI, Departamento de Energía, Departamento de Estado, Oficina Ejecutiva del Presidente y — desde la sexta entrega — una agencia local de fuerzas del orden de Colorado; la ODNI en papel coordinador"
 corpus_position = "Rastreado como la aceleración institucional de la curva de divulgación del §IX de la Era de Acuario; consignado sin alistamiento — ningún archivo publicado cuenta a favor del marco, ningún desmentido cuenta en su contra"
 distinguished_from = "La AARO (la oficina permanente de análisis del Pentágono, que adjudica casos; PURSUE publica registros), la desclasificación fragmentaria de la era FOIA y la vía de las audiencias del Congreso de 2023–2024"
 status_in_framework = "Programa gubernamental documentado, consignado con fuerza documental; explícitamente no es el evento de divulgación oficial y verificado que la postura de recepción del marco nombra como su única excepción"
@@ -43,12 +43,12 @@ anómalos no identificados (FANI)**. Ordenado por una directiva presidencial
 en febrero de 2026 y administrado por el Departamento de Guerra (Department
 of War) con el apoyo de la Oficina del Director de Inteligencia Nacional,
 publica lotes de documentos, imágenes, vídeos y grabaciones de audio en un
-único portal público, war.gov/UFO, con cadencia continua — cinco entregas
-entre el 8 de mayo y el 7 de agosto de 2026, con nuevas entregas anunciadas
-como actualmente en preparación. El Departamento describe la empresa como una
-tarea que exige «coordinación entre docenas de agencias y la revisión de
-decenas de millones de registros, muchos de los cuales existen solo en
-papel».
+único portal público, war.gov/UFO, con cadencia continua — seis entregas
+entre el 8 de mayo y el 18 de septiembre de 2026, con nuevas entregas
+anunciadas como actualmente en preparación. El Departamento describe la
+empresa como una tarea que exige «coordinación entre docenas de agencias y
+la revisión de decenas de millones de registros, muchos de los cuales
+existen solo en papel».
 
 Dos rasgos distinguen a PURSUE de todo compromiso previo del gobierno
 estadounidense con la materia. Es **público por defecto** — los registros van
@@ -56,12 +56,13 @@ a un sitio web abierto, sin acreditación de seguridad ni solicitud bajo la
 Freedom of Information Act — y es **de alcance gubernamental**, pues no se
 nutre solo de los fondos militares y de inteligencia sino, para su quinta
 entrega, de los archivos del Departamento de Energía, del Departamento de
-Estado y de la propia Oficina Ejecutiva del Presidente. Cada pieza se
-cataloga como *caso no resuelto*: el programa publica lo que el gobierno no
-pudo identificar, y publica también sus negativos.
+Estado y de la propia Oficina Ejecutiva del Presidente — y, para su sexta,
+de las propias grabaciones de un departamento de policía local. Cada pieza
+se cataloga como *caso no resuelto*: el programa publica lo que el gobierno
+no pudo identificar, y publica también sus negativos.
 
 El marco Wheel of Heaven sigue de cerca PURSUE — el corpus archiva un
-[despacho](/news/pursue-release-05-triangles-and-the-white-house-file/) sobre
+[despacho](/news/pursue-release-06-warp-drives-and-the-tremonton-film/) sobre
 cada entrega — pero bajo una disciplina deliberada: consignación sin
 alistamiento. Ningún archivo que PURSUE publique es prueba a favor del marco,
 y ningún caso que desmienta es prueba en su contra. El relato del contacto
@@ -122,19 +123,30 @@ empleados de que los acuerdos de confidencialidad que pretendan impedir tales
 divulgaciones «ya no están en vigor». La aplicación de la guía a los
 *contratistas* del gobierno — la población en el centro del testimonio ante
 el Congreso de 2023 sobre los presuntos programas de recuperación — quedó
-para una guía posterior, y sigue siendo el borde abierto más vigilado del
+para una guía posterior. El **14 de septiembre de 2026**, el Departamento de
+Guerra respondió por sus propios acuerdos con una «exención legal
+selectiva»: los miembros del servicio actuales y anteriores, el personal
+civil *y los contratistas* que posean información de defensa nacional
+relacionada con FANI pueden divulgarla a los representantes designados de
+PURSUE, y la exención prevalece sobre las disposiciones de ejecución civil y
+administrativa de los acuerdos de confidencialidad y de programas de acceso
+especial que firmaron, estrictamente para esas comunicaciones. No
+desclasifica nada y no autoriza ninguna divulgación pública. La cuestión de
+los contratistas de la comunidad de inteligencia sigue en manos de la guía
+posterior de la ODNI, y sigue siendo el borde abierto más vigilado del
 programa.
 
 ## Cómo opera el programa
 
 El portal de war.gov/UFO presenta una base de datos consultable — filtrable
 por agencia, entrega, fecha del incidente, lugar del incidente y tipo de
-archivo — que a finales de agosto de 2026 alcanzaba los **375 archivos a lo
-largo de las cinco entregas**. Los archivos llevan identificadores
+archivo — que el 18 de septiembre de 2026 alcanzaba los **447 archivos a lo
+largo de las seis entregas**. Los archivos llevan identificadores
 estructurados por agencia contribuyente y tipo (`DOW-UAP-D101`,
 `FBI-UAP-D024`, `EOP-UAP-D001`), y los lotes han llegado con un ritmo
 aproximadamente mensual: intervalos de dos, tres y cuatro semanas que se
-asientan en las cuatro semanas. El interés público ha sido considerable; el
+asientan en las cuatro semanas, para luego estirarse hasta seis entre la
+quinta y la sexta entregas. El interés público ha sido considerable; el
 portavoz jefe del Pentágono cifró el tráfico del portal en más de 1.700
 millones de accesos durante las primeras cinco semanas del programa.
 
@@ -143,14 +155,18 @@ infrarrojos, grabaciones de pantalla de radar), testimonio de testigos (actas
 de entrevista del FBI, con representaciones digitales que el Bureau produce
 para ilustrar el testimonio — ilustraciones, señalan los despachos del
 corpus, no fotografías) y fondos de archivo que se remontan a una revisión de
-inteligencia de 1947 sobre los «cohetes fantasma» escandinavos. De modo
-notable, el programa publica **hallazgos negativos** junto a sus incógnitas:
-su quinto lote incluyó un caso de 1963 — un reportaje radiofónico brasileño
-sobre una esfera estrellada, por el que se interesó el consejo espacial de la
-Casa Blanca — que los propios cables publicados del Departamento de Estado
-resuelven como una fabricación periodística. Un archivo que publica sus
-propios desmentidos se comporta como un archivo y no como un gabinete de
-prensa, y el corpus lo consigna a favor del programa.
+inteligencia de 1947 sobre los «cohetes fantasma» escandinavos y, desde la
+sexta entrega, al registro contractual y la biblioteca de referencia del
+Advanced Aerospace Weapon System Applications Program (2008–2012) de la
+Agencia de Inteligencia de Defensa (DIA), publicados con las propias
+anotaciones del Departamento, que declinan avalar sus documentos más
+exóticos. De modo notable, el programa publica **hallazgos negativos** junto
+a sus incógnitas: su quinto lote incluyó un caso de 1963 — un reportaje
+radiofónico brasileño sobre una esfera estrellada, por el que se interesó el
+consejo espacial de la Casa Blanca — que los propios cables publicados del
+Departamento de Estado resuelven como una fabricación periodística. Un
+archivo que publica sus propios desmentidos se comporta como un archivo y no
+como un gabinete de prensa, y el corpus lo consigna a favor del programa.
 
 Una asimetría práctica merece quedar registrada: el portal está abierto a los
 lectores humanos pero cerrado a las máquinas — su configuración de
@@ -171,6 +187,7 @@ Newsroom. La espina estable:
 | 03 | 12 de junio | + CIA, FBI, NASA — los primeros contribuyentes civiles nombrados | [PURSUE Versión 03](/news/pursue-release-03-multi-agency-and-international/) |
 | 04 | 10 de julio | + Departamento de Energía | [PURSUE Versión 04](/news/pursue-release-04-the-nuclear-nexus/) |
 | 05 | 7 de agosto | + Departamento de Estado, Oficina Ejecutiva del Presidente | [PURSUE Versión 05](/news/pursue-release-05-triangles-and-the-white-house-file/) |
+| 06 | 18 de septiembre | + una agencia local de fuerzas del orden (Colorado) — el primer contribuyente no federal | [PURSUE Versión 06](/news/pursue-release-06-warp-drives-and-the-tremonton-film/) |
 
 La base de datos del portal asigna algunos archivos individuales a uno u otro
 lado de estas fronteras de manera distinta a como lo hicieron los anuncios
@@ -210,7 +227,7 @@ sustantiva: publicación por defecto en lugar de por solicitud; cadencia
 continua en lugar de entregas episódicas; un único portal consolidado en
 lugar de salas de lectura dispersas; y un elenco de contribuyentes que llega
 más allá del aparato de defensa e inteligencia hasta el servicio diplomático
-y los registros de la propia presidencia. Lo que *no* ha hecho, cinco lotes
+y los registros de la propia presidencia. Lo que *no* ha hecho, seis lotes
 después, es publicar nada que toque las afirmaciones más profundas del
 testimonio de 2023.
 
@@ -219,7 +236,7 @@ testimonio de 2023.
 La novena sección del capítulo de la [Era de
 Acuario](/timeline/age-of-aquarius/) anticipa, para las décadas presentes,
 una aceleración en el grado de oficialidad con que se maneja la cuestión FANI
-— los despachos del corpus leen las cinco entregas como cinco puntos
+— los despachos del corpus leen las seis entregas como seis puntos
 fechables sobre esa curva, y a PURSUE mismo como la expresión institucional
 más clara de la curva hasta la fecha.
 
@@ -249,7 +266,7 @@ de sensores y la densidad de observación. Nada en el encuadre de lo no
 resuelto implica una explicación no convencional, y el propio Departamento no
 caracteriza ningún caso publicado como confirmado no convencional.
 
-**Las afirmaciones más profundas siguen sin tocarse.** Cinco lotes no
+**Las afirmaciones más profundas siguen sin tocarse.** Seis lotes no
 contienen material alguno sobre las alegaciones de recuperación de naves e
 ingeniería inversa del testimonio de 2023. Hay dos lecturas disponibles — que
 tal material no existe para ser publicado (el hallazgo declarado de la AARO),
@@ -260,8 +277,10 @@ se alista con ninguna.
 
 **Buena parte del material no es nuevo.** Porciones sustanciales de las
 entregas ya se conocían por las producciones de la FOIA, los archivos de Blue
-Book y la literatura histórica; lo que PURSUE añade es consolidación,
-indexación y procedencia oficiales. Los críticos leen el programa como teatro
+Book y la literatura histórica, y la mayoría de los documentos de referencia
+de la DIA de la sexta entrega habían llegado al público a través de
+producciones de la FOIA; lo que PURSUE añade es consolidación, indexación y
+procedencia oficiales. Los críticos leen el programa como teatro
 de transparencia — material reciclado bajo marca presidencial; los
 partidarios responden que la publicación oficial, indexada y citable es
 precisamente lo que la era de la FOIA nunca produjo.
@@ -272,7 +291,7 @@ el propio índice del portal discrepan en las fechas, y la atribución de
 archivos entre anuncio e índice difiere entre lotes. Los despachos del corpus
 atribuyen los recuentos en lugar de afirmarlos.
 
-**La durabilidad es la prueba real.** Un programa de cuatro meses, que lleva
+**La durabilidad es la prueba real.** Un programa de cinco meses, que lleva
 el nombre de un presidente, prueba poco por la sola cadencia. La pregunta que
 soporta el peso para el propio marco — argumentada a lo largo de la serie de
 despachos — es si la curva de divulgación sobrevive en un horizonte
@@ -298,11 +317,15 @@ Vorilhon, Claude (Raël). *Intelligent Design: Message from the Designers*. Nova
 
 ### Materiales gubernamentales primarios
 
-U.S. Department of War. *Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)* — release portal and database. war.gov/UFO, May–August 2026.
+U.S. Department of War. *Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)* — release portal and database. war.gov/UFO, May–September 2026.
 
 U.S. Department of War. "Department of War Releases Unidentified Anomalous Phenomena Files in Historic Transparency Effort." Press release, May 8, 2026.
 
 U.S. Department of War. "Department of War Publishes Fifth Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO." Press release, August 7, 2026.
+
+U.S. Department of War. "Department of War Issues Legal Waiver to Authorize Unidentified Anomalous Phenomena (UAP) Disclosures to PURSUE." Press release, September 14, 2026.
+
+U.S. Department of War. "Department of War Publishes Sixth Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO." Press release, September 18, 2026.
 
 *50 U.S.C. § 3373b* — authorized UAP disclosures and prohibition on reprisals, enacted in the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, December 2022.
 
@@ -319,6 +342,10 @@ U.S. Air Force. Project Blue Book case files, 1947–1969. National Archives and
 Cooper, Helene, Ralph Blumenthal, and Leslie Kean. "Glowing Auras and 'Black Money': The Pentagon's Mysterious U.F.O. Program." *The New York Times*, December 16, 2017.
 
 "Pentagon releases new batch of UFO files: 'Did you see that?'" *CBS News*, August 7, 2026.
+
+Becket, Stefan. "Pentagon releases more UFO files, including documents on secretive military program." *CBS News*, September 18, 2026.
+
+Vincent, Brandi. "Pentagon offers new 'targeted legal relief' for UAP whistleblowers supporting Trump's PURSUE work." *DefenseScoop*, September 14, 2026.
 
 DLA Piper. "Office of the Director of National Intelligence issues preliminary guidance on disclosure of unidentified anomalous phenomena." Client alert, August 2026.
 

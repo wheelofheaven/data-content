@@ -1,7 +1,7 @@
 +++
 title = "PURSUE"
 slug = "pursue"
-description = "PURSUE — das Presidential Unsealing and Reporting System for UAP Encounters — ist das 2026 gestartete Programm der US-Regierung zur Deklassifizierung und öffentlichen Freigabe ungelöster Aufzeichnungen über unidentifizierte anomale Phänomene (UAP) auf dem Portal war.gov/UFO des Department of War. Angeordnet durch eine Präsidialdirektive vom 19. Februar 2026 und aufgesetzt auf einen gesetzlichen Offenlegungskanal, den der Kongress 2022 geschaffen hatte, hat es seit dem 8. Mai 2026 fünf Tranchen von Dokumenten, Bildern, Videos und Audioaufnahmen in fortlaufendem Rhythmus aus einem wachsenden Kreis von Behörden veröffentlicht. Der Wheel-of-Heaven-Rahmen verfolgt es als datierbare institutionelle Beschleunigung der Offenlegungsfrage — und hält zugleich, unter seiner eigenen Rezeptionshaltung, daran fest, dass keine freigegebene Akte ein Beleg für den Rahmen und kein widerlegter Fall ein Beleg gegen ihn ist."
+description = "PURSUE — das Presidential Unsealing and Reporting System for UAP Encounters — ist das 2026 gestartete Programm der US-Regierung zur Deklassifizierung und öffentlichen Freigabe ungelöster Aufzeichnungen über unidentifizierte anomale Phänomene (UAP) auf dem Portal war.gov/UFO des Department of War. Angeordnet durch eine Präsidialdirektive vom 19. Februar 2026 und aufgesetzt auf einen gesetzlichen Offenlegungskanal, den der Kongress 2022 geschaffen hatte, hat es seit dem 8. Mai 2026 sechs Tranchen von Dokumenten, Bildern, Videos und Audioaufnahmen in fortlaufendem Rhythmus aus einem wachsenden Kreis von Behörden veröffentlicht. Der Wheel-of-Heaven-Rahmen verfolgt es als datierbare institutionelle Beschleunigung der Offenlegungsfrage — und hält zugleich, unter seiner eigenen Rezeptionshaltung, daran fest, dass keine freigegebene Akte ein Beleg für den Rahmen und kein widerlegter Fall ein Beleg gegen ihn ist."
 template = "wiki-page.html"
 toc = true
 
@@ -26,9 +26,9 @@ ordered_by = "Präsidialdirektive vom 19. Februar 2026 (eine nummerierte Executi
 statutory_context = "50 U.S.C. § 3373b — der Kanal für autorisierte Offenlegungen samt Repressalienschutz, verabschiedet im National Defense Authorization Act für das Haushaltsjahr 2023 (Dezember 2022)"
 administering_body = "U.S. Department of War, unterstützt durch das Office of the Director of National Intelligence (ODNI)"
 launched = "Erste Tranche veröffentlicht am 8. Mai 2026 auf war.gov/UFO; die Rechtsanalyse datiert die Einrichtung der Task Force auf den 1. Mai 2026"
-releases_to_date = "Fünf (8. Mai, 22. Mai, 12. Juni, 10. Juli, 7. August 2026); weitere Veröffentlichungen als in Arbeit angekündigt"
-database = "Durchsuchbare Portaldatenbank mit 375 Akten über die fünf Veröffentlichungen (Stand der Erfassung: 22. August 2026), filterbar nach Behörde, Veröffentlichung, Vorfallsdatum, Ort und Dateityp"
-contributing_agencies = "Department of War, NASA, CIA, FBI, Department of Energy, Department of State, Executive Office of the President; ODNI in koordinierender Rolle"
+releases_to_date = "Sechs (8. Mai, 22. Mai, 12. Juni, 10. Juli, 7. August, 18. September 2026); weitere Veröffentlichungen als in Arbeit angekündigt"
+database = "Durchsuchbare Portaldatenbank mit 447 Akten über die sechs Veröffentlichungen (Stand der Erfassung: 18. September 2026), filterbar nach Behörde, Veröffentlichung, Vorfallsdatum, Ort und Dateityp"
+contributing_agencies = "Department of War, NASA, CIA, FBI, Department of Energy, Department of State, Executive Office of the President und — seit der sechsten Veröffentlichung — eine lokale Strafverfolgungsbehörde in Colorado; ODNI in koordinierender Rolle"
 corpus_position = "Verfolgt als institutionelle Beschleunigung der Offenlegungskurve aus §IX des Wassermann-Zeitalters; registriert ohne Indienstnahme — keine freigegebene Akte zählt für den Rahmen, keine Widerlegung zählt gegen ihn"
 distinguished_from = "AARO (das ständige Analysebüro des Pentagons, das Fälle bewertet; PURSUE gibt Aufzeichnungen frei), der stückweisen Deklassifizierung der FOIA-Ära und dem kongressionalen Anhörungsstrang von 2023–2024"
 status_in_framework = "Dokumentiertes Regierungsprogramm, geführt in dokumentarischer Stärke; ausdrücklich nicht das offizielle, verifizierte Offenlegungsereignis, das die Rezeptionshaltung des Rahmens als ihre einzige Ausnahme benennt"
@@ -42,9 +42,9 @@ Präsidialdirektive im Februar 2026 und verwaltet vom Department of War — dem
 US-Kriegsministerium — mit Unterstützung des Office of the Director of
 National Intelligence, veröffentlicht es Tranchen von Dokumenten, Bildern,
 Videos und Audioaufnahmen auf einem einzigen öffentlichen Portal,
-war.gov/UFO, in fortlaufendem Rhythmus — fünf Veröffentlichungen zwischen dem
-8. Mai und dem 7. August 2026, weitere als aktiv in Arbeit angekündigt. Das
-Department beschreibt das Unterfangen als eines, das „die Koordination
+war.gov/UFO, in fortlaufendem Rhythmus — sechs Veröffentlichungen zwischen dem
+8. Mai und dem 18. September 2026, weitere als aktiv in Arbeit angekündigt.
+Das Department beschreibt das Unterfangen als eines, das „die Koordination
 zwischen Dutzenden von Behörden und die Sichtung von Dutzenden Millionen
 Aufzeichnungen erfordert, von denen viele nur in Papierform existieren“.
 
@@ -54,14 +54,15 @@ eine offene Website, ohne Sicherheitsfreigabe und ohne Antrag nach dem
 Freedom of Information Act — und es ist **regierungsweit**: Es schöpft nicht
 nur aus militärischen und nachrichtendienstlichen Beständen, sondern mit
 seiner fünften Veröffentlichung auch aus den Akten des Department of Energy,
-des State Department und des Executive Office of the President selbst. Jeder
-Eintrag ist als *ungelöster Fall* katalogisiert: Das Programm veröffentlicht,
-was die Regierung nicht identifizieren konnte, und es veröffentlicht auch
-seine Negativbefunde.
+des State Department und des Executive Office of the President selbst — und
+mit seiner sechsten aus den eigenen Aufnahmen einer örtlichen Polizeibehörde.
+Jeder Eintrag ist als *ungelöster Fall* katalogisiert: Das Programm
+veröffentlicht, was die Regierung nicht identifizieren konnte, und es
+veröffentlicht auch seine Negativbefunde.
 
 Der Wheel-of-Heaven-Rahmen verfolgt PURSUE genau — der Korpus legt zu jeder
 Veröffentlichung eine
-[Meldung](/news/pursue-release-05-triangles-and-the-white-house-file/) ab —,
+[Meldung](/news/pursue-release-06-warp-drives-and-the-tremonton-film/) ab —,
 aber unter einer bewussten Disziplin: Registrierung ohne Indienstnahme. Keine
 Akte, die PURSUE freigibt, ist ein Beleg für den Rahmen, und kein Fall, den
 es widerlegt, ist ein Beleg gegen ihn. Die Kontaktdarstellung des Rahmens
@@ -123,19 +124,30 @@ darüber zu informieren, dass Verschwiegenheitsvereinbarungen, die solche
 Offenlegungen verhindern sollen, „nicht länger in Kraft“ sind. Die Anwendung
 der Richtlinie auf *Auftragnehmer* der Regierung — die Gruppe im Zentrum der
 kongressionalen Aussagen von 2023 über angebliche Bergungsprogramme — wurde
-Folgerichtlinien überlassen und bleibt die am genauesten beobachtete offene
-Flanke des Programms.
+Folgerichtlinien überlassen. Am **14. September 2026** antwortete das
+Department of War für seine eigenen Vereinbarungen mit einer „gezielten
+rechtlichen Freistellung“: Aktive und ehemalige Militärangehörige, ziviles
+Personal *und Auftragnehmer*, die UAP-bezogene Informationen der nationalen
+Verteidigung besitzen, dürfen sie gegenüber benannten PURSUE-Vertretern
+offenlegen, und die Freistellung hat Vorrang vor den zivil- und
+verwaltungsrechtlichen Durchsetzungsbestimmungen der Verschwiegenheits- und
+Special-Access-Program-Vereinbarungen, die sie unterzeichnet haben,
+ausschließlich für diese Mitteilungen. Sie deklassifiziert nichts und
+autorisiert keine öffentliche Offenlegung. Die Auftragnehmerfrage der
+Nachrichtendienstgemeinschaft verbleibt bei den Folgerichtlinien des ODNI,
+und sie bleibt die am genauesten beobachtete offene Flanke des Programms.
 
 ## Arbeitsweise des Programms
 
 Das Portal auf war.gov/UFO präsentiert eine durchsuchbare Datenbank —
 filterbar nach Behörde, Veröffentlichung, Vorfallsdatum, Vorfallsort und
-Dateityp —, die Ende August 2026 bei **375 Akten über die fünf
+Dateityp —, die am 18. September 2026 bei **447 Akten über die sechs
 Veröffentlichungen** stand. Die Akten tragen strukturierte Kennungen nach
 beitragender Behörde und Typ (`DOW-UAP-D101`, `FBI-UAP-D024`,
 `EOP-UAP-D001`), und die Tranchen sind in annähernd monatlichem Rhythmus
 erschienen: Abstände von zwei, drei und vier Wochen, die sich bei vier Wochen
-einpendeln. Das öffentliche Interesse war beträchtlich; der oberste
+einpendeln und sich dann zwischen der fünften und sechsten Veröffentlichung
+auf sechs dehnen. Das öffentliche Interesse war beträchtlich; der oberste
 Pentagon-Sprecher bezifferte den Portalverkehr in den ersten fünf Wochen des
 Programms auf über 1,7 Milliarden Zugriffe.
 
@@ -145,14 +157,19 @@ Infrarotaufnahmen, Radarschirm-Aufzeichnungen), Zeugenberichte
 Illustration von Aussagen anfertigt — Illustrationen, wie die Meldungen des
 Korpus vermerken, keine Fotografien) und Archivbestände, die bis zu einer
 nachrichtendienstlichen Auswertung der skandinavischen „Geisterraketen“ von
-1947 zurückreichen. Bemerkenswert ist, dass das Programm neben seinen
-Unbekannten auch **Negativbefunde** freigibt: Seine fünfte Tranche enthielt
-einen Fall von 1963 — einen brasilianischen Radiobericht über eine
-abgestürzte Kugel, nach der beim Weltraumrat des Weißen Hauses angefragt
-wurde —, den die freigegebenen Depeschen des State Department selbst als
-Pressefabrikation auflösen. Ein Archiv, das seine eigenen Widerlegungen
-veröffentlicht, verhält sich wie ein Archiv und nicht wie eine Pressestelle,
-und der Korpus verzeichnet das zugunsten des Programms.
+1947 zurückreichen und, seit der sechsten Veröffentlichung, die
+Vertragsunterlagen und die Referenzbibliothek des Advanced Aerospace Weapon
+System Applications Program der Defense Intelligence Agency von 2008–2012
+umfassen, veröffentlicht mit den eigenen Anmerkungen des Departments, die es
+ablehnen, seine exotischeren Papiere zu billigen. Bemerkenswert ist, dass das
+Programm neben seinen Unbekannten auch **Negativbefunde** freigibt: Seine
+fünfte Tranche enthielt einen Fall von 1963 — einen brasilianischen
+Radiobericht über eine abgestürzte Kugel, nach der beim Weltraumrat des
+Weißen Hauses angefragt wurde —, den die freigegebenen Depeschen des State
+Department selbst als Pressefabrikation auflösen. Ein Archiv, das seine
+eigenen Widerlegungen veröffentlicht, verhält sich wie ein Archiv und nicht
+wie eine Pressestelle, und der Korpus verzeichnet das zugunsten des
+Programms.
 
 Eine praktische Asymmetrie ist festzuhalten: Das Portal ist für menschliche
 Leser offen, aber für Maschinen geschlossen — seine
@@ -173,6 +190,7 @@ Newsrooms. Das stabile Gerüst:
 | 03 | 12. Juni | + CIA, FBI, NASA — die ersten namentlich genannten zivilen Behörden | [PURSUE Veröffentlichung 03](/news/pursue-release-03-multi-agency-and-international/) |
 | 04 | 10. Juli | + Department of Energy | [PURSUE Veröffentlichung 04](/news/pursue-release-04-the-nuclear-nexus/) |
 | 05 | 7. August | + Department of State, Executive Office of the President | [PURSUE Veröffentlichung 05](/news/pursue-release-05-triangles-and-the-white-house-file/) |
+| 06 | 18. September | + eine lokale Strafverfolgungsbehörde (Colorado) — der erste Beitragende außerhalb der Bundesebene | [PURSUE Veröffentlichung 06](/news/pursue-release-06-warp-drives-and-the-tremonton-film/) |
 
 Die Datenbank des Portals ordnet einzelne Akten über diese Grenzen hinweg
 teils anders zu, als es die Ankündigungen taten (NASA-attribuierte Dokumente
@@ -214,7 +232,7 @@ fortlaufender Rhythmus statt episodischer Freigaben; ein einziges
 konsolidiertes Portal statt verstreuter Lesesäle; und ein beitragender
 Behördenkreis, der über den Verteidigungs- und Nachrichtendienstapparat
 hinaus in den diplomatischen Dienst und die eigenen Akten der Präsidentschaft
-reicht. Was das Programm fünf Tranchen weit *nicht* getan hat: irgendetwas
+reicht. Was das Programm sechs Tranchen weit *nicht* getan hat: irgendetwas
 freizugeben, das die tieferen Behauptungen der Aussagen von 2023 berührt.
 
 ## Die Wheel-of-Heaven-Lesart
@@ -222,7 +240,7 @@ freizugeben, das die tieferen Behauptungen der Aussagen von 2023 berührt.
 Der neunte Abschnitt des Kapitels zum [Zeitalter des
 Wassermanns](/timeline/age-of-aquarius/) erwartet für die gegenwärtigen
 Jahrzehnte eine Beschleunigung darin, wie offiziell die UAP-Frage behandelt
-wird — die Meldungen des Korpus lesen die fünf Veröffentlichungen als fünf
+wird — die Meldungen des Korpus lesen die sechs Veröffentlichungen als sechs
 datierbare Punkte auf dieser Kurve und PURSUE selbst als den bislang
 deutlichsten institutionellen Ausdruck der Kurve.
 
@@ -253,7 +271,7 @@ ungelöst impliziert eine nicht-konventionelle Erklärung, und das Department
 selbst charakterisiert keinen freigegebenen Fall als bestätigt
 nicht-konventionell.
 
-**Die tieferen Behauptungen bleiben unberührt.** Fünf Tranchen enthalten kein
+**Die tieferen Behauptungen bleiben unberührt.** Sechs Tranchen enthalten kein
 Material zu den Bergungs- und Reverse-Engineering-Behauptungen der Aussagen
 von 2023. Zwei Lesarten stehen offen — dass solches Material nicht existiert,
 um freigegeben zu werden (AAROs erklärter Befund), oder dass es außerhalb der
@@ -263,7 +281,9 @@ ruht). Der Korpus hält beide offen und nimmt keine in Dienst.
 
 **Vieles am Material ist nicht neu.** Erhebliche Teile der Veröffentlichungen
 waren zuvor durch FOIA-Herausgaben, Blue-Book-Akten und die historische
-Literatur bekannt; was PURSUE hinzufügt, sind offizielle Konsolidierung,
+Literatur bekannt, und die meisten DIA-Referenzpapiere der sechsten
+Veröffentlichung hatten die Öffentlichkeit bereits durch FOIA-Herausgaben
+erreicht; was PURSUE hinzufügt, sind offizielle Konsolidierung,
 Indexierung und Provenienz. Kritiker lesen das Programm als
 Transparenztheater — wiederverwertetes Material unter präsidialem Branding;
 Befürworter antworten, dass eine indexierte, zitierfähige, offizielle
@@ -276,7 +296,7 @@ und die Zuordnung der Akten nach Ankündigung versus Index differiert zwischen
 den Tranchen. Die Meldungen des Korpus attribuieren Zählungen, statt sie zu
 behaupten.
 
-**Die Dauerhaftigkeit ist der eigentliche Test.** Ein vier Monate altes
+**Die Dauerhaftigkeit ist der eigentliche Test.** Ein fünf Monate altes
 Programm, das den Namen eines Präsidenten trägt, beweist durch Rhythmus
 allein wenig. Die tragende Frage des Rahmens selbst — argumentiert über die
 Meldungsserie hinweg — ist, ob die Offenlegungskurve einen Mehrjahreshorizont
@@ -302,11 +322,15 @@ Vorilhon, Claude (Raël). *Intelligent Design: Message from the Designers*. Nova
 
 ### Primäre Regierungsmaterialien
 
-U.S. Department of War. *Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)* — release portal and database. war.gov/UFO, May–August 2026.
+U.S. Department of War. *Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)* — release portal and database. war.gov/UFO, May–September 2026.
 
 U.S. Department of War. "Department of War Releases Unidentified Anomalous Phenomena Files in Historic Transparency Effort." Press release, May 8, 2026.
 
 U.S. Department of War. "Department of War Publishes Fifth Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO." Press release, August 7, 2026.
+
+U.S. Department of War. "Department of War Issues Legal Waiver to Authorize Unidentified Anomalous Phenomena (UAP) Disclosures to PURSUE." Press release, September 14, 2026.
+
+U.S. Department of War. "Department of War Publishes Sixth Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO." Press release, September 18, 2026.
 
 *50 U.S.C. § 3373b* — authorized UAP disclosures and prohibition on reprisals, enacted in the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, December 2022.
 
@@ -323,6 +347,10 @@ U.S. Air Force. Project Blue Book case files, 1947–1969. National Archives and
 Cooper, Helene, Ralph Blumenthal, and Leslie Kean. "Glowing Auras and 'Black Money': The Pentagon's Mysterious U.F.O. Program." *The New York Times*, December 16, 2017.
 
 "Pentagon releases new batch of UFO files: 'Did you see that?'" *CBS News*, August 7, 2026.
+
+Becket, Stefan. "Pentagon releases more UFO files, including documents on secretive military program." *CBS News*, September 18, 2026.
+
+Vincent, Brandi. "Pentagon offers new 'targeted legal relief' for UAP whistleblowers supporting Trump's PURSUE work." *DefenseScoop*, September 14, 2026.
 
 DLA Piper. "Office of the Director of National Intelligence issues preliminary guidance on disclosure of unidentified anomalous phenomena." Client alert, August 2026.
 
