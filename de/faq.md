@@ -344,13 +344,15 @@ Ja. Alle Inhalte von Wheel of Heaven sind unter [Creative Commons Zero (CC0-1.0)
 slug = "how-to-cite"
 question = "Wie kann ich das Projekt zitieren?"
 answer = """
-Vorgeschlagene Zitierweise:
+Autor im Sinne der Zitation ist das Projekt selbst: Metadaten und strukturierte Daten jeder Seite weisen Wheel of Heaven als Autor aus. Zitieren Sie also das Projekt, nicht die Person. Jeder Wiki-Eintrag, jeder Artikel, jedes Timeline-Kapitel und jede Bibliotheksseite trägt ein Widget „Diese Seite zitieren" mit fertigen Formen für APA, MLA, Chicago und BibTeX. Die Chicago-Form sieht so aus:
 
-> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.world. Abgerufen am [Datum].
+> „Zeitalter des Steinbocks." *Wheel of Heaven*, [Jahr]. https://www.wheelofheaven.world/de/timeline/age-of-capricorn/.
 
-Für einzelne Seiten ergänzen Sie Seitentitel und URL:
+Das Jahr ist das der letzten redaktionellen Überarbeitung der Seite, sofern erfasst; andernfalls gibt das Widget „n.d." aus. Für das Projekt als Ganzes:
 
-> Zinsfuss, Zara. „Zeitalter des Steinbocks." *Wheel of Heaven*. https://www.wheelofheaven.world/de/timeline/age-of-capricorn/. Abgerufen am [Datum].
+> *Wheel of Heaven*. https://www.wheelofheaven.world/. Abgerufen am [Datum].
+
+Die [Autorenseite](/de/author/zara-zinsfuss/) nennt die Person hinter dem Projekt, falls Sie die Verfasserin würdigen möchten.
 """
 
 [[extra.faq_groups.items]]

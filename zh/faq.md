@@ -344,13 +344,15 @@ answer = """
 slug = "how-to-cite"
 question = "如何引用本项目？"
 answer = """
-建议引用格式：
+就引用而言，本站的著者是项目本身：每一页的元数据和结构化数据都将 Wheel of Heaven 声明为作者。因此请引用项目，而非个人。每个词条、每篇文章、每个年表章节和每个文库页面都带有"引用此页面"组件，提供可直接复制的 APA、MLA、Chicago 和 BibTeX 格式。Chicago 格式如下：
 
-> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.world. 访问于 [日期]。
+> "摩羯座时代." *Wheel of Heaven*, [年份]. https://www.wheelofheaven.world/zh/timeline/age-of-capricorn/.
 
-对于具体页面，附上页面标题和 URL：
+年份为该页面最近一次编辑修订的年份（如有记录）；否则组件显示"n.d."。引用整个项目：
 
-> Zinsfuss, Zara. "Age of Capricorn."《Wheel of Heaven》. https://www.wheelofheaven.world/timeline/age-of-capricorn/. 访问于 [日期]。
+> *Wheel of Heaven*. https://www.wheelofheaven.world/. 访问于 [日期]。
+
+[作者页面](/author/zara-zinsfuss/)介绍了项目背后的人，供希望注明撰写者的读者参考。
 """
 
 [[extra.faq_groups.items]]

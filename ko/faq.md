@@ -344,13 +344,15 @@ answer = """
 slug = "how-to-cite"
 question = "프로젝트를 어떻게 인용할 수 있습니까?"
 answer = """
-권장 인용:
+인용 목적상 이 사이트의 저자는 프로젝트 자체입니다. 모든 페이지의 메타데이터와 구조화 데이터는 Wheel of Heaven을 저자로 선언합니다. 따라서 개인이 아니라 프로젝트를 저자로 인용하십시오. 모든 위키 항목, 글, 연대기 장, 도서관 페이지에는 APA, MLA, Chicago, BibTeX 형식을 바로 복사할 수 있는 "이 페이지 인용" 위젯이 있습니다. Chicago 형식은 다음과 같습니다:
 
-> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.world. 접속일 [날짜].
+> "염소자리 시대." *Wheel of Heaven*, [연도]. https://www.wheelofheaven.world/ko/timeline/age-of-capricorn/.
 
-특정 페이지의 경우 페이지 제목과 URL을 덧붙이십시오:
+연도는 기록된 경우 해당 페이지의 마지막 편집 검토 연도입니다. 기록이 없으면 위젯은 "n.d."를 표시합니다. 프로젝트 전체를 인용하려면:
 
-> Zinsfuss, Zara. "염소자리 시대." *Wheel of Heaven*. https://www.wheelofheaven.world/timeline/age-of-capricorn/. 접속일 [날짜].
+> *Wheel of Heaven*. https://www.wheelofheaven.world/. 접속일 [날짜].
+
+[저자 페이지](/author/zara-zinsfuss/)는 글쓴이를 밝히고자 하는 독자를 위해 프로젝트 뒤에 있는 사람을 소개합니다.
 """
 
 [[extra.faq_groups.items]]

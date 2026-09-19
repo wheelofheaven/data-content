@@ -1,4 +1,3 @@
-
 +++
 title = "Age of Cancer"
 description = "The seventh age of the Great Year — the Day of Rest and its consequences. The Eden expulsion, Cain and Abel, the exiled creators mating with human women, the Nephilim, and the rise of a pre-flood civilization that will alarm the home world."
@@ -11,6 +10,7 @@ core_claim_ids = ["woh-claim-0003"]
 core_versions = { woh-claim-0003 = "0.1.0" }
 symbol = "♋"
 color = "teal"
+claim_type = "inferred"
 start_year = "-8850"
 end_year = "-6690"
 genesis_day = 7

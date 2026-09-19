@@ -10,6 +10,7 @@ core_claim_ids = ["woh-claim-0003"]
 core_versions = { woh-claim-0003 = "0.1.0" }
 symbol = "♍"
 color = "brown"
+claim_type = "inferred"
 start_year = "-13170"
 end_year = "-11010"
 genesis_day = 5

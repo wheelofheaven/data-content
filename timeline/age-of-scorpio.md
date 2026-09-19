@@ -1,4 +1,3 @@
-
 +++
 title = "Age of Scorpio"
 description = "The third age of the Great Year, when the first life appears on Earth — plant cells synthesized from chemistry, designed by teams of scientists and artists, establishing the foundation of the biosphere."
@@ -11,6 +10,7 @@ core_claim_ids = ["woh-claim-0003"]
 core_versions = { woh-claim-0003 = "0.1.0" }
 symbol = "♏"
 color = "red"
+claim_type = "inferred"
 start_year = "-17490"
 end_year = "-15330"
 genesis_day = 3

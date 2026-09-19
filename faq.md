@@ -344,13 +344,15 @@ Yes. All Wheel of Heaven content is released to the public domain under [Creativ
 slug = "how-to-cite"
 question = "How can I cite the project?"
 answer = """
-Suggested citation:
+The site's author of record is the project itself: every page's metadata and structured data declare Wheel of Heaven as the author, so cite the project, not the person. Every wiki entry, article, timeline chapter, and library page carries a "Cite this page" widget with APA, MLA, Chicago, and BibTeX forms ready to copy. The Chicago form looks like this:
 
-> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.world. Accessed [date].
+> "Age of Capricorn." *Wheel of Heaven*, [year]. https://www.wheelofheaven.world/timeline/age-of-capricorn/.
 
-For specific pages, append the page title and URL:
+The year is that of the page's last editorial pass where one is recorded; otherwise the widget prints "n.d." To cite the project as a whole:
 
-> Zinsfuss, Zara. "Age of Capricorn." *Wheel of Heaven*. https://www.wheelofheaven.world/timeline/age-of-capricorn/. Accessed [date].
+> *Wheel of Heaven*. https://www.wheelofheaven.world/. Accessed [date].
+
+The [author page](/author/zara-zinsfuss/) names the person behind the project for readers who want to credit the writing.
 """
 
 [[extra.faq_groups.items]]

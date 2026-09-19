@@ -344,13 +344,15 @@ answer = """
 slug = "how-to-cite"
 question = "איך אני יכול לצטט את הפרויקט?"
 answer = """
-ציטוט מוצע:
+לצורכי ציטוט, מחבר האתר הוא הפרויקט עצמו: המטא-דאטה והנתונים המובנים של כל עמוד מצהירים על Wheel of Heaven כמחבר. לכן צטטו את הפרויקט, לא את האדם. לכל ערך ויקי, מאמר, פרק בציר הזמן ועמוד בספרייה יש רכיב »צטט דף זה« עם צורות APA, MLA, Chicago ו-BibTeX מוכנות להעתקה. צורת Chicago נראית כך:
 
-> זינספוס, זרה. *Wheel of Heaven*. wheelofheaven.world. גישה ב-[תאריך].
+> "עידן הגדי." *Wheel of Heaven*, [שנה]. https://www.wheelofheaven.world/he/timeline/age-of-capricorn/.
 
-לעמודים ספציפיים, הוסיפו את כותרת העמוד וכתובת ה-URL:
+השנה היא שנת המעבר העריכתי האחרון של העמוד, כאשר הוא מתועד; אחרת הרכיב מציג »n.d.«. לציטוט הפרויקט בכללותו:
 
-> זינספוס, זרה. "עידן הגדי." *Wheel of Heaven*. https://www.wheelofheaven.world/timeline/age-of-capricorn/. גישה ב-[תאריך].
+> *Wheel of Heaven*. https://www.wheelofheaven.world/. גישה ב-[תאריך].
+
+[עמוד המחברת](/author/zara-zinsfuss/) מציין את האדם שמאחורי הפרויקט עבור קוראים המעוניינים לתת קרדיט לכתיבה.
 """
 
 [[extra.faq_groups.items]]

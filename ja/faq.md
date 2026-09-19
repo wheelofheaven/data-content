@@ -344,13 +344,15 @@ answer = """
 slug = "how-to-cite"
 question = "プロジェクトをどう引用すればよいですか?"
 answer = """
-推奨される引用形式:
+引用上の本サイトの著者はプロジェクト自体です。各ページのメタデータと構造化データはWheel of Heavenを著者として宣言しています。したがって、個人ではなくプロジェクトを著者として引用してください。すべての用語集記事、記事、年表の章、ライブラリのページには「このページを引用」ウィジェットがあり、APA、MLA、Chicago、BibTeXの各形式をそのままコピーできます。Chicago形式は次のようになります。
 
-> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.world. アクセス日 [日付]。
+> 「山羊座の時代」 *Wheel of Heaven*, [年]. https://www.wheelofheaven.world/ja/timeline/age-of-capricorn/.
 
-特定のページについては、ページタイトルとURLを付け加えてください。
+年は、記録されている場合はそのページの最終編集パスの年です。記録がない場合、ウィジェットは「n.d.」と表示します。プロジェクト全体を引用する場合:
 
-> Zinsfuss, Zara. 「やぎ座の時代」 *Wheel of Heaven*. https://www.wheelofheaven.world/timeline/age-of-capricorn/. アクセス日 [日付]。
+> *Wheel of Heaven*. https://www.wheelofheaven.world/. アクセス日 [日付]。
+
+執筆者名を記したい読者のために、[著者ページ](/author/zara-zinsfuss/)がプロジェクトの背後にいる人物を紹介しています。
 """
 
 [[extra.faq_groups.items]]

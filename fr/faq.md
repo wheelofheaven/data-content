@@ -344,13 +344,15 @@ Oui. Tout le contenu de Wheel of Heaven est mis dans le domaine public sous [Cre
 slug = "how-to-cite"
 question = "Comment puis-je citer le projet ?"
 answer = """
-Citation suggérée :
+L'auteur de référence du site est le projet lui-même : les métadonnées et les données structurées de chaque page déclarent Wheel of Heaven comme auteur. Citez donc le projet, non la personne. Chaque entrée du wiki, chaque article, chaque chapitre de la chronologie et chaque page de la bibliothèque porte un widget « Citer cette page » avec les formes APA, MLA, Chicago et BibTeX prêtes à copier. La forme Chicago se présente ainsi :
 
-> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.world. Consulté le [date].
+> « Ère du Capricorne. » *Wheel of Heaven*, [année]. https://www.wheelofheaven.world/fr/timeline/age-of-capricorn/.
 
-Pour des pages spécifiques, ajoutez le titre de la page et l'URL :
+L'année est celle de la dernière passe éditoriale de la page lorsqu'elle est consignée ; sinon le widget affiche « n.d. ». Pour citer le projet dans son ensemble :
 
-> Zinsfuss, Zara. « Âge du Capricorne. » *Wheel of Heaven*. https://www.wheelofheaven.world/fr/timeline/age-of-capricorn/. Consulté le [date].
+> *Wheel of Heaven*. https://www.wheelofheaven.world/. Consulté le [date].
+
+La [page de l'auteure](/fr/author/zara-zinsfuss/) nomme la personne derrière le projet pour les lecteurs qui souhaitent créditer l'écriture.
 """
 
 [[extra.faq_groups.items]]

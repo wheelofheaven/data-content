@@ -1,4 +1,3 @@
-
 +++
 title = "Age of Sagittarius"
 description = "The second age of the Great Year, when the Elohim separated the atmospheric waters from the ocean, cleared the sky, and raised the first continent from the seabed."
@@ -11,6 +10,7 @@ core_claim_ids = ["woh-claim-0003", "woh-claim-0059"]
 core_versions = { woh-claim-0003 = "0.1.0", woh-claim-0059 = "0.1.0" }
 symbol = "♐"
 color = "blue"
+claim_type = "inferred"
 start_year = "-19650"
 end_year = "-17490"
 genesis_day = 2

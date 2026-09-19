@@ -1,4 +1,3 @@
-
 +++
 title = "Age of Capricorn"
 description = "The first age of the Great Year, when the Elohim scientists arrived at a formless, water-covered Earth, surveyed it from orbit, and laid the groundwork for a multi-millennial project of creation."
@@ -11,6 +10,7 @@ core_claim_ids = ["woh-claim-0003", "woh-claim-0059"]
 core_versions = { woh-claim-0003 = "0.1.0", woh-claim-0059 = "0.1.0" }
 symbol = "♑"
 color = "mauve"
+claim_type = "inferred"
 start_year = "-21810"
 end_year = "-19650"
 genesis_day = 1
