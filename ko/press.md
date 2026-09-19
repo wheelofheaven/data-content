@@ -38,9 +38,9 @@ summary = "Wheel of Heaven의 브랜드 자산, 보일러플레이트, 팔레트
 <div class="press-boilerplate">
   <header class="press-boilerplate__head">
     <h3>짧은 단락 <span class="press-boilerplate__meta">약 90단어</span></h3>
-    <button class="press-boilerplate__copy" type="button" data-copy="Wheel of Heaven은 종교 텍스트를 실제 사건 — 엘로힘이라 불리는 진보된 인간 문명에 의한 지구 생명의 공학 — 에 대한 부분적으로 왜곡된 기록으로 읽어내며, 그 사건을 대년(Great Year)의 열두 세차 시대에 걸쳐 추적합니다. 이 읽기는 믿어야 할 교리가 아니라 검증되어야 할 가설로 다뤄집니다. 모든 페이지에는 주요 주장이 직접적(direct), 추론적(inferred), 사변적(speculative) 중 어디에 해당하는지를 표시하는 작은 배지가 달려 있습니다. 이 작업은 무료이며 출처를 명확히 밝히고, 증거가 바뀌면 그에 따라 수정될 수 있도록 열려 있습니다.">복사</button>
+    <button class="press-boilerplate__copy" type="button" data-copy="Wheel of Heaven은 종교 텍스트를 실제 사건 — 엘로힘이라 불리는 진보된 인간 문명에 의한 지구 생명의 공학 — 에 대한 부분적으로 왜곡된 기록으로 읽어내며, 그 사건을 대년(Great Year)의 열두 세차 시대에 걸쳐 추적합니다. 이 읽기는 믿어야 할 교리가 아니라 검증되어야 할 가설로 다뤄집니다. 모든 항목에는 주요 주장이 직접적(direct), 틀(framework), 추론적(inferred), 사변적(speculative) 중 어디에 해당하는지를 표시하는 작은 배지가 달려 있습니다. 이 작업은 무료이며 출처를 명확히 밝히고, 증거가 바뀌면 그에 따라 수정될 수 있도록 열려 있습니다.">복사</button>
   </header>
-  <p>Wheel of Heaven은 종교 텍스트를 실제 사건 — 엘로힘이라 불리는 진보된 인간 문명에 의한 지구 생명의 공학 — 에 대한 부분적으로 왜곡된 기록으로 읽어내며, 그 사건을 대년(Great Year)의 열두 세차 시대에 걸쳐 추적합니다. 이 읽기는 믿어야 할 교리가 아니라 검증되어야 할 가설로 다뤄집니다. 모든 페이지에는 주요 주장이 직접적(direct), 추론적(inferred), 사변적(speculative) 중 어디에 해당하는지를 표시하는 작은 배지가 달려 있습니다. 이 작업은 무료이며 출처를 명확히 밝히고, 증거가 바뀌면 그에 따라 수정될 수 있도록 열려 있습니다.</p>
+  <p>Wheel of Heaven은 종교 텍스트를 실제 사건 — 엘로힘이라 불리는 진보된 인간 문명에 의한 지구 생명의 공학 — 에 대한 부분적으로 왜곡된 기록으로 읽어내며, 그 사건을 대년(Great Year)의 열두 세차 시대에 걸쳐 추적합니다. 이 읽기는 믿어야 할 교리가 아니라 검증되어야 할 가설로 다뤄집니다. 모든 항목에는 주요 주장이 직접적(direct), 틀(framework), 추론적(inferred), 사변적(speculative) 중 어디에 해당하는지를 표시하는 작은 배지가 달려 있습니다. 이 작업은 무료이며 출처를 명확히 밝히고, 증거가 바뀌면 그에 따라 수정될 수 있도록 열려 있습니다.</p>
 </div>
 
 <div class="press-boilerplate">
@@ -50,11 +50,11 @@ summary = "Wheel of Heaven의 브랜드 자산, 보일러플레이트, 팔레트
 
 이 읽기는 세차 주기의 열두 시대에 걸쳐 펼쳐지며, 2만 2천 년 전 프로젝트의 시작에서부터 현재의 공개 시대를 거쳐 다음 대년이 열어 가는 먼 미래까지 이어집니다.
 
-사이트는 무료이며 출처를 명확히 밝히고, 작업이 검증될 수 있도록 만들어졌습니다. 모든 페이지에는 인식론적 배지 — 직접적, 추론적, 사변적 — 가 달려 있어 독자가 어떤 종류의 주장을 보고 있는지 알 수 있습니다. 코퍼스는 9개 언어로 CC0-1.0 라이선스 하에 출판되며, 기반 소스 코드는 github.com/wheelofheaven에서 공개되어 있습니다. 증거가 바뀌면 읽기도 바뀝니다.">복사</button>
+사이트는 무료이며 출처를 명확히 밝히고, 작업이 검증될 수 있도록 만들어졌습니다. 모든 항목에는 인식론적 배지 — 직접적, 틀, 추론적, 사변적 — 가 달려 있어 독자가 어떤 종류의 주장을 보고 있는지 알 수 있습니다. 코퍼스는 10개 언어로 CC0-1.0 라이선스 하에 출판되며, 기반 소스 코드는 github.com/wheelofheaven에서 공개되어 있습니다. 증거가 바뀌면 읽기도 바뀝니다.">복사</button>
   </header>
   <p>Wheel of Heaven은 고대 세계의 창조 전통 — 라엘리안, 성서, 메소포타미아 등 — 을 하나의 작업 가설을 통해 읽어내는 개방적이고 다국어로 제공되는 프로젝트입니다. 그 가설은 엘로힘이라 불리는 존재들이 이곳으로 와서 지구 생명을 설계하고 종교 텍스트 속에 그 기록을 남긴 소규모의 진보된 인간 문명이었다는 것입니다.</p>
   <p>이 읽기는 세차 주기의 열두 시대에 걸쳐 펼쳐지며, 2만 2천 년 전 프로젝트의 시작에서부터 현재의 공개 시대를 거쳐 다음 대년이 열어 가는 먼 미래까지 이어집니다.</p>
-  <p>사이트는 무료이며 출처를 명확히 밝히고, 작업이 검증될 수 있도록 만들어졌습니다. 모든 페이지에는 인식론적 배지 — 직접적, 추론적, 사변적 — 가 달려 있어 독자가 어떤 종류의 주장을 보고 있는지 알 수 있습니다. 코퍼스는 9개 언어로 CC0-1.0 라이선스 하에 출판되며, 기반 소스 코드는 <a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a>에서 공개되어 있습니다. 증거가 바뀌면 읽기도 바뀝니다.</p>
+  <p>사이트는 무료이며 출처를 명확히 밝히고, 작업이 검증될 수 있도록 만들어졌습니다. 모든 항목에는 인식론적 배지 — 직접적, 틀, 추론적, 사변적 — 가 달려 있어 독자가 어떤 종류의 주장을 보고 있는지 알 수 있습니다. 코퍼스는 10개 언어로 CC0-1.0 라이선스 하에 출판되며, 기반 소스 코드는 <a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a>에서 공개되어 있습니다. 증거가 바뀌면 읽기도 바뀝니다.</p>
 </div>
 
 </section>
@@ -70,7 +70,7 @@ summary = "Wheel of Heaven의 브랜드 자산, 보일러플레이트, 팔레트
   <dt>분야</dt><dd>비교 종교학 · 고대 우주인 연구 · 개방형 캐논</dd>
   <dt>설립</dt><dd>2023년 (공개 시점); 기반 작업은 약 10년에 걸쳐 진행</dd>
   <dt>현황</dt><dd>활성 · 약 1,500페이지 출판 · 매주 페이지 추가 중</dd>
-  <dt>언어</dt><dd>9개 — 영어, 독일어, 프랑스어, 스페인어, 러시아어, 일본어, 중국어(간체), 중국어(번체), 한국어</dd>
+  <dt>언어</dt><dd>10개 — 영어, 독일어, 프랑스어, 스페인어, 러시아어, 일본어, 중국어(간체), 중국어(번체), 한국어, 히브리어</dd>
   <dt>라이선스</dt><dd>콘텐츠 <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0-1.0</a> · 코드 <a href="https://opensource.org/licenses/MIT">MIT</a></dd>
   <dt>웹사이트</dt><dd><a href="https://www.wheelofheaven.world/">wheelofheaven.world</a></dd>
   <dt>소스</dt><dd><a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a></dd>
@@ -274,7 +274,7 @@ summary = "Wheel of Heaven의 브랜드 자산, 보일러플레이트, 팔레트
 
 ## 소셜 카드
 
-사이트의 모든 페이지에는 9개 언어 전체에 대해 1200×630 공유 카드가 생성됩니다. 섹션별 샘플 6개:
+사이트의 모든 페이지에는 10개 언어 전체에 대해 1200×630 공유 카드가 생성됩니다. 섹션별 샘플 6개:
 
 <div class="press-og-grid">
 <img src="https://assets.wheelofheaven.world/images/og/en/wiki/elohim.jpg" alt="위키: 엘로힘" loading="lazy">

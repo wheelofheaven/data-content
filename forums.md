@@ -36,7 +36,7 @@ If you know of a source the project should engage — a primary text, a scholarl
 
 ### Translation coordination
 
-The site is published in nine languages, and additional translations are welcome. Translation work is coordinated through Discussions: scope, glossary, style questions, review.
+The site is published in ten languages, and additional translations are welcome. Translation work is coordinated through Discussions: scope, glossary, style questions, review.
 
 ### Introductions
 

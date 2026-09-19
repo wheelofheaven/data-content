@@ -36,7 +36,7 @@ Si conoce una fuente con la que el proyecto debería comprometerse — un texto 
 
 ### Coordinación de traducciones
 
-El sitio se publica en nueve idiomas, y se acogen traducciones adicionales. El trabajo de traducción se coordina a través de Discusiones: alcance, glosario, preguntas de estilo, revisión.
+El sitio se publica en diez idiomas, y se acogen traducciones adicionales. El trabajo de traducción se coordina a través de Discusiones: alcance, glosario, preguntas de estilo, revisión.
 
 ### Presentaciones
 

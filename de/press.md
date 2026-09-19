@@ -38,9 +38,9 @@ Drei Boilerplate-Längen, jede zum Einfügen bereit. Klicken Sie auf **Kopieren*
 <div class="press-boilerplate">
   <header class="press-boilerplate__head">
     <h3>Kurzer Absatz <span class="press-boilerplate__meta">~90 Wörter</span></h3>
-    <button class="press-boilerplate__copy" type="button" data-copy="Wheel of Heaven liest die religiösen Texte als teilweise verzerrte Aufzeichnung eines realen Ereignisses — der Konstruktion irdischen Lebens durch eine fortgeschrittene menschliche Zivilisation namens Elohim — und verfolgt dieses Ereignis durch die zwölf präzessionalen Zeitalter des Großen Jahres. Die Lesart wird als zu prüfende Hypothese verstanden, nicht als zu glaubende Doktrin. Jede Seite trägt ein kleines Abzeichen, das ihre Hauptaussage als direkt, abgeleitet oder spekulativ kennzeichnet. Die Arbeit ist frei, quellenbewusst und offen für Überarbeitung, wo sich die Belege verschieben.">Kopieren</button>
+    <button class="press-boilerplate__copy" type="button" data-copy="Wheel of Heaven liest die religiösen Texte als teilweise verzerrte Aufzeichnung eines realen Ereignisses — der Konstruktion irdischen Lebens durch eine fortgeschrittene menschliche Zivilisation namens Elohim — und verfolgt dieses Ereignis durch die zwölf präzessionalen Zeitalter des Großen Jahres. Die Lesart wird als zu prüfende Hypothese verstanden, nicht als zu glaubende Doktrin. Jeder Eintrag trägt ein kleines Abzeichen, das ihre Hauptaussage als direkt, Rahmen, abgeleitet oder spekulativ kennzeichnet. Die Arbeit ist frei, quellenbewusst und offen für Überarbeitung, wo sich die Belege verschieben.">Kopieren</button>
   </header>
-  <p>Wheel of Heaven liest die religiösen Texte als teilweise verzerrte Aufzeichnung eines realen Ereignisses — der Konstruktion irdischen Lebens durch eine fortgeschrittene menschliche Zivilisation namens Elohim — und verfolgt dieses Ereignis durch die zwölf präzessionalen Zeitalter des Großen Jahres. Die Lesart wird als zu prüfende Hypothese verstanden, nicht als zu glaubende Doktrin. Jede Seite trägt ein kleines Abzeichen, das ihre Hauptaussage als direkt, abgeleitet oder spekulativ kennzeichnet. Die Arbeit ist frei, quellenbewusst und offen für Überarbeitung, wo sich die Belege verschieben.</p>
+  <p>Wheel of Heaven liest die religiösen Texte als teilweise verzerrte Aufzeichnung eines realen Ereignisses — der Konstruktion irdischen Lebens durch eine fortgeschrittene menschliche Zivilisation namens Elohim — und verfolgt dieses Ereignis durch die zwölf präzessionalen Zeitalter des Großen Jahres. Die Lesart wird als zu prüfende Hypothese verstanden, nicht als zu glaubende Doktrin. Jeder Eintrag trägt ein kleines Abzeichen, das ihre Hauptaussage als direkt, Rahmen, abgeleitet oder spekulativ kennzeichnet. Die Arbeit ist frei, quellenbewusst und offen für Überarbeitung, wo sich die Belege verschieben.</p>
 </div>
 
 <div class="press-boilerplate">
@@ -50,11 +50,11 @@ Drei Boilerplate-Längen, jede zum Einfügen bereit. Klicken Sie auf **Kopieren*
 
 Die Lesart erstreckt sich über zwölf Zeitalter des präzessionalen Zyklus, vom Beginn des Projekts vor zweiundzwanzigtausend Jahren bis zum gegenwärtigen Zeitalter der Offenlegung und in die lange Zukunft hinein, die das nächste Große Jahr eröffnet.
 
-Die Seite ist frei, quellenbewusst und so aufgebaut, dass die Arbeit überprüfbar ist. Jede Seite trägt ein epistemisches Abzeichen — direkt, abgeleitet oder spekulativ — damit Leser erkennen können, welche Art von Aussage sie vor sich haben. Das Korpus erscheint in neun Sprachen unter einer CC0-1.0-Lizenz, der zugrundeliegende Quellcode ist offen unter github.com/wheelofheaven. Wo sich die Belege verschieben, verschiebt sich die Lesart.">Kopieren</button>
+Die Seite ist frei, quellenbewusst und so aufgebaut, dass die Arbeit überprüfbar ist. Jeder Eintrag trägt ein epistemisches Abzeichen — direkt, Rahmen, abgeleitet oder spekulativ — damit Leser erkennen können, welche Art von Aussage sie vor sich haben. Das Korpus erscheint in zehn Sprachen unter einer CC0-1.0-Lizenz, der zugrundeliegende Quellcode ist offen unter github.com/wheelofheaven. Wo sich die Belege verschieben, verschiebt sich die Lesart.">Kopieren</button>
   </header>
   <p>Wheel of Heaven ist eine offene, mehrsprachige Lesart der Schöpfungstraditionen der antiken Welt — raëlianisch, biblisch, mesopotamisch und andere — durch eine einzige Arbeitshypothese: dass die Wesen, die Elohim genannt werden, eine kleine, fortgeschrittene menschliche Zivilisation waren, die hierherkam, das Leben auf der Erde entwarf und einen Bericht in den religiösen Texten hinterließ.</p>
   <p>Die Lesart erstreckt sich über zwölf Zeitalter des präzessionalen Zyklus, vom Beginn des Projekts vor zweiundzwanzigtausend Jahren bis zum gegenwärtigen Zeitalter der Offenlegung und in die lange Zukunft hinein, die das nächste Große Jahr eröffnet.</p>
-  <p>Die Seite ist frei, quellenbewusst und so aufgebaut, dass die Arbeit überprüfbar ist. Jede Seite trägt ein epistemisches Abzeichen — direkt, abgeleitet oder spekulativ — damit Leser erkennen können, welche Art von Aussage sie vor sich haben. Das Korpus erscheint in neun Sprachen unter einer CC0-1.0-Lizenz, der zugrundeliegende Quellcode ist offen unter <a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a>. Wo sich die Belege verschieben, verschiebt sich die Lesart.</p>
+  <p>Die Seite ist frei, quellenbewusst und so aufgebaut, dass die Arbeit überprüfbar ist. Jeder Eintrag trägt ein epistemisches Abzeichen — direkt, Rahmen, abgeleitet oder spekulativ — damit Leser erkennen können, welche Art von Aussage sie vor sich haben. Das Korpus erscheint in zehn Sprachen unter einer CC0-1.0-Lizenz, der zugrundeliegende Quellcode ist offen unter <a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a>. Wo sich die Belege verschieben, verschiebt sich die Lesart.</p>
 </div>
 
 </section>
@@ -70,7 +70,7 @@ Die Seite ist frei, quellenbewusst und so aufgebaut, dass die Arbeit überprüfb
   <dt>Kategorie</dt><dd>Vergleichende Religionswissenschaft · Prä-Astronautik-Forschung · Offener Kanon</dd>
   <dt>Gegründet</dt><dd>2023 (öffentliche Eröffnung); die zugrundeliegende Arbeit umfasst rund ein Jahrzehnt</dd>
   <dt>Status</dt><dd>Aktiv · ~1.500 veröffentlichte Seiten · wöchentlich neue Beiträge</dd>
-  <dt>Sprachen</dt><dd>9 — Englisch, Deutsch, Französisch, Spanisch, Russisch, Japanisch, Chinesisch (Vereinfacht), Chinesisch (Traditionell), Koreanisch</dd>
+  <dt>Sprachen</dt><dd>10 — Englisch, Deutsch, Französisch, Spanisch, Russisch, Japanisch, Chinesisch (Vereinfacht), Chinesisch (Traditionell), Koreanisch, Hebräisch</dd>
   <dt>Lizenz</dt><dd>Inhalte <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0-1.0</a> · Code <a href="https://opensource.org/licenses/MIT">MIT</a></dd>
   <dt>Website</dt><dd><a href="https://www.wheelofheaven.world/">wheelofheaven.world</a></dd>
   <dt>Quelltext</dt><dd><a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a></dd>
@@ -274,7 +274,7 @@ Vier Schriftartebenen, jede mit einem eigenen Register. Alle vier sind quelloffe
 
 ## Social-Cards
 
-Jede Seite der Website verfügt über eine automatisch erzeugte 1200×630-Share-Card in allen 9 Sprachen. Sechs Beispiele aus verschiedenen Bereichen:
+Jede Seite der Website verfügt über eine automatisch erzeugte 1200×630-Share-Card in allen 10 Sprachen. Sechs Beispiele aus verschiedenen Bereichen:
 
 <div class="press-og-grid">
 <img src="https://assets.wheelofheaven.world/images/og/en/wiki/elohim.jpg" alt="Wiki: Elohim" loading="lazy">

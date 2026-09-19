@@ -31,7 +31,7 @@ Les [Discussions GitHub](https://github.com/orgs/wheelofheaven/discussions) sont
 
 ### Traduction
 
-Le site est publié en neuf langues, avec l'anglais comme source. Les traductions sont dérivées de l'original anglais à la main et par outil, avec revue éditoriale là où c'est possible. D'autres langues sont bienvenues ; les traductions existantes peuvent toujours être améliorées.
+Le site est publié en dix langues, avec l'anglais comme source. Les traductions sont dérivées de l'original anglais à la main et par outil, avec revue éditoriale là où c'est possible. D'autres langues sont bienvenues ; les traductions existantes peuvent toujours être améliorées.
 
 Si vous êtes intéressé par la traduction, ouvrez un fil de Discussion ou un ticket décrivant la langue et l'étendue. Le projet fournira le matériau-source, le glossaire des termes spécifiques au projet, et le guide de style.
 

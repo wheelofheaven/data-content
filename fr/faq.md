@@ -7,7 +7,7 @@ template = "faq.html"
 claim_type = "direct"
 editorial_pass = "2026-05"
 summary = "Réponses substantielles aux questions que les lecteurs apportent le plus souvent. Si votre question n'est pas traitée ici, les Discussions GitHub sont le bon endroit pour la poser — et une bonne question peut finir ajoutée à cette page."
-last_updated = "2026-05-10"
+last_updated = "2026-09-19"
 
 # ---------------------------------------------------------------------------
 # Sur le projet
@@ -63,7 +63,7 @@ question = "Est-ce de l'érudition à comité de lecture ?"
 answer = """
 Non, et le projet ne prétend pas l'être. Wheel of Heaven est un projet d'essai de longue haleine mené par une auteure indépendante, non une publication universitaire. Là où le projet s'engage avec l'érudition contemporaine — en études bibliques, en génétique, en astrobiologie, en archéoastronomie et dans d'autres champs — il le fait en lecteur sérieux de la littérature publiée, en prenant la science à ses propres termes.
 
-La discipline épistémique du projet est interne plutôt qu'institutionnelle : chaque page étiquette son affirmation principale comme **directe** (ce que la source affirme), **inférée** (ce que l'érudition conclut raisonnablement), ou **spéculative** (ce que le projet propose comme synthèse interprétative). Les lecteurs sont invités à évaluer les affirmations spécifiques du projet face aux alternatives.
+La discipline épistémique du projet est interne plutôt qu'institutionnelle : chaque entrée du wiki, chaque article et chaque livre de la bibliothèque — et la plupart des autres pages — étiquette son affirmation principale comme **directe** (ce que la source affirme et que l'érudition dominante ne conteste pas), **cadre** (une prémisse du canon raëlien que l'érudition dominante n'endosse pas), **inférée** (une lecture raisonnable d'une source), ou **spéculative** (ce que le projet propose comme synthèse interprétative). Les lecteurs sont invités à évaluer les affirmations spécifiques du projet face aux alternatives.
 """
 
 [[extra.faq_groups.items]]
@@ -128,7 +128,7 @@ question = "Qu'est-ce que le cycle précessionnel, en termes simples ?"
 answer = """
 L'axe de la Terre est incliné d'environ 23,5°, et il ne pointe pas dans une direction fixe dans l'espace. Comme une toupie, l'axe trace un lent cercle dans le ciel, complétant un tour complet environ tous les 25 920 ans. Ce mouvement est appelé *précession des équinoxes*.
 
-La conséquence pratique est que la constellation qui se lève derrière le soleil à l'équinoxe de printemps se déplace lentement vers l'ouest à travers le zodiaque. Il y a deux mille ans c'était le Bélier ; aujourd'hui c'est les Poissons ; bientôt ce sera le Verseau. Le cycle se répète environ tous les 26 000 ans.
+La conséquence pratique est que la constellation qui se lève derrière le soleil à l'équinoxe de printemps se déplace lentement vers l'ouest à travers le zodiaque. Jusque vers 210 av. J.-C., c'était le Bélier ; pendant les deux millénaires suivants, les Poissons ; depuis 1950, selon la chronologie du corpus, c'est le Verseau. Le cycle se répète environ tous les 26 000 ans.
 
 Divisé par les douze constellations du zodiaque, ce cycle produit des *âges précessionnels* d'environ 2 160 ans chacun. Le corpus utilise ces âges comme cadre chronologique. Pour en savoir plus, voir l'entrée wiki [Précession](/fr/wiki/precession/).
 """
@@ -161,7 +161,7 @@ Les frontières entre âges sont fixées par divisions égales du zodiaque (les 
 slug = "what-does-elohim-mean"
 question = 'Que signifie « Elohim », et pourquoi le projet le lit-il au pluriel ?'
 answer = """
-*Elohim* (אֱלֹהִים) est le mot hébreu que les Bibles conventionnelles traduisent par « Dieu ». Grammaticalement, c'est un nom pluriel — la terminaison *-im* est le marqueur pluriel hébreu standard, le même qui met au pluriel d'autres noms masculins (*cherub* / *cherubim*, *Nephil* / *Nephilim*).
+*Elohim* (אֱלֹהִים) est le mot hébreu que les Bibles conventionnelles traduisent par « Dieu ». Grammaticalement, c'est un nom pluriel — la terminaison *-im* est le marqueur pluriel hébreu standard, le même qui met au pluriel d'autres noms masculins (*cherub* / *cherubim*, *seraph* / *seraphim*).
 
 La théologie chrétienne et juive conventionnelle lit le pluriel soit comme un « pluriel de majesté » (une divinité unique adressée au pluriel pour la grandeur, similaire au « nous » royal), soit comme un substitut pour la Trinité. Le corpus le lit au pied de la lettre : le pluriel *Elohim* renvoie à des êtres multiples.
 
@@ -194,14 +194,14 @@ Le corpus ne rejette pas l'évolution comme description du changement biologique
 
 Selon la lecture du corpus, les transitions morphologiques majeures du registre fossile sont des phases d'itération de conception menées par la civilisation des Elohim, avec des changements évolutifs plus petits opérant à l'intérieur de chaque phase de conception par les mécanismes conventionnels (mutation, sélection, dérive). L'apparente abruption de certaines transitions — l'explosion cambrienne, l'émergence rapide d'*Homo sapiens* à partir de formes hominidées antérieures — est lue comme exactement ce que produirait un programme d'itération de conception.
 
-Le projet accepte la datation géologique de la Terre à environ 4,5 milliards d'années et n'est pas un cadre jeune-Terre. Le projet Elohim est daté de l'arrivée à l'âge du Capricorne il y a approximativement 21 810 ans, non de la formation géologique de la planète.
+Le projet accepte la datation géologique de la Terre à environ 4,5 milliards d'années et n'est pas un cadre jeune-Terre. Le projet Elohim est daté de l'arrivée à l'âge du Capricorne vers 21 810 av. J.-C., non de la formation géologique de la planète.
 """
 
 [[extra.faq_groups.items]]
 slug = "position-on-jesus"
 question = "Quelle est la position du projet sur Jésus ?"
 answer = """
-Le corpus traite Jésus comme une figure historique dont le ministère correspond à la transition précessionnelle du Bélier aux Poissons. La source raëlienne inclut des revendications spécifiques sur la nature et l'origine de Jésus (comme descendant d'un Eloha et d'une femme humaine, en continuité avec le motif des *benei ha-Elohim* de Genèse 6) ; le corpus s'engage avec ces revendications comme partie du contenu de la famille-source.
+Le corpus traite Jésus comme une figure historique dont le ministère correspond à la transition précessionnelle du Bélier aux Poissons. La source raëlienne inclut des revendications spécifiques sur la nature et l'origine de Jésus (comme fils d'une femme humaine et d'un Eloha — Yahvé, selon la lecture du corpus — en continuité avec le motif des *benei ha-Elohim* de Genèse 6) ; le corpus s'engage avec ces revendications comme partie du contenu de la famille-source.
 
 Le corpus ne traite pas Jésus comme une figure divine au sens chrétien conventionnel, ni comme une invention fictive de l'Église primitive. La figure historique est lue comme un messager de l'âge des Poissons issu de l'alliance des Elohim, dont les enseignements et la vie ont été par la suite mystifiés par la tradition institutionnelle chrétienne issue de son mouvement.
 
@@ -246,7 +246,7 @@ Le corpus s'appuie sur plusieurs familles de sources, avec une priorité hiérar
 
 **Secondaire** : La tradition de mythologie précessionnelle, fondée sur *Hamlet's Mill* de Giorgio de Santillana et Hertha von Dechend (1969).
 
-**Tertiaire** : Les réinterprétations bibliques de Jean Sendy de 1968–1972 comme registres d'activité extraterrestre (*La Lune, clé de la Bible* ; *Les Dieux nous sont nés* ; *L'Ère du Verseau*).
+**Tertiaire** : Les réinterprétations bibliques de Jean Sendy de 1966–1970 comme registres d'activité extraterrestre (*Les dieux nous sont nés*, 1966 ; *La lune, clé de la Bible*, 1968 ; *Ces dieux qui firent le ciel et la terre*, 1969 ; *L'Ère du Verseau*, 1970).
 
 **Comparative** : Des sources religieuses et mythologiques primaires bibliques, mésopotamiennes, védiques, mésoaméricaines et autres, lues dans leurs langues originales lorsque possible.
 
@@ -254,7 +254,7 @@ Le corpus s'appuie sur plusieurs familles de sources, avec une priorité hiérar
 
 **Engagée selon ses propres termes** : L'érudition contemporaine à comité de lecture en études bibliques, génétique, astrobiologie, archéoastronomie et biologie de synthèse.
 
-Pour le paysage complet des sources, voir les sections [Bibliothèque](/fr/library/) et [Ressources](/fr/resources/).
+Pour le paysage complet des sources, voir les sections [Bibliothèque](/fr/library/) et [Sources](/fr/sources/).
 """
 
 [[extra.faq_groups.items]]
@@ -273,15 +273,17 @@ Là où le consensus savant diverge du cadre du corpus, le corpus engage la dive
 
 [[extra.faq_groups.items]]
 slug = "claim-badges"
-question = 'Que signifient « directe », « inférée », et « spéculative » sur les badges des pages ?'
+question = 'Que signifient « directe », « cadre », « inférée » et « spéculative » sur les badges des pages ?'
 answer = """
-Chaque page du corpus porte un petit badge indiquant le statut épistémique de son affirmation principale :
+La plupart des pages du corpus portent un petit badge indiquant le statut épistémique de l'affirmation principale de la page. Il y a quatre valeurs :
 
-**Affirmation directe** — ce que le texte-source affirme lui-même. *« Genèse 1:26 dit 'faisons l'humain à notre image.' »* Ce sont les affirmations les plus fiables ; la vérification consiste à vérifier la source.
+**Affirmation directe** — ce que le texte-source affirme lui-même, et que l'érudition dominante ne conteste pas. *« Genèse 1:26 dit 'faisons l'humain à notre image.' »* Ce sont les affirmations les plus fiables ; la vérification consiste à vérifier la source.
 
-**Affirmation inférée** — ce que l'érudition conclut raisonnablement à partir de la source. *« La forme verbale plurielle indique des agents multiples. »* Ces affirmations impliquent un travail interprétatif mais restent proches de la preuve.
+**Affirmation-cadre** — une prémisse fondatrice de la lecture Wheel of Heaven, explicite dans le canon raëlien mais non endossée par l'érudition dominante. *« Les Elohim pluriels de la Genèse sont la petite civilisation que la source raëlienne décrit. »* Ces affirmations sont énoncées directement parce que le canon les énonce directement ; le badge signale que le consensus académique plus large ne les partage pas.
 
-**Affirmation spéculative** — ce que le projet propose comme synthèse interprétative. *« Les Elohim pluriels de la Genèse peuvent être identifiés à la petite civilisation que la source raëlienne décrit. »* Ces affirmations sont la contribution distinctive du projet et sont les plus sujettes à révision.
+**Affirmation inférée** — une lecture raisonnable d'une source, non littéralement énoncée mais cohérente avec elle. *« La forme verbale plurielle indique des agents multiples. »* Ces affirmations impliquent un travail interprétatif mais restent proches de la preuve.
+
+**Affirmation spéculative** — une synthèse interprétative qui va au-delà de ce qu'énonce toute source prise isolément. *« Les récits de guerre céleste de traditions indépendantes convergent vers un seul événement remémoré. »* Ces affirmations sont la contribution distinctive du projet et sont les plus sujettes à révision.
 
 Les badges permettent au lecteur de calibrer la confiance au niveau des affirmations individuelles. Une affirmation spéculative n'est pas erronée parce qu'elle est spéculative ; elle est *étiquetée* spéculative pour que le lecteur sache la peser comme telle.
 """
@@ -292,7 +294,7 @@ question = "Comment les traductions sont-elles gérées ?"
 answer = """
 Le corpus lit au plus près des langues sources lorsque l'interprétation en dépend. Pour le matériau biblique hébreu, le corpus utilise le texte massorétique, nomme le vocabulaire hébreu spécifique en translittération, et discute des choix de traduction là où ils affectent matériellement l'interprétation. Pour le matériau mésopotamien, le corpus s'appuie sur les éditions et traductions savantes standard (Foster, George, Lambert, autres). Pour d'autres familles de sources, le corpus utilise les meilleures éditions savantes disponibles et est explicite lorsqu'il le fait.
 
-Le site lui-même est publié en neuf langues, avec l'anglais comme source pour les traductions. Là où les choix de traduction affectent matériellement l'interprétation, l'original anglais prévaut.
+Le site lui-même est publié en dix langues, avec l'anglais comme source pour les traductions. Là où les choix de traduction affectent matériellement l'interprétation, l'original anglais prévaut.
 """
 
 # ---------------------------------------------------------------------------
@@ -322,13 +324,13 @@ question = "Où lire les textes-sources ?"
 answer = """
 La section [Bibliothèque](/fr/library/) héberge les textes-sources primaires que le corpus lit, avec commentaire et contexte. Cela inclut :
 
-- *Le Livre Qui Dit la Vérité* (Vorilhon, 1974) — le texte raëlien fondateur.
-- La Genèse (le texte hébreu et les traductions anglaises standard).
+- *Le Livre Qui Dit la Vérité* (Vorilhon, 1974) — le texte raëlien fondateur — avec ses suites *Les Extra-Terrestres M'ont Emmené sur Leur Planète* et *Accueillir les Extra-Terrestres*.
+- La Genèse (le texte hébreu vocalisé avec la traduction propre au projet en regard, plus une édition anglaise standard).
 - Le Livre d'Hénoch.
 - L'Enuma Elish.
 - D'autres sources primaires au fur et à mesure que le corpus s'y appuie.
 
-Pour le matériau-source externe que le corpus exploite mais n'héberge pas, voir la section [Ressources](/fr/resources/).
+Pour le matériau-source externe que le corpus exploite mais n'héberge pas, voir la section [Sources](/fr/sources/).
 """
 
 [[extra.faq_groups.items]]
@@ -358,7 +360,7 @@ answer = """
 Plusieurs façons :
 
 - **Discussion et questions** — les [Discussions GitHub](https://github.com/orgs/wheelofheaven/discussions) sont le principal forum public du projet.
-- **Traduction** — le site est publié en neuf langues et accueille toute aide supplémentaire de traduction. Voir [Contribuer](/fr/contributing/).
+- **Traduction** — le site est publié en dix langues et accueille toute aide supplémentaire de traduction. Voir [Contribuer](/fr/contributing/).
 - **Corrections et suggestions de contenu** — les tickets peuvent être ouverts sur le [dépôt GitHub](https://github.com/wheelofheaven).
 - **Code et infrastructure** — le site est open-source et accueille les contributions de développement.
 - **Soutien financier** — via [Open Collective](https://opencollective.com/wheelofheaven). Le projet est actuellement financé entièrement par les fonds personnels ; l'aide est appréciée.
@@ -391,7 +393,7 @@ Les défis substantiels sont bienvenus. La posture d'hypothèse de travail du pr
 slug = "languages"
 question = "Dans quelles langues le site est-il disponible ?"
 answer = """
-Neuf : Anglais (primaire), Deutsch, Français, Español, Русский, 日本語, 简体中文, 繁體中文, 한국어. Les traductions sont dérivées de la source anglaise. Des langues supplémentaires sont les bienvenues ; voir [Contribuer](/fr/contributing/).
+Dix : Anglais (primaire), Deutsch, Français, Español, Русский, 日本語, 简体中文, 繁體中文, 한국어, עברית. Les traductions sont dérivées de la source anglaise. Des langues supplémentaires sont les bienvenues ; voir [Contribuer](/fr/contributing/).
 """
 
 # ---------------------------------------------------------------------------

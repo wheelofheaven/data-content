@@ -38,9 +38,9 @@ Trois longueurs de présentation, chacune prête à être collée. Cliquez sur *
 <div class="press-boilerplate">
   <header class="press-boilerplate__head">
     <h3>Paragraphe court <span class="press-boilerplate__meta">~90 mots</span></h3>
-    <button class="press-boilerplate__copy" type="button" data-copy="Wheel of Heaven lit les textes religieux comme la trace partiellement déformée d'un événement réel — l'ingénierie de la vie terrestre par une civilisation humaine avancée appelée les Élohim — et retrace cet événement à travers les douze âges précessionnels de la Grande Année. La lecture est tenue pour une hypothèse à vérifier, non pour une doctrine à croire. Chaque page porte un petit badge qualifiant sa thèse principale de directe, inférée ou spéculative. Le travail est libre, attentif à ses sources, et ouvert à révision dès que les preuves évoluent.">Copier</button>
+    <button class="press-boilerplate__copy" type="button" data-copy="Wheel of Heaven lit les textes religieux comme la trace partiellement déformée d'un événement réel — l'ingénierie de la vie terrestre par une civilisation humaine avancée appelée les Élohim — et retrace cet événement à travers les douze âges précessionnels de la Grande Année. La lecture est tenue pour une hypothèse à vérifier, non pour une doctrine à croire. Chaque entrée porte un petit badge qualifiant sa thèse principale de directe, cadre, inférée ou spéculative. Le travail est libre, attentif à ses sources, et ouvert à révision dès que les preuves évoluent.">Copier</button>
   </header>
-  <p>Wheel of Heaven lit les textes religieux comme la trace partiellement déformée d'un événement réel — l'ingénierie de la vie terrestre par une civilisation humaine avancée appelée les Élohim — et retrace cet événement à travers les douze âges précessionnels de la Grande Année. La lecture est tenue pour une hypothèse à vérifier, non pour une doctrine à croire. Chaque page porte un petit badge qualifiant sa thèse principale de directe, inférée ou spéculative. Le travail est libre, attentif à ses sources, et ouvert à révision dès que les preuves évoluent.</p>
+  <p>Wheel of Heaven lit les textes religieux comme la trace partiellement déformée d'un événement réel — l'ingénierie de la vie terrestre par une civilisation humaine avancée appelée les Élohim — et retrace cet événement à travers les douze âges précessionnels de la Grande Année. La lecture est tenue pour une hypothèse à vérifier, non pour une doctrine à croire. Chaque entrée porte un petit badge qualifiant sa thèse principale de directe, cadre, inférée ou spéculative. Le travail est libre, attentif à ses sources, et ouvert à révision dès que les preuves évoluent.</p>
 </div>
 
 <div class="press-boilerplate">
@@ -50,11 +50,11 @@ Trois longueurs de présentation, chacune prête à être collée. Cliquez sur *
 
 La lecture court à travers les douze âges du cycle précessionnel, depuis le commencement du projet il y a vingt-deux mille ans jusqu'à l'âge actuel de la révélation et jusqu'au long futur qu'ouvre la prochaine Grande Année.
 
-Le site est libre, attentif à ses sources, et bâti pour que le travail puisse être vérifié. Chaque page porte un badge épistémique — direct, inféré ou spéculatif — pour que le lecteur sache à quel type de thèse il a affaire. Le corpus est publié en neuf langues sous licence CC0-1.0, avec le code source ouvert sur github.com/wheelofheaven. Là où les preuves évoluent, la lecture évolue.">Copier</button>
+Le site est libre, attentif à ses sources, et bâti pour que le travail puisse être vérifié. Chaque entrée porte un badge épistémique — direct, inféré ou spéculatif — pour que le lecteur sache à quel type de thèse il a affaire. Le corpus est publié en dix langues sous licence CC0-1.0, avec le code source ouvert sur github.com/wheelofheaven. Là où les preuves évoluent, la lecture évolue.">Copier</button>
   </header>
   <p>Wheel of Heaven est une lecture ouverte et multilingue des traditions de création du monde antique — raëlienne, biblique, mésopotamienne et autres — à travers une seule hypothèse de travail : que les êtres appelés Élohim formaient une petite civilisation humaine avancée venue ici, qui a conçu la vie sur Terre et a laissé une trace dans les textes religieux.</p>
   <p>La lecture court à travers les douze âges du cycle précessionnel, depuis le commencement du projet il y a vingt-deux mille ans jusqu'à l'âge actuel de la révélation et jusqu'au long futur qu'ouvre la prochaine Grande Année.</p>
-  <p>Le site est libre, attentif à ses sources, et bâti pour que le travail puisse être vérifié. Chaque page porte un badge épistémique — direct, inféré ou spéculatif — pour que le lecteur sache à quel type de thèse il a affaire. Le corpus est publié en neuf langues sous licence CC0-1.0, avec le code source ouvert sur <a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a>. Là où les preuves évoluent, la lecture évolue.</p>
+  <p>Le site est libre, attentif à ses sources, et bâti pour que le travail puisse être vérifié. Chaque entrée porte un badge épistémique — direct, inféré ou spéculatif — pour que le lecteur sache à quel type de thèse il a affaire. Le corpus est publié en dix langues sous licence CC0-1.0, avec le code source ouvert sur <a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a>. Là où les preuves évoluent, la lecture évolue.</p>
 </div>
 
 </section>
@@ -70,7 +70,7 @@ Le site est libre, attentif à ses sources, et bâti pour que le travail puisse 
   <dt>Catégorie</dt><dd>Religions comparées · Recherche sur les anciens astronautes · Canon ouvert</dd>
   <dt>Fondé</dt><dd>2023 (ouverture publique) ; le travail sous-jacent couvre environ une décennie</dd>
   <dt>Statut</dt><dd>Actif · ~1 500 pages publiées · ajouts hebdomadaires</dd>
-  <dt>Langues</dt><dd>9 — anglais, allemand, français, espagnol, russe, japonais, chinois (simplifié), chinois (traditionnel), coréen</dd>
+  <dt>Langues</dt><dd>10 — anglais, allemand, français, espagnol, russe, japonais, chinois (simplifié), chinois (traditionnel), coréen, hébreu</dd>
   <dt>Licence</dt><dd>Contenu <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0-1.0</a> · code <a href="https://opensource.org/licenses/MIT">MIT</a></dd>
   <dt>Site</dt><dd><a href="https://www.wheelofheaven.world/">wheelofheaven.world</a></dd>
   <dt>Sources</dt><dd><a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a></dd>
@@ -274,7 +274,7 @@ Quatre couches typographiques, chacune portant un registre distinct. Toutes quat
 
 ## Cartes sociales
 
-Chaque page du site dispose d'une carte de partage générée en 1200×630, dans les 9 langues. Six exemples à travers les sections :
+Chaque page du site dispose d'une carte de partage générée en 1200×630, dans les 10 langues. Six exemples à travers les sections :
 
 <div class="press-og-grid">
 <img src="https://assets.wheelofheaven.world/images/og/en/wiki/elohim.jpg" alt="Wiki : Élohim" loading="lazy">

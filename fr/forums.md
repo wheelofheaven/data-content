@@ -36,7 +36,7 @@ Si vous connaissez une source que le projet devrait engager — un texte primair
 
 ### Coordination des traductions
 
-Le site est publié en neuf langues, et d'autres traductions sont bienvenues. Le travail de traduction est coordonné via les Discussions : étendue, glossaire, questions de style, revue.
+Le site est publié en dix langues, et d'autres traductions sont bienvenues. Le travail de traduction est coordonné via les Discussions : étendue, glossaire, questions de style, revue.
 
 ### Présentations
 

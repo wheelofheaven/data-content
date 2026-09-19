@@ -7,7 +7,7 @@ template = "faq.html"
 claim_type = "direct"
 editorial_pass = "2026-05"
 summary = "Respuestas sustantivas a las preguntas con las que los lectores llegan con mayor frecuencia. Si su pregunta no está respondida aquí, las Discusiones de GitHub son el lugar adecuado para plantearla — y una buena pregunta puede acabar añadiéndose a esta página."
-last_updated = "2026-05-10"
+last_updated = "2026-09-19"
 
 # ---------------------------------------------------------------------------
 # About the project
@@ -63,7 +63,7 @@ question = "¿Es esto una investigación revisada por pares?"
 answer = """
 No, y el proyecto no pretende serlo. Wheel of Heaven es un proyecto ensayístico de largo aliento llevado a cabo por una escritora independiente, no una publicación académica. Cuando el proyecto se relaciona con la erudición contemporánea — en estudios bíblicos, genética, astrobiología, arqueoastronomía y otros campos — lo hace como lectora seria de la literatura publicada, asumiendo la ciencia en sus propios términos.
 
-La disciplina epistémica del proyecto es interna, no institucional: cada página etiqueta su afirmación principal como **directa** (lo que una fuente afirma), **inferida** (lo que la erudición concluye razonablemente) o **especulativa** (lo que el proyecto propone como síntesis interpretativa). Se invita a los lectores a evaluar las afirmaciones específicas del proyecto frente a las alternativas.
+La disciplina epistémica del proyecto es interna, no institucional: cada entrada del wiki, cada artículo y cada libro de la biblioteca — y la mayoría de las demás páginas — etiqueta su afirmación principal como **directa** (lo que una fuente afirma y la erudición dominante no discute), **marco** (una premisa del canon raeliano que la erudición dominante no respalda), **inferida** (una lectura razonable de una fuente) o **especulativa** (lo que el proyecto propone como síntesis interpretativa). Se invita a los lectores a evaluar las afirmaciones específicas del proyecto frente a las alternativas.
 """
 
 [[extra.faq_groups.items]]
@@ -128,9 +128,9 @@ question = "¿Qué es el ciclo precesional, en lenguaje sencillo?"
 answer = """
 El eje de la Tierra está inclinado unos 23,5°, y no apunta en una dirección fija en el espacio. Como una peonza, el eje traza un círculo lento en el cielo, completando un circuito entero cada aproximadamente 25 920 años. Este movimiento se denomina *precesión de los equinoccios*.
 
-La consecuencia práctica es que la constelación que asciende por detrás del Sol en el equinoccio de primavera se desplaza lentamente hacia el oeste a través del zodíaco. Hace dos mil años era Aries; hoy es Piscis; pronto será Acuario. El ciclo se repite cada ~26 000 años.
+La consecuencia práctica es que la constelación que asciende por detrás del Sol en el equinoccio de primavera se desplaza lentamente hacia el oeste a través del zodíaco. Hasta aproximadamente el 210 a. C. era Aries; durante los dos milenios siguientes fue Piscis; desde 1950, según la cronología del corpus, es Acuario. El ciclo se repite cada ~26 000 años.
 
-Dividido por las doce constelaciones del zodíaco, ese ciclo produce *edades precesionales* de unos 2160 años cada una. El corpus utiliza estas edades como su marco cronológico. Para saber más, consulte la entrada wiki sobre [Precesión](/wiki/precession/).
+Dividido por las doce constelaciones del zodíaco, ese ciclo produce *edades precesionales* de unos 2160 años cada una. El corpus utiliza estas edades como su marco cronológico. Para saber más, consulte la entrada wiki sobre [Precesión](/es/wiki/precession/).
 """
 
 [[extra.faq_groups.items]]
@@ -161,7 +161,7 @@ Las fronteras entre edades se establecen mediante divisiones iguales del zodíac
 slug = "what-does-elohim-mean"
 question = '¿Qué significa «Elohim», y por qué el proyecto lo lee como plural?'
 answer = """
-*Elohim* (אֱלֹהִים) es la palabra hebrea que las Biblias convencionales traducen como «Dios». Gramaticalmente, es un sustantivo plural — la terminación *-im* es el marcador estándar del plural hebreo, el mismo que pluraliza otros sustantivos masculinos (*querub* / *querubim*, *Nefil* / *Nefilim*).
+*Elohim* (אֱלֹהִים) es la palabra hebrea que las Biblias convencionales traducen como «Dios». Gramaticalmente, es un sustantivo plural — la terminación *-im* es el marcador estándar del plural hebreo, el mismo que pluraliza otros sustantivos masculinos (*querub* / *querubim*, *seraf* / *serafim*).
 
 La teología cristiana y judía convencional lee el plural bien como un «plural mayestático» (una única deidad tratada en plural por grandeza, similar al «nos» real) bien como un marcador de la Trinidad. El corpus lo lee tal cual: el plural *Elohim* se refiere a múltiples seres.
 
@@ -172,7 +172,7 @@ Varios rasgos del texto hebreo apoyan esta lectura:
 - Génesis 6:1–4 introduce *benei ha-Elohim* — «hijos de los Elohim» — como una categoría específica de seres distinta de los humanos.
 - El texto diferencia *YHWH Elohim* (una figura concreta y nombrada dentro de la categoría plural) de *Elohim* a secas (la categoría) en pasajes diferentes.
 
-Para saber más, consulte la entrada wiki sobre [Elohim](/wiki/elohim/).
+Para saber más, consulte la entrada wiki sobre [Elohim](/es/wiki/elohim/).
 """
 
 [[extra.faq_groups.items]]
@@ -183,7 +183,7 @@ La era de Acuario, según la cronología de trabajo del corpus. La edad se abri�
 
 Acontecimientos específicos que el corpus identifica como marca de la apertura acuariana: el umbral nuclear de 1945, el restablecimiento de Israel en 1948, la publicación de *El molino de Hamlet* en 1969, el contacto con Vorilhon en 1973, la conclusión del Proyecto Genoma Humano en 2003 y la maduración en curso de la biología sintética y la astronomía de exoplanetas.
 
-Para el tratamiento completo, consulte el capítulo [Era de Acuario](/timeline/age-of-aquarius/).
+Para el tratamiento completo, consulte el capítulo [Era de Acuario](/es/timeline/age-of-aquarius/).
 """
 
 [[extra.faq_groups.items]]
@@ -194,18 +194,18 @@ El corpus no rechaza la evolución como descripción del cambio biológico a lo 
 
 En la lectura del corpus, las grandes transiciones morfológicas del registro fósil son fases de iteración de diseño llevadas a cabo por la civilización Elohim, con cambios evolutivos menores que ocurren dentro de cada fase de diseño mediante los mecanismos convencionales (mutación, selección, deriva). La aparente brusquedad de ciertas transiciones — la explosión cámbrica, la rápida emergencia de *Homo sapiens* a partir de formas homínidas previas — se lee como exactamente lo que produciría un programa de iteración de diseño.
 
-El proyecto acepta la datación geológica de la Tierra en aproximadamente 4500 millones de años y no es un marco de Tierra joven. El proyecto Elohim se data a partir de la llegada en la edad de Capricornio, hace aproximadamente 21 810 años, no a partir de la formación geológica del planeta.
+El proyecto acepta la datación geológica de la Tierra en aproximadamente 4500 millones de años y no es un marco de Tierra joven. El proyecto Elohim se data a partir de la llegada en la edad de Capricornio, hacia el 21 810 a. C., no a partir de la formación geológica del planeta.
 """
 
 [[extra.faq_groups.items]]
 slug = "position-on-jesus"
 question = "¿Cuál es la posición del proyecto sobre Jesús?"
 answer = """
-El corpus trata a Jesús como una figura histórica cuyo ministerio se corresponde con la transición precesional de Aries a Piscis. La fuente raeliana incluye afirmaciones específicas sobre la naturaleza y el origen de Jesús (como descendiente de un Eloha y una mujer humana, en continuidad con el patrón de *benei ha-Elohim* de Génesis 6); el corpus dialoga con estas afirmaciones como parte del contenido de la familia de fuentes.
+El corpus trata a Jesús como una figura histórica cuyo ministerio se corresponde con la transición precesional de Aries a Piscis. La fuente raeliana incluye afirmaciones específicas sobre la naturaleza y el origen de Jesús (como hijo de una mujer humana y de un Eloha — Yahvé, según la lectura del corpus — en continuidad con el patrón de *benei ha-Elohim* de Génesis 6); el corpus dialoga con estas afirmaciones como parte del contenido de la familia de fuentes.
 
 El corpus no trata a Jesús como una figura divina en el sentido cristiano convencional, ni como una invención ficticia de la Iglesia primitiva. La figura histórica se lee como un mensajero de la alianza Elohim de la era de Piscis, cuyas enseñanzas y vida fueron posteriormente mistificadas por la tradición institucional cristiana que surgió de su movimiento.
 
-Para un tratamiento más extenso, consulte los capítulos [Era de Aries](/timeline/age-of-aries/) y [Era de Piscis](/timeline/age-of-pisces/).
+Para un tratamiento más extenso, consulte los capítulos [Era de Aries](/es/timeline/age-of-aries/) y [Era de Piscis](/es/timeline/age-of-pisces/).
 """
 
 [[extra.faq_groups.items]]
@@ -246,7 +246,7 @@ El corpus se nutre de múltiples familias de fuentes, con una prioridad jerárqu
 
 **Secundarias**: La tradición de la mitología precesional, fundacionalmente *El molino de Hamlet* (1969) de Giorgio de Santillana y Hertha von Dechend.
 
-**Terciarias**: Las reinterpretaciones de Jean Sendy (1968–1972) del material bíblico como registros de actividad extraterrestre (*La Lune, clé de la Bible*; *Les Dieux nous sont nés*; *L'Ère du Verseau*).
+**Terciarias**: Las reinterpretaciones de Jean Sendy (1966–1970) del material bíblico como registros de actividad extraterrestre (*Les dieux nous sont nés*, 1966; *La lune, clé de la Bible*, 1968; *Ces dieux qui firent le ciel et la terre*, 1969; *L'Ère du Verseau*, 1970).
 
 **Comparativas**: Fuentes religiosas y mitológicas primarias bíblicas, mesopotámicas, védicas, mesoamericanas y otras, leídas en sus lenguas originales siempre que sea posible.
 
@@ -254,7 +254,7 @@ El corpus se nutre de múltiples familias de fuentes, con una prioridad jerárqu
 
 **Consideradas en sus propios términos**: La erudición contemporánea revisada por pares en estudios bíblicos, genética, astrobiología, arqueoastronomía y biología sintética.
 
-Para el panorama completo de fuentes, consulte las secciones [Biblioteca](/library/) y [Recursos](/resources/).
+Para el panorama completo de fuentes, consulte las secciones [Biblioteca](/es/library/) y [Sources](/es/sources/).
 """
 
 [[extra.faq_groups.items]]
@@ -273,15 +273,17 @@ Cuando el consenso académico diverge del marco del corpus, el corpus aborda la 
 
 [[extra.faq_groups.items]]
 slug = "claim-badges"
-question = '¿Qué significan «directa», «inferida» y «especulativa» en las insignias de la página?'
+question = '¿Qué significan «directa», «marco», «inferida» y «especulativa» en las insignias de la página?'
 answer = """
-Cada página del corpus lleva una pequeña insignia que indica el estatus epistémico de su afirmación principal:
+La mayoría de las páginas del corpus llevan una pequeña insignia que indica el estatus epistémico de la afirmación principal de la página. Hay cuatro valores:
 
-**Afirmación directa** — lo que el propio texto fuente afirma. *«Génesis 1:26 dice ‹hagamos humanidad a nuestra imagen›.»* Estas son las afirmaciones más fiables; la verificación es cuestión de consultar la fuente.
+**Afirmación directa** — lo que el propio texto fuente afirma, y lo que la erudición dominante no discute. *«Génesis 1:26 dice ‹hagamos humanidad a nuestra imagen›.»* Estas son las afirmaciones más fiables; la verificación es cuestión de consultar la fuente.
 
-**Afirmación inferida** — lo que la erudición concluye razonablemente a partir de la fuente. *«La forma verbal plural indica múltiples agentes.»* Estas afirmaciones implican un trabajo interpretativo, pero se mantienen próximas a la evidencia.
+**Afirmación de marco** — una premisa fundacional de la lectura de Wheel of Heaven, explícita en el canon raeliano pero no respaldada por la erudición dominante. *«El plural Elohim del Génesis es la pequeña civilización que describe la fuente raeliana.»* Estas afirmaciones se enuncian directamente porque el canon las enuncia directamente; la insignia señala que el consenso académico más amplio no las comparte.
 
-**Afirmación especulativa** — lo que el proyecto propone como síntesis interpretativa. *«El plural Elohim del Génesis puede identificarse con la pequeña civilización que describe la fuente raeliana.»* Estas afirmaciones son la contribución distintiva del proyecto y son las más susceptibles de revisión.
+**Afirmación inferida** — una lectura razonable de una fuente, no enunciada literalmente pero coherente con ella. *«La forma verbal plural indica múltiples agentes.»* Estas afirmaciones implican un trabajo interpretativo, pero se mantienen próximas a la evidencia.
+
+**Afirmación especulativa** — una síntesis interpretativa que va más allá de lo que enuncia cualquier fuente por sí sola. *«Los relatos de guerra celeste de tradiciones independientes convergen en un único acontecimiento recordado.»* Estas afirmaciones son la contribución distintiva del proyecto y son las más susceptibles de revisión.
 
 Las insignias permiten al lector calibrar la confianza al nivel de afirmaciones individuales. Una afirmación especulativa no es errónea por ser especulativa; está *etiquetada* como especulativa para que el lector sepa ponderarla como tal.
 """
@@ -292,7 +294,7 @@ question = "¿Cómo se gestionan las traducciones?"
 answer = """
 El corpus lee próximo a las lenguas fuente cuando la interpretación depende de ello. Para el material bíblico hebreo, el corpus utiliza el texto masorético, nombra el vocabulario hebreo específico en transliteración y discute las opciones de traducción cuando afectan materialmente a la interpretación. Para el material mesopotámico, el corpus se apoya en las ediciones y traducciones académicas estándar (Foster, George, Lambert, otros). Para otras familias de fuentes, el corpus utiliza las mejores ediciones académicas disponibles y es explícito cuando lo hace.
 
-El propio sitio se publica en nueve idiomas, con el inglés como fuente para las traducciones. Cuando las decisiones de traducción afectan materialmente a la interpretación, el original en inglés tiene precedencia.
+El propio sitio se publica en diez idiomas, con el inglés como fuente para las traducciones. Cuando las decisiones de traducción afectan materialmente a la interpretación, el original en inglés tiene precedencia.
 """
 
 # ---------------------------------------------------------------------------
@@ -309,9 +311,9 @@ question = "¿Cómo empiezo a leer?"
 answer = """
 Tres opciones, en profundidad creciente:
 
-1. La [orientación de lectura](/read/) — una breve panorámica del proyecto, con tres itinerarios de lectura.
-2. La [Wiki](/wiki/) — empiece por los términos clave ([Elohim](/wiki/elohim/), [Precesión](/wiki/precession/), [Edad del Mundo](/wiki/world-age/)) y siga los enlaces internos.
-3. La [Línea de tiempo](/timeline/) — el libro de formato largo, comenzando por el [Preámbulo](/timeline/preamble/) y recorriendo las doce edades.
+1. La [orientación de lectura](/es/read/) — una breve panorámica del proyecto, con tres itinerarios de lectura.
+2. La [Wiki](/es/wiki/) — empiece por los términos clave ([Elohim](/es/wiki/elohim/), [Precesión](/es/wiki/precession/), [Edad del Mundo](/es/wiki/world-age/)) y siga los enlaces internos.
+3. La [Línea de tiempo](/es/timeline/) — el libro de formato largo, comenzando por el [Preámbulo](/es/timeline/preamble/) y recorriendo las doce edades.
 
 La Línea de tiempo es el compromiso más sustancial, pero también el más gratificante.
 """
@@ -320,15 +322,15 @@ La Línea de tiempo es el compromiso más sustancial, pero también el más grat
 slug = "where-to-read-sources"
 question = "¿Dónde puedo leer los textos fuente?"
 answer = """
-La sección [Biblioteca](/library/) aloja los textos fuente primarios de los que se nutre el corpus, con comentario y contexto. Esto incluye:
+La sección [Biblioteca](/es/library/) aloja los textos fuente primarios de los que se nutre el corpus, con comentario y contexto. Esto incluye:
 
-- *El libro que dice la verdad* (Vorilhon, 1974) — el texto raeliano fundacional.
-- Génesis (el texto hebreo y traducciones estándar al inglés).
+- *El libro que dice la verdad* (Vorilhon, 1974) — el texto raeliano fundacional — junto con sus continuaciones *Extraterrestrials Took Me to Their Planet* y *Let's Welcome the Extraterrestrials*.
+- Génesis (el texto hebreo vocalizado con la traducción propia del proyecto en paralelo, más una edición estándar en inglés).
 - El Libro de Henoc.
 - El Enuma Elish.
 - Otras fuentes primarias a medida que el corpus se nutre de ellas.
 
-Para material fuente externo del que se nutre el corpus pero que no aloja, consulte la sección [Recursos](/resources/).
+Para material fuente externo del que se nutre el corpus pero que no aloja, consulte la sección [Sources](/es/sources/).
 """
 
 [[extra.faq_groups.items]]
@@ -358,7 +360,7 @@ answer = """
 Varias formas:
 
 - **Debate y preguntas** — las [Discusiones de GitHub](https://github.com/orgs/wheelofheaven/discussions) son el foro público principal del proyecto.
-- **Traducción** — el sitio se publica en nueve idiomas y recibe con agrado ayuda adicional con traducciones. Consulte [Contribuir](/contributing/) y la [guía de Traducciones](https://docs.wheelofheaven.world/contributing/content/translations/) para el flujo de trabajo y las convenciones por idioma.
+- **Traducción** — el sitio se publica en diez idiomas y recibe con agrado ayuda adicional con traducciones. Consulte [Contribuir](/es/contributing/) y la [guía de Traducciones](https://docs.wheelofheaven.world/contributing/content/translations/) para el flujo de trabajo y las convenciones por idioma.
 - **Correcciones de contenido y sugerencias** — se pueden abrir incidencias en el [repositorio de GitHub](https://github.com/wheelofheaven). Para saber cómo escribir entradas nuevas (wiki, Artículos, Despachos de Sala de Prensa), consulte la [documentación para desarrolladores](https://docs.wheelofheaven.world/contributing/content/overview/).
 - **Código e infraestructura** — el sitio es de código abierto y acepta contribuciones de desarrollo. La [guía rápida](https://docs.wheelofheaven.world/getting-started/quickstart/) en docs.wheelofheaven.world le lleva a una vista previa local en cinco minutos.
 - **Apoyo financiero** — a través de [Open Collective](https://opencollective.com/wheelofheaven). El proyecto se financia actualmente por completo de su propio bolsillo; la ayuda es bienvenida.
@@ -391,7 +393,7 @@ Las objeciones sustantivas son bienvenidas. La postura del proyecto como hipóte
 slug = "languages"
 question = "¿En qué idiomas está disponible el sitio?"
 answer = """
-Nueve: inglés (principal), Deutsch, Français, Español, Русский, 日本語, 简体中文, 繁體中文, 한국어. Las traducciones se derivan de la fuente en inglés. Los idiomas adicionales son bienvenidos; consulte [Contribuir](/contributing/).
+Diez: inglés (principal), Deutsch, Français, Español, Русский, 日本語, 简体中文, 繁體中文, 한국어, עברית. Las traducciones se derivan de la fuente en inglés. Los idiomas adicionales son bienvenidos; consulte [Contribuir](/es/contributing/).
 """
 
 # ---------------------------------------------------------------------------
@@ -419,14 +421,14 @@ La autora es raeliana, pero Wheel of Heaven no es una publicación del movimient
 
 El proyecto tampoco está en oposición alguna al movimiento raeliano. El corpus toma el material fuente raeliano como su lente principal y lo trata con compromiso serio. Cuando el corpus va más allá de la articulación raeliana estándar, lo hace con razones explícitas, no como crítica al trabajo propio del movimiento.
 
-Para más información sobre el movimiento institucional, la entrada wiki sobre [Raelismo](/wiki/raelism/) proporciona contexto.
+Para más información sobre el movimiento institucional, la entrada wiki sobre [Raelismo](/es/wiki/raelism/) proporciona contexto.
 """
 
 [[extra.faq_groups.items]]
 slug = "contributor-expectations"
 question = "¿Qué se espera de quienes contribuyen?"
 answer = """
-Se espera que quienes contribuyen lo hagan de buena fe, lean el [Código de Conducta](/code-of-conduct/) y sigan las [Directrices de contribución](/contributing/). El proyecto da la bienvenida al compromiso sustantivo — incluido el desacuerdo — y pide que quienes contribuyen mantengan los estándares editoriales por los que opera el corpus: conscientes de las fuentes, claramente escritos, epistémicamente cuidadosos.
+Se espera que quienes contribuyen lo hagan de buena fe, lean el [Código de Conducta](/es/code-of-conduct/) y sigan las [Directrices de contribución](/es/contributing/). El proyecto da la bienvenida al compromiso sustantivo — incluido el desacuerdo — y pide que quienes contribuyen mantengan los estándares editoriales por los que opera el corpus: conscientes de las fuentes, claramente escritos, epistémicamente cuidadosos.
 
 No se exige a quienes contribuyen estar de acuerdo con el marco del proyecto. El compromiso crítico es bienvenido.
 """

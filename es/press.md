@@ -39,9 +39,9 @@ para tomar el texto sin el marcado que lo rodea.
 <div class="press-boilerplate">
   <header class="press-boilerplate__head">
     <h3>Párrafo breve <span class="press-boilerplate__meta">~90 palabras</span></h3>
-    <button class="press-boilerplate__copy" type="button" data-copy="Wheel of Heaven lee los textos religiosos como un registro parcialmente distorsionado de un acontecimiento real — la ingeniería de la vida terrestre por una civilización humana avanzada llamada los Elohim — y sigue ese acontecimiento a lo largo de las doce eras precesionales del Gran Año. La lectura se sostiene como una hipótesis para verificar, no como una doctrina para creer. Cada página lleva un pequeño distintivo que etiqueta su afirmación principal como directa, inferida o especulativa. La obra es gratuita, consciente de sus fuentes y abierta a revisión cuando la evidencia cambia.">Copiar</button>
+    <button class="press-boilerplate__copy" type="button" data-copy="Wheel of Heaven lee los textos religiosos como un registro parcialmente distorsionado de un acontecimiento real — la ingeniería de la vida terrestre por una civilización humana avanzada llamada los Elohim — y sigue ese acontecimiento a lo largo de las doce eras precesionales del Gran Año. La lectura se sostiene como una hipótesis para verificar, no como una doctrina para creer. Cada página lleva un pequeño distintivo que etiqueta su afirmación principal como directa, marco, inferida o especulativa. La obra es gratuita, consciente de sus fuentes y abierta a revisión cuando la evidencia cambia.">Copiar</button>
   </header>
-  <p>Wheel of Heaven lee los textos religiosos como un registro parcialmente distorsionado de un acontecimiento real — la ingeniería de la vida terrestre por una civilización humana avanzada llamada los Elohim — y sigue ese acontecimiento a lo largo de las doce eras precesionales del Gran Año. La lectura se sostiene como una hipótesis para verificar, no como una doctrina para creer. Cada página lleva un pequeño distintivo que etiqueta su afirmación principal como directa, inferida o especulativa. La obra es gratuita, consciente de sus fuentes y abierta a revisión cuando la evidencia cambia.</p>
+  <p>Wheel of Heaven lee los textos religiosos como un registro parcialmente distorsionado de un acontecimiento real — la ingeniería de la vida terrestre por una civilización humana avanzada llamada los Elohim — y sigue ese acontecimiento a lo largo de las doce eras precesionales del Gran Año. La lectura se sostiene como una hipótesis para verificar, no como una doctrina para creer. Cada página lleva un pequeño distintivo que etiqueta su afirmación principal como directa, marco, inferida o especulativa. La obra es gratuita, consciente de sus fuentes y abierta a revisión cuando la evidencia cambia.</p>
 </div>
 
 <div class="press-boilerplate">
@@ -51,11 +51,11 @@ para tomar el texto sin el marcado que lo rodea.
 
 La lectura recorre doce eras del ciclo precesional, desde el comienzo del proyecto hace veintidós mil años hasta la era actual de revelación y hacia el largo futuro que abre el próximo Gran Año.
 
-El sitio es gratuito, consciente de sus fuentes y construido para que la obra pueda ser verificada. Cada página lleva un distintivo epistémico — directo, inferido o especulativo — para que el lector pueda saber qué tipo de afirmación está leyendo. El corpus se publica en nueve idiomas bajo licencia CC0-1.0, con el código fuente subyacente abierto en github.com/wheelofheaven. Cuando la evidencia cambia, la lectura cambia.">Copiar</button>
+El sitio es gratuito, consciente de sus fuentes y construido para que la obra pueda ser verificada. Cada página lleva un distintivo epistémico — directo, inferido o especulativo — para que el lector pueda saber qué tipo de afirmación está leyendo. El corpus se publica en diez idiomas bajo licencia CC0-1.0, con el código fuente subyacente abierto en github.com/wheelofheaven. Cuando la evidencia cambia, la lectura cambia.">Copiar</button>
   </header>
   <p>Wheel of Heaven es una lectura abierta y multilingüe de las tradiciones de creación del mundo antiguo — raeliana, bíblica, mesopotámica y otras — a través de una única hipótesis de trabajo: que los seres llamados Elohim fueron una pequeña civilización humana avanzada que vino aquí, diseñó la vida en la Tierra y dejó un registro en los textos religiosos.</p>
   <p>La lectura recorre doce eras del ciclo precesional, desde el comienzo del proyecto hace veintidós mil años hasta la era actual de revelación y hacia el largo futuro que abre el próximo Gran Año.</p>
-  <p>El sitio es gratuito, consciente de sus fuentes y construido para que la obra pueda ser verificada. Cada página lleva un distintivo epistémico — directo, inferido o especulativo — para que el lector pueda saber qué tipo de afirmación está leyendo. El corpus se publica en nueve idiomas bajo licencia CC0-1.0, con el código fuente subyacente abierto en <a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a>. Cuando la evidencia cambia, la lectura cambia.</p>
+  <p>El sitio es gratuito, consciente de sus fuentes y construido para que la obra pueda ser verificada. Cada página lleva un distintivo epistémico — directo, inferido o especulativo — para que el lector pueda saber qué tipo de afirmación está leyendo. El corpus se publica en diez idiomas bajo licencia CC0-1.0, con el código fuente subyacente abierto en <a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a>. Cuando la evidencia cambia, la lectura cambia.</p>
 </div>
 
 </section>
@@ -71,7 +71,7 @@ El sitio es gratuito, consciente de sus fuentes y construido para que la obra pu
   <dt>Categoría</dt><dd>Religión comparada · Investigación de astronautas antiguos · Canon abierto</dd>
   <dt>Fundado</dt><dd>2023 (apertura pública); el trabajo subyacente abarca aproximadamente una década</dd>
   <dt>Estado</dt><dd>Activo · ~1500 páginas publicadas · añadiendo páginas semanalmente</dd>
-  <dt>Idiomas</dt><dd>9 — inglés, alemán, francés, español, ruso, japonés, chino (simplificado), chino (tradicional), coreano</dd>
+  <dt>Idiomas</dt><dd>10 — inglés, alemán, francés, español, ruso, japonés, chino (simplificado), chino (tradicional), coreano, hebreo</dd>
   <dt>Licencia</dt><dd>Contenido <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0-1.0</a> · código <a href="https://opensource.org/licenses/MIT">MIT</a></dd>
   <dt>Sitio web</dt><dd><a href="https://www.wheelofheaven.world/">wheelofheaven.world</a></dd>
   <dt>Código fuente</dt><dd><a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a></dd>
@@ -280,7 +280,7 @@ son de código abierto y de uso libre para cualquier propósito.
 ## Tarjetas sociales
 
 Cada página del sitio tiene una tarjeta generada de 1200×630 para compartir
-en los 9 idiomas. Seis muestras a través de las secciones:
+en los 10 idiomas. Seis muestras a través de las secciones:
 
 <div class="press-og-grid">
 <img src="https://assets.wheelofheaven.world/images/og/en/wiki/elohim.jpg" alt="Wiki: Elohim" loading="lazy">

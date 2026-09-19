@@ -40,7 +40,7 @@ summary = "נכסי מותג, טקסט מוכן לשימוש על הפרויקט
     <h3>פסקה קצרה <span class="press-boilerplate__meta">‎~90 מילים</span></h3>
     <button class="press-boilerplate__copy" type="button" data-copy="Wheel of Heaven reads the religious texts as a partly-distorted record of a real event — the engineering of terrestrial life by an advanced human civilization called the Elohim — and traces that event across the twelve precessional ages of the Great Year. The reading is held as a hypothesis to be checked, not a doctrine to be believed. Every page carries a small badge labeling its main claim as direct, inferred, or speculative. The work is free, source-aware, and open to revision where the evidence shifts.">העתק</button>
   </header>
-  <p>Wheel of Heaven קוראת את הטקסטים הדתיים כתיעוד מעוות חלקית של אירוע אמיתי — ההנדסה של החיים הארציים בידי ציוויליזציה אנושית מתקדמת הקרויה אלוהים — ועוקבת אחר האירוע הזה לאורך שתים־עשרה תקופות הנסיגה של השנה הגדולה. הקריאה מוחזקת כהשערה הנתונה לבדיקה, לא כדוקטרינה שיש להאמין בה. כל עמוד נושא תג קטן שמסמן את הטענה המרכזית שלו כישירה, נגזרת או ספקולטיבית. העבודה חופשית, מודעת למקורות, ופתוחה לתיקון במקומות שבהם הראיות משתנות.</p>
+  <p>Wheel of Heaven קוראת את הטקסטים הדתיים כתיעוד מעוות חלקית של אירוע אמיתי — ההנדסה של החיים הארציים בידי ציוויליזציה אנושית מתקדמת הקרויה אלוהים — ועוקבת אחר האירוע הזה לאורך שתים־עשרה תקופות הנסיגה של השנה הגדולה. הקריאה מוחזקת כהשערה הנתונה לבדיקה, לא כדוקטרינה שיש להאמין בה. כל ערך נושא תג קטן שמסמן את הטענה המרכזית שלו כישירה, מסגרת, נגזרת או ספקולטיבית. העבודה חופשית, מודעת למקורות, ופתוחה לתיקון במקומות שבהם הראיות משתנות.</p>
 </div>
 
 <div class="press-boilerplate">
@@ -50,11 +50,11 @@ summary = "נכסי מותג, טקסט מוכן לשימוש על הפרויקט
 
 The reading runs across twelve ages of the precessional cycle, from the project's beginning twenty-two thousand years ago to the present age of disclosure and into the long future the next Great Year is opening.
 
-The site is free, source-aware, and built so the work can be checked. Every page carries an epistemic badge — direct, inferred, or speculative — so a reader can tell what kind of claim they're looking at. The corpus is published in nine languages under a CC0-1.0 license, with the underlying source code open at github.com/wheelofheaven. Where the evidence shifts, the reading shifts.">העתק</button>
+The site is free, source-aware, and built so the work can be checked. Every entry carries an epistemic badge — direct, framework, inferred, or speculative — so a reader can tell what kind of claim they're looking at. The corpus is published in ten languages under a CC0-1.0 license, with the underlying source code open at github.com/wheelofheaven. Where the evidence shifts, the reading shifts.">העתק</button>
   </header>
   <p>Wheel of Heaven היא קריאה פתוחה ורב־לשונית של מסורות הבריאה של העולם העתיק — ראליאניות, מקראיות, מסופוטמיות ואחרות — דרך השערת עבודה יחידה: שהיצורים הקרויים אלוהים היו ציוויליזציה אנושית קטנה ומתקדמת שהגיעה לכאן, תכננה את החיים על פני כדור הארץ והותירה תיעוד בטקסטים הדתיים.</p>
   <p>הקריאה משתרעת על פני שתים־עשרה תקופות של מחזור הנסיגה, מראשית הפרויקט לפני עשרים ושניים אלף שנה ועד תקופת הגילוי הנוכחית והלאה אל העתיד הארוך שהשנה הגדולה הבאה פותחת.</p>
-  <p>האתר חופשי, מודע למקורות, ובנוי כך שניתן יהיה לבדוק את העבודה. כל עמוד נושא תג אפיסטמי — ישיר, נגזר או ספקולטיבי — כך שהקורא יכול לדעת באיזה סוג של טענה מדובר. הגוף נפרסם בתשע שפות תחת רישיון CC0-1.0, וקוד המקור פתוח ב־<a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a>. במקום שבו הראיות משתנות, הקריאה משתנה.</p>
+  <p>האתר חופשי, מודע למקורות, ובנוי כך שניתן יהיה לבדוק את העבודה. כל ערך נושא תג אפיסטמי — ישיר, מסגרת, נגזר או ספקולטיבי — כך שהקורא יכול לדעת באיזה סוג של טענה מדובר. הגוף נפרסם בעשר שפות תחת רישיון CC0-1.0, וקוד המקור פתוח ב־<a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a>. במקום שבו הראיות משתנות, הקריאה משתנה.</p>
 </div>
 
 </section>
@@ -70,7 +70,7 @@ The site is free, source-aware, and built so the work can be checked. Every page
   <dt>קטגוריה</dt><dd>דת השוואתית · מחקר אסטרונאוטים קדומים · קאנון פתוח</dd>
   <dt>נוסד</dt><dd>2023 (פתיחה ציבורית); העבודה שבבסיסו משתרעת על פני כעשור</dd>
   <dt>סטטוס</dt><dd>פעיל · ‎~1,500 עמודים מפורסמים · מוסיף עמודים מדי שבוע</dd>
-  <dt>שפות</dt><dd>9 — אנגלית, גרמנית, צרפתית, ספרדית, רוסית, יפנית, סינית (מפושטת), סינית (מסורתית), קוריאנית</dd>
+  <dt>שפות</dt><dd>10 — אנגלית, גרמנית, צרפתית, ספרדית, רוסית, יפנית, סינית (מפושטת), סינית (מסורתית), קוריאנית, עברית</dd>
   <dt>רישיון</dt><dd>תוכן <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0-1.0</a> · קוד <a href="https://opensource.org/licenses/MIT">MIT</a></dd>
   <dt>אתר</dt><dd><a href="https://www.wheelofheaven.world/">wheelofheaven.world</a></dd>
   <dt>קוד מקור</dt><dd><a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a></dd>
@@ -274,7 +274,7 @@ The site is free, source-aware, and built so the work can be checked. Every page
 
 ## כרטיסי שיתוף חברתיים
 
-לכל עמוד באתר יש כרטיס שיתוף ‎1200×630 שנוצר אוטומטית בכל 9 השפות. שש דוגמאות מקטעים שונים:
+לכל עמוד באתר יש כרטיס שיתוף ‎1200×630 שנוצר אוטומטית בכל 10 השפות. שש דוגמאות מקטעים שונים:
 
 <div class="press-og-grid">
 <img src="https://assets.wheelofheaven.world/images/og/en/wiki/elohim.jpg" alt="ויקי: אלוהים" loading="lazy">

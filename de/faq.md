@@ -7,7 +7,7 @@ template = "faq.html"
 claim_type = "direct"
 editorial_pass = "2026-05"
 summary = "Substanzielle Antworten auf die Fragen, mit denen Leserinnen und Leser am häufigsten ankommen. Wird Ihre Frage hier nicht beantwortet, sind die GitHub Discussions der richtige Ort, um sie zu stellen — und eine gute Frage landet vielleicht am Ende auf dieser Seite."
-last_updated = "2026-05-10"
+last_updated = "2026-09-19"
 
 # ---------------------------------------------------------------------------
 # About the project
@@ -63,7 +63,7 @@ question = "Ist das peer-reviewte Forschung?"
 answer = """
 Nein, und das Projekt erhebt nicht diesen Anspruch. Wheel of Heaven ist ein essayistisches Langzeitprojekt einer unabhängigen Autorin, keine akademische Publikation. Wo das Projekt sich mit aktueller Wissenschaft auseinandersetzt — in Bibelwissenschaft, Genetik, Astrobiologie, Archäoastronomie und anderen Feldern — tut es dies als ernsthafte Leserin der veröffentlichten Literatur und nimmt die Wissenschaft zu ihren eigenen Bedingungen.
 
-Die epistemische Disziplin des Projekts ist intern statt institutionell: Jede Seite kennzeichnet ihre Hauptaussage als **direkt** (was eine Quelle behauptet), **gefolgert** (was die Wissenschaft vernünftigerweise schließt) oder **spekulativ** (was das Projekt als interpretative Synthese vorschlägt). Leserinnen und Leser sind eingeladen, die konkreten Aussagen des Projekts gegen die Alternativen abzuwägen.
+Die epistemische Disziplin des Projekts ist intern statt institutionell: Jeder Wiki-Eintrag, jeder Artikel und jedes Bibliotheksbuch — und die meisten anderen Seiten — kennzeichnet seine Hauptaussage als **direkt** (was eine Quelle behauptet und die etablierte Wissenschaft nicht bestreitet), **Rahmen** (eine Prämisse des raëlianischen Kanons, die die etablierte Wissenschaft nicht teilt), **gefolgert** (eine vertretbare Lesart einer Quelle) oder **spekulativ** (was das Projekt als interpretative Synthese vorschlägt). Leserinnen und Leser sind eingeladen, die konkreten Aussagen des Projekts gegen die Alternativen abzuwägen.
 """
 
 [[extra.faq_groups.items]]
@@ -128,7 +128,7 @@ question = "Was ist der Präzessionszyklus, in einfachen Worten?"
 answer = """
 Die Erdachse ist um etwa 23,5° geneigt, und sie zeigt nicht in eine feste Richtung im Raum. Wie ein Kreisel zeichnet die Achse einen langsamen Kreis am Himmel und vollendet einen vollständigen Umlauf etwa alle 25.920 Jahre. Diese Bewegung heißt *Präzession der Tagundnachtgleichen*.
 
-Die praktische Konsequenz ist, dass das Sternbild, das zur Frühlings-Tagundnachtgleiche hinter der Sonne aufgeht, langsam westwärts durch den Tierkreis wandert. Vor zweitausend Jahren war es der Widder; heute sind es die Fische; bald wird es der Wassermann sein. Der Zyklus wiederholt sich alle ~26.000 Jahre.
+Die praktische Konsequenz ist, dass das Sternbild, das zur Frühlings-Tagundnachtgleiche hinter der Sonne aufgeht, langsam westwärts durch den Tierkreis wandert. Bis etwa 210 v. Chr. war es der Widder; die folgenden zwei Jahrtausende waren es die Fische; seit 1950 ist es, nach der Chronologie des Korpus, der Wassermann. Der Zyklus wiederholt sich alle ~26.000 Jahre.
 
 Geteilt durch die zwölf Sternbilder des Tierkreises ergibt dieser Zyklus *Präzessionszeitalter* von je etwa 2.160 Jahren. Das Korpus nutzt diese Zeitalter als seinen chronologischen Rahmen. Mehr dazu im Wiki-Eintrag [Präzession](/de/wiki/precession/).
 """
@@ -161,7 +161,7 @@ Die Grenzen zwischen den Zeitaltern werden durch Gleichteilung des Tierkreises g
 slug = "what-does-elohim-mean"
 question = 'Was bedeutet „Elohim", und warum liest das Projekt das Wort als Plural?'
 answer = """
-*Elohim* (אֱלֹהִים) ist das hebräische Wort, das herkömmliche Bibeln als „Gott" übersetzen. Grammatikalisch ist es ein Plural-Nomen — die Endung *-im* ist das standardmäßige hebräische Pluralzeichen, dasselbe, das auch andere maskuline Substantive pluralisiert (*Cherub* / *Cherubim*, *Nephil* / *Nephilim*).
+*Elohim* (אֱלֹהִים) ist das hebräische Wort, das herkömmliche Bibeln als „Gott" übersetzen. Grammatikalisch ist es ein Plural-Nomen — die Endung *-im* ist das standardmäßige hebräische Pluralzeichen, dasselbe, das auch andere maskuline Substantive pluralisiert (*Cherub* / *Cherubim*, *Seraph* / *Seraphim*).
 
 Die herkömmliche christliche und jüdische Theologie liest den Plural entweder als „pluralis majestatis" (eine einzelne Gottheit, die zur Erhöhung im Plural angesprochen wird, ähnlich dem königlichen „Wir") oder als Platzhalter für die Dreifaltigkeit. Das Korpus liest ihn im Wortsinn: Der Plural *Elohim* bezieht sich auf mehrere Wesen.
 
@@ -194,14 +194,14 @@ Das Korpus weist die Evolution als Beschreibung biologischer Veränderung über 
 
 Nach der Lesart des Korpus sind die großen morphologischen Übergänge im Fossilbestand Phasen einer Design-Iteration durch die Elohim-Zivilisation, wobei kleinere evolutionäre Veränderungen innerhalb jeder Design-Phase durch die konventionellen Mechanismen (Mutation, Selektion, Drift) erfolgen. Die scheinbare Plötzlichkeit bestimmter Übergänge — die Kambrische Explosion, das rasche Auftreten von *Homo sapiens* aus früheren Hominiden-Formen — wird als genau das gelesen, was ein Design-Iterations-Programm erzeugen würde.
 
-Das Projekt akzeptiert die geologische Datierung der Erde auf etwa 4,5 Milliarden Jahre und ist kein Jung-Erde-Rahmen. Das Elohim-Projekt wird auf die Ankunft im Zeitalter des Steinbocks vor etwa 21.810 Jahren datiert, nicht auf die geologische Entstehung des Planeten.
+Das Projekt akzeptiert die geologische Datierung der Erde auf etwa 4,5 Milliarden Jahre und ist kein Jung-Erde-Rahmen. Das Elohim-Projekt wird auf die Ankunft im Zeitalter des Steinbocks um etwa 21.810 v. Chr. datiert, nicht auf die geologische Entstehung des Planeten.
 """
 
 [[extra.faq_groups.items]]
 slug = "position-on-jesus"
 question = "Welche Position vertritt das Projekt zu Jesus?"
 answer = """
-Das Korpus behandelt Jesus als historische Figur, deren Wirken dem präzessionalen Übergang vom Widder zu den Fischen entspricht. Die raëlianische Quelle enthält spezifische Aussagen zur Natur und Herkunft Jesu (als Nachkomme eines Eloha und einer menschlichen Frau, in Kontinuität mit dem Muster der *benei ha-Elohim* aus Genesis 6); das Korpus setzt sich mit diesen Aussagen als Teil des Quellenmaterials auseinander.
+Das Korpus behandelt Jesus als historische Figur, deren Wirken dem präzessionalen Übergang vom Widder zu den Fischen entspricht. Die raëlianische Quelle enthält spezifische Aussagen zur Natur und Herkunft Jesu (als Sohn einer menschlichen Frau und eines Eloha — nach der Lesart des Korpus: Jahwe —, in Kontinuität mit dem Muster der *benei ha-Elohim* aus Genesis 6); das Korpus setzt sich mit diesen Aussagen als Teil des Quellenmaterials auseinander.
 
 Das Korpus behandelt Jesus weder als göttliche Figur im herkömmlichen christlichen Sinn noch als fiktive Erfindung der frühen Kirche. Die historische Figur wird als ein Boten der Elohim-Allianz im Fische-Zeitalter gelesen, dessen Lehre und Leben anschließend von der institutionellen christlichen Tradition mystifiziert wurden, die aus seiner Bewegung hervorging.
 
@@ -246,7 +246,7 @@ Das Korpus stützt sich auf mehrere Quellenfamilien, mit ausdrücklicher hierarc
 
 **Sekundär**: Die präzessions-mythologische Tradition, grundlegend Giorgio de Santillanas und Hertha von Dechends *Hamlets Mühle* (1969).
 
-**Tertiär**: Jean Sendys Neuinterpretationen biblischen Materials als Aufzeichnungen außerirdischer Aktivität aus den Jahren 1968–1972 (*La Lune, clé de la Bible*; *Les Dieux nous sont nés*; *L'Ère du Verseau*).
+**Tertiär**: Jean Sendys Neuinterpretationen biblischen Materials als Aufzeichnungen außerirdischer Aktivität aus den Jahren 1966–1970 (*Les dieux nous sont nés*, 1966; *La lune, clé de la Bible*, 1968; *Ces dieux qui firent le ciel et la terre*, 1969; *L'Ère du Verseau*, 1970).
 
 **Vergleichend**: Biblische, mesopotamische, vedische, mesoamerikanische und andere primäre religiöse und mythologische Quellen, wenn möglich in ihren Originalsprachen gelesen.
 
@@ -254,7 +254,7 @@ Das Korpus stützt sich auf mehrere Quellenfamilien, mit ausdrücklicher hierarc
 
 **Zu ihren eigenen Bedingungen behandelt**: Zeitgenössische peer-reviewte Forschung in Bibelwissenschaft, Genetik, Astrobiologie, Archäoastronomie und Synthetischer Biologie.
 
-Für die vollständige Quellenlandschaft siehe die Abschnitte [Bibliothek](/de/library/) und [Ressourcen](/de/resources/).
+Für die vollständige Quellenlandschaft siehe die Abschnitte [Bibliothek](/de/library/) und [Sources](/de/sources/).
 """
 
 [[extra.faq_groups.items]]
@@ -273,15 +273,17 @@ Wo der wissenschaftliche Konsens vom Rahmen des Korpus abweicht, setzt sich das 
 
 [[extra.faq_groups.items]]
 slug = "claim-badges"
-question = 'Was bedeuten „direkt", „gefolgert" und „spekulativ" auf den Seiten-Badges?'
+question = 'Was bedeuten „direkt", „Rahmen", „gefolgert" und „spekulativ" auf den Seiten-Badges?'
 answer = """
-Jede Seite des Korpus trägt ein kleines Abzeichen, das den epistemischen Status ihrer Hauptaussage anzeigt:
+Die meisten Seiten des Korpus tragen ein kleines Abzeichen, das den epistemischen Status der Hauptaussage der Seite anzeigt. Es gibt vier Werte:
 
-**Direkte Aussage** — was der Quelltext selbst behauptet. *„Genesis 1,26 lautet: ‚lasst uns Menschen machen, ein Bild, das uns gleich sei.'"* Dies sind die verlässlichsten Aussagen; ihre Verifikation ist eine Frage der Quellenprüfung.
+**Direkte Aussage** — was der Quelltext selbst behauptet und was die etablierte Wissenschaft nicht bestreitet. *„Genesis 1,26 lautet: ‚lasst uns Menschen machen, ein Bild, das uns gleich sei.'"* Dies sind die verlässlichsten Aussagen; ihre Verifikation ist eine Frage der Quellenprüfung.
 
-**Gefolgerte Aussage** — was die Wissenschaft vernünftigerweise aus der Quelle schließt. *„Die Plural-Verbform deutet auf mehrere Handelnde hin."* Diese Aussagen beinhalten interpretative Arbeit, bleiben aber nah am Beleg.
+**Rahmenaussage** — eine Grundprämisse der Wheel-of-Heaven-Lesart, die im raëlianischen Kanon ausdrücklich formuliert ist, aber von der etablierten Wissenschaft nicht geteilt wird. *„Die plural gefassten Elohim der Genesis sind die kleine Zivilisation, die die raëlianische Quelle beschreibt."* Diese Aussagen werden direkt formuliert, weil der Kanon sie direkt formuliert; das Abzeichen markiert, dass der breitere akademische Konsens sie nicht teilt.
 
-**Spekulative Aussage** — was das Projekt als interpretative Synthese vorschlägt. *„Die plural gefassten Elohim der Genesis lassen sich mit der kleinen Zivilisation identifizieren, die die raëlianische Quelle beschreibt."* Diese Aussagen sind der eigenständige Beitrag des Projekts und am ehesten revisionsbedürftig.
+**Gefolgerte Aussage** — eine vertretbare Lesart einer Quelle, die dort nicht wörtlich steht, aber mit ihr vereinbar ist. *„Die Plural-Verbform deutet auf mehrere Handelnde hin."* Diese Aussagen beinhalten interpretative Arbeit, bleiben aber nah am Beleg.
+
+**Spekulative Aussage** — interpretative Synthese, die über das hinausgeht, was eine einzelne Quelle sagt. *„Die Himmelskriegs-Erzählungen unabhängiger Traditionen laufen auf ein einziges erinnertes Ereignis zusammen."* Diese Aussagen sind der eigenständige Beitrag des Projekts und am ehesten revisionsbedürftig.
 
 Die Badges erlauben es den Leserinnen, ihr Vertrauen auf der Ebene einzelner Aussagen zu kalibrieren. Eine spekulative Aussage ist nicht falsch, weil sie spekulativ ist; sie ist als spekulativ *gekennzeichnet*, damit die Leserin weiß, wie sie zu gewichten ist.
 """
@@ -292,7 +294,7 @@ question = "Wie werden Übersetzungen gehandhabt?"
 answer = """
 Das Korpus liest dort nahe an den Quellsprachen, wo die Interpretation davon abhängt. Für hebräisches biblisches Material verwendet das Korpus den masoretischen Text, benennt spezifisches hebräisches Vokabular in Transliteration und erörtert Übersetzungsentscheidungen, wo sie die Interpretation materiell beeinflussen. Für mesopotamisches Material stützt sich das Korpus auf die wissenschaftlichen Standardausgaben und -übersetzungen (Foster, George, Lambert u. a.). Für andere Quellenfamilien verwendet das Korpus die jeweils beste verfügbare wissenschaftliche Ausgabe und benennt dies ausdrücklich.
 
-Die Seite selbst erscheint in neun Sprachen, mit Englisch als Quelle für die Übersetzungen. Wo Übersetzungsentscheidungen die Interpretation materiell beeinflussen, hat das englische Original Vorrang.
+Die Seite selbst erscheint in zehn Sprachen, mit Englisch als Quelle für die Übersetzungen. Wo Übersetzungsentscheidungen die Interpretation materiell beeinflussen, hat das englische Original Vorrang.
 """
 
 # ---------------------------------------------------------------------------
@@ -322,13 +324,13 @@ question = "Wo lese ich die Quelltexte?"
 answer = """
 Der Abschnitt [Bibliothek](/de/library/) beherbergt die primären Quelltexte, aus denen das Korpus liest, mit Kommentar und Kontext. Dazu gehören:
 
-- *Das Buch, das die Wahrheit sagt* (Vorilhon, 1974) — der raëlianische Gründungstext.
-- Die Genesis (der hebräische Text und Standardübersetzungen ins Englische).
+- *Das Buch, das die Wahrheit sagt* (Vorilhon, 1974) — der raëlianische Gründungstext — zusammen mit seinen Fortsetzungen *Extraterrestrials Took Me to Their Planet* und *Let's Welcome the Extraterrestrials*.
+- Die Genesis (der punktierte hebräische Text mit der projekteigenen Übersetzung in Paralleldarstellung, dazu eine englische Standardausgabe).
 - Das Buch Henoch.
 - Das Enuma Elisch.
 - Weitere Primärquellen, soweit das Korpus auf sie zurückgreift.
 
-Für externes Quellenmaterial, auf das das Korpus zurückgreift, das es aber nicht selbst beherbergt, siehe den Abschnitt [Ressourcen](/de/resources/).
+Für externes Quellenmaterial, auf das das Korpus zurückgreift, das es aber nicht selbst beherbergt, siehe den Abschnitt [Sources](/de/sources/).
 """
 
 [[extra.faq_groups.items]]
@@ -358,7 +360,7 @@ answer = """
 Mehrere Wege:
 
 - **Diskussion und Fragen** — die [GitHub Discussions](https://github.com/orgs/wheelofheaven/discussions) sind das wichtigste öffentliche Forum des Projekts.
-- **Übersetzung** — die Seite erscheint in neun Sprachen und freut sich über weitere Übersetzungshilfe. Siehe [Mitwirken](/de/contributing/) und den [Übersetzungsleitfaden](https://docs.wheelofheaven.world/contributing/content/translations/) für Workflow und sprachspezifische Konventionen.
+- **Übersetzung** — die Seite erscheint in zehn Sprachen und freut sich über weitere Übersetzungshilfe. Siehe [Mitwirken](/de/contributing/) und den [Übersetzungsleitfaden](https://docs.wheelofheaven.world/contributing/content/translations/) für Workflow und sprachspezifische Konventionen.
 - **Inhaltliche Korrekturen und Vorschläge** — Issues können im [GitHub-Repository](https://github.com/wheelofheaven) eröffnet werden. Wie neue Einträge (Wiki, Artikel, Newsroom-Dispatches) zu schreiben sind, beschreiben die [Entwicklerdokumente](https://docs.wheelofheaven.world/contributing/content/overview/).
 - **Code und Infrastruktur** — die Seite ist Open Source und freut sich über Entwicklungsbeiträge. Der [Schnellstart](https://docs.wheelofheaven.world/getting-started/quickstart/) auf docs.wheelofheaven.world bringt Sie in fünf Minuten zu einer lokalen Vorschau.
 - **Finanzielle Unterstützung** — über [Open Collective](https://opencollective.com/wheelofheaven). Das Projekt wird derzeit vollständig aus eigener Tasche finanziert; Hilfe ist willkommen.
@@ -391,7 +393,7 @@ Substanzielle Einwände sind willkommen. Die Arbeitshypothesen-Haltung des Proje
 slug = "languages"
 question = "In welchen Sprachen ist die Seite verfügbar?"
 answer = """
-In neun: English (primär), Deutsch, Français, Español, Русский, 日本語, 简体中文, 繁體中文, 한국어. Die Übersetzungen werden aus dem englischen Original abgeleitet. Weitere Sprachen sind willkommen; siehe [Mitwirken](/de/contributing/).
+In zehn: English (primär), Deutsch, Français, Español, Русский, 日本語, 简体中文, 繁體中文, 한국어, עברית. Die Übersetzungen werden aus dem englischen Original abgeleitet. Weitere Sprachen sind willkommen; siehe [Mitwirken](/de/contributing/).
 """
 
 # ---------------------------------------------------------------------------

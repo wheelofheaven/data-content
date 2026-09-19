@@ -36,7 +36,7 @@ Wenn Sie eine Quelle kennen, mit der sich das Projekt auseinandersetzen sollte �
 
 ### Übersetzungskoordination
 
-Die Seite erscheint in neun Sprachen, und weitere Übersetzungen sind willkommen. Übersetzungsarbeit wird über Discussions koordiniert: Umfang, Glossar, Stilfragen, Review.
+Die Seite erscheint in zehn Sprachen, und weitere Übersetzungen sind willkommen. Übersetzungsarbeit wird über Discussions koordiniert: Umfang, Glossar, Stilfragen, Review.
 
 ### Vorstellungen
 

@@ -39,9 +39,9 @@ text without surrounding markup.
 <div class="press-boilerplate">
   <header class="press-boilerplate__head">
     <h3>Short paragraph <span class="press-boilerplate__meta">~90 words</span></h3>
-    <button class="press-boilerplate__copy" type="button" data-copy="Wheel of Heaven reads the religious texts as a partly-distorted record of a real event — the engineering of terrestrial life by an advanced human civilization called the Elohim — and traces that event across the twelve precessional ages of the Great Year. The reading is held as a hypothesis to be checked, not a doctrine to be believed. Every page carries a small badge labeling its main claim as direct, inferred, or speculative. The work is free, source-aware, and open to revision where the evidence shifts.">Copy</button>
+    <button class="press-boilerplate__copy" type="button" data-copy="Wheel of Heaven reads the religious texts as a partly-distorted record of a real event — the engineering of terrestrial life by an advanced human civilization called the Elohim — and traces that event across the twelve precessional ages of the Great Year. The reading is held as a hypothesis to be checked, not a doctrine to be believed. Every page carries a small badge labeling its main claim as direct, framework, inferred, or speculative. The work is free, source-aware, and open to revision where the evidence shifts.">Copy</button>
   </header>
-  <p>Wheel of Heaven reads the religious texts as a partly-distorted record of a real event — the engineering of terrestrial life by an advanced human civilization called the Elohim — and traces that event across the twelve precessional ages of the Great Year. The reading is held as a hypothesis to be checked, not a doctrine to be believed. Every page carries a small badge labeling its main claim as direct, inferred, or speculative. The work is free, source-aware, and open to revision where the evidence shifts.</p>
+  <p>Wheel of Heaven reads the religious texts as a partly-distorted record of a real event — the engineering of terrestrial life by an advanced human civilization called the Elohim — and traces that event across the twelve precessional ages of the Great Year. The reading is held as a hypothesis to be checked, not a doctrine to be believed. Every page carries a small badge labeling its main claim as direct, framework, inferred, or speculative. The work is free, source-aware, and open to revision where the evidence shifts.</p>
 </div>
 
 <div class="press-boilerplate">
@@ -51,11 +51,11 @@ text without surrounding markup.
 
 The reading runs across twelve ages of the precessional cycle, from the project's beginning twenty-two thousand years ago to the present age of disclosure and into the long future the next Great Year is opening.
 
-The site is free, source-aware, and built so the work can be checked. Every page carries an epistemic badge — direct, inferred, or speculative — so a reader can tell what kind of claim they're looking at. The corpus is published in nine languages under a CC0-1.0 license, with the underlying source code open at github.com/wheelofheaven. Where the evidence shifts, the reading shifts.">Copy</button>
+The site is free, source-aware, and built so the work can be checked. Every entry carries an epistemic badge — direct, framework, inferred, or speculative — so a reader can tell what kind of claim they're looking at. The corpus is published in ten languages under a CC0-1.0 license, with the underlying source code open at github.com/wheelofheaven. Where the evidence shifts, the reading shifts.">Copy</button>
   </header>
   <p>Wheel of Heaven is an open, multilingual reading of the ancient world's creation traditions — Raëlian, biblical, Mesopotamian, and others — through a single working hypothesis: that the beings called Elohim were a small advanced human civilization that came here, designed life on Earth, and left a record in the religious texts.</p>
   <p>The reading runs across twelve ages of the precessional cycle, from the project's beginning twenty-two thousand years ago to the present age of disclosure and into the long future the next Great Year is opening.</p>
-  <p>The site is free, source-aware, and built so the work can be checked. Every page carries an epistemic badge — direct, inferred, or speculative — so a reader can tell what kind of claim they're looking at. The corpus is published in nine languages under a CC0-1.0 license, with the underlying source code open at <a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a>. Where the evidence shifts, the reading shifts.</p>
+  <p>The site is free, source-aware, and built so the work can be checked. Every entry carries an epistemic badge — direct, framework, inferred, or speculative — so a reader can tell what kind of claim they're looking at. The corpus is published in ten languages under a CC0-1.0 license, with the underlying source code open at <a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a>. Where the evidence shifts, the reading shifts.</p>
 </div>
 
 </section>
@@ -71,7 +71,7 @@ The site is free, source-aware, and built so the work can be checked. Every page
   <dt>Category</dt><dd>Comparative religion · Ancient-astronaut research · Open canon</dd>
   <dt>Founded</dt><dd>2023 (publicly opened); the underlying work spans roughly a decade</dd>
   <dt>Status</dt><dd>Active · ~1,500 pages published · adding pages weekly</dd>
-  <dt>Languages</dt><dd>9 — English, German, French, Spanish, Russian, Japanese, Chinese (Simplified), Chinese (Traditional), Korean</dd>
+  <dt>Languages</dt><dd>10 — English, German, French, Spanish, Russian, Japanese, Chinese (Simplified), Chinese (Traditional), Korean, Hebrew</dd>
   <dt>License</dt><dd>Content <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0-1.0</a> · code <a href="https://opensource.org/licenses/MIT">MIT</a></dd>
   <dt>Website</dt><dd><a href="https://www.wheelofheaven.world/">wheelofheaven.world</a></dd>
   <dt>Source</dt><dd><a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a></dd>
@@ -278,7 +278,7 @@ open-source and free for any use.
 
 ## Social cards
 
-Every page on the site has a generated 1200×630 share card in all 9 languages.
+Every page on the site has a generated 1200×630 share card in all 10 languages.
 Six samples across sections:
 
 <div class="press-og-grid">

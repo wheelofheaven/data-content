@@ -7,7 +7,7 @@ template = "faq.html"
 claim_type = "direct"
 editorial_pass = "2026-05"
 summary = "Substantive answers to the questions readers most often arrive with. If your question isn't answered here, the GitHub Discussions are the right place to ask — and a good question may end up added to this page."
-last_updated = "2026-05-10"
+last_updated = "2026-09-19"
 
 # ---------------------------------------------------------------------------
 # About the project
@@ -63,7 +63,7 @@ question = "Is this peer-reviewed scholarship?"
 answer = """
 No, and the project doesn't claim to be. Wheel of Heaven is a long-form essay project conducted by an independent writer, not an academic publication. Where the project engages contemporary scholarship — in biblical studies, genetics, astrobiology, archaeoastronomy, and other fields — it does so as a serious reader of the published literature, taking the science on its own terms.
 
-The project's epistemic discipline is internal rather than institutional: every page labels its main claim as **direct** (what a source asserts), **inferred** (what scholarship reasonably concludes), or **speculative** (what the project proposes as interpretive synthesis). Readers are invited to evaluate the project's specific claims against the alternatives.
+The project's epistemic discipline is internal rather than institutional: every wiki entry, article, and library book — and most other pages — labels its main claim as **direct** (what a source asserts and mainstream scholarship does not dispute), **framework** (a premise of the Raëlian canon that mainstream scholarship does not endorse), **inferred** (a reasonable reading of a source), or **speculative** (what the project proposes as interpretive synthesis). Readers are invited to evaluate the project's specific claims against the alternatives.
 """
 
 [[extra.faq_groups.items]]
@@ -128,7 +128,7 @@ question = "What is the precessional cycle, in plain language?"
 answer = """
 Earth's axis is tilted at about 23.5°, and it doesn't point in a fixed direction in space. Like a spinning top, the axis traces a slow circle in the sky, completing one full circuit every approximately 25,920 years. This motion is called the *precession of the equinoxes*.
 
-The practical consequence is that the constellation rising behind the sun on the spring equinox slowly shifts westward through the zodiac. Two thousand years ago it was Aries; today it's Pisces; soon it will be Aquarius. The cycle repeats every ~26,000 years.
+The practical consequence is that the constellation rising behind the sun on the spring equinox slowly shifts westward through the zodiac. Until about 210 BCE it was Aries; for the next two millennia it was Pisces; since 1950, on the corpus's chronology, it has been Aquarius. The cycle repeats every ~26,000 years.
 
 Divided by the twelve constellations of the zodiac, that cycle yields *precessional ages* of about 2,160 years each. The corpus uses these ages as its chronological framework. For more, see the [Precession](/wiki/precession/) wiki entry.
 """
@@ -161,7 +161,7 @@ The boundaries between ages are set by equal divisions of the zodiac (the IAU as
 slug = "what-does-elohim-mean"
 question = 'What does "Elohim" mean, and why does the project read it as plural?'
 answer = """
-*Elohim* (אֱלֹהִים) is the Hebrew word that conventional Bibles translate as "God." Grammatically, it's a plural noun — the *-im* ending is the standard Hebrew plural marker, the same one that pluralizes other masculine nouns (*cherub* / *cherubim*, *Nephil* / *Nephilim*).
+*Elohim* (אֱלֹהִים) is the Hebrew word that conventional Bibles translate as "God." Grammatically, it's a plural noun — the *-im* ending is the standard Hebrew plural marker, the same one that pluralizes other masculine nouns (*cherub* / *cherubim*, *seraph* / *seraphim*).
 
 Conventional Christian and Jewish theology reads the plural as either a "majestic plural" (a single deity addressed in plural for grandeur, similar to the royal "we") or as a placeholder for the Trinity. The corpus reads it at face value: the plural *Elohim* refers to multiple beings.
 
@@ -194,14 +194,14 @@ The corpus does not reject evolution as a description of biological change over 
 
 On the corpus's reading, the major morphological transitions in the fossil record are design-iteration phases conducted by the Elohim civilization, with smaller evolutionary changes occurring within each design phase by the conventional mechanisms (mutation, selection, drift). The apparent abruptness of certain transitions — the Cambrian explosion, the rapid emergence of *Homo sapiens* from prior hominid forms — is read as exactly what a design-iteration program would produce.
 
-The project accepts the geological dating of the Earth at approximately 4.5 billion years and is not a young-Earth framework. The Elohim project is dated from the Capricorn-age arrival approximately 21,810 years before the present, not from the geological formation of the planet.
+The project accepts the geological dating of the Earth at approximately 4.5 billion years and is not a young-Earth framework. The Elohim project is dated from the Capricorn-age arrival at about 21,810 BCE, not from the geological formation of the planet.
 """
 
 [[extra.faq_groups.items]]
 slug = "position-on-jesus"
 question = "What's the project's position on Jesus?"
 answer = """
-The corpus treats Jesus as a historical figure whose ministry corresponds to the precessional transition from Aries to Pisces. The Raëlian source includes specific claims about Jesus's nature and origin (as the offspring of an Eloha and a human woman, in continuity with the Genesis 6 *benei ha-Elohim* pattern); the corpus engages these claims as part of the source family's content.
+The corpus treats Jesus as a historical figure whose ministry corresponds to the precessional transition from Aries to Pisces. The Raëlian source includes specific claims about Jesus's nature and origin (as the son of a human woman and an Eloha — Yahweh, on the corpus's reading — in continuity with the Genesis 6 *benei ha-Elohim* pattern); the corpus engages these claims as part of the source family's content.
 
 The corpus does not treat Jesus as a divine figure in the conventional Christian sense, nor as a fictional invention of the early Church. The historical figure is read as a Pisces-age messenger from the Elohim alliance, whose teachings and life were subsequently mystified by the institutional Christian tradition that emerged from his movement.
 
@@ -246,7 +246,7 @@ The corpus draws on multiple source families, with explicit hierarchical priorit
 
 **Secondary**: The precessional-mythology tradition, foundationally Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill* (1969).
 
-**Tertiary**: Jean Sendy's 1968–1972 reinterpretations of biblical material as records of extraterrestrial activity (*La Lune, clé de la Bible*; *Les Dieux nous sont nés*; *L'Ère du Verseau*).
+**Tertiary**: Jean Sendy's 1966–1970 reinterpretations of biblical material as records of extraterrestrial activity (*Les dieux nous sont nés*, 1966; *La lune, clé de la Bible*, 1968; *Ces dieux qui firent le ciel et la terre*, 1969; *L'Ère du Verseau*, 1970).
 
 **Comparative**: Biblical, Mesopotamian, Vedic, Mesoamerican, and other primary religious and mythological sources, read in their original languages where possible.
 
@@ -254,7 +254,7 @@ The corpus draws on multiple source families, with explicit hierarchical priorit
 
 **Engaged on its own terms**: Contemporary peer-reviewed scholarship in biblical studies, genetics, astrobiology, archaeoastronomy, and synthetic biology.
 
-For the full source landscape, see the [Library](/library/) and [Resources](/resources/) sections.
+For the full source landscape, see the [Library](/library/) and [Sources](/sources/) sections.
 """
 
 [[extra.faq_groups.items]]
@@ -273,15 +273,17 @@ Where scholarly consensus diverges from the corpus's framework, the corpus engag
 
 [[extra.faq_groups.items]]
 slug = "claim-badges"
-question = 'What do "direct," "inferred," and "speculative" mean on the page badges?'
+question = 'What do "direct," "framework," "inferred," and "speculative" mean on the page badges?'
 answer = """
-Every page on the corpus carries a small badge indicating the epistemic status of its main claim:
+Most pages on the corpus carry a small badge indicating the epistemic status of the page's main claim. There are four values:
 
-**Direct claim** — what the source text itself asserts. *"Genesis 1:26 reads 'let us make humanity in our image.'"* These are the most reliable claims; verification is a matter of checking the source.
+**Direct claim** — what the source text itself asserts, and what mainstream scholarship does not dispute. *"Genesis 1:26 reads 'let us make humanity in our image.'"* These are the most reliable claims; verification is a matter of checking the source.
 
-**Inferred claim** — what scholarship reasonably concludes from the source. *"The plural verb form indicates multiple agents."* These claims involve interpretive work but stay close to the evidence.
+**Framework claim** — a foundational premise of the Wheel of Heaven reading that is explicit in the Raëlian canon but not endorsed by mainstream scholarship. *"The plural Elohim of Genesis are the small civilization the Raëlian source describes."* These claims are stated directly because the canon states them directly; the badge marks that the wider academic consensus does not share them.
 
-**Speculative claim** — what the project proposes as interpretive synthesis. *"The plural Elohim of Genesis can be identified with the small civilization the Raëlian source describes."* These claims are the project's distinctive contribution and are most subject to revision.
+**Inferred claim** — a reasonable reading of a source, not literally stated but consistent with it. *"The plural verb form indicates multiple agents."* These claims involve interpretive work but stay close to the evidence.
+
+**Speculative claim** — interpretive synthesis that goes beyond what any single source states. *"The sky-war narratives of independent traditions converge on a single remembered event."* These claims are the project's distinctive contribution and are most subject to revision.
 
 The badges let the reader calibrate trust at the level of individual claims. A speculative claim isn't wrong because it's speculative; it's *labeled* speculative so the reader knows to weigh it as such.
 """
@@ -292,7 +294,7 @@ question = "How are translations handled?"
 answer = """
 The corpus reads close to the source languages where the interpretation depends on it. For Hebrew biblical material, the corpus uses the Masoretic text, names specific Hebrew vocabulary in transliteration, and discusses translation choices where they materially affect interpretation. For Mesopotamian material, the corpus relies on the standard scholarly editions and translations (Foster, George, Lambert, others). For other source families, the corpus uses the best available scholarly editions and is explicit when it does so.
 
-The site itself is published in nine languages, with English as the source for translations. Where translation choices materially affect interpretation, the English original takes precedence.
+The site itself is published in ten languages, with English as the source for translations. Where translation choices materially affect interpretation, the English original takes precedence.
 """
 
 # ---------------------------------------------------------------------------
@@ -322,13 +324,13 @@ question = "Where do I read the source texts?"
 answer = """
 The [Library](/library/) section hosts the primary source texts the corpus reads from, with commentary and context. This includes:
 
-- *The Book Which Tells the Truth* (Vorilhon, 1974) — the founding Raëlian text.
-- Genesis (the Hebrew text and standard English translations).
+- *The Book Which Tells the Truth* (Vorilhon, 1974) — the founding Raëlian text — together with its sequels *Extraterrestrials Took Me to Their Planet* and *Let's Welcome the Extraterrestrials*.
+- Genesis (the pointed Hebrew text with the project's own translation in parallel, plus a standard English edition).
 - The Book of Enoch.
 - The Enuma Elish.
 - Other primary sources as the corpus draws on them.
 
-For external source material the corpus draws on but does not host, see the [Resources](/resources/) section.
+For external source material the corpus draws on but does not host, see the [Sources](/sources/) section.
 """
 
 [[extra.faq_groups.items]]
@@ -358,7 +360,7 @@ answer = """
 Several ways:
 
 - **Discussion and questions** — the [GitHub Discussions](https://github.com/orgs/wheelofheaven/discussions) are the project's main public forum.
-- **Translation** — the site is published in nine languages and welcomes additional translation help. See [Contributing](/contributing/), and the [Translations guide](https://docs.wheelofheaven.world/contributing/content/translations/) for the workflow and per-language conventions.
+- **Translation** — the site is published in ten languages and welcomes additional translation help. See [Contributing](/contributing/), and the [Translations guide](https://docs.wheelofheaven.world/contributing/content/translations/) for the workflow and per-language conventions.
 - **Content corrections and suggestions** — issues can be opened on the [GitHub repository](https://github.com/wheelofheaven). For how to write new entries (wiki, Articles, Newsroom Dispatches), see the [developer docs](https://docs.wheelofheaven.world/contributing/content/overview/).
 - **Code and infrastructure** — the site is open-source and welcomes development contributions. The [Quickstart](https://docs.wheelofheaven.world/getting-started/quickstart/) at docs.wheelofheaven.world gets you to a local preview in five minutes.
 - **Financial support** — through [Open Collective](https://opencollective.com/wheelofheaven). The project is currently funded entirely out of pocket; help is appreciated.
@@ -391,7 +393,7 @@ Substantive challenges are welcomed. The project's working-hypothesis stance mea
 slug = "languages"
 question = "What languages is the site available in?"
 answer = """
-Nine: English (primary), Deutsch, Français, Español, Русский, 日本語, 简体中文, 繁體中文, 한국어. Translations are derived from the English source. Additional languages are welcomed; see [Contributing](/contributing/).
+Ten: English (primary), Deutsch, Français, Español, Русский, 日本語, 简体中文, 繁體中文, 한국어, עברית. Translations are derived from the English source. Additional languages are welcomed; see [Contributing](/contributing/).
 """
 
 # ---------------------------------------------------------------------------

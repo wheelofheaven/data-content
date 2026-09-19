@@ -31,7 +31,7 @@ Die [GitHub-Diskussionen](https://github.com/orgs/wheelofheaven/discussions) sin
 
 ### Übersetzung
 
-Die Seite ist in neun Sprachen veröffentlicht, mit Englisch als Quelle. Übersetzungen werden von Hand und mit Werkzeugen aus dem englischen Original abgeleitet, mit redaktioneller Überprüfung wo möglich. Weitere Sprachen sind willkommen; bestehende Übersetzungen können stets verbessert werden.
+Die Seite ist in zehn Sprachen veröffentlicht, mit Englisch als Quelle. Übersetzungen werden von Hand und mit Werkzeugen aus dem englischen Original abgeleitet, mit redaktioneller Überprüfung wo möglich. Weitere Sprachen sind willkommen; bestehende Übersetzungen können stets verbessert werden.
 
 Wenn Sie an Übersetzung interessiert sind, eröffnen Sie einen Diskussionsthread oder ein Issue, das die Sprache und den Umfang beschreibt. Das Projekt stellt das Ausgangsmaterial, das Glossar projektspezifischer Begriffe und den Stilleitfaden bereit.
 

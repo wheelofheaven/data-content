@@ -40,7 +40,7 @@ summary = "ブランド素材、プロジェクト紹介文、ファクトシー
     <h3>短い段落 <span class="press-boilerplate__meta">約90語</span></h3>
     <button class="press-boilerplate__copy" type="button" data-copy="Wheel of Heaven reads the religious texts as a partly-distorted record of a real event — the engineering of terrestrial life by an advanced human civilization called the Elohim — and traces that event across the twelve precessional ages of the Great Year. The reading is held as a hypothesis to be checked, not a doctrine to be believed. Every page carries a small badge labeling its main claim as direct, inferred, or speculative. The work is free, source-aware, and open to revision where the evidence shifts.">コピー</button>
   </header>
-  <p>Wheel of Heavenは、宗教テキストを実際の出来事 — エロヒムと呼ばれる高度な人類文明による地球生命の工学的設計 — の部分的に歪められた記録として読み、その出来事を大年の12の歳差時代を通じて辿ります。この読解は信じるべき教義ではなく、検証されるべき仮説として扱われます。すべてのページには主要な主張を「直接的（direct）」「推論的（inferred）」「思弁的（speculative）」として表示する小さなバッジが付いています。本作品は無料、典拠を明示しており、証拠が変われば読解も改訂されます。</p>
+  <p>Wheel of Heavenは、宗教テキストを実際の出来事 — エロヒムと呼ばれる高度な人類文明による地球生命の工学的設計 — の部分的に歪められた記録として読み、その出来事を大年の12の歳差時代を通じて辿ります。この読解は信じるべき教義ではなく、検証されるべき仮説として扱われます。すべての項目には主要な主張を「直接的（direct）」「枠組み（framework）」「推論的（inferred）」「思弁的（speculative）」として表示する小さなバッジが付いています。本作品は無料、典拠を明示しており、証拠が変われば読解も改訂されます。</p>
 </div>
 
 <div class="press-boilerplate">
@@ -50,11 +50,11 @@ summary = "ブランド素材、プロジェクト紹介文、ファクトシー
 
 The reading runs across twelve ages of the precessional cycle, from the project's beginning twenty-two thousand years ago to the present age of disclosure and into the long future the next Great Year is opening.
 
-The site is free, source-aware, and built so the work can be checked. Every page carries an epistemic badge — direct, inferred, or speculative — so a reader can tell what kind of claim they're looking at. The corpus is published in nine languages under a CC0-1.0 license, with the underlying source code open at github.com/wheelofheaven. Where the evidence shifts, the reading shifts.">コピー</button>
+The site is free, source-aware, and built so the work can be checked. Every entry carries an epistemic badge — direct, framework, inferred, or speculative — so a reader can tell what kind of claim they're looking at. The corpus is published in ten languages under a CC0-1.0 license, with the underlying source code open at github.com/wheelofheaven. Where the evidence shifts, the reading shifts.">コピー</button>
   </header>
   <p>Wheel of Heavenは、古代世界の創造伝承 — ラエリアン、聖書、メソポタミア、その他 — を一つの作業仮説を通して読み解く、オープンで多言語な読解プロジェクトです。すなわち、エロヒムと呼ばれる存在はここに来て地球上の生命をデザインし、宗教テキストにその記録を残した小規模な高度人類文明であった、という仮説です。</p>
   <p>この読解は、2万2千年前のプロジェクト開始から現在の開示時代を経て、次の大年が開く長い未来へと至るまで、歳差サイクルの12の時代にわたって展開されます。</p>
-  <p>本サイトは無料、典拠を明示しており、作業を検証できるように構築されています。すべてのページには認識論的バッジ — 直接的（direct）、推論的（inferred）、思弁的（speculative） — が付いており、読者は自分が見ている主張がどの種類のものかを判別できます。コーパスはCC0-1.0ライセンスの下で9言語で公開されており、基盤となるソースコードは<a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a>でオープンに公開されています。証拠が変われば、読解も変わります。</p>
+  <p>本サイトは無料、典拠を明示しており、作業を検証できるように構築されています。すべての項目には認識論的バッジ — 直接的（direct）、枠組み（framework）、推論的（inferred）、思弁的（speculative） — が付いており、読者は自分が見ている主張がどの種類のものかを判別できます。コーパスはCC0-1.0ライセンスの下で10言語で公開されており、基盤となるソースコードは<a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a>でオープンに公開されています。証拠が変われば、読解も変わります。</p>
 </div>
 
 </section>
@@ -70,7 +70,7 @@ The site is free, source-aware, and built so the work can be checked. Every page
   <dt>カテゴリ</dt><dd>比較宗教学 · 古代宇宙飛行士研究 · オープンキャノン</dd>
   <dt>設立</dt><dd>2023年（一般公開）；基盤となる作業は約10年にわたります</dd>
   <dt>ステータス</dt><dd>活動中 · 約1,500ページ公開 · 毎週ページを追加</dd>
-  <dt>言語</dt><dd>9言語 — 英語、ドイツ語、フランス語、スペイン語、ロシア語、日本語、中国語（簡体字）、中国語（繁体字）、韓国語</dd>
+  <dt>言語</dt><dd>10言語 — 英語、ドイツ語、フランス語、スペイン語、ロシア語、日本語、中国語（簡体字）、中国語（繁体字）、韓国語、ヘブライ語</dd>
   <dt>ライセンス</dt><dd>コンテンツ <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0-1.0</a> · コード <a href="https://opensource.org/licenses/MIT">MIT</a></dd>
   <dt>ウェブサイト</dt><dd><a href="https://www.wheelofheaven.world/">wheelofheaven.world</a></dd>
   <dt>ソース</dt><dd><a href="https://github.com/wheelofheaven">github.com/wheelofheaven</a></dd>
@@ -274,7 +274,7 @@ The site is free, source-aware, and built so the work can be checked. Every page
 
 ## ソーシャルカード
 
-サイト上のすべてのページには、9言語すべてで生成された1200×630のシェアカードがあります。各セクションから6つのサンプル:
+サイト上のすべてのページには、10言語すべてで生成された1200×630のシェアカードがあります。各セクションから6つのサンプル:
 
 <div class="press-og-grid">
 <img src="https://assets.wheelofheaven.world/images/og/en/wiki/elohim.jpg" alt="ウィキ: エロヒム" loading="lazy">
