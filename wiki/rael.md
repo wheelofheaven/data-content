@@ -16,6 +16,7 @@ core_versions = { woh-claim-0020 = "0.1.0" }
 alternative_names = ["Claude Vorilhon", "Rael", "Raël Maitreya", "the Maitreya from the West", "Guide of Guides", "the last of the prophets"]
 timeline = ["aquarius"]
 see_also = [
+    { title = "Sendy and the Raëlian Messages", path = "articles/sendy-and-the-raelian-messages", description = "How the first Message compares with Jean Sendy's books: shared Genesis readings, chronology of composition, and the commentary beyond Genesis that Sendy does not contain." },
     { title = "Raëlism", path = "wiki/raelism", description = "The movement Vorilhon founded in 1976 as the vehicle for the embassy project." },
     { title = "Prophet", path = "wiki/prophet", description = "The category in which the corpus places him as the last of roughly forty." },
     { title = "Elohim", path = "wiki/elohim", description = "The civilization whose officer he reported meeting on December 13, 1973." },

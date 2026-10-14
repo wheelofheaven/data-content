@@ -16,6 +16,7 @@ core_versions = { woh-claim-0064 = "0.1.0" }
 alternative_names = ["Dimitri Abelson (birth name)", "the man who bet the Bible on the Moon"]
 timeline = ["age-of-aquarius"]
 see_also = [
+    { title = "Sendy and the Raëlian Messages", path = "articles/sendy-and-the-raelian-messages", description = "Passage-level comparison of Sendy's books with the first Raëlian Message: the shared Genesis readings, the differences, and the post-Genesis commentary his thesis excludes." },
     { title = "Sendy's Conditions of Coherence", path = "wiki/sendys-conditions-of-coherence", description = "The five preconditions Sendy listed in L'Ère du Verseau (1970) for the biblical text to appear 'with the relief and coherence of a hologram' — the corpus's formal entry on his methodological legacy." },
     { title = "Biglino Method", path = "wiki/biglino-method", description = "The strict-literal hermeneutic that re-derived Sendy's Schliemann-Homer principle four decades later; the corpus pairs the two as its complete contemporary hermeneutic." },
     { title = "Neo-euhemerism", path = "wiki/neo-euhemerism", description = "The umbrella tradition — gods as remembered visitors — in which the corpus places Sendy as the principal pre-Däniken articulator." },
