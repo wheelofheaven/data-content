@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+seo_description = "The creation narratives of Genesis and their Hebrew context, alongside Wheel of Heaven’s interpretation through Raëlian sources and precessional ages."
 same_as = ["https://www.wikidata.org/wiki/Q9184", "https://en.wikipedia.org/wiki/Book_of_Genesis", "https://www.britannica.com/topic/Genesis-Old-Testament", "https://viaf.org/viaf/316751363"]
 featured_order = 8
 category = "Texts & Sources"

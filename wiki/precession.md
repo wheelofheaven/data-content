@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+seo_description = "How axial precession works, how its cycle is measured, and how Wheel of Heaven uses precessional ages to organize its interpretation of ancient traditions."
 core_claim_ids = ["woh-claim-0003"]
 core_versions = { woh-claim-0003 = "0.1.0" }
 same_as = ["https://www.wikidata.org/wiki/Q83094", "https://en.wikipedia.org/wiki/Axial_precession", "https://www.britannica.com/topic/precession-of-the-equinoxes"]

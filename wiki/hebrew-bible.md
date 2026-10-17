@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+seo_description = "The Hebrew Bible and its textual tradition, with an introduction to how Wheel of Heaven reads its accounts of the Elohim through the Raëlian framework."
 same_as = ["https://www.wikidata.org/wiki/Q83367", "https://en.wikipedia.org/wiki/Tanakh", "https://www.britannica.com/topic/Tanakh", "https://viaf.org/viaf/8394148997616159870005"]
 category = "Texts & Sources"
 editorial_pass = "2026-07"

@@ -7,6 +7,7 @@ toc = true
 aliases = ["/intro/extraterrestrial-civilization/"]
 
 [extra]
+seo_description = "Elohim in the Hebrew Bible: its plural form, divine-council context, and the Raëlian interpretation adopted by Wheel of Heaven, with sources and limitations."
 same_as = ["https://www.wikidata.org/wiki/Q868915", "https://en.wikipedia.org/wiki/Elohim", "https://www.britannica.com/topic/Elohim"]
 featured_order = 1
 category = "Elohim"

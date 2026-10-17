@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+seo_description = "Raëlism: the movement’s origins, teachings about the Elohim, practices and embassy project, and its place in the Wheel of Heaven interpretive framework."
 same_as = ["https://www.wikidata.org/wiki/Q631897", "https://en.wikipedia.org/wiki/Ra%C3%ABlism"]
 featured_order = 3
 category = "Cosmology & Framework"

@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+seo_description = "Yahweh in the Hebrew Bible and Raëlian source material: the divine name, historical context, and Wheel of Heaven’s interpretation of his role among the Elohim."
 same_as = ["https://www.wikidata.org/wiki/Q766677", "https://en.wikipedia.org/wiki/Yahweh", "https://www.britannica.com/topic/Yahweh", "https://viaf.org/viaf/529159234869003372966"]
 featured_order = 2
 category = "Elohim"

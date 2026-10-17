@@ -7,6 +7,7 @@ toc = true
 aliases = ["/wiki/age-of-apocalypse/"]
 
 [extra]
+seo_description = "What apocalypse means as revelation, and how Raëlian sources and Wheel of Heaven interpret it in relation to the contemporary Age of Aquarius."
 same_as = ["https://www.wikidata.org/wiki/Q696203", "https://en.wikipedia.org/wiki/Apocalypse"]
 category = "Events & Narratives"
 editorial_pass = "2026-05"

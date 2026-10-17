@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+seo_description = "Raël (Claude Vorilhon): his reported 1973 encounter, published teachings, and role in the Raëlian movement and the Wheel of Heaven framework."
 same_as = ["https://www.wikidata.org/wiki/Q1190688", "https://en.wikipedia.org/wiki/Ra%C3%ABl", "https://viaf.org/viaf/85463355"]
 category = "Raëlism"
 editorial_pass = "2026-05"

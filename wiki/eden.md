@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+seo_description = "Eden and its garden in Genesis: the biblical narrative, geographical questions, and the laboratory interpretation proposed in the Raëlian source material."
 same_as = ["https://www.wikidata.org/wiki/Q19014", "https://en.wikipedia.org/wiki/Garden_of_Eden", "https://www.britannica.com/topic/Garden-of-Eden"]
 featured_order = 7
 category = "Places & Locations"
