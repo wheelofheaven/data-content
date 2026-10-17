@@ -6,6 +6,7 @@ date = 2026-07-06
 draft = true
 
 [extra]
+card_summary = "Annie Jacobsen’s investigations of institutions built after 1945, read through the canon’s account of the Apocalypse."
 claim_type = "inferred"
 editorial_pass = "2026-05"
 article_type = "explainer"

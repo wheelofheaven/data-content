@@ -6,6 +6,7 @@ date = 2026-06-16
 draft = false
 
 [extra]
+card_summary = "Sumerian, Babylonian, Hebrew, and Enochic flood accounts compared through divine decisions, survival, and the preservation of life."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0010"]
 core_versions = { woh-claim-0010 = "0.1.0" }

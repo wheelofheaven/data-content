@@ -6,6 +6,7 @@ date = 2026-07-18
 draft = false
 
 [extra]
+card_summary = "Hamlet’s Mill, the zodiac, and the Hebrew Mazzaroth: reading the precessional ages through myth."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0014"]
 core_versions = { woh-claim-0014 = "0.1.0" }

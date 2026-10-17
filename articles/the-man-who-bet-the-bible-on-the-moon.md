@@ -6,6 +6,7 @@ date = 2026-07-16
 draft = false
 
 [extra]
+card_summary = "Jean Sendy’s technological reading of Genesis and the lunar prediction on which he staked his interpretation."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0042"]
 core_versions = { woh-claim-0042 = "0.1.0" }

@@ -6,6 +6,7 @@ date = 2026-08-15
 draft = false
 
 [extra]
+card_summary = "The older traditions of gods, monsters, and cultural memory behind Homer’s Odyssey and its modern retelling."
 claim_type = "speculative"
 editorial_pass = "2026-05"
 core_claim_ids = ["woh-claim-0004", "woh-claim-0008"]

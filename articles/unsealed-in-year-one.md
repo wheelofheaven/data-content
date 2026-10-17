@@ -6,6 +6,7 @@ date = 2026-07-17
 draft = false
 
 [extra]
+card_summary = "The discovery of the Dead Sea Scrolls read through the project’s chronology and the theme of revelation."
 claim_type = "speculative"
 core_claim_ids = ["woh-claim-0026"]
 core_versions = { woh-claim-0026 = "0.1.0" }

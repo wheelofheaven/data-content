@@ -6,6 +6,7 @@ date = 2026-07-13
 draft = false
 
 [extra]
+card_summary = "The Dead Sea Scrolls and the significance their discovery’s timing holds within the Wheel of Heaven chronology."
 claim_type = "speculative"
 core_claim_ids = ["woh-claim-0026"]
 core_versions = { woh-claim-0026 = "0.1.0" }

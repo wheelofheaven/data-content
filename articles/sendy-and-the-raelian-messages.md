@@ -6,6 +6,7 @@ date = 2026-10-14
 draft = false
 
 [extra]
+card_summary = "Jean Sendy and the first Raëlian Message: shared readings of Genesis and the case for possible borrowing."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0072"]
 core_versions = { woh-claim-0072 = "0.2.0" }

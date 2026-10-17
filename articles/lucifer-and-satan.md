@@ -6,6 +6,7 @@ date = 2026-07-11
 draft = false
 
 [extra]
+card_summary = "The textual distinction between Lucifer and Satan, and their opposing roles in the Wheel of Heaven interpretation."
 claim_type = "framework"
 core_claim_ids = ["woh-claim-0008", "woh-claim-0013"]
 core_versions = { woh-claim-0008 = "0.1.0", woh-claim-0013 = "0.1.0" }

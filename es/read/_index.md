@@ -1,6 +1,6 @@
 +++
 title = "Leer"
-description = "Una breve orientación a Wheel of Heaven y tres caminos de entrada al material: el libro en doce edades, el wiki para términos y figuras, y los textos primarios desde los que lee el corpus."
+description = "Explore textos antiguos desde la hipótesis de Wheel of Heaven: siga la Cronología, consulte la Wiki o lea una fuente en la Biblioteca."
 template = "read.html"
 sort_by = "weight"
 render = true
@@ -8,7 +8,7 @@ render = true
 [extra]
 claim_type = "direct"
 editorial_pass = "2026-05"
-lede = "Wheel of Heaven lee textos antiguos —raelianos, bíblicos y transculturales— a través de un reloj precesional, sobre la hipótesis de trabajo de que los dioses de esos textos eran una pequeña civilización humana avanzada procedente de otro lugar. Elige un camino abajo, o lee primero la orientación."
+lede = "Explore textos antiguos desde la hipótesis de Wheel of Heaven: siga la Cronología, consulte la Wiki o lea una fuente en la Biblioteca."
 +++
 
 ## Qué es Wheel of Heaven
@@ -41,7 +41,7 @@ afirmaciones científicas e históricas se mantienen mesuradas. El
 material crítico se presenta con su propia voz.
 
 Cada página lleva una pequeña insignia que etiqueta su afirmación
-principal como **directa**, **inferida** o **especulativa**: honestidad
+principal como **directa**, **marco**, **inferida** o **especulativa**: honestidad
 sobre qué tipo de enunciado estás leyendo.
 
 El objetivo es la claridad, no la certeza. Si la evidencia cambia, la

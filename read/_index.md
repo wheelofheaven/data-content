@@ -1,6 +1,6 @@
 +++
 title = "Read"
-description = "A short orientation to Wheel of Heaven and three ways into the material: the book in twelve ages, the wiki for terms and figures, and the primary texts the corpus reads from."
+description = "Explore ancient texts through the Wheel of Heaven hypothesis. Follow the Timeline, browse the Wiki, or read a source in the Library."
 template = "read.html"
 sort_by = "weight"
 render = true
@@ -16,7 +16,7 @@ aliases = [
 [extra]
 claim_type = "direct"
 editorial_pass = "2026-05"
-lede = "Wheel of Heaven reads ancient texts — Raëlian, biblical, and cross-cultural — through a precessional clock, on the working hypothesis that the gods of those texts were a small advanced human civilization from elsewhere. Pick a path below, or read the orientation first."
+lede = "Explore ancient texts through the Wheel of Heaven hypothesis. Follow the Timeline, browse the Wiki, or read a source in the Library."
 +++
 
 ## What Wheel of Heaven Is
@@ -45,7 +45,7 @@ Bahá'í, Caodaism, and the rest are read in dialogue, not flattened into
 "the same story." Scientific and historical claims stay measured. Critical
 material is presented in its own voice.
 
-Every page carries a small badge labeling its main claim as **direct**,
+Every page carries a small badge labeling its main claim as **direct**, **framework**,
 **inferred**, or **speculative** — honesty about what kind of statement
 you are reading.
 

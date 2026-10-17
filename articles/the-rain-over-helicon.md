@@ -6,6 +6,7 @@ date = 2026-08-30
 draft = false
 
 [extra]
+card_summary = "M. L. West’s account of Greek myth’s eastern connections, and the evidence and limits of literary borrowing."
 claim_type = "speculative"
 editorial_pass = "2026-05"
 article_type = "explainer"

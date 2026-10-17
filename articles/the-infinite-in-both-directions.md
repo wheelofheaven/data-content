@@ -6,6 +6,7 @@ date = 2026-07-05
 draft = false
 
 [extra]
+card_summary = "The Raëlian account of an infinite cosmos, read through scale, time, and the idea of fractal structure."
 claim_type = "speculative"
 core_claim_ids = ["woh-claim-0023"]
 core_versions = { woh-claim-0023 = "0.1.0" }

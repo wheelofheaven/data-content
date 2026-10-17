@@ -6,6 +6,7 @@ date = 2026-07-11
 draft = false
 
 [extra]
+card_summary = "Why Wheel of Heaven identifies the Anunnaki with the Elohim while rejecting Zecharia Sitchin’s Nibiru interpretation."
 core_claim_ids = ["woh-claim-0002"]
 core_versions = { woh-claim-0002 = "0.1.0" }
 claim_type = "framework"

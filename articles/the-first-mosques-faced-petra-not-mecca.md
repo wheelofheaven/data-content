@@ -6,6 +6,7 @@ date = 2026-07-01
 draft = false
 
 [extra]
+card_summary = "The argument for an early Islamic center at Petra, examined through qibla orientations, historical texts, and Nabataean connections."
 claim_type = "speculative"
 core_claim_ids = ["woh-claim-0024"]
 core_versions = { woh-claim-0024 = "0.1.0" }

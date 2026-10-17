@@ -6,6 +6,7 @@ date = 2026-09-15
 draft = false
 
 [extra]
+card_summary = "The three Raëlian source books examined as a staged disclosure, with attention to timing, geography, and withheld information."
 claim_type = "inferred"
 editorial_pass = "2026-05"
 article_type = "explainer"

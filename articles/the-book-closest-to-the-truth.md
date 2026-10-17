@@ -6,6 +6,7 @@ date = 2026-07-04
 draft = false
 
 [extra]
+card_summary = "The canon’s remarks about Kabbalah traced to the measurements and textual history of the Shi’ur Qomah."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0021"]
 core_versions = { woh-claim-0021 = "0.1.0" }

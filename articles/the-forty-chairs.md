@@ -6,6 +6,7 @@ date = 2026-07-06
 draft = true
 
 [extra]
+card_summary = "The unnamed guests at Yahweh’s table and a method for assessing which traditions the account may include."
 claim_type = "inferred"
 editorial_pass = "2026-05"
 article_type = "explainer"

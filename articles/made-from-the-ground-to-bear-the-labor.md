@@ -6,6 +6,7 @@ date = 2026-06-13
 draft = true
 
 [extra]
+card_summary = "Creation from clay across traditions, with a closer look at the Mesopotamian theme of humanity bearing divine labor."
 claim_type = "inferred"
 editorial_pass = "2026-05"
 article_type = "explainer"

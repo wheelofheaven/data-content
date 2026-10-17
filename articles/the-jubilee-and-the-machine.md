@@ -6,6 +6,7 @@ date = 2026-07-06
 draft = true
 
 [extra]
+card_summary = "Land, money, and technological organization: economic reformers considered alongside the canon’s forty-nine-year lease."
 claim_type = "inferred"
 editorial_pass = "2026-05"
 article_type = "explainer"

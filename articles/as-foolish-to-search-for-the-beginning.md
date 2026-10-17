@@ -6,6 +6,7 @@ date = 2026-07-11
 draft = true
 
 [extra]
+card_summary = "The canon’s rejection of time’s beginning considered alongside recent JWST observations and debates about the early universe."
 claim_type = "speculative"
 editorial_pass = "2026-05"
 article_type = "explainer"

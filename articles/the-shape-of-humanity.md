@@ -6,6 +6,7 @@ date = 2026-07-23
 draft = false
 
 [extra]
+card_summary = "The canon’s image of humanity as a developing organism, and a proposed approach to studying it."
 claim_type = "speculative"
 core_claim_ids = ["woh-claim-0025"]
 core_versions = { woh-claim-0025 = "0.1.0" }

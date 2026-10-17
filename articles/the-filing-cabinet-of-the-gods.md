@@ -6,6 +6,7 @@ date = 2026-07-06
 draft = true
 
 [extra]
+card_summary = "Recurring scenes in Stith Thompson’s motif index, examined through the interpretive framework of the Raëlian canon."
 claim_type = "speculative"
 editorial_pass = "2026-05"
 article_type = "explainer"

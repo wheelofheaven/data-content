@@ -6,6 +6,7 @@ date = 2026-07-06
 draft = false
 
 [extra]
+card_summary = "Paul Wallis’s Eden books and their route from biblical interpretation toward ideas shared with the Raëlian canon."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0022", "woh-claim-0042"]
 core_versions = { woh-claim-0022 = "0.1.0", woh-claim-0042 = "0.1.0" }

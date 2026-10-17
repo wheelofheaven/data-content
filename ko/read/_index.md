@@ -1,6 +1,6 @@
 +++
 title = "읽기"
-description = "Wheel of Heaven에 대한 간단한 안내와 자료에 이르는 세 가지 길: 열두 시대로 나뉜 책, 용어와 인물을 위한 위키, 그리고 코퍼스가 읽는 원전 텍스트."
+description = "Wheel of Heaven의 가설을 통해 고대 문헌을 살펴보세요. 타임라인을 따라 읽거나, 위키에서 개념을 찾거나, 도서관에서 원전을 읽을 수 있습니다."
 template = "read.html"
 sort_by = "weight"
 render = true
@@ -8,7 +8,7 @@ render = true
 [extra]
 claim_type = "direct"
 editorial_pass = "2026-05"
-lede = "Wheel of Heaven은 라엘리안, 성서, 그리고 여러 문화권을 가로지르는 고대 텍스트들을 세차(歲差) 시계를 통해 읽으며, 그 텍스트들에 등장하는 신들이 다른 곳에서 온 작지만 진보한 인간 문명이었다는 작업 가설에 기반합니다. 아래에서 길을 하나 고르거나, 먼저 안내문을 읽어 보십시오."
+lede = "Wheel of Heaven의 가설을 통해 고대 문헌을 살펴보세요. 타임라인을 따라 읽거나, 위키에서 개념을 찾거나, 도서관에서 원전을 읽을 수 있습니다."
 +++
 
 ## Wheel of Heaven이란 무엇인가
@@ -39,7 +39,7 @@ Wheel of Heaven은 오래된 이야기에 대한 긴 읽기입니다 — 인류�
 주장 역시 신중함을 지킵니다. 비판적 자료는 그 자체의 목소리로
 제시됩니다.
 
-모든 페이지에는 그 주된 주장을 **직접(direct)**, **추론(inferred)**,
+모든 페이지에는 그 주된 주장을 **직접(direct)**, **틀(framework)**, **추론(inferred)**,
 또는 **추정(speculative)**으로 분류하는 작은 배지가 붙어 있습니다 —
 독자가 어떤 종류의 진술을 읽고 있는지에 대한 정직함입니다.
 

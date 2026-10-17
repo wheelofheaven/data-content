@@ -6,6 +6,7 @@ date = 2026-07-14
 draft = false
 
 [extra]
+card_summary = "The canon’s description of Raëlism as an atheistic “religion of religions,” considered alongside fifty years of scholarship."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0020", "woh-claim-0027"]
 core_versions = { woh-claim-0020 = "0.1.0", woh-claim-0027 = "0.1.0" }

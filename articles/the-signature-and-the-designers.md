@@ -6,6 +6,7 @@ date = 2026-09-01
 draft = false
 
 [extra]
+card_summary = "Stephen Meyer’s design argument compared with the Raëlian account of physical designers who were themselves created."
 claim_type = "speculative"
 editorial_pass = "2026-05"
 core_claim_ids = ["woh-claim-0036", "woh-claim-0030", "woh-claim-0071"]

@@ -6,6 +6,7 @@ date = 2026-07-09
 draft = false
 
 [extra]
+card_summary = "Mauro Biglino’s translation work and the literal reading of the Hebrew Bible that shaped his later books."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0042"]
 core_versions = { woh-claim-0042 = "0.1.0" }

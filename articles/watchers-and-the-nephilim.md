@@ -6,6 +6,7 @@ date = 2026-07-18
 draft = false
 
 [extra]
+card_summary = "How Genesis and 1 Enoch distinguish the Watchers from the Nephilim: the fathers and their offspring."
 claim_type = "framework"
 core_claim_ids = ["woh-claim-0012"]
 core_versions = { woh-claim-0012 = "0.1.0" }

@@ -6,6 +6,7 @@ date = 2026-08-15
 draft = false
 
 [extra]
+card_summary = "Greek borrowing from Mesopotamia: the scholarly evidence, its limits, and its place in the Wheel of Heaven interpretation."
 claim_type = "framework"
 editorial_pass = "2026-05"
 article_type = "explainer"
