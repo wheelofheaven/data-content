@@ -18,7 +18,7 @@ references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶2–6: the craft and the being; ¶44: the charge; ¶46: why Vorilhon; ¶53: 'We are men like you'); Chapter 5 (¶54: Buddhism, Islam, the Mormons; ¶57: the infinite in both directions; ¶66: the name Raël); Chapter 6 (¶3–17: geniocracy, humanitarianism, world government; ¶16: the single language and currency; ¶21–25: the embassy and the conditional return; ¶29: 'the Raëlian Movement'); Chapter 7 (¶24: 'Our only religion is human genius'; ¶31: the council of the eternals; ¶33: the name Elohim)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2 (¶9–15: the 7 October 1975 journey; ¶30–34: neither god nor soul, the infinity argument; ¶50: Yahweh president of the council; ¶62–64: the meal of the forty; ¶104: the embassy in Israel; ¶105: 'the religion of religions… an atheistic religion'; ¶106–109: the Koran cited); Chapter 3 (¶113: sensual meditation; ¶225–229: the four appeals; ¶257–260: 'the last of the line of the prophets')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶79: the atheist-religion self-definition); Chapter 2 (¶89–99: the paternity revelation and its rider); Chapter 3 (¶27–38: religion from religare; ¶34: Joseph Smith among the prophets)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶70: the atheist-religion self-definition); Chapter 2 (¶85–93: the paternity revelation and its rider); Chapter 3 (¶22–32: religion from religare; ¶27: Joseph Smith among the prophets)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages" },
 
     # — Other primary Raëlian works —
@@ -34,7 +34,7 @@ references = [
     { id = "divine-signposts", locator = "Deguchi Onisaburō's doctrinal statement of early Oomoto" },
     { id = "the-collection-of-divine-messages-of-cai-dai", locator = "Thánh Ngôn Hiệp Tuyển, Volume One — WoH Translation ¶2 (the Jade Emperor styled Cao Đài); ¶69 ('Now am I called Cao Đài'); ¶73 (the Third Universal Amnesty)" },
     { id = "the-qur-an", locator = "Suras 21:1–5 (the poet-seer mockery, quoted back by Yahweh at ETTMTTP 2:106–109), 54:1, 56:15–24 — engaged via the quran-woh translation" },
-    { id = "book-of-mormon", locator = "the American precedent of a new scripture delivered to a named modern man — named in the canon at TBWTT 5:54 and LWTE 3:34" },
+    { id = "book-of-mormon", locator = "the American precedent of a new scripture delivered to a named modern man — named in the canon at TBWTT 5:54 and LWTE 3:27" },
 
     # — The scholarship of categorization —
     { id = "aliens-adored", locator = "pp. 30 ('a new fundamentalist, apocalyptic Abrahamic religion'), 31–36 (biography and first encounter), 49 ('a kind of religious genius'), 56–64 (structure, festivals, finances), 77–79 (the Stark audit), 98–100 (millenarian mechanics; 'uncompromisingly empirical'), 117–122 (demographics), 157–176 (the anticult wars), 177–194 (Clonaid), 195–203 (the postmodern verdict)" },
@@ -325,7 +325,7 @@ footnotes = [
 세 번째 책이 그 상승을 완성한다. *외계인들을 환영하자*(Let's Welcome the
 Extraterrestrials, 1979)에서, 야훼는 그 사자의 친자(親子)를 밝힌다.
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=89) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=85) %}
 당신이 아버지로 여긴 그 사람은 당신의 진짜 아버지가 아니었습니다. 히로시마
 폭발 이후, 우리는 지구에 새 사자를 보낼 때가 왔다고 결정했습니다. 그는
 마지막 예언자이되, 인류에게 믿기를이 아니라 이해하기를 청하는 첫 번째
@@ -334,7 +334,7 @@ Extraterrestrials, 1979)에서, 야훼는 그 사자의 친자(親子)를 밝힌
 어머니에게 했던 것처럼 수정되었습니다.
 {% end %}
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=92) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=87) %}
 당신의 진짜 아버지는 예수의 아버지이기도 하니, 그것이 당신들을 형제로
 만듭니다. 당신은 지금 당신의 아버지를 바라보고 있습니다. 당신의 양아버지는
 요셉과 같아, 당신이 스스로를 건사할 수 있을 때까지 당신과 당신의 어머니를
@@ -345,7 +345,7 @@ Extraterrestrials, 1979)에서, 야훼는 그 사자의 친자(親子)를 밝힌
 걸린 궤적이, 문고본 여섯 해로 달렸다. 두 가지가 그 상승이 이야기의 전부가
 되지 않게 막는다. 첫째는 같은 장이 붙이는 단서로, 정경에서 가장 많이
 인용되는 자기 제한의 대목이다. "중요한 것은 사자가 아니라 메시지 자체이다…
-내 손가락을 보지 말고, 오히려 그것이 가리키는 방향을 보라"(LWTE 2:96–99).
+내 손가락을 보지 말고, 오히려 그것이 가리키는 방향을 보라"(LWTE 2:91–93).
 둘째는 그 친자 대목 자체 안의 구절이다 — *인류에게 믿기를이 아니라
 이해하기를 청하는 첫 번째 예언자* — 이니, 이것은 정경 자신의 인식론을 한
 줄로 담은 것이며, 그 운동의 분류가 아들 됨 이야기가 보통 놓이는 그 선반에서
@@ -407,7 +407,7 @@ Extraterrestrials, 1979)에서, 야훼는 그 사자의 친자(親子)를 밝힌
 그 자기 정의는 세 번째 책에서 가장 신중하게 다듬어지며, 이 말뭉치가 자체
 {% wiki(slug="religion") %}항목{% end %}을 둔 어원을 관통해 달린다.
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=32) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=25) %}
 그리하여 라엘리안 운동이 하나의 종교임이 분명해집니다. 그것은 인류의
 창조자들을 그들의 피조물과 이어 주니, 비록 그것이 실은 무신론적 종교, 곧
 신의 존재를 믿지 않는다는 의미에서의 무신론적 종교일지라도 그러합니다 —
@@ -419,10 +419,10 @@ Extraterrestrials, 1979)에서, 야훼는 그 사자의 친자(親子)를 밝힌
 원시적 단계의 우연으로 강등된 채 유지되는 창조자와 피조물 사이의 유지된
 연결로서의 종교이다. 같은 장은 그 연결이 관통해 달린 예언자들을 거명하며 —
 "예수… 모세, 붓다, 무함마드, 조지프 스미스, 그리고 다른 모든 위대한
-예언자들"(LWTE 3:34), 나머지와 똑같이 태연하게 포함된 1830년 미국 예언자 —
+예언자들"(LWTE 3:27), 나머지와 똑같이 태연하게 포함된 1830년 미국 예언자 —
 같은 책의 첫 장은 그 운동의 교리문답으로 쓰일 법한 두 문장으로 그 체계
 전체를 압축한다.
-{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=79) %}"'신'은 없으나 엘로힘은 있다… 죽음 뒤 몸에서 날아가는 자율적 영혼은 없으나, 영원한 생명에의 접근을 허하는 유전 암호는 있다"{% end %}.
+{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=70) %}"'신'은 없으나 엘로힘은 있다… 죽음 뒤 몸에서 날아가는 자율적 영혼은 없으나, 영원한 생명에의 접근을 허하는 유전 암호는 있다"{% end %}.
 
 이 자료를 어느 학자 못지않게 면밀히 읽은 크리시데스는, 이 글이 그 운동
 전체의 분석적 열쇠로 여기는 한 문장으로 그것이 함축하는 범주를 정식화했다.
@@ -486,7 +486,7 @@ Extraterrestrials, 1979)에서, 야훼는 그 사자의 친자(親子)를 밝힌
 밖의 것은 거의 알려 주지 않는다.
 
 **무신론적 종교.** 에믹이며, 정확하다. 정경이 그것을 단언하고(ETTMTTP
-2:105, LWTE 3:32), 학문이 그것을 승인하며, 가장 가까운 비교는 그 운동
+2:105, LWTE 3:25), 학문이 그것을 승인하며, 가장 가까운 비교는 그 운동
 자신의 문헌이 손 뻗는 그것이다. 상좌부 불교, 창조신 없는 구원론이다. 그
 이름표의 한계는 그것이 하나의 부재를 이름 붙인다는 것이다. "무신론적 종교"는
 라엘리안 운동이 무엇을 제거했는지를 말해 준다. 그것은 그 종교가 무엇으로

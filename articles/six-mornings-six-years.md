@@ -19,7 +19,7 @@ references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶44: the publication instruction; ¶47: 'and even before'; ¶51–53: the deferred distance and the deflected name); Chapter 2 (¶3: corpus gating; ¶92: the departure colors); Chapter 5 (¶4: the twenty-two thousand years; ¶52–53: the parasang distances and the optical window); Chapter 6 (¶26: the no-proof doctrine; ¶29: the movement's name); Chapter 7 (¶16: 'six days in a row'; ¶30–56: eternals, council, and the president's twenty-five thousand years; ¶68: the residence)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 1 (¶63: the volcano correction); Chapter 2 (¶11: the trust-gate; ¶22: the memory implant; ¶23: the rectified passage; ¶43: the near-Earth base; ¶50: 'a planet entire' and the name Yahweh; ¶104: 'a revelation you can make from now on'; ¶131–132: the return itinerary and the writing scene); Chapter 3 (¶172: the calendar; ¶193 and ¶216: the two-planet distinction and its one lapse)" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶1–9: the FAQ frame, 'psychology', and the sanctioned lie; ¶24–27: the light-year defense); Chapter 2 (¶1 and ¶95: the embargo; ¶51–74: the temptation; ¶89–92: the filiation; ¶134: the twenty-four Eternals; ¶208: 666 × 20); Chapter 3 (¶82–88: the closing recruitment apparatus)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶1–12: the FAQ frame, 'psychology', and the sanctioned lie; ¶26–29: the light-year defense); Chapter 2 (¶1–2 and ¶90: the embargo; ¶58–78: the temptation; ¶85–88: the filiation; ¶128: the twenty-four Eternals; ¶208: 666 × 20); Chapter 3 (¶82–88: the closing recruitment apparatus)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the edition-state this article examines" },
     { id = "dhorme-bible", locator = "the French Bible on the witness's knees during the December 1973 sessions; its transliterated divine names survive in the canon's quotations" },
     { id = "rnkjv", locator = "the principal English Bible of the 2005 omnibus; where it diverges from Dhorme, the two text-traditions of the canon diverge" },
@@ -48,7 +48,7 @@ footnotes = [
     { content = "This edition prints the dry-bones citation as 'Ezekiel, XXVII, 3, 7-8, 10' (ETTMTTP 2:72) where the passage quoted is Ezekiel 37 — a Roman-numeral X lost somewhere in transmission. A copying error inside a book about copying errors: the kind of small, dateable corruption a critical apparatus exists to record." },
     { content = "A translation-variant caveat: the twenty-two thousand of TBWTT 5:4 could in principle be an artifact of one edition's rendering rather than the original figure. The project has not yet collated the French printings on this verse. Until it does, the reading stands as the received text's one unmanaged number — and collating it is among the first questions the apparatus this article calls for would settle." },
     { content = "The six-day count (TBWTT 7:16, 7:76) does not map cleanly onto the seven chapters: chapter 4 has a departure formula but no arrival, chapter 3 an arrival but no departure, chapter 7 neither. One chapter-pair must share a session for the count to hold, and the text does not say which. The day-structure of the founding week is, strictly, underdetermined by the founding document." },
-    { content = "TBWTT 1:47 dates the decision to choose a messenger 'after the first atomic explosion, which took place in 1945' — which, read precisely, is Trinity, 16 July 1945. LWTE 2:75 retells the same decision as following 'the first atomic explosion at Hiroshima... August 6th 1945.' The anchor event drifts from the first detonation to the first use in war; the year holds; the movement's calendar (6 August, year 1) follows the Hiroshima reading." },
+    { content = "TBWTT 1:47 dates the decision to choose a messenger 'after the first atomic explosion, which took place in 1945' — which, read precisely, is Trinity, 16 July 1945. LWTE 2:79 retells the same decision as following 'the first atomic explosion at Hiroshima... August 6th 1945.' The anchor event drifts from the first detonation to the first use in war; the year holds; the movement's calendar (6 August, year 1) follows the Hiroshima reading." },
 ]
 +++
 
@@ -192,7 +192,7 @@ conversion testimonials by followers, one of them datelined "an 33
 après Raël." The speaker hierarchy has inverted. In 1973 Yahweh spoke
 and Raël transcribed; by 1979 Yahweh speaks only inside frames Raël
 supplies ("I, Yahweh, through the words of my prophet Rael,"
-{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}LWTE 2:101{% end %}),
+{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=95) %}LWTE 2:95{% end %}),
 Raël legislates in his own voice, and the laity have entered the text.
 The last gesture of the last canonical book is a postal address in
 Geneva and an invitation to write for the transmission of one's
@@ -365,7 +365,7 @@ back so hard that it places the no-proof rule in the mouth of the
 adversary, as mockery: "These same people will not even give you proofs
 of their existence to help you to convince your brothers, nor any
 financial aid"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=62) %}LWTE 2:62{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=66) %}LWTE 2:66{% end %}).
 Satan's taunt and Yahweh's policy are the same sentence with the
 valence flipped, and the third book knows it: the lack of evidence has
 become the cost of loyalty, priced by the opposition.
@@ -378,10 +378,10 @@ already-published 1975 voyage two scenes the 1975 book does not contain
 invitation to found a hoax; and the filiation, in which the speaker
 switches from *vous* to *tu* and tells Raël "you are my son and I am
 your father"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=92) %}LWTE 2:92{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=88) %}LWTE 2:88{% end %}).
 Both arrive under an embargo announced only at its expiry: "Yahweh
 asked me not to reveal this parental tie until three years had passed"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=95) %}LWTE 2:95{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=90) %}LWTE 2:90{% end %}).
 The device is elegant because it is unfalsifiable and self-sealing —
 any future addition can be a past secret — and because the insertion
 point is narratively legal: book 2 had left hours of the visit
@@ -401,10 +401,10 @@ When book 1's flat "you could not live there" has to coexist with the
 voyage book 2 narrates, the explanation is pedagogy: the refusal was
 "just as people sometimes tell their children that if they drank
 alcohol they would stop growing"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=9) %}LWTE 1:9{% end %})
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=12) %}LWTE 1:12{% end %})
 — the third book's FAQ compresses its whole hermeneutic into one word,
 "psychology"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=4) %}LWTE 1:4{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=5) %}LWTE 1:5{% end %}).
 And when whole scenes are missing from a published account, the answer
 is embargo. Scribe, pedagogy, embargo: three devices, one invariant.
 The error is never the source's. Redaction criticism was invented to
@@ -468,7 +468,7 @@ father who was "it seems, a Jewish refugee"
 — and detonates in the third, where the filiation scene quotes it back
 *with a page citation* ("Refer to pg. 8 of The Book Which Tells The
 Truth,"
-{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=75) %}LWTE 2:75{% end %})
+{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=79) %}LWTE 2:79{% end %})
 before resolving it: the insemination aboard a craft, the memory wipe,
 the foster father chosen from a different religion than the mother's.
 The three data points, published four and six years apart, dovetail —
@@ -564,7 +564,7 @@ Twenty-two thousand appears once and is never used again. Book 2 dates
 the landing at twenty-five thousand; and the third book, answering an
 objection, mis-cites the first — "In the first book on page 13, you
 wrote that the Elohim had created the original continent 25,000 years
-ago" ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=31) %}LWTE 1:31{% end %})
+ago" ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=30) %}LWTE 1:30{% end %})
 — attributing to it the round figure that won. Taken strictly, the
 received corpus has the Elohim landing three thousand years before they
 decided to come.{{ footnote(id="4") }} This is precisely the failure
@@ -584,7 +584,7 @@ eternals" on their planet
 — maintained across the gap. Then the third book, decoding the throne
 room of Revelation 4, has Yahweh say: "around me were sitting 24 other
 Eternals representing the Council of the Eternals"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=134) %}LWTE 2:134{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=128) %}LWTE 2:128{% end %}).
 Revelation's twenty-four elders have imposed their headcount on a body
 that had numbered seven hundred for six years; the participle
 "representing" is the only escape hatch, and nothing in the text opens
@@ -712,7 +712,7 @@ planet "a little less than a light-year" away sits inside empty space
 by every survey since; the third book meets the objection with a
 member-supplied hypothesis, rather than a revelation, about light
 moving in "a pronounced curve"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=26) %}LWTE 1:26{% end %}),
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=27) %}LWTE 1:27{% end %}),
 offered with a hedge the canon rarely uses: "That is a possibility."
 The Zygon critique reads the whole pattern as parasitic on science's
 prestige while exempt from its discipline. A fair audit must record

@@ -16,7 +16,7 @@ summary = "En une seule phrase du second message raélien, Yahvé demande à Ra�
 keywords = ["morphologie civilisationnelle", "biologie civilisationnelle", "macrobiologie", "l'humanité comme organisme", "macro-histoire", "Guns Germs and Steel", "expériences naturelles de l'histoire", "Spengler", "Toynbee", "Tainter", "effondrement", "lois d'échelle", "noosphère", "Teilhard", "Vernadsky", "compétition cosmique", "saṃsāra", "Âge d'or", "hypothèse Élohim", "Grand Filtre"]
 references = [
     # — The canon passages under discussion —
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶104–111: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶105: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶103, 204: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; ¶71: the Infinite indifferent, natural selection 'at all levels')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶97–103: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶98: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶96, 205: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; Chapter 1, ¶65: the Infinite indifferent, natural selection 'at all levels')" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'The Second Encounter' (¶23: humanity at 'a turning point of its history,' the golden age of interplanetary civilization vs. self-destruction; ¶24: Buddhism reread — humanity as a whole must resist the 'demons,' the svastika as the cycle-symbol, paradise vs. the hell of a return to the primitive stage; ¶25: 'a natural selection, on the cosmic scale, of the species capable of escaping their planet')" },
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (¶2: the Elohim's own civilization at 'a technical and scientific level comparable to the one you will soon attain'); Chapter 4 (¶61: planets die, humanity must reach a level sufficient to move worlds or re-create adapted life); Chapter 5 (¶65: the offer of 'political and humanitarian baggage' before scientific inheritance); Chapter 7 (¶¶6, 23: self-destruction, and the Elohim's fear of finding no civilization as advanced as their own)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition collecting all three messages; the parable of the sower read as multiple creations, the cosmic competition of humanities, and the inheritance" },
@@ -93,7 +93,7 @@ exposant comment les Élohim peuvent prévoir l'avenir d'une civilisation
 qu'ils ne peuvent contrôler, Yahvé demande à Raël de garder à l'esprit une
 seule image :
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=108) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}
 Il en va exactement de même pour l'humanité, en considérant chaque humain
 comme une cellule du grand être en gestation, c'est-à-dire l'Humanité.
 {% end %}
@@ -106,7 +106,7 @@ discipline plutôt qu'une image de dévotion, c'est la phrase que Yahvé place
 juste à côté : que *parce que* l'humanité est un tel organisme, son avenir
 peut être prédit comme un embryologiste prédit celui d'un fœtus.
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=106) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=99) %}
 C'est pourquoi, bien que nous ne puissions prédire l'avenir des individus,
 nous pouvons néanmoins prédire ce qui devrait normalement advenir à un
 organisme vivant durant la période de gestation, ou à une Humanité au cours
@@ -504,7 +504,7 @@ distribution de laquelle des deux*. Ce n'est pas de la spéculation empilée sur
 le canon ; c'est ce que le canon affirme explicitement que les Élohim peuvent
 faire, et pourquoi :
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=105) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=98) %}
 De la même manière, nous qui avons l'habitude de créer la vie sur une infinité
 de planètes, savons ce qui advient à une Humanité qui a atteint votre niveau
 de technologie sans avoir atteint un niveau de sagesse équivalent.
@@ -603,7 +603,7 @@ ciel. Là où le canon diffère, c'est en refusant de faire du filtre un mur de
 pur hasard. Il en fait un *test de maturité* — et, surtout, il le rend
 franchissable, quoique de justesse :
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=103) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=96) %}
 Il n'y a, malheureusement, qu'une chance sur cent que votre Humanité ne
 s'autodétruise pas, et tout Raélien doit agir comme si l'Humanité était assez
 sage pour comprendre et saisir cette infime chance d'échapper au cataclysme
@@ -681,7 +681,7 @@ une morphologie civilisationnelle peut décrire l'organisme-espèce tout en
 insistant, comme le canon insiste de fait, sur le fait que sa finalité est
 servie par l'épanouissement des cellules, non par leur dépense. Le canon est
 catégorique sur ce point précis : l'Infini est « infiniment indifférent » à
-nous ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=71) %}LWTE 1:71{% end %}),
+nous ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=65) %}LWTE 1:65{% end %}),
 ce qui signifie qu'aucun corps cosmique n'a droit à notre sacrifice ; et la vie
 de l'individu « n'a que l'importance que nous lui donnons », une valeur
 assignée de l'intérieur, non extraite d'en haut. L'organisme que ce projet

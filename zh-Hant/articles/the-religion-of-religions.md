@@ -18,7 +18,7 @@ references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶2–6: the craft and the being; ¶44: the charge; ¶46: why Vorilhon; ¶53: 'We are men like you'); Chapter 5 (¶54: Buddhism, Islam, the Mormons; ¶57: the infinite in both directions; ¶66: the name Raël); Chapter 6 (¶3–17: geniocracy, humanitarianism, world government; ¶16: the single language and currency; ¶21–25: the embassy and the conditional return; ¶29: 'the Raëlian Movement'); Chapter 7 (¶24: 'Our only religion is human genius'; ¶31: the council of the eternals; ¶33: the name Elohim)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2 (¶9–15: the 7 October 1975 journey; ¶30–34: neither god nor soul, the infinity argument; ¶50: Yahweh president of the council; ¶62–64: the meal of the forty; ¶104: the embassy in Israel; ¶105: 'the religion of religions… an atheistic religion'; ¶106–109: the Koran cited); Chapter 3 (¶113: sensual meditation; ¶225–229: the four appeals; ¶257–260: 'the last of the line of the prophets')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶79: the atheist-religion self-definition); Chapter 2 (¶89–99: the paternity revelation and its rider); Chapter 3 (¶27–38: religion from religare; ¶34: Joseph Smith among the prophets)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶70: the atheist-religion self-definition); Chapter 2 (¶85–93: the paternity revelation and its rider); Chapter 3 (¶22–32: religion from religare; ¶27: Joseph Smith among the prophets)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages" },
 
     # — Other primary Raëlian works —
@@ -34,7 +34,7 @@ references = [
     { id = "divine-signposts", locator = "Deguchi Onisaburō's doctrinal statement of early Oomoto" },
     { id = "the-collection-of-divine-messages-of-cai-dai", locator = "Thánh Ngôn Hiệp Tuyển, Volume One — WoH Translation ¶2 (the Jade Emperor styled Cao Đài); ¶69 ('Now am I called Cao Đài'); ¶73 (the Third Universal Amnesty)" },
     { id = "the-qur-an", locator = "Suras 21:1–5 (the poet-seer mockery, quoted back by Yahweh at ETTMTTP 2:106–109), 54:1, 56:15–24 — engaged via the quran-woh translation" },
-    { id = "book-of-mormon", locator = "the American precedent of a new scripture delivered to a named modern man — named in the canon at TBWTT 5:54 and LWTE 3:34" },
+    { id = "book-of-mormon", locator = "the American precedent of a new scripture delivered to a named modern man — named in the canon at TBWTT 5:54 and LWTE 3:27" },
 
     # — The scholarship of categorization —
     { id = "aliens-adored", locator = "pp. 30 ('a new fundamentalist, apocalyptic Abrahamic religion'), 31–36 (biography and first encounter), 49 ('a kind of religious genius'), 56–64 (structure, festivals, finances), 77–79 (the Stark audit), 98–100 (millenarian mechanics; 'uncompromisingly empirical'), 117–122 (demographics), 157–176 (the anticult wars), 177–194 (Clonaid), 195–203 (the postmodern verdict)" },
@@ -279,7 +279,7 @@ footnotes = [
 第三本書完成了這番升級。在*《歡迎外星人》*（1979）裡，耶和華揭示了信使的
 父系身世：
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=89) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=85) %}
 你一向視為父親的那個人，並不是你真正的父親。廣島的爆炸之後，我們決定，
 時候到了，該向地球差遣一位新的信使。他將是最後一位先知，卻是第一位不求
 人們相信、而求人們理解地向人類發言的先知。於是我們揀選了一位女子，正如
@@ -287,7 +287,7 @@ footnotes = [
 的母親所做的那樣受了孕。
 {% end %}
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=92) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=87) %}
 你真正的父親也是耶穌的父親，這使你們成了兄弟。你此刻正望著你的父親。你的
 養父就像約瑟，他要照顧你和你的母親，直到你能自食其力的那一天。
 {% end %}
@@ -295,7 +295,7 @@ footnotes = [
 信使、繼而先知、繼而聖子——基督教花了三個世紀才將之正式確立的那條軌跡，
 在六年的平裝書裡跑完了。有兩件事使這番升級沒有成為故事的全部。第一是同一
 章所附上的那則但書，即正典最被引用的一段自我設限：「重要的不是信使，而是
-訊息本身……不要看我的手指，而要看它所指的方向」（LWTE 2:96–99）。第二是
+訊息本身……不要看我的手指，而要看它所指的方向」（LWTE 2:91–93）。第二是
 那段父系身世文字內部的那句話——*第一位不求人們相信、而求人們理解地向人類
 發言的先知*——這正是正典自己的認識論，一句話道盡，也是為何運動的分類老是
 從那個聖子故事通常所歸屬的架格上滑落下來的緣由。
@@ -348,7 +348,7 @@ footnotes = [
 這一自我界定在第三本書裡得到了最細緻的推敲，而它貫穿於一個本文集自有其
 {% wiki(slug="religion") %}條目{% end %}的詞源：
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=32) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=25) %}
 於是就清楚了，雷爾運動是一種宗教；它把人類的創造者與其創造物繫連起來，
 即便它事實上是一種無神論的宗教，就它不相信一位神的存在這一意義而言——
 無神論（atheist）源自希臘語 atheos，意為「否認任何形式神性之存在」。
@@ -356,10 +356,9 @@ footnotes = [
 
 *Religare*，繫回：宗教即創造者與被造者之間那條被維持著的連結，而對超自然
 的信仰則被降格為原始階段的一個偶然。同一章點名了那條連結所貫穿的先知們
-——「耶穌……摩西、佛陀、穆罕默德、約瑟·斯密，以及一切別的偉大先知」（LWTE
-3:34），那位 1830 年的美國先知被像其餘所有人一樣隨口納入——而同一本書的
+——「耶穌……摩西、佛陀、穆罕默德、約瑟·斯密，以及一切別的偉大先知」（LWTE 3:27），那位 1830 年的美國先知被像其餘所有人一樣隨口納入——而同一本書的
 第一章則把整套體系壓縮進兩個可充作運動教義問答的句子裡：
-{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=79) %}「沒有『神』，但有耶洛因……沒有死後從身體飛出的自主靈魂，但有那使人得以通往永恆生命的基因密碼」{% end %}。
+{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=70) %}「沒有『神』，但有耶洛因……沒有死後從身體飛出的自主靈魂，但有那使人得以通往永恆生命的基因密碼」{% end %}。
 
 克里賽德斯把這套材料讀得和任何學者一樣仔細，他用一句本文視為理解整場運動
 之分析鑰匙的話，構想出了它所蘊含的那個範疇：「假設實情正是如此——諸神乃是
@@ -412,8 +411,7 @@ footnotes = [
 一如榮格在克里賽德斯所倚重的那本書中所論證的。它告訴你那是哪個世紀，而
 除此之外便所言無多。
 
-**無神論的宗教。** 局內的，而且精確。正典斷言了它（ETTMTTP 2:105、LWTE
-3:32），學術認可了它，而最接近的比較，正是運動自己的文獻所伸手去取的那個：
+**無神論的宗教。** 局內的，而且精確。正典斷言了它（ETTMTTP 2:105、LWTE 3:25），學術認可了它，而最接近的比較，正是運動自己的文獻所伸手去取的那個：
 上座部佛教，一套沒有創造之神的救贖論。這個標籤的侷限在於它命名的是一個
 缺席。「無神論的宗教」告訴你雷爾運動移除了什麼；它無法告訴你這個宗教是用
 什麼*造成*的——而它是用創世記、出埃及記、以西結書、福音書與啟示錄造成的。

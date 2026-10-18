@@ -16,7 +16,7 @@ summary = "En una sola frase del segundo mensaje raeliano, Yahvé pide a Raël q
 keywords = ["morfología civilizatoria", "biología civilizatoria", "macrobiología", "la humanidad como organismo", "macrohistoria", "Guns Germs and Steel", "experimentos naturales de la historia", "Spengler", "Toynbee", "Tainter", "colapso", "leyes de escalamiento", "noosfera", "Teilhard", "Vernadsky", "competencia cósmica", "samsara", "Edad de Oro", "hipótesis de los Elohim", "Gran Filtro"]
 references = [
     # — The canon passages under discussion —
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶104–111: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶105: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶103, 204: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; ¶71: the Infinite indifferent, natural selection 'at all levels')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶97–103: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶98: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶96, 205: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; Chapter 1, ¶65: the Infinite indifferent, natural selection 'at all levels')" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'The Second Encounter' (¶23: humanity at 'a turning point of its history,' the golden age of interplanetary civilization vs. self-destruction; ¶24: Buddhism reread — humanity as a whole must resist the 'demons,' the svastika as the cycle-symbol, paradise vs. the hell of a return to the primitive stage; ¶25: 'a natural selection, on the cosmic scale, of the species capable of escaping their planet')" },
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (¶2: the Elohim's own civilization at 'a technical and scientific level comparable to the one you will soon attain'); Chapter 4 (¶61: planets die, humanity must reach a level sufficient to move worlds or re-create adapted life); Chapter 5 (¶65: the offer of 'political and humanitarian baggage' before scientific inheritance); Chapter 7 (¶¶6, 23: self-destruction, and the Elohim's fear of finding no civilization as advanced as their own)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition collecting all three messages; the parable of the sower read as multiple creations, the cosmic competition of humanities, and the inheritance" },
@@ -89,7 +89,7 @@ El canon raeliano enuncia la premisa sin reservas. En el segundo mensaje, al
 exponer cómo pueden los Elohim prever el futuro de una civilización que no
 pueden controlar, Yahvé pide a Raël que retenga en la mente una sola imagen:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=108) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}
 Es exactamente lo mismo para la humanidad, considerando a cada ser humano como
 una célula del gran ser en gestación, es decir, la Humanidad.
 {% end %}
@@ -102,7 +102,7 @@ una disciplina, y no en una imagen devocional, es la frase que Yahvé coloca
 justo a su lado: que *porque* la humanidad es semejante organismo, su futuro
 puede predecirse del mismo modo que un embriólogo predice el de un feto.
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=106) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=99) %}
 Por eso, aunque no podamos predecir el futuro de los individuos, sí podemos
 predecir, en cambio, lo que normalmente debería sucederle a un organismo vivo
 durante el período de gestación o a una Humanidad en el curso de su desarrollo.
@@ -473,7 +473,7 @@ y en ese momento o bien madurará o bien se destruirá, y he aquí la distribuci
 de cuál de las dos*. Eso no es especulación amontonada sobre el canon; es lo que
 el canon afirma explícitamente que los Elohim pueden hacer, y por qué:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=105) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=98) %}
 Del mismo modo, nosotros, que estamos acostumbrados a crear vida en una infinidad
 de planetas, sabemos lo que le sucede a una Humanidad que ha alcanzado su nivel
 de tecnología sin haber alcanzado un nivel equivalente de sabiduría.
@@ -568,7 +568,7 @@ silencio del cielo. En lo que el canon difiere es en negarse a hacer del filtro
 un muro de puro azar. Lo hace una *prueba de madurez* —y, crucialmente, lo hace
 superable, aunque por muy poco—:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=103) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=96) %}
 No hay, por desgracia, más que una probabilidad entre cien de que su Humanidad no
 se autodestruya, y todo raeliano debe actuar como si la Humanidad fuera a ser lo
 bastante sabia para comprender y aferrar esta minúscula probabilidad de escapar
@@ -643,7 +643,7 @@ civilizatoria puede describir el organismo-especie a la vez que insiste, como de
 hecho insiste el canon, en que su propósito se sirve del florecimiento de las
 células, no de su gasto. El canon es enfático justo en este punto: el Infinito es
 «infinitamente indiferente» a nosotros
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=71) %}LWTE 1:71{% end %}),
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=65) %}LWTE 1:65{% end %}),
 lo que significa que a ningún cuerpo cósmico se le debe nuestro sacrificio; y la
 vida del individuo «solo tiene la importancia que le damos», un valor asignado
 desde dentro, no extraído desde arriba. El organismo que este proyecto describe

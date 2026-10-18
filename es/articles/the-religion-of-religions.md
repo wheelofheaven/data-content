@@ -18,7 +18,7 @@ references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶2–6: the craft and the being; ¶44: the charge; ¶46: why Vorilhon; ¶53: 'We are men like you'); Chapter 5 (¶54: Buddhism, Islam, the Mormons; ¶57: the infinite in both directions; ¶66: the name Raël); Chapter 6 (¶3–17: geniocracy, humanitarianism, world government; ¶16: the single language and currency; ¶21–25: the embassy and the conditional return; ¶29: 'the Raëlian Movement'); Chapter 7 (¶24: 'Our only religion is human genius'; ¶31: the council of the eternals; ¶33: the name Elohim)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2 (¶9–15: the 7 October 1975 journey; ¶30–34: neither god nor soul, the infinity argument; ¶50: Yahweh president of the council; ¶62–64: the meal of the forty; ¶104: the embassy in Israel; ¶105: 'the religion of religions… an atheistic religion'; ¶106–109: the Koran cited); Chapter 3 (¶113: sensual meditation; ¶225–229: the four appeals; ¶257–260: 'the last of the line of the prophets')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶79: the atheist-religion self-definition); Chapter 2 (¶89–99: the paternity revelation and its rider); Chapter 3 (¶27–38: religion from religare; ¶34: Joseph Smith among the prophets)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶70: the atheist-religion self-definition); Chapter 2 (¶85–93: the paternity revelation and its rider); Chapter 3 (¶22–32: religion from religare; ¶27: Joseph Smith among the prophets)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages" },
 
     # — Other primary Raëlian works —
@@ -34,7 +34,7 @@ references = [
     { id = "divine-signposts", locator = "Deguchi Onisaburō's doctrinal statement of early Oomoto" },
     { id = "the-collection-of-divine-messages-of-cai-dai", locator = "Thánh Ngôn Hiệp Tuyển, Volume One — WoH Translation ¶2 (the Jade Emperor styled Cao Đài); ¶69 ('Now am I called Cao Đài'); ¶73 (the Third Universal Amnesty)" },
     { id = "the-qur-an", locator = "Suras 21:1–5 (the poet-seer mockery, quoted back by Yahweh at ETTMTTP 2:106–109), 54:1, 56:15–24 — engaged via the quran-woh translation" },
-    { id = "book-of-mormon", locator = "the American precedent of a new scripture delivered to a named modern man — named in the canon at TBWTT 5:54 and LWTE 3:34" },
+    { id = "book-of-mormon", locator = "the American precedent of a new scripture delivered to a named modern man — named in the canon at TBWTT 5:54 and LWTE 3:27" },
 
     # — The scholarship of categorization —
     { id = "aliens-adored", locator = "pp. 30 ('a new fundamentalist, apocalyptic Abrahamic religion'), 31–36 (biography and first encounter), 49 ('a kind of religious genius'), 56–64 (structure, festivals, finances), 77–79 (the Stark audit), 98–100 (millenarian mechanics; 'uncompromisingly empirical'), 117–122 (demographics), 157–176 (the anticult wars), 177–194 (Clonaid), 195–203 (the postmodern verdict)" },
@@ -343,7 +343,7 @@ que sabe que el lector sí.
 El tercer libro completa la escalada. En *Acojamos a los extraterrestres* (1979),
 Yahvé revela la paternidad del mensajero:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=89) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=85) %}
 La persona a la que mirabas como tu padre no era tu verdadero padre. Después de la
 explosión de Hiroshima, decidimos que había llegado el momento de enviar un nuevo
 mensajero a la Tierra. Sería el último profeta, pero el primero en dirigirse a la
@@ -352,7 +352,7 @@ mujer, como habíamos hecho en tiempos de Jesús. Esta mujer fue llevada a bordo
 una de nuestras naves e inseminada como habíamos hecho con la madre de Jesús.
 {% end %}
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=92) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=87) %}
 Tu verdadero padre es también el padre de Jesús, y eso os hace hermanos. Estás en
 este momento mirando a tu padre. Tu padre adoptivo era como José, debía cuidar de
 ti y de tu madre hasta el momento en que pudieras valerte por ti mismo.
@@ -363,7 +363,7 @@ tres siglos formalizar, recorrida en seis años de libro de bolsillo—. Dos cos
 impiden que la escalada sea toda la historia. La primera es la matización que el
 mismo capítulo añade, en la pieza de autolimitación más citada del canon: «No es
 el mensajero lo importante, sino el mensaje mismo… No miréis mi dedo, sino más
-bien en la dirección que señala» (LWTE 2:96–99). La segunda es la frase que está
+bien en la dirección que señala» (LWTE 2:91–93). La segunda es la frase que está
 dentro del propio pasaje de la paternidad —*el primero en dirigirse a la humanidad
 pidiéndole que comprenda y no que crea*— que es la propia epistemología del canon
 en una sola línea, y la razón por la que la clasificación del movimiento no deja
@@ -430,7 +430,7 @@ La autodefinición se elabora con más cuidado en el tercer libro, y corre a tra
 de una etimología sobre la que este corpus tiene su propia
 {% wiki(slug="religion") %}entrada{% end %}:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=32) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=25) %}
 Así resulta claro que el Movimiento Raeliano es una religión; liga a los creadores
 de la Humanidad con su creación, aun cuando de hecho sea una religión atea, en el
 sentido de que no cree en la existencia de un Dios —ateo, del griego atheos, que
@@ -441,10 +441,10 @@ significa «que niega la existencia de toda forma de divinidad»—.
 y creados, con la creencia en lo sobrenatural rebajada a un accidente de la fase
 primitiva. El mismo capítulo nombra a los profetas por los que corrió el vínculo
 —«Jesús… Moisés, Buda, Mahoma, José Smith y todos los demás grandes profetas»
-(LWTE 3:34), incluido el profeta americano de 1830 con tanta despreocupación como
+(LWTE 3:27), incluido el profeta americano de 1830 con tanta despreocupación como
 el resto— y el primer capítulo del mismo libro comprime todo el sistema en dos
 frases que podrían servir de catecismo del movimiento:
-{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=79) %}«No hay "Dios", pero están los Elohim… no hay un alma autónoma que vuele fuera del cuerpo tras la muerte, pero está el código genético que permite el acceso a la vida eterna»{% end %}.
+{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=70) %}«No hay "Dios", pero están los Elohim… no hay un alma autónoma que vuele fuera del cuerpo tras la muerte, pero está el código genético que permite el acceso a la vida eterna»{% end %}.
 
 Chryssides, que ha leído este material con tanto cuidado como cualquier erudito,
 formuló la categoría que implica en una frase que este artículo considera la clave
@@ -515,7 +515,7 @@ equivocado—. El platillo es el *vehículo* de la revelación, en ambos sentido
 aquello en lo que llega lo numinoso después de 1947, como sostuvo Jung en el libro
 en el que Chryssides se apoya. Te dice el siglo, y poco más.
 
-**Religión atea.** Emic, y precisa. El canon lo afirma (ETTMTTP 2:105, LWTE 3:32),
+**Religión atea.** Emic, y precisa. El canon lo afirma (ETTMTTP 2:105, LWTE 3:25),
 la erudición lo ratifica, y la comparación más cercana es la que la propia
 literatura del movimiento busca: el budismo Theravada, una soteriología sin un dios
 creador. El límite de la etiqueta es que nombra una ausencia. «Religión atea» te

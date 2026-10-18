@@ -16,7 +16,7 @@ summary = "在第二则雷尔派讯息的一句话里，耶和华请雷尔把「
 keywords = ["文明形态学", "文明生物学", "宏观生物学", "作为生物体的人类", "宏观历史", "Guns Germs and Steel", "历史的自然实验", "Spengler", "Toynbee", "Tainter", "崩溃", "缩放律", "智慧圈", "Teilhard", "Vernadsky", "宇宙竞争", "轮回", "黄金时代", "耶洛因假说", "大过滤器"]
 references = [
     # — The canon passages under discussion —
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶104–111: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶105: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶103, 204: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; ¶71: the Infinite indifferent, natural selection 'at all levels')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶97–103: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶98: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶96, 205: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; Chapter 1, ¶65: the Infinite indifferent, natural selection 'at all levels')" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'The Second Encounter' (¶23: humanity at 'a turning point of its history,' the golden age of interplanetary civilization vs. self-destruction; ¶24: Buddhism reread — humanity as a whole must resist the 'demons,' the svastika as the cycle-symbol, paradise vs. the hell of a return to the primitive stage; ¶25: 'a natural selection, on the cosmic scale, of the species capable of escaping their planet')" },
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (¶2: the Elohim's own civilization at 'a technical and scientific level comparable to the one you will soon attain'); Chapter 4 (¶61: planets die, humanity must reach a level sufficient to move worlds or re-create adapted life); Chapter 5 (¶65: the offer of 'political and humanitarian baggage' before scientific inheritance); Chapter 7 (¶¶6, 23: self-destruction, and the Elohim's fear of finding no civilization as advanced as their own)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition collecting all three messages; the parable of the sower read as multiple creations, the cosmic competition of humanities, and the inheritance" },
@@ -66,14 +66,14 @@ footnotes = [
 
 雷尔派正典毫不含糊地陈述了这个前提。在第二则讯息中，耶和华在阐明耶洛因如何能预见一个他们无法控制的文明的未来时，请雷尔在心中把持住一幅单一的图景：
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=108) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}
 对人类而言，情况正是一模一样，只要把每一个人都看作那个孕育中的伟大存在——也就是人类——的一个细胞。
 {% end %}
 
 一个孕育中的存在——而且不是作为一种修辞：一个单一的、仍在成形中的生物体，你和我以及一切曾经活过的人都是它的组成细胞。{{ footnote(id="1") }}
 这个主张单凭自身便已足够惊人。使它成为一门学科的种子、而非一幅虔敬图像的，是耶和华紧挨著它放下的那句话：*正因为*人类是这样一个生物体，它的未来才能像胚胎学家预测胎儿的未来那样被预测。
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=106) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=99) %}
 正因如此，尽管我们无法预测个体的未来，我们却能够预测：在孕育期内，一个活的生物体、或一个处于其发育进程中的人类，通常理应发生什么。
 {% end %}
 
@@ -145,7 +145,7 @@ Geoffrey West 毕生测量生命体如何缩放——一只动物的心跳、寿
 
 第二条路我们无法走，但另一个存在可以走——而这正是正典悄然而激进的贡献。一个根本不在标本之内的文明：它立于外部，曾在许多世界上有意地、作为一次实验创造了人类生命，并目睹每一个都运行到它的结局。这样一个文明将恰好拥有胚胎学拥有、而历史所缺的那个数据集：*同一过程的众多实例，从外部被观测到完成*。它会有那条基线。它分得清孕育与疾病。它能够就一个新的人类说出：*这一个将在大约这个时代发展出原子，而在那一刻它要么成熟、要么自我毁灭，而这里是二者的分布*。那不是堆叠在正典之上的思辨；那正是正典明确主张耶洛因能够做到的事，以及其缘由：
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=105) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=98) %}
 同样地，我们这些习惯于在无数行星上创造生命的存在，知道一个已达到你们技术水平、却未达到相应智慧水平的人类会发生什么。
 {% end %}
 
@@ -173,7 +173,7 @@ Geoffrey West 毕生测量生命体如何缩放——一只动物的心跳、寿
 
 一位读主流科学的形态学家会立刻认出这一点，因为主流科学对它另有称呼：**大过滤器**，物理学家与天体生物学家为「一个本应充满文明的宇宙何以显得沉寂」所提出的答案——某种技术性物种一律无法通过的屏障，而在取得毁世之力的那一刻发生的自我毁灭，是首要的候选者。正典那宇宙尺度的自然选择，与天体生物学家的大过滤器，是同一个结构，只是从相反的两端抵达：一个出自一份声称对诸人类所作的普查，另一个出自天空那震耳欲聋的寂静。正典有别之处，在于它拒绝把那过滤器变成一堵纯然由机运构成的墙。它把它做成一场*成熟度的考验*——而且，至关重要地，它把它做成可以通过的，尽管勉强：
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=103) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=96) %}
 很不幸，你们的人类不自我毁灭的机会只有百分之一，而每一位雷尔派信徒都必须表现得仿佛人类会足够明智，能够理解并抓住这个逃脱最终大灾变、从而进入黄金时代的微小机会。
 {% end %}
 
@@ -189,7 +189,7 @@ Geoffrey West 毕生测量生命体如何缩放——一只动物的心跳、寿
 
 这一反对是正确的，而它不是放弃这门学科的理由，而是诚实地建造它的条件。三个区分守住了这条线。
 
-第一，*描述不是溶解*。说生物体有一个形状、一种新陈代谢、一个生命周期，是一个关于整体的主张；它并不允许任何关于可以对一个部分做什么的主张。生物学描述一具身体，却不因此断定身体可以吃掉它的细胞；一门文明形态学可以描述那个物种-生物体，同时坚持——一如正典事实上所坚持的——它的目的是由细胞的繁荣、而非它们的耗费所服务的。正典在恰恰这一点上态度鲜明：无限对我们「无限地漠然」（{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=71) %}LWTE 1:71{% end %}），这意味著没有任何宇宙身体配得上我们的牺牲；而个体的生命「只具有我们所赋予它的那份重要性」，一种自内部指派、而非从上方抽取的价值。本计划所描述的这个生物体，是*经由*它的细胞的觉醒——一次一个、自由地——而成熟的，恰与那种靠消耗细胞而成熟的极权身体相反。
+第一，*描述不是溶解*。说生物体有一个形状、一种新陈代谢、一个生命周期，是一个关于整体的主张；它并不允许任何关于可以对一个部分做什么的主张。生物学描述一具身体，却不因此断定身体可以吃掉它的细胞；一门文明形态学可以描述那个物种-生物体，同时坚持——一如正典事实上所坚持的——它的目的是由细胞的繁荣、而非它们的耗费所服务的。正典在恰恰这一点上态度鲜明：无限对我们「无限地漠然」（{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=65) %}LWTE 1:65{% end %}），这意味著没有任何宇宙身体配得上我们的牺牲；而个体的生命「只具有我们所赋予它的那份重要性」，一种自内部指派、而非从上方抽取的价值。本计划所描述的这个生物体，是*经由*它的细胞的觉醒——一次一个、自由地——而成熟的，恰与那种靠消耗细胞而成熟的极权身体相反。
 
 第二，*一个概率不是一个命运*。Popper 的火力瞄准的是历史决定论那些铁的法则。但正典的核心数字是百分之一的机会——一个概率，明确地可由我们的行为所推动，明确地要求「每一位雷尔派信徒都必须表现得仿佛」结局是敞开的，因为它确实敞开。那与斯宾格勒式的宿命论恰恰相反。一门以我们能够推动的一个概率为其主变量的科学，不是在预言命运；它是在做流行病学所做的事——当它告诉你一种疾病的胜算、以及如何改变它们时。
 

@@ -18,7 +18,7 @@ references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶2–6: the craft and the being; ¶44: the charge; ¶46: why Vorilhon; ¶53: 'We are men like you'); Chapter 5 (¶54: Buddhism, Islam, the Mormons; ¶57: the infinite in both directions; ¶66: the name Raël); Chapter 6 (¶3–17: geniocracy, humanitarianism, world government; ¶16: the single language and currency; ¶21–25: the embassy and the conditional return; ¶29: 'the Raëlian Movement'); Chapter 7 (¶24: 'Our only religion is human genius'; ¶31: the council of the eternals; ¶33: the name Elohim)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2 (¶9–15: the 7 October 1975 journey; ¶30–34: neither god nor soul, the infinity argument; ¶50: Yahweh president of the council; ¶62–64: the meal of the forty; ¶104: the embassy in Israel; ¶105: 'the religion of religions… an atheistic religion'; ¶106–109: the Koran cited); Chapter 3 (¶113: sensual meditation; ¶225–229: the four appeals; ¶257–260: 'the last of the line of the prophets')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶79: the atheist-religion self-definition); Chapter 2 (¶89–99: the paternity revelation and its rider); Chapter 3 (¶27–38: religion from religare; ¶34: Joseph Smith among the prophets)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶70: the atheist-religion self-definition); Chapter 2 (¶85–93: the paternity revelation and its rider); Chapter 3 (¶22–32: religion from religare; ¶27: Joseph Smith among the prophets)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages" },
 
     # — Other primary Raëlian works —
@@ -34,7 +34,7 @@ references = [
     { id = "divine-signposts", locator = "Deguchi Onisaburō's doctrinal statement of early Oomoto" },
     { id = "the-collection-of-divine-messages-of-cai-dai", locator = "Thánh Ngôn Hiệp Tuyển, Volume One — WoH Translation ¶2 (the Jade Emperor styled Cao Đài); ¶69 ('Now am I called Cao Đài'); ¶73 (the Third Universal Amnesty)" },
     { id = "the-qur-an", locator = "Suras 21:1–5 (the poet-seer mockery, quoted back by Yahweh at ETTMTTP 2:106–109), 54:1, 56:15–24 — engaged via the quran-woh translation" },
-    { id = "book-of-mormon", locator = "the American precedent of a new scripture delivered to a named modern man — named in the canon at TBWTT 5:54 and LWTE 3:34" },
+    { id = "book-of-mormon", locator = "the American precedent of a new scripture delivered to a named modern man — named in the canon at TBWTT 5:54 and LWTE 3:27" },
 
     # — The scholarship of categorization —
     { id = "aliens-adored", locator = "pp. 30 ('a new fundamentalist, apocalyptic Abrahamic religion'), 31–36 (biography and first encounter), 49 ('a kind of religious genius'), 56–64 (structure, festivals, finances), 77–79 (the Stark audit), 98–100 (millenarian mechanics; 'uncompromisingly empirical'), 117–122 (demographics), 157–176 (the anticult wars), 177–194 (Clonaid), 195–203 (the postmodern verdict)" },
@@ -327,7 +327,7 @@ R・ルイス）、「科学的創造説」（またもクリサイズ）、ポ�
 第三の書物が上昇を完成させる。*地球外生命体を歓迎しよう*（1979年）において、
 ヤハウェは使者の父性を明かす——
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=89) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=85) %}
 あなたが自分の父と見なしていた人物は、あなたの本当の父ではなかった。
 広島の爆発ののち、我々は、地上に新しい使者を送るべき時が来たと決めた。
 彼は最後の預言者となるが、しかし、信じるのではなく理解するよう人類に求めて
@@ -336,7 +336,7 @@ R・ルイス）、「科学的創造説」（またもクリサイズ）、ポ�
 に受胎させられた。
 {% end %}
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=92) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=87) %}
 あなたの本当の父はイエスの父でもあり、それがあなたたちを兄弟とするのである。
 あなたは今、自分の父を見つめている。あなたの育ての父はヨセフのようなもので
 あり、あなたが自らを養えるようになるまで、あなたとあなたの母の面倒を見る
@@ -347,7 +347,7 @@ R・ルイス）、「科学的創造説」（またもクリサイズ）、ポ�
 軌跡が、六年の文庫本の中で走らされる。二つのことが、この上昇を物語のすべて
 にすることを妨げている。第一は、同じ章がそれに付す但し書きであり、カノンの
 最も引用される自己限定の一片である。「重要なのは使者ではなく、メッセージ
-そのものである……私の指を見るのではなく、それが指し示す方向を見よ」（LWTE 2:96–99）。
+そのものである……私の指を見るのではなく、それが指し示す方向を見よ」（LWTE 2:91–93）。
 第二は、父性の一節そのものの内にある句である——*信じるのではなく理解する
 よう人類に求めて語りかける最初の者*——これはカノン自身の認識論を一行で述べた
 ものであり、そして運動の分類が、息子性の物語がふつう収まる棚から滑り落ちつづ
@@ -410,7 +410,7 @@ R・ルイス）、「科学的創造説」（またもクリサイズ）、ポ�
 本文集がそれ自身の{% wiki(slug="religion") %}項目{% end %}をもつ語源を通じて
 走ってゆく——
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=32) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=25) %}
 かくして、ラエリアン・ムーブメントが一つの宗教であることが明らかとなる。
 それは人類の創造者たちをその被造物と結びつける、たとえそれが実のところ、
 神の存在を信じないという意味において無神論の宗教であるとしても——無神論
@@ -422,9 +422,9 @@ R・ルイス）、「科学的創造説」（またもクリサイズ）、ポ�
 としての宗教であり、超自然的なものへの信仰は原始的な段階の偶発事へと格下げ
 される。同じ章がその結びつきが通ってきた預言者たちを名づける——「イエス……
 モーセ、仏、ムハンマド、ジョセフ・スミス、そして他のあらゆる偉大な預言者たち」
-（LWTE 3:34）、1830年のアメリカの預言者も他の面々と同じくらい何気なく含めら
+（LWTE 3:27）、1830年のアメリカの預言者も他の面々と同じくらい何気なく含めら
 れている——そして同じ書物の第一章は、この体系の全体を、運動の教理問答として
-役立ちうる二つの文へと圧縮する——{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=79) %}「『神』は存在しないが、エロヒムは存在する……死後に身体から飛び去る自律的な魂は存在しないが、永遠の生への到達を可能にする遺伝コードは存在する」{% end %}。
+役立ちうる二つの文へと圧縮する——{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=70) %}「『神』は存在しないが、エロヒムは存在する……死後に身体から飛び去る自律的な魂は存在しないが、永遠の生への到達を可能にする遺伝コードは存在する」{% end %}。
 
 クリサイズは、いかなる学者にも劣らず注意深くこの素材を読んできたが、それが
 含意する範疇を、この論考がこの運動全体の分析上の鍵とみなす一文において定式化
@@ -492,7 +492,7 @@ R・ルイス）、「科学的創造説」（またもクリサイズ）、ポ�
 のことはほとんど告げない。
 
 **無神論の宗教。**イーミックで、そして精確である。カノンがそれを主張し
-（ETTMTTP 2:105、LWTE 3:32）、学問がそれを追認し、そして最も近い比較対象は、
+（ETTMTTP 2:105、LWTE 3:25）、学問がそれを追認し、そして最も近い比較対象は、
 運動自身の文献が手を伸ばすものである。すなわち、創造神なき救済論、上座部仏教
 である。この呼び名の限界は、それが一つの不在を名指すことである。「無神論の
 宗教」はラエリアン・ムーブメントが何を取り除いたかをあなたに告げる。それは、

@@ -20,7 +20,7 @@ references = [
     # — The canon under comparison —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶14: the single original continent raised from the seabed, and 'all the continents which drifted apart fit together perfectly to form a single one'; ¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition); Chapter 2, 'The Flood' (¶58: the home planet's decision 'to destroy all life on Earth by sending nuclear missiles'; ¶64: the radioactivity monitored and removed before the survivors disembark)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'Neither God nor Soul' (¶¶31–34: the gigantic being, 'time is inversely proportional to the mass,' the centerless universe, 'nothing is lost, nothing is created'); Chapter 3, 'The Keys' (¶102: respecting nature 'as long as he is not capable of becoming himself a creator')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonials of Raelians': Marcel Terrusse, 'Raelism Through the Eyes of Science,' §2 'A New Hypothesis for the History of Humanity' (2005 English edition p. 331, digitization ¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶63: Infinity distinguished from the bearded God; ¶¶88–91: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶94: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonials of Raelians': Marcel Terrusse, 'Raelism Through the Eyes of Science,' §2 'A New Hypothesis for the History of Humanity' (2005 English edition p. 331, digitization ¶¶34–36: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶¶37–39: the petroleum ring as the burial's signature; ¶¶47–49: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the whole account of the Elohim's laboratory creation of terrestrial life" },
 
     # — The modern Intelligent Design movement —
@@ -191,7 +191,7 @@ footnotes = [
 
 正典把它抽掉了，而且是在邁爾寫作的半個世紀之前就抽掉了。當耶和華向{% wiki(slug="rael") %}雷爾{% end %}解釋實在的形狀時，他像邁爾陳述相反命題那樣平直地陳述：宇宙在空間裡沒有邊緣，在時間裡也沒有邊緣：
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=1, verse=103) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=1, verse=94) %}
 在時間中尋找宇宙的開端，就和尋找空間的開端一樣愚蠢。
 {% end %}
 
@@ -209,7 +209,7 @@ footnotes = [
 
 那就是正典的立場，在源頭材料裡被陳述得像一項自然史的事實那樣平靜：
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=1, verse=97) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=1, verse=89) %}
 耶洛因創造了我們，而來自另一顆行星的另一些人創造了他們。那麼是誰創造了耶洛因的創造者呢？
 {% end %}
 

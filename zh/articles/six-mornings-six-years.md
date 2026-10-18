@@ -18,7 +18,7 @@ references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶44: the publication instruction; ¶47: 'and even before'; ¶51–53: the deferred distance and the deflected name); Chapter 2 (¶3: corpus gating; ¶92: the departure colors); Chapter 5 (¶4: the twenty-two thousand years; ¶52–53: the parasang distances and the optical window); Chapter 6 (¶26: the no-proof doctrine; ¶29: the movement's name); Chapter 7 (¶16: 'six days in a row'; ¶30–56: eternals, council, and the president's twenty-five thousand years; ¶68: the residence)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 1 (¶63: the volcano correction); Chapter 2 (¶11: the trust-gate; ¶22: the memory implant; ¶23: the rectified passage; ¶43: the near-Earth base; ¶50: 'a planet entire' and the name Yahweh; ¶104: 'a revelation you can make from now on'; ¶131–132: the return itinerary and the writing scene); Chapter 3 (¶172: the calendar; ¶193 and ¶216: the two-planet distinction and its one lapse)" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶1–9: the FAQ frame, 'psychology', and the sanctioned lie; ¶24–27: the light-year defense); Chapter 2 (¶1 and ¶95: the embargo; ¶51–74: the temptation; ¶89–92: the filiation; ¶134: the twenty-four Eternals; ¶208: 666 × 20); Chapter 3 (¶82–88: the closing recruitment apparatus)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶1–12: the FAQ frame, 'psychology', and the sanctioned lie; ¶26–29: the light-year defense); Chapter 2 (¶1–2 and ¶90: the embargo; ¶58–78: the temptation; ¶85–88: the filiation; ¶128: the twenty-four Eternals; ¶208: 666 × 20); Chapter 3 (¶82–88: the closing recruitment apparatus)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the edition-state this article examines" },
     { id = "dhorme-bible", locator = "the French Bible on the witness's knees during the December 1973 sessions; its transliterated divine names survive in the canon's quotations" },
     { id = "rnkjv", locator = "the principal English Bible of the 2005 omnibus; where it diverges from Dhorme, the two text-traditions of the canon diverge" },
@@ -47,7 +47,7 @@ footnotes = [
     { content = "这个版本把那处枯骨引文印作「以西结书，XXVII，3，7-8，10」（ETTMTTP 2:72），而所引的那段其实是以西结书 37 章——一个罗马数字 X 在传递途中的某处丢失了。一部讲抄写错误的书里出现了一处抄写错误：正是那种细小而可以定年的讹误，而校勘附录之所以存在，就是为了记录它们。" },
     { content = "一条关于译本异读的保留：TBWTT 5:4 那个两万两千，原则上有可能是某一版本译法的产物，而非原来的数字。本计划尚未就这一节校勘各法文印本。在此之前，这一读法仍算作传世文本中唯一一个未经管理的数字——而校勘它，正属于本文所呼吁的那套校勘附录首先要了断的问题之一。" },
     { content = "那个六天之数（TBWTT 7:16、7:76）并不能干净地对应到七章之上：第 4 章有离别的套语却无抵达，第 3 章有抵达却无离别，第 7 章两者皆无。要让这个数目成立，必得有一对章节共用一场，而正文并未说明是哪一对。严格说来，那个奠基之周的日程结构，被奠基文献本身留作未定。" },
-    { content = "TBWTT 1:47 把拣选一位信使的决定系于「第一次原子爆炸之后，那次爆炸发生在 1945 年」——若读得精确，那就是 1945 年 7 月 16 日的三位一体试爆。LWTE 2:75 重述同一个决定时，却把它置于「广岛的第一次原子爆炸……1945 年 8 月 6 日」之后。作为锚点的事件从第一次引爆漂移到了第一次用于战争；年份不变；而该运动的历法（8 月 6 日，元年）采的是广岛这一读法。" },
+    { content = "TBWTT 1:47 把拣选一位信使的决定系于「第一次原子爆炸之后，那次爆炸发生在 1945 年」——若读得精确，那就是 1945 年 7 月 16 日的三位一体试爆。LWTE 2:79 重述同一个决定时，却把它置于「广岛的第一次原子爆炸……1945 年 8 月 6 日」之后。作为锚点的事件从第一次引爆漂移到了第一次用于战争；年份不变；而该运动的历法（8 月 6 日，元年）采的是广岛这一读法。" },
 ]
 +++
 
@@ -153,7 +153,7 @@ footnotes = [
 追随者们的随笔与皈依见证，其中一篇的日期标作「an 33 après Raël」。
 言说者的层级已经翻转。1973 年是耶和华说、雷尔记；到了 1979 年，耶和华
 只在雷尔提供的框架之内说话（「我，耶和华，借着我的先知雷尔之口」，
-{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}LWTE 2:101{% end %}），
+{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=95) %}LWTE 2:95{% end %}），
 雷尔以自己的声音立法，而平信徒也进入了文本。最后一部正典之书的最后
 一个动作，是日内瓦的一个邮政地址，以及一则邀请：写信来，为你的细胞
 蓝图作传输。韦伯会把这一页归入卡里斯玛的常规化，一个字也不必改；而
@@ -288,7 +288,7 @@ ETTMTTP 3:193 的那段冥想指示把前两者严格区分开来。3:216 处的
 之狠，竟把这条「不给证据」的规则放进了对手口中，当作嘲讽：「这些人
 甚至不会给你们他们存在的证据，好帮你们说服你们的弟兄，也不会给任何
 财务上的援助」
-（{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=62) %}LWTE 2:62{% end %}）。
+（{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=66) %}LWTE 2:66{% end %}）。
 撒但的讥讽与耶和华的政策是同一句话，只是价值取向被翻转了，而第三本书
 对此心知肚明：证据的缺席已经变成了忠诚的代价，由对立方来定价。
 
@@ -297,10 +297,10 @@ ETTMTTP 3:193 的那段冥想指示把前两者严格区分开来。3:216 处的
 那趟航行里插入了两个 1975 年那本书中所无的场景——中转飞船上的试探，
 连同它的瑞士亿万资产与创立一场骗局的邀约；以及父子相认，其中那位
 言说者从 *vous* 改口为 *tu*，并对雷尔说「你是我的儿子，我是你的父亲」
-（{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=92) %}LWTE 2:92{% end %}）。
+（{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=88) %}LWTE 2:88{% end %}）。
 两者都是在一道到期时才被宣布的禁令之下抵达的：「耶和华要求我在三年
 过去之前不要揭示这层亲子关系」
-（{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=95) %}LWTE 2:95{% end %}）。
+（{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=90) %}LWTE 2:90{% end %}）。
 这一装置之所以精巧，是因为它不可证伪且自我封闭——任何将来的增补都
 可以是一桩过去的秘密——也因为插入点在叙事上合法：第二本书曾留下访问
 中数小时未加叙述，「在众多喷泉之间漫步……与那些伟大的先知为伴」
@@ -315,9 +315,9 @@ ETTMTTP 3:193 的那段冥想指示把前两者严格区分开来。3:216 处的
 当第一本书那句干脆的「你们在那里活不了」不得不与第二本书所叙述的那趟
 航行并存时，解释是教学法：那次拒绝「就像人们有时告诉自己的孩子，说
 他们要是喝了酒就长不高了」
-（{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=9) %}LWTE 1:9{% end %}）
+（{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=12) %}LWTE 1:12{% end %}）
 ——第三本书的问答把它的整套诠释学压缩成一个词，「心理学」
-（{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=4) %}LWTE 1:4{% end %}）。
+（{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=5) %}LWTE 1:5{% end %}）。
 而当整段整段的场景从一份已刊行的记述中缺失时，答案就是禁令。抄写者、
 教学法、禁令：三件装置，一个不变量。错误从来不是来源的。编修批评的
 发明恰恰就是为了侦测这个——以牺牲传递链上其他一切为代价，对文本背后
@@ -366,7 +366,7 @@ ETTMTTP 3:193 的那段冥想指示把前两者严格区分开来。3:216 处的
 （{% libref(book="extraterrestrials-took-me-to-their-planet", chapter=1, verse=7) %}ETTMTTP 1:7{% end %}）
 ——而它在第三本书中引爆：父子相认的场景把它*连同页码出处一起*引了
 回来（「参见《真实之书》第 8 页」，
-{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=75) %}LWTE 2:75{% end %}），
+{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=79) %}LWTE 2:79{% end %}），
 随后予以了断：在一艘飞行器上完成的授精、记忆抹除、以及从与母亲不同
 宗教中挑选出的养父。这三个相隔四年与六年刊出的数据点严丝合缝——连
 妊娠的算术也对得上。[*宗教中的宗教*](/articles/the-religion-of-religions/)
@@ -442,7 +442,7 @@ LWTE 那一被禁章节的脊梁，一间宝座厅接一间宝座厅地解码—
 两万两千只出现一次，此后再不曾被使用。第二本书把降落定在两万五千年；
 而第三本书在回应一项反驳时误引了第一本——「在第一本书第 13 页，你写道
 耶洛因在 25,000 年前创造了那块原初大陆」
-（{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=31) %}LWTE 1:31{% end %}）
+（{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=30) %}LWTE 1:30{% end %}）
 ——把那个胜出的整数安在了它头上。严格说来，这份传世文集让耶洛因在
 他们决定前来之前三千年就已降落。{{ footnote(id="4") }} 这恰恰是那个
 思想实验对一位发明者所预言的失手形态：旗舰数字处处被记得；附带的那个
@@ -457,7 +457,7 @@ LWTE 那一被禁章节的脊梁，一间宝座厅接一间宝座厅地解码—
 （{% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=50) %}ETTMTTP 2:50{% end %}）
 ——跨过这道间隔守住了。然后第三本书在解码启示录第 4 章的宝座厅时，
 让耶和华说：「在我周围坐着另外 24 位永恒者，代表着永恒者议会」
-（{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=134) %}LWTE 2:134{% end %}）。
+（{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=128) %}LWTE 2:128{% end %}）。
 启示录的二十四位长老，把他们的人头数强加给了一个已经维持七百人达六年
 之久的机构；「代表着」这个分词是唯一的逃生口，而文本里没有任何东西把
 它打开。同样的压力签名，凡有一部引证文本摊在案头的地方都会出现：数字、
@@ -553,7 +553,7 @@ ETTMTTP 2:72、ETTMTTP 3:216，以及 LWTE 的那些日期标注。这个文集�
 ——所搭乘的研究纲领在十年之内就垮掉了。那颗「略少于一光年」之外的故乡
 行星，按此后的每一次巡天都坐落在空无的太空之中；第三本书迎击这一反驳时，
 拿出的是一位成员提供的假说，而不是一次启示，说是光沿着「一道明显的弯曲」
-行进（{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=26) %}LWTE 1:26{% end %}），
+行进（{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=27) %}LWTE 1:27{% end %}），
 并附上一句正典鲜少使用的对冲：「那是一种可能性。」Zygon 上的那篇批评把
 整个模式读作寄生于科学的声望之上、却豁免于科学的纪律。一次公允的审查
 必须同时记下：这项批评击中了要害，而正典对它的回应又一次是本文一直在

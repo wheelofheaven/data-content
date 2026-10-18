@@ -19,7 +19,7 @@ references = [
     # — The canon under comparison —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 5, ¶59 (the doubt about abundance), ¶65 (the political and humanitarian baggage); Chapter 6, ¶¶2–17 (the New Commandments: geniocracy ¶¶3–6, Humanitarianism ¶¶7–14, world government ¶¶15–17); Chapter 7, ¶13 (population), ¶¶38–51 (the Elohim's moneyless civilization, the cube cities, the seven hundred eternals)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, ¶¶23–24 (geniocracy and the golden age), ¶¶37–39 (the terrestrial paradise through automation), ¶¶51–60 (the planet of the eternals), ¶¶53–54 (the biological robots); Chapter 3, ¶¶79–100 (geniocracy, Humanitarianism, work, the biological robot), ¶¶160–163 (world government, world language, world currency)" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1, ¶23 (the research center; robots eliminating work and consequently money); Chapter 2, ¶¶56–72 (the temptation and Satan's condition), ¶103 (one chance in a hundred); Chapter 4, ¶102 (the program summarized)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1, ¶24 (the research center; robots eliminating work and consequently money); Chapter 2, ¶¶60–76 (the temptation and Satan's condition), ¶96 (one chance in a hundred); Chapter 4, ¶¶89–90 (the program summarized)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages" },
     { id = "la-g-niocratie-english-geniocracy-government-of-the-people-for-the-people-by-the", locator = "the 1977 book-length development of the first New Commandment" },
 
@@ -232,7 +232,7 @@ chores and will allow you to blossom"
 The third book closes the loop, listing among the mission's own
 objectives a research center whose work on "the creation of biological
 robots will allow the elimination of work and consequently money"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=23) %}LWTE 1:23{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=24) %}LWTE 1:24{% end %}).
 
 And the canon claims an exemplar. Asked about life on the creators' own
 world, Yahweh describes a civilization that has finished the program:
@@ -260,7 +260,7 @@ prices the question in these terms —
 {% wiki(slug="council-of-the-eternals") %}Council{% end %}, "will not be
 convinced that something good can be expected of men until they are
 united, and money and all weapons are destroyed"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=72) %}LWTE 2:72{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=76) %}LWTE 2:76{% end %}).
 In the canon's accounting, the abolition of money sits beside
 disarmament as one of the two proofs the species owes.
 
@@ -739,7 +739,7 @@ ones and they are strong. The corpus treats the commandment as
 directional rather than operational, and its own texts assign the
 program's realization to non-Raëlian political movements at arm's
 length
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=95) %}LWTE 1:91–95{% end %});
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=87) %}LWTE 1:83–87{% end %});
 none of that discharges the objection. It is recorded here in its own
 voice.
 
@@ -750,7 +750,7 @@ can ever stabilize himself in abundance"
 ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=59) %}TBWTT 5:59{% end %})
 — and elsewhere the odds of the species surviving its own test are put
 at one in a hundred
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=103) %}LWTE 2:103{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=96) %}LWTE 2:96{% end %}).
 The doctrine is not a promise that abundance arrives; it is a
 specification of what to build if aggression is mastered first. The
 sunny reading of the file — abundance as destiny — belongs to

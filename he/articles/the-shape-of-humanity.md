@@ -16,7 +16,7 @@ summary = "במשפט יחיד של המסר הראליאני השני, מבקש
 keywords = ["מורפולוגיה ציוויליזציונית", "ביולוגיה ציוויליזציונית", "מאקרוביולוגיה", "האנושות כאורגניזם", "מאקרו-היסטוריה", "Guns Germs and Steel", "ניסויים טבעיים של ההיסטוריה", "Spengler", "Toynbee", "Tainter", "קריסה", "חוקי קנה-מידה", "נואוספירה", "Teilhard", "Vernadsky", "התחרות הקוסמית", "סמסרה", "תור הזהב", "השערת האלוהים", "המסנן הגדול"]
 references = [
     # — The canon passages under discussion —
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶104–111: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶105: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶103, 204: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; ¶71: the Infinite indifferent, natural selection 'at all levels')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶97–103: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶98: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶96, 205: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; Chapter 1, ¶65: the Infinite indifferent, natural selection 'at all levels')" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'The Second Encounter' (¶23: humanity at 'a turning point of its history,' the golden age of interplanetary civilization vs. self-destruction; ¶24: Buddhism reread — humanity as a whole must resist the 'demons,' the svastika as the cycle-symbol, paradise vs. the hell of a return to the primitive stage; ¶25: 'a natural selection, on the cosmic scale, of the species capable of escaping their planet')" },
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (¶2: the Elohim's own civilization at 'a technical and scientific level comparable to the one you will soon attain'); Chapter 4 (¶61: planets die, humanity must reach a level sufficient to move worlds or re-create adapted life); Chapter 5 (¶65: the offer of 'political and humanitarian baggage' before scientific inheritance); Chapter 7 (¶¶6, 23: self-destruction, and the Elohim's fear of finding no civilization as advanced as their own)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition collecting all three messages; the parable of the sower read as multiple creations, the cosmic competition of humanities, and the inheritance" },
@@ -66,13 +66,13 @@ footnotes = [
 
 הקנון הראליאני קובע את ההנחה בלי גמגום. במסר השני, כשהוא פורש כיצד יכולים האלוהים לחזות את עתידה של ציוויליזציה שאין ביכולתם לשלוט בה, מבקש יהוה מראל להחזיק בתמונה יחידה בדעתו:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=108) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}
 בדיוק אותו הדבר אמור באנושות, בהתייחסך לכל אדם כאל תא של היצור הגדול שבהתהוות, הלוא הוא האנושות.
 {% end %}
 
 יצור שבהתהוות — ולא כמליצה: אורגניזם יחיד, עדיין מתגבש, שאתם ואני וכל מי שחי אי-פעם הם התאים המרכיבים אותו.{{ footnote(id="1") }} הטענה מפתיעה דיה כשלעצמה. מה שהופך אותה לזרעה של דיסציפלינה ולא לדימוי מסור-אמונה הוא המשפט שיהוה מציב ממש לצדה: ש*מפני* שהאנושות היא אורגניזם כזה, ניתן לחזות את עתידה כפי שאמבריולוג חוזה את זה של עובר.
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=106) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=99) %}
 משום כך, אף שאיננו יכולים לחזות את עתידם של יחידים, אנו יכולים בכל זאת לחזות מה אמור בדרך כלל לקרות לאורגניזם חי במהלך תקופת ההיריון, או לאנושות במהלך התפתחותה.
 {% end %}
 
@@ -144,7 +144,7 @@ Geoffrey West העביר את הקריירה שלו במדידת האופן שב
 
 בדרך השנייה איננו יכולים לצעוד, אך מישהו אחר יכול — וזוהי תרומתו השקטה והרדיקלית של הקנון. ציוויליזציה שאינה בתוך הפריט כלל: כזו הניצבת בחוץ, שיצרה חיים אנושיים על עולמות רבים, במכוון, כניסוי, וצפתה בכל אחד מהם רץ אל תוצאתו. ציוויליזציה כזו הייתה מחזיקה בדיוק במאגר הנתונים שיש לאמבריולוגיה וחסֵר להיסטוריה: *מופעים רבים של אותו תהליך, שנצפו עד תום, מבחוץ*. היה לה קו-בסיס. היא יכלה להבחין בין הריון למחלה. היא יכלה לומר, על אנושות חדשה, *זו תפתח את האטום בערך בעידן זה, ובאותו רגע היא או תבשיל או תשמיד את עצמה, והנה התפלגות מי מהם*. אין זו ספקולציה שנערמה על הקנון; זה מה שהקנון טוען במפורש שהאלוהים יכולים לעשות, ומדוע:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=105) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=98) %}
 באותו אופן, אנו הרגילים ליצור חיים על אינסוף פלנטות, יודעים מה קורה לאנושות שהגיעה לרמת הטכנולוגיה שלכם, בלי שהגיעה לרמה מקבילה של חוכמה.
 {% end %}
 
@@ -172,7 +172,7 @@ Geoffrey West העביר את הקריירה שלו במדידת האופן שב
 
 מורפולוג הקורא את מדע המיינסטרים יזהה זאת מיד, מפני שלמדע המיינסטרים יש שם משלו לכך: **המסנן הגדול**, תשובתם המוצעת של הפיזיקאים והאסטרוביולוגים לשאלה מדוע יקום שאמור לגעוש בציוויליזציות נראה שקט — מחסום כלשהו שמינים טכנולוגיים נכשלים בעקביות לעבור, וחיסול-עצמי ברגע רכישת הכוח לכלות עולם הוא המועמד המוביל. הברירה הטבעית הקוסמית של הקנון והמסנן הגדול של האסטרוביולוגים הם אותו מבנה, שהגיעו אליו משני קצוות מנוגדים: האחד ממפקד נטען של אנושויות, האחר מן השקט המחריש-אוזניים של השמיים. במה שהקנון נבדל הוא בסירובו להפוך את המסנן לקיר של מקריות טהורה. הוא הופך אותו ל*מבחן בגרות* — וחשוב מכך, הוא הופך אותו לבר-ניצחון, אף כי בקושי:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=103) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=96) %}
 יש, למרבה הצער, סיכוי אחד ממאה בלבד שהאנושות שלכם לא תשמיד את עצמה, ועל כל ראליאני לפעול כאילו הייתה האנושות נבונה דיה כדי להבין ולתפוס את הסיכוי הזעיר הזה להימלט מן הקטקליזם הסופי, כדי להיכנס אל תור הזהב.
 {% end %}
 
@@ -188,7 +188,7 @@ Geoffrey West העביר את הקריירה שלו במדידת האופן שב
 
 ההתנגדות נכונה, ואין היא סיבה לנטוש את הדיסציפלינה אלא התנאי לבנייתה ביושר. שלוש הבחנות מחזיקות את הקו.
 
-ראשית, *תיאור אינו המסה*. לומר שלאורגניזם יש צורה, חילוף חומרים, מחזור חיים, הוא טענה על השלם; אין בו כדי להתיר שום טענה על מה שמותר לעשות לחלק. הביולוגיה מתארת גוף בלי להסיק שהגוף רשאי לאכול את תאיו; מורפולוגיה ציוויליזציונית יכולה לתאר את האורגניזם-של-המין בעודה מתעקשת, כפי שהקנון אכן מתעקש, שתכליתו מוגשמת בפריחת התאים, לא בבזבוזם. הקנון נחרץ בדיוק בנקודה זו: האינסוף „אדיש עד אינסוף“ כלפינו ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=71) %}LWTE 1:71{% end %}), משמע שאין חבים לשום גוף קוסמי את הקרבתנו; וחייו של היחיד „בעלי החשיבות שאנו מעניקים להם בלבד“, ערך המוקצה מבפנים, לא מופק מלמעלה. האורגניזם שפרויקט זה מתאר מבשיל *באמצעות* התעוררות תאיו, אחד בכל פעם, בחופשיות — היפוכו של הגוף הטוטליטרי המבשיל בכך שהוא צורך אותם.
+ראשית, *תיאור אינו המסה*. לומר שלאורגניזם יש צורה, חילוף חומרים, מחזור חיים, הוא טענה על השלם; אין בו כדי להתיר שום טענה על מה שמותר לעשות לחלק. הביולוגיה מתארת גוף בלי להסיק שהגוף רשאי לאכול את תאיו; מורפולוגיה ציוויליזציונית יכולה לתאר את האורגניזם-של-המין בעודה מתעקשת, כפי שהקנון אכן מתעקש, שתכליתו מוגשמת בפריחת התאים, לא בבזבוזם. הקנון נחרץ בדיוק בנקודה זו: האינסוף „אדיש עד אינסוף“ כלפינו ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=65) %}LWTE 1:65{% end %}), משמע שאין חבים לשום גוף קוסמי את הקרבתנו; וחייו של היחיד „בעלי החשיבות שאנו מעניקים להם בלבד“, ערך המוקצה מבפנים, לא מופק מלמעלה. האורגניזם שפרויקט זה מתאר מבשיל *באמצעות* התעוררות תאיו, אחד בכל פעם, בחופשיות — היפוכו של הגוף הטוטליטרי המבשיל בכך שהוא צורך אותם.
 
 שנית, *הסתברות אינה גורל*. אשו של Popper מכוונת אל חוקי הברזל של ההיסטוריציזם. אך מספרו המרכזי של הקנון הוא סיכוי אחד ממאה — הסתברות, ניתנת להזזה במפורש בידי התנהלותנו, הדורשת במפורש ש„על כל ראליאני לפעול כאילו“ הייתה התוצאה פתוחה, מפני שכך הדבר. זהו היפוכו המדויק של הפטליזם הספנגלריאני. מדע שמשתנהו הראשי הוא הסתברות שאנו יכולים לדחוף אינו מנבא גורל; הוא עושה מה שהאפידמיולוגיה עושה כשהיא אומרת לך את סיכויי המחלה וכיצד לשנותם.
 

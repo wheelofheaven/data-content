@@ -20,7 +20,7 @@ references = [
     # — The canon under comparison —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶14: the single original continent raised from the seabed, and 'all the continents which drifted apart fit together perfectly to form a single one'; ¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition); Chapter 2, 'The Flood' (¶58: the home planet's decision 'to destroy all life on Earth by sending nuclear missiles'; ¶64: the radioactivity monitored and removed before the survivors disembark)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'Neither God nor Soul' (¶¶31–34: the gigantic being, 'time is inversely proportional to the mass,' the centerless universe, 'nothing is lost, nothing is created'); Chapter 3, 'The Keys' (¶102: respecting nature 'as long as he is not capable of becoming himself a creator')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonials of Raelians': Marcel Terrusse, 'Raelism Through the Eyes of Science,' §2 'A New Hypothesis for the History of Humanity' (2005 English edition p. 331, digitization ¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶63: Infinity distinguished from the bearded God; ¶¶88–91: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶94: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonials of Raelians': Marcel Terrusse, 'Raelism Through the Eyes of Science,' §2 'A New Hypothesis for the History of Humanity' (2005 English edition p. 331, digitization ¶¶34–36: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶¶37–39: the petroleum ring as the burial's signature; ¶¶47–49: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the whole account of the Elohim's laboratory creation of terrestrial life" },
 
     # — The modern Intelligent Design movement —
@@ -599,7 +599,7 @@ schrieb. Als Yahweh {% wiki(slug="rael") %}Raël{% end %} die Gestalt der
 Wirklichkeit erklärt, sagt er, so unumwunden, wie Meyer das Gegenteil sagt, dass
 das Universum weder einen Rand im Raum noch einen Rand in der Zeit hat:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=1, verse=103) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=1, verse=94) %}
 Es ist ebenso töricht, den Anfang des Universums in der Zeit zu suchen, wie den
 Anfang des Raums zu suchen.
 {% end %}
@@ -674,7 +674,7 @@ ohne Endpunkt in irgendeiner Richtung.
 Das ist die Position des Kanons, im Quellenmaterial so gelassen ausgesprochen wie
 eine Tatsache der Naturgeschichte:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=1, verse=97) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=1, verse=89) %}
 Die Elohim erschufen uns, und andere Menschen von einem anderen Planeten
 erschufen sie. Wer erschuf die Schöpfer der Elohim?
 {% end %}

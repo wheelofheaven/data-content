@@ -18,7 +18,7 @@ references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶2–6: the craft and the being; ¶44: the charge; ¶46: why Vorilhon; ¶53: 'We are men like you'); Chapter 5 (¶54: Buddhism, Islam, the Mormons; ¶57: the infinite in both directions; ¶66: the name Raël); Chapter 6 (¶3–17: geniocracy, humanitarianism, world government; ¶16: the single language and currency; ¶21–25: the embassy and the conditional return; ¶29: 'the Raëlian Movement'); Chapter 7 (¶24: 'Our only religion is human genius'; ¶31: the council of the eternals; ¶33: the name Elohim)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2 (¶9–15: the 7 October 1975 journey; ¶30–34: neither god nor soul, the infinity argument; ¶50: Yahweh president of the council; ¶62–64: the meal of the forty; ¶104: the embassy in Israel; ¶105: 'the religion of religions… an atheistic religion'; ¶106–109: the Koran cited); Chapter 3 (¶113: sensual meditation; ¶225–229: the four appeals; ¶257–260: 'the last of the line of the prophets')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶79: the atheist-religion self-definition); Chapter 2 (¶89–99: the paternity revelation and its rider); Chapter 3 (¶27–38: religion from religare; ¶34: Joseph Smith among the prophets)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶70: the atheist-religion self-definition); Chapter 2 (¶85–93: the paternity revelation and its rider); Chapter 3 (¶22–32: religion from religare; ¶27: Joseph Smith among the prophets)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages" },
 
     # — Other primary Raëlian works —
@@ -34,7 +34,7 @@ references = [
     { id = "divine-signposts", locator = "Deguchi Onisaburō's doctrinal statement of early Oomoto" },
     { id = "the-collection-of-divine-messages-of-cai-dai", locator = "Thánh Ngôn Hiệp Tuyển, Volume One — WoH Translation ¶2 (the Jade Emperor styled Cao Đài); ¶69 ('Now am I called Cao Đài'); ¶73 (the Third Universal Amnesty)" },
     { id = "the-qur-an", locator = "Suras 21:1–5 (the poet-seer mockery, quoted back by Yahweh at ETTMTTP 2:106–109), 54:1, 56:15–24 — engaged via the quran-woh translation" },
-    { id = "book-of-mormon", locator = "the American precedent of a new scripture delivered to a named modern man — named in the canon at TBWTT 5:54 and LWTE 3:34" },
+    { id = "book-of-mormon", locator = "the American precedent of a new scripture delivered to a named modern man — named in the canon at TBWTT 5:54 and LWTE 3:27" },
 
     # — The scholarship of categorization —
     { id = "aliens-adored", locator = "pp. 30 ('a new fundamentalist, apocalyptic Abrahamic religion'), 31–36 (biography and first encounter), 49 ('a kind of religious genius'), 56–64 (structure, festivals, finances), 77–79 (the Stark audit), 98–100 (millenarian mechanics; 'uncompromisingly empirical'), 117–122 (demographics), 157–176 (the anticult wars), 177–194 (Clonaid), 195–203 (the postmodern verdict)" },
@@ -300,7 +300,7 @@ Bahá'u'lláh, של אוֹרַקְלֵי היסוד של אוֹמוֹטוֹ, ש�
 הספר השלישי משלים את ההסלמה. ב-*הבה נקבל את פני החייזרים* (1979),
 יהוה חושף את אבהותו של השליח:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=89) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=85) %}
 האדם שראית בו את אביך לא היה אביך האמיתי. לאחר הפיצוץ בהירושימה, החלטנו
 שהגיעה העת לשלוח שליח חדש על כדור הארץ. הוא יהיה הנביא האחרון, אך
 הראשון הפונה אל האנושות ומבקש ממנה להבין ולא להאמין. בחרנו אז אישה, כפי
@@ -308,7 +308,7 @@ Bahá'u'lláh, של אוֹרַקְלֵי היסוד של אוֹמוֹטוֹ, ש�
 שעשינו עם אמו של ישוע.
 {% end %}
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=92) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=87) %}
 אביך האמיתי הוא גם אביו של ישוע, וזה עושה אתכם לאחים. אתה מביט כעת
 באביך. אביך המאמץ היה כמו יוסף, היה עליו לדאוג לך ולאמך עד שתוכל
 לפרנס את עצמך.
@@ -318,7 +318,7 @@ Bahá'u'lláh, של אוֹרַקְלֵי היסוד של אוֹמוֹטוֹ, ש�
 לפַרְמֵל, נרץ בשש שנים של ספרי כיס. שני דברים מונעים מן ההסלמה להיות
 כל הסיפור. הראשון הוא ההסתייגות שאותו פרק מצרף, בקטע הגבלה-עצמית
 המצוטט ביותר של הקנון: "אין זה השליח החשוב, אלא המסר עצמו… אל תביט
-באצבעי, אלא בכיוון שאליו היא מצביעה" (LWTE 2:96–99). השני הוא הביטוי
+באצבעי, אלא בכיוון שאליו היא מצביעה" (LWTE 2:91–93). השני הוא הביטוי
 שבתוך קטע האבהות עצמו — *הראשון הפונה אל האנושות ומבקש ממנה להבין ולא
 להאמין* — שהוא האפיסטמולוגיה של הקנון עצמו בשורה אחת, והסיבה שסיווג
 התנועה ממשיך להחליק מן המדף שבו סיפורי בנוּת יושבים בדרך כלל.
@@ -378,7 +378,7 @@ Bahá'u'lláh, של אוֹרַקְלֵי היסוד של אוֹמוֹטוֹ, ש�
 אטימולוגיה שלקורפוס זה יש עליה
 {% wiki(slug="religion") %}ערך{% end %} משלו:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=32) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=25) %}
 כך מתברר שהתנועה הראליאנית היא דת; היא קושרת את יוצרי האנושות עם
 בריאתם, אף שהיא למעשה דת אתאיסטית, במובן שאינה מאמינה בקיומו של אל -
 אתאיסטית מן היוונית atheos שפירושה "המכחישה את קיומה של כל צורה של
@@ -388,10 +388,10 @@ Bahá'u'lláh, של אוֹרַקְלֵי היסוד של אוֹמוֹטוֹ, ש�
 *Religare*, לקשור בחזרה: דת כחוליה המתוחזקת בין יוצרים לנבראים, עם
 אמונה בעל-טבעי הורדת לדרגה של תאונה של השלב הפרימיטיבי. אותו פרק נוקב
 בנביאים שהחוליה עברה דרכם — "ישוע… משה, בודהה, מוחמד, ג'וזף סמית',
-וכל שאר הנביאים הגדולים" (LWTE 3:34), עם נביא אמריקה מ-1830 שכלול בשוויון
+וכל שאר הנביאים הגדולים" (LWTE 3:27), עם נביא אמריקה מ-1830 שכלול בשוויון
 נפש כמו השאר — והפרק הראשון של אותו ספר מכווץ את כל המערכת לשני
 משפטים שיכולים לשמש קטכיזם של התנועה:
-{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=79) %}"אין "אל", אך יש האלוהים… אין נשמה אוטונומית העפה מן הגוף לאחר המוות, אך יש הקוד הגנטי המאפשר גישה לחיי הנצח"{% end %}.
+{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=70) %}"אין "אל", אך יש האלוהים… אין נשמה אוטונומית העפה מן הגוף לאחר המוות, אך יש הקוד הגנטי המאפשר גישה לחיי הנצח"{% end %}.
 
 כריסיידס, שקרא חומר זה בקפידה כמו כל חוקר, ניסח את הקטגוריה שהוא רומז
 עליה במשפט שמאמר זה רואה בו את המפתח האנליטי לכל התנועה: "נניח שהיה זה
@@ -449,8 +449,7 @@ Bahá'u'lláh, של אוֹרַקְלֵי היסוד של אוֹמוֹטוֹ, ש�
 מה שהנשגב מגיע בתוכו לאחר 1947, כפי שטען יונג בספר שכריסיידס נשען
 עליו. היא אומרת לך את המאה, ומעט מלבד זאת.
 
-**דת אתאיסטית.** אמית, ומדויקת. הקנון טוען אותה (ETTMTTP 2:105, LWTE
-3:32), המחקר מאשר אותה, וההשוואה הקרובה ביותר היא זו שספרות התנועה
+**דת אתאיסטית.** אמית, ומדויקת. הקנון טוען אותה (ETTMTTP 2:105, LWTE 3:25), המחקר מאשר אותה, וההשוואה הקרובה ביותר היא זו שספרות התנועה
 עצמה מושיטה יד אליה: הבודהיזם התֵּרוואדי, סוטריולוגיה ללא אל בורא.
 מגבלת התווית היא שהיא נוקבת בהיעדר. "דת אתאיסטית" אומרת לך מה הראליזם
 הסיר; היא אינה יכולה לומר לך *ממה עשויה* הדת — ומה שהיא עשויה ממנו

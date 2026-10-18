@@ -16,7 +16,7 @@ summary = "第二のラエリアンのメッセージのただ一文において
 keywords = ["文明形態学", "文明生物学", "マクロ生物学", "有機体としての人類", "マクロ史", "Guns Germs and Steel", "歴史の自然実験", "シュペングラー", "トインビー", "テインター", "崩壊", "スケーリング法則", "ノウアスフィア", "テイヤール", "ヴェルナツキー", "宇宙的競争", "サンサーラ", "黄金時代", "エロヒム仮説", "グレート・フィルター"]
 references = [
     # — The canon passages under discussion —
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶104–111: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶105: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶103, 204: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; ¶71: the Infinite indifferent, natural selection 'at all levels')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶97–103: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶98: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶96, 205: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; Chapter 1, ¶65: the Infinite indifferent, natural selection 'at all levels')" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'The Second Encounter' (¶23: humanity at 'a turning point of its history,' the golden age of interplanetary civilization vs. self-destruction; ¶24: Buddhism reread — humanity as a whole must resist the 'demons,' the svastika as the cycle-symbol, paradise vs. the hell of a return to the primitive stage; ¶25: 'a natural selection, on the cosmic scale, of the species capable of escaping their planet')" },
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (¶2: the Elohim's own civilization at 'a technical and scientific level comparable to the one you will soon attain'); Chapter 4 (¶61: planets die, humanity must reach a level sufficient to move worlds or re-create adapted life); Chapter 5 (¶65: the offer of 'political and humanitarian baggage' before scientific inheritance); Chapter 7 (¶¶6, 23: self-destruction, and the Elohim's fear of finding no civilization as advanced as their own)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition collecting all three messages; the parable of the sower read as multiple creations, the cosmic competition of humanities, and the inheritance" },
@@ -66,13 +66,13 @@ footnotes = [
 
 ラエリアンのカノンはその前提を留保なしに述べる。第二のメッセージにおいて、エロヒムが制御しえない文明の未来をいかにして見通しうるかを説きながら、ヤハウェはラエルに、一つの像を心に保つよう求める——
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=108) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}
 人類についてもまったく同じことであり、各人を、妊娠中の大いなる存在、すなわち人類の一つの細胞のように考えるのです。
 {% end %}
 
 妊娠中の存在——しかも言葉のあやとしてではない。すなわち、いまだ形をなしつつある単一の有機体であり、あなたと私、そしてかつて生きたすべての者が、その構成細胞なのである。{{ footnote(id="1") }} この主張はそれ自体で十分に驚くべきものである。それを信仰的な像ではなく一つの学問の種たらしめるのは、ヤハウェがそのすぐ傍らに置く一文である。すなわち、人類がそのような有機体である*がゆえに*、その未来は、発生学者が胎児のそれを予測するのとまさに同じように予測されうる、というものである。
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=106) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=99) %}
 これこそ、私たちが個人の未来を予測することはできないにもかかわらず、しかし、妊娠期間中の生ける有機体に、あるいは発展の途上にある人類に、通常なら何が起こるはずかを予測しうる理由なのです。
 {% end %}
 
@@ -144,7 +144,7 @@ Wheel of Heaven のプロジェクトは、その像の諸部分に名をもっ�
 
 第二の道を私たちは歩むことができないが、他の誰かにはできる——そしてこれこそカノンの静かで根源的な貢献である。標本の内側にまったくいない一つの文明。すなわち、外側に立ち、多くの世界の上で人間の生命を、意図的に、一つの実験として創造し、そしてそのそれぞれがその結末へと走るのを見てきた文明である。そのような文明は、発生学がもち歴史が欠いているまさにそのデータセットを所有するだろう。すなわち、*同じ過程の多くの事例を、完了まで、外側から観察したもの*である。それは基準をもつだろう。それは妊娠を病から見分けうるだろう。それは、ある新たな人類について、*これはおよそこの時代に原子を発展させ、そしてその瞬間にそれは成熟するか自らを滅ぼすかのいずれかであり、そしてそのいずれかの分布はこうである*、と言いうるだろう。それはカノンの上に積み上げられた思弁ではない。それは、カノンがエロヒムになしうると明示的に主張すること、そしてその理由である——
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=105) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=98) %}
 同じように、無限の数の惑星の上で生命を創造することに慣れている私たちは、同等の叡智の水準に達することなく、あなたがたの技術の水準に達した人類に何が起こるかを知っているのです。
 {% end %}
 
@@ -172,7 +172,7 @@ Wheel of Heaven のプロジェクトは、その像の諸部分に名をもっ�
 
 主流派の科学を読む形態学者は、これを直ちに認めるだろう。なぜなら主流派の科学はそれに独自の名をもっているからである。すなわち**グレート・フィルター**、諸文明で満ちているはずの宇宙がなぜ静まり返って見えるのかについての、物理学者と宇宙生物学者の提案する答え——技術的な種が確実に越えそこなう何らかの障壁であり、そして世界を終わらせる力を獲得するその瞬間の自己殲滅が最有力の候補である。カノンの宇宙的な自然淘汰と、宇宙生物学者のグレート・フィルターは、正反対の端から到達された同じ構造である。すなわち、一方は主張された複数の人類の国勢調査から、他方は空の耳を聾する静けさから。カノンが異なるのは、そのフィルターを純粋な偶然の壁とすることを拒む点にある。それはそれを*成熟の試験*とする——そして、決定的に、それを、かろうじてではあれ、勝ちうるものとする——
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=103) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=96) %}
 残念ながら、あなたがたの人類が自滅しない可能性は百に一つしかなく、そしてあらゆるラエリアンは、人類が、最終の大変動を逃れて黄金時代に入るためのこの小さな可能性を理解して掴むだけの叡智をもつであろうかのように行動せねばなりません。
 {% end %}
 
@@ -188,7 +188,7 @@ Wheel of Heaven のプロジェクトは、その像の諸部分に名をもっ�
 
 その反論は正しく、そしてそれはこの学問を放棄する理由ではなく、それを誠実に築くための条件である。三つの区別が一線を保つ。
 
-第一に、*記述は溶解ではない*。有機体が形を、代謝を、生活環をもつと言うことは、全体についての主張である。それは、部分に対してなされてよいことについてのいかなる主張をも許しはしない。生物学は、身体がその細胞を食べてよいと結論することなく身体を記述する。文明形態学は、種としての有機体を記述しながら、カノンが実際に主張するように、その目的は細胞の消費ではなくその繁栄によって果たされる、と主張しうる。カノンはまさにこの点について力を込めている。すなわち、無限は私たちに対して「無限に無関心」であり（{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=71) %}LWTE 1:71{% end %}）、それはいかなる宇宙的な身体も私たちの犠牲を受ける資格をもたないことを意味する。そして個人の生は「私たちがそれに与えるだけの重要性しかもたない」——上方から引き出されるのではなく、内側から割り当てられる価値である。このプロジェクトが記述する有機体は、その細胞の覚醒*によって*、一度に一つずつ、自由に成熟する——それらを消費することによって成熟する全体主義的な身体の、正反対である。
+第一に、*記述は溶解ではない*。有機体が形を、代謝を、生活環をもつと言うことは、全体についての主張である。それは、部分に対してなされてよいことについてのいかなる主張をも許しはしない。生物学は、身体がその細胞を食べてよいと結論することなく身体を記述する。文明形態学は、種としての有機体を記述しながら、カノンが実際に主張するように、その目的は細胞の消費ではなくその繁栄によって果たされる、と主張しうる。カノンはまさにこの点について力を込めている。すなわち、無限は私たちに対して「無限に無関心」であり（{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=65) %}LWTE 1:65{% end %}）、それはいかなる宇宙的な身体も私たちの犠牲を受ける資格をもたないことを意味する。そして個人の生は「私たちがそれに与えるだけの重要性しかもたない」——上方から引き出されるのではなく、内側から割り当てられる価値である。このプロジェクトが記述する有機体は、その細胞の覚醒*によって*、一度に一つずつ、自由に成熟する——それらを消費することによって成熟する全体主義的な身体の、正反対である。
 
 第二に、*確率は宿命ではない*。ポパーの砲火は歴史主義の鉄の法則に向けられている。だがカノンの中心的な数は百に一つの可能性——確率であり、私たちの行いによって明示的に動かしうるものであり、結末が開かれているかのように「あらゆるラエリアンは……であるかのように行動」せよと明示的に求めるもの、なぜなら実際に開かれているからである。それはシュペングラー的な宿命論の精確な正反対である。その主変数が、私たちが押しうる確率であるような科学は、宿命を予言しているのではない。それは、疫学が、ある病の見込みとそれを変える仕方を告げるときにするのと同じことをしているのである。
 

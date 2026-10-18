@@ -19,7 +19,7 @@ references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶46: why Vorilhon); Chapter 5 (¶54: the Kabbalah, the bases, Buddhism, Islam, the Mormons — 'it would take pages'; ¶66: the naming of Raël)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2 (¶50: 'My name is Yahweh'; ¶62–65: the meal of the forty and the seating order; ¶105: 'the religion of religions'); Chapter 3 (¶179: the false prophets of the age; ¶257: 'the last of the line of the prophets')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2 (¶89: 'the last prophet, but the first one to address Mankind asking them to understand and not to believe'); Chapter 3 (¶34: Joseph Smith among the prophets); Chapter 4 (¶116: 'thousands of false prophets' among the signs)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2 (¶85: 'the last prophet, but the first one to address Mankind asking them to understand and not to believe'); Chapter 3 (¶27: Joseph Smith among the prophets); Chapter 4 (¶92: 'thousands of false prophets' among the signs)" },
 
     # — Comparative primaries, in the project's library —
     { id = "book-of-mormon", locator = "with the Testimony of Three Witnesses and Testimony of Eight Witnesses, front matter of the 1830 edition — the signed attestation documents run through Test 3" },
@@ -148,7 +148,7 @@ permeable young people, thirsty for truth.
 
 Forty-or-so authentic lines; a crowd of false ones; and a messenger
 described, in the canon's most quoted self-limitation, as
-{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=89) %}"the last prophet, but the first one to address Mankind asking them to understand and not to believe"{% end %}.
+{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=85) %}"the last prophet, but the first one to address Mankind asking them to understand and not to believe"{% end %}.
 A tradition with that epistemology written into its founding documents
 does not get to assign chairs by feel. It owes its readers an
 instrument.
@@ -447,7 +447,7 @@ Mormonism, and Raëlism are canonical because the founding books name
 them —
 {% libref(book="the-book-which-tells-the-truth", chapter=5, verse=54) %}"the Buddhist religion, the Islamic, the Mormons"{% end %},
 the seating order of the meal, Joseph Smith listed among "all the other
-great prophets" at LWTE 3:34 — and the instrument neither elects
+great prophets" at LWTE 3:27 — and the instrument neither elects
 members to that tier nor audits them into it. Its jurisdiction is the
 open tiers, which is exactly the jurisdiction Athanasius's criteria had.
 Second, *the classifications are two-ledger*: an authenticity tier is a
@@ -616,7 +616,7 @@ down, [treated at length in its own
 Explainer](/articles/the-infinite-in-both-directions/). The third book
 goes as far as crediting the intuition wherever it appears — "Those who
 think of 'God' as Infinity, as most oriental religions teach, are
-right" (LWTE 1:72) — and the decay model's signature move runs the
+right" (LWTE 1:66) — and the decay model's signature move runs the
 other way: the institution domesticates infinity into a calendar, a
 liturgy, a jurisdiction. A founding that shrinks the cosmos to the size
 of its own parish was never carrying the watermark; a tradition whose
@@ -634,12 +634,12 @@ messenger; the Gospel Jesus returns the compliment "good master" with
 "why callest thou me good?" The canon states the norm from both ends of
 the relation: the creators themselves, it reports, "could not bear to
 see their creatures… on their hands and knees adoring them as if they
-were idols" (LWTE 2:19), and the founding book's condition for the
+were idols" (LWTE 2:22), and the founding book's condition for the
 {% wiki(slug="great-return") %}return{% end %} specifies the posture
 exactly — {% libref(book="the-book-which-tells-the-truth", chapter=6, verse=25) %}"without religious mysticism, as responsible men but respecting their creators"{% end %}.
 The third book compresses the whole trajectory into a sentence:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=37) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=30) %}
 Until recently, Humanity was worshipping the creators who had created
 each man with the ability to understand the creators, so now Man must
 understand the creators, so as to be able to love them even more.

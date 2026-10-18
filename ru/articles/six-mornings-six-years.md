@@ -18,7 +18,7 @@ references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶44: the publication instruction; ¶47: 'and even before'; ¶51–53: the deferred distance and the deflected name); Chapter 2 (¶3: corpus gating; ¶92: the departure colors); Chapter 5 (¶4: the twenty-two thousand years; ¶52–53: the parasang distances and the optical window); Chapter 6 (¶26: the no-proof doctrine; ¶29: the movement's name); Chapter 7 (¶16: 'six days in a row'; ¶30–56: eternals, council, and the president's twenty-five thousand years; ¶68: the residence)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 1 (¶63: the volcano correction); Chapter 2 (¶11: the trust-gate; ¶22: the memory implant; ¶23: the rectified passage; ¶43: the near-Earth base; ¶50: 'a planet entire' and the name Yahweh; ¶104: 'a revelation you can make from now on'; ¶131–132: the return itinerary and the writing scene); Chapter 3 (¶172: the calendar; ¶193 and ¶216: the two-planet distinction and its one lapse)" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶1–9: the FAQ frame, 'psychology', and the sanctioned lie; ¶24–27: the light-year defense); Chapter 2 (¶1 and ¶95: the embargo; ¶51–74: the temptation; ¶89–92: the filiation; ¶134: the twenty-four Eternals; ¶208: 666 × 20); Chapter 3 (¶82–88: the closing recruitment apparatus)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶1–12: the FAQ frame, 'psychology', and the sanctioned lie; ¶26–29: the light-year defense); Chapter 2 (¶1–2 and ¶90: the embargo; ¶58–78: the temptation; ¶85–88: the filiation; ¶128: the twenty-four Eternals; ¶208: 666 × 20); Chapter 3 (¶82–88: the closing recruitment apparatus)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the edition-state this article examines" },
     { id = "dhorme-bible", locator = "the French Bible on the witness's knees during the December 1973 sessions; its transliterated divine names survive in the canon's quotations" },
     { id = "rnkjv", locator = "the principal English Bible of the 2005 omnibus; where it diverges from Dhorme, the two text-traditions of the canon diverge" },
@@ -47,7 +47,7 @@ footnotes = [
     { content = "Это издание печатает ссылку на сухие кости как «Иезекииль, XXVII, 3, 7-8, 10» (ETTMTTP 2:72), тогда как цитируемый пассаж — Иезекииль 37: римская цифра X потерялась где-то в передаче. Ошибка переписывания внутри книги об ошибках переписывания — именно такая мелкая, датируемая порча, ради записи которой и существует критический аппарат." },
     { content = "Оговорка о переводном варианте: двадцать две тысячи из TBWTT 5:4 могут в принципе быть артефактом передачи одного издания, а не изначальной цифрой. Проект пока не сличил французские печатные издания по этому стиху. Пока этого не сделано, чтение остаётся единственным неуправляемым числом принятого текста — и его сличение принадлежит к первым вопросам, которые разрешил бы аппарат, к которому призывает эта статья." },
     { content = "Счёт в шесть дней (TBWTT 7:16, 7:76) не ложится чисто на семь глав: в главе 4 есть формула отбытия, но нет прибытия, в главе 3 — прибытие, но нет отбытия, в главе 7 — ни того ни другого. Чтобы счёт сошёлся, одна пара глав должна делить одно заседание, а текст не говорит, какая. Дневная структура основополагающей недели, строго говоря, недоопределена основополагающим документом." },
-    { content = "TBWTT 1:47 датирует решение избрать вестника «после первого атомного взрыва, состоявшегося в 1945 году» — что, прочитанное точно, есть «Тринити», 16 июля 1945 года. LWTE 2:75 пересказывает то же решение как последовавшее за «первым атомным взрывом в Хиросиме… 6 августа 1945 года». Опорное событие смещается от первого испытания к первому боевому применению; год держится; календарь движения (6 августа, год 1) следует хиросимскому чтению." },
+    { content = "TBWTT 1:47 датирует решение избрать вестника «после первого атомного взрыва, состоявшегося в 1945 году» — что, прочитанное точно, есть «Тринити», 16 июля 1945 года. LWTE 2:79 пересказывает то же решение как последовавшее за «первым атомным взрывом в Хиросиме… 6 августа 1945 года». Опорное событие смещается от первого испытания к первому боевому применению; год держится; календарь движения (6 августа, год 1) следует хиросимскому чтению." },
 ]
 +++
 
@@ -189,7 +189,7 @@ footnotes = [
 году Яхве говорил, а Раэль записывал; к 1979 году Яхве говорит лишь
 внутри рамок, поставляемых Раэлем («Я, Яхве, через слова моего пророка
 Раэля»,
-{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}LWTE 2:101{% end %}),
+{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=95) %}LWTE 2:95{% end %}),
 Раэль законополагает собственным голосом, и миряне вошли в текст.
 Последний жест последней канонической книги — почтовый адрес в Женеве
 и приглашение написать ради передачи своего клеточного плана. Вебер
@@ -358,7 +358,7 @@ footnotes = [
 доказательств в уста противника, как насмешку: «Эти самые люди даже не
 дадут тебе доказательств своего существования, чтобы помочь убедить
 твоих братьев, ни какой-либо денежной помощи»
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=62) %}LWTE 2:62{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=66) %}LWTE 2:66{% end %}).
 Издёвка Сатаны и политика Яхве — одна и та же фраза с перевёрнутой
 валентностью, и третья книга это знает: нехватка свидетельств стала
 ценою верности, назначенной оппозицией.
@@ -371,11 +371,11 @@ footnotes = [
 учредить мистификацию; и откровение об отцовстве, где говорящий
 переходит с *vous* на *tu* и говорит Раэлю: «ты мой сын, а я твой
 отец»
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=92) %}LWTE 2:92{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=88) %}LWTE 2:88{% end %}).
 Обе являются под эмбарго, объявленным лишь в миг его истечения: «Яхве
 просил меня не открывать эту родственную связь, пока не пройдёт три
 года»
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=95) %}LWTE 2:95{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=90) %}LWTE 2:90{% end %}).
 Приём изящен, ибо он нефальсифицируем и самогерметичен — всякое
 будущее прибавление может быть прошлой тайной — и ибо точка вставки
 повествовательно законна: книга 2 оставила часы визита
@@ -395,10 +395,10 @@ footnotes = [
 сосуществовать с путешествием, о котором повествует книга 2,
 объяснением служит педагогика: отказ был «точно так же, как люди порой
 говорят детям, что, если те выпьют спиртного, они перестанут расти»
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=9) %}LWTE 1:9{% end %})
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=12) %}LWTE 1:12{% end %})
 — и раздел вопросов и ответов третьей книги сжимает всю свою
 герменевтику в одно слово: «психология»
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=4) %}LWTE 1:4{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=5) %}LWTE 1:5{% end %}).
 А когда из опубликованного отчёта пропадают целые сцены, ответ —
 эмбарго. Писец, педагогика, эмбарго: три приёма, один инвариант.
 Ошибка никогда не принадлежит источнику. Редакционная критика была
@@ -463,7 +463,7 @@ footnotes = [
 — и взрывается в третьей, где сцена откровения об отцовстве цитирует
 её обратно *с указанием страницы* («См. с. 8 „Книги, которая говорит
 правду"»,
-{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=75) %}LWTE 2:75{% end %}),
+{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=79) %}LWTE 2:79{% end %}),
 прежде чем её разрешить: осеменение на борту аппарата, стирание
 памяти, приёмный отец, выбранный из иной религии, нежели религия
 матери. Три точки данных, изданные с разрывом в четыре и шесть лет,
@@ -562,7 +562,7 @@ footnotes = [
 книга, отвечая на возражение, цитирует первую неверно — «В первой
 книге на странице 13 вы написали, что Элохим создали изначальный
 континент 25 000 лет назад»
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=31) %}LWTE 1:31{% end %})
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=30) %}LWTE 1:30{% end %})
 — приписывая ей круглую цифру, которая победила. Взятый строго,
 принятый корпус имеет Элохим, высаживающихся на три тысячи лет прежде,
 чем они решили прийти.{{ footnote(id="4") }} Это в точности тот профиль
@@ -581,7 +581,7 @@ footnotes = [
 — сохранено через разрыв. Затем третья книга, расшифровывая тронный
 зал 4-й главы Откровения, заставляет Яхве сказать: «вокруг меня сидели
 24 других Вечных, представляющих Совет Вечных»
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=134) %}LWTE 2:134{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=128) %}LWTE 2:128{% end %}).
 Двадцать четыре старца Откровения навязали свою численность органу,
 который шесть лет насчитывал семьсот; причастие «представляющих» —
 единственный запасной выход, и ничто в тексте его не открывает. Та же
@@ -713,7 +713,7 @@ ETTMTTP 2:72, ETTMTTP 3:216, даты LWTE. Корпус оценивает це
 третья книга встречает возражение гипотезой, поставленной членом
 движения, а не откровением, — о свете, движущемся по «выраженной
 кривой»
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=26) %}LWTE 1:26{% end %}),
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=27) %}LWTE 1:27{% end %}),
 — предложенной с оговоркой, к какой канон прибегает редко: «Это одна
 из возможностей». Критика в Zygon прочитывает весь этот узор как
 паразитирующий на престиже науки при освобождении от её дисциплины.

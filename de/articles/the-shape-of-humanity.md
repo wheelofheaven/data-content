@@ -16,7 +16,7 @@ summary = "In einem einzigen Satz der zweiten raëlianischen Botschaft bittet Ya
 keywords = ["zivilisatorische Morphologie", "zivilisatorische Biologie", "Makrobiologie", "Menschheit als Organismus", "Makrogeschichte", "Guns Germs and Steel", "natürliche Experimente der Geschichte", "Spengler", "Toynbee", "Tainter", "Kollaps", "Skalengesetze", "Noosphäre", "Teilhard", "Vernadsky", "Kosmischer Wettbewerb", "Saṃsāra", "Goldenes Zeitalter", "Elohim-Hypothese", "Großer Filter"]
 references = [
     # — The canon passages under discussion —
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶104–111: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶105: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶103, 204: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; ¶71: the Infinite indifferent, natural selection 'at all levels')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶97–103: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶98: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶96, 205: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; Chapter 1, ¶65: the Infinite indifferent, natural selection 'at all levels')" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'The Second Encounter' (¶23: humanity at 'a turning point of its history,' the golden age of interplanetary civilization vs. self-destruction; ¶24: Buddhism reread — humanity as a whole must resist the 'demons,' the svastika as the cycle-symbol, paradise vs. the hell of a return to the primitive stage; ¶25: 'a natural selection, on the cosmic scale, of the species capable of escaping their planet')" },
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (¶2: the Elohim's own civilization at 'a technical and scientific level comparable to the one you will soon attain'); Chapter 4 (¶61: planets die, humanity must reach a level sufficient to move worlds or re-create adapted life); Chapter 5 (¶65: the offer of 'political and humanitarian baggage' before scientific inheritance); Chapter 7 (¶¶6, 23: self-destruction, and the Elohim's fear of finding no civilization as advanced as their own)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition collecting all three messages; the parable of the sower read as multiple creations, the cosmic competition of humanities, and the inheritance" },
@@ -92,7 +92,7 @@ Botschaft, wo er darlegt, wie die Elohim die Zukunft einer Zivilisation
 vorhersehen können, die sie nicht beherrschen, bittet Yahweh Raël, ein einziges
 Bild vor Augen zu behalten:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=108) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}
 Genau dasselbe gilt für die Menschheit, wenn man jeden Menschen wie eine Zelle
 des großen Wesens im Werden betrachtet, das heißt der Menschheit.
 {% end %}
@@ -106,7 +106,7 @@ unmittelbar daneben stellt: dass sich die Zukunft der Menschheit, *weil* sie ein
 solcher Organismus ist, so vorhersagen lässt, wie ein Embryologe die eines
 Fötus vorhersagt.
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=106) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=99) %}
 Deshalb können wir zwar die Zukunft von Individuen nicht vorhersagen, wohl aber
 vorhersagen, was einem lebendigen Organismus während der Schwangerschaft oder
 einer Menschheit im Lauf ihrer Entwicklung normalerweise widerfahren sollte.
@@ -492,7 +492,7 @@ ist die Verteilung, welches von beidem*. Das ist keine dem Kanon aufgehäufte
 Spekulation; es ist, was der Kanon ausdrücklich behauptet, dass die Elohim es
 können, und warum:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=105) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=98) %}
 Ebenso wissen wir, die wir es gewohnt sind, auf einer Unendlichkeit von Planeten
 Leben zu erschaffen, was einer Menschheit widerfährt, die Ihren Stand der Technik
 erreicht hat, ohne ein gleichwertiges Niveau der Weisheit erreicht zu haben.
@@ -590,7 +590,7 @@ er sich weigert, den Filter zu einer Wand aus reinem Zufall zu machen. Er macht 
 zu einer *Prüfung der Reife* — und, entscheidend, er macht ihn gewinnbar, wenn auch
 kaum:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=103) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=96) %}
 Es besteht leider nur eine Chance von hundert, dass Ihre Menschheit sich nicht
 selbst zerstört, und jeder Raëlianer muss so handeln, als wäre die Menschheit weise
 genug, diese winzige Chance, dem endgültigen Kataklysmus zu entkommen, zu begreifen
@@ -667,7 +667,7 @@ Zellen fressen dürfe; eine zivilisatorische Morphologie kann den Art-Organismus
 beschreiben und zugleich darauf beharren, wie der Kanon es in der Tat tut, dass
 seinem Zweck durch das Gedeihen der Zellen gedient ist, nicht durch ihr Verausgaben.
 Der Kanon ist genau in diesem Punkt nachdrücklich: Das Unendliche ist uns
-„unendlich gleichgültig“ ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=71) %}LWTE 1:71{% end %}),
+„unendlich gleichgültig“ ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=65) %}LWTE 1:65{% end %}),
 was bedeutet, dass keinem kosmischen Körper unser Opfer geschuldet ist; und das
 Leben des Einzelnen „hat nur die Bedeutung, die wir ihm geben“, ein von innen
 zugewiesener Wert, nicht ein von oben entzogener. Der Organismus, den dieses Projekt

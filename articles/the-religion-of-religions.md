@@ -21,7 +21,7 @@ references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶2–6: the craft and the being; ¶44: the charge; ¶46: why Vorilhon; ¶53: 'We are men like you'); Chapter 5 (¶54: Buddhism, Islam, the Mormons; ¶57: the infinite in both directions; ¶66: the name Raël); Chapter 6 (¶3–17: geniocracy, humanitarianism, world government; ¶16: the single language and currency; ¶21–25: the embassy and the conditional return; ¶29: 'the Raëlian Movement'); Chapter 7 (¶24: 'Our only religion is human genius'; ¶31: the council of the eternals; ¶33: the name Elohim)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2 (¶9–15: the 7 October 1975 journey; ¶30–34: neither god nor soul, the infinity argument; ¶50: Yahweh president of the council; ¶62–64: the meal of the forty; ¶104: the embassy in Israel; ¶105: 'the religion of religions… an atheistic religion'; ¶106–109: the Koran cited); Chapter 3 (¶113: sensual meditation; ¶225–229: the four appeals; ¶257–260: 'the last of the line of the prophets')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶79: the atheist-religion self-definition); Chapter 2 (¶89–99: the paternity revelation and its rider); Chapter 3 (¶27–38: religion from religare; ¶34: Joseph Smith among the prophets)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶70: the atheist-religion self-definition); Chapter 2 (¶85–93: the paternity revelation and its rider); Chapter 3 (¶22–32: religion from religare; ¶27: Joseph Smith among the prophets)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages" },
 
     # — Other primary Raëlian works —
@@ -37,7 +37,7 @@ references = [
     { id = "divine-signposts", locator = "Deguchi Onisaburō's doctrinal statement of early Oomoto" },
     { id = "the-collection-of-divine-messages-of-cai-dai", locator = "Thánh Ngôn Hiệp Tuyển, Volume One — WoH Translation ¶2 (the Jade Emperor styled Cao Đài); ¶69 ('Now am I called Cao Đài'); ¶73 (the Third Universal Amnesty)" },
     { id = "the-qur-an", locator = "Suras 21:1–5 (the poet-seer mockery, quoted back by Yahweh at ETTMTTP 2:106–109), 54:1, 56:15–24 — engaged via the quran-woh translation" },
-    { id = "book-of-mormon", locator = "the American precedent of a new scripture delivered to a named modern man — named in the canon at TBWTT 5:54 and LWTE 3:34" },
+    { id = "book-of-mormon", locator = "the American precedent of a new scripture delivered to a named modern man — named in the canon at TBWTT 5:54 and LWTE 3:27" },
 
     # — The scholarship of categorization —
     { id = "aliens-adored", locator = "pp. 30 ('a new fundamentalist, apocalyptic Abrahamic religion'), 31–36 (biography and first encounter), 49 ('a kind of religious genius'), 56–64 (structure, festivals, finances), 77–79 (the Stark audit), 98–100 (millenarian mechanics; 'uncompromisingly empirical'), 117–122 (demographics), 157–176 (the anticult wars), 177–194 (Clonaid), 195–203 (the postmodern verdict)" },
@@ -348,7 +348,7 @@ reader may find them difficult to reconcile.
 The third book completes the escalation. In *Let's Welcome the
 Extraterrestrials* (1979), Yahweh discloses the messenger's paternity:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=89) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=85) %}
 The person whom you looked upon as your father was not your real father.
 After the explosion at Hiroshima, we decided that the time had come for us
 to send a new messenger on Earth. He would be the last prophet, but the
@@ -358,7 +358,7 @@ was taken aboard one of our ships and inseminated as we had done with the
 mother of Jesus.
 {% end %}
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=92) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=87) %}
 Your real father is also the father of Jesus, and that makes you brothers.
 You are presently looking at your father. Your foster-father was like
 Joseph, he was to take care of you and your mother until such time as you
@@ -371,7 +371,7 @@ being the whole story. The first is the rider the
 same chapter attaches, in the canon's most quoted piece of
 self-limitation: "It is not the messenger who is important, but the
 message itself… Do not look at my finger, but rather in the direction in
-which it's pointed" (LWTE 2:96–99). The second is the phrase inside the
+which it's pointed" (LWTE 2:91–93). The second is the phrase inside the
 paternity passage itself — *the first one to address Mankind asking them
 to understand and not to believe* — which is the canon's own epistemology
 in one line. It complicates any classification based solely on familiar
@@ -438,7 +438,7 @@ as an aspiration, while critics cite it as evidence of elitism.{{ footnote(id="1
 The third book develops this self-definition through an etymology
 discussed in the corpus's {% wiki(slug="religion") %}religion entry{% end %}:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=32) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=25) %}
 Thus it becomes clear that the Raelian Movement is a religion; it ties the
 creators of Humanity with their creation, even if it is in fact an atheist
 religion, in the sense that it does not believe in the existence of a God
@@ -450,10 +450,10 @@ form of divinity".
 creators and created, with belief in the supernatural treated, in the
 canon, as an accident of the primitive phase. The same chapter names the prophets the
 link ran through — "Jesus… Moses, Buddha, Mohammed, Joseph Smith, and
-all the other great prophets" (LWTE 3:34), the 1830 American prophet
+all the other great prophets" (LWTE 3:27), the 1830 American prophet
 included as casually as the rest — and the first chapter of the same book
 compresses the whole system into two sentences that could serve as the
-movement's catechism: {% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=79) %}"There is no "God", but there are the Elohim… there is no autonomous soul flying from the body after death, but there is the genetic code which allows access to eternal life"{% end %}.
+movement's catechism: {% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=70) %}"There is no "God", but there are the Elohim… there is no autonomous soul flying from the body after death, but there is the genetic code which allows access to eternal life"{% end %}.
 
 Chryssides formulated the category it implies in a passage that provides a
 useful analytic key: "suppose it were the case that the
@@ -521,7 +521,7 @@ post-1947 setting more clearly than it identifies the movement's theology
 or lineage.
 
 **Atheistic religion.** Emic, and precise. The canon asserts it (ETTMTTP
-2:105, LWTE 3:32), several scholars adopt it, and the nearest
+2:105, LWTE 3:25), several scholars adopt it, and the nearest
 comparison is the one the movement's own literature reaches for:
 Theravada Buddhism, a soteriology without a creator god. The label's
 limit is that it names an absence. "Atheistic religion" tells you what

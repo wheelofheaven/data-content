@@ -19,7 +19,7 @@ summary = "In a single sentence of the second Raëlian message, Yahweh asks Raë
 keywords = ["civilizational morphology", "civilizational biology", "macrobiology", "humanity as organism", "macro-history", "Guns Germs and Steel", "natural experiments of history", "Spengler", "Toynbee", "Tainter", "collapse", "scaling laws", "noosphere", "Teilhard", "Vernadsky", "cosmic competition", "samsara", "Golden Age", "Elohim hypothesis", "Great Filter"]
 references = [
     # — The canon passages under discussion —
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶104–111: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶105: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶103, 204: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; ¶71: the Infinite indifferent, natural selection 'at all levels')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶97–103: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶98: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶96, 205: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; Chapter 1, ¶65: the Infinite indifferent, natural selection 'at all levels')" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'The Second Encounter' (¶23: humanity at 'a turning point of its history,' the golden age of interplanetary civilization vs. self-destruction; ¶24: Buddhism reread — humanity as a whole must resist the 'demons,' the svastika as the cycle-symbol, paradise vs. the hell of a return to the primitive stage; ¶25: 'a natural selection, on the cosmic scale, of the species capable of escaping their planet')" },
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (¶2: the Elohim's own civilization at 'a technical and scientific level comparable to the one you will soon attain'); Chapter 4 (¶61: planets die, humanity must reach a level sufficient to move worlds or re-create adapted life); Chapter 5 (¶65: the offer of 'political and humanitarian baggage' before scientific inheritance); Chapter 7 (¶¶6, 23: self-destruction, and the Elohim's fear of finding no civilization as advanced as their own)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition collecting all three messages; the parable of the sower read as multiple creations, the cosmic competition of humanities, and the inheritance" },
@@ -93,7 +93,7 @@ message, laying out how {% wiki(slug="elohim") %}the Elohim{% end %} can foresee
 civilization they cannot control, {% wiki(slug="yahweh") %}Yahweh{% end %} asks {% wiki(slug="rael") %}Raël{% end %} to hold a single
 picture in mind:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=108) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}
 It is exactly the same thing for humanity, considering each human to be
 like a cell of the great being in gestation, that is, Humanity.
 {% end %}
@@ -106,7 +106,7 @@ discipline rather than a devotional image is the sentence Yahweh places
 right beside it: that *because* humanity is such an organism, its future
 can be predicted the way an embryologist predicts a foetus's.
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=106) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=99) %}
 This is why, although we cannot predict the future of individuals, we can
 predict, however, what should normally happen to a living organism during
 the gestation period or to a Humanity in the course of its development.
@@ -475,7 +475,7 @@ moment it will either mature or destroy itself, and here is the
 distribution of which*. That is not speculation piled on the canon; it is
 what the canon explicitly claims the Elohim can do, and why:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=105) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=98) %}
 In the same way, we who are used to creating life on an infinity of
 planets, know what happens to a Humanity which has reached your level of
 technology, without having reached an equivalent level of wisdom.
@@ -571,7 +571,7 @@ the canon differs is in refusing to make the filter a wall of pure chance.
 It makes it a *test of maturity* — and, crucially, it makes it winnable,
 though barely:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=103) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=96) %}
 There is, unfortunately, but one chance in one hundred that your Humanity
 will not self-destroy, and every Raelian must act as if Mankind would be
 wise enough to understand and grab this tiny chance of escaping the final
@@ -644,7 +644,7 @@ morphology can describe the species-organism while insisting, as the canon
 in fact insists, that its purpose is served by the flourishing of the
 cells, not their expenditure. The canon is emphatic on exactly this point:
 {% wiki(slug="infinity") %}the Infinite{% end %} is "infinitely indifferent" to us
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=71) %}LWTE 1:71{% end %}),
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=65) %}LWTE 1:65{% end %}),
 which means no cosmic body is owed our sacrifice; and the individual's life
 "has only the importance that we give it," a value assigned from within,
 not extracted from above. The organism this project describes matures *by*

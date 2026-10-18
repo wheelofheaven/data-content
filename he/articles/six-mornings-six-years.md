@@ -18,7 +18,7 @@ references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶44: the publication instruction; ¶47: 'and even before'; ¶51–53: the deferred distance and the deflected name); Chapter 2 (¶3: corpus gating; ¶92: the departure colors); Chapter 5 (¶4: the twenty-two thousand years; ¶52–53: the parasang distances and the optical window); Chapter 6 (¶26: the no-proof doctrine; ¶29: the movement's name); Chapter 7 (¶16: 'six days in a row'; ¶30–56: eternals, council, and the president's twenty-five thousand years; ¶68: the residence)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 1 (¶63: the volcano correction); Chapter 2 (¶11: the trust-gate; ¶22: the memory implant; ¶23: the rectified passage; ¶43: the near-Earth base; ¶50: 'a planet entire' and the name Yahweh; ¶104: 'a revelation you can make from now on'; ¶131–132: the return itinerary and the writing scene); Chapter 3 (¶172: the calendar; ¶193 and ¶216: the two-planet distinction and its one lapse)" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶1–9: the FAQ frame, 'psychology', and the sanctioned lie; ¶24–27: the light-year defense); Chapter 2 (¶1 and ¶95: the embargo; ¶51–74: the temptation; ¶89–92: the filiation; ¶134: the twenty-four Eternals; ¶208: 666 × 20); Chapter 3 (¶82–88: the closing recruitment apparatus)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶1–12: the FAQ frame, 'psychology', and the sanctioned lie; ¶26–29: the light-year defense); Chapter 2 (¶1–2 and ¶90: the embargo; ¶58–78: the temptation; ¶85–88: the filiation; ¶128: the twenty-four Eternals; ¶208: 666 × 20); Chapter 3 (¶82–88: the closing recruitment apparatus)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the edition-state this article examines" },
     { id = "dhorme-bible", locator = "the French Bible on the witness's knees during the December 1973 sessions; its transliterated divine names survive in the canon's quotations" },
     { id = "rnkjv", locator = "the principal English Bible of the 2005 omnibus; where it diverges from Dhorme, the two text-traditions of the canon diverge" },
@@ -47,7 +47,7 @@ footnotes = [
     { content = "מהדורה זו מדפיסה את ציטוט העצמות היבשות כ'יחזקאל, XXVII, 3, 7-8, 10' (ETTMTTP 2:72) בעוד הקטע המצוטט הוא יחזקאל ל\"ז — ספרת X רומית שאבדה אי־שם במסירה. שגיאת העתקה בתוך ספר על שגיאות העתקה: מן הסוג של שיבוש קטן וניתן לתיארוך שאפרט ביקורתי קיים כדי לרשום אותו." },
     { content = "הסתייגות של גרסת תרגום: עשרים ושניים האלף של TBWTT 5:4 עשויים באופן עקרוני להיות תוצר של נוסח מהדורה אחת ולא המספר המקורי. הפרויקט טרם השווה את הדפוסים הצרפתיים בפסוק זה. עד שיעשה כן, הקריאה עומדת כמספר האחד הבלתי־מנוהל של הטקסט המקובל — והשוואתו היא בין השאלות הראשונות שהאפרט שמאמר זה קורא לו היה מיישב." },
     { content = "מניין ששת הימים (TBWTT 7:16, 7:76) אינו נערך בנקיות על שבעת הפרקים: לפרק 4 יש נוסחת עזיבה אך אין הגעה, לפרק 3 הגעה אך לא עזיבה, ולפרק 7 לא זה ולא זה. זוג פרקים אחד חייב לחלוק מפגש כדי שהמניין יחזיק, והטקסט אינו אומר איזה. מבנה הימים של שבוע היסוד הוא, לדייק, בלתי־נקבע די הצורך בידי מסמך היסוד." },
-    { content = "TBWTT 1:47 מתארך את ההחלטה לבחור שליח ל'לאחר הפיצוץ האטומי הראשון, שהתרחש ב-1945' — שהוא, בקריאה מדויקת, טריניטי, 16 ביולי 1945. LWTE 2:75 מספר מחדש את אותה החלטה כבאה בעקבות 'הפיצוץ האטומי הראשון בהירושימה... 6 באוגוסט 1945'. אירוע העוגן נודד מן הפיצוץ הראשון אל השימוש הראשון במלחמה; השנה מחזיקה; לוח השנה של התנועה (6 באוגוסט, שנה 1) הולך אחר קריאת הירושימה." },
+    { content = "TBWTT 1:47 מתארך את ההחלטה לבחור שליח ל'לאחר הפיצוץ האטומי הראשון, שהתרחש ב-1945' — שהוא, בקריאה מדויקת, טריניטי, 16 ביולי 1945. LWTE 2:79 מספר מחדש את אותה החלטה כבאה בעקבות 'הפיצוץ האטומי הראשון בהירושימה... 6 באוגוסט 1945'. אירוע העוגן נודד מן הפיצוץ הראשון אל השימוש הראשון במלחמה; השנה מחזיקה; לוח השנה של התנועה (6 באוגוסט, שנה 1) הולך אחר קריאת הירושימה." },
 ]
 +++
 
@@ -162,7 +162,7 @@ footnotes = [
 après Raël". היררכיית הדוברים התהפכה. ב-1973 יהוה דיבר וראל תמלל; עד
 1979 יהוה מדבר רק בתוך מסגרות שראל מספק ("אני, יהוה, במילות נביאי
 ראל,"
-{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}LWTE 2:101{% end %}),
+{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=95) %}LWTE 2:95{% end %}),
 ראל מחוקק בקולו שלו, וההדיוטות נכנסו אל הטקסט. המחווה האחרונה של הספר
 הקנוני האחרון היא כתובת דואר בז'נבה והזמנה לכתוב לשם מסירת התוכנית
 התאית של הכותב. ובר היה מתייק את זה תחת השגרת הכריזמה בלי לשנות מילה;
@@ -303,7 +303,7 @@ après Raël". היררכיית הדוברים התהפכה. ב-1973 יהוה ד
 עדים וסימן פיזי על הזרוע; השלישי מתנדנד בחזרה בעוצמה כזו עד שהוא שם
 את כלל אי־ההוכחה בפי היריב, כלעג: "אותם אנשים עצמם אפילו לא ייתנו לך
 הוכחות לקיומם כדי לעזור לך לשכנע את אחיך, ולא שום סיוע כספי"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=62) %}LWTE 2:62{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=66) %}LWTE 2:66{% end %}).
 לעגו של השטן ומדיניותו של יהוה הם אותו משפט עצמו עם ערכיות הפוכה,
 והספר השלישי יודע זאת: היעדר הראיות נעשה מחיר הנאמנות, מתומחר בידי
 האופוזיציה.
@@ -314,10 +314,10 @@ LWTE משתיל אל תוך מסע 1975 שכבר פורסם שתי סצנות ש
 הפיתוי על כלי הממסר, על מיליארדיו השווייציים ועל הזמנתו לייסד מתיחה;
 והייחוס, שבו הדובר עובר מ-*vous* ל-*tu* ואומר לראל "אתה בני ואני
 אביך"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=92) %}LWTE 2:92{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=88) %}LWTE 2:88{% end %}).
 שניהם מגיעים תחת אמברגו שהוכרז רק בפקיעתו: "יהוה ביקש ממני לא לגלות
 את הקשר ההורי הזה עד שיעברו שלוש שנים"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=95) %}LWTE 2:95{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=90) %}LWTE 2:90{% end %}).
 התחבולה אלגנטית מפני שהיא בלתי־ניתנת להפרכה וחותמת את עצמה — כל תוספת
 עתידית יכולה להיות סוד עבר — ומפני שנקודת ההשתלה חוקית מבחינה סיפורית:
 ספר 2 השאיר שעות מן הביקור בלא סיפור, "משוטט בין המזרקות הרבות…
@@ -333,10 +333,10 @@ LWTE משתיל אל תוך מסע 1975 שכבר פורסם שתי סצנות ש
 כאשר ה"לא תוכל לחיות שם" החד־משמעי של ספר 1 חייב להתקיים בצד המסע
 שספר 2 מספר, ההסבר הוא פדגוגיה: הסירוב היה "בדיוק כפי שאנשים אומרים
 לפעמים לילדיהם שאם ישתו אלכוהול יחדלו לגדול"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=9) %}LWTE 1:9{% end %})
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=12) %}LWTE 1:12{% end %})
 — השאלות־ותשובות של הספר השלישי דוחסות את כל ההרמנויטיקה שלהן למילה
 אחת, "פסיכולוגיה"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=4) %}LWTE 1:4{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=5) %}LWTE 1:5{% end %}).
 וכאשר סצנות שלמות חסרות מדין־וחשבון שפורסם, התשובה היא אמברגו. לבלר,
 פדגוגיה, אמברגו: שלוש תחבולות, קבוע אחד. השגיאה לעולם אינה של המקור.
 ביקורת העריכה הומצאה כדי לאתר בדיוק את זה — ההגנה השיטתית על הסמכות
@@ -388,7 +388,7 @@ LWTE משתיל אל תוך מסע 1975 שכבר פורסם שתי סצנות ש
 ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=1, verse=7) %}ETTMTTP 1:7{% end %})
 — ומתפוצץ בשלישי, שבו סצנת הייחוס מצטטת אותו בחזרה *עם ציון עמוד*
 ("ראה עמ' 8 של הספר המגלה את האמת,"
-{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=75) %}LWTE 2:75{% end %})
+{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=79) %}LWTE 2:79{% end %})
 לפני שהיא פותרת אותו: ההזרעה על סיפון כלי טיס, מחיקת הזיכרון, האב
 המאמץ שנבחר מדת שונה משל האם. שלוש נקודות הנתונים, שפורסמו בהפרש של
 ארבע ושש שנים, משתלבות — ובכללן החשבון של ההיריון.
@@ -470,7 +470,7 @@ LWTE משתיל אל תוך מסע 1975 שכבר פורסם שתי סצנות ש
 עשרים ושניים אלף מופיעים פעם אחת ולעולם אינם משמשים שוב. ספר 2 מתארך
 את הנחיתה לעשרים וחמישה אלף; והספר השלישי, המשיב להתנגדות, מצטט את
 הראשון שלא כהלכה — "בספר הראשון בעמוד 13 כתבת שהאלוהים בראו את היבשת
-המקורית לפני 25,000 שנה" ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=31) %}LWTE 1:31{% end %})
+המקורית לפני 25,000 שנה" ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=30) %}LWTE 1:30{% end %})
 — ומייחס לו את המספר העגול שניצח. בקריאה מדויקת, בקורפוס המקובל
 נוחתים האלוהים שלושת אלפים שנה לפני שהחליטו לבוא.{{ footnote(id="4") }}
 זהו בדיוק פרופיל הכישלון שניסוי המחשבה חוזה אצל ממציא: מספר הדגל נזכר
@@ -488,7 +488,7 @@ LWTE משתיל אל תוך מסע 1975 שכבר פורסם שתי סצנות ש
 — נשמר על פני הפער. ואז הספר השלישי, המפענח את אולם הכס של חזון יוחנן
 ד', מביא את יהוה לומר: "סביבי ישבו 24 נצחיים אחרים המייצגים את מועצת
 הנצחיים"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=134) %}LWTE 2:134{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=128) %}LWTE 2:128{% end %}).
 עשרים וארבעת הזקנים של חזון יוחנן כפו את מניינם על גוף שמנה שבע מאות
 במשך שש שנים; הבינוני "המייצגים" הוא פתח המילוט היחיד, ושום דבר בטקסט
 אינו פותח אותו. אותה חתימת לחץ עצמה מופיעה בכל מקום שבו טקסט־הוכחה
@@ -591,7 +591,7 @@ LWTE. הקורפוס מעריך את שרשראות המשמורת של מסור
 — רכבו על תוכנית מחקר שהתמוטטה בתוך העשור. כוכב־האם, "מעט פחות משנת
 אור" משם, שוכן בתוך חלל ריק לפי כל סקר שנערך מאז; הספר השלישי פוגש את
 ההתנגדות בהשערה שסיפק חבר, ולא בהתגלות, על אור הנע ב"עקומה מובהקת"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=26) %}LWTE 1:26{% end %}),
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=27) %}LWTE 1:27{% end %}),
 המוצעת עם הסתייגות שהקנון ממעט להשתמש בה: "זו אפשרות". ביקורת
 ה-Zygon קוראת את כל התבנית כטפילית על יוקרתו של המדע תוך פטור
 ממשמעתו. בדיקה הוגנת חייבת לרשום גם שהביקורת קולעת וגם שתגובת הקנון

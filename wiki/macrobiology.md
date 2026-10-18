@@ -32,8 +32,8 @@ core_premise = "Humanity is a living system one level of individuality above the
 etymology = "From Greek *makrós* ('large') + *bíos* ('life'); the exact mirror of *microbiology* (*mikrós*, 'small'). Names, by symmetry, the study of the living systems composed of biological individuals, as microbiology studies the systems composed of the units below the cell"
 scientific_basis = "The mainstream biology of individuality: the major evolutionary transitions (Maynard Smith & Szathmáry, 1995); superorganism theory (Wheeler, 1911; Hölldobler & Wilson, 2009); organismality as graded cooperation-vs-conflict (Queller & Strassmann, 2009; Godfrey-Smith, 2009); the Gaia hypothesis (Lovelock & Margulis, 1974)"
 the_gaia_problem = "The Gaia hypothesis (planet-as-organism) was checked by the objection of W. Ford Doolittle (1981) and Richard Dawkins (1982): with no population of planets reproducing with variation, natural selection cannot have built a planetary organism — Earth has no parents and no rivals"
-the_corpus_answer = "The canon supplies the missing population: the Elohim create life «on an infinity of planets» (LWTE 2:105) under «a natural selection, on the cosmic scale» (ETTMTTP 2:25) — a breeder, a population of humanities, and a selective filter, exactly what a science of planetary organisms requires and could never obtain for itself"
-status_in_source_material = "The humanity-as-organism premise is explicit canon (LWTE 2:104–111; ETTMTTP 2:32, 'all in the universe is living… The earth is living, like all the planets'). 'Macrobiology' as the discipline's name, and its synthesis with the mainstream biology of individuality, is corpus-internal interpretive construction"
+the_corpus_answer = "The canon supplies the missing population: the Elohim create life «on an infinity of planets» (LWTE 2:98) under «a natural selection, on the cosmic scale» (ETTMTTP 2:25) — a breeder, a population of humanities, and a selective filter, exactly what a science of planetary organisms requires and could never obtain for itself"
+status_in_source_material = "The humanity-as-organism premise is explicit canon (LWTE 2:97–103; ETTMTTP 2:32, 'all in the universe is living… The earth is living, like all the planets'). 'Macrobiology' as the discipline's name, and its synthesis with the mainstream biology of individuality, is corpus-internal interpretive construction"
 epistemic_status = "Speculative in the corpus's strict sense: interpretive synthesis running ahead of any single source. The defensible claim is that humanity is *becoming* one organism by a process biology recognizes and can test for — not that it already is one"
 relationship_to_civilizational_morphology = "The biological counterpart of the discipline the companion article *The Shape of Humanity* names *civilizational morphology*. Morphology reads the shape of the whole; a biology asserts the whole is alive. Macrobiology is the name that commits to the aliveness the canon states outright"
 distinguished_from = "Astrobiology (life in the universe, at or below our scale); civilizational morphology (the same object, named to hedge the aliveness claim); the Gaia hypothesis (planet-only, and without the population selection requires); sociobiology (behavior of social animals, not the whole-as-individual)"
@@ -178,7 +178,7 @@ surface of a larger one. One rung further in, humanity is an organism in its own
 right. {% wiki(slug="yahweh") %}Yahweh{% end %} asks {% wiki(slug="rael") %}Raël{% end %}
 to hold the picture exactly:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=108) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}
 It is exactly the same thing for humanity, considering each human to be like a
 cell of the great being in gestation, that is, Humanity.
 {% end %}
@@ -186,7 +186,7 @@ cell of the great being in gestation, that is, Humanity.
 And the resource that a science of planetary organisms needs — a population of
 specimens under selection — the canon states as the Elohim's own method. They
 create life "on an infinity of planets"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=105) %}LWTE 2:105{% end %}),
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=98) %}LWTE 2:98{% end %}),
 and the outcomes are filtered:
 
 {% library(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=25) %}

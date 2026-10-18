@@ -19,7 +19,7 @@ references = [
     # — The canon under comparison —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶47 (the choice of a messenger after the first atomic explosion); Chapter 2, ¶¶55–62 (the Flood as nuclear strike and the orbital ark), ¶¶80–87 (Sodom); Chapter 5, ¶4 (the Aquarius threshold), ¶65; Chapter 6, ¶¶3–6 (geniocracy), ¶25; Chapter 7, ¶¶1–6 ('The atomic bombs'), ¶¶25–27 (the disappeared creators and the inheritance protocol), ¶39" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, ¶7 (the August 6 anniversary), ¶¶23–25 (the non-intervention rectification and the cosmic filter), ¶39 (against 'dissuasion'); Chapter 3, ¶172 (the calendar of the new era), ¶233" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1, ¶8 (apocalypse as revelation), ¶14 (the thought experiment of the re-seeded Earth), ¶54 (the deduced flood); Chapter 2, ¶26 (the never-again vote), ¶55 (Satan's proposal), ¶103 (one chance in a hundred), ¶¶155–216 (the Revelation decode), ¶¶204–209 (the final test; the 666th generation); Chapter 3, ¶¶58–80 (the responsibility of those who obey orders); Chapter 4, ¶35" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1, ¶10 (apocalypse as revelation), ¶15 (the thought experiment of the re-seeded Earth), ¶47 (the deduced flood); Chapter 2, ¶28 (the never-again vote), ¶59 (Satan's proposal), ¶96 (one chance in a hundred), ¶¶153–219 (the Revelation decode), ¶¶205–209 (the final test; the 666th generation); Chapter 3, ¶¶56–81 (the responsibility of those who obey orders); Chapter 4, ¶¶34–36" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages" },
 
     # — The Jacobsen corpus —
@@ -158,7 +158,7 @@ The canon has a name for this labor. Its reading of *apocalypse* as
 *unveiling* is set out in the source material in so many words — "the
 'Age of Revelation', that is to say, the age when everything can be
 understood, and not the 'end of the world'"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=8) %}LWTE 1:8{% end %})
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=10) %}LWTE 1:10{% end %})
 — and the age is given a precise opening date{{ footnote(id="2") }}. The
 Elohim state that they chose their last messenger *because of* the bomb:
 
@@ -248,7 +248,7 @@ the Hiroshima aircraft with the war criminals of the camps, refuses the
 defense of orders in both cases, and then extends the refusal forward, to
 the missileers of the present:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=58) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=57) %}
 The man who launched the bomb on Hiroshima was only following orders. In
 every powerful country, there are people who are ready to launch nuclear
 missiles in good faith and with a clear conscience, knowing that they are
@@ -481,7 +481,7 @@ within the frame, a vision shown to John "through a visualizer similar to
 your television sets" of the events awaiting the Age of Apocalypse — and
 the decode is, verse by verse, a nuclear-war scenario. The sixth seal:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=155) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=153) %}
 The sixth seal represents the final danger for Humanity, the greatest
 danger, the one which could destroy it completely: the atomic war. The
 'great earthquake' is the explosion itself, the 'black sun' is the
@@ -495,10 +495,10 @@ into antinuclear shelters.
 The seventh seal, the same text continues, "represents the final
 cataclysm, a worldwide atomic war, which ends with the destruction of all
 life on Earth"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=162) %}LWTE 2:162{% end %});
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=160) %}LWTE 2:160{% end %});
 the locusts of the ninth chapter are read as aircraft "loaded with atomic
 bombs," their scorpion sting the radiation poisoning of the fallout zone
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=182) %}LWTE 2:182{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=184) %}LWTE 2:184{% end %}).
 Whatever one makes of the hermeneutics — and this project labels the
 canon's foundational claims `framework` precisely because mainstream
 scholarship does not endorse them — the literary fact is arresting on its
@@ -552,7 +552,7 @@ escaping their planetary system are always pacific.
 
 The corpus even quantifies the odds — "one chance in one hundred that
 your Humanity will not self-destroy"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=103) %}LWTE 2:103{% end %})
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=96) %}LWTE 2:96{% end %})
 — and instructs its readers to act as if the chance were live. Jacobsen
 declines to give odds. Her sources give them for her. Perry, recalling the
 night in 1979 when a training tape convinced NORAD's computers that
@@ -594,7 +594,7 @@ Set beside that ending, now, a passage the canon published in 1979 as a
 throwaway thought experiment — an aid for readers struggling with the
 idea that Genesis records laboratory work:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=1, verse=14) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=1, verse=15) %}
 Imagine that an atomic war breaks out tomorrow, and all life on Earth is
 destroyed. Then 10,000 years later, extra-terrestrials settle down to
 create new living organisms…
@@ -743,7 +743,7 @@ adversary: the {% wiki(slug="satan") %}Satan{% end %} faction of the
 which holds that synthetic species are irredeemably violent and regards
 humanity's final test as "the last opportunity for Satan to prove that he
 was right"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=204) %}LWTE 2:204{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=205) %}LWTE 2:205{% end %}).
 Every launch officer in Jacobsen's chapters is, on that reading, an
 unwitting witness for one side of a wager older than the species. She
 would not accept the sentence. Her book is, nonetheless, the most

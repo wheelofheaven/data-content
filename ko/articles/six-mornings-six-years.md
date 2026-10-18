@@ -18,7 +18,7 @@ references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶44: the publication instruction; ¶47: 'and even before'; ¶51–53: the deferred distance and the deflected name); Chapter 2 (¶3: corpus gating; ¶92: the departure colors); Chapter 5 (¶4: the twenty-two thousand years; ¶52–53: the parasang distances and the optical window); Chapter 6 (¶26: the no-proof doctrine; ¶29: the movement's name); Chapter 7 (¶16: 'six days in a row'; ¶30–56: eternals, council, and the president's twenty-five thousand years; ¶68: the residence)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 1 (¶63: the volcano correction); Chapter 2 (¶11: the trust-gate; ¶22: the memory implant; ¶23: the rectified passage; ¶43: the near-Earth base; ¶50: 'a planet entire' and the name Yahweh; ¶104: 'a revelation you can make from now on'; ¶131–132: the return itinerary and the writing scene); Chapter 3 (¶172: the calendar; ¶193 and ¶216: the two-planet distinction and its one lapse)" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶1–9: the FAQ frame, 'psychology', and the sanctioned lie; ¶24–27: the light-year defense); Chapter 2 (¶1 and ¶95: the embargo; ¶51–74: the temptation; ¶89–92: the filiation; ¶134: the twenty-four Eternals; ¶208: 666 × 20); Chapter 3 (¶82–88: the closing recruitment apparatus)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶1–12: the FAQ frame, 'psychology', and the sanctioned lie; ¶26–29: the light-year defense); Chapter 2 (¶1–2 and ¶90: the embargo; ¶58–78: the temptation; ¶85–88: the filiation; ¶128: the twenty-four Eternals; ¶208: 666 × 20); Chapter 3 (¶82–88: the closing recruitment apparatus)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the edition-state this article examines" },
     { id = "dhorme-bible", locator = "the French Bible on the witness's knees during the December 1973 sessions; its transliterated divine names survive in the canon's quotations" },
     { id = "rnkjv", locator = "the principal English Bible of the 2005 omnibus; where it diverges from Dhorme, the two text-traditions of the canon diverge" },
@@ -47,7 +47,7 @@ footnotes = [
     { content = "이 판본은 마른 뼈 인용을 '에스겔 XXVII, 3, 7-8, 10'(ETTMTTP 2:72)으로 인쇄하는데, 인용된 대목은 에스겔 37장이다 — 로마 숫자 X 하나가 전승 어딘가에서 사라진 것이다. 필사 오류에 관한 책 안의 필사 오류이니, 비평 장치가 기록하기 위해 존재하는 바로 그런 종류의, 작고 연대를 매길 수 있는 훼손이다." },
     { content = "번역 이문(異文)에 관한 단서: TBWTT 5:4의 이만 이천은 원래 수치라기보다 어느 한 판본의 옮김이 남긴 인공물일 수도 있다. 이 프로젝트는 이 절에 대해 프랑스어 인쇄본들을 아직 대조하지 않았다. 그럴 때까지 그 독법은 전승된 본문의 유일한 관리되지 않은 수로 남는다 — 그리고 그것을 대조하는 일은 이 글이 요청하는 비평 장치가 해결할 첫 물음들 가운데 하나이다." },
     { content = "엿새라는 셈(TBWTT 7:16, 7:76)은 일곱 장에 깔끔하게 대응하지 않는다. 4장에는 떠남의 정형구가 있으나 도착이 없고, 3장에는 도착이 있으나 떠남이 없으며, 7장에는 둘 다 없다. 그 셈이 성립하려면 어느 한 쌍의 장이 한 회차를 함께 써야 하는데, 본문은 어느 쌍인지 말하지 않는다. 그 창설 주간의 날짜 구조는, 엄밀히 말해, 창설 문헌에 의해 미결정으로 남는다." },
-    { content = "TBWTT 1:47은 사자(使者)를 택하기로 한 결정의 시점을 '1945년에 일어난 최초의 원자폭발 이후'로 잡는데, 정확히 읽으면 그것은 1945년 7월 16일의 트리니티 실험이다. LWTE 2:75는 같은 결정을 '히로시마에서의 최초의 원자폭발… 1945년 8월 6일'에 뒤따른 것으로 다시 이야기한다. 그 기준 사건은 최초의 폭발에서 전쟁에서의 최초 사용으로 흘러가고, 연도는 유지되며, 그 운동의 달력(8월 6일, 1년)은 히로시마 독해를 따른다." },
+    { content = "TBWTT 1:47은 사자(使者)를 택하기로 한 결정의 시점을 '1945년에 일어난 최초의 원자폭발 이후'로 잡는데, 정확히 읽으면 그것은 1945년 7월 16일의 트리니티 실험이다. LWTE 2:79는 같은 결정을 '히로시마에서의 최초의 원자폭발… 1945년 8월 6일'에 뒤따른 것으로 다시 이야기한다. 그 기준 사건은 최초의 폭발에서 전쟁에서의 최초 사용으로 흘러가고, 연도는 유지되며, 그 운동의 달력(8월 6일, 1년)은 히로시마 독해를 따른다." },
 ]
 +++
 
@@ -178,7 +178,7 @@ footnotes = [
 1973년에는 야훼가 말하고 라엘이 받아 적었다. 1979년이 되면 야훼는 오직
 라엘이 마련한 틀 안에서만 말하고("나 야훼는, 내 예언자 라엘의 말을
 통하여,"
-{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}LWTE 2:101{% end %}),
+{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=95) %}LWTE 2:95{% end %}),
 라엘은 제 목소리로 입법하며, 평신도가 본문 안으로 들어왔다. 마지막
 정경 서적의 마지막 몸짓은 제네바의 우편 주소 하나와, 자신의 세포 계획의
 전송을 위해 편지하라는 초대이다. 베버라면 한 낱말도 고치지 않은 채
@@ -334,7 +334,7 @@ footnotes = [
 조롱으로서 적대자의 입에 놓는다. "바로 그자들은 너희 형제들을 설득하도록
 돕기 위해 자기 존재의 증거조차 너희에게 주지 않을 것이며, 어떤 재정적
 도움도 주지 않을 것이다"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=62) %}LWTE 2:62{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=66) %}LWTE 2:66{% end %}).
 사탄의 조롱과 야훼의 방침은 부호만 뒤집힌 같은 문장이며, 세 번째 책은
 그것을 안다. 증거의 결여가 충성의 대가가 되었고, 그 값은 반대편이
 매긴 것이다.
@@ -346,10 +346,10 @@ footnotes = [
 창설하라는 초대를 동반한다. 그리고 친자(親子) 관계로, 거기서 화자는
 *vous*에서 *tu*로 옮겨 가 라엘에게 "너는 내 아들이고 나는 네 아버지다"라
 말한다
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=92) %}LWTE 2:92{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=88) %}LWTE 2:88{% end %}).
 둘 다 만료되는 순간에야 고지된 엠바고 아래 도착한다. "야훼는 내게 삼
 년이 지날 때까지 이 부모 자식의 인연을 밝히지 말라 청했다"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=95) %}LWTE 2:95{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=90) %}LWTE 2:90{% end %}).
 그 장치가 우아한 까닭은 그것이 반증 불가능하고 자기 봉인적이기 때문이며
 — 어떤 미래의 추가도 과거의 비밀일 수 있다 — 또한 그 삽입 지점이
 서사적으로 적법하기 때문이다. 두 번째 책은 방문의 여러 시간을 서술하지
@@ -368,9 +368,9 @@ footnotes = [
 서술하는 항해와 공존해야 할 때, 그 설명은 교수법이다. 그 거절은 "사람들이
 때때로 자기 아이들에게 술을 마시면 키가 자라지 않는다고 말하는 것과 꼭
 같이" 이루어진 것이었다
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=9) %}LWTE 1:9{% end %})
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=12) %}LWTE 1:12{% end %})
 — 세 번째 책의 FAQ는 그 해석학 전체를 한 낱말, "심리"로 압축한다
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=4) %}LWTE 1:4{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=5) %}LWTE 1:5{% end %}).
 그리고 출간된 기술(記述)에서 장면 전체가 빠져 있을 때, 그 답은
 엠바고이다. 필사자, 교수법, 엠바고. 세 장치, 하나의 불변항. 오류는 결코
 출처의 것이 아니다. 편집비평은 바로 이것을 탐지하려고 고안되었다 —
@@ -428,7 +428,7 @@ footnotes = [
 ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=1, verse=7) %}ETTMTTP 1:7{% end %}).
 그리고 그것은 세 번째 책에서 터지는데, 거기서 친자 장면은 *쪽수 인용과
 함께* 그것을 되받아 인용하고("진실을 말하는 책 8쪽을 보라,"
-{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=75) %}LWTE 2:75{% end %})
+{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=79) %}LWTE 2:79{% end %})
 이어 그것을 해소한다. 비행체 안에서의 수정(受精), 기억의 삭제, 그리고
 어머니와 다른 종교에서 택해진 양부(養父)이다. 네 해와 여섯 해를 사이에
 두고 출간된 그 세 자료점은 서로 맞물린다 — 임신 기간의 산술까지 포함해서.
@@ -517,7 +517,7 @@ footnotes = [
 오천 년으로 날짜 매긴다. 그리고 세 번째 책은 한 반론에 답하면서 첫 번째
 책을 잘못 인용한다 — "첫 번째 책 13쪽에서 당신은 엘로힘이 25,000년 전에
 본래의 대륙을 창조했다고 썼습니다"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=31) %}LWTE 1:31{% end %})
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=30) %}LWTE 1:30{% end %})
 — 승리한 그 어림수를 첫 번째 책에 귀속시키면서 말이다. 엄격히 받아들이면,
 전승된 말뭉치는 엘로힘이 오기로 결정하기 삼천 년 전에 착륙하게
 만든다.{{ footnote(id="4") }} 이것이야말로 그 사고 실험이 지어낸 자에게
@@ -537,7 +537,7 @@ footnotes = [
 — 그 간극을 건너 유지된 것이다. 그런데 세 번째 책은 요한계시록 4장의
 보좌의 방을 해독하면서 야훼로 하여금 이렇게 말하게 한다. "내 주위에는
 영원자 평의회를 대표하는 다른 24명의 영원자가 앉아 있었다"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=134) %}LWTE 2:134{% end %}).
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=128) %}LWTE 2:128{% end %}).
 요한계시록의 스물네 장로가, 여섯 해 동안 칠백을 헤아려 온 한 단체에
 자기네 머릿수를 강요한 것이다. "대표하는"이라는 분사(分詞)가 유일한
 비상구인데, 본문의 무엇도 그 문을 열어 주지 않는다. 같은 압력의 서명은
@@ -652,7 +652,7 @@ footnotes = [
 텅 빈 공간 안에 놓여 있다. 세 번째 책은 그 반론을, 계시가 아니라 한
 회원이 제공한 가설로, 곧 빛이 "뚜렷한 곡선"을 그리며 움직인다는 가설로
 맞이하며
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=26) %}LWTE 1:26{% end %}),
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=27) %}LWTE 1:27{% end %}),
 정경이 좀처럼 쓰지 않는 유보와 함께 그것을 내놓는다. "그것은 하나의
 가능성이다." *Zygon*의 비판은 그 패턴 전체를, 과학의 위신에 기생하면서도
 과학의 규율에서는 면제된 것으로 읽는다. 공정한 감사라면 그 비판이

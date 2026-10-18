@@ -20,7 +20,7 @@ references = [
     # — The canon under comparison —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶14: the single original continent raised from the seabed, and 'all the continents which drifted apart fit together perfectly to form a single one'; ¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition); Chapter 2, 'The Flood' (¶58: the home planet's decision 'to destroy all life on Earth by sending nuclear missiles'; ¶64: the radioactivity monitored and removed before the survivors disembark)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'Neither God nor Soul' (¶¶31–34: the gigantic being, 'time is inversely proportional to the mass,' the centerless universe, 'nothing is lost, nothing is created'); Chapter 3, 'The Keys' (¶102: respecting nature 'as long as he is not capable of becoming himself a creator')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶69: Infinity distinguished from the bearded God; ¶¶96–98: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶103: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonials of Raelians': Marcel Terrusse, 'Raelism Through the Eyes of Science,' §2 'A New Hypothesis for the History of Humanity' (2005 English edition p. 331, digitization ¶35: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶37: the petroleum ring as the burial's signature; ¶¶43–44: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1 (¶63: Infinity distinguished from the bearded God; ¶¶88–91: 'Who Created the Creator of the Creators?' — 'other people from another planet created them'; ¶94: 'It is as foolish to search for the beginning of the universe in time as it is to search for the beginning of space'); Chapter 4, 'Commentaries and Testimonials of Raelians': Marcel Terrusse, 'Raelism Through the Eyes of Science,' §2 'A New Hypothesis for the History of Humanity' (2005 English edition p. 331, digitization ¶¶34–36: the strike 'breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock,' with 'all the living matter including immense forests, animals and even Man' buried 'immediately and all together'; ¶¶37–39: the petroleum ring as the burial's signature; ¶¶47–49: the cataclysm's geological and climatic upheaval, and the survivors' return to an unrecognizable continent)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages; the whole account of the Elohim's laboratory creation of terrestrial life" },
 
     # — The modern Intelligent Design movement —
@@ -506,7 +506,7 @@ Horse*(2004)에서 그 장치 전체를 펼쳐 보였다. 사심 없는 과학�
 마이어가 그 반대를 진술하는 만큼이나 단호하게, 우주가 공간에서도 가장자리를
 갖지 않고 시간에서도 가장자리를 갖지 않는다고 진술한다.
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=1, verse=103) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=1, verse=94) %}
 시간 속에서 우주의 시작을 찾는 것은 공간의 시작을 찾는 것만큼이나 어리석은
 일입니다.
 {% end %}
@@ -569,7 +569,7 @@ Horse*(2004)에서 그 장치 전체를 펼쳐 보였다. 사심 없는 과학�
 
 그것이 정경의 입장이며, 원 자료에서 자연사의 한 사실처럼 담담하게 진술된다.
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=1, verse=97) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=1, verse=89) %}
 엘로힘이 우리를 창조했고, 다른 행성에서 온 다른 사람들이 그들을 창조했습니다.
 누가 엘로힘의 창조자들을 창조했습니까?
 {% end %}

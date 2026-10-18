@@ -16,7 +16,7 @@ summary = "В единственном предложении второго р�
 keywords = ["цивилизационная морфология", "цивилизационная биология", "макробиология", "человечество как организм", "макроистория", "Guns Germs and Steel", "естественные эксперименты истории", "Шпенглер", "Тойнби", "Тейнтер", "коллапс", "законы масштабирования", "ноосфера", "Тейяр", "Вернадский", "космическое соревнование", "сансара", "Золотой век", "гипотеза об Элохим", "Великий фильтр"]
 references = [
     # — The canon passages under discussion —
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶104–111: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶105: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶103, 204: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; ¶71: the Infinite indifferent, natural selection 'at all levels')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶97–103: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶98: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶96, 205: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; Chapter 1, ¶65: the Infinite indifferent, natural selection 'at all levels')" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'The Second Encounter' (¶23: humanity at 'a turning point of its history,' the golden age of interplanetary civilization vs. self-destruction; ¶24: Buddhism reread — humanity as a whole must resist the 'demons,' the svastika as the cycle-symbol, paradise vs. the hell of a return to the primitive stage; ¶25: 'a natural selection, on the cosmic scale, of the species capable of escaping their planet')" },
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (¶2: the Elohim's own civilization at 'a technical and scientific level comparable to the one you will soon attain'); Chapter 4 (¶61: planets die, humanity must reach a level sufficient to move worlds or re-create adapted life); Chapter 5 (¶65: the offer of 'political and humanitarian baggage' before scientific inheritance); Chapter 7 (¶¶6, 23: self-destruction, and the Elohim's fear of finding no civilization as advanced as their own)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition collecting all three messages; the parable of the sower read as multiple creations, the cosmic competition of humanities, and the inheritance" },
@@ -86,7 +86,7 @@ footnotes = [
 разъясняя, как Элохим могут предвидеть будущее цивилизации, которой они не
 управляют, Яхве просит Раэля удержать в уме единую картину:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=108) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}
 Ровно то же самое и с человечеством, если считать каждого человека как бы
 клеткой великого существа во чреве, то есть Человечества.
 {% end %}
@@ -98,7 +98,7 @@ footnotes = [
 *именно потому*, что человечество есть такой организм, его будущее можно
 предсказать так, как эмбриолог предсказывает будущее плода.
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=106) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=99) %}
 Вот почему, хотя мы не можем предсказать будущее отдельных людей, мы всё же
 можем предсказать, что в норме должно случиться с живым организмом в период
 вынашивания или с Человечеством в ходе его развития.
@@ -435,7 +435,7 @@ Teilhard Studies, подаёт это как собственное неохот
 спекуляция, наваленная на канон; это то, что канон прямо утверждает за Элохим, и
 почему:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=105) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=98) %}
 Точно так же и мы, привыкшие создавать жизнь на бесконечности планет, знаем, что
 происходит с Человечеством, что достигло вашего уровня технологии, не достигнув
 равного уровня мудрости.
@@ -523,7 +523,7 @@ Teilhard Studies, подаёт это как собственное неохот
 делает его *испытанием зрелости* — и, что решающе, делает его выигрываемым, пусть
 едва:
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=103) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=96) %}
 Есть, к несчастью, лишь один шанс из ста, что ваше Человечество не
 самоуничтожится, и всякий раэлианин должен действовать так, как если бы
 Человечество оказалось достаточно мудрым, чтобы понять и ухватить этот крохотный
@@ -591,7 +591,7 @@ Teilhard Studies, подаёт это как собственное неохот
 заключая, что тело вправе поедать свои клетки; цивилизационная морфология может
 описывать вид-организм, настаивая, как и вправду настаивает канон, что его цели
 служит расцвет клеток, а не их расходование. Канон недвусмыслен ровно в этом
-пункте: Бесконечное «бесконечно безразлично» к нам ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=71) %}LWTE 1:71{% end %}),
+пункте: Бесконечное «бесконечно безразлично» к нам ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=65) %}LWTE 1:65{% end %}),
 а значит, ни одному космическому телу не причитается наша жертва; а жизнь
 отдельного человека «имеет лишь ту важность, что мы ей придаём», ценность,
 назначенная изнутри, а не извлечённая свыше. Организм, что описывает этот проект,

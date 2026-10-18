@@ -16,7 +16,7 @@ summary = "두 번째 라엘 메시지의 단 한 문장에서, 야훼는 라엘
 keywords = ["문명 형태학", "문명 생물학", "거대생물학", "유기체로서의 인류", "거시사", "Guns Germs and Steel", "역사의 자연 실험", "Spengler", "Toynbee", "Tainter", "붕괴", "척도 법칙", "누스페어", "Teilhard", "Vernadsky", "우주적 경쟁", "삼사라", "황금시대", "엘로힘 가설", "거대 필터"]
 references = [
     # — The canon passages under discussion —
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶104–111: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶105: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶103, 204: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; ¶71: the Infinite indifferent, natural selection 'at all levels')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶97–103: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶98: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶96, 205: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; Chapter 1, ¶65: the Infinite indifferent, natural selection 'at all levels')" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'The Second Encounter' (¶23: humanity at 'a turning point of its history,' the golden age of interplanetary civilization vs. self-destruction; ¶24: Buddhism reread — humanity as a whole must resist the 'demons,' the svastika as the cycle-symbol, paradise vs. the hell of a return to the primitive stage; ¶25: 'a natural selection, on the cosmic scale, of the species capable of escaping their planet')" },
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (¶2: the Elohim's own civilization at 'a technical and scientific level comparable to the one you will soon attain'); Chapter 4 (¶61: planets die, humanity must reach a level sufficient to move worlds or re-create adapted life); Chapter 5 (¶65: the offer of 'political and humanitarian baggage' before scientific inheritance); Chapter 7 (¶¶6, 23: self-destruction, and the Elohim's fear of finding no civilization as advanced as their own)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition collecting all three messages; the parable of the sower read as multiple creations, the cosmic competition of humanities, and the inheritance" },
@@ -84,7 +84,7 @@ footnotes = [
 통제할 수 없는 한 문명의 미래를 어떻게 내다볼 수 있는지를 펼쳐 놓으며, 야훼는
 라엘에게 단 하나의 그림을 마음에 붙들라 청한다.
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=108) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}
 인류에게도 그것은 정확히 같은 일이니, 각 인간을 잉태 중인 대존재, 곧 인류의 한
 세포처럼 여기는 것입니다.
 {% end %}
@@ -96,7 +96,7 @@ footnotes = [
 유기체이기 때문에*, 그 미래는 배아학자가 태아의 미래를 예측하듯 예측될 수
 있다는 것이다.
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=106) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=99) %}
 그렇기에, 우리가 개인들의 미래는 예측할 수 없을지라도, 우리는 잉태 기간 동안 한
 산 유기체에게, 혹은 발달 과정에 있는 한 인류에게 정상적으로 무슨 일이 일어나야
 하는지는 예측할 수 있습니다.
@@ -383,7 +383,7 @@ Chardin이 1920–30년대에 제안한 지구의 “사유하는 층”이다. 
 이러하다*고. 그것은 정경 위에 쌓아 올린 사변이 아니다. 그것은 엘로힘이 할 수 있다고
 정경이 명시적으로 주장하는 바이며, 그 까닭이다.
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=105) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=98) %}
 같은 방식으로, 무수한 행성에서 생명을 창조하는 데 익숙한 우리는, 그에 상응하는 지혜의
 수준에는 이르지 못한 채 여러분의 기술 수준에 이른 한 인류에게 무슨 일이 일어나는지를
 압니다.
@@ -457,7 +457,7 @@ Chardin이 1920–30년대에 제안한 지구의 “사유하는 층”이다. 
 거부한다는 데 있다. 그것은 그것을 *성숙의 시험*으로 만든다 — 그리고, 결정적으로,
 아슬아슬할지언정 이길 수 있는 것으로 만든다.
 
-{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=103) %}
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=96) %}
 불행히도, 여러분의 인류가 자멸하지 않을 기회는 백에 하나뿐이며, 라엘리안은 저마다
 인류가 이 마지막 대격변을 벗어나 황금시대에 들어설 이 작디작은 기회를 이해하고 붙잡을
 만큼 현명하리라는 듯이 행동해야 합니다.
@@ -514,7 +514,7 @@ Spengler는 그가 지목한 표적 가운데 하나이며, 그 반론은 유기
 주장도 허가하지 않는다. 생물학은 몸이 제 세포를 먹어도 된다고 결론짓지 않은 채 몸을
 서술한다. 문명 형태학은, 정경이 실제로 역설하듯, 그 목적이 세포들의 소모가 아니라 그
 번성으로 이루어진다고 역설하면서 종-유기체를 서술할 수 있다. 정경은 바로 이 점에서
-단호하다. 무한은 우리에게 “무한히 무심하며”({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=71) %}LWTE 1:71{% end %}),
+단호하다. 무한은 우리에게 “무한히 무심하며”({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=65) %}LWTE 1:65{% end %}),
 이는 어떤 우주적 몸도 우리의 희생을 받을 자격이 없음을 뜻한다. 그리고 개인의 삶은 “우리가
 그것에 부여하는 만큼의 중요성만을” 가지니, 위로부터 뽑아낸 것이 아니라 안으로부터 배정된
 가치이다. 이 프로젝트가 서술하는 유기체는 제 세포들의 깨어남에 *의해*, 한 번에 하나씩,
