@@ -7,6 +7,7 @@ date = "2026-05-18T00:00:00Z"
 
 [extra]
 claim_type = "direct"
+audioplay = true
 +++
 
 This page displays "Let's Welcome the Extraterrestrials" with interactive features for viewing the original French text alongside the published English translation.
