@@ -21,9 +21,9 @@ title = "About the project"
 slug = "what-is-wheel-of-heaven"
 question = "What is Wheel of Heaven?"
 answer = """
-Wheel of Heaven is a long reading of the ancient world's creation traditions through a single working hypothesis: that the beings the Hebrew Bible calls *Elohim* were a small advanced human civilization from elsewhere who came here, prepared the planet, designed life on Earth, and left a record in the religious texts. This is the project's Raëlian interpretive premise; it is not a conclusion established by Hebrew grammar or by mainstream history and biology.
+Wheel of Heaven is a long reading of the ancient world's creation traditions through a single working hypothesis: that the beings the Hebrew Bible calls *Elohim* — a plural noun, masked by translation as the singular "God" — were a small advanced human civilization from elsewhere who came here, prepared the planet, designed life on Earth, and left a record in the religious texts.
 
-The reading runs across twelve ages of the precessional cycle, from the framework's prehistoric beginnings to the present age and the future it envisages. The site is open-source, multilingual, and free. It is built to be checked.
+The reading runs across twelve ages of the precessional cycle, from the project's beginning approximately twenty-two thousand years ago to the present age and into the long future the next Great Year is opening. The site is open-source, multilingual, and free. It is built to be checked.
 """
 
 [[extra.faq_groups.items]]
@@ -32,11 +32,11 @@ question = "What is the working hypothesis?"
 answer = """
 The hypothesis has five interconnected parts:
 
-1. **The *Elohim* of Genesis are read as a group.** The word has plural morphology, but often takes singular agreement in biblical Hebrew. The project's reading of multiple individuals is a framework interpretation, not something the plural ending alone proves.
+1. **The *Elohim* of Genesis are a literal plural.** The Hebrew word is grammatically a plural noun. The corpus reads it at face value — the figures who created humanity were a group of beings, not a single deity.
 2. **The Elohim are an advanced human civilization, not supernatural beings.** They were biologically related to humanity, technologically far in advance, and engaged in a deliberate scientific project on Earth.
 3. **What we have inherited as religion is the long memory of their work.** The religious traditions of humanity preserve, in compressed and often mystified form, an accurate historical record of the Elohim civilization's interventions across approximately twenty-two thousand years.
-4. **The work is organized along a precessional calendar.** The framework uses a rounded Great Year of 25,920 years, divided into twelve equal ages of 2,160 years. These are model conventions based on Earth's approximately 26,000-year axial precession.
-5. **The current age is read as the age of disclosure.** The project places Aquarius at 1950–4110 CE and interprets it as the period in which humanity becomes scientifically capable of evaluating the account. The boundary is a framework convention.
+4. **The work was organized along the precessional cycle.** The slow ~25,920-year wobble of Earth's axis is the calendar that records the project. Twelve ages of approximately 2,160 years each subdivide the Great Year.
+5. **The current age is the age of disclosure.** The Aquarian age, opening in 1950, is the age in which the long memory becomes legible to a humanity scientifically capable of evaluating it.
 
 The hypothesis is offered to be tried, evaluated, and tested against alternatives. It is not asserted as established fact.
 """
@@ -52,9 +52,9 @@ The project is authored by Zara Zinsfuss, an independent reader and Raëlian who
 slug = "is-this-a-religion"
 question = "Is this a religion?"
 answer = """
-Wheel of Heaven is an independent reading project informed by Raëlian sources. It has no devotional practices, offers no spiritual authority, and does not require readers to adopt its framework.
+No. The corpus reads religious texts as historical testimony of an advanced civilization's documented work, not as objects of worship. The project does not ask for belief, has no devotional practices, and offers no spiritual authority. It is an interpretive framework applied to religious texts, not a religious framework itself.
 
-It explores whether religious texts can be read as memories of an advanced civilization's activities. That interpretation differs from both religious readings and mainstream historical scholarship. Readers can examine the sources and arguments without agreeing with it.
+That said, the project takes religious texts seriously — more seriously, in some ways, than secular scholarship typically does, by treating their historical claims as worth evaluating rather than dismissing. The project is also not anti-religious. It doesn't argue that the religious traditions are wrong; it argues that their core historical claims are accurate, while their supernatural framing is a later mystification.
 """
 
 [[extra.faq_groups.items]]
@@ -63,7 +63,7 @@ question = "Is this peer-reviewed scholarship?"
 answer = """
 No, and the project doesn't claim to be. Wheel of Heaven is a long-form essay project conducted by an independent writer, not an academic publication. Where the project engages contemporary scholarship — in biblical studies, genetics, astrobiology, archaeoastronomy, and other fields — it does so as a serious reader of the published literature, taking the science on its own terms.
 
-The project's editorial system distinguishes **direct**, **framework**, **inferred**, and **speculative** claims. Page badges summarize the main claim's status; they do not certify every sentence or replace checking the sources. These labels and the project's internal reviews are not academic peer review. See [the badge definitions](#claim-badges) and [Our Method](/method/).
+The project's epistemic discipline is internal rather than institutional: every wiki entry, article, and library book — and most other pages — labels its main claim as **direct** (what a source asserts and mainstream scholarship does not dispute), **framework** (a premise of the Raëlian canon that mainstream scholarship does not endorse), **inferred** (a reasonable reading of a source), or **speculative** (what the project proposes as interpretive synthesis). Readers are invited to evaluate the project's specific claims against the alternatives.
 """
 
 [[extra.faq_groups.items]]
@@ -83,7 +83,7 @@ question = "How is this different from Raëlism?"
 answer = """
 Wheel of Heaven takes the Raëlian source material — primarily *The Book Which Tells the Truth* (Claude Vorilhon, 1974) and the subsequent volumes — as its primary interpretive lens. In that sense the project is downstream of Raëlism.
 
-The project is independently authored and is not a Raëlian movement publication. It develops its own comparative readings, precessional chronology, and engagement with contemporary scholarship. Those extensions should be evaluated as Wheel of Heaven's interpretations, rather than attributed automatically to the source texts or the movement.
+But the project is not a Raëlian movement publication. The corpus extends substantially beyond standard Raëlian self-presentation: the precessional framework, the integration with cross-cultural mythology, the technical readings of specific biblical passages, the political-structural reconstruction of the alliance, the engagement with contemporary genomics and astrobiology — none of these are features of standard Raëlian institutional materials. The project is not endorsed by the Raëlian movement, and may never be. Where the corpus departs from standard Raëlian articulation, it does so with explicit reasons.
 
 The author is a Raëlian. The project is not.
 """
@@ -107,11 +107,11 @@ Carefully and explicitly. The corpus uses three kinds of evidence:
 
 **Textual evidence** — what the religious and mythological sources actually say, read close to the original languages where possible. The corpus's strongest material is interpretive: when the framework is applied to a specific Hebrew passage, does it produce a more coherent reading than the alternatives?
 
-**Comparative evidence** — recurring patterns across traditions. Similarities need to be weighed alongside cultural transmission, shared literary conventions, differences, and coincidence. The independence of two accounts must be established rather than assumed.
+**Comparative evidence** — recurring patterns across independent traditions. When Mesopotamian, biblical, Vedic, and Mesoamerican sources preserve structurally similar accounts, that recurrence is evidence worth examining.
 
-**Scientific evidence** — what genetics, astrobiology, planetary science, and synthetic biology establish, including findings that challenge the framework. A technology's feasibility does not establish that someone used it in the ancient past. Scientific results must retain their own meaning and limits when the project compares them with its sources.
+**Scientific evidence** — what contemporary genetics, astrobiology, planetary science, and synthetic biology say about the technical plausibility of the framework's claims. The corpus's argument here is conditional: *if* the framework is correct, the science should look a specific way; the corpus tracks how well the science actually does.
 
-The project does not claim proof of ancient extraterrestrial intervention. It offers an interpretation for readers to evaluate against the evidence and competing explanations.
+The project does not claim conclusive proof. It claims a coherent and explanatorily powerful framework, applied honestly to the available evidence, that the reader is invited to evaluate.
 """
 
 # ---------------------------------------------------------------------------
@@ -126,18 +126,18 @@ title = "About the framework"
 slug = "what-is-precession"
 question = "What is the precessional cycle, in plain language?"
 answer = """
-Earth's tilted axis slowly changes direction, like the axis of a spinning top. Axial precession takes roughly 26,000 years to complete a cycle, and the equinox's position shifts relative to the background stars. [NASA's explanation](https://science.nasa.gov/learn/basics-of-space-flight/chapter2-1/) describes the astronomical motion.
+Earth's axis is tilted at about 23.5°, and it doesn't point in a fixed direction in space. Like a spinning top, the axis traces a slow circle in the sky, completing one full circuit every approximately 25,920 years. This motion is called the *precession of the equinoxes*.
 
-Wheel of Heaven builds a calendar around an idealized 25,920-year cycle: twelve equal ages of 2,160 years. The actual zodiacal constellations occupy unequal spans, so these equal ages are a model convention. Astronomy does not establish the project's 1950 boundary for Aquarius.
+The practical consequence is that the constellation rising behind the sun on the spring equinox slowly shifts westward through the zodiac. Until about 210 BCE it was Aries; for the next two millennia it was Pisces; since 1950, on the corpus's chronology, it has been Aquarius. The cycle repeats every ~26,000 years.
 
-See [Precession](/wiki/precession/) and the [Timeline chronology](/timeline/chronology/) for the distinction between the astronomical cycle and the project's working calendar.
+Divided by the twelve constellations of the zodiac, that cycle yields *precessional ages* of about 2,160 years each. The corpus uses these ages as its chronological framework. For more, see the [Precession](/wiki/precession/) wiki entry.
 """
 
 [[extra.faq_groups.items]]
 slug = "twelve-ages"
 question = "What are the twelve ages, and where do they come from?"
 answer = """
-The twelve ages take their names from the zodiac and run in reverse zodiacal order. They are equal divisions of the project's calendar, not the unequal spans of the astronomical constellations. The working dates below use negative numbers for BCE and positive numbers for CE:
+The twelve precessional ages are named for the constellations of the zodiac. The vernal equinox shifts westward through them in reverse zodiacal order. The corpus's working dates:
 
 - Capricorn — –21,810 to –19,650
 - Sagittarius — –19,650 to –17,490
@@ -152,29 +152,36 @@ The twelve ages take their names from the zodiac and run in reverse zodiacal ord
 - Pisces — –210 to 1,950
 - Aquarius — 1,950 to 4,110
 
-The framework draws on Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill* (1969), which proposed that ancient myths encode precessional knowledge. That thesis is contested; it is not an established finding of the history of astronomy.
+The framework draws on the precessional-mythology research of Giorgio de Santillana and Hertha von Dechend (*Hamlet's Mill*, 1969), who reconstructed how the ancient world encoded the precessional cycle in religious and mythological symbolism across many independent traditions.
 
-The dates follow arithmetically from a chosen Aquarius anchor of 1950–4110 CE. The Raëlian source's 1945–1946 threshold and the project's rounded 1950 boundary are distinct. Neither the equal division nor the anchor year is an astronomical measurement. See the [Timeline chronology](/timeline/chronology/).
+The boundaries between ages are set by equal divisions of the zodiac (the IAU astronomical constellation boundaries don't divide the ecliptic equally). The dates are the corpus's working chronology, derived from astronomical calculation of the equinoxes' position against the equal-sign zodiac.
 """
 
 [[extra.faq_groups.items]]
 slug = "what-does-elohim-mean"
 question = 'What does "Elohim" mean, and why does the project read it as plural?'
 answer = """
-*Elohim* (אֱלֹהִים) has plural morphology. Depending on context, it can refer to God, gods, or divine beings. When referring to Israel's God, it commonly takes singular verbs and other singular agreement; Genesis 1:1 is an example. The plural ending alone therefore does not establish multiple creators. See the scholarly discussion of [the title's usage](https://rsc.byu.edu/vol-14-no-1-2013/usage-title-elohim).
+*Elohim* (אֱלֹהִים) is the Hebrew word that conventional Bibles translate as "God." Grammatically, it's a plural noun — the *-im* ending is the standard Hebrew plural marker, the same one that pluralizes other masculine nouns (*cherub* / *cherubim*, *seraph* / *seraphim*).
 
-The project reads passages such as Genesis 1:26 ("let us make"), Genesis 3:22 ("one of us"), and Genesis 6:1–4 through the Raëlian account of multiple individual Elohim. This is a framework interpretation. Other readings include a heavenly council and the historical development of Israelite religion; those alternatives do not require an extraterrestrial referent.
+Conventional Christian and Jewish theology reads the plural as either a "majestic plural" (a single deity addressed in plural for grandeur, similar to the royal "we") or as a placeholder for the Trinity. The corpus reads it at face value: the plural *Elohim* refers to multiple beings.
 
-The phrase "those who came from the sky" is the Raëlian source's gloss, not the word's established Hebrew etymology. Likewise, identifying Yahweh as an individual within an Elohim civilization belongs to the framework, not to grammar alone. For more, see [Elohim](/wiki/elohim/).
+Several features of the Hebrew text support this reading:
+
+- Genesis 1:26 uses first-person plural verbs: *na'aseh adam be-tsalmenu kidmutenu* — "let *us* make humanity in *our* image, after *our* likeness."
+- Genesis 3:22 uses similar plural: *hen ha-adam hayah ke-achad mimennu* — "behold, the human has become like one of *us*."
+- Genesis 6:1–4 introduces *benei ha-Elohim* — "sons of the Elohim" — as a specific category of beings distinct from humans.
+- The text differentiates *YHWH Elohim* (a specific named figure within the plural category) from *Elohim* alone (the category) in different passages.
+
+For more, see the [Elohim](/wiki/elohim/) wiki entry.
 """
 
 [[extra.faq_groups.items]]
 slug = "what-age-are-we-in"
 question = "What age are we in now?"
 answer = """
-The Age of Aquarius, on the project's working chronology: 1950–4110 CE. The 2,160 years describe the whole age, not the time remaining from today. This is the project's chosen calendar, not an astronomical consensus about the present age.
+The Age of Aquarius, on the corpus's working chronology. The age opened around 1950 and will run for the next ~2,160 years. The corpus reads the Aquarian water-bearer at its most literal: the age in which what has been contained is poured out.
 
-The corpus associates this period with the nuclear threshold of 1945, the establishment of the State of Israel in 1948, Vorilhon's reported encounter in 1973, and later developments in genetics and astronomy. Their placement in an Aquarian narrative is the project's interpretation; the events do not independently establish its chronology or contact claims.
+Specific events the corpus identifies as marking the Aquarian opening: the 1945 nuclear threshold, the 1948 re-establishment of Israel, the 1969 publication of *Hamlet's Mill*, the 1973 Vorilhon contact, the 2003 completion of the Human Genome Project, and the ongoing maturation of synthetic biology and exoplanet astronomy.
 
 For the full treatment, see the [Age of Aquarius](/timeline/age-of-aquarius/) chapter.
 """
@@ -183,11 +190,11 @@ For the full treatment, see the [Age of Aquarius](/timeline/age-of-aquarius/) ch
 slug = "position-on-evolution"
 question = "What's the project's position on evolution?"
 answer = """
-The project's Raëlian framework proposes deliberate biological creation by the Elohim, while accepting that organisms change through mechanisms such as mutation, selection, and genetic drift. Deliberate creation is a framework premise, not an established result of biology.
+The corpus does not reject evolution as a description of biological change over time. It rejects the claim that evolution alone, unguided, accounts for the origin of life and of humanity.
 
-Evolution explains the diversification and common ancestry of living populations. The origin of the first life is a related but distinct research question; uncertainty about it does not invalidate evolutionary evidence. [OpenStax's biology text](https://openstax.org/books/biology-2e/pages/18-1-understanding-evolution) explains this distinction.
+On the corpus's reading, the major morphological transitions in the fossil record are design-iteration phases conducted by the Elohim civilization, with smaller evolutionary changes occurring within each design phase by the conventional mechanisms (mutation, selection, drift). The apparent abruptness of certain transitions — the Cambrian explosion, the rapid emergence of *Homo sapiens* from prior hominid forms — is read as exactly what a design-iteration program would produce.
 
-There is a substantial chronological conflict to acknowledge: the project's calendar begins around 21,810 BCE, whereas fossil evidence places *Homo sapiens* in Africa roughly 300,000 years ago. See the [Smithsonian's overview](https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens). The framework's recent creation chronology does not follow from that evidence. Modern genetic engineering demonstrates a capability; it does not prove ancient engineering or resolve the conflict.
+The project accepts the geological dating of the Earth at approximately 4.5 billion years and is not a young-Earth framework. The Elohim project is dated from the Capricorn-age arrival at about 21,810 BCE, not from the geological formation of the planet.
 """
 
 [[extra.faq_groups.items]]
@@ -216,9 +223,9 @@ The Islamic tradition is engaged primarily in the Pisces-age chapter, with the Q
 slug = "predictions"
 question = "Does the project predict anything about the future?"
 answer = """
-The framework envisages a long trajectory: humanity developing the capacity to engineer life, investigating other inhabited worlds, and eventually becoming a creating civilization itself. These expectations belong to the framework; they are not established forecasts.
+The corpus's framework implies a general trajectory rather than specific dated predictions. The Aquarian age is read as the age of progressive disclosure — the accumulating becoming-legible of the long historical record, accompanied by humanity's maturation toward its own creative capacity. Across the next ~2,160 years, the framework expects: continued maturation of synthetic biology toward the kind of design capacity the Elohim possessed, continued exoplanet discovery and possibly the detection of biosignatures or technosignatures, continued integration of the religious and scientific traditions, and the eventual approach to humanity becoming itself a creating civilization in the second Great Year.
 
-The 1950–4110 span assigned to Aquarius is a calendar convention, not a promised deadline for contact or disclosure. Dates or expectations found in a source should be attributed to that source and assessed against what actually happens. Progress in synthetic biology or exoplanet research does not by itself verify the larger account.
+The corpus does not make specific dated predictions about contact, disclosure events, or eschatological scenarios. The framework is descriptive of a long arc, not predictive of specific events.
 """
 
 # ---------------------------------------------------------------------------
@@ -239,7 +246,7 @@ The corpus draws on multiple source families, with explicit hierarchical priorit
 
 **Secondary**: The precessional-mythology tradition, foundationally Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill* (1969).
 
-**Antecedents and comparisons**: Jean Sendy's reinterpretations of biblical material as records of extraterrestrial activity. His work predates Vorilhon's reported encounter and matters both as a related reading and when examining possible source dependence. See [The Man Who Bet the Bible on the Moon](/articles/the-man-who-bet-the-bible-on-the-moon/) for the works, dates, and limits of his argument.
+**Tertiary**: Jean Sendy's 1966–1970 reinterpretations of biblical material as records of extraterrestrial activity (*Les dieux nous sont nés*, 1966; *La lune, clé de la Bible*, 1968; *Ces dieux qui firent le ciel et la terre*, 1969; *L'Ère du Verseau*, 1970).
 
 **Comparative**: Biblical, Mesopotamian, Vedic, Mesoamerican, and other primary religious and mythological sources, read in their original languages where possible.
 
@@ -274,11 +281,11 @@ Most pages on the corpus carry a small badge indicating the epistemic status of 
 
 **Framework claim** — a foundational premise of the Wheel of Heaven reading that is explicit in the Raëlian canon but not endorsed by mainstream scholarship. *"The plural Elohim of Genesis are the small civilization the Raëlian source describes."* These claims are stated directly because the canon states them directly; the badge marks that the wider academic consensus does not share them.
 
-**Inferred claim** — a conclusion argued from a source or body of evidence, rather than stated explicitly in it. For example, an argument that a later writer drew on an earlier text needs evidence of dependence; a resemblance alone is not enough.
+**Inferred claim** — a reasonable reading of a source, not literally stated but consistent with it. *"The plural verb form indicates multiple agents."* These claims involve interpretive work but stay close to the evidence.
 
 **Speculative claim** — interpretive synthesis that goes beyond what any single source states. *"The sky-war narratives of independent traditions converge on a single remembered event."* These claims are the project's distinctive contribution and are most subject to revision.
 
-A page badge summarizes its main claim; it does not give every statement on the page the same status. Check the wording and references for each particular claim. Labels describe the kind of claim being made, not a guarantee that it is correct.
+The badges let the reader calibrate trust at the level of individual claims. A speculative claim isn't wrong because it's speculative; it's *labeled* speculative so the reader knows to weigh it as such.
 """
 
 [[extra.faq_groups.items]]
@@ -287,7 +294,7 @@ question = "How are translations handled?"
 answer = """
 The corpus reads close to the source languages where the interpretation depends on it. For Hebrew biblical material, the corpus uses the Masoretic text, names specific Hebrew vocabulary in transliteration, and discusses translation choices where they materially affect interpretation. For Mesopotamian material, the corpus relies on the standard scholarly editions and translations (Foster, George, Lambert, others). For other source families, the corpus uses the best available scholarly editions and is explicit when it does so.
 
-The site interface and project content are published in ten languages, with English as the source for site translations. Coverage varies by text, language, and format. A site translation is distinct from a translation of an ancient source: for the latter, check the named edition, translator, and available source-language text in the Library.
+The site interface and project content are published in ten languages, with English as the source for site translations. Where translation choices materially affect interpretation, the English original takes precedence. Coverage varies by text, language, and format. A site translation is distinct from a translation of an ancient source: for the latter, check the named edition, translator, and available source-language text in the Library.
 """
 
 # ---------------------------------------------------------------------------
@@ -307,6 +314,8 @@ Three options, in increasing depth:
 1. The [Read orientation](/read/) — an overview of the project and its reading and listening paths.
 2. The [Wiki](/wiki/) — start with key terms ([Elohim](/wiki/elohim/), [Precession](/wiki/precession/), [World Age](/wiki/world-age/)) and follow the cross-links.
 3. The [Timeline](/timeline/) — the long-form book, beginning with the [Preamble](/timeline/preamble/) and walking through the twelve ages.
+
+The Timeline is the most substantial commitment but also the most rewarding.
 
 The [Library](/library/) lets you start with a source text, while [Listen](/listen/) collects the available audio editions. [Our Method](/method/) explains how the project distinguishes source reports, framework premises, and interpretation.
 """
@@ -380,7 +389,7 @@ CC0 allows commercial as well as noncommercial reuse of the project's original c
 slug = "how-to-report"
 question = "Where do I report errors or disagreements?"
 answer = """
-Two channels, depending on what kind:
+Use the channel that fits your report:
 
 - **Factual errors, quotations, and content corrections**: open an issue in [data-content](https://github.com/wheelofheaven/data-content/issues), including the page URL and supporting source.
 - **Broken navigation or other technical issues**: use the [website issue tracker](https://github.com/wheelofheaven/www.wheelofheaven.world/issues), including the page URL and steps to reproduce the problem.
