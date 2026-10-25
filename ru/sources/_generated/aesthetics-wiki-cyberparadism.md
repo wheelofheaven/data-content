@@ -1,8 +1,8 @@
 +++
-title = "Cyberparadism (Aesthetics Wiki)"
+title = "Cyberparadism (Personal Aesthetics Wiki)"
 path = "/ru/sources/aesthetics-wiki-cyberparadism/"
 template = "source-page.html"
-description = "The Aesthetics Wiki entry on Cyberparadism. Aesthetics Wiki, hosted on Fandom, is the principal contemporary online platform for the systematic articulation of internet-cultural aesthetics. The Cyberparadism entry there was the origin venue of the aesthetic's formalization."
+description = "The Personal Aesthetics Wiki entry on Cyberparadism, the venue where the aesthetic was first formalised. The wiki, hosted on Fandom, catalogues internet-cultural aesthetics through community editing; its Cyberparadism entry files the aesthetic as a subset of Cyberprep and traces its optimism to the early twentieth-century avant-garde. The entry was previously hosted on the main Aesthetics Wiki (aesthetics.fandom.com), where the page no longer exists."
 
 [extra]
 source_id = "aesthetics-wiki-cyberparadism"

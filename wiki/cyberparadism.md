@@ -38,9 +38,9 @@ see_also = [
 ]
 
 footnotes = [
-    { content = "The Aesthetics Wiki (aesthetics.fandom.com) was where Cyberparadism was first formalised, before the Manifesto systematised it. The site catalogues internet-native aesthetics — Cottagecore, Dark Academia, Vaporwave, Solarpunk, Cyberpunk, Cyberprep, Atompunk and dozens more — through community editing, and the *Cyberparadism Manifesto* cites its entry as the origin reference." },
+    { content = "The entry lives on the Personal Aesthetics Wiki (personal-aesthetics.fandom.com/wiki/Cyberparadism); the address on the main Aesthetics Wiki that earlier versions of this entry cited no longer resolves. The wiki catalogues internet-native aesthetics — Cottagecore, Dark Academia, Vaporwave, Solarpunk, Cyberpunk, Cyberprep, Atompunk and dozens more — through community editing. Its Cyberparadism entry files the aesthetic as a subset of Cyberprep and traces its optimism to the early twentieth-century avant-garde's break with historical revival styles; the *Cyberparadism Manifesto* cites the entry as its origin reference." },
     { content = "The Manifesto calls the eight Laws \"not hierarchical in nature, but rather complementary facets of a whole.\" They work as mutual constraints rather than a ranked list — Equity (a universal baseline) and Recognition (merit-based reward) are paired so neither cancels the other — which is why Cyberparadism reads as an aesthetic of an integrated way of life rather than a priority-ordered political programme." },
-    { content = "The *Cyberparadism Manifesto* (2023) and Marc Andreessen's *Techno-Optimist Manifesto* (16 October 2023) appeared within months of one another from different starting points — one aesthetic-cultural, one venture-capital-political — and overlap conspicuously; the Cyberparadism Manifesto flags the resemblance directly. Both belong to an early-2020s turn toward explicit techno-optimism against the preceding decade's techno-pessimism." },
+    { content = "The *Cyberparadism Manifesto* was first published in April 2023, with its Laws and Signs added in May; Marc Andreessen's *Techno-Optimist Manifesto* followed on 16 October 2023, and the passage in which the Cyberparadism Manifesto notes the resemblance was added in November 2023. The two came from different starting points — one aesthetic-cultural, one venture-capital-political — and overlap conspicuously; both belong to an early-2020s turn toward explicit techno-optimism against the preceding decade's techno-pessimism. The 2026 edition of the manifesto on the aesthetic's own site keeps the link and the shared optimism but calls Andreessen's text the narrower, economic cousin of a broader and more visionary aesthetic." },
     { content = "The Septuagint rendered the Hebrew גַּן עֵדֶן (*Gan Eden*, \"Garden of Eden\") at Genesis 2:8 as ὁ παράδεισος (*ho paradeisos*), the word that gave \"paradise\" its later religious sense. Greek *paradeisos* had meant the walled pleasure-garden of Persian royalty (Old Persian *paridaida*, \"walled enclosure\"); that choice routed all subsequent Western paradise-vocabulary — the *-paradism* of *Cyberparadism* included — through one Hebrew-to-Greek transposition." },
     { content = "Cyberpunk was consolidated as a movement by Bruce Sterling's introduction to *Mirrorshades: The Cyberpunk Anthology* (1986); Gibson's *Neuromancer* (1984) supplied the founding text and the word *cyberspace*, and Ridley Scott's *Blade Runner* (1982) the visual register. Cyberparadism keeps the cyber- prefix and the family resemblance while inverting cyberpunk's dystopian content rather than its vocabulary." },
     { content = "On the corpus reading, the fit between contemporary Cyberparadism and the framework's own content — Eden as the first instance, the Planet of the Eternals as the mature one, the Aquarian age as the threshold — is one case of the broader Doubled Signature: Aquarian-age culture (Star Trek's Federation, Banks's Culture, Le Guin's Anarres, Miyazaki's films, the Solarpunk movement) recovering a memory it cannot source. It is a framework claim, not a mainstream one." },
@@ -49,15 +49,15 @@ footnotes = [
 [extra.infobox]
 type = "Contemporary aesthetic-cultural movement; the visual-conceptual counterpart to Paradism, picturing advanced technology and the natural world in harmony"
 relation_to_paradism = "The aesthetic-cultural counterpart of Paradism — the same post-scarcity, fully-automated content the Raëlian doctrine states as political economy, expressed as a visual language and cultural mood and realised in the digital/AI era through computing and robotics"
-formalization = "Aesthetics Wiki entry (origin venue); *Cyberparadism Manifesto* (2023) at github.com/zarazinsfuss/cyberparadism-manifesto"
+formalization = "Personal Aesthetics Wiki entry (origin venue); *Cyberparadism Manifesto* (April–May 2023) at github.com/zarazinsfuss/cyberparadism-manifesto; 2026 website edition with a field guide and gallery at zarazinsfuss.github.io/cyberparadism"
 principal_articulator = "The Cyberparadism Manifesto author (zarazinsfuss); the wider Aesthetics Wiki contributor community"
 core_principles = "The eight Laws — Abundance, Equity, Freedom, Harmony, Preservation, Recognition, Responsibility, Simplicity"
 principal_signs = "Fusion energy; anti-gravity; synthetic life engineering; terraforming; full automation; open-source collaboration"
-aesthetic_lineage = "Cyberprep; Post-Cyberpunk; Solarpunk; the wider contemporary aesthetic ecosystem"
+aesthetic_lineage = "Cyberprep (of which the wiki files it as a subset); Post-Cyberpunk; Solarpunk; the wider contemporary aesthetic ecosystem"
 distinguished_from = "Cyberpunk (the dystopian foil); Cyberprep (a cousin without the ecological emphasis); Solarpunk (a cousin without the high-technology emphasis); Atompunk (a retrofuturist parallel); Biopunk (related but distinct)"
 framework_relationship = "Read as the contemporary aesthetic in which the framework's own content surfaces in culture: Eden as the first Cyberparadism, the Planet of the Eternals as the cosmic one, the Aquarian-age threshold as the moment of realisation"
 status_in_framework = "A contemporary cultural phenomenon aligned with the Aquarian-age orientation; cultural reception of framework content rather than framework content itself"
-principal_sources = "*Cyberparadism Manifesto* (zarazinsfuss, 2023); the Aesthetics Wiki entry; the wider Cyberparadist visual culture"
+principal_sources = "*Cyberparadism Manifesto* (zarazinsfuss, 2023); the Personal Aesthetics Wiki entry; the 2026 Field Guide; the wider Cyberparadist visual culture"
 
 [[extra.references]]
 id = "cyberparadism-manifesto"
@@ -65,7 +65,11 @@ note = "The main systematic statement of the aesthetic; source for the eight Law
 
 [[extra.references]]
 id = "aesthetics-wiki-cyberparadism"
-note = "The venue where the aesthetic was first formalised, before the Manifesto."
+note = "The venue where the aesthetic was first formalised, before the Manifesto; now hosted on the Personal Aesthetics Wiki."
+
+[[extra.references]]
+id = "cyberparadism-field-guide"
+note = "The aesthetic's own reference site (2026): the maintained edition of the Manifesto, a nine-chapter field guide to settings, visual language, shapes and palette, and a gallery with stated provenance."
 
 [[extra.references]]
 id = "the-techno-optimist-manifesto"
@@ -197,11 +201,14 @@ as an aesthetic of the machine age it depends on.
 
 ## The manifesto and its principles
 
-The Aesthetics Wiki (aesthetics.fandom.com) is a community-edited catalogue of
-internet-native aesthetics, and its entry was where Cyberparadism first took
-shape{{ cite(id="aesthetics-wiki-cyberparadism", text="[2]", title="Aesthetics Wiki entry on Cyberparadism — the origin venue") }}.
-The *Cyberparadism Manifesto* extended that entry into a systematic statement. It
-opens with an Alan Kay epigraph — *"The best way to predict the future is to
+The Personal Aesthetics Wiki is a community-edited catalogue of internet-native
+aesthetics, and its entry was where Cyberparadism first took
+shape{{ cite(id="aesthetics-wiki-cyberparadism", text="[2]", title="Personal Aesthetics Wiki entry on Cyberparadism — the origin venue") }}.
+The *Cyberparadism Manifesto*, published on GitHub in April and May 2023, extended
+that entry into a systematic statement, and since 2026 the aesthetic's own website
+has carried a lightly copyedited edition of it alongside a field guide and a
+gallery{{ cite(id="cyberparadism-field-guide", text="[27]", title="Cyberparadism: Field Guide, 2026") }}.
+The Manifesto opens with an Alan Kay epigraph — *"The best way to predict the future is to
 invent it"* — and is explicit about its register: *"This is not a political or
 economical manifesto. It serves the purpose to declare the aesthetical principles
 of Cyberparadism and its derivates."* The distinction matters for placing the
@@ -230,11 +237,17 @@ agriculture and ecological restoration, terraforming for habitability beyond
 Earth, full automation to remove menial labour, and open-source collaboration as
 the movement's social principle.
 
-The Manifesto notes its own resemblance to Marc Andreessen's *Techno-Optimist
-Manifesto* (16 October 2023){{ cite(id="the-techno-optimist-manifesto", text="[3]", title="Andreessen, The Techno-Optimist Manifesto, 2023") }},
-which appeared within months of it — *"very reminiscent of the Cyberparadism
-Manifesto. Go check it out."* Both belong to an early-2020s turn toward explicit
-techno-optimism against the preceding decade's techno-pessimism{{ footnote(id="3") }}.
+The Manifesto, some six months the older text, added in November 2023 a note on
+its resemblance to Marc Andreessen's *Techno-Optimist Manifesto* (16 October
+2023){{ cite(id="the-techno-optimist-manifesto", text="[3]", title="Andreessen, The Techno-Optimist Manifesto, 2023") }}
+— *"very reminiscent of the Cyberparadism Manifesto. Go check it out."* Both belong
+to an early-2020s turn toward explicit techno-optimism against the preceding
+decade's techno-pessimism{{ footnote(id="3") }}. The 2026 edition keeps the link
+but draws the line more sharply: Andreessen's is an economic argument about
+markets, energy and growth, whereas Cyberparadism is broader and more visionary —
+an aesthetic and a civilisational image rather than a policy position, with
+nature, equity, the preservation of life and the long horizon of terraforming and
+the space frontier at its centre.
 
 {{ figure(src="wiki/cyberparadism-atrium-garden", alt="A vast sunlit interior atrium with tiered hanging gardens, a central tree and reflecting water, people at leisure — the Cyberparadism interior.", caption="Inside a Cyberparadist structure: a biophilic atrium where the building is habitat for gardens and people alike.") }}
 
@@ -256,12 +269,22 @@ originary, and renewal senses in turn.
 
 ## Aesthetic and lineage
 
-Cyberparadist imagery has a recognisable surface. Architecture reads as an
-extension of its setting rather than an imposition on it, favouring domes,
-spheres, and hexagons that double as engineering and as natural pattern; palettes
-run to aerospace orange, teal and aquamarine, bone white, and deep green; settings
-range from forest-embedded settlements and reclaimed coastlines to terraforming
-frontiers and orbital habitats. The look draws on a line of real design
+Cyberparadist imagery has a recognisable grammar, which the 2026 field guide sets
+out{{ cite(id="cyberparadism-field-guide", text="[27]", title="Cyberparadism: Field Guide — visual language, shape language, palette") }}.
+The environment is wild, lush or geologically dramatic and takes most of the
+frame; the built world is a small, bounded enclave inside it — a campus, garden,
+dome, atoll or terrace rather than a city; technology reads as mature and quiet,
+with machines kept out of view and interfaces floating as thin annotations in the
+air; and the mood is serene. Architecture reads as an extension of its setting
+rather than an imposition on it, favouring simple primitives repeated at several
+scales — spheres and domes, cones and pyramids, hexagons and lattices, helices,
+rings, and branching forms that look grown rather than assembled — in materials
+that read as durable and future-clean: white ceramics, polished stone, bright
+concrete, glass-like composites. The documented palette runs to teal, aquamarine,
+jungle green, turquoise and cyan against silver, platinum, charcoal and white, with
+a single vivid accent, folly, used at most once per scene. Settings range from
+coasts and lagoons through highland valleys and enclosed atria to platforms above
+the clouds and exoplanet frontiers. The look draws on a line of real design
 traditions — Buckminster Fuller's geodesics and "Spaceship Earth"{{ cite(id="fuller-spaceship-earth", text="[6]", title="Fuller, Operating Manual for Spaceship Earth, 1969") }},
 Frei Otto's tensile structures{{ cite(id="otto-hangende-dach", text="[7]", title="Otto, Das Hängende Dach, 1954") }},
 Paolo Soleri's arcologies{{ cite(id="soleri-arcology", text="[8]", title="Soleri, Arcology: The City in the Image of Man, 1969") }},
@@ -272,7 +295,8 @@ That opposite is cyberpunk, the movement's declared foil{{ footnote(id="5") }}:
 Cyberparadism keeps the *cyber-* prefix and inverts the content, replacing
 corporate dystopia with an integrated abundance. Between the two sit its nearer
 relatives. **Cyberprep** supplies the clean, optimistic counter-current to
-cyberpunk. **Post-Cyberpunk**, in Neal Stephenson's *The Diamond Age*
+cyberpunk, and the Personal Aesthetics Wiki files Cyberparadism as a subset of it;
+the difference is the wilderness, which Cyberprep does not require. **Post-Cyberpunk**, in Neal Stephenson's *The Diamond Age*
 (1995){{ cite(id="stephenson-diamond-age", text="[12]", title="Stephenson, The Diamond Age, 1995") }} and its kin, supplies a mature
 attention to what advanced technology does to a society without collapsing into
 utopia or dystopia. And **Solarpunk** — the closest cousin, carried by anthologies
@@ -295,7 +319,9 @@ its own claims are Cyberparadist in character.
 [Eden](../eden/) is the first of them. On the corpus's reading Eden was not a
 garden of myth but the laboratory in which the earliest humans lived in
 provided-for ease, in harmony with engineered biology and the technology of their
-makers — a historical Cyberparadism, complete in miniature. The
+makers — a historical Cyberparadism, complete in miniature. The aesthetic's own
+signature composition, a small advanced group living apart inside a garden that
+dwarfs it, is on this reading the shape of that first instance. The
 [Elohim](../elohim/) who ran it — and in particular the exiled
 [Lucifer](../lucifer/) faction, the creators who took humanity's side and were
 condemned to remain among them — built the condition the aesthetic now paints as
