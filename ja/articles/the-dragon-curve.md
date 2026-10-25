@@ -22,7 +22,7 @@ references = [
     { id = "dhorme-bible", title = "La Bible — Ancien Testament I", author = "Édouard Dhorme (ed.)", date = "Bibliothèque de la Pléiade, Gallimard, 1956", locator = "Genesis 1:20–24 text and the apparatus note on vv. 20–23 ('Les dragons (verset 21), hébreu tanninim…'); the note on Genesis 3:1. Inspected in a publisher's digital extract of the Pléiade volume; not collated with the printed first edition." },
     { id = "genesis", title = "Genesis (Hebrew text and WoH translation)", author = "", date = "WoH Translation Program", locator = "GEN-WOH-1:20–24 and 3:1–14, with the taninim apparatus and the bara/asah commentary." },
     { id = "a-concise-dictionary-of-the-words-in-the-hebrew-bible-strong-s", title = "A Concise Dictionary of the Words in the Hebrew Bible", author = "James Strong", date = "1890", locator = "Entry 8577, tannin: 'a marine or land monster, i.e. sea-serpent or jackal… dragon, sea-monster, serpent, whale.'" },
-    { id = "septuagint-greek-translation-of-the-hebrew-bible", title = "Septuagint (LXX)", author = "", date = "3rd–2nd century BCE", locator = "Genesis 1:21 (τὰ κήτη τὰ μεγάλα) against Isaiah 27:1 (τὸν δράκοντα)." },
+    { id = "septuaginta-editio-altera-the-standard-critical-edition", title = "Septuaginta: Editio altera", author = "Alfred Rahlfs (ed.), rev. Robert Hanhart", date = "1935; rev. 2006", locator = "Genesis 1:21 (τὰ κήτη τὰ μεγάλα) against Isaiah 27:1 (τὸν δράκοντα)." },
     { id = "westermann-genesis-1-11", title = "Genesis 1–11: A Continental Commentary", author = "Claus Westermann", date = "1984/1994", locator = "On Genesis 1:21: the tanninim as created beings and the deliberate demythologizing force of bara." },
     { id = "god-s-conflict-with-the-dragon-and-the-sea-echoes-of-a-canaanite-myth-in-the-old", title = "God's Conflict with the Dragon and the Sea", author = "John Day", date = "1985", locator = "The chaoskampf reading of the tannin/Leviathan passages; the Ugaritic Litan parallels." },
     { id = "sch-pfung-und-chaos-in-urzeit-und-endzeit-the-1895-book-that-first-read-the-old-", title = "Schöpfung und Chaos in Urzeit und Endzeit", author = "Hermann Gunkel", date = "1895", locator = "The founding statement of the dragon-combat inheritance behind the Hebrew creation material." },
@@ -270,7 +270,7 @@ references = [
 2. Dhorme, Édouard (ed.). *La Bible — Ancien Testament I*. Bibliothèque de la Pléiade. Paris: Gallimard, 1956. Genesis 1:20–24 and apparatus; inspected in a publisher's digital extract.
 3. *Genesis*, Hebrew text with the Wheel of Heaven translation and apparatus (GEN-WOH-1; GEN-WOH-3).
 4. Strong, James. *A Concise Dictionary of the Words in the Hebrew Bible* (1890), entry 8577.
-5. Septuagint: Genesis 1:21; Isaiah 27:1.
+5. Rahlfs, Alfred, ed., rev. Robert Hanhart. *Septuaginta: Editio altera*. Stuttgart: Deutsche Bibelgesellschaft, 2006. Genesis 1:21; Isaiah 27:1.
 6. Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Minneapolis: Fortress, 1994.
 7. Day, John. *God's Conflict with the Dragon and the Sea*. Cambridge: Cambridge University Press, 1985.
 8. Gunkel, Hermann. *Schöpfung und Chaos in Urzeit und Endzeit*. Göttingen, 1895.
