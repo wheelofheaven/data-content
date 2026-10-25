@@ -10,8 +10,8 @@ category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "biographical and methodological"
 claim_type = "direct"
-core_claim_ids = ["woh-claim-0066"]
-core_versions = { woh-claim-0066 = "0.1.0" }
+core_claim_ids = ["woh-claim-0066", "woh-claim-0073"]
+core_versions = { woh-claim-0066 = "0.1.0", woh-claim-0073 = "0.1.0" }
 alternative_names = ["Bible de la Pléiade (Dhorme)", "La Bible: L'Ancien Testament (Dhorme)", "Dhorme Old Testament", "Bible Dhorme"]
 see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "The plural form Dhorme preserves as Élohim rather than translating it as Dieu." },
@@ -137,6 +137,8 @@ Several specific features of the Dhorme translation are catalogued here for refe
 **Preservation of *Élyôn*, *Shaddaï*, *Sebaôt*, and other compound divine names.** The Hebrew compound divine titles (*El Elyon*, *El Shaddai*, *YHWH Sebaoth*, etc.) are preserved philologically rather than translated theologically. The framework's broader work on the operational content of these compound names (developed in the [List of etymological readings](../list-of-etymological-readings/)) draws on Dhorme's preserved forms.
 
 **Preservation of *kavod*.** The Hebrew *kavod* — etymologically "weight, heaviness," conventionally translated theologically as "glory" — is given philological footnote treatment that preserves the literal weight/heaviness etymology while the body text uses appropriate French rendering. The framework's reading of *kavod* as the observable physical signature of an Elohim presence (developed in the etymological-readings catalogue and the dedicated *kavod* entry) depends substantially on the philological preservation in Dhorme.
+
+**Restoration of the *tanninim* as *grands dragons*.** At Genesis 1:21, where the Hebrew names the הַתַּנִּינִם הַגְּדֹלִים (*ha-tanninim ha-gedolim*), Dhorme translates « Élohim créa donc les grands dragons ». The common French Bibles of his century soften the verse: Segond (1910) gives *les grands poissons* and Crampon (1923) *les grands animaux aquatiques*, following the Septuagint's κήτη and the Vulgate's *cete grandia*. Among French versions only the literal Lausanne Bible of 1872 had rendered the word as Dhorme does. His apparatus note on verses 20–23 gives the philology outright: « Les dragons (verset 21), hébreu *tanninim*, monstres marins (*Isaïe*, XXVII, 1 ; *Psaumes*, LXXIV, 13 ; *Job*, VII, 12) de la nature des serpents (*Exode*, VII, 9-12 ; *Deutéronome*, XXXII, 33) ». It identifies dragon, sea-monster and serpent as one word-family. His note on Genesis 3:1 adds that the serpent of Eden is the antagonist « qu'on identifiera à Léviathan d'après *Isaïe*, XXVII, 1 ». The rendering matters for the corpus because the Raëlian source quotes Dhorme's Genesis 1:20 and 1:24 on either side of this verse but never 1:21 itself, even though its own narrative names the creatures of that stage "dragons, or what you have named dinosaurs" ([*The Dragon Curve*](/articles/the-dragon-curve/) examines the gap; see also the {% wiki(slug="dragons") %}Dragons{% end %} entry). The comparison also qualifies the quotation-layer identification. At this passage the source matches Dhorme's 1:24 exactly, but carries his 1:20 and 1:26 with one-word variances (*les* for *des volatiles*; *Qu'il ait* for *Qu'ils aient autorité*), so the identification holds by the translation's distinctive wording rather than by verbatim copying throughout.
 
 **The philological-footnote apparatus.** Dhorme's footnotes provide alternative renderings, variant manuscript readings, etymological observations, and references to comparative Semitic material. The footnotes are integrated into the translation's apparatus rather than appearing as a separate critical commentary — making the translation simultaneously a reading text and a research instrument.
 

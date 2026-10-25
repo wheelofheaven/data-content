@@ -377,7 +377,15 @@ canon's Elohim create life on Earth — all of it, from alga to man —
 in their laboratories; Sendy's Celestials create nothing of the
 kind. His bipeds are indigenous, evolved on Earth by the standard
 account; his six days are a restoration of a ruined biosphere, and
-his Eden accelerates and selects existing stock. On this axis Sendy
+his Eden accelerates and selects existing stock. His fifth day
+accordingly has no dragons. In *La lune, clé de la Bible* it is a
+repopulation after glaciation, and *L'ère du Verseau*, which quotes
+Genesis 1:21 itself, reads the verse as the resurrection of a lost
+fauna. The only dinosaur in the five inspected books is the
+« diplodocus raté » of *Ces dieux*, a joke about evolution. The
+canon's fifth day, by contrast, names "dragons, or what you have named
+dinosaurs," the work of dissenting teams beside the birds; see
+[*The Dragon Curve*](/articles/the-dragon-curve/). On this axis Sendy
 stands farther from the canon than Biglino or Wallis, both of whom
 keep the fabrication of the Adam. Second, Yahweh. The canon seats
 [Yahweh](../yahweh/) as president of the
