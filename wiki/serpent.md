@@ -25,6 +25,7 @@ see_also = [
     { title = "Satan", path = "wiki/satan", description = "A separate Elohim figure — politically opposite to the Serpent/Lucifer, conflated only in later tradition." },
     { title = "Tree of Life", path = "wiki/tree-of-life", description = "The longevity technology guarded after the expulsion." },
     { title = "The Archdeacon and the Dragon", path = "articles/the-archdeacon-and-the-dragon", description = "The four-figure Serpent/Lucifer/Satan/Yahweh taxonomy is built against this entry's dissenting-faction reading." },
+    { title = "The Dragon Curve", path = "articles/the-dragon-curve", description = "The Explainer asking, as a flagged conjecture, whether the faction remembered as the Serpent is also remembered for the dragon-work." },
 ]
 
 footnotes = [

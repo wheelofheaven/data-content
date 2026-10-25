@@ -19,7 +19,8 @@ see_also = [
     { title = "Genesis", path = "wiki/genesis", description = "The book whose opening verse exemplifies Dhorme's preserved-vocabulary method." },
     { title = "List of etymological readings", path = "wiki/list-of-etymological-readings", description = "The framework's philological catalogue that draws on Dhorme's footnote apparatus." },
     { title = "List of exegetic readings", path = "wiki/list-of-exegetic-readings", description = "The companion referential catalogue built on the same literal-vocabulary foundation." },
-    { title = "Hebrew", path = "wiki/hebrew", description = "The source language whose operational terms Dhorme's translation transmits intact." }
+    { title = "Hebrew", path = "wiki/hebrew", description = "The source language whose operational terms Dhorme's translation transmits intact." },
+    { title = "The Dragon Curve", path = "articles/the-dragon-curve", description = "The Explainer on Dhorme's « grands dragons » at Genesis 1:21 — the one verse of his page the first Message never quotes." }
 ]
 
 [extra.infobox]

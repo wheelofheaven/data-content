@@ -29,6 +29,7 @@ see_also = [
     { title = "Dhorme Bible translation", path = "wiki/dhorme-bible-translation", description = "The scholarly French Bible — the one that leaves Iahvé Elohim standing — against which Sendy told his readers to check him." },
     { title = "Raël", path = "wiki/rael", description = "The claimed eyewitness whose 1974 message shares Sendy's vocabulary; the relationship between the two men's work is treated below." },
     { title = "Ancient astronaut hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The broader tradition Sendy pre-dated, disliked in its sensational forms, and disciplined by example." },
+    { title = "The Dragon Curve", path = "articles/the-dragon-curve", description = "The Explainer finding no Sendy counterpart for the first Message's dragons-at-the-bird-stage passage — only a « diplodocus raté » joke in Ces dieux." },
 ]
 external_links = [
     { title = "Jean Sendy — Wikipedia (French)", url = "https://fr.wikipedia.org/wiki/Jean_Sendy" },

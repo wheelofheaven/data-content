@@ -25,6 +25,7 @@ see_also = [
     { title = "The World Behind the Odyssey", path = "/articles/the-world-behind-the-odyssey/", description = "The Explainer that excavates the Greek strata of the pattern — Homer, Hesiod, and the Anatolian succession myths — before the framework reading." },
     { title = "The East Face of Homer", path = "/articles/the-east-face-of-homer/", description = "The companion Explainer that follows the pattern's eastward strata into Mesopotamia: the documented transmission corridor, and the canon's reading of Greece inside the Elohimian sphere." },
     { title = "The Rain Over Helicon", path = "/articles/the-rain-over-helicon/", description = "The third Greek Explainer, auditing M. L. West's comparative method: why the divine-combat family holds together historically while its members keep their differences." },
+    { title = "The Dragon Curve", path = "/articles/the-dragon-curve/", description = "The Explainer on the tannin of Genesis 1:21 and the serpent-dragon-sea-monster vocabulary of the combat myths, read against the first Message." },
 ]
 
 [extra.infobox]

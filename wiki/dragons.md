@@ -22,6 +22,7 @@ see_also = [
     { title = "Lucifer", path = "wiki/lucifer", description = "The opposition faction whose historical referents the same tannin vocabulary tracks in Isaiah 27:1." },
     { title = "Satan", path = "wiki/satan", description = "The adversary tradition onto which later reptilian-dragon symbolism was mapped." },
     { title = "List of etymological readings", path = "wiki/list-of-etymological-readings", description = "Where tannin sits among the corpus's directly-read Hebrew terms." },
+    { title = "The Dragon Curve", path = "articles/the-dragon-curve", description = "The Explainer on Genesis 1:21's great dragons, the verse the first Message never quotes, and the dinosaurs it seats beside the birds." },
 ]
 
 [extra.infobox]
