@@ -73,7 +73,7 @@ Wheel of Heaven 透过{% wiki(slug="reference-corpus-of-the-raelian-canon") %}�
 
 这是两种解读之间的一致。它并不证实它们所提出的希伯来语含义；那些含义的语法、用法和语境需要另行进行语言学考察。
 
-桑迪还预示了后来雷尔派对耶洛因领导层之叙述中的一个细节。在 *La lune, clé de la Bible*（1968）中，他主要把{% wiki(slug="yahweh") %}Iahvé{% end %}视为一个非物质的「原理」，可与热力学中的卡诺原理相比，但他指出，圣经中的 Iahvé 一直表现得像 « le patron des Elohim »。他还姑且提出另一种可能：耶洛因或许会把他们世袭的国王或选举产生的主席称为 « Iahvé »。随后他称 Iahvé 为他论点的薄弱环节，因为好几种解释似乎同样令人信服。第一则讯息引入了{% wiki(slug="council-of-eternals") %}永恒者议会{% end %}的主席，此人说自己主持了地球上生命的创造，但讯息没有说出他的名字。称这位人物为 Iahvé 的，是{% libref(book="extraterrestrials-took-me-to-their-planet") %}第二则讯息{% end %}（1975）。{{ cite(id="10", title="La lune, clé de la Bible，第 9 章") }}{{ cite(id="2", title="《真实之书》，7:56") }}
+桑迪还预示了后来雷尔派对耶洛因领导层之叙述中的一个细节。在 *La lune, clé de la Bible*（1968）中，他主要把{% wiki(slug="yahweh") %}Iahvé{% end %}视为一个非物质的「原理」，可与热力学中的卡诺原理相比，但他指出，圣经中的 Iahvé 一直表现得像 « le patron des Elohim »。他还姑且提出另一种可能：耶洛因或许会把他们世袭的国王或选举产生的主席称为 « Iahvé »。随后他称 Iahvé 为他论点的薄弱环节，因为好几种解释似乎同样令人信服。第一则讯息引入了{% wiki(slug="council-of-the-eternals") %}永恒者议会{% end %}的主席，此人说自己主持了地球上生命的创造，但讯息没有说出他的名字。称这位人物为 Iahvé 的，是{% libref(book="extraterrestrials-took-me-to-their-planet") %}第二则讯息{% end %}（1975）。{{ cite(id="10", title="La lune, clé de la Bible，第 9 章") }}{{ cite(id="2", title="《真实之书》，7:56") }}
 
 在桑迪自己的呈现中，他的论述还有更古老的思想渊源。*Ces dieux* 援引了伏尔泰对《创世记》开篇复数的讨论。*L'ère du Verseau* 在讨论神圣的相似性以及天上存在者与一个非物质原理之关系时，借重了{% wiki(slug="kabbalah") %}《佐哈尔》{% end %}、斐洛和中世纪的诠释者。这些引用是他论证结构的一部分，即使他对它们的使用需要独立的考察。{{ cite(id="1", title="Ces dieux，开篇献词与第 9 章") }}{{ cite(id="3", title="L’ère du Verseau，第 16 章") }}
 

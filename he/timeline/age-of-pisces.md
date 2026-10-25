@@ -24,7 +24,7 @@ references = [
     { title = "הבשורה על פי לוקאס / מעשי השליחים", author = "אנונימי (מיוחס ללוקאס)", date = "כ-80–90 לספירה", medium = "religious-text", path = "/library/luke/" },
     { title = "הבשורה על פי יוחנן", author = "אנונימי (קהילת יוחנן)", date = "כ-90–110 לספירה", medium = "religious-text", path = "/library/john/" },
     { title = "הקוראן", author = "אנונימי (מסורת אסלאמית: התגלה למוחמד)", date = "ערוך כ-650 לספירה", medium = "religious-text", path = "/library/quran-woh/", description = "מצוטט לאורך §V על ההתערבות האסלאמית." },
-    { title = "ספר מורמון", author = "ג'וזף סמית (מתרגם); מורמון, מורוני ואחרים (מהדירים קדומים שמותיהם נזכרים)", date = "1830 (מהדורה ראשונה)", medium = "religious-text", path = "/library/book-of-mormon/", description = "מצוטט בסעיף §VI על התערבות המורמונים בעידן הדגים." },
+    { id = "the-book-of-mormon", note = "מצוטט בסעיף §VI על התערבות המורמונים בעידן הדגים." },
     { title = "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth", author = "ג'ורג'ו דה סנטיאנה והרתה פון דכנד", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
     { title = "Qur'anic Geography", author = "דן גיבסון", date = "2011", medium = "nonfiction-book", description = "בחינתו הארכאולוגית של גיבסון של אוריינטציות הקיבלה המוקדמת באסלאם, מרכזית לטיעון §V על פטרה ולא על מכה כמרכז האסלאמי המקורי." },
     { title = "Early Islamic Qiblas", author = "דן גיבסון", date = "2017", medium = "nonfiction-book", description = "הקטלוג והניתוח הסטטיסטי של גיבסון על אוריינטציות הקיבלה במסגדים מוקדמים לאורך שתי המאות הראשונות של האסלאם." },

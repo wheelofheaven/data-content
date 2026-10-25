@@ -24,7 +24,7 @@ references = [
     { title = "ルカによる福音書 / 使徒言行録", author = "作者不詳(ルカに帰せられる)", date = "西暦80–90年頃", medium = "religious-text", path = "/library/luke/" },
     { title = "ヨハネによる福音書", author = "作者不詳(ヨハネ共同体)", date = "西暦90–110年頃", medium = "religious-text", path = "/library/john/" },
     { title = "クルアーン", author = "作者不詳(イスラーム伝承では、ムハンマドに啓示されたとされる)", date = "西暦650年頃に編纂", medium = "religious-text", path = "/library/quran-woh/", description = "第V節のイスラーム介入に関する箇所で全体を通じて引用されます。" },
-    { title = "モルモン書", author = "ジョセフ・スミス(翻訳者);モルモン、モロナイ他(古代の編纂者として名指されている人物)", date = "1830年(初版)", medium = "religious-text", path = "/library/book-of-mormon/", description = "第VI節のモルモンの魚座時代介入に関する箇所で引用されます。" },
+    { id = "the-book-of-mormon", note = "第VI節のモルモンの魚座時代介入に関する箇所で引用されます。" },
     { title = "ハムレットの臼——人類の知識の起源とその神話による伝達についての試論", author = "ジョルジョ・デ・サンティリャーナ、ヘルタ・フォン・デヒェント", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
     { title = "Qur'anic Geography (クルアーンの地理)", author = "ダン・ギブソン", date = "2011", medium = "nonfiction-book", description = "ギブソンによる初期イスラーム期のキブラの向きに関する考古学的再検討。第V節における、メッカではなくペトラが本来のイスラームの中心地であるという議論の中核をなす。" },
     { title = "Early Islamic Qiblas (初期イスラームのキブラ)", author = "ダン・ギブソン", date = "2017", medium = "nonfiction-book", description = "イスラーム最初の二世紀にわたる初期モスクのキブラの向きについての、ギブソンによるカタログと統計的分析。" },

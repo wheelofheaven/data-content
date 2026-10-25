@@ -24,7 +24,7 @@ references = [
     { title = "누가복음 / 사도행전", author = "익명 (누가에게 귀속)", date = "기원후 80–90년경", medium = "religious-text", path = "/library/luke/" },
     { title = "요한복음", author = "익명 (요한 공동체)", date = "기원후 90–110년경", medium = "religious-text", path = "/library/john/" },
     { title = "꾸란", author = "익명 (이슬람 전통: 무함마드에게 계시됨)", date = "기원후 650년경 편찬", medium = "religious-text", path = "/library/quran-woh/", description = "이슬람 개입에 관한 §V 전반에 걸쳐 인용됨." },
-    { title = "몰몬경", author = "조셉 스미스 (번역자); 몰몬, 모로나이 외 (이름이 명시된 고대 편찬자들)", date = "1830 (초판)", medium = "religious-text", path = "/library/book-of-mormon/", description = "몰몬교의 물고기자리 시대 개입에 관한 §VI에서 인용됨." },
+    { id = "the-book-of-mormon", note = "몰몬교의 물고기자리 시대 개입에 관한 §VI에서 인용됨." },
     { title = "햄릿의 맷돌: 인간 지식의 기원과 신화를 통한 그 전수에 관한 연구", author = "조르조 데 산틸라나, 헤르타 폰 데헨트", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
     { title = "Qur'anic Geography (꾸란의 지리)", author = "댄 기븐", date = "2011", medium = "nonfiction-book", description = "초기 이슬람 키블라 방향에 대한 기븐의 고고학적 재검토. 메카가 아니라 페트라가 본래의 이슬람 중심지였다는 §V의 논거에서 중심이 된다." },
     { title = "Early Islamic Qiblas (초기 이슬람 키블라)", author = "댄 기븐", date = "2017", medium = "nonfiction-book", description = "이슬람의 첫 두 세기에 걸친 초기 모스크 키블라 방향에 대한 기븐의 목록과 통계 분석." },

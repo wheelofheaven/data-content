@@ -73,7 +73,7 @@ Wheel of Heaven 透過{% wiki(slug="reference-corpus-of-the-raelian-canon") %}�
 
 這是兩種解讀之間的一致。它並不驗證兩者所主張的希伯來文含義；那些含義的語法、用法與語境，需要另行作語言學上的考察。
 
-桑迪也預示了後來雷爾派對耶洛因領導層之記述中的一個細節。在 *La lune, clé de la Bible*（《月球，聖經之鑰》，1968）中，他主要把 {% wiki(slug="yahweh") %}Iahvé{% end %} 視為一項非物質的原理，可與熱力學中的卡諾原理相比，但他也指出，聖經中的 Iahvé 始終扮演著 « le patron des Elohim »（耶洛因的首領）的角色。他還提出了另一種可能，姑且一說：耶洛因或許把他們世襲的國王或選出的主席稱為 « Iahvé »。隨後他稱 Iahvé 為自己論題的弱點，因為好幾種解釋似乎同樣令人信服。第一部《訊息》引入了{% wiki(slug="council-of-eternals") %}永恆者議會{% end %}的主席，此人說自己主持了地球上生命的創造，但並未給他命名。把這位人物稱為 Iahvé 的，是{% libref(book="extraterrestrials-took-me-to-their-planet") %}第二部《訊息》{% end %}（1975）。{{ cite(id="10", title="La lune, clé de la Bible，第 9 章") }}{{ cite(id="2", title="《訴說真相之書》，7:56") }}
+桑迪也預示了後來雷爾派對耶洛因領導層之記述中的一個細節。在 *La lune, clé de la Bible*（《月球，聖經之鑰》，1968）中，他主要把 {% wiki(slug="yahweh") %}Iahvé{% end %} 視為一項非物質的原理，可與熱力學中的卡諾原理相比，但他也指出，聖經中的 Iahvé 始終扮演著 « le patron des Elohim »（耶洛因的首領）的角色。他還提出了另一種可能，姑且一說：耶洛因或許把他們世襲的國王或選出的主席稱為 « Iahvé »。隨後他稱 Iahvé 為自己論題的弱點，因為好幾種解釋似乎同樣令人信服。第一部《訊息》引入了{% wiki(slug="council-of-the-eternals") %}永恆者議會{% end %}的主席，此人說自己主持了地球上生命的創造，但並未給他命名。把這位人物稱為 Iahvé 的，是{% libref(book="extraterrestrials-took-me-to-their-planet") %}第二部《訊息》{% end %}（1975）。{{ cite(id="10", title="La lune, clé de la Bible，第 9 章") }}{{ cite(id="2", title="《訴說真相之書》，7:56") }}
 
 在桑迪自己的呈現中，他的處理也有更古老的思想淵源。*Ces dieux* 援引了伏爾泰對《創世記》開篇複數形式的討論。*L'ère du Verseau* 在討論神的形象，以及天上存在者與非物質原理之間的關係時，借鑑了{% wiki(slug="kabbalah") %}《光輝之書》（Zohar）{% end %}、斐洛與中世紀的詮釋者。這些參照是他論證結構的一部分，即使他對它們的運用需要另行獨立考察。{{ cite(id="1", title="Ces dieux，卷首獻詞與第 9 章") }}{{ cite(id="3", title="L’ère du Verseau，第 16 章") }}
 

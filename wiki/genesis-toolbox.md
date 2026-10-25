@@ -22,7 +22,7 @@ see_also = [
     { title = "Genesis", path = "wiki/genesis", description = "The compressed report the toolbox reconstructs — the biblical account read as staged creation work." },
     { title = "Intelligent Design", path = "wiki/intelligent-design", description = "The design-inference debate the toolbox gives the framework's answer to: designers with tools, not a deity." },
     { title = "Elohim", path = "wiki/elohim", description = "The civilization whose working equipment this entry catalogues." },
-    { title = "Council of Eternals", path = "wiki/council-of-eternals", description = "The governing body sustained by the toolbox's recreation technology." },
+    { title = "Council of Eternals", path = "wiki/council-of-the-eternals", description = "The governing body sustained by the toolbox's recreation technology." },
 ]
 
 [extra.infobox]
@@ -255,7 +255,7 @@ all citizens "have the removal of cells done at a certain age and hope that
 they will be chosen to be reborn after their death"
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=30) %}TBWTT 7:30{% end %}–{% libref(book="the-book-which-tells-the-truth", chapter=7, verse=31) %}31{% end %}).
 The technology's showcase is the president of the
-{% wiki(slug="council-of-eternals") %}Council of Eternals{% end %} — Yahweh —
+{% wiki(slug="council-of-the-eternals") %}Council of Eternals{% end %} — Yahweh —
 "twenty-five thousand years old… I have inhabited 25 bodies up to this day"
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}TBWTT 7:56{% end %}).
 
@@ -350,7 +350,7 @@ reading are interpretive work — transparent, sourced, and revisable.
 - {% wiki(slug="genesis") %}Genesis{% end %}
 - {% wiki(slug="intelligent-design") %}Intelligent Design{% end %}
 - {% wiki(slug="elohim") %}Elohim{% end %}
-- {% wiki(slug="council-of-eternals") %}Council of Eternals{% end %}
+- {% wiki(slug="council-of-the-eternals") %}Council of Eternals{% end %}
 - {% wiki(slug="eden") %}Eden{% end %}
 - {% wiki(slug="great-flood") %}Great Flood{% end %}
 - {% wiki(slug="noahs-ark") %}Noah's Ark{% end %}

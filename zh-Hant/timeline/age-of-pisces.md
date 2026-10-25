@@ -24,7 +24,7 @@ references = [
     { title = "路加福音 / 使徒行傳", author = "佚名(傳統上歸於路加)", date = "約公元80–90年", medium = "religious-text", path = "/library/luke/" },
     { title = "約翰福音", author = "佚名(約翰社群)", date = "約公元90–110年", medium = "religious-text", path = "/library/john/" },
     { title = "古蘭經", author = "佚名(伊斯蘭傳統:啟示予穆罕默德)", date = "約公元650年彙編", medium = "religious-text", path = "/library/quran-woh/", description = "於第五節討論伊斯蘭介入時通篇引用。" },
-    { title = "摩爾門經", author = "約瑟·斯密(譯者);摩爾門、摩羅乃等(古代彙編者)", date = "1830年(首版)", medium = "religious-text", path = "/library/book-of-mormon/", description = "於第六節討論摩爾門教雙魚座時代介入時引用。" },
+    { id = "the-book-of-mormon", note = "於第六節討論摩爾門教雙魚座時代介入時引用。" },
     { title = "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth", author = "Giorgio de Santillana 與 Hertha von Dechend", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
     { title = "Qur'anic Geography", author = "Dan Gibson", date = "2011", medium = "nonfiction-book", description = "吉布森對早期伊斯蘭朝向(qibla)方位的考古重新檢視,為第五節主張佩特拉而非麥加為原初伊斯蘭中心的核心論據。" },
     { title = "Early Islamic Qiblas", author = "Dan Gibson", date = "2017", medium = "nonfiction-book", description = "吉布森對伊斯蘭最初兩個世紀內、早期清真寺朝向方位的編目與統計分析。" },
