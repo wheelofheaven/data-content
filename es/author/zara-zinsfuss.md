@@ -1,6 +1,6 @@
 +++
 title = "Zara Zinsfuss"
-description = "Relato de la autora sobre el camino hacia Wheel of Heaven — las lecturas formativas, la noche de reconocimiento con El Libro Que Dice la Verdad, los quince años de cuadernos privados, y la promesa hecha en una azotea de Jerusalén en 2026 que convirtió los cuadernos en un corpus público."
+description = "Relato de la autora sobre el camino hacia Wheel of Heaven — las lecturas formativas, la noche de reconocimiento con El Libro Que Dice la Verdad, los quince años de cuadernos privados, y la promesa hecha en una azotea de Jerusalén en 2022 que convirtió los cuadernos en un corpus público."
 template = "author.html"
 date = 2026-05-10
 
@@ -62,7 +62,7 @@ Durante la mayor parte de los quince años siguientes no fui activa en la comuni
 
 ## La promesa en la azotea
 
-La promesa de escribir este corpus se hizo en el equinoccio de otoño de 2026, que en el calendario raëliano es el año 80 AH — ochenta años después de Hiroshima, ochenta años dentro de la [Edad de Acuario](/es/timeline/age-of-aquarius/).
+La promesa de escribir este corpus se hizo en el equinoccio de otoño de 2022, que en el calendario raëliano es el año 77 AH — setenta y siete años después de Hiroshima, setenta y siete años dentro de la [Edad de Acuario](/es/timeline/age-of-aquarius/).
 
 Estaba en Jerusalén en aquel momento, en un viaje pospandémico que llevaba años queriendo hacer y al que por fin me había dado permiso. Estaba en la azotea del hotel en el que me alojaba, cerca de la plaza Davidka en el centro de la ciudad, viendo ponerse el sol sobre la Ciudad Vieja. Recé otra vez — en silencio, sola en una azotea con las piedras de Jerusalén delante y la luz otoñal volviéndose dorada, roja, púrpura y finalmente oscura sobre el Monte de los Olivos — e hice una promesa. La promesa era a mí misma y a los [Elohim](/es/wiki/elohim/), en quienes había llegado a creer con esa clase de certeza que solo quince años de trabajo con el material-fuente pueden producir. La promesa era que escribiría las cosas en las que había estado pensando. Que no dejaría que lo acumulado se quedara en los cuadernos. Que lo pondría por escrito, en una forma en que alguien que no fuera yo pudiera leerlo, y dejaría que encontrara los lectores que encontrara.
 

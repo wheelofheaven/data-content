@@ -1,6 +1,6 @@
 +++
 title = "Zara Zinsfuss"
-description = "An author's account of the path to Wheel of Heaven — the formative reading, the night of recognition with The Book Which Tells the Truth, the fifteen years of private notebooks, and the promise made on a Jerusalem rooftop in 2026 that turned the notebooks into a public corpus."
+description = "An author's account of the path to Wheel of Heaven — the formative reading, the night of recognition with The Book Which Tells the Truth, the fifteen years of private notebooks, and the promise made on a Jerusalem rooftop in 2022 that turned the notebooks into a public corpus."
 template = "author.html"
 date = 2026-05-10
 
@@ -66,7 +66,7 @@ For most of the subsequent fifteen years I was not active in the Raëlian commun
 
 ## The promise on the rooftop
 
-The promise to write this corpus was made on the autumn equinox of 2026, which on the Raëlian calendar is the year 80 AH — eighty years After Hiroshima, eighty years into the [Age of Aquarius](/timeline/age-of-aquarius/).
+The promise to write this corpus was made on the autumn equinox of 2022, which on the Raëlian calendar is the year 77 AH — seventy-seven years After Hiroshima, seventy-seven years into the [Age of Aquarius](/timeline/age-of-aquarius/).
 
 I was in Jerusalem at the time, on a post-pandemic trip that I had been wanting to make for years and had finally given myself permission to take. I was on the rooftop of the hotel where I was staying, near Davidka Square in the center of the city, watching the sun set over the Old City. I prayed again — silently, alone on a rooftop with the stones of Jerusalem in front of me and the autumn light going gold and red and purple and finally dark over the Mount of Olives — and I made a promise. The promise was to myself, and to the [Elohim](/wiki/elohim/), in whom I had by then come to believe with the kind of certainty that only fifteen years of working through the source material can produce. The promise was that I would write the things I had been thinking about. That I would not let what I had accumulated stay in the notebooks. That I would put it down, in a form that someone other than me could read, and let it find whatever readers it found.
 

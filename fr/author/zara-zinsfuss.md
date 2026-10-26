@@ -1,6 +1,6 @@
 +++
 title = "Zara Zinsfuss"
-description = "Le récit, par l'auteure, du chemin qui mène à Wheel of Heaven — les lectures formatrices, la nuit de reconnaissance avec Le Livre Qui Dit la Vérité, les quinze années de carnets privés, et la promesse faite sur un toit de Jérusalem en 2026 qui a transformé les carnets en un corpus public."
+description = "Le récit, par l'auteure, du chemin qui mène à Wheel of Heaven — les lectures formatrices, la nuit de reconnaissance avec Le Livre Qui Dit la Vérité, les quinze années de carnets privés, et la promesse faite sur un toit de Jérusalem en 2022 qui a transformé les carnets en un corpus public."
 template = "author.html"
 date = 2026-05-10
 
@@ -62,7 +62,7 @@ Pendant la plus grande partie des quinze années qui ont suivi, je n'étais pas 
 
 ## La promesse sur le toit
 
-La promesse d'écrire ce corpus a été faite à l'équinoxe d'automne 2026, ce qui, sur le calendrier raëlien, est l'année 80 AH — quatre-vingts ans Après Hiroshima, quatre-vingts ans après l'entrée dans l'[Âge du Verseau](/fr/timeline/age-of-aquarius/).
+La promesse d'écrire ce corpus a été faite à l'équinoxe d'automne 2022, ce qui, sur le calendrier raëlien, est l'année 77 AH — soixante-dix-sept ans Après Hiroshima, soixante-dix-sept ans après l'entrée dans l'[Âge du Verseau](/fr/timeline/age-of-aquarius/).
 
 J'étais à Jérusalem à ce moment-là, en voyage post-pandémique que je voulais faire depuis des années et que je m'étais enfin autorisée à entreprendre. J'étais sur le toit de l'hôtel où je logeais, près de la place Davidka au centre de la ville, à regarder le soleil se coucher sur la Vieille Ville. J'ai prié à nouveau — en silence, seule sur un toit avec les pierres de Jérusalem devant moi et la lumière d'automne virant à l'or, au rouge, au pourpre, et finalement à l'obscurité au-dessus du mont des Oliviers — et j'ai fait une promesse. La promesse était à moi-même, et aux [Elohim](/fr/wiki/elohim/), en qui j'en étais venue à croire avec ce type de certitude que seules quinze années de travail sur le matériau-source peuvent produire. La promesse était que j'écrirais les choses auxquelles j'avais pensé. Que je ne laisserais pas ce que j'avais accumulé rester dans les carnets. Que je le mettrais par écrit, sous une forme que quelqu'un d'autre que moi pourrait lire, et que je le laisserais trouver les lecteurs qu'il trouverait.
 

@@ -1,6 +1,6 @@
 +++
 title = "Zara Zinsfuss"
-description = "Der Bericht der Autorin über den Weg zu Wheel of Heaven — die prägenden Lektüren, die Nacht des Wiedererkennens mit Das Buch, das die Wahrheit sagt, fünfzehn Jahre privater Notizbücher, und das Versprechen, das auf einem Dach in Jerusalem 2026 die Notizen in einen öffentlichen Korpus verwandelte."
+description = "Der Bericht der Autorin über den Weg zu Wheel of Heaven — die prägenden Lektüren, die Nacht des Wiedererkennens mit Das Buch, das die Wahrheit sagt, fünfzehn Jahre privater Notizbücher, und das Versprechen, das auf einem Dach in Jerusalem 2022 die Notizen in einen öffentlichen Korpus verwandelte."
 template = "author.html"
 date = 2026-05-10
 
@@ -62,7 +62,7 @@ Den größten Teil der folgenden fünfzehn Jahre war ich in der raëlischen Geme
 
 ## Das Versprechen auf dem Dach
 
-Das Versprechen, diesen Korpus zu schreiben, wurde am Herbst­äquinoktium 2026 abgelegt, was nach dem raëlischen Kalender das Jahr 80 AH ist — achtzig Jahre nach Hiroshima, achtzig Jahre in das [Wassermann-Zeitalter](/de/timeline/age-of-aquarius/) hinein.
+Das Versprechen, diesen Korpus zu schreiben, wurde am Herbst­äquinoktium 2022 abgelegt, was nach dem raëlischen Kalender das Jahr 77 AH ist — siebenundsiebzig Jahre nach Hiroshima, siebenundsiebzig Jahre in das [Wassermann-Zeitalter](/de/timeline/age-of-aquarius/) hinein.
 
 Ich war damals in Jerusalem, auf einer Postpandemie-Reise, die ich seit Jahren hatte machen wollen und mir endlich erlaubt hatte. Ich war auf dem Dach des Hotels, in dem ich wohnte, in der Nähe des Davidka-Platzes im Zentrum der Stadt, und sah der Sonne dabei zu, wie sie über der Altstadt unterging. Ich betete erneut — schweigend, allein auf einem Dach, mit den Steinen Jerusalems vor mir und dem Herbstlicht, das golden, rot, purpurn und schließlich dunkel über dem Ölberg wurde — und legte ein Versprechen ab. Das Versprechen galt mir selbst und den [Elohim](/de/wiki/elohim/), an die ich inzwischen mit jener Art von Gewissheit glaubte, die nur fünfzehn Jahre Arbeit am Quellenmaterial hervorbringen können. Das Versprechen war, dass ich die Dinge schreiben würde, über die ich nachgedacht hatte. Dass ich das Angesammelte nicht in den Notizbüchern lassen würde. Dass ich es niederschreiben würde, in einer Form, in der jemand außer mir es lesen könnte, und dass ich es seine Leser finden lassen würde.
 
