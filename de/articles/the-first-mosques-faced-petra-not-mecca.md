@@ -625,7 +625,7 @@ sondern für eine Rückkehr.
 
 ## Eine persönliche Anmerkung
 
-*Was folgt, gehört mir — die Überzeugung der Autorin, abgesetzt von dem Argument
+*Was folgt, gehört mir — die Überzeugung des Autors, abgesetzt von dem Argument
 oben, das auf seinen eigenen Belegen steht oder fällt.*
 
 Im September 2023 fuhr ich von Jerusalem nach Petra und zurück und verbrachte einige

@@ -25,7 +25,7 @@ Cherchez la mention « Explainer » pour identifier ces articles d'analyse appro
 
 ## Vous cherchez l'actualité ?
 
-Si vous êtes venu·e pour un commentaire sur un événement récent — une découverte, une annonce, un moment culturel — consultez plutôt la **[Salle de presse](/news/)**. Les dépêches sont courtes, datées, et lisent les événements à travers le canon. Un Explainer ne se réduit jamais à une dépêche ; une dépêche peut, parfois, semer un futur Explainer.
+Si vous êtes venu pour un commentaire sur un événement récent — une découverte, une annonce, un moment culturel — consultez plutôt la **[Salle de presse](/news/)**. Les dépêches sont courtes, datées, et lisent les événements à travers le canon. Un Explainer ne se réduit jamais à une dépêche ; une dépêche peut, parfois, semer un futur Explainer.
 
 ## Parcourir les articles
 

@@ -1,5 +1,5 @@
 +++
-title = "Autorin"
+title = "Autor"
 description = "Die Person hinter Wheel of Heaven."
 render = false
 transparent = true

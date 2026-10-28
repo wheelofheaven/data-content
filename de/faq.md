@@ -6,7 +6,7 @@ template = "faq.html"
 [extra]
 claim_type = "direct"
 editorial_pass = "2026-05"
-summary = "Substanzielle Antworten auf die Fragen, mit denen Leserinnen und Leser am häufigsten ankommen. Wird Ihre Frage hier nicht beantwortet, sind die GitHub Discussions der richtige Ort, um sie zu stellen — und eine gute Frage landet vielleicht am Ende auf dieser Seite."
+summary = "Substanzielle Antworten auf die Fragen, mit denen Leser am häufigsten ankommen. Wird Ihre Frage hier nicht beantwortet, sind die GitHub Discussions der richtige Ort, um sie zu stellen — und eine gute Frage landet vielleicht am Ende auf dieser Seite."
 last_updated = "2026-09-19"
 
 # ---------------------------------------------------------------------------
@@ -45,7 +45,7 @@ Die Hypothese wird angeboten, um erprobt, bewertet und gegen Alternativen geprü
 slug = "who-wrote-this"
 question = "Wer hat das geschrieben?"
 answer = """
-Das Projekt wird von Zara Zinsfuss verfasst, einer unabhängigen Leserin und Raëlianerin, die fünfzehn Jahre damit verbracht hat, den Rahmen herauszuarbeiten, den das Korpus präsentiert. Das Projekt ist in der Ich-Stimme einer einzelnen Autorin geschrieben und steht Mitwirkenden offen. Beiträge sind über [GitHub](https://github.com/wheelofheaven) willkommen.
+Das Projekt wird von Zara Zinsfuss verfasst, einem unabhängigen Leser und Raëlianer, der fünfzehn Jahre damit verbracht hat, den Rahmen herauszuarbeiten, den das Korpus präsentiert. Das Projekt ist in der Ich-Stimme eines einzelnen Autors geschrieben und steht Mitwirkenden offen. Beiträge sind über [GitHub](https://github.com/wheelofheaven) willkommen.
 """
 
 [[extra.faq_groups.items]]
@@ -61,20 +61,20 @@ Davon abgesehen nimmt das Projekt religiöse Texte ernst — in mancher Hinsicht
 slug = "is-this-peer-reviewed"
 question = "Ist das peer-reviewte Forschung?"
 answer = """
-Nein, und das Projekt erhebt nicht diesen Anspruch. Wheel of Heaven ist ein essayistisches Langzeitprojekt einer unabhängigen Autorin, keine akademische Publikation. Wo das Projekt sich mit aktueller Wissenschaft auseinandersetzt — in Bibelwissenschaft, Genetik, Astrobiologie, Archäoastronomie und anderen Feldern — tut es dies als ernsthafte Leserin der veröffentlichten Literatur und nimmt die Wissenschaft zu ihren eigenen Bedingungen.
+Nein, und das Projekt erhebt nicht diesen Anspruch. Wheel of Heaven ist ein essayistisches Langzeitprojekt eines unabhängigen Autors, keine akademische Publikation. Wo das Projekt sich mit aktueller Wissenschaft auseinandersetzt — in Bibelwissenschaft, Genetik, Astrobiologie, Archäoastronomie und anderen Feldern — tut es dies als ernsthafter Leser der veröffentlichten Literatur und nimmt die Wissenschaft zu ihren eigenen Bedingungen.
 
-Die epistemische Disziplin des Projekts ist intern statt institutionell: Jeder Wiki-Eintrag, jeder Artikel und jedes Bibliotheksbuch — und die meisten anderen Seiten — kennzeichnet seine Hauptaussage als **direkt** (was eine Quelle behauptet und die etablierte Wissenschaft nicht bestreitet), **Rahmen** (eine Prämisse des raëlianischen Kanons, die die etablierte Wissenschaft nicht teilt), **gefolgert** (eine vertretbare Lesart einer Quelle) oder **spekulativ** (was das Projekt als interpretative Synthese vorschlägt). Leserinnen und Leser sind eingeladen, die konkreten Aussagen des Projekts gegen die Alternativen abzuwägen.
+Die epistemische Disziplin des Projekts ist intern statt institutionell: Jeder Wiki-Eintrag, jeder Artikel und jedes Bibliotheksbuch — und die meisten anderen Seiten — kennzeichnet seine Hauptaussage als **direkt** (was eine Quelle behauptet und die etablierte Wissenschaft nicht bestreitet), **Rahmen** (eine Prämisse des raëlianischen Kanons, die die etablierte Wissenschaft nicht teilt), **gefolgert** (eine vertretbare Lesart einer Quelle) oder **spekulativ** (was das Projekt als interpretative Synthese vorschlägt). Leser sind eingeladen, die konkreten Aussagen des Projekts gegen die Alternativen abzuwägen.
 """
 
 [[extra.faq_groups.items]]
 slug = "why-take-this-seriously"
 question = "Warum sollte ich das ernst nehmen?"
 answer = """
-Das ist die richtige Frage, und die einzige ehrliche Antwort des Projekts lautet: Probieren Sie die Linse aus. Das Korpus bittet nicht um Zustimmung im Voraus. Es bietet einen bestimmten interpretativen Rahmen, sorgfältig auf die verfügbaren Belege angewendet, mit expliziten Etiketten, die Quellenaussage von Folgerung von Spekulation unterscheiden. Die Leserin oder der Leser ist eingeladen, hindurchzugehen, die Lesarten zu bewerten, die der Rahmen hervorbringt, und zu entscheiden, ob sie gegenüber Alternativen bestehen.
+Das ist die richtige Frage, und die einzige ehrliche Antwort des Projekts lautet: Probieren Sie die Linse aus. Das Korpus bittet nicht um Zustimmung im Voraus. Es bietet einen bestimmten interpretativen Rahmen, sorgfältig auf die verfügbaren Belege angewendet, mit expliziten Etiketten, die Quellenaussage von Folgerung von Spekulation unterscheiden. Der Leser ist eingeladen, hindurchzugehen, die Lesarten zu bewerten, die der Rahmen hervorbringt, und zu entscheiden, ob sie gegenüber Alternativen bestehen.
 
-Das Vorwort des Projekts formuliert es so: *„Das Korpus ist eine Tür. Die Leserin geht hindurch oder geht nicht hindurch, auf der Grundlage dessen, was sie jenseits der Tür findet."*
+Das Vorwort des Projekts formuliert es so: *„Das Korpus ist eine Tür. Der Leser geht hindurch oder geht nicht hindurch, auf der Grundlage dessen, was er jenseits der Tür findet."*
 
-Wenn der Rahmen nach ehrlicher Auseinandersetzung die fortgesetzte Aufmerksamkeit der Leserin nicht verdient, ist das ein faires Ergebnis. Das Projekt ist nicht daran interessiert, jede Leserin zu überzeugen. Es ist daran interessiert, für Leserinnen lesbar zu sein, die sich ernsthaft einlassen.
+Wenn der Rahmen nach ehrlicher Auseinandersetzung die fortgesetzte Aufmerksamkeit des Lesers nicht verdient, ist das ein faires Ergebnis. Das Projekt ist nicht daran interessiert, jeden Leser zu überzeugen. Es ist daran interessiert, für Leser lesbar zu sein, die sich ernsthaft einlassen.
 """
 
 [[extra.faq_groups.items]]
@@ -85,7 +85,7 @@ Wheel of Heaven nimmt das raëlianische Quellenmaterial — in erster Linie *Das
 
 Aber das Projekt ist keine Publikation der raëlianischen Bewegung. Das Korpus reicht erheblich über die übliche raëlianische Selbstdarstellung hinaus: der Präzessionsrahmen, die Integration mit kulturübergreifender Mythologie, die technischen Lesarten bestimmter biblischer Passagen, die politisch-strukturelle Rekonstruktion der Allianz, die Auseinandersetzung mit zeitgenössischer Genomik und Astrobiologie — nichts davon gehört zu den Merkmalen institutioneller raëlianischer Materialien. Das Projekt ist nicht von der raëlianischen Bewegung unterstützt und wird es möglicherweise nie sein. Wo das Korpus von der üblichen raëlianischen Artikulation abweicht, tut es dies mit ausdrücklichen Gründen.
 
-Die Autorin ist Raëlianerin. Das Projekt ist es nicht.
+Der Autor ist Raëlianer. Das Projekt ist es nicht.
 """
 
 [[extra.faq_groups.items]]
@@ -111,7 +111,7 @@ Sorgfältig und explizit. Das Korpus verwendet drei Arten von Belegen:
 
 **Wissenschaftliche Belege** — was zeitgenössische Genetik, Astrobiologie, Planetenwissenschaft und Synthetische Biologie zur technischen Plausibilität der Aussagen des Rahmens sagen. Das Argument des Korpus ist hier konditional: *wenn* der Rahmen zutrifft, sollte die Wissenschaft auf eine bestimmte Weise aussehen; das Korpus verfolgt, wie gut die Wissenschaft das tatsächlich tut.
 
-Das Projekt beansprucht keinen abschließenden Beweis. Es beansprucht einen kohärenten und erklärungsstarken Rahmen, der ehrlich auf die verfügbaren Belege angewendet wird und den die Leserin einzuschätzen eingeladen ist.
+Das Projekt beansprucht keinen abschließenden Beweis. Es beansprucht einen kohärenten und erklärungsstarken Rahmen, der ehrlich auf die verfügbaren Belege angewendet wird und den der Leser einzuschätzen eingeladen ist.
 """
 
 # ---------------------------------------------------------------------------
@@ -285,7 +285,7 @@ Die meisten Seiten des Korpus tragen ein kleines Abzeichen, das den epistemische
 
 **Spekulative Aussage** — interpretative Synthese, die über das hinausgeht, was eine einzelne Quelle sagt. *„Die Himmelskriegs-Erzählungen unabhängiger Traditionen laufen auf ein einziges erinnertes Ereignis zusammen."* Diese Aussagen sind der eigenständige Beitrag des Projekts und am ehesten revisionsbedürftig.
 
-Die Badges erlauben es den Leserinnen, ihr Vertrauen auf der Ebene einzelner Aussagen zu kalibrieren. Eine spekulative Aussage ist nicht falsch, weil sie spekulativ ist; sie ist als spekulativ *gekennzeichnet*, damit die Leserin weiß, wie sie zu gewichten ist.
+Die Badges erlauben es den Lesern, ihr Vertrauen auf der Ebene einzelner Aussagen zu kalibrieren. Eine spekulative Aussage ist nicht falsch, weil sie spekulativ ist; sie ist als spekulativ *gekennzeichnet*, damit der Leser weiß, wie sie zu gewichten ist.
 """
 
 [[extra.faq_groups.items]]
@@ -352,7 +352,7 @@ Das Jahr ist das der letzten redaktionellen Überarbeitung der Seite, sofern erf
 
 > *Wheel of Heaven*. https://www.wheelofheaven.world/. Abgerufen am [Datum].
 
-Die [Autorenseite](/de/author/zara-zinsfuss/) nennt die Person hinter dem Projekt, falls Sie die Verfasserin würdigen möchten.
+Die [Autorenseite](/de/author/zara-zinsfuss/) nennt die Person hinter dem Projekt, falls Sie den Verfasser würdigen möchten.
 """
 
 [[extra.faq_groups.items]]
@@ -374,7 +374,7 @@ question = "Wie wird das Projekt finanziert?"
 answer = """
 Bislang vollständig aus eigener Tasche von Zara Zinsfuss. Das Projekt wird unabhängig verfasst, schaltet keine Werbung, verkauft nichts und hat keine kommerziellen Sponsoren.
 
-Hilfe wäre willkommen. Freiwillige Beiträge über [Open Collective](https://opencollective.com/wheelofheaven) fließen in Hosting, Infrastruktur und Übersetzungsarbeit — nichts davon wird derzeit von etwas anderem getragen als der eigenen Zeit und dem Geld der Autorin.
+Hilfe wäre willkommen. Freiwillige Beiträge über [Open Collective](https://opencollective.com/wheelofheaven) fließen in Hosting, Infrastruktur und Übersetzungsarbeit — nichts davon wird derzeit von etwas anderem getragen als der eigenen Zeit und dem Geld des Autors.
 
 Die CC0-Lizenz bedeutet, dass die Inhalte von niemandem exklusiv monetarisiert werden können, auch nicht vom Projekt selbst.
 """
@@ -412,14 +412,14 @@ question = "Gibt es eine Gemeinschaft, der man beitreten kann?"
 answer = """
 Ja — die Gemeinschaft des Projekts findet auf [GitHub Discussions](https://github.com/orgs/wheelofheaven/discussions) statt, dem wichtigsten öffentlichen Forum für Fragen, Diskussion, Beiträge und substanzielle Auseinandersetzung mit dem Korpus.
 
-Es gibt keine formale Mitgliedschaft, kein Bekenntnis, dem man sich anschließen müsste, keine Verpflichtung, dem Rahmen des Projekts zuzustimmen. Die Gemeinschaft steht Leserinnen und Lesern, Skeptikerinnen und Skeptikern, Mitwirkenden und allen offen, die ein ernsthaftes Interesse an den Fragen haben, mit denen sich das Korpus auseinandersetzt.
+Es gibt keine formale Mitgliedschaft, kein Bekenntnis, dem man sich anschließen müsste, keine Verpflichtung, dem Rahmen des Projekts zuzustimmen. Die Gemeinschaft steht Lesern, Skeptikern, Mitwirkenden und allen offen, die ein ernsthaftes Interesse an den Fragen haben, mit denen sich das Korpus auseinandersetzt.
 """
 
 [[extra.faq_groups.items]]
 slug = "relationship-to-raelism"
 question = "Wie ist das Verhältnis zur institutionellen raëlianischen Bewegung?"
 answer = """
-Die Autorin ist Raëlianerin, aber Wheel of Heaven ist keine Publikation der raëlianischen Bewegung. Das Projekt ist unabhängig. Die raëlianische Bewegung hat ihre eigenen institutionellen Strukturen, Publikationen und Aktivitäten; Wheel of Heaven ist nichts davon.
+Der Autor ist Raëlianer, aber Wheel of Heaven ist keine Publikation der raëlianischen Bewegung. Das Projekt ist unabhängig. Die raëlianische Bewegung hat ihre eigenen institutionellen Strukturen, Publikationen und Aktivitäten; Wheel of Heaven ist nichts davon.
 
 Das Projekt steht auch in keiner Opposition zur raëlianischen Bewegung. Das Korpus stützt sich auf das raëlianische Quellenmaterial als seine primäre Linse und behandelt es mit ernsthafter Auseinandersetzung. Wo das Korpus über die übliche raëlianische Artikulation hinausgeht, tut es dies mit ausdrücklichen Gründen, nicht in Kritik an der eigenen Arbeit der Bewegung.
 

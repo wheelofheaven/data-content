@@ -598,7 +598,7 @@ alzaba. Los textos ya nos dicen lo que creía ser: no un comienzo, sino un regre
 
 ## Una nota personal
 
-*Lo que sigue es mío — la convicción de la autora, apartada del argumento anterior,
+*Lo que sigue es mío — la convicción del autor, apartada del argumento anterior,
 que se sostiene o cae por su propia evidencia.*
 
 En septiembre de 2023 conduje de Jerusalén a Petra y de vuelta, y pasé unas cuantas

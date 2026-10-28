@@ -13,7 +13,7 @@ cta_label = "Die GitHub-Organisation öffnen"
 cta_external = true
 +++
 
-Wheel of Heaven ist Open Source unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/) und begrüßt Mitwirkende. Das Projekt wird in der Ich-Form einer einzelnen Autorin geführt, aber die umliegende Arbeit — Übersetzung, Lektorat, Infrastruktur, öffentliche Diskussion — profitiert von vielen Händen.
+Wheel of Heaven ist Open Source unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/) und begrüßt Mitwirkende. Das Projekt wird in der Ich-Form eines einzelnen Autors geführt, aber die umliegende Arbeit — Übersetzung, Lektorat, Infrastruktur, öffentliche Diskussion — profitiert von vielen Händen.
 
 Mitwirkende müssen dem Rahmen des Projekts nicht zustimmen. Kritische Auseinandersetzung ist willkommen.
 
@@ -49,7 +49,7 @@ Für größere Änderungen — visuelle Überarbeitungen, Umstrukturierung der N
 
 ### Finanzielle Unterstützung
 
-Das Projekt wird derzeit vollständig aus der eigenen Tasche der Autorin finanziert. Freiwillige Beiträge über [Open Collective](https://opencollective.com/wheelofheaven) gehen in Hosting, Infrastruktur und Übersetzungsarbeit. Die CC0-Lizenz bedeutet, dass die Inhalte von niemandem exklusiv monetarisiert werden können, auch nicht vom Projekt selbst — finanzielle Unterstützung ist wirklich freiwillig und fließt nur in den Betrieb des Projekts.
+Das Projekt wird derzeit vollständig aus der eigenen Tasche des Autors finanziert. Freiwillige Beiträge über [Open Collective](https://opencollective.com/wheelofheaven) gehen in Hosting, Infrastruktur und Übersetzungsarbeit. Die CC0-Lizenz bedeutet, dass die Inhalte von niemandem exklusiv monetarisiert werden können, auch nicht vom Projekt selbst — finanzielle Unterstützung ist wirklich freiwillig und fließt nur in den Betrieb des Projekts.
 
 ## Wie Beiträge in der Praxis aussehen
 
@@ -57,4 +57,4 @@ Ein guter Beitrag benennt, was er ändert, warum, und auf welcher Grundlage. Ein
 
 Die redaktionellen Standards des Projekts gelten auch für Beiträge: wissenschaftliches Register, quellenbewusst, Aussagetyp ehrlich gekennzeichnet. Die im Repository gepflegten [Inhaltsregeln](https://github.com/wheelofheaven) beschreiben sie im Detail.
 
-Wenn Sie unsicher sind, ob ein Beitrag passt, eröffnen Sie zuerst eine Discussion. Die Autorin sagt es Ihnen direkt und kann eine bessere Form für den Beitrag vorschlagen. Es gibt keine Strafe fürs Nachfragen.
+Wenn Sie unsicher sind, ob ein Beitrag passt, eröffnen Sie zuerst eine Discussion. Der Autor sagt es Ihnen direkt und kann eine bessere Form für den Beitrag vorschlagen. Es gibt keine Strafe fürs Nachfragen.

@@ -40,7 +40,7 @@ Der Rahmen stützt sich auf das raëlische Quellenmaterial — primär *Das Buch
 
 ## Was das Projekt nicht ist
 
-Das Projekt ist **keine Publikation der raëlischen Bewegung**. Es ist von einer Raëlianerin verfasst, aber der Korpus geht substanziell über die institutionelle Standarddarstellung des Raëlismus hinaus und enthält interpretative Entscheidungen, die die Bewegung formell nicht unterstützt hat und möglicherweise nie formell unterstützen wird.
+Das Projekt ist **keine Publikation der raëlischen Bewegung**. Es ist von einem Raëlianer verfasst, aber der Korpus geht substanziell über die institutionelle Standarddarstellung des Raëlismus hinaus und enthält interpretative Entscheidungen, die die Bewegung formell nicht unterstützt hat und möglicherweise nie formell unterstützen wird.
 
 Es ist **kein generischer Prä-Astronautik-Inhalt**. Das Projekt teilt die Grundannahme dieser Tradition, verwendet aber einen spezifischen, quellendisziplinierten Rahmen, der es von der breiteren Literatur unterscheidet.
 
@@ -50,6 +50,6 @@ Es ist **keine fertige Synthese**. Die Seite wird aktiv weiterentwickelt. Seiten
 
 ## Wer dahintersteht
 
-Wheel of Heaven wird von [Zara Zinsfuss](/de/author/zara-zinsfuss/) geschrieben, einer unabhängigen Leserin und Raëlianerin, die fünfzehn Jahre damit verbracht hat, den Rahmen auszuarbeiten, den der Korpus präsentiert, bevor sie ihn für die öffentliche Auseinandersetzung öffnete. Das Projekt wird in der Ich-Form einer einzelnen Autorin geführt und ist offen für Mitarbeitende.
+Wheel of Heaven wird von [Zara Zinsfuss](/de/author/zara-zinsfuss/) geschrieben, einem unabhängigen Leser und Raëlianer, der fünfzehn Jahre damit verbracht hat, den Rahmen auszuarbeiten, den der Korpus präsentiert, bevor er ihn für die öffentliche Auseinandersetzung öffnete. Das Projekt wird in der Ich-Form eines einzelnen Autors geführt und ist offen für Mitarbeitende.
 
-Der Korpus richtet sich an Leserinnen und Leser, die bereit sind, sich ernsthaft mit ihm auseinanderzusetzen, unabhängig davon, wohin diese Auseinandersetzung sie letztlich führt. Er zielt nicht auf Rekrutierung ab und verlangt von seinen Lesern nicht, sich irgendwo anzuschließen. Er verlangt nur, dass der Rahmen ehrlich an den Belegen geprüft wird.
+Der Korpus richtet sich an Leser, die bereit sind, sich ernsthaft mit ihm auseinanderzusetzen, unabhängig davon, wohin diese Auseinandersetzung sie letztlich führt. Er zielt nicht auf Rekrutierung ab und verlangt von seinen Lesern nicht, sich irgendwo anzuschließen. Er verlangt nur, dass der Rahmen ehrlich an den Belegen geprüft wird.

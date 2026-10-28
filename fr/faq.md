@@ -45,7 +45,7 @@ L'hypothèse est offerte pour être éprouvée, évaluée et testée face à des
 slug = "who-wrote-this"
 question = "Qui a écrit ceci ?"
 answer = """
-Le projet est rédigé par Zara Zinsfuss, une lectrice indépendante et raëlienne qui a passé quinze ans à élaborer le cadre que le corpus présente. Le projet est mené à la première personne du singulier d'une seule auteure et est ouvert aux collaborateurs. Les contributions sont les bienvenues via [GitHub](https://github.com/wheelofheaven).
+Le projet est rédigé par Zara Zinsfuss, un lecteur indépendant et raëlien qui a passé quinze ans à élaborer le cadre que le corpus présente. Le projet est mené à la première personne du singulier d'un seul auteur et est ouvert aux collaborateurs. Les contributions sont les bienvenues via [GitHub](https://github.com/wheelofheaven).
 """
 
 [[extra.faq_groups.items]]
@@ -61,7 +61,7 @@ Cela dit, le projet prend les textes religieux au sérieux — plus sérieusemen
 slug = "is-this-peer-reviewed"
 question = "Est-ce de l'érudition à comité de lecture ?"
 answer = """
-Non, et le projet ne prétend pas l'être. Wheel of Heaven est un projet d'essai de longue haleine mené par une auteure indépendante, non une publication universitaire. Là où le projet s'engage avec l'érudition contemporaine — en études bibliques, en génétique, en astrobiologie, en archéoastronomie et dans d'autres champs — il le fait en lecteur sérieux de la littérature publiée, en prenant la science à ses propres termes.
+Non, et le projet ne prétend pas l'être. Wheel of Heaven est un projet d'essai de longue haleine mené par un auteur indépendant, non une publication universitaire. Là où le projet s'engage avec l'érudition contemporaine — en études bibliques, en génétique, en astrobiologie, en archéoastronomie et dans d'autres champs — il le fait en lecteur sérieux de la littérature publiée, en prenant la science à ses propres termes.
 
 La discipline épistémique du projet est interne plutôt qu'institutionnelle : chaque entrée du wiki, chaque article et chaque livre de la bibliothèque — et la plupart des autres pages — étiquette son affirmation principale comme **directe** (ce que la source affirme et que l'érudition dominante ne conteste pas), **cadre** (une prémisse du canon raëlien que l'érudition dominante n'endosse pas), **inférée** (une lecture raisonnable d'une source), ou **spéculative** (ce que le projet propose comme synthèse interprétative). Les lecteurs sont invités à évaluer les affirmations spécifiques du projet face aux alternatives.
 """
@@ -85,7 +85,7 @@ Wheel of Heaven prend le matériau-source raëlien — principalement *Le Livre 
 
 Mais le projet n'est pas une publication du mouvement raëlien. Le corpus s'étend substantiellement au-delà de la présentation institutionnelle standard du raëlisme : le cadre précessionnel, l'intégration avec la mythologie comparée, les lectures techniques de passages bibliques spécifiques, la reconstruction politico-structurelle de l'alliance, l'engagement avec la génomique et l'astrobiologie contemporaines — aucune de ces choses ne fait partie du matériau institutionnel raëlien standard. Le projet n'est pas endossé par le mouvement raëlien, et pourrait ne jamais l'être. Là où le corpus s'écarte de l'articulation raëlienne standard, il le fait avec des raisons explicites.
 
-L'auteure est raëlienne. Le projet, non.
+L'auteur est raëlien. Le projet, non.
 """
 
 [[extra.faq_groups.items]]
@@ -352,7 +352,7 @@ L'année est celle de la dernière passe éditoriale de la page lorsqu'elle est 
 
 > *Wheel of Heaven*. https://www.wheelofheaven.world/. Consulté le [date].
 
-La [page de l'auteure](/fr/author/zara-zinsfuss/) nomme la personne derrière le projet pour les lecteurs qui souhaitent créditer l'écriture.
+La [page de l'auteur](/fr/author/zara-zinsfuss/) nomme la personne derrière le projet pour les lecteurs qui souhaitent créditer l'écriture.
 """
 
 [[extra.faq_groups.items]]
@@ -374,7 +374,7 @@ question = "Comment le projet est-il financé ?"
 answer = """
 Jusqu'ici, entièrement par les fonds personnels de Zara Zinsfuss. Le projet est rédigé de manière indépendante, ne diffuse pas de publicité, ne vend rien et n'a pas de sponsors commerciaux.
 
-Une aide serait appréciée. Les contributions volontaires via [Open Collective](https://opencollective.com/wheelofheaven) vont à l'hébergement, à l'infrastructure et au travail de traduction — rien de tout cela n'est actuellement couvert par autre chose que le temps et l'argent personnels de l'auteure.
+Une aide serait appréciée. Les contributions volontaires via [Open Collective](https://opencollective.com/wheelofheaven) vont à l'hébergement, à l'infrastructure et au travail de traduction — rien de tout cela n'est actuellement couvert par autre chose que le temps et l'argent personnels de l'auteur.
 
 La licence CC0 signifie que le contenu ne peut être monétisé exclusivement par quiconque, y compris le projet lui-même.
 """
@@ -419,7 +419,7 @@ Il n'y a pas d'adhésion formelle, pas de credo à souscrire, aucune exigence d'
 slug = "relationship-to-raelism"
 question = "Quelle est la relation avec le mouvement raëlien institutionnel ?"
 answer = """
-L'auteure est raëlienne, mais Wheel of Heaven n'est pas une publication du mouvement raëlien. Le projet est indépendant. Le mouvement raëlien a ses propres structures institutionnelles, publications et activités d'extension ; Wheel of Heaven n'est rien de cela.
+L'auteur est raëlien, mais Wheel of Heaven n'est pas une publication du mouvement raëlien. Le projet est indépendant. Le mouvement raëlien a ses propres structures institutionnelles, publications et activités d'extension ; Wheel of Heaven n'est rien de cela.
 
 Le projet n'est pas non plus en quelque opposition au mouvement raëlien. Le corpus s'appuie sur le matériau-source raëlien comme sa lentille primaire et le traite avec un engagement sérieux. Là où le corpus s'étend au-delà de l'articulation raëlienne standard, il le fait avec des raisons explicites, non en critique du travail propre du mouvement.
 

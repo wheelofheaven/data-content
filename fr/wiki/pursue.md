@@ -89,8 +89,8 @@ capteurs qui composent l'essentiel de tout jeu de données UAP), et il ne
 statue pas sur les cas qu'il publie. C'est un programme d'ouverture
 d'archives, non un programme d'analyse — l'analyse demeure du ressort de
 l'All-domain Anomaly Resolution Office (AARO), le bureau UAP permanent du
-Pentagone, vers lequel le portail PURSUE renvoie lui-même ses lecteurs et
-lectrices pour le dossier historique plus large.
+Pentagone, vers lequel le portail PURSUE renvoie lui-même ses lecteurs pour
+le dossier historique plus large.
 
 ## Origine : la loi avant la directive
 
@@ -110,16 +110,16 @@ pour l'exercice 2023, adopté en décembre 2022, qui a créé un canal statutair
 — codifié au **50 U.S.C. § 3373b** — permettant aux personnels
 gouvernementaux, actuels et anciens, de procéder à des divulgations
 autorisées d'informations liées aux UAP nonobstant tout accord de
-confidentialité, et interdisant les représailles contre celles et ceux qui
+confidentialité, et interdisant les représailles contre ceux qui
 l'utilisent. PURSUE est, en termes structurels, une poussée de l'exécutif à
 travers une porte que le Congrès avait ouverte quatre ans plus tôt.
 
 Les deux strates se sont rejointes le **31 juillet 2026**, lorsque le Bureau
 du directeur du renseignement national a publié des orientations
 préliminaires de mise en œuvre (ES 2026-00818) : les agences ont été
-chargées de désigner des représentants et représentantes PURSUE sous trente
+chargées de désigner des représentants PURSUE sous trente
 jours, d'établir des procédures permettant à leurs personnels de divulguer
-des informations UAP, et d'informer leurs employés et employées que les
+des informations UAP, et d'informer leurs employés que les
 accords de confidentialité prétendant empêcher de telles divulgations « ne
 sont plus en vigueur ». L'application des orientations aux *contractants* du
 gouvernement — la population au centre des témoignages parlementaires de 2023
@@ -170,7 +170,7 @@ archive qui publie ses propres démentis se comporte comme une archive et non
 comme un service de presse, et le corpus le porte au crédit du programme.
 
 Une asymétrie pratique mérite d'être consignée : le portail est ouvert aux
-lecteurs et lectrices humains mais fermé aux machines — sa configuration de
+lecteurs humains mais fermé aux machines — sa configuration de
 diffusion de contenu bloque purement et simplement la récupération
 automatisée, de sorte que miroirs, archives et équipes de recherche
 travaillent à partir de captures secondaires plutôt que du site en direct.
@@ -273,7 +273,7 @@ contiennent aucun matériel sur les allégations de récupération d'engins et d
 rétro-ingénierie des témoignages de 2023. Deux lectures sont disponibles —
 que ce matériel n'existe pas et n'est donc pas publiable (la conclusion
 déclarée de l'AARO), ou qu'il existe hors de portée de ce programme (la
-position des lanceurs et lanceuses d'alerte, qui repose pour une part
+position des lanceurs d'alerte, qui repose pour une part
 importante sur la question toujours ouverte des contractants dans les
 orientations de l'ODNI). Le corpus tient les deux ouvertes et ne s'enrôle
 dans aucune.

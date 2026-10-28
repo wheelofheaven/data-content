@@ -396,7 +396,7 @@ zwanzig Jahren. Collins' Zusammenfassung ist die, die man behalten
 sollte: „Die Freigabe der Rollen war unzweideutig eine gute Sache. Trotz
 der düsteren Warnungen der offiziellen Herausgeber trat kein Chaos ein."
 Ein Zeitalter der Enthüllung bekam seine Enthüllung — vierundvierzig Jahre
-zu spät, per Konkordanz, Computer und eine Bibliothekarin mit Rückgrat.
+zu spät, per Konkordanz, Computer und einen Bibliothekar mit Rückgrat.
 
 ## Der Kanon, der noch nicht geschlossen war
 

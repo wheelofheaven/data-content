@@ -40,7 +40,7 @@ El marco se apoya en el material-fuente raëliano — principalmente *El Libro Q
 
 ## Lo que el proyecto no es
 
-El proyecto no es **una publicación del movimiento raëliano**. Está escrito por una raëliana, pero el corpus se extiende sustancialmente más allá de la presentación institucional estándar del raëlismo, y contiene movimientos interpretativos que el movimiento no ha respaldado formalmente y puede que nunca respalde formalmente.
+El proyecto no es **una publicación del movimiento raëliano**. Está escrito por un raëliano, pero el corpus se extiende sustancialmente más allá de la presentación institucional estándar del raëlismo, y contiene movimientos interpretativos que el movimiento no ha respaldado formalmente y puede que nunca respalde formalmente.
 
 No es **contenido genérico de astronautas antiguos**. El proyecto comparte la afirmación fundacional de esa tradición, pero utiliza un marco específico, disciplinado por las fuentes, que lo distingue de la literatura más amplia.
 
@@ -50,6 +50,6 @@ No es **una síntesis terminada**. El sitio está en desarrollo activo. Las pág
 
 ## Quién está detrás
 
-Wheel of Heaven está escrito por [Zara Zinsfuss](/es/author/zara-zinsfuss/), una lectora independiente y raëliana que pasó quince años elaborando el marco que el corpus presenta antes de abrirlo al compromiso público. El proyecto se lleva a cabo en la voz en primera persona del singular de una sola autora, y está abierto a colaboradores.
+Wheel of Heaven está escrito por [Zara Zinsfuss](/es/author/zara-zinsfuss/), un lector independiente y raëliano que pasó quince años elaborando el marco que el corpus presenta antes de abrirlo al compromiso público. El proyecto se lleva a cabo en la voz en primera persona del singular de un solo autor, y está abierto a colaboradores.
 
 El corpus se ofrece a lectores dispuestos a darle un compromiso serio, independientemente de dónde el compromiso eventualmente los deje. No está orientado al reclutamiento, y no pide a sus lectores que se unan a nada. Pide solamente que el marco se pruebe honestamente frente a la evidencia.

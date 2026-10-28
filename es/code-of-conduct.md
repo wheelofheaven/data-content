@@ -22,7 +22,7 @@ El proyecto se compromete a ser un espacio donde la participación no dependa de
 ## Lo que se anima
 
 - Comprometerse con la sustancia del corpus — incluyendo desafiarla
-- Hacer preguntas honestas, incluso aquellas a las que la autora ya haya respondido en otro lugar
+- Hacer preguntas honestas, incluso aquellas a las que el autor ya haya respondido en otro lugar
 - Leer con atención antes de responder, y citar aquello a lo que se está respondiendo
 - Reconocer la propia incertidumbre donde exista
 - Señalar errores directamente, con la fuente de la corrección
@@ -38,12 +38,12 @@ El proyecto se compromete a ser un espacio donde la participación no dependa de
 
 ## El desacuerdo es bienvenido; el acoso no
 
-No son lo mismo y el proyecto se toma la distinción en serio. Un lector que cree que el corpus está equivocado, que cree que el material-fuente raëliano es fabricado, que cree que el marco precesional es forzado, o que encuentra la posición del proyecto sobre una cuestión específica poco convincente, es bienvenido a decirlo en los espacios públicos. La autora prefiere oír una objeción honesta que un acuerdo insincero.
+No son lo mismo y el proyecto se toma la distinción en serio. Un lector que cree que el corpus está equivocado, que cree que el material-fuente raëliano es fabricado, que cree que el marco precesional es forzado, o que encuentra la posición del proyecto sobre una cuestión específica poco convincente, es bienvenido a decirlo en los espacios públicos. El autor prefiere oír una objeción honesta que un acuerdo insincero.
 
 Lo que no se acoge es usar los espacios públicos para atacar a los participantes por quiénes son, qué creen, de dónde vienen, o con qué tradición se identifican. La sustancia es abierta; las personas no.
 
 ## Aplicación
 
-La autora modera los espacios públicos del proyecto y se reserva el derecho de eliminar contenido, bloquear hilos o vetar a participantes cuyo comportamiento viole este código. La aplicación pretende ser proporcionada y transparente: una infracción menor suele recibir una nota explicando qué estaba fuera de lugar; las infracciones repetidas o graves pueden resultar en retirada.
+El autor modera los espacios públicos del proyecto y se reserva el derecho de eliminar contenido, bloquear hilos o vetar a participantes cuyo comportamiento viole este código. La aplicación pretende ser proporcionada y transparente: una infracción menor suele recibir una nota explicando qué estaba fuera de lugar; las infracciones repetidas o graves pueden resultar en retirada.
 
-Para denunciar una infracción, abra una incidencia en el [repositorio](https://github.com/wheelofheaven), o, para asuntos que no deben ser públicos, contacte con la encargada del mantenimiento a través de los canales listados en el Código de Conducta canónico en GitHub.
+Para denunciar una infracción, abra una incidencia en el [repositorio](https://github.com/wheelofheaven), o, para asuntos que no deben ser públicos, contacte con el encargado del mantenimiento a través de los canales listados en el Código de Conducta canónico en GitHub.

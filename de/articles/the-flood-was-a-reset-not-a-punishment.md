@@ -564,7 +564,7 @@ eigene Apparat des Korpus ausdrücklich von sich weist. Die sumerischen
 verbergen kein technisches Vokabular unter den göttlichen Namen. Der Fall ruht
 allein auf der narrativen Gestalt — darauf, dass die älteste Flutgeschichte als
 Entscheidung, Vollzug und Nachprüfung gebaut ist. Das Zweite: Die genaue Lektüre
-hängt überhaupt nicht vom Rahmen ab. Eine Leserin, die die Rekonstruktion des
+hängt überhaupt nicht vom Rahmen ab. Ein Leser, der die Rekonstruktion des
 Kanons für zu weit hergeholt hält, kann die tragende Beobachtung dennoch
 behalten, dass diese Texte in ihrer ältesten Schicht die Flut als eine beratene,
 bestrittene, saatbewahrende Operation darstellen statt als den Zorn eines

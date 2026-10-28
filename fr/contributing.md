@@ -13,7 +13,7 @@ cta_label = "Ouvrir l'organisation GitHub"
 cta_external = true
 +++
 
-Wheel of Heaven est open-source sous [CC0](https://creativecommons.org/publicdomain/zero/1.0/) et accueille les contributeurs. Le projet est mené à la première personne du singulier, par une seule auteure, mais le travail environnant — traduction, édition, infrastructure, discussion publique — bénéficie de nombreuses mains.
+Wheel of Heaven est open-source sous [CC0](https://creativecommons.org/publicdomain/zero/1.0/) et accueille les contributeurs. Le projet est mené à la première personne du singulier, par un seul auteur, mais le travail environnant — traduction, édition, infrastructure, discussion publique — bénéficie de nombreuses mains.
 
 Les contributeurs ne sont pas tenus d'être en accord avec le cadre du projet. L'engagement critique est bienvenu.
 
@@ -49,7 +49,7 @@ Pour les changements plus larges — refontes visuelles, restructuration de la n
 
 ### Soutien financier
 
-Le projet est actuellement financé entièrement par les fonds personnels de l'auteure. Les contributions volontaires via [Open Collective](https://opencollective.com/wheelofheaven) vont à l'hébergement, à l'infrastructure, et au travail de traduction. La licence CC0 signifie que le contenu ne peut être monétisé exclusivement par quiconque, y compris le projet lui-même — le soutien financier est véritablement volontaire et va seulement à faire fonctionner le projet.
+Le projet est actuellement financé entièrement par les fonds personnels de l'auteur. Les contributions volontaires via [Open Collective](https://opencollective.com/wheelofheaven) vont à l'hébergement, à l'infrastructure, et au travail de traduction. La licence CC0 signifie que le contenu ne peut être monétisé exclusivement par quiconque, y compris le projet lui-même — le soutien financier est véritablement volontaire et va seulement à faire fonctionner le projet.
 
 ## À quoi ressemblent les contributions en pratique
 
@@ -57,4 +57,4 @@ Une bonne contribution nomme ce qu'elle change, pourquoi, et sur quelle base. Un
 
 Les normes éditoriales du projet s'appliquent aux contributions : registre scolaire, conscient des sources, type d'affirmation étiqueté honnêtement. Les [règles de contenu](https://github.com/wheelofheaven) maintenues avec le dépôt les décrivent en détail.
 
-Si vous n'êtes pas sûr qu'une contribution corresponde, ouvrez d'abord une Discussion. L'auteure vous le dira directement, et pourra suggérer une meilleure forme pour la contribution. Il n'y a pas de pénalité à demander.
+Si vous n'êtes pas sûr qu'une contribution corresponde, ouvrez d'abord une Discussion. L'auteur vous le dira directement, et pourra suggérer une meilleure forme pour la contribution. Il n'y a pas de pénalité à demander.

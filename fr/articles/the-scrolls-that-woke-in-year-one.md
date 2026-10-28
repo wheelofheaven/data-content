@@ -606,8 +606,8 @@ avec le sentiment d'avoir touché le passé. »
 Je puis témoigner de ce sentiment, car je l'ai éprouvé dans des conditions
 inhabituellement bonnes. J'ai visité le Sanctuaire au début de l'automne
 2022, par une journée férocement chaude à Jérusalem, et en faisant la queue
-dès l'ouverture j'eus le bâtiment à moi seule pendant une dizaine de minutes.
-Ce à quoi je n'étais pas préparée, c'était l'air. L'intérieur est calculé
+dès l'ouverture j'eus le bâtiment à moi seul pendant une dizaine de minutes.
+Ce à quoi je n'étais pas préparé, c'était l'air. L'intérieur est calculé
 pour le parchemin — frais, tamisé, faiblement humide — et y pénétrer depuis
 l'éblouissement du désert est un changement de monde : une humidité minérale,
 des conditions de grotte fabriquées à l'intérieur d'une coupole blanche, si
@@ -616,7 +616,7 @@ que de cette planète ; les chefs décorateurs d'*Alien* travaillaient dans le
 même registre, quoique le Sanctuaire le porte avec sérénité. L'architecture
 fait exactement ce que faisaient les jarres. C'est un climat en forme de
 bâtiment, qui garde les manuscrits persuadés qu'ils sont encore dans la
-falaise. Seule dans ce corridor, avec le fac-similé du rouleau d'Isaïe enroulé
+falaise. Seul dans ce corridor, avec le fac-similé du rouleau d'Isaïe enroulé
 autour de son tambour comme une Torah ouverte à toutes ses pages à la fois,
 les deux horloges de cet article étaient toutes deux audibles — celle qui
 s'arrêta en 68 apr. J.-C., et celle qui, sur le compte du canon, en était à

@@ -46,7 +46,7 @@ Nach DSGVO der EU, Schweizer DSG, UK GDPR, kalifornischem CCPA und anderen Daten
 
 ## Kinder
 
-Die Seite steht allen Leserinnen und Lesern offen, auch Minderjährigen, wendet sich aber an ein erwachsenes Publikum mit Interesse an religions­historischem Material. Das Projekt erhebt wissentlich von niemandem Daten, auch nicht von Minderjährigen.
+Die Seite steht allen Lesern offen, auch Minderjährigen, wendet sich aber an ein erwachsenes Publikum mit Interesse an religions­historischem Material. Das Projekt erhebt wissentlich von niemandem Daten, auch nicht von Minderjährigen.
 
 ## Änderungen dieser Richtlinie
 

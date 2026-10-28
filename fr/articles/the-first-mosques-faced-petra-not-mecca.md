@@ -612,7 +612,7 @@ commencement, mais un retour.
 
 ## Une note personnelle
 
-*Ce qui suit est de moi — la conviction de l'autrice, mise à part de l'argument
+*Ce qui suit est de moi — la conviction de l'auteur, mise à part de l'argument
 ci-dessus, qui tient ou tombe sur ses propres preuves.*
 
 En septembre 2023, j'ai conduit de Jérusalem à Pétra et retour, et passé quelques

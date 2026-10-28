@@ -25,4 +25,4 @@ Ein Dispatch kann einen späteren Explainer anstoßen; ein Explainer wird niemal
 
 - Eilmeldungs-Aggregation. Wir versuchen nicht, ein Nachrichtenticker zu sein.
 - Sensationelle Rahmung. Dasselbe wissenschaftliche Register wie im Rest der Seite.
-- Missionierung. Dispatches laden zur Untersuchung ein; sie schließen nicht für die Leserin oder den Leser ab.
+- Missionierung. Dispatches laden zur Untersuchung ein; sie schließen nicht für den Leser ab.

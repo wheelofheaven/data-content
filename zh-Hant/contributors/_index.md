@@ -6,3 +6,5 @@ sort_by = "title"
 +++
 
 Wheel of Heaven 以一位作者的第一人稱單數聲音進行，並向合作者開放。翻譯、更正、基礎設施與公共討論受益於眾多雙手。
+
+這份名單會隨著加入的人增多而增長。如何參與請見[參與貢獻](/zh-Hant/contributing/)，入口是 [GitHub Discussions](https://github.com/orgs/wheelofheaven/discussions)。

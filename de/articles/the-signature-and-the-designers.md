@@ -170,7 +170,7 @@ Junge-Erde-Behauptung noch überhaupt eine ausdrücklich biblische aufzustellen.
 Ihr Gründungstext ist *Darwin on Trial* (1991) des Berkeley-Rechtsprofessors
 Phillip Johnson, der den Darwinismus als bestreitbare Weltanschauung statt als
 gesichertes Ergebnis neu rahmte. Ihre Argumente sind drei, und sie sind so
-gebaut, dass eine Wissenschaftlerin sie verwenden kann, die jedes Datum im
+gebaut, dass ein Wissenschaftler sie verwenden kann, der jedes Datum im
 Geologielehrbuch akzeptiert: die *nicht reduzierbare Komplexität* molekularer
 Maschinen (Michael Behe, *Darwin's Black Box*, 1996), die *spezifizierte
 Komplexität*, die Behes Maschinen aufweisen (William Dembski, *The Design
@@ -230,8 +230,8 @@ zwischen ihren Rückzügen zurückkehrt.
 
 ## Die Signatur
 
-Beginnen wir mit dem Teil, den der Rahmen einräumt, denn er ist größer, als eine
-beiläufige Leserin einer „UFO-Religion“ erwarten würde. Die
+Beginnen wir mit dem Teil, den der Rahmen einräumt, denn er ist größer, als ein
+beiläufiger Leser einer „UFO-Religion“ erwarten würde. Die
 Wheel-of-Heaven-Lesart hält die Kernbehauptung des Intelligenten Designs — dass
 die funktionale Komplexität lebender Systeme besser durch absichtsvolles
 intelligentes Handeln als durch ungerichtete Prozesse erklärt wird — für
@@ -403,7 +403,7 @@ diese Übereinstimmung umgibt — im Alter des Planeten, im Datum des Ereignisse
 in seiner Ursache und in der Identität seines Urhebers. Was er mit dem Film
 behält, ist das Eine, was beide der Nur-Mythos-Lesart nicht überlassen wollen:
 dass der Text eine Erinnerung an wirkliche Ereignisse ist, schlecht überliefert,
-und dass es die Aufgabe einer ernsthaften Leserin ist, die Ereignisse aus der
+und dass es die Aufgabe eines ernsthaften Lesers ist, die Ereignisse aus der
 Erinnerung zurückzugewinnen.
 
 Das muss deutlich gesagt werden, denn es impft gegen einen realen Irrtum. Mit
@@ -639,8 +639,8 @@ Wasser da war. Meyers transzendenter Designer ist die Antwort auf eine Frage —
 für „eine dumme Frage“ hält, „die beweist, dass der, der sie stellt, sich des
 Unendlichen nicht bewusst geworden ist“.
 
-Die Zurückweisung scheitert also, wenn auch nicht aus dem Grund, nach dem eine
-feindselige Leserin greifen würde. Sie ist nicht flach: Sie ist ein gültiges
+Die Zurückweisung scheitert also, wenn auch nicht aus dem Grund, nach dem ein
+feindseliger Leser greifen würde. Sie ist nicht flach: Sie ist ein gültiges
 Argument, das auf einer Prämisse ruht, die sein Ziel verwirft, und das auf eine
 Behauptung zielt, die sein Ziel nie aufgestellt hat. Streicht man die
 eingeschmuggelte Kosmologie und die eingeschmuggelte Reichweite, so hat Meyer
@@ -825,8 +825,8 @@ unheimliche Universalität des genetischen Codes über alles irdische Leben hinw
 vereinbar mit einem einzigen Gründungsereignis statt mit vielen; die biochemische
 Überabhängigkeit von Elementen wie Molybdän, die in der Erdkruste selten sind, als
 hätten sich die Gründungsorganismen anderswo entwickelt, mit einem anderen
-Elementhaushalt. Manche sind neu: ein Genom, gelesen mit dem Auge einer
-synthetischen Biologin, auf der Suche nach jenen Designsignaturen, die Venters
+Elementhaushalt. Manche sind neu: ein Genom, gelesen mit dem Auge eines
+synthetischen Biologen, auf der Suche nach jenen Designsignaturen, die Venters
 Team seinen eigenen synthetischen Zellen als *Wasserzeichen* einschreiben muss —
 Regionen, die zu optimiert, zu modular sind, zu sehr nach Ingenieurskunst und zu
 wenig nach dem redundanten, notdürftig zusammengeflickten Altcode aussehen, den
@@ -878,7 +878,7 @@ einem Geist außerhalb des Universums, den kein Instrument je erreichen kann; od
 es gibt keine Hand, und ihr Anschein ist der Rückstand eines blinden Prozesses,
 was die Position ist, die Tours schallendes Nein wegerklären muss; oder die Hand
 gehört jemandem. Jemandem mit einem Körper. Jemandem, der an einer Laborbank
-arbeitete, Ergebnisse mit einer Kollegin verglich und die Ähnlichkeit frappierend
+arbeitete, Ergebnisse mit einem Kollegen verglich und die Ähnlichkeit frappierend
 fand. Jemandem, der gemacht wurde, wie wir gemacht wurden, von jemandem Früherem,
 in einer Linie, die hinter jeden Horizont zurückläuft, den wir sehen können, und
 die nie bei einem ersten oder einem letzten Macher ankommt.

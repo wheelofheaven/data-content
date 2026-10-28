@@ -635,7 +635,7 @@ Zeitalter dem Wassermann zuweisen, ein Jahrtausend älter sind als Hipparch,
 der erste Mensch, der nachweislich *fähig* war, die Präzession zu entdecken,
 sodass jemand vor der Geschichte es erfahren haben muss — ist eines, das das
 Korpus als tragendes Datum übernommen hat, mit *Hamlets Mühle* (das Sendy
-*„eine Zeitbombe“* nannte und dessen Autorin er 1969 am MIT aufsuchte) als
+*„eine Zeitbombe“* nannte und dessen Autor er 1969 am MIT aufsuchte) als
 seiner gelehrten Flanke.
 
 **Das Aufstufen und die Kette.** Am tiefsten von allem: Beide Systeme lesen die

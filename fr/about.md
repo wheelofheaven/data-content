@@ -50,6 +50,6 @@ Ce n'est **pas une synthèse achevée**. Le site est en développement actif. Le
 
 ## Qui est derrière
 
-Wheel of Heaven est écrit par [Zara Zinsfuss](/fr/author/zara-zinsfuss/), une lectrice indépendante et raëlienne qui a passé quinze ans à élaborer le cadre que présente le corpus avant de l'ouvrir à l'engagement public. Le projet est mené à la première personne du singulier, par un seul auteur, et il est ouvert aux collaborateurs.
+Wheel of Heaven est écrit par [Zara Zinsfuss](/fr/author/zara-zinsfuss/), un lecteur indépendant et raëlien qui a passé quinze ans à élaborer le cadre que présente le corpus avant de l'ouvrir à l'engagement public. Le projet est mené à la première personne du singulier, par un seul auteur, et il est ouvert aux collaborateurs.
 
 Le corpus est offert aux lecteurs disposés à lui donner un engagement sérieux, peu importe où cet engagement les laisse finalement. Il n'est pas conçu pour le recrutement, et il ne demande pas à ses lecteurs de rejoindre quoi que ce soit. Il demande seulement que le cadre soit éprouvé honnêtement face à la preuve.

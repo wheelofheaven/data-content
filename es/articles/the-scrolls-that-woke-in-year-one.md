@@ -615,8 +615,8 @@ tocado el pasado».
 De esa sensación puedo dar testimonio, porque la he puesto a prueba en
 condiciones inusualmente buenas. Visité el Santuario a principios del
 otoño de 2022, en un día jerosolimitano ferozmente caluroso, y por hacer
-cola la primera a la apertura tuve el edificio para mí sola durante unos
-diez minutos. Para lo que no estaba preparada era para el aire. El
+cola el primero a la apertura tuve el edificio para mí solo durante unos
+diez minutos. Para lo que no estaba preparado era para el aire. El
 interior está diseñado para el pergamino —fresco, en penumbra y
 levemente húmedo— y entrar en él desde el resplandor del desierto es un
 cambio de mundo: una humedad mineral, condiciones de cueva fabricadas
@@ -625,7 +625,7 @@ archivó como algo de fuera del planeta; los diseñadores de producción de
 *Alien* trabajaron en el mismo registro, aunque el Santuario lo lleva con
 serenidad. La arquitectura hace exactamente lo que hacían las tinajas. Es
 un clima con forma de edificio, que mantiene a los rollos persuadidos de
-que siguen en el risco. Sola en aquel corredor, con el facsímil del rollo
+que siguen en el risco. Solo en aquel corredor, con el facsímil del rollo
 de Isaías enrollado en torno a su tambor como una Torá abierta a la vez
 por todas sus páginas, los dos relojes de este artículo eran ambos
 audibles —el que se agotó en el año 68 d. C., y el que, en el cómputo del

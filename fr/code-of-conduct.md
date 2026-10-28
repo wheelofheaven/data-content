@@ -22,7 +22,7 @@ Le projet s'engage à être un espace où la participation ne dépend pas du mil
 ## Encouragé
 
 - Engager la substance du corpus — y compris en la contestant
-- Poser des questions honnêtes, même celles auxquelles l'auteure a peut-être déjà répondu ailleurs
+- Poser des questions honnêtes, même celles auxquelles l'auteur a peut-être déjà répondu ailleurs
 - Lire attentivement avant de répondre, et citer ce à quoi vous répondez
 - Reconnaître votre propre incertitude là où elle existe
 - Signaler les erreurs directement, avec la source de la correction
@@ -38,12 +38,12 @@ Le projet s'engage à être un espace où la participation ne dépend pas du mil
 
 ## Le désaccord est bienvenu ; le harcèlement ne l'est pas
 
-Les deux ne sont pas la même chose et le projet prend la distinction au sérieux. Un lecteur qui pense que le corpus a tort, qui pense que le matériau-source raëlien est inventé, qui pense que le cadre précessionnel est forcé, ou qui trouve la position du projet sur une question spécifique peu convaincante, est bienvenu à le dire dans les espaces publics. L'auteure préfère entendre une objection honnête qu'un accord insincère.
+Les deux ne sont pas la même chose et le projet prend la distinction au sérieux. Un lecteur qui pense que le corpus a tort, qui pense que le matériau-source raëlien est inventé, qui pense que le cadre précessionnel est forcé, ou qui trouve la position du projet sur une question spécifique peu convaincante, est bienvenu à le dire dans les espaces publics. L'auteur préfère entendre une objection honnête qu'un accord insincère.
 
 Ce qui n'est pas bienvenu, c'est d'utiliser les espaces publics pour attaquer des participants pour qui ils sont, ce qu'ils croient, d'où ils viennent, ou à quelle tradition ils s'identifient. La substance est ouverte ; les personnes ne le sont pas.
 
 ## Application
 
-L'auteure modère les espaces publics du projet et se réserve le droit de retirer du contenu, verrouiller des fils, ou bloquer les participants dont le comportement viole ce code. L'application est conçue pour être proportionnée et transparente : une violation mineure reçoit généralement une note expliquant ce qui était à côté ; les violations répétées ou sévères peuvent entraîner un retrait.
+L'auteur modère les espaces publics du projet et se réserve le droit de retirer du contenu, verrouiller des fils, ou bloquer les participants dont le comportement viole ce code. L'application est conçue pour être proportionnée et transparente : une violation mineure reçoit généralement une note expliquant ce qui était à côté ; les violations répétées ou sévères peuvent entraîner un retrait.
 
-Pour signaler une violation, ouvrez un ticket sur le [dépôt](https://github.com/wheelofheaven), ou, pour les questions qui ne devraient pas être publiques, contactez la mainteneuse à travers les canaux listés dans le Code de Conduite canonique sur GitHub.
+Pour signaler une violation, ouvrez un ticket sur le [dépôt](https://github.com/wheelofheaven), ou, pour les questions qui ne devraient pas être publiques, contactez le mainteneur à travers les canaux listés dans le Code de Conduite canonique sur GitHub.

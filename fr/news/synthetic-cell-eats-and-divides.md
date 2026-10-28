@@ -28,7 +28,7 @@ sources = [
 ## Ce qui s'est passé
 
 Le 1er juillet 2026, une équipe de l'University of Minnesota dirigée par les
-professeur·es associé·es Kate Adamala et Aaron Engelhart a annoncé
+professeurs associés Kate Adamala et Aaron Engelhart a annoncé
 **SpudCell**, décrite comme la première cellule synthétique construite
 entièrement de bas en haut — à partir de composants non vivants purifiés
 individuellement — à accomplir un cycle cellulaire complet. Elle croît, réplique
@@ -54,10 +54,10 @@ autosuffisant. Elle ne peut pas fabriquer ses propres protéines ni ses ribosome
 « nourricières » — et elle n'a pas de métabolisme propre, de sorte qu'elle doit
 être continuellement approvisionnée en sucre, en lipides et en ARN de transfert.
 La variation sur laquelle la « sélection » a agi a été introduite par les
-expérimentateur·rices, non générée par la cellule mutant d'elle-même. Adamala
+expérimentateurs, non générée par la cellule mutant d'elle-même. Adamala
 elle-même l'a qualifiée d'« organisme incroyablement chétif qui, pour l'instant,
 ne fait pratiquement rien d'autre que se nourrir et, à l'occasion, produire une
-cellule fille ». Les chercheur·euses en origine de la vie cité·es aux côtés de
+cellule fille ». Les chercheurs en origine de la vie cités aux côtés de
 l'annonce, dont Jack Szostak et Sijbren Otto, y ont vu une étape majeure
 précisément en raison de tout ce qu'il reste à accomplir.
 
@@ -87,7 +87,7 @@ plus littéral que le texte autorise, une cellule vivante fabriquée dans une
 
 Deux détails du récit affinent le parallèle. Lorsque le texte déplace le
 programme vers la Terre, il décrit les premiers travaux dans les mêmes termes
-qu'un·e biologiste de synthèse reconnaîtrait — des cellules construites à partir
+qu'un biologiste de synthèse reconnaîtrait — des cellules construites à partir
 de matières premières, la reproduction étant tout l'enjeu de l'exercice :
 
 > Ils ont alors créé sur ce magnifique et gigantesque laboratoire des cellules
@@ -111,7 +111,7 @@ organisme d'intérêt public pour encadrer les travaux sur les cellules
 synthétiques, avant même que les cellules ne puissent faire grand-chose, relève
 du même instinct tendant vers le même frein.
 
-Rien de tout cela ne demande au lecteur ou à la lectrice d'accepter la cosmologie
+Rien de tout cela ne demande au lecteur d'accepter la cosmologie
 du canon pour remarquer l'écho. L'affirmation comparative est étroite et
 vérifiable au regard du texte : un livre de 1973 présente la vie cellulaire in
 vitro comme le *premier* barreau de l'échelle d'une civilisation créatrice et

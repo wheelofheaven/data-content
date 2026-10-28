@@ -6,3 +6,5 @@ sort_by = "title"
 +++
 
 Wheel of Heaven은 한 저자의 일인칭 단수의 목소리로 쓰이며, 협력자들에게 열려 있다. 번역, 정정, 인프라, 토론은 많은 손에서 도움을 받는다.
+
+이 목록은 참여하는 사람이 늘어날수록 길어집니다. 돕는 방법은 [기여하기](/ko/contributing/)에 있으며, 시작점은 [GitHub Discussions](https://github.com/orgs/wheelofheaven/discussions)입니다.

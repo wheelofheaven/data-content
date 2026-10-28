@@ -54,4 +54,4 @@ Si le projet change un jour la façon dont il gère les données — par exemple
 
 ## Contact
 
-Pour les questions sur cette politique, ouvrez un fil dans les [Discussions GitHub](https://github.com/orgs/wheelofheaven/discussions) ou un ticket sur le [dépôt](https://github.com/wheelofheaven). Pour les demandes spécifiques à la vie privée qui ne doivent pas être publiques, contactez la mainteneuse via les canaux listés dans le [Code de Conduite](/fr/code-of-conduct/) du projet.
+Pour les questions sur cette politique, ouvrez un fil dans les [Discussions GitHub](https://github.com/orgs/wheelofheaven/discussions) ou un ticket sur le [dépôt](https://github.com/wheelofheaven). Pour les demandes spécifiques à la vie privée qui ne doivent pas être publiques, contactez le mainteneur via les canaux listés dans le [Code de Conduite](/fr/code-of-conduct/) du projet.

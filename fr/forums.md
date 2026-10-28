@@ -16,7 +16,7 @@ cta_external = true
 
 Le forum public du projet est les [Discussions GitHub](https://github.com/orgs/wheelofheaven/discussions). C'est le bon endroit pour poser des questions, soulever des objections, proposer des lectures alternatives, suggérer des sources, coordonner le travail de traduction, ou autrement engager le corpus en public.
 
-L'auteure lit et répond. Les réponses ne sont pas toujours immédiates — le projet est mené en marge d'une vie professionnelle exigeante — mais chaque fil substantiel reçoit une vraie réponse.
+L'auteur lit et répond. Les réponses ne sont pas toujours immédiates — le projet est mené en marge d'une vie professionnelle exigeante — mais chaque fil substantiel reçoit une vraie réponse.
 
 ## À quoi cela sert
 
@@ -28,7 +28,7 @@ Tout ce que la [FAQ](/fr/faq/) ne couvre pas déjà, ou là où la réponse de l
 
 La position du projet est que le cadre est une hypothèse de travail à éprouver, non une doctrine à défendre. Le désaccord est bienvenu. Si vous lisez le matériau-source différemment du corpus, ou si vous pensez que le consensus savant est mal représenté quelque part, ou si vous trouvez un choix interprétatif spécifique peu convaincant, les Discussions sont le bon endroit pour le dire.
 
-L'auteure préfère entendre une objection honnête qu'un accord insincère. La contestation substantielle est l'une des choses qui améliorent le corpus.
+L'auteur préfère entendre une objection honnête qu'un accord insincère. La contestation substantielle est l'une des choses qui améliorent le corpus.
 
 ### Suggestions de sources
 
@@ -46,10 +46,10 @@ Si vous êtes nouveau dans le projet et voulez dire bonjour, les Discussions ont
 
 - **Corrections factuelles à une page spécifique** — elles vont sur le [suivi des tickets](https://github.com/wheelofheaven), non dans les Discussions.
 - **Travail sur le code ou l'infrastructure** — pull requests et tickets sur le dépôt concerné, non dans les Discussions.
-- **Messages privés à l'auteure** — les Discussions sont publiques par conception. Si quelque chose doit vraiment être privé, le [Code de Conduite](/fr/code-of-conduct/) du projet décrit les canaux appropriés.
+- **Messages privés à l'auteur** — les Discussions sont publiques par conception. Si quelque chose doit vraiment être privé, le [Code de Conduite](/fr/code-of-conduct/) du projet décrit les canaux appropriés.
 
 ## Sur le registre
 
 Les Discussions sont un espace public et suivent le [Code de Conduite](/fr/code-of-conduct/) du projet. Le désaccord substantiel est bienvenu ; les attaques personnelles, le harcèlement, et l'hostilité ciblée ne le sont pas. Lisez le Code de Conduite avant de publier si ce n'est pas déjà fait.
 
-Le registre scolaire du projet s'applique aussi dans les Discussions, mais plus librement que dans le corpus lui-même. L'auteure y écrit dans la même voix qu'elle écrit le corpus — directe, consciente des sources, prudente quant aux affirmations — et c'est le registre qui obtient les réponses les plus utiles.
+Le registre scolaire du projet s'applique aussi dans les Discussions, mais plus librement que dans le corpus lui-même. L'auteur y écrit dans la même voix qu'il écrit le corpus — directe, consciente des sources, prudente quant aux affirmations — et c'est le registre qui obtient les réponses les plus utiles.

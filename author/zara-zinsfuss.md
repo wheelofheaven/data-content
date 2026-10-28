@@ -12,9 +12,9 @@ image_alt = "Stylized portrait of the author, Zara Zinsfuss."
 image_caption = "Author portrait — Zara Zinsfuss."
 role = "Author"
 location = "Switzerland"
-profession = "Software engineer / cybersecurity / systems architect (day work)"
-languages_read = ["English", "German", "French", "some Hebrew"]
-on_the_corpus = "Wheel of Heaven (2026–present)"
+profession = "Technology architect — AI, systems and cybersecurity (day work)"
+languages_read = ["English, German, French and Japanese", "some Hebrew and Chinese"]
+on_the_corpus = "Wheel of Heaven since 2022, the culmination of more than a decade of work"
 signature_location = "Switzerland"
 signature_year = "80 AH"
 signature_year_alt = "2026 in the Gregorian calendar"
@@ -31,14 +31,15 @@ knows_about = [
     "Precessional mythology",
     "Comparative religion",
     "Biblical exegesis",
-    "Software engineering",
+    "AI architecture",
+    "Systems architecture",
     "Cybersecurity",
 ]
 +++
 
 I write under the name Zara Zinsfuss. The name is a pen name. I will not say more about that.
 
-I am writing this from Switzerland, where I have lived for most of my adult life. I am in my mid-thirties. I work in the technology department of one of the country's well-known financial institutions, in a role that sits somewhere between software engineering, cybersecurity, and systems architecture. The work is mentally demanding enough to keep my natural curiosity reasonably appeased, and it pays the bills. The corpus that this site presents is not a product of that professional life. It is a product of the life I have led alongside it, in the evenings and weekends and quiet hours that the professional life has left for the things I actually care about.
+I am writing this from Switzerland, where I have lived for most of my adult life. I am in my mid-thirties. I work in the technology department of one of the country's well-known financial institutions, as a technology architect: these days mostly AI architecture, alongside the systems architecture and cybersecurity I came up through. The work is mentally demanding enough to keep my natural curiosity reasonably appeased, and it pays the bills. The corpus that this site presents is not a product of that professional life. It is a product of the life I have led alongside it, in the evenings and weekends and quiet hours that the professional life has left for the things I actually care about.
 
 This page exists because the reader who is about to spend many hours with the work I have produced has a reasonable interest in knowing how I came to take the source material seriously enough to spend many years producing this corpus. What follows is the account.
 

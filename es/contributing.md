@@ -13,7 +13,7 @@ cta_label = "Abrir la organización en GitHub"
 cta_external = true
 +++
 
-Wheel of Heaven es de código abierto bajo [CC0](https://creativecommons.org/publicdomain/zero/1.0/) y acoge a colaboradores. El proyecto se lleva a cabo en la voz en primera persona del singular de una sola autora, pero el trabajo circundante — traducción, edición, infraestructura, discusión pública — se beneficia de muchas manos.
+Wheel of Heaven es de código abierto bajo [CC0](https://creativecommons.org/publicdomain/zero/1.0/) y acoge a colaboradores. El proyecto se lleva a cabo en la voz en primera persona del singular de un solo autor, pero el trabajo circundante — traducción, edición, infraestructura, discusión pública — se beneficia de muchas manos.
 
 No se requiere que los colaboradores estén de acuerdo con el marco del proyecto. El compromiso crítico es bienvenido.
 
@@ -49,7 +49,7 @@ Para cambios mayores — rediseños visuales, reestructuración de navegación, 
 
 ### Apoyo financiero
 
-El proyecto está financiado actualmente en su totalidad de los bolsillos de la autora. Las contribuciones voluntarias a través de [Open Collective](https://opencollective.com/wheelofheaven) van al alojamiento, la infraestructura y el trabajo de traducción. La licencia CC0 significa que el contenido no puede ser monetizado exclusivamente por nadie, ni siquiera el proyecto mismo — el apoyo financiero es genuinamente voluntario y va solo a hacer funcionar el proyecto.
+El proyecto está financiado actualmente en su totalidad de los bolsillos del autor. Las contribuciones voluntarias a través de [Open Collective](https://opencollective.com/wheelofheaven) van al alojamiento, la infraestructura y el trabajo de traducción. La licencia CC0 significa que el contenido no puede ser monetizado exclusivamente por nadie, ni siquiera el proyecto mismo — el apoyo financiero es genuinamente voluntario y va solo a hacer funcionar el proyecto.
 
 ## Cómo se ven las contribuciones en la práctica
 
@@ -57,4 +57,4 @@ Una buena contribución nombra qué está cambiando, por qué, y sobre qué base
 
 Los estándares editoriales del proyecto se aplican a las contribuciones: registro académico, consciente de las fuentes, tipo de afirmación etiquetado honestamente. Las [reglas de contenido](https://github.com/wheelofheaven) mantenidas junto al repositorio las describen en detalle.
 
-Si no está seguro de si una contribución encaja, abra primero una Discusión. La autora se lo dirá directamente, y puede sugerir una mejor forma para la contribución. No hay penalización por preguntar.
+Si no está seguro de si una contribución encaja, abra primero una Discusión. El autor se lo dirá directamente, y puede sugerir una mejor forma para la contribución. No hay penalización por preguntar.

@@ -31,7 +31,7 @@ Die Linse ist auch keine Behauptung, dass jede Tradition insgeheim dasselbe sage
 
 Die zentrale Lesart wird als zu erprobende Hypothese verstanden, nicht als zu verteidigende Doktrin. Dies ist die tragende Verpflichtung der gesamten Methode, und sie hat Konsequenzen.
 
-Sie bedeutet, dass die Lesart vorläufig ist. Seiten werden überarbeitet, der Rahmen wird noch öffentlich ausgearbeitet, und wo sich die Belege verschieben, verschiebt sich die Lesart mit ihnen. Sie bedeutet, dass das Projekt kein Interesse am Überleben irgendeiner bestimmten Behauptung hat — nur daran, dass die Behauptungen, die überleben, jene sind, die die Belege tatsächlich stützen. Und sie bedeutet, dass Widerspruch als Auseinandersetzung behandelt wird und nicht als Bedrohung. Der Korpus wird Leserinnen und Lesern angeboten, die bereit sind, den Rahmen ehrlich an den Quellen zu erproben, wohin diese Erprobung sie letztlich auch führen mag.
+Sie bedeutet, dass die Lesart vorläufig ist. Seiten werden überarbeitet, der Rahmen wird noch öffentlich ausgearbeitet, und wo sich die Belege verschieben, verschiebt sich die Lesart mit ihnen. Sie bedeutet, dass das Projekt kein Interesse am Überleben irgendeiner bestimmten Behauptung hat — nur daran, dass die Behauptungen, die überleben, jene sind, die die Belege tatsächlich stützen. Und sie bedeutet, dass Widerspruch als Auseinandersetzung behandelt wird und nicht als Bedrohung. Der Korpus wird Lesern angeboten, die bereit sind, den Rahmen ehrlich an den Quellen zu erproben, wohin diese Erprobung sie letztlich auch führen mag.
 
 Ein Glaubenssatz verlangt Zustimmung; eine Hypothese verlangt, geprüft zu werden. Die Methode ist darauf angelegt, geprüft zu werden.
 
