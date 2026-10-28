@@ -6,8 +6,8 @@ date = 2026-05-10
 
 [extra]
 claim_type = "direct"
-image = "https://assets.wheelofheaven.world/images/wiki/zara_san.webp"
-image_avif = "https://assets.wheelofheaven.world/images/wiki/zara_san.avif"
+image = "https://assets.wheelofheaven.world/images/wiki/zara_zinsfuss_2026.webp"
+image_avif = "https://assets.wheelofheaven.world/images/wiki/zara_zinsfuss_2026.avif"
 image_alt = "Stylized portrait of the author, Zara Zinsfuss."
 image_caption = "Author portrait — Zara Zinsfuss."
 role = "Author"
