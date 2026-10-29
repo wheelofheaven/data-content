@@ -100,7 +100,7 @@ The site is free, source-aware, and built so the work can be checked. Every entr
     <ul>
       <li><s>WHEEL OF HEAVEN</s> — all-caps reserved for the brand chip</li>
       <li><s>wheelofheaven</s> — running it together drops legibility</li>
-      <li><s>The Elohim is…</s> — the noun is grammatically plural</li>
+      <li><s>The Elohim is…</s> — the corpus reads the plural-form noun as a collective</li>
       <li><s>Raelian</s>, <s>Raelism</s> — keep the umlaut</li>
       <li><s>doctrine</s>, <s>theory</s>, <s>belief system</s> — say <em>reading</em></li>
       <li><s>ancient aliens</s>, <s>secret history</s> — distinct framings we don't share</li>

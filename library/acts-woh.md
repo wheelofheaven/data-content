@@ -1,7 +1,7 @@
 +++
 title = "The Acts of the Apostles"
 slug = "acts-woh"
-description = "Acts 2/12/15/17 — Wheel of Heaven Translation. Pentecost; Peter's prison release; the Jerusalem Council; Paul at the Areopagus + the Aratus quote. Four canon-cited Acts chapters from Vaticanus + Sinaiticus + P45."
+description = "Acts 2, 12, 15 and 17 translated from the earliest Greek codices: Pentecost, Peter's release from prison, the Jerusalem Council and Paul's speech at the Areopagus."
 template = "library-book.html"
 date = 2026-06-04
 
@@ -13,21 +13,28 @@ translation_status = "partial"
 claim_type = "direct"
 source_family = "christian"
 editorial_pass = "2026-05"
+edition = "Koine Greek text reconstructed from Codex Vaticanus (B/03) and Codex Sinaiticus (א/01), checked against the papyrus P45 and the NA28/UBS5/SBLGNT critical apparatus. The English translation and notes are released CC0."
+coverage = "Chapters 2, 12, 15 and 17 translated (147 verses). The rest of the book is not translated."
+review_status = "Reviewed and signed off. Checking against the original manuscripts is still pending."
+editorial_history = '''
+**Review record.** All four chapter files carry `status: stable` (v1.0.0) with a named human reviewer, dated 2026-06-04, and a full reviewer report. Their `verificationStatus` reads "best-effort reconstruction; verification pending against Vaticanus + Sinaiticus + Bezae + P45 original codicology + the NA28/UBS5/SBLGNT critical apparatus" (chapter 15 adds the Boismard–Lamouille Western edition; chapter 17 the Aratus *Phaenomena* manuscript tradition for v. 28).
+
+**Selection.** The four chapters are those the Raëlian canon engages in *Extraterrestrials Took Me To Their Planet*, with the acknowledgment-without-endorsement framework applied. Verse counts: Acts 2 (47), 12 (25), 15 (41, including the empty verse 34), 17 (34).
+
+**Central glossary entries.**
+- Acts 2: `pentecost-acts-2-tongues-of-fire-sinai-num-11-cross-corpus` documents the Sinai (Ex 19) and Num 11 cross-corpus; bidirectional with the v2.61.0 Exodus entry `sinai-theophany-ex-19`. The Joel 2 citation participates in the cosmic-signs cluster.
+- Acts 12: `peter-prison-release-acts-12-daniel-6-angelic-deliverance-cross-corpus` documents the angelic-deliverance pattern (Daniel 6, Daniel 3, Acts 5:19). The death of Herod Agrippa I at v. 23 is the 44 CE historical anchor.
+- Acts 15: `apostolic-decree-acts-15-noahide-leviticus-17-18-cross-corpus` documents the Lev 17–18 (*ger toshav* commandments) and rabbinic Noahide-commandments cross-corpus, with an explicit Christian-supersessionist disavowal. The Western/Bezae text of 15:34 is documented in the per-translation overlay.
+- Acts 17: `areopagus-speech-acts-17-22-31-natural-theology-aratus-epimenides-cross-corpus` documents the "unknown god" inscription, the Epimenidean line (Cretica, attested in Isho'dad of Merv), and the Aratus *Phaenomena* line 5 quotation (also Cleanthes, *Hymn to Zeus*).
+
+**Scholarship consulted.** Witherington (1998), Bock (BECNT 2007), Pervo (Hermeneia 2009), Keener (2012–2015, 4 vols), Barrett (ICC 1994/1998). Methodology: [Source-Text Translation](https://docs.wheelofheaven.world/contributing/content/source-text-translation/).
+'''
 +++
-**Acts 2 + 12 + 15 + 17 (Wheel of Heaven Translation)** — four canon-cited Acts chapters. The Raëlian canon engages each of these in *Extraterrestrials Took Me To Their Planet* — acknowledgment-without-endorsement framework applied.
+The Acts of the Apostles narrates the first decades of the Jesus movement. This translation covers four chapters that the Raëlian canon discusses in *Extraterrestrials Took Me To Their Planet*, rendered from the oldest complete Greek codices and set beside the Greek.
 
-**147 verses across 4 chapters** sourced from **Codex Vaticanus (B/03)** + **Codex Sinaiticus (א/01)** + **P45 Chester Beatty I (~250 CE)** cross-collation + NA28/UBS5/SBLGNT critical apparatus.
+- **Acts 2, Pentecost.** Tongues of fire descend on the disciples, and Peter's sermon quotes Joel 2:28–32 on signs in the sky. The notes compare the scene with the fire and voice at Sinai in Exodus 19.
+- **Acts 12, Peter released from prison.** An angel frees Peter from Herod's prison; the chapter ends with the death of Herod Agrippa I in 44 CE. The notes compare the rescues in Daniel 3 and 6.
+- **Acts 15, the Jerusalem Council.** The apostles decide that Gentile believers need not be circumcised, and ask them to keep four rules: no food offered to idols, no blood, no meat of strangled animals, no sexual immorality (*porneia*). The notes read these rules alongside Leviticus 17–18 and the later rabbinic Noahide laws. They treat the decree as a practical arrangement that let Jewish and Gentile believers eat together; it does not set aside the Law of Moses. Verse 34 is absent from the oldest manuscripts and is left empty here, as in modern critical editions.
+- **Acts 17, Paul at the Areopagus.** Paul's speech in Athens refers to an altar "to an unknown god" and quotes Greek poets: "in him we live and move and have our being" (probably Epimenides) and "for we are also his offspring" (Aratus, *Phaenomena* 5).
 
-**The 4 canon-cited chapters:**
-
-- **Acts 2 (47 verses) — Pentecost.** The tongues-of-fire descent + Peter's sermon citing Joel 2:28-32 (the cosmic-signs prophecy). Central entry `pentecost-acts-2-tongues-of-fire-sinai-num-11-cross-corpus` documents the Sinai (Ex 19) + Num 11 cross-corpus; bidirectional with v2.61.0 Exodus `sinai-theophany-ex-19`. The Joel 2 citation participates in the cosmic-signs cluster.
-
-- **Acts 12 (25 verses) — Peter's prison release via angelic intervention.** Central entry `peter-prison-release-acts-12-daniel-6-angelic-deliverance-cross-corpus` documents the angelic-deliverance pattern (Daniel 6 lion's-den + Daniel 3 fiery-furnace + Acts 5:19 first-prison-release). The Herod Agrippa I death at v23 is the 44 CE historical anchor.
-
-- **Acts 15 (41 verses) — the Jerusalem Council.** The Gentile-inclusion decision; the Apostolic Decree's four-fold prohibition (idol-sacrifices + blood + strangled-things + *porneia*). Central entry `apostolic-decree-acts-15-noahide-leviticus-17-18-cross-corpus` documents the Lev 17-18 (*ger toshav* commandments) + rabbinic Noahide-commandments cross-corpus. **Christian-supersessionist disavowal**: this passage does NOT support a "law-superseded" reading; the Apostolic Decree is an ad hoc-Gentile-table-fellowship arrangement preserving Jewish-purity-boundaries, not a Mosaic-covenant abrogation. **Acts 15:34 preserved as an empty verse-hole** per Alexandrian critical convention (the Western/Bezae interpolation is documented at overlay).
-
-- **Acts 17 (34 verses) — Paul at the Areopagus / Mars Hill.** Major canon-engagement site. Central entry `areopagus-speech-acts-17-22-31-natural-theology-aratus-epimenides-cross-corpus` documents: (a) the *agnōstō theō* "unknown god" altar inscription at v23; (b) the *en autō zōmen kai kinoumetha kai esmen* "in him we live and move and have our being" — likely Epimenidean (Cretica, attested in Isho'dad of Merv); (c) the *tou gar kai genos esmen* "for we are also his offspring" — verbatim quote from **Aratus *Phaenomena* line 5** (also Cleanthes *Hymn to Zeus*). Major Greek-philosophical natural-theology cross-corpus.
-
-Scholarly references: Witherington SP 1998, Bock BECNT 2007, Pervo Hermeneia 2009, Keener 2012-2015 (4-volume), Barrett ICC 1994/1998. Verification pending against the original codicology.
-
-The methodology is documented at [Source-Text Translation](https://docs.wheelofheaven.world/contributing/content/source-text-translation/).
+Verses with a note end in a bracketed marker `[ ]`; select it to open the note.

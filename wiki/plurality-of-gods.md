@@ -1,7 +1,7 @@
 +++
 title = "Plurality of Gods"
 slug = "plurality-of-gods"
-description = "Plurality of Gods is the Wheel of Heaven reading that the Hebrew Bible describes many divine beings rather than one abstract God. Its basis is philological: *Elohim*, the word conventionally translated 'God', is grammatically plural — the plural of *Eloah* — and the text preserves plural verbs and pronouns ('let us make man in our image,' Genesis 1:26; 'as one of us,' Genesis 3:22), the *benei ha-Elohim* ('sons of the Elohim'), and repeated divine-council scenes (Psalm 82; Job 1-2; 1 Kings 22; Isaiah 6). On the framework's reading these plurals are not a grammatical accident or a majestic singular but the memory of the actual plural creators — the Elohim, a physical civilization — and the later Christian rendering of *Elohim* as a singular 'God' is read as the Church's first mistake. The entry sets this reading beside the divine councils of other traditions, the mainstream scholarship on Israel's polytheistic background (Smith, Barker, Heiser), and the convergent doctrines of Mormon plural-Elohim theology and Eastern Orthodox theosis."
+description = "Plurality of Gods is the Wheel of Heaven reading that the Hebrew Bible describes many divine beings rather than one abstract God. Its basis is philological: *Elohim*, the word conventionally translated 'God', is plural in form — the plural of *Eloah* — and the text preserves plural verbs and pronouns ('let us make man in our image,' Genesis 1:26; 'as one of us,' Genesis 3:22), the *benei ha-Elohim* ('sons of the Elohim'), and repeated divine-council scenes (Psalm 82; Job 1-2; 1 Kings 22; Isaiah 6). On the framework's reading these plurals are not a grammatical accident or a majestic singular but the memory of the actual plural creators — the Elohim, a physical civilization — and the later Christian rendering of *Elohim* as a singular 'God' is read as the Church's first mistake. The entry sets this reading beside the divine councils of other traditions, the mainstream scholarship on Israel's polytheistic background (Smith, Barker, Heiser), and the convergent doctrines of Mormon plural-Elohim theology and Eastern Orthodox theosis."
 template = "wiki-page.html"
 toc = true
 
@@ -10,7 +10,7 @@ same_as = ["https://www.wikidata.org/wiki/Q9163", "https://en.wikipedia.org/wiki
 category = "Cosmology & Framework"
 claim_type = "framework"
 core_claim_ids = ["woh-claim-0009", "woh-claim-0011"]
-core_versions = { woh-claim-0009 = "0.1.0", woh-claim-0011 = "0.1.0" }
+core_versions = { woh-claim-0009 = "0.1.1", woh-claim-0011 = "0.1.0" }
 editorial_pass = "2026-07"
 entry_type = "concept"
 alternative_names = ["plurality of the gods", "plurality of the Elohim", "the multiple-creators reading", "biblical polytheism", "Hebrew Bible plurality content", "the divine council reading", "the Elohim plural reading"]
@@ -27,7 +27,7 @@ see_also = [
 [extra.infobox]
 type = "Foundational interpretive concept; the corpus's position that the Hebrew Bible and the broader mythological traditions describe multiple divine beings rather than one supreme deity"
 basic_premise = "The Hebrew Bible and the wider religious-mythological record describe many divine beings, not one supreme God; the framework reads this plurality as the preserved memory of the actual plural creators (the Elohim)"
-principal_evidence = "*Elohim* is grammatically plural; plural verbs (*na'aseh adam*, 'let us make man,' Genesis 1:26); plural possessives (*be-tzalmenu*, 'in our image'); plural self-address (*ke-achad mimenu*, 'as one of us,' Genesis 3:22); the *benei ha-Elohim* ('sons of the Elohim,' Genesis 6, Job 1-2, Psalm 82); and the divine-council scenes of 1 Kings 22, Job 1-2, Isaiah 6, and Psalm 82"
+principal_evidence = "*Elohim* is plural in form; plural verbs (*na'aseh adam*, 'let us make man,' Genesis 1:26); plural possessives (*be-tzalmenu*, 'in our image'); plural self-address (*ke-achad mimenu*, 'as one of us,' Genesis 3:22); the *benei ha-Elohim* ('sons of the Elohim,' Genesis 6, Job 1-2, Psalm 82); and the divine-council scenes of 1 Kings 22, Job 1-2, Isaiah 6, and Psalm 82"
 the_first_mistake = "Yahweh's articulation in the Raëlian source: 'It replaced the term Elohim, which refers to the creators, with a singular term God, whereas in fact Elohim in Hebrew is the plural of Eloha. In this way, the Church transformed the creators into a single incomprehensible God.'"
 relationship_to_cosmic_chain = "The plurality is dynamic as well as descriptive: through the Cosmic Chain, humanity is read as a future creator in its own right — 'the created shall become creators just as the creators were created' — so the reading names not only how many divine beings exist but what humanity may become"
 mormon_lds_alignment = "Close structural convergence with Mormon (Latter-day Saints) theology — Joseph Smith's King Follett discourse (1844), Lorenzo Snow's couplet ('as man now is, God once was; as God now is, man may be'), the plural-Elohim and exaltation doctrines — the nearest mainstream-religious parallel to the reading"
@@ -42,7 +42,7 @@ and mythological traditions — describes *many* divine beings rather than one
 supreme deity. The reading rests on a philological fact the standard English
 translation hides: the word rendered "God" through most of
 [Genesis](../genesis/) is *Elohim* (Hebrew אֱלֹהִים), and *Elohim* is
-grammatically plural — the plural of the singular *Eloah*. Wheel of Heaven takes
+plural in form — the plural of the singular *Eloah*. Wheel of Heaven takes
 that plural at face value: the beings the text names *Elohim* are the actual,
 embodied [Elohim](../elohim/), a physical creator civilization, not one
 incomprehensible abstraction.
@@ -56,18 +56,26 @@ Jewish habit of collapsing *Elohim* into a singular "God" is, on this reading,
 the point at which the record of a plurality of creators hardened into the
 doctrine of one supreme being.
 
-## A grammatically plural name
+## A plural name
 
 Hebrew builds masculine plurals with the ending *-im*, and *Elohim* carries it.
 It stands in the same morphological family as *malakhim* ("messengers"),
 *sarim* ("princes"), and *adonim* ("lords"). The singular forms exist and are
 used — *Eloah* (אֱלוֹהַּ) and the shorter *El* (אֵל) — but across the Hebrew
 Bible the plural *Elohim* is by far the more common word for the divine,
-appearing roughly 2,600 times. Grammatically, nothing marks it as a special
-case; it is an ordinary plural noun.
+appearing roughly 2,600 times.
 
-What makes the plurality more than a fossil is that the surrounding grammar
-frequently agrees with it. At the creation of humanity the verb is first-person
+The form does not settle the question by itself. When *Elohim* names the God of
+Israel it usually takes a singular verb — Genesis 1:1 opens with *bara*, "he
+created" — and that singular agreement is the main support of the
+plural-of-majesty reading. A minority of passages break the pattern with plural
+verbs or adjectives: "the Elohim caused me to wander" (Genesis 20:13), "there the
+Elohim were revealed to him" (Genesis 35:7), "the living Elohim" (Deuteronomy
+5:26). The fuller grammatical picture is set out in the
+[Elohim](../elohim/#form-agreement-and-reference) entry.
+
+What makes the plurality more than a fossil is that the text itself repeatedly
+speaks in the plural around the name. At the creation of humanity the verb is first-person
 plural: *na'aseh adam* (נַעֲשֶׂה אָדָם), "let us make man" (Genesis 1:26), with
 the plural possessives *be-tzalmenu* ("in our image") and *ki-dmutenu* ("after
 our likeness"). After Eden the speaker says of the human, *ke-achad mimenu*

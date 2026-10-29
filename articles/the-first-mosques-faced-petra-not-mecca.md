@@ -472,7 +472,7 @@ monotheism replacing polytheism — many gods collapsing into one. The Wheel of
 Heaven frame declines that reading, and the reason cuts to the centre of the
 corpus. The {% wiki(slug="elohim") %}Elohim{% end %} are a plurality: a
 [Council](/wiki/council-of-the-eternals/) of finite, embodied creators, the
-grammatically plural *Elohim* the Hebrew text keeps and that the corpus reads
+plural-form *Elohim* the Hebrew text keeps and that the corpus reads
 across the {% wiki(slug="plurality-of-gods") %}whole record{% end %}. The
 corpus stands, if anything, *closer* to a pantheon of real and locatable beings
 than to the abstract, omnipresent, omniscient, omnipotent single God of

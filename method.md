@@ -18,7 +18,7 @@ cta_label = "Open the timeline"
 
 ## One hypothesis, read closely
 
-Wheel of Heaven is a single sustained reading of the ancient world's creation traditions, held together by one working hypothesis: that the beings the Hebrew Bible calls [*Elohim*](/wiki/elohim/) — a grammatically plural noun that translation has long flattened into the singular "God" — were a small, technologically advanced human civilization from elsewhere, who came to Earth, prepared it, designed life here, and left a record of the work in the religious texts.
+Wheel of Heaven is a single sustained reading of the ancient world's creation traditions, held together by one working hypothesis: that the beings the Hebrew Bible calls [*Elohim*](/wiki/elohim/) — a noun plural in form that translation has long flattened into the singular "God" — were a small, technologically advanced human civilization from elsewhere, who came to Earth, prepared it, designed life here, and left a record of the work in the religious texts.
 
 That sentence is the whole of what the project asks a reader to entertain. Everything else — the twelve ages, the comparative mythology, the philological detail, the [precessional](/wiki/precession/) chronology — is the working-out of that one hypothesis against the surviving evidence. The method is the discipline that keeps the working-out honest: how the reading is framed, what it reads from, and how it marks the difference between what a source says and what the project infers.
 
@@ -38,6 +38,18 @@ It means the reading is provisional. Pages are revised, the framework is still b
 
 A creed asks for assent; a hypothesis asks to be tested. The method is built to be tested.
 
+## What would change the reading
+
+A hypothesis that nothing could revise would be a creed under another name, so the project records, claim by claim, what would make it change its mind.
+Each foundational claim has a record in the project's [research core](https://github.com/wheelofheaven/core), listing the alternative readings at full strength and the findings that would trigger a revision.
+The pages that rest on those claims summarize the conditions in plain terms; the [Elohim](/wiki/elohim/#what-would-revise-this-reading) entry is the model.
+
+The conditions differ by kind of claim.
+A philological reading is revised when the text turns out to say something else: a better manuscript witness, a parallel construction elsewhere in Hebrew, a grammar that explains the passage more simply.
+A comparative reading is revised when two traditions turn out to share a source the project treated as independent.
+A date is revised when its anchor moves.
+The framework premises, the claims labeled *framework*, are the canon's own; the project states them directly and says so, without claiming that the philology proves them.
+
 ## Every claim is marked
 
 The most concrete instrument of the method is the small badge near the top of nearly every page, which labels that page's main claim as one of four kinds:
@@ -46,6 +58,8 @@ The most concrete instrument of the method is the small badge near the top of ne
 - {{ claim_badge(type="framework") }} — the claim is a foundational premise of the Wheel of Heaven reading, explicit in the Raëlian canon but not endorsed by mainstream scholarship. The Elohim hypothesis itself sits here.
 - {{ claim_badge(type="inferred") }} — the claim is a reasonable reading of a source, not literally stated but consistent with it.
 - {{ claim_badge(type="speculative") }} — the claim is interpretive synthesis that goes beyond what any single source states.
+
+The badge names a page's main claim. Long pages contain claims of several kinds, so the prose also marks them where they occur, attributing each to the source, the scholarship, or the Wheel of Heaven reading as appropriate.
 
 The point of the labels is intellectual transparency. A reader should never have to guess whether a sentence is reporting a fact, stating a premise of the framework, or venturing an interpretation. Speculative is not a confession of weakness; it is an honest label, and the project would rather mark a bold reading as speculative than dress it up as established.
 
@@ -56,6 +70,16 @@ The corpus is built around the primary texts it reads from, not around summaries
 Sources are organized by their relationship to the reading rather than treated as an undifferentiated pile. The Raëlian canon is the interpretive tier; ancient primary texts, credentialed scholarship, scientific and historical work, comparative traditions, and critical objections each occupy their own tier and are read for what they are. New entries aim to stand on a spread of these — canon, ancient primary, scholarly, scientific, comparative, and critical — so that a claim is not resting on a single congenial source. Skeptical and critical material is carried in its own voice, not paraphrased into weakness.
 
 Behind much of this sits a working translation apparatus: the project maintains its own passage-level translations of key source texts, with per-verse commentary and a shared glossary, so a reader can see exactly where an interpretive weight is being placed and check it against the original.
+
+## The method at work
+
+Three pieces show the method most fully, and each is useful to a reader who rejects the hypothesis.
+
+- [Sendy and the Raëlian Messages](/articles/sendy-and-the-raelian-messages/) compares Jean Sendy's books of the 1960s with the first Raëlian Message passage by passage, sets out which parallels are close and which are not, and weighs the possibility that the Message borrowed from Sendy. It states what the comparison cannot settle: several of the editions inspected are later reissues, and English renderings by different translators cannot show identical wording between the two authors.
+- The [Divine-Council Index](/datasets/divine-council-index/) records seventeen attestations of divine councils across twelve traditions, with source locations, selection criteria and an account of missing values, in CSV and JSON. A reader can check every row against its source and reuse the table under CC0.
+- The [library](/library/) translations print the original text beside the English, with a note on each contested word, so a reader can see where an interpretive choice was made and reverse it.
+
+A comparison can be accurate while the historical explanation built on it is wrong. The project tries to make the two easy to judge separately.
 
 ## The precessional spine
 

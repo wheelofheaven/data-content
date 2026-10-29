@@ -1,7 +1,7 @@
 +++
 title = "Shi'ur Qomah"
 slug = "shiur-qomah-woh"
-description = "Shi'ur Qomah, Siddur Rabbah recension — the Hekhalot/Merkavah-mystical text describing the cosmic dimensions of the divine body. The Wheel of Heaven Translation's first Kabbalah-tradition text; the 'Kabbalah' the Raëlian canon implicitly cites for *parasangs*."
+description = "Shi'ur Qomah, the Jewish mystical text that measures the body of the Creator in parasangs, translated from the Hebrew of the Siddur Rabbah recension, with notes."
 template = "library-book.html"
 date = 2026-06-03
 
@@ -13,96 +13,19 @@ translation_status = "partial"
 claim_type = "direct"
 source_family = "jewish-mysticism"
 editorial_pass = "2026-05"
+edition = "Hebrew text of the Siddur Rabbah recension, reconstructed from Jellinek 1853 (public domain), Cohen 1985 (the modern critical edition) and Schäfer 1981. The English translation and notes are released CC0."
+coverage = "The Siddur Rabbah recension translated: 67 paragraphs. The other recensions are not translated."
+review_status = "Reviewed and signed off. Checking against Cohen's critical edition is still pending."
+editorial_history = '''
+**Review record.** `chapter-1.json` carries `status: stable` (v1.0.0) with a named human reviewer, dated 2026-06-03, and a full reviewer report. `chapter-1-signoff-package.md`: "reviewer-approved (clean approve sweep; sign-off is formality, but with a **verificationStatus caveat**)". `verificationStatus`: "best-effort reconstruction; verification pending against Cohen 1985 TSAJ 9".
+
+**Production.** The project's **first Kabbalah / Jewish-mysticism-tradition text**. The translation was drafted by Claude Opus 4.7 and edited through the Wheel of Heaven Translation Program pipeline (Translator → Editor → Reviewer). The WoH-Translation produces the philologically disciplined version of Shi'ur Qomah, not the canon's pre-filtered version, with explicit operational disavowals against Sitchin / Anunnaki / engineered-deity-body readings throughout the glossary apparatus. The eight Raëlian-canon-flagged paragraphs (§§2, 3, 16, 22, 31, 40, 41, 56) all carry explicit acknowledgment-without-endorsement of the canon's citation. Lens-risk landscape: extreme anthropomorphism, the magical-name theurgical tradition, Maimonidean condemnation, Raëlian-canon citation, surface similarity to ancient-astronaut readings, the gnostic-syncretism dispute (Scholem 1965 vs Halperin 1988 / Schäfer 1992 / Boustan 2005), and the Metatron–NT dispute (Boyarin 2012 vs Schäfer 2012); all managed through named-scholarship attributions, verbatim disavowals and preservation of contested disputes.
+
+**Recensions.** Cohen 1985 distinguishes five recensions (Sefer Hekhalot, Sefer Razim, Merkavah Rabbah, Siddur Rabbah, Ma'aseh Merkavah). Methodology: [Source-Text Translation](https://docs.wheelofheaven.world/contributing/content/source-text-translation/).
+'''
 +++
-**Shi'ur Qomah (Wheel of Heaven Translation)** is the project's
-**first Kabbalah / Jewish-mysticism-tradition text**. The text is one
-of the oldest pieces of Jewish mystical literature (3rd–6th c. CE,
-with traditions reaching earlier — Scholem 1965 argues for
-tannaitic-era roots), preserved across Hekhalot literature. It
-describes the cosmic measurements of the body of the Creator — the
-divine *Yotzer* — as a head-to-foot enumeration in which each limb is
-named with a secret magical name and measured in *parasangs* (a
-Persian unit of distance adapted to cosmic scale: one parasang, by
-the text's own internal logic, is "as much as the entire universe is
-full"). The framing is a pseudo-tannaitic transmission from R.
-Yishmael (the famous high priest) through R. Akiva to the Hekhalot
-mystics. The implicit liturgical-theurgical function: knowing the
-names and measurements lets the mystic ascend the seven Hekhalot
-palaces and stand before the throne.
+*Shi'ur Qomah* ("The Measure of the Stature") is one of the oldest pieces of Jewish mystical literature, preserved in the Hekhalot writings of roughly the 3rd to 6th centuries CE. It lists the limbs of the body of the Creator from head to foot, gives each a secret name, and measures each in *parasangs*, a Persian unit of distance raised here to cosmic scale. The teaching is presented as passed from Rabbi Yishmael to Rabbi Akiva; knowing the names and measures was meant to let the mystic ascend through the seven heavenly palaces to the throne.
 
-**Chapter 1 — Siddur Rabbah recension.** Cohen 1985 distinguishes
-five recensions of Shi'ur Qomah (Sefer Hekhalot, Sefer Razim,
-Merkavah Rabbah, Siddur Rabbah, Ma'aseh Merkavah); this chapter
-covers the **Siddur Rabbah recension**, the most-cited "standard"
-recension and the one preserved in *Sefer Raziel ha-Mal'akh* and the
-medieval Hekhalot anthologies. 67 paragraphs. Includes: the R.
-Yishmael / Metatron opening transmission (§2); the foundational
-236-myriads cosmic-total measurement (§3); the head-to-foot body
-enumeration with ~40 magical names per limb (§§5–49); R. Akiva's
-guarantor-formula promising that daily Shi'ur Qomah recitation as
-Mishnah secures the world-to-come (§41 — the most-cited Shi'ur Qomah
-passage in rabbinic-liturgical tradition); the Metatron-as-*naʿar*
-youth-prince scenes (§52); the cosmic-silence + Ineffable Name
-theurgical core (§§60–61); and the Ps 8:2 alphabetic-acrostic hymn
-appendix (§§64–67).
+This translation covers the Siddur Rabbah recension, the most widely cited of the five, in 67 paragraphs: the opening transmission through Metatron, the cosmic total of the measurements, the head-to-foot enumeration, Rabbi Akiva's promise that whoever recites the text daily is assured of the world to come (§41), and a closing hymn on Psalm 8. Maimonides condemned the text as a forgery; the medieval German pietists, Cordovero, the Lurianic and Hasidic traditions and modern scholars treat it as serious mystical literature. The notes record both positions.
 
-**Reception is genuinely contested.** Maimonides (*Iggeret Teiman*;
-*Mishneh Torah, Yesodei ha-Torah* 1:8-12; *Guide for the Perplexed*
-I:35-36) condemned the text as un-Jewish — calling it "a forgery of
-a Greek preacher or a Karaite." Conversely, the Hasidei Ashkenaz of
-medieval Germany (Eleazar of Worms), R. Moses Cordovero (*Pardes
-Rimmonim*), the Lurianic Kabbalists, the Hasidic tradition, and
-modern Hekhalot scholarship (Scholem, Cohen, Schäfer, Halperin,
-Boustan, Idel) all treat Shi'ur Qomah as serious mystical literature.
-The WoH translation acknowledges Maimonides' condemnation without
-adjudicating the dispute — the contested-reception is preserved as
-part of the text's documented history.
-
-**Raëlian-canon engagement.** *The End of the World* and *At the
-Root of All Religions* both implicitly cite the Shi'ur Qomah
-tradition for its *parasangs* measurements and "height of the
-creator" passages — making this translation a project priority for
-closing one of the genuine source-tensions named in the
-[*Reference corpus of the Raëlian canon*](/wiki/reference-corpus-of-the-raelian-canon/)
-wiki entry. **Critical: the WoH-Translation produces the
-philologically-disciplined version of Shi'ur Qomah, not the canon's
-pre-filtered version**, with explicit operational disavowals against
-Sitchin/Anunnaki/engineered-deity-body readings throughout the
-glossary apparatus. The eight Raëlian-canon-flagged paragraphs
-(§§2, 3, 16, 22, 31, 40, 41, 56) all carry explicit
-acknowledgment-without-endorsement of the canon's citation.
-
-**The translation handles the most distinctive lens-risk landscape
-in the WoH corpus to date.** Extreme anthropomorphism + magical-name
-theurgical tradition + Maimonidean condemnation + Raëlian-canon
-citation + cosmic-body-with-measurements (surface similarity to
-Sitchin-Anunnaki ancient-astronaut readings) + gnostic-syncretism
-scholarly dispute (Scholem 1965 vs Halperin 1988 / Schäfer 1992 /
-Boustan 2005) + Christological-typology lens-risk (Boyarin 2012 vs
-Schäfer 2012 on the Metatron-NT relationship). All sites are
-managed through named-scholarship attributions, verbatim
-disavowals where lens-leakage would compromise the source, and
-preservation of genuinely-contested scholarly disputes where
-adjudication would force premature closure.
-
-**The translation is best-effort reconstruction** from Jellinek 1853
-*Bet ha-Midrasch* (PD), Cohen 1985 *The Shi'ur Qomah: Texts and
-Recensions* (TSAJ 9 — THE modern critical edition; paywalled),
-Schäfer 1981 *Synopse zur Hekhalot-Literatur* (TSAJ 2), and the open-
-access scholarly portions of all three. Verification against Cohen
-1985 is pending; corrections welcome.
-
-**Lines with commentary carry a bracketed marker `[ ]` at the end of
-the translated line. Click the marker to open the commentary panel.**
-The interlinear view shows the Hebrew alongside the SBL academic
-transliteration. **Magical names are rendered in ALL-CAPS in the
-English** per a standard scholarly convention (Scholem 1960 used
-small-caps; this project uses ALL-CAPS for the same purpose) — the
-names are sound-incantations, not words-with-meanings, and the
-typographic register marks them as the theurgical payload of the
-text rather than ordinary lexical items.
-
-The translation was drafted by Claude Opus 4.7 and edited through
-the Wheel of Heaven Translation Program pipeline (Translator →
-Editor → Reviewer). The methodology is documented at
-[Source-Text Translation](https://docs.wheelofheaven.world/contributing/content/source-text-translation/).
+*The End of the World* and *At the Root of All Religions* draw on this tradition for its measurements of the Creator's height. The notes set out the canon's reading beside the scholarly ones; the translation follows the Hebrew. The magical names are printed in capitals to mark them as sounds to be recited, not words with meanings. Paragraphs with a note end in a bracketed marker `[ ]`; select it to open the note. See also the [reference corpus of the Raëlian canon](/wiki/reference-corpus-of-the-raelian-canon/).

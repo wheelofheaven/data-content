@@ -9,7 +9,7 @@ draft = false
 card_summary = "Ancient conflicts over idols read as questions of allegiance, mediation, and memory within the Wheel of Heaven framework."
 claim_type = "speculative"
 core_claim_ids = ["woh-claim-0009", "woh-claim-0011"]
-core_versions = { woh-claim-0009 = "0.1.0", woh-claim-0011 = "0.1.0" }
+core_versions = { woh-claim-0009 = "0.1.1", woh-claim-0011 = "0.1.0" }
 editorial_pass = "2026-05"
 article_type = "explainer"
 category = "Hermeneutics"

@@ -242,7 +242,7 @@ corpus maintains its own
 readings{% end %}; what follows is Biglino's, quoted at the length it
 deserves.
 
-**Elohim.** The grammatically plural noun
+**Elohim.** The plural-form noun
 (<span class="hebrew">אֱלֹהִים</span>) that conventional Bibles render as
 a singular "God" is, for Biglino, the whole scandal in one word. His
 conclusion after a chapter spent simply counting referents — he finds at

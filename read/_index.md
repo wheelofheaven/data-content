@@ -5,7 +5,6 @@ template = "read.html"
 sort_by = "weight"
 render = true
 aliases = [
-    "/start/",
     "/intro/",
     "/intro/wheel-of-heaven/",
     "/essentials/",
@@ -51,3 +50,16 @@ you are reading.
 
 The goal is clarity, not certainty. If the evidence shifts, the reading
 shifts.
+
+## The Method in Practice {#method-in-practice}
+
+New here? [Start here: ten minutes](/start/) reads one verse of Genesis
+closely, with the strongest objection to the reading beside it.
+
+For the method at full length, [Sendy and the Raëlian
+Messages](/articles/sendy-and-the-raelian-messages/) compares the first
+Raëlian book with Jean Sendy's earlier work passage by passage and weighs
+the case for borrowing. The [Divine-Council Index](/datasets/divine-council-index/)
+lists divine councils across twelve traditions with source locations, in
+CSV and JSON, free to check and reuse. All [datasets](/datasets/) are
+released under CC0.

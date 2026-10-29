@@ -1,7 +1,7 @@
 +++
 title = "The Sumerian Flood Story"
 slug = "flood-story-woh"
-description = "The Sumerian Flood Story rendered from the composite transliteration (ETCSL 1.7.4) under the Wheel of Heaven lens, with source and translation displayed in parallel and per-line commentary."
+description = "The Sumerian Flood Story of Ziusudra, the oldest written flood narrative, translated from the ETCSL composite text with line notes and read beside Genesis 6–9."
 template = "library-book.html"
 date = 2026-06-01
 
@@ -11,32 +11,15 @@ translation_status = "complete"
 claim_type = "direct"
 source_family = "ane"
 editorial_pass = "2026-05"
+edition = "Sumerian composite transliteration of the Electronic Text Corpus of Sumerian Literature (ETCSL 1.7.4). The English translation and notes are released CC0."
+coverage = "The whole surviving text translated: 89 lines in five segments, out of an estimated 262. The gaps are marked and cannot be translated."
+review_status = "Reviewed and signed off."
+editorial_history = '''
+**Review record.** `chapter-1.json` carries `status: stable` (v1.0.0) with a named human reviewer, dated 2026-06-01, and a full reviewer report. `chapter-1-signoff-package.md`: "reviewer-approved (clean approve sweep after one corrective pass; sign-off is formality)". The earlier page text read: "The composition is signed off as **complete** as of 2026-06-01 (against the preserved 89 lines; the lacunae are noted in the source apparatus and cannot be translated)."
+
+**Production.** Rendered from the ETCSL composite transliteration (ETCSL 1.7.4, CC0 base) under a documented WoH lens. The English translation was drafted by Claude Opus 4.7, edited through the Wheel of Heaven Translation Program pipeline (Translator → Editor → Reviewer), and signed off by the named human reviewer. Methodology: [Source-Text Translation](https://docs.wheelofheaven.world/contributing/content/source-text-translation/).
+'''
 +++
-**The Sumerian Flood Story (Wheel of Heaven Translation)** is rendered
-from the ETCSL composite transliteration (ETCSL 1.7.4, CC0 base) under a
-documented WoH lens, with the source and the English translation
-displayed in parallel.
+The Sumerian *Flood Story* is the oldest surviving written account of the flood and the closest link before Akkadian between Mesopotamian tradition and Genesis 6–9. Its hero is **Ziusudra**, "life of long days". Warned by Enki that the gods have decreed a flood, he builds a boat, survives a storm of seven days and seven nights, offers sacrifice to An and Enlil, and is granted eternal life in Dilmun.
 
-The text is the cleanest pre-Akkadian bridge to Genesis 6–9. Of an
-estimated ~262 original lines, ~89 are preserved across five segments
-(A–E), with four large lacunae (~32, 34, 38, 33 lines missing) plus an
-opening lacuna of ~36 lines before Segment A. **Ziusudra** — the
-*zi-ud-sura*, "life of long days" — is the Sumerian flood-survivor; he
-is warned by Enki, builds a boat, survives a seven-day storm, sacrifices
-to An and Enlil, and is granted immortal life in Dilmun.
-
-**Lines with commentary carry a bracketed marker `[ ]` at the end of the
-translated line. Click the marker to open the commentary panel.**
-Per-line commentary documents lexical decisions, the segmented preservation
-of the tablet, and cross-corpus links to *Atraḫasīs*, *Gilgamesh* XI,
-and Genesis 6–9.
-
-The composition is signed off as **complete** as of 2026-06-01 (against
-the preserved 89 lines; the lacunae are noted in the source apparatus
-and cannot be translated).
-
-The English translation was drafted by Claude Opus 4.7, edited through
-the Wheel of Heaven Translation Program pipeline (Translator → Editor →
-Reviewer), and signed off by the named human reviewer. The methodology
-is documented at
-[Source-Text Translation](https://docs.wheelofheaven.world/contributing/content/source-text-translation/).
+Only about a third of the tablet survives: five segments (A–E), separated by four large gaps of 32 to 38 lines, with about 36 lines missing before the first segment. The gaps are marked in the text. The line notes explain the lexical decisions and point to the parallels in *Atra-ḫasīs*, *Gilgamesh* Tablet XI and Genesis 6–9. Lines with a note end in a bracketed marker `[ ]`; select it to open the note.

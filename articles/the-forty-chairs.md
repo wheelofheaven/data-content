@@ -650,7 +650,7 @@ the watermark feature institutional religion has misread longest,
 because the misreading flatters the institution. Read as a ban on
 *other gods*, it becomes a charter for confessional monopoly — an odd
 reading of a scripture whose own word for the divine party,
-{% wiki(slug="elohim") %}Elohim{% end %}, is grammatically plural. Read
+{% wiki(slug="elohim") %}Elohim{% end %}, is plural in form. Read
 in the founding stratum's own terms, the target is vacancy: the made
 thing mistaken for the makers, representation eclipsing referent. The
 canon's definition is exact — after the fall of the old centers, men
