@@ -99,7 +99,7 @@ summary = "Wheel of Heaven의 브랜드 자산, 보일러플레이트, 팔레트
     <ul>
       <li><s>WHEEL OF HEAVEN</s> — 전체 대문자는 브랜드 칩 전용</li>
       <li><s>wheelofheaven</s> — 붙여 쓰면 가독성 저하</li>
-      <li><s>The Elohim is…</s> — 문법적으로 복수형 명사</li>
+      <li><s>The Elohim is…</s> — 코퍼스는 형태상 복수인 이 명사를 집합명사로 읽는다</li>
       <li><s>Raelian</s>, <s>Raelism</s> — 움라우트 유지</li>
       <li><s>doctrine(교리)</s>, <s>theory(이론)</s>, <s>belief system(신념 체계)</s> — <em>reading(읽기)</em>로 표기</li>
       <li><s>ancient aliens</s>, <s>secret history</s> — 우리가 공유하지 않는 별개의 프레이밍</li>

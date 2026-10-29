@@ -245,7 +245,7 @@ maintient son propre {% wiki(slug="list-of-etymological-readings") %}catalogue
 de lectures étymologiques{% end %} ; ce qui suit est celui de Biglino,
 cité à la longueur qu'il mérite.
 
-**Élohim.** Le substantif grammaticalement pluriel
+**Élohim.** Le substantif de forme plurielle
 (<span class="hebrew">אֱלֹהִים</span>) que les Bibles conventionnelles
 rendent par un « Dieu » singulier est, pour Biglino, tout le scandale en
 un seul mot. Sa conclusion, après un chapitre passé simplement à compter
@@ -455,7 +455,7 @@ laissez-passer d'un allié, ni le ricanement que lui adressent des
 recenseurs qui ont lu sa réputation plutôt que ses livres. Son terrain se
 divise en trois zones.
 
-**Le roc.** La pluralité grammaticale d'*elohim* ; les verbes et pronoms
+**Le roc.** La forme plurielle d'*elohim* ; les verbes et pronoms
 pluriels qui s'y accrochent aux jointures porteuses ; les scènes du
 conseil divin ; la leçon de Qumrân sur Deutéronome 32,8 ; le sens
 racinaire de *kavod* comme lourdeur ; les sens premiers concrets de

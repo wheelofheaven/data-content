@@ -99,7 +99,7 @@ summary = "品牌资源、样板文案、概览、调色板与字体——记者
     <ul>
       <li><s>WHEEL OF HEAVEN</s>——全大写仅留作品牌徽章</li>
       <li><s>wheelofheaven</s>——连写会降低可读性</li>
-      <li><s>The Elohim is…</s>——该名词在语法上为复数</li>
+      <li><s>The Elohim is…</s>——本站将这一形式上为复数的名词读作一个集体</li>
       <li><s>Raelian</s>、<s>Raelism</s>——保留分音符</li>
       <li><s>教义</s>、<s>理论</s>、<s>信仰体系</s>——请说<em>解读</em></li>
       <li><s>远古外星人</s>、<s>秘史</s>——这是我们并不认同的别种框架</li>

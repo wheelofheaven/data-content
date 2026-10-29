@@ -100,7 +100,7 @@ El sitio es gratuito, consciente de sus fuentes y construido para que la obra pu
     <ul>
       <li><s>WHEEL OF HEAVEN</s> — las mayúsculas se reservan para el distintivo de marca</li>
       <li><s>wheelofheaven</s> — pegarlo todo junto reduce la legibilidad</li>
-      <li><s>El Elohim es…</s> — el sustantivo es gramaticalmente plural</li>
+      <li><s>El Elohim es…</s> — el corpus lee el sustantivo de forma plural como un colectivo</li>
       <li><s>Raeliano</s> sin diéresis, <s>raelismo</s> sin diéresis — conserve la diéresis</li>
       <li><s>doctrina</s>, <s>teoría</s>, <s>sistema de creencias</s> — diga <em>lectura</em></li>
       <li><s>alienígenas antiguos</s>, <s>historia secreta</s> — encuadres distintos que no compartimos</li>

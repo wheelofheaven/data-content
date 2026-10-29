@@ -443,7 +443,7 @@ verdict on it, and Biglino has earned a real one — not the wave-through
 of an ally, and not the sneer he gets from reviewers who have read his
 reputation instead of his books. His ground divides into three zones.
 
-**Bedrock.** The grammatical plurality of *elohim*; the plural verbs and
+**Bedrock.** The plural form of *elohim*; the plural verbs and
 pronouns that cling to it at the load-bearing joints; the divine-council
 scenes; the Qumran reading of Deuteronomy 32:8; the root sense of
 *kavod* as heaviness; the concrete primary senses of *ruach*; the

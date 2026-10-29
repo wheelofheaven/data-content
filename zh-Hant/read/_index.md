@@ -24,3 +24,9 @@ Wheel of Heaven 是對一個古老故事的長篇閱讀——一個由眾多傳�
 每一頁都附有一個小徽章，標示其主要主張屬於**直接（direct）**、**框架（framework）**、**推論（inferred）**或**思辨（speculative）**——誠實地說明你正在閱讀的是哪一類陳述。
 
 目標是清晰，而非確定。若證據改變，閱讀也隨之改變。
+
+## 實踐中的方法 {#method-in-practice}
+
+初來乍到？[從這裡開始：十分鐘](/zh-Hant/start/)細讀《創世記》的一節經文，並將對這一閱讀最有力的反對意見並列其旁。
+
+若要看完整篇幅的方法，[《桑迪與雷爾〈訊息〉》](/zh-Hant/articles/sendy-and-the-raelian-messages/)逐段比較第一部雷爾派著作與讓·桑迪較早的作品，並權衡借用之說。[神聖議會索引](/datasets/divine-council-index/)列出十二個傳統中的神聖議會及其出處位置，提供 CSV 與 JSON 格式，可自由查驗與重複使用。所有[資料集](/datasets/)皆以 CC0 釋出。

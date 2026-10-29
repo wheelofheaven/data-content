@@ -32,7 +32,7 @@ question = "What is the working hypothesis?"
 answer = """
 The hypothesis has five interconnected parts:
 
-1. **The *Elohim* of Genesis are a literal plural.** The Hebrew word is grammatically a plural noun. The corpus reads it at face value — the figures who created humanity were a group of beings, not a single deity.
+1. **The *Elohim* of Genesis are a literal plural.** The Hebrew word is plural in form, and the text speaks in the plural around it at key moments. The corpus reads it at face value — the figures who created humanity were a group of beings, not a single deity.
 2. **The Elohim are an advanced human civilization, not supernatural beings.** They were biologically related to humanity, technologically far in advance, and engaged in a deliberate scientific project on Earth.
 3. **What we have inherited as religion is the long memory of their work.** The religious traditions of humanity preserve, in compressed and often mystified form, an accurate historical record of the Elohim civilization's interventions across approximately twenty-two thousand years.
 4. **The work was organized along the precessional cycle.** The slow ~25,920-year wobble of Earth's axis is the calendar that records the project. Twelve ages of approximately 2,160 years each subdivide the Great Year.
@@ -161,7 +161,7 @@ The boundaries between ages are set by equal divisions of the zodiac (the IAU as
 slug = "what-does-elohim-mean"
 question = 'What does "Elohim" mean, and why does the project read it as plural?'
 answer = """
-*Elohim* (אֱלֹהִים) is the Hebrew word that conventional Bibles translate as "God." Grammatically, it's a plural noun — the *-im* ending is the standard Hebrew plural marker, the same one that pluralizes other masculine nouns (*cherub* / *cherubim*, *seraph* / *seraphim*).
+*Elohim* (אֱלֹהִים) is the Hebrew word that conventional Bibles translate as "God." In form, it's a plural noun — the *-im* ending is the standard Hebrew plural marker, the same one that pluralizes other masculine nouns (*cherub* / *cherubim*, *seraph* / *seraphim*). When it names the God of Israel it usually takes a singular verb (Genesis 1:1 opens with *bara*, "he created"), and that singular agreement is the main support for reading it as one being.
 
 Conventional Christian and Jewish theology reads the plural as either a "majestic plural" (a single deity addressed in plural for grandeur, similar to the royal "we") or as a placeholder for the Trinity. The corpus reads it at face value: the plural *Elohim* refers to multiple beings.
 

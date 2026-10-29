@@ -46,3 +46,16 @@ Art von Aussage Sie gerade lesen.
 
 Das Ziel ist Klarheit, nicht Gewissheit. Wenn die Beweislage sich verschiebt,
 verschiebt sich die Lektüre.
+
+## Die Methode in der Praxis {#method-in-practice}
+
+Neu hier? [Hier beginnen: zehn Minuten](/de/start/) liest einen Vers der Genesis
+genau, mit dem stärksten Einwand gegen die Lesart daneben.
+
+Die Methode in voller Länge zeigt [Sendy und die raëlianischen
+Botschaften](/de/articles/sendy-and-the-raelian-messages/): Der Artikel vergleicht das erste
+raëlianische Buch Passage für Passage mit Jean Sendys früherem Werk und wägt
+die Argumente für eine Entlehnung ab. Der [Index des göttlichen Rates](/datasets/divine-council-index/)
+verzeichnet göttliche Ratsversammlungen aus zwölf Traditionen mit Quellenangaben,
+in CSV und JSON, frei zu prüfen und weiterzuverwenden. Alle [Datensätze](/datasets/) sind
+unter CC0 veröffentlicht.

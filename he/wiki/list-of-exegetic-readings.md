@@ -97,7 +97,7 @@ The catalogue below is organised by category rather than alphabetically, since t
 
 | Term | Framework reading | Source |
 |---|---|---|
-| **[Elohim](../elohim/)** (אֱלֹהִים) | The non-terrestrial creator civilisation that designed and synthesised terrestrial life across the Earth project; grammatically plural in Hebrew, the term preserves the council-civilisation structure of the actual referent | Sendy; Vorilhon; Biglino |
+| **[Elohim](../elohim/)** (אֱלֹהִים) | The non-terrestrial creator civilisation that designed and synthesised terrestrial life across the Earth project; plural in form in Hebrew, the term preserves the council-civilisation structure of the actual referent | Sendy; Vorilhon; Biglino |
 | **[Genesis](../genesis/)** (creation account) | The compressed operational record of the Earth project's seven-phase work programme, from initial planetary survey (*yom* 1) through biological synthesis of humanity (*yom* 6) to the seventh-day cessation of active synthesis (*yom* 7); covers approximately half a Great Year (c. 21,810 – 11,375 BCE) in precessional-age units | Vorilhon; Sendy |
 | **Heaven** (שָׁמַיִם, *shamayim*) | The originating location of the Elohim civilisation — their home planet or planetary system — rather than a metaphysical realm; the term preserves the directional sense (above, sky) appropriate to the literal arrival pattern | Sendy; Vorilhon |
 | **The firmament** (רָקִיעַ, *raqia*) | The atmospheric engineering of *yom* 2 — the deliberate establishment of Earth's atmospheric envelope and the separation of surface waters from atmospheric water as part of the terraforming phase | Sendy; corpus synthesis |

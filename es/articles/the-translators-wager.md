@@ -243,7 +243,7 @@ corpus mantiene su propio {% wiki(slug="list-of-etymological-readings") %}catál
 de lecturas etimológicas{% end %}; lo que sigue es el de Biglino, citado
 en la extensión que merece.
 
-**Elohim.** El sustantivo gramaticalmente plural
+**Elohim.** El sustantivo de forma plural
 (<span class="hebrew">אֱלֹהִים</span>) que las Biblias convencionales
 vierten como un «Dios» singular es, para Biglino, todo el escándalo en una
 palabra. Su conclusión tras un capítulo dedicado sencillamente a contar
@@ -447,7 +447,7 @@ salvoconducto de un aliado, ni el desdén que recibe de reseñadores que
 han leído su reputación en lugar de sus libros—. Su terreno se divide en
 tres zonas.
 
-**Roca firme.** La pluralidad gramatical de *elohim*; los verbos y
+**Roca firme.** La forma plural de *elohim*; los verbos y
 pronombres plurales que se le adhieren en las junturas portantes; las
 escenas del consejo divino; la lectura de Qumrán en Deuteronomio 32:8; el
 sentido radical de *kavod* como pesadez; los sentidos primarios concretos

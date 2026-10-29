@@ -99,7 +99,7 @@ The site is free, source-aware, and built so the work can be checked. Every entr
     <ul>
       <li><s>WHEEL OF HEAVEN</s> — 全大文字はブランドチップ専用</li>
       <li><s>wheelofheaven</s> — 続けて書くと可読性が落ちる</li>
-      <li><s>The Elohim is…</s> — 文法的に複数形の名詞</li>
+      <li><s>The Elohim is…</s> — コーパスはこの複数形の名詞を集合体として読む</li>
       <li><s>Raelian</s>、<s>Raelism</s> — ウムラウトを保持</li>
       <li><s>教義（doctrine）</s>、<s>理論（theory）</s>、<s>信仰体系（belief system）</s> — 「<em>読解（reading）</em>」と呼ぶ</li>
       <li><s>ancient aliens</s>、<s>secret history</s> — 私たちが共有しない別個の枠組み</li>

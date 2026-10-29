@@ -245,7 +245,7 @@ Das Werk unterhält seinen eigenen
 Lesarten{% end %}; was folgt, ist der Biglinos, zitiert in der Länge, die er
 verdient.
 
-**Elohim.** Das grammatisch plurale Substantiv
+**Elohim.** Das der Form nach plurale Substantiv
 (<span class="hebrew">אֱלֹהִים</span>), das herkömmliche Bibeln als ein
 singularisches „Gott" wiedergeben, ist für Biglino der ganze Skandal in einem
 Wort. Seine Schlussfolgerung nach einem Kapitel, das er allein damit
@@ -450,7 +450,7 @@ Durchwinken eines Verbündeten und nicht die Verachtung, die er von Rezensenten
 erntet, die seinen Ruf statt seiner Bücher gelesen haben. Sein Terrain teilt
 sich in drei Zonen.
 
-**Felsgrund.** Die grammatische Pluralität von *elohim*; die pluralen Verben
+**Felsgrund.** Die Pluralform von *elohim*; die pluralen Verben
 und Pronomen, die an den tragenden Fugen an ihm haften; die Szenen des
 göttlichen Rates; die Qumran-Lesart von Deuteronomium 32,8; die Wurzelbedeutung
 von *kavod* als Schwere; die konkreten primären Bedeutungen von *ruach*; das

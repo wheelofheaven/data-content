@@ -99,7 +99,7 @@ The site is free, source-aware, and built so the work can be checked. Every entr
     <ul>
       <li><s>WHEEL OF HEAVEN</s> — אותיות גדולות שמורות לתג המותג</li>
       <li><s>wheelofheaven</s> — מיזוג מוריד מקריאוּת</li>
-      <li><s>האלוהים הוא…</s> — שם העצם דקדוקית ברבים</li>
+      <li><s>האלוהים הוא…</s> — הקורפוס קורא את שם העצם שצורתו רבים כקולקטיב</li>
       <li><s>Raelian</s>, <s>Raelism</s> — שמרו על האומלאוט</li>
       <li><s>דוקטרינה</s>, <s>תאוריה</s>, <s>מערכת אמונות</s> — אמרו <em>קריאה</em></li>
       <li><s>חייזרים קדמונים</s>, <s>היסטוריה סודית</s> — מסגורים שונים שאיננו שותפים להם</li>

@@ -32,7 +32,7 @@ question = "Quelle est l'hypothèse de travail ?"
 answer = """
 L'hypothèse comporte cinq parties interconnectées :
 
-1. **Les *Elohim* de la Genèse sont un pluriel littéral.** Le mot hébreu est grammaticalement un nom pluriel. Le corpus le lit au pied de la lettre — les figures qui ont créé l'humanité étaient un groupe d'êtres, non une divinité unique.
+1. **Les *Elohim* de la Genèse sont un pluriel littéral.** Le mot hébreu est pluriel par sa forme, et aux moments clés le texte parle au pluriel autour de lui. Le corpus le lit au pied de la lettre — les figures qui ont créé l'humanité étaient un groupe d'êtres, non une divinité unique.
 2. **Les Elohim sont une civilisation humaine avancée, non des êtres surnaturels.** Ils étaient biologiquement apparentés à l'humanité, technologiquement bien plus avancés, et engagés dans un projet scientifique délibéré sur Terre.
 3. **Ce que nous avons hérité comme religion est la longue mémoire de leur travail.** Les traditions religieuses de l'humanité préservent, sous forme compressée et souvent mystifiée, un témoignage historique précis des interventions de la civilisation des Elohim sur environ vingt-deux mille ans.
 4. **Le travail était organisé selon le cycle précessionnel.** L'oscillation lente d'environ 25 920 ans de l'axe terrestre est le calendrier qui enregistre le projet. Douze âges d'environ 2 160 ans chacun subdivisent la Grande Année.
@@ -161,7 +161,7 @@ Les frontières entre âges sont fixées par divisions égales du zodiaque (les 
 slug = "what-does-elohim-mean"
 question = 'Que signifie « Elohim », et pourquoi le projet le lit-il au pluriel ?'
 answer = """
-*Elohim* (אֱלֹהִים) est le mot hébreu que les Bibles conventionnelles traduisent par « Dieu ». Grammaticalement, c'est un nom pluriel — la terminaison *-im* est le marqueur pluriel hébreu standard, le même qui met au pluriel d'autres noms masculins (*cherub* / *cherubim*, *seraph* / *seraphim*).
+*Elohim* (אֱלֹהִים) est le mot hébreu que les Bibles conventionnelles traduisent par « Dieu ». Par sa forme, c'est un nom pluriel — la terminaison *-im* est le marqueur pluriel hébreu standard, le même qui met au pluriel d'autres noms masculins (*cherub* / *cherubim*, *seraph* / *seraphim*). Lorsqu'il désigne le Dieu d'Israël, il prend généralement un verbe au singulier (Genèse 1:1 s'ouvre sur *bara*, « il créa »), et cet accord au singulier est le principal appui de la lecture qui y voit un seul être.
 
 La théologie chrétienne et juive conventionnelle lit le pluriel soit comme un « pluriel de majesté » (une divinité unique adressée au pluriel pour la grandeur, similaire au « nous » royal), soit comme un substitut pour la Trinité. Le corpus le lit au pied de la lettre : le pluriel *Elohim* renvoie à des êtres multiples.
 

@@ -99,7 +99,7 @@ Die Seite ist frei, quellenbewusst und so aufgebaut, dass die Arbeit überprüfb
     <ul>
       <li><s>WHEEL OF HEAVEN</s> — Versalien bleiben dem Marken-Chip vorbehalten</li>
       <li><s>wheelofheaven</s> — Zusammenschreibung mindert die Lesbarkeit</li>
-      <li><s>Die Elohim ist…</s> — das Substantiv ist grammatisch Plural</li>
+      <li><s>Die Elohim ist…</s> — der Korpus liest das Substantiv pluralischer Form als Kollektiv</li>
       <li><s>Raelian</s>, <s>Raelismus</s> — Trema beibehalten</li>
       <li><s>Doktrin</s>, <s>Theorie</s>, <s>Glaubenssystem</s> — sagen Sie <em>Lesart</em></li>
       <li><s>Ancient Aliens</s>, <s>geheime Geschichte</s> — eigenständige Rahmungen, die wir nicht teilen</li>

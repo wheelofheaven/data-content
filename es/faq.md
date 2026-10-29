@@ -32,7 +32,7 @@ question = "¿Cuál es la hipótesis de trabajo?"
 answer = """
 La hipótesis tiene cinco partes interconectadas:
 
-1. **Los *Elohim* del Génesis son un plural literal.** La palabra hebrea es gramaticalmente un sustantivo plural. El corpus la lee tal cual — las figuras que crearon a la humanidad fueron un grupo de seres, no una única deidad.
+1. **Los *Elohim* del Génesis son un plural literal.** La palabra hebrea es plural en su forma, y en momentos clave el texto habla en plural a su alrededor. El corpus la lee tal cual — las figuras que crearon a la humanidad fueron un grupo de seres, no una única deidad.
 2. **Los Elohim son una civilización humana avanzada, no seres sobrenaturales.** Estaban biológicamente emparentados con la humanidad, eran tecnológicamente muy avanzados y se dedicaron a un proyecto científico deliberado en la Tierra.
 3. **Lo que hemos heredado como religión es la larga memoria de su obra.** Las tradiciones religiosas de la humanidad preservan, en forma comprimida y a menudo mistificada, un registro histórico exacto de las intervenciones de la civilización Elohim a lo largo de aproximadamente veintidós mil años.
 4. **La obra se organizó a lo largo del ciclo precesional.** La lenta oscilación de unos 25 920 años del eje terrestre es el calendario que registra el proyecto. Doce edades de aproximadamente 2160 años cada una subdividen el Gran Año.
@@ -161,7 +161,7 @@ Las fronteras entre edades se establecen mediante divisiones iguales del zodíac
 slug = "what-does-elohim-mean"
 question = '¿Qué significa «Elohim», y por qué el proyecto lo lee como plural?'
 answer = """
-*Elohim* (אֱלֹהִים) es la palabra hebrea que las Biblias convencionales traducen como «Dios». Gramaticalmente, es un sustantivo plural — la terminación *-im* es el marcador estándar del plural hebreo, el mismo que pluraliza otros sustantivos masculinos (*querub* / *querubim*, *seraf* / *serafim*).
+*Elohim* (אֱלֹהִים) es la palabra hebrea que las Biblias convencionales traducen como «Dios». En su forma, es un sustantivo plural — la terminación *-im* es el marcador estándar del plural hebreo, el mismo que pluraliza otros sustantivos masculinos (*querub* / *querubim*, *seraf* / *serafim*). Cuando designa al Dios de Israel, suele llevar un verbo en singular (Génesis 1:1 comienza con *bara*, «él creó»), y esa concordancia en singular es el principal apoyo para leerlo como un solo ser.
 
 La teología cristiana y judía convencional lee el plural bien como un «plural mayestático» (una única deidad tratada en plural por grandeza, similar al «nos» real) bien como un marcador de la Trinidad. El corpus lo lee tal cual: el plural *Elohim* se refiere a múltiples seres.
 

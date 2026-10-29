@@ -15,7 +15,7 @@ cta_label = "Ouvrir la chronologie"
 
 ## Une hypothèse, lue de près
 
-Wheel of Heaven est une lecture unique et soutenue des traditions de création du monde ancien, tenue ensemble par une hypothèse de travail unique : que les êtres que la Bible hébraïque appelle [*Elohim*](/fr/wiki/elohim/) — un nom grammaticalement pluriel que la traduction a longtemps aplati au singulier « Dieu » — étaient une petite civilisation humaine technologiquement avancée venue d'ailleurs, qui est venue sur Terre, l'a préparée, y a conçu la vie, et a laissé un témoignage de ce travail dans les textes religieux.
+Wheel of Heaven est une lecture unique et soutenue des traditions de création du monde ancien, tenue ensemble par une hypothèse de travail unique : que les êtres que la Bible hébraïque appelle [*Elohim*](/fr/wiki/elohim/) — un nom de forme plurielle que la traduction a longtemps aplati au singulier « Dieu » — étaient une petite civilisation humaine technologiquement avancée venue d'ailleurs, qui est venue sur Terre, l'a préparée, y a conçu la vie, et a laissé un témoignage de ce travail dans les textes religieux.
 
 Cette phrase constitue la totalité de ce que le projet demande au lecteur d'envisager. Tout le reste — les douze âges, la mythologie comparée, le détail philologique, la chronologie [précessionnelle](/fr/wiki/precession/) — est l'élaboration de cette unique hypothèse face aux preuves subsistantes. La méthode est la discipline qui garde cette élaboration honnête : comment la lecture est cadrée, à partir de quoi elle lit, et comment elle marque la différence entre ce qu'une source dit et ce que le projet infère.
 
@@ -35,6 +35,18 @@ Cela signifie que la lecture est provisoire. Les pages sont révisées, le cadre
 
 Un credo demande l'assentiment ; une hypothèse demande à être éprouvée. La méthode est bâtie pour être éprouvée.
 
+## Ce qui changerait la lecture
+
+Une hypothèse que rien ne pourrait réviser serait un credo sous un autre nom ; le projet consigne donc, affirmation par affirmation, ce qui l'amènerait à changer d'avis.
+Chaque affirmation fondatrice possède une fiche dans le [noyau de recherche](https://github.com/wheelofheaven/core) du projet, qui expose les lectures concurrentes dans leur version la plus forte et les découvertes qui déclencheraient une révision.
+Les pages qui reposent sur ces affirmations résument ces conditions en termes simples ; l'article [Élohim](/fr/wiki/elohim/#what-would-revise-this-reading) sert de modèle.
+
+Les conditions diffèrent selon le type d'affirmation.
+Une lecture philologique est révisée lorsque le texte s'avère dire autre chose : un meilleur témoin manuscrit, une construction parallèle ailleurs en hébreu, une grammaire qui explique le passage plus simplement.
+Une lecture comparative est révisée lorsque deux traditions que le projet tenait pour indépendantes s'avèrent partager une source.
+Une date est révisée lorsque son point d'ancrage se déplace.
+Les prémisses du cadre, les affirmations étiquetées *cadre*, appartiennent au canon lui-même ; le projet les énonce directement et le signale, sans prétendre que la philologie les prouve.
+
 ## Chaque affirmation est marquée
 
 L'instrument le plus concret de la méthode est le petit badge situé près du haut de presque chaque page, qui étiquette l'affirmation principale de cette page comme relevant de l'une de quatre catégories :
@@ -43,6 +55,8 @@ L'instrument le plus concret de la méthode est le petit badge situé près du h
 - {{ claim_badge(type="framework") }} — l'affirmation est une prémisse fondatrice de la lecture Wheel of Heaven, explicite dans le canon raëlien mais non endossée par l'érudition dominante. L'hypothèse des Elohim elle-même se situe ici.
 - {{ claim_badge(type="inferred") }} — l'affirmation est une lecture raisonnable d'une source, non littéralement énoncée mais compatible avec elle.
 - {{ claim_badge(type="speculative") }} — l'affirmation est une synthèse interprétative qui va au-delà de ce qu'énonce une source unique.
+
+Le badge nomme l'affirmation principale d'une page. Les longues pages contiennent des affirmations de plusieurs types ; la prose les marque donc aussi là où elles apparaissent, en attribuant chacune, selon le cas, à la source, à l'érudition ou à la lecture de Wheel of Heaven.
 
 Le but des étiquettes est la transparence intellectuelle. Un lecteur ne devrait jamais avoir à deviner si une phrase rapporte un fait, énonce une prémisse du cadre, ou hasarde une interprétation. Le spéculatif n'est pas un aveu de faiblesse ; c'est une étiquette honnête, et le projet préfère marquer une lecture audacieuse comme spéculative plutôt que de la déguiser en fait établi.
 
@@ -53,6 +67,16 @@ Le corpus est construit autour des textes primaires qu'il lit, non autour de leu
 Les sources sont organisées selon leur rapport à la lecture plutôt que traitées comme un amas indifférencié. Le canon raëlien est le palier interprétatif ; les textes primaires anciens, l'érudition qualifiée, les travaux scientifiques et historiques, les traditions comparatives et les objections critiques occupent chacun leur propre palier et sont lus pour ce qu'ils sont. Les nouvelles entrées visent à s'appuyer sur un éventail de ceux-ci — canon, primaire ancien, érudit, scientifique, comparatif et critique — afin qu'une affirmation ne repose pas sur une source unique et complaisante. Le matériau sceptique et critique est porté dans sa propre voix, non paraphrasé jusqu'à la faiblesse.
 
 Derrière une grande partie de cela se trouve un appareil de traduction opérationnel : le projet maintient ses propres traductions au niveau du passage des textes-sources clés, avec un commentaire verset par verset et un glossaire partagé, afin qu'un lecteur puisse voir exactement où un poids interprétatif est placé et le vérifier face à l'original.
+
+## La méthode à l'œuvre
+
+Trois travaux montrent la méthode le plus complètement, et chacun est utile même à un lecteur qui rejette l'hypothèse.
+
+- [Sendy et les Messages raéliens](/fr/articles/sendy-and-the-raelian-messages/) compare passage par passage les livres de Jean Sendy des années 1960 avec le premier Message raëlien, établit quels parallèles sont étroits et lesquels ne le sont pas, et pèse la possibilité que le Message ait emprunté à Sendy. L'article dit aussi ce que la comparaison ne peut trancher : plusieurs des éditions examinées sont des rééditions tardives, et des traductions anglaises dues à des traducteurs différents ne peuvent pas établir une identité de formulation entre les deux auteurs.
+- L'[Index des conseils divins](/datasets/divine-council-index/) recense dix-sept attestations de conseils divins dans douze traditions, avec la localisation des sources, les critères de sélection et un compte rendu des valeurs manquantes, en CSV et en JSON. Un lecteur peut vérifier chaque ligne face à sa source et réutiliser le tableau sous licence CC0.
+- Les traductions de la [bibliothèque](/fr/library/) impriment le texte original à côté de la traduction, avec une note sur chaque mot contesté, afin qu'un lecteur puisse voir où un choix interprétatif a été fait et le renverser.
+
+Une comparaison peut être exacte alors que l'explication historique construite sur elle est fausse. Le projet s'efforce de rendre les deux faciles à juger séparément.
 
 ## La colonne précessionnelle
 

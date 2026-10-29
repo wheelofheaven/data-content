@@ -20,7 +20,7 @@ see_also = [
     { title = "Biglino Method", path = "wiki/biglino-method", description = "The strict-literal hermeneutic named after him — three commitments and the 'facciamo finta che' wager; the corpus's full methodological treatment." },
     { title = "Neo-euhemerism", path = "wiki/neo-euhemerism", description = "The umbrella tradition — gods as remembered visitors — in which the corpus places Sendy, Biglino, Wallis, and itself." },
     { title = "Paul Wallis", path = "wiki/paul-wallis", description = "The 'principal Anglophone popularizer of the Biglino-adjacent approach'; the two blurb each other's books and appear together on camera." },
-    { title = "Elohim", path = "wiki/elohim", description = "The grammatical plural whose restoration is the foundation of Biglino's whole argument." },
+    { title = "Elohim", path = "wiki/elohim", description = "The plural-form name whose restoration is the foundation of Biglino's whole argument." },
     { title = "Yahweh", path = "wiki/yahweh", description = "The figure Biglino reads as one governor among the Elohim, assigned the small tribal allotment of Jacob." },
     { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "The Masoretic Text Biglino spent his professional career translating for a Catholic publisher." },
     { title = "Plurality of gods", path = "wiki/plurality-of-gods", description = "The multiple-divine-beings content — Psalm 82, Deuteronomy 32:8–9 — on which Biglino, the corpus, and mainstream divine-council scholarship all draw." },
@@ -323,7 +323,7 @@ critiques register legitimate limits of the method applied alone,
 while the standoff — scholars dismissing Biglino without engaging his
 specific observations, Biglino dismissing scholarship wholesale — is
 unhealthy for the interpretive conversation, since several of his
-observations (the grammatical plurality, the concreteness of the
+observations (the plural form, the concreteness of the
 theophany descriptions, the *bara* question) are ones the academy
 could productively engage on its own terms.
 

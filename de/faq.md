@@ -32,7 +32,7 @@ question = "Was ist die Arbeitshypothese?"
 answer = """
 Die Hypothese hat fünf miteinander verbundene Teile:
 
-1. **Die *Elohim* der Genesis sind ein wörtlicher Plural.** Das hebräische Wort ist grammatikalisch ein Plural-Nomen. Das Korpus liest es im Wortsinn — die Figuren, die die Menschheit schufen, waren eine Gruppe von Wesen, keine einzelne Gottheit.
+1. **Die *Elohim* der Genesis sind ein wörtlicher Plural.** Das hebräische Wort ist der Form nach ein Plural-Nomen, und an entscheidenden Stellen spricht der Text in seinem Umfeld im Plural. Das Korpus liest es im Wortsinn — die Figuren, die die Menschheit schufen, waren eine Gruppe von Wesen, keine einzelne Gottheit.
 2. **Die Elohim sind eine fortgeschrittene menschliche Zivilisation, keine übernatürlichen Wesen.** Sie waren biologisch mit der Menschheit verwandt, technologisch weit voraus und in ein bewusstes wissenschaftliches Projekt auf der Erde eingebunden.
 3. **Was wir als Religion geerbt haben, ist die lange Erinnerung an ihre Arbeit.** Die religiösen Traditionen der Menschheit bewahren in verdichteter und oft mystifizierter Form einen historisch genauen Bericht über die Eingriffe der Elohim-Zivilisation über etwa zweiundzwanzigtausend Jahre hinweg.
 4. **Das Werk wurde entlang des Präzessionszyklus organisiert.** Das langsame ~25.920-jährige Taumeln der Erdachse ist der Kalender, der das Projekt aufzeichnet. Zwölf Zeitalter von jeweils etwa 2.160 Jahren unterteilen das Große Jahr.
@@ -161,7 +161,7 @@ Die Grenzen zwischen den Zeitaltern werden durch Gleichteilung des Tierkreises g
 slug = "what-does-elohim-mean"
 question = 'Was bedeutet „Elohim", und warum liest das Projekt das Wort als Plural?'
 answer = """
-*Elohim* (אֱלֹהִים) ist das hebräische Wort, das herkömmliche Bibeln als „Gott" übersetzen. Grammatikalisch ist es ein Plural-Nomen — die Endung *-im* ist das standardmäßige hebräische Pluralzeichen, dasselbe, das auch andere maskuline Substantive pluralisiert (*Cherub* / *Cherubim*, *Seraph* / *Seraphim*).
+*Elohim* (אֱלֹהִים) ist das hebräische Wort, das herkömmliche Bibeln als „Gott" übersetzen. Der Form nach ist es ein Plural-Nomen — die Endung *-im* ist das standardmäßige hebräische Pluralzeichen, dasselbe, das auch andere maskuline Substantive pluralisiert (*Cherub* / *Cherubim*, *Seraph* / *Seraphim*). Wenn es den Gott Israels bezeichnet, steht es meist mit einem Verb im Singular (Genesis 1,1 beginnt mit *bara*, „er schuf"), und diese Kongruenz im Singular ist die Hauptstütze dafür, es als ein einziges Wesen zu lesen.
 
 Die herkömmliche christliche und jüdische Theologie liest den Plural entweder als „pluralis majestatis" (eine einzelne Gottheit, die zur Erhöhung im Plural angesprochen wird, ähnlich dem königlichen „Wir") oder als Platzhalter für die Dreifaltigkeit. Das Korpus liest ihn im Wortsinn: Der Plural *Elohim* bezieht sich auf mehrere Wesen.
 

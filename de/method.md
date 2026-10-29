@@ -15,7 +15,7 @@ cta_label = "Die Zeitleiste öffnen"
 
 ## Eine Hypothese, genau gelesen
 
-Wheel of Heaven ist eine einzige, durchgehaltene Lesart der Schöpfungstraditionen der antiken Welt, zusammengehalten von einer Arbeitshypothese: dass die Wesen, die die hebräische Bibel [*Elohim*](/de/wiki/elohim/) nennt — ein grammatisch pluraler Begriff, den die Übersetzung lange zum singularen „Gott" verflacht hat —, eine kleine, technologisch fortgeschrittene menschliche Zivilisation von anderswo waren, die zur Erde kam, sie vorbereitete, das Leben hier gestaltete und ein Zeugnis dieser Arbeit in den religiösen Texten hinterließ.
+Wheel of Heaven ist eine einzige, durchgehaltene Lesart der Schöpfungstraditionen der antiken Welt, zusammengehalten von einer Arbeitshypothese: dass die Wesen, die die hebräische Bibel [*Elohim*](/de/wiki/elohim/) nennt — ein der Form nach pluralisches Substantiv, das die Übersetzung lange zum singularen „Gott" verflacht hat —, eine kleine, technologisch fortgeschrittene menschliche Zivilisation von anderswo waren, die zur Erde kam, sie vorbereitete, das Leben hier gestaltete und ein Zeugnis dieser Arbeit in den religiösen Texten hinterließ.
 
 Dieser Satz ist alles, worum das Projekt einen Leser bittet, es in Betracht zu ziehen. Alles Übrige — die zwölf Zeitalter, die vergleichende Mythologie, die philologischen Einzelheiten, die [präzessionale](/de/wiki/precession/) Chronologie — ist die Ausarbeitung dieser einen Hypothese an den überlieferten Belegen. Die Methode ist die Disziplin, die diese Ausarbeitung redlich hält: wie die Lesart gerahmt ist, woraus sie liest und wie sie den Unterschied markiert zwischen dem, was eine Quelle sagt, und dem, was das Projekt daraus folgert.
 
@@ -35,6 +35,18 @@ Sie bedeutet, dass die Lesart vorläufig ist. Seiten werden überarbeitet, der R
 
 Ein Glaubenssatz verlangt Zustimmung; eine Hypothese verlangt, geprüft zu werden. Die Methode ist darauf angelegt, geprüft zu werden.
 
+## Was die Lesart ändern würde
+
+Eine Hypothese, die nichts revidieren könnte, wäre ein Glaubenssatz unter anderem Namen; deshalb hält das Projekt Aussage für Aussage fest, was es zu einer Revision bewegen würde.
+Jede grundlegende Aussage hat einen Eintrag im [Forschungskern](https://github.com/wheelofheaven/core) des Projekts, der die alternativen Lesarten in ihrer stärksten Form aufführt und die Befunde benennt, die eine Revision auslösen würden.
+Die Seiten, die auf diesen Aussagen beruhen, fassen die Bedingungen in einfachen Worten zusammen; der Eintrag [Elohim](/de/wiki/elohim/#was-diese-lesart-revidieren-wurde) dient als Vorbild.
+
+Die Bedingungen unterscheiden sich je nach Art der Aussage.
+Eine philologische Lesart wird revidiert, wenn sich herausstellt, dass der Text etwas anderes sagt: ein besserer Handschriftenzeuge, eine parallele Konstruktion an anderer Stelle im Hebräischen, eine Grammatik, die die Stelle einfacher erklärt.
+Eine vergleichende Lesart wird revidiert, wenn sich herausstellt, dass zwei Traditionen eine Quelle teilen, die das Projekt als unabhängig behandelt hat.
+Ein Datum wird revidiert, wenn sich sein Ankerpunkt verschiebt.
+Die Voraussetzungen des Rahmens, also die als *Rahmen* gekennzeichneten Aussagen, sind die des Kanons selbst; das Projekt formuliert sie direkt und sagt das auch, ohne zu behaupten, die Philologie beweise sie.
+
 ## Jede Aussage ist markiert
 
 Das konkreteste Instrument der Methode ist das kleine Etikett nahe dem oberen Rand nahezu jeder Seite, das die Hauptaussage dieser Seite als eine von vier Arten kennzeichnet:
@@ -43,6 +55,8 @@ Das konkreteste Instrument der Methode ist das kleine Etikett nahe dem oberen Ra
 - {{ claim_badge(type="framework") }} — die Aussage ist eine grundlegende Voraussetzung der Wheel-of-Heaven-Lesart, ausdrücklich im raëlianischen Kanon, aber von der etablierten Wissenschaft nicht anerkannt. Die Elohim-Hypothese selbst gehört hierher.
 - {{ claim_badge(type="inferred") }} — die Aussage ist eine vernünftige Lesart einer Quelle, nicht wörtlich formuliert, aber mit ihr vereinbar.
 - {{ claim_badge(type="speculative") }} — die Aussage ist eine interpretative Synthese, die über das hinausgeht, was irgendeine einzelne Quelle aussagt.
+
+Das Etikett benennt die Hauptaussage einer Seite. Lange Seiten enthalten Aussagen verschiedener Art, deshalb markiert auch der Text sie dort, wo sie auftreten, und schreibt jede je nach Fall der Quelle, der Forschung oder der Lesart von Wheel of Heaven zu.
 
 Der Zweck der Etiketten ist intellektuelle Transparenz. Ein Leser sollte niemals raten müssen, ob ein Satz eine Tatsache berichtet, eine Voraussetzung des Rahmens formuliert oder eine Deutung wagt. Spekulativ ist kein Eingeständnis von Schwäche; es ist ein ehrliches Etikett, und dem Projekt ist es lieber, eine kühne Lesart als spekulativ zu markieren, als sie als gesichert auszugeben.
 
@@ -53,6 +67,16 @@ Der Korpus ist um die primären Texte gebaut, aus denen er liest, nicht um Zusam
 Die Quellen sind nach ihrem Verhältnis zur Lesart geordnet, statt als undifferenzierter Haufen behandelt zu werden. Der raëlianische Kanon ist die interpretative Ebene; antike Primärtexte, ausgewiesene Wissenschaft, wissenschaftliche und historische Arbeiten, vergleichende Traditionen und kritische Einwände nehmen jeweils ihre eigene Ebene ein und werden gelesen als das, was sie sind. Neue Einträge streben danach, auf einer Bandbreite dieser Ebenen zu stehen — Kanon, antike Primärquelle, wissenschaftlich, naturwissenschaftlich, vergleichend und kritisch —, damit eine Aussage nicht auf einer einzigen gefälligen Quelle ruht. Skeptisches und kritisches Material wird in seiner eigenen Stimme geführt, nicht in Schwäche umformuliert.
 
 Hinter vielem davon steht ein funktionierender Übersetzungsapparat: Das Projekt pflegt eigene stellengenaue Übersetzungen zentraler Quellentexte, mit versweisem Kommentar und einem gemeinsamen Glossar, sodass ein Leser genau sehen kann, wo ein interpretatives Gewicht gesetzt wird, und es am Original prüfen kann.
+
+## Die Methode bei der Arbeit
+
+Drei Arbeiten zeigen die Methode am vollständigsten, und jede ist auch für einen Leser nützlich, der die Hypothese ablehnt.
+
+- [Sendy und die raëlianischen Botschaften](/de/articles/sendy-and-the-raelian-messages/) vergleicht Jean Sendys Bücher aus den 1960er-Jahren Passage für Passage mit der ersten raëlianischen Botschaft, legt dar, welche Parallelen eng sind und welche nicht, und wägt die Möglichkeit ab, dass die Botschaft von Sendy übernommen hat. Der Artikel benennt, was der Vergleich nicht entscheiden kann: Mehrere der geprüften Ausgaben sind spätere Neuauflagen, und englische Wiedergaben verschiedener Übersetzer können keinen identischen Wortlaut zwischen den beiden Autoren belegen.
+- Der [Index des göttlichen Rates](/datasets/divine-council-index/) verzeichnet siebzehn Belege göttlicher Ratsversammlungen aus zwölf Traditionen, mit Quellenangaben, Auswahlkriterien und einer Erläuterung der fehlenden Werte, in CSV und JSON. Ein Leser kann jede Zeile an ihrer Quelle prüfen und die Tabelle unter CC0 weiterverwenden.
+- Die Übersetzungen der [Bibliothek](/de/library/) drucken den Originaltext neben der Übersetzung, mit einer Anmerkung zu jedem umstrittenen Wort, sodass ein Leser sehen kann, wo eine interpretative Entscheidung getroffen wurde, und sie rückgängig machen kann.
+
+Ein Vergleich kann zutreffen, während die historische Erklärung, die auf ihm aufbaut, falsch ist. Das Projekt versucht, beides leicht getrennt beurteilbar zu machen.
 
 ## Das präzessionale Rückgrat
 

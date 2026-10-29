@@ -99,7 +99,7 @@ Le site est libre, attentif à ses sources, et bâti pour que le travail puisse 
     <ul>
       <li><s>WHEEL OF HEAVEN</s> — les capitales sont réservées à la pastille de marque</li>
       <li><s>wheelofheaven</s> — tout coller nuit à la lisibilité</li>
-      <li><s>L'Élohim est…</s> — le nom est grammaticalement pluriel</li>
+      <li><s>L'Élohim est…</s> — le corpus lit ce nom de forme plurielle comme un collectif</li>
       <li><s>Raelien</s>, <s>raelisme</s> — conserver le tréma</li>
       <li><s>doctrine</s>, <s>théorie</s>, <s>système de croyances</s> — dire <em>lecture</em></li>
       <li><s>anciens extraterrestres</s>, <s>histoire secrète</s> — cadrages distincts que nous ne partageons pas</li>

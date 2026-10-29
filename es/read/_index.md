@@ -46,3 +46,16 @@ sobre qué tipo de enunciado estás leyendo.
 
 El objetivo es la claridad, no la certeza. Si la evidencia cambia, la
 lectura cambia.
+
+## El método en la práctica {#method-in-practice}
+
+¿Eres nuevo aquí? [Empieza aquí: diez minutos](/es/start/) lee de cerca un
+versículo del Génesis, con la objeción más sólida a la lectura a su lado.
+
+Para el método en toda su extensión, [Sendy y los Mensajes
+raelianos](/es/articles/sendy-and-the-raelian-messages/) compara pasaje por
+pasaje el primer libro raeliano con la obra anterior de Jean Sendy y sopesa
+los argumentos a favor del préstamo. El [Índice del Consejo Divino](/datasets/divine-council-index/)
+enumera consejos divinos en doce tradiciones con la ubicación en las fuentes,
+en CSV y JSON, libre para verificar y reutilizar. Todos los
+[conjuntos de datos](/datasets/) se publican bajo CC0.
