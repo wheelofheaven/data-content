@@ -20,7 +20,7 @@ body = "Every page of the corpus, every primary source it reads, and every piece
 [[extra.commitments]]
 slug = "hypothesis"
 title = "A working hypothesis, not a creed"
-body = "The project's central reading — that the Elohim were a civilization — is held as a hypothesis to be tried, not a doctrine to be defended. Every page carries a small badge labeling its main claim as direct, inferred, or speculative. Where the evidence shifts, the reading shifts."
+body = "The project's central reading — that the Elohim were a civilization — is held as a hypothesis to be tried, not a doctrine to be defended. Every page carries a small badge labeling its main claim as direct, framework, inferred, or speculative. Where the evidence shifts, the reading shifts."
 
 [[extra.commitments]]
 slug = "sources"
@@ -31,11 +31,16 @@ body = "The corpus is built around the primary texts it reads from. Where a clai
 slug = "comparison"
 title = "Compare boldly, but never lazily"
 body = "The corpus reads many traditions alongside each other, but it does not flatten them into a single story. Mesopotamian, biblical, Vedic, Mesoamerican, and Raëlian sources are read in dialogue, with their differences preserved. A shared motif is not a proof of common origin; a parallel is not an identity."
+
+[[extra.commitments]]
+slug = "dissent"
+title = "Useful to a reader who disagrees"
+body = "A reader can reject the historical hypothesis and still use the work: the located parallel passages, the translation choices with their originals, the edition comparisons, the open datasets. Whether two texts resemble each other and why they do are separate questions, and the corpus keeps them separate."
 +++
 
 ## A long reading
 
-Wheel of Heaven is a reading of the ancient world's creation traditions through a single working hypothesis: that the beings the Hebrew Bible calls *Elohim* — a plural noun, masked by translation as the singular "God" — were a small advanced human civilization from elsewhere who came here, prepared the planet, designed life on Earth, and left a record in the religious texts.
+Wheel of Heaven is an independent comparative study of the world's creation traditions, written from an explicitly Raëlian reading. Its working hypothesis is that the beings the Hebrew Bible calls *Elohim* — a word plural in form, though usually construed with singular verbs — were a small advanced human civilization from elsewhere who came here, prepared the planet, designed life on Earth, and left a record in the religious texts.
 
 The reading runs across twelve ages of the precessional cycle, from the project's beginning approximately twenty-two thousand years ago, through the long sequence of design and intervention recorded in the religious traditions, and into the present age of disclosure that the corpus argues we are now inside. The corpus's [twelve main chapters](/timeline/) walk this arc in sequence.
 

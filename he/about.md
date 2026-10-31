@@ -6,33 +6,38 @@ template = "about.html"
 [extra]
 claim_type = "direct"
 editorial_pass = "2026-05"
-summary = "Wheel of Heaven is a long working-out of one specific reading of the ancient creation traditions, conducted across many years and now opened to public engagement."
+summary = "Wheel of Heaven הוא עיבוד ארוך של קריאה אחת מסוימת של מסורות הבריאה הקדומות, שנעשה במשך שנים רבות ונפתח כעת לעיון הציבור."
 
 # The four commitments — rendered as a labeled block by the template.
 [[extra.commitments]]
 slug = "free"
-title = "The work should be free to read and free to check"
-body = "Every page of the corpus, every primary source it reads, and every piece of project infrastructure is publicly available, in multiple languages, at no cost. The reader who wants to evaluate a claim should not encounter a paywall between themselves and the evidence."
+title = "העבודה צריכה להיות חופשית לקריאה וחופשית לבדיקה"
+body = "כל עמוד בקורפוס, כל מקור ראשוני שהוא קורא בו וכל רכיב בתשתית הפרויקט זמינים לציבור, בכמה שפות, ללא תשלום. קורא המבקש לבחון טענה לא אמור להיתקל בחומת תשלום בינו לבין הראיות."
 
 [[extra.commitments]]
 slug = "hypothesis"
-title = "A working hypothesis, not a creed"
-body = "The project's central reading — that the Elohim were a civilization — is held as a hypothesis to be tried, not a doctrine to be defended. Every page carries a small badge labeling its main claim as direct, inferred, or speculative. Where the evidence shifts, the reading shifts."
+title = "השערת עבודה, לא אני מאמין"
+body = "הקריאה המרכזית של הפרויקט — שהאלוהים היו ציוויליזציה — מוחזקת כהשערה שיש לבחון, לא כדוקטרינה שיש להגן עליה. כל עמוד נושא תג קטן המסווג את טענתו העיקרית: ישירה, מסגרת, נגזרת או ספקולטיבית. כשהראיות משתנות, הקריאה משתנה."
 
 [[extra.commitments]]
 slug = "sources"
-title = "Read close to the sources"
-body = "The corpus is built around the primary texts it reads from. Where a claim depends on a specific passage, the passage is available. Where a translation choice matters, the original is named. Discussion happens around lines of text, not around summaries of summaries."
+title = "לקרוא קרוב למקורות"
+body = "הקורפוס בנוי סביב הטקסטים הראשוניים שהוא קורא בהם. כשטענה תלויה בקטע מסוים, הקטע זמין. כשבחירת תרגום משנה, המקור מצוין. הדיון מתנהל סביב שורות של טקסט, לא סביב סיכומים של סיכומים."
 
 [[extra.commitments]]
 slug = "comparison"
-title = "Compare boldly, but never lazily"
-body = "The corpus reads many traditions alongside each other, but it does not flatten them into a single story. Mesopotamian, biblical, Vedic, Mesoamerican, and Raëlian sources are read in dialogue, with their differences preserved. A shared motif is not a proof of common origin; a parallel is not an identity."
+title = "להשוות באומץ, אך לעולם לא ברשלנות"
+body = "הקורפוס קורא מסורות רבות זו לצד זו, אך אינו משטח אותן לסיפור אחד. מקורות מסופוטמיים, מקראיים, וֵדִיים, מסו-אמריקניים וראליאניים נקראים בדיאלוג, וההבדלים ביניהם נשמרים. מוטיב משותף אינו הוכחה למוצא משותף; הקבלה אינה זהות."
+
+[[extra.commitments]]
+slug = "dissent"
+title = "מועיל גם לקורא שאינו מסכים"
+body = "קורא יכול לדחות את ההשערה ההיסטורית ובכל זאת להשתמש בעבודה: בקטעים המקבילים שמקומם מצוין, בהכרעות התרגום לצד המקור, בהשוואות בין מהדורות, במאגרי הנתונים הפתוחים. השאלה אם שני טקסטים דומים זה לזה והשאלה מדוע הם דומים הן שאלות נפרדות, והקורפוס שומר על ההפרדה ביניהן."
 +++
 
 ## קריאה ארוכה
 
-Wheel of Heaven הוא קריאה של מסורות הבריאה של העולם הקדום דרך השערת עבודה אחת: שהיצורים שהמקרא העברי מכנה *אלוהים* — שם עצם ברבים, מוסווה בתרגום כיחיד "אל" — היו ציוויליזציה אנושית מתקדמת קטנה ממקום אחר, אשר הגיעו לכאן, הכינו את כוכב הלכת, עיצבו את החיים על פני כדור הארץ, והשאירו תיעוד בטקסטים הדתיים.
+Wheel of Heaven הוא מחקר השוואתי עצמאי של מסורות הבריאה של העולם, הנכתב מתוך קריאה ראליאנית מוצהרת. השערת העבודה שלו היא שהיצורים שהמקרא העברי מכנה *אלוהים* — מילה שצורתה צורת רבים, אף שבדרך כלל היא מתחברת לפעלים ביחיד — היו ציוויליזציה אנושית מתקדמת קטנה ממקום אחר, אשר הגיעו לכאן, הכינו את כוכב הלכת, עיצבו את החיים על פני כדור הארץ, והשאירו תיעוד בטקסטים הדתיים.
 
 הקריאה נפרסת על פני שנים-עשר עידנים של מחזור הנקיפה, מראשית הפרויקט לפני כעשרים ושניים אלף שנה, דרך רצף ארוך של עיצוב והתערבות המתועד במסורות הדתיות, ועד עידן ההתגלות הנוכחי שלפי טענת הקורפוס אנו נמצאים בתוכו. [שנים-עשר הפרקים המרכזיים](/timeline/) של הקורפוס פוסעים לאורך קשת זו ברצף.
 

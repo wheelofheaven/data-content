@@ -17,7 +17,7 @@ body = "Cada página del corpus, cada fuente primaria que lee, y cada pieza de i
 [[extra.commitments]]
 slug = "hypothesis"
 title = "Una hipótesis de trabajo, no un credo"
-body = "La lectura central del proyecto — que los Elohim eran una civilización — se sostiene como una hipótesis a probar, no como una doctrina a defender. Cada página lleva una pequeña insignia que etiqueta su afirmación principal como directa, inferida o especulativa. Donde la evidencia cambia, la lectura cambia."
+body = "La lectura central del proyecto — que los Elohim eran una civilización — se sostiene como una hipótesis a probar, no como una doctrina a defender. Cada página lleva una pequeña insignia que etiqueta su afirmación principal como directa, de marco, inferida o especulativa. Donde la evidencia cambia, la lectura cambia."
 
 [[extra.commitments]]
 slug = "sources"
@@ -28,11 +28,16 @@ body = "El corpus está construido alrededor de los textos primarios que lee. Do
 slug = "comparison"
 title = "Comparar con audacia, pero nunca con pereza"
 body = "El corpus lee muchas tradiciones lado a lado, pero no las aplana en una sola historia. Las fuentes mesopotámicas, bíblicas, védicas, mesoamericanas y raëlianas se leen en diálogo, con sus diferencias preservadas. Un motivo compartido no es prueba de origen común; un paralelo no es una identidad."
+
+[[extra.commitments]]
+slug = "dissent"
+title = "Útil para el lector que discrepa"
+body = "Un lector puede rechazar la hipótesis histórica y aun así servirse del trabajo: los pasajes paralelos localizados, las decisiones de traducción junto con sus originales, las comparaciones de ediciones, los conjuntos de datos abiertos. Que dos textos se parezcan y por qué se parecen son preguntas distintas, y el corpus las mantiene separadas."
 +++
 
 ## Una larga lectura
 
-Wheel of Heaven es una lectura de las tradiciones de creación del mundo antiguo a través de una sola hipótesis de trabajo: que los seres que la Biblia hebrea llama *Elohim* — un sustantivo plural, enmascarado por la traducción como el singular «Dios» — eran una pequeña civilización humana avanzada de otro lugar que vino aquí, preparó el planeta, diseñó la vida en la Tierra y dejó un testimonio en los textos religiosos.
+Wheel of Heaven es un estudio comparativo independiente de las tradiciones de creación del mundo, escrito desde una lectura explícitamente raëliana. Su hipótesis de trabajo es que los seres que la Biblia hebrea llama *Elohim* — una palabra de forma plural, aunque normalmente construida con verbos en singular — eran una pequeña civilización humana avanzada de otro lugar que vino aquí, preparó el planeta, diseñó la vida en la Tierra y dejó un testimonio en los textos religiosos.
 
 La lectura atraviesa doce edades del ciclo precesional, desde el comienzo del proyecto hace aproximadamente veintidós mil años, a través de la larga secuencia de diseño e intervención registrada en las tradiciones religiosas, hasta la presente edad de revelación en la que el corpus sostiene que nos encontramos. Los [doce capítulos principales](/es/timeline/) del corpus recorren este arco en secuencia.
 

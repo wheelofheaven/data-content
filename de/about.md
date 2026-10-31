@@ -17,7 +17,7 @@ body = "Jede Seite des Korpus, jede primäre Quelle, die er liest, und jeder Tei
 [[extra.commitments]]
 slug = "hypothesis"
 title = "Eine Arbeitshypothese, kein Glaubenssatz"
-body = "Die zentrale Lesart des Projekts — dass die Elohim eine Zivilisation waren — wird als zu prüfende Hypothese verstanden, nicht als zu verteidigende Doktrin. Jede Seite trägt ein kleines Etikett, das ihre Hauptaussage als direkt, gefolgert oder spekulativ markiert. Wo sich die Belege verschieben, verschiebt sich die Lesart."
+body = "Die zentrale Lesart des Projekts — dass die Elohim eine Zivilisation waren — wird als zu prüfende Hypothese verstanden, nicht als zu verteidigende Doktrin. Jede Seite trägt ein kleines Etikett, das ihre Hauptaussage einordnet: direkt, Rahmen, gefolgert oder spekulativ. Wo sich die Belege verschieben, verschiebt sich die Lesart."
 
 [[extra.commitments]]
 slug = "sources"
@@ -28,11 +28,16 @@ body = "Der Korpus ist um die primären Texte gebaut, aus denen er liest. Wo ein
 slug = "comparison"
 title = "Mutig vergleichen, aber niemals nachlässig"
 body = "Der Korpus liest viele Traditionen nebeneinander, ebnet sie aber nicht zu einer einzigen Geschichte ein. Mesopotamische, biblische, vedische, mesoamerikanische und raëlische Quellen werden im Dialog gelesen, ihre Unterschiede bleiben erhalten. Ein gemeinsames Motiv ist kein Beweis einer gemeinsamen Herkunft; eine Parallele ist keine Identität."
+
+[[extra.commitments]]
+slug = "dissent"
+title = "Nützlich auch für Leser, die widersprechen"
+body = "Ein Leser kann die historische Hypothese ablehnen und das Werk trotzdem nutzen: die genau verorteten Parallelstellen, die Übersetzungsentscheidungen samt Originalen, die Ausgabenvergleiche, die offenen Datensätze. Ob zwei Texte einander ähneln und warum sie es tun, sind getrennte Fragen, und das Korpus hält sie getrennt."
 +++
 
 ## Eine lange Lesart
 
-Wheel of Heaven ist eine Lesart der Schöpfungstraditionen der antiken Welt durch eine einzige Arbeitshypothese: dass die Wesen, die die hebräische Bibel *Elohim* nennt — ein Plural, durch die Übersetzung als singularer „Gott" verdeckt — eine kleine, fortgeschrittene menschliche Zivilisation von anderswo waren, die hierher kam, den Planeten vorbereitete, das Leben auf der Erde gestaltete und ein Zeugnis in den religiösen Texten hinterließ.
+Wheel of Heaven ist eine unabhängige vergleichende Studie der Schöpfungstraditionen der Welt, geschrieben aus einer ausdrücklich raëlianischen Lesart. Ihre Arbeitshypothese lautet, dass die Wesen, die die hebräische Bibel *Elohim* nennt — ein der Form nach pluralisches Wort, das jedoch meist mit Verben im Singular verbunden wird — eine kleine, fortgeschrittene menschliche Zivilisation von anderswo waren, die hierher kam, den Planeten vorbereitete, das Leben auf der Erde gestaltete und ein Zeugnis in den religiösen Texten hinterließ.
 
 Die Lesart durchläuft zwölf Zeitalter des Präzessionszyklus, vom Beginn des Projekts vor etwa zweiundzwanzigtausend Jahren über die lange Sequenz von Gestaltung und Eingriff, die in den religiösen Traditionen verzeichnet ist, bis in das gegenwärtige Zeitalter der Offenbarung, in dem wir uns nach Ansicht des Korpus befinden. Die [zwölf Hauptkapitel](/de/timeline/) des Korpus durchschreiten diesen Bogen der Reihe nach.
 
