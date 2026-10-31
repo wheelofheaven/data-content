@@ -1,7 +1,7 @@
 +++
 title = "PURSUE"
 slug = "pursue"
-description = "PURSUE — le Presidential Unsealing and Reporting System for UAP Encounters — est le programme du gouvernement des États-Unis, lancé en 2026, de déclassification et de publication des dossiers non résolus relatifs aux phénomènes anormaux non identifiés (UAP) sur le portail war.gov/UFO du Département de la Guerre. Ordonné par une directive présidentielle du 19 février 2026 et opérant au-dessus d'un canal de divulgation statutaire créé par le Congrès en 2022, il a publié depuis le 8 mai 2026 six tranches de documents, d'images, de vidéos et d'enregistrements audio à cadence régulière, provenant d'un cercle d'agences toujours plus large. Le cadre Wheel of Heaven le suit comme une accélération institutionnelle datable de la question de la divulgation — tout en maintenant, selon sa propre posture de réception, qu'aucun fichier publié n'est une preuve en faveur du cadre et qu'aucun cas réfuté n'est une preuve contre lui."
+description = "PURSUE — le Presidential Unsealing and Reporting System for UAP Encounters — est le programme du gouvernement des États-Unis, lancé en 2026, de déclassification et de publication des dossiers non résolus relatifs aux phénomènes anormaux non identifiés (UAP) sur le portail war.gov/UFO du Département de la Guerre. Ordonné par une directive présidentielle du 19 février 2026 et opérant au-dessus d'un canal de divulgation statutaire créé par le Congrès en 2022, il a publié depuis le 8 mai 2026 sept tranches de documents, d'images, de vidéos et d'enregistrements audio à cadence régulière, provenant d'un cercle d'agences toujours plus large. Le cadre Wheel of Heaven le suit comme une accélération institutionnelle datable de la question de la divulgation — tout en maintenant, selon sa propre posture de réception, qu'aucun fichier publié n'est une preuve en faveur du cadre et qu'aucun cas réfuté n'est une preuve contre lui."
 template = "wiki-page.html"
 toc = true
 
@@ -26,8 +26,8 @@ ordered_by = "Directive présidentielle du 19 février 2026 (aucun décret prés
 statutory_context = "50 U.S.C. § 3373b — le canal de divulgation autorisée et les protections contre les représailles adoptés dans le National Defense Authorization Act pour l'exercice 2023 (décembre 2022)"
 administering_body = "Département de la Guerre des États-Unis, avec le soutien du Bureau du directeur du renseignement national (ODNI)"
 launched = "Première tranche publiée le 8 mai 2026 sur war.gov/UFO ; l'analyse juridique date la mise sur pied de la task force au 1er mai 2026"
-releases_to_date = "Six (8 mai, 22 mai, 12 juin, 10 juillet, 7 août, 18 septembre 2026) ; d'autres publications annoncées comme en préparation"
-database = "Base de données consultable du portail : 447 fichiers répartis sur les six communiqués (état au 18 septembre 2026), filtrables par agence, communiqué, date de l'incident, lieu et type de fichier"
+releases_to_date = "Sept (8 mai, 22 mai, 12 juin, 10 juillet, 7 août, 18 septembre, 23 octobre 2026) ; d'autres publications annoncées comme en préparation"
+database = "Base de données consultable du portail : 478 fichiers répartis sur les sept communiqués (état au 23 octobre 2026), filtrables par agence, communiqué, date de l'incident, lieu et type de fichier"
 contributing_agencies = "Département de la Guerre, NASA, CIA, FBI, Département de l'Énergie, Département d'État, Bureau exécutif du président et — depuis le sixième communiqué — une agence locale de maintien de l'ordre du Colorado ; l'ODNI dans un rôle de coordination"
 corpus_position = "Suivi comme l'accélération institutionnelle de la courbe de divulgation du §IX de l'Âge du Verseau ; enregistré sans enrôlement — aucun fichier publié ne compte en faveur du cadre, aucun démenti ne compte contre lui"
 distinguished_from = "L'AARO (le bureau d'analyse permanent du Pentagone, qui statue sur les cas ; PURSUE publie des dossiers), la déclassification parcellaire de l'ère FOIA et la voie des auditions parlementaires de 2023–2024"
@@ -43,7 +43,7 @@ présidentielle en février 2026 et administré par le Department of War (le
 Département de la Guerre) avec le soutien du Bureau du directeur du
 renseignement national, il publie des tranches de documents, d'images, de
 vidéos et d'enregistrements audio sur un portail public unique, war.gov/UFO,
-à cadence régulière — six communiqués entre le 8 mai et le 18 septembre
+à cadence régulière — sept communiqués entre le 8 mai et le 23 octobre
 2026, d'autres étant annoncés comme activement en préparation. Le Département
 décrit l'entreprise comme exigeant « une coordination entre des dizaines
 d'agences et l'examen de dizaines de millions de dossiers, dont beaucoup
@@ -140,12 +140,13 @@ demeure la lisière ouverte la plus surveillée du programme.
 
 Le portail war.gov/UFO présente une base de données consultable — filtrable
 par agence, communiqué, date de l'incident, lieu de l'incident et type de
-fichier — qui comptait **447 fichiers répartis sur les six communiqués** au
-18 septembre 2026. Les fichiers portent des identifiants structurés par agence
+fichier — qui comptait **478 fichiers répartis sur les sept communiqués** au
+23 octobre 2026. Les fichiers portent des identifiants structurés par agence
 contributrice et par type (`DOW-UAP-D101`, `FBI-UAP-D024`, `EOP-UAP-D001`),
 et les tranches sont arrivées à un rythme à peu près mensuel : des
 intervalles de deux, trois puis quatre semaines se stabilisant à quatre
-semaines, puis s'étirant à six entre le cinquième et le sixième communiqué.
+semaines, puis s'étirant à six entre le cinquième et le sixième communiqué, et à cinq
+avant le septième.
 L'intérêt du public a été considérable ; le porte-parole en chef du
 Pentagone a chiffré le trafic du portail à plus de 1,7 milliard de visites au
 cours des cinq premières semaines du programme.
@@ -160,7 +161,10 @@ depuis le sixième communiqué, le dossier contractuel et la bibliothèque de
 référence de l'Advanced Aerospace Weapon System Applications Program
 (2008–2012) de la Defense Intelligence Agency, publiés avec les propres
 annotations du Département refusant de cautionner ses documents les plus
-exotiques. Fait notable, le programme publie ses **conclusions négatives**
+exotiques ; le septième y a ajouté le versant propre du contractant de ce
+programme — ses plans, ses rapports mensuels et ses enquêtes de terrain — ainsi
+qu'un dossier de la Maison-Blanche de 1962–1964 sur la récupération des objets
+qui tombent de l'espace. Fait notable, le programme publie ses **conclusions négatives**
 aux côtés de ses
 inconnues : sa cinquième tranche comprenait un cas de 1963 — un reportage
 radiophonique brésilien sur une sphère écrasée, au sujet duquel le conseil
@@ -189,6 +193,7 @@ Newsroom. La colonne vertébrale stable :
 | 04 | 10 juillet | + Département de l'Énergie | [PURSUE Communiqué 04](/news/pursue-release-04-the-nuclear-nexus/) |
 | 05 | 7 août | + Département d'État, Bureau exécutif du président | [PURSUE Communiqué 05](/news/pursue-release-05-triangles-and-the-white-house-file/) |
 | 06 | 18 septembre | + une agence locale de maintien de l'ordre (Colorado) — le premier contributeur non fédéral | [PURSUE Communiqué 06](/news/pursue-release-06-warp-drives-and-the-tremonton-film/) |
+| 07 | 23 octobre | Aucun nouveau contributeur ; le premier fichier sous un préfixe générique « U.S. Government », un dossier de bibliothèque présidentielle réunissant plusieurs agences | [PURSUE Communiqué 07](/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/) |
 
 La base de données du portail attribue certains fichiers individuels à
 travers ces frontières autrement que ne l'ont fait les annonces (des
@@ -229,7 +234,7 @@ requête ; une cadence régulière au lieu de publications épisodiques ; un
 portail unique et consolidé au lieu de salles de lecture dispersées ; et un
 cercle de contributeurs qui s'étend au-delà de l'establishment de la défense
 et du renseignement jusqu'au service diplomatique et aux archives de la
-présidence elle-même. Ce qu'il n'a *pas* fait, au bout de six tranches,
+présidence elle-même. Ce qu'il n'a *pas* fait, au bout de sept tranches,
 c'est publier quoi que ce soit touchant aux allégations plus profondes des
 témoignages de 2023.
 
@@ -237,8 +242,8 @@ témoignages de 2023.
 
 La neuvième section du chapitre de l'[Âge du Verseau](/timeline/age-of-aquarius/)
 anticipe, pour les décennies présentes, une accélération du traitement
-officiel de la question UAP — les dépêches du corpus lisent les six
-communiqués comme six points datables sur cette courbe, et PURSUE lui-même
+officiel de la question UAP — les dépêches du corpus lisent les sept
+communiqués comme sept points datables sur cette courbe, et PURSUE lui-même
 comme l'expression institutionnelle la plus nette de la courbe à ce jour.
 
 L'intérêt du cadre est spécifique. Selon le récit du canon, le contact — si
@@ -268,9 +273,13 @@ couverture des capteurs et la densité d'observation. Rien dans le cadrage
 Département lui-même ne qualifie aucun cas publié de non conventionnel
 confirmé.
 
-**Les allégations les plus profondes restent intouchées.** Six tranches ne
-contiennent aucun matériel sur les allégations de récupération d'engins et de
-rétro-ingénierie des témoignages de 2023. Deux lectures sont disponibles —
+**Les allégations les plus profondes restent intouchées.** Sept tranches ne
+contiennent aucun dossier gouvernemental sur la récupération d'engins et la
+rétro-ingénierie alléguées dans les témoignages de 2023. Le septième communiqué
+publie bien les plans d'un contractant, en 2008–2009, visant à acquérir du
+matériel récupéré et des échantillons biologiques, avec les témoignages de
+seconde main qu'il y avait joints ; rien dans le communiqué ne montre qu'un tel
+matériel ait été obtenu. Deux lectures sont disponibles —
 que ce matériel n'existe pas et n'est donc pas publiable (la conclusion
 déclarée de l'AARO), ou qu'il existe hors de portée de ce programme (la
 position des lanceurs d'alerte, qui repose pour une part
@@ -322,7 +331,7 @@ Vorilhon, Claude (Raël). *Intelligent Design: Message from the Designers*. Nova
 
 ### Documents gouvernementaux primaires
 
-U.S. Department of War. *Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)* — release portal and database. war.gov/UFO, May–September 2026.
+U.S. Department of War. *Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)* — release portal and database. war.gov/UFO, May–October 2026.
 
 U.S. Department of War. "Department of War Releases Unidentified Anomalous Phenomena Files in Historic Transparency Effort." Press release, May 8, 2026.
 
@@ -331,6 +340,8 @@ U.S. Department of War. "Department of War Publishes Fifth Release of Unidentifi
 U.S. Department of War. "Department of War Issues Legal Waiver to Authorize Unidentified Anomalous Phenomena (UAP) Disclosures to PURSUE." Press release, September 14, 2026.
 
 U.S. Department of War. "Department of War Publishes Sixth Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO." Press release, September 18, 2026.
+
+U.S. Department of War. "Department of War Publishes Seventh Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO." Press release, October 23, 2026.
 
 *50 U.S.C. § 3373b* — authorized UAP disclosures and prohibition on reprisals, enacted in the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, December 2022.
 

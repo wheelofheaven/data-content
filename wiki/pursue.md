@@ -1,7 +1,7 @@
 +++
 title = "PURSUE"
 slug = "pursue"
-description = "PURSUE — the Presidential Unsealing and Reporting System for UAP Encounters — is the United States government's program, launched in 2026, for declassifying and publicly releasing unresolved records on unidentified anomalous phenomena (UAP) at the Department of War's war.gov/UFO portal. Ordered by a presidential directive of February 19, 2026 and operating atop a statutory disclosure channel Congress created in 2022, it has published six tranches of documents, images, videos, and audio on a rolling cadence since May 8, 2026, from a widening roster of agencies. The Wheel of Heaven framework tracks it as a datable institutional acceleration of the disclosure question — while holding, under its own reception posture, that no released file is evidence for the framework and no debunked case is evidence against it."
+description = "PURSUE — the Presidential Unsealing and Reporting System for UAP Encounters — is the United States government's program, launched in 2026, for declassifying and publicly releasing unresolved records on unidentified anomalous phenomena (UAP) at the Department of War's war.gov/UFO portal. Ordered by a presidential directive of February 19, 2026 and operating atop a statutory disclosure channel Congress created in 2022, it has published seven tranches of documents, images, videos, and audio on a rolling cadence since May 8, 2026, from a widening roster of agencies. The Wheel of Heaven framework tracks it as a datable institutional acceleration of the disclosure question — while holding, under its own reception posture, that no released file is evidence for the framework and no debunked case is evidence against it."
 template = "wiki-page.html"
 toc = true
 
@@ -29,8 +29,8 @@ ordered_by = "Presidential directive of February 19, 2026 (no numbered executive
 statutory_context = "50 U.S.C. § 3373b — the authorized-disclosure channel and anti-reprisal protections enacted in the FY2023 National Defense Authorization Act (December 2022)"
 administering_body = "U.S. Department of War, with support from the Office of the Director of National Intelligence (ODNI)"
 launched = "First tranche published May 8, 2026 at war.gov/UFO; legal analysis dates the task force's stand-up to May 1, 2026"
-releases_to_date = "Six (May 8, May 22, June 12, July 10, August 7, September 18, 2026); further releases announced as in work"
-database = "Searchable portal database of 447 files across the six releases (as captured September 18, 2026), filterable by agency, release, incident date, location, and file type"
+releases_to_date = "Seven (May 8, May 22, June 12, July 10, August 7, September 18, October 23, 2026); further releases announced as in work"
+database = "Searchable portal database of 478 files across the seven releases (as captured October 23, 2026), filterable by agency, release, incident date, location, and file type"
 contributing_agencies = "Department of War, NASA, CIA, FBI, Department of Energy, Department of State, Executive Office of the President, and — from the sixth release — a local law-enforcement agency in Colorado; ODNI in a coordinating role"
 corpus_position = "Tracked as the Age of Aquarius §IX disclosure curve's institutional acceleration; registered without enlistment — no released file counts for the framework, no debunking counts against it"
 distinguished_from = "AARO (the Pentagon's standing analysis office, which adjudicates cases; PURSUE releases records), FOIA-era piecemeal declassification, and the congressional-hearing track of 2023–2024"
@@ -44,7 +44,7 @@ anomalous phenomena (UAP)**. Ordered by a presidential directive in February
 2026 and administered by the Department of War with support from the Office of
 the Director of National Intelligence, it publishes tranches of documents,
 images, videos, and audio recordings at a single public portal, war.gov/UFO,
-on a rolling cadence — six releases between May 8 and September 18, 2026,
+on a rolling cadence — seven releases between May 8 and October 23, 2026,
 with further releases announced as actively in work. The Department describes the
 undertaking as requiring "coordination between dozens of agencies and the
 review of tens of millions of records, many existing only on paper."
@@ -130,11 +130,11 @@ program's most closely watched open edge.
 
 The portal at war.gov/UFO presents a searchable database — filterable by
 agency, release, incident date, incident location, and file type — that stood
-at **447 files across the six releases** as of September 18, 2026. Files carry
+at **478 files across the seven releases** as of October 23, 2026. Files carry
 structured identifiers by contributing agency and type (`DOW-UAP-D101`,
 `FBI-UAP-D024`, `EOP-UAP-D001`), and tranches have arrived on an
 approximately monthly rhythm: two, three, and four-week intervals settling at
-four weeks, then stretching to six between the fifth and sixth releases. Public interest has been considerable; the Pentagon's chief
+four weeks, then stretching to six between the fifth and sixth releases and five before the seventh. Public interest has been considerable; the Pentagon's chief
 spokesman put portal traffic at over 1.7 billion hits within the program's
 first five weeks.
 
@@ -146,7 +146,9 @@ dispatches note, not photographs), and archival holdings reaching back to a
 sixth release, the contract record and reference library of the Defense
 Intelligence Agency's 2008–2012 Advanced Aerospace Weapon System Applications
 Program, published with the Department's own annotations declining to endorse
-its more exotic papers. Notably, the
+its more exotic papers; the seventh added the contractor's own side of
+that program — its plans, monthly reports, and field investigations — and a
+1962–1964 White House file on recovering objects that fall from space. Notably, the
 program releases **negative findings** alongside its unknowns: its fifth
 tranche included a 1963 case — a Brazilian radio report of a crashed sphere,
 inquired after at the White House's space council — that the released State
@@ -173,6 +175,7 @@ spine:
 | 04 | July 10 | + Department of Energy | [PURSUE Release 04](/news/pursue-release-04-the-nuclear-nexus/) |
 | 05 | August 7 | + Department of State, Executive Office of the President | [PURSUE Release 05](/news/pursue-release-05-triangles-and-the-white-house-file/) |
 | 06 | September 18 | + a local law-enforcement agency (Colorado) — the first non-federal contributor | [PURSUE Release 06](/news/pursue-release-06-warp-drives-and-the-tremonton-film/) |
+| 07 | October 23 | No new contributor; the first file under a generic "U.S. Government" prefix, a multi-agency presidential-library folder | [PURSUE Release 07](/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/) |
 
 The portal's database assigns some individual files across these boundaries
 differently than the announcements did (NASA-attributed documents appear under
@@ -210,15 +213,15 @@ publication by default instead of by request; a rolling cadence instead of
 episodic releases; a single consolidated portal instead of scattered reading
 rooms; and a contributing roster that reaches beyond the defense and
 intelligence establishment into the diplomatic service and the presidency's
-own records. What it has *not* done, six tranches in, is release anything
+own records. What it has *not* done, seven tranches in, is release anything
 touching the deeper claims of the 2023 testimony.
 
 ## The Wheel of Heaven reading
 
 The [Age of Aquarius](/timeline/age-of-aquarius/) chapter's ninth section
 anticipates, for the present decades, an acceleration in how officially the
-UAP question is handled — the corpus's dispatches read the six releases as
-six datable points on that curve, and PURSUE itself as the curve's clearest
+UAP question is handled — the corpus's dispatches read the seven releases as
+seven datable points on that curve, and PURSUE itself as the curve's clearest
 institutional expression to date.
 
 The framework's interest is specific. On the canon's account, contact — when
@@ -247,9 +250,12 @@ and observation density. Nothing in the unresolved framing implies a
 non-conventional explanation, and the Department itself characterizes no
 released case as confirmed non-conventional.
 
-**The deeper claims remain untouched.** Six tranches contain no material on
-the craft-retrieval and reverse-engineering allegations of the 2023
-testimony. Two readings are available — that such material does not exist to
+**The deeper claims remain untouched.** Seven tranches contain no government
+record of the craft retrieval and reverse engineering alleged in the 2023
+testimony. The seventh does publish a contractor's 2008–2009 plans to acquire
+recovered hardware and biological samples, with the second-hand testimony it
+attached to them; nothing in the release shows that any such material was
+obtained. Two readings are available — that such material does not exist to
 be released (AARO's stated finding), or that it exists outside this program's
 reach (the whistleblower position, resting significantly on the still-open
 contractor question in the ODNI guidance). The corpus holds both open and
@@ -294,7 +300,7 @@ Vorilhon, Claude (Raël). *Intelligent Design: Message from the Designers*. Nova
 
 ### Primary government materials
 
-U.S. Department of War. *Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)* — release portal and database. war.gov/UFO, May–September 2026.
+U.S. Department of War. *Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)* — release portal and database. war.gov/UFO, May–October 2026.
 
 U.S. Department of War. "Department of War Releases Unidentified Anomalous Phenomena Files in Historic Transparency Effort." Press release, May 8, 2026.
 
@@ -303,6 +309,8 @@ U.S. Department of War. "Department of War Publishes Fifth Release of Unidentifi
 U.S. Department of War. "Department of War Issues Legal Waiver to Authorize Unidentified Anomalous Phenomena (UAP) Disclosures to PURSUE." Press release, September 14, 2026.
 
 U.S. Department of War. "Department of War Publishes Sixth Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO." Press release, September 18, 2026.
+
+U.S. Department of War. "Department of War Publishes Seventh Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO." Press release, October 23, 2026.
 
 *50 U.S.C. § 3373b* — authorized UAP disclosures and prohibition on reprisals, enacted in the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, December 2022.
 

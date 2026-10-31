@@ -1,7 +1,7 @@
 +++
 title = "PURSUE"
 slug = "pursue"
-description = "PURSUE——总统不明异常现象遭遇启封与报告系统(Presidential Unsealing and Reporting System for UAP Encounters)——是美国政府于2026年启动的计划,用于解密并公开发布关于不明异常现象(UAP)的未决档案,发布地点为战争部的 war.gov/UFO 门户。该计划由2026年2月19日的一道总统指令下令设立,运行于国会2022年创设的法定披露渠道之上,自2026年5月8日起以滚动节奏发布了六批文件、图像、视频与音频,贡献机构的名单不断扩大。Wheel of Heaven 框架将其作为披露问题一次可定年的制度性加速加以追踪——同时依其自身的接收姿态坚持:任何已发布的档案都不是支持本框架的证据,任何被证伪的案例也不是反对本框架的证据。"
+description = "PURSUE——总统不明异常现象遭遇启封与报告系统(Presidential Unsealing and Reporting System for UAP Encounters)——是美国政府于2026年启动的计划,用于解密并公开发布关于不明异常现象(UAP)的未决档案,发布地点为战争部的 war.gov/UFO 门户。该计划由2026年2月19日的一道总统指令下令设立,运行于国会2022年创设的法定披露渠道之上,自2026年5月8日起以滚动节奏发布了七批文件、图像、视频与音频,贡献机构的名单不断扩大。Wheel of Heaven 框架将其作为披露问题一次可定年的制度性加速加以追踪——同时依其自身的接收姿态坚持:任何已发布的档案都不是支持本框架的证据,任何被证伪的案例也不是反对本框架的证据。"
 template = "wiki-page.html"
 toc = true
 
@@ -26,8 +26,8 @@ ordered_by = "2026年2月19日的总统指令(未见任何已公布的编号行�
 statutory_context = "50 U.S.C. § 3373b——2023财年《国防授权法》(2022年12月颁布)所创设的授权披露渠道与反报复保护条款"
 administering_body = "美国战争部,由国家情报总监办公室(ODNI)提供支持"
 launched = "首批材料于2026年5月8日在 war.gov/UFO 公布;法律分析将特别工作组的组建日期定为2026年5月1日"
-releases_to_date = "六批(2026年5月8日、5月22日、6月12日、7月10日、8月7日、9月18日);官方宣布更多批次正在筹备中"
-database = "门户网站的可检索数据库,六批共计447份档案(截至2026年9月18日),可按机构、批次、事件日期、地点与档案类型筛选"
+releases_to_date = "七批(2026年5月8日、5月22日、6月12日、7月10日、8月7日、9月18日、10月23日);官方宣布更多批次正在筹备中"
+database = "门户网站的可检索数据库,七批共计478份档案(截至2026年10月23日),可按机构、批次、事件日期、地点与档案类型筛选"
 contributing_agencies = "战争部、NASA、CIA、FBI、能源部、国务院、总统行政办公室,以及——自第六批起——科罗拉多州的一个地方执法机构;ODNI 承担协调角色"
 corpus_position = "作为《水瓶座时代》第IX节披露曲线的制度性加速加以追踪;登记而不征用——任何已发布档案不计为支持本框架的证据,任何证伪也不计为反对的证据"
 distinguished_from = "AARO(五角大楼的常设分析办公室,负责裁定案件;PURSUE 负责发布档案)、FOIA 时代零散的解密方式,以及2023–2024年的国会听证轨道"
@@ -39,7 +39,7 @@ and Reporting System for UAP Encounters)**——是美国政府用于查找、�
 发布**不明异常现象(UAP)**未决档案的计划。该计划由2026年2月的一道总统指令
 下令设立,由战争部管理并由国家情报总监办公室提供支持,在单一公共门户
 war.gov/UFO 以滚动节奏发布一批批文件、图像、视频与音频记录——2026年5月8日
-至9月18日间共六批,官方并宣布更多批次正在积极筹备之中。战争部将这项工作描述
+至10月23日间共七批,官方并宣布更多批次正在积极筹备之中。战争部将这项工作描述
 为需要“数十个机构之间的协调,以及对数千万份记录的审阅,其中许多仅以纸质形
 式存在”。
 
@@ -99,10 +99,10 @@ PURSUE 在公开记录上的创设文书,是一道**2026年2月19日的总统指
 ## 计划如何运作
 
 war.gov/UFO 门户提供一个可检索的数据库——可按机构、批次、事件日期、事件地点
-与档案类型筛选——截至2026年9月18日,库中为**六批共计447份档案**。档案带有按
+与档案类型筛选——截至2026年10月23日,库中为**七批共计478份档案**。档案带有按
 贡献机构与类型编制的结构化标识符(`DOW-UAP-D101`、`FBI-UAP-D024`、
 `EOP-UAP-D001`),各批次大致以月为节奏到来:两周、三周、四周的间隔逐渐稳定在
-四周,继而在第五批与第六批之间拉长至六周。公众兴趣相当可观;五角大楼首席发言
+四周,继而在第五批与第六批之间拉长至六周,第七批之前则为五周。公众兴趣相当可观;五角大楼首席发言
 人称,门户在该计划最初五周内的访问量超过17亿次。
 
 各批发布混合了传感器材料(航炮摄像与红外影像、雷达显示屏录像)、证人报告
@@ -110,7 +110,8 @@ war.gov/UFO 门户提供一个可检索的数据库——可按机构、批次�
 提示,这些是插画而非照片),以及可上溯至1947年一份关于斯堪的纳维亚“幽灵火
 箭”情报审查的档案馆藏,并自第六批起,包括国防情报局(DIA)2008–2012年高级航空
 航天武器系统应用计划的合同记录与参考文献库,随附战争部自身的批注,其中拒绝为该
-计划较为奇异的论文背书。值得注意的是,该计划将**否定性结论**与未解案例一并
+计划较为奇异的论文背书;第七批则补上了该计划承包商一侧的记录——其计划书、月度报告
+与实地调查——以及一份1962–1964年关于回收自太空坠落之物体的白宫档案。值得注意的是,该计划将**否定性结论**与未解案例一并
 发布:其第五批包含一宗1963年的案件——一则关于坠毁球体的巴西电台报道,曾经
 白宫太空委员会问询——而公布的国务院电报本身就将其裁定为新闻捏造。一个连自
 己的证伪都予以公布的档案库,行事方式更像档案馆而非新闻办公室;文集将这一点
@@ -133,6 +134,7 @@ war.gov/UFO 门户提供一个可检索的数据库——可按机构、批次�
 | 04 | 7月10日 | + 能源部 | [PURSUE 第四批解密](/news/pursue-release-04-the-nuclear-nexus/) |
 | 05 | 8月7日 | + 国务院、总统行政办公室 | [PURSUE 第五批解密](/news/pursue-release-05-triangles-and-the-white-house-file/) |
 | 06 | 9月18日 | + 一个地方执法机构(科罗拉多州)——首个非联邦贡献者 | [PURSUE 第六批解密](/news/pursue-release-06-warp-drives-and-the-tremonton-film/) |
+| 07 | 10月23日 | 无新增贡献机构;首份冠以通用前缀“U.S. Government”(美国政府)的档案,即一份多机构的总统图书馆卷宗 | [PURSUE 第七批解密](/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/) |
 
 门户数据库对某些个别档案的批次归属与官方宣布并不一致(例如标注为 NASA 的文
 件出现在第一批之下),因此本表记录的是*官方宣布*的机构名单,而非事后索引的
@@ -160,13 +162,13 @@ Blue Book 依据科罗拉多大学**康登报告**(Condon Report,1968年)的建�
 
 对照这一谱系,PURSUE 的新颖之处在结构而不在实质:默认发布,而非依申请发布;
 滚动节奏,而非零星放出;单一整合门户,而非分散的阅览室;贡献机构名单越出国防
-与情报系统,延伸至外交系统与总统府自身的档案。而它六批下来*没有*做的,是发布
+与情报系统,延伸至外交系统与总统府自身的档案。而它七批下来*没有*做的,是发布
 任何触及2023年证词更深层主张的材料。
 
 ## Wheel of Heaven 的解读
 
 [水瓶座时代](/timeline/age-of-aquarius/)一章的第九节预言:在当下的数十年间,
-UAP 问题被官方处理的程度将出现加速——文集的快讯将六批发布读作这条曲线上六
+UAP 问题被官方处理的程度将出现加速——文集的快讯将七批发布读作这条曲线上七
 个可定年的点,而 PURSUE 本身则是这条曲线迄今最清晰的制度性表达。
 
 本框架的关切是具体的。按正典的叙述,接触——如果以及当它到来时——将是**官方
@@ -186,8 +188,10 @@ PURSUE 不是那一事件。它是一座按时间表开放的档案库,文集也
 器覆盖率与观测密度而增长的类别。未决这一框架本身不意味着任何非常规解释,战争
 部自身也未将任何已发布案例定性为经确认的非常规现象。
 
-**更深层的主张仍未被触及。** 六批材料中没有任何涉及2023年证词中飞行器回收与
-逆向工程指控的内容。有两种解读可选——此类材料并不存在因而无从发布(AARO 的
+**更深层的主张仍未被触及。** 七批材料中没有任何政府记录涉及2023年证词所指称的
+飞行器回收与逆向工程。第七批确实公布了一家承包商2008–2009年间取得回收硬件与
+生物样本的计划,连同其所附的二手证词;但发布材料中没有任何内容表明此类材料曾
+被取得。有两种解读可选——此类材料并不存在因而无从发布(AARO 的
 表述结论),或它存在于该计划的触及范围之外(吹哨人立场,主要落点在 ODNI 指南
 中仍未解决的承包商问题)。文集对两者都保持开放,也不征用其中任何一方。
 
@@ -224,7 +228,7 @@ Vorilhon, Claude (Raël). *Intelligent Design: Message from the Designers*. Nova
 
 ### 政府一手材料
 
-U.S. Department of War. *Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)* — release portal and database. war.gov/UFO, May–September 2026.
+U.S. Department of War. *Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)* — release portal and database. war.gov/UFO, May–October 2026.
 
 U.S. Department of War. "Department of War Releases Unidentified Anomalous Phenomena Files in Historic Transparency Effort." Press release, May 8, 2026.
 
@@ -233,6 +237,8 @@ U.S. Department of War. "Department of War Publishes Fifth Release of Unidentifi
 U.S. Department of War. "Department of War Issues Legal Waiver to Authorize Unidentified Anomalous Phenomena (UAP) Disclosures to PURSUE." Press release, September 14, 2026.
 
 U.S. Department of War. "Department of War Publishes Sixth Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO." Press release, September 18, 2026.
+
+U.S. Department of War. "Department of War Publishes Seventh Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO." Press release, October 23, 2026.
 
 *50 U.S.C. § 3373b* — authorized UAP disclosures and prohibition on reprisals, enacted in the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, December 2022.
 

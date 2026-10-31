@@ -1,7 +1,7 @@
 +++
 title = "PURSUE"
 slug = "pursue"
-description = "PURSUE — UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters) — 는 미확인 변칙 현상(UAP)에 관한 미해결 기록을 기밀 해제하여 전쟁부의 war.gov/UFO 포털에 공개하기 위해 2026년에 출범한 미국 정부의 프로그램이다. 2026년 2월 19일의 대통령 지시로 명령되었고 의회가 2022년에 창설한 법률상의 공개 채널 위에서 운영되며, 2026년 5월 8일 이래 점점 넓어지는 기여 기관 명단으로부터 문서·이미지·영상·음성 여섯 차례의 자료군을 정기 주기로 게시해 왔다. Wheel of Heaven 프레임워크는 이를 공개(disclosure) 문제의 기록 가능한 제도적 가속으로 추적한다 — 다만 자체의 수용 태세 아래에서, 공개된 어떤 파일도 프레임워크를 지지하는 증거가 아니며 반증된 어떤 사례도 프레임워크에 반하는 증거가 아니라는 입장을 유지한다."
+description = "PURSUE — UAP 조우에 관한 대통령 봉인 해제 및 보고 체계(Presidential Unsealing and Reporting System for UAP Encounters) — 는 미확인 변칙 현상(UAP)에 관한 미해결 기록을 기밀 해제하여 전쟁부의 war.gov/UFO 포털에 공개하기 위해 2026년에 출범한 미국 정부의 프로그램이다. 2026년 2월 19일의 대통령 지시로 명령되었고 의회가 2022년에 창설한 법률상의 공개 채널 위에서 운영되며, 2026년 5월 8일 이래 점점 넓어지는 기여 기관 명단으로부터 문서·이미지·영상·음성 일곱 차례의 자료군을 정기 주기로 게시해 왔다. Wheel of Heaven 프레임워크는 이를 공개(disclosure) 문제의 기록 가능한 제도적 가속으로 추적한다 — 다만 자체의 수용 태세 아래에서, 공개된 어떤 파일도 프레임워크를 지지하는 증거가 아니며 반증된 어떤 사례도 프레임워크에 반하는 증거가 아니라는 입장을 유지한다."
 template = "wiki-page.html"
 toc = true
 
@@ -26,8 +26,8 @@ ordered_by = "2026년 2월 19일의 대통령 지시(번호가 부여된 행정�
 statutory_context = "50 U.S.C. § 3373b — 2023 회계연도 국방수권법(2022년 12월 제정)이 창설한 승인된 공개 채널 및 보복 금지 보호 조항"
 administering_body = "미국 전쟁부, 국가정보국장실(ODNI)의 지원을 받아 운영"
 launched = "2026년 5월 8일 war.gov/UFO에 첫 자료군 게시; 법률 분석은 태스크포스의 발족을 2026년 5월 1일로 추정"
-releases_to_date = "여섯 차례(2026년 5월 8일, 5월 22일, 6월 12일, 7월 10일, 8월 7일, 9월 18일); 추가 공개가 작업 중이라고 발표됨"
-database = "여섯 차례 공개에 걸친 447건의 파일을 담은 검색 가능한 포털 데이터베이스(2026년 9월 18일 캡처 기준)로, 기관·공개 차수·사건 일자·위치·파일 유형별 필터링 가능"
+releases_to_date = "일곱 차례(2026년 5월 8일, 5월 22일, 6월 12일, 7월 10일, 8월 7일, 9월 18일, 10월 23일); 추가 공개가 작업 중이라고 발표됨"
+database = "일곱 차례 공개에 걸친 478건의 파일을 담은 검색 가능한 포털 데이터베이스(2026년 10월 23일 캡처 기준)로, 기관·공개 차수·사건 일자·위치·파일 유형별 필터링 가능"
 contributing_agencies = "전쟁부, NASA, CIA, FBI, 에너지부, 국무부, 대통령실, 그리고 — 여섯 번째 공개부터 — 콜로라도주의 한 지역 법집행기관; 국가정보국장실(ODNI)은 조정 역할"
 corpus_position = "물병자리 시대 제IX절의 공개(disclosure) 곡선의 제도적 가속으로 추적됨; 동원 없는 등재 — 공개된 어떤 파일도 프레임워크에 유리하게 계상되지 않고, 어떤 반증도 프레임워크에 불리하게 계상되지 않음"
 distinguished_from = "AARO(사례를 판정하는 펜타곤의 상설 분석 기구; PURSUE는 기록을 공개한다), FOIA 시대의 단편적 기밀 해제, 그리고 2023–2024년의 의회 청문회 트랙"
@@ -40,7 +40,7 @@ Unsealing and Reporting System for UAP Encounters)** — 는 **미확인 변칙
 게시하기 위한 미국 정부의 프로그램이다. 2026년 2월 대통령 지시로 명령되었고
 국가정보국장실(ODNI)의 지원을 받아 전쟁부가 운영하며, 문서·이미지·영상·음성
 기록의 자료군을 단일한 공공 포털 war.gov/UFO에 정기 주기로 게시한다 —
-2026년 5월 8일부터 9월 18일까지 여섯 차례의 공개가 이루어졌고, 추가 공개가
+2026년 5월 8일부터 10월 23일까지 일곱 차례의 공개가 이루어졌고, 추가 공개가
 활발히 작업 중이라고 발표되어 있다. 전쟁부는 이 사업을 「수십 개 기관
 사이의 조정과, 그 다수가 종이로만 존재하는 수천만 건의 기록의 검토」를
 요하는 일로 설명한다.
@@ -115,12 +115,12 @@ PURSUE 담당자에게 공개할 수 있으며, 이 면제는 그들이 서명�
 ## 프로그램의 운영 방식
 
 war.gov/UFO의 포털은 기관, 공개 차수, 사건 일자, 사건 위치, 파일 유형별로
-필터링할 수 있는 검색 가능한 데이터베이스를 제공하며, 2026년 9월 18일
-기준으로 **여섯 차례 공개에 걸쳐 447건의 파일**을 헤아렸다. 파일들은 기여
+필터링할 수 있는 검색 가능한 데이터베이스를 제공하며, 2026년 10월 23일
+기준으로 **일곱 차례 공개에 걸쳐 478건의 파일**을 헤아렸다. 파일들은 기여
 기관과 유형별 구조화된 식별자(`DOW-UAP-D101`, `FBI-UAP-D024`,
 `EOP-UAP-D001`)를 달고 있으며, 자료군은 대략 월간 리듬으로 도착해 왔다.
 2주, 3주, 4주의 간격이 4주에서 자리를 잡았다가, 다섯 번째와 여섯 번째 공개
-사이에서 6주로 늘어난 것이다. 대중의 관심은 상당했다.
+사이에서 6주로 늘어났고, 일곱 번째 공개 전에는 5주였다. 대중의 관심은 상당했다.
 펜타곤 수석 대변인은 프로그램 첫 5주 동안의 포털 트래픽을 17억 히트 이상으로
 집계했다.
 
@@ -132,7 +132,9 @@ war.gov/UFO의 포털은 기관, 공개 차수, 사건 일자, 사건 위치, �
 2008–2012년 첨단 항공우주 무기체계 응용 프로그램(Advanced Aerospace Weapon
 System Applications Program)의 계약 기록과 참고문헌 서고 — 그 더 이국적인
 논문들에 대한 보증을 거부하는 전쟁부 자체의 주석과 함께 게시된 것 — 를
-섞어 담는다. 주목할 점은, 프로그램이 미지의
+섞어 담으며, 일곱 번째 공개는 그 프로그램의 계약업체 측 기록 — 그 계획,
+월간 보고서, 현장 조사 — 과, 우주에서 떨어지는 물체의 회수에 관한
+1962–1964년의 백악관 파일을 더했다. 주목할 점은, 프로그램이 미지의
 사례들과 나란히 **부정적 판정**까지 공개한다는 것이다. 다섯 번째 자료군에는
 1963년의 한 사례 — 추락한 구체에 관한 브라질 라디오 보도로, 백악관
 우주위원회에서 조회된 것 — 가 포함되었는데, 공개된 국무부 전문(電文)들
@@ -157,6 +159,7 @@ System Applications Program)의 계약 기록과 참고문헌 서고 — 그 더
 | 04 | 7월 10일 | + 에너지부 | [PURSUE 제4차 공개](/news/pursue-release-04-the-nuclear-nexus/) |
 | 05 | 8월 7일 | + 국무부, 대통령실 | [PURSUE 제5차 공개](/news/pursue-release-05-triangles-and-the-white-house-file/) |
 | 06 | 9월 18일 | + 지역 법집행기관(콜로라도주) — 최초의 비연방 기여 기관 | [PURSUE 제6차 공개](/news/pursue-release-06-warp-drives-and-the-tremonton-film/) |
+| 07 | 10월 23일 | 새 기여 기관 없음; 일반적인 「미국 정부(U.S. Government)」 접두어 아래의 첫 파일로, 여러 기관에 걸친 대통령 도서관 문서철 | [PURSUE 제7차 공개](/news/pursue-release-07-a-black-triangle-and-the-utah-ranch/) |
 
 포털의 데이터베이스는 일부 개별 파일을 발표와는 다르게 이 경계들 너머로
 배정한다(예컨대 NASA 귀속 문서가 제1차 공개 아래 나타난다). 따라서 표는
@@ -189,7 +192,7 @@ Book)**(1952–1969) — 를 운영했고, 이들은 합쳐서 12,618건의 목�
 그 계보에 비추어 보면 PURSUE의 새로움은 실질이 아니라 구조에 있다. 청구에
 의한 공개가 아닌 기본값으로서의 공개; 산발적 공개가 아닌 정기 주기; 흩어진
 열람실이 아닌 단일한 통합 포털; 그리고 국방·정보 기관을 넘어 외교 조직과
-대통령 자신의 기록에까지 이르는 기여 기관 명단. 여섯 자료군이 나온
+대통령 자신의 기록에까지 이르는 기여 기관 명단. 일곱 자료군이 나온
 지금까지 PURSUE가 *하지 않은* 것은, 2023년 증언의 더 깊은 주장들에 닿는
 어떤 것도 공개하지 않았다는 것이다.
 
@@ -197,7 +200,7 @@ Book)**(1952–1969) — 를 운영했고, 이들은 합쳐서 12,618건의 목�
 
 [물병자리 시대](/timeline/age-of-aquarius/) 장(章)의 제IX절은 현 수십 년에
 대해 UAP 문제가 다루어지는 공식성의 가속을 예기한다 — 코퍼스의 디스패치들은
-여섯 차례의 공개를 그 곡선 위의 여섯 개의 기록 가능한 시점으로 읽으며,
+일곱 차례의 공개를 그 곡선 위의 일곱 개의 기록 가능한 시점으로 읽으며,
 PURSUE 자체를 지금까지 그 곡선의 가장 명료한 제도적 표현으로 읽는다.
 
 프레임워크의 관심은 특정하다. 정경의 서술에 따르면 접촉은 — 온다면 —
@@ -223,8 +226,12 @@ PURSUE 자체를 지금까지 그 곡선의 가장 명료한 제도적 표현으
 프레임의 어떤 것도 비재래적 설명을 함의하지 않으며, 전쟁부 자신도 공개된
 어떤 사례를 비재래적인 것으로 확인되었다고 규정하지 않는다.
 
-**더 깊은 주장들은 손대지 않은 채 남아 있다.** 여섯 자료군에는 2023년
-증언의 기체 회수·역설계 주장에 관한 자료가 없다. 두 가지 독해가 가능하다 —
+**더 깊은 주장들은 손대지 않은 채 남아 있다.** 일곱 자료군에는 2023년
+증언이 주장한 기체 회수·역설계에 관한 정부 기록이 없다. 일곱 번째 자료군은
+회수된 하드웨어와 생물학적 표본을 획득하려는 한 계약업체의 2008–2009년
+계획을, 그 계약업체가 거기에 첨부한 전언 증언과 함께 게시하지만, 공개된
+자료의 어떤 것도 그러한 물질이 실제로 입수되었음을 보여 주지 않는다. 두
+가지 독해가 가능하다 —
 공개될 그런 자료가 존재하지 않는다는 것(AARO의 공표된 결론), 또는 그것이 이
 프로그램의 손이 닿지 않는 곳에 존재한다는 것(ODNI 지침의 아직 열려 있는
 계약업체 문제에 상당 부분 기대는 내부고발자 측 입장). 코퍼스는 둘 다 열어
@@ -268,7 +275,7 @@ Vorilhon, Claude (Raël). *Intelligent Design: Message from the Designers*. Nova
 
 ### 정부 일차 자료
 
-U.S. Department of War. *Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)* — release portal and database. war.gov/UFO, May–September 2026.
+U.S. Department of War. *Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)* — release portal and database. war.gov/UFO, May–October 2026.
 
 U.S. Department of War. "Department of War Releases Unidentified Anomalous Phenomena Files in Historic Transparency Effort." Press release, May 8, 2026.
 
@@ -277,6 +284,8 @@ U.S. Department of War. "Department of War Publishes Fifth Release of Unidentifi
 U.S. Department of War. "Department of War Issues Legal Waiver to Authorize Unidentified Anomalous Phenomena (UAP) Disclosures to PURSUE." Press release, September 14, 2026.
 
 U.S. Department of War. "Department of War Publishes Sixth Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO." Press release, September 18, 2026.
+
+U.S. Department of War. "Department of War Publishes Seventh Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO." Press release, October 23, 2026.
 
 *50 U.S.C. § 3373b* — authorized UAP disclosures and prohibition on reprisals, enacted in the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, December 2022.
 
