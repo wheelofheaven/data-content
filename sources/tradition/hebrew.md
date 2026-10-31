@@ -116,7 +116,7 @@ in genre from the rest of the Torah: they are compressed, mythic in
 register, and cover eleven generations before the call of Abraham.
 Within them:
 
-- **Genesis 1** — creation by *Elohim* (grammatically plural),
+- **Genesis 1** — creation by *Elohim* (plural in form),
   sequenced as six "days" of bounded activity with explicit
   separations, namings, and "after their kinds" reproducibility
   constraints. See the [Elohim concept hub](/wiki/elohim/)
