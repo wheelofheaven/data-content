@@ -2,12 +2,14 @@
 title = "The Forty Chairs"
 description = "Forty guests sat at Yahweh's table in 1975, and the canon never names them all. Formalizing the instrument that decides which traditions were really there."
 template = "articles-page.html"
-date = 2026-07-06
+date = 2026-11-01
 draft = true
 
 [extra]
 card_summary = "The unnamed guests at Yahweh’s table and a method for assessing which traditions the account may include."
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0054"]
+core_versions = { woh-claim-0054 = "0.1.0" }
 editorial_pass = "2026-05"
 article_type = "explainer"
 category = "Comparative"
@@ -30,6 +32,7 @@ references = [
 
     # — The doorkeeping traditions —
     { title = "The Canon of the New Testament: Its Origin, Development, and Significance — Marcion, the Muratorian fragment, Athanasius's thirty-ninth festal letter", author = "Bruce M. Metzger", date = "1987" },
+    { title = "'What Do We Mean by Jabneh?,' Journal of Bible and Religion 32/2 — the article that dismantled the 'Council of Jamnia' as a canon-closing event", author = "Jack P. Lewis", date = "1964" },
     { title = "Hadith: Muhammad's Legacy in the Medieval and Modern World — the isnād sciences, ʿilm al-rijāl, and the grading vocabulary (ṣaḥīḥ, ḥasan, ḍaʿīf, mawḍūʿ)", author = "Jonathan A. C. Brown", date = "2009" },
 
     # — The disciplines of doubt —
@@ -62,6 +65,7 @@ references = [
 
     # — The frontier cases —
     { title = "The Mandaeans: Ancient Texts and Modern People — the last Gnostics, the Ginza Rabba, and the John the Baptist connection", author = "Jorunn Jacobsen Buckley", date = "2002" },
+    { title = "'Early Buddhist Art and the Theory of Aniconism,' Art Journal 49/4 — the challenge to Foucher's aniconism thesis that footnote 11 leaves open", author = "Susan L. Huntington", date = "1990" },
     { title = "The Death and Rebirth of the Seneca — the Handsome Lake revelation of 15 June 1799 and its ethnographic record, including the Quaker eyewitness journal", author = "Anthony F. C. Wallace", date = "1969" }
 ]
 
@@ -163,15 +167,15 @@ register of a reference entry, this article does at full length: where
 the criteria come from, why these five and not others, how the
 instrument is calibrated against known cases at both ends, what it says
 about the traditions that have no prophet at all, and what it flags at
-the frontier. The claim-typing is worth stating at the door. That the
+the frontier. The claim-typing comes first. That the
 Elohim made contact with human populations and that religions descend
 from those contacts is a framework premise of this project — explicit
 in the canon, not endorsed by mainstream scholarship. The *instrument*
 built on that premise, though, is an inferred articulation of the
 corpus's own method, and it is designed so that a reader who rejects
 the premise entirely can still check every gear of it. That design
-choice is not diplomacy. It is the whole point, and the final section
-will return to it.
+choice is the point of the exercise, and the final section returns to
+it.
 
 ## Every canon builds a doorman
 
@@ -275,8 +279,8 @@ down, and no mechanical sieve extracts uninterpreted event from
 interpreted memory. What survived the demise is what was always true:
 the criteria are a discipline for arguments, a shared public grammar in
 which a claim about authenticity can be stated, attacked, and defended.
-The corpus's instrument inherits both the tools and the humility. Six
-tests, and not one of them a machine.
+The corpus's instrument inherits both the tools and the humility: six
+tests, none of them a machine.
 
 The third discipline is forensic, and it contributes the instrument's
 sharpest edge. In the 1870s an Italian physician writing as "Ivan
@@ -286,7 +290,7 @@ forger, concentrating on the famous features, executes on habit and
 therefore in his own hand rather than his model's. Carlo Ginzburg's
 celebrated essay on Giovanni Morelli's method named the underlying
 logic the "evidential paradigm": authenticity betrays itself, and
-fabrication betrays itself, in the unregarded margins.{{ footnote(id="2") }}
+fabrication betrays itself, in the unregarded margins.
 The paradigm's cleanest modern demonstration in religious materials is
 the affair of the Gospel of Jesus's Wife — the business-card-sized
 papyrus fragment unveiled at Harvard in 2012, in which Jesus says "my
@@ -363,12 +367,10 @@ knowledge, the war in heaven, civilization received as a gift — and
 that the framework reads as the damaged-archive residue of the same
 events. The corpus maintains its own
 {% wiki(slug="list-of-mythemes-and-mythological-motifs") %}catalogue of
-mythemes and motifs{% end %} for exactly this work, and a
-[companion Explainer](/articles/the-filing-cabinet-of-the-gods/) reads
-the discipline's great instrument — Stith Thompson's *Motif-Index* —
-at full length; a handful of motifs, present together and load-bearing,
-are among the most telling authenticity markers an ancient tradition
-can carry.
+mythemes and motifs{% end %} for exactly this work, keyed to the
+discipline's great instrument, Stith Thompson's *Motif-Index*; a
+handful of motifs, present together and load-bearing, are among the
+most telling authenticity markers an ancient tradition can carry.
 
 **Test 3 — External traceability.** Do the founder and the founding
 event leave marks in records the tradition does not control? Hostile
@@ -709,7 +711,7 @@ convicts or acquits the founding. Third, it sharpens the negative
 verdicts that follow: the decisive finding against a fabricated
 tradition is never that its institution decayed — whose has not? — but
 that its founding stratum, drilled to directly, already lacks the
-watermark. Which is the bench the next section sits down at.
+watermark.
 
 ## The negative control: Scientology on the bench
 
@@ -719,7 +721,7 @@ in documentation to be run through all six tests in public, and the
 catalogue's strongest negative verdict — Scientology, highly unlikely —
 is exactly that case. The verdict deserves better than a sneer, because
 nothing discredits a method faster than treating its conclusions as
-foregone. Here is the docket.
+foregone.
 
 *Test 1 — contact specificity.* The founding document of the movement
 is *Dianetics: The Modern Science of Mental Health*, published in May
@@ -750,7 +752,7 @@ kin for over a decade before Dianetics; the whole-track material is
 continuous in idiom, furniture, and narrative reflex with the fiction
 he was paid by the word to produce. Where the Book of Mormon's
 cosmological content exceeds what an upstate farmhand's shelf can
-easily explain — the instrument will come to that — OT III's content is
+easily explain, OT III's content is
 *predicted* by its author's shelf, item for item. On Test 2 the
 tradition does not score low; it scores negative, because the deposit
 is affirmative evidence for the null.
@@ -816,11 +818,10 @@ accordingly.
 
 ## Two Americans
 
-The instrument's decisive demonstration, though, is not Scientology
-alone. It is Scientology set beside the case that superficially
-resembles it most — because any critic can build a sieve that catches
-the tradition everyone expects it to catch. The test of the sieve is
-the pair.
+The instrument's decisive demonstration sets Scientology beside the
+case that superficially resembles it most, because any critic can
+build a sieve that catches the tradition everyone expects it to catch.
+The test of the sieve is the pair.
 
 Joseph Smith and L. Ron Hubbard are the two most consequential new
 scripture-producers in American history, and the surface symmetry is
@@ -890,8 +891,8 @@ entitles the instrument to an opinion about harder cases.
 
 ## The custodians: legitimacy without a prophet
 
-The user's-eye view of the catalogue suggests every entry is a founder
-plus a verdict, and that would miss a category the canon itself forces
+Read quickly, the catalogue suggests every entry is a founder plus a
+verdict, and that reading would miss a category the canon itself forces
 on the instrument. The founding book's fifth chapter, in the same
 breath that names the confirmed traditions, awards its single highest
 compliment to something that is not a prophet-founded religion at all:
@@ -1155,10 +1156,6 @@ shrug — and publishes its instrument instead.
   {% wiki(slug="hanafiyya") %}Hanafiyya{% end %} entry, for the
   stratum's own name for itself and the restorationist reading of
   Islamic origins.
-- [*The Filing Cabinet of the
-  Gods*](/articles/the-filing-cabinet-of-the-gods/), for the motif
-  catalogue behind Test 2's work on the founderless ancient
-  traditions — the recurring scenes read as a damaged archive.
 - [*Extraterrestrials Took Me to Their
   Planet*](/library/extraterrestrials-took-me-to-their-planet/) and
   [*The Book Which Tells the

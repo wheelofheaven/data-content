@@ -20,7 +20,8 @@ see_also = [
     { title = "Noah", path = "wiki/noah", description = "An early figure in the framework's roughly forty-prophet succession." },
     { title = "Abraham", path = "wiki/abraham", description = "A patriarchal prophet in the cumulative preparation the institution effects." },
     { title = "Moses", path = "wiki/moses", description = "A major Hebrew prophet within the mediated-contact mechanism." },
-    { title = "Jesus", path = "wiki/jesus", description = "One of the two Piscean-age prophets in the succession." }
+    { title = "Jesus", path = "wiki/jesus", description = "One of the two Piscean-age prophets in the succession." },
+    { title = "The Forty Chairs", path = "articles/the-forty-chairs", description = "The canon names five of the roughly forty seated prophets; the Explainer builds the instrument for deciding who else was at the table." }
 ]
 portrait_id = "prophetic-lineage"
 image = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.webp"
