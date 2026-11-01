@@ -1,0 +1,33 @@
++++
+title = "Zechariah"
+slug = "zechariah-woh"
+description = "Three chapters of Zechariah translated from the Hebrew: the golden lampstand and two olive trees, the flying scroll and the ephah, and the king on a donkey."
+template = "library-book.html"
+date = 2026-11-01
+
+[extra]
+same_as = ["https://www.wikidata.org/wiki/Q179769"]
+translation_status = "partial"
+claim_type = "direct"
+source_family = "abrahamic"
+editorial_pass = "2026-05"
+edition = "Pointed Hebrew Masoretic text of the Westminster Leningrad Codex (public domain), via Sefaria. The English translation and notes are released CC0."
+coverage = "Chapters 4, 5 and 9 translated (42 verses): every chapter of the book cited in the Raëlian canon. The rest of the book is not translated."
+review_status = "Reviewed and signed off."
+editorial_history = '''
+**Review record.** All three chapter files carry `status: stable` (v1.0.0) with a named human reviewer (zarazinsfuss), signed off on 2026-11-01 in the Latter Prophets wave (LP1) of the canon-cited program. The editor report, the reviewer reports in the chapter files and the sign-off package (`data-library/zechariah-woh/wave-lp1-signoff-package.md`) record every decision.
+
+**Selection.** Part of the program to translate, as whole chapters, every biblical chapter that the three Raëlian canon books (*The Book Which Tells the Truth*, *Extra-Terrestrials Took Me to Their Planet*, *Let's Welcome the Extra-Terrestrials*) cite. With this release the program is complete: 87 chapters.
+
+**Conventions.** The prophetic volumes follow the Isaiah conventions: *ʾĕlōhîm* is "God", *ʾereṣ* "earth" in cosmic contexts and "land" for territory, divine *rûaḥ* a lower-case "spirit", *tôrâ* "teaching", *maśśāʾ* "oracle", and *nəʾum YHWH* "declares YHWH". Proper names are in their English forms. The canon's readings appear only in notes headed "Wheel of Heaven reading (reception note, not a translation claim)".
+
+**Production.** Drafted by Claude Opus 5.5 and taken through the Wheel of Heaven Translation Program pipeline (Translator → Editor → Reviewer → human sign-off). Central glossary 2.84.0–2.90.0; zechariah-woh overlay v1.0.0. Reference translation: ASV (1901). Methodology: [Source-Text Translation](https://docs.wheelofheaven.world/contributing/content/source-text-translation/).
+'''
++++
+Zechariah (Hebrew *Zekharyah*) prophesied in Jerusalem after the return from exile, in a series of night visions explained by an interpreting messenger. This translation covers the three chapters that the Raëlian canon cites:
+
+- **Zechariah 4**: the golden lampstand and the two olive trees, "the two sons of fresh oil"
+- **Zechariah 5**: the flying scroll, and the woman in the ephah carried "between the earth and the skies"
+- **Zechariah 9**: the oracle against the nations, and the king who comes riding on a donkey
+
+The scroll at 5:2 measures twenty cubits by ten. At 4:10 the speech marks follow the Hebrew: YHWH's word ends after "Zerubbabel", and the messenger's explanation of "the eyes of YHWH" begins. Verses with a note end in a bracketed marker `[ ]`; select it to open the note.
