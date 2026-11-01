@@ -3,7 +3,7 @@ title = "四十把椅子"
 description = "1975 年，四十位宾客坐在耶和华的餐桌旁，而正典从未把他们一一点名。本文把那件裁定哪些传统确曾在座的工具加以形式化。"
 template = "articles-page.html"
 date = 2026-11-01
-draft = true
+draft = false
 
 [extra]
 card_summary = "耶和华餐桌旁那些未具名的宾客，以及一种用以评估这段叙述可能涵盖哪些传统的方法。"

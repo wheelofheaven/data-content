@@ -3,7 +3,7 @@ title = "四十の椅子"
 description = "1975年、ヤハウェの食卓に四十人の客が着きましたが、カノンはその全員の名を挙げません。どの伝統が本当にそこにいたのかを判定する道具を定式化します。"
 template = "articles-page.html"
 date = 2026-11-01
-draft = true
+draft = false
 
 [extra]
 card_summary = "ヤハウェの食卓に着いた名もなき客たちと、その記述がどの伝統を含みうるかを評価するための方法。"

@@ -3,7 +3,7 @@ title = "마흔 개의 의자"
 description = "1975년 야훼의 식탁에는 마흔 명의 손님이 앉았으나, 정경은 그 모두의 이름을 밝히지 않는다. 어떤 전통이 실제로 그 자리에 있었는지 가려내는 도구를 정식화한다."
 template = "articles-page.html"
 date = 2026-11-01
-draft = true
+draft = false
 
 [extra]
 card_summary = "야훼의 식탁에 앉은 이름 없는 손님들, 그리고 그 기록이 어떤 전통들을 포함할 수 있는지 평가하는 방법."

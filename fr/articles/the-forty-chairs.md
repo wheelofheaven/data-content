@@ -3,7 +3,7 @@ title = "Les quarante chaises"
 description = "Une quarantaine de convives étaient à la table de Yahvé en 1975, et le canon ne les nomme jamais tous. Formaliser l'instrument qui décide quelles traditions y siégeaient vraiment."
 template = "articles-page.html"
 date = 2026-11-01
-draft = true
+draft = false
 
 [extra]
 card_summary = "Les convives sans nom de la table de Yahvé, et une méthode pour évaluer quelles traditions le récit peut inclure."

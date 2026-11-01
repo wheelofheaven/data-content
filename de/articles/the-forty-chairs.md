@@ -3,7 +3,7 @@ title = "Die vierzig Stühle"
 description = "Vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei waren."
 template = "articles-page.html"
 date = 2026-11-01
-draft = true
+draft = false
 
 [extra]
 card_summary = "Die ungenannten Gäste an Jahwes Tisch und eine Methode, mit der sich prüfen lässt, welche Traditionen der Bericht einschließen könnte."

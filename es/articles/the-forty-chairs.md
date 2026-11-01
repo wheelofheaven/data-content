@@ -3,7 +3,7 @@ title = "Las cuarenta sillas"
 description = "Cuarenta invitados se sentaron a la mesa de Yahvé en 1975, y el canon nunca los nombra a todos. Formalizamos el instrumento que decide qué tradiciones estaban allí."
 template = "articles-page.html"
 date = 2026-11-01
-draft = true
+draft = false
 
 [extra]
 card_summary = "Los invitados sin nombre a la mesa de Yahvé y un método para evaluar qué tradiciones puede incluir el relato."
