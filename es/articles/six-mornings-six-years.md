@@ -510,7 +510,7 @@ y el libro 2 data el desembarco en la Tierra veinticinco mil años atrás
 banquete de 1975, un recuento de paso, reaparecen correctos en 1979 («los
 grandes profetas, cerca de 40 en total»); la propia historia de traducción de
 ese recuento —el francés *la quarantaine*, endurecido por la edición inglesa
-en un cuarenta definido— se examina en *Las cuarenta sillas*. Los umbrales de
+en un cuarenta definido— se examina en [*Las cuarenta sillas*](/articles/the-forty-chairs/). Los umbrales de
 la geniocracia (elegibilidad con un 50 por ciento por encima de la media,
 derecho de voto con un 10) reaparecen textualmente, introducidos con una
 referencia cruzada explícita: «Como se dice en la primera parte de este libro»
@@ -755,7 +755,7 @@ liquidar.
   religiones*](/articles/the-religion-of-religions/), para la escalada pública
   que produjo el sistema de divulgación: estenógrafo, profeta, hijo, en seis
   años de libro de bolsillo.
-- *Las cuarenta sillas*, que formaliza el instrumento para calificar relatos
+- [*Las cuarenta sillas*](/articles/the-forty-chairs/), que formaliza el instrumento para calificar relatos
   fundacionales —y cuya primera nota al pie es un ejemplo trabajado de crítica
   de artefactos de traducción sobre el libro de 1975—.
 - [*El hombre que apostó la Biblia a la

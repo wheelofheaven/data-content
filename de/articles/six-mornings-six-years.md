@@ -561,7 +561,7 @@ zurückdatiert ({% libref(book="extraterrestrials-took-me-to-their-planet", chap
 von 1975, eine beiläufige Angabe, tauchen 1979 korrekt wieder auf („die
 großen Propheten – an die 40 insgesamt“); die Übersetzungsgeschichte
 dieser Angabe — französisch *la quarantaine*, von der englischen Ausgabe
-zu einem bestimmten Vierzig verhärtet — wird in *Die vierzig Stühle*
+zu einem bestimmten Vierzig verhärtet — wird in [*Die vierzig Stühle*](/articles/the-forty-chairs/)
 untersucht. Die Schwellenwerte der Geniokratie (Wählbarkeit bei 50
 Prozent über dem Durchschnitt, Wahlrecht bei 10) kehren wörtlich wieder,
 eingeführt mit einem ausdrücklichen Querverweis: „Wie im ersten Teil
@@ -835,7 +835,7 @@ dieser Niederschrift, schlicht uneingelöst.
   Religionen*](/articles/the-religion-of-religions/), für die öffentliche
   Eskalation, die das System der Offenbarungssteuerung hervorbrachte:
   Stenograph, Prophet, Sohn, in sechs Jahren Taschenbuch.
-- *Die vierzig Stühle*, das das Instrument zur Benotung von
+- [*Die vierzig Stühle*](/articles/the-forty-chairs/), das das Instrument zur Benotung von
   Gründungserzählungen formalisiert — und dessen erste
   Fußnote ein durchgerechnetes Beispiel für die Kritik von
   Übersetzungsartefakten am Buch von 1975 ist.

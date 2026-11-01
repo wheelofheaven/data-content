@@ -536,7 +536,7 @@ par le livre 2 ({% libref(book="extraterrestrials-took-me-to-their-planet", chap
 repas de 1975, un décompte jeté en passant, ressurgit exacte en 1979 (« les
 prophètes – près d'une quarantaine – ») ; l'histoire de traduction propre à
 ce décompte — le français *la quarantaine*, durci par l'édition anglaise en
-un quarante défini — est examinée dans *Les Quarante Chaises*. Les seuils
+un quarante défini — est examinée dans [*Les quarante chaises*](/articles/the-forty-chairs/). Les seuils
 de la géniocratie (éligibilité à 50 pour cent au-dessus de la moyenne,
 droit de vote à 10) reviennent mot pour mot, introduits par un renvoi
 explicite : « Comme cela est dit dans la première partie de ce livre »
@@ -799,7 +799,7 @@ lignes sont écrites, non honorée.
   religions*](/articles/the-religion-of-religions/), pour l'escalade
   publique qu'a produite le système de divulgation : sténographe, prophète,
   fils, en six ans de livres de poche.
-- *Les Quarante Chaises*, qui formalise l'instrument permettant de noter les
+- [*Les quarante chaises*](/articles/the-forty-chairs/), qui formalise l'instrument permettant de noter les
   récits de fondation — et dont la première
   note est un exemple travaillé de critique des artefacts de traduction sur
   le livre de 1975.
