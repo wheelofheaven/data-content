@@ -1,7 +1,7 @@
 +++
 title = "The Gospel According to Matthew"
 slug = "matthew-woh"
-description = "Eight chapters of Matthew from the earliest Greek codices: the birth narrative, the Sermon on the Mount, the parables, the Transfiguration and the Resurrection."
+description = "Twenty chapters of Matthew from the Greek: the magi, the temptation, the Sermon on the Mount, the parables, the Transfiguration, the passion, the Resurrection."
 template = "library-book.html"
 date = 2026-06-04
 
@@ -14,7 +14,7 @@ claim_type = "direct"
 source_family = "christian"
 editorial_pass = "2026-05"
 edition = "Koine Greek text reconstructed from Codex Vaticanus (B/03) and Codex Sinaiticus (א/01), checked against the early papyri P104, P64+P67, P77, P103 and P45 where they preserve these verses, and against the NA28/UBS5/SBLGNT critical apparatus. The Greek text displayed is that of the SBL Greek New Testament (SBLGNT), edited by Michael W. Holmes, © 2010 Society of Biblical Literature and Logos Bible Software, used under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). The English translation and notes are released CC0."
-coverage = "Chapters 1, 5, 6, 7, 13, 17, 25 and 28 translated (287 verses). The rest of the gospel is not translated."
+coverage = "Chapters 1–10, 13–15, 17, 19, 23 and 25–28 translated (750 verses): every chapter of the gospel cited in the Raëlian canon, with chapter 25. The rest of the gospel is not translated."
 review_status = "Reviewed and signed off. Checking against the original manuscripts is still pending."
 editorial_history = '''
 **Review record.** All eight chapter files carry `status: stable` (v1.0.0) with a named human reviewer, dated 2026-06-04, and full reviewer reports. `chapters-1-5-6-7-13-17-25-28-signoff-package.md`: "reviewer-approved on all 8 chapters (clean approve sweep)". `verificationStatus` notes pending verification against the original codicology and the critical apparatus; the trinitarian-formula question at 28:19 is specifically flagged.
@@ -28,13 +28,19 @@ editorial_history = '''
 **Production.** The translation was drafted by Claude Opus 4.7 and edited through the Wheel of Heaven Translation Program pipeline (Translator → Editor → Reviewer). Named scholarship verified by the Reviewer: Davies–Allison ICC 1988–1997, Luz Hermeneia 2001–2007, France NICNT 2007, Hagner WBC 1993–1995, Nolland NIGTC 2005, Brown 1993, Levine–Brettler JANT 2017, Snodgrass 2008, Allison 1993, Kupp 1996, Gray 1989, Conybeare 1901 (*ZNW* 2), Betz 1995, Metzger, BDAG, TDNT, Justin Martyr. Critical apparatus reference: NA28, UBS5, SBLGNT, THGNT. Methodology: [Source-Text Translation](https://docs.wheelofheaven.world/contributing/content/source-text-translation/).
 '''
 +++
-Matthew is the New Testament book the Raëlian canon cites most; *The Role of Christ* discusses 17 of its 28 chapters. This translation covers the eight it discusses most closely, rendered from the two great 4th-century codices and checked against the earlier papyri:
+Matthew is the New Testament book the Raëlian canon cites most; *The Role of Christ* discusses 17 of its 28 chapters. This translation covers all of them, with chapter 25:
 
 - **Matthew 1**: the genealogy of Jesus and the birth narrative
+- **Matthew 2–4**: the magi and the star "at its rising", the flight into Egypt, John the Baptist and the baptism, and the temptation in the wilderness
 - **Matthew 5–7**: the Sermon on the Mount, with the Beatitudes, the Lord's Prayer and the Golden Rule
+- **Matthew 8–10**: the healings, the stilling of the sea, and the sending of the twelve
 - **Matthew 13**: the kingdom parables. *The Role of Christ* reads the Parable of the Sower as a description of life being seeded on several worlds, the four kinds of soil standing for four kinds of planet.
+- **Matthew 14–15**: the feeding of the five thousand, walking on the sea, and what defiles a person
 - **Matthew 17**: the Transfiguration
+- **Matthew 19**: marriage, the rich young man, and "the regeneration"
+- **Matthew 23**: the woes against the scribes and Pharisees, and the lament over Jerusalem
 - **Matthew 25**: the ten virgins, the talents, and the sheep and the goats
+- **Matthew 26–27**: the last supper, Gethsemane and the arrest ("more than twelve legions of angels"), the trials, the crucifixion, and the earthquake
 - **Matthew 28**: the Resurrection and the Great Commission
 
 The translation follows the critical text. The doxology at the end of the Lord's Prayer ("for thine is the kingdom…"), absent from the oldest manuscripts, is left out and discussed in the notes. The notes also set out the debate over *parthenos* ("virgin") and the Hebrew *ʿalmâ* of Isaiah 7:14, the meanings of *epiousios* ("daily") in the Lord's Prayer, who "the least of these my brothers" are (25:40), and Conybeare's argument that the trinitarian formula in 28:19 was added later. Matthew 5:17 ("not to abolish but to fulfill") is not read as setting aside the Torah. Verses with a note end in a bracketed marker `[ ]`; select it to open the note.
