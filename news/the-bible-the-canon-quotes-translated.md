@@ -9,7 +9,7 @@ event_date = 2026-11-01
 event_type = "announcement"
 claim_type = "direct"
 editorial_pass = "2026-05"
-summary = "On November 1, 2026, the Wheel of Heaven library published its own English translation of 87 biblical chapters cited in The Book Which Tells the Truth, Extra-Terrestrials Took Me to Their Planet and Let's Welcome the Extra-Terrestrials: 2,482 verses in 22 books, sixteen of them new to the library. The canon's citations of these chapters now link to the verses they cite. A final check found eleven more cited chapters, which are next in the queue."
+summary = "On November 1, 2026, the Wheel of Heaven library published its own English translation of 87 biblical chapters cited in The Book Which Tells the Truth, Extra-Terrestrials Took Me to Their Planet and Let's Welcome the Extra-Terrestrials: 2,482 verses in 22 books, sixteen of them new to the library. The canon's citations of these chapters now link to the verses they cite. A final check found eleven more cited chapters; they were translated and published the next day, so every biblical chapter the three books cite is now translated: 98 in all."
 canon_links = [
     { title = "The Book Which Tells the Truth", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Reference corpus of the Raëlian canon", path = "/wiki/reference-corpus-of-the-raelian-canon/" },
@@ -63,11 +63,15 @@ canon's own readings of these passages appear beside the traditional and
 critical ones, in notes marked as Wheel of Heaven readings. The translated
 line itself makes no claim the source does not make.
 
-## What comes next
+## Update: the last eleven chapters
 
 A final check of the citations turned up eleven cited chapters that the
 program's first list missed: Leviticus 17 and 25, Numbers 11, Joshua 3,
 Judges 7, 2 Samuel 6, Micah 5, Tobit 12, Wisdom 6, Revelation 5 and
-1 Thessalonians 5. They are next in the queue. The
+1 Thessalonians 5. They went through the same Translator, Editor, Reviewer
+and sign-off pipeline and were published on November 2, 2026. Five books are
+new to the library: Leviticus, 2 Samuel, Micah, Tobit and 1 Thessalonians.
+Every biblical chapter cited in the three books is now translated: 98
+chapters. The
 [Reference corpus of the Raëlian canon](/wiki/reference-corpus-of-the-raelian-canon/)
 lists every cited chapter, book by book, with a link to its translation.

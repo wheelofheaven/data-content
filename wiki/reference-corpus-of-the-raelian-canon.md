@@ -133,17 +133,17 @@ These are texts, figures, and traditions the canon names explicitly, quotes from
 
 ### Hebrew Bible / Old Testament
 
-The canon's largest and most precisely cited body of reference is the Hebrew Bible. The books it quotes, with the chapters it cites; each links to the corpus's own translation from the Hebrew, which covers every cited chapter unless noted:
+The canon's largest and most precisely cited body of reference is the Hebrew Bible. The books it quotes, with the chapters it cites; each links to the corpus's own translation from the Hebrew, which covers every cited chapter:
 
 - **Genesis** — chapters 1–11, 19, 22, 28, 35. The opening of *The Truth* is a chapter-by-chapter re-reading of the primaeval history (creation, the Garden, the Flood, the Tower of Babel, Sodom and Gomorrah, the Binding of Isaac, Jacob's ladder). {% libref(book="genesis-woh") %}Translation{% end %} (the whole book).
 - **Exodus** — chapters 3, 13, 14, 16, 17, 19, 20, 24, 25, 33 (the burning bush, the pillar of cloud and fire, the parting of the sea, manna, Sinai, the elders who see the Elohim, the ark, "man shall not see me and live"). {% libref(book="exodus-woh") %}Translation{% end %}.
-- **Leviticus** — chapters 17 and 25 (the blood as life; the jubilee). Not yet translated.
-- **Numbers** — chapters 11, 18, 21, 33 (the manna, the priests' portions, the serpent of bronze, the wilderness stages). {% libref(book="numbers-woh") %}Translation{% end %}; chapter 11 not yet translated.
+- **Leviticus** — chapters 17 and 25 (the blood as life; the jubilee). {% libref(book="leviticus-woh") %}Translation{% end %}.
+- **Numbers** — chapters 11, 18, 21, 33 (the manna, the priests' portions, the serpent of bronze, the wilderness stages). {% libref(book="numbers-woh") %}Translation{% end %}.
 - **Deuteronomy** — chapter 4 (the voice from the fire at Horeb). {% libref(book="deuteronomy-woh") %}Translation{% end %}.
-- **Joshua** — chapters 3, 5, 6, 10 (the Jordan crossing, the captain of the host of YHWH, the fall of Jericho read as a sonic-weapon episode, the sun standing still). {% libref(book="joshua-woh") %}Translation{% end %}; chapter 3 not yet translated.
-- **Judges** — chapters 6, 7, 13 (Gideon; the birth of Samson, whose strength the canon reads telepathically). {% libref(book="judges-woh") %}Translation{% end %}; chapter 7 not yet translated.
+- **Joshua** — chapters 3, 5, 6, 10 (the Jordan crossing, the captain of the host of YHWH, the fall of Jericho read as a sonic-weapon episode, the sun standing still). {% libref(book="joshua-woh") %}Translation{% end %}.
+- **Judges** — chapters 6, 7, 13 (Gideon; the birth of Samson, whose strength the canon reads telepathically). {% libref(book="judges-woh") %}Translation{% end %}.
 - **1 Samuel** — chapters 3, 5, 6, 17 (the call of Samuel, the ark among the Philistines, David and Goliath). {% libref(book="1-samuel-woh") %}Translation{% end %}.
-- **2 Samuel** — chapter 6 (Uzzah and the ark). Not yet translated.
+- **2 Samuel** — chapter 6 (Uzzah and the ark). {% libref(book="2-samuel-woh") %}Translation{% end %}.
 - **1 Kings / 2 Kings** — 1 Kings 1, 2, 6, 8, 13, 17, 18, 19, 22 and 2 Kings 1, 2, 4, 17; Elijah's chariot of fire and ascent (2 Kings 2) is read as a spacecraft ascension. {% libref(book="1-kings-woh") %}1 Kings{% end %} and {% libref(book="2-kings-woh") %}2 Kings{% end %}.
 - **Job** — chapters 1, 2, 37, with a specific footnote pointing out a divergence between the Dhorme French translation and the English RNKJV at 37:18. {% libref(book="job-woh") %}Translation{% end %}.
 - **Psalms** — Psalms 8, 19, 33, 139, 147. {% libref(book="psalms-woh") %}Translation{% end %}.
@@ -153,8 +153,8 @@ The canon's largest and most precisely cited body of reference is the Hebrew Bib
 - **Jeremiah** — chapter 10. {% libref(book="jeremiah-woh") %}Translation{% end %}.
 - **Ezekiel** — chapters 1, 2, 3, 8, 10, 11, 37, 40, 42–44. Chapter 1 is treated as a full set-piece description of an Elohim landing; chapter 37 (the valley of dry bones) is interpreted in *Extra-Terrestrials Took Me To Their Planet* as a description of the biological-creation machine. {% libref(book="ezekiel-woh") %}Translation{% end %}.
 - **Daniel** — referenced in the apocalyptic context (chapters 3, 6, 10, 12). {% libref(book="daniel-woh") %}Translation{% end %} (the whole book).
-- **Amos** 4, **Jonah** 2, **Micah** 5, **Zephaniah** 1, **Zechariah** 4, 5, 9 — {% libref(book="amos-woh") %}Amos{% end %}, {% libref(book="jonah-woh") %}Jonah{% end %}, {% libref(book="zephaniah-woh") %}Zephaniah{% end %} and {% libref(book="zechariah-woh") %}Zechariah{% end %} translated; Micah not yet.
-- **Wisdom of Solomon** and **Tobit** (deuterocanonical) — Wisdom 6 and 13, Tobit 12. {% libref(book="wisdom-of-solomon-woh") %}Wisdom of Solomon{% end %} chapter 13 is translated from the Greek; Wisdom 6 and Tobit not yet.
+- **Amos** 4, **Jonah** 2, **Micah** 5, **Zephaniah** 1, **Zechariah** 4, 5, 9 — {% libref(book="amos-woh") %}Amos{% end %}, {% libref(book="jonah-woh") %}Jonah{% end %}, {% libref(book="micah-woh") %}Micah{% end %}, {% libref(book="zephaniah-woh") %}Zephaniah{% end %} and {% libref(book="zechariah-woh") %}Zechariah{% end %}.
+- **Wisdom of Solomon** and **Tobit** (deuterocanonical) — Wisdom 6 and 13, Tobit 12. {% libref(book="wisdom-of-solomon-woh") %}Wisdom of Solomon{% end %} and {% libref(book="tobit-woh") %}Tobit{% end %}, translated from the Greek of the Septuagint.
 
 In the reader, the canon's own scripture citations (for example "(Exodus, III-2)") link to the cited verse of these translations.
 
@@ -166,8 +166,8 @@ The Pentateuch and the prophetic books are the densest sites of citation. The So
 - **Gospel of Mark** — quoted from chapter 16 (the Ascension and the "they shall take up serpents" passage). {% libref(book="mark-woh") %}Translation{% end %}.
 - **Gospel of Luke** — quoted from chapter 21 (the parable of the fig tree). {% libref(book="luke-woh") %}Translation{% end %}.
 - **Acts of the Apostles** — quoted from chapters 2 (Pentecost), 12 (Peter's prison release), 15, 17. {% libref(book="acts-woh") %}Translation{% end %}.
-- **1 Thessalonians** — chapter 5 ("the day of the Lord so cometh as a thief in the night"), in *Let's Welcome the Extra-Terrestrials*. Not yet translated.
-- **Revelation / Apocalypse of John** — treated at length in *The New Revelations*, which cites chapters 1, 4–10, 12, 13, 16 and 21 and reads them as a dictation given to John through what is described as a visual-display apparatus. {% libref(book="revelation-woh") %}Translation{% end %}; chapter 5 not yet translated.
+- **1 Thessalonians** — chapter 5 ("the day of the Lord so cometh as a thief in the night"), in *Let's Welcome the Extra-Terrestrials*. {% libref(book="1-thessalonians-woh") %}Translation{% end %}.
+- **Revelation / Apocalypse of John** — treated at length in *The New Revelations*, which cites chapters 1, 4–10, 12, 13, 16 and 21 and reads them as a dictation given to John through what is described as a visual-display apparatus. {% libref(book="revelation-woh") %}Translation{% end %}.
 
 ### Specific Bible translations as references
 
