@@ -358,6 +358,28 @@ the word of the Bible, which is a witness to the truth, has spread throughout th
 world."* The Hebrew Bible is, on this reading, both the text most distorted in
 translation and the text most widely distributed because of it.
 
+### The corpus's own translation
+
+Because the reading turns on the Hebrew, the corpus translates the cited text itself
+rather than relying on the received English. The
+[Wheel of Heaven Translation Program](https://docs.wheelofheaven.world/contributing/content/source-text-translation/)
+renders the Masoretic text into English with a verse-level apparatus, and each
+chapter is reviewed and signed off before it is published. It covers the whole of
+{% libref(book="genesis-woh") %}Genesis{% end %} and {% libref(book="daniel-woh") %}Daniel{% end %}, and the chapters
+of the other books that the three canonical books cite:
+{% libref(book="exodus-woh") %}Exodus{% end %}, {% libref(book="numbers-woh") %}Numbers{% end %},
+{% libref(book="deuteronomy-woh") %}Deuteronomy{% end %}, {% libref(book="joshua-woh") %}Joshua{% end %},
+{% libref(book="judges-woh") %}Judges{% end %}, {% libref(book="1-samuel-woh") %}1 Samuel{% end %},
+{% libref(book="1-kings-woh") %}1 Kings{% end %}, {% libref(book="2-kings-woh") %}2 Kings{% end %},
+{% libref(book="isaiah-woh") %}Isaiah{% end %}, {% libref(book="jeremiah-woh") %}Jeremiah{% end %},
+{% libref(book="ezekiel-woh") %}Ezekiel{% end %}, {% libref(book="amos-woh") %}Amos{% end %}, {% libref(book="jonah-woh") %}Jonah{% end %},
+{% libref(book="zephaniah-woh") %}Zephaniah{% end %}, {% libref(book="zechariah-woh") %}Zechariah{% end %},
+{% libref(book="psalms-woh") %}Psalms{% end %}, {% libref(book="job-woh") %}Job{% end %}, {% libref(book="proverbs-woh") %}Proverbs{% end %}
+and {% libref(book="ecclesiastes-woh") %}Ecclesiastes{% end %}. The translation prints the divine
+name as *YHWH* rather than "the LORD", and the canon's own readings sit in
+clearly marked reception notes beside the traditional and critical ones. Which chapters the canon cites, book by book, is
+set out in [Reference corpus of the Raëlian canon](../reference-corpus-of-the-raelian-canon/).
+
 ### The astral vocabulary
 
 The Hebrew Bible keeps its astronomy sparse, which makes its two explicit
@@ -428,5 +450,6 @@ same events.
 - [Mazzaroth](../mazzaroth/)
 - [Doubled Signature](../doubled-signature/)
 - [Message from the Designers](../message-from-the-designers/)
+- [Reference corpus of the Raëlian canon](../reference-corpus-of-the-raelian-canon/)
 - [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/)
 - [The Mill That Grinds the Ages](/articles/the-mill-that-grinds-the-ages/)

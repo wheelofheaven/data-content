@@ -14,7 +14,7 @@ claim_type = "direct"
 source_family = "christian"
 editorial_pass = "2026-05"
 edition = "Koine Greek text reconstructed from Codex Sinaiticus (א/01), the only 4th-century uncial to contain Revelation, checked against the papyrus P47 (c. 250 CE) and the NA28/UBS5/SBLGNT critical apparatus. The Greek text displayed is that of the SBL Greek New Testament (SBLGNT), edited by Michael W. Holmes, © 2010 Society of Biblical Literature and Logos Bible Software, used under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). The English translation and notes are released CC0."
-coverage = "Chapters 1, 4, 6, 7, 8, 9, 10, 12, 13, 16 and 21 translated (194 verses): every chapter of the book cited in the Raëlian canon. The rest of the book is not translated."
+coverage = "Chapters 1, 4, 6, 7, 8, 9, 10, 12, 13, 16 and 21 translated (194 verses): every chapter of the book cited in the Raëlian canon except chapter 5, which is next. The rest of the book is not translated."
 review_status = "Reviewed and signed off. Checking against the original manuscripts is still pending."
 editorial_history = '''
 **Review record.** All three chapter files carry `status: stable` (v1.0.0) with a named human reviewer, dated 2026-06-04, and full reviewer reports. `verificationStatus` notes pending verification against Sinaiticus, Alexandrinus, Ephraemi (and P98 for 1:13–20) original codicology, the critical apparatus and Hoskier 1929.

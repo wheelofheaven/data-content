@@ -12,12 +12,12 @@ claim_type = "direct"
 source_family = "abrahamic"
 editorial_pass = "2026-05"
 edition = "Pointed Hebrew Masoretic text of the Westminster Leningrad Codex (public domain), via Sefaria. The English translation and notes are released CC0."
-coverage = "Chapters 18, 21 and 33 translated (123 verses): every chapter of the book cited in the Raëlian canon. The rest of the book is not translated."
+coverage = "Chapters 18, 21 and 33 translated (123 verses): every chapter of the book cited in the Raëlian canon except chapter 11, which is next. The rest of the book is not translated."
 review_status = "Reviewed and signed off."
 editorial_history = '''
 **Review record.** All three chapter files carry `status: stable` (v1.0.0) with a named human reviewer (zarazinsfuss), signed off on 2026-11-01 in the Torah wave (T1) of the canon-cited program. The editor report, the reviewer reports in the chapter files and the sign-off package (`data-library/exodus-woh/wave-t1-signoff-package.md`) record every decision.
 
-**Selection.** Part of the program to translate, as whole chapters, every biblical chapter that the three Raëlian canon books (*The Book Which Tells the Truth*, *Extra-Terrestrials Took Me to Their Planet*, *Let's Welcome the Extra-Terrestrials*) cite. With this release the program is complete: 87 chapters.
+**Selection.** Part of the program to translate, as whole chapters, every biblical chapter that the three Raëlian canon books (*The Book Which Tells the Truth*, *Extra-Terrestrials Took Me to Their Planet*, *Let's Welcome the Extra-Terrestrials*) cite. With this release 87 cited chapters are translated. A final check of the citations found eleven more (Leviticus 17 and 25, Numbers 11, Joshua 3, Judges 7, 2 Samuel 6, Micah 5, Tobit 12, Wisdom 6, Revelation 5 and 1 Thessalonians 5), which are next.
 
 **Conventions.** The Torah volumes keep the names of the published Exodus ('Moses', 'Mitsrayim'); other names are transliterated. *Šāmayim* is "skies" for the physical sky and "heaven(s)" for YHWH's realm. *Tôrâ* is "law", *tərûmâ* "oblation", *ḥērem* "devote(d) to destruction", and the Hishtaphel of *ḥwh* "bow down". Ketiv/Qere sites translate the Qere and record the Ketiv. The canon's readings appear only in notes headed "Wheel of Heaven reading (reception note, not a translation claim)".
 

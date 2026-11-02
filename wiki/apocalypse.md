@@ -291,6 +291,7 @@ The corpus's reading is positioned as follows within the broader landscape: alig
 - [Age of Pisces](../timeline/age-of-pisces/)
 - [Golden Age](../golden-age/)
 - [Book of Revelation](../book-of-revelation/)
+- [Revelation, the Wheel of Heaven translation](/library/revelation-woh/)
 - [Apocalyptic Literature](../apocalyptic-literature/)
 - [Daniel](../daniel/)
 - [Book of Enoch](../book-of-enoch/)

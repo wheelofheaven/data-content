@@ -12,12 +12,12 @@ claim_type = "direct"
 source_family = "abrahamic"
 editorial_pass = "2026-05"
 edition = "Pointed Hebrew Masoretic text of the Westminster Leningrad Codex (public domain), via Sefaria. The English translation and notes are released CC0."
-coverage = "Chapters 6 and 13 translated (65 verses): every chapter of the book cited in the Raëlian canon. The rest of the book is not translated."
+coverage = "Chapters 6 and 13 translated (65 verses): every chapter of the book cited in the Raëlian canon except chapter 7, which is next. The rest of the book is not translated."
 review_status = "Reviewed and signed off."
 editorial_history = '''
 **Review record.** All two chapter files carry `status: stable` (v1.0.0) with a named human reviewer (zarazinsfuss), signed off on 2026-11-01 in the Former Prophets wave (FP1) of the canon-cited program. The editor report, the reviewer reports in the chapter files and the sign-off package (`data-library/joshua-woh/wave-fp1-signoff-package.md`) record every decision.
 
-**Selection.** Part of the program to translate, as whole chapters, every biblical chapter that the three Raëlian canon books (*The Book Which Tells the Truth*, *Extra-Terrestrials Took Me to Their Planet*, *Let's Welcome the Extra-Terrestrials*) cite. With this release the program is complete: 87 chapters.
+**Selection.** Part of the program to translate, as whole chapters, every biblical chapter that the three Raëlian canon books (*The Book Which Tells the Truth*, *Extra-Terrestrials Took Me to Their Planet*, *Let's Welcome the Extra-Terrestrials*) cite. With this release 87 cited chapters are translated. A final check of the citations found eleven more (Leviticus 17 and 25, Numbers 11, Joshua 3, Judges 7, 2 Samuel 6, Micah 5, Tobit 12, Wisdom 6, Revelation 5 and 1 Thessalonians 5), which are next.
 
 **Conventions.** As in the Kings volumes, proper names are transliterated from the Hebrew with "-ite" gentilics, and each chapter title gives the English form. *Šāmayim* is "skies" or "heaven(s)" by register; *ḥērem* is "devote(d) to destruction". The Masoretic text is kept throughout, with one ratified exception at 1 Samuel 6:18, where the Hebrew cannot be construed. The canon's readings appear only in notes headed "Wheel of Heaven reading (reception note, not a translation claim)".
 
