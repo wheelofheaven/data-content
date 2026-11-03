@@ -8,6 +8,7 @@ date = 2026-08-04
 [extra]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/sumerian-king-list-woh"
 kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/sumerian-king-list-woh"
+dataset_license = "CC0"
 same_as = ["https://www.wikidata.org/wiki/Q74353924"]
 translation_status = "complete"
 claim_type = "direct"

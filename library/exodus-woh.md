@@ -9,6 +9,7 @@ date = 2026-06-04
 same_as = ["https://www.wikidata.org/wiki/Q9190"]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/exodus-woh"
 kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/exodus-woh"
+dataset_license = "CC0"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "abrahamic"

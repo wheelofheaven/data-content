@@ -9,6 +9,7 @@ date = 2026-06-04
 same_as = ["https://www.wikidata.org/wiki/Q107388", "https://en.wikipedia.org/wiki/Gospel_of_Mark", "https://viaf.org/viaf/179823714"]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/mark-woh"
 kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/mark-woh"
+dataset_license = "CC BY 4.0"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "christian"

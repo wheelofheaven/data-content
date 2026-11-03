@@ -9,6 +9,7 @@ date = 2026-06-04
 same_as = ["https://www.wikidata.org/wiki/Q392302", "https://en.wikipedia.org/wiki/Gospel_of_Matthew", "https://www.britannica.com/topic/Gospel-According-to-Matthew", "https://viaf.org/viaf/188427863"]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/matthew-woh"
 kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/matthew-woh"
+dataset_license = "CC BY 4.0"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "christian"

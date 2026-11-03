@@ -8,6 +8,7 @@ date = 2026-06-02
 [extra]
 hf_dataset = "https://huggingface.co/datasets/wheelofheaven/enki-and-ninhursag-woh"
 kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/enki-and-ninhursag-woh"
+dataset_license = "CC0"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "ane"
