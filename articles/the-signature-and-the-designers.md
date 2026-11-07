@@ -370,10 +370,10 @@ had raised from the seabed was broken by the blasts, its fragments sent
 "drifting outwards from the centre of the shock," and the whole land surface
 was swept: "all the living matter including immense forests, animals and even
 Man" went under "immediately and all together," in a ring around the point of
-impact. Today's continents are the pieces, still moving. The fossil beds are
+impact. {% claim(type="framework", id="woh-claim-0071") %}Today's continents are the pieces, still moving. The fossil beds are
 the burial, and the canon reads their sequence as a record of what died when,
 in the aftermath of the initial explosion, and not as a hundred million years
-of quiet deposition. On that one question the canon stands with Snelling and
+of quiet deposition.{% end %} On that one question the canon stands with Snelling and
 Wise against the textbook: the rock record is the signature of a catastrophe.
 It parts from them on everything around the agreement — the age of the
 planet, the date of the event, its cause, and the identity of its author.
@@ -677,9 +677,9 @@ But "the designer, too, must be explained" is a demand for a bottom, and the
 demand only bites if you assume the chain must have one. Dawkins and Meyer share
 that assumption. It is the deepest thing they have in common, buried under
 their famous disagreement, and it is the assumption the canon simply does not
-make. Strip it away and Dawkins's own sentence stands: the signature could be
+make. {% claim(type="speculative", id="woh-claim-0036") %}Strip it away and Dawkins's own sentence stands: the signature could be
 there, and a prior evolved civilization could have left it, and that
-civilization need be neither God nor the last word.
+civilization need be neither God nor the last word.{% end %}
 
 ## What the canon and the movement actually share
 
@@ -822,9 +822,9 @@ reach; or there is no hand and the appearance of one is the residue of a blind
 process, which is the position that has to explain away Tour's resounding No;
 or the hand belongs to someone. Someone with a body. Someone who worked at a
 bench, compared results with a colleague, and found the resemblance striking.
-Someone who was made, as we were made, by someone earlier, in a line that runs
+{% claim(type="framework", id="woh-claim-0030") %}Someone who was made, as we were made, by someone earlier, in a line that runs
 back past every horizon we can see and never arrives at a first maker or a
-final one.
+final one.{% end %}
 
 That third answer is the one Dawkins touched and dropped, and the one Meyer
 lifted and threw back, and the one the canon has simply been holding, in the

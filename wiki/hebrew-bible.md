@@ -201,11 +201,11 @@ human history — engaged by textual, archaeological, theological, and literary
 scholarship alike.
 
 In the Wheel of Heaven framework the Hebrew Bible is the primary source the
-corpus reads, the text at the centre of its synthesis. The framework treats it
+corpus reads, the text at the centre of its synthesis. {% claim(type="framework", id="woh-claim-0053") %}The framework treats it
 not as a book of religious myth requiring belief or allegory, but as a historical
 record — imperfect in its pre-scientific vocabulary, yet substantially accurate in
 what it reports about the [Elohim](../elohim/) and their interventions across the
-ages. The corpus states the position in [Yahweh](../yahweh/)'s voice:
+ages.{% end %} The corpus states the position in [Yahweh](../yahweh/)'s voice:
 
 > *"The Hebrew Bible is not a book of religious myths that require either literal
 > belief or allegorical reinterpretation; it is a historical record, imperfect in

@@ -208,10 +208,10 @@ accept the identification of a Raëlian Embassy with Ezekiel's Third Temple, whi
 to belong to the messianic age rather than to a diplomatic residence in an unnamed
 country.
 
-The corpus does not dispute that these are the consensus positions. It presents the
+The corpus does not dispute that these are the consensus positions. {% claim(type="framework", id="woh-claim-0016") %}It presents the
 immanent, physical reading — the descending city as the Embassy, the Elohim's return as
 the event Revelation 21 preserves — as the framework's own: a claim explicit in the
-Raëlian canon and foreign to the scholarship. The two readings are left standing beside
+Raëlian canon and foreign to the scholarship.{% end %} The two readings are left standing beside
 each other. The corpus's reading does not require dismissing the mainstream symbolic or
 eschatological interpretation; it adds a reading the mainstream does not make, and is
 honest that the addition rests on the canon rather than on academic agreement.

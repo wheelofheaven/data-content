@@ -282,8 +282,8 @@ Heaven reading, the differences are worth stating directly. In the corpus:
 - the primary text is the Hebrew Bible, with the Sumerian material read as a
   parallel witness, where Sitchin gives the Sumerian sources priority.
 
-On one point the corpus does stand with the field generally: it holds, as a canon
-claim, that the Sumerian Anunnaki and the biblical Elohim name the same creators.
+{% claim(type="framework", id="woh-claim-0001") %}On one point the corpus does stand with the field generally: it holds, as a canon
+claim, that the Sumerian Anunnaki and the biblical Elohim name the same creators.{% end %}
 What it rejects is Sitchin's particular reconstruction of who those creators were
 and why they came. The disagreement is over interpretation, not over identity.
 

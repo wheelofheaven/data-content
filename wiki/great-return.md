@@ -41,12 +41,12 @@ framework_significance = "The culminating event of the corpus's framework; the m
 **The Great Return** is the Wheel of Heaven framework's name for the anticipated
 official arrival of the [Elohim](../elohim/) on Earth — the event the Raëlian
 source material is oriented toward, and the moment the corpus reads its
-comparative work as pointing to. In the source material the return is not
+comparative work as pointing to. {% claim(type="framework", id="woh-claim-0015") %}In the source material the return is not
 unconditional. Humanity must want it; must show enough unification and wisdom to
 receive advanced knowledge without misusing it; must build the
 [Embassy](../embassy/) — also called the [Third Temple](../third-temple/) — on
 neutral ground in a country with a mild climate; and must guarantee that the
-Elohim's craft will not be met by military force. When those conditions are met,
+Elohim's craft will not be met by military force.{% end %} When those conditions are met,
 the source material promises a transfer of roughly 25,000 years of scientific
 knowledge from the Elohim to the humanity they created.
 

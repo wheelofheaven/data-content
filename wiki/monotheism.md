@@ -135,10 +135,10 @@ that only one creator exists.
 
 The framework therefore distinguishes two claims. The academically supported
 claim is that "monotheism" often obscures differences among ontology, cult,
-allegiance, representation, and creation. The stronger claim, specific to the
+allegiance, representation, and creation. {% claim(type="speculative", id="woh-claim-0011") %}The stronger claim, specific to the
 corpus, is that some prophetic restorations preserved memory of real creators
 before later theology transformed their representative into one immaterial
-Absolute. That second claim remains speculative.
+Absolute.{% end %} That second claim remains speculative.
 
 The full case, including the strongest objections and falsification conditions,
 is developed in [*Monotheism Is the Wrong Question*](/articles/monotheism-is-the-wrong-question/).

@@ -120,10 +120,10 @@ after the fact.
 
 **The *kapporet* as a communication interface.** The chest's own stated purpose
 is two-way speech: Yahweh will "meet" and "speak" with Moses "from between the
-two cherubim" (Exodus 25:22; Numbers 7:89). The framework reads the mercy seat
+two cherubim" (Exodus 25:22; Numbers 7:89). {% claim(type="framework", id="woh-claim-0040") %}The framework reads the mercy seat
 as the working surface of a communication device — the point at which the voice
 of the [Elohim](../elohim/) was transmitted and received — rather than as the
-seat of an invisible enthroned god. On this reading the two cherubim are not
+seat of an invisible enthroned god.{% end %} On this reading the two cherubim are not
 merely decorative guardians but part of the apparatus, and the "voice from
 between them" is exactly what the text says it is: a voice, issuing from a
 specific point on a specific machine.

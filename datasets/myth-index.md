@@ -62,9 +62,9 @@ comparable shape.
 
 Each row carries `thompson_motifs` — motif numbers from Stith Thompson's
 *Motif-Index of Folk-Literature* (A1010 *Deluge*, A167.1 *Council of the
-gods*, F531.6.1.1 *Sons of God and daughters of men*, and so on). Motif
+gods*, F531.6.1.1 *Sons of God and daughters of men*, and so on). {% claim(type="speculative", id="woh-claim-0056") %}Motif
 numbers are the standard scholarly address system for exactly this material,
-so the index joins cleanly against any motif-indexed corpus.
+so the index joins cleanly against any motif-indexed corpus.{% end %}
 
 The `atu_type` and `aarne_1910_type` columns are present but sparse — and
 that sparseness is deliberate honesty: the Aarne–Thompson–Uther system
@@ -76,8 +76,8 @@ founding tale-type catalogue itself in structured form.
 
 ## How the rows were built
 
-Every row requires a named primary text and a locator — the same
-"primary text required" rule as the specialized concordances. Summaries
+{% claim(type="inferred", id="woh-claim-0060") %}Every row requires a named primary text and a locator — the same
+"primary text required" rule as the specialized concordances.{% end %} Summaries
 describe what the source says; they are deliberately separated from the
 `woh_reading` column, which carries the Wheel of Heaven canon reading where
 the canon states one (the ark as genetic repository, Eden as the creators'

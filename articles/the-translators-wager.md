@@ -531,13 +531,13 @@ or at least on his reading list, alongside Kramer and Sitchin. It does
 not prove he read them closely, and it manifestly does not make him a
 Raëlian: his entire public method is a refusal to say who the Elohim
 were, which is the one question the Raëlian canon answers in its first
-chapter. Where Wallis's convergence with the canon carried the
+chapter. {% claim(type="inferred", id="woh-claim-0042") %}Where Wallis's convergence with the canon carried the
 evidential value of total independence — two readers, no contact, same
 reading — Biglino's convergence carries a different and in one way more
 interesting value: here is a professional translator who demonstrably
 had access to the claimed answer key, declined to adopt it, rebuilt the
 questions from the Hebrew alone, and arrived at a picture the canon's
-readers will recognize line by line. The convergences that follow should
+readers will recognize line by line.{% end %} The convergences that follow should
 be weighed with that entry on the table. We put it there ourselves,
 because the discipline this project practices — sources declared,
 influence distinguished from convergence — is the same discipline

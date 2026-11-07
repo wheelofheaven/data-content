@@ -461,9 +461,9 @@ Muhammad, undisturbed. The corpus places his career in the early-to-middle
 [Age of Pisces](/timeline/age-of-pisces/) — its period of broad cultural
 transmission of the operational message across civilisational regions. A sanctuary tradition relocated and
 reformulated within a single century is consistent with that picture of
-traditions edited in transmission. The Petra hypothesis, read through the frame,
+traditions edited in transmission. {% claim(type="speculative", id="woh-claim-0024") %}The Petra hypothesis, read through the frame,
 does not overturn the corpus's Muhammad. It supplies a geography for the
-Hanafiyya the corpus had already named.
+Hanafiyya the corpus had already named.{% end %}
 
 ## What the Hanafiyya turned from
 

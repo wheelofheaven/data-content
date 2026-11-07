@@ -515,7 +515,7 @@ Satan figures across several entries; each treats a different facet:
 
 ### Satan vs. Lucifer
 
-Lucifer is the Earth-based exiled-creator faction leader; Satan is the home-world Council opposition leader — different locations, positions, and roles. They are political opponents, not good-versus-evil personifications: Lucifer advocates full disclosure to humanity; Satan opposes the human creation entirely. The Christian conflation of the two is the product of two thousand years of development that obscured their distinct identities.
+{% claim(type="framework", id="woh-claim-0013") %}Lucifer is the Earth-based exiled-creator faction leader; Satan is the home-world Council opposition leader — different locations, positions, and roles.{% end %} They are political opponents, not good-versus-evil personifications: Lucifer advocates full disclosure to humanity; Satan opposes the human creation entirely. The Christian conflation of the two is the product of two thousand years of development that obscured their distinct identities.
 
 ### Satan vs. the Serpent
 

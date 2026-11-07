@@ -165,11 +165,11 @@ Other names would serve, and each catches something the others miss. The
 plainest is **civilizational biology** — the label a reader raised on
 *sociobiology* and *astrobiology* reaches for first. Another is
 **{% wiki(slug="macrobiology") %}macrobiology{% end %}**, and its symmetry is exact enough to be worth pausing on:
-microbiology studies the cell and the units of its scale, so a
+{% claim(type="speculative", id="woh-claim-0025") %}microbiology studies the cell and the units of its scale, so a
 macrobiology would study the systems *composed of* biological units the way
 a cell is composed of microbiological ones — humanity standing to the human
 as the human stands to the cell, one more rung on the same ladder the
-previous Explainer climbed up and down without end. The older and more
+previous Explainer climbed up and down without end.{% end %} The older and more
 precise word, though, is **morphology**, the study of *form*, and it is
 the one to keep in front. A morphology claims only to read the shape of
 the whole; a *biology* asserts that the whole is itself alive. The second

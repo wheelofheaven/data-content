@@ -53,9 +53,9 @@ civilization. It is described across the three Raëlian source books consolidate
 as *Message from the Designers*: a world roughly one light-year from Earth, mild
 and lush and ringed by azure seas, home to some seven billion people whose
 official language is close to ancient Hebrew, and organized as a post-scarcity
-civilization far in advance of Earth's. The corpus reads it as the political and
+civilization far in advance of Earth's. {% claim(type="framework", id="woh-claim-0001") %}The corpus reads it as the political and
 civilizational center of the makers who, on its account, engineered terrestrial
-life — the place the [Yahweh](../yahweh/)-led Council directs the long Earth
+life{% end %} — the place the [Yahweh](../yahweh/)-led Council directs the long Earth
 project from, and the home the resurrected prophets are said to inhabit. (This
 entry also covers what the source calls the *Planet of the Eternals*, treated
 below as a reading of the same material.)

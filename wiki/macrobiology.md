@@ -40,9 +40,9 @@ distinguished_from = "Astrobiology (life in the universe, at or below our scale)
 principal_text = "*Let's Welcome the Extra-terrestrials* (Vorilhon/Raël, 1979), ch. 2 §§104–111 (humanity as 'a great being in gestation'); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' (2:32) and 'The Second Encounter' (2:24–25)"
 +++
 
-**Macrobiology** is the Wheel of Heaven corpus's name for the study of living
+{% claim(type="speculative", id="woh-claim-0025") %}**Macrobiology** is the Wheel of Heaven corpus's name for the study of living
 systems *composed of* biological individuals — humanity and planetary life read
-as organisms one scale up. Its symmetry is exact: microbiology studies the cell
+as organisms one scale up.{% end %} Its symmetry is exact: microbiology studies the cell
 and the units below it, so a macrobiology would study the systems built *from*
 biological units the way a cell is built from microbiological ones — **humanity
 standing to the human as the human stands to the cell**. The term takes at face

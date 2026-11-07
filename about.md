@@ -40,7 +40,7 @@ body = "A reader can reject the historical hypothesis and still use the work: th
 
 ## A long reading
 
-Wheel of Heaven is an independent comparative study of the world's creation traditions, written from an explicitly Raëlian reading. Its working hypothesis is that the beings the Hebrew Bible calls *Elohim* — a word plural in form, though usually construed with singular verbs — were a small advanced human civilization from elsewhere who came here, prepared the planet, designed life on Earth, and left a record in the religious texts.
+Wheel of Heaven is an independent comparative study of the world's creation traditions, written from an explicitly Raëlian reading. {% claim(type="framework", id="woh-claim-0001") %}Its working hypothesis is that the beings the Hebrew Bible calls *Elohim* — a word plural in form, though usually construed with singular verbs — were a small advanced human civilization from elsewhere who came here, prepared the planet, designed life on Earth, and left a record in the religious texts.{% end %}
 
 The reading runs across twelve ages of the precessional cycle, from the project's beginning approximately twenty-two thousand years ago, through the long sequence of design and intervention recorded in the religious traditions, and into the present age of disclosure that the corpus argues we are now inside. The corpus's [twelve main chapters](/timeline/) walk this arc in sequence.
 

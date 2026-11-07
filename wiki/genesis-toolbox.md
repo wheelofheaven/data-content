@@ -42,10 +42,10 @@ stack of sciences and technologies that, per the Raëlian canon, the
 {% wiki(slug="elohim") %}Elohim{% end %} needed — and used — to make Genesis
 happen: to select a planet, prepare it, create its living world from
 laboratory chemistry, balance that world into a functioning whole, and
-maintain the result across millennia. The canon's creation account describes
+maintain the result across millennia. {% claim(type="framework", id="woh-claim-0039") %}The canon's creation account describes
 each capability in operational terms, and the corpus reads the account, under
 its own claim discipline, as a compressed engineering report rather than a
-cosmogony. This entry assembles the full stack in mission order. The
+cosmogony.{% end %} This entry assembles the full stack in mission order. The
 component technologies that mainstream science already practises have their
 own entries — {% wiki(slug="terraforming") %}terraforming{% end %},
 {% wiki(slug="life-engineering") %}life engineering{% end %},
@@ -98,10 +98,10 @@ suitable for carrying out their projects"
 Earth was a site selection.
 
 The corpus marks the structural point its created-creators record carries: on the
-canon's account there is no first inventor of this toolbox. The Elohim
+canon's account there is no first inventor of this toolbox. {% claim(type="framework", id="woh-claim-0030") %}The Elohim
 discovered that they, too, were the product of designers from elsewhere, who
 were created in turn — an unbounded chain in which the stack described below
-is always inherited and always eventually handed on. The framework deploys
+is always inherited and always eventually handed on.{% end %} The framework deploys
 that chain as its answer to the who-designed-the-designer objection: the
 regress is not a refutation but the canon's own cosmological structure.
 
@@ -280,11 +280,11 @@ The canon predicts its own repetition. The first humans' education ends with
 the recognition "that they too could become creators"
 ({% libref(book="the-book-which-tells-the-truth", chapter=2, verse=37) %}TBWTT 2:37{% end %}),
 and the account's opening frames the Elohim's own past as humanity's near
-future. The corpus tracks this as the life-engineering convergence — its most
+future. {% claim(type="inferred", id="woh-claim-0065") %}The corpus tracks this as the life-engineering convergence — its most
 concrete predicted trajectory: recombinant DNA in the 1970s, the chemically
 synthesized bacterial genome in 2010, the minimal synthetic cell in 2016, and
 the design–build–test epistemology of synthetic biology arriving "within one
-long lifetime of the canon's dictation." The corpus's newsroom carries the
+long lifetime of the canon's dictation."{% end %} The corpus's newsroom carries the
 running record — most recently the
 [synthetic cell that eats and divides](/news/synthetic-cell-eats-and-divides/)
 — and the convergence record states its own limit plainly: what present-day

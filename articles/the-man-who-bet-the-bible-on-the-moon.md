@@ -723,9 +723,9 @@ analyst: *"'Iahvé' est le point faible de ma thèse"* — Yahweh is the
 weak point of my thesis, because too many equally convincing
 explanations remain. Set the four readings in a row — dragon,
 lieutenant, principle, president — and note what the disagreement
-proves: four literalists, working the same verses, agree completely
+proves: {% claim(type="inferred", id="woh-claim-0042") %}four literalists, working the same verses, agree completely
 that *elohim* is plural and concrete, and diverge only on the org
-chart above it. The plural is in the text; the presidency, the canon
+chart above it.{% end %} The plural is in the text; the presidency, the canon
 would agree, took testimony to learn.
 
 **The return.** Sendy expected none. *"Les cosmonautes, selon toute

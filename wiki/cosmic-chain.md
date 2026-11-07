@@ -308,7 +308,7 @@ The framework integrates the source strands into a coherent account.
 
 **The infinite forward extension.** Symmetrically, each matured civilization becomes a creator and produces civilizations that will do the same, without findable end.
 
-**The implication for Earth.** Earth's humanity was created by the Elohim, who were created by their predecessors, and so on backward; Earth will itself become a creator, whose creations will become creators, and so on forward. Earth's situation is one link in a pattern operating across the cosmos for an unknown but very long span in each direction.
+**The implication for Earth.** {% claim(type="framework", id="woh-claim-0030") %}Earth's humanity was created by the Elohim, who were created by their predecessors, and so on backward; Earth will itself become a creator, whose creations will become creators, and so on forward.{% end %} Earth's situation is one link in a pattern operating across the cosmos for an unknown but very long span in each direction.
 
 ### The integration with Aries-discovery
 

@@ -177,10 +177,10 @@ remained on Earth in continuing relationship with humanity — stayed close to t
 human population and the home world supervised from a distance. On this reading
 the galaxy is not empty; it is discreet.
 
-The equation keeps its value even so. Its four unconstrained terms —
+The equation keeps its value even so. {% claim(type="inferred", id="woh-claim-0067") %}Its four unconstrained terms —
 f<sub>l</sub>, f<sub>i</sub>, f<sub>c</sub>, and L — describe the *general*
 galactic population, and about that broader census the framework claims no
-special knowledge. The Elohim are one known civilization, not a survey of the
+special knowledge.{% end %} The Elohim are one known civilization, not a survey of the
 Milky Way (the corpus reading of the wider field of civilizations is developed in
 [Cosmic Competition](../cosmic-competition/)). The framework resolves Earth's own
 case without pretending to have solved the equation for everyone else's.

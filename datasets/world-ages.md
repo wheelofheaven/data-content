@@ -35,8 +35,8 @@ citation_bibtex = '''@misc{woh-world-ages,
 +++
 
 The equinox does not hold still against the stars — it drifts backward through
-the zodiac, one full circuit every ~25,920 years. Divide that **Great Year** by
-twelve and you get the **World Ages**, each ~2,160 years long. This dataset is
+the zodiac, one full circuit every ~25,920 years. {% claim(type="framework", id="woh-claim-0003") %}Divide that **Great Year** by
+twelve and you get the **World Ages**, each ~2,160 years long.{% end %} This dataset is
 the corpus's reckoning of all twelve — zodiac sign and symbol, start and end
 year, the Genesis "day" the corpus maps the age to, and a one-line summary,
 each row linked to the full timeline entry.
@@ -57,8 +57,8 @@ cite.
 
 ## How Wheel of Heaven reads it
 
-The corpus treats the twelve ages not as astrology but as a **calendar** — the
-clock against which it dates the events its other datasets record. The
+{% claim(type="inferred", id="woh-claim-0060") %}The corpus treats the twelve ages not as astrology but as a **calendar** — the
+clock against which it dates the events its other datasets record.{% end %} The
 [flood](/datasets/flood-myths/) falls in the Age of Cancer; the mapping of the
 first eight ages onto the eight "days" of the [Genesis](/wiki/genesis/) creation
 account (`genesis_day`, columns above) is the corpus's claim that *Genesis 1 is

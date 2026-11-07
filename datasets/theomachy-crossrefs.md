@@ -37,10 +37,10 @@ citation_bibtex = '''@misc{woh-theomachy-crossrefs,
 One of the most widely distributed plots in the ancient world: a young
 storm-and-order god confronts an older adversary of chaos — sea, dragon, or
 serpent — defeats it, and takes or secures kingship. Scholars call it the
-*Chaoskampf*. This dataset lines up eight instances field by field — the
+*Chaoskampf*. {% claim(type="inferred", id="woh-claim-0060") %}This dataset lines up eight instances field by field — the
 **champion**, the **adversary**, the form chaos takes, the **weapon**, and the
 **outcome** — each row linked to the digitized source text where the library
-holds one.
+holds one.{% end %}
 
 ## Instances
 
@@ -59,11 +59,11 @@ sortable file, as CSV and JSON, free to filter, merge, and cite.
 ## How Wheel of Heaven reads it
 
 The pattern is usually explained by diffusion — one Chaoskampf borrowed down the
-generations. The Wheel of Heaven corpus takes the shared plot as something
+generations. {% claim(type="framework", id="woh-claim-0008") %}The Wheel of Heaven corpus takes the shared plot as something
 sharper: the compressed cultural memory of an actual conflict — the
 [Theomachy](/wiki/theomachy/), the multi-age political-military struggle between
 the [Elohim](/wiki/elohim/) home-world Council and the exiled-creator faction on
-Earth — retold by each tradition as its own dragon-slaying. The "serpent" who
+Earth — retold by each tradition as its own dragon-slaying.{% end %} The "serpent" who
 withholds order, in this reading, is the losing side of that war, and the
 [flood](/datasets/flood-myths/) is one of its campaigns.
 

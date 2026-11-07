@@ -329,7 +329,7 @@ The corpus's relationship to *Hamlet's Mill* has three registers, and it keeps t
 
 ### Adoption: the precessional-encoding thesis
 
-The corpus adopts the book's core thesis — that world mythology preserves pre-Hipparchian astronomical knowledge, above all knowledge of precession, in encoded narrative form — as a working interpretive instrument. The adoption is registered honestly: the thesis is contested, the mainstream verdicts of Payne-Gaposchkin and Campion stand unretracted, and the corpus treats the encoding claim as an inferred reading rather than an established fact.
+{% claim(type="inferred", id="woh-claim-0014") %}The corpus adopts the book's core thesis — that world mythology preserves pre-Hipparchian astronomical knowledge, above all knowledge of precession, in encoded narrative form — as a working interpretive instrument.{% end %} The adoption is registered honestly: the thesis is contested, the mainstream verdicts of Payne-Gaposchkin and Campion stand unretracted, and the corpus treats the encoding claim as an inferred reading rather than an established fact.
 
 What the corpus takes from the book is principally the force of its detection problem. Whoever demonstrably knew precession, at any date, was either running a multi-century observational program — or had been told. The Raëlian source material supplies the corpus's answer to that disjunction: within the canon, the astronomical knowledge preserved in the traditions was taught, transmitted through the contact events the corpus's broader framework describes, rather than derived independently. That answer is the canon's, not the book's; de Santillana and von Dechend proposed a lost archaic science of impressive but human pedigree, and said nothing of the Elohim.
 

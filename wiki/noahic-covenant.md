@@ -111,9 +111,9 @@ Council together. The creators who preserved Noah were the exiled Lucifer
 faction — the dissenting minority who had carried out the [Eden](../eden/)
 disclosure and been exiled for it, the same faction the serpent of Genesis 3
 stands for. They are not to be confused with [Satan](../satan/), who led the
-home-world abolitionists arguing that the human experiment should be ended; the
+home-world abolitionists arguing that the human experiment should be ended; {% claim(type="framework", id="woh-claim-0010") %}the
 flood was the abolitionist program carried out, and the ark was mounted against
-it. Noah's family were the operational partners in that rescue, and the
+it.{% end %} Noah's family were the operational partners in that rescue, and the
 covenant records their joint position now that the waters had gone down.
 
 The home-world Council is conspicuously absent from the scene. The text reports
@@ -125,9 +125,9 @@ the Council learns by observation, centuries on. The covenant, in short, is
 local — struck on the ground between the exiled creators and the survivors, not
 ratified from the home world.
 
-**The founding of the Alliance.** This is the moment [the Alliance](../the-alliance/)
+**The founding of the Alliance.** {% claim(type="speculative", id="woh-claim-0045") %}This is the moment [the Alliance](../the-alliance/)
 comes into being: a cross-civilizational partnership with the exiled creators as
-senior partner and Noah's line as junior partner. Its terms are mutual. The
+senior partner and Noah's line as junior partner.{% end %} Its terms are mutual. The
 creators commit to take no part in any future destruction of humanity — a
 commitment that means something precisely because they have just refused to do
 so — and they acknowledge the legitimacy of human scientific progress,

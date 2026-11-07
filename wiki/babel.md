@@ -136,10 +136,10 @@ genealogical line, not the later geographic nation.
 
 **A peace offering, not defiance.** This is the framework's sharpest departure
 from the received reading. In Christian and Jewish tradition the Tower is
-hubris — humanity storming heaven, justly punished. The canon reverses the
+hubris — humanity storming heaven, justly punished. {% claim(type="framework", id="woh-claim-0017") %}The canon reverses the
 motive: the exiled creators wanted their people to fly to the home world "to
 obtain their pardon," to argue in person that the human creation was intelligent,
-peaceful and grateful and deserved to be allowed to live. The rocket was a
+peaceful and grateful and deserved to be allowed to live.{% end %} The rocket was a
 diplomatic mission, an attempt at reconciliation with the very Council that had
 ordered the Flood.
 

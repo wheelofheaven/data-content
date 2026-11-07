@@ -123,7 +123,7 @@ In **Carmelite Catholic tradition**, the religious order founded on Mount Carmel
 
 ## In the Wheel of Heaven framework
 
-The framework reads the Elijah narrative as preserving multiple operational contact events with the Elohim. The principal Vorilhon source-material discussion of Elijah occurs in chapter 3 of *Le Livre qui dit la vérité* ("Watching Over the Chosen People"), with the chapter titled "Elijah The Messenger" — the framework-relevant identification of Elijah as a *mal'akh*-type messenger figure, parallel to the operational reading of the *mal'akh* / *angelos* / "angel" vocabulary developed elsewhere in the corpus.
+{% claim(type="framework", id="woh-claim-0038") %}The framework reads the Elijah narrative as preserving multiple operational contact events with the Elohim.{% end %} The principal Vorilhon source-material discussion of Elijah occurs in chapter 3 of *Le Livre qui dit la vérité* ("Watching Over the Chosen People"), with the chapter titled "Elijah The Messenger" — the framework-relevant identification of Elijah as a *mal'akh*-type messenger figure, parallel to the operational reading of the *mal'akh* / *angelos* / "angel" vocabulary developed elsewhere in the corpus.
 
 ### The Vorilhon source-material passages
 

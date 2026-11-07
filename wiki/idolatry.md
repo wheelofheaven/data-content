@@ -132,8 +132,8 @@ idols after **forgetting who had created them**. It later rejects both the
 singularisation of *Elohim* into an incomprehensible God and the treatment of
 crossed wood as though the cross were Christ.
 
-Wheel of Heaven therefore defines idolatry as a **collapse of memory and
-relation**:
+{% claim(type="speculative", id="woh-claim-0011") %}Wheel of Heaven therefore defines idolatry as a **collapse of memory and
+relation**{% end %}:
 
 1. Living creators or their representatives interact with humanity.
 2. A name, sanctuary, tool, image, or rite preserves the contact.

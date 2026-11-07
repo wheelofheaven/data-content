@@ -153,7 +153,7 @@ embodied visitors rather than with metaphors for transcendence. On that founding
 intuition the corpus and von Däniken agree, and the corpus credits him plainly as
 the man who put it before the world.
 
-What the corpus declines is the method and most of the specific claims. Von
+{% claim(type="inferred", id="woh-claim-0068") %}What the corpus declines is the method and most of the specific claims.{% end %} Von
 Däniken reasons from monuments and material anomalies toward contact, and does
 so, on the mainstream reading the corpus accepts, loosely — assembling
 resemblances, understating human achievement, and presenting the merely

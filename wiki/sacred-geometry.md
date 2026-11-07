@@ -50,9 +50,9 @@ each should be handled. That specific ratios recur in sacred buildings and
 diagrams is well supported by architectural history and mathematical analysis.
 That those forms possess intrinsic metaphysical power, or encode a hidden
 universal wisdom, is a far stronger claim with far weaker support. The
-[Wheel of Heaven](../wheel-of-heaven/) framework accepts the documented pattern,
+[Wheel of Heaven](../wheel-of-heaven/) {% claim(type="inferred", id="woh-claim-0058") %}framework accepts the documented pattern,
 engages the esoteric tradition as an adjacent body of scholarship, and reserves
-judgement on the strongest metaphysical claims — while adding one reading of its
+judgement on the strongest metaphysical claims{% end %} — while adding one reading of its
 own, offered as a working hypothesis rather than as fact: that part of the shared
 geometric knowledge was taught to early cultures rather than discovered
 independently.

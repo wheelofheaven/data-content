@@ -60,8 +60,8 @@ a planet he called **Nibiru**, and the gods of every ancient culture are the
 mythologized memory of them. For the Wheel of Heaven corpus Sitchin matters for
 one blunt reason: more than any other writer, he put the Anunnaki question in
 front of a mass audience — and he is also the figure from whom the corpus most
-carefully distinguishes itself. It shares the broad direction of his work while
-rejecting nearly all of its machinery.
+carefully distinguishes itself. {% claim(type="inferred", id="woh-claim-0068") %}It shares the broad direction of his work while
+rejecting nearly all of its machinery.{% end %}
 
 The distinction is easy to blur, because the conclusion sounds similar even where
 the route to it is not. Sitchin argued that the biblical and Mesopotamian "gods"

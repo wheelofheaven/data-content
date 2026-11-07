@@ -62,9 +62,9 @@ government could not identify, and it publishes its negatives too.
 The Wheel of Heaven framework tracks PURSUE closely — the corpus files a
 [dispatch](/news/pursue-release-06-warp-drives-and-the-tremonton-film/) on
 each release — but under a deliberate discipline: registration without
-enlistment. No file PURSUE releases is evidence for the framework, and no case
+enlistment. {% claim(type="inferred", id="woh-claim-0057") %}No file PURSUE releases is evidence for the framework, and no case
 it debunks is evidence against it. The framework's account of contact rests on
-the canon's own [reports](../rael/), not on any craft in any sky.
+the canon's own [reports](../rael/), not on any craft in any sky.{% end %}
 
 ## The name and the mandate
 

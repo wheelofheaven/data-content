@@ -160,7 +160,7 @@ The swastika threads through several entries: the composite [Raëlian Symbol of 
 
 ### Semantic content and operational status
 
-Within the framework the swastika carries the cyclic-eternal principle (*"everything is cyclic, the top becoming the bottom, and the bottom in turn becoming the top"*), representing infinity's temporal dimension against the Star of David's spatial one; the "cycle" as the recurring choice between civilizational progress and regression; and, via the Sanskrit etymology the corpus explicitly accepts, "well-being." As the element Yahweh delivered at the December 13, 1973 contact, it is alliance-attributed rather than a movement creation. The original form remains in operational use in Asian Raëlian branches (Japan, South Korea, Taiwan, and others); the 1990 galaxy-spiral replaces it in the West while preserving the same cyclic-temporal meaning.
+{% claim(type="framework", id="woh-claim-0043") %}Within the framework the swastika carries the cyclic-eternal principle (*"everything is cyclic, the top becoming the bottom, and the bottom in turn becoming the top"*), representing infinity's temporal dimension against the Star of David's spatial one{% end %}; the "cycle" as the recurring choice between civilizational progress and regression; and, via the Sanskrit etymology the corpus explicitly accepts, "well-being." As the element Yahweh delivered at the December 13, 1973 contact, it is alliance-attributed rather than a movement creation. The original form remains in operational use in Asian Raëlian branches (Japan, South Korea, Taiwan, and others); the 1990 galaxy-spiral replaces it in the West while preserving the same cyclic-temporal meaning.
 
 ## Application across the corpus
 

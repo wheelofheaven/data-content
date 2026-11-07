@@ -201,7 +201,7 @@ Several other Hebrew Bible passages bear on the broader serpent material, though
 
 **Proverbs 23:32, 30:19** use snake imagery in wisdom-literature contexts.
 
-The pattern across the Hebrew Bible is that *naḥash* names a range of serpent-figures: the specific Eden figure, the bronze healing serpent, Leviathan as chaos-serpent, the various metaphorical snakes of wisdom and poetry literature. The Genesis 3 Serpent is one specific figure within this broader serpent-vocabulary; the corpus's reading treats this figure specifically as the Lucifer faction in their disclosure role.
+The pattern across the Hebrew Bible is that *naḥash* names a range of serpent-figures: the specific Eden figure, the bronze healing serpent, Leviathan as chaos-serpent, the various metaphorical snakes of wisdom and poetry literature. {% claim(type="framework", id="woh-claim-0022") %}The Genesis 3 Serpent is one specific figure within this broader serpent-vocabulary; the corpus's reading treats this figure specifically as the Lucifer faction in their disclosure role.{% end %}
 
 ### The Second Temple and rabbinic interpretive tradition
 

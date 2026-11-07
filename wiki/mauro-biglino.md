@@ -212,11 +212,11 @@ and the consolidated *Gods of the Bible*.
 
 The method is treated at full length in the
 [Biglino Method](../biglino-method/) entry; here it needs one
-paragraph. Biglino's three commitments are to work from the original
+paragraph. {% claim(type="framework", id="woh-claim-0064") %}Biglino's three commitments are to work from the original
 Hebrew text; to set aside the accumulated interpretation of the
 Jewish, Christian, and Islamic exegetical traditions; and to read the
 words literally, in their concrete sense, unless the text itself
-signals otherwise. The wager is packaged in his signature formula,
+signals otherwise.{% end %} The wager is packaged in his signature formula,
 *facciamo finta che* — "let us pretend that" the Bible is simply
 telling the truth — a deliberately provisional framing: Biglino does
 not assert that the Bible is true, he proposes reading it as if it
@@ -224,9 +224,9 @@ were and observing what coherent account results. The methodological
 precedent is Schliemann's literal reading of Homer, which located
 Troy; the same Schliemann-to-Bible program was articulated by Jean
 Sendy in 1969, four decades before Biglino's independent formulation,
-and the corpus reads the Sendy-Biglino convergence — two translators,
+and {% claim(type="inferred", id="woh-claim-0042") %}the corpus reads the Sendy-Biglino convergence — two translators,
 two languages, two decades apart, same commitments, same principal
-observations — as itself evidential. Where honesty about a term's
+observations — as itself evidential.{% end %} Where honesty about a term's
 meaning is impossible, Biglino's rule is to leave it untranslated:
 "It's a question of integrity, since we do not know exactly what they
 mean."

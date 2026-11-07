@@ -180,11 +180,11 @@ shape is cyclical, closer to the Hindu yuga pattern than to Hesiod's straight
 decline: a past golden condition, a long intervening development, and a golden
 condition regained.
 
-The seven characteristics describe that regained condition concretely. Material
+The seven characteristics describe that regained condition concretely. {% claim(type="framework", id="woh-claim-0033") %}Material
 scarcity is dissolved by molecular manufacturing and full automation —
 *"nanotechnology will make agriculture and heavy industry redundant,"* in the
 source's phrase — so that the economic problem shifts from producing enough to
-distributing abundance; this dimension is the subject of the
+distributing abundance{% end %}; this dimension is the subject of the
 [Paradism](../paradism/) entry. Longevity is extended through biological
 rejuvenation, with computational continuation offered as a further option for
 personal identity. The [New Commandments](../new-commandments/) —
@@ -200,11 +200,11 @@ matures into a creating civilization in its own right — the point at which the
 [Cosmic Chain](../cosmic-chain/) turns and Earth's humanity becomes a maker of
 new humanities.
 
-The Golden Age is contingent, not fated. Its realization depends on humanity's
+The Golden Age is contingent, not fated. {% claim(type="framework", id="woh-claim-0015") %}Its realization depends on humanity's
 collective handling of the Aquarian-age threshold — the management of nuclear
 and other self-destructive capacities, the implementation of the New
 Commandments, and the preparation for open contact at the
-[Embassy](../embassy/).{{ cite(id="lets-welcome-the-extraterrestrials", text="[12]", title="Vorilhon, *Let's Welcome the Extraterrestrials* (1979) — the embassy project and the Aquarian transition.") }}
+[Embassy](../embassy/).{% end %}{{ cite(id="lets-welcome-the-extraterrestrials", text="[12]", title="Vorilhon, *Let's Welcome the Extraterrestrials* (1979) — the embassy project and the Aquarian transition.") }}
 Raël frames the alternatives as a single choice with two outcomes: *"Either you
 will know the Golden Age on Earth because of your efforts which have contributed
 to world peace and the awakening of Mankind, or Humanity will destroy itself and

@@ -40,10 +40,10 @@ principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials* (Vorilhon,
 **The Number of Man** is the value **666** — written in the Greek of Revelation
 13:18 as χξϛ — that the seer calls "the number of the beast." In the Wheel of
 Heaven framework, following Claude Vorilhon (Raël)'s reading in *Let Us Welcome
-the Extra-Terrestrials* (1979), it is taken not as a cipher hiding a name but as
+the Extra-Terrestrials* (1979), {% claim(type="framework", id="woh-claim-0050") %}it is taken not as a cipher hiding a name but as
 a literal count: the number of human generations that will have lived on Earth
 between the creation of the first finalized humans in the [Elohim](../elohim/)'s
-laboratories and the moment humanity first turned nuclear energy to destruction.
+laboratories and the moment humanity first turned nuclear energy to destruction.{% end %}
 At roughly twenty years to a generation, 666 generations span some 13,320 years,
 and counting back from the atomic threshold of 1945 places that first creation
 near the Virgo–Leo precessional boundary, around 11,375 BCE — the date from

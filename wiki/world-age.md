@@ -84,12 +84,12 @@ A **World Age** — also called a **Precessional Age**, **Astrological Age**,
 one of twelve intervals of roughly 2,160 years that together make up the **Great
 Year**, the roughly 25,920-year cycle produced by the
 [precession of the equinoxes](../precession/) as it carries the spring-equinox
-point backward through the twelve constellations of the zodiac. In the Wheel of
+point backward through the twelve constellations of the zodiac. {% claim(type="framework", id="woh-claim-0003") %}In the Wheel of
 Heaven framework the twelve World Ages are the chronological backbone of the
 whole corpus: each age names a phase of the [Elohim](../elohim/) project on
 Earth, and the sequence from the Age of Capricorn to the present Age of Aquarius
 traces one full turn of the sky against which every major event of that project
-is dated.
+is dated.{% end %}
 
 The astronomy of the cycle is treated in the [Precession](../precession/) entry,
 the constellational framework in the [Zodiac](../zodiac/), and the full turn in

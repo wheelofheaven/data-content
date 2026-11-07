@@ -131,9 +131,9 @@ that makes the day and the yearly orbit that makes the year. Earth's axis is
 tilted about 23.4° from the plane of its orbit and is not fixed in space:
 gravitational torque from the Sun and Moon on the planet's equatorial bulge
 makes the axis sweep a slow cone, like a spinning top that has begun to wobble,
-once every roughly 25,772 years on the modern measurement. The framework rounds
+once every roughly 25,772 years on the modern measurement. {% claim(type="framework", id="woh-claim-0003") %}The framework rounds
 this to 25,920 years, which divides cleanly into twelve ages of 2,160 years
-each.{{ footnote(id="1") }} As the axis wheels around, the point where the Sun
+each.{% end %}{{ footnote(id="1") }} As the axis wheels around, the point where the Sun
 stands at the spring equinox slides westward through the zodiac at about one
 degree every seventy-two years, and the constellation rising behind that equinox
 Sun — the signature of the epoch — changes roughly every 2,160 years. One

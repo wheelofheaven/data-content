@@ -127,9 +127,9 @@ sect: the saved traditions enumerated, the door shut, nothing left to
 investigate. This canon does neither. It asserts that the class of
 authentic contact-traditions is real, plural, and *bounded* — forty-ish
 chairs, no more — and then leaves the seating chart almost entirely
-blank. The blank is an assignment. Somebody has to work out, tradition
+blank. {% claim(type="inferred", id="woh-claim-0054") %}The blank is an assignment. Somebody has to work out, tradition
 by tradition, with reasons stated in public, who was plausibly at that
-table. And the canon raises the stakes of the assignment in its own
+table.{% end %} And the canon raises the stakes of the assignment in its own
 voice, because two years earlier it had already warned that the age
 would be crowded with claimants:
 

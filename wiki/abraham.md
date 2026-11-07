@@ -97,16 +97,16 @@ operation mounted after a period of collapse, and reads its details
 operationally.
 
 **Abraham as recruitment.** The *lekh lekha* call is read as a recruitment: after
-the destruction of the rebel centre at Sodom, a verified-loyal figure was needed
-around whom the surviving Eden lineage could be reorganised. The promise of "a
+{% claim(type="framework", id="woh-claim-0062") %}the destruction of the rebel centre at Sodom, a verified-loyal figure was needed
+around whom the surviving Eden lineage could be reorganised.{% end %} The promise of "a
 great nation" is read as the charter of that reorganisation rather than as a
 reward for private piety. On this reading Abraham is chosen for reliability, not
 for uniqueness of faith.
 
-**The covenant as a political program.** The land-and-descendants covenant is
+**The covenant as a political program.** {% claim(type="speculative", id="woh-claim-0045") %}The land-and-descendants covenant is
 read as the founding instrument of the [Alliance](../the-alliance/) — a durable
 arrangement, in the line of the earlier [Noahic covenant](../noahic-covenant/),
-by which a human lineage is cultivated over generations. The circumcision sign of
+by which a human lineage is cultivated over generations.{% end %} The circumcision sign of
 Genesis 17 is read as the covenant's marker of membership.
 
 **The Mamre visitation.** The three visitors of Genesis 18, who eat, are addressed

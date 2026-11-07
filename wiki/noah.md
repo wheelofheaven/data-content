@@ -101,11 +101,11 @@ The framework takes the Genesis account as a compressed, partly misremembered
 record of a real event and reads its details operationally, following the
 articulation in *The Book Which Tells the Truth*.
 
-**The flood as a Council-ordered strike.** On the canon's reading the cataclysm
+**The flood as a Council-ordered strike.** {% claim(type="framework", id="woh-claim-0010") %}On the canon's reading the cataclysm
 was not weather but a deliberate military action: the home-world
 [Council of the Eternals](../council-of-the-eternals/) resolved to destroy the
 antediluvian [Eden](../eden/) civilisation that had grown up on Earth under the
-continuing tutelage of the exiled creators. The Genesis 7:11 imagery — the
+continuing tutelage of the exiled creators.{% end %} The Genesis 7:11 imagery — the
 "fountains of the great deep" broken up, the "windows of heaven" opened — is read
 as the mechanical signature of high-energy weapons rather than as
 meteorological metaphor, and the 150-day interval (Genesis 7:24) as the interval

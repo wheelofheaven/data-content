@@ -155,9 +155,9 @@ their own beings, their own questions — and, the passage implies, their own
 scientists wondering whether they are alone. Humanity is a *"disease"* not
 in the sense of something wrong but in the sense of something *small and
 alive on the surface of something vast* — a microbial film on a body too
-large to notice it. And the structure does not terminate. Up past the
+large to notice it. {% claim(type="framework", id="woh-claim-0023") %}And the structure does not terminate. Up past the
 gigantic being are larger beings still; down past our atoms are smaller
-worlds still. *"In both directions, it is infinite."*
+worlds still.{% end %} *"In both directions, it is infinite."*
 
 The second installment comes two years later, and its setting is even more
 pointed. In the second message, Yahweh takes Raël off the Earth to a

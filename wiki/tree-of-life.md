@@ -308,7 +308,7 @@ The principal Hebrew Bible Tree of Life material appears in the Genesis 2–3 Ed
 
 > *"And out of the ground Yahweh Elohim made to grow every tree that is pleasant to the sight, and good for food; the tree of life (ʿēṣ ha-ḥayyîm) also in the midst of the garden, and the tree of the knowledge of good and evil."*
 
-The framework reads this passage as the operational record of the Eden installation's specific infrastructure, with the Tree of Life and the Tree of the Knowledge of Good and Evil being the two principal restricted-access technological resources of the installation.
+{% claim(type="framework", id="woh-claim-0018") %}The framework reads this passage as the operational record of the Eden installation's specific infrastructure, with the Tree of Life and the Tree of the Knowledge of Good and Evil being the two principal restricted-access technological resources of the installation.{% end %}
 
 **Genesis 3:22–24** records the post-disclosure access prohibition:
 

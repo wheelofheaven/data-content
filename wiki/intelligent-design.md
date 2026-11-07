@@ -153,10 +153,10 @@ of intelligence rather than of undirected chemistry — and then parts from the 
 movement on almost everything else.
 
 On the reading developed from the [Raëlian](../raelism/) source material, life on
-Earth did not assemble itself from unguided chemistry. It was **designed and
+Earth did not assemble itself from unguided chemistry. {% claim(type="framework", id="woh-claim-0001") %}It was **designed and
 synthesized** by the [Elohim](../elohim/), an advanced civilization from a world
 outside the solar system, who built terrestrial plants, animals, and finally
-humanity in laboratories and released them into a prepared biosphere. The
+humanity in laboratories and released them into a prepared biosphere.{% end %} The
 [Genesis](../genesis/) creation account is read as a compressed record of that
 work — the "days" as ordered phases of engineering, the making of humanity "in
 our image" as the deliberate modeling of a species on its makers — and

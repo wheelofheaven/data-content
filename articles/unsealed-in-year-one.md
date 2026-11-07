@@ -168,12 +168,12 @@ generation. The community believed itself to be that generation; it was
 wrong by nineteen centuries, or — the reading this article exists to
 entertain — its library was addressed, like all its prophets, to a
 final generation it could not know. Either way, the physical fact is
-strange enough to state plainly. A community obsessed with the
+strange enough to state plainly. {% claim(type="speculative", id="woh-claim-0026") %}A community obsessed with the
 scheduled unsealing of books sealed its own books in jars; the jars
 outlasted the community, its temple, its empire, and its language's
 vowels; and they opened in the first year of an era whose founding text
 quotes, as its charter, the verse about the book sealed until the time
-of the end. Daniel again, eight verses later, as the canon quotes him:
+of the end.{% end %} Daniel again, eight verses later, as the canon quotes him:
 *"Go thy way, Daniel: for the words are closed up and sealed till the
 time of the end"*
 ({% libref(book="the-book-which-tells-the-truth", chapter=3, verse=226) %}TBWTT 3:226{% end %}).

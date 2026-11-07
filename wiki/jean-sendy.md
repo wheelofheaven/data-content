@@ -342,8 +342,8 @@ physics; elementary but recent knowledge of biology, prehistory,
 history, and evolution; refusal of any "explanation by the
 Inexplicable"; and the implicit fifth, acceptance of a universe
 intelligible to human reason. That entry treats the framework in
-full, including its pairing with the Biglino Method — Sendy supplies
-what the reader must *have*, Biglino what the reader must *do* — and
+full, including its pairing with the Biglino Method — {% claim(type="framework", id="woh-claim-0064") %}Sendy supplies
+what the reader must *have*, Biglino what the reader must *do*{% end %} — and
 the medievalist-rationalist positioning of the fourth condition,
 which rejects the supernatural not as Enlightenment naturalism but as
 the recovery of a pre-Plotinian reading in which the Tradition is

@@ -60,11 +60,11 @@ hearings and Pentagon press releases without settling the larger allegation
 either way.
 
 The Wheel of Heaven framework reads the question against its own account of
-contact. On the canon the [Elohim](../elohim/) are a real, advanced human
+contact. {% claim(type="inferred", id="woh-claim-0057") %}On the canon the [Elohim](../elohim/) are a real, advanced human
 civilization, and contact on their terms is meant to be open, official, and
 mutually recognized — the [Embassy](../embassy/) of
 *[Message from the Designers](../message-from-the-designers/)*, not a leaked
-video. A terrestrial cover-up, if it is real, is therefore a human institution
+video.{% end %} A terrestrial cover-up, if it is real, is therefore a human institution
 withholding what the canon holds humanity is entitled to know.
 
 ## A note on terminology

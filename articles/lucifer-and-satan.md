@@ -42,7 +42,7 @@ references = [
 
 Ask most people what the difference is between Lucifer and Satan and the answer is: none. They are two names for the same being — the fallen angel, the Prince of Darkness, God's great enemy, the tempter in the garden. It is one of the most secure equations in Western culture. It is also a historical accident, and the {% wiki(slug="satan") %}Satan{% end %} and {% wiki(slug="lucifer") %}Lucifer{% end %} entries in the Hebrew Bible have almost nothing to do with each other.
 
-Wheel of Heaven's reading runs in two stages. The first is a philological point that mainstream scholarship already grants: the Bible does not identify Lucifer with Satan, and neither word originally meant *the Devil*. The second is the corpus's own claim, and it is sharper: the two figures behind those words are not simply different but opposed. One wanted humanity kept in the dark; the other risked everything to switch the lights on. Fusing them into a single Devil does not just blur two characters — it hides a conflict.
+Wheel of Heaven's reading runs in two stages. The first is a philological point that mainstream scholarship already grants: the Bible does not identify Lucifer with Satan, and neither word originally meant *the Devil*. {% claim(type="framework", id="woh-claim-0013") %}The second is the corpus's own claim, and it is sharper: the two figures behind those words are not simply different but opposed.{% end %} One wanted humanity kept in the dark; the other risked everything to switch the lights on. Fusing them into a single Devil does not just blur two characters — it hides a conflict.
 
 ## The two figures at a glance
 
@@ -105,7 +105,7 @@ The two are sometimes tactically aligned — both oppose {% wiki(slug="yahweh") 
 
 ## Verdict
 
-Are Lucifer and Satan the same? No — and the corpus's answer is stronger than the scholarly one. The mainstream case is that the Bible never equated them and that the equation is a later assembly. Wheel of Heaven adds that the two figures behind the names held opposite positions on the one question that mattered most to their civilization: whether the human creation deserved the truth, or deserved to end. The most famous identity in Western demonology unites two beings who were on opposite sides of that argument. That is not a small confusion. It is the erasure of a conflict.
+Are Lucifer and Satan the same? No — and the corpus's answer is stronger than the scholarly one. The mainstream case is that the Bible never equated them and that the equation is a later assembly. {% claim(type="framework", id="woh-claim-0008") %}Wheel of Heaven adds that the two figures behind the names held opposite positions on the one question that mattered most to their civilization: whether the human creation deserved the truth, or deserved to end.{% end %} The most famous identity in Western demonology unites two beings who were on opposite sides of that argument. That is not a small confusion. It is the erasure of a conflict.
 
 ## Frequently asked
 

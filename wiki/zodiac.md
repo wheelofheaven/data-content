@@ -73,10 +73,10 @@ astronomy through Greek systematisation into modern astronomy and astrology
 alike.
 
 The zodiac matters to the Wheel of Heaven framework as the constellational
-backbone of its chronology. The twelve signs name the twelve **precessional
+backbone of its chronology. {% claim(type="framework", id="woh-claim-0003") %}The twelve signs name the twelve **precessional
 ages** — the roughly 2,160-year intervals through which the
 [precession of the equinoxes](../precession/) carries the spring equinox point
-backward around the [Great Year](../great-year/) of about 25,920 years. On the
+backward around the [Great Year](../great-year/) of about 25,920 years.{% end %} On the
 framework's reading the zodiac is not a mystical inheritance but an engineering
 instrument: the long-duration calendar the [Elohim](../elohim/) used to organise
 their project on Earth, its names and structure inherited — and mythologised —

@@ -18,7 +18,7 @@ cta_label = "Open the timeline"
 
 ## One hypothesis, read closely
 
-Wheel of Heaven is a single sustained reading of the ancient world's creation traditions, held together by one working hypothesis: that the beings the Hebrew Bible calls [*Elohim*](/wiki/elohim/) — a noun plural in form that translation has long flattened into the singular "God" — were a small, technologically advanced human civilization from elsewhere, who came to Earth, prepared it, designed life here, and left a record of the work in the religious texts.
+Wheel of Heaven is a single sustained reading of the ancient world's creation traditions, held together by one working hypothesis: {% claim(type="framework", id="woh-claim-0001") %}that the beings the Hebrew Bible calls [*Elohim*](/wiki/elohim/) — a noun plural in form that translation has long flattened into the singular "God" — were a small, technologically advanced human civilization from elsewhere, who came to Earth, prepared it, designed life here, and left a record of the work in the religious texts.{% end %}
 
 That sentence is the whole of what the project asks a reader to entertain. Everything else — the twelve ages, the comparative mythology, the philological detail, the [precessional](/wiki/precession/) chronology — is the working-out of that one hypothesis against the surviving evidence. The method is the discipline that keeps the working-out honest: how the reading is framed, what it reads from, and how it marks the difference between what a source says and what the project infers.
 

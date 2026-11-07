@@ -42,19 +42,19 @@ and mythological traditions — describes *many* divine beings rather than one
 supreme deity. The reading rests on a philological fact the standard English
 translation hides: the word rendered "God" through most of
 [Genesis](../genesis/) is *Elohim* (Hebrew אֱלֹהִים), and *Elohim* is
-plural in form — the plural of the singular *Eloah*. Wheel of Heaven takes
+plural in form — the plural of the singular *Eloah*. {% claim(type="framework", id="woh-claim-0009") %}Wheel of Heaven takes
 that plural at face value: the beings the text names *Elohim* are the actual,
 embodied [Elohim](../elohim/), a physical creator civilization, not one
-incomprehensible abstraction.
+incomprehensible abstraction.{% end %}
 
 Read this way, the plurality is not a residue to be explained away but the
 plainest datum in the text. The framework's specific contribution is to say what
 the plural refers to: not a pantheon of imagined gods, and not a poetic flourish
 of majesty, but the memory of the real makers — the plural teams that carried out
-the creation project the Genesis account compresses. The later Christian and
+the creation project the Genesis account compresses. {% claim(type="speculative", id="woh-claim-0011") %}The later Christian and
 Jewish habit of collapsing *Elohim* into a singular "God" is, on this reading,
 the point at which the record of a plurality of creators hardened into the
-doctrine of one supreme being.
+doctrine of one supreme being.{% end %}
 
 ## A plural name
 

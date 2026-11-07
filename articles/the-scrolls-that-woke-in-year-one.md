@@ -115,8 +115,8 @@ watching you since your birth—and even before. That is why we have
 chosen you.
 {% end %}
 
-Set the two clocks side by side and the coincidence declares itself:
-the oldest library of the Hebrew Bible woke up in year one. This
+{% claim(type="speculative", id="woh-claim-0026") %}Set the two clocks side by side and the coincidence declares itself:
+the oldest library of the Hebrew Bible woke up in year one.{% end %} This
 article is about that coincidence — what exactly surfaced, through
 whose hands it passed, why it took forty years and a scandal to reach
 the public, and what it did to our picture of scripture. The claim

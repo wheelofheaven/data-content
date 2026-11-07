@@ -182,9 +182,9 @@ Signs**: fusion energy, anti-gravity, synthetic life engineering, terraforming,
 full automation, and open-source collaboration.
 
 In the Wheel of Heaven framework, Cyberparadism is read as the aesthetic-cultural
-counterpart of [Paradism](../paradism/), the Raëlian doctrine of a post-scarcity,
+counterpart of {% claim(type="framework", id="woh-claim-0033") %}[Paradism](../paradism/), the Raëlian doctrine of a post-scarcity,
 fully automated, moneyless society modelled on the home world of the
-[Elohim](../elohim/). Where Paradism states that content as political economy —
+[Elohim](../elohim/){% end %}. Where Paradism states that content as political economy —
 machines perform the necessary work, money falls away, and people are freed to
 think and create — Cyberparadism gives it a face: a visual language and a cultural
 mood rather than a programme. The two run close enough that the corpus treats the

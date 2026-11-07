@@ -269,7 +269,7 @@ The cosmos extends indefinitely in time. There is **no beginning** — any era p
 
 #### 3. Hierarchical infinity
 
-The cosmos extends indefinitely in scale. There is **no smallest scale**: the atoms of our bodies contain, on the source's claim, intelligent beings whose worlds we cannot perceive, whose atoms contain smaller beings still, without termination. There is **no largest scale**: the Earth is a particle of an atom of an atom of the hand of a gigantic being, itself one figure in a vastly larger world containing yet more gigantic beings, without termination. The same process runs upward and downward — no privileged scale, no asymmetry — symmetric across the infinite hierarchy, framing both the Fractal Cosmology framework's spatial-self-similar content and the Mass Effect framework's time-scaling content.
+The cosmos extends indefinitely in scale. {% claim(type="framework", id="woh-claim-0023") %}There is **no smallest scale**: the atoms of our bodies contain, on the source's claim, intelligent beings whose worlds we cannot perceive, whose atoms contain smaller beings still, without termination.{% end %} There is **no largest scale**: the Earth is a particle of an atom of an atom of the hand of a gigantic being, itself one figure in a vastly larger world containing yet more gigantic beings, without termination. The same process runs upward and downward — no privileged scale, no asymmetry — symmetric across the infinite hierarchy, framing both the Fractal Cosmology framework's spatial-self-similar content and the Mass Effect framework's time-scaling content.
 
 ### The integration of the three dimensions
 

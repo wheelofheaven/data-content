@@ -72,8 +72,8 @@ The reason is the [Mass Effect](../mass-effect/): "Time is, in fact, inversely
 proportional to the mass, or rather to the level of the form of life." A being as
 massive as the Earth lives far more slowly than we do — a single "palpitation"
 might span centuries — so its life is invisible to us for the same reason a red
-blood cell cannot register that it belongs to a person. We stand to the Earth as
-the cells of our body stand to us. The absence of any perceptible heartbeat is
+blood cell cannot register that it belongs to a person. {% claim(type="speculative", id="woh-claim-0025") %}We stand to the Earth as
+the cells of our body stand to us.{% end %} The absence of any perceptible heartbeat is
 exactly what the framework predicts, not evidence against it.
 
 The Earth is one case of a general claim. "Everything in the universe is alive,"

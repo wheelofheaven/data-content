@@ -621,8 +621,8 @@ on their planet had been right. Dragons, or what you have named Dinosaurs
 or Brontosaurs, and so on.
 {% end %}
 
-— while the Bible's *figurative* serpent-and-dragon language attaches, in
-the canon's reading, to the exiled Lucifer faction. The corpus's
+— while {% claim(type="framework", id="woh-claim-0022") %}the Bible's *figurative* serpent-and-dragon language attaches, in
+the canon's reading, to the exiled Lucifer faction.{% end %} The corpus's
 {% wiki(slug="dragons") %}dragons{% end %} and
 {% wiki(slug="serpent") %}serpent{% end %} entries sort the world's
 serpent-lore into two clusters — chaos-serpents (Tiamat, Apophis,
@@ -717,9 +717,9 @@ argument can be checked; that is exactly why this project labels them
 `inferred`. The two epistemologies meet in the strange middle ground where
 a working archdeacon's textual archaeology and a contactee's debriefing
 converge on the same enclosure, the same dissenting scientists, the same
-council votes. The convergence does not prove either frame. It does
+council votes. {% claim(type="inferred", id="woh-claim-0042") %}The convergence does not prove either frame. It does
 establish that the *text* — read with the plural restored — keeps
-generating this story, in whoever does the restoring.
+generating this story, in whoever does the restoring.{% end %}
 
 ## What the kinship is worth
 

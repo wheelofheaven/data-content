@@ -83,8 +83,8 @@ scrolls.
 
 The project reads the timing through the
 {% wiki(slug="apocalypse") %}Apocalypse{% end %} frame the canon supplies — the
-caves opened in the first year of the calendar the Raëlian source material counts
-from the atomic flash over Hiroshima — but that reading is labelled speculative
+{% claim(type="speculative", id="woh-claim-0026") %}caves opened in the first year of the calendar the Raëlian source material counts
+from the atomic flash over Hiroshima{% end %} — but that reading is labelled speculative
 where it is made, and nothing in the present entry depends on it. What is not in
 dispute is the manuscript evidence itself.
 

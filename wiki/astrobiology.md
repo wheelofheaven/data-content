@@ -160,8 +160,8 @@ mainstream astrobiology and the Wheel of Heaven reading reach for the same words
 
 ## The Wheel of Heaven reading
 
-The framework's account of terrestrial life is, in scientific vocabulary, a
-specific and detailed version of directed panspermia.
+{% claim(type="inferred", id="woh-claim-0067") %}The framework's account of terrestrial life is, in scientific vocabulary, a
+specific and detailed version of directed panspermia.{% end %}
 
 On the reading developed from the [Raëlian](../raelism/) source material, life on
 Earth did not arise from unguided chemistry. It was **designed and synthesised**

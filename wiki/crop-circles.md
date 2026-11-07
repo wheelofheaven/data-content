@@ -259,11 +259,11 @@ which bore an astonishing resemblance to
 it,"{{ cite(id="the-book-which-tells-the-truth", text="[12]", title="Vorilhon (Raël), *Message from the Designers* foreword — the embassy-resemblance crop circle") }}
 and the book's acknowledgments thank Colin Andrews for a 1990 aerial photograph
 taken at Cheesefoot Head. The corpus treats that single resemblance as
-meaningful within its own frame without generalizing from it. Alliance
+meaningful within its own frame without generalizing from it. {% claim(type="inferred", id="woh-claim-0057") %}Alliance
 communication, on this reading, runs through the contact narrative — the
 13 December 1973 encounter at Puy-de-Lassolas and the 7 October 1975 transport
 to the [home world](../elohim-home-planet/) — and through prophetic
-transmission, not through formations in fields. Raëlian interest in crop
+transmission, not through formations in fields.{% end %} Raëlian interest in crop
 circles since the 1990s is cultural interest, not doctrine.{{ footnote(id="6") }}
 This whole reading is offered as interpretation, and labelled as such.
 

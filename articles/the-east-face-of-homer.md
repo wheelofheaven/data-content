@@ -171,8 +171,8 @@ than two thousand years before any Greek literature was written down. Archaeolog
 stratum, and no one contests it.
 
 The literary borrowing, though, proves something smaller and more precise:
-contact, and prestige. Archaic Greeks absorbed material from cultures they
-recognised as older, richer, and more learned than their own. Borrowing
+contact, and prestige. {% claim(type="direct", id="woh-claim-0005") %}Archaic Greeks absorbed material from cultures they
+recognised as older, richer, and more learned than their own.{% end %} Borrowing
 shows the direction of cultural gravity in the eighth century; it does not
 by itself show where civilisation began, any more than medieval Europe's
 absorption of Arabic science makes Baghdad the origin of Europe. Sliding
@@ -239,10 +239,10 @@ delegation head and a grievance.
 
 Now set the two anchors on a timeline, because the chronology does real
 work. Persian domination of Judea begins in 539 BCE; the Greek kingdoms
-take over after Alexander, in the fourth century. The Homeric and Hesiodic
+take over after Alexander, in the fourth century. {% claim(type="framework", id="woh-claim-0006") %}The Homeric and Hesiodic
 poems crystallised in the eighth and seventh centuries — roughly two
 hundred years before the first emissary in this account could have set
-foot among the Greeks. The conclusion is one the corpus binds itself to:
+foot among the Greeks.{% end %} The conclusion is one the corpus binds itself to:
 **the emissaries explain nothing in Homer.** Whoever taught Greece in the
 classical era, the *Odyssey* and the *Theogony* were already old when the
 lesson began. The documented archaic transmission — the poets, the traders,
@@ -257,11 +257,11 @@ Kept distinct, the two anchors support something larger than either: a
 continuity. Greece appears in the canon at the deep layer — a base region
 whose mythology preserves testimonies — and appears again in the classical
 layer, receiving emissaries during the era of the empires. Engagement at
-two moments, centuries apart, different in kind each time. The corpus reads
+two moments, centuries apart, different in kind each time. {% claim(type="framework", id="woh-claim-0007") %}The corpus reads
 this as the minimum outline of a continuous fact: **Greece lay within the
 Elohimian sphere throughout** — the same field of activity whose centre of
 gravity the biblical corpus records in the Near East, from Babel to the
-prophets.
+prophets.{% end %}
 
 Read this way, the mainstream picture and the canonical picture snap into
 registration. Scholarship finds Greece culturally embedded in the Near

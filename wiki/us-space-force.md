@@ -196,11 +196,11 @@ limits.
 
 Skeptics of the ufological readings make the straightforward point that a
 documented military bureaucracy needs no exotic explanation, and that the burden
-of proof for any "secret space program" claim has not been met. The framework
+of proof for any "secret space program" claim has not been met. {% claim(type="inferred", id="woh-claim-0057") %}The framework
 agrees on the essentials: it distinguishes what is established — a mundane
 military branch, founded for stated and sufficient reasons — from what is
 speculative — any covert UAP mission — and it declines to let the second borrow
-credibility from the first. That discipline, reporting the documented and
+credibility from the first.{% end %} That discipline, reporting the documented and
 flagging the speculative as speculative, is the whole of the corpus's interest in
 the Space Force.
 

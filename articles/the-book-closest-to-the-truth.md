@@ -152,9 +152,9 @@ because the trail runs through the strangest text in Jewish mysticism, a
 three-way scholarly fight about its age, a millennium of theological
 embarrassment about its contents, and — at the very end — a cheap French
 paperback with a telltale translation error. The destination is worth
-stating up front: **the passage Yahweh quotes exists.** It is called the
+stating up front: {% claim(type="inferred", id="woh-claim-0021") %}**the passage Yahweh quotes exists.** It is called the
 *Shi'ur Qomah* (Hebrew שִׁעוּר קוֹמָה, *šiʿur qômāh*, "the Measure of the
-Stature"), and the Wheel of Heaven project has translated it in full:
+Stature"){% end %}, and the Wheel of Heaven project has translated it in full:
 [*Shi'ur Qomah* — Wheel of Heaven Translation](/library/shiur-qomah-woh/).
 What the numbers *mean* is exactly the point at which the mainstream and the
 canon part ways, and this article will mark that line when it comes to it.

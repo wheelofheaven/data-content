@@ -144,7 +144,7 @@ The Sendy-Biglino genealogy operates as a case of methodological convergence rat
 
 The convergence itself is methodologically significant. When two independent figures, working from different starting points in different decades, arrive at the same hermeneutic commitments and the same principal textual observations (the plurality of *Elohim*, the political rather than theological character of the prohibitions, the concrete rather than allegorical character of the narratives), the convergence suggests that the text is producing the methodology when engaged closely rather than the methodology producing pre-selected readings of the text.
 
-The corpus position registers both contributions. Sendy is the principal pre-Vorilhon methodological influence on the broader Wheel of Heaven framework; Biglino is the principal contemporary methodological articulator whose work has reached substantial reading audiences in Italy and (more recently) the Anglophone world. The corpus methodology synthesizes both contributions within the broader framework structured by the *Hamlet's Mill* precessional integration and the Vorilhon source-textual primacy.
+The corpus position registers both contributions. Sendy is the principal pre-Vorilhon methodological influence on the broader Wheel of Heaven framework; Biglino is the principal contemporary methodological articulator whose work has reached substantial reading audiences in Italy and (more recently) the Anglophone world. {% claim(type="framework", id="woh-claim-0064") %}The corpus methodology synthesizes both contributions within the broader framework structured by the *Hamlet's Mill* precessional integration and the Vorilhon source-textual primacy.{% end %}
 
 ## The three-step methodology
 

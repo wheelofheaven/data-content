@@ -45,10 +45,10 @@ of creators — that preserved a small human crew and the genetic material of th
 biosphere through the [Great Flood](../great-flood/), read as a deliberate
 strike ordered against the antediluvian [Eden](../eden/) civilisation in the
 [Age of Gemini](../timeline/age-of-gemini/) (c. 6,690 BCE in the corpus's
-reckoning). On this reading the ark is not a feat of carpentry but the
+reckoning). {% claim(type="framework", id="woh-claim-0010") %}On this reading the ark is not a feat of carpentry but the
 instrument of a technical rescue: its pitch is shielding, its "lifting up above
 the earth" is ascent into orbit, and its cargo is not breeding pairs of animals
-but single living cells from which the living world could be regrown.
+but single living cells from which the living world could be regrown.{% end %}
 
 ## The Genesis account
 

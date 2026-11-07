@@ -153,9 +153,9 @@ reading; the wider parallels describe a recurring mythic type.
 
 ## In the Wheel of Heaven framework
 
-At the level of the corpus's canonical frame the verdict is direct: **the
+{% claim(type="framework", id="woh-claim-0002") %}At the level of the corpus's canonical frame the verdict is direct: **the
 Anunnaki are the Elohim**, the same creator-civilization remembered under a
-Mesopotamian name. *Anunnaki* is registered among the alternative names of the
+Mesopotamian name.{% end %} *Anunnaki* is registered among the alternative names of the
 {% wiki(slug="elohim") %}Elohim{% end %} not as a loose typological resemblance
 but as an identification of the underlying beings, while the two traditions
 preserve different names, emphases, and narrative layers. What the cuneiform

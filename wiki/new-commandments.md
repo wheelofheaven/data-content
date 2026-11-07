@@ -59,10 +59,10 @@ proposals. Each names a dimension of the same Aquarian-age reorganization, and
 each has, or will have, its own dedicated entry; the summaries below give only
 enough to place them.
 
-**1. [Geniocracy](../geniocracy/) — governance.** A "selective democracy" that
+**1. [Geniocracy](../geniocracy/) — governance.** {% claim(type="framework", id="woh-claim-0032") %}A "selective democracy" that
 ties political eligibility to measured intelligence: voting for those at least
 ten percent above the population average, eligibility for office for those at
-least fifty percent above. The source argues the case through the
+least fifty percent above.{% end %} The source argues the case through the
 cells-of-the-body metaphor — the foot does not vote on what the hand should
 lift — and through the example of Copernicus, condemned by a majority that
 lacked the knowledge to judge him.
@@ -190,9 +190,9 @@ socio-political-cultural core of a larger Aquarian-age plan that also includes
 the [Mission](../mission/) and [Embassy](../embassy/) (the institutional task
 set apart in 1974), the [Apocalypse](../apocalypse/) as the threshold the age
 must navigate, and the [Golden Age](../golden-age/) as the form of life that
-full implementation is meant to produce. The related doctrines of
+full implementation is meant to produce. {% claim(type="framework", id="woh-claim-0033") %}The related doctrines of
 [Paradism](../paradism/) and [Cyberparadism](../cyberparadism/) work out the
-post-scarcity, post-money end-state toward which Humanitarianism points.
+post-scarcity, post-money end-state toward which Humanitarianism points.{% end %}
 
 ## Comparative and critical perspectives
 

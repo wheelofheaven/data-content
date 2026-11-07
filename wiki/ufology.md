@@ -58,9 +58,9 @@ The Wheel of Heaven framework reads ufology as the broader context for its own
 founding case. Raëlism arose from a reported 1973 contact experienced by the
 French journalist Claude Vorilhon — later [Raël](../rael/) — and the
 [Elohim](../elohim/) of the canon are an advanced human civilization, not an
-unknown "alien" species. Read that way, ufology is the field within which that
+unknown "alien" species. {% claim(type="inferred", id="woh-claim-0057") %}Read that way, ufology is the field within which that
 contact report sits: the framework engages the wider UFO/UAP record with
-interest, as consistent with its own account, without resting on it.
+interest, as consistent with its own account, without resting on it.{% end %}
 
 ## The field and its name
 

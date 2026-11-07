@@ -42,12 +42,12 @@ principal_text = "*The Book Which Tells the Truth* (1974), 'Sodom and Gomorrah' 
 
 **Sodom and Gomorrah** (Hebrew: סְדֹם וַעֲמֹרָה, *Sedom va-Amorah*) is the
 destruction of the Cities of the Plain recorded in [Genesis](../genesis/) 18–19.
-In the Wheel of Heaven framework it is read as a targeted strike by the
+{% claim(type="framework", id="woh-claim-0062") %}In the Wheel of Heaven framework it is read as a targeted strike by the
 home-world [Council of the Eternals](../council-of-the-eternals/) against an
 organized human vengeance movement: the descendants of the [Babel](../babel/)-era
 scientific elite, who had regathered forbidden knowledge at the Cities of the
 Plain and were preparing an expedition against the creators who had earlier tried
-to destroy them. Structurally the event echoes the [Great Flood](../great-flood/)
+to destroy them.{% end %} Structurally the event echoes the [Great Flood](../great-flood/)
 but on a tactical scale — a localized strike on a single rebel centre rather than
 a planetary reset — with [Abraham](../abraham/) interceding beforehand and his
 nephew Lot extracted before the blow fell. On this reading the "two angels" of

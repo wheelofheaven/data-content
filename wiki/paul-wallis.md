@@ -123,9 +123,9 @@ Biglino-adjacent approach."
 Wallis's independence is part of his evidential value to this project. A
 full-text search of the six Eden books finds no mention of
 {% wiki(slug="rael") %}Raël{% end %}, of the Raëlian source material, or —
-more surprisingly for the genre — of Zecharia Sitchin. His convergences
+more surprisingly for the genre — of Zecharia Sitchin. {% claim(type="inferred", id="woh-claim-0042") %}His convergences
 with the framework were reached from the text alone, which is precisely
-what makes them worth mapping. The full-length comparison lives in the
+what makes them worth mapping.{% end %} The full-length comparison lives in the
 Explainer [*The Archdeacon and the
 Dragon*](/articles/the-archdeacon-and-the-dragon/); this entry gives the
 biographical and bibliographical record.

@@ -48,9 +48,9 @@ updates **Euhemerism**, the ancient Greek approach named for
 kings elevated to divine status after their deaths. The classical method treated
 the historical figures behind the gods as exceptional humans; the neo-
 extension replaces "exceptional humans" with "advanced visitors" and keeps
-everything else. In the [Wheel of Heaven](../wheel-of-heaven/) framework it is
+everything else. {% claim(type="framework", id="woh-claim-0064") %}In the [Wheel of Heaven](../wheel-of-heaven/) framework it is
 the working method behind reading the [Elohim](../elohim/) as the historical
-civilization that the world's scriptures remember as gods.
+civilization that the world's scriptures remember as gods.{% end %}
 
 ## Euhemerus and the classical method
 

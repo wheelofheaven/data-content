@@ -129,11 +129,11 @@ the traditions are *about*. The academic definitions describe how religion
 operates; the framework's claim concerns what, on its reading, religion originally
 cultivated a link to.
 
-**Religion as an "atheist religion."** The clearest modern statement of the
+**Religion as an "atheist religion."** {% claim(type="direct", id="woh-claim-0027") %}The clearest modern statement of the
 framework's position is the [Raëlian](../raelism/) self-description as an "atheist
 religion" — religion in the *religare* sense of a cultivated bond between creators
 and created, atheist in the sense of denying any supernatural divinity, since the
-Elohim are biological beings rather than gods:
+Elohim are biological beings rather than gods{% end %}:
 
 > *"the Raelian Movement is a religion; it ties the creators of Humanity with
 > their creation, even if it is in fact an atheist religion, in the sense that it

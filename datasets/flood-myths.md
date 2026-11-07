@@ -57,8 +57,8 @@ the **CSV** opens in any spreadsheet.
 
 ## How the table was built
 
-Each row is a flood tradition attested in a **primary text** — named in the
-*Source text* column. A tradition is included when its flood account survives
+{% claim(type="inferred", id="woh-claim-0060") %}Each row is a flood tradition attested in a **primary text** — named in the
+*Source text* column.{% end %} A tradition is included when its flood account survives
 in a readable source and states enough of the shared elements to populate the
 comparative columns; the concordance is deliberately conservative, favouring
 eleven well-attested traditions over a long tail of fragmentary or contested
@@ -92,8 +92,8 @@ and a shared *procedure* appears rather than a shared mood: a destruction
 decided in assembly and sworn as irrevocable, a single survivor given precise
 instructions and told to preserve *the seed of all living things*, and a
 warning delivered by one member of the planning body against the will of
-another. The Wheel of Heaven corpus reads that convergence not as a borrowed
-folk-motif but as the administrative record of a **managed reset** — treated at
+another. {% claim(type="framework", id="woh-claim-0010") %}The Wheel of Heaven corpus reads that convergence not as a borrowed
+folk-motif but as the administrative record of a **managed reset**{% end %} — treated at
 length in [The Flood Was a Reset, Not a Punishment](/articles/the-flood-was-a-reset-not-a-punishment/)
 and the [Great Flood](/wiki/great-flood/) entry.
 

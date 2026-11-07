@@ -131,9 +131,9 @@ The second is the Wheel of Heaven hypothesis: **the prophetic war against
 idols may preserve a recurring restoration of memory, calling human beings away
 from dead substitutes and back to their actual makers, the
 {% wiki(slug="elohim") %}Elohim{% end %}, usually through the authority of one
-named Eloha or messenger**. On this reading, the later singular, immaterial,
+named Eloha or messenger**. {% claim(type="speculative", id="woh-claim-0011") %}On this reading, the later singular, immaterial,
 omnipresent God is not what the oldest polemics were defending. He is what
-centuries of theology made from a more concrete history. That claim is
+centuries of theology made from a more concrete history.{% end %} That claim is
 `speculative`. It is not standard biblical scholarship, and it is not Islamic
 theology. Its value depends on whether it explains the textual remainder better
 than the categories it seeks to replace. The larger canonical architecture is
@@ -489,9 +489,9 @@ could be distributed among lesser beings and their objects.
 ## The Wheel of Heaven inversion
 
 Within the [Age of Aquarius](/timeline/age-of-aquarius/), the Wheel of Heaven
-canon begins by reversing the later settlement. It accepts the ancient
+canon begins by reversing the later settlement. {% claim(type="framework", id="woh-claim-0009") %}It accepts the ancient
 plurality and rejects the supernatural category. The Elohim are many, finite,
-embodied makers. Yahweh is a named individual and {% wiki(slug="council-of-the-eternals") %}institutional president{% end %}, not
+embodied makers.{% end %} Yahweh is a named individual and {% wiki(slug="council-of-the-eternals") %}institutional president{% end %}, not
 being itself. Gabriel or
 Jibril is read as a messenger involved in prophetic contact, not an immaterial
 species hovering between creation and creator.{{ footnote(id="7") }}

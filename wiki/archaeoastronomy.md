@@ -181,10 +181,10 @@ correctly dated. What the corpus adds is a reading of the *pattern*: the
 recurrence of the same astronomical content across cultures that had no ordinary
 contact, and above all the traces of precessional awareness that the
 [Hamlet's Mill](../hamlets-mill/) thesis (Giorgio de Santillana and Hertha von
-Dechend, 1969) finds encoded in the world's mythology. The corpus adopts that
+Dechend, 1969) finds encoded in the world's mythology. {% claim(type="inferred", id="woh-claim-0014") %}The corpus adopts that
 precessional-encoding thesis as interpretive infrastructure — honestly, as an
 inferred reading rather than an established fact, with the mainstream verdict
-that it remains unproven kept in plain view.
+that it remains unproven kept in plain view.{% end %}
 
 Where the corpus parts from the mainstream is on a single empirical claim: that
 explicit awareness of precession existed well before Hipparchus. On the

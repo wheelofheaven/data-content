@@ -62,8 +62,8 @@ filter, merge, and cite.
 
 ## How the table was built
 
-Each row is an attestation of a **divine council** in a primary text — named in
-the *Source text* column with a *Reference* locator. A passage is included when
+{% claim(type="inferred", id="woh-claim-0060") %}Each row is an attestation of a **divine council** in a primary text — named in
+the *Source text* column with a *Reference* locator.{% end %} A passage is included when
 it depicts a deliberative assembly of divine beings (not a single deity acting
 alone) and names enough of the institution's features to populate the columns.
 Several rows can share a textual family — the Hebrew Bible contributes several

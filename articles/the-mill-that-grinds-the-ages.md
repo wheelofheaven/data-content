@@ -952,13 +952,13 @@ The Wheel of Heaven takes its name from this machine, and its reading
 of the controversy can now be stated in three sentences, each with
 its epistemic label attached. That the precession of the equinoxes
 structures a cycle of ~25,920 years, divisible into twelve ages, is
-astronomy — *direct*. That the world's myths, fairy tales, sacred
+astronomy — *direct*. {% claim(type="inferred", id="woh-claim-0014") %}That the world's myths, fairy tales, sacred
 architectures and blessing-formulas preserve the numbers, images and
 age-transitions of that cycle in a form designed to survive the
 death of understanding — the *Hamlet's Mill* thesis — is a reading
 this corpus finds cumulatively persuasive and mainstream scholarship
 does not: *inferred*, and argued rather than assumed everywhere it
-appears. And that the knowledge was neither miracle nor lost human
+appears.{% end %} And that the knowledge was neither miracle nor lost human
 science but curriculum — taught by the
 {% wiki(slug="elohim") %}Elohim{% end %} at the beginning of the
 project, scheduled to be understood again in the age of the

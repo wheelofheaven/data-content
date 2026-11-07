@@ -118,7 +118,7 @@ None of this converts an unresolved case into a resolved one. The framework read
 
 1. **The unresolved-case framing remains in force.** No Release 04 item is characterized by the Department as confirmed non-conventional, and the corpus does not so characterize them. The tranche's structural development — the Energy Department's entry, and the nuclear-site subject matter — is independent of any verdict on the individual cases.
 
-2. **Selection effects at nuclear sites are real.** The concentration of Release 04's headline cases at weapons installations is consistent with the framework's reading, but it is also consistent with the mundane fact that such installations are watched more closely than anywhere else. The corpus holds both possibilities open and does not treat the clustering as probative on its own.
+2. **Selection effects at nuclear sites are real.** The concentration of Release 04's headline cases at weapons installations is consistent with the framework's reading, but it is also consistent with the mundane fact that such installations are watched more closely than anywhere else. {% claim(type="inferred", id="woh-claim-0057") %}The corpus holds both possibilities open and does not treat the clustering as probative on its own.{% end %}
 
 3. **The 1949 transcript is documentary, not evidentiary as to the phenomenon.** It establishes what the Los Alamos scientists said, and that they did not reach a conventional explanation. It does not establish what the green fireballs were. LaPaz's own conclusion — "not a conventional meteorite fall" — is the assessment of a first-rank meteor astronomer, and is weighty as such, but it is a negative finding, not an identification.
 

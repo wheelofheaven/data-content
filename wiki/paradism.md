@@ -35,10 +35,10 @@ contemporary_parallels = "Post-scarcity economics (Frase, Reich); Fully Automate
 status_in_framework = "Principal Aquarian-age program-component; the operational form of the Golden Age's post-scarcity content; a third-way alternative to twentieth-century economic systems"
 +++
 
-**Paradism** is the Raëlian doctrine of a post-scarcity, fully automated, moneyless
+{% claim(type="framework", id="woh-claim-0033") %}**Paradism** is the Raëlian doctrine of a post-scarcity, fully automated, moneyless
 society — a civilisation in which machines perform all necessary work, material
 scarcity is abolished, and people are freed from wage-labour to think, create, and
-fulfil themselves. In the Wheel of Heaven framework it is read as the socio-economic
+fulfil themselves.{% end %} In the Wheel of Heaven framework it is read as the socio-economic
 shape of the [Golden Age](../golden-age/): the form Aquarian-age society takes once
 automation is carried through to its conclusion, modelled on the world of the
 [Elohim](../elohim/), whose home planet the canon describes as already organised

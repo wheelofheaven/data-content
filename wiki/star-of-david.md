@@ -44,12 +44,12 @@ six-pointed star formed by two interlocked equilateral triangles — a
 on the flag of Israel, but that identification is comparatively recent: the
 figure became the principal Jewish symbol only in the early-modern and modern
 periods, and the hexagram itself is far older and appears across many unrelated
-traditions. In the Wheel of Heaven framework the Star of David is the outer
+traditions. {% claim(type="framework", id="woh-claim-0043") %}In the Wheel of Heaven framework the Star of David is the outer
 component of the [Raëlian Symbol of Infinity](../raelian-symbol-of-infinity/),
 where the two interlocked triangles carry the meaning [Yahweh](../yahweh/)
 assigns them — "as above, so below," the correspondence of the very large and the
 very small that the [Infinity](../infinity/) framework calls its spatial
-dimension. To that reading [Jean Sendy](../jean-sendy/) adds a second: that the
+dimension.{% end %} To that reading [Jean Sendy](../jean-sendy/) adds a second: that the
 same figure, the seal of Solomon, marks the alliance between the creators and
 their human creation, the upward triangle standing for "the heavens" and the
 downward for "men."

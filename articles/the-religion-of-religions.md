@@ -91,10 +91,10 @@ down saying a small bearded man in a green one-piece suit had stepped out
 of a landed craft, addressed him by name, and asked him to return the next
 morning — with a Bible. For six consecutive days, by his account, the
 visitor worked through that Bible with him, verse by verse, correcting the
-translation errors of thirty centuries. The book Claude Vorilhon published
+translation errors of thirty centuries. {% claim(type="direct", id="woh-claim-0020") %}The book Claude Vorilhon published
 from his notes the following year, [*The Book Which Tells the
 Truth*](/library/the-book-which-tells-the-truth/), became the founding
-scripture of the movement this project takes as its canon; the man himself
+scripture of the movement this project takes as its canon;{% end %} the man himself
 became {% wiki(slug="rael") %}Raël{% end %}; and this Explainer takes up a
 question on which institutions and scholars have repeatedly disagreed:
 *what kind of religion resulted?*
@@ -262,9 +262,9 @@ cite all the religions and sects that testify in a more or less obscure
 way to our work.
 {% end %}
 
-Buddhism, Islam, and the Latter-day Saints are therefore presented in the
+{% claim(type="direct", id="woh-claim-0027") %}Buddhism, Islam, and the Latter-day Saints are therefore presented in the
 1974 founding document as parallel witnesses to the events recorded in the
-Bible. Comparative religion was part of the initial message, not a later
+Bible.{% end %} Comparative religion was part of the initial message, not a later
 addition.
 The movement's charge follows in the next chapter — spread the message,
 prepare an {% wiki(slug="embassy") %}embassy{% end %} for the creators'

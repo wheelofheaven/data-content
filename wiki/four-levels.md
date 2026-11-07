@@ -36,10 +36,10 @@ status_in_source_material = "Stated directly by Yahweh in the 'Humanity' section
 principal_text = "*Extra-Terrestrials Took Me to Their Planet* (1975), 'The Keys' chapter, 'Humanity' section; the 'What is the Purpose of Life?' passage in *Message from the Designers*"
 +++
 
-**Four Levels** is the name the Wheel of Heaven corpus gives to a rule stated by
+{% claim(type="framework", id="woh-claim-0041") %}**Four Levels** is the name the Wheel of Heaven corpus gives to a rule stated by
 [Yahweh](../yahweh/) in the Raëlian source texts: that any situation should be
 weighed against four frames of reference at once — infinity, the
-[Elohim](../elohim/) who created us, human society, and the individual self. The
+[Elohim](../elohim/) who created us, human society, and the individual self.{% end %} The
 rule first appears in the "Humanity" section of "The Keys," in
 *Extra-Terrestrials Took Me to Their Planet* (1975):
 

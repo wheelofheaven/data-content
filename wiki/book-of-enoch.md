@@ -192,8 +192,8 @@ memory of the **exiled creator faction** of the {% wiki(slug="antediluvian") %}a
 period. The Watchers are the {% wiki(slug="lucifer") %}Lucifer{% end %} faction
 of the {% wiki(slug="elohim") %}Elohim{% end %} — the dissident scientists
 permanently exiled on Earth after the {% wiki(slug="eden") %}Eden{% end %}
-settlement, who continued to teach the Eden lineage across the age. The Nephilim
-are their hybrid offspring with women of that lineage. The forbidden arts are
+settlement, who continued to teach the Eden lineage across the age. {% claim(type="framework", id="woh-claim-0012") %}The Nephilim
+are their hybrid offspring with women of that lineage.{% end %} The forbidden arts are
 **technology transfer** — the sciences the home world had prohibited, taught in
 defiance of the containment policy — and the text's own legal theory, that the
 teachers bear responsibility for the uses of the teaching, preserves the

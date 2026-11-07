@@ -368,11 +368,11 @@ accreted specifics, and does not adopt Mu at all.{{ footnote(id="5") }}
 
 Mainstream archaeology and Egyptology have answered this body of work on
 consistent grounds — evidence chosen selectively, dates that collide with the
-surrounding archaeology, controls left out — and the corpus, for its part,
+surrounding archaeology, controls left out — and {% claim(type="inferred", id="woh-claim-0058") %}the corpus, for its part,
 declines to lean on the weak points: its chronology comes from the Raëlian source
 and from the precessional reading of myth (see [Precession](../precession/) and
 [Comparative Mythology](../comparative-mythology/)), not from the Orion
-correlation or the Sphinx redating. There is also a reason to reject the strong
+correlation or the Sphinx redating.{% end %} There is also a reason to reject the strong
 framing that is not only archaeological. In its older forms, the claim that this
 or that people "could not" have built its own monuments carried explicit racial
 assumptions about who was capable of greatness in stone — a lineage that runs

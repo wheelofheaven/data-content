@@ -590,9 +590,9 @@ conclusion: that the instrument had failed and must never be used again. Enoch
 keeps the rationale the others lose, and gives it as decontamination — *heal the
 earth, which the Watchers have corrupted, that his seed may endure.*
 
-Through the frame, this is what survives of a real operation: a managed reset by
+{% claim(type="framework", id="woh-claim-0010") %}Through the frame, this is what survives of a real operation: a managed reset by
 makers of high but finite capacity who decided, executed, preserved a line, and
-fell out among themselves over the cost. Without the frame, it remains stranger
+fell out among themselves over the cost.{% end %} Without the frame, it remains stranger
 and more interesting than punishment — four literatures, independently,
 remembering the deluge as a deliberation rather than a tantrum. The flood the
 texts actually preserve was never simply wrath. It was a decision, taken by

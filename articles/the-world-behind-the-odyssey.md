@@ -612,10 +612,10 @@ Eternals{% end %} under {% wiki(slug="yahweh") %}Yahweh{% end %} governed
 the Earth project — its internal factional conflict, and the long cultural
 digestion of both by the humans who witnessed them. The corpus develops
 that reading systematically in the
-{% wiki(slug="theomachy") %}Theomachy{% end %} entry: the war between an
+{% wiki(slug="theomachy") %}Theomachy{% end %} entry: {% claim(type="framework", id="woh-claim-0008") %}the war between an
 older displaced generation of divine figures and a younger established
 pantheon, preserved from Greece to Mesoamerica, is read as common memory of
-the Council-Serpentine conflict — the political-military struggle that runs
+the Council-Serpentine conflict{% end %} — the political-military struggle that runs
 from the Eden disclosure through the {% wiki(slug="great-flood") %}Great
 Flood{% end %} to the negotiated pardon, across the
 [Age of Cancer](/timeline/age-of-cancer/), the
@@ -629,10 +629,10 @@ gods behave like a governing class because, on this reading, the tradition
 is remembering one: councils and portfolios, factions and favourites,
 presidency and dissent — the institutional texture the
 ethnographic inventory kept finding is the texture of the Council itself.
-The succession myth — power passing violently between generations of the
+{% claim(type="speculative", id="woh-claim-0004") %}The succession myth — power passing violently between generations of the
 divine class, the elders confined below — parallels the corpus's account of
 generational political conflict among the creators, with the defeated
-faction driven into concealment; the Titanomachy's imprisoned elders and
+faction driven into concealment{% end %}; the Titanomachy's imprisoned elders and
 the {% wiki(slug="dragons") %}sea-dwelling dragon{% end %} of the Hebrew
 prophets are read as two cultural memories of the same marginalised party.
 The storm-god-against-serpent armature, tabulated across eight traditions

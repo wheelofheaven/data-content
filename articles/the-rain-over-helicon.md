@@ -353,9 +353,9 @@ maintained bases, with the added statement that its mythology contains
 testimonies. Claim 0004 develops one possible content for that statement: the
 succession of heaven, the divine wars, the assembly, divine-human unions, and
 the punished transfer of knowledge are read as transformed memory of the
-{% wiki(slug="theomachy") %}Council–Serpentine conflict{% end %}. Claim 0007
+{% wiki(slug="theomachy") %}Council–Serpentine conflict{% end %}. {% claim(type="framework", id="woh-claim-0007") %}Claim 0007
 places Greece within the wider sphere of activity whose centre of gravity the
-canon locates in the Near East.
+canon locates in the Near East.{% end %}
 
 West changes the conditions under which that reading can be made. A Greek
 parallel cannot be treated as an independent second witness when scholarship
@@ -381,10 +381,10 @@ The distinction yields three constraints:
 - No documented trade route becomes a canonical mechanism. The stories moved
   through people; the framework makes no rival claim about their journey.
 
-On Wheel of Heaven's reading, the strongest candidate for retained memory is
+{% claim(type="speculative", id="woh-claim-0004") %}On Wheel of Heaven's reading, the strongest candidate for retained memory is
 the architecture, not the costume: a governing assembly divided by policy,
 conflict between divine factions, a succession of ruling orders, intervention
-in human development, and punishment for unauthorised disclosure. Even there,
+in human development, and punishment for unauthorised disclosure.{% end %} Even there,
 literary transmission and social projection remain sufficient alternatives.
 The framework has not yet produced a textual particular that they cannot
 explain.
@@ -433,8 +433,8 @@ The case for Near Eastern influence survives because it is larger than its
 most famous parallels and more careful than its slogan. Hesiod and Kumarbi
 provide an articulated dependence case. The combat traditions show a mobile
 family whose differences remain legible. Poetic procedure and diction reveal
-contact inside the craft. The *Odyssey* and *Gilgamesh* disclose a strong
-narrative relationship without collapsing their heroes. Archaeology and
+contact inside the craft. {% claim(type="direct", id="woh-claim-0005") %}The *Odyssey* and *Gilgamesh* disclose a strong
+narrative relationship without collapsing their heroes.{% end %} Archaeology and
 social history supply several corridors, while refusing us the itinerary of
 each tale.
 

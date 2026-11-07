@@ -71,9 +71,9 @@ without turning it back into myth.
 Its through-line is that the Bible is a human record of contact, garbled by the
 limits of the people who preserved it. The plural noun *Elohim*, conventionally
 rendered "God," is read as a genuine plural — a group, "those who came from the
-sky" — rather than a single deity. The Genesis creation days become a compressed
+sky" — rather than a single deity. {% claim(type="framework", id="woh-claim-0039") %}The Genesis creation days become a compressed
 account of deliberate biological work: a team synthesising plants, animals, and
-finally humanity "in their own image," in laboratories, on a young Earth. Adam
+finally humanity "in their own image," in laboratories, on a young Earth.{% end %} Adam
 and Eve are the first successful human results. The tree of knowledge is the
 scientific understanding the creators debated sharing; the Serpent is the faction
 that shared it. The expulsion from the garden is the creators withdrawing the new

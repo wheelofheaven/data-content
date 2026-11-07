@@ -43,10 +43,10 @@ of property and inheritance — the second of the seven
 [Claude Vorilhon (Raël)](../rael/) during the December 1973 contact at the
 Puy-de-Lassolas crater and that Vorilhon recorded in
 [*The Book Which Tells the Truth*](../../library/the-book-which-tells-the-truth/)
-(1974). Its proposal is stark: outright ownership is abolished in favour of
+(1974). {% claim(type="framework", id="woh-claim-0049") %}Its proposal is stark: outright ownership is abolished in favour of
 forty-nine-year rental tenures, inheritance ends at the family home, and every
 person begins adult life on roughly equal financial footing, free thereafter to
-be rewarded for their own work rather than their parents'. The forty-nine-year
+be rewarded for their own work rather than their parents'.{% end %} The forty-nine-year
 term is not arbitrary — it is drawn directly from the Jubilee of Leviticus 25,
 whose cycle of seven sevens the source names as scriptural precedent.
 

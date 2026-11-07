@@ -44,10 +44,10 @@ the first of the seven [New Commandments](../new-commandments/) that
 [Yahweh](../yahweh/) delivered to [Raël](../rael/) (Claude Vorilhon) during the
 December 1973 contact and that Vorilhon recorded in
 [*The Book Which Tells the Truth*](../../library/the-book-which-tells-the-truth/)
-(1974). The doctrine proposes what its source calls a "selective democracy": the
+(1974). {% claim(type="framework", id="woh-claim-0032") %}The doctrine proposes what its source calls a "selective democracy": the
 right to vote reserved for those whose measured intelligence is at least ten
 percent above the population average, and eligibility for public office reserved
-for those at least fifty percent above it. Vorilhon set the doctrine out at
+for those at least fifty percent above it.{% end %} Vorilhon set the doctrine out at
 length in a dedicated 1977 book, *Géniocratie* (English: *Geniocracy: Government
 of the People, for the People, by the Geniuses*), and founded the **Movement for
 Worldwide Geniocracy** the same year.

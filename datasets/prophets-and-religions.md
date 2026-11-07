@@ -53,8 +53,8 @@ corpus's own working judgment of whether a tradition's *founding-contact claim*
 (a revelation, a visitation, a dictated book) is plausibly what it says it is,
 on the corpus's Elohim-contact hypothesis. The scale runs `Canonical` (the
 Raëlian founding contact, the corpus's Tier 0) → `Highly likely` → `Likely` →
-`Unlikely` → `Highly unlikely`. It is offered transparently as an interpretive
-instrument, not as consensus fact; the neutral biographical data in the other
+`Unlikely` → `Highly unlikely`. {% claim(type="inferred", id="woh-claim-0060") %}It is offered transparently as an interpretive
+instrument, not as consensus fact;{% end %} the neutral biographical data in the other
 columns can be used entirely independently of it.
 
 ## What it's for

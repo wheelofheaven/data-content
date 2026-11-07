@@ -45,10 +45,10 @@ pattern the framework draws from him runs in both directions: backward, through
 the Hebrew prophets who cultivated messianic expectation across the Aries age,
 and forward, through the nineteenth- and twentieth-century figures whose cultural
 groundwork the corpus reads as preparation for the Aquarian-age contact of 1973.
-Within the roughly forty-figure [prophet](../prophet/) lineage the framework
+{% claim(type="speculative", id="woh-claim-0052") %}Within the roughly forty-figure [prophet](../prophet/) lineage the framework
 tracks, Forerunners are the preparatory sub-class — not the inaugurators of an
 age ([Moses](../moses/), [Jesus](../jesus/), [Raël](../rael/)) but the ones who
-make an inauguration receivable.
+make an inauguration receivable.{% end %}
 
 "Forerunner" is inherited vocabulary, not a term of the Raëlian canon. The source
 material does not use it; the corpus adopts it from the biblical-theological

@@ -162,9 +162,9 @@ science has independently raised the general possibility of engineered life, eve
 as it rejects the framework's particular account. The broader design question is
 developed in the [Intelligent design](../intelligent-design/) entry.
 
-**Contemporary engineering as recovery.** The framework reads today's genetic
+**Contemporary engineering as recovery.** {% claim(type="inferred", id="woh-claim-0065") %}The framework reads today's genetic
 engineering as humanity recovering, on its own, the kind of capability the Elohim
-used at the creation. The double helix in 1953, recombinant DNA in the early
+used at the creation.{% end %} The double helix in 1953, recombinant DNA in the early
 1970s, and CRISPR in 2012 are read as milestones along that recovery. On the
 corpus's chronology the acceleration belongs to the present transitional period —
 the [Apocalypse](../apocalypse/), coextensive with the

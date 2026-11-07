@@ -63,7 +63,7 @@ The obstacle to any literal rebuilding is the status of the **Temple Mount** (He
 
 ## The Wheel of Heaven reading
 
-The framework reads the Third Temple as the Embassy: the residence the Elohim asked humanity to prepare so that they can land openly and take up direct, continuous contact with the people they created. The source material makes the identification itself — the building humanity is to raise is at once the embassy of the Elohim on Earth and the Third Temple the Hebrew prophets foresaw.
+The framework reads the Third Temple as the Embassy: the residence the Elohim asked humanity to prepare so that they can land openly and take up direct, continuous contact with the people they created. {% claim(type="framework", id="woh-claim-0016") %}The source material makes the identification itself — the building humanity is to raise is at once the embassy of the Elohim on Earth and the Third Temple the Hebrew prophets foresaw.{% end %}
 
 **The reception residence.** The architectural specification is given in [*The Book Which Tells the Truth*](../../library/the-book-which-tells-the-truth/) (1974), in the "Your Mission" section of the New Commandments, where [Yahweh](../yahweh/) sets the terms: a residence in a country with a mild climate; seven guest rooms, each with its own bathroom; a conference room and a dining room for twenty-one; a swimming pool; and a roof terrace on which a spacecraft twelve meters across can land, all set within a walled park on neutral, extraterritorial ground. The full specification belongs to the [Embassy](../embassy/) entry; what matters here is that the same passage names the building the Elohim's embassy on Earth.
 
