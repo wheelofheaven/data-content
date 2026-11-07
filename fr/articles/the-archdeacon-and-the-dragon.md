@@ -651,8 +651,8 @@ leurs expériences sur leur planète avaient eu raison. Des dragons, ou ce
 que vous avez nommé Dinosaures ou Brontosaures, et ainsi de suite.
 {% end %}
 
-— tandis que le langage *figuré* de la Bible sur le serpent et le dragon
-se rattache, dans la lecture du canon, à la faction Lucifer exilée. Les
+— {% claim(type="framework", id="woh-claim-0022") %}tandis que le langage *figuré* de la Bible sur le serpent et le dragon
+se rattache, dans la lecture du canon, à la faction Lucifer exilée.{% end %} Les
 entrées {% wiki(slug="dragons") %}dragons{% end %} et
 {% wiki(slug="serpent") %}serpent{% end %} du corpus rangent le folklore
 serpentin du monde en deux ensembles — les serpents-du-chaos (Tiamat,
@@ -756,9 +756,9 @@ c'est exactement pourquoi ce projet les étiquette `framework` plutôt que
 épistémologies se rencontrent dans l'étrange terrain intermédiaire où
 l'archéologie textuelle d'un archidiacre en exercice et le débriefing d'un
 contacté convergent vers la même enceinte, les mêmes savants dissidents,
-les mêmes votes du conseil. La convergence ne prouve aucun des deux cadres.
+les mêmes votes du conseil. {% claim(type="inferred", id="woh-claim-0042") %}La convergence ne prouve aucun des deux cadres.
 Elle établit bel et bien que le *texte* — lu avec le pluriel restitué —
-continue d'engendrer cette histoire, chez quiconque opère la restitution.
+continue d'engendrer cette histoire, chez quiconque opère la restitution.{% end %}
 
 ## Ce que vaut la parenté
 

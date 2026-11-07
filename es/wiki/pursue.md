@@ -64,10 +64,10 @@ no pudo identificar, y publica también sus negativos.
 El marco Wheel of Heaven sigue de cerca PURSUE — el corpus archiva un
 [despacho](/news/pursue-release-06-warp-drives-and-the-tremonton-film/) sobre
 cada entrega — pero bajo una disciplina deliberada: consignación sin
-alistamiento. Ningún archivo que PURSUE publique es prueba a favor del marco,
+alistamiento. {% claim(type="inferred", id="woh-claim-0057") %}Ningún archivo que PURSUE publique es prueba a favor del marco,
 y ningún caso que desmienta es prueba en su contra. El relato del contacto
 del marco descansa en los propios [informes](../rael/) del canon, no en
-ninguna nave en ningún cielo.
+ninguna nave en ningún cielo.{% end %}
 
 ## El nombre y el mandato
 

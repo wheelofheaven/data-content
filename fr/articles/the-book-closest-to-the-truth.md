@@ -150,9 +150,9 @@ toute la longueur de cet article, car la piste traverse le texte le plus
 étrange de la mystique juive, une querelle savante à trois sur son âge, un
 millénaire de gêne théologique quant à son contenu, et — tout à la fin — un
 livre de poche français bon marché portant une erreur de traduction
-révélatrice. La destination mérite d'être annoncée d'emblée : **le passage que
+révélatrice. La destination mérite d'être annoncée d'emblée : {% claim(type="inferred", id="woh-claim-0021") %}**le passage que
 cite Yahvé existe.** Il s'appelle le *Shi'ur Qomah* (hébreu שִׁעוּר קוֹמָה,
-*šiʿur qômāh*, « la Mesure de la Stature »), et le projet de Wheel of Heaven
+*šiʿur qômāh*, « la Mesure de la Stature »){% end %}, et le projet de Wheel of Heaven
 l'a traduit intégralement :
 [*Shi'ur Qomah* — Traduction de Wheel of Heaven](/library/shiur-qomah-woh/).
 Ce que les nombres *signifient* est précisément le point où le courant dominant

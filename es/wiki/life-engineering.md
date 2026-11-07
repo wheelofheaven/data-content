@@ -255,7 +255,7 @@ The field is in motion and several major scientific, ethical, and philosophical 
 
 ## In the Wheel of Heaven framework
 
-The contemporary development of life engineering is, on the Wheel of Heaven reading, the framework's most concrete predicted convergence with the source material — the one most amenable to verification on a near-term human timeline and the one most directly recoverable from the source's own statements about what humanity would learn to do.
+{% claim(type="inferred", id="woh-claim-0065") %}The contemporary development of life engineering is, on the Wheel of Heaven reading, the framework's most concrete predicted convergence with the source material — the one most amenable to verification on a near-term human timeline and the one most directly recoverable from the source's own statements about what humanity would learn to do.{% end %}
 
 ### The source material's account
 

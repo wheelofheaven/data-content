@@ -382,11 +382,11 @@ creadores habían levantado del fondo marino fue quebrado por las explosiones,
 sus fragmentos salieron «a la deriva hacia fuera desde el centro del impacto»,
 y toda la superficie terrestre fue barrida: «toda la materia viva, incluidos
 bosques inmensos, animales e incluso el Hombre» quedó enterrada «de inmediato y
-toda a la vez», en un anillo alrededor del punto de impacto. Los continentes
+toda a la vez», en un anillo alrededor del punto de impacto. {% claim(type="framework", id="woh-claim-0071") %}Los continentes
 de hoy son los pedazos, todavía en movimiento. Los lechos fósiles son el
 entierro, y el canon lee su secuencia como un registro de qué murió cuándo, en
 las secuelas de la explosión inicial, y no como cien millones de años de
-sedimentación tranquila. En esa única cuestión el canon se alinea con Snelling
+sedimentación tranquila.{% end %} En esa única cuestión el canon se alinea con Snelling
 y Wise contra el manual: el registro rocoso es la firma de una catástrofe. Se
 separa de ellos en todo lo que rodea ese acuerdo — la edad del planeta, la
 fecha del acontecimiento, su causa y la identidad de su autor. Lo que conserva,
@@ -701,10 +701,10 @@ también el diseñador ha de ser explicado. Pero «también el diseñador ha de 
 explicado» es una exigencia de fondo, y la exigencia solo muerde si supones que
 la cadena ha de tener uno. Dawkins y Meyer comparten ese supuesto. Es lo más
 profundo que tienen en común, enterrado bajo su famoso desacuerdo, y es el
-supuesto que el canon simplemente no hace. Quítalo y la propia frase de Dawkins
+supuesto que el canon simplemente no hace. {% claim(type="speculative", id="woh-claim-0036") %}Quítalo y la propia frase de Dawkins
 se sostiene: la firma podría estar ahí, y una civilización evolucionada
 anterior podría haberla dejado, y esa civilización no necesita ser ni Dios ni
-la última palabra.
+la última palabra.{% end %}
 
 ## Lo que el canon y el movimiento comparten realmente
 
@@ -855,10 +855,10 @@ ningún instrumento podrá llegar jamás; o bien no hay mano y su apariencia es 
 residuo de un proceso ciego, que es la posición que tiene que explicar y
 descartar el rotundo No de Tour; o bien la mano pertenece a alguien. Alguien
 con cuerpo. Alguien que trabajó ante un banco de trabajo, comparó resultados
-con un colega y encontró asombroso el parecido. Alguien que fue hecho, como
+con un colega y encontró asombroso el parecido. {% claim(type="framework", id="woh-claim-0030") %}Alguien que fue hecho, como
 nosotros fuimos hechos, por alguien anterior, en una línea que corre hacia
 atrás más allá de todo horizonte que podamos ver y no llega nunca a un primer
-hacedor ni a uno final.
+hacedor ni a uno final.{% end %}
 
 Esa tercera respuesta es la que Dawkins tocó y soltó, y la que Meyer levantó y
 arrojó de vuelta, y la que el canon simplemente ha estado sosteniendo, a la

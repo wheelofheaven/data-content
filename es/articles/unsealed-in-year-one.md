@@ -171,12 +171,12 @@ generación final. La comunidad se creía a sí misma esa generación; se
 equivocó por diecinueve siglos, o —la lectura que este artículo existe
 para considerar— su biblioteca iba dirigida, como todos sus profetas, a
 una generación final que no podía conocer. En cualquier caso, el hecho
-físico es lo bastante extraño como para enunciarlo con claridad. Una
+físico es lo bastante extraño como para enunciarlo con claridad. {% claim(type="speculative", id="woh-claim-0026") %}Una
 comunidad obsesionada con el desellado programado de los libros selló
 sus propios libros en tinajas; las tinajas sobrevivieron a la comunidad,
 a su templo, a su imperio y a las vocales de su lengua; y se abrieron en
 el primer año de una era cuyo texto fundacional cita, como su carta, el
-versículo sobre el libro sellado hasta el tiempo del fin. Daniel de
+versículo sobre el libro sellado hasta el tiempo del fin.{% end %} Daniel de
 nuevo, ocho versículos después, tal como lo cita el canon: *«Anda,
 Daniel, pues estas palabras están cerradas y selladas hasta el tiempo
 del fin»*

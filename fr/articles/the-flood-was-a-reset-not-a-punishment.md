@@ -631,9 +631,9 @@ identique de la nature humaine la conclusion opposée : que l'instrument avait
 autres perdent, et la donne comme décontamination — *guéris la terre, que les
 Veilleurs ont corrompue, afin que sa semence subsiste.*
 
-À travers le cadre, voici ce qui survit d'une opération réelle : une
+{% claim(type="framework", id="woh-claim-0010") %}À travers le cadre, voici ce qui survit d'une opération réelle : une
 réinitialisation pilotée par des fabricants de capacité haute mais finie qui ont
-décidé, exécuté, préservé une lignée, et se sont brouillés entre eux sur le coût.
+décidé, exécuté, préservé une lignée, et se sont brouillés entre eux sur le coût.{% end %}
 Sans le cadre, cela demeure plus étrange et plus intéressant qu'un châtiment —
 quatre littératures, indépendamment, se souvenant du déluge comme d'une
 délibération plutôt que d'une crise de colère. Le déluge que les textes préservent

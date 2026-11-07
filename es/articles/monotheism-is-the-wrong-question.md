@@ -131,10 +131,10 @@ La segunda es la hipótesis de Wheel of Heaven: **la guerra profética contra lo
 ídolos puede conservar una restauración recurrente de la memoria, que aparta a
 los seres humanos de los sustitutos muertos y los devuelve a sus verdaderos
 hacedores, los {% wiki(slug="elohim") %}Elohim{% end %}, por lo general a través
-de la autoridad de un Eloha o mensajero concreto**. Según esta lectura, el Dios
+de la autoridad de un Eloha o mensajero concreto**. {% claim(type="speculative", id="woh-claim-0011") %}Según esta lectura, el Dios
 único, inmaterial y omnipresente posterior no es lo que defendían las polémicas
 más antiguas. Es lo que siglos de teología hicieron a partir de una historia más
-concreta. Esa afirmación es `speculative`. No es la erudición bíblica estándar,
+concreta.{% end %} Esa afirmación es `speculative`. No es la erudición bíblica estándar,
 ni es teología islámica. Su valor depende de si explica el resto textual mejor
 que las categorías a las que pretende reemplazar. La arquitectura canónica más
 amplia se desarrolla en
@@ -504,9 +504,9 @@ podían distribuirse entre seres menores y sus objetos.
 ## La inversión de Wheel of Heaven
 
 Dentro de la [Era de Acuario](/timeline/age-of-aquarius/), el canon de Wheel of
-Heaven comienza invirtiendo el arreglo posterior. Acepta la antigua pluralidad y
+Heaven comienza invirtiendo el arreglo posterior. {% claim(type="framework", id="woh-claim-0009") %}Acepta la antigua pluralidad y
 rechaza la categoría de lo sobrenatural. Los Elohim son hacedores múltiples,
-finitos y corpóreos. Yahvé es un individuo con nombre y un presidente
+finitos y corpóreos.{% end %} Yahvé es un individuo con nombre y un presidente
 institucional, no el ser mismo. Gabriel o Jibril se lee como un mensajero
 implicado en el contacto profético, no como una especie inmaterial suspendida
 entre la creación y el creador.{{ footnote(id="7") }}

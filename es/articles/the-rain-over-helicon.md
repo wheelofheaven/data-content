@@ -370,9 +370,9 @@ testimonios. La afirmación 0004 desarrolla un contenido posible para ese
 enunciado: la sucesión del cielo, las guerras divinas, la asamblea, las uniones
 entre dioses y humanos y la transferencia castigada de conocimiento se leen
 como memoria transformada del
-{% wiki(slug="theomachy") %}conflicto Consejo-Serpentino{% end %}. La afirmación
+{% wiki(slug="theomachy") %}conflicto Consejo-Serpentino{% end %}. {% claim(type="framework", id="woh-claim-0007") %}La afirmación
 0007 sitúa a Grecia dentro de la esfera de actividad más amplia cuyo centro de
-gravedad el canon localiza en el Próximo Oriente.
+gravedad el canon localiza en el Próximo Oriente.{% end %}
 
 West cambia las condiciones bajo las cuales puede hacerse esa lectura. Un
 paralelo griego no puede tratarse como un segundo testigo independiente cuando
@@ -400,11 +400,11 @@ La distinción produce tres restricciones:
   relatos se desplazaron a través de personas; el marco no formula ninguna
   afirmación rival sobre su viaje.
 
-En la lectura de Wheel of Heaven, el candidato más fuerte a memoria retenida es
+{% claim(type="speculative", id="woh-claim-0004") %}En la lectura de Wheel of Heaven, el candidato más fuerte a memoria retenida es
 la arquitectura, no el disfraz: una asamblea de gobierno dividida por la
 política a seguir, el conflicto entre facciones divinas, una sucesión de
 órdenes gobernantes, la intervención en el desarrollo humano y el castigo por
-la revelación no autorizada. Incluso ahí, la transmisión literaria y la
+la revelación no autorizada.{% end %} Incluso ahí, la transmisión literaria y la
 proyección social siguen siendo alternativas suficientes. El marco no ha
 producido todavía una particularidad textual que ellas no puedan explicar.
 
@@ -456,9 +456,9 @@ El argumento a favor de la influencia próximo-oriental sobrevive porque es
 mayor que sus paralelos más famosos y más cuidadoso que su eslogan. Hesíodo y
 Kumarbi proporcionan un caso de dependencia articulada. Las tradiciones de
 combate muestran una familia móvil cuyas diferencias siguen siendo legibles. El
-procedimiento poético y la dicción revelan contacto dentro del oficio. La
+procedimiento poético y la dicción revelan contacto dentro del oficio. {% claim(type="direct", id="woh-claim-0005") %}La
 *Odisea* y *Gilgamesh* revelan una fuerte relación narrativa sin fundir a sus
-héroes. La arqueología y la historia social suministran varios corredores,
+héroes.{% end %} La arqueología y la historia social suministran varios corredores,
 mientras nos niegan el itinerario de cada relato.
 
 El resultado no es ni un milagro autónomo llamado Grecia ni un copista pasivo

@@ -88,10 +88,10 @@ diciendo que un hombrecillo barbudo con un traje verde de una pieza había salid
 de una nave posada, se había dirigido a él por su nombre y le había pedido que
 regresara a la mañana siguiente —con una Biblia—. Durante seis días seguidos,
 según su relato, el visitante recorrió esa Biblia con él, versículo a versículo,
-corrigiendo los errores de traducción de treinta siglos. El libro que Claude
+corrigiendo los errores de traducción de treinta siglos. {% claim(type="direct", id="woh-claim-0020") %}El libro que Claude
 Vorilhon publicó a partir de sus notas al año siguiente, [*El Libro que dice la
 Verdad*](/library/the-book-which-tells-the-truth/), se convirtió en la escritura
-fundacional del movimiento que este proyecto toma como su canon; el hombre mismo
+fundacional del movimiento que este proyecto toma como su canon;{% end %} el hombre mismo
 se convirtió en {% wiki(slug="rael") %}Raël{% end %}; y la pregunta que este
 Explicativo aborda es la que ha derrotado calladamente a toda institución que ha
 intentado responderla: *¿qué clase de cosa es la religión que resultó?*
@@ -259,9 +259,9 @@ religión budista, la islámica, los mormones —haría falta páginas para cita
 las religiones y sectas que testimonian de forma más o menos oscura nuestra obra—.
 {% end %}
 
-El budismo, el islam y los Santos de los Últimos Días, nombrados en un libro de
+{% claim(type="direct", id="woh-claim-0027") %}El budismo, el islam y los Santos de los Últimos Días, nombrados en un libro de
 bolsillo francés de 1974 como testigos paralelos de los mismos acontecimientos que
-la Biblia registra: el programa de religión comparada está en el documento
+la Biblia registra{% end %}: el programa de religión comparada está en el documento
 fundacional, con seis días de edad. La misión del movimiento sigue en el capítulo
 siguiente —difundir el mensaje, preparar una {% wiki(slug="embassy") %}embajada{% end %}
 para el {% wiki(slug="great-return") %}regreso{% end %} de los creadores— junto

@@ -306,7 +306,7 @@ El principal material del Árbol de la Vida de la Biblia Hebrea aparece en la na
 
 > *«Y Yahvé Elohim hizo brotar de la tierra todo árbol agradable a la vista y bueno para comer; también el árbol de la vida (ʿēṣ ha-ḥayyîm) en medio del jardín, y el árbol del conocimiento del bien y del mal.»*
 
-El marco lee este pasaje como el registro operativo de la infraestructura específica de la instalación del Edén, siendo el Árbol de la Vida y el Árbol del Conocimiento del Bien y del Mal los dos principales recursos tecnológicos de acceso restringido de la instalación.
+{% claim(type="framework", id="woh-claim-0018") %}El marco lee este pasaje como el registro operativo de la infraestructura específica de la instalación del Edén, siendo el Árbol de la Vida y el Árbol del Conocimiento del Bien y del Mal los dos principales recursos tecnológicos de acceso restringido de la instalación.{% end %}
 
 **Génesis 3:22–24** registra la prohibición de acceso posterior a la revelación:
 

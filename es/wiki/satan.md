@@ -577,7 +577,7 @@ El papel institucional específico de Satán de prueba de profetas conecta susta
 
 ### Satán vs. Lucifer
 
-Lucifer es el líder de la facción de creadores exiliados con base en la Tierra; Satán es el líder de la oposición del Consejo del mundo natal. Las dos figuras ocupan ubicaciones distintas (Tierra vs. mundo natal), posiciones políticas distintas (disidente con base en la Tierra vs. oposición institucional del Consejo), y papeles narrativos distintos (agente de divulgación del Edén vs. defensor de la oposición de principios). Las dos figuras son oponentes políticos dentro de la estructura política más amplia de los Elohim en lugar de personificaciones bien-cósmico-vs-mal-cósmico.
+{% claim(type="framework", id="woh-claim-0013") %}Lucifer es el líder de la facción de creadores exiliados con base en la Tierra; Satán es el líder de la oposición del Consejo del mundo natal. Las dos figuras ocupan ubicaciones distintas (Tierra vs. mundo natal), posiciones políticas distintas (disidente con base en la Tierra vs. oposición institucional del Consejo), y papeles narrativos distintos (agente de divulgación del Edén vs. defensor de la oposición de principios).{% end %} Las dos figuras son oponentes políticos dentro de la estructura política más amplia de los Elohim en lugar de personificaciones bien-cósmico-vs-mal-cósmico.
 
 La relación es de **figuras distintas con posiciones políticas opuestas**: Lucifer aboga por la plena divulgación a la humanidad; Satán se opone enteramente a la creación humana. La fusión cristiano-tradicional dominante de las dos figuras en una única personificación del mal cósmico representa el resultado de aproximadamente dos mil años de desarrollo teológico-cultural que ha oscurecido las identidades distintas originales.
 

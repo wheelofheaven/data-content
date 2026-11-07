@@ -639,8 +639,8 @@ en su planeta habían tenido razón. Dragones, o lo que vosotros habéis llamado
 Dinosaurios o Brontosaurios, y demás.
 {% end %}
 
-—mientras que el lenguaje *figurado* de serpientes y dragones de la Biblia
-se adhiere, en la lectura del canon, a la facción Lucifer exiliada. Las
+—mientras que {% claim(type="framework", id="woh-claim-0022") %}el lenguaje *figurado* de serpientes y dragones de la Biblia
+se adhiere, en la lectura del canon, a la facción Lucifer exiliada.{% end %} Las
 entradas del corpus sobre {% wiki(slug="dragons") %}dragones{% end %} y
 {% wiki(slug="serpent") %}serpiente{% end %} clasifican el saber serpentino
 del mundo en dos grupos —serpientes-caos (Tiamat, Apofis,
@@ -741,10 +741,10 @@ antes que como `direct`, y por eso este artículo lleva la etiqueta
 `inferred`. Las dos epistemologías se encuentran en el extraño terreno
 intermedio donde la arqueología textual de un arcediano en activo y el
 interrogatorio de un contactado convergen en el mismo recinto, los mismos
-científicos disidentes, los mismos votos del consejo. La convergencia no
+científicos disidentes, los mismos votos del consejo. {% claim(type="inferred", id="woh-claim-0042") %}La convergencia no
 prueba ninguno de los dos marcos. Lo que sí establece es que el *texto*
 —leído con el plural restaurado— sigue generando esta historia, en
-quienquiera que haga la restauración.
+quienquiera que haga la restauración.{% end %}
 
 ## Qué vale el parentesco
 

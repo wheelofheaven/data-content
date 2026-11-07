@@ -208,7 +208,7 @@ The framework reads the contemporary scientific development of pantropy as a rea
 - **CRISPR-Cas9 and broader gene editing** — the targeted modification of specific genome locations, recapitulating the targeted-modification capabilities required for adaptive engineering
 - **Pantropy** — the integrated application of the above capabilities to specific environmental-adaptation problems, recapitulating the Elohim's Earth project
 
-The framework's adopted position is that the contemporary recovery is at a substantially earlier stage than the Elohim's full capabilities — the Elohim had 25,000-year-advanced technology relative to the contemporary terrestrial baseline — but that the trajectory of recovery is consistent with the broader corpus reading of the **Age of Apocalypse** (the Raëlian designation for the post-1945 period, treated in the dedicated [Age of Apocalypse](../age-of-apocalypse/) entry) as the period in which humanity recovers the foundational technologies that enable the eventual reception of the Elohim's return.
+The framework's adopted position is that the contemporary recovery is at a substantially earlier stage than the Elohim's full capabilities — the Elohim had 25,000-year-advanced technology relative to the contemporary terrestrial baseline — but that {% claim(type="inferred", id="woh-claim-0065") %}the trajectory of recovery is consistent with the broader corpus reading of the **Age of Apocalypse** (the Raëlian designation for the post-1945 period, treated in the dedicated [Age of Apocalypse](../age-of-apocalypse/) entry) as the period in which humanity recovers the foundational technologies that enable the eventual reception of the Elohim's return.{% end %}
 
 ### Pantropy and the ethical question
 

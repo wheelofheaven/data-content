@@ -539,14 +539,14 @@ sobre su escritorio, o al menos en su lista de lecturas, junto a Kramer y
 Sitchin—. No demuestra que los leyera de cerca, y manifiestamente no lo
 convierte en raeliano: todo su método público es una negativa a decir
 quiénes eran los Elohim, que es la única pregunta que el canon raeliano
-responde en su primer capítulo. Donde la convergencia de Wallis con el
+responde en su primer capítulo. {% claim(type="inferred", id="woh-claim-0042") %}Donde la convergencia de Wallis con el
 canon portaba el valor probatorio de la independencia total —dos lectores,
 sin contacto, misma lectura—, la convergencia de Biglino porta un valor
 distinto y, en cierto modo, más interesante: he aquí un traductor
 profesional que demostrablemente tuvo acceso a la supuesta clave de
 respuestas, declinó adoptarla, reconstruyó las preguntas solo desde el
 hebreo y llegó a un cuadro que los lectores del canon reconocerán línea
-por línea. Las convergencias que siguen deben sopesarse con esa entrada
+por línea.{% end %} Las convergencias que siguen deben sopesarse con esa entrada
 sobre la mesa. La ponemos ahí nosotros mismos, porque la disciplina que
 este proyecto practica —fuentes declaradas, influencia distinguida de
 convergencia— es la misma disciplina que el agnosticismo de manos vacías

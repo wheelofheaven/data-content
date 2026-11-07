@@ -149,9 +149,9 @@ este artículo, porque el rastro atraviesa el texto más extraño de la mística
 judía, una disputa erudita a tres bandas sobre su antigüedad, un milenio de
 bochorno teológico por su contenido y —al final del todo— un barato libro de
 bolsillo francés con un revelador error de traducción. Vale la pena declarar el
-destino por adelantado: **el pasaje que Yahvé cita existe.** Se llama el
+destino por adelantado: {% claim(type="inferred", id="woh-claim-0021") %}**el pasaje que Yahvé cita existe.** Se llama el
 *Shi'ur Qomah* (hebreo שִׁעוּר קוֹמָה, *šiʿur qômāh*, «la Medida de la
-Estatura»), y el proyecto de Wheel of Heaven lo ha traducido íntegro:
+Estatura»){% end %}, y el proyecto de Wheel of Heaven lo ha traducido íntegro:
 [*Shi'ur Qomah* — Traducción de Wheel of Heaven](/library/shiur-qomah-woh/).
 Lo que los números *significan* es exactamente el punto en que la corriente
 dominante y el canon se separan, y este artículo marcará esa línea cuando llegue

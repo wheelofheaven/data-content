@@ -151,9 +151,9 @@ sus propias preguntas —y, da a entender el pasaje, sus propios científicos
 preguntándose si están solos—. La humanidad es una *«enfermedad»* no en el
 sentido de algo defectuoso, sino en el sentido de algo *pequeño y vivo sobre la
 superficie de algo vasto*: una película microbiana sobre un cuerpo demasiado
-grande para advertirla. Y la estructura no termina. Hacia arriba, más allá del
+grande para advertirla. {% claim(type="framework", id="woh-claim-0023") %}Y la estructura no termina. Hacia arriba, más allá del
 ser gigantesco, hay seres aún mayores; hacia abajo, más allá de nuestros átomos,
-hay mundos aún menores. *«En los dos sentidos, es infinito.»*
+hay mundos aún menores.{% end %} *«En los dos sentidos, es infinito.»*
 
 La segunda entrega llega dos años después, y su escenario es aún más
 significativo. En el segundo mensaje, Yahvé se lleva a Raël de la Tierra a una

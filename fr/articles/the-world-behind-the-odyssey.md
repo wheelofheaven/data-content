@@ -644,9 +644,9 @@ avancée — les Élohim, dont le
 conflit interne de factions, et la longue digestion culturelle de l'un et de
 l'autre par les humains qui en furent témoins. Le corpus développe cette lecture
 systématiquement dans l'entrée {% wiki(slug="theomachy") %}Théomachie{% end %} :
-la guerre entre une génération plus ancienne et déplacée de figures divines et un
+{% claim(type="framework", id="woh-claim-0008") %}la guerre entre une génération plus ancienne et déplacée de figures divines et un
 panthéon plus jeune et établi, conservée de la Grèce à la Mésoamérique, est lue
-comme la mémoire commune du conflit Conseil-Serpentine — la lutte politico-militaire
+comme la mémoire commune du conflit Conseil-Serpentine{% end %} — la lutte politico-militaire
 qui court de la révélation d'Éden, à travers le
 {% wiki(slug="great-flood") %}Grand Déluge{% end %}, jusqu'au pardon négocié, en
 passant par l'[Ère du Cancer](/timeline/age-of-cancer/), l'[Ère des
@@ -658,11 +658,11 @@ l'ordre où les preuves ont été présentées : les dieux homériques se compor
 comme une classe dirigeante parce que, selon cette lecture, la tradition s'en
 souvient : conseils et portefeuilles, factions et favoris, présidence et
 dissidence — la texture institutionnelle que l'inventaire ethnographique ne
-cessait de trouver est la texture du Conseil lui-même. Le mythe de succession —
+cessait de trouver est la texture du Conseil lui-même. {% claim(type="speculative", id="woh-claim-0004") %}Le mythe de succession —
 le pouvoir passant avec violence entre les générations de la classe divine, les
 aînés relégués en bas — fait écho au récit du corpus d'un conflit politique entre
 générations chez les créateurs, la faction vaincue étant contrainte à la
-clandestinité ; les aînés emprisonnés de la Titanomachie et le
+clandestinité{% end %} ; les aînés emprisonnés de la Titanomachie et le
 {% wiki(slug="dragons") %}dragon des mers{% end %} des prophètes hébreux sont lus
 comme deux mémoires culturelles du même parti marginalisé. L'armature du dieu de
 l'orage contre le serpent, mise en tableau à travers huit traditions dans le jeu

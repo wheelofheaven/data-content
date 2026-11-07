@@ -222,7 +222,7 @@ The second relevant passage develops the Sinai theophany:
 >
 > — Vorilhon, *Le Livre qui dit la vérité* (1974)
 
-The two passages establish the framework's foundational reading: the Mosaic period is a sustained operational re-engagement with the Hebrew population after the previous destruction of centres of progress (Sodom and Gomorrah, treated more fully in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry), with the burning bush and Sinai theophany as the two principal operational contact events and the Mosaic legal content as operational instructions delivered to the relatively primitive contemporary Hebrew population.
+The two passages establish the framework's foundational reading: the Mosaic period is a sustained operational re-engagement with the Hebrew population after the previous destruction of centres of progress (Sodom and Gomorrah, treated more fully in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry), {% claim(type="framework", id="woh-claim-0038") %}with the burning bush and Sinai theophany as the two principal operational contact events and the Mosaic legal content as operational instructions delivered to the relatively primitive contemporary Hebrew population{% end %}.
 
 ### The burning bush as inaugural contact event
 

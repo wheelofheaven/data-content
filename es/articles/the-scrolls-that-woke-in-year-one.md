@@ -117,8 +117,8 @@ observando desde tu nacimiento —e incluso antes—. Por eso te hemos
 elegido.
 {% end %}
 
-Pon los dos relojes uno junto al otro y la coincidencia se declara sola:
-la biblioteca más antigua de la Biblia hebrea despertó en el año uno.
+{% claim(type="speculative", id="woh-claim-0026") %}Pon los dos relojes uno junto al otro y la coincidencia se declara sola:
+la biblioteca más antigua de la Biblia hebrea despertó en el año uno.{% end %}
 Este artículo trata de esa coincidencia —qué salió exactamente a la luz,
 por qué manos pasó, por qué tardó cuarenta años y un escándalo en llegar
 al público, y qué le hizo a nuestra imagen de la Escritura—. La

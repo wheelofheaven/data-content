@@ -130,9 +130,9 @@ liste complète autoriserait une secte : les traditions sauvées
 l'un ni l'autre. Il affirme que la classe des traditions de contact
 authentiques est réelle, plurielle et *bornée* — une quarantaine de
 chaises, pas davantage — puis laisse le plan de table presque
-entièrement vide. Ce vide est un devoir à faire. Quelqu'un doit établir,
+entièrement vide. {% claim(type="inferred", id="woh-claim-0054") %}Ce vide est un devoir à faire. Quelqu'un doit établir,
 tradition par tradition, avec des raisons énoncées publiquement, qui
-était plausiblement assis à cette table. Et le canon relève l'enjeu de
+était plausiblement assis à cette table.{% end %} Et le canon relève l'enjeu de
 ce devoir de sa propre voix, car il avait déjà averti, deux ans plus
 tôt, que l'époque serait encombrée de prétendants :
 

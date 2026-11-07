@@ -89,10 +89,10 @@ verte d'une seule pièce était sorti d'un appareil posé au sol, l'avait
 appelé par son nom et lui avait demandé de revenir le lendemain matin —
 avec une Bible. Six jours durant, selon son récit, le visiteur parcourut
 cette Bible avec lui, verset par verset, corrigeant les erreurs de
-traduction de trente siècles. Le livre que Claude Vorilhon publia d'après
+traduction de trente siècles. {% claim(type="direct", id="woh-claim-0020") %}Le livre que Claude Vorilhon publia d'après
 ses notes l'année suivante, [*Le Livre qui dit la
 vérité*](/library/the-book-which-tells-the-truth/), devint l'écriture
-fondatrice du mouvement que ce projet prend pour canon ; l'homme lui-même
+fondatrice du mouvement que ce projet prend pour canon ;{% end %} l'homme lui-même
 devint {% wiki(slug="rael") %}Raël{% end %} ; et la question que cet
 Explicatif reprend est celle qui a discrètement mis en échec toute
 institution ayant tenté d'y répondre : *quel genre de chose est la
@@ -278,9 +278,9 @@ des pages pour citer toutes les religions et sectes qui témoignent de manière
 plus ou moins obscure de notre œuvre.
 {% end %}
 
-Le bouddhisme, l'islam et les saints des derniers jours, nommés dans un livre
+{% claim(type="direct", id="woh-claim-0027") %}Le bouddhisme, l'islam et les saints des derniers jours, nommés dans un livre
 de poche français de 1974 comme des témoins parallèles des mêmes événements
-que consigne la Bible : le programme de religion comparée est dans le document
+que consigne la Bible{% end %} : le programme de religion comparée est dans le document
 fondateur, à six jours d'âge. La charge du mouvement suit au chapitre suivant
 — répandre le message, préparer une {% wiki(slug="embassy") %}ambassade{% end %}
 pour le {% wiki(slug="great-return") %}retour{% end %} des créateurs — ainsi

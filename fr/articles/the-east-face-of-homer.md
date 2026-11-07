@@ -179,9 +179,9 @@ que la moindre littérature grecque ne fût mise par écrit. L'archéologie a
 établi cette antériorité, strate par strate, et personne ne la conteste.
 
 L'emprunt littéraire, lui, prouve quelque chose de plus restreint et de plus
-précis : un contact, et un prestige. Les Grecs archaïques absorbèrent une
+précis : un contact, et un prestige. {% claim(type="direct", id="woh-claim-0005") %}Les Grecs archaïques absorbèrent une
 matière venue de cultures qu'ils reconnaissaient comme plus anciennes, plus
-riches et plus savantes que la leur. L'emprunt montre la direction de la
+riches et plus savantes que la leur.{% end %} L'emprunt montre la direction de la
 gravité culturelle au huitième siècle ; il ne montre pas à lui seul où la
 civilisation commença, pas plus que l'absorption de la science arabe par
 l'Europe médiévale ne fait de Bagdad l'origine de l'Europe. Glisser de « les
@@ -251,9 +251,9 @@ transfert de technologie doté d'un chef de délégation et d'un grief.
 Plaçons maintenant les deux ancrages sur une frise chronologique, car la
 chronologie fait ici un travail réel. La domination perse sur la Judée commence
 en 539 avant notre ère ; les royaumes grecs prennent le relais après Alexandre,
-au quatrième siècle. Les poèmes homériques et hésiodiques cristallisèrent au
+au quatrième siècle. {% claim(type="framework", id="woh-claim-0006") %}Les poèmes homériques et hésiodiques cristallisèrent au
 huitième et au septième siècle — soit environ deux cents ans avant que le
-premier émissaire de ce récit ait pu poser le pied chez les Grecs. La
+premier émissaire de ce récit ait pu poser le pied chez les Grecs.{% end %} La
 conclusion est de celles auxquelles le corpus se lie : **les émissaires
 n'expliquent rien chez Homère.** Quels qu'aient été les précepteurs de la Grèce
 à l'époque classique, l'*Odyssée* et la *Théogonie* étaient déjà anciennes
@@ -270,10 +270,10 @@ l'un et l'autre : une continuité. La Grèce apparaît dans le canon à la strat
 profonde — une région de bases dont la mythologie conserve des témoignages — et
 reparaît à la strate classique, recevant des émissaires à l'époque des empires.
 Un engagement à deux moments, séparés par des siècles, de nature différente
-chaque fois. Le corpus y lit le contour minimal d'un fait continu : **la Grèce
+chaque fois. {% claim(type="framework", id="woh-claim-0007") %}Le corpus y lit le contour minimal d'un fait continu : **la Grèce
 se tint tout du long à l'intérieur de la sphère élohimienne** — le même champ
 d'activité dont le corpus biblique consigne le centre de gravité au
-Proche-Orient, de Babel aux prophètes.
+Proche-Orient, de Babel aux prophètes.{% end %}
 
 Lus de la sorte, le tableau dominant et le tableau canonique viennent se
 superposer exactement. L'érudition trouve la Grèce culturellement enchâssée

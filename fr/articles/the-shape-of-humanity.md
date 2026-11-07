@@ -168,12 +168,12 @@ D'autres noms conviendraient, et chacun saisit quelque chose que les autres
 manquent. Le plus simple est **biologie civilisationnelle** — l'étiquette
 vers laquelle se tourne d'abord un lecteur nourri de *sociobiologie* et
 d'*astrobiologie*. Un autre est **macrobiologie**, et sa symétrie est assez
-exacte pour qu'on s'y arrête : la microbiologie étudie la cellule et les
+exacte pour qu'on s'y arrête : {% claim(type="speculative", id="woh-claim-0025") %}la microbiologie étudie la cellule et les
 unités de son échelle, si bien qu'une macrobiologie étudierait les systèmes
 *composés d'*unités biologiques comme une cellule est composée d'unités
 microbiologiques — l'humanité étant à l'humain ce que l'humain est à la
 cellule, un barreau de plus sur l'échelle même que l'Explicatif précédent
-gravit de bas en haut sans fin. Le mot le plus ancien et le plus précis reste
+gravit de bas en haut sans fin.{% end %} Le mot le plus ancien et le plus précis reste
 toutefois **morphologie**, l'étude de la *forme*, et c'est celui qu'il faut
 garder au premier plan. Une morphologie ne prétend que lire la forme du tout ;
 une *biologie* affirme que le tout est lui-même vivant. La seconde est

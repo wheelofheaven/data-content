@@ -731,10 +731,10 @@ luego señala toda la zona, en una frase que revela su talla como
 analista: *"'Iahvé' est le point faible de ma thèse"* —Yahvé es el punto
 débil de mi tesis—, porque quedan demasiadas explicaciones igualmente
 convincentes. Pon las cuatro lecturas en fila —dragón, teniente,
-principio, presidente— y repara en lo que prueba el desacuerdo: cuatro
+principio, presidente— y repara en lo que prueba el desacuerdo: {% claim(type="inferred", id="woh-claim-0042") %}cuatro
 literalistas, trabajando los mismos versículos, coinciden por completo en
 que *elohim* es plural y concreto, y solo divergen sobre el organigrama
-por encima de él. El plural está en el texto; la presidencia, coincidiría
+por encima de él.{% end %} El plural está en el texto; la presidencia, coincidiría
 el canon, hizo falta un testimonio para conocerla.
 
 **El retorno.** Sendy no esperaba ninguno. *"Les cosmonautes, selon toute

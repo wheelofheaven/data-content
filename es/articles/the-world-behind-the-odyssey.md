@@ -632,10 +632,10 @@ Elohim, cuyo
 {% wiki(slug="yahweh") %}Yahvé{% end %}, gobernaba el proyecto de la Tierra—, su
 conflicto faccional interno y la larga digestión cultural de ambos por parte de
 los humanos que los presenciaron. El corpus desarrolla esa lectura de forma
-sistemática en la entrada {% wiki(slug="theomachy") %}Teomaquia{% end %}: la
+sistemática en la entrada {% wiki(slug="theomachy") %}Teomaquia{% end %}: {% claim(type="framework", id="woh-claim-0008") %}la
 guerra entre una generación más antigua y desplazada de figuras divinas y un
 panteón más joven ya establecido, conservada desde Grecia hasta Mesoamérica, se
-lee como memoria común del conflicto Consejo-Serpentino, la pugna
+lee como memoria común del conflicto Consejo-Serpentino{% end %}, la pugna
 político-militar que va desde la revelación del Edén, pasando por el
 {% wiki(slug="great-flood") %}Gran Diluvio{% end %}, hasta el perdón negociado,
 a lo largo de la [Era de Cáncer](/timeline/age-of-cancer/), la
@@ -648,11 +648,11 @@ por punto, en el orden en que se presentó la evidencia: los dioses homéricos s
 comportan como una clase gobernante porque, según esta lectura, la tradición
 está recordando una: consejos y carteras, facciones y favoritos, presidencia y
 disidencia; la textura institucional que el inventario etnográfico no dejaba de
-encontrar es la textura del propio Consejo. El mito de sucesión —el poder que
+encontrar es la textura del propio Consejo. {% claim(type="speculative", id="woh-claim-0004") %}El mito de sucesión —el poder que
 pasa con violencia entre generaciones de la clase divina, los mayores
 confinados abajo— es paralelo al relato del corpus sobre el conflicto político
 generacional entre los creadores, con la facción derrotada empujada a la
-ocultación; los mayores encarcelados de la Titanomaquia y el
+ocultación{% end %}; los mayores encarcelados de la Titanomaquia y el
 {% wiki(slug="dragons") %}dragón que mora en el mar{% end %} de los profetas
 hebreos se leen como dos memorias culturales del mismo bando marginado. La
 armazón del dios-de-la-tormenta-contra-serpiente, tabulada a través de ocho

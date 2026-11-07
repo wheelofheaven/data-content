@@ -383,9 +383,9 @@ mention ajoutée que sa Mythologie contient aussi de grands témoignages.
 L'affirmation 0004 développe un contenu possible de cet énoncé : la succession
 du ciel, les guerres divines, l'assemblée, les unions divino-humaines et le
 transfert puni du savoir y sont lus comme la mémoire transformée du
-{% wiki(slug="theomachy") %}conflit Conseil-Serpentine{% end %}. L'affirmation
+{% wiki(slug="theomachy") %}conflit Conseil-Serpentine{% end %}. {% claim(type="framework", id="woh-claim-0007") %}L'affirmation
 0007 place la Grèce à l'intérieur de la sphère d'activité plus vaste dont le
-canon situe le centre de gravité au Proche-Orient.
+canon situe le centre de gravité au Proche-Orient.{% end %}
 
 West modifie les conditions dans lesquelles cette lecture peut se faire. Un
 parallèle grec ne peut être traité comme un second témoin indépendant lorsque
@@ -413,11 +413,11 @@ La distinction produit trois contraintes :
   récits se déplacèrent par des gens ; le cadre n'avance aucune prétention
   rivale sur leur voyage.
 
-Selon la lecture de Wheel of Heaven, le meilleur candidat à la mémoire
+{% claim(type="speculative", id="woh-claim-0004") %}Selon la lecture de Wheel of Heaven, le meilleur candidat à la mémoire
 conservée est l'architecture, non le costume : une assemblée gouvernante
 divisée par la politique à suivre, un conflit entre factions divines, une
 succession d'ordres régnants, une intervention dans le développement humain, et
-un châtiment pour divulgation non autorisée. Même là, la transmission
+un châtiment pour divulgation non autorisée.{% end %} Même là, la transmission
 littéraire et la projection sociale demeurent des alternatives suffisantes. Le
 cadre n'a pas encore produit de particularité textuelle qu'elles ne puissent
 expliquer.
@@ -472,8 +472,8 @@ que ses parallèles les plus célèbres et plus prudent que son slogan. Hésiode
 Kumarbi fournissent un cas de dépendance articulée. Les traditions de combat
 montrent une famille mobile dont les différences restent lisibles. Les procédés
 et la diction poétiques révèlent un contact à l'intérieur du métier.
-L'*Odyssée* et *Gilgamesh* laissent voir une relation narrative forte sans
-confondre leurs héros. L'archéologie et l'histoire sociale fournissent
+{% claim(type="direct", id="woh-claim-0005") %}L'*Odyssée* et *Gilgamesh* laissent voir une relation narrative forte sans
+confondre leurs héros.{% end %} L'archéologie et l'histoire sociale fournissent
 plusieurs corridors, tout en nous refusant l'itinéraire de chaque récit.
 
 Le résultat n'est ni un miracle autonome nommé Grèce, ni un copiste passif

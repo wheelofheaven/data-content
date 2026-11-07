@@ -82,7 +82,7 @@ $$
 2,160 = 2^4 \times 3^3 \times 5 = 30 \times 72 = 12 \times 180 = 6 \times 360 = 60 \times 36
 $$
 
-The corpus's broader work uses the traditional 25,920 / 2,160 figures as the primary reckoning while acknowledging the modern astronomical 25,771.5 / 2,147.6 figures as the contemporary empirical measurement. The choice between the two does not substantially affect the corpus's chronological framework — the difference of approximately 12 years per Great Month is well within the inherent uncertainty of the Age-boundary definitions.
+{% claim(type="framework", id="woh-claim-0003") %}The corpus's broader work uses the traditional 25,920 / 2,160 figures as the primary reckoning while acknowledging the modern astronomical 25,771.5 / 2,147.6 figures as the contemporary empirical measurement.{% end %} The choice between the two does not substantially affect the corpus's chronological framework — the difference of approximately 12 years per Great Month is well within the inherent uncertainty of the Age-boundary definitions.
 
 ### The Great Day
 

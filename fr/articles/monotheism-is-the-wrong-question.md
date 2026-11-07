@@ -133,10 +133,10 @@ La seconde est l'hypothèse de Wheel of Heaven : **la guerre prophétique contre
 les idoles préserve peut-être une restauration récurrente de la mémoire,
 détournant les êtres humains des substituts morts pour les ramener à leurs
 véritables fabricants, les {% wiki(slug="elohim") %}Élohim{% end %}, le plus
-souvent par l'autorité d'un Eloha ou d'un messager nommé**. Selon cette lecture,
+souvent par l'autorité d'un Eloha ou d'un messager nommé**. {% claim(type="speculative", id="woh-claim-0011") %}Selon cette lecture,
 le Dieu singulier, immatériel et omniprésent des époques ultérieures n'est pas
 ce que défendaient les plus anciennes polémiques. Il est ce que des siècles de
-théologie ont façonné à partir d'une histoire plus concrète. Cette affirmation
+théologie ont façonné à partir d'une histoire plus concrète.{% end %} Cette affirmation
 est `speculative`. Ce n'est ni l'exégèse biblique standard, ni la théologie
 islamique. Sa valeur dépend de sa capacité à expliquer le reste textuel mieux que
 les catégories qu'elle cherche à remplacer. L'architecture canonique plus vaste
@@ -512,9 +512,9 @@ et leurs objets.
 ## L'inversion de Wheel of Heaven
 
 Au sein de l'[Ère du Verseau](/timeline/age-of-aquarius/), le canon de Wheel of
-Heaven commence par renverser le règlement ultérieur. Il accepte la pluralité
+Heaven commence par renverser le règlement ultérieur. {% claim(type="framework", id="woh-claim-0009") %}Il accepte la pluralité
 antique et rejette la catégorie du surnaturel. Les Élohim sont des fabricants
-multiples, finis et incarnés. Yahvé est un individu nommé et un président
+multiples, finis et incarnés.{% end %} Yahvé est un individu nommé et un président
 institutionnel, non l'être lui-même. Gabriel ou Jibril est lu comme un messager
 engagé dans le contact prophétique, non comme une espèce immatérielle flottant entre
 la création et le créateur.{{ footnote(id="7") }}

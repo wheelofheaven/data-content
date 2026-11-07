@@ -159,12 +159,12 @@ Otros nombres servirían, y cada uno capta algo que los demás pasan por alto. E
 más llano es **biología civilizatoria** —la etiqueta a la que echa mano primero
 un lector criado en la *sociobiología* y la *astrobiología*—. Otro es
 **macrobiología**, y su simetría es lo bastante exacta como para detenerse en
-ella: la microbiología estudia la célula y las unidades de su escala, de modo
+ella: {% claim(type="speculative", id="woh-claim-0025") %}la microbiología estudia la célula y las unidades de su escala, de modo
 que una macrobiología estudiaría los sistemas *compuestos de* unidades
 biológicas del mismo modo que una célula se compone de unidades microbiológicas
 —la humanidad respecto del ser humano como el ser humano respecto de la célula,
 un peldaño más en la misma escalera que el Explicativo anterior subió y bajó
-sin fin—. La palabra más antigua y más precisa, sin embargo, es **morfología**,
+sin fin{% end %}—. La palabra más antigua y más precisa, sin embargo, es **morfología**,
 el estudio de la *forma*, y es la que conviene mantener al frente. Una
 morfología solo pretende leer la forma del todo; una *biología* afirma que el
 todo está él mismo vivo. La segunda es la afirmación más fuerte, y una

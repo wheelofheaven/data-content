@@ -37,7 +37,7 @@ body = "Un lecteur peut rejeter l'hypothèse historique et se servir malgré tou
 
 ## Une longue lecture
 
-Wheel of Heaven est une étude comparative indépendante des traditions de création du monde, écrite depuis une lecture explicitement raëlienne. Son hypothèse de travail est que les êtres que la Bible hébraïque appelle *Elohim* — un mot pluriel par la forme, mais généralement construit avec des verbes au singulier — étaient une petite civilisation humaine avancée venue d'ailleurs, qui est venue ici, a préparé la planète, conçu la vie sur Terre, et laissé un témoignage dans les textes religieux.
+Wheel of Heaven est une étude comparative indépendante des traditions de création du monde, écrite depuis une lecture explicitement raëlienne. {% claim(type="framework", id="woh-claim-0001") %}Son hypothèse de travail est que les êtres que la Bible hébraïque appelle *Elohim* — un mot pluriel par la forme, mais généralement construit avec des verbes au singulier — étaient une petite civilisation humaine avancée venue d'ailleurs, qui est venue ici, a préparé la planète, conçu la vie sur Terre, et laissé un témoignage dans les textes religieux.{% end %}
 
 La lecture parcourt douze âges du cycle précessionnel, depuis le commencement du projet il y a environ vingt-deux mille ans, à travers la longue séquence de conception et d'intervention consignée dans les traditions religieuses, jusqu'à l'âge présent de divulgation que le corpus soutient que nous habitons. Les [douze chapitres principaux](/fr/timeline/) du corpus parcourent cet arc en séquence.
 

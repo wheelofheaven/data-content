@@ -548,14 +548,14 @@ messages étaient sur son bureau, ou du moins sur sa liste de lectures,
 aux côtés de Kramer et de Sitchin. Elle ne prouve pas qu'il les ait lus de
 près, et elle ne fait manifestement pas de lui un raélien : toute sa
 méthode publique est un refus de dire qui étaient les Élohim, la seule
-question à laquelle le canon raélien répond dans son premier chapitre. Là
+question à laquelle le canon raélien répond dans son premier chapitre. {% claim(type="inferred", id="woh-claim-0042") %}Là
 où la convergence de Wallis avec le canon portait la valeur probante d'une
 indépendance totale — deux lecteurs, aucun contact, même lecture — la
 convergence de Biglino porte une valeur différente et, à un égard, plus
 intéressante : voici un traducteur professionnel qui avait démontrément
 accès au corrigé prétendu, refusa de l'adopter, reconstruisit les
 questions à partir du seul hébreu, et parvint à un tableau que les lecteurs
-du canon reconnaîtront ligne par ligne. Les convergences qui suivent
+du canon reconnaîtront ligne par ligne.{% end %} Les convergences qui suivent
 doivent être pesées avec cette entrée sur la table. Nous l'y avons posée
 nous-mêmes, parce que la discipline que ce projet pratique — sources
 déclarées, influence distinguée de la convergence — est la même discipline

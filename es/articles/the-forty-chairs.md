@@ -127,9 +127,9 @@ las tradiciones salvadas enumeradas, la puerta cerrada, nada que
 investigar. Este canon no hace ni lo uno ni lo otro. Afirma que la clase
 de las tradiciones de contacto auténticas es real, plural y *acotada*
 —unas cuarenta sillas, no más— y deja después el plano de la mesa casi
-enteramente en blanco. El blanco es un encargo. Alguien tiene que
+enteramente en blanco. {% claim(type="inferred", id="woh-claim-0054") %}El blanco es un encargo. Alguien tiene que
 averiguar, tradición por tradición, con razones expuestas en público,
-quién estuvo plausiblemente sentado a esa mesa. Y el canon eleva lo que
+quién estuvo plausiblemente sentado a esa mesa.{% end %} Y el canon eleva lo que
 está en juego en ese encargo con su propia voz, porque dos años antes ya
 había advertido de que la época estaría abarrotada de aspirantes:
 

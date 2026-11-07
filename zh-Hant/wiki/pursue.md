@@ -53,9 +53,9 @@ Information Act)提出申請;其二,它**橫跨全政府**——不僅取用軍�
 
 Wheel of Heaven 框架密切追蹤 PURSUE——文集為每一批解密都立有
 [快訊](/news/pursue-release-06-warp-drives-and-the-tremonton-film/)——但恪守
-一項自覺的紀律:登錄而不徵用。PURSUE 釋出的任何檔案都不是支持框架的證據,它
+一項自覺的紀律:登錄而不徵用。{% claim(type="inferred", id="woh-claim-0057") %}PURSUE 釋出的任何檔案都不是支持框架的證據,它
 所證偽的任何案例也不是反對框架的證據。框架對接觸的記述,立足於源典自身的
-[報告](../rael/),而非任何天空中的任何飛行器。
+[報告](../rael/),而非任何天空中的任何飛行器。{% end %}
 
 ## 名稱與職權
 

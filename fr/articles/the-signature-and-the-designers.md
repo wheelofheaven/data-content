@@ -386,11 +386,11 @@ surgir du fond des mers fut brisé par les explosions, ses fragments partirent
 « à la dérive vers l'extérieur depuis le centre du choc », et toute la surface
 des terres fut balayée : « toute la matière vivante, forêts immenses, animaux
 et même l'Homme » fut ensevelie « immédiatement et toute ensemble », en un
-anneau autour du point d'impact. Les continents d'aujourd'hui en sont les
+anneau autour du point d'impact. {% claim(type="framework", id="woh-claim-0071") %}Les continents d'aujourd'hui en sont les
 morceaux, encore en mouvement. Les gisements fossiles en sont l'ensevelissement,
 et le canon lit leur succession comme le relevé de ce qui mourut quand, dans
 les suites de l'explosion initiale, et non comme cent millions d'années de
-sédimentation tranquille. Sur cette seule question, le canon se range avec
+sédimentation tranquille.{% end %} Sur cette seule question, le canon se range avec
 Snelling et Wise contre le manuel : les strates sont la signature d'une
 catastrophe. Il se sépare d'eux sur tout ce qui entoure cet accord — l'âge de
 la planète, la date de l'événement, sa cause et l'identité de son auteur. Ce
@@ -716,9 +716,9 @@ concepteur, lui aussi, doit être expliqué. Mais « le concepteur, lui aussi, d
 suppose que la chaîne doit en avoir un. Dawkins et Meyer partagent cette
 supposition. C'est ce qu'ils ont de plus profondément commun, enfoui sous leur
 désaccord célèbre, et c'est la supposition que le canon, tout simplement, ne
-fait pas. Ôtez-la et la phrase même de Dawkins tient debout : la signature
+fait pas. {% claim(type="speculative", id="woh-claim-0036") %}Ôtez-la et la phrase même de Dawkins tient debout : la signature
 pourrait bien être là, une civilisation évoluée antérieure pourrait bien l'avoir
-laissée, et cette civilisation n'a besoin d'être ni Dieu ni le dernier mot.
+laissée, et cette civilisation n'a besoin d'être ni Dieu ni le dernier mot.{% end %}
 
 ## Ce que le canon et le mouvement partagent réellement
 
@@ -874,9 +874,9 @@ jamais atteindre ; ou bien il n'y a pas de main et son apparence est le résidu
 d'un processus aveugle, position qui doit alors évacuer le Non retentissant de
 Tour ; ou bien la main appartient à quelqu'un. Quelqu'un doté d'un corps.
 Quelqu'un qui a travaillé à une paillasse, comparé ses résultats avec un collègue
-et trouvé la ressemblance frappante. Quelqu'un qui a été fait, comme nous avons
+et trouvé la ressemblance frappante. {% claim(type="framework", id="woh-claim-0030") %}Quelqu'un qui a été fait, comme nous avons
 été faits, par quelqu'un d'antérieur, dans une lignée qui remonte au-delà de
-tout horizon visible et n'aboutit jamais à un premier faiseur ni à un dernier.
+tout horizon visible et n'aboutit jamais à un premier faiseur ni à un dernier.{% end %}
 
 Cette troisième réponse est celle que Dawkins a touchée puis lâchée, celle que
 Meyer a soulevée puis rejetée, et celle que le canon tient simplement, à

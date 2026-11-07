@@ -168,11 +168,11 @@ trompait de dix-neuf siècles, ou — la lecture que cet article existe pour
 entretenir — sa bibliothèque était adressée, comme tous ses prophètes, à
 une génération finale qu'elle ne pouvait connaître. Dans un cas comme dans
 l'autre, le fait matériel est assez étrange pour être énoncé sans détour.
-Une communauté obsédée par le descellement programmé des livres scella ses
+{% claim(type="speculative", id="woh-claim-0026") %}Une communauté obsédée par le descellement programmé des livres scella ses
 propres livres dans des jarres ; les jarres survécurent à la communauté, à
 son temple, à son empire et aux voyelles de sa langue ; et elles s'ouvrirent
 la première année d'une ère dont le texte fondateur cite, pour charte, le
-verset sur le livre scellé jusqu'au temps de la fin. Daniel encore, huit
+verset sur le livre scellé jusqu'au temps de la fin.{% end %} Daniel encore, huit
 versets plus loin, tel que le canon le cite : *« Va, Daniel, car ces paroles
 seront tenues secrètes et scellées jusqu'au temps de la fin »*
 ({% libref(book="the-book-which-tells-the-truth", chapter=3, verse=226) %}LLQDV 3:226{% end %}).

@@ -599,9 +599,9 @@ debe volver a usarse. Enoc conserva la razón que los demás pierden, y la da co
 descontaminación: *sana la tierra, que los Vigilantes han corrompido, para que su
 simiente perdure.*
 
-A través del marco, esto es lo que sobrevive de una operación real: un reinicio
+{% claim(type="framework", id="woh-claim-0010") %}A través del marco, esto es lo que sobrevive de una operación real: un reinicio
 gestionado por artífices de capacidad alta pero finita que decidieron, ejecutaron,
-preservaron una línea y se pelearon entre sí por el coste. Sin el marco, sigue siendo
+preservaron una línea y se pelearon entre sí por el coste.{% end %} Sin el marco, sigue siendo
 algo más extraño y más interesante que un castigo —cuatro literaturas, de forma
 independiente, recordando el diluvio como una deliberación antes que como una
 rabieta—. El diluvio que los textos realmente preservan nunca fue simple ira. Fue una

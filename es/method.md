@@ -15,7 +15,7 @@ cta_label = "Abrir la cronología"
 
 ## Una hipótesis, leída de cerca
 
-Wheel of Heaven es una única lectura sostenida de las tradiciones de creación del mundo antiguo, mantenida unida por una sola hipótesis de trabajo: que los seres que la Biblia hebrea llama [*Elohim*](/es/wiki/elohim/) — un sustantivo de forma plural que la traducción ha aplanado durante mucho tiempo en el singular «Dios» — eran una pequeña civilización humana tecnológicamente avanzada de otro lugar, que vino a la Tierra, la preparó, diseñó aquí la vida y dejó un testimonio del trabajo en los textos religiosos.
+Wheel of Heaven es una única lectura sostenida de las tradiciones de creación del mundo antiguo, mantenida unida por una sola hipótesis de trabajo: {% claim(type="framework", id="woh-claim-0001") %}que los seres que la Biblia hebrea llama [*Elohim*](/es/wiki/elohim/) — un sustantivo de forma plural que la traducción ha aplanado durante mucho tiempo en el singular «Dios» — eran una pequeña civilización humana tecnológicamente avanzada de otro lugar, que vino a la Tierra, la preparó, diseñó aquí la vida y dejó un testimonio del trabajo en los textos religiosos.{% end %}
 
 Esa oración es todo lo que el proyecto pide a un lector que considere. Todo lo demás — las doce edades, la mitología comparada, el detalle filológico, la cronología [precesional](/es/wiki/precession/) — es la elaboración de esa única hipótesis frente a la evidencia superviviente. El método es la disciplina que mantiene honesta esa elaboración: cómo se enmarca la lectura, de qué lee y cómo marca la diferencia entre lo que dice una fuente y lo que el proyecto infiere.
 

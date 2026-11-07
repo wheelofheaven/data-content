@@ -119,10 +119,10 @@ The framework takes the Genesis account as a compressed but accurate
 record of operational events at the [Eden](../eden/) installation, and
 reads its details concretely rather than allegorically.
 
-**The garden as laboratory, the tree as archive.** Eden, on the corpus's
+**The garden as laboratory, the tree as archive.** {% claim(type="framework", id="woh-claim-0018") %}Eden, on the corpus's
 reading, is the enclosed laboratory and habitation site of the Israel team of
 Elohim creators, where the first human lineage was synthesised, instructed, and
-observed. The tree of knowledge is the body of scientific knowledge that team
+observed.{% end %} The tree of knowledge is the body of scientific knowledge that team
 possessed — held, Vorilhon's account allows, in "books, data systems, direct
 neural records, some combination." The humans were given free use of the
 garden's general education; they were denied the scientific knowledge that would

@@ -193,7 +193,7 @@ Plusieurs autres passages de la Bible hébraïque concernent le matériau serpen
 
 **Proverbes 23:32, 30:19** emploient l'imagerie du serpent dans des contextes de littérature sapientiale.
 
-Le schéma à travers la Bible hébraïque est que *naḥash* nomme une gamme de figures serpentines : la figure spécifique d'Éden, le serpent d'airain guérisseur, Léviathan comme serpent-chaos, les divers serpents métaphoriques de la littérature sapientiale et poétique. Le Serpent de Genèse 3 est une figure spécifique au sein de ce vocabulaire serpentin plus large ; la lecture du corpus traite cette figure spécifiquement comme la faction Lucifer dans son rôle de divulgation.
+Le schéma à travers la Bible hébraïque est que *naḥash* nomme une gamme de figures serpentines : la figure spécifique d'Éden, le serpent d'airain guérisseur, Léviathan comme serpent-chaos, les divers serpents métaphoriques de la littérature sapientiale et poétique. {% claim(type="framework", id="woh-claim-0022") %}Le Serpent de Genèse 3 est une figure spécifique au sein de ce vocabulaire serpentin plus large ; la lecture du corpus traite cette figure spécifiquement comme la faction Lucifer dans son rôle de divulgation.{% end %}
 
 ### La tradition interprétative du Second Temple et rabbinique
 

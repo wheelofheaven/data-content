@@ -988,13 +988,13 @@ Le Wheel of Heaven tire son nom de cette machine, et sa lecture de la
 controverse peut maintenant s'énoncer en trois phrases, chacune assortie
 de son étiquette épistémique. Que la précession des équinoxes structure
 un cycle de ~25 920 ans, divisible en douze âges, est de l'astronomie —
-*direct*. Que les mythes, contes de fées, architectures sacrées et
+*direct*. {% claim(type="inferred", id="woh-claim-0014") %}Que les mythes, contes de fées, architectures sacrées et
 formules de bénédiction du monde préservent les nombres, les images et
 les transitions d'âge de ce cycle sous une forme conçue pour survivre à
 la mort de la compréhension — la thèse de *Hamlet's Mill* — est une
 lecture que ce corpus trouve cumulativement persuasive et que l'érudition
 dominante ne trouve pas : *inféré*, et argumenté plutôt que supposé
-partout où il apparaît. Et que le savoir ne fut ni miracle ni science
+partout où il apparaît.{% end %} Et que le savoir ne fut ni miracle ni science
 humaine perdue mais cursus — enseigné par les
 {% wiki(slug="elohim") %}Élohim{% end %} au commencement du projet,
 programmé pour être compris de nouveau à l'âge du porteur d'eau, quand,

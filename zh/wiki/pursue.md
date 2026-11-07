@@ -52,9 +52,9 @@ war.gov/UFO 以滚动节奏发布一批批文件、图像、视频与音频记�
 
 Wheel of Heaven 框架密切追踪 PURSUE——文集就每一批发布都归档一篇
 [快讯](/news/pursue-release-06-warp-drives-and-the-tremonton-film/)——但遵循
-一项自觉的纪律:登记而不征用。PURSUE 发布的任何档案都不是支持本框架的证据,
+一项自觉的纪律:登记而不征用。{% claim(type="inferred", id="woh-claim-0057") %}PURSUE 发布的任何档案都不是支持本框架的证据,
 它证伪的任何案例也不是反对本框架的证据。本框架对接触的叙述依据的是正典自身
-的[报告](../rael/),而非任何天空中的任何飞行器。
+的[报告](../rael/),而非任何天空中的任何飞行器。{% end %}
 
 ## 名称与授权
 

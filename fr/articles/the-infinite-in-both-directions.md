@@ -152,9 +152,9 @@ passage l'implique, leurs propres savants se demandant s'ils sont seuls.
 L'humanité est une *« maladie »* non au sens de quelque chose qui va mal mais au
 sens de quelque chose de *petit et de vivant à la surface de quelque chose
 d'immense* — une pellicule microbienne sur un corps trop grand pour la
-remarquer. Et la structure ne se termine pas. Au-dessus de l'être gigantesque se
+remarquer. {% claim(type="framework", id="woh-claim-0023") %}Et la structure ne se termine pas. Au-dessus de l'être gigantesque se
 trouvent des êtres plus grands encore ; en dessous de nos atomes, des mondes
-plus petits encore. *« Dans les deux sens, c'est infini. »*
+plus petits encore.{% end %} *« Dans les deux sens, c'est infini. »*
 
 Le second volet vient deux ans plus tard, et son décor est plus éloquent encore.
 Dans le second message, Yahvé emmène Raël hors de la Terre vers une **base située

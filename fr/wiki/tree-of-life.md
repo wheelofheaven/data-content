@@ -306,7 +306,7 @@ Le principal matériau de l'Arbre de Vie de la Bible hébraïque apparaît dans 
 
 > *« Et de la terre Yahvé Élohim fit pousser tout arbre agréable à voir et bon à manger ; l'arbre de vie (ʿēṣ ha-ḥayyîm) aussi au milieu du jardin, et l'arbre de la connaissance du bien et du mal. »*
 
-Le cadre lit ce passage comme le registre opérationnel de l'infrastructure spécifique de l'installation d'Éden, l'Arbre de Vie et l'Arbre de la Connaissance du Bien et du Mal étant les deux principales ressources technologiques à accès restreint de l'installation.
+{% claim(type="framework", id="woh-claim-0018") %}Le cadre lit ce passage comme le registre opérationnel de l'infrastructure spécifique de l'installation d'Éden, l'Arbre de Vie et l'Arbre de la Connaissance du Bien et du Mal étant les deux principales ressources technologiques à accès restreint de l'installation.{% end %}
 
 **Genèse 3:22–24** consigne l'interdiction d'accès post-divulgation :
 

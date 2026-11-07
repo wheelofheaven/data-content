@@ -475,9 +475,9 @@ de Mahoma, sin alteración. El corpus sitúa su trayectoria en la primera mitad 
 [Era de Piscis](/timeline/age-of-pisces/) — su período de amplia transmisión
 cultural del mensaje operativo a través de regiones civilizatorias. Una tradición de
 santuario reubicada y reformulada dentro de un solo siglo es consistente con esa
-imagen de tradiciones editadas en la transmisión. La hipótesis de Petra, leída a
+imagen de tradiciones editadas en la transmisión. {% claim(type="speculative", id="woh-claim-0024") %}La hipótesis de Petra, leída a
 través del marco, no revoca al Mahoma del corpus. Aporta una geografía para la
-Hanafiyya que el corpus ya había nombrado.
+Hanafiyya que el corpus ya había nombrado.{% end %}
 
 ## Aquello de lo que la Hanafiyya se apartó
 

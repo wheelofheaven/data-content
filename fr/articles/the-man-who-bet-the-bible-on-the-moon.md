@@ -706,9 +706,9 @@ puis signale toute la zone, dans une phrase qui montre sa qualité
 d'analyste : *« "Iahvé" est le point faible de ma thèse »*, parce que trop
 d'explications également convaincantes demeurent. Mettez les quatre
 lectures en rang — dragon, lieutenant, principe, président — et notez ce
-que le désaccord prouve : quatre littéralistes, travaillant les mêmes
+que le désaccord prouve : {% claim(type="inferred", id="woh-claim-0042") %}quatre littéralistes, travaillant les mêmes
 versets, s'accordent complètement pour dire qu'*elohim* est pluriel et
-concret, et ne divergent que sur l'organigramme au-dessus. Le pluriel est
+concret, et ne divergent que sur l'organigramme au-dessus.{% end %} Le pluriel est
 dans le texte ; la présidence, le canon en conviendrait, il a fallu un
 témoignage pour l'apprendre.
 

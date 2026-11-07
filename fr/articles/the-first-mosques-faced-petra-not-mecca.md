@@ -484,9 +484,9 @@ carrière au début-milieu de l'[Ère des Poissons](/timeline/age-of-pisces/) �
 période de large transmission culturelle du message opérationnel à travers les
 régions civilisationnelles. Une tradition de sanctuaire relocalisée et reformulée en
 un seul siècle est cohérente avec cette image de traditions éditées au cours de leur
-transmission. L'hypothèse de Pétra, lue à travers le cadre, ne renverse pas le
+transmission. {% claim(type="speculative", id="woh-claim-0024") %}L'hypothèse de Pétra, lue à travers le cadre, ne renverse pas le
 Mahomet du corpus. Elle fournit une géographie à la Hanafiyya que le corpus avait
-déjà nommée.
+déjà nommée.{% end %}
 
 ## Ce dont la Hanafiyya s'est détournée
 

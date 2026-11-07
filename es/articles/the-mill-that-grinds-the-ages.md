@@ -946,13 +946,13 @@ Wheel of Heaven toma su nombre de esta máquina, y su lectura de la
 controversia puede enunciarse ahora en tres frases, cada una con su
 etiqueta epistémica adjunta. Que la precesión de los equinoccios estructura
 un ciclo de ~25 920 años, divisible en doce eras, es astronomía —*directa*—.
-Que los mitos, los cuentos de hadas, las arquitecturas sagradas y las
+{% claim(type="inferred", id="woh-claim-0014") %}Que los mitos, los cuentos de hadas, las arquitecturas sagradas y las
 fórmulas de bendición del mundo preservan los números, las imágenes y las
 transiciones de eras de ese ciclo en una forma diseñada para sobrevivir a
 la muerte de la comprensión —la tesis de *Hamlet's Mill*— es una lectura
 que este corpus encuentra acumulativamente persuasiva y la erudición
 dominante no: *inferida*, y argumentada en vez de asumida dondequiera que
-aparece. Y que el conocimiento no fue ni milagro ni ciencia humana perdida
+aparece.{% end %} Y que el conocimiento no fue ni milagro ni ciencia humana perdida
 sino plan de estudios —enseñado por los
 {% wiki(slug="elohim") %}Elohim{% end %} al comienzo del proyecto,
 programado para ser entendido de nuevo en la era del aguador, cuando, en la

@@ -64,10 +64,10 @@ et il publie aussi ses résultats négatifs.
 Le cadre Wheel of Heaven suit PURSUE de près — le corpus consigne une
 [dépêche](/news/pursue-release-06-warp-drives-and-the-tremonton-film/) à
 chaque communiqué — mais sous une discipline délibérée : l'enregistrement
-sans enrôlement. Aucun fichier publié par PURSUE n'est une preuve en faveur
+sans enrôlement. {% claim(type="inferred", id="woh-claim-0057") %}Aucun fichier publié par PURSUE n'est une preuve en faveur
 du cadre, et aucun cas qu'il réfute n'est une preuve contre lui. Le récit du
 contact que propose le cadre repose sur les propres [rapports](../rael/) du
-canon, non sur un quelconque engin dans un quelconque ciel.
+canon, non sur un quelconque engin dans un quelconque ciel.{% end %}
 
 ## Le nom et le mandat
 

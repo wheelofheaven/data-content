@@ -193,7 +193,7 @@ Varios otros pasajes de la Biblia hebrea inciden en el material serpentino más 
 
 **Proverbios 23:32, 30:19** usan la imaginería de la serpiente en contextos de literatura sapiencial.
 
-El patrón a lo largo de la Biblia hebrea es que *naḥash* nombra una gama de figuras serpentinas: la figura específica del Edén, la serpiente sanadora de bronce, Leviatán como serpiente del caos, las diversas serpientes metafóricas de la literatura sapiencial y poética. La Serpiente de Génesis 3 es una figura específica dentro de este vocabulario serpentino más amplio; la lectura del corpus trata a esta figura específicamente como la facción de Lucifer en su papel de revelación.
+El patrón a lo largo de la Biblia hebrea es que *naḥash* nombra una gama de figuras serpentinas: la figura específica del Edén, la serpiente sanadora de bronce, Leviatán como serpiente del caos, las diversas serpientes metafóricas de la literatura sapiencial y poética. {% claim(type="framework", id="woh-claim-0022") %}La Serpiente de Génesis 3 es una figura específica dentro de este vocabulario serpentino más amplio; la lectura del corpus trata a esta figura específicamente como la facción de Lucifer en su papel de revelación.{% end %}
 
 ### La tradición interpretativa del Segundo Templo y rabínica
 

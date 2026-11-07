@@ -234,7 +234,7 @@ The source material describes the Elohim's biological-design work in operational
 
 Contemporary terrestrial synthetic genomics is the sub-discipline that operates at the same scale, at the lower bound. The JCVI minimal cells are whole organisms constructed from designed DNA; the Sc2.0 yeast is a whole eukaryotic organism whose genome has been systematically redesigned and synthesised; the broader synthetic-genomics programme is the discipline whose scale of operation most directly matches the scale at which the source material describes the Elohim's work.
 
-The framework reads this scale match as one of the structural features of the convergence between contemporary terrestrial capability and the source material's account. The convergence is not merely that humanity is doing some kind of biological engineering; the convergence is that humanity is doing biological engineering *at the scale* the source material attributes to the Elohim — beginning with single-cell organisms, with the trajectory pointing toward larger scales.
+The framework reads this scale match as one of the structural features of the convergence between contemporary terrestrial capability and the source material's account. {% claim(type="inferred", id="woh-claim-0065") %}The convergence is not merely that humanity is doing some kind of biological engineering; the convergence is that humanity is doing biological engineering *at the scale* the source material attributes to the Elohim — beginning with single-cell organisms, with the trajectory pointing toward larger scales.{% end %}
 
 ### The constructive epistemology at organism scale
 

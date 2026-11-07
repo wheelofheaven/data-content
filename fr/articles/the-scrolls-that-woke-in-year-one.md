@@ -117,9 +117,9 @@ atomique, qui eut lieu en 1945, et tu es né en 1946. Nous te surveillons
 depuis ta naissance — et même avant. C'est pourquoi nous t'avons choisi.
 {% end %}
 
-Placez les deux horloges côte à côte et la coïncidence se déclare
+{% claim(type="speculative", id="woh-claim-0026") %}Placez les deux horloges côte à côte et la coïncidence se déclare
 d'elle-même : la plus ancienne bibliothèque de la Bible hébraïque s'est
-éveillée en l'an un. Cet article porte sur cette coïncidence — ce qui a
+éveillée en l'an un.{% end %} Cet article porte sur cette coïncidence — ce qui a
 exactement refait surface, entre quelles mains cela est passé, pourquoi il
 fallut quarante ans et un scandale pour que cela atteigne le public, et ce
 que cela a fait à notre image de l'Écriture. La prétention que la

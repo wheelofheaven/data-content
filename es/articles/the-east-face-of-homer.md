@@ -176,8 +176,8 @@ más de dos mil años antes de que se pusiera por escrito literatura griega algu
 estrato, y nadie la discute.
 
 El préstamo literario, en cambio, demuestra algo más pequeño y más preciso:
-contacto y prestigio. Los griegos arcaicos absorbieron material de culturas a
-las que reconocían como más antiguas, más ricas y más doctas que la suya. El
+contacto y prestigio. {% claim(type="direct", id="woh-claim-0005") %}Los griegos arcaicos absorbieron material de culturas a
+las que reconocían como más antiguas, más ricas y más doctas que la suya.{% end %} El
 préstamo muestra la dirección de la gravedad cultural en el siglo VIII; no
 muestra por sí solo dónde empezó la civilización, como tampoco la absorción de
 la ciencia árabe por la Europa medieval convierte a Bagdad en el origen de
@@ -245,10 +245,10 @@ son transferencia de tecnología con un jefe de delegación y un agravio.
 
 Coloquemos ahora los dos anclajes en una línea temporal, porque la cronología
 hace un trabajo real. La dominación persa de Judea empieza en 539 a. C.; los
-reinos griegos toman el relevo después de Alejandro, en el siglo IV. Los
+reinos griegos toman el relevo después de Alejandro, en el siglo IV. {% claim(type="framework", id="woh-claim-0006") %}Los
 poemas homéricos y hesiódicos cristalizaron en los siglos VIII y VII, unos
 doscientos años antes de que el primer emisario de este relato pudiera haber
-puesto un pie entre los griegos. La conclusión es una a la que el corpus se
+puesto un pie entre los griegos.{% end %} La conclusión es una a la que el corpus se
 obliga: **los emisarios no explican nada de Homero.** Quienquiera que enseñara
 a Grecia en la era clásica, la *Odisea* y la *Teogonía* ya eran viejas cuando
 empezó la lección. La transmisión arcaica documentada —los poetas, los
@@ -264,10 +264,10 @@ ellos: una continuidad. Grecia aparece en el canon en la capa profunda —una
 región de bases cuya mitología conserva testimonios— y vuelve a aparecer en la
 capa clásica, recibiendo emisarios durante la era de los imperios.
 Intervención en dos momentos, separados por siglos, distinta en su naturaleza
-cada vez. El corpus lee esto como el contorno mínimo de un hecho continuo:
+cada vez. {% claim(type="framework", id="woh-claim-0007") %}El corpus lee esto como el contorno mínimo de un hecho continuo:
 **Grecia estuvo dentro de la esfera elohimiana todo el tiempo**, el mismo
 campo de actividad cuyo centro de gravedad el corpus bíblico sitúa en el
-Próximo Oriente, de Babel a los profetas.
+Próximo Oriente, de Babel a los profetas.{% end %}
 
 Leídas así, la imagen dominante y la imagen canónica se superponen con
 exactitud. La erudición encuentra a Grecia culturalmente incrustada en el
