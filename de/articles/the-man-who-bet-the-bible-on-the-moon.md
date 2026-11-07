@@ -724,9 +724,9 @@ Analytiker zeigt: *„‚Iahvé‘ est le point faible de ma thèse“* — Jahw
 schwache Punkt meiner These, weil zu viele gleichermaßen überzeugende
 Erklärungen bestehen bleiben. Man stelle die vier Lesarten in eine Reihe —
 Drache, Leutnant, Prinzip, Präsident — und beachte, was die
-Meinungsverschiedenheit beweist: vier Literalisten, die dieselben Verse
+Meinungsverschiedenheit beweist: {% claim(type="inferred", id="woh-claim-0042") %}vier Literalisten, die dieselben Verse
 bearbeiten, sind völlig einig, dass *elohim* plural und konkret ist, und
-divergieren nur im Organigramm darüber. Der Plural steht im Text; die
+divergieren nur im Organigramm darüber.{% end %} Der Plural steht im Text; die
 Präsidentschaft, dem würde der Kanon zustimmen, brauchte ein Zeugnis, um sie
 zu erfahren.
 

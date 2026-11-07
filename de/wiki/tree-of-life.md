@@ -306,7 +306,7 @@ Das zentrale Material der Hebräischen Bibel zum Baum des Lebens erscheint in de
 
 > *„Und Jahwe Elohim ließ aus dem Erdboden allerlei Bäume wachsen, lieblich anzusehen und gut zur Speise; auch den Baum des Lebens (ʿēṣ ha-ḥayyîm) mitten im Garten und den Baum der Erkenntnis von Gut und Böse.“*
 
-Der Rahmen liest diese Passage als das operative Protokoll der spezifischen Infrastruktur der Eden-Installation, wobei der Baum des Lebens und der Baum der Erkenntnis von Gut und Böse die beiden zentralen technologischen Ressourcen der Installation mit beschränktem Zugang sind.
+{% claim(type="framework", id="woh-claim-0018") %}Der Rahmen liest diese Passage als das operative Protokoll der spezifischen Infrastruktur der Eden-Installation, wobei der Baum des Lebens und der Baum der Erkenntnis von Gut und Böse die beiden zentralen technologischen Ressourcen der Installation mit beschränktem Zugang sind.{% end %}
 
 **Genesis 3,22–24** verzeichnet das Zugangsverbot nach der Enthüllung:
 

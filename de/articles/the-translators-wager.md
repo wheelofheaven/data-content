@@ -541,14 +541,14 @@ Schreibtisch lagen oder zumindest auf seiner Leseliste, neben Kramer und
 Sitchin. Er beweist nicht, dass er sie genau gelesen hat, und er macht ihn
 offenkundig nicht zum Raëlianer: Seine gesamte öffentliche Methode ist eine
 Weigerung zu sagen, wer die Elohim waren, was die eine Frage ist, die der
-raëlianische Kanon in seinem ersten Kapitel beantwortet. Wo Wallis'
+raëlianische Kanon in seinem ersten Kapitel beantwortet. {% claim(type="inferred", id="woh-claim-0042") %}Wo Wallis'
 Konvergenz mit dem Kanon den Beweiswert vollständiger Unabhängigkeit trug —
 zwei Leser, kein Kontakt, dieselbe Lesart —, trägt Biglinos Konvergenz einen
 anderen und in einer Hinsicht interessanteren Wert: Hier ist ein
 professioneller Übersetzer, der nachweislich Zugang zum behaupteten
 Lösungsschlüssel hatte, es ablehnte, ihn zu übernehmen, die Fragen allein aus
 dem Hebräischen neu aufbaute und zu einem Bild gelangte, das die Leser des
-Kanons Zeile für Zeile wiedererkennen werden. Die Konvergenzen, die folgen,
+Kanons Zeile für Zeile wiedererkennen werden.{% end %} Die Konvergenzen, die folgen,
 sollten mit jenem Eintrag auf dem Tisch gewogen werden. Wir haben ihn selbst
 dorthin gelegt, denn die Disziplin, die dieses Projekt übt — Quellen
 offengelegt, Einfluss von Konvergenz unterschieden —, ist dieselbe Disziplin,

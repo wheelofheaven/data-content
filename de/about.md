@@ -37,7 +37,7 @@ body = "Ein Leser kann die historische Hypothese ablehnen und das Werk trotzdem 
 
 ## Eine lange Lesart
 
-Wheel of Heaven ist eine unabhängige vergleichende Studie der Schöpfungstraditionen der Welt, geschrieben aus einer ausdrücklich raëlianischen Lesart. Ihre Arbeitshypothese lautet, dass die Wesen, die die hebräische Bibel *Elohim* nennt — ein der Form nach pluralisches Wort, das jedoch meist mit Verben im Singular verbunden wird — eine kleine, fortgeschrittene menschliche Zivilisation von anderswo waren, die hierher kam, den Planeten vorbereitete, das Leben auf der Erde gestaltete und ein Zeugnis in den religiösen Texten hinterließ.
+Wheel of Heaven ist eine unabhängige vergleichende Studie der Schöpfungstraditionen der Welt, geschrieben aus einer ausdrücklich raëlianischen Lesart. {% claim(type="framework", id="woh-claim-0001") %}Ihre Arbeitshypothese lautet, dass die Wesen, die die hebräische Bibel *Elohim* nennt — ein der Form nach pluralisches Wort, das jedoch meist mit Verben im Singular verbunden wird — eine kleine, fortgeschrittene menschliche Zivilisation von anderswo waren, die hierher kam, den Planeten vorbereitete, das Leben auf der Erde gestaltete und ein Zeugnis in den religiösen Texten hinterließ.{% end %}
 
 Die Lesart durchläuft zwölf Zeitalter des Präzessionszyklus, vom Beginn des Projekts vor etwa zweiundzwanzigtausend Jahren über die lange Sequenz von Gestaltung und Eingriff, die in den religiösen Traditionen verzeichnet ist, bis in das gegenwärtige Zeitalter der Offenbarung, in dem wir uns nach Ansicht des Korpus befinden. Die [zwölf Hauptkapitel](/de/timeline/) des Korpus durchschreiten diesen Bogen der Reihe nach.
 

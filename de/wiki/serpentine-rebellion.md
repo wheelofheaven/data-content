@@ -12,9 +12,9 @@ claim_type = "inferred"
 redirect_to = { title = "Theomachy", path = "/wiki/theomachy/" }
 +++
 
-The **Serpentine Rebellion** is the earlier framing for the faction of
+{% claim(type="framework", id="woh-claim-0008") %}The **Serpentine Rebellion** is the earlier framing for the faction of
 exiled creator-scientists, led by Lucifer, who defied Yahweh and the
-Elohim government on Earth. The rebellion's armed culmination — the war
+Elohim government on Earth.{% end %} The rebellion's armed culmination — the war
 declared by the Elohim government against the Serpent — is now treated
 under [Theomachy](/wiki/theomachy/), and the full sequence of events
 (from Lucifer's defiance through the Tower of Babel to Sodom and

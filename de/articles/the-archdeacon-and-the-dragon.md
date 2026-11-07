@@ -651,8 +651,8 @@ ihre Experimente auf ihrem Planeten durchführten. Drachen, oder was ihr
 Dinosaurier oder Brontosaurier und so weiter genannt habt.
 {% end %}
 
-— während die *figurative* Schlangen- und Drachensprache der Bibel sich, in
-der Lesart des Kanons, an die verbannte Luzifer-Fraktion heftet. Die Einträge
+— während {% claim(type="framework", id="woh-claim-0022") %}die *figurative* Schlangen- und Drachensprache der Bibel sich, in
+der Lesart des Kanons, an die verbannte Luzifer-Fraktion heftet.{% end %} Die Einträge
 zu {% wiki(slug="dragons") %}Drachen{% end %} und
 {% wiki(slug="serpent") %}Schlange{% end %} des Korpus ordnen die
 Schlangenüberlieferung der Welt in zwei Gruppen — Chaos-Schlangen (Tiamat,
@@ -754,10 +754,10 @@ Etikett `framework` statt `direct`, und deshalb trägt dieser Artikel das
 Etikett `inferred`. Die beiden Erkenntnisweisen begegnen einander in jenem
 seltsamen Mittelgrund, wo die Textarchäologie eines amtierenden Erzdiakons und
 die Nachbesprechung eines Kontaktierten auf dieselbe Umzäunung, dieselben
-abweichenden Wissenschaftler, dieselben Ratsabstimmungen zusammenlaufen. Die
+abweichenden Wissenschaftler, dieselben Ratsabstimmungen zusammenlaufen. {% claim(type="inferred", id="woh-claim-0042") %}Die
 Konvergenz beweist keinen der beiden Rahmen. Sie stellt aber fest, dass der
 *Text* — mit wiederhergestelltem Plural gelesen — diese Geschichte immer
-wieder erzeugt, in wem auch immer die Wiederherstellung vornimmt.
+wieder erzeugt, in wem auch immer die Wiederherstellung vornimmt.{% end %}
 
 ## Was die Verwandtschaft wert ist
 

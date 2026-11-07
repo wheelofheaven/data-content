@@ -167,12 +167,12 @@ Andere Namen taugten ebenso, und jeder erfasst etwas, das die anderen verfehlen.
 Der schlichteste ist **zivilisatorische Biologie** — die Bezeichnung, nach der
 ein mit *Soziobiologie* und *Astrobiologie* aufgewachsener Leser zuerst greift.
 Ein anderer ist **Makrobiologie**, und ihre Symmetrie ist genau genug, um bei
-ihr innezuhalten: Die Mikrobiologie untersucht die Zelle und die Einheiten ihrer
+ihr innezuhalten: {% claim(type="speculative", id="woh-claim-0025") %}Die Mikrobiologie untersucht die Zelle und die Einheiten ihrer
 Skala, also würde eine Makrobiologie die Systeme untersuchen, die *aus*
 biologischen Einheiten zusammengesetzt sind, so wie eine Zelle aus
 mikrobiologischen zusammengesetzt ist — die Menschheit verhält sich zum Menschen
 wie der Mensch zur Zelle, eine weitere Sprosse auf derselben Leiter, die der
-vorige Explainer ohne Ende hinauf- und hinabstieg. Das ältere und genauere Wort
+vorige Explainer ohne Ende hinauf- und hinabstieg.{% end %} Das ältere und genauere Wort
 aber ist **Morphologie**, die Lehre von der *Form*, und es ist das, das man vorn
 behalten sollte. Eine Morphologie beansprucht nur, die Gestalt des Ganzen zu
 lesen; eine *Biologie* behauptet, dass das Ganze selbst lebendig ist. Das Zweite

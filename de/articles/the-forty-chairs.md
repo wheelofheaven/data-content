@@ -128,9 +128,9 @@ nennte, würde eine Sekte lizenzieren: die geretteten Traditionen aufgezählt,
 die Tür geschlossen, nichts mehr zu untersuchen. Dieser Kanon tut keines von
 beiden. Er behauptet, dass die Klasse der authentischen Kontakttraditionen
 wirklich, plural und *begrenzt* ist — etwa vierzig Stühle, nicht mehr —, und
-lässt den Sitzplan dann fast vollständig leer. Die Leerstelle ist ein
+lässt den Sitzplan dann fast vollständig leer. {% claim(type="inferred", id="woh-claim-0054") %}Die Leerstelle ist ein
 Auftrag. Jemand muss Tradition um Tradition, mit öffentlich genannten
-Gründen, herausarbeiten, wer plausibel an diesem Tisch saß. Und der Kanon
+Gründen, herausarbeiten, wer plausibel an diesem Tisch saß.{% end %} Und der Kanon
 erhöht den Einsatz dieses Auftrags mit eigener Stimme, denn zwei Jahre zuvor
 hatte er bereits gewarnt, das Zeitalter werde voller Anwärter sein:
 

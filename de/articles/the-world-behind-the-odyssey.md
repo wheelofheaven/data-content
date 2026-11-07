@@ -652,10 +652,10 @@ fortgeschrittenen Zivilisation — der Elohim, deren
 {% wiki(slug="yahweh") %}Yahweh{% end %} das Erdprojekt lenkte —, ihres inneren
 Fraktionskonflikts und der langen kulturellen Verarbeitung beider durch die
 Menschen, die sie erlebten. Das Korpus entwickelt diese Lesart systematisch im
-Eintrag {% wiki(slug="theomachy") %}Theomachie{% end %}: Der Krieg zwischen einer
+Eintrag {% wiki(slug="theomachy") %}Theomachie{% end %}: {% claim(type="framework", id="woh-claim-0008") %}Der Krieg zwischen einer
 älteren, verdrängten Generation göttlicher Gestalten und einem jüngeren,
 etablierten Pantheon, von Griechenland bis Mesoamerika bewahrt, wird als
-gemeinsame Erinnerung an den Rat-Serpentinen-Konflikt gelesen — den
+gemeinsame Erinnerung an den Rat-Serpentinen-Konflikt gelesen{% end %} — den
 politisch-militärischen Kampf, der von der Eden-Enthüllung über die
 {% wiki(slug="great-flood") %}Große Flut{% end %} bis zur ausgehandelten
 Begnadigung reicht, quer durch das
@@ -670,11 +670,11 @@ homerischen Götter verhalten sich wie eine herrschende Klasse, weil, dieser
 Lesart nach, die Überlieferung sich an eine erinnert — Räte und
 Geschäftsbereiche, Fraktionen und Günstlinge, Vorsitz und Widerspruch —; die
 institutionelle Beschaffenheit, die das ethnographische Verzeichnis immer wieder
-fand, ist die Beschaffenheit des Rates selbst. Der Nachfolgemythos — Macht, die
+fand, ist die Beschaffenheit des Rates selbst. {% claim(type="speculative", id="woh-claim-0004") %}Der Nachfolgemythos — Macht, die
 gewaltsam zwischen Generationen der göttlichen Klasse übergeht, die Ältesten unten
 eingeschlossen — entspricht der Darstellung des Korpus von einem generationellen
 politischen Konflikt unter den Schöpfern, bei dem die besiegte Fraktion in die
-Verborgenheit getrieben wird; die eingekerkerten Ältesten der Titanomachie und der
+Verborgenheit getrieben wird{% end %}; die eingekerkerten Ältesten der Titanomachie und der
 {% wiki(slug="dragons") %}im Meer hausende Drache{% end %} der hebräischen
 Propheten werden als zwei kulturelle Erinnerungen an dieselbe an den Rand
 gedrängte Partei gelesen. Das Gerüst vom Sturmgott gegen die Schlange, im obigen

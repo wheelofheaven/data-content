@@ -134,10 +134,10 @@ Die zweite ist die Hypothese von Wheel of Heaven: **Der prophetische Krieg gegen
 die Götzen bewahrt womöglich eine wiederkehrende Wiederherstellung der
 Erinnerung, die die Menschen von toten Ersatzbildern weg und zurück zu ihren
 tatsächlichen Schöpfern ruft, den {% wiki(slug="elohim") %}Elohim{% end %},
-gewöhnlich durch die Autorität eines einzelnen benannten Eloha oder Boten**. Nach
+gewöhnlich durch die Autorität eines einzelnen benannten Eloha oder Boten**. {% claim(type="speculative", id="woh-claim-0011") %}Nach
 dieser Lesart ist der spätere einzelne, immaterielle, allgegenwärtige Gott nicht
 das, was die ältesten Polemiken verteidigten. Er ist das, was Jahrhunderte der
-Theologie aus einer konkreteren Geschichte machten. Diese Behauptung ist
+Theologie aus einer konkreteren Geschichte machten.{% end %} Diese Behauptung ist
 `speculative`. Sie ist keine gängige Bibelwissenschaft, und sie ist keine
 islamische Theologie. Ihr Wert hängt davon ab, ob sie den textlichen Rest besser
 erklärt als die Kategorien, die sie ersetzen will. Die größere kanonische
@@ -523,9 +523,9 @@ Zugang unter geringere Wesen und ihre Objekte verteilt werden konnten.
 ## Die Umkehrung durch Wheel of Heaven
 
 Innerhalb des [Zeitalters des Wassermanns](/timeline/age-of-aquarius/) beginnt
-der Kanon von Wheel of Heaven damit, die spätere Übereinkunft umzukehren. Er nimmt
+der Kanon von Wheel of Heaven damit, die spätere Übereinkunft umzukehren. {% claim(type="framework", id="woh-claim-0009") %}Er nimmt
 die antike Pluralität an und verwirft die übernatürliche Kategorie. Die Elohim
-sind viele, endliche, verkörperte Schöpfer. Yahweh ist ein benanntes Individuum
+sind viele, endliche, verkörperte Schöpfer.{% end %} Yahweh ist ein benanntes Individuum
 und institutioneller Präsident, nicht das Sein selbst. Gabriel oder Jibril wird
 als ein Bote gelesen, der am prophetischen Kontakt beteiligt ist, nicht als eine
 immaterielle Spezies, die zwischen Schöpfung und Schöpfer

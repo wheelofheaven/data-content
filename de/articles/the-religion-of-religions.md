@@ -89,10 +89,10 @@ grünen Einteiler sei aus einem gelandeten Fluggerät getreten, habe ihn mit
 Namen angesprochen und gebeten, am nächsten Morgen zurückzukehren — mit einer
 Bibel. Sechs Tage lang, so sein Bericht, arbeitete sich der Besucher mit ihm
 durch diese Bibel, Vers um Vers, und korrigierte die Übersetzungsfehler von
-dreißig Jahrhunderten. Das Buch, das Claude Vorilhon im folgenden Jahr aus
+dreißig Jahrhunderten. {% claim(type="direct", id="woh-claim-0020") %}Das Buch, das Claude Vorilhon im folgenden Jahr aus
 seinen Notizen veröffentlichte, [*Das Buch, das die Wahrheit
 sagt*](/library/the-book-which-tells-the-truth/), wurde zur Gründungsschrift
-der Bewegung, die dieses Projekt als seinen Kanon nimmt; der Mann selbst
+der Bewegung, die dieses Projekt als seinen Kanon nimmt;{% end %} der Mann selbst
 wurde {% wiki(slug="rael") %}Raël{% end %}; und die Frage, die dieser
 Explainer aufgreift, ist die, die jede Institution, die sie zu beantworten
 versucht hat, stillschweigend besiegt hat: *Welche Art von Ding ist die
@@ -276,9 +276,9 @@ brauchen, um alle Religionen und Sekten aufzuzählen, die auf mehr oder weniger
 unklare Weise von unserem Wirken zeugen.
 {% end %}
 
-Buddhismus, Islam und die Heiligen der Letzten Tage, benannt in einem
+{% claim(type="direct", id="woh-claim-0027") %}Buddhismus, Islam und die Heiligen der Letzten Tage, benannt in einem
 französischen Taschenbuch von 1974 als parallele Zeugen derselben Ereignisse,
-die die Bibel aufzeichnet: Das vergleichend-religionswissenschaftliche
+die die Bibel aufzeichnet{% end %}: Das vergleichend-religionswissenschaftliche
 Programm steht im Gründungsdokument, sechs Tage alt. Der Auftrag der Bewegung
 folgt im nächsten Kapitel — verbreite die Botschaft, bereite eine
 {% wiki(slug="embassy") %}Botschaft{% end %} für die

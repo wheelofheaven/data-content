@@ -636,10 +636,10 @@ versagt hatte und nie wieder gebraucht werden darf. Henoch bewahrt die Begründu
 die die anderen verlieren, und gibt sie als Dekontamination — *heile die Erde, die
 die Wächter verderbt haben, damit seine Saat bestehe.*
 
-Durch den Rahmen ist dies, was von einer realen Operation übrigbleibt: ein
+{% claim(type="framework", id="woh-claim-0010") %}Durch den Rahmen ist dies, was von einer realen Operation übrigbleibt: ein
 gesteuerter Reset durch Macher von hoher, aber endlicher Kapazität, die
 entschieden, ausgeführt, eine Linie bewahrt und sich über die Kosten zerstritten
-haben. Ohne den Rahmen bleibt es seltsamer und interessanter als Strafe — vier
+haben.{% end %} Ohne den Rahmen bleibt es seltsamer und interessanter als Strafe — vier
 Literaturen, unabhängig voneinander, die die Sintflut als eine Beratung statt
 eines Wutanfalls erinnern. Die Flut, die die Texte tatsächlich bewahren, war nie
 schlicht Zorn. Sie war eine Entscheidung, von jemandem getroffen, schlecht

@@ -193,7 +193,7 @@ Mehrere andere Passagen der Hebräischen Bibel berühren das breitere Schlangenm
 
 **Sprüche 23,32; 30,19** verwenden Schlangenbilder in weisheitsliterarischen Zusammenhängen.
 
-Das Muster über die Hebräische Bibel hinweg ist, dass *naḥash* eine Reihe von Schlangenfiguren benennt: die spezifische Eden-Figur, die eherne Heilungsschlange, Leviathan als Chaosschlange, die verschiedenen metaphorischen Schlangen der Weisheits- und Dichtungsliteratur. Die Schlange von Genesis 3 ist eine spezifische Figur innerhalb dieses breiteren Schlangenvokabulars; die Lesart des Korpus behandelt diese Figur spezifisch als die Luzifer-Fraktion in ihrer Enthüllungsrolle.
+Das Muster über die Hebräische Bibel hinweg ist, dass *naḥash* eine Reihe von Schlangenfiguren benennt: die spezifische Eden-Figur, die eherne Heilungsschlange, Leviathan als Chaosschlange, die verschiedenen metaphorischen Schlangen der Weisheits- und Dichtungsliteratur. {% claim(type="framework", id="woh-claim-0022") %}Die Schlange von Genesis 3 ist eine spezifische Figur innerhalb dieses breiteren Schlangenvokabulars; die Lesart des Korpus behandelt diese Figur spezifisch als die Luzifer-Fraktion in ihrer Enthüllungsrolle.{% end %}
 
 ### Die interpretative Tradition des Zweiten Tempels und der Rabbinen
 

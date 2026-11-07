@@ -180,8 +180,8 @@ bevor irgendeine griechische Literatur aufgeschrieben wurde. Die Archäologie ha
 diesen Vorrang Schicht für Schicht erwiesen, und niemand bestreitet ihn.
 
 Die literarische Entlehnung indes beweist etwas Kleineres und Genaueres:
-Kontakt und Prestige. Archaische Griechen nahmen Stoff aus Kulturen auf, die
-sie als älter, reicher und gelehrter anerkannten als ihre eigene. Die Entlehnung
+Kontakt und Prestige. {% claim(type="direct", id="woh-claim-0005") %}Archaische Griechen nahmen Stoff aus Kulturen auf, die
+sie als älter, reicher und gelehrter anerkannten als ihre eigene.{% end %} Die Entlehnung
 zeigt die Richtung der kulturellen Schwerkraft im achten Jahrhundert; sie zeigt
 für sich genommen nicht, wo die Zivilisation begann, ebenso wenig wie die
 Aufnahme arabischer Wissenschaft durch das mittelalterliche Europa Bagdad zum
@@ -251,10 +251,10 @@ Technologietransfer mit einem Delegationsleiter und einem Groll.
 Nun trage man die beiden Anker auf einer Zeitleiste ein, denn die Chronologie
 leistet wirkliche Arbeit. Die persische Herrschaft über Judäa beginnt 539
 v. Chr.; die griechischen Königreiche übernehmen nach Alexander, im vierten
-Jahrhundert. Die homerischen und hesiodeischen Gedichte kristallisierten im
+Jahrhundert. {% claim(type="framework", id="woh-claim-0006") %}Die homerischen und hesiodeischen Gedichte kristallisierten im
 achten und siebten Jahrhundert — rund zweihundert Jahre, bevor der erste
 Emissär dieser Darstellung zufolge seinen Fuß unter die Griechen hätte setzen
-können. Der Schluss ist einer, auf den sich das Korpus verpflichtet: **Die
+können.{% end %} Der Schluss ist einer, auf den sich das Korpus verpflichtet: **Die
 Emissäre erklären nichts bei Homer.** Wer Griechenland in der klassischen Zeit
 auch belehrt haben mag — die *Odyssee* und die *Theogonie* waren bereits alt,
 als der Unterricht begann. Die belegte archaische Übertragung — die Dichter, die
@@ -270,10 +270,10 @@ eine Kontinuität. Griechenland erscheint im Kanon in der tiefen Schicht — als
 Region eines Stützpunkts, deren Mythologie Zeugnisse bewahrt — und erscheint
 erneut in der klassischen Schicht, als Empfängerin von Emissären in der Zeit der
 Reiche. Ein Wirken in zwei Momenten, Jahrhunderte auseinander, jedes Mal von
-anderer Art. Das Korpus liest dies als den Mindestumriss einer fortdauernden
+anderer Art. {% claim(type="framework", id="woh-claim-0007") %}Das Korpus liest dies als den Mindestumriss einer fortdauernden
 Tatsache: **Griechenland lag durchgehend innerhalb der elohimischen Sphäre** —
 desselben Wirkungsfeldes, dessen Schwerpunkt das biblische Korpus im Alten
-Orient verzeichnet, von Babel bis zu den Propheten.
+Orient verzeichnet, von Babel bis zu den Propheten.{% end %}
 
 So gelesen kommen das etablierte Bild und das kanonische Bild zur Deckung. Die
 Wissenschaft findet Griechenland kulturell in den Alten Orient eingebettet,

@@ -118,9 +118,9 @@ Wir haben dich seit deiner Geburt beobachtet — und schon davor. Deshalb
 haben wir dich erwählt.
 {% end %}
 
-Stellt man die beiden Uhren nebeneinander, so erklärt sich der Zufall
+{% claim(type="speculative", id="woh-claim-0026") %}Stellt man die beiden Uhren nebeneinander, so erklärt sich der Zufall
 von selbst: Die älteste Bibliothek der Hebräischen Bibel erwachte im
-Jahr eins. Dieser Artikel handelt von diesem Zufall — was genau zutage
+Jahr eins.{% end %} Dieser Artikel handelt von diesem Zufall — was genau zutage
 trat, durch wessen Hände es ging, warum es vierzig Jahre und einen
 Skandal brauchte, um an die Öffentlichkeit zu gelangen, und was es mit
 unserem Bild von der Schrift anstellte. Die Behauptung, die Zeitrechnung

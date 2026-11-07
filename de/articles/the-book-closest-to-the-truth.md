@@ -150,9 +150,9 @@ Länge dieses Artikels in Anspruch, denn die Spur führt durch den seltsamsten T
 der jüdischen Mystik, einen dreiseitigen Gelehrtenstreit über sein Alter, ein
 Jahrtausend theologischer Verlegenheit über seinen Inhalt und — ganz am Ende —
 ein billiges französisches Taschenbuch mit einem verräterischen
-Übersetzungsfehler. Das Ziel ist es wert, vorweg genannt zu werden: **Die von
+Übersetzungsfehler. Das Ziel ist es wert, vorweg genannt zu werden: {% claim(type="inferred", id="woh-claim-0021") %}**Die von
 Jahwe zitierte Passage existiert.** Sie heißt *Shi'ur Qomah* (hebräisch
-שִׁעוּר קוֹמָה, *šiʿur qômāh*, „das Maß der Statur"), und das
+שִׁעוּר קוֹמָה, *šiʿur qômāh*, „das Maß der Statur"){% end %}, und das
 Rad-des-Himmels-Projekt hat sie vollständig übersetzt:
 [*Shi'ur Qomah* — Übersetzung von Wheel of Heaven](/library/shiur-qomah-woh/).
 Was die Zahlen *bedeuten*, ist genau der Punkt, an dem sich Mainstream und Kanon

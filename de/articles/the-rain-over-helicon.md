@@ -388,8 +388,8 @@ entfaltet einen möglichen Inhalt dieser Aussage: Die Thronfolge im Himmel, die
 Götterkriege, die Versammlung, die Verbindungen von Göttern und Menschen und die
 bestrafte Weitergabe des Wissens werden als verwandelte Erinnerung an den
 {% wiki(slug="theomachy") %}Rat-Serpentinen-Konflikt{% end %} gelesen.
-Behauptung 0007 stellt Griechenland in die weitere Sphäre des Wirkens, deren
-Schwerpunkt der Kanon im Alten Orient verortet.
+{% claim(type="framework", id="woh-claim-0007") %}Behauptung 0007 stellt Griechenland in die weitere Sphäre des Wirkens, deren
+Schwerpunkt der Kanon im Alten Orient verortet.{% end %}
 
 West verändert die Bedingungen, unter denen diese Lesart möglich ist. Eine
 griechische Parallele kann nicht als unabhängiger zweiter Zeuge behandelt
@@ -419,11 +419,11 @@ Aus der Unterscheidung ergeben sich drei Einschränkungen:
   Geschichten bewegten sich durch Menschen; der Rahmen erhebt keinen
   konkurrierenden Anspruch über ihre Reise.
 
-In der Lesart von Wheel of Heaven ist der stärkste Anwärter auf bewahrte
+{% claim(type="speculative", id="woh-claim-0004") %}In der Lesart von Wheel of Heaven ist der stärkste Anwärter auf bewahrte
 Erinnerung die Architektur, nicht das Kostüm: eine regierende Versammlung, in
 ihrer Politik gespalten, der Konflikt zwischen göttlichen Fraktionen, eine
 Abfolge herrschender Ordnungen, der Eingriff in die menschliche Entwicklung und
-die Strafe für unbefugte Enthüllung. Selbst dort bleiben die literarische
+die Strafe für unbefugte Enthüllung.{% end %} Selbst dort bleiben die literarische
 Übertragung und die gesellschaftliche Projektion hinreichende Alternativen. Der
 Rahmen hat noch keine textliche Einzelheit hervorgebracht, die sie nicht
 erklären könnten.
@@ -478,9 +478,9 @@ seine berühmtesten Parallelen und sorgfältiger als sein Schlagwort. Hesiod und
 Kumarbi liefern einen gegliederten Fall von Abhängigkeit. Die
 Kampfüberlieferungen zeigen eine bewegliche Familie, deren Unterschiede lesbar
 bleiben. Dichterisches Verfahren und Diktion offenbaren den Kontakt im Innern
-des Handwerks. Die *Odyssee* und das *Gilgamesch-Epos* geben eine starke
+des Handwerks. {% claim(type="direct", id="woh-claim-0005") %}Die *Odyssee* und das *Gilgamesch-Epos* geben eine starke
 erzählerische Beziehung zu erkennen, ohne ihre Helden ineinanderfallen zu
-lassen. Archäologie und Sozialgeschichte liefern mehrere Korridore und
+lassen.{% end %} Archäologie und Sozialgeschichte liefern mehrere Korridore und
 verweigern uns doch die Reiseroute jeder einzelnen Erzählung.
 
 Das Ergebnis ist weder ein autonomes Wunder namens Griechenland noch ein

@@ -1018,14 +1018,14 @@ Das Wheel of Heaven trägt seinen Namen nach dieser Maschine, und seine
 Lesart der Kontroverse lässt sich nun in drei Sätzen formulieren, jeder
 mit seinem angehefteten epistemischen Etikett. Dass die Präzession der
 Tagundnachtgleichen einen Zyklus von ~25.920 Jahren strukturiert,
-teilbar in zwölf Zeitalter, ist Astronomie — *direct*. Dass die Mythen
+teilbar in zwölf Zeitalter, ist Astronomie — *direct*. {% claim(type="inferred", id="woh-claim-0014") %}Dass die Mythen
 der Welt, die Märchen, die heiligen Architekturen und Segensformeln die
 Zahlen, Bilder und Zeitalterübergänge dieses Zyklus in einer Form
 bewahren, die entworfen ist, den Tod des Verstehens zu überleben — die
 These von *Hamlet's Mill* —, ist eine Lesart, die dieses Korpus in der
 Summe überzeugend findet und die etablierte Wissenschaft nicht:
 *inferred*, und überall, wo sie erscheint, argumentiert statt
-vorausgesetzt. Und dass das Wissen weder Wunder noch verlorene
+vorausgesetzt.{% end %} Und dass das Wissen weder Wunder noch verlorene
 menschliche Wissenschaft war, sondern Lehrplan — von den
 {% wiki(slug="elohim") %}Elohim{% end %} zu Beginn des Projekts gelehrt,
 angesetzt, um im Zeitalter des Wasserträgers erneut verstanden zu werden,

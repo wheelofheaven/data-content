@@ -173,12 +173,12 @@ Generation; sie irrte sich um neunzehn Jahrhunderte — oder, so die
 Lesart, um deretwillen dieser Artikel existiert, ihre Bibliothek war,
 wie alle ihre Propheten, an eine letzte Generation gerichtet, die sie
 nicht kennen konnte. So oder so ist die physische Tatsache seltsam genug,
-um sie schlicht auszusprechen. Eine vom planmäßigen Entsiegeln von
+um sie schlicht auszusprechen. {% claim(type="speculative", id="woh-claim-0026") %}Eine vom planmäßigen Entsiegeln von
 Büchern besessene Gemeinschaft versiegelte ihre eigenen Bücher in
 Krügen; die Krüge überdauerten die Gemeinschaft, ihren Tempel, ihr
 Reich und die Vokale ihrer Sprache; und sie öffneten sich im ersten Jahr
 einer Ära, deren Gründungstext als seine Charter den Vers über das bis
-zur letzten Zeit versiegelte Buch zitiert. Wieder Daniel, acht Verse
+zur letzten Zeit versiegelte Buch zitiert.{% end %} Wieder Daniel, acht Verse
 später, wie der Kanon ihn zitiert: *„Geh hin, Daniel, denn die Worte
 sind verschlossen und versiegelt bis auf die letzte Zeit"*
 ({% libref(book="the-book-which-tells-the-truth", chapter=3, verse=226) %}TBWTT 3:226{% end %}).

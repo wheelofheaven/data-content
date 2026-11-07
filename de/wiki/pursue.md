@@ -63,11 +63,11 @@ veröffentlicht auch seine Negativbefunde.
 Der Wheel-of-Heaven-Rahmen verfolgt PURSUE genau — der Korpus legt zu jeder
 Veröffentlichung eine
 [Meldung](/news/pursue-release-06-warp-drives-and-the-tremonton-film/) ab —,
-aber unter einer bewussten Disziplin: Registrierung ohne Indienstnahme. Keine
+aber unter einer bewussten Disziplin: Registrierung ohne Indienstnahme. {% claim(type="inferred", id="woh-claim-0057") %}Keine
 Akte, die PURSUE freigibt, ist ein Beleg für den Rahmen, und kein Fall, den
 es widerlegt, ist ein Beleg gegen ihn. Die Kontaktdarstellung des Rahmens
 ruht auf den eigenen [Berichten](../rael/) des Kanons, nicht auf irgendeinem
-Fluggerät an irgendeinem Himmel.
+Fluggerät an irgendeinem Himmel.{% end %}
 
 ## Name und Mandat
 

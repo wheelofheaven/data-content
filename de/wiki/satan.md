@@ -577,7 +577,7 @@ Satans spezifische institutionelle Propheten-Prüfungsrolle verbindet sich subst
 
 ### Satan vs. Luzifer
 
-Luzifer ist der Anführer der erdgebundenen Schöpfer-Exilfraktion; Satan ist der Anführer der Ratsopposition auf der Heimatwelt. Die beiden Figuren nehmen unterschiedliche Orte ein (Erde vs. Heimatwelt), unterschiedliche politische Positionen (erdgebundener Dissident vs. institutionelle Ratsopposition) und unterschiedliche narrative Rollen (Eden-Aufklärungsagent vs. Vertreter grundsätzlicher Opposition). Die beiden Figuren sind politische Gegner innerhalb der weiteren politischen Elohim-Struktur statt kosmisch-gut-gegen-kosmisch-böse-Personifikationen.
+{% claim(type="framework", id="woh-claim-0013") %}Luzifer ist der Anführer der erdgebundenen Schöpfer-Exilfraktion; Satan ist der Anführer der Ratsopposition auf der Heimatwelt. Die beiden Figuren nehmen unterschiedliche Orte ein (Erde vs. Heimatwelt), unterschiedliche politische Positionen (erdgebundener Dissident vs. institutionelle Ratsopposition) und unterschiedliche narrative Rollen (Eden-Aufklärungsagent vs. Vertreter grundsätzlicher Opposition).{% end %} Die beiden Figuren sind politische Gegner innerhalb der weiteren politischen Elohim-Struktur statt kosmisch-gut-gegen-kosmisch-böse-Personifikationen.
 
 Die Beziehung ist eine von **eigenständigen-Figuren-mit-gegensätzlichen-politischen-Positionen**: Luzifer befürwortet volle Aufklärung der Menschheit; Satan widersetzt sich der menschlichen Schöpfung gänzlich. Die christlich-traditionelle Verschmelzung der beiden Figuren zu einer einzigen Personifikation kosmischen Bösen stellt das Ergebnis von ungefähr zweitausend Jahren theologisch-kultureller Entwicklung dar, welche die ursprünglichen eigenständigen Identitäten verdeckt hat.
 

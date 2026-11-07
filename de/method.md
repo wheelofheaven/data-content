@@ -15,7 +15,7 @@ cta_label = "Die Zeitleiste öffnen"
 
 ## Eine Hypothese, genau gelesen
 
-Wheel of Heaven ist eine einzige, durchgehaltene Lesart der Schöpfungstraditionen der antiken Welt, zusammengehalten von einer Arbeitshypothese: dass die Wesen, die die hebräische Bibel [*Elohim*](/de/wiki/elohim/) nennt — ein der Form nach pluralisches Substantiv, das die Übersetzung lange zum singularen „Gott" verflacht hat —, eine kleine, technologisch fortgeschrittene menschliche Zivilisation von anderswo waren, die zur Erde kam, sie vorbereitete, das Leben hier gestaltete und ein Zeugnis dieser Arbeit in den religiösen Texten hinterließ.
+Wheel of Heaven ist eine einzige, durchgehaltene Lesart der Schöpfungstraditionen der antiken Welt, zusammengehalten von einer Arbeitshypothese: {% claim(type="framework", id="woh-claim-0001") %}dass die Wesen, die die hebräische Bibel [*Elohim*](/de/wiki/elohim/) nennt — ein der Form nach pluralisches Substantiv, das die Übersetzung lange zum singularen „Gott" verflacht hat —, eine kleine, technologisch fortgeschrittene menschliche Zivilisation von anderswo waren, die zur Erde kam, sie vorbereitete, das Leben hier gestaltete und ein Zeugnis dieser Arbeit in den religiösen Texten hinterließ.{% end %}
 
 Dieser Satz ist alles, worum das Projekt einen Leser bittet, es in Betracht zu ziehen. Alles Übrige — die zwölf Zeitalter, die vergleichende Mythologie, die philologischen Einzelheiten, die [präzessionale](/de/wiki/precession/) Chronologie — ist die Ausarbeitung dieser einen Hypothese an den überlieferten Belegen. Die Methode ist die Disziplin, die diese Ausarbeitung redlich hält: wie die Lesart gerahmt ist, woraus sie liest und wie sie den Unterschied markiert zwischen dem, was eine Quelle sagt, und dem, was das Projekt daraus folgert.
 

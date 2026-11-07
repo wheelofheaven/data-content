@@ -497,9 +497,9 @@ unangetastet. Das Korpus verortet seine Laufbahn im frühen bis mittleren
 kulturellen Übertragung der operativen Botschaft über zivilisatorische Regionen
 hinweg. Eine innerhalb eines einzigen Jahrhunderts verlagerte und neu formulierte
 Heiligtumstradition ist mit diesem Bild von in der Übertragung redigierten
-Traditionen vereinbar. Die Petra-Hypothese, durch den Rahmen gelesen, stürzt den
+Traditionen vereinbar. {% claim(type="speculative", id="woh-claim-0024") %}Die Petra-Hypothese, durch den Rahmen gelesen, stürzt den
 Mohammed des Korpus nicht um. Sie liefert eine Geographie für die Hanafiyya, die
-das Korpus bereits benannt hatte.
+das Korpus bereits benannt hatte.{% end %}
 
 ## Wovon sich die Hanafiyya abwandte
 

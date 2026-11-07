@@ -393,10 +393,10 @@ aufgeschüttet hatten, wurde von den Explosionen zerbrochen, seine Bruchstücke
 trieben „vom Zentrum der Erschütterung nach außen“, und die gesamte
 Landoberfläche wurde weggefegt: „alle lebende Materie, gewaltige Wälder,
 Tiere und selbst der Mensch“ wurde „sofort und alles zugleich“ begraben, in
-einem Ring um den Einschlagpunkt. Die heutigen Kontinente sind die Stücke, noch
+einem Ring um den Einschlagpunkt. {% claim(type="framework", id="woh-claim-0071") %}Die heutigen Kontinente sind die Stücke, noch
 immer in Bewegung. Die Fossillager sind das Grab, und der Kanon liest ihre
 Abfolge als Protokoll dessen, was wann starb, im Nachgang der ersten Explosion —
-nicht als hundert Millionen Jahre stiller Ablagerung. In dieser einen Frage
+nicht als hundert Millionen Jahre stiller Ablagerung.{% end %} In dieser einen Frage
 steht der Kanon mit Snelling und Wise gegen das Lehrbuch: Die Gesteinsschichten
 sind die Signatur einer Katastrophe. Er trennt sich von ihnen in allem, was
 diese Übereinstimmung umgibt — im Alter des Planeten, im Datum des Ereignisses,
@@ -723,10 +723,10 @@ weil auch der Designer erklärt werden müsse. Doch „auch der Designer muss er
 werden“ ist eine Forderung nach einem Grund, und die Forderung beißt nur, wenn
 man annimmt, die Kette müsse einen haben. Dawkins und Meyer teilen diese Annahme.
 Sie ist das Tiefste, was sie gemeinsam haben, verschüttet unter ihrer berühmten
-Uneinigkeit, und sie ist die Annahme, die der Kanon schlicht nicht macht. Streicht
+Uneinigkeit, und sie ist die Annahme, die der Kanon schlicht nicht macht. {% claim(type="speculative", id="woh-claim-0036") %}Streicht
 man sie, so steht Dawkins’ eigener Satz: Die Signatur könnte da sein, und eine
 frühere evolvierte Zivilisation könnte sie hinterlassen haben, und diese
-Zivilisation muss weder Gott noch das letzte Wort sein.
+Zivilisation muss weder Gott noch das letzte Wort sein.{% end %}
 
 ## Was Kanon und Bewegung tatsächlich teilen
 
@@ -879,9 +879,9 @@ es gibt keine Hand, und ihr Anschein ist der Rückstand eines blinden Prozesses,
 was die Position ist, die Tours schallendes Nein wegerklären muss; oder die Hand
 gehört jemandem. Jemandem mit einem Körper. Jemandem, der an einer Laborbank
 arbeitete, Ergebnisse mit einem Kollegen verglich und die Ähnlichkeit frappierend
-fand. Jemandem, der gemacht wurde, wie wir gemacht wurden, von jemandem Früherem,
+fand. {% claim(type="framework", id="woh-claim-0030") %}Jemandem, der gemacht wurde, wie wir gemacht wurden, von jemandem Früherem,
 in einer Linie, die hinter jeden Horizont zurückläuft, den wir sehen können, und
-die nie bei einem ersten oder einem letzten Macher ankommt.
+die nie bei einem ersten oder einem letzten Macher ankommt.{% end %}
 
 Diese dritte Antwort ist die, die Dawkins berührte und fallen ließ, und die, die
 Meyer aufhob und zurückwarf, und die, die der Kanon seit fünfzig Jahren einfach

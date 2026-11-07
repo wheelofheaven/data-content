@@ -154,9 +154,9 @@ Wesen, ihren eigenen Fragen — und, so legt die Passage nahe, ihren eigenen
 Wissenschaftlern, die sich fragen, ob sie allein sind. Die Menschheit ist eine
 *„Krankheit“* nicht im Sinne von etwas Falschem, sondern im Sinne von etwas
 *Kleinem und Lebendigem auf der Oberfläche von etwas Ungeheurem* — ein mikrobieller
-Film auf einem Körper, der zu groß ist, um ihn zu bemerken. Und die Struktur endet
+Film auf einem Körper, der zu groß ist, um ihn zu bemerken. {% claim(type="framework", id="woh-claim-0023") %}Und die Struktur endet
 nicht. Über dem gigantischen Wesen sind noch größere Wesen; unter unseren Atomen
-sind noch kleinere Welten. *„In beiden Richtungen ist es unendlich.“*
+sind noch kleinere Welten.{% end %} *„In beiden Richtungen ist es unendlich.“*
 
 Die zweite Rate kommt zwei Jahre später, und ihr Schauplatz ist noch pointierter.
 In der zweiten Botschaft nimmt Jahwe Raël von der Erde fort zu einer **Basis, die
