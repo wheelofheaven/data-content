@@ -860,5 +860,4 @@ to return?
 - [The Flood Was a Reset, Not a Punishment](/articles/the-flood-was-a-reset-not-a-punishment/) — the flood cluster at full chapter scale: Atrahasis, the council decree, and the dissenter's warning.
 - [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) — the dragon and serpent material through Paul Wallis's independent philological convergence with the canon.
 - [The Mill That Grinds the Ages](/articles/the-mill-that-grinds-the-ages/) — the astronomical stratum of the same myths: precession, *Hamlet's Mill*, and the World Ages.
-- [Made from the Ground, to Bear the Labor](/articles/made-from-the-ground-to-bear-the-labor/) — the creation-of-man cluster: clay, divine blood, and the laboratory reading of Genesis 2.
 - [List of mythemes and mythological motifs](/wiki/list-of-mythemes-and-mythological-motifs/) — the project's working catalogue, keyed to Thompson's codes.
