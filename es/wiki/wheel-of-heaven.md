@@ -318,7 +318,6 @@ derivada del cómputo propio de ninguna tradición.{{ footnote(id="3") }}
 - [Embajada](../embassy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](/wiki/paul-wallis/)
-- [Akhenatón](../akhenaten/)
 
 ## Referencias
 

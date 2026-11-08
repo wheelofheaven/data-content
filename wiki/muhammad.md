@@ -211,7 +211,7 @@ The framework reads the Council of the Eternals account as supporting the broade
 The framework reads the Qur'an as preserving substantial operational vocabulary that parallels the operational vocabulary the corpus tracks across the Hebrew Bible. Several specific terms warrant attention:
 
 - ***Malak* / *malāʾikah* (angels).** The Arabic *malak* (plural *malāʾikah*) is the direct Arabic cognate of the Hebrew *mal'akh* — "messenger" — that the corpus's broader work reads as preserving operational content about Elohim representatives or operational agents. The Qur'an's *malāʾikah* terminology preserves the same operational referent as the Hebrew *mal'akh* terminology, with Jibrīl as the principal individually-named agent across both traditions.
-- ***Jinn*.** The Arabic *jinn* is the Qur'anic category of intelligent non-human beings, described as having been created from "smokeless fire" (Qur'an 55:15) and as having free will and moral responsibility paralleling that of humans. The framework's reading of the *jinn* is open: the category may preserve operational content about specific non-human contact entities, may reflect pre-Islamic Arabian traditional categories integrated into the Qur'anic worldview, may be a class of entity distinct from both humans and Elohim in the broader operational sphere, or some combination. The dedicated [Jinn](../jinn/) entry treats the question in more detail.
+- ***Jinn*.** The Arabic *jinn* is the Qur'anic category of intelligent non-human beings, described as having been created from "smokeless fire" (Qur'an 55:15) and as having free will and moral responsibility paralleling that of humans. The framework's reading of the *jinn* is open: the category may preserve operational content about specific non-human contact entities, may reflect pre-Islamic Arabian traditional categories integrated into the Qur'anic worldview, may be a class of entity distinct from both humans and Elohim in the broader operational sphere, or some combination. The dedicated Jinn entry treats the question in more detail.
 - ***Rūḥ* (spirit/breath).** The Arabic *rūḥ* is the direct cognate of the Hebrew *ruaḥ* — "spirit, breath, wind" — that the corpus tracks across the Hebrew Bible (particularly *ruaḥ Elohim* in Genesis 1:2 and elsewhere). The Qur'an's use of *rūḥ* terminology — particularly *al-Rūḥ al-Amīn* ("the trustworthy spirit," Qur'an 26:193) and *Rūḥ al-Qudus* ("the spirit of holiness," Qur'an 16:102 and elsewhere) for Jibrīl — preserves the operational continuity with the Hebrew *ruaḥ* tradition.
 - ***Sakīna*.** The Arabic *sakīna* (Qur'an 2:248, 9:26, 9:40, 48:4, 48:18, 48:26) is the cognate of the Hebrew *shekhinah* — the "indwelling presence" that the Hebrew tradition associates with the Ark of the Covenant and the Tabernacle/Temple. The framework's reading of the Hebrew *shekhinah* (developed in the broader corpus work on the Ark of the Covenant) extends to the Qur'anic *sakīna*.
 - ***Ḥijāb*** (in the operational sense of "veil" or "barrier" rather than the contemporary dress sense). The Qur'an's various uses of *ḥijāb* terminology, including in the context of the prophetic communications, preserve operational content about the conditions of contact between the human and Elohim spheres.
@@ -255,33 +255,19 @@ The Muhammad entry surfaces several open questions for the framework's broader i
 
 - [Jesus](../jesus/)
 - [Moses](../moses/)
-- [Abraham](../abraham/) / [Ibrahim](../ibrahim/)
+- [Abraham](../abraham/)
 - [Elijah](../elijah/)
 - [Ezekiel](../ezekiel/)
-- [Enoch](../enoch/) / [Idris](../idris/)
-- [The Buddha](../buddha/)
-- [Joseph Smith](../joseph-smith/)
-- [Gabriel](../gabriel/) / [Jibril](../jibril/)
-- [Khadija](../khadija/)
-- [Ali ibn Abi Talib](../ali-ibn-abi-talib/)
 - [The Qur'an](../quran/)
-- [Mecca](../mecca/)
 - [Petra](../petra/)
 - [Nabataeans](../nabataeans/)
 - [Hanafiyya](../hanafiyya/)
 - [Monotheism](../monotheism/)
 - [Idolatry](../idolatry/)
-- [Medina](../medina/)
-- [Jerusalem](../jerusalem/) / [al-Quds](../al-quds/)
-- [Cave of Hira](../cave-of-hira/)
-- [Isra and Mi'raj](../isra-and-miraj/)
-- [Islam](../islam/)
 - [Raëlism](../raelism/)
 - [Council of the Eternals](../council-of-the-eternals/)
 - [Age of Pisces](../../timeline/age-of-pisces/)
 - [Elohim](../elohim/)
-- [Angels](../angels/)
-- [Jinn](../jinn/)
 - [List of prophets and religions](../list-of-prophets-and-religions/)
 - [List of close encounters](../list-of-close-encounters/)
 - [List of exegetic readings](../list-of-exegetic-readings/)

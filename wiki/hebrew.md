@@ -424,13 +424,11 @@ The pattern is not universal — many cultural traditions do not develop this ki
 ## See also
 
 - [Elohim](../elohim/)
-- [Hebrews](../hebrews/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Genesis](../genesis/)
 - [Adam and Eve](../adam-and-eve/)
 - [Eden](../eden/)
 - [Babel](../babel/)
-- [Tetragrammaton](../tetragrammaton/)
 - [Yahweh](../yahweh/)
 - {% wiki(slug="anunnaki") %}Anunnaki{% end %}
 - [Sumerian King List](../sumerian-king-list/)
@@ -440,15 +438,12 @@ The pattern is not universal — many cultural traditions do not develop this ki
 - [Prophet](../prophet/)
 - [Muhammad](../muhammad/)
 - [Qur'an](../quran/)
-- [Buddha](../buddha/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
 - [*Hamlet's Mill*](../hamlets-mill/)
-- [Documentary Hypothesis](../documentary-hypothesis/)
 - [Masoretic Text](../masoretic-text/)
 - [Septuagint](../septuagint/)
 - [Dead Sea Scrolls](../dead-sea-scrolls/)
-- [Logos](../logos/)
 - [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the philological audit turns on the he vs. ḥet distinction)
 
 ## References

@@ -105,7 +105,7 @@ liturgically in the Passover seder's cup for Elijah.
 
 The Gospels braid these strands together and tie them to a single figure. **Mark
 1:2–3** opens by combining the Malachi messenger with the Isaiah voice and
-applying both to [John the Baptist](../john-the-baptist/); Matthew 3:1–3, Luke
+applying both to John the Baptist; Matthew 3:1–3, Luke
 3:1–6, and John 1:6–8, 19–28 repeat the identification. Jesus makes the link to
 Elijah explicit — "if ye will receive it, this is Elias, which was for to come"
 (Matthew 11:14) — and John caps the pattern with the line that states the
@@ -132,7 +132,7 @@ the cumulative forerunner of the Aries-to-Pisces transition — centuries of
 messianic anticipation that made a Piscean-age mission legible when it came. And
 within the Piscean age the pattern recurs in miniature in the **Bab** (Mirza Ali
 Muhammad Shirazi, 1819–1850), who declared himself in 1844 the forerunner of "He
-whom God shall make manifest," a figure the [Baha'i](../bahaullah/) tradition
+whom God shall make manifest," a figure the Baha'i tradition
 identifies with Baha'u'llah. The Bab is the one place where a forerunner is not an
 interpretive label applied afterward but a role the figure claimed for himself.
 
@@ -257,11 +257,7 @@ source states.
 
 - [Prophet](../prophet/)
 - [Raël](../rael/)
-- [John the Baptist](../john-the-baptist/)
 - [Elijah](../elijah/)
-- [The Bab](../bab/)
-- [Baha'u'llah](../bahaullah/)
-- [Joseph Smith](../joseph-smith/)
 - [Jesus](../jesus/)
 - [Moses](../moses/)
 - [Muhammad](../muhammad/)

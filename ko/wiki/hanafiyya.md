@@ -94,13 +94,11 @@ distinguished_from = "아부 하니파의 이름을 딴 후대 수니파 법학�
 
 ## 함께 보기
 
-- [아브라함](../abraham/) / [이브라힘](../ibrahim/)
+- [아브라함](../abraham/)
 - [무함마드](../muhammad/)
 - [페트라](../petra/)
 - [나바테아인](../nabataeans/)
-- [꾸란](../quran/)
-- [메카](../mecca/)
-- [아브라함 언약](../abrahamic-covenant/)
+- [꾸란](../../library/quran/)
 - [신들의 복수성](../plurality-of-gods/)
 - [엘로힘](../elohim/)
 - [영원자 평의회](../council-of-the-eternals/)

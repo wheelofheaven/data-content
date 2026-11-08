@@ -254,7 +254,7 @@ recoverable once the chronology is in hand.
 
 Finally, the framework keeps its distance from the conspiracy-theoretic material
 that has attached itself to 666 and to the paired
-[Mark of the Beast](../mark-of-the-beast/) — the successive identifications with
+Mark of the Beast — the successive identifications with
 barcodes, credit cards, RFID chips, vaccines, and digital-identity schemes. The
 corpus does not endorse those readings. It notes only that the Revelation
 imagery describes an identity-and-commerce infrastructure whose partial
@@ -277,7 +277,6 @@ the conspiratorial one.
 - [World Age](../world-age/)
 - [Zodiac](../zodiac/)
 - [Doubled Signature](../doubled-signature/)
-- [Mark of the Beast](../mark-of-the-beast/)
 - [Book of Revelation](../book-of-revelation/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Kabbalah](../kabbalah/)
@@ -290,7 +289,6 @@ the conspiratorial one.
 - [Message from the Designers](../message-from-the-designers/)
 - [Eden](../eden/)
 - [Planet of the Eternals](../elohim-home-planet/)
-- [Resurrection](../resurrection/)
 
 ## References
 

@@ -171,7 +171,6 @@ Wheel of Heaven 專案就是對這套框架的詳盡陳述——一種詮釋立�
 - [大使館](../embassy/)
 - [毛羅·比利諾](/wiki/mauro-biglino/)
 - [保羅·安東尼·沃利斯](/wiki/paul-wallis/)
-- [阿肯那頓](../akhenaten/)
 
 ## 參考文獻
 

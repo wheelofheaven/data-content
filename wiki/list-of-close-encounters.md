@@ -357,15 +357,8 @@ The catalogue surfaces several open questions of method and substance.
 - [List of megalithic sites](../list-of-megalithic-sites/)
 - [List of exegetic readings](../list-of-exegetic-readings/)
 - [List of prophets and religions](../list-of-prophets-and-religions/)
-- [Magonia](../magonia/)
 - [Ezekiel](../ezekiel/)
 - [Elijah](../elijah/)
-- [Akhenaton](../akhenaton/)
-- [Vimana](../vimana/)
-- [Cherubim](../cherubim/)
-- [Kavod](../kavod/)
-- [Jacques Vallée](../jacques-vallee/)
-- [J. Allen Hynek](../hynek/)
 - [Raëlism](../raelism/)
 
 ## Read more

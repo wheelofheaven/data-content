@@ -143,11 +143,11 @@ the property-and-inheritance dimension of the single Aquarian-age programme the
 New Commandments lay out.
 
 That programme is meant to be read whole. [Geniocracy](../geniocracy/) supplies
-its governance, [World Government](../world-government/) its coordination,
-[Demilitarization](../demilitarization/) its peace,
-[Science as Religion](../science-as-religion/) its cultural reorientation,
-[Telepathic Cultivation](../telepathy/) and the
-[Metaphysical Clarifications](../metaphysical-clarifications/) its cognitive and
+its governance, World Government its coordination,
+Demilitarization its peace,
+Science as Religion its cultural reorientation,
+Telepathic Cultivation and the
+Metaphysical Clarifications its cognitive and
 doctrinal ground; Humanitarianism supplies its property law. The commandments
 presuppose one another, and Humanitarianism in particular leans on two of them.
 It leans on Geniocracy, because a reform this long-range needs leaders able to
@@ -189,7 +189,7 @@ rather than as their equal. The resemblances are close enough to be worth naming
 the differences are real, and worth keeping.
 
 The scriptural anchor comes first, and is treated as more than parallel. The
-Hebrew [Jubilee](../jubilee/) of Leviticus 25 — the fiftieth-year "liberty
+Hebrew Jubilee of Leviticus 25 — the fiftieth-year "liberty
 throughout all the land," the return of every family to its holding, the
 principle that land belongs to Yahweh and is only leased to its tenants — is the
 text the doctrine cites directly. Mainstream biblical scholarship (Roland de
@@ -251,7 +251,7 @@ long-horizon investment it means to reward.
 
 The second is coordination. By the source's own admission the scheme cannot hold
 in one jurisdiction while wealth moves freely to another, which makes it hostage
-to [World Government](../world-government/) — itself a distant and contested
+to World Government — itself a distant and contested
 proposal. A reform that presupposes planetary political unity inherits every
 objection to that unity.
 
@@ -276,15 +276,9 @@ session.
 - [Hebrew Bible](../hebrew-bible/)
 - [Message from the Designers](../message-from-the-designers/)
 - [Geniocracy](../geniocracy/)
-- [World Government](../world-government/)
-- [Demilitarization](../demilitarization/)
-- [Science as Religion](../science-as-religion/)
-- [Telepathy](../telepathy/)
-- [Metaphysical Clarifications](../metaphysical-clarifications/)
 - [New Commandments](../new-commandments/)
 - [Paradism](../paradism/)
 - [Cyberparadism](../cyberparadism/)
-- [Jubilee](../jubilee/)
 - [Embassy](../embassy/)
 - [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Apocalypse](../apocalypse/)

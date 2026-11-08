@@ -171,7 +171,6 @@ Zwei vorgeschlagene Verankerungen des Namens verdienen Vorsicht. Die mitunter ge
 - [Botschaft](../embassy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](/wiki/paul-wallis/)
-- [Echnaton](../akhenaten/)
 
 ## Literatur
 

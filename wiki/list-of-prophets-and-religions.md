@@ -95,28 +95,28 @@ This catalogue is available as a downloadable dataset — the [Prophets & Religi
 | **[Raëlism](../raelism/)** | 1973–present | [Claude Vorilhon (Raël)](../rael/) | Direct first-person contact narrative; Elohim creation account; cosmic-chain doctrine; embassy project | Canonical |
 | Eckankar | 1965–present | Paul Twitchell | Soul-travel doctrine; eclectic syncretism drawing on Sant Mat | Unlikely |
 | Wicca | 1953–present | Gerald Gardner | Reconstructed nature religion; goddess theology; horned-god theology | Unlikely |
-| **[Caodism](../caodism/) (Đạo Cao Đài)** | 1921–present | Ngô Văn Chiêu | Syncretism of Eastern and Western religions; spirit-communication narratives; supreme-being doctrine | Highly likely |
+| **Caodism (Đạo Cao Đài)** | 1921–present | Ngô Văn Chiêu | Syncretism of Eastern and Western religions; spirit-communication narratives; supreme-being doctrine | Highly likely |
 | Thelema | 1900–present | Aleister Crowley | The *Book of the Law* (1904); Cairo working; Aiwass-contact narrative; "do what thou wilt" ethics | Highly unlikely |
 | Ōmoto (大本) | 1892–present | Nao Deguchi (出口 なお) | Spirit possession; transformation-of-the-world doctrine; influence on subsequent Japanese new religions | Highly likely |
 | Tenrikyō (天理教) | 1838–present | Nakayama Miki (中山 みき) | Direct contact with *Oyagami* (God the Parent); world-renewal doctrine; *Ofudesaki* scripture | Highly likely |
-| **[Mormonism](../mormonism/) (LDS)** | 1830–present | [Joseph Smith](../joseph-smith/) | Angel-Moroni contact narrative; tangible-gods theology; exoplanet content (*Kolob*); plurality-of-worlds doctrine | Canonical |
+| **Mormonism (LDS)** | 1830–present | Joseph Smith | Angel-Moroni contact narrative; tangible-gods theology; exoplanet content (*Kolob*); plurality-of-worlds doctrine | Canonical |
 | Bahá'í Faith | 1844–present | The Báb; Bahá'u'lláh; 'Abdu'l-Bahá | Progressive revelation doctrine; unity of religions; world-government doctrine | Highly likely |
-| **[Sikhism](../sikhism/)** | 15th c. CE–present | Guru Nanak | Monotheism; divine name; ten-guru lineage; *Guru Granth Sahib* | Likely |
-| **[Islam](../islam/)** | 7th c. CE–present | [Muhammad](../muhammad/) | Quranic revelation; Gabriel-contact narrative; eschatological doctrine; final-prophet doctrine | Canonical |
-| **[Christianity](../christianity/)** | 1st c. CE–present | [Jesus](../jesus/) of Nazareth; the apostles | Incarnation; resurrection; Second Coming doctrine; apocalyptic literature; Trinity doctrine | Canonical |
+| **Sikhism** | 15th c. CE–present | Guru Nanak | Monotheism; divine name; ten-guru lineage; *Guru Granth Sahib* | Likely |
+| **Islam** | 7th c. CE–present | [Muhammad](../muhammad/) | Quranic revelation; Gabriel-contact narrative; eschatological doctrine; final-prophet doctrine | Canonical |
+| **Christianity** | 1st c. CE–present | [Jesus](../jesus/) of Nazareth; the apostles | Incarnation; resurrection; Second Coming doctrine; apocalyptic literature; Trinity doctrine | Canonical |
 | Manichaeism | 3rd–14th c. CE | Mani | Dualism; light–darkness cosmology; world-religions-synthesis doctrine; once a world religion in its own right | Highly likely |
 | Mithraism | 1st c. BCE–4th c. CE | — | Roman mystery religion; Mithras as solar-bull-slayer; seven-grade initiation; possible Iranian roots | Likely |
 | Hermeticism | 1st c. BCE onward | (Hermes Trismegistus; pseudepigraphic) | *Corpus Hermeticum*; cosmic-correspondence doctrine; *Emerald Tablet*; foundational for Western esotericism | Likely |
 | Gnosticism (Sethian, Valentinian, etc.) | 1st–4th c. CE | Various | Demiurge theology; Elohim-as-archons readings; pneumatic anthropology; substantial textual corpus (Nag Hammadi) | Likely |
 | Eleusinian Mysteries | 14th c. BCE–4th c. CE | (mythologically: Demeter) | Death-and-rebirth initiation; agricultural cosmology; secrecy ethos | Likely |
 | Orphism | 6th c. BCE onward | (mythologically: Orpheus) | Soul–body dualism; reincarnation; cosmogonic poems; influence on Plato | Likely |
-| **[Shintō](../shinto/) (神道)** | 3rd c. BCE–present | — | Kami theology; ancestor veneration; sacred-place cosmology; imperial-ancestral myth | Likely |
-| **[Taoism](../taoism/)** | 4th c. BCE–present | Laozi (老子) | The *Tao Te Ching*; *Zhuangzi*; cosmic *Tao*; immortality traditions | Likely |
+| **Shintō (神道)** | 3rd c. BCE–present | — | Kami theology; ancestor veneration; sacred-place cosmology; imperial-ancestral myth | Likely |
+| **Taoism** | 4th c. BCE–present | Laozi (老子) | The *Tao Te Ching*; *Zhuangzi*; cosmic *Tao*; immortality traditions | Likely |
 | Confucianism | 5th c. BCE–present | Kongzi (Confucius, 孔子) | Ethical-political philosophy; ancestor veneration; ritual propriety; Five Classics | Likely |
-| **[Buddhism](../buddhism/)** | 5th c. BCE–present | [Siddhārtha Gautama (the Buddha)](../buddha/) | Four Noble Truths; Eightfold Path; *anatta*; *karma*; *nirvana*; vast textual canon | Canonical |
-| **[Judaism](../judaism/)** | 13th c. BCE–present | [Moses](../moses/); the Hebrew prophets; the patriarchs | Hebrew Bible; covenant theology; messianic doctrine; the [Elohim](../elohim/) themselves | Canonical |
+| **Buddhism** | 5th c. BCE–present | Siddhārtha Gautama (the Buddha) | Four Noble Truths; Eightfold Path; *anatta*; *karma*; *nirvana*; vast textual canon | Canonical |
+| **Judaism** | 13th c. BCE–present | [Moses](../moses/); the Hebrew prophets; the patriarchs | Hebrew Bible; covenant theology; messianic doctrine; the [Elohim](../elohim/) themselves | Canonical |
 | Zoroastrianism | 7th c. BCE–present | Zarathustra (Zoroaster) | Ahura Mazda; dualism (Ahura Mazda vs Angra Mainyu); eschatology; resurrection doctrine; influence on subsequent traditions | Highly likely |
-| **[Hinduism](../hinduism/)** | 15th c. BCE–present | — (Vedic *rishis*) | Vedas, Upanishads, Bhagavad Gita, Mahabharata, Ramayana; *atman*–*brahman*; *avatar* doctrine; cyclical cosmology | Highly likely |
+| **Hinduism** | 15th c. BCE–present | — (Vedic *rishis*) | Vedas, Upanishads, Bhagavad Gita, Mahabharata, Ramayana; *atman*–*brahman*; *avatar* doctrine; cyclical cosmology | Highly likely |
 | Vedic religion (pre-Hindu) | 15th c. BCE–6th c. BCE | — (Vedic *rishis*) | The four Vedas; *rishi*-contact narratives; soma rituals; Indo-Aryan religion | Highly likely |
 | Jainism | 9th c. BCE–present | Parshvanatha; Mahavira | Twenty-four *tirthankaras*; *ahimsa*; ascetic tradition; jiva–ajiva dualism | Highly likely |
 | Sabaean / Harranian tradition | 12th c. BCE–10th c. CE | Hermes / Idris / Enoch | Sabian astral religion; the Harranian Sabians; transmission of late antique pagan philosophy to Islamic philosophy | Highly likely |
@@ -194,7 +194,7 @@ The catalogue below lists the principal prophets, founders, and visionary figure
 | Mani | Manichaeism | 216–276 CE | First revelation at age 12; second at age 24 | Highly likely |
 | Laozi (老子) | Taoism | 6th c. BCE (traditional) | Authorship of *Tao Te Ching*; departure to the west | Likely |
 | Kongzi (Confucius) | Confucianism | 551–479 BCE | No contact narrative; teacher and ethical reformer | Likely |
-| **[Siddhārtha Gautama (the Buddha)](../buddha/)** | Buddhism | c. 563–483 BCE | Enlightenment under the Bodhi tree | Canonical |
+| **Siddhārtha Gautama (the Buddha)** | Buddhism | c. 563–483 BCE | Enlightenment under the Bodhi tree | Canonical |
 | Mahavira | Jainism | c. 599–527 BCE | Enlightenment after twelve years of asceticism | Highly likely |
 | Parshvanatha | Jainism (earlier *tirthankara*) | c. 8th c. BCE | Twenty-third of twenty-four *tirthankaras* | Highly likely |
 | Zarathustra (Zoroaster) | Zoroastrianism | c. 1500–500 BCE (dating contested) | Vision of Ahura Mazda; the Gathas | Highly likely |
@@ -222,21 +222,9 @@ Several open questions about the catalogue's scope and methodology deserve expli
 - [Raëlism](../raelism/)
 - [Elohim](../elohim/)
 - [Genesis](../genesis/)
-- [Christianity](../christianity/)
-- [Judaism](../judaism/)
-- [Islam](../islam/)
-- [Buddhism](../buddhism/)
-- [Hinduism](../hinduism/)
-- [Mormonism](../mormonism/)
-- [Sikhism](../sikhism/)
-- [Caodism](../caodism/)
-- [Taoism](../taoism/)
-- [Shinto](../shinto/)
 - [Jesus](../jesus/)
 - [Moses](../moses/)
 - [Muhammad](../muhammad/)
-- [Buddha](../buddha/)
-- [Joseph Smith](../joseph-smith/)
 - [Raël](../rael/)
 - [Apocalypse](../apocalypse/)
 - [Cosmic Chain](../cosmic-chain/)

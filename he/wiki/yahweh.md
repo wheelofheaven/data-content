@@ -336,12 +336,9 @@ principal_source = "*מסר מהמתכננים* (וורילון/ראל, 1974–7
 - [ישו](../jesus/)
 - [ראל](../rael/)
 - [*מסר מהמתכננים*](/wiki/message-from-the-designers/)
-- [שם המפורש](../tetragrammaton/)
 - [בראשית](../genesis/)
 - [מקרא](../bible/)
-- [ספר ההתגלות](../book-of-revelation/)
-- [אללה](../allah/)
-- [אל](../el/)
+- [ספר ההתגלות](../../library/revelation/)
 - [שרשרת קוסמית](../cosmic-chain/)
 
 ## רשימת מקורות

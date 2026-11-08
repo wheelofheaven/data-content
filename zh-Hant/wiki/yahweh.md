@@ -336,12 +336,9 @@ principal_source = "*來自設計者的訊息*(沃里勒翁/雷爾,1974–79),�
 - [耶穌](../jesus/)
 - [雷爾](../rael/)
 - [*來自設計者的訊息*](/wiki/message-from-the-designers/)
-- [四字神名](../tetragrammaton/)
 - [創世記](../genesis/)
 - [聖經](../bible/)
-- [啟示錄](../book-of-revelation/)
-- [阿拉](../allah/)
-- [厄勒](../el/)
+- [啟示錄](../../library/revelation/)
 - [宇宙鏈](../cosmic-chain/)
 
 ## 參考文獻

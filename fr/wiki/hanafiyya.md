@@ -94,13 +94,11 @@ Le `claim_type` global de l'entrée est `inferred` : le concept de *ḥanīf* et
 
 ## Voir aussi
 
-- [Abraham](../abraham/) / [Ibrahim](../ibrahim/)
+- [Abraham](../abraham/)
 - [Mahomet](../muhammad/)
 - [Petra](../petra/)
 - [Nabatéens](../nabataeans/)
-- [Le Coran](../quran/)
-- [La Mecque](../mecca/)
-- [Alliance abrahamique](../abrahamic-covenant/)
+- [Le Coran](../../library/quran/)
 - [Pluralité des dieux](../plurality-of-gods/)
 - [Élohim](../elohim/)
 - [Conseil des Éternels](../council-of-the-eternals/)

@@ -74,7 +74,7 @@ drawn explicitly from the Jubilee of Leviticus 25; the doctrine is offered as a
 third way that keeps individual reward (against Communism) while ending the
 intergenerational concentration of wealth (against Capitalism).
 
-**3. [World Government](../world-government/) — coordination.** A single
+**3. World Government — coordination.** A single
 planetary political authority, with one world currency and a common second
 language kept alongside local mother tongues, to handle the questions that can
 only be settled at the planetary scale. The proposal is not the erasure of
@@ -83,14 +83,14 @@ planetary problems; the corpus reads the founding of the United Nations in 1945
 as a first step toward it, and Isaiah's vision of "all nations flowing to the
 mountain of Yahweh's house" (Isaiah 2:2–4) as its prophetic anticipation.
 
-**4. [Demilitarization](../demilitarization/) — peace.** The end of national
+**4. Demilitarization — peace.** The end of national
 military service and the dismantling of national armed forces, with career
 soldiers repurposed as a global peace corps under the World Government. The
 source reads Isaiah's "swords into plowshares" (Isaiah 2:4) as the same
 instruction, and names France — as it moves to help unite Europe — as the
 country that might set the example by becoming the first without an army.
 
-**5. [Science as Religion](../science-as-religion/) — the religious dimension.**
+**5. Science as Religion — the religious dimension.**
 The reorientation of religious commitment toward scientific inquiry itself:
 *"Science should be your religion, for the Elohim created you scientifically."*
 The traditional supernatural cosmologies give way to a religious life whose
@@ -98,7 +98,7 @@ content is the pursuit of understanding and whose ethic is the use of that
 understanding for human benefit rather than destruction — the position the
 Raëlian tradition has taken in describing itself as "an atheist religion."
 
-**6. [Telepathic Cultivation](../telepathy/) — the cognitive dimension.** The
+**6. Telepathic Cultivation — the cognitive dimension.** The
 deliberate development, from early childhood, of a latent faculty of
 mind-to-mind communication: *"Telepathy enables us to communicate directly with
 our creators, the Elohim."* The source treats it as an inherited human capacity
@@ -106,7 +106,7 @@ that has atrophied for want of cultivation, and that a mature humanity would
 recover through education, meditation, and the encouragement of the relevant
 habits of mind.
 
-**7. [The Metaphysical Clarifications](../metaphysical-clarifications/) — the
+**7. The Metaphysical Clarifications — the
 doctrinal dimension.** A correction of inherited religious metaphysics: there is
 no immortal soul in the traditional sense — the principle of life is the genetic
 code, a physical structure — and no original sin, so the moral machinery built
@@ -121,7 +121,7 @@ The sevenfold list is a consolidation, and the corpus is candid about that.
 Commandments," sets out four sections: Geniocracy, Humanitarianism, World
 Government, and "Your Mission." The first three are structural directives
 addressed to human civilization at large. The fourth is different in kind — it
-is the [Raëlian Mission](../mission/) itself: the diffusion of the message, the
+is the Raëlian Mission itself: the diffusion of the message, the
 building of the [Embassy](../embassy/), and the development of the movement. It
 is an institutional task set apart from the commandments proper, and it is
 treated in its own entry.
@@ -187,7 +187,7 @@ commandment well requires progress across the others.
 
 **Its place in the wider program.** The New Commandments are the
 socio-political-cultural core of a larger Aquarian-age plan that also includes
-the [Mission](../mission/) and [Embassy](../embassy/) (the institutional task
+the Mission and [Embassy](../embassy/) (the institutional task
 set apart in 1974), the [Apocalypse](../apocalypse/) as the threshold the age
 must navigate, and the [Golden Age](../golden-age/) as the form of life that
 full implementation is meant to produce. {% claim(type="framework", id="woh-claim-0033") %}The related doctrines of
@@ -249,18 +249,11 @@ across centuries rather than a settled blueprint.
 - [Message from the Designers](../message-from-the-designers/)
 - [Geniocracy](../geniocracy/)
 - [Humanitarianism](../humanitarianism/)
-- [World Government](../world-government/)
-- [Demilitarization](../demilitarization/)
-- [Science as Religion](../science-as-religion/)
-- [Telepathy](../telepathy/)
-- [Metaphysical Clarifications](../metaphysical-clarifications/)
-- [Mission](../mission/)
 - [Embassy](../embassy/)
 - [Apocalypse](../apocalypse/)
 - [Golden Age](../golden-age/)
 - [Paradism](../paradism/)
 - [Cyberparadism](../cyberparadism/)
-- [Movement for Worldwide Geniocracy](../movement-for-worldwide-geniocracy/)
 - [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Age of Aries](../../timeline/age-of-aries/)
 - [Age of Pisces](../../timeline/age-of-pisces/)

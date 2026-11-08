@@ -245,7 +245,7 @@ It is most fully applied in the precessional age entries — [Age of Pisces](../
 
 ### The Jesus and Mary entries
 
-The Pisces-Virgo signature frames the [Jesus](../jesus/) and [Mary](../mary/) entries; the reading of Mary's virginity as preservation of the Virgo half is treated more fully in the Mary entry.
+The Pisces-Virgo signature frames the [Jesus](../jesus/) entry, and with it the reading of Mary's virginity as preservation of the Virgo half.
 
 ### The Apocalypse entry
 
@@ -349,7 +349,6 @@ The corpus does not reject the mainstream framework wholesale: cultural diffusio
 - [Cosmic Chain](../cosmic-chain/)
 - [Apocalypse](../apocalypse/)
 - [Jesus](../jesus/)
-- [Mary](../mary/)
 - [Moses](../moses/)
 - [Prophet](../prophet/)
 - [Genesis](../genesis/)

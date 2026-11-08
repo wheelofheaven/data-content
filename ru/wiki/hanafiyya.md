@@ -94,13 +94,11 @@ distinguished_from = "Более поздняя суннитская право�
 
 ## См. также
 
-- [Авраам](../abraham/) / [Ибрахим](../ibrahim/)
+- [Авраам](../abraham/)
 - [Мухаммед](../muhammad/)
 - [Петра](../petra/)
 - [Набатеи](../nabataeans/)
-- [Коран](../quran/)
-- [Мекка](../mecca/)
-- [Авраамический завет](../abrahamic-covenant/)
+- [Коран](../../library/quran/)
 - [Множественность богов](../plurality-of-gods/)
 - [Элохим](../elohim/)
 - [Совет Вечных](../council-of-the-eternals/)

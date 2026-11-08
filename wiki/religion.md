@@ -273,7 +273,6 @@ as adversaries to be dismissed.
 - [Moses](../moses/)
 - [Jesus](../jesus/)
 - [Muhammad](../muhammad/)
-- [Buddha](../buddha/)
 - [Monotheism Is the Wrong Question](/articles/monotheism-is-the-wrong-question/)
 
 ## References

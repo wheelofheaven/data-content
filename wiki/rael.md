@@ -181,7 +181,7 @@ The primary-source material on Raël is substantial and contemporary, comprising
 
 The principal autobiographical material is preserved in *Extra-Terrestrials Took Me to Their Planet* (1975/76), particularly in the opening section "My Life Until the First Encounter."{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Extra-Terrestrials Took Me to Their Planet* (1976) — 'My Life Until the First Encounter' autobiographical section") }}
 
-**Childhood and family background**. Vorilhon was born in Vichy, France on September 30, 1946 — the same year the source identifies as "the first year of the new era," with the broader 1945-1946 cluster of events (treated more fully in the [Apocalypse](../apocalypse/) and [Atomic Threshold](../atomic-threshold/) entries) marking the Aquarian-age opening. The source treats this birth date as not coincidental: "It is not by chance that you were born in 1946."{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — Yahweh's framing of Vorilhon's 1946 birth as Aquarian-age-opening") }} The Aquarian-age prophet had to be born at the age's beginning, positioned to receive the alliance's contact at the specific point in his adult life when the contact was scheduled to occur.
+**Childhood and family background**. Vorilhon was born in Vichy, France on September 30, 1946 — the same year the source identifies as "the first year of the new era," with the broader 1945-1946 cluster of events (treated more fully in the [Apocalypse](../apocalypse/) entry) marking the Aquarian-age opening. The source treats this birth date as not coincidental: "It is not by chance that you were born in 1946."{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — Yahweh's framing of Vorilhon's 1946 birth as Aquarian-age-opening") }} The Aquarian-age prophet had to be born at the age's beginning, positioned to receive the alliance's contact at the specific point in his adult life when the contact was scheduled to occur.
 
 **Childhood UFO experience**. Vorilhon's autobiographical material includes a childhood UFO experience over Ambert (a town near Clermont-Ferrand) — a prefigurement of the subsequent direct contact, in the source's framing.
 
@@ -555,11 +555,8 @@ The mainstream scholarly explanation — which generally treats Raël as one fig
 - [Jesus](../jesus/)
 - [Moses](../moses/)
 - [Muhammad](../muhammad/)
-- [Buddha](../buddha/)
-- [Mary](../mary/)
 - [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Age of Pisces](../../timeline/age-of-pisces/)
-- [Atomic Threshold](../atomic-threshold/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
 - [Paul Anthony Wallis](../paul-wallis/)

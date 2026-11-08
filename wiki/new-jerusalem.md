@@ -226,10 +226,8 @@ honest that the addition rests on the canon rather than on academic agreement.
 - [Cosmic Chain](../cosmic-chain/)
 - [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Age of Pisces](../../timeline/age-of-pisces/)
-- [Mark of the Beast](../mark-of-the-beast/)
 - [Book of Revelation](../book-of-revelation/)
 - [Hebrew Bible](../hebrew-bible/)
-- [Founding of Israel](../founding-of-israel/)
 - [Yahweh](../yahweh/)
 - [Elohim](../elohim/)
 - [Raël](../rael/)
@@ -237,9 +235,7 @@ honest that the addition rests on the canon rather than on academic agreement.
 - [Message from the Designers](../message-from-the-designers/)
 - [Jesus](../jesus/)
 - [Moses](../moses/)
-- [Solomon](../solomon/)
 - [Ezekiel](../ezekiel/)
-- [Isaiah](../isaiah/)
 - [Eden](../eden/)
 
 ## References

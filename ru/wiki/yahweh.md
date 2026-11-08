@@ -336,12 +336,9 @@ principal_source = "*Послание от Создателей* (Ворильо
 - [Иисус](../jesus/)
 - [Раэль](../rael/)
 - [*Послание от Создателей*](/wiki/message-from-the-designers/)
-- [Тетраграмматон](../tetragrammaton/)
 - [Бытие](../genesis/)
 - [Библия](../bible/)
-- [Книга Откровения](../book-of-revelation/)
-- [Аллах](../allah/)
-- [Эль](../el/)
+- [Книга Откровения](../../library/revelation/)
 - [Космическая цепь](../cosmic-chain/)
 
 ## Литература

@@ -342,11 +342,11 @@ The Moses entry connects to a substantial number of other corpus entries, more t
 
 **The Menorah.** The Menorah's seven-branched configuration is read in the dedicated [Menorah](../menorah/) entry as preserving operational memory of the seven Elohim bases on elevated terrain (per the Vorilhon source material); the Moses entry establishes the Menorah's origin within the Tabernacle specifications.
 
-**Sinai / Horeb.** The mountain is read in the dedicated [Sinai](../sinai/) entry as one of the principal operational contact sites of the late Age of Aries, with the Moses Sinai theophany and Elijah's subsequent Horeb theophany (1 Kings 19, treated in the [Elijah](../elijah/) entry) as the two principal canonical contact events at the location.
+**Sinai / Horeb.** The mountain is read as one of the principal operational contact sites of the late Age of Aries, with the Moses Sinai theophany and Elijah's subsequent Horeb theophany (1 Kings 19, treated in the [Elijah](../elijah/) entry) as the two principal canonical contact events at the location.
 
-**Aaron** and the **Aaronic priesthood**. Aaron's role as Moses's brother and as the founder of the Israelite priesthood (developed in the dedicated [Aaron](../aaron/) entry) connects to the Moses narrative through the joint commissioning and the subsequent ritual-priestly structure established at Sinai.
+**Aaron** and the **Aaronic priesthood**. Aaron's role as Moses's brother and as the founder of the Israelite priesthood connects to the Moses narrative through the joint commissioning and the subsequent ritual-priestly structure established at Sinai.
 
-**Joshua** as Moses's successor. The dedicated [Joshua](../joshua/) entry develops the Joshua narrative; the Moses entry establishes the succession context (Numbers 27:18–23 and Deuteronomy 34:9), with Joshua subsequently leading the Israelite entry into Canaan and the conquest period.
+**Joshua** as Moses's successor. The Moses entry establishes the succession context (Numbers 27:18–23 and Deuteronomy 34:9), with Joshua subsequently leading the Israelite entry into Canaan and the conquest period.
 
 **Elijah** and the Moses-Elijah parallel. The Elijah biography (treated in the [Elijah](../elijah/) entry) deliberately echoes the Moses pattern — the 40-day journey to Horeb, the theophany at the same mountain, the cave location, the angel-feeding pattern. The framework reads the deliberate echoing as preserving operational continuity between the Mosaic and Elijah periods.
 
@@ -358,7 +358,7 @@ The Moses entry connects to a substantial number of other corpus entries, more t
 
 **The translation-pattern.** Moses's death-and-unmarked-grave joins the Enoch translation (Genesis 5:24), the Elijah translation (2 Kings 2:11), the post-resurrection ascension of Jesus, and the Isrāʾ wa-l-Miʿrāj of Muhammad as the principal documented translation/ascent events in the broader prophetic record.
 
-**The Tabernacle and Temple tradition.** The dedicated entries on the [Tabernacle](../tabernacle/) and the [Temple of Jerusalem](../temple/) develop the subsequent operational installations that continue the Sinai-period institutional pattern.
+**The Tabernacle and Temple tradition.** The Tabernacle and the Temple of Jerusalem are the subsequent operational installations that continue the Sinai-period institutional pattern.
 
 **Sodom and Gomorrah.** The Vorilhon source material's framing of the Mosaic period as a re-engagement after the destruction of "centres of progress" connects the Moses entry to the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry's operational reading of the earlier destruction events.
 
@@ -376,31 +376,14 @@ The Moses entry surfaces several open questions for the framework's broader inte
 
 ## See also
 
-- [Aaron](../aaron/)
-- [Miriam](../miriam/)
-- [Jethro](../jethro/) / [Reuel](../reuel/)
-- [Zipporah](../zipporah/)
-- [Joshua](../joshua/)
-- [Pharaoh](../pharaoh/)
 - [Yahweh](../yahweh/)
 - [Elohim](../elohim/)
-- [Sinai](../sinai/) / [Horeb](../horeb/)
-- [Mount Nebo](../mount-nebo/)
-- [Burning Bush](../burning-bush/)
-- [The Tabernacle](../tabernacle/)
 - [Ark of the Covenant](../ark-of-the-covenant/)
 - [Menorah](../menorah/)
-- [Bronze Serpent](../bronze-serpent/) / [Nehushtan](../nehushtan/)
-- [Pillar of Cloud and Fire](../pillar-of-cloud-and-fire/)
-- [Manna](../manna/)
-- [Passover](../passover/)
-- [Ten Commandments](../ten-commandments/) / [Decalogue](../decalogue/)
-- [The Torah](../torah/)
 - [Sodom and Gomorrah](../sodom-and-gomorrah/)
 - [Abraham](../abraham/)
 - [Elijah](../elijah/)
 - [Ezekiel](../ezekiel/)
-- [Enoch](../enoch/)
 - [Jesus](../jesus/)
 - [Muhammad](../muhammad/)
 - [Council of the Eternals](../council-of-the-eternals/)

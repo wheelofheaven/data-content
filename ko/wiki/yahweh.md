@@ -336,12 +336,9 @@ Wheel of Heaven 프레임워크 내부에서 야훼의 구체적 역할은 세 �
 - [예수](../jesus/)
 - [라엘](../rael/)
 - [*설계자들로부터의 메시지*](/wiki/message-from-the-designers/)
-- [테트라그람마톤](../tetragrammaton/)
 - [창세기](../genesis/)
 - [성경](../bible/)
-- [요한계시록](../book-of-revelation/)
-- [알라](../allah/)
-- [엘](../el/)
+- [요한계시록](../../library/revelation/)
 - [우주적 사슬](../cosmic-chain/)
 
 ## 참고문헌

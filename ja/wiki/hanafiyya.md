@@ -94,13 +94,11 @@ distinguished_from = "アブー・ハニーファにちなんで名づけられ�
 
 ## 関連項目
 
-- [アブラハム](../abraham/) / [イブラーヒーム](../ibrahim/)
+- [アブラハム](../abraham/)
 - [ムハンマド](../muhammad/)
 - [ペトラ](../petra/)
 - [ナバテア人](../nabataeans/)
-- [クルアーン](../quran/)
-- [メッカ](../mecca/)
-- [アブラハムの契約](../abrahamic-covenant/)
+- [クルアーン](../../library/quran/)
 - [神々の複数性](../plurality-of-gods/)
 - [エロヒム](../elohim/)
 - [永遠者の評議会](../council-of-the-eternals/)

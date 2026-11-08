@@ -171,7 +171,6 @@ Wheel of Heaven 프로젝트는 이 틀을 길게 서술한 것, 곧 하나의 �
 - [대사관](../embassy/)
 - [마우로 비글리노](/wiki/mauro-biglino/)
 - [폴 앤서니 월리스](/wiki/paul-wallis/)
-- [아크나톤](../akhenaten/)
 
 ## 참고 문헌
 

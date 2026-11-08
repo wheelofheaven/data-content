@@ -131,11 +131,11 @@ Yahweh delivered Geniocracy as the first of seven
 [New Commandments](../new-commandments/) — the Aquarian-age program the
 [Elohim](../elohim/) proposed for humanity's long-term development, alongside
 [Humanitarianism](../humanitarianism/) (property and inheritance),
-[World Government](../world-government/),
-[Demilitarization](../demilitarization/),
-[Science as Religion](../science-as-religion/),
-[Telepathic Cultivation](../telepathy/), and the
-[Metaphysical Clarifications](../metaphysical-clarifications/). Within that
+World Government,
+Demilitarization,
+Science as Religion,
+Telepathic Cultivation, and the
+Metaphysical Clarifications. Within that
 program Geniocracy is foundational: the other reforms presuppose leaders able to
 grasp their long-range logic. The source makes the dependency explicit in the
 Humanitarianism section — *"If geniuses are admitted to power, they will
@@ -164,7 +164,7 @@ tomorrow. It is what human government is to evolve toward across the
 [Age of Aquarius](../../timeline/age-of-aquarius/) — as intelligence measurement
 grows more reliable and the cultural ground is prepared — not a system to be
 imposed on present democracies. Its full realisation would depend on validated
-measurement, on coordinated [World Government](../world-government/)
+measurement, on coordinated World Government
 implementation, and on a long shift in how societies think about authority and
 participation.
 
@@ -245,13 +245,7 @@ target rather than an immediate reform.
 - [Hebrew Bible](../hebrew-bible/)
 - [Message from the Designers](../message-from-the-designers/)
 - [Humanitarianism](../humanitarianism/)
-- [World Government](../world-government/)
-- [Demilitarization](../demilitarization/)
-- [Science as Religion](../science-as-religion/)
-- [Telepathy](../telepathy/)
-- [Metaphysical Clarifications](../metaphysical-clarifications/)
 - [New Commandments](../new-commandments/)
-- [Movement for Worldwide Geniocracy](../movement-for-worldwide-geniocracy/)
 - [Paradism](../paradism/)
 - [Cyberparadism](../cyberparadism/)
 - [Embassy](../embassy/)

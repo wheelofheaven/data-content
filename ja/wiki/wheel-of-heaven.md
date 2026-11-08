@@ -171,7 +171,6 @@ Wheel of Heaven プロジェクトは、枠組みを詳しく述べたもの、�
 - [大使館](../embassy/)
 - [マウロ・ビリーノ](/wiki/mauro-biglino/)
 - [ポール・アンソニー・ウォリス](/wiki/paul-wallis/)
-- [アクエンアテン](../akhenaten/)
 
 ## 参考文献
 

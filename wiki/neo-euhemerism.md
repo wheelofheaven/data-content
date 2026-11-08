@@ -257,7 +257,6 @@ euhemeristic method should not be discarded along with the field's excesses.
 - [Great Flood](../great-flood/)
 - [Sumerian King List](../sumerian-king-list/)
 - [Anunnaki](../anunnaki/)
-- [Quetzalcoatl](../quetzalcoatl/)
 - [Mytheme](../mytheme/)
 - [Hamlet's Mill](../hamlets-mill/)
 - [Doubled Signature](../doubled-signature/)

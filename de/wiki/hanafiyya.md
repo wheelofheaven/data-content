@@ -94,13 +94,11 @@ Der `claim_type` des Eintrags insgesamt ist `inferred`: Das *ḥanīf*-Konzept u
 
 ## Siehe auch
 
-- [Abraham](../abraham/) / [Ibrahim](../ibrahim/)
+- [Abraham](../abraham/)
 - [Mohammed](../muhammad/)
 - [Petra](../petra/)
 - [Nabatäer](../nabataeans/)
-- [Der Koran](../quran/)
-- [Mekka](../mecca/)
-- [Abrahamitischer Bund](../abrahamic-covenant/)
+- [Der Koran](../../library/quran/)
 - [Pluralität der Götter](../plurality-of-gods/)
 - [Elohim](../elohim/)
 - [Rat der Ewigen](../council-of-the-eternals/)

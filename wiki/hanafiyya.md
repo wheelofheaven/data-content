@@ -104,13 +104,11 @@ The entry's overall `claim_type` is `inferred`: the *ḥanīf* concept and the *
 
 ## See also
 
-- [Abraham](../abraham/) / [Ibrahim](../ibrahim/)
+- [Abraham](../abraham/)
 - [Muhammad](../muhammad/)
 - [Petra](../petra/)
 - [Nabataeans](../nabataeans/)
 - [The Qur'an](../quran/)
-- [Mecca](../mecca/)
-- [Abrahamic Covenant](../abrahamic-covenant/)
 - [Plurality of Gods](../plurality-of-gods/)
 - [Monotheism](../monotheism/)
 - [Idolatry](../idolatry/)

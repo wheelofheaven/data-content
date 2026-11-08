@@ -183,7 +183,6 @@ Posthumous treatments of Dhorme's archives include:
 - [Neo-euhemerism](../neo-euhemerism/) (project topic page)
 - [List of exegetic readings](../list-of-exegetic-readings/)
 - [List of etymological readings](../list-of-etymological-readings/)
-- [Bible de Jérusalem](../bible-de-jerusalem/)
 
 ## External links
 

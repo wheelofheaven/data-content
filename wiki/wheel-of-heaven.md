@@ -307,7 +307,6 @@ any single tradition's own reckoning.{{ footnote(id="3") }}
 - [Embassy](../embassy/)
 - [Mauro Biglino](../mauro-biglino/)
 - [Paul Anthony Wallis](../paul-wallis/)
-- [Akhenaten](../akhenaten/)
 
 ## References
 

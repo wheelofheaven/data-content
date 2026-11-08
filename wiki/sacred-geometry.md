@@ -132,7 +132,7 @@ respect for Holocaust victims; the original remains in use where the swastika
 keeps its pre-Nazi meaning.) These are claims stated directly, as canon.
 
 **Proportion as transmitted technique.** The framework reads the precise
-specifications of the [Tabernacle](../tabernacle/) and the
+specifications of the Tabernacle and the
 [Ark of the Covenant](../ark-of-the-covenant/) (Exodus 25–31) not as ornamental
 symbolism but as technical instructions handed to the Israelite leadership by the
 creators — gold-plated acacia chests and exact dimensions read as functional
@@ -224,7 +224,6 @@ offered in that same spirit, as a labelled hypothesis rather than a proof.
 - [Tree of Life](../tree-of-life/)
 - [Number of Man](../number-of-man/)
 - [Ark of the Covenant](../ark-of-the-covenant/)
-- [Tabernacle](../tabernacle/)
 - [Third Temple](../third-temple/)
 - [Embassy](../embassy/)
 - [New Jerusalem](../new-jerusalem/)

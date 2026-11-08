@@ -94,13 +94,11 @@ distinguished_from = "אסכולת ההלכה הסונית המאוחרת הקר
 
 ## ראו גם
 
-- [אברהם](../abraham/) / [איברהים](../ibrahim/)
+- [אברהם](../abraham/)
 - [מוחמד](../muhammad/)
 - [פטרה](../petra/)
 - [הנבטים](../nabataeans/)
-- [הקוראן](../quran/)
-- [מכה](../mecca/)
-- [הברית האברהמית](../abrahamic-covenant/)
+- [הקוראן](../../library/quran/)
 - [ריבוי האלים](../plurality-of-gods/)
 - [אלוהים](../elohim/)
 - [מועצת הנצחיים](../council-of-the-eternals/)

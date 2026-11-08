@@ -336,12 +336,9 @@ Les rapports entre Yahvé et d'autres figures divines du Proche-Orient ancien so
 - [Jésus](../jesus/)
 - [Raël](../rael/)
 - [*Le Message donné par les extra-terrestres*](/wiki/message-from-the-designers/)
-- [Tétragramme](../tetragrammaton/)
 - [Genèse](../genesis/)
 - [Bible](../bible/)
-- [Livre de l'Apocalypse](../book-of-revelation/)
-- [Allah](../allah/)
-- [El](../el/)
+- [Livre de l'Apocalypse](../../library/revelation/)
 - [Chaîne cosmique](../cosmic-chain/)
 
 ## Références

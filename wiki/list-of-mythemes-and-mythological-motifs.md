@@ -220,7 +220,6 @@ The catalogue surfaces several open methodological and interpretive questions.
 ## See also
 
 - [Mytheme](../mytheme/)
-- [Mythology](../mythology/)
 - [Religion](../religion/)
 - [List of prophets and religions](../list-of-prophets-and-religions/)
 - [Genesis](../genesis/)

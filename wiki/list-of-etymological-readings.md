@@ -255,7 +255,6 @@ The catalogue surfaces several open questions of method and substance.
 - [Neo-euhemerism](../neo-euhemerism/) (project topic page)
 - [Bible](../bible/)
 - [Hebrew](../hebrew/)
-- [Greek](../greek/)
 - [Genesis](../genesis/)
 - [Elohim](../elohim/)
 - [Yahweh](../yahweh/)

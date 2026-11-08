@@ -192,8 +192,7 @@ covenant a re-formation of the same Alliance for a new age:
 
 - **The Abrahamic Covenant** (Genesis 15, 17) narrows the arrangement to a
   single lineage, with the promises of land and innumerable descendants and the
-  sign of circumcision, treated in the [Abrahamic Covenant](../abrahamic-covenant/)
-  entry.
+  sign of circumcision.
 - **The Mosaic Covenant** (Exodus 19–24) reformulates it for the Israelite
   people at Sinai, with the Decalogue and the covenant code as its detailed
   terms.
@@ -280,11 +279,7 @@ framework's reading is offered alongside it rather than in its place.
 - [Hebrew Bible](../hebrew-bible/)
 - [Genesis](../genesis/)
 - [Abraham](../abraham/)
-- [Abrahamic Covenant](../abrahamic-covenant/)
 - [Moses](../moses/)
-- [Mosaic Covenant](../mosaic-covenant/)
-- [Davidic Covenant](../davidic-covenant/)
-- [New Covenant](../new-covenant/)
 - [New Commandments](../new-commandments/)
 - [Embassy](../embassy/)
 - [Raël](../rael/)

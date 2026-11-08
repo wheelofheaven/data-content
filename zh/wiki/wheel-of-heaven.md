@@ -171,7 +171,6 @@ Wheel of Heaven 项目是对这一框架的详尽阐述——一种诠释立场�
 - [大使馆](../embassy/)
 - [毛罗·比利诺](/wiki/mauro-biglino/)
 - [保罗·安东尼·沃利斯](/wiki/paul-wallis/)
-- [阿肯那顿](../akhenaten/)
 
 ## 参考文献
 

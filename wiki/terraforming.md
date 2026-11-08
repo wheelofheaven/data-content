@@ -162,7 +162,7 @@ Earlier paraterraforming concepts include the "worldhouse" approach (proposed by
 
 The pan-tropic alternative — engineering the organisms rather than the environment — has gained substantial prominence with the development of synthetic-biology and synthetic-genomics methods. Rather than terraforming Mars to support unmodified Earth life, pan-tropic engineering would produce organisms (terrestrial in genetic ancestry but substantially modified) suited to Mars's native conditions. The approach addresses several of the difficulties of classical terraforming: the engineering scale is biological rather than planetary, the timescales are decades rather than millennia, and the existing planetary conditions are preserved rather than transformed.
 
-The pan-tropic literature has developed in parallel with the broader synthetic-biology literature and is treated more fully in the [xenobiology](../xenobiology/) entry, where the relationship between synthetic-biology methods and the design of organisms for non-terrestrial environments is developed in detail.
+The pan-tropic literature has developed in parallel with the broader synthetic-biology literature and is treated more fully in the [pantropy](../pantropy/) and [synthetic biology](../synthetic-biology/) entries.
 
 ### Shell worlds and other speculative approaches
 
@@ -292,7 +292,6 @@ Within the specific Sendy–Raëlian interpretive tradition, the framework's rea
 - [Life engineering](../life-engineering/)
 - [Synthetic biology](../synthetic-biology/)
 - [Synthetic genomics](../synthetic-genomics/)
-- [Xenobiology](../xenobiology/)
 - [Elohim](../elohim/)
 - [Age of Capricorn](../../timeline/age-of-capricorn/)
 - [Age of Sagittarius](../../timeline/age-of-sagittarius/)

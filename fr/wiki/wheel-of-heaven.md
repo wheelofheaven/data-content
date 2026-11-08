@@ -324,7 +324,6 @@ tiré du décompte propre à une tradition particulière.{{ footnote(id="3") }}
 - [Ambassade](../embassy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](/wiki/paul-wallis/)
-- [Akhenaton](../akhenaten/)
 
 ## Références
 

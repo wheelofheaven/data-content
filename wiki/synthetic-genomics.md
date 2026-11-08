@@ -219,7 +219,7 @@ The construction of organisms engineered for survival under non-terrestrial cond
 
 The construction of multicellular organisms from designed genomes — the major remaining frontier of the field — would, if achieved, transform what synthetic genomics can do. The current state of the discipline operates almost entirely at the single-cell level; the transition to designed multicellular life is one of the field's standing aspirations.
 
-The construction of organisms with completely novel biochemistries — the integration of xenobiological components into whole-genome synthesis — is the convergence point between synthetic genomics and [xenobiology](../xenobiology/). Several xenobiology programmes have begun to construct genomes incorporating unnatural base pairs or recoded codons; the eventual prospect of complete genomes built on xenobiological substrates is a longer-term research aspiration.
+The construction of organisms with completely novel biochemistries — the integration of xenobiological components into whole-genome synthesis — is the convergence point between synthetic genomics and xenobiology. Several xenobiology programmes have begun to construct genomes incorporating unnatural base pairs or recoded codons; the eventual prospect of complete genomes built on xenobiological substrates is a longer-term research aspiration.
 
 ## Limits and open questions
 
@@ -308,7 +308,6 @@ Within the specific Sendy–Raëlian interpretive tradition that the corpus read
 - [Life engineering](../life-engineering/)
 - [Synthetic biology](../synthetic-biology/)
 - [Genetic engineering](../genetic-engineering/)
-- [Xenobiology](../xenobiology/)
 - [Genesis](../genesis/)
 - [Elohim](../elohim/)
 - [Tree of Life](../tree-of-life/)

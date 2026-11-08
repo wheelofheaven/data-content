@@ -561,7 +561,7 @@ The corpus does not reject the whole mainstream account. Cultural diffusion did 
 - [Raëlism](../raelism/)
 - [Council of the Eternals](../council-of-the-eternals/)
 - [Tree of Life](../tree-of-life/)
-- [Raëlian Symbol of Infinity](../raelian-symbol/)
+- [Raëlian Symbol of Infinity](../raelian-symbol-of-infinity/)
 - [Star of David](../star-of-david/)
 - [Swastika](../swastika/)
 - [Jean Sendy](../jean-sendy/)

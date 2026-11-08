@@ -94,13 +94,11 @@ distinguished_from = "以艾布·哈尼法命名的後世遜尼派法學學派(�
 
 ## 參見
 
-- [亞伯拉罕](../abraham/) / [易卜拉欣](../ibrahim/)
+- [亞伯拉罕](../abraham/)
 - [穆罕默德](../muhammad/)
 - [佩特拉](../petra/)
 - [納巴泰人](../nabataeans/)
-- [古蘭經](../quran/)
-- [麥加](../mecca/)
-- [亞伯拉罕之約](../abrahamic-covenant/)
+- [古蘭經](../../library/quran/)
 - [諸神的複數性](../plurality-of-gods/)
 - [耶洛因](../elohim/)
 - [永恆者議會](../council-of-the-eternals/)

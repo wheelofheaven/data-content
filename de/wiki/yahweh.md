@@ -336,12 +336,9 @@ Die Beziehungen zwischen Jahwe und anderen altorientalischen göttlichen Figuren
 - [Jesus](../jesus/)
 - [Raël](../rael/)
 - [*Botschaft der Designer*](/wiki/message-from-the-designers/)
-- [Tetragrammaton](../tetragrammaton/)
 - [Genesis](../genesis/)
 - [Bibel](../bible/)
-- [Buch der Offenbarung](../book-of-revelation/)
-- [Allah](../allah/)
-- [El](../el/)
+- [Buch der Offenbarung](../../library/revelation/)
 - [Kosmische Kette](../cosmic-chain/)
 
 ## Referenzen

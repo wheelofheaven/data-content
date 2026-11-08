@@ -201,7 +201,6 @@ The relevance of xenobiology to questions of biology beyond Earth is direct. If 
 
 The framework's interest in xenobiology is less direct than its interest in synthetic genomics, since the source material does not describe the Elohim as using non-standard biochemistry. But the field's broader significance — establishing that the molecular substrate of life on Earth is one possibility among many — is relevant to the framework's reading of the cosmic chain. If creator civilisations exist that have produced multiple humanities on multiple worlds, the question of whether those humanities share Earth's molecular biology or differ in their basic chemistry is one that xenobiology is uniquely positioned to inform.
 
-The dedicated treatment lives in the [Xenobiology](../xenobiology/) entry.
 
 ## Adjacent and supporting fields
 
@@ -363,7 +362,6 @@ The framework's reading is consistent with the direction of Ball's argument. The
 - [Genetic engineering](../genetic-engineering/)
 - [Synthetic biology](../synthetic-biology/)
 - [Synthetic genomics](../synthetic-genomics/)
-- [Xenobiology](../xenobiology/)
 - [Elohim](../elohim/)
 - [Tree of Life](../tree-of-life/)
 - [Age of Aquarius](../../timeline/age-of-aquarius/)
