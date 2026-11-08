@@ -1,6 +1,6 @@
 +++
 title = "合成生物学"
-description = "合成生物学是生命工程的一个分支,致力于设计和组装全新的或经过重新设计的生物组件。Wheel of Heaven 文集将其读作向厄罗欣式生命合成精通汇聚的进路。"
+description = "合成生物学是生命工程的一个分支,致力于设计和组装全新的或经过重新设计的生物组件。Wheel of Heaven 文集将其读作向耶洛因式生命合成精通汇聚的进路。"
 template = "wiki-page.html"
 toc = true
 

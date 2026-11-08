@@ -1,6 +1,6 @@
 +++
 title = "挪亞"
-description = "挪亞(希伯來語:נֹחַ)是大洪水的族長,其方舟使各生命血系得以儲存。在 Wheel of Heaven 文集中,他被讀作在水文重置過程中按厄羅欣直接指示行動的生物技術操作者。"
+description = "挪亞(希伯來語:נֹחַ)是大洪水的族長,其方舟使各生命血系得以儲存。在 Wheel of Heaven 文集中,他被讀作在水文重置過程中按耶洛因直接指示行動的生物技術操作者。"
 template = "wiki-page.html"
 toc = true
 

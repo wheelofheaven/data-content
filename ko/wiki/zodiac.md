@@ -1,6 +1,6 @@
 +++
-title = "황도 십이궁"
-description = "황도 십이궁은 세차 운동의 진행에 따라 봄 분점이 이동해 가는 열두 별자리로 이루어진 천상의 띠이다. Wheel of Heaven 코퍼스에서 그것은 대년의 문자판을 이루고, 세계의 시대의 참조 격자가 된다."
+title = "황도대"
+description = "황도대은 세차운동의 진행에 따라 봄 분점이 이동해 가는 열두 별자리로 이루어진 천상의 띠이다. Wheel of Heaven 코퍼스에서 그것은 대년의 문자판을 이루고, 세계의 시대의 참조 격자가 된다."
 template = "wiki-page.html"
 toc = true
 

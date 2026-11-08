@@ -1,6 +1,6 @@
 +++
 title = "宗教"
-description = "宗教在 Wheel of Heaven 文集中同時被讀作長期儲存厄羅欣記憶的機制與傳遞過程中累積起來的扭曲層次。本文集討論其檔案功能,但不與任何特定宗派體系自我同一化。"
+description = "宗教在 Wheel of Heaven 文集中同時被讀作長期儲存耶洛因記憶的機制與傳遞過程中累積起來的扭曲層次。本文集討論其檔案功能,但不與任何特定宗派體系自我同一化。"
 template = "wiki-page.html"
 toc = true
 

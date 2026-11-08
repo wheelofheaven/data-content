@@ -1,6 +1,6 @@
 +++
 title = "挪亚之约"
-description = "挪亚之约在圣经传统中是大洪水之后厄罗欣与挪亚之间订立的协约,保证洪水后世界的生态稳定。Wheel of Heaven 文集将其读作洪水后时代厄罗欣与人类之间第一个稳定的互动协议。"
+description = "挪亚之约在圣经传统中是大洪水之后耶洛因与挪亚之间订立的协约,保证洪水后世界的生态稳定。Wheel of Heaven 文集将其读作洪水后时代耶洛因与人类之间第一个稳定的互动协议。"
 template = "wiki-page.html"
 toc = true
 

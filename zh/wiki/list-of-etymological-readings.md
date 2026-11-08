@@ -1,6 +1,6 @@
 +++
 title = "词源学阅读清单"
-description = "为 Wheel of Heaven 文集整理的、本文集关键术语(主要为希伯来语与希腊语)的词源学再阅读清单,衔接惯用翻译、文献学词根与厄罗欣式阐释。"
+description = "为 Wheel of Heaven 文集整理的、本文集关键术语(主要为希伯来语与希腊语)的词源学再阅读清单,衔接惯用翻译、文献学词根与耶洛因式阐释。"
 template = "wiki-page.html"
 toc = true
 

@@ -13,7 +13,7 @@ category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 summary = "Jean Sendy (1910–1978) — in Russland geborener Pariser, Kriegskorrespondent, Übersetzer von Raymond Chandler, Amateur-Tischler, monokeltragender Dandy der Avantgarde der 1930er Jahre — veröffentlichte 1963 die erste fertige Formulierung der Lesart, in der dieses Projekt lebt: die Hebräische Bibel, beim Wort genommen, berichtet vom Aufenthalt pluraler, physischer, sterblicher Elohim auf der Erde. Dann tat er etwas, das niemand sonst in der Ahnenreihe je zuvor oder danach getan hat: Er setzte die gesamte Lesart auf eine falsifizierbare Vorhersage, gedruckt, mit einer Frist — Spuren der Anlagen der Elohim würden binnen eines Jahres nach der ersten Landung auf dem Mond gefunden, und würden sie es nicht, „ist meine Hypothese für falsch zu halten“. Dieser Explainer liest sein gesamtes Werk genau im Französischen — die Cahiers de cours de Moïse von 1963, La lune, clé de la Bible, Ces dieux qui firent le ciel et la terre, Nous autres, gens du Moyen Âge, L'Ère du Verseau und die späten Temps messianiques — und vergleicht die Befunde mit dem raëlianischen Kanon in der Tiefe, die die Verwandtschaft verdient. Er geht seine zwei wahrhaft originellen Thesen durch: dass die mittelalterliche Exegese der wirklichen Bedeutung des Textes näher stand, als es der Säkularismus von Renaissance und Aufklärung je war, und dass die Kabbala, über den Oberrabbiner Alexandre Safran erschlossen, eine Lehre bewahrt, die älter ist als Mose und deren Kernversprechen — „der Mensch wird die zu Beginn der Genesis berichteten Taten erneuern“ — ein bereits laufendes Programm ist. Er prüft die Wette ehrlich: Apollo fand nichts, und nach Sendys eigener Scharlatan-Klausel gilt die Mondarche wie formuliert als widerlegt — ein Urteil, dem er mit mehr Anstand begegnete, als seine Nachahmer je zugeben. Und er behandelt, ohne Polemik, die Frage, die seinen Ruf von beiden Seiten verflacht hat — was genau die raëlianische Offenbarung von 1974 den Büchern schuldet, die dieser „brave jeune homme“ mit Sicherheit gelesen hatte —, wobei er zugleich die strukturellen Divergenzen markiert, die aus Sendy einen parallelen Zeugen und nicht einen Rohentwurf machen: Seine Elohim rekolonisieren eine verwüstete Erde, statt Leben zu erschaffen, sein Jahwe ist ein immaterielles Prinzip und kein Präsident, und seine Himmlischen kehren aller Wahrscheinlichkeit nach nie zurück."
-keywords = ["Jean Sendy", "Elohim", "Célestes", "Theosites", "Galaxiens", "La lune clé de la Bible", "Moon Outpost of the Gods", "arc d'alliance", "Präzession der Tagundnachtgleichen", "Zeitalter des Wassermanns", "Mediävalismus", "Humanismus", "Giordano Bruno", "Alexandre Safran", "Kabbala", "tikkun olam", "Hamlets Mühle", "Falsifizierbarkeit", "Paläokontakt", "Neo-Euhemerismus", "Raël", "Stefano Bigliardi"]
+keywords = ["Jean Sendy", "Elohim", "Célestes", "Theosites", "Galaxiens", "La lune clé de la Bible", "Moon Outpost of the Gods", "arc d'alliance", "Präzession der Tagundnachtgleichen", "Zeitalter des Wassermanns", "Mediävalismus", "Humanismus", "Giordano Bruno", "Alexandre Safran", "Kabbala", "tikkun olam", "Hamlet's Mill", "Falsifizierbarkeit", "Paläokontakt", "Neo-Euhemerismus", "Raël", "Stefano Bigliardi"]
 references = [
     # — The canon under comparison —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2 (¶¶25–27: the laboratory creation and the striking resemblance; ¶57: good and evil defined; ¶72: Babel, the interrupted conquest of space; ¶58: the Flood decision); Chapter 3 (¶33: the 'glory' as flying craft; ¶251: 'Elohim… venus du ciel'); Chapter 7 (¶56: the president of the Council of the Eternals)" },
@@ -634,7 +634,7 @@ stärkstes Argument in diesem Register — dass Prophezeiungen, die das Goldene
 Zeitalter dem Wassermann zuweisen, ein Jahrtausend älter sind als Hipparch,
 der erste Mensch, der nachweislich *fähig* war, die Präzession zu entdecken,
 sodass jemand vor der Geschichte es erfahren haben muss — ist eines, das das
-Korpus als tragendes Datum übernommen hat, mit *Hamlets Mühle* (das Sendy
+Korpus als tragendes Datum übernommen hat, mit *Hamlet's Mill* (das Sendy
 *„eine Zeitbombe“* nannte und dessen Autor er 1969 am MIT aufsuchte) als
 seiner gelehrten Flanke.
 
@@ -834,7 +834,7 @@ Lesedisziplin haben ihre moderne Urkunde in *Nous autres, gens du Moyen Âge*.
 
 **Das präzessionale Rückgrat.** Die Genesistage als Weltzeitalter, das
 Hipparch-Argument für das Alter präzessionalen Wissens, die
-Zwei-Wassermänner-Unterscheidung, das Bündnis mit *Hamlets Mühle* — alle nun
+Zwei-Wassermänner-Unterscheidung, das Bündnis mit *Hamlet's Mill* — alle nun
 strukturell im {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %}-
 Rahmen des Korpus selbst, das seinen Namen ausgerechnet von dem Objekt nimmt,
 auf das Sendy sein Leben lang zeigte.

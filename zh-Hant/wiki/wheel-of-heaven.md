@@ -133,7 +133,7 @@ status_in_framework = "奠基性的後設概念；闡明整個專案是什麼、
 
 Wheel of Heaven 專案就是對這套框架的詳盡陳述——一種詮釋立場，以及論證這一立場、持續增長的文集——發表於 **www.wheelofheaven.world**，形式包括一部收錄數百個條目的維基、一座源文本文獻館、一套敘述式導論，以及一個持續更新的部落格。其工作假設就是上文所勾勒的那一個：地球生命是耶洛因有意的科學工作，而世界的宗教與神話紀錄保存了這項工作可被解讀的記憶。這一假設正是以工作假設的身分提出——作為探究的基礎，而非已定的結論——文集也清楚地區分四類陳述：源典直接說了什麼、跨傳統的比較、框架自身的綜合，以及懸而未決的問題。
 
-這一解讀建立在幾個源典家族之上。雷爾派正典——克勞德·沃里勒翁的接觸記述，始於《道出真相之書》（1974），並匯集為《來自設計者的訊息》——提供了假設的具體內容。讓·桑迪在雷爾之前的著作，尤其是《創造天地的那些神》（*Ces dieux qui firent le ciel et la terre*，1969）{{ cite(id="those-gods-who-made-heaven-and-earth", text="[6]", title="Sendy, *Ces dieux qui firent le ciel et la terre* (1969) — Elohim as a physical civilization") }}與《水瓶座時代》（*L'ère du Verseau*，1970），{{ cite(id="the-coming-of-the-gods", text="[7]", title="Sendy, *L'Ère du Verseau* (1970) — the Aquarian-age framing and the precessional reading of the Bible") }}提供了更早的解讀：將耶洛因讀為一個物質性的文明，並透過歲差—黃道的視角閱讀希伯來聖經。《哈姆雷特之磨》為歲差神話的解讀提供錨點。此外，大量原始的宗教、神話與考古材料——美索不達米亞、埃及、希臘、吠陀、中美洲以及其他地區——提供了本框架讀為被保存之文化記憶的比較證據。
+這一解讀建立在幾個源典家族之上。雷爾派正典——克勞德·沃里勒翁的接觸記述，始於《訴說真相之書》（1974），並匯集為《來自設計者的訊息》——提供了假設的具體內容。讓·桑迪在雷爾之前的著作，尤其是《創造天地的那些神》（*Ces dieux qui firent le ciel et la terre*，1969）{{ cite(id="those-gods-who-made-heaven-and-earth", text="[6]", title="Sendy, *Ces dieux qui firent le ciel et la terre* (1969) — Elohim as a physical civilization") }}與《水瓶座時代》（*L'ère du Verseau*，1970），{{ cite(id="the-coming-of-the-gods", text="[7]", title="Sendy, *L'Ère du Verseau* (1970) — the Aquarian-age framing and the precessional reading of the Bible") }}提供了更早的解讀：將耶洛因讀為一個物質性的文明，並透過歲差—黃道的視角閱讀希伯來聖經。《哈姆雷特之磨》為歲差神話的解讀提供錨點。此外，大量原始的宗教、神話與考古材料——美索不達米亞、埃及、希臘、吠陀、中美洲以及其他地區——提供了本框架讀為被保存之文化記憶的比較證據。
 
 本專案也以它不是什麼來界定自身。它取材於雷爾派材料，但它不是[雷爾運動](../raelism/)，也不要求讀者接受任何雷爾派信念。它延伸桑迪的「傳統」，而非單純重述。它與通俗的「遠古外星人」媒體有共同的主題，卻沒有共同的方法：在那個傳統傾向於追求奇觀之處，它堅守學術語域、引證來源和明確的認識論標籤。它也認真閱讀主流的比較宗教學與聖經學，與之分道揚鑣之處在於詮釋，而不在於這些學術所確立的文本與歷史事實。
 
@@ -193,7 +193,7 @@ Wheel of Heaven 專案。《總年表》（*Master Timeline*）。內部治理�
 
 ### 主要雷爾派源典
 
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth*（《道出真相之書》，1974）；收錄於《來自設計者的訊息》。框架具體內容的主要來源。
+Vorilhon, Claude (Raël). *The Book Which Tells the Truth*（《訴說真相之書》，1974）；收錄於《來自設計者的訊息》。框架具體內容的主要來源。
 
 Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet*（《外星人帶我去他們的星球》，1975）；收錄於《來自設計者的訊息》。
 

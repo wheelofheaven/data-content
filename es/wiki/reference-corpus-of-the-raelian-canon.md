@@ -28,7 +28,7 @@ see_also = [
     { title = "Mahoma", path = "/wiki/muhammad/", description = "El mensajero coránico; el canon dialoga directamente con las suras 21, 54 y 56." },
     { title = "Apocalipsis", path = "/wiki/apocalypse/", description = "La lectura del Apocalipsis desarrollada en Las nuevas revelaciones." },
     { title = "El molino de Hamlet", path = "/wiki/hamlets-mill/", description = "Lectura mitológico-precesional intercultural adyacente al argumento de los «vestigios» del canon." },
-    { title = "Firma doble", path = "/wiki/doubled-signature/", description = "El principio del corpus por el cual el canon y sus textos de referencia convergen sobre la misma realidad subyacente." },
+    { title = "Signatura doble", path = "/wiki/doubled-signature/", description = "El principio del corpus por el cual el canon y sus textos de referencia convergen sobre la misma realidad subyacente." },
 ]
 
 footnotes = [

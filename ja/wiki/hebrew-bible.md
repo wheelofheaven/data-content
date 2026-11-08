@@ -84,7 +84,7 @@ note = "サンディ（1969年）。ヘブライ語聖書を地球外の記録�
 
 [[extra.references]]
 id = "sendy-ere-du-verseau"
-note = "サンディ（1970年）。ヘブライ語聖書の終末論に取り組む、みずがめ座の時代の継承の閾値の枠組み。"
+note = "サンディ（1970年）。ヘブライ語聖書の終末論に取り組む、水瓶座の時代の継承の閾値の枠組み。"
 
 [[extra.references]]
 id = "sendy-cahiers-moise"

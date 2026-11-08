@@ -1,6 +1,6 @@
 +++
 title = "聯盟"
-description = "聯盟 — Wheel of Heaven 文集中關於洪水後厄羅欣與人類之間第一個穩定互動協議的正典條目請參閱「挪亞之約」。"
+description = "聯盟 — Wheel of Heaven 文集中關於洪水後耶洛因與人類之間第一個穩定互動協議的正典條目請參閱「挪亞之約」。"
 template = "wiki-page.html"
 toc = true
 

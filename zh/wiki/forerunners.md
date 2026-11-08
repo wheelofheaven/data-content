@@ -1,6 +1,6 @@
 +++
 title = "先驱者"
-description = "先驱者在 Wheel of Heaven 文集中指为地球上厄罗欣历史重大转折做准备的人类或先知血脉 — 在古代传递与未来再激活之间起到中继作用的人物。"
+description = "先驱者在 Wheel of Heaven 文集中指为地球上耶洛因历史重大转折做准备的人类或先知血脉 — 在古代传递与未来再激活之间起到中继作用的人物。"
 template = "wiki-page.html"
 toc = true
 

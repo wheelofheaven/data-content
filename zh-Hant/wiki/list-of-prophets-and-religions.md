@@ -1,6 +1,6 @@
 +++
 title = "先知與宗教清單"
-description = "Wheel of Heaven 文集將其讀作跨越各歲差時代的厄羅欣傳遞里程碑的先知形象與宗教傳統清單。"
+description = "Wheel of Heaven 文集將其讀作跨越各歲差時代的耶洛因傳遞里程碑的先知形象與宗教傳統清單。"
 template = "wiki-page.html"
 toc = true
 

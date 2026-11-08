@@ -1,6 +1,6 @@
 +++
 title = "神戰"
-description = "神戰在 Wheel of Heaven 文集中指厄羅欣文明內部的衝突 — 技術與政治派系之間的戰鬥 — 其蹤跡以壓縮形式見於幾乎所有神話中關於諸神之戰的敘事。"
+description = "神戰在 Wheel of Heaven 文集中指耶洛因文明內部的衝突 — 技術與政治派系之間的戰鬥 — 其蹤跡以壓縮形式見於幾乎所有神話中關於諸神之戰的敘事。"
 template = "wiki-page.html"
 toc = true
 

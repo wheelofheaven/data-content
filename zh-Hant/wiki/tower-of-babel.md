@@ -1,6 +1,6 @@
 +++
 title = "巴別塔"
-description = "巴別塔 — Wheel of Heaven 文集中關於此事件及其厄羅欣式闡釋的正典條目請參閱「語言混亂」。"
+description = "巴別塔 — Wheel of Heaven 文集中關於此事件及其耶洛因式闡釋的正典條目請參閱「語言混亂」。"
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
 title = "挪亚方舟"
-description = "挪亚方舟在《创世记》中是允许各生命血系在大洪水期间得以存活的船只。在 Wheel of Heaven 文集中,它被读作根据厄罗欣规格设计、用于保存地球生物多样性的可运作的遗传库。"
+description = "挪亚方舟在《创世记》中是允许各生命血系在大洪水期间得以存活的船只。在 Wheel of Heaven 文集中,它被读作根据耶洛因规格设计、用于保存地球生物多样性的可运作的遗传库。"
 template = "wiki-page.html"
 toc = true
 

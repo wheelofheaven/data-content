@@ -225,7 +225,7 @@ The substantial corpus position registers a fourth component as well:
 
 數字 236 是透過*gematria*(字母數值換算)從《詩篇》147:5(*gadol adoneinu ve-rav koaḥ*,「我們的主為大,大有能力」,其字母總和為 236)推導而來;30 million parasangs 的「腳掌」數字與被截短的「236,000」總數,兩者皆為手抄本傳統中所見的異文(後者由十世紀的卡拉派學者 al-Qirqisānī 保存)。此文本早於*Zohar*數個世紀——Gershom Scholem 將其定於二世紀,Martin Samuel Cohen 定於高昂時期(geonic)的六至七世紀,而 Peter Schäfer 則主張在這類流動的文獻中「單一文本是一種幻象」——並且它被收入*Sefer Raziel ha-Mal'akh*(阿姆斯特丹,1701,folio 37b)而付梓。正是這次刊印,才使得一段出自秘傳希伯來文集的文字得以被描述為一本人們可以「取得一份副本」的「書」。
 
-依框架的解讀,耶和華提供了缺失的鑰匙:*parasang* 被重新定義為光在一秒內行進的距離(約 300,000 公里),使得這兩個數字成為[厄羅欣母行星](../elohim-home-planet/)距其自身恆星(約 70.8 billion 公里)與距地球(約 0.95 光年)的距離。這些量測不被讀作神秘主義的誇飾,而被讀作對兩個真實距離的訛誤記錄,由一個忠實背誦其早已不再理解之內容的傳統所保存。
+依框架的解讀,耶和華提供了缺失的鑰匙:*parasang* 被重新定義為光在一秒內行進的距離(約 300,000 公里),使得這兩個數字成為[耶洛因母行星](../elohim-home-planet/)距其自身恆星(約 70.8 billion 公里)與距地球(約 0.95 光年)的距離。這些量測不被讀作神秘主義的誇飾,而被讀作對兩個真實距離的訛誤記錄,由一個忠實背誦其早已不再理解之內容的傳統所保存。
 
 完整的論述——透過本計畫自身的譯本對文本進行細讀、三方的斷代之爭、主流的「量測即否定神學(apophasis)」解讀與正典的反向解讀,以及一項新的發現,說明該段的確切形式(以*talons*/「腳跟」誤譯希伯來文的「腳掌」,以及「Cantique des Cantiques (V)」的引註)如何經由 Scholem 的*Major Trends*上溯至 Henri Sérouya 1957 年的袖珍本*La Kabbale*——皆詳述於釋義文[**最接近真相之書**](/articles/the-book-closest-to-the-truth/)以及[*Shi'ur Qomah* — Wheel of Heaven 譯本](/library/shiur-qomah-woh/)中。
 
@@ -627,7 +627,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Hebrews](../hebrews/)
 - [Jean Sendy](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [厄羅欣母行星](../elohim-home-planet/)
+- [耶洛因母行星](../elohim-home-planet/)
 - [*Shi'ur Qomah* — Wheel of Heaven 譯本](/library/shiur-qomah-woh/)
 - [最接近真相之書(釋義文)](/articles/the-book-closest-to-the-truth/)
 

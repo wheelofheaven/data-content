@@ -1,6 +1,6 @@
 +++
 title = "地球化(terraforming)"
-description = "地球化(terraforming)是為使行星生物圈適合居住而進行變換的全部技術。Wheel of Heaven 文集將其讀作厄羅欣在對地球進行預先整備時所動員的核心能力之一。"
+description = "地球化(terraforming)是為使行星生物圈適合居住而進行變換的全部技術。Wheel of Heaven 文集將其讀作耶洛因在對地球進行預先整備時所動員的核心能力之一。"
 template = "wiki-page.html"
 toc = true
 

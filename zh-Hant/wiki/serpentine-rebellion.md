@@ -1,6 +1,6 @@
 +++
 title = "蛇式叛亂"
-description = "蛇式叛亂在 Wheel of Heaven 文集中指人類起源時刻發生在厄羅欣文明內部的重大分裂 — 一股技術性異見派系反對多數派關於亞當血統原型的政策。"
+description = "蛇式叛亂在 Wheel of Heaven 文集中指人類起源時刻發生在耶洛因文明內部的重大分裂 — 一股技術性異見派系反對多數派關於亞當血統原型的政策。"
 template = "wiki-page.html"
 
 [extra]

@@ -1,6 +1,6 @@
 +++
 title = "雷爾派無限符號"
-description = "雷爾派無限符號將大衛之星與卐字結合在一起,這一結合凝聚了紮根於厄羅欣記憶的無限迴圈觀念。Wheel of Heaven 文集在兩種符號比較史的背景下討論其符號學。"
+description = "雷爾派無限符號將大衛之星與卐字結合在一起,這一結合凝聚了紮根於耶洛因記憶的無限迴圈觀念。Wheel of Heaven 文集在兩種符號比較史的背景下討論其符號學。"
 template = "wiki-page.html"
 toc = true
 

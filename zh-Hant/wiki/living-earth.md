@@ -1,6 +1,6 @@
 +++
 title = "活的地球"
-description = "活的地球在 Wheel of Heaven 文集中指對行星作為整合生物圈的系統化閱讀 — 接近蓋婭假說 — 並與厄羅欣有意合成的命題相銜接。"
+description = "活的地球在 Wheel of Heaven 文集中指對行星作為整合生物圈的系統化閱讀 — 接近蓋婭假說 — 並與耶洛因有意合成的命題相銜接。"
 template = "wiki-page.html"
 toc = true
 

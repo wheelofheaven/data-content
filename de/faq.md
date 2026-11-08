@@ -152,7 +152,7 @@ Die zwölf Präzessionszeitalter sind nach den Sternbildern des Tierkreises bena
 - Fische — –210 bis 1.950
 - Wassermann — 1.950 bis 4.110
 
-Der Rahmen stützt sich auf die präzessions-mythologische Forschung von Giorgio de Santillana und Hertha von Dechend (*Hamlets Mühle*, 1969), die rekonstruierten, wie die antike Welt den Präzessionszyklus in religiöser und mythologischer Symbolik über viele unabhängige Traditionen hinweg kodierte.
+Der Rahmen stützt sich auf die präzessions-mythologische Forschung von Giorgio de Santillana und Hertha von Dechend (*Hamlet's Mill*, 1969), die rekonstruierten, wie die antike Welt den Präzessionszyklus in religiöser und mythologischer Symbolik über viele unabhängige Traditionen hinweg kodierte.
 
 Die Grenzen zwischen den Zeitaltern werden durch Gleichteilung des Tierkreises gesetzt (die astronomischen IAU-Sternbildgrenzen unterteilen die Ekliptik nicht gleichmäßig). Die Daten sind die Arbeitschronologie des Korpus, abgeleitet aus astronomischer Berechnung der Position der Tagundnachtgleichen gegenüber dem gleichmäßig geteilten Tierkreis.
 """
@@ -181,7 +181,7 @@ question = "In welchem Zeitalter befinden wir uns jetzt?"
 answer = """
 Im Zeitalter des Wassermanns, nach der Arbeitschronologie des Korpus. Das Zeitalter begann um 1950 und wird die nächsten ~2.160 Jahre andauern. Das Korpus liest den Wassermann-Wasserträger in seinem wörtlichsten Sinn: das Zeitalter, in dem ausgegossen wird, was eingeschlossen war.
 
-Konkrete Ereignisse, die das Korpus als Marker des wassermannschen Beginns identifiziert: die nukleare Schwelle von 1945, die Wiedererrichtung Israels 1948, die Veröffentlichung von *Hamlets Mühle* 1969, der Vorilhon-Kontakt 1973, der Abschluss des Humangenomprojekts 2003 sowie die fortschreitende Reife der Synthetischen Biologie und der Exoplaneten-Astronomie.
+Konkrete Ereignisse, die das Korpus als Marker des wassermannschen Beginns identifiziert: die nukleare Schwelle von 1945, die Wiedererrichtung Israels 1948, die Veröffentlichung von *Hamlet's Mill* 1969, der Vorilhon-Kontakt 1973, der Abschluss des Humangenomprojekts 2003 sowie die fortschreitende Reife der Synthetischen Biologie und der Exoplaneten-Astronomie.
 
 Die vollständige Behandlung findet sich im Kapitel [Zeitalter des Wassermanns](/de/timeline/age-of-aquarius/).
 """
@@ -244,7 +244,7 @@ Das Korpus stützt sich auf mehrere Quellenfamilien, mit ausdrücklicher hierarc
 
 **Primär**: Das raëlianische Quellenmaterial, in erster Linie *Das Buch, das die Wahrheit sagt* (Vorilhon, 1974) und die nachfolgenden Bände.
 
-**Sekundär**: Die präzessions-mythologische Tradition, grundlegend Giorgio de Santillanas und Hertha von Dechends *Hamlets Mühle* (1969).
+**Sekundär**: Die präzessions-mythologische Tradition, grundlegend Giorgio de Santillanas und Hertha von Dechends *Hamlet's Mill* (1969).
 
 **Tertiär**: Jean Sendys Neuinterpretationen biblischen Materials als Aufzeichnungen außerirdischer Aktivität aus den Jahren 1966–1970 (*Les dieux nous sont nés*, 1966; *La lune, clé de la Bible*, 1968; *Ces dieux qui firent le ciel et la terre*, 1969; *L'Ère du Verseau*, 1970).
 

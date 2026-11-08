@@ -1,6 +1,6 @@
 +++
 title = "一个会进食并分裂的合成细胞"
-description = "明尼苏达大学的科学家造出了 SpudCell——首个从零构建、能完成完整生命周期的合成细胞，正是正典所说厄罗欣文明当年跨过的那道门槛。"
+description = "明尼苏达大学的科学家造出了 SpudCell——首个从零构建、能完成完整生命周期的合成细胞，正是正典所说耶洛因文明当年跨过的那道门槛。"
 date = 2026-07-01
 template = "news-page.html"
 
@@ -9,10 +9,10 @@ event_date = 2026-07-01
 event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
-summary = "2026年7月1日，明尼苏达大学的一个团队宣布了 SpudCell——一个完全由非生命组分组装而成、能够生长、复制其基因组并跨越数代分裂的合成细胞。它是一项概念验证，而非自给自足的生物体：它无法自行合成蛋白质，必须被喂养。透过正典来读，它恰好落在耶和华在《揭示真相之书》中所描述的那道门槛上——厄罗欣自身的文明正是从在“试管中”造出“活细胞”起步的，其科学水平“可与你们不久将要达到的水平相比”。"
+summary = "2026年7月1日，明尼苏达大学的一个团队宣布了 SpudCell——一个完全由非生命组分组装而成、能够生长、复制其基因组并跨越数代分裂的合成细胞。它是一项概念验证，而非自给自足的生物体：它无法自行合成蛋白质，必须被喂养。透过正典来读，它恰好落在耶和华在《揭示真相之书》中所描述的那道门槛上——耶洛因自身的文明正是从在“试管中”造出“活细胞”起步的，其科学水平“可与你们不久将要达到的水平相比”。"
 canon_links = [
     { title = "揭示真相之书", path = "/library/the-book-which-tells-the-truth/" },
-    { title = "厄罗欣母行星", path = "/wiki/elohim-home-planet/" },
+    { title = "耶洛因母行星", path = "/wiki/elohim-home-planet/" },
     { title = "耶洛因", path = "/wiki/elohim/" },
     { title = "智能设计", path = "/wiki/intelligent-design/" }
 ]
@@ -35,7 +35,7 @@ sources = [
 
 ## 正典的视角
 
-透过 Wheel of Heaven 的框架来读，有意思的并不是造出了一个细胞，而是这项构建落在*那道弧线的什么位置*。在[揭示真相之书](/library/the-book-which-tells-the-truth/)中，[耶和华](/wiki/yahweh/)以描述[厄罗欣](/wiki/elohim/)自身文明如何起步来展开创造的叙述——在[他们那遥远的行星上](/wiki/elohim-home-planet/)，其科学水平据他所言“可与你们不久将要达到的水平相比”：
+透过 Wheel of Heaven 的框架来读，有意思的并不是造出了一个细胞，而是这项构建落在*那道弧线的什么位置*。在[揭示真相之书](/library/the-book-which-tells-the-truth/)中，[耶和华](/wiki/yahweh/)以描述[耶洛因](/wiki/elohim/)自身文明如何起步来展开创造的叙述——在[他们那遥远的行星上](/wiki/elohim-home-planet/)，其科学水平据他所言“可与你们不久将要达到的水平相比”：
 
 > 他们开始创造原始而胚胎状态的生命形式，试管中的活细胞。这让所有人都为之振奋。他们完善了技术，做到了创造出一些奇异的小动物……
 

@@ -279,7 +279,7 @@ summary = "品牌資源、專案樣板文案、概覽、調色板與字體,以�
 <div class="press-og-grid">
 <img src="https://assets.wheelofheaven.world/images/og/en/wiki/elohim.jpg" alt="維基:耶洛因" loading="lazy">
 <img src="https://assets.wheelofheaven.world/images/og/en/timeline/age-of-aquarius.jpg" alt="時間軸:水瓶座時代" loading="lazy">
-<img src="https://assets.wheelofheaven.world/images/og/en/library/the-book-which-tells-the-truth.jpg" alt="圖書館:傳達真理之書" loading="lazy">
+<img src="https://assets.wheelofheaven.world/images/og/en/library/the-book-which-tells-the-truth.jpg" alt="圖書館:訴說真相之書" loading="lazy">
 <img src="https://assets.wheelofheaven.world/images/og/en/articles/example-explainer.jpg" alt="文章範例" loading="lazy">
 <img src="https://assets.wheelofheaven.world/images/og/en/news/pursue-release-01-uap-files.jpg" alt="新聞室快訊" loading="lazy">
 <img src="https://assets.wheelofheaven.world/images/og/de/library/the-book-which-tells-the-truth.jpg" alt="德文版圖書館條目" loading="lazy">

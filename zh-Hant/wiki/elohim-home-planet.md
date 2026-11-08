@@ -1,6 +1,6 @@
 +++
-title = "厄羅欣母行星"
-description = "厄羅欣母行星 — Wheel of Heaven 的正典條目請參閱「厄羅欣式母行星」。"
+title = "耶洛因母行星"
+description = "耶洛因母行星 — Wheel of Heaven 的正典條目請參閱「耶洛因式母行星」。"
 template = "wiki-page.html"
 toc = true
 

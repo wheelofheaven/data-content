@@ -17,7 +17,7 @@ see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "La civilización creadora que descubrió, durante la era de Aries, que ella misma había sido creada." },
     { title = "Apocalipsis", path = "wiki/apocalypse", description = "La evaluación de herencia de la era de Acuario — la fase actual de la cadena para la humanidad de la Tierra." },
     { title = "Embajada", path = "wiki/embassy", description = "El lugar previsto del acontecimiento de herencia en el que la Tierra recibiría el conocimiento acumulado de la alianza." },
-    { title = "Firma duplicada", path = "wiki/doubled-signature", description = "Un principio interpretativo afín que opera dentro del marco más amplio de la cadena cósmica." },
+    { title = "Signatura doble", path = "wiki/doubled-signature", description = "Un principio interpretativo afín que opera dentro del marco más amplio de la cadena cósmica." },
     { title = "Génesis", path = "wiki/genesis", description = "El relato de la creación leído como una instancia específica del patrón recurrente de creación de la cadena." },
 ]
 

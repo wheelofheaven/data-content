@@ -1,6 +1,6 @@
 +++
 title = "遗传工程"
-description = "遗传工程是有针对性地改变生物遗传物质的全部技术。Wheel of Heaven 文集将其同时读作厄罗欣为创造地球生命所采用的合成路径,以及人类自身正在趋近的技术地平。"
+description = "遗传工程是有针对性地改变生物遗传物质的全部技术。Wheel of Heaven 文集将其同时读作耶洛因为创造地球生命所采用的合成路径,以及人类自身正在趋近的技术地平。"
 template = "wiki-page.html"
 toc = true
 

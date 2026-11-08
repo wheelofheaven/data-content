@@ -278,7 +278,7 @@ The site is free, source-aware, and built so the work can be checked. Every entr
 
 <div class="press-og-grid">
 <img src="https://assets.wheelofheaven.world/images/og/en/wiki/elohim.jpg" alt="ウィキ: エロヒム" loading="lazy">
-<img src="https://assets.wheelofheaven.world/images/og/en/timeline/age-of-aquarius.jpg" alt="タイムライン: みずがめ座の時代" loading="lazy">
+<img src="https://assets.wheelofheaven.world/images/og/en/timeline/age-of-aquarius.jpg" alt="タイムライン: 水瓶座の時代" loading="lazy">
 <img src="https://assets.wheelofheaven.world/images/og/en/library/the-book-which-tells-the-truth.jpg" alt="ライブラリ: 真実を告げる書" loading="lazy">
 <img src="https://assets.wheelofheaven.world/images/og/en/articles/example-explainer.jpg" alt="記事の例" loading="lazy">
 <img src="https://assets.wheelofheaven.world/images/og/en/news/pursue-release-01-uap-files.jpg" alt="ニュースルーム速報" loading="lazy">

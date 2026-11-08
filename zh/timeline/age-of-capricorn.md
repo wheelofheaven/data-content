@@ -22,7 +22,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "宣告真理之书（Le Livre qui dit la vérité）", author = "克洛德·沃里隆（雷尔）", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "讲述真相之书（Le Livre qui dit la vérité）", author = "克洛德·沃里隆（雷尔）", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
     { title = "外星人带我去了他们的星球（Les Extra-Terrestres m'ont emmené sur leur planète）", author = "克洛德·沃里隆（雷尔）", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "创世记", author = "佚名（希伯来圣经）", date = "约公元前6至5世纪", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "哈姆雷特的磨坊：探究人类知识的起源及其通过神话的传承", author = "乔治·德·桑提拉纳与赫尔塔·冯·德辰德", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },

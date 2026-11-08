@@ -1,6 +1,6 @@
 +++
 title = "近距離接觸清單"
-description = "為 Wheel of Heaven 文集整理的、有據可查的人類與疑似厄羅欣實體之間的近距離接觸清單,按型別與歷史時期分類。"
+description = "為 Wheel of Heaven 文集整理的、有據可查的人類與疑似耶洛因實體之間的近距離接觸清單,按型別與歷史時期分類。"
 template = "wiki-page.html"
 toc = true
 

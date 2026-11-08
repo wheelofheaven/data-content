@@ -48,7 +48,7 @@ note = "ヴォリロンの第二のラエル文献(1976年)。ペリゴールで
 
 [[extra.references]]
 id = "lets-welcome-the-extraterrestrials"
-note = "ヴォリロンの第三のラエル文献(1979年)。大使館プロジェクトと、みずがめ座の時代の内容。"
+note = "ヴォリロンの第三のラエル文献(1979年)。大使館プロジェクトと、水瓶座の時代の内容。"
 
 [[extra.references]]
 id = "the-complete-pyramids"

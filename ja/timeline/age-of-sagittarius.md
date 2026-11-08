@@ -52,7 +52,7 @@ link = "/timeline/age-of-libra/"
 relation = "時間計測と天文観測に焦点が当てられた次の時代"
 
 [[extra.related_ages]]
-name = "みずがめ座の時代"
+name = "水瓶座の時代"
 symbol = "♒"
 link = "/timeline/age-of-aquarius/"
 relation = "大気への理解が宇宙的工学を把握する助けとなる現在の時代"

@@ -1,6 +1,6 @@
 +++
 title = "新誡命"
-description = "新誡命在雷爾派文獻框架中指由耶和華通過雷爾向當代人類傳遞的、經更新的倫理與政治戒律總體。Wheel of Heaven 文集將其置於此前厄羅欣立法性傳遞的延續之中。"
+description = "新誡命在雷爾派文獻框架中指由耶和華通過雷爾向當代人類傳遞的、經更新的倫理與政治戒律總體。Wheel of Heaven 文集將其置於此前耶洛因立法性傳遞的延續之中。"
 template = "wiki-page.html"
 toc = true
 

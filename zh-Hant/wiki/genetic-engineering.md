@@ -1,6 +1,6 @@
 +++
 title = "遺傳工程"
-description = "遺傳工程是有針對性地改變生物遺傳物質的全部技術。Wheel of Heaven 文集將其同時讀作厄羅欣為創造地球生命所採用的合成路徑,以及人類自身正在趨近的技術地平。"
+description = "遺傳工程是有針對性地改變生物遺傳物質的全部技術。Wheel of Heaven 文集將其同時讀作耶洛因為創造地球生命所採用的合成路徑,以及人類自身正在趨近的技術地平。"
 template = "wiki-page.html"
 toc = true
 

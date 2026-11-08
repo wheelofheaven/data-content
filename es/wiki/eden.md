@@ -32,7 +32,7 @@ see_also = [
     { title = "Gran Diluvio", path = "/wiki/great-flood/", description = "El evento de la Era de Géminis que cerró el período operativo del Edén." },
     { title = "Biblia Hebrea", path = "/wiki/hebrew-bible/", description = "La principal fuente escrituraria de la narrativa del Edén." },
     { title = "Biblia", path = "/wiki/bible/", description = "La tradición textual más amplia dentro de la cual se conserva el Génesis." },
-    { title = "Firma duplicada", path = "/wiki/doubled-signature/", description = "El principio del corpus por el cual las tradiciones culturales registran memoria de eventos históricos subyacentes." },
+    { title = "Signatura doble", path = "/wiki/doubled-signature/", description = "El principio del corpus por el cual las tradiciones culturales registran memoria de eventos históricos subyacentes." },
 ]
 
 footnotes = [

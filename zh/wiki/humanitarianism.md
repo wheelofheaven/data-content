@@ -1,6 +1,6 @@
 +++
 title = "人道主义"
-description = "人道主义在雷尔派文献框架中指普遍伦理原则的总体 — 人权、消除贫困、对生命的尊重 — 是人类迈向与厄罗欣公开接触的准备。Wheel of Heaven 文集将其列为大归来的政治条件之一。"
+description = "人道主义在雷尔派文献框架中指普遍伦理原则的总体 — 人权、消除贫困、对生命的尊重 — 是人类迈向与耶洛因公开接触的准备。Wheel of Heaven 文集将其列为大归来的政治条件之一。"
 template = "wiki-page.html"
 toc = true
 

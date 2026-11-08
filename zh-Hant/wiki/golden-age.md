@@ -1,6 +1,6 @@
 +++
 title = "黃金時代"
-description = "黃金時代在幾乎所有傳統中都是先於衰落期的豐盛太古時代。在 Wheel of Heaven 文集中,它被讀作厄羅欣活躍臨在時期的歷史記憶,以神話形式得以儲存。"
+description = "黃金時代在幾乎所有傳統中都是先於衰落期的豐盛太古時代。在 Wheel of Heaven 文集中,它被讀作耶洛因活躍臨在時期的歷史記憶,以神話形式得以儲存。"
 template = "wiki-page.html"
 toc = true
 

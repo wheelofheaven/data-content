@@ -1,6 +1,6 @@
 +++
-title = "厄罗欣式太空战争"
-description = "厄罗欣式太空战争 — Wheel of Heaven 的正典条目请参阅「神战」。"
+title = "耶洛因式太空战争"
+description = "耶洛因式太空战争 — Wheel of Heaven 的正典条目请参阅「神战」。"
 template = "wiki-page.html"
 toc = true
 

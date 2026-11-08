@@ -394,7 +394,7 @@ Gods?* Эриха фон Дэникена{{ cite(id="chariots-of-the-gods", text
 - [Элохим](../elohim/)
 - [Люцифер](../lucifer/)
 - [Змей](../serpent/)
-- [ха-сатан](../satan/)
+- [Сатана](../satan/)
 - [Эдем](../eden/)
 - [Теомахия](../theomachy/)
 - [Совет Вечных](../council-of-the-eternals/)

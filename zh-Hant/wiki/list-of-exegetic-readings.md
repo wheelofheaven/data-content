@@ -1,6 +1,6 @@
 +++
 title = "釋經學閱讀清單"
-description = "通過 Wheel of Heaven 四層級,從字面意義到技術=厄羅欣意義的聖經段落再閱讀清單。"
+description = "通過 Wheel of Heaven 四層級,從字面意義到技術=耶洛因意義的聖經段落再閱讀清單。"
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
 title = "大归来"
-description = "大归来在 Wheel of Heaven 文集中指在所要求的政治、技术与文化条件具备之后,厄罗欣以公开方式返回地球的情景 — 即雷尔运动的末世地平。"
+description = "大归来在 Wheel of Heaven 文集中指在所要求的政治、技术与文化条件具备之后,耶洛因以公开方式返回地球的情景 — 即雷尔运动的末世地平。"
 template = "wiki-page.html"
 toc = true
 

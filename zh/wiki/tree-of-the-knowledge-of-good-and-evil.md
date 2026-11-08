@@ -1,6 +1,6 @@
 +++
 title = "分别善恶之树"
-description = "分别善恶之树在《创世记》中是其僭越标志着亚当血统自主化的知识门槛。Wheel of Heaven 文集将其读作通往受到保留的厄罗欣式技术知识的接入之转喻。"
+description = "分别善恶之树在《创世记》中是其僭越标志着亚当血统自主化的知识门槛。Wheel of Heaven 文集将其读作通往受到保留的耶洛因式技术知识的接入之转喻。"
 template = "wiki-page.html"
 toc = true
 

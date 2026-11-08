@@ -1,6 +1,6 @@
 +++
 title = "向异演化(pantropy)"
-description = "向异演化(pantropy)指对生物 — 包括人类 — 进行遗传改造以适应另一世界的条件,与将世界一侧改造以适应生物的地球化相对立。Wheel of Heaven 文集将其作为厄罗欣播种的替代或补充策略加以提及。"
+description = "向异演化(pantropy)指对生物 — 包括人类 — 进行遗传改造以适应另一世界的条件,与将世界一侧改造以适应生物的地球化相对立。Wheel of Heaven 文集将其作为耶洛因播种的替代或补充策略加以提及。"
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
 title = "联盟"
-description = "联盟 — Wheel of Heaven 文集中关于洪水后厄罗欣与人类之间第一个稳定互动协议的正典条目请参阅「挪亚之约」。"
+description = "联盟 — Wheel of Heaven 文集中关于洪水后耶洛因与人类之间第一个稳定互动协议的正典条目请参阅「挪亚之约」。"
 template = "wiki-page.html"
 toc = true
 

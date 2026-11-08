@@ -1,6 +1,6 @@
 +++
 title = "第三圣殿"
-description = "第三圣殿在犹太末世论中是末日时分应当在耶路撒冷重建的圣所。在 Wheel of Heaven 文集中,它被读作大使馆 — 大归来的厄罗欣式接待基础设施 — 的象征性投影。"
+description = "第三圣殿在犹太末世论中是末日时分应当在耶路撒冷重建的圣所。在 Wheel of Heaven 文集中,它被读作大使馆 — 大归来的耶洛因式接待基础设施 — 的象征性投影。"
 template = "wiki-page.html"
 toc = true
 

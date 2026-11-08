@@ -30,7 +30,7 @@ references = [
     { title = "重访多贡：对马塞尔·格里奥勒工作的田野评估", author = "瓦尔特·E·A·范·贝克", publication = "《当代人类学》32 (2)，139-167", date = "1991", medium = "academic-paper", url = "https://pure.uvt.nl/ws/portalfiles/portal/1002365/dogonrestudied.pdf" },
     { title = "布罗卡的脑：科学浪漫的反思", author = "卡尔·萨根", date = "1979", medium = "nonfiction-book", description = "其中关于多贡-天狼星争议的章节质疑了诺莫天文学主张的传播论起源。" },
     { title = "调查天狼星之谜", author = "伊恩·里德帕斯", publication = "《怀疑探究者》3 (1)，56-62", date = "1978", medium = "academic-paper" },
-    { title = "宣告真理之书（Le Livre qui dit la vérité）", author = "克洛德·沃里隆（雷尔）", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "讲述真相之书（Le Livre qui dit la vérité）", author = "克洛德·沃里隆（雷尔）", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
     { title = "外星人带我去了他们的星球", author = "克洛德·沃里隆（雷尔）", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "侏罗纪公园", author = "迈克尔·克莱顿", date = "1990", medium = "fiction-book" },
     { title = "侏罗纪公园", author = "史蒂文·斯皮尔伯格执导；迈克尔·克莱顿与大卫·凯普编剧", date = "1993", medium = "movie" },

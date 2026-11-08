@@ -1,6 +1,6 @@
 +++
 title = "生命工程"
-description = "生命工程在 Wheel of Heaven 文集中指涵蓋合成生物學、合成基因組學與地球化(terraforming)的整體技術綱領 — 即厄羅欣據信曾在地球所運用、用以在新世界中有意播種生命的全部能力。"
+description = "生命工程在 Wheel of Heaven 文集中指涵蓋合成生物學、合成基因組學與地球化(terraforming)的整體技術綱領 — 即耶洛因據信曾在地球所運用、用以在新世界中有意播種生命的全部能力。"
 template = "wiki-page.html"
 toc = true
 

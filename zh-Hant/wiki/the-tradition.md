@@ -1,6 +1,6 @@
 +++
 title = "傳統"
-description = "傳統在 Wheel of Heaven 文集中指通過宗教、秘傳學派與某些哲學文集累積儲存下來的厄羅欣傳遞的總體 — 與任何特定的宗派傳統相區分。"
+description = "傳統在 Wheel of Heaven 文集中指通過宗教、秘傳學派與某些哲學文集累積儲存下來的耶洛因傳遞的總體 — 與任何特定的宗派傳統相區分。"
 template = "wiki-page.html"
 toc = true
 

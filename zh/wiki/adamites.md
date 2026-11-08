@@ -1,6 +1,6 @@
 +++
 title = "亚当血统"
-description = "亚当血统(Adamites)在 Wheel of Heaven 文集中指厄罗欣最早完全合成的人类血统 — 亚当与夏娃走出园林=实验室之后的直系后裔。该术语将这一血统与地球上其他前人类支系区分开,并标志着真正意义上人类历史的起点。"
+description = "亚当血统(Adamites)在 Wheel of Heaven 文集中指耶洛因最早完全合成的人类血统 — 亚当与夏娃走出园林=实验室之后的直系后裔。该术语将这一血统与地球上其他前人类支系区分开,并标志着真正意义上人类历史的起点。"
 template = "wiki-page.html"
 toc = true
 

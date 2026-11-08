@@ -1,6 +1,6 @@
 +++
 title = "众神之多元性"
-description = "众神之多元性在 Wheel of Heaven 文集中指潜藏于大多数古代文本(包括其厄罗欣在形式上即为复数的希伯来圣经)之下的多神论阅读。这是与其后一神论阐释之间的一个重要分歧点。"
+description = "众神之多元性在 Wheel of Heaven 文集中指潜藏于大多数古代文本(包括其耶洛因在形式上即为复数的希伯来圣经)之下的多神论阅读。这是与其后一神论阐释之间的一个重要分歧点。"
 template = "wiki-page.html"
 toc = true
 

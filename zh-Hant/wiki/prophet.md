@@ -1,6 +1,6 @@
 +++
 title = "先知"
-description = "先知在 Wheel of Heaven 文集中指面向某一特定時代與共同體的厄羅欣傳遞的接收者 — 這一角色不同於宗教創始人,並要求一種特定的通訊協議。"
+description = "先知在 Wheel of Heaven 文集中指面向某一特定時代與共同體的耶洛因傳遞的接收者 — 這一角色不同於宗教創始人,並要求一種特定的通訊協議。"
 template = "wiki-page.html"
 toc = true
 

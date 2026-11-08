@@ -81,7 +81,7 @@ answer = """
 slug = "difference-from-raelism"
 question = "這與雷爾主義有何不同？"
 answer = """
-Wheel of Heaven 把雷爾主義的源始素材——主要是 *講述真理之書*（Claude Vorilhon，1974）及後續諸卷——作為其主要的詮釋透鏡。在這層意義上，本專案是雷爾主義的下游。
+Wheel of Heaven 把雷爾主義的源始素材——主要是 *訴說真相之書*（Claude Vorilhon，1974）及後續諸卷——作為其主要的詮釋透鏡。在這層意義上，本專案是雷爾主義的下游。
 
 但本專案並非雷爾運動的官方出版物。本語料庫的延伸大幅超出了標準雷爾派的自我呈現：歲差框架、與跨文化神話的整合、對特定聖經段落的技術性解讀、聯盟的政治結構重建、以及與當代基因組學與天體生物學的對話——這些都不是標準雷爾派機構素材的特徵。本專案未獲雷爾運動背書，並可能永遠不會。當本語料庫偏離標準雷爾派的表述時，它都是基於明確的理由。
 
@@ -242,7 +242,7 @@ question = "本專案取材自哪些來源？"
 answer = """
 本語料庫取材自多個來源家族，並在其間有明確的階層性優先順序：
 
-**主要**：雷爾派源始素材，主要為 *講述真理之書*（Vorilhon，1974）與後續諸卷。
+**主要**：雷爾派源始素材，主要為 *訴說真相之書*（Vorilhon，1974）與後續諸卷。
 
 **次要**：歲差神話傳統，基礎為 Giorgio de Santillana 與 Hertha von Dechend 的 *哈姆雷特之磨*（1969）。
 
@@ -324,7 +324,7 @@ question = "我可以在哪裡閱讀來源文本？"
 answer = """
 [圖書館](/zh-Hant/library/) 區塊承載著本語料庫所讀的主要來源文本，附有評註與背景。其中包括：
 
-- *講述真理之書*（Vorilhon，1974）——奠基性的雷爾派文本——連同其續篇《Extraterrestrials Took Me to Their Planet》與《Let's Welcome the Extraterrestrials》。
+- *訴說真相之書*（Vorilhon，1974）——奠基性的雷爾派文本——連同其續篇《Extraterrestrials Took Me to Their Planet》與《Let's Welcome the Extraterrestrials》。
 - 〈創世記〉（帶母音符號的希伯來文本與本專案自有譯文對照，另附標準英譯本）。
 - 《以諾書》。
 - 《Enuma Elish》。

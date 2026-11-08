@@ -50,7 +50,7 @@
         "fr": "Raëlisme",
         "he": "ראליזם",
         "ja": "ラエリアン・ムーブメント",
-        "ko": "라엘리안 운동",
+        "ko": "라엘리즘",
         "ru": "Раэлизм",
         "zh": "雷尔运动",
         "zh-Hant": "雷爾運動"
@@ -82,7 +82,7 @@
         "es": "Era de Acuario",
         "fr": "Ère du Verseau",
         "he": "עידן הדלי",
-        "ja": "みずがめ座の時代",
+        "ja": "水瓶座の時代",
         "ko": "물병자리 시대",
         "ru": "Эпоха Водолея",
         "zh": "水瓶座时代",
@@ -198,7 +198,8 @@
         "ko": "영원자 평의회",
         "ru": "Совет Вечных",
         "zh": "永恒者议会",
-        "zh-Hant": "永恆者議會"
+        "zh-Hant": "永恆者議會",
+        "he": "מועצת הנצחיים"
       }
     },
     {
@@ -277,7 +278,7 @@
         "fr": "Satan",
         "ja": "サタン",
         "ko": "사탄",
-        "ru": "ха-сатан",
+        "ru": "Сатана",
         "zh": "撒但",
         "zh-Hant": "撒但"
       },
@@ -340,7 +341,7 @@
       "definition": "Giorgio de Santillana and Hertha von Dechend's 1969 study reconstructing precessional cosmology as a cross-cultural framework preserved in world mythology. One of the corpus's two interpretive backbones (the Raëlian source material being the other).",
       "translations": {
         "en": "Hamlet's Mill",
-        "de": "Hamlets Mühle",
+        "de": "Hamlet's Mill",
         "es": "El molino de Hamlet",
         "fr": "Le Moulin d'Hamlet",
         "ja": "ハムレットの臼",
@@ -965,6 +966,58 @@
         "he": "פרסה"
       },
       "notes": "Italicised in body as a foreign technical unit. he 'פרסה' is the cognate ancient unit (1 פרסה ≈ 4 mil ≈ 3.84 km in Talmudic sources); other langs use phonetic transliteration."
+    },
+    {
+      "id": "raelian-movement",
+      "category": "core",
+      "definition": "The organization founded by Claude Vorilhon (Raël) in 1974 to spread the Elohim messages; distinct from Raëlism, the doctrine.",
+      "translations": {
+        "en": "Raëlian Movement",
+        "ko": "라엘리안 운동"
+      }
+    },
+    {
+      "id": "planet-of-the-eternals",
+      "category": "core",
+      "definition": "The Elohim home world as the canon names it in prose; distinct from the page title \"Elohim Home Planet\".",
+      "translations": {
+        "en": "Planet of the Eternals",
+        "de": "Planet der Ewigen",
+        "es": "Planeta de los Eternos",
+        "ja": "永遠者の惑星",
+        "ko": "영원자들의 행성",
+        "zh-Hant": "永恆者行星"
+      }
+    },
+    {
+      "id": "book-which-tells-the-truth",
+      "category": "core",
+      "definition": "Raël's first book (1974), French original Le Livre qui dit la vérité.",
+      "translations": {
+        "en": "The Book Which Tells the Truth",
+        "fr": "Le Livre qui dit la vérité",
+        "ja": "真実を告げる書",
+        "zh": "讲述真相之书",
+        "zh-Hant": "訴說真相之書"
+      }
+    },
+    {
+      "id": "framework",
+      "category": "core",
+      "definition": "The Wheel of Heaven framework: the project's interpretive reading.",
+      "translations": {
+        "en": "framework",
+        "ru": "рамка"
+      }
+    },
+    {
+      "id": "doubled-signature",
+      "category": "core",
+      "definition": "Each age marked by its own constellation and its zodiacal opposite.",
+      "translations": {
+        "en": "Doubled Signature",
+        "es": "Signatura doble"
+      }
     }
   ],
   "categories": {

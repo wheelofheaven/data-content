@@ -1,6 +1,6 @@
 +++
 title = "盤古大陸"
-description = "盤古大陸是板塊構造學為古生代末期所復原的唯一超級大陸。Wheel of Heaven 文集將其視為厄羅欣合成地球生命最初階段的參照地質配置。"
+description = "盤古大陸是板塊構造學為古生代末期所復原的唯一超級大陸。Wheel of Heaven 文集將其視為耶洛因合成地球生命最初階段的參照地質配置。"
 template = "wiki-page.html"
 toc = true
 

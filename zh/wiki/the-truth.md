@@ -1,6 +1,6 @@
 +++
 title = "真理"
-description = "真理在雷尔派文献与 Wheel of Heaven 文集中指通过先知系谱由厄罗欣传递的连贯信息内容 — 与宗教制度所累积起来的扭曲层次相对立。"
+description = "真理在雷尔派文献与 Wheel of Heaven 文集中指通过先知系谱由耶洛因传递的连贯信息内容 — 与宗教制度所累积起来的扭曲层次相对立。"
 template = "wiki-page.html"
 toc = true
 

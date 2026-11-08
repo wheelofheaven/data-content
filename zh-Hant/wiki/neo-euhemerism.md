@@ -1,6 +1,6 @@
 +++
 title = "新埃烏赫梅羅斯主義"
-description = "新埃烏赫梅羅斯主義在 Wheel of Heaven 文集中指將神性敘事讀作真實人物歷史記憶的立場,並由厄羅欣命題加以更新。它延續了古代埃烏赫梅羅斯主義,並在其中納入了外星維度。"
+description = "新埃烏赫梅羅斯主義在 Wheel of Heaven 文集中指將神性敘事讀作真實人物歷史記憶的立場,並由耶洛因命題加以更新。它延續了古代埃烏赫梅羅斯主義,並在其中納入了外星維度。"
 template = "wiki-page.html"
 toc = true
 

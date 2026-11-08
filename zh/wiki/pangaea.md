@@ -1,6 +1,6 @@
 +++
 title = "盘古大陆"
-description = "盘古大陆是板块构造学为古生代末期所复原的唯一超级大陆。Wheel of Heaven 文集将其视为厄罗欣合成地球生命最初阶段的参照地质配置。"
+description = "盘古大陆是板块构造学为古生代末期所复原的唯一超级大陆。Wheel of Heaven 文集将其视为耶洛因合成地球生命最初阶段的参照地质配置。"
 template = "wiki-page.html"
 toc = true
 

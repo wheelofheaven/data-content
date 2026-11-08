@@ -27,7 +27,7 @@ see_also = [
     { title = "Jesus", path = "/wiki/jesus/", description = "Der zentrale Bote des Fische-Zeitalters; Die Rolle Christi ist um das Matthäusevangelium herum aufgebaut." },
     { title = "Mohammed", path = "/wiki/muhammad/", description = "Der koranische Bote; der Kanon befasst sich direkt mit den Suren 21, 54 und 56." },
     { title = "Apokalypse", path = "/wiki/apocalypse/", description = "Die Lesart der Offenbarung, entwickelt in Die neuen Offenbarungen." },
-    { title = "Hamlets Mühle", path = "/wiki/hamlets-mill/", description = "Kulturübergreifende mythologisch-präzessionale Lesart, die dem Spurenargument des Kanons benachbart ist." },
+    { title = "Hamlet's Mill", path = "/wiki/hamlets-mill/", description = "Kulturübergreifende mythologisch-präzessionale Lesart, die dem Spurenargument des Kanons benachbart ist." },
     { title = "Doppelte Signatur", path = "/wiki/doubled-signature/", description = "Das Korpusprinzip, nach dem der Kanon und seine Bezugstexte auf dieselbe zugrundeliegende Wirklichkeit konvergieren." },
 ]
 

@@ -1,6 +1,6 @@
 +++
 title = "無限"
-description = "無限在雷爾派文獻中既是宇宙學框架(無限的時空、無數的文明),也是厄羅欣靈性的核心概念。Wheel of Heaven 文集論述無限在銜接宇宙多元論與文明鏈時所起的結構性功能。"
+description = "無限在雷爾派文獻中既是宇宙學框架(無限的時空、無數的文明),也是耶洛因靈性的核心概念。Wheel of Heaven 文集論述無限在銜接宇宙多元論與文明鏈時所起的結構性功能。"
 template = "wiki-page.html"
 toc = true
 

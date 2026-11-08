@@ -1,6 +1,6 @@
 +++
 title = "龍"
-description = "龍是幾乎所有神話中都有證言的複合生物,其影像學的匯聚長期令比較神話學困惑。Wheel of Heaven 文集將其讀作不同時代所觀察到的厄羅欣機械或生物的記憶性壓縮。"
+description = "龍是幾乎所有神話中都有證言的複合生物,其影像學的匯聚長期令比較神話學困惑。Wheel of Heaven 文集將其讀作不同時代所觀察到的耶洛因機械或生物的記憶性壓縮。"
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
 title = "人道主義"
-description = "人道主義在雷爾派文獻框架中指普遍倫理原則的總體 — 人權、消除貧困、對生命的尊重 — 是人類邁向與厄羅欣公開接觸的準備。Wheel of Heaven 文集將其列為大歸來的政治條件之一。"
+description = "人道主義在雷爾派文獻框架中指普遍倫理原則的總體 — 人權、消除貧困、對生命的尊重 — 是人類邁向與耶洛因公開接觸的準備。Wheel of Heaven 文集將其列為大歸來的政治條件之一。"
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
 title = "四層級"
-description = "四層級在 Wheel of Heaven 文集中指對聖典的分層閱讀 — 由字面意義出發,經象徵與秘傳層級,達至技術=厄羅欣層面的意義。它是本專案核心的解經工具。"
+description = "四層級在 Wheel of Heaven 文集中指對聖典的分層閱讀 — 由字面意義出發,經象徵與秘傳層級,達至技術=耶洛因層面的意義。它是本專案核心的解經工具。"
 template = "wiki-page.html"
 toc = true
 
