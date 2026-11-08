@@ -849,8 +849,12 @@ embodied God; exalted humans who become gods in their turn; a Christ
 who has visited "worlds without number"; a named star-region, Kolob,
 associated with the divine administration — plurality-of-worlds
 theology, load-bearing and doctrinally central, from a farmhand in the
-1830s, decades before such cosmology had any respectable ambient
-currency, and pointing with disconcerting directness at the cosmic
+1830s. The plurality of worlds was itself a live debate by then:
+Fontenelle's *Conversations on the Plurality of Worlds* had been in print
+since 1686, and Thomas Paine turned the idea against Christian redemption
+in *The Age of Reason*. The payload's weight therefore falls on the
+embodied, plural, ascending divinity rather than on the worlds alone,
+and that divinity points with disconcerting directness at the cosmic
 architecture the Raëlian books would describe in 1973. The corpus's
 {% wiki(slug="elohim") %}Elohim{% end %} reading of the LDS deposit is
 developed in the catalogue and its companion entries; what matters here

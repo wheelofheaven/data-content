@@ -9,7 +9,7 @@ draft = false
 card_summary = "The argument for an early Islamic center at Petra, examined through qibla orientations, historical texts, and Nabataean connections."
 claim_type = "speculative"
 core_claim_ids = ["woh-claim-0024"]
-core_versions = { woh-claim-0024 = "0.1.0" }
+core_versions = { woh-claim-0024 = "0.1.1" }
 editorial_pass = "2026-05"
 article_type = "explainer"
 category = "Comparative"

@@ -12,7 +12,7 @@ editorial_pass = "2026-05"
 entry_type = "people"
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0024"]
-core_versions = { woh-claim-0024 = "0.1.0" }
+core_versions = { woh-claim-0024 = "0.1.1" }
 timeline = ["pisces", "aries"]
 alternative_names = ["נבטו (Nabataean Aramaic Nabaṭu)", "Ναβαταῖοι (Greek Nabataîoi)", "ٱلْأَنْبَاط (Arabic al-Anbāṭ)", "Nabateans", "the Nabati", "people of Raqmū"]
 see_also = [
