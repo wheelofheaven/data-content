@@ -51,7 +51,7 @@ The chronological alignment with the Raëlian source material is operationally s
 
 - **December 13, 1973**: Raël's first contact at Puy-de-Lassolas — *Le Livre qui dit la vérité* dictated; principal initial framework content delivered
 - **1975**: Mandelbrot coins the term *fractal* in *Les objets fractals*
-- **October 7, 1975**: Raël's second contact at Roc Plat — *Les Extra-Terrestres m'ont emmené sur leur planète* dictated, with the principal infinite-hierarchical passages including the "Earth as particle of an atom of an atom" image and the broader Fractal Cosmology content
+- **October 7, 1975**: Raël's second contact at Roc Plat — *Les Extra-terrestres m'ont emmené sur leur planète* dictated, with the principal infinite-hierarchical passages including the "Earth as particle of an atom of an atom" image and the broader Fractal Cosmology content
 - **1980-1982**: Mandelbrot develops the Mandelbrot set and publishes *The Fractal Geometry of Nature* (W. H. Freeman, 1982), the principal popular-scientific articulation of the fractal-mathematical framework
 - **1980s**: Popular awareness of fractals develops substantially, with the Mandelbrot set becoming one of the most culturally visible mathematical objects of the late twentieth century
 

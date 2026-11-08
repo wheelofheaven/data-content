@@ -1,5 +1,5 @@
 +++
-title = "Le Livre Qui Dit la Vérité"
+title = "Le Livre qui dit la vérité"
 slug = "the-book-which-tells-the-truth"
 description = "Un livre de révélation contenant 7 chapitres d'enseignements sacrés et de dialogues."
 template = "library-book.html"

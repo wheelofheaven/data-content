@@ -205,7 +205,7 @@ poètes le savaient.
 Tout ce qui précède relève de l'érudition dominante, énoncée avec ses propres
 niveaux de confiance. Ce qui suit est la lecture du corpus, et son statut
 épistémique est `framework` : explicite dans le canon
-{% wiki(slug="raelism") %}raélien{% end %}, développé par le corpus, et
+{% wiki(slug="raelism") %}raëlien{% end %}, développé par le corpus, et
 endossé par aucune discipline dominante.{{ footnote(id="3") }}
 
 Le récit du canon au sujet de la Grèce possède deux ancrages, séparés par des
@@ -336,7 +336,7 @@ Quatrièmement, l'audit permanent : la **substitution de catégorie**. Traduire
 le patronage divin des empires en délégations de transfert de technologie
 redécrit l'angélologie de Daniel dans l'idiome de prestige d'un âge
 technologique — ainsi va l'objection que les spécialistes de la religion ont
-opposée à l'exégèse raélienne en général, et elle s'applique de plein droit à
+opposée à l'exégèse raëlienne en général, et elle s'applique de plein droit à
 la matière de cet article. La réponse du corpus est la discipline même qu'il
 applique partout : la lecture doit finir par gagner sa place dans des
 prédictions, ou être abandonnée.

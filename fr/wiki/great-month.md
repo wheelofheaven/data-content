@@ -312,7 +312,7 @@ The Great Month entry surfaces several open questions for the framework's broade
 
 ## References
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's broader interpretive work; the Great Month chronological framework is not explicitly developed in the Vorilhon source material but is consistent with the broader corpus position.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les Extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's broader interpretive work; the Great Month chronological framework is not explicitly developed in the Vorilhon source material but is consistent with the broader corpus position.]
 
 Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston: Gambit, 1969. [The foundational scholarly engagement with the cross-cultural preservation of precessional numerical content, treating the 25,920 / 432 / 72 / 360 numerical structure as evidence of pre-Hipparchian transmission.]
 

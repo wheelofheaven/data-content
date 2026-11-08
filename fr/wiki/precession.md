@@ -366,7 +366,7 @@ L'entrée Précession fait surgir plusieurs questions ouvertes pour le travail i
 
 ## Références
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) et *Les extra-terrestres m'ont emmené sur leur planète* (1976), rassemblés sous le titre *Le Message des Élohim* (Fondation raëlienne, édition française actuelle). [Source primaire pour la lecture plus large du cadre ; la précession elle-même n'est pas explicitement développée dans le matériau source de Vorilhon, mais le cadre chronologique adopté par le corpus est cohérent avec le contenu plus large du matériau source.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) et *Les Extra-terrestres m'ont emmené sur leur planète* (1976), rassemblés sous le titre *Le Message donné par les extra-terrestres* (Fondation raëlienne, édition française actuelle). [Source primaire pour la lecture plus large du cadre ; la précession elle-même n'est pas explicitement développée dans le matériau source de Vorilhon, mais le cadre chronologique adopté par le corpus est cohérent avec le contenu plus large du matériau source.]
 
 Santillana, Giorgio de, et Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston : Gambit, 1969. [L'engagement universitaire fondateur avec la thèse selon laquelle la mythologie mondiale pré-hipparchéenne encode systématiquement un contenu astronomique précessionnel. La principale référence externe pour la lecture plus large du cadre concernant la signification mythologique de la précession.]
 

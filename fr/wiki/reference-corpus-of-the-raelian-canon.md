@@ -1,7 +1,7 @@
 +++
-title = "Corpus de référence du canon raélien"
+title = "Corpus de référence du canon raëlien"
 slug = "reference-corpus-of-the-raelian-canon"
-description = "Un catalogue des textes, traditions et figures que les trois livres canoniques du corpus raélien — Le Livre qui dit la Vérité (1974), Les Extra-terrestres m'ont emmené sur leur planète (1975) et Accueillir les Extra-terrestres (1979) — citent directement ou auxquels ils font allusion indirectement, organisé en un premier niveau de sources nommées et un second niveau de sources suggérées."
+description = "Un catalogue des textes, traditions et figures que les trois livres canoniques du corpus raëlien — Le Livre qui dit la vérité (1974), Les Extra-terrestres m'ont emmené sur leur planète (1975) et Accueillir les Extra-terrestres (1979) — citent directement ou auxquels ils font allusion indirectement, organisé en un premier niveau de sources nommées et un second niveau de sources suggérées."
 template = "wiki-page.html"
 toc = true
 
@@ -9,9 +9,9 @@ toc = true
 category = "Theology & Traditions"
 claim_type = "inferred"
 editorial_pass = "2026-05"
-alternative_names = ["Carte intertextuelle du canon raélien", "Textes et traditions cités dans le canon raélien", "Champ intertextuel du canon raélien", "L'horizon de sources du canon"]
+alternative_names = ["Carte intertextuelle du canon raëlien", "Textes et traditions cités dans le canon raëlien", "Champ intertextuel du canon raëlien", "L'horizon de sources du canon"]
 timeline = ["pisces"]
-lead = "À travers les trois livres canoniques du corpus raélien, Claude Vorilhon (Raël) construit son exposé en citant, paraphrasant et évoquant une vaste gamme de textes, traditions et figures préexistants. Cette entrée catalogue ce champ intertextuel en deux niveaux : un premier niveau d'œuvres que le canon nomme ou cite ouvertement, et un second niveau de traditions, langues et motifs que le canon engage sans les citer formellement."
+lead = "À travers les trois livres canoniques du corpus raëlien, Claude Vorilhon (Raël) construit son exposé en citant, paraphrasant et évoquant une vaste gamme de textes, traditions et figures préexistants. Cette entrée catalogue ce champ intertextuel en deux niveaux : un premier niveau d'œuvres que le canon nomme ou cite ouvertement, et un second niveau de traditions, langues et motifs que le canon engage sans les citer formellement."
 reading = "interpretive"
 
 see_also = [
@@ -32,12 +32,12 @@ see_also = [
 ]
 
 footnotes = [
-    { content = "L'omnibus anglophone de 2005 *Intelligent Design — Message From the Designers* réunit les trois livres canoniques (*Le Livre qui dit la Vérité* 1974, *Les Extra-terrestres m'ont emmené sur leur planète* 1975, *Accueillir les Extra-terrestres* 1979) ainsi que des ajouts ultérieurs. Lorsque les éditions française et anglaise diffèrent dans leurs citations bibliques, le canon lui-même note la divergence : les volumes français s'appuient principalement sur la traduction d'Édouard Dhorme, tandis que l'omnibus anglais utilise la Restored Name King James Version (RNKJV) pour la plupart des citations, avec un usage occasionnel de la New King James Version, de l'American Standard Version, de la Webster Bible, de la Hebrew Names Version et de la Darby Translation. Ces choix éditoriaux constituent eux-mêmes des positions interprétatives directes." },
+    { content = "L'omnibus anglophone de 2005 *Intelligent Design — Message From the Designers* réunit les trois livres canoniques (*Le Livre qui dit la vérité* 1974, *Les Extra-terrestres m'ont emmené sur leur planète* 1975, *Accueillir les extra-terrestres* 1979) ainsi que des ajouts ultérieurs. Lorsque les éditions française et anglaise diffèrent dans leurs citations bibliques, le canon lui-même note la divergence : les volumes français s'appuient principalement sur la traduction d'Édouard Dhorme, tandis que l'omnibus anglais utilise la Restored Name King James Version (RNKJV) pour la plupart des citations, avec un usage occasionnel de la New King James Version, de l'American Standard Version, de la Webster Bible, de la Hebrew Names Version et de la Darby Translation. Ces choix éditoriaux constituent eux-mêmes des positions interprétatives directes." },
     { content = "Édouard Dhorme (1881-1966) était un prêtre catholique et assyriologue français dont la principale traduction biblique parut entre 1956 et 1959 dans la Bibliothèque de la Pléiade. Les rendus de Dhorme — notamment *science* là où les traductions anglophones donnent *good and evil*, et sa précision assyriologico-philologique d'ensemble — fournissent une position interprétative substantielle dont le canon dépend. Le choix du canon de lire à travers Dhorme n'est pas esthétique ; la traduction de Dhorme tend à démystifier l'hébreu, et cette démystification est structurellement nécessaire à la lecture du canon." },
-    { content = "La liste des « traces » (Kojiki, Popol Vuh, Chronique d'Akakor, Épopée de Gilgamesh, Mahābhārata) dans le commentaire *Oui... je suis raélien* apparaît dans une contribution d'un disciple à *Accueillir les Extra-terrestres* plutôt que dans la voix propre de Raël. Elle a été canonisée par préservation à travers les éditions, mais c'est une synthèse de disciple. La question de savoir s'il faut lui accorder le même poids qu'aux citations du premier niveau reste une question éditoriale ouverte — et la *Chronique d'Akakor* en particulier s'accorde mal avec le reste du catalogue, puisque l'ouvrage de Brugger de 1976 a été largement traité par la critique ultérieure comme une supercherie littéraire." },
+    { content = "La liste des « traces » (Kojiki, Popol Vuh, Chronique d'Akakor, Épopée de Gilgamesh, Mahābhārata) dans le commentaire *Oui... je suis raëlien* apparaît dans une contribution d'un disciple à *Accueillir les extra-terrestres* plutôt que dans la voix propre de Raël. Elle a été canonisée par préservation à travers les éditions, mais c'est une synthèse de disciple. La question de savoir s'il faut lui accorder le même poids qu'aux citations du premier niveau reste une question éditoriale ouverte — et la *Chronique d'Akakor* en particulier s'accorde mal avec le reste du catalogue, puisque l'ouvrage de Brugger de 1976 a été largement traité par la critique ultérieure comme une supercherie littéraire." },
     { content = "Le passage cosmologique que le canon attribue à « la Kabbale » dans *La Fin du Monde* — la « hauteur du créateur » et la « hauteur de ses talons » mesurées en *parasanges* — correspond à des motifs de la tradition du *Shi'ur Qomah* de spéculation ésotérique sur le corps de Dieu (env. IIe-IVe siècle de notre ère) plutôt qu'au corpus du *Zohar* que le terme « Kabbale » désigne plus conventionnellement aujourd'hui. Le canon nomme la Kabbale de manière générique ; une lecture philologique plus serrée gloserait la référence comme étant spécifiquement le Shi'ur Qomah." },
     { content = "Le travail étymologico-philologique du canon — *Élohim* comme « ceux qui sont venus du ciel », *angelos* comme « messager », *apocalypsis* comme « révélation », *diabolos* comme « calomniateur », *euagelion* comme « bonne nouvelle », et ainsi de suite — traite les histoires des mots comme des témoignages à part entière. L'exactitude de chaque étymologie individuelle est inégale (certaines relèvent du consensus savant courant, d'autres sont spéculatives ou contestées), mais le geste structurel est constant : le canon lit l'étymologie comme préservant un contenu historique que le vocabulaire théologique conventionnel a obscurci. C'est l'une des opérations interprétatives récurrentes du canon." },
-    { content = "Le canon exclut explicitement de son champ la tradition interprétative plus large des anciens astronautes (Sendy, Sitchin, von Däniken, Wallis, Biglino) en tant que *contexte importé par le lecteur* plutôt que comme corpus de référence propre au canon. Le canon raélien revendique la révélation, non la dérivation, et traite la littérature religieuse antérieure comme des comptes rendus imparfaits de contacts élohimiens antérieurs plutôt que comme ses propres sources intellectuelles. Le cadre du corpus distingue soigneusement ces strates : cette entrée ne catalogue que ce que le canon lui-même nomme et engage." },
+    { content = "Le canon exclut explicitement de son champ la tradition interprétative plus large des anciens astronautes (Sendy, Sitchin, von Däniken, Wallis, Biglino) en tant que *contexte importé par le lecteur* plutôt que comme corpus de référence propre au canon. Le canon raëlien revendique la révélation, non la dérivation, et traite la littérature religieuse antérieure comme des comptes rendus imparfaits de contacts élohimiens antérieurs plutôt que comme ses propres sources intellectuelles. Le cadre du corpus distingue soigneusement ces strates : cette entrée ne catalogue que ce que le canon lui-même nomme et engage." },
 ]
 
 [[extra.references]]
@@ -50,7 +50,7 @@ note = "Vorilhon (Raël, 1975) ; contient le chapitre Bouddhisme, les citations 
 
 [[extra.references]]
 id = "lets-welcome-the-extraterrestrials"
-note = "Vorilhon (Raël, 1979) ; contient le chapitre Les Nouvelles Révélations sur l'Apocalypse et le commentaire Oui... je suis raélien énumérant les traces survivantes."
+note = "Vorilhon (Raël, 1979) ; contient le chapitre Les Nouvelles Révélations sur l'Apocalypse et le commentaire Oui... je suis raëlien énumérant les traces survivantes."
 
 [[extra.references]]
 id = "intelligent-design-message-from-the-designers"
@@ -71,7 +71,7 @@ note = "Directement cité dans Les Extra-terrestres m'ont emmené sur leur plan�
 
 [[extra.references]]
 id = "book-of-enoch"
-note = "Nommé dans le commentaire Oui... je suis raélien comme l'un des textes les plus proches de la vérité du canon."
+note = "Nommé dans le commentaire Oui... je suis raëlien comme l'un des textes les plus proches de la vérité du canon."
 
 [[extra.references]]
 id = "shiur-qomah"
@@ -79,38 +79,38 @@ note = "La tradition mystique juive ancienne dont le motif anthropomorphique-cos
 
 [[extra.references]]
 id = "epic-of-gilgamesh"
-note = "Énumérée dans le commentaire Oui... je suis raélien parmi les traces survivantes (identifiée comme « sumérienne-babylonienne »)."
+note = "Énumérée dans le commentaire Oui... je suis raëlien parmi les traces survivantes (identifiée comme « sumérienne-babylonienne »)."
 
 [[extra.references]]
 id = "mahabharata"
-note = "Nommé dans le commentaire Oui... je suis raélien ; les Védas et le Rāmāyaṇa sont énumérés comme parties du corpus plus large."
+note = "Nommé dans le commentaire Oui... je suis raëlien ; les Védas et le Rāmāyaṇa sont énumérés comme parties du corpus plus large."
 
 [[extra.references]]
 id = "ramayana"
-note = "Énuméré aux côtés du Mahābhārata dans le commentaire Oui... je suis raélien."
+note = "Énuméré aux côtés du Mahābhārata dans le commentaire Oui... je suis raëlien."
 
 [[extra.references]]
 id = "vedas"
-note = "Nommé au sein du corpus du Mahābhārata dans le commentaire Oui... je suis raélien."
+note = "Nommé au sein du corpus du Mahābhārata dans le commentaire Oui... je suis raëlien."
 
 [[extra.references]]
 id = "kojiki"
-note = "La chronique japonaise de 712 ap. J.-C. nommée dans le commentaire Oui... je suis raélien parmi les traces survivantes."
+note = "La chronique japonaise de 712 ap. J.-C. nommée dans le commentaire Oui... je suis raëlien parmi les traces survivantes."
 
 [[extra.references]]
 id = "popol-vuh"
-note = "L'épopée maya k'iche' de la création nommée dans le commentaire Oui... je suis raélien, aux côtés de la Chronique d'Akakor comme témoignage latino-américain."
+note = "L'épopée maya k'iche' de la création nommée dans le commentaire Oui... je suis raëlien, aux côtés de la Chronique d'Akakor comme témoignage latino-américain."
 
 [[extra.references]]
 id = "chronicle-of-akakor"
-note = "Brugger (1976) ; apparaît dans la liste des traces de Oui... je suis raélien. La critique ultérieure traite largement l'œuvre de Brugger comme une supercherie littéraire — une tension non résolue dans l'horizon de référence du canon."
+note = "Brugger (1976) ; apparaît dans la liste des traces de Oui... je suis raëlien. La critique ultérieure traite largement l'œuvre de Brugger comme une supercherie littéraire — une tension non résolue dans l'horizon de référence du canon."
 +++
 
 ## Réponse rapide
 
-Les trois livres du canon raélien — *Le Livre qui dit la Vérité* (1974), *Les Extra-terrestres m'ont emmené sur leur planète* (1975) et *Accueillir les Extra-terrestres* (1979) — ne se présentent pas comme dérivés d'écrits antérieurs. Ils se présentent comme révélation directe des Élohim, la littérature religieuse antérieure étant traitée comme un compte rendu imparfait de contacts élohimiens antérieurs. Dans ce cadre, toutefois, le canon engage un corps substantiel de matériaux préexistants. Cette entrée cartographie cet engagement en deux niveaux : un **premier niveau** de textes et figures que le canon nomme ou cite, et un **second niveau** de traditions, langues et motifs qu'il invoque par allusion.
+Les trois livres du canon raëlien — *Le Livre qui dit la vérité* (1974), *Les Extra-terrestres m'ont emmené sur leur planète* (1975) et *Accueillir les extra-terrestres* (1979) — ne se présentent pas comme dérivés d'écrits antérieurs. Ils se présentent comme révélation directe des Élohim, la littérature religieuse antérieure étant traitée comme un compte rendu imparfait de contacts élohimiens antérieurs. Dans ce cadre, toutefois, le canon engage un corps substantiel de matériaux préexistants. Cette entrée cartographie cet engagement en deux niveaux : un **premier niveau** de textes et figures que le canon nomme ou cite, et un **second niveau** de traditions, langues et motifs qu'il invoque par allusion.
 
-Une note terminologique avant le catalogue. Dans la lecture de Wheel of Heaven, les textes énumérés ci-dessous ne sont pas des *sources* du canon raélien au sens philologique ; le canon revendique la révélation, non la dérivation. La description exacte est que ces textes constituent le **corpus de référence** du canon — l'ensemble des écrits antérieurs que le canon lit, relit et demande à son lecteur de relire à ses côtés.
+Une note terminologique avant le catalogue. Dans la lecture de Wheel of Heaven, les textes énumérés ci-dessous ne sont pas des *sources* du canon raëlien au sens philologique ; le canon revendique la révélation, non la dérivation. La description exacte est que ces textes constituent le **corpus de référence** du canon — l'ensemble des écrits antérieurs que le canon lit, relit et demande à son lecteur de relire à ses côtés.
 
 ## Portée et méthode
 
@@ -168,7 +168,7 @@ Le canon engage non seulement le texte biblique mais des traductions spécifique
 
 - **La Kabbale** — nommée dans *La Fin du Monde*, chapitre *À la Racine de Toutes les Religions*, comme « le livre le plus proche de la vérité ». Le canon lui attribue un passage cosmologique spécifique concernant la « hauteur du créateur » et la distance entre la Terre et la planète d'origine des Élohim, mesurée en *parasanges*. (La référence à un passage du *Cantique des Cantiques* au sein de la Kabbale renvoie ici à la tradition du *Shi'ur Qomah* de spéculation ésotérique sur le corps de Dieu{{ cite(id="shiur-qomah", text="[4]", title="Shi'ur Qomah ; la tradition mystique juive ancienne du corps de Dieu") }}{{ footnote(id="4") }}.)
 - **Le Coran** — cité avec précision chapitre-et-verset dans *Les Extra-terrestres m'ont emmené sur leur planète*. Les citations directes incluent la **Sourate 21:1–5**, la **Sourate 54:1** et la **Sourate 56:15–24**.
-- **Le Livre d'Hénoch** — nommé dans le commentaire *Oui... je suis raélien* comme l'un des textes les plus proches de la vérité du canon.
+- **Le Livre d'Hénoch** — nommé dans le commentaire *Oui... je suis raëlien* comme l'un des textes les plus proches de la vérité du canon.
 
 ### Figures nommées traitées comme messagers des Élohim
 
@@ -200,17 +200,17 @@ Il s'agit des textes, traditions, langues et motifs que le canon engage sans cit
 
 ### Traditions religieuses nommées comme portant des « traces »
 
-Dans le chapitre *À la Racine de Toutes les Religions* (et la section de commentaire étroitement liée *Oui... je suis raélien*), le canon et ses premiers disciples énumèrent les traditions dans lesquelles « des témoignages peuvent être trouvés » mais dont aucun texte spécifique n'est cité :
+Dans le chapitre *À la Racine de Toutes les Religions* (et la section de commentaire étroitement liée *Oui... je suis raëlien*), le canon et ses premiers disciples énumèrent les traditions dans lesquelles « des témoignages peuvent être trouvés » mais dont aucun texte spécifique n'est cité :
 
 - **Mythologie grecque** — nommée comme contenant « d'importants témoignages », localisée par le canon dans des régions où les Élohim auraient eu des bases.
 - **Écritures mormones** — nommées mais non citées.
-- **Mahābhārata** (avec les *Védas* et le *Rāmāyaṇa* énumérés comme ses parties) — nommé dans le commentaire *Oui... je suis raélien* parmi les traces survivantes.
+- **Mahābhārata** (avec les *Védas* et le *Rāmāyaṇa* énumérés comme ses parties) — nommé dans le commentaire *Oui... je suis raëlien* parmi les traces survivantes.
 - **Kojiki** du Japon — nommé dans la même liste.
 - **Popol Vuh** des Mayas k'iche' — nommé dans la même liste.
 - **Chronique d'Akakor** — nommée dans la même liste, aux côtés du Popol Vuh, comme témoignage latino-américain.
 - **Épopée de Gilgamesh**, identifiée comme « sumérienne-babylonienne » — nommée dans la même liste.
 
-La liste *Oui... je suis raélien* est un commentaire d'un disciple plutôt qu'une déclaration de Raël, mais elle apparaît dans l'omnibus canonique et articule la même lecture que le canon établit dans *À la Racine de Toutes les Religions*{{ footnote(id="3") }}.
+La liste *Oui... je suis raëlien* est un commentaire d'un disciple plutôt qu'une déclaration de Raël, mais elle apparaît dans l'omnibus canonique et articule la même lecture que le canon établit dans *À la Racine de Toutes les Religions*{{ footnote(id="3") }}.
 
 ### Langues engagées philologiquement
 
@@ -256,7 +256,7 @@ Quelques tensions nettes méritent d'être signalées pour les travaux futurs de
 
 **La divergence Dhorme / RNKJV.** Le canon français et l'omnibus anglais ne citent pas toujours la même formulation biblique. Les notes éditoriales reconnaissent explicitement ce point, mais la conséquence pratique est que certaines lectures de Wheel of Heaven sont sensibles à la traduction que le lecteur a sous les yeux. Le choix par le canon de Dhorme est lui-même une position interprétative — le rendu de Dhorme tend à démystifier, et le canon dépend de cette démystification.
 
-**Le statut de l'énumération *Oui... je suis raélien*.** La liste des « traces » (Kojiki, Popol Vuh, Akakor, Gilgamesh, Mahābhārata) apparaît dans une contribution d'un commentateur à *Accueillir les Extra-terrestres*, non dans la voix propre de Raël. La liste a été canonisée par sa préservation à travers les éditions, mais c'est une synthèse de disciple plutôt qu'une revendication de révélation directe. La question de savoir s'il faut lui accorder le même poids qu'au premier niveau reste une question éditoriale ouverte.
+**Le statut de l'énumération *Oui... je suis raëlien*.** La liste des « traces » (Kojiki, Popol Vuh, Akakor, Gilgamesh, Mahābhārata) apparaît dans une contribution d'un commentateur à *Accueillir les extra-terrestres*, non dans la voix propre de Raël. La liste a été canonisée par sa préservation à travers les éditions, mais c'est une synthèse de disciple plutôt qu'une revendication de révélation directe. La question de savoir s'il faut lui accorder le même poids qu'au premier niveau reste une question éditoriale ouverte.
 
 **La référence à la « Kabbale ».** Le passage cosmologique attribué à la Kabbale dans *La Fin du Monde* — avec la mesure en *parasanges* et la formule « hauteur du créateur » / « hauteur de ses talons » — correspond à des motifs de la tradition du *Shi'ur Qomah* plutôt qu'au *Zohar* proprement dit. Le canon nomme la Kabbale de manière générique. Cela soulève la question de savoir si la « Kabbale » du canon devrait être glosée comme étant spécifiquement le corpus du *Shi'ur Qomah*, ou laissée au niveau plus général que le canon lui-même utilise.
 

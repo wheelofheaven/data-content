@@ -18,7 +18,7 @@ canon_links = [
     { title = "Ufologie", path = "/wiki/ufology/" },
     { title = "Élohim", path = "/wiki/elohim/" },
     { title = "Théorie des Anciens Astronautes", path = "/wiki/ancient-astronaut-hypothesis/" },
-    { title = "Raélisme", path = "/wiki/raelism/" }
+    { title = "Raëlisme", path = "/wiki/raelism/" }
 ]
 sources = [
     { title = "Portail PURSUE — documents et déclarations de la Release 01", url = "https://www.war.gov/UFO", outlet = "U.S. Department of War", date = "2026-05-08" },
@@ -90,7 +90,7 @@ Une question sérieuse pour le corpus consiste à savoir comment enregistrer les
 | Date | Événement | Statut |
 |---|---|---|
 | 1972 | La mission Apollo 17 capture l'image de l'horizon lunaire désormais incluse dans la Release 01 | archives |
-| 13 décembre 1973 | Contact entre Raël et l'officier de l'alliance à Puy-de-Lassolas | selon la source raélienne |
+| 13 décembre 1973 | Contact entre Raël et l'officier de l'alliance à Puy-de-Lassolas | selon la source raëlienne |
 | 16 décembre 2017 | Le *New York Times* révèle l'Advanced Aerospace Threat Identification Program | confirmé |
 | 25 juin 2021 | Évaluation préliminaire de l'ODNI sur les UAP remise au Congrès | confirmé |
 | 15 juillet 2022 | Création de l'All-domain Anomaly Resolution Office (AARO) | confirmé |

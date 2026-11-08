@@ -76,7 +76,7 @@ references = [
 ]
 
 footnotes = [
-    { content = "Les deux rencontres forment le cadre des deux premiers livres raéliens. Le premier message (1973, publié en 1974 sous le titre *Le Livre qui dit la vérité*) fut délivré sur six jours dans le cratère du Puy-de-Lassolas, en Auvergne. Le second (1975, publié sous le titre *Les Extra-terrestres m'ont emmené sur leur planète*) se déroula en partie sur une base que Yahvé décrit comme « relativement proche de la terre » — explicitement pas la planète d'origine des Élohim, ni la Planète des Éternels où sont censés vivre les morts recréés." },
+    { content = "Les deux rencontres forment le cadre des deux premiers livres raëliens. Le premier message (1973, publié en 1974 sous le titre *Le Livre qui dit la vérité*) fut délivré sur six jours dans le cratère du Puy-de-Lassolas, en Auvergne. Le second (1975, publié sous le titre *Les Extra-terrestres m'ont emmené sur leur planète*) se déroula en partie sur une base que Yahvé décrit comme « relativement proche de la terre » — explicitement pas la planète d'origine des Élohim, ni la Planète des Éternels où sont censés vivre les morts recréés." },
     { content = "L'étude de la manière dont les traits d'un organisme varient avec la taille de son corps — du grec *állos*, « autre », et *métron*, « mesure ». La plupart des rythmes et durées biologiques ne varient pas proportionnellement à la masse (un exposant de 1) mais comme la masse élevée à une fraction simple, généralement un multiple d'un quart. Cette régularité est l'un des schémas empiriques les plus robustes de toute la biologie." },
     { content = "La fréquence à laquelle une lumière clignotante cesse de sembler clignoter et se fond en une lueur continue. C'est une lecture directe de la résolution temporelle du système nerveux — sa fréquence d'images. Les petits animaux rapides ont des fréquences de fusion élevées (une mouche distingue le scintillement au-delà de 250 Hz, là où un humain fusionne autour de 60) ; les grands animaux lents en ont de basses. Pour la mouche, en un sens réel et mesurable, nos secondes sont longues." },
     { content = "L'effet relativiste général par lequel les horloges plus profondes dans un champ gravitationnel avancent plus lentement que celles situées plus haut. Confirmé depuis la colonne de 22,5 mètres de Pound–Rebka (1960) jusqu'à une différence de hauteur de 33 centimètres mesurée avec des horloges atomiques optiques (2010), et corrigé en continu dans le système GPS, dont les horloges satellitaires gagnent environ 38 microsecondes par jour par rapport au sol." },
@@ -105,7 +105,7 @@ Lorsqu'on prend cette observation ordinaire — l'éléphant et la mouche — et
 la suit patiemment dans les deux sens, au-delà de la mouche jusqu'à l'acarien,
 la cellule et l'atome, au-delà de l'éléphant jusqu'à la baleine, la montagne, la
 planète et l'étoile, en demandant si la règle continue de tenir tout en haut et
-tout en bas. Le canon raélien affirme que oui ; que la règle n'a de point
+tout en bas. Le canon raëlien affirme que oui ; que la règle n'a de point
 d'arrêt naturel dans aucun des deux sens ; et qu'un univers où elle vaut sans
 fin ne ressemble en rien à celui que décrit la cosmologie moderne et ressemble
 beaucoup à quelque chose de plus ancien, de plus étrange et — cet Explicatif le
@@ -345,7 +345,7 @@ battements de cœur plutôt qu'en nos secondes, tout mammifère vit à peu près
 même longueur de vie. L'éléphant ne reçoit pas plus de temps que la souris. Il
 reçoit le *même* temps, déroulé plus lentement. Voilà l'Effet de Masse, énoncé
 dans la monnaie que la biologie emploie réellement, et ce n'est pas de la
-spéculation raélienne — c'est Max Kleiber et un siècle de confirmations.
+spéculation raëlienne — c'est Max Kleiber et un siècle de confirmations.
 
 Les puissances d'un quart s'accompagnent même d'un mécanisme, et ce mécanisme
 est la charnière de tout cet article. En 1997, Geoffrey West, James Brown et
@@ -401,7 +401,7 @@ canon est de refuser de cesser de le dire.
 
 Un univers où la même structure — des mondes habités, des atomes qui sont des
 étoiles, une horloge qui varie avec la taille — se répète vers le haut et vers le
-bas sans fin porte un nom moderne précis, et ce n'est pas un néologisme raélien.
+bas sans fin porte un nom moderne précis, et ce n'est pas un néologisme raëlien.
 Il est **fractal**.
 
 Benoît Mandelbrot donna aux mathématiques leur énoncé fondateur dans *La
@@ -420,7 +420,7 @@ structure, la même affirmation.
 
 L'entrée de wiki {% wiki(slug="fractal-cosmology") %}Cosmologie fractale{% end %}
 développe le dossier complet ; ici le propos est plus étroit et plus tranchant.
-**L'ontologie raélienne n'est pas une assertion mystique isolée.** La cosmologie
+**L'ontologie raëlienne n'est pas une assertion mystique isolée.** La cosmologie
 fractale est une position vivante — quoique minoritaire — dans la physique
 professionnelle, et elle l'est depuis quarante ans. L'histoire suit trois pistes,
 et l'honnêteté les requiert toutes les trois.
@@ -478,7 +478,7 @@ structure »*. Trois programmes, trois formalismes, une conclusion : l'espace-te
 n'est pas le continuum lisse des manuels jusqu'au bout. Il a une structure à
 toute échelle. C'est une fractale.
 
-Rien de tout cela ne *prouve* le cosmos raélien. Ce que cela établit est plus
+Rien de tout cela ne *prouve* le cosmos raëlien. Ce que cela établit est plus
 modeste et plus utile : l'ontologie du canon — infinie, auto-similaire, sans
 centre, sans commencement, avec une structure à toute échelle — n'est pas une
 erreur de catégorie ni une complaisance mystique. C'est un membre reconnaissable
@@ -746,7 +746,7 @@ les réassembler.
 
 Revenons au point de départ. Un éléphant est plus lent qu'une mouche. C'est le
 fait le plus ordinaire du monde, et un fermier l'a toujours su. Le pari du canon
-raélien — et de la lecture qu'en fait cet Explicatif — est que ce fait ordinaire
+raëlien — et de la lecture qu'en fait cet Explicatif — est que ce fait ordinaire
 n'est pas une curiosité de la biologie mais une fissure dans le plancher de la
 réalité, et que si vous avez le cran de la suivre vers le bas à travers la
 fissure, au-delà de la mouche jusqu'à la cellule jusqu'à l'atome jusqu'aux mondes
@@ -782,7 +782,7 @@ finit, le haut devenant à jamais bas et le bas devenant à jamais haut.
   la théologie et l'éthique.
 - [Cosmologie fractale](/wiki/fractal-cosmology/) — la dimension spatiale de
   l'Infini, et le dossier complet sur le débat de la distribution des galaxies.
-- [Le Symbole raélien de l'infini](/wiki/raelian-symbol-of-infinity/) —
+- [Le Symbole raëlien de l'infini](/wiki/raelian-symbol-of-infinity/) —
   l'emblème lui-même, et l'histoire des deux symboles qu'il unit.
 - [*Les Extra-terrestres m'ont emmené sur leur planète*](/library/extraterrestrials-took-me-to-their-planet/),
   chapitre 2, « Ni Dieu ni âme », pour les passages cosmologiques en contexte.

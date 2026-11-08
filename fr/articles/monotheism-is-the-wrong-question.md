@@ -656,7 +656,7 @@ simplement transformés en un compte rendu photographique de la religion préisl
 « être avancé » ne récupère pas automatiquement l'histoire. Cela peut n'être que traduire
 l'ancienne mythologie dans la langue de prestige du présent technologique. Susan Palmer et
 George Chryssides décrivent exactement cette opération dans le
-{% wiki(slug="raelism") %}Raélisme{% end %} : les récits surnaturels deviennent des récits
+{% wiki(slug="raelism") %}Raëlisme{% end %} : les récits surnaturels deviennent des récits
 scientifiques tout en conservant une structure religieuse. Stefano Bigliardi pousse la
 critique plus loin, soutenant que le mouvement emprunte l'autorité de la science plus
 volontiers que sa méthode. Une herméneutique responsable de Wheel of Heaven doit donc

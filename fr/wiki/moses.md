@@ -296,7 +296,7 @@ The framework's reading is that Moses's terrestrial mission ended through an ope
 
 ### The Vorilhon 1975 meeting with Moses
 
-The framework's most direct source-material connection between Moses and the broader Raëlian operational account is Vorilhon's reported **1975 second-contact event** — the journey to the Elohim planet described in *Les extra-terrestres m'ont emmené sur leur planète* (1976). During this contact, Vorilhon is brought to the **Council of the Eternals** (treated in the [Council of the Eternals](../council-of-the-eternals/) entry) and meets several prior prophets, including Jesus, Muhammad, the Buddha, and Moses (with the specific identification of individual figures at the table being mediated through Yahweh's broader statement about the assembled prophets rather than always individually labelled in the source material).
+The framework's most direct source-material connection between Moses and the broader Raëlian operational account is Vorilhon's reported **1975 second-contact event** — the journey to the Elohim planet described in *Les Extra-terrestres m'ont emmené sur leur planète* (1976). During this contact, Vorilhon is brought to the **Council of the Eternals** (treated in the [Council of the Eternals](../council-of-the-eternals/) entry) and meets several prior prophets, including Jesus, Muhammad, the Buddha, and Moses (with the specific identification of individual figures at the table being mediated through Yahweh's broader statement about the assembled prophets rather than always individually labelled in the source material).
 
 The framework reads the Council of the Eternals account as supporting the broader operational pattern: Moses, having completed his terrestrial mission, was translated into the Elohim's broader operational sphere (the death-on-Nebo account preserving the operational departure event) and continues to exist as an ongoing operational presence accessible at the Elohim's home location. The reading is consistent with the broader pattern across the prophetic record (Enoch, Elijah, Jesus) and with the apocryphal-tradition expansion of the Deuteronomy 34 narrative.
 
@@ -390,7 +390,7 @@ The Moses entry surfaces several open questions for the framework's broader inte
 
 ## References
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of Moses as one of the principal figures of the Elohim operational lineage; chapter 3 of the first book develops the specific reading of the burning bush and Sinai theophany events.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les Extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of Moses as one of the principal figures of the Elohim operational lineage; chapter 3 of the first book develops the specific reading of the burning bush and Sinai theophany events.]
 
 Sendy, Jean. *La Lune, clé de la Bible*. Julliard, 1968. [The principal philological-historiographic engagement with the Hebrew Bible's operational vocabulary; develops the Sinai theophany reading at substantial length.]
 

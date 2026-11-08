@@ -252,7 +252,7 @@ The substantial astrobiology implication: the Vorilhon source articulates substa
 The Vorilhon source documents substantive specific contact events:
 
 - **December 13, 1973**: The principal Vorilhon contact at Clermont-Ferrand (Puy-de-Lassolas volcanic crater, France). The substantial six-day contact sequence produced the principal content of *Le Livre qui dit la vérité* (1974).
-- **October 7, 1975**: The substantial second contact in which Vorilhon was transported to the alliance home planet. The substantial planet-visit content produced the principal content of *Les Extra-Terrestres m'ont emmené sur leur planète* (1975).
+- **October 7, 1975**: The substantial second contact in which Vorilhon was transported to the alliance home planet. The substantial planet-visit content produced the principal content of *Les Extra-terrestres m'ont emmené sur leur planète* (1975).
 - **Subsequent contact events**: The substantial subsequent contact events documented in the broader Vorilhon source.
 
 The substantial astrobiology implication: the Vorilhon source documents substantive specific contact events with substantial subsequent first-person testimony content. The substantive content operates as substantive primary-source material for the astrobiology question, with substantial parallel content to other contemporary contact narratives (the substantial broader UAP / non-human-intelligence engagement).

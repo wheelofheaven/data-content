@@ -256,7 +256,7 @@ The Cosmic pluralism entry surfaces several open questions for the framework's b
 
 ## References
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of cosmic pluralism as foundational to the broader Elohim project.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les Extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of cosmic pluralism as foundational to the broader Elohim project.]
 
 Lucretius. *De Rerum Natura* ("On the Nature of Things"). c. 50 BCE. Standard English translation: *On the Nature of Things*, translated by Martin Ferguson Smith. Hackett, 2001. [The principal ancient Latin source for Epicurean cosmic pluralism.]
 

@@ -320,7 +320,7 @@ question est ouverte.
 - [United States Space Force](../us-space-force/)
 - [Élohim](../elohim/)
 - [Raël](../rael/)
-- [Raélisme](../raelism/)
+- [Raëlisme](../raelism/)
 - [Âge du Verseau](/timeline/age-of-aquarius/)
 
 ## Références

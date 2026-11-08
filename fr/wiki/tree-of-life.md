@@ -179,7 +179,7 @@ recipients_in_framework = "Les dirigeants patriarcaux de la lignée d'Éden via 
 distinguished_from = "L'Arbre de la Connaissance du Bien et du Mal (l'arbre parallèle d'Éden) ; la technologie de résurrection spécifiquement (transfert cellulaire associé au transfert de mémoire pour des individus précédemment décédés) ; le traitement de longévité Éloha de base (le plus simple « petit ajustement chirurgical »)"
 current_status = "Opérationnel sur le monde d'origine Élohim et sur la Planète des Éternels ; concessions de longévité côté Terre retirées après les restrictions post-Déluge du Conseil ; extension projetée à l'humanité à la suite du retour ouvert de l'ère du Verseau"
 principal_text = "Genèse 2:9 ; Genèse 3:22–24 ; les généalogies patriarcales de Genèse 5 ; Apocalypse 22:2"
-principal_framework_source = "*Le Livre qui dit la vérité* (Vorilhon/Raël, 1974), chapitre 2 ; *Les extra-terrestres m'ont emmené sur leur planète* (1975)"
+principal_framework_source = "*Le Livre qui dit la vérité* (Vorilhon/Raël, 1974), chapitre 2 ; *Les Extra-terrestres m'ont emmené sur leur planète* (1975)"
 +++
 
 L'**Arbre de Vie** (hébreu : <span class="hebrew">עֵץ הַחַיִּים</span>, *ʿēṣ ha-ḥayyîm* ; grec : *to xylon tēs zōēs* ; latin : *lignum vitae*) est la figure introduite en Genèse 2:9 comme l'un des deux arbres nommés du jardin d'Éden, aux côtés de l'Arbre de la Connaissance du Bien et du Mal. L'Arbre de Vie apparaît dans le récit de la Genèse de la Bible hébraïque comme la source d'une vie prolongée qui, après l'événement de la divulgation d'Éden, fut interdite à l'accès humain par les chérubins postés à l'entrée du jardin avec le *lahaṭ ha-ḥereb ha-mithappeḵet* — l'« épée flamboyante qui tournoie en tous sens » (Genèse 3:24). L'Arbre apparaît ensuite à travers la littérature de sagesse de la Bible hébraïque dans des usages figurés-symboliques (Proverbes 3:18, 11:30, 13:12, 15:4), dans la vision du fleuve de vie d'Ézéchiel (Ézéchiel 47:12), et finalement dans l'Apocalypse du Nouveau Testament comme l'Arbre de Vie dans la Nouvelle Jérusalem (Apocalypse 2:7, 22:2, 22:14). La figure a fait l'objet d'une élaboration théologique, mystique et culturelle substantielle à travers deux millénaires et demi, la tradition chrétienne traitant typiquement l'Arbre de Vie comme un symbole théologique de la vie éternelle et la tradition kabbalistique développant l'Arbre de Vie comme le principal diagramme cosmologique des dix attributs divins émanés (les Sefirot).
@@ -251,7 +251,7 @@ L'érudition biblique historico-critique courante traite le matériau de l'Arbre
 
 **L'arrière-plan mésopotamien.** La tradition mésopotamienne de l'arbre sacré — préservée à travers un matériau textuel et iconographique sumérien, akkadien et assyrien — est lue comme l'arrière-plan immédiat du matériau parallèle de la Bible hébraïque. L'arbre akkadien *kishkanu* d'Éridu, l'arbre sumérien *huluppu* du récit *Inanna et l'Arbre Huluppu*, l'iconographie élaborée de l'arbre sacré des reliefs des palais néo-assyriens (avec les figures ailées servant l'arbre stylisé) et les divers autres matériaux mésopotamiens de l'arbre sacré fournissent un contexte textuel-historique substantiel à l'imagerie arborescente de la tradition hébraïque.
 
-**Le contexte cananéen-ougaritique.** Le *Cycle de Baal* ougaritique et les textes apparentés préservent un matériau substantiel d'arbre sacré présentant des parallèles avec la tradition hébraïque. La tradition de l'*ashérah* (le poteau-arbre cultuel associé à la déesse Ashérah, condamné dans divers passages de la Bible hébraïque) reflète une pratique cananéenne continue de l'arbre sacré dans laquelle la tradition religieuse israélite puisa tout en s'y opposant polémiquement.
+**Le contexte cananéen-ougaritique.** Le *Cycle de Baal* ougaritique et les textes apparentés préservent un matériau substantiel d'arbre sacré présentant des parallèles avec la tradition hébraïque. La tradition de l'*ashérah* (le poteau-arbre cultuel associé à la déesse Ashérah, condamné dans divers passages de la Bible hébraïque) reflète une pratique cananéenne continue de l'arbre sacré dans laquelle la tradition religieuse israëlite puisa tout en s'y opposant polémiquement.
 
 **Le contexte égyptien.** Le matériau égyptien de l'arbre sacré — le sycomore associé à Hathor, Isis et Nout, l'arbre *ished* associé à diverses figures divines, l'imagerie plus large de l'arbre sacré préservée à travers l'iconographie des temples égyptiens — fournit un contexte textuel-historique supplémentaire à la tradition plus large du proche-orient antique de l'arbre sacré au sein de laquelle le matériau de la Bible hébraïque s'est développé.
 
@@ -375,7 +375,7 @@ Le cadre lit ces passages comme préservant la mémoire prophétique-visionnaire
 
 ### Le matériau source raëlien
 
-Les principaux passages du matériau source raëlien sur l'Arbre de Vie apparaissent dans *Le Livre qui dit la vérité* (1974), chapitre 2 (« Vérité »),{{ cite(id="the-book-which-tells-the-truth", text="[6]", title="Vorilhon (Raël), *Le Livre qui dit la vérité* (1974), ch. 2 — la concession de longévité patriarcale") }} avec un matériau complémentaire substantiel dans *Les extra-terrestres m'ont emmené sur leur planète* (1975).{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[7]", title="Vorilhon (Raël), *Les extra-terrestres m'ont emmené sur leur planète* (1975) — la technologie de transfert cellulaire et les 25 corps de Yahvé") }}
+Les principaux passages du matériau source raëlien sur l'Arbre de Vie apparaissent dans *Le Livre qui dit la vérité* (1974), chapitre 2 (« Vérité »),{{ cite(id="the-book-which-tells-the-truth", text="[6]", title="Vorilhon (Raël), *Le Livre qui dit la vérité* (1974), ch. 2 — la concession de longévité patriarcale") }} avec un matériau complémentaire substantiel dans *Les Extra-terrestres m'ont emmené sur leur planète* (1975).{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[7]", title="Vorilhon (Raël), *Les Extra-terrestres m'ont emmené sur leur planète* (1975) — la technologie de transfert cellulaire et les 25 corps de Yahvé") }}
 
 Le principal contenu du matériau source sur l'Arbre de Vie :
 
@@ -391,11 +391,11 @@ Le principal contenu du matériau source sur l'Arbre de Vie :
 
 > *« Pour nous, le problème est très différent. Nous ne sommes pas éternels, mais nous pouvons vivre dix fois plus longtemps que vous, grâce à un petit ajustement chirurgical qui est en effet l'"arbre de vie" biblique. »*
 
-**La technologie de transfert cellulaire et l'existence continue de Yahvé** (d'après *Les extra-terrestres m'ont emmené sur leur planète*, « La rencontre avec les anciens prophètes ») :
+**La technologie de transfert cellulaire et l'existence continue de Yahvé** (d'après *Les Extra-terrestres m'ont emmené sur leur planète*, « La rencontre avec les anciens prophètes ») :
 
 > *« Le plus âgé, le président du conseil des éternels, a 25 000 ans, et vous le voyez devant vous maintenant. J'ai vécu dans vingt-cinq corps jusqu'à ce jour, et j'ai été le premier sur qui cette expérience fut menée avec succès. »*
 
-**Le mécanisme de transfert cellulaire** (d'après *Les extra-terrestres m'ont emmené sur leur planète* (1975), le récit de la Planète des Éternels) :
+**Le mécanisme de transfert cellulaire** (d'après *Les Extra-terrestres m'ont emmené sur leur planète* (1975), le récit de la Planète des Éternels) :
 
 > *« Le corps est constitué d'éléments neufs ayant le potentiel d'un nouveau millénaire de vie — et ainsi de suite éternellement. Mais afin de limiter la croissance de la population, seuls les génies ont droit à l'éternité. Tout le monde, sur notre planète, fait prélever un échantillon de cellule à un certain âge, dans l'espoir d'être choisi pour une re-création après sa mort. »*
 

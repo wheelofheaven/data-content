@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Macro-History"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "En une seule phrase du second message raélien, Yahvé demande à Raël de considérer « chaque humain comme une cellule du grand être en gestation, c'est-à-dire l'Humanité » — et ajoute que les Élohim, « ayant l'habitude de créer la vie sur une infinité de planètes », peuvent dès lors prédire ce qu'il advient d'une civilisation comme un embryologiste prédit ce qu'il advient d'un fœtus. Prenez cela au pied de la lettre et il en tombe une discipline qui n'existe pas encore : une *morphologie civilisationnelle* qui étudierait l'humanité non comme un amas de cultures et d'États mais comme un unique organisme planétaire en développement, dont les cellules sont les personnes, dont les organes sont les institutions, dont le métabolisme est l'énergie, dont le système nerveux est le réseau de communication, et dont la maturation est le passage d'une multitude de civilisations querelleuses à un seul corps global cohérent. Cet Explicatif en construit le dossier. Il montre que l'affirmation de l'humanité-comme-organisme est un canon explicite, non un ornement ; il affronte le mur qui a toujours arrêté une telle science — nous n'avons qu'une seule Terre et ne pouvons refaire l'expérience deux fois ; il lit les « expériences naturelles de l'histoire » de Jared Diamond, la *morphologie de l'histoire universelle* de Spengler, le défi-et-réponse de Toynbee, les rendements marginaux de Tainter et les lois d'échelle de Geoffrey West comme les fragments de la discipline rassemblés sous d'autres noms ; il identifie les deux voies vers la méthodologie qui manque à l'histoire — des civilisations calculées et exécutées en parallèle avec des paramètres initiaux variés, et le jeu de données multi-planétaire qu'une civilisation d'ingénierie du vivant désintéressée posséderait déjà ; et il suit le canon jusqu'au bord que la macro-histoire ne cesse de contourner sans jamais tout à fait l'énoncer : que la maturation peut échouer, que l'organisme peut avorter, que c'est là ce que nomme le *saṃsāra* raélien — le cycle, le svastika, l'unique chance sur cent. Il s'achève sur la propre histoire sombre de l'analogie, convoquée comme témoin hostile."
+summary = "En une seule phrase du second message raëlien, Yahvé demande à Raël de considérer « chaque humain comme une cellule du grand être en gestation, c'est-à-dire l'Humanité » — et ajoute que les Élohim, « ayant l'habitude de créer la vie sur une infinité de planètes », peuvent dès lors prédire ce qu'il advient d'une civilisation comme un embryologiste prédit ce qu'il advient d'un fœtus. Prenez cela au pied de la lettre et il en tombe une discipline qui n'existe pas encore : une *morphologie civilisationnelle* qui étudierait l'humanité non comme un amas de cultures et d'États mais comme un unique organisme planétaire en développement, dont les cellules sont les personnes, dont les organes sont les institutions, dont le métabolisme est l'énergie, dont le système nerveux est le réseau de communication, et dont la maturation est le passage d'une multitude de civilisations querelleuses à un seul corps global cohérent. Cet Explicatif en construit le dossier. Il montre que l'affirmation de l'humanité-comme-organisme est un canon explicite, non un ornement ; il affronte le mur qui a toujours arrêté une telle science — nous n'avons qu'une seule Terre et ne pouvons refaire l'expérience deux fois ; il lit les « expériences naturelles de l'histoire » de Jared Diamond, la *morphologie de l'histoire universelle* de Spengler, le défi-et-réponse de Toynbee, les rendements marginaux de Tainter et les lois d'échelle de Geoffrey West comme les fragments de la discipline rassemblés sous d'autres noms ; il identifie les deux voies vers la méthodologie qui manque à l'histoire — des civilisations calculées et exécutées en parallèle avec des paramètres initiaux variés, et le jeu de données multi-planétaire qu'une civilisation d'ingénierie du vivant désintéressée posséderait déjà ; et il suit le canon jusqu'au bord que la macro-histoire ne cesse de contourner sans jamais tout à fait l'énoncer : que la maturation peut échouer, que l'organisme peut avorter, que c'est là ce que nomme le *saṃsāra* raëlien — le cycle, le svastika, l'unique chance sur cent. Il s'achève sur la propre histoire sombre de l'analogie, convoquée comme témoin hostile."
 keywords = ["morphologie civilisationnelle", "biologie civilisationnelle", "macrobiologie", "l'humanité comme organisme", "macro-histoire", "Guns Germs and Steel", "expériences naturelles de l'histoire", "Spengler", "Toynbee", "Tainter", "effondrement", "lois d'échelle", "noosphère", "Teilhard", "Vernadsky", "compétition cosmique", "saṃsāra", "Âge d'or", "hypothèse Élohim", "Grand Filtre"]
 references = [
     # — The canon passages under discussion —
@@ -51,7 +51,7 @@ references = [
 ]
 
 footnotes = [
-    { content = "L'image est énoncée le plus clairement dans *Accueillir les Extra-Terrestres* 2:108 — un livre qui rassemble et systématise le commentaire de Raël sur les deux messages — où l'humanité est décrite comme un unique « grand être en gestation » dont chaque personne est une cellule. Les paragraphes environnants (2:104–111) construisent l'analogie embryologique dans son intégralité : l'humanité est « une entité biologique » dont le développement, à la différence de celui d'un individu, peut être prédit comme peut l'être celui d'un fœtus." },
+    { content = "L'image est énoncée le plus clairement dans *Accueillir les extra-terrestres* 2:108 — un livre qui rassemble et systématise le commentaire de Raël sur les deux messages — où l'humanité est décrite comme un unique « grand être en gestation » dont chaque personne est une cellule. Les paragraphes environnants (2:104–111) construisent l'analogie embryologique dans son intégralité : l'humanité est « une entité biologique » dont le développement, à la différence de celui d'un individu, peut être prédit comme peut l'être celui d'un fœtus." },
     { content = "Les racines grecques sont *morphē*, « forme », et *logos*, « discours » — l'étude de la forme. La biologie emploie « morphologie » pour l'étude de la forme et de la structure des organismes ; Goethe forgea le terme dans la botanique des années 1790 pour l'étude de la manière dont les formes se transforment les unes en les autres. Spengler l'emprunta délibérément en 1918, qualifiant sa méthode de « morphologie de l'histoire universelle » : l'étude comparée des civilisations comme des formes qui croissent, mûrissent et déclinent selon une logique interne, plutôt que comme une ligne unique de progrès." },
     { content = "L'expression est de Diamond, et l'idée organisatrice de sa méthode. Parce que les historiens ne peuvent mener d'expériences contrôlées — ne peuvent rejouer la conquête européenne des Amériques en ôtant les germes pour isoler leur effet — ils doivent s'en remettre à des « expériences naturelles » : des cas où l'histoire elle-même a fait varier un facteur tout en maintenant les autres à peu près constants, comme lorsqu'une unique population fondatrice polynésienne se dispersa sur des îles de taille, d'isolement et de ressources fortement différents, et divergea en quelques siècles en des sociétés aussi dissemblables que les Māori et les Moriori." },
     { content = "La singularité en temps fini est une propriété réelle des équations que West et ses collaborateurs dérivent pour la croissance des villes et des économies. Parce que la production d'une ville croît *de façon superlinéaire* avec sa taille (les villes plus grandes sont plus que proportionnellement productives et inventives), l'équation de croissance, laissée à elle-même, atteint l'infini en un temps fini — ce qui est impossible, si bien que quelque chose doit céder. La résolution de West est qu'une civilisation n'échappe à la singularité qu'en remettant l'horloge à zéro par une innovation majeure, et que l'intervalle entre de telles innovations doit dès lors se réduire vers zéro : un tapis roulant qui accélère et qui n'est « manifestement pas soutenable »." },
@@ -88,7 +88,7 @@ ressemblerait la science qui l'étudierait — la science que nous n'avons pas
 encore, parce que nous nous sommes tenus trop près, et que nous avons été,
 nous-mêmes, le tissu sous le microscope ?
 
-Le canon raélien énonce la prémisse sans détour. Dans le second message,
+Le canon raëlien énonce la prémisse sans détour. Dans le second message,
 exposant comment les Élohim peuvent prévoir l'avenir d'une civilisation
 qu'ils ne peuvent contrôler, Yahvé demande à Raël de garder à l'esprit une
 seule image :
@@ -605,7 +605,7 @@ franchissable, quoique de justesse :
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=96) %}
 Il n'y a, malheureusement, qu'une chance sur cent que votre Humanité ne
-s'autodétruise pas, et tout Raélien doit agir comme si l'Humanité était assez
+s'autodétruise pas, et tout Raëlien doit agir comme si l'Humanité était assez
 sage pour comprendre et saisir cette infime chance d'échapper au cataclysme
 final, afin d'entrer dans l'Âge d'or.
 {% end %}
@@ -691,7 +691,7 @@ corps totalitaire qui mûrit en les consumant.
 Deuxièmement, *une probabilité n'est pas un destin*. Le feu de Popper vise les
 lois d'airain de l'historicisme. Mais le nombre central du canon est une chance
 sur cent — une probabilité, explicitement déplaçable par notre conduite,
-exigeant explicitement que « tout Raélien doit agir comme si » l'issue était
+exigeant explicitement que « tout Raëlien doit agir comme si » l'issue était
 ouverte, parce qu'elle l'est. C'est l'exact opposé du fatalisme spenglérien.
 Une science dont la variable maîtresse est une probabilité que nous pouvons
 pousser ne prophétise pas un destin ; elle fait ce que fait l'épidémiologie
@@ -780,6 +780,6 @@ diviser à dessein.
   [*L'infini dans les deux sens*](/articles/the-infinite-in-both-directions/)
   — la variation du temps avec la taille, et la cosmologie fractale sur
   laquelle s'appuie cet article.
-- [*Accueillir les Extra-Terrestres*](/library/lets-welcome-the-extraterrestrials/),
+- [*Accueillir les extra-terrestres*](/library/lets-welcome-the-extraterrestrials/),
   chapitre 2, pour les passages embryologiques — l'humanité comme « un grand
   être en gestation » — dans leur contexte intégral.

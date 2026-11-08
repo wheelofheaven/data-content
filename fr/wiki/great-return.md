@@ -22,7 +22,7 @@ knowledge_transfer = "Approximately 25,000 years of scientific knowledge, equiva
 embassy_location = "Initially proposed in Israel (preferably Jerusalem area), with seven formal land requests denied by Israeli authorities between approximately 1990 and 2015; on August 6, 2015, the Vorilhon-mediated message declared the Elohim's protection of Israel withdrawn; subsequent proposals have involved Palestinian Authority territories and other locations"
 comparative_eschatology = "Connected by the framework to the Jewish Mashiach, Christian Parousia, Islamic Mahdi and return of Isa, Buddhist Maitreya, Hindu Kalki, Zoroastrian Saoshyant, Taoist Li Hong, and the broader cross-cultural eschatological-savior expectation pattern"
 chronological_placement = "The framework places the Great Return in the Age of Aquarius (post-2,160 CE on the broader reckoning), with the contemporary period (early 21st century CE) as the substantive transitional phase; the specific timing is treated as contingent on the satisfaction of the preconditions"
-primary_sources = "Vorilhon, *Le Livre qui dit la vérité* (1974); *Les extra-terrestres m'ont emmené sur leur planète* (1976); the Messages collection, particularly the December 13, 1997 message; the broader Raëlian Movement publication record"
+primary_sources = "Vorilhon, *Le Livre qui dit la vérité* (1974); *Les Extra-terrestres m'ont emmené sur leur planète* (1976); the Messages collection, particularly the December 13, 1997 message; the broader Raëlian Movement publication record"
 framework_significance = "The culminating event of the entire corpus interpretive framework; the substantive teleological orientation of the Elohim project on Earth; the inauguration of the broader Golden Age / Age of Aquarius proper"
 +++
 
@@ -36,7 +36,7 @@ The present entry treats the Great Return as the framework's culminating eschato
 
 ## The Vorilhon source-material specification
 
-The Great Return is specified across multiple passages in the Vorilhon source material — principally in *Le Livre qui dit la vérité* (1974, "The Book Which Tells the Truth"), *Les extra-terrestres m'ont emmené sur leur planète* (1976, "Extraterrestrials Took Me to Their Planet"), and the subsequent Messages collection, particularly the December 13, 1997 "Message of the Elohim" which introduces the specific designation "Great Return." The principal source-material content:
+The Great Return is specified across multiple passages in the Vorilhon source material — principally in *Le Livre qui dit la vérité* (1974, "The Book Which Tells the Truth"), *Les Extra-terrestres m'ont emmené sur leur planète* (1976, "Extraterrestrials Took Me to Their Planet"), and the subsequent Messages collection, particularly the December 13, 1997 "Message of the Elohim" which introduces the specific designation "Great Return." The principal source-material content:
 
 ### The conditions for the return (1974)
 
@@ -358,7 +358,7 @@ The Great Return entry surfaces several open questions for the framework's broad
 
 ## References
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Intelligent Design: Messages from the Designers* (current English edition, Raëlian Foundation). [Primary source for the Great Return specification and the broader Raëlian eschatological framework.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les Extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Intelligent Design: Messages from the Designers* (current English edition, Raëlian Foundation). [Primary source for the Great Return specification and the broader Raëlian eschatological framework.]
 
 Vorilhon, Claude (Raël). "Message of the Elohim, December 13th, 1997." In *Intelligent Design: Messages from the Designers*. [The specific source for the "Great Return" designation.]
 

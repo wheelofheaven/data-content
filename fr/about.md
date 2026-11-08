@@ -41,7 +41,7 @@ Wheel of Heaven est une étude comparative indépendante des traditions de créa
 
 La lecture parcourt douze âges du cycle précessionnel, depuis le commencement du projet il y a environ vingt-deux mille ans, à travers la longue séquence de conception et d'intervention consignée dans les traditions religieuses, jusqu'à l'âge présent de divulgation que le corpus soutient que nous habitons. Les [douze chapitres principaux](/fr/timeline/) du corpus parcourent cet arc en séquence.
 
-Le cadre s'appuie sur le matériau-source raëlien — principalement *Le Livre Qui Dit la Vérité* (Claude Vorilhon, 1974) — comme lentille interprétative primaire. Autour de cette lentille, il assemble des matériaux comparatifs bibliques, mésopotamiens, védiques, mésoaméricains et autres, organisés selon la [précession des équinoxes](/fr/wiki/precession/) sur ~25 920 ans. Le projet s'appuie également sur les recherches de mythologie précessionnelle de Giorgio de Santillana et Hertha von Dechend (*Hamlet's Mill*, 1969) et sur les réinterprétations bibliques de Jean Sendy (1968–1972).
+Le cadre s'appuie sur le matériau-source raëlien — principalement *Le Livre qui dit la vérité* (Claude Vorilhon, 1974) — comme lentille interprétative primaire. Autour de cette lentille, il assemble des matériaux comparatifs bibliques, mésopotamiens, védiques, mésoaméricains et autres, organisés selon la [précession des équinoxes](/fr/wiki/precession/) sur ~25 920 ans. Le projet s'appuie également sur les recherches de mythologie précessionnelle de Giorgio de Santillana et Hertha von Dechend (*Hamlet's Mill*, 1969) et sur les réinterprétations bibliques de Jean Sendy (1968–1972).
 
 ## Ce que le projet n'est pas
 

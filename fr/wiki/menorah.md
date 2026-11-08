@@ -210,7 +210,7 @@ The Menorah entry surfaces several open questions for the framework's broader in
 
 ## References
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of the seven-bases content and the central communications installation.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les Extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of the seven-bases content and the central communications installation.]
 
 Sendy, Jean. *La Lune, clé de la Bible*. Julliard, 1968. [The principal philological-historiographic engagement with the Hebrew Bible's operational vocabulary that the framework's broader Menorah reading depends on.]
 

@@ -28,7 +28,7 @@ first_contact = "December 13, 1973, Puy-de-Lassolas volcanic crater, Auvergne, F
 second_contact = "October 7, 1975, Roc Plat near Brantôme, Périgord, France (taken aboard alliance craft to the Planet of the Eternals)"
 new_name = "Raël (Hebrew, glossed by source as 'messenger', 'light of the Elohim', or 'ambassador of the Elohim')"
 biological_parentage = "Disclosed by source 1975 (publication withheld three years until 1979): Yahweh, president of the Council of the Eternals"
-principal_works = "*Le Livre qui dit la vérité* (1974); *Les Extra-Terrestres m'ont emmené sur leur planète* (1975/76); *Accueillir les Extra-terrestres* (1979); *La Géniocratie* (1978); *La Méditation Sensuelle* (1980); *Oui au clonage humain* (2000); *Le Maitreya* (anthology of teachings)"
+principal_works = "*Le Livre qui dit la vérité* (1974); *Les Extra-terrestres m'ont emmené sur leur planète* (1975/76); *Accueillir les extra-terrestres* (1979); *La Géniocratie* (1978); *La Méditation sensuelle* (1980); *Oui au clonage humain* (2000); *Le Maitreya* (anthology of teachings)"
 institutional_role = "Founder and Guide of Guides of the International Raëlian Movement (founded 1976); titular figure of the embassy project"
 identification_with_traditions = "Identified by source as the Maitreya of Buddhist tradition, the last of the prophets of the cumulative tradition spanning previous ages, the figure prefigured in the Christian Apocalypse and various other anticipated-return traditions"
 distinguished_from = "The earlier prophets (Moses, Jesus, Muhammad, Buddha and others) within the cumulative prophetic tradition; the broader contactee tradition of mid-20th century UFO-religion movements; the various scholarly characterizations of Raël as new-religious-movement founder rather than as prophet"
@@ -36,7 +36,7 @@ status_in_source_material = "Substantially documented; biographical content prin
 principal_text = "*The Book Which Tells the Truth* (1974); *Extra-Terrestrials Took Me to Their Planet* (1976); *Let's Welcome the Extra-terrestrials* (1979); *The Maitreya* (anthology)"
 +++
 
-{% claim(type="direct", id="woh-claim-0020") %}**Raël**, born **Claude Vorilhon** on September 30, 1946 in Vichy, France, is the French former motor-sports journalist who reported a contact with an officer of the Elohim alliance at the Puy-de-Lassolas volcanic crater near Clermont-Ferrand on the morning of December 13, 1973.{% end %} The contact inaugurated the Aquarian-age prophetic mission and produced the body of teaching subsequently published as *Le Livre qui dit la vérité* (*The Book Which Tells the Truth*, 1974), *Les Extra-Terrestres m'ont emmené sur leur planète* (*Extra-Terrestrials Took Me to Their Planet*, 1975/76), and *Accueillir les Extra-terrestres* (*Let's Welcome the Extra-terrestrials*, 1979) — collectively the principal Raëlian source material that the Wheel of Heaven corpus engages with. The figure subsequently founded the International Raëlian Movement (1976) and across the subsequent five decades has served as the institutional and public face of the broader embassy project and the Aquarian-age program the alliance has proposed for humanity.
+{% claim(type="direct", id="woh-claim-0020") %}**Raël**, born **Claude Vorilhon** on September 30, 1946 in Vichy, France, is the French former motor-sports journalist who reported a contact with an officer of the Elohim alliance at the Puy-de-Lassolas volcanic crater near Clermont-Ferrand on the morning of December 13, 1973.{% end %} The contact inaugurated the Aquarian-age prophetic mission and produced the body of teaching subsequently published as *Le Livre qui dit la vérité* (*The Book Which Tells the Truth*, 1974), *Les Extra-terrestres m'ont emmené sur leur planète* (*Extra-Terrestrials Took Me to Their Planet*, 1975/76), and *Accueillir les extra-terrestres* (*Let's Welcome the Extra-terrestrials*, 1979) — collectively the principal Raëlian source material that the Wheel of Heaven corpus engages with. The figure subsequently founded the International Raëlian Movement (1976) and across the subsequent five decades has served as the institutional and public face of the broader embassy project and the Aquarian-age program the alliance has proposed for humanity.
 
 Within the corpus's broader framework, Raël occupies a specific position in the cumulative prophetic tradition. The corpus reads Raël as the **last of approximately forty prophets** sent by the alliance across human history, with each prophet appropriate to the specific cultural and temporal moment at which they appeared and each contributing to the cumulative preparation of humanity for the Aquarian-age revelation. The earlier prophets — Abraham, Moses, the Hebrew prophetic tradition, Buddha, Zarathustra, Jesus, Muhammad, and various others — operated within the indirect-contact framework that the alliance adopted following the Aries-age discovery (treated more fully in the [Cosmic Chain](../cosmic-chain/) entry). The Aquarian-age prophet, on the corpus's framing, had to be a figure of substantially different character than the earlier prophets — a figure drawn from the cultural mainstream of late-twentieth-century secular modernity rather than from any traditionally religious context, positioned to deliver the alliance's message to a scientifically mature humanity that could evaluate the content on its rational merits rather than receiving it through the established religious frameworks of the prior ages. Raël's specific biographical features — the French motor-sports journalist with no prior religious background, the cultural ordinariness, the modern Western sensibility, the absence of any traditional religious lineage — are read by the corpus as deliberate features of the alliance's selection rather than as incidental biographical details.
 
@@ -196,10 +196,10 @@ Raël's published works across the 1974-2005 period (with subsequent works throu
 The principal works:
 
 - ***Le Livre qui dit la vérité*** (*The Book Which Tells the Truth*, 1974) — the first volume, recording the December 13, 1973 contact and the principal teaching delivered across the six-day contact
-- ***Les Extra-Terrestres m'ont emmené sur leur planète*** (*Extra-Terrestrials Took Me to Their Planet*, 1975/76) — the second volume, recording the October 7, 1975 contact and the visit to the Planet of the Eternals
-- ***Accueillir les Extra-terrestres*** (*Let's Welcome the Extra-terrestrials*, 1979) — the third volume, including the previously-withheld biological-parentage disclosure and substantial subsequent material
+- ***Les Extra-terrestres m'ont emmené sur leur planète*** (*Extra-Terrestrials Took Me to Their Planet*, 1975/76) — the second volume, recording the October 7, 1975 contact and the visit to the Planet of the Eternals
+- ***Accueillir les extra-terrestres*** (*Let's Welcome the Extra-terrestrials*, 1979) — the third volume, including the previously-withheld biological-parentage disclosure and substantial subsequent material
 - ***La Géniocratie*** (*Geniocracy*, 1978) — substantial elaboration of the geniocracy commandment
-- ***La Méditation Sensuelle*** (*Sensual Meditation*, 1980) — meditation practices designed by the Elohim for awakening the senses
+- ***La Méditation sensuelle*** (*Sensual Meditation*, 1980) — meditation practices designed by the Elohim for awakening the senses
 - ***Oui au clonage humain*** (*Yes to Human Cloning*, 2000) — engagement with the cloning technology that became substantially relevant following the 1997 Dolly-the-sheep cloning
 - ***Le Maitreya*** (anthology) — collection of Raël's teachings across the post-1973 decades
 
@@ -526,13 +526,13 @@ The mainstream scholarly explanation — which generally treats Raël as one fig
 
 Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. Éditions du Message, 1974. English: *The Book Which Tells the Truth* (collected in *Message from the Designers*).
 
-Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. Éditions du Message, 1975/76. English: *Extra-Terrestrials Took Me to Their Planet*.
+Vorilhon, Claude (Raël). *Les Extra-terrestres m'ont emmené sur leur planète*. Éditions du Message, 1975/76. English: *Extra-Terrestrials Took Me to Their Planet*.
 
-Vorilhon, Claude (Raël). *Accueillir les Extra-terrestres*. Éditions du Message, 1979. English: *Let's Welcome the Extra-terrestrials*.
+Vorilhon, Claude (Raël). *Accueillir les extra-terrestres*. Éditions du Message, 1979. English: *Let's Welcome the Extra-terrestrials*.
 
 Vorilhon, Claude (Raël). *La Géniocratie*. Éditions du Message, 1978. English: *Geniocracy: Government of the People, for the People, by the Geniuses*.
 
-Vorilhon, Claude (Raël). *La Méditation Sensuelle*. Éditions du Message, 1980. English: *Sensual Meditation*.
+Vorilhon, Claude (Raël). *La Méditation sensuelle*. Éditions du Message, 1980. English: *Sensual Meditation*.
 
 Vorilhon, Claude (Raël). *Oui au clonage humain*. Éditions du Message, 2000. English: *Yes to Human Cloning: Eternal Life Thanks to Science*.
 

@@ -18,7 +18,7 @@ timeline = ["age-of-capricorn", "age-of-aquarius"]
 
 [extra.infobox]
 type = "Extrasolar planet; political-civilizational center of the Elohim alliance that conducted the genetic-engineering project producing terrestrial life"
-principal_source = "Claude Vorilhon, *Message from the Designers* (Tagman Press, 2005), consolidating *Le Livre qui dit la vérité* (1974), *Les Extra-Terrestres m'ont emmené sur leur planète* (1975), and *Accueillir les Extra-Terrestres* (1979)"
+principal_source = "Claude Vorilhon, *Message from the Designers* (Tagman Press, 2005), consolidating *Le Livre qui dit la vérité* (1974), *Les Extra-terrestres m'ont emmené sur leur planète* (1975), and *Accueillir les extra-terrestres* (1979)"
 location_from_home_star = "236,000 parasangs (~70.8 billion kilometers); home star substantially larger than the Sun"
 location_from_earth = "30,000,000 parasangs (~9 trillion kilometers, approximately 1 light-year); subject to the substantial astronomical-inconsistency objection the source itself addresses through deliberate-obfuscation and variable-lightspeed cosmology"
 parasang_unit = "Source-redefined unit: distance light travels in one second (~300,000 kilometers); etymologically borrowed from ancient Persian linear-distance unit but redefined as celestial-distance unit in the source's vocabulary"
@@ -32,7 +32,7 @@ distinguished_from = "The intergalactic ship near Earth (Elohim operational base
 status_in_framework = "Principal extraterrestrial location in the corpus framework; the political-civilizational center of the alliance that conducts the Earth project; the residence of the Council of the Eternals; the destination for the resurrected prophets and qualifying humans"
 +++
 
-The **Elohim Home Planet** is, in the Wheel of Heaven framework, the extrasolar world from which the **Elohim** — the alliance of advanced extraterrestrial scientists who, in the corpus reading, conducted the genetic-engineering project that produced terrestrial life — originate and to which their political-civilizational center remains attached. The principal source content appears in **Claude Vorilhon**'s *Message from the Designers* (Tagman Press, 2005), consolidating the three principal Vorilhon contact-record books: *Le Livre qui dit la vérité* (1974), *Les Extra-Terrestres m'ont emmené sur leur planète* (1975), and *Accueillir les Extra-Terrestres* (1979).
+The **Elohim Home Planet** is, in the Wheel of Heaven framework, the extrasolar world from which the **Elohim** — the alliance of advanced extraterrestrial scientists who, in the corpus reading, conducted the genetic-engineering project that produced terrestrial life — originate and to which their political-civilizational center remains attached. The principal source content appears in **Claude Vorilhon**'s *Message from the Designers* (Tagman Press, 2005), consolidating the three principal Vorilhon contact-record books: *Le Livre qui dit la vérité* (1974), *Les Extra-terrestres m'ont emmené sur leur planète* (1975), and *Accueillir les extra-terrestres* (1979).
 
 The home planet's specifications, as preserved in the source:
 
@@ -126,7 +126,7 @@ The contemporary scientific context therefore substantially confirms the astrono
 
 ## Environment and ecology
 
-The source's description of the home planet's environment derives principally from Vorilhon's 1975 visit, recorded in the second principal source-book (*Les Extra-Terrestres m'ont emmené sur leur planète*).
+The source's description of the home planet's environment derives principally from Vorilhon's 1975 visit, recorded in the second principal source-book (*Les Extra-terrestres m'ont emmené sur leur planète*).
 
 ### The paradisal landscape
 
@@ -637,9 +637,9 @@ The substantial alternative explanations — common cognitive structures (substa
 
 Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. 1974.
 
-Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. 1975.
+Vorilhon, Claude (Raël). *Les Extra-terrestres m'ont emmené sur leur planète*. 1975.
 
-Vorilhon, Claude (Raël). *Accueillir les Extra-Terrestres*. 1979.
+Vorilhon, Claude (Raël). *Accueillir les extra-terrestres*. 1979.
 
 Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
 

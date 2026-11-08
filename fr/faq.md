@@ -81,7 +81,7 @@ Si, après un engagement honnête, le cadre ne mérite pas votre attention conti
 slug = "difference-from-raelism"
 question = "En quoi est-ce différent du raëlisme ?"
 answer = """
-Wheel of Heaven prend le matériau-source raëlien — principalement *Le Livre Qui Dit la Vérité* (Claude Vorilhon, 1974) et les volumes ultérieurs — comme sa lentille interprétative primaire. En ce sens, le projet est en aval du raëlisme.
+Wheel of Heaven prend le matériau-source raëlien — principalement *Le Livre qui dit la vérité* (Claude Vorilhon, 1974) et les volumes ultérieurs — comme sa lentille interprétative primaire. En ce sens, le projet est en aval du raëlisme.
 
 Mais le projet n'est pas une publication du mouvement raëlien. Le corpus s'étend substantiellement au-delà de la présentation institutionnelle standard du raëlisme : le cadre précessionnel, l'intégration avec la mythologie comparée, les lectures techniques de passages bibliques spécifiques, la reconstruction politico-structurelle de l'alliance, l'engagement avec la génomique et l'astrobiologie contemporaines — aucune de ces choses ne fait partie du matériau institutionnel raëlien standard. Le projet n'est pas endossé par le mouvement raëlien, et pourrait ne jamais l'être. Là où le corpus s'écarte de l'articulation raëlienne standard, il le fait avec des raisons explicites.
 
@@ -242,7 +242,7 @@ question = "Sur quelles sources le projet s'appuie-t-il ?"
 answer = """
 Le corpus s'appuie sur plusieurs familles de sources, avec une priorité hiérarchique explicite entre elles :
 
-**Primaire** : Le matériau-source raëlien, principalement *Le Livre Qui Dit la Vérité* (Vorilhon, 1974) et les volumes ultérieurs.
+**Primaire** : Le matériau-source raëlien, principalement *Le Livre qui dit la vérité* (Vorilhon, 1974) et les volumes ultérieurs.
 
 **Secondaire** : La tradition de mythologie précessionnelle, fondée sur *Hamlet's Mill* de Giorgio de Santillana et Hertha von Dechend (1969).
 
@@ -324,7 +324,7 @@ question = "Où lire les textes-sources ?"
 answer = """
 La section [Bibliothèque](/fr/library/) héberge les textes-sources primaires que le corpus lit, avec commentaire et contexte. Cela inclut :
 
-- *Le Livre Qui Dit la Vérité* (Vorilhon, 1974) — le texte raëlien fondateur — avec ses suites *Les Extra-Terrestres M'ont Emmené sur Leur Planète* et *Accueillir les Extra-Terrestres*.
+- *Le Livre qui dit la vérité* (Vorilhon, 1974) — le texte raëlien fondateur — avec ses suites *Les Extra-terrestres m'ont emmené sur leur planète* et *Accueillir les extra-terrestres*.
 - La Genèse (le texte hébreu vocalisé avec la traduction propre au projet en regard, plus une édition anglaise standard).
 - Le Livre d'Hénoch.
 - L'Enuma Elish.

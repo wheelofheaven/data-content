@@ -9,9 +9,9 @@ event_date = 2026-07-01
 event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
-summary = "Le 1er juillet 2026, une équipe de l'University of Minnesota a annoncé SpudCell — une cellule synthétique assemblée entièrement à partir de composants non vivants, qui croît, copie son génome et se divise sur plusieurs générations. C'est une preuve de concept, non un organisme autosuffisant : elle ne peut pas fabriquer ses propres protéines et doit être nourrie. Lue à travers le canon, elle se situe précisément au seuil que Yahvé décrit dans Le Livre Qui Dit la Vérité, là où la propre civilisation des Elohim a commencé en fabriquant des « cellules vivantes en éprouvettes » à un niveau scientifique « comparable à celui que vous aurez bientôt »."
+summary = "Le 1er juillet 2026, une équipe de l'University of Minnesota a annoncé SpudCell — une cellule synthétique assemblée entièrement à partir de composants non vivants, qui croît, copie son génome et se divise sur plusieurs générations. C'est une preuve de concept, non un organisme autosuffisant : elle ne peut pas fabriquer ses propres protéines et doit être nourrie. Lue à travers le canon, elle se situe précisément au seuil que Yahvé décrit dans Le Livre qui dit la vérité, là où la propre civilisation des Elohim a commencé en fabriquant des « cellules vivantes en éprouvettes » à un niveau scientifique « comparable à celui que vous aurez bientôt »."
 canon_links = [
-    { title = "Le Livre Qui Dit la Vérité", path = "/library/the-book-which-tells-the-truth/" },
+    { title = "Le Livre qui dit la vérité", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Planète d'origine des Elohim", path = "/wiki/elohim-home-planet/" },
     { title = "Élohim", path = "/wiki/elohim/" },
     { title = "Conception intelligente", path = "/wiki/intelligent-design/" }
@@ -66,7 +66,7 @@ précisément en raison de tout ce qu'il reste à accomplir.
 Lue à travers le prisme de Wheel of Heaven, la chose intéressante n'est pas
 qu'une cellule ait été construite, mais *où sur la courbe* cette construction se
 situe. Dans
-[Le Livre Qui Dit la Vérité](/library/the-book-which-tells-the-truth/),
+[Le Livre qui dit la vérité](/library/the-book-which-tells-the-truth/),
 [Yahvé](/wiki/yahweh/) ouvre le récit de la création en décrivant comment la
 civilisation des [Elohim](/wiki/elohim/) a elle-même commencé — sur
 [leur planète lointaine](/wiki/elohim-home-planet/), à un niveau scientifique

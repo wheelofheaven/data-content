@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Pendant près de deux décennies, un érudit effacé de la vallée de Suse a traduit la Bible hébraïque, mot sous mot, pour les Edizioni San Paolo — la maison d'édition catholique dont les éditions interlinéaires garnissent les bibliothèques de séminaire dans toute l'Italie. Dix-neuf livres du texte massorétique sont passés entre ses mains ; dix-sept furent publiés ; les deux derniers furent payés puis discrètement remisés, car Mauro Biglino avait entre-temps écrit un livre bien à lui. Cet Explicatif lit de près tout le corpus de Biglino — le livre fondateur de 2010, *Il Dio Alieno della Bibbia*, *La Bibbia non è un libro sacro*, la collaboration Mondadori avec la juriste Lorena Forni, l'entretien-livre *The Naked Bible*, et la synthèse anglaise *Gods of the Bible* — et confronte ses notes avec le canon raélien. Il suit sa méthode (le pari qu'il nomme « facciamo finta che » — faire comme si le texte était vrai, et vérifier si la cohérence en résulte), son lexique du concret (les Élohim comme individus pluriels, le kavod comme chose lourde et volante, le tselem comme le quid matériel qui porte une image, l'olam comme longue durée plutôt qu'éternité, les dieux mourants du Psaume 82), et il vérifie honnêtement la philologie : où il repose sur le roc, où il se tient au cœur d'un débat savant vivant, et où la lecture fait un saut. Il traite aussi, avec soin, une donnée que la comparaison avec Wallis ne pouvait offrir : les bibliographies des premiers livres de Biglino citent, en silence, les textes de Raël entre les sumérologues. La parenté est profonde, les divergences sont structurelles — surtout sur le rang de Yahvé et la personne de Jésus — et l'article marque les deux avec la discipline qu'il exige de son sujet."
+summary = "Pendant près de deux décennies, un érudit effacé de la vallée de Suse a traduit la Bible hébraïque, mot sous mot, pour les Edizioni San Paolo — la maison d'édition catholique dont les éditions interlinéaires garnissent les bibliothèques de séminaire dans toute l'Italie. Dix-neuf livres du texte massorétique sont passés entre ses mains ; dix-sept furent publiés ; les deux derniers furent payés puis discrètement remisés, car Mauro Biglino avait entre-temps écrit un livre bien à lui. Cet Explicatif lit de près tout le corpus de Biglino — le livre fondateur de 2010, *Il Dio Alieno della Bibbia*, *La Bibbia non è un libro sacro*, la collaboration Mondadori avec la juriste Lorena Forni, l'entretien-livre *The Naked Bible*, et la synthèse anglaise *Gods of the Bible* — et confronte ses notes avec le canon raëlien. Il suit sa méthode (le pari qu'il nomme « facciamo finta che » — faire comme si le texte était vrai, et vérifier si la cohérence en résulte), son lexique du concret (les Élohim comme individus pluriels, le kavod comme chose lourde et volante, le tselem comme le quid matériel qui porte une image, l'olam comme longue durée plutôt qu'éternité, les dieux mourants du Psaume 82), et il vérifie honnêtement la philologie : où il repose sur le roc, où il se tient au cœur d'un débat savant vivant, et où la lecture fait un saut. Il traite aussi, avec soin, une donnée que la comparaison avec Wallis ne pouvait offrir : les bibliographies des premiers livres de Biglino citent, en silence, les textes de Raël entre les sumérologues. La parenté est profonde, les divergences sont structurelles — surtout sur le rang de Yahvé et la personne de Jésus — et l'article marque les deux avec la discipline qu'il exige de son sujet."
 keywords = ["Mauro Biglino", "Élohim", "Yahvé", "kavod", "ruach", "tselem", "olam", "Psaume 82", "Deutéronome 32", "Edizioni San Paolo", "facciamo finta che", "méthode Biglino", "The Naked Bible", "Gods of the Bible", "Giorgio Cattaneo", "Lorena Forni", "Paul Wallis", "néo-évhémérisme", "paléocontact"]
 references = [
     # — The canon under comparison —
@@ -533,7 +533,7 @@ La bibliographie d'*Il libro che cambierà per sempre le nostre idee sulla
 Bibbia* (2010) contient, entre les sumérologues et les titres ufologiques,
 la ligne suivante : *« Rael: download dei testi possibile da
 http://it.rael.org/news.php »* — Raël : textes téléchargeables depuis le
-site raélien italien. L'entrée revient dans *Il Dio Alieno della Bibbia*
+site raëlien italien. L'entrée revient dans *Il Dio Alieno della Bibbia*
 (2011). Elle n'est jamais discutée. Le nom de Raël n'apparaît nulle part
 dans le corps de l'un ou l'autre livre, ni dans *La Bibbia non è un libro
 sacro*, ni dans *The Naked Bible*, ni dans *Gods of the Bible* — une
@@ -543,12 +543,12 @@ bibliographies ultérieures.
 
 Que prouve-t-elle ? Presque rien, et le presque importe. Elle prouve que
 lorsque Biglino assembla son premier livre, il considérait les textes
-raéliens comme faisant partie de la littérature pertinente — que les
+raëliens comme faisant partie de la littérature pertinente — que les
 messages étaient sur son bureau, ou du moins sur sa liste de lectures,
 aux côtés de Kramer et de Sitchin. Elle ne prouve pas qu'il les ait lus de
-près, et elle ne fait manifestement pas de lui un raélien : toute sa
+près, et elle ne fait manifestement pas de lui un raëlien : toute sa
 méthode publique est un refus de dire qui étaient les Élohim, la seule
-question à laquelle le canon raélien répond dans son premier chapitre. {% claim(type="inferred", id="woh-claim-0042") %}Là
+question à laquelle le canon raëlien répond dans son premier chapitre. {% claim(type="inferred", id="woh-claim-0042") %}Là
 où la convergence de Wallis avec le canon portait la valeur probante d'une
 indépendance totale — deux lecteurs, aucun contact, même lecture — la
 convergence de Biglino porte une valeur différente et, à un égard, plus
@@ -565,7 +565,7 @@ que l'agnosticisme les mains vides de Biglino pratique depuis l'autre côté.
 
 La ligne épistémique d'abord, comme ce projet la trace toujours : les
 lectures côté canon ci-dessous sont des prétentions du cadre — explicites
-dans les textes-sources raéliens, non avalisées par l'érudition dominante
+dans les textes-sources raëliens, non avalisées par l'érudition dominante
 — et la comparaison elle-même est la synthèse inférée propre à cet
 Explicatif. Cela dit, la carte peut être déployée, et elle est remarquablement
 congruente.

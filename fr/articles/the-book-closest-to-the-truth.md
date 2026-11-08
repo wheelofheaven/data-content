@@ -141,7 +141,7 @@ Trois paragraphes plus loin vient le superlatif catégorique qui donne son titre
 à cet Explicatif : *« La Kabbale est le livre le plus proche de la vérité »*
 ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=54) %}LLQDV 5:54{% end %}).
 
-La plupart des affirmations du canon raélien sont des lectures — un laboratoire
+La plupart des affirmations du canon raëlien sont des lectures — un laboratoire
 derrière la {% wiki(slug="genesis") %}Genèse{% end %}, une réinitialisation
 derrière le {% wiki(slug="great-flood") %}déluge{% end %}. Celle-ci est une
 citation. Elle nomme un corpus, un chapitre, deux nombres et une unité, et
@@ -279,7 +279,7 @@ délivre de toute chose mauvaise.
 {% end %}
 
 Le nom du texte énonce son propos. שִׁעוּר (*shiʿur*) signifie « mesure »,
-« quantité », « montant » — le même mot qu'un Israélien moderne emploie pour une
+« quantité », « montant » — le même mot qu'un Israëlien moderne emploie pour une
 leçon d'école ; קוֹמָה (*qomah*) est « stature » ou « hauteur » — en hébreu
 moderne, l'étage d'un immeuble — et dans l'araméen de l'époque il peut signifier
 simplement « corps ». *Shiʿur qomah* : la mesure de la stature ; ou, comme
@@ -657,7 +657,7 @@ liturgique porterait une table de conversion.
 Un trait de plus mérite son poids. De toutes les écritures du monde — et le
 canon en passe en revue beaucoup — celle-ci est la seule qui assigne au divin
 une magnitude en unités nommées puis définit l'unité. La revendication
-raélienne selon laquelle la Kabbale est « le livre le plus proche de la vérité »
+raëlienne selon laquelle la Kabbale est « le livre le plus proche de la vérité »
 est, au fond, une revendication à propos de cette singularité : les théophanies
 de tous les autres sont passées sous forme d'imagerie ; celle de cette tradition
 est passée sous forme de *données*, si corrompues soient-elles. Même l'histoire
@@ -764,7 +764,7 @@ quoi qu'ils aient pu désaccorder par ailleurs, sur le fait que ses nombres ne
 doivent pas signifier ce qu'ils disent. L'érudition moderne, à son meilleur,
 transforma cet instinct en une lecture profonde : la mesure comme le naufrage
 délibéré de la mesure, la table des parasanges comme une machine à briser
-l'emprise de l'esprit, les noms comme la véritable cargaison. Le canon raélien
+l'emprise de l'esprit, les noms comme la véritable cargaison. Le canon raëlien
 arrive de l'extérieur de toute la tradition et prend le pari opposé : les nombres
 signifient exactement ce qu'ils disent — seul le *référent* fut perdu, l'unité
 mal classée, le corps un contenant pour un itinéraire. Entre ces paris, ce

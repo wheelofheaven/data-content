@@ -75,7 +75,7 @@ footnotes = [
     { content = "Les tablettes en linéaire B de Pylos, Cnossos et La Canée consignent des offrandes à di-we (Zeus), e-ra (Héra), po-se-da-o (Poséidon, dominant à Pylos), e-ma-a (Hermès), a-ta-na po-ti-ni-ja (« la Dame d'Atana », peut-être Athéna — la lecture est débattue), et, à la surprise de l'érudition antérieure, di-wo-nu-so (Dionysos), longtemps tenu pour un venu tardif. Apollon et Aphrodite sont absents du registre de l'âge du bronze ; le panthéon classique fut en partie constitué après la chute des palais." },
     { content = "Des documents d'État hittites du XIIIe siècle avant notre ère nomment un royaume vassal, Wilusa, dans le nord-ouest de l'Anatolie, et une puissance appelée Ahhiyawa de l'autre côté de la mer. Les équations Wilusa = (W)Ilios (Troie) et Ahhiyawa = les Achéens de l'épopée furent proposées dans les années 1920, rejetées pendant des décennies, et sont aujourd'hui admises par la majorité des spécialistes — avec de sérieux contradicteurs subsistant. La référence passagère de la lettre de Tawagalawa à un conflit passé « au sujet de Wilusa » est ce qui, dans une archive antique, se rapproche le plus de la mention de quelque chose comme une guerre de Troie ; elle établit une friction, non la guerre d'Homère." },
     { content = "La « coupe de Nestor » de Pithécusses (l'actuelle Ischia, v. 740-720 avant notre ère) porte l'une des plus anciennes inscriptions alphabétiques grecques conservées : trois vers plaisantant sur le fait que quiconque boit à cette coupe sera saisi de désir — d'ordinaire lus comme un jeu sur la grande coupe de Nestor décrite au chant XI de l'Iliade. Si l'allusion est admise, la matière épique relative à Nestor était assez familière à l'extrême bord occidental du monde grec pour nourrir une plaisanterie de banquet une génération ou deux après l'arrivée de l'alphabet. Cette lecture est largement, quoique non universellement, admise." },
-    { content = "Dans le vocabulaire de Wheel of Heaven, les Élohim sont la petite civilisation technologiquement avancée que le canon identifie comme les fabricants de l'humanité ; un Eloha en est un membre. Le canon nomme explicitement la Grèce comme le site d'une base de créateurs et la mythologie grecque comme un témoignage (Le Livre qui dit la Vérité 5:54). L'identification précise de la Titanomachie à la guerre Conseil-Serpentine est un développement du corpus qui s'appuie sur cet ancrage canonique — exposé dans l'entrée Théomachie — et non une phrase présente dans le texte source." }
+    { content = "Dans le vocabulaire de Wheel of Heaven, les Élohim sont la petite civilisation technologiquement avancée que le canon identifie comme les fabricants de l'humanité ; un Eloha en est un membre. Le canon nomme explicitement la Grèce comme le site d'une base de créateurs et la mythologie grecque comme un témoignage (Le Livre qui dit la vérité 5:54). L'identification précise de la Titanomachie à la guerre Conseil-Serpentine est un développement du corpus qui s'appuie sur cet ancrage canonique — exposé dans l'entrée Théomachie — et non une phrase présente dans le texte source." }
 ]
 +++
 
@@ -621,12 +621,12 @@ bien de l'héritage, ou bien de la mémoire, et les états de service du poème 
 Tout ce qui précède relève de l'érudition dominante, énoncée avec ses propres
 niveaux de confiance. Ce qui suit ne l'est pas, et l'usage du corpus est de le
 dire clairement : cette section lit la même matière à travers le canon
-{% wiki(slug="raelism") %}raélien{% end %}, et son statut épistémique est
+{% wiki(slug="raelism") %}raëlien{% end %}, et son statut épistémique est
 `speculative` — synthèse interprétative allant au-delà de ce qu'énonce toute
 source isolée.{{ footnote(id="8") }}
 
 La prétention propre du canon au sujet de la Grèce est brève et précise. Dans
-*Le Livre qui dit la Vérité* (1974), le messager des
+*Le Livre qui dit la vérité* (1974), le messager des
 {% wiki(slug="elohim") %}Élohim{% end %} énumère les régions où les créateurs
 entretenaient des installations, et la Grèce est nommée — sa mythologie étant
 caractérisée comme un témoignage :
@@ -760,7 +760,7 @@ qui a été vérifié de façon indépendante.
 
 Quatrièmement, l'objection de la
 {% wiki(slug="neo-euhemerism") %}substitution de catégorie{% end %}, que des
-spécialistes dominants de la religion ont opposée au Raélisme en particulier :
+spécialistes dominants de la religion ont opposée au Raëlisme en particulier :
 Susan Palmer, George Chryssides et Stefano Bigliardi ont soutenu chacun, sur des
 registres différents, que traduire les dieux en êtres avancés redécrit la
 mythologie dans l'idiome de prestige d'un âge technologique tout en préservant sa

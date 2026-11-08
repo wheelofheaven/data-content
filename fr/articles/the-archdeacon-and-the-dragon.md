@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "En 2020, un archidiacre en exercice de l'Église anglicane d'Australie publia un livre soutenant que les Élohim de la Genèse sont « les Êtres puissants » — une pluralité de visiteurs de chair et de sang dont les histoires furent retravaillées en monothéisme par les éditeurs ultérieurs de la Bible. Cinq autres livres suivirent, un par an, chacun poussant l'argument plus loin : dans les traditions de contact du monde, dans l'histoire de la rédaction du canon hébreu, dans l'exopolitique moderne, et enfin dans les hautes terres de basalte de l'antique Urartu. Cet Explicatif lit de près toute la Série d'Éden de Paul Wallis et confronte ses notes avec le canon raélien — un corps de prétentions que Wallis n'a jamais cité et, à en juger par ses propres pages, jamais lu. Il cartographie les convergences : les Élohim pluriels, Éden comme installation gardée, le Serpent comme faction dissidente des fabricants, le Déluge comme décision de conseil, Babel comme sabotage d'une civilisation spatiale. Il fait passer son image la plus saisissante — la lecture de YHWH comme le nom de dragon Akhekh — par un audit philologique complet, en disant clairement où l'étymologie échoue et pourquoi la prétention structurelle qui la sous-tend tient malgré tout. Et il marque, avec un soin égal, là où les deux lectures se séparent : qui porte le dragon, ce que Jésus est venu faire, et si quoi que ce soit qui s'appelle Dieu survit au-dessus des Élohim. La parenté est convergence, et la convergence est une donnée."
+summary = "En 2020, un archidiacre en exercice de l'Église anglicane d'Australie publia un livre soutenant que les Élohim de la Genèse sont « les Êtres puissants » — une pluralité de visiteurs de chair et de sang dont les histoires furent retravaillées en monothéisme par les éditeurs ultérieurs de la Bible. Cinq autres livres suivirent, un par an, chacun poussant l'argument plus loin : dans les traditions de contact du monde, dans l'histoire de la rédaction du canon hébreu, dans l'exopolitique moderne, et enfin dans les hautes terres de basalte de l'antique Urartu. Cet Explicatif lit de près toute la Série d'Éden de Paul Wallis et confronte ses notes avec le canon raëlien — un corps de prétentions que Wallis n'a jamais cité et, à en juger par ses propres pages, jamais lu. Il cartographie les convergences : les Élohim pluriels, Éden comme installation gardée, le Serpent comme faction dissidente des fabricants, le Déluge comme décision de conseil, Babel comme sabotage d'une civilisation spatiale. Il fait passer son image la plus saisissante — la lecture de YHWH comme le nom de dragon Akhekh — par un audit philologique complet, en disant clairement où l'étymologie échoue et pourquoi la prétention structurelle qui la sous-tend tient malgré tout. Et il marque, avec un soin égal, là où les deux lectures se séparent : qui porte le dragon, ce que Jésus est venu faire, et si quoi que ce soit qui s'appelle Dieu survit au-dessus des Élohim. La parenté est convergence, et la convergence est une donnée."
 keywords = ["Paul Wallis", "Escaping from Eden", "Akhekh", "Yahvé", "Élohim", "affrication", "Josué 24", "conseil divin", "néo-évhémérisme", "méthode Biglino", "paléocontact", "serpent", "dragon"]
 references = [
     # — The canon under comparison —
@@ -125,10 +125,10 @@ rapporta que le sens de ces mêmes versets de la Genèse lui fut expliqué
 directement, six jours durant, par l'un des êtres qu'ils décrivent. Le
 livre qu'il publia en 1974, [*Le Livre qui dit la
 vérité*](/library/the-book-which-tells-the-truth/), est le fondement du
-canon raélien et de ce projet. Wallis ne s'y est jamais confronté. Une
+canon raëlien et de ce projet. Wallis ne s'y est jamais confronté. Une
 recherche en texte intégral des six livres d'Éden — quelque 393 000 mots —
 ne fait apparaître aucune mention de Raël, de Vorilhon ni du mouvement
-raélien ; d'ailleurs, elle ne mentionne pas davantage Zecharia Sitchin.
+raëlien ; d'ailleurs, elle ne mentionne pas davantage Zecharia Sitchin.
 Quoi que soit par ailleurs la Série d'Éden, elle ne dérive pas du canon.
 
 Cette indépendance est la raison d'être de cet Explicatif. Lorsque deux
@@ -494,7 +494,7 @@ l'observation est celle du texte.
 Ici, l'article passe de l'audit à la comparaison, et la ligne épistémique
 doit être marquée comme ce projet la marque toujours : les lectures du côté
 du canon qui suivent sont des prétentions relevant du cadre — explicites
-dans le matériau source raélien, non avalisées par l'érudition dominante —
+dans le matériau source raëlien, non avalisées par l'érudition dominante —
 et la comparaison elle-même est la propre synthèse inférée de cet
 Explicatif. Cela dit, les convergences peuvent être exposées côte à côte,
 car elles sont nombreuses et précises.

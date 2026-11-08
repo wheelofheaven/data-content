@@ -396,7 +396,7 @@ Substantive Ancient Astronaut Hypothesis operates substantively in substantive s
 
 ### The Vorilhon source-textual corpus
 
-The substantive substantial corpus reading is articulated principally through substantive substantial Vorilhon source material (substantive substantial 1974 *Le Livre qui dit la vérité*, substantive substantial 1975 *Les Extra-Terrestres m'ont emmené sur leur planète*, substantive 1979 *Accueillir les Extra-Terrestres*, substantive consolidated *Message from the Designers*, 2005). Substantive substantial detailed treatment of broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](../message-from-the-designers/) entries.
+The substantive substantial corpus reading is articulated principally through substantive substantial Vorilhon source material (substantive substantial 1974 *Le Livre qui dit la vérité*, substantive substantial 1975 *Les Extra-terrestres m'ont emmené sur leur planète*, substantive 1979 *Accueillir les extra-terrestres*, substantive consolidated *Message from the Designers*, 2005). Substantive substantial detailed treatment of broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](../message-from-the-designers/) entries.
 
 ## Distinguishing from adjacent concepts
 
@@ -652,9 +652,9 @@ The framework's distinctive contribution within this broader comparative landsca
 
 Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. 1974.
 
-Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. 1975.
+Vorilhon, Claude (Raël). *Les Extra-terrestres m'ont emmené sur leur planète*. 1975.
 
-Vorilhon, Claude (Raël). *Accueillir les Extra-Terrestres*. 1979.
+Vorilhon, Claude (Raël). *Accueillir les extra-terrestres*. 1979.
 
 Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
 

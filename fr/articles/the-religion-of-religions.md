@@ -12,8 +12,8 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Le Raélisme a été classé, par quatre gouvernements, sous quatre rubriques incompatibles — un danger pour le public, une non-religion, une religion exonérée d'impôt et une corporation religieuse. Les chercheurs n'ont guère fait mieux, empilant des étiquettes qui n'attrapent chacune qu'une surface : religion des soucoupes, religion athée, créationnisme scientifique, religion postmoderne de la science, religion biblique, apocalyptisme abrahamique fondamentaliste. Cet Explicatif lit de près les sources primaires — les deux récits de rencontre de 1973 et 1975, la révélation de la paternité de 1979, le manifeste politique de 1977, le traité sur le clonage de 2001, la polémique anti-sectes de 1992 — et confronte chaque étiquette au texte. Il soutient que les étiquettes se triangulent : par l'imagerie le Raélisme est une religion des soucoupes, par la métaphysique un athéisme, par le style épistémique un scientisme, et par le contenu, la lignée et l'eschatologie une jeune branche de la famille abrahamique, dont l'écriture fondatrice est formellement un commentaire de la Bible et dont le grand projet de construction est le Troisième Temple. Il place ensuite le mouvement aux côtés des trois grandes religions universalistes qui le précèdent immédiatement — la Foi bahá'íe (1863), Oomoto (1892) et Cao Đài (1926) — et découvre, à travers les traductions faites par le projet de leurs textes fondateurs, une structure partagée si spécifique que les quatre se lisent comme un seul événement récurrent en quatre idiomes technologiques : un messager solitaire, une prétention à unifier toute révélation antérieure, une lignée prophétique énumérée, une langue universelle, un centre sacré attendant un retour, une persécution par l'État d'origine et, deux fois, un Maitreya revendiqué. Les différences — un Dieu théiste, un kami possédant, un Empereur de Jade de salle de séance, et aucun dieu du tout — sont préservées, car ce sont elles les données."
-keywords = ["Raélisme", "Claude Vorilhon", "Raël", "religion des soucoupes", "religion athée", "nouveau mouvement religieux", "Foi bahá'íe", "Oomoto", "Caodaïsme", "Cao Đài", "révélation progressive", "religion des religions", "Maitreya", "Clonaid", "Susan Palmer", "George Chryssides", "taxonomie de la religion"]
+summary = "Le Raëlisme a été classé, par quatre gouvernements, sous quatre rubriques incompatibles — un danger pour le public, une non-religion, une religion exonérée d'impôt et une corporation religieuse. Les chercheurs n'ont guère fait mieux, empilant des étiquettes qui n'attrapent chacune qu'une surface : religion des soucoupes, religion athée, créationnisme scientifique, religion postmoderne de la science, religion biblique, apocalyptisme abrahamique fondamentaliste. Cet Explicatif lit de près les sources primaires — les deux récits de rencontre de 1973 et 1975, la révélation de la paternité de 1979, le manifeste politique de 1977, le traité sur le clonage de 2001, la polémique anti-sectes de 1992 — et confronte chaque étiquette au texte. Il soutient que les étiquettes se triangulent : par l'imagerie le Raëlisme est une religion des soucoupes, par la métaphysique un athéisme, par le style épistémique un scientisme, et par le contenu, la lignée et l'eschatologie une jeune branche de la famille abrahamique, dont l'écriture fondatrice est formellement un commentaire de la Bible et dont le grand projet de construction est le Troisième Temple. Il place ensuite le mouvement aux côtés des trois grandes religions universalistes qui le précèdent immédiatement — la Foi bahá'íe (1863), Oomoto (1892) et Cao Đài (1926) — et découvre, à travers les traductions faites par le projet de leurs textes fondateurs, une structure partagée si spécifique que les quatre se lisent comme un seul événement récurrent en quatre idiomes technologiques : un messager solitaire, une prétention à unifier toute révélation antérieure, une lignée prophétique énumérée, une langue universelle, un centre sacré attendant un retour, une persécution par l'État d'origine et, deux fois, un Maitreya revendiqué. Les différences — un Dieu théiste, un kami possédant, un Empereur de Jade de salle de séance, et aucun dieu du tout — sont préservées, car ce sont elles les données."
+keywords = ["Raëlisme", "Claude Vorilhon", "Raël", "religion des soucoupes", "religion athée", "nouveau mouvement religieux", "Foi bahá'íe", "Oomoto", "Caodaïsme", "Cao Đài", "révélation progressive", "religion des religions", "Maitreya", "Clonaid", "Susan Palmer", "George Chryssides", "taxonomie de la religion"]
 references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶2–6: the craft and the being; ¶44: the charge; ¶46: why Vorilhon; ¶53: 'We are men like you'); Chapter 5 (¶54: Buddhism, Islam, the Mormons; ¶57: the infinite in both directions; ¶66: the name Raël); Chapter 6 (¶3–17: geniocracy, humanitarianism, world government; ¶16: the single language and currency; ¶21–25: the embassy and the conditional return; ¶29: 'the Raëlian Movement'); Chapter 7 (¶24: 'Our only religion is human genius'; ¶31: the council of the eternals; ¶33: the name Elohim)" },
@@ -67,16 +67,16 @@ references = [
 # {{ footnote(id="N") }} markers in the prose. Distinct from the numbered
 # bibliographic references above.
 footnotes = [
-    { content = "*Emic* et *etic* sont les termes de l'anthropologie pour les deux points de vue sur une culture : la description émique travaille avec les catégories que les initiés utilisent eux-mêmes ; la description étique travaille avec les catégories comparatives de l'observateur. Un raélien qui dit « nous sommes une religion athée » est émique ; un chercheur qui classe le mouvement parmi les « religions ovni » est étique. Chryssides fait la distinction explicitement lorsqu'il défend l'étiquette étique contre l'objection du mouvement." },
+    { content = "*Emic* et *etic* sont les termes de l'anthropologie pour les deux points de vue sur une culture : la description émique travaille avec les catégories que les initiés utilisent eux-mêmes ; la description étique travaille avec les catégories comparatives de l'observateur. Un raëlien qui dit « nous sommes une religion athée » est émique ; un chercheur qui classe le mouvement parmi les « religions ovni » est étique. Chryssides fait la distinction explicitement lorsqu'il défend l'étiquette étique contre l'objection du mouvement." },
     { content = "La *laïcité* est la doctrine constitutionnelle française de la sécularité de l'État, héritière de la loi de 1905 séparant l'Église et l'État. Elle façonne les deux versants de cette histoire : Vorilhon fut élevé, selon son propre témoignage et celui de Palmer, dans « la culture antireligieuse de la laïcité » — et la même tradition produisit plus tard l'appareil anti-sectes de l'État qui classa son mouvement parmi les *sectes*." },
-    { content = "Le rapport — *Les sectes en France*, Assemblée nationale no 2468, décembre 1995, connu du nom de son rapporteur comme le rapport Guyard — dressait la liste de 173 mouvements selon des critères fournis par les Renseignements généraux, dont les « exigences financières exorbitantes » et le « discours antisocial ». Il n'avait aucune force légale, mais fonctionna en pratique comme une liste noire ; la Cour européenne des droits de l'homme en citerait plus tard l'entrée raélienne mot pour mot. Une commission d'enquête parlementaire belge produisit une classification comparable en 1997." },
+    { content = "Le rapport — *Les sectes en France*, Assemblée nationale no 2468, décembre 1995, connu du nom de son rapporteur comme le rapport Guyard — dressait la liste de 173 mouvements selon des critères fournis par les Renseignements généraux, dont les « exigences financières exorbitantes » et le « discours antisocial ». Il n'avait aucune force légale, mais fonctionna en pratique comme une liste noire ; la Cour européenne des droits de l'homme en citerait plus tard l'entrée raëlienne mot pour mot. Une commission d'enquête parlementaire belge produisit une classification comparable en 1997." },
     { content = "Maitreya est le futur Bouddha de l'eschatologie bouddhiste — le successeur que le Bouddha historique aurait annoncé, attendu lorsque le dharma aura décliné. La tradition japonaise rend le nom par Miroku. Le festival d'Onisaburō en 1928 reposait sur une lecture numérologique : il était alors âgé de cinquante-six ans et sept mois, et les chiffres 5-6-7 peuvent se lire en japonais *mi-ro-ku*." },
     { content = "La date canonique de la seconde rencontre est le 7 octobre 1975, et le calendrier festif du mouvement l'y maintient. La littérature savante manie la date avec négligence : la monographie de Palmer imprime « 1976 » sur une page et 1975 ailleurs ; l'article de Chryssides de 2000 imprime « 7 novembre 1975 ». De petites erreurs de ce genre sont utiles — elles montrent quels auteurs ont travaillé à partir des sources et lesquels les uns à partir des autres." },
-    { content = "Les propres totaux courants du mouvement sont de 65 000 membres baptisés dans 86 pays (2006), 85 000 dans 90 (2011), 90 000 (2013). Palmer relaie les chiffres officiels avec la réserve qu'ils comptent tous ceux qui ont jamais été baptisés, y compris des adolescents « sur un pari ». L'estimation d'Introvigne en 2003 distinguait environ 1 500 membres engagés de la Structure d'environ 50 000 adhérents nominaux. Des bases de données internes divulguées — rapportées à 14 192 membres vérifiés en 2010 et 18 111 en 2017, bien que la fuite soit une source unique — se situent entre les deux. Tout chiffre de cette fourchette fait du Raélisme l'un des plus petits corps ayant jamais soutenu une institution religieuse mondiale sur cinquante ans." },
-    { content = "La « transmission du plan cellulaire » est l'initiation raélienne : lors de l'un des quatre jours festifs, un guide trempe ses mains dans l'eau et tient la tête de l'initié, transmettant — le mouvement dit télépathiquement, aux ordinateurs des Élohim — l'identité génétique du nouveau membre, pour le registre au regard duquel se tiendra le jugement dernier. C'est un baptême, déplacé de l'âme au génome. Un rite funéraire complémentaire prélève un centimètre carré de l'os frontal pour un stockage à Genève, en attendant sa collecte." },
-    { content = "Les engagements en faveur d'une langue auxiliaire sont spécifiques, et ils sont liés. 'Abdu'l-Bahá loua l'espéranto comme candidat au principe bahá'í d'une langue auxiliaire universelle, et Lidia Zamenhof — la plus jeune fille de l'inventeur de l'espéranto — devint bahá'íe en 1925 et en traduisit la littérature. Oomoto adopta l'espéranto dès le début des années 1920 (un récit fait remonter la décision à un contact interreligieux avec des bahá'ís en 1921) et publie encore dans cette langue ; la devise inscrite sur son centre de Kameoka dit Unu Dio, Unu Mondo, Unu Interlingvo — un Dieu, un monde, une interlangue. Le canon raélien, sans nommer l'espéranto, ordonne « une nouvelle langue, inspirée de toutes », obligatoire dans chaque école de la Terre (TBWTT 6:16)." },
+    { content = "Les propres totaux courants du mouvement sont de 65 000 membres baptisés dans 86 pays (2006), 85 000 dans 90 (2011), 90 000 (2013). Palmer relaie les chiffres officiels avec la réserve qu'ils comptent tous ceux qui ont jamais été baptisés, y compris des adolescents « sur un pari ». L'estimation d'Introvigne en 2003 distinguait environ 1 500 membres engagés de la Structure d'environ 50 000 adhérents nominaux. Des bases de données internes divulguées — rapportées à 14 192 membres vérifiés en 2010 et 18 111 en 2017, bien que la fuite soit une source unique — se situent entre les deux. Tout chiffre de cette fourchette fait du Raëlisme l'un des plus petits corps ayant jamais soutenu une institution religieuse mondiale sur cinquante ans." },
+    { content = "La « transmission du plan cellulaire » est l'initiation raëlienne : lors de l'un des quatre jours festifs, un guide trempe ses mains dans l'eau et tient la tête de l'initié, transmettant — le mouvement dit télépathiquement, aux ordinateurs des Élohim — l'identité génétique du nouveau membre, pour le registre au regard duquel se tiendra le jugement dernier. C'est un baptême, déplacé de l'âme au génome. Un rite funéraire complémentaire prélève un centimètre carré de l'os frontal pour un stockage à Genève, en attendant sa collecte." },
+    { content = "Les engagements en faveur d'une langue auxiliaire sont spécifiques, et ils sont liés. 'Abdu'l-Bahá loua l'espéranto comme candidat au principe bahá'í d'une langue auxiliaire universelle, et Lidia Zamenhof — la plus jeune fille de l'inventeur de l'espéranto — devint bahá'íe en 1925 et en traduisit la littérature. Oomoto adopta l'espéranto dès le début des années 1920 (un récit fait remonter la décision à un contact interreligieux avec des bahá'ís en 1921) et publie encore dans cette langue ; la devise inscrite sur son centre de Kameoka dit Unu Dio, Unu Mondo, Unu Interlingvo — un Dieu, un monde, une interlangue. Le canon raëlien, sans nommer l'espéranto, ordonne « une nouvelle langue, inspirée de toutes », obligatoire dans chaque école de la Terre (TBWTT 6:16)." },
     { content = "Tam Kỳ Phổ Độ — « la Troisième Grande Amnistie universelle » (ou Salut) — est la périodisation caodaïste de la révélation : deux amnisties antérieures livrèrent les fondateurs des religions du monde ; leurs messages se sont dégradés dans la transmission ; la troisième et dernière amnistie se passe d'intermédiaires humains, Dieu dictant directement par le panier de séance. Le nom officiel complet de la religion, Đại Đạo Tam Kỳ Phổ Độ, porte la doctrine dans son titre." },
-    { content = "La déclaration fondatrice caodaïste (la pétition Khai Đạo à l'administration coloniale française) est datée du 7 octobre 1926 — la même date du calendrier que le canon raélien donne, quarante-neuf ans plus tard, pour la seconde rencontre. Rien n'est ici revendiqué de cette coïncidence ; elle est consignée parce que les lecteurs du corpus remarquent de telles choses, et il vaut mieux la consigner en indiquant son poids : nul." },
+    { content = "La déclaration fondatrice caodaïste (la pétition Khai Đạo à l'administration coloniale française) est datée du 7 octobre 1926 — la même date du calendrier que le canon raëlien donne, quarante-neuf ans plus tard, pour la seconde rencontre. Rien n'est ici revendiqué de cette coïncidence ; elle est consignée parce que les lecteurs du corpus remarquent de telles choses, et il vaut mieux la consigner en indiquant son poids : nul." },
     { content = "L'expression « quarante prophètes » n'apparaît pas mot pour mot dans les trois livres fondateurs. Le nombre entre dans le canon à la scène du repas de 1975 — « La quarantaine d'hommes et de femmes présents à ce repas sont tous des êtres représentatifs des religions créées à la suite de nos contacts sur la Terre » (ETTMTTP 2:64) — et l'usage ultérieur du mouvement (« le dernier de quarante prophètes ») est une articulation de cette phrase. Aucune liste complète des quarante n'existe nulle part dans le canon ni dans la littérature du mouvement ; le propre catalogue du corpus marque l'énumération comme une reconstruction." },
     { content = "La géniocratie, le programme de 1977 : l'intelligence mesurée par des « tests scientifiques sophistiqués » ; le droit de vote réservé à ceux qui se situent 10 pour cent au-dessus de la moyenne, l'éligibilité aux fonctions à ceux qui se situent 50 pour cent au-dessus — soit, par l'arithmétique même du livre, un électorat de 27,5 pour cent de la population. Le livre se présente comme une philosophie politique laïque ; les Élohim n'apparaissent pour ainsi dire pas du tout dans le texte principal, et la révélation que la géniocratie est « pratiquée par les Élohim sur leur propre planète » figure dans les pages publicitaires de fin de volume. Le vocabulaire employé pour désigner les exclus est de son époque et se lit aujourd'hui en conséquence ; le mouvement lui-même a traité le programme comme un idéal plutôt que comme une réalité opérante." }
 ]
@@ -100,20 +100,20 @@ religion qui en a résulté ?*
 
 Le dossier institutionnel est franchement comique dans son désaccord. En
 1995, une commission d'enquête parlementaire française classa le Mouvement
-raélien parmi les *sectes* qui « présentent des dangers pour l'individu…
+raëlien parmi les *sectes* qui « présentent des dangers pour l'individu…
 et aussi des dangers pour la collectivité » — formulation que la Cour
 européenne des droits de l'homme citerait plus tard, sans broncher.{{ footnote(id="3") }}
 Les autorités fiscales du Canada lui refusèrent la reconnaissance comme
 religion au motif déclaré que « les Élohim ne sont pas des dieux… ils ne
 correspondent pas à la jurisprudence » — une agence du revenu statuant sur
 l'ontologie de la divinité. Les États-Unis lui accordèrent l'exonération
-fiscale *en tant que* Religion raélienne ; le Québec l'incorpora comme
+fiscale *en tant que* Religion raëlienne ; le Québec l'incorpora comme
 corporation religieuse l'année même où la France la mettait sur liste
 noire. Quatre juridictions, quatre verdicts : menace, non-religion,
 religion, Église.
 
 Les chercheurs ont fait mieux, mais ils l'ont fait par multiplication.
-Le {% wiki(slug="raelism") %}Raélisme{% end %} est, dans la littérature
+Le {% wiki(slug="raelism") %}Raëlisme{% end %} est, dans la littérature
 publiée, une « religion ovni » (Christopher Partridge, Benjamin Zeller),
 une « religion athée » (George Chryssides, Massimo Introvigne, et le
 mouvement lui-même), « la plus intégralement séculière de toutes les
@@ -125,7 +125,7 @@ approche le plus d'un verdict — « une nouvelle religion abrahamique,
 apocalyptique et fondamentaliste ». Chaque étiquette est défendable.
 Chacune saisit une surface de l'objet. Cet article lit les sources
 primaires dans toute leur ampleur, confronte les étiquettes au texte, puis
-fait ce que les étiquettes elles-mêmes suggèrent : il place le Raélisme
+fait ce que les étiquettes elles-mêmes suggèrent : il place le Raëlisme
 aux côtés des trois autres jeunes religions universalistes de l'époque
 moderne — la Foi bahá'íe, Oomoto et Cao Đài — et laisse la ressemblance
 familiale porter la classification. La comparaison repose sur les
@@ -135,7 +135,7 @@ leurs propres mots, à la résolution du paragraphe, avec les différences
 préservées.
 
 Une dernière chose a sa place dans l'ouverture, car le lecteur mérite de
-connaître la position adoptée. Ce projet lit le matériau raélien comme son
+connaître la position adoptée. Ce projet lit le matériau raëlien comme son
 canon ; ses affirmations sur les {% wiki(slug="elohim") %}Élohim{% end %}
 sont des affirmations de cadre, explicites dans ce matériau et non avalisées
 par l'érudition dominante. La catégorisation défendue ici est cependant une
@@ -240,7 +240,7 @@ sorte de génie religieux. »
 
 ## Six jours d'étude de la Bible
 
-Le fait le plus systématiquement sous-rapporté à propos du Raélisme —
+Le fait le plus systématiquement sous-rapporté à propos du Raëlisme —
 sous-rapporté dans la couverture de presse, s'entend ; l'érudition des deux
 dernières décennies y a convergé — est ce en quoi consiste réellement la
 révélation fondatrice : un *séminaire sur la Bible hébraïque et les
@@ -308,7 +308,7 @@ est celle dont le visiteur emploie le nom pluriel pour se désigner :
 ## L'escalade : du sténographe au fils
 
 Les religions qui commencent dans une révélation privée tendent à élever le
-statut du fondateur par étapes, et le canon raélien accomplit son escalade en
+statut du fondateur par étapes, et le canon raëlien accomplit son escalade en
 public, livre après livre, ce qui en fait un matériau inhabituellement bon
 pour observer le processus. Dans le premier livre, Raël est un sténographe
 avec une mission. Dans le second — *Les Extra-terrestres m'ont emmené sur leur
@@ -346,7 +346,7 @@ cet article tire son titre :
 
 {% library(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=105) %}
 Tu es celui qui doit rassembler les hommes de toutes les religions. Car le
-mouvement que tu as créé, le Mouvement raélien, doit être la religion des
+mouvement que tu as créé, le Mouvement raëlien, doit être la religion des
 religions. J'insiste, c'est bel et bien une religion, mais une religion
 athée, comme tu l'avais déjà compris.
 {% end %}
@@ -407,9 +407,9 @@ jamais l'identification, se contentant de l'endosser, jusqu'au texte de
 quatrième de couverture (« Rencontrer le Maitreya de son vivant est une
 occasion que vous ne pouvez pas vous permettre de manquer »). Son unique phrase
 véritablement doctrinale sur la lignée est l'énoncé le plus net de
-supersessionnisme de tout le corpus raélien : « C'était fantastique d'être
+supersessionnisme de tout le corpus raëlien : « C'était fantastique d'être
 bouddhiste au temps de Bouddha, chrétien au temps de Jésus… Si Jésus ou
-Bouddha étaient ici aujourd'hui, ils seraient raéliens. »
+Bouddha étaient ici aujourd'hui, ils seraient raëliens. »
 
 ## Une religion sans métaphysique
 
@@ -460,7 +460,7 @@ et elle passe par une étymologie sur laquelle ce corpus a sa propre
 {% wiki(slug="religion") %}entrée{% end %} :
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=25) %}
-Ainsi devient-il clair que le Mouvement raélien est une religion ; il relie les
+Ainsi devient-il clair que le Mouvement raëlien est une religion ; il relie les
 créateurs de l'humanité à leur création, même s'il est en fait une religion
 athée, au sens où elle ne croit pas en l'existence d'un Dieu — athée, du grec
 atheos qui signifie « niant l'existence de toute forme de divinité ».
@@ -502,7 +502,7 @@ Québec d'après 1960 et la France d'après la *laïcité* avaient déséglisée
 mouvement attire de jeunes adultes séduisants d'un milieu catholique qu'ils ont
 déjà rejeté… Ils ont tendance à révérer la science et à mépriser les
 institutions religieuses, en particulier l'Église catholique. » Les convertis
-du Raélisme ne furent jamais des chercheurs New Age circulant entre occultismes ;
+du Raëlisme ne furent jamais des chercheurs New Age circulant entre occultismes ;
 c'étaient des gens de la civilisation biblique qui en avaient perdu le fondement
 et en avaient gardé la forme. La religion qui les recruta offre, selon le résumé
 que Palmer fait de son argumentaire, l'ancien mobilier sur une nouvelle
@@ -529,19 +529,19 @@ guerres anti-sectes est repris deux sections plus bas, là où il a sa place —
 comme histoire, puisque comme taxonomie il est vide.
 
 **Religion ovni.** Étique,{{ footnote(id="1") }} exacte, et mal vécue de
-l'intérieur — une déclaration raélienne que cite Chryssides dit « La dimension
+l'intérieur — une déclaration raëlienne que cite Chryssides dit « La dimension
 ovni à elle seule est totalement ennuyeuse. C'est la dimension philosophique,
 la dimension religieuse qui nous intéresse. » Chryssides défend malgré tout
 l'étiquette, au motif raisonnable qu'une famille de mouvements fondant leurs
 enseignements sur un contact extraterrestre constitue une classe comparative
 réelle. Ce que les études plus proches montrent alors, c'est à quel point le
-Raélisme s'ajuste mal à la classe qu'il nomme. Palmer, dont le travail de
+Raëlisme s'ajuste mal à la classe qu'il nomme. Palmer, dont le travail de
 terrain a couvert tout le spectre des soucoupes, énumère les divergences : les
 autres religions ovni (Aetherius, Unarius, Ashtar Command, Heaven's Gate) sont
 les petits-enfants de la Théosophie, trafiquant de maîtres ascensionnés, de
 vibrations et de réincarnation ; « les concepts orientaux et les symboles
 ésotériques — chakras, réincarnation, karma, illumination, rayons violets… ne
-figurent pas dans les livres de Raël ». Le Raélisme n'a ni extraterrestres
+figurent pas dans les livres de Raël ». Le Raëlisme n'a ni extraterrestres
 malveillants ni dualisme cosmique — « le pire ennemi de l'humanité, c'est
 elle-même ». Ses recrues, comme on l'a vu, viennent des registres paroissiaux
 plutôt que du milieu cultuel. C'est, selon la formule attribuée à James R.
@@ -556,7 +556,7 @@ chose de plus.
 LWTE 3:25), l'érudition la ratifie, et la comparaison la plus proche est celle
 vers laquelle tend la propre littérature du mouvement : le bouddhisme
 theravāda, une sotériologie sans dieu créateur. La limite de l'étiquette est
-qu'elle nomme une absence. « Religion athée » vous dit ce que le Raélisme a
+qu'elle nomme une absence. « Religion athée » vous dit ce que le Raëlisme a
 retiré ; elle ne peut vous dire de quoi la religion est *faite* — et ce dont
 elle est faite, c'est de la Genèse, de l'Exode, d'Ézéchiel, des Évangiles et de
 l'Apocalypse.
@@ -570,18 +570,18 @@ internet, fut pendant des années « le dessein intelligent pour les athées ».
 faiblesse est que la posture est aspiration, et l'aspiration a une échéance. Le
 modèle de succès des mouvements de Rodney Stark tient que les religions durables
 maintiennent leurs affirmations centrales prudemment non empiriques ; Palmer,
-faisant passer le Raélisme par les critères de Stark, signale l'exception avec
-une évidente délectation : « La doctrine raélienne est intransigeamment
+faisant passer le Raëlisme par les critères de Stark, signale l'exception avec
+une évidente délectation : « La doctrine raëlienne est intransigeamment
 empirique : les extraterrestres doivent descendre dans des corps matériels et
 des machines de métal en 2035 au plus tard. » Une religion qui peut être
 falsifiée par une date est soit la première d'un genre nouveau, soit un
 mouvement qui a programmé sa propre crise ; l'ajout laconique de Palmer — les
-raéliens « ne peuvent "spiritualiser", puisqu'ils ne croient pas en un domaine
+raëliens « ne peuvent "spiritualiser", puisqu'ils ne croient pas en un domaine
 spirituel… Ils doivent donc reporter » — consigne que la trappe d'évasion
 classique est, de façon unique ici, soudée de l'intérieur.
 
 **Religion postmoderne.** L'argument de Sentes et Palmer dans *Nova Religio* :
-le Raélisme « remplace le surnaturel par l'extraterrestre et le technologique
+le Raëlisme « remplace le surnaturel par l'extraterrestre et le technologique
 afin de démystifier et de démythologiser principalement les religions
 abrahamiques », produisant une religiosité « parfaitement en harmonie avec
 l'idéologie de la technoscience qui gouverne les sociétés avancées du monde ».
@@ -611,16 +611,16 @@ comme un faussaire :
 (Sourate 21:5, citée en ETTMTTP 2:106–109). Le mormonisme — la précédente
 nouvelle branche de la famille abrahamique — est revendiqué comme un frère dans
 les livres de 1973 comme de 1979. La phrase de synthèse de Palmer porte le poids
-taxonomique : « Les croyances raéliennes renvoient directement à la Bible et
+taxonomique : « Les croyances raëliennes renvoient directement à la Bible et
 conservent la forme extérieure de la tradition judéo-chrétienne… une grande
-part de l'histoire du succès raélien est liée à sa continuité culturelle tant
+part de l'histoire du succès raëlien est liée à sa continuité culturelle tant
 avec la vision chrétienne qu'avec la vision scientifique concurrente du monde. »
 Et son exclamation, qui clôt son examen de l'effet de la première rencontre sur
 ses premiers croyants, est l'étiquette que cet article tient pour la plus
 littéralement exacte de l'étagère : « Ce sont désormais de vrais croyants d'une
 nouvelle religion abrahamique, apocalyptique et fondamentaliste ! »
 
-Assemblées, les étiquettes cessent de rivaliser. Par l'*imagerie*, le Raélisme
+Assemblées, les étiquettes cessent de rivaliser. Par l'*imagerie*, le Raëlisme
 est une religion ovni ; par la *métaphysique*, un athéisme ; par la *posture
 épistémique*, un scientisme ; par l'*ajustement social*, un postmodernisme ;
 par le *contenu, la forme, la lignée et l'eschatologie*, il est abrahamique —
@@ -639,10 +639,10 @@ promis de la famille.
 
 Il existe une seconde manière de classer une religion : la placer à côté de ses
 contemporaines et voir quelle forme elles partagent. Les contemporaines du
-Raélisme sont les jeunes religions universalistes de l'ère industrielle, et
+Raëlisme sont les jeunes religions universalistes de l'ère industrielle, et
 trois d'entre elles rendent la comparaison précise — assez précise pour que ce
 projet entretienne des traductions de leurs textes fondateurs aux côtés du canon
-raélien. Le propre {% wiki(slug="list-of-prophets-and-religions") %}catalogue de
+raëlien. Le propre {% wiki(slug="list-of-prophets-and-religions") %}catalogue de
 prophètes et de religions{% end %} du corpus enregistre déjà les trois à son
 deuxième plus haut degré d'authenticité ; ce qui suit les lit côte à côte, dans
 leurs propres mots, comme les plus proches parents du canon.
@@ -727,7 +727,7 @@ cardinaux, un Saint-Siège à Tây Ninh —, canonisa Victor Hugo parmi ses sain
 compta des millions d'adhérents en une génération, et fut interdite purement et
 simplement par l'État communiste unifié de 1975 à 1997.
 
-Placez le Raélisme comme quatrième colonne et la structure se répète avec la
+Placez le Raëlisme comme quatrième colonne et la structure se répète avec la
 régularité d'un cristal. Un messager solitaire, illettré ou sans pedigree, reçoit
 une dictée directe d'une intelligence supérieure — Bahá'u'lláh dans le cachot de
 Síyáh-Chál, Nao possédée à sa cuisine, le cercle de Saïgon au panier, Vorilhon
@@ -753,9 +753,9 @@ mêmes » — a la tâche facile ici, car les quatre métaphysiques pourraient
 difficilement être moins semblables. Le Dieu de Bahá'u'lláh est l'Un inconnaissable
 du haut monothéisme. L'Ushitora no Konjin de Nao est un kami lésé et revenant. Cao
 Đài est l'Empereur de Jade parlant vietnamien par un panier à bec. Et le canon
-raélien supprime entièrement la catégorie de dieu, remplaçant le locuteur divin par
+raëlien supprime entièrement la catégorie de dieu, remplaçant le locuteur divin par
 un comité d'ingénieurs. Ce que les quatre partagent, c'est la forme ; ce qui les
-distingue, c'est l'ameublement du monde invisible — et le Raélisme est le cas
+distingue, c'est l'ameublement du monde invisible — et le Raëlisme est le cas
 limite de la série, le membre où le nombre de meubles du monde invisible tombe à
 zéro. Chaque universalisme parle l'idiome technique de son moment : la mystique
 persane à l'âge des empires, la possession par les kami dans le Japon Meiji, les
@@ -780,9 +780,9 @@ prédisent le même ordre de rayonnage.
 
 ## Les guerres anti-sectes
 
-Aucune catégorisation du Raélisme n'est honnête sans le dossier qui a façonné son
+Aucune catégorisation du Raëlisme n'est honnête sans le dossier qui a façonné son
 image publique, car pour la plupart des lecteurs — les lecteurs francophones
-surtout — le mot *raélien* arrive préchargé : un gourou, du sexe, de l'argent. Le
+surtout — le mot *raëlien* arrive préchargé : un gourou, du sexe, de l'argent. Le
 dossier est plus spécifique et moins sensationnel, et il tranche dans les deux sens.
 
 L'argent d'abord, puisque c'est le plus facile à vérifier. Palmer, qui a examiné
@@ -791,7 +791,7 @@ avec environ un million de dollars par an — droits d'auteur sur les livres, un
 cotisation d'adhésion modeste, et un barème de dîme (3 pour cent au national, 7
 pour cent à l'international, 1 pour cent à Raël personnellement) que la plupart des
 membres ignoraient tout simplement : « Raël a affirmé dans un entretien que plus de
-60 pour cent des raéliens ne versent pas la dîme », et seule la petite cotisation
+60 pour cent des raëliens ne versent pas la dîme », et seule la petite cotisation
 annuelle était obligatoire. Lorsqu'un journaliste québécois allégua que Raël
 empochait le million, la conclusion du tribunal — dans un procès en diffamation que
 le mouvement *perdit* pour d'autres motifs — fut que le chiffre du revenu était
@@ -829,13 +829,13 @@ la catégorisation devrait connaître. Sa couverture porte un cercle rouge : la
 Raël assemble le dossier de l'État — la proposition d'un député socialiste d'extraire
 légalement des adultes de religions minoritaires, les subventions du ministère de
 l'Éducation à la fédération anti-sectes UNADFI sous la signature d'un ministre, le
-meurtre du guide raélien Jean Miguères par un proche imprégné de rhétorique
+meurtre du guide raëlien Jean Miguères par un proche imprégné de rhétorique
 anti-sectes — et l'inscrit dans une plus longue série française : les Cathares, la
 Saint-Barthélemy, 1394, le Vél d'Hiv. La phrase-thèse du pamphlet est une définition
 que cet article, qui porte sur les définitions, se doit de consigner : « La «secte»,
 c'est la religion des autres » — *une « secte », c'est la religion des autres.* Trois
 ans plus tard, la liste Guyard lui donna raison,{{ footnote(id="3") }} et en 1998 des
-raéliens défilèrent dans Paris en portant des étoiles jaunes. On peut trouver la
+raëliens défilèrent dans Paris en portant des étoiles jaunes. On peut trouver la
 rhétorique de l'Holocauste du pamphlet disproportionnée — ce corpus la trouve telle —
 et néanmoins relever le fait frappant à propos de sa méthode : Raël se défend en
 citant la sociologie universitaire des religions, Eileen Barker et Danielle
@@ -859,7 +859,7 @@ faux, cela nous a permis de communiquer notre message à la planète entière. �
 d'Introvigne devint l'épitaphe savante standard : « Il n'y a qu'une seule chose pire
 qu'avoir mauvaise presse, c'est qu'aucune presse ne s'intéresse à vous. » Celle de
 Palmer est plus étrange et plus profonde — Ève comme « une prophétie reformulée en
-langage scientifique… une reconstitution du mythe raélien de la création », une
+langage scientifique… une reconstitution du mythe raëlien de la création », une
 religion démontrant, dans une salle de bal d'hôtel, que son acte divin (la création par
 clonage) est désormais une compétence humaine. Son aphorisme, tiré des premières pages
 du livre, est celui qu'il faut retenir : « Si c'est un canular, c'est bien plus qu'un
@@ -871,12 +871,12 @@ semaine, sous la publicité autant que sous la piété.
 ## Le canon le plus jeune et la méthode la plus ancienne
 
 Chryssides clôt son étude par l'observation sur laquelle ce projet est, en un sens,
-bâti : le Raélisme « n'offre pas seulement une religion, mais une théorie sur
+bâti : le Raëlisme « n'offre pas seulement une religion, mais une théorie sur
 l'origine de toutes les religions ». C'est là la véritable audace du mouvement, et
 c'est aussi la raison pour laquelle une lecture critique, comparative et fondée sur
 les sources de son canon n'est pas une erreur de catégorie mais la seule réponse
 adéquate. Une théorie sur toutes les religions appelle à être mise à l'épreuve de
-toutes les religions. Le corpus de Wheel of Heaven fait aux livres raéliens
+toutes les religions. Le corpus de Wheel of Heaven fait aux livres raëliens
 exactement ce que des générations de chercheurs ont fait aux traditions que ces
 livres prétendent expliquer :
 {% wiki(slug="reference-corpus-of-the-raelian-canon") %}des textes de référence
@@ -890,7 +890,7 @@ histoire de soucoupe. Lu de près — face au pluriel hébreu dont il porte le n
 à l'Atrahasis et au Popol Vuh, face à Bahá'u'lláh, à Nao et aux séances de Tây Ninh —
 il ne cesse de s'ouvrir sur de la structure.
 
-La classification, donc, dans l'ordre où les preuves l'ont assemblée. Le Raélisme est
+La classification, donc, dans l'ordre où les preuves l'ont assemblée. Le Raëlisme est
 un nouveau mouvement religieux de l'ère ovni par le costume ; une religion athée par
 sa propre description précise de lui-même ; une religion scientifique par pari, avec
 une date de falsification qu'il a déjà déplacée deux fois et qu'il ne peut
@@ -924,7 +924,7 @@ scientifique.
 
 ## Pour aller plus loin
 
-- Les entrées {% wiki(slug="raelism") %}Raélisme{% end %} et
+- Les entrées {% wiki(slug="raelism") %}Raëlisme{% end %} et
   {% wiki(slug="rael") %}Raël{% end %}, pour l'histoire institutionnelle du mouvement
   et la biographie du fondateur sous forme de référence.
 - La {% wiki(slug="list-of-prophets-and-religions") %}liste des prophètes et des

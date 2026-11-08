@@ -1,6 +1,6 @@
 +++
 title = "La signature et les concepteurs"
-description = "Pour Stephen Meyer, l'esprit derrière la vie doit être transcendant. Lu à travers le canon raélien, le concepteur a un corps — et un créateur."
+description = "Pour Stephen Meyer, l'esprit derrière la vie doit être transcendant. Lu à travers le canon raëlien, le concepteur a un corps — et un créateur."
 template = "articles-page.html"
 date = 2026-09-01
 draft = false
@@ -14,8 +14,8 @@ article_type = "explainer"
 category = "Science & Technology"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "À la première, en 2008, d'un documentaire sur la persécution des théoriciens du dessein, Richard Dawkins déclara devant la caméra que la vie sur Terre pouvait avoir été fabriquée par une civilisation avancée ailleurs dans le cosmos — que l'on pourrait, en cherchant bien, trouver dans la cellule « la signature d'une sorte de concepteur » — puis se reprit aussitôt, parce que ce concepteur aurait lui-même dû évoluer. Dans la salle se trouvait Stephen Meyer, qui achevait alors un livre intitulé *Signature in the Cell*. Cet Explicatif part de cette scène pour démonter le geste le plus intéressant de tout le débat sur le Dessein Intelligent. Il cartographie l'ensemble du spectre de la pensée moderne du dessein et de la création — le « créationnisme scientifique » Jeune-Terre et ses documentaires, le créationnisme progressif Vieille-Terre, le Dessein Intelligent informationnel de Behe, Dembski et Meyer, le scepticisme de paillasse du chimiste de synthèse James Tour sur l'origine de la vie, l'évolution théiste de Miller et Collins, et l'anti-dessein pur et simple de Dawkins — et constate, avec le sociologue George Chryssides, que le récit raélien des origines humaines est lui-même une espèce de « créationnisme scientifique », partageant l'intuition du dessein tout en divergeant sur presque tout le reste. Il examine ensuite longuement le passage de *Return of the God Hypothesis* où Meyer considère puis écarte l'hypothèse de l'ingénierie extraterrestre — l'option « panspermie » ou « intelligence immanente » — et soutient que ce rejet, loin d'être superficiel, est un argument réel et soigneux qui échoue pourtant contre cette cible précise, parce qu'il promeut silencieusement une hypothèse sur la biologie terrestre au rang de théorie du cosmos, et parce que sa prémisse porteuse — un univers ayant un commencement, dont le réglage fin a dû être fixé à ce commencement — est exactement celle que le canon nie. L'hypothèse Élohim se révèle être la position que l'archi-athée comme l'archi-théiste ont besoin de faire disparaître, parce qu'elle dissout le binaire Dieu-contre-matérialisme sur lequel repose toute leur querelle. La signature est réelle. Le litige porte sur la main qui l'a laissée."
-keywords = ["Dessein Intelligent", "créationnisme scientifique", "Stephen Meyer", "David Berlinski", "James Tour", "Michael Behe", "William Dembski", "panspermie dirigée", "Return of the God Hypothesis", "Is Genesis History", "complexité irréductible", "complexité spécifiée", "origine de la vie", "Élohim", "Raélisme", "George Chryssides", "réglage fin"]
+summary = "À la première, en 2008, d'un documentaire sur la persécution des théoriciens du dessein, Richard Dawkins déclara devant la caméra que la vie sur Terre pouvait avoir été fabriquée par une civilisation avancée ailleurs dans le cosmos — que l'on pourrait, en cherchant bien, trouver dans la cellule « la signature d'une sorte de concepteur » — puis se reprit aussitôt, parce que ce concepteur aurait lui-même dû évoluer. Dans la salle se trouvait Stephen Meyer, qui achevait alors un livre intitulé *Signature in the Cell*. Cet Explicatif part de cette scène pour démonter le geste le plus intéressant de tout le débat sur le Dessein Intelligent. Il cartographie l'ensemble du spectre de la pensée moderne du dessein et de la création — le « créationnisme scientifique » Jeune-Terre et ses documentaires, le créationnisme progressif Vieille-Terre, le Dessein Intelligent informationnel de Behe, Dembski et Meyer, le scepticisme de paillasse du chimiste de synthèse James Tour sur l'origine de la vie, l'évolution théiste de Miller et Collins, et l'anti-dessein pur et simple de Dawkins — et constate, avec le sociologue George Chryssides, que le récit raëlien des origines humaines est lui-même une espèce de « créationnisme scientifique », partageant l'intuition du dessein tout en divergeant sur presque tout le reste. Il examine ensuite longuement le passage de *Return of the God Hypothesis* où Meyer considère puis écarte l'hypothèse de l'ingénierie extraterrestre — l'option « panspermie » ou « intelligence immanente » — et soutient que ce rejet, loin d'être superficiel, est un argument réel et soigneux qui échoue pourtant contre cette cible précise, parce qu'il promeut silencieusement une hypothèse sur la biologie terrestre au rang de théorie du cosmos, et parce que sa prémisse porteuse — un univers ayant un commencement, dont le réglage fin a dû être fixé à ce commencement — est exactement celle que le canon nie. L'hypothèse Élohim se révèle être la position que l'archi-athée comme l'archi-théiste ont besoin de faire disparaître, parce qu'elle dissout le binaire Dieu-contre-matérialisme sur lequel repose toute leur querelle. La signature est réelle. Le litige porte sur la main qui l'a laissée."
+keywords = ["Dessein Intelligent", "créationnisme scientifique", "Stephen Meyer", "David Berlinski", "James Tour", "Michael Behe", "William Dembski", "panspermie dirigée", "Return of the God Hypothesis", "Is Genesis History", "complexité irréductible", "complexité spécifiée", "origine de la vie", "Élohim", "Raëlisme", "George Chryssides", "réglage fin"]
 references = [
     # — The canon under comparison —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶14: the single original continent raised from the seabed, and 'all the continents which drifted apart fit together perfectly to form a single one'; ¶24: 'I am one of those who created life on Earth'; ¶25: the artificial creation of man, the 'test-tube children,' the seven teams and their constraint by the home planet; ¶¶26–27: Genesis 1:26 'in our image' and 'the resemblance is striking'; ¶¶28–30: the Israel team and the scientific-books prohibition); Chapter 2, 'The Flood' (¶58: the home planet's decision 'to destroy all life on Earth by sending nuclear missiles'; ¶64: the radioactivity monitored and removed before the survivors disembark)" },
@@ -69,7 +69,7 @@ references = [
 # bibliographic references above.
 footnotes = [
     { content = "*Expelled: No Intelligence Allowed* (2008), documentaire présenté par l'acteur, avocat et économiste Ben Stein, qui soutient que les scientifiques favorables au Dessein Intelligent sont sanctionnés professionnellement. Ses affirmations scientifiques et sa rhétorique ont été largement critiquées, et son usage des séquences d'entretien — dont celles de Richard Dawkins — a été contesté. L'échange avec Dawkins cité ici est conservé dans le film et rapporté par Stephen Meyer, lui-même interviewé pour le documentaire, dans *Return of the God Hypothesis*, chap. 13." },
-    { content = "George D. Chryssides, « Scientific Creationism: A Study of the Raëlian Church », dans *UFO Religions*, éd. Christopher Partridge (Londres : Routledge, 2003), 45–61. La formule est le titre même du chapitre de Chryssides, et non une glose de passage ; la recherche sur le mouvement (par exemple la notice de l'encyclopédie CDAMM consacrée au Mouvement raélien international) la cite comme la caractérisation standard du récit raélien des origines humaines." },
+    { content = "George D. Chryssides, « Scientific Creationism: A Study of the Raëlian Church », dans *UFO Religions*, éd. Christopher Partridge (Londres : Routledge, 2003), 45–61. La formule est le titre même du chapitre de Chryssides, et non une glose de passage ; la recherche sur le mouvement (par exemple la notice de l'encyclopédie CDAMM consacrée au Mouvement raëlien international) la cite comme la caractérisation standard du récit raëlien des origines humaines." },
     { content = "Le Discovery Institute (Seattle, fondé en 1991) et son Center for Science and Culture (1996) constituent le noyau institutionnel du Dessein Intelligent comme mouvement. Le « Wedge Document », note de stratégie interne divulguée en 1999, énonçait les buts directeurs du mouvement en ces termes exacts : « vaincre le matérialisme scientifique et ses héritages moraux, culturels et politiques destructeurs » et « remplacer les explications matérialistes par la compréhension théiste selon laquelle la nature et les êtres humains sont créés par Dieu ». Le projet Wheel of Heaven consigne cette histoire en toute transparence ; il n'en fait pas partie." },
     { content = "Le système *irréductiblement complexe* de Behe est « composé de plusieurs parties bien ajustées, en interaction, qui contribuent à la fonction de base, et dont le retrait de l'une quelconque fait effectivement cesser le fonctionnement du système », son exemple canonique étant le moteur rotatif du flagelle bactérien. La réfutation dominante principale, portée par le biologiste cellulaire Kenneth Miller au procès Kitzmiller, est l'exaptation : la base du flagelle partage une dizaine de protéines homologues avec le *système de sécrétion de type III*, une seringue moléculaire fonctionnelle ; un sous-ensemble de la machine « irréductible » a donc un métier autonome — un marchepied évolutif plausible." },
     { content = "La *complexité spécifiée* de Dembski : un motif à la fois très improbable sous l'hypothèse du hasard (complexe) et conforme à une description donnée indépendamment (spécifié). La deuxième édition de *The Design Inference* (2023) formalise le principe sous-jacent en « loi de la petite probabilité » — « les événements spécifiés de faible probabilité ne se produisent pas par hasard » — et traite la conjonction spécification-plus-improbabilité comme le marqueur qui autorise une inférence au dessein. Le dispositif a été contesté quant à la manière dont les probabilités sont calculées et dont les spécifications sont identifiées sans circularité." },
@@ -77,7 +77,7 @@ footnotes = [
     { content = "Francis Crick et Leslie Orgel, « Directed Panspermia », *Icarus* 19 (1973) : 341–346, proposaient que la vie sur Terre ait pu être délibérément ensemencée par une civilisation extraterrestre avancée. Parmi leurs indices suggestifs : l'universalité du code génétique (compatible avec un événement fondateur unique) et la forte dépendance du vivant au molybdène malgré sa rareté cosmique. Crick a développé l'argument dans *Life Itself* (1981), dont le dernier chapitre, « Should We Infect the Galaxy? », demande si l'humanité devrait un jour procéder elle-même à l'ensemencement. Idan Ginsburg et Manasvi Lingam (RNAAS, 2021) retracent l'histoire plus longue de l'idée." },
     { content = "La distinction que trace Meyer dans *Return of the God Hypothesis*, chap. 13, oppose une intelligence *immanente* — « à l'intérieur du cosmos », un « extraterrestre » — à une intelligence *transcendante* existant « indépendamment de l'univers matériel ». Sa conclusion est que seul un esprit transcendant possède « les compétences requises » pour rendre compte de l'origine et du réglage fin de l'univers, puisque l'un et l'autre ont été fixés au commencement de l'univers, avant qu'aucune intelligence immanente ait pu exister. L'argument est valide ; la question que presse cet article est celle de ce qu'il écarte réellement." },
     { content = "En 2010, le J. Craig Venter Institute a fait démarrer une cellule bactérienne fonctionnant sur un génome chimiquement synthétisé (Mycoplasma mycoides JCVI-syn1.0) ; en 2016, l'institut publiait JCVI-syn3.0, un génome minimal conçu de 473 gènes — le plus petit génome de tout organisme libre connu, et pour partie *fabriqué par ingénierie*. C'est ce que le présent offre de plus proche de l'opération que le canon situe 25 000 ans en arrière : un génome écrit sur cahier des charges et installé dans une cellule fonctionnelle." },
-    { content = "Dans les *Dialogues Concerning Natural Religion* (1779) de Hume, le personnage de Philon concède, pour les besoins de la discussion, que le monde manifeste un dessein, puis observe que l'inférence est bien plus faible que les théologiens ne le voudraient : le concepteur « pourrait être » fini, ou un apprenti, ou l'un des nombreux membres d'un comité, ou mort depuis longtemps, ou en rien semblable au Dieu du culte. L'inférence au dessein, menée honnêtement, sous-détermine le concepteur. Le Dessein Intelligent comme mouvement a passé trente ans à tenter de combler cet écart vers le haut, vers Dieu ; le canon raélien le comble latéralement, vers des ingénieurs finis et pluriels — ce qui est l'une des lectures que le texte même de Hume laisse ouvertes." }
+    { content = "Dans les *Dialogues Concerning Natural Religion* (1779) de Hume, le personnage de Philon concède, pour les besoins de la discussion, que le monde manifeste un dessein, puis observe que l'inférence est bien plus faible que les théologiens ne le voudraient : le concepteur « pourrait être » fini, ou un apprenti, ou l'un des nombreux membres d'un comité, ou mort depuis longtemps, ou en rien semblable au Dieu du culte. L'inférence au dessein, menée honnêtement, sous-détermine le concepteur. Le Dessein Intelligent comme mouvement a passé trente ans à tenter de combler cet écart vers le haut, vers Dieu ; le canon raëlien le comble latéralement, vers des ingénieurs finis et pluriels — ce qui est l'une des lectures que le texte même de Hume laisse ouvertes." }
 ]
 +++
 
@@ -126,7 +126,7 @@ du *dessein*. Meyer atteignit l'idée que la vie avait été conçue et recula p
 que le concepteur n'était qu'une *civilisation*. Entre ces deux reculs se tient
 une position sur laquelle ni l'un ni l'autre ne veut se poser, et c'est la
 position dont traite cet article — celle que le canon
-{% wiki(slug="rael") %}raélien{% end %} occupe, sans s'en excuser, depuis 1974 :
+{% wiki(slug="rael") %}raëlien{% end %} occupe, sans s'en excuser, depuis 1974 :
 la vie sur Terre a été fabriquée par un peuple avancé mais entièrement physique,
 les {% wiki(slug="elohim") %}Élohim{% end %}, eux-mêmes fabriqués par un peuple
 antérieur, dans une chaîne sans premier maillon et sans Dieu au sommet. La
@@ -201,10 +201,10 @@ position en neuf mots.
 Maintenant : où la lecture Wheel of Heaven se situe-t-elle sur ce spectre ? La
 réponse intuitive — quelque part du côté du Dessein Intelligent — est fausse
 d'une manière instructive, et le chercheur qui l'a vu le plus clairement n'était
-nullement raélien. En 2003, le sociologue des religions George Chryssides publia
+nullement raëlien. En 2003, le sociologue des religions George Chryssides publia
 une étude du mouvement et lui donna un titre qui est aussi un argument :
 **« Scientific Creationism: A Study of the Raëlian Church ».**{{ footnote(id="2") }}
-Le point de Chryssides était que le récit raélien des origines humaines
+Le point de Chryssides était que le récit raëlien des origines humaines
 appartient, par sa logique propre, au genre créationniste et non au genre
 évolutionniste : il tient que l'humanité a été *faite*, délibérément, par des
 agents intelligents, et que le texte de la Genèse en est un compte rendu
@@ -213,7 +213,7 @@ sens que le mouvement Jeune-Terre ne pourrait jamais accepter — car ses
 créateurs ne sont pas Dieu, sa Terre n'est pas jeune, son Déluge fut une frappe
 nucléaire venue d'une autre planète et non une année de pluie, et ses
 concepteurs ont employé une technologie en continuité avec la nôtre. Deux
-espèces, un seul genre. Le créationniste Jeune-Terre et le raélien refusent
+espèces, un seul genre. Le créationniste Jeune-Terre et le raëlien refusent
 tous deux de lire la Genèse comme un pur mythe. Ils sont en désaccord sur
 presque tout le reste.
 
@@ -329,7 +329,7 @@ n'est pas la géologie du Déluge du créationniste Jeune-Terre, et ce n'est pas
 même le flagelle contesté de Behe. C'est la conjonction de deux choses qu'un
 esprit équitable peut concéder : les systèmes vivants fonctionnent à
 l'information spécifiée, et personne n'a jamais montré d'information spécifiée
-surgissant d'une chimie non dirigée. Sur cette conjonction, le canon raélien et
+surgissant d'une chimie non dirigée. Sur cette conjonction, le canon raëlien et
 Stephen Meyer sont pleinement d'accord. Leurs routes n'ont pas encore bifurqué.
 Elles bifurquent à la question suivante, la seule qui compte en fin de compte :
 *un concepteur étant accordé, qu'était-il ?*
@@ -379,7 +379,7 @@ espèces se rapprochent le plus, et il demande de l'exactitude, car il est
 facile d'y exagérer la distance. Le Déluge du canon ne fut pas une année de
 pluie. Ce fut une frappe nucléaire, ordonnée depuis la planète natale des
 Elohim pour mettre fin à tout ce que les créateurs avaient fait sur Terre, et
-le troisième livre du canon, dans un essai signé du guide raélien et ingénieur
+le troisième livre du canon, dans un essai signé du guide raëlien et ingénieur
 chimiste Marcel Terrusse, est explicite : elle a réécrit les roches. L'unique
 {% wiki(slug="pangaea") %}continent{% end %} que les créateurs avaient fait
 surgir du fond des mers fut brisé par les explosions, ses fragments partirent
@@ -400,7 +400,7 @@ transmis, et la tâche d'un lecteur sérieux est de retrouver les événements �
 partir du souvenir.
 
 Il vaut de le dire clairement, car cela immunise contre une erreur réelle. Dire,
-avec Chryssides, que le raélisme est un « créationnisme scientifique » n'est
+avec Chryssides, que le raëlisme est un « créationnisme scientifique » n'est
 *pas* dire qu'il s'agit de *The Genesis Flood* avec un vaisseau spatial dedans,
 si proches que soient les deux devant les gisements fossiles. C'est le situer
 dans le genre des lectures qui prennent la Genèse pour de l'histoire — puis
@@ -461,7 +461,7 @@ Intelligent — les précurseurs du flagelle, les calculs de probabilité contes
 besoin que le flagelle de Behe soit irréductible, et il ne doit pas feindre que
 les réfutations n'existent pas. Deuxièmement, que l'enchevêtrement
 politico-religieux du mouvement est un fait concernant le *mouvement*, dont le
-canon est entièrement exempt : la lecture raélienne ne fait pas de lobbying
+canon est entièrement exempt : la lecture raëlienne ne fait pas de lobbying
 auprès d'un conseil scolaire, ne cherche pas à établir une religion dans une
 classe de sciences, et n'identifie pas son concepteur au Dieu d'une quelconque
 majorité nationale. Troisièmement — et c'est le point de fond que l'histoire de
@@ -548,7 +548,7 @@ adversaire n'a jamais formulée.
 La substitution est facile à manquer. L'hypothèse jugée était : *la complexité
 biologique de la vie sur Terre s'explique mieux par une civilisation
 intelligente antérieure.* C'est l'hypothèse de Crick et Orgel ; c'est la
-concession de Dawkins dans *Expelled* ; c'est le canon raélien. C'est une thèse
+concession de Dawkins dans *Expelled* ; c'est le canon raëlien. C'est une thèse
 sur la *biologie terrestre*. Meyer la concède — il concède qu'une intelligence
 immanente pourrait expliquer l'origine de la vie sur Terre. Puis il la condamne
 pour n'avoir pas expliqué deux choses qu'elle n'a jamais abordées : l'origine de
@@ -572,7 +572,7 @@ extérieur à l'univers matériel peut régler les constantes. C'est vrai *si le
 constantes ont été réglées* — s'il y a eu un premier instant où le cadran a été
 tourné. Ôtez le commencement, et l'argument n'a plus prise sur rien.
 
-Et c'est ici que le canon raélien a déjà, dans un article compagnon du présent,
+Et c'est ici que le canon raëlien a déjà, dans un article compagnon du présent,
 ôté le commencement.
 
 ## L'univers sans commencement
@@ -692,7 +692,7 @@ l'entendait comme une démolition — la preuve que l'argument du dessein, mené
 honnêtement, ne peut atteindre la divinité qu'on l'avait bâti pour atteindre. Le
 Dessein Intelligent comme mouvement a passé trente ans à tenter de répondre à
 Hume en comblant l'écart vers le haut, en soutenant que le concepteur est bel et
-bien singulier et transcendant. Le canon raélien fait ce que Hume n'avait pas
+bien singulier et transcendant. Le canon raëlien fait ce que Hume n'avait pas
 prévu : il accepte sa démolition comme un *résultat*, et bâtit dessus. Oui — le
 concepteur inféré est fini, pluriel, et dissemblable du Dieu du culte. C'est une
 civilisation. Le raisonnement par l'absurde de Hume est le plan de construction
@@ -865,7 +865,7 @@ Meyer a bâti une carrière sur son accord avec la première moitié de cette
 phrase. Les créationnistes Jeune-Terre en conviennent, et les créationnistes
 Vieille-Terre, et Behe et Dembski et Tour à sa manière prudemment mise entre
 parenthèses, et — lisant la Genèse comme un rapport plutôt que comme une fable —
-le canon raélien aussi. La signature est le terrain commun de toute la famille
+le canon raëlien aussi. La signature est le terrain commun de toute la famille
 des dissidences, du géologue du Déluge au contacté. Ce qui divise la famille,
 c'est la seconde moitié — la signature de *qui* — et là, les options sont moins
 nombreuses que le bruit ne le laisse croire. Ou bien la main dans la cellule

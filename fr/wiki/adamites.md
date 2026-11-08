@@ -272,7 +272,7 @@ The Adamites entry surfaces several open questions for the framework's broader i
 
 ## References
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of the Adamites as the engineered human population of the Elohim project.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les Extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of the Adamites as the engineered human population of the Elohim project.]
 
 Biglino, Mauro. *La Bibbia non è un libro sacro: Il falso letterario che ha fondato due religioni*. Mondadori, 2012. [The contemporary philological reading of the Hebrew Bible that informs the framework's broader interpretive work, with substantial treatment of the Adamite material.]
 

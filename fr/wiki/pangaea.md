@@ -196,7 +196,7 @@ Pangaea's role as the antediluvian supercontinent connects to several specific a
 
 ## References
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's account of the construction of Pangaea and the deluge event.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les Extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's account of the construction of Pangaea and the deluge event.]
 
 Wegener, Alfred. *Die Entstehung der Kontinente und Ozeane*. Friedrich Vieweg & Sohn, 1915. English: *The Origin of Continents and Oceans*. Translated by John Biram. Dover, 1966. [The foundational work of the continental-drift hypothesis and the source of the name *Pangaea*.]
 

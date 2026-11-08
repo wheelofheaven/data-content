@@ -52,7 +52,7 @@ Vous découvrez le site ? [Commencer ici : dix minutes](/fr/start/) lit de près
 un verset de la Genèse, avec à côté l'objection la plus forte à cette lecture.
 
 Pour la méthode développée en entier, [Sendy et les Messages
-raéliens](/fr/articles/sendy-and-the-raelian-messages/) compare passage par passage
+raëliens](/fr/articles/sendy-and-the-raelian-messages/) compare passage par passage
 le premier livre raëlien avec l'œuvre antérieure de Jean Sendy et pèse
 l'hypothèse d'un emprunt. L'[Index des conseils divins](/datasets/divine-council-index/)
 recense les conseils divins de douze traditions avec la localisation des sources,

@@ -23,7 +23,7 @@ footnotes = [
 
 references = [
     { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "Les Extra-terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Intelligent Design: Message from the Designers", author = "Claude Vorilhon (Rael)", date = "2005", medium = "religious-text", description = "L'édition consolidée en anglais des textes fondateurs raëliens ; l'introduction de 2005 présente explicitement les travaux alors récents de Venter sur la cellule synthétique comme une démonstration de la thèse raëlienne." },
     { title = "Genèse", author = "Anonyme (Bible hébraïque) ; traduction WoH à partir de l'hébreu massorétique ponctué", date = "vers le VIe–Ve s. av. J.-C.", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "L'Origine de la vie", author = "Alexandre I. Oparine", date = "1924 (russe) ; traduction anglaise de 1938", medium = "nonfiction-book", description = "L'hypothèse fondatrice de la «  soupe primordiale » pour l'abiogenèse." },

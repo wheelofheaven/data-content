@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Jean Sendy (1910–1978) — Parisien né en Russie, correspondant de guerre, traducteur de Raymond Chandler, ébéniste amateur, dandy monoclé de l'avant-garde des années 1930 — publia en 1963 le premier énoncé achevé de la lecture au cœur de laquelle ce projet vit : la Bible hébraïque, prise au pied de la lettre, relate le séjour sur Terre d'Élohim pluriels, physiques et mortels. Il fit alors ce que personne d'autre dans la lignée n'a fait ni avant ni depuis : il misa la lecture entière sur une prédiction falsifiable, imprimée, assortie d'une échéance — des traces des installations des Élohim seraient retrouvées sur la Lune dans l'année suivant le premier alunissage, et si elles ne l'étaient pas, « mon hypothèse sera à tenir pour fausse ». Cet Explicatif lit tout son corpus de près dans le français — les Cahiers de cours de Moïse de 1963, La lune, clé de la Bible, Ces dieux qui firent le ciel et la terre, Nous autres, gens du Moyen Âge, L'Ère du Verseau, et les tardifs Temps messianiques — et confronte ses notes avec le canon raélien à la profondeur que la parenté mérite. Il parcourt ses deux thèses véritablement originales : que l'exégèse médiévale se tenait plus près du sens réel du texte que la sécularité de la Renaissance et des Lumières ne l'a jamais fait, et que la Kabbale, abordée à travers le Grand Rabbin Alexandre Safran, préserve un enseignement plus ancien que Moïse dont la promesse centrale — « l'homme renouvellera les actes relatés au début de la Genèse » — est un programme désormais en cours. Il audite le pari honnêtement : Apollo n'a rien trouvé, et selon sa propre clause du charlatan l'arche lunaire se tient réfutée telle qu'elle fut formulée, un verdict qu'il affronta avec plus de grâce que ses imitateurs ne le reconnaissent. Et il traite, sans polémique, la question qui a aplati sa réputation des deux côtés — ce que la révélation raélienne de 1974 doit exactement aux livres que ce « brave jeune homme » avait certainement lus — tout en marquant les divergences structurelles qui font de Sendy un témoin parallèle plutôt qu'un brouillon : ses Élohim recolonisent une Terre ruinée plutôt que de créer la vie, son Yahvé est un Principe immatériel plutôt qu'un président, et ses célestes, selon toute vraisemblance, ne reviendront jamais."
+summary = "Jean Sendy (1910–1978) — Parisien né en Russie, correspondant de guerre, traducteur de Raymond Chandler, ébéniste amateur, dandy monoclé de l'avant-garde des années 1930 — publia en 1963 le premier énoncé achevé de la lecture au cœur de laquelle ce projet vit : la Bible hébraïque, prise au pied de la lettre, relate le séjour sur Terre d'Élohim pluriels, physiques et mortels. Il fit alors ce que personne d'autre dans la lignée n'a fait ni avant ni depuis : il misa la lecture entière sur une prédiction falsifiable, imprimée, assortie d'une échéance — des traces des installations des Élohim seraient retrouvées sur la Lune dans l'année suivant le premier alunissage, et si elles ne l'étaient pas, « mon hypothèse sera à tenir pour fausse ». Cet Explicatif lit tout son corpus de près dans le français — les Cahiers de cours de Moïse de 1963, La lune, clé de la Bible, Ces dieux qui firent le ciel et la terre, Nous autres, gens du Moyen Âge, L'Ère du Verseau, et les tardifs Temps messianiques — et confronte ses notes avec le canon raëlien à la profondeur que la parenté mérite. Il parcourt ses deux thèses véritablement originales : que l'exégèse médiévale se tenait plus près du sens réel du texte que la sécularité de la Renaissance et des Lumières ne l'a jamais fait, et que la Kabbale, abordée à travers le Grand Rabbin Alexandre Safran, préserve un enseignement plus ancien que Moïse dont la promesse centrale — « l'homme renouvellera les actes relatés au début de la Genèse » — est un programme désormais en cours. Il audite le pari honnêtement : Apollo n'a rien trouvé, et selon sa propre clause du charlatan l'arche lunaire se tient réfutée telle qu'elle fut formulée, un verdict qu'il affronta avec plus de grâce que ses imitateurs ne le reconnaissent. Et il traite, sans polémique, la question qui a aplati sa réputation des deux côtés — ce que la révélation raëlienne de 1974 doit exactement aux livres que ce « brave jeune homme » avait certainement lus — tout en marquant les divergences structurelles qui font de Sendy un témoin parallèle plutôt qu'un brouillon : ses Élohim recolonisent une Terre ruinée plutôt que de créer la vie, son Yahvé est un Principe immatériel plutôt qu'un président, et ses célestes, selon toute vraisemblance, ne reviendront jamais."
 keywords = ["Jean Sendy", "Élohim", "Célestes", "Théosites", "Galaxiens", "La lune clé de la Bible", "Moon Outpost of the Gods", "arc d'alliance", "précession des équinoxes", "Ère du Verseau", "médiévalisme", "humanisme", "Giordano Bruno", "Alexandre Safran", "Kabbale", "tikkoun olam", "Le Moulin d'Hamlet", "falsifiabilité", "paléocontact", "néo-évhémérisme", "Raël", "Stefano Bigliardi"]
 references = [
     # — The canon under comparison —
@@ -69,7 +69,7 @@ footnotes = [
     { content = "Le heleq (« part ») est une véritable unité du calendrier hébraïque : 1/1080 d'heure, soit environ 3,33 secondes, encore utilisée aujourd'hui pour calculer le molad, la conjonction lunaire moyenne. L'argument de Sendy porte sur sa subdivision plus fine (le rega et les parts plus ténues, selon les manuels religieux qu'il cite) et sur un midrash qu'il cite de Bereshith Rabba X, 9 — que les Élohim seuls « entrent dans le temps à la largeur d'un cheveu ». De là il construit une thèse numérologique selon laquelle l'unité encode une relation entre la Terre, le nombre treize et la vitesse de la lumière. C'est l'argument le plus spéculatif de son corpus et il le savait ; il est rapporté ici comme un fait relatif à Sendy, non endossé." },
     { content = "Sendy est régulièrement rangé avec Le Matin des magiciens (1960) de Louis Pauwels et Jacques Bergier et le milieu Planète du « réalisme fantastique ». Il détestait cette association : le chapitre II de Les dieux nous sont nés s'ouvre sur une citation de Pauwels-Bergier et les attaque sur des pages entières, et il définissait le réalisme fantastique comme « ce que le fournisseur de l'épicier a compris et retenu du surréalisme ». La confusion a un monument comique : Hergé, « fortement troublé » par les thèses de Sendy, glissa un composite Sendy-Bergier dans Vol 714 pour Sydney sous les traits du télépathe Mik Ezdanitoff de la revue Comète." },
     { content = "Trois des livres de Sendy parurent en anglais, tous traduits par Lowell Bair pour Berkley à New York : Those Gods Who Made Heaven and Earth (1972, d'après Ces dieux qui firent le ciel et la terre), The Coming of the Gods (1973, d'après L'Ère du Verseau — le titre anglais a induit plus d'une bibliographie à le traiter comme une œuvre distincte), et The Moon: Outpost of the Gods (1975, d'après La lune, clé de la Bible). Les Cahiers, Les dieux nous sont nés, Nous autres et Les temps messianiques ne furent jamais traduits — ce qui signifie que la thèse médiévale et l'engagement avec Safran, sans doute ses deux contributions les plus originales, restent invisibles aux lecteurs anglophones." },
-    { content = "Le dossier : le site ex-raélien raelian.org/jean-sendy (les tableaux « Kambe » que cite Bigliardi) affirme que « 80 % des livres de Vorilhon » dérivent de la série de Sendy et aligne les parallèles motif par motif ; Raël : Voleur d'âmes (2004) de Maryse Péloquin soutient que L'Ère du Verseau servit de source primaire à la révélation de 1974 ; l'essai de Roland Dussault était intitulé, sans détour, « Du Sendy tout craché ». De l'autre côté, la contre-analyse raélienne Lassolas : Surrection raëlienne (Maguin, 2013) répond aux tableaux point par point, et le scientifique raélien Damien Marsic énonce l'attitude de travail du mouvement : Sendy était largement lu par les Raéliens français dans les années 1970–80 « comme preuve venant appuyer le Message ». Les traitements académiques — Palmer 2004, Östling 2013, Bigliardi 2017 — enregistrent la ressemblance sans arbitrer l'intention." }
+    { content = "Le dossier : le site ex-raëlien raelian.org/jean-sendy (les tableaux « Kambe » que cite Bigliardi) affirme que « 80 % des livres de Vorilhon » dérivent de la série de Sendy et aligne les parallèles motif par motif ; Raël : Voleur d'âmes (2004) de Maryse Péloquin soutient que L'Ère du Verseau servit de source primaire à la révélation de 1974 ; l'essai de Roland Dussault était intitulé, sans détour, « Du Sendy tout craché ». De l'autre côté, la contre-analyse raëlienne Lassolas : Surrection raëlienne (Maguin, 2013) répond aux tableaux point par point, et le scientifique raëlien Damien Marsic énonce l'attitude de travail du mouvement : Sendy était largement lu par les Raëliens français dans les années 1970–80 « comme preuve venant appuyer le Message ». Les traitements académiques — Palmer 2004, Östling 2013, Bigliardi 2017 — enregistrent la ressemblance sans arbitrer l'intention." }
 ]
 +++
 
@@ -119,7 +119,7 @@ lecture à partir de l'hébreu interlinéaire. Et pourtant Sendy est
 aujourd'hui la figure la moins lue de la lignée qu'il a ouverte. Les
 sceptiques se souviennent de lui, quand ils s'en souviennent, comme de
 l'homme que Raël aurait plagié — une note en bas de page dans le
-scandale d'un autre. Les Raéliens ont tendance à l'expédier un peu vite
+scandale d'un autre. Les Raëliens ont tendance à l'expédier un peu vite
 depuis l'autre direction, comme un précurseur dont les livres
 « confirment le Message » et n'appellent aucune étude plus poussée. Les
 deux réflexes classent l'homme sous une controverse ; ni l'un ni l'autre
@@ -543,7 +543,7 @@ Rabbin dans le fauteuil.
 
 La ligne épistémique d'abord, comme ce projet la trace toujours : les
 affirmations du côté du canon ci-dessous sont des affirmations de cadre —
-explicites dans les textes-sources raéliens, non endossées par
+explicites dans les textes-sources raëliens, non endossées par
 l'érudition dominante — et la comparaison elle-même est la synthèse
 inférée propre à cet Explicatif. Cela posé, les deux cartes peuvent être
 juxtaposées, et le recouvrement est assez étendu pour que le lecteur en
@@ -750,15 +750,15 @@ la faction du serpent punie, l'arche comme sauvetage génétique, Sodome
 comme frappe nucléaire, Babel comme roquette, les arguments
 anti-évolution, la sociologie des scientifiques en couples, le tournant
 d'âge imminent — et ils furent catalogués motif par motif par des
-ex-Raéliens et, à l'échelle d'un livre, par Maryse Péloquin, qui nomme
-*L'Ère du Verseau* comme source primaire. Le côté raélien n'a jamais nié
-que les Raéliens français aient lu Sendy — les propres scientifiques du
+ex-Raëliens et, à l'échelle d'un livre, par Maryse Péloquin, qui nomme
+*L'Ère du Verseau* comme source primaire. Le côté raëlien n'a jamais nié
+que les Raëliens français aient lu Sendy — les propres scientifiques du
 mouvement disent que ses livres circulaient *« comme preuve venant
 appuyer le Message »* — et a répondu aux tableaux point par point en
 retour. Les observateurs académiques, de Susan Palmer à Bigliardi,
 enregistrent la ressemblance et déclinent d'arbitrer l'intention.
 
-Ce projet lit les textes raéliens comme un canon, aussi sa position
+Ce projet lit les textes raëliens comme un canon, aussi sa position
 devrait-elle être énoncée avec une transparence complète, et elle le peut,
 parce que la logique est symétrique. Si la rencontre de 1973 n'eut pas
 lieu, alors la généalogie est simple : le message est une condensation de
@@ -767,7 +767,7 @@ amputée et un témoignage greffé dessus. Si la rencontre eut lieu, alors
 les Élohim choisirent, comme préparation de leur messager, une France dans
 laquelle Jean Sendy avait passé onze ans à enseigner au public lecteur
 exactement comment analyser les mots *« nous sommes des hommes comme
-vous »* — et un livre déjà imprimé qui pouvait servir, comme les Raéliens
+vous »* — et un livre déjà imprimé qui pouvait servir, comme les Raëliens
 eux-mêmes l'emploient, de corroboration indépendante atteinte par la seule
 érudition. Sur l'une comme l'autre branche, la stature de Sendy *s'élève* :
 il est soit le véritable auteur de la réinterprétation la plus lourde de

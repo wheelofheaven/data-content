@@ -86,5 +86,5 @@ Rien dans l'hébreu seul ne permet de trancher entre elles, et l'article [Élohi
 - **Suivre l'histoire.** La [chronologie](/fr/timeline/) la raconte en douze chapitres, un pour chaque âge précessionnel.
 - **Chercher les termes.** L'article [Élohim](/fr/wiki/elohim/) est la page la plus liée du site ; l'[encyclopédie](/fr/wiki/) compte environ 150 articles.
 - **Lire les sources.** La [bibliothèque](/fr/library/) réunit les livres raëliens et de nouvelles traductions de la Genèse et d'autres textes, avec la langue originale en regard et des notes sur chaque mot contesté.
-- **Voir la méthode développée en entier.** [Sendy et les Messages raéliens](/fr/articles/sendy-and-the-raelian-messages/) compare passage par passage le premier livre raëlien avec l'œuvre antérieure de Jean Sendy, et pèse l'hypothèse selon laquelle Raël aurait emprunté à Sendy.
+- **Voir la méthode développée en entier.** [Sendy et les Messages raëliens](/fr/articles/sendy-and-the-raelian-messages/) compare passage par passage le premier livre raëlien avec l'œuvre antérieure de Jean Sendy, et pèse l'hypothèse selon laquelle Raël aurait emprunté à Sendy.
 - **Utiliser les données.** L'[Index des conseils divins](/datasets/divine-council-index/) recense les conseils divins de douze traditions avec la localisation des sources, en CSV et en JSON, que chacun peut vérifier ou réutiliser.

@@ -499,7 +499,7 @@ de forme plurielle que le texte hébreu conserve et que le corpus lit à travers
 {% wiki(slug="plurality-of-gods") %}tout le registre{% end %}. Le corpus se tient,
 s'il faut le dire, *plus près* d'un panthéon d'êtres réels et localisables que du
 Dieu unique abstrait, omniprésent, omniscient, tout-puissant de la théologie
-développée — un Dieu que la documentation source raélienne désigne comme une erreur
+développée — un Dieu que la documentation source raëlienne désigne comme une erreur
 de traduction, le moment où les créateurs pluriels furent « transform[és] en un Dieu
 unique et incompréhensible ». Un cadre qui ne tient pas la vérité pour
 métaphysiquement une ne peut lire la Hanafiyya comme le triomphe de l'unité
@@ -529,7 +529,7 @@ l'avaient enfouie — non l'Un des philosophes. Le retournement que cherchaient 
 *ḥunafāʾ* était un retour vers les Élohim, les dieux réels, que leur peuple avait
 oubliés. Ceci est l'interprétation du corpus posée par-dessus les prémisses propres
 du canon, et offerte comme telle ; la pluralité des Élohim et l'idolâtrie-comme-oubli
-sont énoncées dans la documentation raélienne, tandis que leur concordance avec la
+sont énoncées dans la documentation raëlienne, tandis que leur concordance avec la
 distinction *ḥanīf*/idolâtre est la lecture.
 
 ## Contre-arguments
@@ -629,7 +629,7 @@ quelque chose que les Élohim avaient anticipé, je ne saurais le dire ; je le n
 seulement comme un fil qui vaut d'être tiré.
 
 Ma fascination pour Gibson se tient à côté de quelque chose que me donne la
-documentation source raélienne : la reconnaissance de l'islam comme un maillon
+documentation source raëlienne : la reconnaissance de l'islam comme un maillon
 légitime de la chaîne prophétique, une religion élohimique authentique plutôt qu'une
 rivale à expliquer pour s'en débarrasser. Tenir les deux à la fois me conduit à une
 conclusion que le corpus atteint déjà ailleurs — que l'islam fut corrompu avec le

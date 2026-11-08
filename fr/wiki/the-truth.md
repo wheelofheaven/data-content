@@ -27,7 +27,7 @@ principal_corpus_treatment = "*Le Livre qui dit la vérité* (Vorilhon, 1974) �
 
 The framework's principal methodological commitment: the truth has been preserved within the religious traditions but transmitted in pre-scientific vocabulary; recovery requires systematic etymological-rational engagement that distinguishes the preserved historical-civilizational content from the cultural-symbolic-supernatural overlay accumulated across millennia of transmission. The methodological framework operates principally through two articulations. **Vorilhon's etymological-rational engagement** — the move that proceeds by recovering original meanings of religious vocabulary that mystical overlay has obscured (the substantial articulation: "etymology = science of the truth," from Greek *etumos*, "true," + *logos*, "science"). **Sendy's four-condition framework** for decoding the Hebrew Bible — the substantial articulation of the four conditions required for the recovery: knowing the Bible, knowing space-flight possibilities and their limitations, having current knowledge in biology / prehistory / history / evolution, and refusing "explanation by the Inexplicable" (refusing any intrusion of the supernatural).
 
-The principal source anchor is **Vorilhon**'s ***Le Livre qui dit la vérité*** (*The Book Which Tells the Truth*, 1974) — the first volume of Vorilhon's contact accounts, published in French shortly after his December 1973 contact at the Puy-de-Lassolas crater, bearing The Truth in its title. The book operates as foundational source text for the broader Raëlian movement and as principal source-textual material for the corpus's broader integration. Substantial subsequent articulation appears in Vorilhon's two further works (*Les Extra-Terrestres m'ont emmené sur leur planète*, 1975; *Accueillir les Extra-Terrestres*, 1979), collected together with the first book in the consolidated *Message from the Designers* (Tagman Press, 2005).
+The principal source anchor is **Vorilhon**'s ***Le Livre qui dit la vérité*** (*The Book Which Tells the Truth*, 1974) — the first volume of Vorilhon's contact accounts, published in French shortly after his December 1973 contact at the Puy-de-Lassolas crater, bearing The Truth in its title. The book operates as foundational source text for the broader Raëlian movement and as principal source-textual material for the corpus's broader integration. Substantial subsequent articulation appears in Vorilhon's two further works (*Les Extra-terrestres m'ont emmené sur leur planète*, 1975; *Accueillir les extra-terrestres*, 1979), collected together with the first book in the consolidated *Message from the Designers* (Tagman Press, 2005).
 
 The Truth operates substantively distinctly from mainstream philosophical engagement with truth. Philosophical theories of truth (correspondence: Aristotle, Tarski, Russell; coherence: Hegel, Bradley; pragmatist: Peirce, James, Dewey; deflationary: Ramsey, Quine, Horwich; the broader contemporary engagement) operate principally as theories about what truth IS as philosophical-epistemological category — what makes a proposition true, what relation between belief and reality grounds truth-attribution, what semantic-linguistic features the truth-predicate has. The framework's engagement with The Truth operates principally with specific content rather than with philosophical-epistemological category. The framework asserts The Truth as the specific underlying historical-civilizational reality the religious traditions preserve, not as a philosophical analysis of what truth is in general. The relationship is **distinct-conceptual-domain** — the framework's specific position is not principally a contribution to philosophical theory of truth, and mainstream philosophical theory of truth does not principally engage the framework's specific content.
 
@@ -248,8 +248,8 @@ The substantial title operates substantively as framework's-self-designation: th
 
 The substantial subsequent Vorilhon source content extends the substantial articulation:
 
-- ***Les Extra-Terrestres m'ont emmené sur leur planète*** (*Extra-Terrestrials Took Me to Their Planet*, 1975) — the substantial second contact narrative, with substantial subsequent content from Vorilhon's October 1975 trip to the Planet of the Eternals
-- ***Accueillir les Extra-Terrestres*** (*Let Us Welcome the Extra-Terrestrials*, 1979) — the substantial third volume containing the substantial etymological-rational engagement
+- ***Les Extra-terrestres m'ont emmené sur leur planète*** (*Extra-Terrestrials Took Me to Their Planet*, 1975) — the substantial second contact narrative, with substantial subsequent content from Vorilhon's October 1975 trip to the Planet of the Eternals
+- ***Accueillir les extra-terrestres*** (*Let Us Welcome the Extra-Terrestrials*, 1979) — the substantial third volume containing the substantial etymological-rational engagement
 - The consolidated ***Message from the Designers*** (Tagman Press, 2005) — the principal English-language consolidated edition
 
 Together, these works operate as the principal Raëlian source-textual content for The Truth concept.
@@ -620,9 +620,9 @@ The framework's distinctive contribution within this broader comparative landsca
 
 Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. Self-published, 1974. The principal source-textual title-anchor for The Truth concept.
 
-Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. 1975.
+Vorilhon, Claude (Raël). *Les Extra-terrestres m'ont emmené sur leur planète*. 1975.
 
-Vorilhon, Claude (Raël). *Accueillir les Extra-Terrestres*. 1979.
+Vorilhon, Claude (Raël). *Accueillir les extra-terrestres*. 1979.
 
 Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005. The consolidated English-language edition of the three principal Vorilhon source works.
 

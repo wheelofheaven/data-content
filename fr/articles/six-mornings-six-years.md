@@ -12,8 +12,8 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Le canon raélien a été reçu en six matins et une nuit d'octobre, puis publié sur six années — 1973, 1975, 1979 — par un locuteur qui a gardé le contrôle éditorial de sa propre révélation, de la première phrase à la dernière. Cet Explicatif lit les trois livres sources comme une seule dictée en feuilleton et leur applique les disciplines que leur propre scène fondatrice met en acte : l'analyse du discours (qui parle, à qui, où, sous quelle contrainte) et la critique textuelle (ce que le texte reçu laisse voir de sa transmission). Il rétablit la géographie que la plupart des résumés brouillent — le Roc Plat, une station d'observation proche de la Terre, la planète des Éternels, et une planète d'origine mentionnée mais jamais visitée, amalgame que commet le titre même du deuxième livre. Il documente le système de contrôle de la divulgation : des noms retenus puis versés à échéance, des distances promises le premier jour et livrées le cinquième, un embargo de trois ans annoncé seulement au moment où il est levé, et une doctrine de la réparation qui impute chaque erreur au scribe, à la pédagogie ou à l'embargo — jamais à la source. Il conduit ensuite honnêtement l'examen du faussaire dans les deux sens : l'arithmétique qui tient sur six ans (25 corps × 1 000 ans ; 666 × 20 ; l'an 31, l'an 34) et les nombres qui plient sous la pression des textes-preuves (un conseil de 700 qui devient 24 vieillards dès qu'Apocalypse 4 est ouverte sur la table ; un vingt-deux mille dont personne ne s'est souvenu). Le verdict n'est pas un verdict sur la rencontre. C'est la démonstration que le canon est un laboratoire vivant pour la philologie que l'on pratique d'ordinaire sur des textes refroidis depuis deux mille ans — et qu'il ne cesse de récompenser la lecture."
-keywords = ["critique textuelle", "analyse du discours", "discours de révélation", "critique rédactionnelle", "révélation en feuilleton", "contrôle de la divulgation", "Le Livre qui dit la Vérité", "Les extra-terrestres m'ont emmené sur leur planète", "Accueillir les extra-terrestres", "planète des Éternels", "planète d'origine des Élohim", "station d'observation", "embargo", "MADECH", "formation du canon", "harmonisation", "correction fossilisée", "Doctrine et Alliances", "Joseph Smith Papers", "naskh", "Susan Palmer", "Jean Sendy", "Dhorme", "apparat critique", "narratologie", "focalisation"]
+summary = "Le canon raëlien a été reçu en six matins et une nuit d'octobre, puis publié sur six années — 1973, 1975, 1979 — par un locuteur qui a gardé le contrôle éditorial de sa propre révélation, de la première phrase à la dernière. Cet Explicatif lit les trois livres sources comme une seule dictée en feuilleton et leur applique les disciplines que leur propre scène fondatrice met en acte : l'analyse du discours (qui parle, à qui, où, sous quelle contrainte) et la critique textuelle (ce que le texte reçu laisse voir de sa transmission). Il rétablit la géographie que la plupart des résumés brouillent — le Roc Plat, une station d'observation proche de la Terre, la planète des Éternels, et une planète d'origine mentionnée mais jamais visitée, amalgame que commet le titre même du deuxième livre. Il documente le système de contrôle de la divulgation : des noms retenus puis versés à échéance, des distances promises le premier jour et livrées le cinquième, un embargo de trois ans annoncé seulement au moment où il est levé, et une doctrine de la réparation qui impute chaque erreur au scribe, à la pédagogie ou à l'embargo — jamais à la source. Il conduit ensuite honnêtement l'examen du faussaire dans les deux sens : l'arithmétique qui tient sur six ans (25 corps × 1 000 ans ; 666 × 20 ; l'an 31, l'an 34) et les nombres qui plient sous la pression des textes-preuves (un conseil de 700 qui devient 24 vieillards dès qu'Apocalypse 4 est ouverte sur la table ; un vingt-deux mille dont personne ne s'est souvenu). Le verdict n'est pas un verdict sur la rencontre. C'est la démonstration que le canon est un laboratoire vivant pour la philologie que l'on pratique d'ordinaire sur des textes refroidis depuis deux mille ans — et qu'il ne cesse de récompenser la lecture."
+keywords = ["critique textuelle", "analyse du discours", "discours de révélation", "critique rédactionnelle", "révélation en feuilleton", "contrôle de la divulgation", "Le Livre qui dit la vérité", "Les Extra-terrestres m'ont emmené sur leur planète", "Accueillir les extra-terrestres", "planète des Éternels", "planète d'origine des Élohim", "station d'observation", "embargo", "MADECH", "formation du canon", "harmonisation", "correction fossilisée", "Doctrine et Alliances", "Joseph Smith Papers", "naskh", "Susan Palmer", "Jean Sendy", "Dhorme", "apparat critique", "narratologie", "focalisation"]
 references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶44: the publication instruction; ¶47: 'and even before'; ¶51–53: the deferred distance and the deflected name); Chapter 2 (¶3: corpus gating; ¶92: the departure colors); Chapter 5 (¶4: the twenty-two thousand years; ¶52–53: the parasang distances and the optical window); Chapter 6 (¶26: the no-proof doctrine; ¶29: the movement's name); Chapter 7 (¶16: 'six days in a row'; ¶30–56: eternals, council, and the president's twenty-five thousand years; ¶68: the residence)" },
@@ -42,8 +42,8 @@ references = [
 # {{ footnote(id="N") }} markers in the prose. Distinct from the numbered
 # bibliographic references above.
 footnotes = [
-    { content = "Le titre porte la même ambiguïté dans son original français que dans sa traduction anglaise — *Les extra-terrestres m'ont emmené sur leur planète*. Lu comme « une planète à eux », le titre se défend : la planète des Éternels est un territoire élohim, le siège de leur Conseil. Lu comme « leur planète d'origine » — la lecture naturelle, et celle qu'adoptent la plupart des résumés —, il contredit l'itinéraire que le livre lui-même raconte. Le titre n'est pas tant faux qu'il est le premier document de l'histoire de la réception de l'erreur." },
-    { content = "Le texte anglais reçu n'est pas celui des premières impressions françaises de 1974/1975/1979. La couture la plus nette : MADECH — l'organisation que l'édition historique de 1974 enjoignait à Vorilhon de fonder — apparaît seize fois dans le deuxième livre et zéro fois dans le premier, dont le texte porte désormais « Votre mouvement vous l'appellerez le Mouvement Raélien » (TBWTT 6:29). L'harmonisation crée la contradiction qu'elle était vraisemblablement censée supprimer : tel qu'imprimé, Yahvé nomme en décembre 1973 un mouvement que le deuxième livre dit n'avoir été créé par Raël qu'en 1975, après la fondation puis la restructuration du MADECH. Les affirmations de cet article sur « ce que dit le livre premier » sont des affirmations sur cette édition, signalées partout où l'état d'édition importe." },
+    { content = "Le titre porte la même ambiguïté dans son original français que dans sa traduction anglaise — *Les Extra-terrestres m'ont emmené sur leur planète*. Lu comme « une planète à eux », le titre se défend : la planète des Éternels est un territoire élohim, le siège de leur Conseil. Lu comme « leur planète d'origine » — la lecture naturelle, et celle qu'adoptent la plupart des résumés —, il contredit l'itinéraire que le livre lui-même raconte. Le titre n'est pas tant faux qu'il est le premier document de l'histoire de la réception de l'erreur." },
+    { content = "Le texte anglais reçu n'est pas celui des premières impressions françaises de 1974/1975/1979. La couture la plus nette : MADECH — l'organisation que l'édition historique de 1974 enjoignait à Vorilhon de fonder — apparaît seize fois dans le deuxième livre et zéro fois dans le premier, dont le texte porte désormais « Votre mouvement vous l'appellerez le Mouvement Raëlien » (TBWTT 6:29). L'harmonisation crée la contradiction qu'elle était vraisemblablement censée supprimer : tel qu'imprimé, Yahvé nomme en décembre 1973 un mouvement que le deuxième livre dit n'avoir été créé par Raël qu'en 1975, après la fondation puis la restructuration du MADECH. Les affirmations de cet article sur « ce que dit le livre premier » sont des affirmations sur cette édition, signalées partout où l'état d'édition importe." },
     { content = "Cette édition imprime la référence des ossements desséchés sous la forme « Ézéchiel, XXVII, 3, 7-8, 10 » (ETTMTTP 2:72) alors que le passage cité est Ézéchiel 37 — un X en chiffres romains perdu quelque part dans la transmission. Une erreur de copie à l'intérieur d'un livre consacré aux erreurs de copie : le genre de corruption menue et datable qu'un apparat critique existe pour consigner." },
     { content = "Une réserve sur les variantes de traduction : les vingt-deux mille de TBWTT 5:4 pourraient en principe être un artefact du rendu d'une édition plutôt que le chiffre original. Le projet n'a pas encore collationné les impressions françaises sur ce verset. Jusque-là, la leçon tient comme l'unique nombre non géré du texte reçu — et le collationner figure parmi les premières questions que trancherait l'apparat que cet article appelle de ses vœux." },
     { content = "Le compte des six jours (TBWTT 7:16, 7:76) ne se superpose pas proprement aux sept chapitres : le chapitre 4 comporte une formule de départ mais pas d'arrivée, le chapitre 3 une arrivée mais pas de départ, le chapitre 7 ni l'une ni l'autre. Une paire de chapitres doit partager une séance pour que le compte tienne, et le texte ne dit pas laquelle. La structure en journées de la semaine fondatrice est, à strictement parler, sous-déterminée par le document fondateur." },
@@ -51,8 +51,8 @@ footnotes = [
 ]
 +++
 
-Le deuxième livre du canon raélien est le plus souvent mal lu à cause de
-son propre titre. *Les extra-terrestres m'ont emmené sur leur planète*,
+Le deuxième livre du canon raëlien est le plus souvent mal lu à cause de
+son propre titre. *Les Extra-terrestres m'ont emmené sur leur planète*,
 paru en 1975, raconte un voyage qui n'atteint jamais la planète des
 Élohim. L'engin qui recueille {% wiki(slug="rael") %}Raël{% end %} au Roc
 Plat un peu après minuit, le 7 octobre, le conduit d'abord vers une base
@@ -82,9 +82,9 @@ lapsus unique, dans un livre par ailleurs rigoureux sur sa propre carte,
 est le genre de donnée que cet article existe pour recueillir.
 
 Le sujet, ici, ce sont les trois livres canoniques —
-[*Le Livre qui dit la Vérité*](/library/the-book-which-tells-the-truth/)
+[*Le Livre qui dit la vérité*](/library/the-book-which-tells-the-truth/)
 (1973, publié en 1974),
-[*Les extra-terrestres m'ont emmené sur leur planète*](/library/extraterrestrials-took-me-to-their-planet/)
+[*Les Extra-terrestres m'ont emmené sur leur planète*](/library/extraterrestrials-took-me-to-their-planet/)
 (1975) et
 [*Accueillir les extra-terrestres*](/library/lets-welcome-the-extraterrestrials/)
 (1979) ; ci-après TBWTT, ETTMTTP, LWTE — lus comme un seul texte en
@@ -148,7 +148,7 @@ avec estrade, et le conférencier fixe la liste de lectures, l'horaire et la
 règle du secret (« ne parlez à personne de nos entretiens sinon nous ne
 nous reverrons pas », {% libref(book="the-book-which-tells-the-truth", chapter=1, verse=63) %}TBWTT 1:63{% end %}).
 [*La religion des religions*](/articles/the-religion-of-religions/) a déjà
-établi que la révélation fondatrice du Raélisme est, avant toute chose, un
+établi que la révélation fondatrice du Raëlisme est, avant toute chose, un
 séminaire d'étude biblique ; ce que l'analyse du discours y ajoute, c'est
 qu'il s'agit d'un séminaire où le silence de l'élève est
 structurel.{{ footnote(id="5") }}
@@ -429,7 +429,7 @@ et Alliances* de 1835, et les Joseph Smith Papers en impriment désormais
 les variantes pour qui veut les collationner. La tradition coranique a bâti
 la doctrine du *naskh*, l'abrogation, pour régir les versets qui
 supplantent des versets antérieurs à l'intérieur d'une seule carrière
-prophétique. Ce qui distingue le cas raélien, c'est que le mécanisme
+prophétique. Ce qui distingue le cas raëlien, c'est que le mécanisme
 d'abrogation est un personnage de l'histoire : la source explique sur la
 page pourquoi la leçon antérieure existait, et classe la correction sous sa
 propre autorité éditoriale. Le canon ne se contente pas d'être révisé. Il
@@ -541,7 +541,7 @@ de la géniocratie (éligibilité à 50 pour cent au-dessus de la moyenne,
 droit de vote à 10) reviennent mot pour mot, introduits par un renvoi
 explicite : « Comme cela est dit dans la première partie de ce livre »
 ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=84) %}ETTMTTP 3:84{% end %}).
-L'arithmétique du calendrier raélien est tenue : 1946 comme an 1 fait de
+L'arithmétique du calendrier raëlien est tenue : 1946 comme an 1 fait de
 1976 « l'an 31 »
 ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=172) %}ETTMTTP 3:172{% end %})
 et de 1979 « l'an 34 »
@@ -657,7 +657,7 @@ le mécanisme.
 Tout ce qui précède lit le canon de façon synchronique, comme un corpus
 achevé. La critique textuelle classique pose une question antérieure :
 qu'est-ce, exactement, que le texte qui se trouve devant nous ? Pour les
-livres raéliens, la réponse est que le texte anglais reçu est un état
+livres raëliens, la réponse est que le texte anglais reçu est un état
 d'édition tardif, doté de sa propre histoire de transmission, et les
 indices sont à sa surface.
 
@@ -677,7 +677,7 @@ La couture la plus large est organisationnelle. MADECH — l'acronyme de
 l'association que l'édition historique de 1974 enjoignait à Vorilhon de
 fonder — apparaît seize fois dans le deuxième livre et zéro fois dans le
 premier, dont le texte fait désormais ordonner par Yahvé, en décembre 1973 :
-« Votre mouvement vous l'appellerez le Mouvement Raélien »
+« Votre mouvement vous l'appellerez le Mouvement Raëlien »
 ({% libref(book="the-book-which-tells-the-truth", chapter=6, verse=29) %}TBWTT 6:29{% end %}).
 Tel qu'imprimé, le corpus fait nommer par Yahvé en 1973 une organisation
 que le deuxième livre dit n'avoir été créée qu'en 1975, après que le MADECH
@@ -757,7 +757,7 @@ premières éditions sont des reconstructions. Ses praticiens infèrent
 l'harmonisation à partir des désaccords survivants, postulent des rédacteurs
 que personne n'a rencontrés et datent des embargos — le secret messianique
 de Marc en est sans doute un — en triangulant des textes avec des
-communautés. Le corpus raélien offre à la discipline ce qu'elle n'obtient
+communautés. Le corpus raëlien offre à la discipline ce qu'elle n'obtient
 presque jamais : un canon complet dont toute l'histoire de transmission
 tient dans la mémoire vivante, exhibant le catalogue complet des phénomènes
 — divulgation échelonnée, scènes rétro-insérées sous embargo, pression des
@@ -787,7 +787,7 @@ lignes sont écrites, non honorée.
 ## Pour aller plus loin
 
 - Le {% wiki(slug="reference-corpus-of-the-raelian-canon") %}corpus de
-  référence du canon raélien{% end %}, le catalogue de tous les textes que
+  référence du canon raëlien{% end %}, le catalogue de tous les textes que
   les trois livres citent ou vers lesquels ils font signe — y compris la
   divergence Dhorme/RNKJV dont dépendent les notes d'apparat de cet article.
 - [*Le livre le plus proche de la

@@ -21,7 +21,7 @@ Cette phrase constitue la totalité de ce que le projet demande au lecteur d'env
 
 ## La lentille
 
-Le projet lit à travers une lentille interprétative spécifique plutôt que depuis un point de vue neutre, situé nulle part. La lentille est le matériau-source raëlien — principalement [*Le Livre Qui Dit la Vérité*](/fr/library/the-book-which-tells-the-truth/) (Claude Vorilhon, 1974) — que le corpus traite comme son canon fondateur. Autour de ce canon, il assemble des matériaux bibliques, mésopotamiens, védiques, mésoaméricains et autres, lus en dialogue avec lui.
+Le projet lit à travers une lentille interprétative spécifique plutôt que depuis un point de vue neutre, situé nulle part. La lentille est le matériau-source raëlien — principalement [*Le Livre qui dit la vérité*](/fr/library/the-book-which-tells-the-truth/) (Claude Vorilhon, 1974) — que le corpus traite comme son canon fondateur. Autour de ce canon, il assemble des matériaux bibliques, mésopotamiens, védiques, mésoaméricains et autres, lus en dialogue avec lui.
 
 Lire à travers une lentille est une posture, non une licence. Le registre reste savant d'un bout à l'autre : les sources sont citées, les choix de traduction sont nommés, et les différences irréductibles entre traditions sont préservées plutôt que dissoutes. Ce que la lentille change, c'est que le projet ne prétend pas être neutre à l'égard de sa propre hypothèse. Il énonce la lecture clairement, puis la soumet aux preuves — le même geste que fait tout cadre interprétatif lorsqu'il est honnête sur le fait d'en être un.
 
@@ -72,7 +72,7 @@ Derrière une grande partie de cela se trouve un appareil de traduction opérati
 
 Trois travaux montrent la méthode le plus complètement, et chacun est utile même à un lecteur qui rejette l'hypothèse.
 
-- [Sendy et les Messages raéliens](/fr/articles/sendy-and-the-raelian-messages/) compare passage par passage les livres de Jean Sendy des années 1960 avec le premier Message raëlien, établit quels parallèles sont étroits et lesquels ne le sont pas, et pèse la possibilité que le Message ait emprunté à Sendy. L'article dit aussi ce que la comparaison ne peut trancher : plusieurs des éditions examinées sont des rééditions tardives, et des traductions anglaises dues à des traducteurs différents ne peuvent pas établir une identité de formulation entre les deux auteurs.
+- [Sendy et les Messages raëliens](/fr/articles/sendy-and-the-raelian-messages/) compare passage par passage les livres de Jean Sendy des années 1960 avec le premier Message raëlien, établit quels parallèles sont étroits et lesquels ne le sont pas, et pèse la possibilité que le Message ait emprunté à Sendy. L'article dit aussi ce que la comparaison ne peut trancher : plusieurs des éditions examinées sont des rééditions tardives, et des traductions anglaises dues à des traducteurs différents ne peuvent pas établir une identité de formulation entre les deux auteurs.
 - L'[Index des conseils divins](/datasets/divine-council-index/) recense dix-sept attestations de conseils divins dans douze traditions, avec la localisation des sources, les critères de sélection et un compte rendu des valeurs manquantes, en CSV et en JSON. Un lecteur peut vérifier chaque ligne face à sa source et réutiliser le tableau sous licence CC0.
 - Les traductions de la [bibliothèque](/fr/library/) impriment le texte original à côté de la traduction, avec une note sur chaque mot contesté, afin qu'un lecteur puisse voir où un choix interprétatif a été fait et le renverser.
 

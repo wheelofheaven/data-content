@@ -344,7 +344,7 @@ L'entrée Grande Année fait émerger plusieurs questions ouvertes pour le trava
 
 ## Références
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) et *Les extra-terrestres m'ont emmené sur leur planète* (1976), réunis sous le titre *Le Message des Élohim* (Fondation raëlienne, édition française actuelle). [Source primaire pour la lecture par le cadre de la durée du projet Élohim, d'environ 25 000 ans, correspondant approximativement à une Grande Année.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) et *Les Extra-terrestres m'ont emmené sur leur planète* (1976), réunis sous le titre *Le Message donné par les extra-terrestres* (Fondation raëlienne, édition française actuelle). [Source primaire pour la lecture par le cadre de la durée du projet Élohim, d'environ 25 000 ans, correspondant approximativement à une Grande Année.]
 
 Santillana, Giorgio de, et Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston : Gambit, 1969. [Engagement érudit fondateur avec la thèse selon laquelle la mythologie mondiale pré-hipparchienne encode systématiquement un contenu précessionnel à l'échelle de la Grande Année.]
 

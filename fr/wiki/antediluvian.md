@@ -130,7 +130,7 @@ duration = "environ 4 685 ans"
 geographic_setting = "Supercontinent unique contenant sept territoires régionaux des équipes Élohim"
 closing_event = "Le Déluge de l'Ère des Gémeaux, vers 6 690 AEC"
 principal_biblical_text = "Genèse 4–6:8"
-principal_framework_source = "*Le Message des Élohim* (Vorilhon/Raël, 1974)"
+principal_framework_source = "*Le Message donné par les extra-terrestres* (Vorilhon/Raël, 1974)"
 date_type = "interne au cadre ; les ères qui l'encadrent sont précessionnelles et l'ancrage de la création humaine dérive du calcul des 666 générations"
 +++
 

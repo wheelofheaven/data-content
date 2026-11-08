@@ -617,9 +617,9 @@ Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. 1974. The principal so
 
 Vorilhon, Claude (Raël). *Géniocratie*. 1977. The dedicated systematic articulation of the doctrine. English translation: *Geniocracy: Government of the People, for the People, by the Geniuses*.
 
-Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. 1975. Contains the Society and Government section extending the doctrinal articulation.
+Vorilhon, Claude (Raël). *Les Extra-terrestres m'ont emmené sur leur planète*. 1975. Contains the Society and Government section extending the doctrinal articulation.
 
-Vorilhon, Claude (Raël). *Accueillir les Extra-Terrestres*. 1979. Contains the FAQ section addressing the relationship between Raëlism and Geniocracy.
+Vorilhon, Claude (Raël). *Accueillir les extra-terrestres*. 1979. Contains the FAQ section addressing the relationship between Raëlism and Geniocracy.
 
 Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005. The consolidated English-language edition.
 

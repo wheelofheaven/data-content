@@ -699,9 +699,9 @@ Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
 
 Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. 1974.
 
-Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. 1975.
+Vorilhon, Claude (Raël). *Les Extra-terrestres m'ont emmené sur leur planète*. 1975.
 
-Vorilhon, Claude (Raël). *Accueillir les Extra-Terrestres*. 1979.
+Vorilhon, Claude (Raël). *Accueillir les extra-terrestres*. 1979.
 
 Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
 

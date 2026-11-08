@@ -521,9 +521,9 @@ The framework's distinctive contribution within this broader comparative landsca
 
 Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. 1974.
 
-Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. 1975. The principal source location of the Buddhism section and the soteriological dual-path passage.
+Vorilhon, Claude (Raël). *Les Extra-terrestres m'ont emmené sur leur planète*. 1975. The principal source location of the Buddhism section and the soteriological dual-path passage.
 
-Vorilhon, Claude (Raël). *Accueillir les Extra-Terrestres*. 1979.
+Vorilhon, Claude (Raël). *Accueillir les extra-terrestres*. 1979.
 
 Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005. The consolidated English-language edition.
 

@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "À l'hiver 1946/47 — la première année du calendrier que le canon raélien compte depuis l'éclair au-dessus de Hiroshima —, un berger bédouin fractura une jarre dans une falaise dominant la mer Morte et en tira les plus anciens manuscrits bibliques que quiconque eût jamais vus. Cet Explicatif raconte toute l'histoire dans sa pleine longueur : le cordonnier de Bethléem, l'archevêque qui prétendait que les manuscrits provenaient de la bibliothèque de son monastère, le professeur qui les authentifia à travers une clôture de barbelés dans la semaine du vote de partition de l'ONU, l'annonce classée du Wall Street Journal, les officiers du renseignement qui emportèrent le Rouleau du Temple de sous le plancher de Kando en 1967, et le scandale de publication de quarante ans qu'un ordinateur et une bibliothèque de Californie finirent par clore en 1991. Il lit ensuite la cargaison. Les manuscrits montrent un canon scripturaire encore ouvert — 1 Hénoch et les Jubilés copiés plus souvent que les Proverbes — et un texte biblique encore fluide, dont un fragment du Deutéronome qui préserve « fils d'Élohim » là où le texte reçu fut corrigé en « fils d'Israël », et un commentaire qui applique le mot elohim à un officier céleste nommé Melchisédek. Et il pèse le cadre que le canon lui-même fournit : que les mêmes dix-huit mois qui ouvrirent l'ère atomique dégorgèrent aussi deux bibliothèques enfouies, la première vague de soucoupes volantes, le transistor, l'État d'Israël et la naissance de l'homme à qui les messages furent plus tard dictés. L'argument de synchronicité est une synthèse interprétative et il est étiqueté comme telle ; les manuscrits, les dates et les citations sont vérifiables, et chacun d'eux est sourcé."
+summary = "À l'hiver 1946/47 — la première année du calendrier que le canon raëlien compte depuis l'éclair au-dessus de Hiroshima —, un berger bédouin fractura une jarre dans une falaise dominant la mer Morte et en tira les plus anciens manuscrits bibliques que quiconque eût jamais vus. Cet Explicatif raconte toute l'histoire dans sa pleine longueur : le cordonnier de Bethléem, l'archevêque qui prétendait que les manuscrits provenaient de la bibliothèque de son monastère, le professeur qui les authentifia à travers une clôture de barbelés dans la semaine du vote de partition de l'ONU, l'annonce classée du Wall Street Journal, les officiers du renseignement qui emportèrent le Rouleau du Temple de sous le plancher de Kando en 1967, et le scandale de publication de quarante ans qu'un ordinateur et une bibliothèque de Californie finirent par clore en 1991. Il lit ensuite la cargaison. Les manuscrits montrent un canon scripturaire encore ouvert — 1 Hénoch et les Jubilés copiés plus souvent que les Proverbes — et un texte biblique encore fluide, dont un fragment du Deutéronome qui préserve « fils d'Élohim » là où le texte reçu fut corrigé en « fils d'Israël », et un commentaire qui applique le mot elohim à un officier céleste nommé Melchisédek. Et il pèse le cadre que le canon lui-même fournit : que les mêmes dix-huit mois qui ouvrirent l'ère atomique dégorgèrent aussi deux bibliothèques enfouies, la première vague de soucoupes volantes, le transistor, l'État d'Israël et la naissance de l'homme à qui les messages furent plus tard dictés. L'argument de synchronicité est une synthèse interprétative et il est étiqueté comme telle ; les manuscrits, les dates et les citations sont vérifiables, et chacun d'eux est sourcé."
 keywords = ["Manuscrits de la mer Morte", "Qumrân", "Esséniens", "an un", "Âge de l'Apocalypse", "Hiroshima", "1947", "Sukenik", "Yadin", "Sanctuaire du Livre", "1 Hénoch", "Jubilés", "fils d'Élohim", "Melchisédek", "Nag Hammadi", "Nabatéens", "Kando", "Maître de justice", "Rouleau de la Guerre"]
 references = [
     # — The canon supplying the calendar —
@@ -56,7 +56,7 @@ references = [
 # {{ footnote(id="N") }} markers in the prose. Distinct from the numbered
 # bibliographic references above.
 footnotes = [
-    { content = "L'ère raélienne compte depuis la première explosion atomique au-dessus de Hiroshima, le 6 août 1945 : l'année civile suivante, 1946, est l'an 1, de sorte qu'une année grégorienne donnée N correspond à l'an N − 1945 de l'ère (2022, par exemple, était l'an 77). La chronologie astronomique propre au corpus place la frontière précessionnelle de l'Âge du Verseau aux alentours de 1950 ; les deux comptes encadrent la même charnière. Voir l'entrée wiki Apocalypse pour le traitement complet." },
+    { content = "L'ère raëlienne compte depuis la première explosion atomique au-dessus de Hiroshima, le 6 août 1945 : l'année civile suivante, 1946, est l'an 1, de sorte qu'une année grégorienne donnée N correspond à l'an N − 1945 de l'ère (2022, par exemple, était l'an 77). La chronologie astronomique propre au corpus place la frontière précessionnelle de l'Âge du Verseau aux alentours de 1950 ; les deux comptes encadrent la même charnière. Voir l'entrée wiki Apocalypse pour le traitement complet." },
     { content = "Muhammad edh-Dhib (« le loup ») a donné des versions divergentes de la découverte dans des entretiens ultérieurs, et les récits diffèrent sur l'animal (une chèvre égarée dans la plupart), la pierre et qui pénétra le premier dans la grotte. La biographie des manuscrits par Collins se refuse à trancher et ne consigne que ce que les documents attestent : des Bédouins Ta'amireh, une grotte au sud de Jéricho, « quelque part à la fin de 1946 ou au début de 1947 ». La reconstruction documentaire la plus complète est celle de Weston Fields, The Dead Sea Scrolls: A Full History, vol. 1 (2009)." },
     { content = "Le Papyrus Nash : quatre fragments acquis en Égypte et publiés en 1903, contenant les Dix Commandements et le Shema, datés du deuxième siècle av. J.-C. — avant 1947, le plus ancien fragment manuscrit hébreu connu d'une quelconque partie de la Bible. La reconnaissance par Trever de ce que l'écriture du rouleau d'Isaïe lui ressemblait fut la première datation des manuscrits, confirmée en quelques jours par Albright." },
     { content = "Pesher (pluriel pesharim), de l'hébreu pour « interprétation » : la forme de commentaire distinctive de la secte, qui cite un verset de prophétie puis le décode — « son interprétation concerne… » — comme la prédiction d'événements de la génération même du commentateur, comprise comme la dernière. La forme suppose que la prophétie est une écriture codée sur la fin des temps, et que la clé du code fut donnée à un seul homme, le Maître de justice." },
@@ -100,7 +100,7 @@ jarre de voix.
 
 Dix-huit mois avant que la pierre n'entre dans la grotte, un autre éclair
 s'était élevé au-dessus d'une autre mer. Le canon
-{% wiki(slug="rael") %}raélien{% end %} — le matériau source fondateur de
+{% wiki(slug="rael") %}raëlien{% end %} — le matériau source fondateur de
 ce projet — date de lui l'âge présent : la destruction atomique de
 Hiroshima, le 6 août 1945, marque l'ouverture de
 l'{% wiki(slug="apocalypse") %}Apocalypse{% end %}, l'âge du *dévoilement*
@@ -171,7 +171,7 @@ au contenu. La prétention du canon est que cette fenêtre précise ouvre un
 âge de dévoilement et de retour — et les événements ci-dessus n'ont rien
 de générique. Deux bibliothèques scripturaires enfouies refaisant
 physiquement surface ; la réapparition d'un État juif après dix-neuf
-siècles, un événement que le premier lecteur israélien des manuscrits
+siècles, un événement que le premier lecteur israëlien des manuscrits
 relia aussitôt à eux ; la naissance de la technologie de la remémoration
 totale ; le début de l'ère des observations que le canon lit comme
 préparation au contact ouvert ; et la naissance de l'homme à qui les
@@ -268,7 +268,7 @@ il se rabattit sur les petites annonces. En juin 1954, sous la rubrique
 L'acheteur fut un banquier new-yorkais nommé Sidney Esteridge, qui paya
 250 000 dollars. À l'insu de l'archevêque, Esteridge était un prête-nom :
 l'argent et les instructions venaient de Yigael Yadin — le fils de Sukenik,
-récemment chef d'état-major de l'armée israélienne, alors en tournée de
+récemment chef d'état-major de l'armée israëlienne, alors en tournée de
 conférences aux États-Unis. Sukenik était mort l'année précédente, encore
 convaincu que les manuscrits dispersés allaient ensemble. Par une petite
 annonce et un mandant dissimulé, son fils les réunit, et en 1965 le Musée
@@ -278,7 +278,7 @@ Sanctuaire du Livre, où cet article reviendra à pied.
 Yadin n'en avait pas fini. Depuis le début des années 1960, il négociait
 avec Kando au sujet d'un rouleau supplémentaire rumeur dont personne, hors
 de Bethléem, n'avait vu le contenu. En juin 1967, la guerre plaça Bethléem
-sous contrôle israélien, et Yadin — devenu alors conseiller militaire du
+sous contrôle israëlien, et Yadin — devenu alors conseiller militaire du
 Premier ministre — envoya un petit groupe d'officiers du renseignement chez
 Kando. Collins donne à l'épisode une seule proposition dévastatrice : ils
 localisèrent Kando, « et après un interrogatoire qui a été qualifié de

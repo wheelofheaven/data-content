@@ -133,11 +133,11 @@ note = "Kugel (2007) ; articulation du contraste entre lectures anciennes interp
 
 [[extra.references]]
 id = "cross-canaanite-myth"
-note = "Cross (1973) ; articulation fondationnelle de la continuité religieuse cananéo-israélite ; développement historique El-Yahvé."
+note = "Cross (1973) ; articulation fondationnelle de la continuité religieuse cananéo-israëlite ; développement historique El-Yahvé."
 
 [[extra.references]]
 id = "smith-early-history-god"
-note = "Smith (1990) ; le développement précoce de la religion israélite dans le contexte cananéo-levantin plus large."
+note = "Smith (1990) ; le développement précoce de la religion israëlite dans le contexte cananéo-levantin plus large."
 
 [[extra.references]]
 id = "finkelstein-bible-unearthed"
@@ -399,7 +399,7 @@ Le passage établit la nuance substantielle : la Bible hébraïque opère comme 
 
 ### Le passage substantiel « première erreur de l'Église »
 
-Le principal passage substantiel du matériel source établissant la lecture substantielle des erreurs de traduction du cadre apparaît dans *Le Message des Élohim* :
+Le principal passage substantiel du matériel source établissant la lecture substantielle des erreurs de traduction du cadre apparaît dans *Le Message donné par les extra-terrestres* :
 
 > *« Ses erreurs ont été grandes, particulièrement lorsqu'elle a injecté trop de surnaturel dans la vérité et a mal traduit les écritures dans les Bibles ordinaires. Elle a remplacé le terme "Élohim", qui désigne les créateurs, par un terme singulier "Dieu", alors qu'en fait Élohim en hébreu est le pluriel d'Eloha. De cette façon, l'Église a transformé les créateurs en un Dieu unique incompréhensible. »*
 
