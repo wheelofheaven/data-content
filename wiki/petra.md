@@ -30,7 +30,7 @@ alternative_names = ["Πέτρα (Greek 'rock')", "רקמו (Nabataean Raqmū)",
 
 [extra.infobox]
 type = "Rock-cut Nabataean caravan capital; UNESCO World Heritage Site; geographic centre of the Petra-as-original-Mecca hypothesis"
-location = "Wadi Musa, Ma'an Governorate, southern Jordan; approximately 1,200 km north of present-day Mecca"
+location = "Wadi Musa, Ma'an Governorate, southern Jordan; approximately 1,080 km north of present-day Mecca"
 nabataean_name = "רקמו (Raqmū / Reqem), the kingdom's own designation; 'Petra' (πέτρα, 'rock') is the Greek-Roman name"
 flourished = "c. 4th century BCE – 2nd century CE as Nabataean capital; annexed by Rome 106 CE (Provincia Arabia); declined after the 363 CE and later earthquakes"
 mainstream_status = "Nabataean kingdom capital; major Hellenistic-Roman caravan city; mixed pagan-Christian population into the Byzantine era"

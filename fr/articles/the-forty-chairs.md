@@ -922,10 +922,14 @@ et incarné ; des humains exaltés qui deviennent dieux à leur tour ; un
 Christ qui a visité « des mondes sans nombre » ; une région stellaire
 nommée, Kolob, associée à l'administration divine — une théologie de la
 pluralité des mondes, porteuse et doctrinalement centrale, venue d'un
-valet de ferme des années 1830, des décennies avant qu'une telle
-cosmologie ait une quelconque circulation respectable dans l'air du
-temps, et pointant avec une franchise déconcertante vers l'architecture
-cosmique que les livres raëliens décriraient en 1973. La lecture
+valet de ferme des années 1830. La pluralité des mondes faisait
+elle-même alors l'objet d'un débat vivant : les *Entretiens sur la
+pluralité des mondes* de Fontenelle étaient imprimés depuis 1686, et
+Thomas Paine avait retourné l'idée contre la rédemption chrétienne dans
+*Le Siècle de la raison*. Le poids de la charge utile porte donc sur la
+divinité incarnée, plurielle et ascendante plutôt que sur les seuls
+mondes, et cette divinité pointe avec une franchise déconcertante vers
+l'architecture cosmique que les livres raëliens décriraient en 1973. La lecture
 {% wiki(slug="elohim") %}élohimique{% end %} que fait le corpus du dépôt
 mormon est développée dans le catalogue et ses entrées compagnes ; ce qui
 compte ici est la *forme* de la notation — un contenu que le milieu du

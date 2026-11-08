@@ -19,7 +19,7 @@ alternative_names = ["Πέτρα (grec « rocher »)", "רקמו (nabatéen Raqm
 
 [extra.infobox]
 type = "Capitale caravanière nabatéenne rupestre ; site du patrimoine mondial de l'UNESCO ; centre géographique de l'hypothèse de Pétra comme Mecque originelle"
-location = "Wadi Musa, gouvernorat de Maʿan, Jordanie méridionale ; à environ 1 200 km au nord de l'actuelle La Mecque"
+location = "Wadi Musa, gouvernorat de Maʿan, Jordanie méridionale ; à environ 1 080 km au nord de l'actuelle La Mecque"
 nabataean_name = "רקמו (Raqmū / Reqem), la désignation propre du royaume ; « Pétra » (πέτρα, « rocher ») est le nom gréco-romain"
 flourished = "v. IVe siècle AEC – IIe siècle EC comme capitale nabatéenne ; annexée par Rome en 106 EC (Provincia Arabia) ; déclin après les séismes de 363 EC et postérieurs"
 mainstream_status = "Capitale du royaume nabatéen ; grande cité caravanière hellénistico-romaine ; population mêlée païenne et chrétienne jusqu'à l'ère byzantine"

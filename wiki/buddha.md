@@ -10,7 +10,7 @@ same_as = ["https://www.wikidata.org/wiki/Q9441", "https://en.wikipedia.org/wiki
 editorial_pass = "2026-05"
 claim_type = "direct"
 core_claim_ids = ["woh-claim-0077", "woh-claim-0078", "woh-claim-0038", "woh-claim-0048", "woh-claim-0043", "woh-claim-0027"]
-core_versions = { woh-claim-0077 = "0.1.0", woh-claim-0078 = "0.1.0", woh-claim-0038 = "0.1.1", woh-claim-0048 = "0.2.0", woh-claim-0043 = "0.1.0", woh-claim-0027 = "0.1.0" }
+core_versions = { woh-claim-0077 = "0.1.0", woh-claim-0078 = "0.1.1", woh-claim-0038 = "0.1.1", woh-claim-0048 = "0.2.0", woh-claim-0043 = "0.1.0", woh-claim-0027 = "0.1.0" }
 category = "Theology & Traditions"
 entry_type = "biographical"
 alternative_names = ["Siddhārtha Gautama (Sanskrit)", "Siddhattha Gotama (Pali)", "Śākyamuni ('sage of the Śākyas')", "the Tathāgata", "the Blessed One (Bhagavat)", "Bouddha (French, as in the canon)"]
@@ -35,6 +35,7 @@ references = [
     { title = "Inscriptions of Asoka", author = "E. Hultzsch", date = "1925" },
     { id = "gethin-foundations-of-buddhism", locator = "Gethin, chapters 1–3: the life of the Buddha as the tradition remembers it; the four truths; no-self; nirvāṇa" },
     { id = "buswell-lopez-princeton-buddhism", locator = "entries on Śākyamuni, buddha, Lumbinī, Bodh Gayā and parinirvāṇa" },
+    { id = "digha-nikaya-26-sujato", locator = "DN 26, segments dn26:23–25: Ketumatī, the king Saṅkha and the arising of Metteyya" },
     { id = "williams-mahayana", locator = "the Mahāyāna doctrine of many buddhas, past, present and in other world systems" },
     { title = "The Dating of the Historical Buddha / Die Datierung des historischen Buddha", author = "Heinz Bechert (ed.)", date = "1991–1997" },
     { title = "The earliest Buddhist shrine: excavating the birthplace of the Buddha, Lumbini (Nepal)", author = "R. A. E. Coningham et al.", date = "2013" },
@@ -120,7 +121,7 @@ In the first Message, *[The Book Which Tells the Truth](/library/the-book-which-
 
 **The lists follow the audience.** A deflationary reading holds that the canon's named lists track the religious map of a 1970s French audience and record no independent fact about the figures, as the same objection argues for the prophetic sequence as a whole. A related objection holds that prophet sequences are developments internal to the traditions, Islamic prophetology above all, and that the canon generalizes a pattern they built for their own reasons. Susan J. Palmer, the sociologist of religion whose fieldwork monograph *Aliens Adored* (2004) is the principal academic account of the movement, provides the context in which such readings are argued.{{ cite(id="aliens-adored", text="[11]", title="Palmer, Aliens Adored: Raël's UFO Religion") }}
 
-**No western birth.** The strongest objection to the "new Buddha" reading concerns the canon's characterization of Buddhist writings. The classical accounts of the next buddha are generally reported to place him in India in a remote future age, which would mean the canon describes the writings in a way they do not bear out. The project library holds no Buddhist primary text on the future buddha, so this check against the sources is still outstanding.
+**No western birth.** The strongest objection to the "new Buddha" reading concerns the canon's characterization of Buddhist writings. The Pāli account of the next buddha, the Discourse on the Wheel-Turning Monarch (Dīgha Nikāya 26), places Metteyya's arising in Ketumatī, the renamed Varanasi, in an age when humans live 80,000 years, and nothing in it places him in the West. Read against that text, the canon describes the Buddhist writings in a way the Pāli account does not bear out. Later Buddhist literature on the future buddha has not been checked.
 
 **Exhortation, not identification.** The address of ETTMTTP-3:226–229 can be read as exhortation, urging readers of each tradition to take the Message seriously, with no doctrine of identification behind it. On that reading, drawing a designation of Raël out of the Buddhist clause over-reads rhetoric.
 

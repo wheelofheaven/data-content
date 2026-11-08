@@ -10,7 +10,7 @@ same_as = ["https://www.wikidata.org/wiki/Q42904", "https://en.wikipedia.org/wik
 editorial_pass = "2026-05"
 claim_type = "direct"
 core_claim_ids = ["woh-claim-0077", "woh-claim-0079", "woh-claim-0027", "woh-claim-0038"]
-core_versions = { woh-claim-0077 = "0.1.0", woh-claim-0079 = "0.1.0", woh-claim-0027 = "0.1.0", woh-claim-0038 = "0.1.1" }
+core_versions = { woh-claim-0077 = "0.1.0", woh-claim-0079 = "0.1.1", woh-claim-0027 = "0.1.0", woh-claim-0038 = "0.1.1" }
 category = "Theology & Traditions"
 entry_type = "biographical"
 alternative_names = ["Joseph Smith Jr.", "the Prophet Joseph Smith (Latter-day Saint usage)", "Joseph the Seer (Latter-day Saint usage)"]

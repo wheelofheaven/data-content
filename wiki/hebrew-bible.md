@@ -13,7 +13,7 @@ editorial_pass = "2026-07"
 entry_type = "text"
 claim_type = "framework"
 core_claim_ids = ["woh-claim-0053", "woh-claim-0076"]
-core_versions = { woh-claim-0053 = "0.1.0", woh-claim-0076 = "0.1.1" }
+core_versions = { woh-claim-0053 = "0.1.0", woh-claim-0076 = "0.1.2" }
 alternative_names = ["Tanakh (Hebrew: תָּנָ״ךְ)", "the Hebrew Scriptures", "the Jewish Bible", "Mikra (Hebrew: מִקְרָא, 'reading')", "the Old Testament (Christian-tradition designation)", "the Hebrew Old Testament", "the canonical Hebrew Scriptures"]
 timeline = ["multi-age"]
 

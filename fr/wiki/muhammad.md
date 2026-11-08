@@ -1,6 +1,6 @@
 +++
 title = "Mahomet"
-description = "Mahomet (arabe : مُحَمَّد, Muḥammad) est le prophète fondateur de l'islam, dont la transmission coranique articule monothéisme strict et continuité prophétique. Dans le corpus Wheel of Heaven, il est lu comme l'un des derniers grands relais de la lignée prophétique élohimique."
+description = "Mahomet (arabe : مُحَمَّد, Muḥammad) est le prophète fondateur de l'islam, dont la transmission coranique articule monothéisme strict et continuité prophétique. Le canon raëlien nomme Mahomet parmi les messagers des Élohim, assis à la table de Yahvé."
 template = "wiki-page.html"
 toc = true
 

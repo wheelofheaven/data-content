@@ -19,7 +19,7 @@ alternative_names = ["Πέτρα (griechisch „Fels“)", "רקמו (nabatäisc
 
 [extra.infobox]
 type = "In den Fels gehauene nabatäische Karawanen-Hauptstadt; UNESCO-Weltkulturerbe; geografisches Zentrum der Hypothese von Petra als ursprünglichem Mekka"
-location = "Wadi Musa, Gouvernement Ma'an, Süden Jordaniens; etwa 1.200 km nördlich des heutigen Mekka"
+location = "Wadi Musa, Gouvernement Ma'an, Süden Jordaniens; etwa 1.080 km nördlich des heutigen Mekka"
 nabataean_name = "רקמו (Raqmū / Reqem), die Eigenbezeichnung des Königreichs; „Petra“ (πέτρα, „Fels“) ist der griechisch-römische Name"
 flourished = "ca. 4. Jh. v. u. Z. – 2. Jh. n. u. Z. als nabatäische Hauptstadt; 106 n. u. Z. von Rom annektiert (Provincia Arabia); Niedergang nach den Erdbeben von 363 n. u. Z. und später"
 mainstream_status = "Hauptstadt des nabatäischen Königreichs; bedeutende hellenistisch-römische Karawanenstadt; gemischt heidnisch-christliche Bevölkerung bis in die byzantinische Ära"

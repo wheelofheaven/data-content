@@ -886,10 +886,15 @@ Lesart markiert: ein greifbarer, verkörperter Gott; erhöhte Menschen, die
 ihrerseits zu Göttern werden; ein Christus, der „Welten ohne Zahl“ besucht
 hat; eine benannte Sternregion, Kolob, die mit der göttlichen Verwaltung
 verbunden ist — Theologie der Vielheit der Welten, tragend und lehrmäßig
-zentral, von einem Landarbeiter in den 1830er Jahren, Jahrzehnte bevor eine
-solche Kosmologie irgendeine angesehene Verbreitung hatte, und mit
-verblüffender Direktheit auf die kosmische Architektur weisend, die die
-raëlianischen Bücher 1973 beschreiben sollten. Die
+zentral, von einem Landarbeiter in den 1830er Jahren. Die Vielheit der
+Welten war damals selbst Gegenstand einer lebhaften Debatte: Fontenelles
+*Dialoge über die Mehrheit der Welten* lagen seit 1686 gedruckt vor, und
+Thomas Paine wandte die Idee in *Das Zeitalter der Vernunft* gegen die
+christliche Erlösungslehre. Das Gewicht des Ertrags liegt daher auf der
+verkörperten, pluralen, aufsteigenden Göttlichkeit und nicht auf den
+Welten allein, und diese Göttlichkeit weist mit verblüffender Direktheit
+auf die kosmische Architektur, die die raëlianischen Bücher 1973
+beschreiben sollten. Die
 {% wiki(slug="elohim") %}Elohim{% end %}-Lesart des Korpus zum Depot der HLT
 wird im Katalog und seinen Begleiteinträgen entwickelt; was hier zählt, ist
 die *Gestalt* der Bewertung — Gehalt, den das Milieu des Gründers nur mühsam

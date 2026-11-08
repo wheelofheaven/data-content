@@ -19,7 +19,7 @@ alternative_names = ["Πέτρα (griego 'roca')", "רקמו (nabateo Raqmū)", 
 
 [extra.infobox]
 type = "Capital caravanera nabatea excavada en la roca; Patrimonio de la Humanidad de la UNESCO; centro geográfico de la hipótesis de Petra-como-Meca-original"
-location = "Wadi Musa, gobernación de Ma'an, sur de Jordania; aproximadamente 1.200 km al norte de la actual La Meca"
+location = "Wadi Musa, gobernación de Ma'an, sur de Jordania; aproximadamente 1.080 km al norte de la actual La Meca"
 nabataean_name = "רקמו (Raqmū / Reqem), la designación propia del reino; 'Petra' (πέτρα, 'roca') es el nombre grecorromano"
 flourished = "c. siglo IV a. e. c. – siglo II e. c. como capital nabatea; anexionada por Roma en el 106 e. c. (Provincia Arabia); declinó tras el terremoto del 363 e. c. y posteriores"
 mainstream_status = "Capital del reino nabateo; importante ciudad caravanera helenístico-romana; población mixta pagana-cristiana hasta la era bizantina"

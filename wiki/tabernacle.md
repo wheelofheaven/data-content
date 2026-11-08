@@ -9,7 +9,7 @@ toc = true
 editorial_pass = "2026-05"
 claim_type = "framework"
 core_claim_ids = ["woh-claim-0075", "woh-claim-0040", "woh-claim-0069", "woh-claim-0053"]
-core_versions = { woh-claim-0075 = "0.1.1", woh-claim-0040 = "0.1.0", woh-claim-0069 = "0.1.0", woh-claim-0053 = "0.1.0" }
+core_versions = { woh-claim-0075 = "0.1.2", woh-claim-0040 = "0.1.0", woh-claim-0069 = "0.1.0", woh-claim-0053 = "0.1.0" }
 same_as = ["https://en.wikipedia.org/wiki/Tabernacle"]
 category = "Places & Locations"
 entry_type = "site"

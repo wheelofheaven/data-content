@@ -9,7 +9,7 @@ toc = true
 editorial_pass = "2026-05"
 claim_type = "framework"
 core_claim_ids = ["woh-claim-0076", "woh-claim-0018", "woh-claim-0012", "woh-claim-0017", "woh-claim-0009", "woh-claim-0053"]
-core_versions = { woh-claim-0076 = "0.1.1", woh-claim-0018 = "0.1.0", woh-claim-0012 = "0.1.0", woh-claim-0017 = "0.1.0", woh-claim-0009 = "0.1.1", woh-claim-0053 = "0.1.0" }
+core_versions = { woh-claim-0076 = "0.1.2", woh-claim-0018 = "0.1.0", woh-claim-0012 = "0.1.0", woh-claim-0017 = "0.1.0", woh-claim-0009 = "0.1.1", woh-claim-0053 = "0.1.0" }
 same_as = ["https://en.wikipedia.org/wiki/Hebrews"]
 category = "Peoples & Groups"
 entry_type = "people"

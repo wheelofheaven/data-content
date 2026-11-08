@@ -895,9 +895,13 @@ convierten a su vez en dioses; un Cristo que ha visitado «incontables
 mundos»; una región estelar con nombre, Kolob, asociada a la
 administración divina: teología de la pluralidad de los mundos,
 estructural y doctrinalmente central, de un peón agrícola de la década de
-1830, décadas antes de que semejante cosmología tuviera curso respetable
-en el ambiente, y que apunta con desconcertante franqueza a la
-arquitectura cósmica que los libros raelianos describirían en 1973. La
+1830. La pluralidad de los mundos era ya por entonces un debate vivo: las
+*Conversaciones sobre la pluralidad de los mundos* de Fontenelle se
+venían imprimiendo desde 1686, y Thomas Paine volvió la idea contra la
+redención cristiana en *La edad de la razón*. El peso de la carga recae,
+por tanto, en la divinidad corpórea, plural y ascendente más que en los
+mundos por sí solos, y esa divinidad apunta con desconcertante franqueza
+a la arquitectura cósmica que los libros raelianos describirían en 1973. La
 lectura {% wiki(slug="elohim") %}Elohim{% end %} del corpus sobre el
 depósito SUD se desarrolla en el catálogo y en sus entradas asociadas; lo
 que importa aquí es la *forma* de la puntuación: contenido que el entorno

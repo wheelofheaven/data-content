@@ -13,8 +13,8 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "inferred"
-core_claim_ids = ["woh-claim-0018"]
-core_versions = { woh-claim-0018 = "0.1.0" }
+core_claim_ids = ["woh-claim-0018", "woh-claim-0076"]
+core_versions = { woh-claim-0018 = "0.1.0", woh-claim-0076 = "0.1.2" }
 alternative_names = ["Garden of Eden", "gan-ʿĒden", "גַּן־עֵדֶן", "Paradise"]
 timeline = ["leo", "cancer"]
 image = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.webp"
@@ -276,7 +276,7 @@ Eden is the textual anchor of the framework's entire reading of the Hebrew Bible
 
 ### The genealogical-textual privilege
 
-Eden is also the genealogical anchor of the corpus's specific position on textual privilege. The framework treats the Hebrew Bible as the most accurate of the surviving ancient records of the Elohim civilization's work on Earth, on the grounds that the Hebrews are the line treated in the Raëlian source material as the direct genetic descendants of the Israel-team-synthesized first humans. This privileged textual position is grounded in the Eden episode specifically: the Israel team's operations in the Eden region produced the lineage that became the Hebrews, and that lineage's continuous textual tradition preserved the operational events with greater fidelity than the parallel traditions of the other six lineages whose textual records have decayed across the post-Flood transmission. The corpus's relationship to the Hebrew Bible — taking its narratives as accurate compressed records, rather than as theological mythology or as redactional composition — depends on this Eden-grounded genealogical privilege.
+Eden is also the genealogical anchor of the corpus's specific position on textual privilege. The framework treats the Hebrew Bible as the most accurate of the surviving ancient records of the Elohim civilization's work on Earth, on the grounds that, in the Raëlian source material, the people of Israel are the humans made by the Israel team and, through the unions of the sons of Elohim with the daughters of men, the creators' "direct descendants" (the canon makes no genetic claim; see [Hebrews](../hebrews/)). This privileged textual position is grounded in the Eden episode specifically: the Israel team's operations in the Eden region produced the lineage that became the Hebrews, and that lineage's continuous textual tradition preserved the operational events with greater fidelity than the parallel traditions of the other six lineages whose textual records have decayed across the post-Flood transmission. The corpus's relationship to the Hebrew Bible — taking its narratives as accurate compressed records, rather than as theological mythology or as redactional composition — depends on this Eden-grounded genealogical privilege.
 
 ## Modern reinterpretations
 

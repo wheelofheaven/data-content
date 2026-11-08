@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 core_claim_ids = ["woh-claim-0076"]
-core_versions = { woh-claim-0076 = "0.1.1" }
+core_versions = { woh-claim-0076 = "0.1.2" }
 same_as = ["https://www.wikidata.org/wiki/Q9288", "https://en.wikipedia.org/wiki/Hebrew_language", "https://www.britannica.com/topic/Hebrew-language"]
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
