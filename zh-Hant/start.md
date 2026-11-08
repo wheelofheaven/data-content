@@ -23,7 +23,7 @@ Wheel of Heaven 提出：《創世記》稱為{% wiki(slug="elohim") %}耶洛因
 這一提議來自雷爾派訊息，由克勞德·沃里勒翁（雷爾）自 1974 年起出版。
 本網站透過這一透鏡閱讀古代材料，並公開說明這一點。
 本網站由一位{% wiki(slug="raelism") %}雷爾派{% end %}作者以筆名撰寫，並借助 AI 輔助；它並非國際雷爾運動的官方出版物。
-詳情見[關於](/zh-Hant/about/)與[作者](/zh-Hant/author/zara-zinsfuss/)頁面。
+詳情見[關於](/zh-Hant/about/)與[作者](/author/zara-zinsfuss/)頁面。
 
 ## 2. 如何分辨資料與詮釋
 

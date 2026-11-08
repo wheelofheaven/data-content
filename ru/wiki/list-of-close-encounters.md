@@ -397,7 +397,7 @@ Obsequens, Julius. *Prodigies* (*Liber Prodigiorum*). 4th century CE. [Late anti
 
 Aubeck, Chris, and the Magoniax Project. [Pre-1947 case compilation; ongoing.]
 
-Magonia (project topic page). Wheel of Heaven. <https://www.wheelofheaven.world/resources/topics/magonia/>
+Contact and UFOs (project topic page). Wheel of Heaven. <https://www.wheelofheaven.world/topics/contact-and-ufos/>
 
 "Close encounter." *Wikipedia*. <https://en.wikipedia.org/wiki/Close_encounter>
 
