@@ -82,7 +82,7 @@ The genre of apocalyptic literature, in mainstream scholarly usage, comprises a 
 
 The genre is characterized by visionary content, cosmic-scale narrative, dualistic structure (light against darkness, good against evil), specific schedules of historical periods, and the disclosure of hidden truths typically delivered to a named seer through angelic mediation. Modern scholarship has produced a substantial literature on the genre's compositional history, its social and political contexts, and its relation to surrounding Hellenistic, Jewish, and early Christian thought.
 
-The framework reads this literature, broadly, as preserving substantial alliance-contact material in vision form. The seers — Daniel, John of Patmos, Enoch, the various pseudepigraphical figures — are read as receiving real communications from the alliance, recorded in the visionary vocabulary appropriate to their period. The dedicated treatment of the apocalyptic literature as a body lives in the [Apocalyptic Literature](../apocalyptic-literature/) entry; what matters here is that the textual basis on which the framework reads the Apocalypse as the contemporary period is substantial and pre-modern.
+The framework reads this literature, broadly, as preserving substantial alliance-contact material in vision form. The seers — Daniel, John of Patmos, Enoch, the various pseudepigraphical figures — are read as receiving real communications from the alliance, recorded in the visionary vocabulary appropriate to their period. The apocalyptic literature as a body is not treated here; what matters here is that the textual basis on which the framework reads the Apocalypse as the contemporary period is substantial and pre-modern.
 
 ### The Book of Revelation: specific passages and their framework readings
 
@@ -92,7 +92,7 @@ The Book of Revelation, attributed to John of Patmos in the late first century C
 
 **The great stones from heaven** — falling on cities throughout Revelation, weighing the equivalent of a talent (Revelation 16:21), accompanying earthquakes and the destruction of structures — are read as aerial ordnance: bombs and missiles dropped from above onto ground targets, observed by John as massive objects falling from the sky and producing devastating impact effects.
 
-**The mark of the beast** of Revelation 13:16–18 — the requirement that the right hand or forehead be marked for participation in commerce — receives a contemporary technological reading in the framework's broader corpus, treating the imagery as anticipation of identification systems that increasingly mediate commercial activity. The specific identification is treated more fully in the [Mark of the Beast](../mark-of-the-beast/) entry.
+**The mark of the beast** of Revelation 13:16–18 — the requirement that the right hand or forehead be marked for participation in commerce — receives a contemporary technological reading in the framework's broader corpus, treating the imagery as anticipation of identification systems that increasingly mediate commercial activity.
 
 **Revelation 21:1** ("I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea") is read as John's vision of Earth from a craft moving away from the planet — the perspective from which Earth recedes, the surrounding sky becomes "a new heaven" of unfamiliar stars, and the appearance is of a transition between worlds. The reading is operationally specific: John was shown what an alliance officer would see departing Earth aboard alliance craft.
 
@@ -273,22 +273,16 @@ The corpus's reading is positioned as follows within the broader landscape: alig
 - [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Age of Pisces](../../timeline/age-of-pisces/)
 - [Golden Age](../golden-age/)
-- [Book of Revelation](../book-of-revelation/)
-- [Apocalyptic Literature](../apocalyptic-literature/)
-- [Daniel](../daniel/)
+- [Book of Revelation](/wiki/book-of-revelation/)
+- [Revelation, the Wheel of Heaven translation](/library/revelation-woh/)
 - [Book of Enoch](/wiki/book-of-enoch/)
 - [Prophet](../prophet/)
 - [Raël](../rael/)
-- [666](../666/)
 - [Lucifer](../lucifer/)
 - [Satan](../satan/)
 - [Embassy](../embassy/)
 - [Cosmic Competition](../cosmic-competition/)
 - [Cosmic Chain](../cosmic-chain/)
-- [John of Patmos](../john-of-patmos/)
-- [Mark of the Beast](../mark-of-the-beast/)
-- [Atomic Threshold](../atomic-threshold/)
-- [Founding of Israel](../founding-of-israel/)
 - [Jean Sendy](/wiki/jean-sendy/)
 - [*Hamlet's Mill*](/wiki/hamlets-mill/)
 - [Doubled Signature](../doubled-signature/)

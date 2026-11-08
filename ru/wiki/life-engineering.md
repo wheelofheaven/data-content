@@ -157,7 +157,7 @@ The dedicated treatment lives in the [Synthetic biology](../synthetic-biology/) 
 
 ### Synthetic genomics
 
-Synthetic genomics is the construction of complete genomes from chemically synthesised DNA — the most ambitious wing of life engineering and the one most directly comparable to the source material's account of the Elohim's work. Where genetic engineering modifies existing genomes and synthetic biology designs sub-systems within existing organisms, synthetic genomics constructs the genome itself, from the ground up, from designed sequence.
+{% wiki(slug="synthetic-genomics") %}Synthetic genomics{% end %} is the construction of complete genomes from chemically synthesised DNA — the most ambitious wing of life engineering and the one most directly comparable to the source material's account of the Elohim's work. Where genetic engineering modifies existing genomes and synthetic biology designs sub-systems within existing organisms, synthetic genomics constructs the genome itself, from the ground up, from designed sequence.
 
 The field's principal achievements have been the products of the J. Craig Venter Institute and its collaborators across the 2000s and 2010s.
 
@@ -190,7 +190,6 @@ The relevance of xenobiology to questions of biology beyond Earth is direct. If 
 
 The framework's interest in xenobiology is less direct than its interest in synthetic genomics, since the source material does not describe the Elohim as using non-standard biochemistry. But the field's broader significance — establishing that the molecular substrate of life on Earth is one possibility among many — is relevant to the framework's reading of the cosmic chain. If creator civilisations exist that have produced multiple humanities on multiple worlds, the question of whether those humanities share Earth's molecular biology or differ in their basic chemistry is one that xenobiology is uniquely positioned to inform.
 
-The dedicated treatment lives in the [Xenobiology](../xenobiology/) entry.
 
 ## Adjacent and supporting fields
 
@@ -281,9 +280,9 @@ The framework recognises three distinct readings of the convergence between cont
 
 **The cultural-influence reading** holds that the convergence reflects Vorilhon's exposure to the scientific atmosphere of his time. Recombinant DNA was being discussed in French scientific journalism in 1973; the broader cultural awareness of biological design was rising; Vorilhon, even without specialist training, could have absorbed enough of this atmosphere to incorporate a plausible-sounding biological prediction into his account. On this reading, the convergence is not evidence for the source's broader claims but evidence for the source's cultural location at the moment of its production. This is the reading that historical-critical engagement with the Raëlian text would naturally develop.
 
-**The framework reading** holds that the convergence is what it appears to be: a substantive prediction from a source that was in a position to make such a prediction, validated by the subsequent development of human capability along the lines the source described. The framework reading does not depend on the coincidence and cultural-influence readings being disprovable in any strict sense — those readings can be sustained by sufficiently determined commitment to the alternative interpretation — but it treats the prediction's specificity, timing, and structural alignment with the source's broader account as evidence that the source was reporting something real rather than constructing plausible-sounding fiction.
+**The framework reading** holds that the convergence is what it appears to be: a specific prediction from a source that was in a position to make such a prediction, validated by the subsequent development of human capability along the lines the source described. The framework reading does not depend on the coincidence and cultural-influence readings being disprovable in any strict sense — those readings can be sustained by sufficiently determined commitment to the alternative interpretation — but it treats the prediction's specificity, timing, and structural alignment with the source's broader account as evidence that the source was reporting something real rather than constructing plausible-sounding fiction.
 
-The corpus adopts the framework reading. The grounds for this adoption are not that the alternative readings have been refuted (they have not been and probably cannot be) but that the framework reading is the one that takes the source material seriously as a historical document making substantive claims, and that the subsequent fifty years of scientific development have produced exactly the trajectory the source described. The framework's other lines of evidence — the textual reading of the Hebrew Bible developed in the [Genesis](../genesis/) entry, the comparative analysis of ancient creation traditions, the chronological reading developed in the precessional-age entries — are integrated with the life-engineering convergence into a single overall reading that the corpus treats as more parsimonious than the available alternatives.
+The corpus adopts the framework reading. The grounds for this adoption are not that the alternative readings have been refuted (they have not been and probably cannot be) but that the framework reading is the one that takes the source material seriously as a historical document making concrete claims, and that the subsequent fifty years of scientific development have produced exactly the trajectory the source described. The framework's other lines of evidence — the textual reading of the Hebrew Bible developed in the [Genesis](../genesis/) entry, the comparative analysis of ancient creation traditions, the chronological reading developed in the precessional-age entries — are integrated with the life-engineering convergence into a single overall reading that the corpus treats as more parsimonious than the available alternatives.
 
 ### The structural significance to the Aquarian transition
 
@@ -305,7 +304,7 @@ The source material also describes the eventual development of the program from 
 
 The framework's reading distinguishes between what the convergence has settled and what it has not.
 
-**What the convergence has settled, on the framework's reading:** that the source material made a specific and substantive prediction about humanity's near-future developmental trajectory, and that the trajectory has unfolded in the predicted direction. This is a structural observation about the relationship between source-text and subsequent history; it does not depend on the framework's broader reading being correct.
+**What the convergence has settled, on the framework's reading:** that the source material made a specific prediction about humanity's near-future developmental trajectory, and that the trajectory has unfolded in the predicted direction. This is a structural observation about the relationship between source-text and subsequent history; it does not depend on the framework's broader reading being correct.
 
 **What the convergence has not settled:** whether the source's account of the Elohim's own creative work, of which the present-day human capability is the convergent local instance, is itself historically accurate. The convergence establishes that the source predicted something real about humanity's future. It does not, on its own, establish that the source's account of the Elohim's past is equally real. That further question depends on additional lines of evidence the framework develops elsewhere — the textual readings of the Hebrew Bible and other ancient sources, the chronological readings of the precessional ages, the comparative readings of ancient creation traditions, and the broader synthesis the corpus develops across its full set of entries and the long-form chapter material.
 
@@ -319,7 +318,7 @@ The framework's interest in the life-engineering convergence sits within a broad
 
 The broader ancient-astronaut interpretive tradition has, since von Däniken's *Chariots of the Gods?* (1968), attended to the question of whether the biological diversity of Earth could plausibly be a product of natural evolution alone or whether some form of intelligent design — by visiting non-terrestrial intelligences — is required. The corpus's reading is positioned within this broader tradition but is more specific in its claims and more disciplined in its sourcing. Where the broader ancient-astronaut literature has often treated biological design as a general hypothesis without specific developmental commitments, the corpus's reading treats it as a specific historical claim — the Earth project of c. 21,810 BCE through the present — supported by the convergence between contemporary human capability and the source material's account.
 
-The Sitchin tradition, in particular, has treated the Anunnaki of the Sumerian sources as the genetic engineers of humanity through the modification of an existing hominid stock — a position that differs from the framework's reading in several respects. The framework treats the synthesis of all terrestrial life as the Elohim's work rather than only the modification of pre-existing hominids; the framework reads the temporal placement of human creation in the Age of Leo (c. 11,375 BCE) rather than in the much earlier period Sitchin assigns; and the framework's reading is grounded in the Raëlian source material as primary text rather than in the Sumerian sources read through Sitchin's particular interpretive lens.
+The Sitchin tradition, in particular, has treated {% wiki(slug="anunnaki") %}the Anunnaki{% end %} of the Sumerian sources as the genetic engineers of humanity through the modification of an existing hominid stock — a position that differs from the framework's reading in several respects. The framework treats the synthesis of all terrestrial life as the Elohim's work rather than only the modification of pre-existing hominids; the framework reads the temporal placement of human creation in the Age of Leo (c. 11,375 BCE) rather than in the much earlier period Sitchin assigns; and the framework's reading is grounded in the Raëlian source material as primary text rather than in the Sumerian sources read through Sitchin's particular interpretive lens.
 
 ### Intelligent-design positions in mainstream discourse
 
@@ -347,11 +346,11 @@ The framework's reading is consistent with the direction of Ball's argument. The
 
 ## See also
 
+- [Genesis Toolbox](/wiki/genesis-toolbox/)
 - [Genesis](../genesis/)
 - [Genetic engineering](../genetic-engineering/)
 - [Synthetic biology](../synthetic-biology/)
 - [Synthetic genomics](../synthetic-genomics/)
-- [Xenobiology](../xenobiology/)
 - [Elohim](../elohim/)
 - [Tree of Life](../tree-of-life/)
 - [Age of Aquarius](../../timeline/age-of-aquarius/)

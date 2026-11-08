@@ -21,7 +21,7 @@ biblical_specifications = "Single piece of hammered pure gold; central shaft wit
 biblical_passages = "Exodus 25:31–40 (specifications); Exodus 37:17–24 (construction by Bezalel); Numbers 8:1–4 (lighting protocol); Zechariah 4:1–14 (the vision of the lampstand with seven lamps); 1 Kings 7:49 (Solomon's ten menorot)"
 mainstream_significance = "Principal furnishing of the Tabernacle and the Temple; one of the oldest continuously used Jewish religious symbols; emblem of the State of Israel since 1949"
 framework_significance = "Operational memory of seven Elohim bases on elevated terrain, connected through a central communications installation (the original referent of the seven-branched design)"
-related_objects = "[Ark of the Covenant](/wiki/ark-of-the-covenant/); [Tabernacle](../tabernacle/); [Temple of Jerusalem](../temple/); the *hanukkiah* (nine-branched Hanukkah lamp, a distinct object)"
+related_objects = "[Ark of the Covenant](/wiki/ark-of-the-covenant/); Tabernacle; Temple of Jerusalem; the *hanukkiah* (nine-branched Hanukkah lamp, a distinct object)"
 arch_of_titus = "Surviving Roman-era depiction (c. 81 CE) showing the actual Second Temple menorah carried in triumphal procession after the destruction of Jerusalem in 70 CE"
 +++
 
@@ -98,7 +98,7 @@ The framework's reading of the Menorah is developed principally from a specific 
 >
 > — *Le Livre qui dit la vérité*, Vorilhon (1974); English in *Message from the Designers*
 
-The framework reads the passage as making three substantive operational claims that the corpus's interpretive work develops.
+The framework reads the passage as making three operational claims that the corpus's interpretive work develops.
 
 ### The seven Elohim bases on elevated terrain
 
@@ -180,10 +180,7 @@ The Menorah entry surfaces several open questions for the framework's broader in
 - [Swastika](../swastika/)
 - [Raelian Symbol of Infinity](../raelian-symbol-of-infinity/)
 - [Ark of the Covenant](/wiki/ark-of-the-covenant/)
-- [Tabernacle](../tabernacle/)
-- [Temple of Jerusalem](../temple/)
 - [Moses](../moses/)
-- [Sinai](../sinai/)
 - [Zechariah](../zechariah/)
 - [Apocalypse](../apocalypse/)
 - [Yahweh](../yahweh/)

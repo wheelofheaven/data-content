@@ -169,7 +169,7 @@ The 1 Kings 19 Horeb narrative is operationally rich on the framework's reading.
 
 The framework's reading of the 1 Kings 18 Mount Carmel contest treats the **fire of YHWH falling on the soaked altar** as a specific operational intervention. The narrative's features support an operational reading: the public witnesses (Ahab, the prophets of Baal, "all the people"), the specific physical setting (a stone altar with a surrounding trench, twelve jars of water poured over the wood and sacrifice), the predicted timing (immediately following Elijah's brief prayer), and the precise effects (consumption of the sacrifice, the wood, the stones, the dust, and the trench-water). The framework's adopted reading is that the fire was an operational intervention conducted from an aerial platform — possibly the same orbital craft involved in the later 2 Kings 2 ascension, possibly a different installation — with the specific physical mechanism (directed energy, focused electromagnetic radiation, conventional incendiary projectile) left underdetermined by the canonical text.
 
-The episode's theological significance — establishing YHWH as the operationally effective deity against the operationally ineffective Baal — depends on the framework's reading on the actual occurrence of the operational intervention. The corpus's broader work on the Hebrew Bible's reading of Baal (developed in the dedicated [Baal](../baal/) entry) treats the Baal-cult prophets as not connected to an operational referent in the same way as the YHWH prophets — explaining their inability to call down comparable fire — though the question of what specifically the Baal cult was operationally connected to is treated as open.
+The episode's theological significance — establishing YHWH as the operationally effective deity against the operationally ineffective Baal — depends on the framework's reading on the actual occurrence of the operational intervention. The corpus's broader reading of Baal in the Hebrew Bible treats the Baal-cult prophets as not connected to an operational referent in the same way as the YHWH prophets — explaining their inability to call down comparable fire — though the question of what specifically the Baal cult was operationally connected to is treated as open.
 
 ### The Elijah-Enoch translation pattern
 
@@ -186,9 +186,9 @@ The Elijah narrative connects to several specific aspects of the broader corpus'
 
 - **The close-encounters catalogue.** The 2 Kings 2:11 ascension is one of the principal pre-modern entries in the [List of close encounters](../list-of-close-encounters/), classified as a CE4 event with substantial canonical-text preservation. The catalogue's broader pattern of CE4 events across the antiquity period (Akhenaton 1347 BCE, Elijah c. 850 BCE, Ezekiel 593 BCE, the various Roman-period prodigies) suggests a recurring contact pattern that the Elijah narrative exemplifies.
 - **The Moses-Elijah parallel.** The deliberate textual echoing of the Mosaic precedent in the Elijah narrative (the forty-day fast, the Horeb/Sinai theophany, the cave location, the angel-feeding pattern) is read by the framework as preserving a deliberate operational continuity between the Mosaic and Elijah periods. The two prophets together constitute the framework's principal Iron Age prophetic-contact figures.
-- **The Elisha succession and the operational lineage.** Elisha's reception of the "double portion of Elijah's spirit" (2 Kings 2:9) and his subsequent fourteen-miracle record (against Elijah's seven) is read by the framework as preserving the continuation of the operational contact tradition into the second half of the 9th century BCE. The dedicated [Elisha](../elisha/) entry develops the operational reading of the Elisha cycle.
+- **The Elisha succession and the operational lineage.** Elisha's reception of the "double portion of Elijah's spirit" (2 Kings 2:9) and his subsequent fourteen-miracle record (against Elijah's seven) is read by the framework as preserving the continuation of the operational contact tradition into the second half of the 9th century BCE. The dedicated Elisha entry develops the operational reading of the Elisha cycle.
 - **The Malachi 4:5 return prophecy.** The eschatological expectation of Elijah's return is read by the framework as preserving operational content about an anticipated future contact event involving the same figure (whose physical removal in 2 Kings 2:11 may have placed him in the Elohim's broader operational sphere, available for subsequent terrestrial return). The framework's reading is open on the specific eschatological-fulfilment question; the canonical-tradition expectation is registered without commitment to a specific timeline.
-- **The mal'akh / messenger pattern.** The Vorilhon chapter's title "Elijah The Messenger" places Elijah within the broader operational category of *mal'akh* / *angelos* figures developed in the corpus's [angels](../angels/) entry. The framework reads the *mal'akh* vocabulary across the Hebrew Bible as preserving operational content about Elohim representatives or human collaborators functioning as terrestrial communications agents, with Elijah as one of the most explicit human-collaborator instances.
+- **The mal'akh / messenger pattern.** The Vorilhon chapter's title "Elijah The Messenger" places Elijah within the broader operational category of *mal'akh* / *angelos* figures developed in the corpus's angels entry. The framework reads the *mal'akh* vocabulary across the Hebrew Bible as preserving operational content about Elohim representatives or human collaborators functioning as terrestrial communications agents, with Elijah as one of the most explicit human-collaborator instances.
 
 ## Open questions
 
@@ -207,22 +207,12 @@ The Elijah entry surfaces several open questions for the framework's broader int
 ## See also
 
 - [Moses](../moses/)
-- [Enoch](../enoch/)
-- [Elisha](../elisha/)
 - [Ezekiel](/wiki/ezekiel/)
-- [Samuel](../samuel/) (the prophet)
-- [Eli](../eli/) (the priest at Shiloh, distinguished from Elijah)
-- [Ahab](../ahab/)
-- [Jezebel](../jezebel/)
-- [Baal](../baal/)
-- [Horeb](../horeb/) / [Sinai](../sinai/)
-- [Mount Carmel](../mount-carmel/)
-- [John the Baptist](../john-the-baptist/)
-- [Transfiguration](../transfiguration/)
-- [Malachi](../malachi/)
+- Samuel (the prophet)
+- Eli (the priest at Shiloh, distinguished from Elijah)
 - [Yahweh](../yahweh/)
 - [Elohim](../elohim/)
-- [Angels](../angels/) (the operational reading of the *mal'akh* / *angelos* vocabulary)
+- Angels (the operational reading of the *mal'akh* / *angelos* vocabulary)
 - [Age of Aries](../../timeline/age-of-aries/)
 - [List of close encounters](../list-of-close-encounters/)
 - [List of exegetic readings](../list-of-exegetic-readings/)

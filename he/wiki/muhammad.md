@@ -46,7 +46,7 @@ Muhammad is the most common given name in the world, borne by approximately 150 
 
 ## In Islamic tradition
 
-The biographical record of Muhammad in the mainstream Islamic tradition is among the most extensively developed historical-biographical sequences of any religious founder. The principal source materials include the Qur'an itself (which is generally read in Islamic tradition as preserving Muhammad's own recitations of the revealed text rather than as a biography), the *Sīrah* literature (the principal biographies, beginning with **Ibn Isḥāq**'s *Sīrat Rasūl Allāh* c. 760 CE, surviving principally in the redaction of **Ibn Hishām** c. 833 CE), the *Maghāzī* literature on Muhammad's military campaigns, the **Hadith** collections compiled in the 9th century CE, and the **Tafsīr** (Qur'anic exegesis) tradition. The standard biographical chronology presented below is the consensus position of the Islamic tradition; specific details vary across the source materials, and modern academic historical-critical scholarship has substantively engaged the question of how reliably the late-source materials preserve early-7th-century historical content.
+The biographical record of Muhammad in the mainstream Islamic tradition is among the most extensively developed historical-biographical sequences of any religious founder. The principal source materials include the Qur'an itself (which is generally read in Islamic tradition as preserving Muhammad's own recitations of the revealed text rather than as a biography), the *Sīrah* literature (the principal biographies, beginning with **Ibn Isḥāq**'s *Sīrat Rasūl Allāh* c. 760 CE, surviving principally in the redaction of **Ibn Hishām** c. 833 CE), the *Maghāzī* literature on Muhammad's military campaigns, the **Hadith** collections compiled in the 9th century CE, and the **Tafsīr** (Qur'anic exegesis) tradition. The standard biographical chronology presented below is the consensus position of the Islamic tradition; specific details vary across the source materials, and modern academic historical-critical scholarship has engaged the question closely of how reliably the late-source materials preserve early-7th-century historical content.
 
 ### Pre-Islamic Arabia and Muhammad's lineage
 
@@ -201,7 +201,7 @@ The framework reads the Council of the Eternals account as supporting the broade
 The framework reads the Qur'an as preserving substantial operational vocabulary that parallels the operational vocabulary the corpus tracks across the Hebrew Bible. Several specific terms warrant attention:
 
 - ***Malak* / *malāʾikah* (angels).** The Arabic *malak* (plural *malāʾikah*) is the direct Arabic cognate of the Hebrew *mal'akh* — "messenger" — that the corpus's broader work reads as preserving operational content about Elohim representatives or operational agents. The Qur'an's *malāʾikah* terminology preserves the same operational referent as the Hebrew *mal'akh* terminology, with Jibrīl as the principal individually-named agent across both traditions.
-- ***Jinn*.** The Arabic *jinn* is the Qur'anic category of intelligent non-human beings, described as having been created from "smokeless fire" (Qur'an 55:15) and as having free will and moral responsibility paralleling that of humans. The framework's reading of the *jinn* is open: the category may preserve operational content about specific non-human contact entities, may reflect pre-Islamic Arabian traditional categories integrated into the Qur'anic worldview, may be a class of entity distinct from both humans and Elohim in the broader operational sphere, or some combination. The dedicated [Jinn](../jinn/) entry treats the question in more detail.
+- ***Jinn*.** The Arabic *jinn* is the Qur'anic category of intelligent non-human beings, described as having been created from "smokeless fire" (Qur'an 55:15) and as having free will and moral responsibility paralleling that of humans. The framework's reading of the *jinn* is open: the category may preserve operational content about specific non-human contact entities, may reflect pre-Islamic Arabian traditional categories integrated into the Qur'anic worldview, may be a class of entity distinct from both humans and Elohim in the broader operational sphere, or some combination. The dedicated Jinn entry treats the question in more detail.
 - ***Rūḥ* (spirit/breath).** The Arabic *rūḥ* is the direct cognate of the Hebrew *ruaḥ* — "spirit, breath, wind" — that the corpus tracks across the Hebrew Bible (particularly *ruaḥ Elohim* in Genesis 1:2 and elsewhere). The Qur'an's use of *rūḥ* terminology — particularly *al-Rūḥ al-Amīn* ("the trustworthy spirit," Qur'an 26:193) and *Rūḥ al-Qudus* ("the spirit of holiness," Qur'an 16:102 and elsewhere) for Jibrīl — preserves the operational continuity with the Hebrew *ruaḥ* tradition.
 - ***Sakīna*.** The Arabic *sakīna* (Qur'an 2:248, 9:26, 9:40, 48:4, 48:18, 48:26) is the cognate of the Hebrew *shekhinah* — the "indwelling presence" that the Hebrew tradition associates with the Ark of the Covenant and the Tabernacle/Temple. The framework's reading of the Hebrew *shekhinah* (developed in the broader corpus work on the Ark of the Covenant) extends to the Qur'anic *sakīna*.
 - ***Ḥijāb*** (in the operational sense of "veil" or "barrier" rather than the contemporary dress sense). The Qur'an's various uses of *ḥijāb* terminology, including in the context of the prophetic communications, preserve operational content about the conditions of contact between the human and Elohim spheres.
@@ -224,11 +224,11 @@ The Muhammad entry connects to several specific aspects of the broader corpus's 
 
 **The Council of the Eternals account.** The Vorilhon 1975 meeting with the assembled prior prophets, including Muhammad, is one of the principal source-material accounts of the continuing operational presence of the prior prophetic figures. The Council of the Eternals account is referenced across multiple corpus entries; the dedicated [Council of the Eternals](../council-of-the-eternals/) entry develops the operational reading in detail.
 
-## השערת פטרה (רוויזיוניזם מעורב)
+## The Petra hypothesis (an engaged revisionism)
 
-השערה ארכאולוגית רוויזיוניסטית, המזוהה בעיקר עם החוקר הקנדי **דן גיבסון**, טוענת שעיר הקודש המקורית של האסלאם הקדום לא הייתה **מכה** שבחג'אז אלא **פטרה**, הבירה הנבטית הנטושה בדרום ירדן, ושהמקדש, העלייה לרגל והאבן השחורה הועתקו דרומה רק בשלהי המאה השביעית ובראשית המאה השמינית לספירה. הטיעון נשען על התכנסות של כמה קווים — כיוון התפילה (*qibla*) של המסגדים הקדומים ביותר לעבר פטרה במשך כמאה השנים הראשונות של האסלאם; היעדרה של מכה מן ה*גאוגרפיה* של תלמי; מידות הכעבה הבלתי-סדירות בעלות ארבע הצלעות שתועדו בידי אל-אזרקי; וגזירת הערבית הקוראנית ואף כתבהּ מן הארמית הנבטית. היא מתקשרת אל ה[חניפיה](../hanafiyya/) — »דת אברהם« שהמקורות הקדומים ביותר מזהים כתפיסתה העצמית של האמונה החדשה — בכך שהיא ממקמת את מזבח אברהם וישמעאל של אותה דת במרכזה של פטרה.
+A revisionist archaeological hypothesis, associated principally with the Canadian researcher **Dan Gibson**, argues that the original holy city of early Islam was not the Hijazi **Mecca** but **Petra**, the abandoned Nabataean capital in southern Jordan, and that the sanctuary, pilgrimage, and Black Stone were relocated south only in the late seventh and early eighth centuries CE. The argument rests on a convergence of strands — the orientation (*qibla*) of the earliest mosques toward Petra for roughly the first Islamic century; the absence of Mecca from Ptolemy's *Geography*; the irregular four-sided Ka'ba measurements recorded by al-Azraqī; and the descent of Qur'anic Arabic and its very script from Nabataean Aramaic. It connects to the [Hanafiyya](../hanafiyya/) — the "religion of Abraham" the earliest sources name as the new faith's self-understanding — by locating that religion's altar of Abraham and Ishmael at the centre of Petra.
 
-עמדת המסגרת כלפי השערה זו היא **מעורבת, לא מאומצת**, והתיאור המיינסטרימי-והמסגרתי של ערך זה לעיל מושאר במכוון לצד ההשערה ולא נכתב מחדש. החומר הביוגרפי — לידת מוחמד במכה, מערת היראא סמוך למכה, מסע הלילה מכה–ירושלים — משקף את הנרטיב של המסורת האסלאמית עצמה ואת קריאתה הקיימת של המסגרת בו. השערתו של גיבסון היא רוויזיוניזם שנוי במחלוקת: היא נדחית בידי היסטוריון האסטרונומיה האסלאמית דיוויד א. קינג (הקורא את כיווני התפילה הקדומים כיישור »כיוון מקודש« עממי-אסטרונומי לעבר הכעבה, לא כמכוון לעבר פטרה), היא ניצבת מחוץ לקונצנזוס המחקרי המיינסטרימי בחקר האסלאם, ואינה חלק מן הקאנון הראלי. הקורפוס מתכתב עמה משום ש*אם* היא נכונה, היא מספקת גאוגרפיה קונקרטית לשיקום החניפיה שהמסגרת כבר קוראת בראשית האסלאם — ובכך היא מחדדת, במקום לדחוק, את הקריאה של האסלאם הקדום כתנועת התאוששות אברהמית בעידן הדגים. הטיפול המלא, על החומר של כיוון התפילה, הבלשנות והטיעונים הנגדיים, מפותח בערכי [פטרה](../petra/) ו[הנבטים](../nabataeans/) ובמאמר ההסבר »[המסגדים הראשונים פנו אל פטרה, לא אל מכה](/articles/the-first-mosques-faced-petra-not-mecca/)«.
+The framework's stance on this hypothesis is **engaged, not adopted**, and this entry's mainstream-and-framework account above is deliberately left standing alongside it rather than rewritten. The biographical material — Muhammad's birth in Mecca, the Cave of Hira near Mecca, the Mecca–Jerusalem Night Journey — reflects the Islamic tradition's own narrative and the framework's existing reading of it. Gibson's hypothesis is contested revisionism: it is rejected by the historian of Islamic astronomy David A. King (who reads the early qiblas as folk-astronomical "sacred-direction" alignment toward the Kaʿba, not aiming at Petra), it sits outside mainstream Islamic-studies consensus, and it is not part of the Raëlian canon. The corpus engages it because, *if* it holds, it supplies a concrete geography for the Hanafiyya restoration the framework already reads in Islamic origins — sharpening, rather than displacing, the reading of early Islam as an Abrahamic recovery movement in the Age of Pisces. The full treatment, with the qibla, linguistic, and counter-argument material, is developed in the [Petra](../petra/) and [Nabataeans](../nabataeans/) entries and in the Explainer "[The First Mosques Faced Petra, Not Mecca](/articles/the-first-mosques-faced-petra-not-mecca/)."
 
 ## Open questions
 
@@ -245,31 +245,19 @@ The Muhammad entry surfaces several open questions for the framework's broader i
 
 - [Jesus](../jesus/)
 - [Moses](../moses/)
-- [Abraham](../abraham/) / [Ibrahim](../ibrahim/)
+- [Abraham](../abraham/)
 - [Elijah](../elijah/)
 - [Ezekiel](/wiki/ezekiel/)
-- [Enoch](../enoch/) / [Idris](../idris/)
-- [The Buddha](../buddha/)
-- [Joseph Smith](../joseph-smith/)
-- [Gabriel](../gabriel/) / [Jibril](../jibril/)
-- [Khadija](../khadija/)
-- [Ali ibn Abi Talib](../ali-ibn-abi-talib/)
-- [The Qur'an](../quran/)
-- [Mecca](../mecca/)
-- [פטרה](../petra/)
-- [הנבטים](../nabataeans/)
-- [חניפיה](../hanafiyya/)
-- [Medina](../medina/)
-- [Jerusalem](../jerusalem/) / [al-Quds](../al-quds/)
-- [Cave of Hira](../cave-of-hira/)
-- [Isra and Mi'raj](../isra-and-miraj/)
-- [Islam](../islam/)
+- [The Qur'an](/wiki/quran/)
+- [Petra](../petra/)
+- [Nabataeans](../nabataeans/)
+- [Hanafiyya](../hanafiyya/)
+- [Monotheism](/wiki/monotheism/)
+- [Idolatry](/wiki/idolatry/)
 - [Raëlism](../raelism/)
 - [Council of the Eternals](../council-of-the-eternals/)
 - [Age of Pisces](../../timeline/age-of-pisces/)
 - [Elohim](../elohim/)
-- [Angels](../angels/)
-- [Jinn](../jinn/)
 - [List of prophets and religions](../list-of-prophets-and-religions/)
 - [List of close encounters](../list-of-close-encounters/)
 - [List of exegetic readings](../list-of-exegetic-readings/)
@@ -277,6 +265,7 @@ The Muhammad entry surfaces several open questions for the framework's broader i
 ## Read more
 
 - [Timeline › Age of Pisces](../../timeline/age-of-pisces/)
+- [Monotheism Is the Wrong Question](/articles/monotheism-is-the-wrong-question/)
 
 ## External links
 

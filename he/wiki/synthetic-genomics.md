@@ -209,7 +209,7 @@ The construction of organisms engineered for survival under non-terrestrial cond
 
 The construction of multicellular organisms from designed genomes — the major remaining frontier of the field — would, if achieved, transform what synthetic genomics can do. The current state of the discipline operates almost entirely at the single-cell level; the transition to designed multicellular life is one of the field's standing aspirations.
 
-The construction of organisms with completely novel biochemistries — the integration of xenobiological components into whole-genome synthesis — is the convergence point between synthetic genomics and [xenobiology](../xenobiology/). Several xenobiology programmes have begun to construct genomes incorporating unnatural base pairs or recoded codons; the eventual prospect of complete genomes built on xenobiological substrates is a longer-term research aspiration.
+The construction of organisms with completely novel biochemistries — the integration of xenobiological components into whole-genome synthesis — is the convergence point between synthetic genomics and xenobiology. Several xenobiology programmes have begun to construct genomes incorporating unnatural base pairs or recoded codons; the eventual prospect of complete genomes built on xenobiological substrates is a longer-term research aspiration.
 
 ## Limits and open questions
 
@@ -279,7 +279,7 @@ The corpus's reading does not contest the mainstream scientific reading at the l
 
 ### The bioethical and theological readings
 
-The bioethical and theological commentary on synthetic genomics has been substantially shaped by the JCVI minimal-cell work. The 2010 publication of JCVI-syn1.0 produced a substantial wave of bioethical and theological commentary, including statements from the Vatican (which characterised the work as a significant scientific achievement that did not, on the Vatican's reading, constitute the creation of life de novo because the synthetic genome was assembled from existing biological information), from various Protestant theological bodies (with positions ranging from cautious acceptance to substantive concern), and from various secular bioethical commentators (with similarly varied positions).
+The bioethical and theological commentary on synthetic genomics has been substantially shaped by the JCVI minimal-cell work. The 2010 publication of JCVI-syn1.0 produced a substantial wave of bioethical and theological commentary, including statements from the Vatican (which characterised the work as a significant scientific achievement that did not, on the Vatican's reading, constitute the creation of life de novo because the synthetic genome was assembled from existing biological information), from various Protestant theological bodies (with positions ranging from cautious acceptance to serious concern), and from various secular bioethical commentators (with similarly varied positions).
 
 The principal questions the bioethical and theological literature has engaged include: whether the synthetic minimal cell constitutes the *creation of life* in any genuinely new sense, whether the field's broader trajectory represents an appropriate or inappropriate human appropriation of capabilities historically associated with the divine, what the appropriate regulatory framework for the field should be, and what the broader societal implications of the field's continued development are.
 
@@ -298,7 +298,6 @@ Within the specific Sendy–Raëlian interpretive tradition that the corpus read
 - [Life engineering](../life-engineering/)
 - [Synthetic biology](../synthetic-biology/)
 - [Genetic engineering](../genetic-engineering/)
-- [Xenobiology](../xenobiology/)
 - [Genesis](../genesis/)
 - [Elohim](../elohim/)
 - [Tree of Life](../tree-of-life/)

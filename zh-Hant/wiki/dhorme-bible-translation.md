@@ -156,7 +156,6 @@ Posthumous treatments of Dhorme's archives include:
 
 - Agnès Spycket, "Les Archives d'Édouard Dhorme (1881–1966) à la bibliothèque du Saulchoir," *Revue Biblique* 104:1 (1997): 5–39
 
- and Tome II (1959) — Édouard Dhorme")
 
 ## See also
 
@@ -173,7 +172,6 @@ Posthumous treatments of Dhorme's archives include:
 - [Neo-euhemerism](../neo-euhemerism/) (project topic page)
 - [List of exegetic readings](../list-of-exegetic-readings/)
 - [List of etymological readings](../list-of-etymological-readings/)
-- [Bible de Jérusalem](../bible-de-jerusalem/)
 
 ## External links
 

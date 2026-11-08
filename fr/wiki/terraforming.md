@@ -150,7 +150,7 @@ Earlier paraterraforming concepts include the "worldhouse" approach (proposed by
 
 The pan-tropic alternative — engineering the organisms rather than the environment — has gained substantial prominence with the development of synthetic-biology and synthetic-genomics methods. Rather than terraforming Mars to support unmodified Earth life, pan-tropic engineering would produce organisms (terrestrial in genetic ancestry but substantially modified) suited to Mars's native conditions. The approach addresses several of the difficulties of classical terraforming: the engineering scale is biological rather than planetary, the timescales are decades rather than millennia, and the existing planetary conditions are preserved rather than transformed.
 
-The pan-tropic literature has developed in parallel with the broader synthetic-biology literature and is treated more fully in the [xenobiology](../xenobiology/) entry, where the relationship between synthetic-biology methods and the design of organisms for non-terrestrial environments is developed in detail.
+The pan-tropic literature has developed in parallel with the broader synthetic-biology literature and is treated more fully in the [pantropy](../pantropy/) and [synthetic biology](../synthetic-biology/) entries.
 
 ### Shell worlds and other speculative approaches
 
@@ -215,7 +215,7 @@ The framework reads the four early *yamim* as the *terraforming* phase of the Ea
 
 ### What the framework reading entails
 
-The framework reading of the first four *yamim* as terraforming operations carries several substantive implications.
+The framework reading of the first four *yamim* as terraforming operations carries several implications.
 
 **First, the source material describes a capability humanity does not yet possess.** Contemporary terrestrial terraforming science can identify, at most, the kinds of operations the Elohim's planetary-engineering phase would have involved; it cannot yet execute them. The Jakosky–Edwards 2018 result establishes that Mars cannot be terraformed with present-day technology — for the simple reason that Mars does not contain the required volatile inventory and humanity cannot import it on practical scales. The Wordsworth 2019 paraterraforming work demonstrates feasibility at regional scale but not at planetary scale. The capability the source material attributes to the Elohim — the comprehensive engineering of a planet's atmosphere, hydrosphere, and continental structure to specifications — is well beyond contemporary terrestrial capability.
 
@@ -255,11 +255,11 @@ The corpus's reading does not contest the mainstream scientific reading's accura
 
 ### Mars-society and space-settlement advocacy
 
-The Mars Society, the Planetary Society, the SpaceX programme of Mars-settlement advocacy, and the broader space-settlement community have developed terraforming and Mars-habitability work in a direction that emphasises near-term feasibility and practical engineering. The Zubrin literature, in particular, has been substantially more optimistic about Mars terraforming feasibility than the scientific consensus. The framework's reading does not adopt the optimistic Mars-settlement position — the corpus accepts the Jakosky–Edwards 2018 result as the scientifically credible assessment — but it does share with the space-settlement community the broader interest in extraterrestrial human habitation and the recognition that the long-term human relationship with planetary environments is a substantive subject.
+The Mars Society, the Planetary Society, the SpaceX programme of Mars-settlement advocacy, and the broader space-settlement community have developed terraforming and Mars-habitability work in a direction that emphasises near-term feasibility and practical engineering. The Zubrin literature, in particular, has been substantially more optimistic about Mars terraforming feasibility than the scientific consensus. The framework's reading does not adopt the optimistic Mars-settlement position — the corpus accepts the Jakosky–Edwards 2018 result as the scientifically credible assessment — but it does share with the space-settlement community the broader interest in extraterrestrial human habitation and the recognition that the long-term human relationship with planetary environments is a serious subject.
 
 ### Bioconservative and environmental positions
 
-A substantial bioconservative and environmental-philosophy literature has developed around the question of whether terraforming is *appropriate* — whether the modification of another planet's environment to suit terrestrial life is a legitimate human aspiration. The principal positions include: the *intrinsic-value* position (extraterrestrial environments have value independent of their utility for terrestrial life, and modifying them is a substantive moral cost); the *indigenous-life* position (if any indigenous extraterrestrial life exists, it has prima facie claim to its native environment); and the *humility* position (humanity's track record of environmental modification on Earth gives reason for caution about exporting the same approach to other worlds).
+A substantial bioconservative and environmental-philosophy literature has developed around the question of whether terraforming is *appropriate* — whether the modification of another planet's environment to suit terrestrial life is a legitimate human aspiration. The principal positions include: the *intrinsic-value* position (extraterrestrial environments have value independent of their utility for terrestrial life, and modifying them is a real moral cost); the *indigenous-life* position (if any indigenous extraterrestrial life exists, it has prima facie claim to its native environment); and the *humility* position (humanity's track record of environmental modification on Earth gives reason for caution about exporting the same approach to other worlds).
 
 The framework's relationship to these positions is complex. The framework treats the Elohim's terraforming of Earth as having produced the planetary substrate on which terrestrial life — including humanity — depends. If terraforming of other worlds were undertaken now by humanity, the framework would treat it as the participation of humanity in the same cosmic-chain pattern that produced humanity itself — provided the work is conducted with the same scientific seriousness, ethical caution, and long-term commitment that the source material attributes to the Elohim's own work. The framework's position is neither uncritical advocacy nor categorical rejection but rather a contextualisation of contemporary human aspirations within the broader cosmic-chain pattern.
 
@@ -275,11 +275,11 @@ Within the specific Sendy–Raëlian interpretive tradition, the framework's rea
 
 ## See also
 
+- [Genesis Toolbox](/wiki/genesis-toolbox/)
 - [Genesis](../genesis/)
 - [Life engineering](../life-engineering/)
 - [Synthetic biology](../synthetic-biology/)
 - [Synthetic genomics](../synthetic-genomics/)
-- [Xenobiology](../xenobiology/)
 - [Elohim](../elohim/)
 - [Age of Capricorn](../../timeline/age-of-capricorn/)
 - [Age of Sagittarius](../../timeline/age-of-sagittarius/)

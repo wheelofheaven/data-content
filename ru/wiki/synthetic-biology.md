@@ -289,10 +289,10 @@ Within the specific Sendy–Raëlian interpretive tradition that the corpus read
 
 ## See also
 
+- [Genesis Toolbox](/wiki/genesis-toolbox/)
 - [Life engineering](../life-engineering/)
 - [Genetic engineering](../genetic-engineering/)
 - [Synthetic genomics](../synthetic-genomics/)
-- [Xenobiology](../xenobiology/)
 - [Genesis](../genesis/)
 - [Elohim](../elohim/)
 - [Tree of Life](../tree-of-life/)

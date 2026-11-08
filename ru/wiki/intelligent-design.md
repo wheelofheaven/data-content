@@ -248,6 +248,7 @@ genome or in the texts.
 
 ## See also
 
+- [Genesis Toolbox](/wiki/genesis-toolbox/)
 - [Elohim](../elohim/)
 - [Genetic engineering](../genetic-engineering/)
 - [Astrobiology](../astrobiology/)

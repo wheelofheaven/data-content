@@ -276,7 +276,7 @@ The Pantropy entry surfaces several open questions for the framework's broader i
 
 Blish, James. *The Seedling Stars*. Gnome Press, 1957. [Foundational science-fiction articulation of pantropy. Includes the four stories "Seeding Program" (originally "A Time to Survive," 1956), "The Thing in the Attic" (1954), "Surface Tension" (1952, revised from "Sunken Universe" 1942), and "Watershed" (1955).]
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les Extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of humans as the product of an Elohim pantropic engineering operation.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of humans as the product of an Elohim pantropic engineering operation.]
 
 Hashimoto, Takuma, et al. "Extremotolerant tardigrade genome and improved radiotolerance of human cultured cells by tardigrade-unique protein." *Nature Communications* 7 (2016): 12808. [Foundational paper demonstrating that the tardigrade Dsup gene confers radiation tolerance to human cell lines.]
 

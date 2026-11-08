@@ -248,6 +248,7 @@ genome or in the texts.
 
 ## See also
 
+- [Genesis Toolbox](/wiki/genesis-toolbox/)
 - [Elohim](../elohim/)
 - [Genetic engineering](../genetic-engineering/)
 - [Astrobiology](../astrobiology/)
@@ -279,7 +280,7 @@ genome or in the texts.
 
 ## References
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les Extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of the Elohim as the designers of terrestrial life.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of the Elohim as the designers of terrestrial life.]
 
 Crick, F. H. C., and L. E. Orgel. "Directed Panspermia." *Icarus* 19, no. 3 (1973): 341–346. [The foundational mainstream-scientific paper proposing that life on Earth may have been deliberately seeded by an extraterrestrial intelligence; the closest scientific cognate of the framework's position.]
 

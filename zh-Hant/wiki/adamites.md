@@ -217,7 +217,7 @@ The Adamites entry connects to a substantial number of other corpus entries.
 
 **Adam and Eve.** The dedicated [Adam and Eve](../adam-and-eve/) entry treats the founding figures of the Adamite community as biographical-mythological persons. The present entry treats the broader community.
 
-**The Serpent / Nachash.** The dedicated [Serpent](../serpent/) (or [Nachash](../nachash/)) entry develops the framework's reading of the Serpent as a rebellious Elohim faction. The present entry registers the Serpent's role in the Adamite history.
+**The Serpent / Nachash.** The dedicated [Serpent](../serpent/) entry (Hebrew *nachash*) develops the framework's reading of the Serpent as a rebellious Elohim faction. The present entry registers the Serpent's role in the Adamite history.
 
 **The Nephilim and the Watchers.** The dedicated [Nephilim](/wiki/nephilim/) and [Watchers](/wiki/watchers/) entries develop the framework's reading of the Genesis 6:1-4 and 1 Enoch material. The present entry registers the connection to the Adamite hybridisation.
 
@@ -243,13 +243,12 @@ The Adamites entry surfaces several open questions for the framework's broader i
 - [Adam and Eve](../adam-and-eve/)
 - [Eden](../eden/)
 - [Genesis](../genesis/)
-- [Serpent](../serpent/) / [Nachash](../nachash/)
+- [Serpent](../serpent/)
 - [Nephilim](/wiki/nephilim/)
 - [Watchers](/wiki/watchers/)
 - [Pangaea](../pangaea/)
 - [Deluge](../great-flood/)
 - [Noah](../noah/)
-- [Cain and Abel](../cain-and-abel/)
 - [Pantropy](../pantropy/)
 - [Synthetic biology](../synthetic-biology/)
 - [Synthetic genomics](../synthetic-genomics/)

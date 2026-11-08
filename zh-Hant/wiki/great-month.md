@@ -116,7 +116,7 @@ The framework reads the 72-year Great Day / human-lifespan correspondence as sig
 - **One Great Month (2,160 years) ≈ 30 human lifespans in succession** — roughly the temporal scope across which cultural-religious traditions maintain continuous transmission
 - **One Great Year (25,920 years) ≈ 360 human lifespans** — substantially exceeding the temporal scope of any continuous cultural memory
 
-The framework's broader reading treats this correspondence as one of several structural patterns connecting human and cosmic scales that the corpus engages. The dedicated [Anthropic principle](../anthropic-principle/) and related entries develop the broader pattern. The 72-year Great Day also connects to substantial source-tradition material on the number 72, developed in the framework section below.
+The framework's broader reading treats this correspondence as one of several structural patterns connecting human and cosmic scales that the corpus engages. The 72-year Great Day also connects to substantial source-tradition material on the number 72, developed in the framework section below.
 
 ## Cross-cultural preservation of the numerical structure
 

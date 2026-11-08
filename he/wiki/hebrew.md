@@ -130,7 +130,7 @@ Paleo-Hebrew preserved its use in some specialized contexts even after the broad
 
 The **Aramaic-derived square script** (*ketav ashuri* or *ketav meruba'* in Hebrew, "Assyrian script" or "square script") gradually replaced Paleo-Hebrew for Hebrew writing across the 5th through 3rd centuries BCE. The transition reflects the broader cultural and linguistic situation of the post-exilic period: Aramaic was the lingua franca of the Persian Empire, the Aramaic alphabet was the standard administrative script across the Near East, and the Jewish scribal tradition adopted the script for Hebrew writing alongside its existing use for Aramaic.
 
-The square script is the form of Hebrew writing that has been preserved across all subsequent periods. The Dead Sea Scrolls (3rd century BCE through 1st century CE) preserve square-script Hebrew with various paleographic developments; the Masoretic Text tradition (5th–10th centuries CE) preserves the classical form of square-script Hebrew that has been the basis of all subsequent printed and manuscript Hebrew. The Aleppo Codex (c. 920 CE) and Leningrad Codex (1008 CE) are the foundational manuscript witnesses to the Tiberian Masoretic vocalization tradition.
+The square script is the form of Hebrew writing that has been preserved across all subsequent periods. The Dead Sea Scrolls (3rd century BCE through 1st century CE) preserve square-script Hebrew with various paleographic developments; the {% wiki(slug="masoretic-text") %}Masoretic Text{% end %} tradition (5th–10th centuries CE) preserves the classical form of square-script Hebrew that has been the basis of all subsequent printed and manuscript Hebrew. The Aleppo Codex (c. 920 CE) and Leningrad Codex (1008 CE) are the foundational manuscript witnesses to the Tiberian Masoretic vocalization tradition.
 
 ### The vocalization systems
 
@@ -253,6 +253,12 @@ The most quietly significant entry in this table is *Bāvel / Bāb-ilim / KA₂.
 
 The Erech / Uruk and Akkad / *URI.KI* correspondences in Genesis 10:10 (*"The beginning of his kingdom was Babel, and Erech, and Akkad, and Calneh, in the land of Shinar"*) show that the Hebrew Bible preserves accurate names for Mesopotamian cities whose Sumerian and Akkadian originals are independently attested in cuneiform. The naming is at the level of philological detail unlikely to be coincidental and consistent with the framework's reading that the Hebrew tradition preserves accurate ancient memory of the Mesopotamian world.
 
+### *Mazzal*: the star's station
+
+One celestial term traveled further into everyday speech than any other. The Hebrew Bible carries two near-twin words for the stars in their courses: **Mazzaroth** (<span class="hebrew">מַזָּרוֹת</span>) at {% libref(book="job", chapter=38, verse=32) %}Job 38:32{% end %}, a *hapax legomenon* whose meaning was already lost by the time of the ancient translators (the Septuagint transliterates, the Vulgate guesses at the morning star, the King James leaves it untranslated with "the twelve signs" in the margin), and its counterpart **mazzalot** (<span class="hebrew">מַזָּלוֹת</span>) at {% libref(book="2-kings", chapter=23, verse=5) %}2 Kings 23:5{% end %}, where King Josiah purges the priests who burned incense "to the sun, and to the moon, and to the mazzalot, and to all the host of heaven." The standard etymology (Klein) derives both from Akkadian *manzaltu* / *mazaltu*, "the station, the standing-place of a star," from *nazāzu*, "to stand" — the word for where a star stands in its circuit.
+
+The singular, *mazzal* (<span class="hebrew">מַזָּל</span>), carried that astral sense down the centuries into the meaning of one's portion, one's fortune, one's luck — the star one stands under. Rabbinic Hebrew made it proverbial, and the most casual blessing in the Jewish world preserves the fossil intact: ***mazel tov***, literally "a good constellation" — may the star you stand under stand well. The corpus reads the word as a small confirmation of the zodiacal thread the Hebrew line carried; see the [Zodiac](../zodiac/) entry for the *Mazzaroth* and the [Hebrew Bible](../hebrew-bible/) entry for the verses in their setting.
+
 ### Common Biblical Hebrew terms with framework-relevant readings
 
 The table below collects a small set of Hebrew terms that recur across the corpus's discussions of biblical material. Glosses give the conventional translation followed by a short note on the framework's reading.
@@ -265,7 +271,7 @@ The table below collects a small set of Hebrew terms that recur across the corpu
 | <span class="hebrew">נְשָׁמָה</span> | *nəšāmâ* | n-š-m | breath, breath of life | Used specifically in Genesis 2:7 of the breath the Elohim breathe into the first human. |
 | <span class="hebrew">כָּבוֹד</span> | *kāḇôḏ* | k-b-d | weight, glory, manifest presence | Used of the visible manifest presence of Yahweh, often in connection with cloud and fire phenomena (Exodus 24:16–17, Ezekiel 1, et al.). The corpus reads these phenomena as descriptions of the visible presence of Elohim craft. |
 | <span class="hebrew">קָדוֹשׁ</span> | *qādôš* | q-d-š | holy, set apart | The root meaning is "set apart" or "separated," not "morally pure" in the abstract; the term marks distinction from the ordinary, applied both to the Elohim and to objects, places, and persons designated for their use. |
-| <span class="hebrew">בְּרִית</span> | *bərît* | b-r-t (uncertain) | covenant, treaty | Marks the formal compact between the Elohim and a specific human party (Noah, Abraham, the Israelites at Sinai). The corpus reads these as substantive agreements with specified terms, not as metaphors. |
+| <span class="hebrew">בְּרִית</span> | *bərît* | b-r-t (uncertain) | covenant, treaty | Marks the formal compact between the Elohim and a specific human party (Noah, Abraham, the Israelites at Sinai). The corpus reads these as actual agreements with specified terms, not as metaphors. |
 | <span class="hebrew">שָׁמַיִם</span> | *šāmayim* | dual form, root š-m-y | heavens, sky | Plural in form; used for both the visible sky and the dwelling of the Elohim. The corpus reads the term concretely: the sky from which the Elohim came and to which they return. |
 | <span class="hebrew">אָדָם</span> | *ʾāḏām* | ʾ-d-m | human, humanity; also Adam as proper name | Etymologically related to *ʾădāmâ* (earth, ground), reflecting the Genesis 2:7 account of formation from the dust of the ground; in the corpus, read as the synthesis of human biology from terrestrial substrate. |
 | <span class="hebrew">תְּהוֹם</span> | *təhôm* | t-h-m | the deep, primordial waters | The waters over which the *rûaḥ ʾĕlōhîm* moves in Genesis 1:2; cognate with Akkadian *Tiāmat*. The corpus reads the Genesis cosmogony in connection with the Mesopotamian tradition that shares this term. |
@@ -273,7 +279,7 @@ The table below collects a small set of Hebrew terms that recur across the corpu
 | <span class="hebrew">צֶלֶם</span> | *ṣelem* | ṣ-l-m | image | Used in Genesis 1:26–27 of the humans made *bə-ṣalmēnû ki-dmûtēnû*, "in our image, after our likeness." The plural pronouns and the literal sense of *ṣelem* (a physical image, a likeness) ground the corpus's reading of human creation as biological synthesis modeled on the Elohim themselves. |
 | <span class="hebrew">יוֹם</span> | *yôm* | y-w-m | day, period | The unit of time of Genesis 1's creation account; on the corpus's reading, a precessional age of 2,160 years. |
 
-The specific terms above are the principal Hebrew vocabulary that recurs across the corpus's framework readings of biblical passages. Each term is treated more fully in the dedicated entries on the relevant concepts; what matters here is that the Hebrew vocabulary itself preserves, on the corpus's reading, a set of substantive references to operational realities that the framework's reading recovers.
+The specific terms above are the principal Hebrew vocabulary that recurs across the corpus's framework readings of biblical passages. Each term is treated more fully in the dedicated entries on the relevant concepts; what matters here is that the Hebrew vocabulary itself preserves, on the corpus's reading, a set of direct references to operational realities that the framework's reading recovers.
 
 ## Modern reinterpretations
 
@@ -319,7 +325,7 @@ Biglino's methodological commitment is to read Hebrew word-for-word and accept w
 
 ### Jean Sendy on Hebrew
 
-**Jean Sendy**'s engagement with Hebrew is developed across his work, with particular concentration in *Ces dieux qui firent le ciel et la terre* (1969) and *Les cahiers de cours de Moïse* (1974). Sendy reads the Hebrew Bible's vocabulary as preserving substantive operational content rather than allegorical theological content, working from comparative-philological analysis without the systematic strict-translation methodology Biglino later developed.
+**Jean Sendy**'s engagement with Hebrew is developed across his work, with particular concentration in *Ces dieux qui firent le ciel et la terre* (1969) and *Les cahiers de cours de Moïse* (1974). Sendy reads the Hebrew Bible's vocabulary as preserving operational content rather than allegorical theological content, working from comparative-philological analysis without the systematic strict-translation methodology Biglino later developed.
 
 Sendy's specific contributions to Hebrew interpretation include readings of the *Elohim* as plural civilization, of the Genesis 1 *yamim* as precessional ages (treated in the [Genesis](../genesis/) entry), of the various manifestations of *kavod* as descriptions of physical alliance technology, and of the broader Hebrew vocabulary as preserving accurate operational memory in religious vocabulary. Sendy's approach is the principal scholarly antecedent of the corpus's adopted reading of Hebrew, predating both Biglino and the Raëlian source material.
 
@@ -329,7 +335,7 @@ A note on terminology. Within evangelical Christian biblical scholarship, the te
 
 ### The framework's relationship to the broader landscape
 
-The corpus's reading is positioned within this landscape as follows: aligned with Biglino's strict-translational program at the methodological level, with substantial overlap on specific lexical readings; aligned with Sendy's philological-historiographic program as the principal scholarly antecedent; partially aligned with the Eden-language tradition's intuition about Hebrew's distinctive status while differing on the underlying mechanism; respectful of the Kabbalistic tradition's underlying intuition while not endorsing its theological-metaphysical apparatus; and substantially extending the broader ancient-astronaut tradition's typically less-developed engagement with Hebrew specifically. The corpus's reading is its own — distinct from each of these — but engages each substantively rather than dismissively.
+The corpus's reading is positioned within this landscape as follows: aligned with Biglino's strict-translational program at the methodological level, with substantial overlap on specific lexical readings; aligned with Sendy's philological-historiographic program as the principal scholarly antecedent; partially aligned with the Eden-language tradition's intuition about Hebrew's distinctive status while differing on the underlying mechanism; respectful of the Kabbalistic tradition's underlying intuition while not endorsing its theological-metaphysical apparatus; and substantially extending the broader ancient-astronaut tradition's typically less-developed engagement with Hebrew specifically. The corpus's reading is its own — distinct from each of these — but engages each seriously rather than dismissively.
 
 ## Comparative observations
 
@@ -362,7 +368,7 @@ The Islamic theological tradition has developed elaborate doctrine around Arabic
 - **The untranslatability principle** — the position that the Qur'an's specific Arabic is integral to its revelatory status, with translations into other languages (the *tafsir*-like translations rather than translations strictly speaking) treated as approximate aids rather than as the Qur'an itself.
 - **Arabic as the language of paradise** — the position, developed in Hadith literature, that Arabic is the language of paradise and the language all believers will speak in the afterlife.
 
-The structural parallels to the Hebrew tradition are clear. Both treat their language as the medium of revelation; both treat the specific language as integral to the revelation rather than as merely a contingent vehicle; both treat the language as having distinctive ontological status. The corpus reads Classical Arabic in Islamic tradition as preserving accurate memory of the alliance-mediated revelation to Muhammad in the seventh century CE, with the Islamic theological elaboration of Arabic's distinctive status being a culturally specific elaboration of the underlying operational fact. The relationship between Classical Arabic and Biblical Hebrew, both within the Semitic family and as media of alliance-mediated revelation in different cultural moments, is treated more fully in the [Muhammad](../muhammad/) and [Qur'an](../quran/) entries.
+The structural parallels to the Hebrew tradition are clear. Both treat their language as the medium of revelation; both treat the specific language as integral to the revelation rather than as merely a contingent vehicle; both treat the language as having distinctive ontological status. The corpus reads Classical Arabic in Islamic tradition as preserving accurate memory of the alliance-mediated revelation to Muhammad in the seventh century CE, with the Islamic theological elaboration of Arabic's distinctive status being a culturally specific elaboration of the underlying operational fact. The relationship between Classical Arabic and Biblical Hebrew, both within the Semitic family and as media of alliance-mediated revelation in different cultural moments, is treated more fully in the [Muhammad](../muhammad/) and [Qur'an](/wiki/quran/) entries.
 
 ### Egyptian hieroglyphics: *medu netjer*
 
@@ -407,31 +413,27 @@ The pattern is not universal — many cultural traditions do not develop this ki
 ## See also
 
 - [Elohim](../elohim/)
-- [Hebrews](../hebrews/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Genesis](../genesis/)
 - [Adam and Eve](../adam-and-eve/)
 - [Eden](../eden/)
 - [Babel](../babel/)
-- [Tetragrammaton](../tetragrammaton/)
 - [Yahweh](../yahweh/)
-- [Anunnaki](/wiki/anunnaki/)
+- {% wiki(slug="anunnaki") %}Anunnaki{% end %}
 - [Sumerian King List](/wiki/sumerian-king-list/)
 - [Plurality of Gods](../plurality-of-gods/)
 - [Antediluvian](../antediluvian/)
 - [Age of Leo](../../timeline/age-of-leo/)
 - [Prophet](../prophet/)
 - [Muhammad](../muhammad/)
-- [Qur'an](../quran/)
-- [Buddha](../buddha/)
+- [Qur'an](/wiki/quran/)
 - [Jean Sendy](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [*Hamlet's Mill*](/wiki/hamlets-mill/)
-- [Documentary Hypothesis](../documentary-hypothesis/)
 - [Masoretic Text](/wiki/masoretic-text/)
 - [Septuagint](/wiki/septuagint/)
 - [Dead Sea Scrolls](/wiki/dead-sea-scrolls/)
-- [Logos](../logos/)
+- [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the philological audit turns on the he vs. ḥet distinction)
 
 ## References
 

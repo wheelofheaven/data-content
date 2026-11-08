@@ -217,7 +217,7 @@ The Adamites entry connects to a substantial number of other corpus entries.
 
 **Adam and Eve.** The dedicated [Adam and Eve](../adam-and-eve/) entry treats the founding figures of the Adamite community as biographical-mythological persons. The present entry treats the broader community.
 
-**The Serpent / Nachash.** The dedicated [Serpent](../serpent/) (or [Nachash](../nachash/)) entry develops the framework's reading of the Serpent as a rebellious Elohim faction. The present entry registers the Serpent's role in the Adamite history.
+**The Serpent / Nachash.** The dedicated [Serpent](../serpent/) entry (Hebrew *nachash*) develops the framework's reading of the Serpent as a rebellious Elohim faction. The present entry registers the Serpent's role in the Adamite history.
 
 **The Nephilim and the Watchers.** The dedicated [Nephilim](/wiki/nephilim/) and [Watchers](/wiki/watchers/) entries develop the framework's reading of the Genesis 6:1-4 and 1 Enoch material. The present entry registers the connection to the Adamite hybridisation.
 
@@ -243,13 +243,12 @@ The Adamites entry surfaces several open questions for the framework's broader i
 - [Adam and Eve](../adam-and-eve/)
 - [Eden](../eden/)
 - [Genesis](../genesis/)
-- [Serpent](../serpent/) / [Nachash](../nachash/)
+- [Serpent](../serpent/)
 - [Nephilim](/wiki/nephilim/)
 - [Watchers](/wiki/watchers/)
 - [Pangaea](../pangaea/)
 - [Deluge](../great-flood/)
 - [Noah](../noah/)
-- [Cain and Abel](../cain-and-abel/)
 - [Pantropy](../pantropy/)
 - [Synthetic biology](../synthetic-biology/)
 - [Synthetic genomics](../synthetic-genomics/)
@@ -272,7 +271,7 @@ The Adamites entry surfaces several open questions for the framework's broader i
 
 ## References
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les Extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of the Adamites as the engineered human population of the Elohim project.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of the Adamites as the engineered human population of the Elohim project.]
 
 Biglino, Mauro. *La Bibbia non è un libro sacro: Il falso letterario che ha fondato due religioni*. Mondadori, 2012. [The contemporary philological reading of the Hebrew Bible that informs the framework's broader interpretive work, with substantial treatment of the Adamite material.]
 

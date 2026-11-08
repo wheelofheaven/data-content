@@ -127,9 +127,9 @@ Mainstream comparative mythology has produced substantial work on Indo-European 
 
 Various alternative-history scholarly traditions have engaged substantially with Theomachy material as evidence of forgotten historical content.
 
-**Zecharia Sitchin's broader engagement**. **Zecharia Sitchin** (1920-2010) produced substantial alternative-history work engaging Mesopotamian and Hebrew material as evidence of extra-terrestrial-civilization presence in human prehistory. Sitchin's specific framework (the "Anunnaki" reading of Mesopotamian texts) is broadly compatible with the corpus's framework at the structural level, while substantively differing in specific details.
+**Zecharia Sitchin's broader engagement**. {% wiki(slug="zecharia-sitchin") %}**Zecharia Sitchin**{% end %} (1920-2010) produced substantial alternative-history work engaging Mesopotamian and Hebrew material as evidence of extra-terrestrial-civilization presence in human prehistory. Sitchin's specific framework (the "Anunnaki" reading of Mesopotamian texts) is broadly compatible with the corpus's framework at the structural level, while differing in specific details.
 
-**Erich von Däniken's broader work**. **Erich von Däniken**'s broader alternative-history scholarship (*Chariots of the Gods?*, 1968, and various subsequent works) engaged substantial cross-cultural mythological material as evidence of extra-terrestrial-civilization presence, with substantial popular-cultural reach despite limited mainstream scholarly acceptance.
+**Erich von Däniken's broader work**. {% wiki(slug="erich-von-daniken") %}**Erich von Däniken**{% end %}'s broader alternative-history scholarship (*Chariots of the Gods?*, 1968, and various subsequent works) engaged substantial cross-cultural mythological material as evidence of extra-terrestrial-civilization presence, with substantial popular-cultural reach despite limited mainstream scholarly acceptance.
 
 **The broader alternative-history landscape**. Various other alternative-history scholars (Graham Hancock, Robert Bauval, various others) have engaged substantial cross-cultural mythological material as evidence of forgotten historical content, with various specific framings and varying degrees of mainstream scholarly engagement.
 
@@ -225,7 +225,7 @@ The passage establishes the open-military phase's specific operational character
 
 ### The pardon and resolution passages
 
-The principal subsequent source-material passages establishing the conflict's resolution appear at the opening of the Sodom and Gomorrah passage (which the Theomachy entry does not treat substantively, but which provides the operational framing for the pardon):
+The principal subsequent source-material passages establishing the conflict's resolution appear at the opening of the Sodom and Gomorrah passage (which the Theomachy entry does not treat at length, but which provides the operational framing for the pardon):
 
 > *"The exiled creators were pardoned and allowed to return to their original planet where they pleaded the case of their magnificent creation."*
 
@@ -441,7 +441,7 @@ Mainstream comparative mythology has produced substantial work on Indo-European 
 
 Various alternative-history scholarly traditions have engaged substantially with Theomachy material as evidence of forgotten historical content.
 
-**Zecharia Sitchin**'s broader engagement with Mesopotamian and Hebrew material as evidence of extra-terrestrial-civilization presence in human prehistory produced substantial alternative-history work across the late twentieth century. Sitchin's specific framework (the "Anunnaki" reading of Mesopotamian texts, particularly developed across his "Earth Chronicles" series beginning with *The 12th Planet*, 1976) is broadly compatible with the corpus's framework at the structural level — both frameworks read ancient mythological-religious texts as preserving memory of actual extra-terrestrial-civilization presence — while substantively differing in specific details.
+**Zecharia Sitchin**'s broader engagement with Mesopotamian and Hebrew material as evidence of extra-terrestrial-civilization presence in human prehistory produced substantial alternative-history work across the late twentieth century. Sitchin's specific framework (the "Anunnaki" reading of Mesopotamian texts, particularly developed across his "Earth Chronicles" series beginning with *The 12th Planet*, 1976) is broadly compatible with the corpus's framework at the structural level — both frameworks read ancient mythological-religious texts as preserving memory of actual extra-terrestrial-civilization presence — while differing in specific details.
 
 **Erich von Däniken**'s broader alternative-history scholarship (*Chariots of the Gods?*, 1968, and various subsequent works) engaged substantial cross-cultural mythological material as evidence of extra-terrestrial-civilization presence. Von Däniken's broader framework has substantial popular-cultural reach despite limited mainstream scholarly acceptance, with various specific framings and varying degrees of methodological rigor across his extensive bibliography.
 
@@ -451,11 +451,15 @@ Various alternative-history scholarly traditions have engaged substantially with
 
 ### The framework's relationship to the broader landscape
 
-The Wheel of Heaven corpus's Theomachy treatment is positioned within this scholarly landscape as follows: substantially aligned with mainstream comparative-mythology Theomachy scholarship at the cross-cultural-pattern documentation level (recognizing the substantial cross-cultural distribution and the structural correspondences); substantively distinct from mainstream comparative-mythology at the interpretive-theoretical level (reading the cross-cultural pattern as preserving cultural memory of a specific historical event rather than as purely archetypal-mythological pattern); substantially aligned with mainstream chaoskampf scholarship at the textual-philological level (recognizing the substantial Hebrew Bible draconic-conflict content); substantively distinct from mainstream chaoskampf scholarship at the interpretive level (reading the Hebrew material as preserving memory of actual events rather than as purely mythological imagery); substantially aligned with Indo-European comparative-mythology scholarship at the structural-correspondence level; substantially aligned with various alternative-history scholarly traditions at the broader interpretive-framework level while operating from distinct source-material warrant principally drawn from the Raëlian source material and the broader corpus development.
+The Wheel of Heaven corpus's Theomachy treatment is positioned within this scholarly landscape as follows: substantially aligned with mainstream comparative-mythology Theomachy scholarship at the cross-cultural-pattern documentation level (recognizing the substantial cross-cultural distribution and the structural correspondences); distinct from mainstream comparative-mythology at the interpretive-theoretical level (reading the cross-cultural pattern as preserving cultural memory of a specific historical event rather than as purely archetypal-mythological pattern); substantially aligned with mainstream chaoskampf scholarship at the textual-philological level (recognizing the substantial Hebrew Bible draconic-conflict content); distinct from mainstream chaoskampf scholarship at the interpretive level (reading the Hebrew material as preserving memory of actual events rather than as purely mythological imagery); substantially aligned with Indo-European comparative-mythology scholarship at the structural-correspondence level; substantially aligned with various alternative-history scholarly traditions at the broader interpretive-framework level while operating from distinct source-material warrant principally drawn from the Raëlian source material and the broader corpus development.
 
 ## Comparative observations
 
 The cross-cultural distribution of Theomachy traditions across virtually every major mythological tradition is one of the framework's principal comparative-observational findings. The pattern is global, with substantial structural correspondences appearing consistently across geographically and chronologically separated traditions.
+
+{% info(title="Explore the data") %}
+The combat-myth parallels surveyed below are cross-referenced in the [Theomachy Cross-References](/datasets/theomachy-crossrefs/) dataset — eight traditions compared by champion, adversary, chaos-form, weapon, and outcome, as downloadable CC0 CSV and JSON.
+{% end %}
 
 ### Greek Titanomachy and Gigantomachy
 
@@ -618,6 +622,7 @@ The mythologies are not invention. They are testimony, distorted by long transmi
 - [Cosmic Competition](../cosmic-competition/)
 - [Tree of Life](../tree-of-life/)
 - [Hebrew Bible](../hebrew-bible/)
+- [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the war whose dragon-verses both readings claim)
 
 ## References
 
