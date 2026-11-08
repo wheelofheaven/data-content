@@ -255,7 +255,7 @@ are different questions.
 - [Lucifer](../lucifer/)
 - [Satan](../satan/)
 - [Serpent](../serpent/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 
 ## References
 

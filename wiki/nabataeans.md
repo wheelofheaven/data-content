@@ -94,8 +94,8 @@ The script-descent (Nabataean Aramaic → Arabic) is not contested; it is textbo
 - [Jesus](../jesus/)
 - [Mecca](../mecca/)
 - [Hebrew Bible](../hebrew-bible/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aries](../timeline/age-of-aries/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
+- [Age of Aries](../../timeline/age-of-aries/)
 - [List of prophets and religions](../list-of-prophets-and-religions/)
 
 ## References

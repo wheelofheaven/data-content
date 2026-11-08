@@ -121,7 +121,7 @@ status_in_framework = "基礎的なメタ概念。より広いプロジェクト
 
 ## Wheel of Heaven の読み
 
-枠組みの読みでは、そしてここでは正典の主張をはっきりと述べることができますが、天の輪は神秘的な遺産ではなく、一つの道具です。黄道十二宮は、[エロヒム](../elohim/)、すなわちヘブライ語聖書がこの複数形の語で呼ぶ先進的な人間の文明が、数万年にわたって続くプロジェクトのあいだ方向を見失わないために考案した暦であり、歳差時代はそのゆっくりと進む針です。エロヒムは約22,000年前に地球に到来し、一つの[大年](../great-year/)を構成する十二の時代を通じて、惑星を調査して準備し、生命を合成し、ついには自らの姿に似せて人類を創造しました。{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — the foundational contact account") }}それぞれの時代が作業の一段階を担いました。[獅子座の時代](../age-of-leo/)における人類の合成、蟹座における[エデン](../eden/)、双子座における[大洪水](../great-flood/)、牡牛座におけるバベルと族長たち、牡羊座におけるヘブライの預言者たち、魚座におけるキリスト教の時代、そして[みずがめ座の時代](../age-of-aquarius/)における現在の回復です。{{ cite(id="genesis", text="[4]", title="Genesis — read by the corpus as compressed memory of the Elohim project") }}
+枠組みの読みでは、そしてここでは正典の主張をはっきりと述べることができますが、天の輪は神秘的な遺産ではなく、一つの道具です。黄道十二宮は、[エロヒム](../elohim/)、すなわちヘブライ語聖書がこの複数形の語で呼ぶ先進的な人間の文明が、数万年にわたって続くプロジェクトのあいだ方向を見失わないために考案した暦であり、歳差時代はそのゆっくりと進む針です。エロヒムは約22,000年前に地球に到来し、一つの[大年](../great-year/)を構成する十二の時代を通じて、惑星を調査して準備し、生命を合成し、ついには自らの姿に似せて人類を創造しました。{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — the foundational contact account") }}それぞれの時代が作業の一段階を担いました。[獅子座の時代](../../timeline/age-of-leo/)における人類の合成、蟹座における[エデン](../eden/)、双子座における[大洪水](../great-flood/)、牡牛座におけるバベルと族長たち、牡羊座におけるヘブライの預言者たち、魚座におけるキリスト教の時代、そして[みずがめ座の時代](../../timeline/age-of-aquarius/)における現在の回復です。{{ cite(id="genesis", text="[4]", title="Genesis — read by the corpus as compressed memory of the Elohim project") }}
 
 {{ diagram(name="world-ages-timeline", alt="山羊座の時代(紀元前約21,810年、プロジェクトの始まり)からみずがめ座の時代(紀元1,950年以降、現在の時代)まで、十二の連続した歳差時代を示す横向きの年表。獅子座、蟹座、双子座、牡牛座、牡羊座、魚座の下に主要な出来事が記されています。", caption="年表として示した歳差時代の枠組み。約2,160年ずつ連続する十二の時代が、山羊座の時代におけるプロジェクトの始まりから現在のみずがめ座の時代まで、本文献集の物語を運んでいきます。") }}
 
@@ -170,7 +170,7 @@ Wheel of Heaven プロジェクトは、枠組みを詳しく述べたもの、�
 - [ラエル運動](../raelism/)
 - [大使館](../embassy/)
 - [マウロ・ビリーノ](/wiki/mauro-biglino/)
-- [ポール・アンソニー・ウォリス](../paul-anthony-wallis/)
+- [ポール・アンソニー・ウォリス](/wiki/paul-wallis/)
 - [アクエンアテン](../akhenaten/)
 
 ## 参考文献

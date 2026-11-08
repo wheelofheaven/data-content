@@ -289,7 +289,7 @@ développement sans intervention — soit compatible avec un savoir cultivé et
 transmis. La pièce la plus probante est [Göbekli Tepe](/wiki/gobekli-tepe/), dont
 les bâtisseurs ont élevé des enceintes mégalithiques sculptées vers 9500 avant
 notre ère, avant l'agriculture et bien avant le déluge de
-l'[Ère des Gémeaux](../timeline/age-of-gemini/) que le corpus situe vers
+l'[Ère des Gémeaux](../../timeline/age-of-gemini/) que le corpus situe vers
 6 690 avant notre
 ère.{{ cite(id="gobekli-tepe-schmidt", text="[4]", title="Schmidt, Göbekli Tepe (2012)") }}{{ cite(id="dietrich-gobekli-antiquity-2012", text="[5]", title="Dietrich et al., Antiquity (2012)") }}{{ footnote(id="6") }}
 
@@ -433,4 +433,4 @@ partis les maîtres.
 - [Graham Hancock](/wiki/graham-hancock/)
 - [John Anthony West](/wiki/john-anthony-west/)
 - [Yahvé](../yahweh/)
-- [Ère des Gémeaux](../timeline/age-of-gemini/)
+- [Ère des Gémeaux](../../timeline/age-of-gemini/)

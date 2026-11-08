@@ -287,8 +287,8 @@ The corpus's reading is positioned as follows within the broader landscape: alig
 
 ## See also
 
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Pisces](../timeline/age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
 - [Golden Age](../golden-age/)
 - [Book of Revelation](../book-of-revelation/)
 - [Revelation, the Wheel of Heaven translation](/library/revelation-woh/)

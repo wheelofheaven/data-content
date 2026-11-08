@@ -566,7 +566,7 @@ The corpus does not reject the whole mainstream account. Cultural diffusion did 
 - [Swastika](../swastika/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](../paul-wallis/)
 
 ## References
 

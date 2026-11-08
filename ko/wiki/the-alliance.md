@@ -459,14 +459,14 @@ The corpus's working position on the comparative-alliance question is that the g
 - [Jesus](../jesus/)
 - [Muhammad](../muhammad/)
 - [Raël](../rael/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Age of Taurus](../timeline/age-of-taurus/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
+- [Age of Gemini](../../timeline/age-of-gemini/)
+- [Age of Taurus](../../timeline/age-of-taurus/)
+- [Age of Aries](../../timeline/age-of-aries/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Jean Sendy](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 
 ## References
 

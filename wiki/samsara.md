@@ -160,7 +160,7 @@ states, civilizations capable of interstellar travel are invariably peaceful:
 sustained violence and starflight cannot coexist for long in the same species.
 
 For humanity today the threshold is dated to 1945. The acquisition of nuclear
-weapons places the present [Age of Aquarius](../age-of-aquarius/) at the
+weapons places the present [Age of Aquarius](../../timeline/age-of-aquarius/) at the
 selection point the corpus calls the [Apocalypse](../apocalypse/) — not an
 ending but a moment of decision, its outcome contingent on how humanity navigates
 it rather than predetermined. The 1975 contact frames this within a correction
@@ -269,7 +269,7 @@ something real is being remembered.
 - [Swastika](../swastika/)
 - [Raëlian Symbol of Infinity](../raelian-symbol-of-infinity/)
 - [New Commandments](../new-commandments/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [World Age](../world-age/)
 - [Buddha](../buddha/)
 - [Buddhism](../buddhism/)

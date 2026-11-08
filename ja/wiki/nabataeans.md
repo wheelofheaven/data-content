@@ -83,8 +83,8 @@ distinguished_from = "ヒジャーズのベドウィン(中世の文献学者が
 - [イエス](../jesus/)
 - [メッカ](../mecca/)
 - [ヘブライ語聖書](../hebrew-bible/)
-- [魚座の時代](../timeline/age-of-pisces/)
-- [牡羊座の時代](../timeline/age-of-aries/)
+- [魚座の時代](../../timeline/age-of-pisces/)
+- [牡羊座の時代](../../timeline/age-of-aries/)
 - [預言者と宗教の一覧](../list-of-prophets-and-religions/)
 
 ## 参考文献

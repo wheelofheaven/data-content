@@ -273,7 +273,7 @@ status_in_framework = "Избирательное рассмотрение: со
 взращённым, переданным знанием. Сильнейший пример —
 [Гёбекли-Тепе](/wiki/gobekli-tepe/), строители которого около 9500 г. до н. э.
 возвели резные мегалитические святилища — до земледелия и задолго до потопа
-[Эпохи Близнецов](../timeline/age-of-gemini/), который корпус относит примерно
+[Эпохи Близнецов](../../timeline/age-of-gemini/), который корпус относит примерно
 к 6690
 г. до н. э.{{ cite(id="gobekli-tepe-schmidt", text="[4]", title="Schmidt, Göbekli Tepe (2012)") }}{{ cite(id="dietrich-gobekli-antiquity-2012", text="[5]", title="Dietrich et al., Antiquity (2012)") }}{{ footnote(id="6") }}
 
@@ -408,4 +408,4 @@ Gods?* Эриха фон Дэникена{{ cite(id="chariots-of-the-gods", text
 - [Грэм Хэнкок](/wiki/graham-hancock/)
 - [Джон Энтони Уэст](/wiki/john-anthony-west/)
 - [Яхве](../yahweh/)
-- [Эпоха Близнецов](../timeline/age-of-gemini/)
+- [Эпоха Близнецов](../../timeline/age-of-gemini/)

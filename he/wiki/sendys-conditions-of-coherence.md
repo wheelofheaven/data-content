@@ -354,7 +354,7 @@ The early modern European intellectual transformation — the Copernican revolut
 - [Message from the Designers](/wiki/message-from-the-designers/)
 - [Religion](../religion/)
 - [Genesis](../genesis/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 
 ## References
 

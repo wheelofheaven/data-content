@@ -83,8 +83,8 @@ Die Schriftabstammung (nabatäisches Aramäisch → Arabisch) ist nicht umstritt
 - [Jesus](../jesus/)
 - [Mekka](../mecca/)
 - [Hebräische Bibel](../hebrew-bible/)
-- [Zeitalter der Fische](../timeline/age-of-pisces/)
-- [Zeitalter des Widders](../timeline/age-of-aries/)
+- [Zeitalter der Fische](../../timeline/age-of-pisces/)
+- [Zeitalter des Widders](../../timeline/age-of-aries/)
 - [Liste der Propheten und Religionen](../list-of-prophets-and-religions/)
 
 ## Referenzen

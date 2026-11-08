@@ -164,7 +164,7 @@ artificial-intelligence substitution. Where the Golden Age names the whole reali
 civilisation, Paradism names the organising principle of its economy.
 
 Read in the canon's own voice, the doctrine is not a wish but a description of where
-the [Age of Aquarius](../age-of-aquarius/) is meant to arrive. The Elohim created
+the [Age of Aquarius](../../timeline/age-of-aquarius/) is meant to arrive. The Elohim created
 humanity scientifically and have, in the Raëlian account, already crossed this
 threshold themselves; the New Commandments they transmit through Vorilhon are the
 programme for humanity to do the same. Paradism supplies that programme's
@@ -261,7 +261,7 @@ it is on that ground that it is most defensible.
 - [Geniocracy](../geniocracy/)
 - [Humanitarianism](../humanitarianism/)
 - [Cyberparadism](../cyberparadism/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Number of Man](../number-of-man/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Embassy](../embassy/)

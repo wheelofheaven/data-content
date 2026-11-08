@@ -183,10 +183,10 @@ Tierra hace unos 22.000 años y, a lo largo de las doce eras de un único
 vida y, finalmente, crearon a la humanidad a su propia
 imagen.{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="Vorilhon (Raël), *El libro que dice la verdad* (1974) — el relato de contacto fundacional") }}
 Cada era llevó consigo una fase de la obra: la síntesis humana en la
-[Era de Leo](../age-of-leo/), el [Edén](../eden/) en Cáncer, el
+[Era de Leo](../../timeline/age-of-leo/), el [Edén](../eden/) en Cáncer, el
 [Gran Diluvio](../great-flood/) en Géminis, Babel y los patriarcas en Tauro, los
 profetas hebreos en Aries, la era cristiana en Piscis y la recuperación actual en
-la [Era de Acuario](../age-of-aquarius/).{{ cite(id="genesis", text="[4]", title="Génesis — leído por el corpus como memoria comprimida del proyecto de los Elohim") }}
+la [Era de Acuario](../../timeline/age-of-aquarius/).{{ cite(id="genesis", text="[4]", title="Génesis — leído por el corpus como memoria comprimida del proyecto de los Elohim") }}
 
 {{ diagram(name="world-ages-timeline", alt="Una línea de tiempo horizontal de las doce eras precesionales contiguas, desde la Era de Capricornio (~21.810 a. C., apertura del proyecto) hasta la Era de Acuario (desde 1950 d. C., la era actual), con los acontecimientos clave señalados bajo Leo, Cáncer, Géminis, Tauro, Aries y Piscis.", caption="El marco de las eras precesionales como línea de tiempo: doce eras contiguas de ~2.160 años que llevan el relato del corpus desde la apertura del proyecto en la Era de Capricornio hasta la actual Era de Acuario.") }}
 
@@ -317,7 +317,7 @@ derivada del cómputo propio de ninguna tradición.{{ footnote(id="3") }}
 - [Raelismo](../raelism/)
 - [Embajada](../embassy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 - [Akhenatón](../akhenaten/)
 
 ## Referencias

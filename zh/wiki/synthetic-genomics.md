@@ -264,7 +264,7 @@ The framework reads the contemporary emergence of pan-tropic synthetic genomics 
 
 ### The position within the broader framework reading
 
-The synthetic-genomics entry's contribution to the broader framework is the specific observation that the *scale* at which contemporary synthetic genomics operates is the scale at which the source material describes the Elohim's work. The synthetic-biology entry's contribution is the observation that the *methodology* of synthetic biology matches the source material's operational vocabulary. The two together — scale match and methodology match — are the framework's two principal evidential features for the life-engineering convergence as a whole. The broader convergence argument is developed in the [life engineering](../life-engineering/) entry; the framework reading of the wider corpus is developed across the dedicated entries on the [Age of Aquarius](../timeline/age-of-aquarius/), the [Cosmic Chain](../cosmic-chain/), and the broader chapter material.
+The synthetic-genomics entry's contribution to the broader framework is the specific observation that the *scale* at which contemporary synthetic genomics operates is the scale at which the source material describes the Elohim's work. The synthetic-biology entry's contribution is the observation that the *methodology* of synthetic biology matches the source material's operational vocabulary. The two together — scale match and methodology match — are the framework's two principal evidential features for the life-engineering convergence as a whole. The broader convergence argument is developed in the [life engineering](../life-engineering/) entry; the framework reading of the wider corpus is developed across the dedicated entries on the [Age of Aquarius](../../timeline/age-of-aquarius/), the [Cosmic Chain](../cosmic-chain/), and the broader chapter material.
 
 ## Comparative observations
 
@@ -301,8 +301,8 @@ Within the specific Sendy–Raëlian interpretive tradition that the corpus read
 - [Genesis](../genesis/)
 - [Elohim](../elohim/)
 - [Tree of Life](../tree-of-life/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Capricorn](../timeline/age-of-capricorn/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
+- [Age of Capricorn](../../timeline/age-of-capricorn/)
 - [Apocalypse](../apocalypse/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)

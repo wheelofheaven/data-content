@@ -305,9 +305,9 @@ The substantive substantial Number of Man interpretation operates substantively 
 
 **Genesis creation content**. The substantive substantial 11,375 BCE finalization date substantively registers substantive substantial Genesis 1 sixth day creation event (treated systematically in the [Genesis](../genesis/) entry when written) at substantive substantial Virgo-Leo precessional boundary. The substantive substantial Genesis substantive substantial six-day-of-creation framework substantively maps to substantive substantial six precessional ages preceding substantive substantial Age of Leo (the substantive substantial sixth day, substantive substantial human-creation age), with substantive substantial Number of Man calculation substantively confirming substantive substantial chronological positioning.
 
-**Age of Leo human-creation content**. The substantive substantial Age of Leo (substantive substantial −11,010 to −8,850 in corpus chronology) substantively operates as substantive substantial human-creation precessional age (treated in the [Age of Leo](../age-of-leo/) entry when written). The substantive substantial 11,375 BCE substantive substantial finalization date substantively positions at substantive substantial Virgo-Leo boundary, substantively registering substantive substantial creation event at substantive substantial age-inauguration moment.
+**Age of Leo human-creation content**. The substantive substantial Age of Leo (substantive substantial −11,010 to −8,850 in corpus chronology) substantively operates as substantive substantial human-creation precessional age (treated in the [Age of Leo](../../timeline/age-of-leo/) entry when written). The substantive substantial 11,375 BCE substantive substantial finalization date substantively positions at substantive substantial Virgo-Leo boundary, substantively registering substantive substantial creation event at substantive substantial age-inauguration moment.
 
-**Age of Aquarius nuclear-acquisition content**. The substantive substantial 1945 substantive substantial nuclear-acquisition substantively registers substantive substantial Aquarian-age inauguration (treated in the [Age of Aquarius](../age-of-aquarius/) entry when written) and substantive substantial Apocalypse threshold-event (treated in the [Apocalypse](../apocalypse/) entry when written). The substantive substantial 666th-generation arrival substantively at substantive substantial 1945 substantively registers substantive substantial completion of substantive substantial generational counting from substantive substantial creation-event to substantive substantial nuclear-acquisition-threshold.
+**Age of Aquarius nuclear-acquisition content**. The substantive substantial 1945 substantive substantial nuclear-acquisition substantively registers substantive substantial Aquarian-age inauguration (treated in the [Age of Aquarius](../../timeline/age-of-aquarius/) entry when written) and substantive substantial Apocalypse threshold-event (treated in the [Apocalypse](../apocalypse/) entry when written). The substantive substantial 666th-generation arrival substantively at substantive substantial 1945 substantively registers substantive substantial completion of substantive substantial generational counting from substantive substantial creation-event to substantive substantial nuclear-acquisition-threshold.
 
 **Cosmic Chain succession content**. The substantive substantial half-Great-Year span substantively registers substantive substantial first-half cosmic-chain succession content — substantive substantial humanity-as-creation period preceding substantive substantial Aquarian-age substantive substantial transition to substantive substantial humanity-as-creator status (treated in the [Cosmic Chain](../cosmic-chain/) entry).
 
@@ -341,11 +341,11 @@ The substantive substantial 11,375 BCE finalization date substantively anchors s
 
 ### The Age of Leo human-creation content
 
-The substantive substantial Age of Leo substantively operates as substantive substantial human-creation precessional age, with substantive substantial Number of Man calculation substantively positioning substantive substantial creation event at substantive substantial Virgo-Leo boundary. The detailed treatment lives in the [Age of Leo](../age-of-leo/) entry when written.
+The substantive substantial Age of Leo substantively operates as substantive substantial human-creation precessional age, with substantive substantial Number of Man calculation substantively positioning substantive substantial creation event at substantive substantial Virgo-Leo boundary. The detailed treatment lives in the [Age of Leo](../../timeline/age-of-leo/) entry when written.
 
 ### The Age of Aquarius and Apocalypse content
 
-The substantive substantial 1945 substantive substantial nuclear-acquisition registers substantive substantial Aquarian-age inauguration and substantive substantial Apocalypse threshold-event. The detailed treatments live in the [Age of Aquarius](../age-of-aquarius/) and [Apocalypse](../apocalypse/) entries when written.
+The substantive substantial 1945 substantive substantial nuclear-acquisition registers substantive substantial Aquarian-age inauguration and substantive substantial Apocalypse threshold-event. The detailed treatments live in the [Age of Aquarius](../../timeline/age-of-aquarius/) and [Apocalypse](../apocalypse/) entries when written.
 
 ### The Golden Age threshold content
 
@@ -617,9 +617,9 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Wheel of Heaven](../wheel-of-heaven/)
 - [Apocalypse](../apocalypse/)
 - [Genesis](../genesis/)
-- [Age of Leo](../age-of-leo/)
-- [Age of Virgo](../age-of-virgo/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Leo](../../timeline/age-of-leo/)
+- [Age of Virgo](../../timeline/age-of-virgo/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Golden Age](../golden-age/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)

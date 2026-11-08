@@ -108,7 +108,7 @@ The Tradition is, in the framework's reading, the **body of preserved knowledge*
 
 **It is specific content.** The Tradition is not vague spiritual-cultural inheritance but specific knowledge content: precessional astronomy (the substantial 25,920-year cycle and its zodiacal articulation), the *Elohim* plurality reading (the substantial creators-as-multiple framework), the broader cosmic-civilizational framework (the substantial Earth-as-creation-site-within-broader-cosmic-order content), the various technical elements (the substantial transmutation-of-metals, flying-machines, lunar-travel, extraterrestrial-life anticipations), the various theological elements (the substantial alliance-contact framework, the substantial covenant content, the substantial prophetic-tradition content).
 
-**It has specific historical origins.** The Tradition's content traces, on the framework's reading, to original Elohim contact during the early post-flood ages — particularly the Taurus age (c. 4530-2370 BCE on the corpus's chronology) when post-flood civilizational reconstruction occurred and substantial alliance-instruction was transmitted to the surviving human populations. The detailed treatment of the post-flood reconstruction lives in the [Age of Taurus](../age-of-taurus/) entry; The Tradition entry's contribution is registering the transmission framework that preserved the substantial content across the subsequent ages.
+**It has specific historical origins.** The Tradition's content traces, on the framework's reading, to original Elohim contact during the early post-flood ages — particularly the Taurus age (c. 4530-2370 BCE on the corpus's chronology) when post-flood civilizational reconstruction occurred and substantial alliance-instruction was transmitted to the surviving human populations. The detailed treatment of the post-flood reconstruction lives in the [Age of Taurus](../../timeline/age-of-taurus/) entry; The Tradition entry's contribution is registering the transmission framework that preserved the substantial content across the subsequent ages.
 
 **It has specific transmission lineages.** The Tradition operates principally through specific pedagogical-priestly chains across multiple cultural-religious traditions. The principal chains Sendy registers — Egyptian priestly, Hebrew prophetic-rabbinic-Kabbalistic, Pythagorean-Platonic Greek philosophical, Hermetic, Christian medieval-scholastic — operate as substantively distinct cultural receptions of the same underlying Tradition content. The substantial cross-cultural recurrence registers substantive evidence for the framework's reading: independent fabrication does not produce the substantial structural convergences that the various traditions exhibit.
 
@@ -523,7 +523,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Atlantis](../atlantis/)
 - [Hamlet's Mill](/wiki/hamlets-mill/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 
 ## References
 

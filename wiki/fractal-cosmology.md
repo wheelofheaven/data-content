@@ -364,7 +364,7 @@ This does not require rejecting the mainstream account wholesale. Cultural diffu
 - [Tree of Life](../tree-of-life/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](../paul-wallis/)
 
 ## References
 

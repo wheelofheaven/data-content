@@ -290,7 +290,7 @@ The substantive Decalogue articulates substantive substantial individual-ethical
 
 The substantive substantial corpus reads the Decalogue as substantive substantial Aries-age directive articulation delivered by substantive Yahweh to substantive Moses (treated systematically in the [Moses](../moses/) entry when written). The substantial Decalogue operates substantively as substantive substantial directional orientation for substantive substantial Aries-age engagement — substantive substantial individual-ethical content registering substantive substantial appropriate developmental directive for substantive substantial then-current civilizational developmental stage.
 
-The substantial substantive Aries-age character (treated systematically in the [Age of Aries](../age-of-aries/) entry when written) operates substantively as substantive substantial individual-tribal-warrior civilizational developmental stage. The substantial Decalogue's substantive substantial individual-ethical-prohibitive content registers substantively as substantive substantial appropriate directive content for substantive substantial then-current developmental stage — substantive substantial individual-ethical foundations as substantive substantial prerequisite for substantive substantial subsequent civilizational developmental engagement.
+The substantial substantive Aries-age character (treated systematically in the [Age of Aries](../../timeline/age-of-aries/) entry when written) operates substantively as substantive substantial individual-tribal-warrior civilizational developmental stage. The substantial Decalogue's substantive substantial individual-ethical-prohibitive content registers substantively as substantive substantial appropriate directive content for substantive substantial then-current developmental stage — substantive substantial individual-ethical foundations as substantive substantial prerequisite for substantive substantial subsequent civilizational developmental engagement.
 
 ### The substantive substantial parallel structure
 
@@ -325,7 +325,7 @@ The New Commandments framework operates substantively across multiple corpus fra
 
 ### The Aquarian-age program
 
-The substantial Aquarian-age program articulation operates substantively across multiple corpus entries. The detailed treatment of the broader Aquarian-age content lives in the [Age of Aquarius](../age-of-aquarius/) entry when written; the present entry articulates the principal programmatic content systematically.
+The substantial Aquarian-age program articulation operates substantively across multiple corpus entries. The detailed treatment of the broader Aquarian-age content lives in the [Age of Aquarius](../../timeline/age-of-aquarius/) entry when written; the present entry articulates the principal programmatic content systematically.
 
 ### The dedicated commandment entries
 
@@ -627,9 +627,9 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Cyberparadism](../cyberparadism/)
 - [Paradism](../paradism/)
 - [Movement for Worldwide Geniocracy](../movement-for-worldwide-geniocracy/)
-- [Age of Aquarius](../age-of-aquarius/)
-- [Age of Aries](../age-of-aries/)
-- [Age of Pisces](../age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
+- [Age of Aries](../../timeline/age-of-aries/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
 - [Moses](../moses/)
 - [Religion](../religion/)
 

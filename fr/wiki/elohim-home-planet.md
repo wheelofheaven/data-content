@@ -628,8 +628,8 @@ The substantial alternative explanations — common cognitive structures (substa
 - [Forerunners](../forerunners/)
 - [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
 - [Comparative Mythology](../comparative-mythology/)
-- [Age of Capricorn](../age-of-capricorn/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Capricorn](../../timeline/age-of-capricorn/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 
 ## References
 

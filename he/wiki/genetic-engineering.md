@@ -30,7 +30,7 @@ framework_significance = "Read by the framework as the substantive recovery by h
 
 The foundational techniques of genetic engineering — restriction enzymes, DNA ligase, plasmids as vectors, bacterial transformation, the polymerase chain reaction (PCR), DNA sequencing — have substantially expanded across the past half-century. The contemporary period, particularly since the development of **CRISPR-Cas9** as a precise and accessible genome-editing technology in 2012, has seen the discipline's capabilities approach what was previously considered theoretical: the precise, targeted modification of specific genetic sequences in essentially any organism, with substantively improving precision, efficiency, and accessibility. The contemporary applications span medicine (recombinant therapeutic proteins, gene therapy, CAR-T cell therapy, mRNA vaccines), agriculture (the broader genetically modified organism / GMO industry), industry (bioplastics, biofuels, recombinant enzymes), and basic biological research.
 
-The Wheel of Heaven framework reads contemporary genetic engineering as the **substantive recovery by humanity** of the engineering capabilities that the Elohim used in the original synthesis approximately 25,000 years ago. The framework's adopted position is that the contemporary acceleration of genetic-engineering capability — particularly the post-CRISPR period from 2012 onward — corresponds substantively to the framework's reading of the contemporary [Age of Apocalypse](../age-of-apocalypse/) transitional period, and that the broader Vorilhon source-material anticipation of humanity's eventual independent creation of life through engineering substantively anticipates the contemporary developments. The relationship to the broader anticipated **Great Return** (treated in the dedicated [Great Return](../great-return/) entry) is read by the framework as substantively important: contemporary genetic-engineering capability provides the substrate onto which the Elohim's anticipated 25,000-year knowledge transfer would build.
+The Wheel of Heaven framework reads contemporary genetic engineering as the **substantive recovery by humanity** of the engineering capabilities that the Elohim used in the original synthesis approximately 25,000 years ago. The framework's adopted position is that the contemporary acceleration of genetic-engineering capability — particularly the post-CRISPR period from 2012 onward — corresponds substantively to the framework's reading of the contemporary [Age of Apocalypse](../apocalypse/) transitional period, and that the broader Vorilhon source-material anticipation of humanity's eventual independent creation of life through engineering substantively anticipates the contemporary developments. The relationship to the broader anticipated **Great Return** (treated in the dedicated [Great Return](../great-return/) entry) is read by the framework as substantively important: contemporary genetic-engineering capability provides the substrate onto which the Elohim's anticipated 25,000-year knowledge transfer would build.
 
 The present entry focuses specifically on genetic engineering as a scientific discipline — the foundational history, the principal techniques, the regulatory framework, the major applications, the substantive controversies, and the framework's reading. The broader life-engineering interpretive context is treated in the [Life engineering](../life-engineering/) entry; the specifically-engineered-organism-design dimension is treated in [Synthetic biology](../synthetic-biology/); the genome-scale work is treated in [Synthetic genomics](../synthetic-genomics/); the non-terrestrial-environment application is treated in [Pantropy](../pantropy/).
 
@@ -366,7 +366,7 @@ The framework reads several substantive chronological correspondences:
 - **The substantive emergence of molecular biology** in the 1940s-1950s corresponds to the framework's reading of the post-1945 emergence of the Age of Apocalypse
 - **The foundational genetic engineering period** (1972-1980) corresponds to the substantive consolidation of the recovery
 - **The CRISPR era** (2012-present) corresponds to the substantive contemporary acceleration of capability
-- **The anticipated Great Return** (in the broader Age of Aquarius / Age of Apocalypse framework, treated in the [Age of Apocalypse](../age-of-apocalypse/) and [Great Return](../great-return/) entries) would substantively continue from the contemporary recovery point
+- **The anticipated Great Return** (in the broader Age of Aquarius / Age of Apocalypse framework, treated in the [Age of Apocalypse](../apocalypse/) and [Great Return](../great-return/) entries) would substantively continue from the contemporary recovery point
 
 The framework treats the specific chronological correspondences as substantively significant evidence for the broader interpretive position: the contemporary scientific developments are not random but are substantively patterned in ways consistent with the framework's reading of the broader Elohim project chronology.
 
@@ -412,7 +412,7 @@ The Genetic engineering entry connects to a substantial number of other corpus e
 
 **The Great Return entry.** The dedicated [Great Return](../great-return/) entry treats the anticipated 25,000-year knowledge transfer that would substantively continue from the contemporary recovery point.
 
-**The Age of Apocalypse entry.** The dedicated [Age of Apocalypse](../age-of-apocalypse/) entry treats the post-1945 transitional period during which the substantive contemporary recovery has occurred.
+**The Age of Apocalypse entry.** The dedicated [Age of Apocalypse](../apocalypse/) entry treats the post-1945 transitional period during which the substantive contemporary recovery has occurred.
 
 **The List of etymological readings entry.** The dedicated [List of etymological readings](../list-of-etymological-readings/) entry treats the etymological connections, including *genesis* / genetic engineering.
 
@@ -443,7 +443,7 @@ The Genetic engineering entry surfaces several open questions for the framework'
 - [Adamites](../adamites/)
 - [Elohim](../elohim/)
 - [Great Return](../great-return/)
-- [Age of Apocalypse](../age-of-apocalypse/)
+- [Age of Apocalypse](../apocalypse/)
 - [Intelligent design](../intelligent-design/)
 - [Cosmic pluralism](../cosmic-pluralism/)
 - [List of etymological readings](../list-of-etymological-readings/)

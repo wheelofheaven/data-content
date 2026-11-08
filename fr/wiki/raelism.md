@@ -308,7 +308,7 @@ Le cadrage de religion athée est structurellement distinctif au sein du paysage
 
 ### Les sept nouveaux commandements
 
-Les sept nouveaux commandements structurent le programme politico-religieux verseaunien plus large. Le traitement détaillé de chaque commandement se trouve dans l'entrée [Ère du Verseau](../timeline/age-of-aquarius/) ; la contribution spécifique de l'entrée raëlisme est d'enregistrer les commandements dans le cadre doctrinal plus large&#8239;:
+Les sept nouveaux commandements structurent le programme politico-religieux verseaunien plus large. Le traitement détaillé de chaque commandement se trouve dans l'entrée [Ère du Verseau](../../timeline/age-of-aquarius/) ; la contribution spécifique de l'entrée raëlisme est d'enregistrer les commandements dans le cadre doctrinal plus large&#8239;:
 
 **1. Géniocratie** — démocratie sélective avec éligibilité aux fonctions sur critère d'intelligence (50&#8239;% au-dessus de la moyenne) et droit de vote (10&#8239;% au-dessus de la moyenne) ; positionnée comme objectif développemental à long terme plutôt que comme changement institutionnel immédiat{{ footnote(id="3") }}
 
@@ -394,7 +394,7 @@ La transparence financière du mouvement raëlien a fait l'objet de diverses enq
 
 ### Le développement institutionnel sur la période postérieure à 1976
 
-L'arc narratif du développement institutionnel du mouvement est traité plus haut sous *Histoire*. Lu comme une séquence de phases organisationnelles, il court de la fondation et de l'expansion de 1976-1990 (l'établissement du MRI, l'achèvement des ouvrages fondateurs, la modification du symbole en 1990), à travers la période d'engagement pour l'ambassade de 1991-2005 (les demandes israëliennes de relocalisation, le message de Yahvé de 1997, l'Ordre des Anges, l'activité de Clonaid culminant dans l'annonce de 2002, et le *Message from the Designers* de 2005), jusqu'à une période de consolidation de 2006-2020 et à l'accélération postérieure à 2021 du projet d'ambassade — l'AEDC, les présentations aux maires de 2022 et le Mémorandum de Collaboration de 2024 —, orientée vers la fenêtre de construction projetée pour 2027-2030.
+L'arc narratif du développement institutionnel du mouvement est traité plus haut sous *Histoire*. Lu comme une séquence de phases organisationnelles, il court de la fondation et de l'expansion de 1976-1990 (l'établissement du MRI, l'achèvement des ouvrages fondateurs, la modification du symbole en 1990), à travers la période d'engagement pour l'ambassade de 1991-2005 (les demandes israéliennes de relocalisation, le message de Yahvé de 1997, l'Ordre des Anges, l'activité de Clonaid culminant dans l'annonce de 2002, et le *Message from the Designers* de 2005), jusqu'à une période de consolidation de 2006-2020 et à l'accélération postérieure à 2021 du projet d'ambassade — l'AEDC, les présentations aux maires de 2022 et le Mémorandum de Collaboration de 2024 —, orientée vers la fenêtre de construction projetée pour 2027-2030.
 
 ### Les principales controverses
 
@@ -436,7 +436,7 @@ Le raëlisme est le principal véhicule institutionnel contemporain pour l'ensei
 
 ### L'entrée Ère du Verseau
 
-Le raëlisme est le principal mouvement religieux-philosophique verseaunien. Le traitement détaillé de l'Ère du Verseau se trouve dans l'entrée [Ère du Verseau](../timeline/age-of-aquarius/) ; la contribution spécifique de l'entrée raëlisme est d'établir le rôle spécifique du mouvement dans les développements opérationnels plus larges de l'ère.
+Le raëlisme est le principal mouvement religieux-philosophique verseaunien. Le traitement détaillé de l'Ère du Verseau se trouve dans l'entrée [Ère du Verseau](../../timeline/age-of-aquarius/) ; la contribution spécifique de l'entrée raëlisme est d'établir le rôle spécifique du mouvement dans les développements opérationnels plus larges de l'ère.
 
 ### Le cadre plus large du corpus
 
@@ -637,13 +637,13 @@ L'explication savante dominante — qui traite généralement le raëlisme à tr
 - [Bouddha](../buddha/)
 - [Genèse](../genesis/)
 - [Bible hébraïque](../hebrew-bible/)
-- [Ère du Verseau](../timeline/age-of-aquarius/)
-- [Ère des Poissons](../timeline/age-of-pisces/)
+- [Ère du Verseau](../../timeline/age-of-aquarius/)
+- [Ère des Poissons](../../timeline/age-of-pisces/)
 - [Seuil atomique](../atomic-threshold/)
 - [Arbre de vie](../tree-of-life/)
 - [Jean Sendy](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 
 ## Références
 

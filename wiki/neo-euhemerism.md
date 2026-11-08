@@ -243,7 +243,7 @@ euhemeristic method should not be discarded along with the field's excesses.
 - [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](../paul-wallis/)
 - [Elohim](../elohim/)
 - [Yahweh](../yahweh/)
 - [Lucifer](../lucifer/)

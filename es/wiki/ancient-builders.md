@@ -286,7 +286,7 @@ formada de lo que predeciría un desarrollo sin perturbaciones — es coherente 
 conocimiento cultivado y transmitido. La prueba más sólida es
 [Göbekli Tepe](/wiki/gobekli-tepe/), cuyos constructores levantaron recintos
 megalíticos tallados hacia el 9500 a. C., antes de la agricultura y mucho antes
-del diluvio de la [Era de Géminis](../timeline/age-of-gemini/) que el corpus sitúa
+del diluvio de la [Era de Géminis](../../timeline/age-of-gemini/) que el corpus sitúa
 hacia el 6690
 a. C.{{ cite(id="gobekli-tepe-schmidt", text="[4]", title="Schmidt, Göbekli Tepe (2012)") }}{{ cite(id="dietrich-gobekli-antiquity-2012", text="[5]", title="Dietrich et al., Antiquity (2012)") }}{{ footnote(id="6") }}
 
@@ -425,4 +425,4 @@ maestros.
 - [Graham Hancock](/wiki/graham-hancock/)
 - [John Anthony West](/wiki/john-anthony-west/)
 - [Yahvé](../yahweh/)
-- [Era de Géminis](../timeline/age-of-gemini/)
+- [Era de Géminis](../../timeline/age-of-gemini/)

@@ -240,7 +240,7 @@ The Humanitarianism entry operates as one of seven New Commandments dedicated en
 
 ### The Aquarian-age program
 
-The Aquarian-age program articulation operates across multiple corpus entries. The detailed treatment of the broader Aquarian-age content lives in the [Age of Aquarius](../age-of-aquarius/) entry when written; the present entry articulates the property-and-inheritance dimension specifically.
+The Aquarian-age program articulation operates across multiple corpus entries. The detailed treatment of the broader Aquarian-age content lives in the [Age of Aquarius](../../timeline/age-of-aquarius/) entry when written; the present entry articulates the property-and-inheritance dimension specifically.
 
 ### The Hebrew Bible Jubilee tradition
 
@@ -603,7 +603,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Cyberparadism](../cyberparadism/)
 - [Jubilee](../jubilee/)
 - [Embassy](../embassy/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Apocalypse](../apocalypse/)
 
 ## References

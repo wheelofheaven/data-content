@@ -83,8 +83,8 @@ distinguished_from = "希賈茲的貝都因人(中世紀語文學家曾誤將其
 - [耶穌](../jesus/)
 - [麥加](../mecca/)
 - [希伯來聖經](../hebrew-bible/)
-- [雙魚座時代](../timeline/age-of-pisces/)
-- [白羊座時代](../timeline/age-of-aries/)
+- [雙魚座時代](../../timeline/age-of-pisces/)
+- [白羊座時代](../../timeline/age-of-aries/)
 - [先知與宗教清單](../list-of-prophets-and-religions/)
 
 ## 參考文獻

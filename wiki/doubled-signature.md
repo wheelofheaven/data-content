@@ -241,7 +241,7 @@ The Doubled Signature is a load-bearing analytical principle across several corp
 
 ### The age-specific entries
 
-It is most fully applied in the precessional age entries — [Age of Pisces](../timeline/age-of-pisces/), [Age of Aries](../timeline/age-of-aries/), [Age of Taurus](../timeline/age-of-taurus/), and [Age of Aquarius](../timeline/age-of-aquarius/) — each of which carries the detailed treatment of its own doubled signature; this entry establishes the general principle.
+It is most fully applied in the precessional age entries — [Age of Pisces](../../timeline/age-of-pisces/), [Age of Aries](../../timeline/age-of-aries/), [Age of Taurus](../../timeline/age-of-taurus/), and [Age of Aquarius](../../timeline/age-of-aquarius/) — each of which carries the detailed treatment of its own doubled signature; this entry establishes the general principle.
 
 ### The Jesus and Mary entries
 
@@ -354,22 +354,22 @@ The corpus does not reject the mainstream framework wholesale: cultural diffusio
 - [Prophet](../prophet/)
 - [Genesis](../genesis/)
 - [Hebrew Bible](../hebrew-bible/)
-- [Age of Capricorn](../timeline/age-of-capricorn/)
-- [Age of Sagittarius](../timeline/age-of-sagittarius/)
-- [Age of Scorpio](../timeline/age-of-scorpio/)
-- [Age of Libra](../timeline/age-of-libra/)
-- [Age of Virgo](../timeline/age-of-virgo/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Age of Taurus](../timeline/age-of-taurus/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
+- [Age of Capricorn](../../timeline/age-of-capricorn/)
+- [Age of Sagittarius](../../timeline/age-of-sagittarius/)
+- [Age of Scorpio](../../timeline/age-of-scorpio/)
+- [Age of Libra](../../timeline/age-of-libra/)
+- [Age of Virgo](../../timeline/age-of-virgo/)
+- [Age of Leo](../../timeline/age-of-leo/)
+- [Age of Cancer](../../timeline/age-of-cancer/)
+- [Age of Gemini](../../timeline/age-of-gemini/)
+- [Age of Taurus](../../timeline/age-of-taurus/)
+- [Age of Aries](../../timeline/age-of-aries/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Hamlet's Mill](../hamlets-mill/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](../paul-wallis/)
 
 ## References
 

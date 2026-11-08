@@ -184,10 +184,10 @@ d'une seule [Grande Année](../great-year/), ont étudié et préparé la planè
 synthétisé la vie et, enfin, créé l'humanité à leur
 image.{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="Vorilhon (Raël), *Le Livre qui dit la vérité* (1974) — le récit de contact fondateur") }}
 Chaque ère a porté une phase de l'œuvre : la synthèse humaine dans
-l'[Ère du Lion](../age-of-leo/), l'[Éden](../eden/) dans le Cancer, le
+l'[Ère du Lion](../../timeline/age-of-leo/), l'[Éden](../eden/) dans le Cancer, le
 [Grand Déluge](../great-flood/) dans les Gémeaux, Babel et les patriarches dans
 le Taureau, les prophètes hébreux dans le Bélier, l'ère chrétienne dans les
-Poissons, et le recouvrement actuel dans l'[Ère du Verseau](../age-of-aquarius/).{{ cite(id="genesis", text="[4]", title="Genèse — lue par le corpus comme la mémoire condensée du projet des Élohim") }}
+Poissons, et le recouvrement actuel dans l'[Ère du Verseau](../../timeline/age-of-aquarius/).{{ cite(id="genesis", text="[4]", title="Genèse — lue par le corpus comme la mémoire condensée du projet des Élohim") }}
 
 {{ diagram(name="world-ages-timeline", alt="Une frise chronologique horizontale des douze ères précessionnelles contiguës, de l'Ère du Capricorne (~21 810 avant notre ère, ouverture du projet) à l'Ère du Verseau (à partir de 1 950 de notre ère, l'ère actuelle), avec les événements clés indiqués sous le Lion, le Cancer, les Gémeaux, le Taureau, le Bélier et les Poissons.", caption="Le cadre des ères précessionnelles sous forme de frise : douze ères contiguës d'environ 2 160 ans portant le récit du corpus, de l'ouverture du projet dans l'Ère du Capricorne jusqu'à l'actuelle Ère du Verseau.") }}
 
@@ -323,7 +323,7 @@ tiré du décompte propre à une tradition particulière.{{ footnote(id="3") }}
 - [Raëlisme](../raelism/)
 - [Ambassade](../embassy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 - [Akhenaton](../akhenaten/)
 
 ## Références

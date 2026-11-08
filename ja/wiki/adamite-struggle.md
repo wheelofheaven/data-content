@@ -1,12 +1,12 @@
 +++
 title = "アダム系統の闘争"
-description = "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
+description = "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「大洪水以前」の項に収録されている。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
 translation_status = "metadata_only"
-redirect_to = { title = "Serpentine Rebellion", path = "/wiki/serpentine-rebellion/" }
+redirect_to = { title = "大洪水以前", path = "/wiki/antediluvian/" }
 category = "Events & Narratives"
 timeline = ["cancer", "gemini", "taurus"]
 claim_type = "inferred"

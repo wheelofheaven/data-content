@@ -467,7 +467,7 @@ The substantive corpus engagement with the USSF threads documented mainstream mi
 - [Drake Equation](../drake-equation/)
 - [Crop Circles](../crop-circles/)
 - [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
 - [Message from the Designers](/wiki/message-from-the-designers/)

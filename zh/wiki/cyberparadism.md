@@ -233,7 +233,7 @@ note = "沃里隆关于永恒者之星的接触记述，被读作成熟的、宇
 - [伊甸](../eden/)
 - [耶洛因](../elohim/)
 - [永恒者之星](../elohim-home-planet/)
-- [水瓶座时代](../age-of-aquarius/)
+- [水瓶座时代](../../timeline/age-of-aquarius/)
 - [宇宙链](../cosmic-chain/)
 - [双重署名](../doubled-signature/)
 - [Wheel of Heaven](../wheel-of-heaven/)

@@ -272,9 +272,9 @@ source states.
 - [Cosmic Chain](../cosmic-chain/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Message from the Designers](../message-from-the-designers/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
+- [Age of Aries](../../timeline/age-of-aries/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 
 ## References
 

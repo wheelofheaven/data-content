@@ -105,7 +105,7 @@ Der `claim_type` des Eintrags insgesamt ist `inferred`: Das *ḥanīf*-Konzept u
 - [Elohim](../elohim/)
 - [Rat der Ewigen](../council-of-the-eternals/)
 - [Religion](../religion/)
-- [Zeitalter der Fische](../timeline/age-of-pisces/)
+- [Zeitalter der Fische](../../timeline/age-of-pisces/)
 - [Liste der Propheten und Religionen](../list-of-prophets-and-religions/)
 - [Elohim](../elohim/)
 

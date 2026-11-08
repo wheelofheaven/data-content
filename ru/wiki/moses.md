@@ -371,7 +371,7 @@ The Moses entry surfaces several open questions for the framework's broader inte
 - [Muhammad](../muhammad/)
 - [Council of the Eternals](../council-of-the-eternals/)
 - [Raëlism](../raelism/)
-- [Age of Aries](../timeline/age-of-aries/)
+- [Age of Aries](../../timeline/age-of-aries/)
 - [List of prophets and religions](../list-of-prophets-and-religions/)
 - [List of exegetic readings](../list-of-exegetic-readings/)
 - [List of close encounters](../list-of-close-encounters/)
@@ -379,7 +379,7 @@ The Moses entry surfaces several open questions for the framework's broader inte
 
 ## Read more
 
-- [Timeline › Age of Aries](../timeline/age-of-aries/)
+- [Timeline › Age of Aries](../../timeline/age-of-aries/)
 
 ## External links
 

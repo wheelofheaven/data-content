@@ -276,7 +276,7 @@ appearing sooner and more fully formed than an undisturbed development would
 predict — is consistent with cultivated, transmitted knowledge. The strongest
 exhibit is [Göbekli Tepe](../gobekli-tepe/), whose builders raised carved
 megalithic enclosures around 9500 BCE, before agriculture and long before the
-[Age of Gemini](../timeline/age-of-gemini/) flood the corpus places at
+[Age of Gemini](../../timeline/age-of-gemini/) flood the corpus places at
 c. 6,690
 BCE.{{ cite(id="gobekli-tepe-schmidt", text="[4]", title="Schmidt, Göbekli Tepe (2012)") }}{{ cite(id="dietrich-gobekli-antiquity-2012", text="[5]", title="Dietrich et al., Antiquity (2012)") }}{{ footnote(id="6") }}
 
@@ -408,4 +408,4 @@ the teachers went.
 - [Graham Hancock](../graham-hancock/)
 - [John Anthony West](../john-anthony-west/)
 - [Yahweh](../yahweh/)
-- [Age of Gemini](../timeline/age-of-gemini/)
+- [Age of Gemini](../../timeline/age-of-gemini/)

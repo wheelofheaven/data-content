@@ -716,7 +716,7 @@ The Council is therefore one component of the Alliance's senior partnership rath
 - [Raël](../rael/)
 - [Jean Sendy](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 
 ## References
 

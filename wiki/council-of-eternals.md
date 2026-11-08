@@ -569,7 +569,7 @@ After the Taurus-age pardon and reintegration, the Council became one part of th
 - [Raël](../rael/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](../paul-wallis/)
 - [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the El-Ba'adat council-of-factions convergence)
 
 ## References

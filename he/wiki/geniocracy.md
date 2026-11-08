@@ -242,7 +242,7 @@ The doctrine operates substantively as principal foundational complement to Huma
 
 ### The Aquarian-age program
 
-The Aquarian-age program articulation operates across multiple corpus entries. The detailed treatment of the broader Aquarian-age content lives in the [Age of Aquarius](../age-of-aquarius/) entry when written; the present entry articulates the political-governance dimension specifically.
+The Aquarian-age program articulation operates across multiple corpus entries. The detailed treatment of the broader Aquarian-age content lives in the [Age of Aquarius](../../timeline/age-of-aquarius/) entry when written; the present entry articulates the political-governance dimension specifically.
 
 ### The Yahweh figure engagement
 
@@ -607,7 +607,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Paradism](../paradism/)
 - [Cyberparadism](../cyberparadism/)
 - [Embassy](../embassy/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Apocalypse](../apocalypse/)
 
 ## References

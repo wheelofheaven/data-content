@@ -413,7 +413,7 @@ not an independent witness that settles anything.
 - [Eden](../eden/)
 - [Elohim](../elohim/)
 - [Planet of the Eternals](../elohim-home-planet/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Doubled Signature](../doubled-signature/)
 - [Wheel of Heaven](../wheel-of-heaven/)

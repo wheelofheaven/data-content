@@ -308,7 +308,7 @@ El encuadre de religión atea es estructuralmente distintivo dentro del paisaje 
 
 ### Los siete nuevos mandamientos
 
-Los siete nuevos mandamientos estructuran el programa político-religioso más amplio de la era acuariana. El tratamiento detallado de cada mandamiento vive en la entrada [Era de Acuario](../timeline/age-of-aquarius/); la contribución específica de la entrada del raelismo es registrar los mandamientos dentro del marco doctrinal más amplio:
+Los siete nuevos mandamientos estructuran el programa político-religioso más amplio de la era acuariana. El tratamiento detallado de cada mandamiento vive en la entrada [Era de Acuario](../../timeline/age-of-aquarius/); la contribución específica de la entrada del raelismo es registrar los mandamientos dentro del marco doctrinal más amplio:
 
 **1. Geniocracia** — democracia selectiva con elegibilidad para cargos basada en la inteligencia (50% por encima de la media) y derecho de voto (10% por encima de la media); posicionada como objetivo de desarrollo a largo plazo en lugar de cambio institucional inmediato{{ footnote(id="3") }}
 
@@ -436,7 +436,7 @@ El raelismo es el principal vehículo institucional contemporáneo para la ense�
 
 ### La entrada Era de Acuario
 
-El raelismo es el principal movimiento religioso-filosófico de la era acuariana. El tratamiento detallado de la Era de Acuario vive en la entrada [Era de Acuario](../timeline/age-of-aquarius/); la contribución específica de la entrada del raelismo es establecer el papel específico del movimiento dentro de los desarrollos operativos más amplios de la era.
+El raelismo es el principal movimiento religioso-filosófico de la era acuariana. El tratamiento detallado de la Era de Acuario vive en la entrada [Era de Acuario](../../timeline/age-of-aquarius/); la contribución específica de la entrada del raelismo es establecer el papel específico del movimiento dentro de los desarrollos operativos más amplios de la era.
 
 ### El marco más amplio del corpus
 
@@ -637,13 +637,13 @@ La explicación académica dominante — que generalmente trata al raelismo a tr
 - [Buda](../buddha/)
 - [Génesis](../genesis/)
 - [Biblia hebrea](../hebrew-bible/)
-- [Era de Acuario](../timeline/age-of-aquarius/)
-- [Era de Piscis](../timeline/age-of-pisces/)
+- [Era de Acuario](../../timeline/age-of-aquarius/)
+- [Era de Piscis](../../timeline/age-of-pisces/)
 - [Umbral Atómico](../atomic-threshold/)
 - [Árbol de la Vida](../tree-of-life/)
 - [Jean Sendy](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 
 ## Referencias
 

@@ -334,7 +334,7 @@ Raël is the principal contemporary instance of the broader prophetic-figure cat
 
 ### The Age of Aquarius entry
 
-Raël is the principal prophetic figure of the Aquarian age. The detailed treatment of the Age of Aquarius lives in the [Age of Aquarius](../timeline/age-of-aquarius/) entry; the Raël entry's specific contribution is establishing the figure's specific role within the age's broader operational developments.
+Raël is the principal prophetic figure of the Aquarian age. The detailed treatment of the Age of Aquarius lives in the [Age of Aquarius](../../timeline/age-of-aquarius/) entry; the Raël entry's specific contribution is establishing the figure's specific role within the age's broader operational developments.
 
 ### The Raëlism entry
 
@@ -520,12 +520,12 @@ The mainstream scholarly explanation — which generally treats Raël as one fig
 - [Muhammad](../muhammad/)
 - [Buddha](../buddha/)
 - [Mary](../mary/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Pisces](../timeline/age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
 - [Atomic Threshold](../atomic-threshold/)
 - [Jean Sendy](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 
 ## References
 

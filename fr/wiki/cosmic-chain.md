@@ -436,11 +436,11 @@ Le cadre de la Compétition cosmique opère comme une phase spécifique au sein 
 
 ### L'entrée de l'ère du Bélier
 
-La découverte du Bélier est l'origine opérationnelle du cadre de la Chaîne cosmique dans le récit plus large du corpus. Le traitement détaillé de l'ère du Bélier et du contenu spécifique de la découverte se trouve dans l'entrée [Ère du Bélier](../timeline/age-of-aries/) ; l'entrée Chaîne cosmique établit le cadre cosmologique plus large que la découverte a produit.
+La découverte du Bélier est l'origine opérationnelle du cadre de la Chaîne cosmique dans le récit plus large du corpus. Le traitement détaillé de l'ère du Bélier et du contenu spécifique de la découverte se trouve dans l'entrée [Ère du Bélier](../../timeline/age-of-aries/) ; l'entrée Chaîne cosmique établit le cadre cosmologique plus large que la découverte a produit.
 
 ### Les entrées de l'ère du Verseau
 
-L'évaluation d'héritage de l'ère du Verseau opère comme la phase actuelle spécifique de la structure cyclique de la Chaîne cosmique. Le traitement détaillé se trouve dans les entrées [Apocalypse](../apocalypse/), [Ambassade](../embassy/) et [Ère du Verseau](../timeline/age-of-aquarius/) ; l'entrée Chaîne cosmique établit le contexte cosmique-cyclique plus large au sein duquel opèrent les développements de l'ère du Verseau.
+L'évaluation d'héritage de l'ère du Verseau opère comme la phase actuelle spécifique de la structure cyclique de la Chaîne cosmique. Le traitement détaillé se trouve dans les entrées [Apocalypse](../apocalypse/), [Ambassade](../embassy/) et [Ère du Verseau](../../timeline/age-of-aquarius/) ; l'entrée Chaîne cosmique établit le contexte cosmique-cyclique plus large au sein duquel opèrent les développements de l'ère du Verseau.
 
 ### Le cadrage cosmologique plus large du corpus
 

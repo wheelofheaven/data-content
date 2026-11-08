@@ -46,7 +46,7 @@ by the Romans in 70 CE). *Embassy* is its operational name — the reception res
 with extraterritorial status whose architecture the source material lays out in detail.
 The corpus reaches for whichever name suits the passage at hand, but all three point to
 one physical thing: the seat of open Elohim–human contact in the
-[Age of Aquarius](../timeline/age-of-aquarius/).
+[Age of Aquarius](../../timeline/age-of-aquarius/).
 
 The phrase is scriptural, and [Yahweh](../yahweh/) uses it directly. In Claude
 Vorilhon's *Extra-Terrestrials Took Me to Their Planet* (1975), in the passage addressed
@@ -224,8 +224,8 @@ honest that the addition rests on the canon rather than on academic agreement.
 - [Apocalypse](../apocalypse/)
 - [Golden Age](../golden-age/)
 - [Cosmic Chain](../cosmic-chain/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Pisces](../timeline/age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
 - [Mark of the Beast](../mark-of-the-beast/)
 - [Book of Revelation](../book-of-revelation/)
 - [Hebrew Bible](../hebrew-bible/)

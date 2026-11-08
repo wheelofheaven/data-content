@@ -159,7 +159,7 @@ nations of the Earth unite to form only one government." The doctrine, in short,
 is not implementable piecemeal; it presumes the rest of the programme around it.
 
 It is also a direction rather than a deadline. The corpus is explicit that the
-New Commandments describe where the [Age of Aquarius](../timeline/age-of-aquarius/)
+New Commandments describe where the [Age of Aquarius](../../timeline/age-of-aquarius/)
 — roughly the span from the mid-twentieth century to the fifth millennium on its
 chronology — is to travel across centuries, not a change to be legislated
 tomorrow:
@@ -286,7 +286,7 @@ session.
 - [Cyberparadism](../cyberparadism/)
 - [Jubilee](../jubilee/)
 - [Embassy](../embassy/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Apocalypse](../apocalypse/)
 
 ## References

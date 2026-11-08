@@ -1,12 +1,12 @@
 +++
 title = "Adamite struggle"
 slug = "adamite-struggle"
-description = "Adamite struggle — the Adamite community's journey to autonomy under the Serpent faction's influence. The corpus entry treats this under Serpentine Rebellion."
+description = "Adamite struggle — the Adamite community's journey to autonomy under the Serpent faction's influence. The corpus entry treats this under Antediluvian."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-redirect_to = { title = "Serpentine Rebellion", path = "/wiki/serpentine-rebellion/" }
+redirect_to = { title = "Antediluvian", path = "/wiki/antediluvian/" }
 category = "Events & Narratives"
 timeline = ["cancer", "gemini", "taurus"]
 claim_type = "inferred"

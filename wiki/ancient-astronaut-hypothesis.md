@@ -342,7 +342,7 @@ as exactly that rather than as an established result.
 - [Religion](../religion/)
 - [Prophet](../prophet/)
 - [Embassy](../embassy/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the Sendy-to-Wallis lineage the article traces)
 
 ## References

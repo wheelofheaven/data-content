@@ -30,9 +30,9 @@ The **Great Return** is the framework's designation for the **anticipated offici
 
 The framework reads the Great Return as connected to the broader pattern of **eschatological-savior expectations** across multiple religious traditions: the Jewish **Mashiach** (the anointed king of the Davidic line who inaugurates the Messianic Age), the Christian **Parousia** (the Second Coming of Christ), the Islamic **Mahdi** (the Guided One) and the return of **Isa** (Jesus), the Buddhist **Maitreya** (the future Buddha), the Hindu **Kalki** (the tenth avatar of Vishnu who ends the Kali Yuga), the Zoroastrian **Saoshyant** (the Bringer of Benefit who inaugurates the *Frashokereti*), the Taoist **Li Hong**, and several other figures. Each of these eschatological figures, on the framework's adopted reading, preserves content about the same anticipated event — the Great Return — through different cultural-symbolic vocabularies, with the variations reflecting the different traditions' developmental and interpretive contexts rather than substantive differences in the underlying anticipated event.
 
-The Great Return is treated by the framework as the culminating event of the contemporary **Age of Apocalypse** (the post-1945 recovery and recognition phase, treated in the dedicated [Age of Apocalypse](../age-of-apocalypse/) entry) and as the substantive inauguration of the broader **Age of Aquarius** / **Golden Age** (the post-Pisces precessional phase, treated in the dedicated [Age of Aquarius](../timeline/age-of-aquarius/) entry). The specific timing of the Great Return is treated as contingent on the satisfaction of the preconditions rather than as a fixed calendar event; the framework's adopted position is that the contemporary period (early 21st century CE) is the substantive transitional phase during which the preconditions are being substantively engaged.
+The Great Return is treated by the framework as the culminating event of the contemporary **Age of Apocalypse** (the post-1945 recovery and recognition phase, treated in the dedicated [Age of Apocalypse](../apocalypse/) entry) and as the substantive inauguration of the broader **Age of Aquarius** / **Golden Age** (the post-Pisces precessional phase, treated in the dedicated [Age of Aquarius](../../timeline/age-of-aquarius/) entry). The specific timing of the Great Return is treated as contingent on the satisfaction of the preconditions rather than as a fixed calendar event; the framework's adopted position is that the contemporary period (early 21st century CE) is the substantive transitional phase during which the preconditions are being substantively engaged.
 
-The present entry treats the Great Return as the framework's culminating eschatological-teleological event; the dedicated [Embassy](../embassy/) entry treats the specific operational installation that the source material requires; the dedicated [Third Temple](../third-temple/) entry treats the connection to the Hebrew biblical tradition's Temple-restoration prophecies; the dedicated [Age of Apocalypse](../age-of-apocalypse/) entry treats the contemporary transitional phase; the dedicated [Golden Age](../golden-age/) entry treats the post-Return condition.
+The present entry treats the Great Return as the framework's culminating eschatological-teleological event; the dedicated [Embassy](../embassy/) entry treats the specific operational installation that the source material requires; the dedicated [Third Temple](../third-temple/) entry treats the connection to the Hebrew biblical tradition's Temple-restoration prophecies; the dedicated [Age of Apocalypse](../apocalypse/) entry treats the contemporary transitional phase; the dedicated [Golden Age](../golden-age/) entry treats the post-Return condition.
 
 ## The Vorilhon source-material specification
 
@@ -272,8 +272,8 @@ The framework reads the Great Return therefore not merely as a contact event but
 
 The framework reads the Great Return as the **culminating event** of the contemporary **Age of Apocalypse** (the post-1945 recovery and recognition phase) and the **substantive inauguration** of the broader **Age of Aquarius** proper. The principal structural claims:
 
-- The **Age of Apocalypse** (treated in the dedicated [Age of Apocalypse](../age-of-apocalypse/) entry) is the contemporary period of recovery — the period during which humanity is substantively recovering the engineering capabilities, the operational understanding, and the broader civilizational readiness that the Great Return requires
-- The **Age of Aquarius** (treated in the dedicated [Age of Aquarius](../timeline/age-of-aquarius/) entry) is the broader post-Pisces precessional period, beginning approximately 2,160 CE on the framework's adopted reckoning
+- The **Age of Apocalypse** (treated in the dedicated [Age of Apocalypse](../apocalypse/) entry) is the contemporary period of recovery — the period during which humanity is substantively recovering the engineering capabilities, the operational understanding, and the broader civilizational readiness that the Great Return requires
+- The **Age of Aquarius** (treated in the dedicated [Age of Aquarius](../../timeline/age-of-aquarius/) entry) is the broader post-Pisces precessional period, beginning approximately 2,160 CE on the framework's adopted reckoning
 - The **Great Return** is the substantive transition event between these — the moment at which the recovery and recognition phase culminates in the actual reunification, and the broader Age of Aquarius proper begins
 - The **Golden Age** (treated in the dedicated [Golden Age](../golden-age/) entry) is the post-Return condition — the period of substantive flourishing and cosmic-civilizational integration that the source material anticipates
 
@@ -298,9 +298,9 @@ The Great Return entry connects to a substantial number of other corpus entries.
 
 **The Third Temple.** The dedicated [Third Temple](../third-temple/) entry treats the connection to the Hebrew biblical Temple-restoration tradition.
 
-**The Age of Apocalypse.** The dedicated [Age of Apocalypse](../age-of-apocalypse/) entry treats the contemporary transitional phase during which the Great Return preconditions are being engaged.
+**The Age of Apocalypse.** The dedicated [Age of Apocalypse](../apocalypse/) entry treats the contemporary transitional phase during which the Great Return preconditions are being engaged.
 
-**The Age of Aquarius and the Golden Age.** The dedicated [Age of Aquarius](../timeline/age-of-aquarius/) and [Golden Age](../golden-age/) entries treat the post-Return conditions.
+**The Age of Aquarius and the Golden Age.** The dedicated [Age of Aquarius](../../timeline/age-of-aquarius/) and [Golden Age](../golden-age/) entries treat the post-Return conditions.
 
 **The Elohim.** The dedicated [Elohim](../elohim/) entry treats the civilization whose return is anticipated.
 
@@ -329,8 +329,8 @@ The Great Return entry surfaces several open questions for the framework's broad
 
 - [Embassy](../embassy/)
 - [Third Temple](../third-temple/)
-- [Age of Apocalypse](../age-of-apocalypse/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
+- [Age of Apocalypse](../apocalypse/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Golden Age](../golden-age/)
 - [Elohim](../elohim/)
 - [Council of the Eternals](../council-of-the-eternals/)

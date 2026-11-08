@@ -83,8 +83,8 @@ El descenso de la escritura (arameo nabateo → árabe) no está en disputa; es 
 - [Jesús](../jesus/)
 - [La Meca](../mecca/)
 - [Biblia Hebrea](../hebrew-bible/)
-- [Era de Piscis](../timeline/age-of-pisces/)
-- [Era de Aries](../timeline/age-of-aries/)
+- [Era de Piscis](../../timeline/age-of-pisces/)
+- [Era de Aries](../../timeline/age-of-aries/)
 - [Lista de profetas y religiones](../list-of-prophets-and-religions/)
 
 ## Referencias

@@ -291,11 +291,11 @@ The Cosmic Competition framework is most centrally invoked in the [Jesus](../jes
 
 ### The Aquarian-age entries
 
-The framework operates as the broader cosmological context within which the Aquarian-age developments unfold. The detailed treatment of the Aquarian-age inheritance-threshold material lives in the [Apocalypse](../apocalypse/), [Embassy](../embassy/), and [Age of Aquarius](../timeline/age-of-aquarius/) entries; the Cosmic Competition entry's specific contribution is establishing the broader cosmological framework.
+The framework operates as the broader cosmological context within which the Aquarian-age developments unfold. The detailed treatment of the Aquarian-age inheritance-threshold material lives in the [Apocalypse](../apocalypse/), [Embassy](../embassy/), and [Age of Aquarius](../../timeline/age-of-aquarius/) entries; the Cosmic Competition entry's specific contribution is establishing the broader cosmological framework.
 
 ### The Aries-age entries
 
-The framework's operational origin in the Aries-age discovery is treated more fully in the [Cosmic Chain](../cosmic-chain/) and [Age of Aries](../timeline/age-of-aries/) entries. The Cosmic Competition entry's specific contribution is establishing the discovery's specific implications for the alliance's policy toward the multiple humanities.
+The framework's operational origin in the Aries-age discovery is treated more fully in the [Cosmic Chain](../cosmic-chain/) and [Age of Aries](../../timeline/age-of-aries/) entries. The Cosmic Competition entry's specific contribution is establishing the discovery's specific implications for the alliance's policy toward the multiple humanities.
 
 ### The corpus's broader narrative
 
@@ -505,14 +505,14 @@ The corpus does not require rejecting all of the mainstream scholarly framework.
 - [Prophet](../prophet/)
 - [Raël](../rael/)
 - [Parable of the Sower](../parable-of-the-sower/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
+- [Age of Aries](../../timeline/age-of-aries/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [666](../666/)
 - [Atomic Threshold](../atomic-threshold/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](../paul-wallis/)
 
 ## References
 

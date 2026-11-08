@@ -55,8 +55,8 @@ comparative traditions Sendy engaged less systematically.
 The capital *T* is deliberate. **The Tradition** is not tradition in the ordinary
 sociological sense — the customs and practices a culture passes down — but a
 claim about a specific content: a preserved knowledge with datable origins (the
-post-flood ages, particularly [Taurus](../timeline/age-of-taurus/) and
-[Aries](../timeline/age-of-aries/) on the corpus's chronology), identifiable
+post-flood ages, particularly [Taurus](../../timeline/age-of-taurus/) and
+[Aries](../../timeline/age-of-aries/) on the corpus's chronology), identifiable
 transmission lineages, and recoverable substance (precessional astronomy, the
 [plurality](../plurality-of-gods/) of the creators, the wider
 cosmic-civilizational picture). Sendy took the capitalization from the same
@@ -245,7 +245,7 @@ wider cross-cultural synthesis as the interpretive construction it is.
 - [Atlantis](../atlantis/)
 - [Hamlet's Mill](../hamlets-mill/)
 - [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](../paul-wallis/)
 
 ## References
 

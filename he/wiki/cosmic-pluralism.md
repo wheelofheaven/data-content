@@ -191,7 +191,7 @@ This reading does not require the framework to reject the value of contemporary 
 
 ### Contemporary recognition
 
-The framework reads the contemporary exoplanet revolution and the broader scientific shift toward seeing cosmic pluralism as the default rather than the contested position as a recognition pattern. The mainstream scientific community is recovering — empirically, gradually — what the prophetic and operational record has preserved across human history. The corpus's position is that this recognition will continue and will eventually extend beyond empirical confirmation of other inhabited worlds (which the framework expects within the 21st century) to recognition of the prior contact with Earth and of the propagation pattern itself. The dedicated [Age of Apocalypse](../age-of-apocalypse/) entry develops the broader framework reading of the post-1945 period as the recovery and recognition phase.
+The framework reads the contemporary exoplanet revolution and the broader scientific shift toward seeing cosmic pluralism as the default rather than the contested position as a recognition pattern. The mainstream scientific community is recovering — empirically, gradually — what the prophetic and operational record has preserved across human history. The corpus's position is that this recognition will continue and will eventually extend beyond empirical confirmation of other inhabited worlds (which the framework expects within the 21st century) to recognition of the prior contact with Earth and of the propagation pattern itself. The dedicated [Age of Apocalypse](../apocalypse/) entry develops the broader framework reading of the post-1945 period as the recovery and recognition phase.
 
 ## Connections to the broader framework
 
@@ -215,7 +215,7 @@ The Cosmic pluralism entry connects to a substantial number of other corpus entr
 
 **Infinity.** The dedicated [Infinity](../infinity/) entry treats the corpus's broader engagement with the infinite — both spatial (cosmic pluralism extended to infinite scale) and temporal (eternal recurrence and propagation). The Ecclesiastes 3:15 passage cross-referenced in the Vorilhon source material is one of the principal source-tradition formulations.
 
-**The Age of Apocalypse.** The dedicated [Age of Apocalypse](../age-of-apocalypse/) entry treats the post-1945 period as the recovery and recognition phase of the broader cosmic engagement. The contemporary scientific shift toward cosmic pluralism as the default position is one of the markers of the recognition phase.
+**The Age of Apocalypse.** The dedicated [Age of Apocalypse](../apocalypse/) entry treats the post-1945 period as the recovery and recognition phase of the broader cosmic engagement. The contemporary scientific shift toward cosmic pluralism as the default position is one of the markers of the recognition phase.
 
 ## Open questions
 
@@ -243,7 +243,7 @@ The Cosmic pluralism entry surfaces several open questions for the framework's b
 - [Plurality of gods](../plurality-of-gods/)
 - [Infinity](../infinity/)
 - [Multiverse](../multiverse/)
-- [Age of Apocalypse](../age-of-apocalypse/)
+- [Age of Apocalypse](../apocalypse/)
 - [Raëlism](../raelism/)
 - [List of exegetic readings](../list-of-exegetic-readings/)
 - [List of close encounters](../list-of-close-encounters/)

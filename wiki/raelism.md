@@ -269,7 +269,7 @@ This places Raëlism among the religious movements that keep religion's dimensio
 
 ### The seven new commandments
 
-The seven commandments frame the Aquarian-age political-religious program; each is treated fully in the [Age of Aquarius](../timeline/age-of-aquarius/) entry. In brief:
+The seven commandments frame the Aquarian-age political-religious program; each is treated fully in the [Age of Aquarius](../../timeline/age-of-aquarius/) entry. In brief:
 
 **1. Geniocracy** — selective democracy with intelligence thresholds for office (50% above the mean) and voting (10% above the mean); a long-term target, not an immediate reform{{ footnote(id="3") }}
 
@@ -361,7 +361,7 @@ Various **ex-Raëlian accounts** have been critical; NRM scholarship weighs them
 
 ## Application across the corpus
 
-Raëlism is load-bearing across the corpus. It is the movement [Raël](../rael/) founded (the figure treated separately); it runs the [Embassy](../embassy/) project; it is the contemporary institutional vehicle for the [Apocalypse](../apocalypse/) (the unveiling phase) and for the source-material teaching that the corpus's Cosmic Competition, Doubled Signature, and Cosmic Chain frameworks engage; and it is the principal Aquarian-age movement, its role detailed in [Age of Aquarius](../timeline/age-of-aquarius/). In each case the detail lives in the linked entry; this one supplies the institutional context.
+Raëlism is load-bearing across the corpus. It is the movement [Raël](../rael/) founded (the figure treated separately); it runs the [Embassy](../embassy/) project; it is the contemporary institutional vehicle for the [Apocalypse](../apocalypse/) (the unveiling phase) and for the source-material teaching that the corpus's Cosmic Competition, Doubled Signature, and Cosmic Chain frameworks engage; and it is the principal Aquarian-age movement, its role detailed in [Age of Aquarius](../../timeline/age-of-aquarius/). In each case the detail lives in the linked entry; this one supplies the institutional context.
 
 The Wheel of Heaven corpus is operationally distinct from the movement: it takes the Raëlian source material as its foundation but extends well beyond it, as set out under *Distinguishing from adjacent concepts* below.
 
@@ -474,13 +474,13 @@ The corpus's working position is that Raëlism holds a distinctive place across 
 - [Buddha](../buddha/)
 - [Genesis](../genesis/)
 - [Hebrew Bible](../hebrew-bible/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Pisces](../timeline/age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
 - [Atomic Threshold](../atomic-threshold/)
 - [Tree of Life](../tree-of-life/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](../paul-wallis/)
 
 ## References
 

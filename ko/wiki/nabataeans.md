@@ -83,8 +83,8 @@ distinguished_from = "히자즈의 베두인(중세 문헌학자들이 꾸란의
 - [예수](../jesus/)
 - [메카](../mecca/)
 - [히브리어 성경](../hebrew-bible/)
-- [물고기자리 시대](../timeline/age-of-pisces/)
-- [양자리 시대](../timeline/age-of-aries/)
+- [물고기자리 시대](../../timeline/age-of-pisces/)
+- [양자리 시대](../../timeline/age-of-aries/)
 - [예언자 및 종교 목록](../list-of-prophets-and-religions/)
 
 ## 참고문헌

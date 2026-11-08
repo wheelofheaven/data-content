@@ -105,7 +105,7 @@ For the framework the Great Year is not one cosmic cycle among many but the corp
 
 **The Great Year is the container of the World Ages.** {% claim(type="framework", id="woh-claim-0003") %}The twelve [World Ages](../world-age/) — the Age of Leo, the Age of Taurus, the Age of Aries, the Age of Pisces, and the rest — are the twelve [Great Months](../great-month/) of a single Great Year, each about 2,160 years, each named for the constellation the spring equinox rises against during it.{% end %} The [zodiac](../zodiac/) supplies the twelve names; the Great Year supplies the whole turn they divide. Every date the corpus assigns — the human synthesis to the Age of Leo, the [Great Flood](../great-flood/) to the Age of Gemini, the Hebrew prophetic period to the Age of Aries, the Christian era to the Age of Pisces — is a position on this one great dial.
 
-**One Great Year is roughly the span of the Elohim project on Earth.** The Raëlian source material places the arrival of the [Elohim](../elohim/) about 25,000 years ago{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — the ~25,000-year Elohim-project chronology") }} — within a few percent of one full Great Year. The framework reads that as design rather than coincidence: the Elohim measured the precessional cycle as readily as they measured the day and the year, and used it as the chronological backbone of a project that would run across dozens of human generations. The contemporary transition from the Age of Pisces into the [Age of Aquarius](../timeline/age-of-aquarius/) — which the canon dates to the mid-twentieth century, treating the boundary as a convention rather than a sharp astronomical line — falls near the completion of that first turn, at the point the corpus reads as the recovery and recognition phase of the project.
+**One Great Year is roughly the span of the Elohim project on Earth.** The Raëlian source material places the arrival of the [Elohim](../elohim/) about 25,000 years ago{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — the ~25,000-year Elohim-project chronology") }} — within a few percent of one full Great Year. The framework reads that as design rather than coincidence: the Elohim measured the precessional cycle as readily as they measured the day and the year, and used it as the chronological backbone of a project that would run across dozens of human generations. The contemporary transition from the Age of Pisces into the [Age of Aquarius](../../timeline/age-of-aquarius/) — which the canon dates to the mid-twentieth century, treating the boundary as a convention rather than a sharp astronomical line — falls near the completion of that first turn, at the point the corpus reads as the recovery and recognition phase of the project.
 
 **The cycle is the reach of cultural memory.** The framework reads the traditions it engages as preserving events of roughly the past Great Year and little from before it — the horizon of what human record, in whatever compressed and mythologised form, has carried forward.
 
@@ -124,15 +124,15 @@ The most sustained scholarly case for reading these as encoded precessional know
 - [Precession](../precession/)
 - [Great Month](../great-month/)
 - [World Age](../world-age/)
-- [Age of Virgo](../timeline/age-of-virgo/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Age of Taurus](../timeline/age-of-taurus/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Apocalypse](../age-of-apocalypse/)
+- [Age of Virgo](../../timeline/age-of-virgo/)
+- [Age of Leo](../../timeline/age-of-leo/)
+- [Age of Cancer](../../timeline/age-of-cancer/)
+- [Age of Gemini](../../timeline/age-of-gemini/)
+- [Age of Taurus](../../timeline/age-of-taurus/)
+- [Age of Aries](../../timeline/age-of-aries/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
+- [Age of Apocalypse](../apocalypse/)
 - [Genesis](../genesis/)
 - [Terraforming](../terraforming/)
 - [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/)

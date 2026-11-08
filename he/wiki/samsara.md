@@ -499,7 +499,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Swastika](../swastika/)
 - [Raëlian Symbol of Infinity](../raelian-symbol-of-infinity/)
 - [New Commandments](../new-commandments/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [World Age](../world-age/)
 - [Buddha](../buddha/)
 - [Buddhism](../buddhism/)

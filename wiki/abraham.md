@@ -46,7 +46,7 @@ ancestor claimed by Judaism, Christianity, and Islam. In the Wheel of Heaven
 framework Abraham is read as a recruitment-and-recovery figure: a verified-loyal
 human lineage-head enlisted, after the [Sodom](../sodom-and-gomorrah/)
 destruction, to reorganise the surviving [Eden](../eden/) lineage around a stable
-covenant — the beginning of the [Aries-age](../timeline/age-of-aries/) recovery
+covenant — the beginning of the [Aries-age](../../timeline/age-of-aries/) recovery
 program that the corpus tracks forward into the later prophetic traditions.
 
 ## Etymology and naming

@@ -171,7 +171,7 @@ au contenu. La prétention du canon est que cette fenêtre précise ouvre un
 âge de dévoilement et de retour — et les événements ci-dessus n'ont rien
 de générique. Deux bibliothèques scripturaires enfouies refaisant
 physiquement surface ; la réapparition d'un État juif après dix-neuf
-siècles, un événement que le premier lecteur israëlien des manuscrits
+siècles, un événement que le premier lecteur israélien des manuscrits
 relia aussitôt à eux ; la naissance de la technologie de la remémoration
 totale ; le début de l'ère des observations que le canon lit comme
 préparation au contact ouvert ; et la naissance de l'homme à qui les
@@ -268,7 +268,7 @@ il se rabattit sur les petites annonces. En juin 1954, sous la rubrique
 L'acheteur fut un banquier new-yorkais nommé Sidney Esteridge, qui paya
 250 000 dollars. À l'insu de l'archevêque, Esteridge était un prête-nom :
 l'argent et les instructions venaient de Yigael Yadin — le fils de Sukenik,
-récemment chef d'état-major de l'armée israëlienne, alors en tournée de
+récemment chef d'état-major de l'armée israélienne, alors en tournée de
 conférences aux États-Unis. Sukenik était mort l'année précédente, encore
 convaincu que les manuscrits dispersés allaient ensemble. Par une petite
 annonce et un mandant dissimulé, son fils les réunit, et en 1965 le Musée
@@ -278,7 +278,7 @@ Sanctuaire du Livre, où cet article reviendra à pied.
 Yadin n'en avait pas fini. Depuis le début des années 1960, il négociait
 avec Kando au sujet d'un rouleau supplémentaire rumeur dont personne, hors
 de Bethléem, n'avait vu le contenu. En juin 1967, la guerre plaça Bethléem
-sous contrôle israëlien, et Yadin — devenu alors conseiller militaire du
+sous contrôle israélien, et Yadin — devenu alors conseiller militaire du
 Premier ministre — envoya un petit groupe d'officiers du renseignement chez
 Kando. Collins donne à l'épisode une seule proposition dévastatrice : ils
 localisèrent Kando, « et après un interrogatoire qui a été qualifié de

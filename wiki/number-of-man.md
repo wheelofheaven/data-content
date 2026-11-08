@@ -137,7 +137,7 @@ inherited tradition and kept firmly apart here.)
 of humanity to that threshold. Taking the source's working figure of twenty
 years to a generation, 666 generations come to 13,320 years; subtracting that
 span from 1945 CE places the creation at about 11,375 BCE — near the boundary
-between the Age of Virgo and the [Age of Leo](../age-of-leo/) on the corpus's
+between the Age of Virgo and the [Age of Leo](../../timeline/age-of-leo/) on the corpus's
 precessional reckoning. The generation born as the atomic age opened, in 1945,
 is on this scheme the 666th, and its arrival coincides precisely with the first
 destructive use of nuclear energy. (Raël himself, born on 30 September 1946, is
@@ -207,7 +207,7 @@ frame the dual-path stakes of the [Apocalypse](../apocalypse/) — the
 
 Read this way, the Number of Man is less a curiosity than a load-bearing part of
 the chronology. It fixes the Age of Leo creation date, dates the close of the
-old age and the opening of the [Age of Aquarius](../age-of-aquarius/) to the
+old age and the opening of the [Age of Aquarius](../../timeline/age-of-aquarius/) to the
 1945 threshold, and preserves in a single much-read verse a quantitative claim
 the framework can check against its own precessional record.
 
@@ -267,9 +267,9 @@ the conspiratorial one.
 - [Wheel of Heaven](../wheel-of-heaven/)
 - [Apocalypse](../apocalypse/)
 - [Genesis](../genesis/)
-- [Age of Leo](../age-of-leo/)
-- [Age of Virgo](../age-of-virgo/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Leo](../../timeline/age-of-leo/)
+- [Age of Virgo](../../timeline/age-of-virgo/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Golden Age](../golden-age/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)

@@ -347,14 +347,14 @@ The corpus's working position is that this global recurrence is meaningful as ev
 - [Jesus](../jesus/)
 - [Muhammad](../muhammad/)
 - [Raël](../rael/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Age of Taurus](../timeline/age-of-taurus/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
+- [Age of Gemini](../../timeline/age-of-gemini/)
+- [Age of Taurus](../../timeline/age-of-taurus/)
+- [Age of Aries](../../timeline/age-of-aries/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](../paul-wallis/)
 
 ## References
 

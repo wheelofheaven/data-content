@@ -642,7 +642,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Hebrew Bible](../hebrew-bible/)
 - [Abraham](../abraham/)
 - [Noah](../noah/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 
 ## References

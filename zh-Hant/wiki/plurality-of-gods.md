@@ -683,7 +683,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Apocalypse](../apocalypse/)
 - [Jean Sendy](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 
 ## References
 

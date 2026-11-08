@@ -436,11 +436,11 @@ El marco de la competencia cósmica opera como una fase específica dentro de la
 
 ### La entrada de la era de Aries
 
-El descubrimiento de Aries es el origen operativo del marco de la cadena cósmica en la narrativa más amplia del corpus. El tratamiento detallado de la era de Aries y del contenido específico del descubrimiento reside en la entrada [Era de Aries](../timeline/age-of-aries/); la entrada de la cadena cósmica establece el marco cosmológico más amplio que el descubrimiento produjo.
+El descubrimiento de Aries es el origen operativo del marco de la cadena cósmica en la narrativa más amplia del corpus. El tratamiento detallado de la era de Aries y del contenido específico del descubrimiento reside en la entrada [Era de Aries](../../timeline/age-of-aries/); la entrada de la cadena cósmica establece el marco cosmológico más amplio que el descubrimiento produjo.
 
 ### Las entradas de la era de Acuario
 
-La evaluación de herencia de la era de Acuario opera como la fase específica del presente de la estructura cíclica de la cadena cósmica. El tratamiento detallado reside en las entradas [Apocalipsis](../apocalypse/), [Embajada](../embassy/) y [Era de Acuario](../timeline/age-of-aquarius/); la entrada de la cadena cósmica establece el contexto cósmico-cíclico más amplio dentro del cual operan los desarrollos de la era de Acuario.
+La evaluación de herencia de la era de Acuario opera como la fase específica del presente de la estructura cíclica de la cadena cósmica. El tratamiento detallado reside en las entradas [Apocalipsis](../apocalypse/), [Embajada](../embassy/) y [Era de Acuario](../../timeline/age-of-aquarius/); la entrada de la cadena cósmica establece el contexto cósmico-cíclico más amplio dentro del cual operan los desarrollos de la era de Acuario.
 
 ### El encuadre cosmológico más amplio del corpus
 

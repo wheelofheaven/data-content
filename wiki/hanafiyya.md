@@ -117,7 +117,7 @@ The entry's overall `claim_type` is `inferred`: the *ḥanīf* concept and the *
 - [Elohim](../elohim/)
 - [Council of the Eternals](../council-of-the-eternals/)
 - [Religion](../religion/)
-- [Age of Pisces](../timeline/age-of-pisces/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
 - [List of prophets and religions](../list-of-prophets-and-religions/)
 - [Monotheism Is the Wrong Question](/articles/monotheism-is-the-wrong-question/)
 

@@ -44,7 +44,7 @@ craft — built under the direction of the exiled [Lucifer](../lucifer/) faction
 of creators — that preserved a small human crew and the genetic material of the
 biosphere through the [Great Flood](../great-flood/), read as a deliberate
 strike ordered against the antediluvian [Eden](../eden/) civilisation in the
-[Age of Gemini](../timeline/age-of-gemini/) (c. 6,690 BCE in the corpus's
+[Age of Gemini](../../timeline/age-of-gemini/) (c. 6,690 BCE in the corpus's
 reckoning). {% claim(type="framework", id="woh-claim-0010") %}On this reading the ark is not a feat of carpentry but the
 instrument of a technical rescue: its pitch is shielding, its "lifting up above
 the earth" is ascent into orbit, and its cargo is not breeding pairs of animals
@@ -243,8 +243,8 @@ the Raëlian canon rather than in Sitchin's Sumerian reconstruction.
 - [Genesis](../genesis/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Doubled Signature](../doubled-signature/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Age of Cancer](../timeline/age-of-cancer/)
+- [Age of Gemini](../../timeline/age-of-gemini/)
+- [Age of Cancer](../../timeline/age-of-cancer/)
 - [Message from the Designers](../message-from-the-designers/)
 - [Raël](../rael/)
 

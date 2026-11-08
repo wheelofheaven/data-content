@@ -689,7 +689,7 @@ The Living Earth framework's principal contribution within this broader comparat
 - [Theomachy](../theomachy/)
 - [Jean Sendy](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 
 ## References
 

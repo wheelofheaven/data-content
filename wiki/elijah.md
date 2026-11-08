@@ -233,7 +233,7 @@ The Elijah entry surfaces several open questions for the framework's broader int
 - [Yahweh](../yahweh/)
 - [Elohim](../elohim/)
 - [Angels](../angels/) (the operational reading of the *mal'akh* / *angelos* vocabulary)
-- [Age of Aries](../timeline/age-of-aries/)
+- [Age of Aries](../../timeline/age-of-aries/)
 - [List of close encounters](../list-of-close-encounters/)
 - [List of exegetic readings](../list-of-exegetic-readings/)
 

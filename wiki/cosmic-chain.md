@@ -370,11 +370,11 @@ The Cosmic Competition is the evaluation phase within the chain — where a crea
 
 ### The Aries-age entry
 
-The Aries-discovery is the chain's operational origin. Detail in the [Age of Aries](../timeline/age-of-aries/) entry; the chain entry supplies the cosmological framework the discovery produced.
+The Aries-discovery is the chain's operational origin. Detail in the [Age of Aries](../../timeline/age-of-aries/) entry; the chain entry supplies the cosmological framework the discovery produced.
 
 ### The Aquarian-age entries
 
-The Aquarian-age inheritance evaluation is the chain's present-day phase. Detail in the [Apocalypse](../apocalypse/), [Embassy](../embassy/), and [Age of Aquarius](../timeline/age-of-aquarius/) entries; the chain entry supplies the cosmic-cyclical context.
+The Aquarian-age inheritance evaluation is the chain's present-day phase. Detail in the [Apocalypse](../apocalypse/), [Embassy](../embassy/), and [Age of Aquarius](../../timeline/age-of-aquarius/) entries; the chain entry supplies the cosmic-cyclical context.
 
 ### The corpus's broader cosmological framing
 

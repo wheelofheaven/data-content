@@ -219,7 +219,7 @@ The framework reads the contemporary scientific development of pantropy as a rea
 - **CRISPR-Cas9 and broader gene editing** — the targeted modification of specific genome locations, recapitulating the targeted-modification capabilities required for adaptive engineering
 - **Pantropy** — the integrated application of the above capabilities to specific environmental-adaptation problems, recapitulating the Elohim's Earth project
 
-The framework's adopted position is that the contemporary recovery is at a substantially earlier stage than the Elohim's full capabilities — the Elohim had 25,000-year-advanced technology relative to the contemporary terrestrial baseline — but that {% claim(type="inferred", id="woh-claim-0065") %}the trajectory of recovery is consistent with the broader corpus reading of the **Age of Apocalypse** (the Raëlian designation for the post-1945 period, treated in the dedicated [Age of Apocalypse](../age-of-apocalypse/) entry) as the period in which humanity recovers the foundational technologies that enable the eventual reception of the Elohim's return.{% end %}
+The framework's adopted position is that the contemporary recovery is at a substantially earlier stage than the Elohim's full capabilities — the Elohim had 25,000-year-advanced technology relative to the contemporary terrestrial baseline — but that {% claim(type="inferred", id="woh-claim-0065") %}the trajectory of recovery is consistent with the broader corpus reading of the **Age of Apocalypse** (the Raëlian designation for the post-1945 period, treated in the dedicated [Age of Apocalypse](../apocalypse/) entry) as the period in which humanity recovers the foundational technologies that enable the eventual reception of the Elohim's return.{% end %}
 
 ### Pantropy and the ethical question
 
@@ -241,7 +241,7 @@ The Pantropy entry connects to several specific aspects of the broader corpus's 
 
 **The Elohim.** The dedicated [Elohim](../elohim/) entry develops the broader corpus reading of the Elohim as a non-terrestrial biological civilisation; the pantropy entry establishes the technical-scientific frame for understanding the human-Elohim biological relationship.
 
-**The Age of Apocalypse.** The dedicated [Age of Apocalypse](../age-of-apocalypse/) entry treats the post-1945 period as the recovery of the foundational engineering capabilities; the pantropy entry contextualises contemporary pantropic research within this broader recovery.
+**The Age of Apocalypse.** The dedicated [Age of Apocalypse](../apocalypse/) entry treats the post-1945 period as the recovery of the foundational engineering capabilities; the pantropy entry contextualises contemporary pantropic research within this broader recovery.
 
 **The forty-prophets lineage.** The translation events for Enoch, Elijah, Moses, Jesus, and Muhammad raise the pantropy question of cross-environment habitation (humans translated to the Elohim home planet). The dedicated entries on these figures, plus the [Council of the Eternals](../council-of-the-eternals/) entry, develop the operational reading.
 
@@ -266,15 +266,15 @@ The Pantropy entry surfaces several open questions for the framework's broader i
 - [Life Engineering](../life-engineering/)
 - [Pangaea](../pangaea/)
 - [Council of the Eternals](../council-of-the-eternals/)
-- [Age of Apocalypse](../age-of-apocalypse/)
-- [Age of Virgo](../timeline/age-of-virgo/)
-- [Age of Leo](../timeline/age-of-leo/)
+- [Age of Apocalypse](../apocalypse/)
+- [Age of Virgo](../../timeline/age-of-virgo/)
+- [Age of Leo](../../timeline/age-of-leo/)
 - [List of exegetic readings](../list-of-exegetic-readings/)
 - [Dhorme Bible translation](../dhorme-bible-translation/)
 
 ## Read more
 
-- [Timeline › Age of Leo](../timeline/age-of-leo/)
+- [Timeline › Age of Leo](../../timeline/age-of-leo/)
 
 ## External links
 

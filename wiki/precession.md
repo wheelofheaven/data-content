@@ -225,7 +225,7 @@ Precession's most basic use is as **chronological infrastructure**. {% claim(typ
 - **Pisces** (c. 210 BCE – 1950 CE) — the Christian era and later religious developments
 - **Aquarius** (c. 1950 CE onward) — treated as the **Age of {% wiki(slug="apocalypse") %}Apocalypse{% end %}**
 
-The dedicated [Age of Virgo](../timeline/age-of-virgo/), [Age of Leo](../timeline/age-of-leo/), [Age of Cancer](../timeline/age-of-cancer/), [Age of Gemini](../timeline/age-of-gemini/), [Age of Taurus](../timeline/age-of-taurus/), [Age of Aries](../timeline/age-of-aries/), [Age of Pisces](../timeline/age-of-pisces/), and [Age of Aquarius](../timeline/age-of-aquarius/) entries develop each Age; this entry establishes the framework they depend on.
+The dedicated [Age of Virgo](../../timeline/age-of-virgo/), [Age of Leo](../../timeline/age-of-leo/), [Age of Cancer](../../timeline/age-of-cancer/), [Age of Gemini](../../timeline/age-of-gemini/), [Age of Taurus](../../timeline/age-of-taurus/), [Age of Aries](../../timeline/age-of-aries/), [Age of Pisces](../../timeline/age-of-pisces/), and [Age of Aquarius](../../timeline/age-of-aquarius/) entries develop each Age; this entry establishes the framework they depend on.
 
 ### The Hamlet's Mill thesis
 
@@ -273,7 +273,7 @@ The framework uses the 2,160-year figure and the table's boundaries{{ cite(id="t
 
 ## Connections across the corpus
 
-**The precessional Ages.** The [Age of Virgo](../timeline/age-of-virgo/), [Age of Leo](../timeline/age-of-leo/), [Age of Cancer](../timeline/age-of-cancer/), [Age of Gemini](../timeline/age-of-gemini/), [Age of Taurus](../timeline/age-of-taurus/), [Age of Aries](../timeline/age-of-aries/), [Age of Pisces](../timeline/age-of-pisces/), [Age of Aquarius](../timeline/age-of-aquarius/), and [Age of Apocalypse](../age-of-apocalypse/) entries develop each Age within the framework this entry establishes.
+**The precessional Ages.** The [Age of Virgo](../../timeline/age-of-virgo/), [Age of Leo](../../timeline/age-of-leo/), [Age of Cancer](../../timeline/age-of-cancer/), [Age of Gemini](../../timeline/age-of-gemini/), [Age of Taurus](../../timeline/age-of-taurus/), [Age of Aries](../../timeline/age-of-aries/), [Age of Pisces](../../timeline/age-of-pisces/), [Age of Aquarius](../../timeline/age-of-aquarius/), and [Age of Apocalypse](../apocalypse/) entries develop each Age within the framework this entry establishes.
 
 **Genesis.** The [Genesis](../genesis/) entry reads the *yamim* sequence as this precessional structure.
 
@@ -306,15 +306,15 @@ Several open questions remain for the framework:
 - [World Age](../world-age/)
 - [Great Year](../great-year/)
 - [Genesis](../genesis/)
-- [Age of Virgo](../timeline/age-of-virgo/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Age of Taurus](../timeline/age-of-taurus/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Apocalypse](../age-of-apocalypse/)
+- [Age of Virgo](../../timeline/age-of-virgo/)
+- [Age of Leo](../../timeline/age-of-leo/)
+- [Age of Cancer](../../timeline/age-of-cancer/)
+- [Age of Gemini](../../timeline/age-of-gemini/)
+- [Age of Taurus](../../timeline/age-of-taurus/)
+- [Age of Aries](../../timeline/age-of-aries/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
+- [Age of Apocalypse](../apocalypse/)
 - [List of megalithic sites](../list-of-megalithic-sites/)
 - [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/)
 - [List of exegetic readings](../list-of-exegetic-readings/)

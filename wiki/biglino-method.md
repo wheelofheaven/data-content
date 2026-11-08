@@ -399,7 +399,7 @@ The corpus position registers this debate as live rather than settled. The texts
 - [Neo-Euhemerism](../neo-euhemerism/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](../paul-wallis/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Elohim](../elohim/)
 - [Yahweh](../yahweh/)

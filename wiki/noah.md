@@ -110,7 +110,7 @@ continuing tutelage of the exiled creators.{% end %} The Genesis 7:11 imagery �
 as the mechanical signature of high-energy weapons rather than as
 meteorological metaphor, and the 150-day interval (Genesis 7:24) as the interval
 required for the danger to subside before it was safe to disembark. This places
-the event in the [Age of Gemini](../timeline/age-of-gemini/), c. 6,690 BCE on the
+the event in the [Age of Gemini](../../timeline/age-of-gemini/), c. 6,690 BCE on the
 corpus's chronology — far older than the traditional biblical datings.
 
 **The ark as a shielded craft.** The *tevah* is read not as a wooden boat but as
@@ -216,7 +216,7 @@ place of — that scholarship.
 - [Council of the Eternals](../council-of-the-eternals/)
 - [Genesis](../genesis/)
 - [Doubled Signature](../doubled-signature/)
-- [Age of Gemini](../timeline/age-of-gemini/)
+- [Age of Gemini](../../timeline/age-of-gemini/)
 
 ## References
 

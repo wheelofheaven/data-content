@@ -265,7 +265,7 @@ The Muhammad entry surfaces several open questions for the framework's broader i
 - [Islam](../islam/)
 - [Raëlism](../raelism/)
 - [Council of the Eternals](../council-of-the-eternals/)
-- [Age of Pisces](../timeline/age-of-pisces/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
 - [Elohim](../elohim/)
 - [Angels](../angels/)
 - [Jinn](../jinn/)
@@ -275,7 +275,7 @@ The Muhammad entry surfaces several open questions for the framework's broader i
 
 ## Read more
 
-- [Timeline › Age of Pisces](../timeline/age-of-pisces/)
+- [Timeline › Age of Pisces](../../timeline/age-of-pisces/)
 
 ## External links
 

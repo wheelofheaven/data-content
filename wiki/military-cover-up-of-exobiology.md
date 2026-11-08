@@ -272,7 +272,7 @@ government secrecy for proof of what the secrecy concealed.
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
 - [Message from the Designers](../message-from-the-designers/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 
 ## References
 

@@ -105,7 +105,7 @@ distinguished_from = "Более поздняя суннитская право�
 - [Элохим](../elohim/)
 - [Совет Вечных](../council-of-the-eternals/)
 - [Религия](../religion/)
-- [Эпоха Рыб](../timeline/age-of-pisces/)
+- [Эпоха Рыб](../../timeline/age-of-pisces/)
 - [Список пророков и религий](../list-of-prophets-and-religions/)
 - [Элохим](../elohim/)
 

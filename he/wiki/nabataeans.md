@@ -83,8 +83,8 @@ distinguished_from = "הבדואים של החג'אז (שאת ניבם חיפש�
 - [ישוע](../jesus/)
 - [מכה](../mecca/)
 - [המקרא העברי](../hebrew-bible/)
-- [עידן הדגים](../timeline/age-of-pisces/)
-- [עידן הטלה](../timeline/age-of-aries/)
+- [עידן הדגים](../../timeline/age-of-pisces/)
+- [עידן הטלה](../../timeline/age-of-aries/)
 - [רשימת הנביאים והדתות](../list-of-prophets-and-religions/)
 
 ## הפניות

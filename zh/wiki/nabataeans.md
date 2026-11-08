@@ -83,8 +83,8 @@ Durie 自己也指出一处本文集不应回避的真实张力:古兰经 14:4 �
 - [耶稣](../jesus/)
 - [麦加](../mecca/)
 - [希伯来圣经](../hebrew-bible/)
-- [双鱼座时代](../timeline/age-of-pisces/)
-- [白羊座时代](../timeline/age-of-aries/)
+- [双鱼座时代](../../timeline/age-of-pisces/)
+- [白羊座时代](../../timeline/age-of-aries/)
 - [先知与宗教列表](../list-of-prophets-and-religions/)
 
 ## 参考文献

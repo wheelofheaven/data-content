@@ -402,7 +402,7 @@ The substantial contemporary strict-translational Hebrew Bible tradition operate
 
 **Mauro Biglino**'s substantial body of work (multiple Italian-language books, with substantial English-language and French-language translations) operates through strict-translational Hebrew engagement reading the substantial Hebrew Bible content as preserving extraterrestrial-civilizational reality. Biglino's substantial professional background as Hebrew-Italian translator at the Edizioni San Paolo Catholic publishing house lends substantial philological credibility to the strict-translational engagement, with his substantial subsequent work systematically extending the engagement across multiple Hebrew Bible texts. The detailed treatment lives in the [Mauro Biglino](/wiki/mauro-biglino/) entry when written.
 
-**Paul Anthony Wallis** extends the broader strict-translational engagement through *Escaping from Eden* (2020), *The Eden Conspiracy* (2024), and various other works. Wallis's substantial pastoral background and substantial subsequent engagement with Mauro Biglino's work register substantive theological-pastoral engagement with the strict-translational tradition. The detailed treatment lives in the [Paul Anthony Wallis](../paul-anthony-wallis/) entry when written.
+**Paul Anthony Wallis** extends the broader strict-translational engagement through *Escaping from Eden* (2020), *The Eden Conspiracy* (2024), and various other works. Wallis's substantial pastoral background and substantial subsequent engagement with Mauro Biglino's work register substantive theological-pastoral engagement with the strict-translational tradition. The detailed treatment lives in the [Paul Anthony Wallis](/wiki/paul-wallis/) entry when written.
 
 The substantial broader strict-translational tradition includes various other contemporary articulators (Ellen White, the substantial broader translation-engagement tradition).
 
@@ -580,7 +580,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Hamlet's Mill](/wiki/hamlets-mill/)
 - [Jean Sendy](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
 - [Prophet](../prophet/)

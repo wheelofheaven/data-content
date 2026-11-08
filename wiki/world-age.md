@@ -164,18 +164,18 @@ message across the world.
 
 | Age | Approximate dates | Phase of the project |
 |-----|-------------------|----------------------|
-| [Capricorn](../timeline/age-of-capricorn/) | ~21,810 – 19,650 BCE | Project opens: survey, first terraforming |
-| [Sagittarius](../timeline/age-of-sagittarius/) | ~19,650 – 17,490 BCE | Atmospheric engineering |
-| [Scorpio](../timeline/age-of-scorpio/) | ~17,490 – 15,330 BCE | First synthesis of life |
-| [Libra](../timeline/age-of-libra/) | ~15,330 – 13,170 BCE | Astronomical and calendrical work; the zodiac formalized |
-| [Virgo](../timeline/age-of-virgo/) | ~13,170 – 11,010 BCE | Complex life; biodiversity |
-| [Leo](../timeline/age-of-leo/) | ~11,010 – 8,850 BCE | Human creation |
-| [Cancer](../timeline/age-of-cancer/) | ~8,850 – 6,690 BCE | Eden; Adam and Eve |
-| [Gemini](../timeline/age-of-gemini/) | ~6,690 – 4,530 BCE | The flood; Noah |
-| [Taurus](../timeline/age-of-taurus/) | ~4,530 – 2,370 BCE | Post-flood recovery; Babel; the patriarchs |
-| [Aries](../timeline/age-of-aries/) | ~2,370 – 210 BCE | Mosaic law; the Hebrew prophets; the Axial Age |
-| [Pisces](../timeline/age-of-pisces/) | ~210 BCE – 1950 CE | Christianity, Islam; universal distribution |
-| [Aquarius](../timeline/age-of-aquarius/) | 1950 – ~4110 CE | The present age: revelation and inheritance |
+| [Capricorn](../../timeline/age-of-capricorn/) | ~21,810 – 19,650 BCE | Project opens: survey, first terraforming |
+| [Sagittarius](../../timeline/age-of-sagittarius/) | ~19,650 – 17,490 BCE | Atmospheric engineering |
+| [Scorpio](../../timeline/age-of-scorpio/) | ~17,490 – 15,330 BCE | First synthesis of life |
+| [Libra](../../timeline/age-of-libra/) | ~15,330 – 13,170 BCE | Astronomical and calendrical work; the zodiac formalized |
+| [Virgo](../../timeline/age-of-virgo/) | ~13,170 – 11,010 BCE | Complex life; biodiversity |
+| [Leo](../../timeline/age-of-leo/) | ~11,010 – 8,850 BCE | Human creation |
+| [Cancer](../../timeline/age-of-cancer/) | ~8,850 – 6,690 BCE | Eden; Adam and Eve |
+| [Gemini](../../timeline/age-of-gemini/) | ~6,690 – 4,530 BCE | The flood; Noah |
+| [Taurus](../../timeline/age-of-taurus/) | ~4,530 – 2,370 BCE | Post-flood recovery; Babel; the patriarchs |
+| [Aries](../../timeline/age-of-aries/) | ~2,370 – 210 BCE | Mosaic law; the Hebrew prophets; the Axial Age |
+| [Pisces](../../timeline/age-of-pisces/) | ~210 BCE – 1950 CE | Christianity, Islam; universal distribution |
+| [Aquarius](../../timeline/age-of-aquarius/) | 1950 – ~4110 CE | The present age: revelation and inheritance |
 
 {% info(title="Explore the data") %}
 The corpus's twelve World Ages are published as the
@@ -326,13 +326,13 @@ proves.
 - [Lucifer](../lucifer/)
 - [Satan](../satan/)
 - [Genesis](../genesis/)
-- [Age of Capricorn](../timeline/age-of-capricorn/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Age of Taurus](../timeline/age-of-taurus/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
+- [Age of Capricorn](../../timeline/age-of-capricorn/)
+- [Age of Leo](../../timeline/age-of-leo/)
+- [Age of Gemini](../../timeline/age-of-gemini/)
+- [Age of Taurus](../../timeline/age-of-taurus/)
+- [Age of Aries](../../timeline/age-of-aries/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Jean Sendy](../jean-sendy/)
 - [Raël](../rael/)
 

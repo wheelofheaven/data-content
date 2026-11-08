@@ -189,15 +189,15 @@ The Menorah entry surfaces several open questions for the framework's broader in
 - [Yahweh](../yahweh/)
 - [Elohim](../elohim/)
 - [Genesis](../genesis/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
+- [Age of Aries](../../timeline/age-of-aries/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
 - [List of exegetic readings](../list-of-exegetic-readings/)
 - [List of megalithic sites](../list-of-megalithic-sites/)
 - [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/)
 
 ## Read more
 
-- [Timeline › Age of Aries](../timeline/age-of-aries/)
+- [Timeline › Age of Aries](../../timeline/age-of-aries/)
 
 ## External links
 

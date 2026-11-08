@@ -524,7 +524,7 @@ The substantial cross-cultural and historical engagement with the UFO/UAP phenom
 - [Yahweh](../yahweh/)
 - [Council of the Eternals](../council-of-the-eternals/)
 - [Jean Sendy](/wiki/jean-sendy/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 
 ## References
 

@@ -121,7 +121,7 @@ status_in_framework = "奠基性的後設概念；闡明整個專案是什麼、
 
 ## Wheel of Heaven 的解讀
 
-依本框架的解讀——在此，正典主張可以直接陳述——天之輪不是一份神秘的遺產，而是一件工具。黃道帶是[耶洛因](../elohim/)所設計的曆法；耶洛因是一個高等的人類文明，希伯來聖經以這個形式上為複數的詞來稱呼他們。他們設計這套曆法，是為了在一項延續數萬年的計畫中掌握方位，而歲差時代就是這座曆法緩慢移動的指針。耶洛因約於兩萬兩千年前抵達地球，在一個[大年](../great-year/)的十二個時代中勘察並預備這顆行星、合成生命，最終按其自身形像創造了人類。{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — the foundational contact account") }}每個時代都承載著工作的一個階段：[獅子座時代](../age-of-leo/)的人類合成、巨蟹座時代的[伊甸](../eden/)、雙子座時代的[大洪水](../great-flood/)、金牛座時代的巴別與眾族長、白羊座時代的希伯來先知、雙魚座時代的基督教紀元，以及[水瓶座時代](../age-of-aquarius/)當下的復原。{{ cite(id="genesis", text="[4]", title="Genesis — read by the corpus as compressed memory of the Elohim project") }}
+依本框架的解讀——在此，正典主張可以直接陳述——天之輪不是一份神秘的遺產，而是一件工具。黃道帶是[耶洛因](../elohim/)所設計的曆法；耶洛因是一個高等的人類文明，希伯來聖經以這個形式上為複數的詞來稱呼他們。他們設計這套曆法，是為了在一項延續數萬年的計畫中掌握方位，而歲差時代就是這座曆法緩慢移動的指針。耶洛因約於兩萬兩千年前抵達地球，在一個[大年](../great-year/)的十二個時代中勘察並預備這顆行星、合成生命，最終按其自身形像創造了人類。{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — the foundational contact account") }}每個時代都承載著工作的一個階段：[獅子座時代](../../timeline/age-of-leo/)的人類合成、巨蟹座時代的[伊甸](../eden/)、雙子座時代的[大洪水](../great-flood/)、金牛座時代的巴別與眾族長、白羊座時代的希伯來先知、雙魚座時代的基督教紀元，以及[水瓶座時代](../../timeline/age-of-aquarius/)當下的復原。{{ cite(id="genesis", text="[4]", title="Genesis — read by the corpus as compressed memory of the Elohim project") }}
 
 {{ diagram(name="world-ages-timeline", alt="一條水平時間軸，呈現十二個相連的歲差時代，從摩羯座時代（約西元前 21,810 年，計畫開端）到水瓶座時代（西元 1,950 年起，當前時代），並在獅子座、巨蟹座、雙子座、金牛座、白羊座與雙魚座之下標示關鍵事件。", caption="以時間軸呈現的歲差時代框架：十二個相連、各約 2,160 年的時代，承載著文集的敘事，從摩羯座時代的計畫開端一直到當前的水瓶座時代。") }}
 
@@ -170,7 +170,7 @@ Wheel of Heaven 專案就是對這套框架的詳盡陳述——一種詮釋立�
 - [雷爾運動](../raelism/)
 - [大使館](../embassy/)
 - [毛羅·比利諾](/wiki/mauro-biglino/)
-- [保羅·安東尼·沃利斯](../paul-anthony-wallis/)
+- [保羅·安東尼·沃利斯](/wiki/paul-wallis/)
 - [阿肯那頓](../akhenaten/)
 
 ## 參考文獻

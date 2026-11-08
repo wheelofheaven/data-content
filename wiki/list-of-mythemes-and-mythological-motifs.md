@@ -225,7 +225,7 @@ The catalogue surfaces several open methodological and interpretive questions.
 - [List of prophets and religions](../list-of-prophets-and-religions/)
 - [Genesis](../genesis/)
 - [Elohim](../elohim/)
-- [Deluge](../deluge/)
+- [Deluge](../great-flood/)
 - [Eden](../eden/)
 - [Tree of Life](../tree-of-life/)
 - [Tree of Knowledge](../tree-of-the-knowledge-of-good-and-evil/)

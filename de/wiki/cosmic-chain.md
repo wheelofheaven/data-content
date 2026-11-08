@@ -436,11 +436,11 @@ Der Rahmen des Kosmischen Wettbewerbs operiert als eine bestimmte Phase innerhal
 
 ### Der Eintrag zum Widder-Zeitalter
 
-Die Widder-Entdeckung ist der operative Ursprung des Rahmens der Kosmischen Kette in der umfassenderen Erzählung des Korpus. Die ausführliche Behandlung des Widder-Zeitalters und des spezifischen Inhalts der Entdeckung findet sich im Eintrag [Zeitalter des Widders](../timeline/age-of-aries/); der Eintrag zur Kosmischen Kette etabliert den umfassenderen kosmologischen Rahmen, den die Entdeckung hervorbrachte.
+Die Widder-Entdeckung ist der operative Ursprung des Rahmens der Kosmischen Kette in der umfassenderen Erzählung des Korpus. Die ausführliche Behandlung des Widder-Zeitalters und des spezifischen Inhalts der Entdeckung findet sich im Eintrag [Zeitalter des Widders](../../timeline/age-of-aries/); der Eintrag zur Kosmischen Kette etabliert den umfassenderen kosmologischen Rahmen, den die Entdeckung hervorbrachte.
 
 ### Die Einträge zum Wassermann-Zeitalter
 
-Die Erbschaftsbewertung des Wassermann-Zeitalters operiert als die spezifische gegenwärtige Phase der zyklischen Struktur der Kosmischen Kette. Die ausführliche Behandlung findet sich in den Einträgen [Apokalypse](../apocalypse/), [Botschaft](../embassy/) und [Zeitalter des Wassermanns](../timeline/age-of-aquarius/); der Eintrag zur Kosmischen Kette etabliert den umfassenderen kosmisch-zyklischen Kontext, innerhalb dessen die Entwicklungen des Wassermann-Zeitalters operieren.
+Die Erbschaftsbewertung des Wassermann-Zeitalters operiert als die spezifische gegenwärtige Phase der zyklischen Struktur der Kosmischen Kette. Die ausführliche Behandlung findet sich in den Einträgen [Apokalypse](../apocalypse/), [Botschaft](../embassy/) und [Zeitalter des Wassermanns](../../timeline/age-of-aquarius/); der Eintrag zur Kosmischen Kette etabliert den umfassenderen kosmisch-zyklischen Kontext, innerhalb dessen die Entwicklungen des Wassermann-Zeitalters operieren.
 
 ### Die umfassendere kosmologische Rahmung des Korpus
 

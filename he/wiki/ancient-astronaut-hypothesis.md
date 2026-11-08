@@ -631,7 +631,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Message from the Designers](/wiki/message-from-the-designers/)
 - [Jean Sendy](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 - [Hamlet's Mill](/wiki/hamlets-mill/)
 - [Elohim](../elohim/)
 - [Yahweh](../yahweh/)
@@ -644,7 +644,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)
 - [Apocalypse](../apocalypse/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Embassy](../embassy/)
 
 ## References

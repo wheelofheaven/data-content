@@ -41,7 +41,7 @@ framework_significance = "The framework reads the Third Temple as the completion
 
 The **Third Temple** (Hebrew **<span class="hebrew">בֵּית הַמִּקְדָּשׁ הַשְּׁלִישִׁי</span>** *Beit ha-Mikdash ha-Shlishi*, "the Third Holy House") is the future Temple that, in Jewish eschatological tradition, is to be built in Jerusalem to succeed the **First Temple** (Solomon's Temple, c. 957–587 BCE, destroyed by the Babylonians under Nebuchadnezzar II) and the **Second Temple** (516 BCE–70 CE, destroyed by the Romans under Titus). Its fullest biblical blueprint is the nine-chapter vision of the prophet [Ezekiel](../ezekiel/) (Ezekiel 40–48, c. 573 BCE), and its building is one of the works Jewish tradition assigns to the Messianic Age.
 
-In the Wheel of Heaven framework the Third Temple is one of three names — with [New Jerusalem](../new-jerusalem/) and [Embassy](../embassy/) — for the single structure the [Elohim](../elohim/) have asked humanity to build to receive their formal return in the [Age of Aquarius](../timeline/age-of-aquarius/). *Third Temple* is its Jewish-historical name, the successor in a line that runs from the wilderness Tabernacle through Solomon's Temple and the Second Temple. *New Jerusalem* is its Christian-apocalyptic name, from the holy city that descends in Revelation 21. *Embassy* is its operational name — the reception residence, on neutral extraterritorial ground, whose architecture the Raëlian source material lays out in detail. The framework reads all three as one physical thing: the residence prepared for the Elohim's [Great Return](../great-return/).
+In the Wheel of Heaven framework the Third Temple is one of three names — with [New Jerusalem](../new-jerusalem/) and [Embassy](../embassy/) — for the single structure the [Elohim](../elohim/) have asked humanity to build to receive their formal return in the [Age of Aquarius](../../timeline/age-of-aquarius/). *Third Temple* is its Jewish-historical name, the successor in a line that runs from the wilderness Tabernacle through Solomon's Temple and the Second Temple. *New Jerusalem* is its Christian-apocalyptic name, from the holy city that descends in Revelation 21. *Embassy* is its operational name — the reception residence, on neutral extraterritorial ground, whose architecture the Raëlian source material lays out in detail. The framework reads all three as one physical thing: the residence prepared for the Elohim's [Great Return](../great-return/).
 
 ## The Jewish Third Temple
 
@@ -94,7 +94,7 @@ The political dimension calls for care. The Temple Mount is sacred at once to Je
 - [First Temple](../first-temple/)
 - [Second Temple](../second-temple/)
 - [Apocalypse](../apocalypse/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Golden Age](../golden-age/)
 - [Elohim](../elohim/)
 - [Yahweh](../yahweh/)

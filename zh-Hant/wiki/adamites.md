@@ -176,7 +176,7 @@ The framework reads the Serpent contact as producing **hybrid offspring** — ch
 - The hybrid descent was substantially viable — the offspring were biologically integrated with the broader Adamite community and reproduced into subsequent generations
 - The genealogical record in Genesis 4-5 preserves traces of the hybrid descent — particularly the line of **Cain** (which the framework reads as potentially preserving content about the hybrid line), distinguished from the line of **Seth** (which the framework reads as continuing the unmixed Adamite line)
 - The Genesis 6:1-4 Nephilim narrative is read as preserving content about the continued and intensified reproductive contact between the rebellious Elohim faction and the broader Adamite population in the period leading up to the deluge
-- The deluge event (treated in the [Pangaea](../pangaea/) and [Deluge](../deluge/) entries) is read as the principal Elohim leadership's intervention against the broader corruption produced by the Watcher-Adamite reproductive pattern, with the genetic preservation conducted through Noah and the Ark preserving a substantially unmixed Adamite line
+- The deluge event (treated in the [Pangaea](../pangaea/) and [Deluge](../great-flood/) entries) is read as the principal Elohim leadership's intervention against the broader corruption produced by the Watcher-Adamite reproductive pattern, with the genetic preservation conducted through Noah and the Ark preserving a substantially unmixed Adamite line
 
 ### Connection to contemporary archaic admixture research
 
@@ -221,11 +221,11 @@ The Adamites entry connects to a substantial number of other corpus entries.
 
 **The Nephilim and the Watchers.** The dedicated [Nephilim](/wiki/nephilim/) and [Watchers](/wiki/watchers/) entries develop the framework's reading of the Genesis 6:1-4 and 1 Enoch material. The present entry registers the connection to the Adamite hybridisation.
 
-**Pangaea and the Deluge.** The dedicated [Pangaea](../pangaea/) and [Deluge](../deluge/) entries treat the broader antediluvian world and its catastrophic end. The Adamites are the population whose history occurred on Pangaea and which was substantially restructured by the deluge.
+**Pangaea and the Deluge.** The dedicated [Pangaea](../pangaea/) and [Deluge](../great-flood/) entries treat the broader antediluvian world and its catastrophic end. The Adamites are the population whose history occurred on Pangaea and which was substantially restructured by the deluge.
 
 **The Forerunners and Elohim.** The dedicated [Forerunners](../forerunners/) and [Elohim](../elohim/) entries treat the broader chain-of-designers in which the Adamites are the most recent product. The framework reads the Adamites as the latest instance of the broader cosmic-pluralism propagation pattern (treated in the [Cosmic pluralism](../cosmic-pluralism/) entry).
 
-**The Age of Leo.** The dedicated [Age of Leo](../timeline/age-of-leo/) entry treats the precessional period in which the Adamite synthesis occurred on the framework's reading.
+**The Age of Leo.** The dedicated [Age of Leo](../../timeline/age-of-leo/) entry treats the precessional period in which the Adamite synthesis occurred on the framework's reading.
 
 ## Open questions
 
@@ -247,7 +247,7 @@ The Adamites entry surfaces several open questions for the framework's broader i
 - [Nephilim](/wiki/nephilim/)
 - [Watchers](/wiki/watchers/)
 - [Pangaea](../pangaea/)
-- [Deluge](../deluge/)
+- [Deluge](../great-flood/)
 - [Noah](../noah/)
 - [Cain and Abel](../cain-and-abel/)
 - [Pantropy](../pantropy/)
@@ -258,7 +258,7 @@ The Adamites entry surfaces several open questions for the framework's broader i
 - [Cosmic pluralism](../cosmic-pluralism/)
 - [Forerunners](../forerunners/)
 - [Elohim](../elohim/)
-- [Age of Leo](../timeline/age-of-leo/)
+- [Age of Leo](../../timeline/age-of-leo/)
 - [List of etymological readings](../list-of-etymological-readings/)
 - [List of exegetic readings](../list-of-exegetic-readings/)
 

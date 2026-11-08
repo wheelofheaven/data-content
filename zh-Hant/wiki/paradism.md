@@ -507,7 +507,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Humanitarianism](../humanitarianism/)
 - [Cyberparadism](../cyberparadism/)
 - [Golden Age](../golden-age/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Apocalypse](../apocalypse/)
 - [Cosmic Competition](../cosmic-competition/)
 - [Cosmic Chain](../cosmic-chain/)

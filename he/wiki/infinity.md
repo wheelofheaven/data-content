@@ -675,7 +675,7 @@ The corpus does not require rejecting all of the mainstream scholarly framework.
 - [Swastika](../swastika/)
 - [Jean Sendy](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 
 ## References
 

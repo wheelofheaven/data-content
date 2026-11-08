@@ -83,8 +83,8 @@ La descendance de l'écriture (araméen nabatéen → arabe) n'est pas contesté
 - [Jésus](../jesus/)
 - [La Mecque](../mecca/)
 - [Bible hébraïque](../hebrew-bible/)
-- [Ère des Poissons](../timeline/age-of-pisces/)
-- [Ère du Bélier](../timeline/age-of-aries/)
+- [Ère des Poissons](../../timeline/age-of-pisces/)
+- [Ère du Bélier](../../timeline/age-of-aries/)
 - [Liste de prophètes et de religions](../list-of-prophets-and-religions/)
 
 ## Références

@@ -35,7 +35,7 @@ The Wheel of Heaven framework reads the Third Temple as substantively identified
 
 The framework's reading is that the **operational continuity** of the **Tabernacle** (the Mosaic-period wilderness sanctuary; treated in the [Tabernacle](../tabernacle/) entry if present), the **First Temple** (the Solomonic permanent installation), the **Second Temple** (the post-exilic restoration), and the anticipated **Third Temple / Embassy** constitutes a single architectural-operational sequence of **Elohim terrestrial reception sites** — each successive structure serving the substantive function of providing a prepared physical location for the Elohim's terrestrial presence, with the specific architectural form updated according to the requirements of each historical period.
 
-The present entry treats the Third Temple as a Places & Locations category entry, with substantive engagement with the Hebrew biblical sources, the Jewish theological tradition, the Christian engagement, the Temple Mount question, the Raëlian Embassy identification, and the framework's broader reading. The dedicated [Embassy](../embassy/) entry treats the operational installation specifically; the dedicated [Great Return](../great-return/) entry treats the broader anticipated event for which the Third Temple is the reception site; the dedicated [Age of Apocalypse](../age-of-apocalypse/) entry treats the contemporary transitional period during which the Third Temple expectations are substantively engaged.
+The present entry treats the Third Temple as a Places & Locations category entry, with substantive engagement with the Hebrew biblical sources, the Jewish theological tradition, the Christian engagement, the Temple Mount question, the Raëlian Embassy identification, and the framework's broader reading. The dedicated [Embassy](../embassy/) entry treats the operational installation specifically; the dedicated [Great Return](../great-return/) entry treats the broader anticipated event for which the Third Temple is the reception site; the dedicated [Age of Apocalypse](../apocalypse/) entry treats the contemporary transitional period during which the Third Temple expectations are substantively engaged.
 
 ## Etymology and terminology
 
@@ -386,7 +386,7 @@ The framework reads this updating as substantively consistent with the broader E
 
 ### The contemporary recognition pattern
 
-The framework reads the contemporary substantive engagement with the Third Temple expectation as part of the broader contemporary recognition pattern (treated in the [Age of Apocalypse](../age-of-apocalypse/) and [Great Return](../great-return/) entries). The principal observations:
+The framework reads the contemporary substantive engagement with the Third Temple expectation as part of the broader contemporary recognition pattern (treated in the [Age of Apocalypse](../apocalypse/) and [Great Return](../great-return/) entries). The principal observations:
 
 - **The post-1967 Jewish engagement** with the Temple Mount (following the Six-Day War's restoration of Israeli control over Jerusalem) has substantively activated the Third Temple expectation within mainstream Jewish religious discourse
 - **The Temple Institute's contemporary preparation work** (founded 1987, substantially developed across the past four decades) represents substantive concrete preparation for the Third Temple expectation
@@ -461,8 +461,8 @@ The Third Temple entry surfaces several open questions for the framework's broad
 - [Tabernacle](../tabernacle/)
 - [First Temple](../first-temple/)
 - [Second Temple](../second-temple/)
-- [Age of Apocalypse](../age-of-apocalypse/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
+- [Age of Apocalypse](../apocalypse/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Golden Age](../golden-age/)
 - [Elohim](../elohim/)
 - [Yahweh](../yahweh/)

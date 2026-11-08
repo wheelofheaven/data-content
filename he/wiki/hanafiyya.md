@@ -105,7 +105,7 @@ distinguished_from = "אסכולת ההלכה הסונית המאוחרת הקר
 - [אלוהים](../elohim/)
 - [מועצת הנצחיים](../council-of-the-eternals/)
 - [דת](../religion/)
-- [עידן הדגים](../timeline/age-of-pisces/)
+- [עידן הדגים](../../timeline/age-of-pisces/)
 - [רשימת נביאים ודתות](../list-of-prophets-and-religions/)
 - [אלוהים](../elohim/)
 

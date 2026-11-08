@@ -297,7 +297,7 @@ Within the specific Sendy–Raëlian interpretive tradition that the corpus read
 - [Genesis](../genesis/)
 - [Elohim](../elohim/)
 - [Tree of Life](../tree-of-life/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Apocalypse](../apocalypse/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Jean Sendy](/wiki/jean-sendy/)

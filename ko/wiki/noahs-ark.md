@@ -280,7 +280,7 @@ The substantive substantial post-flood altar ceremony and substantive substantia
 
 ### The Cancer-Gemini-age positioning
 
-The substantive substantial ark construction operates substantively across substantive substantial late Age of Cancer (substantive substantial centuries-long construction period), with substantive substantial launch substantively at substantive substantial Cancer-Gemini boundary (c. 6,690 BCE corpus chronology), and substantive substantial post-flood landing substantively in substantive substantial early Age of Gemini. The detailed treatments live in the [Age of Cancer](../age-of-cancer/) and [Age of Gemini](../age-of-gemini/) entries when written.
+The substantive substantial ark construction operates substantively across substantive substantial late Age of Cancer (substantive substantial centuries-long construction period), with substantive substantial launch substantively at substantive substantial Cancer-Gemini boundary (c. 6,690 BCE corpus chronology), and substantive substantial post-flood landing substantively in substantive substantial early Age of Gemini. The detailed treatments live in the [Age of Cancer](../../timeline/age-of-cancer/) and [Age of Gemini](../../timeline/age-of-gemini/) entries when written.
 
 ### The Vorilhon source-textual corpus
 
@@ -495,8 +495,8 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Theomachy](../theomachy/)
 - [Babel](../babel/)
 - [Eden](../eden/)
-- [Age of Cancer](../age-of-cancer/)
-- [Age of Gemini](../age-of-gemini/)
+- [Age of Cancer](../../timeline/age-of-cancer/)
+- [Age of Gemini](../../timeline/age-of-gemini/)
 - [Apocalypse](../apocalypse/)
 - [Cosmic Competition](../cosmic-competition/)
 - [Cosmic Chain](../cosmic-chain/)

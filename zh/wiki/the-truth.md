@@ -441,7 +441,7 @@ The framework engages these substantively while operating from distinct source-m
 
 The substantial contemporary UFO / UAP disclosure community operates substantively through "truth movement" rhetoric. The substantial principal contemporary developments: the 2017 *New York Times* AATIP coverage; the 2020 Pentagon UAP Task Force; the 2022 All-domain Anomaly Resolution Office (AARO) formation; the 2023 Congressional hearings featuring substantial sworn testimony from David Grusch, Ryan Graves, and David Fravor; the broader contemporary "disclosure" cultural movement.
 
-The substantial relationship to the framework: substantive contextual relevance for the broader Aquarian-age opening (the substantial registration of resumption of direct alliance contact with selected human individuals); operating substantively differently in principal source-material warrant (the framework operates principally through Vorilhon source material rather than through contemporary UAP-evidence engagement). The detailed treatment lives in the [Age of Aquarius](../age-of-aquarius/) and [Wheel of Heaven](../wheel-of-heaven/) entries.
+The substantial relationship to the framework: substantive contextual relevance for the broader Aquarian-age opening (the substantial registration of resumption of direct alliance contact with selected human individuals); operating substantively differently in principal source-material warrant (the framework operates principally through Vorilhon source material rather than through contemporary UAP-evidence engagement). The detailed treatment lives in the [Age of Aquarius](../../timeline/age-of-aquarius/) and [Wheel of Heaven](../wheel-of-heaven/) entries.
 
 ### The framework's relationship to the broader scholarly landscape
 
@@ -610,7 +610,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Jean Sendy](/wiki/jean-sendy/)
 - [Hamlet's Mill](/wiki/hamlets-mill/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 - [Neo-Euhemerism](../neo-euhemerism/)
 - [Genesis](../genesis/)
 

@@ -42,7 +42,7 @@ Puy-de-Lassolas crater and set out across the Raëlian source corpus
 (1974–1979, consolidated in 2005). They are Geniocracy, Humanitarianism, World
 Government, Demilitarization, Science as Religion, Telepathic Cultivation, and
 the Metaphysical Clarifications — and together they form the program the
-[Elohim](../elohim/) propose for the [Age of Aquarius](../timeline/age-of-aquarius/):
+[Elohim](../elohim/) propose for the [Age of Aquarius](../../timeline/age-of-aquarius/):
 a direction for humanity's long-term political and religious development rather
 than a set of rules for immediate adoption. The corpus reads them as the
 successor, for the incoming age, to the Mosaic Decalogue that Yahweh gave
@@ -261,9 +261,9 @@ across centuries rather than a settled blueprint.
 - [Paradism](../paradism/)
 - [Cyberparadism](../cyberparadism/)
 - [Movement for Worldwide Geniocracy](../movement-for-worldwide-geniocracy/)
-- [Age of Aquarius](../age-of-aquarius/)
-- [Age of Aries](../age-of-aries/)
-- [Age of Pisces](../age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
+- [Age of Aries](../../timeline/age-of-aries/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
 - [Religion](../religion/)
 
 ## References

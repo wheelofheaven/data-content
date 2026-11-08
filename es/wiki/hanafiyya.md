@@ -105,7 +105,7 @@ El `claim_type` general de la entrada es `inferred`: el concepto de *ḥanīf* y
 - [Elohim](../elohim/)
 - [Consejo de los Eternos](../council-of-the-eternals/)
 - [Religión](../religion/)
-- [Era de Piscis](../timeline/age-of-pisces/)
+- [Era de Piscis](../../timeline/age-of-pisces/)
 - [Lista de profetas y religiones](../list-of-prophets-and-religions/)
 - [Elohim](../elohim/)
 

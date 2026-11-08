@@ -251,7 +251,7 @@ The corpus interpretation of New Jerusalem operates across multiple integrated f
 
 ### The Aquarian-age architectural-institutional content
 
-The New Jerusalem operates as the principal Aquarian-age physical-architectural content. The Aquarian age (1950 to approximately 4110 in the corpus chronology, treated in the [Age of Aquarius](../age-of-aquarius/) entry when written) registers the broader temporal framework within which the Embassy construction and the subsequent Aquarian-age civilizational development operate. The New Jerusalem operates as the architectural-institutional anchor for this broader engagement.
+The New Jerusalem operates as the principal Aquarian-age physical-architectural content. The Aquarian age (1950 to approximately 4110 in the corpus chronology, treated in the [Age of Aquarius](../../timeline/age-of-aquarius/) entry when written) registers the broader temporal framework within which the Embassy construction and the subsequent Aquarian-age civilizational development operate. The New Jerusalem operates as the architectural-institutional anchor for this broader engagement.
 
 ### The Apocalypse-and-alliance-return content
 
@@ -440,8 +440,8 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Golden Age](../golden-age/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)
-- [Age of Aquarius](../age-of-aquarius/)
-- [Age of Pisces](../age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
 - [Mark of the Beast](../mark-of-the-beast/)
 - [Number of Man](../number-of-man/)
 - [Book of Revelation](../book-of-revelation/)

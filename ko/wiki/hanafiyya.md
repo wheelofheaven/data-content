@@ -105,7 +105,7 @@ distinguished_from = "아부 하니파의 이름을 딴 후대 수니파 법학�
 - [엘로힘](../elohim/)
 - [영원자 평의회](../council-of-the-eternals/)
 - [종교](../religion/)
-- [물고기자리 시대](../timeline/age-of-pisces/)
+- [물고기자리 시대](../../timeline/age-of-pisces/)
 - [예언자와 종교 목록](../list-of-prophets-and-religions/)
 - [엘로힘](../elohim/)
 

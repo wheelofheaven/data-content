@@ -321,7 +321,7 @@ Abraham operates substantively across substantial multiple corpus framework enga
 
 ### The Taurus-Aries transitional positioning
 
-Abraham operates at substantive substantial Taurus-Aries boundary in corpus chronology. The substantive substantial late Age of Taurus (corpus dating −4,530 to −2,370) registers substantive substantial post-Sodom recovery context; substantive substantial early Age of Aries (corpus dating −2,370 to −210) registers substantive substantial substantial inaugural Aries-age recovery program. The detailed treatments live in the [Age of Taurus](../age-of-taurus/) and [Age of Aries](../age-of-aries/) entries when written.
+Abraham operates at substantive substantial Taurus-Aries boundary in corpus chronology. The substantive substantial late Age of Taurus (corpus dating −4,530 to −2,370) registers substantive substantial post-Sodom recovery context; substantive substantial early Age of Aries (corpus dating −2,370 to −210) registers substantive substantial substantial inaugural Aries-age recovery program. The detailed treatments live in the [Age of Taurus](../../timeline/age-of-taurus/) and [Age of Aries](../../timeline/age-of-aries/) entries when written.
 
 The substantive substantial Taurus-Aries transitional symbolism appears substantively in substantive substantial substitutionary ram at substantive substantial Akedah — substantive substantial Aries-age animal (the Ram) substantively arriving at substantive substantial precisely right moment to preserve substantive substantial Taurus-age tested patriarch's substantive substantial lineage.
 
@@ -335,7 +335,7 @@ The substantive substantial Noahic Covenant content (treated in [Noahic Covenant
 
 ### The Aries-age recovery program
 
-The substantive substantial Aries-age recovery program (treated in [Age of Aries](../age-of-aries/) and substantive subsequent figure entries) operates substantively as substantive substantial working-out of what Abraham's verified loyalty made possible:
+The substantive substantial Aries-age recovery program (treated in [Age of Aries](../../timeline/age-of-aries/) and substantive subsequent figure entries) operates substantively as substantive substantial working-out of what Abraham's verified loyalty made possible:
 
 - **Isaac** — substantive substantial covenant-line son; substantive substantial second-generation patriarch (treated in [Isaac](../isaac/) entry when written)
 - **Jacob/Israel** — substantive substantial third-generation patriarch; substantive substantial Israelite-people founder (treated in [Jacob](../jacob/) entry when written)
@@ -625,10 +625,10 @@ Esta restauración discurrió específicamente a través de la línea de **Ismae
 - [Babel](../babel/)
 - [Theomachy](../theomachy/)
 - [Eden](../eden/)
-- [Age of Cancer](../age-of-cancer/)
-- [Age of Gemini](../age-of-gemini/)
-- [Age of Taurus](../age-of-taurus/)
-- [Age of Aries](../age-of-aries/)
+- [Age of Cancer](../../timeline/age-of-cancer/)
+- [Age of Gemini](../../timeline/age-of-gemini/)
+- [Age of Taurus](../../timeline/age-of-taurus/)
+- [Age of Aries](../../timeline/age-of-aries/)
 - [Apocalypse](../apocalypse/)
 - [Cosmic Competition](../cosmic-competition/)
 - [Cosmic Chain](../cosmic-chain/)

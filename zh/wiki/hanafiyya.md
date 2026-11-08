@@ -105,7 +105,7 @@ distinguished_from = "以艾布·哈尼法命名的后世逊尼派法学学派(�
 - [耶洛因](../elohim/)
 - [永恒者议会](../council-of-the-eternals/)
 - [宗教](../religion/)
-- [双鱼座时代](../timeline/age-of-pisces/)
+- [双鱼座时代](../../timeline/age-of-pisces/)
 - [先知与宗教清单](../list-of-prophets-and-religions/)
 - [耶洛因](../elohim/)
 

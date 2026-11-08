@@ -492,7 +492,7 @@ The corpus does not require rejecting all of the mainstream scholarly framework.
 - [Tree of Life](../tree-of-life/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](../paul-wallis/)
 
 ## References
 

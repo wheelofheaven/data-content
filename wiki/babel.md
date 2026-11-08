@@ -282,7 +282,7 @@ framework's reading is offered alongside it rather than in its place.
 - [Hebrew](../hebrew/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Abraham](../abraham/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](../paul-wallis/)
 - [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (Babel as the sabotage of a spacefaring civilization)
 
 ## References

@@ -286,7 +286,7 @@ reading in the Raëlian source material rather than in Sitchin's Sumerian scheme
 - [Hebrew Bible](../hebrew-bible/)
 - [Abraham](../abraham/)
 - [Noah](../noah/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](../paul-wallis/)
 - [Mauro Biglino](../mauro-biglino/)
 
 ## References

@@ -221,7 +221,7 @@ corpus treats the figure as the literal fact, and says so plainly.
 - [Theomachy](../theomachy/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](../paul-wallis/)
 
 ## References
 

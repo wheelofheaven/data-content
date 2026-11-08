@@ -205,7 +205,7 @@ The Age of Aquarius designates the broader chronological-astronomical period wit
 - **Contingency**. The Aquarian age occurs substantively automatically as astronomical phenomenon; the Golden Age realization is substantively contingent on collective navigation
 - **Scope**. The Aquarian age is the broader chronological frame; the Golden Age is the substantively specific operational content
 
-The detailed treatment of the Age of Aquarius lives in the [Age of Aquarius](../age-of-aquarius/) entry when written.
+The detailed treatment of the Age of Aquarius lives in the [Age of Aquarius](../../timeline/age-of-aquarius/) entry when written.
 
 ### Golden Age vs. Apocalypse
 
@@ -254,7 +254,7 @@ The Golden Age operates substantively across multiple corpus framework engagemen
 
 ### The Aquarian-age program articulation
 
-The Golden Age operates as the substantive content of successful Aquarian-age navigation. The detailed treatment of the broader Aquarian-age content lives in the [Age of Aquarius](../age-of-aquarius/) entry when written; the present entry articulates the substantive operational-content dimension specifically.
+The Golden Age operates as the substantive content of successful Aquarian-age navigation. The detailed treatment of the broader Aquarian-age content lives in the [Age of Aquarius](../../timeline/age-of-aquarius/) entry when written; the present entry articulates the substantive operational-content dimension specifically.
 
 ### The New Commandments framework
 
@@ -493,7 +493,7 @@ The framework's distinctive contribution within this broader comparative landsca
 ## See also
 
 - [Wheel of Heaven](../wheel-of-heaven/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Apocalypse](../apocalypse/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)

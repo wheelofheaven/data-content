@@ -406,7 +406,7 @@ La Embajada es el centro operativo de la misión del profeta de la era de Acuari
 
 ### La entrada Era de Acuario
 
-La Embajada es el elemento operativo central del programa de la era de Acuario. El tratamiento detallado de la Era de Acuario vive en la entrada [Era de Acuario](../timeline/age-of-aquarius/); la contribución específica de la entrada Embajada es establecer los elementos operativos concretos de la Embajada.
+La Embajada es el elemento operativo central del programa de la era de Acuario. El tratamiento detallado de la Era de Acuario vive en la entrada [Era de Acuario](../../timeline/age-of-aquarius/); la contribución específica de la entrada Embajada es establecer los elementos operativos concretos de la Embajada.
 
 ## Distinción de conceptos adyacentes
 

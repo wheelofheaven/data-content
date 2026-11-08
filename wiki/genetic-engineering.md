@@ -168,7 +168,7 @@ used at the creation.{% end %} The double helix in 1953, recombinant DNA in the 
 1970s, and CRISPR in 2012 are read as milestones along that recovery. On the
 corpus's chronology the acceleration belongs to the present transitional period —
 the [Apocalypse](../apocalypse/), coextensive with the
-[Age of Aquarius](../timeline/age-of-aquarius/) — in which humanity approaches the
+[Age of Aquarius](../../timeline/age-of-aquarius/) — in which humanity approaches the
 threshold of creating life itself. The Raëlian material, published in 1974–1976
 just as recombinant DNA was emerging, anticipates that humanity will one day make
 life in laboratories as its makers did: the point at which, in the source's

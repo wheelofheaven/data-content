@@ -57,7 +57,7 @@ in which [Yahweh](../yahweh/) writes that "the hour of our Great Return is near.
 The framework treats the return as the culminating event of the present
 [Age of Apocalypse](../apocalypse/) — the post-1945 period of recovery and
 disclosure — and as the opening of the [Golden Age](../golden-age/) of
-[Aquarius](../timeline/age-of-aquarius/) that follows. Its timing is left open:
+[Aquarius](../../timeline/age-of-aquarius/) that follows. Its timing is left open:
 the source material speaks of imminence without a calendar, and the conditional
 structure makes the date depend on humanity's response rather than on a fixed
 hour.
@@ -236,7 +236,7 @@ any consenting nation.
 - [Third Temple](../third-temple/)
 - [New Jerusalem](../new-jerusalem/)
 - [Apocalypse](../apocalypse/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Golden Age](../golden-age/)
 - [Elohim](../elohim/)
 - [Council of the Eternals](../council-of-the-eternals/)

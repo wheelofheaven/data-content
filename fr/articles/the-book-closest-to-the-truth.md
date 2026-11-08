@@ -279,7 +279,7 @@ délivre de toute chose mauvaise.
 {% end %}
 
 Le nom du texte énonce son propos. שִׁעוּר (*shiʿur*) signifie « mesure »,
-« quantité », « montant » — le même mot qu'un Israëlien moderne emploie pour une
+« quantité », « montant » — le même mot qu'un Israélien moderne emploie pour une
 leçon d'école ; קוֹמָה (*qomah*) est « stature » ou « hauteur » — en hébreu
 moderne, l'étage d'un immeuble — et dans l'araméen de l'époque il peut signifier
 simplement « corps ». *Shiʿur qomah* : la mesure de la stature ; ou, comme

@@ -406,7 +406,7 @@ Die Botschaft ist das operative Zentrum für die Mission des Propheten des Wasse
 
 ### Der Eintrag zum Zeitalter des Wassermanns
 
-Die Botschaft ist das zentrale operative Element des Programms des Wassermann-Zeitalters. Die detaillierte Behandlung des Zeitalters des Wassermanns befindet sich im Eintrag [Zeitalter des Wassermanns](../timeline/age-of-aquarius/); der spezifische Beitrag des Botschaftseintrags besteht darin, die spezifischen operativen Merkmale der Botschaft zu begründen.
+Die Botschaft ist das zentrale operative Element des Programms des Wassermann-Zeitalters. Die detaillierte Behandlung des Zeitalters des Wassermanns befindet sich im Eintrag [Zeitalter des Wassermanns](../../timeline/age-of-aquarius/); der spezifische Beitrag des Botschaftseintrags besteht darin, die spezifischen operativen Merkmale der Botschaft zu begründen.
 
 ## Abgrenzung von benachbarten Konzepten
 

@@ -264,7 +264,7 @@ The substantive substantial Babel content (treated in the [Babel](../babel/) ent
 
 ### The Cancer-Gemini-age positioning
 
-The substantive substantial flood event operates substantively at substantive substantial Cancer-Gemini boundary in corpus chronology (c. 6,690 BCE). The substantive substantial Age of Cancer (substantive substantial −8,850 to −6,690 in corpus chronology) substantively concludes with substantive substantial flood cataclysm; substantive substantial Age of Gemini (substantive substantial −6,690 to −4,530) substantively opens with substantive substantial post-flood civilizational restart. The detailed treatments live in the [Age of Cancer](../age-of-cancer/) and [Age of Gemini](../age-of-gemini/) entries when written.
+The substantive substantial flood event operates substantively at substantive substantial Cancer-Gemini boundary in corpus chronology (c. 6,690 BCE). The substantive substantial Age of Cancer (substantive substantial −8,850 to −6,690 in corpus chronology) substantively concludes with substantive substantial flood cataclysm; substantive substantial Age of Gemini (substantive substantial −6,690 to −4,530) substantively opens with substantive substantial post-flood civilizational restart. The detailed treatments live in the [Age of Cancer](../../timeline/age-of-cancer/) and [Age of Gemini](../../timeline/age-of-gemini/) entries when written.
 
 ### The Cosmic Competition cosmic-civilizational evaluation framework
 
@@ -521,8 +521,8 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Cain and Abel](../cain-and-abel/)
 - [Abraham](../abraham/)
 - [Moses](../moses/)
-- [Age of Cancer](../age-of-cancer/)
-- [Age of Gemini](../age-of-gemini/)
+- [Age of Cancer](../../timeline/age-of-cancer/)
+- [Age of Gemini](../../timeline/age-of-gemini/)
 - [Apocalypse](../apocalypse/)
 - [Cosmic Competition](../cosmic-competition/)
 - [Cosmic Chain](../cosmic-chain/)

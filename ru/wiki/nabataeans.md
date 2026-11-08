@@ -83,8 +83,8 @@ distinguished_from = "Бедуины Хиджаза (чей диалект ср�
 - [Иисус](../jesus/)
 - [Мекка](../mecca/)
 - [Еврейская Библия](../hebrew-bible/)
-- [Эпоха Рыб](../timeline/age-of-pisces/)
-- [Эпоха Овна](../timeline/age-of-aries/)
+- [Эпоха Рыб](../../timeline/age-of-pisces/)
+- [Эпоха Овна](../../timeline/age-of-aries/)
 - [Список пророков и религий](../list-of-prophets-and-religions/)
 
 ## Источники

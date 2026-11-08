@@ -305,7 +305,7 @@ The detailed treatment of the doubled-signature principle lives in the [Doubled 
 
 Each of the twelve precessional ages has its own dedicated entry, each engaging the corresponding zodiacal sign substantively:
 
-- [Age of Capricorn](../age-of-capricorn/), [Age of Sagittarius](../age-of-sagittarius/), [Age of Scorpio](../age-of-scorpio/), [Age of Libra](../age-of-libra/), [Age of Virgo](../age-of-virgo/), [Age of Leo](../age-of-leo/), [Age of Cancer](../age-of-cancer/), [Age of Gemini](../age-of-gemini/), [Age of Taurus](../age-of-taurus/), [Age of Aries](../age-of-aries/), [Age of Pisces](../age-of-pisces/), [Age of Aquarius](../age-of-aquarius/)
+- [Age of Capricorn](../../timeline/age-of-capricorn/), [Age of Sagittarius](../../timeline/age-of-sagittarius/), [Age of Scorpio](../../timeline/age-of-scorpio/), [Age of Libra](../../timeline/age-of-libra/), [Age of Virgo](../../timeline/age-of-virgo/), [Age of Leo](../../timeline/age-of-leo/), [Age of Cancer](../../timeline/age-of-cancer/), [Age of Gemini](../../timeline/age-of-gemini/), [Age of Taurus](../../timeline/age-of-taurus/), [Age of Aries](../../timeline/age-of-aries/), [Age of Pisces](../../timeline/age-of-pisces/), [Age of Aquarius](../../timeline/age-of-aquarius/)
 
 Each age entry treats the specific symbolic-iconographic content of that sign within the broader precessional-engineering framework.
 
@@ -579,18 +579,18 @@ The corpus does not require rejecting all of the mainstream explanatory framewor
 - [Doubled Signature](../doubled-signature/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Hamlet's Mill](/wiki/hamlets-mill/)
-- [Age of Capricorn](../age-of-capricorn/)
-- [Age of Sagittarius](../age-of-sagittarius/)
-- [Age of Scorpio](../age-of-scorpio/)
-- [Age of Libra](../age-of-libra/)
-- [Age of Virgo](../age-of-virgo/)
-- [Age of Leo](../age-of-leo/)
-- [Age of Cancer](../age-of-cancer/)
-- [Age of Gemini](../age-of-gemini/)
-- [Age of Taurus](../age-of-taurus/)
-- [Age of Aries](../age-of-aries/)
-- [Age of Pisces](../age-of-pisces/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Capricorn](../../timeline/age-of-capricorn/)
+- [Age of Sagittarius](../../timeline/age-of-sagittarius/)
+- [Age of Scorpio](../../timeline/age-of-scorpio/)
+- [Age of Libra](../../timeline/age-of-libra/)
+- [Age of Virgo](../../timeline/age-of-virgo/)
+- [Age of Leo](../../timeline/age-of-leo/)
+- [Age of Cancer](../../timeline/age-of-cancer/)
+- [Age of Gemini](../../timeline/age-of-gemini/)
+- [Age of Taurus](../../timeline/age-of-taurus/)
+- [Age of Aries](../../timeline/age-of-aries/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Genesis](../genesis/)
 - [Mithraic Mysteries](../mithraic-mysteries/)

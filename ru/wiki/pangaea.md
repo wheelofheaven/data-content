@@ -81,7 +81,7 @@ The framework's adopted reading of Pangaea engages the same geographic structure
 
 ### The construction of Pangaea (*yom* 3 / Age of Scorpio)
 
-The framework's reading of the construction of Pangaea is developed principally in the [Genesis](../genesis/) entry and the [Age of Scorpio](../timeline/age-of-scorpio/) entry, with the [terraforming](../terraforming/) entry providing the broader theoretical context.
+The framework's reading of the construction of Pangaea is developed principally in the [Genesis](../genesis/) entry and the [Age of Scorpio](../../timeline/age-of-scorpio/) entry, with the [terraforming](../terraforming/) entry providing the broader theoretical context.
 
 The source material's account of the construction is given in *Le Livre qui dit la vérité* (Vorilhon, 1974), where the visitor (identified in the source material as Yahweh) describes the work as follows:
 
@@ -159,7 +159,7 @@ Pangaea's role as the antediluvian supercontinent connects to several specific a
 
 **Eden and the antediluvian period.** Eden's location on Pangaea is what makes the Hebrew Bible's specific Eden-geography (the four rivers from one source) operationally coherent. The broader antediluvian period — the entire pre-deluge phase of human history on the framework's reading — occurred on Pangaea. The [Eden](../eden/) entry develops the operational reading of Eden in detail; the present entry registers the geographic substrate the Eden phase occupied.
 
-**The deluge.** The deluge event is the framework's reading of the catastrophic intervention that ended the antediluvian phase. The intervention is read as both the destruction of the antediluvian human population (the Genesis 6–9 narrative) and the structural breakup of Pangaea (the geological event whose surface signature subsequent geology records). The [Deluge](../deluge/) entry develops the operational reading of the event; the present entry registers Pangaea as the geographic substrate the deluge destroyed.
+**The deluge.** The deluge event is the framework's reading of the catastrophic intervention that ended the antediluvian phase. The intervention is read as both the destruction of the antediluvian human population (the Genesis 6–9 narrative) and the structural breakup of Pangaea (the geological event whose surface signature subsequent geology records). The [Deluge](../great-flood/) entry develops the operational reading of the event; the present entry registers Pangaea as the geographic substrate the deluge destroyed.
 
 **Post-deluge dispersal of humanity.** The framework's reading of the post-deluge period includes the dispersal of the preserved human population across the post-breakup continents, the establishment of regional civilisations (including those whose megalithic remains the corpus catalogues in the [List of megalithic sites](../list-of-megalithic-sites/)), and the gradual development of the present-day human cultural diversity. The post-deluge dispersal is conditioned by the post-breakup continental configuration — the human populations distributed across the separating continents developed in regional isolation from one another in a way the antediluvian population had not.
 
@@ -173,20 +173,20 @@ Pangaea's role as the antediluvian supercontinent connects to several specific a
 - [Terraforming](../terraforming/)
 - [Eden](../eden/)
 - [Noah's Ark](../noahs-ark/)
-- [Deluge](../deluge/)
+- [Deluge](../great-flood/)
 - [Antediluvian](../antediluvian/)
 - [Nephilim](/wiki/nephilim/)
-- [Age of Scorpio](../timeline/age-of-scorpio/)
-- [Age of Libra](../timeline/age-of-libra/)
-- [Age of Virgo](../timeline/age-of-virgo/)
-- [Age of Leo](../timeline/age-of-leo/)
+- [Age of Scorpio](../../timeline/age-of-scorpio/)
+- [Age of Libra](../../timeline/age-of-libra/)
+- [Age of Virgo](../../timeline/age-of-virgo/)
+- [Age of Leo](../../timeline/age-of-leo/)
 - [Elohim](../elohim/)
 - [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/)
 - [List of megalithic sites](../list-of-megalithic-sites/)
 
 ## Read more
 
-- [Timeline › Age of Scorpio](../timeline/age-of-scorpio/)
+- [Timeline › Age of Scorpio](../../timeline/age-of-scorpio/)
 
 ## External links
 

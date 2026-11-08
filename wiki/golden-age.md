@@ -97,7 +97,7 @@ status_in_framework = "Foundational eschatological-cosmological concept; the con
 
 **The Golden Age** is, in the Wheel of Heaven framework, the form of life that
 becomes available to humanity if it navigates the
-[Age of Aquarius](../age-of-aquarius/) threshold successfully. Where the
+[Age of Aquarius](../../timeline/age-of-aquarius/) threshold successfully. Where the
 classical and Hindu traditions place a golden age in the deep past — a lost
 condition of harmony from which the world has declined — the framework reads
 that memory forward: the age it names lies ahead, as the outcome of a test
@@ -127,7 +127,7 @@ promise of {% libref(book="isaiah", chapter=35, verse=5) %}Isaiah 35:5–6{% end
 as a technological rather than a miraculous restoration.{{ cite(id="isaiah", text="[4]", title="Isaiah 35:5–6 — the messianic-restoration passage echoed in the Buddhism-section Golden Age articulation.") }}
 
 The Golden Age is kept distinct from the concepts nearest to it. The
-[Age of Aquarius](../age-of-aquarius/) is the broader astronomical period
+[Age of Aquarius](../../timeline/age-of-aquarius/) is the broader astronomical period
 (roughly 1950 to 4110 CE on the corpus chronology) within which the Golden Age
 may emerge, but the age is the period of the test, not the guaranteed reward.
 [Apocalypse](../apocalypse/) — in its Greek sense of *unveiling* — is the
@@ -318,7 +318,7 @@ plainly.
 ## See also
 
 - [Wheel of Heaven](../wheel-of-heaven/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Apocalypse](../apocalypse/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)

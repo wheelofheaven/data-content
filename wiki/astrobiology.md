@@ -264,7 +264,7 @@ can ask. They differ on whether the answer has already been given.
 - [Sendy's Conditions of Coherence](../sendys-conditions-of-coherence/)
 - [Neo-Euhemerism](../neo-euhemerism/)
 - [Comparative Mythology](../comparative-mythology/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 
 ## References
 

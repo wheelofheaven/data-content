@@ -436,11 +436,11 @@ Raël 派源材料就人类在链条中的预定未来角色提供了可观材�
 
 ### 白羊座时代条目
 
-白羊座发现是文集更宏阔叙述中宇宙链框架的运作起源。白羊座时代与此发现具体内容的详细处理见于 [Age of Aries](../timeline/age-of-aries/) 条目;宇宙链条目确立此发现所产生的更宏阔宇宙学框架。
+白羊座发现是文集更宏阔叙述中宇宙链框架的运作起源。白羊座时代与此发现具体内容的详细处理见于 [Age of Aries](../../timeline/age-of-aries/) 条目;宇宙链条目确立此发现所产生的更宏阔宇宙学框架。
 
 ### 宝瓶座时代诸条目
 
-宝瓶座时代继承评估作为宇宙链循环结构的具体当下阶段运作。详细处理见于 [Apocalypse](../apocalypse/)、[Embassy](../embassy/) 与 [Age of Aquarius](../timeline/age-of-aquarius/) 条目;宇宙链条目确立宝瓶座时代进展运作于其中的更宏阔宇宙—循环语境。
+宝瓶座时代继承评估作为宇宙链循环结构的具体当下阶段运作。详细处理见于 [Apocalypse](../apocalypse/)、[Embassy](../embassy/) 与 [Age of Aquarius](../../timeline/age-of-aquarius/) 条目;宇宙链条目确立宝瓶座时代进展运作于其中的更宏阔宇宙—循环语境。
 
 ### 文集更宏阔的宇宙学框定
 

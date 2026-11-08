@@ -161,7 +161,7 @@ with the Geniocratic party."*
 
 The corpus reads Geniocracy as a direction of travel rather than a program for
 tomorrow. It is what human government is to evolve toward across the
-[Age of Aquarius](../timeline/age-of-aquarius/) — as intelligence measurement
+[Age of Aquarius](../../timeline/age-of-aquarius/) — as intelligence measurement
 grows more reliable and the cultural ground is prepared — not a system to be
 imposed on present democracies. Its full realisation would depend on validated
 measurement, on coordinated [World Government](../world-government/)
@@ -255,7 +255,7 @@ target rather than an immediate reform.
 - [Paradism](../paradism/)
 - [Cyberparadism](../cyberparadism/)
 - [Embassy](../embassy/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Apocalypse](../apocalypse/)
 
 ## References

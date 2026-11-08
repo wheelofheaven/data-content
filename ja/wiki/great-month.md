@@ -266,7 +266,7 @@ The Great Month entry connects to several specific corpus entries.
 
 **The World Age entry.** The dedicated [World Age](../world-age/) entry treats the broader cross-cultural doctrine of cosmic ages; the Great Month is one specific articulation of this broader doctrine.
 
-**The individual Age entries.** The dedicated entries on each Great Month — [Age of Virgo](../timeline/age-of-virgo/), [Age of Leo](../timeline/age-of-leo/), [Age of Cancer](../timeline/age-of-cancer/), [Age of Gemini](../timeline/age-of-gemini/), [Age of Taurus](../timeline/age-of-taurus/), [Age of Aries](../timeline/age-of-aries/), [Age of Pisces](../timeline/age-of-pisces/), [Age of Aquarius](../timeline/age-of-aquarius/), and the [Age of Apocalypse](../age-of-apocalypse/) — develop the specific content of each Great Month within the framework that the present entry establishes.
+**The individual Age entries.** The dedicated entries on each Great Month — [Age of Virgo](../../timeline/age-of-virgo/), [Age of Leo](../../timeline/age-of-leo/), [Age of Cancer](../../timeline/age-of-cancer/), [Age of Gemini](../../timeline/age-of-gemini/), [Age of Taurus](../../timeline/age-of-taurus/), [Age of Aries](../../timeline/age-of-aries/), [Age of Pisces](../../timeline/age-of-pisces/), [Age of Aquarius](../../timeline/age-of-aquarius/), and the [Age of Apocalypse](../apocalypse/) — develop the specific content of each Great Month within the framework that the present entry establishes.
 
 **The Genesis entry.** The dedicated [Genesis](../genesis/) entry treats the *yamim* sequence as structured by the precessional Great Months (each *yom* corresponding to a specific Age on the framework's reading).
 
@@ -289,15 +289,15 @@ The Great Month entry surfaces several open questions for the framework's broade
 - [Precession](../precession/)
 - [Great Year](../great-year/)
 - [World Age](../world-age/)
-- [Age of Virgo](../timeline/age-of-virgo/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Age of Taurus](../timeline/age-of-taurus/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Apocalypse](../age-of-apocalypse/)
+- [Age of Virgo](../../timeline/age-of-virgo/)
+- [Age of Leo](../../timeline/age-of-leo/)
+- [Age of Cancer](../../timeline/age-of-cancer/)
+- [Age of Gemini](../../timeline/age-of-gemini/)
+- [Age of Taurus](../../timeline/age-of-taurus/)
+- [Age of Aries](../../timeline/age-of-aries/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
+- [Age of Apocalypse](../apocalypse/)
 - [Genesis](../genesis/)
 - [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/)
 - [List of exegetic readings](../list-of-exegetic-readings/)

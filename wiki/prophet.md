@@ -375,9 +375,9 @@ The corpus's reading is positioned within this landscape as follows: aligned wit
 - [Planet of the Eternals](../elohim-home-planet/)
 - [Apocalypse](../apocalypse/)
 - [Embassy](../embassy/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
+- [Age of Aries](../../timeline/age-of-aries/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Doubled Signature](../doubled-signature/)
 - [List of Prophets and Religions](../list-of-prophets-and-religions/)
 

@@ -178,10 +178,10 @@ the twelve ages of a single [Great Year](../great-year/), surveyed and prepared
 the planet, synthesized life, and at last created humanity in their own
 image.{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — the foundational contact account") }}
 Each age carried a phase of the work: the human synthesis in the
-[Age of Leo](../age-of-leo/), [Eden](../eden/) in Cancer, the
+[Age of Leo](../../timeline/age-of-leo/), [Eden](../eden/) in Cancer, the
 [Great Flood](../great-flood/) in Gemini, Babel and the patriarchs in Taurus,
 the Hebrew prophets in Aries, the Christian era in Pisces, and the present
-recovery in the [Age of Aquarius](../age-of-aquarius/).{{ cite(id="genesis", text="[4]", title="Genesis — read by the corpus as compressed memory of the Elohim project") }}
+recovery in the [Age of Aquarius](../../timeline/age-of-aquarius/).{{ cite(id="genesis", text="[4]", title="Genesis — read by the corpus as compressed memory of the Elohim project") }}
 
 {{ diagram(name="world-ages-timeline", alt="A horizontal timeline of the twelve contiguous precessional ages from the Age of Capricorn (~21,810 BCE, project opening) to the Age of Aquarius (from 1,950 CE, the current age), with key events marked under Leo, Cancer, Gemini, Taurus, Aries, and Pisces.", caption="The precessional-age framework as a timeline: twelve contiguous ~2,160-year ages carrying the corpus's narrative from the project's opening in the Age of Capricorn to the current Age of Aquarius.") }}
 
@@ -306,7 +306,7 @@ any single tradition's own reckoning.{{ footnote(id="3") }}
 - [Raëlism](../raelism/)
 - [Embassy](../embassy/)
 - [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](../paul-wallis/)
 - [Akhenaten](../akhenaten/)
 
 ## References

@@ -309,7 +309,7 @@ The framework's reading distinguishes between what the convergence has settled a
 
 **What the convergence has not settled:** whether the source's account of the Elohim's own creative work, of which the present-day human capability is the convergent local instance, is itself historically accurate. The convergence establishes that the source predicted something real about humanity's future. It does not, on its own, establish that the source's account of the Elohim's past is equally real. That further question depends on additional lines of evidence the framework develops elsewhere — the textual readings of the Hebrew Bible and other ancient sources, the chronological readings of the precessional ages, the comparative readings of ancient creation traditions, and the broader synthesis the corpus develops across its full set of entries and the long-form chapter material.
 
-The treatment of the framework's overall evidential structure lives in the chapter material; the relevant chapters are the [Age of Aquarius](../timeline/age-of-aquarius/) chapter, which develops the broader picture of the Aquarian transition, and the [Apocalypse](../apocalypse/) entry, which treats the period of disclosure of which the life-engineering convergence is one of the structural elements.
+The treatment of the framework's overall evidential structure lives in the chapter material; the relevant chapters are the [Age of Aquarius](../../timeline/age-of-aquarius/) chapter, which develops the broader picture of the Aquarian transition, and the [Apocalypse](../apocalypse/) entry, which treats the period of disclosure of which the life-engineering convergence is one of the structural elements.
 
 ## Comparative observations
 
@@ -354,8 +354,8 @@ The framework's reading is consistent with the direction of Ball's argument. The
 - [Xenobiology](../xenobiology/)
 - [Elohim](../elohim/)
 - [Tree of Life](../tree-of-life/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Leo](../timeline/age-of-leo/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
+- [Age of Leo](../../timeline/age-of-leo/)
 - [Apocalypse](../apocalypse/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)
@@ -366,7 +366,7 @@ The framework's reading is consistent with the direction of Ball's argument. The
 - [Raël](../rael/)
 - [*Message from the Designers*](/wiki/message-from-the-designers/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 
 ## References
 

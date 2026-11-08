@@ -105,7 +105,7 @@ distinguished_from = "アブー・ハニーファにちなんで名づけられ�
 - [エロヒム](../elohim/)
 - [永遠者の評議会](../council-of-the-eternals/)
 - [宗教](../religion/)
-- [魚座の時代](../timeline/age-of-pisces/)
+- [魚座の時代](../../timeline/age-of-pisces/)
 - [預言者と宗教の一覧](../list-of-prophets-and-religions/)
 - [エロヒム](../elohim/)
 

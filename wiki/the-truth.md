@@ -174,7 +174,7 @@ after it. Across all of it the framework reads one
 continuous history: the Elohim's cultivation, correction, and occasional
 punishment of the humanity they had made, recorded by that humanity in the only
 vocabulary it had. The present age — the
-[Age of Aquarius](../timeline/age-of-aquarius/) — is when the record can finally
+[Age of Aquarius](../../timeline/age-of-aquarius/) — is when the record can finally
 be read plainly, which is the literal sense the framework gives to *apocalypse*:
 not catastrophe but unveiling.
 
@@ -230,7 +230,7 @@ offered for the reader to weigh, not as established fact.
 - [Doubled Signature](../doubled-signature/)
 - [Hamlet's Mill](../hamlets-mill/)
 - [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](../paul-wallis/)
 - [Neo-Euhemerism](../neo-euhemerism/)
 - [Genesis](../genesis/)
 

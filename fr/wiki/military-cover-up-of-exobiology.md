@@ -655,7 +655,7 @@ The substantive contemporary UAP disclosure operates substantively within this b
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
 - [Message from the Designers](/wiki/message-from-the-designers/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 
 ## References
 

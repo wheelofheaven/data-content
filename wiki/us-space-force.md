@@ -181,7 +181,7 @@ resolution of the disclosure question is not a military branch at all but the
 humanity to prepare for open, diplomatic contact with the
 [Elohim](../elohim/). Against that, a satellite-operations service is peripheral.
 The Space Force belongs to the ordinary machinery of a spacefaring
-[Age of Aquarius](../age-of-aquarius/); it is context for the disclosure story,
+[Age of Aquarius](../../timeline/age-of-aquarius/); it is context for the disclosure story,
 not a chapter of it.
 
 ## Mainstream and critical perspectives
@@ -213,7 +213,7 @@ the Space Force.
 - [Drake Equation](../drake-equation/)
 - [Crop Circles](../crop-circles/)
 - [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
 - [Message from the Designers](../message-from-the-designers/)

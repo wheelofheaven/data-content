@@ -275,18 +275,18 @@ The World Age operates as the principal organizing temporal-cosmological structu
 
 Each of the twelve precessional ages has its own dedicated entry treating the specific content of that age:
 
-- [Age of Capricorn](../age-of-capricorn/) — the Sea-Goat; project opening, planetary surveys, atmospheric preparation beginning
-- [Age of Sagittarius](../age-of-sagittarius/) — the Archer; atmospheric engineering
-- [Age of Scorpio](../age-of-scorpio/) — the Scorpion; first life synthesis
-- [Age of Libra](../age-of-libra/) — the Scales; astronomical-calendrical work, zodiac formalization
-- [Age of Virgo](../age-of-virgo/) — the Virgin; complex life forms, biodiversity
-- [Age of Leo](../age-of-leo/) — the Lion; human creation
-- [Age of Cancer](../age-of-cancer/) — the Crab; Eden, Adam and Eve
-- [Age of Gemini](../age-of-gemini/) — the Twins; flood, Noah
-- [Age of Taurus](../age-of-taurus/) — the Bull; post-flood reconstruction, Babel, Sodom and Gomorrah, patriarchs
-- [Age of Aries](../age-of-aries/) — the Ram; Hebrew prophetic tradition, Mosaic law, Axial Age
-- [Age of Pisces](../age-of-pisces/) — the Fishes; Christianity, Islam, universal distribution
-- [Age of Aquarius](../age-of-aquarius/) — the Water-Bearer; current age, revelation, Cosmic Chain inheritance
+- [Age of Capricorn](../../timeline/age-of-capricorn/) — the Sea-Goat; project opening, planetary surveys, atmospheric preparation beginning
+- [Age of Sagittarius](../../timeline/age-of-sagittarius/) — the Archer; atmospheric engineering
+- [Age of Scorpio](../../timeline/age-of-scorpio/) — the Scorpion; first life synthesis
+- [Age of Libra](../../timeline/age-of-libra/) — the Scales; astronomical-calendrical work, zodiac formalization
+- [Age of Virgo](../../timeline/age-of-virgo/) — the Virgin; complex life forms, biodiversity
+- [Age of Leo](../../timeline/age-of-leo/) — the Lion; human creation
+- [Age of Cancer](../../timeline/age-of-cancer/) — the Crab; Eden, Adam and Eve
+- [Age of Gemini](../../timeline/age-of-gemini/) — the Twins; flood, Noah
+- [Age of Taurus](../../timeline/age-of-taurus/) — the Bull; post-flood reconstruction, Babel, Sodom and Gomorrah, patriarchs
+- [Age of Aries](../../timeline/age-of-aries/) — the Ram; Hebrew prophetic tradition, Mosaic law, Axial Age
+- [Age of Pisces](../../timeline/age-of-pisces/) — the Fishes; Christianity, Islam, universal distribution
+- [Age of Aquarius](../../timeline/age-of-aquarius/) — the Water-Bearer; current age, revelation, Cosmic Chain inheritance
 
 Each age entry articulates the specific tasks, characteristic interventions, and doubled-signature content of that particular age. The World Age entry's contribution is registering the overarching framework within which all twelve operate.
 
@@ -583,18 +583,18 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)
 - [Hamlet's Mill](/wiki/hamlets-mill/)
-- [Age of Capricorn](../age-of-capricorn/)
-- [Age of Sagittarius](../age-of-sagittarius/)
-- [Age of Scorpio](../age-of-scorpio/)
-- [Age of Libra](../age-of-libra/)
-- [Age of Virgo](../age-of-virgo/)
-- [Age of Leo](../age-of-leo/)
-- [Age of Cancer](../age-of-cancer/)
-- [Age of Gemini](../age-of-gemini/)
-- [Age of Taurus](../age-of-taurus/)
-- [Age of Aries](../age-of-aries/)
-- [Age of Pisces](../age-of-pisces/)
-- [Age of Aquarius](../age-of-aquarius/)
+- [Age of Capricorn](../../timeline/age-of-capricorn/)
+- [Age of Sagittarius](../../timeline/age-of-sagittarius/)
+- [Age of Scorpio](../../timeline/age-of-scorpio/)
+- [Age of Libra](../../timeline/age-of-libra/)
+- [Age of Virgo](../../timeline/age-of-virgo/)
+- [Age of Leo](../../timeline/age-of-leo/)
+- [Age of Cancer](../../timeline/age-of-cancer/)
+- [Age of Gemini](../../timeline/age-of-gemini/)
+- [Age of Taurus](../../timeline/age-of-taurus/)
+- [Age of Aries](../../timeline/age-of-aries/)
+- [Age of Pisces](../../timeline/age-of-pisces/)
+- [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Genesis](../genesis/)
 - [Mithraic Mysteries](../mithraic-mysteries/)

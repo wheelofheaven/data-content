@@ -419,7 +419,7 @@ The pattern is not universal — many cultural traditions do not develop this ki
 - [Sumerian King List](/wiki/sumerian-king-list/)
 - [Plurality of Gods](../plurality-of-gods/)
 - [Antediluvian](../antediluvian/)
-- [Age of Leo](../timeline/age-of-leo/)
+- [Age of Leo](../../timeline/age-of-leo/)
 - [Prophet](../prophet/)
 - [Muhammad](../muhammad/)
 - [Qur'an](../quran/)

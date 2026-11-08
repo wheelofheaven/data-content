@@ -308,7 +308,7 @@ Die Rahmung als atheistische Religion ist strukturell besonders innerhalb der br
 
 ### Die sieben neuen Gebote
 
-Die sieben neuen Gebote strukturieren das breitere politisch-religiöse Programm des Wassermann-Zeitalters. Die detaillierte Behandlung jedes Gebots findet sich im Eintrag [Zeitalter des Wassermanns](../timeline/age-of-aquarius/); der spezifische Beitrag des Raëlismus-Eintrags besteht darin, die Gebote innerhalb des breiteren Lehrrahmens zu registrieren:
+Die sieben neuen Gebote strukturieren das breitere politisch-religiöse Programm des Wassermann-Zeitalters. Die detaillierte Behandlung jedes Gebots findet sich im Eintrag [Zeitalter des Wassermanns](../../timeline/age-of-aquarius/); der spezifische Beitrag des Raëlismus-Eintrags besteht darin, die Gebote innerhalb des breiteren Lehrrahmens zu registrieren:
 
 **1. Geniokratie** — selektive Demokratie mit intelligenzbasierter Eignung für Ämter (50 % über dem Mittel) und für das Wahlrecht (10 % über dem Mittel); als langfristiges Entwicklungsziel und nicht als unmittelbare institutionelle Veränderung positioniert{{ footnote(id="3") }}
 
@@ -436,7 +436,7 @@ Der Raëlismus ist das wichtigste zeitgenössische institutionelle Vehikel für 
 
 ### Der Eintrag zum Zeitalter des Wassermanns
 
-Der Raëlismus ist die wichtigste religiös-philosophische Bewegung des Wassermann-Zeitalters. Die detaillierte Behandlung des Zeitalters des Wassermanns findet sich im Eintrag [Zeitalter des Wassermanns](../timeline/age-of-aquarius/); der spezifische Beitrag des Raëlismus-Eintrags besteht darin, die spezifische Rolle der Bewegung innerhalb der breiteren operativen Entwicklungen des Zeitalters darzulegen.
+Der Raëlismus ist die wichtigste religiös-philosophische Bewegung des Wassermann-Zeitalters. Die detaillierte Behandlung des Zeitalters des Wassermanns findet sich im Eintrag [Zeitalter des Wassermanns](../../timeline/age-of-aquarius/); der spezifische Beitrag des Raëlismus-Eintrags besteht darin, die spezifische Rolle der Bewegung innerhalb der breiteren operativen Entwicklungen des Zeitalters darzulegen.
 
 ### Der breitere Rahmen des Korpus
 
@@ -637,13 +637,13 @@ Die etablierte wissenschaftliche Erklärung — die den Raëlismus im Allgemeine
 - [Buddha](../buddha/)
 - [Genesis](../genesis/)
 - [Hebräische Bibel](../hebrew-bible/)
-- [Zeitalter des Wassermanns](../timeline/age-of-aquarius/)
-- [Zeitalter der Fische](../timeline/age-of-pisces/)
+- [Zeitalter des Wassermanns](../../timeline/age-of-aquarius/)
+- [Zeitalter der Fische](../../timeline/age-of-pisces/)
 - [Atomare Schwelle](../atomic-threshold/)
 - [Baum des Lebens](../tree-of-life/)
 - [Jean Sendy](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Paul Anthony Wallis](/wiki/paul-wallis/)
 
 ## Literaturverzeichnis
 
