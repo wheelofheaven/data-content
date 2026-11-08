@@ -455,7 +455,7 @@ The cross-cultural and historical engagement with the UFO/UAP phenomenon extends
 Principal ancient and classical accounts of unexplained aerial phenomena:
 
 - **The Egyptian Tulli Papyrus** (purported c. 1480 BCE) — describes "circles of fire" appearing in the sky during the reign of Thutmose III. The papyrus's authenticity is substantively contested; the document is known principally through a 1933 transcription by Alberto Tulli, with the original document subsequently lost. The Tulli Papyrus operates as substantively important pre-modern reference whose evidential status is contested.
-- **Ezekiel's chariot vision** (Hebrew Bible, c. 593 BCE) — Ezekiel chapter 1 describes a vision of "wheels within wheels" with substantial luminous and mechanical character. The corpus engages this content extensively as documented alliance-craft encounter (treated in the [Ezekiel](../ezekiel/) entry when written). Josef Blumrich's *The Spaceships of Ezekiel* (1974) articulated the principal mainstream-engineering engagement with the Ezekiel content.
+- **Ezekiel's chariot vision** (Hebrew Bible, c. 593 BCE) — Ezekiel chapter 1 describes a vision of "wheels within wheels" with substantial luminous and mechanical character. The corpus engages this content extensively as documented alliance-craft encounter (treated in the [Ezekiel](/wiki/ezekiel/) entry when written). Josef Blumrich's *The Spaceships of Ezekiel* (1974) articulated the principal mainstream-engineering engagement with the Ezekiel content.
 - **Roman engagement.** Julius Obsequens's *Prodigiorum Liber* (4th century CE compiling earlier Roman sources) catalogues unexplained aerial phenomena including "ships in the sky" and "fiery shields" across multiple Roman historical periods. Livy, Pliny the Elder, and other Roman sources contain comparable content.
 - **The Vimana tradition.** Ancient Indian texts (the Vedas, the Mahabharata, the Ramayana, and subsequent sources) describe flying craft called vimanas operated by various divine and heroic figures. The substantive Vimana tradition has been engaged by ancient-astronaut researchers as evidence of pre-modern documentation of advanced flight technology.
 - **Asian historical accounts.** Chinese astronomical records (compiled across the imperial period) contain substantial entries of unexplained celestial phenomena. The Nihon Shoki and other Japanese sources contain comparable content.
@@ -518,12 +518,12 @@ The substantial cross-cultural and historical engagement with the UFO/UAP phenom
 - [Plurality of Gods](../plurality-of-gods/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
 - [Forerunners](../forerunners/)
-- [Ezekiel](../ezekiel/)
+- [Ezekiel](/wiki/ezekiel/)
 - [Yahweh](../yahweh/)
 - [Council of the Eternals](../council-of-the-eternals/)
-- [Jean Sendy](../jean-sendy/)
+- [Jean Sendy](/wiki/jean-sendy/)
 - [Age of Aquarius](../age-of-aquarius/)
 
 ## References

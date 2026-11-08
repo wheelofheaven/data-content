@@ -299,9 +299,9 @@ Within the specific Sendy–Raëlian interpretive tradition that the corpus read
 - [Age of Aquarius](../timeline/age-of-aquarius/)
 - [Apocalypse](../apocalypse/)
 - [Cosmic Chain](../cosmic-chain/)
-- [Jean Sendy](../jean-sendy/)
+- [Jean Sendy](/wiki/jean-sendy/)
 - [Raël](../rael/)
-- [*Message from the Designers*](../message-from-the-designers/)
+- [*Message from the Designers*](/wiki/message-from-the-designers/)
 
 ## References
 

@@ -641,8 +641,8 @@ principal_text = "*The Book Which Tells the Truth* (1974); *Extra-Terrestrials T
 - [Эпоха Рыб](../timeline/age-of-pisces/)
 - [Атомный порог](../atomic-threshold/)
 - [Древо Жизни](../tree-of-life/)
-- [Жан Сенди](../jean-sendy/)
-- [Мауро Бильино](../mauro-biglino/)
+- [Жан Сенди](/wiki/jean-sendy/)
+- [Мауро Бильино](/wiki/mauro-biglino/)
 - [Пол Энтони Уоллис](../paul-anthony-wallis/)
 
 ## Источники

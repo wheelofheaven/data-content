@@ -498,8 +498,8 @@ The corpus does not require rejecting all of the mainstream scholarly framework.
 - [Age of Aquarius](../timeline/age-of-aquarius/)
 - [666](../666/)
 - [Atomic Threshold](../atomic-threshold/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 
 ## References

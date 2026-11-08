@@ -687,8 +687,8 @@ The Living Earth framework's principal contribution within this broader comparat
 - [Council of the Eternals](../council-of-the-eternals/)
 - [Tree of Life](../tree-of-life/)
 - [Theomachy](../theomachy/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 
 ## References

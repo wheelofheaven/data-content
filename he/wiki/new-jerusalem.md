@@ -187,7 +187,7 @@ The corpus reads three principal scriptural passages as direct prefiguration of 
 
 ### Ezekiel 47:1-2 — water from the temple threshold
 
-The Ezekiel 47 water-from-the-temple-threshold passage, treated above, operates as the principal Hebrew Bible prefiguration. The substantive Ezekiel vision continues across Ezekiel 47:1-12, articulating the river's growth and its rejuvenating effect on the Dead Sea: *"the waters of the sea shall be healed... every thing shall live whither the river cometh."* The corpus reads the passage as direct prophetic image of the Aquarian-age waters of understanding flowing outward from the rebuilt temple — the New Jerusalem operating as the source from which civilizational transformation flows. The detailed treatment of Ezekiel as figure lives in the [Ezekiel](../ezekiel/) entry when written.
+The Ezekiel 47 water-from-the-temple-threshold passage, treated above, operates as the principal Hebrew Bible prefiguration. The substantive Ezekiel vision continues across Ezekiel 47:1-12, articulating the river's growth and its rejuvenating effect on the Dead Sea: *"the waters of the sea shall be healed... every thing shall live whither the river cometh."* The corpus reads the passage as direct prophetic image of the Aquarian-age waters of understanding flowing outward from the rebuilt temple — the New Jerusalem operating as the source from which civilizational transformation flows. The detailed treatment of Ezekiel as figure lives in the [Ezekiel](/wiki/ezekiel/) entry when written.
 
 ### Acts 15:16 — rebuild the tabernacle of David
 
@@ -451,11 +451,11 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Elohim](../elohim/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
 - [Jesus](../jesus/)
 - [Moses](../moses/)
 - [Solomon](../solomon/)
-- [Ezekiel](../ezekiel/)
+- [Ezekiel](/wiki/ezekiel/)
 - [Isaiah](../isaiah/)
 - [Eden](../eden/)
 

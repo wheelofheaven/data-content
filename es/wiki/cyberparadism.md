@@ -137,7 +137,7 @@ see_also = [
     { title = "Paradismo", path = "/wiki/paradism/", description = "El movimiento raeliano social-político-económico estrechamente relacionado; mismo contenido post-escasez en registro distinto." },
     { title = "Elohim", path = "/wiki/elohim/", description = "La civilización-alianza leída como sustancialmente ciberparadista a escala operativa multimilenaria." },
     { title = "Edén", path = "/wiki/eden/", description = "El laboratorio originario de la alianza leído como el ciberparadismo histórico real." },
-    { title = "Planeta de los Eternos", path = "/wiki/planet-of-the-eternals/", description = "El planeta natal de la alianza como ciberparadismo cósmico-civilizacional en forma operativa madura." },
+    { title = "Planeta de los Eternos", path = "/wiki/elohim-home-planet/", description = "El planeta natal de la alianza como ciberparadismo cósmico-civilizacional en forma operativa madura." },
     { title = "Era de Acuario", path = "timeline/age-of-aquarius", description = "La era del umbral-herencia en cuyo seno emerge el ciberparadismo como articulación cultural propia de Acuario." },
     { title = "Era de Cáncer", path = "timeline/age-of-cancer", description = "La era originaria del proyecto de la alianza, en la que se sitúa el Edén como ciberparadismo." },
     { title = "Cadena Cósmica", path = "/wiki/cosmic-chain/", description = "El marco más amplio de sucesión cósmico-civilizacional dentro del cual el ciberparadismo opera como arreglo de múltiples iteraciones." },
@@ -414,7 +414,7 @@ El material textual fuente de Vorilhon, principalmente en *Les Extra-Terrestres 
 - **Sustancial integración ambiental** — el planeta de los Eternos opera sustancialmente como un arreglo ecológico-civilizacional integrado
 - **Sustancial implicación de frontera cósmica** — los Eternos operan sustancialmente más allá de su planeta natal, con sustancial implicación como civilización creadora (siendo la Tierra un ejemplo sustancial) que extiende los principios ciberparadistas a otros mundos
 
-El marco lee el Planeta de los Eternos como el ciberparadismo sustancialmente maduro que la estética ciberparadista contemporánea anticipa intuitivamente sin conocimiento específico de la existencia operativa real. La sustancial alineación registra una evidencia significativa del principio más amplio de la firma doble — la estética contemporánea se registra en sustancial alineación con la realidad histórico-civilizacional subyacente específica del marco. El tratamiento detallado del Planeta de los Eternos se encuentra en la entrada {% wiki(slug="planet-of-the-eternals") %}Planeta de los Eternos{% end %} cuando se redacte.
+El marco lee el Planeta de los Eternos como el ciberparadismo sustancialmente maduro que la estética ciberparadista contemporánea anticipa intuitivamente sin conocimiento específico de la existencia operativa real. La sustancial alineación registra una evidencia significativa del principio más amplio de la firma doble — la estética contemporánea se registra en sustancial alineación con la realidad histórico-civilizacional subyacente específica del marco. El tratamiento detallado del Planeta de los Eternos se encuentra en la entrada {% wiki(slug="elohim-home-planet") %}Planeta de los Eternos{% end %} cuando se redacte.
 
 ### El umbral de herencia de la era de Acuario
 

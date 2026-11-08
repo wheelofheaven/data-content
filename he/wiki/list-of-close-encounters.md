@@ -348,7 +348,7 @@ The catalogue surfaces several methodological and substantive open questions.
 - [List of exegetic readings](../list-of-exegetic-readings/)
 - [List of prophets and religions](../list-of-prophets-and-religions/)
 - [Magonia](../magonia/)
-- [Ezekiel](../ezekiel/)
+- [Ezekiel](/wiki/ezekiel/)
 - [Elijah](../elijah/)
 - [Akhenaton](../akhenaton/)
 - [Vimana](../vimana/)

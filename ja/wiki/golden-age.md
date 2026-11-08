@@ -273,11 +273,11 @@ The Golden Age content aligns substantively with the substantive Cyberparadism a
 
 ### The Vorilhon source-textual material
 
-The Golden Age is articulated principally in *Message from the Designers* (specifically the *Extra-Terrestrials Took Me to Their Planet* second-book content) with substantial subsequent corpus contextualization in *timeline.epub*. The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](../message-from-the-designers/) entries.
+The Golden Age is articulated principally in *Message from the Designers* (specifically the *Extra-Terrestrials Took Me to Their Planet* second-book content) with substantial subsequent corpus contextualization in *timeline.epub*. The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](/wiki/message-from-the-designers/) entries.
 
 ### The Planet of the Eternals
 
-The Planet of the Eternals operates substantively as the substantive cosmic-civilizational Golden Age realization — the substantive alliance home-world functioning substantively as substantive mature Golden Age operational arrangement. Substantive humanity's anticipated terrestrial Golden Age operates substantively as substantive Earth-based recovery of the substantive cosmic-civilizational standard the alliance home-world represents. The detailed treatment lives in the [Planet of the Eternals](../planet-of-the-eternals/) entry when written.
+The Planet of the Eternals operates substantively as the substantive cosmic-civilizational Golden Age realization — the substantive alliance home-world functioning substantively as substantive mature Golden Age operational arrangement. Substantive humanity's anticipated terrestrial Golden Age operates substantively as substantive Earth-based recovery of the substantive cosmic-civilizational standard the alliance home-world represents. The detailed treatment lives in the [Planet of the Eternals](../elohim-home-planet/) entry when written.
 
 ## Modern reinterpretations / Adjacent traditions
 
@@ -498,7 +498,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Cosmic Competition](../cosmic-competition/)
 - [Cyberparadism](../cyberparadism/)
 - [Eden](../eden/)
-- [Planet of the Eternals](../planet-of-the-eternals/)
+- [Planet of the Eternals](../elohim-home-planet/)
 - [Embassy](../embassy/)
 - [New Commandments](../new-commandments/)
 - [Geniocracy](../geniocracy/)
@@ -510,7 +510,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Elohim](../elohim/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
 - [Doubled Signature](../doubled-signature/)
 - [World Age](../world-age/)
 - [Zodiac](../zodiac/)

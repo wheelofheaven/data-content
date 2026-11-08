@@ -569,9 +569,9 @@ The corpus does not require rejecting all of the mainstream scholarly framework.
 - [Age of Aries](../timeline/age-of-aries/)
 - [Age of Pisces](../timeline/age-of-pisces/)
 - [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Hamlet's Mill](../hamlets-mill/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Hamlet's Mill](/wiki/hamlets-mill/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 
 ## References

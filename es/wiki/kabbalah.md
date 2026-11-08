@@ -331,7 +331,7 @@ The Kabbalah operates as substantial Jewish-mystical-tradition development of th
 
 ### The Jean Sendy entry
 
-The Sendy / Safran engagement with the Kabbalah operates substantially within Sendy's broader Tradition framework. The detailed treatment of Sendy's broader engagement lives in the [Jean Sendy](../jean-sendy/) entry when written.
+The Sendy / Safran engagement with the Kabbalah operates substantially within Sendy's broader Tradition framework. The detailed treatment of Sendy's broader engagement lives in the [Jean Sendy](/wiki/jean-sendy/) entry when written.
 
 ### The Star of David entry
 
@@ -459,7 +459,7 @@ The framework reading registers the Hermetic Qabalah as substantial creative-syn
 
 ### The Sendy / Safran engagement
 
-The Jean Sendy engagement with Alexandre Safran's *La Cabale* (1960) operates as substantial alternative-history engagement registering substantial framework alignment. The detailed treatment of Sendy's broader engagement lives in the [Jean Sendy](../jean-sendy/) entry when written. The substantial Safran content provides substantial Jewish-tradition authoritative validation for several positions that align substantially with the broader corpus framework.
+The Jean Sendy engagement with Alexandre Safran's *La Cabale* (1960) operates as substantial alternative-history engagement registering substantial framework alignment. The detailed treatment of Sendy's broader engagement lives in the [Jean Sendy](/wiki/jean-sendy/) entry when written. The substantial Safran content provides substantial Jewish-tradition authoritative validation for several positions that align substantially with the broader corpus framework.
 
 **Alexandre Safran** (1910-2006) was Chief Rabbi of Romania (1940-1947), exiled by the Communist regime, and subsequently Chief Rabbi of Geneva (1948-1998). Safran's substantial Jewish-tradition credentials provide the substantial authority that makes his articulations significant: the Kabbalah's pre-Mosaic antiquity, the chain-of-tradition framing, the cosmic-renewal content, the two-worlds correspondence framework. Safran's *La Cabale* (Payot, 1960) operates as the principal Sendy reference, with substantial subsequent corpus engagement preserving Safran's articulations.
 
@@ -625,8 +625,8 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Four Levels](../four-levels/)
 - [Hebrew](../hebrew/)
 - [Hebrews](../hebrews/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Planeta natal de los Elohim](../elohim-home-planet/)
 - [*Shi'ur Qomah* — Traducción Wheel of Heaven](/library/shiur-qomah-woh/)
 - [El libro más cercano a la verdad (artículo)](/articles/the-book-closest-to-the-truth/)

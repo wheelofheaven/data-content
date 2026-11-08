@@ -641,8 +641,8 @@ Wheel of Heaven の枠組み(本文献集の独自の解釈的貢献)は、ラ�
 - [魚座の時代](../timeline/age-of-pisces/)
 - [原子の閾値](../atomic-threshold/)
 - [生命の樹](../tree-of-life/)
-- [ジャン・サンディ](../jean-sendy/)
-- [マウロ・ビリーノ](../mauro-biglino/)
+- [ジャン・サンディ](/wiki/jean-sendy/)
+- [マウロ・ビリーノ](/wiki/mauro-biglino/)
 - [ポール・アンソニー・ウォリス](../paul-anthony-wallis/)
 
 ## 参考文献

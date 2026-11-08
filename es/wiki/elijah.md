@@ -209,7 +209,7 @@ The Elijah entry surfaces several open questions for the framework's broader int
 - [Moses](../moses/)
 - [Enoch](../enoch/)
 - [Elisha](../elisha/)
-- [Ezekiel](../ezekiel/)
+- [Ezekiel](/wiki/ezekiel/)
 - [Samuel](../samuel/) (the prophet)
 - [Eli](../eli/) (the priest at Shiloh, distinguished from Elijah)
 - [Ahab](../ahab/)

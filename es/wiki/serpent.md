@@ -315,7 +315,7 @@ La figura del diablo desarrollada del Nuevo Testamento incorpora material sustan
 
 El corpus lee al Diablo del Nuevo Testamento como una síntesis teológica específica más que como un único referente subyacente. Los componentes de la síntesis (el satan hebreo, la Serpiente del Edén, los Vigilantes, los diversos poderes malignos de la tradición apocalíptica) son operativamente distintos según la lectura del marco —actores diferentes en papeles diferentes en períodos diferentes, confundidos en una única categoría teológica por la tradición cristiana post-bíblica. La conflación es teológicamente coherente dentro de los propios términos de la tradición cristiana, pero hace desaparecer las distinciones político-operativas subyacentes que el marco recupera.
 
-El corpus no avala la figura unificada del Diablo. La lectura del marco trata la categoría del Diablo como una síntesis teológica cuyos componentes subyacentes requieren tratamiento separado: la Serpiente del Edén en esta entrada; Satán en la entrada [Satán](../satan/); Lucifer en la entrada [Lucifer](../lucifer/); la tradición más amplia del ángel caído en las entradas [Hijos de Elohim](../sons-of-elohim/) y [Vigilantes](../watchers/).
+El corpus no avala la figura unificada del Diablo. La lectura del marco trata la categoría del Diablo como una síntesis teológica cuyos componentes subyacentes requieren tratamiento separado: la Serpiente del Edén en esta entrada; Satán en la entrada [Satán](../satan/); Lucifer en la entrada [Lucifer](../lucifer/); la tradición más amplia del ángel caído en las entradas [Hijos de Elohim](/wiki/nephilim/) y [Vigilantes](/wiki/watchers/).
 
 ### Serpiente frente a Leviatán
 

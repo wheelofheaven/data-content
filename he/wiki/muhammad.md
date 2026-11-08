@@ -247,7 +247,7 @@ The Muhammad entry surfaces several open questions for the framework's broader i
 - [Moses](../moses/)
 - [Abraham](../abraham/) / [Ibrahim](../ibrahim/)
 - [Elijah](../elijah/)
-- [Ezekiel](../ezekiel/)
+- [Ezekiel](/wiki/ezekiel/)
 - [Enoch](../enoch/) / [Idris](../idris/)
 - [The Buddha](../buddha/)
 - [Joseph Smith](../joseph-smith/)

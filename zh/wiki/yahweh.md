@@ -335,7 +335,7 @@ principal_source = "《来自设计者的讯息》(佛里翁/雷尔,1974–79),�
 - [以利亚](../elijah/)
 - [耶稣](../jesus/)
 - [雷尔](../rael/)
-- [《来自设计者的讯息》](../message-from-the-designers/)
+- [《来自设计者的讯息》](/wiki/message-from-the-designers/)
 - [四字神名](../tetragrammaton/)
 - [创世记](../genesis/)
 - [圣经](../bible/)

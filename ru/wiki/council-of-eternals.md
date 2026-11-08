@@ -183,7 +183,7 @@ The Planet of the Eternals' specific features:
 - The planet's specific physical characteristics include the cloning-and-memory-transfer infrastructure that produces and maintains the Eternals, along with biological robots ("biological robots" with the small blue stone marker between their eyes) who perform the various service functions
 - The planet's relationship to the broader Elohim home world (where the broader 7-billion-population Elohim civilization resides) is one of specific dedicated function — the Planet of the Eternals being the residence and deliberative-political center for the senior eternals specifically
 
-The detailed treatment of the Planet of the Eternals lives in the [Planet of the Eternals](../planet-of-the-eternals/) entry (when written); the Council entry's specific point is that the planet serves as the Council's specific convening location and the Eternals' continuing residence.
+The detailed treatment of the Planet of the Eternals lives in the [Planet of the Eternals](../elohim-home-planet/) entry (when written); the Council entry's specific point is that the planet serves as the Council's specific convening location and the Eternals' continuing residence.
 
 ### The Eternal-population distinction
 
@@ -573,7 +573,7 @@ The Mesopotamian tradition preserves the most substantively developed divine-ass
 
 The corpus reads the Mesopotamian divine-assembly material as preserving fragmentary memory of the same underlying body — the actual Council of the Eternals — that the Hebrew Bible's parallel material preserves. The structural parallels (the council's executive authority, the deliberative procedures, the specific role distribution among members, the relationship between the council and the broader cosmic-political order) are read as evidence of common historical-political reality. The specific cultural-religious framing of the Mesopotamian material (the Anunnaki-Igigi distinction, the Tiamat-Marduk conflict, the various specific deities) is read as the Mesopotamian tradition's distinctive cultural elaboration of the underlying body.
 
-The detailed treatment of the Anunnaki tradition lives in the [Anunnaki](../anunnaki/) entry (when written).
+The detailed treatment of the Anunnaki tradition lives in the [Anunnaki](/wiki/anunnaki/) entry (when written).
 
 ### Ugaritic council of El
 
@@ -697,10 +697,10 @@ The Council is therefore one component of the Alliance's senior partnership rath
 - [Lucifer](../lucifer/)
 - [Satan](../satan/)
 - [Tree of Life](../tree-of-life/)
-- [Planet of the Eternals](../planet-of-the-eternals/)
-- [Sons of Elohim](../sons-of-elohim/)
+- [Planet of the Eternals](../elohim-home-planet/)
+- [Sons of Elohim](/wiki/nephilim/)
 - [Plurality of Gods](../plurality-of-gods/)
-- [Anunnaki](../anunnaki/)
+- [Anunnaki](/wiki/anunnaki/)
 - [Prophet](../prophet/)
 - [Apocalypse](../apocalypse/)
 - [Embassy](../embassy/)
@@ -714,8 +714,8 @@ The Council is therefore one component of the Alliance's senior partnership rath
 - [Jesus](../jesus/)
 - [Moses](../moses/)
 - [Raël](../rael/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 
 ## References

@@ -198,7 +198,7 @@ a circle, the days of several ancient calendar years). The corpus holds the
 **The paired number, 144,000.** Revelation supplies a second figure the
 framework reads alongside 666: the 144,000 of Revelation 7:4–8 and 14:1, read as
 the number of individuals to be reconstituted on the
-[Planet of the Eternals](../planet-of-the-eternals/) should the cataclysm come —
+[Planet of the Eternals](../elohim-home-planet/) should the cataclysm come —
 "a sufficient number to start a new generation on Earth" once it is habitable
 again. Where 666 counts the generations up to the threshold, 144,000 (structured
 as 12 × 12 × 1,000) counts the individuals held in reserve past it; together they
@@ -289,7 +289,7 @@ the conspiratorial one.
 - [Raëlism](../raelism/)
 - [Message from the Designers](../message-from-the-designers/)
 - [Eden](../eden/)
-- [Planet of the Eternals](../planet-of-the-eternals/)
+- [Planet of the Eternals](../elohim-home-planet/)
 - [Resurrection](../resurrection/)
 
 ## References

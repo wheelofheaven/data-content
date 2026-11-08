@@ -641,8 +641,8 @@ Wheel of Heaven 框架(文集独有的诠释贡献)在若干具体方面与雷�
 - [双鱼座时代](../timeline/age-of-pisces/)
 - [原子门槛](../atomic-threshold/)
 - [生命之树](../tree-of-life/)
-- [让·桑迪](../jean-sendy/)
-- [毛罗·比利诺](../mauro-biglino/)
+- [让·桑迪](/wiki/jean-sendy/)
+- [毛罗·比利诺](/wiki/mauro-biglino/)
 - [保罗·安东尼·沃利斯](../paul-anthony-wallis/)
 
 ## 参考文献

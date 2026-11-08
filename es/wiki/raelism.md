@@ -641,8 +641,8 @@ La explicación académica dominante — que generalmente trata al raelismo a tr
 - [Era de Piscis](../timeline/age-of-pisces/)
 - [Umbral Atómico](../atomic-threshold/)
 - [Árbol de la Vida](../tree-of-life/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 
 ## Referencias

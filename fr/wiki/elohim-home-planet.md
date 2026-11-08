@@ -52,7 +52,7 @@ The source content allows **two readings** of the home planet's relationship to 
 - **Single-planet reading**: The home planet *is* the Planet of the Eternals. Yahweh's statement in *Message from the Designers* — *"This residence is, in fact, very large, since it is an entire planet where the members of the Council of the Eternals live as well"* — reads most naturally as identifying the residence (where Vorilhon was taken in 1975) with the entire home planet.
 - **Two-planet reading**: The Planet of the Eternals is a second smaller planet in the same stellar system as the main home planet. The corpus *timeline.epub* engagement articulates this reading, treating the Council of the Eternals' residence as distinct from the broader home-civilization population.
 
-The Wheel of Heaven framework registers both readings as compatible with the source material. The pending [Planet of the Eternals](../planet-of-the-eternals/) entry will articulate the specific Council-of-Eternals residence content; this entry articulates the broader home-planet content.
+The Wheel of Heaven framework registers both readings as compatible with the source material. The pending [Planet of the Eternals](../elohim-home-planet/) entry will articulate the specific Council-of-Eternals residence content; this entry articulates the broader home-planet content.
 
 The home planet's location has been variously identified in adjacent traditions. The **Mormon Book of Abraham** registers a celestial body called *Kolob* described as "the heavenly body nearest to the throne of God." **John Tvedtnes**'s 2005 essay "Authentic Ancient Names and Words in the Book of Abraham and Related Kirtland Egyptian Papers" proposes that *Kolob* etymologically derives from the Semitic root *KLB* ("dog"), suggesting that Kolob refers to *Sirius*, the "dog star" — the brightest star in the night sky and the principal star of the constellation Canis Major. The Kolob-Sirius hypothesis is one Mormon-internal interpretation among several; the Vorilhon source itself does not identify the home planet with Sirius or with any specific known star system. The **Hebrew Bible** content the source engages includes Psalm 19:4's "In them hath he set a tabernacle for the sun" and the Kabbalistic "height of the creator" tradition from which the parasang measurements derive. The broader cross-cultural pattern of "celestial home of the gods" traditions appears across virtually every major world religion (treated systematically in the *Comparative observations* section below).
 
@@ -322,7 +322,7 @@ The Wheel of Heaven framework registers both readings as substantively compatibl
 - **The two-planet reading has substantive corpus-internal articulation.** The *timeline.epub* engagement substantively adopts the two-planet reading, providing the broader corpus framework's principal articulation of the question.
 - **The interpretive question is substantively open.** The Vorilhon contact occurred in 1973-1975; the home planet's specific astronomical and political organization may include features that the contact-era source content did not articulate.
 
-The pending [Planet of the Eternals](../planet-of-the-eternals/) entry will articulate the specific Council-of-Eternals residence content, with the disambiguation between the single-planet and two-planet readings handled in the dedicated treatment. This entry articulates the broader home-planet content under the single-planet reading where the source material most directly supports it.
+The pending [Planet of the Eternals](../elohim-home-planet/) entry will articulate the specific Council-of-Eternals residence content, with the disambiguation between the single-planet and two-planet readings handled in the dedicated treatment. This entry articulates the broader home-planet content under the single-planet reading where the source material most directly supports it.
 
 ## Hebrew Bible and Kabbalistic engagement
 
@@ -358,7 +358,7 @@ Le traitement complet du Shi'ur Qomah — son texte, sa datation contestée, la 
 The Hebrew Bible's various references to the "throne of God" (Hebrew כִּסֵּא יְהוָה *kissé YHWH*) and the divine abode admit substantive Vorilhon-source reading. The principal passages:
 
 - **Isaiah 6:1** — *"I saw the Lord sitting upon a throne, high and lifted up"* (the Isaiah throne vision)
-- **Ezekiel 1** — the substantial chariot-throne vision with the four living creatures, the wheels-within-wheels, and the firmament-throne structure (treated in the [Ezekiel](../ezekiel/) entry when written)
+- **Ezekiel 1** — the substantial chariot-throne vision with the four living creatures, the wheels-within-wheels, and the firmament-throne structure (treated in the [Ezekiel](/wiki/ezekiel/) entry when written)
 - **1 Kings 22:19** — *"I saw the Lord sitting on his throne, and all the host of heaven standing by him"* (the Micaiah ben Imlah throne vision)
 - **Psalm 11:4** — *"The Lord is in his holy temple, the Lord's throne is in heaven"*
 - **Various other Hebrew Bible passages**
@@ -608,10 +608,10 @@ The substantial alternative explanations — common cognitive structures (substa
 - [Elohim](../elohim/)
 - [Yahweh](../yahweh/)
 - [Council of the Eternals](../council-of-the-eternals/)
-- [Planet of the Eternals](../planet-of-the-eternals/)
+- [Planet of the Eternals](../elohim-home-planet/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
 - [Plurality of Gods](../plurality-of-gods/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)

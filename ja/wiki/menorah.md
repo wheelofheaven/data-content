@@ -21,7 +21,7 @@ biblical_specifications = "Single piece of hammered pure gold; central shaft wit
 biblical_passages = "Exodus 25:31–40 (specifications); Exodus 37:17–24 (construction by Bezalel); Numbers 8:1–4 (lighting protocol); Zechariah 4:1–14 (the vision of the lampstand with seven lamps); 1 Kings 7:49 (Solomon's ten menorot)"
 mainstream_significance = "Principal furnishing of the Tabernacle and the Temple; one of the oldest continuously used Jewish religious symbols; emblem of the State of Israel since 1949"
 framework_significance = "Operational memory of seven Elohim bases on elevated terrain, connected through a central communications installation (the original referent of the seven-branched design)"
-related_objects = "[Ark of the Covenant](../ark-of-the-covenant/); [Tabernacle](../tabernacle/); [Temple of Jerusalem](../temple/); the *hanukkiah* (nine-branched Hanukkah lamp, a distinct object)"
+related_objects = "[Ark of the Covenant](/wiki/ark-of-the-covenant/); [Tabernacle](../tabernacle/); [Temple of Jerusalem](../temple/); the *hanukkiah* (nine-branched Hanukkah lamp, a distinct object)"
 arch_of_titus = "Surviving Roman-era depiction (c. 81 CE) showing the actual Second Temple menorah carried in triumphal procession after the destruction of Jerusalem in 70 CE"
 +++
 
@@ -156,7 +156,7 @@ The Menorah's framework reading connects to several specific aspects of the broa
 
 **The seven-bases pattern.** The seven-bases reading connects to the broader corpus's treatment of operational installations across multiple entries: the [List of megalithic sites](../list-of-megalithic-sites/) catalogues sites whose construction may preserve operational content from periods of Elohim involvement; the broader [Archaeoastronomy](../archaeoastronomy/) entry develops the astronomical-orientation content that the operational sites preserve; the dedicated entries on specific theophany locations (Sinai, Zion, Hermon, Carmel) develop the site-specific operational readings.
 
-**The communications-installation pattern.** The "switchboard with seven lighted switches" reading connects to the broader corpus's treatment of operational communication devices. The framework reads several biblical objects as preserving operational content about working communication devices of Elohim manufacture: the **Ark of the Covenant** (treated in the [List of exegetic readings](../list-of-exegetic-readings/) and the dedicated [Ark of the Covenant](../ark-of-the-covenant/) entry) as a sustained-communication device used by Moses and subsequent prophets; the **Urim and Thummim** as a binary-decision divination instrument; the **pillar of cloud and fire** as a visible operational presence. The Menorah's framework reading places the central seven-channel installation within this broader pattern of operational equipment.
+**The communications-installation pattern.** The "switchboard with seven lighted switches" reading connects to the broader corpus's treatment of operational communication devices. The framework reads several biblical objects as preserving operational content about working communication devices of Elohim manufacture: the **Ark of the Covenant** (treated in the [List of exegetic readings](../list-of-exegetic-readings/) and the dedicated [Ark of the Covenant](/wiki/ark-of-the-covenant/) entry) as a sustained-communication device used by Moses and subsequent prophets; the **Urim and Thummim** as a binary-decision divination instrument; the **pillar of cloud and fire** as a visible operational presence. The Menorah's framework reading places the central seven-channel installation within this broader pattern of operational equipment.
 
 **The orbital-craft pattern.** The Vorilhon passage's reference to "the interplanetary vessel orbiting the Earth" connects the Menorah reading to the broader corpus's account of orbital operations during the relevant period. The framework reads the orbital craft as a persistent feature of the Elohim's operational pattern across the Earth project — present during the deluge period (where it served the genetic-preservation function of the Noah's Ark account), present during the Mosaic period, present during the broader Hebrew biblical period. The Menorah reading provides specific evidence of the orbital craft's operational integration into the broader terrestrial communications network.
 
@@ -179,7 +179,7 @@ The Menorah entry surfaces several open questions for the framework's broader in
 - [Star of David](../star-of-david/)
 - [Swastika](../swastika/)
 - [Raelian Symbol of Infinity](../raelian-symbol-of-infinity/)
-- [Ark of the Covenant](../ark-of-the-covenant/)
+- [Ark of the Covenant](/wiki/ark-of-the-covenant/)
 - [Tabernacle](../tabernacle/)
 - [Temple of Jerusalem](../temple/)
 - [Moses](../moses/)

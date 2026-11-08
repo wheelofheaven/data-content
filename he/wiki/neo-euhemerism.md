@@ -196,7 +196,7 @@ The systematic application produces the framework's substantial neo-euhemeristic
 
 The framework extends substantially beyond simple neo-euhemerism through three principal moves.
 
-**Integration with precessional astronomy**. The framework integrates neo-euhemeristic reading with the substantial precessional-astronomical content articulated principally through Sendy's pre-Raëlian work and through the substantial *Hamlet's Mill* tradition (Santillana and von Dechend, 1969). The principal articulations: the doubled-signature principle (the framework's specific principle that revelatory events register doubled astronomical signatures — the constellation rising at the equinox plus the constellation opposite); the twelve-precessional-age architecture (the substantial twelve-age structural framework organizing the broader corpus narrative); the substantial cross-cultural precessional-symbolic preservation registered across multiple traditions. The detailed treatments live in the [World Age](../world-age/), [Zodiac](../zodiac/), [Doubled Signature](../doubled-signature/), and [Hamlet's Mill](../hamlets-mill/) entries when written.
+**Integration with precessional astronomy**. The framework integrates neo-euhemeristic reading with the substantial precessional-astronomical content articulated principally through Sendy's pre-Raëlian work and through the substantial *Hamlet's Mill* tradition (Santillana and von Dechend, 1969). The principal articulations: the doubled-signature principle (the framework's specific principle that revelatory events register doubled astronomical signatures — the constellation rising at the equinox plus the constellation opposite); the twelve-precessional-age architecture (the substantial twelve-age structural framework organizing the broader corpus narrative); the substantial cross-cultural precessional-symbolic preservation registered across multiple traditions. The detailed treatments live in the [World Age](../world-age/), [Zodiac](../zodiac/), [Doubled Signature](../doubled-signature/), and [Hamlet's Mill](/wiki/hamlets-mill/) entries when written.
 
 The integration operates substantively beyond what simple neo-euhemerism principally engages. Neo-euhemerism in its base content claim engages historical extraterrestrial-civilizational contact without principal commitment to specific astronomical-temporal structure. The framework's extension reads the contact as operating across substantial astronomical-temporal architecture, with the broader twelve-age framework producing interpretive specificity that simple neo-euhemerism does not principally produce.
 
@@ -264,7 +264,7 @@ The substantial Vorilhon Genesis 1 reading, the substantial Eden expulsion readi
 
 > *"It is time for that all to end; and it is time for the truth. For instance, we are interested in knowing how, where and when the Bible speaks of Anaqìm: Concrete beings that have come to Earth from other worlds. Though the Roman Catholic Church now acknowledges this information, they continue to misleadingly represent the Anaqim as 'spiritual entities.' As we analyze the Old Testament, we will identify these concrete beings using their correct Hebrew names (for instance 'Those who from heaven to Earth came' in Hebrew are 'Anaqiti' instead of the more well-known published Sumerian name, 'Anunnaki')."*
 
-The substantial Biglino articulation operates neo-euhemeristically through specific philological engagement: the Hebrew Bible's substantial Anaqim content (the Nephilim's descendants, Numbers 13:33; the Anakim of Joshua 11:21-22) read as concrete extraterrestrial beings rather than as supernatural-mythological figures. Biglino's substantial broader work extends this engagement systematically across the Hebrew Bible. The detailed treatment of Biglino as figure lives in the [Mauro Biglino](../mauro-biglino/) entry when written.
+The substantial Biglino articulation operates neo-euhemeristically through specific philological engagement: the Hebrew Bible's substantial Anaqim content (the Nephilim's descendants, Numbers 13:33; the Anakim of Joshua 11:21-22) read as concrete extraterrestrial beings rather than as supernatural-mythological figures. Biglino's substantial broader work extends this engagement systematically across the Hebrew Bible. The detailed treatment of Biglino as figure lives in the [Mauro Biglino](/wiki/mauro-biglino/) entry when written.
 
 ### The corpus's broader neo-euhemeristic articulations
 
@@ -400,7 +400,7 @@ The substantial broader ancient-astronaut tradition includes various contemporar
 
 The substantial contemporary strict-translational Hebrew Bible tradition operates substantively as neo-euhemeristic engagement. The principal figures:
 
-**Mauro Biglino**'s substantial body of work (multiple Italian-language books, with substantial English-language and French-language translations) operates through strict-translational Hebrew engagement reading the substantial Hebrew Bible content as preserving extraterrestrial-civilizational reality. Biglino's substantial professional background as Hebrew-Italian translator at the Edizioni San Paolo Catholic publishing house lends substantial philological credibility to the strict-translational engagement, with his substantial subsequent work systematically extending the engagement across multiple Hebrew Bible texts. The detailed treatment lives in the [Mauro Biglino](../mauro-biglino/) entry when written.
+**Mauro Biglino**'s substantial body of work (multiple Italian-language books, with substantial English-language and French-language translations) operates through strict-translational Hebrew engagement reading the substantial Hebrew Bible content as preserving extraterrestrial-civilizational reality. Biglino's substantial professional background as Hebrew-Italian translator at the Edizioni San Paolo Catholic publishing house lends substantial philological credibility to the strict-translational engagement, with his substantial subsequent work systematically extending the engagement across multiple Hebrew Bible texts. The detailed treatment lives in the [Mauro Biglino](/wiki/mauro-biglino/) entry when written.
 
 **Paul Anthony Wallis** extends the broader strict-translational engagement through *Escaping from Eden* (2020), *The Eden Conspiracy* (2024), and various other works. Wallis's substantial pastoral background and substantial subsequent engagement with Mauro Biglino's work register substantive theological-pastoral engagement with the strict-translational tradition. The detailed treatment lives in the [Paul Anthony Wallis](../paul-anthony-wallis/) entry when written.
 
@@ -452,7 +452,7 @@ The substantial Mesopotamian tradition preserves the most direct evidence for th
 
 **The Sumerian King List**. The substantial Sumerian King List (composed c. 2100 BCE in Sumerian, with substantial subsequent recensions across Babylonian and Assyrian periods) lists the kings of Mesopotamia from the antediluvian period through the early historical period. The antediluvian section lists eight kings ruling for substantial spans (24,000 years, 28,000 years, etc.) in five cities (Eridu, Bad-tibira, Larak, Sippar, Shuruppak), with the list concluding "Then the flood swept over." The post-flood section continues with shorter reign-spans, with substantial subsequent overlap with archaeologically attested historical figures.
 
-The framework reads the Sumerian King List as substantive evidence for the neo-euhemeristic interpretive position. The substantial antediluvian content registers preserved memory of pre-flood civilizational reality (with the long reign-spans reflecting the substantial Eden-lineage longevity that the corpus articulates); the post-flood content registers progressive transition from preserved-historical to conventionally-historical content. The detailed treatment lives in the [Sumerian King List](../sumerian-king-list/) entry when written.
+The framework reads the Sumerian King List as substantive evidence for the neo-euhemeristic interpretive position. The substantial antediluvian content registers preserved memory of pre-flood civilizational reality (with the long reign-spans reflecting the substantial Eden-lineage longevity that the corpus articulates); the post-flood content registers progressive transition from preserved-historical to conventionally-historical content. The detailed treatment lives in the [Sumerian King List](/wiki/sumerian-king-list/) entry when written.
 
 **The substantial Mesopotamian deified-king tradition**. The substantial Mesopotamian religious-political tradition operated through systematic deification of substantive historical kings. **Naram-Sin of Akkad** (c. 2254-2218 BCE) was the substantial first Mesopotamian king to be deified during his lifetime, with the substantial deification practice continuing across the subsequent Akkadian, Ur III, Old Babylonian, and various subsequent dynastic periods. The substantial pattern registers an actual historical mechanism through which historical kings became gods in mythological-religious tradition.
 
@@ -565,10 +565,10 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Babel](../babel/)
 - [Sodom and Gomorrah](../sodom-and-gomorrah/)
 - [Atlantis](../atlantis/)
-- [Sumerian King List](../sumerian-king-list/)
-- [Anunnaki](../anunnaki/)
-- [Watchers](../watchers/)
-- [Nephilim](../nephilim/)
+- [Sumerian King List](/wiki/sumerian-king-list/)
+- [Anunnaki](/wiki/anunnaki/)
+- [Watchers](/wiki/watchers/)
+- [Nephilim](/wiki/nephilim/)
 - [Quetzalcoatl](../quetzalcoatl/)
 - [Osiris](../osiris/)
 - [Pangu](../pangu/)
@@ -577,9 +577,9 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Doubled Signature](../doubled-signature/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)
-- [Hamlet's Mill](../hamlets-mill/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Hamlet's Mill](/wiki/hamlets-mill/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)

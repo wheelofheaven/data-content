@@ -469,7 +469,7 @@ The substantive corpus engagement with the USSF threads documented mainstream mi
 - [Age of Aquarius](../age-of-aquarius/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
 - [Embassy](../embassy/)
 - [Plurality of Gods](../plurality-of-gods/)
 

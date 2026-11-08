@@ -212,7 +212,7 @@ In the six hundredth year of Noah's life, in the second month, on the seventeent
 
 The Genesis flood narrative occupies four chapters of the Hebrew Bible's opening book and contains substantial textual complexity. The principal narrative elements:
 
-**Genesis 6:1–4** introduces the *benei ha-Elohim* episode — the "sons of Elohim" who took human women as wives and produced the Nephilim hybrid offspring. The corpus reads this passage as recording the operational context that produced the home-world Council's eventual decision to intervene (treated more fully in the {% wiki(slug="sons-of-elohim") %}Sons of Elohim{% end %} and {% wiki(slug="nephilim") %}Nephilim{% end %} entries).
+**Genesis 6:1–4** introduces the *benei ha-Elohim* episode — the "sons of Elohim" who took human women as wives and produced the Nephilim hybrid offspring. The corpus reads this passage as recording the operational context that produced the home-world Council's eventual decision to intervene (treated more fully in the {% wiki(slug="nephilim") %}Sons of Elohim{% end %} and {% wiki(slug="nephilim") %}Nephilim{% end %} entries).
 
 **Genesis 6:5–13** records the divine assessment of the pre-Flood human civilization: *"Yahweh saw that the wickedness of humanity was great in the earth, and that every imagination of the thoughts of his heart was only evil continually."* The corpus reads "wickedness" (*raʿat*) here not in the conventional moral-theological sense but as referring to the antediluvian civilization's accelerating technological development that the home-world Council judged threatening — the framework's specific reading is that the "evil" was the human desire to progress scientifically toward the level of their creators.
 

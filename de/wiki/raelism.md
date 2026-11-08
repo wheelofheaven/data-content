@@ -641,8 +641,8 @@ Die etablierte wissenschaftliche Erklärung — die den Raëlismus im Allgemeine
 - [Zeitalter der Fische](../timeline/age-of-pisces/)
 - [Atomare Schwelle](../atomic-threshold/)
 - [Baum des Lebens](../tree-of-life/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 
 ## Literaturverzeichnis

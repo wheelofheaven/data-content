@@ -137,7 +137,7 @@ see_also = [
     { title = "Paradismus", path = "/wiki/paradism/", description = "Die eng verwandte raëlianische sozial-politisch-ökonomische Bewegung; derselbe postknappheitliche Inhalt in einem anderen Register." },
     { title = "Elohim", path = "/wiki/elohim/", description = "Die Allianz-Zivilisation, gelesen als substanziell cyberparadistisch auf multimillenarer operativer Skala." },
     { title = "Eden", path = "/wiki/eden/", description = "Das ursprüngliche Allianz-Labor, gelesen als der tatsächliche historische Cyberparadismus." },
-    { title = "Planet der Ewigen", path = "/wiki/planet-of-the-eternals/", description = "Die Heimatwelt der Allianz als kosmisch-zivilisatorischer Cyberparadismus in reifer operativer Form." },
+    { title = "Planet der Ewigen", path = "/wiki/elohim-home-planet/", description = "Die Heimatwelt der Allianz als kosmisch-zivilisatorischer Cyberparadismus in reifer operativer Form." },
     { title = "Wassermann-Zeitalter", path = "timeline/age-of-aquarius", description = "Das Erbschaftsschwellen-Zeitalter, in dem der Cyberparadismus als kulturelle Artikulation des Wassermann-Zeitalters hervortritt." },
     { title = "Krebs-Zeitalter", path = "timeline/age-of-cancer", description = "Das ursprüngliche Allianz-Projekt-Zeitalter, in dem Eden als Cyberparadismus verortet ist." },
     { title = "Kosmische Kette", path = "/wiki/cosmic-chain/", description = "Der breitere kosmisch-zivilisatorische Sukzessionsrahmen, innerhalb dessen der Cyberparadismus als mehrfach-iterative Anordnung operiert." },
@@ -414,7 +414,7 @@ Das Vorilhonsche Quellenmaterial, hauptsächlich in *Les Extra-Terrestres m'ont 
 - **Substanzielle Umweltintegration** — der Planet der Ewigen operiert substanziell als integriert-ökologisch-zivilisatorische Anordnung
 - **Substanzielles kosmisch-grenzwärtiges Engagement** — die Ewigen operieren substanziell über ihren Heimatplaneten hinaus, mit substanziellem schöpferisch-zivilisatorischem Engagement (die Erde ist ein substanzielles Beispiel), das die cyberparadistischen Prinzipien auf weitere Welten erweitert
 
-Der Rahmen liest den Planeten der Ewigen als den substanziell reifen Cyberparadismus, den die zeitgenössische cyberparadistische Ästhetik intuitiv antizipiert, ohne spezifische Kenntnis von der tatsächlichen operativen Existenz. Die substanzielle Übereinstimmung wirkt als bedeutender Beleg für das breitere Prinzip der doppelten Signatur — die zeitgenössische Ästhetik zeigt substanzielle Übereinstimmung mit der spezifischen zugrundeliegenden historisch-zivilisatorischen Realität des Rahmens an. Die ausführliche Behandlung des Planeten der Ewigen findet sich im Eintrag {% wiki(slug="planet-of-the-eternals") %}Planet der Ewigen{% end %}, sobald geschrieben.
+Der Rahmen liest den Planeten der Ewigen als den substanziell reifen Cyberparadismus, den die zeitgenössische cyberparadistische Ästhetik intuitiv antizipiert, ohne spezifische Kenntnis von der tatsächlichen operativen Existenz. Die substanzielle Übereinstimmung wirkt als bedeutender Beleg für das breitere Prinzip der doppelten Signatur — die zeitgenössische Ästhetik zeigt substanzielle Übereinstimmung mit der spezifischen zugrundeliegenden historisch-zivilisatorischen Realität des Rahmens an. Die ausführliche Behandlung des Planeten der Ewigen findet sich im Eintrag {% wiki(slug="elohim-home-planet") %}Planet der Ewigen{% end %}, sobald geschrieben.
 
 ### Die Erbschaftsschwelle des Wassermann-Zeitalters
 

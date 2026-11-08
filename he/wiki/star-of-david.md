@@ -651,7 +651,7 @@ The mainstream scholarly explanation has substantial value at the historical-dev
 - [Council of the Eternals](../council-of-the-eternals/)
 - [Tree of Life](../tree-of-life/)
 - [Embassy](../embassy/)
-- [Jean Sendy](../jean-sendy/)
+- [Jean Sendy](/wiki/jean-sendy/)
 - [Hebrew Bible](../hebrew-bible/)
 
 ## References

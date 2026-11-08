@@ -371,7 +371,7 @@ Beyond the immediate Near Eastern context, traditions of creation and flood from
 - [Antediluvian](../antediluvian/)
 - [Great Flood](../great-flood/)
 - [Babel](../babel/)
-- [*benei ha-Elohim*](../sons-of-elohim/)
+- [*benei ha-Elohim*](../nephilim/)
 - [Nephilim](../nephilim/)
 - [Tree of Life](../tree-of-life/)
 - [Hebrews](../hebrews/)

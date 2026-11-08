@@ -641,8 +641,8 @@ Wheel of Heaven 框架(文集所獨具的詮釋貢獻)於若干具體面向上�
 - [雙魚座時代](../timeline/age-of-pisces/)
 - [原子門檻](../atomic-threshold/)
 - [生命之樹](../tree-of-life/)
-- [讓·桑迪](../jean-sendy/)
-- [毛羅·比格利諾](../mauro-biglino/)
+- [讓·桑迪](/wiki/jean-sendy/)
+- [毛羅·比格利諾](/wiki/mauro-biglino/)
 - [保羅·安東尼·華利斯](../paul-anthony-wallis/)
 
 ## 參考文獻

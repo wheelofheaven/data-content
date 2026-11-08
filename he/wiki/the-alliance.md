@@ -465,8 +465,8 @@ The corpus's working position on the comparative-alliance question is that the g
 - [Age of Aries](../timeline/age-of-aries/)
 - [Age of Pisces](../timeline/age-of-pisces/)
 - [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 
 ## References

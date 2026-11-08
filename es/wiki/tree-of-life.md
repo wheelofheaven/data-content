@@ -13,7 +13,7 @@ entry_type = "concept"
 alternative_names = ["el Árbol de la Vida", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "el Árbol de la Vida Eterna", "el Árbol de la Inmortalidad", "la tecnología de longevidad", "la tecnología de transferencia celular"]
 timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
-    { title = "Tree of Knowledge", path = "wiki/tree-of-knowledge", description = "El árbol paralelo del Edén — el archivo restringido de conocimiento científico, distinto de la biotecnología de longevidad." },
+    { title = "Tree of Knowledge", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "El árbol paralelo del Edén — el archivo restringido de conocimiento científico, distinto de la biotecnología de longevidad." },
     { title = "Antediluvian", path = "wiki/antediluvian", description = "El período cuyas longevidades patriarcales (Adán 930, Matusalén 969) el marco lee como el registro operativo del Árbol de la Vida." },
     { title = "Council of the Eternals", path = "wiki/council-of-the-eternals", description = "La comunidad de los Eternos sostenida por la forma madura de clonación y transferencia de memoria de la tecnología." },
     { title = "Eden", path = "wiki/eden", description = "La instalación donde el Árbol de la Vida era infraestructura restringida." },
@@ -517,7 +517,7 @@ Los dos árboles del Edén están emparejados pero son funcionalmente distintos:
 
 Los árboles están emparejados en la narrativa del Génesis porque son los dos principales recursos de acceso restringido de la instalación del Edén, ambos sujetos a la prohibición original. El suceso de la revelación del Edén (tratado en la entrada [Serpiente](../serpent/)) implicó el acceso al Árbol del Conocimiento específicamente, no al Árbol de la Vida — la prohibición posterior a la revelación sobre el Árbol de la Vida (Génesis 3:22–24) fue la respuesta específica del Consejo para impedir que los humanos adquirieran longevidad además del conocimiento que acababan de adquirir.
 
-El tratamiento detallado del Árbol del Conocimiento vive en la entrada [Árbol del Conocimiento](../tree-of-knowledge/).
+El tratamiento detallado del Árbol del Conocimiento vive en la entrada [Árbol del Conocimiento](../tree-of-the-knowledge-of-good-and-evil/).
 
 ### El Árbol de la Vida frente a la tecnología de resurrección
 

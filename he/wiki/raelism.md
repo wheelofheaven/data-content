@@ -641,8 +641,8 @@ principal_text = "*הספר שאומר את האמת* (1974); *חוצנים לק
 - [עידן הדגים](../timeline/age-of-pisces/)
 - [הסף האטומי](../atomic-threshold/)
 - [עץ החיים](../tree-of-life/)
-- [ז'אן סנדי](../jean-sendy/)
-- [מאורו ביגלינו](../mauro-biglino/)
+- [ז'אן סנדי](/wiki/jean-sendy/)
+- [מאורו ביגלינו](/wiki/mauro-biglino/)
 - [פול אנתוני וואליס](../paul-anthony-wallis/)
 
 ## הפניות

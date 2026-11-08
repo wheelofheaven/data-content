@@ -335,7 +335,7 @@ principal_source = "*來自設計者的訊息*(沃里勒翁/雷爾,1974–79),�
 - [以利亞](../elijah/)
 - [耶穌](../jesus/)
 - [雷爾](../rael/)
-- [*來自設計者的訊息*](../message-from-the-designers/)
+- [*來自設計者的訊息*](/wiki/message-from-the-designers/)
 - [四字神名](../tetragrammaton/)
 - [創世記](../genesis/)
 - [聖經](../bible/)

@@ -309,7 +309,7 @@ The substantive substantial subsequent biblical "Yahweh" references operate subs
 
 ### The Vorilhon source-textual corpus
 
-The substantive substantial doctrine is articulated principally in *The Book Which Tells the Truth* (1974), with substantial subsequent corpus engagement across the broader Vorilhon material. The detailed treatment of broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](../message-from-the-designers/) entries.
+The substantive substantial doctrine is articulated principally in *The Book Which Tells the Truth* (1974), with substantial subsequent corpus engagement across the broader Vorilhon material. The detailed treatment of broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](/wiki/message-from-the-designers/) entries.
 
 ## Distinguishing from adjacent concepts
 
@@ -550,7 +550,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Embassy](../embassy/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
 
 ## References
 

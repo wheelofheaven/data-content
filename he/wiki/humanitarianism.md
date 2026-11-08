@@ -257,7 +257,7 @@ The doctrine operates substantively within the broader Raëlian Movement institu
 
 ### The Vorilhon source-textual material
 
-The doctrine is articulated principally in *The Book Which Tells the Truth*. The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](../message-from-the-designers/) entries; the present entry engages one specific section of the broader source material.
+The doctrine is articulated principally in *The Book Which Tells the Truth*. The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](/wiki/message-from-the-designers/) entries; the present entry engages one specific section of the broader source material.
 
 ### The Cyberparadism aesthetic alignment
 
@@ -592,7 +592,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Yahweh](../yahweh/)
 - [Elohim](../elohim/)
 - [Hebrew Bible](../hebrew-bible/)
-- [Message from the Designers](../message-from-the-designers/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
 - [Geniocracy](../geniocracy/)
 - [World Government](../world-government/)
 - [Demilitarization](../demilitarization/)

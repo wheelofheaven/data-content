@@ -335,7 +335,7 @@ Wheel of Heaven 프레임워크 내부에서 야훼의 구체적 역할은 세 �
 - [엘리야](../elijah/)
 - [예수](../jesus/)
 - [라엘](../rael/)
-- [*설계자들로부터의 메시지*](../message-from-the-designers/)
+- [*설계자들로부터의 메시지*](/wiki/message-from-the-designers/)
 - [테트라그람마톤](../tetragrammaton/)
 - [창세기](../genesis/)
 - [성경](../bible/)

@@ -424,7 +424,7 @@ The v1 entry's earlier conflation of Forerunners with substantive substantial pr
 
 ### The Vorilhon source-textual corpus
 
-The substantive substantial Forerunner content operates substantively across substantive substantial Vorilhon source-textual engagement (substantive substantial principally through substantive substantial Vorilhon source's engagement with substantive substantial specific figures rather than through substantive substantial dedicated Forerunner-doctrinal articulation). The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](../message-from-the-designers/) entries.
+The substantive substantial Forerunner content operates substantively across substantive substantial Vorilhon source-textual engagement (substantive substantial principally through substantive substantial Vorilhon source's engagement with substantive substantial specific figures rather than through substantive substantial dedicated Forerunner-doctrinal articulation). The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](/wiki/message-from-the-designers/) entries.
 
 ## Distinguishing from adjacent concepts
 
@@ -577,7 +577,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Prophet](../prophet/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
 - [Embassy](../embassy/)
 - [New Jerusalem](../new-jerusalem/)
 - [Apocalypse](../apocalypse/)

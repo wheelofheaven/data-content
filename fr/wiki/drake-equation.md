@@ -437,9 +437,9 @@ The corpus position: the substantial cross-cultural engagement reflects substant
 - [Mass Effect](../mass-effect/)
 - [Fractal Cosmology](../fractal-cosmology/)
 - [Wheel of Heaven](../wheel-of-heaven/)
-- [Jean Sendy](../jean-sendy/)
+- [Jean Sendy](/wiki/jean-sendy/)
 - [Raël](../rael/)
-- [Message from the Designers](../message-from-the-designers/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
 - [Council of the Eternals](../council-of-the-eternals/)
 
 ## References

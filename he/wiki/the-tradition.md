@@ -237,7 +237,7 @@ The Tradition concept operates substantively across multiple corpus framework en
 
 ### The Jean Sendy entry
 
-The detailed treatment of Sendy as figure lives in the [Jean Sendy](../jean-sendy/) entry when written. The Tradition entry is the principal interpretive-content entry registering Sendy's framework concept itself; the Jean Sendy entry will provide the principal biographical-bibliographic context and the substantial broader Sendy contribution beyond the specific Tradition concept.
+The detailed treatment of Sendy as figure lives in the [Jean Sendy](/wiki/jean-sendy/) entry when written. The Tradition entry is the principal interpretive-content entry registering Sendy's framework concept itself; the Jean Sendy entry will provide the principal biographical-bibliographic context and the substantial broader Sendy contribution beyond the specific Tradition concept.
 
 ### The Kabbalah entry
 
@@ -359,7 +359,7 @@ Substantial scholarly engagement with the Hermetic Tradition specifically.
 
 **Stefano Bigliardi**'s scholarly paper *"A Gentleman's Joyous Esotericism: Jean Sendy's 'Religion of Cosmonauts'"* provides substantive scholarly engagement with Sendy specifically. Bigliardi's substantial contribution: situating Sendy within the broader twentieth-century proto-ancient-aliens tradition while preserving substantial respect for Sendy's distinctive intellectual seriousness, scholarly engagement (Sendy operating substantively within broader French intellectual culture, with substantial engagement with mainstream scholarship), and distinctive rhetorical character ("joyous" / playful esotericism that distinguishes Sendy from more polemical figures).
 
-The Bigliardi engagement is one of the principal contemporary scholarly anchors for serious engagement with Sendy's Tradition framework. The detailed treatment of Sendy as figure (with substantial Bigliardi engagement) lives in the [Jean Sendy](../jean-sendy/) entry when written.
+The Bigliardi engagement is one of the principal contemporary scholarly anchors for serious engagement with Sendy's Tradition framework. The detailed treatment of Sendy as figure (with substantial Bigliardi engagement) lives in the [Jean Sendy](/wiki/jean-sendy/) entry when written.
 
 ### Western Esotericism scholarship
 
@@ -385,7 +385,7 @@ The framework engages these substantively while operating from distinct source-m
 
 ### The academic engagement with Sendy as proto-ancient-aliens figure
 
-Various contemporary academic engagement registers Sendy as substantively important figure in the broader twentieth-century proto-ancient-aliens tradition. The substantial scholarly recognition: Sendy operates as substantial pre-Däniken articulator (Sendy's principal works 1963-1972 substantively predate Erich von Däniken's *Chariots of the Gods*, 1968, in conceptual development if not in publication date), with substantial intellectual seriousness and scholarly engagement that distinguishes Sendy from more popular ancient-aliens figures. The detailed treatment lives in the [Jean Sendy](../jean-sendy/) entry when written.
+Various contemporary academic engagement registers Sendy as substantively important figure in the broader twentieth-century proto-ancient-aliens tradition. The substantial scholarly recognition: Sendy operates as substantial pre-Däniken articulator (Sendy's principal works 1963-1972 substantively predate Erich von Däniken's *Chariots of the Gods*, 1968, in conceptual development if not in publication date), with substantial intellectual seriousness and scholarly engagement that distinguishes Sendy from more popular ancient-aliens figures. The detailed treatment lives in the [Jean Sendy](/wiki/jean-sendy/) entry when written.
 
 ### The framework's relationship to the broader scholarly landscape
 
@@ -502,7 +502,7 @@ The framework's distinctive contribution within this broader comparative landsca
 ## See also
 
 - [Wheel of Heaven](../wheel-of-heaven/)
-- [Jean Sendy](../jean-sendy/)
+- [Jean Sendy](/wiki/jean-sendy/)
 - [Religion](../religion/)
 - [Kabbalah](../kabbalah/)
 - [Hebrew Bible](../hebrew-bible/)
@@ -522,8 +522,8 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Pythagoras](../pythagoras/)
 - [Plato](../plato/)
 - [Atlantis](../atlantis/)
-- [Hamlet's Mill](../hamlets-mill/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Hamlet's Mill](/wiki/hamlets-mill/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 
 ## References

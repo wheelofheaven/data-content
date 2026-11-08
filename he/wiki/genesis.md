@@ -204,7 +204,7 @@ The shift between the two creation accounts at {% libref(book="genesis-woh", cha
 
 ### The *benei ha-Elohim* and *Nephilim*: Genesis 6:1–4
 
-{% libref(book="genesis-woh", chapter=6, verse=1) %}Genesis 6:1–4{% end %} introduces, in four compressed verses, one of the most consequential and most widely misread passages in the Hebrew Bible: the *benei ha-Elohim* ("sons of Elohim") who take human women as wives, and their offspring the *Nephilim* (the "fallen ones" or, on alternative etymologies, the "mighty ones"), called the "men of renown" of antiquity. The corpus reads this passage at face value: members of the Elohim civilization (specifically, on the framework's reading, the exiled {% wiki(slug="lucifer") %}Lucifer{% end %} faction whose continuing presence on Earth had been established at the post-Eden settlement) entering into reproductive unions with human women of the Eden lineage and producing hybrid offspring whose capabilities the source material describes as exceptional. The detailed treatment of this passage lives in the [Antediluvian](../antediluvian/) and [Nephilim](../nephilim/) entries.
+{% libref(book="genesis-woh", chapter=6, verse=1) %}Genesis 6:1–4{% end %} introduces, in four compressed verses, one of the most consequential and most widely misread passages in the Hebrew Bible: the *benei ha-Elohim* ("sons of Elohim") who take human women as wives, and their offspring the *Nephilim* (the "fallen ones" or, on alternative etymologies, the "mighty ones"), called the "men of renown" of antiquity. The corpus reads this passage at face value: members of the Elohim civilization (specifically, on the framework's reading, the exiled {% wiki(slug="lucifer") %}Lucifer{% end %} faction whose continuing presence on Earth had been established at the post-Eden settlement) entering into reproductive unions with human women of the Eden lineage and producing hybrid offspring whose capabilities the source material describes as exceptional. The detailed treatment of this passage lives in the [Antediluvian](../antediluvian/) and [Nephilim](/wiki/nephilim/) entries.
 
 ### The Tower of Babel: Genesis 11:1–9
 
@@ -299,8 +299,8 @@ Beyond the immediate Near Eastern context, traditions of creation and flood from
 - [Antediluvian](../antediluvian/)
 - [Great Flood](../great-flood/)
 - [Babel](../babel/)
-- [*benei ha-Elohim*](../sons-of-elohim/)
-- [Nephilim](../nephilim/)
+- [*benei ha-Elohim*](/wiki/nephilim/)
+- [Nephilim](/wiki/nephilim/)
 - [Tree of Life](../tree-of-life/)
 - [Hebrews](../hebrews/)
 - [Great Year](../great-year/)
@@ -317,14 +317,14 @@ Beyond the immediate Near Eastern context, traditions of creation and flood from
 - [Enūma Eliš](../enuma-elish/)
 - [*Atra-ḫasīs*](../atra-hasis/)
 - [Epic of Gilgamesh](../epic-of-gilgamesh/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [*Message from the Designers*](../message-from-the-designers/)
+- [*Message from the Designers*](/wiki/message-from-the-designers/)
 - [Documentary Hypothesis](../documentary-hypothesis/)
-- [Masoretic Text](../masoretic-text/)
-- [Septuagint](../septuagint/)
-- [Dead Sea Scrolls](../dead-sea-scrolls/)
+- [Masoretic Text](/wiki/masoretic-text/)
+- [Septuagint](/wiki/septuagint/)
+- [Dead Sea Scrolls](/wiki/dead-sea-scrolls/)
 - [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (a close neo-euhemerist reading of Genesis 1:26, 3, 6, 11)
 
 ## References

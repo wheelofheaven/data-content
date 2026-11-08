@@ -514,8 +514,8 @@ The corpus does not require rejecting all of the mainstream scholarly framework.
 - [Raëlism](../raelism/)
 - [Council of the Eternals](../council-of-the-eternals/)
 - [Tree of Life](../tree-of-life/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 
 ## References

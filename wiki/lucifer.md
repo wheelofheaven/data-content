@@ -271,7 +271,7 @@ Across the Age of Cancer (c. 8,850 – 6,690 BCE on the corpus's chronology), Lu
 
 ### The *benei ha-Elohim* episode and the Nephilim
 
-Genesis 6:1–4 introduces the *benei ha-Elohim* / Nephilim narrative — the "sons of Elohim" who took human women as wives and produced hybrid offspring with exceptional capabilities. The framework reads this as an episode within the faction's career, treated in the [Antediluvian](../antediluvian/), [Sons of Elohim](../sons-of-elohim/), and [Nephilim](../nephilim/) entries.
+Genesis 6:1–4 introduces the *benei ha-Elohim* / Nephilim narrative — the "sons of Elohim" who took human women as wives and produced hybrid offspring with exceptional capabilities. The framework reads this as an episode within the faction's career, treated in the [Antediluvian](../antediluvian/), [Sons of Elohim](../nephilim/), and [Nephilim](../nephilim/) entries.
 
 The *benei ha-Elohim* are the exiled faction in their reproductive role: members taking human women of the Eden lineage as wives and producing hybrid offspring. The unions are biological, between two species related closely enough for fertile reproduction — the framework holds that the Elohim and synthesized humans share genetic compatibility, the humans having been synthesized principally from Elohim material. Lucifer's role is not detailed: the framework reads him as faction leader, implicated in the decisions that produced the unions without specifying whether he took part himself. By mid-to-late Cancer the Nephilim population was large and made up a meaningful part of the civilization's leadership.
 

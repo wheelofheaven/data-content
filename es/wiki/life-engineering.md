@@ -362,10 +362,10 @@ The framework's reading is consistent with the direction of Ball's argument. The
 - [Council of the Eternals](../council-of-the-eternals/)
 - [Embassy](../embassy/)
 - [Golden Age](../golden-age/)
-- [Jean Sendy](../jean-sendy/)
+- [Jean Sendy](/wiki/jean-sendy/)
 - [Raël](../rael/)
-- [*Message from the Designers*](../message-from-the-designers/)
-- [Mauro Biglino](../mauro-biglino/)
+- [*Message from the Designers*](/wiki/message-from-the-designers/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 
 ## References

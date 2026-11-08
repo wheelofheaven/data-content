@@ -218,15 +218,15 @@ The catalogue surfaces several open methodological and interpretive questions.
 - [Deluge](../deluge/)
 - [Eden](../eden/)
 - [Tree of Life](../tree-of-life/)
-- [Tree of Knowledge](../tree-of-knowledge/)
-- [Nephilim](../nephilim/)
+- [Tree of Knowledge](../tree-of-the-knowledge-of-good-and-evil/)
+- [Nephilim](/wiki/nephilim/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)
 - [Lucifer](../lucifer/)
 - [Satan](../satan/)
 - [Leviathan](../leviathan/)
 - [Yahweh](../yahweh/)
-- [Jean Sendy](../jean-sendy/)
+- [Jean Sendy](/wiki/jean-sendy/)
 - [Raël](../rael/)
 
 ## References

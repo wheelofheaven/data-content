@@ -219,7 +219,7 @@ The Adamites entry connects to a substantial number of other corpus entries.
 
 **The Serpent / Nachash.** The dedicated [Serpent](../serpent/) (or [Nachash](../nachash/)) entry develops the framework's reading of the Serpent as a rebellious Elohim faction. The present entry registers the Serpent's role in the Adamite history.
 
-**The Nephilim and the Watchers.** The dedicated [Nephilim](../nephilim/) and [Watchers](../watchers/) entries develop the framework's reading of the Genesis 6:1-4 and 1 Enoch material. The present entry registers the connection to the Adamite hybridisation.
+**The Nephilim and the Watchers.** The dedicated [Nephilim](/wiki/nephilim/) and [Watchers](/wiki/watchers/) entries develop the framework's reading of the Genesis 6:1-4 and 1 Enoch material. The present entry registers the connection to the Adamite hybridisation.
 
 **Pangaea and the Deluge.** The dedicated [Pangaea](../pangaea/) and [Deluge](../deluge/) entries treat the broader antediluvian world and its catastrophic end. The Adamites are the population whose history occurred on Pangaea and which was substantially restructured by the deluge.
 
@@ -244,8 +244,8 @@ The Adamites entry surfaces several open questions for the framework's broader i
 - [Eden](../eden/)
 - [Genesis](../genesis/)
 - [Serpent](../serpent/) / [Nachash](../nachash/)
-- [Nephilim](../nephilim/)
-- [Watchers](../watchers/)
+- [Nephilim](/wiki/nephilim/)
+- [Watchers](/wiki/watchers/)
 - [Pangaea](../pangaea/)
 - [Deluge](../deluge/)
 - [Noah](../noah/)

@@ -212,7 +212,7 @@ you will know the Golden Age amongst the great prophets who are already on the
 planet of the Eternals."* The first path is the terrestrial Golden Age reached
 collectively; the second is the cosmic Golden Age, in which individuals whose
 lives contributed to the positive trajectory are continued on the
-[Planet of the Eternals](../planet-of-the-eternals/). The structure cuts against
+[Planet of the Eternals](../elohim-home-planet/). The structure cuts against
 fatalism in both directions: the terrestrial outcome cannot be assumed, and the
 cosmic one is not a consolation that makes individual effort pointless. The
 corpus puts the terrestrial odds at roughly one in a hundred — long, but
@@ -324,7 +324,7 @@ plainly.
 - [Cosmic Competition](../cosmic-competition/)
 - [Cyberparadism](../cyberparadism/)
 - [Eden](../eden/)
-- [Planet of the Eternals](../planet-of-the-eternals/)
+- [Planet of the Eternals](../elohim-home-planet/)
 - [Embassy](../embassy/)
 - [New Commandments](../new-commandments/)
 - [Geniocracy](../geniocracy/)

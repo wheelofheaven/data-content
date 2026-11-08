@@ -349,7 +349,7 @@ The substantive substantial New Commandments are articulated principally by subs
 
 ### The Vorilhon source-textual corpus
 
-The substantive substantial doctrine is articulated principally across substantive substantial multiple Vorilhon source-textual locations. The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](../message-from-the-designers/) entries.
+The substantive substantial doctrine is articulated principally across substantive substantial multiple Vorilhon source-textual locations. The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](/wiki/message-from-the-designers/) entries.
 
 ### The Raëlism institutional framework
 
@@ -610,7 +610,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Yahweh](../yahweh/)
 - [Elohim](../elohim/)
 - [Hebrew Bible](../hebrew-bible/)
-- [Message from the Designers](../message-from-the-designers/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
 - [Geniocracy](../geniocracy/)
 - [Humanitarianism](../humanitarianism/)
 - [World Government](../world-government/)

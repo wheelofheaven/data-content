@@ -469,7 +469,7 @@ The Third Temple entry surfaces several open questions for the framework's broad
 - [Raëlism](../raelism/)
 - [Moses](../moses/)
 - [Solomon](../solomon/)
-- [Ezekiel](../ezekiel/)
+- [Ezekiel](/wiki/ezekiel/)
 - [List of prophets and religions](../list-of-prophets-and-religions/)
 - [List of exegetic readings](../list-of-exegetic-readings/)
 - [Cosmic pluralism](../cosmic-pluralism/)

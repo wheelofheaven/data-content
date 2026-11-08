@@ -228,7 +228,7 @@ The catalogue surfaces several open methodological and interpretive questions.
 - [Deluge](../deluge/)
 - [Eden](../eden/)
 - [Tree of Life](../tree-of-life/)
-- [Tree of Knowledge](../tree-of-knowledge/)
+- [Tree of Knowledge](../tree-of-the-knowledge-of-good-and-evil/)
 - [Nephilim](../nephilim/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)

@@ -644,7 +644,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Abraham](../abraham/)
 - [Noah](../noah/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 
 ## References
 

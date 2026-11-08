@@ -179,7 +179,7 @@ Sendy's substantial argument operates through several principal moves:
 
 **4. The provocative substantial inversion.** Contemporary scientific research operates substantively as the functional successor of ancient priestly research. Sendy's articulation: *"si la religion des Premières Civilisations est un opium pour le peuple, l'équivalent actuel de cet opium est la recherche scientifique ; les prêtres-astronomes de l'Antiquité sont les pères spirituels des chercheurs d'aujourd'hui, qui eux aussi consacrent leur vie à l'étude des liens entre notre planète et le reste de l'Univers."* ("If the religion of the First Civilizations is an opium for the people, the current equivalent of that opium is scientific research; the priest-astronomers of antiquity are the spiritual fathers of today's researchers, who also devote their lives to the study of the links between our planet and the rest of the Universe.")
 
-The Sendy articulation operates as substantial pre-Raëlian articulation of the framework's specific position. The detailed treatment of Sendy's broader engagement lives in the [Jean Sendy](../jean-sendy/) entry when written.
+The Sendy articulation operates as substantial pre-Raëlian articulation of the framework's specific position. The detailed treatment of Sendy's broader engagement lives in the [Jean Sendy](/wiki/jean-sendy/) entry when written.
 
 ### The "first religious community" articulation
 
@@ -425,7 +425,7 @@ The corpus does not require rejecting all of the mainstream explanatory framewor
 - [Jesus](../jesus/)
 - [Muhammad](../muhammad/)
 - [Buddha](../buddha/)
-- [Jean Sendy](../jean-sendy/)
+- [Jean Sendy](/wiki/jean-sendy/)
 
 ## References
 

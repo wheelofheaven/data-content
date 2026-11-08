@@ -328,7 +328,7 @@ The Vorilhon source engages the **Tabernacle and Ark of the Covenant** as allian
 
 The corpus reading: the precise specifications reflect substantive technical content provided by the alliance to the Israelite leadership, with the proportional system carrying substantive functional content (the gold-plated wood as electrical-engineering capacitor structure; the cherubim as electrode configuration; the precise dimensions as technical specifications rather than as merely symbolic content).
 
-The proportional specifications operate as Sacred Geometric content in the strong sense — geometric ratios serving religious-cosmological purposes within an alliance-transmission framework. The detailed treatment lives in the [Ark of the Covenant](../ark-of-the-covenant/) and [Tabernacle](../tabernacle/) entries when written.
+The proportional specifications operate as Sacred Geometric content in the strong sense — geometric ratios serving religious-cosmological purposes within an alliance-transmission framework. The detailed treatment lives in the [Ark of the Covenant](/wiki/ark-of-the-covenant/) and [Tabernacle](../tabernacle/) entries when written.
 
 ### Ezekiel's temple vision
 
@@ -378,7 +378,7 @@ The corpus integrates this Sendy content with the broader Vorilhon source. The P
 
 Sendy's articulation of the base-10 / base-12 distinction has substantive implications. The Hebrew numerical system operates principally in base-10 for terrestrial content (the 10 Sephirot; the 10 Commandments; the substantial decimal content in the Hebrew Bible's measurement systems). The ancient astronomical system operates principally in base-12 for celestial content (the 12 zodiacal constellations; the 12 hours of day and night; the 12 months; the 12 tribes of Israel as corresponding to the 12 zodiacal positions).
 
-The base-12 astronomical content connects to the corpus's broader precessional framework (treated in the [Wheel of Heaven](../wheel-of-heaven/), [Zodiac](../zodiac/), and [Hamlet's Mill](../hamlets-mill/) entries). The 12 precessional ages, each of approximately 2,160 years, operate within a 12-fold cosmological framework that the substantial Hebraic-Greek Sacred Geometric tradition substantively preserves.
+The base-12 astronomical content connects to the corpus's broader precessional framework (treated in the [Wheel of Heaven](../wheel-of-heaven/), [Zodiac](../zodiac/), and [Hamlet's Mill](/wiki/hamlets-mill/) entries). The 12 precessional ages, each of approximately 2,160 years, operate within a 12-fold cosmological framework that the substantial Hebraic-Greek Sacred Geometric tradition substantively preserves.
 
 ## Modern reinterpretations and contemporary Sacred Geometry
 
@@ -656,22 +656,22 @@ The corpus does not require — and does not adopt — the strongest "universal 
 - [New Jerusalem](../new-jerusalem/)
 - [Embassy](../embassy/)
 - [Third Temple](../third-temple/)
-- [Ark of the Covenant](../ark-of-the-covenant/)
+- [Ark of the Covenant](/wiki/ark-of-the-covenant/)
 - [Tabernacle](../tabernacle/)
-- [Ezekiel](../ezekiel/)
+- [Ezekiel](/wiki/ezekiel/)
 - [Comparative Mythology](../comparative-mythology/)
 - [Mytheme](../mytheme/)
-- [Hamlet's Mill](../hamlets-mill/)
+- [Hamlet's Mill](/wiki/hamlets-mill/)
 - [Ancient Builders](../ancient-builders/)
 - [Archaeoastronomy](../archaeoastronomy/)
 - [Precession](../precession/)
 - [World Age](../world-age/)
 - [Zodiac](../zodiac/)
 - [Plurality of Gods](../plurality-of-gods/)
-- [Jean Sendy](../jean-sendy/)
+- [Jean Sendy](/wiki/jean-sendy/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
 
 ## References
 

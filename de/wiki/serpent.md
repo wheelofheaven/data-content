@@ -315,7 +315,7 @@ Die entwickelte Teufelsfigur des Neuen Testaments bezieht beträchtliches Materi
 
 Der Korpus liest den Teufel des Neuen Testaments als spezifische theologische Synthese statt als einen einzigen zugrundeliegenden Referenten. Die Bestandteile der Synthese (der hebräische Satan, die Eden-Schlange, die Wächter, die verschiedenen bösen Mächte der apokalyptischen Tradition) sind auf der Lesart des Rahmens operativ verschieden — verschiedene Akteure in verschiedenen Rollen in verschiedenen Perioden, von der nachbiblischen christlichen Tradition zu einer einzigen theologischen Kategorie vermengt. Die Vermengung ist innerhalb der eigenen Begriffe der christlichen Tradition theologisch kohärent, lässt aber die zugrundeliegenden politisch-operativen Unterscheidungen verschwinden, die der Rahmen wiederherstellt.
 
-Der Korpus billigt die einheitliche Teufelsfigur nicht. Die Lesart des Rahmens behandelt die Teufelskategorie als theologische Synthese, deren zugrundeliegende Bestandteile gesonderte Behandlung erfordern: die Eden-Schlange in diesem Eintrag; Satan im Eintrag [Satan](../satan/); Luzifer im Eintrag [Luzifer](../lucifer/); die breitere Tradition des gefallenen Engels in den Einträgen [Söhne der Elohim](../sons-of-elohim/) und [Wächter](../watchers/).
+Der Korpus billigt die einheitliche Teufelsfigur nicht. Die Lesart des Rahmens behandelt die Teufelskategorie als theologische Synthese, deren zugrundeliegende Bestandteile gesonderte Behandlung erfordern: die Eden-Schlange in diesem Eintrag; Satan im Eintrag [Satan](../satan/); Luzifer im Eintrag [Luzifer](../lucifer/); die breitere Tradition des gefallenen Engels in den Einträgen [Söhne der Elohim](/wiki/nephilim/) und [Wächter](/wiki/watchers/).
 
 ### Schlange vs. Leviathan
 

@@ -13,7 +13,7 @@ entry_type = "concept"
 alternative_names = ["der Baum des Lebens", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "der Baum des ewigen Lebens", "der Baum der Unsterblichkeit", "die Langlebigkeitstechnologie", "die Zelltransfer-Technologie"]
 timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
-    { title = "Baum der Erkenntnis", path = "wiki/tree-of-knowledge", description = "Der parallele Eden-Baum — das beschränkte wissenschaftliche Wissensarchiv, abzugrenzen von der Langlebigkeits-Biotechnologie." },
+    { title = "Baum der Erkenntnis", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "Der parallele Eden-Baum — das beschränkte wissenschaftliche Wissensarchiv, abzugrenzen von der Langlebigkeits-Biotechnologie." },
     { title = "Vorsintflutlich", path = "wiki/antediluvian", description = "Die Periode, deren patriarchale Lebensspannen (Adam 930, Methusalem 969) der Rahmen als operatives Protokoll des Baumes des Lebens liest." },
     { title = "Rat der Ewigen", path = "wiki/council-of-the-eternals", description = "Die Gemeinschaft der Ewigen, die von der ausgereiften Klon- und Gedächtnisübertragungsform der Technologie getragen wird." },
     { title = "Eden", path = "wiki/eden", description = "Die Anlage, in der der Baum des Lebens beschränkte Infrastruktur war." },
@@ -517,7 +517,7 @@ Die beiden Eden-Bäume sind gepaart, aber funktional verschieden:
 
 Die Bäume sind in der Genesis-Erzählung gepaart, weil sie die beiden zentralen Ressourcen der Eden-Installation mit beschränktem Zugang sind, beide dem ursprünglichen Verbot unterworfen. Das Enthüllungsereignis in Eden (behandelt im Eintrag [Schlange](../serpent/)) betraf speziell den Zugang zum Baum der Erkenntnis, nicht zum Baum des Lebens — das Verbot des Baumes des Lebens nach der Enthüllung (Genesis 3,22–24) war die spezifische Antwort des Rates, um Menschen daran zu hindern, zusätzlich zu dem soeben erworbenen Wissen auch Langlebigkeit zu erwerben.
 
-Die ausführliche Behandlung des Baumes der Erkenntnis lebt im Eintrag [Baum der Erkenntnis](../tree-of-knowledge/).
+Die ausführliche Behandlung des Baumes der Erkenntnis lebt im Eintrag [Baum der Erkenntnis](../tree-of-the-knowledge-of-good-and-evil/).
 
 ### Der Baum des Lebens vs. die Auferstehungstechnologie
 

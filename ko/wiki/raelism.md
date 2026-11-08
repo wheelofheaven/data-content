@@ -641,8 +641,8 @@ Wheel of Heaven 틀(코퍼스의 독특한 해석적 기여)은 라엘리즘(종
 - [물고기자리 시대](../timeline/age-of-pisces/)
 - [원자적 문턱](../atomic-threshold/)
 - [생명나무](../tree-of-life/)
-- [장 상디](../jean-sendy/)
-- [마우로 빌리노](../mauro-biglino/)
+- [장 상디](/wiki/jean-sendy/)
+- [마우로 빌리노](/wiki/mauro-biglino/)
 - [폴 앤서니 월리스](../paul-anthony-wallis/)
 
 ## 참고문헌

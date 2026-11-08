@@ -108,7 +108,7 @@ The vessel has direct equivalents across the principal religious-linguistic trad
 
 ### Corpus-internal usage
 
-The Wheel of Heaven corpus uses **Noah's Ark** (capitalized, proper noun) for the framework event, with **tevah** registered where Hebrew-textual content is in view. The substantive substantial distinction from the Ark of the Covenant (treated in dedicated [Ark of the Covenant](../ark-of-the-covenant/) entry when written) is preserved throughout corpus engagement.
+The Wheel of Heaven corpus uses **Noah's Ark** (capitalized, proper noun) for the framework event, with **tevah** registered where Hebrew-textual content is in view. The substantive substantial distinction from the Ark of the Covenant (treated in dedicated [Ark of the Covenant](/wiki/ark-of-the-covenant/) entry when written) is preserved throughout corpus engagement.
 
 ## The principal source articulation
 
@@ -264,7 +264,7 @@ The substantive substantial ark construction operates substantively as substanti
 
 - **Tower of Babel** (treated in [Babel](../babel/) entry) — substantive substantial post-flood second-generation spacecraft project intended for substantive substantial alliance-pardon engagement
 - **Tabernacle** (Exodus 25-31; treated in [Moses](../moses/) entry when written) — substantive substantial Aries-age portable sanctuary
-- **Ark of the Covenant** (treated in [Ark of the Covenant](../ark-of-the-covenant/) entry when written) — substantive substantial Aries-age sacred-container
+- **Ark of the Covenant** (treated in [Ark of the Covenant](/wiki/ark-of-the-covenant/) entry when written) — substantive substantial Aries-age sacred-container
 - **Solomonic Temple** (1 Kings 6-8; treated in [Solomon](../solomon/) entry when written) — substantive substantial Aries-age principal alliance-presence facility
 - **Embassy** (treated in [Embassy](../embassy/) entry) — substantive substantial contemporary Aquarian-age alliance-reception facility
 - **New Jerusalem / Third Temple** (treated in [New Jerusalem](../new-jerusalem/) entry) — substantive substantial Aquarian-age successor alliance-presence facility
@@ -285,7 +285,7 @@ The substantive substantial ark construction operates substantively across subst
 
 ### The Vorilhon source-textual corpus
 
-The substantive substantial doctrine is articulated principally in *The Book Which Tells the Truth* (1974), with substantial subsequent corpus engagement across the broader Vorilhon material. The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](../message-from-the-designers/) entries.
+The substantive substantial doctrine is articulated principally in *The Book Which Tells the Truth* (1974), with substantial subsequent corpus engagement across the broader Vorilhon material. The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](/wiki/message-from-the-designers/) entries.
 
 ## Distinguishing from adjacent concepts
 
@@ -385,7 +385,7 @@ The substantial ancient-astronaut and alternative-history tradition registers su
 
 - **Erich von Däniken**'s *Chariots of the Gods?* (Econ-Verlag, 1968) registers substantive substantial popular-cultural ancient-astronaut tradition with substantive substantial Noah's Ark spacecraft engagement.
 - **Zecharia Sitchin**'s *The Twelfth Planet* (Stein and Day, 1976) registers substantive substantial Sumerian-Anunnaki extraterrestrial-engagement reading with substantive substantial Noah's Ark spacecraft content within substantive substantial broader cosmological framework.
-- **Mauro Biglino**'s Italian-language scholarship registers substantive substantial detailed engagement with substantive substantial Hebrew Bible content through substantive substantial extraterrestrial-engagement frames. The detailed treatment of substantive substantial Biglino's substantive substantial work lives in the [Mauro Biglino](../mauro-biglino/) entry when written.
+- **Mauro Biglino**'s Italian-language scholarship registers substantive substantial detailed engagement with substantive substantial Hebrew Bible content through substantive substantial extraterrestrial-engagement frames. The detailed treatment of substantive substantial Biglino's substantive substantial work lives in the [Mauro Biglino](/wiki/mauro-biglino/) entry when written.
 
 The substantive substantial Wheel of Heaven corpus operates substantively at substantive substantial intersection of substantive substantial alternative-history tradition and substantive substantial systematic-theological engagement, with substantive substantial principal differentiation through substantive substantial systematic corpus framework rather than substantively substantial speculative-fragmentary engagement.
 
@@ -509,7 +509,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Hebrew Bible](../hebrew-bible/)
 - [Genesis](../genesis/)
 - [Religion](../religion/)
-- [Ark of the Covenant](../ark-of-the-covenant/)
+- [Ark of the Covenant](/wiki/ark-of-the-covenant/)
 - [Tabernacle](../tabernacle/)
 - [Embassy](../embassy/)
 - [New Jerusalem](../new-jerusalem/)
@@ -517,11 +517,11 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Abraham](../abraham/)
 - [Atra-ḫasīs](../atra-hasis/)
 - [Epic of Gilgamesh](../epic-of-gilgamesh/)
-- [Sumerian King List](../sumerian-king-list/)
+- [Sumerian King List](/wiki/sumerian-king-list/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 
 ## References
 

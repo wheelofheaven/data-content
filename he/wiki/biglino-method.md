@@ -310,7 +310,7 @@ The corpus reads Alter as an important contemporary witness to what direct Hebre
 
 Within the broader Ancient Astronaut Hypothesis tradition (treated systematically in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry), several figures operate with methodologies adjacent to Biglino's:
 
-- **Jean Sendy** — the principal pre-Biglino articulator of the Schliemann-Homer methodology applied to the Hebrew Bible; treated in the [Jean Sendy](../jean-sendy/) entry when written
+- **Jean Sendy** — the principal pre-Biglino articulator of the Schliemann-Homer methodology applied to the Hebrew Bible; treated in the [Jean Sendy](/wiki/jean-sendy/) entry when written
 - **Paul Anthony Wallis** — Australian author whose *Escaping from Eden* (2020) and *The Scars of Eden* (2021) draw substantially on Biglino's textual observations and extend them through additional cross-cultural comparative material; Wallis is the principal Anglophone popularizer of the Biglino-adjacent approach
 - **Various ancient-astronaut figures** — Erich von Däniken, Zecharia Sitchin, and others have engaged biblical texts but generally without Biglino's depth of direct Hebrew engagement; their work is often methodologically looser than Biglino's
 
@@ -383,8 +383,8 @@ The corpus position registers this debate as live rather than settled. The texts
 - [Wheel of Heaven](../wheel-of-heaven/)
 - [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
 - [Neo-Euhemerism](../neo-euhemerism/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Elohim](../elohim/)
@@ -393,8 +393,8 @@ The corpus position registers this debate as live rather than settled. The texts
 - [Tree of the Knowledge of Good and Evil](../tree-of-the-knowledge-of-good-and-evil/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
-- [Hamlet's Mill](../hamlets-mill/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
+- [Hamlet's Mill](/wiki/hamlets-mill/)
 - [The Tradition](../the-tradition/)
 - [The Truth](../the-truth/)
 - [Religion](../religion/)

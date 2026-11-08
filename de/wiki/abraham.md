@@ -359,7 +359,7 @@ The substantial substantive four-tradition Abrahamic-descendancy registers subst
 
 ### The Vorilhon source-textual corpus
 
-The doctrine is articulated principally in *The Book Which Tells the Truth* (1974), with substantial subsequent corpus engagement across the broader Vorilhon material. The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](../message-from-the-designers/) entries.
+The doctrine is articulated principally in *The Book Which Tells the Truth* (1974), with substantial subsequent corpus engagement across the broader Vorilhon material. The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](/wiki/message-from-the-designers/) entries.
 
 ## Distinguishing from adjacent concepts
 
@@ -500,7 +500,7 @@ The substantial ancient-astronaut and alternative-history tradition registers su
 
 **Zecharia Sitchin**'s *Earth Chronicles* series engages substantive substantial Abraham material through substantive substantial Sumerian-Anunnaki political-conflict frame. Sitchin's principal substantive engagement treats substantive substantial Abraham as substantive substantial Sumerian-trained figure operating substantively within substantive substantial broader Anunnaki political dynamics.
 
-**Mauro Biglino**'s Italian-language scholarship engages substantial Abraham content through substantive substantial extraterrestrial-engagement frames, with substantial detailed substantial Hebrew-textual engagement. The detailed treatment of Biglino's substantive work lives in the [Mauro Biglino](../mauro-biglino/) entry when written.
+**Mauro Biglino**'s Italian-language scholarship engages substantial Abraham content through substantive substantial extraterrestrial-engagement frames, with substantial detailed substantial Hebrew-textual engagement. The detailed treatment of Biglino's substantive work lives in the [Mauro Biglino](/wiki/mauro-biglino/) entry when written.
 
 The substantive substantial Wheel of Heaven corpus operates substantively at intersection of substantive substantial alternative-history tradition and substantial systematic-theological engagement, with substantive substantial principal differentiation through substantive systematic corpus framework rather than substantive speculative-fragmentary engagement.
 
@@ -654,8 +654,8 @@ Diese Wiederherstellung verlief speziell über die **Ismael**-Linie — über Ha
 - [Prophet](../prophet/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 
 ## References
 

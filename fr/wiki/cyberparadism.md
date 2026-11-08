@@ -137,7 +137,7 @@ see_also = [
     { title = "Paradisme", path = "/wiki/paradism/", description = "Le mouvement social, politique et économique raëlien étroitement apparenté ; même contenu post-rareté dans un registre distinct." },
     { title = "Élohim", path = "/wiki/elohim/", description = "La civilisation de l'alliance lue comme substantiellement cyberparadiste à l'échelle opérationnelle pluri-millénaire." },
     { title = "Éden", path = "/wiki/eden/", description = "Le laboratoire originaire de l'alliance lu comme le cyberparadisme historique effectif." },
-    { title = "Planète des Éternels", path = "/wiki/planet-of-the-eternals/", description = "Le monde d'origine de l'alliance comme cyberparadisme cosmico-civilisationnel sous forme opérationnelle mature." },
+    { title = "Planète des Éternels", path = "/wiki/elohim-home-planet/", description = "Le monde d'origine de l'alliance comme cyberparadisme cosmico-civilisationnel sous forme opérationnelle mature." },
     { title = "Ère du Verseau", path = "timeline/age-of-aquarius", description = "L'ère du seuil d'héritage au sein de laquelle le cyberparadisme émerge comme articulation culturelle de l'ère du Verseau." },
     { title = "Ère du Cancer", path = "timeline/age-of-cancer", description = "L'ère originaire du projet de l'alliance, au sein de laquelle Éden comme cyberparadisme se situe." },
     { title = "Chaîne cosmique", path = "/wiki/cosmic-chain/", description = "Le cadre plus large de succession cosmico-civilisationnelle au sein duquel le cyberparadisme opère comme arrangement multi-itérations." },
@@ -414,7 +414,7 @@ Le matériau source textuel de Vorilhon, principalement dans *Les Extra-terrestr
 - **Intégration environnementale substantielle** — la planète des Éternels opère substantiellement comme arrangement écologico-civilisationnel intégré
 - **Engagement frontalier cosmique substantiel** — les Éternels opèrent substantiellement au-delà de leur planète d'origine, avec un engagement substantiel de civilisation-créatrice (la Terre étant un exemple substantiel) étendant les principes cyberparadistes à d'autres mondes
 
-Le cadre lit la Planète des Éternels comme le cyberparadisme substantiellement mature que l'esthétique cyberparadiste contemporaine anticipe intuitivement sans connaissance spécifique de son existence opérationnelle effective. L'alignement substantiel enregistre un indice significatif en faveur du principe plus large de la double signature — l'esthétique contemporaine s'enregistre en alignement substantiel avec la réalité historico-civilisationnelle sous-jacente spécifique du cadre. Le traitement détaillé de la Planète des Éternels vit dans l'entrée {% wiki(slug="planet-of-the-eternals") %}Planète des Éternels{% end %} lorsqu'elle sera rédigée.
+Le cadre lit la Planète des Éternels comme le cyberparadisme substantiellement mature que l'esthétique cyberparadiste contemporaine anticipe intuitivement sans connaissance spécifique de son existence opérationnelle effective. L'alignement substantiel enregistre un indice significatif en faveur du principe plus large de la double signature — l'esthétique contemporaine s'enregistre en alignement substantiel avec la réalité historico-civilisationnelle sous-jacente spécifique du cadre. Le traitement détaillé de la Planète des Éternels vit dans l'entrée {% wiki(slug="elohim-home-planet") %}Planète des Éternels{% end %} lorsqu'elle sera rédigée.
 
 ### Le seuil d'héritage de l'ère du Verseau
 

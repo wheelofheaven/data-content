@@ -259,7 +259,7 @@ The corpus engages the cognitive science of religion substantively. The cognitiv
 
 The argument is substantially contested in mainstream scholarship. The principal critiques: the etymological connections Santillana and von Dechend propose are often substantially speculative; the cross-cultural pattern recognition operates at a level of generality that admits many alternative interpretations; the proposal that pre-modern cultures had the astronomical sophistication required for substantive precessional observation is contested.
 
-The corpus accepts the *Hamlet's Mill* hypothesis as the structural framework within which the alliance's work on Earth is organized, treated systematically in the [Hamlet's Mill](../hamlets-mill/) entry. The acceptance is the corpus's principal independent methodological choice — neither Sendy nor Vorilhon develops the full twelve-age precessional framework as the corpus has developed it, and the integration of *Hamlet's Mill* with the Sendy-Vorilhon synthesis is the corpus's first principal contribution.
+The corpus accepts the *Hamlet's Mill* hypothesis as the structural framework within which the alliance's work on Earth is organized, treated systematically in the [Hamlet's Mill](/wiki/hamlets-mill/) entry. The acceptance is the corpus's principal independent methodological choice — neither Sendy nor Vorilhon develops the full twelve-age precessional framework as the corpus has developed it, and the integration of *Hamlet's Mill* with the Sendy-Vorilhon synthesis is the corpus's first principal contribution.
 
 ## The corpus's positioning
 
@@ -474,13 +474,13 @@ The corpus's position on what the cross-cultural patterns establish:
 ## See also
 
 - [Wheel of Heaven](../wheel-of-heaven/)
-- [Hamlet's Mill](../hamlets-mill/)
+- [Hamlet's Mill](/wiki/hamlets-mill/)
 - [Neo-Euhemerism](../neo-euhemerism/)
 - [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
 - [Biglino Method](../biglino-method/)
 - [Sendy's Conditions of Coherence](../sendys-conditions-of-coherence/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [The Tradition](../the-tradition/)
 - [The Truth](../the-truth/)
 - [Theomachy](../theomachy/)

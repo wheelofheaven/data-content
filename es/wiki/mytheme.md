@@ -533,12 +533,12 @@ The ages-of-the-world cluster features cosmic time organized into discrete ages 
 - **Mesoamerican world-ages** — Aztec five-sun tradition; Maya long-count
 - **Hebrew Bible six days plus Sabbath** — Genesis 1 with subsequent prophetic-apocalyptic elaboration
 
-The corpus reads the ages-of-the-world cluster as preserving memory of the precessional structure of the alliance's work on Earth, integrated with the *Hamlet's Mill* hypothesis. The corpus's twelve-precessional-age organization is the systematic articulation of this cross-cultural pattern. The detailed treatment lives in the [World Age](../world-age/), [Wheel of Heaven](../wheel-of-heaven/), and [Hamlet's Mill](../hamlets-mill/) entries.
+The corpus reads the ages-of-the-world cluster as preserving memory of the precessional structure of the alliance's work on Earth, integrated with the *Hamlet's Mill* hypothesis. The corpus's twelve-precessional-age organization is the systematic articulation of this cross-cultural pattern. The detailed treatment lives in the [World Age](../world-age/), [Wheel of Heaven](../wheel-of-heaven/), and [Hamlet's Mill](/wiki/hamlets-mill/) entries.
 
 ## See also
 
 - [Comparative Mythology](../comparative-mythology/)
-- [Hamlet's Mill](../hamlets-mill/)
+- [Hamlet's Mill](/wiki/hamlets-mill/)
 - [Neo-Euhemerism](../neo-euhemerism/)
 - [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
 - [The Tradition](../the-tradition/)

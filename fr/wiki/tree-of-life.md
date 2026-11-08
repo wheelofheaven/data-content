@@ -13,7 +13,7 @@ entry_type = "concept"
 alternative_names = ["l'Arbre de Vie", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "l'Arbre de la Vie éternelle", "l'Arbre de l'Immortalité", "la technologie de longévité", "la technologie de transfert cellulaire"]
 timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
-    { title = "Arbre de la Connaissance", path = "wiki/tree-of-knowledge", description = "L'arbre parallèle d'Éden — l'archive de connaissance scientifique restreinte, distincte de la biotechnologie de longévité." },
+    { title = "Arbre de la Connaissance", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "L'arbre parallèle d'Éden — l'archive de connaissance scientifique restreinte, distincte de la biotechnologie de longévité." },
     { title = "Antédiluvien", path = "wiki/antediluvian", description = "La période dont le cadre lit les longévités patriarcales (Adam 930, Mathusalem 969) comme le registre opérationnel de l'Arbre de Vie." },
     { title = "Conseil des Éternels", path = "wiki/council-of-the-eternals", description = "La communauté éternelle entretenue par la forme mûre de la technologie, le clonage et le transfert de mémoire." },
     { title = "Éden", path = "wiki/eden", description = "L'installation où l'Arbre de Vie était une infrastructure d'accès restreint." },
@@ -517,7 +517,7 @@ Les deux arbres d'Éden sont appariés mais fonctionnellement distincts :
 
 Les arbres sont appariés dans le récit de la Genèse parce qu'ils sont les deux principales ressources à accès restreint de l'installation d'Éden, toutes deux soumises à l'interdiction originelle. L'événement de la divulgation d'Éden (traité dans l'entrée [Serpent](../serpent/)) impliqua l'accès à l'Arbre de la Connaissance spécifiquement, et non à l'Arbre de Vie — l'interdiction post-divulgation de l'Arbre de Vie (Genèse 3:22–24) fut la réponse spécifique du Conseil pour empêcher les humains d'acquérir la longévité en plus de la connaissance qu'ils venaient d'acquérir.
 
-Le traitement détaillé de l'Arbre de la Connaissance réside dans l'entrée [Arbre de la Connaissance](../tree-of-knowledge/).
+Le traitement détaillé de l'Arbre de la Connaissance réside dans l'entrée [Arbre de la Connaissance](../tree-of-the-knowledge-of-good-and-evil/).
 
 ### L'Arbre de Vie vs. la technologie de résurrection
 

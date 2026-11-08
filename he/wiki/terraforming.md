@@ -290,9 +290,9 @@ Within the specific Sendy–Raëlian interpretive tradition, the framework's rea
 - [Pantropy](../pantropy/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)
-- [Jean Sendy](../jean-sendy/)
+- [Jean Sendy](/wiki/jean-sendy/)
 - [Raël](../rael/)
-- [*Message from the Designers*](../message-from-the-designers/)
+- [*Message from the Designers*](/wiki/message-from-the-designers/)
 
 ## References
 

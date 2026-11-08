@@ -523,8 +523,8 @@ The mainstream scholarly explanation — which generally treats Raël as one fig
 - [Age of Aquarius](../timeline/age-of-aquarius/)
 - [Age of Pisces](../timeline/age-of-pisces/)
 - [Atomic Threshold](../atomic-threshold/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 
 ## References

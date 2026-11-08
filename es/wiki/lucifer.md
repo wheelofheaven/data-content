@@ -281,7 +281,7 @@ La membresía específica de la facción a lo largo de este período no se preci
 
 ### El episodio de los *benei ha-Elohim* y los Nefilim
 
-Génesis 6:1–4 introduce la narración de los *benei ha-Elohim* / Nefilim — los «hijos de Elohim» que tomaron mujeres humanas por esposas y produjeron descendencia híbrida con capacidades excepcionales. El marco lo lee como un episodio operativo específico dentro de la carrera más amplia de la facción de Lucifer, tratado más plenamente en las entradas [Antediluviano](../antediluvian/), [Hijos de Elohim](../sons-of-elohim/) y [Nefilim](../nephilim/).
+Génesis 6:1–4 introduce la narración de los *benei ha-Elohim* / Nefilim — los «hijos de Elohim» que tomaron mujeres humanas por esposas y produjeron descendencia híbrida con capacidades excepcionales. El marco lo lee como un episodio operativo específico dentro de la carrera más amplia de la facción de Lucifer, tratado más plenamente en las entradas [Antediluviano](../antediluvian/), [Hijos de Elohim](/wiki/nephilim/) y [Nefilim](/wiki/nephilim/).
 
 La lectura del marco. Los *benei ha-Elohim* de Génesis 6 son la facción exiliada de Lucifer en su papel reproductivo: miembros de la facción que toman mujeres humanas del linaje del Edén por esposas y producen descendencia híbrida. Las uniones son uniones biológicas entre dos especies lo bastante emparentadas como para permitir la reproducción fértil (la lectura más amplia del marco es que los Elohim y los humanos sintetizados comparten sustancial compatibilidad genética, puesto que los humanos fueron sintetizados a partir de material genético Elohim como fuente principal). Los Nefilim son la descendencia híbrida resultante, poseedora de capacidades que el material fuente describe como excepcionales.
 

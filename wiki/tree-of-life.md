@@ -19,7 +19,7 @@ entry_type = "concept"
 alternative_names = ["the Tree of Life", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "the Tree of Eternal Life", "the Tree of Immortality", "the longevity technology", "the cellular-transfer technology"]
 timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
-    { title = "Tree of Knowledge", path = "wiki/tree-of-knowledge", description = "The parallel Eden tree — the restricted scientific-knowledge archive, distinct from the longevity biotechnology." },
+    { title = "Tree of Knowledge", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "The parallel Eden tree — the restricted scientific-knowledge archive, distinct from the longevity biotechnology." },
     { title = "Antediluvian", path = "wiki/antediluvian", description = "The period whose patriarchal lifespans (Adam 930, Methuselah 969) the framework reads as the Tree of Life's operational record." },
     { title = "Council of the Eternals", path = "wiki/council-of-the-eternals", description = "The Eternal community sustained by the mature cloning-and-memory-transfer form of the technology." },
     { title = "Eden", path = "wiki/eden", description = "The installation where the Tree of Life was restricted infrastructure." },
@@ -513,7 +513,7 @@ The two Eden trees are paired but functionally distinct:
 
 The trees are paired in the Genesis narrative because they are the two principal restricted-access resources of the Eden installation, both subject to the original prohibition. The Eden disclosure event (treated in the [Serpent](../serpent/) entry) involved access to the Tree of the Knowledge specifically, not the Tree of Life — the post-disclosure prohibition on the Tree of Life (Genesis 3:22–24) was the Council's specific response to prevent humans from acquiring longevity in addition to the knowledge they had just acquired.
 
-The detailed treatment of the Tree of the Knowledge lives in the [Tree of Knowledge](../tree-of-knowledge/) entry.
+The detailed treatment of the Tree of the Knowledge lives in the [Tree of Knowledge](../tree-of-the-knowledge-of-good-and-evil/) entry.
 
 ### The Tree of Life vs. the resurrection technology
 

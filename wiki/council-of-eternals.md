@@ -216,7 +216,7 @@ The Council convenes on the **Planet of the Eternals**, the second smaller plane
 
 It hosts the 700 Council Eternals plus roughly 8,400 resurrected humans, and the source describes it as a "veritable little paradise" with developed infrastructure and advanced biological-scientific research facilities. It holds the resurrected prophets of the various ages — Moses, Elijah, Buddha, Jesus, Muhammad, and others — brought back after their Earth-side missions, and houses the cloning-and-memory-transfer infrastructure that produces and maintains the Eternals, along with biological robots marked by a small blue stone between the eyes. Relative to the Elohim home world (population ~7 billion), it is the residence and political center of the senior Eternals.
 
-The planet is treated in the [Planet of the Eternals](../planet-of-the-eternals/) entry (when written).
+The planet is treated in the [Planet of the Eternals](../elohim-home-planet/) entry (when written).
 
 ### The Eternal-population distinction
 
@@ -550,8 +550,8 @@ After the Taurus-age pardon and reintegration, the Council became one part of th
 - [Lucifer](../lucifer/)
 - [Satan](../satan/)
 - [Tree of Life](../tree-of-life/)
-- [Planet of the Eternals](../planet-of-the-eternals/)
-- [Sons of Elohim](../sons-of-elohim/)
+- [Planet of the Eternals](../elohim-home-planet/)
+- [Sons of Elohim](../nephilim/)
 - [Plurality of Gods](../plurality-of-gods/)
 - [Anunnaki](../anunnaki/)
 - [Prophet](../prophet/)

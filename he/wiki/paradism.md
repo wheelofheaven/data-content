@@ -300,7 +300,7 @@ The substantive substantial Paradism realization operates within substantive sub
 
 ### The Vorilhon source-textual corpus
 
-The substantive substantial doctrine is articulated principally in *Extra-Terrestrials Took Me to Their Planet* (1975), with substantial subsequent corpus engagement across the broader Vorilhon material. The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](../message-from-the-designers/) entries.
+The substantive substantial doctrine is articulated principally in *Extra-Terrestrials Took Me to Their Planet* (1975), with substantial subsequent corpus engagement across the broader Vorilhon material. The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](/wiki/message-from-the-designers/) entries.
 
 ### The Embassy and New Jerusalem context
 
@@ -520,7 +520,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Yahweh](../yahweh/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
 - [Plurality of Gods](../plurality-of-gods/)
 - [Religion](../religion/)
 - [Cyberparadism](../cyberparadism/)

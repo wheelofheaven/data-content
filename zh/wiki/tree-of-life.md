@@ -13,7 +13,7 @@ entry_type = "concept"
 alternative_names = ["生命之树", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "永生之树", "不朽之树", "长寿技术", "细胞转移技术"]
 timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
-    { title = "知识之树", path = "wiki/tree-of-knowledge", description = "并行的伊甸之树 — 受限的科学知识档案,有别于长寿生物技术。" },
+    { title = "知识之树", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "并行的伊甸之树 — 受限的科学知识档案,有别于长寿生物技术。" },
     { title = "大洪水前", path = "wiki/antediluvian", description = "本框架将其族长寿数(亚当 930 岁、玛土撒拉 969 岁)读作生命之树运作记录的那一时期。" },
     { title = "永恒者议会", path = "wiki/council-of-the-eternals", description = "由该技术成熟的克隆—记忆转移形态所维系的永恒者群体。" },
     { title = "伊甸园", path = "wiki/eden", description = "生命之树作为受限基础设施所在的那处装置。" },
@@ -517,7 +517,7 @@ principal_framework_source = "《讲述真相之书》(佛里翁/雷尔,1974)第
 
 两树在《创世记》叙事中成对出现,因为它们是伊甸装置两项主要的受限取用资源,均受最初禁令所约束。伊甸披露事件(在[蛇](../serpent/)条目中论述)所涉及的是对知识之树的取用,而非生命之树 — 披露后对生命之树的禁令(创世记 3:22–24)是议会的特定回应,旨在阻止人类在其刚获得的知识之外再获取长寿。
 
-对知识之树的详细论述见[知识之树](../tree-of-knowledge/)条目。
+对知识之树的详细论述见[知识之树](../tree-of-the-knowledge-of-good-and-evil/)条目。
 
 ### 生命之树与复活技术
 

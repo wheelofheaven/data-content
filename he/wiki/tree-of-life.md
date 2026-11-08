@@ -13,7 +13,7 @@ entry_type = "concept"
 alternative_names = ["the Tree of Life", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "the Tree of Eternal Life", "the Tree of Immortality", "the longevity technology", "the cellular-transfer technology"]
 timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
-    { title = "עץ הדעת", path = "wiki/tree-of-knowledge", description = "העץ המקביל בעדן — ארכיון הידע המדעי המוגבל, נבדל מן הביוטכנולוגיה של הארכת החיים." },
+    { title = "עץ הדעת", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "העץ המקביל בעדן — ארכיון הידע המדעי המוגבל, נבדל מן הביוטכנולוגיה של הארכת החיים." },
     { title = "טרום-מבולי", path = "wiki/antediluvian", description = "התקופה שאריכויות החיים הפטריארכליות שלה (אדם 930, מתושלח 969) נקראות על ידי המסגרת כתיעוד הפעולה של עץ החיים." },
     { title = "מועצת הנצחיים", path = "wiki/council-of-the-eternals", description = "קהילת הנצחיים הנשמרת על ידי הצורה הבשלה של הטכנולוגיה, השכפול והעברת הזיכרון." },
     { title = "עדן", path = "wiki/eden", description = "המתקן שבו היה עץ החיים תשתית מוגבלת." },
@@ -517,7 +517,7 @@ principal_framework_source = "*הספר אשר מספר את האמת* (וורי
 
 העצים מזווגים בנרטיב בראשית משום שהם שני המשאבים העיקריים מוגבלי-הגישה של מתקן עדן, שניהם כפופים לאיסור המקורי. אירוע הגילוי בעדן (מטופל בערך [נחש](../serpent/)) כלל גישה לעץ הדעת ספציפית, לא לעץ החיים — האיסור שלאחר הגילוי על עץ החיים (בראשית ג:22–24) היה תגובת המועצה הספציפית למנוע מבני האדם לרכוש אריכות חיים בנוסף לידע שזה עתה רכשו.
 
-הטיפול המפורט בעץ הדעת נמצא בערך [עץ הדעת](../tree-of-knowledge/).
+הטיפול המפורט בעץ הדעת נמצא בערך [עץ הדעת](../tree-of-the-knowledge-of-good-and-evil/).
 
 ### עץ החיים מול טכנולוגיית התחייה
 

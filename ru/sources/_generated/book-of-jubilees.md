@@ -1,0 +1,10 @@
++++
+title = "Book of Jubilees"
+path = "/ru/sources/book-of-jubilees/"
+template = "source-page.html"
+description = "Parallel pre-rabbinic source for the Watchers and Nephilim cycle."
+
+[extra]
+source_id = "book-of-jubilees"
+translation_status = "en_only"
++++

@@ -28,7 +28,7 @@ see_also = [
     { title = "Humanitarianism", path = "wiki/humanitarianism", description = "The property-and-inheritance commandment of the same programme." },
     { title = "Eden", path = "wiki/eden", description = "The originary laboratory read as the first, historical Cyberparadism." },
     { title = "Elohim", path = "wiki/elohim", description = "The creators, whose civilisation the framework reads as Cyberparadist at multi-millennial scale." },
-    { title = "Planet of the Eternals", path = "wiki/planet-of-the-eternals", description = "The Elohim home world read as the mature, cosmic Cyberparadism." },
+    { title = "Planet of the Eternals", path = "wiki/elohim-home-planet", description = "The Elohim home world read as the mature, cosmic Cyberparadism." },
     { title = "Age of Aquarius", path = "timeline/age-of-aquarius", description = "The threshold age in which the aesthetic emerges." },
     { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The succession framework across which the pattern recurs." },
     { title = "Doubled Signature", path = "wiki/doubled-signature", description = "The principle that accounts for the fit between the aesthetic and the framework's content." },
@@ -325,7 +325,7 @@ dwarfs it, is on this reading the shape of that first instance. The
 [Elohim](../elohim/) who ran it — and in particular the exiled
 [Lucifer](../lucifer/) faction, the creators who took humanity's side and were
 condemned to remain among them — built the condition the aesthetic now paints as
-future. The [Planet of the Eternals](../planet-of-the-eternals/) — the Elohim home
+future. The [Planet of the Eternals](../elohim-home-planet/) — the Elohim home
 world as [Raël](../rael/) describes it in his contact account{{ cite(id="les-extra-terrestres-m-ont-emmen-sur-leur-plan-te", text="[26]", title="Vorilhon, Les Extra-Terrestres m'ont emmené sur leur planète, 1975") }} — is
 the second: a post-scarcity civilisation of integrated biology and technology,
 great longevity, and cooperative order, the mature form of every Cyberparadist
@@ -412,7 +412,7 @@ not an independent witness that settles anything.
 - [Humanitarianism](../humanitarianism/)
 - [Eden](../eden/)
 - [Elohim](../elohim/)
-- [Planet of the Eternals](../planet-of-the-eternals/)
+- [Planet of the Eternals](../elohim-home-planet/)
 - [Age of Aquarius](../age-of-aquarius/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Doubled Signature](../doubled-signature/)

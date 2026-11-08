@@ -315,7 +315,7 @@ La figure développée du diable dans le Nouveau Testament incorpore un matéria
 
 Le corpus lit le Diable du Nouveau Testament comme une synthèse théologique spécifique plutôt que comme un référent sous-jacent unique. Les composantes de la synthèse (le satan hébreu, le Serpent d'Éden, les Veilleurs, les diverses puissances mauvaises de tradition apocalyptique) sont opérationnellement distinctes selon la lecture du cadre — différents acteurs dans différents rôles à différentes périodes, confondus en une catégorie théologique unique par la tradition chrétienne post-biblique. La confusion est théologiquement cohérente selon les termes propres de la tradition chrétienne, mais elle fait disparaître les distinctions politico-opérationnelles sous-jacentes que le cadre retrouve.
 
-Le corpus n'entérine pas la figure unifiée du Diable. La lecture du cadre traite la catégorie du Diable comme une synthèse théologique dont les composantes sous-jacentes exigent un traitement séparé : le Serpent d'Éden dans cette entrée ; Satan dans l'entrée [Satan](../satan/) ; Lucifer dans l'entrée [Lucifer](../lucifer/) ; la tradition plus large de l'ange déchu dans les entrées [Fils des Élohim](../sons-of-elohim/) et [Veilleurs](../watchers/).
+Le corpus n'entérine pas la figure unifiée du Diable. La lecture du cadre traite la catégorie du Diable comme une synthèse théologique dont les composantes sous-jacentes exigent un traitement séparé : le Serpent d'Éden dans cette entrée ; Satan dans l'entrée [Satan](../satan/) ; Lucifer dans l'entrée [Lucifer](../lucifer/) ; la tradition plus large de l'ange déchu dans les entrées [Fils des Élohim](/wiki/nephilim/) et [Veilleurs](/wiki/watchers/).
 
 ### Serpent vs Léviathan
 

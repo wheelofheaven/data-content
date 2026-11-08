@@ -216,7 +216,7 @@ The substantial corpus engagement:
 
 > *"The phrase בְּנֵי־הָאֱלֹהִים (benei ha-Elohim), 'sons of the Elohim,' is the most specific description of a category of being in the entire Hebrew Bible's pre-flood narrative."*
 
-The substantial articulation registers the substantial framework-specific reading: the substantial plural beings (*benei ha-Elohim*) operating substantially with substantial human reproductive interaction registers the substantial multiple-divine-beings content with substantial operational specificity. The detailed treatment of the broader *benei ha-Elohim* content lives in the substantial [Watchers](../watchers/) entry when written and the broader corpus entries on the antediluvian period.
+The substantial articulation registers the substantial framework-specific reading: the substantial plural beings (*benei ha-Elohim*) operating substantially with substantial human reproductive interaction registers the substantial multiple-divine-beings content with substantial operational specificity. The detailed treatment of the broader *benei ha-Elohim* content lives in the substantial [Watchers](/wiki/watchers/) entry when written and the broader corpus entries on the antediluvian period.
 
 ### The substantial Job and Psalm 82 content
 
@@ -679,10 +679,10 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Hebrew](../hebrew/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Tetragrammaton](../tetragrammaton/)
-- [Watchers](../watchers/)
+- [Watchers](/wiki/watchers/)
 - [Apocalypse](../apocalypse/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 
 ## References

@@ -265,7 +265,7 @@ The substantial Sendy source content provides the principal pre-Raëlian methodo
 - ***Ces dieux qui firent le ciel et la terre*** (Robert Laffont, 1969) — the principal mature articulation
 - ***L'ère du Verseau*** (Robert Laffont, 1970) — the principal Aquarian-age articulation, containing the substantial four-condition methodological framework
 
-The substantial Sendy content operates substantively as the principal methodological articulation supporting the framework's recovery work. The detailed treatment of Sendy as figure lives in the [Jean Sendy](../jean-sendy/) entry when written; the detailed treatment of The Tradition concept (the principal Sendy-derived framework concept) lives in the [The Tradition](../the-tradition/) entry.
+The substantial Sendy content operates substantively as the principal methodological articulation supporting the framework's recovery work. The detailed treatment of Sendy as figure lives in the [Jean Sendy](/wiki/jean-sendy/) entry when written; the detailed treatment of The Tradition concept (the principal Sendy-derived framework concept) lives in the [The Tradition](../the-tradition/) entry.
 
 ### The substantial corpus subsequent articulations
 
@@ -608,9 +608,9 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Living Earth](../living-earth/)
 - [Four Levels](../four-levels/)
 - [Mass Effect](../mass-effect/)
-- [Jean Sendy](../jean-sendy/)
-- [Hamlet's Mill](../hamlets-mill/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Hamlet's Mill](/wiki/hamlets-mill/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 - [Neo-Euhemerism](../neo-euhemerism/)
 - [Genesis](../genesis/)

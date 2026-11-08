@@ -140,7 +140,7 @@ The cross-cultural distribution of cyclical-cosmological frameworks is itself a 
 
 **Giorgio de Santillana** (1902-1974), a historian of science at MIT, and **Hertha von Dechend** (1915-2001), a historian of science at the University of Frankfurt, published ***Hamlet's Mill: An Essay on Myth and the Frame of Time*** (Gambit, Boston, 1969). The work is the principal scholarly anchor for the corpus's precessional framework. Its principal argument: the precessional cycle was tracked by virtually every major ancient civilization through religious-iconographic and mythological symbolism, with the resulting body of cross-cultural mythological material preserving substantial astronomical content despite its surface appearance as religious-mythological narrative. The work assembles cross-cultural evidence from Mesopotamian, Egyptian, Greek, Indian, Chinese, Mesoamerican, Polynesian, and various other traditions, demonstrating consistent encoding of precessional knowledge across geographically and temporally distant civilizations.
 
-The framework operates substantively within the *Hamlet's Mill* tradition while extending it through several additional interpretive moves: the doubled-signature principle (treated in detail in the [Doubled Signature](../doubled-signature/) entry), the alliance-engineering reading of the precessional ages, and the integration with Raëlian source material. The detailed treatment of *Hamlet's Mill* lives in the [Hamlet's Mill](../hamlets-mill/) entry when written; the World Age entry's contribution is registering the work as foundational scholarly anchor.
+The framework operates substantively within the *Hamlet's Mill* tradition while extending it through several additional interpretive moves: the doubled-signature principle (treated in detail in the [Doubled Signature](../doubled-signature/) entry), the alliance-engineering reading of the precessional ages, and the integration with Raëlian source material. The detailed treatment of *Hamlet's Mill* lives in the [Hamlet's Mill](/wiki/hamlets-mill/) entry when written; the World Age entry's contribution is registering the work as foundational scholarly anchor.
 
 ### The framework's relationship to the broader landscape
 
@@ -305,7 +305,7 @@ The broader Cosmic Competition framework (the engagement among multiple alliance
 
 ### *Hamlet's Mill* engagement
 
-The detailed treatment of *Hamlet's Mill* as foundational scholarly anchor lives in the [Hamlet's Mill](../hamlets-mill/) entry when written.
+The detailed treatment of *Hamlet's Mill* as foundational scholarly anchor lives in the [Hamlet's Mill](/wiki/hamlets-mill/) entry when written.
 
 ### The Hebrew Bible framework engagement
 
@@ -495,7 +495,7 @@ The Mesopotamian (principally Sumerian-Akkadian) tradition preserves substantive
 
 **The sar / shar unit**. The Sumerian *sar* (Akkadian *shar*) is a unit of 3,600 years. The unit appears principally in the Sumerian King List, where the antediluvian kings are reckoned to have ruled for substantial multiples of *sars* (e.g., Alulim ruled 8 *sars* = 28,800 years; the total antediluvian period is 241,200 years in the standard Sumerian King List reckoning).
 
-**The framework reading**. The corpus reads the Sumerian *sar* unit as preserving substantive cultural memory of an ancient cyclical-temporal framework. The substantial Sumerian King List antediluvian numbers register substantive engagement with the broader pre-flood timeframe. The detailed treatment lives in the [Sumerian King List](../sumerian-king-list/) entry when written.
+**The framework reading**. The corpus reads the Sumerian *sar* unit as preserving substantive cultural memory of an ancient cyclical-temporal framework. The substantial Sumerian King List antediluvian numbers register substantive engagement with the broader pre-flood timeframe. The detailed treatment lives in the [Sumerian King List](/wiki/sumerian-king-list/) entry when written.
 
 ### The Egyptian Sothic cycle
 
@@ -583,7 +583,7 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Doubled Signature](../doubled-signature/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)
-- [Hamlet's Mill](../hamlets-mill/)
+- [Hamlet's Mill](/wiki/hamlets-mill/)
 - [Age of Capricorn](../age-of-capricorn/)
 - [Age of Sagittarius](../age-of-sagittarius/)
 - [Age of Scorpio](../age-of-scorpio/)
@@ -600,10 +600,10 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Genesis](../genesis/)
 - [Mithraic Mysteries](../mithraic-mysteries/)
 - [Great Pyramid](../great-pyramid/)
-- [Sumerian King List](../sumerian-king-list/)
+- [Sumerian King List](/wiki/sumerian-king-list/)
 - [Apocalypse](../apocalypse/)
 - [Raël](../rael/)
-- [Jean Sendy](../jean-sendy/)
+- [Jean Sendy](/wiki/jean-sendy/)
 
 ## References
 

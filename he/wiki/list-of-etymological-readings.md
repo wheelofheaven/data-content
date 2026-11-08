@@ -248,10 +248,10 @@ The catalogue surfaces several methodological and substantive open questions.
 - [Satan](../satan/)
 - [Kabbalah](../kabbalah/)
 - [Raëlism](../raelism/)
-- [Jean Sendy](../jean-sendy/)
+- [Jean Sendy](/wiki/jean-sendy/)
 - [Raël](../rael/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Wallis](../paul-wallis/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
+- [Paul Wallis](/wiki/paul-wallis/)
 
 ## References
 

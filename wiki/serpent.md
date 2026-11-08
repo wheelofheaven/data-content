@@ -323,7 +323,7 @@ The New Testament's developed devil-figure incorporates substantial material fro
 
 The corpus reads the New Testament Devil as a specific theological synthesis rather than as a single underlying referent. The components of the synthesis (the Hebrew satan, the Eden Serpent, the Watchers, the various apocalyptic-tradition evil powers) are operationally distinct on the framework's reading — different actors in different roles at different periods, conflated into a single theological category by the post-biblical Christian tradition. The conflation is theologically coherent within Christian tradition's own terms but disappears the underlying political-operational distinctions the framework recovers.
 
-The corpus does not endorse the unified Devil figure. The framework's reading treats the Devil category as a theological synthesis whose underlying components require separate treatment: the Eden Serpent in this entry; Satan in the [Satan](../satan/) entry; Lucifer in the [Lucifer](../lucifer/) entry; the broader fallen-angel tradition in the [Sons of Elohim](../sons-of-elohim/) and [Watchers](../watchers/) entries.
+The corpus does not endorse the unified Devil figure. The framework's reading treats the Devil category as a theological synthesis whose underlying components require separate treatment: the Eden Serpent in this entry; Satan in the [Satan](../satan/) entry; Lucifer in the [Lucifer](../lucifer/) entry; the broader fallen-angel tradition in the [Sons of Elohim](../nephilim/) and [Watchers](../watchers/) entries.
 
 ### Serpent vs. Leviathan
 

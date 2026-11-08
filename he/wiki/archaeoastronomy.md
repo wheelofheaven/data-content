@@ -252,7 +252,7 @@ The substantive empirical question that archaeoastronomy is principally equipped
 
 The mainstream archaeoastronomy answer: the evidence for substantial pre-Hipparchean precessional awareness is methodologically problematic; the conventional history dating explicit recognition of precession to Hipparchus c. 128 BCE remains substantively the standard view.
 
-The corpus answer: substantial pre-Hipparchean precessional awareness existed and was substantially encoded in cross-cultural mythology and religious symbolism. The substantial evidence: the substantial cross-cultural twelve-fold zodiacal organization (treated in the [Zodiac](../zodiac/) entry); the substantial cross-cultural ages-of-the-world tradition (treated in the [World Age](../world-age/) entry); the substantial *Hamlet's Mill* engagement (treated in the [Hamlet's Mill](../hamlets-mill/) entry); the substantial Egyptian temple-alignment shifts; the substantial Maya Long Count cycle; the substantial Mithraic iconographic content (the substantial David Ulansey *The Origins of the Mithraic Mysteries* engagement reading the substantial Mithraic bull-slaying as encoding the substantial Taurus-Aries precessional shift); the substantial subsequent cross-cultural evidence.
+The corpus answer: substantial pre-Hipparchean precessional awareness existed and was substantially encoded in cross-cultural mythology and religious symbolism. The substantial evidence: the substantial cross-cultural twelve-fold zodiacal organization (treated in the [Zodiac](../zodiac/) entry); the substantial cross-cultural ages-of-the-world tradition (treated in the [World Age](../world-age/) entry); the substantial *Hamlet's Mill* engagement (treated in the [Hamlet's Mill](/wiki/hamlets-mill/) entry); the substantial Egyptian temple-alignment shifts; the substantial Maya Long Count cycle; the substantial Mithraic iconographic content (the substantial David Ulansey *The Origins of the Mithraic Mysteries* engagement reading the substantial Mithraic bull-slaying as encoding the substantial Taurus-Aries precessional shift); the substantial subsequent cross-cultural evidence.
 
 The substantial empirical resolution of this question would require substantial additional evidence and substantial methodological development that mainstream archaeoastronomy has not principally pursued. The corpus engages the question substantively while acknowledging the substantial contested status.
 
@@ -452,7 +452,7 @@ Carlson's substantial archaeoastronomical content operates principally within th
 
 ### The *Hamlet's Mill* engagement
 
-**Giorgio de Santillana and Hertha von Dechend**'s substantive *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth* (Gambit, 1969) is the substantial principal scholarly articulation of the substantive precessional-encoding hypothesis. The work warrants substantive articulation here (full treatment in the pending [Hamlet's Mill](../hamlets-mill/) entry):
+**Giorgio de Santillana and Hertha von Dechend**'s substantive *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth* (Gambit, 1969) is the substantial principal scholarly articulation of the substantive precessional-encoding hypothesis. The work warrants substantive articulation here (full treatment in the pending [Hamlet's Mill](/wiki/hamlets-mill/) entry):
 
 - **The substantive thesis** — substantial cross-cultural mythology systematically encodes substantial precessional astronomical content; substantial mythological imagery (the substantial cosmic mill, the substantial broken column, the substantial displaced world-axis, substantial catastrophic events at substantial cosmic-age boundaries, substantial zodiacal-constellation references) substantially preserves substantial pre-Hipparchean precessional observation
 - **The substantial methodological approach** — substantial cross-cultural mythological-comparative analysis with substantial astronomical-reconstruction integration
@@ -596,7 +596,7 @@ The corpus does not require — and does not adopt — the strongest "ancient cu
 ## See also
 
 - [Wheel of Heaven](../wheel-of-heaven/)
-- [Hamlet's Mill](../hamlets-mill/)
+- [Hamlet's Mill](/wiki/hamlets-mill/)
 - [Precession](../precession/)
 - [Zodiac](../zodiac/)
 - [World Age](../world-age/)
@@ -605,14 +605,14 @@ The corpus does not require — and does not adopt — the strongest "ancient cu
 - [Sacred Geometry](../sacred-geometry/)
 - [Ancient Builders](../ancient-builders/)
 - [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
-- [Göbekli Tepe](../gobekli-tepe/)
+- [Göbekli Tepe](/wiki/gobekli-tepe/)
 - [Astrobiology](../astrobiology/)
 - [Number of Man](../number-of-man/)
 - [Age of Leo](../age-of-leo/)
 - [Age of Aquarius](../age-of-aquarius/)
-- [Jean Sendy](../jean-sendy/)
+- [Jean Sendy](/wiki/jean-sendy/)
 - [Raël](../rael/)
-- [Message from the Designers](../message-from-the-designers/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
 
 ## References
 

@@ -187,7 +187,7 @@ withdrawing the rest of the team.
 **The trajectory it opens.** The disclosure inaugurates the developmental line
 the rest of the primeval history compresses: the metallurgy and music of the line
 of Cain (Genesis 4), the long-lived antediluvian patriarchs (Genesis 5), the
-[Nephilim](../nephilim/) and the union of the "sons of God" with human women
+[Nephilim](/wiki/nephilim/) and the union of the "sons of God" with human women
 (Genesis 6), and the pre-Flood civilisation whose eventual advancement provokes
 the Council's destruction order and the [Great Flood](../great-flood/). It is
 also the first move of the [Theomachy](../theomachy/), the long conflict between
@@ -301,7 +301,7 @@ bloodline.
 - [Yahweh](../yahweh/)
 - [Plurality of Gods](../plurality-of-gods/)
 - [Theomachy](../theomachy/)
-- [Nephilim](../nephilim/)
+- [Nephilim](/wiki/nephilim/)
 - [Antediluvian](../antediluvian/)
 - [Great Flood](../great-flood/)
 - [Noah](../noah/)
@@ -313,8 +313,8 @@ bloodline.
 - [Age of Cancer](../timeline/age-of-cancer/)
 - [Wheel of Heaven](../wheel-of-heaven/)
 - [Raël](../rael/)
-- [Message from the Designers](../message-from-the-designers/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 
 ## References
 

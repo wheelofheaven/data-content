@@ -156,7 +156,7 @@ The catalogue below is organised by category rather than alphabetically, since t
 | **The Tabernacle** (מִשְׁכָּן, *mishkan*) | The portable operational shrine for the Ark, with construction specifications and operational protocols the framework reads as preserving authentic Elohim-supervised technical content | Sendy; Biglino |
 | **The Temple** (Solomon's, Second, eschatological) | The successive permanent operational installations housing the Ark and the broader cultic apparatus; the framework reads the Temple's specifications and operational protocols as preserving authentic content about a working installation rather than as ritually significant architecture only | Vorilhon; Biglino |
 | **[The Tree of Life](../tree-of-life/)** | The framework reads the Tree of Life as preserving multiple distinct operational referents across traditions: in Eden, the specific operational marker for the longevity-knowledge withheld from humanity; in Kabbalah, the genealogical and emanative structure of the Elohim civilisation and the cosmic chain; in broader cross-cultural attestation, the cosmological-genealogical pattern of inter-civilisational succession | Vorilhon; corpus synthesis |
-| **[The Tree of Knowledge of Good and Evil](../tree-of-knowledge/)** | The operational marker for the genetic-engineering and life-design knowledge specifically — the knowledge by which the Elohim themselves work, withheld from humanity during the Eden phase and the subject of the serpent's transmission | Vorilhon; corpus synthesis |
+| **[The Tree of Knowledge of Good and Evil](../tree-of-the-knowledge-of-good-and-evil/)** | The operational marker for the genetic-engineering and life-design knowledge specifically — the knowledge by which the Elohim themselves work, withheld from humanity during the Eden phase and the subject of the serpent's transmission | Vorilhon; corpus synthesis |
 | **The Embassy** (Raëlian context) | The contemporary architectural project specified by the Raëlian source material — a designated reception facility to be constructed for the Elohim's anticipated public return; the framework reads the Embassy as the contemporary operational counterpart to the Tabernacle and Temple of the ancient lineage | Vorilhon |
 | **The Urim and Thummim** (אוּרִים וְתֻמִּים) | The specific operational devices used by the Hebrew priesthood for binary-decision divination; the framework reads as preserving operational content about a working communication or decision-support technology | Sendy; corpus synthesis |
 | **The pillar of cloud and fire** (Exodus 13:21–22) | The visible operational signature of the Elohim presence accompanying the Exodus migration; the framework reads the cloud-and-fire imagery as preserving the observed appearance of the Elohim's actual operational craft or atmospheric-presence equipment | Sendy; Vorilhon |
@@ -248,7 +248,7 @@ The catalogue surfaces several open questions of method and substance.
 - [Yahweh](../yahweh/)
 - [Eden](../eden/)
 - [Tree of Life](../tree-of-life/)
-- [Tree of Knowledge](../tree-of-knowledge/)
+- [Tree of Knowledge](../tree-of-the-knowledge-of-good-and-evil/)
 - [Noah's Ark](../noahs-ark/)
 - [Tower of Babel](../tower-of-babel/)
 - [Star of David](../star-of-david/)

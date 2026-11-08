@@ -175,7 +175,7 @@ Pangaea's role as the antediluvian supercontinent connects to several specific a
 - [Noah's Ark](../noahs-ark/)
 - [Deluge](../deluge/)
 - [Antediluvian](../antediluvian/)
-- [Nephilim](../nephilim/)
+- [Nephilim](/wiki/nephilim/)
 - [Age of Scorpio](../timeline/age-of-scorpio/)
 - [Age of Libra](../timeline/age-of-libra/)
 - [Age of Virgo](../timeline/age-of-virgo/)

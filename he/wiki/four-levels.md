@@ -744,7 +744,7 @@ The corpus does not require rejecting all of the mainstream explanatory framewor
 - [Swastika](../swastika/)
 - [Council of the Eternals](../council-of-the-eternals/)
 - [Tree of Life](../tree-of-life/)
-- [Jean Sendy](../jean-sendy/)
+- [Jean Sendy](/wiki/jean-sendy/)
 
 ## References
 

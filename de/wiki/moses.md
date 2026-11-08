@@ -304,7 +304,7 @@ The framework reads the Council of the Eternals account as supporting the broade
 
 The Moses entry connects to a substantial number of other corpus entries, more than any other single biographical figure.
 
-**The Ark of the Covenant.** The Ark's detailed operational reading is developed in the dedicated [Ark of the Covenant](../ark-of-the-covenant/) entry; the Moses entry establishes the Ark's origin context within the Sinai-period operational installation.
+**The Ark of the Covenant.** The Ark's detailed operational reading is developed in the dedicated [Ark of the Covenant](/wiki/ark-of-the-covenant/) entry; the Moses entry establishes the Ark's origin context within the Sinai-period operational installation.
 
 **The Menorah.** The Menorah's seven-branched configuration is read in the dedicated [Menorah](../menorah/) entry as preserving operational memory of the seven Elohim bases on elevated terrain (per the Vorilhon source material); the Moses entry establishes the Menorah's origin within the Tabernacle specifications.
 
@@ -354,7 +354,7 @@ The Moses entry surfaces several open questions for the framework's broader inte
 - [Mount Nebo](../mount-nebo/)
 - [Burning Bush](../burning-bush/)
 - [The Tabernacle](../tabernacle/)
-- [Ark of the Covenant](../ark-of-the-covenant/)
+- [Ark of the Covenant](/wiki/ark-of-the-covenant/)
 - [Menorah](../menorah/)
 - [Bronze Serpent](../bronze-serpent/) / [Nehushtan](../nehushtan/)
 - [Pillar of Cloud and Fire](../pillar-of-cloud-and-fire/)
@@ -365,7 +365,7 @@ The Moses entry surfaces several open questions for the framework's broader inte
 - [Sodom and Gomorrah](../sodom-and-gomorrah/)
 - [Abraham](../abraham/)
 - [Elijah](../elijah/)
-- [Ezekiel](../ezekiel/)
+- [Ezekiel](/wiki/ezekiel/)
 - [Enoch](../enoch/)
 - [Jesus](../jesus/)
 - [Muhammad](../muhammad/)

@@ -335,7 +335,7 @@ Wheel of Heaven の枠組み内におけるヤハウェの具体的な役割は�
 - [エリヤ](../elijah/)
 - [イエス](../jesus/)
 - [ラエル](../rael/)
-- [*デザイナーからのメッセージ*](../message-from-the-designers/)
+- [*デザイナーからのメッセージ*](/wiki/message-from-the-designers/)
 - [テトラグラマトン](../tetragrammaton/)
 - [創世記](../genesis/)
 - [聖書](../bible/)

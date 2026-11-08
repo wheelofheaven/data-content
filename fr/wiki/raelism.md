@@ -641,8 +641,8 @@ L'explication savante dominante — qui traite généralement le raëlisme à tr
 - [Ère des Poissons](../timeline/age-of-pisces/)
 - [Seuil atomique](../atomic-threshold/)
 - [Arbre de vie](../tree-of-life/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 
 ## Références

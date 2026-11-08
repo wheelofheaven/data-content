@@ -13,7 +13,7 @@ entry_type = "concept"
 alternative_names = ["生命之樹", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "永生之樹", "不朽之樹", "長壽技術", "細胞轉移技術"]
 timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
-    { title = "知識之樹", path = "wiki/tree-of-knowledge", description = "並列的伊甸之樹 —— 受限的科學知識檔案,與長壽生物技術有別。" },
+    { title = "知識之樹", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "並列的伊甸之樹 —— 受限的科學知識檔案,與長壽生物技術有別。" },
     { title = "大洪水之前", path = "wiki/antediluvian", description = "其族長壽命(亞當 930、瑪土撒拉 969)為框架讀為生命之樹作業紀錄的時期。" },
     { title = "永恆者議會", path = "wiki/council-of-the-eternals", description = "由該技術成熟之複製—記憶轉移形態所維繫的永恆者群體。" },
     { title = "伊甸", path = "wiki/eden", description = "生命之樹作為受限基礎設施所在的設施。" },
@@ -517,7 +517,7 @@ principal_framework_source = "*道出真相之書*(沃里勒翁/雷爾,1974),第
 
 兩樹於《創世記》敘事中成對,因其為伊甸設施兩項主要之受限取用資源,皆受原始禁令所制。伊甸揭露事件(於[蛇](../serpent/)條目中處理)涉及具體對知識之樹之取用,而非生命之樹 —— 揭露後對生命之樹之禁令(《創世記》3:22–24)為議會之具體回應,以防止人類於剛取得之知識之外另行取得長壽。
 
-對知識之樹之詳細處理見於[知識之樹](../tree-of-knowledge/)條目。
+對知識之樹之詳細處理見於[知識之樹](../tree-of-the-knowledge-of-good-and-evil/)條目。
 
 ### 生命之樹 vs. 復活技術
 

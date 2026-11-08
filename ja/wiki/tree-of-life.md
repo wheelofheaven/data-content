@@ -13,7 +13,7 @@ entry_type = "concept"
 alternative_names = ["生命の樹", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "永遠の生命の樹", "不死の樹", "長寿技術", "細胞移転技術"]
 timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
-    { title = "知識の樹", path = "wiki/tree-of-knowledge", description = "並行するエデンの樹 ― 制限された科学的知識のアーカイブであり、長寿バイオテクノロジーとは異なる。" },
+    { title = "知識の樹", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "並行するエデンの樹 ― 制限された科学的知識のアーカイブであり、長寿バイオテクノロジーとは異なる。" },
     { title = "大洪水以前", path = "wiki/antediluvian", description = "本枠組みが生命の樹の運用記録として読む族長たちの寿命(アダム930年、メトシェラ969年)を持つ期間。" },
     { title = "永遠の評議会", path = "wiki/council-of-the-eternals", description = "技術の成熟したクローン化・記憶移転形態によって維持される永遠者の共同体。" },
     { title = "エデン", path = "wiki/eden", description = "生命の樹が制限されたインフラであった施設。" },
@@ -517,7 +517,7 @@ YHWH-エロヒムは、見て好ましく食べるに良いあらゆる樹を地
 
 これらの樹が創世記の物語において対をなすのは、それらがエデン施設の二つの主要な制限アクセス資源であり、両者とも本来の禁止の対象であったからである。エデンの開示事件([蛇](../serpent/)の項目で扱う)は、生命の樹ではなく具体的に知識の樹へのアクセスを含んでいた ― 生命の樹への開示後の禁止(創世記3:22-24)は、人間がたった今獲得した知識に加えて長寿を獲得することを防ぐための評議会の具体的な応答であった。
 
-知識の樹の詳細な取り扱いは[知識の樹](../tree-of-knowledge/)の項目に置かれる。
+知識の樹の詳細な取り扱いは[知識の樹](../tree-of-the-knowledge-of-good-and-evil/)の項目に置かれる。
 
 ### 生命の樹 対 復活技術
 

@@ -1,0 +1,10 @@
++++
+title = "Making Mars Habitable"
+path = "/fr/sources/making-mars-habitable/"
+template = "source-page.html"
+description = "The foundational technical proposal for Mars terraforming via greenhouse gas warming and atmospheric thickening."
+
+[extra]
+source_id = "making-mars-habitable"
+translation_status = "en_only"
++++

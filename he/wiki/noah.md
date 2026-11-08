@@ -100,7 +100,7 @@ The figure has direct equivalents across the principal religious-linguistic trad
 
 ### Corpus-internal usage
 
-The Wheel of Heaven corpus uses **Noah** as principal English designation, with Hebrew transliteration *Noaḥ* registered where Hebrew-textual content is in view. The substantive corpus engagement with Mesopotamian parallel figures (Atra-ḫasīs, Ziusudra, Utnapishtim) lives principally in the [Atra-ḫasīs](../atra-hasis/), [Epic of Gilgamesh](../epic-of-gilgamesh/), and [Sumerian King List](../sumerian-king-list/) entries when written.
+The Wheel of Heaven corpus uses **Noah** as principal English designation, with Hebrew transliteration *Noaḥ* registered where Hebrew-textual content is in view. The substantive corpus engagement with Mesopotamian parallel figures (Atra-ḫasīs, Ziusudra, Utnapishtim) lives principally in the [Atra-ḫasīs](../atra-hasis/), [Epic of Gilgamesh](../epic-of-gilgamesh/), and [Sumerian King List](/wiki/sumerian-king-list/) entries when written.
 
 ## The biblical-textual content
 
@@ -292,7 +292,7 @@ The substantive substantial structural parallel matters editorially. The substan
 
 ### The Vorilhon source-textual corpus
 
-The substantive substantial doctrine is articulated principally in *The Book Which Tells the Truth* (1974), with substantial subsequent corpus engagement across the broader Vorilhon material. The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](../message-from-the-designers/) entries.
+The substantive substantial doctrine is articulated principally in *The Book Which Tells the Truth* (1974), with substantial subsequent corpus engagement across the broader Vorilhon material. The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](/wiki/message-from-the-designers/) entries.
 
 ## Distinguishing from adjacent concepts
 
@@ -407,7 +407,7 @@ The substantial ancient-astronaut and alternative-history tradition registers su
 
 - **Zecharia Sitchin**'s substantial *The Twelfth Planet* (Stein and Day, 1976) and substantial subsequent twelve-book *Earth Chronicles* series register substantive substantial principal articulation of substantive Sumerian-Anunnaki extraterrestrial-engagement reading. Sitchin's substantive substantial flood engagement registers substantive substantial flood as substantive substantial Anunnaki-political-conflict event with substantive substantial parallel structural content to substantive substantial corpus framework (though substantive substantial Sitchin's specific cosmological framework operates substantively distinctly).
 - **Erich von Däniken**'s substantial *Chariots of the Gods?* (Econ-Verlag, 1968) registers substantive substantial popular-cultural ancient-astronaut tradition with substantive substantial flood-narrative engagement.
-- **Mauro Biglino**'s substantial Italian-language scholarship registers substantive substantial detailed engagement with substantive substantial Hebrew Bible content through substantive substantial extraterrestrial-engagement frames. Biglino's substantive substantial work is treated systematically in the [Mauro Biglino](../mauro-biglino/) entry when written.
+- **Mauro Biglino**'s substantial Italian-language scholarship registers substantive substantial detailed engagement with substantive substantial Hebrew Bible content through substantive substantial extraterrestrial-engagement frames. Biglino's substantive substantial work is treated systematically in the [Mauro Biglino](/wiki/mauro-biglino/) entry when written.
 
 The substantive substantial Wheel of Heaven corpus operates substantively at substantive substantial intersection of substantive substantial alternative-history tradition and substantive substantial systematic-theological engagement, with substantive substantial principal differentiation from substantive substantial broader ancient-astronaut tradition through substantive substantial systematic corpus framework rather than substantively substantial speculative-fragmentary engagement.
 
@@ -537,17 +537,17 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Elohim](../elohim/)
 - [Yahweh](../yahweh/)
 - [Satan](../satan/)
-- [Watchers](../watchers/)
+- [Watchers](/wiki/watchers/)
 - [Plurality of Gods](../plurality-of-gods/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Genesis](../genesis/)
 - [Atra-ḫasīs](../atra-hasis/)
 - [Epic of Gilgamesh](../epic-of-gilgamesh/)
-- [Sumerian King List](../sumerian-king-list/)
+- [Sumerian King List](/wiki/sumerian-king-list/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 
 ## References
 

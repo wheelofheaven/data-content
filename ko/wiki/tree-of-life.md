@@ -13,7 +13,7 @@ entry_type = "concept"
 alternative_names = ["생명나무", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "영원한 생명의 나무", "불멸의 나무", "장수 기술", "세포 이식 기술"]
 timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
-    { title = "지식의 나무", path = "wiki/tree-of-knowledge", description = "병행하는 에덴의 나무 — 장수 생명공학과 구별되는, 제한된 과학 지식 아카이브." },
+    { title = "지식의 나무", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "병행하는 에덴의 나무 — 장수 생명공학과 구별되는, 제한된 과학 지식 아카이브." },
     { title = "대홍수 이전 시대", path = "wiki/antediluvian", description = "프레임워크가 생명나무의 운영 기록으로 읽는, 족장들의 수명(아담 930년, 므두셀라 969년)을 가진 시기." },
     { title = "영원자들의 의회", path = "wiki/council-of-the-eternals", description = "이 기술의 성숙한 복제-기억 이식 형태에 의해 유지되는 영원자 공동체." },
     { title = "에덴", path = "wiki/eden", description = "생명나무가 제한된 기반시설이었던 설비." },
@@ -517,7 +517,7 @@ YHWH-Elohim께서 보기에 아름답고 먹기에 좋은 모든 나무를 땅�
 
 이 나무들은 에덴 설비의 두 주된 제한된-접근 자원이며 양자 모두 원래 금지의 대상이었기에 창세기 서사에서 짝을 이룬다. 에덴 폭로 사건([뱀](../serpent/) 항목에서 다루어짐)은 구체적으로 생명나무가 아니라 지식의 나무에 대한 접근을 수반했다 — 생명나무에 대한 폭로 이후 금지(창세기 3:22–24)는 인간이 방금 획득한 지식에 더하여 장수를 획득하는 것을 막기 위한 의회의 특정 응답이었다.
 
-지식의 나무에 대한 상세한 다룸은 [지식의 나무](../tree-of-knowledge/) 항목에 있다.
+지식의 나무에 대한 상세한 다룸은 [지식의 나무](../tree-of-the-knowledge-of-good-and-evil/) 항목에 있다.
 
 ### 생명나무 대 부활 기술
 

@@ -500,10 +500,10 @@ The corpus's working position on the comparative-religion question is that the g
 - [Transfiguration](../transfiguration/)
 - [Trinity](../trinity/)
 - [Logos](../logos/)
-- [Dead Sea Scrolls](../dead-sea-scrolls/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [*Hamlet's Mill*](../hamlets-mill/)
+- [Dead Sea Scrolls](/wiki/dead-sea-scrolls/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
+- [*Hamlet's Mill*](/wiki/hamlets-mill/)
 
 ## References
 

@@ -672,8 +672,8 @@ The corpus does not require rejecting all of the mainstream scholarly framework.
 - [Raëlian Symbol of Infinity](../raelian-symbol/)
 - [Star of David](../star-of-david/)
 - [Swastika](../swastika/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 
 ## References

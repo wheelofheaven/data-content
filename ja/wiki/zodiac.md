@@ -311,7 +311,7 @@ Each age entry treats the specific symbolic-iconographic content of that sign wi
 
 ### The Hamlet's Mill framework
 
-The detailed treatment of *Hamlet's Mill* as foundational scholarly anchor lives in the [Hamlet's Mill](../hamlets-mill/) entry when written. The substantial Santillana / von Dechend reconstruction of cross-cultural zodiacal-precessional encoding operates substantively within the broader framework.
+The detailed treatment of *Hamlet's Mill* as foundational scholarly anchor lives in the [Hamlet's Mill](/wiki/hamlets-mill/) entry when written. The substantial Santillana / von Dechend reconstruction of cross-cultural zodiacal-precessional encoding operates substantively within the broader framework.
 
 ### The Hebrew Bible engagement
 
@@ -418,7 +418,7 @@ The mainstream Western astrological tradition operates principally through the t
 
 ### The *Hamlet's Mill* tradition
 
-The detailed treatment of *Hamlet's Mill* lives in the [Hamlet's Mill](../hamlets-mill/) entry when written. The substantial Santillana / von Dechend reconstruction operates substantively as foundational scholarly anchor for the framework's cross-cultural zodiacal engagement. The principal subsequent engagement (Cruttenden, Sellers, Hawkins, Aveni, Krupp) extends the broader framework substantively.
+The detailed treatment of *Hamlet's Mill* lives in the [Hamlet's Mill](/wiki/hamlets-mill/) entry when written. The substantial Santillana / von Dechend reconstruction operates substantively as foundational scholarly anchor for the framework's cross-cultural zodiacal engagement. The principal subsequent engagement (Cruttenden, Sellers, Hawkins, Aveni, Krupp) extends the broader framework substantively.
 
 ### David Ulansey's Mithraic zodiac scholarship
 
@@ -578,7 +578,7 @@ The corpus does not require rejecting all of the mainstream explanatory framewor
 - [World Age](../world-age/)
 - [Doubled Signature](../doubled-signature/)
 - [Cosmic Chain](../cosmic-chain/)
-- [Hamlet's Mill](../hamlets-mill/)
+- [Hamlet's Mill](/wiki/hamlets-mill/)
 - [Age of Capricorn](../age-of-capricorn/)
 - [Age of Sagittarius](../age-of-sagittarius/)
 - [Age of Scorpio](../age-of-scorpio/)
@@ -595,7 +595,7 @@ The corpus does not require rejecting all of the mainstream explanatory framewor
 - [Genesis](../genesis/)
 - [Mithraic Mysteries](../mithraic-mysteries/)
 - [Apocalypse](../apocalypse/)
-- [Jean Sendy](../jean-sendy/)
+- [Jean Sendy](/wiki/jean-sendy/)
 
 ## References
 

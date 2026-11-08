@@ -215,7 +215,7 @@ Sendy's substantive distinctive contributions:
 - **Mapping of Genesis "days" onto zodiacal ages** — substantive substantial principal framework that substantive corpus adopts and substantively elaborates
 - **Cosmic-evolutionary framework** — substantive substantial cycle-of-creation engagement that substantively prefigures substantive Vorilhon's substantive substantial Cosmic Chain content
 
-The substantive corpus operates substantively as substantive substantial **Sendy-Vorilhon synthesis** — substantive Sendy's substantive substantial systematic interpretive framework integrated with substantive Vorilhon's substantive substantial direct revelation. Substantive substantial detailed treatment of substantive Sendy lives in the [Jean Sendy](../jean-sendy/) entry when written.
+The substantive corpus operates substantively as substantive substantial **Sendy-Vorilhon synthesis** — substantive Sendy's substantive substantial systematic interpretive framework integrated with substantive Vorilhon's substantive substantial direct revelation. Substantive substantial detailed treatment of substantive Sendy lives in the [Jean Sendy](/wiki/jean-sendy/) entry when written.
 
 ### Erich von Däniken (1935– ) — principal popularizer
 
@@ -290,7 +290,7 @@ Substantive substantial corpus position on Sitchin: Sitchin operates substantive
 
 Biglino's substantive substantial principal methodology operates substantively through substantive substantial direct Hebrew-textual engagement. Biglino substantively argues substantive substantial Hebrew Bible substantively does not engage with substantive substantial transcendent monotheistic God but substantively with substantive substantial Elohim (plural) substantively understood as substantive substantial physical extraterrestrial-or-advanced-civilization figures. Substantive substantial Biglino methodology is more closely aligned with substantive corpus approach than substantive substantial broader popularizer engagement.
 
-Substantive substantial corpus position on Biglino: Biglino operates substantively as substantive substantial significant contemporary contributor to substantive substantial broader textual-philological engagement with substantive Hebrew Bible content. Substantive substantial detailed treatment of Biglino lives in the [Mauro Biglino](../mauro-biglino/) entry when written.
+Substantive substantial corpus position on Biglino: Biglino operates substantively as substantive substantial significant contemporary contributor to substantive substantial broader textual-philological engagement with substantive Hebrew Bible content. Substantive substantial detailed treatment of Biglino lives in the [Mauro Biglino](/wiki/mauro-biglino/) entry when written.
 
 ### Paul Anthony Wallis — contemporary engagement
 
@@ -397,7 +397,7 @@ Substantive Ancient Astronaut Hypothesis operates substantively in substantive s
 
 ### The Vorilhon source-textual corpus
 
-The substantive substantial corpus reading is articulated principally through substantive substantial Vorilhon source material (substantive substantial 1974 *Le Livre qui dit la vérité*, substantive substantial 1975 *Les Extra-Terrestres m'ont emmené sur leur planète*, substantive 1979 *Accueillir les Extra-Terrestres*, substantive consolidated *Message from the Designers*, 2005). Substantive substantial detailed treatment of broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](../message-from-the-designers/) entries.
+The substantive substantial corpus reading is articulated principally through substantive substantial Vorilhon source material (substantive substantial 1974 *Le Livre qui dit la vérité*, substantive substantial 1975 *Les Extra-Terrestres m'ont emmené sur leur planète*, substantive 1979 *Accueillir les Extra-Terrestres*, substantive consolidated *Message from the Designers*, 2005). Substantive substantial detailed treatment of broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](/wiki/message-from-the-designers/) entries.
 
 ## Distinguishing from adjacent concepts
 
@@ -628,11 +628,11 @@ The framework's distinctive contribution within this broader comparative landsca
 - [The Truth](../the-truth/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
+- [Jean Sendy](/wiki/jean-sendy/)
+- [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [Hamlet's Mill](../hamlets-mill/)
+- [Hamlet's Mill](/wiki/hamlets-mill/)
 - [Elohim](../elohim/)
 - [Yahweh](../yahweh/)
 - [Plurality of Gods](../plurality-of-gods/)

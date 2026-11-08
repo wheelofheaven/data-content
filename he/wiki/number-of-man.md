@@ -366,7 +366,7 @@ The substantive substantial Number of Man operates substantively within substant
 
 ### The Vorilhon source-textual corpus
 
-The substantive substantial doctrine is articulated principally in *Let Us Welcome the Extra-Terrestrials* (1979) with substantial subsequent corpus contextualization. The detailed treatment of broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](../message-from-the-designers/) entries.
+The substantive substantial doctrine is articulated principally in *Let Us Welcome the Extra-Terrestrials* (1979) with substantial subsequent corpus contextualization. The detailed treatment of broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](/wiki/message-from-the-designers/) entries.
 
 ## Distinguishing from adjacent concepts
 
@@ -636,9 +636,9 @@ The framework's distinctive contribution within this broader comparative landsca
 - [Yahweh](../yahweh/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
+- [Message from the Designers](/wiki/message-from-the-designers/)
 - [Eden](../eden/)
-- [Planet of the Eternals](../planet-of-the-eternals/)
+- [Planet of the Eternals](../elohim-home-planet/)
 - [Resurrection](../resurrection/)
 
 ## References
