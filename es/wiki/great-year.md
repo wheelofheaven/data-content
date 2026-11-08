@@ -59,6 +59,8 @@ framework_significance = "Marco cronológico fundacional del corpus; aproximadam
 key_external_reference = "Santillana, Giorgio de, y Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969."
 +++
 
+{{ diagram(name="great-year", hero=true, alt="Una rueda dividida en doce eras iguales, una por signo zodiacal, que muestra el Gran Año de ~25.772 años; un puntero marca la actual frontera entre Piscis y Acuario.", caption="El Gran Año como rueda de doce **eras** (Grandes Meses) de ~2.160 años cada una. La precesión hace retroceder el equinoccio a través del zodíaco a razón de aproximadamente 1° cada 72 años; ahora se encuentra en la cúspide Piscis → Acuario, entrando en la **Era de Acuario**.") }}
+
 El **Gran Año** — también llamado **Año Platónico**, **Magnus Annus**, **Año Precesional** o **Año Cósmico** — es el período de un ciclo completo de precesión axial: el tiempo que tarda el eje de rotación de la Tierra en trazar un cono completo frente al fondo de las estrellas fijas, equivalente a una vuelta del punto vernal alrededor de la eclíptica. Es el más largo de los relojes naturales visibles para la astronomía a simple vista, y en el marco {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} es el reloj maestro: la vuelta completa de la que las doce [Eras del Mundo](../world-age/) son las doceavas partes, y el marco dentro del cual el corpus fecha los acontecimientos del proyecto de los Elohim.
 
 Para su duración se usan dos cifras, y la diferencia entre ellas es pequeña. La astronomía moderna mide el ciclo en unos **25.772 años**, a partir de una tasa precesional actual cercana a 50,29 segundos de arco por año. La tradición astrológica más antigua lo redondea a **25.920 años**, tomando la antigua observación de que los equinoccios se desplazan aproximadamente un grado hacia el oeste cada 72 años:
@@ -78,8 +80,6 @@ La cifra de 72 años por grado que da el ciclo tradicional de 25.920 años está
 - el **[Gran Mes](../great-month/)** — una doceava parte, unos 2.160 años, un signo zodiacal de la eclíptica
 - el **Gran Día** — la tricentésima sexagésima parte, unos 72 años, un grado de la eclíptica y aproximadamente una vida humana
 - y, con menos frecuencia, la **Gran Hora** de unos tres años
-
-{{ diagram(name="great-year", alt="Una rueda dividida en doce eras iguales, una por signo zodiacal, que muestra el Gran Año de ~25.772 años; un puntero marca la actual frontera entre Piscis y Acuario.", caption="El Gran Año como rueda de doce **eras** (Grandes Meses) de ~2.160 años cada una. La precesión hace retroceder el equinoccio a través del zodíaco a razón de aproximadamente 1° cada 72 años; ahora se encuentra en la cúspide Piscis → Acuario, entrando en la **Era de Acuario**.") }}
 
 La correspondencia entre un grado de precesión, setenta y dos años y una sola vida humana es una a la que el marco vuelve una y otra vez: una vida es al Gran Año lo que un día es al año. La tasa exacta, y la elección entre las cifras de 25.772 y 25.920 años, es una de las cuestiones abiertas que el corpus mantiene en lugar de resolver; la entrada [Precesión](../precession/) expone ambas posturas.
 

@@ -105,6 +105,8 @@ governance_documents = "Project Charter; Editorial Style Guide; Chronology Rules
 status_in_framework = "Foundational meta-concept; the entry that articulates what the broader project IS, what it draws on, what it claims, and how it operates"
 +++
 
+{{ diagram(name="wheel-of-heaven", hero=true, alt="A twelve-spoke wheel of the precessional ages, each read as a phase of the Elohim project — Leo (humans made), Cancer (Eden), Gemini (the Flood), Taurus (Babel), Aries (the prophets), Pisces (the gospels), and Aquarius, the current age.", caption="The **Wheel of Heaven** proper: the twelve ~2,160-year precessional ages, each read as a phase of the Elohim project. Ages advance clockwise; the equinox now stands at the Pisces → Aquarius cusp.") }}
+
 **Wheel of Heaven** names two things that belong together but should not be
 confused. The first is a celestial image: the slow turning of the whole sky
 produced by the [precession of the equinoxes](../precession/) — the roughly
@@ -142,8 +144,6 @@ Thuban in Draco around 2,800 BCE, points near Polaris today, and will point near
 Vega around 13,700 CE before the wheel carries it back again. The full astronomy
 is set out in the [Precession](../precession/), [Great Year](../great-year/),
 and [Zodiac](../zodiac/) entries.
-
-{{ diagram(name="wheel-of-heaven", alt="A twelve-spoke wheel of the precessional ages, each read as a phase of the Elohim project — Leo (humans made), Cancer (Eden), Gemini (the Flood), Taurus (Babel), Aries (the prophets), Pisces (the gospels), and Aquarius, the current age.", caption="The **Wheel of Heaven** proper: the twelve ~2,160-year precessional ages, each read as a phase of the Elohim project. Ages advance clockwise; the equinox now stands at the Pisces → Aquarius cusp.") }}
 
 The picture of the heavens as a turning wheel, or a great mill grinding, is old
 and widely scattered. Giorgio de Santillana and Hertha von Dechend's *Hamlet's

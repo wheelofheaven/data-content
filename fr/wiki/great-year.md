@@ -59,6 +59,8 @@ framework_significance = "Cadre chronologique fondamental du corpus ; selon la 
 key_external_reference = "Santillana, Giorgio de, et Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969."
 +++
 
+{{ diagram(name="great-year", hero=true, alt="Une roue divisée en douze Âges égaux, un par signe du zodiaque, représentant la Grande Année d'environ 25 772 ans ; un repère marque la frontière actuelle entre les Poissons et le Verseau.", caption="La Grande Année comme une roue de douze **Âges** (Grands Mois) d'environ 2 160 ans chacun. La précession fait reculer l'équinoxe à travers le zodiaque d'environ 1° tous les 72 ans ; il se trouve aujourd'hui à la cuspide Poissons → Verseau et entre dans l'**Ère du Verseau**.") }}
+
 La **Grande Année** — appelée aussi **Année platonicienne**, **Magnus Annus**, **Année précessionnelle** ou **Année cosmique** — est la période d'un cycle complet de précession axiale : le temps que met l'axe de rotation de la Terre à tracer un cône complet sur le fond des étoiles fixes, ce qui équivaut à un tour complet du point vernal le long de l'écliptique. C'est la plus longue des horloges naturelles accessibles à l'astronomie à l'œil nu et, dans le cadre {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %}, c'est l'horloge maîtresse : le tour complet dont les douze [Âges du monde](../world-age/) sont les douzièmes, et le cadre dans lequel le corpus date les événements du projet des Élohim.
 
 Deux chiffres sont en usage pour sa durée, et l'écart entre eux est faible. L'astronomie moderne mesure le cycle à environ **25 772 ans**, d'après un taux de précession actuel voisin de 50,29 secondes d'arc par an. La tradition astrologique plus ancienne l'arrondit à **25 920 ans**, d'après l'observation antique selon laquelle les équinoxes glissent d'environ un degré vers l'ouest tous les 72 ans :
@@ -78,8 +80,6 @@ Le chiffre de 72 ans par degré, qui donne le cycle traditionnel de 25 920 ans
 - le **[Grand Mois](../great-month/)** — un douzième, environ 2 160 ans, un signe zodiacal de l'écliptique
 - le **Grand Jour** — un trois-cent-soixantième, environ 72 ans, un degré de l'écliptique et à peu près une vie humaine
 - et, plus rarement employée, la **Grande Heure** d'environ trois ans
-
-{{ diagram(name="great-year", alt="Une roue divisée en douze Âges égaux, un par signe du zodiaque, représentant la Grande Année d'environ 25 772 ans ; un repère marque la frontière actuelle entre les Poissons et le Verseau.", caption="La Grande Année comme une roue de douze **Âges** (Grands Mois) d'environ 2 160 ans chacun. La précession fait reculer l'équinoxe à travers le zodiaque d'environ 1° tous les 72 ans ; il se trouve aujourd'hui à la cuspide Poissons → Verseau et entre dans l'**Ère du Verseau**.") }}
 
 La correspondance entre un degré de précession, soixante-douze ans et une seule vie humaine est une idée à laquelle le cadre revient : une vie est à la Grande Année ce qu'un jour est à l'année. Le taux exact, et le choix entre les chiffres de 25 772 et de 25 920 ans, font partie des questions ouvertes que le corpus porte plutôt qu'il ne les tranche ; l'entrée [Précession](../precession/) expose les deux positions.
 

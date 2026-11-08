@@ -105,6 +105,8 @@ governance_documents = "Carta del proyecto; Guía de estilo editorial; Reglas de
 status_in_framework = "Metaconcepto fundacional; la entrada que articula qué ES el proyecto en su conjunto, en qué se apoya, qué afirma y cómo opera"
 +++
 
+{{ diagram(name="wheel-of-heaven", hero=true, alt="Una rueda de doce radios con las eras precesionales, cada una leída como una fase del proyecto de los Elohim — Leo (creación de los humanos), Cáncer (el Edén), Géminis (el Diluvio), Tauro (Babel), Aries (los profetas), Piscis (los evangelios) y Acuario, la era actual.", caption="La **Wheel of Heaven** propiamente dicha: las doce eras precesionales de ~2.160 años, cada una leída como una fase del proyecto de los Elohim. Las eras avanzan en el sentido de las agujas del reloj; el equinoccio se encuentra ahora en la cúspide Piscis → Acuario.") }}
+
 **Wheel of Heaven** designa dos cosas que van juntas, pero que no deben
 confundirse. La primera es una imagen celeste: el lento giro de todo el cielo
 producido por la [precesión de los equinoccios](../precession/) — el ciclo de
@@ -145,8 +147,6 @@ apunta cerca de Polaris hoy, y apuntará cerca de Vega hacia el 13.700 d. C., an
 de que la rueda lo lleve de nuevo de vuelta. La astronomía completa se expone en
 las entradas [Precesión](../precession/), [Gran Año](../great-year/) y
 [Zodíaco](../zodiac/).
-
-{{ diagram(name="wheel-of-heaven", alt="Una rueda de doce radios con las eras precesionales, cada una leída como una fase del proyecto de los Elohim — Leo (creación de los humanos), Cáncer (el Edén), Géminis (el Diluvio), Tauro (Babel), Aries (los profetas), Piscis (los evangelios) y Acuario, la era actual.", caption="La **Wheel of Heaven** propiamente dicha: las doce eras precesionales de ~2.160 años, cada una leída como una fase del proyecto de los Elohim. Las eras avanzan en el sentido de las agujas del reloj; el equinoccio se encuentra ahora en la cúspide Piscis → Acuario.") }}
 
 La imagen de los cielos como una rueda que gira, o como un gran molino que muele,
 es antigua y está muy extendida. *Hamlet's Mill* (1969), de Giorgio de Santillana

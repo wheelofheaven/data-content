@@ -105,6 +105,8 @@ governance_documents = "Charte du projet ; Guide de style éditorial ; Règles d
 status_in_framework = "Méta-concept fondateur ; l'entrée qui expose ce qu'EST le projet plus large, ce sur quoi il s'appuie, ce qu'il affirme et comment il fonctionne"
 +++
 
+{{ diagram(name="wheel-of-heaven", hero=true, alt="Une roue à douze rayons des ères précessionnelles, chacune lue comme une phase du projet des Élohim — le Lion (création des humains), le Cancer (l'Éden), les Gémeaux (le Déluge), le Taureau (Babel), le Bélier (les prophètes), les Poissons (les évangiles) et le Verseau, l'ère actuelle.", caption="La **Wheel of Heaven** proprement dite : les douze ères précessionnelles d'environ 2 160 ans, chacune lue comme une phase du projet des Élohim. Les ères avancent dans le sens des aiguilles d'une montre ; l'équinoxe se tient aujourd'hui à la cuspide Poissons → Verseau.") }}
+
 **Wheel of Heaven** désigne deux choses qui vont ensemble mais qu'il ne faut pas
 confondre. La première est une image céleste : la lente rotation de tout le ciel
 produite par la [précession des équinoxes](../precession/) — le cycle d'environ
@@ -145,8 +147,6 @@ rotation : l'axe pointait près de Thuban, dans le Dragon, vers 2 800 avant notr
 de notre ère, avant que la roue ne le ramène. L'astronomie complète est exposée
 dans les entrées [Précession](../precession/), [Grande Année](../great-year/) et
 [Zodiaque](../zodiac/).
-
-{{ diagram(name="wheel-of-heaven", alt="Une roue à douze rayons des ères précessionnelles, chacune lue comme une phase du projet des Élohim — le Lion (création des humains), le Cancer (l'Éden), les Gémeaux (le Déluge), le Taureau (Babel), le Bélier (les prophètes), les Poissons (les évangiles) et le Verseau, l'ère actuelle.", caption="La **Wheel of Heaven** proprement dite : les douze ères précessionnelles d'environ 2 160 ans, chacune lue comme une phase du projet des Élohim. Les ères avancent dans le sens des aiguilles d'une montre ; l'équinoxe se tient aujourd'hui à la cuspide Poissons → Verseau.") }}
 
 L'image des cieux comme une roue qui tourne, ou comme un grand moulin qui broie,
 est ancienne et très répandue. *Le Moulin d'Hamlet* (1969) de Giorgio de

@@ -59,6 +59,8 @@ framework_significance = "Grundlegender chronologischer Rahmen des Korpus; nach 
 key_external_reference = "Santillana, Giorgio de, und Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969."
 +++
 
+{{ diagram(name="great-year", hero=true, alt="Ein in zwölf gleiche Zeitalter geteiltes Rad, eines pro Tierkreiszeichen, das das Große Jahr von ~25.772 Jahren zeigt; ein Zeiger markiert die gegenwärtige Grenze zwischen Fischen und Wassermann.", caption="Das Große Jahr als Rad aus zwölf **Zeitaltern** (Großen Monaten) von je ~2.160 Jahren. Die Präzession trägt das Äquinoktium rückwärts durch den Tierkreis, etwa 1° alle 72 Jahre; es steht jetzt an der Schwelle Fische → Wassermann und tritt in das **Zeitalter des Wassermanns** ein.") }}
+
 Das **Große Jahr** — auch **Platonisches Jahr**, **Magnus Annus**, **Präzessionsjahr** oder **Kosmisches Jahr** genannt — ist die Dauer eines vollständigen Zyklus der Achspräzession: die Zeit, die die Rotationsachse der Erde braucht, um vor dem Hintergrund der Fixsterne einen vollen Kegel zu beschreiben; das entspricht einem Umlauf des Frühlingspunkts um die Ekliptik. Es ist die längste der natürlichen Uhren, die der Astronomie mit bloßem Auge zugänglich sind, und im Rahmen von {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} ist es die Hauptuhr: die volle Umdrehung, deren Zwölftel die zwölf [Weltzeitalter](../world-age/) sind, und der Rahmen, in dem der Korpus die Ereignisse des Elohim-Projekts datiert.
 
 Für seine Länge sind zwei Werte in Gebrauch, und der Unterschied zwischen ihnen ist gering. Die moderne Astronomie misst den Zyklus mit etwa **25.772 Jahren**, ausgehend von einer gegenwärtigen Präzessionsrate von rund 50,29 Bogensekunden pro Jahr. Die ältere astrologische Tradition rundet ihn auf **25.920 Jahre**, gewonnen aus der antiken Beobachtung, dass sich die Tagundnachtgleichen etwa alle 72 Jahre um ein Grad nach Westen verschieben:
@@ -78,8 +80,6 @@ Der Wert von 72 Jahren pro Grad, der den traditionellen Zyklus von 25.920 Jahren
 - der **[Große Monat](../great-month/)** — ein Zwölftel, etwa 2.160 Jahre, ein Tierkreiszeichen der Ekliptik
 - der **Große Tag** — ein Dreihundertsechzigstel, etwa 72 Jahre, ein Grad der Ekliptik und ungefähr ein Menschenleben
 - und, seltener verwendet, die **Große Stunde** von etwa drei Jahren
-
-{{ diagram(name="great-year", alt="Ein in zwölf gleiche Zeitalter geteiltes Rad, eines pro Tierkreiszeichen, das das Große Jahr von ~25.772 Jahren zeigt; ein Zeiger markiert die gegenwärtige Grenze zwischen Fischen und Wassermann.", caption="Das Große Jahr als Rad aus zwölf **Zeitaltern** (Großen Monaten) von je ~2.160 Jahren. Die Präzession trägt das Äquinoktium rückwärts durch den Tierkreis, etwa 1° alle 72 Jahre; es steht jetzt an der Schwelle Fische → Wassermann und tritt in das **Zeitalter des Wassermanns** ein.") }}
 
 Die Entsprechung zwischen einem Grad Präzession, zweiundsiebzig Jahren und einem einzelnen Menschenleben ist eine, auf die der Rahmen immer wieder zurückkommt: Ein Leben verhält sich zum Großen Jahr wie ein Tag zum Jahr. Die genaue Rate und die Wahl zwischen den Werten von 25.772 und 25.920 Jahren gehören zu den offenen Fragen, die der Korpus mitführt, statt sie zu entscheiden; der Eintrag [Präzession](../precession/) legt beide Seiten dar.
 

@@ -59,6 +59,8 @@ framework_significance = "Foundational chronological framework for the corpus; a
 key_external_reference = "Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969."
 +++
 
+{{ diagram(name="great-year", hero=true, alt="A wheel divided into twelve equal Ages, one per zodiac sign, showing the ~25,772-year Great Year; a pointer marks the current Pisces-to-Aquarius boundary.", caption="The Great Year as a wheel of twelve **Ages** (Great Months) of ~2,160 years each. Precession carries the equinox backward through the zodiac at roughly 1° every 72 years; it now sits at the Pisces → Aquarius cusp, entering the **Age of Aquarius**.") }}
+
 The **Great Year** — also called the **Platonic Year**, the **Magnus Annus**, the **Precessional Year**, or the **Cosmic Year** — is the period of one complete cycle of axial precession: the time the Earth's rotational axis takes to trace a full cone against the background of fixed stars, equivalent to one circuit of the vernal equinox point around the ecliptic. It is the longest of the natural clocks visible to naked-eye astronomy, and in the {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} framework it is the master clock: the full turn of which the twelve [World Ages](../world-age/) are the twelfths, and the frame within which the corpus dates the events of the Elohim project.
 
 Two figures for its length are in use, and the difference between them is small. Modern astronomy measures the cycle at about **25,772 years**, from a present precessional rate near 50.29 arcseconds per year. The older astrological tradition rounds it to **25,920 years**, taken from the ancient observation that the equinoxes slip about one degree westward every 72 years:
@@ -78,8 +80,6 @@ The 72-years-per-degree figure that gives the traditional 25,920-year cycle is c
 - the **[Great Month](../great-month/)** — one twelfth, about 2,160 years, one zodiacal sign of the ecliptic
 - the **Great Day** — one three-hundred-and-sixtieth, about 72 years, one degree of the ecliptic and roughly one human lifetime
 - and, more rarely used, the **Great Hour** of about three years
-
-{{ diagram(name="great-year", alt="A wheel divided into twelve equal Ages, one per zodiac sign, showing the ~25,772-year Great Year; a pointer marks the current Pisces-to-Aquarius boundary.", caption="The Great Year as a wheel of twelve **Ages** (Great Months) of ~2,160 years each. Precession carries the equinox backward through the zodiac at roughly 1° every 72 years; it now sits at the Pisces → Aquarius cusp, entering the **Age of Aquarius**.") }}
 
 The correspondence between one degree of precession, seventy-two years, and a single human life is one the framework returns to: a lifetime is to the Great Year what a day is to the year. The precise rate, and the choice between the 25,772- and 25,920-year figures, is one of the open questions the corpus carries rather than resolves; the [Precession](../precession/) entry sets out both sides.
 
