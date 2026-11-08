@@ -49,11 +49,11 @@
         "es": "Raelismo",
         "fr": "Raëlisme",
         "he": "ראליזם",
-        "ja": "ラエリアン・ムーブメント",
+        "ja": "ラエル運動",
         "ko": "라엘리즘",
         "ru": "Раэлизм",
-        "zh": "雷尔运动",
-        "zh-Hant": "雷爾運動"
+        "zh": "雷尔派",
+        "zh-Hant": "雷爾派"
       }
     },
     {
@@ -569,7 +569,7 @@
         "ko": "노아",
         "ru": "Ной",
         "zh": "挪亚",
-        "zh-Hant": "諾亞",
+        "zh-Hant": "挪亞",
         "he": "נח"
       },
       "notes": "he: נח (no niqqud in modern usage; נֹחַ with niqqud in liturgical contexts)."
@@ -973,7 +973,10 @@
       "definition": "The organization founded by Claude Vorilhon (Raël) in 1974 to spread the Elohim messages; distinct from Raëlism, the doctrine.",
       "translations": {
         "en": "Raëlian Movement",
-        "ko": "라엘리안 운동"
+        "ko": "라엘리안 운동",
+        "zh": "雷尔运动",
+        "zh-Hant": "雷爾運動",
+        "ja": "ラエリアン・ムーブメント"
       }
     },
     {
@@ -1017,6 +1020,14 @@
       "translations": {
         "en": "Doubled Signature",
         "es": "Signatura doble"
+      }
+    },
+    {
+      "id": "geniocracy",
+      "category": "core",
+      "definition": "",
+      "translations": {
+        "ko": "천재정치"
       }
     }
   ],

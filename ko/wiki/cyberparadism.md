@@ -24,7 +24,7 @@ see_also = [
     { title = "파라디즘", path = "wiki/paradism", description = "사이버파라디즘을 그 미학적·문화적 짝으로 두는 라엘리안 운동의 탈희소성 교리." },
     { title = "황금시대", path = "wiki/golden-age", description = "그 인식이 사이버파라디즘 미학에서 떠오르는 물병자리 시대의 삶의 형태." },
     { title = "새 계명", path = "wiki/new-commandments", description = "파라디즘이, 그리고 그와 함께 사이버파라디즘이 자리하는 물병자리 시대의 프로그램." },
-    { title = "지능정", path = "wiki/geniocracy", description = "같은 프로그램의 통치에 관한 계명." },
+    { title = "천재정치", path = "wiki/geniocracy", description = "같은 프로그램의 통치에 관한 계명." },
     { title = "휴머니타리아니즘", path = "wiki/humanitarianism", description = "같은 프로그램의 재산과 상속에 관한 계명." },
     { title = "에덴", path = "wiki/eden", description = "최초의 역사적 사이버파라디즘으로 읽히는 기원의 실험실." },
     { title = "엘로힘", path = "wiki/elohim", description = "프레임워크가 수천 년 규모에서 사이버파라디즘적이라고 읽는 문명을 지닌 창조자들." },
@@ -329,7 +329,7 @@ Personal Aesthetics Wiki는 사이버파라디즘을 그 하위 범주로 분류
 
 라엘리안 프로그램 안에 놓고 보면, 이것이 사이버파라디즘이 파라디즘 곁에 속하는
 이유입니다. 파라디즘은 [새 계명](../new-commandments/)의 한 부분이며,
-새 계명은 통치를 위한 [지능정](../geniocracy/)과 재산을 위한
+새 계명은 통치를 위한 [천재정치](../geniocracy/)과 재산을 위한
 [휴머니타리아니즘](../humanitarianism/)도 담고 있는 물병자리 시대의 프로그램입니다.
 이들은 함께, 프레임워크가 이 시대가 도달하리라고 예상하는 [황금시대](../golden-age/)를
 묘사합니다. 사이버파라디즘 자체는 계명이 아닙니다. 그것은 정경을 전혀 알지 못하는
@@ -397,7 +397,7 @@ Personal Aesthetics Wiki는 사이버파라디즘을 그 하위 범주로 분류
 - [파라디즘](../paradism/)
 - [황금시대](../golden-age/)
 - [새 계명](../new-commandments/)
-- [지능정](../geniocracy/)
+- [천재정치](../geniocracy/)
 - [휴머니타리아니즘](../humanitarianism/)
 - [에덴](../eden/)
 - [엘로힘](../elohim/)

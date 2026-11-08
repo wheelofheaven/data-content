@@ -1,6 +1,6 @@
 +++
-title = "지능정"
-description = "지능정은 라엘 코퍼스에서, 측정된 인지 능력에 기초하여 지도자를 선발하는 정치 제도이다. Wheel of Heaven 코퍼스는 라엘 운동이 제시하는 제도적 구상의 하나로 이를 언급한다."
+title = "천재정치"
+description = "천재정치은 라엘 코퍼스에서, 측정된 인지 능력에 기초하여 지도자를 선발하는 정치 제도이다. Wheel of Heaven 코퍼스는 라엘 운동이 제시하는 제도적 구상의 하나로 이를 언급한다."
 template = "wiki-page.html"
 toc = true
 

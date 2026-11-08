@@ -201,7 +201,7 @@ Vorilhon, Claude (Raël). *Let's Welcome the Extra-Terrestrials* (1979); *Messag
 
 Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005. 자료 합본.
 
-Vorilhon, Claude (Raël). *{% wiki(slug="geniocracy") %}지능정{% end %}*. 여러 판본.
+Vorilhon, Claude (Raël). *{% wiki(slug="geniocracy") %}천재정치{% end %}*. 여러 판본.
 
 Vorilhon, Claude (Raël). *Sensual Meditation*. 여러 판본.
 
