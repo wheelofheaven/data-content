@@ -6,6 +6,11 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-08"
+source_updated = "2026-11-08"
+translation_stale = false
+translation_sync = 100
 seo_description = "히브리어 성경과 그 텍스트 전통, 그리고 Wheel of Heaven이 라엘리안 프레임워크를 통해 엘로힘에 관한 그 기사들을 어떻게 읽는지에 대한 소개."
 same_as = ["https://www.wikidata.org/wiki/Q83367", "https://en.wikipedia.org/wiki/Tanakh", "https://www.britannica.com/topic/Tanakh", "https://viaf.org/viaf/8394148997616159870005"]
 category = "Texts & Sources"

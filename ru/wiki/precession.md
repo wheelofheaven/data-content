@@ -6,6 +6,11 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 seo_description = "Как устроена осевая прецессия, как измеряется её цикл и как Wheel of Heaven использует прецессионные эпохи, чтобы упорядочить своё истолкование древних традиций."
 core_claim_ids = ["woh-claim-0003"]
 core_versions = { woh-claim-0003 = "0.1.0" }

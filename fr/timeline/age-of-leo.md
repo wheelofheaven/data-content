@@ -5,6 +5,11 @@ template = "timeline-page.html"
 toc = true
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 96
 symbol = "♌"
 color = "yellow"
 start_year = "-11010"

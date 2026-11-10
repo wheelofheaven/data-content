@@ -5,11 +5,15 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "metadata_only"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.avif"
 image_alt = "Un unique et vaste supercontinent entouré d’un océan mondial, vu de haute altitude — la masse continentale antédiluvienne."
 image_caption = "La Pangée — l’unique masse continentale antédiluvienne, substrat des phases d’Éden et des civilisations dispersées."
-translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"

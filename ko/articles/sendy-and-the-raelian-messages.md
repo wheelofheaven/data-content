@@ -6,6 +6,11 @@ date = 2026-10-14
 draft = false
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-07"
+source_updated = "2026-11-07"
+translation_stale = false
+translation_sync = 98
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0072"]
 core_versions = { woh-claim-0072 = "0.2.0" }

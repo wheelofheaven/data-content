@@ -5,11 +5,15 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "metadata_only"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/pangaea-supercontinent-v1.avif"
 image_alt = "從高空俯瞰一片被單一世界海洋環繞的遼闊超大陸——大洪水前的陸塊。"
 image_caption = "盤古大陸——大洪水前的單一陸塊，是伊甸階段與文明分散階段的地理基底。"
-translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"

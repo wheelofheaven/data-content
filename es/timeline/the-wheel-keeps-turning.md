@@ -6,6 +6,11 @@ toc = true
 weight = 270
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 symbol = "∞"
 color = "lavender"
 genesis_interpretation = "La rueda del cielo completa su primer giro completo. El ciclo de doce eras, trazado desde los reconocimientos de Capricornio hasta la revelación de Acuario, es una iteración de un patrón que se extiende infinitamente en ambas direcciones — hacia atrás a través de los propios creadores de la alianza, hacia adelante a través de las civilizaciones que la humanidad misma creará."

@@ -6,6 +6,11 @@ toc = true
 weight = 270
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 symbol = "∞"
 color = "lavender"
 genesis_interpretation = "天輪完成了它的第一次完整轉動。從摩羯座的勘測到水瓶座的啟示所追溯的十二時代週期,是一個在兩個方向上無限延伸的模式的一次迭代——向後穿過聯盟自身的創造者,向前穿過人類自己將創造的文明。"

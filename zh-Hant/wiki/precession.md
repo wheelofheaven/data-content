@@ -6,6 +6,11 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 seo_description = "軸向歲差如何運作、其週期如何測量,以及 Wheel of Heaven 如何以歲差時代組織其對古代傳統的詮釋。"
 core_claim_ids = ["woh-claim-0003"]
 core_versions = { woh-claim-0003 = "0.1.0" }

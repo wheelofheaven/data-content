@@ -6,6 +6,11 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-08"
+source_updated = "2026-11-08"
+translation_stale = false
+translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.avif"
 image_alt = "חזיתותיה הנבטיות החצובות בסלע של פטרה, מגולפות באבן חול ורודה־אדומה בצוק קניון תחת אור זהוב נמוך."

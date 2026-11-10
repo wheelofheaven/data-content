@@ -6,6 +6,11 @@ date = 2026-06-16
 draft = false
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 97
 claim_type = "inferred"
 editorial_pass = "2026-05"
 author = "Zara Zinsfuss"

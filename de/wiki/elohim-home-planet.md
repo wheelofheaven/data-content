@@ -5,11 +5,15 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "metadata_only"
+translation_updated = "2026-11-08"
+source_updated = "2026-11-10"
+translation_stale = true
+translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.avif"
 image_alt = "Eine ruhige extrasolare Küste — üppige exotische Vegetation und azurblaues Meer unter einer großen, tief stehenden Sonne."
 image_caption = "Die Heimatwelt der Elohim, wie sie die Quelle beschreibt: mild, üppig, mit azurblauen Meeren unter einem größeren Stern."
-translation_status = "metadata_only"
 editorial_pass = "2026-05"
 category = "Elohim"
 entry_type = "place"

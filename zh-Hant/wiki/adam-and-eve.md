@@ -6,6 +6,11 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 same_as = ["https://www.wikidata.org/wiki/Q58701", "https://en.wikipedia.org/wiki/Adam_and_Eve", "https://www.britannica.com/biography/Adam-and-Eve-biblical-literary-figures", "https://viaf.org/viaf/62342107"]
 category = "Biblical Figures"
 editorial_pass = "2026-07"

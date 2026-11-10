@@ -5,6 +5,11 @@ date = 2026-06-07
 template = "news-page.html"
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-10-28"
+source_updated = "2026-06-07"
+translation_stale = false
+translation_sync = 100
 event_date = 2026-06-07
 event_type = "announcement"
 claim_type = "direct"

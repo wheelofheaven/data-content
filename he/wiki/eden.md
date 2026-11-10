@@ -6,6 +6,11 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.avif"
 image_alt = "נוף ציורי של גן קדום וסגור בעמק נהר עם שחר, ובו ארבעה אפיקי מים מתפצלים."

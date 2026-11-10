@@ -6,6 +6,11 @@ date = 2026-08-15
 draft = false
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-07"
+source_updated = "2026-11-07"
+translation_stale = false
+translation_sync = 98
 claim_type = "speculative"
 editorial_pass = "2026-05"
 core_claim_ids = ["woh-claim-0004", "woh-claim-0008"]

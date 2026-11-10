@@ -6,6 +6,11 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-08"
+source_updated = "2026-11-08"
+translation_stale = false
+translation_sync = 100
 seo_description = "ヘブライ語聖書とその本文伝統、そしてWheel of Heavenがラエルの枠組みを通してエロヒムについての記述をどう読むかの入門。"
 same_as = ["https://www.wikidata.org/wiki/Q83367", "https://en.wikipedia.org/wiki/Tanakh", "https://www.britannica.com/topic/Tanakh", "https://viaf.org/viaf/8394148997616159870005"]
 category = "Texts & Sources"

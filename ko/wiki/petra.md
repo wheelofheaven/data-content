@@ -6,6 +6,11 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-08"
+source_updated = "2026-11-08"
+translation_stale = false
+translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.avif"
 image_alt = "낮은 황금빛 아래 협곡 절벽의 장밋빛 사암을 직접 깎아 만든 페트라의 나바테아식 정면들."

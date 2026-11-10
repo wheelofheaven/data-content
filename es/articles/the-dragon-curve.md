@@ -6,6 +6,11 @@ date = 2026-10-25
 draft = false
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-07"
+source_updated = "2026-11-07"
+translation_stale = false
+translation_sync = 100
 card_summary = "Los grandes dragones de Génesis 1:21, el versículo que el primer Mensaje nunca cita, y lo que el pasaje de los dragones sugiere sobre quién lo escribió."
 claim_type = "speculative"
 core_claim_ids = ["woh-claim-0022", "woh-claim-0039", "woh-claim-0066", "woh-claim-0072", "woh-claim-0073"]

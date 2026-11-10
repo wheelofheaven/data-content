@@ -6,6 +6,11 @@ date = 2026-11-01
 draft = false
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 card_summary = "야훼의 식탁에 앉은 이름 없는 손님들, 그리고 그 기록이 포함할 수 있는 전통들을 비교하기 위한 발견법적 척도."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0054"]

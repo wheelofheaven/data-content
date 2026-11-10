@@ -6,6 +6,11 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 seo_description = "地軸の歳差の仕組み、その周期の測り方、そしてWheel of Heavenが古代の諸伝統の解釈を組み立てるために歳差の諸時代をどう用いるか。"
 core_claim_ids = ["woh-claim-0003"]
 core_versions = { woh-claim-0003 = "0.1.0" }

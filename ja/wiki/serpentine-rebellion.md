@@ -5,6 +5,10 @@ template = "wiki-page.html"
 
 [extra]
 translation_status = "metadata_only"
+translation_updated = "2026-11-07"
+source_updated = "2026-11-07"
+translation_stale = false
+translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 timeline = ["cancer", "gemini"]

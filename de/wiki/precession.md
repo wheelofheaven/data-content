@@ -6,6 +6,11 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 seo_description = "Wie die Achspräzession funktioniert, wie ihr Zyklus gemessen wird und wie Wheel of Heaven präzessionale Zeitalter nutzt, um seine Deutung antiker Traditionen zu ordnen."
 core_claim_ids = ["woh-claim-0003"]
 core_versions = { woh-claim-0003 = "0.1.0" }

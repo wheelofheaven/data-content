@@ -6,6 +6,11 @@ date = 2026-10-25
 draft = false
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-07"
+source_updated = "2026-11-07"
+translation_stale = false
+translation_sync = 100
 card_summary = "창세기 1:21의 거대한 용들, 첫 번째 메시지가 끝내 인용하지 않는 구절, 그리고 용에 관한 대목이 그 저자에 대해 시사하는 바."
 claim_type = "speculative"
 core_claim_ids = ["woh-claim-0022", "woh-claim-0039", "woh-claim-0066", "woh-claim-0072", "woh-claim-0073"]

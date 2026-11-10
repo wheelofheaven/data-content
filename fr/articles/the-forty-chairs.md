@@ -6,6 +6,11 @@ date = 2026-11-01
 draft = false
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 card_summary = "Les convives sans nom de la table de Yahvé, et une échelle heuristique pour comparer les traditions que le récit peut inclure."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0054"]

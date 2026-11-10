@@ -6,6 +6,11 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 seo_description = "자전축 세차운동의 원리, 그 주기의 측정 방법, 그리고 Wheel of Heaven이 고대 전통의 해석을 조직하기 위해 세차 시대를 어떻게 사용하는지."
 core_claim_ids = ["woh-claim-0003"]
 core_versions = { woh-claim-0003 = "0.1.0" }

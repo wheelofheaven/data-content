@@ -6,6 +6,11 @@ date = 2026-11-01
 draft = false
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 card_summary = "耶和华餐桌旁那些未具名的宾客，以及一个用以比较这段叙述可能涵盖之传统的启发式量表。"
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0054"]

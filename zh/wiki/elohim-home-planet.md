@@ -5,11 +5,15 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "metadata_only"
+translation_updated = "2026-11-08"
+source_updated = "2026-11-10"
+translation_stale = true
+translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.avif"
 image_alt = "宁静的太阳系外海岸——繁茂的异域植被与蔚蓝海洋，笼罩在一轮巨大而低垂的太阳之下。"
 image_caption = "源材料所描述的耶洛因母星：气候温和、植被繁茂、海洋蔚蓝，位于一颗更大恒星之下。"
-translation_status = "metadata_only"
 editorial_pass = "2026-05"
 category = "Elohim"
 entry_type = "place"

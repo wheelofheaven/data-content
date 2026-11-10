@@ -5,11 +5,15 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "metadata_only"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.avif"
 image_alt = "Un sereno complejo amurallado de templo y residencia sobre una altura, con patios ordenados, bajo la luz del atardecer."
 image_caption = "El Tercer Templo leído como la Embajada — la residencia de recepción de la visión restauradora de Ezequiel."
-translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"

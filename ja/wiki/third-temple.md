@@ -5,11 +5,15 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "metadata_only"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.avif"
 image_alt = "夕暮れの光の中、高台に整然とした中庭を備えて建つ、穏やかな城壁付き神殿・居住複合施設。"
 image_caption = "大使館として読む第三神殿——エゼキエルの復興幻視における迎賓の居所。"
-translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"

@@ -5,11 +5,15 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "metadata_only"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.avif"
 image_alt = "夕光中坐落于高地、庭院井然的宁静围墙式圣殿与居所建筑群。"
 image_caption = "作为大使馆解读的第三圣殿——以西结复兴异象中的迎宾居所。"
-translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"

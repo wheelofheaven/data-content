@@ -6,6 +6,11 @@ toc = true
 weight = 270
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 symbol = "∞"
 color = "lavender"
 genesis_interpretation = "天の車輪はその最初の一周を完了します。山羊座の調査から水瓶座の啓示まで辿られた十二の時代の周期は、両方向に無限に延びるパターンの一回の反復です――同盟自身の創造者を遡り、人類が自ら創造する文明へと前進していくのです。"

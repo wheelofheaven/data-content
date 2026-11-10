@@ -6,6 +6,11 @@ date = 2026-10-25
 draft = false
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-07"
+source_updated = "2026-11-07"
+translation_stale = false
+translation_sync = 99
 card_summary = "《創世記》1:21 的大龍、第一部《訊息》從未引用的那節經文，以及這段關於龍的文字對其作者身分可能透露了什麼。"
 claim_type = "speculative"
 core_claim_ids = ["woh-claim-0022", "woh-claim-0039", "woh-claim-0066", "woh-claim-0072", "woh-claim-0073"]

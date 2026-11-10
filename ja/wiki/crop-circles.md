@@ -6,6 +6,11 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-06-09"
+source_updated = "2026-11-07"
+translation_stale = true
+translation_sync = 83
 editorial_pass = "2026-05"
 claim_type = "framework"
 category = "Ufology"

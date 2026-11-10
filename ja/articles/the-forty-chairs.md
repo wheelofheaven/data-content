@@ -6,6 +6,11 @@ date = 2026-11-01
 draft = false
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 card_summary = "ヤハウェの食卓に着いた名もなき客たちと、その記述が含みうる伝統を比較するための発見的な尺度。"
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0054"]

@@ -6,6 +6,11 @@ toc = true
 weight = 270
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 symbol = "∞"
 color = "lavender"
 genesis_interpretation = "Колесо небес совершает первый полный оборот. Двенадцатиричный цикл эпох, прослеженный от обзоров Козерога до откровения Водолея, есть одна итерация узора, простирающегося бесконечно в обоих направлениях — назад через создателей самого альянса, вперёд через цивилизации, которые сами создаст человечество."

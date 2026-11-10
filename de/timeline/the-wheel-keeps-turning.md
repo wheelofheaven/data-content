@@ -6,6 +6,11 @@ toc = true
 weight = 270
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 symbol = "∞"
 color = "lavender"
 genesis_interpretation = "Das Rad des Himmels vollendet seine erste vollständige Umdrehung. Der Zwölf-Zeitalter-Zyklus, nachgezeichnet von den Vermessungen des Steinbocks bis zur Offenbarung des Wassermanns, ist eine Iteration eines Musters, das sich unendlich in beide Richtungen erstreckt — rückwärts durch die Schöpfer des Bündnisses selbst, vorwärts durch die Zivilisationen, die die Menschheit selbst erschaffen wird."

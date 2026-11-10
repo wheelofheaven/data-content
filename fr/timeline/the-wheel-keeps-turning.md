@@ -6,6 +6,11 @@ toc = true
 weight = 270
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 symbol = "∞"
 color = "lavender"
 genesis_interpretation = "La roue du ciel achève son premier tour complet. Le cycle des douze ères, tracé depuis les relevés du Capricorne jusqu'à la révélation du Verseau, est une itération d'un motif qui s'étend infiniment dans les deux directions — en arrière à travers les créateurs propres de l'alliance, en avant à travers les civilisations que l'humanité créera elle-même."

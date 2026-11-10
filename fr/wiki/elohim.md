@@ -5,6 +5,11 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 99
 featured_order = 1
 category = "Elohim"
 editorial_pass = "2026-05"

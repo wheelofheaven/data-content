@@ -6,6 +6,11 @@ date = 2026-11-01
 draft = false
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 card_summary = "Die ungenannten Gäste an Jahwes Tisch und eine heuristische Skala, mit der sich die Traditionen vergleichen lassen, die der Bericht einschließen könnte."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0054"]

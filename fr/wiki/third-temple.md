@@ -5,11 +5,15 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "metadata_only"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/third-temple-embassy-v1.avif"
 image_alt = "Un paisible ensemble fortifié de temple et de résidence sur une hauteur, avec des cours ordonnées, dans la lumière du soir."
 image_caption = "Le Troisième Temple lu comme l’Ambassade — la résidence d’accueil de la vision de restauration d’Ézéchiel."
-translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"

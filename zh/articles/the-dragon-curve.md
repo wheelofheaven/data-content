@@ -6,6 +6,11 @@ date = 2026-10-25
 draft = false
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-07"
+source_updated = "2026-11-07"
+translation_stale = false
+translation_sync = 100
 card_summary = "创世记 1:21 的巨龙、第一则讯息从未引用的那节经文，以及龙的段落对其作者问题有何提示。"
 claim_type = "speculative"
 core_claim_ids = ["woh-claim-0022", "woh-claim-0039", "woh-claim-0066", "woh-claim-0072", "woh-claim-0073"]

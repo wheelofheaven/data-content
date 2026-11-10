@@ -5,6 +5,11 @@ weight = 200
 template = "timeline-page.html"
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-10-29"
+source_updated = "2026-10-29"
+translation_stale = false
+translation_sync = 100
 symbol = "🚀"
 color = "silver"
 start_year = "before -21810"

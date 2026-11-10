@@ -6,6 +6,11 @@ toc = true
 weight = 270
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 symbol = "∞"
 color = "lavender"
 genesis_interpretation = "하늘의 바퀴는 첫 번째 완전한 회전을 마칩니다. 염소자리의 탐사로부터 물병자리의 계시에 이르기까지 추적된 12시대의 주기는, 양방향으로 무한히 뻗어 나가는 패턴의 한 반복입니다 — 동맹 자신의 창조자들을 거슬러 올라가, 그리고 인류가 스스로 창조하게 될 문명들을 향해 앞으로 나아가는."

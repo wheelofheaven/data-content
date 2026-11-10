@@ -7,6 +7,10 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
+translation_updated = "2026-11-08"
+source_updated = "2026-11-10"
+translation_stale = true
+translation_sync = 100
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"

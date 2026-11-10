@@ -6,6 +6,11 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-08"
+source_updated = "2026-11-08"
+translation_stale = false
+translation_sync = 100
 editorial_pass = "2026-05"
 claim_type = "framework"
 core_claim_ids = ["woh-claim-0076", "woh-claim-0018", "woh-claim-0012", "woh-claim-0017", "woh-claim-0009", "woh-claim-0053"]

@@ -6,6 +6,11 @@ toc = true
 weight = 270
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-10"
+source_updated = "2026-11-10"
+translation_stale = false
+translation_sync = 100
 symbol = "∞"
 color = "lavender"
 genesis_interpretation = "גלגל השמים משלים את סיבובו המלא הראשון. מחזור שתים-עשרה העידנים, המתחקה מסקרי הגדי דרך התגלות הדלי, הוא איטרציה אחת של דפוס המשתרע לאינסוף בשני הכיוונים — לאחור דרך יוצריה של הברית עצמה, ולפנים דרך הציוויליזציות שהאנושות תיצור בעצמה."

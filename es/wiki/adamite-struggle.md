@@ -6,6 +6,10 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
+translation_updated = "2026-11-08"
+source_updated = "2026-11-08"
+translation_stale = false
+translation_sync = 100
 redirect_to = { title = "Antediluviano", path = "/wiki/antediluvian/" }
 category = "Events & Narratives"
 timeline = ["cancer", "gemini", "taurus"]

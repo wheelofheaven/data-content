@@ -6,6 +6,11 @@ date = 2026-07-05
 draft = false
 
 [extra]
+translation_status = "ai_reviewed"
+translation_updated = "2026-11-08"
+source_updated = "2026-11-07"
+translation_stale = false
+translation_sync = 100
 claim_type = "speculative"
 editorial_pass = "2026-05"
 article_type = "explainer"

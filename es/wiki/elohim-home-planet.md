@@ -5,11 +5,15 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "metadata_only"
+translation_updated = "2026-11-08"
+source_updated = "2026-11-10"
+translation_stale = true
+translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.avif"
 image_alt = "Una tranquila costa extrasolar — vegetación exótica y exuberante y mares azules bajo un sol grande y bajo."
 image_caption = "El mundo natal de los Elohim tal como lo describe la fuente: templado, exuberante, de mares azules y bajo una estrella mayor."
-translation_status = "metadata_only"
 editorial_pass = "2026-05"
 category = "Elohim"
 entry_type = "place"
