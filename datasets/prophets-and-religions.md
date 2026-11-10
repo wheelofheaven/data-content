@@ -1,6 +1,6 @@
 +++
 title = "Prophets & Religions Catalogue"
-description = "A catalogue of 48 religious traditions and their founders — period, framework-relevant content, and the Wheel of Heaven authenticity assessment of the founding-contact claim. Downloadable CC0 CSV and JSON."
+description = "A catalogue of 48 religious traditions and their founders — period, framework-relevant content, and the corpus's comparative tier, its own heuristic for organising comparison. Downloadable CC0 CSV and JSON."
 template = "dataset-page.html"
 
 [extra]
@@ -9,7 +9,7 @@ core_versions = { woh-claim-0038 = "0.1.1", woh-claim-0060 = "0.1.0" }
 dataset_name = "Wheel of Heaven Prophets & Religions Catalogue"
 license = "CC0-1.0"
 license_url = "https://creativecommons.org/publicdomain/zero/1.0/"
-updated = "2026-07"
+updated = "2026-11"
 keywords = ["comparative religion", "new religious movements", "prophets", "founders", "revelation", "religious studies", "digital humanities"]
 
 stats = [
@@ -36,33 +36,36 @@ citation_bibtex = '''@misc{woh-prophets-and-religions,
 
 Forty-eight religious traditions in one table — the **founder or prophet**, the
 **period**, the content each tradition contributes to the Wheel of Heaven
-framework, and, in the last column, the corpus's **authenticity assessment** of
-the founding-contact claim.
+framework, and, in the last column, the corpus's **comparative tier** — its own
+heuristic for organising comparison.
 
 ## Columns
 
-`tradition`, `period`, `founder`, `authenticity`, `principal_content`,
+`tradition`, `period`, `founder`, `comparative_tier`, `principal_content`,
 `woh_wiki` (a link to the wiki entry where one exists). Extracted from the
 [list of prophets & religions](/wiki/list-of-prophets-and-religions/) entry, so
 the catalogue and the site stay in step.
 
-## Reading the `authenticity` column
+## Reading the `comparative_tier` column
 
-This column is **not a neutral scholarly rating** — it is the Wheel of Heaven
-corpus's own working judgment of whether a tradition's *founding-contact claim*
-(a revelation, a visitation, a dictated book) is plausibly what it says it is,
-on the corpus's Elohim-contact hypothesis. The scale runs `Canonical` (the
-Raëlian founding contact, the corpus's Tier 0) → `Highly likely` → `Likely` →
-`Unlikely` → `Highly unlikely`. {% claim(type="inferred", id="woh-claim-0060") %}It is offered transparently as an interpretive
+This column is **not a neutral scholarly rating, not a canon ranking and not an
+authenticity verdict** — it is the Wheel of Heaven corpus's own heuristic for
+organising comparison across contact-and-revelation traditions. The canon gives
+no tiers. `Canonical` marks only the traditions whose founders the Raëlian canon
+itself names (Moses, Jesus, Buddha, Muhammad, and Raëlism as the canon itself);
+the scale then runs `Highly likely` → `Likely` → `Unlikely` → `Highly unlikely`.
+Mormonism is **not graded**: Raël names Joseph Smith in his own commentary
+(LWTE 3:27), and the corpus gives no verdict on the LDS founding. {% claim(type="inferred", id="woh-claim-0060") %}It is offered transparently as an interpretive
 instrument, not as consensus fact;{% end %} the neutral biographical data in the other
-columns can be used entirely independently of it.
+columns can be used entirely independently of it. The column was named
+`authenticity` until November 2026.
 
 ## What it's for
 
 A machine-readable census of contact-and-revelation traditions — useful for
 comparative religion and new-religious-movements research whether or not you
-share the corpus's frame. Free to filter, sort, and cite; the `authenticity`
-column is simply one project's labelled hypothesis, there to be argued with.
+share the corpus's frame. Free to filter, sort, and cite; the
+`comparative_tier` column is simply one project's labelled heuristic, there to be argued with.
 
 ## Also available on
 
