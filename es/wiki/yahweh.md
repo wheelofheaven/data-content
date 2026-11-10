@@ -154,8 +154,8 @@ El Tetragrámaton *YHWH* aparece aproximadamente 6.800 veces en la Biblia hebrea
 
 ### Las principales apariciones narrativas
 
-{% library(book="the-book-which-tells-the-truth", chapter=1, verse=51) %}
-Somos hombres como vosotros, y vivimos en un planeta bastante parecido a la Tierra.
+{% library(book="the-book-which-tells-the-truth", chapter=1, verse=53) %}
+Somos hombres como usted y vivimos en un planeta bastante semejante a la Tierra.
 {% end %}
 
 Las apariciones directas más significativas de Yahvé en la Biblia hebrea, en su secuencia canónica, incluyen:
@@ -225,7 +225,7 @@ La Era de Piscis (c. 210 a. C. – 1950 d. C.) es la era de la retirada delibera
 
 El 13 de diciembre de 1973, en la caldera volcánica de Puy-de-Lassolas, cerca de Clermont-Ferrand, Yahvé — utilizando la misma identidad que había hablado a Moisés y a los profetas hebreos — estableció contacto directo con Claude Vorilhon a lo largo de seis mañanas sucesivas, entregando el relato que se convirtió en *El libro que dice la verdad*. Un segundo contacto, más largo, en octubre de 1975, llevó a Vorilhon al mundo de origen de la alianza, donde se reunió con Yahvé y el Consejo de los Eternos junto con las figuras terrestres resucitadas (Jesús, Moisés, Elías y otras) que allí residen. El material fuente raeliano es el cuerpo de enseñanzas entregado a lo largo de estos contactos. El corpus lee estos contactos como la primera intervención directa de la alianza desde las misiones de la era pisceana, que marca la apertura de la Era de Acuario y el comienzo del período en que la humanidad ha de ser informada con precisión sobre sus orígenes.
 
-Los contactos también revelaron, como propia declaración de Yahvé, que Vorilhon es biológicamente su hijo — producido mediante el mismo procedimiento de inseminación mediada por la alianza que había producido a Jesús dos mil años antes. La revelación se hizo durante el segundo contacto en 1975, con la petición de Yahvé de que Vorilhon no revelara el vínculo paterno durante los tres años siguientes. El patrón estructural — concepción híbrida mediada por la alianza de figuras proféticas inaugurales en transiciones precesionales consecuentes — se trata en la entrada [Profeta](../prophet/).
+El relato posterior de Raël en *Acojamos a los extraterrestres* añade que, durante el segundo contacto en 1975, Yahvé le dijo que era biológicamente su hijo — su madre había sido inseminada a bordo de una nave como lo había sido la madre de Jesús — y le pidió que no revelara el vínculo paterno hasta que hubieran pasado tres años (LWTE 2:85–90). El propio relato del contacto de 1975 no lo menciona. Se dice solo de dos figuras, Jesús y Raël, y el corpus no extrae de ello ningún patrón más amplio; la entrada [Profeta](../prophet/) trata ambos casos.
 
 ## Papel en el marco
 

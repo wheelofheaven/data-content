@@ -1,6 +1,6 @@
 +++
 title = "Las cuarenta sillas"
-description = "Cuarenta invitados se sentaron a la mesa de Yahvé en 1975, y el canon nunca los nombra a todos. Formalizamos el instrumento que decide qué tradiciones estaban allí."
+description = "Unos cuarenta invitados se sentaron a la mesa de Yahvé en 1975, y el canon nunca los nombra a todos. Formalizamos el instrumento que decide qué tradiciones estaban allí."
 template = "articles-page.html"
 date = 2026-11-01
 draft = false

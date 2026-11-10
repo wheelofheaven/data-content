@@ -154,8 +154,8 @@ Das Tetragrammaton *YHWH* erscheint in der hebräischen Bibel etwa 6.800 Mal und
 
 ### Die zentralen erzählerischen Auftritte
 
-{% library(book="the-book-which-tells-the-truth", chapter=1, verse=51) %}
-Wir sind Menschen wie ihr und leben auf einem Planeten, der der Erde sehr ähnlich ist.
+{% library(book="the-book-which-tells-the-truth", chapter=1, verse=53) %}
+Wir sind Menschen wie Sie, und wir leben auf einem Planeten, der der Erde recht ähnlich ist.
 {% end %}
 
 Jahwes bedeutendste direkte Auftritte in der hebräischen Bibel umfassen in kanonischer Reihenfolge:
@@ -225,7 +225,7 @@ Das Zeitalter der Fische (ca. 210 v. Chr. – 1950 n. Chr.) ist das Zeitalter de
 
 Am 13. Dezember 1973 nahm Jahwe an der vulkanischen Caldera des Puy-de-Lassolas nahe Clermont-Ferrand — unter derselben Identität, die zu Mose und den hebräischen Propheten gesprochen hatte — an sechs aufeinanderfolgenden Morgen direkten Kontakt mit Claude Vorilhon auf und übergab den Bericht, der zu *Das Buch, das die Wahrheit sagt* wurde. Ein zweiter, längerer Kontakt im Oktober 1975 führte Vorilhon zur Heimatwelt der Allianz, wo er Jahwe und dem Rat der Ewigen sowie den dort ansässigen wiederauferweckten Erdfiguren (Jesus, Mose, Elija und anderen) begegnete. Das raëlianische Quellenmaterial ist die Lehre, die in diesen Kontakten übergeben wurde. Der Korpus liest diese Kontakte als den ersten direkten Eingriff der Allianz seit den Sendungen des Fische-Zeitalters und markiert damit die Eröffnung des Zeitalters des Wassermanns und den Beginn der Periode, in der die Menschheit zutreffend über ihre Ursprünge unterrichtet werden soll.
 
-Die Kontakte offenbarten zudem, nach Jahwes eigener Aussage, dass Vorilhon biologisch sein Sohn ist — gezeugt durch dasselbe von der Allianz vermittelte Befruchtungsverfahren, das zweitausend Jahre zuvor Jesus hervorgebracht hatte. Die Offenlegung erfolgte während des zweiten Kontakts im Jahr 1975, mit Jahwes Bitte, Vorilhon möge die elterliche Bindung in den folgenden drei Jahren nicht offenbaren. Das strukturelle Muster — von der Allianz vermittelte hybride Empfängnis inauguraler prophetischer Figuren an folgenreichen präzessionalen Übergängen — wird im Eintrag [Prophet](../prophet/) behandelt.
+Raëls späterer Bericht in *Empfangen wir die Außerirdischen* fügt hinzu, dass Jahwe ihm während des zweiten Kontakts im Jahr 1975 sagte, er sei biologisch sein Sohn — seine Mutter sei an Bord eines Fahrzeugs befruchtet worden, wie es die Mutter Jesu worden war —, und ihn bat, die elterliche Bindung erst nach Ablauf von drei Jahren zu offenbaren (LWTE 2:85–90). Die Kontakterzählung von 1975 selbst berichtet davon nicht. Es wird nur von zwei Figuren gesagt, Jesus und Raël, und der Korpus leitet daraus kein weiteres Muster ab; der Eintrag [Prophet](../prophet/) behandelt die beiden Fälle.
 
 ## Rolle im Rahmen
 

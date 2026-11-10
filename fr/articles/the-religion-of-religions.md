@@ -892,9 +892,9 @@ il ne cesse de s'ouvrir sur de la structure.
 
 La classification, donc, dans l'ordre où les preuves l'ont assemblée. Le Raëlisme est
 un nouveau mouvement religieux de l'ère ovni par le costume ; une religion athée par
-sa propre description précise de lui-même ; une religion scientifique par pari, avec
-une date de falsification qu'il a déjà déplacée deux fois et qu'il ne peut
-spiritualiser ; une religion postmoderne par l'ajustement ; et par la descendance, le
+sa propre description précise de lui-même ; une religion scientifique par son épistémologie
+déclarée, bien que l'échéance de retour de 2035 que Palmer rapporte du mouvement
+expose une prédiction centrale au risque d'un échec empirique ; une religion postmoderne par l'ajustement ; et par la descendance, le
 contenu, la distribution et l'eschatologie, un membre de la famille abrahamique —
 formé, comme la Foi bahá'íe avant lui, par un messager qui a sérialisé ses
 prédécesseurs, et se tenant à l'ère spatiale comme Cao Đài se tenait à la salle de

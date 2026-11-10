@@ -16,7 +16,7 @@ summary = "En une seule phrase du second message raëlien, Yahvé demande à Ra�
 keywords = ["morphologie civilisationnelle", "biologie civilisationnelle", "macrobiologie", "l'humanité comme organisme", "macro-histoire", "Guns Germs and Steel", "expériences naturelles de l'histoire", "Spengler", "Toynbee", "Tainter", "effondrement", "lois d'échelle", "noosphère", "Teilhard", "Vernadsky", "compétition cosmique", "saṃsāra", "Âge d'or", "hypothèse Élohim", "Grand Filtre"]
 references = [
     # — The canon passages under discussion —
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶97–103: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶98: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶96, 205: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; Chapter 1, ¶65: the Infinite indifferent, natural selection 'at all levels')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶97–103: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶98: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶96, 205: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; Chapter 1, ¶44: the Infinite indifferent (Raël answering a reader), natural selection 'at all levels')" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'The Second Encounter' (¶23: humanity at 'a turning point of its history,' the golden age of interplanetary civilization vs. self-destruction; ¶24: Buddhism reread — humanity as a whole must resist the 'demons,' the svastika as the cycle-symbol, paradise vs. the hell of a return to the primitive stage; ¶25: 'a natural selection, on the cosmic scale, of the species capable of escaping their planet')" },
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (¶2: the Elohim's own civilization at 'a technical and scientific level comparable to the one you will soon attain'); Chapter 4 (¶61: planets die, humanity must reach a level sufficient to move worlds or re-create adapted life); Chapter 5 (¶65: the offer of 'political and humanitarian baggage' before scientific inheritance); Chapter 7 (¶¶6, 23: self-destruction, and the Elohim's fear of finding no civilization as advanced as their own)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition collecting all three messages; the parable of the sower read as multiple creations, the cosmic competition of humanities, and the inheritance" },
@@ -679,9 +679,9 @@ n'autorise aucune affirmation sur ce que l'on peut faire à une partie. La
 biologie décrit un corps sans conclure que le corps peut manger ses cellules ;
 une morphologie civilisationnelle peut décrire l'organisme-espèce tout en
 insistant, comme le canon insiste de fait, sur le fait que sa finalité est
-servie par l'épanouissement des cellules, non par leur dépense. Le canon est
-catégorique sur ce point précis : l'Infini est « infiniment indifférent » à
-nous ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=65) %}LWTE 1:65{% end %}),
+servie par l'épanouissement des cellules, non par leur dépense. Raël, répondant à un lecteur,
+est catégorique sur ce point précis : {% wiki(slug="infinity") %}l'Infini{% end %} se moque « infiniment » de
+nos décisions ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=44) %}LWTE 1:44{% end %}),
 ce qui signifie qu'aucun corps cosmique n'a droit à notre sacrifice ; et la vie
 de l'individu « n'a que l'importance que nous lui donnons », une valeur
 assignée de l'intérieur, non extraite d'en haut. L'organisme que ce projet

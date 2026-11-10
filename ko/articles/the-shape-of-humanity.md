@@ -16,7 +16,7 @@ summary = "두 번째 라엘 메시지의 단 한 문장에서, 야훼는 라엘
 keywords = ["문명 형태학", "문명 생물학", "거대생물학", "유기체로서의 인류", "거시사", "Guns Germs and Steel", "역사의 자연 실험", "Spengler", "Toynbee", "Tainter", "붕괴", "척도 법칙", "누스페어", "Teilhard", "Vernadsky", "우주적 경쟁", "삼사라", "황금시대", "엘로힘 가설", "거대 필터"]
 references = [
     # — The canon passages under discussion —
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶97–103: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶98: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶96, 205: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; Chapter 1, ¶65: the Infinite indifferent, natural selection 'at all levels')" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶97–103: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶98: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶96, 205: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; Chapter 1, ¶44: the Infinite indifferent (Raël answering a reader), natural selection 'at all levels')" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, 'The Second Encounter' (¶23: humanity at 'a turning point of its history,' the golden age of interplanetary civilization vs. self-destruction; ¶24: Buddhism reread — humanity as a whole must resist the 'demons,' the svastika as the cycle-symbol, paradise vs. the hell of a return to the primitive stage; ¶25: 'a natural selection, on the cosmic scale, of the species capable of escaping their planet')" },
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (¶2: the Elohim's own civilization at 'a technical and scientific level comparable to the one you will soon attain'); Chapter 4 (¶61: planets die, humanity must reach a level sufficient to move worlds or re-create adapted life); Chapter 5 (¶65: the offer of 'political and humanitarian baggage' before scientific inheritance); Chapter 7 (¶¶6, 23: self-destruction, and the Elohim's fear of finding no civilization as advanced as their own)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition collecting all three messages; the parable of the sower read as multiple creations, the cosmic competition of humanities, and the inheritance" },
@@ -513,8 +513,8 @@ Spengler는 그가 지목한 표적 가운데 하나이며, 그 반론은 유기
 가진다고 말하는 것은 전체에 관한 주장이며, 한 부분에 무엇이 행해져도 되는지에 관한 어떤
 주장도 허가하지 않는다. 생물학은 몸이 제 세포를 먹어도 된다고 결론짓지 않은 채 몸을
 서술한다. 문명 형태학은, 정경이 실제로 역설하듯, 그 목적이 세포들의 소모가 아니라 그
-번성으로 이루어진다고 역설하면서 종-유기체를 서술할 수 있다. 정경은 바로 이 점에서
-단호하다. 무한은 우리에게 “무한히 무심하며”({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=65) %}LWTE 1:65{% end %}),
+번성으로 이루어진다고 역설하면서 종-유기체를 서술할 수 있다. 라엘은 한 독자에게 답하면서 바로 이 점에서
+단호하다. 무한은 우리의 결정들에 “무한히” 무심하며({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=44) %}LWTE 1:44{% end %}),
 이는 어떤 우주적 몸도 우리의 희생을 받을 자격이 없음을 뜻한다. 그리고 개인의 삶은 “우리가
 그것에 부여하는 만큼의 중요성만을” 가지니, 위로부터 뽑아낸 것이 아니라 안으로부터 배정된
 가치이다. 이 프로젝트가 서술하는 유기체는 제 세포들의 깨어남에 *의해*, 한 번에 하나씩,

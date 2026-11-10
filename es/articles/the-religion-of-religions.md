@@ -842,8 +842,9 @@ estructura.
 
 La clasificación, entonces, en el orden en que la evidencia la ensambló. El raelismo
 es un nuevo movimiento religioso de la era ovni por disfraz; una religión atea por su
-propia y precisa autodescripción; una religión científica por apuesta, con una fecha
-de falsación que ha movido dos veces y no puede espiritualizar; una religión
+propia y precisa autodescripción; una religión científica por apuesta, aunque el
+plazo de 2035 para el retorno que Palmer recoge del movimiento pone una predicción
+central en riesgo de fracaso empírico; una religión
 posmoderna por encaje; y por descendencia, contenido, reparto y escatología, un
 miembro de la familia abrahámica —formado, como la Fe Bahá'í antes que él, por un
 mensajero que serializó a sus predecesores, y estando a la era espacial como Cao Đài

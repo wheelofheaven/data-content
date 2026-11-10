@@ -94,7 +94,7 @@ question = "En quoi est-ce différent de la théorie des anciens astronautes ?"
 answer = """
 Le projet partage l'affirmation fondatrice de la tradition des anciens astronautes — que le matériau religieux et mythologique ancien préserve un témoignage exact d'interventions de civilisations avancées — mais diffère significativement par la discipline des sources et par des engagements interprétatifs spécifiques.
 
-Le projet n'est pas dérivé de Sitchin. Il n'accepte pas le cadre Nibiru, les identifications Anunnaki, ni les revendications chronologiques spécifiques de la série *Earth Chronicles* de Zecharia Sitchin. Il n'est pas non plus dérivé de von Däniken, bien que *Chariots of the Gods?* d'Erich von Däniken (1968) ait été un précurseur dans la popularisation du cadre plus large.
+Le projet n'est pas dérivé de Sitchin. Il n'accepte pas le cadre Nibiru, les identifications des Anunnaki dieu par dieu propres à Sitchin, ni les revendications chronologiques spécifiques de la série *Earth Chronicles* de Zecharia Sitchin. Il n'est pas non plus dérivé de von Däniken, bien que *Chariots of the Gods?* d'Erich von Däniken (1968) ait été un précurseur dans la popularisation du cadre plus large.
 
 Le cadre spécifique du projet — fondé sur les sources raëliennes, organisé précessionnellement, intérieurement discipliné par les sources — le distingue de la tradition plus large des anciens astronautes. Le projet engage les arguments spécifiques de cette tradition sur leurs mérites sans endosser la tradition dans son ensemble.
 """

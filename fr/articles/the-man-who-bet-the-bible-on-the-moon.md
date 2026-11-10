@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Jean Sendy (1910–1978) — Parisien né en Russie, correspondant de guerre, traducteur de Raymond Chandler, ébéniste amateur, dandy monoclé de l'avant-garde des années 1930 — publia en 1963 le premier énoncé achevé de la lecture au cœur de laquelle ce projet vit : la Bible hébraïque, prise au pied de la lettre, relate le séjour sur Terre d'Élohim pluriels, physiques et mortels. Il fit alors ce que personne d'autre dans la lignée n'a fait ni avant ni depuis : il misa la lecture entière sur une prédiction falsifiable, imprimée, assortie d'une échéance — des traces des installations des Élohim seraient retrouvées sur la Lune dans l'année suivant le premier alunissage, et si elles ne l'étaient pas, « mon hypothèse sera à tenir pour fausse ». Cet Explicatif lit tout son corpus de près dans le français — les Cahiers de cours de Moïse de 1963, La lune, clé de la Bible, Ces dieux qui firent le ciel et la terre, Nous autres, gens du Moyen Âge, L'Ère du Verseau, et les tardifs Temps messianiques — et confronte ses notes avec le canon raëlien à la profondeur que la parenté mérite. Il parcourt ses deux thèses véritablement originales : que l'exégèse médiévale se tenait plus près du sens réel du texte que la sécularité de la Renaissance et des Lumières ne l'a jamais fait, et que la Kabbale, abordée à travers le Grand Rabbin Alexandre Safran, préserve un enseignement plus ancien que Moïse dont la promesse centrale — « l'homme renouvellera les actes relatés au début de la Genèse » — est un programme désormais en cours. Il audite le pari honnêtement : Apollo n'a rien trouvé, et selon sa propre clause du charlatan l'arche lunaire se tient réfutée telle qu'elle fut formulée, un verdict qu'il affronta avec plus de grâce que ses imitateurs ne le reconnaissent. Et il traite, sans polémique, la question qui a aplati sa réputation des deux côtés — ce que la révélation raëlienne de 1974 doit exactement aux livres que ce « brave jeune homme » avait certainement lus — tout en marquant les divergences structurelles qui font de Sendy un témoin parallèle plutôt qu'un brouillon : ses Élohim recolonisent une Terre ruinée plutôt que de créer la vie, son Yahvé est un Principe immatériel plutôt qu'un président, et ses célestes, selon toute vraisemblance, ne reviendront jamais."
+summary = "Jean Sendy (1910–1978) — Parisien né en Russie, correspondant de guerre, traducteur de Raymond Chandler, ébéniste amateur, dandy monoclé de l'avant-garde des années 1930 — publia en 1963 le premier énoncé achevé de la lecture au cœur de laquelle ce projet vit : la Bible hébraïque, prise au pied de la lettre, relate le séjour sur Terre d'Élohim pluriels, physiques et mortels. Il fit alors ce que personne d'autre dans la lignée n'a fait ni avant ni depuis : il misa la lecture entière sur une prédiction falsifiable, imprimée, assortie d'une échéance — des traces des installations des Élohim seraient retrouvées sur la Lune dans l'année suivant le premier alunissage, et si elles ne l'étaient pas, « mon hypothèse sera à tenir pour fausse ». Cet Explicatif lit tout son corpus de près dans le français — les Cahiers de cours de Moïse de 1963, La lune, clé de la Bible, Ces dieux qui firent le ciel et la terre, Nous autres, gens du Moyen Âge, L'Ère du Verseau, et les tardifs Temps messianiques — et confronte ses notes avec le canon raëlien à la profondeur que la parenté mérite. Il parcourt ses deux thèses véritablement originales : que l'exégèse médiévale se tenait plus près du sens réel du texte que la sécularité de la Renaissance et des Lumières ne l'a jamais fait, et que la Kabbale, abordée à travers le Grand Rabbin Alexandre Safran, préserve un enseignement plus ancien que Moïse dont la promesse centrale — « l'homme renouvellera les actes relatés au début de la Genèse » — est un programme désormais en cours. Il audite le pari honnêtement : Apollo n'a rien trouvé, et selon sa propre clause du charlatan l'arche lunaire se tient réfutée telle qu'elle fut formulée, un verdict qu'il affronta avec plus de grâce que ses imitateurs ne le reconnaissent. Et il traite, sans polémique, la question qui a aplati sa réputation des deux côtés — si la révélation raëlienne de 1974 doit quoi que ce soit aux livres que, selon Sendy, ce « brave jeune homme » avait lus — tout en marquant les divergences structurelles entre les deux : ses Élohim recolonisent une Terre ruinée plutôt que de créer la vie, son Yahvé est un Principe immatériel plutôt qu'un président, et ses célestes, selon toute vraisemblance, ne reviendront jamais."
 keywords = ["Jean Sendy", "Élohim", "Célestes", "Théosites", "Galaxiens", "La lune clé de la Bible", "Moon Outpost of the Gods", "arc d'alliance", "précession des équinoxes", "Ère du Verseau", "médiévalisme", "humanisme", "Giordano Bruno", "Alexandre Safran", "Kabbale", "tikkoun olam", "Le Moulin d'Hamlet", "falsifiabilité", "paléocontact", "néo-évhémérisme", "Raël", "Stefano Bigliardi"]
 references = [
     # — The canon under comparison —
@@ -651,8 +651,9 @@ sommet, parce qu'il n'y a pas de sommet.
 
 Une comparaison qui ne trouverait que de l'accord serait de la publicité,
 et chez Sendy les divergences ne sont pas décoratives — deux d'entre elles
-sont structurelles, et ce sont elles qui font de lui un témoin parallèle
-plutôt qu'un brouillon.
+sont structurelles. Elles ne tranchent pas à elles seules la question de savoir
+si le Message dépend de lui, mais elles marquent la distance qui sépare les
+deux projets.
 
 **Création versus recolonisation.** Les Élohim du canon *créent* : la vie
 sur Terre, toute entière, est leur travail de laboratoire, de l'algue à
@@ -761,9 +762,12 @@ enregistrent la ressemblance et déclinent d'arbitrer l'intention.
 Ce projet lit les textes raëliens comme un canon, aussi sa position
 devrait-elle être énoncée avec une transparence complète, et elle le peut,
 parce que la logique est symétrique. Si la rencontre de 1973 n'eut pas
-lieu, alors la généalogie est simple : le message est une condensation de
-Sendy — Sendy *vulgarisé*, son hypothèse avec la clause de falsifiabilité
-amputée et un témoignage greffé dessus. Si la rencontre eut lieu, alors
+lieu, le Message aurait besoin de sources humaines, et Sendy est le candidat
+évident pour son chapitre sur la Genèse ; mais la comparaison point par point
+de [Sendy et les Messages raëliens](/fr/articles/sendy-and-the-raelian-messages/)
+constate que la plus grande part du commentaire du livre n'a pas d'équivalent
+dans son œuvre, de sorte que, même dans cette branche, le Message n'est pas du
+Sendy *vulgarisé*. Si la rencontre eut lieu, alors
 les Élohim choisirent, comme préparation de leur messager, une France dans
 laquelle Jean Sendy avait passé onze ans à enseigner au public lecteur
 exactement comment analyser les mots *« nous sommes des hommes comme

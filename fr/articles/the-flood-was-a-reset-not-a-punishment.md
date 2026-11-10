@@ -555,9 +555,9 @@ convictions opposées, tenues avec assez de force, peuvent finir là où cet ess
 commencé : dans une arme qui ne peut viser. La première : ce n'est pas la lecture
 des « {% wiki(slug="ancient-astronaut-hypothesis") %}anciens astronautes{% end %} »
 de la littérature marginale populaire, une lignée que l'appareil même du corpus
-désavoue explicitement. Les *Anunnaki*{{ footnote(id="12") }} sumériens ne sont pas un panthéon
-littéral d'hommes de l'espace, et les textes ne cachent aucun vocabulaire
-d'ingénierie sous les noms divins. Le dossier repose sur la seule forme narrative
+désavoue explicitement. Ce n'est pas la lecture que fait Sitchin des {% wiki(slug="anunnaki") %}*Anunnaki*{% end %}{{ footnote(id="12") }} sumériens,
+et elle ne trouve aucun vocabulaire d'ingénierie caché
+sous les noms divins. Le dossier repose sur la seule forme narrative
 — sur le fait que le plus ancien récit du déluge est bâti comme une décision, une
 exécution et une revue. La seconde : la lecture serrée ne dépend pas du tout du
 cadre. Un lecteur qui trouve la reconstruction du canon un pont de trop peut

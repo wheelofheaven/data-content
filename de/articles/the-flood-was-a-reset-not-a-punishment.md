@@ -559,9 +559,9 @@ die Abwesenheit von Meinungsverschiedenheit. Gegensätzliche Überzeugungen, sta
 genug gehegt, können dort enden, wo dieser Essay begann: in einer Waffe, die
 nicht zielen kann. Das Erste: Dies ist nicht die
 {% wiki(slug="ancient-astronaut-hypothesis") %}„Prä-Astronautik"{% end %}-Lesart der populären randständigen Literatur, eine Linie, die der
-eigene Apparat des Korpus ausdrücklich von sich weist. Die sumerischen
-*Anunnaki*{{ footnote(id="12") }} sind kein wörtliches Pantheon von Raumfahrern, und die Texte
-verbergen kein technisches Vokabular unter den göttlichen Namen. Der Fall ruht
+eigene Apparat des Korpus ausdrücklich von sich weist. Es ist nicht die Sitchin-Lesart der sumerischen
+*Anunnaki*{{ footnote(id="12") }}, und es findet kein technisches Vokabular,
+das unter den göttlichen Namen verborgen wäre. Der Fall ruht
 allein auf der narrativen Gestalt — darauf, dass die älteste Flutgeschichte als
 Entscheidung, Vollzug und Nachprüfung gebaut ist. Das Zweite: Die genaue Lektüre
 hängt überhaupt nicht vom Rahmen ab. Ein Leser, der die Rekonstruktion des

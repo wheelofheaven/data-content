@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Jean Sendy (1910–1978) — in Russland geborener Pariser, Kriegskorrespondent, Übersetzer von Raymond Chandler, Amateur-Tischler, monokeltragender Dandy der Avantgarde der 1930er Jahre — veröffentlichte 1963 die erste fertige Formulierung der Lesart, in der dieses Projekt lebt: die Hebräische Bibel, beim Wort genommen, berichtet vom Aufenthalt pluraler, physischer, sterblicher Elohim auf der Erde. Dann tat er etwas, das niemand sonst in der Ahnenreihe je zuvor oder danach getan hat: Er setzte die gesamte Lesart auf eine falsifizierbare Vorhersage, gedruckt, mit einer Frist — Spuren der Anlagen der Elohim würden binnen eines Jahres nach der ersten Landung auf dem Mond gefunden, und würden sie es nicht, „ist meine Hypothese für falsch zu halten“. Dieser Explainer liest sein gesamtes Werk genau im Französischen — die Cahiers de cours de Moïse von 1963, La lune, clé de la Bible, Ces dieux qui firent le ciel et la terre, Nous autres, gens du Moyen Âge, L'Ère du Verseau und die späten Temps messianiques — und vergleicht die Befunde mit dem raëlianischen Kanon in der Tiefe, die die Verwandtschaft verdient. Er geht seine zwei wahrhaft originellen Thesen durch: dass die mittelalterliche Exegese der wirklichen Bedeutung des Textes näher stand, als es der Säkularismus von Renaissance und Aufklärung je war, und dass die Kabbala, über den Oberrabbiner Alexandre Safran erschlossen, eine Lehre bewahrt, die älter ist als Mose und deren Kernversprechen — „der Mensch wird die zu Beginn der Genesis berichteten Taten erneuern“ — ein bereits laufendes Programm ist. Er prüft die Wette ehrlich: Apollo fand nichts, und nach Sendys eigener Scharlatan-Klausel gilt die Mondarche wie formuliert als widerlegt — ein Urteil, dem er mit mehr Anstand begegnete, als seine Nachahmer je zugeben. Und er behandelt, ohne Polemik, die Frage, die seinen Ruf von beiden Seiten verflacht hat — was genau die raëlianische Offenbarung von 1974 den Büchern schuldet, die dieser „brave jeune homme“ mit Sicherheit gelesen hatte —, wobei er zugleich die strukturellen Divergenzen markiert, die aus Sendy einen parallelen Zeugen und nicht einen Rohentwurf machen: Seine Elohim rekolonisieren eine verwüstete Erde, statt Leben zu erschaffen, sein Jahwe ist ein immaterielles Prinzip und kein Präsident, und seine Himmlischen kehren aller Wahrscheinlichkeit nach nie zurück."
+summary = "Jean Sendy (1910–1978) — in Russland geborener Pariser, Kriegskorrespondent, Übersetzer von Raymond Chandler, Amateur-Tischler, monokeltragender Dandy der Avantgarde der 1930er Jahre — veröffentlichte 1963 die erste fertige Formulierung der Lesart, in der dieses Projekt lebt: die Hebräische Bibel, beim Wort genommen, berichtet vom Aufenthalt pluraler, physischer, sterblicher Elohim auf der Erde. Dann tat er etwas, das niemand sonst in der Ahnenreihe je zuvor oder danach getan hat: Er setzte die gesamte Lesart auf eine falsifizierbare Vorhersage, gedruckt, mit einer Frist — Spuren der Anlagen der Elohim würden binnen eines Jahres nach der ersten Landung auf dem Mond gefunden, und würden sie es nicht, „ist meine Hypothese für falsch zu halten“. Dieser Explainer liest sein gesamtes Werk genau im Französischen — die Cahiers de cours de Moïse von 1963, La lune, clé de la Bible, Ces dieux qui firent le ciel et la terre, Nous autres, gens du Moyen Âge, L'Ère du Verseau und die späten Temps messianiques — und vergleicht die Befunde mit dem raëlianischen Kanon in der Tiefe, die die Verwandtschaft verdient. Er geht seine zwei wahrhaft originellen Thesen durch: dass die mittelalterliche Exegese der wirklichen Bedeutung des Textes näher stand, als es der Säkularismus von Renaissance und Aufklärung je war, und dass die Kabbala, über den Oberrabbiner Alexandre Safran erschlossen, eine Lehre bewahrt, die älter ist als Mose und deren Kernversprechen — „der Mensch wird die zu Beginn der Genesis berichteten Taten erneuern“ — ein bereits laufendes Programm ist. Er prüft die Wette ehrlich: Apollo fand nichts, und nach Sendys eigener Scharlatan-Klausel gilt die Mondarche wie formuliert als widerlegt — ein Urteil, dem er mit mehr Anstand begegnete, als seine Nachahmer je zugeben. Und er behandelt, ohne Polemik, die Frage, die seinen Ruf von beiden Seiten verflacht hat — ob die raëlianische Offenbarung von 1974 den Büchern überhaupt etwas schuldet, die dieser „brave jeune homme“ nach Sendys Worten gelesen hatte —, wobei er zugleich die strukturellen Divergenzen zwischen beiden markiert: Seine Elohim rekolonisieren eine verwüstete Erde, statt Leben zu erschaffen, sein Jahwe ist ein immaterielles Prinzip und kein Präsident, und seine Himmlischen kehren aller Wahrscheinlichkeit nach nie zurück."
 keywords = ["Jean Sendy", "Elohim", "Célestes", "Theosites", "Galaxiens", "La lune clé de la Bible", "Moon Outpost of the Gods", "arc d'alliance", "Präzession der Tagundnachtgleichen", "Zeitalter des Wassermanns", "Mediävalismus", "Humanismus", "Giordano Bruno", "Alexandre Safran", "Kabbala", "tikkun olam", "Hamlet's Mill", "Falsifizierbarkeit", "Paläokontakt", "Neo-Euhemerismus", "Raël", "Stefano Bigliardi"]
 references = [
     # — The canon under comparison —
@@ -670,8 +670,9 @@ Spitze gibt.
 ## Wo die Lesarten sich trennen
 
 Ein Vergleich, der nur Übereinstimmung fände, wäre Werbung, und bei Sendy sind
-die Divergenzen keine Verzierung — zwei von ihnen sind strukturell, und sie
-sind es, die aus ihm einen parallelen Zeugen statt eines Rohentwurfs machen.
+die Divergenzen keine Verzierung — zwei von ihnen sind strukturell. Sie entscheiden für
+sich allein nicht, ob die Botschaft von ihm abhängt, aber sie markieren, wie
+weit die beiden Projekte auseinanderliegen.
 
 **Schöpfung gegen Rekolonisierung.** Die Elohim des Kanons *erschaffen*: Das
 Leben auf der Erde, alles davon, ist ihre Laborarbeit, von der Alge bis zum
@@ -784,9 +785,12 @@ Absicht zu befinden.
 Dieses Projekt liest die raëlianischen Texte als Kanon, daher sollte seine
 Position mit vollständiger Transparenz formuliert werden, und das kann sie,
 weil die Logik symmetrisch ist. Fand die Begegnung von 1973 nicht statt, dann
-ist die Genealogie geradlinig: Die Botschaft ist eine Verdichtung Sendys —
-Sendy *vulgarisé*, seine Hypothese mit amputierter Falsifizierbarkeitsklausel
-und einem aufgepfropften Zeugnis. Fand die Begegnung statt, dann wählten die
+bräuchte die Botschaft menschliche Quellen, und Sendy ist der naheliegende
+Kandidat für ihr Genesis-Kapitel; doch der Punkt-für-Punkt-Vergleich in
+[Sendy und die raëlianischen Botschaften](/de/articles/sendy-and-the-raelian-messages/)
+findet, dass der größte Teil des Kommentars des Buches in seinem Werk keine
+Entsprechung hat, sodass die Botschaft selbst in diesem Zweig nicht Sendy
+*vulgarisé* ist. Fand die Begegnung statt, dann wählten die
 Elohim als Vorbereitung ihres Boten ein Frankreich, in dem Jean Sendy elf
 Jahre damit verbracht hatte, dem lesenden Publikum genau beizubringen, wie man
 die Worte *„nous sommes des hommes comme vous“* zu deuten hat — und ein bereits

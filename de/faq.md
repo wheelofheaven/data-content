@@ -94,7 +94,7 @@ question = "Worin unterscheidet sich das von der Prä-Astronautik?"
 answer = """
 Das Projekt teilt die grundlegende Aussage der prä-astronautischen Tradition — dass antikes religiöses und mythologisches Material ein zutreffendes Zeugnis der Eingriffe einer fortgeschrittenen Zivilisation bewahrt — unterscheidet sich aber erheblich in Quellendisziplin und konkreten interpretativen Festlegungen.
 
-Das Projekt steht nicht in der Tradition Sitchins. Es übernimmt weder den Nibiru-Rahmen, noch die Anunnaki-Identifikationen, noch die konkreten chronologischen Aussagen der *Earth Chronicles*-Reihe von Zecharia Sitchin. Es steht auch nicht in der Tradition von Däniken, obwohl Erich von Dänikens *Erinnerungen an die Zukunft* (1968) ein Vorläufer in der Popularisierung des breiteren Rahmens war.
+Das Projekt steht nicht in der Tradition Sitchins. Es übernimmt weder den Nibiru-Rahmen, noch Sitchins Zuordnung einzelner Gottheiten unter den Anunnaki, noch die konkreten chronologischen Aussagen der *Earth Chronicles*-Reihe von Zecharia Sitchin. Es steht auch nicht in der Tradition von Däniken, obwohl Erich von Dänikens *Erinnerungen an die Zukunft* (1968) ein Vorläufer in der Popularisierung des breiteren Rahmens war.
 
 Der spezifische Rahmen des Projekts — getrieben von raëlianischen Quellen, präzessional organisiert, intern quellendiszipliniert — unterscheidet es von der breiteren prä-astronautischen Tradition. Das Projekt setzt sich mit den konkreten Argumenten jener Tradition nach ihren eigenen Maßstäben auseinander, ohne die Tradition als Ganzes zu billigen.
 """

@@ -279,8 +279,8 @@ surviving text remembers, and both can be true at once.{{ footnote(id="5") }}
 Two proposed anchors for the name deserve a caution. The connection sometimes
 drawn between "wheel of heaven" and Akhenaten's Aten cult has no direct warrant
 in the Amarna record and is not one the corpus treats as
-established.{{ footnote(id="4") }} And the count of roughly forty prophets sent
-across the ages is a figure internal to the Raëlian source, not one derived from
+established.{{ footnote(id="4") }} And the "forty or so" at the table on the planet of the Eternals
+(ETTMTTP-2:64) is a figure internal to the Raëlian source, not one derived from
 any single tradition's own reckoning.{{ footnote(id="3") }}
 
 ## See also

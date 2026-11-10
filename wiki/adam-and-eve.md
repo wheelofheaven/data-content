@@ -1,7 +1,7 @@
 +++
 title = "Adam and Eve"
 slug = "adam-and-eve"
-description = "Adam (Hebrew: אָדָם, ʾāḏām) and Eve (Hebrew: חַוָּה, ḥawwāh) are the first humans of the Hebrew Bible's Genesis narrative — formed by the Elohim in the garden of Eden, given the prohibition concerning the Tree of the Knowledge of Good and Evil, and expelled after eating from it. In the Wheel of Heaven reading, drawn from the Raëlian source material, they are historical figures: the first humans engineered by the Israel team of Elohim creators in the Eden laboratory during the late Age of Leo, taught there, given the withheld scientific knowledge by the dissenting Lucifer faction, and expelled when the Council restricted that knowledge. They are the founding pair of the lineage whose history the Hebrew Bible records, and in the source material both are numbered among the resurrected on the Planet of the Eternals."
+description = "Adam (Hebrew: אָדָם, ʾāḏām) and Eve (Hebrew: חַוָּה, ḥawwāh) are the first humans of the Hebrew Bible's Genesis narrative — formed by the Elohim in the garden of Eden, given the prohibition concerning the Tree of the Knowledge of Good and Evil, and expelled after eating from it. In the Wheel of Heaven reading, drawn from the Raëlian source material, they are historical figures: the first humans engineered by the Israel team of Elohim creators in the Eden laboratory during the late Age of Leo, taught there, given the withheld scientific knowledge by the dissenting Lucifer faction, and expelled when the Council restricted that knowledge. They are the founding pair of the lineage whose history the Hebrew Bible records."
 template = "wiki-page.html"
 toc = true
 

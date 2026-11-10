@@ -922,9 +922,9 @@ er sich weiterhin auf Struktur.
 Die Einordnung also, in der Reihenfolge, in der die Belege sie
 zusammengetragen haben. Der Raëlismus ist dem Kostüm nach eine neue religiöse
 Bewegung der UFO-Ära; nach seiner eigenen präzisen Selbstbeschreibung eine
-atheistische Religion; per Wette eine wissenschaftliche Religion, mit einem
-Falsifikationsdatum, das er zweimal verschoben hat und nicht wegspiritualisieren
-kann; nach Passung eine postmoderne Religion; und nach Abstammung, Inhalt,
+atheistische Religion; per Wette eine wissenschaftliche Religion, auch wenn die
+Rückkehrfrist 2035, die Palmer aus der Bewegung berichtet, eine zentrale
+Vorhersage dem Risiko empirischen Scheiterns aussetzt; nach Passung eine postmoderne Religion; und nach Abstammung, Inhalt,
 Personal und Eschatologie ein Mitglied der abrahamitischen Familie — geformt,
 wie der Bahá'í-Glaube vor ihm, von einem Boten, der seine Vorgänger
 serialisierte, und zum Weltraumzeitalter stehend, wie Cao Đài zum

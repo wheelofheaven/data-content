@@ -154,8 +154,8 @@ Le Tétragramme *YHWH* apparaît environ 6 800 fois dans la Bible hébraïque, d
 
 ### Les principales apparitions narratives
 
-{% library(book="the-book-which-tells-the-truth", chapter=1, verse=51) %}
-Nous sommes des hommes comme vous, et nous vivons sur une planète assez semblable à la Terre.
+{% library(book="the-book-which-tells-the-truth", chapter=1, verse=53) %}
+Nous sommes des hommes comme vous et nous vivons sur une planète assez semblable à la Terre.
 {% end %}
 
 Les apparitions directes les plus significatives de Yahvé dans la Bible hébraïque, dans leur séquence canonique, incluent :
@@ -225,7 +225,7 @@ L'Ère des Poissons (vers 210 AEC – 1950 EC) est l'ère du retrait délibéré
 
 Le 13 décembre 1973, à la caldeira volcanique du Puy-de-Lassolas près de Clermont-Ferrand, Yahvé — sous la même identité que celle qui avait parlé à Moïse et aux prophètes hébreux — prit contact direct avec Claude Vorilhon sur six matinées successives, livrant le récit qui devint *Le Livre qui dit la vérité*. Un second contact, plus long, en octobre 1975, mena Vorilhon sur la planète d'origine de l'alliance, où il rencontra Yahvé et le Conseil des Éternels ainsi que les figures terrestres ressuscitées (Jésus, Moïse, Élie et d'autres) qui y résident. Le matériau source raëlien est le corps d'enseignement livré au cours de ces contacts. Le corpus lit ces contacts comme la première intervention directe de l'alliance depuis les missions de l'Ère des Poissons, marquant l'ouverture de l'Ère du Verseau et le commencement de la période durant laquelle l'humanité doit être informée avec exactitude de ses origines.
 
-Les contacts ont également révélé, selon la déclaration propre de Yahvé, que Vorilhon est biologiquement son fils — produit par la même procédure d'insémination médiée par l'alliance qui avait produit Jésus deux mille ans plus tôt. La divulgation fut faite lors du second contact en 1975, avec la demande de Yahvé que Vorilhon ne révèle pas le lien parental pendant trois ans. Le schéma structurel — conception hybride, médiée par l'alliance, des figures prophétiques inaugurales aux transitions précessionnelles conséquentes — est traité dans l'entrée [Prophète](../prophet/).
+Le récit ultérieur de Raël dans *Accueillir les extra-terrestres* ajoute que, lors du second contact en 1975, Yahvé lui dit qu'il était biologiquement son fils — sa mère ayant été inséminée à bord d'un engin comme l'avait été la mère de Jésus — et lui demanda de ne pas révéler ce lien parental avant que trois ans se soient écoulés (LWTE 2:85–90). Le récit du contact de 1975 lui-même ne le rapporte pas. Cela n'est dit que de deux figures, Jésus et Raël, et le corpus n'en tire aucun schéma plus large ; l'entrée [Prophète](../prophet/) traite les deux cas.
 
 ## Rôle dans le cadre
 

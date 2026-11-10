@@ -168,7 +168,7 @@ The Alliance's structure has been transformed repeatedly:
 
 **Phase VII — Piscean-age pluriform mission (early Pisces, c. 0–700 CE)**. Intervention through Jesus, extended through Muhammad and the pluriform prophetic strategy — a mission built for the universal-distribution requirements of the post-Aries age.
 
-**Phase VIII — Piscean-age silence (mid-to-late Pisces, c. 700–1945 CE)**. Direct interventions grow rare as the alliance lets humanity develop on its own; periodic figures (Joseph Smith, the Bab, Baha'u'llah, others) keep a minimal presence.
+**Phase VIII — Piscean-age silence (mid-to-late Pisces, c. 700–1945 CE)**. Direct interventions grow rare as the alliance lets humanity develop on its own. Of later figures, only Joseph Smith is named, in Raël's own commentary, among the prophets the movement recognises (LWTE 3:27); the corpus registers other modern movements, such as the Bábí and Bahá'í faiths, in their own terms.
 
 **Phase IX — Aquarian-age opening (1945–present)**. The 1945 atomic threshold opens the age; the alliance resumes more direct contact through Raël (the 1973–1975 contacts) and prepares the embassy for the open return.
 

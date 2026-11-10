@@ -1,6 +1,6 @@
 +++
 title = "Die Schriftrollen, die im Jahr eins erwachten"
-description = "Der Stein eines Hirten zerbrach über dem Toten Meer einen Krug im Jahr eins des Kalenders, der von Hiroshima an zählt. Was die Rollen enthüllten — und warum die Zeitrechnung passt."
+description = "Der Stein eines Hirten zerbrach über dem Toten Meer einen Krug im Jahr eins des Kalenders des Kanons, im Jahr nach Hiroshima. Was die Rollen enthüllten — und warum die Zeitrechnung passt."
 template = "articles-page.html"
 date = 2026-07-13
 draft = false
@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Im Winter 1946/47 — dem ersten Jahr des Kalenders, den der raëlianische Kanon vom Blitz über Hiroshima an zählt — brach ein beduinischer Hirte in einer Felswand über dem Toten Meer einen Krug auf und zog die ältesten Bibelhandschriften hervor, die je jemand gesehen hatte. Dieser Explainer erzählt die ganze Geschichte in voller Länge: den Schuster von Bethlehem, den Erzbischof, der behauptete, die Rollen stammten aus seiner Klosterbibliothek, den Professor, der sie in der Woche der UN-Teilungsabstimmung durch einen Stacheldrahtzaun hindurch beglaubigte, die Kleinanzeige im Wall Street Journal, die Geheimdienstoffiziere, die 1967 die Tempelrolle unter Kandos Fußboden hervorholten, und den vierzigjährigen Publikationsskandal, den ein Computer und eine kalifornische Bibliothek 1991 endlich beendeten. Danach liest er die Fracht. Die Rollen zeigen einen noch offenen Schriftkanon — 1 Henoch und Jubiläen häufiger abgeschrieben als die Sprüche — und einen noch fließenden Bibeltext, darunter ein Deuteronomium-Fragment, das ‚Söhne der Elohim' dort bewahrt, wo der überlieferte Text zu ‚Söhne Israels' redigiert wurde, und ein Kommentar, der das Wort elohim auf einen himmlischen Amtsträger namens Melchisedek anwendet. Und er wägt den Rahmen, den der Kanon selbst liefert: dass dieselben achtzehn Monate, die das Atomzeitalter eröffneten, auch zwei vergrabene Bibliotheken, die erste Fliegende-Untertassen-Welle, den Transistor, den Staat Israel und die Geburt des Mannes ausspieen, dem die Botschaften später diktiert wurden. Das Synchronizitätsargument ist erschlossene Synthese und wird entsprechend gekennzeichnet; die Handschriften, die Daten und die Zitate sind überprüfbar, und jedes einzelne ist belegt."
+summary = "Im Winter 1946/47 — dem ersten Jahr des Kalenders, den der raëlianische Kanon ab 1946 zählt, dem Jahr nach dem Blitz über Hiroshima — brach ein beduinischer Hirte in einer Felswand über dem Toten Meer einen Krug auf und zog die ältesten Bibelhandschriften hervor, die je jemand gesehen hatte. Dieser Explainer erzählt die ganze Geschichte in voller Länge: den Schuster von Bethlehem, den Erzbischof, der behauptete, die Rollen stammten aus seiner Klosterbibliothek, den Professor, der sie in der Woche der UN-Teilungsabstimmung durch einen Stacheldrahtzaun hindurch beglaubigte, die Kleinanzeige im Wall Street Journal, die Geheimdienstoffiziere, die 1967 die Tempelrolle unter Kandos Fußboden hervorholten, und den vierzigjährigen Publikationsskandal, den ein Computer und eine kalifornische Bibliothek 1991 endlich beendeten. Danach liest er die Fracht. Die Rollen zeigen einen noch offenen Schriftkanon — 1 Henoch und Jubiläen häufiger abgeschrieben als die Sprüche — und einen noch fließenden Bibeltext, darunter ein Deuteronomium-Fragment, das ‚Söhne der Elohim' dort bewahrt, wo der überlieferte Text zu ‚Söhne Israels' redigiert wurde, und ein Kommentar, der das Wort elohim auf einen himmlischen Amtsträger namens Melchisedek anwendet. Und er wägt den Rahmen, den der Kanon selbst liefert: dass dieselben achtzehn Monate, die das Atomzeitalter eröffneten, auch zwei vergrabene Bibliotheken, die erste Fliegende-Untertassen-Welle, den Transistor, den Staat Israel und die Geburt des Mannes ausspieen, dem die Botschaften später diktiert wurden. Das Synchronizitätsargument ist erschlossene Synthese und wird entsprechend gekennzeichnet; die Handschriften, die Daten und die Zitate sind überprüfbar, und jedes einzelne ist belegt."
 keywords = ["Schriftrollen vom Toten Meer", "Qumran", "Essener", "Jahr eins", "Zeitalter der Apokalypse", "Hiroshima", "1947", "Sukenik", "Yadin", "Schrein des Buches", "1 Henoch", "Jubiläen", "Söhne der Elohim", "Melchisedek", "Nag Hammadi", "Nabatäer", "Kando", "Lehrer der Gerechtigkeit", "Kriegsrolle"]
 references = [
     # — The canon supplying the calendar —
@@ -683,7 +683,7 @@ Zwei-Geister-Kosmologie, ihre „Söhne der Elohim", ihre himmlische
 *elohim* namens Melchisedek — in Krügen in einer Felswand, und die Krüge
 blieben verschlossen durch den gesamten Lauf der Ära, deren Schrift ohne
 sie redigiert, übersetzt und geschlossen wurde. Sie öffneten sich in den
-ersten Monaten des Kalenders, der von Hiroshima an zählt, in die eine
+ersten Monaten des Kalenders, der 1946 als Jahr eins zählt, in die eine
 Generation hinein, die mit der Philologie ausgestattet war, sie zu lesen,
 der Fotografie, sie festzuhalten, dem Computer, sie zu rekonstruieren,
 und — nach dem Bericht des Kanons — der Erklärung, sie einzuordnen. Die

@@ -94,7 +94,7 @@ question = "¿En qué se diferencia esto de la teoría de los antiguos astronaut
 answer = """
 El proyecto comparte la afirmación fundacional de la tradición de los antiguos astronautas — que el material religioso y mitológico antiguo preserva un testimonio fiel de intervenciones de civilizaciones avanzadas — pero difiere significativamente en disciplina de fuentes y en compromisos interpretativos específicos.
 
-El proyecto no deriva de Sitchin. No acepta el marco de Nibiru, las identificaciones con los Anunnaki ni las afirmaciones cronológicas específicas de la serie *Crónicas de la Tierra* de Zecharia Sitchin. Tampoco deriva de von Däniken, aunque *El recuerdo del futuro* (1968) de Erich von Däniken fue un precursor en la popularización del marco general.
+El proyecto no deriva de Sitchin. No acepta el marco de Nibiru, las identificaciones de los Anunnaki deidad por deidad de Sitchin ni las afirmaciones cronológicas específicas de la serie *Crónicas de la Tierra* de Zecharia Sitchin. Tampoco deriva de von Däniken, aunque *El recuerdo del futuro* (1968) de Erich von Däniken fue un precursor en la popularización del marco general.
 
 El marco específico del proyecto — basado en fuentes raelianas, organizado precesionalmente, internamente disciplinado en cuanto a fuentes — lo distingue de la tradición más amplia de los antiguos astronautas. El proyecto dialoga con los argumentos específicos de esa tradición según sus méritos, sin respaldarla en su conjunto.
 """

@@ -1,6 +1,6 @@
 +++
 title = "Los rollos que despertaron en el año uno"
-description = "La piedra de un pastor rompió una tinaja sobre el Mar Muerto en el año uno del calendario que cuenta desde Hiroshima. Lo que los rollos develaron —y por qué la fecha encaja—."
+description = "La piedra de un pastor rompió una tinaja sobre el Mar Muerto en el año uno del calendario del canon, el año siguiente a Hiroshima. Lo que los rollos develaron —y por qué la fecha encaja—."
 template = "articles-page.html"
 date = 2026-07-13
 draft = false
@@ -12,7 +12,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "En el invierno de 1946/47 —el primer año del calendario que el canon raeliano cuenta desde el destello sobre Hiroshima— un pastor beduino rompió una tinaja en un risco por encima del Mar Muerto y sacó de ella los manuscritos bíblicos más antiguos que nadie había visto jamás. Este Explicativo cuenta la historia entera con toda amplitud: el zapatero de Belén, el arzobispo que sostenía que los rollos procedían de la biblioteca de su monasterio, el profesor que los autenticó a través de una alambrada en la semana de la votación de la partición en la ONU, el anuncio por palabras en el Wall Street Journal, los oficiales de inteligencia que en 1967 se llevaron el Rollo del Templo de debajo del suelo de Kando, y el escándalo editorial de cuarenta años que un ordenador y una biblioteca californiana pusieron fin por fin en 1991. Después lee la carga. Los rollos muestran un canon escriturario aún abierto —1 Enoc y Jubileos copiados con más frecuencia que Proverbios— y un texto bíblico aún fluido, incluido un fragmento del Deuteronomio que conserva «hijos de Elohim» donde el texto recibido fue editado para leer «hijos de Israel», y un comentario que aplica la palabra elohim a un oficial celestial llamado Melquisedec. Y sopesa el marco que el propio canon aporta: que los mismos dieciocho meses que abrieron la era atómica también expulsaron dos bibliotecas enterradas, la primera oleada de platillos volantes, el transistor, el estado de Israel y el nacimiento del hombre a quien más tarde le fueron dictados los mensajes. El argumento de la sincronicidad es síntesis interpretativa y está etiquetado en consecuencia; los manuscritos, las fechas y las citas son comprobables, y cada una de ellas está referenciada."
+summary = "En el invierno de 1946/47 —el primer año del calendario que el canon raeliano cuenta desde 1946, el año siguiente al destello sobre Hiroshima— un pastor beduino rompió una tinaja en un risco por encima del Mar Muerto y sacó de ella los manuscritos bíblicos más antiguos que nadie había visto jamás. Este Explicativo cuenta la historia entera con toda amplitud: el zapatero de Belén, el arzobispo que sostenía que los rollos procedían de la biblioteca de su monasterio, el profesor que los autenticó a través de una alambrada en la semana de la votación de la partición en la ONU, el anuncio por palabras en el Wall Street Journal, los oficiales de inteligencia que en 1967 se llevaron el Rollo del Templo de debajo del suelo de Kando, y el escándalo editorial de cuarenta años que un ordenador y una biblioteca californiana pusieron fin por fin en 1991. Después lee la carga. Los rollos muestran un canon escriturario aún abierto —1 Enoc y Jubileos copiados con más frecuencia que Proverbios— y un texto bíblico aún fluido, incluido un fragmento del Deuteronomio que conserva «hijos de Elohim» donde el texto recibido fue editado para leer «hijos de Israel», y un comentario que aplica la palabra elohim a un oficial celestial llamado Melquisedec. Y sopesa el marco que el propio canon aporta: que los mismos dieciocho meses que abrieron la era atómica también expulsaron dos bibliotecas enterradas, la primera oleada de platillos volantes, el transistor, el estado de Israel y el nacimiento del hombre a quien más tarde le fueron dictados los mensajes. El argumento de la sincronicidad es síntesis interpretativa y está etiquetado en consecuencia; los manuscritos, las fechas y las citas son comprobables, y cada una de ellas está referenciada."
 keywords = ["Manuscritos del Mar Muerto", "Qumrán", "Esenios", "año uno", "Era del Apocalipsis", "Hiroshima", "1947", "Sukenik", "Yadin", "Santuario del Libro", "1 Enoc", "Jubileos", "hijos de Elohim", "Melquisedec", "Nag Hammadi", "Nabateos", "Kando", "Maestro de Justicia", "Rollo de la Guerra"]
 references = [
     # — The canon supplying the calendar —
@@ -661,7 +661,7 @@ biblioteca —su Enoc, su cosmología de los dos espíritus, sus «hijos de
 Elohim», su *elohim* celestial llamado Melquisedec— en tinajas dentro de
 un risco, y las tinajas permanecieron cerradas durante toda la travesía
 de la era cuya Escritura fue editada, traducida y cerrada sin ellas. Se
-abrieron en los primeros meses del calendario que cuenta desde Hiroshima,
+abrieron en los primeros meses del calendario que cuenta 1946 como año uno,
 en la única generación equipada con la filología para leerlas, la
 fotografía para fijarlas, el ordenador para reconstruirlas y —según el
 canon— la explicación para situarlas. La lectura del escéptico está

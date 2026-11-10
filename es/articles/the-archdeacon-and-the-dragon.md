@@ -494,8 +494,8 @@ y son específicas.
 «zona cercada» dentro de una región llamada Edén, emplazada cerca de
 yacimientos minerales explotables, con sus ocupantes humanos bajo
 instrucción. El canon lee ese mismo recinto como el laboratorio y el sitio
-de habitación del equipo de Israel —el más brillante de los siete equipos de
-creación
+de habitación del equipo de Israel —uno de los más brillantes, si no el más
+brillante, de los equipos creadores
 ({% libref(book="the-book-which-tells-the-truth", chapter=2, verse=28) %}TBWTT 2:28{% end %})—.
 Ambas lecturas toman el reconocimiento mineral del Génesis 2 como un detalle
 operativo al que la teología nunca dio uso alguno.

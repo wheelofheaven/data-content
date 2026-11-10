@@ -503,7 +503,7 @@ car elles sont nombreuses et précises.
 close » au sein d'une région appelée Éden, sise près de gisements minéraux
 exploitables, ses occupants humains sous instruction. Le canon lit la même
 enceinte comme le laboratoire et le site d'habitation de l'équipe
-d'Israël — la plus brillante des sept équipes de création
+d'Israël — l'une des plus brillantes, sinon la plus brillante, des équipes de créateurs
 ({% libref(book="the-book-which-tells-the-truth", chapter=2, verse=28) %}LLQDV 2:28{% end %}).
 Les deux lectures prennent le relevé minier de la Genèse 2 pour un détail
 opérationnel dont la théologie n'a jamais su que faire.

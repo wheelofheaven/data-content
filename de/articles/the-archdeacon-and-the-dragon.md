@@ -503,7 +503,7 @@ nebeneinanderlegen, denn sie sind zahlreich und sie sind spezifisch.
 Zone" innerhalb einer Region namens Eden, angesiedelt nahe abbaubaren
 Mineralvorkommen, ihre menschlichen Bewohner unter Anweisung. Der Kanon liest
 dieselbe Umzäunung als das Labor und den Wohnort des Israel-Teams — des
-brillantesten der sieben Schöpfungsteams
+eines der brillantesten, wenn nicht des brillantesten der Schöpferteams
 ({% libref(book="the-book-which-tells-the-truth", chapter=2, verse=28) %}TBWTT 2:28{% end %}).
 Beide Lesarten nehmen die Mineralienübersicht von Genesis 2 als
 betrieblichen Detailpunkt, für den die Theologie nie eine Verwendung hatte.

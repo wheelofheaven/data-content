@@ -305,9 +305,10 @@ travail coordonné, à l'observation soutenue du ciel et à l'effort poursuivi s
 plusieurs générations, qui ne demande aucune explication particulière. Une partie
 reflète l'encadrement spécifique, par les créateurs exilés, de traditions
 spécifiques, ainsi que les missions prophétiques qui ont donné à ces traditions
-leur forme culturelle et religieuse. Et le choix récurrent de lieux élevés et
-sacrés, concentré là où la source situe les anciennes stations de montagne, le
-corpus le lit comme l'empreinte ténue de la présence de l'alliance. Ce que le
+leur forme culturelle et religieuse. Le choix récurrent de lieux élevés et
+sacrés, rapproché du récit que fait le canon des stations de montagne, n'est au
+plus qu'un corrélat spéculatif non vérifié ; le corpus ne le compte pas comme
+une preuve. Ce que le
 motif n'exige pas — et ce que le cadre écarte —, c'est une civilisation perdue
 unique qui se tiendrait derrière l'ensemble.
 

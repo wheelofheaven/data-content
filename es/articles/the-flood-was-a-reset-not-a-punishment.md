@@ -527,9 +527,9 @@ sofisticación no es la ausencia de desacuerdo. Las convicciones opuestas, soste
 con la fuerza suficiente, pueden terminar donde este ensayo comenzó: en un arma que
 no puede apuntar. Lo primero: esta no es la lectura de los
 {% wiki(slug="ancient-astronaut-hypothesis") %}«antiguos astronautas»{% end %} de la escritura marginal popular, un linaje que el
-propio aparato del corpus desautoriza explícitamente. Los *Anunnaki*{{ footnote(id="12") }} sumerios no son un
-panteón literal de hombres del espacio, y los textos no esconden ningún vocabulario
-de ingeniería bajo los nombres divinos. El caso descansa solo en la forma narrativa
+propio aparato del corpus desautoriza explícitamente. No es la lectura de Sitchin de los {% wiki(slug="anunnaki") %}*Anunnaki*{% end %}{{ footnote(id="12") }} sumerios,
+y no encuentra ningún vocabulario de ingeniería escondido bajo los nombres
+divinos. El caso descansa solo en la forma narrativa
 —en que la historia del diluvio más antigua está construida como una decisión, una
 ejecución y una revisión—. Lo segundo: la lectura atenta no depende en absoluto del
 marco. Un lector que encuentre la reconstrucción del canon un paso demasiado lejos

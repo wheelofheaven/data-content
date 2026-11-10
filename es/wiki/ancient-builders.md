@@ -302,9 +302,9 @@ coordinado, de observación sostenida del cielo y de esfuerzo prolongado a lo la
 de generaciones, que no necesita ninguna explicación especial. Una parte refleja el
 cultivo específico, por parte de los creadores exiliados, de tradiciones
 específicas y las misiones proféticas que dieron a esas tradiciones su forma
-cultural y religiosa. Y la elección recurrente de terrenos elevados y sagrados,
-concentrada allí donde la fuente sitúa las antiguas estaciones de montaña, el
-corpus la lee como la tenue huella de la presencia de la alianza. Lo que el patrón
+cultural y religiosa. La elección recurrente de terrenos elevados y sagrados,
+puesta junto al relato del canon sobre las estaciones de montaña, es a lo sumo un
+correlato especulativo y no comprobado; el corpus no lo cuenta como prueba. Lo que el patrón
 no requiere — y lo que el marco descarta — es una única civilización perdida
 detrás de todo ello.
 
