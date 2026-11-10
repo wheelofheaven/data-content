@@ -642,9 +642,9 @@ any claim about what may be done to a part. Biology describes a body
 without concluding that the body may eat its cells; a civilizational
 morphology can describe the species-organism while insisting, as the canon
 in fact insists, that its purpose is served by the flourishing of the
-cells, not their expenditure. The canon is emphatic on exactly this point:
-{% wiki(slug="infinity") %}the Infinite{% end %} is "infinitely indifferent" to us
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=65) %}LWTE 1:65{% end %}),
+cells, not their expenditure. Raël, answering a reader, is emphatic on exactly this point:
+{% wiki(slug="infinity") %}the Infinite{% end %} is "infinitely" indifferent to our decisions
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=44) %}LWTE 1:44{% end %}),
 which means no cosmic body is owed our sacrifice; and the individual's life
 "has only the importance that we give it," a value assigned from within,
 not extracted from above. The organism this project describes matures *by*

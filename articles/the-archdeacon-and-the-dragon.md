@@ -480,7 +480,7 @@ are specific.
 "enclosed zone" within a region called Eden, sited near exploitable
 mineral deposits, its human occupants under instruction. The canon reads
 the same enclosure as the Israel team's laboratory and habitation site —
-the most brilliant of the seven creation teams
+one of the most brilliant, if not the most brilliant, of the creator teams
 ({% libref(book="the-book-which-tells-the-truth", chapter=2, verse=28) %}TBWTT 2:28{% end %}).
 Both readings take Genesis 2's mineral survey as an operational detail
 that theology never had a use for.

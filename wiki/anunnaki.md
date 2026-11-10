@@ -148,8 +148,9 @@ the Greek Prometheus steals fire and the arts for humanity against Zeus's will;
 the Indian Manu is warned before a world-destroying deluge. These are useful
 comparisons of narrative function — the divine dissenter, the warning, the
 preserved human line — but resemblance alone does not make Prometheus, Manu,
-Enki, and Lucifer one individual. The Enki–Lucifer connection is a canonical
-reading; the wider parallels describe a recurring mythic type.
+Enki, and Lucifer one individual. The Enki–Lucifer connection is a positional
+correspondence the corpus draws — the canon never names Enki — not a canonical
+identification; the wider parallels describe a recurring mythic type.
 
 ## In the Wheel of Heaven framework
 

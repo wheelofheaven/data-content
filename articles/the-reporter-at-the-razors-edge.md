@@ -624,11 +624,13 @@ Ea's recorded protest that a flood, unlike a lion or a famine, takes
 everyone. What Jacobsen contributes to the file, without intending to, is
 the phenomenology of the aftermath. Her Part V describes survivors under
 a blackened sky, the return to foraging, the loss within generations of
-the knowledge of what the flash had been. The canon's texts describe the
-same epistemic wreckage from the far side: survivors of a technological
-cataclysm transmitting what they saw in the only vocabulary left to them,
-until boats on mountaintops harden into a story about rain
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=54) %}LWTE 1:54{% end %}).
+the knowledge of what the flash had been. The canon's account
+of the Flood approaches the aftermath from the far side: Raël, answering a
+reader, argues that continual rain would have spared every boat and every
+sailor, so a Flood that left survivors only in Noah's vessel was a
+colossal cataclysm that overturned the surface of the Earth, not the
+rainfall it is generally thought to have been
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=48) %}LWTE 1:48{% end %}).
 Jacobsen herself reaches for the pattern in miniature: she recounts how
 Robert Plot, director of Oxford's Ashmolean Museum, confronted with a
 dinosaur femur in 1677, drew it for a learned journal and identified it

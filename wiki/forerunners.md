@@ -1,7 +1,7 @@
 +++
 title = "Forerunners"
 slug = "forerunners"
-description = "Forerunners are, in the Wheel of Heaven framework, the functional class of prophets and visionaries whose missions prepare the way for a more central figure to follow — the preparatory sub-class within the roughly forty-prophet lineage the corpus tracks, distinct from the age-inaugural prophets Moses, Jesus, and Raël. John the Baptist, cast by the Gospels as the herald of Jesus in fulfilment of Malachi 3:1 and Isaiah 40:3, is the model. The framework extends the pattern to the opening of the Aquarian age, reading the late-Piscean founder-prophets (Joseph Smith, the Bab, Baha'u'llah) and the wider nineteenth- and twentieth-century cultural matrix as the preparation that made Claude Vorilhon's reported 1973 contact receivable."
+description = "Forerunners are, in the Wheel of Heaven framework, the functional class of prophets and visionaries whose missions prepare the way for a more central figure to follow — the preparatory sub-class within the roughly forty-prophet lineage the corpus tracks, distinct from the age-inaugural prophets Moses, Jesus, and Raël. John the Baptist, cast by the Gospels as the herald of Jesus in fulfilment of Malachi 3:1 and Isaiah 40:3, is the model. The framework extends the pattern to the opening of the Aquarian age, reading the wider nineteenth- and twentieth-century religious and cultural matrix, the Babi and Baha'i movements among it as comparative material, as the preparation that made Claude Vorilhon's reported 1973 contact receivable."
 template = "wiki-page.html"
 toc = true
 
@@ -27,11 +27,11 @@ see_also = [
 
 [extra.infobox]
 type = "Functional category within the broader Prophet framework; prophets and visionaries whose missions prepare the way for a subsequent, more central figure"
-principal_source = "Inherited from biblical usage rather than named in the Raëlian canon; the corpus engages the category through specific figures (John the Baptist, the Bab, Elijah, the late-Piscean founder-prophets) and through the timeline material on the late-Piscean preparation for the Aquarian-age contact"
+principal_source = "Inherited from biblical usage rather than named in the Raëlian canon; the corpus engages the category through specific figures (John the Baptist, the Bab, Elijah, the nineteenth-century Babi and Baha'i material) and through the timeline material on the late-Piscean preparation for the Aquarian-age contact"
 biblical_grounding = "Malachi 3:1 ('Behold, I will send my messenger, and he shall prepare the way before me'); Isaiah 40:3 ('A voice cries in the wilderness: prepare the way of Yahweh'); Malachi 4:5-6 (Elijah's return before the day of Yahweh); Mark 1:2-3, Matthew 3:1-3, Luke 3:1-6, John 1:6-8 and 1:19-28 (John the Baptist as forerunner of Jesus)"
 core_corpus_articulation = "Preparatory rather than inaugural prophets; they cultivate the cultural conditions in which a subsequent age-inaugural mission can be received, as John the Baptist prepared first-century Judea for Jesus"
-principal_forerunners = "John the Baptist (forerunner of Jesus); the Bab (self-designated forerunner of Baha'u'llah); Elijah (Hebrew Bible forerunner tradition); Joseph Smith, the Bab, and Baha'u'llah as late-Piscean forerunners of the Aquarian-age contact"
-aquarian_age_preparation_focus = "The nineteenth- and twentieth-century groundwork the corpus reads as preparation for the reported December 1973 contact: the late-Piscean founder-prophets; the Theosophical and esoteric revival (Blavatsky and successors); the mid-century UFO-contactee tradition (Adamski, Van Tassel, Menger, Fry); and the broader matrix of science fiction, the space race, and 1960s counterculture"
+principal_forerunners = "John the Baptist (forerunner of Jesus); the Bab (self-designated forerunner of Baha'u'llah); Elijah (Hebrew Bible forerunner tradition)"
+aquarian_age_preparation_focus = "The nineteenth- and twentieth-century groundwork the corpus reads as preparation for the reported December 1973 contact: the nineteenth-century religious founders, read as comparative material; the Theosophical and esoteric revival (Blavatsky and successors); the mid-century UFO-contactee tradition (Adamski, Van Tassel, Menger, Fry); and the broader matrix of science fiction, the space race, and 1960s counterculture"
 distinguished_from = "Age-inaugural prophets (Moses, Jesus, Raël); the pre-Elohim creator civilization (treated in the Cosmic Chain entry); the Latter-day Saint 'forerunner' usage for figures of the pre-mortal existence"
 status_in_framework = "A preparatory sub-category within the prophet institution; a recurring pattern the corpus reads across age-transitions, with its principal weight on the late-Piscean preparation for the Aquarian age. The category is the project's synthesis; the Raëlian canon does not use the term."
 +++
@@ -151,11 +151,12 @@ The reading's distinctive move is to carry the forerunner pattern forward to the
 opening of the Aquarian age. The corpus treats the late Piscean centuries as a
 long preparation phase for the contact Claude Vorilhon (Raël) reports receiving on
 13 December 1973, at the crater of Puy de Lassolas near Clermont-Ferrand in the
-Auvergne. On this account several nineteenth-century founder-prophets already
-recognised in the forty-prophet list did double duty. **Joseph Smith**
-(1805–1844), founder of the Latter-day Saint movement; the **Bab** (1819–1850);
-and **Baha'u'llah** (1817–1892) each delivered a mission to his own moment and, in
-combination, reopened the cultural possibility of new prophecy after the long
+Auvergne. On this account several nineteenth-century religious founders are read as
+comparative material. **Joseph Smith** (1805–1844), founder of the Latter-day
+Saint movement, is named by Raël, in his commentary, among the envoys of the
+creators (LWTE-3:27), with no seat at the table, no number and no forerunner
+role; the **Bab** (1819–1850) and **Baha'u'llah** (1817–1892) are not named in
+the canon. Their movements, in combination, reopened the cultural possibility of new prophecy after the long
 assumption — shared by Judaism, Christianity, and Islam alike — that the age of
 prophets had closed. The Baha'i emphasis in particular, on progressive revelation
 through a succession of messengers appearing across many traditions, prefigures
@@ -225,8 +226,8 @@ than in place of it.
 - **Baha'i.** The Bab's self-designation as the forerunner of Baha'u'llah is the
   one living, explicit forerunner doctrine among the traditions surveyed, developed
   across Baha'u'llah's own writings and in Shoghi Effendi's *God Passes By*. The
-  corpus reads the Bab and Baha'u'llah as genuine late-Piscean prophets, so it
-  engages this material as broadly congruent while noting that Baha'i theology
+  canon does not name the Bab or Baha'u'llah; the corpus engages this material
+  comparatively, as broadly congruent while noting that Baha'i theology
   elevates its Manifestations in a way the framework's biological-prophet reading
   does not.
 - **UFO-contactee scholarship.** Academic study of the contactees — Jacques
@@ -276,7 +277,7 @@ source states.
 
 ### Principal Raëlian source
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. 1974. The principal source articulation of the approximately-forty-prophets framework.
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. 1974. The first book of the canon; the table scene of some forty representatives is in the second (ETTMTTP-2:64).
 
 Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. 1975.
 

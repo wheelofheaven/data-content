@@ -35,7 +35,7 @@ extent = "Approximately equal to the combined landmass of all present-day contin
 shape_mainstream = "C-shaped with the Tethys Sea contained within the curve, surrounded by the superocean Panthalassa"
 geographic_role_framework = "The geographic substrate of the entire antediluvian period: the location of Eden, the location of the post-Eden dispersed civilisations, the area destroyed by the deluge event"
 breakup_mainstream = "Plate-tectonic rifting beginning approximately 195 million years ago, with progressive separation continuing through the Jurassic and Cretaceous"
-breakup_framework = "Catastrophic single-event breakup at the deluge, described in the source material as a deliberate operational intervention; the framework reads the modern continental configuration as the surface signature of the deluge event preserved in the contemporary geological record"
+breakup_framework = "Catastrophic single-event breakup at the deluge, the strike itself described in the first book as a deliberate intervention and the breakup in Marcel Terrusse's essay in the third book (LWTE-4); the framework reads the modern continental configuration as the surface signature of the deluge event preserved in the contemporary geological record"
 divergence_from_mainstream = "Approximately three orders of magnitude on timescale; the framework's reading is incompatible with mainstream plate-tectonic dating and is registered transparently in the entry's dedicated section on the divergence"
 +++
 
@@ -128,11 +128,13 @@ The specific location of Eden on Pangaea is not determinable from the source mat
 
 ### The deluge event and the breakup of Pangaea
 
-The framework's reading of the deluge event (Genesis 6–9) connects directly to the breakup of Pangaea. The source material's account describes the deluge as a catastrophic event in which the antediluvian supercontinent was destroyed:
+The framework's reading of the deluge event (Genesis 6–9) connects directly to the breakup of Pangaea. The first book describes the deluge as a catastrophic event in which the antediluvian continent was submerged:
 
 > When the explosion took place, life had already been preserved a few thousand kilometers above the Earth. The continent was submerged by a gigantic tidal wave, which destroyed all forms of life on its surface.
 >
 > — *Le Livre qui dit la vérité*, Vorilhon (1974)
+
+The breakup itself is carried not by the message text but by the essay of the Raëlian guide and chemical engineer Marcel Terrusse printed as chapter 4 of the third book, *Let's Welcome the Extra-terrestrials* (1979), which has the strike "breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock" (see [Great Flood](../great-flood/)).
 
 The framework reads "the explosion" as a deliberate operational event — either a single catastrophic intervention or a sequence of coordinated interventions — that produced two distinct consequences: a global tidal wave that submerged the supercontinent's surface (the source material's reading of the deluge in Genesis 6–9) and the structural breakup of the supercontinent into the configuration that subsequently drifted to form the present-day continents. {% claim(type="framework", id="woh-claim-0071") %}The framework reads the post-deluge continental configuration as the surface signature of the deluge event preserved in the contemporary geological record, with the apparent slow drift of the continents on the mainstream account corresponding, on the framework's reading, to a more rapid post-event repositioning following the initial breakup.{% end %}
 
@@ -158,7 +160,7 @@ The divergence has several specific points where the framework's position is at 
 
 **The supercontinent cycle.** Mainstream geology places Pangaea within a longer-duration supercontinent cycle (Kenorland, Columbia, Rodinia, Pannotia, Pangaea) extending across approximately three billion years of Earth's history. The framework's reading of Pangaea on human-history timescales does not extend backward to a cyclical pattern; the framework's adopted position is that Pangaea was a deliberate single construction by the Elohim during the Earth-project preparation phase rather than the latest instance of a longer-duration natural cycle.
 
-The framework's grounds for the divergence are the source material's specific testimony — Vorilhon's 1974 account of Yahweh's description of the continental engineering, with the operational specifics the source material provides — combined with the broader corpus's interpretive synthesis that reads the source material as preserving authentic historical content. The framework reads the mainstream geological evidence as substantial and as requiring serious engagement, but as not decisive on the timescale question, with the specific reinterpretation of radiometric, paleomagnetic, biogeographic, and stratigraphic evidence required by the framework's reading registered as an open area for future work.
+The framework's grounds for the divergence are the source material's specific testimony — Vorilhon's 1974 account of Yahweh's description of the continental engineering, and Terrusse's 1979 essay on its breakup — combined with the broader corpus's interpretive synthesis that reads the source material as preserving authentic historical content. The framework reads the mainstream geological evidence as substantial and as requiring serious engagement, but as not decisive on the timescale question, with the specific reinterpretation of radiometric, paleomagnetic, biogeographic, and stratigraphic evidence required by the framework's reading registered as an open area for future work.
 
 The corpus does not treat the divergence as a casual matter. The framework's reading is incompatible with mainstream plate-tectonic dating in a way that the framework's readings on other topics (etymologies, motifs, religions, megalithic sites) are generally not incompatible with mainstream consensus on their respective domains. Readers who find the mainstream geological evidence decisive on the timescale question will find the framework's reading of Pangaea correspondingly difficult to accept; readers who place greater weight on the source material's specific testimony may find the framework's reading more accessible. The corpus's adopted position is the framework's reading, registered transparently with the divergence from mainstream science explicit.
 

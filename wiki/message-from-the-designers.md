@@ -50,12 +50,12 @@ note = "Vorilhon (Raël, 1974); first component book, recording the December 13,
 [[extra.references]]
 id = "extraterrestrials-took-me-to-their-planet"
 locator = "My Life Until the First Encounter; the Roc Plat second contact; the Planet of the Eternals"
-note = "Vorilhon (Raël, 1975/76); second component book, recording the October 7, 1975 contact, the planet visit, and the seven new commandments."
+note = "Vorilhon (Raël, 1975/76); second component book, recording the October 7, 1975 contact, the planet visit, and the rules given to Raël's followers."
 
 [[extra.references]]
 id = "lets-welcome-the-extraterrestrials"
 locator = "The New Revelations; An Atheist Religion; the Yes... I am Raelian commentary"
-note = "Vorilhon (Raël, 1979); third component book, publishing the biological-parentage disclosure withheld three years and the March 14, 1978 message on parallel humanities."
+note = "Vorilhon (Raël, 1979); third component book, publishing the biological-parentage disclosure withheld three years."
 
 [[extra.references]]
 id = "rnkjv"
@@ -120,7 +120,7 @@ The consolidated edition preserves the three books in sequence, each keeping its
 
 ### The Book Which Tells the Truth (1974)
 
-{% library(book="the-book-which-tells-the-truth", chapter=1, verse=7) %}
+{% library(book="the-book-which-tells-the-truth", chapter=1, verse=9) %}
 From very far away…
 {% end %}
 
@@ -138,9 +138,9 @@ My name is Yahweh and I am the president of the council of the eternals.
 
 [*Extraterrestrials Took Me to Their Planet*](/library/extraterrestrials-took-me-to-their-planet/) (*Les Extra-Terrestres m'ont emmené sur leur planète*) records the second contact, dated in the corpus's principal treatment to October 7, 1975, at Roc Plat near Brantôme in the Périgord. In the account, Raël was taken aboard a craft and transported to the Elohim's home world — the **Planet of the Eternals** in Raëlian terminology, treated at length in the {% wiki(slug="elohim-home-planet") %}Elohim Home Planet{% end %} entry. The book reports the world in detail: the Council of the Eternals presided over by Yahweh — {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=50) %}"My name is Yahweh and I am the president of the council of the eternals"{% end %} — the post-scarcity civilization of biological robots and atomic-based energy, and the earlier prophets (Moses, Elijah, Buddha, Jesus, Muhammad, among others) preserved on the home world through the Elohim's cloning-and-memory-transfer biotechnology.
 
-The book carries the canon's principal program content: the **seven {% wiki(slug="new-commandments") %}new commandments{% end %}** — {% wiki(slug="geniocracy") %}geniocracy{% end %}, {% wiki(slug="humanitarianism") %}humanitarianism{% end %}, world government, demilitarization, science as religion, telepathic cultivation, and the metaphysical clarifications — delivered across the second contact as the political-religious program proposed for the Aquarian age. It also carries some of the canon's most-cited comparative material: the chapter on Buddhism, the direct Qur'an citations (Suras 21, 54, and 56), and the reading of Ezekiel 37's valley of dry bones as a description of the biological-creation machinery.
+The book carries the canon's practical instructions: the rules Yahweh gives during the second contact for those who follow Raël (chapter 2, paragraphs 115–120) and the chapter "The Keys" (chapter 3), which takes up geniocracy again. The {% wiki(slug="new-commandments") %}new commandments{% end %} proper — {% wiki(slug="geniocracy") %}geniocracy{% end %}, {% wiki(slug="humanitarianism") %}humanitarianism{% end %}, world government — belong to the first book (TBWTT chapter 6). It also carries some of the canon's most-cited comparative material: a passage on Buddhism (2:24), the direct Qur'an citations (Suras 21, 54, and 56), and the reading of Ezekiel 37's valley of dry bones as a description of the biological-creation machinery.
 
-The opening section, "My Life Until the First Encounter," is the principal autobiographical source on Vorilhon's pre-1973 life — the 1946 Vichy birth the source frames as deliberately placed at the Aquarian-age opening, the childhood UFO experience over Ambert, the motor-sports journalism career and the founding of *Auto Pop* magazine in 1970. The corpus's reading edition divides the book into 3 chapters.
+The opening section, "My Life Until the First Encounter," is the principal autobiographical source on Vorilhon's pre-1973 life — the 1946 Vichy birth the source frames as deliberately placed at the Aquarian-age opening, his grandmother's 1947 sighting of a craft over Ambert, the motor-sports journalism career and the founding of his own motor-sport magazine. The corpus's reading edition divides the book into 3 chapters.
 
 ### Let's Welcome the Extra-terrestrials (1979)
 
@@ -150,7 +150,7 @@ There is no "God", but there are the Elohim… there is no autonomous soul flyin
 
 [*Let's Welcome the Extraterrestrials*](/library/lets-welcome-the-extraterrestrials/) (*Accueillir les Extra-terrestres*) is the third book, published in 1979. Its headline content is the **biological-parentage disclosure**: during the 1975 contact Raël was informed that Yahweh was his biological father, with the request that publication be withheld for three years to avoid what the source describes as a serious imbalance in public reception. The 1979 book published the disclosure on schedule.
 
-The book is structured differently from its predecessors — less a contact narrative than a consolidation. It opens with a wide-ranging question-and-answer section addressing the most common questions raised after the first two messages; continues with **The New Revelations**, including the canon's extended reading of the Revelation of John as a dictation delivered through a visual-display apparatus (the {% wiki(slug="apocalypse") %}Apocalypse{% end %} read as unveiling rather than destruction); frames Raëlism explicitly as an **atheist religion** — {% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=70) %}"There is no 'God', but there are the Elohim"{% end %} — and closes with commentaries and testimonials from early Raëlians. The book also preserves the March 14, 1978 telepathic message on the parallel humanities (treated in the {% wiki(slug="cosmic-competition") %}Cosmic Competition{% end %} entry) and develops the embassy project that has organized the movement's activity since.
+The book is structured differently from its predecessors — less a contact narrative than a consolidation. It opens with a wide-ranging question-and-answer section addressing the most common questions raised after the first two messages; continues with **The New Revelations**, including the canon's extended reading of the Revelation of John as a dictation delivered through a visual-display apparatus (the {% wiki(slug="apocalypse") %}Apocalypse{% end %} read as unveiling rather than destruction); frames Raëlism explicitly as an **atheist religion** — {% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=70) %}"There is no 'God', but there are the Elohim"{% end %} — and closes with commentaries and testimonials from early Raëlians. The book also develops the embassy project that has organized the movement's activity since.
 
 The testimonial section includes the follower commentary *Yes... I am Raelian*, whose enumeration of surviving "traces" (the Kojiki, the Popol Vuh, the Epic of Gilgamesh, the Mahābhārata, the Chronicle of Akakor) has been canonized by preservation across editions; its status as a follower's synthesis rather than Raël's own voice is discussed in the {% wiki(slug="reference-corpus-of-the-raelian-canon") %}Reference corpus{% end %} entry. The corpus's reading edition divides the book into 4 chapters.
 
@@ -171,7 +171,7 @@ The consolidated edition collects the foundational trilogy; it does not collect 
 - ***La Géniocratie*** (*Geniocracy*, 1978) — the elaboration of the first new commandment into a political manifesto.
 - ***La Méditation Sensuelle*** (*Sensual Meditation*, 1980) — the meditation practices the source attributes to the Elohim.
 - ***Oui au clonage humain*** (*Yes to Human Cloning*, 2000) — the engagement with cloning technology following the 1997 Dolly announcement.
-- ***Le Maitreya*** (anthology) — the collection of Raël's teachings across the post-1973 decades, making the Maitreya identification operationally explicit.
+- ***Le Maitreya*** (anthology) — a post-canon collection of Raël's teachings, in which Raël takes the title Maitreya.
 
 Claims sourced to these works are cited against them directly, not against *Message from the Designers*; the volume's citation scope is the trilogy plus its own framing and supplementary material.
 

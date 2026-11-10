@@ -27,9 +27,9 @@ see_also = [
 type = "Post-flood narrative event; a human-and-exiled-creator space project read as a bid for reconciliation, and the home-world Council intervention that ended it"
 chronology = "Late Age of Gemini (c. 6,690 BCE onward in the corpus chronology); after the Great Flood and the Noahic covenant; before the long Taurus-age quiet that preceded the Sodom and Gomorrah strike"
 location = "The land of Shinar (biblical) — ancient Sumer, in the alluvial plain of the lower Tigris and Euphrates; the principal site corresponds to the Babylon-Babel area of southern Mesopotamia"
-participants = "The post-flood Eden-lineage humans (the source's 'people of Israel' — the Eden genealogical line, not the later geographic-political Israel); the exiled Lucifer faction of creators; the home-world Council of the Eternals (the intervening party)"
+participants = "The post-flood Eden-lineage humans (the source's 'people of Israel', the population that, through the unions of the sons of Elohim with the daughters of men, became the Jewish people); the exiled Lucifer faction of creators; the home-world Council of the Eternals (the intervening party)"
 purpose_of_the_tower = "A peace offering: the alliance's attempt to argue the human creation's case before the Council by sending a delegation of humans to the home world to show they were intelligent, peaceful and grateful — and to win a pardon"
-technological_character = "An interstellar-capable spacecraft (the source's 'enormous rocket'); on the corpus reading a second-generation craft following earlier interplanetary ones, with the Tower being either the craft itself or its launch facility"
+technological_character = "An interstellar-capable spacecraft (the source's 'immense rocket'); on the corpus reading a second-generation craft following earlier interplanetary ones, with the Tower being either the craft itself or its launch facility"
 council_intervention = "(1) scattering of the scientific elite across the post-flood continents; (2) destruction of the research materials and instruments; (3) fragmentation of the single language into mutually unintelligible tongues; (4) termination of the space program"
 consequence = "The exiled Lucifer faction turns from peaceful dissent toward open rebellion; a long quiet across most of the Age of Taurus before the Sodom rebellion"
 distinguished_from = "The Great Flood (the earlier Gemini-age strike); the Sodom and Gomorrah strike (the later Taurus-age one — a military strike against rebellion, not a dispersal against reconciliation); the broader Theomachy (of which Babel is one phase); and the conventional reading of Babel as defiance (the framework reads it as a peace offering)"
@@ -120,19 +120,22 @@ project rather than scattered local effort.
 **The tower as a spacecraft.** The principal source is a passage Yahweh delivers
 in the "Tower of Babel" section:
 
-> *"But the most intelligent race, the people of Israel, was making such
-> remarkable progress that they were soon able to undertake the conquest of
-> space with the help of the exiled creators. The latter wanted their new human
-> beings to go to the creators' planet to obtain their pardon, by showing that
-> they were not only intelligent and scientific but also grateful and peaceful.
-> So they built an enormous rocket — The Tower of Babel."*
+> *"But the most intelligent people, the people of Israel, were making such
+> progress that they soon undertook to launch into the conquest of space, helped
+> by the exiled creators. The latter wanted men to go to the creators' planet in
+> order to obtain their forgiveness by showing that men were intelligent and
+> scientific but grateful and peaceful. So they built an immense rocket: the
+> Tower of Babel."* (TBWTT-2:72)
 
-"An enormous rocket" is the source's own gloss on the *migdal*. On the corpus
+"An immense rocket" is the source's own gloss on the *migdal*. On the corpus
 reading the Tower is an interstellar craft — or the facility that would launch
 one — not a ziggurat; the Hebrew *ve-rosho va-shamayim*, "its top in the
 heavens," is taken for once at face value, a structure built to reach beyond the
-atmosphere. The "people of Israel" here is the source's name for the Eden
-genealogical line, not the later geographic nation.
+atmosphere. The "people of Israel" here is the population made by the creator team in the
+land of Israel; the canon calls the Jews the creators' descendants through the
+unions of the sons of Elohim with the daughters of men (ETTMTTP-2:104), and Raël,
+in his commentary, says that population became the Jewish people (LWTE-1:17–18); two paragraphs later it calls the scattered builders "the Jews"
+(TBWTT-2:76).
 
 **A peace offering, not defiance.** This is the framework's sharpest departure
 from the received reading. In Christian and Jewish tradition the Tower is

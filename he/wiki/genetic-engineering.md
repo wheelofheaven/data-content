@@ -261,7 +261,7 @@ and on whether the answer is written in the genome or in the texts.
 
 ## References
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Intelligent Design: Messages from the Designers* (current English edition, Raëlian Foundation). [Primary source for the framework's reading of the Elohim's original genetic-engineering work and the broader contemporary recovery anticipation.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Intelligent Design: Message from the Designers* (current English edition, Raëlian Foundation). [Primary source for the framework's reading of the Elohim's original genetic-engineering work and the broader contemporary recovery anticipation.]
 
 Berg, Paul, David Baltimore, Sydney Brenner, Richard O. Roblin III, and Maxine F. Singer. "Asilomar Conference on Recombinant DNA Molecules." *Science* 188, no. 4192 (June 6, 1975): 991–994. [The foundational publication of the Asilomar Conference recommendations.]
 

@@ -1,6 +1,6 @@
 +++
 title = "The Scrolls That Woke in Year One"
-description = "A shepherd's stone broke a jar above the Dead Sea in year one of the calendar that counts from Hiroshima. What the scrolls unveiled — and why the timing fits."
+description = "A shepherd's stone broke a jar above the Dead Sea in year one of the canon's calendar, the year after Hiroshima. What the scrolls unveiled — and why the timing fits."
 template = "articles-page.html"
 date = 2026-07-13
 draft = false
@@ -15,7 +15,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "In the winter of 1946/47 — the first year of the calendar the Raëlian canon counts from the flash over Hiroshima — a Bedouin shepherd broke open a jar in a cliff above the Dead Sea and pulled out the oldest Bible manuscripts anyone had ever seen. This Explainer tells the whole story at full length: the cobbler of Bethlehem, the archbishop who claimed the scrolls came from his monastery library, the professor who authenticated them through a barbed-wire fence in the week of the UN partition vote, the classified ad in the Wall Street Journal, the intelligence officers who took the Temple Scroll from under Kando's floor in 1967, and the forty-year publication scandal that a computer and a California library finally ended in 1991. It then reads the cargo. The scrolls show a scriptural canon still open — 1 Enoch and Jubilees copied more often than Proverbs — and a biblical text still fluid, including a Deuteronomy fragment that preserves 'sons of Elohim' where the received text was edited to read 'sons of Israel,' and a commentary that applies the word elohim to a heavenly officer named Melchizedek. And it weighs the frame the canon itself supplies: that the same eighteen months which opened the atomic age also disgorged two buried libraries, the first flying-saucer wave, the transistor, the state of Israel, and the birth of the man the messages were later dictated to. The synchronicity argument is interpretive synthesis and is labeled accordingly; the manuscripts, the dates, and the quotations are checkable, and every one of them is sourced."
+summary = "In the winter of 1946/47 — the first year of the calendar the Raëlian canon counts from 1946, the year after the flash over Hiroshima — a Bedouin shepherd broke open a jar in a cliff above the Dead Sea and pulled out the oldest Bible manuscripts anyone had ever seen. This Explainer tells the whole story at full length: the cobbler of Bethlehem, the archbishop who claimed the scrolls came from his monastery library, the professor who authenticated them through a barbed-wire fence in the week of the UN partition vote, the classified ad in the Wall Street Journal, the intelligence officers who took the Temple Scroll from under Kando's floor in 1967, and the forty-year publication scandal that a computer and a California library finally ended in 1991. It then reads the cargo. The scrolls show a scriptural canon still open — 1 Enoch and Jubilees copied more often than Proverbs — and a biblical text still fluid, including a Deuteronomy fragment that preserves 'sons of Elohim' where the received text was edited to read 'sons of Israel,' and a commentary that applies the word elohim to a heavenly officer named Melchizedek. And it weighs the frame the canon itself supplies: that the same eighteen months which opened the atomic age also disgorged two buried libraries, the first flying-saucer wave, the transistor, the state of Israel, and the birth of the man the messages were later dictated to. The synchronicity argument is interpretive synthesis and is labeled accordingly; the manuscripts, the dates, and the quotations are checkable, and every one of them is sourced."
 keywords = ["Dead Sea Scrolls", "Qumran", "Essenes", "year one", "Age of Apocalypse", "Hiroshima", "1947", "Sukenik", "Yadin", "Shrine of the Book", "1 Enoch", "Jubilees", "sons of Elohim", "Melchizedek", "Nag Hammadi", "Nabataeans", "Kando", "Teacher of Righteousness", "War Scroll"]
 references = [
     # — The canon supplying the calendar —
@@ -633,7 +633,7 @@ library — its Enoch, its two-spirit cosmology, its "sons of Elohim,"
 its heavenly *elohim* named Melchizedek — into jars in a cliff, and
 the jars stayed shut through the entire run of the era whose scripture
 was edited, translated, and closed without them. They opened in the
-first months of the calendar that counts from Hiroshima, into the one
+first months of the calendar that counts 1946 as year one, into the one
 generation equipped with the philology to read them, the photography
 to fix them, the computer to reconstruct them, and — on the canon's
 account — the explanation to place them. The skeptic's reading is

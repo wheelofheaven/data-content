@@ -17,7 +17,7 @@ editorial_pass = "2026-07"
 category = "Elohim"
 entry_type = "place"
 claim_type = "framework"
-alternative_names = ["the home planet", "the planet of the Elohim", "the planet of the creators", "the Planet of the Eternals", "the Mormon Kolob (per the Tvedtnes hypothesis)"]
+alternative_names = ["the home planet", "the planet of the Elohim", "the planet of the creators", "the Planet of the Eternals"]
 timeline = ["age-of-capricorn", "age-of-aquarius"]
 see_also = [
     { title = "Council of the Eternals", path = "wiki/council-of-the-eternals", description = "The governing body seated on the home planet in the source description." },
@@ -41,7 +41,7 @@ council_of_eternals = "~700 Elohim members plus ~8,400 resurrected humans, presi
 economy = "Post-scarcity; atomic energy; biological robots performing manual labor; intellectual and creative work as the main human pursuit"
 travel_technology = "Atom-based propulsion at seven times lightspeed; the journey to Earth took about two months at the time of contact (1973–75), and far less by 1975"
 relationship_to_planet_of_eternals = "The source allows two readings: the home planet IS the Planet of the Eternals (single-planet), or the Planet of the Eternals is a second, smaller world in the same system (two-planet). The framework treats both as compatible with the source."
-distinguished_from = "The intergalactic ship stationed near Earth (nine crew: seven provincial representatives plus two vessel officers); the Elohim's Earth-based installations (Andean, Himalayan, Greek, and others); the Mormon Kolob (which the Tvedtnes hypothesis may or may not tie to the same body)"
+distinguished_from = "The intergalactic ship stationed near Earth (nine crew: seven provincial representatives plus two vessel officers); the Elohim's Earth-based installations (Andean, Himalayan, Greek, and others); the Mormon Kolob, which the corpus does not identify with the Elohim's star"
 status_in_framework = "The principal extraterrestrial location in the framework: the seat of the Council of the Eternals and the home of the resurrected prophets, and the political center of the civilization that runs the Earth project"
 +++
 

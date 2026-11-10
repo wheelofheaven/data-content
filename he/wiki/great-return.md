@@ -130,7 +130,7 @@ The return also marks a turn in the framework's calendar. The present
 recovery and disclosure that opened around 1945 — the stretch in which humanity
 reacquires the makers' capabilities and their record becomes legible again. The
 Great Return is the event that closes it: the point at which recovery gives way
-to open reunion and the [Golden Age](../golden-age/) of Aquarius proper begins.
+to open reunion and the [Golden Age](../golden-age/) comes into its own.
 The framework places the return near the Pisces-to-Aquarius transition for that
 reason, with the exact moment left to depend on whether the preconditions are
 met.
@@ -160,15 +160,16 @@ keeping each in its own terms rather than collapsing them into one.
   the "bringer of benefit" who inaugurates the *Frashokereti*, the renovation of
   the world.
 
-The framework's claim is that these expectations preserve, in the vocabulary each
-tradition had to hand, an awareness of the same anticipated event — the Elohim's
-return. It is careful about the strength of that claim. The traditions differ
+The framework compares these expectations, each in the vocabulary its tradition
+had to hand, with the return the canon anticipates; it registers the resemblance
+and does not identify them with that return. It is careful about the strength of
+even that comparison. The traditions differ
 from one another in ways that matter: a returning Davidic king is not a future
 Buddha, and neither is a resurrected saviour. The framework does not flatten those
 differences or insist that every return-figure is a direct memory of the same
 thing. What it offers, as interpretation rather than as demonstration, is that
 the recurrence of the pattern across cultures separated by great distance and
-time is better read as convergence on a real expectation than as coincidence. The
+time is worth registering as resemblance. The
 broader cross-tradition case is developed in the
 [List of prophets and religions](../list-of-prophets-and-religions/), and the
 precessional shape of the sleeping king who wakes — Kronos, Saturn, the Once and
@@ -208,8 +209,10 @@ called the return "near"; nearly three decades later no Embassy has been built
 with the required extraterritorial status, and no arrival has occurred. The
 framework does not treat the imminence language as a dated prediction, since the
 return is conditional rather than scheduled, but it does not hide the gap either.
-The Embassy's construction — or its continued absence — remains the one part of
-the framework open to near-term test.
+Critics read the Embassy's continued absence as a sign that the condition may
+never be met; the corpus records that objection, but does not treat construction
+progress or host-country decisions as confirming or disconfirming an anticipation
+the canon makes conditional by design.
 
 The location history carries real political weight. The withdrawal-of-protection
 message of 2015 and the shift away from Israel bear directly on the

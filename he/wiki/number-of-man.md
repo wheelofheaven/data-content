@@ -34,8 +34,9 @@ a literal count: the number of human generations that will have lived on Earth
 between the creation of the first finalized humans in the [Elohim](../elohim/)'s
 laboratories and the moment humanity first turned nuclear energy to destruction.{% end %}
 At roughly twenty years to a generation, 666 generations span some 13,320 years,
-and counting back from the atomic threshold of 1945 places that first creation
-near the Virgo–Leo precessional boundary, around 11,375 BCE — the date from
+and counting back from the atomic threshold of 1945 — the corpus's arithmetic,
+not the canon's — places that first creation near the Virgo–Leo precessional
+boundary, around 11,375 BCE — the date from
 which the framework's whole [World Age](../world-age/) chronology descends.
 
 This reading runs against the grain of mainstream scholarship, which treats the

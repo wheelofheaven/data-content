@@ -1,6 +1,6 @@
 +++
 title = "The Forty Chairs"
-description = "Forty guests sat at Yahweh's table in 1975, and the canon never names them all. Formalizing the instrument that decides which traditions were really there."
+description = "Some forty guests sat at Yahweh's table in 1975, and the canon never names them all. Formalizing the instrument that decides which traditions were really there."
 template = "articles-page.html"
 date = 2026-11-01
 draft = false

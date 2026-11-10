@@ -161,7 +161,7 @@ The Tetragrammaton *YHWH* appears approximately 6,800 times in the Hebrew Bible,
 
 ### The principal narrative appearances
 
-{% library(book="the-book-which-tells-the-truth", chapter=1, verse=51) %}
+{% library(book="the-book-which-tells-the-truth", chapter=1, verse=53) %}
 We are men like you, and we live on a planet quite similar to Earth.
 {% end %}
 

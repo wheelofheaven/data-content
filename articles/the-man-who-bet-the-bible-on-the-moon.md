@@ -15,7 +15,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Jean Sendy (1910–1978) — Russian-born Parisian, wartime correspondent, translator of Raymond Chandler, amateur joiner, monocled dandy of the 1930s avant-garde — published in 1963 the first finished statement of the reading this project lives inside: the Hebrew Bible, taken at the letter, relates the sojourn on Earth of plural, physical, mortal Elohim. He then did something no one else in the lineage has done before or since: he staked the entire reading on a falsifiable prediction, in print, with a deadline — traces of the Elohim's installations would be found on the Moon within a year of the first landing, and if they were not, 'my hypothesis is to be held false.' This Explainer reads his whole corpus closely in the French — the 1963 Cahiers de cours de Moïse, La lune, clé de la Bible, Ces dieux qui firent le ciel et la terre, Nous autres, gens du Moyen Âge, L'Ère du Verseau, and the late Temps messianiques — and compares notes with the Raëlian canon at the depth the kinship deserves. It walks through his two genuinely original theses: that medieval exegesis stood closer to the text's real meaning than Renaissance and Enlightenment secularism ever did, and that the Kabbalah, engaged through Chief Rabbi Alexandre Safran, preserves a teaching older than Moses whose core promise — 'man will renew the acts related at the beginning of Genesis' — is a program now underway. It audits the wager honestly: Apollo found nothing, and by Sendy's own charlatan-clause the lunar ark stands refuted as formulated, a verdict he faced with more grace than his imitators ever acknowledge. And it handles, without polemic, the question that has flattened his reputation from both sides — what exactly the 1974 Raëlian revelation owes to the books this 'brave jeune homme' had certainly read — while marking the structural divergences that make Sendy a parallel witness rather than a rough draft: his Elohim recolonize a ruined Earth rather than create life, his Yahweh is an immaterial Principle rather than a president, and his celestials, in all likelihood, are never coming back."
+summary = "Jean Sendy (1910–1978) — Russian-born Parisian, wartime correspondent, translator of Raymond Chandler, amateur joiner, monocled dandy of the 1930s avant-garde — published in 1963 the first finished statement of the reading this project lives inside: the Hebrew Bible, taken at the letter, relates the sojourn on Earth of plural, physical, mortal Elohim. He then did something no one else in the lineage has done before or since: he staked the entire reading on a falsifiable prediction, in print, with a deadline — traces of the Elohim's installations would be found on the Moon within a year of the first landing, and if they were not, 'my hypothesis is to be held false.' This Explainer reads his whole corpus closely in the French — the 1963 Cahiers de cours de Moïse, La lune, clé de la Bible, Ces dieux qui firent le ciel et la terre, Nous autres, gens du Moyen Âge, L'Ère du Verseau, and the late Temps messianiques — and compares notes with the Raëlian canon at the depth the kinship deserves. It walks through his two genuinely original theses: that medieval exegesis stood closer to the text's real meaning than Renaissance and Enlightenment secularism ever did, and that the Kabbalah, engaged through Chief Rabbi Alexandre Safran, preserves a teaching older than Moses whose core promise — 'man will renew the acts related at the beginning of Genesis' — is a program now underway. It audits the wager honestly: Apollo found nothing, and by Sendy's own charlatan-clause the lunar ark stands refuted as formulated, a verdict he faced with more grace than his imitators ever acknowledge. And it handles, without polemic, the question that has flattened his reputation from both sides — whether the 1974 Raëlian revelation owes anything to the books Sendy said this 'brave jeune homme' had read — while marking the structural divergences between the two: his Elohim recolonize a ruined Earth rather than create life, his Yahweh is an immaterial Principle rather than a president, and his celestials, in all likelihood, are never coming back."
 keywords = ["Jean Sendy", "Elohim", "Célestes", "Theosites", "Galaxiens", "La lune clé de la Bible", "Moon Outpost of the Gods", "arc d'alliance", "precession of the equinoxes", "Age of Aquarius", "medievalism", "humanism", "Giordano Bruno", "Alexandre Safran", "Kabbalah", "tikkun olam", "Hamlet's Mill", "falsifiability", "paleocontact", "neo-euhemerism", "Raël", "Stefano Bigliardi"]
 references = [
     # — The canon under comparison —
@@ -667,9 +667,9 @@ principle. The canon: no Person at the top, because there is no top.
 ## Where the readings part ways
 
 A comparison that found only agreement would be advertising, and with
-Sendy the divergences are not decoration — two of them are
-structural, and they are what make him a parallel witness rather than
-a rough draft.
+Sendy the divergences are not decoration — two of them are structural. They do not by themselves settle whether
+the Message depends on him, but they mark how far apart the two
+projects stand.
 
 **Creation versus recolonization.** The canon's Elohim *create*: life
 on Earth, all of it, is their laboratory work, from alga to man —
@@ -781,10 +781,12 @@ Bigliardi, record the resemblance and decline to adjudicate intent.
 
 This project reads the Raëlian texts as canon, so its position should
 be stated with complete transparency, and it can be, because the
-logic is symmetrical. If the 1973 encounter did not happen, then the
-genealogy is straightforward: the message is a condensation of
-Sendy — Sendy *vulgarisé*, his hypothesis with the falsifiability
-clause amputated and a testimony grafted on. If the encounter did
+logic is symmetrical. If the 1973 encounter did not happen, the Message would need human
+sources, and Sendy is the obvious candidate for its Genesis chapter;
+but the item-by-item comparison in
+[Sendy and the Raëlian Messages](/articles/sendy-and-the-raelian-messages/)
+finds that most of the book's commentary has no counterpart in his
+work, so even on that branch the Message is not Sendy *vulgarisé*. If the encounter did
 happen, then the Elohim chose, as their messenger's preparation, a
 France in which Jean Sendy had spent eleven years teaching the
 reading public exactly how to parse the words *"nous sommes des

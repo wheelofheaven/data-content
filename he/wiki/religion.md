@@ -174,9 +174,9 @@ cultural memory of that operational alliance.
 **Religion and revelation.** The framework distinguishes religion — the ongoing
 cultivated relationship — from revelation, the contact-events that supply its
 content. That content is delivered through the [prophetic](../prophet/) institution
-— roughly forty messengers across human history, from Adam through Noah, Abraham,
-Moses, Buddha, Zoroaster, Jesus, and Muhammad, concluding in transformed form with
-[Raël](../rael/) — while religion is the institutional practice by which each
+— some forty representatives at Yahweh's table (ETTMTTP-2:64), of whom the canon
+names Moses, Elijah, Jesus, Buddha and Mohammed, concluding in transformed form
+with [Raël](../rael/), "the last of the line of the prophets" (ETTMTTP-3:257) — while religion is the institutional practice by which each
 revelation is preserved and transmitted across the generations. A recurring
 corollary concerns the categories *monotheism* and *polytheism*: the framework
 reads the ancient contests remembered as "one God against many" less as arithmetic

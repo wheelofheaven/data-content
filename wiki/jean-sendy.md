@@ -1,7 +1,7 @@
 +++
 title = "Jean Sendy"
 slug = "jean-sendy"
-description = "Jean Sendy (born Dimitri Abelson; Petrograd, 16 November 1910 – Coulommiers, 24 April 1978) was a Russian-born French author and translator whose books of 1963–1975 constitute the first finished statement of the literal plural-Elohim reading of the Hebrew Bible — the position that the biblical text, taken at the letter, relates the sojourn on Earth of a plurality of physical, mortal beings called the Elohim, published five years before Erich von Däniken made the general idea a commonplace and eleven years before the Raëlian canon of 1974. A child of the Russian revolution carried through exile to New York and finally Paris, photographed in the 1930s avant-garde by Wols wearing a monocle, naturalized French in 1938, and surfacing after the war as London correspondent for the Resistance-founded Parisien libéré, Sendy spent his working life in the engine room of French publishing — translator of Raymond Chandler, James Hadley Chase, and Fredric Brown, subtitler of The Graduate — while building, from Les cahiers de cours de Moïse (1963) through La lune, clé de la Bible (1968), Ces dieux qui firent le ciel et la terre (1969), L'Ère du Verseau (1970), and Les temps messianiques (1975), a system that read Genesis as the log of a cosmonaut recolonization of a ruined Ice Age Earth, its 'days' as precessional epochs of 2,160 years, Eden as a biological installation, the Flood as a decommissioning, and Babel as unauthorized rocketry. He is unique in the entire reinterpretive tradition for having staked the reading on a falsifiable prediction with a deadline — traces of the Elohim's lunar staging base would be found within a year of the first Moon landing, and if not, 'my hypothesis is to be held false' — a wager Apollo settled against him and whose loss he faced with a dignity his imitators rarely acknowledge. The Wheel of Heaven corpus registers Sendy as its principal pre-Raëlian methodological inheritance: his five conditions of coherence and his Schliemann-Homer reading principle anchor the corpus's hermeneutic, his precessional world-ages supply the architecture the project is named for, and his register — 'I bring no gospel, I propose a hypothesis' — is the corpus's own. Because he wrote a decade before the canon, the convergence between his text-derived system and the 1974 testimony cuts both ways, and the corpus states the symmetry openly while marking the structural divergences — recolonization rather than creation, Yahweh as immaterial Principle rather than Council president, an inheritance to excavate rather than a return to host — that make Sendy a parallel witness rather than a rough draft."
+description = "Jean Sendy (born Dimitri Abelson; Petrograd, 16 November 1910 – Coulommiers, 24 April 1978) was a Russian-born French author and translator whose books of 1963–1975 constitute the first finished statement of the literal plural-Elohim reading of the Hebrew Bible — the position that the biblical text, taken at the letter, relates the sojourn on Earth of a plurality of physical, mortal beings called the Elohim, published five years before Erich von Däniken made the general idea a commonplace and eleven years before the Raëlian canon of 1974. A child of the Russian revolution carried through exile to New York and finally Paris, photographed in the 1930s avant-garde by Wols wearing a monocle, naturalized French in 1938, and surfacing after the war as London correspondent for the Resistance-founded Parisien libéré, Sendy spent his working life in the engine room of French publishing — translator of Raymond Chandler, James Hadley Chase, and Fredric Brown, subtitler of The Graduate — while building, from Les cahiers de cours de Moïse (1963) through La lune, clé de la Bible (1968), Ces dieux qui firent le ciel et la terre (1969), L'Ère du Verseau (1970), and Les temps messianiques (1975), a system that read Genesis as the log of a cosmonaut recolonization of a ruined Ice Age Earth, its 'days' as precessional epochs of 2,160 years, Eden as a biological installation, the Flood as a decommissioning, and Babel as unauthorized rocketry. He is unique in the entire reinterpretive tradition for having staked the reading on a falsifiable prediction with a deadline — traces of the Elohim's lunar staging base would be found within a year of the first Moon landing, and if not, 'my hypothesis is to be held false' — a wager Apollo settled against him and whose loss he faced with a dignity his imitators rarely acknowledge. The Wheel of Heaven corpus registers Sendy as its principal pre-Raëlian methodological inheritance: his five conditions of coherence and his Schliemann-Homer reading principle anchor the corpus's hermeneutic, his precessional world-ages supply the architecture the project is named for, and his register — 'I bring no gospel, I propose a hypothesis' — is the corpus's own. Because he wrote a decade before the canon, the convergence between his text-derived system and the 1974 testimony cuts both ways, and the corpus states the symmetry openly while marking the structural divergences — recolonization rather than creation, Yahweh as immaterial Principle rather than Council president, an inheritance to excavate rather than a return to host — that separate the two projects."
 template = "wiki-page.html"
 toc = true
 
@@ -161,13 +161,11 @@ who never read the Raëlian material converged on its load-bearing
 joints from the text alone, which is what makes the convergence
 evidential. With Sendy the same logic runs in reverse, and the corpus
 states it openly rather than around it: his system was on the shelves
-of France for eleven years before the 1974 message, the young Claude
-Vorilhon had in all likelihood read him, and the question of what the
-canon owes his books is a real one, treated below without polemic.
+of France for eleven years before the 1974 message, Sendy later said the young Claude Vorilhon had read him, and whether
+the canon owes anything to his books is a fair question, treated below without polemic.
 What the record supports on either reading of that question is that
 Sendy worked his system out from the Hebrew text and the exact
-sciences, with no claimed help from anyone — a parallel witness, not
-a rough draft. The full-length study is the Explainer [*The Man Who
+sciences, with no claimed help from anyone — a parallel witness to the reading. The full-length study is the Explainer [*The Man Who
 Bet the Bible on the
 Moon*](/articles/the-man-who-bet-the-bible-on-the-moon/); this entry
 gives the biographical and bibliographical record.
@@ -371,8 +369,8 @@ the age in which men "equal themselves to the gods" and in time seed
 other worlds as a new race of Elohim — the relay the corpus files
 under [the cosmic chain](../cosmic-chain/).
 
-The divergences are equally structural, and they are what make Sendy
-a parallel witness rather than a rough draft. First, creation. The
+The divergences are equally structural, though by themselves they
+cannot settle the dependence question. First, creation. The
 canon's Elohim create life on Earth — all of it, from alga to man —
 in their laboratories; Sendy's Celestials create nothing of the
 kind. His bipeds are indigenous, evolved on Earth by the standard
@@ -412,10 +410,11 @@ Péloquin, answered point by point from the Raëlian side, recorded
 without adjudication by academic observers from Palmer to Bigliardi —
 is summarized in the Explainer. The corpus reads the Raëlian texts as
 canon, so its own position is stated with complete transparency, and
-it can be, because the logic is symmetrical. If the 1973 encounter
-did not happen, the message is a condensation of Sendy — his
-hypothesis with the falsifiability clause amputated and a testimony
-grafted on. If it did happen, then the Elohim chose a France in which
+it can be, because the logic is symmetrical. If the 1973 encounter did not happen, the Message would need human
+sources, and Sendy is the obvious candidate for its Genesis chapter;
+but most of the book's commentary has no counterpart in his work (see
+[Sendy and the Raëlian Messages](/articles/sendy-and-the-raelian-messages/)),
+so even on that branch the Message is not a condensation of Sendy. If it did happen, then the Elohim chose a France in which
 Sendy had spent eleven years teaching the reading public how to parse
 the words "we are men like you," and left in print an independent
 corroboration arrived at by scholarship alone — which is how French

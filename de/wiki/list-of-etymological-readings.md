@@ -210,7 +210,7 @@ Several entries in the catalogue surface cross-linguistic convergences that are 
 
 ### The plural-creator pattern at the philological level
 
-The catalogue makes visible the philological-level confirmation of the plural-creator reading. The Hebrew *Elohim* is plural in form; the Sumerian *Anunnaki* is plural; the Vedic *Devas* are plural; the Greek *theoi* and Latin *dei* are plural in classical usage. The widespread plural-form usage for the creator-civilisation is preserved in the philological record across all the catalogue's major language traditions; the singular-deity reading of subsequent monotheistic theology represents a specific later development that is not native to the philological record itself.
+The catalogue makes visible a philological pattern consistent with the plural-creator reading, though plural morphology alone does not prove plural referents. The Hebrew *Elohim* is plural in form; the Sumerian *Anunnaki* is plural; the Vedic *Devas* are plural; the Greek *theoi* and Latin *dei* are plural in classical usage. When *Elohim* names Israel's God, it usually takes singular verbs and adjectives; the corpus's referential reading of the plural is its own, not a verdict of the grammar.
 
 ### The pre-theological readings
 

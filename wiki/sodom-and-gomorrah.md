@@ -240,15 +240,16 @@ judgment that the later sexual reading is not what the earliest text is about.
 **Was it a real event?** Whether any historical destruction lies behind the
 narrative is contested. The most-discussed recent claim concerns Tall el-Hammam,
 a Middle Bronze Age city in the southern Jordan Valley whose excavation directors
-(Bunch et al., *Scientific Reports*, 2021) argue was destroyed around 1650 BCE by
+(Bunch et al., *Scientific Reports*, 2021) argued was destroyed around 1650 BCE by
 a Tunguska-class cosmic airburst — citing melted pottery and mudbrick, shocked
 quartz, and metallic microspherules, with an energy release they estimate at many
-times the Hiroshima bomb. The claim is genuinely disputed: Mark Boslough and
-others have challenged the sampling and the airburst interpretation, and the
-~1650 BCE date falls several centuries after the corpus's nominal Sodom. The
-framework therefore does not identify Tall el-Hammam as Sodom itself; it reads the
-site, at most, as evidence that destructions of this order did occur in the region
-during the Bronze Age. Steven Collins, who directs the excavation, argues on
+times the Hiroshima bomb. Mark Boslough and others challenged the sampling and
+the airburst interpretation, and *Scientific Reports* retracted the paper in
+April 2025, its editors stating that concerns raised about it undermined its conclusions. The
+~1650 BCE date also falls several centuries after the corpus's nominal Sodom. The
+framework registers the site and its retraction and enlists it as evidence for
+nothing; its reading of Sodom depends on no excavation and no airburst thesis.
+Steven Collins, who directs the excavation, argues on
 separate geographic grounds that Tall el-Hammam *is* the biblical Sodom — a
 minority position in the field.
 
@@ -329,7 +330,7 @@ Boswell, John. *Christianity, Social Tolerance, and Homosexuality: Gay People in
 
 Jordan, Mark D. *The Invention of Sodomy in Christian Theology*. University of Chicago Press, 1997.
 
-Bunch, Ted E., et al. "A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea." *Scientific Reports* 11, 18632 (September 2021).
+Bunch, Ted E., et al. "A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea." *Scientific Reports* 11, 18632 (September 2021). Retracted April 2025.
 
 Collins, Steven. *The Search for Sodom and Gomorrah*. Trinity Southwest University Press, 2007.
 

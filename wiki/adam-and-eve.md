@@ -30,7 +30,6 @@ footnotes = [
     { content = "The framework does not claim Adam and Eve are the first humans of all humanity. The seven-team picture includes parallel first-human figures in the other six lineages, whose names the Hebrew Bible does not preserve because the Hebrew Bible is the Israel-team lineage's own inheritance. Adam and Eve are the first humans of *one* lineage — the one whose later history became the story of the Hebrews. The \"Fall,\" on this reading, is a single event in one lineage's history rather than a universal human catastrophe, and the Augustinian original-sin doctrine that extends it to all humanity does not carry the universal scope its theology claims." },
     { content = "The framework rejects the tradition that lays primary blame on Eve. The Raëlian source material is explicit that the disclosure was offered to both humans, the affection of the disclosing creators was for both, and the consequences fell on both. The 1 Timothy 2:13–14 \"the woman was deceived\" framing is the textual seed of that later tradition; on this narrow point the corpus agrees with the Jewish and Christian feminist scholarship (Pagels, Trible, Meyers) without adopting its full theological programme." },
     { content = "The date the corpus assigns to Adam and Eve — late Age of Leo, c. 8,850 BCE, at the Leo–Cancer boundary — is framework-internal. It is distinct from the synthesis of the first Adamite species at the opening of Leo (c. 11,375 BCE), which the 666-generations-of-20-years reading of Revelation 13:18 anchors; Adam and Eve are founding figures late in the Eden phase, not the first Adamites. The precessional ages are real astronomical phenomena; the specific boundary years are framework conventions. See the Genesis, Antediluvian, and Number of Man entries for how the chronology is derived." },
-    { content = "The resurrection of Adam and Eve on the Planet of the Eternals is a claim internal to the Raëlian material: both are reported as living there in practical immortality maintained by the alliance's cloning and memory-transfer technology, awaiting the open return at the Aquarian-age embassy. The corpus connects Adam's resurrection to his role as the first prophet — the first human to receive direct communication from the creators. The claim is not independently verifiable, and the corpus treats it as the source's own assertion." },
 ]
 
 [[extra.references]]
@@ -40,7 +39,7 @@ note = "Foundational Raelian source for Adam and Eve as the first synthesized hu
 
 [[extra.references]]
 id = "extraterrestrials-took-me-to-their-planet"
-note = "Vorilhon's second work (1975) — the Planet of the Eternals and the resurrection of the prophets including Adam."
+note = "Vorilhon's second work (1975) — the Planet of the Eternals and the prophets seated there; Adam and Eve are not among those it names."
 
 [[extra.references]]
 id = "those-gods-who-made-heaven-and-earth"
@@ -148,7 +147,7 @@ created_by = "The Israel team of Elohim creators, with Yahweh as team leader"
 relationship_to_lucifer = "Educated by the Israel team's scientists during the Eden period, including the figures who would form the dissenting Lucifer faction; recipients of the Lucifer-faction disclosure"
 recorded_lifespan = "Adam: 930 years (Genesis 5:5); Eve: not specified in Genesis"
 children = "Cain, Abel, Seth, and other unnamed sons and daughters (Genesis 4:1–2, 25; 5:3–4)"
-current_status = "Resurrected on the Planet of the Eternals, per the source material's prophet-resurrection list; awaiting the open return at the Aquarian-age embassy"
+current_status = "Not stated in the canon; the source material does not name Adam or Eve among the figures on the planet of the Eternals"
 principal_text = "Genesis 1–5"
 principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2; *Extra-Terrestrials Took Me to Their Planet* (1975)"
 +++
@@ -189,7 +188,7 @@ The corpus reads Genesis 2–3 as a compressed but faithful record of work done 
 
 **The expulsion as restriction.** The sentences of Genesis 3 are read as the Council's verdict once the disclosure could not be undone. The serpent "cursed to crawl" is the Lucifer faction's exile — stranded on Earth, cut off from the home world — among the humans it had chosen to teach. Adam and Eve are put out of the enclosure to live by their own labour. The cherubim and the "flaming sword which turned every way" are read, following the source material, as armed sentries barring the way back to the Tree of Life. The disclosure was equally the work and the choice of both humans; the corpus rejects the reading that makes Eve uniquely culpable.{{ footnote(id="4") }}
 
-**After Eden.** Adam and Eve's children — Cain, Abel, Seth, and others — founded the antediluvian Eden civilisation, taught onward by the exiled Lucifer faction. The corpus reads Cain and Abel as their ordinary sons and declines the reading that makes Cain a child of the serpent's line. Adam's recorded 930 years are read as the [Tree of Life](../tree-of-life/) longevity the Lucifer faction later obtained for the Eden patriarchs, not as a natural human span. The source material further names Adam the first prophet — the first human to receive direct communication from the creators — and reports both Adam and Eve among the resurrected on the Planet of the Eternals, awaiting the open return at the Aquarian-age embassy.{{ footnote(id="6") }}{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Extra-Terrestrials Took Me to Their Planet* (1975) — the Planet of the Eternals and the resurrected prophets") }} One point the framework holds firmly: Adam and Eve are the first humans of *one* lineage, not of all humanity.{{ footnote(id="3") }}
+**After Eden.** Adam and Eve's children — Cain, Abel, Seth, and others — founded the antediluvian Eden civilisation, taught onward by the exiled Lucifer faction. The corpus reads Cain and Abel as their ordinary sons and declines the reading that makes Cain a child of the serpent's line. Adam's recorded 930 years are read as the [Tree of Life](../tree-of-life/) longevity the Lucifer faction later obtained for the Eden patriarchs, not as a natural human span. The source material does not call Adam a prophet, and among the figures it names at the table on the planet of the Eternals (ETTMTTP-2:64) are neither Adam nor Eve.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Extra-Terrestrials Took Me to Their Planet* (1975) — the Planet of the Eternals and the resurrected prophets") }} One point the framework holds firmly: Adam and Eve are the first humans of *one* lineage, not of all humanity.{{ footnote(id="3") }}
 
 ## Comparative first-human traditions
 

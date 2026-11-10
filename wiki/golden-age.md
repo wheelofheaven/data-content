@@ -289,8 +289,8 @@ Kurzweil's Singularity, the e/acc movement, the abundance-economy writing of
 Diamandis and Kotler, Andreessen's
 *Techno-Optimist Manifesto*{{ cite(id="the-techno-optimist-manifesto", text="[10]", title="Marc Andreessen, *The Techno-Optimist Manifesto* (October 2023) — contemporary techno-optimism aligned with Golden Age content.") }} —
 describes a near-future of post-scarcity plenty that aligns closely with Golden
-Age content, usually without any framework commitment. The corpus reads such
-movements as a secular recognition of the same possibility, and
+Age content, usually without any framework commitment. The corpus registers such
+movements as a family resemblance — context, not equivalence — and
 [Cyberparadism](../cyberparadism/) as its explicit
 aesthetic.{{ cite(id="cyberparadism-manifesto", text="[13]", title="*Cyberparadism Manifesto* — the contemporary aesthetic articulation aligned with Golden Age content.") }}
 

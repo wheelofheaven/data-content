@@ -50,11 +50,11 @@ form of liberation. The traditions differ over what cycles, what drives the
 cycling, and how release is won, but they share the underlying picture of
 existence as a wheel that turns until it is broken. In the Wheel of Heaven
 framework, Saṃsāra names something the corpus reads beneath that picture: the
-cyclical rise and fall of civilizations. On this reading the Indian traditions
-preserved, in the vocabulary of the individual soul, a pattern that operates at
-the scale of whole species — humanity rising to scientific maturity and then
-either escaping the cycle into a [Golden Age](../golden-age/) or falling back
-into it, restarting from a primitive state.
+cyclical rise and fall of civilizations. The canon re-reads the Buddhist account
+of the cycle at the scale of humanity as a whole — humanity rising to scientific
+maturity and then either escaping the cycle into a [Golden Age](../golden-age/)
+or falling back into it, restarting from a primitive state. The mapping is the
+canon's; it does not claim that the Indian traditions themselves held it.
 
 The reading is set out by [Yahweh](../yahweh/) in Claude Vorilhon's
 *Extra-Terrestrials Took Me to Their Planet* (1975), where the Buddhist account
@@ -206,8 +206,8 @@ several humanities facing the Aquarian threshold at once — that decides who
 qualifies. In the language of the [Four Levels](../four-levels/), the reread
 relocates saṃsāra from the individual to the collective level: it is humanity as
 a whole, not the single soul, that cycles. The corpus does not thereby dismiss the
-traditional individual reading; it holds that the individual reading is narrower
-than the pattern it preserves, not false.
+traditional individual reading, which stays the traditions' own; the canon's
+re-reading is a separate statement, not a claim about what the traditions meant.
 
 ## Comparative and critical perspectives
 

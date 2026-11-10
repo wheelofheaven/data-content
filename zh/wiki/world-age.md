@@ -165,10 +165,11 @@ The age runs to about 4110 CE, when the equinox returns to Capricorn and a secon
 Great Year begins. The corpus reads that turn as the closure of the first Great
 Year, the cycle across which the Elohim's creation project has unfolded, and the
 opening of a second in which humanity itself becomes the creating civilization,
-carrying the work outward to other worlds. The forty prophets the Raëlian
-material describes belong to this architecture, each mission set in the age
-appropriate to it and the whole sequence pointing toward the Aquarian
-recognition.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[3]", title="Vorilhon (Raël), *Extraterrestrials Took Me to Their Planet* (1976) — the forty-prophet pattern and the Aquarian transition") }}
+carrying the work outward to other worlds. The corpus reads the
+prophets within this architecture, each mission set in the age appropriate to
+it; the canon itself seats some forty representatives of the religions created
+after the Elohim's contacts at Yahweh's table, without a list or an order, and
+calls Raël "the last of the line of the prophets".{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[3]", title="Vorilhon (Raël), *Extraterrestrials Took Me to Their Planet* (1976) — the table scene (2:64) and the last of the line of the prophets (3:257)") }}
 The larger nested-scales cosmology this belongs to is treated in the
 [Cosmic Chain](../cosmic-chain/) entry.
 

@@ -47,7 +47,7 @@ The English term **"fractal cosmology"** is the corpus's designation for the fra
 - **1980-1982**: Mandelbrot develops the Mandelbrot set and publishes *The Fractal Geometry of Nature* (W. H. Freeman, 1982)
 - **1980s**: fractals become widely known, the Mandelbrot set among the most culturally visible mathematical objects of the late twentieth century
 
-The corpus reads this alignment as evidence for the source material's coherence with mathematics developed afterward, without requiring the material to have used the vocabulary.
+The corpus reads this alignment as a resemblance between the source material and mathematics developed afterward, not as evidence for it, without requiring the material to have used the vocabulary.
 
 ### Source-material phrasing
 

@@ -94,7 +94,7 @@ question = "How is this different from ancient astronaut theory?"
 answer = """
 The project shares the ancient-astronaut tradition's foundational claim — that ancient religious and mythological material preserves accurate testimony of advanced-civilization interventions — but differs significantly in source discipline and specific interpretive commitments.
 
-The project is not Sitchin-derivative. It does not accept the Nibiru framework, the Anunnaki identifications, or the specific chronological claims of Zecharia Sitchin's *Earth Chronicles* series. It is not von Däniken-derivative either, though Erich von Däniken's *Chariots of the Gods?* (1968) was a precursor in popularizing the broader frame.
+The project is not Sitchin-derivative. It does not accept the Nibiru framework, Sitchin's per-deity Anunnaki identifications, or the specific chronological claims of Zecharia Sitchin's *Earth Chronicles* series. It is not von Däniken-derivative either, though Erich von Däniken's *Chariots of the Gods?* (1968) was a precursor in popularizing the broader frame.
 
 The project's specific framework — Raëlian-source-driven, precessionally-organized, internally source-disciplined — distinguishes it from the broader ancient-astronaut tradition. The project engages that tradition's specific arguments on their merits without endorsing the tradition as a whole.
 """

@@ -520,8 +520,8 @@ civilization given to conquest. But sophistication is not the absence of
 disagreement. Opposed convictions, held strongly enough, can end where this essay
 began: in a weapon that cannot aim. The first: this is not the
 {% wiki(slug="ancient-astronaut-hypothesis") %}"ancient astronaut"{% end %} reading of popular fringe writing, a lineage the corpus's
-own apparatus explicitly disavows. The Sumerian {% wiki(slug="anunnaki") %}*Anunnaki*{% end %}{{ footnote(id="12") }} are not a literal
-pantheon of spacemen, and the texts hide no engineering vocabulary under the
+own apparatus explicitly disavows. It is not the Sitchin reading of the Sumerian {% wiki(slug="anunnaki") %}*Anunnaki*{% end %}{{ footnote(id="12") }},
+and it finds no engineering vocabulary hidden under the
 divine names. The case rests on narrative shape alone — on the oldest flood
 story being built as a decision, an execution, and a review. The second: the
 close reading does not depend on the frame at all. A reader who finds the canon's

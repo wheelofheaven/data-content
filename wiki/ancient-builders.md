@@ -291,9 +291,9 @@ is simply the common human capacity for coordinated labor, sustained observation
 of the sky, and effort carried across generations, which needs no special
 explanation. Some of it reflects the exiled creators' specific cultivation of
 specific traditions and the prophetic missions that gave those traditions their
-cultural-religious shape. And the recurring choice of high, sacred ground,
-concentrated where the source locates the old mountain stations, the corpus reads
-as the faint print of alliance presence. What the pattern does not require — and
+cultural-religious shape. The recurring choice of high, sacred ground, set beside
+the canon's account of mountain stations, is at most an untested, speculative
+correlate; the corpus does not count it as evidence. What the pattern does not require — and
 what the framework declines — is a single lost civilization standing behind all
 of it.
 

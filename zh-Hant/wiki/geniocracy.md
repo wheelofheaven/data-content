@@ -147,14 +147,14 @@ Raelian and a 'Geniocrat', just as one can be a Democrat and a Christian; one ca
 have a religion and a political opinion. Raelians do not have to get involved
 with the Geniocratic party."*
 
-The corpus reads Geniocracy as a direction of travel rather than a program for
-tomorrow. It is what human government is to evolve toward across the
-[Age of Aquarius](../../timeline/age-of-aquarius/) — as intelligence measurement
-grows more reliable and the cultural ground is prepared — not a system to be
-imposed on present democracies. Its full realisation would depend on validated
-measurement, on coordinated World Government
-implementation, and on a long shift in how societies think about authority and
-participation.
+The canon presents Geniocracy as a present task, not a distant ideal: the
+second book instructs Raël's followers to "do everything possible to put in place
+a government putting into practice geniocracy" and to refuse to vote except for
+candidates who advocate it (ETTMTTP-3:79–82); only geniocracy, it says, can let
+man "enter fully into the golden age", which the corpus places in the
+[Age of Aquarius](../../timeline/age-of-aquarius/). The corpus records that
+proposal and the objections to it; it neither endorses it nor specifies how it
+would be measured or implemented.
 
 ## Comparative traditions
 

@@ -105,9 +105,9 @@ scripture rather than as an embarrassment to be explained away.
 ## The Wheel of Heaven reading
 
 On the framework's reading the plurals are exactly what they appear to be. The
-Elohim who made humanity were many because the teams were many: the creation
-project was staffed by seven teams drawn from the seven provinces of the Elohim
-home world, and the "let us make man" of Genesis 1:26 is the ordinary grammar of
+Elohim who made humanity were many because the teams were many: the canon has
+several teams at work on the creation of man (TBWTT-2:25) — the corpus infers
+seven, from the seven provinces of the home planet (TBWTT-7:19) — and the "let us make man" of Genesis 1:26 is the ordinary grammar of
 a collaborative operation, not a theological riddle. The [Elohim](../elohim/) are
 not deities, not personified natural forces, and not a polytheistic residue that
 later editors failed to scrub out. They are a physical civilization of biological

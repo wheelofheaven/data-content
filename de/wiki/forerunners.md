@@ -138,11 +138,12 @@ The reading's distinctive move is to carry the forerunner pattern forward to the
 opening of the Aquarian age. The corpus treats the late Piscean centuries as a
 long preparation phase for the contact Claude Vorilhon (Raël) reports receiving on
 13 December 1973, at the crater of Puy de Lassolas near Clermont-Ferrand in the
-Auvergne. On this account several nineteenth-century founder-prophets already
-recognised in the forty-prophet list did double duty. **Joseph Smith**
-(1805–1844), founder of the Latter-day Saint movement; the **Bab** (1819–1850);
-and **Baha'u'llah** (1817–1892) each delivered a mission to his own moment and, in
-combination, reopened the cultural possibility of new prophecy after the long
+Auvergne. On this account several nineteenth-century religious founders are read as
+comparative material. **Joseph Smith** (1805–1844), founder of the Latter-day
+Saint movement, is named by Raël, in his commentary, among the envoys of the
+creators (LWTE-3:27), with no seat at the table, no number and no forerunner
+role; the **Bab** (1819–1850) and **Baha'u'llah** (1817–1892) are not named in
+the canon. Their movements, in combination, reopened the cultural possibility of new prophecy after the long
 assumption — shared by Judaism, Christianity, and Islam alike — that the age of
 prophets had closed. The Baha'i emphasis in particular, on progressive revelation
 through a succession of messengers appearing across many traditions, prefigures
@@ -212,8 +213,8 @@ than in place of it.
 - **Baha'i.** The Bab's self-designation as the forerunner of Baha'u'llah is the
   one living, explicit forerunner doctrine among the traditions surveyed, developed
   across Baha'u'llah's own writings and in Shoghi Effendi's *God Passes By*. The
-  corpus reads the Bab and Baha'u'llah as genuine late-Piscean prophets, so it
-  engages this material as broadly congruent while noting that Baha'i theology
+  canon does not name the Bab or Baha'u'llah; the corpus engages this material
+  comparatively, as broadly congruent while noting that Baha'i theology
   elevates its Manifestations in a way the framework's biological-prophet reading
   does not.
 - **UFO-contactee scholarship.** Academic study of the contactees — Jacques
@@ -263,7 +264,7 @@ source states.
 
 ### Principal Raëlian source
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. 1974. The principal source articulation of the approximately-forty-prophets framework.
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. 1974. The first book of the canon; the table scene of some forty representatives is in the second (ETTMTTP-2:64).
 
 Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. 1975.
 

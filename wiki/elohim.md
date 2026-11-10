@@ -122,7 +122,7 @@ The Hebrew *ʾĕlōhîm* is the plural of *ʾĕlōah*, itself usually understood
 
 The Akkadian cognate *ilum* is written, in cuneiform, with the logogram 𒀭. The same sign functions as both a logogram for the word *ilum* and as a determinative placed before divine names to mark them as divine. As a stand-alone ideogram, however, the sign 𒀭 represents the Sumerian word *an*, meaning *sky* or *heaven*, and depicts a star pictographically. The convergence is significant. The cuneiform sign for divinity is the sign for sky; the earliest written form of the concept the Hebrew tradition would later render as *Elohim* depicts a star — that is, depicts a celestial origin pictographically. The Sumerian word {% wiki(slug="anunnaki") %}*Anunnaki*{% end %} (𒀭𒀀𒉣𒈾), variously translated as *those of princely seed* or, more loosely, *those who from heaven came to earth*, contains this same 𒀭 element with the reading *an*.
 
-This convergence is part of the philological evidence on which the modern reinterpretive tradition draws: in the earliest written sources of the ancient Near East, the divine is what comes from the sky, depicted as a star. The standard philological reading of the root as *power* is consistent with this — beings arriving from the sky with technology unattainable by terrestrial humans would be, by every available criterion, the *powerful ones*. The traditional supernatural reading and the extraterrestrial-civilization reading both find textual support in the same root; they differ on whether the celestial-origin imagery is a metaphor for transcendence or a memory of literal arrival.{{ footnote(id="1") }}
+The corpus records this as a comparative observation on which the modern reinterpretive tradition draws: in the earliest written sources of the ancient Near East, the divine is written with the sign for sky, depicted as a star. It does not derive the canon's gloss from it. The canon's rendering of *Elohim* as "those who came from the sky" is canonical, not lexical; the standard philological reading of the root remains *power*. The traditional supernatural reading and the extraterrestrial-civilization reading differ on whether the celestial imagery is a metaphor for transcendence or a memory of literal arrival.{{ footnote(id="1") }}
 
 ### Translation history
 
@@ -164,7 +164,7 @@ Sendy's approach was philological and historiographic rather than revelatory.{{ 
 
 ### The Raëlian source material (1974 onward)
 
-{% library(book="the-book-which-tells-the-truth", chapter=1, verse=51) %}
+{% library(book="the-book-which-tells-the-truth", chapter=1, verse=53) %}
 We are men like you, and we live on a planet quite similar to Earth.
 {% end %}
 
@@ -324,7 +324,7 @@ The entry makes claims of different kinds, and they would be revised by differen
 
 - **The framework premise.** That the Elohim are a civilization of physical beings is the Raëlian canon's claim, labeled *framework* on this site. The philology on this page is consistent with it but cannot prove it, and no reading of the Hebrew grammar would refute it.
 - **The philological argument.** The plural form alone carries little weight, as shown above. The reading would be weakened if the plural verbs and adjectives of Genesis 20:13, 35:7, Deuteronomy 5:26 and Joshua 24:19 proved to be scribal or dialectal variants absent from the older witnesses (the Dead Sea Scrolls and the Hebrew behind the Septuagint), or if the plural speech of Genesis 1:26, 3:22 and 11:7 were better explained by a pattern attested for single speakers elsewhere in Hebrew and its sister languages.
-- **The independence of the modern convergence.** The section on modern reinterpretations treats Sendy, the Raëlian source material, Biglino and Wallis as reaching the reading separately. Evidence that one depends on another would reduce that convergence to a single line of transmission. For Sendy and the Raëlian books the question is examined in [Sendy and the Raëlian Messages](/articles/sendy-and-the-raelian-messages/), which finds selective adaptation a serious possibility.
+- **The independence of the modern convergence.** The section on modern reinterpretations treats Biglino and Wallis as reaching the reading independently of the Raëlian source material; evidence that one depends on another would reduce that convergence to a single line of transmission. For Sendy, who wrote first, neither dependence of the Raëlian books on his work nor their independence is established. The question is examined in [Sendy and the Raëlian Messages](/articles/sendy-and-the-raelian-messages/), which finds selective adaptation a serious hypothesis for the Genesis chapter that cannot account for the book as a whole.
 - **The dates.** The precessional dates are framework conventions anchored at c. 1950 CE. A different anchor would move every date on this page without changing the argument.
 
 ## Comparative vocabulary

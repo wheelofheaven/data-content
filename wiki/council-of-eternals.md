@@ -300,7 +300,7 @@ The Taurus-age pardon transformed the Council's position. It received the exiled
 
 ### Aries-discovery and indirect-contact phase (c. 2,160 BCE – 1945 CE)
 
-The Aries-age discovery that the Elohim themselves had been created transformed the Council's understanding of its own work. It shifted from direct to indirect contact, built the prophetic-mediation infrastructure, and authorized the Aries-age missions (Moses, the Hebrew prophets, Buddha, Zoroaster, the wider Axial Age coordination), the Piscean-age universal mission through Jesus and Muhammad, and later periodic interventions (Joseph Smith, the Bab, Baha'u'llah, others), keeping a minimal presence through the Piscean-age silence. For roughly 4,000 years its mode was prophetic mediation from the home world, sharply different from direct contact.
+The Aries-age discovery that the Elohim themselves had been created transformed the Council's understanding of its own work. It shifted from direct to indirect contact, built the prophetic-mediation infrastructure, and authorized the missions of the figures the canon names (Moses, Elijah, Ezekiel, Buddha, Jesus, Muhammad; ETTMTTP-2:64, 3:257) and, on the corpus's reading, the wider Axial Age coordination and later periodic interventions, keeping a minimal presence through the Piscean-age silence. For roughly 4,000 years its mode was prophetic mediation from the home world, sharply different from direct contact.
 
 ### Aquarian-age phase (1945–present)
 
@@ -381,7 +381,7 @@ The framework reads all of them as fragmentary memory of the actual Council.
 
 ### The Council as continuing political body
 
-The framework reads the Council as a **historical political body** that has existed continuously for roughly 25,000 years and still operates — departing from the theological readings (council as cosmological category, not institution) and the mythological ones (council as religious narrative, not an actual body). Its evidence: the Raëlian source's explicit membership, leadership, location, and procedures; the Hebrew Bible's council material, consistent with that operational character; the wider ancient Near Eastern traditions, preserving the same body in distinct cultural frames; and the coherence of its decisions across 25,000 years, implying institutional continuity.
+The framework reads the Council as a **historical political body** that has existed continuously for roughly 25,000 years and still operates — departing from the theological readings (council as cosmological category, not institution) and the mythological ones (council as religious narrative, not an actual body). Its evidence: the Raëlian source's explicit membership, leadership, location, and procedures; the Hebrew Bible's council material, consistent with that operational character; the wider ancient Near Eastern traditions, preserving cultural memory of the council the canon describes in distinct cultural frames; and the coherence of its decisions across 25,000 years, implying institutional continuity.
 
 ### The Council as the executive of the Earth project
 
@@ -492,11 +492,11 @@ The Greek tradition preserves the **Olympian council** as its principal divine-p
 
 **The subordinate deities** — Titans, lesser gods, nymphs, and other beings — sit in a wider cosmic-political structure under the Olympian council's authority.
 
-The corpus reads the Olympian council as the same body in Greek framing, its elaborations (the Olympian-Titan distinction, the named deities, the myths) that tradition's development.
+The corpus reads the Olympian council as a cultural memory of the council the canon describes, in Greek framing, its elaborations (the Olympian-Titan distinction, the named deities, the myths) that tradition's development.
 
 ### Hindu sabha tradition
 
-The Hindu tradition preserves council material in the *sabha* (assembly) tradition. Indra's assembly (*sudharma*), across Vedic and Puranic literature, is the principal cosmic-political body, presided over by Indra (king of the devas) and including devas, gandharvas, apsaras, and others; Brahma's council, in some Puranic texts, is a higher body where Brahma (the creator) convenes the cosmic principles for major decisions; and the wider *devasabha* references preserve procedures, role distributions, and operational decisions. The corpus reads the tradition as the same body in Hindu framing, its elaborations (the devas-asuras opposition, the named deities, the cyclical narratives) that tradition's development.
+The Hindu tradition preserves council material in the *sabha* (assembly) tradition. Indra's assembly (*sudharma*), across Vedic and Puranic literature, is the principal cosmic-political body, presided over by Indra (king of the devas) and including devas, gandharvas, apsaras, and others; Brahma's council, in some Puranic texts, is a higher body where Brahma (the creator) convenes the cosmic principles for major decisions; and the wider *devasabha* references preserve procedures, role distributions, and operational decisions. The corpus reads the tradition as a cultural memory of the council the canon describes, in Hindu framing, its elaborations (the devas-asuras opposition, the named deities, the cyclical narratives) that tradition's development.
 
 ### Buddhist sangha-like cosmic bodies
 

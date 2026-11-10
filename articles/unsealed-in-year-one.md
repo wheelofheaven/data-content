@@ -15,7 +15,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "The companion to 'The Scrolls That Woke in Year One': that Explainer tells what happened to the jars — the discovery, the forty-year publication scandal — while this one reads what was inside them. Between November 1946 and February 1947, in year one of the era the Raëlian canon counts from Hiroshima, a shepherd's stone cracked a jar above the Dead Sea and began releasing the library of a community organized around the conviction that sealed books open on schedule. Its foundational text quotes that community's own charter verse — Daniel's 'seal the book, even to the time of the end' — and reads the atomic age as the moment the seal breaks. This Explainer weighs the cargo through that frame: the books the later canon lost, kept at Qumran in bulk — Enoch in eleven Aramaic copies, Jubilees, a Book of Giants in which Gilgamesh walks among the Nephilim, the Genesis Apocryphon's drama of a child fathered by the Watchers; a 364-day calendar and a jubilee countdown that schedules the liberation of the world; and 11QMelchizedek, which names a heavenly elohim its executor. The wager is declared openly: the manuscripts and dates are established history, the canon's claims are framework, and the reading that binds them — that what these books say is addressed to the era that unsealed them — is this article's own labeled speculation."
+summary = "The companion to 'The Scrolls That Woke in Year One': that Explainer tells what happened to the jars — the discovery, the forty-year publication scandal — while this one reads what was inside them. Between November 1946 and February 1947, in year one of the era the Raëlian canon counts from 1946, the year after Hiroshima, a shepherd's stone cracked a jar above the Dead Sea and began releasing the library of a community organized around the conviction that sealed books open on schedule. Its foundational text quotes that community's own charter verse — Daniel's 'seal the book, even to the time of the end' — and reads the atomic age as the moment the seal breaks. This Explainer weighs the cargo through that frame: the books the later canon lost, kept at Qumran in bulk — Enoch in eleven Aramaic copies, Jubilees, a Book of Giants in which Gilgamesh walks among the Nephilim, the Genesis Apocryphon's drama of a child fathered by the Watchers; a 364-day calendar and a jubilee countdown that schedules the liberation of the world; and 11QMelchizedek, which names a heavenly elohim its executor. The wager is declared openly: the manuscripts and dates are established history, the canon's claims are framework, and the reading that binds them — that what these books say is addressed to the era that unsealed them — is this article's own labeled speculation."
 keywords = ["Dead Sea Scrolls", "Qumran", "1947", "1946", "year one", "Raëlian calendar", "Age of Apocalypse", "Daniel 12", "sealed book", "1 Enoch", "Jubilees", "Book of Giants", "11QMelchizedek", "Melchizedek", "Psalm 82", "4QDeutj", "divine council", "364-day calendar", "jubilee", "Genesis Apocryphon", "New Jerusalem", "Great Isaiah Scroll"]
 references = [
     # — The canon under comparison —
@@ -90,8 +90,10 @@ them — the sealed cargo, and why its contents read, from here, like mail
 addressed to a century its authors could not have known.
 
 This project keeps a second calendar, and on it the date of the find
-reads differently. The Raëlian source material counts years from the
-atomic flash over Hiroshima, and its foundational text heads its fifth
+reads differently. The Raëlian source material counts years from 1946 —
+"year one after Raël"
+({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=172) %}ETTMTTP 3:172{% end %}),
+the year after the atomic flash over Hiroshima — and its foundational text heads its fifth
 chapter with the era's founding formula — *"1946, year 1 of the new
 era"*
 ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=1) %}TBWTT 5:1{% end %}).

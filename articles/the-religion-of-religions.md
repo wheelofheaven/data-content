@@ -855,7 +855,7 @@ its conclusions in advance.
 The evidence supports a layered classification. Raëlism is a new religious
 movement of the UFO era by imagery; an atheistic religion by its own
 self-description; a scientific religion by stated epistemology, although
-its return deadline puts a central prediction at risk of empirical
+the 2035 return deadline Palmer reports from the movement puts a central prediction at risk of empirical
 failure; and a
 postmodern religion by cultural fit. Its descent, texts, prophetic cast,
 and eschatology also support reading it as a member of the Abrahamic

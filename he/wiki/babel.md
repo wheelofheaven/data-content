@@ -110,19 +110,22 @@ project rather than scattered local effort.
 **The tower as a spacecraft.** The principal source is a passage Yahweh delivers
 in the "Tower of Babel" section:
 
-> *"But the most intelligent race, the people of Israel, was making such
-> remarkable progress that they were soon able to undertake the conquest of
-> space with the help of the exiled creators. The latter wanted their new human
-> beings to go to the creators' planet to obtain their pardon, by showing that
-> they were not only intelligent and scientific but also grateful and peaceful.
-> So they built an enormous rocket — The Tower of Babel."*
+> *"But the most intelligent people, the people of Israel, were making such
+> progress that they soon undertook to launch into the conquest of space, helped
+> by the exiled creators. The latter wanted men to go to the creators' planet in
+> order to obtain their forgiveness by showing that men were intelligent and
+> scientific but grateful and peaceful. So they built an immense rocket: the
+> Tower of Babel."* (TBWTT-2:72)
 
-"An enormous rocket" is the source's own gloss on the *migdal*. On the corpus
+"An immense rocket" is the source's own gloss on the *migdal*. On the corpus
 reading the Tower is an interstellar craft — or the facility that would launch
 one — not a ziggurat; the Hebrew *ve-rosho va-shamayim*, "its top in the
 heavens," is taken for once at face value, a structure built to reach beyond the
-atmosphere. The "people of Israel" here is the source's name for the Eden
-genealogical line, not the later geographic nation.
+atmosphere. The "people of Israel" here is the population made by the creator team in the
+land of Israel; the canon calls the Jews the creators' descendants through the
+unions of the sons of Elohim with the daughters of men (ETTMTTP-2:104), and Raël,
+in his commentary, says that population became the Jewish people (LWTE-1:17–18); two paragraphs later it calls the scattered builders "the Jews"
+(TBWTT-2:76).
 
 **A peace offering, not defiance.** This is the framework's sharpest departure
 from the received reading. In Christian and Jewish tradition the Tower is

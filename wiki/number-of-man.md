@@ -28,7 +28,7 @@ see_also = [
 type = "Number-symbolic concept; the 666 of Revelation 13:18 read as the number of human generations from creation to the nuclear-acquisition threshold"
 value = "666 (Indo-Arabic numeral); χξϛ (Greek isopsephic representation: chi 600 + xi 60 + stigma 6); שש מאות ששים ושש (Hebrew)"
 principal_source = "Revelation 13:18 (the source text); *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) and *Message from the Designers* (2005) — the principal corpus interpretation; *timeline.epub* — the finalized-humans refinement"
-core_articulation = "666 = number of human generations from the original Eden-laboratory creation through the 1945 nuclear-acquisition threshold; at a working estimate of 20 years per generation, 666 × 20 = 13,320 years; 1945 − 13,320 = 11,375 BCE, near the Virgo–Leo precessional boundary"
+core_articulation = "666 = number of human generations from the original Eden-laboratory creation through the 1945 nuclear-acquisition threshold; the canon (LWTE-2:208–209) puts the first humans 'some 13,000 years ago' and computes 666 × 20 = 13,320 years; the date 11,375 BCE (1945 − 13,320) and its placement near the Virgo–Leo boundary are the corpus's own arithmetic, not the canon's"
 mathematical_features = "Triangular number (T₃₆ = 666); sum of the squares of the first seven primes (2² + 3² + 5² + 7² + 11² + 13² + 17² = 666); harshad number (divisible by its digit-sum)"
 precessional_calculation = "13,320 years ÷ 2,160 years per Great Month = 6.166 Great Months; close to half a Great Year (12,960 years, six Great Months exactly), a 360-year excess; creation-to-Apocalypse trajectory across roughly half the precessional cycle"
 distinguished_from = "the mainstream Nero Caesar gematria reading (Irenaeus and the subsequent scholarly tradition); the 616 textual variant (Papyrus 115); Reformation-era papacy-as-beast readings; contemporary-political-figure identifications; conspiracy-theoretic Mark-of-the-Beast readings"
@@ -45,8 +45,9 @@ a literal count: the number of human generations that will have lived on Earth
 between the creation of the first finalized humans in the [Elohim](../elohim/)'s
 laboratories and the moment humanity first turned nuclear energy to destruction.{% end %}
 At roughly twenty years to a generation, 666 generations span some 13,320 years,
-and counting back from the atomic threshold of 1945 places that first creation
-near the Virgo–Leo precessional boundary, around 11,375 BCE — the date from
+and counting back from the atomic threshold of 1945 — the corpus's arithmetic,
+not the canon's — places that first creation near the Virgo–Leo precessional
+boundary, around 11,375 BCE — the date from
 which the framework's whole [World Age](../world-age/) chronology descends.
 
 This reading runs against the grain of mainstream scholarship, which treats the

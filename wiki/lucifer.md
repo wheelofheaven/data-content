@@ -273,7 +273,7 @@ Across the Age of Cancer (c. 8,850 – 6,690 BCE on the corpus's chronology), Lu
 
 Genesis 6:1–4 introduces the *benei ha-Elohim* / Nephilim narrative — the "sons of Elohim" who took human women as wives and produced hybrid offspring with exceptional capabilities. The framework reads this as an episode within the faction's career, treated in the [Antediluvian](../antediluvian/), [Sons of Elohim](../nephilim/), and [Nephilim](../nephilim/) entries.
 
-The *benei ha-Elohim* are the exiled faction in their reproductive role: members taking human women of the Eden lineage as wives and producing hybrid offspring. The unions are biological, between two species related closely enough for fertile reproduction — the framework holds that the Elohim and synthesized humans share genetic compatibility, the humans having been synthesized principally from Elohim material. Lucifer's role is not detailed: the framework reads him as faction leader, implicated in the decisions that produced the unions without specifying whether he took part himself. By mid-to-late Cancer the Nephilim population was large and made up a meaningful part of the civilization's leadership.
+The *benei ha-Elohim* are the exiled faction in their reproductive role: members taking human women of the Eden lineage as wives and producing hybrid offspring. The unions are biological, between two species related closely enough for fertile reproduction — the canon has the creators able to have children with the daughters of men (TBWTT-2:55), the humans having been made in their image (TBWTT-2:27). Lucifer's role is not detailed: the framework reads him as faction leader, implicated in the decisions that produced the unions without specifying whether he took part himself. By mid-to-late Cancer the Nephilim population was large and made up a meaningful part of the civilization's leadership.
 
 The Nephilim episode is one of the principal factors the corpus identifies behind the Flood decision.{{ footnote(id="5") }} The accumulating Eloha-human hybrids formed a population the home-world authorities saw as an unacceptable mixing of the alliance with humanity, in both genetic stock and leadership. The corpus reads the Flood as targeting, among other concerns, the Nephilim specifically.
 
@@ -345,7 +345,7 @@ In historical-critical scholarship the *Helel ben Shahar* of Isaiah 14:12 is the
 
 ### Lucifer and Prometheus
 
-The Prometheus parallel is the strongest comparative identification for Lucifer — both bring beneficial knowledge to humanity and are punished by superior authorities — treated in full under *Comparative observations* below.
+The Prometheus parallel is Lucifer's closest positional counterpart in Greek myth — both bring beneficial knowledge to humanity and are punished by superior authorities — treated in full under *Comparative observations* below.
 
 ## Modern reinterpretations
 
@@ -404,11 +404,11 @@ The Prometheus parallel is the most developed comparative case for Lucifer. **Pr
 - **The punishment**: Zeus, angered, binds Prometheus to a rock in the Caucasus where an eagle daily tears at his liver, which regenerates each night — a punishment he suffers indefinitely.
 - **The eventual liberation**: in Aeschylus's lost trilogy Prometheus is released by Heracles, with reconciliation between him and Zeus in some versions.
 
-The parallels to Lucifer's framework-career are direct: a divine-class figure transmits withheld knowledge to humanity, is judged transgressive and severely punished by the superior authorities, and is eventually reconciled with the cosmic order in some versions. The corpus reads the Prometheus tradition as fragmentary memory of the Lucifer-faction reality, its Greek elaboration (the Titan-vs-Olympian frame, the eagle-and-liver detail) layered onto historical content. The fire-as-foundational-technology parallel is especially direct: the faction's transmission of scientific and technological knowledge to the antediluvian humans is the reality behind the Promethean fire-gift.
+The parallels to Lucifer's framework-career are direct: a divine-class figure transmits withheld knowledge to humanity, is judged transgressive and severely punished by the superior authorities, and is eventually reconciled with the cosmic order in some versions. The corpus reads the Prometheus tradition as fragmentary memory of the Lucifer-faction reality, its Greek elaboration (the Titan-vs-Olympian frame, the eagle-and-liver detail) layered onto historical content. The fire-as-foundational-technology parallel is especially close: the Promethean fire-gift occupies the place in the Greek plot that the faction's transmission of scientific and technological knowledge occupies in the canon's.
 
 **Aeschylus's *Prometheus Bound*** matters especially because it presents Prometheus sympathetically as a benefactor wrongly punished — exactly the position the framework places Lucifer in — calling the punishment unjust and Zeus tyrannical. The Romantic reception (Goethe's *Prometheus*, Shelley's *Prometheus Unbound*, others) extended this reading, making the figure a principal Romantic moral exemplar.
 
-The corpus does not commit to a direct connection between the Greek and Hebrew traditions — their historical relationship is much debated in comparative-mythology scholarship — but registers the correspondence as close enough that, on its reading of traditions preserving fragmentary memory of operational realities, the Prometheus tradition plausibly preserves memory of the same figure the Hebrew tradition names Lucifer / the Serpent.
+The corpus does not commit to a direct connection between the Greek and Hebrew traditions — their historical relationship is much debated in comparative-mythology scholarship — but registers the correspondence as close enough that, on its reading of traditions preserving fragmentary memory of operational realities, Prometheus is Lucifer's positional counterpart — the same place in the plot, not the same figure or name.
 
 ### Phaethon and the falling-figure tradition
 
