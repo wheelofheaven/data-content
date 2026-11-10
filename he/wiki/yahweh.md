@@ -11,6 +11,10 @@ translation_updated = "2026-11-10"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 97
+same_as = ["https://www.wikidata.org/wiki/Q766677", "https://en.wikipedia.org/wiki/Yahweh", "https://www.britannica.com/topic/Yahweh", "https://viaf.org/viaf/529159234869003372966"]
+claim_type = "framework"
+core_versions = { woh-claim-0028 = "0.1.0" }
+core_claim_ids = ["woh-claim-0028"]
 featured_order = 2
 category = "Elohim"
 editorial_pass = "2026-05"

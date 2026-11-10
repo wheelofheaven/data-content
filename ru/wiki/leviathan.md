@@ -7,8 +7,8 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-05-15"
-source_updated = "2026-08-06"
-translation_stale = true
+source_updated = "2026-05-14"
+translation_stale = false
 translation_sync = 100
 redirect_to = { title = "Serpent", path = "/wiki/serpent/" }
 category = "Symbolism & Motifs"

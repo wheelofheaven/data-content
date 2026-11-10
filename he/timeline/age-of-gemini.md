@@ -11,6 +11,9 @@ translation_updated = "2026-11-10"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 97
+claim_type = "inferred"
+core_versions = { woh-claim-0003 = "0.1.0", woh-claim-0071 = "0.3.1" }
+core_claim_ids = ["woh-claim-0003", "woh-claim-0071"]
 symbol = "♊"
 color = "blue"
 start_year = "–6690"

@@ -11,6 +11,8 @@ translation_updated = "2026-11-07"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
+core_versions = { woh-claim-0024 = "0.1.1" }
+core_claim_ids = ["woh-claim-0024"]
 claim_type = "speculative"
 editorial_pass = "2026-05"
 article_type = "explainer"

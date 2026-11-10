@@ -11,6 +11,9 @@ translation_updated = "2026-11-10"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
+same_as = ["https://www.wikidata.org/wiki/Q19014", "https://en.wikipedia.org/wiki/Garden_of_Eden", "https://www.britannica.com/topic/Garden-of-Eden"]
+core_versions = { woh-claim-0018 = "0.1.0", woh-claim-0076 = "0.1.2" }
+core_claim_ids = ["woh-claim-0018", "woh-claim-0076"]
 image = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/eden-garden-v1.avif"
 image_alt = "נוף ציורי של גן קדום וסגור בעמק נהר עם שחר, ובו ארבעה אפיקי מים מתפצלים."

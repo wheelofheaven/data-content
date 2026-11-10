@@ -11,6 +11,9 @@ translation_updated = "2026-11-10"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
+same_as = ["https://www.wikidata.org/wiki/Q134052", "https://en.wikipedia.org/wiki/Flood_myth", "https://www.britannica.com/topic/flood-myth"]
+core_versions = { woh-claim-0010 = "0.1.0", woh-claim-0071 = "0.3.1" }
+core_claim_ids = ["woh-claim-0010", "woh-claim-0071"]
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"

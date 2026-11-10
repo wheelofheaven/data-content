@@ -11,8 +11,11 @@ translation_updated = "2026-06-09"
 source_updated = "2026-11-07"
 translation_stale = true
 translation_sync = 83
+same_as = ["https://www.wikidata.org/wiki/Q193330", "https://en.wikipedia.org/wiki/Crop_circle", "https://www.britannica.com/art/crop-circle"]
+core_versions = { woh-claim-0057 = "0.1.0" }
+core_claim_ids = ["woh-claim-0057"]
 editorial_pass = "2026-05"
-claim_type = "framework"
+claim_type = "speculative"
 category = "Ufology"
 entry_type = "concept"
 alternative_names = ["크롭 서클", "크롭 포메이션", "agriglyphs (간헐적 대안 명칭)", "pictograms (1990년대 기술적 명칭)", "cercles de cultures (프랑스어)", "Kornkreise (독일어)"]

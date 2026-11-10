@@ -11,6 +11,9 @@ translation_updated = "2026-11-08"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
+same_as = ["https://www.wikidata.org/wiki/Q5788", "https://en.wikipedia.org/wiki/Petra", "https://www.britannica.com/place/Petra-ancient-city-Jordan", "https://viaf.org/viaf/315170015", "https://pleiades.stoa.org/places/697725"]
+core_versions = { woh-claim-0024 = "0.1.1" }
+core_claim_ids = ["woh-claim-0024"]
 image = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.avif"
 image_alt = "낮은 황금빛 아래 협곡 절벽의 장밋빛 사암을 직접 깎아 만든 페트라의 나바테아식 정면들."

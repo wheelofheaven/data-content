@@ -13,7 +13,7 @@ translation_stale = false
 translation_sync = 100
 claim_type = "speculative"
 editorial_pass = "2026-05"
-core_claim_ids = ["woh-claim-0036", "woh-claim-0030"]
+core_claim_ids = ["woh-claim-0036", "woh-claim-0030", "woh-claim-0071"]
 core_versions = { woh-claim-0036 = "0.2.0", woh-claim-0030 = "0.1.0", woh-claim-0071 = "0.3.1" }
 article_type = "explainer"
 category = "Science & Technology"

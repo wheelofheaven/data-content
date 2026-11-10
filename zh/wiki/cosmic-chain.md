@@ -11,6 +11,8 @@ translation_updated = "2026-11-08"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
+core_versions = { woh-claim-0030 = "0.1.0" }
+core_claim_ids = ["woh-claim-0030"]
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"

@@ -11,8 +11,11 @@ translation_updated = "2026-06-09"
 source_updated = "2026-11-07"
 translation_stale = true
 translation_sync = 83
+same_as = ["https://www.wikidata.org/wiki/Q193330", "https://en.wikipedia.org/wiki/Crop_circle", "https://www.britannica.com/art/crop-circle"]
+core_versions = { woh-claim-0057 = "0.1.0" }
+core_claim_ids = ["woh-claim-0057"]
 editorial_pass = "2026-05"
-claim_type = "framework"
+claim_type = "speculative"
 category = "Ufology"
 entry_type = "concept"
 alternative_names = ["ミステリーサークル", "クロップ・サークル", "穀物模様(crop formations)", "アグリグリフ(agriglyphs、時折用いられる代替名)", "ピクトグラム(1990年代の技術的呼称)", "cercles de cultures(フランス語)", "Kornkreise(ドイツ語)"]

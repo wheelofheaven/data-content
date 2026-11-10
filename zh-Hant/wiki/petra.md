@@ -11,6 +11,9 @@ translation_updated = "2026-11-08"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
+same_as = ["https://www.wikidata.org/wiki/Q5788", "https://en.wikipedia.org/wiki/Petra", "https://www.britannica.com/place/Petra-ancient-city-Jordan", "https://viaf.org/viaf/315170015", "https://pleiades.stoa.org/places/697725"]
+core_versions = { woh-claim-0024 = "0.1.1" }
+core_claim_ids = ["woh-claim-0024"]
 image = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/petra-nabataean-v1.avif"
 image_alt = "低垂金色光線下，佩特拉以玫瑰紅砂岩直接鑿刻於峽谷峭壁上的納巴泰立面。"

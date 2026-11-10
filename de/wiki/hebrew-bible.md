@@ -11,10 +11,11 @@ translation_updated = "2026-11-08"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 47
+same_as = ["https://www.wikidata.org/wiki/Q83367", "https://en.wikipedia.org/wiki/Tanakh", "https://www.britannica.com/topic/Tanakh", "https://viaf.org/viaf/8394148997616159870005"]
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-claim_type = "inferred"
+claim_type = "framework"
 core_claim_ids = ["woh-claim-0053", "woh-claim-0076"]
 core_versions = { woh-claim-0053 = "0.1.0", woh-claim-0076 = "0.1.2" }
 alternative_names = ["Tanach (Hebräisch: תָּנָ״ךְ)", "die Hebräischen Schriften", "die Jüdische Bibel", "Mikra (Hebräisch: מִקְרָא, ‚Lesung')", "das Alte Testament (Bezeichnung der christlichen Tradition)", "das Hebräische Alte Testament", "die kanonischen Hebräischen Schriften"]

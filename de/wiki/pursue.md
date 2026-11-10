@@ -11,6 +11,9 @@ translation_updated = "2026-11-10"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
+claim_type = "direct"
+core_versions = { woh-claim-0057 = "0.1.0" }
+core_claim_ids = ["woh-claim-0057"]
 editorial_pass = "2026-08"
 category = "Ufology"
 entry_type = "concept"

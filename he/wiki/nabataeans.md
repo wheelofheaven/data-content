@@ -11,6 +11,9 @@ translation_updated = "2026-11-08"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
+same_as = ["https://www.wikidata.org/wiki/Q220594", "https://en.wikipedia.org/wiki/Nabataeans", "https://www.britannica.com/topic/Nabataean-people"]
+core_versions = { woh-claim-0024 = "0.1.1" }
+core_claim_ids = ["woh-claim-0024"]
 category = "Peoples & Groups"
 editorial_pass = "2026-05"
 entry_type = "people"

@@ -10,6 +10,10 @@ translation_updated = "2026-11-10"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 99
+same_as = ["https://www.wikidata.org/wiki/Q1569944", "https://en.wikipedia.org/wiki/Age_of_Aquarius"]
+claim_type = "inferred"
+core_versions = { woh-claim-0003 = "0.1.0" }
+core_claim_ids = ["woh-claim-0003"]
 symbol = "♒"
 color = "cyan"
 start_year = "1950"

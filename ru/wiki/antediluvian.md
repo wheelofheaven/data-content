@@ -11,6 +11,9 @@ translation_updated = "2026-11-10"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 99
+same_as = ["https://www.wikidata.org/wiki/Q4771131", "https://en.wikipedia.org/wiki/Antediluvian"]
+core_versions = { woh-claim-0019 = "0.1.0" }
+core_claim_ids = ["woh-claim-0019"]
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 claim_type = "framework"

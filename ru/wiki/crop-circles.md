@@ -11,8 +11,11 @@ translation_updated = "2026-11-08"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 92
+same_as = ["https://www.wikidata.org/wiki/Q193330", "https://en.wikipedia.org/wiki/Crop_circle", "https://www.britannica.com/art/crop-circle"]
+core_versions = { woh-claim-0057 = "0.1.0" }
+core_claim_ids = ["woh-claim-0057"]
 editorial_pass = "2026-05"
-claim_type = "framework"
+claim_type = "speculative"
 category = "Ufology"
 entry_type = "concept"
 alternative_names = ["круги на полях", "формации на полях", "аглифы (нерегулярная альтернатива)", "пиктограммы (техническое обозначение 1990-х)", "cercles de cultures (французский)", "Kornkreise (немецкий)"]
