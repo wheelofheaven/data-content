@@ -8,7 +8,7 @@ aliases = ["/intro/age-of-gemini/", "/wiki/age-of-gemini/"]
 
 [extra]
 core_claim_ids = ["woh-claim-0003", "woh-claim-0071"]
-core_versions = { woh-claim-0003 = "0.1.0", woh-claim-0071 = "0.3.0" }
+core_versions = { woh-claim-0003 = "0.1.0", woh-claim-0071 = "0.3.1" }
 symbol = "♊"
 color = "blue"
 claim_type = "inferred"
@@ -216,7 +216,7 @@ The pre-flood archive that the source's framework requires would have dwarfed ou
 
 The scale of the cargo, on the genetic-archive reading, becomes manageable. Rather than pairs of every species of beetle being housed and fed for five months, every species of beetle's worth of genetic material could be stored in a volume no larger than a small laboratory. The "pair, male and female" language the biblical text uses reflects the technical requirement of sexual reproduction — both X and Y chromosomes need to be preserved — rather than a literal requirement that two adult beetles of each species be brought aboard. The ark was a genetic library combined with a crew-sustaining orbital platform. Its size and capacity are adequate to the task on this reading, in a way that a wooden boat carrying breeding pairs of every species on Earth could not be.
 
-Human occupants, as noted, were also on board — not in the form of preserved cells but as living crew. Noah, his wife, his three sons (Shem, Ham, and Japheth), and their wives: eight humans total, the number that the chapter's opening already noted as encoded in the age's association with the eighth day. The source adds that the ark, when it returned to the surface, also carried *"a couple from each race of human beings on the Earth"* (TBWTT-2:62) — so that representatives of every human race, not only the Eden lineage from which Noah came, were preserved and returned. Whether these other representatives were living humans on board or were regenerated from preserved genetic material after landing is not something the source specifies precisely. What is specified is that each human race was preserved through the event and returned to its place of creation after the recovery (TBWTT-2:68). The canon gives no count; the corpus's figure of seven is its own inference from the seven provinces of the home planet (TBWTT-7:19). The human species as a whole was not destroyed. Its civilization was.
+Human occupants, as noted, were also on board — not in the form of preserved cells but as living crew. Noah, his wife, his three sons (Shem, Ham, and Japheth), and their wives: eight humans total, the number that the chapter's opening already noted as encoded in the age's association with the eighth day. The source adds that the ark, when it returned to the surface, also carried *"a couple of each human race of the Earth"* (TBWTT-2:62) — so that representatives of every human race, not only the Eden lineage from which Noah came, were preserved and returned. The source distinguishes the two cargoes: each human race was placed back in its place of creation, while each animal was recreated from the cell preserved in the ark (TBWTT-2:68). The canon gives no count; the corpus's figure of seven is its own inference from the seven provinces of the home planet (TBWTT-7:19). The human species as a whole was not destroyed. Its civilization was.
 
 {{ figure(src="timeline/age-of-gemini-orbital-ark", alt="Silver preservation vessel in deep blue orbit above an Earth covered by storm systems and cold atmospheric haze.", caption="Ill. 3 - The orbital refuge: life held above the catastrophe.") }}
 

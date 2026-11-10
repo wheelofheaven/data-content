@@ -1,12 +1,12 @@
 +++
 title = "Die vierzig Stühle"
-description = "Rund vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird das Instrument, das entscheidet, welche Traditionen wirklich dabei waren."
+description = "Rund vierzig Gäste saßen 1975 an Jahwes Tisch, und der Kanon nennt sie nie alle. Formalisiert wird die eigene Heuristik des Korpus für den Vergleich, welche Traditionen dabei gewesen sein könnten."
 template = "articles-page.html"
 date = 2026-11-01
 draft = false
 
 [extra]
-card_summary = "Die ungenannten Gäste an Jahwes Tisch und eine Methode, mit der sich prüfen lässt, welche Traditionen der Bericht einschließen könnte."
+card_summary = "Die ungenannten Gäste an Jahwes Tisch und eine heuristische Skala, mit der sich die Traditionen vergleichen lassen, die der Bericht einschließen könnte."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0054"]
 core_versions = { woh-claim-0054 = "0.1.0" }
@@ -15,13 +15,13 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Der raëlianische Kanon behauptet eine begrenzte Prophetologie — etwa vierzig Gäste an Jahwes Tisch, „allesamt Wesen, die für die Religionen stehen, die im Anschluss an unsere Kontakte auf der Erde geschaffen wurden“ — und liefert die Gästeliste nie. Zugleich warnt er mit eigener Stimme vor falschen Propheten. Zwischen diesen beiden Sätzen liegt eine methodische Verpflichtung: Ein Korpus, das die Religionen der Welt durch diesen Kanon liest, muss öffentlich und mit Gründen sagen können, welche Traditionen es als Abkömmlinge eines authentischen Kontakts liest und welche nicht. Dieser Explainer formalisiert das Instrument. Er zeichnet nach, wie ältere Kanones ihre eigenen Grenzen bewachten — die Liste des Athanasius, die Überliefererketten der Hadith-Kritiker, die Kriterien der Leben-Jesu-Forschung und ihr Niedergang, das forensische Paradigma, das das Evangelium der Frau Jesu entlarvte — und verdichtet den fünfstufigen Katalog des Korpus zu sechs ausdrücklichen Tests: Kontaktspezifik, Ertrag, externe Nachweisbarkeit, Überlieferungskette, Nullhypothese und der diachrone Falschpropheten-Test des Kanons selbst. Zwischen Maschinerie und Kontrollen hält er den Ertrag gegen das Licht und liest das Wasserzeichen — die Signatur, die die Gründungsschichten der Traditionen der oberen Stufen teilen, bevor ihre Institutionen sie verschütten: die Liebe als tragende Ethik, die Unendlichkeit in Zeit und Raum, Achtung vor den Schöpfern ohne Vergöttlichung, die Absage an das leere Götzenbild und ein bevölkerter Himmel — und formuliert die Stichprobenregel, die das Verfallsmodell erzwingt: Bewertet wird die früheste erreichbare Schicht, nie der institutionelle Abraum; als Musterfall einer durch Messung erreichten Gründungsschicht dient die Wiedergewinnung der Gründungsschicht des Islam — die Qibla-Vermessungen, die Bewegung der Gläubigen und die Ḥanīfiyyah, der Name, den diese Schicht sich selbst gab, als wiederhergestellte Religion Abrahams und Ismaels. Anschließend kalibriert er das Instrument an seinen Kontrollfällen — den sechs vom Kanon benannten Traditionen am einen Ende, Scientology am anderen —, schickt Joseph Smith und L. Ron Hubbard als entscheidenden Kontrast nebeneinander durch das Instrument, grenzt die kustodiale Kategorie legitimer Traditionen ganz ohne Propheten ab und markiert die Grenzfälle (die Mandäer, Handsome Lake, Tenrikyō), die das Instrument zur Prüfung vormerkt. Die Einwände — Zirkularität, Unfalsifizierbarkeit, die mormonische Augenbraue und der Vorwurf des schlechten Geschmacks — erhalten einen eigenen Abschnitt."
+summary = "Der raëlianische Kanon behauptet eine begrenzte Prophetologie — etwa vierzig Gäste an Jahwes Tisch, „allesamt Wesen, die für die Religionen stehen, die im Anschluss an unsere Kontakte auf der Erde geschaffen wurden“ — und liefert die Gästeliste nie. Zugleich warnt er mit eigener Stimme vor falschen Propheten. Zwischen diesen beiden Sätzen liegt eine methodische Verpflichtung: Ein Korpus, das die Religionen der Welt durch diesen Kanon liest, muss öffentlich und mit Gründen sagen können, wie es die Traditionen ordnet, die es mit diesem Bericht vergleicht. Dieser Explainer formalisiert das Instrument, eine fünfstufige Skala, die die eigene Heuristik des Korpus zur Ordnung des Vergleichs ist: keine Rangordnung, die der Kanon vorgibt (der Kanon kennt keine Stufen), und kein Urteil über die Authentizität irgendeiner Tradition. Er zeichnet nach, wie ältere Kanones ihre eigenen Grenzen bewachten — die Liste des Athanasius, die Überliefererketten der Hadith-Kritiker, die Kriterien der Leben-Jesu-Forschung und ihr Niedergang, das forensische Paradigma, das das Evangelium der Frau Jesu entlarvte — und verdichtet den fünfstufigen Katalog des Korpus zu sechs ausdrücklichen Tests: Kontaktspezifik, Ertrag, externe Nachweisbarkeit, Überlieferungskette, Nullhypothese und der diachrone Falschpropheten-Test des Kanons selbst. Zwischen Maschinerie und Kontrollen hält er den Ertrag gegen das Licht und liest das Wasserzeichen — die Signatur, die die Gründungsschichten der Traditionen der oberen Stufen teilen, bevor ihre Institutionen sie verschütten: die Liebe als tragende Ethik, die Unendlichkeit in Zeit und Raum, Achtung vor den Schöpfern ohne Vergöttlichung, die Absage an das leere Götzenbild und ein bevölkerter Himmel — und formuliert die Stichprobenregel, die das Verfallsmodell erzwingt: Bewertet wird die früheste erreichbare Schicht, nie der institutionelle Abraum; als Musterfall einer durch Messung erreichten Gründungsschicht dient die Wiedergewinnung der Gründungsschicht des Islam — die Qibla-Vermessungen, die Bewegung der Gläubigen und die Ḥanīfiyyah, der Name, den diese Schicht sich selbst gab, als wiederhergestellte Religion Abrahams und Ismaels. Anschließend kalibriert er das Instrument an seinen Kontrollfällen — den vom Kanon benannten Traditionen am einen Ende, Scientology am anderen —, schickt Joseph Smith und L. Ron Hubbard als entscheidenden Kontrast nebeneinander durch das Instrument (Smith, der nur in Raëls Kommentar unter den Gesandten genannt wird, bleibt ohne Einstufung), grenzt die kustodiale Kategorie legitimer Traditionen ganz ohne Propheten ab und markiert die Grenzfälle (die Mandäer, Handsome Lake, Tenrikyō), die das Instrument zur Prüfung vormerkt. Die Einwände — Zirkularität, Unfalsifizierbarkeit, die mormonische Augenbraue und der Vorwurf des schlechten Geschmacks — erhalten einen eigenen Abschnitt."
 keywords = ["Propheten", "vierzig Propheten", "Authentizität", "Legitimität von Religion", "Methodologie", "Kanonbildung", "Authentizitätskriterien", "Hadith-Kritik", "Scientology", "Joseph Smith", "L. Ron Hubbard", "Mandäer", "Handsome Lake", "Tenrikyō", "Kabbala", "Vergleichende Religionswissenschaft", "bayesianische Geschichtsschreibung", "neue religiöse Bewegungen", "Gründungsschicht", "Veralltäglichung des Charismas", "Dan Gibson", "Qibla", "Bewegung der Gläubigen", "Anikonismus", "Götzendienst", "Nehushtan", "kosmischer Pluralismus", "Vielheit der Welten", "Hanafiyya", "millat Ibrahim", "Religion Abrahams", "Mytheme", "Motif-Index"]
 references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶46: why Vorilhon); Chapter 5 (¶54: the Kabbalah, the bases, Buddhism, Islam, the Mormons — 'it would take pages'; ¶66: the naming of Raël)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2 (¶50: 'My name is Yahweh'; ¶62–65: the meal of the forty and the seating order; ¶105: 'the religion of religions'); Chapter 3 (¶179: the false prophets of the age; ¶257: 'the last of the line of the prophets')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2 (¶85: 'the last prophet, but the first one to address Mankind asking them to understand and not to believe'); Chapter 3 (¶27: Joseph Smith among the prophets); Chapter 4 (¶92: 'thousands of false prophets' among the signs)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2 (¶85: 'the last prophet, but the first one to address Mankind asking them to understand and not to believe'); Chapter 3 (¶27: Raël's commentary naming Joseph Smith among the envoys); Chapter 4 (¶92: 'thousands of false prophets' among the signs)" },
 
     # — Comparative primaries, in the project's library —
     { id = "book-of-mormon", locator = "with the Testimony of Three Witnesses and Testimony of Eight Witnesses, front matter of the 1830 edition — the signed attestation documents run through Test 3" },
@@ -162,9 +162,12 @@ Lesern ein Instrument.
 Das Korpus hat tatsächlich eines gebaut. Die
 {% wiki(slug="list-of-prophets-and-religions") %}Liste der Propheten
 und Religionen{% end %} im Wiki ordnet die wichtigsten Traditionen der Welt auf
-einer fünfstufigen Authentizitätsskala ein — kanonisch, sehr wahrscheinlich,
+einer fünfstufigen Skala ein — kanonisch, sehr wahrscheinlich,
 wahrscheinlich, unwahrscheinlich, sehr unwahrscheinlich — und nennt fünf
-Kriterien, nach denen die Zuordnungen getroffen werden. Was der Katalog im
+Kriterien, nach denen die Zuordnungen getroffen werden. Die Skala ist ein
+eigenes Werkzeug des Korpus, eine Heuristik zur Ordnung des Vergleichs: Der
+Kanon kennt keine Stufen, und keine Stufe ist eine Rangordnung des Kanons oder
+ein Urteil über die Authentizität einer Tradition. Was der Katalog im
 verdichteten Register eines Nachschlageeintrags festhält, führt dieser
 Artikel in voller Länge aus: woher die Kriterien stammen, warum gerade diese
 fünf und keine anderen, wie das Instrument an bekannten Fällen an beiden
@@ -328,8 +331,8 @@ Gesamtheit dessen, was erhalten ist, besser vorher?“
 Der Katalog des Korpus nennt fünf Kriterien. Formalisiert, geordnet und um
 ein sechstes ergänzt, das der Kanon selbst liefert, lauten sie wie folgt.
 Jedes ist ein Test im forensischen Sinn: eine an den Befund gerichtete
-Frage mit benannten Fehlerquellen, deren Antworten sich zu einem Urteil
-summieren, ohne dass eine einzelne Antwort es diktiert.
+Frage mit benannten Fehlerquellen, deren Antworten sich zu einer Einstufung
+auf der Skala summieren, ohne dass eine einzelne Antwort sie diktiert.
 
 **Test 1 — Kontaktspezifik.** Beschreibt die Gründungserzählung ein
 *Ereignis* oder eine Atmosphäre? Der Test verlangt operative Textur: Daten,
@@ -424,14 +427,14 @@ Tradition konkurriert die Kontaktlesart mit der stärksten verfügbaren
 Alternative — dokumentierte literarische Quellen, veränderte
 Bewusstseinszustände, synkretistische Zusammensetzung, frommer Betrug,
 gewöhnlicher Betrug —, und die Kontaktlesart trägt die Beweislast. Die
-Nullhypothese ist keine Beleidigung; sie ist die Voreinstellung, die einem
-positiven Urteil erst Bedeutung gibt. In Test 5 sitzt Hume, und hier
+Nullhypothese ist keine Beleidigung; sie ist die Voreinstellung, die einer
+positiven Einstufung erst Bedeutung gibt. In Test 5 sitzt Hume, und hier
 leistet der erklärte Prior des Rahmens seine Arbeit: Die gestellte Frage
 lautet nie „Hätte ein Mensch das erfinden können?“ (ein Mensch kann alles
 erfinden), sondern „Sagt die Erfindungshypothese diesen Befund tatsächlich
 *besser vorher*?“ Wenn die früheren Veröffentlichungen des Gründers die
 Kosmologie bereits enthalten, sagt die Nullhypothese das Depot vollkommen
-vorher, und das Urteil folgt. Wenn die automatisch schreibende Hand einer
+vorher, und die Einstufung folgt. Wenn die automatisch schreibende Hand einer
 analphabetischen Witwe jahrzehntelang in sich stimmige Orakel hervorbringt,
 die den Wiederaufbau der Welt ankündigen, bleibt die Nullhypothese verfügbar
 — dissoziative Graphomanie ist ein dokumentiertes Phänomen —, aber sie sagt
@@ -459,18 +462,31 @@ wahrscheinlich, wahrscheinlich, unwahrscheinlich, sehr unwahrscheinlich —,
 und die Stufen sind mit Absicht ordinal. Das Korpus vergibt keine
 Punktzahlen, aus dem Grund, den die Fußnote zu Bayes nennt: Im historischen
 Argument fügen so weiche Zahlen keine Präzision hinzu, sie täuschen sie
-vor.{{ footnote(id="8") }} Drei strukturelle Regeln vervollständigen das
-Instrument. Erstens: *Die kanonische Stufe ist durch den Kanon selbst
-geschlossen.* Judentum, Christentum, Islam, Buddhismus, Mormonentum und
-Raëlismus sind kanonisch, weil die Gründungsbücher sie nennen —
-{% libref(book="the-book-which-tells-the-truth", chapter=5, verse=54) %}„die buddhistische Religion, die islamische, die Mormonen“{% end %},
-die Sitzordnung des Mahls, Joseph Smith unter „allen anderen großen
-Propheten“ bei LWTE 3:27 —, und das Instrument wählt weder Mitglieder in
-diese Stufe noch prüft es sie hinein. Seine Zuständigkeit sind die offenen
-Stufen, also genau die Zuständigkeit, die die Kriterien des Athanasius
-hatten. Zweitens: *Die Einordnungen werden in zwei Büchern geführt.* Eine
-Authentizitätsstufe ist ein Urteil über eine Gründungserzählung, nie über
-den spirituellen, ethischen oder kulturellen Wert einer lebendigen
+vor.{{ footnote(id="8") }} Die Skala ist ein Werkzeug des Korpus, nicht des
+Kanons. Der Kanon nennt einige Gesandte und kennt keine Stufen; die Stufen
+sind eine Heuristik zur Ordnung des Vergleichs — wo das Korpus genau liest
+und was es neben was stellt —, keine Rangordnung des Kanons und kein Urteil
+darüber, ob der Gründungskontakt einer Tradition stattgefunden hat oder
+nicht. Drei strukturelle Regeln vervollständigen das Instrument. Erstens:
+*Die kanonische Stufe bezeichnet die eigene Nennung des Kanons; sie ist keine
+Einstufung.* Judentum, Christentum, Islam und Buddhismus stehen dort, weil
+die diktierte Botschaft ihre Gründergestalten nennt — Moses, Elia, Jesus,
+Buddha und Mohammed beim Mahl (ETTMTTP 2:62–64); Moses, Hesekiel, Elija,
+Jesus, Mohammed und Buddha als die Vorgänger des
+{% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=257) %}„Letzten der Linie der Propheten“{% end %}
+—, und der Raëlismus steht dort als der Kanon selbst. Das Instrument wählt
+weder Mitglieder in diese Stufe noch prüft es sie hinein. Seine Zuständigkeit
+sind die offenen Stufen, also genau die Zuständigkeit, die die Kriterien des
+Athanasius hatten. Das Mormonentum wird nicht als kanonisch eingestuft.
+Joseph Smith wird nur in Raëls eigenem Kommentar im dritten Buch unter den
+Gesandten genannt (LWTE 3:27), und das Gründungsbuch führt „die Mormonen“
+unter den Religionen auf, die „mehr oder weniger deutlich“ auf die Schöpfer
+anspielen, neben der griechischen Mythologie und der buddhistischen und
+islamischen Religion (TBWTT 5:54); keine der beiden Passagen stuft etwas ein,
+und das Korpus fällt kein Authentizitätsurteil über die Gründung der HLT-Kirche.
+Zweitens: *Die Einordnungen werden in zwei Büchern geführt.* Eine Stufe ist
+eine Arbeitsposition zu einer Gründungserzählung, nie ein Urteil über den
+spirituellen, ethischen oder kulturellen Wert einer lebendigen
 Tradition oder ihrer Angehörigen — der Katalog sagt das mit eigener Stimme,
 und das Instrument wiederholt es, denn die Unterscheidung ist der
 Unterschied zwischen vergleichender Methode und sektiererischer
@@ -480,8 +496,7 @@ verschiebbar — und der Grenzabschnitt weiter unten existiert, weil das
 Instrument seine eigene Liste wiederaufzunehmender Fälle erzeugt.
 
 Noch eine Grenze, weil sie eine ganze Familie von Verwechslungen verhindert:
-Das Instrument misst die Authentizität des Ursprungs, und nur des
-Ursprungs. Es misst weder Erfolg noch Größe, Langlebigkeit oder sozialen
+Das Instrument vergleicht Ursprünge, und nur Ursprünge. Es misst weder Erfolg noch Größe, Langlebigkeit oder sozialen
 Nutzen — das misst das Modell von Stark, und nach Starks Kriterien kann eine
 Tradition auf einer erfundenen Gründung prächtig gedeihen oder auf einer
 authentischen verkümmern. Die beiden Achsen sind unabhängig, und die meisten
@@ -495,8 +510,8 @@ oberen Stufen des Katalogs hinweg, tritt eine Tatsache zweiter Ordnung
 hervor: Die Lieferungen ähneln einander. Unter der wilden Vielfalt der
 Idiome — Bund an einem Wüstenberg, Dharma unter einem Feigenbaum, Rezitation
 in einer mekkanischen Höhle, Platten von einem Hügel in New York, sechs
-Morgen in einem Krater der Auvergne — tragen die Gründungsdepots der
-Traditionen, die der Rahmen am höchsten bewertet, eine kleine, stabile
+Morgen in einem Krater der Auvergne — tragen die Gründungsdepots, die das
+Korpus nebeneinanderstellt, eine kleine, stabile
 Menge wiederkehrender Merkmale. Das Korpus nennt diese Menge das
 Wasserzeichen, nach der Analogie, die das Wort liefert: ein bei der
 Herstellung ins Papier gearbeitetes Zeichen, beim gewöhnlichen Lesen leicht
@@ -536,9 +551,8 @@ wiederfinden.
 Tradition kann eine kanonische Stufe innehaben, während ihre reife
 Institution nach dem eigenen Bericht des Kanons ein Monument ist, das auf
 dem steht, was es weitergeben sollte. Das Register offener Fragen im Katalog
-praktiziert die Unterscheidung bereits, indem es Smiths Gründungskontakt von
-der späteren HLT-Institution trennt und den Jesus-Kontakt von der Kirche der
-Konzilszeit; der Abschnitt über das Wasserzeichen formuliert die zugrunde
+praktiziert die Unterscheidung bereits, indem es den Jesus-Kontakt von der
+Kirche der Konzilszeit trennt; der Abschnitt über das Wasserzeichen formuliert die zugrunde
 liegende Regel: Die Stufe gehört der Schicht, nie dem Abraum.
 
 Die Regel wäre frommes Händewedeln, wenn die Gründungsschicht unerreichbar
@@ -737,18 +751,18 @@ driften; die Soziologie sagt es mit ihrer) gleichermaßen vorhergesagt — und
 ein Datum, das beide Hypothesen vorhersagen, kann nicht zwischen ihnen
 unterscheiden. Eine verdorbene Kirche verurteilt ihre Gründung weder, noch
 spricht sie sie frei; nur die Gründung verurteilt oder spricht die Gründung
-frei. Drittens schärft es die negativen Urteile, die folgen: Der
+frei. Drittens schärft es die negativen Einstufungen, die folgen: Der
 entscheidende Befund gegen eine erfundene Tradition ist nie, dass ihre
 Institution verfiel — wessen Institution verfiel nicht? —, sondern dass
 ihrer Gründungsschicht, direkt angebohrt, das Wasserzeichen bereits fehlt.
 
 ## Die Negativkontrolle: Scientology auf dem Prüfstand
 
-Ein Instrument wird an beiden Enden kalibriert. Die kanonischen Sechs
-verankern das positive Ende durch Festsetzung; das negative Ende braucht
+Ein Instrument wird an beiden Enden kalibriert. Die vom Kanon benannten
+Traditionen verankern das positive Ende durch die eigene Nennung des Kanons; das negative Ende braucht
 einen Fall, der reich genug dokumentiert ist, um öffentlich durch alle sechs
-Tests geschickt zu werden, und das schärfste negative Urteil des Katalogs —
-Scientology, sehr unwahrscheinlich — ist genau dieser Fall. Das Urteil
+Tests geschickt zu werden, und die niedrigste Einstufung des Katalogs —
+Scientology, sehr unwahrscheinlich — ist genau dieser Fall. Die Einstufung
 verdient Besseres als Hohn, denn nichts diskreditiert eine Methode schneller,
 als ihre Ergebnisse als ausgemacht zu behandeln.
 
@@ -780,8 +794,8 @@ Dianetics über ein Jahrzehnt lang Berufsautor von Space Operas für
 *Astounding* und dessen Pulp-Verwandtschaft gewesen; das Material der
 „ganzen Zeitspur“ ist in Idiom, Requisiten und erzählerischem Reflex
 bruchlos mit der Fiktion verbunden, die er pro Wort bezahlt produzierte. Wo
-der kosmologische Gehalt des Buches Mormon über das hinausgeht, was das
-Regal eines Landarbeiters im Hinterland New Yorks leicht erklären kann, ist
+der kosmologische Gehalt des Buches Mormon sich nur schwer auf das Regal
+eines Landarbeiters im Hinterland New Yorks zurückführen lässt, ist
 der Gehalt von OT III durch das Regal seines Verfassers *vorhergesagt*,
 Stück für Stück. Bei Test 2 schneidet die Tradition nicht schwach ab; sie
 schneidet negativ ab, denn das Depot ist positiver Beleg für die
@@ -813,7 +827,7 @@ in der Handschrift eines Science-Fiction-Profis. Eine perfekte
 Anfang steht. Die Überlieferungskette von Scientology überführt ihren
 Ertrag, und das ist das Instrument, das genau wie vorgesehen arbeitet: Die
 Tests wirken konjunktiv, und kein einzelner Test — nicht einmal ein
-perfektes Ergebnis bei einem — trägt allein ein Urteil.
+perfektes Ergebnis bei einem — trägt allein eine Einstufung.
 
 *Test 5 — Die Nullhypothese.* Die Nullhypothese ist hier nicht bloß
 verfügbar; sie ist die am besten belegte Erklärung einer Gründung im
@@ -836,12 +850,12 @@ Stufen nach Jahren der Vorbereitung — Mystifikation als Geschäftsmodell, die
 genaue strukturelle Umkehrung einer Botschaft, die verstanden statt geglaubt
 werden will.
 
-Urteil: sehr unwahrscheinlich, in sechs von sechs Tests, von denen mehrere
+Einstufung: sehr unwahrscheinlich, in sechs von sechs Tests, von denen mehrere
 positiven Beleg für Erfindung liefern statt bloßer Abwesenheit von Belegen
 für Kontakt. Und eine Klarstellung, die die Regel der zwei Bücher verlangt:
 Nichts davon ist ein Befund über Scientologen, von denen viele echten Nutzen
 aus Praktiken berichten, deren Gründungserzählung man ihnen womöglich nie
-gezeigt hat. Das Urteil betrifft eine Gründungserzählung, erreicht durch im
+gezeigt hat. Die Einstufung betrifft eine Gründungserzählung, erreicht durch im
 Voraus genannte Tests — und dieselben Tests liefern, auf Thelema angewandt,
 die Nullhypothese des veränderten Bewusstseinszustands (eine gründende
 „Empfängnis“, die bruchlos an die dokumentierte rituelle Praxis und die
@@ -868,8 +882,9 @@ sich jung professionalisierten, mit ihren Regierungen kämpften, ihre Gründer
 als Propheten begruben und weltweite Institutionen aufbauten. Das
 volkstümliche Urteil — *beides Sekten* — und das bequeme ökumenische
 Urteil — *beides Religionen, wer will das entscheiden* — sind sich darin
-einig, dass sie die beiden nicht unterscheiden. Das Instrument unterscheidet
-sie in jedem Test.
+einig, dass sie die beiden nicht unterscheiden. Das Instrument trennt ihre
+Beweisprofile in jedem Test, was nicht dasselbe ist, wie eine der beiden zu
+beglaubigen.
 
 Wo Hubbards Gründungsdokument eine Wissenschaft ankündigt und eine
 Offenbarung nachträglich auffüllt, kündigt Smiths vom ersten Satz an eine
@@ -881,8 +896,8 @@ die Platten 1827 herausgegeben wurden — ein *Zeitplan*, die Signatur der
 Gattung, die die eigene Gründung des Kanons teilt, bis hin zu den sechs
 aufeinanderfolgenden Morgen oberhalb von Clermont-Ferrand. Wo Hubbards
 Ertrag durch seine eigene Bibliografie vorhergesagt wird, ist Smiths Ertrag
-die Anomalie, die der Katalog des Rahmens als Grund für die kanonische
-Lesart markiert: ein greifbarer, verkörperter Gott; erhöhte Menschen, die
+das Merkmal, das der Katalog als die engste Ähnlichkeit mit der Kosmologie
+des Kanons markiert: ein greifbarer, verkörperter Gott; erhöhte Menschen, die
 ihrerseits zu Göttern werden; ein Christus, der „Welten ohne Zahl“ besucht
 hat; eine benannte Sternregion, Kolob, die mit der göttlichen Verwaltung
 verbunden ist — Theologie der Vielheit der Welten, tragend und lehrmäßig
@@ -892,11 +907,12 @@ Welten war damals selbst Gegenstand einer lebhaften Debatte: Fontenelles
 Thomas Paine wandte die Idee in *Das Zeitalter der Vernunft* gegen die
 christliche Erlösungslehre. Das Gewicht des Ertrags liegt daher auf der
 verkörperten, pluralen, aufsteigenden Göttlichkeit und nicht auf den
-Welten allein, und diese Göttlichkeit weist mit verblüffender Direktheit
-auf die kosmische Architektur, die die raëlianischen Bücher 1973
-beschreiben sollten. Die
-{% wiki(slug="elohim") %}Elohim{% end %}-Lesart des Korpus zum Depot der HLT
-wird im Katalog und seinen Begleiteinträgen entwickelt; was hier zählt, ist
+Welten allein, und diese Göttlichkeit ähnelt eng der kosmischen Architektur,
+die die raëlianischen Bücher 1973 beschreiben sollten. Das Korpus verzeichnet
+die Ähnlichkeit ausschließlich als Ähnlichkeit — nicht als Abhängigkeit, nicht
+als Identität der Bezugsgrößen und nicht als Beleg dafür, dass die Gründung der
+HLT-Kirche ein Kontakt war; der Vergleich wird im Eintrag
+{% wiki(slug="joseph-smith") %}Joseph Smith{% end %} dargelegt. Was hier zählt, ist
 die *Gestalt* der Bewertung — Gehalt, den das Milieu des Gründers nur mühsam
 liefern kann, an der Stelle, an der die Tradition selbst ihr größtes Gewicht
 trägt.
@@ -913,32 +929,36 @@ keine Apologetik ist, legt sie ohne Zögern dar. Doch *komplizierte
 Bezeugung* und *widerlegte Bezeugung* sind verschiedene Befunde, und
 Hubbards Akte enthält den zweiten: Wo der externe Befund Smiths Geschichte
 berührt, trübt er sie; wo er Hubbards berührt, zerbricht er sie. Bei Test 5
-sträubt sich die Nullhypothese gegen das mormonische Depot — die
-Betrugslesart muss das Ausbleiben eines Widerrufs der Zeugen erklären, die
-Geschwindigkeit der Abfassung und vor allem das spezifische Gewicht des
-Ertrags — und legt sich bequem um das scientologische. Und bei Test 6
+hat die Betrugslesart in der mormonischen Akte mehr zu erklären — das
+Ausbleiben eines Widerrufs der Zeugen, die Geschwindigkeit der Abfassung, das
+spezifische Gewicht des Ertrags — als in der scientologischen, um die sie sich
+bequem legt. Und bei Test 6
 gehören die beiden nicht einmal in die Zuständigkeit desselben Zeitalters:
 Smith sprach vor 1945, in dem religiösen Vokabular, das sein Publikum
-verarbeiten konnte, genau so, wie der Rahmen es von einem echten
-{% wiki(slug="prophet") %}Propheten{% end %} vor der Apokalypse erwartet;
+verarbeiten konnte — dem Register, das der Kanon den
+{% wiki(slug="prophet") %}Propheten{% end %} vor der Apokalypse zuweist;
 Hubbard sprach danach und wählte den versiegelten Raum.
 
 Jan Shipps hat ein Forscherleben lang dafür argumentiert, dass das
 Mormonentum als echte *neue religiöse Tradition* untersucht werden muss — so,
 wie man die Entstehung des frühen Christentums aus dem Judentum untersucht,
 nicht so, wie man ein Betrugsmodell untersucht. Das Instrument gelangt mit
-forensischen Mitteln zu Shipps' Respekt, und es gelangt mit denselben Mitteln
-nebenan zum entgegengesetzten Urteil. Dieses doppelte Ergebnis — dieselben
+forensischen Mitteln zu Shipps' Respekt — einer Gründungsakte, die der externe
+Befund, wo er sie berührt, trübt, aber nicht zerbricht — und hält dort inne:
+Es fällt kein Authentizitätsurteil über die Gründung der HLT-Kirche, und es
+identifiziert die Gestalten in Smiths Berichten, Moroni eingeschlossen, nicht
+mit den Elohim oder ihren Abgesandten. Nebenan stellen dieselben Tests
+Scientology auf den Boden der Skala. Dieses doppelte Ergebnis — dieselben
 sechs Tests, öffentlich durchgeführt, die das amerikanische Paar trennen, das
 die Volkstaxonomie nicht aufspalten kann — ist die Kalibrierung, die das
-Instrument zu einem Urteil über schwierigere Fälle berechtigt.
+Instrument berechtigt, schwierigere Fälle einzuordnen.
 
 ## Die Bewahrer: Legitimität ohne Propheten
 
 Flüchtig gelesen legt der Katalog nahe, jeder Eintrag sei ein Gründer plus
-ein Urteil, und diese Lesart würde eine Kategorie übersehen, die der Kanon
+eine Stufe, und diese Lesart würde eine Kategorie übersehen, die der Kanon
 selbst dem Instrument aufzwingt. Das fünfte Kapitel des Gründungsbuchs
-spricht im selben Atemzug, in dem es die bestätigten Traditionen nennt, sein
+spricht im selben Atemzug, in dem es Religionen nennt, die auf die Schöpfer anspielen, sein
 einziges höchstes Lob etwas zu, das überhaupt keine von einem Propheten
 gegründete Religion ist:
 
@@ -1047,10 +1067,11 @@ Katalog — verschaffen der Tradition bereits ihre Stufe „sehr
 wahrscheinlich“. Die spekulative Frage ist schärfer: Was *müsste* geschehen,
 um eine Tradition höherzustufen — und die redliche Antwort des Instruments
 legt die Architektur offen: Nichts könnte sie auf „kanonisch“ heben, denn
-diese Stufe ist durch Nennung im Kanon geschlossen, und keine Anhäufung
-forensischer Tugend ersetzt einen Satz in den Gründungsbüchern. Die Stufen
-messen an Spitze und Mitte zwei verschiedene Dinge, die kanonische
-Zugehörigkeit durch Festsetzung, alles andere durch Befund — und das laut zu
+diese Bezeichnung verzeichnet die eigene Nennung von Gesandten durch den
+Kanon, und keine Anhäufung forensischer Tugend ersetzt einen Satz in der
+diktierten Botschaft. Die Skala verzeichnet an ihrer Spitze und in ihrer
+Mitte zwei verschiedene Dinge, an der Spitze die Nennung durch den Kanon,
+überall sonst die vergleichenden Positionen des Korpus — und das laut zu
 sagen, ist der Preis der Redlichkeit, den der nächste Abschnitt in voller
 Höhe bezahlt.
 
@@ -1059,7 +1080,7 @@ nicht vom Backkatalog der Geschichte. Zwei Traditionen in den oberen Stufen
 des Katalogs halten an einer *benannten, terminierten* künftigen Gestalt
 fest — Maitreya im Buddhismus, Kalki im vishnuitischen Hinduismus —, und das
 zweite Buch des Kanons schließt, indem es die buddhistische Erwartung
-ausdrücklich für sich beansprucht:
+mit eigenen Worten anspricht, ohne eine Gestalt zu nennen:
 {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=228) %}„eure Schriften weisen darauf hin, dass der neue Buddha im Westen geboren werden muss; erkennt die vorhergesehenen Zeichen!“{% end %}
 Eine Prophetologie mit etwa vierzig Stühlen und einem
 {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=257) %}„Letzten in der Linie der Propheten“{% end %}
@@ -1077,7 +1098,7 @@ Vier Einwände stehen seit dem ersten Abschnitt hinten im Raum, und jeder
 verdient seine Antwort vor aller Augen.
 
 **Zirkularität.** *Das Instrument ist an dem Kanon kalibriert, dem es dient;
-die sechs kanonischen Traditionen sind kanonisch, weil der Kanon sie nennt;
+die kanonischen Traditionen sind kanonisch, weil der Kanon sie nennt;
 der Ertragstest bestimmt „Signal“ als Ähnlichkeit mit der eigenen Kosmologie
 des Kanons. Das Lineal ist an dem geeicht, was es misst.* Alles wahr, und
 der Abschnitt zur Naturgeschichte wurde geschrieben, um diese Wahrheit ins
@@ -1103,7 +1124,7 @@ erreicht hat.
 **Unfalsifizierbarkeit.** *Ein Rahmen, der jede Tradition irgendwo einordnen
 kann, hat nichts erklärt.* Doch die Stufen sind kein Regenbogen des
 Entgegenkommens; sie sind eine Skala mit einem Boden, und der Boden ist
-besetzt. Das Instrument liefert negative Urteile, nennt die Belege und gibt
+besetzt. Das Instrument liefert negative Einstufungen, nennt die Belege und gibt
 an, was sie umstoßen würde — ein OT-III-Manuskript, das Hubbards
 Pulp-Karriere nachweislich vorausginge, würde die Akte Scientology sprengen,
 und das Korpus schuldete die Revision. Solche Schulden hat es gegen das
@@ -1114,22 +1135,25 @@ durchgeführt und veröffentlicht. Rahmen, die gegen Falsifikation allergisch
 sind, finanzieren keine forensische Arbeit an ihren eigenen
 Gründungsbüchern.
 
-**Die mormonische Augenbraue.** *Das Mormonentum steht bei „kanonisch“,
-während der Bahá'í-Glaube — ältere Ansprüche auf dieselbe Struktur
+**Die mormonische Augenbraue.** *Joseph Smith wird unter den Gesandten
+genannt, während der Bahá'í-Glaube — ältere Ansprüche auf dieselbe Struktur
 fortschreitender Offenbarung, eine weit besser dokumentierte Geschichte der
-Verfolgung, keine Augenbrauen hebenden Verstrickungen der Zeugen — eine Stufe
-darunter steht: Schreibt der Katalog nicht einfach das Inhaltsverzeichnis des
-Kanons ab?* Ja. Genau das *ist* die geschlossene Stufe, und die redliche
-Architektur besteht darin, es zu sagen, statt nachträglich forensische
-Rechtfertigungen für eine durch Festsetzung bestimmte Zugehörigkeit
-einzubauen. Die Integrität des Instruments liegt in den offenen Stufen, und
+Verfolgung, keine Augenbrauen hebenden Verstrickungen der Zeugen — ungenannt
+bleibt: Schreibt der Katalog nicht einfach das Inhaltsverzeichnis des
+Kanons ab?* An der Spitze ja. Die kanonische Bezeichnung *ist* die eigene
+Nennung des Kanons, und die redliche Architektur besteht darin, es zu sagen,
+statt nachträglich forensische Rechtfertigungen dafür einzubauen. Darum trägt
+auch das Mormonentum die Bezeichnung nicht: Smiths Name steht in Raëls
+Kommentar (LWTE 3:27), nicht unter den Gästen und Vorgängern der diktierten
+Botschaft, und das Korpus macht aus dem Kommentar weder eine Einstufung, noch
+fällt es ein Authentizitätsurteil über die Gründung der HLT-Kirche. Die Integrität des Instruments liegt in den offenen Stufen, und
 der Bahá'í-Eintrag ist sein Schaustück, in beide Richtungen: Die Tests
 bewerten das Bahá'í-Depot großzügig — Textur für Test 1 in den Erzählungen
 vom Síyáh-Chál und vom Riḍván, ein Ertrag aus fortlaufender Offenbarung und
 einem Programm der Welteinheit, eine Überlieferung durch ein ungewöhnlich gut
 erhaltenes Autorenkorpus, Nachweisbarkeit durch die diplomatischen Archive
-seiner Verfolger —, und nichts als die geschlossene Tür hält es aus der
-obersten Stufe heraus. Ein Kritiker, der diese Tür willkürlich findet, hat
+seiner Verfolger —, und nichts als das Schweigen des Kanons hält es aus der
+obersten Stufe heraus. Ein Kritiker, der diese Linie willkürlich findet, hat
 den Rahmen richtig verstanden: Es ist der Rahmen einer Religion, mit einem
 geoffenbarten Element, das kein Instrument erzeugt. Die Wette des Rahmens
 lautet, dass es wissenschaftlicher ist, die Festsetzung offen zu benennen —
@@ -1174,7 +1198,7 @@ Die Liste wird nie fertig sein. In den Anden und in der Steppe starben
 Traditionen ohne Schrift, deren Stühle keine Methode bestimmen kann; die
 redliche Ausgabe des Instruments für sie ist Schweigen, nicht Abschluss. Was
 fertig werden kann — was mit diesem Artikel im Wesentlichen zu Protokoll
-gegeben ist —, ist die Methode: jedes Urteil aus genannten Tests begründet,
+gegeben ist —, ist die Methode: jede Einstufung aus genannten Tests begründet,
 jeder Test auf eine Disziplin mit eigener Literatur zurückführbar, jede
 Prämisse gekennzeichnet, jeder negative Befund falsifizierbar, jede Prüfung
 durchgeführt, auch wenn sie den Prüfer trifft. Fünfzig Jahre Forschung zu
@@ -1182,12 +1206,13 @@ neuen religiösen Bewegungen haben mit echter Verwunderung gefragt, was für
 eine Religion darauf besteht, zugleich eine Wissenschaft zu sein. Hier ist
 eine operative Antwort: die Art, die auf die Frage, *welche Religionen echt
 sind*, weder mit einem Dogma noch mit einem Achselzucken antwortet — und
-stattdessen ihr Instrument veröffentlicht.
+stattdessen das Instrument veröffentlicht, mit dem sie sie vergleicht, als ihr
+eigenes gekennzeichnet.
 
 ## Weiterführende Literatur
 
 - Die {% wiki(slug="list-of-prophets-and-religions") %}Liste der Propheten
-  und Religionen{% end %}, der Referenzkatalog, dessen fünfstufige Skala und
+  und Religionen{% end %}, der Referenzkatalog, dessen fünfstufige Vergleichsskala und
   Kriterien dieser Artikel formalisiert — einschließlich der vollständigen
   Tabellen, die dieser Artikel bewusst nicht wiederholt.
 - Die Einträge {% wiki(slug="prophet") %}Prophet{% end %} und
@@ -1216,4 +1241,4 @@ stattdessen ihr Instrument veröffentlicht.
   Planeten*](/library/extraterrestrials-took-me-to-their-planet/) und
   [*Das Buch, das die Wahrheit
   sagt*](/library/the-book-which-tells-the-truth/), für das Mahl der Vierzig
-  und die Nennung der bestätigten Traditionen in den Primärerzählungen.
+  und die Nennung der Gesandten in den Primärerzählungen.

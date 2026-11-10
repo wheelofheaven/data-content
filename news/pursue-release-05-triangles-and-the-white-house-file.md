@@ -11,8 +11,8 @@ claim_type = "inferred"
 core_claim_ids = ["woh-claim-0057"]
 core_versions = { woh-claim-0057 = "0.1.0" }
 editorial_pass = "2026-05"
-summary = "Four weeks after Release 04, the U.S. Department of War posted Release 05 at war.gov/UFO: 41 files — documents, images, and videos, by press tally — from the Pentagon, FBI, and CIA, joined for the first time by the State Department and the Executive Office of the President. The headline cases: a 2024 FBI interview in which a former military pilot recalls an equilateral triangle, silent and an estimated 500 feet across, blacking out the stars over Bagram, Afghanistan in 2002; a 2021 Gulf of Oman gunship encounter with some 25 “cold orbs” that appeared to react to the aircraft firing its main cannon; and a November 1963 file cluster in which a sensational Brazilian radio report of a crashed sphere with a dead crewman travels from a CIA monitoring transcript through a White House space-council inquiry to a State Department verdict: fabricated. The corpus reads Release 05 as the fifth datable point on the disclosure curve the Age of Aquarius §IX predicts for the 2026–2030 window — and registers the Bahia file, which dissolves under its own documents, at full documentary strength."
-filed_under = "Signs of Acceleration"
+summary = "Four weeks after Release 04, the U.S. Department of War posted Release 05 at war.gov/UFO: 41 files — documents, images, and videos, by press tally — from the Pentagon, FBI, and CIA, joined for the first time by the State Department and the Executive Office of the President. The headline cases: a 2024 FBI interview in which a former military pilot recalls an equilateral triangle, silent and an estimated 500 feet across, blacking out the stars over Bagram, Afghanistan in 2002; a 2021 Gulf of Oman gunship encounter with some 25 “cold orbs” that appeared to react to the aircraft firing its main cannon; and a November 1963 file cluster in which a sensational Brazilian radio report of a crashed sphere with a dead crewman travels from a CIA monitoring transcript through a White House space-council inquiry to a State Department verdict: fabricated. The corpus registers Release 05 as context for reading the canon, not as a sign of the return — and registers the Bahia file, which dissolves under its own documents, at full documentary strength."
+filed_under = "The Context of the Present"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Age of Aquarius", path = "/timeline/age-of-aquarius/" },
@@ -35,7 +35,7 @@ sources = [
 ]
 +++
 
-*Filed under: Signs of Acceleration. Cross-reference: [Age of Aquarius](/timeline/age-of-aquarius/), §IX. Previous dispatches: [PURSUE Release 01](/news/pursue-release-01-uap-files/), [PURSUE Release 02](/news/pursue-release-02-spheres-and-transmedium/), [PURSUE Release 03](/news/pursue-release-03-multi-agency-and-international/), [PURSUE Release 04](/news/pursue-release-04-the-nuclear-nexus/).*
+*Filed under: The Context of the Present. Cross-reference: [Age of Aquarius](/timeline/age-of-aquarius/), §IX. Previous dispatches: [PURSUE Release 01](/news/pursue-release-01-uap-files/), [PURSUE Release 02](/news/pursue-release-02-spheres-and-transmedium/), [PURSUE Release 03](/news/pursue-release-03-multi-agency-and-international/), [PURSUE Release 04](/news/pursue-release-04-the-nuclear-nexus/).*
 
 ## What was released
 
@@ -77,11 +77,11 @@ Three cautions attach to the headline material. First, the Bagram triangle is a 
 
 ## Where this sits in the Wheel of Heaven framework
 
-The [Age of Aquarius](/timeline/age-of-aquarius/) chapter treats the sequence of official UAP engagements as the first of the age's Signs of Acceleration (§IX). The first four dispatches read Releases 01–04 as the first four datable points on the disclosure curve the corpus places in the 2026–2030 window. Release 05 is the fifth — and the point at which the disclosure infrastructure's institutional perimeter reaches the two bodies the corpus's own contact model cares most about.
+The [Age of Aquarius](/timeline/age-of-aquarius/) chapter lists the sequence of official UAP engagements among the changes that make up the context of the present (§IX), and treats them as context, not signs. Release 05 belongs to that context — and it is the point at which the release program's institutional perimeter reaches the two bodies the canon's model of contact would involve.
 
 **Wheel of Heaven interpretation, marked as such.** The corpus's reading of the present age anticipates contact of a specific kind: official, government-level, and conditional — a diplomatic event, for which the source material's standing request is the construction of an embassy. On that reading, the arrival of the **State Department** and the **Executive Office of the President** in the UAP file record is legible: the institutions through which any official contact would necessarily run are now on record as having handled the question — and as having handled it, in the Bahia file, as early as November 1963, at the level of a White House space-council staffer penciling an inquiry to the State Department. The corpus notes, without assigning it weight, that the November 13 note's own vocabulary asks whether "the Embassy follows with any info" — the embassy in question being the United States Embassy in Rio de Janeiro.
 
-The registration stops there, because the corpus's [reception posture](/wiki/ufology/) requires it to. {% claim(type="inferred", id="woh-claim-0057") %}Under that posture — registration without enlistment — no unresolved case in this or any PURSUE release is evidence for the framework, and no debunked case is evidence against it.{% end %} The framework's anticipated contact is specific and official; its provenance rests on the source material's own reports, and no craft in any sky bears on it in either direction. The one UAP-complex development the posture does not firewall is an official, verified disclosure event. PURSUE is not that. It is an archive opening on a schedule, and the corpus tracks it as a sign of institutional acceleration — a datable change in how the question is handled, which is exactly what §IX predicts the present decades will produce.
+The registration stops there, because the corpus's [reception posture](/wiki/ufology/) requires it to. {% claim(type="inferred", id="woh-claim-0057") %}Under that posture — registration without enlistment — no unresolved case in this or any PURSUE release is evidence for the framework, and no debunked case is evidence against it.{% end %} The framework's anticipated contact is specific and official; its provenance rests on the source material's own reports, and no craft in any sky bears on it in either direction. The one UAP-complex development the posture does not firewall is an official, verified disclosure event. PURSUE is not that. It is an archive opening on a schedule, and the corpus tracks it as exactly that — a change in how the question is handled, which §IX records as context and not as a sign.
 
 The Bahia chain deserves its own register. A sensational broadcast — crashed sphere, dead crewman, indecipherable inscriptions — moves through a CIA monitoring service to the White House's space council to an embassy science attaché, and dies inside twelve days: "apparently fabricated in Rio." This is the [skeptical layer](/wiki/military-cover-up-of-exobiology/) of the record working in public view, and the corpus carries it at full documentary strength. A program that releases its negatives alongside its unknowns is behaving like an archive rather than a press office, and the corpus registers that in the program's favor — while noting that it is precisely what the posture's own discipline looks like when a government applies it: the event reported, the verification run, the result published, no enlistment either way.
 
@@ -89,7 +89,7 @@ The Bahia chain deserves its own register. A sensational broadcast — crashed s
 
 **Wheel of Heaven interpretation, marked as such.** Five releases on a settled monthly cadence, with a contributing roster that now spans the Department of War, NASA, the CIA, the FBI, the Department of Energy, the Department of State, and the Executive Office of the President, describe a program still broadening. Each tranche has added an institutional layer the previous ones lacked: sensor data, then civilian agencies, then the nuclear complex, now diplomacy and the presidency's own files. What has not appeared, five releases in, is any material touching the deeper claims of the 2023 congressional testimony — craft retrievals, biological remains, reverse-engineering programs. The program remains an archive of unknowns and negatives, not of conclusions.
 
-**Open question.** Whether the cadence and the broadening continue is the durability test the framework actually cares about. Parnell's statement says the next release is actively in work. The corpus will track Release 06 when it appears.
+**Open question.** Whether the cadence and the broadening continue is the program's real durability test. Parnell's statement says the next release is actively in work. The corpus will track Release 06 when it appears.
 
 ## Chronology
 
@@ -130,7 +130,7 @@ The Bahia chain deserves its own register. A sensational broadcast — crashed s
 
 5. **The Elder briefing notes are undated in the visible material.** The release's index catalogues the Puerto Rico series to 1965; the notes themselves specify only November dates. The corpus follows the index and marks the uncertainty.
 
-6. **The cadence is now five instances.** A monthly rhythm across four months is the firmest pattern the program has shown, and still short of the multi-year durability the framework treats as the load-bearing test. The next data point is Release 06.
+6. **The cadence is now five instances.** A monthly rhythm across four months is the firmest pattern the program has shown, and still short of the multi-year durability that is the program's load-bearing test. The next data point is Release 06.
 
 ---
 

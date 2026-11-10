@@ -22,7 +22,7 @@ references = [
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition collecting all three messages; the parable of the sower read as multiple creations, the cosmic competition of humanities, and the inheritance" },
 
     # — The framework as the project has articulated it —
-    { title = "Cosmic Competition — Wheel of Heaven wiki (the multiple-humanities framework: Earth as one of several humanities evaluated for the inheritance; the non-adversarial reading)", author = "Wheel of Heaven", date = "2026" },
+    { title = "Cosmic Competition — Wheel of Heaven wiki (the multiple-humanities framework: Earth as one of several humanities evaluated for the inheritance)", author = "Wheel of Heaven", date = "2026" },
     { title = "Saṃsāra — Wheel of Heaven wiki (the civilizational rereading of the cycle: rise to scientific capacity, then escape or fall back to the primitive state)", author = "Wheel of Heaven", date = "2026" },
     { title = "Golden Age — Wheel of Heaven wiki (the operational form of life available if the Aquarian-age threshold is navigated successfully)", author = "Wheel of Heaven", date = "2026" },
     { title = "Cosmic Chain — Wheel of Heaven wiki (the indefinitely extended sequence of created-and-creating civilizations)", author = "Wheel of Heaven", date = "2026" },
@@ -205,7 +205,7 @@ Geoffrey West 以他的整個學術生涯，量度活物如何標度——一隻
 
 ## 延伸閱讀
 
-- [宇宙競爭](/wiki/cosmic-competition/)——多重人類的框架：地球是被創造、並為繼承而受評估的數個人類之一，以及對這場「競爭」的非對抗式解讀。
+- [宇宙競爭](/wiki/cosmic-competition/)——多重人類的框架：地球是被創造、並為繼承而受評估的數個人類之一。
 - [輪迴](/wiki/samsara/)——對這循環的文明式重讀：上升至科學能力，繼而逃入黃金時代，或跌回原始狀態。
 - [黃金時代](/wiki/golden-age/)——倘若人類成功穿越水瓶座時代的門檻，便會變得可及的那種可運作的生命形態。
 - [啟示](/wiki/apocalypse/)——那個揭示的時代，定年於 1945 年：這個有機體的神經系統開啟、與終結自身之力一同到來的那一刻。

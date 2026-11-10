@@ -275,7 +275,7 @@ Genesis 6:1–4 introduces the *benei ha-Elohim* / Nephilim narrative — the "s
 
 The *benei ha-Elohim* are the exiled faction in their reproductive role: members taking human women of the Eden lineage as wives and producing hybrid offspring. The unions are biological, between two species related closely enough for fertile reproduction — the canon has the creators able to have children with the daughters of men (TBWTT-2:55), the humans having been made in their image (TBWTT-2:27). Lucifer's role is not detailed: the framework reads him as faction leader, implicated in the decisions that produced the unions without specifying whether he took part himself. By mid-to-late Cancer the Nephilim population was large and made up a meaningful part of the civilization's leadership.
 
-The Nephilim episode is one of the principal factors the corpus identifies behind the Flood decision.{{ footnote(id="5") }} The accumulating Eloha-human hybrids formed a population the home-world authorities saw as an unacceptable mixing of the alliance with humanity, in both genetic stock and leadership. The corpus reads the Flood as targeting, among other concerns, the Nephilim specifically.
+The Nephilim episode is one of the principal factors the corpus identifies behind the Flood decision.{{ footnote(id="5") }} The canon says that the exiled creators' unions with the daughters of men produced exceptional children, and that "all this was becoming dangerous in the eyes of the distant planet" while scientific progress on Earth was enormous (TBWTT-2:55). The corpus reads the Flood as targeting, among other concerns, the Nephilim specifically.
 
 ### The Flood and post-Flood status
 

@@ -1,12 +1,12 @@
 +++
 title = "The Forty Chairs"
-description = "Some forty guests sat at Yahweh's table in 1975, and the canon never names them all. Formalizing the instrument that decides which traditions were really there."
+description = "Some forty guests sat at Yahweh's table in 1975, and the canon never names them all. Formalizing the corpus's own heuristic for comparing which traditions may have been there."
 template = "articles-page.html"
 date = 2026-11-01
 draft = false
 
 [extra]
-card_summary = "The unnamed guests at Yahweh’s table and a method for assessing which traditions the account may include."
+card_summary = "The unnamed guests at Yahweh’s table and a heuristic scale for comparing the traditions the account may include."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0054"]
 core_versions = { woh-claim-0054 = "0.1.0" }
@@ -15,13 +15,13 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "The Raëlian canon asserts a bounded prophetology — forty-or-so guests at Yahweh's table, 'all beings representative of the religions created following our contacts on the Earth' — and never supplies the guest list. It also warns, in its own voice, against false prophets. Between those two sentences sits a methodological obligation: a corpus that reads world religion through this canon must be able to say, in public and with reasons, which traditions it reads as descending from authentic contact and which it does not. This Explainer formalizes the instrument. It surveys how older canons policed their own borders — Athanasius's list, the hadith graders' chains, the historical-Jesus criteria and their demise, the forensic paradigm that unmasked the Gospel of Jesus's Wife — and distills the corpus's five-tier catalogue into six explicit tests: contact specificity, payload, external traceability, chain of custody, the null hypothesis, and the canon's own diachronic false-prophet test. Between the machinery and its controls it holds the payload up to the light and reads the watermark — the signature the founding strata of the upper-tier traditions share before their institutions bury it: love as the operative ethic, infinity in time and space, respect toward the creators without deification, the refusal of the vacant idol, and a plural sky — and states the sampling rule the decay model forces: grade the earliest recoverable stratum, never the institutional overburden, with the recovery of Islam's founding layer — the qibla surveys, the Believers movement, and the Ḥanīfiyyah, the stratum's own name for itself as the restored religion of Abraham and Ishmael — as the type case of a founding stratum reached by measurement. It then calibrates the instrument on its controls — the six canon-named traditions at one end, Scientology at the other — runs Joseph Smith and L. Ron Hubbard through it side by side as the decisive contrast, carves out the custodial category of legitimate traditions that have no prophet at all, and flags the frontier cases (the Mandaeans, Handsome Lake, Tenrikyō) that the instrument marks for review. The objections — circularity, unfalsifiability, the Mormon eyebrow, and the charge of bad taste — get a section of their own."
+summary = "The Raëlian canon asserts a bounded prophetology — forty-or-so guests at Yahweh's table, 'all beings representative of the religions created following our contacts on the Earth' — and never supplies the guest list. It also warns, in its own voice, against false prophets. Between those two sentences sits a methodological obligation: a corpus that reads world religion through this canon must be able to say, in public and with reasons, how it sorts the traditions it compares against that account. This Explainer formalizes the instrument, a five-tier scale that is the corpus's own heuristic for organising comparison: not a ranking the canon gives (the canon gives no tiers) and not a verdict on any tradition's authenticity. It surveys how older canons policed their own borders — Athanasius's list, the hadith graders' chains, the historical-Jesus criteria and their demise, the forensic paradigm that unmasked the Gospel of Jesus's Wife — and distills the corpus's five-tier catalogue into six explicit tests: contact specificity, payload, external traceability, chain of custody, the null hypothesis, and the canon's own diachronic false-prophet test. Between the machinery and its controls it holds the payload up to the light and reads the watermark — the signature the founding strata of the upper-tier traditions share before their institutions bury it: love as the operative ethic, infinity in time and space, respect toward the creators without deification, the refusal of the vacant idol, and a plural sky — and states the sampling rule the decay model forces: grade the earliest recoverable stratum, never the institutional overburden, with the recovery of Islam's founding layer — the qibla surveys, the Believers movement, and the Ḥanīfiyyah, the stratum's own name for itself as the restored religion of Abraham and Ishmael — as the type case of a founding stratum reached by measurement. It then calibrates the instrument on its controls — the canon-named traditions at one end, Scientology at the other — runs Joseph Smith and L. Ron Hubbard through it side by side as the decisive contrast (Smith, named among the envoys only in Raël's commentary, is left ungraded), carves out the custodial category of legitimate traditions that have no prophet at all, and flags the frontier cases (the Mandaeans, Handsome Lake, Tenrikyō) that the instrument marks for review. The objections — circularity, unfalsifiability, the Mormon eyebrow, and the charge of bad taste — get a section of their own."
 keywords = ["prophets", "forty prophets", "authenticity", "legitimacy of religion", "methodology", "canon formation", "criteria of authenticity", "hadith criticism", "Scientology", "Joseph Smith", "L. Ron Hubbard", "Mandaeans", "Handsome Lake", "Tenrikyō", "Kabbalah", "comparative religion", "Bayesian historiography", "new religious movements", "founding stratum", "routinization of charisma", "Dan Gibson", "qibla", "Believers movement", "aniconism", "idolatry", "Nehushtan", "cosmic pluralism", "plurality of worlds", "Hanafiyya", "millat Ibrahim", "religion of Abraham", "mythemes", "Motif-Index"]
 references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶46: why Vorilhon); Chapter 5 (¶54: the Kabbalah, the bases, Buddhism, Islam, the Mormons — 'it would take pages'; ¶66: the naming of Raël)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2 (¶50: 'My name is Yahweh'; ¶62–65: the meal of the forty and the seating order; ¶105: 'the religion of religions'); Chapter 3 (¶179: the false prophets of the age; ¶257: 'the last of the line of the prophets')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2 (¶85: 'the last prophet, but the first one to address Mankind asking them to understand and not to believe'); Chapter 3 (¶27: Joseph Smith among the prophets); Chapter 4 (¶92: 'thousands of false prophets' among the signs)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2 (¶85: 'the last prophet, but the first one to address Mankind asking them to understand and not to believe'); Chapter 3 (¶27: Raël's commentary naming Joseph Smith among the envoys); Chapter 4 (¶92: 'thousands of false prophets' among the signs)" },
 
     # — Comparative primaries, in the project's library —
     { id = "book-of-mormon", locator = "with the Testimony of Three Witnesses and Testimony of Eight Witnesses, front matter of the 1830 edition — the signed attestation documents run through Test 3" },
@@ -160,9 +160,11 @@ instrument.
 The corpus has, in fact, been building one. The wiki's
 {% wiki(slug="list-of-prophets-and-religions") %}catalogue of prophets
 and religions{% end %} classifies the world's principal traditions on a
-five-tier authenticity scale — canonical, highly likely, likely,
-unlikely, highly unlikely — and states five criteria by which the
-assignments are made. What the catalogue states in the compressed
+five-tier scale — canonical, highly likely, likely, unlikely, highly
+unlikely — and states five criteria by which the assignments are made.
+The scale is the corpus's own device, a heuristic for organising
+comparison: the canon gives no tiers, and no tier is a canon ranking or
+a verdict on a tradition's authenticity. What the catalogue states in the compressed
 register of a reference entry, this article does at full length: where
 the criteria come from, why these five and not others, how the
 instrument is calibrated against known cases at both ends, what it says
@@ -319,8 +321,8 @@ totality of what survives?"
 The corpus's catalogue states five criteria. Formalized, ordered, and
 joined by a sixth that the canon itself supplies, they read as follows.
 Each is a test in the forensic sense: a question put to the evidence,
-with stated failure modes, whose answers accumulate toward a verdict
-without any single answer dictating one.
+with stated failure modes, whose answers accumulate toward a placement on
+the scale without any single answer dictating one.
 
 **Test 1 — Contact specificity.** Does the founding narrative describe
 an *event*, or an atmosphere? The test asks for operational texture:
@@ -410,13 +412,13 @@ tradition, the contact reading competes against the strongest available
 alternative — documented literary sources, altered states of
 consciousness, syncretic assembly, pious fraud, ordinary fraud — and
 the contact reading carries the burden. The null is not an insult; it
-is the default that makes a positive verdict mean something. Test 5 is
+is the default that makes a positive placement mean something. Test 5 is
 where Hume sits, and where the framework's declared prior does its
 work: the question asked is never "could a human have invented this?"
 (a human can invent anything) but "does the invention hypothesis
 actually *predict* this evidence better?" When the founder's own prior
 publications contain the cosmology, the null predicts the deposit
-perfectly and the verdict follows. When an illiterate widow's automatic
+perfectly and the placement follows. When an illiterate widow's automatic
 hand produces decades of internally consistent oracles announcing the
 reconstruction of the world, the null is still available — dissociative
 graphomania is a documented phenomenon — but it predicts the *content*
@@ -442,19 +444,32 @@ canon's insistence on "understand and not believe" reads as it does.
 likely, unlikely, highly unlikely — and the tiers are ordinal on
 purpose. The corpus does not assign numerical scores, for the reason
 the footnote on Bayes states: in historical argument, numbers this soft
-do not add precision, they impersonate it.{{ footnote(id="8") }} Three
-structural rules complete the instrument. First, *the canonical tier is
-closed by the canon itself*: Judaism, Christianity, Islam, Buddhism,
-Mormonism, and Raëlism are canonical because the founding books name
-them —
-{% libref(book="the-book-which-tells-the-truth", chapter=5, verse=54) %}"the Buddhist religion, the Islamic, the Mormons"{% end %},
-the seating order of the meal, Joseph Smith listed among "all the other
-great prophets" at LWTE 3:27 — and the instrument neither elects
-members to that tier nor audits them into it. Its jurisdiction is the
-open tiers, which is exactly the jurisdiction Athanasius's criteria had.
-Second, *the classifications are two-ledger*: an authenticity tier is a
-verdict about a founding narrative, never about the spiritual, ethical,
-or cultural worth of a living tradition or its practitioners — the
+do not add precision, they impersonate it.{{ footnote(id="8") }} The
+scale is the corpus's device, not the canon's. The canon names some
+messengers and gives no tiers; the tiers are a heuristic for organising
+comparison — where the corpus reads closely, and what it sets beside
+what — not a canon ranking and not a verdict that any tradition's
+founding contact did or did not happen. Three structural rules complete
+the instrument. First, *the canonical tier labels the canon's own
+naming; it is not a grade*: Judaism, Christianity, Islam, and Buddhism
+stand there because the dictated message names their founding figures —
+Moses, Elijah, Jesus, Buddha, and Mohammed at the meal (ETTMTTP
+2:62–64); Moses, Ezekiel, Elijah, Jesus, Mohammed, and Buddha as the
+predecessors of
+{% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=257) %}"the last of the line of the prophets"{% end %}
+— and Raëlism stands there as the canon itself. The instrument neither
+elects members to that tier nor audits them into it. Its jurisdiction
+is the open tiers, which is exactly the jurisdiction Athanasius's
+criteria had. Mormonism is not graded canonical. Joseph Smith is named
+among the envoys only in Raël's own commentary in the third book (LWTE
+3:27), and the founding book lists "the Mormons" among the religions
+that allude to the creators "more or less clearly," beside Greek
+mythology and the Buddhist and Islamic religions (TBWTT 5:54); neither
+passage grades anything, and the corpus returns no authenticity verdict
+on the LDS founding. Second, *the classifications are two-ledger*: a
+tier is a working position on a founding narrative, never a judgment of
+the spiritual, ethical, or cultural worth of a living tradition or its
+practitioners — the
 catalogue says this in its own voice and the instrument repeats it,
 because the distinction is the difference between comparative method
 and sectarian scorekeeping. Third, *every assignment is revisable*: the
@@ -463,7 +478,7 @@ evidence — and the frontier section below exists because the instrument
 generates its own docket of cases to revisit.
 
 One more boundary, because it prevents a whole family of confusions:
-the instrument measures authenticity of origin, and origin only. It
+the instrument compares origins, and origins only. It
 does not measure success, size, longevity, or social benefit — the
 Stark model measures those, and by Stark's criteria a tradition can
 flourish magnificently on a fabricated founding or wither on an
@@ -478,7 +493,7 @@ catalogue's upper tiers and a second-order fact emerges: the deliveries
 resemble one another. Beneath the wild variety of idiom — covenant at a
 desert mountain, dharma under a fig tree, recitation in a Meccan cave,
 plates from a New York hillside, six mornings in an Auvergne crater —
-the founding deposits of the traditions the framework grades highest
+the founding deposits the corpus sets side by side
 carry a small, stable set of recurring features. The corpus calls the
 set the watermark, on the analogy the word supplies: a mark worked into
 the paper at manufacture, easy to miss in ordinary reading, disclosed
@@ -516,8 +531,7 @@ them, rediscovering thus the original meaning of prayer.
 tradition can hold a canonical tier while its mature institution is, on
 the canon's own account, a monument standing on top of the thing it was
 built to transmit. The catalogue's open-questions register already
-practices the distinction, holding Smith's founding contact apart from
-the later LDS institution and the Jesus contact apart from the
+practices the distinction, holding the Jesus contact apart from the
 council-era church; the watermark section states the underlying rule:
 the tier belongs to the stratum, never to the overburden.
 
@@ -708,18 +722,18 @@ human custody; the canon says so in its own voice) and by the null
 both hypotheses predict cannot discriminate between them. A corrupt
 church neither convicts nor acquits its founding; only the founding
 convicts or acquits the founding. Third, it sharpens the negative
-verdicts that follow: the decisive finding against a fabricated
+placements that follow: the decisive finding against a fabricated
 tradition is never that its institution decayed — whose has not? — but
 that its founding stratum, drilled to directly, already lacks the
 watermark.
 
 ## The negative control: Scientology on the bench
 
-An instrument is calibrated at both ends. The canonical six anchor the
-positive end by stipulation; the negative end needs a case rich enough
+An instrument is calibrated at both ends. The canon-named traditions
+anchor the positive end by the canon's own naming; the negative end needs a case rich enough
 in documentation to be run through all six tests in public, and the
-catalogue's strongest negative verdict — Scientology, highly unlikely —
-is exactly that case. The verdict deserves better than a sneer, because
+catalogue's lowest placement — Scientology, highly unlikely — is
+exactly that case. The placement deserves better than a sneer, because
 nothing discredits a method faster than treating its conclusions as
 foregone.
 
@@ -751,8 +765,8 @@ been a professional space-opera writer for *Astounding* and its pulp
 kin for over a decade before Dianetics; the whole-track material is
 continuous in idiom, furniture, and narrative reflex with the fiction
 he was paid by the word to produce. Where the Book of Mormon's
-cosmological content exceeds what an upstate farmhand's shelf can
-easily explain, OT III's content is
+cosmological content is hard to trace to an upstate farmhand's shelf,
+OT III's content is
 *predicted* by its author's shelf, item for item. On Test 2 the
 tradition does not score low; it scores negative, because the deposit
 is affirmative evidence for the null.
@@ -781,7 +795,7 @@ of a science-fiction professional. A perfect chain of custody is a
 perfect delivery system for whatever stands at its head. Scientology's
 custody chain convicts its payload, which is the instrument working
 exactly as designed: the tests are conjunctive in force, and no single
-test — not even a perfect score on one — carries a verdict alone.
+test — not even a perfect score on one — carries a placement alone.
 
 *Test 5 — the null hypothesis.* The null here is not merely available;
 it is the best-evidenced explanation of any founding in the modern
@@ -803,12 +817,12 @@ years of preparation — mystification as a business model, the precise
 structural inversion of a message that asks to be understood rather
 than believed.
 
-Verdict: highly unlikely, on six tests out of six, several of them
+Placement: highly unlikely, on six tests out of six, several of them
 returning affirmative evidence for fabrication rather than mere absence
 of evidence for contact. And one clarification the two-ledger rule
 requires: none of this is a finding about Scientologists, many of whom
 report real benefit from practices whose founding narrative they may
-never have been shown. The verdict is about a founding narrative,
+never have been shown. The placement is about a founding narrative,
 reached by tests stated in advance — and the same tests, run on
 Thelema, return the altered-state null (a founding "reception" fully
 continuous with its receiver's documented ritual practice and literary
@@ -833,7 +847,8 @@ movements that professionalized young, fought their governments, buried
 their founders as prophets, and built world institutions. The folk
 verdict — *cults, both* — and the lazy ecumenical verdict — *religions,
 both, who's to say* — agree in refusing to distinguish them. The
-instrument distinguishes them on every test.
+instrument separates their evidential profiles on every test, which is
+not the same as authenticating either.
 
 Where Hubbard's founding document announces a science and back-fills a
 revelation, Smith's announces a revelation from the first sentence, and
@@ -843,8 +858,8 @@ specified hillside; an annual appointment kept four Septembers running
 until the plates were released in 1827 — a *schedule*, the signature of
 the genre the canon's own founding shares, down to the six consecutive
 mornings above Clermont-Ferrand. Where Hubbard's payload is predicted
-by his own bibliography, Smith's payload is the anomaly the framework's
-catalogue flags as its reason for the canonical reading: a tangible,
+by his own bibliography, Smith's payload is the feature the catalogue
+flags as the closest resemblance to the canon's cosmology: a tangible,
 embodied God; exalted humans who become gods in their turn; a Christ
 who has visited "worlds without number"; a named star-region, Kolob,
 associated with the divine administration — plurality-of-worlds
@@ -854,11 +869,13 @@ Fontenelle's *Conversations on the Plurality of Worlds* had been in print
 since 1686, and Thomas Paine turned the idea against Christian redemption
 in *The Age of Reason*. The payload's weight therefore falls on the
 embodied, plural, ascending divinity rather than on the worlds alone,
-and that divinity points with disconcerting directness at the cosmic
-architecture the Raëlian books would describe in 1973. The corpus's
-{% wiki(slug="elohim") %}Elohim{% end %} reading of the LDS deposit is
-developed in the catalogue and its companion entries; what matters here
-is the *shape* of the scoring — content the founder's milieu strains to
+and that divinity resembles, closely, the cosmic architecture the
+Raëlian books would describe in 1973. The corpus records the
+resemblance as resemblance only — not dependence, not identity of
+referents, and not evidence that the LDS founding was a contact; the
+comparison is set out in the
+{% wiki(slug="joseph-smith") %}Joseph Smith{% end %} entry. What matters
+here is the *shape* of the scoring — content the founder's milieu strains to
 supply, in the slot where the tradition itself carries its greatest
 weight.
 
@@ -874,31 +891,35 @@ not apologetics, lays them out without flinching. But *complicated
 attestation* and *falsified attestation* are different findings, and
 Hubbard's file contains the second: where the external record touches
 Smith's story it muddies it, where it touches Hubbard's it breaks it.
-On Test 5, the null hypothesis strains against the Mormon deposit — the
-fraud reading must explain the witnesses' non-recantation, the
-composition speed, and above all the payload's specific gravity — and
-relaxes comfortably around the Scientological one. And on Test 6 the
+On Test 5, the fraud reading has more to explain in the Mormon file —
+the witnesses' non-recantation, the composition speed, the payload's
+specific gravity — than in the Scientological one, around which it
+relaxes comfortably. And on Test 6 the
 two are not even in the same era's jurisdiction: Smith spoke before
-1945, in the religious vocabulary his audience could process, exactly
-as the framework expects of a genuine pre-Apocalypse
-{% wiki(slug="prophet") %}prophet{% end %}; Hubbard spoke after, and
-chose the sealed room.
+1945, in the religious vocabulary his audience could process — the
+register the canon assigns to the
+{% wiki(slug="prophet") %}prophets{% end %} before the Apocalypse;
+Hubbard spoke after, and chose the sealed room.
 
 Jan Shipps spent a career arguing that Mormonism must be studied as a
 genuine *new religious tradition* — the way one studies early
 Christianity's emergence from Judaism, not the way one studies a
-scheme. The instrument arrives at Shipps's respect by forensic means,
-and it arrives at the opposite verdict next door by the same means.
-That double result — the same six tests, run in public, sorting the
-American pair that folk taxonomy cannot split — is the calibration that
-entitles the instrument to an opinion about harder cases.
+scheme. The instrument arrives at Shipps's respect by forensic means —
+a founding file that muddies but does not break where the external
+record touches it — and stops there: it returns no authenticity verdict
+on the LDS founding, and it does not identify the personages of Smith's
+accounts, Moroni among them, with Elohim or their emissaries. Next door
+the same tests place Scientology at the floor of the scale. That double
+result — the same six tests, run in public, sorting the American pair
+that folk taxonomy cannot split — is the calibration that entitles the
+instrument to sort harder cases.
 
 ## The custodians: legitimacy without a prophet
 
 Read quickly, the catalogue suggests every entry is a founder plus a
-verdict, and that reading would miss a category the canon itself forces
+tier, and that reading would miss a category the canon itself forces
 on the instrument. The founding book's fifth chapter, in the same
-breath that names the confirmed traditions, awards its single highest
+breath that names religions alluding to the creators, awards its single highest
 compliment to something that is not a prophet-founded religion at all:
 
 {% library(book="the-book-which-tells-the-truth", chapter=5, verse=54) %}
@@ -1003,18 +1024,19 @@ hand, 1,711 verses, the cleanest Test 4 profile in the entire
 catalogue — already earn the tradition its highly-likely tier. The
 speculative question is sharper: what *would* it take to move a
 tradition upward — and the instrument's honest answer exposes the
-architecture: nothing could move it to canonical, because that tier is
-closed by canon naming, and no accumulation of forensic virtue
-substitutes for a sentence in the founding books. The tiers measure two
-different things at their top and middle, canonical membership by
-stipulation, everything else by evidence — and saying so out loud is
+architecture: nothing could move it to canonical, because that label
+records the canon's own naming of messengers, and no accumulation of
+forensic virtue substitutes for a sentence in the dictated message. The
+scale records two different things at its top and middle, the canon's
+naming at the top, the corpus's comparative positions everywhere else — and saying so out loud is
 the price of honesty the next section pays in full.
 
 **The pre-announced successor.** One frontier case is generated by the
 canon rather than by history's back-catalogue. Two traditions in the
 catalogue's upper tiers maintain a *named, scheduled* future figure —
 Buddhism's Maitreya, Vaishnava Hinduism's Kalki — and the canon's
-second book closes by claiming the Buddhist expectation explicitly:
+second book closes by addressing the Buddhist expectation in its own
+words, without naming a figure:
 {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=228) %}"your writings indicate that the new Buddha must be born in the West; recognize the foreseen signs!"{% end %}
 A prophetology with forty-or-so chairs and a
 {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=257) %}"last of the line of the prophets"{% end %}
@@ -1031,7 +1053,7 @@ Four objections have been standing in the back of the room since the
 first section, and each deserves its answer in full view.
 
 **Circularity.** *The instrument is calibrated on the canon it serves;
-the six canonical traditions are canonical because the canon names
+the canonical traditions are canonical because the canon names
 them; the payload test defines "signal" as resemblance to the canon's
 own cosmology. The ruler is calibrated on the thing it measures.* All
 true, and the natural-history section was written to put the truth in
@@ -1056,7 +1078,7 @@ of any confession has ever achieved.
 **Unfalsifiability.** *A framework that can classify any tradition
 somewhere has explained nothing.* But the tiers are not a rainbow of
 accommodation; they are a scale with a bottom, and the bottom is
-occupied. The instrument returns negative verdicts, states the
+occupied. The instrument returns negative placements, states the
 evidence, and specifies what would overturn them — an OT III
 manuscript materially predating Hubbard's pulp career would blow up
 the Scientology docket, and the corpus would owe the revision. It has
@@ -1066,21 +1088,25 @@ source was performed by this project, on its own scripture, and
 published. Frameworks allergic to falsification do not fund forensic
 work on their own founding books.
 
-**The Mormon eyebrow.** *Mormonism at canonical while Bahá'í — older
-claims to the same progressive-revelation structure, vastly better
-documented persecution record, no eyebrow-raising witness
-entanglements — sits a tier below: is the catalogue not just
-transcribing the canon's table of contents?* Yes. That is what the
-closed tier *is*, and the honest architecture is to say so rather
-than to retrofit forensic justifications for a membership fixed by
-stipulation. The instrument's integrity lives in the open tiers, and
+**The Mormon eyebrow.** *Joseph Smith named among the envoys while
+Bahá'í — older claims to the same progressive-revelation structure,
+vastly better documented persecution record, no eyebrow-raising witness
+entanglements — goes unnamed: is the catalogue not just transcribing
+the canon's table of contents?* At the top, yes. The canonical label
+*is* the canon's own naming, and the honest architecture is to say so
+rather than to retrofit forensic justifications for it. That is also
+why Mormonism does not carry the label: Smith's name stands in Raël's
+commentary (LWTE 3:27), not in the dictated message's guests and
+predecessors, and the corpus neither turns the commentary into a grade
+nor returns an authenticity verdict on the LDS founding. The
+instrument's integrity lives in the open tiers, and
 the Bahá'í entry is its showcase, in both directions: the tests score
 the Bahá'í deposit generously — Test 1 texture in the Síyáh-Chál and
 Riḍván narratives, a payload of serialized revelation and world-unity
 program, custody through an unusually well-preserved authorial corpus,
 traceability through the diplomatic archives of its persecutors — and
-nothing but the closed door holds it out of the top tier. A critic who
-finds that door arbitrary has understood the framework correctly: it
+nothing but the canon's silence holds it out of the top tier. A critic
+who finds that line arbitrary has understood the framework correctly: it
 is a religion's framework, with a revealed element no instrument
 generates. The framework's wager is that owning the stipulation openly
 is more scientific — in the only sense "scientific" can bear in
@@ -1123,20 +1149,21 @@ The list will never be finished. Traditions died scriptless in the
 Andes and the steppe whose chairs no method can identify; the
 instrument's honest output for them is silence, not closure. What can
 be finished — what is, with this article, substantially on the record —
-is the method: every verdict argued from stated tests, every test
+is the method: every placement argued from stated tests, every test
 traceable to a discipline with a literature, every premise labeled,
 every negative finding falsifiable, every audit run even when it cuts
 the auditor. Fifty years of scholarship on new religious movements has
 asked, with genuine puzzlement, what kind of religion insists it is
 also a science. Here is one operational answer: the kind that, asked
 *which religions are real*, declines to answer with either a dogma or a
-shrug — and publishes its instrument instead.
+shrug — and publishes instead the instrument by which it compares them,
+labelled as its own.
 
 ## Further reading
 
 - The {% wiki(slug="list-of-prophets-and-religions") %}list of prophets
-  and religions{% end %}, the reference catalogue whose five-tier scale
-  and criteria this article formalizes — including the full tables this
+  and religions{% end %}, the reference catalogue whose five-tier comparative
+  scale and criteria this article formalizes — including the full tables this
   article deliberately does not duplicate.
 - The {% wiki(slug="prophet") %}prophet{% end %} and
   {% wiki(slug="forerunners") %}forerunners{% end %} entries, for the
@@ -1164,5 +1191,5 @@ shrug — and publishes its instrument instead.
   Planet*](/library/extraterrestrials-took-me-to-their-planet/) and
   [*The Book Which Tells the
   Truth*](/library/the-book-which-tells-the-truth/), for the meal of
-  the forty and the naming of the confirmed traditions in the primary
+  the forty and the naming of the messengers in the primary
   narratives.

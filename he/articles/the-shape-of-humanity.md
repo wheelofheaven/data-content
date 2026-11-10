@@ -22,7 +22,7 @@ references = [
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition collecting all three messages; the parable of the sower read as multiple creations, the cosmic competition of humanities, and the inheritance" },
 
     # — The framework as the project has articulated it —
-    { title = "Cosmic Competition — Wheel of Heaven wiki (the multiple-humanities framework: Earth as one of several humanities evaluated for the inheritance; the non-adversarial reading)", author = "Wheel of Heaven", date = "2026" },
+    { title = "Cosmic Competition — Wheel of Heaven wiki (the multiple-humanities framework: Earth as one of several humanities evaluated for the inheritance)", author = "Wheel of Heaven", date = "2026" },
     { title = "Saṃsāra — Wheel of Heaven wiki (the civilizational rereading of the cycle: rise to scientific capacity, then escape or fall back to the primitive state)", author = "Wheel of Heaven", date = "2026" },
     { title = "Golden Age — Wheel of Heaven wiki (the operational form of life available if the Aquarian-age threshold is navigated successfully)", author = "Wheel of Heaven", date = "2026" },
     { title = "Cosmic Chain — Wheel of Heaven wiki (the indefinitely extended sequence of created-and-creating civilizations)", author = "Wheel of Heaven", date = "2026" },
@@ -205,8 +205,7 @@ Geoffrey West העביר את הקריירה שלו במדידת האופן שב
 ## לקריאה נוספת
 
 - [התחרות הקוסמית](/wiki/cosmic-competition/) — מסגרת האנושויות המרובות:
-  כדור הארץ כאחת מכמה אנושויות שנוצרו ונשקלות לירושה, והקריאה
-  הבלתי-יריבותית של „התחרות“.
+  כדור הארץ כאחת מכמה אנושויות שנוצרו ונשקלות לירושה.
 - [סמסרה](/wiki/samsara/) — הקריאה מחדש הציוויליזציונית של המחזור: עלייה
   ליכולת מדעית, ואז הימלטות אל תור הזהב או נפילה בחזרה אל השלב הפרימיטיבי.
 - [תור הזהב](/wiki/golden-age/) — צורת החיים המעשית ההופכת לזמינה אם

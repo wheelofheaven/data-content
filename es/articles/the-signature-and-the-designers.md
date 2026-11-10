@@ -8,13 +8,13 @@ draft = false
 [extra]
 claim_type = "speculative"
 editorial_pass = "2026-05"
-core_claim_ids = ["woh-claim-0036", "woh-claim-0030"]
-core_versions = { woh-claim-0036 = "0.1.0", woh-claim-0030 = "0.1.0" }
+core_claim_ids = ["woh-claim-0036", "woh-claim-0030", "woh-claim-0071"]
+core_versions = { woh-claim-0036 = "0.2.0", woh-claim-0030 = "0.1.0", woh-claim-0071 = "0.3.1" }
 article_type = "explainer"
 category = "Science & Technology"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "En el estreno, en 2008, de un documental sobre la persecución de los teóricos del diseño, Richard Dawkins dijo ante la cámara que la vida en la Tierra podría haber sido diseñada por ingeniería por una civilización avanzada de algún otro lugar del cosmos — que uno podría, si mirara, hallar en la célula «la firma de algún tipo de diseñador»— y acto seguido se retractó, porque el diseñador habría tenido que evolucionar. Entre el público lo escuchaba Stephen Meyer, que terminaba entonces un libro titulado *Signature in the Cell*. Este Explicativo se sirve de esa escena para desmontar la jugada más interesante de todo el debate sobre el Diseño Inteligente. Cartografía el espectro completo del pensamiento moderno sobre diseño y creación —el «creacionismo científico» de la Tierra joven y sus documentales, el creacionismo progresivo de la Tierra antigua, el Diseño Inteligente de corte informacional de Behe, Dembski y Meyer, el escepticismo de laboratorio sobre el origen de la vida del químico sintético James Tour, la evolución teísta de Miller y Collins, y el antidiseño rotundo de Dawkins— y halla, con el sociólogo George Chryssides, que el relato raeliano de los orígenes humanos es él mismo una especie de «creacionismo científico», que comparte la intuición del diseño mientras diverge en casi todo lo demás. Examina luego, por extenso, el pasaje de *Return of the God Hypothesis* en el que Meyer considera y descarta la hipótesis de la ingeniería extraterrestre —la opción de la «panspermia» o de la «inteligencia inmanente»— y sostiene que ese descarte, lejos de ser superficial, es un argumento real y cuidadoso que, sin embargo, fracasa frente a este blanco en particular, porque asciende en silencio una hipótesis sobre la biología terrestre a la categoría de teoría del cosmos, y porque su premisa portante —un universo con un comienzo, cuyo ajuste fino hubo de fijarse en ese comienzo— es exactamente la premisa que el canon niega. La hipótesis de los Elohim resulta ser la posición que tanto el archiateo como el architeísta necesitan hacer desaparecer, porque disuelve el binomio Dios-contra-materialismo sobre el que se levanta toda su disputa. La firma es real. La disputa es sobre de quién es la mano."
+summary = "En el estreno, en 2008, de un documental sobre la persecución de los teóricos del diseño, Richard Dawkins dijo ante la cámara que la vida en la Tierra podría haber sido diseñada por ingeniería por una civilización avanzada de algún otro lugar del cosmos — que uno podría, si mirara, hallar en la célula «la firma de algún tipo de diseñador»— y acto seguido se retractó, porque el diseñador habría tenido que evolucionar. Entre el público lo escuchaba Stephen Meyer, que terminaba entonces un libro titulado *Signature in the Cell*. Este Explicativo se sirve de esa escena para desmontar la jugada más interesante de todo el debate sobre el Diseño Inteligente. Cartografía el espectro completo del pensamiento moderno sobre diseño y creación —el «creacionismo científico» de la Tierra joven y sus documentales, el creacionismo progresivo de la Tierra antigua, el Diseño Inteligente de corte informacional de Behe, Dembski y Meyer, el escepticismo de laboratorio sobre el origen de la vida del químico sintético James Tour, la evolución teísta de Miller y Collins, y el antidiseño rotundo de Dawkins— y halla, con el sociólogo George Chryssides, que el relato raeliano de los orígenes humanos es él mismo una especie de «creacionismo científico», que comparte la intuición del diseño mientras diverge en casi todo lo demás. Examina luego, por extenso, el pasaje de *Return of the God Hypothesis* en el que Meyer considera y descarta la hipótesis de la ingeniería extraterrestre —la opción de la «panspermia» o de la «inteligencia inmanente»— y sostiene que ese descarte, lejos de ser superficial, es un argumento real y cuidadoso que, sin embargo, fracasa frente a este blanco en particular, porque asciende en silencio una hipótesis sobre la biología terrestre a la categoría de teoría del cosmos, y porque su premisa portante —un universo con un comienzo, cuyo ajuste fino hubo de fijarse en ese comienzo— es exactamente la premisa que el canon niega. La hipótesis de los Elohim resulta ser la posición que tanto el archiateo como el architeísta necesitan hacer desaparecer, porque disuelve el binomio Dios-contra-materialismo sobre el que se levanta toda su disputa. Según el relato del canon, la firma es real: la vida fue diseñada. La biología dominante no acepta que se haya detectado diseño; los científicos que han sostenido que la vida pudo haber sido sembrada deliberadamente (Crick y Orgel) o que su origen no dirigido es improbable (Hoyle y Wickramasinghe) siguen siendo una minoría. La disputa es sobre de quién es la mano."
 keywords = ["Diseño Inteligente", "creacionismo científico", "Stephen Meyer", "David Berlinski", "James Tour", "Michael Behe", "William Dembski", "panspermia dirigida", "Return of the God Hypothesis", "Is Genesis History", "complejidad irreducible", "complejidad especificada", "origen de la vida", "Elohim", "Raelismo", "George Chryssides", "ajuste fino"]
 references = [
     # — The canon under comparison —
@@ -46,7 +46,8 @@ references = [
 
     # — The scientific cognate: directed panspermia and the recovery of the capability —
     { id = "crick-orgel-directed-panspermia", locator = "Icarus 19: 341–346 — the 1973 proposal that life on Earth was deliberately seeded by an extraterrestrial intelligence; the molybdenum argument; the universality of the genetic code" },
-    { title = "Life Itself: Its Origin and Nature (the book-length development of directed panspermia; the closing chapter, 'Should We Infect the Galaxy?')", author = "Francis Crick", date = "1981" },
+    { id = "crick-life-itself", locator = "the book-length development of directed panspermia; the difficulty of an unguided terrestrial origin on the evidence of the time; the closing chapter, 'Should We Infect the Galaxy?'" },
+    { id = "hoyle-wickramasinghe-lifecloud", locator = "the origin of life in interstellar clouds and its delivery to Earth by comets; the improbability of an unguided origin on the early Earth, argued together with panspermia" },
     { id = "design-and-synthesis-of-a-minimal-bacterial-genome", locator = "Science 351:aad6253 — JCVI-syn3.0, the minimal synthetic bacterial genome; the contemporary recovery, at the bench, of the capability the canon attributes to the Elohim" },
 
     # — The design-argument tradition and its critique —
@@ -129,8 +130,12 @@ ocupa, sin disculparse, desde 1974: que la vida en la Tierra fue obra de la
 ingeniería de un pueblo avanzado pero enteramente físico, los
 {% wiki(slug="elohim") %}Elohim{% end %}, que fueron a su vez obra de la
 ingeniería de un pueblo anterior, en una cadena sin primer eslabón y sin ningún
-Dios en la cúspide. La firma es real. Toda la disputa es sobre qué mano la
-dejó.
+Dios en la cúspide. Según el relato del canon, la firma es real: la vida fue
+diseñada. Una minoría de científicos ha sostenido que la vida pudo haber sido
+sembrada deliberadamente (Francis Crick y Leslie Orgel) o que su origen no
+dirigido es improbable (Fred Hoyle y Chandra Wickramasinghe); la biología
+dominante no acepta que se haya detectado diseño. Toda la disputa es sobre qué
+mano la dejó.
 
 ## Una familia de disidencias
 
@@ -225,13 +230,15 @@ hombres de la sala en 2008 y a la posición que queda entre sus retrocesos.
 
 ## La firma
 
-Empecemos por la parte que el marco concede, porque es mayor de lo que
-esperaría un lector distraído de una «religión ovni». La lectura de Wheel of
-Heaven sostiene que la afirmación central del Diseño Inteligente —que la
-complejidad funcional de los sistemas vivos se explica mejor por una acción
-inteligente deliberada que por procesos no dirigidos— es *sustancialmente
-correcta*. La entrada {% wiki(slug="intelligent-design") %}Diseño
-Inteligente{% end %} lo dice con todas las letras. El desacuerdo, cuando
+Empecemos por la parte que el marco comparte, porque es mayor de lo que
+esperaría un lector distraído de una «religión ovni». Lo que el Diseño
+Inteligente sostiene como su conclusión, el canon lo sostiene como su premisa:
+que los sistemas vivos fueron hechos por una acción inteligente deliberada y no
+por procesos no dirigidos. El canon no lo sostiene sobre las pruebas del
+movimiento, y no afirma que la biología lo haya confirmado; la biología
+dominante no acepta que se haya detectado diseño. La entrada
+{% wiki(slug="intelligent-design") %}Diseño Inteligente{% end %} expone la
+coincidencia y la diferencia. El desacuerdo, cuando
 llegue, no será sobre si la vida está diseñada. Será sobre quiénes son los
 diseñadores, y qué hay por encima de ellos, y si el argumento puede soportar el
 peso teológico que sus adalides quieren cargarle. Vale la pena, pues, exponer
@@ -322,7 +329,7 @@ admisión, no un argumento, y las admisiones de dentro del gremio valen más que
 los argumentos de fuera.
 
 Ese problema duro, limpio y sin diseñador es donde el canon volverá a entrar.
-Pero primero, lo que ha quedado establecido. La forma más fuerte del caso del
+Pero primero, aquello sobre lo que descansa en realidad el caso del diseño. La forma más fuerte del caso del
 diseño no es la geología del Diluvio del creacionista de la Tierra joven y ni
 siquiera es el discutido flagelo de Behe. Es la conjunción de dos cosas que una
 mente ecuánime puede conceder: que los sistemas vivos funcionan con información
@@ -712,10 +719,12 @@ Sería deshonesto dejar que la divergencia se tragase la convergencia, de modo
 que el solapamiento merece una contabilidad precisa — cuánto del caso del
 diseño conserva el marco una vez restada la teología.
 
-Conserva el argumento de la información. La afirmación de Meyer de que la
-información especificada procede solo de mentes es una que el marco lee como
-sustancialmente correcta — con la diferencia de que la mente en cuestión está
-encarnada, ha evolucionado y en principio puede ser encontrada. Conserva el
+Conserva la conclusión del argumento de la información. La afirmación de Meyer
+de que la información especificada procede solo de mentes llega a donde parte
+el canon, a que la vida fue hecha por mentes — con la diferencia de que la mente
+en cuestión está encarnada, ha evolucionado y en principio puede ser encontrada.
+El marco no adopta la inferencia como una demostración: la biología dominante
+la rechaza, y la premisa del canon no descansa en ella. Conserva el
 problema duro de Tour, y lo conserva *más* limpiamente que el movimiento. Tour
 excluye «un agente de diseño (personal o impersonal)» porque un diseñador no es
 una herramienta química. El canon aporta el diseñador que Tour excluye — y es
@@ -731,9 +740,25 @@ panspermia dirigida{{ footnote(id="7") }} —dos de los mayores biólogos
 moleculares del siglo XX proponiendo, en una revista con revisión por pares, en
 1973, que la vida en la Tierra fue sembrada deliberadamente por una
 inteligencia extraterrestre— estableció que el *tipo* de afirmación del canon
-es decible en biología seria. *Life Itself*, de Crick, se cerraba con un
-capítulo que preguntaba si la humanidad debería algún día sembrar otros mundos.
-Y en los años transcurridos desde entonces, la humanidad ha recorrido casi todo
+es decible en biología seria. *Life Itself*, de Crick
+(1981), desarrolló el caso con la extensión de un libro, sosteniendo que, con
+las pruebas de la época, un origen no dirigido de la vida en la Tierra primitiva
+parecía casi milagroso, y se cerraba con un capítulo que preguntaba si la
+humanidad debería algún día sembrar otros mundos. El astrónomo Fred Hoyle y su
+colaborador Chandra Wickramasinghe sostuvieron en *Lifecloud* (1978) que la
+vida no comenzó en la Tierra sino en nubes interestelares y llegó en cometas, y
+en esa obra y en los libros que la siguieron insistieron en la improbabilidad
+de un origen terrestre no dirigido. Estos científicos sostuvieron que la vida
+pudo haber sido sembrada deliberadamente, o que su origen no dirigido es
+matemáticamente improbable. Fueron, y siguen siendo, una minoría, y las réplicas constan. La
+panspermia dirigida traslada el origen de la vida en lugar de explicarlo, y la
+universalidad del código genético es lo esperable de cualquier ascendencia
+común única, sembrada o no. A las cifras de improbabilidad se les reprochó
+tratar una proteína o una célula moderna como si se ensamblara en un solo paso
+aleatorio, en lugar de mediante una química acumulativa que la selección y la
+autoorganización podrían modelar. La biología dominante no acepta que se haya
+detectado diseño. El canon no toma prestada su premisa de estos científicos;
+señala que científicos serios han buscado el mismo tipo de respuesta. Y en los años transcurridos desde entonces, la humanidad ha recorrido casi todo
 el camino hasta la puerta. En 2010 el instituto de Craig Venter arrancó una
 célula bacteriana que corría un genoma sintetizado químicamente; en 2016
 publicaron un genoma mínimo *diseñado*, un organismo vivo cuyo plano de 473
@@ -848,7 +873,12 @@ Los creacionistas de la Tierra joven están de acuerdo con ella, y los de la
 Tierra antigua, y Behe y Dembski y Tour a su cuidadosa manera entre paréntesis,
 y —leyendo el Génesis como informe y no como fábula— también el canon raeliano.
 La firma es el terreno común de toda la familia de disidencias, del geólogo del
-Diluvio al contactado. Lo que divide a la familia es la segunda mitad —*de
+Diluvio al contactado. No es el terreno común de la biología. La biología
+dominante no acepta que se haya detectado una firma, y los científicos que han
+sostenido que la vida pudo haber sido sembrada (Crick y Orgel) o que su origen
+no dirigido es improbable (Hoyle y Wickramasinghe) siguen siendo una minoría, a
+la que se ha respondido en los propios términos de la biología. El canon
+sostiene su premisa por su propia autoridad: la vida fue diseñada. Lo que divide a la familia es la segunda mitad —*de
 quién* es la firma— y ahí las opciones son menos de las que sugiere el ruido. O
 bien la mano en la célula pertenece a una mente fuera del universo, a la que
 ningún instrumento podrá llegar jamás; o bien no hay mano y su apariencia es el

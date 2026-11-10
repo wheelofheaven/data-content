@@ -44,7 +44,7 @@ note = "Vorilhon's second Raëlian volume (1976), recording the October 7, 1975 
 
 [[extra.references]]
 id = "lets-welcome-the-extraterrestrials"
-note = "Vorilhon's third Raëlian volume (1979), publishing the biological-parentage disclosure withheld three years and preserving the March 14, 1978 telepathic message on parallel humanities."
+note = "Vorilhon's third Raëlian volume (1979), publishing the biological-parentage disclosure withheld three years."
 
 [[extra.references]]
 id = "intelligent-design-message-from-the-designers"
@@ -227,8 +227,6 @@ Several subsequent contacts and telepathic messages are preserved in the source 
 
 **The October 7, 1976 message**. Approximately fifty Raëlians were present at La Negrerie near Roc Plat for the first anniversary of the October 7, 1975 contact. A subsequent telepathic message and broader gathering occurred at this anniversary event.
 
-**The March 14, 1978 telepathic message**. The principal subsequent telepathic message regarding the parallel humanities (treated more fully in the [Cosmic Competition](../cosmic-competition/) entry). The message established Earth's specific cooperative role with respect to the parallel humanities.{{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="Vorilhon (Raël), *Let's Welcome the Extraterrestrials* (1979) — preserves the March 14, 1978 telepathic message on parallel humanities") }}
-
 **The December 13, 1997 telepathic message**. The principal subsequent telepathic message regarding the embassy relocation (treated more fully in the [Embassy](../embassy/) entry). The message authorized the Raëlian movement to seek extraterritorial status for the embassy from "all nations on Earth" rather than only Israel.{{ cite(id="rael-dot-org", text="[5]", title="International Raëlian Movement, rael.org — the December 13, 1997 telepathic message and embassy relocation authorization") }}
 
 ### The published works
@@ -359,7 +357,7 @@ Raël is the specific institutional founder responsible for the embassy project.
 
 ### The Cosmic Competition entry
 
-Raël is the specific recipient of the March 14, 1978 telepathic message regarding the parallel humanities. The detailed treatment of the Cosmic Competition lives in the [Cosmic Competition](../cosmic-competition/) entry; the Raël entry's specific contribution is establishing the figure's specific operational role.
+Raël is the messenger through whom the canon's account of the parallel humanities (TBWTT-4:41ff) reached Earth's humanity. The detailed treatment of the Cosmic Competition lives in the [Cosmic Competition](../cosmic-competition/) entry; the Raël entry's specific contribution is establishing the figure's specific operational role.
 
 ### The Cosmic Chain entry
 

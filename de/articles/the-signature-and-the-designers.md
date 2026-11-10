@@ -9,12 +9,12 @@ draft = false
 claim_type = "speculative"
 editorial_pass = "2026-05"
 core_claim_ids = ["woh-claim-0036", "woh-claim-0030"]
-core_versions = { woh-claim-0036 = "0.1.0", woh-claim-0030 = "0.1.0" }
+core_versions = { woh-claim-0036 = "0.2.0", woh-claim-0030 = "0.1.0" }
 article_type = "explainer"
 category = "Science & Technology"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Bei der Premiere einer Dokumentation über die Verfolgung von Designtheoretikern sagte Richard Dawkins 2008 vor laufender Kamera, das Leben auf der Erde könnte von einer fortgeschrittenen Zivilisation anderswo im Kosmos konstruiert worden sein — man könne, wenn man nachsähe, in der Zelle „eine Signatur irgendeiner Art von Designer“ finden — und nahm es sogleich zurück, denn der Designer selbst hätte sich ja entwickeln müssen. Im Publikum saß Stephen Meyer, der damals ein Buch mit dem Titel *Signature in the Cell* abschloss. Dieser Explainer nimmt jene Szene zum Ausgangspunkt, um den interessantesten Zug der gesamten Intelligent-Design-Debatte zu zerlegen. Er kartiert das volle Spektrum des modernen Design- und Schöpfungsdenkens — den „wissenschaftlichen Kreationismus“ der jungen Erde und seine Dokumentarfilme, den progressiven Kreationismus der alten Erde, das informationstheoretische Intelligente Design von Behe, Dembski und Meyer, die laborgestützte Skepsis des synthetischen Chemikers James Tour gegenüber dem Ursprung des Lebens, die theistische Evolution von Miller und Collins und die glatte Design-Verneinung von Dawkins — und findet, mit dem Soziologen George Chryssides, dass die raëlianische Darstellung der Menschheitsentstehung selbst eine Spielart des „wissenschaftlichen Kreationismus“ ist: Sie teilt die Design-Intuition und weicht in fast allem übrigen ab. Anschließend untersucht er ausführlich jene Passage in Meyers *Return of the God Hypothesis*, in der dieser die Hypothese außerirdischer Konstruktion — die Option „Panspermie“ oder „immanente Intelligenz“ — erwägt und verwirft, und argumentiert, dass seine Zurückweisung alles andere als flach ist: ein echtes, sorgfältiges Argument, das gegen dieses eine Ziel dennoch scheitert, weil es eine Hypothese über die irdische Biologie stillschweigend zu einer Theorie des Kosmos befördert und weil seine tragende Prämisse — ein Universum mit einem Anfang, dessen Feinabstimmung bei diesem Anfang festgelegt werden musste — genau jene Prämisse ist, die der Kanon bestreitet. Die Elohim-Hypothese erweist sich als die Position, die der Erzatheist wie der Erztheist zum Verschwinden bringen müssen, weil sie die Alternative Gott-oder-Materialismus auflöst, auf der ihr ganzer Streit gebaut ist. Die Signatur ist real. Der Streit geht darum, wessen Hand sie hinterließ."
+summary = "Bei der Premiere einer Dokumentation über die Verfolgung von Designtheoretikern sagte Richard Dawkins 2008 vor laufender Kamera, das Leben auf der Erde könnte von einer fortgeschrittenen Zivilisation anderswo im Kosmos konstruiert worden sein — man könne, wenn man nachsähe, in der Zelle „eine Signatur irgendeiner Art von Designer“ finden — und nahm es sogleich zurück, denn der Designer selbst hätte sich ja entwickeln müssen. Im Publikum saß Stephen Meyer, der damals ein Buch mit dem Titel *Signature in the Cell* abschloss. Dieser Explainer nimmt jene Szene zum Ausgangspunkt, um den interessantesten Zug der gesamten Intelligent-Design-Debatte zu zerlegen. Er kartiert das volle Spektrum des modernen Design- und Schöpfungsdenkens — den „wissenschaftlichen Kreationismus“ der jungen Erde und seine Dokumentarfilme, den progressiven Kreationismus der alten Erde, das informationstheoretische Intelligente Design von Behe, Dembski und Meyer, die laborgestützte Skepsis des synthetischen Chemikers James Tour gegenüber dem Ursprung des Lebens, die theistische Evolution von Miller und Collins und die glatte Design-Verneinung von Dawkins — und findet, mit dem Soziologen George Chryssides, dass die raëlianische Darstellung der Menschheitsentstehung selbst eine Spielart des „wissenschaftlichen Kreationismus“ ist: Sie teilt die Design-Intuition und weicht in fast allem übrigen ab. Anschließend untersucht er ausführlich jene Passage in Meyers *Return of the God Hypothesis*, in der dieser die Hypothese außerirdischer Konstruktion — die Option „Panspermie“ oder „immanente Intelligenz“ — erwägt und verwirft, und argumentiert, dass seine Zurückweisung alles andere als flach ist: ein echtes, sorgfältiges Argument, das gegen dieses eine Ziel dennoch scheitert, weil es eine Hypothese über die irdische Biologie stillschweigend zu einer Theorie des Kosmos befördert und weil seine tragende Prämisse — ein Universum mit einem Anfang, dessen Feinabstimmung bei diesem Anfang festgelegt werden musste — genau jene Prämisse ist, die der Kanon bestreitet. Die Elohim-Hypothese erweist sich als die Position, die der Erzatheist wie der Erztheist zum Verschwinden bringen müssen, weil sie die Alternative Gott-oder-Materialismus auflöst, auf der ihr ganzer Streit gebaut ist. Nach der Darstellung des Kanons ist die Signatur real: Das Leben wurde entworfen. Die etablierte Biologie akzeptiert nicht, dass Design nachgewiesen wurde; die Wissenschaftler, die argumentiert haben, das Leben könnte absichtlich ausgesät worden sein (Crick und Orgel) oder sein ungelenkter Ursprung sei unwahrscheinlich (Hoyle und Wickramasinghe), bleiben eine Minderheit. Der Streit geht darum, wessen Hand sie hinterließ."
 keywords = ["Intelligentes Design", "wissenschaftlicher Kreationismus", "Stephen Meyer", "David Berlinski", "James Tour", "Michael Behe", "William Dembski", "gerichtete Panspermie", "Return of the God Hypothesis", "Is Genesis History", "nicht reduzierbare Komplexität", "spezifizierte Komplexität", "Ursprung des Lebens", "Elohim", "Raëlismus", "George Chryssides", "Feinabstimmung"]
 references = [
     # — The canon under comparison —
@@ -46,7 +46,8 @@ references = [
 
     # — The scientific cognate: directed panspermia and the recovery of the capability —
     { id = "crick-orgel-directed-panspermia", locator = "Icarus 19: 341–346 — the 1973 proposal that life on Earth was deliberately seeded by an extraterrestrial intelligence; the molybdenum argument; the universality of the genetic code" },
-    { title = "Life Itself: Its Origin and Nature (the book-length development of directed panspermia; the closing chapter, 'Should We Infect the Galaxy?')", author = "Francis Crick", date = "1981" },
+    { id = "crick-life-itself", locator = "the book-length development of directed panspermia; the difficulty of an unguided terrestrial origin on the evidence of the time; the closing chapter, 'Should We Infect the Galaxy?'" },
+    { id = "hoyle-wickramasinghe-lifecloud", locator = "the origin of life in interstellar clouds and its delivery to Earth by comets; the improbability of an unguided origin on the early Earth, argued together with panspermia" },
     { id = "design-and-synthesis-of-a-minimal-bacterial-genome", locator = "Science 351:aad6253 — JCVI-syn3.0, the minimal synthetic bacterial genome; the contemporary recovery, at the bench, of the capability the canon attributes to the Elohim" },
 
     # — The design-argument tradition and its critique —
@@ -132,7 +133,12 @@ seit 1974 ohne Entschuldigung einnimmt: dass das Leben auf der Erde von einem
 fortgeschrittenen, aber vollkommen physischen Volk konstruiert wurde, den
 {% wiki(slug="elohim") %}Elohim{% end %}, die ihrerseits von einem früheren Volk
 konstruiert wurden, in einer Kette ohne erstes Glied und ohne Gott an der Spitze.
-Die Signatur ist real. Der ganze Streit dreht sich darum, wessen Hand sie
+Nach der Darstellung des Kanons ist die Signatur real: Das Leben wurde entworfen.
+Eine Minderheit von Wissenschaftlern hat argumentiert, das Leben könnte
+absichtlich ausgesät worden sein (Francis Crick und Leslie Orgel) oder sein
+ungelenkter Ursprung sei unwahrscheinlich (Fred Hoyle und Chandra
+Wickramasinghe); die etablierte Biologie akzeptiert nicht, dass Design
+nachgewiesen wurde. Der ganze Streit dreht sich darum, wessen Hand sie
 hinterlassen hat.
 
 ## Eine Familie des Widerspruchs
@@ -230,14 +236,15 @@ zwischen ihren Rückzügen zurückkehrt.
 
 ## Die Signatur
 
-Beginnen wir mit dem Teil, den der Rahmen einräumt, denn er ist größer, als ein
-beiläufiger Leser einer „UFO-Religion“ erwarten würde. Die
-Wheel-of-Heaven-Lesart hält die Kernbehauptung des Intelligenten Designs — dass
-die funktionale Komplexität lebender Systeme besser durch absichtsvolles
-intelligentes Handeln als durch ungerichtete Prozesse erklärt wird — für
-*substantiell zutreffend*. Der Eintrag
-{% wiki(slug="intelligent-design") %}Intelligentes Design{% end %} sagt es mit
-eben diesen Worten. Die Meinungsverschiedenheit, wenn sie kommt, wird nicht davon
+Beginnen wir mit dem Teil, den der Rahmen teilt, denn er ist größer, als ein
+beiläufiger Leser einer „UFO-Religion“ erwarten würde. Was das Intelligente
+Design als seine Schlussfolgerung vertritt, hält der Kanon als seine Prämisse:
+dass lebende Systeme durch absichtsvolles intelligentes Handeln und nicht durch
+ungerichtete Prozesse gemacht wurden. Der Kanon stützt diese Prämisse nicht auf
+die Belege der Bewegung, und er behauptet nicht, die Biologie habe sie bestätigt;
+die etablierte Biologie akzeptiert nicht, dass Design nachgewiesen wurde. Der
+Eintrag {% wiki(slug="intelligent-design") %}Intelligentes Design{% end %} legt
+die Überschneidung und den Unterschied dar. Die Meinungsverschiedenheit, wenn sie kommt, wird nicht davon
 handeln, ob das Leben entworfen ist. Sie wird davon handeln, wer die Designer
 sind, was über ihnen steht und ob das Argument das theologische Gewicht tragen
 kann, das seine Verfechter ihm aufbürden wollen. Es lohnt sich also, das
@@ -330,7 +337,7 @@ Eingeständnisse aus dem Inneren der Zunft sind mehr wert als Argumente von
 außerhalb.
 
 Dieses saubere, designerfreie harte Problem ist die Stelle, an der der Kanon
-wieder eintreten wird. Doch zunächst, was feststeht. Die stärkste Form des
+wieder eintreten wird. Doch zunächst, worauf der Designfall tatsächlich beruht. Die stärkste Form des
 Designarguments ist nicht die Flutgeologie des Junge-Erde-Kreationisten, und sie
 ist nicht einmal Behes umstrittene Geißel. Sie ist die Verbindung zweier Dinge,
 die ein redlicher Verstand einräumen kann: dass lebende Systeme auf spezifizierter
@@ -734,10 +741,13 @@ Es wäre unredlich, die Divergenz die Konvergenz verschlucken zu lassen; die
 Überschneidung verdient daher eine genaue Abrechnung — wie viel vom Designargument
 der Rahmen behält, sobald die Theologie abgezogen ist.
 
-Er behält das Informationsargument. Meyers Behauptung, spezifizierte Information
-stamme allein von Geistern, liest der Rahmen als substantiell zutreffend — mit dem
+Er behält die Schlussfolgerung des Informationsarguments. Meyers Behauptung,
+spezifizierte Information stamme allein von Geistern, gelangt dorthin, wo der
+Kanon beginnt — dass das Leben von Geistern gemacht wurde —, mit dem
 Unterschied, dass der fragliche Geist verkörpert und evolviert ist und dass man
-ihm im Prinzip begegnen kann. Er behält Tours hartes Problem, und er behält es
+ihm im Prinzip begegnen kann. Der Rahmen übernimmt den Schluss nicht als Beweis:
+Die etablierte Biologie verwirft ihn, und die Prämisse des Kanons beruht nicht
+auf ihm. Er behält Tours hartes Problem, und er behält es
 *sauberer*, als es die Bewegung tut. Tour klammert „einen Design-Akteur (personal
 oder impersonal)“ aus, weil ein Designer kein chemisches Werkzeug ist. Der Kanon
 liefert den Designer, den Tour ausklammert — und er ist gerade *nicht* der
@@ -753,9 +763,28 @@ Panspermie{{ footnote(id="7") }} — zwei der größten Molekularbiologen des
 zwanzigsten Jahrhunderts schlagen 1973 in einer begutachteten Zeitschrift vor,
 das Leben auf der Erde sei absichtlich von einer außerirdischen Intelligenz
 ausgesät worden — hat gezeigt, dass die *Art* von Behauptung, um die es dem Kanon
-geht, in der ernsthaften Biologie sagbar ist. Cricks *Life Itself* schloss mit
-einem Kapitel, das fragt, ob die Menschheit eines Tages andere Welten aussäen
-solle. Und in den Jahren seither ist die Menschheit den größten Teil des Weges bis
+geht, in der ernsthaften Biologie sagbar ist. Cricks *Life Itself* (1981)
+entwickelte den Fall in Buchlänge, mit dem Argument, dass ein ungelenkter
+Ursprung des Lebens auf der frühen Erde nach dem damaligen Kenntnisstand nahezu
+wie ein Wunder erschien, und schloss mit einem Kapitel, das fragt, ob die
+Menschheit eines Tages andere Welten aussäen solle. Der Astronom Fred Hoyle und
+sein Mitarbeiter Chandra Wickramasinghe argumentierten in *Lifecloud* (1978),
+das Leben habe nicht auf der Erde begonnen, sondern in interstellaren Wolken,
+und sei mit Kometen angekommen; in diesem Werk und den folgenden Büchern
+betonten sie die Unwahrscheinlichkeit eines ungelenkten irdischen Ursprungs.
+Diese Wissenschaftler argumentierten, das Leben könnte absichtlich ausgesät
+worden sein oder sein ungelenkter Ursprung sei mathematisch unwahrscheinlich.
+Sie waren und bleiben eine Minderheit, und die Erwiderungen liegen vor. Die
+gerichtete Panspermie verlegt den Ursprung des Lebens, statt ihn zu erklären,
+und die Universalität des genetischen Codes ist bei jeder einzelnen gemeinsamen
+Abstammung zu erwarten, ob ausgesät oder nicht. Den
+Unwahrscheinlichkeitszahlen wurde vorgeworfen, ein modernes Protein oder eine
+moderne Zelle so zu behandeln, als sei es in einem einzigen zufälligen Schritt
+zusammengesetzt worden, statt durch eine kumulative Chemie, die Selektion und
+Selbstorganisation formen könnten. Die etablierte Biologie akzeptiert nicht,
+dass Design nachgewiesen wurde. Der Kanon entlehnt seine Prämisse nicht diesen
+Wissenschaftlern; er vermerkt, dass ernsthafte Wissenschaftler nach derselben
+Art von Antwort gegriffen haben. Und in den Jahren seither ist die Menschheit den größten Teil des Weges bis
 vor jene Tür gegangen. 2010 brachte Craig Venters Institut eine Bakterienzelle zum
 Laufen, die auf einem chemisch synthetisierten Genom beruhte; 2016 veröffentlichte
 es ein *entworfenes* Minimalgenom, einen lebenden Organismus, dessen Bauplan aus
@@ -871,7 +900,13 @@ zuzustimmen. Die Junge-Erde-Kreationisten stimmen ihr zu, und die
 Alte-Erde-Kreationisten, und Behe und Dembski und Tour auf seine sorgfältig
 eingeklammerte Weise, und — die Genesis als Bericht statt als Fabel lesend — auch
 der raëlianische Kanon. Die Signatur ist der gemeinsame Boden der ganzen Familie
-des Widerspruchs, vom Flutgeologen bis zum Kontaktierten. Was die Familie spaltet,
+des Widerspruchs, vom Flutgeologen bis zum Kontaktierten. Sie ist nicht der
+gemeinsame Boden der Biologie. Die etablierte Biologie akzeptiert nicht, dass eine
+Signatur nachgewiesen wurde, und die Wissenschaftler, die argumentiert haben, das
+Leben könnte ausgesät worden sein (Crick und Orgel) oder sein ungelenkter
+Ursprung sei unwahrscheinlich (Hoyle und Wickramasinghe), bleiben eine
+Minderheit, beantwortet in den eigenen Begriffen der Biologie. Der Kanon hält
+seine Prämisse aus eigener Autorität: Das Leben wurde entworfen. Was die Familie spaltet,
 ist die zweite Hälfte — *wessen* Signatur —, und dort sind die Optionen weniger
 zahlreich, als der Lärm vermuten lässt. Entweder gehört die Hand in der Zelle
 einem Geist außerhalb des Universums, den kein Instrument je erreichen kann; oder

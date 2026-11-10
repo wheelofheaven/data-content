@@ -1,7 +1,7 @@
 +++
 title = "PURSUE"
 slug = "pursue"
-description = "PURSUE — el Presidential Unsealing and Reporting System for UAP Encounters, en español Sistema Presidencial de Apertura y Notificación de Encuentros con FANI — es el programa del gobierno de los Estados Unidos, lanzado en 2026, para desclasificar y publicar los registros no resueltos sobre fenómenos anómalos no identificados (FANI) en el portal war.gov/UFO del Departamento de Guerra. Ordenado por una directiva presidencial del 19 de febrero de 2026 y operando sobre un canal de divulgación estatutario que el Congreso creó en 2022, ha publicado siete lotes de documentos, imágenes, vídeos y audio con cadencia continua desde el 8 de mayo de 2026, procedentes de un elenco creciente de agencias. El marco Wheel of Heaven lo rastrea como una aceleración institucional fechable de la cuestión de la divulgación — sosteniendo a la vez, bajo su propia postura de recepción, que ningún archivo publicado es prueba a favor del marco y que ningún caso desmentido es prueba en su contra."
+description = "PURSUE — el Presidential Unsealing and Reporting System for UAP Encounters, en español Sistema Presidencial de Apertura y Notificación de Encuentros con FANI — es el programa del gobierno de los Estados Unidos, lanzado en 2026, para desclasificar y publicar los registros no resueltos sobre fenómenos anómalos no identificados (FANI) en el portal war.gov/UFO del Departamento de Guerra. Ordenado por una directiva presidencial del 19 de febrero de 2026 y operando sobre un canal de divulgación estatutario que el Congreso creó en 2022, ha publicado siete lotes de documentos, imágenes, vídeos y audio con cadencia continua desde el 8 de mayo de 2026, procedentes de un elenco creciente de agencias. El corpus Wheel of Heaven lo consigna como contexto, no como signo — sosteniendo a la vez, bajo su propia postura de recepción, que ningún archivo publicado es prueba a favor del marco y que ningún caso desmentido es prueba en su contra."
 template = "wiki-page.html"
 toc = true
 
@@ -30,7 +30,7 @@ launched = "Primer lote publicado el 8 de mayo de 2026 en war.gov/UFO; el análi
 releases_to_date = "Siete (8 de mayo, 22 de mayo, 12 de junio, 10 de julio, 7 de agosto, 18 de septiembre y 23 de octubre de 2026); nuevas entregas anunciadas como en preparación"
 database = "Base de datos consultable del portal con 478 archivos a lo largo de las siete entregas (según captura del 23 de octubre de 2026), filtrable por agencia, entrega, fecha del incidente, lugar y tipo de archivo"
 contributing_agencies = "Departamento de Guerra, NASA, CIA, FBI, Departamento de Energía, Departamento de Estado, Oficina Ejecutiva del Presidente y — desde la sexta entrega — una agencia local de fuerzas del orden de Colorado; la ODNI en papel coordinador"
-corpus_position = "Rastreado como la aceleración institucional de la curva de divulgación del §IX de la Era de Acuario; consignado sin alistamiento — ningún archivo publicado cuenta a favor del marco, ningún desmentido cuenta en su contra"
+corpus_position = "Consignado como contexto para leer el canon (Era de Acuario, §IX), no como signo del retorno; consignado sin alistamiento — ningún archivo publicado cuenta a favor del marco, ningún desmentido cuenta en su contra"
 distinguished_from = "La AARO (la oficina permanente de análisis del Pentágono, que adjudica casos; PURSUE publica registros), la desclasificación fragmentaria de la era FOIA y la vía de las audiencias del Congreso de 2023–2024"
 status_in_framework = "Programa gubernamental documentado, consignado con fuerza documental; explícitamente no es el evento de divulgación oficial y verificado que la postura de recepción del marco nombra como su única excepción"
 +++
@@ -238,11 +238,11 @@ testimonio de 2023.
 ## La lectura Wheel of Heaven
 
 La novena sección del capítulo de la [Era de
-Acuario](/timeline/age-of-aquarius/) anticipa, para las décadas presentes,
-una aceleración en el grado de oficialidad con que se maneja la cuestión FANI
-— los despachos del corpus leen las siete entregas como siete puntos
-fechables sobre esa curva, y a PURSUE mismo como la expresión institucional
-más clara de la curva hasta la fecha.
+Acuario](/timeline/age-of-aquarius/) enumera el cambio en el manejo oficial de
+la cuestión FANI entre los cambios que forman el contexto del presente, y los
+trata como contexto, no como signos. Los despachos del corpus consignan así
+cada una de las siete entregas; ninguna se lee como un paso hacia el retorno,
+que el canon mantiene condicional y sin fecha.
 
 El interés del marco es específico. Según el relato del canon, el contacto —
 cuando llegue, si llega — será **oficial, gubernamental y condicional**: un
@@ -300,10 +300,11 @@ atribuyen los recuentos en lugar de afirmarlos.
 
 **La durabilidad es la prueba real.** Un programa de cinco meses, que lleva
 el nombre de un presidente, prueba poco por la sola cadencia. La pregunta que
-soporta el peso para el propio marco — argumentada a lo largo de la serie de
-despachos — es si la curva de divulgación sobrevive en un horizonte
+soporta el peso para el propio programa — seguida a lo largo de la serie de
+despachos — es si la cadencia de publicación sobrevive en un horizonte
 plurianual, a través de administraciones y de ciclos de noticias. Esa
-pregunta está abierta.
+pregunta está abierta, y su respuesta será un hecho acerca del programa, no un
+signo para el marco.
 
 ## Véase también
 

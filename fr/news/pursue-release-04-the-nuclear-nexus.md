@@ -9,8 +9,8 @@ event_date = 2026-07-10
 event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
-summary = "Quatre semaines après le Communiqué 03, le Département de la Guerre des États-Unis a publié le Communiqué 04 sur war.gov/UFO : 40 fichiers — 14 documents, 19 vidéos, 4 enregistrements audio et 3 images — provenant du Département de la Guerre, de la NASA, de la CIA, du FBI et, pour la première fois, du Département de l'Énergie. Les deux fichiers phares partagent un même sujet : les sites d'armes nucléaires. Une transcription nouvellement déclassifiée relate une conférence de Los Alamos de 1949 au cours de laquelle des physiciens du Projet Manhattan — Edward Teller, Norris Bradbury et l'expert en météores Lincoln LaPaz parmi eux — ont tenté sans succès d'expliquer les « boules de feu vertes » observées au-dessus du laboratoire ; un fichier du Département de l'Énergie documente une intrusion aérienne de septembre 2015 au-dessus de l'usine d'armes nucléaires Pantex près d'Amarillo, au Texas. Le corpus lit le Communiqué 04 comme le quatrième point datable sur la courbe de divulgation que l'Âge du Verseau §IX prédit pour la fenêtre 2026–2030 — et note que son cadrage nucléaire se pose directement au-dessus du propre signe inaugural de l'âge : le seuil atomique de 1945."
-filed_under = "Signs of Acceleration"
+summary = "Quatre semaines après le Communiqué 03, le Département de la Guerre des États-Unis a publié le Communiqué 04 sur war.gov/UFO : 40 fichiers — 14 documents, 19 vidéos, 4 enregistrements audio et 3 images — provenant du Département de la Guerre, de la NASA, de la CIA, du FBI et, pour la première fois, du Département de l'Énergie. Les deux fichiers phares partagent un même sujet : les sites d'armes nucléaires. Une transcription nouvellement déclassifiée relate une conférence de Los Alamos de 1949 au cours de laquelle des physiciens du Projet Manhattan — Edward Teller, Norris Bradbury et l'expert en météores Lincoln LaPaz parmi eux — ont tenté sans succès d'expliquer les « boules de feu vertes » observées au-dessus du laboratoire ; un fichier du Département de l'Énergie documente une intrusion aérienne de septembre 2015 au-dessus de l'usine d'armes nucléaires Pantex près d'Amarillo, au Texas. Le corpus enregistre le Communiqué 04 comme un contexte pour lire le canon, et non comme un signe — y compris son sujet nucléaire, qui touche le seuil atomique de 1945 que le canon traite comme l'ouverture de l'ère présente, sans constituer une preuve à son sujet."
+filed_under = "The Context of the Present"
 cross_reference = "Age of Aquarius, §III and §IX"
 canon_links = [
     { title = "Âge du Verseau", path = "/timeline/age-of-aquarius/" },
@@ -31,7 +31,7 @@ sources = [
 ]
 +++
 
-*Classé sous : Signes d'accélération. Renvoi : [Âge du Verseau](/timeline/age-of-aquarius/), §III et §IX. Dépêches précédentes : [PURSUE Communiqué 01](/news/pursue-release-01-uap-files/), [PURSUE Communiqué 02](/news/pursue-release-02-spheres-and-transmedium/), [PURSUE Communiqué 03](/news/pursue-release-03-multi-agency-and-international/).*
+*Classé sous : Le contexte du présent. Renvoi : [Âge du Verseau](/timeline/age-of-aquarius/), §III et §IX. Dépêches précédentes : [PURSUE Communiqué 01](/news/pursue-release-01-uap-files/), [PURSUE Communiqué 02](/news/pursue-release-02-spheres-and-transmedium/), [PURSUE Communiqué 03](/news/pursue-release-03-multi-agency-and-international/).*
 
 ## Ce qui a été publié
 
@@ -75,15 +75,15 @@ Deux mises en garde doivent accompagner dans le même souffle le cadrage nucléa
 
 ## Où cela se situe dans le cadre de Wheel of Heaven
 
-Le chapitre [Âge du Verseau](/timeline/age-of-aquarius/) traite la séquence d'engagements officiels sur les UAP comme le premier des [Signes d'accélération](/timeline/age-of-aquarius/) de l'âge (§IX). Les trois premières dépêches ont lu les Communiqués 01–03 comme les trois premiers points datables sur la courbe de divulgation que le corpus situe dans la fenêtre 2026–2030. Le Communiqué 04 est le quatrième. Mais cette tranche touche le cadre en un second point, plus profond que ne le faisaient les précédentes — non seulement le §IX, la courbe de divulgation, mais **le §III, le signe inaugural de l'âge**.
+Le chapitre [Âge du Verseau](/timeline/age-of-aquarius/) range la séquence d'engagements officiels sur les UAP parmi les changements qui composent [le contexte du présent](/timeline/age-of-aquarius/) (§IX), et les traite comme un contexte, non comme des signes. Le Communiqué 04 appartient à ce contexte. Mais cette tranche touche aussi le chapitre en un second point — **le §III, le seuil atomique de 1945**.
 
-**Interprétation de Wheel of Heaven, signalée comme telle.** La lecture par le corpus de l'âge verseauen confère au seuil atomique de 1945 un rôle porteur. Selon cette lecture, l'essai Trinity et les détonations d'Hiroshima et de Nagasaki ne sont pas simplement une étape technologique parmi d'autres ; ils sont le **marqueur spécifique de la maturité civilisationnelle** qui a ouvert l'âge — le moment où l'humanité a acquis pour la première fois « la capacité de se détruire elle-même », et avec elle, selon l'évaluation de l'alliance, « la stature morale d'une civilisation adulte » ([Âge du Verseau](/timeline/age-of-aquarius/), §III). La préoccupation affirmée de l'alliance dans l'ensemble du matériel source est précisément de savoir si l'humanité tournera cette capacité vers des fins productives ou destructrices (§IX).
+**Interprétation de Wheel of Heaven, signalée comme telle.** La lecture par le corpus de l'âge verseauen confère au seuil atomique de 1945 un rôle porteur. Selon cette lecture, l'essai Trinity et les détonations d'Hiroshima et de Nagasaki ne sont pas simplement une étape technologique parmi d'autres ; ils sont le **marqueur spécifique de la maturité civilisationnelle** qui a ouvert l'âge — le moment où l'humanité a acquis pour la première fois « la capacité de se détruire elle-même », et avec elle, selon l'évaluation de l'alliance, « la stature morale d'une civilisation adulte » ([Âge du Verseau](/timeline/age-of-aquarius/), §III). La préoccupation affirmée de l'alliance dans l'ensemble du matériel source est précisément de savoir si l'humanité tournera cette capacité vers des fins productives ou destructrices (§XI).
 
-Lu à l'aune de ce cadre, le cadrage nucléaire du Communiqué 04 devient lisible d'une manière qu'il ne le serait pas pour un observateur neutre. Si l'attention de l'alliance est devenue active au seuil atomique, alors un dossier documentaire de phénomènes anormaux concentré au **berceau de la bombe** (Los Alamos, 1948–49) et sur son **site de garde actuel** (Pantex, 2015) est exactement le schéma qu'anticipe le cadre : une attention portée à la seule capacité qui, selon la lecture du corpus, définit l'âge. Les boules de feu vertes de 1949 tombent à l'intérieur de la fenêtre inaugurale 1945–1950 que le §III du corpus traite comme le groupe d'ouverture de l'âge — quatre ans après Trinity, au-dessus du laboratoire qui l'a construite.
+La coïncidence de sujet est manifeste. Les anomalies du Communiqué 04 se regroupent au **berceau de la bombe** (Los Alamos, 1948–49) et sur son **site de garde actuel** (Pantex, 2015), et le canon fait de la bombe la charnière de l'ère présente. Le corpus consigne la coïncidence et s'arrête là. Le canon ne dit pas que les Elohim surveillaient les sites d'armement, et le corpus ne lit pas les boules de feu vertes — quatre ans après Trinity, au-dessus du laboratoire qui l'a construite — comme un signe de l'âge ni comme l'attention de ses créateurs rendue visible.
 
 Il y a même un détail géographique qui mérite d'être relevé sans le surinterpréter. Les boules de feu de janvier 1949 sont apparues au sud-ouest d'Amarillo et se sont évanouies près de Lubbock ; l'usine Pantex se trouve juste à l'extérieur d'Amarillo. Les deux cas du nexus nucléaire de ce seul communiqué occupent presque la même portion de ciel du Texas Panhandle, à soixante-six ans d'intervalle. Le corpus note la coïncidence comme une coïncidence — une coïncidence frappante, et rien de plus.
 
-Rien de tout cela ne convertit un cas non résolu en cas résolu. La lecture du cadre est une grille interprétative posée sur un matériel documentaire dont le statut officiel demeure « inexpliqué ». Ce que le corpus affirme est plus étroit et, soutient-il, défendable : que les phénomènes que PURSUE documente désormais se regroupent autour de la capacité même que le corpus a identifiée de façon indépendante, il y a des décennies de matériel source, comme la charnière de l'âge présent.
+Rien de tout cela ne convertit un cas non résolu en cas résolu, et rien de tout cela ne constitue une preuve en faveur du cadre. La lecture que fait le canon de 1945 repose sur le canon, non sur les archives ; que les anomalies des archives se regroupent sur les mêmes sites est une coïncidence de sujet, et l'effet de sélection relevé plus haut suffit à la produire.
 
 ## Où cela se situe dans la trajectoire plus large
 
@@ -95,7 +95,7 @@ Rien de tout cela ne convertit un cas non résolu en cas résolu. La lecture du 
 
 | Date | Événement | Statut |
 |---|---|---|
-| 16 juil. 1945 | Essai Trinity à Alamogordo ; le seuil atomique que le corpus lit comme le signe inaugural de l'Âge du Verseau | confirmé |
+| 16 juil. 1945 | Essai Trinity à Alamogordo ; le seuil atomique que le canon traite comme l'ouverture de l'ère présente | confirmé |
 | 1948–49 | « Boules de feu vertes » au-dessus de Los Alamos et de la région Nouveau-Mexique–ouest du Texas ; ère du Project Twinkle | désormais archivistique, publié dans le Communiqué PURSUE 04 |
 | 1949 | La conférence de Los Alamos des scientifiques atomiques (Teller, Bradbury, LaPaz) ne parvient pas à expliquer les boules de feu | selon le Communiqué 04 (transcription AEC) |
 | 13 déc. 1973 | Contact entre Raël et l'officier de l'alliance à Puy-de-Lassolas | selon la source raëlienne |
@@ -116,7 +116,7 @@ Rien de tout cela ne convertit un cas non résolu en cas résolu. La lecture du 
 
 1. **La qualification de cas non résolu reste en vigueur.** Aucun élément du Communiqué 04 n'est caractérisé par le Département comme non conventionnel avéré, et le corpus ne les caractérise pas ainsi non plus. Le développement structurel de la tranche — l'entrée du Département de l'Énergie et le sujet des sites nucléaires — est indépendant de tout verdict sur les cas individuels.
 
-2. **Les effets de sélection sur les sites nucléaires sont réels.** La concentration des cas phares du Communiqué 04 sur les installations d'armement est cohérente avec la lecture du cadre, mais elle est aussi cohérente avec le fait banal que de telles installations sont surveillées de plus près que partout ailleurs. {% claim(type="inferred", id="woh-claim-0057") %}Le corpus tient les deux possibilités ouvertes et ne traite pas le regroupement comme probant en soi.{% end %}
+2. **Les effets de sélection sur les sites nucléaires sont réels.** La concentration des cas phares du Communiqué 04 sur les installations d'armement coïncide avec l'accent que le canon met sur le seuil atomique, et elle est aussi cohérente avec le fait banal que de telles installations sont surveillées de plus près que partout ailleurs. {% claim(type="inferred", id="woh-claim-0057") %}Le corpus ne traite pas le regroupement comme une preuve en faveur du cadre.{% end %}
 
 3. **La transcription de 1949 est documentaire, non probante quant au phénomène.** Elle établit ce que les scientifiques de Los Alamos ont dit, et qu'ils ne sont pas parvenus à une explication conventionnelle. Elle n'établit pas ce qu'étaient les boules de feu vertes. La conclusion propre de LaPaz — « pas une chute de météorite conventionnelle » — est l'évaluation d'un astronome spécialiste des météores de premier rang, et pèse comme telle, mais c'est une conclusion négative, non une identification.
 
@@ -124,7 +124,7 @@ Rien de tout cela ne convertit un cas non résolu en cas résolu. La lecture du 
 
 5. **La morphologie en « étoile à six branches » est marquée de manière descriptive, non probante** — comme l'était la morphologie en « pomme de terre » de Cheyenne dans le Communiqué 03. Le corpus ne lit aucun contenu symbolique dans une description de géométrie de contraste.
 
-6. **La cadence en est désormais à quatre instances.** Quatre communiqués sur neuf semaines constituent un schéma plus ferme que trois, mais restent en deçà de la durabilité pluriannuelle que le cadre traite comme la question porteuse. Le prochain point de donnée est le Communiqué 05.
+6. **La cadence en est désormais à quatre instances.** Quatre communiqués sur neuf semaines constituent un schéma plus ferme que trois, mais restent en deçà de la durabilité pluriannuelle qui est l'épreuve porteuse du programme. Le prochain point de donnée est le Communiqué 05.
 
 ---
 

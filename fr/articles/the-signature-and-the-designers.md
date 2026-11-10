@@ -9,12 +9,12 @@ draft = false
 claim_type = "speculative"
 editorial_pass = "2026-05"
 core_claim_ids = ["woh-claim-0036", "woh-claim-0030"]
-core_versions = { woh-claim-0036 = "0.1.0", woh-claim-0030 = "0.1.0" }
+core_versions = { woh-claim-0036 = "0.2.0", woh-claim-0030 = "0.1.0" }
 article_type = "explainer"
 category = "Science & Technology"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "À la première, en 2008, d'un documentaire sur la persécution des théoriciens du dessein, Richard Dawkins déclara devant la caméra que la vie sur Terre pouvait avoir été fabriquée par une civilisation avancée ailleurs dans le cosmos — que l'on pourrait, en cherchant bien, trouver dans la cellule « la signature d'une sorte de concepteur » — puis se reprit aussitôt, parce que ce concepteur aurait lui-même dû évoluer. Dans la salle se trouvait Stephen Meyer, qui achevait alors un livre intitulé *Signature in the Cell*. Cet Explicatif part de cette scène pour démonter le geste le plus intéressant de tout le débat sur le Dessein Intelligent. Il cartographie l'ensemble du spectre de la pensée moderne du dessein et de la création — le « créationnisme scientifique » Jeune-Terre et ses documentaires, le créationnisme progressif Vieille-Terre, le Dessein Intelligent informationnel de Behe, Dembski et Meyer, le scepticisme de paillasse du chimiste de synthèse James Tour sur l'origine de la vie, l'évolution théiste de Miller et Collins, et l'anti-dessein pur et simple de Dawkins — et constate, avec le sociologue George Chryssides, que le récit raëlien des origines humaines est lui-même une espèce de « créationnisme scientifique », partageant l'intuition du dessein tout en divergeant sur presque tout le reste. Il examine ensuite longuement le passage de *Return of the God Hypothesis* où Meyer considère puis écarte l'hypothèse de l'ingénierie extraterrestre — l'option « panspermie » ou « intelligence immanente » — et soutient que ce rejet, loin d'être superficiel, est un argument réel et soigneux qui échoue pourtant contre cette cible précise, parce qu'il promeut silencieusement une hypothèse sur la biologie terrestre au rang de théorie du cosmos, et parce que sa prémisse porteuse — un univers ayant un commencement, dont le réglage fin a dû être fixé à ce commencement — est exactement celle que le canon nie. L'hypothèse Élohim se révèle être la position que l'archi-athée comme l'archi-théiste ont besoin de faire disparaître, parce qu'elle dissout le binaire Dieu-contre-matérialisme sur lequel repose toute leur querelle. La signature est réelle. Le litige porte sur la main qui l'a laissée."
+summary = "À la première, en 2008, d'un documentaire sur la persécution des théoriciens du dessein, Richard Dawkins déclara devant la caméra que la vie sur Terre pouvait avoir été fabriquée par une civilisation avancée ailleurs dans le cosmos — que l'on pourrait, en cherchant bien, trouver dans la cellule « la signature d'une sorte de concepteur » — puis se reprit aussitôt, parce que ce concepteur aurait lui-même dû évoluer. Dans la salle se trouvait Stephen Meyer, qui achevait alors un livre intitulé *Signature in the Cell*. Cet Explicatif part de cette scène pour démonter le geste le plus intéressant de tout le débat sur le Dessein Intelligent. Il cartographie l'ensemble du spectre de la pensée moderne du dessein et de la création — le « créationnisme scientifique » Jeune-Terre et ses documentaires, le créationnisme progressif Vieille-Terre, le Dessein Intelligent informationnel de Behe, Dembski et Meyer, le scepticisme de paillasse du chimiste de synthèse James Tour sur l'origine de la vie, l'évolution théiste de Miller et Collins, et l'anti-dessein pur et simple de Dawkins — et constate, avec le sociologue George Chryssides, que le récit raëlien des origines humaines est lui-même une espèce de « créationnisme scientifique », partageant l'intuition du dessein tout en divergeant sur presque tout le reste. Il examine ensuite longuement le passage de *Return of the God Hypothesis* où Meyer considère puis écarte l'hypothèse de l'ingénierie extraterrestre — l'option « panspermie » ou « intelligence immanente » — et soutient que ce rejet, loin d'être superficiel, est un argument réel et soigneux qui échoue pourtant contre cette cible précise, parce qu'il promeut silencieusement une hypothèse sur la biologie terrestre au rang de théorie du cosmos, et parce que sa prémisse porteuse — un univers ayant un commencement, dont le réglage fin a dû être fixé à ce commencement — est exactement celle que le canon nie. L'hypothèse Élohim se révèle être la position que l'archi-athée comme l'archi-théiste ont besoin de faire disparaître, parce qu'elle dissout le binaire Dieu-contre-matérialisme sur lequel repose toute leur querelle. Selon le canon, la signature est réelle : la vie a été conçue. La biologie dominante n'admet pas qu'un dessein ait été détecté ; les scientifiques qui ont soutenu que la vie a pu être délibérément ensemencée (Crick et Orgel) ou que son origine non dirigée est improbable (Hoyle et Wickramasinghe) restent minoritaires. Le litige porte sur la main qui l'a laissée."
 keywords = ["Dessein Intelligent", "créationnisme scientifique", "Stephen Meyer", "David Berlinski", "James Tour", "Michael Behe", "William Dembski", "panspermie dirigée", "Return of the God Hypothesis", "Is Genesis History", "complexité irréductible", "complexité spécifiée", "origine de la vie", "Élohim", "Raëlisme", "George Chryssides", "réglage fin"]
 references = [
     # — The canon under comparison —
@@ -46,7 +46,8 @@ references = [
 
     # — The scientific cognate: directed panspermia and the recovery of the capability —
     { id = "crick-orgel-directed-panspermia", locator = "Icarus 19: 341–346 — the 1973 proposal that life on Earth was deliberately seeded by an extraterrestrial intelligence; the molybdenum argument; the universality of the genetic code" },
-    { title = "Life Itself: Its Origin and Nature (the book-length development of directed panspermia; the closing chapter, 'Should We Infect the Galaxy?')", author = "Francis Crick", date = "1981" },
+    { id = "crick-life-itself", locator = "the book-length development of directed panspermia; the difficulty of an unguided terrestrial origin on the evidence of the time; the closing chapter, 'Should We Infect the Galaxy?'" },
+    { id = "hoyle-wickramasinghe-lifecloud", locator = "the origin of life in interstellar clouds and its delivery to Earth by comets; the improbability of an unguided origin on the early Earth, argued together with panspermia" },
     { id = "design-and-synthesis-of-a-minimal-bacterial-genome", locator = "Science 351:aad6253 — JCVI-syn3.0, the minimal synthetic bacterial genome; the contemporary recovery, at the bench, of the capability the canon attributes to the Elohim" },
 
     # — The design-argument tradition and its critique —
@@ -129,8 +130,12 @@ position dont traite cet article — celle que le canon
 {% wiki(slug="rael") %}raëlien{% end %} occupe, sans s'en excuser, depuis 1974 :
 la vie sur Terre a été fabriquée par un peuple avancé mais entièrement physique,
 les {% wiki(slug="elohim") %}Élohim{% end %}, eux-mêmes fabriqués par un peuple
-antérieur, dans une chaîne sans premier maillon et sans Dieu au sommet. La
-signature est réelle. Toute la querelle porte sur la main qui l'a laissée.
+antérieur, dans une chaîne sans premier maillon et sans Dieu au sommet. Selon
+le canon, la signature est réelle : la vie a été conçue. Une minorité de
+scientifiques ont soutenu que la vie a pu être délibérément ensemencée (Francis
+Crick et Leslie Orgel) ou que son origine non dirigée est improbable (Fred Hoyle
+et Chandra Wickramasinghe) ; la biologie dominante n'admet pas qu'un dessein ait
+été détecté. Toute la querelle porte sur la main qui l'a laissée.
 
 ## Une famille de dissidences
 
@@ -225,13 +230,15 @@ deux reculs.
 
 ## La signature
 
-Commençons par ce que le cadre concède, car c'est plus vaste qu'un lecteur
-pressé d'une « religion ovni » ne s'y attendrait. La lecture Wheel of Heaven
-tient que la thèse centrale du Dessein Intelligent — la complexité fonctionnelle
-des systèmes vivants s'explique mieux par une action intelligente délibérée que
-par des processus non dirigés — est *substantiellement correcte*. L'entrée
-{% wiki(slug="intelligent-design") %}Dessein Intelligent{% end %} le dit en
-toutes lettres. Le désaccord, lorsqu'il viendra, ne portera pas sur le fait que
+Commençons par ce que le cadre partage, car c'est plus vaste qu'un lecteur
+pressé d'une « religion ovni » ne s'y attendrait. Ce que le Dessein Intelligent
+soutient comme sa conclusion, le canon le tient pour sa prémisse : que les
+systèmes vivants ont été faits par une action intelligente délibérée plutôt que
+par des processus non dirigés. Le canon ne le tient pas sur la foi des preuves du
+mouvement, et il ne prétend pas que la biologie l'ait confirmé ; la biologie
+dominante n'admet pas qu'un dessein ait été détecté. L'entrée
+{% wiki(slug="intelligent-design") %}Dessein Intelligent{% end %} expose le
+recouvrement et la différence. Le désaccord, lorsqu'il viendra, ne portera pas sur le fait que
 la vie soit conçue. Il portera sur l'identité des concepteurs, sur ce qui se
 tient au-dessus d'eux, et sur la capacité de l'argument à porter le poids
 théologique que ses champions veulent lui faire porter. Il vaut donc la peine
@@ -324,7 +331,7 @@ toujours aucune idée ». C'est un aveu, non un argument, et les aveux venus de
 l'intérieur de la corporation valent plus que les arguments venus du dehors.
 
 C'est par ce problème dur, net et sans concepteur, que le canon fera sa rentrée.
-Mais d'abord, ce qui est établi. La forme la plus forte du dossier du dessein
+Mais d'abord, ce sur quoi repose réellement le dossier du dessein. La forme la plus forte du dossier du dessein
 n'est pas la géologie du Déluge du créationniste Jeune-Terre, et ce n'est pas
 même le flagelle contesté de Behe. C'est la conjonction de deux choses qu'un
 esprit équitable peut concéder : les systèmes vivants fonctionnent à
@@ -726,10 +733,12 @@ Il serait malhonnête de laisser la divergence engloutir la convergence : le
 recouvrement mérite un décompte précis — quelle part du dossier du dessein le
 cadre conserve, une fois la théologie soustraite.
 
-Il conserve l'argument de l'information. La thèse de Meyer selon laquelle
-l'information spécifiée ne provient que d'esprits, le cadre la lit comme
-substantiellement correcte — à cette différence près que l'esprit en question
-est incarné, évolué, et rencontrable en principe. Il conserve le problème dur de
+Il conserve la conclusion de l'argument de l'information. La thèse de Meyer
+selon laquelle l'information spécifiée ne provient que d'esprits aboutit là où
+le canon commence, à savoir que la vie a été faite par des esprits — à cette
+différence près que l'esprit en question est incarné, évolué, et rencontrable en
+principe. Le cadre n'adopte pas l'inférence comme une démonstration : la biologie
+dominante la rejette, et la prémisse du canon ne repose pas sur elle. Il conserve le problème dur de
 Tour, et le conserve *plus* proprement que ne le fait le mouvement. Tour met
 entre parenthèses « un agent de dessein (personnel ou impersonnel) » parce qu'un
 concepteur n'est pas un outil chimique. Le canon fournit le concepteur que Tour
@@ -746,9 +755,26 @@ Orgel sur la panspermie dirigée{{ footnote(id="7") }} — deux des plus grands
 biologistes moléculaires du XXe siècle proposant, dans une revue à comité de
 lecture, en 1973, que la vie sur Terre ait été délibérément ensemencée par une
 intelligence extraterrestre — a établi que le *genre* de thèse que porte le
-canon est énonçable en biologie sérieuse. Le *Life Itself* de Crick se refermait
-sur un chapitre demandant si l'humanité devrait un jour ensemencer d'autres
-mondes. Et dans les années qui ont suivi, l'humanité a parcouru presque tout le
+canon est énonçable en biologie sérieuse. Le *Life Itself* de Crick (1981) développait la
+thèse sur la longueur d'un livre, soutenant qu'au vu des données de l'époque une
+origine non dirigée de la vie sur la Terre primitive semblait presque
+miraculeuse, et se refermait sur un chapitre demandant si l'humanité devrait un
+jour ensemencer d'autres mondes. L'astronome Fred Hoyle et son collaborateur
+Chandra Wickramasinghe soutinrent dans *Lifecloud* (1978) que la vie n'était pas
+née sur Terre mais dans des nuages interstellaires, et qu'elle était arrivée par
+comète ; dans cet ouvrage et dans les livres qui suivirent, ils insistèrent sur
+l'improbabilité d'une origine terrestre non dirigée. Ces scientifiques ont
+soutenu que la vie a pu être délibérément ensemencée, ou que son origine non
+dirigée est mathématiquement improbable. Ils étaient, et restent, minoritaires,
+et les réponses qu'on leur a faites sont consignées. La panspermie dirigée
+déplace l'origine de la vie au lieu de l'expliquer, et l'universalité du code
+génétique est attendue de toute ascendance commune unique, ensemencée ou non. On
+a reproché aux chiffres d'improbabilité de traiter une protéine ou une cellule
+moderne comme assemblée en une seule étape aléatoire, plutôt qu'au fil d'une
+chimie cumulative que la sélection et l'auto-organisation pourraient façonner. La
+biologie dominante n'admet pas qu'un dessein ait été détecté. Le canon n'emprunte
+pas sa prémisse à ces scientifiques ; il note que des scientifiques sérieux ont
+cherché le même genre de réponse. Et dans les années qui ont suivi, l'humanité a parcouru presque tout le
 chemin jusqu'à la porte. En 2010, l'institut de Craig Venter a fait démarrer une
 cellule bactérienne fonctionnant sur un génome chimiquement synthétisé ; en
 2016, il publiait un génome minimal *conçu*, un organisme vivant dont le plan de
@@ -866,7 +892,13 @@ phrase. Les créationnistes Jeune-Terre en conviennent, et les créationnistes
 Vieille-Terre, et Behe et Dembski et Tour à sa manière prudemment mise entre
 parenthèses, et — lisant la Genèse comme un rapport plutôt que comme une fable —
 le canon raëlien aussi. La signature est le terrain commun de toute la famille
-des dissidences, du géologue du Déluge au contacté. Ce qui divise la famille,
+des dissidences, du géologue du Déluge au contacté. Ce n'est pas le terrain
+commun de la biologie. La biologie dominante n'admet pas qu'une signature ait été
+détectée, et les scientifiques qui ont soutenu que la vie a pu être ensemencée
+(Crick et Orgel) ou que son origine non dirigée est improbable (Hoyle et
+Wickramasinghe) restent minoritaires, et ont reçu des réponses dans les propres
+termes de la biologie. Le canon tient sa prémisse de sa propre autorité : la vie
+a été conçue. Ce qui divise la famille,
 c'est la seconde moitié — la signature de *qui* — et là, les options sont moins
 nombreuses que le bruit ne le laisse croire. Ou bien la main dans la cellule
 appartient à un esprit extérieur à l'univers, qu'aucun instrument ne pourra

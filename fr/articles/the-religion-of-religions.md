@@ -643,8 +643,8 @@ Raëlisme sont les jeunes religions universalistes de l'ère industrielle, et
 trois d'entre elles rendent la comparaison précise — assez précise pour que ce
 projet entretienne des traductions de leurs textes fondateurs aux côtés du canon
 raëlien. Le propre {% wiki(slug="list-of-prophets-and-religions") %}catalogue de
-prophètes et de religions{% end %} du corpus enregistre déjà les trois à son
-deuxième plus haut degré d'authenticité ; ce qui suit les lit côte à côte, dans
+prophètes et de religions{% end %} du corpus place déjà les trois dans le
+deuxième palier de son échelle comparative (une heuristique propre au corpus, non un classement canonique) ; ce qui suit les lit côte à côte, dans
 leurs propres mots, comme les plus proches parents du canon.
 
 **La Foi bahá'íe** (proclamée en 1863) est le cas paradigmatique. Sorti du

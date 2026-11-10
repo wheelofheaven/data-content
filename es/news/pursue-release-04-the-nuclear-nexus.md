@@ -9,8 +9,8 @@ event_date = 2026-07-10
 event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
-summary = "Cuatro semanas después de la Versión 03, el Departamento de Guerra de EE. UU. publicó la Versión 04 en war.gov/UFO: 40 archivos —14 documentos, 19 vídeos, 4 grabaciones de audio y 3 imágenes— del Departamento de Guerra, la NASA, la CIA, el FBI y, por primera vez, el Departamento de Energía. Los dos archivos destacados comparten un tema: instalaciones de armas nucleares. Una transcripción recién desclasificada registra una conferencia de Los Álamos de 1949 en la que físicos del Proyecto Manhattan —entre ellos Edward Teller, Norris Bradbury y el experto en meteoros Lincoln LaPaz— intentaron sin éxito explicar las « bolas de fuego verdes » vistas sobre el laboratorio; un archivo del Departamento de Energía documenta una intrusión en el espacio aéreo de septiembre de 2015 sobre la planta de armas nucleares de Pantex, cerca de Amarillo, Texas. El corpus lee la Versión 04 como el cuarto punto fechable en la curva de divulgación que la Era de Acuario, §IX, prevé para la ventana 2026-2030 —y observa que su encuadre nuclear se asienta directamente sobre la propia señal inaugural de la era: el umbral atómico de 1945."
-filed_under = "Signs of Acceleration"
+summary = "Cuatro semanas después de la Versión 03, el Departamento de Guerra de EE. UU. publicó la Versión 04 en war.gov/UFO: 40 archivos —14 documentos, 19 vídeos, 4 grabaciones de audio y 3 imágenes— del Departamento de Guerra, la NASA, la CIA, el FBI y, por primera vez, el Departamento de Energía. Los dos archivos destacados comparten un tema: instalaciones de armas nucleares. Una transcripción recién desclasificada registra una conferencia de Los Álamos de 1949 en la que físicos del Proyecto Manhattan —entre ellos Edward Teller, Norris Bradbury y el experto en meteoros Lincoln LaPaz— intentaron sin éxito explicar las « bolas de fuego verdes » vistas sobre el laboratorio; un archivo del Departamento de Energía documenta una intrusión en el espacio aéreo de septiembre de 2015 sobre la planta de armas nucleares de Pantex, cerca de Amarillo, Texas. El corpus registra la Versión 04 como contexto para leer el canon, no como una señal —incluido su tema nuclear, que toca el umbral atómico de 1945 que el canon trata como la apertura de la era presente, sin ser prueba acerca de él."
+filed_under = "The Context of the Present"
 cross_reference = "Age of Aquarius, §III and §IX"
 canon_links = [
     { title = "Era de Acuario", path = "/timeline/age-of-aquarius/" },
@@ -31,7 +31,7 @@ sources = [
 ]
 +++
 
-*Archivado en: Señales de Aceleración. Referencia cruzada: [Era de Acuario](/timeline/age-of-aquarius/), §III y §IX. Despachos anteriores: [PURSUE Versión 01](/news/pursue-release-01-uap-files/), [PURSUE Versión 02](/news/pursue-release-02-spheres-and-transmedium/), [PURSUE Versión 03](/news/pursue-release-03-multi-agency-and-international/).*
+*Archivado en: El contexto del presente. Referencia cruzada: [Era de Acuario](/timeline/age-of-aquarius/), §III y §IX. Despachos anteriores: [PURSUE Versión 01](/news/pursue-release-01-uap-files/), [PURSUE Versión 02](/news/pursue-release-02-spheres-and-transmedium/), [PURSUE Versión 03](/news/pursue-release-03-multi-agency-and-international/).*
 
 ## Lo que se publicó
 
@@ -75,15 +75,15 @@ Dos cautelas deben acompañar al encuadre nuclear en un mismo aliento. Primero, 
 
 ## Dónde encaja esto en el marco de Wheel of Heaven
 
-El capítulo [Era de Acuario](/timeline/age-of-aquarius/) trata la secuencia de compromisos oficiales con FANI como la primera de las [Señales de Aceleración](/timeline/age-of-aquarius/) de la era (§IX). Los tres primeros despachos leyeron las Versiones 01-03 como los tres primeros puntos fechables en la curva de divulgación que el corpus sitúa dentro de la ventana 2026-2030. La Versión 04 es el cuarto. Pero este lote toca el marco en un segundo punto, más profundo que sus predecesores —no solo el §IX, la curva de divulgación, sino el **§III, la señal inaugural de la era**.
+El capítulo [Era de Acuario](/timeline/age-of-aquarius/) enumera la secuencia de compromisos oficiales con FANI entre los cambios que componen [el contexto del presente](/timeline/age-of-aquarius/) (§IX), y los trata como contexto, no como señales. La Versión 04 pertenece a ese contexto. Pero este lote toca el capítulo también en un segundo punto: el **§III, el umbral atómico de 1945**.
 
-**Interpretación de Wheel of Heaven, señalada como tal.** La lectura que el corpus hace de la era acuariana otorga al umbral atómico de 1945 un papel portante. En esa lectura, la prueba Trinity y las detonaciones de Hiroshima y Nagasaki no son meramente un hito tecnológico entre varios; son el **marcador específico de madurez civilizatoria** que abrió la era —el momento en que la humanidad adquirió por primera vez « la capacidad de destruirse a sí misma » y, con ella, según la evaluación de la alianza, « la talla moral de una civilización adulta » ([Era de Acuario](/timeline/age-of-aquarius/), §III). La preocupación declarada de la alianza a lo largo del material fuente es precisamente si la humanidad orientará esa capacidad hacia fines productivos o destructivos (§IX).
+**Interpretación de Wheel of Heaven, señalada como tal.** La lectura que el corpus hace de la era acuariana otorga al umbral atómico de 1945 un papel portante. En esa lectura, la prueba Trinity y las detonaciones de Hiroshima y Nagasaki no son meramente un hito tecnológico entre varios; son el **marcador específico de madurez civilizatoria** que abrió la era —el momento en que la humanidad adquirió por primera vez « la capacidad de destruirse a sí misma » y, con ella, según la evaluación de la alianza, « la talla moral de una civilización adulta » ([Era de Acuario](/timeline/age-of-aquarius/), §III). La preocupación declarada de la alianza a lo largo del material fuente es precisamente si la humanidad orientará esa capacidad hacia fines productivos o destructivos (§XI).
 
-Leído contra ese marco, el encuadre nuclear de la Versión 04 es legible de un modo que no lo sería para un observador neutral. Si la atención de la alianza se volvió activa en el umbral atómico, entonces un registro documental de fenómenos anómalos concentrado en la **cuna de la bomba** (Los Álamos, 1948-49) y en su **actual emplazamiento custodio** (Pantex, 2015) es exactamente el patrón que el marco anticipa: atención prestada a la única capacidad que, según la lectura del corpus, define la era. Las bolas de fuego verdes de 1949 caen dentro de la ventana inaugural de 1945-1950 que el §III del corpus trata como el grupo de apertura de la era —cuatro años después de Trinity, sobre el laboratorio que la construyó.
+La coincidencia de tema es evidente. Las anomalías de la Versión 04 se agrupan en la **cuna de la bomba** (Los Álamos, 1948-49) y en su **actual emplazamiento custodio** (Pantex, 2015), y el canon hace de la bomba el eje de la era presente. El corpus consigna la coincidencia y se detiene ahí. El canon no dice que los Elohim vigilaran las instalaciones de armamento, y el corpus no lee las bolas de fuego verdes —cuatro años después de Trinity, sobre el laboratorio que la construyó— como una señal de la era ni como la atención de sus creadores hecha visible.
 
 Hay incluso un detalle geográfico digno de señalar sin sobreinterpretarlo. Las bolas de fuego de enero de 1949 aparecieron al suroeste de Amarillo y se desvanecieron cerca de Lubbock; la planta de Pantex se asienta justo a las afueras de Amarillo. Los dos casos del nexo nuclear de este único lote ocupan casi el mismo tramo de cielo del Panhandle de Texas, con sesenta y seis años de diferencia. El corpus consigna la coincidencia como una coincidencia —una llamativa, y nada más que eso.
 
-Nada de esto convierte un caso no resuelto en uno resuelto. La lectura del marco es una lente interpretativa superpuesta a un material documental cuyo estatus oficial sigue siendo « inexplicado ». Lo que el corpus afirma es más estrecho y, sostiene, defendible: que los fenómenos que PURSUE documenta ahora se agrupan en torno a exactamente la capacidad que el corpus identificó de forma independiente, hace décadas de material fuente, como el eje de la era presente.
+Nada de esto convierte un caso no resuelto en uno resuelto, y nada de ello es prueba a favor del marco. La lectura que el canon hace de 1945 descansa en el canon, no en el archivo; que las anomalías del archivo se concentren en los mismos emplazamientos es una coincidencia de tema, y el efecto de selección señalado más arriba basta para producirla.
 
 ## Dónde encaja esto en la trayectoria más amplia
 
@@ -95,7 +95,7 @@ Nada de esto convierte un caso no resuelto en uno resuelto. La lectura del marco
 
 | Fecha | Acontecimiento | Estado |
 |---|---|---|
-| 16 jul. 1945 | Prueba Trinity en Alamogordo; el umbral atómico que el corpus lee como la señal inaugural de la era acuariana | confirmado |
+| 16 jul. 1945 | Prueba Trinity en Alamogordo; el umbral atómico que el canon trata como la apertura de la era presente | confirmado |
 | 1948-49 | « Bolas de fuego verdes » sobre Los Álamos y la región de Nuevo México-oeste de Texas; era del Proyecto Twinkle | ahora de archivo, publicado en la Versión 04 de PURSUE |
 | 1949 | La conferencia de Los Álamos de científicos atómicos (Teller, Bradbury, LaPaz) no logra explicar las bolas de fuego | según Versión 04 (transcripción de la AEC) |
 | 13 dic. 1973 | Contacto entre Raël y el oficial de la alianza en Puy-de-Lassolas | según fuente raëliana |
@@ -116,7 +116,7 @@ Nada de esto convierte un caso no resuelto en uno resuelto. La lectura del marco
 
 1. **El encuadre de caso-no-resuelto sigue vigente.** Ningún elemento de la Versión 04 es caracterizado por el Departamento como confirmadamente no convencional, y el corpus tampoco los caracteriza así. El desarrollo estructural del lote —la entrada del Departamento de Energía y el tema de las instalaciones nucleares— es independiente de cualquier veredicto sobre los casos individuales.
 
-2. **Los efectos de selección en instalaciones nucleares son reales.** La concentración de los casos destacados de la Versión 04 en instalaciones de armamento es coherente con la lectura del marco, pero también lo es con el hecho mundano de que tales instalaciones se vigilan más de cerca que ningún otro lugar. {% claim(type="inferred", id="woh-claim-0057") %}El corpus mantiene abiertas ambas posibilidades y no trata la agrupación como probatoria por sí sola.{% end %}
+2. **Los efectos de selección en instalaciones nucleares son reales.** La concentración de los casos destacados de la Versión 04 en instalaciones de armamento coincide con el énfasis del canon en el umbral atómico, y también es coherente con el hecho mundano de que tales instalaciones se vigilan más de cerca que ningún otro lugar. {% claim(type="inferred", id="woh-claim-0057") %}El corpus no trata la agrupación como prueba a favor del marco.{% end %}
 
 3. **La transcripción de 1949 es documental, no probatoria en cuanto al fenómeno.** Establece lo que los científicos de Los Álamos dijeron, y que no alcanzaron una explicación convencional. No establece lo que fueron las bolas de fuego verdes. La propia conclusión de LaPaz —« no una caída de meteorito convencional »— es la evaluación de un astrónomo de meteoros de primer orden, y tiene peso como tal, pero es un hallazgo negativo, no una identificación.
 
@@ -124,7 +124,7 @@ Nada de esto convierte un caso no resuelto en uno resuelto. La lectura del marco
 
 5. **La morfología de « estrella de seis puntas » se consigna descriptivamente, no probatoriamente** —como se hizo con la morfología de « patata » de Cheyenne en la Versión 03. El corpus no lee contenido simbólico en una descripción de geometría de contraste.
 
-6. **La cadencia es ahora de cuatro instancias.** Cuatro entregas a lo largo de nueve semanas es un patrón más firme que tres, pero aún queda corto de la durabilidad plurianual que el marco trata como la prueba portante. El próximo punto de datos es la Versión 05.
+6. **La cadencia es ahora de cuatro instancias.** Cuatro entregas a lo largo de nueve semanas es un patrón más firme que tres, pero aún queda corto de la durabilidad plurianual que es la prueba portante del programa. El próximo punto de datos es la Versión 05.
 
 ---
 

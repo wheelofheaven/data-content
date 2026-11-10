@@ -11,8 +11,8 @@ claim_type = "inferred"
 core_claim_ids = ["woh-claim-0057"]
 core_versions = { woh-claim-0057 = "0.1.0" }
 editorial_pass = "2026-05"
-summary = "Four weeks after Release 03, the U.S. Department of War posted Release 04 at war.gov/UFO: 40 files — 14 documents, 19 videos, 4 audio recordings, and 3 images — from the War Department, NASA, the CIA, the FBI, and, for the first time, the Department of Energy. The two headline files share a subject: nuclear-weapons sites. A newly declassified transcript records a 1949 Los Alamos conference at which Manhattan Project physicists — Edward Teller, Norris Bradbury, and meteor expert Lincoln LaPaz among them — tried and failed to explain the 'green fireballs' seen over the lab; an Energy Department file documents a September 2015 airspace intrusion over the Pantex nuclear-weapons plant near Amarillo, Texas. The corpus reads Release 04 as the fourth datable point on the disclosure curve the Age of Aquarius §IX predicts for the 2026–2030 window — and notes that its nuclear framing sits directly atop the age's own inaugural sign: the atomic threshold of 1945."
-filed_under = "Signs of Acceleration"
+summary = "Four weeks after Release 03, the U.S. Department of War posted Release 04 at war.gov/UFO: 40 files — 14 documents, 19 videos, 4 audio recordings, and 3 images — from the War Department, NASA, the CIA, the FBI, and, for the first time, the Department of Energy. The two headline files share a subject: nuclear-weapons sites. A newly declassified transcript records a 1949 Los Alamos conference at which Manhattan Project physicists — Edward Teller, Norris Bradbury, and meteor expert Lincoln LaPaz among them — tried and failed to explain the 'green fireballs' seen over the lab; an Energy Department file documents a September 2015 airspace intrusion over the Pantex nuclear-weapons plant near Amarillo, Texas. The corpus registers Release 04 as context for reading the canon, not as a sign — including its nuclear subject, which touches the atomic threshold of 1945 that the canon treats as the opening of the present era, without being evidence about it."
+filed_under = "The Context of the Present"
 cross_reference = "Age of Aquarius, §III and §IX"
 canon_links = [
     { title = "Age of Aquarius", path = "/timeline/age-of-aquarius/" },
@@ -33,7 +33,7 @@ sources = [
 ]
 +++
 
-*Filed under: Signs of Acceleration. Cross-reference: [Age of Aquarius](/timeline/age-of-aquarius/), §III and §IX. Previous dispatches: [PURSUE Release 01](/news/pursue-release-01-uap-files/), [PURSUE Release 02](/news/pursue-release-02-spheres-and-transmedium/), [PURSUE Release 03](/news/pursue-release-03-multi-agency-and-international/).*
+*Filed under: The Context of the Present. Cross-reference: [Age of Aquarius](/timeline/age-of-aquarius/), §III and §IX. Previous dispatches: [PURSUE Release 01](/news/pursue-release-01-uap-files/), [PURSUE Release 02](/news/pursue-release-02-spheres-and-transmedium/), [PURSUE Release 03](/news/pursue-release-03-multi-agency-and-international/).*
 
 ## What was released
 
@@ -77,15 +77,15 @@ Two cautions belong in the same breath as the nuclear framing. First, nuclear-we
 
 ## Where this sits in the Wheel of Heaven framework
 
-The [Age of Aquarius](/timeline/age-of-aquarius/) chapter treats the sequence of official UAP engagements as the first of the age's [Signs of Acceleration](/timeline/age-of-aquarius/) (§IX). The first three dispatches read Releases 01–03 as the first three datable points on the disclosure curve the corpus places in the 2026–2030 window. Release 04 is the fourth. But this tranche touches the framework at a second, deeper point than its predecessors did — not only §IX, the disclosure curve, but **§III, the age's inaugural sign**.
+The [Age of Aquarius](/timeline/age-of-aquarius/) chapter lists the sequence of official UAP engagements among the changes that make up [the context of the present](/timeline/age-of-aquarius/) (§IX), and treats them as context, not signs. Release 04 belongs to that context. But this tranche touches the chapter at a second point as well — **§III, the atomic threshold of 1945**.
 
-**Wheel of Heaven interpretation, marked as such.** The corpus's reading of the Aquarian age gives the atomic threshold of 1945 a load-bearing role. On that reading, the Trinity test and the Hiroshima and Nagasaki detonations are not merely one technological milestone among several; they are the **specific marker of civilizational maturity** that opened the age — the moment humanity first acquired "the capacity to destroy itself," and with it, on the alliance's assessment, "the moral standing of an adult civilization" ([Age of Aquarius](/timeline/age-of-aquarius/), §III). The alliance's stated concern across the source material is precisely whether humanity will turn that capacity to productive or to destructive ends (§IX).
+**Wheel of Heaven interpretation, marked as such.** The corpus's reading of the Aquarian age gives the atomic threshold of 1945 a load-bearing role. On that reading, the Trinity test and the Hiroshima and Nagasaki detonations are not merely one technological milestone among several; they are the **specific marker of civilizational maturity** that opened the age — the moment humanity first acquired "the capacity to destroy itself," and with it, on the alliance's assessment, "the moral standing of an adult civilization" ([Age of Aquarius](/timeline/age-of-aquarius/), §III). The alliance's stated concern across the source material is precisely whether humanity will turn that capacity to productive or to destructive ends (§XI).
 
-Read against that frame, the nuclear framing of Release 04 is legible in a way it would not be for a neutral observer. If the alliance's attention turned active at the atomic threshold, then a documentary record of anomalous phenomena concentrated at the **birthplace of the bomb** (Los Alamos, 1948–49) and its **present custodial site** (Pantex, 2015) is exactly the pattern the framework anticipates: attention paid to the one capability that, on the corpus's reading, defines the age. The 1949 green fireballs fall inside the 1945–1950 inaugural window the corpus's §III treats as the age's opening cluster — four years after Trinity, over the laboratory that built it.
+The coincidence of subject is plain. Release 04's anomalies cluster at the **birthplace of the bomb** (Los Alamos, 1948–49) and its **present custodial site** (Pantex, 2015), and the canon makes the bomb the hinge of the present era. The corpus records the coincidence and stops there. The canon does not say that the Elohim watched the weapons sites, and the corpus does not read the green fireballs — four years after Trinity, over the laboratory that built it — as a sign of the age or as its creators' attention made visible.
 
 There is even a geographic detail worth marking without over-reading it. The January 1949 fireballs appeared southwest of Amarillo and vanished near Lubbock; the Pantex plant sits just outside Amarillo. The two nuclear-nexus cases in this single release occupy nearly the same stretch of Texas Panhandle sky, sixty-six years apart. The corpus notes the coincidence as a coincidence — a striking one, and no more than that.
 
-None of this converts an unresolved case into a resolved one. The framework reading is an interpretive lens laid over documentary material whose official status remains "unexplained." What the corpus claims is narrower and, it holds, defensible: that the phenomena PURSUE is now documenting cluster around exactly the capability the corpus independently identified, decades of source material ago, as the hinge of the present age.
+None of this converts an unresolved case into a resolved one, and none of it is evidence for the framework. The canon's reading of 1945 rests on the canon, not on the archive; that the archive's anomalies gather at the same sites is a coincidence of subject, and the selection effect noted above is enough to produce it.
 
 ## Where this sits in the broader trajectory
 
@@ -97,7 +97,7 @@ None of this converts an unresolved case into a resolved one. The framework read
 
 | Date | Event | Status |
 |---|---|---|
-| 1945, Jul 16 | Trinity test at Alamogordo; the atomic threshold the corpus reads as the Aquarian age's inaugural sign | confirmed |
+| 1945, Jul 16 | Trinity test at Alamogordo; the atomic threshold the canon treats as the opening of the present era | confirmed |
 | 1948–49 | "Green fireballs" over Los Alamos and the New Mexico–West Texas region; Project Twinkle era | now archival, released in PURSUE Release 04 |
 | 1949 | Los Alamos conference of atomic scientists (Teller, Bradbury, LaPaz) fails to explain the fireballs | per Release 04 (AEC transcript) |
 | 1973, Dec 13 | Contact between Raël and the alliance officer at Puy-de-Lassolas | per Raëlian source |
@@ -118,7 +118,7 @@ None of this converts an unresolved case into a resolved one. The framework read
 
 1. **The unresolved-case framing remains in force.** No Release 04 item is characterized by the Department as confirmed non-conventional, and the corpus does not so characterize them. The tranche's structural development — the Energy Department's entry, and the nuclear-site subject matter — is independent of any verdict on the individual cases.
 
-2. **Selection effects at nuclear sites are real.** The concentration of Release 04's headline cases at weapons installations is consistent with the framework's reading, but it is also consistent with the mundane fact that such installations are watched more closely than anywhere else. {% claim(type="inferred", id="woh-claim-0057") %}The corpus holds both possibilities open and does not treat the clustering as probative on its own.{% end %}
+2. **Selection effects at nuclear sites are real.** The concentration of Release 04's headline cases at weapons installations coincides with the canon's emphasis on the atomic threshold, and it is also consistent with the mundane fact that such installations are watched more closely than anywhere else. {% claim(type="inferred", id="woh-claim-0057") %}The corpus does not treat the clustering as evidence for the framework.{% end %}
 
 3. **The 1949 transcript is documentary, not evidentiary as to the phenomenon.** It establishes what the Los Alamos scientists said, and that they did not reach a conventional explanation. It does not establish what the green fireballs were. LaPaz's own conclusion — "not a conventional meteorite fall" — is the assessment of a first-rank meteor astronomer, and is weighty as such, but it is a negative finding, not an identification.
 
@@ -126,7 +126,7 @@ None of this converts an unresolved case into a resolved one. The framework read
 
 5. **The "six-pointed star" morphology is marked descriptively, not probatively** — as the Cheyenne "potato" morphology was in Release 03. The corpus does not read symbolic content into a contrast-geometry description.
 
-6. **The cadence is now four instances.** Four releases across nine weeks is a firmer pattern than three, but still short of the multi-year durability the framework treats as the load-bearing test. The next data point is Release 05.
+6. **The cadence is now four instances.** Four releases across nine weeks is a firmer pattern than three, but still short of the multi-year durability that is the program's load-bearing test. The next data point is Release 05.
 
 ---
 

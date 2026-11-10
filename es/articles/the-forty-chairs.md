@@ -1,12 +1,12 @@
 +++
 title = "Las cuarenta sillas"
-description = "Unos cuarenta invitados se sentaron a la mesa de Yahvé en 1975, y el canon nunca los nombra a todos. Formalizamos el instrumento que decide qué tradiciones estaban allí."
+description = "Unos cuarenta invitados se sentaron a la mesa de Yahvé en 1975, y el canon nunca los nombra a todos. Formalizamos la heurística propia del corpus para comparar qué tradiciones pudieron estar allí."
 template = "articles-page.html"
 date = 2026-11-01
 draft = false
 
 [extra]
-card_summary = "Los invitados sin nombre a la mesa de Yahvé y un método para evaluar qué tradiciones puede incluir el relato."
+card_summary = "Los invitados sin nombre a la mesa de Yahvé y una escala heurística para comparar las tradiciones que el relato puede incluir."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0054"]
 core_versions = { woh-claim-0054 = "0.1.0" }
@@ -15,13 +15,13 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "El canon raeliano afirma una profetología acotada —unos cuarenta invitados a la mesa de Yahvé, «todos seres representativos de las religiones creadas a raíz de nuestros contactos en la Tierra»— y nunca proporciona la lista de invitados. También advierte, con su propia voz, contra los falsos profetas. Entre esas dos frases se sitúa una obligación metodológica: un corpus que lee la religión mundial a través de este canon debe ser capaz de decir, en público y con razones, qué tradiciones lee como descendientes de un contacto auténtico y cuáles no. Este Explicativo formaliza el instrumento. Repasa cómo los cánones más antiguos vigilaron sus propias fronteras —la lista de Atanasio, las cadenas de los clasificadores de hadices, los criterios del Jesús histórico y su ocaso, el paradigma forense que desenmascaró el Evangelio de la esposa de Jesús— y destila el catálogo de cinco niveles del corpus en seis pruebas explícitas: especificidad del contacto, carga, trazabilidad externa, cadena de custodia, la hipótesis nula y la propia prueba diacrónica del canon contra los falsos profetas. Entre la maquinaria y sus controles, alza la carga a la luz y lee la filigrana —la firma que comparten los estratos fundacionales de las tradiciones de los niveles superiores antes de que sus instituciones la entierren: el amor como ética operativa, el infinito en el tiempo y en el espacio, el respeto hacia los creadores sin deificación, el rechazo del ídolo vacío y un cielo plural— y enuncia la regla de muestreo que impone el modelo de decadencia: calificar el estrato recuperable más antiguo, nunca la sobrecarga institucional, con la recuperación de la capa fundacional del islam —los estudios de las alquiblas, el movimiento de los Creyentes y la Ḥanīfiyyah, el nombre que el propio estrato se daba como religión restaurada de Abraham e Ismael— como caso tipo de un estrato fundacional alcanzado por medición. Calibra después el instrumento con sus controles —las seis tradiciones nombradas por el canon en un extremo, la Cienciología en el otro—, somete a Joseph Smith y a L. Ron Hubbard a las mismas pruebas, lado a lado, como contraste decisivo, delimita la categoría custodial de tradiciones legítimas que no tienen profeta alguno y señala los casos de frontera (los mandeos, Handsome Lake, Tenrikyō) que el instrumento marca para revisión. Las objeciones —circularidad, infalsabilidad, la ceja alzada ante los mormones y la acusación de mal gusto— reciben una sección propia."
+summary = "El canon raeliano afirma una profetología acotada —unos cuarenta invitados a la mesa de Yahvé, «todos seres representativos de las religiones creadas a raíz de nuestros contactos en la Tierra»— y nunca proporciona la lista de invitados. También advierte, con su propia voz, contra los falsos profetas. Entre esas dos frases se sitúa una obligación metodológica: un corpus que lee la religión mundial a través de este canon debe ser capaz de decir, en público y con razones, cómo ordena las tradiciones que compara con ese relato. Este Explicativo formaliza el instrumento, una escala de cinco niveles que es la heurística propia del corpus para organizar la comparación: no una clasificación que dé el canon (el canon no da niveles) ni un veredicto sobre la autenticidad de ninguna tradición. Repasa cómo los cánones más antiguos vigilaron sus propias fronteras —la lista de Atanasio, las cadenas de los clasificadores de hadices, los criterios del Jesús histórico y su ocaso, el paradigma forense que desenmascaró el Evangelio de la esposa de Jesús— y destila el catálogo de cinco niveles del corpus en seis pruebas explícitas: especificidad del contacto, carga, trazabilidad externa, cadena de custodia, la hipótesis nula y la propia prueba diacrónica del canon contra los falsos profetas. Entre la maquinaria y sus controles, alza la carga a la luz y lee la filigrana —la firma que comparten los estratos fundacionales de las tradiciones de los niveles superiores antes de que sus instituciones la entierren: el amor como ética operativa, el infinito en el tiempo y en el espacio, el respeto hacia los creadores sin deificación, el rechazo del ídolo vacío y un cielo plural— y enuncia la regla de muestreo que impone el modelo de decadencia: calificar el estrato recuperable más antiguo, nunca la sobrecarga institucional, con la recuperación de la capa fundacional del islam —los estudios de las alquiblas, el movimiento de los Creyentes y la Ḥanīfiyyah, el nombre que el propio estrato se daba como religión restaurada de Abraham e Ismael— como caso tipo de un estrato fundacional alcanzado por medición. Calibra después el instrumento con sus controles —las tradiciones nombradas por el canon en un extremo, la Cienciología en el otro—, somete a Joseph Smith y a L. Ron Hubbard a las mismas pruebas, lado a lado, como contraste decisivo (Smith, nombrado entre los enviados solo en el comentario de Raël, queda sin calificar), delimita la categoría custodial de tradiciones legítimas que no tienen profeta alguno y señala los casos de frontera (los mandeos, Handsome Lake, Tenrikyō) que el instrumento marca para revisión. Las objeciones —circularidad, infalsabilidad, la ceja alzada ante los mormones y la acusación de mal gusto— reciben una sección propia."
 keywords = ["profetas", "cuarenta profetas", "autenticidad", "legitimidad de la religión", "metodología", "formación del canon", "criterios de autenticidad", "crítica del hadiz", "Cienciología", "Joseph Smith", "L. Ron Hubbard", "mandeos", "Handsome Lake", "Tenrikyō", "Cábala", "religión comparada", "historiografía bayesiana", "nuevos movimientos religiosos", "estrato fundacional", "rutinización del carisma", "Dan Gibson", "alquibla", "movimiento de los Creyentes", "anicónico", "idolatría", "Nehushtan", "pluralismo cósmico", "pluralidad de los mundos", "Hanafiyya", "millat Ibrahim", "religión de Abraham", "mitemas", "Motif-Index"]
 references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶46: why Vorilhon); Chapter 5 (¶54: the Kabbalah, the bases, Buddhism, Islam, the Mormons — 'it would take pages'; ¶66: the naming of Raël)" },
     { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2 (¶50: 'My name is Yahweh'; ¶62–65: the meal of the forty and the seating order; ¶105: 'the religion of religions'); Chapter 3 (¶179: the false prophets of the age; ¶257: 'the last of the line of the prophets')" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2 (¶85: 'the last prophet, but the first one to address Mankind asking them to understand and not to believe'); Chapter 3 (¶27: Joseph Smith among the prophets); Chapter 4 (¶92: 'thousands of false prophets' among the signs)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2 (¶85: 'the last prophet, but the first one to address Mankind asking them to understand and not to believe'); Chapter 3 (¶27: Raël's commentary naming Joseph Smith among the envoys); Chapter 4 (¶92: 'thousands of false prophets' among the signs)" },
 
     # — Comparative primaries, in the project's library —
     { id = "book-of-mormon", locator = "with the Testimony of Three Witnesses and Testimony of Eight Witnesses, front matter of the 1830 edition — the signed attestation documents run through Test 3" },
@@ -160,9 +160,12 @@ instrumento.
 El corpus, de hecho, lleva tiempo construyendo uno. El
 {% wiki(slug="list-of-prophets-and-religions") %}catálogo de profetas
 y religiones{% end %} de la wiki clasifica las principales tradiciones
-del mundo en una escala de autenticidad de cinco niveles —canónico, muy
-probable, probable, improbable, muy improbable— y enuncia cinco criterios
-con los que se hacen las asignaciones. Lo que el catálogo enuncia en el
+del mundo en una escala de cinco niveles —canónico, muy probable,
+probable, improbable, muy improbable— y enuncia cinco criterios con los
+que se hacen las asignaciones. La escala es un recurso propio del
+corpus, una heurística para organizar la comparación: el canon no da
+niveles, y ningún nivel es una clasificación del canon ni un veredicto
+sobre la autenticidad de una tradición. Lo que el catálogo enuncia en el
 registro comprimido de una entrada de referencia, este artículo lo hace
 por extenso: de dónde vienen los criterios, por qué estos cinco y no
 otros, cómo se calibra el instrumento con casos conocidos en ambos
@@ -328,8 +331,8 @@ El catálogo del corpus enuncia cinco criterios. Formalizados, ordenados
 y completados con un sexto que aporta el propio canon, quedan como
 sigue. Cada uno es una prueba en el sentido forense: una pregunta
 dirigida a la evidencia, con modos de fallo enunciados, cuyas respuestas
-se acumulan hacia un veredicto sin que ninguna respuesta aislada lo
-dicte.
+se acumulan hacia una ubicación en la escala sin que ninguna respuesta
+aislada la dicte.
 
 **Prueba 1 — Especificidad del contacto.** ¿Describe la narración
 fundacional un *acontecimiento* o una atmósfera? La prueba pide textura
@@ -426,14 +429,14 @@ tradición, la lectura de contacto compite con la alternativa más fuerte
 disponible —fuentes literarias documentadas, estados alterados de
 conciencia, ensamblaje sincrético, fraude piadoso, fraude a secas—, y la
 carga de la prueba recae en la lectura de contacto. La nula no es un
-insulto; es el valor por defecto que da sentido a un veredicto positivo.
+insulto; es el valor por defecto que da sentido a una ubicación positiva.
 La Prueba 5 es donde se sienta Hume, y donde la probabilidad previa
 declarada del marco hace su trabajo: la pregunta nunca es «¿podría un ser
 humano haber inventado esto?» (un ser humano puede inventar cualquier
 cosa), sino «¿*predice* realmente mejor esta evidencia la hipótesis de la
 invención?». Cuando las publicaciones anteriores del propio fundador
 contienen la cosmología, la nula predice el depósito a la perfección y
-el veredicto se sigue. Cuando la mano automática de una viuda analfabeta
+la ubicación se sigue. Cuando la mano automática de una viuda analfabeta
 produce décadas de oráculos internamente coherentes que anuncian la
 reconstrucción del mundo, la nula sigue disponible —la grafomanía
 disociativa es un fenómeno documentado—, pero predice peor el
@@ -462,18 +465,31 @@ probable, probable, improbable, muy improbable—, y los niveles son
 ordinales a propósito. El corpus no asigna puntuaciones numéricas, por
 la razón que expone la nota sobre Bayes: en la argumentación histórica,
 números tan blandos no añaden precisión, la suplantan.{{ footnote(id="8") }}
-Tres reglas estructurales completan el instrumento. Primera, *el nivel
-canónico lo cierra el propio canon*: el judaísmo, el cristianismo, el
-islam, el budismo, el mormonismo y el raelismo son canónicos porque los
-libros fundacionales los nombran
-—{% libref(book="the-book-which-tells-the-truth", chapter=5, verse=54) %}«la religión budista, la islámica, los mormones»{% end %},
-el orden de los asientos en la comida, Joseph Smith incluido entre «todos
-los demás grandes profetas» en LWTE 3:27—, y el instrumento ni elige
+La escala es un recurso del corpus, no del canon. El canon nombra a
+algunos mensajeros y no da niveles; los niveles son una heurística para
+organizar la comparación —dónde lee el corpus con atención y qué pone
+junto a qué—, no una clasificación del canon ni un veredicto de que el
+contacto fundacional de una tradición ocurriera o no. Tres reglas
+estructurales completan el instrumento. Primera, *la etiqueta canónica
+recoge la propia nominación del canon; no es una calificación*: el
+judaísmo, el cristianismo, el islam y el budismo están ahí porque el
+mensaje dictado nombra a sus figuras fundadoras —Moisés, Elías, Jesús,
+Buda y Mahoma en la comida (ETTMTTP 2:62–64); Moisés, Ezequiel, Elías,
+Jesús, Mahoma y Buda como predecesores del
+{% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=257) %}«último del linaje de los profetas»{% end %}—,
+y el raelismo está ahí como el propio canon. El instrumento ni elige
 miembros para ese nivel ni los introduce en él por auditoría. Su
 jurisdicción son los niveles abiertos, que es exactamente la jurisdicción
-que tenían los criterios de Atanasio. Segunda, *las clasificaciones son
-de doble libro*: un nivel de autenticidad es un veredicto sobre una
-narración fundacional, nunca sobre el valor espiritual, ético o cultural
+que tenían los criterios de Atanasio. El mormonismo no se califica como
+canónico. Joseph Smith es nombrado entre los enviados solo en el propio
+comentario de Raël en el tercer libro (LWTE 3:27), y el libro fundacional
+enumera «los mormones» entre las religiones que aluden a los creadores
+«más o menos claramente», junto a la mitología griega y las religiones
+budista e islámica (TBWTT 5:54); ninguno de los dos pasajes califica
+nada, y el corpus no emite ningún veredicto de autenticidad sobre la
+fundación SUD. Segunda, *las clasificaciones son de doble libro*: un
+nivel es una posición de trabajo sobre una narración fundacional, nunca
+un juicio sobre el valor espiritual, ético o cultural
 de una tradición viva o de sus practicantes; el catálogo lo dice con su
 propia voz y el instrumento lo repite, porque la distinción es la
 diferencia entre el método comparativo y la contabilidad sectaria.
@@ -483,7 +499,7 @@ evidencia; y la sección de frontera, más abajo, existe porque el
 instrumento genera su propio orden del día de casos que revisar.
 
 Un límite más, porque evita toda una familia de confusiones: el
-instrumento mide la autenticidad del origen, y solo del origen. No mide
+instrumento compara orígenes, y solo orígenes. No mide
 el éxito, el tamaño, la longevidad ni el beneficio social —eso lo mide el
 modelo de Stark, y según los criterios de Stark una tradición puede
 florecer magníficamente sobre una fundación fabricada o marchitarse sobre
@@ -499,7 +515,7 @@ segundo orden: las entregas se parecen entre sí. Bajo la enorme variedad
 de idiomas —alianza en una montaña del desierto, dharma bajo una higuera,
 recitación en una cueva de La Meca, planchas de una colina de Nueva York,
 seis mañanas en un cráter de Auvernia—, los depósitos fundacionales de
-las tradiciones que el marco califica más alto portan un conjunto pequeño
+las tradiciones que el corpus pone lado a lado portan un conjunto pequeño
 y estable de rasgos recurrentes. El corpus llama a ese conjunto la
 filigrana, según la analogía que la palabra ofrece: una marca trabajada
 en el papel durante su fabricación, fácil de pasar por alto en la lectura
@@ -539,8 +555,7 @@ tradición puede ocupar un nivel canónico mientras su institución madura
 es, según el propio relato del canon, un monumento erigido encima de
 aquello que se construyó para transmitir. El registro de cuestiones
 abiertas del catálogo ya practica la distinción, al mantener el contacto
-fundacional de Smith separado de la institución SUD posterior, y el
-contacto de Jesús separado de la Iglesia de la era de los concilios; la
+de Jesús separado de la Iglesia de la era de los concilios; la
 sección de la filigrana enuncia la regla subyacente: el nivel pertenece
 al estrato, nunca a la sobrecarga.
 
@@ -741,20 +756,20 @@ se degradan bajo custodia humana; el canon lo dice con su propia voz) y
 la nula (las instituciones humanas derivan; la sociología lo dice con la
 suya), y un dato que ambas hipótesis predicen no puede discriminar entre
 ellas. Una Iglesia corrupta ni condena ni absuelve su fundación; solo la
-fundación condena o absuelve a la fundación. Tercero, afila los
-veredictos negativos que siguen: el hallazgo decisivo contra una
+fundación condena o absuelve a la fundación. Tercero, afila las
+ubicaciones negativas que siguen: el hallazgo decisivo contra una
 tradición fabricada nunca es que su institución decayera —¿la de quién
 no?—, sino que su estrato fundacional, perforado directamente, carece ya
 de la filigrana.
 
 ## El control negativo: la Cienciología en el banco de pruebas
 
-Un instrumento se calibra en ambos extremos. Los seis canónicos anclan el
-extremo positivo por estipulación; el extremo negativo necesita un caso
+Un instrumento se calibra en ambos extremos. Las tradiciones nombradas por
+el canon anclan el extremo positivo por la propia nominación del canon; el
+extremo negativo necesita un caso
 lo bastante rico en documentación como para someterlo en público a las
-seis pruebas, y el veredicto negativo más fuerte del catálogo —la
-Cienciología, muy improbable— es exactamente ese caso. El veredicto
-merece algo mejor que una mueca de desdén, porque nada desacredita un
+seis pruebas, y la ubicación más baja del catálogo —la Cienciología, muy
+improbable— es exactamente ese caso. La ubicación merece algo mejor que una mueca de desdén, porque nada desacredita un
 método más deprisa que tratar sus conclusiones como cosa juzgada.
 
 *Prueba 1 — especificidad del contacto.* El documento fundacional del
@@ -788,8 +803,8 @@ propia bibliografía de Hubbard. Había sido escritor profesional de
 década antes de *Dianética*; el material de la línea temporal completa
 es continuo en idioma, en atrezo y en reflejos narrativos con la ficción
 que le pagaban por palabra. Allí donde el contenido cosmológico del
-Libro de Mormón excede lo que la estantería de un peón agrícola del norte
-del estado de Nueva York puede explicar con facilidad, el contenido de
+Libro de Mormón es difícil de rastrear hasta la estantería de un peón
+agrícola del norte del estado de Nueva York, el contenido de
 OT III está *predicho* por la estantería de su autor, pieza por pieza. En
 la Prueba 2 la tradición no puntúa bajo; puntúa en negativo, porque el
 depósito es evidencia afirmativa a favor de la nula.
@@ -820,8 +835,8 @@ de custodia perfecta es un sistema de entrega perfecto para lo que sea
 que esté en su cabecera. La cadena de custodia de la Cienciología
 condena su carga, y eso es el instrumento funcionando exactamente según
 su diseño: las pruebas operan de forma conjuntiva, y ninguna prueba
-aislada —ni siquiera una puntuación perfecta en una— sostiene un
-veredicto por sí sola.
+aislada —ni siquiera una puntuación perfecta en una— sostiene una
+ubicación por sí sola.
 
 *Prueba 5 — la hipótesis nula.* La nula aquí no está simplemente
 disponible; es la explicación mejor documentada de cualquier fundación
@@ -844,12 +859,12 @@ se revela solo en los niveles superiores tras años de preparación: la
 mistificación como modelo de negocio, la inversión estructural precisa
 de un mensaje que pide ser comprendido y no creído.
 
-Veredicto: muy improbable, en seis pruebas de seis, varias de ellas con
+Ubicación: muy improbable, en seis pruebas de seis, varias de ellas con
 evidencia afirmativa de fabricación y no mera ausencia de evidencia de
 contacto. Y una aclaración que exige la regla del doble libro: nada de
 esto es un hallazgo sobre los cienciólogos, muchos de los cuales
 declaran un beneficio real de prácticas cuya narración fundacional quizá
-nunca se les haya mostrado. El veredicto versa sobre una narración
+nunca se les haya mostrado. La ubicación versa sobre una narración
 fundacional, alcanzado mediante pruebas enunciadas de antemano; y las
 mismas pruebas, aplicadas a Thelema, devuelven la nula del estado
 alterado (una «recepción» fundacional plenamente continua con la
@@ -876,8 +891,9 @@ Dos movimientos que se profesionalizaron pronto, se enfrentaron a sus
 gobiernos, enterraron a sus fundadores como profetas y construyeron
 instituciones mundiales. El veredicto popular —*sectas, las dos*— y el
 perezoso veredicto ecuménico —*religiones, las dos, quién puede
-decirlo*— coinciden en negarse a distinguirlas. El instrumento las
-distingue en todas las pruebas.
+decirlo*— coinciden en negarse a distinguirlas. El instrumento separa sus
+perfiles probatorios en todas las pruebas, lo cual no equivale a
+autenticar a ninguno de los dos.
 
 Allí donde el documento fundacional de Hubbard anuncia una ciencia y
 rellena a posteriori una revelación, el de Smith anuncia una revelación
@@ -889,8 +905,8 @@ que las planchas fueron entregadas en 1827: un *calendario*, la firma del
 género que comparte la propia fundación del canon, hasta las seis
 mañanas consecutivas sobre Clermont-Ferrand. Allí donde la carga de
 Hubbard está predicha por su propia bibliografía, la carga de Smith es
-la anomalía que el catálogo del marco señala como razón de la lectura
-canónica: un Dios tangible y corpóreo; humanos exaltados que se
+el rasgo que el catálogo señala como la semejanza más cercana con la
+cosmología del canon: un Dios tangible y corpóreo; humanos exaltados que se
 convierten a su vez en dioses; un Cristo que ha visitado «incontables
 mundos»; una región estelar con nombre, Kolob, asociada a la
 administración divina: teología de la pluralidad de los mundos,
@@ -900,11 +916,12 @@ estructural y doctrinalmente central, de un peón agrícola de la década de
 venían imprimiendo desde 1686, y Thomas Paine volvió la idea contra la
 redención cristiana en *La edad de la razón*. El peso de la carga recae,
 por tanto, en la divinidad corpórea, plural y ascendente más que en los
-mundos por sí solos, y esa divinidad apunta con desconcertante franqueza
-a la arquitectura cósmica que los libros raelianos describirían en 1973. La
-lectura {% wiki(slug="elohim") %}Elohim{% end %} del corpus sobre el
-depósito SUD se desarrolla en el catálogo y en sus entradas asociadas; lo
-que importa aquí es la *forma* de la puntuación: contenido que el entorno
+mundos por sí solos, y esa divinidad se asemeja de cerca a la arquitectura
+cósmica que los libros raelianos describirían en 1973. El corpus consigna
+la semejanza solo como semejanza —no como dependencia, no como identidad de
+referentes y no como evidencia de que la fundación SUD fuera un contacto—;
+la comparación se expone en la entrada
+{% wiki(slug="joseph-smith") %}Joseph Smith{% end %}. Lo que importa aquí es la *forma* de la puntuación: contenido que el entorno
 del fundador apenas puede suministrar, en el lugar donde la propia
 tradición carga su mayor peso.
 
@@ -921,34 +938,37 @@ apoya precisamente porque no es apologética, las expone sin pestañear.
 Pero *atestación complicada* y *atestación falseada* son hallazgos
 distintos, y el expediente de Hubbard contiene el segundo: allí donde el
 registro externo toca la historia de Smith, la enturbia; allí donde toca
-la de Hubbard, la rompe. En la Prueba 5, la hipótesis nula se tensa
-contra el depósito mormón —la lectura del fraude debe explicar que los
-testigos no se retractaran, la velocidad de composición y, sobre todo,
-el peso específico de la carga— y se relaja cómodamente en torno al
-cienciológico. Y en la Prueba 6 los dos ni siquiera están bajo la
+la de Hubbard, la rompe. En la Prueba 5, la lectura del fraude tiene más
+que explicar en el expediente mormón —que los testigos no se retractaran,
+la velocidad de composición, el peso específico de la carga— que en el
+cienciológico, en torno al cual se relaja cómodamente. Y en la Prueba 6 los dos ni siquiera están bajo la
 jurisdicción de la misma era: Smith habló antes de 1945, en el
-vocabulario religioso que su audiencia podía procesar, exactamente como
-el marco espera de un {% wiki(slug="prophet") %}profeta{% end %} genuino
-anterior al Apocalipsis; Hubbard habló después, y eligió la habitación
+vocabulario religioso que su audiencia podía procesar —el registro que el
+canon asigna a los {% wiki(slug="prophet") %}profetas{% end %} anteriores
+al Apocalipsis—; Hubbard habló después, y eligió la habitación
 sellada.
 
 Jan Shipps dedicó una carrera a sostener que el mormonismo debe
 estudiarse como una genuina *nueva tradición religiosa*, del modo en que
 se estudia el surgimiento del cristianismo primitivo a partir del
 judaísmo, no del modo en que se estudia una estafa. El instrumento llega
-al respeto de Shipps por medios forenses, y llega al veredicto opuesto,
-en la casa de al lado, por los mismos medios. Ese doble resultado —las
+al respeto de Shipps por medios forenses —un expediente fundacional que se
+enturbia pero no se rompe allí donde lo toca el registro externo— y se
+detiene ahí: no emite ningún veredicto de autenticidad sobre la fundación
+SUD, y no identifica a los personajes de los relatos de Smith, Moroni entre
+ellos, con los Elohim ni con sus emisarios. En la casa de al lado, las
+mismas pruebas sitúan a la Cienciología en el fondo de la escala. Ese doble
+resultado —las
 mismas seis pruebas, aplicadas en público, separando a la pareja
 estadounidense que la taxonomía popular no logra dividir— es la
-calibración que da derecho al instrumento a opinar sobre casos más
-difíciles.
+calibración que da derecho al instrumento a ordenar casos más difíciles.
 
 ## Los custodios: legitimidad sin profeta
 
 Leído deprisa, el catálogo sugiere que cada entrada es un fundador más
-un veredicto, y esa lectura pasaría por alto una categoría que el propio
+un nivel, y esa lectura pasaría por alto una categoría que el propio
 canon impone al instrumento. El quinto capítulo del libro fundacional, en
-el mismo aliento en que nombra las tradiciones confirmadas, concede su
+el mismo aliento en que nombra religiones que aluden a los creadores, concede su
 mayor elogio a algo que no es en absoluto una religión fundada por un
 profeta:
 
@@ -1058,22 +1078,23 @@ limpio de todo el catálogo— ya le valen a la tradición su nivel de muy
 probable. La pregunta especulativa es más afilada: ¿qué *haría falta*
 para hacer ascender a una tradición?; y la respuesta honesta del
 instrumento deja al descubierto la arquitectura: nada podría llevarla a
-canónico, porque ese nivel está cerrado por la nominación del canon, y
-ninguna acumulación de virtud forense sustituye a una frase en los libros
-fundacionales. Los niveles miden dos cosas distintas en su cúspide y en
-su zona media —la pertenencia canónica por estipulación, todo lo demás
-por evidencia—, y decirlo en voz alta es el precio de la honestidad que
+canónico, porque esa etiqueta recoge la propia nominación de mensajeros
+por el canon, y ninguna acumulación de virtud forense sustituye a una
+frase en el mensaje dictado. La escala recoge dos cosas distintas en su
+cúspide y en su zona media —la nominación del canon en la cúspide, las
+posiciones comparativas del corpus en todo lo demás—, y decirlo en voz alta es el precio de la honestidad que
 la siguiente sección paga por completo.
 
 **El sucesor preanunciado.** Un caso de frontera lo genera el canon y no
 el catálogo retrospectivo de la historia. Dos tradiciones de los niveles
 superiores del catálogo mantienen una figura futura *nombrada y
 programada* —el Maitreya del budismo, el Kalki del hinduismo
-vaisnava—, y el segundo libro del canon se cierra reivindicando
-explícitamente la expectativa budista:
-{% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=228) %}«vuestros escritos indican que el nuevo Buda debe nacer en Occidente; ¡reconoced los signos previstos!»{% end %}
+vaisnava—, y el segundo libro del canon se cierra dirigiéndose a
+la expectativa budista con sus propias palabras, sin nombrar a ninguna
+figura:
+{% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=228) %}«tus escritos indican que el nuevo Buda debe nacer en Occidente; ¡reconoce los signos previstos!»{% end %}
 Una profetología con unas cuarenta sillas y un
-{% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=257) %}«último de la línea de los profetas»{% end %}
+{% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=257) %}«último del linaje de los profetas»{% end %}
 tiene un interés estructural en las figuras de expectativa: son las
 sillas que las propias tradiciones dejaron visiblemente vacías, las
 tarjetas de reserva sobre la mesa. El instrumento no puede decir nada de
@@ -1088,7 +1109,7 @@ Cuatro objeciones llevan desde la primera sección de pie al fondo de la
 sala, y cada una merece su respuesta a la vista de todos.
 
 **Circularidad.** *El instrumento está calibrado con el canon al que
-sirve; las seis tradiciones canónicas son canónicas porque el canon las
+sirve; las tradiciones canónicas son canónicas porque el canon las
 nombra; la prueba de la carga define la «señal» como semejanza con la
 propia cosmología del canon. La regla está calibrada con la cosa que
 mide.* Todo cierto, y la sección de historia natural se escribió para
@@ -1114,7 +1135,7 @@ comparativo de cualquier confesión.
 **Infalsabilidad.** *Un marco que puede clasificar cualquier tradición
 en algún sitio no ha explicado nada.* Pero los niveles no son un arcoíris
 de complacencia; son una escala con un fondo, y el fondo está ocupado. El
-instrumento devuelve veredictos negativos, expone la evidencia y
+instrumento devuelve ubicaciones negativas, expone la evidencia y
 especifica qué los anularía: un manuscrito de OT III materialmente
 anterior a la carrera pulp de Hubbard haría saltar por los aires el
 expediente de la Cienciología, y el corpus debería la revisión. Ya ha
@@ -1124,23 +1145,27 @@ impresa de 1957 la llevó a cabo este proyecto, sobre su propia
 escritura, y la publicó. Los marcos alérgicos a la falsación no financian
 trabajo forense sobre sus propios libros fundacionales.
 
-**La ceja alzada ante los mormones.** *El mormonismo en canónico
-mientras la Fe Bahá'í —reivindicaciones más antiguas de la misma
+**La ceja alzada ante los mormones.** *Joseph Smith nombrado entre los
+enviados mientras la Fe Bahá'í —reivindicaciones más antiguas de la misma
 estructura de revelación progresiva, un historial de persecución
 muchísimo mejor documentado, sin implicaciones de testigos que hagan
-alzar la ceja— se sitúa un nivel por debajo: ¿no se limita el catálogo a
-transcribir el índice del canon?* Sí. Eso es lo que *es* el nivel
-cerrado, y la arquitectura honesta consiste en decirlo, en lugar de
-añadir a posteriori justificaciones forenses a una pertenencia fijada por
-estipulación. La integridad del instrumento vive en los niveles
+alzar la ceja— queda sin nombrar: ¿no se limita el catálogo a transcribir
+el índice del canon?* En la cúspide, sí. La etiqueta canónica *es* la
+propia nominación del canon, y la arquitectura honesta consiste en
+decirlo, en lugar de añadirle a posteriori justificaciones forenses. Esa
+es también la razón por la que el mormonismo no lleva la etiqueta: el
+nombre de Smith figura en el comentario de Raël (LWTE 3:27), no entre los
+invitados y los predecesores del mensaje dictado, y el corpus ni convierte
+el comentario en una calificación ni emite un veredicto de autenticidad
+sobre la fundación SUD. La integridad del instrumento vive en los niveles
 abiertos, y la entrada bahá'í es su escaparate, en ambas direcciones: las
 pruebas puntúan con generosidad el depósito bahá'í —textura de Prueba 1
 en las narraciones del Síyáh-Chál y del Riḍván, una carga de revelación
 serializada y programa de unidad mundial, custodia a través de un corpus
 autorial inusualmente bien conservado, trazabilidad a través de los
-archivos diplomáticos de sus perseguidores—, y nada salvo la puerta
-cerrada la mantiene fuera del nivel superior. Un crítico que encuentre
-arbitraria esa puerta ha entendido correctamente el marco: es el marco de
+archivos diplomáticos de sus perseguidores—, y nada salvo el silencio
+del canon la mantiene fuera del nivel superior. Un crítico que encuentre
+arbitraria esa línea ha entendido correctamente el marco: es el marco de
 una religión, con un elemento revelado que ningún instrumento genera. La
 apuesta del marco es que asumir abiertamente la estipulación es más
 científico —en el único sentido que «científico» puede soportar en
@@ -1184,8 +1209,8 @@ La lista nunca estará terminada. Hubo tradiciones que murieron sin
 escritura en los Andes y en la estepa, y ningún método puede identificar
 sus sillas; la salida honesta del instrumento para ellas es el silencio,
 no el cierre. Lo que sí puede terminarse —lo que, con este artículo,
-consta ya sustancialmente en el registro— es el método: cada veredicto
-argumentado a partir de pruebas enunciadas, cada prueba rastreable hasta
+consta ya sustancialmente en el registro— es el método: cada ubicación
+argumentada a partir de pruebas enunciadas, cada prueba rastreable hasta
 una disciplina con su literatura, cada premisa etiquetada, cada hallazgo
 negativo falsable, cada auditoría llevada a cabo incluso cuando corta al
 auditor. Cincuenta años de investigación sobre los nuevos movimientos
@@ -1193,13 +1218,14 @@ religiosos se han preguntado, con genuina perplejidad, qué clase de
 religión insiste en ser también una ciencia. He aquí una respuesta
 operativa: la clase que, cuando se le pregunta *qué religiones son
 reales*, se niega a responder con un dogma o con un encogimiento de
-hombros, y publica en su lugar su instrumento.
+hombros, y publica en su lugar el instrumento con el que las compara,
+etiquetado como propio.
 
 ## Lecturas adicionales
 
 - La {% wiki(slug="list-of-prophets-and-religions") %}lista de profetas
-  y religiones{% end %}, el catálogo de referencia cuya escala de cinco
-  niveles y cuyos criterios formaliza este artículo, incluidas las tablas
+  y religiones{% end %}, el catálogo de referencia cuya escala comparativa
+  de cinco niveles y cuyos criterios formaliza este artículo, incluidas las tablas
   completas que este artículo deliberadamente no duplica.
 - Las entradas {% wiki(slug="prophet") %}profeta{% end %} y
   {% wiki(slug="forerunners") %}precursores{% end %}, para la profetología
@@ -1228,5 +1254,5 @@ hombros, y publica en su lugar su instrumento.
   planeta*](/library/extraterrestrials-took-me-to-their-planet/) y
   [*El Libro que dice la
   Verdad*](/library/the-book-which-tells-the-truth/), para la comida de los
-  cuarenta y la nominación de las tradiciones confirmadas en las
+  cuarenta y la nominación de los mensajeros en las
   narraciones primarias.

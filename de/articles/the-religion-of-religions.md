@@ -653,8 +653,8 @@ Raëlismus sind die jungen universalistischen Religionen des Industriezeitalters
 und drei von ihnen machen den Vergleich präzise — präzise genug, dass dieses
 Projekt Übersetzungen ihrer Gründungstexte neben dem raëlianischen Kanon
 pflegt. Der eigene {% wiki(slug="list-of-prophets-and-religions") %}Katalog
-der Propheten und Religionen{% end %} des Korpus verzeichnet alle drei bereits
-in seiner zweithöchsten Authentizitätsstufe; was folgt, liest sie
+der Propheten und Religionen{% end %} des Korpus ordnet alle drei bereits
+in die zweite Stufe seiner Vergleichsskala ein (die eigene Heuristik des Korpus, keine Rangordnung des Kanons). Was folgt, liest sie
 nebeneinander, in ihren eigenen Worten, als die nächsten Verwandten des Kanons.
 
 **Der Bahá'í-Glaube** (verkündet 1863) ist der Musterfall. Aus der

@@ -22,7 +22,7 @@ references = [
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition collecting all three messages; the parable of the sower read as multiple creations, the cosmic competition of humanities, and the inheritance" },
 
     # — The framework as the project has articulated it —
-    { title = "Cosmic Competition — Wheel of Heaven wiki (the multiple-humanities framework: Earth as one of several humanities evaluated for the inheritance; the non-adversarial reading)", author = "Wheel of Heaven", date = "2026" },
+    { title = "Cosmic Competition — Wheel of Heaven wiki (the multiple-humanities framework: Earth as one of several humanities evaluated for the inheritance)", author = "Wheel of Heaven", date = "2026" },
     { title = "Saṃsāra — Wheel of Heaven wiki (the civilizational rereading of the cycle: rise to scientific capacity, then escape or fall back to the primitive state)", author = "Wheel of Heaven", date = "2026" },
     { title = "Golden Age — Wheel of Heaven wiki (the operational form of life available if the Aquarian-age threshold is navigated successfully)", author = "Wheel of Heaven", date = "2026" },
     { title = "Cosmic Chain — Wheel of Heaven wiki (the indefinitely extended sequence of created-and-creating civilizations)", author = "Wheel of Heaven", date = "2026" },
@@ -204,7 +204,7 @@ Wheel of Heaven のプロジェクトは、その像の諸部分に名をもっ�
 
 ## さらに読む
 
-- [宇宙的競争](/wiki/cosmic-competition/) — 複数の人類の枠組み。継承のために創造され評価される複数の人類のうちの一つとしての地球、そして「競争」の非敵対的な読み。
+- [宇宙的競争](/wiki/cosmic-competition/) — 複数の人類の枠組み。継承のために創造され評価される複数の人類のうちの一つとしての地球。
 - [サンサーラ](/wiki/samsara/) — 循環の文明的な読み直し。科学的な能力への上昇、それから黄金時代への脱出、あるいは原始の状態への転落。
 - [黄金時代](/wiki/golden-age/) — 人類が水瓶座の時代の閾を切り抜けた場合に手に入るようになる、生の作動的な形態。
 - [黙示録](/wiki/apocalypse/) — 啓示の時代、1945年に定められる。有機体の神経系が、自らを終わらせる力と並んで点火した瞬間。

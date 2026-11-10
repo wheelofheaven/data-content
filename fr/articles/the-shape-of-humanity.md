@@ -22,7 +22,7 @@ references = [
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition collecting all three messages; the parable of the sower read as multiple creations, the cosmic competition of humanities, and the inheritance" },
 
     # — The framework as the project has articulated it —
-    { title = "Cosmic Competition — Wheel of Heaven wiki (the multiple-humanities framework: Earth as one of several humanities evaluated for the inheritance; the non-adversarial reading)", author = "Wheel of Heaven", date = "2026" },
+    { title = "Cosmic Competition — Wheel of Heaven wiki (the multiple-humanities framework: Earth as one of several humanities evaluated for the inheritance)", author = "Wheel of Heaven", date = "2026" },
     { title = "Saṃsāra — Wheel of Heaven wiki (the civilizational rereading of the cycle: rise to scientific capacity, then escape or fall back to the primitive state)", author = "Wheel of Heaven", date = "2026" },
     { title = "Golden Age — Wheel of Heaven wiki (the operational form of life available if the Aquarian-age threshold is navigated successfully)", author = "Wheel of Heaven", date = "2026" },
     { title = "Cosmic Chain — Wheel of Heaven wiki (the indefinitely extended sequence of created-and-creating civilizations)", author = "Wheel of Heaven", date = "2026" },
@@ -767,7 +767,7 @@ diviser à dessein.
 
 - [Compétition Cosmique](/wiki/cosmic-competition/) — le cadre des humanités
   multiples : la Terre comme l'une de plusieurs humanités créées et évaluées
-  pour l'héritage, et la lecture non conflictuelle de la « compétition ».
+  pour l'héritage.
 - [Saṃsāra](/wiki/samsara/) — la relecture civilisationnelle du cycle :
   l'essor jusqu'à la capacité scientifique, puis l'évasion dans l'Âge d'or ou
   la rechute vers l'état primitif.

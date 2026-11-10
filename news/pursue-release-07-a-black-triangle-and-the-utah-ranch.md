@@ -11,8 +11,8 @@ claim_type = "inferred"
 core_claim_ids = ["woh-claim-0057"]
 core_versions = { woh-claim-0057 = "0.1.0" }
 editorial_pass = "2026-05"
-summary = "Five weeks after Release 06, the U.S. Department of War posted Release 07 at war.gov/UFO: 28 documents and nothing else — no video, no audio, no images — the smallest tranche so far and the first made entirely of paper. Twenty-five files come from the Department itself, one from the FBI, one from the Executive Office of the President, and one carries a new \"U.S. Government\" prefix. The lead file is recent: an All-domain Anomaly Resolution Office debrief of federal agents who watched a matte-black triangle rise silently over a ridge at a sensitive site in the western United States in June 2026, hover, and dive into a canyon — published four months after the event, with an FBI interview record that disagrees with it on duration, size, and heat. Behind it sits the operating record of the contractor that ran the Defense Intelligence Agency's AAWSAP program in 2008–2010: its plans to acquire recovered hardware and biological samples, an underground vault designed to hold them, a deployment to Brazil, a data warehouse of 234,364 sighting reports, and its investigation of a Utah ranch whose \"Skinwalker\" hair samples came back as the witness's own dog. A 1962–1964 White House file shows the government drafting procedures for objects that fall from space, with NASA as the public face and the Department of Defense as the analyst. The corpus reads Release 07 as the seventh datable point on the disclosure curve the Age of Aquarius §IX predicts for the 2026–2030 window."
-filed_under = "Signs of Acceleration"
+summary = "Five weeks after Release 06, the U.S. Department of War posted Release 07 at war.gov/UFO: 28 documents and nothing else — no video, no audio, no images — the smallest tranche so far and the first made entirely of paper. Twenty-five files come from the Department itself, one from the FBI, one from the Executive Office of the President, and one carries a new \"U.S. Government\" prefix. The lead file is recent: an All-domain Anomaly Resolution Office debrief of federal agents who watched a matte-black triangle rise silently over a ridge at a sensitive site in the western United States in June 2026, hover, and dive into a canyon — published four months after the event, with an FBI interview record that disagrees with it on duration, size, and heat. Behind it sits the operating record of the contractor that ran the Defense Intelligence Agency's AAWSAP program in 2008–2010: its plans to acquire recovered hardware and biological samples, an underground vault designed to hold them, a deployment to Brazil, a data warehouse of 234,364 sighting reports, and its investigation of a Utah ranch whose \"Skinwalker\" hair samples came back as the witness's own dog. A 1962–1964 White House file shows the government drafting procedures for objects that fall from space, with NASA as the public face and the Department of Defense as the analyst. The corpus registers Release 07 as context for reading the canon, not as a sign of the return."
+filed_under = "The Context of the Present"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "Age of Aquarius", path = "/timeline/age-of-aquarius/" },
@@ -40,7 +40,7 @@ sources = [
 ]
 +++
 
-*Filed under: Signs of Acceleration. Cross-reference: [Age of Aquarius](/timeline/age-of-aquarius/), §IX. Previous dispatches: [PURSUE Release 01](/news/pursue-release-01-uap-files/), [PURSUE Release 02](/news/pursue-release-02-spheres-and-transmedium/), [PURSUE Release 03](/news/pursue-release-03-multi-agency-and-international/), [PURSUE Release 04](/news/pursue-release-04-the-nuclear-nexus/), [PURSUE Release 05](/news/pursue-release-05-triangles-and-the-white-house-file/), [PURSUE Release 06](/news/pursue-release-06-warp-drives-and-the-tremonton-film/).*
+*Filed under: The Context of the Present. Cross-reference: [Age of Aquarius](/timeline/age-of-aquarius/), §IX. Previous dispatches: [PURSUE Release 01](/news/pursue-release-01-uap-files/), [PURSUE Release 02](/news/pursue-release-02-spheres-and-transmedium/), [PURSUE Release 03](/news/pursue-release-03-multi-agency-and-international/), [PURSUE Release 04](/news/pursue-release-04-the-nuclear-nexus/), [PURSUE Release 05](/news/pursue-release-05-triangles-and-the-white-house-file/), [PURSUE Release 06](/news/pursue-release-06-warp-drives-and-the-tremonton-film/).*
 
 ## What was released
 
@@ -82,7 +82,7 @@ Three cautions attach to the headline material. First, every claim about recover
 
 ## Where this sits in the Wheel of Heaven framework
 
-The [Age of Aquarius](/timeline/age-of-aquarius/) chapter treats the sequence of official UAP engagements as the first of the age's Signs of Acceleration (§IX). The first six dispatches read Releases 01–06 as the first six datable points on the disclosure curve the corpus places in the 2026–2030 window. Release 07 is the seventh.
+The [Age of Aquarius](/timeline/age-of-aquarius/) chapter lists the sequence of official UAP engagements among the changes that make up the context of the present (§IX), and treats them as context, not signs. Release 07 belongs to that context. The contact the canon anticipates is official, conditional, and undated, and no file release moves it.
 
 **Wheel of Heaven interpretation, marked as such.** Two items carry the framework's interest. The first is the 1962–1964 fragments file. The canon's account of the [Elohim](/wiki/elohim/) is an account of visitors from elsewhere whose presence, when it is acknowledged, is acknowledged by governments — and here is a government, at the start of the space age, writing down in draft what it would do when an object of uncertain origin came into its hands: hold it for intelligence analysis, show the public a civilian agency, return it only if it seemed harmless, and decline to speculate on where it came from. The file is about Soviet and American hardware, and the corpus reads it as nothing more. It is still the clearest record yet published of how the American state planned to handle the question of origin, and its public rule — never conjecture — is the posture the corpus has watched the government hold for sixty years.
 
@@ -150,7 +150,7 @@ The [program's hub entry](/wiki/pursue/) has tracked one open edge since August:
 
 7. **The Roswell claims need sorting.** Some coverage reported a Roswell witness affidavit inside Colonel McCoy's personnel file; the file contains none. The release does contain a Roswell affidavit — as an exhibit in the 2008 BAASS plan, supplied by an adviser, describing events the affiant said he witnessed in 1947, and already public since 2007. It is a contractor's research material and the release presents it as nothing else.
 
-8. **The cadence is now seven instances.** Intervals of two, three, four, four, six, and five weeks. A single small tranche is a datum, not a trend, and the multi-year durability the framework treats as the load-bearing test remains untested. The next data point is Release 08.
+8. **The cadence is now seven instances.** Intervals of two, three, four, four, six, and five weeks. A single small tranche is a datum, not a trend, and the multi-year durability that is the program's load-bearing test remains untested. The next data point is Release 08.
 
 ---
 

@@ -29,7 +29,7 @@ footnotes = [
     { content = "The source's identification of the embassy with the Jewish prophetic-apocalyptic Third Temple is explicit. In Jewish expectation the Third Temple succeeds the Solomonic First Temple (built c. 950 BCE, destroyed 586 BCE) and the Second Temple (built c. 516 BCE, expanded by Herod, destroyed 70 CE); the identification maps the embassy onto that expectation without superseding it, and the corpus draws no line of reception sites running from those temples to the embassy (the canon calls Solomon's Temple « la première résidence pour l'accueil des Elohim », TBWTT-3:102, but says nothing of a succession). Mainstream Jewish tradition does not accept the identification; the corpus registers it as the source's explicit claim, not a mainstream-endorsed reading. The corpus reads Ezekiel 47:1–2 (waters issuing from the temple threshold) as the prefiguration of the embassy's projected role." },
     { content = "The original preference was Israel near Jerusalem — the site of the alliance's original Eden operation and the extended Eden-lineage project. After repeated Israeli refusals across formal requests from 1991 onward, the December 13, 1997 message from Yahweh authorised the Raëlian movement to seek extraterritorial status from 'all nations on Earth,' with Israel retaining only a final option. The corpus treats the location question as source-grounded but unsettled in practice." },
     { content = "The corpus engages the UAP-disclosure discourse (the 2017 New York Times AATIP revelations; Luis Elizondo's *Imminent*; David Grusch's 2023 congressional testimony; Avi Loeb's Galileo Project and ʻOumuamua argument; the Sol Foundation) as the present-day context within which the embassy's projected open contact would occur — without claiming the UAP phenomena are the Elohim alliance or that the disclosure movement endorses the embassy. The corpus reads the trajectory as a shift in the plausibility conditions for open extraterrestrial contact, not as confirmation of the framework." },
-    { content = "The returning-figure expectations compared here are the Jewish Messiah and Third Temple, the Christian Parousia, the Islamic Mahdi, the Hindu Kalki avatar, the Zoroastrian Saoshyant and the Aztec Quetzalcoatl-return. Only the Third Temple is identified with the embassy by the canon itself (see note 3); the corpus does not identify the other expectations with the canon's return, and preserves each tradition's distinct theological content." },
+    { content = "The returning-figure expectations compared here are the Jewish Messiah and Third Temple, the Christian Parousia, the Islamic Mahdi, the Buddhist Maitreya, the Hindu Kalki avatar, the Zoroastrian Saoshyant and the Aztec Quetzalcoatl-return. Only the Third Temple is identified with the embassy by the canon itself (see note 3). The canon addresses the Buddhist expectation in its own words — 'your writings indicate that the new Buddha must be born in the West' (ETTMTTP-3:228) — without the name Maitreya, which comes from Raël's post-canon writings. The corpus records the expectations' resemblance to the canon's return as resemblance only: it does not identify them with the canon's return, does not treat them as evidence of an underlying reality, and preserves each tradition's distinct theological content." },
 ]
 
 [[extra.references]]
@@ -294,7 +294,7 @@ It includes:
 
 **Political-philosophical content.** The cosmic-political situation, the Cosmic Chain framework, and the alliance's political and ethical traditions, as context for humanity's role as a future creator civilization.
 
-**Confirmation of the corpus.** The alliance's testimony will confirm or correct the corpus — the Genesis 1 creation framework, the age-specific operations, the seven creator teams and seven races, the cosmology.
+**Confirmation of the corpus.** The alliance's testimony will confirm or correct the corpus — the Genesis 1 creation framework, the age-specific operations, the creator teams and the human races (seven on the corpus's inference), the cosmology.
 
 **Start of the ongoing arrangement.** It inaugurates the millennia-long arrangement between alliance and humanity, the embassy its center across the following centuries.
 
@@ -428,7 +428,7 @@ The corpus's embassy framework is thus source-grounded in Raëlian material, eng
 
 ## Comparative observations
 
-Anticipated-return traditions appear across cultures worldwide, with structural parallels to the embassy reading. The corpus reads the pattern as evidence of operational realities preserved in fragmentary form across the traditions.
+Anticipated-return traditions appear across cultures worldwide, with structural parallels to the embassy reading. The corpus records the parallels as resemblances to the canon's expected return, not as evidence of an underlying reality.
 
 ### Jewish Third Temple traditions
 
@@ -442,7 +442,7 @@ The Jewish tradition preserves the most directly relevant comparative material.
 
 **The Temple Mount.** The main practical constraint today: the Temple Mount in Jerusalem hosts the al-Aqsa Mosque and the Dome of the Rock, both major Islamic sites, and the Israeli-Palestinian-Islamic situation constrains any construction.
 
-The framework reads it as preserving the embassy's operational content in Jewish theological terms, its elaborations carrying the tradition's distinctive content over the same underlying pattern.
+The canon itself identifies the embassy with the Third Temple (see note 3). Beyond that identification, the corpus reads the Jewish expectation as the closest resemblance to the canon's return, its elaborations carrying the tradition's own distinctive content.
 
 ### Christian Second Coming and Parousia traditions
 
@@ -456,7 +456,7 @@ The Christian tradition preserves rich material on the **Parousia** (the project
 
 **Later development.** Christian theology has elaborated the Parousia across two millennia — the amillennialist, premillennialist, and postmillennialist frameworks within Protestantism; Catholic and Orthodox positions on its place in eschatology; and contemporary historical-theological scholarship.
 
-The framework reads the Parousia as preserving the embassy's operational content in Christian terms.{{ cite(id="wright-resurrection-son-of-god", text="[11]", title="Wright, *The Resurrection of the Son of God* (2003) — resurrection and Parousia") }}{{ cite(id="sandt-zangenberg-matthew-james-didache", text="[12]", title="van de Sandt & Zangenberg, *Matthew, James, and Didache* (2008)") }}
+The corpus notes the resemblance between the Parousia and the canon's expected return, which the canon itself addresses to the Christian reader ("you have reread a hundred times that Jesus would return", ETTMTTP-3:226).{{ cite(id="wright-resurrection-son-of-god", text="[11]", title="Wright, *The Resurrection of the Son of God* (2003) — resurrection and Parousia") }}{{ cite(id="sandt-zangenberg-matthew-james-didache", text="[12]", title="van de Sandt & Zangenberg, *Matthew, James, and Didache* (2008)") }}
 
 ### Islamic Mahdi traditions
 
@@ -468,7 +468,7 @@ The Islamic tradition preserves rich material on anticipated figures.
 
 **Mahdi and Isa.** Various traditions develop the coordinated arrival of both figures.
 
-The framework reads the Mahdi and Isa traditions as preserving the return's operational content in Islamic terms.{{ cite(id="sachedina-islamic-messianism", text="[13]", title="Sachedina, *Islamic Messianism* (1981) — the Mahdi in Twelver Shi'ism") }}{{ cite(id="cook-muslim-apocalyptic", text="[14]", title="Cook, *Studies in Muslim Apocalyptic* (2002)") }}
+The corpus notes the resemblance between the Mahdi and Isa traditions and the canon's expected return.{{ cite(id="sachedina-islamic-messianism", text="[13]", title="Sachedina, *Islamic Messianism* (1981) — the Mahdi in Twelver Shi'ism") }}{{ cite(id="cook-muslim-apocalyptic", text="[14]", title="Cook, *Studies in Muslim Apocalyptic* (2002)") }}
 
 ### Buddhist Maitreya tradition
 
@@ -480,11 +480,11 @@ The Buddhist tradition preserves the **Maitreya** — the next Buddha after Śā
 
 ### Hindu Kalki avatar
 
-The Hindu tradition preserves the **Kalki avatar** — the tenth and final avatar of Vishnu, expected at the end of the present Kali Yuga to restore righteousness. Puranic texts describe him appearing on a white horse, wielding a sword, conducting the cleansing that ends the Kali Yuga and begins the Satya Yuga. Kalki operates within Hindu cyclic cosmology (treated more fully in the [Cosmic Chain](../cosmic-chain/) entry), marking the transition between cosmic ages. The framework reads it as preserving the return's operational content in Hindu cosmological terms.{{ cite(id="doniger-the-hindus", text="[15]", title="Doniger, *The Hindus: An Alternative History* (2009) — the Kalki avatar") }}
+The Hindu tradition preserves the **Kalki avatar** — the tenth and final avatar of Vishnu, expected at the end of the present Kali Yuga to restore righteousness. Puranic texts describe him appearing on a white horse, wielding a sword, conducting the cleansing that ends the Kali Yuga and begins the Satya Yuga. Kalki operates within Hindu cyclic cosmology (treated more fully in the [Cosmic Chain](../cosmic-chain/) entry), marking the transition between cosmic ages. The corpus notes its resemblance to the canon's expected return, in Hindu cosmological terms.{{ cite(id="doniger-the-hindus", text="[15]", title="Doniger, *The Hindus: An Alternative History* (2009) — the Kalki avatar") }}
 
 ### Zoroastrian Saoshyant
 
-The Zoroastrian tradition preserves the **Saoshyant** — the savior figure (or three successive saviors) who conducts the renewal at the end of the present cosmic age. The Avesta, Pahlavi literature, and later traditions develop it in detail; the principal figure, Astvat-ereta, conducts the *frashokereti* (cosmic renewal), restoring the cosmos to its original perfect state. The Saoshyant is widely held to have shaped Jewish, Christian, and Islamic eschatology, especially through the Persian period of Israelite history and the Hellenistic religious synthesis. The framework reads it as preserving the return's operational content in Zoroastrian terms, with that influence on Western eschatology as one channel through which the content was carried forward.{{ cite(id="boyce-zoroastrians", text="[16]", title="Boyce, *Zoroastrians* (2001) — the Saoshyant and frashokereti") }}
+The Zoroastrian tradition preserves the **Saoshyant** — the savior figure (or three successive saviors) who conducts the renewal at the end of the present cosmic age. The Avesta, Pahlavi literature, and later traditions develop it in detail; the principal figure, Astvat-ereta, conducts the *frashokereti* (cosmic renewal), restoring the cosmos to its original perfect state. The Saoshyant is widely held to have shaped Jewish, Christian, and Islamic eschatology, especially through the Persian period of Israelite history and the Hellenistic religious synthesis. The corpus notes its resemblance to the canon's expected return; that influence on Western eschatology also means that several of the resemblances between traditions are shared descent among the traditions themselves.{{ cite(id="boyce-zoroastrians", text="[16]", title="Boyce, *Zoroastrians* (2001) — the Saoshyant and frashokereti") }}
 
 ### Indigenous return-of-creators traditions
 
@@ -492,10 +492,10 @@ Various indigenous traditions preserve material on anticipated returns of creato
 
 **Mesoamerican Quetzalcoatl.** The Aztec and wider Mesoamerican tradition preserves the return of Quetzalcoatl (the feathered serpent deity), which carried weight early in the Spanish conquest — Moctezuma II reportedly first identifying Cortés as Quetzalcoatl returning, though scholarship has since debated that account.{{ cite(id="carrasco-quetzalcoatl", text="[17]", title="Carrasco, *Quetzalcoatl and the Irony of Empire* (1982) — the return-prophecy") }}
 
-**Other traditions** across many regions — Polynesian, North American, South American, African, Australian Aboriginal, and others — preserve return-of-creator content in their own terms. The framework reads all these as preserving the return's operational content in their various cultural terms.
+**Other traditions** across many regions — Polynesian, North American, South American, African, Australian Aboriginal, and others — preserve return-of-creator content in their own terms. The corpus notes their resemblance to the canon's expected return, each in its own cultural terms.
 
-### The convergence
+### The resemblance
 
-The corpus's working position is that the global recurrence of anticipated-return traditions is meaningful evidence of a genuine underlying reality.{{ footnote(id="6") }} It reads the mainstream explanation — that each tradition develops its own return content through internal processes plus diffusion — as insufficient to account for the breadth and the specific parallels (particular creator-figures, the cosmic-eschatological context, the shared operational features) recurring across separated traditions. It reads the pattern instead as common memory of the cosmic-political situation the embassy framework articulates, each tradition preserving it in its own terms — the Jewish Third Temple most directly, matching the embassy's architectural specifications; the Christian Parousia, Islamic Mahdi, Buddhist Maitreya, Hindu Kalki, Zoroastrian Saoshyant, and indigenous traditions through their respective channels.
+The traditions' return expectations resemble the canon's: a returning figure or party, a renewal at the turn of an age, in several cases a sanctuary prepared for the arrival. The corpus records this as resemblance, not as evidence of an underlying reality.{{ footnote(id="6") }} The canon itself makes one identification — the embassy as the Third Temple — and addresses several traditions' expectations in its own words, calling on the Christian, the child of Israel, the Buddhist, and the Muslim to recognize their own expectation in its message (ETTMTTP-3:226–229); it says of the Buddhist writings only that they indicate "the new Buddha must be born in the West" (ETTMTTP-3:228). The name Maitreya belongs to Raël's post-canon writings, not to the canon.
 
-This does not reject the mainstream framework wholesale. Diffusion certainly occurred, and the traditions show both common structural features and culturally specific elaborations. What the corpus adds is the underlying cosmic-political situation behind the commonalities — one the mainstream framework, lacking the corpus's cosmology, attributes instead to independent religious development and diffusion.
+Mainstream scholarship explains the recurrence through each tradition's internal development and through diffusion — Zoroastrian eschatology's influence on Jewish, Christian, and Islamic expectation is the best-documented channel — and the corpus does not set that explanation aside. The resemblance places the traditions beside the canon's expected return for comparison; it does not show that they remember the same events.

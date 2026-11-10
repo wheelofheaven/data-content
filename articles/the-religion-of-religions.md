@@ -607,8 +607,7 @@ to test the classification. The Bahá'í Faith, Oomoto, and Cao Đài are not
 the only possible comparanda, but this project maintains translations of
 their founding texts alongside the Raëlian canon. The corpus's own
 {% wiki(slug="list-of-prophets-and-religions") %}catalog of prophets and
-religions{% end %} already registers all three at its second-highest
-tier of authenticity. What follows reads them side by side, in their own
+religions{% end %} already places all three in the second tier of its comparative scale (the corpus's own heuristic, not a canon ranking). What follows reads them side by side, in their own
 words, as especially relevant comparanda.
 
 **The Bahá'í Faith** (declared 1863) provides the clearest precedent. Out of Shi'i

@@ -20,7 +20,7 @@ see_also = [
     { title = "Ufology", path = "wiki/ufology", description = "The field whose alternative literature connects the branch to the broader UAP framework." },
     { title = "Astrobiology", path = "wiki/astrobiology", description = "The science of extraterrestrial life the space-domain mission intersects contextually." },
     { title = "Drake Equation", path = "wiki/drake-equation", description = "The estimate of extraterrestrial civilizations the surrounding disclosure debate presupposes." },
-    { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The past-contact position the corpus reads alongside the contemporary disclosure trajectory." },
+    { title = "Ancient Astronaut Hypothesis", path = "wiki/ancient-astronaut-hypothesis", description = "The past-contact position the corpus reads alongside the contemporary UAP disclosure debate." },
     { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The framework placing this mainstream military development in the Aquarian-age context." },
 ]
 

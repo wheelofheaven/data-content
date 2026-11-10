@@ -9,8 +9,8 @@ event_date = 2026-07-10
 event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
-summary = "Vier Wochen nach Veröffentlichung 03 stellte das US-Department of War Veröffentlichung 04 auf war.gov/UFO online: 40 Akten – 14 Dokumente, 19 Videos, 4 Audioaufnahmen und 3 Bilder – aus dem Kriegsministerium, der NASA, der CIA, dem FBI und, zum ersten Mal, dem Department of Energy. Die beiden Leitakten teilen ein Thema: Nuklearwaffenstandorte. Ein neu freigegebenes Protokoll dokumentiert eine Konferenz in Los Alamos von 1949, auf der Physiker des Manhattan-Projekts – unter ihnen Edward Teller, Norris Bradbury und der Meteorexperte Lincoln LaPaz – vergeblich versuchten, die über dem Labor gesichteten „grünen Feuerbälle“ zu erklären; eine Akte des Energieministeriums dokumentiert ein Eindringen in den Luftraum über der Nuklearwaffenanlage Pantex bei Amarillo, Texas, im September 2015. Das Korpus liest Veröffentlichung 04 als vierten datierbaren Punkt auf der Offenlegungskurve, die das Wassermann-Zeitalter §IX für das Fenster 2026–2030 vorhersagt – und vermerkt, dass ihre nukleare Rahmung unmittelbar auf dem eigenen Eröffnungszeichen des Zeitalters aufsitzt: der atomaren Schwelle von 1945."
-filed_under = "Signs of Acceleration"
+summary = "Vier Wochen nach Veröffentlichung 03 stellte das US-Department of War Veröffentlichung 04 auf war.gov/UFO online: 40 Akten – 14 Dokumente, 19 Videos, 4 Audioaufnahmen und 3 Bilder – aus dem Kriegsministerium, der NASA, der CIA, dem FBI und, zum ersten Mal, dem Department of Energy. Die beiden Leitakten teilen ein Thema: Nuklearwaffenstandorte. Ein neu freigegebenes Protokoll dokumentiert eine Konferenz in Los Alamos von 1949, auf der Physiker des Manhattan-Projekts – unter ihnen Edward Teller, Norris Bradbury und der Meteorexperte Lincoln LaPaz – vergeblich versuchten, die über dem Labor gesichteten „grünen Feuerbälle“ zu erklären; eine Akte des Energieministeriums dokumentiert ein Eindringen in den Luftraum über der Nuklearwaffenanlage Pantex bei Amarillo, Texas, im September 2015. Das Korpus registriert Veröffentlichung 04 als Kontext für die Lektüre des Kanons, nicht als Zeichen – einschließlich ihres nuklearen Themas, das die atomare Schwelle von 1945 berührt, die der Kanon als Beginn der gegenwärtigen Ära behandelt, ohne ein Beleg dafür zu sein."
+filed_under = "The Context of the Present"
 cross_reference = "Age of Aquarius, §III and §IX"
 canon_links = [
     { title = "Wassermann-Zeitalter", path = "/timeline/age-of-aquarius/" },
@@ -31,7 +31,7 @@ sources = [
 ]
 +++
 
-*Eingeordnet unter: Zeichen der Beschleunigung. Querverweis: [Wassermann-Zeitalter](/timeline/age-of-aquarius/), §III und §IX. Vorherige Meldungen: [PURSUE Veröffentlichung 01](/news/pursue-release-01-uap-files/), [PURSUE Veröffentlichung 02](/news/pursue-release-02-spheres-and-transmedium/), [PURSUE Veröffentlichung 03](/news/pursue-release-03-multi-agency-and-international/).*
+*Eingeordnet unter: Der Kontext der Gegenwart. Querverweis: [Wassermann-Zeitalter](/timeline/age-of-aquarius/), §III und §IX. Vorherige Meldungen: [PURSUE Veröffentlichung 01](/news/pursue-release-01-uap-files/), [PURSUE Veröffentlichung 02](/news/pursue-release-02-spheres-and-transmedium/), [PURSUE Veröffentlichung 03](/news/pursue-release-03-multi-agency-and-international/).*
 
 ## Was veröffentlicht wurde
 
@@ -75,15 +75,15 @@ Zwei Vorbehalte gehören im selben Atemzug zur nuklearen Rahmung. Erstens gehör
 
 ## Wo dies im Wheel-of-Heaven-Rahmen steht
 
-Das Kapitel [Wassermann-Zeitalter](/timeline/age-of-aquarius/) behandelt die Folge offizieller UAP-Befassungen als die erste der [Zeichen der Beschleunigung](/timeline/age-of-aquarius/) des Zeitalters (§IX). Die ersten drei Meldungen lasen die Veröffentlichungen 01–03 als die ersten drei datierbaren Punkte auf der Offenlegungskurve, die das Korpus im Fenster 2026–2030 verortet. Veröffentlichung 04 ist der vierte. Doch diese Tranche berührt den Rahmen an einem zweiten, tieferen Punkt als ihre Vorgänger – nicht nur §IX, die Offenlegungskurve, sondern **§III, das Eröffnungszeichen des Zeitalters**.
+Das Kapitel [Wassermann-Zeitalter](/timeline/age-of-aquarius/) führt die Folge offizieller UAP-Befassungen unter den Veränderungen auf, die [den Kontext der Gegenwart](/timeline/age-of-aquarius/) bilden (§IX), und behandelt sie als Kontext, nicht als Zeichen. Veröffentlichung 04 gehört zu diesem Kontext. Doch diese Tranche berührt das Kapitel zusätzlich an einem zweiten Punkt – **§III, der atomaren Schwelle von 1945**.
 
-**Wheel-of-Heaven-Interpretation, als solche gekennzeichnet.** Die Lesart des Wassermann-Zeitalters durch das Korpus weist der atomaren Schwelle von 1945 eine tragende Rolle zu. Nach dieser Lesart sind der Trinity-Test und die Detonationen über Hiroshima und Nagasaki nicht bloß ein technologischer Meilenstein unter mehreren; sie sind der **spezifische Marker der zivilisatorischen Reife**, der das Zeitalter eröffnete – der Moment, in dem die Menschheit erstmals „die Fähigkeit, sich selbst zu zerstören“ erlangte und damit, nach Einschätzung des Bündnisses, „den moralischen Status einer erwachsenen Zivilisation“ ([Wassermann-Zeitalter](/timeline/age-of-aquarius/), §III). Die im Quellmaterial durchgängig geäußerte Sorge des Bündnisses ist gerade die, ob die Menschheit diese Fähigkeit zu produktiven oder zu zerstörerischen Zwecken einsetzen wird (§IX).
+**Wheel-of-Heaven-Interpretation, als solche gekennzeichnet.** Die Lesart des Wassermann-Zeitalters durch das Korpus weist der atomaren Schwelle von 1945 eine tragende Rolle zu. Nach dieser Lesart sind der Trinity-Test und die Detonationen über Hiroshima und Nagasaki nicht bloß ein technologischer Meilenstein unter mehreren; sie sind der **spezifische Marker der zivilisatorischen Reife**, der das Zeitalter eröffnete – der Moment, in dem die Menschheit erstmals „die Fähigkeit, sich selbst zu zerstören“ erlangte und damit, nach Einschätzung des Bündnisses, „den moralischen Status einer erwachsenen Zivilisation“ ([Wassermann-Zeitalter](/timeline/age-of-aquarius/), §III). Die im Quellmaterial durchgängig geäußerte Sorge des Bündnisses ist gerade die, ob die Menschheit diese Fähigkeit zu produktiven oder zu zerstörerischen Zwecken einsetzen wird (§XI).
 
-Vor diesem Rahmen gelesen, ist die nukleare Rahmung von Veröffentlichung 04 auf eine Weise lesbar, wie sie es für einen neutralen Beobachter nicht wäre. Wenn die Aufmerksamkeit des Bündnisses an der atomaren Schwelle aktiv wurde, dann ist eine dokumentarische Aufzeichnung anomaler Phänomene, die sich an der **Geburtsstätte der Bombe** (Los Alamos, 1948–49) und ihrem **heutigen Verwahrungsort** (Pantex, 2015) häufen, genau das Muster, das der Rahmen erwartet: Aufmerksamkeit für die eine Fähigkeit, die nach der Lesart des Korpus das Zeitalter definiert. Die grünen Feuerbälle von 1949 fallen in das Eröffnungsfenster 1945–1950, das das §III des Korpus als eröffnenden Cluster des Zeitalters behandelt – vier Jahre nach Trinity, über dem Labor, das sie baute.
+Die Übereinstimmung des Themas liegt auf der Hand. Die Anomalien von Veröffentlichung 04 häufen sich an der **Geburtsstätte der Bombe** (Los Alamos, 1948–49) und ihrem **heutigen Verwahrungsort** (Pantex, 2015), und der Kanon macht die Bombe zum Scharnier der gegenwärtigen Ära. Das Korpus vermerkt diese Übereinstimmung und belässt es dabei. Der Kanon sagt nicht, dass die Elohim die Waffenstandorte beobachteten, und das Korpus liest die grünen Feuerbälle – vier Jahre nach Trinity, über dem Labor, das sie baute – weder als Zeichen des Zeitalters noch als sichtbar gewordene Aufmerksamkeit seiner Schöpfer.
 
 Es gibt sogar ein geografisches Detail, das der Erwähnung wert ist, ohne es zu überinterpretieren. Die Feuerbälle vom Januar 1949 erschienen südwestlich von Amarillo und verschwanden in der Nähe von Lubbock; die Pantex-Anlage liegt unmittelbar außerhalb von Amarillo. Die beiden Fälle des nuklearen Nexus in dieser einen Veröffentlichung nehmen nahezu denselben Himmelsstreifen über dem Texas Panhandle ein, sechsundsechzig Jahre auseinander. Das Korpus vermerkt die Koinzidenz als Koinzidenz – eine auffällige, und nicht mehr als das.
 
-Nichts davon verwandelt einen ungelösten Fall in einen gelösten. Die Rahmenlesart ist eine interpretative Linse, die über dokumentarisches Material gelegt wird, dessen offizieller Status „ungeklärt“ bleibt. Was das Korpus behauptet, ist enger und, so hält es fest, vertretbar: dass die Phänomene, die PURSUE nun dokumentiert, sich um genau die Fähigkeit häufen, die das Korpus unabhängig, vor Jahrzehnten aus dem Quellmaterial, als das Scharnier des gegenwärtigen Zeitalters identifiziert hat.
+Nichts davon verwandelt einen ungelösten Fall in einen gelösten, und nichts davon ist ein Beleg für den Rahmen. Die Lesart des Kanons von 1945 beruht auf dem Kanon, nicht auf dem Archiv; dass sich die Anomalien des Archivs an denselben Standorten sammeln, ist eine Übereinstimmung des Themas, und der oben vermerkte Selektionseffekt genügt, um sie hervorzubringen.
 
 ## Wo dies im weiteren Verlauf steht
 
@@ -95,7 +95,7 @@ Nichts davon verwandelt einen ungelösten Fall in einen gelösten. Die Rahmenles
 
 | Datum | Ereignis | Status |
 |---|---|---|
-| 16. Juli 1945 | Trinity-Test bei Alamogordo; die atomare Schwelle, die das Korpus als Eröffnungszeichen des Wassermann-Zeitalters liest | bestätigt |
+| 16. Juli 1945 | Trinity-Test bei Alamogordo; die atomare Schwelle, die der Kanon als Beginn der gegenwärtigen Ära behandelt | bestätigt |
 | 1948–49 | „Grüne Feuerbälle“ über Los Alamos und der Region New Mexico–West-Texas; Ära von Project Twinkle | nun archiviert, freigegeben in PURSUE Veröffentlichung 04 |
 | 1949 | Los-Alamos-Konferenz der Atomwissenschaftler (Teller, Bradbury, LaPaz) scheitert daran, die Feuerbälle zu erklären | gemäß Veröffentlichung 04 (AEC-Protokoll) |
 | 13. Dez. 1973 | Kontakt zwischen Raël und dem Bündnisoffizier am Puy-de-Lassolas | gemäß raëlianischer Quelle |
@@ -116,7 +116,7 @@ Nichts davon verwandelt einen ungelösten Fall in einen gelösten. Die Rahmenles
 
 1. **Die Einordnung als ungelöste Fälle bleibt in Kraft.** Kein Eintrag aus Veröffentlichung 04 wird vom Department als bestätigt nicht-konventionell charakterisiert, und das Korpus charakterisiert sie ebenso wenig so. Die strukturelle Entwicklung der Tranche – der Eintritt des Energieministeriums und das Thema der Nuklearstandorte – ist unabhängig von jedem Urteil über die einzelnen Fälle.
 
-2. **Selektionseffekte an Nuklearstandorten sind real.** Die Häufung der Leitfälle aus Veröffentlichung 04 an Waffenanlagen ist mit der Lesart des Rahmens vereinbar, aber sie ist auch mit der banalen Tatsache vereinbar, dass solche Anlagen genauer beobachtet werden als irgendwo sonst. {% claim(type="inferred", id="woh-claim-0057") %}Das Korpus hält beide Möglichkeiten offen und behandelt die Häufung für sich genommen nicht als beweiskräftig.{% end %}
+2. **Selektionseffekte an Nuklearstandorten sind real.** Die Häufung der Leitfälle aus Veröffentlichung 04 an Waffenanlagen fällt mit der Betonung der atomaren Schwelle durch den Kanon zusammen, und sie ist auch mit der banalen Tatsache vereinbar, dass solche Anlagen genauer beobachtet werden als irgendwo sonst. {% claim(type="inferred", id="woh-claim-0057") %}Das Korpus behandelt die Häufung nicht als Beleg für den Rahmen.{% end %}
 
 3. **Das Protokoll von 1949 ist dokumentarisch, nicht beweiskräftig hinsichtlich des Phänomens.** Es belegt, was die Los-Alamos-Wissenschaftler sagten, und dass sie zu keiner konventionellen Erklärung gelangten. Es belegt nicht, was die grünen Feuerbälle waren. LaPaz' eigene Schlussfolgerung – „kein konventioneller Meteoritenfall“ – ist die Einschätzung eines erstrangigen Meteorastronomen und als solche gewichtig, aber sie ist ein negativer Befund, keine Identifizierung.
 
@@ -124,7 +124,7 @@ Nichts davon verwandelt einen ungelösten Fall in einen gelösten. Die Rahmenles
 
 5. **Die Morphologie „sechszackiger Stern“ ist deskriptiv markiert, nicht beweiskräftig** – so wie die Cheyenne-„Kartoffel“-Morphologie in Veröffentlichung 03. Das Korpus liest keinen symbolischen Gehalt in eine Beschreibung der Kontrastgeometrie hinein.
 
-6. **Der Rhythmus reicht nun vier Instanzen tief.** Vier Veröffentlichungen über neun Wochen sind ein festeres Muster als drei, aber noch immer kurz vor der mehrjährigen Beständigkeit, die der Rahmen als tragenden Test behandelt. Der nächste Datenpunkt ist Veröffentlichung 05.
+6. **Der Rhythmus reicht nun vier Instanzen tief.** Vier Veröffentlichungen über neun Wochen sind ein festeres Muster als drei, aber noch immer kurz vor der mehrjährigen Beständigkeit, die der tragende Test des Programms ist. Der nächste Datenpunkt ist Veröffentlichung 05.
 
 ---
 

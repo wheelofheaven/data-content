@@ -371,7 +371,7 @@ de resbalar del estante donde las historias de filiación suelen alojarse.
 
 La secuencia profética, entretanto, se hace pronunciadamente universal. El segundo
 libro se cierra con cuatro llamamientos directos —a los cristianos, a los judíos,
-a los budistas ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=228) %}«vuestros escritos indican que el nuevo Buda debe nacer en Occidente; ¡reconoced los signos previstos!»{% end %}),
+a los budistas ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=228) %}«tus escritos indican que el nuevo Buda debe nacer en Occidente; ¡reconoce los signos previstos!»{% end %}),
 y a los musulmanes— y su párrafo de resumen asigna a Raël su lugar en la línea:
 {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=257) %}«es el último de la línea de los profetas, el profeta del apocalipsis, es decir, de la época en que todo puede comprenderse»{% end %}.
 El llamamiento budista fue finalmente interpretado antes que meramente impreso: en
@@ -599,8 +599,9 @@ jóvenes religiones universalistas de la era industrial, y tres de ellas hacen l
 comparación precisa —lo bastante precisa como para que este proyecto mantenga
 traducciones de sus textos fundacionales junto al canon raeliano—. El propio
 {% wiki(slug="list-of-prophets-and-religions") %}catálogo de profetas y
-religiones{% end %} del corpus ya registra las tres en su segundo nivel más alto
-de autenticidad; lo que sigue las lee una junto a otra, en sus propias palabras,
+religiones{% end %} del corpus ya sitúa las tres en el segundo nivel de su
+escala comparativa (heurística propia del corpus, no una clasificación del
+canon); lo que sigue las lee una junto a otra, en sus propias palabras,
 como las parientes más cercanas del canon.
 
 **La Fe Bahá'í** (proclamada en 1863) es el caso paradigmático. Del fermento

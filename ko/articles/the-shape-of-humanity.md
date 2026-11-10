@@ -22,7 +22,7 @@ references = [
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition collecting all three messages; the parable of the sower read as multiple creations, the cosmic competition of humanities, and the inheritance" },
 
     # — The framework as the project has articulated it —
-    { title = "Cosmic Competition — Wheel of Heaven wiki (the multiple-humanities framework: Earth as one of several humanities evaluated for the inheritance; the non-adversarial reading)", author = "Wheel of Heaven", date = "2026" },
+    { title = "Cosmic Competition — Wheel of Heaven wiki (the multiple-humanities framework: Earth as one of several humanities evaluated for the inheritance)", author = "Wheel of Heaven", date = "2026" },
     { title = "Saṃsāra — Wheel of Heaven wiki (the civilizational rereading of the cycle: rise to scientific capacity, then escape or fall back to the primitive state)", author = "Wheel of Heaven", date = "2026" },
     { title = "Golden Age — Wheel of Heaven wiki (the operational form of life available if the Aquarian-age threshold is navigated successfully)", author = "Wheel of Heaven", date = "2026" },
     { title = "Cosmic Chain — Wheel of Heaven wiki (the indefinitely extended sequence of created-and-creating civilizations)", author = "Wheel of Heaven", date = "2026" },
@@ -580,7 +580,7 @@ Vernadsky는 신경계가 켜지는 것을 보았다. Diamond는 우리가 몸�
 ## 더 읽을거리
 
 - [우주적 경쟁](/wiki/cosmic-competition/) — 다중 인류 틀. 상속을 위해 창조되고 평가되는
-  여러 인류 가운데 하나로서의 지구, 그리고 “경쟁”의 비적대적 독해.
+  여러 인류 가운데 하나로서의 지구.
 - [삼사라](/wiki/samsara/) — 순환의 문명적 재독해. 과학적 역량으로의 상승, 그다음
   황금시대로의 탈출 또는 원시 상태로의 후퇴.
 - [황금시대](/wiki/golden-age/) — 인류가 물병자리 시대의 문턱을 무사히 항해할 경우 이용

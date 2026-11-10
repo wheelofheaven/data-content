@@ -10,12 +10,12 @@ card_summary = "Stephen Meyer’s design argument compared with the Raëlian acc
 claim_type = "speculative"
 editorial_pass = "2026-05"
 core_claim_ids = ["woh-claim-0036", "woh-claim-0030", "woh-claim-0071"]
-core_versions = { woh-claim-0036 = "0.1.0", woh-claim-0030 = "0.1.0", woh-claim-0071 = "0.3.0" }
+core_versions = { woh-claim-0036 = "0.2.0", woh-claim-0030 = "0.1.0", woh-claim-0071 = "0.3.1" }
 article_type = "explainer"
 category = "Science & Technology"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "At the 2008 premiere of a documentary about the persecution of design theorists, Richard Dawkins said on camera that life on Earth might have been engineered by an advanced civilization elsewhere in the cosmos — that you might, if you looked, find in the cell 'a signature of some sort of a designer' — and then took it back, because the designer would have had to evolve. Watching from the audience was Stephen Meyer, then finishing a book called *Signature in the Cell*. This Explainer uses that scene to take apart the most interesting move in the whole Intelligent Design debate. It maps the full spectrum of modern design and creation thought — young-earth 'scientific creationism' and its documentaries, old-earth progressive creationism, the information-theoretic Intelligent Design of Behe, Dembski and Meyer, the bench-level origin-of-life skepticism of the synthetic chemist James Tour, the theistic evolution of Miller and Collins, and the flat anti-design of Dawkins — and finds, with the sociologist George Chryssides, that the Raëlian account of human origins is itself a species of 'scientific creationism,' sharing the design intuition while diverging on nearly everything else. It then examines, at length, the passage in Meyer's *Return of the God Hypothesis* where he considers and dismisses the extraterrestrial-engineering hypothesis — the 'panspermia' or 'immanent intelligence' option — and argues that his dismissal, far from shallow, is a real and careful argument that nonetheless fails against this particular target, because it silently promotes a hypothesis about terrestrial biology into a theory of the cosmos, and because its load-bearing premise — a universe with a beginning, whose fine-tuning had to be set at that beginning — is exactly the premise the canon denies. The Elohim hypothesis turns out to be the position both the arch-atheist and the arch-theist need to make disappear, because it dissolves the God-versus-materialism binary their whole quarrel is built on. The signature is real. The dispute is over whose hand."
+summary = "At the 2008 premiere of a documentary about the persecution of design theorists, Richard Dawkins said on camera that life on Earth might have been engineered by an advanced civilization elsewhere in the cosmos — that you might, if you looked, find in the cell 'a signature of some sort of a designer' — and then took it back, because the designer would have had to evolve. Watching from the audience was Stephen Meyer, then finishing a book called *Signature in the Cell*. This Explainer uses that scene to take apart the most interesting move in the whole Intelligent Design debate. It maps the full spectrum of modern design and creation thought — young-earth 'scientific creationism' and its documentaries, old-earth progressive creationism, the information-theoretic Intelligent Design of Behe, Dembski and Meyer, the bench-level origin-of-life skepticism of the synthetic chemist James Tour, the theistic evolution of Miller and Collins, and the flat anti-design of Dawkins — and finds, with the sociologist George Chryssides, that the Raëlian account of human origins is itself a species of 'scientific creationism,' sharing the design intuition while diverging on nearly everything else. It then examines, at length, the passage in Meyer's *Return of the God Hypothesis* where he considers and dismisses the extraterrestrial-engineering hypothesis — the 'panspermia' or 'immanent intelligence' option — and argues that his dismissal, far from shallow, is a real and careful argument that nonetheless fails against this particular target, because it silently promotes a hypothesis about terrestrial biology into a theory of the cosmos, and because its load-bearing premise — a universe with a beginning, whose fine-tuning had to be set at that beginning — is exactly the premise the canon denies. The Elohim hypothesis turns out to be the position both the arch-atheist and the arch-theist need to make disappear, because it dissolves the God-versus-materialism binary their whole quarrel is built on. On the canon's account the signature is real: life was designed. Mainstream biology does not accept that design has been detected; the scientists who have argued that life may have been deliberately seeded (Crick and Orgel) or that its unguided origin is improbable (Hoyle and Wickramasinghe) remain a minority. The dispute is over whose hand."
 keywords = ["Intelligent Design", "scientific creationism", "Stephen Meyer", "David Berlinski", "James Tour", "Michael Behe", "William Dembski", "directed panspermia", "Return of the God Hypothesis", "Is Genesis History", "irreducible complexity", "specified complexity", "origin of life", "Elohim", "Raëlism", "George Chryssides", "fine-tuning"]
 references = [
     # — The canon under comparison —
@@ -47,7 +47,8 @@ references = [
 
     # — The scientific cognate: directed panspermia and the recovery of the capability —
     { id = "crick-orgel-directed-panspermia", locator = "Icarus 19: 341–346 — the 1973 proposal that life on Earth was deliberately seeded by an extraterrestrial intelligence; the molybdenum argument; the universality of the genetic code" },
-    { title = "Life Itself: Its Origin and Nature (the book-length development of directed panspermia; the closing chapter, 'Should We Infect the Galaxy?')", author = "Francis Crick", date = "1981" },
+    { id = "crick-life-itself", locator = "the book-length development of directed panspermia; the difficulty of an unguided terrestrial origin on the evidence of the time; the closing chapter, 'Should We Infect the Galaxy?'" },
+    { id = "hoyle-wickramasinghe-lifecloud", locator = "the origin of life in interstellar clouds and its delivery to Earth by comets; the improbability of an unguided origin on the early Earth, argued together with panspermia" },
     { id = "design-and-synthesis-of-a-minimal-bacterial-genome", locator = "Science 351:aad6253 — JCVI-syn3.0, the minimal synthetic bacterial genome; the contemporary recovery, at the bench, of the capability the canon attributes to the Elohim" },
 
     # — The design-argument tradition and its critique —
@@ -128,8 +129,11 @@ one the {% wiki(slug="rael") %}Raëlian{% end %} canon has occupied, without
 apology, since 1974: that life on Earth was engineered by an advanced but
 entirely physical people, the {% wiki(slug="elohim") %}Elohim{% end %}, who
 were themselves engineered by an earlier people, in a chain with no first
-link and no God at the top. The signature is real. The whole quarrel is over
-whose hand left it.
+link and no God at the top. On the canon's account the signature is real:
+life was designed. A minority of scientists have argued that life may have been
+deliberately seeded (Francis Crick and Leslie Orgel) or that its unguided origin
+is improbable (Fred Hoyle and Chandra Wickramasinghe); mainstream biology does
+not accept that design has been detected. The whole quarrel is over whose hand left it.
 
 ## A family of dissents
 
@@ -220,13 +224,15 @@ men in the room in 2008 and the position between their recoils.
 
 ## The signature
 
-Begin with the part the framework grants, because it is larger than a casual
-reader of a "UFO religion" would expect. The Wheel of Heaven reading holds
-that the core claim of Intelligent Design — that the functional complexity of
-living systems is best explained by deliberate intelligent action rather than
-by undirected processes — is *substantially correct*. The
-{% wiki(slug="intelligent-design") %}Intelligent Design{% end %} entry says
-so in as many words. The disagreement, when it comes, will not be about
+Begin with the part the framework shares, because it is larger than a casual
+reader of a "UFO religion" would expect. What Intelligent Design argues as its
+conclusion, the canon holds as its premise: that living systems were made by
+deliberate intelligent action rather than by undirected processes. The canon
+does not hold it on the movement's evidence, and it does not claim that
+biology has confirmed it; mainstream biology does not accept that design has
+been detected. The
+{% wiki(slug="intelligent-design") %}Intelligent Design{% end %} entry sets
+out the overlap and the difference. The disagreement, when it comes, will not be about
 whether life is designed. It will be about who the designers are, and what
 stands above them, and whether the argument can carry the theological weight
 its champions want it to bear. So it is worth laying the design argument out
@@ -312,7 +318,7 @@ word, "remains clueless." It is an admission, not an argument, and admissions
 from inside the guild are worth more than arguments from outside it.
 
 That clean, designer-free hard problem is where the canon will re-enter. But
-first, what has been established. The
+first, what the design case actually rests on. The
 strongest form of the design case is not the young-earth creationist's Flood
 geology and it is not even Behe's contested flagellum. It is the conjunction
 of two things a fair mind can grant: that living systems run on specified
@@ -687,10 +693,12 @@ It would be dishonest to let the divergence swallow the convergence, so the
 overlap deserves a precise accounting — how much of the design case the
 framework keeps, once the theology is subtracted.
 
-It keeps the information argument. Meyer's claim that specified information
-comes only from minds is one the framework reads as substantially correct —
-with the difference that the mind in question is embodied, evolved, and in
-principle able to be met. It keeps Tour's hard problem, and keeps it *more*
+It keeps the information argument's conclusion. Meyer's claim that specified
+information comes only from minds arrives where the canon starts, that life
+was made by minds — with the difference that the mind in question is embodied,
+evolved, and in principle able to be met. The framework does not adopt the
+inference as a demonstration: mainstream biology rejects it, and the canon's
+premise does not rest on it. It keeps Tour's hard problem, and keeps it *more*
 cleanly than the movement does. Tour brackets out "a design agent
 (personal or impersonal)" because a designer is not a chemical tool. The canon
 supplies the designer Tour brackets — and it is precisely *not* the
@@ -706,8 +714,24 @@ paper{{ footnote(id="7") }} — two of the twentieth century's greatest molecula
 biologists proposing, in a peer-reviewed journal in 1973, that life on Earth
 was deliberately seeded by an extraterrestrial intelligence — established that
 the canon's *kind* of claim is speakable in serious biology. Crick's *Life
-Itself* closed with a chapter asking whether humanity should one day seed
-other worlds. And in the years since, humanity has walked most of the way to
+Itself* (1981) developed the case at book length, arguing that on the evidence
+of the time an unguided origin of life on the early Earth looked close to
+miraculous, and closed with a chapter asking whether humanity should one day
+seed other worlds. The astronomer Fred Hoyle and his collaborator Chandra
+Wickramasinghe argued in *Lifecloud* (1978) that life began not on Earth but
+in interstellar clouds and arrived by comet, and in that work and the books
+that followed it they pressed the improbability of an unguided terrestrial
+origin. These scientists argued that life may have been deliberately seeded, or that its unguided
+origin is mathematically improbable. They were, and remain, a
+minority, and the replies are on record. Directed panspermia relocates the
+origin of life rather than explaining it, and the universality of the genetic
+code is expected of any single common ancestry, seeded or not. The
+improbability figures were faulted for treating a modern protein or cell as
+assembled in one random step, rather than through a cumulative chemistry that
+selection and self-organization might shape. Mainstream biology does not
+accept that design has been detected. The canon does not borrow its premise
+from these scientists; it notes that serious scientists have reached for the
+same kind of answer. And in the years since, humanity has walked most of the way to
 the door. In 2010 Craig Venter's institute booted a bacterial cell running a
 chemically synthesized genome; in 2016 they published a *designed* minimal
 genome, a living organism whose 473-gene blueprint was written to
@@ -815,7 +839,10 @@ young-earth creationists agree with it, and the old-earth creationists, and
 Behe and Dembski and Tour in his careful bracketed way, and — reading Genesis as
 a report rather than a fable — the Raëlian canon too. The signature is the
 common ground of the entire family of dissents, from the Flood geologist to
-the contactee. What splits the family is the second half — *whose* signature —
+the contactee. It is not the common ground of biology. Mainstream biology does not accept that a signature has been detected, and the scientists who have
+argued that life may have been seeded (Crick and Orgel) or that its unguided origin is improbable
+(Hoyle and Wickramasinghe) remain a minority, answered in biology's own terms. The canon holds its premise on its own
+authority: life was designed. What splits the family is the second half — *whose* signature —
 and there the options are fewer than the noise suggests. Either the hand in the
 cell belongs to a mind outside the universe, which no instrument can ever
 reach; or there is no hand and the appearance of one is the residue of a blind

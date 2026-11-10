@@ -1,7 +1,7 @@
 +++
 title = "PURSUE"
 slug = "pursue"
-description = "PURSUE — the Presidential Unsealing and Reporting System for UAP Encounters — is the United States government's program, launched in 2026, for declassifying and publicly releasing unresolved records on unidentified anomalous phenomena (UAP) at the Department of War's war.gov/UFO portal. Ordered by a presidential directive of February 19, 2026 and operating atop a statutory disclosure channel Congress created in 2022, it has published seven tranches of documents, images, videos, and audio on a rolling cadence since May 8, 2026, from a widening roster of agencies. The Wheel of Heaven framework tracks it as a datable institutional acceleration of the disclosure question — while holding, under its own reception posture, that no released file is evidence for the framework and no debunked case is evidence against it."
+description = "PURSUE — the Presidential Unsealing and Reporting System for UAP Encounters — is the United States government's program, launched in 2026, for declassifying and publicly releasing unresolved records on unidentified anomalous phenomena (UAP) at the Department of War's war.gov/UFO portal. Ordered by a presidential directive of February 19, 2026 and operating atop a statutory disclosure channel Congress created in 2022, it has published seven tranches of documents, images, videos, and audio on a rolling cadence since May 8, 2026, from a widening roster of agencies. The Wheel of Heaven corpus registers it as context, not as a sign — holding, under its own reception posture, that no released file is evidence for the framework and no debunked case is evidence against it."
 template = "wiki-page.html"
 toc = true
 
@@ -32,7 +32,7 @@ launched = "First tranche published May 8, 2026 at war.gov/UFO; legal analysis d
 releases_to_date = "Seven (May 8, May 22, June 12, July 10, August 7, September 18, October 23, 2026); further releases announced as in work"
 database = "Searchable portal database of 478 files across the seven releases (as captured October 23, 2026), filterable by agency, release, incident date, location, and file type"
 contributing_agencies = "Department of War, NASA, CIA, FBI, Department of Energy, Department of State, Executive Office of the President, and — from the sixth release — a local law-enforcement agency in Colorado; ODNI in a coordinating role"
-corpus_position = "Tracked as the Age of Aquarius §IX disclosure curve's institutional acceleration; registered without enlistment — no released file counts for the framework, no debunking counts against it"
+corpus_position = "Registered as context for reading the canon (Age of Aquarius §IX), not as a sign of the return; registered without enlistment — no released file counts for the framework, no debunking counts against it"
 distinguished_from = "AARO (the Pentagon's standing analysis office, which adjudicates cases; PURSUE releases records), FOIA-era piecemeal declassification, and the congressional-hearing track of 2023–2024"
 status_in_framework = "Documented government program, carried at documentary strength; explicitly not the official, verified disclosure event the framework's reception posture names as its single exception"
 +++
@@ -219,10 +219,11 @@ touching the deeper claims of the 2023 testimony.
 ## The Wheel of Heaven reading
 
 The [Age of Aquarius](/timeline/age-of-aquarius/) chapter's ninth section
-anticipates, for the present decades, an acceleration in how officially the
-UAP question is handled — the corpus's dispatches read the seven releases as
-seven datable points on that curve, and PURSUE itself as the curve's clearest
-institutional expression to date.
+lists the changing official handling of the UAP question among the changes
+that make up the context of the present, and treats them as context, not
+signs. The corpus's dispatches register each of the seven releases that way;
+none is read as a step toward the return, which the canon keeps conditional
+and undated.
 
 The framework's interest is specific. On the canon's account, contact — when
 and if it comes — will be **official, governmental, and conditional**: a
@@ -276,10 +277,11 @@ files differs across tranches. The corpus's dispatches attribute counts
 rather than assert them.
 
 **Durability is the real test.** A program five months old, carrying one
-president's name, proves little by cadence alone. The framework's own
-load-bearing question — argued across the dispatch series — is whether the
-disclosure curve survives on a multi-year horizon, across administrations and
-news cycles. That question is open.
+president's name, proves little by cadence alone. The program's own
+load-bearing question — tracked across the dispatch series — is whether the
+release cadence survives on a multi-year horizon, across administrations and
+news cycles. That question is open, and its answer will be a fact about the
+program, not a sign for the framework.
 
 ## See also
 

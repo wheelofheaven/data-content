@@ -1,7 +1,7 @@
 +++
 title = "Cosmic Competition"
 slug = "cosmic-competition"
-description = "Cosmic Competition is the framework concept developed in the Wheel of Heaven corpus to organize the Raëlian source material's account of the broader cosmological situation in which Earth's humanity is one of multiple humanities created by the Elohim alliance on multiple worlds, with each humanity being evaluated against the standard of moral and scientific maturity required for inheritance — for becoming the next link in the cosmic chain of creation. The framework integrates the parable-of-the-sower passage of The Book Which Tells the Truth (1974), a post-canonical message to Raël dated March 14, 1978, and the broader source material's gestures toward parallel-humanity creation into a systematic account of the cosmic-political situation in which Earth's current Aquarian-age developments unfold."
+description = "Cosmic Competition is the framework concept developed in the Wheel of Heaven corpus to organize the Raëlian source material's account of the broader cosmological situation in which Earth's humanity is one of multiple humanities created by the Elohim alliance on multiple worlds, with each humanity being evaluated against the standard of moral and scientific maturity required for inheritance — for becoming the next link in the cosmic chain of creation. The framework integrates the parable-of-the-sower passage of The Book Which Tells the Truth (1974) and the broader source material's gestures toward parallel-humanity creation into a systematic account of the cosmic-political situation in which Earth's current Aquarian-age developments unfold."
 template = "wiki-page.html"
 toc = true
 
@@ -27,22 +27,22 @@ see_also = [
 [extra.infobox]
 type = "Framework concept; corpus-internal interpretive construction integrating multiple Raëlian source-material gestures into a systematic account of the cosmic-political situation"
 basic_premise = "Multiple humanities created by the Elohim alliance on multiple worlds; each evaluated against the standard required for inheritance (moral and scientific maturity)"
-character = "Non-adversarial; evaluation rather than zero-sum conflict; multiple humanities can potentially qualify simultaneously"
+character = "Evaluation against a shared maturity standard; in the canon the world that progresses most inherits, and the one that has not progressed \"will be dominated by the other and annihilated\" (TBWTT-4:88)"
 known_creations = "Three surviving humanities (per the parable-of-the-sower reading); Earth is one; two others on planets 'relatively near'; one previous attempt failed and produced a plant-only world that still exists"
 qualification_categories = "Moral maturity; scientific maturity; political maturity"
 operational_origin = "The Aries-age discovery (c. 2,160–1,200 BCE) that the Elohim themselves had been created, producing the policy shift from direct to indirect contact"
-explicit_articulation = "Jesus's parable of the sower (Matthew 13:3-9, c. 30 CE); March 14, 1978 message to Raël (post-canonical)"
+explicit_articulation = "Jesus's parable of the sower (Matthew 13:3-9, c. 30 CE)"
 current_phase = "Aquarian-age operational evaluation; the inheritance-threshold becoming determinable across the present decades"
 distinguished_from = "The Cosmic Chain (the broader recurring pattern); the Earth project specifically (the alliance's specific Earth-side operations); the Aquarian-age opening (the specific present phase); the Apocalypse (the broader unveiling event)"
 principal_text = "Matthew 13:3-9 (parable of the sower); Matthew 13:18-30 (Jesus's interpretation); Matthew 6:10 (the Lord's Prayer's central petition)"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), 'Parallel Humanities'; *Message of the Elohim* (March 14, 1978), a post-canonical text not contained in the three canonical books"
+principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), 'Parallel Humanities'"
 +++
 
-**Cosmic Competition** is the framework concept developed in the Wheel of Heaven corpus to organize the Raëlian source material's account of the broader cosmological situation in which Earth's humanity exists. {% claim(type="framework", id="woh-claim-0047") %}The framework reads Earth's humanity as one of multiple humanities created by the Elohim alliance on multiple worlds in our galactic neighborhood, with each humanity being evaluated against the standard of moral and scientific maturity required for **inheritance** — for receiving the alliance's accumulated knowledge and becoming the next link in the cosmic chain of creation.{% end %} The framework integrates several distinct strands of source material into a systematic account: the parable-of-the-sower passage of *The Book Which Tells the Truth* (1974), in which Jesus's parable is read as the explicit articulation of the multiple-humanities framework; the post-canonical March 14, 1978 message to Raël concerning Earth's specific cooperative role with respect to the parallel humanities; the Aries-age discovery material concerning the Elohim's recognition that they themselves had been created within the same broader pattern; and the broader Aquarian-age inheritance-threshold material concerning the specific qualifications humanity must demonstrate.
+**Cosmic Competition** is the framework concept developed in the Wheel of Heaven corpus to organize the Raëlian source material's account of the broader cosmological situation in which Earth's humanity exists. {% claim(type="framework", id="woh-claim-0047") %}The framework reads Earth's humanity as one of multiple humanities created by the Elohim alliance on multiple worlds in our galactic neighborhood, with each humanity being evaluated against the standard of moral and scientific maturity required for **inheritance** — for receiving the alliance's accumulated knowledge and becoming the next link in the cosmic chain of creation.{% end %} The framework integrates several distinct strands of source material into a systematic account: the parable-of-the-sower passage of *The Book Which Tells the Truth* (1974), in which Jesus's parable is read as the explicit articulation of the multiple-humanities framework; the Aries-age discovery material concerning the Elohim's recognition that they themselves had been created within the same broader pattern; and the broader Aquarian-age inheritance-threshold material concerning the specific qualifications humanity must demonstrate.
 
-The framework's basic premise is straightforward: the Elohim civilization conducted creation experiments on multiple worlds, with the parable of the sower (Matthew 13:3-9, in the corpus's reading) preserving the specific record of four creation attempts of which three succeeded. The three successful humanities exist on Earth and on two other planets "relatively near to you" in the source's language. Each humanity is being evaluated, against the same standard, for whether it has reached the level of moral, scientific, and political maturity that would qualify it to receive the alliance's accumulated knowledge and continue the cosmic chain of creation. The competition is real in the specific sense that the alliance is comparing the development of multiple humanities and the first to reach the threshold becomes the inheritor — but the competition is **not adversarial**. The humanities are not pitted against each other in zero-sum struggle; they are evaluated separately against the standard, with all three potentially qualifying, none qualifying, or some intermediate result. The post-canonical 1978 message adds a cooperative dimension: Earth's humanity, having received the Aquarian-age disclosure through Raël, is to function as the bearer of the disclosure to the parallel humanities when contact between the civilizations becomes operationally available.
+The framework's basic premise is straightforward: the Elohim civilization conducted creation experiments on multiple worlds, with the parable of the sower (Matthew 13:3-9, in the corpus's reading) preserving the specific record of four creation attempts of which three succeeded. The three successful humanities exist on Earth and on two other planets "relatively near to you" in the source's language. Each humanity is being evaluated, against the same standard, for whether it has reached the level of moral, scientific, and political maturity that would qualify it to receive the alliance's accumulated knowledge and continue the cosmic chain of creation. The competition is real in the specific sense that the alliance is comparing the development of multiple humanities and the first to reach the threshold becomes the inheritor — and the canon states the stakes plainly: the world that has not progressed "will be dominated by the other and annihilated" (TBWTT-4:88). The corpus adds no narrative of contact or rivalry between the humanities (woh-claim-0047).
 
-The reading is interpretive construction. The canon treats the parallel humanities in the parable-of-the-sower passage (TBWTT-4:41ff); the 1978 message that adds the cooperative mission stands outside the three canonical books. Neither source develops these mentions into the systematic framework the corpus has constructed. The Cosmic Competition framework as articulated in the Wheel of Heaven corpus is the result of integrating these specific source-material references with the Aries-discovery material, the Cosmic Chain content, and the Aquarian-age inheritance-threshold material into a coherent analytical category. The corpus registers this interpretive-construction status explicitly: the Cosmic Competition framework is one of the corpus's principal contributions to the broader interpretive landscape, going substantially beyond the source material's explicit content while remaining structurally consistent with the source material's underlying account. Within mainstream Christian theological tradition, the parable of the sower has been read for two millennia as the moral-pedagogical narrative Jesus's surface explanation indicates (the seed as the word, the various grounds as various human responses), with the cosmic-competition reading being substantially distinctive within the broader interpretive tradition. Within mainstream historical-critical biblical scholarship, the parable is read as a literary-pedagogical construction reflecting Jesus's teaching method, without reference to any cosmic-political-cosmological framework. Within contemporary exoplanet research and SETI scholarship, the broad question of life elsewhere in the universe has been substantially developed across the past three decades, with the catalogue of confirmed exoplanets exceeding 5,500 and the broader scientific framework now treating the existence of habitable worlds as empirically well-established — providing substantial parallel content for the framework's specific claim about parallel humanities even where the framework's specific reading remains beyond what mainstream scientific investigation has confirmed. The corpus's reading is structurally distinctive in its specific identification of the parable-of-the-sower passage as the textual record of the parallel-humanities framework, in its integration of the cosmic-competition material with the broader corpus's Aries-discovery and Aquarian-age content, and in its development of the framework into a systematic account that the source material gestures at but does not articulate.
+The reading is interpretive construction. The canon treats the parallel humanities in the parable-of-the-sower passage (TBWTT-4:41ff) and states that the three worlds where life was created "were put in competition" (TBWTT-4:55), but it does not develop these mentions into the systematic framework the corpus has constructed. The Cosmic Competition framework as articulated in the Wheel of Heaven corpus is the result of integrating these specific source-material references with the Aries-discovery material, the Cosmic Chain content, and the Aquarian-age inheritance-threshold material into a coherent analytical category. The corpus registers this interpretive-construction status explicitly: the Cosmic Competition framework is one of the corpus's principal contributions to the broader interpretive landscape, going substantially beyond the source material's explicit content while remaining structurally consistent with the source material's underlying account. Within mainstream Christian theological tradition, the parable of the sower has been read for two millennia as the moral-pedagogical narrative Jesus's surface explanation indicates (the seed as the word, the various grounds as various human responses), with the cosmic-competition reading being substantially distinctive within the broader interpretive tradition. Within mainstream historical-critical biblical scholarship, the parable is read as a literary-pedagogical construction reflecting Jesus's teaching method, without reference to any cosmic-political-cosmological framework. Within contemporary exoplanet research and SETI scholarship, the broad question of life elsewhere in the universe has been substantially developed across the past three decades, with the catalogue of confirmed exoplanets exceeding 5,500 and the broader scientific framework now treating the existence of habitable worlds as empirically well-established — providing substantial parallel content for the framework's specific claim about parallel humanities even where the framework's specific reading remains beyond what mainstream scientific investigation has confirmed. The corpus's reading is structurally distinctive in its specific identification of the parable-of-the-sower passage as the textual record of the parallel-humanities framework, in its integration of the cosmic-competition material with the broader corpus's Aries-discovery and Aquarian-age content, and in its development of the framework into a systematic account that the source material gestures at but does not articulate.
 
 ## Etymology and naming
 
@@ -53,9 +53,9 @@ The Cosmic Competition framework as a corpus-internal analytical category does n
 The English term **"Cosmic Competition"** is the corpus's principal designation for the framework. The construction combines:
 
 - **"Cosmic"** — indicating the broader scale of the framework's operation (multiple worlds, multiple humanities, the broader galactic context)
-- **"Competition"** — indicating the evaluative-comparative character of the alliance's assessment, while preserving the specific non-adversarial sense the framework requires
+- **"Competition"** — indicating the evaluative-comparative character of the alliance's assessment, in the evaluative sense the canon gives it (TBWTT-4:88)
 
-The term is corpus-internal — it does not appear in the Raëlian source material under this specific designation. The source material uses descriptive language ("we have also created scientifically in another part of the universe," "several humanities are in competition," "only the best one will be entitled to the inheritance") that the corpus has condensed into the standard designation.
+The term is corpus-internal — it does not appear in the Raëlian source material under this specific designation. The source material uses descriptive language ("the three planets where life was created were put in competition," "several humanities are in competition," "only the best will have a right to the inheritance") that the corpus has condensed into the standard designation.
 
 ### Source-material terminology
 
@@ -64,7 +64,6 @@ The Raëlian source material uses several distinct terms for what the corpus org
 - **"Several humanities are in competition"** — the source's specific phrase from the Aries-age policy-shift passage, providing the principal source-material warrant for the corpus's "competition" terminology
 - **"Other humanities"** and **"parallel humanities"** — the source's terms for the non-Earth humanities created by the Elohim alliance
 - **"The inheritance"** (*l'héritage*) — the source's term for what the qualifying humanity will receive (the alliance's accumulated scientific and political knowledge)
-- **"Brothers from space"** — the term of the post-canonical 1978 message for the parallel humanities' specific relationship to Earth's humanity
 
 ### Related conceptual terminology
 
@@ -75,7 +74,7 @@ Several related conceptual terms operate within the framework:
 - **"Parallel humanities"** — the standard corpus term for the non-Earth humanities, preserving the source material's specific framing
 - **"Creation cycle"** — the corpus's term for the broader cosmic process of creation-maturation-inheritance-creation that the cosmic competition is one phase of
 
-The cross-corpus terminology is consistent in its specific framing: the framework is about **evaluation** rather than conflict, about **inheritance** rather than victory, about **cooperative continuation of the creation cycle** rather than zero-sum competition.
+The cross-corpus terminology is consistent in its specific framing: the framework is about **evaluation** rather than conflict, about **inheritance** rather than victory, and about the **continuation of the creation cycle**.
 
 ## Conventional understanding
 
@@ -181,22 +180,6 @@ The framework reads the prayer as containing the specific developmental program 
 
 This reading is substantially distinctive within the Christian interpretive tradition, which has read the prayer for two millennia as a petition for divine sovereignty to be established on earth. The framework registers the distinction honestly: the cosmic-competition reading goes substantially beyond the standard Christian interpretation, with the specific source-material warrant being the Raëlian source's explicit framing.
 
-### The 1978 message (post-canonical)
-
-Raëlian literature outside the three canonical books carries a message attributed to the Elohim and dated March 14, 1978. It does not appear in *The Book Which Tells the Truth*, *Extra-Terrestrials Took Me to Their Planet* or *Let's Welcome the Extra-terrestrials*, so the corpus treats it as post-canonical: it can colour the reading below, but it carries no canonical weight. The message as the corpus quotes it:
-
-> *"Beware! It is not impossible that other extra-terrestrial civilizations will make contact very soon with the people of the Earth. They are people we have also created scientifically in another part of the universe, and with whom we maintain presently no direct communication for reasons that we cannot explain to you now without creating a serious imbalance. You must simply know that we are counting on you to reveal to those people their true origin, for they are your brothers from space and like you are looking for their creator. Tell them the truth about their creation, by revealing to them The Book Which Tells the Truth and the message of October 7th of year 30 of the Age of Apocalypse."*
-
-The message is significant in several respects:
-
-- **The parallel humanities are operationally real**, not merely theoretical. The 1973 source material's parable-of-the-sower passage could be read as cosmological background; the post-canonical 1978 message treats the parallel humanities as concrete entities with whom Earth's humanity might soon make direct contact.
-- **The alliance "maintain[s] presently no direct communication"** with the parallel humanities — they are, like Earth's humanity in the post-Aries indirect-contact period, civilizations that the alliance has stepped back from for the broader inheritance-evaluation purposes.
-- **Earth's humanity has a specific mission** with respect to the parallel humanities: to deliver the message of human origins, to reveal to the other civilizations their true creation history, to function as the bearer of the disclosure that the alliance itself cannot directly provide.
-- **Contact is "very soon"** in the message's framing, though the specific timeline is not specified.
-- **The cooperative dimension** is explicit: Earth's humanity is to function as the carrier of the disclosure rather than as a competitor against the parallel humanities.
-
-The 1978 message, post-canonical, extends the framework's content beyond what the parable-of-the-sower passage alone would provide. The message establishes the cooperative-mission dimension that the framework reads as distinguishing the cosmic-competition framework from any zero-sum competitive reading.
-
 ### Other primary-source material
 
 Several other primary-source passages bear on the framework:
@@ -215,13 +198,13 @@ The framework's specific reading of the Cosmic Competition integrates multiple d
 
 The Cosmic Competition framework comprises five interrelated components:
 
-**Multiple humanities**. The Elohim alliance has conducted creation experiments on multiple worlds. The parable of the sower preserves the record of four creation attempts (three successes, one failure), but the framework does not preclude the possibility that additional creation attempts occurred either before or after the four the parable describes. The 1978 message specifies that "other extra-terrestrial civilizations" exist with whom the alliance currently maintains "no direct communication," with the framing implying multiple parallel humanities rather than a single specific other case.
+**Multiple humanities**. The Elohim alliance has conducted creation experiments on multiple worlds. The parable of the sower preserves the record of four creation attempts (three successes, one failure), but the framework does not preclude the possibility that additional creation attempts occurred either before or after the four the parable describes.
 
 **Evaluation against a standard**. Each humanity is being evaluated against the same standard — the level of moral, scientific, and political maturity required for inheritance. The standard is exacting and specific, with the three categories of qualification (treated below) providing the principal content.
 
 **Inheritance as the outcome**. The qualifying humanities receive **inheritance** — the alliance's accumulated scientific, political, and ethical knowledge transmitted through the formal embassy event. The inheritance enables the qualifying humanity to itself become a creator civilization, capable of continuing the cosmic chain of creation.
 
-**Non-adversarial character**. The competition is evaluative rather than zero-sum. Multiple humanities can potentially qualify; none might qualify; some intermediate outcome is possible. The post-canonical 1978 message adds a cooperative dimension in which Earth's humanity bears responsibilities toward the parallel humanities rather than competing against them.
+**The canon's stakes**. The canon states the outcome plainly: « Des trois mondes où la vie a été créée, le monde qui aura fait le plus de progrès recevra l'héritage. Celui qui n'aura pas progressé sera dominé par l'autre et anéanti » (TBWTT-4:88). The corpus adds no narrative of contact or rivalry between the humanities (woh-claim-0047).
 
 **The Aquarian-age operational relevance**. The inheritance threshold is becoming determinable across the present decades. The Aquarian age, opening with the atomic threshold of 1945, is the age in which humanity's qualification (or lack thereof) becomes the operational question.
 
@@ -256,18 +239,6 @@ The framework reads this passage as establishing several things:
 - The shift applied not only to Earth but to all parallel humanities the alliance had created
 
 The discovery's specific content — what evidence the Elohim found, how they verified their own origins as a created rather than autonomously evolved civilization — is not specified in the source material. What is specified is the consequence: the Elohim's self-understanding shifted fundamentally, and the shift produced specific changes in their operational policy toward all the humanities they had created.
-
-### The cooperative dimension
-
-The post-canonical 1978 message supplies a cooperative dimension to the framework that distinguishes it from any zero-sum competitive reading. The principal features:
-
-**Earth as carrier of the disclosure**. Earth's humanity, having received the Aquarian-age disclosure through Raël, is to function as the bearer of the disclosure to the parallel humanities when the conditions for contact between the civilizations become operationally available.
-
-**Mutual responsibilities**. Earth's humanity has specific responsibilities toward the parallel humanities — to spread the accurate account of human origins to them, to function as their introduction to the alliance and the cosmic chain. The parallel humanities, presumably, will have parallel responsibilities once they themselves come into contact with the alliance and with Earth.
-
-**Cooperative continuation of the creation cycle**. The cosmic chain of creation is, on the framework's reading, fundamentally cooperative rather than competitive. The qualifying humanities, having received the inheritance, will themselves continue the chain by creating new humanities on new worlds. The cosmic-competition framework's evaluation phase is therefore one stage in a broader cooperative process — the qualifying humanities will, after inheritance, become creator-civilizations cooperating in the broader project of expanding intelligent life across the cosmos.
-
-The cooperative dimension substantially distinguishes the framework from any reading that would treat the parallel humanities as competitors in a zero-sum sense. The framework is fundamentally an evaluation-cooperation framework rather than a competitive-conflict framework.
 
 ### The four creation attempts: framework-specific reading
 
@@ -342,7 +313,7 @@ The Cosmic Competition framework must be distinguished from various competitive 
 - A predestinarian soteriology in which the qualifying humanities are determined by divine election rather than by their actual development
 - An adversarial soteriology in which the qualifying humanities are determined through conflict with the disqualifying humanities
 
-The framework is specifically an **evaluation framework** in which the qualifying humanities are determined by their actual development against the standard. The framework is non-adversarial, non-particularist, non-predestinarian, and non-universalist in the specific senses these terms have within Christian and broader religious-theological tradition.
+The framework is specifically an **evaluation framework** in which the qualifying humanities are determined by their actual development against the standard. The framework is non-particularist, non-predestinarian, and non-universalist in the specific senses these terms have within Christian and broader religious-theological tradition.
 
 ## Modern reinterpretations
 
@@ -515,7 +486,7 @@ The corpus does not require rejecting all of the mainstream scholarly framework.
 
 Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. The "Parallel Humanities" passage is the principal source for the framework's specific multiple-humanities reading.
 
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*. The "Message of the Elohim, March 14th, 1978", the source of the cooperative-mission content, is not in this book or the other two canonical books; it is post-canonical.
+Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
 
 Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
 

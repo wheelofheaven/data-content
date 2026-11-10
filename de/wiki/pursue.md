@@ -1,7 +1,7 @@
 +++
 title = "PURSUE"
 slug = "pursue"
-description = "PURSUE — das Presidential Unsealing and Reporting System for UAP Encounters — ist das 2026 gestartete Programm der US-Regierung zur Deklassifizierung und öffentlichen Freigabe ungelöster Aufzeichnungen über unidentifizierte anomale Phänomene (UAP) auf dem Portal war.gov/UFO des Department of War. Angeordnet durch eine Präsidialdirektive vom 19. Februar 2026 und aufgesetzt auf einen gesetzlichen Offenlegungskanal, den der Kongress 2022 geschaffen hatte, hat es seit dem 8. Mai 2026 sieben Tranchen von Dokumenten, Bildern, Videos und Audioaufnahmen in fortlaufendem Rhythmus aus einem wachsenden Kreis von Behörden veröffentlicht. Der Wheel-of-Heaven-Rahmen verfolgt es als datierbare institutionelle Beschleunigung der Offenlegungsfrage — und hält zugleich, unter seiner eigenen Rezeptionshaltung, daran fest, dass keine freigegebene Akte ein Beleg für den Rahmen und kein widerlegter Fall ein Beleg gegen ihn ist."
+description = "PURSUE — das Presidential Unsealing and Reporting System for UAP Encounters — ist das 2026 gestartete Programm der US-Regierung zur Deklassifizierung und öffentlichen Freigabe ungelöster Aufzeichnungen über unidentifizierte anomale Phänomene (UAP) auf dem Portal war.gov/UFO des Department of War. Angeordnet durch eine Präsidialdirektive vom 19. Februar 2026 und aufgesetzt auf einen gesetzlichen Offenlegungskanal, den der Kongress 2022 geschaffen hatte, hat es seit dem 8. Mai 2026 sieben Tranchen von Dokumenten, Bildern, Videos und Audioaufnahmen in fortlaufendem Rhythmus aus einem wachsenden Kreis von Behörden veröffentlicht. Der Wheel-of-Heaven-Korpus registriert es als Kontext, nicht als Zeichen — und hält zugleich, unter seiner eigenen Rezeptionshaltung, daran fest, dass keine freigegebene Akte ein Beleg für den Rahmen und kein widerlegter Fall ein Beleg gegen ihn ist."
 template = "wiki-page.html"
 toc = true
 
@@ -29,7 +29,7 @@ launched = "Erste Tranche veröffentlicht am 8. Mai 2026 auf war.gov/UFO; die Re
 releases_to_date = "Sieben (8. Mai, 22. Mai, 12. Juni, 10. Juli, 7. August, 18. September, 23. Oktober 2026); weitere Veröffentlichungen als in Arbeit angekündigt"
 database = "Durchsuchbare Portaldatenbank mit 478 Akten über die sieben Veröffentlichungen (Stand der Erfassung: 23. Oktober 2026), filterbar nach Behörde, Veröffentlichung, Vorfallsdatum, Ort und Dateityp"
 contributing_agencies = "Department of War, NASA, CIA, FBI, Department of Energy, Department of State, Executive Office of the President und — seit der sechsten Veröffentlichung — eine lokale Strafverfolgungsbehörde in Colorado; ODNI in koordinierender Rolle"
-corpus_position = "Verfolgt als institutionelle Beschleunigung der Offenlegungskurve aus §IX des Wassermann-Zeitalters; registriert ohne Indienstnahme — keine freigegebene Akte zählt für den Rahmen, keine Widerlegung zählt gegen ihn"
+corpus_position = "Registriert als Kontext für die Lektüre des Kanons (Wassermann-Zeitalter, §IX), nicht als Zeichen der Rückkehr; registriert ohne Indienstnahme — keine freigegebene Akte zählt für den Rahmen, keine Widerlegung zählt gegen ihn"
 distinguished_from = "AARO (das ständige Analysebüro des Pentagons, das Fälle bewertet; PURSUE gibt Aufzeichnungen frei), der stückweisen Deklassifizierung der FOIA-Ära und dem kongressionalen Anhörungsstrang von 2023–2024"
 status_in_framework = "Dokumentiertes Regierungsprogramm, geführt in dokumentarischer Stärke; ausdrücklich nicht das offizielle, verifizierte Offenlegungsereignis, das die Rezeptionshaltung des Rahmens als ihre einzige Ausnahme benennt"
 +++
@@ -242,11 +242,12 @@ freizugeben, das die tieferen Behauptungen der Aussagen von 2023 berührt.
 ## Die Wheel-of-Heaven-Lesart
 
 Der neunte Abschnitt des Kapitels zum [Zeitalter des
-Wassermanns](/timeline/age-of-aquarius/) erwartet für die gegenwärtigen
-Jahrzehnte eine Beschleunigung darin, wie offiziell die UAP-Frage behandelt
-wird — die Meldungen des Korpus lesen die sieben Veröffentlichungen als sieben
-datierbare Punkte auf dieser Kurve und PURSUE selbst als den bislang
-deutlichsten institutionellen Ausdruck der Kurve.
+Wassermanns](/timeline/age-of-aquarius/) führt den sich wandelnden offiziellen
+Umgang mit der UAP-Frage unter den Veränderungen auf, die den Kontext der
+Gegenwart ausmachen, und behandelt sie als Kontext, nicht als Zeichen. Die
+Meldungen des Korpus registrieren jede der sieben Veröffentlichungen auf diese
+Weise; keine wird als Schritt hin zur Rückkehr gelesen, die der Kanon
+konditional und undatiert hält.
 
 Das Interesse des Rahmens ist spezifisch. Nach Darstellung des Kanons wird
 Kontakt — wenn und falls er kommt — **offiziell, staatlich und konditional**
@@ -306,10 +307,11 @@ behaupten.
 
 **Die Dauerhaftigkeit ist der eigentliche Test.** Ein fünf Monate altes
 Programm, das den Namen eines Präsidenten trägt, beweist durch Rhythmus
-allein wenig. Die tragende Frage des Rahmens selbst — argumentiert über die
-Meldungsserie hinweg — ist, ob die Offenlegungskurve einen Mehrjahreshorizont
+allein wenig. Die tragende Frage des Programms selbst — verfolgt über die
+Meldungsserie hinweg — ist, ob der Veröffentlichungsrhythmus einen Mehrjahreshorizont
 übersteht, über Administrationen und Nachrichtenzyklen hinweg. Diese Frage
-ist offen.
+ist offen, und ihre Antwort wird eine Tatsache über das Programm sein, kein
+Zeichen für den Rahmen.
 
 ## Siehe auch
 

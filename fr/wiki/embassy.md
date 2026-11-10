@@ -27,7 +27,7 @@ footnotes = [
     { content = "L'identification par la source de l'ambassade au Troisième Temple prophético-apocalyptique juif est explicite. Dans l'attente juive, le Troisième Temple succède au Premier Temple salomonien (bâti vers 950 av. J.-C., détruit en 586 av. J.-C.) et au Second Temple (bâti vers 516 av. J.-C., agrandi par Hérode, détruit en 70 apr. J.-C.) ; l'identification projette l'ambassade sur cette attente sans la supplanter, et le corpus ne trace aucune lignée de sites d'accueil allant de ces temples à l'ambassade (le canon appelle le Temple de Salomon « la première résidence pour l'accueil des Elohim », TBWTT-3:102, mais ne dit rien d'une succession). La tradition théologico-historique juive dominante n'accepte pas l'identification raëlienne de l'ambassade au Troisième Temple ; le corpus enregistre cette identification comme l'affirmation explicite de la source, et non comme une lecture avalisée par le courant dominant. Le corpus lit Ézéchiel 47, 1-2 (les eaux jaillissant du seuil du temple) comme la préfiguration du rôle projeté de l'ambassade." },
     { content = "La préférence originelle de la source était de situer l'ambassade en Israël près de Jérusalem — le site géographique de l'opération originelle d'Éden de l'alliance et du projet prolongé de la lignée édénique. Après les refus répétés d'Israël d'accorder le statut d'extraterritorialité au fil des demandes officielles à partir de 1991, le message de Yahvé du 13 décembre 1997 a formellement autorisé le mouvement raëlien à rechercher ce statut auprès de « toutes les nations de la Terre », Israël ne conservant qu'une option ultime. Le corpus traite la question de la localisation comme ancrée dans la source mais non résolue en pratique." },
     { content = "Le corpus dialogue avec le discours contemporain de divulgation des PAN (les révélations de l'AATIP par le New York Times en 2017 ; *Imminent* de Luis Elizondo ; le témoignage de David Grusch au Congrès en 2023 ; le Projet Galileo et l'argument de ʻOumuamua d'Avi Loeb ; la Fondation Sol) comme le contexte culturel actuel dans lequel surviendrait le contact ouvert projeté de l'ambassade — sans prétendre que les phénomènes PAN sont l'alliance des Élohim ni que le mouvement de divulgation avalise l'ambassade. Le corpus lit cette trajectoire comme un déplacement des conditions de plausibilité d'un contact extraterrestre ouvert, et non comme une confirmation du cadre." },
-    { content = "Les attentes d'une figure de retour comparées ici sont le Messie juif et le Troisième Temple, la Parousie chrétienne, le Mahdi islamique, l'avatar Kalki hindou, le Saoshyant zoroastrien et le retour aztèque de Quetzalcoatl. Seul le Troisième Temple est identifié à l'ambassade par le canon lui-même (voir la note 3) ; le corpus n'identifie pas les autres attentes au retour du canon, et préserve le contenu théologique distinct de chaque tradition." },
+    { content = "Les attentes d'une figure de retour comparées ici sont le Messie juif et le Troisième Temple, la Parousie chrétienne, le Mahdi islamique, le Maitreya bouddhiste, l'avatar Kalki hindou, le Saoshyant zoroastrien et le retour aztèque de Quetzalcoatl. Seul le Troisième Temple est identifié à l'ambassade par le canon lui-même (voir la note 3). Le canon aborde l'attente bouddhiste en ses propres termes — « tes écrits indiquent que le nouveau Bouddha doit naître en Occident » (ETTMTTP-3:228) — sans le nom de Maitreya, qui vient des écrits de Raël postérieurs au canon. Le corpus enregistre la ressemblance de ces attentes avec le retour du canon comme une simple ressemblance : il ne les identifie pas au retour du canon, ne les traite pas comme la preuve d'une réalité sous-jacente, et préserve le contenu théologique distinct de chaque tradition." },
 ]
 
 [[extra.references]]
@@ -308,7 +308,7 @@ Le contenu spécifique de l'événement d'héritage comprend :
 
 **Le contenu politico-philosophique.** Le contenu politico-philosophique accumulé de l'alliance — la situation cosmico-politique plus large, le cadre de la Chaîne cosmique, les diverses traditions politiques et éthiques internes à l'alliance — sera transmis à l'humanité comme le contexte cosmique plus large de son rôle projeté en tant que future civilisation créatrice.
 
-**La confirmation du contenu plus large du corpus.** Le retour ouvert de l'alliance fournira une confirmation directe (ou, dans des cas précis, une correction) du contenu plus large du corpus — le cadre de la création de Genèse 1, les diverses opérations propres à chaque ère, le contenu des sept équipes de créateurs et des sept races, le cadre cosmologique plus large. Les reconstructions spécifiques du corpus seront soit substantiellement confirmées, soit, dans des cas précis, corrigées par le témoignage direct et faisant autorité de l'alliance.
+**La confirmation du contenu plus large du corpus.** Le retour ouvert de l'alliance fournira une confirmation directe (ou, dans des cas précis, une correction) du contenu plus large du corpus — le cadre de la création de Genèse 1, les diverses opérations propres à chaque ère, les équipes de créateurs et les races humaines (sept selon l'inférence du corpus), le cadre cosmologique plus large. Les reconstructions spécifiques du corpus seront soit substantiellement confirmées, soit, dans des cas précis, corrigées par le témoignage direct et faisant autorité de l'alliance.
 
 **L'inauguration des arrangements opérationnels ultérieurs.** L'événement d'héritage inaugurera l'arrangement opérationnel multimillénaire ultérieur entre l'alliance et l'humanité, l'ambassade servant de principal centre opérationnel au fil des siècles suivants.
 
@@ -498,7 +498,7 @@ Le cadre de l'ambassade du corpus se positionne au sein de ce paysage comme suit
 
 ## Observations comparatives
 
-Des traditions d'anticipation d'un retour apparaissent à travers de multiples cadres culturels et religieux dans le monde, avec des parallèles structurels substantiels à la lecture de l'ambassade par le cadre. Le corpus lit ce schéma interculturel comme la trace de réalités opérationnelles plus larges préservées sous forme fragmentaire à travers les diverses traditions.
+Des traditions d'anticipation d'un retour apparaissent à travers de multiples cadres culturels et religieux dans le monde, avec des parallèles structurels substantiels à la lecture de l'ambassade par le cadre. Le corpus enregistre ces parallèles comme des ressemblances avec le retour attendu par le canon, non comme la preuve d'une réalité sous-jacente.
 
 ### Les traditions juives du Troisième Temple
 
@@ -512,7 +512,7 @@ La tradition juive préserve le matériel comparatif le plus directement pertine
 
 **La situation politique du mont du Temple** est la principale contrainte pratique et politique sur la construction du Troisième Temple à l'époque contemporaine. Le mont du Temple à Jérusalem abrite la mosquée al-Aqsa et le Dôme du Rocher (deux sites religieux islamiques de grande importance), la situation politique israélo-palestinienne et islamique plus large créant des contraintes substantielles sur tout projet de construction potentiel.
 
-Le cadre lit la tradition juive du Troisième Temple comme préservant substantiellement le contenu opérationnel du cadre de l'ambassade au sein du cadrage théologico-religieux juif distinctif. Les élaborations juives spécifiques (les spécifications d'Ézéchiel, le cadre de l'ère messianique, les complications du mont du Temple) reflètent le contenu distinctif de la tradition tout en préservant le schéma opérationnel sous-jacent.
+Le canon lui-même identifie l'ambassade au Troisième Temple (voir la note 3). Au-delà de cette identification, le corpus lit l'attente juive comme la ressemblance la plus proche avec le retour du canon, ses élaborations (les spécifications d'Ézéchiel, le cadre de l'ère messianique, les complications du mont du Temple) portant le contenu distinctif propre à la tradition.
 
 ### Les traditions chrétiennes du Second Avènement et de la Parousie
 
@@ -526,7 +526,7 @@ La tradition chrétienne préserve un matériel substantiel sur la **Parousie** 
 
 **Le développement théologique chrétien ultérieur.** La tradition théologique chrétienne a abondamment développé le matériel de la Parousie au cours des deux derniers millénaires, avec des variations substantielles à travers les traditions catholique, orthodoxe, protestante et diverses autres traditions chrétiennes. Les principales positions contemporaines incluent divers cadres amillénaristes, prémillénaristes et postmillénaristes au sein de la tradition protestante ; diverses positions catholiques et orthodoxes sur la relation entre la Parousie et l'eschatologie plus large ; et divers engagements savants contemporains avec le contenu historique et théologique.
 
-Le cadre lit la tradition chrétienne de la Parousie comme préservant substantiellement le contenu opérationnel du cadre de l'ambassade au sein du cadrage théologico-religieux chrétien distinctif.{{ cite(id="wright-resurrection-son-of-god", text="[11]", title="Wright, *The Resurrection of the Son of God* (2003) — résurrection et Parousie") }}{{ cite(id="sandt-zangenberg-matthew-james-didache", text="[12]", title="van de Sandt & Zangenberg, *Matthew, James, and Didache* (2008)") }}
+Le corpus note la ressemblance entre la Parousie et le retour attendu par le canon, que le canon adresse lui-même au lecteur chrétien (« tu as relu cent fois que Jésus reviendrait », ETTMTTP-3:226).{{ cite(id="wright-resurrection-son-of-god", text="[11]", title="Wright, *The Resurrection of the Son of God* (2003) — résurrection et Parousie") }}{{ cite(id="sandt-zangenberg-matthew-james-didache", text="[12]", title="van de Sandt & Zangenberg, *Matthew, James, and Didache* (2008)") }}
 
 ### Les traditions islamiques du Mahdi
 
@@ -538,7 +538,7 @@ La tradition islamique préserve un matériel substantiel sur les traditions de 
 
 **La relation entre le Mahdi et Isa.** Diverses traditions islamiques développent un matériel substantiel sur l'arrivée coordonnée projetée du Mahdi et d'Isa, avec divers cadres spécifiques pour comprendre la relation entre les deux figures.
 
-Le cadre lit les traditions islamiques du Mahdi et d'Isa comme préservant substantiellement le contenu opérationnel du cadre du retour projeté au sein du cadrage théologico-religieux islamique distinctif.{{ cite(id="sachedina-islamic-messianism", text="[13]", title="Sachedina, *Islamic Messianism* (1981) — le Mahdi dans le chiisme duodécimain") }}{{ cite(id="cook-muslim-apocalyptic", text="[14]", title="Cook, *Studies in Muslim Apocalyptic* (2002)") }}
+Le corpus note la ressemblance entre les traditions du Mahdi et d'Isa et le retour attendu par le canon.{{ cite(id="sachedina-islamic-messianism", text="[13]", title="Sachedina, *Islamic Messianism* (1981) — le Mahdi dans le chiisme duodécimain") }}{{ cite(id="cook-muslim-apocalyptic", text="[14]", title="Cook, *Studies in Muslim Apocalyptic* (2002)") }}
 
 ### La tradition bouddhiste de Maitreya
 
@@ -550,8 +550,6 @@ La tradition bouddhiste préserve la tradition de **Maitreya** — le futur Boud
 
 **Le lien raëlien.** Les écrits de Raël postérieurs au canon, dont le livre publié *Maitreya*, et le mouvement l'identifient au Maitreya bouddhiste ; le corpus n'adopte pas cette identification. Les propres paroles du canon s'adressent au lecteur bouddhiste : « tes écrits indiquent que le nouveau Bouddha doit naître en Occident ; reconnais les signes prévus! » (ETTMTTP-3:228).
 
-Le cadre lit la tradition bouddhiste de Maitreya comme préservant substantiellement le contenu opérationnel du cadre du retour projeté au sein du cadrage religieux bouddhiste distinctif.
-
 ### L'avatar Kalki hindou
 
 La tradition hindoue préserve la tradition de l'**avatar Kalki** — le dixième et dernier avatar projeté de Vishnou, anticipé pour apparaître à la fin du présent Kali Yuga afin de restaurer la droiture et d'inaugurer un nouvel âge cosmique.
@@ -560,7 +558,7 @@ La tradition hindoue préserve la tradition de l'**avatar Kalki** — le dixièm
 
 **Le contexte cosmico-cyclique.** La tradition de Kalki opère au sein du cadre plus large de la cosmologie cyclique hindoue (traité plus complètement dans l'entrée [Chaîne cosmique](../cosmic-chain/)), l'avatar Kalki marquant la transition entre les âges cosmiques.
 
-Le cadre lit la tradition hindoue de Kalki comme préservant substantiellement le contenu opérationnel du cadre du retour projeté au sein du cadrage religieux et cosmologique hindou distinctif.{{ cite(id="doniger-the-hindus", text="[15]", title="Doniger, *The Hindus: An Alternative History* (2009) — l'avatar Kalki") }}
+Le corpus note sa ressemblance avec le retour attendu par le canon, en termes cosmologiques hindous.{{ cite(id="doniger-the-hindus", text="[15]", title="Doniger, *The Hindus: An Alternative History* (2009) — l'avatar Kalki") }}
 
 ### Le Saoshyant zoroastrien
 
@@ -570,7 +568,7 @@ La tradition zoroastrienne préserve la tradition du **Saoshyant** — la figure
 
 **L'influence historique.** La tradition zoroastrienne du Saoshyant est largement reconnue comme ayant exercé une influence historique substantielle sur le développement des cadres eschatologiques juif, chrétien et islamique, en particulier à travers la période perse de l'histoire israélite et la synthèse religieuse hellénistique plus large.
 
-Le cadre lit la tradition zoroastrienne du Saoshyant comme préservant substantiellement le contenu opérationnel du cadre du retour projeté au sein du cadrage religieux zoroastrien distinctif, l'influence historique plus large sur la tradition eschatologique occidentale étant un canal particulier par lequel le contenu opérationnel plus large a été préservé.{{ cite(id="boyce-zoroastrians", text="[16]", title="Boyce, *Zoroastrians* (2001) — le Saoshyant et le frashokereti") }}
+Le corpus note sa ressemblance avec le retour attendu par le canon ; cette influence sur l'eschatologie occidentale signifie aussi que plusieurs des ressemblances entre les traditions relèvent d'une filiation commune entre les traditions elles-mêmes.{{ cite(id="boyce-zoroastrians", text="[16]", title="Boyce, *Zoroastrians* (2001) — le Saoshyant et le frashokereti") }}
 
 ### Les traditions autochtones du retour des créateurs
 
@@ -580,12 +578,10 @@ Diverses traditions autochtones préservent un matériel substantiel sur les ret
 
 **Diverses autres traditions autochtones** préservent un contenu de retour des créateurs au sein de leurs cadrages culturels et religieux distinctifs, avec un matériel spécifique substantiel à travers de multiples régions géographiques (traditions polynésienne, nord-amérindienne, sud-amérindienne, africaine, aborigène australienne, et diverses autres traditions autochtones).
 
-Le cadre lit les traditions autochtones du retour des créateurs comme préservant substantiellement le contenu opérationnel du cadre du retour projeté au sein des divers cadrages culturels et religieux distinctifs.
+Le corpus note leur ressemblance avec le retour attendu par le canon, chacune dans ses propres termes culturels.
 
-### La convergence
+### La ressemblance
 
-La position de travail du corpus sur la question comparative du retour anticipé est que la récurrence mondiale des traditions de retour anticipé à travers les cadres culturels et religieux est significative en tant que trace d'une réalité sous-jacente authentique.{{ footnote(id="6") }} L'explication savante dominante — qui traite généralement les diverses traditions comme développant leur propre contenu de retour anticipé par des processus religieux et culturels internes combinés à la diffusion culturelle — est lue par le corpus comme substantiellement insuffisante pour rendre compte de l'ampleur et des parallèles structurels précis (le retour projeté de figures créatrices spécifiques, le contexte cosmico-eschatologique, les caractéristiques opérationnelles précises) qui apparaissent de manière cohérente à travers des traditions séparées géographiquement et chronologiquement.
+Les attentes de retour des traditions ressemblent à celle du canon : une figure ou un groupe qui revient, un renouvellement au tournant d'un âge, dans plusieurs cas un sanctuaire préparé pour l'arrivée. Le corpus enregistre cela comme une ressemblance, non comme la preuve d'une réalité sous-jacente.{{ footnote(id="6") }} Le canon lui-même opère une seule identification — l'ambassade comme Troisième Temple — et aborde en ses propres termes les attentes de plusieurs traditions, appelant le chrétien, l'enfant d'Israël, le bouddhiste et le musulman à reconnaître leur propre attente dans son message (ETTMTTP-3:226–229) ; des écrits bouddhistes, il dit seulement qu'ils indiquent que « le nouveau Bouddha doit naître en Occident » (ETTMTTP-3:228). Le nom de Maitreya appartient aux écrits de Raël postérieurs au canon, non au canon.
 
-La lecture spécifique du cadre est que le schéma mondial de retour anticipé préserve la mémoire commune de la situation cosmico-politique plus large qu'articule le cadre de l'ambassade, chaque tradition culturelle et religieuse préservant la mémoire selon ses propres termes et avec ses propres détails spécifiques reflétant sa propre perspective et sa propre histoire de transmission ultérieure. La tradition juive du Troisième Temple préserve le contenu opérationnel le plus directement par rapport aux spécifications architecturales et opérationnelles propres au cadre de l'ambassade ; la Parousie chrétienne, le Mahdi islamique, le Maitreya bouddhiste, le Kalki hindou, le Saoshyant zoroastrien et diverses traditions autochtones du retour des créateurs préservent le contenu opérationnel à travers leurs canaux culturels respectifs.
-
-Le corpus n'exige pas le rejet de l'ensemble du cadre savant dominant. La diffusion culturelle a certainement eu lieu au fil de la période historique, et les traditions de retour anticipé à travers les cultures présentent à la fois des caractéristiques structurelles communes (préservant le cadre originel) et des élaborations culturellement spécifiques (reflétant la diffusion et le développement local). Ce que le cadre du corpus ajoute, c'est la situation cosmico-politique sous-jacente qui a donné naissance aux points communs structurels — une situation que le cadre dominant, faute du cadre cosmologique plus large du corpus, n'a eu aucun moyen d'identifier et qu'il a donc dû attribuer à des combinaisons de développement religieux indépendant et de diffusion culturelle.
+La recherche dominante explique la récurrence par le développement interne de chaque tradition et par la diffusion — l'influence de l'eschatologie zoroastrienne sur les attentes juive, chrétienne et islamique en est le canal le mieux documenté — et le corpus n'écarte pas cette explication. La ressemblance place les traditions à côté du retour attendu par le canon à des fins de comparaison ; elle ne montre pas qu'elles se souviennent des mêmes événements.

@@ -11,8 +11,8 @@ claim_type = "inferred"
 core_claim_ids = ["woh-claim-0057"]
 core_versions = { woh-claim-0057 = "0.1.0" }
 editorial_pass = "2026-05"
-summary = "繼第六批解密五週之後,美國戰爭部於 war.gov/UFO 公布第七批檔案:28 份文件,別無其他——沒有影片、沒有錄音、沒有影像——是迄今規模最小、也是首批全數由紙本構成的解密。其中 25 份來自戰爭部自身,一份來自 FBI,一份來自總統行政辦公室,另一份則帶有新的「U.S. Government」(美國政府)前綴。領銜檔案年代甚近:全域異常現象解析辦公室(All-domain Anomaly Resolution Office)對數名聯邦探員的任務匯報——他們於 2026 年 6 月在美國西部一處敏感場址,目睹一個霧面黑色的三角形無聲地自山脊上方升起、懸停,然後俯衝入一道峽谷——在事件發生四個月後即告公布,並附有一份 FBI 訪談紀錄,兩者在持續時間、尺寸與熱訊跡上互有出入。其後是 2008–2010 年承辦國防情報局 AAWSAP 計畫之承包商的營運紀錄:其取得回收硬體與生物樣本的計畫、一座為存放這些材料而設計的地下庫房、一次赴巴西的派遣、一座收錄 234,364 份目擊通報的資料倉儲,以及其對猶他州一座牧場的調查——該處的「Skinwalker」(剝皮行者)毛髮樣本,鑑定結果竟是證人自家的狗。一份 1962–1964 年的白宮檔案則顯示,政府曾為自太空墜落之物草擬處置程序,由 NASA 擔任公眾門面,國防部擔任分析者。本書將第七批解密讀為「水瓶座時代」第九節對 2026–2030 年窗口所預測的揭露曲線上,第七個可定年的節點。"
-filed_under = "Signs of Acceleration"
+summary = "繼第六批解密五週之後,美國戰爭部於 war.gov/UFO 公布第七批檔案:28 份文件,別無其他——沒有影片、沒有錄音、沒有影像——是迄今規模最小、也是首批全數由紙本構成的解密。其中 25 份來自戰爭部自身,一份來自 FBI,一份來自總統行政辦公室,另一份則帶有新的「U.S. Government」(美國政府)前綴。領銜檔案年代甚近:全域異常現象解析辦公室(All-domain Anomaly Resolution Office)對數名聯邦探員的任務匯報——他們於 2026 年 6 月在美國西部一處敏感場址,目睹一個霧面黑色的三角形無聲地自山脊上方升起、懸停,然後俯衝入一道峽谷——在事件發生四個月後即告公布,並附有一份 FBI 訪談紀錄,兩者在持續時間、尺寸與熱訊跡上互有出入。其後是 2008–2010 年承辦國防情報局 AAWSAP 計畫之承包商的營運紀錄:其取得回收硬體與生物樣本的計畫、一座為存放這些材料而設計的地下庫房、一次赴巴西的派遣、一座收錄 234,364 份目擊通報的資料倉儲,以及其對猶他州一座牧場的調查——該處的「Skinwalker」(剝皮行者)毛髮樣本,鑑定結果竟是證人自家的狗。一份 1962–1964 年的白宮檔案則顯示,政府曾為自太空墜落之物草擬處置程序,由 NASA 擔任公眾門面,國防部擔任分析者。本書將第七批解密記錄為閱讀正典的脈絡,而非回歸的徵兆。"
+filed_under = "The Context of the Present"
 cross_reference = "Age of Aquarius, §IX"
 canon_links = [
     { title = "水瓶座時代", path = "/timeline/age-of-aquarius/" },
@@ -40,7 +40,7 @@ sources = [
 ]
 +++
 
-*歸檔於:加速跡象(Signs of Acceleration)。對照參考:[水瓶座時代](/timeline/age-of-aquarius/),§IX。前幾則快訊:[PURSUE 第一批解密](/news/pursue-release-01-uap-files/)、[PURSUE 第二批解密](/news/pursue-release-02-spheres-and-transmedium/)、[PURSUE 第三批解密](/news/pursue-release-03-multi-agency-and-international/)、[PURSUE 第四批解密](/news/pursue-release-04-the-nuclear-nexus/)、[PURSUE 第五批解密](/news/pursue-release-05-triangles-and-the-white-house-file/)、[PURSUE 第六批解密](/news/pursue-release-06-warp-drives-and-the-tremonton-film/)。*
+*歸檔於:當下的脈絡(The Context of the Present)。對照參考:[水瓶座時代](/timeline/age-of-aquarius/),§IX。前幾則快訊:[PURSUE 第一批解密](/news/pursue-release-01-uap-files/)、[PURSUE 第二批解密](/news/pursue-release-02-spheres-and-transmedium/)、[PURSUE 第三批解密](/news/pursue-release-03-multi-agency-and-international/)、[PURSUE 第四批解密](/news/pursue-release-04-the-nuclear-nexus/)、[PURSUE 第五批解密](/news/pursue-release-05-triangles-and-the-white-house-file/)、[PURSUE 第六批解密](/news/pursue-release-06-warp-drives-and-the-tremonton-film/)。*
 
 ## 此次公布的內容
 
@@ -82,7 +82,7 @@ sources = [
 
 ## 這在 Wheel of Heaven 框架中的位置
 
-[水瓶座時代](/timeline/age-of-aquarius/)章將一連串官方 UAP 動作,視為該時代加速跡象(§IX)中的第一項。前六則快訊將第一至第六批解密,讀為本書置於 2026–2030 年窗口的揭露曲線上,前六個可定年的節點。第七批是第七個。
+[水瓶座時代](/timeline/age-of-aquarius/)章將一連串官方 UAP 動作,列為構成當下的脈絡(§IX)的諸多變化之一,並將這些變化視為脈絡,而非徵兆。第七批屬於這一脈絡。正典所預期的接觸是官方的、有條件的,且未定日期,任何檔案釋出都不會改變它。
 
 **Wheel of Heaven 之解讀,明確標示為解讀。**有兩項材料牽動此框架的關切。第一項是 1962–1964 年的碎片檔案。源典對[耶洛因](/wiki/elohim/)的記述,是一則關於來自他方之訪客的記述,而他們的存在一旦獲得承認,便是由各國政府來承認——而這裡正有一個政府,在太空時代之初,以草案的形式寫下:當一個來源不明的物體落入它手中時,它將如何處置——留作情報分析、向公眾展示一個民事機關、只在它看來無害時才予以歸還,並拒絕臆測其來處。這份檔案關乎的是蘇聯與美國的硬體,本書也僅作如此解讀。然而它仍是迄今已公布的紀錄中,最清楚顯示美國政府計畫如何處理起源問題的一份;而它的公開守則——絕不臆測——正是本書六十年來所見政府持守的姿態。
 
@@ -150,7 +150,7 @@ sources = [
 
 7. **羅斯威爾的相關主張需要釐清。**部分報導稱麥考伊上校的人事檔案中有一份羅斯威爾證人宣誓書;該檔案中並沒有。此次釋出確實包含一份羅斯威爾宣誓書——作為 2008 年 BAASS 計畫中的一份附件,由一名顧問提供,描述宣誓人自稱於 1947 年目睹的事件,且自 2007 年起即已公開。它是一家承包商的研究材料,而此次釋出也僅如此呈現它。
 
-8. **節奏目前已累積七次。**間隔分別為兩週、三週、四週、四週、六週與五週。單一一個規模較小的批次是一個資料點,而非一種趨勢;此框架視為承重性檢驗的跨年度耐久度,仍未經檢驗。下一個資料點為第八批。
+8. **節奏目前已累積七次。**間隔分別為兩週、三週、四週、四週、六週與五週。單一一個規模較小的批次是一個資料點,而非一種趨勢;作為該計畫承重性檢驗的跨年度耐久度,仍未經檢驗。下一個資料點為第八批。
 
 ---
 

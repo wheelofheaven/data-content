@@ -1,7 +1,7 @@
 +++
 title = "PURSUE"
 slug = "pursue"
-description = "PURSUE — le Presidential Unsealing and Reporting System for UAP Encounters — est le programme du gouvernement des États-Unis, lancé en 2026, de déclassification et de publication des dossiers non résolus relatifs aux phénomènes anormaux non identifiés (UAP) sur le portail war.gov/UFO du Département de la Guerre. Ordonné par une directive présidentielle du 19 février 2026 et opérant au-dessus d'un canal de divulgation statutaire créé par le Congrès en 2022, il a publié depuis le 8 mai 2026 sept tranches de documents, d'images, de vidéos et d'enregistrements audio à cadence régulière, provenant d'un cercle d'agences toujours plus large. Le cadre Wheel of Heaven le suit comme une accélération institutionnelle datable de la question de la divulgation — tout en maintenant, selon sa propre posture de réception, qu'aucun fichier publié n'est une preuve en faveur du cadre et qu'aucun cas réfuté n'est une preuve contre lui."
+description = "PURSUE — le Presidential Unsealing and Reporting System for UAP Encounters — est le programme du gouvernement des États-Unis, lancé en 2026, de déclassification et de publication des dossiers non résolus relatifs aux phénomènes anormaux non identifiés (UAP) sur le portail war.gov/UFO du Département de la Guerre. Ordonné par une directive présidentielle du 19 février 2026 et opérant au-dessus d'un canal de divulgation statutaire créé par le Congrès en 2022, il a publié depuis le 8 mai 2026 sept tranches de documents, d'images, de vidéos et d'enregistrements audio à cadence régulière, provenant d'un cercle d'agences toujours plus large. Le corpus Wheel of Heaven l'enregistre comme un contexte, non comme un signe — en maintenant, selon sa propre posture de réception, qu'aucun fichier publié n'est une preuve en faveur du cadre et qu'aucun cas réfuté n'est une preuve contre lui."
 template = "wiki-page.html"
 toc = true
 
@@ -29,7 +29,7 @@ launched = "Première tranche publiée le 8 mai 2026 sur war.gov/UFO ; l'analyse
 releases_to_date = "Sept (8 mai, 22 mai, 12 juin, 10 juillet, 7 août, 18 septembre, 23 octobre 2026) ; d'autres publications annoncées comme en préparation"
 database = "Base de données consultable du portail : 478 fichiers répartis sur les sept communiqués (état au 23 octobre 2026), filtrables par agence, communiqué, date de l'incident, lieu et type de fichier"
 contributing_agencies = "Département de la Guerre, NASA, CIA, FBI, Département de l'Énergie, Département d'État, Bureau exécutif du président et — depuis le sixième communiqué — une agence locale de maintien de l'ordre du Colorado ; l'ODNI dans un rôle de coordination"
-corpus_position = "Suivi comme l'accélération institutionnelle de la courbe de divulgation du §IX de l'Âge du Verseau ; enregistré sans enrôlement — aucun fichier publié ne compte en faveur du cadre, aucun démenti ne compte contre lui"
+corpus_position = "Enregistré comme contexte pour lire le canon (Âge du Verseau, §IX), non comme un signe du retour ; enregistré sans enrôlement — aucun fichier publié ne compte en faveur du cadre, aucun démenti ne compte contre lui"
 distinguished_from = "L'AARO (le bureau d'analyse permanent du Pentagone, qui statue sur les cas ; PURSUE publie des dossiers), la déclassification parcellaire de l'ère FOIA et la voie des auditions parlementaires de 2023–2024"
 status_in_framework = "Programme gouvernemental documenté, retenu à valeur documentaire ; explicitement pas l'événement de divulgation officiel et vérifié que la posture de réception du cadre nomme comme sa seule exception"
 +++
@@ -241,10 +241,11 @@ témoignages de 2023.
 ## La lecture Wheel of Heaven
 
 La neuvième section du chapitre de l'[Âge du Verseau](/timeline/age-of-aquarius/)
-anticipe, pour les décennies présentes, une accélération du traitement
-officiel de la question UAP — les dépêches du corpus lisent les sept
-communiqués comme sept points datables sur cette courbe, et PURSUE lui-même
-comme l'expression institutionnelle la plus nette de la courbe à ce jour.
+range l'évolution du traitement officiel de la question UAP parmi les
+changements qui forment le contexte du présent, et les traite comme un
+contexte, non comme des signes. Les dépêches du corpus enregistrent chacun
+des sept communiqués de cette manière ; aucun n'est lu comme un pas vers le
+retour, que le canon maintient conditionnel et non daté.
 
 L'intérêt du cadre est spécifique. Selon le récit du canon, le contact — si
 et quand il vient — sera **officiel, gouvernemental et conditionnel** : un
@@ -307,10 +308,11 @@ affirment.
 
 **La durabilité est le vrai test.** Un programme vieux de cinq mois,
 portant le nom d'un président, ne prouve pas grand-chose par sa seule
-cadence. La question porteuse du cadre — argumentée à travers la série de
-dépêches — est de savoir si la courbe de divulgation survivra à un horizon
+cadence. La question porteuse du programme lui-même — suivie à travers la série de
+dépêches — est de savoir si la cadence des publications survivra à un horizon
 pluriannuel, à travers les administrations et les cycles d'actualité. Cette
-question est ouverte.
+question est ouverte, et sa réponse sera un fait concernant le programme, non
+un signe pour le cadre.
 
 ## Voir aussi
 
