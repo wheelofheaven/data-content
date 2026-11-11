@@ -8,8 +8,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 symbol = "✦"
@@ -136,7 +136,7 @@ Die Eröffnungsperiode des Projekts — die Periode, die das Korpus als Zeitalte
 
 Die Ankunft selbst wurde nach Darstellung der Quelle mit der operativen Disziplin durchgeführt, die das Projekt von Beginn an kennzeichnete. Die Fahrzeuge der Expedition traten in die Atmosphäre der Erde ein, vermaßen die Planetenoberfläche aus niedrigem Orbit, um geeignete erste Landeplätze zu identifizieren, und führten die ersten Landeoperationen an den Orten durch, die die Vermessungen als am geeignetsten identifiziert hatten. Die spezifischen Orte sind im Quellenmaterial nicht mit geographischem Detail überliefert, aber das allgemeine Muster lässt sich rekonstruieren. Die Basen der Schöpfer, deren Zahl die Quelle mit sieben angibt (TBWTT 3:292) und die sie mit dem siebenarmigen Leuchter verbindet, einst eine Zentrale mit sieben Leuchtanzeigen in ihrem Hauptquartier, „die ihnen erlaubten, mit den anderen Basen und mit dem interplanetaren Gerät in einer Umlaufbahn um die Erde in Kontakt zu bleiben“ (TBWTT 3:294), wurden in der Lesart des Korpus in dieser Eröffnungsperiode an Orten errichtet, die über die wichtigsten geographischen Regionen der Landoberfläche des Planeten verteilt waren. Die Quelle setzt diese Basen nicht mit den Schöpfungsteams der menschlichen Schöpfung gleich (TBWTT 2:25).
 
-Jeder Ort musste geologisch stabil sein, klimatisch geeignet, ökologisch tragfähig für die Operationen, die das Team dort durchführen würde, hinreichend von den anderen entfernt, um unabhängiges Arbeiten zu ermöglichen, und doch innerhalb der Kommunikations- und Logistikreichweite, die die Gesamtkoordination des Projekts erforderte. Die geographische Verteilung der sieben Orte über die wichtigsten Landmassen des Planeten antizipierte die schließliche geographische Verteilung der menschlichen Bevölkerungen, die die Teams erschaffen würden.
+Jeder Ort musste geologisch stabil sein, klimatisch geeignet, ökologisch tragfähig für die dort durchzuführenden Operationen, hinreichend von den anderen entfernt, um unabhängiges Arbeiten zu ermöglichen, und doch innerhalb der Kommunikations- und Logistikreichweite, die die Gesamtkoordination des Projekts erforderte. In der Lesart des Korpus antizipierte die Verteilung der sieben Orte über die wichtigsten Landmassen des Planeten die spätere Verteilung der menschlichen Bevölkerungen, wobei die Quelle keine Basis einem bestimmten Team oder einer bestimmten Rasse zuordnet.
 
 Die ersten Monate waren systematischen Vermessungen gewidmet: atmosphärische Zusammensetzung, geologische Strukturen, Wassersysteme, verfügbare chemische Ressourcen, die spezifischen Eigenschaften der lokalen Umgebung jedes Basisorts. Die Expedition hatte die für diese Vermessungen erforderlichen analytischen Instrumente mitgebracht, die für die Integration der Daten erforderliche Recheninfrastruktur und die Entscheidungsverfahren, die erforderlich waren, um die Vermessungsergebnisse in die operativen Pläne zu übersetzen, die die nachfolgende Arbeit leiten würden. Das Zeitalter des Steinbocks war in diesem Sinne ein Zeitalter der Vorbereitung. Die substantielle Syntheseforschung, die das Projekt schließlich unternehmen würde, hatte noch nicht begonnen. Was begonnen hatte, war die sorgfältige Vermessung und Planung, die die nachfolgende Arbeit ermöglichen würde.
 

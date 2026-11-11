@@ -7,10 +7,10 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 99
+translation_sync = 100
 same_as = ["https://www.wikidata.org/wiki/Q4771131", "https://en.wikipedia.org/wiki/Antediluvian"]
 core_versions = { woh-claim-0019 = "0.1.0" }
 core_claim_ids = ["woh-claim-0019"]
@@ -274,7 +274,7 @@ Der Korpus liest die parallelen Genealogien so, dass sie den dualen Charakter de
 Und es geschah, als die Menschen begannen sich auf der Fläche des Erdbodens zu mehren, und ihnen Töchter geboren wurden, da sahen die *benei ha-Elohim* die Töchter der Menschen, dass sie schön waren, und sie nahmen sich zu Frauen, welche sie irgend erwählten. … In jenen Tagen waren die *Nephilim* auf der Erde, und auch nachher, als die *benei ha-Elohim* zu den Töchtern der Menschen eingingen und sie ihnen gebaren: das sind die Helden, die in der Urzeit waren, die Männer von Ruhm.
 {% end %}
 
-Der Korpus liest diese Passage in ihrem Wortsinn. Die *benei ha-Elohim* — die „Söhne der {% wiki(slug="elohim") %}Elohim{% end %}", wobei der bestimmte Artikel die Bezugnahme spezifisch und nicht generisch macht — sind Mitglieder der Elohim-Zivilisation, auf der Lesart des Korpus identifizierbar als die verbannte Luzifer-Fraktion, deren fortgesetzte Präsenz auf der Erde das strukturelle Merkmal der Periode nach Eden ist. Die „Töchter der Menschen" sind menschliche Frauen der Eden-Linie. Die Verbindungen sind biologische Verbindungen zwischen zwei Arten, die eng genug verwandt sind, um fertile Fortpflanzung zu erlauben. Die *Nephilim* sind die hybriden Nachkommen dieser Verbindungen, die über Fähigkeiten verfügen, die das Quellenmaterial als außergewöhnlich beschreibt und die die breitere antike Tradition (das Buch Henoch, das Buch der Jubiläen und die Wächter-Tradition allgemeiner) in ausgearbeiteter Form bewahrt.
+Der Korpus liest diese Passage in ihrem Wortsinn. Die *benei ha-Elohim* — die „Söhne der {% wiki(slug="elohim") %}Elohim{% end %}", wobei der bestimmte Artikel die Bezugnahme spezifisch und nicht generisch macht — sind Mitglieder der Elohim-Zivilisation, auf der Lesart des Korpus identifizierbar als die verbannte Luzifer-Fraktion, deren fortgesetzte Präsenz auf der Erde das strukturelle Merkmal der Periode nach Eden ist. Die „Töchter der Menschen" sind menschliche Frauen der Eden-Linie. Die Verbindungen sind biologische Verbindungen zwischen zwei Arten, die eng genug verwandt sind, um fertile Fortpflanzung zu erlauben. Die *Nephilim* sind die hybriden Nachkommen dieser Verbindungen, die über Fähigkeiten verfügen, die das Quellenmaterial als außergewöhnlich beschreibt und die die breitere antike Tradition (das {% wiki(slug="book-of-enoch") %}Buch Henoch{% end %}, das Buch der Jubiläen und die Wächter-Tradition allgemeiner) in ausgearbeiteter Form bewahrt.
 
 Die Lesart des Korpus ist geradlinig, wo konventionelle theologische Lesarten in entweder übernatürliche oder apologetische Konstruktionen gezwungen wurden. Die konventionellen Alternativen — die *benei ha-Elohim* als „Söhne Gottes" in einem metaphorischen Sinn, als moralisch außergewöhnliche menschliche Nachkommen Sets, als Adlige, die einfache Frauen nahmen, als gefallene Engel in der patristischen / pseudepigraphischen Tradition — haben jeweils textliche oder begriffliche Schwierigkeiten, die die Lesart des Korpus nicht hat. Der hebräische Text sagt, was er sagt: bestimmte Wesen der Elohim-Kategorie, die bestimmte menschliche Frauen zu Frauen nehmen und bestimmte außergewöhnliche Nachkommen hervorbringen. Der Korpus behandelt diesen Bericht als Bewahrung einer akkuraten komprimierten Erinnerung an eine reale biologische Situation, in der sich die vorsintflutliche Welt befand.
 

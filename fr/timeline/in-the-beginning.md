@@ -8,8 +8,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 symbol = "✦"
@@ -136,7 +136,7 @@ La période d'ouverture du projet — la période que le corpus a appelée l'èr
 
 L'arrivée elle-même, selon le récit de la source, fut conduite avec la discipline opérationnelle qui caractérisa le projet depuis son commencement. Les véhicules de l'expédition entrèrent dans l'atmosphère terrestre, étudièrent la surface planétaire depuis une orbite basse afin d'identifier des sites d'atterrissage initiaux appropriés, et conduisirent les opérations d'atterrissage initiales aux emplacements que les arpentages avaient identifiés comme les plus appropriés. Les emplacements spécifiques ne sont pas préservés dans le matériel source avec un détail géographique, mais le schéma général peut être reconstitué. Les bases des créateurs, que la source dénombre à sept (TBWTT 3:292) et rattache au chandelier à sept branches, autrefois un central installé à leur Q.G. «&#8239;leur permettant de rester en contact avec les autres bases et avec l'engin interplanétaire en orbite autour de la Terre&#8239;» (TBWTT 3:294), furent, selon la lecture du corpus, établies durant cette période d'ouverture, à des emplacements distribués à travers les principales régions géographiques de la surface terrestre de la planète. La source n'identifie pas ces bases aux équipes de création de la création humaine (TBWTT 2:25).
 
-Chaque site devait être géologiquement stable, climatiquement approprié, écologiquement viable pour les opérations que l'équipe sur place conduirait, suffisamment éloigné des autres pour permettre un fonctionnement indépendant tout en restant dans la portée de communication et de logistique que la coordination globale du projet exigeait. La distribution géographique des sept sites à travers les principales masses terrestres de la planète anticipait la distribution géographique éventuelle des populations humaines que les équipes créeraient.
+Chaque site devait être géologiquement stable, climatiquement approprié, écologiquement viable pour les opérations à y conduire, suffisamment éloigné des autres pour permettre un fonctionnement indépendant tout en restant dans la portée de communication et de logistique que la coordination globale du projet exigeait. Selon la lecture du corpus, la répartition des sept sites à travers les principales masses terrestres de la planète anticipait la répartition ultérieure des populations humaines, bien que la source n'attribue aucune base à une équipe ou à une race particulière.
 
 Les premiers mois furent consacrés à des arpentages systématiques : composition atmosphérique, structures géologiques, systèmes hydriques, ressources chimiques disponibles, caractéristiques spécifiques de l'environnement local de chaque site de base. L'expédition avait apporté les instruments analytiques requis pour ces arpentages, l'infrastructure informatique requise pour intégrer les données, et les procédures de prise de décision requises pour traduire les résultats des arpentages en plans opérationnels qui gouverneraient le travail ultérieur. L'ère du Capricorne fut, en ce sens, une ère de préparation. Le travail de synthèse substantiel que le projet entreprendrait à terme n'avait pas encore commencé. Ce qui avait commencé, c'était l'arpentage et la planification minutieux qui rendraient possible le travail ultérieur.
 

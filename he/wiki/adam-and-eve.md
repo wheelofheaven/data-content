@@ -139,7 +139,7 @@ id = "doctrine-and-covenants"
 note = "המקור של קדושי אחרית הימים לתורת אדם כמיכאל, שהקורפוס מציין אך אינו מאמץ."
 
 [extra.infobox]
-hebrew_name = "אָדָם וְחַוָּה (ʾĀḏām and Ḥawwāh)"
+hebrew_name = "אָדָם וְחַוָּה (ʾĀḏām ו-Ḥawwāh)"
 greek_name = "Ἀδάμ καὶ Εὕα (Adam kai Heua, בתרגום השבעים)"
 latin_name = "Adam et Eva (בוולגטה)"
 arabic_name = "آدم وحواء (Ādam wa-Ḥawwāʾ, במסורת הקוראנית)"

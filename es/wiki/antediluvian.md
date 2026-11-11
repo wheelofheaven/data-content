@@ -7,10 +7,10 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 99
+translation_sync = 100
 same_as = ["https://www.wikidata.org/wiki/Q4771131", "https://en.wikipedia.org/wiki/Antediluvian"]
 core_versions = { woh-claim-0019 = "0.1.0" }
 core_claim_ids = ["woh-claim-0019"]
@@ -274,7 +274,7 @@ El corpus lee las genealogías paralelas como conservadoras del carácter dual d
 Y aconteció que cuando los hombres comenzaron a multiplicarse sobre la faz de la tierra, y les nacieron hijas, viendo los *benei ha-Elohim* que las hijas de los hombres eran hermosas, tomaron para sí mujeres, escogiendo entre todas. … Había *Nefilim* en la tierra en aquellos días, y también después, cuando se llegaron los *benei ha-Elohim* a las hijas de los hombres, y les engendraron hijos. Estos fueron los valientes que desde la antigüedad fueron varones de renombre.
 {% end %}
 
-El corpus lee este pasaje al pie de la letra. Los *benei ha-Elohim* — los «hijos de {% wiki(slug="elohim") %}Elohim{% end %}», con el artículo definido que vuelve la referencia específica y no genérica — son miembros de la civilización Elohim, identificables según la lectura del corpus como la facción exiliada de Lucifer cuya presencia continuada en la Tierra es el rasgo estructural del período post-Edén. Las «hijas de los hombres» son mujeres humanas del linaje del Edén. Las uniones son uniones biológicas entre dos especies lo bastante emparentadas como para permitir la reproducción fértil. Los *Nefilim* son los descendientes híbridos de estas uniones, dotados de capacidades que el material fuente describe como excepcionales y que la tradición antigua más amplia (el Libro de Enoc, el Libro de los Jubileos y la tradición de los Vigilantes en general) conserva de forma elaborada.
+El corpus lee este pasaje al pie de la letra. Los *benei ha-Elohim* — los «hijos de {% wiki(slug="elohim") %}Elohim{% end %}», con el artículo definido que vuelve la referencia específica y no genérica — son miembros de la civilización Elohim, identificables según la lectura del corpus como la facción exiliada de Lucifer cuya presencia continuada en la Tierra es el rasgo estructural del período post-Edén. Las «hijas de los hombres» son mujeres humanas del linaje del Edén. Las uniones son uniones biológicas entre dos especies lo bastante emparentadas como para permitir la reproducción fértil. Los *Nefilim* son los descendientes híbridos de estas uniones, dotados de capacidades que el material fuente describe como excepcionales y que la tradición antigua más amplia (el {% wiki(slug="book-of-enoch") %}Libro de Enoc{% end %}, el Libro de los Jubileos y la tradición de los Vigilantes en general) conserva de forma elaborada.
 
 La lectura del corpus es directa allí donde las lecturas teológicas convencionales se han visto forzadas a construcciones bien sobrenaturales, bien apologéticas. Las alternativas convencionales — los *benei ha-Elohim* como «hijos de Dios» en algún sentido metafórico, como descendientes humanos moralmente excepcionales de Set, como nobleza tomando esposas plebeyas, como ángeles caídos en la tradición patrística / pseudoepigráfica — tienen, cada una, dificultades textuales o conceptuales que la lectura del corpus no tiene. El texto hebreo dice lo que dice: seres específicos de la categoría Elohim, que toman mujeres humanas específicas por esposas, y producen descendientes excepcionales específicos. El corpus trata este relato como conservador de un recuerdo comprimido y exacto de una situación biológica real en la que se encontró el mundo antediluviano.
 

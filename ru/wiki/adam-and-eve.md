@@ -139,7 +139,7 @@ id = "doctrine-and-covenants"
 note = "Источник Святых последних дней для учения об Адаме как Михаиле, которое корпус отмечает, но не принимает."
 
 [extra.infobox]
-hebrew_name = "אָדָם וְחַוָּה (ʾĀḏām and Ḥawwāh)"
+hebrew_name = "אָדָם וְחַוָּה (ʾĀḏām и Ḥawwāh)"
 greek_name = "Ἀδάμ καὶ Εὕα (Adam kai Heua, в Септуагинте)"
 latin_name = "Adam et Eva (в Вульгате)"
 arabic_name = "آدم وحواء (Ādam wa-Ḥawwāʾ, в коранической традиции)"

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -124,7 +124,7 @@ note = "מסורת הצופים של חנוך א המפתחת את נרטיב *�
 
 [extra.infobox]
 hebrew_name = "נָחָשׁ"
-transliteration = "naḥash; with definite article ha-naḥash"
+transliteration = "naḥash; עם ה' הידיעה: ha-naḥash"
 greek_name = "ὄφις (ophis)"
 latin_name = "serpens"
 title = "נחש עדן; סיעת לוציפר בתפקידם בגילוי"

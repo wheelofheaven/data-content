@@ -7,10 +7,10 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 99
+translation_sync = 100
 same_as = ["https://www.wikidata.org/wiki/Q4771131", "https://en.wikipedia.org/wiki/Antediluvian"]
 core_versions = { woh-claim-0019 = "0.1.0" }
 core_claim_ids = ["woh-claim-0019"]
@@ -131,15 +131,15 @@ id = "origins-of-the-worlds-mythologies"
 note = "E. J. 마이클 비첼이 제시한 전 지구적 홍수, 황금시대, 잃어버린 문명 전승들 사이의 구조적 병행에 대한 광범위한 비교적 재구성."
 
 [extra.infobox]
-type = "Historical period"
-period = "Late Age of Leo through Age of Cancer"
-date_range = "c. 11,375 BCE – c. 6,690 BCE (framework-internal)"
-duration = "approximately 4,685 years"
-geographic_setting = "Single supercontinent containing the regional Elohim-team territories (seven, on the corpus's inference)"
-closing_event = "The Flood of the Age of Gemini, c. 6,690 BCE"
-principal_biblical_text = "Genesis 4–6:8"
-principal_framework_source = "*Message from the Designers* (Vorilhon/Raël, 1974)"
-date_type = "framework-internal; bracketing ages are precessional and the human-creation anchor derives from the 666-generation calculation"
+type = "역사적 시기"
+period = "사자자리 시대 후반부터 게자리 시대까지"
+date_range = "기원전 약 11,375년 – 기원전 약 6,690년(프레임워크 내부적)"
+duration = "약 4,685년"
+geographic_setting = "지역별 엘로힘 팀 영역들(코퍼스의 추론으로는 일곱)을 포함하는 단일 초대륙"
+closing_event = "쌍둥이자리 시대의 대홍수, 기원전 약 6,690년"
+principal_biblical_text = "창세기 4–6:8장"
+principal_framework_source = "*설계자들로부터의 메시지*(보릴롱/라엘, 1974)"
+date_type = "프레임워크 내부적; 경계를 이루는 시대들은 세차적이며, 인류 창조의 정박점은 666세대 계산에서 도출된다"
 +++
 
 **대홍수 이전 시대**(라틴어 *ante* "이전" + *diluvium* "홍수"에서 유래)는 {% libref(book="genesis-woh", chapter=6, verse=1) %}창세기 6–9장{% end %} 및 다수의 고대 문화권에 보존된 병행 전승들에서 서술되는 대홍수에 앞서 지구상에서 인류가 존재했던 시기를 가리키는 통상적인 영어 용어이다. {% wiki(slug="hebrew-bible") %}히브리어 성경{% end %}에는 이에 상응하는 기술적 용어가 없으며, 이 시기를 기술적으로 "대홍수 이전의 날들"이라 부르거나 *qedem*("이전 시대, 고대")와 같은 보다 일반적인 용어를 사용한다. 그리스어 70인역은 *πρὸ τοῦ κατακλυσμοῦ*(*pro tou kataklysmou*, "대격변 이전") 구절을 사용한다. 라틴어 합성어는 17세기에 성서 연대학자들과 초기 지질학자들의 작업을 통해 영어에 진입했으며,{{ footnote(id="1") }} 18세기의 지질학적·신학적 문헌에서 표준 용어가 되었는데, 그때 대홍수 이전 세계의 연대와 역사성은 자연과학과 성서 해석 양자에 있어 살아 있는 쟁점이었다.
@@ -274,7 +274,7 @@ date_type = "framework-internal; bracketing ages are precessional and the human-
 인류가 땅 위에 번성하기 시작하고 그들에게 딸들이 태어나자, *benei ha-Elohim*이 사람의 딸들이 아름다움을 보고 자기들이 좋아하는 모든 여자를 아내로 삼았더라. … 그 당시에 땅에 *Nephilim*이 있었고, 그 후에도 *benei ha-Elohim*이 사람의 딸들에게로 들어와 그들에게 자식을 낳았으니, 그들은 곧 옛적의 용사들이요 명성 있는 자들이었더라.
 {% end %}
 
-코퍼스는 이 단락을 액면 그대로 읽는다. *benei ha-Elohim* — "{% wiki(slug="elohim") %}엘로힘{% end %}의 아들들," 정관사가 그 지시를 일반적인 것이 아니라 특정한 것으로 만든다 — 은 엘로힘 문명의 구성원들로, 코퍼스의 독해상 그 지속적 현존이 에덴 이후 시기의 구조적 특징인 유배된 루시퍼 분파로 동정 가능하다. "사람의 딸들"은 에덴 계통의 인간 여성들이다. 이 결합은 생식 가능한 번식을 허용할 만큼 충분히 밀접하게 관련된 두 종 사이의 생물학적 결합이다. *Nephilim*은 이 결합의 혼혈 자손으로, 자료가 예외적인 것으로 묘사하며 보다 광범위한 고대 전승(에녹서, 희년서, 그리고 보다 일반적으로는 감시자 전승)이 정교화된 형태로 보존하는 능력을 가진다.
+코퍼스는 이 단락을 액면 그대로 읽는다. *benei ha-Elohim* — "{% wiki(slug="elohim") %}엘로힘{% end %}의 아들들," 정관사가 그 지시를 일반적인 것이 아니라 특정한 것으로 만든다 — 은 엘로힘 문명의 구성원들로, 코퍼스의 독해상 그 지속적 현존이 에덴 이후 시기의 구조적 특징인 유배된 루시퍼 분파로 동정 가능하다. "사람의 딸들"은 에덴 계통의 인간 여성들이다. 이 결합은 생식 가능한 번식을 허용할 만큼 충분히 밀접하게 관련된 두 종 사이의 생물학적 결합이다. *Nephilim*은 이 결합의 혼혈 자손으로, 자료가 예외적인 것으로 묘사하며 보다 광범위한 고대 전승({% wiki(slug="book-of-enoch") %}에녹서{% end %}, 희년서, 그리고 보다 일반적으로는 감시자 전승)이 정교화된 형태로 보존하는 능력을 가진다.
 
 코퍼스의 독해는 통상적 신학적 독해들이 초자연적 또는 호교론적 구성으로 강제된 곳에서 직선적이다. 통상적 대안들 — *benei ha-Elohim*을 어떤 비유적 의미에서 "하나님의 아들들"로, 도덕적으로 예외적인 셋의 인간 후손으로, 평민 아내를 취하는 귀족으로, 교부적 / 외경적 전승에서의 타락한 천사로 보는 것 — 은 각각 코퍼스의 독해가 가지지 않는 본문적 또는 개념적 어려움을 가진다. 히브리어 본문은 그것이 말하는 바를 말한다. 즉 엘로힘 범주의 특정 존재들이 특정 인간 여성들을 아내로 취하여 특정한 예외적 자손을 산출했다는 것이다. 코퍼스는 이 기록을 대홍수 이전 세계가 처해 있던 실제 생물학적 상황에 대한 정확한 압축된 기억을 보존하는 것으로 다룬다.
 

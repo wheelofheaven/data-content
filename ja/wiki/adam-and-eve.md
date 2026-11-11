@@ -139,7 +139,7 @@ id = "doctrine-and-covenants"
 note = "アダムをミカエルとする末日聖徒の教義の典拠。本文献集は言及するものの採用しません。"
 
 [extra.infobox]
-hebrew_name = "אָדָם וְחַוָּה（ʾĀḏām and Ḥawwāh）"
+hebrew_name = "אָדָם וְחַוָּה（ʾĀḏām と Ḥawwāh）"
 greek_name = "Ἀδάμ καὶ Εὕα（Adam kai Heua、七十人訳聖書において）"
 latin_name = "Adam et Eva（ウルガタ訳において）"
 arabic_name = "آدم وحواء（Ādam wa-Ḥawwāʾ、クルアーンの伝統において）"

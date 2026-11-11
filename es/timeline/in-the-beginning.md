@@ -8,8 +8,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 symbol = "✦"
@@ -136,7 +136,7 @@ El período inicial del proyecto —el período que el corpus ha venido llamando
 
 La llegada misma, según el relato de la fuente, se llevó a cabo con la disciplina operativa que caracterizó al proyecto desde su comienzo. Los vehículos de la expedición entraron en la atmósfera de la Tierra, inspeccionaron la superficie planetaria desde una órbita baja para identificar sitios de aterrizaje iniciales adecuados, y llevaron a cabo las operaciones de aterrizaje iniciales en las ubicaciones que las inspecciones habían identificado como las más apropiadas. Las ubicaciones específicas no se conservan en el material de la fuente con detalle geográfico, pero el patrón general puede reconstruirse. Las bases de los creadores, que la fuente cifra en siete (TBWTT 3:292) y vincula con el candelabro de siete brazos, en su origen una central en su cuartel general, con testigos luminosos «que les permitían permanecer en contacto con las otras bases y con el aparato interplanetario en órbita alrededor de la Tierra» (TBWTT 3:294), se establecieron, según la lectura del corpus, durante este período de apertura, en ubicaciones distribuidas a través de las principales regiones geográficas de la superficie terrestre del planeta. La fuente no identifica estas bases con los equipos de creación de la creación humana (TBWTT 2:25).
 
-Cada sitio debía ser geológicamente estable, climáticamente adecuado, ecológicamente viable para las operaciones que el equipo allí llevaría a cabo, suficientemente distante de los demás para permitir la operación independiente mientras permanecía dentro del rango de comunicación y logística que la coordinación general del proyecto requería. La distribución geográfica de los siete sitios a través de las principales masas terrestres del planeta anticipaba la eventual distribución geográfica de las poblaciones humanas que los equipos crearían.
+Cada sitio debía ser geológicamente estable, climáticamente adecuado, ecológicamente viable para las operaciones que allí se llevarían a cabo, suficientemente distante de los demás para permitir la operación independiente mientras permanecía dentro del rango de comunicación y logística que la coordinación general del proyecto requería. Según la lectura del corpus, la distribución de los siete sitios a través de las principales masas terrestres del planeta anticipaba la posterior distribución de las poblaciones humanas, aunque la fuente no asigna ninguna base a un equipo o a una raza en particular.
 
 Los primeros meses se dedicaron a inspecciones sistemáticas: composición atmosférica, estructuras geológicas, sistemas hídricos, recursos químicos disponibles, las características específicas del entorno local de cada sitio de base. La expedición había traído los instrumentos analíticos requeridos para estas inspecciones, la infraestructura computacional requerida para integrar los datos y los procedimientos de toma de decisiones requeridos para traducir los resultados de las inspecciones en los planes operativos que gobernarían el trabajo posterior. La era de Capricornio fue, en este sentido, una era de preparación. El trabajo sustantivo de síntesis que el proyecto eventualmente emprendería aún no había comenzado. Lo que había comenzado era el cuidadoso estudio y planificación que haría posible el trabajo posterior.
 

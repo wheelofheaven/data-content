@@ -139,7 +139,7 @@ id = "doctrine-and-covenants"
 note = "아담을 미카엘로 보는 후기 성도 교리의 원천. 코퍼스는 이를 언급하되 채택하지 않습니다."
 
 [extra.infobox]
-hebrew_name = "אָדָם וְחַוָּה (ʾĀḏām and Ḥawwāh)"
+hebrew_name = "אָדָם וְחַוָּה (ʾĀḏām과 Ḥawwāh)"
 greek_name = "Ἀδάμ καὶ Εὕα (Adam kai Heua, 칠십인역)"
 latin_name = "Adam et Eva (불가타)"
 arabic_name = "آدم وحواء (Ādam wa-Ḥawwāʾ, 꾸란 전통)"

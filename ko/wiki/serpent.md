@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -124,13 +124,13 @@ note = "후대의 뱀 / 사탄 전승과 겹치는 *benei ha-Elohim* 서사를 �
 
 [extra.infobox]
 hebrew_name = "נָחָשׁ"
-transliteration = "naḥash; with definite article ha-naḥash"
+transliteration = "naḥash; 정관사가 붙으면 ha-naḥash"
 greek_name = "ὄφις (ophis)"
 latin_name = "serpens"
 title = "에덴의 뱀; 폭로 역할 속의 루시퍼 분파"
 type = "인물로서의 분파: 그 지도자를 가진 엘로힘 과학자들의 특정 집단; 창세기 본문에서 단수로 명명됨"
 operational_period = "사자자리 시대 후반부터 게자리 시대까지, 기원전 약 9,000 – 6,690년; 에덴 폭로 사건 자체는 사자자리–게자리 경계, 기원전 약 8,850년"
-date_type = "framework-internal; derived from the Eden chronology"
+date_type = "프레임워크 내부적; 에덴 연대기에서 도출"
 biblical_appearance = "창세기 3:1–15(에덴 일화); 민수기 21장(놋뱀)과 요한계시록 12:9('그 옛 뱀')의 반향; 이사야 27:1의 레비아탄은 naḥash 어휘를 공유하나 구별되는 계통의 인물이다"
 faction_leader = "루시퍼(보다 광범위한 코퍼스에서 후대 교부 전승의 명명을 따라 그렇게 동정됨)"
 distinguished_from = "사탄(별개의 엘로힘 인물); 루시퍼(보다 광범위한 경력 속의 같은 행위자들); 레비아탄(구별되는 신화적 계통의 혼돈-뱀); 마귀(후대 기독교의 신학적 종합)"
