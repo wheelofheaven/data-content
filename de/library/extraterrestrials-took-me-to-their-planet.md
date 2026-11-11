@@ -1,7 +1,7 @@
 +++
-title = "Extraterrestrials Took Me to Their Planet"
+title = "Außerirdische brachten mich auf ihren Planeten"
 slug = "extraterrestrials-took-me-to-their-planet"
-description = "Raël's second foundational book (1975): the account of his second encounter with the Elohim and his visit to their planet."
+description = "Raëls zweites grundlegendes Buch (1975): der Bericht über seine zweite Begegnung mit den Elohim und seinen Besuch auf ihrem Planeten."
 template = "library-book.html"
 date = "2026-05-17T07:12:28Z"
 

@@ -1,7 +1,7 @@
 +++
-title = "Let's Welcome the Extraterrestrials"
+title = "Встретим инопланетян"
 slug = "lets-welcome-the-extraterrestrials"
-description = "Raël's third foundational book (1979): frequently asked questions, new revelations, the atheist religion, and Raëlian testimonials."
+description = "Третья основополагающая книга Раэля (1979): часто задаваемые вопросы, новые откровения, атеистическая религия и свидетельства раэлиан."
 template = "library-book.html"
 date = "2026-05-18T00:00:00Z"
 

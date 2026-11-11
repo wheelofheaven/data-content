@@ -1,7 +1,7 @@
 +++
-title = "The Book Which Tells the Truth"
+title = "הספר המגלה את האמת"
 slug = "the-book-which-tells-the-truth"
-description = "A revelation book containing 7 chapters of sacred teachings and dialogues."
+description = "ספר היסוד הראשון של ראל (1974): תיאור המפגש בדצמבר 1973 והמסר שהאלוהים הכתיבו לו במשך שישה ימים."
 template = "library-book.html"
 date = "2025-08-10T06:03:56Z"
 

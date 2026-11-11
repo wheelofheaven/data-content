@@ -1,7 +1,7 @@
 +++
-title = "The Book Which Tells the Truth"
+title = "진실을 말하는 책"
 slug = "the-book-which-tells-the-truth"
-description = "A revelation book containing 7 chapters of sacred teachings and dialogues."
+description = "라엘의 첫 번째 기초 저서(1974년): 1973년 12월의 만남과 엘로힘이 6일에 걸쳐 그에게 구술한 메시지에 대한 기록."
 template = "library-book.html"
 date = "2025-08-10T06:03:56Z"
 

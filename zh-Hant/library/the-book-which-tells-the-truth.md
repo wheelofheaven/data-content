@@ -1,7 +1,7 @@
 +++
-title = "The Book Which Tells the Truth"
+title = "訴說真相之書"
 slug = "the-book-which-tells-the-truth"
-description = "A revelation book containing 7 chapters of sacred teachings and dialogues."
+description = "雷爾的第一部奠基之書（1974年）：講述1973年12月的相遇，以及耶洛因在六天中向他口述的訊息。"
 template = "library-book.html"
 date = "2025-08-10T06:03:56Z"
 

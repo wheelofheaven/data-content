@@ -1,7 +1,7 @@
 +++
 title = "The Book Which Tells the Truth"
 slug = "the-book-which-tells-the-truth"
-description = "A revelation book containing 7 chapters of sacred teachings and dialogues."
+description = "Raël's first foundational book (1974): his account of the December 1973 encounter and the message the Elohim dictated to him over six days."
 template = "library-book.html"
 date = "2025-08-10T06:03:56Z"
 
