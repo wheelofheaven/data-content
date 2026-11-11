@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 97
+translation_sync = 100
 core_versions = { woh-claim-0042 = "0.1.0" }
 core_claim_ids = ["woh-claim-0042"]
 claim_type = "inferred"
@@ -119,7 +119,7 @@ Zwischen 1963 und 1975 veröffentlichte dieser Mann unter seinem reduzierten
 Namen die erste anhaltende Formulierung der Lesart, auf der dieses Projekt
 aufgebaut ist: dass die Hebräische Bibel, beim Wort genommen, vom Aufenthalt
 einer Vielzahl physischer Wesen namens Elohim auf der Erde berichtet. Er
-veröffentlichte sie fünf Jahre, bevor Erich von Däniken die allgemeine Idee
+veröffentlichte sie fünf Jahre, bevor {% wiki(slug="erich-von-daniken") %}Erich von Däniken{% end %} die allgemeine Idee
 zu einem globalen Gemeinplatz machte, elf Jahre, bevor ein französischer
 Motorsportjournalist namens Claude Vorilhon —
 {% wiki(slug="rael") %}Raël{% end %} — berichtete, dass eines dieser Wesen
@@ -231,7 +231,7 @@ Regel und Sendy per Temperament praktizierte. Er empfahl den Lesern, ihn gegen
 nichts als das Hebräische oder Édouard Dhormes
 Pléiade-Übersetzung{{ footnote(id="5") }} zu prüfen, die eine französische
 Bibel, die *Iahvé Elohim* stehen lässt. Das zweite Merkmal ist die Note der
-vorgestellten Besucher. Sendys Elohim sind weder Sitchins goldschürfende
+vorgestellten Besucher. Sendys Elohim sind weder {% wiki(slug="zecharia-sitchin") %}Sitchins{% end %} goldschürfende
 Fronvögte noch die „gewalttätigen, missbräuchlichen und unheilvollen“
 Verwalter der späteren italienischen Literatur — Stefano Bigliardi, der
 einzige Akademiker, der Sendy genau studiert hat, nennt seine Himmlischen

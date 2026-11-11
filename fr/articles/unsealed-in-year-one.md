@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 94
+translation_sync = 100
 core_versions = { woh-claim-0026 = "0.1.0" }
 core_claim_ids = ["woh-claim-0026"]
 claim_type = "speculative"
@@ -253,7 +253,7 @@ par comité humain, exactement comme le
 {% wiki(slug="plurality-of-gods") %}récit du grand remaniement{% end %} du
 corpus l'exige. Les manuscrits prirent même les éditeurs sur le fait. En
 {% libref(book="deuteronomy", chapter=32, verse=8) %}Deutéronome
-32:8{% end %}, le texte massorétique dit que le Très-Haut divisa les nations
+32:8{% end %}, le texte {% wiki(slug="masoretic-text") %}massorétique{% end %} dit que le Très-Haut divisa les nations
 « selon le nombre des fils d'Israël » ; le fragment 4QDeutj de la Grotte 4
 lit *« fils d'elohim »*{{ footnote(id="5") }} — la leçon que l'érudition
 dominante juge originelle, son remplacement une « altération
@@ -269,7 +269,7 @@ La révélation plus profonde ne fut pas les textes bibliques mais leurs
 voisins de rayon, car la bibliothèque conservait des livres que les canons
 ultérieurs jetèrent — et les conservait en masse.
 
-Le Livre d'Hénoch, cité comme Écriture dans l'épître de Jude du Nouveau
+{% wiki(slug="book-of-enoch") %}Le Livre d'Hénoch{% end %}, cité comme Écriture dans l'épître de Jude du Nouveau
 Testament puis expulsé de toute Bible sauf celle d'Éthiopie, survécut à
 Qumrân en onze manuscrits araméens (4Q201–212) — plus d'exemplaires que la
 plupart des livres bibliques. Les plus anciens fragments de son Livre
@@ -509,7 +509,7 @@ lumière et des ténèbres n'est pas achevée. Le corpus tient que le décompte 
 les alliés gardaient court encore — sur une roue plus ancienne que leur
 calendrier — et que ce qu'ils attendaient sous le nom du dixième jubilé est
 ce qu'il attend sous le nom du {% wiki(slug="great-return") %}Retour{% end %}.
-Sur cette lecture, les Manuscrits de la mer Morte ne sont pas seulement le
+Sur cette lecture, les {% wiki(slug="dead-sea-scrolls") %}Manuscrits de la mer Morte{% end %} ne sont pas seulement le
 premier grand événement archéologique de l'ère. Ils sont la première
 livraison de l'an un : le courrier scellé de la tradition, oblitéré à la
 chute du Temple, adressé au temps de la fin, et ouvert — de bon matin, par un

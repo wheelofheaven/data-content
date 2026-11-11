@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 86
+translation_sync = 100
 core_versions = { woh-claim-0020 = "0.1.0", woh-claim-0027 = "0.1.0" }
 core_claim_ids = ["woh-claim-0020", "woh-claim-0027"]
 claim_type = "inferred"
@@ -201,9 +201,9 @@ un hombre corriente que ha sido elegido por seres extraordinarios». El profeta
 ético de Weber nunca tuvo que ser impresionante; tuvo que ser *enviado*.
 
 Lo que un historiador puede añadir es el medio. Para diciembre de 1973 la
-lectura del Génesis a la manera de los antiguos astronautas era, en Francia, casi
+{% wiki(slug="ancient-astronaut-hypothesis") %}lectura del Génesis a la manera de los antiguos astronautas{% end %} era, en Francia, casi
 material corriente de libro de bolsillo —*La Lune, clé de la Bible* (1968) de
-Jean Sendy ya había sostenido que los {% wiki(slug="elohim") %}Elohim{% end %}
+{% wiki(slug="jean-sendy") %}Jean Sendy{% end %} ya había sostenido que los {% wiki(slug="elohim") %}Elohim{% end %}
 eran «ángeles físicos» y el Génesis el registro de una colonización, y todo el
 programa de Sendy es objeto de [su propio Explicativo en esta
 serie](/articles/the-man-who-bet-the-bible-on-the-moon/)—. El juicio de Palmer
@@ -235,11 +235,11 @@ religioso».
 El hecho más subinformado acerca del raelismo —subinformado en la cobertura de
 prensa, quiere decirse; la erudición de las dos últimas décadas ha convergido en
 él— es en qué consiste realmente la revelación fundacional: un *seminario sobre
-la Biblia hebrea y los Evangelios*, conducido con el texto abierto sobre las
+la {% wiki(slug="hebrew-bible") %}Biblia hebrea{% end %} y los Evangelios*, conducido con el texto abierto sobre las
 rodillas del testigo, y solo incidentalmente el relato de un aterrizaje. La
 primera petición del ser es que Vorilhon regrese con una Biblia; los seis días
 recorren el Génesis, el Diluvio, Babel, Sodoma, la teofanía del Sinaí, las ruedas
-de Ezequiel, la carrera de Jesús leída como un programa planificado de
+de Ezequiel, la carrera de {% wiki(slug="jesus") %}Jesús{% end %} leída como un programa planificado de
 comunicaciones. La regla hermenéutica se enuncia dentro del texto: la Biblia es
 fiable allí donde es extraña, porque la extrañeza es el residuo de tecnología
 descrita por testigos de la Edad del Bronce, y la tarea es despojar los «balbuceos
@@ -316,9 +316,9 @@ nuestros contactos en la Tierra.
 Este es el párrafo del cual desciende toda la profetología del movimiento —«el
 último de cuarenta profetas» es una articulación de esta única frase, y el canon
 nunca enumera a los cuarenta—.{{ footnote(id="11") }} Lo que la frase sí enumera
-es un orden de asientos, y el orden es el argumento: una mesa judía —Moisés a la
-diestra, Elías el eterno asistente de todo seder— extendida hacia la izquierda
-hasta Buda, con Mahoma «un poco más allá», y Yahvé presidiendo como el referente
+es un orden de asientos, y el orden es el argumento: una mesa judía —{% wiki(slug="moses") %}Moisés{% end %} a la
+diestra, {% wiki(slug="elijah") %}Elías{% end %} el eterno asistente de todo seder— extendida hacia la izquierda
+hasta Buda, con {% wiki(slug="muhammad") %}Mahoma{% end %} «un poco más allá», y Yahvé presidiendo como el referente
 tras la palabra *Alá*. La teología de toda expansión abrahámica está en esa
 disposición espacial. Y el anfitrión de la comida es la figura que la Biblia
 hebrea llama por el tetragrámaton:
@@ -365,7 +365,7 @@ este momento mirando a tu padre. Tu padre adoptivo era como José, debía cuidar
 ti y de tu madre hasta el momento en que pudieras valerte por ti mismo.
 {% end %}
 
-Mensajero, luego profeta, luego hijo —la trayectoria que al cristianismo le llevó
+Mensajero, luego {% wiki(slug="prophet") %}profeta{% end %}, luego hijo —la trayectoria que al cristianismo le llevó
 tres siglos formalizar, recorrida en seis años de libro de bolsillo—. Dos cosas
 impiden que la escalada sea toda la historia. La primera es la matización que el
 mismo capítulo añade, en la pieza de autolimitación más citada del canon: «No es
@@ -429,7 +429,7 @@ cuerpo, la «meditación sensual», cuya instrucción canónica reza:
 {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=113) %}«Tu meditación no será una meditación árida, sino, al contrario, una meditación sensual; te dejarás invadir por la paz y por la armonía hasta que se convierta en un goce»{% end %}
 —el órgano experiencial que una religión necesita cuando ha abolido el alma a la
 que se suponía que la experiencia pertenecía—. Y una política, publicada en 1977
-como *La geniocracia* —la «democracia selectiva» de los inteligentes—, que el
+como *{% wiki(slug="geniocracy") %}La geniocracia{% end %}* —la «democracia selectiva» de los inteligentes—, que el
 movimiento ha llevado desde entonces como programa aspiracional y sus críticos han
 llevado como Prueba A.{{ footnote(id="12") }}
 
@@ -535,7 +535,7 @@ el mejor relato de una línea del mecanismo doctrinal: una explicación de los
 orígenes que es «una alternativa tanto al creacionismo como al evolucionismo»,
 diseño guiado sin un Dios-diseñador. Su fortaleza es que capta la postura
 epistémica —el eslogan del movimiento, en su propio sitio web, fue durante años
-«diseño inteligente para ateos»—. Su debilidad es que la postura es aspiración, y
+«{% wiki(slug="intelligent-design") %}diseño inteligente{% end %} para ateos»—. Su debilidad es que la postura es aspiración, y
 la aspiración tiene fecha de vencimiento. El modelo de éxito de los movimientos de
 Rodney Stark sostiene que las religiones duraderas mantienen sus afirmaciones
 centrales a salvo de lo empírico; Palmer, haciendo pasar el raelismo por los
@@ -564,7 +564,7 @@ cultura de laboratorios y ruedas de prensa— antes que sobre el linaje.
 adjetivos de Palmer, y aquella por la que las fuentes primarias no dejan de votar.
 La escritura fundacional es un comentario a la Biblia. La escena de la revelación
 es un encargo isaiano. La figura que preside es Yahvé; el medio hermano del
-mensajero es Jesús; el eje del calendario (1945, la Era del Apocalipsis) es una
+mensajero es Jesús; el eje del calendario (1945, la {% wiki(slug="apocalypse") %}Era del Apocalipsis{% end %}) es una
 lectura del libro sellado de Daniel y del Apocalipsis de Juan; la escatología es el
 mesianismo judío reubicado en la aeronáutica —el canon pide tierra a Israel, y
 Chryssides enuncia la identificación sin rodeos: «es el mashiach, el mesías, y la

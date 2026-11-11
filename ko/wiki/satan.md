@@ -7,10 +7,10 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
-translation_sync = 99
+translation_sync = 100
 same_as = ["https://www.wikidata.org/wiki/Q35230", "https://en.wikipedia.org/wiki/Satan", "https://www.britannica.com/topic/Satan", "https://viaf.org/viaf/1087163706538729420822"]
 core_versions = { woh-claim-0013 = "0.1.0" }
 core_claim_ids = ["woh-claim-0013"]
@@ -302,7 +302,7 @@ Wheel of Heaven 코퍼스는 **사탄**을 주요한 지칭으로 사용하면�
 
 **페르시아의 이원론적 영향**. 아케메네스 페르시아 제국의 조로아스터교 종교 전통은 실질적인 우주적-이원론적 프레임워크 — 아후라 마즈다(선의 원리) 대 앙그라 마이뉴 / 아흐리만(악의 원리) — 를 포함했다. 포로기 이후 시기 동안의 유대인의 조로아스터교와의 문화적-종교적 접촉은 유대인 악마학적 사고의 발전에 실질적인 영향을 산출했으며, 본래 제한적이었던 *satan* 인물은 점진적으로 조로아스터교 이원론적 프레임워크의 측면들을 흡수해 갔다.
 
-**감시자 전통**. 1 에녹 문헌집(약 기원전 3세기부터 기원후 1세기까지 작성)은 {% libref(book="genesis-woh", chapter=6, verse=1) %}창세기 6:1-4{% end %}의 *benei ha-Elohim* 자료에 의거한 천사 반란 서사의 실질적 발전을 보존한다. 감시자들(지구로 내려와 인간 여성들과 함께 자녀를 낳은 구체적으로 이름이 붙은 천사들로서, 아자젤이 주요 지도자 가운데 하나이다)은 1 에녹의 프레임워크에 따르면 세상의 악의 주요 원천이 된다.{{ cite(id="1-enoch-the-book-of-the-watchers", text="[5]", title="*1 에녹: 감시자들의 책* — 우주적 악-인물 발전의 주요 제2성전 시대 자료로서의 감시자-아자젤 자료") }}{{ cite(id="book-of-enoch", text="[6]", title="*에녹서* — 천사 반란 서사에 대한 더 넓은 에녹 문헌집의 정교화") }} 감시자 자료는 제2성전 시대 유대교 전반에 걸친 우주적 악-인물 전통의 발전을 실질적으로 형성한다.
+**감시자 전통**. {% wiki(slug="book-of-enoch") %}1 에녹{% end %} 문헌집(약 기원전 3세기부터 기원후 1세기까지 작성)은 {% libref(book="genesis-woh", chapter=6, verse=1) %}창세기 6:1-4{% end %}의 *benei ha-Elohim* 자료에 의거한 천사 반란 서사의 실질적 발전을 보존한다. 감시자들(지구로 내려와 인간 여성들과 함께 자녀를 낳은 구체적으로 이름이 붙은 천사들로서, 아자젤이 주요 지도자 가운데 하나이다)은 1 에녹의 프레임워크에 따르면 세상의 악의 주요 원천이 된다.{{ cite(id="1-enoch-the-book-of-the-watchers", text="[5]", title="*1 에녹: 감시자들의 책* — 우주적 악-인물 발전의 주요 제2성전 시대 자료로서의 감시자-아자젤 자료") }}{{ cite(id="book-of-enoch", text="[6]", title="*에녹서* — 천사 반란 서사에 대한 더 넓은 에녹 문헌집의 정교화") }} 감시자 자료는 제2성전 시대 유대교 전반에 걸친 우주적 악-인물 전통의 발전을 실질적으로 형성한다.
 
 **쿰란 공동체의 발전들**. 사해 사본은 “진리의 영” 대 “거짓의 영”(또는 “벨리알”) 대립이라는 실질적인 이원론적-우주적 프레임워크를 보존한다. 쿰란 공동체의 신학적 프레임워크는 그 이후 기독교에 영향을 끼친 더 이원론적인 프레임워크를 향한 우주적 악-인물 전통의 실질적 발전을 기록한다.
 

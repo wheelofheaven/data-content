@@ -10,7 +10,7 @@ translation_status = "ai_reviewed"
 translation_updated = "2026-11-11"
 source_updated = "2026-11-11"
 translation_stale = false
-translation_sync = 97
+translation_sync = 100
 core_versions = { woh-claim-0042 = "0.1.0" }
 core_claim_ids = ["woh-claim-0042"]
 claim_type = "inferred"
@@ -474,7 +474,7 @@ popularisierend, provokativ, überreichend genannt hätten — *„ma nessuno ha
 potuto sostenere che le sue traduzioni e le proposte di analisi del testo
 masoretico fossero errate, in malafede, o false"* — dass aber niemand hat
 behaupten können, seine Übersetzungen und seine vorgeschlagenen Analysen des
-masoretischen Textes seien falsch, in böser Absicht oder unwahr gewesen.
+{% wiki(slug="masoretic-text") %}masoretischen Textes{% end %} seien falsch, in böser Absicht oder unwahr gewesen.
 
 **Lebendige Debatte.** Sein Argument, dass *bara* niemals eine Schöpfung aus
 dem Nichts bezeichnet — er untersucht alle seine Vorkommen und findet
@@ -514,7 +514,7 @@ Behauptungstyp-Disziplin des Werks, in freier Wildbahn angetroffen.
 
 Eine weitere Redlichkeit schuldet die Prüfung: Biglinos erstes Buch stützte
 sich auf Zecharia Sitchin und benannte *The Earth Chronicles* als *„die
-Hauptquelle"* für seinen sumerischen Rahmen — Nibiru, goldschürfende Anunnaki
+Hauptquelle"* für seinen sumerischen Rahmen — Nibiru, goldschürfende {% wiki(slug="anunnaki") %}Anunnaki{% end %}
 und all das. Die späteren Bücher verabschieden sich ohne Ankündigung von jenem
 Gerüst: Das sumerische Material wird auf die akademische Assyriologie (Kramer,
 Pettinato, Castellino) zurückgeführt, Nibiru verschwindet, und Sitchin

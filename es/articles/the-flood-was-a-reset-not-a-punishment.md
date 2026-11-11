@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 98
+translation_sync = 100
 core_versions = { woh-claim-0010 = "0.1.0" }
 core_claim_ids = ["woh-claim-0010"]
 claim_type = "inferred"
@@ -274,7 +274,7 @@ Un reinicio implica algo *de lo que* reiniciar. Los textos mesopotámicos son
 parcos en el motivo —el *Atraḫasīs* babilónico da la superpoblación y el *ruido*;
 el sumerio está demasiado fragmentado como para estar seguros—. La tradición
 hebrea aporta un motivo pero lo enuncia de forma abstracta: la tierra estaba
-«llena de violencia». Es la tradición {% wiki(slug="elohim") %}enóquica{% end %} —el *Libro de los Vigilantes*{{ footnote(id="9") }},
+«llena de violencia». Es la tradición {% wiki(slug="elohim") %}enóquica{% end %} —el {% wiki(slug="book-of-enoch") %}*Libro de los Vigilantes*{% end %}{{ footnote(id="9") }},
 1 Enoc 6–11— la que conserva el relato más mecánicamente específico de *qué
 salió mal*, y se lee menos como una fábula moral que como un informe de incidente.
 

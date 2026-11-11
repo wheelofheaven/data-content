@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 81
+translation_sync = 100
 core_versions = { woh-claim-0025 = "0.1.0" }
 core_claim_ids = ["woh-claim-0025"]
 claim_type = "speculative"
@@ -93,8 +93,8 @@ tenemos, porque hemos estado demasiado cerca y hemos sido, nosotros mismos,
 el tejido bajo el microscopio—?
 
 El canon raeliano enuncia la premisa sin reservas. En el segundo mensaje, al
-exponer cómo pueden los Elohim prever el futuro de una civilización que no
-pueden controlar, Yahvé pide a Raël que retenga en la mente una sola imagen:
+exponer cómo pueden {% wiki(slug="elohim") %}los Elohim{% end %} prever el futuro de una civilización que no
+pueden controlar, {% wiki(slug="yahweh") %}Yahvé{% end %} pide a {% wiki(slug="rael") %}Raël{% end %} que retenga en la mente una sola imagen:
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}
 Es exactamente lo mismo para la humanidad, considerando a cada ser humano como
@@ -165,7 +165,7 @@ la suma y la trayectoria de todas ellas.
 Otros nombres servirían, y cada uno capta algo que los demás pasan por alto. El
 más llano es **biología civilizatoria** —la etiqueta a la que echa mano primero
 un lector criado en la *sociobiología* y la *astrobiología*—. Otro es
-**macrobiología**, y su simetría es lo bastante exacta como para detenerse en
+**{% wiki(slug="macrobiology") %}macrobiología{% end %}**, y su simetría es lo bastante exacta como para detenerse en
 ella: {% claim(type="speculative", id="woh-claim-0025") %}la microbiología estudia la célula y las unidades de su escala, de modo
 que una macrobiología estudiaría los sistemas *compuestos de* unidades
 biológicas del mismo modo que una célula se compone de unidades microbiológicas
@@ -376,7 +376,7 @@ proyecto: las {% wiki(slug="mass-effect") %}leyes de potencias de un
 cuarto{% end %} que hacen que un ratón y una ballena recorran la misma vida de
 mil millones de latidos a velocidades distintas. Los organismos biológicos
 escalan **sublinealmente**: duplica la masa de un animal y necesitará menos del
-doble de energía, porque una red de suministro fractal se vuelve más eficiente a
+doble de energía, porque una {% wiki(slug="fractal-cosmology") %}red de suministro fractal{% end %} se vuelve más eficiente a
 mayor escala. El escalamiento sublineal tiene una consecuencia que West enuncia
 sin rodeos: produce «un crecimiento acotado y una duración de vida finita». El
 animal crece rápido de joven, se ralentiza, se detiene y muere.
@@ -469,8 +469,8 @@ abre desde *dentro* del espécimen, y la disciplina tendrá que recorrerlo.
 
 El segundo camino no podemos recorrerlo, pero otro sí puede —y esta es la
 callada, radical contribución del canon—. Una civilización que no está en
-absoluto dentro del espécimen: una que se sitúa fuera, tras haber creado vida
-humana en muchos mundos, deliberadamente, como experimento, y haber observado a
+absoluto dentro del espécimen: una que se sitúa fuera, tras haber {% wiki(slug="life-engineering") %}creado vida
+humana{% end %} en {% wiki(slug="cosmic-pluralism") %}muchos mundos{% end %}, deliberadamente, como experimento, y haber observado a
 cada uno llegar hasta su desenlace. Semejante civilización poseería exactamente
 el conjunto de datos que la embriología tiene y a la historia le falta: *muchas
 instancias del mismo proceso, observadas hasta su término, desde fuera*. Tendría
@@ -648,7 +648,7 @@ afirmación alguna sobre lo que pueda hacérsele a una parte. La biología descr
 un cuerpo sin concluir que el cuerpo pueda comerse sus células; una morfología
 civilizatoria puede describir el organismo-especie a la vez que insiste, como de
 hecho insiste el canon, en que su propósito se sirve del florecimiento de las
-células, no de su gasto. Raël, respondiendo a un lector, es enfático justo en este punto: el Infinito es
+células, no de su gasto. Raël, respondiendo a un lector, es enfático justo en este punto: {% wiki(slug="infinity") %}el Infinito{% end %} es
 «infinitamente» indiferente a nuestras decisiones
 ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=44) %}LWTE 1:44{% end %}),
 lo que significa que a ningún cuerpo cósmico se le debe nuestro sacrificio; y la

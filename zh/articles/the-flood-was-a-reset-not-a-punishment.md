@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 98
+translation_sync = 100
 core_versions = { woh-claim-0010 = "0.1.0" }
 core_claim_ids = ["woh-claim-0010"]
 claim_type = "inferred"
@@ -159,7 +159,7 @@ footnotes = [
 
 ## 这场清洗是*为了*什么：以诺笔下被败坏的大地
 
-重置意味着有某种东西需要*被重置*。美索不达米亚文本在动机上着墨甚少——巴比伦的《阿特拉哈西斯》给出的是人口过剩与*噪音*；苏美尔文本残缺得无法确定。希伯来传统提供了动机，却把它陈述得抽象：大地「充满了强暴」。是{% wiki(slug="elohim") %}以诺{% end %}传统——《守望者之书》{{ footnote(id="9") }}，《以诺一书》6–11 章——保存了关于*哪里出了错*最具机制性、最具体的记述，而它读起来与其说像道德寓言，不如说像一份事故报告。
+重置意味着有某种东西需要*被重置*。美索不达米亚文本在动机上着墨甚少——巴比伦的《阿特拉哈西斯》给出的是人口过剩与*噪音*；苏美尔文本残缺得无法确定。希伯来传统提供了动机，却把它陈述得抽象：大地「充满了强暴」。是{% wiki(slug="elohim") %}以诺{% end %}传统——《{% wiki(slug="book-of-enoch") %}守望者之书{% end %}》{{ footnote(id="9") }}，《以诺一书》6–11 章——保存了关于*哪里出了错*最具机制性、最具体的记述，而它读起来与其说像道德寓言，不如说像一份事故报告。
 
 触发事件与《创世记》在三节隐晦经文中提及随后便弃置不顾的那一事件相同：一群{% wiki(slug="elohim") %}耶洛因的儿子们{% end %}娶人为妻。以诺为他们点名——共两百名，附有其首领的名册——并标明了这次降临的时间与地点：
 

@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 75
+translation_sync = 100
 core_versions = { woh-claim-0014 = "0.1.0" }
 core_claim_ids = ["woh-claim-0014"]
 claim_type = "inferred"
@@ -125,7 +125,7 @@ hilo —Giorgio de Santillana, del MIT, y Hertha von Dechend, de Fráncfort,
 ambos profesionalmente recelosos de las coincidencias bonitas y ambos, al
 final, convencidos de haber hallado algo más antiguo que la
 literatura—.{{ footnote(id="4") }} El libro que publicaron en 1969,
-*Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and
+*{% wiki(slug="hamlets-mill") %}Hamlet's Mill{% end %}: An Essay Investigating the Origins of Human Knowledge and
 Its Transmission Through Myth*, es el instrumento interpretativo que este
 Explicativo toma en sus manos: el argumento de que los grandes mitos del
 mundo son las ruinas de un lenguaje técnico, de que la máquina que los
@@ -137,7 +137,7 @@ astronomía a simple vista: la {% wiki(slug="precession") %}precesión de
 los equinoccios{% end %}, la rueda que gira una vez cada veintiséis mil
 años y divide la historia en {% wiki(slug="world-age") %}eras del
 mundo{% end %}. Este proyecto ya ha contado la historia del hombre que
-leyó el Génesis por esa rueda —Jean Sendy, en [El hombre que apostó la
+leyó el Génesis por esa rueda —{% wiki(slug="jean-sendy") %}Jean Sendy{% end %}, en [El hombre que apostó la
 Biblia a la Luna](/articles/the-man-who-bet-the-bible-on-the-moon/)— y el
 corpus opera las eras como su calendario de trabajo a lo largo de toda la
 [línea temporal](/timeline/). Lo que sigue es el alegato de la rueda
@@ -163,7 +163,7 @@ constelación que alberga la salida del Sol en el equinoccio de primavera
 —el suceso más observable y datable del cielo arcaico— se desplaza hacia
 atrás por el zodíaco a razón de un grado cada 72 años, una constelación
 entera cada 2160. En la era de las primeras ciudades sumerias, el sol del
-equinoccio salía en Tauro. En la era de Moisés salía en Aries. En el
+equinoccio salía en Tauro. En la era de {% wiki(slug="moses") %}Moisés{% end %} salía en Aries. En el
 nacimiento del cristianismo se deslizó hacia Piscis, donde técnicamente
 todavía se encuentra; la frontera de Acuario queda unos siglos por delante
 según el cómputo sidéreo, o unas décadas a nuestra espalda según los
@@ -238,7 +238,7 @@ del eje se astilló, la caja se precipitó, la maciza muela se partió en
 dos* —y allí donde el agua se cuela por el agujero de la muela hundida hay
 un remolino en el mar hasta el día de hoy, y por eso el mar es salado. En
 Finlandia el mismo relato viste otras ropas: el herrero Ilmarinen forja el
-*Sampo* con su tapa multicolor —la palabra, notaron con el tiempo los
+*{% wiki(slug="sampo") %}Sampo{% end %}* con su tapa multicolor —la palabra, notaron con el tiempo los
 filólogos, desciende del sánscrito *skambha*, el pilar-del-mundo— y muele
 harina y sal y dinero hasta que es robado, disputado en el mar y hecho
 añicos; los fragmentos que llegan a la orilla vuelven fértil a Finlandia,
@@ -387,21 +387,21 @@ evidencia se agrupa, en el orden en que la precesión corre realmente:
 hacia atrás por el zodíaco.
 
 **Leo (aproximadamente 10 800–8600 a. C.).** El marcador más antiguo
-reclamado es el mayor: la Gran Esfinge, un león mirando de frente al este,
+reclamado es el mayor: la {% wiki(slug="great-sphinx") %}Gran Esfinge{% end %}, un león mirando de frente al este,
 observando la salida del sol equinoccial. En la época de su atribución
 convencional —el reinado de Kefrén, en plena Era de Tauro— un marcador
 equinoccial leonino no responde a nada en el cielo; proyecta el cielo
 hacia atrás hasta el undécimo milenio a. C. y la Esfinge observa al sol
 salir contra las estrellas de Leo, «su propio homólogo celeste», en la
-frase de Hancock. El refinamiento posterior de Hancock ancla la afirmación
+frase de {% wiki(slug="graham-hancock") %}Hancock{% end %}. El refinamiento posterior de Hancock ancla la afirmación
 a una frontera más dura: «incluso con un poco de malabarismo de
 fronteras... la Era de Leo encierra prácticamente a la perfección el Dryas
 Reciente (10 800 a. C. a 9600 a. C.)» —la brusca recaída, aún debatida, en
 el frío glacial que enmarca los recuerdos de diluvio del mundo según su
 lectura, y cuyo final, 9600 a. C., es a la vez la fecha de fundación que
-los excavadores dan a Göbekli Tepe y la fecha que el sacerdote de Platón
+los excavadores dan a {% wiki(slug="gobekli-tepe") %}Göbekli Tepe{% end %} y la fecha que el sacerdote de Platón
 da a Solón para el hundimiento de la Atlántida.{{ footnote(id="15") }} La
-correlación de Orión de Bauval aporta la segunda manecilla de lo que
+{% wiki(slug="orion-correlation") %}correlación de Orión{% end %} de Bauval aporta la segunda manecilla de lo que
 Hancock llama el reloj de Giza: las estrellas del Cinturón en su mínimo
 precesional, reflejadas por las tres pirámides, hacia el 10 450 a. C. La
 egiptología dominante rechaza todos los elementos de este párrafo salvo la
@@ -417,7 +417,7 @@ equinoccial corría a lo largo de la Vía Láctea —el camino luminoso conectab
 visiblemente los cruces del cielo, «el camino de subida y el camino de
 bajada donde hombres y dioses podían encontrarse en aquella Edad de Oro»—.
 Cuando la precesión sacó al equinoccio de Géminis, la puerta se cerró; el
-camino y el cruce se separaron. Jane Sellers, la egiptóloga forastera que
+camino y el cruce se separaron. {% wiki(slug="jane-sellers") %}Jane Sellers{% end %}, la egiptóloga forastera que
 aplicó el método de *Hamlet's Mill* a Egipto en el único libro que los
 reseñadores dominantes medio perdonaron, data el trauma con precisión: a
 la latitud del sur de Egipto, las estrellas de Orión —Osiris— dejaron de
@@ -435,14 +435,14 @@ los cielos —Sagitario, el signo opuesto—) como su registro zodiacal.
 vuelve casi vergonzosamente literal. Las civilizaciones del cuarto y
 tercer milenio adoraron toros con una unanimidad que sobresaltó a los
 primeros egiptólogos: Apis y Mnevis en Egipto, el Toro del Cielo en Uruk,
-los saltos de toro y los santuarios de cuernos de toro de Creta. John
-Anthony West, prolongando el argumento de Schwaller de Lubicz, dejó
+los saltos de toro y los santuarios de cuernos de toro de Creta. {% wiki(slug="john-anthony-west") %}John
+Anthony West{% end %}, prolongando el argumento de Schwaller de Lubicz, dejó
 constancia de la afirmación fuerte: «desde las primeras dinastías, la
 precesión a través del zodíaco fue lo que guio el curso de la política
 artística y arquitectónica egipcia» —símbolos duales y capitales gemelas
 bajo Géminis, el toro de Mentu dominando la iconografía del Reino Antiguo
 bajo Tauro—. Sendy añade el detalle contrapartida que formaliza el
-principio de la firma doblada de este corpus: mientras el Faraón adoraba
+{% wiki(slug="doubled-signature") %}principio de la firma doblada{% end %} de este corpus: mientras el Faraón adoraba
 al Toro, la reina llevaba el escorpión —el signo diametralmente opuesto—
 en el tocado.{{ footnote(id="16") }} Y en el extremo lejano de la era se
 alza el testigo más extraño: el culto romano de Mitra, cuyo icono central
@@ -450,7 +450,7 @@ muestra a un dios matando a un toro rodeado de un escorpión, un perro, una
 serpiente, un cuervo —un friso de exactamente las constelaciones que se
 hallaban sobre el ecuador celeste cuando el equinoccio estaba en Tauro—.
 La reconstrucción de David Ulansey, desde dentro de la academia y sin
-deuda alguna con Santillana, lee la tauroctonía como un mapa estelar y la
+deuda alguna con Santillana, lee la {% wiki(slug="tauroctony") %}tauroctonía{% end %} como un mapa estelar y la
 muerte del toro como la muerte de una era: la imagen de «aquella fuerza
 cósmica que, en tiempos antiguos, había destruido el poder del toro
 moviendo toda la estructura cósmica», un dios tan poderoso que podía
@@ -485,7 +485,7 @@ operaciones del {% wiki(slug="zodiac") %}zodíaco{% end %} —véase la [Era de
 Aries](/timeline/age-of-aries/) para el propio tratamiento del corpus—.
 
 **Piscis (aproximadamente 1–2000 d. C.).** Los Magos son astrólogos; el
-evangelio lo dice sin apuro. Vienen porque han visto una estrella; Jung
+evangelio lo dice sin apuro. Vienen porque han visto una estrella; {% wiki(slug="carl-jung") %}Jung{% end %}
 —cuyo *Aion* es una meditación de la extensión de un libro sobre esta
 era— observa la famosa triple conjunción de Júpiter y Saturno *en Piscis*
 en el 7 a. C., y enuncia la correspondencia con una franqueza que inquietó
@@ -555,12 +555,12 @@ Las eras son la esfera; los números son los dientes del engranaje, y son
 la parte del caso que mejor viaja, porque los números sobreviven a la
 traducción como no lo hacen las imágenes. El conjunto es pequeño y
 específico: 72, los años por grado precesional; 2160, los años por signo;
-4320, dos signos; 25 920, el Gran Año; 108 y 10 800, las mitades y los
+4320, dos signos; 25 920, el {% wiki(slug="great-year") %}Gran Año{% end %}; 108 y 10 800, las mitades y los
 centuplos; 432 000, el gran múltiplo.{{ footnote(id="6") }}
 
 Afloran donde nadie los buscaba. Beroso, el sacerdote de Marduk que abrió
-una escuela de astrología en Cos, asigna a los reyes de Sumer anteriores
-al Diluvio un reinado combinado de 432 000 años. El Rigveda, compuesto a
+una escuela de astrología en Cos, asigna a los {% wiki(slug="sumerian-king-list") %}reyes de Sumer anteriores
+al Diluvio{% end %} un reinado combinado de 432 000 años. El Rigveda, compuesto a
 un continente de distancia, se extiende a 10 800 estrofas de 40 sílabas:
 432 000 sílabas. El Kali Yuga dura 432 000 años; el aiōn de Heráclito,
 según Censorino, 10 800. En el *Grímnismál*, el Valhalla tiene 540
@@ -727,7 +727,7 @@ un versículo el interrogatorio se vuelve hacia la rueda:
 >
 > — {% libref(book="job", chapter=38, verse=32) %}Job 38:31–33{% end %} (RV)
 
-*Mazzaroth* es un hapax legomenon; la palabra aparece exactamente una vez
+*{% wiki(slug="mazzaroth") %}Mazzaroth{% end %}* es un hapax legomenon; la palabra aparece exactamente una vez
 en la Biblia, y para cuando los traductores antiguos llegaron a ella, el
 significado ya estaba perdido —la Septuaginta simplemente translitera, la
 Vulgata conjetura Venus, y la King James se rinde con elegancia,
@@ -915,7 +915,7 @@ citar: la evidencia circunstancial del conocimiento arcaico de la precesión
 y «sería insensato construir una teoría sobre evidencia tan escasa».
 Incluso el simpatizante reseñador de Jane Sellers en el Observatorio
 Griffith, E. C. Krupp, trazó la línea que mantiene honrada a la
-arqueoastronomía: «que los egipcios fueran plenamente conscientes de la
+{% wiki(slug="archaeoastronomy") %}arqueoastronomía{% end %}: «que los egipcios fueran plenamente conscientes de la
 precesión es una cosa; que respondieran a su efecto es otra».
 
 Tres cosas sobreviven a este bombardeo, e importa decir con precisión

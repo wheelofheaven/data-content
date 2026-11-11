@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 98
+translation_sync = 100
 core_versions = { woh-claim-0010 = "0.1.0" }
 core_claim_ids = ["woh-claim-0010"]
 claim_type = "inferred"
@@ -266,7 +266,7 @@ ETCSL c.1.7.4){{ footnote(id="1") }} שרדה רק בלקונות{{ footnote(id=
 במניע — *אטרח'סיס* הבבלי נותן צפיפות־יתר ו*רעש*; השומרי
 שבור מכדי שאפשר יהיה לדעת. המסורת העברית מספקת מניע אבל
 מנסחת אותו באופן מופשט: הארץ "מָלְאָה חָמָס." זוהי
-המסורת ה{% wiki(slug="elohim") %}חנוכית{% end %} — *ספר הצופים*{{ footnote(id="9") }},
+המסורת ה{% wiki(slug="elohim") %}חנוכית{% end %} — {% wiki(slug="book-of-enoch") %}*ספר הצופים*{% end %}{{ footnote(id="9") }},
 חנוך א' 6–11 — שמשמרת את הדין־וחשבון המכני המפורט ביותר על *מה
 השתבש*, והיא נקראת פחות כמשל מוסרי ויותר כדו"ח אירוע.
 

@@ -9,7 +9,7 @@ translation_status = "ai_reviewed"
 translation_updated = "2026-11-11"
 source_updated = "2026-11-11"
 translation_stale = false
-translation_sync = 99
+translation_sync = 100
 same_as = ["https://www.wikidata.org/wiki/Q868915", "https://en.wikipedia.org/wiki/Elohim", "https://www.britannica.com/topic/Elohim"]
 claim_type = "framework"
 core_versions = { woh-claim-0001 = "0.2.0", woh-claim-0009 = "0.1.1", woh-claim-0030 = "0.1.0" }
@@ -116,7 +116,7 @@ La lecture est contestée. Au sein de l'étude académique moderne de la Bible h
 
 L'hébreu *ʾĕlōhîm* est le pluriel de *ʾĕlōah*, lui-même habituellement compris comme une forme étendue du plus court *ʾēl* (<span class="hebrew">אֵל</span>). La racine sémitique sous-jacente est *ʾl* ou *ʾlh*, attestée à travers la famille sémitique par des cognats en akkadien (*ilum*), ougaritique (singulier *ʾil*, pluriel *ʾilhm*), araméen (*ʾĕlāh*), arabe (*ʾilāh*) et dans les langues cananéennes. La glose conventionnelle de la racine est *puissance* ou *force*, et le pluriel *ʾilhm* se lit comme *les puissances* ou *les puissants*.
 
-Le cognat akkadien *ilum* s'écrit, en cunéiforme, à l'aide du logogramme 𒀭. Le même signe fonctionne à la fois comme logogramme pour le mot *ilum* et comme déterminatif placé devant les noms divins pour les marquer comme tels. En tant qu'idéogramme autonome, cependant, le signe 𒀭 représente le mot sumérien *an*, qui signifie *ciel*, et représente pictographiquement une étoile. La convergence est significative. Le signe cunéiforme du divin est le signe du ciel ; la forme écrite la plus ancienne du concept que la tradition hébraïque rendra plus tard par *Élohim* représente une étoile — c'est-à-dire représente pictographiquement une origine céleste. Le mot sumérien *Anunnaki* (𒀭𒀀𒉣𒈾), diversement traduit par *ceux de semence princière* ou, plus librement, *ceux qui du ciel vinrent sur la terre*, contient ce même élément 𒀭 avec la lecture *an*.
+Le cognat akkadien *ilum* s'écrit, en cunéiforme, à l'aide du logogramme 𒀭. Le même signe fonctionne à la fois comme logogramme pour le mot *ilum* et comme déterminatif placé devant les noms divins pour les marquer comme tels. En tant qu'idéogramme autonome, cependant, le signe 𒀭 représente le mot sumérien *an*, qui signifie *ciel*, et représente pictographiquement une étoile. La convergence est significative. Le signe cunéiforme du divin est le signe du ciel ; la forme écrite la plus ancienne du concept que la tradition hébraïque rendra plus tard par *Élohim* représente une étoile — c'est-à-dire représente pictographiquement une origine céleste. Le mot sumérien {% wiki(slug="anunnaki") %}*Anunnaki*{% end %} (𒀭𒀀𒉣𒈾), diversement traduit par *ceux de semence princière* ou, plus librement, *ceux qui du ciel vinrent sur la terre*, contient ce même élément 𒀭 avec la lecture *an*.
 
 Le corpus consigne ceci comme une observation comparative sur laquelle s'appuie la tradition réinterprétative moderne : dans les sources écrites les plus anciennes du Proche-Orient ancien, le divin s'écrit avec le signe du ciel, représenté sous forme d'étoile. Il n'en dérive pas la glose du canon. Le rendu d'*Elohim* par « ceux qui sont venus du ciel » dans le canon est canonique, non lexical ; la lecture philologique standard de la racine reste *puissance*. La lecture surnaturelle traditionnelle et la lecture par la civilisation extraterrestre diffèrent sur la question de savoir si l'imagerie céleste est une métaphore de la transcendance ou le souvenir d'une arrivée littérale.{{ footnote(id="1") }}
 

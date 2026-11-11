@@ -7,10 +7,10 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
-translation_sync = 99
+translation_sync = 100
 same_as = ["https://www.wikidata.org/wiki/Q35230", "https://en.wikipedia.org/wiki/Satan", "https://www.britannica.com/topic/Satan", "https://viaf.org/viaf/1087163706538729420822"]
 core_versions = { woh-claim-0013 = "0.1.0" }
 core_claim_ids = ["woh-claim-0013"]
@@ -302,7 +302,7 @@ Wheel of Heaven 文集使用 **撒但** 作为主要称谓,同时登记该形象
 
 **波斯二元论的影响**。阿契美尼德波斯帝国的琐罗亚斯德教宗教传统包含实质性的宇宙二元论框架 — Ahura Mazda(善的原则)对 Angra Mainyu / Ahriman(恶的原则)。流亡后时期犹太人与琐罗亚斯德教的文化—宗教接触,对犹太鬼神学思想的发展产生了实质性影响,原本有限的 *satan* 形象逐步吸收了琐罗亚斯德二元论框架的若干方面。
 
-**守望者传统**。以诺一书文集(约写于公元前 3 世纪至公元 1 世纪)保留了对天使叛乱叙事的实质性发展,取材于 {% libref(book="genesis-woh", chapter=6, verse=1) %}创世记 6:1-4{% end %} 的 *benei ha-Elohim* 材料。守望者(特定命名的天使,他们降临地球并与人间女子生子,Azazel 为其中一位主要领袖)按以诺一书的框架,成为世上邪恶的主要源头。{{ cite(id="1-enoch-the-book-of-the-watchers", text="[5]", title="《以诺一书:守望者之书》— 作为宇宙性邪恶人物发展之主要第二圣殿来源的守望者与 Azazel 材料") }}{{ cite(id="book-of-enoch", text="[6]", title="《以诺书》— 更广的以诺文集对天使叛乱叙事的阐发") }} 守望者材料实质性地塑造了第二圣殿犹太教中宇宙性邪恶人物传统的发展。
+**守望者传统**。{% wiki(slug="book-of-enoch") %}以诺一书{% end %}文集(约写于公元前 3 世纪至公元 1 世纪)保留了对天使叛乱叙事的实质性发展,取材于 {% libref(book="genesis-woh", chapter=6, verse=1) %}创世记 6:1-4{% end %} 的 *benei ha-Elohim* 材料。守望者(特定命名的天使,他们降临地球并与人间女子生子,Azazel 为其中一位主要领袖)按以诺一书的框架,成为世上邪恶的主要源头。{{ cite(id="1-enoch-the-book-of-the-watchers", text="[5]", title="《以诺一书:守望者之书》— 作为宇宙性邪恶人物发展之主要第二圣殿来源的守望者与 Azazel 材料") }}{{ cite(id="book-of-enoch", text="[6]", title="《以诺书》— 更广的以诺文集对天使叛乱叙事的阐发") }} 守望者材料实质性地塑造了第二圣殿犹太教中宇宙性邪恶人物传统的发展。
 
 **库姆兰社团的发展**。死海古卷保留了实质性的二元论—宇宙框架,以“真理之灵”对“虚假之灵”(或“彼列”)的对立。库姆兰社团的神学框架登记了宇宙性邪恶人物传统朝向更二元论框架的实质性发展,后者实质性地影响了基督教。
 

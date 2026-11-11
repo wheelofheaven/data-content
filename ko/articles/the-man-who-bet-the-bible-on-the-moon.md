@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 97
+translation_sync = 100
 core_versions = { woh-claim-0042 = "0.1.0" }
 core_claim_ids = ["woh-claim-0042"]
 claim_type = "inferred"
@@ -115,7 +115,7 @@ UFO 연구자들, 그가 동요시킨 만화가{{ footnote(id="10") }} — 그
 1963년과 1975년 사이에 이 남자는, 자신의 축약된 이름으로, 이
 프로젝트가 그 위에 세워진 독해의 첫 지속적 진술을 출간했다. 히브리어
 성경을 글자 그대로 취하면, 엘로힘이라 불리는 물질적 존재들의 복수성이
-지구에 체류한 것을 전한다는 것이다. 그는 에리히 폰 데니켄이 그 일반적
+지구에 체류한 것을 전한다는 것이다. 그는 {% wiki(slug="erich-von-daniken") %}에리히 폰 데니켄{% end %}이 그 일반적
 착상을 전 세계적 상식으로 만들기 5년 전에, 클로드 보릴롱이라는
 프랑스 모터레이싱 저널리스트 — {% wiki(slug="rael") %}라엘{% end %} —
 이 그 존재들 가운데 하나가 바로 그 구절들을 직접 자신에게 설명해
@@ -222,7 +222,7 @@ que la Genèse reflète une vérité historique"* — 나는 우주비행사들�
 도름의 플레야드 번역{{ footnote(id="5") }} — *Iahvé Elohim*을 그대로
 세워 두는 유일한 프랑스어 성경 — 외의 그 무엇에도 대조하여 확인하지
 말라고 권했다. 둘째 특징은 상상된 방문자들의 풍미이다. 상디의 엘로힘은
-시친의 금을 캐는 감독관도, 후대 이탈리아 문헌의 "폭력적이고, 학대적이며,
+{% wiki(slug="zecharia-sitchin") %}시친{% end %}의 금을 캐는 감독관도, 후대 이탈리아 문헌의 "폭력적이고, 학대적이며,
 불길한" 관리자들도 아니다 — 상디를 면밀히 연구한 유일한 학자
 스테파노 비글리아르디는 그의 천상인들을 *"투명하고, 붙잡기 어려우며,
 매혹적인 인물들"*이라 부른다. 그들은 쌍을 이루어 살고, (수천 년에

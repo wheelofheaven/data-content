@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 97
+translation_sync = 100
 core_versions = { woh-claim-0042 = "0.1.0" }
 core_claim_ids = ["woh-claim-0042"]
 claim_type = "inferred"
@@ -119,7 +119,7 @@ Entre 1963 y 1975 este hombre publicó, bajo su nombre reducido, el
 primer enunciado sostenido de la lectura sobre la que se construye este
 proyecto: que la Biblia hebrea, tomada al pie de la letra, relata la
 estancia en la Tierra de una pluralidad de seres físicos llamados los
-Elohim. La publicó cinco años antes de que Erich von Däniken convirtiera
+Elohim. La publicó cinco años antes de que {% wiki(slug="erich-von-daniken") %}Erich von Däniken{% end %} convirtiera
 la idea general en un lugar común mundial, once años antes de que un
 periodista francés de automovilismo llamado Claude Vorilhon
 —{% wiki(slug="rael") %}Raël{% end %}— relatara que uno de aquellos
@@ -234,7 +234,7 @@ lectores no contrastarlo con nada salvo con el hebreo o con la traducción
 Pléiade de Édouard Dhorme{{ footnote(id="5") }}, la única Biblia francesa
 que deja en pie *Iahvé Elohim*. El segundo rasgo es el matiz de los
 visitantes imaginados. Los Elohim de Sendy no son ni los capataces
-mineros de oro de Sitchin ni los gestores «violentos, abusivos y
+mineros de oro de {% wiki(slug="zecharia-sitchin") %}Sitchin{% end %} ni los gestores «violentos, abusivos y
 siniestros» de la literatura italiana posterior —Stefano Bigliardi, el
 único académico que ha estudiado de cerca a Sendy, llama a sus Celestes
 *"diaphanous, elusive, and fascinating figures."* Viven en parejas,

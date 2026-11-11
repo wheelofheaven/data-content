@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 98
+translation_sync = 100
 core_versions = { woh-claim-0010 = "0.1.0" }
 core_claim_ids = ["woh-claim-0010"]
 claim_type = "inferred"
@@ -282,7 +282,7 @@ mésopotamiens sont avares de motif — l'*Atraḫasīs* babylonien invoque la
 surpopulation et le *bruit* ; le sumérien est trop brisé pour en être sûr. La
 tradition hébraïque fournit un motif mais l'énonce abstraitement : la terre
 était « remplie de violence ». C'est la tradition
-{% wiki(slug="elohim") %}hénochienne{% end %} — le *Livre des Veilleurs*{{ footnote(id="9") }},
+{% wiki(slug="elohim") %}hénochienne{% end %} — le {% wiki(slug="book-of-enoch") %}*Livre des Veilleurs*{% end %}{{ footnote(id="9") }},
 1 Hénoch 6–11 — qui conserve le récit le plus mécaniquement précis de *ce qui a
 mal tourné*, et qui se lit moins comme un conte moral que comme un rapport
 d'incident.

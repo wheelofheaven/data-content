@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 97
+translation_sync = 100
 core_versions = { woh-claim-0010 = "0.1.0" }
 core_claim_ids = ["woh-claim-0010"]
 claim_type = "inferred"
@@ -262,7 +262,7 @@ ETCSL c.1.7.4){{ footnote(id="1") }}라 부르는 수메르 작품은 공백{{ f
 제시하고, 수메르 본문은 확신하기엔 너무 손상되어 있다. 히브리 전통은
 동기를 제공하지만 그것을 추상적으로 진술한다. 땅이 "폭력으로 가득 찼다."
 *무엇이 잘못되었는지*에 대한 가장 기계적으로 구체적인 기록을 보존하는 것은
-{% wiki(slug="elohim") %}에녹의{% end %} 전통 — *감시자의 책*{{ footnote(id="9") }},
+{% wiki(slug="elohim") %}에녹의{% end %} 전통 — {% wiki(slug="book-of-enoch") %}*감시자의 책*{% end %}{{ footnote(id="9") }},
 에녹1서 6–11장 — 이며, 그것은 도덕 우화라기보다 사건 보고서처럼 읽힌다.
 
 그 발단은 창세기가 세 수수께끼 같은 구절로 거명하고 곧 떨어뜨리는 바로 그
@@ -499,7 +499,7 @@ ETCSL c.1.7.4){{ footnote(id="1") }}라 부르는 수메르 작품은 공백{{ f
 대립하는 신념은, 이 글이 시작한 곳 — 조준할 수 없는 무기 — 에서 끝날 수
 있다. 첫째: 이것은 이 말뭉치 자신의 장치가 명시적으로 부인하는 계보인 대중적
 변두리 저술의 {% wiki(slug="ancient-astronaut-hypothesis") %}"고대 우주인"{% end %}
-독해가 아니다. 수메르 *아눈나키*{{ footnote(id="12") }}에 대한 시친식 독해도
+독해가 아니다. 수메르 {% wiki(slug="anunnaki") %}*아눈나키*{% end %}{{ footnote(id="12") }}에 대한 시친식 독해도
 아니며, 이 독해는 신의 이름들 아래 숨겨진 어떤 공학 어휘도 찾아내지 않는다. 그
 논거는 오로지 서사적 형태에 의존한다 — 가장 오래된 홍수 이야기가 결정,
 집행, 검토로 구축되어 있다는 데에. 둘째: 그 면밀한 읽기는 그 틀에 전혀

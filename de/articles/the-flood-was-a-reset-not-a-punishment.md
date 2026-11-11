@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 97
+translation_sync = 100
 core_versions = { woh-claim-0010 = "0.1.0" }
 core_claim_ids = ["woh-claim-0010"]
 claim_type = "inferred"
@@ -283,7 +283,7 @@ mesopotamischen Texte sind dünn beim Motiv — das babylonische *Atraḫasīs* 
 Überbevölkerung und *Lärm*; das Sumerische ist zu zerbrochen, um sicher zu sein.
 Die hebräische Tradition liefert ein Motiv, gibt es aber abstrakt an: Die Erde
 war „mit Gewalttat erfüllt". Es ist die
-{% wiki(slug="elohim") %}henochische{% end %} Tradition — das *Buch der Wächter*{{ footnote(id="9") }},
+{% wiki(slug="elohim") %}henochische{% end %} Tradition — das {% wiki(slug="book-of-enoch") %}*Buch der Wächter*{% end %}{{ footnote(id="9") }},
 1 Henoch 6–11 —, die den mechanisch konkretesten Bericht darüber bewahrt, *was
 schiefging*, und sie liest sich weniger wie eine Moralgeschichte als wie ein
 Vorfallbericht.
@@ -567,7 +567,7 @@ genug gehegt, können dort enden, wo dieser Essay begann: in einer Waffe, die
 nicht zielen kann. Das Erste: Dies ist nicht die
 {% wiki(slug="ancient-astronaut-hypothesis") %}„Prä-Astronautik"{% end %}-Lesart der populären randständigen Literatur, eine Linie, die der
 eigene Apparat des Korpus ausdrücklich von sich weist. Es ist nicht die Sitchin-Lesart der sumerischen
-*Anunnaki*{{ footnote(id="12") }}, und es findet kein technisches Vokabular,
+{% wiki(slug="anunnaki") %}*Anunnaki*{% end %}{{ footnote(id="12") }}, und es findet kein technisches Vokabular,
 das unter den göttlichen Namen verborgen wäre. Der Fall ruht
 allein auf der narrativen Gestalt — darauf, dass die älteste Flutgeschichte als
 Entscheidung, Vollzug und Nachprüfung gebaut ist. Das Zweite: Die genaue Lektüre

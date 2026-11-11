@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 94
+translation_sync = 100
 core_versions = { woh-claim-0026 = "0.1.0" }
 core_claim_ids = ["woh-claim-0026"]
 claim_type = "speculative"
@@ -262,7 +262,7 @@ por comité humano, exactamente como exige el
 {% wiki(slug="plurality-of-gods") %}relato del gran editado{% end %} del
 corpus. Los rollos incluso pillaron a los editores en el acto. En
 {% libref(book="deuteronomy", chapter=32, verse=8) %}Deuteronomio
-32:8{% end %}, el texto masorético dice que el Altísimo repartió las
+32:8{% end %}, el {% wiki(slug="masoretic-text") %}texto masorético{% end %} dice que el Altísimo repartió las
 naciones «según el número de los hijos de Israel»; el fragmento de la
 Cueva 4 4QDeutj lee *«hijos de elohim»*{{ footnote(id="5") }} —la
 lectura que la erudición dominante juzga original, y su reemplazo una
@@ -279,7 +279,7 @@ La revelación más honda no fueron los textos bíblicos, sino sus
 compañeros de estantería, porque la biblioteca conservó libros que los
 cánones posteriores tiraron —y los conservó en abundancia—.
 
-El Libro de Enoc, citado como Escritura en la carta de Judas del Nuevo
+{% wiki(slug="book-of-enoch") %}El Libro de Enoc{% end %}, citado como Escritura en la carta de Judas del Nuevo
 Testamento y luego expulsado de toda Biblia salvo la de Etiopía,
 sobrevivió en Qumrán en once manuscritos arameos (4Q201–212) —más copias
 que la mayoría de los libros bíblicos—. Los fragmentos más antiguos de
@@ -533,7 +533,7 @@ las tinieblas no ha terminado. El corpus sostiene que la cuenta que los
 pactistas llevaban sigue corriendo —sobre una rueda más antigua que su
 calendario— y que lo que aguardaban bajo el nombre del décimo jubileo es
 lo que él aguarda bajo el nombre del {% wiki(slug="great-return") %}Retorno{% end %}.
-En esa lectura, los Manuscritos del Mar Muerto no son meramente el
+En esa lectura, los {% wiki(slug="dead-sea-scrolls") %}Manuscritos del Mar Muerto{% end %} no son meramente el
 primer gran suceso arqueológico de la era. Son la primera entrega del
 año uno: el correo sellado de la tradición, matasellado en la caída del
 Templo, dirigido al tiempo del fin, y abierto —de madrugada, por un niño

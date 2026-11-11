@@ -10,7 +10,7 @@ translation_status = "ai_reviewed"
 translation_updated = "2026-11-11"
 source_updated = "2026-11-11"
 translation_stale = false
-translation_sync = 97
+translation_sync = 100
 core_versions = { woh-claim-0042 = "0.1.0" }
 core_claim_ids = ["woh-claim-0042"]
 claim_type = "inferred"
@@ -459,7 +459,7 @@ mortali semplicemente nascondendosi dietro normalissime rocce"* — את מה ש
 מפשטת, פרובוקטיבית, מרחיקת לכת — *"ma nessuno ha potuto sostenere
 che le sue traduzioni e le proposte di analisi del testo masoretico fossero
 errate, in malafede, o false"* — אך איש לא הצליח לטעון שתרגומיו
-וניתוחיו המוצעים של הטקסט המסורתי היו שגויים, בחוסר תום
+וניתוחיו המוצעים של {% wiki(slug="masoretic-text") %}הטקסט המסורתי{% end %} היו שגויים, בחוסר תום
 לב, או כוזבים.
 
 **מחלוקת חיה.** טיעונו ש*ברא* לעולם אינו מציין בריאה
@@ -498,7 +498,7 @@ errate, in malafede, o false"* — אך איש לא הצליח לטעון שתר
 
 יושר נוסף שהביקורת חבה: ספרו הראשון של ביליינו נשען על
 זכריה סיצ'ין, בקוראו ל*The Earth Chronicles* בשם *"המקור הראשי"*
-למסגרתו השומרית — נִבִּירוּ, אנונאקי כורי זהב וכל השאר. הספרים
+למסגרתו השומרית — נִבִּירוּ, {% wiki(slug="anunnaki") %}אנונאקי{% end %} כורי זהב וכל השאר. הספרים
 המאוחרים מתרחקים מאותו פיגום ללא הכרזה: החומר השומרי
 מיוחס מחדש לאשורולוגיה אקדמית (קרמר, פטינטו,
 קסטלינו), נבירו נעלם, וסיצ'ין שורד רק כרשומה ביבליוגרפית

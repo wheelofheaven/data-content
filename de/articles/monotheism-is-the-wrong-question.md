@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
-translation_sync = 92
+translation_sync = 100
 core_versions = { woh-claim-0009 = "0.1.1", woh-claim-0011 = "0.1.0" }
 core_claim_ids = ["woh-claim-0009", "woh-claim-0011"]
 claim_type = "speculative"
@@ -157,7 +157,7 @@ Das Wort *Monotheismus* ist jünger als das Teleskop. Es wurde von christlichen
 Philosophen in der zweiten Hälfte des siebzehnten Jahrhunderts geprägt und
 verbreitet; Henry More wird gewöhnlich der erste englische Gebrauch
 zugeschrieben. Das Wort benennt eine reale und wichtige Familie von
-Überzeugungen, aber es ist keine antike Selbstbeschreibung, die Mose, Paulus und
+Überzeugungen, aber es ist keine antike Selbstbeschreibung, die {% wiki(slug="moses") %}Mose{% end %}, Paulus und
 Mohammed teilten. Es ist ein Lineal, in einer einzigen geistigen Werkstatt
 gefertigt und rückblickend über sehr unterschiedliche religiöse Welten gelegt.
 
@@ -533,7 +533,7 @@ Innerhalb des [Zeitalters des Wassermanns](/timeline/age-of-aquarius/) beginnt
 der Kanon von Wheel of Heaven damit, die spätere Übereinkunft umzukehren. {% claim(type="framework", id="woh-claim-0009") %}Er nimmt
 die antike Pluralität an und verwirft die übernatürliche Kategorie. Die Elohim
 sind viele, endliche, verkörperte Schöpfer.{% end %} Yahweh ist ein benanntes Individuum
-und institutioneller Präsident, nicht das Sein selbst. Gabriel oder Jibril wird
+und {% wiki(slug="council-of-the-eternals") %}institutioneller Präsident{% end %}, nicht das Sein selbst. Gabriel oder Jibril wird
 als ein Bote gelesen, der am prophetischen Kontakt beteiligt ist, nicht als eine
 immaterielle Spezies, die zwischen Schöpfung und Schöpfer
 schwebt.{{ footnote(id="7") }}
@@ -624,7 +624,7 @@ tun, was lebendige Repräsentanten und erinnerte Schöpfer angeblich taten.
 **Sie erklärt die wiederkehrende Grammatik der Wiederherstellung.** Abraham steht
 am Rand des [Zeitalters des Stiers](/timeline/age-of-taurus/); Mose führt Israel
 im [Zeitalter des Widders](/timeline/age-of-aries/) nach dem Kalb zum Bund zurück;
-Propheten werfen dem Volk das Vergessen vor; Jesus ruft seine Hörer zu den
+Propheten werfen dem Volk das Vergessen vor; {% wiki(slug="jesus") %}Jesus{% end %} ruft seine Hörer zu den
 gewichtigeren Anliegen des Gesetzes zurück; und der Koran nennt, innerhalb des
 [Zeitalters der Fische](/timeline/age-of-pisces/), Abraham weder Jude noch Christ
 und gebietet Mohammed, seiner Religion zu folgen. Neue Botschaften geben sich als
@@ -674,7 +674,7 @@ als über das, was die Bildverehrung ersetzte. G. R. Hawtings Arbeit spricht
 dieselbe Warnung für den Islam aus: Polemische „Beigeseller“ lassen sich nicht
 einfach in eine fotografische Darstellung der vorislamischen Religion verwandeln.
 
-**Der dritte Einwand ist die Kategorienersetzung.** „Gott“ durch
+**Der dritte Einwand ist die {% wiki(slug="neo-euhemerism") %}Kategorienersetzung{% end %}.** „Gott“ durch
 „fortgeschrittenes Wesen“ zu ersetzen gewinnt nicht automatisch Geschichte
 zurück. Es mag bloß die antike Mythologie in die Prestigesprache der
 technologischen Gegenwart übersetzen. Susan Palmer und George Chryssides

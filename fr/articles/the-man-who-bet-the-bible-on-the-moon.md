@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 97
+translation_sync = 100
 core_versions = { woh-claim-0042 = "0.1.0" }
 core_claim_ids = ["woh-claim-0042"]
 claim_type = "inferred"
@@ -116,7 +116,7 @@ Entre 1963 et 1975 cet homme publia, sous son nom réduit, le premier
 énoncé soutenu de la lecture sur laquelle ce projet est bâti : que la
 Bible hébraïque, prise au pied de la lettre, relate le séjour sur Terre
 d'une pluralité d'êtres physiques appelés les Élohim. Il le publia cinq
-ans avant qu'Erich von Däniken ne fasse de l'idée générale un lieu
+ans avant qu'{% wiki(slug="erich-von-daniken") %}Erich von Däniken{% end %} ne fasse de l'idée générale un lieu
 commun mondial, onze ans avant qu'un journaliste français de sport
 automobile nommé Claude Vorilhon —
 {% wiki(slug="rael") %}Raël{% end %} — ne rapporte que l'un de ces êtres
@@ -230,7 +230,7 @@ le vérifier contre rien d'autre que l'hébreu ou la traduction de la
 Pléiade d'Édouard Dhorme{{ footnote(id="5") }}, la seule Bible française
 qui laisse *Iahvé Elohim* debout. Le second trait est la saveur des
 visiteurs imaginés. Les Élohim de Sendy ne sont ni les surveillants
-chercheurs d'or de Sitchin ni les gestionnaires « violents, abusifs et
+chercheurs d'or de {% wiki(slug="zecharia-sitchin") %}Sitchin{% end %} ni les gestionnaires « violents, abusifs et
 sinistres » de la littérature italienne plus tardive — Stefano
 Bigliardi, le seul universitaire à avoir étudié Sendy de près, appelle
 ses Célestes *« des figures diaphanes, insaisissables et fascinantes »*.

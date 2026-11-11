@@ -7,10 +7,10 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
-translation_sync = 99
+translation_sync = 100
 same_as = ["https://www.wikidata.org/wiki/Q35230", "https://en.wikipedia.org/wiki/Satan", "https://www.britannica.com/topic/Satan", "https://viaf.org/viaf/1087163706538729420822"]
 core_versions = { woh-claim-0013 = "0.1.0" }
 core_claim_ids = ["woh-claim-0013"]
@@ -302,7 +302,7 @@ La période du Second Temple (approximativement du VIe siècle AEC au Ier siècl
 
 **L'influence dualiste perse**. La tradition religieuse zoroastrienne de l'Empire perse achéménide incluait un cadre cosmico-dualiste substantiel — Ahura Mazda (le principe du bien) contre Angra Mainyu / Ahriman (le principe du mal). Le contact culturel et religieux juif avec le zoroastrisme durant la période postexilique produisit une influence substantielle sur le développement de la pensée démonologique juive, la figure originellement limitée du *satan* absorbant progressivement des aspects du cadre dualiste zoroastrien.
 
-**La tradition des Veilleurs**. Le corpus de 1 Hénoch (composé approximativement du IIIe siècle AEC au Ier siècle EC) préserve un développement substantiel du récit de la rébellion angélique s'appuyant sur le matériau des *benei ha-Elohim* de {% libref(book="genesis-woh", chapter=6, verse=1) %}Genèse 6, 1-4{% end %}. Les Veilleurs (anges spécifiquement nommés qui descendirent sur Terre et engendrèrent des descendants avec des femmes humaines, Azazel étant l'un des principaux chefs) deviennent la source principale du mal dans le monde selon le cadre de 1 Hénoch.{{ cite(id="1-enoch-the-book-of-the-watchers", text="[5]", title="*1 Hénoch : le Livre des Veilleurs* — matériau des Veilleurs et d'Azazel comme source principale du Second Temple pour le développement de la figure du mal cosmique") }}{{ cite(id="book-of-enoch", text="[6]", title="*Livre d'Hénoch* — élaboration plus large du corpus hénochique sur le récit de la rébellion angélique") }} Le matériau des Veilleurs façonne substantiellement le développement des traditions de figures du mal cosmique à travers le judaïsme du Second Temple.
+**La tradition des Veilleurs**. Le corpus de {% wiki(slug="book-of-enoch") %}1 Hénoch{% end %} (composé approximativement du IIIe siècle AEC au Ier siècle EC) préserve un développement substantiel du récit de la rébellion angélique s'appuyant sur le matériau des *benei ha-Elohim* de {% libref(book="genesis-woh", chapter=6, verse=1) %}Genèse 6, 1-4{% end %}. Les Veilleurs (anges spécifiquement nommés qui descendirent sur Terre et engendrèrent des descendants avec des femmes humaines, Azazel étant l'un des principaux chefs) deviennent la source principale du mal dans le monde selon le cadre de 1 Hénoch.{{ cite(id="1-enoch-the-book-of-the-watchers", text="[5]", title="*1 Hénoch : le Livre des Veilleurs* — matériau des Veilleurs et d'Azazel comme source principale du Second Temple pour le développement de la figure du mal cosmique") }}{{ cite(id="book-of-enoch", text="[6]", title="*Livre d'Hénoch* — élaboration plus large du corpus hénochique sur le récit de la rébellion angélique") }} Le matériau des Veilleurs façonne substantiellement le développement des traditions de figures du mal cosmique à travers le judaïsme du Second Temple.
 
 **Les développements de la communauté de Qumrân**. Les manuscrits de la mer Morte préservent un cadre cosmico-dualiste substantiel avec l'opposition « Esprit de Vérité » contre « Esprit de Mensonge » (ou « Bélial »). Le cadre théologique de la communauté de Qumrân consigne un développement substantiel des traditions de figures du mal cosmique vers le cadre plus dualiste qui influença par la suite le christianisme.
 

@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 94
+translation_sync = 100
 core_versions = { woh-claim-0026 = "0.1.0" }
 core_claim_ids = ["woh-claim-0026"]
 claim_type = "speculative"
@@ -261,7 +261,7 @@ durch ein menschliches Gremium, genau wie es die
 {% wiki(slug="plurality-of-gods") %}Darstellung der großen Redaktion{% end %}
 des Korpus verlangt. Die Rollen ertappten die Redaktoren sogar auf
 frischer Tat. Bei {% libref(book="deuteronomy", chapter=32, verse=8) %}Deuteronomium
-32,8{% end %} sagt der masoretische Text, der Höchste habe die Völker
+32,8{% end %} sagt der {% wiki(slug="masoretic-text") %}masoretische Text{% end %}, der Höchste habe die Völker
 „nach der Zahl der Söhne Israels" geteilt; das Fragment 4QDeut(j) aus
 Höhle 4 liest *„Söhne der Elohim"*{{ footnote(id="5") }} — die Lesart,
 die die etablierte Forschung für ursprünglich hält, ihre Ersetzung eine
@@ -278,7 +278,7 @@ Die tiefere Offenbarung waren nicht die biblischen Texte, sondern ihre
 Regalnachbarn, denn die Bibliothek behielt Bücher, die die späteren
 Kanones wegwarfen — und behielt sie in Mengen.
 
-Das Buch Henoch, im Judasbrief des Neuen Testaments als Schrift zitiert
+{% wiki(slug="book-of-enoch") %}Das Buch Henoch{% end %}, im Judasbrief des Neuen Testaments als Schrift zitiert
 und dann aus jeder Bibel außer der äthiopischen verbannt, überlebte in
 Qumran in elf aramäischen Handschriften (4Q201–212) — mehr Abschriften
 als die meisten biblischen Bücher. Die ältesten Fragmente seines
@@ -538,7 +538,7 @@ Zählung, die die Bündler führten, noch läuft — auf einem Rad, das älter
 ist als ihr Kalender —, und dass das, was sie unter dem Namen des zehnten
 Jubiläums erwarteten, das ist, was es unter dem Namen der
 {% wiki(slug="great-return") %}Rückkehr{% end %} erwartet. Nach dieser
-Lesart sind die Schriftrollen vom Toten Meer nicht bloß das erste große
+Lesart sind die {% wiki(slug="dead-sea-scrolls") %}Schriftrollen vom Toten Meer{% end %} nicht bloß das erste große
 archäologische Ereignis der Ära. Sie sind die erste Lieferung des Jahres
 eins: die versiegelte Post der Tradition, gestempelt beim Fall des
 Tempels, adressiert an die letzte Zeit, und geöffnet — früh am Morgen,

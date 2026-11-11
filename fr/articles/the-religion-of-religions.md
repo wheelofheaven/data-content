@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 86
+translation_sync = 100
 core_versions = { woh-claim-0020 = "0.1.0", woh-claim-0027 = "0.1.0" }
 core_claim_ids = ["woh-claim-0020", "woh-claim-0027"]
 claim_type = "inferred"
@@ -213,9 +213,9 @@ au-dessus de la moyenne. » Le prophète éthique de Weber n'a jamais été
 tenu d'être impressionnant ; il était tenu d'être *envoyé*.
 
 Ce qu'un historien peut ajouter, c'est le milieu. En décembre 1973, la
-lecture de la Genèse par les anciens astronautes était, en France, presque
-une lecture de poche courante — *La Lune, clé de la Bible* (1968) de Jean
-Sendy avait déjà soutenu que les {% wiki(slug="elohim") %}Élohim{% end %}
+lecture de la Genèse par les {% wiki(slug="ancient-astronaut-hypothesis") %}anciens astronautes{% end %} était, en France, presque
+une lecture de poche courante — *La Lune, clé de la Bible* (1968) de {% wiki(slug="jean-sendy") %}Jean
+Sendy{% end %} avait déjà soutenu que les {% wiki(slug="elohim") %}Élohim{% end %}
 étaient des « anges physiques » et la Genèse le journal de bord d'une
 colonisation, et l'ensemble du programme de Sendy fait l'objet de [son
 propre Explicatif dans cette
@@ -250,12 +250,12 @@ sorte de génie religieux. »
 Le fait le plus systématiquement sous-rapporté à propos du Raëlisme —
 sous-rapporté dans la couverture de presse, s'entend ; l'érudition des deux
 dernières décennies y a convergé — est ce en quoi consiste réellement la
-révélation fondatrice : un *séminaire sur la Bible hébraïque et les
+révélation fondatrice : un *séminaire sur la {% wiki(slug="hebrew-bible") %}Bible hébraïque{% end %} et les
 Évangiles*, mené le texte ouvert sur les genoux du témoin, et seulement
 accessoirement le récit d'un atterrissage. La première demande de l'être est
 que Vorilhon revienne avec une Bible ; les six jours parcourent la Genèse, le
 Déluge, Babel, Sodome, la théophanie du Sinaï, les roues d'Ézéchiel, la
-carrière de Jésus lue comme un programme de communication planifié. La règle
+carrière de {% wiki(slug="jesus") %}Jésus{% end %} lue comme un programme de communication planifié. La règle
 herméneutique est énoncée à l'intérieur du texte : la Bible est fiable
 partout où elle est étrange, parce que l'étrangeté est le résidu d'une
 technologie décrite par des témoins de l'âge du bronze, et la tâche consiste
@@ -338,8 +338,8 @@ C'est le paragraphe dont descend toute la prophétologie du mouvement — « le
 dernier de quarante prophètes » est une articulation de cette seule phrase, et
 le canon n'énumère jamais les quarante.{{ footnote(id="11") }} Ce que la phrase
 énumère, c'est un ordre des places, et cet ordre est l'argument : une table
-juive — Moïse à la droite, Élie l'invité éternel de chaque seder — étendue
-vers la gauche jusqu'à Bouddha, avec Mahomet « un peu plus loin », et Yahvé
+juive — {% wiki(slug="moses") %}Moïse{% end %} à la droite, {% wiki(slug="elijah") %}Élie{% end %} l'invité éternel de chaque seder — étendue
+vers la gauche jusqu'à Bouddha, avec {% wiki(slug="muhammad") %}Mahomet{% end %} « un peu plus loin », et Yahvé
 présidant comme le référent derrière le mot *Allah*. La théologie de toute
 expansion abrahamique est dans cet agencement spatial. Et l'hôte du repas est
 la figure que la Bible hébraïque désigne par le tétragramme :
@@ -388,7 +388,7 @@ comme Joseph, il devait prendre soin de toi et de ta mère jusqu'à ce que tu
 puisses subvenir à tes propres besoins.
 {% end %}
 
-Messager, puis prophète, puis fils — la trajectoire que le christianisme mit
+Messager, puis {% wiki(slug="prophet") %}prophète{% end %}, puis fils — la trajectoire que le christianisme mit
 trois siècles à formaliser, parcourue en six ans de livres de poche. Deux
 choses empêchent l'escalade d'être toute l'histoire. La première est la
 réserve que le même chapitre y attache, dans la pièce d'autolimitation la plus
@@ -458,7 +458,7 @@ corps, la « méditation sensuelle », dont l'instruction canonique dit :
 {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=113) %}« Ta méditation ne sera pas une méditation sèche, mais au contraire une méditation sensuelle ; tu te laisseras envahir par la paix et par l'harmonie jusqu'à ce que cela devienne une jouissance »{% end %}
 — l'organe expérientiel dont une religion a besoin lorsqu'elle a aboli l'âme à
 laquelle l'expérience était censée appartenir. Et une politique, publiée en
-1977 sous le titre *La Géniocratie* — la « démocratie sélective » des
+1977 sous le titre *{% wiki(slug="geniocracy") %}La Géniocratie{% end %}* — la « démocratie sélective » des
 intelligents — que le mouvement porte depuis comme un programme idéal et que
 ses critiques portent comme la pièce à conviction n° 1.{{ footnote(id="12") }}
 
@@ -573,7 +573,7 @@ Chryssides, et le meilleur exposé en une ligne du mécanisme doctrinal : un ré
 des origines qui est « une alternative à la fois au créationnisme et à
 l'évolutionnisme », un dessein guidé sans Dieu-concepteur. Sa force est qu'elle
 capte la posture épistémique — le slogan du mouvement, sur son propre site
-internet, fut pendant des années « le dessein intelligent pour les athées ». Sa
+internet, fut pendant des années « le {% wiki(slug="intelligent-design") %}dessein intelligent{% end %} pour les athées ». Sa
 faiblesse est que la posture est aspiration, et l'aspiration a une échéance. Le
 modèle de succès des mouvements de Rodney Stark tient que les religions durables
 maintiennent leurs affirmations centrales prudemment non empiriques ; Palmer,
@@ -605,7 +605,7 @@ Gallagher, les adjectifs de Palmer, et celle pour laquelle les sources primaires
 ne cessent de voter. L'écriture fondatrice est un commentaire de la Bible. La
 scène de révélation est une mission conférée à la manière d'Isaïe. La figure qui
 préside est Yahvé ; le demi-frère du messager est Jésus ; le pivot du
-calendrier (1945, l'Âge de l'Apocalypse) est une lecture du livre scellé de
+calendrier (1945, l'{% wiki(slug="apocalypse") %}Âge de l'Apocalypse{% end %}) est une lecture du livre scellé de
 Daniel et de l'Apocalypse de Jean ; l'eschatologie est le messianisme juif
 transposé à l'aéronautique — le canon demande une terre à Israël, et Chryssides
 énonce l'identification sans détour : « il est le mashiach, le messie, et

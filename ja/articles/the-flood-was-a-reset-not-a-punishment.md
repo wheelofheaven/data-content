@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 97
+translation_sync = 100
 core_versions = { woh-claim-0010 = "0.1.0" }
 core_claim_ids = ["woh-claim-0010"]
 claim_type = "inferred"
@@ -260,7 +260,7 @@ ETCSL c.1.7.4）{{ footnote(id="1") }}と呼ぶシュメールの作品は、欠
 剰人口と*騒音*を挙げ、シュメールのものは確かなことを言えるほど判読できま
 せん。ヘブライの伝承は動機を供給しますが、抽象的に述べます：地は「暴虐に満
 ちた」、と。*何がうまくいかなかったのか*について最も機構的に具体的な説明を
-保存しているのは、{% wiki(slug="elohim") %}エノク文書の{% end %}伝承——*監視者たちの書*{{ footnote(id="9") }}、
+保存しているのは、{% wiki(slug="elohim") %}エノク文書の{% end %}伝承——{% wiki(slug="book-of-enoch") %}*監視者たちの書*{% end %}{{ footnote(id="9") }}、
 エノク書六〜十一章——であり、それは教訓譚というよりは事故報告書のように読
 めます。
 
@@ -498,7 +498,7 @@ ETCSL c.1.7.4）{{ footnote(id="1") }}と呼ぶシュメールの作品は、欠
 する信念は、この論考が始まったところで終わりうるのです：狙いを定めること
 のできない武器に。第一に：これは大衆向けの周縁的著作の
 {% wiki(slug="ancient-astronaut-hypothesis") %}「古代宇宙飛行士」{% end %}的な読み——コーパス自身の装置が明確に否認する系譜——ではありませ
-ん。シュメールの*アヌンナキ*{{ footnote(id="12") }}をめぐるシッチン的な読みでもなく、
+ん。シュメールの{% wiki(slug="anunnaki") %}*アヌンナキ*{% end %}{{ footnote(id="12") }}をめぐるシッチン的な読みでもなく、
 神々の名のもとに隠された工学の語彙を何ひとつ見いだしもしません。論拠は物語の形だけに依
 拠しています——最古の洪水物語が、決定、執行、検証として構築されているこ
 とに。第二に：精読は枠組みにはまったく依存しません。コーパスの再構成を行

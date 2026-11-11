@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 97
+translation_sync = 100
 core_versions = { woh-claim-0042 = "0.1.0" }
 core_claim_ids = ["woh-claim-0042"]
 claim_type = "inferred"
@@ -113,7 +113,7 @@ footnotes = [
 在 1963 年至 1975 年间，此人以他删减过的名字，发表了本
 计划所建基其上之解读的第一份持续陈述：希伯来圣经，若
 按字面理解，讲述的是一群被称为耶洛因的、有形体的存在
-在地球上的一段逗留。他发表这一解读，比埃里希·冯·丹尼肯
+在地球上的一段逗留。他发表这一解读，比{% wiki(slug="erich-von-daniken") %}埃里希·冯·丹尼肯{% end %}
 把这个大概念变成全球常识早了五年，比一位名叫克劳德·沃里隆
 的法国赛车记者——{% wiki(slug="rael") %}雷尔{% end %}——
 报告说其中一位存在曾当面向他讲解同样这些经文早了十一年，
@@ -211,7 +211,7 @@ historique」*——我从未*断言*宇航员到来过；我*断言*圣经文�
 他建议读者除了希伯来原文或爱德华·多尔姆的「七星文库」译本
 {{ footnote(id="5") }}——那部唯一让 *Iahvé Elohim* 保持不动的
 法文圣经——之外，别拿任何东西来核对他。第二个特征，是他所
-想象的那些来访者的气质。桑迪的耶洛因既不是西琴笔下采金的
+想象的那些来访者的气质。桑迪的耶洛因既不是{% wiki(slug="zecharia-sitchin") %}西琴{% end %}笔下采金的
 工头，也不是后来意大利文献中那些「暴虐、施虐、阴险」的
 管理者——斯特凡诺·比利亚尔迪，唯一一位仔细研究过桑迪的
 学者，称他笔下的天界者为*「透明、飘忽而迷人的形象」*。他们

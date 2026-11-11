@@ -7,10 +7,10 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
-translation_sync = 99
+translation_sync = 100
 same_as = ["https://www.wikidata.org/wiki/Q35230", "https://en.wikipedia.org/wiki/Satan", "https://www.britannica.com/topic/Satan", "https://viaf.org/viaf/1087163706538729420822"]
 core_versions = { woh-claim-0013 = "0.1.0" }
 core_claim_ids = ["woh-claim-0013"]
@@ -302,7 +302,7 @@ El período del Segundo Templo (aproximadamente del siglo VI a. e. c. al I e. c.
 
 **La influencia dualista persa**. La tradición religiosa zoroastriana del Imperio Persa Aqueménida incluía un sustancial marco cósmico-dualista — Ahura Mazda (el principio del bien) contra Angra Mainyu / Ahriman (el principio del mal). El contacto cultural-religioso judío con el zoroastrismo durante el período posexílico produjo una influencia sustancial sobre el desarrollo del pensamiento demonológico judío, con la figura del *satan*, originalmente limitada, absorbiendo progresivamente aspectos del marco dualista zoroastriano.
 
-**La tradición de los Vigilantes**. El corpus de 1 Enoc (compuesto aproximadamente entre el siglo III a. e. c. y el I e. c.) preserva un desarrollo sustancial de la narrativa de la rebelión angélica basada en el material *benei ha-Elohim* de {% libref(book="genesis-woh", chapter=6, verse=1) %}Génesis 6:1-4{% end %}. Los Vigilantes (ángeles específicamente nombrados que descendieron a la Tierra y produjeron descendencia con mujeres humanas, con Azazel como uno de los principales líderes) se convierten en la principal fuente del mal en el mundo según el marco de 1 Enoc.{{ cite(id="1-enoch-the-book-of-the-watchers", text="[5]", title="*1 Enoc: El Libro de los Vigilantes* — material sobre los Vigilantes y Azazel como principal fuente del Segundo Templo para el desarrollo de la figura del mal cósmico") }}{{ cite(id="book-of-enoch", text="[6]", title="*Libro de Enoc* — elaboración del corpus enóquico más amplio sobre la narrativa de la rebelión angélica") }} El material de los Vigilantes configura sustancialmente el desarrollo de las tradiciones de figuras del mal cósmico en el judaísmo del Segundo Templo.
+**La tradición de los Vigilantes**. El corpus de {% wiki(slug="book-of-enoch") %}1 Enoc{% end %} (compuesto aproximadamente entre el siglo III a. e. c. y el I e. c.) preserva un desarrollo sustancial de la narrativa de la rebelión angélica basada en el material *benei ha-Elohim* de {% libref(book="genesis-woh", chapter=6, verse=1) %}Génesis 6:1-4{% end %}. Los Vigilantes (ángeles específicamente nombrados que descendieron a la Tierra y produjeron descendencia con mujeres humanas, con Azazel como uno de los principales líderes) se convierten en la principal fuente del mal en el mundo según el marco de 1 Enoc.{{ cite(id="1-enoch-the-book-of-the-watchers", text="[5]", title="*1 Enoc: El Libro de los Vigilantes* — material sobre los Vigilantes y Azazel como principal fuente del Segundo Templo para el desarrollo de la figura del mal cósmico") }}{{ cite(id="book-of-enoch", text="[6]", title="*Libro de Enoc* — elaboración del corpus enóquico más amplio sobre la narrativa de la rebelión angélica") }} El material de los Vigilantes configura sustancialmente el desarrollo de las tradiciones de figuras del mal cósmico en el judaísmo del Segundo Templo.
 
 **Los desarrollos de la comunidad de Qumrán**. Los Manuscritos del Mar Muerto preservan un sustancial marco cósmico-dualista con la oposición «Espíritu de la Verdad» versus «Espíritu de la Falsedad» (o «Belial»). El marco teológico de la comunidad de Qumrán registra un sustancial desarrollo de las tradiciones de figuras del mal cósmico hacia el marco más dualista que posteriormente influyó en el cristianismo.
 

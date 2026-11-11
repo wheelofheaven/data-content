@@ -10,7 +10,7 @@ translation_status = "ai_reviewed"
 translation_updated = "2026-11-11"
 source_updated = "2026-11-11"
 translation_stale = false
-translation_sync = 99
+translation_sync = 100
 same_as = ["https://www.wikidata.org/wiki/Q868915", "https://en.wikipedia.org/wiki/Elohim", "https://www.britannica.com/topic/Elohim"]
 claim_type = "framework"
 core_versions = { woh-claim-0001 = "0.2.0", woh-claim-0009 = "0.1.1", woh-claim-0030 = "0.1.0" }
@@ -117,7 +117,7 @@ La lectura es controvertida. Dentro del estudio académico moderno de la Biblia 
 
 El hebreo *ʾĕlōhîm* es el plural de *ʾĕlōah*, entendido habitualmente como una forma expandida del más breve *ʾēl* (<span class="hebrew">אֵל</span>). La raíz semítica subyacente es *ʾl* o *ʾlh*, atestiguada en toda la familia semítica con cognados en acadio (*ilum*), ugarítico (singular *ʾil*, plural *ʾilhm*), arameo (*ʾĕlāh*), árabe (*ʾilāh*) y las lenguas cananeas. La glosa convencional para la raíz es *poder* o *fuerza*, y el plural *ʾilhm* se lee como *poderes* o *poderosos*.
 
-El cognado acadio *ilum* se escribe, en cuneiforme, con el logograma 𒀭. El mismo signo funciona tanto como logograma para la palabra *ilum* como en calidad de determinativo antepuesto a los nombres divinos para marcarlos como divinos. Sin embargo, como ideograma autónomo, el signo 𒀭 representa la palabra sumeria *an*, que significa *cielo* y se representa pictográficamente como una estrella. La convergencia es significativa. El signo cuneiforme para la divinidad es el signo del cielo; la forma escrita más antigua del concepto que la tradición hebrea representaría posteriormente como *Elohim* representa una estrella — esto es, representa pictográficamente un origen celeste. La palabra sumeria *Anunnaki* (𒀭𒀀𒉣𒈾), traducida de diversas formas como *los de simiente principesca* o, más libremente, *los que del cielo vinieron a la tierra*, contiene ese mismo elemento 𒀭 con la lectura *an*.
+El cognado acadio *ilum* se escribe, en cuneiforme, con el logograma 𒀭. El mismo signo funciona tanto como logograma para la palabra *ilum* como en calidad de determinativo antepuesto a los nombres divinos para marcarlos como divinos. Sin embargo, como ideograma autónomo, el signo 𒀭 representa la palabra sumeria *an*, que significa *cielo* y se representa pictográficamente como una estrella. La convergencia es significativa. El signo cuneiforme para la divinidad es el signo del cielo; la forma escrita más antigua del concepto que la tradición hebrea representaría posteriormente como *Elohim* representa una estrella — esto es, representa pictográficamente un origen celeste. La palabra sumeria {% wiki(slug="anunnaki") %}*Anunnaki*{% end %} (𒀭𒀀𒉣𒈾), traducida de diversas formas como *los de simiente principesca* o, más libremente, *los que del cielo vinieron a la tierra*, contiene ese mismo elemento 𒀭 con la lectura *an*.
 
 El corpus registra esto como una observación comparativa en la que se apoya la tradición reinterpretativa moderna: en las fuentes escritas más antiguas del antiguo Próximo Oriente, lo divino se escribe con el signo del cielo, representado como una estrella. No deriva de ello la glosa del canon. La traducción de *Elohim* por el canon como «los que vinieron del cielo» es canónica, no léxica; la lectura filológica estándar de la raíz sigue siendo *poder*. La lectura sobrenatural tradicional y la lectura de civilización extraterrestre difieren en si la imaginería celeste es una metáfora de la trascendencia o una memoria de una llegada literal.{{ footnote(id="1") }}
 

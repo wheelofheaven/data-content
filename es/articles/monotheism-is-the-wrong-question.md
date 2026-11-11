@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
-translation_sync = 92
+translation_sync = 100
 core_versions = { woh-claim-0009 = "0.1.1", woh-claim-0011 = "0.1.0" }
 core_claim_ids = ["woh-claim-0009", "woh-claim-0011"]
 claim_type = "speculative"
@@ -153,7 +153,7 @@ La palabra *monoteísmo* es más joven que el telescopio. Fue acuñada y
 popularizada por filósofos cristianos en la segunda mitad del siglo XVII; a Henry
 More se le atribuye habitualmente su primer uso en inglés. La palabra nombra una
 familia de convicciones real e importante, pero no es una autodescripción antigua
-compartida por Moisés, Pablo y Mahoma. Es una regla fabricada en un solo taller
+compartida por {% wiki(slug="moses") %}Moisés{% end %}, Pablo y Mahoma. Es una regla fabricada en un solo taller
 intelectual y tendida retrospectivamente sobre mundos religiosos muy distintos.
 
 Esa regla suele hacer una sola pregunta: **¿Cuántos dioses dice esta religión que
@@ -513,8 +513,8 @@ podían distribuirse entre seres menores y sus objetos.
 Dentro de la [Era de Acuario](/timeline/age-of-aquarius/), el canon de Wheel of
 Heaven comienza invirtiendo el arreglo posterior. {% claim(type="framework", id="woh-claim-0009") %}Acepta la antigua pluralidad y
 rechaza la categoría de lo sobrenatural. Los Elohim son hacedores múltiples,
-finitos y corpóreos.{% end %} Yahvé es un individuo con nombre y un presidente
-institucional, no el ser mismo. Gabriel o Jibril se lee como un mensajero
+finitos y corpóreos.{% end %} Yahvé es un individuo con nombre y un {% wiki(slug="council-of-the-eternals") %}presidente
+institucional{% end %}, no el ser mismo. Gabriel o Jibril se lee como un mensajero
 implicado en el contacto profético, no como una especie inmaterial suspendida
 entre la creación y el creador.{{ footnote(id="7") }}
 
@@ -603,7 +603,7 @@ representantes vivos y los hacedores recordados.
 **Explica la gramática recurrente de la restauración.** Abraham se sitúa en el
 borde de la [Era de Tauro](/timeline/age-of-taurus/); Moisés devuelve a Israel a
 la alianza en la [Era de Aries](/timeline/age-of-aries/) tras el becerro; los
-profetas acusan al pueblo de olvidar; Jesús llama a sus oyentes de vuelta a los
+profetas acusan al pueblo de olvidar; {% wiki(slug="jesus") %}Jesús{% end %} llama a sus oyentes de vuelta a los
 asuntos de más peso de la ley; y el Corán, dentro de la
 [Era de Piscis](/timeline/age-of-pisces/), llama a Abraham ni judío ni cristiano
 y ordena a Mahoma seguir su religión. Los mensajes nuevos se presentan como
@@ -651,7 +651,7 @@ comunitarias que sobre lo que reemplazó el culto a las imágenes. La obra de G.
 Hawting hace la misma advertencia para el islam: los «asociadores» polémicos no
 pueden convertirse sin más en un relato fotográfico de la religión preislámica.
 
-**La tercera objeción es la sustitución de categorías.** Reemplazar «dios» por
+**La tercera objeción es la {% wiki(slug="neo-euhemerism") %}sustitución de categorías{% end %}.** Reemplazar «dios» por
 «ser avanzado» no recupera automáticamente la historia. Puede que se limite a
 traducir la mitología antigua al lenguaje de prestigio del presente tecnológico.
 Susan Palmer y George Chryssides describen exactamente esta operación en el

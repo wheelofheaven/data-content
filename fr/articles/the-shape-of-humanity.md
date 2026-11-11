@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 83
+translation_sync = 100
 core_versions = { woh-claim-0025 = "0.1.0" }
 core_claim_ids = ["woh-claim-0025"]
 claim_type = "speculative"
@@ -96,8 +96,8 @@ encore, parce que nous nous sommes tenus trop près, et que nous avons été,
 nous-mêmes, le tissu sous le microscope ?
 
 Le canon raëlien énonce la prémisse sans détour. Dans le second message,
-exposant comment les Élohim peuvent prévoir l'avenir d'une civilisation
-qu'ils ne peuvent contrôler, Yahvé demande à Raël de garder à l'esprit une
+exposant comment {% wiki(slug="elohim") %}les Élohim{% end %} peuvent prévoir l'avenir d'une civilisation
+qu'ils ne peuvent contrôler, {% wiki(slug="yahweh") %}Yahvé{% end %} demande à {% wiki(slug="rael") %}Raël{% end %} de garder à l'esprit une
 seule image :
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}
@@ -174,7 +174,7 @@ toutes.
 D'autres noms conviendraient, et chacun saisit quelque chose que les autres
 manquent. Le plus simple est **biologie civilisationnelle** — l'étiquette
 vers laquelle se tourne d'abord un lecteur nourri de *sociobiologie* et
-d'*astrobiologie*. Un autre est **macrobiologie**, et sa symétrie est assez
+d'*astrobiologie*. Un autre est **{% wiki(slug="macrobiology") %}macrobiologie{% end %}**, et sa symétrie est assez
 exacte pour qu'on s'y arrête : {% claim(type="speculative", id="woh-claim-0025") %}la microbiologie étudie la cellule et les
 unités de son échelle, si bien qu'une macrobiologie étudierait les systèmes
 *composés d'*unités biologiques comme une cellule est composée d'unités
@@ -400,7 +400,7 @@ déjà placée au cœur de ce projet : les
 qu'une souris et une baleine vivent la même vie d'un milliard de battements à
 des vitesses différentes. Les organismes biologiques varient **de façon
 sous-linéaire** : doublez la masse d'un animal et il lui faut moins du double
-d'énergie, parce qu'un réseau d'approvisionnement fractal gagne en efficacité
+d'énergie, parce qu'un {% wiki(slug="fractal-cosmology") %}réseau d'approvisionnement fractal{% end %} gagne en efficacité
 avec l'échelle. La variation sous-linéaire a une conséquence que West énonce
 sans détour — elle produit « une croissance bornée et une durée de vie finie ».
 L'animal croît vite quand il est jeune, ralentit, s'arrête, et meurt.
@@ -499,7 +499,7 @@ l'emprunter.
 La seconde voie, nous ne pouvons l'emprunter, mais un autre le peut — et c'est
 là la contribution discrète et radicale du canon. Une civilisation qui n'est
 pas du tout à l'intérieur du spécimen : une civilisation qui se tient au
-dehors, ayant créé la vie humaine sur de nombreux mondes, délibérément, à
+dehors, ayant {% wiki(slug="life-engineering") %}créé la vie humaine{% end %} sur de {% wiki(slug="cosmic-pluralism") %}nombreux mondes{% end %}, délibérément, à
 titre d'expérience, et ayant observé chacune se dérouler jusqu'à son issue. Une
 telle civilisation posséderait exactement le jeu de données que l'embryologie
 possède et qui manque à l'histoire : *de nombreux exemplaires du même

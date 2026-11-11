@@ -7,10 +7,10 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
-translation_sync = 99
+translation_sync = 100
 same_as = ["https://www.wikidata.org/wiki/Q35230", "https://en.wikipedia.org/wiki/Satan", "https://www.britannica.com/topic/Satan", "https://viaf.org/viaf/1087163706538729420822"]
 core_versions = { woh-claim-0013 = "0.1.0" }
 core_claim_ids = ["woh-claim-0013"]
@@ -302,7 +302,7 @@ Die Zweite-Tempel-Periode (etwa 6. Jahrhundert v. Chr. bis 1. Jahrhundert n. Chr
 
 **Der persisch-dualistische Einfluss**. Die zoroastrische religiöse Tradition des achämenidisch-persischen Reiches umfasste einen substanziellen kosmisch-dualistischen Rahmen — Ahura Mazda (das Prinzip des Guten) gegen Angra Mainyu / Ahriman (das Prinzip des Bösen). Der jüdisch-kulturelle religiöse Kontakt mit dem Zoroastrismus während der nachexilischen Periode brachte einen substanziellen Einfluss auf die Entwicklung des jüdischen dämonologischen Denkens hervor, wobei die ursprünglich begrenzte *satan*-Figur schrittweise Aspekte des zoroastrischen dualistischen Rahmens absorbierte.
 
-**Die Wächter-Tradition**. Der 1-Henoch-Korpus (verfasst etwa im 3. Jahrhundert v. Chr. bis 1. Jahrhundert n. Chr.) bewahrt die substanzielle Entwicklung der Engelsrebellions-Erzählung in Anlehnung an das *benei ha-Elohim*-Material von {% libref(book="genesis-woh", chapter=6, verse=1) %}Genesis 6,1-4{% end %}. Die Wächter (spezifisch benannte Engel, die zur Erde herabstiegen und mit menschlichen Frauen Nachkommen zeugten, mit Azazel als einem zentralen Anführer) werden gemäß dem Rahmen von 1 Henoch zur zentralen Quelle des Bösen in der Welt.{{ cite(id="1-enoch-the-book-of-the-watchers", text="[5]", title="*1 Henoch: Das Buch der Wächter* — Wächter-und-Azazel-Material als zentrale Quelle des Zweiten Tempels für die Entwicklung der Figur des kosmischen Bösen") }}{{ cite(id="book-of-enoch", text="[6]", title="*Buch Henoch* — die Ausarbeitung der Engelsrebellions-Erzählung im weiteren henochischen Korpus") }} Das Wächter-Material prägt die Entwicklung der Traditionen der Figur des kosmischen Bösen im Judentum des Zweiten Tempels substanziell.
+**Die Wächter-Tradition**. Der {% wiki(slug="book-of-enoch") %}1-Henoch-Korpus{% end %} (verfasst etwa im 3. Jahrhundert v. Chr. bis 1. Jahrhundert n. Chr.) bewahrt die substanzielle Entwicklung der Engelsrebellions-Erzählung in Anlehnung an das *benei ha-Elohim*-Material von {% libref(book="genesis-woh", chapter=6, verse=1) %}Genesis 6,1-4{% end %}. Die Wächter (spezifisch benannte Engel, die zur Erde herabstiegen und mit menschlichen Frauen Nachkommen zeugten, mit Azazel als einem zentralen Anführer) werden gemäß dem Rahmen von 1 Henoch zur zentralen Quelle des Bösen in der Welt.{{ cite(id="1-enoch-the-book-of-the-watchers", text="[5]", title="*1 Henoch: Das Buch der Wächter* — Wächter-und-Azazel-Material als zentrale Quelle des Zweiten Tempels für die Entwicklung der Figur des kosmischen Bösen") }}{{ cite(id="book-of-enoch", text="[6]", title="*Buch Henoch* — die Ausarbeitung der Engelsrebellions-Erzählung im weiteren henochischen Korpus") }} Das Wächter-Material prägt die Entwicklung der Traditionen der Figur des kosmischen Bösen im Judentum des Zweiten Tempels substanziell.
 
 **Die Entwicklungen der Qumran-Gemeinschaft**. Die Schriftrollen vom Toten Meer bewahren einen substanziellen dualistisch-kosmischen Rahmen mit der Opposition zwischen „Geist der Wahrheit“ und „Geist der Falschheit“ (oder „Belial“). Der theologische Rahmen der Qumran-Gemeinschaft verzeichnet eine substanzielle Entwicklung der Traditionen der Figur des kosmischen Bösen hin zu dem dualistischeren Rahmen, der das Christentum nachfolgend beeinflusste.
 

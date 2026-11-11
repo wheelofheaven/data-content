@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
-translation_sync = 92
+translation_sync = 100
 core_versions = { woh-claim-0009 = "0.1.1", woh-claim-0011 = "0.1.0" }
 core_claim_ids = ["woh-claim-0009", "woh-claim-0011"]
 claim_type = "speculative"
@@ -133,7 +133,7 @@ footnotes = [
 
 *一神論*（monotheism）這個詞，比望遠鏡還要年輕。它是在十七世紀下半葉，由
 基督教哲學家所鑄造並推廣的；一般把它在英語中的首次使用歸於亨利·摩爾
-（Henry More）。這個詞指稱著一個真實而重要的信念家族，但它並不是摩西、
+（Henry More）。這個詞指稱著一個真實而重要的信念家族，但它並不是{% wiki(slug="moses") %}摩西{% end %}、
 保羅與穆罕默德所共有的一種古代自我描述。它是一把在某一間思想作坊裡造出來、
 又被回溯性地橫置於種種迥然不同之宗教世界之上的尺。
 
@@ -429,7 +429,7 @@ God*）顯示，古代的至高神語言，是何等輕易地跨越了現代版�
 在[水瓶座時代](/timeline/age-of-aquarius/)之內，Wheel of Heaven 的正典一開始
 便倒轉了那個後來的定局。{% claim(type="framework", id="woh-claim-0009") %}它接受古代的複數性，並拒絕那個超自然的範疇。耶洛因
 是眾多的、有限的、具身的製造者。{% end %}耶和華是一位有名有姓的個體、一位建制上的
-主席，而非存在本身。加百列或吉卜利勒（Jibril）被解讀為一位涉入先知接觸的
+{% wiki(slug="council-of-the-eternals") %}主席{% end %}，而非存在本身。加百列或吉卜利勒（Jibril）被解讀為一位涉入先知接觸的
 信使，而不是一個在被造與造物者之間盤旋的非物質物種。{{ footnote(id="7") }}
 
 它關於偶像崇拜的那個核心主張，恰恰出現在與亞伯拉罕相關聯的那個時期：
@@ -499,7 +499,7 @@ God*）顯示，古代的至高神語言，是何等輕易地跨越了現代版�
 **它解釋了那反覆出現的尋回語法。**亞伯拉罕站在
 [金牛座時代](/timeline/age-of-taurus/)的邊緣；摩西在金牛犢之後，於
 [白羊座時代](/timeline/age-of-aries/)把以色列帶回聖約；先知們控告百姓遺忘；
-耶穌把聽眾召回到律法中那更重之事；而《古蘭經》則在
+{% wiki(slug="jesus") %}耶穌{% end %}把聽眾召回到律法中那更重之事；而《古蘭經》則在
 [雙魚座時代](/timeline/age-of-pisces/)之內，稱亞伯拉罕既非猶太人亦非基督徒，
 並命穆罕默德遵循他的宗教。新的訊息把自己呈現為尋回，因為依這一假說，那被
 尋回的歷史是同一段。
@@ -536,7 +536,7 @@ Heaven 的模型，則添上了一個隱藏的歷史所指，一個沒有任何�
 而非關於偶像崇拜取代了什麼。G·R·霍廷的研究對伊斯蘭教發出同樣的警告：論戰中
 的「以物配主者」，不能被徑直變成一份對前伊斯蘭宗教的照相式記述。
 
-**第三項反對意見是範疇替換。**把「神」替換成「先進存有」，並不會自動尋回
+**第三項反對意見是{% wiki(slug="neo-euhemerism") %}範疇替換{% end %}。**把「神」替換成「先進存有」，並不會自動尋回
 歷史。它可能只是把古代神話，翻譯成技術當下的那套威望語言。蘇珊·帕默爾
 （Susan Palmer）與喬治·克里賽德斯（George Chryssides）在
 {% wiki(slug="raelism") %}雷爾運動{% end %}中所描述的，正是這一操作：超自然的

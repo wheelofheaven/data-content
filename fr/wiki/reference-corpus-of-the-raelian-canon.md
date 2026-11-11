@@ -7,10 +7,10 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 47
+translation_sync = 100
 category = "Theology & Traditions"
 claim_type = "inferred"
 editorial_pass = "2026-05"
@@ -139,26 +139,37 @@ Il s'agit des textes, figures et traditions que le canon nomme explicitement, do
 
 Le corpus de référence le plus vaste et le plus précisément cité du canon est la Bible hébraïque. Livres cités, avec leurs lieux caractéristiques :
 
-- **Genèse** — citée largement à travers les chapitres 1–11, 19, 22, 28, 35. L'ouverture du *Livre qui dit la Vérité* est une relecture chapitre par chapitre de l'histoire primordiale (création, Jardin, Déluge, Tour de Babel, Sodome et Gomorrhe, Ligature d'Isaac, échelle de Jacob).
-- **Exode** — cité aux chapitres 3, 13, 14, 16, 17, 19, 20 (le buisson ardent, la colonne de nuée et de feu, l'ouverture de la mer, la manne, le bâton de Moïse, le Sinaï).
-- **Josué** — la chute de Jéricho (chapitre 6), lue comme un épisode d'arme sonique.
-- **Juges** — les récits de Samson, lus de façon télépathique plutôt que comme force surhumaine.
-- **1 Rois / 2 Rois** — le char de feu d'Élie et son ascension (2 Rois 2), lus comme une ascension en vaisseau spatial.
-- **Job** — cité à partir des discours des chapitres 37–38, avec une note de bas de page spécifique signalant une divergence entre la traduction française de Dhorme et la RNKJV anglaise.
-- **Psaumes** — cités au passage.
-- **Isaïe** — cité dans le chapitre *La Fin du Monde*.
-- **Ézéchiel** — le chapitre 1 est traité comme la description-tableau complète d'un atterrissage des Élohim ; le chapitre 37 (la vallée des ossements desséchés) est interprété dans *Les Extra-terrestres m'ont emmené sur leur planète* comme la description de la machine de création biologique.
-- **Daniel** — référencé dans le contexte apocalyptique.
+- **Genèse** — citée largement à travers les chapitres 1–11, 19, 22, 28, 35. L'ouverture du *Livre qui dit la Vérité* est une relecture chapitre par chapitre de l'histoire primordiale (création, Jardin, Déluge, Tour de Babel, Sodome et Gomorrhe, Ligature d'Isaac, échelle de Jacob). {% libref(book="genesis-woh") %}Traduction{% end %} (le livre entier).
+- **Exode** — cité aux chapitres 3, 13, 14, 16, 17, 19, 20 (le buisson ardent, la colonne de nuée et de feu, l'ouverture de la mer, la manne, le bâton de Moïse, le Sinaï). {% libref(book="exodus-woh") %}Traduction{% end %}.
+- **Lévitique** — chapitres 17 et 25 (le sang comme vie ; le jubilé). {% libref(book="leviticus-woh") %}Traduction{% end %}.
+- **Nombres** — chapitres 11, 18, 21, 33 (la manne, les parts des prêtres, le serpent d'airain, les étapes du désert). {% libref(book="numbers-woh") %}Traduction{% end %}.
+- **Deutéronome** — chapitre 4 (la voix sortant du feu à l'Horeb). {% libref(book="deuteronomy-woh") %}Traduction{% end %}.
+- **Josué** — la chute de Jéricho (chapitre 6), lue comme un épisode d'arme sonique. {% libref(book="joshua-woh") %}Traduction{% end %}.
+- **Juges** — les récits de Samson, lus de façon télépathique plutôt que comme force surhumaine. {% libref(book="judges-woh") %}Traduction{% end %}.
+- **1 Samuel** — chapitres 3, 5, 6, 17 (l'appel de Samuel, l'arche chez les Philistins, David et Goliath). {% libref(book="1-samuel-woh") %}Traduction{% end %}.
+- **2 Samuel** — chapitre 6 (Uzza et l'arche). {% libref(book="2-samuel-woh") %}Traduction{% end %}.
+- **1 Rois / 2 Rois** — le char de feu d'Élie et son ascension (2 Rois 2), lus comme une ascension en vaisseau spatial. {% libref(book="1-kings-woh") %}1 Rois{% end %} et {% libref(book="2-kings-woh") %}2 Rois{% end %}.
+- **Job** — cité à partir des discours des chapitres 37–38, avec une note de bas de page spécifique signalant une divergence entre la traduction française de Dhorme et la RNKJV anglaise. {% libref(book="job-woh") %}Traduction{% end %}.
+- **Psaumes** — cités au passage. {% libref(book="psalms-woh") %}Traduction{% end %}.
+- **Proverbes** — chapitres 8 et 10. {% libref(book="proverbs-woh") %}Traduction{% end %}.
+- **Ecclésiaste** — chapitre 3. {% libref(book="ecclesiastes-woh") %}Traduction{% end %}.
+- **Isaïe** — cité dans le chapitre *La Fin du Monde*. {% libref(book="isaiah-woh") %}Traduction{% end %}.
+- **Jérémie** — chapitre 10. {% libref(book="jeremiah-woh") %}Traduction{% end %}.
+- **Ézéchiel** — le chapitre 1 est traité comme la description-tableau complète d'un atterrissage des Élohim ; le chapitre 37 (la vallée des ossements desséchés) est interprété dans *Les Extra-terrestres m'ont emmené sur leur planète* comme la description de la machine de création biologique. {% libref(book="ezekiel-woh") %}Traduction{% end %}.
+- **Daniel** — référencé dans le contexte apocalyptique. {% libref(book="daniel-woh") %}Traduction{% end %} (le livre entier).
+- **Amos** 4, **Jonas** 2, **Michée** 5, **Sophonie** 1, **Zacharie** 4, 5, 9 — {% libref(book="amos-woh") %}Amos{% end %}, {% libref(book="jonah-woh") %}Jonas{% end %}, {% libref(book="micah-woh") %}Michée{% end %}, {% libref(book="zephaniah-woh") %}Sophonie{% end %} et {% libref(book="zechariah-woh") %}Zacharie{% end %}.
+- **Sagesse de Salomon** et **Tobie** (deutérocanoniques) — Sagesse 6 et 13, Tobie 12. {% libref(book="wisdom-of-solomon-woh") %}Sagesse de Salomon{% end %} et {% libref(book="tobit-woh") %}Tobie{% end %}, traduits du grec de la Septante.
 
 Le Pentateuque et les livres prophétiques sont les sites de citation les plus denses. Le Cantique des Cantiques (appelé par le canon le *Cantique des Cantiques*) est nommé dans une lecture cosmologique spécifique concernant la « hauteur du créateur » mesurée en *parasanges*.
 
 ### Nouveau Testament / Écritures chrétiennes
 
-- **Évangile de Matthieu** — largement cité dans *Le Rôle du Christ*. Citations des chapitres 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 17, 19, 25, 26, 28. La Parabole du Semeur (Matthieu 13) reçoit une lecture spécifique comme description d'une vie ensemencée sur plusieurs mondes.
-- **Évangile de Marc** — cité au chapitre 16 (l'Ascension et le passage « ils prendront des serpents »).
-- **Évangile de Luc** — cité au chapitre 21 (la parabole du figuier).
-- **Actes des Apôtres** — cités aux chapitres 2 (Pentecôte), 12 (libération de Pierre de prison), 15, 17.
-- **Apocalypse / Révélation de Jean** — traitée longuement dans *Les Nouvelles Révélations*. Le canon lit les chapitres 1, 4, 6 et suivants comme une dictée donnée à Jean au moyen de ce qui est décrit comme un appareil d'affichage visuel.
+- **Évangile de Matthieu** — largement cité dans *Le Rôle du Christ*. Citations des chapitres 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 17, 19, 25, 26, 28. La Parabole du Semeur (Matthieu 13) reçoit une lecture spécifique comme description d'une vie ensemencée sur plusieurs mondes. {% libref(book="matthew-woh") %}Traduction{% end %}.
+- **Évangile de Marc** — cité au chapitre 16 (l'Ascension et le passage « ils prendront des serpents »). {% libref(book="mark-woh") %}Traduction{% end %}.
+- **Évangile de Luc** — cité au chapitre 21 (la parabole du figuier). {% libref(book="luke-woh") %}Traduction{% end %}.
+- **Actes des Apôtres** — cités aux chapitres 2 (Pentecôte), 12 (libération de Pierre de prison), 15, 17. {% libref(book="acts-woh") %}Traduction{% end %}.
+- **1 Thessaloniciens** — chapitre 5 (« le jour du Seigneur viendra comme un voleur dans la nuit »), dans *Accueillir les extra-terrestres*. {% libref(book="1-thessalonians-woh") %}Traduction{% end %}.
+- **Apocalypse / Révélation de Jean** — traitée longuement dans *Les Nouvelles Révélations*. Le canon lit les chapitres 1, 4, 6 et suivants comme une dictée donnée à Jean au moyen de ce qui est décrit comme un appareil d'affichage visuel. {% libref(book="revelation-woh") %}Traduction{% end %}.
 
 ### Traductions bibliques spécifiques comme références
 

@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 86
+translation_sync = 100
 core_versions = { woh-claim-0020 = "0.1.0", woh-claim-0027 = "0.1.0" }
 core_claim_ids = ["woh-claim-0020", "woh-claim-0027"]
 claim_type = "inferred"
@@ -213,8 +213,8 @@ auserwählt wurde.“ Webers ethischer Prophet musste nie beeindruckend sein; er
 musste *gesandt* sein.
 
 Was ein Historiker hinzufügen kann, ist das Milieu. Bis Dezember 1973 war die
-prä-astronautische Lesart der Genesis in Frankreich beinahe zur gängigen
-Taschenbuchkost geworden — Jean Sendys *La Lune, clé de la Bible* (1968) hatte
+{% wiki(slug="ancient-astronaut-hypothesis") %}prä-astronautische Lesart{% end %} der Genesis in Frankreich beinahe zur gängigen
+Taschenbuchkost geworden — {% wiki(slug="jean-sendy") %}Jean Sendys{% end %} *La Lune, clé de la Bible* (1968) hatte
 bereits argumentiert, die {% wiki(slug="elohim") %}Elohim{% end %} seien
 „physische Engel“ und die Genesis das Logbuch einer Kolonisierung gewesen, und
 Sendys ganzes Programm ist Gegenstand [eines eigenen Explainers in dieser
@@ -248,12 +248,12 @@ Art religiösem Genie.“
 Die einzelne am meisten unterberichtete Tatsache über den Raëlismus —
 unterberichtet in der Presseberichterstattung, wohlgemerkt; die Forschung der
 letzten zwei Jahrzehnte hat sich darauf verständigt — ist, worin die
-Gründungsoffenbarung tatsächlich besteht: ein *Seminar über die Hebräische
-Bibel und die Evangelien*, geführt mit dem aufgeschlagenen Text auf den Knien
+Gründungsoffenbarung tatsächlich besteht: ein *Seminar über die {% wiki(slug="hebrew-bible") %}Hebräische
+Bibel{% end %} und die Evangelien*, geführt mit dem aufgeschlagenen Text auf den Knien
 des Zeugen, und nur nebenbei der Bericht einer Landung. Die erste Bitte des
 Wesens ist, dass Vorilhon mit einer Bibel zurückkehrt; die sechs Tage
 durchlaufen die Genesis, die Sintflut, Babel, Sodom, die Theophanie am Sinai,
-die Räder Hesekiels, die Laufbahn Jesu, gelesen als geplantes
+die Räder Hesekiels, die Laufbahn {% wiki(slug="jesus") %}Jesu{% end %}, gelesen als geplantes
 Kommunikationsprogramm. Die hermeneutische Regel wird im Text selbst genannt:
 Die Bibel ist verlässlich überall dort, wo sie befremdlich ist, denn das
 Befremdliche ist der Rückstand einer von Zeugen der Bronzezeit beschriebenen
@@ -339,8 +339,8 @@ Dies ist der Absatz, von dem die gesamte Prophetologie der Bewegung abstammt —
 „der Letzte von vierzig Propheten“ ist eine Ausformulierung dieses einen
 Satzes, und der Kanon zählt die Vierzig nie auf.{{ footnote(id="11") }} Was
 der Satz aufzählt, ist eine Sitzordnung, und die Ordnung ist das Argument:
-eine jüdische Tafel — Mose zur Rechten, Elija, der ewige Gast eines jeden
-Seders — nach links erweitert bis zu Buddha, mit Mohammed „etwas weiter“, und
+eine jüdische Tafel — {% wiki(slug="moses") %}Mose{% end %} zur Rechten, {% wiki(slug="elijah") %}Elija{% end %}, der ewige Gast eines jeden
+Seders — nach links erweitert bis zu Buddha, mit {% wiki(slug="muhammad") %}Mohammed{% end %} „etwas weiter“, und
 Jahwe als Vorsitzendem, als Bezugspunkt hinter dem Wort *Allah*. Die Theologie
 jeder abrahamitischen Expansion steckt in dieser räumlichen Anordnung. Und der
 Gastgeber des Mahls ist die Gestalt, die die Hebräische Bibel mit dem
@@ -390,7 +390,7 @@ Josef, er sollte für dich und deine Mutter sorgen, bis zu dem Zeitpunkt, an dem
 du für dich selbst sorgen könntest.
 {% end %}
 
-Bote, dann Prophet, dann Sohn — die Bahn, die das Christentum drei
+Bote, dann {% wiki(slug="prophet") %}Prophet{% end %}, dann Sohn — die Bahn, die das Christentum drei
 Jahrhunderte brauchte, um sie zu formalisieren, durchlaufen in sechs Jahren
 Taschenbuch. Zwei Dinge halten die Eskalation davon ab, die ganze Geschichte
 zu sein. Das erste ist der Zusatz, den dasselbe Kapitel anfügt, in dem meist
@@ -463,7 +463,7 @@ Meditation“, deren kanonische Anweisung lautet:
 {% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=113) %}„Deine Meditation soll keine trockene Meditation sein, sondern im Gegenteil eine sinnliche Meditation; du sollst dich von Frieden und Harmonie durchdringen lassen, bis es zum Genuss wird“{% end %}
 — das erfahrungsmäßige Organ, das eine Religion braucht, wenn sie die Seele
 abgeschafft hat, der die Erfahrung gehören sollte. Und eine Politik, 1977 als
-*Geniocracy* veröffentlicht — die „selektive Demokratie“ der Intelligenten —,
+*{% wiki(slug="geniocracy") %}Geniocracy{% end %}* veröffentlicht — die „selektive Demokratie“ der Intelligenten —,
 die die Bewegung seither als Zielprogramm mit sich führt und ihre Kritiker als
 Beweisstück A.{{ footnote(id="12") }}
 
@@ -579,7 +579,7 @@ Kategorie, und die beste einzeilige Beschreibung des doktrinären Mechanismus:
 ein Bericht über die Ursprünge, der „eine Alternative sowohl zum Kreationismus
 als auch zum Evolutionismus“ ist, gelenkter Entwurf ohne einen Entwerfer-Gott.
 Ihre Stärke ist, dass sie die epistemische Haltung erfasst — der Slogan der
-Bewegung, auf ihrer eigenen Website, war jahrelang „Intelligentes Design für
+Bewegung, auf ihrer eigenen Website, war jahrelang „{% wiki(slug="intelligent-design") %}Intelligentes Design{% end %} für
 Atheisten“. Ihre Schwäche ist, dass die Haltung ein Bestreben ist und das
 Bestreben ein Ablaufdatum hat. Rodney Starks Modell des Bewegungserfolgs
 besagt, dass dauerhafte Religionen ihre Kernaussagen sicher nicht-empirisch
@@ -612,7 +612,7 @@ Kategorie, Palmers Adjektive, und die, für die die Primärquellen immer wieder
 stimmen. Die Gründungsschrift ist ein Bibelkommentar. Die Offenbarungsszene
 ist eine jesajanische Beauftragung. Die vorsitzende Gestalt ist Jahwe; der
 Halbbruder des Boten ist Jesus; der Angelpunkt des Kalenders (1945, das
-Zeitalter der Apokalypse) ist eine Lesart des versiegelten Buches Daniels und
+{% wiki(slug="apocalypse") %}Zeitalter der Apokalypse{% end %}) ist eine Lesart des versiegelten Buches Daniels und
 der Offenbarung des Johannes; die Eschatologie ist der jüdische Messianismus,
 verlegt in die Luftfahrt — der Kanon bittet Israel um Land, und Chryssides
 formuliert die Identifikation ohne Umschweife: „er ist der Maschiach, der

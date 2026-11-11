@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 94
+translation_sync = 100
 core_versions = { woh-claim-0026 = "0.1.0" }
 core_claim_ids = ["woh-claim-0026"]
 claim_type = "speculative"
@@ -212,7 +212,7 @@ Aquel otoño la otra mitad del hallazgo —un segundo rollo de Isaías, un
 rollo de himnos y un manual para una guerra apocalíptica— llegó a
 Eleazar Sukenik, profesor de arqueología en la Universidad Hebrea, a
 través de un anticuario armenio. Jerusalén se dividía ya en zonas
-armadas, y la primera autenticación de los Manuscritos del Mar Muerto se
+armadas, y la primera autenticación de los {% wiki(slug="dead-sea-scrolls") %}Manuscritos del Mar Muerto{% end %} se
 realizó a través de una barrera militar: «Al principio Sukenik tuvo que
 escrutar un fragmento a través de una alambrada», consigna Collins. Días
 después, con un pase para entrar en la zona del anticuario, Sukenik
@@ -418,9 +418,9 @@ antes que como fantasía, Qumrán es el recibo: en los últimos siglos a.
 C., en Judea, en arameo, Enoc era Escritura.
 
 El texto de los libros canónicos estaba igualmente inestable. Las cuevas
-rindieron manuscritos hebreos que concuerdan con el texto masorético,
+rindieron manuscritos hebreos que concuerdan con el {% wiki(slug="masoretic-text") %}texto masorético{% end %},
 otros que concuerdan con el Pentateuco samaritano, otros que concuerdan
-con la Septuaginta griega donde esta diverge —incluido un Jeremías
+con la {% wiki(slug="septuagint") %}Septuaginta{% end %} griega donde esta diverge —incluido un Jeremías
 hebreo breve, una octava parte más magro que el libro recibido—, unos
 junto a otros en la misma colección, sin señal alguna de que a la secta
 le importara. Collins deletrea la consecuencia: «Para los cristianos

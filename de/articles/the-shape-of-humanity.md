@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 81
+translation_sync = 100
 core_versions = { woh-claim-0025 = "0.1.0" }
 core_claim_ids = ["woh-claim-0025"]
 claim_type = "speculative"
@@ -95,8 +95,8 @@ wir noch nicht haben, weil wir zu nah gestanden haben und selbst das Gewebe
 unter dem Mikroskop gewesen sind?
 
 Der raëlianische Kanon stellt die Prämisse ohne Absicherung auf. In der zweiten
-Botschaft, wo er darlegt, wie die Elohim die Zukunft einer Zivilisation
-vorhersehen können, die sie nicht beherrschen, bittet Yahweh Raël, ein einziges
+Botschaft, wo er darlegt, wie {% wiki(slug="elohim") %}die Elohim{% end %} die Zukunft einer Zivilisation
+vorhersehen können, die sie nicht beherrschen, bittet {% wiki(slug="yahweh") %}Yahweh{% end %} {% wiki(slug="rael") %}Raël{% end %}, ein einziges
 Bild vor Augen zu behalten:
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}
@@ -173,7 +173,7 @@ Summe und die Bahn aller Zivilisationen.
 Andere Namen taugten ebenso, und jeder erfasst etwas, das die anderen verfehlen.
 Der schlichteste ist **zivilisatorische Biologie** — die Bezeichnung, nach der
 ein mit *Soziobiologie* und *Astrobiologie* aufgewachsener Leser zuerst greift.
-Ein anderer ist **Makrobiologie**, und ihre Symmetrie ist genau genug, um bei
+Ein anderer ist **{% wiki(slug="macrobiology") %}Makrobiologie{% end %}**, und ihre Symmetrie ist genau genug, um bei
 ihr innezuhalten: {% claim(type="speculative", id="woh-claim-0025") %}Die Mikrobiologie untersucht die Zelle und die Einheiten ihrer
 Skala, also würde eine Makrobiologie die Systeme untersuchen, die *aus*
 biologischen Einheiten zusammengesetzt sind, so wie eine Zelle aus
@@ -392,7 +392,7 @@ Zentrum dieses Projekts gerückt hat: die {% wiki(slug="mass-effect") %}Viertelp
 die eine Maus und einen Wal dasselbe Milliarden-Herzschläge-Leben in
 unterschiedlichem Tempo leben lassen. Biologische Organismen skalieren
 **sublinear**: Verdoppelt man die Masse eines Tieres, so braucht es weniger als
-die doppelte Energie, weil ein fraktales Versorgungsnetz mit der Größe effizienter
+die doppelte Energie, weil ein {% wiki(slug="fractal-cosmology") %}fraktales Versorgungsnetz{% end %} mit der Größe effizienter
 wird. Sublineare Skalierung hat eine Folge, die West unverblümt benennt — sie
 erzeugt „begrenztes Wachstum und eine endliche Lebensspanne“. Das Tier wächst
 schnell, wenn es jung ist, wird langsamer, hält an und stirbt.
@@ -487,8 +487,8 @@ Disziplin wird ihn gehen müssen.
 
 Den zweiten Weg können wir nicht gehen, aber jemand anderes kann es — und dies ist
 der stille, radikale Beitrag des Kanons. Eine Zivilisation, die überhaupt nicht im
-Exemplar steckt: eine, die außerhalb steht, die menschliches Leben auf vielen
-Welten geschaffen hat, absichtlich, als Experiment, und jedes bis zu seinem
+Exemplar steckt: eine, die außerhalb steht, die {% wiki(slug="life-engineering") %}menschliches Leben{% end %} auf {% wiki(slug="cosmic-pluralism") %}vielen
+Welten{% end %} geschaffen hat, absichtlich, als Experiment, und jedes bis zu seinem
 Ausgang hat ablaufen sehen. Eine solche Zivilisation besäße genau den Datensatz,
 den die Embryologie hat und der Geschichte fehlt: *viele Instanzen desselben
 Vorgangs, bis zum Ende beobachtet, von außen*. Sie hätte die Grundlinie. Sie
@@ -673,7 +673,7 @@ darf. Die Biologie beschreibt einen Körper, ohne zu schließen, dass der Körpe
 Zellen fressen dürfe; eine zivilisatorische Morphologie kann den Art-Organismus
 beschreiben und zugleich darauf beharren, wie der Kanon es in der Tat tut, dass
 seinem Zweck durch das Gedeihen der Zellen gedient ist, nicht durch ihr Verausgaben.
-Raël ist, auf die Frage eines Lesers antwortend, genau in diesem Punkt nachdrücklich: Das Unendliche ist
+Raël ist, auf die Frage eines Lesers antwortend, genau in diesem Punkt nachdrücklich: {% wiki(slug="infinity") %}Das Unendliche{% end %} ist
 „unendlich“ gleichgültig gegenüber unseren Entscheidungen ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=44) %}LWTE 1:44{% end %}),
 was bedeutet, dass keinem kosmischen Körper unser Opfer geschuldet ist; und das
 Leben des Einzelnen „hat nur die Bedeutung, die wir ihm geben“, ein von innen

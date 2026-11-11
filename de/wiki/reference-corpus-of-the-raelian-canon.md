@@ -7,10 +7,10 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 47
+translation_sync = 100
 category = "Theology & Traditions"
 claim_type = "inferred"
 editorial_pass = "2026-05"
@@ -137,28 +137,41 @@ Dies sind Texte, Persönlichkeiten und Traditionen, die der Kanon ausdrücklich 
 
 ### Hebräische Bibel / Altes Testament
 
-Der größte und am präzisesten zitierte Referenzbestand des Kanons ist die Hebräische Bibel. Zitierte Bücher mit charakteristischen Stellen:
+Der größte und am präzisesten zitierte Referenzbestand des Kanons ist die Hebräische Bibel. Die Bücher, die er zitiert, mit den zitierten Kapiteln; jedes verweist auf die eigene Übersetzung des Korpus aus dem Hebräischen, die jedes zitierte Kapitel abdeckt:
 
-- **Genesis** — ausgiebig zitiert in den Kapiteln 1–11, 19, 22, 28, 35. Der Anfang von *Die Wahrheit* ist eine Kapitel-für-Kapitel-Neulektüre der Urgeschichte (Schöpfung, Garten, Sintflut, Turm zu Babel, Sodom und Gomorra, Bindung Isaaks, Jakobsleiter).
-- **Exodus** — zitiert aus den Kapiteln 3, 13, 14, 16, 17, 19, 20 (brennender Dornbusch, Wolken- und Feuersäule, Teilung des Meeres, Manna, Stab des Mose, Sinai).
-- **Josua** — der Fall Jerichos (Kapitel 6), gelesen als Episode einer Schallwaffe.
-- **Richter** — Simson-Erzählungen, telepathisch gelesen statt als übermenschliche Kraft.
-- **1 Könige / 2 Könige** — Elias Feuerwagen und Aufstieg (2 Könige 2), gelesen als Aufstieg in einem Raumschiff.
-- **Hiob** — zitiert aus den Reden in den Kapiteln 37–38, mit einer eigenen Fußnote, die eine Divergenz zwischen der französischen Dhorme-Übersetzung und der englischen RNKJV hervorhebt.
-- **Psalmen** — beiläufig zitiert.
-- **Jesaja** — im Kapitel *Das Ende der Welt* zitiert.
-- **Ezechiel** — Kapitel 1 wird als vollständige Schauplatzbeschreibung einer Landung der Elohim behandelt; Kapitel 37 (das Tal der Totengebeine) wird in *Außerirdische brachten mich auf ihren Planeten* als Beschreibung der biologischen Schöpfungsmaschine interpretiert.
-- **Daniel** — im apokalyptischen Kontext erwähnt.
+- **Genesis** — Kapitel 1–11, 19, 22, 28, 35. Der Anfang von *Die Wahrheit* ist eine Kapitel-für-Kapitel-Neulektüre der Urgeschichte (Schöpfung, Garten, Sintflut, Turm zu Babel, Sodom und Gomorra, Bindung Isaaks, Jakobsleiter). {% libref(book="genesis-woh") %}Übersetzung{% end %} (das ganze Buch).
+- **Exodus** — Kapitel 3, 13, 14, 16, 17, 19, 20, 24, 25, 33 (brennender Dornbusch, Wolken- und Feuersäule, Teilung des Meeres, Manna, Sinai, die Ältesten, die die Elohim sehen, die Lade, „kein Mensch wird mich sehen und leben“). {% libref(book="exodus-woh") %}Übersetzung{% end %}.
+- **Levitikus** — Kapitel 17 und 25 (das Blut als Leben; das Jubeljahr). {% libref(book="leviticus-woh") %}Übersetzung{% end %}.
+- **Numeri** — Kapitel 11, 18, 21, 33 (das Manna, die Anteile der Priester, die eherne Schlange, die Stationen der Wüstenwanderung). {% libref(book="numbers-woh") %}Übersetzung{% end %}.
+- **Deuteronomium** — Kapitel 4 (die Stimme aus dem Feuer am Horeb). {% libref(book="deuteronomy-woh") %}Übersetzung{% end %}.
+- **Josua** — Kapitel 3, 5, 6, 10 (der Durchzug durch den Jordan, der Anführer des Heeres JHWHs, der Fall Jerichos, gelesen als Episode einer Schallwaffe, die stillstehende Sonne). {% libref(book="joshua-woh") %}Übersetzung{% end %}.
+- **Richter** — Kapitel 6, 7, 13 (Gideon; die Geburt Simsons, dessen Kraft der Kanon telepathisch liest). {% libref(book="judges-woh") %}Übersetzung{% end %}.
+- **1 Samuel** — Kapitel 3, 5, 6, 17 (die Berufung Samuels, die Lade bei den Philistern, David und Goliat). {% libref(book="1-samuel-woh") %}Übersetzung{% end %}.
+- **2 Samuel** — Kapitel 6 (Usa und die Lade). {% libref(book="2-samuel-woh") %}Übersetzung{% end %}.
+- **1 Könige / 2 Könige** — 1 Könige 1, 2, 6, 8, 13, 17, 18, 19, 22 und 2 Könige 1, 2, 4, 17; Elias Feuerwagen und Aufstieg (2 Könige 2) werden als Aufstieg in einem Raumschiff gelesen. {% libref(book="1-kings-woh") %}1 Könige{% end %} und {% libref(book="2-kings-woh") %}2 Könige{% end %}.
+- **Hiob** — Kapitel 1, 2, 37, mit einer eigenen Fußnote, die eine Divergenz zwischen der französischen Dhorme-Übersetzung und der englischen RNKJV bei 37,18 hervorhebt. {% libref(book="job-woh") %}Übersetzung{% end %}.
+- **Psalmen** — Psalmen 8, 19, 33, 139, 147. {% libref(book="psalms-woh") %}Übersetzung{% end %}.
+- **Sprichwörter** — Kapitel 8 und 10. {% libref(book="proverbs-woh") %}Übersetzung{% end %}.
+- **Kohelet** — Kapitel 3. {% libref(book="ecclesiastes-woh") %}Übersetzung{% end %}.
+- **Jesaja** — Kapitel 6, 13–15, 24–27, 29, 32, 40, 42–45, 48, 53, 54, 65. {% libref(book="isaiah-woh") %}Übersetzung{% end %}.
+- **Jeremia** — Kapitel 10. {% libref(book="jeremiah-woh") %}Übersetzung{% end %}.
+- **Ezechiel** — Kapitel 1, 2, 3, 8, 10, 11, 37, 40, 42–44. Kapitel 1 wird als vollständige Schauplatzbeschreibung einer Landung der Elohim behandelt; Kapitel 37 (das Tal der Totengebeine) wird in *Außerirdische brachten mich auf ihren Planeten* als Beschreibung der biologischen Schöpfungsmaschine interpretiert. {% libref(book="ezekiel-woh") %}Übersetzung{% end %}.
+- **Daniel** — im apokalyptischen Kontext erwähnt (Kapitel 3, 6, 10, 12). {% libref(book="daniel-woh") %}Übersetzung{% end %} (das ganze Buch).
+- **Amos** 4, **Jona** 2, **Micha** 5, **Zefanja** 1, **Sacharja** 4, 5, 9 — {% libref(book="amos-woh") %}Amos{% end %}, {% libref(book="jonah-woh") %}Jona{% end %}, {% libref(book="micah-woh") %}Micha{% end %}, {% libref(book="zephaniah-woh") %}Zefanja{% end %} und {% libref(book="zechariah-woh") %}Sacharja{% end %}.
+- **Weisheit Salomos** und **Tobit** (deuterokanonisch) — Weisheit 6 und 13, Tobit 12. {% libref(book="wisdom-of-solomon-woh") %}Weisheit Salomos{% end %} und {% libref(book="tobit-woh") %}Tobit{% end %}, übersetzt aus dem Griechischen der Septuaginta.
+
+Im Lesemodus verweisen die eigenen Schriftzitate des Kanons (zum Beispiel „(Exodus, III-2)“) auf den zitierten Vers dieser Übersetzungen.
 
 Der Pentateuch und die prophetischen Bücher sind die dichtesten Zitierorte. Das Hohelied (vom Kanon als *Cantica Canticorum* bezeichnet) wird in einer spezifischen kosmologischen Lesart zur „Höhe des Schöpfers“, gemessen in *Parasangen*, namentlich genannt.
 
 ### Neues Testament / christliche Schriften
 
-- **Matthäusevangelium** — ausgiebig zitiert in *Die Rolle Christi*. Zitate aus den Kapiteln 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 17, 19, 25, 26, 28. Das Gleichnis vom Sämann (Matthäus 13) erhält eine spezifische Lesart als Beschreibung der Aussaat von Leben auf mehreren Welten.
-- **Markusevangelium** — zitiert aus Kapitel 16 (Himmelfahrt und die Passage „sie werden Schlangen aufheben“).
-- **Lukasevangelium** — zitiert aus Kapitel 21 (das Gleichnis vom Feigenbaum).
-- **Apostelgeschichte** — zitiert aus den Kapiteln 2 (Pfingsten), 12 (Befreiung des Petrus aus dem Gefängnis), 15, 17.
-- **Offenbarung / Apokalypse des Johannes** — ausführlich behandelt in *Die neuen Offenbarungen*. Der Kanon liest die Kapitel 1, 4, 6 und folgende als ein Diktat, das Johannes über etwas erteilt wurde, das als visueller Anzeigeapparat beschrieben wird.
+- **Matthäusevangelium** — ausgiebig zitiert in *Die Rolle Christi*. Zitate aus den Kapiteln 1–10, 13, 14, 15, 17, 19, 23, 25, 26, 27, 28. Das Gleichnis vom Sämann (Matthäus 13) erhält eine spezifische Lesart als Beschreibung der Aussaat von Leben auf mehreren Welten. {% libref(book="matthew-woh") %}Übersetzung{% end %}.
+- **Markusevangelium** — zitiert aus Kapitel 16 (Himmelfahrt und die Passage „sie werden Schlangen aufheben“). {% libref(book="mark-woh") %}Übersetzung{% end %}.
+- **Lukasevangelium** — zitiert aus Kapitel 21 (das Gleichnis vom Feigenbaum). {% libref(book="luke-woh") %}Übersetzung{% end %}.
+- **Apostelgeschichte** — zitiert aus den Kapiteln 2 (Pfingsten), 12 (Befreiung des Petrus aus dem Gefängnis), 15, 17. {% libref(book="acts-woh") %}Übersetzung{% end %}.
+- **1 Thessalonicher** — Kapitel 5 („der Tag des Herrn kommt wie ein Dieb in der Nacht“), in *Empfangen wir die Außerirdischen*. {% libref(book="1-thessalonians-woh") %}Übersetzung{% end %}.
+- **Offenbarung / Apokalypse des Johannes** — ausführlich behandelt in *Die neuen Offenbarungen*, das die Kapitel 1, 4–10, 12, 13, 16 und 21 zitiert und sie als ein Diktat liest, das Johannes über etwas erteilt wurde, das als visueller Anzeigeapparat beschrieben wird. {% libref(book="revelation-woh") %}Übersetzung{% end %}.
 
 ### Bestimmte Bibelübersetzungen als Bezugspunkte
 

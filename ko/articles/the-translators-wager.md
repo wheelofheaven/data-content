@@ -10,7 +10,7 @@ translation_status = "ai_reviewed"
 translation_updated = "2026-11-11"
 source_updated = "2026-11-11"
 translation_stale = false
-translation_sync = 97
+translation_sync = 100
 core_versions = { woh-claim-0042 = "0.1.0" }
 core_claim_ids = ["woh-claim-0042"]
 claim_type = "inferred"
@@ -417,7 +417,7 @@ semplicemente nascondendosi dietro normalissime rocce"* — 이른바 하느님�
 문헌을 검토했을 때, 그녀의 요약은 빌리노의 비판자들이 그의 작업을 대중화적이고,
 도발적이며, 지나치다고 불렀다는 것이었다 — *"ma nessuno ha potuto sostenere
 che le sue traduzioni e le proposte di analisi del testo masoretico fossero
-errate, in malafede, o false"* — 그러나 그의 번역과 그가 제안한 마소라 본문
+errate, in malafede, o false"* — 그러나 그의 번역과 그가 제안한 {% wiki(slug="masoretic-text") %}마소라 본문{% end %}
 분석이 틀렸다거나, 악의적이라거나, 거짓이라고 주장할 수 있었던 사람은 아무도
 없었다.
 
@@ -451,7 +451,7 @@ errate, in malafede, o false"* — 그러나 그의 번역과 그가 제안한 �
 
 감사가 빚진 또 하나의 정직함. 빌리노의 첫 책은 제카리아 시친에게 기댔고,
 *The Earth Chronicles*를 그 수메르 틀의 *"일차 자료"*로 지명했다 — 니비루,
-금 캐는 아눈나키까지 죄다. 나중 책들은 예고 없이 그 발판에서 걸어 나온다.
+금 캐는 {% wiki(slug="anunnaki") %}아눈나키{% end %}까지 죄다. 나중 책들은 예고 없이 그 발판에서 걸어 나온다.
 수메르 자료는 학술적 아시리아학(크레이머, 페티나토, 카스텔리노)에서 다시
 출전을 얻고, 니비루는 사라지며, 시친은 참고문헌 항목 하나와 이따금의 "유명하고
 논쟁적인"이라는 여담으로만 살아남는다. 그 궤적이 중요한 것은, 그것이 이 분야의

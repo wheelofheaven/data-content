@@ -10,7 +10,7 @@ translation_status = "ai_reviewed"
 translation_updated = "2026-11-11"
 source_updated = "2026-11-11"
 translation_stale = false
-translation_sync = 97
+translation_sync = 100
 core_versions = { woh-claim-0042 = "0.1.0" }
 core_claim_ids = ["woh-claim-0042"]
 claim_type = "inferred"
@@ -470,7 +470,7 @@ crítica, su resumen fue que los detractores de Biglino han llamado a su
 obra divulgadora, provocadora, excesiva —*«ma nessuno ha potuto sostenere
 che le sue traduzioni e le proposte di analisi del testo masoretico
 fossero errate, in malafede, o false»*— pero nadie ha podido sostener que
-sus traducciones y sus propuestas de análisis del texto masorético
+sus traducciones y sus propuestas de análisis del {% wiki(slug="masoretic-text") %}texto masorético{% end %}
 fueran erróneas, de mala fe o falsas.
 
 **Debate vivo.** Su argumento de que *bara* nunca denota creación de la
@@ -511,7 +511,7 @@ salvaje—.
 
 Una honestidad más que la auditoría debe: el primer libro de Biglino se
 apoyaba en Zecharia Sitchin, nombrando *The Earth Chronicles* como *«la
-fuente primaria»* de su marco sumerio —Nibiru, anunnaki mineros de oro y
+fuente primaria»* de su marco sumerio —Nibiru, {% wiki(slug="anunnaki") %}anunnaki{% end %} mineros de oro y
 todo—. Los libros posteriores se apartan de ese andamiaje sin anuncio: el
 material sumerio se reasienta en la asiriología académica (Kramer,
 Pettinato, Castellino), Nibiru se desvanece, y Sitchin sobrevive solo

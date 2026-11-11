@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 75
+translation_sync = 100
 core_versions = { woh-claim-0014 = "0.1.0" }
 core_claim_ids = ["woh-claim-0014"]
 claim_type = "inferred"
@@ -126,7 +126,7 @@ diesem Faden zu ziehen — Giorgio de Santillana vom MIT und Hertha von
 Dechend aus Frankfurt, beide von Berufs wegen misstrauisch gegen hübsche
 Zufälle und beide am Ende überzeugt, etwas gefunden zu haben, das älter
 war als die Literatur.{{ footnote(id="4") }} Das Buch, das sie 1969
-veröffentlichten, *Hamlet's Mill: An Essay Investigating the Origins of
+veröffentlichten, *{% wiki(slug="hamlets-mill") %}Hamlet's Mill{% end %}: An Essay Investigating the Origins of
 Human Knowledge and Its Transmission Through Myth*, ist das
 interpretatorische Instrument, das dieser Explainer aufgreift: die
 These, dass die großen Mythen der Welt die Ruinen einer Fachsprache
@@ -140,7 +140,7 @@ zugänglich ist: die
 das Rad, das sich einmal in sechsundzwanzigtausend Jahren dreht und die
 Geschichte in {% wiki(slug="world-age") %}Weltzeitalter{% end %} teilt.
 Dieses Projekt hat die Geschichte des Mannes, der die Genesis nach jenem
-Rad las, bereits erzählt — Jean Sendy, in [Der Mann, der die Bibel auf
+Rad las, bereits erzählt — {% wiki(slug="jean-sendy") %}Jean Sendy{% end %}, in [Der Mann, der die Bibel auf
 den Mond verwettete](/articles/the-man-who-bet-the-bible-on-the-moon/) —
 und das Korpus betreibt die Zeitalter als seinen Arbeitskalender über
 die gesamte [Zeitleiste](/timeline/) hinweg. Was folgt, ist die
@@ -167,7 +167,7 @@ Sonnenaufgang der Frühlingstagundnachtgleiche beherbergt — das am besten
 beobachtbare, datierbare Ereignis am archaischen Himmel —, wandert
 rückwärts durch den Tierkreis, um etwa ein Grad alle 72 Jahre, ein
 ganzes Sternbild alle 2.160. Im Zeitalter der frühen sumerischen Städte
-ging die Äquinoktialsonne im Stier auf. Im Zeitalter des Mose ging sie
+ging die Äquinoktialsonne im Stier auf. Im Zeitalter des {% wiki(slug="moses") %}Mose{% end %} ging sie
 im Widder auf. Bei der Geburt des Christentums glitt sie in die Fische,
 wo sie technisch noch immer steht; die Grenze des Wassermanns liegt nach
 der siderischen Rechnung ein paar Jahrhunderte voraus, oder ein paar
@@ -249,7 +249,7 @@ barsten, der Wellenbaum splitterte, der Behälter stürzte herab, der
 massige Mühlstein riss entzwei* — und wo das Wasser durch das Loch im
 versunkenen Mühlstein strömt, ist bis auf den heutigen Tag ein Strudel
 im Meer, und darum ist das Meer salzig. In Finnland trägt dieselbe
-Geschichte andere Gewänder: Der Schmied Ilmarinen schmiedet den *Sampo*
+Geschichte andere Gewänder: Der Schmied Ilmarinen schmiedet den *{% wiki(slug="sampo") %}Sampo{% end %}*
 mit seinem vielfarbigen Deckel — das Wort, so bemerkten die Philologen
 schließlich, stammt vom Sanskrit *skambha*, dem Weltpfeiler — und er
 mahlt Mehl und Salz und Geld aus, bis er gestohlen, auf See umkämpft und
@@ -411,13 +411,13 @@ die Strecke zu durchwandern, wo sich der Befund häuft, in der Ordnung, in
 der die Präzession tatsächlich läuft — rückwärts durch den Tierkreis.
 
 **Löwe (etwa 10.800–8600 v. Chr.).** Der älteste beanspruchte Marker ist
-der größte: die Große Sphinx, ein nach Osten blickender Löwe, der den
+der größte: die {% wiki(slug="great-sphinx") %}Große Sphinx{% end %}, ein nach Osten blickender Löwe, der den
 äquinoktialen Sonnenaufgang beobachtet. In der Epoche ihrer
 herkömmlichen Zuschreibung — der Herrschaft Chephrens, tief im Zeitalter
 des Stiers — antwortet ein löwenhafter Äquinoktialmarker auf nichts am
 Himmel; projiziert man den Himmel zurück ins elfte Jahrtausend v. Chr.,
 so beobachtet die Sphinx die Sonne gegen die Sterne des Löwen aufgehen,
-„sein eigenes himmlisches Gegenstück“, in Hancocks Formulierung. Hancocks
+„sein eigenes himmlisches Gegenstück“, in {% wiki(slug="graham-hancock") %}Hancocks{% end %} Formulierung. Hancocks
 spätere Verfeinerung heftet die Behauptung an eine härtere Grenze: „selbst
 mit ein wenig Jonglieren an den Grenzen... umschließt das Zeitalter des
 Löwen die Jüngere Dryas (10.800 v. Chr. bis 9600 v. Chr.) so ziemlich
@@ -425,9 +425,9 @@ vollkommen“ — den abrupten, noch
 immer umstrittenen Rückfall in die glaziale Kälte, der die
 Sintfluterinnerungen der Welt nach seiner Lesart einklammert und dessen
 Ende, 9600 v. Chr., zugleich das Gründungsdatum der Ausgräber für
-Göbekli Tepe ist und das Datum, das Platons Priester dem Solon für den
+{% wiki(slug="gobekli-tepe") %}Göbekli Tepe{% end %} ist und das Datum, das Platons Priester dem Solon für den
 Untergang von Atlantis nennt.{{ footnote(id="15") }} Bauvals
-Orion-Korrelation liefert den zweiten Zeiger dessen, was Hancock die
+{% wiki(slug="orion-correlation") %}Orion-Korrelation{% end %} liefert den zweiten Zeiger dessen, was Hancock die
 Giza-Uhr nennt: die Gürtelsterne an ihrem präzessionalen Minimum,
 gespiegelt von den drei Pyramiden, um 10.450 v. Chr. Die etablierte
 Ägyptologie verwirft jedes Element dieses Absatzes außer der Astronomie;
@@ -445,7 +445,7 @@ Himmels, „den Weg hinauf und den Weg hinab, wo Menschen und Götter sich
 in jenem Goldenen Zeitalter treffen konnten“. Als die Präzession die
 Tagundnachtgleiche aus den
 Zwillingen zog, schloss sich das Tor; die Straße und die Kreuzung
-trennten sich. Jane Sellers, die ägyptologische Außenseiterin, die die
+trennten sich. {% wiki(slug="jane-sellers") %}Jane Sellers{% end %}, die ägyptologische Außenseiterin, die die
 Methode von *Hamlet's Mill* auf Ägypten anwandte, in dem einen Buch, das
 die etablierten Rezensenten halb verziehen, datiert das Trauma präzise:
 Auf der Breite Südägyptens hörten die Sterne des Orion — Osiris — um
@@ -464,14 +464,14 @@ entgegengesetzte Zeichen) als ihre tierkreismäßige Registrierung.
 peinlich buchstäblich. Die Zivilisationen des vierten und dritten
 Jahrtausends verehrten Stiere mit einer Einmütigkeit, die die ersten
 Ägyptologen verblüffte: Apis und Mnevis in Ägypten, der Himmelsstier in
-Uruk, das Stierspringen und die stierhörnigen Heiligtümer Kretas. John
-Anthony West, der Schwaller de Lubiczs Argument fortführte, brachte die
+Uruk, das Stierspringen und die stierhörnigen Heiligtümer Kretas. {% wiki(slug="john-anthony-west") %}John
+Anthony West{% end %}, der Schwaller de Lubiczs Argument fortführte, brachte die
 starke Behauptung zu Protokoll: „von den frühesten Dynastien an war es
 die Präzession durch den Tierkreis, die den Kurs der ägyptischen
 künstlerischen und architektonischen Politik lenkte“ — Doppelsymbole und
 Zwillingshauptstädte unter den Zwillingen, der Stier des Mentu, der die
 Ikonografie des Alten Reiches unter dem Stier beherrscht. Sendy fügt das Gegenstück-Detail
-hinzu, das das Prinzip der doppelten Signatur dieses Korpus
+hinzu, das das {% wiki(slug="doubled-signature") %}Prinzip der doppelten Signatur{% end %} dieses Korpus
 formalisiert: Während der Pharao den Stier verehrte, trug die Königin
 den Skorpion — das diametral entgegengesetzte Zeichen — auf ihrem
 Kopfschmuck.{{ footnote(id="16") }} Und am fernen Ende des Zeitalters
@@ -481,7 +481,7 @@ Skorpion, einem Hund, einer Schlange, einem Raben — ein Fries genau
 jener Sternbilder, die auf dem Himmelsäquator lagen, als die
 Tagundnachtgleiche im Stier war. David Ulanseys Rekonstruktion, aus dem
 Inneren der Akademie und ohne Schuld gegenüber Santillana, liest die
-Tauroktonie als Sternkarte und den Tod des Stiers als den Tod eines
+{% wiki(slug="tauroctony") %}Tauroktonie{% end %} als Sternkarte und den Tod des Stiers als den Tod eines
 Zeitalters: das Bild „jener kosmischen Kraft, die in alten Zeiten die
 Macht des Stiers zerstört hatte, indem sie das gesamte kosmische Gefüge
 verschob“, ein Gott so mächtig, dass er das Gerüst des Universums
@@ -520,7 +520,7 @@ eigene Behandlung des Korpus.
 
 **Fische (etwa 1–2000 n. Chr.).** Die Magier sind Astrologen; das
 Evangelium sagt es ohne Verlegenheit. Sie kommen, weil sie einen Stern
-gesehen haben; Jung — dessen *Aion* eine buchlange Meditation über dieses
+gesehen haben; {% wiki(slug="carl-jung") %}Jung{% end %} — dessen *Aion* eine buchlange Meditation über dieses
 Zeitalter ist — vermerkt die berühmte dreifache Konjunktion von Jupiter
 und Saturn *in den Fischen* im Jahr 7 v. Chr. und formuliert die
 Entsprechung mit einer Direktheit, die seine eigenen Herausgeber
@@ -596,12 +596,12 @@ Die Zeitalter sind das Zifferblatt; die Zahlen sind die Zahnräder, und
 sie sind der Teil des Falles, der am besten reist, weil Zahlen die
 Übersetzung überstehen, wie Bilder es nicht tun. Die Menge ist klein und
 spezifisch: 72, die Jahre pro Präzessionsgrad; 2.160, die Jahre pro
-Zeichen; 4.320, zwei Zeichen; 25.920, das Große Jahr; 108 und 10.800, die
+Zeichen; 4.320, zwei Zeichen; 25.920, das {% wiki(slug="great-year") %}Große Jahr{% end %}; 108 und 10.800, die
 Hälften und Hundertfachen; 432.000, das große Vielfache.{{ footnote(id="6") }}
 
 Sie tauchen dort auf, wo niemand nach ihnen suchte. Berossos, der
 Marduk-Priester, der auf Kos eine Astrologieschule eröffnete, weist den
-Königen Sumers vor der Sintflut eine gemeinsame Regierungszeit von
+{% wiki(slug="sumerian-king-list") %}Königen Sumers vor der Sintflut{% end %} eine gemeinsame Regierungszeit von
 432.000 Jahren zu. Der Rigveda, einen Kontinent entfernt gedichtet,
 umfasst 10.800 Strophen zu 40 Silben: 432.000 Silben. Das Kali Yuga
 dauert 432.000 Jahre; Heraklits aiōn, nach Censorinus, 10.800. In der
@@ -785,7 +785,7 @@ einen Vers wendet sich das Verhör dem Rad zu:
 >
 > — {% libref(book="job", chapter=38, verse=32) %}Hiob 38,31–33{% end %} (KJV)
 
-*Mazzaroth* ist ein Hapax legomenon; das Wort kommt genau einmal in der
+*{% wiki(slug="mazzaroth") %}Mazzaroth{% end %}* ist ein Hapax legomenon; das Wort kommt genau einmal in der
 Bibel vor, und als die antiken Übersetzer es erreichten, war die
 Bedeutung bereits verloren — die Septuaginta transliteriert einfach, die
 Vulgata rät auf die Venus, und die King-James-Bibel gibt anmutig auf und
@@ -983,7 +983,7 @@ den Zahlen ist sein Urteil das eine, das jeder ehrliche Gebrauch des
 der Präzession „ist nicht substanzieller als die Koinzidenz“ bevorzugter
 runder Zahlen, und „es wäre töricht, auf so dürftigem Beweis eine Theorie
 zu errichten“. Selbst Jane Sellers' wohlwollender Rezensent am Griffith
-Observatory, E. C. Krupp, zog die Grenze, die die Archäoastronomie
+Observatory, E. C. Krupp, zog die Grenze, die die {% wiki(slug="archaeoastronomy") %}Archäoastronomie{% end %}
 ehrlich hält: „Ob den Ägyptern die Präzession voll bewusst war, ist das
 eine; dass sie auf ihre Wirkung reagierten, ist ein anderes.“
 

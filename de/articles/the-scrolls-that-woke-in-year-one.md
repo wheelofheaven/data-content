@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 94
+translation_sync = 100
 core_versions = { woh-claim-0026 = "0.1.0" }
 core_claim_ids = ["woh-claim-0026"]
 claim_type = "speculative"
@@ -220,7 +220,7 @@ Jesaja-Rolle, eine Hymnenrolle und ein Handbuch für einen
 apokalyptischen Krieg — Eleazar Sukenik, Professor für Archäologie an
 der Hebräischen Universität, über einen armenischen Händler. Jerusalem
 teilte sich bereits in bewaffnete Zonen, und die erste Beglaubigung der
-Schriftrollen vom Toten Meer wurde über eine militärische Sperre hinweg
+{% wiki(slug="dead-sea-scrolls") %}Schriftrollen vom Toten Meer{% end %} wurde über eine militärische Sperre hinweg
 vorgenommen: „Anfangs musste Sukenik ein Fragment durch einen
 Stacheldrahtzaun hindurch betrachten", verzeichnet Collins. Tage später,
 mit einem Passierschein in die Zone des Händlers, untersuchte Sukenik
@@ -431,9 +431,9 @@ behandelt, ist Qumran der Beleg: In den letzten Jahrhunderten v. Chr.,
 in Judäa, auf Aramäisch, war Henoch Schrift.
 
 Der Text der kanonischen Bücher war ebenso unbeständig. Die Höhlen gaben
-hebräische Handschriften her, die mit dem masoretischen Text
+hebräische Handschriften her, die mit dem {% wiki(slug="masoretic-text") %}masoretischen Text{% end %}
 übereinstimmen, andere, die mit dem samaritanischen Pentateuch
-übereinstimmen, andere, die mit der griechischen Septuaginta
+übereinstimmen, andere, die mit der griechischen {% wiki(slug="septuagint") %}Septuaginta{% end %}
 übereinstimmen, wo sie abweicht — einschließlich eines kurzen hebräischen
 Jeremia, ein Achtel schlanker als das überlieferte Buch — Seite an Seite
 in derselben Sammlung, ohne Anzeichen, dass es die Sekte kümmerte.

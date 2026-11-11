@@ -7,10 +7,10 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 47
+translation_sync = 100
 category = "Theology & Traditions"
 claim_type = "inferred"
 editorial_pass = "2026-05"
@@ -137,28 +137,41 @@ Estos son los textos, figuras y tradiciones que el canon nombra explícitamente,
 
 ### Biblia hebrea / Antiguo Testamento
 
-El cuerpo de referencia más extenso y citado con mayor precisión del canon es la Biblia hebrea. Libros citados, con sus loci característicos:
+El cuerpo de referencia más extenso y citado con mayor precisión del canon es la Biblia hebrea. Los libros que cita, con los capítulos que cita; cada uno enlaza con la traducción propia del corpus a partir del hebreo, que abarca todos los capítulos citados:
 
-- **Génesis** — citado extensamente a lo largo de los capítulos 1-11, 19, 22, 28, 35. El comienzo de *La Verdad* es una relectura capítulo por capítulo de la historia primigenia (la creación, el Jardín, el Diluvio, la Torre de Babel, Sodoma y Gomorra, el sacrificio de Isaac, la escala de Jacob).
-- **Éxodo** — citado a partir de los capítulos 3, 13, 14, 16, 17, 19, 20 (la zarza ardiente, la columna de nube y de fuego, la apertura del mar, el maná, el cayado de Moisés, el Sinaí).
-- **Josué** — la caída de Jericó (capítulo 6), leída como un episodio de arma sónica.
-- **Jueces** — los relatos de Sansón, leídos en clave telepática y no como fuerza sobrehumana.
-- **1 Reyes / 2 Reyes** — el carro de fuego y la ascensión de Elías (2 Reyes 2), leídos como ascensión en nave espacial.
-- **Job** — citado a partir de los discursos de los capítulos 37-38, con una nota a pie específica que señala una divergencia entre la traducción francesa de Dhorme y la RNKJV inglesa.
-- **Salmos** — citados de pasada.
-- **Isaías** — citado en el capítulo *El fin del mundo*.
-- **Ezequiel** — el capítulo 1 se trata como una descripción completa, en cuadro, de un aterrizaje de los Elohim; el capítulo 37 (el valle de los huesos secos) se interpreta en *Los extraterrestres me llevaron a su planeta* como la descripción de la máquina de creación biológica.
-- **Daniel** — referenciado en el contexto apocalíptico.
+- **Génesis** — capítulos 1-11, 19, 22, 28, 35. El comienzo de *La Verdad* es una relectura capítulo por capítulo de la historia primigenia (la creación, el Jardín, el Diluvio, la Torre de Babel, Sodoma y Gomorra, el sacrificio de Isaac, la escala de Jacob). {% libref(book="genesis-woh") %}Traducción{% end %} (el libro entero).
+- **Éxodo** — capítulos 3, 13, 14, 16, 17, 19, 20, 24, 25, 33 (la zarza ardiente, la columna de nube y de fuego, la apertura del mar, el maná, el Sinaí, los ancianos que ven a los Elohim, el arca, «no me verá hombre y vivirá»). {% libref(book="exodus-woh") %}Traducción{% end %}.
+- **Levítico** — capítulos 17 y 25 (la sangre como vida; el jubileo). {% libref(book="leviticus-woh") %}Traducción{% end %}.
+- **Números** — capítulos 11, 18, 21, 33 (el maná, las porciones de los sacerdotes, la serpiente de bronce, las etapas del desierto). {% libref(book="numbers-woh") %}Traducción{% end %}.
+- **Deuteronomio** — capítulo 4 (la voz desde el fuego en el Horeb). {% libref(book="deuteronomy-woh") %}Traducción{% end %}.
+- **Josué** — capítulos 3, 5, 6, 10 (el paso del Jordán, el jefe del ejército de YHWH, la caída de Jericó leída como un episodio de arma sónica, el sol que se detiene). {% libref(book="joshua-woh") %}Traducción{% end %}.
+- **Jueces** — capítulos 6, 7, 13 (Gedeón; el nacimiento de Sansón, cuya fuerza el canon lee en clave telepática). {% libref(book="judges-woh") %}Traducción{% end %}.
+- **1 Samuel** — capítulos 3, 5, 6, 17 (la llamada de Samuel, el arca entre los filisteos, David y Goliat). {% libref(book="1-samuel-woh") %}Traducción{% end %}.
+- **2 Samuel** — capítulo 6 (Uzá y el arca). {% libref(book="2-samuel-woh") %}Traducción{% end %}.
+- **1 Reyes / 2 Reyes** — 1 Reyes 1, 2, 6, 8, 13, 17, 18, 19, 22 y 2 Reyes 1, 2, 4, 17; el carro de fuego y la ascensión de Elías (2 Reyes 2) se leen como una ascensión en nave espacial. {% libref(book="1-kings-woh") %}1 Reyes{% end %} y {% libref(book="2-kings-woh") %}2 Reyes{% end %}.
+- **Job** — capítulos 1, 2, 37, con una nota a pie específica que señala una divergencia entre la traducción francesa de Dhorme y la RNKJV inglesa en 37:18. {% libref(book="job-woh") %}Traducción{% end %}.
+- **Salmos** — Salmos 8, 19, 33, 139, 147. {% libref(book="psalms-woh") %}Traducción{% end %}.
+- **Proverbios** — capítulos 8 y 10. {% libref(book="proverbs-woh") %}Traducción{% end %}.
+- **Eclesiastés** — capítulo 3. {% libref(book="ecclesiastes-woh") %}Traducción{% end %}.
+- **Isaías** — capítulos 6, 13-15, 24-27, 29, 32, 40, 42-45, 48, 53, 54, 65. {% libref(book="isaiah-woh") %}Traducción{% end %}.
+- **Jeremías** — capítulo 10. {% libref(book="jeremiah-woh") %}Traducción{% end %}.
+- **Ezequiel** — capítulos 1, 2, 3, 8, 10, 11, 37, 40, 42-44. El capítulo 1 se trata como una descripción completa, en cuadro, de un aterrizaje de los Elohim; el capítulo 37 (el valle de los huesos secos) se interpreta en *Los extraterrestres me llevaron a su planeta* como la descripción de la máquina de creación biológica. {% libref(book="ezekiel-woh") %}Traducción{% end %}.
+- **Daniel** — referenciado en el contexto apocalíptico (capítulos 3, 6, 10, 12). {% libref(book="daniel-woh") %}Traducción{% end %} (el libro entero).
+- **Amós** 4, **Jonás** 2, **Miqueas** 5, **Sofonías** 1, **Zacarías** 4, 5, 9 — {% libref(book="amos-woh") %}Amós{% end %}, {% libref(book="jonah-woh") %}Jonás{% end %}, {% libref(book="micah-woh") %}Miqueas{% end %}, {% libref(book="zephaniah-woh") %}Sofonías{% end %} y {% libref(book="zechariah-woh") %}Zacarías{% end %}.
+- **Sabiduría de Salomón** y **Tobías** (deuterocanónicos) — Sabiduría 6 y 13, Tobías 12. {% libref(book="wisdom-of-solomon-woh") %}Sabiduría de Salomón{% end %} y {% libref(book="tobit-woh") %}Tobías{% end %}, traducidos del griego de la Septuaginta.
+
+En el lector, las propias citas bíblicas del canon (por ejemplo «(Éxodo, III-2)») enlazan con el versículo citado de estas traducciones.
 
 El Pentateuco y los libros proféticos son los lugares de cita más densos. El Cantar de los Cantares (llamado por el canon *Cántico de los Cánticos*) se nombra en una lectura cosmológica específica relativa a la «altura del creador» medida en *parasangas*.
 
 ### Nuevo Testamento / escrituras cristianas
 
-- **Evangelio de Mateo** — citado extensamente en *El papel de Cristo*. Citas de los capítulos 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 17, 19, 25, 26, 28. La Parábola del Sembrador (Mateo 13) recibe una lectura específica como descripción de la siembra de vida en múltiples mundos.
-- **Evangelio de Marcos** — citado a partir del capítulo 16 (la Ascensión y el pasaje «tomarán serpientes»).
-- **Evangelio de Lucas** — citado a partir del capítulo 21 (la parábola de la higuera).
-- **Hechos de los Apóstoles** — citado a partir de los capítulos 2 (Pentecostés), 12 (la liberación de Pedro de la prisión), 15, 17.
-- **Apocalipsis / Apocalipsis de Juan** — tratado in extenso en *Las nuevas revelaciones*. El canon lee los capítulos 1, 4, 6 y siguientes como un dictado entregado a Juan a través de lo que se describe como un dispositivo de visualización.
+- **Evangelio de Mateo** — citado extensamente en *El papel de Cristo*. Citas de los capítulos 1-10, 13, 14, 15, 17, 19, 23, 25, 26, 27, 28. La Parábola del Sembrador (Mateo 13) recibe una lectura específica como descripción de la siembra de vida en múltiples mundos. {% libref(book="matthew-woh") %}Traducción{% end %}.
+- **Evangelio de Marcos** — citado a partir del capítulo 16 (la Ascensión y el pasaje «tomarán serpientes»). {% libref(book="mark-woh") %}Traducción{% end %}.
+- **Evangelio de Lucas** — citado a partir del capítulo 21 (la parábola de la higuera). {% libref(book="luke-woh") %}Traducción{% end %}.
+- **Hechos de los Apóstoles** — citado a partir de los capítulos 2 (Pentecostés), 12 (la liberación de Pedro de la prisión), 15, 17. {% libref(book="acts-woh") %}Traducción{% end %}.
+- **1 Tesalonicenses** — capítulo 5 («el día del Señor vendrá así como ladrón en la noche»), en *Acojamos a los extraterrestres*. {% libref(book="1-thessalonians-woh") %}Traducción{% end %}.
+- **Apocalipsis / Apocalipsis de Juan** — tratado in extenso en *Las nuevas revelaciones*, que cita los capítulos 1, 4-10, 12, 13, 16 y 21 y los lee como un dictado entregado a Juan a través de lo que se describe como un dispositivo de visualización. {% libref(book="revelation-woh") %}Traducción{% end %}.
 
 ### Traducciones bíblicas específicas como referencias
 

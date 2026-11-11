@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 94
+translation_sync = 100
 core_versions = { woh-claim-0026 = "0.1.0" }
 core_claim_ids = ["woh-claim-0026"]
 claim_type = "speculative"
@@ -214,8 +214,8 @@ Cet automne-là, l'autre moitié de la trouvaille — un second rouleau
 d'Isaïe, un rouleau d'hymnes et un manuel pour une guerre apocalyptique —
 parvint à Eleazar Sukenik, professeur d'archéologie à l'Université hébraïque,
 par l'intermédiaire d'un marchand arménien. Jérusalem se divisait déjà en
-zones armées, et la première authentification des Manuscrits de la mer
-Morte fut accomplie de part et d'autre d'une barrière militaire : « Au
+zones armées, et la première authentification des {% wiki(slug="dead-sea-scrolls") %}Manuscrits de la mer
+Morte{% end %} fut accomplie de part et d'autre d'une barrière militaire : « Au
 début, Sukenik dut scruter un fragment à travers une clôture de barbelés »,
 consigne Collins. Quelques jours plus tard, muni d'un laissez-passer pour la
 zone du marchand, Sukenik examina les manuscrits comme il faut, les jugea
@@ -417,9 +417,9 @@ Qumrân est le reçu : dans les derniers siècles av. J.-C., en Judée, en
 araméen, Hénoch était Écriture.
 
 Le texte des livres canoniques était tout aussi instable. Les grottes
-livrèrent des manuscrits hébreux concordant avec le texte massorétique,
+livrèrent des manuscrits hébreux concordant avec le {% wiki(slug="masoretic-text") %}texte massorétique{% end %},
 d'autres concordant avec le Pentateuque samaritain, d'autres concordant avec
-la Septante grecque là où elle diverge — dont un bref Jérémie hébreu d'un
+la {% wiki(slug="septuagint") %}Septante{% end %} grecque là où elle diverge — dont un bref Jérémie hébreu d'un
 huitième plus maigre que le livre reçu — côte à côte dans la même collection,
 sans le moindre signe que la secte s'en souciât. Collins en énonce la
 conséquence : « Pour des chrétiens élevés dans la croyance en l'inspiration

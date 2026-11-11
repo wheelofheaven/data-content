@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 97
+translation_sync = 100
 core_versions = { woh-claim-0042 = "0.1.0" }
 core_claim_ids = ["woh-claim-0042"]
 claim_type = "inferred"
@@ -112,7 +112,7 @@ footnotes = [
 在 1963 至 1975 年間，這個人以他化約後的名字，發表了本計畫賴
 以立足的那套解讀的第一次持續而完整的陳述：希伯來聖經，若按
 字面讀來，講述的是一群被稱為耶洛因的、有形存在在地球上的一
-段停留。他發表這一解讀，比埃里希·馮·丹尼肯把這個大概念變
+段停留。他發表這一解讀，比{% wiki(slug="erich-von-daniken") %}埃里希·馮·丹尼肯{% end %}把這個大概念變
 成全球通俗常識早了五年，比一個名叫克勞德·沃里隆的法國賽車
 記者——{% wiki(slug="rael") %}雷爾{% end %}——報稱其中一位存
 在曾當面向他解釋同樣那些段落早了十一年，比毛羅·比格利諾的
@@ -208,7 +208,7 @@ vérité historique」*——我從未斷言宇航員曾經抵達；我斷言聖
 建議讀者除了希伯來文或愛德華·多爾姆的七星文庫譯
 本{{ footnote(id="5") }}之外，別去核對他，那是唯一一部保留
 *Iahvé Elohim* 不動的法文聖經。第二個特徵，是他所想像的來訪
-者的那份氣質。桑迪的耶洛因，既非西琴那些採金的工頭，也非後
+者的那份氣質。桑迪的耶洛因，既非{% wiki(slug="zecharia-sitchin") %}西琴{% end %}那些採金的工頭，也非後
 來義大利文獻中那些「暴虐、辱慢、陰森」的管理者——史蒂法諾·
 比格利諾，唯一深入研究過桑迪的學者，稱他的天界者是*「透明、
 難以捉摸、令人著迷的形影」*。他們成雙成對地生活，什麼都回收

@@ -7,10 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 75
+translation_sync = 100
 core_versions = { woh-claim-0014 = "0.1.0" }
 core_claim_ids = ["woh-claim-0014"]
 claim_type = "inferred"
@@ -125,7 +125,7 @@ fil — Giorgio de Santillana du MIT et Hertha von Dechend de Francfort,
 tous deux professionnellement méfiants à l'égard des jolies coïncidences
 et tous deux, à la fin, convaincus d'avoir trouvé quelque chose de plus
 ancien que la littérature.{{ footnote(id="4") }} Le livre qu'ils
-publièrent en 1969, *Hamlet's Mill: An Essay Investigating the Origins
+publièrent en 1969, *{% wiki(slug="hamlets-mill") %}Hamlet's Mill{% end %}: An Essay Investigating the Origins
 of Human Knowledge and Its Transmission Through Myth*, est l'instrument
 interprétatif que cet Explicatif reprend : l'argument que les grands
 mythes du monde sont les ruines d'un langage technique, que la machine
@@ -137,8 +137,8 @@ majestueux accessible à l'astronomie à l'œil nu : la
 {% wiki(slug="precession") %}précession des équinoxes{% end %}, la
 roue qui tourne une fois en vingt-six mille ans et divise l'histoire en
 {% wiki(slug="world-age") %}âges du monde{% end %}. Ce projet a déjà
-raconté l'histoire de l'homme qui lut la Genèse à cette roue — Jean
-Sendy, dans [L'homme qui joua la Bible sur la
+raconté l'histoire de l'homme qui lut la Genèse à cette roue — {% wiki(slug="jean-sendy") %}Jean
+Sendy{% end %}, dans [L'homme qui joua la Bible sur la
 Lune](/articles/the-man-who-bet-the-bible-on-the-moon/) — et le corpus
 fait tourner les âges comme son calendrier de travail à travers toute la
 [chronologie](/timeline/). Ce qui suit est le plaidoyer pour la roue
@@ -165,7 +165,7 @@ lever de soleil de l'équinoxe de printemps — l'événement le plus
 observable et le plus datable du ciel archaïque — dérive à reculons à
 travers le zodiaque d'environ un degré tous les 72 ans, une constellation
 entière tous les 2 160. À l'âge des premières cités sumériennes, le
-soleil de l'équinoxe se levait dans le Taureau. À l'âge de Moïse, il se
+soleil de l'équinoxe se levait dans le Taureau. À l'âge de {% wiki(slug="moses") %}Moïse{% end %}, il se
 levait dans le Bélier. À la naissance du christianisme, il glissa dans
 les Poissons, où il se tient techniquement encore ; la frontière du
 Verseau se trouve quelques siècles devant nous selon le compte sidéral,
@@ -244,7 +244,7 @@ se fendit, la trémie plongea, la lourde meule se rompit en deux* — et là
 où l'eau se déverse par le trou de la meule engloutie, il y a dans la
 mer un tourbillon jusqu'à ce jour, et voilà pourquoi la mer est salée.
 En Finlande, le même récit porte d'autres habits : le forgeron Ilmarinen
-forge le *Sampo* à la couverture bigarrée — le mot, finirent par
+forge le *{% wiki(slug="sampo") %}Sampo{% end %}* à la couverture bigarrée — le mot, finirent par
 remarquer les philologues, descend du sanskrit *skambha*, le pilier du
 monde — et il broie farine, sel et argent jusqu'à ce qu'on le vole,
 qu'on se le dispute en mer, et qu'il se brise ; les fragments qui
@@ -403,22 +403,22 @@ preuve se regroupe, dans l'ordre où la précession court réellement — à
 reculons à travers le zodiaque.
 
 **Le Lion (grosso modo 10 800–8600 av. J.-C.).** Le plus ancien repère
-revendiqué est le plus grand : le Grand Sphinx, un lion faisant face
+revendiqué est le plus grand : le {% wiki(slug="great-sphinx") %}Grand Sphinx{% end %}, un lion faisant face
 plein est, veillant le lever de soleil de l'équinoxe. À l'époque de son
 attribution conventionnelle — le règne de Khéphren, en plein Âge du
 Taureau — un repère équinoxial léonin ne répond à rien dans le ciel ;
 projetez le ciel en arrière jusqu'au onzième millénaire av. J.-C. et le
 Sphinx veille le soleil se lever contre les étoiles du Lion, « son propre
-contrepoint céleste », selon la formule de Hancock. L'affinement
+contrepoint céleste », selon la formule de {% wiki(slug="graham-hancock") %}Hancock{% end %}. L'affinement
 ultérieur de Hancock verrouille l'affirmation sur une frontière plus
 dure : « même avec un peu de jonglerie de frontières... l'Âge du Lion
 enferme à peu près parfaitement le Dryas récent (10 800 av. J.-C. à 9600
 av. J.-C.) » — la rechute brusque et toujours débattue dans le froid
 glaciaire qui encadre, selon sa lecture, les mémoires de déluge du monde,
 et dont la fin, 9600 av. J.-C., est à la fois la date de fondation
-donnée par les fouilleurs pour Göbekli Tepe et la date que le prêtre de
+donnée par les fouilleurs pour {% wiki(slug="gobekli-tepe") %}Göbekli Tepe{% end %} et la date que le prêtre de
 Platon donne à Solon pour l'engloutissement de
-l'Atlantide.{{ footnote(id="15") }} La corrélation d'Orion de Bauval
+l'Atlantide.{{ footnote(id="15") }} La {% wiki(slug="orion-correlation") %}corrélation d'Orion{% end %} de Bauval
 fournit la trotteuse de ce que Hancock appelle l'horloge de Gizeh : les
 étoiles de la Ceinture à leur minimum précessionnel, reflétées par les
 trois pyramides, vers 10 450 av. J.-C. L'égyptologie dominante rejette
@@ -435,7 +435,7 @@ la route lumineuse reliait visiblement les carrefours du ciel, « la voie
 montante et la voie descendante où hommes et dieux pouvaient se
 rencontrer en cet Âge d'or ». Quand la précession tira l'équinoxe hors
 des Gémeaux, la porte se ferma ; la route et le carrefour se séparèrent.
-Jane Sellers, l'égyptologue-outsider qui appliqua la méthode de
+{% wiki(slug="jane-sellers") %}Jane Sellers{% end %}, l'égyptologue-outsider qui appliqua la méthode de
 *Hamlet's Mill* à l'Égypte dans le seul livre que les recenseurs
 dominants pardonnèrent à demi, date le traumatisme avec précision : à la
 latitude de l'Égypte méridionale, les étoiles d'Orion — Osiris —
@@ -455,13 +455,13 @@ devient presque gênant de littéralité. Les civilisations des quatrième et
 troisième millénaires vénérèrent des taureaux avec une unanimité qui
 surprit les premiers égyptologues : Apis et Mnévis en Égypte, le Taureau
 du Ciel à Uruk, les sauts de taureau et les sanctuaires à cornes de
-taureau de Crète. John Anthony West, portant l'argument de Schwaller de
+taureau de Crète. {% wiki(slug="john-anthony-west") %}John Anthony West{% end %}, portant l'argument de Schwaller de
 Lubicz, mit l'affirmation forte au dossier : « dès les toutes premières
 dynasties, la précession à travers le zodiaque fut ce qui guida le cours
 de la politique artistique et architecturale égyptienne » — symboles
 doubles et capitales jumelles sous les Gémeaux, le taureau de Montou
 dominant l'iconographie de l'Ancien Empire sous le Taureau. Sendy ajoute
-le détail complémentaire que le principe de la signature doublée de ce
+le détail complémentaire que le {% wiki(slug="doubled-signature") %}principe de la signature doublée{% end %} de ce
 corpus formalise : tandis que Pharaon vénérait le Taureau, la reine
 portait le scorpion — le signe diamétralement opposé — sur sa
 coiffe.{{ footnote(id="16") }} Et à l'extrémité lointaine de l'âge se
@@ -470,7 +470,7 @@ l'icône centrale montre un dieu tuant un taureau entouré d'un scorpion,
 d'un chien, d'un serpent, d'un corbeau — une frise d'exactement les
 constellations qui se trouvaient sur l'équateur céleste quand l'équinoxe
 était dans le Taureau. La reconstruction de David Ulansey, de l'intérieur
-de l'académie et sans dette envers Santillana, lit la tauroctonie comme
+de l'académie et sans dette envers Santillana, lit la {% wiki(slug="tauroctony") %}tauroctonie{% end %} comme
 une carte du ciel et la mort du taureau comme la mort d'un âge : l'image
 de « cette force cosmique qui avait, aux temps anciens, détruit le
 pouvoir du taureau en déplaçant toute la structure cosmique », un dieu si
@@ -507,7 +507,7 @@ Bélier](/timeline/age-of-aries/) pour le traitement propre du corpus.
 
 **Les Poissons (grosso modo 1–2000 apr. J.-C.).** Les Mages sont des
 astrologues ; l'évangile le dit sans embarras. Ils viennent parce qu'ils
-ont vu une étoile ; Jung — dont l'*Aion* est une méditation d'un livre
+ont vu une étoile ; {% wiki(slug="carl-jung") %}Jung{% end %} — dont l'*Aion* est une méditation d'un livre
 entier sur cet âge — note la fameuse conjonction triple de Jupiter et de
 Saturne *dans les Poissons* en 7 av. J.-C., et énonce la correspondance
 avec une franchise qui troubla ses propres éditeurs : « dans la mesure où
@@ -581,13 +581,13 @@ Les âges sont le cadran ; les nombres sont les dents de l'engrenage, et
 ils sont la part du dossier qui voyage le mieux, parce que les nombres
 survivent à la traduction là où les images ne le font pas. L'ensemble est
 petit et précis : 72, les années par degré précessionnel ; 2 160, les
-années par signe ; 4 320, deux signes ; 25 920, la Grande Année ; 108 et
+années par signe ; 4 320, deux signes ; 25 920, la {% wiki(slug="great-year") %}Grande Année{% end %} ; 108 et
 10 800, les moitiés et les centuples ; 432 000, le grand
 multiple.{{ footnote(id="6") }}
 
 Ils affleurent là où personne ne les cherchait. Bérose, le prêtre de
-Marduk qui ouvrit une école d'astrologie à Cos, attribue aux rois de
-Sumer d'avant le Déluge un règne combiné de 432 000 ans. Le Rigveda,
+Marduk qui ouvrit une école d'astrologie à Cos, attribue aux {% wiki(slug="sumerian-king-list") %}rois de
+Sumer d'avant le Déluge{% end %} un règne combiné de 432 000 ans. Le Rigveda,
 composé à un continent de distance, court sur 10 800 strophes de 40
 syllabes : 432 000 syllabes. Le Kali Yuga dure 432 000 ans ; l'aiōn
 d'Héraclite, selon Censorinus, 10 800. Dans le *Grímnismál*, le Valhalla
@@ -761,7 +761,7 @@ verset l'interrogatoire se tourne vers la roue :
 >
 > — {% libref(book="job", chapter=38, verse=32) %}Job 38:31–33{% end %} (KJV)
 
-*Mazzaroth* est un hapax legomenon ; le mot apparaît exactement une fois
+*{% wiki(slug="mazzaroth") %}Mazzaroth{% end %}* est un hapax legomenon ; le mot apparaît exactement une fois
 dans la Bible, et au moment où les anciens traducteurs y parvinrent, le
 sens était déjà perdu — la Septante translittère simplement, la Vulgate
 hasarde Vénus, et la King James renonce avec grâce, laissant l'hébreu
@@ -954,7 +954,7 @@ circonstancielle d'une connaissance archaïque de la précision « n'est pas
 plus substantielle que la coïncidence » des nombres ronds favoris, et « il
 serait insensé de construire une théorie sur une preuve aussi maigre ».
 Même le recenseur sympathique de Jane Sellers à l'observatoire Griffith,
-E. C. Krupp, traça la ligne qui garde l'archéoastronomie honnête :
+E. C. Krupp, traça la ligne qui garde l'{% wiki(slug="archaeoastronomy") %}archéoastronomie{% end %} honnête :
 « que les Égyptiens aient été pleinement conscients de la précession est
 une chose ; qu'ils aient réagi à son effet en est une autre. »
 
