@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -88,7 +88,7 @@ framework_reading = "正典中的以色列民：由那片土地上的创造者�
 
 ## 在 Wheel of Heaven 的解读中
 
-{% claim(type="framework", id="woh-claim-0053") %}框架将[希伯来圣经](../hebrew-bible/)读作一份关于创造者与人类之交往的、经过压缩、传递并在神学上加以改写的记录{% end %}。这一立场本身并不授权任何具体的解读。对以色列的解读依据的是正典自身的陈述，见于《讲述真相之书》（1974）、《外星人带我去他们的星球》（1975）和《欢迎外星人》（1979）。这三部书属于同一作者传统，因此它们的一致只算作一个来源。
+{% claim(type="framework", id="woh-claim-0053") %}框架将[希伯来圣经](../hebrew-bible/)读作一份关于创造者与人类之交往的、经过压缩、传递并在神学上加以改写的记录{% end %}。这一立场本身并不授权任何具体的解读。对以色列的解读依据的是正典自身的陈述，见于《讲述真相之书》（1974）、《外星人带我去他们的行星》（1975）和《让我们欢迎外星人》（1979）。这三部书属于同一作者传统，因此它们的一致只算作一个来源。
 
 ### 实验室与竞赛
 

@@ -6,7 +6,7 @@ template = "timeline-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-10-29"
+translation_updated = "2026-11-11"
 source_updated = "2026-10-29"
 translation_stale = false
 translation_sync = 100
@@ -35,8 +35,8 @@ references = [
     { title = "Dogon Restudied: A Field Evaluation of the Work of Marcel Griaule (多貢再研究:對馬塞爾·格里奧勒工作的田野評估)", author = "瓦爾特·E·A·范貝克", publication = "Current Anthropology 32 (2), 139-167", date = "1991 年", medium = "academic-paper", url = "https://pure.uvt.nl/ws/portalfiles/portal/1002365/dogonrestudied.pdf" },
     { title = "Broca's Brain: Reflections on the Romance of Science (布洛卡的腦:對科學浪漫的反思)", author = "卡爾·薩根", date = "1979 年", medium = "nonfiction-book", description = "收錄多貢-天狼星爭議的章節,質疑諾莫天文學主張的傳播論起源。" },
     { title = "Investigating the Sirius Mystery (調查天狼星之謎)", author = "伊恩·里德帕斯", publication = "Skeptical Inquirer 3 (1), 56-62", date = "1978 年", medium = "academic-paper" },
-    { title = "Le Livre qui dit la vérité (講述真相的書)", author = "克勞德·沃里隆 (雷爾)", date = "1974 年", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète (外星人帶我去他們的星球)", author = "克勞德·沃里隆 (雷爾)", date = "1975 年", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "Le Livre qui dit la vérité (訴說真相之書)", author = "克勞德·沃里隆 (雷爾)", date = "1974 年", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Les Extra-Terrestres m'ont emmené sur leur planète (外星人帶我到他們的行星)", author = "克勞德·沃里隆 (雷爾)", date = "1975 年", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Jurassic Park (侏羅紀公園)", author = "麥可·克萊頓", date = "1990 年", medium = "fiction-book" },
     { title = "Jurassic Park (侏羅紀公園)", author = "史蒂芬·史匹柏執導;麥可·克萊頓與大衛·凱普編劇", date = "1993 年", medium = "movie" },
     { title = "Deterministic Nonperiodic Flow (確定性非週期流)", author = "愛德華·N·勞侖次", publication = "Journal of the Atmospheric Sciences 20 (2), 130-141", date = "1963 年", medium = "academic-paper", description = "關於確定性系統中對初始條件敏感依賴性的奠基性論文。" },

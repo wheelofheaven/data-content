@@ -938,7 +938,7 @@ tenu.*
   verdad](/articles/the-book-closest-to-the-truth/), sobre la Cábala y
   la literatura de los palacios —la veta que Sendy trabajó a través de
   Safran, desde el lado del canon—.
-- [*El Libro que dice la Verdad*](/library/the-book-which-tells-the-truth/),
+- [*El libro que dice la verdad*](/library/the-book-which-tells-the-truth/),
   capítulos 1–3 y 7, para los pasajes del canon comparados a lo largo del
   texto.
 - Stefano Bigliardi, «A Gentleman's Joyous Esotericism» (*Alternative

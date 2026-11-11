@@ -101,8 +101,7 @@ qu'ils ne peuvent contrôler, {% wiki(slug="yahweh") %}Yahvé{% end %} demande �
 seule image :
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=101) %}
-Il en va exactement de même pour l'humanité, en considérant chaque humain
-comme une cellule du grand être en gestation, c'est-à-dire l'Humanité.
+C'est exactement la même chose pour l'humanité, en considérant chaque homme comme une cellule du grand être en gestation qu'est l'humanité.
 {% end %}
 
 Un être en gestation — et non comme une figure de style : un organisme
@@ -114,10 +113,7 @@ juste à côté : que *parce que* l'humanité est un tel organisme, son avenir
 peut être prédit comme un embryologiste prédit celui d'un fœtus.
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=99) %}
-C'est pourquoi, bien que nous ne puissions prédire l'avenir des individus,
-nous pouvons néanmoins prédire ce qui devrait normalement advenir à un
-organisme vivant durant la période de gestation, ou à une Humanité au cours
-de son développement.
+Voilà pourquoi, alors que l'on ne peut pas prédire l'avenir des individus, l'on peut prévoir ce qui doit normalement arriver à un organisme vivant en cours de gestation, ou à une humanité en cours d'évolution.
 {% end %}
 
 Ensemble, ces deux phrases décrivent une science. Son objet est
@@ -512,9 +508,7 @@ le canon ; c'est ce que le canon affirme explicitement que les Élohim peuvent
 faire, et pourquoi :
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=98) %}
-De la même manière, nous qui avons l'habitude de créer la vie sur une infinité
-de planètes, savons ce qui advient à une Humanité qui a atteint votre niveau
-de technologie sans avoir atteint un niveau de sagesse équivalent.
+De la même façon, nous qui avons l'habitude de créer la vie sur une infinité de planètes, nous savons avec précision ce qui se produit lorsqu'une humanité arrive à votre niveau technologique sans avoir atteint un niveau de sagesse équivalent.
 {% end %}
 
 Lisez cela comme une affirmation sur la *méthode* et c'est précisément la
@@ -557,15 +551,7 @@ roue de la mort et de la renaissance — non comme un fait relatif aux âmes
 individuelles mais comme un fait relatif aux *humanités* :
 
 {% library(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=24) %}
-En fait, c'est une très bonne description qui s'applique non à l'individu mais
-à l'humanité entière, laquelle doit résister aux démons qui peuvent la faire
-retomber dans le cycle chaque fois qu'elle est en position de choisir ; ces
-démons sont l'agressivité contre ses semblables ou contre la nature dans
-laquelle on vit, et l'état de béatitude par l'éveil est l'âge d'or des
-civilisations où la science est au service des hommes… C'est le choix entre le
-paradis, qu'un usage pacifique de la science permet, et l'enfer d'un retour au
-stade primitif, où l'homme subit la nature au lieu de la dominer pour en tirer
-profit.
+En fait, c'est une très bonne description qui s'applique non pas à l'individu mais à l'humanité tout entière qui doit résister aux démons qui peuvent la faire retomber dans le cycle à chaque fois qu'elle est en mesure de choisir; ces démons sont l'agressivité contre ses semblables ou contre la nature où l'on vit, et l'état de béatitude par l'éveil, c'est l'âge d'or des civilisations où la science est au service des hommes… C'est le choix entre le paradis, qu'une utilisation pacifique de la science permet, et l'enfer d'un retour au stade primitif, où l'homme subit la nature au lieu de la dominer pour en profiter.
 {% end %}
 
 C'est le mode d'échec énoncé comme cosmologie. Une humanité qui atteint le
@@ -589,11 +575,7 @@ Et la sélection n'est pas douce. Yahvé l'énonce comme une loi opérant « à
 l'échelle cosmique » :
 
 {% library(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=25) %}
-C'est, en un sens, une sélection naturelle, à l'échelle cosmique, des espèces
-capables de s'échapper de leur planète. Seuls ceux qui maîtrisent parfaitement
-leur agressivité peuvent atteindre ce stade. Les autres s'autodétruisent dès
-que leur niveau scientifique et technologique leur permet d'inventer des armes
-assez puissantes pour cela.
+Ceci est, en quelque sorte, une sélection naturelle, à l'échelon cosmique, des espèces capables d'échapper à leur planète. Seuls ceux qui maîtrisent parfaitement leur agressivité peuvent atteindre ce stade. Les autres s'auto-détruisent dès que leur niveau scientifique et technologique leur permet d'inventer des armes assez puissantes pour cela.
 {% end %}
 
 Un morphologue lisant la science dominante le reconnaîtra aussitôt, car la
@@ -611,10 +593,7 @@ pur hasard. Il en fait un *test de maturité* — et, surtout, il le rend
 franchissable, quoique de justesse :
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=96) %}
-Il n'y a, malheureusement, qu'une chance sur cent que votre Humanité ne
-s'autodétruise pas, et tout Raëlien doit agir comme si l'Humanité était assez
-sage pour comprendre et saisir cette infime chance d'échapper au cataclysme
-final, afin d'entrer dans l'Âge d'or.
+Il n'y a malheureusement qu'une chance sur cent pour que votre humanité ne s'auto-détruise pas, et tout raëlien doit agir comme si les hommes allaient finalement avoir la sagesse de saisir cette toute petite chance d'échapper au cataclysme final pour pénétrer dans l'âge d'or.
 {% end %}
 
 Une sur cent — un nombre brutal, et délibérément. Sa logique tranche contre

@@ -26,7 +26,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "קלוד וורילון (ראל)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "קלוד וורילון (ראל)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "קלוד וורילון (ראל)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "שמות", author = "אנונימי (התנ״ך); תרגום WoH בעבודה מן הטקסט המסורתי המנוקד", date = "המאה ה־6–5 לפנה״ס בקירוב", medium = "religious-text", path = "/library/exodus-woh/", description = "הסנה הבוער, קריעת ים סוף, התגלות סיני, המשכן והארון — המקור הראשוני של הפרק." },
     { title = "במדבר", author = "אנונימי (התנ״ך)", date = "המאה ה־6–5 לפנה״ס בקירוב", medium = "religious-text", path = "/library/numbers/", description = "נחש הנחושת (כ״א:8–9), הוראות המשכן וסיפורי המדבר המצוטטים בסעיף III." },

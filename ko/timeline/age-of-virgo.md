@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -28,8 +28,8 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité (진실을 말하는 책)", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète (외계인들이 나를 자기 행성으로 데려갔다)", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "Le Livre qui dit la vérité (진실을 말하는 책)", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
+    { title = "Les Extra-Terrestres m'ont emmené sur leur planète (외계인들이 나를 그들의 행성으로 데려갔다)", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "창세기", author = "익명 (히브리어 성경); 점이 찍힌 마소라 히브리어로부터의 WoH 번역", date = "기원전 6–5세기경", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "구약 히브리어·영어 사전", author = "Francis Brown, S. R. Driver, Charles A. Briggs", date = "1906", medium = "nonfiction-book", description = "BDB 사전. §V에서 논의된 tannin / taninim 항목의 출처." },
     { title = "구약 히브리어·아람어 사전", author = "Ludwig Koehler, Walter Baumgartner, Johann Jakob Stamm", date = "1994–2000", medium = "nonfiction-book", description = "HALOT — §V에서 tannin 관련해 인용됨." },

@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -30,7 +30,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "진리를 말하는 책 (Le Livre qui dit la vérité)", author = "클로드 보리옹 (라엘)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "진실을 말하는 책 (Le Livre qui dit la vérité)", author = "클로드 보리옹 (라엘)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "외계인들이 나를 그들의 행성으로 데려갔다 (Les Extra-Terrestres m'ont emmené sur leur planète)", author = "클로드 보리옹 (라엘)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "창세기", author = "익명 (히브리어 성경); 모음 표시된 마소라 히브리어 본문에서의 WoH 번역", date = "기원전 6–5세기경", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "지구의 이론 (Theory of the Earth)", author = "제임스 허턴", date = "1788", medium = "academic-paper", description = "균일설—현재의 지질학적 과정이 과거를 이해하는 열쇠라는 교의—의 토대를 세운 진술." },

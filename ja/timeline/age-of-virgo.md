@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -28,8 +28,8 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité (真実を告げる書)", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète (異星人は私を彼らの惑星へ連れて行った)", author = "Claude Vorilhon (Raël)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "Le Livre qui dit la vérité (真実を告げる書)", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
+    { title = "Les Extra-Terrestres m'ont emmené sur leur planète (地球外生命体は私を彼らの惑星へ連れて行った)", author = "Claude Vorilhon (Raël)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "創世記", author = "無名(ヘブライ語聖書); ヴォーカル化されたマソラ本文からのWoH訳", date = "紀元前6–5世紀頃", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "A Hebrew and English Lexicon of the Old Testament", author = "Francis Brown, S. R. Driver, Charles A. Briggs", date = "1906", medium = "nonfiction-book", description = "BDB辞典。第V節で論じる tannin / taninim の項目の典拠。" },
     { title = "The Hebrew and Aramaic Lexicon of the Old Testament", author = "Ludwig Koehler, Walter Baumgartner, Johann Jakob Stamm", date = "1994–2000", medium = "nonfiction-book", description = "HALOT——同じく第V節で tannin について引用。" },
@@ -313,7 +313,7 @@ link = "/timeline/age-of-leo/"
 
 コーパスがこの問題に関連すると読む第二の証拠の流れは、恐竜化石における軟組織保存に関する最近の文献です。2005年のMary Schweitzerと同僚たちの研究{{ cite(id="7") }}にはじまる複数の論文が、恐竜化石——最も有名なのは*ティラノサウルス・レックス*と*ブラキロフォサウルス*の標本——における軟組織、血管、見かけ上の細胞構造の発見を報告しています。これらの発見の主流の解釈は、特定の保存条件下では、生体分子が以前考えられていたよりはるかに長く生存しうるというものであり、軟組織の発見は、標本の年代に挑戦するのではなく、生体分子保存の上限を拡張する、というものでした。コーパスはこれらの発見と主流の解釈をあわせて記録します。前段落に沿って、コーパスはそれらを標本の年代を改めるためには用いません。放射年代を自らの圧縮されたタイムラインと調和させるメカニズムは提示せず、その食い違いは未解決の問題のままです。
 
-第三の考慮は、人類の民間伝承における普遍的な「龍」の記憶です。地球上の本質的にあらゆる人類文化が、大きな爬虫類的生物の伝統を保存しています——ヨーロッパの伝統における龍、中国の伝統における*龍 (long)*、インドの伝統における*ナーガ*、さまざまなメソアメリカの羽毛の蛇、オーストラリア・アボリジニの*虹の蛇*、その他多くです。これらの伝統の主流の解釈は、それらが、化石の骨の発見(これらは時に巨大生物の遺骸と解釈された)、あるいは文化的想像力を通じて精緻化された大型の現存動物(ヘビ、ワニ、大型トカゲ)の影響を反映しているというものです。コーパスは龍の伝統を異なる仕方で、すなわち、より大型の形態が双子座の洪水事象で姿を消す前、創造の後の初期の時代のあいだに人類が遭遇した生物の文化的記憶でありうるものとして読みます。ラエルの『異星人を迎えよう』に収められたマルセル・テリュスの論考は、大型爬虫類と恐竜が洪水の後に再創造されなかった生物に含まれていたと述べています（LWTE 4:54–55）。コーパスは龍の伝統の広がりを、その記述と調和するものとして読みます。コーパスは民間伝承を、恐竜を含む地層の放射年代測定に反する証拠としては扱わず、主流のK-Pgの年代と自らの圧縮されたタイムラインのあいだのギャップは未解決の問題のままです。この読みは、双子座とその後の章でより十分に展開されます。
+第三の考慮は、人類の民間伝承における普遍的な「龍」の記憶です。地球上の本質的にあらゆる人類文化が、大きな爬虫類的生物の伝統を保存しています——ヨーロッパの伝統における龍、中国の伝統における*龍 (long)*、インドの伝統における*ナーガ*、さまざまなメソアメリカの羽毛の蛇、オーストラリア・アボリジニの*虹の蛇*、その他多くです。これらの伝統の主流の解釈は、それらが、化石の骨の発見(これらは時に巨大生物の遺骸と解釈された)、あるいは文化的想像力を通じて精緻化された大型の現存動物(ヘビ、ワニ、大型トカゲ)の影響を反映しているというものです。コーパスは龍の伝統を異なる仕方で、すなわち、より大型の形態が双子座の洪水事象で姿を消す前、創造の後の初期の時代のあいだに人類が遭遇した生物の文化的記憶でありうるものとして読みます。ラエルの『地球外生命体を歓迎しよう』に収められたマルセル・テリュスの論考は、大型爬虫類と恐竜が洪水の後に再創造されなかった生物に含まれていたと述べています（LWTE 4:54–55）。コーパスは龍の伝統の広がりを、その記述と調和するものとして読みます。コーパスは民間伝承を、恐竜を含む地層の放射年代測定に反する証拠としては扱わず、主流のK-Pgの年代と自らの圧縮されたタイムラインのあいだのギャップは未解決の問題のままです。この読みは、双子座とその後の章でより十分に展開されます。
 
 これは、コーパスが斉一論的地質学とマクロ進化生物学に関連して以前名指したレジスターCの領域です。恐竜の問題は、コーパスの圧縮されたタイムラインが主流のコンセンサスと具体的な意見の相違を生み出す、第三の主要な古生物学的・生物学的領域です。意見の相違は気軽なものではなく、コーパスはすべての経験的細部を解決したふりはしません。コーパスが主張するのは、意見の相違が原理的であること、代替的な読みが内的に整合的であること、そしていくつかの証拠の流れ——普遍的な龍の記憶と、最近理解された脊椎動物発生遺伝学の深い保存——が、それ自体で代替的読みを確立しないとしても、少なくとも代替的読みと整合的であるということです。
 

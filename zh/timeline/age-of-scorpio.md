@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -30,7 +30,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Intelligent Design: Message from the Designers", author = "Claude Vorilhon (Rael)", date = "2005", medium = "religious-text", description = "雷尔运动奠基文本的英文合订版；2005年导言明确将文特尔当时正在进行的合成细胞工作定性为雷尔主义论题的证明。" },
     { title = "Genesis", author = "Anonymous (Hebrew Bible); WoH translation from the pointed Masoretic Hebrew", date = "c. 6th–5th c. BCE", medium = "religious-text", path = "/library/genesis-woh/" },
@@ -238,7 +238,7 @@ AlphaFold对耶洛因工具重建的意义在于，它代表了DNA序列和功�
 
 现在可以清楚地陈述该语料库关于物种边界的立场。该语料库毫无保留地接受，生物体跨代跨种群在物种内变异。这是微进化。它在实验室和野外中是可观察到的；它解释了细菌的抗生素耐药性、达尔文地雀著名的喙变异、狗品种之间的形态差异、种群移入新环境时所经历的快速适应。微进化不在争议之中。正典并不否认从简单形式到复杂形式的进展：第一个有机体是单细胞的，「然后产生了更复杂的存在」；学者们说人源自猴、猴源自鱼，「并非完全错误」——「但不是偶然！」（TBWTT 5:62）。该语料库拒绝的是这样的主张：无引导的微进化，在长时间间隔内运行，足以从更简单的物种产生新物种、新体型、新器官系统。这种充分性正是那种外推——生物学中均变论的特征，正如地质学中一样——从观察到的小规模变异推及大规模转变；正典则把同一进展归于创造者们分阶段的工作。
 
-雷尔第三本书《欢迎外星人》所收录的马塞尔·泰吕斯（Marcel Terrusse）的文章直接讨论了这种外推（LWTE 4:16）：「在果蝇中引发的无数突变中，没有一个产生了不同的物种或任何与其祖先不同的东西。这些苍蝇的大小、颜色和形态可能变化，但即使是一系列突变也从未产生过一个具有以前从未存在过的属性的新生物体。」果蝇作为实验遗传学的主力军已超过一个世纪，而该文的要点在于：被诱发的突变使这种苍蝇发生了变化，却没有产生新的种类。该语料库将希伯来文本所保存的*le-mino*约束解读为与这一观察相合。主流生物学的回应是：在单一果蝇世系中，物种形成本就不会在实验室的时间尺度上出现，而它在别处已有记录——见于植物和昆虫中被观察到的实例，以及化石与基因组记录。
+雷尔第三本书《让我们欢迎外星人》所收录的马塞尔·泰吕斯（Marcel Terrusse）的文章直接讨论了这种外推（LWTE 4:16）：「在果蝇中引发的无数突变中，没有一个产生了不同的物种或任何与其祖先不同的东西。这些苍蝇的大小、颜色和形态可能变化，但即使是一系列突变也从未产生过一个具有以前从未存在过的属性的新生物体。」果蝇作为实验遗传学的主力军已超过一个世纪，而该文的要点在于：被诱发的突变使这种苍蝇发生了变化，却没有产生新的种类。该语料库将希伯来文本所保存的*le-mino*约束解读为与这一观察相合。主流生物学的回应是：在单一果蝇世系中，物种形成本就不会在实验室的时间尺度上出现，而它在别处已有记录——见于植物和昆虫中被观察到的实例，以及化石与基因组记录。
 
 这是该语料库与主流生物学的分歧（B/C 语域），它是尖锐的。正典认为各个种类是被设计的：创造者们依次造出了鱼、两栖类、哺乳类、鸟、灵长类，最后是人；学者们对这一序列虽「并非完全错误」，但它并非「偶然」而来（TBWTT 5:62）。天蝎座的记述——生物体按照其种类设计，按照其种类繁殖，由设计者建立的繁殖架构作为类别保存——正是该语料库对这一主张的解读。主流生物学依据化石、基因组与实验记录认为，新物种、新体型和新器官系统是在长时间间隔内经由带有变异的传承而产生的；它把寒武纪的突然出现和化石记录的缺口视为该解释框架内部关于速率与保存的问题，并把鲍尔、莱文等人的近期研究视为框架内部的修正，而非支持设计的论据。该语料库并不声称已在地球生物中探测到设计，也不裁断生命的起源。它将被设计的种类作为正典的主张来持守，并把与演化论解释的分歧作为分歧登记在案。
 

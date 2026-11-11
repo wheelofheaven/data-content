@@ -6,7 +6,7 @@ template = "timeline-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-10-29"
 translation_stale = false
 translation_sync = 100
@@ -35,7 +35,7 @@ references = [
     { title = "Догоны заново: полевая оценка работы Марселя Гриоля", author = "Вальтер Э. А. ван Бек", publication = "Current Anthropology 32 (2), 139–167", date = "1991 г.", medium = "academic-paper", url = "https://pure.uvt.nl/ws/portalfiles/portal/1002365/dogonrestudied.pdf" },
     { title = "Мозг Брока: размышления о романтике науки", author = "Карл Саган", date = "1979 г.", medium = "nonfiction-book", description = "Содержит главу о догон-сириусской полемике, поставившую под сомнение диффузионистское происхождение астрономических утверждений о Номмо." },
     { title = "Исследование тайны Сириуса", author = "Иэн Ридпат", publication = "Skeptical Inquirer 3 (1), 56–62", date = "1978 г.", medium = "academic-paper" },
-    { title = "Книга, говорящая правду", author = "Клод Ворийон (Раэль)", date = "1974 г.", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Книга, которая говорит правду", author = "Клод Ворийон (Раэль)", date = "1974 г.", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
     { title = "Инопланетяне забрали меня на свою планету", author = "Клод Ворийон (Раэль)", date = "1975 г.", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Парк юрского периода", author = "Майкл Крайтон", date = "1990 г.", medium = "fiction-book" },
     { title = "Парк юрского периода", author = "Режиссёр Стивен Спилберг; сценарий Майкла Крайтона и Дэвида Кеппа", date = "1993 г.", medium = "movie" },

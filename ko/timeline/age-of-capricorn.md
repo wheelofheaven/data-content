@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
-source_updated = "2026-11-07"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -30,7 +30,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "진리를 말하는 책 (Le Livre qui dit la vérité)", author = "클로드 보리옹 (라엘)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "진실을 말하는 책 (Le Livre qui dit la vérité)", author = "클로드 보리옹 (라엘)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "외계인들이 나를 그들의 행성으로 데려갔다 (Les Extra-Terrestres m'ont emmené sur leur planète)", author = "클로드 보리옹 (라엘)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "창세기", author = "익명 (히브리어 성경)", date = "기원전 6–5세기경", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "햄릿의 맷돌: 인간 지식의 기원과 신화를 통한 전승에 관한 에세이", author = "조르조 데 산틸라나와 헤르타 폰 데헨트", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },

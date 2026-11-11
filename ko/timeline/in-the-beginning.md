@@ -27,7 +27,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "욥기", author = "익명 (히브리어 성경)", date = "기원전 6세기경", medium = "religious-text", path = "/library/job/", description = "히브리어 성경에서 신성한 평의회의 일원으로서 ha-satan을 가장 명시적으로 묘사한 것으로, 그 제도적 역할은 확신에 찬 계획에 반대하여 논쟁하는 것입니다." },
 ]

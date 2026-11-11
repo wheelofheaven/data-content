@@ -28,8 +28,8 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité（讲述真相之书）", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète（外星人带我去了他们的行星）", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "Le Livre qui dit la vérité（讲述真相之书）", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
+    { title = "Les Extra-Terrestres m'ont emmené sur leur planète（外星人带我去他们的行星）", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "创世记", author = "佚名（希伯来圣经）；WoH 译自带元音符号的马所拉希伯来文本", date = "约公元前 6—5 世纪", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "A Hebrew and English Lexicon of the Old Testament（旧约希伯来文与英文词典）", author = "Francis Brown, S. R. Driver, and Charles A. Briggs", date = "1906", medium = "nonfiction-book", description = "BDB 词典。§V 中讨论的 tannin／taninim 词条出处。" },
     { title = "The Hebrew and Aramaic Lexicon of the Old Testament（旧约希伯来文与亚兰文词典）", author = "Ludwig Koehler, Walter Baumgartner, and Johann Jakob Stamm", date = "1994—2000", medium = "nonfiction-book", description = "HALOT——§V 中关于 tannin 的引用来源之一。" },
@@ -313,7 +313,7 @@ link = "/timeline/age-of-leo/"
 
 本文集解读为与该问题相关的第二条证据线是关于恐龙化石中软组织保存的近期文献。从 Mary Schweitzer 及同事 2005 年的工作{{ cite(id="7") }}开始，多篇论文报告了在恐龙化石中——最著名的是在*霸王龙*和*短冠龙*标本中——发现软组织、血管甚至明显的细胞结构。这些发现的主流解释是，在特定的保存条件下，生物分子可以比之前认为的存活更长时间，软组织发现扩展了生物分子保存的上限，而非挑战标本的年龄。本文集将这些发现与主流解释一并登记在案。与上一段一致，它并不借这些发现为标本重新定年：它不提出任何使放射性年龄与其压缩时间线相调和的机制，这一差异仍是开放问题。
 
-第三个考虑是人类民间传说中普遍的"龙"记忆。基本上每一个地球人类文化都保存了大型爬行类生物的传统——欧洲传统中的龙、中国传统中的*龙*、印度传统中的*那伽*、各种中美洲羽蛇、澳大利亚原住民的*彩虹蛇*以及许多其他。这些传统的主流解释是，它们反映了化石骨头的发现（有时被解释为巨型生物的遗骸）或大型现存动物（蛇、鳄鱼、大蜥蜴）通过文化想象精细化的影响。本文集的解读不同，将龙传统视为可能的文化记忆，记的是人类在其创造之后早期时代所遭遇的生物，那时较大形态尚未在双子座的洪水事件中消失。雷尔《欢迎外星人》一书所收录的马塞尔·泰吕斯（Marcel Terrusse）的文章说，大型爬行类和恐龙属于洪水之后未被重新创造的有机体（LWTE 4:54–55）。本文集将龙传统的广泛性解读为与这一记述相合。它并不把民间传说当作反对含恐龙地层之放射性测年的证据，而主流的 K-Pg 年代与本文集自身压缩时间线之间的缺口仍是开放问题。这一解读将在双子座和后续章节中更充分发展。
+第三个考虑是人类民间传说中普遍的"龙"记忆。基本上每一个地球人类文化都保存了大型爬行类生物的传统——欧洲传统中的龙、中国传统中的*龙*、印度传统中的*那伽*、各种中美洲羽蛇、澳大利亚原住民的*彩虹蛇*以及许多其他。这些传统的主流解释是，它们反映了化石骨头的发现（有时被解释为巨型生物的遗骸）或大型现存动物（蛇、鳄鱼、大蜥蜴）通过文化想象精细化的影响。本文集的解读不同，将龙传统视为可能的文化记忆，记的是人类在其创造之后早期时代所遭遇的生物，那时较大形态尚未在双子座的洪水事件中消失。雷尔《让我们欢迎外星人》一书所收录的马塞尔·泰吕斯（Marcel Terrusse）的文章说，大型爬行类和恐龙属于洪水之后未被重新创造的有机体（LWTE 4:54–55）。本文集将龙传统的广泛性解读为与这一记述相合。它并不把民间传说当作反对含恐龙地层之放射性测年的证据，而主流的 K-Pg 年代与本文集自身压缩时间线之间的缺口仍是开放问题。这一解读将在双子座和后续章节中更充分发展。
 
 这是本文集之前与均变论地质学和宏观演化生物学相关命名的 C 域领地。恐龙问题是本文集压缩时间线与主流共识产生具体分歧的第三个主要古生物学／生物学领域。分歧不是随便的，本文集并不假装已解决每一个经验细节。本文集所声称的是分歧是有原则的，替代解读是内部一致的，且若干证据线——普遍的龙记忆以及最近被理解的脊椎动物发育遗传深度保守——至少与替代解读相符，即使它们本身不证明它。
 

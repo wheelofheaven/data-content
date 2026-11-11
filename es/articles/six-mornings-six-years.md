@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-01"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-01"
 translation_stale = false
 translation_sync = 100
@@ -18,7 +18,7 @@ category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 summary = "El canon raeliano fue recibido en seis mañanas y una noche de octubre, y publicado a lo largo de seis años —1973, 1975, 1979— por un hablante que conservó el control editorial de su propia revelación desde la primera frase hasta la última. Este Explicativo lee los tres libros fundacionales como un único dictado en serie y aplica sobre ellos las disciplinas que su propia escena fundacional pone en acto: el análisis del discurso (quién habla, a quién, dónde, bajo qué restricción) y la crítica textual (qué muestra el texto recibido acerca de su transmisión). Corrige la geografía que casi todos los resúmenes difuminan —el Roc Plat, una estación de observación cercana a la Tierra, el planeta de los Eternos y un planeta natal que se menciona pero nunca se visita, una confusión que comete el propio título del segundo libro—. Documenta el sistema de control de la divulgación: nombres retenidos y liquidados según calendario, distancias prometidas el primer día y entregadas el quinto, un embargo de tres años anunciado solo cuando se levanta, y una doctrina de reparación que atribuye cada error al escriba, a la pedagogía o al embargo —nunca a la fuente—. Luego somete el corpus al examen del falsificador con honestidad en ambas direcciones: la aritmética que se sostiene a lo largo de seis años (25 cuerpos × 1.000 años; 666 × 20; año 31, año 34) y las cifras que se doblan bajo la presión del texto de prueba (un consejo de 700 que se convierte en 24 ancianos en cuanto Apocalipsis 4 está abierto sobre la mesa; unos veintidós mil que nadie recordó). El veredicto no es un veredicto sobre el encuentro. Es una demostración de que el canon es un laboratorio vivo para la filología que suele practicarse sobre textos dos mil años fríos —y de que no deja de recompensar la lectura—."
-keywords = ["crítica textual", "análisis del discurso", "discurso revelatorio", "crítica de la redacción", "revelación en serie", "control de la divulgación", "El Libro que dice la Verdad", "Los extraterrestres me llevaron a su planeta", "Acojamos a los extraterrestres", "planeta de los Eternos", "planeta natal de los Elohim", "estación de observación", "embargo", "MADECH", "formación del canon", "armonización", "corrección fosilizada", "Doctrina y Convenios", "Joseph Smith Papers", "naskh", "Susan Palmer", "Jean Sendy", "Dhorme", "aparato crítico", "narratología", "focalización"]
+keywords = ["crítica textual", "análisis del discurso", "discurso revelatorio", "crítica de la redacción", "revelación en serie", "control de la divulgación", "El libro que dice la verdad", "Los extraterrestres me llevaron a su planeta", "Acojamos a los extraterrestres", "planeta de los Eternos", "planeta natal de los Elohim", "estación de observación", "embargo", "MADECH", "formación del canon", "armonización", "corrección fosilizada", "Doctrina y Convenios", "Joseph Smith Papers", "naskh", "Susan Palmer", "Jean Sendy", "Dhorme", "aparato crítico", "narratología", "focalización"]
 references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶44: the publication instruction; ¶47: 'and even before'; ¶51–53: the deferred distance and the deflected name); Chapter 2 (¶3: corpus gating; ¶92: the departure colors); Chapter 5 (¶4: the twenty-two thousand years; ¶52–53: the parasang distances and the optical window); Chapter 6 (¶26: the no-proof doctrine; ¶29: the movement's name); Chapter 7 (¶16: 'six days in a row'; ¶30–56: eternals, council, and the president's twenty-five thousand years; ¶68: the residence)" },
@@ -86,7 +86,7 @@ allí donde todos los demás pasajes dicen el planeta de los Eternos— y ese
 clase de dato que este artículo existe para recoger.
 
 El asunto aquí son los tres libros canónicos —
-[*El Libro que dice la Verdad*](/library/the-book-which-tells-the-truth/)
+[*El libro que dice la verdad*](/library/the-book-which-tells-the-truth/)
 (1973, publicado en 1974),
 [*Los extraterrestres me llevaron a su planeta*](/library/extraterrestrials-took-me-to-their-planet/)
 (1975) y
@@ -459,7 +459,7 @@ deposita los datos contiguos: una concepción fechada el 25 de diciembre de
 1945, un padre que era «según parece, un refugiado judío»
 ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=1, verse=7) %}ETTMTTP 1:7{% end %})—
 y detona en el tercero, donde la escena de la filiación la cita de vuelta *con
-referencia de página* («Remítase a la pág. 8 de El Libro que dice la Verdad»,
+referencia de página* («Remítase a la pág. 8 de El libro que dice la verdad»,
 {% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=79) %}LWTE 2:79{% end %})
 antes de resolverla: la inseminación a bordo de una nave, el borrado de
 memoria, el padre adoptivo elegido de una religión distinta de la de la madre.

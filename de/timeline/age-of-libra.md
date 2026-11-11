@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -28,7 +28,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Raël)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Genesis", author = "Anonym (Hebräische Bibel); WoH-Übersetzung aus dem punktierten masoretischen Hebräisch", date = "ca. 6.–5. Jh. v. Chr.", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "Hamlet's Mill: Ein Essay über Mythos und das Wissensgerüst der Zeit", author = "Giorgio de Santillana und Hertha von Dechend", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/", description = "Kulturvergleichende Rekonstruktion des präzessionalen Rahmens, den dieses Kapitel übernimmt und erweitert." },

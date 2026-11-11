@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -30,8 +30,8 @@ footnotes = [
 ]
 
 references = [
-    { title = "讲述真相之书（Le Livre qui dit la vérité）", author = "克洛德·沃里隆（雷尔）", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "外星人带我去了他们的星球（Les Extra-Terrestres m'ont emmené sur leur planète）", author = "克洛德·沃里隆（雷尔）", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "讲述真相之书（Le Livre qui dit la vérité）", author = "克洛德·沃里隆（雷尔）", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
+    { title = "外星人带我去他们的行星（Les Extra-Terrestres m'ont emmené sur leur planète）", author = "克洛德·沃里隆（雷尔）", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "创世记", author = "佚名（希伯来圣经）；据带标音的马所拉希伯来文本由WoH译出", date = "约公元前6至5世纪", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "地球理论（Theory of the Earth）", author = "詹姆斯·赫顿", date = "1788", medium = "academic-paper", description = "均变论的奠基性陈述——即现今所观察到的地质过程乃是通往过去的钥匙这一学说。" },
     { title = "地质学原理（Principles of Geology）", author = "查尔斯·莱尔", date = "1830–1833", medium = "nonfiction-book", description = "三卷本著作，赋予均变论以其经典形式，并塑造了近代地质学与达尔文的进化论综合。" },

@@ -24,7 +24,7 @@ see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "牡羊座の時代に、自分たち自身が創造されていたことを発見した創造者文明。" },
     { title = "Apocalypse", path = "wiki/apocalypse", description = "水瓶座時代の継承評価――地球の人類にとっての、連鎖の現在の局面。" },
     { title = "Embassy", path = "wiki/embassy", description = "地球が同盟の蓄積された知識を受け取るとされる継承の出来事の、想定された開催地。" },
-    { title = "Doubled Signature", path = "wiki/doubled-signature", description = "より広い宇宙の連鎖の枠組みの中で機能する、関連する解釈上の原理。" },
+    { title = "二重の署名", path = "wiki/doubled-signature", description = "より広い宇宙の連鎖の枠組みの中で機能する、関連する解釈上の原理。" },
     { title = "Genesis", path = "wiki/genesis", description = "連鎖の反復する創造パターンの一つの具体的な事例として読まれる創造の記述。" },
 ]
 

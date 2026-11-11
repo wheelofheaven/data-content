@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -28,7 +28,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "בראשית", author = "מחבר אנונימי (תנ״ך); תרגום WoH מהעברית המסורתית המנוקדת", date = "מאות 6–5 לפנה״ס", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "טחנת המלט: מאמר החוקר את מקורות הידע האנושי והעברתו דרך המיתוס (Hamlet's Mill)", author = "ג׳ורג׳ו דה סנטיליאנה והרתה פון דכנד", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/", description = "שחזור בין-תרבותי של מסגרת הנסיגה אשר הפרק הזה יורש ומרחיב." },

@@ -1,7 +1,7 @@
 {
   "$schema": "./glossary-schema.json",
-  "version": "1.5.0",
-  "updated": "2026-06-07",
+  "version": "1.5.1",
+  "updated": "2026-11-11",
   "description": "Terminology glossary for consistent translations across all languages",
   "terms": [
     {
@@ -1001,7 +1001,12 @@
         "fr": "Le Livre qui dit la vérité",
         "ja": "真実を告げる書",
         "zh": "讲述真相之书",
-        "zh-Hant": "訴說真相之書"
+        "zh-Hant": "訴說真相之書",
+        "de": "Das Buch, das die Wahrheit sagt",
+        "es": "El libro que dice la verdad",
+        "ru": "Книга, которая говорит правду",
+        "ko": "진실을 말하는 책",
+        "he": "הספר המגלה את האמת"
       }
     },
     {
@@ -1019,7 +1024,15 @@
       "definition": "Each age marked by its own constellation and its zodiacal opposite.",
       "translations": {
         "en": "Doubled Signature",
-        "es": "Signatura doble"
+        "es": "Signatura doble",
+        "de": "Doppelte Signatur",
+        "fr": "Signature redoublée",
+        "ru": "Удвоенная подпись",
+        "ja": "二重の署名",
+        "ko": "이중 서명",
+        "zh": "双重署名",
+        "zh-Hant": "雙重署名",
+        "he": "החתימה הכפולה"
       }
     },
     {
@@ -1028,6 +1041,59 @@
       "definition": "",
       "translations": {
         "ko": "천재정치"
+      }
+    },
+    {
+      "id": "extraterrestrials-took-me-to-their-planet",
+      "category": "core",
+      "definition": "Raël's second book (1975), French original Les Extra-terrestres m'ont emmené sur leur planète.",
+      "translations": {
+        "en": "Extraterrestrials Took Me to Their Planet",
+        "de": "Außerirdische brachten mich auf ihren Planeten",
+        "es": "Los extraterrestres me llevaron a su planeta",
+        "fr": "Les Extra-terrestres m'ont emmené sur leur planète",
+        "ru": "Инопланетяне забрали меня на свою планету",
+        "ja": "地球外生命体は私を彼らの惑星へ連れて行った",
+        "ko": "외계인들이 나를 그들의 행성으로 데려갔다",
+        "zh": "外星人带我去他们的行星",
+        "zh-Hant": "外星人帶我到他們的行星",
+        "he": "החייזרים לקחו אותי לכוכב שלהם"
+      }
+    },
+    {
+      "id": "lets-welcome-the-extraterrestrials",
+      "category": "core",
+      "definition": "Raël's third book (1979), French original Accueillir les extra-terrestres.",
+      "translations": {
+        "en": "Let's Welcome the Extraterrestrials",
+        "de": "Empfangen wir die Außerirdischen",
+        "es": "Acojamos a los extraterrestres",
+        "fr": "Accueillir les extra-terrestres",
+        "ru": "Встретим инопланетян",
+        "ja": "地球外生命体を歓迎しよう",
+        "ko": "외계인들을 환영하자",
+        "zh": "让我们欢迎外星人",
+        "zh-Hant": "歡迎外星人",
+        "he": "בואו נקבל את פני החייזרים"
+      }
+    },
+    {
+      "id": "vorilhon",
+      "category": "core",
+      "definition": "Claude Vorilhon, the birth surname of Raël.",
+      "translations": {
+        "en": "Vorilhon",
+        "zh": "沃里隆",
+        "zh-Hant": "沃里隆"
+      }
+    },
+    {
+      "id": "corpus",
+      "category": "core",
+      "definition": "The Wheel of Heaven body of work (wiki, articles, timeline) as a whole.",
+      "translations": {
+        "en": "the corpus",
+        "ja": "コーパス"
       }
     }
   ],

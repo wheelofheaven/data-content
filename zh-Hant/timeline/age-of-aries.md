@@ -26,7 +26,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "克勞德‧沃里隆(拉爾)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "克勞德‧沃里隆(拉爾)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "克勞德‧沃里隆(拉爾)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "出埃及記", author = "佚名(希伯來聖經);WoH 譯本正自帶點馬所拉希伯來文本翻譯中", date = "約西元前 6–5 世紀", medium = "religious-text", path = "/library/exodus-woh/", description = "燃燒的荊棘、紅海分開、西奈神顯、會幕與約櫃——本章的主要原典。" },
     { title = "民數記", author = "佚名(希伯來聖經)", date = "約西元前 6–5 世紀", medium = "religious-text", path = "/library/numbers/", description = "銅蛇(21:8–9)、會幕的指示,以及第三節所引述的曠野敘事。" },
@@ -182,7 +182,7 @@ link = "/timeline/age-of-pisces/"
 
 此一解讀與本語料庫一直追溯的更廣模式一致。每一個歲差時代的宗教圖像反映該時代的天文星座——金牛時代的公牛崇拜、白羊時代的公羊象徵、雙魚時代的魚象徵。摩西是白羊時代以色列宗教傳統的奠基人物。其圖像符號是公羊角,作為希伯來文本中的文法可能性而存在,並作為視覺特徵保存於西方藝術傳統中。依此解讀,摩西的雙角既非錯誤也非裝飾。它們是時代的標誌,由開啟該時代之宗教傳統的人物所佩戴。
 
-這一過渡也在新時代所拒斥之物中留下了印記。摩西從西奈山下來時,發現百姓正圍著一頭金牛犢跳舞——依此解讀,這頭牛犢正是剛剛結束之時代的*公牛*,是在打烊之後仍受敬拜的金牛座之神。埃及也如期完成了同樣的轉向,並堅持了下來:中王國時期底比斯的主神門圖之公牛讓位給公羊頭的阿蒙,法老的神名式名字從孟圖霍特普(Mentuhotep)轉為阿蒙霍特普(Amenhotep),而公羊頭的斯芬克斯則沿著通往卡納克的道路排列。讓·桑迪以這個時代的對宮星座補全了這一模式——摩西時代的雙重標誌是公羊*與*天平,即天秤座,黃道帶上與白羊座相對的星座;若不把它看作這個時代的{% wiki(slug="doubled-signature") %}雙重印記{% end %},天平作為正義的象徵便顯得格格不入。桑迪的強勢主張是,摩西不只是觀察到春分點在白羊座升起,而是理解了{% wiki(slug="precession") %}歲差{% end %}本身的機制——他認為這種知識法老的祭司已不再掌握,這使出埃及事件除了其他意涵之外,也成為一場關於誰仍掌握{% wiki(slug="zodiac") %}黃道帶{% end %}操作手冊的爭端。本語料庫將桑迪的解讀標示為接近框架的解讀,並在解說文章[那座碾磨諸紀元的磨坊](/zh-Hant/articles/the-mill-that-grinds-the-ages/)與[那個把聖經押在月球上的人](/zh-Hant/articles/the-man-who-bet-the-bible-on-the-moon/)中加以論證。
+這一過渡也在新時代所拒斥之物中留下了印記。摩西從西奈山下來時,發現百姓正圍著一頭金牛犢跳舞——依此解讀,這頭牛犢正是剛剛結束之時代的*公牛*,是在打烊之後仍受敬拜的金牛座之神。埃及也如期完成了同樣的轉向,並堅持了下來:中王國時期底比斯的主神門圖之公牛讓位給公羊頭的阿蒙,法老的神名式名字從孟圖霍特普(Mentuhotep)轉為阿蒙霍特普(Amenhotep),而公羊頭的斯芬克斯則沿著通往卡納克的道路排列。讓·桑迪以這個時代的對宮星座補全了這一模式——摩西時代的雙重標誌是公羊*與*天平,即天秤座,黃道帶上與白羊座相對的星座;若不把它看作這個時代的{% wiki(slug="doubled-signature") %}雙重署名{% end %},天平作為正義的象徵便顯得格格不入。桑迪的強勢主張是,摩西不只是觀察到春分點在白羊座升起,而是理解了{% wiki(slug="precession") %}歲差{% end %}本身的機制——他認為這種知識法老的祭司已不再掌握,這使出埃及事件除了其他意涵之外,也成為一場關於誰仍掌握{% wiki(slug="zodiac") %}黃道帶{% end %}操作手冊的爭端。本語料庫將桑迪的解讀標示為接近框架的解讀,並在解說文章[那座碾磨諸紀元的磨坊](/zh-Hant/articles/the-mill-that-grinds-the-ages/)與[那個把聖經押在月球上的人](/zh-Hant/articles/the-man-who-bet-the-bible-on-the-moon/)中加以論證。
 
 值得進一步注意的細節:用於猶太禮儀的羊角號 *shofar*,是同一象徵在禮儀上倖存的表現。*shofar* 在猶太曆中特定時刻吹響——在大節期、贖罪日結束時、各種節慶與紀念場合——且總是特定使用公羊角,而非其他任何動物之角。以色列傳統作為聯盟接觸與召集民眾之禮儀符號保留下來的器物就是公羊角。在希伯來文本中,摩西手持律法、面上帶有(無論是隱喻地或字面上)公羊角,自西奈山下來。*shofar* 是同一個符號,保留於禮儀實踐而非圖像之中,持續標誌白羊座時代,直至白羊時代終結——下一章將描述,這延續至大約公元紀年開始時過渡至雙魚座之時。
 

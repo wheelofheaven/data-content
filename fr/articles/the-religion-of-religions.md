@@ -81,7 +81,7 @@ footnotes = [
     { content = "La date canonique de la seconde rencontre est le 7 octobre 1975, et le calendrier festif du mouvement l'y maintient. La littérature savante manie la date avec négligence : la monographie de Palmer imprime « 1976 » sur une page et 1975 ailleurs ; l'article de Chryssides de 2000 imprime « 7 novembre 1975 ». De petites erreurs de ce genre sont utiles — elles montrent quels auteurs ont travaillé à partir des sources et lesquels les uns à partir des autres." },
     { content = "Les propres totaux courants du mouvement sont de 65 000 membres baptisés dans 86 pays (2006), 85 000 dans 90 (2011), 90 000 (2013). Palmer relaie les chiffres officiels avec la réserve qu'ils comptent tous ceux qui ont jamais été baptisés, y compris des adolescents « sur un pari ». L'estimation d'Introvigne en 2003 distinguait environ 1 500 membres engagés de la Structure d'environ 50 000 adhérents nominaux. Des bases de données internes divulguées — rapportées à 14 192 membres vérifiés en 2010 et 18 111 en 2017, bien que la fuite soit une source unique — se situent entre les deux. Tout chiffre de cette fourchette fait du Raëlisme l'un des plus petits corps ayant jamais soutenu une institution religieuse mondiale sur cinquante ans." },
     { content = "La « transmission du plan cellulaire » est l'initiation raëlienne : lors de l'un des quatre jours festifs, un guide trempe ses mains dans l'eau et tient la tête de l'initié, transmettant — le mouvement dit télépathiquement, aux ordinateurs des Élohim — l'identité génétique du nouveau membre, pour le registre au regard duquel se tiendra le jugement dernier. C'est un baptême, déplacé de l'âme au génome. Un rite funéraire complémentaire prélève un centimètre carré de l'os frontal pour un stockage à Genève, en attendant sa collecte." },
-    { content = "Les engagements en faveur d'une langue auxiliaire sont spécifiques, et ils sont liés. 'Abdu'l-Bahá loua l'espéranto comme candidat au principe bahá'í d'une langue auxiliaire universelle, et Lidia Zamenhof — la plus jeune fille de l'inventeur de l'espéranto — devint bahá'íe en 1925 et en traduisit la littérature. Oomoto adopta l'espéranto dès le début des années 1920 (un récit fait remonter la décision à un contact interreligieux avec des bahá'ís en 1921) et publie encore dans cette langue ; la devise inscrite sur son centre de Kameoka dit Unu Dio, Unu Mondo, Unu Interlingvo — un Dieu, un monde, une interlangue. Le canon raëlien, sans nommer l'espéranto, ordonne « une nouvelle langue, inspirée de toutes », obligatoire dans chaque école de la Terre (TBWTT 6:16)." },
+    { content = "Les engagements en faveur d'une langue auxiliaire sont spécifiques, et ils sont liés. 'Abdu'l-Bahá loua l'espéranto comme candidat au principe bahá'í d'une langue auxiliaire universelle, et Lidia Zamenhof — la plus jeune fille de l'inventeur de l'espéranto — devint bahá'íe en 1925 et en traduisit la littérature. Oomoto adopta l'espéranto dès le début des années 1920 (un récit fait remonter la décision à un contact interreligieux avec des bahá'ís en 1921) et publie encore dans cette langue ; la devise inscrite sur son centre de Kameoka dit Unu Dio, Unu Mondo, Unu Interlingvo — un Dieu, un monde, une interlangue. Le canon raëlien, sans nommer l'espéranto, ordonne « une langue nouvelle, inspirée de toutes », obligatoire dans chaque école de la Terre (TBWTT 6:16)." },
     { content = "Tam Kỳ Phổ Độ — « la Troisième Grande Amnistie universelle » (ou Salut) — est la périodisation caodaïste de la révélation : deux amnisties antérieures livrèrent les fondateurs des religions du monde ; leurs messages se sont dégradés dans la transmission ; la troisième et dernière amnistie se passe d'intermédiaires humains, Dieu dictant directement par le panier de séance. Le nom officiel complet de la religion, Đại Đạo Tam Kỳ Phổ Độ, porte la doctrine dans son titre." },
     { content = "La déclaration fondatrice caodaïste (la pétition Khai Đạo à l'administration coloniale française) est datée du 7 octobre 1926 — la même date du calendrier que le canon raëlien donne, quarante-neuf ans plus tard, pour la seconde rencontre. Rien n'est ici revendiqué de cette coïncidence ; elle est consignée parce que les lecteurs du corpus remarquent de telles choses, et il vaut mieux la consigner en indiquant son poids : nul." },
     { content = "L'expression « quarante prophètes » n'apparaît pas mot pour mot dans les trois livres fondateurs. Le nombre entre dans le canon à la scène du repas de 1975 — « La quarantaine d'hommes et de femmes présents à ce repas sont tous des êtres représentatifs des religions créées à la suite de nos contacts sur la Terre » (ETTMTTP 2:64) — et l'usage ultérieur du mouvement (« le dernier de quarante prophètes ») est une articulation de cette phrase. Aucune liste complète des quarante n'existe nulle part dans le canon ni dans la littérature du mouvement ; le propre catalogue du corpus marque l'énumération comme une reconstruction." },
@@ -190,19 +190,7 @@ lui, entre tous, qui avait été choisi, l'être donne une réponse qui est
 pratiquement une sociologie du choix :
 
 {% library(book="the-book-which-tells-the-truth", chapter=1, verse=46) %}
-Pour bien des raisons. D'abord, il nous fallait quelqu'un dans un pays où
-les idées nouvelles sont bien reçues et où il est possible de les exprimer.
-La France est le pays où la démocratie est née, et son image de par le
-monde est celle du pays de la liberté. Ensuite, il nous fallait quelqu'un
-d'intelligent et d'ouvert à tout. Enfin — et surtout — il nous fallait
-quelqu'un qui soit libre penseur sans être antireligieux. Avec un père juif
-et une mère catholique, tu se trouve être le lien idéal entre deux peuples
-très importants dans l'histoire du monde. De plus, ton métier ne te
-prédispose en rien à des révélations que la plupart trouveraient
-incroyables, ce qui rendra tes paroles plus crédibles. N'étant pas un
-scientifique, tu ne compliqueras pas les choses et les expliqueras
-simplement. N'étant pas un homme de lettres, tu n'écriras pas de phrases
-alambiquées difficiles à lire pour la plupart des gens.
+Pour beaucoup de raisons. D'abord, il nous fallait quelqu'un qui soit dans un pays où les idées nouvelles sont bien reçues et où il est possible de les exprimer. La France est le pays où la démocratie est née et son image sur la Terre entière est celle du pays de la liberté. Ensuite, il fallait quelqu'un qui soit intelligent et ouvert à tout. Enfin et surtout, il nous fallait quelqu'un qui soit libre-penseur sans être antireligieux. Étant de père juif et de mère catholique, il se trouve que vous étiez le trait d'union idéal entre deux peuples très importants dans l'histoire du monde. D'autre part, votre activité ne vous prédisposant en rien à des révélations incroyables pour la plupart rendront vos dires plus crédibles. N'étant pas un scientifique, vous ne compliquerez pas la chose et l'expliquerez simplement. N'étant pas un littéraire, vous ne ferez pas de phrases compliquées et difficiles à lire du plus grande nombre.
 {% end %}
 
 Une écriture qui fait du manque de qualifications de son messager la
@@ -276,13 +264,7 @@ et la phrase où il le dit, tirée du cinquième chapitre du livre de 1973, est
 la graine de tout ce que cet article fera dans sa seconde moitié :
 
 {% library(book="the-book-which-tells-the-truth", chapter=5, verse=54) %}
-La Kabbale est le livre le plus proche de la vérité, mais presque tous les
-livres religieux font allusion à nous plus ou moins clairement, surtout dans
-les pays où les créateurs avaient des bases : dans la cordillère des Andes,
-dans l'Himalaya, en Grèce où la Mythologie contient elle aussi de grands
-témoignages, la religion bouddhiste, l'islamique, les Mormons — il faudrait
-des pages pour citer toutes les religions et sectes qui témoignent de manière
-plus ou moins obscure de notre œuvre.
+La Kabbale est le livre le plus proche de la vérité mais presque tous les livres religieux font allusion à nous plus ou moins clairement, surtout dans les pays où les créateurs avaient des bases : dans la cordillère des Andes, dans l'Himalaya, en Grèce où la Mythologie contient aussi de grands témoignages, la religion Bouddhiste, Islamique, les Mormons, il faudrait des pages pour citer toutes les religions et sectes qui témoignent d'une façon plus ou moins obscure de notre œuvre.
 {% end %}
 
 {% claim(type="direct", id="woh-claim-0027") %}Le bouddhisme, l'islam et les saints des derniers jours, nommés dans un livre
@@ -294,13 +276,7 @@ pour le {% wiki(slug="great-return") %}retour{% end %} des créateurs — ainsi
 qu'un nom pour le messager :
 
 {% library(book="the-book-which-tells-the-truth", chapter=5, verse=66) %}
-Toi, Claude Vorilhon, tu répandras la vérité sous ton nom actuel, que tu
-remplaceras progressivement par le nom que tu portes pour nous, « RAËL ». Ce
-qui signifie littéralement « lumière de Dieu », et si l'on fait une traduction
-plus précise, « lumière des Élohim », ou plus exactement « celui qui apporte
-la lumière des Élohim », ou « Ambassadeur des Élohim », car tu seras en effet
-notre ambassadeur sur la Terre, et nous n'atterrirons officiellement que dans
-ton ambassade. RAËL peut se traduire plus simplement par « messager ».
+Vous Claude Vorilhon, vous répandrez la vérité sous votre nom actuel que vous remplacerez progressivement par le nom que vous portez pour nous «RAËL». Ce qui veut dire littéralement «lumière de Dieu» et si l'on fait une traduction plus précise «lumière des Elohim» ou plus exactement «celui qui apporte la lumière des Elohim» ou «Ambassadeur des Elohim» car vous serez bel et bien notre ambassadeur sur la Terre et nous ne débarquerons officiellement que dans votre ambassade. RAËL peut être traduit plus simplement par «messager».
 {% end %}
 
 Chryssides a remarqué de quel genre de scène il s'agit : « La première
@@ -326,12 +302,7 @@ classification de cet article. Lors d'un repas sur la planète des éternels,
 l'hôte identifie l'assemblée :
 
 {% library(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=64) %}
-À sa droite se trouve Moïse, à sa gauche Élie, à la gauche de Jésus est assis
-celui dont, sur la Terre, on se souvient sous le nom de Bouddha. Un peu plus
-loin, tu peux voir Mahomet dans les écrits duquel je suis appelé Allah, car il
-n'osa pas me nommer par respect. La quarantaine d'hommes et de femmes présents
-à ce repas sont tous des êtres représentatifs des religions créées à la suite de
-nos contacts sur la Terre.
+À sa droite se trouve Moïse, à sa gauche Elie, à la gauche de Jésus est assis celui dont, sur Terre, on se souvient sous le nom de Bouddha. Un peu plus loin vous pouvez voir Mahomet dans les écrits duquel je suis appelé Allah car il n'osait pas me nommer par respect. La quarantaine d'hommes et de femmes présents à ce repas sont tous des êtres représentatifs des religions créées à la suite de nos contacts sur la Terre.
 {% end %}
 
 C'est le paragraphe dont descend toute la prophétologie du mouvement — « le
@@ -352,10 +323,7 @@ Le même livre nomme la catégorie du mouvement lui-même, dans le passage dont
 cet article tire son titre :
 
 {% library(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=105) %}
-Tu es celui qui doit rassembler les hommes de toutes les religions. Car le
-mouvement que tu as créé, le Mouvement raëlien, doit être la religion des
-religions. J'insiste, c'est bel et bien une religion, mais une religion
-athée, comme tu l'avais déjà compris.
+Vous êtes celui qui doit rassembler les hommes de toutes les religions. Car le mouvement que vous avez créé, le Mouvement Raëlien, doit être la religion des religions. J'insiste, c'est bel et bien une religion, mais une religion athée comme vous l'aviez déjà compris.
 {% end %}
 
 Les deux moitiés de la formule méritent tout leur poids. *Religion des
@@ -372,28 +340,18 @@ Le troisième livre achève l'escalade. Dans *Accueillir les extra-terrestres*
 (1979), Yahvé révèle la paternité du messager :
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=85) %}
-Celui que tu regardais comme ton père n'était pas ton véritable père. Après
-l'explosion d'Hiroshima, nous avons décidé que le temps était venu pour nous
-d'envoyer un nouveau messager sur la Terre. Il serait le dernier prophète, mais
-le premier à s'adresser à l'humanité en lui demandant de comprendre et non de
-croire. Nous avons alors sélectionné une femme, comme nous l'avions fait au
-temps de Jésus. Cette femme fut prise à bord de l'un de nos vaisseaux et
-inséminée comme nous l'avions fait avec la mère de Jésus.
+Celui que tu prenais pour ton père n'était pas ton père. C'est après l'explosion atomique d'Hiroshima que nous avons décidé que le moment était venu d'envoyer sur Terre un nouveau messager, le dernier prophète, et le premier qui s'adresserait aux hommes en leur demandant de comprendre et non de croire. Nous avons donc sélectionné une femme tout comme nous l'avions fait à l'époque de Jésus. Cette femme nous l'avons enlevée à bord d'un de nos engins et elle fut inséminée tout comme nous l'avions fait pour la mère de Jésus.
 {% end %}
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=87) %}
-Ton véritable père est aussi le père de Jésus, ce qui fait de vous des frères.
-Tu es en ce moment en train de regarder ton père. Ton père nourricier était
-comme Joseph, il devait prendre soin de toi et de ta mère jusqu'à ce que tu
-puisses subvenir à tes propres besoins.
+Ton véritable père est également le père de Jésus, qui est donc ton frère, et ce père tu l'as en face de toi maintenant. Celui que tu as pris pour ton père était, comme Joseph, chargé de subvenir aux besoins de ta mère et de toi-même jusqu'à ce que tu sois capable de te débrouiller par toi-même.
 {% end %}
 
 Messager, puis {% wiki(slug="prophet") %}prophète{% end %}, puis fils — la trajectoire que le christianisme mit
 trois siècles à formaliser, parcourue en six ans de livres de poche. Deux
 choses empêchent l'escalade d'être toute l'histoire. La première est la
 réserve que le même chapitre y attache, dans la pièce d'autolimitation la plus
-citée du canon : « Ce n'est pas le messager qui est important, mais le message
-lui-même… Ne regarde pas mon doigt, mais bien la direction qu'il indique »
+citée du canon : « Ce n'est pas le messager qui est important, c'est le message… Ne regardez pas mon doigt, mais la direction qu'il indique »
 (LWTE 2:91–93). La seconde est la formule à l'intérieur même du passage de la
 paternité — *le premier à s'adresser à l'humanité en lui demandant de
 comprendre et non de croire* — qui est l'épistémologie propre du canon en une
@@ -424,9 +382,7 @@ Ce que les étiquettes cherchent à saisir, c'est une structure doctrinale qui
 peut s'énoncer en un paragraphe, car le canon l'énonce en un seul :
 
 {% library(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=30) %}
-Comme nous te l'avons déjà expliqué dans le premier message, il n'y a pas de
-dieu et évidemment pas d'âme. Après la mort, il n'y a rien si la science ne
-fait rien pour qu'il y ait quelque chose.
+Comme nous vous l'avons déjà expliqué dans le premier message, il n'y a pas de dieu et évidemment pas d'âme. Après la mort, il n'y a rien si la science ne fait rien pour qu'il y ait quelque chose.
 {% end %}
 
 Pas de dieu, parce que l'univers est infini et sans centre — la cosmologie
@@ -455,7 +411,7 @@ sacerdoce en six grades ascendants, de l'animateur au guide-évêque, avec Raël
 comme Guide des Guides réélu tous les sept ans. Une observance hebdomadaire —
 le dimanche, à 11 heures, une pensée dirigée vers les Élohim. Une pratique du
 corps, la « méditation sensuelle », dont l'instruction canonique dit :
-{% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=113) %}« Ta méditation ne sera pas une méditation sèche, mais au contraire une méditation sensuelle ; tu te laisseras envahir par la paix et par l'harmonie jusqu'à ce que cela devienne une jouissance »{% end %}
+{% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=113) %}« Ta méditation ne sera pas une méditation sèche, mais au contraire une méditation sensuelle ; tu te laisseras envahir par la paix et par l'harmonie jusqu'à ce qu'elle devienne une jouissance »{% end %}
 — l'organe expérientiel dont une religion a besoin lorsqu'elle a aboli l'âme à
 laquelle l'expérience était censée appartenir. Et une politique, publiée en
 1977 sous le titre *{% wiki(slug="geniocracy") %}La Géniocratie{% end %}* — la « démocratie sélective » des
@@ -467,17 +423,13 @@ et elle passe par une étymologie sur laquelle ce corpus a sa propre
 {% wiki(slug="religion") %}entrée{% end %} :
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=25) %}
-Ainsi devient-il clair que le Mouvement raëlien est une religion ; il relie les
-créateurs de l'humanité à leur création, même s'il est en fait une religion
-athée, au sens où elle ne croit pas en l'existence d'un Dieu — athée, du grec
-atheos qui signifie « niant l'existence de toute forme de divinité ».
+Il est donc évident que le Mouvement Raëlien est bel et bien une religion, c'est-à-dire le lien unissant les créateurs de l'humanité à ladite humanité. Même s'il s'agit d'une religion athée, c'est-à-dire ne croyant pas à l'existence d'un dieu. Athée vient du grec «athéos» qui signifie «niant l'existence de toute divinité».
 {% end %}
 
 *Religare*, relier : la religion comme lien maintenu entre créateurs et créés,
 la croyance au surnaturel étant reléguée au rang d'accident de la phase
 primitive. Le même chapitre nomme les prophètes par lesquels le lien passait —
-« Jésus… Moïse, Bouddha, Mahomet, Joseph Smith, et tous les autres grands
-prophètes » (LWTE 3:27), le prophète américain de 1830 inclus aussi
+« Jésus… Moïse, Bouddha, Mahomet, Joseph Smith et tous les grands prophètes » (LWTE 3:27), le prophète américain de 1830 inclus aussi
 désinvoltement que le reste — et le premier chapitre du même livre comprime
 tout le système en deux phrases qui pourraient tenir lieu de catéchisme au
 mouvement :
@@ -923,10 +875,7 @@ qui est aussi un protocole diplomatique, la plus ancienne promesse du livre le p
 ancien de la famille reformulée en projet d'infrastructure :
 
 {% library(book="the-book-which-tells-the-truth", chapter=6, verse=25) %}
-Lorsqu'ils seront assez nombreux et désireront assez intensément nous voir, sans
-mysticisme religieux, en hommes responsables mais respectueux de leurs créateurs,
-nous viendrons en plein jour et nous donnerons aux hommes de la Terre notre héritage
-scientifique.
+Quand ils seront assez nombreux et qu'ils auront assez intensément envie de nous voir, sans mysticisme religieux, en hommes responsables mais respectant leurs créateurs, nous viendrons au grand jour et nous donnerons aux hommes de la Terre notre héritage scientifique.
 {% end %}
 
 ## Pour aller plus loin

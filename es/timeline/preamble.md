@@ -6,7 +6,7 @@ template = "timeline-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-10-29"
+translation_updated = "2026-11-11"
 source_updated = "2026-10-29"
 translation_stale = false
 translation_sync = 100
@@ -35,7 +35,7 @@ references = [
     { title = "Dogon Restudied: A Field Evaluation of the Work of Marcel Griaule", author = "Walter E. A. van Beek", publication = "Current Anthropology 32 (2), 139-167", date = "1991", medium = "academic-paper", url = "https://pure.uvt.nl/ws/portalfiles/portal/1002365/dogonrestudied.pdf" },
     { title = "El cerebro de Broca: reflexiones sobre el apasionante mundo de la ciencia", author = "Carl Sagan", date = "1979", medium = "nonfiction-book", description = "Contiene el capítulo sobre la controversia Dogon-Sirio que cuestionó el origen difusionista de las afirmaciones astronómicas de los Nommo." },
     { title = "Investigating the Sirius Mystery", author = "Ian Ridpath", publication = "Skeptical Inquirer 3 (1), 56-62", date = "1978", medium = "academic-paper" },
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Raël)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Parque Jurásico", author = "Michael Crichton", date = "1990", medium = "fiction-book" },
     { title = "Jurassic Park", author = "Dirigida por Steven Spielberg; guion de Michael Crichton y David Koepp", date = "1993", medium = "movie" },

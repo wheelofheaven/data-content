@@ -30,8 +30,8 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "克劳德·沃利隆(雷尔)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "克劳德·沃利隆(雷尔)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "Le Livre qui dit la vérité", author = "克劳德·沃里隆(雷尔)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
+    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "克劳德·沃里隆(雷尔)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "创世记", author = "佚名(希伯来圣经);WoH 据点化马所拉希伯来文翻译", date = "约公元前 6–5 世纪", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "阿特拉哈西斯", author = "佚名(古巴比伦阿卡德语)", date = "约公元前 17 世纪", medium = "religious-text", path = "/library/atrahasis/", description = "古巴比伦的洪水叙事;与《创世记》6–9 章最接近的圣经前期对照文本。" },
     { title = "埃努玛·埃利什", author = "佚名(巴比伦)", date = "约公元前 12 世纪", medium = "religious-text", path = "/library/enuma-elish/" },
@@ -553,7 +553,7 @@ link = "/timeline/age-of-taurus/"
 
 第四,彩虹。{% libref(book="genesis-woh", chapter=9, verse=13) %}创世记 9:13{% end %}指明耶洛因把彩虹设在云中,作为约的记号。常规解读把这视为关于天气的应许——彩虹与雨相关联,如今也将与不再使洪水来到的应许相关联。本章前面已指出希伯来词 קֶשֶׁת(*keshet*)既指“彩虹”,也指“弓”(作为武器)。这种双重含义是关键的。在此种解读下,立约的姿态正是明确退役一件毁灭工具。曾对地施用过的弓,如今挂在云中,被搁下,不再被部署。可见的彩虹是被放下武器的可见信物。一种技术读法也是可得的:洪水后的大气本身——从该事件的残屑中被清理出来,并被重置到新的平衡——产生了我们如今所看到的彩虹格局。立约的记号在此种解读下,正是洪水后的大气本身,即一种可见的演示:条件已被重置,天的器具已被更新。
 
-弓也有一个天文学上的对应物。被搁下的 *keshet* 同时也是黄道带上与双子座正相对的那个星座——射手座,弓箭手,其标志正是拉开的弓。按文集的{% wiki(slug="doubled-signature") %}双重标记{% end %}解读,挪亚那个以双生子标记的双子座时代,携带著它自己的星座以及轮盘正对面的星座,恰如后来的诸时代那样——白羊座的公羊配天秤座的天平,金牛座的公牛配天蝎。双生子与弓,就是双子座时代在为自己署名:双子座与射手座,星座及其对立者。
+弓也有一个天文学上的对应物。被搁下的 *keshet* 同时也是黄道带上与双子座正相对的那个星座——射手座,弓箭手,其标志正是拉开的弓。按文集的{% wiki(slug="doubled-signature") %}双重署名{% end %}解读,挪亚那个以双生子标记的双子座时代,携带著它自己的星座以及轮盘正对面的星座,恰如后来的诸时代那样——白羊座的公羊配天秤座的天平,金牛座的公牛配天蝎。双生子与弓,就是双子座时代在为自己署名:双子座与射手座,星座及其对立者。
 
 该记号对联盟双方都可见——流亡造物者与人类幸存者,在新大陆之上的共同天空中——这与其作为他们之间私下立约的信物之功能一致,而不是仅指向单一神圣方的记号。
 

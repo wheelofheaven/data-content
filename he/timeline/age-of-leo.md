@@ -28,7 +28,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "קלוד וורילון (ראל)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "קלוד וורילון (ראל)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "קלוד וורילון (ראל)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "בראשית", author = "אנונימי (התנ״ך); תרגום WoH מהעברית המסורתית הנקודה", date = "המאות 6–5 לפנה״ס בערך", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "The Apportionment of Human Diversity", author = "ריצ׳רד ק. לבונטין", publication = "Evolutionary Biology 6, 381–398", date = "1972", medium = "academic-paper", description = "הממצא הקלאסי ש־כ־85% מהשונות הגנטית האנושית היא בתוך אוכלוסיות, ורק כ־15% ביניהן." },

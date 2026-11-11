@@ -27,7 +27,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité (진실을 말하는 책)", author = "클로드 보리용 (라엘)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité (진실을 말하는 책)", author = "클로드 보리용 (라엘)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète (외계인들이 나를 그들의 행성으로 데려갔다)", author = "클로드 보리용 (라엘)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Intelligent Design: Message from the Designers (지적 설계: 설계자들의 메시지)", author = "클로드 보리용 (라엘)", date = "2005", medium = "religious-text", description = "라엘리안 기초 문헌의 영어판 통합본; 1946년을 물병자리 개막으로 읽는 해석과 대사관 명령의 출처." },
     { title = "스바냐서", author = "익명 (히브리어 성경)", date = "기원전 7세기경", medium = "religious-text", path = "/library/zephaniah/", description = "§II에서 인용된 '물고기 문에서 부르짖는 소리' 전환 신호의 출처." },

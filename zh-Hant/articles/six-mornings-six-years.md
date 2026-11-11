@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-01"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-01"
 translation_stale = false
 translation_sync = 100
@@ -18,7 +18,7 @@ category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 summary = "雷爾派正典是在六個早晨與一個十月的夜裡被接收的，又在六年之間——1973、1975、1979——被釋出；而那位講話者，自第一句話到最後一句話，始終握著他自己這場啟示的編輯權。這篇解說把三本源典讀作單一的連載口授，並在它們身上施行它們自己那場奠基場景所演示的學科：話語分析（誰在說、對誰說、在哪裡說、受什麼約束）與文本批判（我們所收到的文本，就其傳承透露了什麼）。它校正了多數摘要所模糊掉的地理——羅克普拉、一座近地觀測站、永恆者的行星，以及一顆被提及卻從未被造訪的母星；而這樁混淆，第二本書自己的書名就犯了。它記錄下那套披露控制系統：名字被扣住、又按時支付，距離在第一天被許諾、到第五天才交付，一道為期三年的禁令直到解除之時才被宣告，以及一套修補教義，把每一個錯誤都歸給抄錄者、歸給教學法、或歸給禁令——從不歸給源頭。接著它誠實地朝兩個方向施行那場偽造者的考核：那些跨越六年而站得住的算術（25 具身體 × 1,000 年；666 × 20；第 31 年、第 34 年），以及那些在證明文本的壓力下彎折的數字（一個七百人的議會，在啟示錄第四章攤開在桌上的那一刻變成了二十四位長老；一個沒有人記得的兩萬兩千）。這份裁決並不是對那場相遇的裁決。它所展示的是：這部正典乃是一座活的實驗室，供那門通常施行於冷卻了兩千年之文本上的語文學使用——而且它一再回報這樣的細讀。"
-keywords = ["文本批判", "話語分析", "啟示性話語", "編修批判", "連載啟示", "披露控制", "真實之書", "外星人把我帶到他們的星球", "歡迎外星人", "永恆者的行星", "耶洛因母星", "觀測站", "禁令", "MADECH", "正典形成", "調和", "化石化的訂正", "教義和聖約", "約瑟·斯密文獻集", "naskh", "Susan Palmer", "Jean Sendy", "Dhorme", "apparatus criticus", "敘事學", "聚焦"]
+keywords = ["文本批判", "話語分析", "啟示性話語", "編修批判", "連載啟示", "披露控制", "訴說真相之書", "外星人帶我到他們的行星", "歡迎外星人", "永恆者的行星", "耶洛因母星", "觀測站", "禁令", "MADECH", "正典形成", "調和", "化石化的訂正", "教義和聖約", "約瑟·斯密文獻集", "naskh", "Susan Palmer", "Jean Sendy", "Dhorme", "apparatus criticus", "敘事學", "聚焦"]
 references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶44: the publication instruction; ¶47: 'and even before'; ¶51–53: the deferred distance and the deflected name); Chapter 2 (¶3: corpus gating; ¶92: the departure colors); Chapter 5 (¶4: the twenty-two thousand years; ¶52–53: the parasang distances and the optical window); Chapter 6 (¶26: the no-proof doctrine; ¶29: the movement's name); Chapter 7 (¶16: 'six days in a row'; ¶30–56: eternals, council, and the president's twenty-five thousand years; ¶68: the residence)" },
@@ -57,7 +57,7 @@ footnotes = [
 +++
 
 雷爾派正典的第二本書，最常被誤讀的，正是它自己的書名。1975 年出版的
-*《外星人把我帶到他們的星球》*，所敘述的是一趟從未抵達耶洛因行星的旅程。
+*《外星人帶我到他們的行星》*，所敘述的是一趟從未抵達耶洛因行星的旅程。
 10 月 7 日午夜稍後在羅克普拉接走{% wiki(slug="rael") %}雷爾{% end %}的那艘
 飛行器，先是把他載到一座「位置相對靠近地球」的基地，而整個第一段教學，都是
 在一頂透明穹頂與一片綴滿星辰的黑色天空底下傳授的。接著，第二艘更大的飛行器
@@ -79,9 +79,9 @@ footnotes = [
 資料。
 
 此處的對象，是那三本正典之書——
-[*真實之書*](/library/the-book-which-tells-the-truth/)
+[*訴說真相之書*](/library/the-book-which-tells-the-truth/)
 （1973 年，1974 年出版）、
-[*外星人把我帶到他們的星球*](/library/extraterrestrials-took-me-to-their-planet/)
+[*外星人帶我到他們的行星*](/library/extraterrestrials-took-me-to-their-planet/)
 （1975）與
 [*歡迎外星人*](/library/lets-welcome-the-extraterrestrials/)
 （1979）；以下簡稱 TBWTT、ETTMTTP、LWTE——把它們讀作一份連載的文本，並動用
@@ -363,7 +363,7 @@ footnotes = [
 定在 1945 年 12 月 25 日的受孕，一位「似乎是猶太難民」的父親
 （{% libref(book="extraterrestrials-took-me-to-their-planet", chapter=1, verse=7) %}ETTMTTP 1:7{% end %}）
 ——而它在第三本書中引爆：那場父系認定的場景*帶著頁碼引註*把它引了回來
-（「參見《真實之書》第 8 頁」，
+（「參見《訴說真相之書》第 8 頁」，
 {% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=79) %}LWTE 2:79{% end %}），
 然後才把它解開：在一艘飛行器上進行的人工授精、記憶的抹除，以及一位刻意選自
 與母親不同宗教的養父。這三個資料點，出版時間相隔四年與六年，卻榫接得嚴絲

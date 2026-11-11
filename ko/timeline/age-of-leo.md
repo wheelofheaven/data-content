@@ -28,7 +28,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "창세기", author = "익명 (히브리어 성경); 모음 부호가 표기된 마소라 히브리어에서 WoH 번역", date = "기원전 6~5세기경", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "인간 다양성의 분배 (The Apportionment of Human Diversity)", author = "Richard C. Lewontin", publication = "Evolutionary Biology 6, 381–398", date = "1972", medium = "academic-paper", description = "인간 유전 변이의 약 85%가 집단 내에 있고, 집단 간에는 약 15%만 존재한다는 고전적 발견." },

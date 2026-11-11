@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -28,7 +28,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "創世記", author = "佚名(希伯來聖經);WoH 由附音點的馬所拉希伯來文譯出", date = "約公元前 6–5 世紀", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "A Hebrew and English Lexicon of the Old Testament", author = "Francis Brown, S. R. Driver, and Charles A. Briggs", date = "1906", medium = "nonfiction-book", description = "BDB 詞典。第 V 節討論 tannin / taninim 條目的來源。" },

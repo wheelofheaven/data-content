@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -30,7 +30,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Intelligent Design: Message from the Designers", author = "Claude Vorilhon (Rael)", date = "2005", medium = "religious-text", description = "L'édition consolidée en anglais des textes fondateurs raëliens ; l'introduction de 2005 présente explicitement les travaux alors récents de Venter sur la cellule synthétique comme une démonstration de la thèse raëlienne." },
     { title = "Genèse", author = "Anonyme (Bible hébraïque) ; traduction WoH à partir de l'hébreu massorétique ponctué", date = "vers le VIe–Ve s. av. J.-C.", medium = "religious-text", path = "/library/genesis-woh/" },

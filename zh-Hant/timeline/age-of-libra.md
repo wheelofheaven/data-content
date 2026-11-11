@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -28,7 +28,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Raël)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "創世記", author = "佚名(希伯來聖經);WoH 譯自馬所拉標音希伯來文", date = "約公元前 6–5 世紀", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth", author = "Giorgio de Santillana 與 Hertha von Dechend", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/", description = "對歲差架構的跨文化重建——本章繼承並延伸了此一架構。" },
@@ -165,7 +165,7 @@ link = "/timeline/age-of-virgo/"
 
 黃道符號本身——白羊、金牛、雙子、巨蟹、獅子、處女、天秤、天蠍、射手、摩羯、水瓶、雙魚——依本文集的解讀,是耶洛因自己的命名,或其直接前身。將特定動物與人類形象映射到十二星座,並非後來的人類文化憑空發明。它是那些文化從本文集後續章節將追溯的途徑所傳遞之天文知識中繼承並加以修改而來的。在天秤座,這些形象是新的;它們是設計者自身對黃道十二分段的概念簡寫,以天蠍座章節所主張的耶洛因科學家—藝術家合作在其所接觸的一切中產生的審美嚴肅性而選定。命名不會是任意的。它們應被選擇以喚起設計者與每一分段相關聯的特定特質——這些特質,在計畫的長弧線中,會逐漸與每一時代所進行的工作產生關聯。那些關聯是從一開始就被預期,還是隨計畫進展而累積,這個問題資料並未回答。
 
-黃道的對立配對結構值得特別注意,因為這是本文集後續章節將詳加發展的特徵,值得在此首先給予技術性論述。十二個符號中的每一個,在黃道另一側都有一個相對的符號:白羊對天秤、金牛對天蠍、雙子對射手、巨蟹對摩羯、獅子對水瓶、處女對雙魚。這些配對並非映射的人為產物。它們是幾何的結果——任何將圓圈劃分為十二等分段的劃分,都會產生六個對立配對,每對相隔六個符號——但耶洛因在為每個符號選擇形象時,似乎注意到了這些對立,並選擇了在配對之間意義相互補的形象。白羊與天秤:公羊與天秤,衝動與平衡。金牛與天蠍:公牛與蠍子,生與死。巨蟹與摩羯:螃蟹與山羊,情感的家與結構化的頂峰。配對結構是黃道最具特色的特徵之一,並支撐著本文集稍後將稱之為*{% wiki(slug="doubled-signature") %}雙重簽名{% end %}原則*——觀察到計畫中重要事件往往同時帶有給定配對中兩個符號的占星印記,而不僅是當前被春分占據的那個。對天秤座工作本身而言,與白羊的配對直接相關:在天秤座所建立的平衡,將在很晚的時代,接受發生於白羊座下的律法與盟約工作的考驗。這兩個符號是單一軸的兩端,而該軸本身就是計畫用以組織其自身長年代學的工具之一。
+黃道的對立配對結構值得特別注意,因為這是本文集後續章節將詳加發展的特徵,值得在此首先給予技術性論述。十二個符號中的每一個,在黃道另一側都有一個相對的符號:白羊對天秤、金牛對天蠍、雙子對射手、巨蟹對摩羯、獅子對水瓶、處女對雙魚。這些配對並非映射的人為產物。它們是幾何的結果——任何將圓圈劃分為十二等分段的劃分,都會產生六個對立配對,每對相隔六個符號——但耶洛因在為每個符號選擇形象時,似乎注意到了這些對立,並選擇了在配對之間意義相互補的形象。白羊與天秤:公羊與天秤,衝動與平衡。金牛與天蠍:公牛與蠍子,生與死。巨蟹與摩羯:螃蟹與山羊,情感的家與結構化的頂峰。配對結構是黃道最具特色的特徵之一,並支撐著本文集稍後將稱之為*{% wiki(slug="doubled-signature") %}雙重署名{% end %}原則*——觀察到計畫中重要事件往往同時帶有給定配對中兩個符號的占星印記,而不僅是當前被春分占據的那個。對天秤座工作本身而言,與白羊的配對直接相關:在天秤座所建立的平衡,將在很晚的時代,接受發生於白羊座下的律法與盟約工作的考驗。這兩個符號是單一軸的兩端,而該軸本身就是計畫用以組織其自身長年代學的工具之一。
 
 星座以兩種具體方式為計畫所用。第一,它們是參考網格。太陽相對於星座的位置告訴科學家現在是回歸年的哪一個月,由此得知是什麼季節、預期的日溫範圍、光照水平、其生物應處於年週期的哪一階段。在射手座的大氣工作使天空可從地表可靠地被觀測之前,這個參考網格不會自地面可用;在那之後,則可用。天秤座是參考網格被形式化、命名、編目並整合到計畫運作詞彙的時代。
 

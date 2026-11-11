@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -50,7 +50,7 @@ note = "赫西俄德的《工作與時日》——框架與歲差大年並讀的
 
 [[extra.references]]
 id = "the-book-which-tells-the-truth"
-note = "沃里勒翁的第一部雷爾運動著作(1974)——框架將耶洛因計畫約 25,000 年的跨度讀為約一個大年的主要來源。"
+note = "沃里隆的第一部雷爾運動著作(1974)——框架將耶洛因計畫約 25,000 年的跨度讀為約一個大年的主要來源。"
 
 [extra.infobox]
 type = "完整的歲差週期;春分點沿黃道完整循行一周"

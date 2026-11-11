@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -280,5 +280,5 @@ footnotes = [
 - {% wiki(slug="forerunners") %}先驅者{% end %}與
   {% wiki(slug="cosmic-pluralism") %}宇宙多元論{% end %}詞條，可讀到那套不需要
   第一位造者便回答了休謨之回溯的設計者鏈本體論。
-- [*《真實之書》*](/library/the-book-which-tells-the-truth/)，第 2 章，可讀到
+- [*《訴說真相之書》*](/library/the-book-which-tells-the-truth/)，第 2 章，可讀到
   全文所引正典關於實驗室創造的說法。

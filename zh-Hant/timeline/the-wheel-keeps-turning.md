@@ -7,7 +7,7 @@ weight = 270
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -22,9 +22,9 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité (講真話的書)", author = "Claude Vorilhon (雷爾)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète (外星人帶我去他們的星球)", author = "Claude Vorilhon (雷爾)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
-    { title = "Intelligent Design: Message from the Designers (智慧設計:來自設計者的訊息)", author = "Claude Vorilhon (雷爾)", date = "2005", medium = "religious-text", description = "英文合訂版;§I 碎形宇宙論與 §V 四層次道德框架的主要來源。" },
+    { title = "Le Livre qui dit la vérité (訴說真相之書)", author = "克勞德·沃里隆 (雷爾)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
+    { title = "Les Extra-Terrestres m'ont emmené sur leur planète (外星人帶我到他們的行星)", author = "克勞德·沃里隆 (雷爾)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "Intelligent Design: Message from the Designers (智慧設計:來自設計者的訊息)", author = "克勞德·沃里隆 (雷爾)", date = "2005", medium = "religious-text", description = "英文合訂版;§I 碎形宇宙論與 §V 四層次道德框架的主要來源。" },
     { title = "創世記", author = "佚名(希伯來聖經);Wheel of Heaven 根據加注馬所拉希伯來文進行的翻譯", date = "約公元前 6–5 世紀", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (哈姆雷特之磨:探究人類知識起源及其通過神話傳遞的論文)", author = "Giorgio de Santillana 與 Hertha von Dechend", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/", description = "歲差框架的跨文化重建——語料庫十二時代體系的結構骨幹。" },
     { title = "Qur'anic Geography (古蘭經地理學)", author = "Dan Gibson", date = "2011", medium = "nonfiction-book" },
@@ -78,7 +78,7 @@ link = "/timeline/age-of-aquarius/"
 
 值得標出一項區分。雷爾*運動*是從接觸發展而來的宗教組織,並推進著{% wiki(slug="embassy") %}大使館{% end %}計畫及相關的制度基礎建設。語料庫汲取運動所保存的來源材料,但並不背書其每一項制度立場。在此具體意義上,它是一個受雷爾運動影響的計畫,而非一個雷爾主義的計畫。透鏡並不要求運動成員資格,而運動也不是透鏡。
 
-透鏡提出實質性的要求。它要求讀者認真對待落在既定知識論共識之外的主張——外星人接觸、對聖經奇蹟的技術性讀法、人類歷史的歲差結構化。它要求讀者將宗教傳統讀作保存著真實內容,而非僅僅是文化產物。它還要求讀者將框架擴展到來源明示之外:哈姆雷特之磨{{ cite(id="5") }} 整合、雙重簽章讀法、政治–結構重建,以及語料庫跨越其各章節所建構的特定希伯來文文本讀法,皆是來源本身僅暗示的詮釋工作。採用此透鏡的讀者就是隱含地同意將其作為一個運作中的框架,而非一份固定的遺產。
+透鏡提出實質性的要求。它要求讀者認真對待落在既定知識論共識之外的主張——外星人接觸、對聖經奇蹟的技術性讀法、人類歷史的歲差結構化。它要求讀者將宗教傳統讀作保存著真實內容,而非僅僅是文化產物。它還要求讀者將框架擴展到來源明示之外:哈姆雷特之磨{{ cite(id="5") }} 整合、雙重署名讀法、政治–結構重建,以及語料庫跨越其各章節所建構的特定希伯來文文本讀法,皆是來源本身僅暗示的詮釋工作。採用此透鏡的讀者就是隱含地同意將其作為一個運作中的框架,而非一份固定的遺產。
 
 要求是實質性的。它們所換得的是真正新的東西——一份連貫整合的論述,而替代框架尚未產生,且依語料庫的判斷亦無法產生。
 
@@ -136,7 +136,7 @@ link = "/timeline/age-of-aquarius/"
 
 *哈姆雷特之磨整合。* Giorgio de Santillana 與 Hertha von Dechend 於 1969 年的研究主張,歲差天文學週期是古代神話組織所環繞的結構框架。該論點在主流學術界中存在爭議;語料庫已接受它作為聯盟在地球工作所組織所環繞的結構框架。來源辨識出某些特定的歲差指涉,但並未發展出語料庫所建構的完整十二時代框架。
 
-*雙重簽章讀法。* 語料庫已應用哈姆雷特之磨的觀察,即歲差時代通常將其簽章編碼於當前星座及其在黃道帶對面之中:雙魚座–處女座代表基督教時代、白羊座–天秤座代表摩西時期、金牛座–天蠍座代表亞伯拉罕重建、水瓶座–獅子座代表當前時代。該讀法不在來源中。
+*雙重署名讀法。* 語料庫已應用哈姆雷特之磨的觀察,即歲差時代通常將其簽章編碼於當前星座及其在黃道帶對面之中:雙魚座–處女座代表基督教時代、白羊座–天秤座代表摩西時期、金牛座–天蠍座代表亞伯拉罕重建、水瓶座–獅子座代表當前時代。該讀法不在來源中。
 
 *特定希伯來文文本分析。* 來源提供了某些關鍵讀法——耶洛因作為複數、*bara* 作為指定、拿非利人作為聯盟–人類混血——但語料庫已實質地擴展了它們:西奈山上的 *karan* 介於角與光線之間的模糊性、*tannin* 作為天界之戰的記憶、辨識先知文學中聯盟接觸事件的動詞模式、創世記中編修層次的文本簽章。
 

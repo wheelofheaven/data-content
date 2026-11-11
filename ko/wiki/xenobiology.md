@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -156,7 +156,7 @@ d5SICS–dNaM을 유지하고 복제하여 그 DNA에 여섯 글자 알파벳을
 ## 일차 원천에서
 
 창조된 생명의 재료에 관한 정경의 진술은 적으며, 그것들은 보고입니다. 『진실을
-말하는 책』(1974)과 『외계인이 나를 그들의 행성으로 데려갔다』(1975)의
+말하는 책』(1974)과 『외계인들이 나를 그들의 행성으로 데려갔다』(1975)의
 구술된 메시지, 그리고 『외계인들을 환영하자』(1979)에 있는 라엘 자신의
 해설입니다. 아래 인용은 프랑스어 원문에서 가져온 것입니다.
 

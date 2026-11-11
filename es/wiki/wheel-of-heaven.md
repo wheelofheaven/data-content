@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -348,7 +348,7 @@ Vorilhon, Claude (Raël). *El libro que dice la verdad* (1974); reunido en *Mens
 
 Vorilhon, Claude (Raël). *Los extraterrestres me llevaron a su planeta* (1975); reunido en *Mensaje de los Diseñadores*.
 
-Vorilhon, Claude (Raël). *Recibamos a los extraterrestres* (1979); reunido en *Mensaje de los Diseñadores*.
+Vorilhon, Claude (Raël). *Acojamos a los extraterrestres* (1979); reunido en *Mensaje de los Diseñadores*.
 
 Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005. La compilación reunida de las fuentes.
 

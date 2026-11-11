@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -30,7 +30,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "קלוד וורילון (ראל)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "קלוד וורילון (ראל)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "קלוד וורילון (ראל)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Intelligent Design: Message from the Designers", author = "קלוד וורילון (ראל)", date = "2005", medium = "religious-text", description = "המהדורה המאוחדת באנגלית של הטקסטים היסודיים של הראליזם; ההקדמה משנת 2005 ממסגרת במפורש את עבודת התא הסינתטי של ונטר באותה עת כהדגמה של התזה הראלית." },
     { title = "בראשית", author = "אנונימי (התנ\"ך העברי); תרגום WoH מן הטקסט המסורתי המנוקד", date = "המאה ה־6–5 לפנה\"ס", medium = "religious-text", path = "/library/genesis-woh/" },

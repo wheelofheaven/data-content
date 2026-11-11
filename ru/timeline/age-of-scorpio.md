@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -30,7 +30,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité (Книга, которая говорит правду)", author = "Клод Ворийон (Раэль)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité (Книга, которая говорит правду)", author = "Клод Ворийон (Раэль)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète (Инопланетяне забрали меня на свою планету)", author = "Клод Ворийон (Раэль)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Intelligent Design: Message from the Designers (Разумный замысел: послание от создателей)", author = "Клод Ворийон (Раэль)", date = "2005", medium = "religious-text", description = "Англоязычное сводное издание основополагающих раэлианских текстов; введение 2005 года прямо представляет тогдашнюю работу Вентера по синтетическим клеткам как демонстрацию раэлианского тезиса." },
     { title = "Бытие", author = "Аноним (Еврейская Библия); перевод WoH с огласованного масоретского древнееврейского", date = "ок. VI–V вв. до н. э.", medium = "religious-text", path = "/library/genesis-woh/" },

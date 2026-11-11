@@ -130,7 +130,7 @@ al-Samman 的农夫挖出一只封存的陶罐，从中发现了十三部皮面�
 一直埋藏于此。{{ footnote(id="7") }}大约一年之内，库姆兰的陶罐交出了最初的
 书卷。1946 年 9 月 30 日，Claude Vorilhon——即日后的{% wiki(slug="rael") %}雷尔{% end %}——
 诞生；第一封讯息谈到这一时机时说，「如果你生于 1946 年，那绝非偶然」
-（{% libref(book="the-book-which-tells-the-truth", chapter=5, verse=7) %}《揭示真相之书》 5:7{% end %}）。
+（{% libref(book="the-book-which-tells-the-truth", chapter=5, verse=7) %}《讲述真相之书》 5:7{% end %}）。
 1947 年 6 月，一位名叫 Kenneth Arnold 的私人飞行员描述雷尼尔山上空有九个物体，
 移动起来「就像你把一只碟子擦着水面掷出去那样」，媒体由此造出了为
 {% wiki(slug="ufology") %}现代接触时代{% end %}命名的那个词；罗斯威尔事件在两周
@@ -370,7 +370,7 @@ Cross 那句针对另一种可能的著名论断至今仍撑着整个论证：�
 终局即是错误一方那些子孙的毁灭。而正典把启示读作*揭幕*——即那些古老文本变得可作为
 记录被读懂的时代，其所要求的建筑，不是一处沙漠据点，而是为一场{% wiki(slug="great-return") %}归来{% end %}
 所建的{% wiki(slug="embassy") %}大使馆{% end %}（那些炸弹，
-{% libref(book="the-book-which-tells-the-truth", chapter=7, verse=5) %}《揭示真相之书》 7:5–6{% end %}，
+{% libref(book="the-book-which-tells-the-truth", chapter=7, verse=5) %}《讲述真相之书》 7:5–6{% end %}，
 仍然是这个时代所声明的危险，而非它的工具）。一个运动把它的图书馆封进陶罐，以抵御它
 那个世界的终结。另一个运动则提议要建造一座宾馆。在对同一确信——即时代已然转折——的这两种
 回应之间，横亘着本文集所在意的大部分道德距离。
@@ -461,5 +461,5 @@ Collins 借一则民间故事来描述他的题材：书卷的传记「有几分
   神圣议会学术。
 - [最早的清真寺朝向佩特拉，而非麦加](/articles/the-first-mosques-faced-petra-not-mecca/)，
   了解同一条沙漠走廊此后的历史。
-- [*揭示真相之书*](/library/the-book-which-tells-the-truth/)第 1 与第 5 章，
+- [*讲述真相之书*](/library/the-book-which-tells-the-truth/)第 1 与第 5 章，
   了解本文通篇所引用的关于 1945、1946 与新纪元的正典段落。

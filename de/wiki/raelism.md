@@ -378,7 +378,7 @@ Der Wheel-of-Heaven-Rahmen — der interpretative Beitrag des Korpus — untersc
 
 - er stützt sich auf das Werk von Jean Sendy,{{ cite(id="those-gods-who-made-heaven-and-earth", text="[7]", title="Sendy, *Ces dieux qui firent le ciel et la terre* / *Those Gods Who Made Heaven and Earth* (1969/1972)") }} den astronomisch-mythologischen Rahmen von *Hamlet's Mill*, Mauro Biglinos streng übersetzungsgetreue Lesart der hebräischen Bibel,{{ cite(id="the-bible-is-not-a-sacred-book", text="[8]", title="Biglino, streng wörtliche Reihe zur hebräischen Bibel (ab 2010)") }} Paul Anthony Wallis' allianzvermittelte Geschichte{{ cite(id="escaping-from-eden", text="[9]", title="Wallis, *Escaping from Eden* (2020) und nachfolgende vergleichend-keilschriftliche Bände") }} und weitere Quellen jenseits des raëlianischen Materials
 - er arbeitet den Rahmen der zwölf präzessionalen Zeitalter aus, den das raëlianische Material nur andeutet
-- er wendet das Prinzip der Doppelten Signatur systematisch über die zwölf Zeitalter an, was das raëlianische Material nicht tut
+- er wendet das Prinzip der doppelten Signatur systematisch über die zwölf Zeitalter an, was das raëlianische Material nicht tut
 - er befasst sich mit interkulturellem Vergleichsmaterial, mit dem sich das raëlianische Material nicht befasst
 - er ist operativ unabhängig von der institutionellen Struktur der Bewegung
 

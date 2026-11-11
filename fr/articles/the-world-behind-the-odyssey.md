@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -637,7 +637,7 @@ entretenaient des installations, et la Grèce est nommée — sa mythologie éta
 caractérisée comme un témoignage :
 
 {% library(book="the-book-which-tells-the-truth", chapter=5, verse=54) %}
-La Kabbale est le livre le plus proche de la vérité, mais presque tous les livres religieux font allusion à nous de façon plus ou moins claire, surtout dans les pays où les créateurs avaient des bases : dans la cordillère des Andes, dans l'Himalaya, en Grèce où la Mythologie contient aussi de grands témoignages, la religion bouddhiste, l'islamique, les Mormons — il faudrait des pages pour citer toutes les religions et sectes qui témoignent de façon plus ou moins obscure de notre œuvre.
+La Kabbale est le livre le plus proche de la vérité mais presque tous les livres religieux font allusion à nous plus ou moins clairement, surtout dans les pays où les créateurs avaient des bases : dans la cordillère des Andes, dans l'Himalaya, en Grèce où la Mythologie contient aussi de grands témoignages, la religion Bouddhiste, Islamique, les Mormons, il faudrait des pages pour citer toutes les religions et sectes qui témoignent d'une façon plus ou moins obscure de notre œuvre.
 {% end %}
 
 Selon le récit du canon, donc, la mythologie grecque n'est pas un pays étranger à

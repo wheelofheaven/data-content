@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-01"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-01"
 translation_stale = false
 translation_sync = 100
@@ -18,7 +18,7 @@ category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 summary = "雷尔正典是在六个清晨与一个十月之夜里领受的，又在六年之间——1973、1975、1979——分期发布，而发布者自第一句到最后一句始终掌握着自己那份启示的编辑权。这篇解说把三部源始之书读作一次连载式的口授，并以它们自己的奠基场景所演示的那些学科来处理它们：话语分析（谁在说、对谁说、在哪里说、受何种约束）与文本批评（那份传世文本就其传递过程所显露的一切）。它厘清了多数摘要含混带过的地理——洛普拉、一座近地观测站、永恒者的行星，以及一个被提及却从未踏足的故乡行星；这一混同，第二本书的书名自己就犯了。它记录下那套披露控制系统：名字被扣住，再按时兑付；距离在第一天获得允诺，到第五天才交付；一道三年的禁令只在解禁之际才被宣布；还有一套修复教义，把每一个错误都归给抄写者、归给教学法、或归给禁令——从不归给来源。随后它诚实地在两个方向上进行那场伪造者审查：横跨六年而稳固的算术（25 具身体 × 1,000 年；666 × 20；第 31 年、第 34 年），以及在引证文本压力下弯折的数字（一个七百人的议会，在启示录第 4 章摊开在案头的那一刻变成二十四位长老；一个无人记得的两万两千）。这里给出的裁断并不是对那场相遇的裁断。它是一次示范：这部正典是一座活的实验室，供人施展通常只用在冷却了两千年的文本上的语文学——而它一再回报这样的细读。"
-keywords = ["文本批评", "话语分析", "启示性话语", "编修批评", "连载式启示", "披露控制", "真实之书", "外星人带我去他们的行星", "欢迎外星人", "永恒者的行星", "耶洛因故乡行星", "观测站", "禁令", "MADECH", "正典形成", "调和", "化石化的修正", "教义和圣约", "约瑟·斯密文献集", "naskh", "苏珊·帕尔默", "让·桑迪", "多尔姆", "校勘附录", "叙事学", "聚焦"]
+keywords = ["文本批评", "话语分析", "启示性话语", "编修批评", "连载式启示", "披露控制", "讲述真相之书", "外星人带我去他们的行星", "让我们欢迎外星人", "永恒者的行星", "耶洛因故乡行星", "观测站", "禁令", "MADECH", "正典形成", "调和", "化石化的修正", "教义和圣约", "约瑟·斯密文献集", "naskh", "苏珊·帕尔默", "让·桑迪", "多尔姆", "校勘附录", "叙事学", "聚焦"]
 references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶44: the publication instruction; ¶47: 'and even before'; ¶51–53: the deferred distance and the deflected name); Chapter 2 (¶3: corpus gating; ¶92: the departure colors); Chapter 5 (¶4: the twenty-two thousand years; ¶52–53: the parasang distances and the optical window); Chapter 6 (¶26: the no-proof doctrine; ¶29: the movement's name); Chapter 7 (¶16: 'six days in a row'; ¶30–56: eternals, council, and the president's twenty-five thousand years; ¶68: the residence)" },
@@ -78,11 +78,11 @@ footnotes = [
 书里，这唯一一次失口，正是本文存在的目的所要采集的那类材料。
 
 本文的对象是三部正典之书——
-[*真实之书*](/library/the-book-which-tells-the-truth/)
+[*讲述真相之书*](/library/the-book-which-tells-the-truth/)
 （1973 年领受，1974 年出版）、
 [*外星人带我去他们的行星*](/library/extraterrestrials-took-me-to-their-planet/)
 （1975）与
-[*欢迎外星人*](/library/lets-welcome-the-extraterrestrials/)
+[*让我们欢迎外星人*](/library/lets-welcome-the-extraterrestrials/)
 （1979）；以下分别简称 TBWTT、ETTMTTP、LWTE——把它们当作一个连载文本
 来读，所用的工具，则是通常只留给冷却了两千年的经典的那些。有两门学科
 在此做工。第一门是叙事学形态的话语分析：谁在说、对谁说、在哪里说、
@@ -370,7 +370,7 @@ ETTMTTP 3:193 的那段冥想指示把前两者严格区分开来。3:216 处的
 受孕日期定在 1945 年 12 月 25 日，一位「据说是犹太难民」的父亲
 （{% libref(book="extraterrestrials-took-me-to-their-planet", chapter=1, verse=7) %}ETTMTTP 1:7{% end %}）
 ——而它在第三本书中引爆：父子相认的场景把它*连同页码出处一起*引了
-回来（「参见《真实之书》第 8 页」，
+回来（「参见《讲述真相之书》第 8 页」，
 {% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=79) %}LWTE 2:79{% end %}），
 随后予以了断：在一艘飞行器上完成的授精、记忆抹除、以及从与母亲不同
 宗教中挑选出的养父。这三个相隔四年与六年刊出的数据点严丝合缝——连

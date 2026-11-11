@@ -284,7 +284,7 @@ summary = "Брендовые материалы, шаблонные текст�
 <div class="press-og-grid">
 <img src="https://assets.wheelofheaven.world/images/og/en/wiki/elohim.jpg" alt="Вики: Элохим" loading="lazy">
 <img src="https://assets.wheelofheaven.world/images/og/en/timeline/age-of-aquarius.jpg" alt="Хроника: Эпоха Водолея" loading="lazy">
-<img src="https://assets.wheelofheaven.world/images/og/en/library/the-book-which-tells-the-truth.jpg" alt="Библиотека: Книга, рассказывающая правду" loading="lazy">
+<img src="https://assets.wheelofheaven.world/images/og/en/library/the-book-which-tells-the-truth.jpg" alt="Библиотека: Книга, которая говорит правду" loading="lazy">
 <img src="https://assets.wheelofheaven.world/images/og/en/articles/example-explainer.jpg" alt="Пример статьи" loading="lazy">
 <img src="https://assets.wheelofheaven.world/images/og/en/news/pursue-release-01-uap-files.jpg" alt="Новостная сводка" loading="lazy">
 <img src="https://assets.wheelofheaven.world/images/og/de/library/the-book-which-tells-the-truth.jpg" alt="Запись библиотеки на немецком" loading="lazy">

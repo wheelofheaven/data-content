@@ -28,7 +28,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "创世记（Genesis）", author = "佚名（希伯来圣经）；WoH 据点元音的马所拉希伯来文翻译", date = "公元前6至5世纪", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "The Apportionment of Human Diversity", author = "Richard C. Lewontin", publication = "Evolutionary Biology 6, 381–398", date = "1972", medium = "academic-paper", description = "经典发现：约85%的人类遗传变异存在于种群内部，仅约15%存在于种群之间。" },

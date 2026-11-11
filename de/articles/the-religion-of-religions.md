@@ -317,8 +317,8 @@ Religionen, die in einer privaten Offenbarung beginnen, neigen dazu, den
 Status des Gründers in Etappen zu erhöhen, und der raëlianische Kanon
 vollzieht seine Eskalation in aller Öffentlichkeit, Buch um Buch, was ihn zu
 ungewöhnlich gutem Material für die Betrachtung dieses Vorgangs macht. Im
-ersten Buch ist Raël ein Stenograph mit einer Mission. Im zweiten — *Die
-Außerirdischen nahmen mich mit auf ihren Planeten*, 1975 veröffentlicht, nach
+ersten Buch ist Raël ein Stenograph mit einer Mission. Im zweiten — *Außerirdische
+brachten mich auf ihren Planeten*, 1975 veröffentlicht, nach
 dem, was der Kanon als zweite Begegnung am 7. Oktober 1975
 datiert{{ footnote(id="5") }} — wird er auf die Heimatwelt gebracht, und die
 Erzählung liefert die Szene, die die Einordnungsfrage dieses Artikels leise
@@ -370,7 +370,7 @@ sterblich sind und deren Jenseits eine Laborprozedur ist. Der Kanon erfährt
 dies nicht als Spannung, und die Rhetorik der Passage — „Ich bestehe darauf“ —
 zeigt, dass er weiß, der Leser wird es tun.
 
-Das dritte Buch vollendet die Eskalation. In *Begrüßen wir die Außerirdischen*
+Das dritte Buch vollendet die Eskalation. In *Empfangen wir die Außerirdischen*
 (1979) enthüllt Jahwe die Vaterschaft des Boten:
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=85) %}
@@ -981,9 +981,8 @@ Erde unser wissenschaftliches Erbe geben.
   setzte*](/articles/the-man-who-bet-the-bible-on-the-moon/), für die
   Provenienzprüfungen der französischen Quellen des Kanons.
 - [*Das Buch, das die Wahrheit
-  sagt*](/library/the-book-which-tells-the-truth/) und [*Die Außerirdischen
-  nahmen mich mit auf ihren
-  Planeten*](/library/extraterrestrials-took-me-to-their-planet/), für die
+  sagt*](/library/the-book-which-tells-the-truth/) und [*Außerirdische brachten
+  mich auf ihren Planeten*](/library/extraterrestrials-took-me-to-their-planet/), für die
   durchgehend gelesenen Primärerzählungen — und die Übersetzungen der
   [*Verborgenen Worte*](/library/hidden-words-woh/),
   des [*Oomoto Shin'yu*](/library/oomoto-shinyu-woh/) und des

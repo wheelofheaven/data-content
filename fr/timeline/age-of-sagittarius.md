@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -30,7 +30,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Raël)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Genèse", author = "Anonyme (Bible hébraïque) ; traduction WoH depuis l'hébreu massorétique vocalisé", date = "vers le VIe–Ve s. av. J.-C.", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "Theory of the Earth", author = "James Hutton", date = "1788", medium = "academic-paper", description = "L'énoncé fondateur de l'uniformitarisme — la doctrine selon laquelle les processus géologiques actuels sont la clé du passé." },

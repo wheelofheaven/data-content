@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-01"
 translation_stale = false
 translation_sync = 100
@@ -185,13 +185,11 @@ volume, à l'écriture automatique.
 
 Le troisième livre ne comporte aucune rencontre, et ses quatre chapitres
 sont quatre genres. Le chapitre 1 est une conférence de presse imprimée —
-« les réponses de Raël aux questions revenant le plus souvent dans la
-bouche des journalistes »
+« les questions revenant le plus souvent dans la bouche des journalistes ayant interviewé Raël […] et des réponses qu'il a pu donner à ces mêmes questions »
 ({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=1) %}LWTE 1:1{% end %}).
 Le chapitre 2 est une levée d'embargo : « des révélations que Raël n'avait
 pas le droit d'annoncer avant que trois années se soient écoulées après le
-voyage… Maintenant que nous sommes en l'an 34 (1979), ces choses peuvent
-être connues de tous »
+voyage au cours duquel le deuxième message lui fut remis… Maintenant que nous sommes en l'an 34 (1979) ces choses peuvent être connues de tous »
 ({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=1) %}LWTE 2:1{% end %}).
 Le chapitre 3 est un sermon prononcé sous l'autorité propre de Raël, qui
 légifère sur tout, de la casuistique du suicide au devoir de désobéir à un

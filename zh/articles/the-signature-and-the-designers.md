@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -283,5 +283,5 @@ footnotes = [
 - {% wiki(slug="forerunners") %}先驱者{% end %}与
   {% wiki(slug="cosmic-pluralism") %}宇宙多元论{% end %}词条，介绍那套无需
   第一位制造者即可回答休谟之回溯的设计者链条本体论。
-- [*真实之书*](/library/the-book-which-tells-the-truth/)第二章，
+- [*讲述真相之书*](/library/the-book-which-tells-the-truth/)第二章，
   阅读全文所引用的正典关于实验室创造的叙述。

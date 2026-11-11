@@ -1,7 +1,7 @@
 +++
 title = "Corpus de référence du canon raëlien"
 slug = "reference-corpus-of-the-raelian-canon"
-description = "Un catalogue des textes, traditions et figures que les trois livres canoniques du corpus raëlien — Le Livre qui dit la vérité (1974), Les Extra-terrestres m'ont emmené sur leur planète (1975) et Accueillir les Extra-terrestres (1979) — citent directement ou auxquels ils font allusion indirectement, organisé en un premier niveau de sources nommées et un second niveau de sources suggérées."
+description = "Un catalogue des textes, traditions et figures que les trois livres canoniques du corpus raëlien — Le Livre qui dit la vérité (1974), Les Extra-terrestres m'ont emmené sur leur planète (1975) et Accueillir les extra-terrestres (1979) — citent directement ou auxquels ils font allusion indirectement, organisé en un premier niveau de sources nommées et un second niveau de sources suggérées."
 template = "wiki-page.html"
 toc = true
 
@@ -33,7 +33,7 @@ see_also = [
     { title = "Mahomet", path = "/wiki/muhammad/", description = "Le messager coranique ; le canon engage directement les sourates 21, 54 et 56." },
     { title = "Apocalypse", path = "/wiki/apocalypse/", description = "La lecture de l'Apocalypse développée dans Les Nouvelles Révélations." },
     { title = "Le Moulin d'Hamlet", path = "/wiki/hamlets-mill/", description = "Lecture mythologico-précessionnelle interculturelle adjacente à l'argument des traces du canon." },
-    { title = "Signature dédoublée", path = "/wiki/doubled-signature/", description = "Le principe selon lequel le canon et ses textes de référence convergent vers la même réalité sous-jacente." },
+    { title = "Signature redoublée", path = "/wiki/doubled-signature/", description = "Le principe selon lequel le canon et ses textes de référence convergent vers la même réalité sous-jacente." },
 ]
 
 footnotes = [
@@ -139,7 +139,7 @@ Il s'agit des textes, figures et traditions que le canon nomme explicitement, do
 
 Le corpus de référence le plus vaste et le plus précisément cité du canon est la Bible hébraïque. Livres cités, avec leurs lieux caractéristiques :
 
-- **Genèse** — citée largement à travers les chapitres 1–11, 19, 22, 28, 35. L'ouverture du *Livre qui dit la Vérité* est une relecture chapitre par chapitre de l'histoire primordiale (création, Jardin, Déluge, Tour de Babel, Sodome et Gomorrhe, Ligature d'Isaac, échelle de Jacob). {% libref(book="genesis-woh") %}Traduction{% end %} (le livre entier).
+- **Genèse** — citée largement à travers les chapitres 1–11, 19, 22, 28, 35. L'ouverture du *Livre qui dit la vérité* est une relecture chapitre par chapitre de l'histoire primordiale (création, Jardin, Déluge, Tour de Babel, Sodome et Gomorrhe, Ligature d'Isaac, échelle de Jacob). {% libref(book="genesis-woh") %}Traduction{% end %} (le livre entier).
 - **Exode** — cité aux chapitres 3, 13, 14, 16, 17, 19, 20 (le buisson ardent, la colonne de nuée et de feu, l'ouverture de la mer, la manne, le bâton de Moïse, le Sinaï). {% libref(book="exodus-woh") %}Traduction{% end %}.
 - **Lévitique** — chapitres 17 et 25 (le sang comme vie ; le jubilé). {% libref(book="leviticus-woh") %}Traduction{% end %}.
 - **Nombres** — chapitres 11, 18, 21, 33 (la manne, les parts des prêtres, le serpent d'airain, les étapes du désert). {% libref(book="numbers-woh") %}Traduction{% end %}.

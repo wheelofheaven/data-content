@@ -28,7 +28,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Raël)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Genèse", author = "Anonyme (Bible hébraïque) ; traduction WoH d'après l'hébreu massorétique vocalisé", date = "vers VIᵉ–Vᵉ s. av. n. è.", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "The Apportionment of Human Diversity", author = "Richard C. Lewontin", publication = "Evolutionary Biology 6, 381–398", date = "1972", medium = "academic-paper", description = "Le résultat classique selon lequel environ 85 % de la variation génétique humaine s'observe à l'intérieur des populations, et seulement environ 15 % entre elles." },

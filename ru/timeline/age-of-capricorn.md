@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
-source_updated = "2026-11-07"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -30,7 +30,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Книга, говорящая правду", author = "Клод Ворийон (Раэль)", date = "1974 г.", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Книга, которая говорит правду", author = "Клод Ворийон (Раэль)", date = "1974 г.", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
     { title = "Инопланетяне забрали меня на свою планету", author = "Клод Ворийон (Раэль)", date = "1975 г.", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Бытие", author = "Аноним (Еврейская Библия)", date = "ок. VI–V вв. до н. э.", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "Мельница Гамлета: эссе об истоках человеческого знания и его передаче через миф", author = "Джорджо де Сантильяна и Герта фон Дехенд", date = "1969 г.", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },

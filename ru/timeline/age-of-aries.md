@@ -26,7 +26,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Клод Ворильон (Раэль)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Клод Ворильон (Раэль)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Клод Ворильон (Раэль)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Исход", author = "Аноним (Еврейская Библия); перевод WoH в процессе с огласованного масоретского еврейского текста", date = "ок. VI–V вв. до н. э.", medium = "religious-text", path = "/library/exodus-woh/", description = "Неопалимая купина, переход через Красное море, Синайская теофания, Скиния и Ковчег — первичный источник главы." },
     { title = "Числа", author = "Аноним (Еврейская Библия)", date = "ок. VI–V вв. до н. э.", medium = "religious-text", path = "/library/numbers/", description = "Медный змей (21:8–9), указания о Скинии и повествования о странствиях, цитируемые в §III." },

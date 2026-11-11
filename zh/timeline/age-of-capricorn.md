@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
-source_updated = "2026-11-07"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -30,8 +30,8 @@ footnotes = [
 ]
 
 references = [
-    { title = "讲述真相之书（Le Livre qui dit la vérité）", author = "克洛德·沃里隆（雷尔）", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "外星人带我去了他们的星球（Les Extra-Terrestres m'ont emmené sur leur planète）", author = "克洛德·沃里隆（雷尔）", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "讲述真相之书（Le Livre qui dit la vérité）", author = "克洛德·沃里隆（雷尔）", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
+    { title = "外星人带我去他们的行星（Les Extra-Terrestres m'ont emmené sur leur planète）", author = "克洛德·沃里隆（雷尔）", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "创世记", author = "佚名（希伯来圣经）", date = "约公元前6至5世纪", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "哈姆雷特的磨坊：探究人类知识的起源及其通过神话的传承", author = "乔治·德·桑提拉纳与赫尔塔·冯·德辰德", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
     { title = "可能的海洋世界大气中的含碳分子", author = "尼库·马杜苏丹、苏巴吉特·萨卡、萨瓦斯·康斯坦丁努、芒斯·霍尔姆贝里等", publication = "《天体物理学杂志通讯》956 (1)，L13", date = "2023", medium = "academic-paper", url = "https://iopscience.iop.org/article/10.3847/2041-8213/acf577", description = "JWST首次在K2-18b大气中探测到甲烷（CH4）与二氧化碳（CO2），并伴有一个初步的二甲基硫醚生物标志信号。" },

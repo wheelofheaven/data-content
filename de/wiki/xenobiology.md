@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -165,8 +165,8 @@ Korpus zu ihr.
 
 Die Aussagen des Kanons über das Material des erschaffenen Lebens sind wenige, und sie
 sind Berichte: die diktierten Botschaften von *Das Buch, das die Wahrheit sagt* (1974)
-und *Die Außerirdischen führten mich auf ihren Planeten* (1975) sowie Raëls eigener
-Kommentar in *Begrüßen wir die Außerirdischen* (1979). Die Zitate unten stammen aus
+und *Außerirdische brachten mich auf ihren Planeten* (1975) sowie Raëls eigener
+Kommentar in *Empfangen wir die Außerirdischen* (1979). Die Zitate unten stammen aus
 dem französischen Grundtext.
 
 {% claim(type="direct", id="woh-claim-0074") %}Der Kanon beschreibt das von den Elohim

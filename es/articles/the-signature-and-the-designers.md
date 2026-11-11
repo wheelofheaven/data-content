@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -932,6 +932,6 @@ relojero tuviera que ser el último de la línea.
   {% wiki(slug="cosmic-pluralism") %}Pluralismo cósmico{% end %}, para la
   ontología de la cadena de diseñadores que responde al regreso de Hume sin un
   primer hacedor.
-- [*El Libro que dice la Verdad*](/library/the-book-which-tells-the-truth/),
+- [*El libro que dice la verdad*](/library/the-book-which-tells-the-truth/),
   capítulo 2, para el relato del canon sobre la creación de laboratorio citado
   a lo largo del texto.

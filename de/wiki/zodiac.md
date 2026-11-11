@@ -1,12 +1,12 @@
 +++
 title = "Tierkreis"
-description = "Der Tierkreis (griechisch <span class=\"greek\">ζῳδιακὸς κύκλος</span> *zōidiakòs kýklos*, \"Kreis der Tiere\") ist die ekliptische Kreis-Konfiguration der zwölf Sternbilder, durch die die Sonne im Verlauf eines tropischen Jahres wandert: Widder, Stier, Zwillinge, Krebs, Löwe, Jungfrau, Waage, Skorpion, Schütze, Steinbock, Wassermann, Fische. Die Konvention, die Ekliptik in zwölf gleich große Tierkreis-Segmente zu unterteilen, geht prinzipiell auf die babylonisch-mesopotamische astronomische Tradition (etwa 5. Jh. v. u. Z.) zurück, mit der substantiellen Erweiterung durch die hellenistische und arabische astronomische Tradition. Im Wheel of Heaven-Rahmen ist der Tierkreis das geometrische Fundament der präzessionalen Zeitrechnung: Die zwölf Tierkreis-Segmente entsprechen den zwölf präzessionalen Zeitaltern eines Großen Jahres, und die in der religiös-ikonographischen Tradition jedes Zeitalters bewahrten Symbole (Stier-Apis und Skorpion-Sandalen der ägyptischen Tradition; Widder-Pessach-Lamm und Waage-Gerechtigkeits-Symbol der hebräisch-prophetischen Tradition; Fische-Christ-Symbol und Jungfrau-Maria-Symbol der christlichen Tradition) werden als doppelte Signatur-Konfigurationen der zugehörigen Zeitalter gelesen."
+description = "Der Tierkreis (griechisch <span class=\"greek\">ζῳδιακὸς κύκλος</span> *zōidiakòs kýklos*, \"Kreis der Tiere\") ist die ekliptische Kreis-Konfiguration der zwölf Sternbilder, durch die die Sonne im Verlauf eines tropischen Jahres wandert: Widder, Stier, Zwillinge, Krebs, Löwe, Jungfrau, Waage, Skorpion, Schütze, Steinbock, Wassermann, Fische. Die Konvention, die Ekliptik in zwölf gleich große Tierkreis-Segmente zu unterteilen, geht prinzipiell auf die babylonisch-mesopotamische astronomische Tradition (etwa 5. Jh. v. u. Z.) zurück, mit der substantiellen Erweiterung durch die hellenistische und arabische astronomische Tradition. Im Wheel of Heaven-Rahmen ist der Tierkreis das geometrische Fundament der präzessionalen Zeitrechnung: Die zwölf Tierkreis-Segmente entsprechen den zwölf präzessionalen Zeitaltern eines Großen Jahres, und die in der religiös-ikonographischen Tradition jedes Zeitalters bewahrten Symbole (Stier-Apis und Skorpion-Sandalen der ägyptischen Tradition; Widder-Pessach-Lamm und Waage-Gerechtigkeits-Symbol der hebräisch-prophetischen Tradition; Fische-Christ-Symbol und Jungfrau-Maria-Symbol der christlichen Tradition) werden als Konfigurationen der doppelten Signatur der zugehörigen Zeitalter gelesen."
 template = "wiki-page.html"
 toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100

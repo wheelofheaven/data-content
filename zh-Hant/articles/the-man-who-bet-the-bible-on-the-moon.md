@@ -647,7 +647,7 @@ selon toute vraisemblance, ne reviendront pas」*——那些宇航
 的差別——
 
 **見證相對於假說。**——這正是讀者一直等待著的那一項。1974
-年，克勞德·沃里隆出版了[*《真實之書》*](/library/the-book-which-tells-the-truth/)；到 1975 年，
+年，克勞德·沃里隆出版了[*《訴說真相之書》*](/library/the-book-which-tells-the-truth/)；到 1975 年，
 在《彌賽亞時代》中，桑迪已讀過它，或聽說了個大概，並在一段
 論貝蒂與巴尼·希爾事件的文字裡，留下了關於它的一句話：
 
@@ -798,7 +798,7 @@ vivant, j'y compte bien」*——在我有生之年，我對此深信不疑。�
 - [最接近真理的書](/articles/the-book-closest-to-the-truth/)，
   論卡巴拉與宮殿文獻——桑迪透過薩夫蘭、從正典一側所開採的那條
   礦脈。
-- [*《真實之書》*](/library/the-book-which-tells-the-truth/)，
+- [*《訴說真相之書》*](/library/the-book-which-tells-the-truth/)，
   第 1–3 章與第 7 章，即全文所比較的那些正典段落。
 - 史蒂法諾·比格利諾，「一位紳士喜悅的祕傳學」（*Alternative
   Spirituality and Religion Review* 8.1，2017）——本文生平細節

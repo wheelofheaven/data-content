@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -1242,7 +1242,7 @@ eigenes gekennzeichnet.
   {% wiki(slug="hanafiyya") %}Hanafiyya{% end %}, für den Namen, den die
   Schicht sich selbst gab, und die restaurative Lesart der islamischen
   Ursprünge.
-- [*Die Außerirdischen nahmen mich mit auf ihren
+- [*Außerirdische brachten mich auf ihren
   Planeten*](/library/extraterrestrials-took-me-to-their-planet/) und
   [*Das Buch, das die Wahrheit
   sagt*](/library/the-book-which-tells-the-truth/), für das Mahl der Vierzig

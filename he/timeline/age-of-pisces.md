@@ -26,7 +26,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "הבשורה על פי מתי", author = "אנונימי (מיוחס לשליח מתי)", date = "כ-80–90 לספירה", medium = "religious-text", path = "/library/matthew-woh/" },
     { title = "הבשורה על פי לוקאס / מעשי השליחים", author = "אנונימי (מיוחס ללוקאס)", date = "כ-80–90 לספירה", medium = "religious-text", path = "/library/luke/" },

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -199,7 +199,7 @@ Wheel of Heaven 项目。《总年表》（*Master Timeline*）。内部治理�
 
 Vorilhon, Claude (Raël). *The Book Which Tells the Truth*（《讲述真相之书》，1974）；收入 *Message from the Designers*。框架具体内容的主要来源。
 
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet*（《外星人带我去了他们的星球》，1975）；收入 *Message from the Designers*。
+Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet*（《外星人带我去他们的行星》，1975）；收入 *Message from the Designers*。
 
 Vorilhon, Claude (Raël). *Let's Welcome the Extra-Terrestrials*（《让我们欢迎外星人》，1979）；收入 *Message from the Designers*。
 

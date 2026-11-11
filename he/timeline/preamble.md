@@ -6,7 +6,7 @@ template = "timeline-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-10-29"
+translation_updated = "2026-11-11"
 source_updated = "2026-10-29"
 translation_stale = false
 translation_sync = 100
@@ -35,7 +35,7 @@ references = [
     { title = "Dogon Restudied: A Field Evaluation of the Work of Marcel Griaule", author = "ולטר א. א. ון ביק", publication = "Current Anthropology 32 (2), 139-167", date = "1991", medium = "academic-paper", url = "https://pure.uvt.nl/ws/portalfiles/portal/1002365/dogonrestudied.pdf" },
     { title = "מוחו של ברוקה: הרהורים על הרומנטיקה של המדע", author = "קארל סייגן", date = "1979", medium = "nonfiction-book", description = "מכיל את הפרק על מחלוקת הדוגון־סיריוס ששאל את מקור הטענות האסטרונומיות על הנומו." },
     { title = "Investigating the Sirius Mystery", author = "איאן רידפת'", publication = "Skeptical Inquirer 3 (1), 56-62", date = "1978", medium = "academic-paper" },
-    { title = "Le Livre qui dit la vérité", author = "קלוד וורילון (ראל)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "קלוד וורילון (ראל)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "קלוד וורילון (ראל)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "פארק היורה", author = "מייקל קרייטון", date = "1990", medium = "fiction-book" },
     { title = "פארק היורה", author = "בבימוי סטיבן שפילברג; תסריט מאת מייקל קרייטון ודייוויד קופ", date = "1993", medium = "movie" },

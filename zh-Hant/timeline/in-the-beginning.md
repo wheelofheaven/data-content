@@ -27,7 +27,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "約伯記", author = "佚名(希伯來聖經)", date = "約公元前6世紀", medium = "religious-text", path = "/library/job/", description = "希伯來聖經中對「ha-satan」作為神聖議會成員之最明確的描繪,其制度角色乃是針對自信的計畫提出反駁。" },
 ]

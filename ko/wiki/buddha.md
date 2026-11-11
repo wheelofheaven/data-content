@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -88,7 +88,7 @@ corpus_identification = "코퍼스는 프로젝트 창립자의 편집상 결정
 
 ### 식탁과 예언자 계보
 
-정경은 구술된 두 번째 메시지 『[외계인이 나를 그들의 행성으로 데려갔다](/ko/library/extraterrestrials-took-me-to-their-planet/)』(1975)에서 붓다를 두 번 명명합니다. 첫 번째 대목에서 라엘은 영원자들의 행성의 식사 자리로 안내되어, "그가 십자가에 못 박히기 전에 우리가 보존해 둔 세포 하나로부터 재창조할 수 있었던" 예수와 마주 앉습니다. 그러고 나서 야훼가 식탁의 다른 이들을 소개합니다.
+정경은 구술된 두 번째 메시지 『[외계인들이 나를 그들의 행성으로 데려갔다](/ko/library/extraterrestrials-took-me-to-their-planet/)』(1975)에서 붓다를 두 번 명명합니다. 첫 번째 대목에서 라엘은 영원자들의 행성의 식사 자리로 안내되어, "그가 십자가에 못 박히기 전에 우리가 보존해 둔 세포 하나로부터 재창조할 수 있었던" 예수와 마주 앉습니다. 그러고 나서 야훼가 식탁의 다른 이들을 소개합니다.
 
 {% library(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=64) %}
 그의 오른쪽에는 모세가 있고, 그의 왼쪽에는 엘리야가 있으며, 예수의 왼쪽에는, 지상에서 부처라는 이름으로 기억되는 자가 앉아 있습니다. 조금 저쪽에, 그 저작 안에서 내가, 존중에서 나를 이름 부를 엄두를 내지 못해, 알라라 불리는 마호메트가 보입니다. 이 식사에 참석한 약 마흔 명의 남자와 여자는 모두, 지상에서의 우리 접촉의 결과로 창조된 종교를 대표하는 존재입니다.

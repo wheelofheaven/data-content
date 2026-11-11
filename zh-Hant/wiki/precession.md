@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -66,7 +66,7 @@ note = "*Mazzaroth* 線上彙編——黃道—聖經詮釋傳統的當代彙集
 
 [[extra.references]]
 id = "the-book-which-tells-the-truth"
-note = "沃里勒翁(雷爾),《訴說真相之書》(1974)——文集年代框架的主要雷爾運動來源,歲差時代即為此框架的錨點。"
+note = "沃里隆(雷爾),《訴說真相之書》(1974)——文集年代框架的主要雷爾運動來源,歲差時代即為此框架的錨點。"
 
 [extra.infobox]
 type = "地球自轉軸指向的週期性變化;地球的第三種主要運動"
@@ -339,7 +339,7 @@ key_external_references = "Santillana, Giorgio de, and Hertha von Dechend. *Haml
 
 ## 參考文獻
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [框架解讀的主要來源;沃里勒翁的材料並未明確闡述歲差本身,但文集所採用的年代框架與之相符。]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [框架解讀的主要來源;沃里隆的材料並未明確闡述歲差本身,但文集所採用的年代框架與之相符。]
 
 Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston: Gambit, 1969. [對「前希帕克斯神話編碼了歲差內容」這一論點的奠基性學術探討;框架解讀的主要外部參考。]
 

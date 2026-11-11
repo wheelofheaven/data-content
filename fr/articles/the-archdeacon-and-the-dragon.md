@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -290,8 +290,7 @@ Un lecteur de ce projet reconnaîtra chacun de ces éléments. Le canon a
 énoncé la lecture plurielle, comme explication reçue plutôt que comme
 hypothèse, dès 1974 — *« Elohim en hébreu est le pluriel d'Eloha »* figure
 parmi ses observations les plus répétées, et sa glose du mot est
-fonctionnelle plutôt qu'étymologique : *« Elohim, cela signifie
-littéralement « ceux qui vinrent du ciel » »*
+fonctionnelle plutôt qu'étymologique : *« Elohim, cela veut dire littéralement “venus du ciel” en Hébreu »*
 ({% libref(book="the-book-which-tells-the-truth", chapter=3, verse=251) %}LLQDV 3:251{% end %}).
 Jean Sendy avait bâti l'argument philologique en français dès 1969 ;
 Biglino l'a rebâti à partir de l'hébreu en 2010 ; le propre
@@ -522,9 +521,7 @@ surveillants sans l'être au point de représenter une menace ». La version
 du canon est un ordre précis, à la portée précise :
 
 {% library(book="the-book-which-tells-the-truth", chapter=2, verse=30) %}
-Ce qui signifie : vous pouvez apprendre tout ce que vous voulez, lire tous
-les livres que nous tenons ici à votre disposition, mais ne touchez pas aux
-livres scientifiques, ou vous mourrez.
+Ce qui veut dire : tu peux apprendre tout ce que tu voudras, lire tous les livres que nous avons ici à ta disposition, mais ne touche pas aux livres scientifiques sinon tu mourrais.
 {% end %}
 
 **Le Serpent comme fabricants dissidents.** C'est la plus profonde des
@@ -535,19 +532,11 @@ les rangs pour améliorer les humains et fut exilé sur Terre pour cela. Le
 récit du canon, livré comme narration plutôt que comme inférence :
 
 {% library(book="the-book-which-tells-the-truth", chapter=2, verse=35) %}
-Parmi tous les savants de cette équipe, quelques-uns qui aimaient
-profondément leurs petits hommes, leurs « créatures », voulurent donner à
-ces enfants une éducation complète et en faire des savants comme
-eux-mêmes. Ils dirent à ces jeunes gens, qui étaient presque adultes,
-qu'ils pouvaient poursuivre des études scientifiques et seraient aussi
-forts que leurs créateurs.
+Parmi tous les savants de cette équipe, quelques-uns qui aimaient profondément leurs petits hommes, leurs «créature», voulaient donner une instruction complète à ces enfants et en faire des savants comme eux. Ils dirent à ces jeunes gens qui étaient presque adultes qu'ils pouvaient faire des études scientifiques et qu'ils seraient aussi forts que leurs créateurs.
 {% end %}
 
 {% library(book="the-book-which-tells-the-truth", chapter=2, verse=39) %}
-Le « serpent » — ce petit groupe de créateurs qui avaient voulu enseigner
-la vérité à Adam et Ève — fut condamné par le gouvernement de la planète
-d'origine à vivre sur Terre en exil, tandis que les autres créateurs durent
-cesser leurs expériences et quitter la Terre.
+Le «serpent», ce petit groupe de créateurs qui avait voulu apprendre la vérité à Adam et Ève, était condamné par le gouvernement de la planète originelle à vivre sur Terre en exil tandis que les autres créateurs devaient stopper leurs expériences et quitter la Terre.
 {% end %}
 
 Dans *The Invasion of Eden*, Wallis a recours à une histoire chinoise pour
@@ -570,11 +559,7 @@ l'Atrahasis, où Enki prévient le héros du déluge à l'encontre du décret
 d'Enlil. Le canon :
 
 {% library(book="the-book-which-tells-the-truth", chapter=2, verse=58) %}
-Ils décidèrent donc, depuis leur planète lointaine, de détruire toute vie
-sur Terre en envoyant des missiles nucléaires. Mais les exilés, prévenus de
-la chose, avaient demandé à Noé de construire une fusée qui devait orbiter
-autour de la Terre durant le cataclysme, contenant un couple de chaque
-espèce à sauvegarder.
+Ils décidèrent donc, de leur lointaine planète, de détruire toute vie sur la Terre en envoyant des missiles nucléaires. Mais les exilés, prévenus de la chose, avaient demandé à Noé de construire une fusée qui devait tourner autour de la Terre durant le cataclysme, contenant un couple de chaque espèce à sauvegarder.
 {% end %}
 
 **Babel comme destruction d'une civilisation spatiale.** Wallis lit
@@ -601,9 +586,7 @@ lisent la politique qui s'y joue :
 > — *The Invasion of Eden*, chap. 9
 
 Le {% wiki(slug="council-of-the-eternals") %}Conseil des Éternels{% end %} du
-canon porte la même politique interne, avec des positions nommées : la
-faction {% wiki(slug="satan") %}Satan{% end %}, « opposée à la création
-d'autres êtres intelligents sur une planète aussi proche que la Terre »
+canon porte la même politique interne, avec des positions nommées : la faction {% wiki(slug="satan") %}Satan{% end %}, celle de « ceux qui ont toujours condamné la création d'autres êtres intelligents sur une planète aussi proche que la Terre »
 ({% libref(book="the-book-which-tells-the-truth", chapter=3, verse=251) %}LLQDV 3:251{% end %}) ;
 la faction Lucifer, voulant les humains éduqués comme des pairs ; et
 {% wiki(slug="yahweh") %}Yahvé{% end %} présidant entre elles. Il vaut la
@@ -641,9 +624,7 @@ plusieurs d'entre elles sont la part la plus instructive de l'exercice.
 dragon et l'appétit de dragon sur Yahvé lui-même : peau coriace, long
 museau, narines ignées, tribut en or et en bétail — « CH-CH le Dragon ».
 Le canon répartit le même dossier reptilien sur une carte tout autre. Son
-Yahvé n'est catégoriquement pas un monstre ; c'est un homme — *« Nous
-sommes des hommes comme vous, et nous vivons sur une planète tout à fait
-semblable à la Terre »*
+Yahvé n'est catégoriquement pas un monstre ; c'est un homme — *« Nous sommes des hommes comme vous et nous vivons sur une planète assez semblable à la Terre »*
 ({% libref(book="the-book-which-tells-the-truth", chapter=1, verse=53) %}LLQDV 1:53{% end %})
 — le président du Conseil, âgé de vingt-cinq mille ans
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}LLQDV 7:56{% end %}).
@@ -652,10 +633,7 @@ production extravagante d'équipes d'ingénierie rivales lors de
 l'ensemencement de la Terre —
 
 {% library(book="the-book-which-tells-the-truth", chapter=2, verse=22) %}
-Mais d'autres équipes de savants créèrent des animaux épouvantables, des
-monstres qui prouvèrent que ceux qui n'avaient pas voulu qu'ils mènent
-leurs expériences sur leur planète avaient eu raison. Des dragons, ou ce
-que vous avez nommé Dinosaures ou Brontosaures, et ainsi de suite.
+Mais d'autres équipes de savants créèrent des animaux épouvantables, des monstres qui faisaient que ceux qui n'avaient pas voulu qu'ils réalisent leurs expériences sur leur planète avaient eu raison. Des dragons ou ce que vous avez baptisé des Dinosaures ou autres Brontosaures, etc.
 {% end %}
 
 — {% claim(type="framework", id="woh-claim-0022") %}tandis que le langage *figuré* de la Bible sur le serpent et le dragon
@@ -681,12 +659,7 @@ des bases sous les océans, et le gouvernement qui l'avait exilée promettait
 d'achever la besogne —
 
 {% library(book="the-book-which-tells-the-truth", chapter=3, verse=271) %}
-Afin de ne pas être dérangés par les hommes, les créateurs avaient des
-bases sur les hautes montagnes, où l'on trouve aujourd'hui des traces de
-hautes civilisations (Himalaya, Pérou, etc.) et aussi au fond des mers.
-Progressivement, les bases de haute montagne furent abandonnées pour
-laisser place à des bases sous-marines, moins accessibles aux hommes. Les
-créateurs bannis au commencement se cachèrent sous les océans.
+Afin de ne pas être dérangés par les hommes, les créateurs avaient des bases sur les hautes montagnes où l'on retrouve maintenant des traces de hautes civilisations (Himalaya, Pérou, etc.) et également au fond des mers. Progressivement les bases des hautes montagnes furent abandonnées pour faire place à des bases sous-marines, moins accessibles aux hommes. Les créateurs bannis du début se cachaient sous les océans.
 {% end %}
 
 Les deux cadres lisent le langage du dragon comme renvoyant à des acteurs

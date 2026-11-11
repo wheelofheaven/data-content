@@ -692,6 +692,6 @@ despiertas en el año uno, aún leídas en el año 81—.
   ancla.
 - [Las primeras mezquitas miraban a Petra, no a La Meca](/articles/the-first-mosques-faced-petra-not-mecca/),
   para la historia posterior del mismo corredor desértico.
-- [*El Libro que dice la Verdad*](/library/the-book-which-tells-the-truth/),
+- [*El libro que dice la verdad*](/library/the-book-which-tells-the-truth/),
   capítulos 1 y 5, para los pasajes del canon sobre 1945, 1946 y la nueva
   era citados a lo largo del texto.

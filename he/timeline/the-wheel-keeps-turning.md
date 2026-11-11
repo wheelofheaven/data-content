@@ -7,7 +7,7 @@ weight = 270
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -22,7 +22,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Intelligent Design: Message from the Designers", author = "Claude Vorilhon (Rael)", date = "2005", medium = "religious-text", description = "מהדורה מאוחדת באנגלית; המקור הראשי לקוסמולוגיה הפרקטלית ב-§I ולמסגרת המוסרית של ארבעת המישורים ב-§V." },
     { title = "Genesis", author = "Anonymous (Hebrew Bible); WoH translation from the pointed Masoretic Hebrew", date = "c. 6th–5th c. BCE", medium = "religious-text", path = "/library/genesis-woh/" },

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -88,7 +88,7 @@ corpus_identification = "文集依本项目创立者的编辑决定（2026-11-08
 
 ### 餐桌与先知系列
 
-正典在口授的第二部讯息《[外星人带我去他们的星球](/zh/library/extraterrestrials-took-me-to-their-planet/)》（1975）中两次提到佛陀。在第一段中，雷尔被带到永恒者行星上的一场餐会，坐在耶稣对面，耶稣是「我们用他被钉十字架之前保存下来的一个细胞重新创造出来的」。随后耶和华介绍餐桌旁的其他人：
+正典在口授的第二部讯息《[外星人带我去他们的行星](/zh/library/extraterrestrials-took-me-to-their-planet/)》（1975）中两次提到佛陀。在第一段中，雷尔被带到永恒者行星上的一场餐会，坐在耶稣对面，耶稣是「我们用他被钉十字架之前保存下来的一个细胞重新创造出来的」。随后耶和华介绍餐桌旁的其他人：
 
 {% library(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=64) %}
 在他右边的是摩西，左边是以利亚，坐在耶稣左边的，是在地球上人们以佛陀之名记得的那一位。稍远一些你可以看到穆罕默德，在他的著作中我被称为安拉，因为他出于敬意不敢直呼我的名字。出席这场餐会的四十位男女，全都是我们在地球上接触之后所创立的各宗教的代表存在。
@@ -102,7 +102,7 @@ corpus_identification = "文集依本项目创立者的编辑决定（2026-11-08
 
 ### 雷尔的评注之声与被期待的归来
 
-在《[欢迎外星人](/zh/library/lets-welcome-the-extraterrestrials/)》（1979）中，雷尔再次提到佛陀，这一次是以他自己的评注之声；文集将这一声音视为正典，但始终将其标明为有别于口授的讯息。在「一种无神论的宗教」一章中，他写道，雷尔派信徒「承认耶稣是我们的创造者所派遣的使者，正如他们承认摩西、佛陀、穆罕默德、约瑟·斯密以及所有其他伟大的先知一样」，并「等待他们与耶洛因一同归来」（LWTE-3:27）。{{ cite(id="lets-welcome-the-extraterrestrials", text="[2]", title="Let's Welcome the Extraterrestrials, LWTE-3:27") }}他还有两次将佛陀列入将与耶洛因一同来到[大使馆](../embassy/)的人之中：「古代的使者：摩西、耶稣、佛陀和穆罕默德」（LWTE-1:87），以及「伟大的先知，摩西、耶稣、佛陀、穆罕默德和其他人」（LWTE-3:82）。同一本书中的一个读者提问（LWTE-1:75）预设了先知们生活在永恒者行星上；这是提问者的前提，雷尔的回答并未对此提出异议。
+在《[让我们欢迎外星人](/zh/library/lets-welcome-the-extraterrestrials/)》（1979）中，雷尔再次提到佛陀，这一次是以他自己的评注之声；文集将这一声音视为正典，但始终将其标明为有别于口授的讯息。在「一种无神论的宗教」一章中，他写道，雷尔派信徒「承认耶稣是我们的创造者所派遣的使者，正如他们承认摩西、佛陀、穆罕默德、约瑟·斯密以及所有其他伟大的先知一样」，并「等待他们与耶洛因一同归来」（LWTE-3:27）。{{ cite(id="lets-welcome-the-extraterrestrials", text="[2]", title="Let's Welcome the Extraterrestrials, LWTE-3:27") }}他还有两次将佛陀列入将与耶洛因一同来到[大使馆](../embassy/)的人之中：「古代的使者：摩西、耶稣、佛陀和穆罕默德」（LWTE-1:87），以及「伟大的先知，摩西、耶稣、佛陀、穆罕默德和其他人」（LWTE-3:82）。同一本书中的一个读者提问（LWTE-1:75）预设了先知们生活在永恒者行星上；这是提问者的前提，雷尔的回答并未对此提出异议。
 
 ### 以全人类尺度看佛教的循环
 

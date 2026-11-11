@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -275,4 +275,4 @@ footnotes = [
 - [*宗教中的宗教*](/articles/the-religion-of-religions/)，以本文转而向外施用的同一门比较学科，对正典自身的运动所作的分类。
 - [*最接近真理的书*](/articles/the-book-closest-to-the-truth/)，文集对其自身奠基之书的来源审计——检验 4 与检验 5 针对正典本身运行。
 - [*最早的清真寺朝向佩特拉，而非麦加*](/articles/the-first-mosques-faced-petra-not-mecca/)，水印一节中那个借测量复原奠基地层之典型案例背后的完整朝向卷宗——以及{% wiki(slug="hanafiyya") %}哈尼夫信仰{% end %}词条，关于这一地层对自身的称呼以及对伊斯兰起源的复原主义读法。
-- [*外星人带我去他们的行星*](/library/extraterrestrials-took-me-to-their-planet/)与[*真实之书*](/library/the-book-which-tells-the-truth/)，关于原始叙事中那四十位的晚餐，以及对诸使者的点名。
+- [*外星人带我去他们的行星*](/library/extraterrestrials-took-me-to-their-planet/)与[*讲述真相之书*](/library/the-book-which-tells-the-truth/)，关于原始叙事中那四十位的晚餐，以及对诸使者的点名。

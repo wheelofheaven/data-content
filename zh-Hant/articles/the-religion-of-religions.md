@@ -94,7 +94,7 @@ footnotes = [
 從一艘降落的飛行器中走出，以名字稱呼他，並要他次日清晨再來——帶著一本
 聖經。據他所述，一連六天，這位訪客與他一同逐節研讀那本聖經，逐節校正三十
 個世紀以來的翻譯錯誤。{% claim(type="direct", id="woh-claim-0020") %}克勞德·沃里隆次年依其筆記出版的那本書，
-[*真實之書*](/library/the-book-which-tells-the-truth/)，成了本計畫奉為正典
+[*訴說真相之書*](/library/the-book-which-tells-the-truth/)，成了本計畫奉為正典
 的這場運動的奠基經典；{% end %}那人本人成了
 {% wiki(slug="rael") %}雷爾{% end %}；而這篇解說所要探討的問題，正是那個
 悄然難倒了每一個試圖回答它的機構的問題：*由此而生的這個宗教，究竟是何種
@@ -701,8 +701,8 @@ des autres」——*「邪教」就是別人的宗教。*三年之後，蓋亞�
 - [*最接近真理的書*](/articles/the-book-closest-to-the-truth/)與[*那個拿聖經
   賭月亮的人*](/articles/the-man-who-bet-the-bible-on-the-moon/)，關於正典
   法國來源的那些溯源審查。
-- [*真實之書*](/library/the-book-which-tells-the-truth/)與
-  [*外星人把我帶到他們的星球*](/library/extraterrestrials-took-me-to-their-planet/)，
+- [*訴說真相之書*](/library/the-book-which-tells-the-truth/)與
+  [*外星人帶我到他們的行星*](/library/extraterrestrials-took-me-to-their-planet/)，
   關於全文所讀的那些原始敘事——以及
   [*隱言經*](/library/hidden-words-woh/)、
   [*大本神諭*](/library/oomoto-shinyu-woh/)與

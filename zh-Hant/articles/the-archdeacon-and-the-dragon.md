@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -119,13 +119,13 @@ Conspiracy*，2023）、《伊甸入侵》（*The Invasion of Eden*，2024）、
 統中，當今在世最具影響力的兩把聲音之一——這一傳統把古代敘事中的諸神解
 讀為對真實的、掌握技術的訪客的文化記憶。
 
-在飛盤受傷的四十六年前，一位名叫克勞德·佛里洪（Claude Vorilhon）的法國
+在飛盤受傷的四十六年前，一位名叫克勞德·沃里隆（Claude Vorilhon）的法國
 賽車記者——{% wiki(slug="rael") %}雷爾{% end %}——曾報告說，這同一批
 《創世記》經節的含義，是由它們所描述的存有之一，在六天之內親口向他解說
 的。他於 1974 年出版的那本書，[《揭示真相之
 書》](/library/the-book-which-tells-the-truth/)，是雷爾運動典籍與本項目
 的基石。瓦利斯從未觸及它。對全部六部《伊甸》著作——約三十九萬三千
-字——的全文檢索，找不到任何提及雷爾、佛里洪或雷爾運動之處；就此而言，
+字——的全文檢索，找不到任何提及雷爾、沃里隆或雷爾運動之處；就此而言，
 它也從未提及撒迦利亞·西琴（Zecharia Sitchin）。無論《伊甸》系列還是別的
 什麼，它都不是典籍的下游產物。
 
@@ -238,7 +238,7 @@ class="hebrew">אֱלֹהִים</span>）帶有希伯來文的陽性複數詞尾
 解讀，且是作為既定的解說而非假說——*「Elohim 在希伯來文中是 Eloha 的複
 數」*是其最常反覆出現的觀察之一，而它對這個詞的釋義是功能性的、而非詞源
 性的：*「Elohim，字面意思是「那些從天而降者」」*
-（{% libref(book="the-book-which-tells-the-truth", chapter=3, verse=251) %}《揭示真相之書》3:251{% end %}）。
+（{% libref(book="the-book-which-tells-the-truth", chapter=3, verse=251) %}《訴說真相之書》3:251{% end %}）。
 讓·桑迪（Jean Sendy）早在 1969 年便以法文建立了這一語文學論據；比利諾於
 2010 年從希伯來文重新建構了它；本項目自己的
 {% wiki(slug="list-of-etymological-readings") %}詞源解讀目錄{% end %}承載
@@ -396,7 +396,7 @@ Kucedra；格魯吉亞的 Kholkhis；埃及的 Akhekh——一種反覆出現的
 **作為守衛設施的伊甸。** 瓦利斯把那園子讀作一個名為伊甸的地區之內的一個
 「封閉區域」，坐落於可開採的礦藏附近，其人類居住者處於受指示的狀態。典
 籍把同一個圍地讀作以色列團隊的實驗室與居住場所——是各創造者團隊中最傑出的團隊之一，
-甚至是最傑出的一個（{% libref(book="the-book-which-tells-the-truth", chapter=2, verse=28) %}《揭示真相之書》2:28{% end %}）。
+甚至是最傑出的一個（{% libref(book="the-book-which-tells-the-truth", chapter=2, verse=28) %}《訴說真相之書》2:28{% end %}）。
 兩種解讀都把《創世記》第 2 章的礦物勘查，當作一個神學從來派不上用場的操
 作性細節。
 
@@ -453,7 +453,7 @@ Kucedra；格魯吉亞的 Kholkhis；埃及的 Akhekh——一種反覆出現的
 的觀察者，並把這一段插曲稱為「一個掌握技術的航天文明被一股外星力量所抹
 除」。典籍則把{% wiki(slug="tower-of-babel") %}巴別{% end %}事件讀作以色
 列子民的離散——他們在那些流亡創造者的幫助下著手「發動對太空的征服」之後
-（{% libref(book="the-book-which-tells-the-truth", chapter=2, verse=72) %}《揭示真相之書》2:72{% end %}）。
+（{% libref(book="the-book-which-tells-the-truth", chapter=2, verse=72) %}《訴說真相之書》2:72{% end %}）。
 
 **派系的議會。** 瓦利斯後期的著作組合出聖經的 *El-Ba'adat*——依他的譯
 法，「權能議會」——並解讀其內部的政治：
@@ -468,7 +468,7 @@ Kucedra；格魯吉亞的 Kholkhis；埃及的 Akhekh——一種反覆出現的
 典籍的{% wiki(slug="council-of-the-eternals") %}永恆者議會{% end %}承載著同
 樣的內部政治，並帶有具名的立場：{% wiki(slug="satan") %}撒但{% end %}派
 系，「反對在一顆像地球這樣近的行星上創造其他智慧存有」
-（{% libref(book="the-book-which-tells-the-truth", chapter=3, verse=251) %}《揭示真相之書》3:251{% end %}）；
+（{% libref(book="the-book-which-tells-the-truth", chapter=3, verse=251) %}《訴說真相之書》3:251{% end %}）；
 路西法派系，想要讓人類作為同儕受教育；以及居中主持二者的
 {% wiki(slug="yahweh") %}耶和華{% end %}。值得記下的是，本典籍自己的撒但
 條目早已把「大量的撒但–路西法區辨內容」歸功於《伊甸陰謀》：瓦利斯，一如
@@ -497,9 +497,9 @@ Kucedra；格魯吉亞的 Kholkhis；埃及的 Akhekh——一種反覆出現的
 「CH-CH 大龍」。典籍則把同一份爬蟲類的檔案分散到一幅全然不同的地圖上。
 它的耶和華斷然不是一個怪物；他是一個人——*「我們是像你們一樣的人，我們
 住在一顆與地球十分相似的行星上」*
-（{% libref(book="the-book-which-tells-the-truth", chapter=1, verse=53) %}《揭示真相之書》1:53{% end %}）——
+（{% libref(book="the-book-which-tells-the-truth", chapter=1, verse=53) %}《訴說真相之書》1:53{% end %}）——
 一位兩萬五千歲的議會主席
-（{% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}《揭示真相之書》7:56{% end %}）。
+（{% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}《訴說真相之書》7:56{% end %}）。
 真正的龍在典籍中確實存在，但作為*造物*：在為地球播種期間，由敵對的工程
 團隊所產出的奢靡之作——
 
@@ -545,7 +545,7 @@ Kucedra；格魯吉亞的 Kholkhis；埃及的 Akhekh——一種反覆出現的
 安{{ footnote(id="12") }}的昭雪——是一位父的啟示者，而這位父並不是、也
 從來不是那些曠野敘事中的存有。典籍則把同一形象讀作連續性：耶穌是耶和華
 藉一位人類母親所生的兒子，受過那持懷疑態度的撒但的試驗
-（{% libref(book="the-book-which-tells-the-truth", chapter=4, verse=20) %}《揭示真相之書》4:20{% end %}），
+（{% libref(book="the-book-which-tells-the-truth", chapter=4, verse=20) %}《訴說真相之書》4:20{% end %}），
 並被差遣來為締造者的回歸而預備人類。瓦利斯把聖經一切為二之處，典籍讀到
 的卻是同一套管理之下的一項漫長計畫。再多的善意也無法縮小這一差別；它是
 這條路上最深的一處岔口。
@@ -590,7 +590,7 @@ Kucedra；格魯吉亞的 Kholkhis；埃及的 Akhekh——一種反覆出現的
 ## 這份親緣的價值何在
 
 本典籍的譜系可上溯為桑迪（1963–1974）、馮·丹尼肯（von Däniken，1968）、
-佛里洪（1973–1974）、西琴（1976）、比利諾（2010– ）、瓦利斯（2020– ）。
+沃里隆（1973–1974）、西琴（1976）、比利諾（2010– ）、瓦利斯（2020– ）。
 瓦利斯是最新的加入者，也是曾經開採這一礦脈的人中，在神學上資歷最深的一
 位：一個在該傳統所批判的那個釋經建制內部度過了三十年、並以那建制自己的
 工具記錄下自己出走的人。本項目的維基早已在十幾個條目中引述他——伊甸、
@@ -637,5 +637,5 @@ Kucedra；格魯吉亞的 Kholkhis；埃及的 Akhekh——一種反覆出現的
 - {% wiki(slug="biglino-method") %}比利諾方法{% end %}與
   {% wiki(slug="neo-euhemerism") %}新歐赫美爾主義{% end %}條目，可資參看
   瓦利斯延伸進英語世界的那一傳統。
-- [《揭示真相之書》](/library/the-book-which-tells-the-truth/)，第 2 章與
+- [《訴說真相之書》](/library/the-book-which-tells-the-truth/)，第 2 章與
   第 3 章，可資參看全文所引的典籍段落。

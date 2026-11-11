@@ -115,13 +115,11 @@ au sens grec propre du mot, et le mouvement compte ses années depuis cette
 charnière, de sorte que 1946 est l'an un.{{ footnote(id="1") }} Le
 chapitre du premier message qui explique le compte porte exactement ce
 titre —
-{% libref(book="the-book-which-tells-the-truth", chapter=5, verse=1) %}« 1946, an 1 de la nouvelle ère »{% end %} —
+{% libref(book="the-book-which-tells-the-truth", chapter=5, verse=1) %}« 1946, an 1 de l'ère nouvelle »{% end %} —
 et le choix du messager lui-même est arrimé au même événement :
 
 {% library(book="the-book-which-tells-the-truth", chapter=1, verse=47) %}
-Enfin, nous avons décidé de choisir quelqu'un après la première explosion
-atomique, qui eut lieu en 1945, et tu es né en 1946. Nous te surveillons
-depuis ta naissance — et même avant. C'est pourquoi nous t'avons choisi.
+Enfin, nous avons décidé de choisir quelqu'un après la première explosion atomique qui eut lieu en 1945 et vous êtes né en 1946. Nous vous suivons depuis votre naissance et même avant. Voilà pourquoi nous vous avons choisi.
 {% end %}
 
 {% claim(type="speculative", id="woh-claim-0026") %}Placez les deux horloges côte à côte et la coïncidence se déclare
@@ -156,8 +154,7 @@ cinquante-deux traités pour la plupart gnostiques, dont l'Évangile de
 Thomas, enfouis depuis le quatrième siècle.{{ footnote(id="7") }} En
 l'espace d'environ un an, les jarres de Qumrân livrèrent les premiers
 manuscrits. Le 30 septembre 1946, Claude Vorilhon, plus tard
-{% wiki(slug="rael") %}Raël{% end %}, naquit — « si tu es né en 1946, ce
-n'est pas par hasard », dit le premier message à propos de la date
+{% wiki(slug="rael") %}Raël{% end %}, naquit — « si vous êtes né en 1946 ce n'est pas par hasard », dit le premier message à propos de la date
 ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=7) %}LLQDV 5:7{% end %}).
 En juin 1947, un pilote privé nommé Kenneth Arnold décrivit neuf objets
 au-dessus du mont Rainier se déplaçant « comme le ferait une soucoupe si on

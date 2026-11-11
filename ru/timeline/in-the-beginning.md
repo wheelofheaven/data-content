@@ -27,7 +27,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Книга Иова", author = "Anonymous (Hebrew Bible)", date = "ок. VI в. до н. э.", medium = "religious-text", path = "/library/job/", description = "Наиболее прямое изображение ха-сатана в Еврейской Библии как члена божественного совета, чья институциональная роль — возражать против уверенных планов." },
 ]

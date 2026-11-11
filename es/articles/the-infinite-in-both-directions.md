@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -83,7 +83,7 @@ references = [
 ]
 
 footnotes = [
-    { content = "Los dos encuentros son el marco de los dos primeros libros raelianos. El primer mensaje (1973, publicado en 1974 como *El Libro que dice la Verdad*) fue entregado a lo largo de seis días en el cráter del Puy-de-Lassolas, en la Auvernia. El segundo (1975, publicado como *Los extraterrestres me llevaron a su planeta*) tuvo lugar en parte en una base que Yahvé describe como «relativamente cercana a la tierra» —explícitamente no el planeta de origen de los Elohim, ni el Planeta de los Eternos donde se dice que viven los muertos recreados—." },
+    { content = "Los dos encuentros son el marco de los dos primeros libros raelianos. El primer mensaje (1973, publicado en 1974 como *El libro que dice la verdad*) fue entregado a lo largo de seis días en el cráter del Puy-de-Lassolas, en la Auvernia. El segundo (1975, publicado como *Los extraterrestres me llevaron a su planeta*) tuvo lugar en parte en una base que Yahvé describe como «relativamente cercana a la tierra» —explícitamente no el planeta de origen de los Elohim, ni el Planeta de los Eternos donde se dice que viven los muertos recreados—." },
     { content = "El estudio de cómo los rasgos de un organismo escalan con el tamaño de su cuerpo —del griego *állos*, «otro», y *métron*, «medida»—. La mayoría de las tasas y duraciones biológicas no escalan en proporción a la masa (un exponente de 1), sino como la masa elevada a una fracción simple, normalmente un múltiplo de un cuarto. La regularidad es uno de los patrones empíricos más robustos de toda la biología." },
     { content = "La frecuencia a la que una luz parpadeante deja de parecer parpadear y se funde en un resplandor constante. Es una lectura directa de la resolución temporal del sistema nervioso —su frecuencia de fotogramas—. Los animales pequeños y rápidos tienen frecuencias de fusión altas (una mosca resuelve el parpadeo por encima de 250 Hz, donde un humano funde en torno a 60); los grandes y lentos las tienen bajas. Para la mosca, en un sentido real y medible, nuestros segundos son largos." },
     { content = "El efecto de la relatividad general por el cual los relojes situados más adentro de un campo gravitatorio corren más lentos que los relojes situados más arriba. Confirmado desde la columna de Pound–Rebka de 22,5 metros (1960) hasta una diferencia de altura de 33 centímetros medida con relojes atómicos ópticos (2010), y corregido de forma continua en el sistema GPS, cuyos relojes satelitales ganan unos 38 microsegundos al día respecto al suelo." },

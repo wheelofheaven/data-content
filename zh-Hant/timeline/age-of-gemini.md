@@ -30,7 +30,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Raël)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "創世記", author = "佚名（希伯來聖經）；Wheel of Heaven 根據附有元音標記的馬所拉希伯來文本翻譯", date = "公元前6–5世紀", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "阿特拉哈西斯史詩 (Atrahasis)", author = "佚名（古巴比倫阿卡德語）", date = "約公元前17世紀", medium = "religious-text", path = "/library/atrahasis/", description = "古巴比倫的洪水敘事；與《創世記》6–9章最接近的前聖經對應文本。" },
@@ -553,7 +553,7 @@ link = "/timeline/age-of-taurus/"
 
 第四，彩虹。{% libref(book="genesis-woh", chapter=9, verse=13) %}創世記 9:13{% end %}具體說明耶洛因已將彩虹設於雲中作為盟約的記號。慣常解讀將此視為關於天氣的承諾——彩虹與雨水相關，現在也將與不再淹水的承諾相關。本章前面指出，希伯來詞 קֶשֶׁת（*keshet*）同時意指「彩虹」和「弓」（作為武器）。雙重含義意義重大。在此解讀中，立約的姿態是明確地撤除一件毀滅性工具。曾用於對付大地的弓現在被懸掛於雲中，被擱置，不再被部署。可見的彩虹是被放下的武器的可見證物。技術性解讀也是可能的：洪水後的大氣本身——已從事件的碎片中清理並重置為新的平衡——產生了我們現在所見的彩虹模式。在此解讀中，盟約之記號是洪水後的大氣本身，是條件已被重置、天空的設備已被更新的可見證明。
 
-這把弓也有其天文上的對應。被擱置的 *keshet*，也是黃道帶上與雙子座正相對的星座——射手座，那以拉滿之弓為標誌的弓箭手。依本語料庫的{% wiki(slug="doubled-signature") %}雙重印記{% end %}解讀，挪亞那以雙生為標記的雙子座時代，將自身的星座與輪盤正對面的星座一同承載，正如後來的時代也將如此——白羊座的公羊配天秤座的天平，金牛座的公牛配天蠍。雙生子與弓，是雙子座時代在為自己署名：雙子座與射手座，星座及其對宮。
+這把弓也有其天文上的對應。被擱置的 *keshet*，也是黃道帶上與雙子座正相對的星座——射手座，那以拉滿之弓為標誌的弓箭手。依本語料庫的{% wiki(slug="doubled-signature") %}雙重署名{% end %}解讀，挪亞那以雙生為標記的雙子座時代，將自身的星座與輪盤正對面的星座一同承載，正如後來的時代也將如此——白羊座的公羊配天秤座的天平，金牛座的公牛配天蠍。雙生子與弓，是雙子座時代在為自己署名：雙子座與射手座，星座及其對宮。
 
 此記號對聯盟雙方都是可見的——流亡造物者和人類倖存者都能在新大陸之上的共享天空中看到——這與其作為他們之間私人盟約之證物的功能一致，而非作為僅針對單一神聖一方的記號。
 

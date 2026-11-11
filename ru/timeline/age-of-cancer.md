@@ -30,8 +30,8 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité (Книга, говорящая правду)", author = "Клод Ворильон (Раэль)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète (Инопланетяне доставили меня на свою планету)", author = "Клод Ворильон (Раэль)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "Le Livre qui dit la vérité (Книга, которая говорит правду)", author = "Клод Ворильон (Раэль)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
+    { title = "Les Extra-Terrestres m'ont emmené sur leur planète (Инопланетяне забрали меня на свою планету)", author = "Клод Ворильон (Раэль)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Бытие", author = "Анонимный автор (Еврейская Библия); перевод WoH с огласованного масоретского текста", date = "ок. VI–V вв. до н. э.", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "1 Енох (Книга Стражей, Книга притч, Астрономическая книга)", author = "Анонимный автор (иудаизм Второго Храма)", date = "ок. III в. до н. э. – I в. до н. э.", medium = "religious-text", path = "/library/book-of-enoch/", description = "Наиболее эксплицитная древняя запись о Стражах, спустившихся на Землю, взявших в жёны человеческих женщин и породивших нефилимов. Источник имён главных Стражей, упомянутых в §VII." },
     { title = "Книга Юбилеев", author = "Анонимный автор (иудаизм Второго Храма)", date = "ок. II в. до н. э.", medium = "religious-text", path = "/library/book-of-jubilees/", description = "Параллельный дораввинистический источник о цикле Стражей и нефилимов." },

@@ -26,7 +26,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité (真実を告げる書)", author = "クロード・ヴォリロン(ラエル)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité (真実を告げる書)", author = "クロード・ヴォリロン(ラエル)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète (地球外生命体は私を彼らの惑星へ連れて行った)", author = "クロード・ヴォリロン(ラエル)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "マタイによる福音書", author = "作者不詳(使徒マタイに帰せられる)", date = "西暦80–90年頃", medium = "religious-text", path = "/library/matthew-woh/" },
     { title = "ルカによる福音書 / 使徒言行録", author = "作者不詳(ルカに帰せられる)", date = "西暦80–90年頃", medium = "religious-text", path = "/library/luke/" },

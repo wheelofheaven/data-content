@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -77,7 +77,7 @@ tradition_in_canon = "「摩门教徒」在第一部讯息中被列为为创造�
 
 ### 在雷尔的评注之声中被提及
 
-这一段落见于第三部书《[欢迎外星人](/zh/library/lets-welcome-the-extraterrestrials/)》（1979）的「一种无神论的宗教」一章，雷尔在那里论证，雷尔派虽然没有神，却仍是一种宗教。该书汇集了他对读者问题的回答以及他自己的文章。文集将这一评注之声视为正典，并将对它的每一次使用都标明为雷尔的声音，有别于向他口授的讯息。
+这一段落见于第三部书《[让我们欢迎外星人](/zh/library/lets-welcome-the-extraterrestrials/)》（1979）的「一种无神论的宗教」一章，雷尔在那里论证，雷尔派虽然没有神，却仍是一种宗教。该书汇集了他对读者问题的回答以及他自己的文章。文集将这一评注之声视为正典，并将对它的每一次使用都标明为雷尔的声音，有别于向他口授的讯息。
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=27) %}
 即使雷尔派信徒不相信一位「神」，他们仍然承认耶稣是我们的创造者所派遣的使者，正如他们承认摩西、佛陀、穆罕默德、约瑟·斯密以及所有其他曾在这地球上生活过的伟大先知一样，并如经典所预言的那样，等待他们与耶洛因一同归来。
@@ -87,7 +87,7 @@ tradition_in_canon = "「摩门教徒」在第一部讯息中被列为为创造�
 
 ### 不见于口授的讯息
 
-在第二部讯息《[外星人带我去他们的星球](/zh/library/extraterrestrials-took-me-to-their-planet/)》（1975）中，耶和华介绍了永恒者行星上一场餐会的就座者：耶稣、摩西、以利亚、「在地球上人们以佛陀之名记得的那一位」以及穆罕默德，他们位列「我们在地球上接触之后所创立的各宗教」的「四十人左右」的代表之中（ETTMTTP-2:62–64）。斯密不在其中。同一部讯息列出雷尔在「先知系列」中的前辈，提到摩西、以西结、以利亚、耶稣、穆罕默德和佛陀（ETTMTTP-3:257），斯密也不在其中。{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Extraterrestrials Took Me to Their Planet, ETTMTTP-2:62–64, 3:257") }}正典没有给出这四十人的名册，也没有给出他们之间的次序；文集既不让斯密在餐桌旁入座，也不给他指定编号。
+在第二部讯息《[外星人带我去他们的行星](/zh/library/extraterrestrials-took-me-to-their-planet/)》（1975）中，耶和华介绍了永恒者行星上一场餐会的就座者：耶稣、摩西、以利亚、「在地球上人们以佛陀之名记得的那一位」以及穆罕默德，他们位列「我们在地球上接触之后所创立的各宗教」的「四十人左右」的代表之中（ETTMTTP-2:62–64）。斯密不在其中。同一部讯息列出雷尔在「先知系列」中的前辈，提到摩西、以西结、以利亚、耶稣、穆罕默德和佛陀（ETTMTTP-3:257），斯密也不在其中。{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Extraterrestrials Took Me to Their Planet, ETTMTTP-2:62–64, 3:257") }}正典没有给出这四十人的名册，也没有给出他们之间的次序；文集既不让斯密在餐桌旁入座，也不给他指定编号。
 
 与此相对，他所创立的传统则在一部口授的讯息中被提及。{% claim(type="direct", id="woh-claim-0027") %}在第一部讯息中，耶洛因将「佛教、伊斯兰教、摩门教徒」列为「以或多或少隐晦的方式为我们的工作作见证」的宗教（TBWTT-5:54），这是正典将自身记述为现存诸宗教被去神秘化之共同源头的一部分。{% end %}{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="The Book Which Tells the Truth, TBWTT-5:54") }}这一对摩门教徒的记述属于正典，并不包含后期圣徒接受它的任何主张。
 

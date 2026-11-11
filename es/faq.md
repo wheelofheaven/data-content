@@ -324,7 +324,7 @@ question = "¿Dónde puedo leer los textos fuente?"
 answer = """
 La sección [Biblioteca](/es/library/) aloja los textos fuente primarios de los que se nutre el corpus, con comentario y contexto. Esto incluye:
 
-- *El libro que dice la verdad* (Vorilhon, 1974) — el texto raeliano fundacional — junto con sus continuaciones *Extraterrestrials Took Me to Their Planet* y *Let's Welcome the Extraterrestrials*.
+- *El libro que dice la verdad* (Vorilhon, 1974) — el texto raeliano fundacional — junto con sus continuaciones *Los extraterrestres me llevaron a su planeta* y *Acojamos a los extraterrestres*.
 - Génesis (el texto hebreo vocalizado con la traducción propia del proyecto en paralelo, más una edición estándar en inglés).
 - El Libro de Henoc.
 - El Enuma Elish.

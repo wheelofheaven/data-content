@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -38,7 +38,7 @@ see_also = [
     { title = "宇宙鏈", path = "wiki/cosmic-chain", description = "此模式在其中反覆出現的承接框架。" },
     { title = "雙重署名", path = "wiki/doubled-signature", description = "說明此美學與框架內容之間何以相符的原則。" },
     { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "被讀為賽博樂園主義式聯盟—文明現實的框架。" },
-    { title = "雷爾", path = "wiki/rael", description = "克洛德·沃里勒翁,永恆者行星記述的來源。" },
+    { title = "雷爾", path = "wiki/rael", description = "克洛德·沃里隆,永恆者行星記述的來源。" },
     { title = "大使館", path = "wiki/embassy", description = "為開啟實現之回歸作準備的雷爾運動計畫。" },
 ]
 
@@ -173,7 +173,7 @@ note = "一部關於多物種城市未來的太陽龐克選集。"
 
 [[extra.references]]
 id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te"
-note = "沃里勒翁對永恆者行星的接觸記述,被讀為成熟的、宇宙規模的賽博樂園主義。"
+note = "沃里隆對永恆者行星的接觸記述,被讀為成熟的、宇宙規模的賽博樂園主義。"
 +++
 
 **賽博樂園主義**是一場當代美學—文化運動,描繪一個先進科技與自然世界並存相融、而非彼此對立,並使匱乏轉為豐裕的未來。它最早在《美學維基》上被形式化整理,{{ footnote(id="1") }}隨後在《賽博樂園主義宣言》(2023){{ cite(id="cyberparadism-manifesto", text="[1]", title="Cyberparadism Manifesto, zarazinsfuss, 2023") }}中得到系統闡述,該宣言以**八項法則**——豐裕、公平、自由、和諧、保存、認可、責任與簡約——以及**六個標誌**來組織這場運動:核融合能源、反重力、合成生命工程、地球化、全面自動化與開源協作。

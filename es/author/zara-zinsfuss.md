@@ -1,6 +1,6 @@
 +++
 title = "Zara Zinsfuss"
-description = "Relato del autor sobre el camino hacia Wheel of Heaven — las lecturas formativas, la noche de reconocimiento con El Libro Que Dice la Verdad, los quince años de cuadernos privados, y la promesa hecha en una azotea de Jerusalén en 2022 que convirtió los cuadernos en un corpus público."
+description = "Relato del autor sobre el camino hacia Wheel of Heaven — las lecturas formativas, la noche de reconocimiento con El libro que dice la verdad, los quince años de cuadernos privados, y la promesa hecha en una azotea de Jerusalén en 2022 que convirtió los cuadernos en un corpus público."
 template = "author.html"
 date = 2026-05-10
 
@@ -53,7 +53,7 @@ En un verano caluroso de finales de la primera década del 2000, en una noche qu
 
 Lo que obtuve en su lugar fue una especie de frenesí. El frenesí me llevó hacia lo que mejor conocía, que era internet y las enciclopedias impresas con las que había pasado mi infancia. Empecé a leer artículos de Wikipedia sobre religiones. Todas las religiones que pude encontrar, en orden alfabético. Cuando los textos fundacionales estaban disponibles en línea, también los leía. Dormí mal varias noches. No estoy seguro de haber dormido nada.
 
-Llegué a la letra R, y encontré *El Libro Que Dice la Verdad*, disponible libremente en línea, y lo leí. Lo leí una vez, y luego lo leí otra vez, y no recuerdo cuántas veces lo había leído cuando la luz del amanecer entró por mi ventana y comprendí que mi búsqueda había terminado. El texto — el relato de Yahvé sobre su contacto con Raël, la desmistificación del vocabulario religioso con el que había estado luchando, la afirmación específica de que la Biblia hebrea preservaba una historia real de un proyecto científico real llevado a cabo por seres reales que no eran dioses — aterrizó sobre mí con el sentimiento inequívoco del reconocimiento. Había buscado algo. Lo había encontrado. Cualquier trabajo posterior que quedara por hacer — los años de lectura adicional, la integración gradual con todo lo demás que había aprendido, la decisión eventual sobre qué hacer con lo encontrado — todo eso quedaba aguas abajo del reconocimiento ocurrido en aquellas noches de verano.
+Llegué a la letra R, y encontré *El libro que dice la verdad*, disponible libremente en línea, y lo leí. Lo leí una vez, y luego lo leí otra vez, y no recuerdo cuántas veces lo había leído cuando la luz del amanecer entró por mi ventana y comprendí que mi búsqueda había terminado. El texto — el relato de Yahvé sobre su contacto con Raël, la desmistificación del vocabulario religioso con el que había estado luchando, la afirmación específica de que la Biblia hebrea preservaba una historia real de un proyecto científico real llevado a cabo por seres reales que no eran dioses — aterrizó sobre mí con el sentimiento inequívoco del reconocimiento. Había buscado algo. Lo había encontrado. Cualquier trabajo posterior que quedara por hacer — los años de lectura adicional, la integración gradual con todo lo demás que había aprendido, la decisión eventual sobre qué hacer con lo encontrado — todo eso quedaba aguas abajo del reconocimiento ocurrido en aquellas noches de verano.
 
 ## Quince años de cuadernos privados
 

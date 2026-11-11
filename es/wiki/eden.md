@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -150,7 +150,7 @@ date_type = "interno al marco; derivado de la lectura precesional del Génesis y
 closing_event = "Disrupción catastrófica durante el Diluvio de la Era de Géminis, c. 6.690 a. e. c."
 current_status = "Configuración antediluviana de la región ya no existente; remanentes posdiluvianos identificados por el marco con el Levante moderno"
 principal_text = "Génesis 2:8–3:24"
-principal_framework_source = "*El Libro que Dice la Verdad* (Vorilhon/Raël, 1974), capítulo 2"
+principal_framework_source = "*El libro que dice la verdad* (Vorilhon/Raël, 1974), capítulo 2"
 +++
 
 **Edén** (hebreo: <span class="hebrew">עֵדֶן</span>, *ʿĒden*) es la región nombrada en la {% wiki(slug="hebrew-bible") %}Biblia hebrea{% end %} como el lugar en el que los primeros humanos fueron creados y vivieron antes de su expulsión, narrada principalmente en Génesis 2:8–3:24. El texto hebreo distingue la región más amplia (*ʿĒden*) del jardín cerrado dentro de ella (*gan-ʿĒden*, «el jardín de Edén»); Génesis 2:8 especifica que el jardín fue plantado «en Edén, al oriente». El jardín contiene las especies nombradas de árboles, los cuatro ríos (Pisón, Guijón, Tigris, Éufrates), el Árbol de la Vida y el {% wiki(slug="tree-of-the-knowledge-of-good-and-evil") %}Árbol del Conocimiento del Bien y del Mal{% end %}. La narrativa de la creación, la instrucción, la transgresión y la expulsión humana tiene lugar en y alrededor de este entorno cerrado.
@@ -240,7 +240,7 @@ El Edén estuvo ocupado, según la lectura del corpus, a lo largo de un período
 
 Las operaciones del equipo Israel en la región del Edén comenzaron, según la lectura del marco, durante la Era de Leo más amplia (c. 11.010 – 8.850 a. e. c.) — la sexta era precesional del proyecto de creación, en la que los equipos creadores sintetizaron los animales terrestres y, en última instancia, los primeros humanos. El trabajo específico del equipo Israel en el Edén durante el Leo tardío culminó en la creación de los primeros humanos (Adán y Eva, en los nombres del Génesis) aproximadamente en el 11.375 a. e. c. — la fecha derivada del cálculo de las 666 generaciones que ancla la cronología del marco.
 
-Durante esta fase operativa inicial, el jardín fue el emplazamiento de la síntesis biológica activa{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *El Libro que Dice la Verdad* (1974), capítulo 2 «La Verdad» — la principal fuente raeliana para la lectura del marco del Edén") }}. Los laboratorios del equipo produjeron a los primeros humanos mediante las técnicas de diseño genético y síntesis de laboratorio que la civilización Elohim poseía; los individuos resultantes fueron colocados en el entorno preparado del jardín e instruidos en los idiomas, las ciencias y las artes que el equipo juzgó apropiados para ellos. La instrucción estaba deliberadamente acotada: a los humanos se les concedió el libre uso de los recursos educativos y biológicos del jardín, pero la prohibición relativa al Árbol del Conocimiento del Bien y del Mal correspondía a una restricción específica del acceso a los archivos científicos y tecnológicos del equipo — los materiales cuyo uso habría dado a los humanos capacidades que las autoridades del equipo, en el mundo de origen, no querían que adquirieran{{ footnote(id="4") }}.
+Durante esta fase operativa inicial, el jardín fue el emplazamiento de la síntesis biológica activa{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *El libro que dice la verdad* (1974), capítulo 2 «La Verdad» — la principal fuente raeliana para la lectura del marco del Edén") }}. Los laboratorios del equipo produjeron a los primeros humanos mediante las técnicas de diseño genético y síntesis de laboratorio que la civilización Elohim poseía; los individuos resultantes fueron colocados en el entorno preparado del jardín e instruidos en los idiomas, las ciencias y las artes que el equipo juzgó apropiados para ellos. La instrucción estaba deliberadamente acotada: a los humanos se les concedió el libre uso de los recursos educativos y biológicos del jardín, pero la prohibición relativa al Árbol del Conocimiento del Bien y del Mal correspondía a una restricción específica del acceso a los archivos científicos y tecnológicos del equipo — los materiales cuyo uso habría dado a los humanos capacidades que las autoridades del equipo, en el mundo de origen, no querían que adquirieran{{ footnote(id="4") }}.
 
 ### La crisis política: Leo tardío / Cáncer temprano
 

@@ -36,7 +36,7 @@ see_also = [
     { title = "Genèse", path = "/wiki/genesis/", description = "Le livre biblique contenant le récit du Déluge (Genèse 6-9)." },
     { title = "Sodome et Gomorrhe", path = "/wiki/sodom-and-gomorrah/", description = "Un événement de frappe analogue postérieur dont le mécanisme est structurellement similaire." },
     { title = "Babel", path = "/wiki/babel/", description = "L'épisode post-diluvien de dispersion civilisationnelle." },
-    { title = "Signature doublée", path = "/wiki/doubled-signature/", description = "Le principe du corpus selon lequel la tradition mondiale du déluge préserve la mémoire historique sous-jacente." },
+    { title = "Signature redoublée", path = "/wiki/doubled-signature/", description = "Le principe du corpus selon lequel la tradition mondiale du déluge préserve la mémoire historique sous-jacente." },
     { title = "Théomachie", path = "/wiki/theomachy/", description = "Le cadre plus large du conflit cosmico-politique au sein duquel la frappe opère." },
 ]
 

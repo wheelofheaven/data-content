@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -960,6 +960,6 @@ der Letzte in der Reihe sein müsse.
   {% wiki(slug="cosmic-pluralism") %}Kosmischer Pluralismus{% end %}, für die
   Ontologie der Designerkette, die Humes Regress ohne einen ersten Macher
   beantwortet.
-- [*The Book Which Tells the Truth*](/library/the-book-which-tells-the-truth/),
+- [*Das Buch, das die Wahrheit sagt*](/library/the-book-which-tells-the-truth/),
   Kapitel 2, für die im ganzen Artikel zitierte Darstellung der
   Laborschöpfung durch den Kanon.

@@ -30,8 +30,8 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité(讲述真理的书)", author = "克劳德·沃里隆(雷尔)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète(外星人把我带到他们的星球)", author = "克劳德·沃里隆(雷尔)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "Le Livre qui dit la vérité(讲述真相之书)", author = "克劳德·沃里隆(雷尔)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
+    { title = "Les Extra-Terrestres m'ont emmené sur leur planète(外星人带我去他们的行星)", author = "克劳德·沃里隆(雷尔)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "创世记", author = "佚名(希伯来圣经);Wheel of Heaven 版自带尼库点马所拉希伯来文本翻译", date = "公元前6—5世纪", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "以诺一书(守望者之书、寓言书、天文书)", author = "佚名(第二圣殿时期犹太教)", date = "约公元前3世纪—公元前1世纪", medium = "religious-text", path = "/library/book-of-enoch/", description = "关于守望者降临、与人类女子交合并产生拿非利人最明确的古代记录。第七节所引主要守望者名字的来源。" },
     { title = "禧年书", author = "佚名(第二圣殿时期犹太教)", date = "约公元前2世纪", medium = "religious-text", path = "/library/book-of-jubilees/", description = "关于守望者与拿非利人循环的平行的、前拉比时代的史料。" },

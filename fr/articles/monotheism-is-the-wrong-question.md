@@ -530,7 +530,7 @@ Sa prétention maîtresse sur l'idolâtrie apparaît précisément dans la péri
 à Abraham :
 
 {% library(book="the-book-which-tells-the-truth", chapter=3, verse=4) %}
-Mais les hommes, retombés dans un état très primitif après la destruction des plus intelligents et des centres de progrès comme Sodome et Gomorrhe, se mirent stupidement à adorer des morceaux de pierre et des idoles, oubliant qui les avait créés.
+Mais les hommes, retombés dans un état très primitif après la destruction des plus intelligents et des centres de progrès comme Sodome et Gomorrhe, se mettaient à adorer bêtement des morceaux de pierre et des idoles en oubliant qui les avait créés.
 {% end %}
 
 La proposition finale fournit le cadre : **oubliant qui les avait créés**. L'erreur
@@ -547,7 +547,7 @@ examine cette transformation du pluriel au singulier à travers les lectures
 littéralistes modernes.
 
 {% library(book="the-book-which-tells-the-truth", chapter=5, verse=21) %}
-Cependant, leurs erreurs sont grandes, en particulier celle d'avoir mis trop de surnaturel dans la vérité, d'avoir mal traduit les écrits bibliques en remplaçant, dans les Bibles habituelles, le terme Elohim, qui désigne les créateurs, par Dieu, un terme au singulier, alors qu'Elohim, en hébreu, est le pluriel d'Eloha, transformant ainsi les créateurs en un Dieu unique et incompréhensible. Les autres erreurs sont d'avoir fait adorer aux gens un morceau de bois mis en croix en mémoire de Jésus-Christ. Une croix n'est pas le Christ. Un morceau de bois croisé ne signifie rien.
+Toutefois, leurs erreurs sont grandes, particulièrement celle d'avoir trop mis de surnaturel dans la vérité, d'avoir mal traduit les écrits bibliques en remplaçant dans les «Bibles usuelles» le terme «Elohim» qui désigne les créateurs, par Dieu, un terme au singulier alors que Elohim, en Hébreu est le pluriel d'Eloha, transformant ainsi les créateurs en un Dieu unique incompréhensible. Les autres erreurs sont d'avoir fait adorer aux gens un bout de bois mis en croix en souvenir de Jésus-Christ. Une croix n'est pas le Christ. Un bout de bois croisé ne signifie rien.
 {% end %}
 
 Ce n'est pas une analogie marginale. C'est la théorie du canon sur l'histoire

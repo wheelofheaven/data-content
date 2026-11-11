@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -88,7 +88,7 @@ Erwählung bedeutet in dieser Theologie ebenso Verpflichtung wie Vorrecht. Amos 
 
 ## In der Lesart von Wheel of Heaven
 
-{% claim(type="framework", id="woh-claim-0053") %}Der Rahmen liest die [Hebräische Bibel](../hebrew-bible/) als ein verdichtetes, überliefertes und theologisch überarbeitetes Zeugnis des Wirkens der Schöpfer an der Menschheit{% end %}. Diese Haltung begründet keine bestimmte Lesart. Die Lesart Israels beruht auf den eigenen Aussagen des Kanons in *Das Buch, das die Wahrheit sagt* (1974), *Die Außerirdischen führten mich auf ihren Planeten* (1975) und *Begrüßen wir die Außerirdischen* (1979). Die drei Bücher gehören zu einer einzigen Autorentradition, sodass ihre Übereinstimmung als eine Quelle zählt.
+{% claim(type="framework", id="woh-claim-0053") %}Der Rahmen liest die [Hebräische Bibel](../hebrew-bible/) als ein verdichtetes, überliefertes und theologisch überarbeitetes Zeugnis des Wirkens der Schöpfer an der Menschheit{% end %}. Diese Haltung begründet keine bestimmte Lesart. Die Lesart Israels beruht auf den eigenen Aussagen des Kanons in *Das Buch, das die Wahrheit sagt* (1974), *Außerirdische brachten mich auf ihren Planeten* (1975) und *Empfangen wir die Außerirdischen* (1979). Die drei Bücher gehören zu einer einzigen Autorentradition, sodass ihre Übereinstimmung als eine Quelle zählt.
 
 ### Das Labor und der Wettbewerb
 

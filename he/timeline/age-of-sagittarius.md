@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -30,7 +30,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "ספר בראשית", author = "אנונימי (התנ״ך); תרגום WoH מן הטקסט המסורתי המנוקד", date = "המאה ה-6–5 לפנה״ס בקירוב", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "Theory of the Earth", author = "James Hutton", date = "1788", medium = "academic-paper", description = "ההצהרה המייסדת של האוניפורמיטריאניזם — הדוקטרינה הגורסת שהתהליכים הגיאולוגיים של ההווה הם המפתח לעבר." },

@@ -30,7 +30,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Raël)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Genesis", author = "Anonym (Hebräische Bibel); WoH-Übersetzung aus dem punktierten masoretischen Hebräisch", date = "ca. 6.–5. Jh. v. Chr.", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "Atrahasis", author = "Anonym (altbabylonisches Akkadisch)", date = "ca. 17. Jh. v. Chr.", medium = "religious-text", path = "/library/atrahasis/", description = "Die altbabylonische Flutgeschichte; nächste vorbiblische Parallele zu Genesis 6–9." },

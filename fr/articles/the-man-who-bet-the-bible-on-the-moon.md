@@ -599,7 +599,7 @@ fut une réinitialisation, non une
 punition](/articles/the-flood-was-a-reset-not-a-punishment/). Babel
 suit dans les deux récits comme une roquetterie non autorisée : la tour
 de lancement née du doute chez Sendy, le récit du canon d'un peuple qui
-*« entreprit la conquête de l'espace »* vers la planète des créateurs
+*« entreprit bientôt de se lancer dans la conquête de l'espace »* vers la planète des créateurs
 avant d'être dispersé
 ({% libref(book="the-book-which-tells-the-truth", chapter=2, verse=72) %}LLQDV 2:72{% end %}).
 

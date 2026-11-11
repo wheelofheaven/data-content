@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -77,19 +77,19 @@ Jan Shipps, Historikerin der amerikanischen Religion an der Indiana University�
 
 ### In Raëls Kommentarstimme genannt
 
-Die Passage steht im dritten Buch, *[Begrüßen wir die Außerirdischen](/de/library/lets-welcome-the-extraterrestrials/)* (1979), im Kapitel „Eine atheistische Religion“, in dem Raël argumentiert, dass der Raëlismus eine Religion sei, obwohl er keinen Gott hat. Das Buch versammelt seine Antworten auf Leserfragen und seine eigenen Essays. Der Korpus behandelt diese Kommentarstimme als Kanon und kennzeichnet jede Verwendung als die Raëls, unterschieden von den ihm diktierten Botschaften.
+Die Passage steht im dritten Buch, *[Empfangen wir die Außerirdischen](/de/library/lets-welcome-the-extraterrestrials/)* (1979), im Kapitel „Eine atheistische Religion“, in dem Raël argumentiert, dass der Raëlismus eine Religion sei, obwohl er keinen Gott hat. Das Buch versammelt seine Antworten auf Leserfragen und seine eigenen Essays. Der Korpus behandelt diese Kommentarstimme als Kanon und kennzeichnet jede Verwendung als die Raëls, unterschieden von den ihm diktierten Botschaften.
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=27) %}
 Auch wenn die Raëlianer nicht an einen „Gott“ glauben, erkennen sie Jesus dennoch als einen von unseren Schöpfern gesandten Boten an, ebenso wie Moses, Buddha, Mohammed, Joseph Smith und alle anderen großen Propheten, die auf dieser Erde gelebt haben, und erwarten ihre Rückkehr in Begleitung der Elohim, wie es die Schriften vorhergesagt haben.
 {% end %}
 
-Dies ist die einzige Stelle in den drei kanonischen Büchern, an der Smith genannt wird. Zweimal an anderer Stelle im selben Buch nennt Raël die Boten, die die Elohim zur [Botschaft](../embassy/) begleiten werden, und keine der beiden Listen enthält Smith: „die alten Boten: Moses, Jesus, Buddha und Mohammed“ (LWTE-1:87) und „die großen Propheten, Moses, Jesus, Buddha, Mohammed und andere“ (LWTE-3:82).{{ cite(id="lets-welcome-the-extraterrestrials", text="[1]", title="Let's Welcome the Extraterrestrials, LWTE-1:87, 3:27, 3:82") }}
+Dies ist die einzige Stelle in den drei kanonischen Büchern, an der Smith genannt wird. Zweimal an anderer Stelle im selben Buch nennt Raël die Boten, die die Elohim zur [Botschaft](../embassy/) begleiten werden, und keine der beiden Listen enthält Smith: „die alten Boten: Moses, Jesus, Buddha und Mohammed“ (LWTE-1:87) und „die großen Propheten, Moses, Jesus, Buddha, Mohammed und andere“ (LWTE-3:82).{{ cite(id="lets-welcome-the-extraterrestrials", text="[1]", title="Empfangen wir die Außerirdischen, LWTE-1:87, 3:27, 3:82") }}
 
 ### In den diktierten Botschaften abwesend
 
-In der zweiten Botschaft, *[Die Außerirdischen führten mich auf ihren Planeten](/de/library/extraterrestrials-took-me-to-their-planet/)* (1975), stellt Jahwe die bei einem Mahl auf dem Planeten der Ewigen Sitzenden vor: Jesus, Moses, Elia, „derjenige, an den man sich auf Erden unter dem Namen Buddha erinnert“, und Mohammed, unter „den etwa vierzig“ Vertretern „der infolge unserer Kontakte auf der Erde geschaffenen Religionen“ (ETTMTTP-2:62–64). Smith ist nicht unter ihnen. Die Liste der Vorgänger Raëls in „der Linie der Propheten“ in derselben Botschaft nennt Moses, Hesekiel, Elija, Jesus, Mohammed und Buddha (ETTMTTP-3:257), und auch dort ist Smith nicht darunter.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Extraterrestrials Took Me to Their Planet, ETTMTTP-2:62–64, 3:257") }} Der Kanon gibt kein Verzeichnis der vierzig und keine Reihenfolge unter ihnen, und der Korpus setzt Smith weder an den Tisch noch weist er ihm eine Nummer zu.
+In der zweiten Botschaft, *[Außerirdische brachten mich auf ihren Planeten](/de/library/extraterrestrials-took-me-to-their-planet/)* (1975), stellt Jahwe die bei einem Mahl auf dem Planeten der Ewigen Sitzenden vor: Jesus, Moses, Elia, „derjenige, an den man sich auf Erden unter dem Namen Buddha erinnert“, und Mohammed, unter „den etwa vierzig“ Vertretern „der infolge unserer Kontakte auf der Erde geschaffenen Religionen“ (ETTMTTP-2:62–64). Smith ist nicht unter ihnen. Die Liste der Vorgänger Raëls in „der Linie der Propheten“ in derselben Botschaft nennt Moses, Hesekiel, Elija, Jesus, Mohammed und Buddha (ETTMTTP-3:257), und auch dort ist Smith nicht darunter.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Außerirdische brachten mich auf ihren Planeten, ETTMTTP-2:62–64, 3:257") }} Der Kanon gibt kein Verzeichnis der vierzig und keine Reihenfolge unter ihnen, und der Korpus setzt Smith weder an den Tisch noch weist er ihm eine Nummer zu.
 
-Die von ihm gegründete Tradition wird dagegen in einer diktierten Botschaft genannt. {% claim(type="direct", id="woh-claim-0027") %}In der ersten Botschaft zählen die Elohim „die buddhistische Religion, die islamische, die Mormonen“ zu den Religionen, „die auf eine mehr oder weniger dunkle Weise von unserem Werk zeugen“ (TBWTT-5:54), als Teil der Selbstdarstellung des Kanons als entmystifizierte gemeinsame Quelle der bestehenden Religionen.{% end %}{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="The Book Which Tells the Truth, TBWTT-5:54") }} Diese Darstellung der Mormonen ist die des Kanons, und sie enthält keine Behauptung, dass die Heiligen der Letzten Tage sie annehmen.
+Die von ihm gegründete Tradition wird dagegen in einer diktierten Botschaft genannt. {% claim(type="direct", id="woh-claim-0027") %}In der ersten Botschaft zählen die Elohim „die buddhistische Religion, die islamische, die Mormonen“ zu den Religionen, „die auf eine mehr oder weniger dunkle Weise von unserem Werk zeugen“ (TBWTT-5:54), als Teil der Selbstdarstellung des Kanons als entmystifizierte gemeinsame Quelle der bestehenden Religionen.{% end %}{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="Das Buch, das die Wahrheit sagt, TBWTT-5:54") }} Diese Darstellung der Mormonen ist die des Kanons, und sie enthält keine Behauptung, dass die Heiligen der Letzten Tage sie annehmen.
 
 ### Gesandte und die prophetische Rolle
 

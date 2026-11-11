@@ -279,7 +279,7 @@ The site is free, source-aware, and built so the work can be checked. Every entr
 <div class="press-og-grid">
 <img src="https://assets.wheelofheaven.world/images/og/en/wiki/elohim.jpg" alt="ויקי: אלוהים" loading="lazy">
 <img src="https://assets.wheelofheaven.world/images/og/en/timeline/age-of-aquarius.jpg" alt="ציר זמן: עידן הדלי" loading="lazy">
-<img src="https://assets.wheelofheaven.world/images/og/en/library/the-book-which-tells-the-truth.jpg" alt="ספרייה: הספר המספר את האמת" loading="lazy">
+<img src="https://assets.wheelofheaven.world/images/og/en/library/the-book-which-tells-the-truth.jpg" alt="ספרייה: הספר המגלה את האמת" loading="lazy">
 <img src="https://assets.wheelofheaven.world/images/og/en/articles/example-explainer.jpg" alt="דוגמת מאמר" loading="lazy">
 <img src="https://assets.wheelofheaven.world/images/og/en/news/pursue-release-01-uap-files.jpg" alt="דיווח חדר חדשות" loading="lazy">
 <img src="https://assets.wheelofheaven.world/images/og/de/library/the-book-which-tells-the-truth.jpg" alt="ערך ספרייה בגרמנית" loading="lazy">

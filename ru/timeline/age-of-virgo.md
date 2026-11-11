@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -28,7 +28,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Клод Ворильон (Раэль)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Клод Ворильон (Раэль)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Клод Ворильон (Раэль)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Бытие", author = "Анонимный автор (Еврейская Библия); перевод WoH с огласованного масоретского иврита", date = "ок. VI–V вв. до н. э.", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "A Hebrew and English Lexicon of the Old Testament", author = "Francis Brown, S. R. Driver, and Charles A. Briggs", date = "1906", medium = "nonfiction-book", description = "Лексикон BDB. Источник статей о таннин / таниним, обсуждаемых в §V." },

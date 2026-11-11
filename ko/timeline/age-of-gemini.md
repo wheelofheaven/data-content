@@ -30,7 +30,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité (진실을 말하는 책)", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité (진실을 말하는 책)", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète (외계인들이 나를 그들의 행성으로 데려갔다)", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "창세기", author = "익명 (히브리어 성경); 점이 찍힌 마소라 히브리어로부터의 WoH 번역", date = "기원전 6–5세기경", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "아트라하시스", author = "익명 (고대 바빌로니아 아카드어)", date = "기원전 17세기경", medium = "religious-text", path = "/library/atrahasis/", description = "고대 바빌로니아 홍수 서사. 창세기 6–9장과 가장 가까운 성서 이전의 평행 텍스트." },
@@ -553,7 +553,7 @@ Carlson이 가장 실질적으로 문서화한 재앙적 홍수 현상 — 마�
 
 넷째, 무지개. {% libref(book="genesis-woh", chapter=9, verse=13) %}창세기 9:13{% end %}은 엘로힘이 언약의 표지로 구름에 무지개를 두었다고 명시합니다. 관례적 해석은 이를 날씨에 관한 약속으로 다룹니다 — 비와 연관된 무지개가 이제 다시 홍수를 일으키지 않겠다는 약속과도 연관될 것이라는 것입니다. 본 장은 앞서 히브리어 단어 קֶשֶׁת (*keshet*)가 "무지개"와 "활"(무기처럼) 모두를 의미함을 언급했습니다. 이중 의미는 의미심장합니다. 언약의 몸짓은 이 해석에서 파괴 도구의 명시적 은퇴입니다. 땅에 대해 사용되었던 활은 이제 구름에 걸리고, 따로 놓여, 더 이상 배치되지 않습니다. 가시적 무지개는 내려놓인 무기의 가시적 토큰입니다. 기술적 해석도 가용합니다. 대홍수 이후 대기 자체 — 사건의 잔해로부터 깨끗해지고 새 평형으로 재설정된 — 가 우리가 지금 보는 무지개 패턴을 산출합니다. 이 해석에서 언약의 표지는 대홍수 이후 대기 자체이며, 조건이 재설정되고 하늘의 장치가 갱신되었음을 가시적으로 입증합니다.
 
-활에는 천문학적 대응물도 있습니다. 내려놓은 *keshet*는 황도대에서 쌍둥이자리의 정반대편에 있는 별자리 — 당겨진 활을 상징으로 삼는 궁수자리 — 이기도 합니다. 코퍼스의 {% wiki(slug="doubled-signature") %}이중 표지{% end %} 독해에 따르면, 노아의 쌍둥이로 표시된 쌍둥이자리 시대는 이후의 시대들이 그러하듯 자신의 표지를 바퀴의 정반대편 표지와 함께 지닙니다 — 양자리의 숫양은 천칭자리의 저울과, 황소자리의 황소는 전갈과 함께. 쌍둥이와 활은 쌍둥이자리 시대가 스스로 서명하는 것입니다. 쌍둥이자리와 궁수자리, 표지와 그 반대편.
+활에는 천문학적 대응물도 있습니다. 내려놓은 *keshet*는 황도대에서 쌍둥이자리의 정반대편에 있는 별자리 — 당겨진 활을 상징으로 삼는 궁수자리 — 이기도 합니다. 코퍼스의 {% wiki(slug="doubled-signature") %}이중 서명{% end %} 독해에 따르면, 노아의 쌍둥이로 표시된 쌍둥이자리 시대는 이후의 시대들이 그러하듯 자신의 표지를 바퀴의 정반대편 표지와 함께 지닙니다 — 양자리의 숫양은 천칭자리의 저울과, 황소자리의 황소는 전갈과 함께. 쌍둥이와 활은 쌍둥이자리 시대가 스스로 서명하는 것입니다. 쌍둥이자리와 궁수자리, 표지와 그 반대편.
 
 표지가 두 동맹 파트너 — 추방된 창조자와 인간 생존자 모두 — 에게 새 대륙 위의 공유된 하늘에서 가시적이라는 것은, 단일한 신적 당사자에게만 향해진 표지가 아니라 그들 사이의 사적 언약의 토큰으로서의 그 기능과 일치합니다.
 

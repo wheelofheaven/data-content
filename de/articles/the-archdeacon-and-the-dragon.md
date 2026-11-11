@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -131,9 +131,9 @@ Sechsundvierzig Jahre vor der Frisbee-Verletzung berichtete ein
 französischer Motorsportjournalist namens Claude Vorilhon —
 {% wiki(slug="rael") %}Raël{% end %} —, dass ihm die Bedeutung eben dieser
 Genesis-Verse unmittelbar, über sechs Tage hinweg, von einem der Wesen
-erklärt wurde, die sie beschreiben. Das Buch, das er 1974 veröffentlichte,
-[*The Book Which Tells the
-Truth*](/library/the-book-which-tells-the-truth/), ist das Fundament des
+erklärt wurde, die sie beschreiben. Das 1974 veröffentlichte Werk,
+[*Das Buch, das die Wahrheit
+sagt*](/library/the-book-which-tells-the-truth/), ist das Fundament des
 raëlianischen Kanons und dieses Projekts. Wallis hat sich nie damit
 auseinandergesetzt. Eine Volltextsuche in allen sechs Eden-Büchern — rund
 393.000 Wörter — findet keine Erwähnung von Raël, von Vorilhon oder der
@@ -829,6 +829,6 @@ Rückkehr gemeißelt.
 - Die Einträge {% wiki(slug="biglino-method") %}Biglino-Methode{% end %} und
   {% wiki(slug="neo-euhemerism") %}Neo-Euhemerismus{% end %}, für die
   Tradition, die Wallis in die anglophone Welt ausdehnt.
-- [*The Book Which Tells the
-  Truth*](/library/the-book-which-tells-the-truth/), Kapitel 2 und 3, für die
+- [*Das Buch, das die Wahrheit
+  sagt*](/library/the-book-which-tells-the-truth/), Kapitel 2 und 3, für die
   durchgehend zitierten Kanon-Passagen.

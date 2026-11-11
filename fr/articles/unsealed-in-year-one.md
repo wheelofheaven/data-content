@@ -101,15 +101,13 @@ depuis 1946 —
 ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=172) %}ETTMTTP 3:172{% end %}),
 l'année qui suivit l'éclair atomique au-dessus de Hiroshima — et son texte fondateur
 coiffe son cinquième chapitre de la formule fondatrice de l'ère —
-*« 1946, an 1 de la nouvelle ère »*
+*« 1946, an 1 de l'ère nouvelle »*
 ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=1) %}LLQDV 5:1{% end %}).
 L'être qui dicta ce texte expliqua le choix du messager dans le même
 souffle :
 
 {% library(book="the-book-which-tells-the-truth", chapter=1, verse=47) %}
-Enfin, nous avons décidé de choisir quelqu'un après la première explosion
-atomique, qui eut lieu en 1945, et tu es né en 1946. Nous te surveillons
-depuis ta naissance — et même avant. C'est pourquoi nous t'avons choisi.
+Enfin, nous avons décidé de choisir quelqu'un après la première explosion atomique qui eut lieu en 1945 et vous êtes né en 1946. Nous vous suivons depuis votre naissance et même avant. Voilà pourquoi nous vous avons choisi.
 {% end %}
 
 Sur l'arithmétique propre à l'ère{{ footnote(id="1") }}, l'an un s'ouvrit
@@ -138,20 +136,13 @@ Commençons par le cadre que le canon lui-même fournit, car il se trouve
 il reproduit l'instruction finale de l'ange au prophète :
 
 {% library(book="the-book-which-tells-the-truth", chapter=3, verse=222) %}
-« Et toi, Daniel, tiens secrètes ces paroles, et scelle le livre jusqu'au
-temps de la fin. Plusieurs le liront, et la connaissance augmentera. »
-(Daniel, XII-4)
+«Et toi, Daniel, garde secrètes ces paroles et scelle le livre jusqu'au temps de la fin. Beaucoup chercheront çà et là, et la connaissance s'accroîtra». (Daniel, XII-4)
 {% end %}
 
 Et la glose qui suit est la théorie tout entière de la révélation selon le
-canon en une phrase : *« Ces paroles ne peuvent en fait être comprises que
-lorsque l'homme a atteint un niveau suffisant de connaissance scientifique
-— c'est-à-dire maintenant »*
+canon en une phrase : *« Ces paroles ne pourront effectivement être comprises que quand l'homme sera parvenu à un niveau de connaissances scientifiques suffisant, c'est-à-dire maintenant »*
 ({% libref(book="the-book-which-tells-the-truth", chapter=3, verse=223) %}LLQDV 3:223{% end %}).
-Parmi les signes qu'il énumère pour « maintenant » : *« Lorsque le peuple
-d'Israël recouvre son pays après la longue dispersion. L'État d'Israël fut
-créé il y a quelques décennies, en même temps que l'explosion scientifique
-des hommes de la Terre »*
+Parmi les signes qu'il énumère pour « maintenant » : *« Lorsque le peuple d'Israël retrouvera son pays après la longue dispersion. L'état d'Israël fut créé voici quelques dizaines d'années en même temps que l'explosion scientifique des hommes de la Terre »*
 ({% libref(book="the-book-which-tells-the-truth", chapter=3, verse=225) %}LLQDV 3:225{% end %}).
 L'{% wiki(slug="apocalypse") %}Apocalypse{% end %}, dans l'usage du corpus,
 n'est pas une catastrophe ; c'est le grec *apokalypsis*, le dévoilement —
@@ -183,8 +174,7 @@ propres livres dans des jarres ; les jarres survécurent à la communauté, à
 son temple, à son empire et aux voyelles de sa langue ; et elles s'ouvrirent
 la première année d'une ère dont le texte fondateur cite, pour charte, le
 verset sur le livre scellé jusqu'au temps de la fin.{% end %} Daniel encore, huit
-versets plus loin, tel que le canon le cite : *« Va, Daniel, car ces paroles
-seront tenues secrètes et scellées jusqu'au temps de la fin »*
+versets plus loin, tel que le canon le cite : *« Va, Daniel, car ces paroles sont secrètes et scellées jusqu'aux temps de la fin »*
 ({% libref(book="the-book-which-tells-the-truth", chapter=3, verse=226) %}LLQDV 3:226{% end %}).
 
 Les manuscrits ne revinrent pas seuls, et l'article compagnon documente en
@@ -195,8 +185,7 @@ canon lit cette fenêtre comme une ère de dévoilement s'ouvrant en 1945–46,
 arrimée au *« bruit d'un cri qui vient de la porte des poissons »* de
 Sophonie
 ({% libref(book="zephaniah", chapter=1, verse=10) %}Sophonie 1:10{% end %})
-— *« le passage dans la nouvelle ère du Verseau… Et si tu es né en 1946, ce
-n'est pas par hasard »*
+— *« le passage dans l'ère nouvelle du Verseau… Et si vous êtes né en 1946 ce n'est pas par hasard »*
 ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=7) %}LLQDV 5:7{% end %}).
 Un sceptique répondra que l'histoire est dense et que les lecteurs avides
 de motifs trouvent toujours des constellations, et cette page le concède —

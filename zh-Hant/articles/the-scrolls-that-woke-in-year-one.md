@@ -133,10 +133,10 @@ footnotes = [
 現了十三部皮革裝訂的科普特文抄本——拿戈瑪第（Nag Hammadi）藏書，五十二
 篇多為諾斯底派的論著，其中包括《多馬福音》，自四世紀以來一直被埋
 藏。{{ footnote(id="7") }}約在一年之內，昆蘭的陶罐交出了頭幾卷書。1946 年
-9 月 30 日，克勞德·佛里洪（Claude Vorilhon）——日後的
+9 月 30 日，克勞德·沃里隆（Claude Vorilhon）——日後的
 {% wiki(slug="rael") %}雷爾{% end %}——出生了——「如果你出生於 1946 年，
 那並非出於偶然，」第一部信息就這一時機如此說道
-（{% libref(book="the-book-which-tells-the-truth", chapter=5, verse=7) %}《揭示真相之書》5:7{% end %}）。
+（{% libref(book="the-book-which-tells-the-truth", chapter=5, verse=7) %}《訴說真相之書》5:7{% end %}）。
 1947 年 6 月，一名叫肯尼斯·阿諾德（Kenneth Arnold）的私人飛行員描述了雷
 尼爾山（Mount Rainier）上空九個物體的運動，「就像你把一隻碟子擲過水面時
 它會有的樣子」，而報界隨即創造出了那個為
@@ -416,7 +416,7 @@ pesher{{ footnote(id="4") }}註釋，把每一則古老的預言都讀作寄給�
 本得以作為記錄被讀懂的時代，其所要求的建築並非一座沙漠中的堡壘，而是一
 座為著{% wiki(slug="great-return") %}回歸{% end %}而設的
 {% wiki(slug="embassy") %}大使館{% end %}
-（那些炸彈，{% libref(book="the-book-which-tells-the-truth", chapter=7, verse=5) %}《揭示真相之書》7:5–6{% end %}，
+（那些炸彈，{% libref(book="the-book-which-tells-the-truth", chapter=7, verse=5) %}《訴說真相之書》7:5–6{% end %}，
 仍是這個時代所言明的危險，而非其工具）。一個運動把它的圖書館封進陶罐，
 以抵禦其世界的終末。另一個則提議去建一座賓館。在對同一信念——即這個時代
 已然轉向——的這兩種回應之間，橫亙著本語料集所在意的那大部分道德距離。
@@ -525,5 +525,5 @@ Kiesler）與阿爾芒·巴托斯（Armand Bartos）之手，有三分之二在�
   片《申命記》異文所錨定的神聖議會學術研究。
 - [《最早的清真寺朝向佩特拉，而非麥加》](/articles/the-first-mosques-faced-petra-not-mecca/)，
   可資參看同一條沙漠走廊後來的歷史。
-- [《揭示真相之書》](/library/the-book-which-tells-the-truth/)，第 1 章與
+- [《訴說真相之書》](/library/the-book-which-tells-the-truth/)，第 1 章與
   第 5 章，可資參看全文所引關於 1945、1946 與新紀元的典籍段落。

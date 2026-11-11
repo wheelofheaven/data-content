@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -83,7 +83,7 @@ references = [
 ]
 
 footnotes = [
-    { content = "Die beiden Begegnungen bilden den Rahmen der ersten beiden raëlianischen Bücher. Die erste Botschaft (1973, 1974 veröffentlicht als *Das Buch, das die Wahrheit sagt*) wurde über sechs Tage im Krater des Puy-de-Lassolas in der Auvergne überbracht. Die zweite (1975, veröffentlicht als *Die Außerirdischen nahmen mich mit auf ihren Planeten*) fand teils auf einer Basis statt, die Jahwe als „relativ nahe der Erde“ beschreibt — ausdrücklich nicht der Heimatplanet der Elohim und nicht der Planet der Ewigen, auf dem die neu erschaffenen Toten leben sollen." },
+    { content = "Die beiden Begegnungen bilden den Rahmen der ersten beiden raëlianischen Bücher. Die erste Botschaft (1973, 1974 veröffentlicht als *Das Buch, das die Wahrheit sagt*) wurde über sechs Tage im Krater des Puy-de-Lassolas in der Auvergne überbracht. Die zweite (1975, veröffentlicht als *Außerirdische brachten mich auf ihren Planeten*) fand teils auf einer Basis statt, die Jahwe als „relativ nahe der Erde“ beschreibt — ausdrücklich nicht der Heimatplanet der Elohim und nicht der Planet der Ewigen, auf dem die neu erschaffenen Toten leben sollen." },
     { content = "Die Lehre davon, wie die Merkmale eines Organismus mit seiner Körpergröße skalieren — vom griechischen *állos*, „anderes“, und *métron*, „Maß“. Die meisten biologischen Raten und Zeitdauern skalieren nicht proportional zur Masse (mit einem Exponenten von 1), sondern als Masse, erhoben zu einem einfachen Bruch, gewöhnlich einem Vielfachen von einem Viertel. Diese Regelmäßigkeit ist eines der robustesten empirischen Muster der gesamten Biologie." },
     { content = "Die Frequenz, bei der ein flackerndes Licht aufhört zu flackern und zu einem stetigen Schein verschmilzt. Sie ist ein unmittelbarer Anzeiger der zeitlichen Auflösung des Nervensystems — seiner Bildrate. Kleine, schnelle Tiere haben hohe Verschmelzungsfrequenzen (eine Fliege löst Flackern oberhalb von 250 Hz auf, wo ein Mensch bei etwa 60 verschmilzt); große, langsame Tiere haben niedrige. Für die Fliege sind unsere Sekunden in einem realen und messbaren Sinn lang." },
     { content = "Der allgemein-relativistische Effekt, durch den Uhren tiefer in einem Gravitationsfeld langsamer laufen als Uhren weiter oben. Bestätigt von der 22,5-Meter-Säule von Pound und Rebka (1960) bis zu einem mit optischen Atomuhren gemessenen Höhenunterschied von 33 Zentimetern (2010) und im GPS-System fortwährend korrigiert, dessen Satellitenuhren gegenüber dem Boden täglich etwa 38 Mikrosekunden gewinnen." },
@@ -747,5 +747,5 @@ nichts davon endet, das Obere für immer unten und das Untere für immer oben we
   das vollständige Dossier zur Debatte über die Galaxienverteilung.
 - [Das raëlianische Symbol der Unendlichkeit](/wiki/raelian-symbol-of-infinity/) — das Emblem selbst
   und die Geschichte der beiden Symbole, die es vereint.
-- [*Die Außerirdischen nahmen mich mit auf ihren Planeten*](/library/extraterrestrials-took-me-to-their-planet/),
+- [*Außerirdische brachten mich auf ihren Planeten*](/library/extraterrestrials-took-me-to-their-planet/),
   Kapitel 2, „Weder Gott noch Seele“, für die Kosmologiepassagen im Zusammenhang.

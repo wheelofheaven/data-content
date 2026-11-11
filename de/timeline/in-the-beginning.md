@@ -27,7 +27,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Buch Hiob", author = "Anonym (Hebräische Bibel)", date = "ca. 6. Jh. v. u. Z.", medium = "religious-text", path = "/library/job/", description = "Die ausdrücklichste Darstellung der hebräischen Bibel von ha-satan als Mitglied des göttlichen Rates, dessen institutionelle Rolle darin besteht, gegen selbstsichere Pläne zu argumentieren." },
 ]

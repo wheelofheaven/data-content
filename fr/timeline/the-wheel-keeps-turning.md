@@ -7,7 +7,7 @@ weight = 270
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -22,7 +22,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Raël)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Intelligent Design: Message from the Designers", author = "Claude Vorilhon (Raël)", date = "2005", medium = "religious-text", description = "Édition consolidée en langue anglaise ; source primaire pour la cosmologie fractale du §I et le cadre moral à quatre niveaux du §V." },
     { title = "Genèse", author = "Anonyme (Bible hébraïque) ; traduction WoH depuis l'hébreu massorétique vocalisé", date = "c. VIe–Ve s. av. è.c.", medium = "religious-text", path = "/library/genesis-woh/" },
@@ -78,7 +78,7 @@ La lentille effectue un travail spécifique. Elle fournit le cadre dans lequel l
 
 Une distinction mérite d'être marquée. Le *mouvement* raëlien est l'organisation religieuse qui s'est développée à partir du contact et qui a porté en avant le projet d'{% wiki(slug="embassy") %}ambassade{% end %} ainsi que l'infrastructure institutionnelle apparentée. Le corpus puise dans le matériau-source que le mouvement préserve mais n'approuve pas chaque position institutionnelle. C'est, en ce sens spécifique, un projet d'inspiration raëlienne plutôt qu'un projet raëlien. La lentille ne requiert pas l'appartenance au mouvement, et le mouvement n'est pas la lentille.
 
-La lentille pose des exigences substantielles. Elle demande au lecteur de prendre au sérieux des revendications qui se situent en dehors du consensus épistémologique établi — contact extraterrestre, lectures technologiques des miracles bibliques, structuration précessionnelle de l'histoire humaine. Elle demande au lecteur de lire les traditions religieuses comme préservant un contenu réel plutôt que comme de simples produits culturels. Et elle demande au lecteur d'étendre le cadre au-delà des articulations explicites de la source : l'intégration du *Moulin d'Hamlet*{{ cite(id="5") }}, la lecture en double signature, les reconstructions politico-structurelles, les lectures textuelles hébraïques spécifiques que le corpus a élaborées à travers ses chapitres sont un travail interprétatif que la source elle-même ne fait qu'esquisser. Un lecteur qui adopte la lentille consent implicitement à l'utiliser comme cadre de travail, non comme un héritage figé.
+La lentille pose des exigences substantielles. Elle demande au lecteur de prendre au sérieux des revendications qui se situent en dehors du consensus épistémologique établi — contact extraterrestre, lectures technologiques des miracles bibliques, structuration précessionnelle de l'histoire humaine. Elle demande au lecteur de lire les traditions religieuses comme préservant un contenu réel plutôt que comme de simples produits culturels. Et elle demande au lecteur d'étendre le cadre au-delà des articulations explicites de la source : l'intégration du *Moulin d'Hamlet*{{ cite(id="5") }}, la lecture de la signature redoublée, les reconstructions politico-structurelles, les lectures textuelles hébraïques spécifiques que le corpus a élaborées à travers ses chapitres sont un travail interprétatif que la source elle-même ne fait qu'esquisser. Un lecteur qui adopte la lentille consent implicitement à l'utiliser comme cadre de travail, non comme un héritage figé.
 
 Les exigences sont substantielles. Ce qu'elles achètent est véritablement neuf — un récit intégré cohérent que les cadres alternatifs n'ont pas produit et, selon le jugement du corpus, ne peuvent produire.
 
@@ -136,7 +136,7 @@ Le corpus puise abondamment dans le matériau-source raëlien, mais il ne se ré
 
 *L'intégration du Moulin d'Hamlet.* L'étude de 1969 de Giorgio de Santillana et Hertha von Dechend soutenait que le cycle astronomique précessionnel était le cadre structurel dans lequel s'organisait une grande part de la mythologie ancienne. L'argument est contesté dans le savoir dominant ; le corpus l'a accepté comme cadre structurel dans lequel s'organise le travail de l'alliance sur Terre. La source identifie certaines références précessionnelles spécifiques mais ne développe pas le cadre complet à douze ères que le corpus a bâti.
 
-*La lecture en double signature.* Le corpus a appliqué l'observation du *Moulin d'Hamlet* selon laquelle les ères précessionnelles encodent typiquement leurs signatures à la fois dans la constellation présente et dans son opposée à travers le zodiaque : Poissons-Vierge pour l'ère chrétienne, Bélier-Balance pour la période mosaïque, Taureau-Scorpion pour la reconstruction abrahamique, Verseau-Lion pour l'ère présente. La lecture ne figure pas dans la source.
+*La lecture de la signature redoublée.* Le corpus a appliqué l'observation du *Moulin d'Hamlet* selon laquelle les ères précessionnelles encodent typiquement leurs signatures à la fois dans la constellation présente et dans son opposée à travers le zodiaque : Poissons-Vierge pour l'ère chrétienne, Bélier-Balance pour la période mosaïque, Taureau-Scorpion pour la reconstruction abrahamique, Verseau-Lion pour l'ère présente. La lecture ne figure pas dans la source.
 
 *L'analyse textuelle hébraïque spécifique.* La source fournit certaines lectures clés — Élohim comme pluriel, *bara* comme désignation, les Nephilim comme hybrides alliance-humains — mais le corpus les a étendues substantiellement : *karan* comme ambigu entre cornes et rayons au Sinaï, *tannin* comme mémoire de la guerre dans le ciel, les motifs verbaux identifiant les événements de contact avec l'alliance dans la littérature prophétique, les signatures textuelles des couches rédactionnelles dans la Genèse.
 

@@ -6,7 +6,7 @@ template = "timeline-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-10-29"
+translation_updated = "2026-11-11"
 source_updated = "2026-10-29"
 translation_stale = false
 translation_sync = 100
@@ -35,7 +35,7 @@ references = [
     { title = "도곤 재고: 마르셀 그리올의 작업에 대한 현장 평가", author = "발터 E. A. 판 베이크", publication = "Current Anthropology 32 (2), 139-167", date = "1991", medium = "academic-paper", url = "https://pure.uvt.nl/ws/portalfiles/portal/1002365/dogonrestudied.pdf" },
     { title = "브로카의 뇌: 과학의 낭만에 관한 성찰", author = "칼 세이건", date = "1979", medium = "nonfiction-book", description = "도곤족의 노모(Nommo) 천문학적 주장에 대한 전파주의적 기원에 의문을 제기한 도곤-시리우스 논쟁을 다룬 장을 포함합니다." },
     { title = "시리우스 미스터리 조사", author = "이언 리드패스", publication = "Skeptical Inquirer 3 (1), 56-62", date = "1978", medium = "academic-paper" },
-    { title = "진리를 말하는 책 (Le Livre qui dit la vérité)", author = "클로드 보리옹 (라엘)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "진실을 말하는 책 (Le Livre qui dit la vérité)", author = "클로드 보리옹 (라엘)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "외계인들이 나를 그들의 행성으로 데려갔다 (Les Extra-Terrestres m'ont emmené sur leur planète)", author = "클로드 보리옹 (라엘)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "쥬라기 공원", author = "마이클 크라이튼", date = "1990", medium = "fiction-book" },
     { title = "쥬라기 공원", author = "스티븐 스필버그 감독; 마이클 크라이튼과 데이비드 켑 각본", date = "1993", medium = "movie" },

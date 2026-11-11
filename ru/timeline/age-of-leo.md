@@ -28,7 +28,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Клод Ворийон (Раэль)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Клод Ворийон (Раэль)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Клод Ворийон (Раэль)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Бытие", author = "Анонимный (Еврейская Библия); перевод WoH с пунктированного масоретского иврита", date = "ок. VI–V вв. до н. э.", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "The Apportionment of Human Diversity", author = "Ричард К. Левонтин", publication = "Evolutionary Biology 6, 381–398", date = "1972", medium = "academic-paper", description = "Классическое открытие, согласно которому ~85 % человеческой генетической вариации находится внутри популяций и лишь ~15 % — между ними." },

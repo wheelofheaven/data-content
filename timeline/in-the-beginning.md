@@ -22,7 +22,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Book of Job", author = "Anonymous (Hebrew Bible)", date = "c. 6th c. BCE", medium = "religious-text", path = "/library/job/", description = "The Hebrew Bible's most explicit depiction of ha-satan as a member of the divine council whose institutional role is to argue against confident plans." },
 ]

@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -30,8 +30,8 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité (講述真相的書)", author = "克勞德·沃里隆 (雷爾)", date = "1974 年", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète (外星人帶我去他們的星球)", author = "克勞德·沃里隆 (雷爾)", date = "1975 年", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "Le Livre qui dit la vérité (訴說真相之書)", author = "克勞德·沃里隆 (雷爾)", date = "1974 年", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Les Extra-Terrestres m'ont emmené sur leur planète (外星人帶我到他們的行星)", author = "克勞德·沃里隆 (雷爾)", date = "1975 年", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Genesis (創世記)", author = "佚名 (希伯來聖經);WoH 譯自附有元音點符的馬所拉希伯來文", date = "約公元前 6 至 5 世紀", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "Theory of the Earth (地球論)", author = "詹姆斯·赫頓", date = "1788 年", medium = "academic-paper", description = "均變論的奠基性陳述——即「當前的地質過程是理解過去的鑰匙」此一學說。" },
     { title = "Principles of Geology (地質學原理)", author = "查爾斯·萊爾", date = "1830–1833 年", medium = "nonfiction-book", description = "三卷本著作,賦予均變論其古典形式,並塑造了現代地質學以及達爾文的演化綜論。" },

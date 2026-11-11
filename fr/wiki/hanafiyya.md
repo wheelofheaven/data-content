@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -92,7 +92,7 @@ La glose habituelle traduit le détournement du *ḥanīf* comme le monothéisme
 Ce que le cadre lit à la place est un contraste entre l'**idolâtrie** et la **connaissance des créateurs**. Le canon l'énonce directement, et le situe dans le même effondrement post-Sodome qui fait de [Abraham](../abraham/) la figure de la récupération :
 
 {% library(book="the-book-which-tells-the-truth", chapter=3, verse=4) %}
-Mais les hommes, étant retombés dans un état très primitif après la destruction des plus intelligents et des centres de progrès comme Sodome et Gomorrhe, se mirent stupidement à adorer des morceaux de pierre et des idoles, oubliant qui les avait créés.
+Mais les hommes, retombés dans un état très primitif après la destruction des plus intelligents et des centres de progrès comme Sodome et Gomorrhe, se mettaient à adorer bêtement des morceaux de pierre et des idoles en oubliant qui les avait créés.
 {% end %}
 
 L'erreur n'est pas de croire en trop d'êtres ; c'est d'adorer le bois, la pierre et l'or — des statues dénuées de sens — *en ayant oublié qui a réellement fait l'humanité*. Le remède n'est pas l'abstraction du divin en un point unique mais la récupération d'une connaissance exacte des véritables créateurs, les [Élohim](../elohim/). Lu ainsi, le « détournement vers le droit » du *ḥanīf* est un passage des fausses images vers les vrais artisans — et les propres mots des quatre chercheurs sont le même rejet : la pierre autour de laquelle ils tournaient « ne comptait pour rien ; elle ne pouvait ni entendre, ni voir, ni nuire, ni aider ». C'est là un verdict sur les **idoles**, non sur la pluralité. L'« unité » que la Hanafiyya récupère, selon la lecture du cadre, est l'unicité de la *vérité au sujet des créateurs* contre la dispersion des images mortes qui les avaient remplacés — non l'Un des philosophes. Il s'agit d'une lecture `framework` : les prémisses de la pluralité élohimique et de l'idolâtrie-comme-oubli sont explicites dans le canon raëlien, tandis que leur application à la distinction *ḥanīf*/idolâtre est la synthèse interprétative du corpus.

@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -206,19 +206,15 @@ est trop lente pour que la nôtre l'enregistre — le « décalage de temps dû 
 l'énorme différence de masse ».
 
 De cette loi unique Yahvé tire, dans les paragraphes qui suivent, toute une
-théologie de la soustraction. Si l'univers est infini, il *« ne peut pas avoir
-de centre »*, si bien qu'il n'existe nul lieu privilégié pour un ciel ou un trône
+théologie de la soustraction. Si l'univers est infini, il *« ne peut avoir de centre »*, si bien qu'il n'existe nul lieu privilégié pour un ciel ou un trône
 ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=33) %}ETTMTTP 2:33{% end %}).
 Si la matière est éternelle — *« rien ne se perd, rien ne se crée, tout se
 transforme »* — alors demander ce qu'il y avait « au commencement » est une
-erreur de catégorie, *« une question stupide qui prouve que celui qui la pose n'a
-pas pris conscience de l'infini qui existe dans le temps comme dans l'espace »*
+erreur de catégorie, une *« question stupide qui prouve que la personne qui pose cette question n'a pas pris conscience de l'infini qui existe dans le temps comme dans l'espace »*
 ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=34) %}ETTMTTP 2:34{% end %}).
 Et la difficulté que la plupart des gens ont à admettre tout cela est elle-même
-diagnostiquée : le cerveau humain *« fini »* veut un univers *« bien défini,
-bien délimité, borné en quelque sorte à l'image de son cerveau »*, et recule
-devant un infini qui fait de l'homme *« non quelque chose d'exceptionnel, mais un
-être situé à une certaine époque en un certain lieu de l'univers infini »*
+diagnostiquée : le cerveau humain *« fini »* préfère *« les choses bien définies, bien délimitées, “bornées” en quelque sorte à l'image de son cerveau »*, et recule
+devant un infini qui fait de l'homme *« non pas quelques chose d'exceptionnel, mais un être quelconque situé à une période quelconque en un endroit quelconque de l'univers infini »*
 ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=36) %}ETTMTTP 2:36{% end %}).
 Yahvé consigne même, avec un plaisir manifeste, une image que Raël avait employée
 dans une conférence — celle des gens qui nient la vie sur d'autres mondes comme
@@ -610,8 +606,7 @@ Bang, et le canon est sans ambiguïté : il n'y en eut point — *« il n'y a ni
 commencement ni fin à la matière ».* Le décalage vers le rouge que le modèle
 standard lit comme une expansion universelle à partir d'une origine chaude n'a
 nul besoin de signifier cela. Dans un cosmos fractal où court l'Effet de Masse,
-notre univers observable tout entier est une *« particule d'un atome d'une
-molécule »* dans le corps d'un être infiniment plus grand et infiniment plus lent
+notre univers observable tout entier est une *« particule d'atome d'une molécule »* dans le corps d'un être infiniment plus grand et infiniment plus lent
 ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=194) %}ETTMTTP 3:194{% end %}).
 Ce que nous chronométrons, sur toute l'étendue de l'astronomie humaine, comme des
 milliards d'années d'expansion cosmique pourrait être un unique événement lent à
@@ -703,8 +698,7 @@ est bâtie pour produire un résultat éthique et émotionnel précis.
 
 Ôtez à un être humain le centre de l'univers et deux choses adviennent à la fois.
 La première est une rétrogradation, et le canon ne l'adoucit pas : l'homme est
-*« non quelque chose d'exceptionnel, mais un être situé à une certaine époque en
-un certain lieu de l'univers infini »*, une *« maladie »* sur un corps trop vaste
+*« non pas quelques chose d'exceptionnel, mais un être quelconque situé à une période quelconque en un endroit quelconque de l'univers infini »*, une *« maladie »* sur un corps trop vaste
 pour le sentir, une moisissure sur une Terre vivante. Dans un cosmos sans centre,
 sans commencement, sans fin, rien de ce que nous faisons ne résonne cosmiquement ;
 l'infini est, comme le disent les livres ultérieurs, *« infiniment indifférent »*
@@ -723,7 +717,7 @@ par rapport à l'individu »*
 jusqu'à ce que la ville soit un point, le continent un point, la galaxie un
 point, notre univers une particule dans le bras de quelque être plus grand ; puis
 vers l'intérieur à travers le corps, les cellules, les molécules, les atomes
-*« qui tournent comme des soleils autour du centre d'une galaxie »*, jusqu'aux
+*« qui tournent tels des soleils autour du centre d'une galaxie »*, jusqu'aux
 particules *« sur lesquelles vivent des êtres qui se demandent s'il y a de la vie
 sur les autres planètes »*
 ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=195) %}ETTMTTP 3:195{% end %}).

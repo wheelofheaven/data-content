@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -83,13 +83,13 @@ Le passage se trouve dans le troisième livre, *[Accueillir les extra-terrestres
 Enfin, si le raëlien ne croit pas en dieu, il reconnaît Jésus comme étant l'envoyé de nos créateurs, tout comme Moïse, Bouddha, Mahomet, Joseph Smith et tous les grands prophètes ayant existé, et il attend leur retour en compagnie des Elohim, comme les Ecritures l'annoncent.
 {% end %}
 
-C'est le seul endroit des trois livres canoniques où Smith est nommé. À deux autres reprises dans le même livre, Raël nomme les messagers qui accompagneront les Élohim à l'[Ambassade](../embassy/), et aucune des deux listes n'inclut Smith : les « anciens messagers, Moïse, Jésus, Mahomet, Bouddha, etc. » (LWTE-1:87), et « leurs anciens messagers, Moïse, Jésus, Bouddha, Mahomet et quelques autres » (LWTE-3:82).{{ cite(id="lets-welcome-the-extraterrestrials", text="[1]", title="Let's Welcome the Extraterrestrials, LWTE-1:87, 3:27, 3:82") }}
+C'est le seul endroit des trois livres canoniques où Smith est nommé. À deux autres reprises dans le même livre, Raël nomme les messagers qui accompagneront les Élohim à l'[Ambassade](../embassy/), et aucune des deux listes n'inclut Smith : les « anciens messagers, Moïse, Jésus, Mahomet, Bouddha, etc. » (LWTE-1:87), et « leurs anciens messagers, Moïse, Jésus, Bouddha, Mahomet et quelques autres » (LWTE-3:82).{{ cite(id="lets-welcome-the-extraterrestrials", text="[1]", title="Accueillir les extra-terrestres, LWTE-1:87, 3:27, 3:82") }}
 
 ### Absent des Messages dictés
 
-Dans le deuxième Message, *[Les Extra-terrestres m'ont emmené sur leur planète](/fr/library/extraterrestrials-took-me-to-their-planet/)* (1975), Yahvé présente ceux qui sont assis à un repas sur la Planète des Éternels : Jésus, Moïse, Élie, « celui dont, sur Terre, on se souvient sous le nom de Bouddha », et Mahomet, parmi « la quarantaine » de représentants des « religions créées à la suite de nos contacts sur la Terre » (ETTMTTP-2:62–64). Smith n'est pas parmi eux. La liste, dans le même Message, des prédécesseurs de Raël dans « la lignée des prophètes » nomme Moïse, Ézéchiel, Élie, Jésus, Mahomet et Bouddha (ETTMTTP-3:257), et Smith n'y figure pas non plus.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Extraterrestrials Took Me to Their Planet, ETTMTTP-2:62–64, 3:257") }} Le canon ne donne aucune liste de la quarantaine ni aucun ordre entre eux, et le corpus n'assied pas Smith à la table et ne lui attribue aucun numéro.
+Dans le deuxième Message, *[Les Extra-terrestres m'ont emmené sur leur planète](/fr/library/extraterrestrials-took-me-to-their-planet/)* (1975), Yahvé présente ceux qui sont assis à un repas sur la Planète des Éternels : Jésus, Moïse, Élie, « celui dont, sur Terre, on se souvient sous le nom de Bouddha », et Mahomet, parmi « la quarantaine » de représentants des « religions créées à la suite de nos contacts sur la Terre » (ETTMTTP-2:62–64). Smith n'est pas parmi eux. La liste, dans le même Message, des prédécesseurs de Raël dans « la lignée des prophètes » nomme Moïse, Ézéchiel, Élie, Jésus, Mahomet et Bouddha (ETTMTTP-3:257), et Smith n'y figure pas non plus.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Les Extra-terrestres m'ont emmené sur leur planète, ETTMTTP-2:62–64, 3:257") }} Le canon ne donne aucune liste de la quarantaine ni aucun ordre entre eux, et le corpus n'assied pas Smith à la table et ne lui attribue aucun numéro.
 
-La tradition qu'il fonda, en revanche, est nommée dans un Message dicté. {% claim(type="direct", id="woh-claim-0027") %}Dans le premier Message, les Élohim citent « la religion Bouddhiste, Islamique, les Mormons » parmi les religions « qui témoignent d'une façon plus ou moins obscure de notre œuvre » (TBWTT-5:54), dans le cadre du récit que le canon fait de lui-même comme source commune, démystifiée, des religions existantes.{% end %}{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="The Book Which Tells the Truth, TBWTT-5:54") }} Ce récit des Mormons est celui du canon, et il n'implique pas que les saints des derniers jours l'acceptent.
+La tradition qu'il fonda, en revanche, est nommée dans un Message dicté. {% claim(type="direct", id="woh-claim-0027") %}Dans le premier Message, les Élohim citent « la religion Bouddhiste, Islamique, les Mormons » parmi les religions « qui témoignent d'une façon plus ou moins obscure de notre œuvre » (TBWTT-5:54), dans le cadre du récit que le canon fait de lui-même comme source commune, démystifiée, des religions existantes.{% end %}{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="Le Livre qui dit la vérité, TBWTT-5:54") }} Ce récit des Mormons est celui du canon, et il n'implique pas que les saints des derniers jours l'acceptent.
 
 ### Les envoyés et le rôle prophétique
 

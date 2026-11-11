@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -19,7 +19,7 @@ article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "En *El Libro que dice la Verdad*, Yahvé nombra a la Cábala «el libro más cercano a la verdad» y cita de ella dos cifras: la altura del creador, 236,000 parasangas, y la altura de sus talones, 30 millones. Ambos números existen. Pertenecen al *Shi'ur Qomah*, «la Medida de la Estatura» —un texto hebreo más antiguo que la Cábala propiamente dicha, transmitido dentro de la literatura Hekhalot e impreso en el *Sefer Raziel*, en el que el ángel Metatron dicta las dimensiones del cuerpo del Creador miembro a miembro—. Este Explicativo lee el texto de cerca a través de la propia traducción del proyecto, expone lo que la tradición judía y la erudición moderna dicen que significan las medidas, plantea la contralectura del canon —la parasanga como un segundo-luz, el cuerpo como una ruta— y luego audita, libro por libro, qué podía saber realmente un lector francés de todo esto en diciembre de 1973. Uno de los hallazgos de esa auditoría parece ser nuevo."
+summary = "En *El libro que dice la verdad*, Yahvé nombra a la Cábala «el libro más cercano a la verdad» y cita de ella dos cifras: la altura del creador, 236,000 parasangas, y la altura de sus talones, 30 millones. Ambos números existen. Pertenecen al *Shi'ur Qomah*, «la Medida de la Estatura» —un texto hebreo más antiguo que la Cábala propiamente dicha, transmitido dentro de la literatura Hekhalot e impreso en el *Sefer Raziel*, en el que el ángel Metatron dicta las dimensiones del cuerpo del Creador miembro a miembro—. Este Explicativo lee el texto de cerca a través de la propia traducción del proyecto, expone lo que la tradición judía y la erudición moderna dicen que significan las medidas, plantea la contralectura del canon —la parasanga como un segundo-luz, el cuerpo como una ruta— y luego audita, libro por libro, qué podía saber realmente un lector francés de todo esto en diciembre de 1973. Uno de los hallazgos de esa auditoría parece ser nuevo."
 keywords = ["Shi'ur Qomah", "Cábala", "Hekhalot", "mística de la Merkavah", "Cantar de los Cantares", "parasanga", "Metatron", "Sefer Raziel", "hipótesis de los Elohim"]
 references = [
     # — The canon passage under discussion —
@@ -727,7 +727,7 @@ paleoastronáutica— equipara la parasanga con un segundo-luz. La parasanga
 histórica es seis kilómetros de camino persa; el parsec{{ footnote(id="13") }} es
 una acuñación no relacionada de 1913; el salto a «la distancia que recorre la luz
 en un segundo», que convierte un texto devocional en dos distancias astronómicas
-coherentes, aparece por primera vez en el propio *El Libro que dice la Verdad*. La
+coherentes, aparece por primera vez en el propio *El libro que dice la verdad*. La
 lectura escéptica de la auditoría es sencilla y debe darse sin pestañear: la cita
 del canon parece el resumen que un libro de bolsillo hace de Scholem, error de los
 talones incluido, con un floreo numerológico original encima. La lectura interna
@@ -771,5 +771,5 @@ tradición que los portó la más cercana a la verdad.
   nivel de párrafo sobre cada pasaje citado más arriba.
 - La entrada de wiki [Cábala](/wiki/kabbalah/), para el arco histórico completo de
   la tradición desde la literatura Hekhalot hasta Safed y más allá.
-- [*El Libro que dice la Verdad*](/library/the-book-which-tells-the-truth/),
+- [*El libro que dice la verdad*](/library/the-book-which-tells-the-truth/),
   capítulo 5, para el pasaje del canon en contexto.

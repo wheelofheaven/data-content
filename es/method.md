@@ -21,7 +21,7 @@ Esa oración es todo lo que el proyecto pide a un lector que considere. Todo lo 
 
 ## La lente
 
-El proyecto lee a través de una lente interpretativa específica y no desde un no-lugar neutral. La lente es el material-fuente raëliano — principalmente [*El Libro Que Dice la Verdad*](/es/library/the-book-which-tells-the-truth/) (Claude Vorilhon, 1974) — que el corpus trata como su canon fundacional. En torno a ese canon reúne material bíblico, mesopotámico, védico, mesoamericano y de otro tipo, leído en diálogo con él.
+El proyecto lee a través de una lente interpretativa específica y no desde un no-lugar neutral. La lente es el material-fuente raëliano — principalmente [*El libro que dice la verdad*](/es/library/the-book-which-tells-the-truth/) (Claude Vorilhon, 1974) — que el corpus trata como su canon fundacional. En torno a ese canon reúne material bíblico, mesopotámico, védico, mesoamericano y de otro tipo, leído en diálogo con él.
 
 Leer a través de una lente es una postura, no una licencia. El registro se mantiene erudito en todo momento: se citan las fuentes, se nombran las elecciones de traducción, y las diferencias irreducibles entre tradiciones se preservan en lugar de disolverse. Lo que la lente cambia es que el proyecto no finge ser neutral respecto a su propia hipótesis. Enuncia la lectura con claridad y luego la somete a la evidencia — el mismo gesto que hace cualquier marco interpretativo cuando es honesto sobre serlo.
 

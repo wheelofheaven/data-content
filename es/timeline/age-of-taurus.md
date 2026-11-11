@@ -26,7 +26,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Génesis", author = "Anónimo (Biblia hebrea); traducción WoH del hebreo masorético puntuado", date = "ca. siglos VI–V a. C.", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "Historias, Libro II", author = "Heródoto de Halicarnaso", date = "ca. 440 a. C.", medium = "religious-text", description = "Fuente del informe de que los informantes egipcios de Heródoto le dijeron que las pirámides eran «inimaginablemente antiguas»." },

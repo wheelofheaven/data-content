@@ -26,7 +26,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "创世记", author = "佚名(希伯来圣经);WoH依据带元音点的马所拉希伯来文译出", date = "约公元前6–5世纪", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "历史,第二卷", author = "哈利卡纳苏斯的希罗多德", date = "约公元前440年", medium = "religious-text", description = "希罗多德的埃及报信者告诉他金字塔『古老得难以想象』的报道来源。" },
@@ -296,7 +296,7 @@ link = "/timeline/age-of-aries/"
 
 这些文化是在追踪这个时代,而不只是在敬奉一种有用的动物——最有力的迹象出现在这个时代的远端,出现在一幅关于公牛之*死*的图像之中。罗马的密特拉崇拜兴起于白羊座向双鱼座转换之际,远在这个时代本身结束之后,其核心是 *tauroctony*(屠牛像):一位神将匕首刺入一头公牛,四周环绕著一条狗、一条蛇、一只乌鸦和一只蝎子——这一组浮雕所呈现的,恰恰是分点位于金牛座时横陈于天赤道之上的那些星座。大卫·乌兰西的重构(《密特拉秘仪的起源》,*The Origins of the Mithraic Mysteries*,1989)把这一场景读作一幅星图,把密特拉读作能够移动整个宇宙框架之力量的人格化——那股*终结*了金牛座时代的力量——他把这套神学的年代定在喜帕恰斯发现{% wiki(slug="precession") %}岁差{% end %}之后的思想余震之中。按这一解读,杀死公牛不是献祭,而是纪年:它纪念的是以公牛为名的那个时代的终结。屠牛像的岁差解读,在{% wiki(slug="hamlets-mill") %}哈姆雷特的磨坊{% end %}词条以及解说文章[《碾磨诸纪元的磨坊》](/zh/articles/the-mill-that-grinds-the-ages/)中有所阐发。
 
-这种追踪是有意的而非偶然的——这是 R. A. 施瓦勒·德·吕比克加诸埃及记录、并由约翰·安东尼·韦斯特带入英语世界的强主张:从最早的诸王朝起,穿行于黄道带的岁差就引导著埃及艺术与建筑政策的走向——双子座时代之下的双重符号,金牛座之下门图(Mentu)的公牛,以及在白羊座开启时如期到来的阿蒙之公羊。本语料库将此登记为一种框架解读,而非既定事实。但公牛的对应者早已出现在这一时期的图像之中:蝎子,即黄道带上与金牛座正相对的星座。让·桑迪以最鲜明的形式指出了这一配对——法老崇拜公牛,而王后在头饰上佩戴蝎子——本语料库将其读作这个时代的{% wiki(slug="doubled-signature") %}双重标记{% end %}:它自身的星座与正对面的星座一同被携带,这是那些仍掌握天空操作手册之人的副署。
+这种追踪是有意的而非偶然的——这是 R. A. 施瓦勒·德·吕比克加诸埃及记录、并由约翰·安东尼·韦斯特带入英语世界的强主张:从最早的诸王朝起,穿行于黄道带的岁差就引导著埃及艺术与建筑政策的走向——双子座时代之下的双重符号,金牛座之下门图(Mentu)的公牛,以及在白羊座开启时如期到来的阿蒙之公羊。本语料库将此登记为一种框架解读,而非既定事实。但公牛的对应者早已出现在这一时期的图像之中:蝎子,即黄道带上与金牛座正相对的星座。让·桑迪以最鲜明的形式指出了这一配对——法老崇拜公牛,而王后在头饰上佩戴蝎子——本语料库将其读作这个时代的{% wiki(slug="doubled-signature") %}双重署名{% end %}:它自身的星座与正对面的星座一同被携带,这是那些仍掌握天空操作手册之人的副署。
 
 进一步的说明:在传统年代学中,金牛座时期与产生伟大河谷文明的农业集约化相重合。农业扩张所需的家畜——拉犁的牛、提供牛奶和肉的牛、构成早期农业社会财富的牛——是其星座主宰该时期的同一动物的实际化身。宗教崇拜的公牛在其起源中,就是田野与畜群的公牛。崇拜不是抽象的象征。它是该时期中心经济与生态现实的宗教表达。
 

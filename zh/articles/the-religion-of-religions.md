@@ -94,7 +94,7 @@ footnotes = [
 小个子男人从一艘降落的飞行器里走了出来，直呼其名，并请他次日
 清晨再来——带上一本圣经。据他所述，在连续六天里，这位来客与
 他一起逐节研读那本圣经，修正著三十个世纪以来的翻译错误。{% claim(type="direct", id="woh-claim-0020") %}克劳德·
-沃里隆次年据其笔记出版的那本书，[*真实之书*](/library/the-book-which-tells-the-truth/)，
+沃里隆次年据其笔记出版的那本书，[*讲述真相之书*](/library/the-book-which-tells-the-truth/)，
 成了这一运动的奠基经文——本计划把这一运动奉为正典；{% end %}而这个人本人
 则成了{% wiki(slug="rael") %}雷尔{% end %}；这篇解说所探讨的问题，
 正是那个悄然击败了每一个曾试图回答它的机构的问题：*由此产生的
@@ -300,7 +300,7 @@ footnotes = [
 「诸神」是有死的、其来世是一道实验室程序的宗教。正典并不把这些
 体验为张力，而这段话的修辞——「我坚持」——显示它知道读者会。
 
-第三本书完成了这次升级。在《欢迎外星人》（Let's Welcome the
+第三本书完成了这次升级。在《让我们欢迎外星人》（Let's Welcome the
 Extraterrestrials，1979）中，耶和华揭示了信使的父系：
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=85) %}
@@ -766,7 +766,7 @@ religion des autres」——*所谓「邪教」，就是别人的宗教。* 三�
 - [*最接近真理的书*](/articles/the-book-closest-to-the-truth/)与
   [*那个把圣经押在月亮上的人*](/articles/the-man-who-bet-the-bible-on-the-moon/)，
   介绍对正典法国来源的那些溯源审查。
-- [*真实之书*](/library/the-book-which-tells-the-truth/)与
+- [*讲述真相之书*](/library/the-book-which-tells-the-truth/)与
   [*外星人带我去他们的行星*](/library/extraterrestrials-took-me-to-their-planet/)，
   介绍通篇所读的那些原始叙事——以及
   [*隐言经*](/library/hidden-words-woh/)、

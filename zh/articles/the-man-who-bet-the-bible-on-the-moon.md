@@ -666,7 +666,7 @@ selon toute vraisemblance, ne reviendront pas」*——那些宇航员，
 流自那个最深的差别——
 
 **证词，抑或假说。** ——这就是读者一直在等的那一个。1974 年，
-克劳德·沃里隆出版了《[真实之书](/library/the-book-which-tells-the-truth/)》；
+克劳德·沃里隆出版了《[讲述真相之书](/library/the-book-which-tells-the-truth/)》；
 到 1975 年，在《Les temps messianiques》里，桑迪已经读过它、
 或听说得够多了，并就它留下了一句话，在一段论贝蒂与巴尼·希尔
 事件的文字里：
@@ -819,7 +819,7 @@ Céleste」*——那么，明年，在月球上，天上的耶路撒冷。1975 
 - 《[最接近真理的书](/articles/the-book-closest-to-the-truth/)》，
   论卡巴拉与宫殿文献——桑迪透过萨夫兰所开采、而本文从正典
   一侧所开采的那条矿脉。
-- 《[真实之书](/library/the-book-which-tells-the-truth/)》，
+- 《[讲述真相之书](/library/the-book-which-tells-the-truth/)》，
   第 1–3 章与第 7 章，通篇所对照的正典段落。
 - 斯特凡诺·比利亚尔迪，《A Gentleman's Joyous Esotericism》
   （《Alternative Spirituality and Religion Review》8.1，2017）

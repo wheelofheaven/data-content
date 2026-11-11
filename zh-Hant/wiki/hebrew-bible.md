@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -81,7 +81,7 @@ note = "三本雷爾派源典書籍的合集正典版本。"
 
 [[extra.references]]
 id = "lets-welcome-the-extraterrestrials"
-note = "Vorilhon（雷爾，1979）；在希伯來聖經閱讀中通篇涉及的更廣泛議會政治—制度框架。"
+note = "沃里隆（雷爾，1979）；在希伯來聖經閱讀中通篇涉及的更廣泛議會政治—制度框架。"
 
 [[extra.references]]
 id = "sendy-ces-dieux"

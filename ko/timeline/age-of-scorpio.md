@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -30,7 +30,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "진리를 말하는 책 (Le Livre qui dit la vérité)", author = "클로드 보리옹 (라엘)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "진실을 말하는 책 (Le Livre qui dit la vérité)", author = "클로드 보리옹 (라엘)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "외계인들이 나를 그들의 행성으로 데려갔다 (Les Extra-Terrestres m'ont emmené sur leur planète)", author = "클로드 보리옹 (라엘)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "지적 설계: 설계자들로부터의 메시지 (Intelligent Design: Message from the Designers)", author = "클로드 보리옹 (라엘)", date = "2005", medium = "religious-text", description = "라엘리안 토대 텍스트들의 영어판 통합본; 2005년 서문은 벤터의 당시 진행 중이던 합성 세포 연구를 라엘리안 명제의 입증으로 명시적으로 제시합니다." },
     { title = "창세기", author = "익명 (히브리어 성경); 모음 표시된 마소라 히브리어 본문에서의 WoH 번역", date = "기원전 6–5세기경", medium = "religious-text", path = "/library/genesis-woh/" },

@@ -1,6 +1,6 @@
 +++
 title = "雷爾"
-description = "克洛德·沃利隆，1973年訊息的接受者，正典譜系中的最後一位先知。"
+description = "克洛德·沃里隆，1973年訊息的接受者，正典譜系中的最後一位先知。"
 template = "topic-page.html"
 weight = 45
 

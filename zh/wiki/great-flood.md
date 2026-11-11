@@ -36,7 +36,7 @@ see_also = [
     { title = "创世记", path = "/wiki/genesis/", description = "含有洪水记述的圣经书卷(创世记 6—9章)。" },
     { title = "所多玛与蛾摩拉", path = "/wiki/sodom-and-gomorrah/", description = "后期一次类似的打击事件,机制结构相似。" },
     { title = "巴别", path = "/wiki/babel/", description = "洪水后的文明离散事件。" },
-    { title = "双重签名", path = "/wiki/doubled-signature/", description = "文集所采用的原则,认为全球洪水传统保留了潜在的历史记忆。" },
+    { title = "双重署名", path = "/wiki/doubled-signature/", description = "文集所采用的原则,认为全球洪水传统保留了潜在的历史记忆。" },
     { title = "诸神之战", path = "/wiki/theomachy/", description = "该次打击所处的更广义宇宙政治冲突框架。" },
 ]
 

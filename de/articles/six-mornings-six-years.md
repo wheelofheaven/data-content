@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-01"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-01"
 translation_stale = false
 translation_sync = 100
@@ -18,7 +18,7 @@ category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 summary = "Der raëlianische Kanon wurde an sechs Morgen und in einer Oktobernacht empfangen und über sechs Jahre hinweg veröffentlicht — 1973, 1975, 1979 — von einem Sprecher, der die redaktionelle Kontrolle über seine eigene Offenbarung vom ersten bis zum letzten Satz behielt. Dieser Explainer liest die drei Quellbücher als ein einziges serielles Diktat und wendet auf sie die Disziplinen an, die ihre eigene Gründungsszene vorführt: Diskursanalyse (wer spricht, zu wem, wo, unter welcher Auflage) und Textkritik (was der überlieferte Text über seine eigene Überlieferung zeigt). Er stellt die Geographie richtig, die die meisten Zusammenfassungen verwischen — den Roc Plat, eine erdnahe Beobachtungsstation, den Planeten der Ewigen und einen Heimatplaneten, der erwähnt, aber nie besucht wird; eine Verschmelzung, die schon der Titel des zweiten Buches begeht. Er dokumentiert das System der Offenbarungssteuerung: zurückgehaltene Namen, die nach Plan ausgezahlt werden, Entfernungen, die am ersten Tag versprochen und am fünften geliefert werden, eine dreijährige Sperrfrist, die erst bei ihrem Ablauf angekündigt wird, und eine Reparaturdoktrin, die jeden Fehler dem Schreiber, der Pädagogik oder der Sperrfrist zuweist — nie der Quelle. Sodann führt er das Examen des Fälschers ehrlich in beide Richtungen durch: die Arithmetik, die über sechs Jahre hält (25 Körper × 1.000 Jahre; 666 × 20; Jahr 31, Jahr 34), und die Zahlen, die sich unter dem Druck der Belegstelle verbiegen (ein Rat von 700, der in dem Augenblick zu 24 Ältesten wird, in dem Offenbarung 4 aufgeschlagen auf dem Tisch liegt; ein Zweiundzwanzigtausend, an das sich niemand erinnerte). Das Urteil ist kein Urteil über die Begegnung. Es ist der Nachweis, dass der Kanon ein lebendiges Laboratorium für jene Philologie ist, die man sonst an zweitausend Jahre kalten Texten betreibt — und dass er die Lektüre immer wieder lohnt."
-keywords = ["Textkritik", "Diskursanalyse", "Offenbarungsdiskurs", "Redaktionskritik", "serielle Offenbarung", "Offenbarungssteuerung", "Das Buch, das die Wahrheit sagt", "Die Außerirdischen nahmen mich mit auf ihren Planeten", "Begrüßen wir die Außerirdischen", "Planet der Ewigen", "Heimatplanet der Elohim", "Beobachtungsstation", "Sperrfrist", "MADECH", "Kanonbildung", "Harmonisierung", "fossilisierte Korrektur", "Doctrine and Covenants", "Joseph Smith Papers", "naskh", "Susan Palmer", "Jean Sendy", "Dhorme", "apparatus criticus", "Narratologie", "Fokalisierung"]
+keywords = ["Textkritik", "Diskursanalyse", "Offenbarungsdiskurs", "Redaktionskritik", "serielle Offenbarung", "Offenbarungssteuerung", "Das Buch, das die Wahrheit sagt", "Außerirdische brachten mich auf ihren Planeten", "Empfangen wir die Außerirdischen", "Planet der Ewigen", "Heimatplanet der Elohim", "Beobachtungsstation", "Sperrfrist", "MADECH", "Kanonbildung", "Harmonisierung", "fossilisierte Korrektur", "Doctrine and Covenants", "Joseph Smith Papers", "naskh", "Susan Palmer", "Jean Sendy", "Dhorme", "apparatus criticus", "Narratologie", "Fokalisierung"]
 references = [
     # — The canon under examination —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1 (¶44: the publication instruction; ¶47: 'and even before'; ¶51–53: the deferred distance and the deflected name); Chapter 2 (¶3: corpus gating; ¶92: the departure colors); Chapter 5 (¶4: the twenty-two thousand years; ¶52–53: the parasang distances and the optical window); Chapter 6 (¶26: the no-proof doctrine; ¶29: the movement's name); Chapter 7 (¶16: 'six days in a row'; ¶30–56: eternals, council, and the president's twenty-five thousand years; ¶68: the residence)" },
@@ -57,8 +57,8 @@ footnotes = [
 +++
 
 Das zweite Buch des raëlianischen Kanons wird am häufigsten von seinem
-eigenen Titel falsch gelesen. *Die Außerirdischen nahmen mich mit auf
-ihren Planeten*, erschienen 1975, erzählt eine Reise, die den Planeten
+eigenen Titel falsch gelesen. *Außerirdische brachten mich auf ihren
+Planeten*, erschienen 1975, erzählt eine Reise, die den Planeten
 der Elohim nie erreicht. Das Schiff, das
 {% wiki(slug="rael") %}Raël{% end %} am 7. Oktober kurz nach Mitternacht
 am Roc Plat abholt, bringt ihn zunächst zu einer Basis, die
@@ -92,9 +92,9 @@ genau die Art von Datum, für deren Sammlung dieser Artikel existiert.
 Gegenstand sind hier die drei kanonischen Bücher —
 [*Das Buch, das die Wahrheit sagt*](/library/the-book-which-tells-the-truth/)
 (1973, erschienen 1974),
-[*Die Außerirdischen nahmen mich mit auf ihren Planeten*](/library/extraterrestrials-took-me-to-their-planet/)
+[*Außerirdische brachten mich auf ihren Planeten*](/library/extraterrestrials-took-me-to-their-planet/)
 (1975) und
-[*Begrüßen wir die Außerirdischen*](/library/lets-welcome-the-extraterrestrials/)
+[*Empfangen wir die Außerirdischen*](/library/lets-welcome-the-extraterrestrials/)
 (1979); im Folgenden TBWTT, ETTMTTP, LWTE —, gelesen als ein einziger
 serieller Text, mit den Werkzeugen, die sonst zweitausend Jahre kalten
 Schriften vorbehalten sind. Zwei Disziplinen leisten die Arbeit. Die

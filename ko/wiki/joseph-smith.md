@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -87,7 +87,7 @@ tradition_in_canon = "'몰몬교도'는 첫 번째 메시지에서 창조자들�
 
 ### 구술된 메시지에는 없음
 
-두 번째 메시지 『[외계인이 나를 그들의 행성으로 데려갔다](/ko/library/extraterrestrials-took-me-to-their-planet/)』(1975)에서 야훼는 영원자들의 행성의 식사 자리에 앉은 이들을 소개합니다. 예수, 모세, 엘리야, "지구에서 붓다라는 이름으로 기억되는 자", 그리고 무함마드로, 이들은 "지구에서 우리가 접촉한 뒤에 생겨난 종교들"을 대표하는 "마흔 명 남짓" 가운데 있습니다(ETTMTTP-2:62–64). 스미스는 그들 가운데 없습니다. 같은 메시지에서 "예언자 계보"에 속한 라엘의 선행자들의 목록은 모세, 에스겔, 엘리야, 예수, 무함마드, 붓다를 명명하며(ETTMTTP-3:257), 스미스는 거기에도 없습니다.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Extraterrestrials Took Me to Their Planet, ETTMTTP-2:62–64, 3:257") }} 정경은 마흔 명의 명단도, 그들 사이의 순서도 제시하지 않으며, 코퍼스는 스미스를 식탁에 앉히지도, 그에게 번호를 부여하지도 않습니다.
+두 번째 메시지 『[외계인들이 나를 그들의 행성으로 데려갔다](/ko/library/extraterrestrials-took-me-to-their-planet/)』(1975)에서 야훼는 영원자들의 행성의 식사 자리에 앉은 이들을 소개합니다. 예수, 모세, 엘리야, "지구에서 붓다라는 이름으로 기억되는 자", 그리고 무함마드로, 이들은 "지구에서 우리가 접촉한 뒤에 생겨난 종교들"을 대표하는 "마흔 명 남짓" 가운데 있습니다(ETTMTTP-2:62–64). 스미스는 그들 가운데 없습니다. 같은 메시지에서 "예언자 계보"에 속한 라엘의 선행자들의 목록은 모세, 에스겔, 엘리야, 예수, 무함마드, 붓다를 명명하며(ETTMTTP-3:257), 스미스는 거기에도 없습니다.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Extraterrestrials Took Me to Their Planet, ETTMTTP-2:62–64, 3:257") }} 정경은 마흔 명의 명단도, 그들 사이의 순서도 제시하지 않으며, 코퍼스는 스미스를 식탁에 앉히지도, 그에게 번호를 부여하지도 않습니다.
 
 이와 대조적으로, 그가 세운 전통은 구술된 메시지에서 명명됩니다. {% claim(type="direct", id="woh-claim-0027") %}첫 번째 메시지에서 엘로힘은 "우리의 작업을 다소 모호한 방식으로 증언하는" 종교들 가운데 "불교, 이슬람교, 몰몬교도"를 들며(TBWTT-5:54), 이는 정경이 스스로를 기존 종교들의 탈신비화된 공통 원천으로 설명하는 기사의 일부입니다.{% end %}{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="The Book Which Tells the Truth, TBWTT-5:54") }} 몰몬교도에 관한 이 기사는 정경의 것이며, 후기 성도들이 그것을 받아들인다는 주장을 담고 있지 않습니다.
 

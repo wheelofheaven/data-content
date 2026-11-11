@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-07-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-07-02"
 translation_stale = false
 translation_sync = 100
@@ -14,7 +14,7 @@ event_date = 2026-07-01
 event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
-summary = "ב־1 ביולי 2026 הכריז צוות של University of Minnesota על SpudCell — תא סינתטי המורכב כולו מרכיבים לא־חיים, הגדל, משכפל את הגנום שלו ומתחלק על פני כמה דורות. זוהי הוכחת היתכנות, לא אורגניזם עצמאי: הוא אינו מסוגל לייצר חלבונים משלו ויש להזין אותו. בקריאה דרך הקורפוס, הוא ניצב בדיוק על הסף שיהוה מתאר ב»הספר המספר את האמת«, שם החלה ציוויליזציית האלוהים עצמה בכך שיצרה »תאים חיים במבחנה« ברמה מדעית »הדומה לזו שאתם תגיעו אליה בקרוב«."
+summary = "ב־1 ביולי 2026 הכריז צוות של University of Minnesota על SpudCell — תא סינתטי המורכב כולו מרכיבים לא־חיים, הגדל, משכפל את הגנום שלו ומתחלק על פני כמה דורות. זוהי הוכחת היתכנות, לא אורגניזם עצמאי: הוא אינו מסוגל לייצר חלבונים משלו ויש להזין אותו. בקריאה דרך הקורפוס, הוא ניצב בדיוק על הסף שיהוה מתאר ב»הספר המגלה את האמת«, שם החלה ציוויליזציית האלוהים עצמה בכך שיצרה »תאים חיים במבחנה« ברמה מדעית »הדומה לזו שאתם תגיעו אליה בקרוב«."
 canon_links = [
     { title = "The Book Which Tells the Truth", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Elohim Home Planet", path = "/wiki/elohim-home-planet/" },
@@ -58,7 +58,7 @@ Otto, כינו זאת צעד מכונן דווקא בשל כמות העבודה 
 ## זווית הקורפוס
 
 בקריאה דרך מסגרת Wheel of Heaven, המעניין אינו שתא נבנה, אלא *היכן על הקשת*
-ניצבת הבנייה. ב[הספר המספר את האמת](/library/the-book-which-tells-the-truth/),
+ניצבת הבנייה. ב[הספר המגלה את האמת](/library/the-book-which-tells-the-truth/),
 [יהוה](/wiki/yahweh/) פותח את סיפור הבריאה בתיאור כיצד החלה ציוויליזציית
 [האלוהים](/wiki/elohim/) עצמה — על [כוכב הלכת הרחוק שלהם](/wiki/elohim-home-planet/),
 ברמה מדעית שלדבריו »הדומה לזו שאתם תגיעו אליה בקרוב«:

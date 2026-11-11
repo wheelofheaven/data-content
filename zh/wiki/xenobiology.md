@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -86,7 +86,7 @@ distinguished_from = "天体生物学／外空生物学（研究地球以外的�
 
 ## 在原始资料中
 
-正典关于被造生命之材料的陈述不多，而且它们是报告：《讲述真相之书》（1974）与《外星人带我去他们的星球》（1975）中口授的讯息，以及雷尔在《欢迎外星人》（1979）中他自己的评注。以下引文出自法文底本。
+正典关于被造生命之材料的陈述不多，而且它们是报告：《讲述真相之书》（1974）与《外星人带我去他们的行星》（1975）中口授的讯息，以及雷尔在《让我们欢迎外星人》（1979）中他自己的评注。以下引文出自法文底本。
 
 {% claim(type="direct", id="woh-claim-0074") %}正典将耶洛因在地球上所造的生命描述为由化学合成而成：植物细胞是« à partir de rien d'autre que des produits chimiques »（「仅仅从化学产品」，TBWTT-2:16）创造出来的，此前他们在自己的母星上已经做过关于« cellules vivantes en éprouvettes »（「试管中的活细胞」，TBWTT-2:2）的工作。{% end %}雷尔的评注以同样的措辞解读《创世记》2:7——神用地上的尘土造人，所用的是希伯来语中陶匠的动词 *yāṣar*：创造者« a pris un peu des composants chimiques que l'on trouve dans la terre et ils les a combinés scientifiquement »（「取了一些在泥土中发现的化学成分，并科学地将它们组合起来」，LWTE-1:148）。
 

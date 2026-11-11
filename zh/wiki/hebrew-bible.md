@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -81,7 +81,7 @@ note = "三部雷尔源典合集的正典版本。"
 
 [[extra.references]]
 id = "lets-welcome-the-extraterrestrials"
-note = "沃里雍(雷尔,1979);希伯来圣经解读中所涉及的更广泛的议会政治—制度框架。"
+note = "沃里隆(雷尔,1979);希伯来圣经解读中所涉及的更广泛的议会政治—制度框架。"
 
 [[extra.references]]
 id = "sendy-ces-dieux"

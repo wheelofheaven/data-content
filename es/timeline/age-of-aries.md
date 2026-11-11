@@ -26,7 +26,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Raël)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Éxodo", author = "Anónimo (Biblia hebrea); traducción WoH en curso desde el hebreo masorético vocalizado", date = "c. s. VI–V a. C.", medium = "religious-text", path = "/library/exodus-woh/", description = "La zarza ardiente, el cruce del Mar Rojo, la teofanía del Sinaí, el Tabernáculo y el Arca — la fuente primaria del capítulo." },
     { title = "Números", author = "Anónimo (Biblia hebrea)", date = "c. s. VI–V a. C.", medium = "religious-text", path = "/library/numbers/", description = "La serpiente de bronce (21:8–9), las instrucciones del Tabernáculo y las narraciones del desierto citadas en §III." },

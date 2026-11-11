@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 99
@@ -187,7 +187,7 @@ recipients_in_framework = "Líderes patriarcales del linaje del Edén mediante l
 distinguished_from = "El Árbol del Conocimiento del Bien y del Mal (el árbol paralelo del Edén); la tecnología de resurrección específicamente (transferencia celular más transferencia de memoria para individuos previamente fallecidos); el tratamiento básico de longevidad de los Eloha (el más simple 'pequeño ajuste quirúrgico')"
 current_status = "Operativo en el mundo natal Elohim y en el Planeta de los Eternos; las concesiones de longevidad en la Tierra fueron retiradas tras las restricciones del Consejo posteriores al Diluvio; extensión proyectada a la humanidad tras el retorno abierto de la era de Acuario"
 principal_text = "Génesis 2:9; Génesis 3:22–24; las genealogías patriarcales de Génesis 5; Apocalipsis 22:2"
-principal_framework_source = "*El Libro que Dice la Verdad* (Vorilhon/Raël, 1974), capítulo 2; *Los extraterrestres me llevaron a su planeta* (1975)"
+principal_framework_source = "*El libro que dice la verdad* (Vorilhon/Raël, 1974), capítulo 2; *Los extraterrestres me llevaron a su planeta* (1975)"
 +++
 
 El **Árbol de la Vida** (hebreo: <span class="hebrew">עֵץ הַחַיִּים</span>, *ʿēṣ ha-ḥayyîm*; griego: *to xylon tēs zōēs*; latín: *lignum vitae*) es la figura introducida en Génesis 2:9 como uno de los dos árboles nombrados en el jardín del Edén, junto al Árbol del Conocimiento del Bien y del Mal. El Árbol de la Vida aparece en la narrativa del Génesis de la Biblia Hebrea como la fuente de vida prolongada que, tras el suceso de la revelación del Edén, fue vedada al acceso humano por los querubines apostados a la entrada del jardín junto con el *lahaṭ ha-ḥereb ha-mithappeḵet* — la «espada flamígera que gira en todas direcciones» (Génesis 3:24). El Árbol aparece después a lo largo de la literatura sapiencial de la Biblia Hebrea en usos figurativo-simbólicos (Proverbios 3:18, 11:30, 13:12, 15:4), en la visión del río de la vida de Ezequiel (Ezequiel 47:12), y finalmente en el Apocalipsis del Nuevo Testamento como el Árbol de la Vida en la Nueva Jerusalén (Apocalipsis 2:7, 22:2, 22:14). La figura ha sido objeto de una sustancial elaboración teológica, mística y cultural a lo largo de dos milenios y medio, tratando la tradición cristiana el Árbol de la Vida típicamente como símbolo teológico de la vida eterna, y desarrollando la tradición cabalística el Árbol de la Vida como el principal diagrama cosmológico de los diez atributos divinos emanados (las Sefirot).
@@ -383,11 +383,11 @@ El marco lee estos pasajes como preservación de la memoria profético-visionari
 
 ### El material fuente raeliano
 
-Los principales pasajes del material fuente raeliano sobre el Árbol de la Vida aparecen en *El Libro que Dice la Verdad* (1974), capítulo 2 («La verdad»),{{ cite(id="the-book-which-tells-the-truth", text="[6]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974), cap. 2 — la concesión patriarcal de longevidad") }} con un sustancial material complementario en *Los extraterrestres me llevaron a su planeta* (1975).{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[7]", title="Vorilhon (Raël), *Extra-Terrestrials Took Me to Their Planet* (1975) — la tecnología de transferencia celular y los 25 cuerpos de Yahvé") }}
+Los principales pasajes del material fuente raeliano sobre el Árbol de la Vida aparecen en *El libro que dice la verdad* (1974), capítulo 2 («La verdad»),{{ cite(id="the-book-which-tells-the-truth", text="[6]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974), cap. 2 — la concesión patriarcal de longevidad") }} con un sustancial material complementario en *Los extraterrestres me llevaron a su planeta* (1975).{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[7]", title="Vorilhon (Raël), *Extra-Terrestrials Took Me to Their Planet* (1975) — la tecnología de transferencia celular y los 25 cuerpos de Yahvé") }}
 
 El principal contenido del material fuente sobre el Árbol de la Vida:
 
-**La concesión patriarcal posterior al Edén** (del relato de Yahvé en *El Libro que Dice la Verdad*, capítulo 2):
+**La concesión patriarcal posterior al Edén** (del relato de Yahvé en *El libro que dice la verdad*, capítulo 2):
 
 > *«Los creadores en el exilio, que quedaron bajo vigilancia militar, instaban a los seres humanos a llevarles alimento para mostrar a sus propios superiores que las personas recién creadas eran buenas, y que nunca se volverían contra sus creadores. Así lograron obtener permiso para que los líderes de estos primeros seres humanos se beneficiaran del 'árbol de la vida', y esto explica cómo vivieron tanto tiempo: Adán vivió 930 años, Set 912 años y Enós 905 años, y así sucesivamente.»*
 

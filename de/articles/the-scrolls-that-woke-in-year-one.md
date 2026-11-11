@@ -715,6 +715,6 @@ Jahr 81.
   verankert.
 - [Die ersten Moscheen waren nach Petra ausgerichtet, nicht nach Mekka](/articles/the-first-mosques-faced-petra-not-mecca/),
   für die spätere Geschichte desselben Wüstenkorridors.
-- [*The Book Which Tells the Truth*](/library/the-book-which-tells-the-truth/),
+- [*Das Buch, das die Wahrheit sagt*](/library/the-book-which-tells-the-truth/),
   Kapitel 1 und 5, für die Kanon-Passagen zu 1945, 1946 und der neuen
   Ära, die durchgehend zitiert werden.

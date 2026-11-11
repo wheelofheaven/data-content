@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-07-02"
+translation_updated = "2026-11-11"
 source_updated = "2026-07-02"
 translation_stale = false
 translation_sync = 100
@@ -14,9 +14,9 @@ event_date = 2026-07-01
 event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
-summary = "El 1 de julio de 2026, un equipo de la University of Minnesota anunció SpudCell — una célula sintética ensamblada por completo a partir de componentes no vivos que crece, copia su genoma y se divide a lo largo de varias generaciones. Es una prueba de concepto, no un organismo autosuficiente: no puede fabricar sus propias proteínas y debe ser alimentada. Leída a través del canon, se sitúa precisamente en el umbral que Yahvé describe en El Libro que Dice la Verdad, donde la propia civilización de los Elohim comenzó creando «células vivas en probetas» a un nivel científico «comparable al que ustedes alcanzarán pronto»."
+summary = "El 1 de julio de 2026, un equipo de la University of Minnesota anunció SpudCell — una célula sintética ensamblada por completo a partir de componentes no vivos que crece, copia su genoma y se divide a lo largo de varias generaciones. Es una prueba de concepto, no un organismo autosuficiente: no puede fabricar sus propias proteínas y debe ser alimentada. Leída a través del canon, se sitúa precisamente en el umbral que Yahvé describe en El libro que dice la verdad, donde la propia civilización de los Elohim comenzó creando «células vivas en probetas» a un nivel científico «comparable al que ustedes alcanzarán pronto»."
 canon_links = [
-    { title = "El Libro que Dice la Verdad", path = "/library/the-book-which-tells-the-truth/" },
+    { title = "El libro que dice la verdad", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Planeta natal de los Elohim", path = "/wiki/elohim-home-planet/" },
     { title = "Elohim", path = "/wiki/elohim/" },
     { title = "Diseño inteligente", path = "/wiki/intelligent-design/" }
@@ -67,7 +67,7 @@ decisivo precisamente por lo mucho que queda por hacer.
 
 Leída a través del marco Wheel of Heaven, lo interesante no es que se haya
 construido una célula, sino *en qué punto del arco* se sitúa esa construcción. En
-[El Libro que Dice la Verdad](/library/the-book-which-tells-the-truth/),
+[El libro que dice la verdad](/library/the-book-which-tells-the-truth/),
 [Yahvé](/wiki/yahweh/) abre el relato de la creación describiendo cómo comenzó la
 propia civilización de los [Elohim](/wiki/elohim/) — en
 [su lejano planeta](/wiki/elohim-home-planet/), a un nivel científico que, según

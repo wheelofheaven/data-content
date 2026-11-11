@@ -26,7 +26,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Raël)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Raël)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Exodus (Zweites Buch Mose)", author = "Anonym (Hebräische Bibel); WoH-Übersetzung aus dem punktierten masoretischen Hebräisch in Arbeit", date = "ca. 6.–5. Jh. v. Chr.", medium = "religious-text", path = "/library/exodus-woh/", description = "Brennender Dornbusch, Durchquerung des Schilfmeers, Sinai-Theophanie, Stiftshütte und Bundeslade — die Hauptquelle des Kapitels." },
     { title = "Numeri (Viertes Buch Mose)", author = "Anonym (Hebräische Bibel)", date = "ca. 6.–5. Jh. v. Chr.", medium = "religious-text", path = "/library/numbers/", description = "Eherne Schlange (21,8–9), Anweisungen zur Stiftshütte und die in §III zitierten Wüstenerzählungen." },

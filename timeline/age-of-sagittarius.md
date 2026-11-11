@@ -25,7 +25,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Genesis", author = "Anonymous (Hebrew Bible); WoH translation from the pointed Masoretic Hebrew", date = "c. 6th–5th c. BCE", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "Theory of the Earth", author = "James Hutton", date = "1788", medium = "academic-paper", description = "The founding statement of uniformitarianism — the doctrine that present geological processes are the key to the past." },

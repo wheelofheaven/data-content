@@ -26,7 +26,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Клод Ворильон (Раэль)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "Клод Ворильон (Раэль)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Клод Ворильон (Раэль)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Бытие", author = "Аноним (Еврейская Библия); перевод WoH с огласованного масоретского еврейского текста", date = "ок. VI–V вв. до н. э.", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "История, Книга II", author = "Геродот Галикарнасский", date = "ок. 440 до н. э.", medium = "religious-text", description = "Источник сообщения о том, что египетские осведомители рассказали Геродоту, будто пирамиды «невообразимо древние»." },

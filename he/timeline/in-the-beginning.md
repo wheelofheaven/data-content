@@ -27,7 +27,7 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "קלוד ווריון (ראל)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Le Livre qui dit la vérité", author = "קלוד ווריון (ראל)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
     { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "קלוד ווריון (ראל)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "ספר איוב", author = "אנונימי (תנ״ך)", date = "מאה 6 לפנה״ס בקירוב", medium = "religious-text", path = "/library/job/", description = "התיאור המפורש ביותר בתנ״ך של ha-satan כחבר במועצה האלוהית שתפקידו המוסדי לטעון נגד תוכניות בטוחות בעצמן." },
 ]

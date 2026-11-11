@@ -1,12 +1,12 @@
 +++
 title = "雷爾"
-description = "雷爾(原名克洛德·沃裡隆,1946年生)是雷爾運動的創立者,他自稱於1973年與1975年從耶洛因處直接接收到了傳遞。在 Wheel of Heaven 文集中,他被讀作處於摩西、耶穌、穆罕默德延續中的耶洛因系譜中最後一位有據可查的先知。"
+description = "雷爾(原名克洛德·沃里隆,1946年生)是雷爾運動的創立者,他自稱於1973年與1975年從耶洛因處直接接收到了傳遞。在 Wheel of Heaven 文集中,他被讀作處於摩西、耶穌、穆罕默德延續中的耶洛因系譜中最後一位有據可查的先知。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100

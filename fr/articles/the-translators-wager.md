@@ -585,28 +585,17 @@ complexes »*. La version du canon, livrée comme un rapport à la première
 personne il y a quarante-sept ans :
 
 {% library(book="the-book-which-tells-the-truth", chapter=2, verse=25) %}
-C'est alors que les plus habiles d'entre nous voulurent créer un homme
-semblable à nous, artificiellement. Chaque équipe se mit au travail, et
-nous pûmes bientôt comparer nos créations. Mais les habitants de la
-planète d'où nous venions furent scandalisés que nous fassions des
-« enfants-éprouvette » qui, de surcroît, risquaient de venir semer la
-panique parmi eux. Ils craignaient que ces hommes ne fussent un danger
-pour eux si leurs capacités ou leurs pouvoirs se révélaient supérieurs à
-ceux de leurs créateurs. Nous dûmes nous engager à les laisser vivre
-primitivement, à ne rien leur révéler de scientifique et à mystifier nos
-actions.
+C'est alors que les plus habiles d'entre nous voulurent créer un homme comme nous artificiellement. Chaque équipe se mit au travail, nous pûmes comparer bientôt nos créations. Mais les occupants de la planète d'où nous venions se scandalisèrent du fait que nous faisions des «enfants d'éprouvette» qui, d'autre part, risquaient de venir semer la panique chez eux. Ils craignaient que ces hommes soient un danger pour eux si leurs capacités ou leurs pouvoirs s'avéraient supérieurs à ceux de leurs créateurs. Nous dûmes nous engager à les laisser vivre primitivement, sans rien leur révéler de scientifique et en mystifiant nos agissements.
 {% end %}
 
 Le canon cite ensuite Genèse 1,26 — *faisons l'homme à notre image, selon
 notre ressemblance* — et ajoute la glose de six mots qui tient, sous forme
 comprimée, pour tout ce qu'argumente le chapitre *tselem* de Biglino :
-*« À notre image ! Vous voyez que la ressemblance est frappante »*
+*« À notre image! Vous pouvez constater que la ressemblance est frappante »*
 ({% libref(book="the-book-which-tells-the-truth", chapter=2, verse=27) %}LQDV 2,27{% end %}).
 Là où Biglino raisonne du lexique vers la molécule, le canon parle de la
 molécule directement — son récit de la résurrection des morts à partir de
-débris osseux explique que *« dans chaque particule d'un être vivant se
-trouve toute l'information nécessaire à la reconstitution de l'être
-entier »*
+débris osseux explique que *« dans chaque particule d'un être vivant, il y a toutes les informations nécessaires à la reconstitution de l'être tout entier »*
 ({% libref(book="the-book-which-tells-the-truth", chapter=3, verse=184) %}LQDV 3,184{% end %}),
 ce qui est la prétention que *tselem*-comme-ADN fait de la Genèse, énoncée
 comme de l'ingénierie. Le corpus classe tout ce complexe sous
@@ -622,11 +611,7 @@ interdit{% end %} — un contrôle d'accès au savoir. Le canon fournit même la
 définition du bien et du mal telle que la direction l'entendait :
 
 {% library(book="the-book-which-tells-the-truth", chapter=2, verse=57) %}
-Le mal — c'est-à-dire le désir de devenir un peuple égal à ses créateurs,
-un peuple scientifique et indépendant. Le bien, pour eux, était que
-l'homme demeure un être primitif végétant sur la Terre. Le mal était qu'il
-voulût progresser, risquant d'être un jour en mesure de rejoindre ses
-créateurs.
+Le mal, c'est-à-dire le désir de devenir un peuple égal à ses créateurs, un peuple scientifique et indépendant. Le bien pour eux était que l'homme demeure un être primitif végétant sur la Terre. Le mal était qu'il veuille faire des progrès, risquant un jour d'être en mesure de rejoindre ses créateurs.
 {% end %}
 
 La lecture par Biglino de l'expulsion est la même scène vue du sol : les
@@ -664,9 +649,7 @@ jamais été la même personne.
 Biglino est le véhicule sobrement nommé du canon :
 
 {% library(book="the-book-which-tells-the-truth", chapter=3, verse=33) %}
-Voilà la description de la « gloire » — en réalité l'engin volant — des
-créateurs, et comme vous avez pu le remarquer, au moment du départ elle
-prend une coloration semblable à celle du feu.
+Vous avez là la description de la «gloire», l'engin volant en réalité, des créateurs et comme vous avez pu le remarquer, au moment du départ il prend une coloration semblable à celle d'un feu.
 {% end %}
 
 Le catalogue étymologique du corpus avait déjà enregistré la racine *kbd*,
@@ -686,12 +669,7 @@ canon énonce les durées de vie puis révèle la machinerie que les dieux
 mourants du psaume sembleraient ne pas avoir :
 
 {% library(book="the-book-which-tells-the-truth", chapter=7, verse=30) %}
-Notre corps vit en moyenne dix fois plus longtemps que le vôtre, comme les
-premiers hommes de la Bible. Entre sept cent cinquante et mille deux cents
-ans. Mais notre esprit, donc notre véritable personnage, peut être
-véritablement immortel. Je vous ai expliqué qu'à partir de n'importe
-quelle cellule d'un corps on peut recréer l'être entier avec une matière
-vivante nouvelle…
+Notre corps vit dix fois plus longtemps en moyenne que le vôtre, comme les premiers hommes de la Bible. Entre sept cent cinquante et mille deux cents ans. Mais notre esprit, donc notre véritable personnage, peut être vraiment immortel. Je vous ai expliqué qu'à partir de n'importe quelle cellule d'un corps on peut recréer l'être tout entier avec de la matière vivante neuve…
 {% end %}
 
 L'« éternité » du canon n'est donc pas un attribut divin mais une
@@ -738,8 +716,7 @@ importance — *« Yahvé n'est pas, et ne peut être considéré comme, le Dieu
 de l'humanité, mais un gouverneur tribal qui s'occupait exclusivement du
 clan qui lui était confié. »* Le canon le promeut : Yahvé est le président
 du {% wiki(slug="council-of-the-eternals") %}Conseil des Éternels{% end %},
-âgé de vingt-cinq mille ans, l'être qui *« dirigea la création de la vie
-sur la Terre »*
+âgé de vingt-cinq mille ans, l'être qui a *« dirigé la création de la vie sur la Terre »*
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=56) %}LQDV 7,56{% end %}).
 Placez les trois lectures côte à côte et le motif est instructif : Wallis
 épingle le dragon sur Yahvé, Biglino le réduit à un lieutenant, le canon
@@ -766,8 +743,7 @@ que plus frappante : les deux lectures prennent l'Annonciation à la lettre
 comme une paternité physique — Biglino glose Gabriel en *Ghever-El*, un
 homme agissant pour un El, et corrige avec sécheresse la salutation de
 l'ange en *« Bonjour, toi qui t'es faite belle »* ; le canon dit que les
-créateurs *« pouvaient s'accoupler aux filles des hommes qu'ils avaient
-créés à leur image et en avoir des enfants exceptionnels »*
+créateurs *« pouvaient s'accoupler avec les filles des hommes qu'ils avaient créés à leur image et en avoir des enfants exceptionnels »*
 ({% libref(book="the-book-which-tells-the-truth", chapter=2, verse=55) %}LQDV 2,55{% end %}).
 Sur la biologie ils s'accordent ; sur la mission, et sur la question de
 savoir si quelque chose se préparait, ils se séparent complètement.
@@ -878,7 +854,7 @@ près confirme la formule tout en en remplissant la texture. Nécessaire : le
 pluriel restauré, les termes non traduits, la concrétude recouvrée — sans
 ce socle, la propre lecture du canon des
 {% libref(book="the-book-which-tells-the-truth", chapter=3, verse=251) %}Élohim
-comme « ceux venus du ciel »{% end %} n'a aucun interlocuteur philologique,
+comme « venus du ciel »{% end %} n'a aucun interlocuteur philologique,
 et toute la conversation reste piégée entre la dévotion et le rejet. Non
 suffisante : par conception, le pari ne peut dire qui l'a gagné. Biglino
 prouve, tout au plus, que le texte se lit de manière cohérente comme la

@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
-source_updated = "2026-11-07"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -30,8 +30,8 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité (講述真相的書)", author = "克勞德·沃里隆 (雷爾)", date = "1974 年", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète (外星人帶我去他們的星球)", author = "克勞德·沃里隆 (雷爾)", date = "1975 年", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "Le Livre qui dit la vérité (訴說真相之書)", author = "克勞德·沃里隆 (雷爾)", date = "1974 年", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Les Extra-Terrestres m'ont emmené sur leur planète (外星人帶我到他們的行星)", author = "克勞德·沃里隆 (雷爾)", date = "1975 年", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
     { title = "Genesis (創世記)", author = "佚名 (希伯來聖經)", date = "約公元前 6 至 5 世紀", medium = "religious-text", path = "/library/genesis-woh/" },
     { title = "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (哈姆雷特之磨:探究人類知識起源及其透過神話傳播的論文)", author = "喬治奧·德·桑蒂利亞納與赫塔·馮·德申德", date = "1969 年", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
     { title = "Carbon-bearing molecules in a possible Hycean atmosphere (可能的海洋世界大氣中的含碳分子)", author = "尼庫·馬杜蘇丹、蘇巴吉特·薩卡爾、薩瓦斯·康斯坦丁努、莫恩斯·霍姆伯格等", publication = "The Astrophysical Journal Letters 956 (1), L13", date = "2023 年", medium = "academic-paper", url = "https://iopscience.iop.org/article/10.3847/2041-8213/acf577", description = "JWST 首次於 K2-18b 大氣中偵測到 CH4 與 CO2,並暫測到二甲硫醚生物標記訊號。" },

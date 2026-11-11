@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 99
@@ -187,7 +187,7 @@ recipients_in_framework = "Patriarchale Führer der Eden-Linie durch die nach-ed
 distinguished_from = "Der Baum der Erkenntnis von Gut und Böse (der parallele Eden-Baum); die Auferstehungstechnologie im Besonderen (Zelltransfer plus Gedächtnisübertragung für zuvor verstorbene Individuen); die grundlegende Eloha-Langlebigkeitsbehandlung (die einfachere „kleine chirurgische Anpassung“)"
 current_status = "Operativ auf der Heimatwelt der Elohim und auf dem Planeten der Ewigen; die erdseitigen Langlebigkeitsgewährungen nach den nachflutlichen Ratsbeschränkungen zurückgezogen; projizierte Ausweitung auf die Menschheit nach der offenen Rückkehr im Wassermann-Zeitalter"
 principal_text = "Genesis 2,9; Genesis 3,22–24; die patriarchalen Genealogien von Genesis 5; Offenbarung 22,2"
-principal_framework_source = "*Das Buch, das die Wahrheit sagt* (Vorilhon/Raël, 1974), Kapitel 2; *Außerirdische führten mich zu ihrem Planeten* (1975)"
+principal_framework_source = "*Das Buch, das die Wahrheit sagt* (Vorilhon/Raël, 1974), Kapitel 2; *Außerirdische brachten mich auf ihren Planeten* (1975)"
 +++
 
 Der **Baum des Lebens** (hebräisch: <span class="hebrew">עֵץ הַחַיִּים</span>, *ʿēṣ ha-ḥayyîm*; griechisch: *to xylon tēs zōēs*; lateinisch: *lignum vitae*) ist die in Genesis 2,9 eingeführte Gestalt als einer der beiden benannten Bäume im Garten Eden, neben dem Baum der Erkenntnis von Gut und Böse. Der Baum des Lebens erscheint in der Genesis-Erzählung der Hebräischen Bibel als Quelle verlängerten Lebens, das nach dem Enthüllungsereignis in Eden durch die am Eingang des Gartens postierten Cherubim sowie durch das *lahaṭ ha-ḥereb ha-mithappeḵet* — das „flammende Schwert, das nach allen Seiten zuckte“ (Genesis 3,24) — dem menschlichen Zugriff entzogen wurde. Der Baum erscheint sodann in der Weisheitsliteratur der Hebräischen Bibel in bildlich-symbolischen Verwendungen (Sprüche 3,18, 11,30, 13,12, 15,4), in Hesekiels Vision vom Strom des Lebens (Hesekiel 47,12) und schließlich in der Offenbarung des Neuen Testaments als Baum des Lebens im Neuen Jerusalem (Offenbarung 2,7, 22,2, 22,14). Die Gestalt war über zweieinhalb Jahrtausende hinweg Gegenstand umfangreicher theologischer, mystischer und kultureller Ausarbeitung, wobei die christliche Tradition den Baum des Lebens üblicherweise als theologisches Symbol des ewigen Lebens behandelt und die kabbalistische Tradition den Baum des Lebens als das zentrale kosmologische Diagramm der zehn emanierten göttlichen Eigenschaften (der Sephirot) entwickelt.
@@ -383,7 +383,7 @@ Der Rahmen liest diese Passagen als Bewahrung prophetisch-visionärer Erinnerung
 
 ### Das raëlianische Quellenmaterial
 
-Die zentralen Passagen des raëlianischen Quellenmaterials zum Baum des Lebens erscheinen in *Das Buch, das die Wahrheit sagt* (1974), Kapitel 2 („Die Wahrheit“),{{ cite(id="the-book-which-tells-the-truth", text="[6]", title="Vorilhon (Raël), *Das Buch, das die Wahrheit sagt* (1974), Kap. 2 — die patriarchale Langlebigkeitsgewährung") }} mit umfangreichem ergänzendem Material in *Außerirdische führten mich zu ihrem Planeten* (1975).{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[7]", title="Vorilhon (Raël), *Außerirdische führten mich zu ihrem Planeten* (1975) — die Zelltransfer-Technologie und Jahwes 25 Körper") }}
+Die zentralen Passagen des raëlianischen Quellenmaterials zum Baum des Lebens erscheinen in *Das Buch, das die Wahrheit sagt* (1974), Kapitel 2 („Die Wahrheit“),{{ cite(id="the-book-which-tells-the-truth", text="[6]", title="Vorilhon (Raël), *Das Buch, das die Wahrheit sagt* (1974), Kap. 2 — die patriarchale Langlebigkeitsgewährung") }} mit umfangreichem ergänzendem Material in *Außerirdische brachten mich auf ihren Planeten* (1975).{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[7]", title="Vorilhon (Raël), *Außerirdische brachten mich auf ihren Planeten* (1975) — die Zelltransfer-Technologie und Jahwes 25 Körper") }}
 
 Der zentrale Gehalt des Quellenmaterials zum Baum des Lebens:
 
@@ -399,11 +399,11 @@ Der zentrale Gehalt des Quellenmaterials zum Baum des Lebens:
 
 > *„Für uns stellt sich das Problem ganz anders. Wir sind nicht ewig, aber wir können zehnmal länger leben als ihr, dank einer kleinen chirurgischen Anpassung, die in der Tat der biblische ‚Baum des Lebens' ist.“*
 
-**Die Zelltransfer-Technologie und Jahwes ununterbrochene Existenz** (aus *Außerirdische führten mich zu ihrem Planeten*, „Begegnung mit den alten Propheten“):
+**Die Zelltransfer-Technologie und Jahwes ununterbrochene Existenz** (aus *Außerirdische brachten mich auf ihren Planeten*, „Begegnung mit den alten Propheten“):
 
 > *„Der Älteste, der Präsident des Rates der Ewigen, ist 25.000 Jahre alt, und du siehst ihn jetzt vor dir. Ich habe bis zum heutigen Tag in fünfundzwanzig Körpern gelebt, und ich war der erste, an dem dieses Experiment erfolgreich durchgeführt wurde.“*
 
-**Der Mechanismus des Zelltransfers** (aus *Außerirdische führten mich zu ihrem Planeten* (1975), dem Bericht über den Planeten der Ewigen):
+**Der Mechanismus des Zelltransfers** (aus *Außerirdische brachten mich auf ihren Planeten* (1975), dem Bericht über den Planeten der Ewigen):
 
 > *„Der Körper besteht aus neuen Elementen mit dem Potenzial für weitere tausend Jahre Leben — und so weiter in Ewigkeit. Doch um das Wachstum der Bevölkerung zu begrenzen, haben nur Genies das Recht auf Ewigkeit. Jeder auf unserem Planeten lässt sich in einem bestimmten Alter eine Zellprobe entnehmen, in der Hoffnung, dass er nach seinem Tod zur Neuerschaffung ausgewählt wird.“*
 

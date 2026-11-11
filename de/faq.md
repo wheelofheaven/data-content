@@ -324,7 +324,7 @@ question = "Wo lese ich die Quelltexte?"
 answer = """
 Der Abschnitt [Bibliothek](/de/library/) beherbergt die primären Quelltexte, aus denen das Korpus liest, mit Kommentar und Kontext. Dazu gehören:
 
-- *Das Buch, das die Wahrheit sagt* (Vorilhon, 1974) — der raëlianische Gründungstext — zusammen mit seinen Fortsetzungen *Extraterrestrials Took Me to Their Planet* und *Let's Welcome the Extraterrestrials*.
+- *Das Buch, das die Wahrheit sagt* (Vorilhon, 1974) — der raëlianische Gründungstext — zusammen mit seinen Fortsetzungen *Außerirdische brachten mich auf ihren Planeten* und *Empfangen wir die Außerirdischen*.
 - Die Genesis (der punktierte hebräische Text mit der projekteigenen Übersetzung in Paralleldarstellung, dazu eine englische Standardausgabe).
 - Das Buch Henoch.
 - Das Enuma Elisch.

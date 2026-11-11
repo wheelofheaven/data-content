@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -66,7 +66,7 @@ note = "*Mazzaroth* 在线汇编——对黄道—圣经诠释传统的当代汇
 
 [[extra.references]]
 id = "the-book-which-tells-the-truth"
-note = "佛里翁（雷尔），《讲述真相之书》（1974）——文集以岁差时代为锚点的年代框架的主要雷尔派来源。"
+note = "沃里隆（雷尔），《讲述真相之书》（1974）——文集以岁差时代为锚点的年代框架的主要雷尔派来源。"
 
 [extra.infobox]
 type = "地球自转轴指向的周期性变化；地球的第三种主要运动"
@@ -274,7 +274,7 @@ key_external_references = "Santillana, Giorgio de, and Hertha von Dechend. *Haml
 - **速率**——现代天文速率（每年 50.29 角秒）与占星学传统速率（每个时代 2,160 年）之间的差异，使时代时长相差约 5—10%
 - **星座边界**——IAU 标准化的边界（1930 年界定）与古典占星学的边界不同，有些地方差别很大
 
-框架使用 2,160 年的数字与表中的交界{{ cite(id="the-book-which-tells-the-truth", text="[7]", title="佛里翁（雷尔），《讲述真相之书》——文集年代框架的主要雷尔派来源") }}，将其视为近似值（±200 年），并将诠释的重心放在各时代特有的事件上，而非确切的年份。
+框架使用 2,160 年的数字与表中的交界{{ cite(id="the-book-which-tells-the-truth", text="[7]", title="沃里隆（雷尔），《讲述真相之书》——文集年代框架的主要雷尔派来源") }}，将其视为近似值（±200 年），并将诠释的重心放在各时代特有的事件上，而非确切的年份。
 
 ## 文集中的关联
 
@@ -339,7 +339,7 @@ key_external_references = "Santillana, Giorgio de, and Hertha von Dechend. *Haml
 
 ## 参考文献
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*（1974）与 *Les extra-terrestres m'ont emmené sur leur planète*（1976），合集为 *Message from the Designers*（Raëlian Foundation，现行英文版）。〔框架解读的主要来源；佛里翁的材料并未明确阐述岁差本身，但文集所采纳的年代框架与之相符。〕
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*（1974）与 *Les extra-terrestres m'ont emmené sur leur planète*（1976），合集为 *Message from the Designers*（Raëlian Foundation，现行英文版）。〔框架解读的主要来源；沃里隆的材料并未明确阐述岁差本身，但文集所采纳的年代框架与之相符。〕
 
 Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston: Gambit, 1969.〔对「前喜帕恰斯时代神话编码岁差内容」这一论点的奠基性学术探讨；框架解读的主要外部参考。〕
 

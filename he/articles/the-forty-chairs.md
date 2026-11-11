@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -326,8 +326,6 @@ footnotes = [
   ה-qibla המלא שמאחורי מקרה הטיפוס של פרק סימן המים, שכבת יסוד שחוזרה
   במדידה — והערך {% wiki(slug="hanafiyya") %}חניפיה{% end %}, לשמה של
   השכבה לעצמה ולקריאה השיקומית של ראשית האסלאם.
-- [*החייזרים לקחו אותי לכוכב
-  שלהם*](/library/extraterrestrials-took-me-to-their-planet/) ו-
-  [*הספר המגלה את
-  האמת*](/library/the-book-which-tells-the-truth/), לסעודת הארבעים
+- [*החייזרים לקחו אותי לכוכב שלהם*](/library/extraterrestrials-took-me-to-their-planet/) ו-
+  [*הספר המגלה את האמת*](/library/the-book-which-tells-the-truth/), לסעודת הארבעים
   ולנקיבת שמות השליחים בנרטיבים הראשוניים.

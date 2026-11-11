@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -517,10 +517,7 @@ Le contraste que le cadre lit bel et bien est celui entre l'**idolâtrie** et la
 effondrement post-Sodome qui présente Abraham comme la figure de la restauration :
 
 {% library(book="the-book-which-tells-the-truth", chapter=3, verse=4) %}
-Mais les hommes, retombés dans un état très primitif après la destruction des plus
-intelligents et des centres de progrès comme Sodome et Gomorrhe, se mirent
-stupidement à adorer des morceaux de pierre et des idoles, oubliant qui les avait
-créés.
+Mais les hommes, retombés dans un état très primitif après la destruction des plus intelligents et des centres de progrès comme Sodome et Gomorrhe, se mettaient à adorer bêtement des morceaux de pierre et des idoles en oubliant qui les avait créés.
 {% end %}
 
 La faute nommée ici n'est pas de croire en trop d'êtres. C'est d'adorer du bois, de
