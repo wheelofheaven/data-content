@@ -9,7 +9,7 @@ translation_status = "ai_reviewed"
 translation_updated = "2026-11-10"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 100
+translation_sync = 88
 core_versions = { woh-claim-0057 = "0.1.0" }
 core_claim_ids = ["woh-claim-0057"]
 event_date = 2026-06-12

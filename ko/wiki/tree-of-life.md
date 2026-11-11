@@ -10,7 +10,7 @@ translation_status = "ai_reviewed"
 translation_updated = "2026-11-08"
 source_updated = "2026-11-08"
 translation_stale = false
-translation_sync = 100
+translation_sync = 99
 same_as = ["https://www.wikidata.org/wiki/Q4746911", "https://en.wikipedia.org/wiki/Tree_of_life_%28biblical%29"]
 core_versions = { woh-claim-0018 = "0.1.0" }
 core_claim_ids = ["woh-claim-0018"]

@@ -10,7 +10,7 @@ translation_status = "ai_reviewed"
 translation_updated = "2026-11-10"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 100
+translation_sync = 88
 same_as = ["https://www.wikidata.org/wiki/Q631897", "https://en.wikipedia.org/wiki/Ra%C3%ABlism"]
 claim_type = "direct"
 core_versions = { woh-claim-0027 = "0.1.0" }

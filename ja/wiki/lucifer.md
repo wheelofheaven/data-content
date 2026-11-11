@@ -10,7 +10,7 @@ translation_status = "ai_reviewed"
 translation_updated = "2026-11-11"
 source_updated = "2026-11-11"
 translation_stale = false
-translation_sync = 100
+translation_sync = 99
 same_as = ["https://www.wikidata.org/wiki/Q185498", "https://en.wikipedia.org/wiki/Lucifer", "https://www.britannica.com/topic/Lucifer-classical-mythology"]
 core_versions = { woh-claim-0008 = "0.1.0", woh-claim-0013 = "0.1.0" }
 core_claim_ids = ["woh-claim-0008", "woh-claim-0013"]

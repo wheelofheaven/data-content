@@ -10,7 +10,7 @@ translation_status = "ai_reviewed"
 translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 73
+translation_sync = 100
 category = "Theology & Traditions"
 claim_type = "inferred"
 editorial_pass = "2026-05"
@@ -141,14 +141,24 @@ note = "布魯格(1976);出現在《是的……我是雷爾派》的痕跡清�
 
 - **創世記**——廣泛引用第1-11章、19、22、28、35章。《真理》的開篇是對原初歷史(創造、伊甸園、洪水、巴別塔、所多瑪與蛾摩拉、以撒的綑綁、雅各的天梯)的逐章重讀 {% libref(book="genesis-woh") %}譯本{% end %}(全書)。
 - **出埃及記**——引用第3、13、14、16、17、19、20章(燃燒的荊棘、雲柱與火柱、分海、嗎哪、摩西的杖、西奈山) {% libref(book="exodus-woh") %}譯本{% end %}。
+- **利未記**——第17與25章(血即生命;禧年) {% libref(book="leviticus-woh") %}譯本{% end %}。
+- **民數記**——第11、18、21、33章(嗎哪、祭司的份、銅蛇、曠野的行程) {% libref(book="numbers-woh") %}譯本{% end %}。
+- **申命記**——第4章(何烈山上從火中發出的聲音) {% libref(book="deuteronomy-woh") %}譯本{% end %}。
 - **約書亞記**——耶利哥的陷落(第6章),被讀作聲波武器事件 {% libref(book="joshua-woh") %}譯本{% end %}。
 - **士師記**——參孫敘事,被讀作心電感應而非超人力量 {% libref(book="judges-woh") %}譯本{% end %}。
+- **撒母耳記上**——第3、5、6、17章(撒母耳蒙召、約櫃在非利士人中間、大衛與歌利亞) {% libref(book="1-samuel-woh") %}譯本{% end %}。
+- **撒母耳記下**——第6章(烏撒與約櫃) {% libref(book="2-samuel-woh") %}譯本{% end %}。
 - **列王紀上/下**——以利亞的火車與升天(列王紀下2章),被讀作太空船的升空 {% libref(book="1-kings-woh") %}列王紀上{% end %}和{% libref(book="2-kings-woh") %}列王紀下{% end %}。
 - **約伯記**——引用第37-38章的講話,並有特定註腳指出多爾姆法文翻譯與英文RNKJV之間的差異 {% libref(book="job-woh") %}譯本{% end %}。
 - **詩篇**——附帶引用 {% libref(book="psalms-woh") %}譯本{% end %}。
+- **箴言**——第8與10章 {% libref(book="proverbs-woh") %}譯本{% end %}。
+- **傳道書**——第3章 {% libref(book="ecclesiastes-woh") %}譯本{% end %}。
 - **以賽亞書**——在《世界末日》一章中被引用 {% libref(book="isaiah-woh") %}譯本{% end %}。
+- **耶利米書**——第10章 {% libref(book="jeremiah-woh") %}譯本{% end %}。
 - **以西結書**——第1章被視為一段對耶洛因登陸的完整描述場景;第37章(枯骨山谷)在《外星人帶我去他們的星球》中被詮釋為對生物創造機器的描述 {% libref(book="ezekiel-woh") %}譯本{% end %}。
 - **但以理書**——在啟示性脈絡中被引用 {% libref(book="daniel-woh") %}譯本{% end %}(全書)。
+- **阿摩司書** 4、**約拿書** 2、**彌迦書** 5、**西番雅書** 1、**撒迦利亞書** 4、5、9——{% libref(book="amos-woh") %}阿摩司書{% end %}、{% libref(book="jonah-woh") %}約拿書{% end %}、{% libref(book="micah-woh") %}彌迦書{% end %}、{% libref(book="zephaniah-woh") %}西番雅書{% end %}與{% libref(book="zechariah-woh") %}撒迦利亞書{% end %}。
+- **所羅門智訓**與**多比傳**(次經)——智訓第6與13章、多比傳第12章。{% libref(book="wisdom-of-solomon-woh") %}所羅門智訓{% end %}與{% libref(book="tobit-woh") %}多比傳{% end %},譯自七十士譯本的希臘文。
 
 摩西五經與先知書是引用密度最高的場所。雅歌(經典稱之為《歌中之歌》)在關於以*波斯里*度量的「創造者之高」這一特定宇宙論解讀中被點名。
 
@@ -158,6 +168,7 @@ note = "布魯格(1976);出現在《是的……我是雷爾派》的痕跡清�
 - **馬可福音**——引用第16章(升天與「他們將拿起蛇」的段落) {% libref(book="mark-woh") %}譯本{% end %}。
 - **路加福音**——引用第21章(無花果樹的比喻) {% libref(book="luke-woh") %}譯本{% end %}。
 - **使徒行傳**——引用第2章(五旬節)、12章(彼得獲釋出獄)、15、17章 {% libref(book="acts-woh") %}譯本{% end %}。
+- **帖撒羅尼迦前書**——第5章(「主的日子來到,好像夜間的賊一樣」),見於《歡迎外星人》 {% libref(book="1-thessalonians-woh") %}譯本{% end %}。
 - **啟示錄/約翰啟示錄**——在《新啟示》中得到長篇處理。經典將第1、4、6章及其後內容讀作透過所描述的視覺顯示裝置向約翰口述的內容 {% libref(book="revelation-woh") %}譯本{% end %}。
 
 ### 作為參考文獻的特定聖經翻譯

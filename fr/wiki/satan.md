@@ -10,7 +10,7 @@ translation_status = "ai_reviewed"
 translation_updated = "2026-11-11"
 source_updated = "2026-11-07"
 translation_stale = false
-translation_sync = 100
+translation_sync = 94
 same_as = ["https://www.wikidata.org/wiki/Q35230", "https://en.wikipedia.org/wiki/Satan", "https://www.britannica.com/topic/Satan", "https://viaf.org/viaf/1087163706538729420822"]
 core_versions = { woh-claim-0013 = "0.1.0" }
 core_claim_ids = ["woh-claim-0013"]

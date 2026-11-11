@@ -10,7 +10,7 @@ translation_status = "ai_reviewed"
 translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 73
+translation_sync = 100
 category = "Theology & Traditions"
 claim_type = "inferred"
 editorial_pass = "2026-05"
@@ -141,14 +141,26 @@ note = "布鲁格（1976）；出现在《是的……我是雷尔派》痕迹�
 
 - **《创世记》**——在第1-11、19、22、28、35章中被广泛引用。《讲述真相之书》的开篇是对原始历史（创造、伊甸园、洪水、巴别塔、所多玛和蛾摩拉、捆绑以撒、雅各的天梯）的逐章重读 {% libref(book="genesis-woh") %}译本{% end %}（全书）。
 - **《出埃及记》**——引自第3、13、14、16、17、19、20章（燃烧的荆棘、云柱火柱、分开海水、吗哪、摩西的杖、西奈山） {% libref(book="exodus-woh") %}译本{% end %}。
+- **《利未记》**——第17、25章（血即生命；禧年） {% libref(book="leviticus-woh") %}译本{% end %}。
+- **《民数记》**——第11、18、21、33章（吗哪、祭司的份、铜蛇、旷野中的各站） {% libref(book="numbers-woh") %}译本{% end %}。
+- **《申命记》**——第4章（何烈山火中的声音） {% libref(book="deuteronomy-woh") %}译本{% end %}。
 - **《约书亚记》**——耶利哥的陷落（第6章），被解读为声波武器事件 {% libref(book="joshua-woh") %}译本{% end %}。
 - **《士师记》**——参孙叙事，被解读为心灵感应而非超人力量 {% libref(book="judges-woh") %}译本{% end %}。
+- **《撒母耳记上》**——第3、5、6、17章（撒母耳蒙召、约柜在非利士人中间、大卫与歌利亚） {% libref(book="1-samuel-woh") %}译本{% end %}。
+- **《撒母耳记下》**——第6章（乌撒与约柜） {% libref(book="2-samuel-woh") %}译本{% end %}。
 - **《列王纪上》/《列王纪下》**——以利亚的火战车与升天（《列王纪下》第2章），被解读为飞行器升空 {% libref(book="1-kings-woh") %}列王纪上{% end %}和{% libref(book="2-kings-woh") %}列王纪下{% end %}。
 - **《约伯记》**——引自第37-38章的讲话，并有具体脚注指出多尔姆法文译本与英文RNKJV之间的差异 {% libref(book="job-woh") %}译本{% end %}。
 - **《诗篇》**——略有引用 {% libref(book="psalms-woh") %}译本{% end %}。
+- **《箴言》**——第8、10章 {% libref(book="proverbs-woh") %}译本{% end %}。
+- **《传道书》**——第3章 {% libref(book="ecclesiastes-woh") %}译本{% end %}。
 - **《以赛亚书》**——在《世界末日》一章中被引用 {% libref(book="isaiah-woh") %}译本{% end %}。
+- **《耶利米书》**——第10章 {% libref(book="jeremiah-woh") %}译本{% end %}。
 - **《以西结书》**——第1章被视为对耶洛因降落的完整定场描写；第37章（枯骨之谷）在《外星人带我去他们的星球》中被诠释为对生物创造机器的描述 {% libref(book="ezekiel-woh") %}译本{% end %}。
 - **《但以理书》**——在末世论语境中被引用 {% libref(book="daniel-woh") %}译本{% end %}（全书）。
+- **《阿摩司书》**第4章、**《约拿书》**第2章、**《弥迦书》**第5章、**《西番雅书》**第1章、**《撒迦利亚书》**第4、5、9章——{% libref(book="amos-woh") %}阿摩司书{% end %}、{% libref(book="jonah-woh") %}约拿书{% end %}、{% libref(book="micah-woh") %}弥迦书{% end %}、{% libref(book="zephaniah-woh") %}西番雅书{% end %}和{% libref(book="zechariah-woh") %}撒迦利亚书{% end %}。
+- **《所罗门智训》**和**《多比传》**（次经）——《所罗门智训》第6、13章，《多比传》第12章。{% libref(book="wisdom-of-solomon-woh") %}所罗门智训{% end %}和{% libref(book="tobit-woh") %}多比传{% end %}，译自七十士译本的希腊文。
+
+在阅读器中，正典自身的经文引用（例如「（出埃及记，III-2）」）会链接到这些译本中被引用的经节。
 
 摩西五经和先知书是引用最密集的场所。《雅歌》（正典称之为*歌中之歌*）在涉及以*帕拉桑*测量的「创造者身高」的具体宇宙学解读中被具名。
 
@@ -158,6 +170,7 @@ note = "布鲁格（1976）；出现在《是的……我是雷尔派》痕迹�
 - **《马可福音》**——引自第16章（升天和「他们手能拿蛇」的段落） {% libref(book="mark-woh") %}译本{% end %}。
 - **《路加福音》**——引自第21章（无花果树的比喻） {% libref(book="luke-woh") %}译本{% end %}。
 - **《使徒行传》**——引自第2章（五旬节）、第12章（彼得越狱）、第15章、第17章 {% libref(book="acts-woh") %}译本{% end %}。
+- **《帖撒罗尼迦前书》**——第5章（「主的日子来到，好像夜间的贼一样」），见于《让我们欢迎外星人》 {% libref(book="1-thessalonians-woh") %}译本{% end %}。
 - **《启示录》/《约翰启示录》**——在《新启示》中作详细处理。正典将第1、4、6章及以后解读为通过被描述为视觉显示装置之物给约翰的口述 {% libref(book="revelation-woh") %}译本{% end %}。
 
 ### 作为参考的具体圣经译本
