@@ -475,7 +475,7 @@ Each differs in location (home world vs. Earth), political position, and narrati
 
 ### The conflation history
 
-**Sodom as catalyst**. The corpus reads the destruction of Sodom and Gomorrah (see the {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %} entry when written) as the disruption that ended the framework preserving the distinctions: with the educated class destroyed, the post-Sodom population could no longer maintain them.
+**Sodom as catalyst**. The corpus reads the destruction of Sodom and Gomorrah (see the {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %} entry) as the disruption that ended the framework preserving the distinctions: with the educated class destroyed, the post-Sodom population could no longer maintain them.
 
 **Progressive merging**. From Sodom to the later prophetic literature, the four figures merged. The Serpent became associated with rebellion rather than the Lucifer-faction disclosure role, the rebel Serpent with Satan's home-world opposition, and Lucifer with both.
 

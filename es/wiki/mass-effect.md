@@ -6,8 +6,8 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
@@ -157,7 +157,7 @@ The passage establishes that the Mass Effect produces substantial operational co
 
 ### Sendy on time
 
-**Jean Sendy** in his various works (treated more fully in the [Jean Sendy](/wiki/jean-sendy/) entry when written) develops substantial complementary content on time. The principal Sendy positions warrant treatment for their specific philosophical engagement with the Mass Effect framework.
+**Jean Sendy** in his various works (treated more fully in the [Jean Sendy](/wiki/jean-sendy/) entry) develops substantial complementary content on time. The principal Sendy positions warrant treatment for their specific philosophical engagement with the Mass Effect framework.
 
 Sendy's specific position is that time is "parasitic to all formulations and equations of physics" and "an arbitrary element." Time has no existence in itself; the notion is subjective and derived from biological and mental organization, projected into the exterior world to create the "irresistible illusion" of an "absolute universal time." Scientific time is conventional, based on physical standards susceptible of being coordinated under different forms in arbitrary ways. The various relativistic formulations that confuse the dimensions of space and time are, on Sendy's reading, "ridiculous" — though Sendy acknowledges that the relativistic framework captures certain genuine empirical phenomena, his broader position is that the time-as-fundamental-dimension treatment of mainstream physics is substantially mistaken.
 
@@ -197,7 +197,7 @@ The Mass Effect operates through several interrelated components:
 - **Stellar scales** — the gigantic being of whom the sun is an atom experiences substantially slower subjective time than humans (the thousand-years-per-step illustration)
 - **Galactic and beyond** — successive scales above the stellar level continue the pattern indefinitely
 
-**The scaling extends in both directions**. The Mass Effect operates symmetrically — subjective time scales faster for smaller beings and slower for larger beings, with the same relationship operating across all scales. The infinite-hierarchy structure (treated in the [Infinity](../infinity/) entry when written) provides the broader cosmological context within which this symmetric scaling operates.
+**The scaling extends in both directions**. The Mass Effect operates symmetrically — subjective time scales faster for smaller beings and slower for larger beings, with the same relationship operating across all scales. The infinite-hierarchy structure (treated in the [Infinity](../infinity/) entry) provides the broader cosmological context within which this symmetric scaling operates.
 
 ### The two equivalent formulations
 
@@ -257,7 +257,7 @@ The Mass Effect framework operates within the broader Infinity framework that is
 
 The Mass Effect operates principally on the **hierarchical infinity** dimension — the framework's specific content concerns how the experience of time scales across the infinite hierarchy of cosmological organization. Without infinite hierarchy, the Mass Effect would have only a finite domain to operate over (between specific minimum and maximum scales). With infinite hierarchy, the Mass Effect operates indefinitely across all scales, with the scaling relationship continuing without limit in both directions.
 
-The detailed treatment of the Infinity framework lives in the [Infinity](../infinity/) entry when written; the Mass Effect entry's specific contribution is establishing the time-scaling relationship that operates within the broader infinite-hierarchical context.
+The detailed treatment of the Infinity framework lives in the [Infinity](../infinity/) entry; the Mass Effect entry's specific contribution is establishing the time-scaling relationship that operates within the broader infinite-hierarchical context.
 
 ## Application across the corpus
 
@@ -269,7 +269,7 @@ The Mass Effect provides the time-scaling relationship that governs the broader 
 
 ### The Infinity framework
 
-The Mass Effect operates within the broader Infinity framework's hierarchical-infinite dimension. The detailed treatment of the Infinity framework lives in the [Infinity](../infinity/) entry when written.
+The Mass Effect operates within the broader Infinity framework's hierarchical-infinite dimension. The detailed treatment of the Infinity framework lives in the [Infinity](../infinity/) entry.
 
 ### The Cosmic Competition entry
 

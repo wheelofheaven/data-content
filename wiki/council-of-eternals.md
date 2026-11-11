@@ -216,7 +216,7 @@ The Council convenes on the **Planet of the Eternals**, the second smaller plane
 
 It hosts the 700 Council Eternals plus roughly 8,400 resurrected humans, and the source describes it as a "veritable little paradise" with developed infrastructure and advanced biological-scientific research facilities. It holds the resurrected prophets of the various ages — Moses, Elijah, Buddha, Jesus, Muhammad, and others — brought back after their Earth-side missions, and houses the cloning-and-memory-transfer infrastructure that produces and maintains the Eternals, along with biological robots marked by a small blue stone between the eyes. Relative to the Elohim home world (population ~7 billion), it is the residence and political center of the senior Eternals.
 
-The planet is treated in the [Planet of the Eternals](../elohim-home-planet/) entry (when written).
+The planet is treated in the [Planet of the Eternals](../elohim-home-planet/) entry.
 
 ### The Eternal-population distinction
 
@@ -250,9 +250,9 @@ The principal decisions:
 
 **The pardon of the exiled creators (c. 4,000–3,800 BCE).** The Council pardoned the original exiled creators, letting them return home and rejoin the civilization — the moment the Alliance's senior partnership widened to include the home-world Council itself.
 
-**The Sodom strike (c. 2,000 BCE).** The Council authorized a preventive strike against the rebel movement at Sodom and Gomorrah — a tactical intervention against a human-led conspiracy. See the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry (when written).
+**The Sodom strike (c. 2,000 BCE).** The Council authorized a preventive strike against the rebel movement at Sodom and Gomorrah — a tactical intervention against a human-led conspiracy. See the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry.
 
-**The Aries discovery and the shift to indirect contact (c. 2,160–1,200 BCE).** Having discovered that the Elohim themselves had been created (see the [Cosmic Chain](../cosmic-chain/) entry, when written), the Council moved Earth policy from direct contact to mediated communication through the prophetic tradition.
+**The Aries discovery and the shift to indirect contact (c. 2,160–1,200 BCE).** Having discovered that the Elohim themselves had been created (see the [Cosmic Chain](../cosmic-chain/) entry), the Council moved Earth policy from direct contact to mediated communication through the prophetic tradition.
 
 **The Piscean-age universal mission (c. 0–700 CE).** The Council authorized the intervention through Jesus, a pluriform missionary strategy to carry the Aries-age Hebrew content to the rest of humanity through many cultural channels.
 
@@ -472,7 +472,7 @@ The Mesopotamian tradition preserves the most developed assembly material. The *
 
 The corpus reads this as memory of the body the Hebrew parallels preserve — the structural parallels a common historical reality, the Mesopotamian framing (the Anunnaki-Igigi distinction, the Tiamat-Marduk conflict, the named deities) its cultural elaboration.
 
-The Anunnaki tradition is detailed in the [Anunnaki](../anunnaki/) entry (when written).
+The Anunnaki tradition is detailed in the [Anunnaki](../anunnaki/) entry.
 
 ### Ugaritic council of El
 

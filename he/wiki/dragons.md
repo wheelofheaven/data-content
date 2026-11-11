@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
@@ -255,7 +255,7 @@ The dragons operate within the broader Raëlian source-material context, with su
 
 - The home-world prologue connects to the broader [Council of the Eternals](../council-of-the-eternals/) framework
 - The factional dimension connects to the broader [Lucifer](../lucifer/), [Satan](../satan/), and broader political-factional content
-- The Virgo-age placement connects to the broader [Age of Virgo](../../timeline/age-of-virgo/) entry when written
+- The Virgo-age placement connects to the broader [Age of Virgo](../../timeline/age-of-virgo/) entry
 - The Gemini-flood connection connects to the broader [Great Flood](../great-flood/) entry
 - The Genesis 1:21 *taninim* connects to the broader [Genesis](../genesis/) entry
 - The Isaiah 27:1 three-term identification connects to the broader [Serpent](../serpent/), [Lucifer](../lucifer/), and [Hebrew Bible](../hebrew-bible/) entries
@@ -402,7 +402,7 @@ The dragons' specific Day 5 creation status is one of the principal operational 
 
 ### The Age of Virgo entry
 
-The dragons' specific Virgo-age creation is one of the principal operational components of the broader [Age of Virgo](../../timeline/age-of-virgo/) entry when written. The detailed treatment of the broader Virgo-age framework will live in that entry; the Dragons entry's specific contribution is the focused treatment of the dragons themselves.
+The dragons' specific Virgo-age creation is one of the principal operational components of the broader [Age of Virgo](../../timeline/age-of-virgo/) entry. The detailed treatment of the broader Virgo-age framework will live in that entry; the Dragons entry's specific contribution is the focused treatment of the dragons themselves.
 
 ### The Great Flood entry
 
@@ -418,7 +418,7 @@ The home-world prologue's specific connection to the broader Council debates con
 
 ### The Hebrew Bible entry
 
-The Hebrew Bible's specific draconic vocabulary connects to the broader [Hebrew Bible](../hebrew-bible/) entry when written. The detailed treatment of the broader Hebrew Bible framework will live in that entry; the Dragons entry's specific contribution is the focused treatment of the *tannin* and related draconic vocabulary.
+The Hebrew Bible's specific draconic vocabulary connects to the broader [Hebrew Bible](../hebrew-bible/) entry. The detailed treatment of the broader Hebrew Bible framework will live in that entry; the Dragons entry's specific contribution is the focused treatment of the *tannin* and related draconic vocabulary.
 
 ## Distinguishing from adjacent concepts
 

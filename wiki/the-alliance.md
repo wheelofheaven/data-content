@@ -164,7 +164,7 @@ The Alliance's structure has been transformed repeatedly:
 
 **Phase V — Aries-age direct contact (early Aries, c. 2,160–1,200 BCE)**. Direct-contact operations resume with the Abrahamic-Mosaic-Davidic line — the liberation from Egypt, the Sinai covenant, the Conquest, the Israelite monarchy — the Hebrew Bible's most operationally detailed narrative.
 
-**Phase VI — Aries-age indirect contact (mid-to-late Aries, c. 1,200 BCE – 0 CE)**. After the discovery that the Elohim themselves had been created (treated more fully in the [Cosmic Chain](../cosmic-chain/) entry, when written), contact shifts to the prophetic tradition; the major Hebrew prophets (Elijah, Isaiah, Jeremiah, Ezekiel, Daniel) serve as ambassadors and direct operations grow rare.
+**Phase VI — Aries-age indirect contact (mid-to-late Aries, c. 1,200 BCE – 0 CE)**. After the discovery that the Elohim themselves had been created (treated more fully in the [Cosmic Chain](../cosmic-chain/) entry), contact shifts to the prophetic tradition; the major Hebrew prophets (Elijah, Isaiah, Jeremiah, Ezekiel, Daniel) serve as ambassadors and direct operations grow rare.
 
 **Phase VII — Piscean-age pluriform mission (early Pisces, c. 0–700 CE)**. Intervention through Jesus, extended through Muhammad and the pluriform prophetic strategy — a mission built for the universal-distribution requirements of the post-Aries age.
 
@@ -179,7 +179,7 @@ The Alliance's structure has been transformed repeatedly:
 The Alliance's current composition (2026):
 
 **The Eloha senior partner**:
-- The Council of the Eternals — the home-world ruling body of approximately 700 members (treated more fully in the [Council of the Eternals](../council-of-the-eternals/) entry, when written)
+- The Council of the Eternals — the home-world ruling body of approximately 700 members (treated more fully in the [Council of the Eternals](../council-of-the-eternals/) entry)
 - The home-world population — approximately 7 billion individuals
 - The resurrected prophets living on the Planet of the Eternals
 - The operational personnel currently engaged in Earth operations
@@ -220,7 +220,7 @@ Across the indirect-contact period the prophets were the Alliance's operational 
 
 ### The Alliance and the cosmic-competition framework
 
-The Alliance is the form the alliance-with-humanity dimension of the cosmic-competition framework takes in Earth's case. That framework (treated more fully in the [Cosmic Competition](../cosmic-competition/) entry, when written) reads the cosmic situation as multiple parallel humanities evaluated against criteria of moral and scientific maturity, each shaped by the alliance's operations on its world. Other humanities have presumably had their own arrangements; the Alliance is Earth-specific in composition while being one instance of that pattern.
+The Alliance is the form the alliance-with-humanity dimension of the cosmic-competition framework takes in Earth's case. That framework (treated more fully in the [Cosmic Competition](../cosmic-competition/) entry) reads the cosmic situation as multiple parallel humanities evaluated against criteria of moral and scientific maturity, each shaped by the alliance's operations on its world. Other humanities have presumably had their own arrangements; the Alliance is Earth-specific in composition while being one instance of that pattern.
 
 ### The Alliance and the Aquarian-age opening
 

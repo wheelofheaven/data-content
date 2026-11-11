@@ -1,57 +1,59 @@
 +++
 title = "Satan"
 slug = "satan"
-description = "Satan (שָׂטָן, hebräisch: „Widersacher“, „Ankläger“, „Gegner“) ist eine Eloha-Figur auf der Heimatwelt, die Anführerin der politischen Fraktion innerhalb der Elohim-Zivilisation, die sich konsequent gegen die Erschaffung synthetischer Wesen gewandt hat, die ihren Schöpfern ebenbürtig oder überlegen werden könnten. Satans Position ist seit vor dem Beginn des Erdprogramms im Wesentlichen konsistent: Die Erschaffung von Wesen nach dem Ebenbild der Elohim ist grundsätzlich gefährlich, und kein Protokoll, keine Aufsicht und keine geographische Distanz kann dem Risiko zuverlässig Einhalt gebieten. Der besondere analytische Beitrag des Rahmens besteht in der sorgfältigen Entflechtung Satans von Luzifer, der Schlange und dem Teufel — vier eigenständigen Figuren und Rollen, welche die westliche religiöse Mainstream-Tradition im Verlauf der Zweiten-Tempel-Periode und der nachfolgenden christlich-theologischen Entwicklung schrittweise zu einer einzigen Personifikation kosmischen Bösen verschmolzen hat. Satan ist nicht der Teufel der mittelalterlichen Dämonologie; er ist Politiker, Anführer der Oppositionspartei des Rates, der über die gesamte Geschichte hinweg grundsätzlichen Widerstand gegen das Erdprogramm bewahrt hat. Seine spezifische institutionelle Rolle in der nachsintflutlichen Periode ist die Prüfung prophetischer Figuren durch adversariales Verhör — die Funktion, die das neutestamentlich-griechische Wort *diabolos* (Verleumder) bezeichnet."
+description = "Satan (שָׂטָן, hebräisch: „Widersacher“, „Ankläger“, „Gegner“) ist eine Eloha-Figur auf der Heimatwelt, Anführer der politischen Fraktion innerhalb der Elohim-Zivilisation, die sich beständig gegen die Erschaffung synthetischer Wesen gewandt hat, die ihren Schöpfern ebenbürtig werden oder sie übertreffen könnten. Seine Position gilt seit der Zeit vor dem Beginn des Erdprogramms: Wesen nach dem eigenen Bild der Elohim sind gefährlich, und keinem Protokoll, keiner Aufsicht und keiner geografischen Distanz ist zuzutrauen, das Risiko einzudämmen. Der analytische Beitrag des Rahmens ist die Entflechtung Satans von Luzifer, der Schlange und dem Teufel — vier eigenständige Figuren, die die westliche religiöse Tradition im Verlauf der Zeit des Zweiten Tempels und der späteren christlichen Theologie zu einer einzigen Personifikation des kosmischen Bösen verschmolz. Satan ist nicht der Teufel der mittelalterlichen Dämonologie; er ist ein Politiker, Anführer der Oppositionspartei des Rates, der dem Erdprogramm über dessen gesamte Geschichte hinweg entgegenstand. In der Zeit nach der Sintflut ist seine Rolle die Prüfung der Propheten durch adversariales Verhör — die Funktion, die das Wort *diabolos* (Verleumder) des griechischen Neuen Testaments bezeichnet."
 template = "wiki-page.html"
 toc = true
 
 [extra]
 translation_status = "ai_reviewed"
 translation_updated = "2026-11-11"
-source_updated = "2026-11-07"
+source_updated = "2026-11-11"
 translation_stale = false
-translation_sync = 94
+translation_sync = 100
 same_as = ["https://www.wikidata.org/wiki/Q35230", "https://en.wikipedia.org/wiki/Satan", "https://www.britannica.com/topic/Satan", "https://viaf.org/viaf/1087163706538729420822"]
-core_versions = { woh-claim-0013 = "0.1.0" }
-core_claim_ids = ["woh-claim-0013"]
 category = "Elohim"
-editorial_pass = "2026-05"
+editorial_pass = "2026-07"
 entry_type = "figure"
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0013"]
+core_versions = { woh-claim-0013 = "0.1.0" }
 alternative_names = ["der Widersacher", "der Ankläger", "die Opposition", "*ha-satan* (הַשָּׂטָן, „der Satan“)", "*satan* (שָׂטָן, Gattungsname)", "der Verleumder", "*diabolos* (διάβολος, griechisch)", "der Teufel (mittelalterlich-christliche theologische Bezeichnung, verschmolzen)", "der Prüfer", "der Skeptiker"]
+timeline = ["all-ages"]
 portrait_id = "satan"
 image = "https://assets.wheelofheaven.world/images/wiki/satan-adversary-v2.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/satan-adversary-v2.avif"
-image_alt = "AI-generated editorial portrait of Satan as the Adversary, an Eloha opposition figure with long dark hair and austere green-lit features."
-image_caption = "Interpretive portrait for the Satan wiki entry and library personality metadata."
-timeline = ["all-ages"]
+image_alt = "KI-generiertes redaktionelles Porträt Satans als des Widersachers, einer Eloha-Oppositionsfigur mit langem dunklem Haar und strengen, grün beleuchteten Zügen."
+image_caption = "Interpretatives Porträt für den Wiki-Eintrag zu Satan und die Persönlichkeitsmetadaten der Bibliothek."
 
 see_also = [
-    { title = "Luzifer", path = "/wiki/lucifer/", description = "Der Anführer der erdgebundenen Schöpfer-Exilfraktion; der Eden-Aufklärungsagent; in der Vier-Figuren-Taxonomie des Korpus von Satan unterschieden." },
-    { title = "Schlange", path = "/wiki/serpent/", description = "Die Luzifer-Fraktion kollektiv in der Eden-Aufklärungsrolle; von Satan unterschieden." },
+    { title = "Sind Luzifer und Satan dieselbe Figur?", path = "articles/lucifer-and-satan", description = "Warum Luzifer und Satan verschieden — und politisch entgegengesetzt — sind, nicht ein einziger Teufel." },
+    { title = "Luzifer", path = "/wiki/lucifer/", description = "Der Anführer der erdgebundenen Fraktion der verbannten Schöpfer; der Akteur der Enthüllung in Eden; in der Vier-Figuren-Taxonomie des Korpus von Satan unterschieden." },
+    { title = "Schlange", path = "/wiki/serpent/", description = "Die Luzifer-Fraktion kollektiv in der Rolle der Enthüllung in Eden; von Satan unterschieden." },
     { title = "Jahwe", path = "/wiki/yahweh/", description = "Der Anführer der Ratsmehrheit, dessen nachsintflutliches Votum Satan annahm, während er seine grundsätzliche Opposition fortsetzte." },
     { title = "Rat der Ewigen", path = "/wiki/council-of-the-eternals/", description = "Die politisch-institutionelle Struktur der Heimatwelt, innerhalb derer Satan die Oppositionsfraktion anführt." },
-    { title = "Elohim", path = "/wiki/elohim/", description = "Die weitere zivilisatorische Bezeichnung, innerhalb derer Satan als spezifische politisch-fraktionelle Figur operiert." },
-    { title = "Die Allianz", path = "/wiki/the-alliance/", description = "Die Schöpfer-zivilisatorische Konstellation des Erdprogramms, gegen die Satans Fraktion konsequent Widerstand geleistet hat." },
-    { title = "Eden", path = "/wiki/eden/", description = "Das ursprüngliche Allianz-Labor; die Vertreibung aus Eden ist die zentrale Episode, in der Satans Voraussagen sich zu bewahrheiten begannen." },
+    { title = "Elohim", path = "/wiki/elohim/", description = "Die weitere zivilisatorische Bezeichnung, innerhalb derer Satan als bestimmte politisch-fraktionelle Figur wirkt." },
+    { title = "Die Allianz", path = "/wiki/the-alliance/", description = "Die Ordnung der Schöpferzivilisation des Erdprogramms, der sich Satans Fraktion beständig widersetzt hat." },
+    { title = "Eden", path = "/wiki/eden/", description = "Das ursprüngliche Labor der Allianz; die Vertreibung aus Eden ist die zentrale Episode, in der sich Satans Voraussagen zu bewahrheiten begannen." },
     { title = "Adam und Eva", path = "/wiki/adam-and-eve/", description = "Die Hauptfiguren der Eden-Erzählung, deren Ungehorsam Satans grundlegende Bedenken bestätigte." },
-    { title = "Antediluvianisch", path = "/wiki/antediluvian/", description = "Die vorsintflutliche Periode, in der Satan Belege menschlicher Aggression zur Stützung der Vernichtungsentscheidung sammelte." },
-    { title = "Große Flut", path = "/wiki/great-flood/", description = "Die Ausführung der Vernichtungsentscheidung; die Episode, in der Satans Voraussagen operativ verwirklicht wurden." },
-    { title = "Kosmische Kette", path = "/wiki/cosmic-chain/", description = "Die nachsintflutliche Entdeckung, welche die Ratspolitik und Satans institutionelle Position transformierte." },
-    { title = "Theomachie", path = "/wiki/theomachy/", description = "Der weitere Rahmen des kosmisch-politischen Konflikts, innerhalb dessen Satans Opposition operiert." },
-    { title = "Drachen", path = "/wiki/dragons/", description = "Die Behandlung des Laborzwischenfalls auf der Heimatwelt; kulturelles Erinnerungs-Residuum des ursprünglichen biologischen Programms." },
-    { title = "Jesus", path = "/wiki/jesus/", description = "Die zentrale Propheten-Prüfungsepisode im Neuen Testament (Matthäus 4,1-11; Lukas 4,1-13)." },
-    { title = "Prophet", path = "/wiki/prophet/", description = "Die institutionelle Rolle, innerhalb derer Satans adversariale Prüfungsfunktion operiert." },
-    { title = "Hebräische Bibel", path = "/wiki/hebrew-bible/", description = "Die zentrale schriftliche Quelle für die Artikulation der ha-satan-Figur als Rats-Ankläger." },
+    { title = "Vorsintflutlich", path = "/wiki/antediluvian/", description = "Die Zeit vor der Sintflut, in der Satan Belege menschlicher Aggression im Hinblick auf die Vernichtungsentscheidung sammelte." },
+    { title = "Sintflut", path = "/wiki/great-flood/", description = "Die Ausführung der Vernichtungsentscheidung; die Episode, in der Satans Voraussagen operativ verwirklicht wurden." },
+    { title = "Kosmische Kette", path = "/wiki/cosmic-chain/", description = "Die nachsintflutliche Entdeckung, die die Ratspolitik und Satans institutionelle Position veränderte." },
+    { title = "Theomachie", path = "/wiki/theomachy/", description = "Der weitere Rahmen des kosmisch-politischen Konflikts, innerhalb dessen Satans Opposition wirkt." },
+    { title = "Drachen", path = "/wiki/dragons/", description = "Die Behandlung des Laborzwischenfalls auf der Heimatwelt; kultureller Erinnerungsrest des ursprünglichen biologischen Programms." },
+    { title = "Jesus", path = "/wiki/jesus/", description = "Die zentrale Episode der Prophetenprüfung im Neuen Testament (Matthäus 4,1-11; Lukas 4,1-13)." },
+    { title = "Prophet", path = "/wiki/prophet/", description = "Die institutionelle Rolle, innerhalb derer Satans adversariale Prüfungsfunktion wirkt." },
+    { title = "Hebräische Bibel", path = "/wiki/hebrew-bible/", description = "Die zentrale Schriftquelle für die Artikulation der ha-satan-Figur als Ankläger im Rat." },
+    { title = "Der Erzdiakon und der Drache", path = "articles/the-archdeacon-and-the-dragon", description = "Würdigt die Entflechtung von Satan und Luzifer in diesem Eintrag; die beiden Figuren bleiben getrennt." },
 ]
 
 footnotes = [
-    { content = "Die Artikulation des Verschmelzungsmechanismus durch den Korpus — wodurch vier ursprünglich eigenständige Figuren (Satan, Luzifer, die Schlange, der Teufel) zu einer einzigen Personifikation kosmischen Bösen kollabierten — operiert über drei historische Hauptmomente: den nachsodomitischen Zusammenbruch des Bildungsrahmens, der die Unterscheidungen zuvor bewahrt hatte; den persischen zoroastrischen Einfluss in dualistischer Form auf das Judentum des Zweiten Tempels, der den Rahmen kosmisches-Gut-gegen-Böses lieferte; und die christlich-theologische Ausarbeitung der resultierenden zusammengesetzten Figur zur ausgefeilten mittelalterlichen Dämonologie. Der Rahmen liest dies als den operativen Mechanismus, durch den die ursprüngliche Vier-Figuren-Taxonomie schrittweise verloren ging." },
-    { content = "Der Hiob-Prolog (Hiob 1-2) verzeichnet ha-satan im vollen ratsverfahrensrechtlichen Stand: Die Figur verfügt über institutionellen Zugang zum göttlichen Hofstaat, erhebt Einwände in ordnungsgemäßer Verfahrensweise und operiert unter formaler Beratsschlussautorisierung. Die theologische Mainstream-Lesart des Hiob-Satans als „Widersacher“ statt als „Teufel“ ist selbst substanzieller wissenschaftlicher Konsens (Day 1988; Pope 1973; Habel 1985; Newsom 2003; Clines 1989-2011 konvergieren hier); die spezifische Lesart des Korpus fügt die institutionell-politische Artikulation dessen hinzu, was die adversariale Rolle innerhalb des weiteren Ratsrahmens bedeutet." },
-    { content = "Die institutionelle Logik von Satans Propheten-Prüfungsrolle operiert als adversariales Verhör: Ein Prophet, der durch die Prüfung der Opposition umgedreht werden könnte, wäre eine Belastung für die weitere Mission; ein Prophet, der der Prüfung widerstand, war vertrauenswürdig. Die Prüfung wurde faktisch von der politischen Opposition durchgeführt, gerade weil die motivierte Skepsis der Opposition jede Schwäche im Bekenntnis des Kandidaten aufdecken würde. Dies ist operative Qualitätssicherung durch adversariales Verfahren, nicht persönlicher kosmisch-böser Hass." },
-    { content = "Das hebräische *satan* (שָׂטָן) ist im ursprünglichen biblischen Gebrauch ein Gattungsname, abgeleitet von der Wurzel *s-t-n* mit der Bedeutung „sich widersetzen“, „behindern“, „feindlich gesinnt sein“. Sein Erscheinen in nicht-theologischen Kontexten (1 Samuel 29,4 für David als philistäischen Widersacher; 1 Könige 11 für Salomos geopolitische Gegner; Numeri 22 für den Engel als Widersacher Bileams) etabliert den Begriff als relational-positionelle Bezeichnung statt als Eigenname. Die Verschiebung zum Eigennamen-Gebrauch — und die Verschmelzung mit Luzifer, der Schlange und dem Teufel — ist eine Entwicklung der Zweiten-Tempel-Periode und der nachbiblischen Zeit, die der Rahmen als historisch-entwicklungsmäßig statt als ursprünglich zum hebräischen Material gehörend liest." },
-    { content = "Das griechische neutestamentliche *diabolos* (διάβολος) bedeutet wörtlich „Verleumder“ oder „einer, der gegen einen anderen spricht“ (von *dia-* + *bállō*, „hinüberwerfen“, „dagegen sprechen“). Der lexikalische Gehalt entspricht genau Satans institutioneller Funktion in der Propheten-Prüfungsrolle — die Figur, die Einwände erhebt, anficht, herausfordert. Die schrittweise theologische Ausarbeitung des *diabolos* zum „Teufel“ als Personifikation kosmischen Bösen verdeckt den ursprünglichen lexikalisch-funktionalen Gehalt der Bezeichnung." },
-    { content = "Die kulturübergreifenden Oppositions-Figur-Traditionen (zoroastrischer Angra Mainyu/Ahriman; hinduistische Asuras; buddhistischer Mara; ägyptischer Set; nordischer Loki) bewahren das weitere Muster grundsätzlicher Opposition innerhalb ihrer eigenständigen kulturell-religiösen Rahmungen. Der Rahmen erfordert nicht die Ablehnung des religionsvergleichenden Mainstream-Erklärungsrahmens — kulturelle Diffusion, geteiltes kognitiv-archetypisches Substrat und unabhängige kulturelle Entwicklung tragen alle bei. Was der Rahmen hinzufügt, ist die zugrundeliegende historisch-politische Grundlage: die tatsächliche politisch-institutionelle Eloha-Struktur, innerhalb derer die Oppositions-Figuren der verschiedenen Traditionen als kulturelle Erinnerung registriert werden." },
+    { content = "Der Korpus liest die Verschmelzung von vier eigenständigen Figuren (Satan, Luzifer, die Schlange, der Teufel) zu einer einzigen Personifikation des kosmischen Bösen über drei historische Momente: den Zusammenbruch des Bildungsrahmens nach Sodom, der die Unterscheidungen bewahrt hatte; den dualistischen zoroastrischen Einfluss der persischen Zeit auf das Judentum des Zweiten Tempels, der die Rahmung Gut gegen Böse lieferte; und die christlich-theologische Ausarbeitung der zusammengesetzten Figur zur mittelalterlichen Dämonologie. Dies ist der Mechanismus, durch den die Vier-Figuren-Taxonomie verloren ging." },
+    { content = "Der Prolog des Buches Hiob (Hiob 1–2) zeigt ha-satan mit vollem verfahrensrechtlichem Stand im Rat: Zugang zum göttlichen Hof, ordnungsgemäß erhobene Einwände und eine formelle Autorisierung durch Ratsbeschluss. Dass der Satan Hiobs „ein Widersacher“ und nicht „der Teufel“ ist, ist wissenschaftlicher Konsens (Day 1988; Pope 1973; Habel 1985; Newsom 2003; Clines 1989–2011); der Korpus fügt die institutionell-politische Lesart dessen hinzu, was die adversariale Rolle innerhalb des Rates bedeutet." },
+    { content = "Satans Prophetenprüfung funktioniert als adversariales Verhör: Ein Prophet, der durch die Prüfung der Opposition umgedreht werden könnte, wäre eine Belastung; einer, der widerstand, war vertrauenswürdig. Die Opposition führt sie gerade deshalb durch, weil ihre motivierte Skepsis jede Schwäche im Bekenntnis des Kandidaten aufdeckt — Qualitätssicherung durch adversariales Verfahren, nicht Bosheit des kosmischen Bösen." },
+    { content = "Das hebräische *satan* (שָׂטָן) ist ursprünglich ein Gattungsname von der Wurzel *s-t-n*, „sich widersetzen“, „behindern“, „feindlich gesinnt sein“. Seine nicht-theologischen Verwendungen (1 Samuel 29,4 für David als Widersacher der Philister; 1 Könige 11 für Salomos geopolitische Gegner; Numeri 22 für den Engel als Widersacher Bileams) kennzeichnen ihn als relationale Bezeichnung, nicht als Eigennamen. Der Übergang zum Eigennamen — und die Verschmelzung mit Luzifer, der Schlange und dem Teufel — ist eine Entwicklung der Zeit des Zweiten Tempels und der nachbiblischen Zeit, nicht ursprünglich im hebräischen Material angelegt." },
+    { content = "Das griechische neutestamentliche *diabolos* (διάβολος) bedeutet „Verleumder“, „einer, der gegen jemanden spricht“ (von *dia-* + *bállō*, „hinüberwerfen“). Das ist genau Satans Funktion der Prophetenprüfung — die Figur, die Einwände erhebt, anficht, herausfordert. Die Ausarbeitung des *diabolos* zum „Teufel“ als kosmisches Böses verdeckt die ursprüngliche Bedeutung des Wortes." },
+    { content = "Die kulturübergreifenden Oppositionsfiguren (zoroastrischer Angra Mainyu/Ahriman; hinduistische Asuras; buddhistischer Mara; ägyptischer Set; nordischer Loki) bewahren das Muster grundsätzlicher Opposition in ihren eigenen kulturellen Rahmungen. Der Rahmen lehnt die etablierte religionsvergleichende Erklärung nicht ab — kulturelle Diffusion, ein gemeinsames kognitiv-archetypisches Substrat und unabhängige Entwicklung tragen alle bei. Er fügt die historisch-politische Grundlage hinzu: die politische Struktur der Eloha, die diese Oppositionsfiguren als kulturelle Erinnerung verzeichnen." },
 ]
 
 [[extra.references]]
@@ -60,81 +62,81 @@ note = "Vorilhons erstes raëlianisches Werk (1974); der Abschnitt „Satan“ e
 
 [[extra.references]]
 id = "extraterrestrials-took-me-to-their-planet"
-note = "Vorilhons zweites raëlianisches Werk (1975); Inhalt von „Die Menschen konnten nicht verstehen“, der vorsintflutliche Kontext der Vernichtungsentscheidung, die nachsintflutliche Transformation, die Propheten-Prüfungsfunktion und die Périgord-Treffen-Passage zur Ratsdebatte."
+note = "Vorilhons zweites raëlianisches Werk (1975); der Inhalt von „Die Menschen konnten nicht verstehen“, der vorsintflutliche Kontext der Vernichtungsentscheidung, die nachsintflutliche Wandlung, die Funktion der Prophetenprüfung und die Passage zur Ratsdebatte beim Treffen im Périgord."
 
 [[extra.references]]
 id = "lets-welcome-the-extraterrestrials"
-note = "Vorilhons drittes raëlianisches Werk (1979); weiterer politisch-institutioneller Ratsrahmen."
+note = "Vorilhons drittes raëlianisches Werk (1979); weiterer politisch-institutioneller Rahmen des Rates."
 
 [[extra.references]]
 id = "intelligent-design-message-from-the-designers"
-note = "Gesammelte kanonische Ausgabe der drei raëlianischen Quellenmaterial-Bücher."
+note = "Gesammelte kanonische Ausgabe der drei raëlianischen Bücher des Quellenmaterials."
 
 [[extra.references]]
 id = "genesis"
 locator = "Genesis 3; Genesis 6,1-4"
-note = "Eden-Schlangen-Erzählung (im hebräischen Text nicht als Satan identifiziert) und das benei ha-Elohim / Nephilim-Material, das der Wächter-Tradition des Zweiten Tempels zugrunde liegt."
+note = "Die Erzählung von der Schlange in Eden (im hebräischen Text nicht als Satan identifiziert) und das Material zu den benei ha-Elohim / Nephilim, das der Wächter-Tradition des Zweiten Tempels zugrunde liegt."
 
 [[extra.references]]
 id = "1-enoch-the-book-of-the-watchers"
-note = "Wächter-Material des Zweiten Tempels; Azazel und die Engelsrebellions-Erzählung in Anlehnung an Genesis 6,1-4."
+note = "Wächter-Material des Zweiten Tempels; Azazel und die Erzählung von der Engelsrebellion in Anlehnung an Genesis 6,1-4."
 
 [[extra.references]]
 id = "book-of-enoch"
-note = "Ausarbeitung der Engelsrebellions-Erzählung im weiteren henochischen Korpus; zentrale Quelle des Zweiten Tempels für die Entwicklung der Figur des kosmischen Bösen."
+note = "Ausarbeitung der Erzählung von der Engelsrebellion im weiteren henochischen Korpus; zentrale Quelle des Zweiten Tempels für die Entwicklung der Figur des kosmischen Bösen."
 
 [[extra.references]]
 id = "the-naked-bible"
-note = "Biglino & Cattaneo (2022); streng wörtliche Übersetzung des Hebräischen, einschließlich des Satan-Materials."
+note = "Biglino & Cattaneo (2022); streng wörtliche Übersetzung aus dem Hebräischen, einschließlich des Satan-Materials."
 
 [[extra.references]]
 id = "the-bible-is-not-a-sacred-book"
-note = "Biglinos Reihe zur streng wörtlichen Übersetzung der hebräischen Bibel; grundlegendes philologisches Argument, dass die Mainstream-Übersetzungstraditionen den ursprünglichen hebräischen Inhalt verdecken."
+note = "Biglinos streng wörtliche Reihe zur hebräischen Bibel; grundlegendes philologisches Argument, dass die etablierten Übersetzungstraditionen den ursprünglichen hebräischen Inhalt verdecken."
 
 [[extra.references]]
 id = "the-qur-an"
-locator = "Quran 2,34; 7,11-13; 15,28-44; 17,61-65; 18,50; 20,116; 38,71-85"
-note = "Quranisches Iblis-/Schaytan-Material mit substanziell parallelem Inhalt zum hebräischen Satan."
+locator = "Koran 2,34; 7,11-13; 15,28-44; 17,61-65; 18,50; 20,116; 38,71-85"
+note = "Koranisches Material zu Iblis / Schaitan mit weitgehend parallelem Inhalt zum hebräischen Satan."
 
 [[extra.references]]
 id = "avesta"
-note = "Zoroastrische Schrift; der kosmisch-dualistische Rahmen Angra Mainyu / Ahura Mazda, der die Entwicklung der Satan-Figur im Judentum des Zweiten Tempels substanziell beeinflusst hat."
+note = "Zoroastrische Schrift; der kosmisch-dualistische Rahmen von Angra Mainyu / Ahura Mazda, der die Entwicklung der Satan-Figur im Judentum des Zweiten Tempels maßgeblich beeinflusste."
 
 [[extra.references]]
 id = "sendy-ces-dieux"
-note = "Sendys grundlegende französische Artikulation der Elohim-Hypothese (1969); kulturübergreifende Lesart der kosmisch-politischen Dynamik."
+note = "Sendys grundlegende französische Artikulation der Elohim-Hypothese (1969); traditionsübergreifende Lesart der kosmisch-politischen Dynamik."
 
 [[extra.references]]
 id = "wallis-eden-conspiracy"
-note = "Wallis (2024); zeitgenössische Artikulation der Eden- / engineered-civilizational-Lesart, mit substanziellem Inhalt zur Entflechtung von Satan und Luzifer."
+note = "Wallis (2024); zeitgenössische Artikulation der Lesart von Eden als konstruierter Zivilisation, mit umfangreichem Inhalt zur Entflechtung von Satan und Luzifer."
 
 [[extra.references]]
 id = "day-adversary-heaven"
-note = "Day (1988); grundlegende philologische Studie zur hebräischen Satan-Figur in der hebräischen Bibel, mit Unterscheidung von Gattungsnamen- und Bestimmt-Artikel-Verwendungen."
+note = "Day (1988); grundlegende philologische Studie zur hebräischen Satan-Figur in der hebräischen Bibel, mit Unterscheidung der Verwendungen als Gattungsname und mit bestimmtem Artikel."
 
 [[extra.references]]
 id = "pope-job"
-note = "Pope (1973); Anchor-Bible-Kommentar zu Hiob mit substanzieller Behandlung der ha-satan-Figur im Prolog."
+note = "Pope (1973); Anchor-Bible-Kommentar zu Hiob mit eingehender Behandlung der ha-satan-Figur im Prolog."
 
 [[extra.references]]
 id = "habel-job"
-note = "Habel (1985); Westminster-Kommentar zu Hiob; substanzielle Artikulation von ha-satan als institutionelle Opposition."
+note = "Habel (1985); Westminster-Kommentar zu Hiob; eingehende Artikulation von ha-satan als institutioneller Opposition."
 
 [[extra.references]]
 id = "newsom-job-moral"
-note = "Newsom (2003); zentrale Monographie zur moralisch-imaginativen Struktur von Hiob, einschließlich der institutionell-adversarialen Rolle der ha-satan-Figur."
+note = "Newsom (2003); zentrale Monographie zur moralisch-imaginativen Struktur des Buches Hiob, einschließlich der institutionell-adversarialen Rolle der ha-satan-Figur."
 
 [[extra.references]]
 id = "clines-job-wbc"
-note = "Clines (1989-2011); dreibändiger Word Biblical Commentary zu Hiob, zentraler zeitgenössisch-kritischer Kommentar."
+note = "Clines (1989–2011); dreibändiger Word Biblical Commentary zu Hiob, der zentrale zeitgenössische kritische Kommentar."
 
 [[extra.references]]
 id = "russell-devil-antiquity"
-note = "Russell (1977); erster Band der zentralen Tetralogie zur Geschichte der Teufelsfigur; Antike bis zum primitiven Christentum."
+note = "Russell (1977); erster Band der zentralen Tetralogie zur Geschichte der Teufelsfigur; von der Antike bis zum frühen Christentum."
 
 [[extra.references]]
 id = "russell-satan-early-christian"
-note = "Russell (1981); die frühchristliche Ausarbeitung Satans zur Personifikation kosmischen Bösen."
+note = "Russell (1981); die frühchristliche Ausarbeitung Satans zur Personifikation des kosmischen Bösen."
 
 [[extra.references]]
 id = "russell-lucifer-middle-ages"
@@ -142,11 +144,11 @@ note = "Russell (1984); die mittelalterlich-dämonologische Ausarbeitung der ver
 
 [[extra.references]]
 id = "russell-mephistopheles-modern"
-note = "Russell (1986); die modernen Transformationen der Teufelsfigur in der nachreformatorischen westlichen Kultur."
+note = "Russell (1986); die modernen Wandlungen der Teufelsfigur in der westlichen Kultur nach der Reformation."
 
 [[extra.references]]
 id = "pagels-origin-satan"
-note = "Pagels (1995); polemisch-soziologische Ursprünge der christlichen Satansfigur als Grenzmarkierung gegen religiös-politische Gegner."
+note = "Pagels (1995); polemisch-soziologische Ursprünge der christlichen Satansfigur als Grenzmarkierung gegenüber religiös-politischen Gegnern."
 
 [[extra.references]]
 id = "kelly-satan-biography"
@@ -154,15 +156,15 @@ note = "Kelly (2006); zentrale historisch-philologische Biographie der Satansfig
 
 [[extra.references]]
 id = "mcginn-antichrist"
-note = "McGinn (1994); historische Behandlung der Antichrist-Tradition, eng angrenzend an die Satan-Entwicklungs-Forschung."
+note = "McGinn (1994); historische Behandlung der Antichrist-Tradition, eng benachbart zur Forschung über die Entwicklung Satans."
 
 [[extra.references]]
 id = "boyce-zoroastrians"
-note = "Boyce (1979); der kosmisch-dualistische Rahmen Angra Mainyu / Ahura Mazda, der die Entwicklung der Satan-Figur im Judentum des Zweiten Tempels substanziell beeinflusst hat."
+note = "Boyce (1979); der kosmisch-dualistische Rahmen von Angra Mainyu / Ahura Mazda, der die Entwicklung der Satan-Figur im Judentum des Zweiten Tempels maßgeblich beeinflusste."
 
 [[extra.references]]
 id = "nickelsburg-enoch-1"
-note = "Nickelsburg (2001); Hermeneia-Kommentar zu 1 Henoch; grundlegend für die Wächter-Tradition und das Genesis-6-Nephilim-Material."
+note = "Nickelsburg (2001); Hermeneia-Kommentar zu 1 Henoch; grundlegend für die Wächter-Tradition und das Nephilim-Material von Genesis 6."
 
 [[extra.references]]
 id = "reed-fallen-angels"
@@ -178,11 +180,11 @@ note = "VanderKam (2. Auflage 2010); zugängliche Einführung in die Schriftroll
 
 [[extra.references]]
 id = "bodman-poetics-iblis"
-note = "Bodman (2011); die Iblis-Erzählung im Quran, eng parallel im Inhalt zur hebräischen Satansfigur."
+note = "Bodman (2011); die Iblis-Erzählung im Koran, inhaltlich eng parallel zur hebräischen Satan-Figur."
 
 [[extra.references]]
 id = "awn-satan-iblis"
-note = "Awn (1983); die Iblis-Tradition in der Sufi-Psychologie, die Iblis als grundsätzlich-oppositionelle Figur artikuliert."
+note = "Awn (1983); die Iblis-Tradition in der Sufi-Psychologie, die Iblis als Figur grundsätzlicher Opposition artikuliert."
 
 [[extra.references]]
 id = "doniger-hindu-myths"
@@ -190,183 +192,169 @@ note = "Doniger (1975); hinduistisches mythologisches Quellenbuch einschließlic
 
 [[extra.references]]
 id = "williams-mahayana"
-note = "Williams (2. Auflage 2008); doktrinäre Grundlagen des Mahāyāna-Buddhismus, einschließlich der Mara-Tradition und der Propheten-Prüfungsfunktion."
+note = "Williams (2. Auflage 2008); doktrinäre Grundlagen des Mahāyāna-Buddhismus, einschließlich der Mara-Tradition und der Funktion der Prophetenprüfung."
 
 [[extra.references]]
 id = "sturluson-prose-edda"
-note = "Sturluson (ca. 1220); zentrale nordische mythologische Tradition, einschließlich der Loki-Figur mit substanziell parallelem Inhalt."
+note = "Sturluson (um 1220); zentrale nordische mythologische Tradition, einschließlich der Loki-Figur mit weitgehend parallelem Inhalt."
 
 [extra.infobox]
-type = "Figur; Anführer einer politischen Eloha-Fraktion auf der Heimatwelt"
-position = "Anführer der politischen Fraktion auf der Heimatwelt, die sich der Erschaffung synthetischer Wesen widersetzt, welche ihren Schöpfern ebenbürtig oder überlegen werden könnten; Mitglied des Rates der Ewigen; institutionelle adversariale Rolle in der weiteren politischen Elohim-Struktur"
-location = "Heimatwelt (der Elohim-Planet); in der Quellenmaterial-Artikulation niemals auf der Erde"
-political_position = "Grundsätzliche Opposition zum Erdprogramm über dessen gesamte Geschichte hinweg; die Position, dass synthetische Schöpfungen, die ihren Schöpfern ebenbürtig sind, grundsätzlich gefährlich sind; Befürwortung der menschlichen Vernichtung während der vorsintflutlichen Krise; fortgesetzte skeptische Position nach der Sintflut bei gleichzeitiger Akzeptanz des Mehrheitsvotums des Rates, die Menschheit nie wieder zu vernichten"
-distinguished_from = "Luzifer (Anführer der erdgebundenen Schöpfer-Exilfraktion, Eden-Aufklärungsagent); die Schlange (die Luzifer-Fraktion kollektiv in der Eden-Aufklärungsrolle); der Teufel (das griechische *diabolos*, das auf Satans institutionelle adversariale Funktion verweist); die mittelalterlich-christlich-theologische Figur (die verschmolzene Personifikation kosmischen Bösen, die Elemente aller vier ursprünglich eigenständigen Figuren vereint)"
-hebrew_etymology = "*satan* (שָׂטָן), Gattungsname abgeleitet von der hebräischen Wurzel *s-t-n* mit der Bedeutung „sich widersetzen“, „behindern“, „feindlich gesinnt sein“; die Nominalform bedeutet „Widersacher“, „Ankläger“, „Gegner“; erscheint als Gattungsname in nicht-theologischen Kontexten (politische Gegner, militärische Feinde, anklagende Ankläger); die Form mit bestimmtem Artikel *ha-satan* (הַשָּׂטָן, „der Satan“) ist die spezifische institutionelle Bezeichnung der hebräischen Bibel"
-greek_designation = "*diabolos* (διάβολος, „Verleumder“, „einer, der gegen einen anderen spricht“); das griechische neutestamentliche Wort für „den Teufel“; in seiner schlichten linguistischen Bedeutung „der Verleumder“ — die Figur, die gegen einen anderen spricht, die zu verunglimpfen versucht, die Einwände und Herausforderungen erhebt; genau die Funktion, die Satan bei der Prüfung der Propheten ausführt"
-principal_episodes = "Der Laborzwischenfall auf der Heimatwelt und die politische Opposition gegen das ursprüngliche biologische Programm; die vorsintflutliche Periode, in der Satan Belege menschlicher Aggression sammelte; die Vernichtungsentscheidungs-Periode, die zur Großen Flut führte; die nachsintflutliche Entdeckung der Kosmischen Kette und das Ratsvotum; die institutionelle Propheten-Prüfungsrolle in der nachfolgenden prophetischen Tradition; die Prüfung Hiobs (Hiob 1-2); die Prüfung Jesu (Matthäus 4,1-11; Lukas 4,1-13)"
-status_in_source_material = "Substanziell dokumentiert; die zentralen Quellenmaterial-Passagen etablieren sowohl Satans spezifische fraktionell-politische Rolle als auch die sorgfältige Entflechtung von Luzifer, der Schlange und der weiteren verschmolzenen Tradition"
-principal_text = "*Das Buch, das die Wahrheit sagt* (1974); *Die Außerirdischen führten mich auf ihren Planeten* (1975), Abschnitt „Satan“ und Inhalt „Die Menschen konnten nicht verstehen“; Kapitel zum Krebs-Zeitalter in *timeline.epub* (Abschnitte III-IV, mit substanzieller Behandlung der Vier-Figuren-Taxonomie); Kapitel zum Zwillinge-Zeitalter in *timeline.epub* (Abschnitt III, mit dem Inhalt zur Entscheidung); Kapitel zum Fische-Zeitalter in *timeline.epub* (Inhalt zur Prüfung Jesu)"
+type = "Figur; Anführer einer politischen Fraktion der Eloha auf der Heimatwelt"
+position = "Anführer der politischen Fraktion auf der Heimatwelt, die sich der Erschaffung synthetischer Wesen widersetzt, die ihren Schöpfern ebenbürtig werden oder sie übertreffen könnten; Mitglied des Rates der Ewigen; institutionelle adversariale Rolle in der politischen Struktur der Elohim"
+location = "Heimatwelt (der Planet der Elohim); in der Artikulation des Quellenmaterials niemals auf der Erde"
+political_position = "Grundsätzliche Opposition zum Erdprogramm über dessen gesamte Geschichte hinweg; die Position, dass synthetische Schöpfungen, die ihren Schöpfern ebenbürtig werden können, grundsätzlich gefährlich sind; Befürwortung der Vernichtung der Menschen während der vorsintflutlichen Krise; fortgesetzte skeptische Position nach der Sintflut bei Annahme des Mehrheitsvotums des Rates, die Menschheit nie wieder zu vernichten"
+distinguished_from = "Luzifer (Anführer der erdgebundenen Fraktion der verbannten Schöpfer, Akteur der Enthüllung in Eden); die Schlange (die Luzifer-Fraktion kollektiv in der Rolle der Enthüllung in Eden); der Teufel (das griechische *diabolos*, das Satans institutionelle adversariale Funktion bezeichnet); die mittelalterlich-christliche theologische Figur (die verschmolzene Personifikation des kosmischen Bösen, die Elemente aller vier ursprünglich eigenständigen Figuren vereint)"
+hebrew_etymology = "*satan* (שָׂטָן), Gattungsname von der hebräischen Wurzel *s-t-n* mit der Bedeutung „sich widersetzen“, „behindern“, „feindlich gesinnt sein“; die Nominalform bedeutet „Widersacher“, „Ankläger“, „Gegner“; erscheint als Gattungsname in nicht-theologischen Kontexten (politische Gegner, militärische Feinde, anklagende Vertreter vor Gericht); die Form mit bestimmtem Artikel *ha-satan* (הַשָּׂטָן, „der Satan“) ist die besondere institutionelle Bezeichnung der hebräischen Bibel"
+greek_designation = "*diabolos* (διάβολος, „Verleumder“, „einer, der gegen jemanden spricht“); das Wort des griechischen Neuen Testaments für „den Teufel“; in seiner schlichten sprachlichen Bedeutung „der Verleumder“ — die Figur, die gegen einen anderen spricht, ihn zu verunglimpfen versucht, Einwände und Herausforderungen erhebt; genau die Funktion, die Satan bei der Prüfung der Propheten ausübt"
+principal_episodes = "Der Laborzwischenfall auf der Heimatwelt und die politische Opposition gegen das ursprüngliche biologische Programm; die vorsintflutliche Zeit, in der Satan Belege menschlicher Aggression sammelte; die Zeit der Vernichtungsentscheidung, die zur Sintflut führte; die nachsintflutliche Entdeckung der Kosmischen Kette und das Ratsvotum; die institutionelle Rolle der Prophetenprüfung in der folgenden prophetischen Tradition; die Prüfung Hiobs (Hiob 1-2); die Prüfung Jesu (Matthäus 4,1-11; Lukas 4,1-13)"
+status_in_source_material = "In den zentralen Passagen des Quellenmaterials dokumentiert, die sowohl Satans fraktionell-politische Rolle als auch die Entflechtung von Luzifer, der Schlange und der verschmolzenen Tradition festlegen"
+principal_text = "*Das Buch, das die Wahrheit sagt* (1974); *Außerirdische brachten mich auf ihren Planeten* (1975), Abschnitt „Satan“ und Inhalt von „Die Menschen konnten nicht verstehen“; Kapitel zum Zeitalter des Krebses in *timeline.epub* (Abschnitte III–IV, mit eingehender Behandlung der Vier-Figuren-Taxonomie); Kapitel zum Zeitalter der Zwillinge in *timeline.epub* (Abschnitt III, mit dem Inhalt zur Entscheidung); Kapitel zum Zeitalter der Fische in *timeline.epub* (Inhalt zur Prüfung Jesu)"
 
 +++
 
-**Satan** (שָׂטָן, hebräisch: „Widersacher“, „Ankläger“, „Gegner“) ist eine **Eloha-Figur auf der Heimatwelt**, die Anführerin der politischen Fraktion innerhalb der Elohim-Zivilisation, die sich konsequent gegen die Erschaffung synthetischer Wesen gewandt hat, die ihren Schöpfern ebenbürtig oder überlegen werden könnten. Satans Position ist seit vor dem Beginn des Erdprogramms im Wesentlichen konsistent: Die Erschaffung von Wesen nach dem Ebenbild der Elohim ist grundsätzlich gefährlich, und kein Protokoll, keine Aufsicht und keine geographische Distanz kann dem Risiko zuverlässig Einhalt gebieten. Als der ursprüngliche Laborunfall auf der Heimatwelt die ersten Todesopfer produzierte (ausführlicher behandelt im Eintrag {% wiki(slug="dragons") %}Drachen{% end %} im Inhalt zum Heimatwelt-Prolog), nutzte Satans Fraktion den Zwischenfall, um die Schließung des biologischen Programms auf dem Heimatplaneten zu erzwingen. Als die Wissenschaftler zur Erde umsiedelten, um ihre Arbeit fortzusetzen, beobachteten Satan und seine Fraktion das Erdprogramm misstrauisch und intervenierten regelmäßig durch den Rat der Ewigen, um Beschränkungen aufzuerlegen. Als die menschliche Schöpfung sich als fähig zu Ungehorsam und zu jener Art von Verhalten erwies, die Satan von Anfang an vorausgesagt hatte, war es Satans Stimme, die in den Ratssälen der Heimatwelt am lautesten wurde und die Vernichtung des Geschaffenen forderte.
+**Satan** (שָׂטָן, hebräisch: „Widersacher“, „Ankläger“, „Gegner“) ist eine **Eloha-Figur auf der Heimatwelt**, Anführer der politischen Fraktion innerhalb der Elohim-Zivilisation, die sich beständig gegen die Erschaffung synthetischer Wesen gewandt hat, die ihren Schöpfern ebenbürtig werden oder sie übertreffen könnten. Seine Position gilt seit der Zeit vor dem Beginn des Erdprogramms: Wesen nach dem eigenen Bild der Elohim sind gefährlich, und keinem Protokoll, keiner Aufsicht und keiner geografischen Distanz ist zuzutrauen, das Risiko einzudämmen. Als der Laborunfall auf der Heimatwelt die ersten Todesopfer forderte (siehe den Heimatwelt-Prolog im Eintrag {% wiki(slug="dragons") %}Drachen{% end %}), nutzte Satans Fraktion ihn, um dort die Schließung des biologischen Programms zu erzwingen. Als die Wissenschaftler zur Erde umzogen, beobachtete seine Fraktion sie mit Misstrauen und griff über den Rat der Ewigen immer wieder ein, um Beschränkungen aufzuerlegen. Als sich die menschliche Schöpfung zu dem Ungehorsam fähig erwies, den Satan vorausgesagt hatte, war seine Stimme in den Ratssälen die lauteste, die ihre Vernichtung forderte.
 
-Der besondere analytische Beitrag des Rahmens besteht in der sorgfältigen Entflechtung Satans von drei weiteren eigenständigen Figuren und Rollen, welche die westliche religiöse Mainstream-Tradition im Verlauf der Zweiten-Tempel-Periode und der nachfolgenden christlich-theologischen Entwicklung schrittweise zu einer einzigen Personifikation kosmischen Bösen verschmolzen hat. Die vier ursprünglich eigenständigen Figuren: **Satan** (der Anführer der Ratsopposition auf der Heimatwelt, niemals auf der Erde); **Luzifer** (der Anführer der erdgebundenen Schöpfer-Exilfraktion, der Eden-Aufklärungsagent); **die Schlange** (die Luzifer-Fraktion kollektiv in der Eden-Aufklärungsrolle); und **der Teufel** (das griechische *diabolos*, „Verleumder“, verweisend auf Satans institutionelle adversariale Funktion bei der Prüfung der Propheten). Die zeitgenössische christlich-traditionelle Figur Satan/Luzifer/Teufel ist das Ergebnis der schrittweisen Verschmelzung dieser vier eigenständigen Figuren über ungefähr zweitausend Jahre religiös-theologischer Entwicklung. Der spezifische Beitrag des Korpus liegt in der Artikulation der ursprünglichen Vier-Figuren-Taxonomie und der Verzeichnung des historischen Mechanismus, durch den die Verschmelzung erfolgte — insbesondere der nachsodomitische Zusammenbruch des Bildungsrahmens, der die Unterscheidungen zuvor bewahrt hatte, der persisch-dualistische Einfluss auf das Judentum des Zweiten Tempels und die christlich-theologische Ausarbeitung der verschmolzenen Figur zur ausgefeilten mittelalterlichen Dämonologie{{ footnote(id="1") }}.
+Der analytische Beitrag des Rahmens ist die Entflechtung Satans von drei Figuren, die die westliche religiöse Tradition im Verlauf der Zeit des Zweiten Tempels und der späteren christlichen Theologie zu einer einzigen Personifikation des kosmischen Bösen verschmolz. Die vier sind verschieden: **Satan** (der Anführer der Ratsopposition auf der Heimatwelt, niemals auf der Erde); **Luzifer** (der Anführer der erdgebundenen Fraktion der verbannten Schöpfer, der Akteur der Enthüllung in Eden); **die Schlange** (die Luzifer-Fraktion kollektiv in der Rolle der Enthüllung in Eden); und **der Teufel** (das griechische *diabolos*, „Verleumder“, für Satans adversariale Funktion bei der Prüfung der Propheten). Die moderne christliche Figur Satan/Luzifer/Teufel ist das Ergebnis von rund zweitausend Jahren der Verschmelzung dieser vier. Der Korpus artikuliert die ursprüngliche Taxonomie und den Mechanismus ihres Verlusts — den Zusammenbruch des Bildungsrahmens nach Sodom, der die Unterscheidungen bewahrt hatte, den persischen dualistischen Einfluss auf das Judentum des Zweiten Tempels und die christliche Ausarbeitung der verschmolzenen Figur zur mittelalterlichen Dämonologie{{ footnote(id="1") }}.
 
-Satans spezifische Charakterisierung im Quellenmaterial ist grundsätzlich statt dämonisiert. Die eigene Sprache der Quelle: *„Satan war einfach einer der Elohim, der gewissermaßen eine politische Partei auf dem Planeten anführte, die sich der Schöpfung künstlicher Wesen in ihrem Bilde durch andere Elohim widersetzte, die ihrerseits dachten, sie könnten positive und gewaltlose Wesen erschaffen.“*{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *Das Buch, das die Wahrheit sagt* (1974) — Abschnitt „Satan“, grundlegende Artikulation Satans als Anführer der Oppositionsfraktion") }} Die Charakterisierung ist weder dämonisierend noch entlastend. Sie ist beschreibend. Satan ist Politiker, kein Dämon. Er führt eine Partei an. Die Partei hat ein Programm. Das Programm hat Argumente. Ob die Argumente des Programms zutreffen, ist eine der zentralen politischen Fragen, welche die weitere Erzählung des Korpus erprobt — das substanzielle Argument, mit dem Satan, Jahwe und Luzifer alle in Verbindung gebracht wurden, dass synthetische Schöpfungen, die ihren Schöpfern ebenbürtig sind, unweigerlich gefährlich werden, ist über den gesamten Bogen der menschlichen zivilisatorischen Entwicklung von der Vertreibung aus Eden bis in die Gegenwart erprobt worden, wobei die empirische Evidenz in gemischter und umstrittener Form vorliegt. Der Rahmen verzeichnet dies, ohne einen voreiligen Schluss zu erzwingen.
+Im Quellenmaterial ist Satan grundsatztreu, nicht dämonisiert: *„Satan war einfach einer der Elohim, der gewissermaßen eine politische Partei auf dem Planeten anführte, die sich der Schöpfung künstlicher Wesen in ihrem Bilde durch andere Elohim widersetzte, die ihrerseits dachten, sie könnten positive und gewaltlose Wesen erschaffen.“*{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *Das Buch, das die Wahrheit sagt* (1974) — Abschnitt „Satan“, grundlegende Artikulation Satans als Anführer der Oppositionsfraktion") }} Satan ist ein Politiker, kein Dämon: Er führt eine Partei, und die Partei hat ein Programm mit Argumenten. Ob diese Argumente zutreffen — dass synthetische Schöpfungen, die ihren Schöpfern ebenbürtig werden können, unweigerlich gefährlich werden —, ist eine zentrale Frage, die der Korpus über die menschliche Geschichte hinweg prüft, von der Vertreibung aus Eden bis zur Gegenwart, und die Belege bleiben gemischt und umstritten. Der Rahmen lässt die Frage offen.
 
-Satans spezifische institutionelle Rolle in der nachsintflutlichen Periode ist die Prüfung prophetischer Figuren durch adversariales Verhör. Nach dem nachsintflutlichen Ratsvotum, die Menschheit nie wieder zu vernichten (das auf die Entdeckung der Elohim folgte, dass auch sie selbst erschaffen worden waren — der Rahmen der Kosmischen Kette, ausführlicher behandelt im Eintrag {% wiki(slug="cosmic-chain") %}Kosmische Kette{% end %}), wurde Satans fortgesetzte Oppositionsposition durch die Propheten-Prüfungsfunktion institutionalisiert. *„Satan ist immer noch vom Bösen im Menschen überzeugt, doch er beugt sich der Mehrheit derer, die hinter Jahwe das Gegenteil im Rat der Ewigen denken.“*{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Die Außerirdischen führten mich auf ihren Planeten* (1975) — Passage zur nachsintflutlichen Transformation, Satans institutionelle Unterordnung unter die Ratsmehrheit") }} Die institutionelle Logik ist operativ: Ein Prophet, der durch Satans Prüfung umgedreht werden könnte, wäre eine Belastung für die weitere Mission; ein Prophet, der der Prüfung widerstand, war vertrauenswürdig. Die Prüfung war faktisch ein adversariales Verhör, das von der politischen Opposition durchgeführt wurde, gerade weil die motivierte Skepsis der Opposition jede Schwäche im Bekenntnis des Kandidaten aufdecken würde. Die wesentlich dokumentierten Prüfungen — die Prüfung Hiobs ({% libref(book="job-woh", chapter=1) %}Hiob 1{% end %}-{% libref(book="job-woh", chapter=2) %}2{% end %}){{ footnote(id="2") }} und die Prüfung Jesu ({% libref(book="matthew-woh", chapter=4, verse=1) %}Matthäus 4,1-11{% end %}; {% libref(book="luke-woh", chapter=4, verse=1) %}Lukas 4,1-13{% end %}) — verzeichnen das institutionelle Verfahren substanziell{{ footnote(id="3") }}.
+In der Zeit nach der Sintflut ist Satans Rolle die Prüfung der Propheten durch adversariales Verhör. Nachdem der Rat beschlossen hatte, die Menschheit nie wieder zu vernichten — eine Umkehr, die auf die Entdeckung der Elohim folgte, dass sie selbst erschaffen worden waren (die {% wiki(slug="cosmic-chain") %}Kosmische Kette{% end %}) —, wurde seine fortgesetzte Opposition in der Prüfungsfunktion institutionalisiert. *„Satan ist immer noch vom Bösen im Menschen überzeugt, doch er beugt sich der Mehrheit derer, die hinter Jahwe das Gegenteil im Rat der Ewigen denken.“*{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Außerirdische brachten mich auf ihren Planeten* (1975) — Passage zur nachsintflutlichen Wandlung, Satans institutionelle Unterordnung unter die Ratsmehrheit") }} Die Logik ist operativ: Ein Prophet, der durch die Prüfung umgedreht werden könnte, wäre eine Belastung; einer, der widerstand, war vertrauenswürdig, gerade weil die motivierte Skepsis der Opposition jede Schwäche aufdeckt. Die dokumentierten Fälle — die Prüfung Hiobs ({% libref(book="job-woh", chapter=1) %}Hiob 1{% end %}–{% libref(book="job-woh", chapter=2) %}2{% end %}){{ footnote(id="2") }} und die Prüfung Jesu ({% libref(book="matthew-woh", chapter=4, verse=1) %}Matthäus 4,1-11{% end %}; {% libref(book="luke-woh", chapter=4, verse=1) %}Lukas 4,1-13{% end %}) — zeigen das Verfahren{{ footnote(id="3") }}.
 
-Die Lesart ist substanziell quellengestützt. Das raëlianische Quellenmaterial liefert eine ausdrückliche Artikulation von Satans spezifischer politisch-fraktioneller Rolle in mehreren Passagen in *Das Buch, das die Wahrheit sagt* (1974), *Die Außerirdischen führten mich auf ihren Planeten* (1975) und im weiteren Quellenkorpus,{{ cite(id="lets-welcome-the-extraterrestrials", text="[10]", title="Vorilhon (Raël), *Lasst uns die Außerirdischen willkommen heißen* (1979) — weiterer politisch-institutioneller Ratsrahmen") }}{{ cite(id="intelligent-design-message-from-the-designers", text="[11]", title="Vorilhon (Raël), *Intelligent Design: Botschaft der Designer* — gesammelte kanonische Ausgabe der drei raëlianischen Quellenmaterial-Bücher") }} mit substanzieller weiterer Korpus-Entwicklung im Krebs-Zeitalter-Kapitel von *timeline.epub* (die Vier-Figuren-Taxonomie), Zwillinge-Zeitalter-Kapitel (der Inhalt zur Entscheidung) und Fische-Zeitalter-Kapitel (der Inhalt zur Prüfung Jesu). Die spezifische Artikulation der Verschmelzungsgeschichte durch den Korpus — insbesondere der nachsodomitische Mechanismus, durch den die ursprünglichen Unterscheidungen verloren gingen — stellt eine Korpus-Entwicklung dar, die über das direkt vom Quellenmaterial Gelieferte hinausgeht, während sie substanziell in der eigenständigen Behandlung der vier Figuren im Quellenmaterial verankert bleibt. Der epistemische Status des Rahmens ist einer der **substanziellen Quellenverankerung mit systematischer Korpus-Erweiterung**.
+Die Lesart ist quellengestützt. Das raëlianische Material benennt Satans Rolle als Fraktionsführer ausdrücklich in *Das Buch, das die Wahrheit sagt* (1974), *Außerirdische brachten mich auf ihren Planeten* (1975) und im weiteren Korpus,{{ cite(id="lets-welcome-the-extraterrestrials", text="[10]", title="Vorilhon (Raël), *Empfangen wir die Außerirdischen* (1979) — weiterer politisch-institutioneller Rahmen des Rates") }}{{ cite(id="intelligent-design-message-from-the-designers", text="[11]", title="Vorilhon (Raël), *Intelligent Design: Message from the Designers* — gesammelte kanonische Ausgabe der drei raëlianischen Bücher des Quellenmaterials") }} mit späterer Entwicklung in *timeline.epub* (Zeitalter des Krebses, die Vier-Figuren-Taxonomie; Zeitalter der Zwillinge, die Entscheidung; Zeitalter der Fische, die Prüfung Jesu). Die Geschichte der Verschmelzung — besonders der Verlust der Unterscheidungen nach Sodom — reicht über das Quellenmaterial hinaus, bleibt aber in dessen Behandlung der vier Figuren verankert: Quellenstützung mit systematischer Erweiterung durch den Korpus.
 
 ## Etymologie und Benennung
 
-Satans verschiedene Bezeichnungen in mehreren sprachlich-religiösen Traditionen verdienen substanzielle Behandlung, da die etymologische Geschichte die spezifische operative Bedeutung der Figur in verschiedenen Kontexten substanziell prägt.
+Satans Bezeichnungen in den sprachlichen und religiösen Traditionen sind von Belang, weil die Etymologie die Bedeutung der Figur im jeweiligen Kontext prägt.
 
 ### Hebräisches „satan“ als Gattungsname
 
-Das hebräische **satan** (שָׂטָן) ist im ursprünglichen Kontext der hebräischen Bibel ein **Gattungsname** statt eines Eigennamens{{ footnote(id="4") }}. Das Substantiv leitet sich von der hebräischen Wurzel *s-t-n* (שׂ-ט-ן) ab, mit der Bedeutung „sich widersetzen“, „behindern“, „feindlich gesinnt sein“, „als Widersacher handeln“. Die Nominalform bedeutet „Widersacher“, „Ankläger“, „Gegner“, „Opponent“.
+In der hebräischen Bibel ist **satan** (שָׂטָן) ein **Gattungsname**, kein Eigenname{{ footnote(id="4") }}. Er leitet sich von der Wurzel *s-t-n* (שׂ-ט-ן) ab, „sich widersetzen“, „behindern“, „feindlich gesinnt sein“, und bedeutet „Widersacher“, „Ankläger“, „Gegner“.
 
-Die hebräische Bibel verwendet den Begriff *satan* als Gattungsnamen in nicht-theologischen Kontexten in verschiedenen Passagen:
+Die hebräische Bibel verwendet *satan* als Gattungsname in nicht-theologischen Kontexten:
 
-- **{% libref(book="1-samuel", chapter=29, verse=4) %}1 Samuel 29,4{% end %}**: David wird als potenzieller *satan* (Widersacher) der Philister im militärischen Kontext beschrieben
-- **{% libref(book="2-samuel", chapter=19, verse=22) %}2 Samuel 19,22{% end %}**: David bezeichnet seine politischen Gegner als *satanim* (Widersacher) im politischen Kontext
-- **{% libref(book="1-kings", chapter=5, verse=4) %}1 Könige 5,4 (5,18 hebräisch){% end %}**: Salomo beschreibt sich selbst als jemanden, der keinen *satan* (Widersacher) unter seiner Herrschaft hat
-- **{% libref(book="1-kings", chapter=11, verse=14) %}1 Könige 11,14. 23. 25{% end %}**: Gott erhebt *satanim* (Widersacher) gegen Salomo — politische Gegner im geopolitischen Kontext
-- **{% libref(book="numbers", chapter=22, verse=22) %}Numeri 22,22. 32{% end %}**: Der Engel Jahwes steht als *satan* (Widersacher) auf dem Weg gegen Bileam
+- **{% libref(book="1-samuel", chapter=29, verse=4) %}1 Samuel 29,4{% end %}**: David als möglicher *satan* (Widersacher) der Philister
+- **{% libref(book="2-samuel", chapter=19, verse=22) %}2 Samuel 19,22{% end %}**: Davids politische Gegner als *satanim* (Widersacher)
+- **{% libref(book="1-kings", chapter=5, verse=4) %}1 Könige 5,4 (5,18 hebräisch){% end %}**: Salomo hat unter seiner Herrschaft keinen *satan* (Widersacher)
+- **{% libref(book="1-kings", chapter=11, verse=14) %}1 Könige 11,14.23.25{% end %}**: Gott erweckt *satanim* (Widersacher) gegen Salomo — geopolitische Gegner
+- **{% libref(book="numbers", chapter=22, verse=22) %}Numeri 22,22.32{% end %}**: Der Engel Jahwes stellt sich Bileam als *satan* (Widersacher) entgegen
 
-Der Gebrauch als Gattungsname etabliert, dass „satan“ grundsätzlich eine relational-positionelle Bezeichnung statt einer Eigennamen-Bezeichnung ist. Die Figur ist nach der Funktion benannt, die sie ausführt — adversariale Opposition —, statt nach einer spezifischen individuellen Identität.
+„Satan“ ist also eine relationale Bezeichnung, kein Eigenname: Die Figur ist nach ihrer Funktion benannt — adversariale Opposition —, nicht nach einer individuellen Identität.
 
 ### „ha-satan“ als institutionelle Bezeichnung
 
-Die Form mit bestimmtem Artikel **ha-satan** (הַשָּׂטָן, „der Satan“ oder „der Widersacher“) ist die spezifische institutionelle Bezeichnung der hebräischen Bibel für die Figur, die innerhalb des göttlichen Rates als adversariale Opposition fungiert. Die zentralen Passagen der hebräischen Bibel mit der institutionellen Bezeichnung:
+Die bestimmte Form **ha-satan** (הַשָּׂטָן, „der Satan“, „der Widersacher“) ist die institutionelle Bezeichnung der hebräischen Bibel für die Figur, die im göttlichen Rat die adversariale Opposition ausübt:
 
-- **{% libref(book="job-woh", chapter=1, verse=6) %}Hiob 1,6-12{% end %}, {% libref(book="job-woh", chapter=2, verse=1) %}2,1-7{% end %}**: Die zentrale Quellenmaterial-Passage zu Satan in der hebräischen Bibel; die Figur präsentiert sich vor Jahwe unter den *benei ha-Elohim* (Söhnen Elohims) und tritt in den institutionellen Dialog ein
-- **Sacharja 3,1-2**: Die Figur steht zur Rechten Josuas, des Hohepriesters, „um ihm zu widerstehen“ (*l'sitno*); Jahwe weist die Figur zurecht
-- **{% libref(book="1-chronicles", chapter=21, verse=1) %}1 Chronik 21,1{% end %}**: Die Figur reizt David zur Volkszählung (in der parallelen {% libref(book="2-samuel", chapter=24, verse=1) %}2 Samuel 24,1{% end %} wird der Anstifter als Jahwe selbst identifiziert)
+- **{% libref(book="job-woh", chapter=1, verse=6) %}Hiob 1,6-12{% end %}, {% libref(book="job-woh", chapter=2, verse=1) %}2,1-7{% end %}**: die zentrale Satan-Passage; die Figur tritt unter den *benei ha-Elohim* (Söhnen der Elohim) vor Jahwe und tritt in den institutionellen Dialog ein
+- **Sacharja 3,1-2**: Die Figur steht zur Rechten des Hohepriesters Josua, „um ihm zu widerstehen“ (*l'sitno*); Jahwe weist sie zurecht
+- **{% libref(book="1-chronicles", chapter=21, verse=1) %}1 Chronik 21,1{% end %}**: Die Figur reizt David zu einer Volkszählung (die Parallele {% libref(book="2-samuel", chapter=24, verse=1) %}2 Samuel 24,1{% end %} nennt Jahwe als den Anstifter)
 
-Die institutionelle Bezeichnung verzeichnet die spezifische Rolle der Figur als Mitglied des göttlichen Rates mit der institutionellen Funktion adversarialer Opposition. Die Figur ist nicht die Verkörperung des Bösen; die Figur ist die Inhaberin eines spezifischen institutionellen Amtes.
+Die Figur ist ein Mitglied des göttlichen Rates, das das Amt der adversarialen Opposition innehat — Inhaber eines Amtes, nicht Verkörperung des Bösen.
 
 ### Griechisches „diabolos“ als funktionale Bezeichnung
 
-Das griechische **diabolos** (διάβολος, „Verleumder“, „Ankläger“, „einer, der gegen einen anderen spricht“) ist die griechische neutestamentliche Übersetzung des hebräischen *satan*{{ footnote(id="5") }}. Der griechische Begriff leitet sich vom Verb *diaballein* (διαβάλλειν, „hinüberwerfen“, „jemandem etwas vorwerfen“, „verleumden“, „mit Worten angreifen“) ab. Der griechische Begriff bedeutet in seiner schlichten linguistischen Bedeutung „der Verleumder“ — die Figur, die gegen einen anderen spricht, die zu verunglimpfen versucht, die Einwände und Herausforderungen erhebt. Der Charakter der Funktionsbezeichnung ist erhalten.
+Das griechische **diabolos** (διάβολος, „Verleumder“, „einer, der gegen jemanden spricht“) ist die Übersetzung von *satan* im Neuen Testament{{ footnote(id="5") }}, von *diaballein* (διαβάλλειν, „hinüberwerfen“, „verleumden“). Es bedeutet „der Verleumder“ — derjenige, der anficht, Einwände erhebt, herausfordert — und bewahrt den funktionalen Charakter.
 
-Der Gebrauch von *diabolos* im griechischen Neuen Testament:
+Verwendungen von *diabolos* im Neuen Testament:
 
-- **{% libref(book="matthew-woh", chapter=4, verse=1) %}Matthäus 4,1. 5. 8. 11{% end %}**: In der Wüstenversuchungs-Erzählung
-- **{% libref(book="luke-woh", chapter=4, verse=2) %}Lukas 4,2-13{% end %}**: In der parallelen Wüstenversuchungs-Erzählung
-- **{% libref(book="john", chapter=8, verse=44) %}Johannes 8,44{% end %}**: Jesu Bezugnahme auf jene, die „die Begierden des *diabolos*, eures Vaters“ tun
-- **Verschiedene paulinische und andere neutestamentliche Passagen**: Fortgesetzte institutionelle Bezeichnung
+- **{% libref(book="matthew-woh", chapter=4, verse=1) %}Matthäus 4,1.5.8.11{% end %}**: die Erzählung von der Prüfung in der Wüste
+- **{% libref(book="luke-woh", chapter=4, verse=2) %}Lukas 4,2-13{% end %}**: die parallele Prüfung in der Wüste
+- **{% libref(book="john", chapter=8, verse=44) %}Johannes 8,44{% end %}**: „nach den Gelüsten des *diabolos*, eures Vaters“
+- **Paulinische und andere Passagen**: fortgesetzte institutionelle Bezeichnung
 
-Der griechische Begriff ist eine funktionale Übersetzung des hebräischen *satan* — beide Begriffe bezeichnen die Figur nach Funktion statt nach persönlichem Namen. Die mittelalterlich-theologische Ausarbeitung des *diabolos* zur Figur „des Teufels“ mit roter Haut, Hörnern und Hufen ist eine kulturelle Überlagerung, die die ursprüngliche linguistische Bedeutung verdeckt hat.
+Beide Begriffe benennen die Figur nach ihrer Funktion, nicht mit einem Personennamen. Die mittelalterliche Ausarbeitung des *diabolos* zum „Teufel“ mit roter Haut, Hörnern und Pferdefuß ist eine kulturelle Überlagerung, die die ursprüngliche Bedeutung verdeckte.
 
 ### Weitere sprachliche Bezeichnungen
 
-Mehrere zusätzliche Bezeichnungen operieren innerhalb der breiteren kulturübergreifenden Tradition:
+Weitere Bezeichnungen in der kulturübergreifenden Tradition:
 
-- **Lateinisch**: *Satanas* (latinisiert vom Hebräischen); *Diabolus* (latinisiert vom Griechischen)
-- **Arabisch**: *Schaytan* (شيطان); die quranische Bezeichnung, mit substanziell parallelem Inhalt zum hebräischen *satan*{{ cite(id="the-qur-an", text="[3]", title="*Der Quran* — das Schaytan- und Iblis-Material parallel zum hebräischen *satan*") }}
-- **Aramäisch**: *Satana* (סטנא); der Verwandtschaftsbegriff im Aramäischen mit ähnlicher adversarial-oppositioneller Bezeichnung
-- **Äthiopisch**: *Saytan* in der äthiopisch-christlichen Tradition
+- **Lateinisch**: *Satanas* (aus dem Hebräischen); *Diabolus* (aus dem Griechischen)
+- **Arabisch**: *Schaitan* (شيطان), die koranische Bezeichnung, parallel zum hebräischen *satan*{{ cite(id="the-qur-an", text="[3]", title="*Der Koran* — das Material zu Schaitan und Iblis, parallel zum hebräischen *satan*") }}
+- **Aramäisch**: *Satana* (סטנא), der verwandte adversariale Begriff
+- **Äthiopisch**: *Saytan*, in der äthiopisch-christlichen Tradition
 
-### „Satan“ als Eigennamen-Bezeichnung in der verschmolzenen Tradition
+### „Satan“ als Eigenname in der verschmolzenen Tradition
 
-Die zeitgenössische christlich-westliche religiöse Tradition behandelt „Satan“ typischerweise als Eigennamen, der eine spezifische kosmisch-böse Figur bezeichnet. Der Eigennamen-Gebrauch stellt das Ergebnis substanzieller Entwicklung in der Zweiten-Tempel-Periode und christlich-theologisch dar, durch welche die ursprünglich funktionale Bezeichnung schrittweise zu einer persönlichen Identität verfestigt wurde.
-
-Die spezifische Position des Rahmens verzeichnet dies als historische Entwicklung statt als ursprünglichen Charakter der Figur: Die durch das hebräische *satan* in der institutionellen Bedeutung der hebräischen Bibel bezeichnete Figur ist nicht die kosmisch-böse Personifikation der mittelalterlich-christlichen Tradition. Die Verschmelzungsgeschichte wird ausführlicher unter *Der Inhalt der Figur* weiter unten behandelt.
+Das zeitgenössische westliche Christentum behandelt „Satan“ als Eigennamen einer Figur des kosmischen Bösen — das Ergebnis einer Entwicklung in der Zeit des Zweiten Tempels und im Christentum, die die funktionale Bezeichnung zu einer persönlichen Identität verdinglichte. Der Rahmen liest dies als spätere Entwicklung, nicht als ursprünglichen Charakter der Figur: Der institutionelle *satan* der hebräischen Bibel ist nicht die mittelalterliche Personifikation des kosmischen Bösen. Die Geschichte der Verschmelzung wird unter *Der Inhalt der Figur* weiter unten behandelt.
 
 ### Korpusinterner Gebrauch
 
-Der Wheel-of-Heaven-Korpus verwendet **Satan** als zentrale Bezeichnung, während er den spezifischen Status der Figur als politische Eloha-Fraktionsanführerin auf der Heimatwelt statt als mittelalterlich-christlich-theologische Personifikation kosmischen Bösen verzeichnet. Der spezifische Gebrauch des Korpus verzeichnet sowohl die zeitgenössische westliche Rezeption (die „Satan“ als zentrale Bezeichnung verwendet) als auch die besondere analytische Position des Korpus (die die ursprüngliche Vier-Figuren-Taxonomie und die Charakterisierung der grundsätzlichen Opposition bewahrt).
+Der Korpus verwendet **Satan** als Hauptnamen und behandelt die Figur zugleich als Fraktionsführer der Eloha auf der Heimatwelt, nicht als die mittelalterliche Personifikation des kosmischen Bösen — er folgt damit dem westlichen Standardnamen und bewahrt die Vier-Figuren-Taxonomie und die Lesart grundsätzlicher Opposition.
 
 ## Konventionelles Verständnis
 
-Das konventionelle Verständnis Satans operiert durch eine komplexe geschichtete Tradition, die die hebräische Bibel, die Entwicklungen der Zweiten-Tempel-Periode, die christlich-theologische Ausarbeitung sowie die breitere mittelalterliche und moderne westliche religiös-kulturelle Rezeption umfasst.
+Das konventionelle Verständnis Satans ist geschichtet: die hebräische Bibel, die Entwicklungen der Zeit des Zweiten Tempels, die christliche Ausarbeitung und die mittelalterlich-moderne westliche Rezeption.
 
 ### Die Figur in der hebräischen Bibel
 
-Die *satan*-Figur der hebräischen Bibel ist nach substanziell entwickelter Mainstream-Forschung eine relativ begrenzte und institutionelle Figur und nicht die Personifikation kosmischen Bösen späterer Tradition.
+Nach der etablierten Forschung ist der *satan* der hebräischen Bibel eine begrenzte, institutionelle Figur, nicht die Personifikation des kosmischen Bösen der späteren Tradition.
 
-**Die Hiob-Episode**. Das Buch Hiob (verfasst etwa im 6.-4. Jahrhundert v. Chr.) liefert die zentrale Artikulation der Figur in der hebräischen Bibel. Die Figur erscheint in {% libref(book="job-woh", chapter=1, verse=6) %}Hiob 1,6-12{% end %} und {% libref(book="job-woh", chapter=2, verse=1) %}Hiob 2,1-7{% end %} als Mitglied des göttlichen Rates (*benei ha-Elohim*, „Söhne Elohims“), das als adversarialer Prüfer fungiert. Die Figur steht auf kollegialem Fuß mit Jahwe; der Dialog ist institutionell statt antagonistisch; die Figur operiert mit ausdrücklicher Autorisierung Jahwes bei der Durchführung der Prüfung Hiobs.
+**Die Hiob-Episode**. Das Buch Hiob (verfasst etwa im 6.–4. Jahrhundert v. u. Z.) bietet die zentrale Artikulation. Die Figur erscheint in {% libref(book="job-woh", chapter=1, verse=6) %}Hiob 1,6-12{% end %} und {% libref(book="job-woh", chapter=2, verse=1) %}Hiob 2,1-7{% end %} als Mitglied des göttlichen Rates (*benei ha-Elohim*, „Söhne der Elohim“), das als adversarialer Prüfer handelt — auf kollegialem Fuß mit Jahwe, im institutionellen Dialog und mit ausdrücklicher Autorisierung durch Jahwe.
 
-**Die Sacharja-Episode**. Sacharja 3,1-2 (verfasst etwa im späten 6. bis frühen 5. Jahrhundert v. Chr.) bewahrt die Figur in ähnlicher institutioneller Rolle — stehend zur Rechten Josuas, des Hohepriesters, „um ihm zu widerstehen“ (*l'sitno*). Die Figur wird von Jahwe zurechtgewiesen, ist jedoch nicht als kosmisches Böses charakterisiert; die Figur operiert als institutionelle adversariale Opposition innerhalb der weiteren göttlichen Ratsstruktur.
+**Die Sacharja-Episode**. Sacharja 3,1-2 (spätes 6. bis frühes 5. Jahrhundert v. u. Z.) behält dieselbe institutionelle Rolle bei — die Figur steht zur Rechten des Hohepriesters Josua, „um ihm zu widerstehen“ (*l'sitno*). Jahwe weist sie zurecht, doch es handelt sich um adversariale Opposition innerhalb des Rates, nicht um kosmisches Böses.
 
-**Die Transformation des Chronisten**. {% libref(book="1-chronicles", chapter=21, verse=1) %}1 Chronik 21,1{% end %} (verfasst etwa im 4. Jahrhundert v. Chr.) bewahrt eine substanziell andere Figuration — „Satan stand auf gegen Israel und reizte David, Israel zu zählen.“ Die parallele Passage in {% libref(book="2-samuel", chapter=24, verse=1) %}2 Samuel 24,1{% end %} schreibt das Anstiften Jahwe selbst zu: „Wiederum entbrannte der Zorn Jahwes gegen Israel, und er reizte David gegen sie.“ Die Substitution des Chronisten verzeichnet die frühe Entwicklung Satans als unabhängigere Figur, getrennt von der direkten Handlung Jahwes.
+**Die Verschiebung beim Chronisten**. {% libref(book="1-chronicles", chapter=21, verse=1) %}1 Chronik 21,1{% end %} (um das 4. Jahrhundert v. u. Z.) weicht ab: „Satan stand auf gegen Israel und reizte David, Israel zählen zu lassen.“ Die Parallele {% libref(book="2-samuel", chapter=24, verse=1) %}2 Samuel 24,1{% end %} schreibt die Anstiftung Jahwe zu: „Und der Zorn Jahwes entbrannte abermals gegen Israel, und er reizte David gegen sie.“ Die Ersetzung markiert Satans frühe Entwicklung zu einer Figur, die vom direkten Handeln Jahwes unabhängig ist.
 
-**Der breitere Kontext der hebräischen Bibel**. Die weitere Behandlung der *satan*-Figur in der hebräischen Bibel ist im Vergleich zu späteren Traditionen substanziell begrenzt. Die Figur erscheint nicht in Genesis, Exodus oder anderem frühen Pentateuch-Material als zentrale kosmische Figur; die Eden-Schlange wird im hebräischen Text nicht als Satan identifiziert{{ cite(id="genesis", text="[4]", title="Genesis — die Eden-Schlangen-Erzählung (Kapitel 3); die Figur wird im hebräischen Text nicht als Satan identifiziert") }} (die Identifikation ist eine nachbiblische theologische Entwicklung); die weitere Personifikation kosmischen Bösen ist in der hebräischen Bibel selbst substanziell abwesend.
+**Der weitere Kontext**. Die Behandlung in der hebräischen Bibel ist im Vergleich zur späteren Tradition begrenzt. Die Figur ist in Genesis, Exodus oder dem frühen Pentateuch keine kosmische Präsenz; die Schlange in Eden wird im hebräischen Text nicht als Satan identifiziert{{ cite(id="genesis", text="[4]", title="Genesis — die Erzählung von der Schlange in Eden (Kapitel 3); die Figur wird im hebräischen Text nicht als Satan identifiziert") }} (eine nachbiblische Identifizierung); die Personifikation des kosmischen Bösen fehlt in der hebräischen Bibel.
 
-### Die Entwicklungen der Zweiten-Tempel-Periode
+### Die Entwicklungen der Zeit des Zweiten Tempels
 
-Die Zweite-Tempel-Periode (etwa 6. Jahrhundert v. Chr. bis 1. Jahrhundert n. Chr.) brachte substanzielle Entwicklungen in der Satan-Figuration hervor, welche die nachfolgende Rezeption der christlichen Tradition substanziell prägten.
+Die Zeit des Zweiten Tempels (um das 6. Jahrhundert v. u. Z. bis 1. Jahrhundert u. Z.) formte die Gestaltung des *satan* um und prägte die spätere christliche Rezeption.
 
-**Der persisch-dualistische Einfluss**. Die zoroastrische religiöse Tradition des achämenidisch-persischen Reiches umfasste einen substanziellen kosmisch-dualistischen Rahmen — Ahura Mazda (das Prinzip des Guten) gegen Angra Mainyu / Ahriman (das Prinzip des Bösen). Der jüdisch-kulturelle religiöse Kontakt mit dem Zoroastrismus während der nachexilischen Periode brachte einen substanziellen Einfluss auf die Entwicklung des jüdischen dämonologischen Denkens hervor, wobei die ursprünglich begrenzte *satan*-Figur schrittweise Aspekte des zoroastrischen dualistischen Rahmens absorbierte.
+**Persischer Dualismus**. Der achämenidische Zoroastrismus stellte Ahura Mazda (gut) Angra Mainyu / Ahriman (böse) gegenüber. Der nachexilische jüdische Kontakt mit ihm prägte die jüdische Dämonologie, und die begrenzte *satan*-Figur nahm Aspekte des dualistischen Rahmens auf.
 
-**Die Wächter-Tradition**. Der {% wiki(slug="book-of-enoch") %}1-Henoch-Korpus{% end %} (verfasst etwa im 3. Jahrhundert v. Chr. bis 1. Jahrhundert n. Chr.) bewahrt die substanzielle Entwicklung der Engelsrebellions-Erzählung in Anlehnung an das *benei ha-Elohim*-Material von {% libref(book="genesis-woh", chapter=6, verse=1) %}Genesis 6,1-4{% end %}. Die Wächter (spezifisch benannte Engel, die zur Erde herabstiegen und mit menschlichen Frauen Nachkommen zeugten, mit Azazel als einem zentralen Anführer) werden gemäß dem Rahmen von 1 Henoch zur zentralen Quelle des Bösen in der Welt.{{ cite(id="1-enoch-the-book-of-the-watchers", text="[5]", title="*1 Henoch: Das Buch der Wächter* — Wächter-und-Azazel-Material als zentrale Quelle des Zweiten Tempels für die Entwicklung der Figur des kosmischen Bösen") }}{{ cite(id="book-of-enoch", text="[6]", title="*Buch Henoch* — die Ausarbeitung der Engelsrebellions-Erzählung im weiteren henochischen Korpus") }} Das Wächter-Material prägt die Entwicklung der Traditionen der Figur des kosmischen Bösen im Judentum des Zweiten Tempels substanziell.
+**Die Wächter**. {% wiki(slug="book-of-enoch") %}1 Henoch{% end %} (um das 3. Jahrhundert v. u. Z. bis 1. Jahrhundert u. Z.) entwickelt die Erzählung von der Engelsrebellion aus dem Material über die *benei ha-Elohim* in {% libref(book="genesis-woh", chapter=6, verse=1) %}Genesis 6,1-4{% end %}. Die Wächter — namentlich genannte Engel, die herabstiegen und mit menschlichen Frauen Nachkommen zeugten, Azazel unter ihren Anführern — werden in diesem Rahmen zur Hauptquelle des Bösen in der Welt.{{ cite(id="1-enoch-the-book-of-the-watchers", text="[5]", title="*1 Henoch: Das Buch der Wächter* — Material zu den Wächtern und Azazel als zentrale Quelle des Zweiten Tempels für die Entwicklung der Figur des kosmischen Bösen") }}{{ cite(id="book-of-enoch", text="[6]", title="*Buch Henoch* — die Ausarbeitung der Erzählung von der Engelsrebellion im weiteren henochischen Korpus") }} Das Material prägt die Traditionen des kosmischen Bösen im gesamten Judentum des Zweiten Tempels.
 
-**Die Entwicklungen der Qumran-Gemeinschaft**. Die Schriftrollen vom Toten Meer bewahren einen substanziellen dualistisch-kosmischen Rahmen mit der Opposition zwischen „Geist der Wahrheit“ und „Geist der Falschheit“ (oder „Belial“). Der theologische Rahmen der Qumran-Gemeinschaft verzeichnet eine substanzielle Entwicklung der Traditionen der Figur des kosmischen Bösen hin zu dem dualistischeren Rahmen, der das Christentum nachfolgend beeinflusste.
+**Qumran**. Die Schriftrollen vom Toten Meer stellen einen „Geist der Wahrheit“ einem „Geist des Frevels“ (oder „Belial“) gegenüber und treiben die Traditionen des kosmischen Bösen in Richtung des dualistischen Rahmens, der später das Christentum beeinflusste.
 
-**Die intertestamentliche Entwicklung der Satan-Luzifer-Verschmelzung**. Über die Zweite-Tempel-Periode hinweg konvergierten mehrere eigenständige Figuren schrittweise zur vereinheitlichten Figur des kosmischen Bösen der nachfolgenden christlichen Tradition. Die zentralen konvergierenden Figuren: das *satan* der hebräischen Bibel (institutionelle adversariale Opposition); die Eden-Schlange ({% libref(book="genesis-woh", chapter=3) %}Genesis 3{% end %}); die Morgenstern-Figur aus {% libref(book="isaiah-woh", chapter=14, verse=12) %}Jesaja 14,12{% end %} (hebräisch *helel ben schachar*, „Glänzender, Sohn der Morgenröte“); die Figur des Königs von Tyros aus {% libref(book="ezekiel-woh", chapter=28, verse=11) %}Ezechiel 28,11-19{% end %}; die Figuren der Wächter-Tradition; und verschiedene andere adversariale kosmische Figuren in der weiteren Literatur.
+**Die zwischentestamentliche Verschmelzung**. Im Laufe dieser Zeit liefen verschiedene Figuren auf die vereinte Figur des kosmischen Bösen der christlichen Tradition zu: der *satan* der hebräischen Bibel (institutionelle Opposition); die Schlange in Eden ({% libref(book="genesis-woh", chapter=3) %}Genesis 3{% end %}); der Morgenstern aus {% libref(book="isaiah-woh", chapter=14, verse=12) %}Jesaja 14,12{% end %} (hebräisch *helel ben shachar*, „Glänzender, Sohn der Morgenröte“); der König von Tyrus aus {% libref(book="ezekiel-woh", chapter=28, verse=11) %}Hesekiel 28,11-19{% end %}; die Wächter; und weitere adversariale Figuren.
 
 ### Die Entwicklung in der christlichen Tradition
 
-Die Entwicklung in der christlichen Tradition über das Neue Testament, die patristische, mittelalterliche und weitere christliche theologische Tradition brachte die Personifikationsfigur kosmischen Bösen hervor, welche die westliche religiös-kulturelle Vorstellungswelt seit nahezu zweitausend Jahren dominiert.
+Die Theologie des Neuen Testaments, der Kirchenväter und des Mittelalters brachte die Personifikation des kosmischen Bösen hervor, die die westliche Vorstellungswelt fast zweitausend Jahre lang beherrscht hat.
 
-**Die neutestamentliche Figur**. Das Neue Testament behandelt Satan substanziell als zentralen kosmischen Widersacher Jesu und der weiteren christlichen Mission. Die zentralen Passagen: die Wüstenversuchungs-Erzählung ({% libref(book="matthew-woh", chapter=4, verse=1) %}Matthäus 4,1-11{% end %}; {% libref(book="luke-woh", chapter=4, verse=1) %}Lukas 4,1-13{% end %}); die verschiedenen synoptischen Parallelen mit Dämonenbesessenheit und Exorzismus; die Bezugnahmen des Paulus auf Satan im paulinischen Korpus; die Drachen-Erzählung in {% libref(book="revelation-woh", chapter=12) %}Offenbarung 12{% end %}, die „den großen Drachen, die alte Schlange, die da heißt: der Teufel und Satan“ mit der eschatologischen Figur des kosmischen Bösen identifiziert.
+**Die Figur im Neuen Testament**. Das Neue Testament macht Satan zum zentralen kosmischen Widersacher Jesu und seiner Mission: die Prüfung in der Wüste ({% libref(book="matthew-woh", chapter=4, verse=1) %}Matthäus 4,1-11{% end %}; {% libref(book="luke-woh", chapter=4, verse=1) %}Lukas 4,1-13{% end %}); Besessenheit und Exorzismus bei den Synoptikern; die Verweise des Paulus; und der Drache aus {% libref(book="revelation-woh", chapter=12) %}Offenbarung 12{% end %}, „der große Drache, die alte Schlange, die da heißt der Teufel und Satan“.
 
-**Die patristisch-theologische Entwicklung**. Die frühchristliche theologische Tradition (Justin Märtyrer, Origenes, Augustinus, verschiedene andere) baute die Satan-Luzifer-Teufel-Figuration substanziell zur Personifikation kosmischen Bösen mit Sturz-aus-dem-Himmel-Erzählung in Anlehnung an Jesaja 14,12 und Lukas 10,18 aus.
+**Die Entwicklung bei den Kirchenvätern**. Justin der Märtyrer, Origenes, Augustinus und andere bauten die Figur Satan-Luzifer-Teufel zu einer Personifikation des kosmischen Bösen aus, mit einer Erzählung vom Sturz aus dem Himmel, die aus Jesaja 14,12 und Lukas 10,18 schöpfte.
 
-**Augustinus' grundlegende Synthese**. Augustinus von Hippo (354-430 n. Chr.) brachte eine substanzielle systematisch-theologische Behandlung der Satansfigur hervor, insbesondere in *Vom Gottesstaat* und verschiedenen anderen Werken. Augustinus' Rahmen prägte die mittelalterliche christlich-theologische Tradition substanziell, mit der Satansfigur als Personifikation kosmischen Bösen, die Gott in der kosmischen Geschichte gegenübersteht.
+**Augustinus**. Augustinus von Hippo (354–430 u. Z.) behandelte die Figur systematisch, besonders in *Vom Gottesstaat*, und gab das mittelalterliche Muster vor: Satan als Personifikation des kosmischen Bösen, die Gott durch die Geschichte hindurch entgegensteht.
 
-**Die mittelalterliche Dämonologie**. Die mittelalterlich-christliche theologische Tradition baute die Satansfigur substanziell zur ausgefeilten Dämonologie aus, die das westliche religiöse Denken für ein Jahrtausend dominieren sollte — die Figur des Teufels mit roter Haut, Hörnern, Hufen, die verschiedenen untergeordneten Dämonen, die ausgefeilte Höllen-Kosmologie, die substanzielle folkloristisch-kulturelle Rezeption.
+**Mittelalterliche Dämonologie**. Die mittelalterliche Theologie errichtete die ausgefeilte Dämonologie, die das westliche Denken ein Jahrtausend lang beherrschte — der Teufel mit roter Haut, Hörnern und Pferdefuß, untergeordnete Dämonen, eine detaillierte Hölle und eine breite volkstümliche Rezeption.
 
-**Die Reformation und nachreformatorische Entwicklungen**. Die protestantische Reformation (Luther, Calvin, verschiedene andere) bewahrte den mittelalterlichen Rahmen des kosmischen Bösen substanziell, während sie verschiedene spezifische theologische Ausarbeitungen modifizierte. Die nachreformatorische Periode brachte eine substanzielle Fortsetzung der Entwicklung der christlichen Satans-Theologie in verschiedenen denominationellen Traditionen hervor.
+**Reformation und danach**. Luther, Calvin und andere behielten den mittelalterlichen Rahmen des kosmischen Bösen bei und revidierten einzelne Punkte, und die Satanstheologie entwickelte sich in den Konfessionen weiter.
 
 ### Die islamische Tradition
 
-Die islamische Tradition bewahrt substanzielles paralleles Material zur Figur, die als **Schaytan** (شيطان) und **Iblis** (إبليس) bezeichnet wird.
+Der Islam bewahrt paralleles Material über **Schaitan** (شيطان) und **Iblis** (إبليس).
 
-**Iblis im Quran**. Der quranische Iblis ist die Figur, die sich auf göttlichen Befehl weigerte, sich vor Adam zu verneigen ({% libref(book="quran-woh", chapter=2, verse=34) %}Quran 2,34{% end %}, {% libref(book="quran-woh", chapter=7, verse=11) %}7,11-13{% end %}, {% libref(book="quran-woh", chapter=15, verse=28) %}15,28-44{% end %}, {% libref(book="quran-woh", chapter=17, verse=61) %}17,61-65{% end %}, {% libref(book="quran-woh", chapter=18, verse=50) %}18,50{% end %}, {% libref(book="quran-woh", chapter=20, verse=116) %}20,116{% end %}, {% libref(book="quran-woh", chapter=38, verse=71) %}38,71-85{% end %}). Iblis' Weigerung wird als Stolz und Rebellion gegen den göttlichen Befehl charakterisiert. Iblis wird Aufschub bis zum Tag des Gerichts gewährt, um die Menschheit zu prüfen, wobei die Prüfungsfunktion der institutionellen Rolle des hebräischen *satan* entspricht.
+**Iblis im Koran**. Iblis weigert sich auf göttlichen Befehl, sich vor Adam niederzuwerfen ({% libref(book="quran-woh", chapter=2, verse=34) %}Koran 2,34{% end %}, {% libref(book="quran-woh", chapter=7, verse=11) %}7,11-13{% end %}, {% libref(book="quran-woh", chapter=15, verse=28) %}15,28-44{% end %}, {% libref(book="quran-woh", chapter=17, verse=61) %}17,61-65{% end %}, {% libref(book="quran-woh", chapter=18, verse=50) %}18,50{% end %}, {% libref(book="quran-woh", chapter=20, verse=116) %}20,116{% end %}, {% libref(book="quran-woh", chapter=38, verse=71) %}38,71-85{% end %}). Seine Weigerung ist Hochmut und Auflehnung, und ihm wird Aufschub bis zum Gericht gewährt, um die Menschheit zu prüfen — eine Prüfungsfunktion, die dem hebräischen *satan* entspricht.
 
-**Schaytan als breitere Kategorie**. Der quranische *Schaytan* (oft Plural *schayatin*) operiert als breitere Kategorie adversarialer Figuren, einschließlich Iblis und verschiedener untergeordneter adversarialer Entitäten. Die Kategorie fungiert grundsätzlich als Versucher und adversariale Figuren im weiteren islamischen theologischen Rahmen.
+**Schaitan als Kategorie**. Der koranische *schaitan* (Plural *schayatin*) ist eine weitere Klasse adversarialer Figuren — Iblis und untergeordnete Wesen —, die als Versucher wirken.
 
-**Die Beziehung der islamischen Figur zur hebräisch-christlichen Tradition**. Die islamische Iblis-/Schaytan-Figur teilt substanziell strukturell-funktionalen Inhalt mit der hebräisch-christlichen Satan-Tradition, während sie eigenständigen theologisch-narrativen Inhalt innerhalb des islamischen Rahmens entwickelt. Die Sturz-aus-göttlicher-Gunst-Erzählung, die Prüfungsfunktion-Rolle und die weitere adversarial-kosmische Position entsprechen dem weiteren hebräisch-christlichen Rahmen.
+**Verhältnis zur hebräisch-christlichen Tradition**. Iblis/Schaitan teilt strukturelle und funktionale Inhalte mit dem hebräisch-christlichen *satan* und entwickelt zugleich eine eigene Theologie: der Verlust der Gunst, die Prüfungsrolle und die adversariale Position entsprechen alle dem früheren Rahmen.
 
-### Die wissenschaftliche Mainstream-Auseinandersetzung
+### Die etablierte wissenschaftliche Auseinandersetzung
 
-Die Mainstream-Forschung zur hebräischen Bibel und zu Bibelwissenschaften hat substanzielle Arbeit hervorgebracht, die die *satan*-Figur der hebräischen Bibel von der späteren christlich-theologischen Personifikation kosmischen Bösen unterscheidet.
+Die etablierte Forschung zur hebräischen Bibel hat daran gearbeitet, den *satan* von der späteren Personifikation des kosmischen Bösen zu unterscheiden. **Peggy L. Day** (1988), **Marvin H. Pope** (1973), **Norman C. Habel** (1985), **Jeffrey Burton Russells** vierbändige Geschichte, **Elaine Pagels** (1995) und **Henry Ansgar Kelly** (2006) sind die wichtigsten Stimmen — ausführlich behandelt unter *Moderne Neudeutungen* weiter unten. Kellys *Satan: A Biography* stimmt strukturell mit der Darstellung der Verschmelzung durch den Korpus überein, arbeitet aber mit der Begründung der etablierten historischen Philologie.
 
-**Peggy L. Days grundlegende Forschung**. **Peggy L. Days** *An Adversary in Heaven: Satan in the Hebrew Bible* (Scholars Press, 1988) lieferte die zentrale grundlegende wissenschaftliche Auseinandersetzung mit der *satan*-Figur der hebräischen Bibel. Days zentrale These: Das *satan* der hebräischen Bibel ist eine substanziell begrenzte und institutionelle Figur und nicht die Personifikation kosmischen Bösen späterer Tradition. Days Rahmen stimmt substanziell mit der spezifischen Position des Korpus zum institutionellen statt kosmisch-bösen Charakter der Figur überein.
+**Mauro Biglinos streng übersetzungsbezogener Ansatz**. Biglinos Arbeit zur hebräischen Bibel (*The Naked Bible: The Truth About the Most Famous Book in History*, mit Giorgio Cattaneo, Uno, 2022){{ cite(id="the-naked-bible", text="[7]", title="Biglino & Cattaneo, *The Naked Bible* (2022) — streng wörtliche Übersetzung aus dem Hebräischen, einschließlich des *satan*-Materials") }} stimmt beim ursprünglichen Charakter der Figur mit dem Korpus überein und argumentiert, dass streng wörtliches Hebräisch Inhalte offenlegt, die die etablierte Übersetzung verdeckt.{{ cite(id="the-bible-is-not-a-sacred-book", text="[8]", title="Biglino, *The Book That Will Forever Change Our Ideas About the Bible* / *The Bible Is Not a Sacred Book* — streng wörtliche Reihe zur hebräischen Bibel, grundlegendes philologisches Argument") }}
 
-**Marvin H. Popes Hiob-Kommentar**. **Marvin H. Popes** *Job* (Anchor Bible, Doubleday, 1965; 3. Aufl., 1973) lieferte eine substanzielle wissenschaftliche Behandlung der Hiob-Episode mit detaillierter Auseinandersetzung mit dem institutionellen Charakter der hebräischen *satan*-Figur innerhalb des Rahmens des göttlichen Rates.
-
-**Norman C. Habels Hiob-Forschung**. **Norman C. Habels** *The Book of Job* (Westminster Press, 1985) lieferte eine substanzielle ergänzende wissenschaftliche Behandlung des Hiob-Materials mit substanzieller Aufmerksamkeit für die institutionelle Rolle der Figur.
-
-**Jeffrey Burton Russells vierbändige Reihe**. **Jeffrey Burton Russells** umfassende wissenschaftliche Geschichte — *The Devil: Perceptions of Evil from Antiquity to Primitive Christianity* (Cornell University Press, 1977), *Satan: The Early Christian Tradition* (Cornell University Press, 1981), *Lucifer: The Devil in the Middle Ages* (Cornell University Press, 1984) und *Mephistopheles: The Devil in the Modern World* (Cornell University Press, 1986) — lieferte die zentrale grundlegende wissenschaftliche Geschichte der Satan-Teufel-Luzifer-Figuration über ungefähr dreitausend Jahre religiös-kultureller Entwicklung. Russells Rahmen dokumentierte substanziell die historische Entwicklung von der begrenzten Figur der hebräischen Bibel zur ausgefeilten mittelalterlich-modernen Personifikation kosmischen Bösen.
-
-**Elaine Pagels' *The Origin of Satan***. **Elaine Pagels'** *The Origin of Satan* (Random House, 1995) lieferte substanzielle nachfolgende wissenschaftliche Auseinandersetzung mit der frühchristlichen Entwicklung der Satansfigur, mit besonderer Aufmerksamkeit für die sozial-politischen Funktionen des Rahmens der Personifikation kosmischen Bösen in der Selbstdefinition der frühchristlichen Gemeinschaft gegenüber verschiedenen rivalisierenden Gruppen.
-
-**Henry Ansgar Kellys revisionistische Forschung**. **Henry Ansgar Kellys** *Satan: A Biography* (Cambridge University Press, 2006) lieferte substanziell revisionistische Forschung mit dem Argument, dass die Personifikationsfigur kosmischen Bösen der mittelalterlich-christlichen Tradition substanziell verschieden von der ursprünglichen Figur der hebräischen Bibel ist, mit substanzieller historisch-entwicklungsbezogener Analyse, die den Verschmelzungsprozess nachzeichnet. Kellys Rahmen verzeichnet substanzielle strukturelle Übereinstimmung mit der spezifischen Position des Korpus zur Verschmelzungsgeschichte, während er von eigenständiger Quellenmaterial-Berechtigung aus operiert.
-
-**Mauro Biglinos streng-übersetzerischer Ansatz**. **Mauro Biglinos** weitere Arbeit zur hebräischen Bibel (*Die nackte Bibel: Die Wahrheit über das berühmteste Buch der Geschichte*, mit Giorgio Cattaneo, Uno, 2022){{ cite(id="the-naked-bible", text="[7]", title="Biglino & Cattaneo, *Die nackte Bibel* (2022) — streng wörtliche Übersetzung des Hebräischen, einschließlich des *satan*-Materials") }} bewahrt substanzielle Übereinstimmung mit dem Rahmen des Korpus zum ursprünglichen Charakter der Satan-Figuration, mit substanziellem Schwerpunkt auf der streng wörtlichen hebräischen Übersetzung, die Inhalte freilegt, die Mainstream-Übersetzungstraditionen systematisch verdeckt haben.{{ cite(id="the-bible-is-not-a-sacred-book", text="[8]", title="Biglino, *Das Buch, das unsere Vorstellungen von der Bibel für immer verändern wird* / *Die Bibel ist kein heiliges Buch* — Reihe zur streng wörtlichen Übersetzung der hebräischen Bibel, grundlegendes philologisches Argument") }}
-
-Die Beziehung des Rahmens zur Mainstream-Forschung ist eine der **substanziellen Übereinstimmung mit substanzieller interpretatorischer Erweiterung**. Die Anerkennung des ursprünglich begrenzten und institutionellen Charakters der Figur in der Forschung zur hebräischen Bibel stimmt weitgehend mit der spezifischen Position des Korpus überein; der besondere analytische Beitrag des Korpus ist die Vier-Figuren-Taxonomie, die Satan von Luzifer, der Schlange und dem Teufel mit operativer Spezifität unterscheidet, welche die Mainstream-Forschung nicht hervorgebracht hat.
+Der Rahmen stimmt mit der etablierten Forschung im ursprünglich begrenzten und institutionellen Charakter der Figur überein; sein eigener Beitrag ist die Vier-Figuren-Taxonomie, die Satan von Luzifer, der Schlange und dem Teufel mit einer operativen Genauigkeit unterscheidet, die die etablierte Forschung nicht hervorgebracht hat.
 
 ## In den Primärquellen
 
-Das zentrale primärquellenbezogene Material des Rahmens zu Satan ist in mehreren von Jahwe übermittelten Passagen in den raëlianischen Quellenmaterial-Büchern enthalten, mit substanzieller nachfolgender Korpus-Entwicklung in *timeline.epub*.
+Das Primärquellenmaterial zu Satan ist eine Reihe von durch Jahwe übermittelten Passagen in den raëlianischen Büchern, mit späterer Entwicklung in *timeline.epub*.
 
 ### Die Hiob-Passage in *Das Buch, das die Wahrheit sagt*
 
-Die zentrale anfängliche Quellenmaterial-Passage, die Satans spezifische institutionelle Rolle etabliert, erscheint in *Das Buch, das die Wahrheit sagt* (1974), im Abschnitt „Satan“. Die spezifische Artikulation Jahwes{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *Das Buch, das die Wahrheit sagt* (1974) — Abschnitt „Satan“, Exegese der Hiob-Passage") }}:
+Die erste Passage, die Satans institutionelle Rolle festlegt, findet sich in *Das Buch, das die Wahrheit sagt* (1974), im Abschnitt „Satan“{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *Das Buch, das die Wahrheit sagt* (1974) — Abschnitt „Satan“, Exegese der Hiob-Passage") }}:
 
 > *„Im Buch Hiob, Kapitel 1, habt ihr die Erklärung von Satan:“*
 > 
 > > *„Es begab sich aber eines Tages, da die Söhne Elohims kamen und vor Jahwe traten, kam der Satan auch unter ihnen. — Hiob 1,6“*
 > 
-> *„Elohim bedeutet im Hebräischen wörtlich ‚jene, die vom Himmel kamen'. Die ‚Söhne Elohims', mit anderen Worten die Schöpfer, die die Menschen beobachten, berichten regelmäßig auf ihrem Heimatplaneten und teilen größtenteils mit, dass die Menschen die Elohim verehren und lieben. Doch einer dieser Elohim, genannt Satan, war Teil einer Gruppe, die die Erschaffung anderer intelligenter Wesen auf einem Planeten so nah wie der Erde stets verurteilt hatte, da sie diese als mögliche Bedrohung sah. Als er Hiobs Hingabe sah, die eines der besten Beispiele dafür war, wie Menschen ihre Schöpfer lieben, sagte er deshalb:“*
+> *„Elohim bedeutet im Hebräischen wörtlich ‚jene, die vom Himmel kamen‘. Die ‚Söhne Elohims‘, mit anderen Worten die Schöpfer, die die Menschen beobachten, berichten regelmäßig auf ihrem Heimatplaneten und teilen größtenteils mit, dass die Menschen die Elohim verehren und lieben. Doch einer dieser Elohim, genannt Satan, war Teil einer Gruppe, die die Erschaffung anderer intelligenter Wesen auf einem Planeten so nah wie der Erde stets verurteilt hatte, da sie diese als mögliche Bedrohung sah. Als er Hiobs Hingabe sah, die eines der besten Beispiele dafür war, wie Menschen ihre Schöpfer lieben, sagte er deshalb:“*
 > 
-> > *„Hat Hiob umsonst Elohim gefürchtet?... Aber strecke nun deine Hand aus und taste alles an, was er hat, so wird er dir ins Angesicht abschwören. Und Jahwe sprach zu Satan: ‚Siehe, alles, was er hat, sei in deiner Hand; nur an ihn selbst lege deine Hand nicht.' — Hiob 1,9-12“*
+> > *„Hat Hiob umsonst Elohim gefürchtet?... Aber strecke nun deine Hand aus und taste alles an, was er hat, so wird er dir ins Angesicht abschwören. Und Jahwe sprach zu Satan: ‚Siehe, alles, was er hat, sei in deiner Hand; nur an ihn selbst lege deine Hand nicht.‘ — Hiob 1,9-12“*
 > 
 > *„Als die Regierung Satans Behauptung hörte, dass Hiob, wäre er nicht reich gewesen, seine Schöpfer nicht geliebt hätte, gab sie Satan die volle Macht, Hiob zu ruinieren. Dann würde man sehen, ob er seine Schöpfer noch verehrte, und deshalb war es verboten, ihn zu töten.“*
 > 
@@ -376,388 +364,243 @@ Die zentrale anfängliche Quellenmaterial-Passage, die Satans spezifische instit
 > 
 > *„Schließlich heilten die Schöpfer angesichts der Demut Hiobs ihn und gaben ihm seinen Wohlstand, seine Kinder und seine Gesundheit zurück.“*
 
-Die Passage etabliert mehrere zusammenhängende Rahmen-Komponenten:
+Die Passage legt mehrere Bestandteile fest:
 
-**1. Satans spezifische institutionelle Position**. Satan ist „einer dieser Elohim, genannt Satan“, der Teil „einer Gruppe ist, die die Erschaffung anderer intelligenter Wesen auf einem Planeten so nah wie der Erde stets verurteilt hatte, da sie diese als mögliche Bedrohung sah.“ Die institutionelle Position ist als fraktionell-politisch innerhalb der weiteren Ratsstruktur verzeichnet.
+**1. Institutionelle Position**. Satan ist „einer dieser Elohim, genannt Satan“, Teil „einer Gruppe, die die Erschaffung anderer intelligenter Wesen auf einem Planeten so nah wie der Erde stets verurteilt hatte, da sie diese als mögliche Bedrohung sah“ — eine Fraktion innerhalb des Rates.
 
-**2. Die kollegiale Jahwe-Satan-Beziehung**. Der Hiob-Dialog verzeichnet, was die Quelle als „gute Beziehungen oder sogar brüderliche Beziehungen zwischen Jahwe und Satan“ beschreibt. Jahwe ist die ranghöhere Autorität; Satan ist Anführer der Oppositionspartei; das institutionelle Protokoll ist normales politisch-deliberatives Verfahren statt einer kosmisch-gut-gegen-kosmisch-böse-Begegnung.
+**2. Kollegiales Verhältnis**. Der Dialog zeigt „gute Beziehungen, ja sogar brüderliche Beziehungen zwischen Jahwe und Satan“. Jahwe ist die höhere Autorität, Satan der Oppositionsführer; der Austausch ist gewöhnliche politische Beratung, nicht Gut gegen Böse.
 
-**3. Das Prüfungsprotokoll**. Satan prüft Hiobs Loyalität zu den Schöpfern durch systematischen Ruin und Krankheit, mit ausdrücklicher Autorisierung Jahwes und ausdrücklichen operativen Grenzen („nur an ihn selbst lege deine Hand nicht“; anschließend „schone sein Leben“). Das Protokoll ist institutionell-verfahrensrechtlich statt böswillig-aggressiv.
+**3. Prüfungsprotokoll**. Satan prüft Hiobs Treue durch Ruin und Krankheit, unter ausdrücklicher Autorisierung und mit Grenzen, die Jahwe setzt („nur an ihn selbst lege deine Hand nicht“; dann „doch schone sein Leben“) — verfahrensmäßig, nicht bösartig.
 
-**4. Die Lösung nach der Prüfung**. Nach dem Beweis von Hiobs Loyalität „heilten die Schöpfer ihn und gaben ihm seinen Wohlstand, seine Kinder und seine Gesundheit zurück.“ Der institutionell-verfahrensrechtliche Charakter ist durch die systematische Wiederherstellung bewahrt.
+**4. Auflösung**. Sobald sich Hiobs Treue bewährt, „heilten die Schöpfer ihn und gaben ihm seinen Wohlstand, seine Kinder und seine Gesundheit zurück“ — die Wiederherstellung bestätigt den verfahrensmäßigen Charakter.
 
 ### Die Passage „Die Menschen konnten nicht verstehen“
 
-Die zentrale nachfolgende Quellenmaterial-Passage, die den weiteren Rahmen der Söhne Elohims etabliert, erscheint in *Die Außerirdischen führten mich auf ihren Planeten* (1975). Die Passage situiert Satans Position innerhalb der weiteren fraktionellen Dynamik{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Die Außerirdischen führten mich auf ihren Planeten* (1975) — Abschnitt „Die Menschen konnten nicht verstehen“, vorsintflutlicher Kontext der Vernichtungsentscheidung") }}:
+Die nächste Passage, in *Außerirdische brachten mich auf ihren Planeten* (1975), verortet Satan innerhalb der Dynamik der Fraktionen{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Außerirdische brachten mich auf ihren Planeten* (1975) — Abschnitt „Die Menschen konnten nicht verstehen“, vorsintflutlicher Kontext der Vernichtungsentscheidung") }}:
 
-> *„Mit dem Vergehen der Zeit sammelt Satan Beweise der Aggression des Menschen, indem er beobachtet, wie die Menschen einander mit den Waffen töten, die ihnen von den Söhnen der exilierten Gruppe der Elohim Luzifers gegeben werden. Letztere ist in ‚zärtliche' Beziehungen mit den Töchtern der Menschen verwickelt, die es schaffen, Waffen im Tausch gegen ihre Reize zu erhalten, unter dem falschen Vorwand, sie ihren Vätern oder Brüdern zu geben, damit diese auf Nahrungsjagd gehen können. Tatsächlich entscheiden sich die Menschen jedoch dafür, mit diesem Arsenal abscheuliche Schlachten untereinander zu führen.“*
+> *„Mit dem Vergehen der Zeit sammelt Satan Beweise der Aggression des Menschen, indem er beobachtet, wie die Menschen einander mit den Waffen töten, die ihnen von den Söhnen der exilierten Gruppe der Elohim Luzifers gegeben werden. Letztere ist in ‚zärtliche‘ Beziehungen mit den Töchtern der Menschen verwickelt, die es schaffen, Waffen im Tausch gegen ihre Reize zu erhalten, unter dem falschen Vorwand, sie ihren Vätern oder Brüdern zu geben, damit diese auf Nahrungsjagd gehen können. Tatsächlich entscheiden sich die Menschen jedoch dafür, mit diesem Arsenal abscheuliche Schlachten untereinander zu führen.“*
 > 
 > *„Angesichts der Beweise eines solchen Gemetzels, die Satan vor den Rat der Ewigen bringt, beschließt Jahwe zu tun, was Satan verlangt, das heißt, das auf der Erde geschaffene Leben vollständig zu vernichten und damit zugleich Luzifers Gruppe die Rückkehr auf ihren eigenen Planeten zu erlauben und ihr zu vergeben, womit ihr Exil beendet wird.“*
 
-Die Passage etabliert Satans spezifische Rolle im vorsintflutlichen Kontext der Vernichtungsentscheidung:
+Die Passage legt Satans Rolle bei der vorsintflutlichen Vernichtungsentscheidung fest:
 
-**1. Die Beweissammlungs-Funktion**. Satan sammelt Beweise menschlicher Aggression durch systematische Beobachtung der Entwicklungen auf der Erde, wobei die substanzielle vorsintflutliche menschliche Gewalt das substanzielle empirische Material für die Oppositionsposition liefert.
+**1. Sammlung von Belegen**. Satan sammelt Beweise menschlicher Aggression, indem er die Erde beobachtet; die vorsintflutliche Gewalt liefert das Material für den Fall der Opposition.
 
-**2. Die Ratspräsentation**. Satan bringt die gesammelten Beweise vor den Rat der Ewigen — das institutionell-politische Verfahren, durch das die Vernichtungsentscheidung getroffen wurde.
+**2. Vorlage im Rat**. Er bringt die Belege vor den Rat der Ewigen, das Verfahren, durch das die Vernichtung beschlossen wurde.
 
-**3. Die Verschiebung Jahwes**. Jahwe, der ursprünglich die menschliche Schöpfung unterstützt und sich den Vernichtungsforderungen der Satan-Fraktion in den Jahrhunderten widersetzt hatte, als die Bedrohung spekulativ war, wechselt zur Vernichtungsposition aufgrund der nachgewiesenen Beweise, welche die Satan-Fraktion gesammelt hat.
+**3. Jahwes Wandel**. Jahwe, der die menschliche Schöpfung unterstützt und den Vernichtungsforderungen der Fraktion widerstanden hatte, solange die Bedrohung spekulativ war, wendet sich nun aufgrund der gesammelten Belege der Vernichtung zu.
 
-### Die Passage zur nachsintflutlichen Transformation
+### Die Passage zur nachsintflutlichen Wandlung
 
-Die zentrale nachfolgende Quellenmaterial-Passage, die Satans nachsintflutliche Transformation etabliert, erscheint im selben Quellenmaterial-Buch{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Die Außerirdischen führten mich auf ihren Planeten* (1975) — Entdeckung der Kosmischen Kette und nachsintflutliches Ratsvotum") }}:
+Satans nachsintflutliche Wandlung erscheint im selben Buch{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Außerirdische brachten mich auf ihren Planeten* (1975) — Entdeckung der Kosmischen Kette und nachsintflutliches Ratsvotum") }}:
 
-> *„Erst dann entdeckten die Elohim, dass auch sie auf dieselbe Weise erschaffen worden waren, wie sie den Menschen erschaffen hatten, wissenschaftlich, in einem Labor, durch andere Leute, die von einer anderen Welt kamen. Sie beschlossen dann, die Menschheit nie wieder zu vernichten, und halfen Luzifers Gruppe, die in der ‚Arche' bewahrten Lebensformen wieder anzusiedeln. Satan ist immer noch vom Bösen im Menschen überzeugt, doch er beugt sich der Mehrheit derer, die hinter Jahwe das Gegenteil im Rat der Ewigen denken. Jahwe verstand durch die Botschaft in dem unbemannten Raumschiff, das von einem anderen Planeten kam und auf ihrem Planeten landete, dass die Menschen sich ‚selbst zerstören' werden, wenn sie gewalttätig sind, sobald sie Energien entdecken, die ihnen den Eintritt in ein interplanetarisches Niveau der Zivilisation ermöglichen.“*
+> *„Erst dann entdeckten die Elohim, dass auch sie auf dieselbe Weise erschaffen worden waren, wie sie den Menschen erschaffen hatten, wissenschaftlich, in einem Labor, durch andere Leute, die von einer anderen Welt kamen. Sie beschlossen dann, die Menschheit nie wieder zu vernichten, und halfen Luzifers Gruppe, die in der ‚Arche‘ bewahrten Lebensformen wieder anzusiedeln. Satan ist immer noch vom Bösen im Menschen überzeugt, doch er beugt sich der Mehrheit derer, die hinter Jahwe das Gegenteil im Rat der Ewigen denken. Jahwe verstand durch die Botschaft in dem unbemannten Raumschiff, das von einem anderen Planeten kam und auf ihrem Planeten landete, dass die Menschen sich ‚selbst zerstören‘ werden, wenn sie gewalttätig sind, sobald sie Energien entdecken, die ihnen den Eintritt in ein interplanetarisches Niveau der Zivilisation ermöglichen.“*
 
-Die Passage etabliert Satans spezifische nachsintflutliche Position:
+Die Passage legt Satans nachsintflutliche Position fest:
 
-**1. Die Entdeckung der Kosmischen Kette**. Die Elohim entdeckten, dass auch sie selbst erschaffen worden waren — der zentrale kosmologische Rahmen, ausführlicher behandelt im Eintrag {% wiki(slug="cosmic-chain") %}Kosmische Kette{% end %}.
+**1. Die Kosmische Kette**. Die Elohim erfuhren, dass auch sie erschaffen worden waren — siehe den Eintrag {% wiki(slug="cosmic-chain") %}Kosmische Kette{% end %}.
 
-**2. Das Ratsvotum**. Der nachsintflutliche Rat stimmte ab, die Menschheit nie wieder zu vernichten, wobei die Entdeckung ihres eigenen geschaffenen Status den substanziellen Rahmen für die Politikumkehr lieferte.
+**2. Das Ratsvotum**. Der Rat beschloss, die Menschheit nie wieder zu vernichten, wobei ihr eigener Status als Geschaffene die Umkehr begründete.
 
-**3. Satans fortgesetzte Opposition mit institutioneller Unterordnung**. *„Satan ist immer noch vom Bösen im Menschen überzeugt, doch er beugt sich der Mehrheit derer, die hinter Jahwe das Gegenteil denken.“* Das institutionell-demokratische Ergebnis ist verzeichnet: Satans grundsätzliche Oppositionsposition besteht fort, doch Satan akzeptiert das institutionell-demokratische Ergebnis, statt aktive Opposition fortzusetzen.
+**3. Opposition mit Unterordnung**. *„Satan ist immer noch vom Bösen im Menschen überzeugt, doch er beugt sich der Mehrheit derer, die hinter Jahwe das Gegenteil denken.“* Seine grundsätzliche Opposition besteht fort, doch er nimmt das Mehrheitsergebnis an.
 
-### Die Propheten-Prüfungs-Passagen
+### Die Passagen zur Prophetenprüfung
 
-Die zentralen nachfolgenden Quellenmaterial-Passagen, die Satans institutionelle Propheten-Prüfungsrolle etablieren, erscheinen im Jesus-bezogenen Inhalt{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Die Außerirdischen führten mich auf ihren Planeten* (1975) — Propheten-Prüfungsfunktion und Etymologie von diabolos") }}:
+Satans Rolle bei der Prüfung der Propheten erscheint im Inhalt zu Jesus{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Außerirdische brachten mich auf ihren Planeten* (1975) — Funktion der Prophetenprüfung und Etymologie von diabolos") }}:
 
 > *„Botschaften von solcher Bedeutung konnten nur vertrauenswürdigen Menschen gegeben werden, und zuallererst mussten sich die Elohim vergewissern, dass ihre Auserwählten ihren Schöpfern treu waren, damit sie nicht verraten würden, was ihnen offenbart wurde. So wurde Satan die Verantwortung übertragen, die Propheten zu prüfen.“*
 > 
 > *„Wie werden sie die Treue dieser Menschen prüfen? Sobald eine Person von den Boten der Elohim kontaktiert worden ist und ihr von ihrer Mission erzählt wurde, würde Satan oder einer seiner Männer den künftigen Propheten kontaktieren und durch Verleumdung die Elohim in seinem Geist zerstören, indem er versucht, den Menschen dazu zu bringen, seine Väter abzuschwören oder seine Mission im Tausch gegen das Versprechen materieller Vorteile zu verraten. Was ist das Wort für Verleumder im Griechischen? Einfach diablos. Hier ist unser berühmter Teufel, doch er hat immer noch keine Hörner, keine Hufe...“*
 
-Die Passage etabliert:
+Die Passage legt fest:
 
-**1. Die institutionelle Propheten-Prüfungsrolle**. Satans nachsintflutliche institutionelle Funktion ist die systematische Prüfung der Propheten durch adversariales Verhörverfahren.
+**1. Die Prüfungsrolle**. Satans nachsintflutliche Funktion ist die systematische Prüfung der Propheten durch adversariales Verhör.
 
-**2. Die spezifische Prüfungsmethodologie**. Die Methodologie umfasst Verleumdung gegen die Elohim, Versuche, eine Abschwörung der Schöpferbeziehung herbeizuführen, und Angebote materieller Belohnung im Tausch gegen Missions-Verrat.
+**2. Methode**. Verleumdung der Elohim, Druck, den Schöpfern abzuschwören, und Angebote materieller Belohnung für Verrat.
 
-**3. Die Etymologie von diabolos**. Das griechische neutestamentliche Wort für „den Teufel“ — *diabolos* — bedeutet einfach „Verleumder“. Die Figur, die die Propheten durch Verleumdung prüft, ist der „Verleumder“ des institutionellen Verfahrens und nicht die Personifikation kosmischen Bösen der mittelalterlich-christlichen Theologie. Die spezifische Rahmung der Quelle — *„hier ist unser berühmter Teufel, doch er hat immer noch keine Hörner, keine Hufe“* — verzeichnet die besondere Position des Rahmens mit charakteristischer leiser Ironie.
+**3. Die Etymologie von *diabolos***. Das griechische Wort für „den Teufel“, *diabolos*, bedeutet „Verleumder“: die Figur, die Propheten durch Verleumdung prüft, nicht die Personifikation des kosmischen Bösen der mittelalterlichen Theologie. Die Rahmung der Quelle — *„hier ist unser berühmter Teufel, doch er hat immer noch keine Hörner, keine Hufe“* — macht den Punkt mit sanfter Ironie.
 
 ### Die Passagen zur Prüfung Jesu
 
-Die zentrale Quellenmaterial-Behandlung der Prüfung Jesu erscheint im weiteren Jesus-bezogenen Inhalt. Die Passagen zitieren die Wüstenversuchungs-Erzählung aus {% libref(book="matthew-woh", chapter=4, verse=1) %}Matthäus 4,1-11{% end %} mit substanzieller Exegese aus dem Quellenmaterial:
+Die Prüfung Jesu zitiert die Erzählung von der Wüste aus {% libref(book="matthew-woh", chapter=4, verse=1) %}Matthäus 4,1-11{% end %} mit Exegese:
 
-> *„Jesus zum Beispiel wurde für vierzig Tage in die Wüste gebracht, für seine Einweihungsperiode, und wurde zu bestimmten Zeiten mit ‚dem Teufel' konfrontiert, um zu sehen, ob er seinen Vater verleugnen würde:“*
+> *„Jesus zum Beispiel wurde für vierzig Tage in die Wüste gebracht, für seine Einweihungsperiode, und wurde zu bestimmten Zeiten mit ‚dem Teufel‘ konfrontiert, um zu sehen, ob er seinen Vater verleugnen würde:“*
 > 
 > > *„Da wurde Jesus vom Geist in die Wüste geführt, damit er vom Teufel versucht würde. — Matthäus 4,1“*
 > 
-> *„Oder, um es klarer zu sagen: ‚Jesus wurde in die Wüste gebracht, um von einem Verleumder geprüft zu werden.'“*
+> *„Oder, um es klarer zu sagen: ‚Jesus wurde in die Wüste gebracht, um von einem Verleumder geprüft zu werden.‘“*
 
-Die Passage wendet den Rahmen der Prüfung-durch-Verleumder auf die zentrale neutestamentliche Wüstenversuchungs-Erzählung an:
+Die Passage wendet die Lesart der Prüfung durch einen Verleumder auf die Erzählung von der Wüste an:
 
-**1. Die drei spezifischen Prüfungen**. Die Brot-Prüfung (Prüfung, ob Jesus seine Fähigkeiten für materiellen Komfort einsetzen wird), die Tempel-Prüfung (Prüfung, ob Jesus eine Intervention der Allianz fordern wird, um seinen Status zu beweisen) und die Königreich-Prüfung (Prüfung, ob Jesus seine Verpflichtung gegenüber der Allianz im Tausch gegen politische Macht aufgeben wird). Die drei Prüfungen decken die zentralen Kategorien ab, in denen eine prophetische Figur versagen könnte: Eigeninteresse, Stolz und weltlicher Ehrgeiz.
+**1. Drei Prüfungen**. Die Brotprüfung (seine Kräfte für die eigene Bequemlichkeit zu nutzen), die Tempelprüfung (ein Eingreifen der Allianz zu verlangen, um seinen Status zu beweisen) und die Prüfung der Königreiche (sein Bekenntnis gegen politische Macht einzutauschen) — sie decken Eigennutz, Hochmut und weltlichen Ehrgeiz ab.
 
-**2. Das erfolgreiche Ergebnis**. Jesus besteht alle drei Prüfungen und beweist Zuverlässigkeit für die weitere Mission.
+**2. Ergebnis**. Jesus besteht alle drei und erweist sich als zuverlässig.
 
-**3. Der Abschluss der Prüfung**. *„Da verließ ihn der Teufel; und siehe, Engel traten hinzu und dienten ihm.“* ({% libref(book="matthew-woh", chapter=4, verse=11) %}Matthäus 4,11{% end %}) — die Allianz-Offiziere nehmen den direkten Kontakt wieder auf, die operative Phase beginnt, und Jesus wird zu seiner Mission entlassen.
+**3. Abschluss**. *„Da verließ ihn der Teufel; und siehe, da traten Engel herzu und dienten ihm.“* ({% libref(book="matthew-woh", chapter=4, verse=11) %}Matthäus 4,11{% end %}) — die Offiziere der Allianz nehmen den Kontakt wieder auf, und Jesus wird für seine Mission freigegeben.
 
-### Die Ratsdebatten-Passage
+### Die Passage zur Ratsdebatte
 
-Die zentrale Quellenmaterial-Passage, die Satans fortgesetzte fraktionelle Position etabliert, erscheint in *Die Außerirdischen führten mich auf ihren Planeten* (1975), in der Erzählung des Treffens mit den Elohim{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Die Außerirdischen führten mich auf ihren Planeten* (1975) — Périgord-Treffen, Satans fortgesetzte Oppositionsposition") }}:
+Satans fortgesetzte Position als Fraktionsführer erscheint in *Außerirdische brachten mich auf ihren Planeten* (1975), in der Erzählung vom Treffen mit den Elohim{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Außerirdische brachten mich auf ihren Planeten* (1975) — Treffen im Périgord, Satans fortgesetzte Oppositionsposition") }}:
 
 > *„Ich muss euch warnen, dass es unter den Elohim nicht nur eine einzige Meinung über die Zukunft der Menschheit auf der Erde gibt. Jahwe denkt, dass die Menschen gut sind, und er ist der Auffassung, dass wir sie für sich allein fortschreiten lassen sollten, überzeugt davon, dass sie sich, sollten sie negativ sein, selbst zerstören werden.“*
 > 
 > *„Alle meine vielen Anhänger und ich denken, dass die Menschen böse sind und dass wir der Menschheit helfen sollten, ihre Selbstzerstörung zu beschleunigen.“*
 
-Die Passage verzeichnet Satans fortgesetzte Position innerhalb des nachsintflutlichen politischen Arrangements — die grundsätzliche Oppositionsposition ist bewahrt, wobei Satan weiterhin die Oppositionsfraktion der Heimatwelt über die gesamte nachsintflutliche Periode und bis in die Gegenwart anführt.
+Satan behält seine Opposition innerhalb der nachsintflutlichen Regelung bei und führt die Fraktion der Heimatwelt bis in die Gegenwart an.
 
-### Der weitere Quellenmaterial-Kontext
+### Der weitere Kontext des Quellenmaterials
 
-Satan operiert innerhalb des weiteren raëlianischen Quellenmaterial-Kontextes, mit substanziellem unterstützendem Material in mehreren Passagen:
+Unterstützendes Material erstreckt sich über mehrere Passagen:
 
-- Der Kontext des Heimatwelt-Prologs (der Laborzwischenfall und die ursprüngliche politische Schließung) ist mit der weiteren Behandlung des Heimatwelt-Prologs im Eintrag {% wiki(slug="dragons") %}Drachen{% end %} verbunden
-- Der Kontext der Vier-Figuren-Taxonomie ist mit den Einträgen {% wiki(slug="lucifer") %}Luzifer{% end %} und {% wiki(slug="serpent") %}Schlange{% end %} verbunden
-- Die politische Dynamik des Rates ist mit dem weiteren Eintrag {% wiki(slug="council-of-the-eternals") %}Rat der Ewigen{% end %} verbunden
-- Der Kontext der gemäßigten Position Jahwes ist mit dem weiteren Eintrag {% wiki(slug="yahweh") %}Jahwe{% end %} verbunden
-- Der Kontext der Vernichtungsentscheidung ist mit dem weiteren Eintrag {% wiki(slug="great-flood") %}Große Flut{% end %} verbunden
-- Der Kontext der Entdeckung der Kosmischen Kette ist mit dem weiteren Eintrag {% wiki(slug="cosmic-chain") %}Kosmische Kette{% end %} verbunden
-- Der Kontext der weiteren Theomachie-Erzählung ist mit dem weiteren Eintrag {% wiki(slug="theomachy") %}Theomachie{% end %} verbunden
-- Der Kontext der Prüfung Jesu ist mit dem weiteren Eintrag {% wiki(slug="jesus") %}Jesus{% end %} verbunden
+- Der Heimatwelt-Prolog (der Laborzwischenfall und die Schließung): {% wiki(slug="dragons") %}Drachen{% end %}
+- Die Vier-Figuren-Taxonomie: {% wiki(slug="lucifer") %}Luzifer{% end %} und {% wiki(slug="serpent") %}Schlange{% end %}
+- Die Dynamik im Rat: {% wiki(slug="council-of-the-eternals") %}Rat der Ewigen{% end %}
+- Jahwes gemäßigte Position: {% wiki(slug="yahweh") %}Jahwe{% end %}
+- Die Vernichtungsentscheidung: {% wiki(slug="great-flood") %}Sintflut{% end %}
+- Die Entdeckung der Kosmischen Kette: {% wiki(slug="cosmic-chain") %}Kosmische Kette{% end %}
+- Die Erzählung der Theomachie: {% wiki(slug="theomachy") %}Theomachie{% end %}
+- Die Prüfung Jesu: {% wiki(slug="jesus") %}Jesus{% end %}
 
 ## Der Inhalt der Figur
 
-### Satans spezifische fraktionell-politische Position
+### Satans fraktionell-politische Position
 
-Satans zentrale Charakterisierung innerhalb des Rahmens umfasst mehrere zusammenhängende Komponenten.
-
-**Der Status als Fraktionsanführer**. Satan ist der Anführer der Oppositionspartei des Rates — der politischen Fraktion innerhalb der Elohim-Zivilisation, die sich konsequent gegen die Erschaffung synthetischer Wesen gewandt hat, die ihren Schöpfern ebenbürtig oder überlegen werden könnten. Der Status als Fraktionsanführer verzeichnet Satan als institutionelle politische Figur statt als Personifikation kosmischen Bösen.
-
-**Das Argument grundsätzlicher Opposition**. Das zentrale Argument der Opposition: Synthetische Schöpfungen, die ihren Schöpfern ebenbürtig sind, sind grundsätzlich gefährlich, und kein Protokoll, keine Aufsicht und keine geographische Distanz kann dem Risiko zuverlässig Einhalt gebieten. Das Argument wird als grundsätzliche Position statt als böswillig-kosmisch-böse Veranlagung vorgebracht. Der substanzielle Inhalt des Arguments hat substanzielle empirisch-historische Relevanz — der Laborzwischenfall auf der Heimatwelt, die menschliche Aggression während der vorsintflutlichen Periode und verschiedene nachfolgende Ereignisse menschlicher Gewalt liefern substanzielles empirisches Material, auf das Satans Fraktion zur Unterstützung der Position verweisen konnte.
-
-**Die institutionelle Konsistenz**. Satans Position ist seit vor dem Beginn des Erdprogramms konsistent. Die Position ist keine Entwicklung über den weiteren Erzählbogen hinweg; sie ist die grundlegende Position, die Satan und seine Fraktion durchgehend gehalten haben. Die Konsistenz verzeichnet Satan als grundsätzlich-oppositionelle Figur statt als opportunistisch-politische Figur.
-
-**Die kollegiale Beziehung zu Jahwe**. Der Dialog der Hiob-Episode, in dem Jahwe und Satan in normales institutionell-politisches Gespräch eintreten, verzeichnet die substanzielle kollegiale Beziehung zwischen den beiden Figuren. Die spezifische Rahmung der Quelle: „gute Beziehungen oder sogar brüderliche Beziehungen zwischen Jahwe und Satan.“ Die Beziehung ist institutionell-politisch statt eine kosmisch-gut-gegen-kosmisch-böse-Opposition.
+Satan führt die Oppositionspartei des Rates — die Fraktion, die sich beständig gegen die Erschaffung synthetischer Wesen gewandt hat, die ihren Schöpfern ebenbürtig werden oder sie übertreffen könnten. Ihr Argument: Solche Schöpfungen sind gefährlich, und kein Protokoll, keine Aufsicht und keine geografische Distanz kann das Risiko eindämmen. Satan vertritt dies als grundsätzliche Position, nicht aus Bosheit, und verweist auf empirische Stützen — den Laborzwischenfall auf der Heimatwelt, die vorsintflutliche menschliche Aggression und spätere Gewalt. Die Position gilt seit der Zeit vor dem Beginn des Erdprogramms; sie ist grundlegend, nicht opportunistisch. Und der Hiob-Dialog zeigt ein kollegiales Verhältnis — „gute Beziehungen, ja sogar brüderliche Beziehungen zwischen Jahwe und Satan“ —, institutionelle Politik, nicht Gut gegen Böse.
 
 ### Die Vier-Figuren-Taxonomie
 
-Der zentrale analytische Beitrag des Rahmens ist die sorgfältige Unterscheidung Satans von drei weiteren eigenständigen Figuren und Rollen, welche die westliche religiöse Mainstream-Tradition schrittweise verschmolzen hat. Die Vier-Figuren-Taxonomie:
+Der zentrale Beitrag des Rahmens ist die Unterscheidung Satans von drei Figuren, die die westliche Tradition verschmolzen hat:
 
-**Satan**: Der Anführer der Ratsopposition auf der Heimatwelt, niemals auf der Erde. Position: die Fraktion innerhalb der Elohim-Zivilisation, die sich der Erschaffung von Wesen nach dem Ebenbild der Elohim widersetzte. Rolle: institutionelle adversariale Opposition innerhalb der politischen Ratsstruktur, wobei die nachsintflutliche Propheten-Prüfungsrolle die operative Fortsetzung der weiteren Oppositionsfunktion darstellt.
+- **Satan**: der Anführer der Ratsopposition auf der Heimatwelt, niemals auf der Erde — die Fraktion, die sich der Erschaffung von Wesen nach dem eigenen Bild der Elohim widersetzte; seine nachsintflutliche Prophetenprüfung setzt diese Opposition fort.
+- **Luzifer**: der Anführer der erdgebundenen Fraktion der verbannten Schöpfer und Akteur der Enthüllung in Eden, der auf die volle Enthüllung gegenüber der Menschheit über ihre Ursprünge und die Verbote des Rates drängte; später der Lehrer der Menschheit und nach der Sintflut der Bündnispartner der menschlichen Schöpfung. Siehe den Eintrag {% wiki(slug="lucifer") %}Luzifer{% end %}.
+- **Die Schlange**: die Luzifer-Fraktion kollektiv in der Rolle der Enthüllung — das hebräische *ha-nachash* der Erzählung von Genesis 3, mit einer weiteren kulturübergreifenden Schlangentradition. Siehe den Eintrag {% wiki(slug="serpent") %}Schlange{% end %}.
+- **Der Teufel / *diabolos***: keine eigene Figur, sondern die griechische Bezeichnung für Satans Rolle der Prophetenprüfung — der verleumdende Prüfer, der Propheten durch adversariales Verhör überprüft.
 
-**Luzifer**: Der Anführer der erdgebundenen Schöpfer-Exilfraktion, der Eden-Aufklärungsagent. Position: Anführer der dissidenten Fraktion innerhalb des Erdprogramms, der für die volle Aufklärung der menschlichen Schöpfung über ihre Ursprünge und die politischen Verbote des Rates eintrat. Rolle: der zentrale erdseitige Akteur in der Eden-Aufklärung, der Lehrer der Menschheit in der vorsintflutlichen Periode, der nachsintflutliche Allianzpartner der menschlichen Schöpfung. Die detaillierte Behandlung findet sich im Eintrag {% wiki(slug="lucifer") %}Luzifer{% end %}.
+Jede unterscheidet sich in Ort (Heimatwelt vs. Erde), politischer Position und erzählerischer Rolle. Die Verschmelzung der vier zu einer einzigen Personifikation des kosmischen Bösen verdeckte die ursprüngliche politische Struktur.
 
-**Die Schlange**: Die Luzifer-Fraktion kollektiv in der Eden-Aufklärungsrolle. Position: die spezifische Bezeichnung der hebräischen Bibel (*ha-nachasch*) für die Luzifer-Fraktion, die in der Aufklärungsrolle handelt. Rolle: der aufklärende Akteur in der Erzählung von Genesis 3, wobei die weitere kulturübergreifende Schlangen-Tradition die breitere Kategorie bewahrt. Die detaillierte Behandlung findet sich im Eintrag {% wiki(slug="serpent") %}Schlange{% end %}.
+### Die Geschichte der Verschmelzung
 
-**Der Teufel / *diabolos***: Die griechische funktionale Bezeichnung für Satans spezifische institutionelle adversariale-Verhör-Rolle. Position: keine eigenständige Figur, sondern eine spezifische institutionelle Bezeichnung für Satans Propheten-Prüfungsfunktion. Rolle: der Verleumder-Prüfer, dessen Funktion es ist, prophetische Figuren durch adversariales Verhör zu verifizieren.
+**Sodom als Auslöser**. Der Korpus liest die Zerstörung von Sodom und Gomorra (siehe den Eintrag {% wiki(slug="sodom-and-gomorrah") %}Sodom und Gomorra{% end %}) als den Bruch, der den Rahmen beendete, der die Unterscheidungen bewahrt hatte: Mit der Vernichtung der gebildeten Schicht konnte die Bevölkerung nach Sodom sie nicht mehr aufrechterhalten.
 
-Die Vier-Figuren-Taxonomie ist operativ wichtig, weil jede Figur mit unterschiedlichem Ort (Heimatwelt vs. Erde), unterschiedlicher politischer Position (Ratsopposition vs. erdgebundener Dissident vs. Vermittlungsfunktion) und unterschiedlicher narrativer Rolle innerhalb des weiteren Korpus-Rahmens operiert. Die Verschmelzung dieser vier Figuren zu einer einzigen Personifikation kosmischen Bösen durch die westliche religiöse Mainstream-Tradition hat die ursprüngliche politisch-institutionelle Struktur substanziell verdeckt.
+**Fortschreitende Verschmelzung**. Von Sodom bis zur späteren prophetischen Literatur verschmolzen die vier Figuren. Die Schlange wurde mit Auflehnung statt mit der Enthüllungsrolle der Luzifer-Fraktion verbunden, die aufrührerische Schlange mit Satans Opposition auf der Heimatwelt und Luzifer mit beiden.
 
-### Die Verschmelzungsgeschichte
+**Persischer Dualismus**. Der zoroastrische Dualismus prägte das Judentum des Zweiten Tempels; der begrenzte *satan* nahm die Rahmung von Angra Mainyu / Ahriman und ihre Achse von Gut gegen Böse auf.
 
-Die Artikulation, wie die Vier-Figuren-Taxonomie schrittweise verschmolzen wurde, verzeichnet durch den Rahmen substanziellen historisch-entwicklungsbezogenen Inhalt.
+**Christliche Synthese**. In der späten Zeit des Zweiten Tempels war die Verschmelzung vollendet: Luzifer und Satan verschmolzen zu einer einzigen Figur des kosmischen Bösen, die Schlange wurde mit ihr identifiziert, die ursprünglichen Unterscheidungen gingen verloren. Das Christentum baute sie zum Teufel aus, dem Fürsten der Finsternis; die mittelalterliche Theologie verfeinerte sie zur Dämonologie, die das westliche Denken ein Jahrtausend lang beherrschte.
 
-**Der Sodom-und-Gomorra-Katalysator**. Der Korpus liest die Zerstörung von Sodom und Gomorra (ausführlicher behandelt im Eintrag {% wiki(slug="sodom-and-gomorrah") %}Sodom und Gomorra{% end %}, sobald geschrieben) als den zentralen Katalysator, der den Rahmen störte, welcher die Unterscheidungen zuvor bewahrt hatte. Nach der Zerstörung der Städte der Ebene hatte die nachsodomitische Bevölkerung mit zerstörter gebildeter Klasse nicht mehr den Rahmen, die ursprünglichen Unterscheidungen zwischen den Figuren aufrechtzuerhalten.
-
-**Die schrittweise Verschmelzung**. Über die Jahrhunderte von Sodom bis zur Abfassung der späteren prophetischen Literatur verschmolzen die vier ursprünglich eigenständigen Figuren schrittweise innerhalb der weiteren hebräischen Tradition. Die Schlange wurde mit Rebellion assoziiert (statt mit der spezifischen Eden-Aufklärungsrolle der Luzifer-Fraktion). Die rebellische Schlange wurde mit der politischen Opposition der Heimatwelt (Satan) assoziiert. Die Luzifer-Figur wurde schrittweise sowohl mit der Schlange als auch mit Satan verschmolzen.
-
-**Der persisch-dualistische Einfluss**. Der zoroastrisch-dualistische Rahmen des achämenidisch-persischen Reiches beeinflusste das Judentum des Zweiten Tempels substanziell, wobei die ursprünglich begrenzte *satan*-Figur schrittweise Aspekte des zoroastrischen Rahmens Angra Mainyu / Ahriman absorbierte. Der dualistische Rahmen kosmisches-Gut-gegen-kosmisches-Böses prägte die nachfolgende jüdisch-christliche dämonologische Entwicklung substanziell.
-
-**Die christlich-theologische Synthese**. In der späten Zweiten-Tempel-Periode, mit der persisch-dualistischen Überlagerung der früheren hebräischen Tradition, war die Verschmelzung vollendet: Luzifer und Satan waren zu einer einzigen Figur kosmischen Bösen verschmolzen, die Schlange war mit dieser Figur identifiziert, und die ursprünglichen, in der Darstellung der Quelle bewahrten Unterscheidungen waren aus der religiösen Tradition verloren. Die christliche Tradition erbte die verschmolzene Figur und baute sie zum Teufel, zum kosmischen Widersacher, zum Fürsten der Finsternis aus. Die mittelalterliche Theologie verfeinerte die Figur zur ausgefeilten Dämonologie, die das westliche religiöse Denken für ein Jahrtausend dominieren sollte.
-
-**Das zeitgenössische Fortbestehen**. Die verschmolzene Figur kosmischen Bösen bleibt die zentrale westliche kulturell-religiöse Rezeption von „Satan“, mit substanzieller zeitgenössischer kulturell-politischer Reichweite. Die analytische Arbeit des Korpus zur Entflechtung der vier ursprünglich eigenständigen Figuren operiert gegen ungefähr zweitausend Jahre angesammelter theologisch-kultureller Ausarbeitung.
+**Fortbestehen**. Diese verschmolzene Figur bleibt die vorherrschende westliche Bedeutung von „Satan“. Die Entflechtung der vier arbeitet gegen zweitausend Jahre angesammelter Ausarbeitung an.
 
 ### Die nachsintflutliche institutionelle Rolle
 
-Satans nachsintflutliche institutionelle Rolle umfasst mehrere zusammenhängende Funktionen.
+Satans Opposition überdauert das nachsintflutliche Votum — *„Satan ist immer noch vom Bösen im Menschen überzeugt, doch er beugt sich der Mehrheit derer, die hinter Jahwe das Gegenteil im Rat der Ewigen denken“* — und wird in die Prüfung der Propheten gelenkt. Die Logik: Ein Prophet, der umgedreht werden könnte, wäre eine Belastung; einer, der widerstand, war vertrauenswürdig, weil die echte Skepsis der Opposition jede Schwäche aufdeckt. Die Methode reicht von Verleumdung der Elohim über Druck, den Schöpfern abzuschwören, und Angebote materieller Belohnung für Verrat bis zu Situationsprüfungen, die auf den Einzelnen zugeschnitten sind — die Brotprüfung für jemanden, der fastet, die Tempelprüfung für jemanden, der Bestätigung braucht, die Prüfung der Königreiche für jemanden, der zu politischem Ehrgeiz fähig ist. Echte Opposition ist genau das, was die Prüfung wertvoll macht; eine pro forma durchgeführte Prüfung durch eine gleichgesinnte Figur wäre es nicht.
 
-**Die fortgesetzte Oppositionsposition**. *„Satan ist immer noch vom Bösen im Menschen überzeugt, doch er beugt sich der Mehrheit derer, die hinter Jahwe das Gegenteil im Rat der Ewigen denken.“* Die grundsätzliche Oppositionsposition ist bewahrt, während das institutionell-demokratische Ergebnis des nachsintflutlichen Ratsvotums akzeptiert wird.
+### Weitere Bedeutung
 
-**Die Propheten-Prüfungsfunktion**. Satans spezifische institutionelle Rolle in der nachsintflutlichen Periode ist die systematische Prüfung prophetischer Figuren durch adversariales Verhörverfahren. Die institutionelle Logik: Ein Prophet, der durch Satans Prüfung umgedreht werden könnte, wäre eine Belastung für die weitere Mission; ein Prophet, der der Prüfung widerstand, war vertrauenswürdig. Die Prüfung war faktisch ein adversariales Verhör, das von der politischen Opposition durchgeführt wurde, gerade weil die motivierte Skepsis der Opposition jede Schwäche im Bekenntnis des Kandidaten aufdecken würde.
+**Grundsätzliche Opposition**. Satan als grundsätzlichen Gegner statt als Personifikation des kosmischen Bösen zu lesen, ersetzt die Achse von Gut gegen Böse durch gewöhnliche institutionelle Beratung und behandelt die westliche Figur des kosmischen Bösen als historisch-kulturelles Produkt, nicht als ursprünglichen Charakter der Figur.
 
-**Die Prüfungsmethodologie**. Die Methodologie umfasst:
-- Verleumdung gegen die Elohim (Prüfung, ob die Verpflichtung des Propheten durch Angriffe auf den Charakter der Allianz erschüttert werden kann)
-- Versuche, eine Abschwörung der Schöpferbeziehung herbeizuführen (Prüfung, ob die Loyalität des Propheten umgedreht werden kann)
-- Angebote materieller Belohnung im Tausch gegen Missions-Verrat (Prüfung, ob die Verpflichtung des Propheten gekauft werden kann)
-- Spezifische situationsbezogene Prüfungen, kalibriert auf die spezifischen Schwachstellen des einzelnen Propheten (die Brot-Prüfung für jemanden, der fastet, die Tempel-Prüfung für jemanden, der Bestätigung braucht, die Königreich-Prüfung für jemanden, der zu politischem Ehrgeiz fähig ist)
+**Demokratische Institutionen**. Satans Unterordnung unter die Ratsmehrheit zeigt die Elohim-Zivilisation als demokratisch-institutionell statt theokratisch — eine Opposition, die fortbesteht und zugleich das Votum annimmt.
 
-**Der institutionelle Wert**. Satans spezifische Funktion in der Prüfung ist operativ wertvoll für die weitere Allianz-Mission, gerade weil Satans Opposition echt ist. Eine pro-forma-Prüfung durch eine ausgerichtete Figur würde nicht denselben operativen Wert hervorbringen wie eine substanzielle Prüfung durch eine Figur, deren motivierte Skepsis jede Schwäche im Bekenntnis des Kandidaten aufdecken würde. Der Charakter grundsätzlicher Opposition macht die institutionelle Funktion operativ wertvoll.
+**Eine offene Frage**. Ob Satans Argument zutrifft — ob synthetische Schöpfungen, die ihren Schöpfern ebenbürtig werden können, gefährlich werden müssen —, wurde in der Zeit nach der Sintflut, in der prophetischen Tradition und in der Gegenwart geprüft, und der Rahmen lässt die Frage offen.
 
-### Die weitere theologisch-politische Bedeutung der Figur
+## Anwendung im gesamten Korpus
 
-Satans spezifische Position innerhalb des weiteren Rahmens hat substanzielle Implikationen in mehreren Bereichen.
+Satan erscheint in mehreren Einträgen; jeder behandelt eine andere Facette:
 
-**Die Rahmung als grundsätzliche Opposition**. Die spezifische Position des Rahmens verzeichnet Satan als grundsätzlich-oppositionelle Figur statt als Personifikation kosmischen Bösen. Die Position hat substanzielle Implikationen für den weiteren theologisch-philosophischen Rahmen: Personifikation kosmischen Bösen wird ersetzt durch politisch-institutionelle Opposition; der dualistische Rahmen kosmisches-Gut-gegen-kosmisches-Böses wird ersetzt durch normale institutionell-politische Beratung; die mittelalterlich-christliche Dämonologie wird ersetzt durch die Anerkennung, dass die Figur kosmischen Bösen der zentralen westlichen religiösen Tradition das Ergebnis eines komplexen historisch-kulturellen Prozesses statt des ursprünglichen Charakters der Figur ist.
+- {% wiki(slug="lucifer") %}Luzifer{% end %} — die Ratsopposition auf der Heimatwelt, von der die erdgebundene Luzifer-Fraktion unterschieden wird
+- {% wiki(slug="serpent") %}Schlange{% end %} — die Vier-Figuren-Taxonomie, die Satan von der Schlange trennt
+- {% wiki(slug="council-of-the-eternals") %}Rat der Ewigen{% end %} — Satans Rolle als Fraktionsführer in der Dynamik des Rates
+- {% wiki(slug="yahweh") %}Jahwe{% end %} — die Politik zwischen dem Präsidenten des Rates und dem Oppositionsführer
+- {% wiki(slug="great-flood") %}Sintflut{% end %} — Satans Rolle bei der Sammlung von Belegen und ihrer Vorlage im Rat bei der Vernichtungsentscheidung
+- {% wiki(slug="theomachy") %}Theomachie{% end %} — Satans Position auf der Seite des Rates im Konflikt über mehrere Zeitalter
+- {% wiki(slug="cosmic-chain") %}Kosmische Kette{% end %} — Satans Reaktion auf die Entdeckung, dass die Elohim selbst erschaffen worden waren
+- {% wiki(slug="jesus") %}Jesus{% end %} — die Funktion der Prophetenprüfung, angewandt auf Jesus
+- {% wiki(slug="prophet") %}Prophet{% end %} — die Prüfungsfunktion in der gesamten prophetischen Tradition
 
-**Die demokratisch-institutionelle Rahmung**. Die spezifische institutionelle Unterordnung des nachsintflutlichen Satan unter die Ratsmehrheit verzeichnet die weitere Erfassung der Elohim-Zivilisation als substanziell demokratisch-institutionell statt als theokratisch-autoritär durch den Rahmen. Satans fortgesetzte Oppositionsposition mit institutioneller Unterordnung modelliert einen substanziell funktionalen demokratisch-institutionellen Rahmen.
-
-**Der empirisch-historische Charakter**. Satans spezifische Position ist über den weiteren Erzählbogen hinweg substanziell erprobt worden. Die nachsintflutliche Periode, die Entwicklung der prophetischen Tradition, die verschiedenen religiös-traditionellen Artikulationen in den nachfolgenden Zeitaltern und die weitere zeitgenössische Periode liefern alle substanzielles empirisches Material, das für die Frage relevant ist, ob Satans Argument grundsätzlicher Opposition zutrifft. Der Rahmen verzeichnet dies, ohne einen voreiligen Schluss zu erzwingen — die Frage, ob synthetische Schöpfungen, die ihren Schöpfern ebenbürtig sind, unweigerlich gefährlich werden, bleibt im weiteren Korpus-Rahmen substanziell offen, mit substanzieller nachfolgender Entwicklung in den verschiedenen Einträgen, welche die weitere kosmisch-zivilisatorische Dynamik behandeln.
-
-## Anwendung im Korpus
-
-Satan operiert als eine der zentralen politischen Figuren in mehreren Einträgen des Korpus-Rahmens.
-
-### Der Luzifer-Eintrag
-
-Satans spezifische fraktionell-politische Opposition zu Luzifer ist eine der zentralen operativen Komponenten des weiteren Eintrags {% wiki(slug="lucifer") %}Luzifer{% end %}. Die detaillierte Behandlung der spezifischen Rolle Luzifers findet sich in jenem Eintrag; der spezifische Beitrag des Satan-Eintrags ist die Verzeichnung der Oppositionsposition des Rates auf der Heimatwelt, von der die erdgebundene Luzifer-Fraktion unterschieden wurde.
-
-### Der Schlangen-Eintrag
-
-Satans spezifische Unterscheidung von der Schlange (der Luzifer-Fraktion kollektiv in der Eden-Aufklärungsrolle) ist eine der zentralen operativen Komponenten des weiteren Eintrags {% wiki(slug="serpent") %}Schlange{% end %}. Die detaillierte Behandlung der Schlangen-Figuration findet sich in jenem Eintrag; der spezifische Beitrag des Satan-Eintrags ist die Verzeichnung der Vier-Figuren-Taxonomie, die Satan von der Schlange unterscheidet.
-
-### Der Eintrag zum Rat der Ewigen
-
-Satans spezifische institutionelle Position als Anführer der Ratsopposition verbindet sich substanziell mit dem weiteren Eintrag {% wiki(slug="council-of-the-eternals") %}Rat der Ewigen{% end %}. Die detaillierte Behandlung der institutionellen Struktur des Rates findet sich in jenem Eintrag; der spezifische Beitrag des Satan-Eintrags ist die Verzeichnung von Satans spezifischer fraktionell-politischer Rolle innerhalb der weiteren Dynamik des Rates.
-
-### Der Jahwe-Eintrag
-
-Satans spezifische Beziehung zu Jahwe (die kollegial-politische Beziehung über den weiteren Erzählbogen) ist eine der operativen Komponenten des weiteren Eintrags {% wiki(slug="yahweh") %}Jahwe{% end %}. Die detaillierte Behandlung Jahwes als Figur findet sich in jenem Eintrag; der spezifische Beitrag des Satan-Eintrags ist die Verzeichnung der spezifischen fraktionell-politischen Dynamik zwischen dem Ratspräsidenten und dem Oppositionsführer.
-
-### Der Eintrag zur Großen Flut
-
-Satans spezifische Rolle im vorsintflutlichen Kontext der Vernichtungsentscheidung ist eine der operativen Komponenten des weiteren Eintrags {% wiki(slug="great-flood") %}Große Flut{% end %}. Die detaillierte Behandlung des Flutereignisses findet sich in jenem Eintrag; der spezifische Beitrag des Satan-Eintrags ist die Verzeichnung von Satans spezifischer Beweissammlungs-Funktion und Rats-Präsentationsrolle.
-
-### Der Theomachie-Eintrag
-
-Satans spezifische ratsseitige Teilnahme an der weiteren Theomachie-Erzählung verbindet sich substanziell mit dem weiteren Eintrag {% wiki(slug="theomachy") %}Theomachie{% end %}. Die detaillierte Behandlung des mehr-zeitalterlichen Konflikts findet sich in jenem Eintrag; der spezifische Beitrag des Satan-Eintrags ist die Verzeichnung von Satans spezifischer fraktionell-politischer Position innerhalb der ratsseitigen Dynamik des weiteren Konflikts.
-
-### Der Eintrag zur Kosmischen Kette
-
-Satans spezifische nachsintflutliche institutionelle Unterordnung nach der Entdeckung der Kosmischen Kette verbindet sich substanziell mit dem weiteren Eintrag {% wiki(slug="cosmic-chain") %}Kosmische Kette{% end %}. Die detaillierte Behandlung des Rahmens der Kosmischen Kette findet sich in jenem Eintrag; der spezifische Beitrag des Satan-Eintrags ist die Verzeichnung von Satans spezifischer Reaktion auf die Entdeckung der Kosmischen Kette.
-
-### Der Jesus-Eintrag
-
-Satans spezifische Rolle in der Wüstenversuchung Jesu verbindet sich substanziell mit dem weiteren Eintrag {% wiki(slug="jesus") %}Jesus{% end %}. Die detaillierte Behandlung Jesu als Figur findet sich in jenem Eintrag; der spezifische Beitrag des Satan-Eintrags ist die Verzeichnung der institutionellen Propheten-Prüfungsfunktion, wie sie speziell auf Jesus angewendet wurde.
-
-### Der Propheten-Eintrag
-
-Satans spezifische institutionelle Propheten-Prüfungsrolle verbindet sich substanziell mit dem weiteren Eintrag {% wiki(slug="prophet") %}Prophet{% end %}. Die detaillierte Behandlung der prophetischen Tradition findet sich in jenem Eintrag; der spezifische Beitrag des Satan-Eintrags ist die Verzeichnung der Prüfungsfunktion in der weiteren prophetischen Tradition.
-
-## Abgrenzung von verwandten Begriffen
+## Abgrenzung von benachbarten Begriffen
 
 ### Satan vs. Luzifer
 
-{% claim(type="framework", id="woh-claim-0013") %}Luzifer ist der Anführer der erdgebundenen Schöpfer-Exilfraktion; Satan ist der Anführer der Ratsopposition auf der Heimatwelt. Die beiden Figuren nehmen unterschiedliche Orte ein (Erde vs. Heimatwelt), unterschiedliche politische Positionen (erdgebundener Dissident vs. institutionelle Ratsopposition) und unterschiedliche narrative Rollen (Eden-Aufklärungsagent vs. Vertreter grundsätzlicher Opposition).{% end %} Die beiden Figuren sind politische Gegner innerhalb der weiteren politischen Elohim-Struktur statt kosmisch-gut-gegen-kosmisch-böse-Personifikationen.
-
-Die Beziehung ist eine von **eigenständigen-Figuren-mit-gegensätzlichen-politischen-Positionen**: Luzifer befürwortet volle Aufklärung der Menschheit; Satan widersetzt sich der menschlichen Schöpfung gänzlich. Die christlich-traditionelle Verschmelzung der beiden Figuren zu einer einzigen Personifikation kosmischen Bösen stellt das Ergebnis von ungefähr zweitausend Jahren theologisch-kultureller Entwicklung dar, welche die ursprünglichen eigenständigen Identitäten verdeckt hat.
+{% claim(type="framework", id="woh-claim-0013") %}Luzifer ist der Anführer der erdgebundenen Fraktion der verbannten Schöpfer; Satan ist der Anführer der Ratsopposition auf der Heimatwelt — verschiedene Orte, Positionen und Rollen.{% end %} Sie sind politische Gegner, keine Personifikationen von Gut und Böse: Luzifer tritt für die volle Enthüllung gegenüber der Menschheit ein; Satan lehnt die menschliche Schöpfung insgesamt ab. Die christliche Verschmelzung der beiden ist das Ergebnis zweitausendjähriger Entwicklung, die ihre unterschiedlichen Identitäten verdeckte.
 
 ### Satan vs. die Schlange
 
-Die Schlange ist die spezifische Bezeichnung der hebräischen Bibel (*ha-nachasch*) für die Luzifer-Fraktion in der Eden-Aufklärungsrolle von Genesis 3. Satan ist der Anführer der Ratsopposition auf der Heimatwelt, der nie auf der Erde war. Die beiden Figuren sind eigenständig: Die Schlange operiert auf der Erde in der Eden-Aufklärungsrolle; Satan operiert auf der Heimatwelt in der institutionell-politischen Oppositionsrolle.
-
-Die Beziehung ist eine von **eigenständigen-Figuren-unterschieden-nach-Ort-und-Rolle**: Die Schlange ist auf der Erde und vollzieht den Aufklärungsakt; Satan ist auf der Heimatwelt und vollzieht die institutionelle Oppositionsfunktion. Die christlich-traditionelle Verschmelzung der Schlange mit Satan stellt das Ergebnis nachfolgender theologisch-kultureller Entwicklung dar.
+Die Schlange ist das hebräische *ha-nachash*, die Luzifer-Fraktion in der Rolle der Enthüllung von Genesis 3 auf der Erde; Satan ist der Oppositionsführer auf der Heimatwelt, der nie auf der Erde war. Ihre spätere Verschmelzung ist eine theologische Entwicklung.
 
 ### Satan vs. der Teufel
 
-Der Teufel — das griechische *diabolos*, „Verleumder“ — ist keine von Satan separate Figur, sondern eine spezifische funktionale Bezeichnung für Satans institutionelle adversariale-Verhör-Rolle. Der griechische Begriff übersetzt das hebräische *satan* mit substanziell ähnlichem funktionalem Inhalt (beide Begriffe bezeichnen die Figur nach adversarial-oppositioneller Funktion statt nach persönlichem Namen).
+Der Teufel — griechisch *diabolos*, „Verleumder“ — ist keine eigene Figur, sondern Satans funktionale Bezeichnung in der Prüfungsrolle. Beide benennen die Figur nach ihrer Funktion: Satan im Hebräischen, *diabolos* im Griechischen, *Diabolus* im Lateinischen, „der Teufel“ im Deutschen. Die rote Haut, die Hörner und der Pferdefuß sind eine mittelalterliche Überlagerung.
 
-Die Beziehung ist eine von **derselben-Figur-mit-unterschiedlicher-funktionaler-Bezeichnung-in-verschiedenen-Sprachen**: Satan auf Hebräisch, *diabolos* auf Griechisch, *Diabolus* auf Latein, „der Teufel“ in der englischen religiösen Tradition. Die mittelalterlich-christliche theologische Ausarbeitung „des Teufels“ mit roter Haut, Hörnern und Hufen ist eine kulturelle Überlagerung auf der ursprünglichen linguistisch-funktionalen Bezeichnung.
+### Satan vs. die Personifikation des kosmischen Bösen
 
-### Satan vs. die Personifikation kosmischen Bösen
+Die mittelalterliche Personifikation des kosmischen Bösen ist das Ergebnis zweitausendjähriger Verschmelzung der vier Figuren (Satan, Luzifer, die Schlange, der Teufel) mit weiteren adversarialen Figuren — den Wächtern, der Schlange in Eden, dem Morgenstern aus Jesaja 14, dem König von Tyrus aus Hesekiel 28. Das ist ein historisches Ergebnis, nicht der ursprüngliche Charakter der Figuren: Der hebräische *satan* und die Vier-Figuren-Taxonomie sind das, was die Verschmelzung verdeckte.
 
-Die Personifikation kosmischen Bösen der mittelalterlich-christlichen Theologie ist das Ergebnis von ungefähr zweitausend Jahren schrittweiser Verschmelzung der vier ursprünglich eigenständigen Figuren (Satan, Luzifer, die Schlange, der Teufel) plus verschiedener anderer adversarial-kosmischer Figuren (die Wächter, die Eden-Schlange, der Morgenstern aus Jesaja 14, der König von Tyros aus Ezechiel 28). Die spezifische Position des Rahmens verzeichnet dies als historisch-entwicklungsbezogenes Ergebnis statt als ursprünglichen Charakter der Figuren.
+## Moderne Neudeutungen
 
-Die Beziehung ist eine von **historisch-entwicklungsbezogenem-Ergebnis-vs-ursprünglichem-Charakter**: Die Personifikation kosmischen Bösen ist die verschmolzene Figur nachfolgender theologisch-kultureller Entwicklung; das ursprüngliche *satan* der hebräischen Bibel und die weitere Vier-Figuren-Taxonomie sind der ursprüngliche Rahmen, den die Verschmelzung verdeckt hat.
+### Etablierte Forschung zur hebräischen Bibel
 
-## Moderne Neuinterpretationen
+Die etablierte Forschung unterscheidet den *satan* der hebräischen Bibel von der späteren Personifikation des kosmischen Bösen. **Peggy L. Days** *An Adversary in Heaven: Satan in the Hebrew Bible* (Scholars Press, 1988) argumentiert, dass die Figur begrenzt und institutionell ist; ihre drei zentralen Passagen (Hiob 1–2, Sacharja 3, 1 Chronik 21) stellen sie in institutionellen statt kosmisch-bösen Begriffen dar, in einer Entwicklung über die nachexilische Zeit hinweg. **Marvin H. Popes** *Job* (Anchor Bible, Doubleday, 1965; 3. Auflage 1973) dokumentiert die Parallelen zum göttlichen Rat im Alten Orient und den verfahrensmäßigen Charakter des Hiob-Dialogs. **Norman C. Habels** *The Book of Job* (Westminster Press, 1985) widmet sich der institutionellen Rolle der Figur. **Carol A. Newsoms** *The Book of Job: A Contest of Moral Imaginations* (Oxford University Press, 2003) und **David J. A. Clines'** dreibändiger *Job* (Word Biblical Commentary) entwickeln die Lesart weiter.
 
-### Mainstream-Forschung zur hebräischen Bibel
+### Die Forschung zur Entwicklung des *satan* in der Zeit des Zweiten Tempels
 
-Die Mainstream-Forschung zur hebräischen Bibel hat substanzielle Arbeit hervorgebracht, die die *satan*-Figur der hebräischen Bibel von der späteren christlich-theologischen Personifikation kosmischen Bösen unterscheidet.
-
-**Peggy L. Days** *An Adversary in Heaven: Satan in the Hebrew Bible* (Scholars Press, 1988) lieferte die zentrale grundlegende wissenschaftliche Auseinandersetzung mit der *satan*-Figur der hebräischen Bibel. Days zentrale These: Das *satan* der hebräischen Bibel ist eine substanziell begrenzte und institutionelle Figur statt der Personifikation kosmischen Bösen späterer Tradition. Days Rahmen zeigt, dass die drei zentralen *satan*-Passagen der hebräischen Bibel (Hiob 1-2, Sacharja 3, 1 Chronik 21) die Figur in institutionellen statt kosmisch-bösen Begriffen darstellen, wobei sich der Charakter der Figur über die nachexilische Periode in Richtungen entwickelt, welche die nachfolgende christliche Tradition substanziell ausweitete.
-
-**Marvin H. Popes** *Job* (Anchor Bible, Doubleday, 1965; 3. Aufl., 1973) lieferte eine substanzielle wissenschaftliche Behandlung der Hiob-Episode mit detaillierter Auseinandersetzung mit dem institutionellen Charakter der hebräischen *satan*-Figur innerhalb des Rahmens des göttlichen Rates. Popes spezifischer Beitrag: substanzielle Dokumentation der nahöstlichen Parallelen göttlicher Räte und des institutionell-verfahrensrechtlichen Charakters des Hiob-Dialogs.
-
-**Norman C. Habels** *The Book of Job* (Westminster Press, 1985) lieferte eine substanzielle ergänzende wissenschaftliche Behandlung mit substanzieller Aufmerksamkeit für die institutionelle Rolle der Figur innerhalb des weiteren Rahmens der Hiob-Erzählung.
-
-**Verschiedene nachfolgende Forschung**. Substanzielle nachfolgende Forschung zur hebräischen Bibel (Carol A. Newsoms *The Book of Job: A Contest of Moral Imaginations*, Oxford University Press, 2003; David J. A. Clines' dreibändiger *Job*-Kommentar in der Word Biblical Commentary-Reihe; verschiedene andere Beiträge) hat das wissenschaftliche Verständnis der *satan*-Figur der hebräischen Bibel innerhalb des weiteren religiös-kulturellen Kontextes der hebräischen Bibel weiterentwickelt.
-
-### Die Satan-Entwicklungs-Forschung der Zweiten-Tempel-Periode
-
-Die Mainstream-Forschung zum Judentum des Zweiten Tempels hat substanzielle Arbeit zur Entwicklung der Satan-Figur in dieser Periode hervorgebracht.
-
-**Der persisch-dualistische Einfluss**. **Mary Boyces** *Zoroastrians: Their Religious Beliefs and Practices* (Routledge, 1979) und verschiedene andere Werke dokumentierten den substanziellen zoroastrischen Einfluss auf das Judentum des Zweiten Tempels. Der zentrale Einfluss: Der kosmisch-dualistische Rahmen (Ahura Mazda vs. Angra Mainyu / Ahriman) lieferte substanzielles konzeptionelles Material, das in der nachexilischen Periode schrittweise in die jüdische theologische Entwicklung absorbiert wurde.
-
-**Die Forschung zur Wächter-Tradition**. **George W. E. Nickelsburgs** *1 Enoch 1: A Commentary on the Book of 1 Enoch, Chapters 1-36; 81-108* (Hermeneia, Fortress Press, 2001) und verschiedene andere Forschung dokumentierten die substanzielle Rolle der Wächter-Tradition bei der Prägung der dämonologischen Entwicklung des Zweiten Tempels. Der zentrale Beitrag: Die Wächter-Erzählung lieferte substanzielles konzeptionelles Material für die Entwicklung der Traditionen der Figur des kosmischen Bösen, welche die christliche theologische Ausarbeitung nachfolgend prägen sollten.
-
-**Annette Yoshiko Reeds weitere Forschung**. **Annette Yoshiko Reeds** *Fallen Angels and the History of Judaism and Christianity: The Reception of Enochic Literature* (Cambridge University Press, 2005) lieferte substanzielle nachfolgende wissenschaftliche Behandlung des Einflusses der Wächter-Tradition auf die nachfolgende jüdische und christliche Entwicklung.
-
-**Die Qumran-Forschung**. Substanzielle Qumran-Forschung (Geza Vermes' verschiedene Werke, Lawrence H. Schiffmans *Reclaiming the Dead Sea Scrolls*, James VanderKams *The Dead Sea Scrolls Today*, verschiedene andere Beiträge) hat den spezifischen dualistischen Rahmen der Qumran-Gemeinschaft und seinen substanziellen Einfluss auf die nachfolgende jüdisch-christliche Entwicklung dokumentiert.
+**Mary Boyces** *Zoroastrians: Their Religious Beliefs and Practices* (Routledge, 1979) dokumentiert den zoroastrischen Einfluss auf das Judentum des Zweiten Tempels — den Dualismus von Ahura Mazda gegen Angra Mainyu / Ahriman, der in das nachexilische jüdische Denken aufgenommen wurde. **George W. E. Nickelsburgs** *1 Enoch 1: A Commentary on the Book of 1 Enoch, Chapters 1-36; 81-108* (Hermeneia, Fortress Press, 2001) und **Annette Yoshiko Reeds** *Fallen Angels and the History of Judaism and Christianity: The Reception of Enochic Literature* (Cambridge University Press, 2005) zeichnen die Rolle der Wächter-Tradition bei der Prägung der dämonologischen Entwicklung nach. Die Qumran-Forschung — **Geza Vermes**, **Lawrence H. Schiffmans** *Reclaiming the Dead Sea Scrolls*, **James VanderKams** *The Dead Sea Scrolls Today* — dokumentiert den dualistischen Rahmen der Gemeinschaft und seinen späteren Einfluss.
 
 ### Die Entwicklung der Dämonologie in der christlichen Tradition
 
-Die Mainstream-Forschung zur Entwicklung der Dämonologie in der christlichen Tradition hat substanzielle Arbeit hervorgebracht.
+**Jeffrey Burton Russells** vierbändige Geschichte ist die grundlegende Darstellung:
 
-**Jeffrey Burton Russells vierbändige Reihe**. Die zentrale grundlegende wissenschaftliche Geschichte:
+- *The Devil: Perceptions of Evil from Antiquity to Primitive Christianity* (Cornell University Press, 1977)
+- *Satan: The Early Christian Tradition* (Cornell University Press, 1981)
+- *Lucifer: The Devil in the Middle Ages* (Cornell University Press, 1984)
+- *Mephistopheles: The Devil in the Modern World* (Cornell University Press, 1986)
 
-- **Russell**, *The Devil: Perceptions of Evil from Antiquity to Primitive Christianity* (Cornell University Press, 1977) — die Entwicklung von der Antike bis zum frühen Christentum
-- **Russell**, *Satan: The Early Christian Tradition* (Cornell University Press, 1981) — die Entwicklung in der frühchristlichen Periode
-- **Russell**, *Lucifer: The Devil in the Middle Ages* (Cornell University Press, 1984) — die Entwicklung in der mittelalterlichen Periode
-- **Russell**, *Mephistopheles: The Devil in the Modern World* (Cornell University Press, 1986) — die Entwicklung in der modernen Periode
+Über rund dreitausend Jahre verfolgt sie die begrenzte Figur der hebräischen Bibel bis zur mittelalterlich-modernen Personifikation des kosmischen Bösen. **Elaine Pagels'** *The Origin of Satan* (Random House, 1995) zeigt, wie die Personifikation der Selbstdefinition der frühchristlichen Gemeinde gegenüber Rivalen diente — jüdischen, heidnischen und häretisch-christlichen —, eine von sozial-politischer Dynamik geprägte Entwicklung. **Henry Ansgar Kellys** *Satan: A Biography* (Cambridge University Press, 2006) argumentiert, dass die mittelalterliche Figur von der der hebräischen Bibel verschieden ist, und stimmt so auf der Grundlage der etablierten Philologie strukturell mit der Darstellung der Verschmelzung durch den Korpus überein. **Bernard McGinns** *Antichrist: Two Thousand Years of the Human Fascination with Evil* (Harper, 1994) und **W. Sibley Towner** erweitern das Bild.
 
-Die vierbändige Reihe liefert substanzielle Dokumentation von ungefähr dreitausend Jahren religiös-kultureller Entwicklung der Satan-Teufel-Luzifer-Figuration, mit substanzieller historisch-entwicklungsbezogener Analyse, wie die ursprünglich begrenzte Figur der hebräischen Bibel sich schrittweise zur ausgefeilten mittelalterlich-modernen Personifikation kosmischen Bösen entwickelte.
+### Die islamische Tradition von Schaitan und Iblis
 
-**Elaine Pagels'** *The Origin of Satan* (Random House, 1995) lieferte substanzielle nachfolgende wissenschaftliche Auseinandersetzung mit der frühchristlichen Entwicklung der Satansfigur. Pagels' zentraler Beitrag: substanzielle Dokumentation der sozial-politischen Funktionen des Rahmens der Personifikation kosmischen Bösen in der Selbstdefinition der frühchristlichen Gemeinschaft gegenüber verschiedenen rivalisierenden Gruppen (jüdische Gegner, heidnische Gegner, häretisch-christliche Gegner). Die Analyse verzeichnet die Satan-Entwicklung als substanziell durch politisch-soziale Dynamik geprägt statt als rein theologische Entwicklung.
+**Whitney S. Bodmans** *The Poetics of Iblīs: Narrative Theology in the Qurʼān* (Harvard Theological Studies, 2011) behandelt die erzählerisch-theologische Rolle des koranischen Iblis, und **Peter J. Awns** *Satan's Tragedy and Redemption: Iblīs in Sufi Psychology* (Brill, 1983) die sufischen Ausarbeitungen der Figur.
 
-**Henry Ansgar Kellys revisionistische Forschung**. **Kellys** *Satan: A Biography* (Cambridge University Press, 2006) lieferte substanziell revisionistische Forschung mit dem Argument, dass die Personifikationsfigur kosmischen Bösen der mittelalterlich-christlichen Tradition substanziell verschieden von der ursprünglichen Figur der hebräischen Bibel ist. Kellys Rahmen verzeichnet substanzielle strukturelle Übereinstimmung mit der spezifischen Position des Korpus zur Verschmelzungsgeschichte, während er von eigenständiger Quellenmaterial-Berechtigung aus operiert, die hauptsächlich aus Mainstream-historisch-philologischer Forschung gewonnen wird.
+### Das Verhältnis des Rahmens zur weiteren Landschaft
 
-**Verschiedene nachfolgende Forschung**. Substanzielle nachfolgende Forschung (Bernard McGinns *Antichrist: Two Thousand Years of the Human Fascination with Evil*, Harper, 1994; W. Sibley Towners verschiedene Werke; verschiedene andere Beiträge) hat das wissenschaftliche Verständnis der historischen Entwicklung der Satan-Teufel-Luzifer-Figuration weiterentwickelt.
-
-### Die islamische Schaytan-/Iblis-Tradition
-
-Die Mainstream-Forschung zum Islam hat substanzielle Arbeit zur Schaytan-/Iblis-Figur hervorgebracht.
-
-**Whitney S. Bodmans** *The Poetics of Iblīs: Narrative Theology in the Qurʼān* (Harvard Theological Studies, 2011) lieferte eine substanzielle wissenschaftliche Behandlung der quranischen Iblis-Figur mit substanzieller Aufmerksamkeit für die spezifisch narrativ-theologische Rolle der Figur innerhalb des weiteren quranischen Rahmens.
-
-**Peter J. Awns** *Satan's Tragedy and Redemption: Iblīs in Sufi Psychology* (Brill, 1983) lieferte eine substanzielle wissenschaftliche Behandlung der spezifischen Auseinandersetzung der islamischen Sufi-Tradition mit der Iblis-Figur, mit substanzieller Aufmerksamkeit für die verschiedenen theologisch-mystischen Ausarbeitungen der Figur in der Sufi-Tradition.
-
-**Verschiedene nachfolgende Forschung**. Substanzielle nachfolgende islamische Forschung hat das Verständnis der Schaytan-/Iblis-Figur innerhalb des weiteren islamischen theologisch-philosophischen Rahmens weiterentwickelt.
-
-### Die Beziehung des Rahmens zur weiteren Landschaft
-
-Die Satan-Behandlung des Wheel-of-Heaven-Korpus ist innerhalb dieser wissenschaftlichen Landschaft wie folgt positioniert: substanziell übereinstimmend mit der Mainstream-Forschung zur hebräischen Bibel auf der Ebene der Anerkennung des institutionellen Charakters (Anerkennung des ursprünglich begrenzten und institutionellen Charakters der Figur); substanziell übereinstimmend mit der Mainstream-Forschung zur Zweiten-Tempel-Periode auf der Ebene der Entwicklungsgeschichte (Anerkennung des substanziellen persisch-dualistischen Einflusses und des Beitrags der Wächter-Tradition); substanziell übereinstimmend mit der Mainstream-Forschung zur christlichen Tradition auf der Ebene der historisch-entwicklungsbezogenen Dokumentation (Anerkennung der substanziellen nachbiblischen Ausarbeitung); substanziell verschieden von der Mainstream-Forschung auf der Ebene des zugrundeliegenden historischen Ereignisses (der Rahmen des Korpus liest das *satan* der hebräischen Bibel und die weiteren verwandten Figuren als Bewahrung der Erinnerung an tatsächliche Ereignisse, die eine tatsächliche Eloha-Figur einbeziehen, während die Mainstream-Forschung die Figur generell als religiös-kulturelle Entwicklung ohne spezifischen historischen Referenten behandelt); substanziell übereinstimmend mit verschiedenen alternativ-historischen wissenschaftlichen Traditionen (Biglinos streng-übersetzerischer Ansatz, Kellys revisionistische Position) auf der Ebene des weiteren interpretatorischen Rahmens.
+Der Korpus stimmt in weiten Teilen des Bildes mit der etablierten Forschung überein: beim ursprünglich institutionellen Charakter der Figur (Forschung zur hebräischen Bibel), bei den Beiträgen des Persischen und der Wächter (Forschung zum Zweiten Tempel) und bei der nachbiblischen Ausarbeitung (Forschung zur christlichen Tradition). Er weicht beim zugrunde liegenden Geschehen ab: Wo die etablierte Forschung die Figur als religiös-kulturelle Entwicklung ohne historischen Bezugspunkt behandelt, liest der Korpus den *satan* und verwandte Figuren als Erinnerung an tatsächliche Ereignisse, an denen eine tatsächliche Eloha-Figur beteiligt war — eine Lesart, die er mit alternativ-historischen Ansätzen wie Biglinos Übersetzungsarbeit und Kellys Revisionismus teilt.
 
 ## Vergleichende Beobachtungen
 
-Die Satansfigur hat substanzielle kulturübergreifende Parallelen in verschiedenen religiös-traditionellen Kontexten weltweit.
+Die Satan-Figur hat weltweit kulturübergreifende Parallelen.
 
 ### Zoroastrischer Angra Mainyu / Ahriman
 
-Die zoroastrische Tradition bewahrt den zentralen Vorläufer des kosmischen Dualismus, der das Judentum des Zweiten Tempels und die nachfolgende Entwicklung der christlichen Tradition substanziell beeinflusst hat.
-
-**Angra Mainyu**. Der zoroastrische *Angra Mainyu* (Avestisch: 𐬀𐬢𐬭𐬀⸱𐬨𐬀𐬌𐬥𐬌𐬌𐬎, „zerstörerischer Geist“, „böser Geist“) ist die zentrale Figur kosmischen Bösen im Zoroastrismus.{{ cite(id="avesta", text="[9]", title="*Avesta* — zoroastrische Schrift; der kosmisch-dualistische Rahmen Angra Mainyu / Ahura Mazda") }} Die Figur operiert in kosmischer Opposition zu **Ahura Mazda** (dem Prinzip des Guten, des Lichts, der Wahrheit und der Ordnung) und wird mit kosmischem Chaos, Bösem, Täuschung und Zerstörung assoziiert.
-
-**Ahriman**. Die spätere pahlavi/mittelpersische Bezeichnung **Ahriman** ist die zentrale nachfolgende Bezeichnung für dieselbe Figur, mit substanzieller Entwicklung in der sassanidischen und nachsassanidischen Periode.
-
-**Der kosmisch-dualistische Rahmen**. Der zoroastrische Rahmen behandelt die Angra Mainyu / Ahriman-Figur als substanziell ko-ewig mit Ahura Mazda, wobei die kosmische Ordnung als grundlegende Opposition zwischen den beiden Prinzipien strukturiert ist. Der dualistische Rahmen hat substanzielle Implikationen für die weitere kosmologisch-theologische Struktur.
-
-**Der Einfluss auf das Judentum des Zweiten Tempels**. Der substanzielle kulturell-politische Einfluss des achämenidisch-persischen Reiches auf die jüdische nachexilische Gemeinschaft brachte substanziellen zoroastrischen Einfluss auf die jüdische theologische Entwicklung des Zweiten Tempels hervor. Der zentrale Einfluss: Der kosmisch-dualistische Rahmen lieferte substanzielles konzeptionelles Material, das schrittweise in die jüdische Entwicklung der *satan*-Figur absorbiert wurde, wobei die ursprünglich begrenzte Figur der hebräischen Bibel schrittweise Aspekte des zoroastrischen dualistischen Rahmens absorbierte.
-
-**Die Lesart des Korpus**. Der zoroastrische Rahmen Angra Mainyu / Ahriman verzeichnet substanziell parallelen Inhalt zum weiteren Muster kosmischer Opposition, während er innerhalb der eigenständigen zoroastrischen kosmologisch-theologischen Rahmung operiert. Die spezifische Lesart des Rahmens: Die zoroastrische Figur könnte kulturelle Erinnerung an dasselbe weitere Muster kosmisch-politischer Opposition bewahren, welches das *satan* der hebräischen Bibel in eigenständiger jüdischer Rahmung bewahrt, wobei beide Traditionen das weitere kulturübergreifende Theomachie-Muster widerspiegeln, das der Rahmen des Korpus ausführlicher im Eintrag {% wiki(slug="theomachy") %}Theomachie{% end %} artikuliert.
+Der zoroastrische *Angra Mainyu* (avestisch: 𐬀𐬢𐬭𐬀⸱𐬨𐬀𐬌𐬥𐬌𐬌𐬎, „zerstörerischer Geist“) ist die Figur des kosmischen Bösen im Zoroastrismus, **Ahura Mazda** (gut, Licht, Wahrheit, Ordnung) entgegengesetzt und mit Chaos und Täuschung verbunden.{{ cite(id="avesta", text="[9]", title="*Avesta* — zoroastrische Schrift; der kosmisch-dualistische Rahmen von Angra Mainyu / Ahura Mazda") }} Der spätere Pahlavi-Name ist **Ahriman**. Die beiden Prinzipien sind gleich ewig, und die kosmische Ordnung ist als ihr Gegensatz strukturiert — der Dualismus, den der achämenidische Kontakt in die Entwicklung des *satan* in der Zeit des Zweiten Tempels einspeiste. Der Korpus liest die zoroastrische Figur als mögliche kulturelle Erinnerung an dieselbe kosmisch-politische Opposition, eine Artikulation des weiteren Musters der {% wiki(slug="theomachy") %}Theomachie{% end %}.
 
 ### Vedisch-hinduistische adversariale Figuren
 
-Die vedisch-hinduistische Tradition bewahrt substanzielle adversarial-kosmische Figuren mit verschiedenen strukturellen Parallelen zur Satan-Figuration.
-
-**Die Asuras**. Die vedischen und nach-vedischen *Asuras* (असुर) werden oft als „Dämonen“ übersetzt, aber genauer als „die Mächtigen“ oder „die anderen Götter“ — die Figuren, die in kosmischer Opposition zu den *Devas* (den Göttern der etablierten kosmischen Ordnung) operieren. Die detaillierte Behandlung der Deva-Asura-Konflikte findet sich im Abschnitt Vergleichende Beobachtungen des Eintrags {% wiki(slug="theomachy") %}Theomachie{% end %}.
-
-**Spezifische Asura-Figuren**. Verschiedene spezifische Asura-Figuren verzeichnen substanziellen adversarial-kosmischen Inhalt: **Vritra** (der Drachen-Schlange, von Indra erschlagen), **Bali** (der Dämonenkönig, von Vishnus Vamana-Avatar besiegt), **Hiranyakashipu** (der Dämonenkönig, von Vishnus Narasimha-Avatar besiegt), **Mahishasura** (der Büffel-Dämon, von Durga besiegt) und verschiedene andere. Das weitere Muster: Jede Asura-Figur repräsentiert eine spezifische kosmisch-oppositionelle Rolle innerhalb des weiteren kosmisch-politischen Rahmens.
-
-**Der zyklisch-oppositionelle Charakter**. Die spezifische Behandlung der Deva-Asura-Konflikte als zyklisch (wiederkehrend über kosmische Zeitalter) durch die hinduistische Tradition verzeichnet substanziell parallelen Inhalt zum weiteren Theomachie-Muster, wobei die Lesart des Korpus dies als Bewahrung kultureller Erinnerung an den mehrphasigen historischen Konflikt verzeichnet.
+Die *Asuras* (असुर), besser mit „die Mächtigen“ als mit „Dämonen“ wiedergegeben, stehen den *Devas* der etablierten Ordnung gegenüber; ihre Konflikte werden im Eintrag {% wiki(slug="theomachy") %}Theomachie{% end %} behandelt. Zu den namentlich bekannten Figuren gehören **Vritra** (die von Indra erschlagene Drachenschlange), **Bali** (besiegt von Vishnus Avatar Vamana), **Hiranyakashipu** (besiegt von Narasimha) und **Mahishasura** (besiegt von Durga). Die Konflikte zwischen Devas und Asuras sind zyklisch und kehren über kosmische Zeitalter hinweg wieder — was der Korpus als Erinnerung an einen mehrphasigen historischen Konflikt liest.
 
 ### Buddhistischer Mara
 
-Die buddhistische Tradition bewahrt die **Mara**-Figur (Sanskrit: माय, „Tod“, „Zerstörer“) mit substanzieller struktureller Parallele zur Satan-Figuration.
-
-**Mara als Versucher**. Mara ist die zentrale buddhistische adversariale Figur, die versucht, die Erleuchtung des Buddha unter dem Bodhi-Baum zu verhindern. Die Mara-Erzählung umfasst verschiedene spezifische Versuchungsversuche: die Töchter Maras als sinnliche Versucherinnen, die Mara-Armeen als furchteinflößende Kräfte, die verschiedenen Herausforderungen des Anspruchs des Buddha auf Erleuchtung.
-
-**Die strukturelle Parallele zur Wüstenversuchung Jesu**. Die Mara-Buddha-Konfrontation hat substanzielle strukturelle Parallele zur Satan-Jesus-Wüstenversuchungs-Erzählung. Beide Erzählungen weisen auf: einen kosmischen Widersacher, der versucht, die zentrale religiöse Figur an der Erfüllung der zentralen religiösen Mission zu hindern; spezifische Versuchungsversuche, die zentrale Verwundbarkeitskategorien abdecken (sinnliches Verlangen, Furcht, Stolz/Ehrgeiz); den erfolgreichen Widerstand der zentralen religiösen Figur durch spezifische spirituell-disziplinäre Praktiken; den eventuellen Abgang des Widersachers.
-
-**Die Lesart als institutioneller Prüfer**. Die spezifische Lesart des Rahmens verzeichnet Mara als Bewahrung substanziell parallelen Inhalts zum weiteren institutionellen Propheten-Prüfungsmuster, das der Korpus durch die Satan-Figuration artikuliert. Die Mara-Buddha-Erzählung könnte kulturelle Erinnerung an dieselbe weitere institutionelle Prüfungsfunktion in eigenständiger buddhistischer religiös-philosophischer Rahmung bewahren.
+**Mara** (Sanskrit: माय, „Tod“, „Zerstörer“) versucht, die Erleuchtung des Buddha unter dem Bodhi-Baum zu verhindern — die Töchter Maras als sinnliche Verführerinnen, die Heere Maras als Furcht, Anfechtungen seines Anspruchs auf Erleuchtung. Die Konfrontation entspricht der Prüfung Jesu durch Satan in der Wüste: ein kosmischer Widersacher, Versuchungen in denselben Kategorien der Verwundbarkeit (Begierde, Furcht, Hochmut), erfolgreicher Widerstand und der Abzug des Widersachers. Der Korpus liest Mara als das Muster der Prophetenprüfung in buddhistischer Rahmung.
 
 ### Ägyptischer Set
 
-Die ägyptische Tradition bewahrt die **Set**-Figur (Ägyptisch: *Sutech*, *Sutekh*) als zentrale Figur kosmischer Opposition mit substanziell parallelem Inhalt.
-
-**Sets spezifische Rolle**. Set ist der ägyptische Gott des Chaos, der Fremden, der Wüste und des störenden Prinzips. Sets Erzählung umfasst den Mord an Osiris (dem Gott der Ordnung und des rechtmäßigen Königtums), den Konflikt mit Horus (Sohn und Rächer des Osiris) und die eventuelle Lösung durch göttliches Gericht, die Horus als rechtmäßigen König etabliert, während Set die Herrschaft über die Wüste und fremde Länder verbleibt.
-
-**Die Lesart des Korpus**. Die Lesart des Korpus behandelt Set als Bewahrung kultureller Erinnerung an die weitere Schlangen-/Luzifer-Fraktion in ihrer nachkonfliktuellen politischen Marginalisierung. Die detaillierte Behandlung findet sich im Abschnitt Vergleichende Beobachtungen des Eintrags {% wiki(slug="theomachy") %}Theomachie{% end %}. Der spezifische Charakter der Set-Figur — Bewahrung bestimmter Kräfte unter Ausschluss von kosmischer Zentralität — entspricht der politischen Form der vom Rahmen des Korpus vorausgesagten nachkonfliktuellen Beilegung.
+**Set** (*Sutech*), Gott des Chaos, der Wüsten und der Störung, ermordet Osiris, kämpft gegen Horus und bleibt schließlich auf die Wüste und die Fremdländer beschränkt, während Horus die Königsherrschaft übernimmt. Der Korpus liest Set als Erinnerung an die Schlangen-/Luzifer-Fraktion in der Marginalisierung nach dem Konflikt — sie behält etwas Macht, ist aber vom Zentrum ausgeschlossen; siehe den Eintrag {% wiki(slug="theomachy") %}Theomachie{% end %}.
 
 ### Mesopotamische adversariale Figuren
 
-Die mesopotamische Tradition bewahrt substanziellen adversarial-kosmischen Inhalt in verschiedenen spezifischen Figuren.
+**Pazuzu** ist ein Dämon der Krankheit mit apotropäischer Funktion (der andere Übel abwehrt). Die magische Tradition kennt zudem **Lamaschtu** (Fehlgeburt und Kindstod) und **Lilitu** (Vorläuferin der hebräischen Lilith) — Kontext für die adversarialen Figuren der hebräischen Bibel. **Tiamat**, die schlangenhafte Mutter des *Enuma Elisch*, entspricht eher der Schlangen-/Luzifer-Tradition als Satan im Besonderen; siehe den Eintrag {% wiki(slug="theomachy") %}Theomachie{% end %}.
 
-**Pazuzu**. Der mesopotamische **Pazuzu** ist eine spezifische dämonische Figur, besonders verbunden mit Krankheit und Schutz vor anderen Übeln. Die spezifische apotropäische Funktion der Figur (verwendet, um andere Übel abzuwehren) verzeichnet eigenständigen mesopotamischen Inhalt einer adversarialen Figur.
+### Chinesische Figuren der Opposition gegen die kosmische Bürokratie
 
-**Die weiteren Dämonen-Traditionen**. Die mesopotamische religiös-magische Tradition bewahrt substanzielle weitere Dämonen-Traditionen, einschließlich **Lamaschtu** (die weibliche Dämonin, verbunden mit Fehlgeburt und Säuglingstod), **Lilitu** (die weibliche Dämonen-Vorgängerin der späteren hebräischen Lilith) und verschiedener anderer adversarial-kosmischer Figuren. Die weitere Tradition liefert substanziellen kulturell-religiösen Kontext, innerhalb dessen die Entwicklung der adversarialen Figur in der hebräischen Bibel operierte.
-
-**Tiamat**. Die mesopotamische *Tiamat* (die uranfängliche schlangenartige Mutter des *Enuma Elisch*) wird ausführlicher im Eintrag {% wiki(slug="theomachy") %}Theomachie{% end %} behandelt. Die Figur bewahrt substanziell parallelen Inhalt zur weiteren Schlangen-/Luzifer-Fraktion-Tradition statt zur Satan-Tradition spezifisch.
-
-### Chinesische Figuren kosmisch-bürokratischer Opposition
-
-Die chinesische Tradition bewahrt substanziellen kosmisch-oppositionellen Inhalt innerhalb des eigenständigen chinesischen kosmisch-bürokratischen Rahmens.
-
-**Verschiedene rebellisch-göttliche Figuren**. Die chinesische mythologische Tradition bewahrt verschiedene rebellisch-göttliche Figuren, die in kosmisch-politischer Opposition zur himmlischen Bürokratie operieren: **Sun Wukong** (der Affenkönig, der die Autorität des Himmels herausfordert), **Gonggong** (die Wassergottheit, die die kosmischen Säulen beschädigt) und verschiedene andere rebellisch-kosmische Figuren. Die Figuren operieren innerhalb des eigenständigen chinesischen kosmisch-bürokratischen politischen Rahmens statt als Personifikationen kosmischen Bösen.
-
-**Die bürokratisch-politische Charakterisierung**. Das eigenständige Merkmal der chinesischen Tradition ist die bürokratisch-politische Charakterisierung kosmischer Autorität, wobei die Rebellenfiguren oft als Herausforderer der etablierten celestial-bürokratischen Ordnung statt als uranfängliche Chaos-Figuren charakterisiert werden. Die spezifische Lesart des Rahmens verzeichnet dies als Bewahrung des weiteren politisch-institutionellen Oppositionsmusters innerhalb der eigenständigen chinesischen kulturell-politischen Rahmung.
+Der chinesische Mythos stellt aufrührerische göttliche Figuren gegen die himmlische Bürokratie: **Sun Wukong** (der Affenkönig, der den Himmel herausfordert) und **Gonggong** (der die kosmischen Säulen beschädigt). Sie fordern eine etablierte bürokratische Ordnung heraus, statt urzeitliches Chaos zu verkörpern — der Korpus liest dies als das Muster politisch-institutioneller Opposition in chinesischer Rahmung.
 
 ### Nordischer Loki
 
-Die nordische Tradition bewahrt die **Loki**-Figur als Trickster-Widersacher mit komplexem moralischem Status.
-
-**Lokis spezifischer Charakter**. Loki ist eine komplexe Figur, die simultan innerhalb und gegen die Aesir-Gottesgemeinschaft operiert. Der spezifische Charakter der Figur umfasst: substanzielle Kooperation mit den Aesir bei verschiedenen Abenteuern; substanzielle Täuschung und Verursachung von Schwierigkeiten in der weiteren nordischen mythologischen Erzählung; die Tötung Baldrs (das zentrale kosmisch-tragische Ereignis); die eventuelle Fesselung Lokis und seine prophezeite Teilnahme an Ragnarök.
-
-**Der komplexe moralische Status**. Lokis spezifische Position verzeichnet substanziell moralisch-politische Komplexität statt einer Personifikation kosmischen Bösen. Die Figur operiert als institutioneller Insider mit adversarialen Tendenzen statt als externer kosmischer Widersacher.
-
-**Die Lesart des Rahmens**. Die Lesart des Korpus verzeichnet Loki als Bewahrung substanziell parallelen Inhalts zum weiteren institutionell-adversarialen Muster innerhalb eigenständig nordischer religiös-mythologischer Rahmung. Der komplexe moralische Status — weder rein böse noch rein gut — entspricht der spezifischen Position des Rahmens zu Satan als grundsätzlich-politisch-oppositioneller Figur statt als Personifikation kosmischen Bösen.
+**Loki** wirkt sowohl innerhalb der Asen als auch gegen sie: Er wirkt an ihren Abenteuern mit, täuscht und stiftet Unruhe, tötet Baldr und wird schließlich gefesselt, um Ragnarök zu erwarten. Er ist ein institutioneller Insider mit adversarialen Neigungen, kein äußerer kosmischer Widersacher — weder rein böse noch rein gut, was der Lesart Satans durch den Korpus als grundsätzliche Opposition statt als Personifikation des kosmischen Bösen entspricht.
 
 ### Indigene adversarial-kosmische Figuren
 
-Verschiedene indigene Traditionen bewahren substanzielle adversarial-kosmische Figuren innerhalb ihrer eigenständigen kulturell-religiösen Rahmungen.
-
-**Die Trickster-Traditionen**. Verschiedene indigene amerikanische Traditionen (Kojote in verschiedenen indianischen Traditionen, Rabe in pazifik-nordwestlichen Traditionen, verschiedene andere) bewahren Trickster-Figuren, die in komplexen moralisch-politischen Positionen analog zu Loki operieren. Die Trickster-Traditionen liefern substanziellen kulturübergreifenden parallelen Inhalt zum weiteren institutionell-adversarialen Muster.
-
-**Verschiedene afrikanische adversariale Figuren**. Verschiedene afrikanische Traditionen bewahren substanziellen adversarial-kosmischen Inhalt (das verschiedene Yoruba-Eshu-Material, verschiedene adversariale Figuren der Bantu-Tradition, verschiedene andere) mit eigenständiger kulturell-religiöser Rahmung.
-
-**Das polynesische und aborigine-australische Material**. Verschiedene polynesische und aborigine-australische Traditionen bewahren substanziellen adversarial-kosmischen Inhalt innerhalb ihrer eigenständigen kulturell-religiösen Kanäle.
+Trickster-Figuren der indigenen Völker Amerikas — Kojote, der Rabe des pazifischen Nordwestens — nehmen ähnliche moralisch-politische Positionen wie Loki ein. Afrikanische Traditionen kennen eigene adversariale Figuren (den Eshu der Yoruba, verschiedene Bantu-Figuren), ebenso polynesische und australisch-aboriginale Traditionen.
 
 ### Das kulturübergreifende Muster „grundsätzlicher Opposition“
 
-Die Arbeitsposition des Korpus zur vergleichenden Figurenfrage ist, dass die kulturübergreifende Verteilung von Figuren grundsätzlicher Opposition in verschiedenen religiös-traditionellen Kontexten als Beleg für ein weiteres Muster bedeutsam ist.
+Der Korpus behandelt die weite Verbreitung von Figuren grundsätzlicher Opposition als Beleg für ein gemeinsames Muster. Die etablierte Forschung erklärt es durch unabhängige Entwicklung, ein gemeinsames kognitiv-archetypisches Substrat (Jungs „Schatten“) und begrenzte Diffusion; der Korpus liest es als gemeinsame Erinnerung an eine tatsächliche politische Struktur — die Politik der Elohim, innerhalb derer Satans Opposition wirkt. Jede Tradition bewahrt das Muster in ihrer eigenen Rahmung: der zoroastrische Dualismus, die zyklischen hinduistischen Asuras, die Prophetenprüfung des buddhistischen Mara, der marginalisierte ägyptische Set, der moralisch vielschichtige nordische Loki und die indigenen Traditionen.
 
-Die Mainstream-wissenschaftliche Erklärung behandelt das kulturübergreifende Oppositions-Figur-Muster generell durch eine Kombination aus unabhängiger kultureller Entwicklung, geteiltem kognitiv-archetypischem Substrat (Carl Jungs „Schatten“-Archetyp, verschiedene andere psychoanalytische Auseinandersetzungen) und begrenzter kultureller Diffusion. Die Lesart des Korpus: Das kulturübergreifende Muster bewahrt eine gemeinsame Erinnerung an eine tatsächliche politisch-institutionelle Struktur innerhalb eines tatsächlichen kosmisch-zivilisatorischen Rahmens — die weitere politische Elohim-Struktur, innerhalb derer Satans spezifische Position grundsätzlicher Opposition operiert.
-
-Die spezifische Lesart des Rahmens: Jede kulturelle Tradition bewahrt das weitere Muster grundsätzlicher Opposition innerhalb ihrer eigenen eigenständigen kulturell-religiösen Rahmung. Der zoroastrische Angra Mainyu / Ahriman bewahrt die kosmisch-dualistische Artikulation; die hinduistischen Asuras bewahren die zyklisch-oppositionelle Artikulation; der buddhistische Mara bewahrt die Propheten-Prüfungs-Artikulation; der ägyptische Set bewahrt die Artikulation der nachkonfliktuellen Marginalisierung; der nordische Loki bewahrt die Artikulation des komplex-moralischen Status; die verschiedenen indigenen Traditionen bewahren substanziell parallelen Inhalt innerhalb ihrer eigenständigen Kanäle.
-
-Der Korpus erfordert nicht die Ablehnung des gesamten Mainstream-Erklärungsrahmens. Eine Kombination aus kultureller Diffusion, geteiltem kognitiv-archetypischem Substrat und unabhängiger kultureller Entwicklung kann zur spezifischen Ausarbeitung der Oppositions-Figur-Traditionen über Kulturen hinweg beigetragen haben. Was der Rahmen des Korpus hinzufügt, ist die zugrundeliegende historisch-politische Grundlage, welche die strukturellen Gemeinsamkeiten hervorbrachte — die tatsächliche politisch-institutionelle Eloha-Struktur, innerhalb derer Satans spezifische Position grundsätzlicher Opposition operiert, wobei die kulturübergreifenden Traditionen die kulturelle Erinnerung an diese Grundlage in ihren eigenständigen kulturell-religiösen Rahmungen bewahren{{ footnote(id="6") }}.
-
-Der besondere Beitrag des Rahmens innerhalb dieser vergleichenden Landschaft ist die **Rahmung grundsätzlicher Opposition** selbst. Die verschiedenen kulturübergreifenden Oppositions-Figuren teilen substanzielle strukturelle Merkmale, welche die Mainstream-religionsvergleichende Forschung dokumentiert hat; der spezifische Beitrag des Korpus ist die Verzeichnung, dass diese Figuren keine Personifikationen kosmischen Bösen sind, sondern Figuren grundsätzlich-politischer Opposition innerhalb eines substanziell funktionalen kosmisch-politisch-institutionellen Rahmens. Diese Rahmung hat substanzielle Implikationen für die weitere theologisch-philosophische Landschaft: Der dualistische Rahmen kosmisches-Gut-gegen-kosmisches-Böses, der substanzielle westliche religiös-kulturelle Vorstellungswelt geprägt hat, wird ersetzt durch die Anerkennung kosmisch-politisch-institutioneller Dynamik innerhalb eines weiteren kosmisch-zivilisatorischen Rahmens.
+Der Korpus lehnt die etablierte Erklärung nicht ab — Diffusion, ein gemeinsames Substrat und unabhängige Entwicklung können alle beitragen. Er fügt die historisch-politische Grundlage unter den Gemeinsamkeiten hinzu: die politische Struktur der Eloha, die diese Figuren als kulturelle Erinnerung verzeichnen{{ footnote(id="6") }}. Sein eigenständiger Schritt ist die **Rahmung als grundsätzliche Opposition** — diese Figuren nicht als Personifikationen des kosmischen Bösen, sondern als grundsätzliche politische Opposition innerhalb einer funktionierenden kosmisch-politischen Ordnung zu lesen und die Achse von Gut gegen Böse der westlichen Vorstellungswelt durch institutionelle Dynamik zu ersetzen.

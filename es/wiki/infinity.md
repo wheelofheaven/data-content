@@ -6,8 +6,8 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
-source_updated = "2026-11-08"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
@@ -314,7 +314,7 @@ Infinity's ethical correlate is the **Four Levels**, the source's practical-ethi
 - Level 3 purpose when individual concerns threaten to overwhelm broader responsibilities
 - Level 4 meaning-making when impersonal frameworks threaten to extinguish individual significance
 
-The Four Levels is the practical-ethical orientation Infinity grounds. Each level is treated in the dedicated [Four Levels](../four-levels/) entry when written; the Infinity entry establishes the foundational cosmological framework within which they operate.
+The Four Levels is the practical-ethical orientation Infinity grounds. Each level is treated in the dedicated [Four Levels](../four-levels/) entry; the Infinity entry establishes the foundational cosmological framework within which they operate.
 
 ### The "love" constant across all four levels
 
@@ -349,7 +349,7 @@ Cosmic Competition operates within Infinity, its evaluation processes running ac
 
 ### The Four Levels entry
 
-Four Levels is Infinity's ethical-practical correlate, treated in the [Four Levels](../four-levels/) entry when written.
+Four Levels is Infinity's ethical-practical correlate, treated in the [Four Levels](../four-levels/) entry.
 
 ### The Raëlian Symbol entry
 

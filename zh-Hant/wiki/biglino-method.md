@@ -6,8 +6,8 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
-source_updated = "2026-11-08"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
@@ -313,7 +313,7 @@ The corpus reads Alter as an important contemporary witness to what direct Hebre
 
 Within the broader Ancient Astronaut Hypothesis tradition (treated systematically in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry), several figures operate with methodologies adjacent to Biglino's:
 
-- **Jean Sendy** — the principal pre-Biglino articulator of the Schliemann-Homer methodology applied to the Hebrew Bible; treated in the [Jean Sendy](/wiki/jean-sendy/) entry when written
+- **Jean Sendy** — the principal pre-Biglino articulator of the Schliemann-Homer methodology applied to the Hebrew Bible; treated in the [Jean Sendy](/wiki/jean-sendy/) entry
 - **Paul Anthony Wallis** — Australian author whose *Escaping from Eden* (2020) and *The Scars of Eden* (2021) draw substantially on Biglino's textual observations and extend them through additional cross-cultural comparative material; Wallis is the principal Anglophone popularizer of the Biglino-adjacent approach
 - **Various ancient-astronaut figures** — Erich von Däniken, Zecharia Sitchin, and others have engaged biblical texts but generally without Biglino's depth of direct Hebrew engagement; their work is often methodologically looser than Biglino's
 

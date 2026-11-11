@@ -1,22 +1,22 @@
 +++
 title = "Botschaft"
 slug = "embassy"
-description = "Die Botschaft ist das vorgesehene physische Bauwerk auf einem bestimmten, von einem Gastland mit extraterritorialem Status ausgestatteten Grundstück, das bereitsteht, um die formelle Ankunft der Elohim-Allianz zu empfangen und als operativer Ort für die durch die Ankunft eingeleiteten Begegnungen zwischen der Allianz und den Vertretern der Menschheit zu dienen. Die Spezifikationen der Botschaft wurden im Kontakt von 1973 gegeben und in späteren Mitteilungen ausgearbeitet. Die Quelle bevorzugte ursprünglich nachdrücklich Israel in der Nähe Jerusalems und identifizierte die Botschaft als den Dritten Tempel der jüdischen apokalyptischen Tradition; die Botschaft vom 13. Dezember 1997 autorisierte nach wiederholten israelischen Ablehnungen die Verlegung in andere Länder."
+description = "Die Botschaft ist das vorgesehene physische Bauwerk auf einem Grundstück, dem ein Gastland extraterritorialen Status gewährt hat, bereit, die formelle Ankunft der Elohim-Allianz zu empfangen und die Begegnungen zwischen der Allianz und den Vertretern der Menschheit zu beherbergen, die diese Ankunft einleiten wird. Ihre Spezifikationen wurden im Kontakt von 1973 gegeben und in späteren Mitteilungen ausgearbeitet. Die Quelle bevorzugte zunächst nachdrücklich Israel in der Nähe Jerusalems und identifizierte die Botschaft als den Dritten Tempel der jüdischen apokalyptischen Tradition; die Botschaft vom 13. Dezember 1997 autorisierte nach wiederholten israelischen Ablehnungen die Verlegung in andere Länder."
 template = "wiki-page.html"
 toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
-translation_sync = 92
-core_versions = { woh-claim-0016 = "0.1.0" }
-core_claim_ids = ["woh-claim-0016"]
+translation_sync = 100
 category = "Cosmology & Framework"
-editorial_pass = "2026-05"
+editorial_pass = "2026-07"
 entry_type = "concept"
 claim_type = "framework"
+core_claim_ids = ["woh-claim-0016"]
+core_versions = { woh-claim-0016 = "0.1.0" }
 alternative_names = ["die Botschaft", "der Dritte Tempel", "die Botschaft der Elohim", "die Residenz", "die Botschaft der Allianz"]
 timeline = ["aquarius"]
 see_also = [
@@ -24,17 +24,17 @@ see_also = [
     { title = "Dritter Tempel", path = "wiki/third-temple", description = "Der jüdische prophetisch-apokalyptische Tempel, mit dem die Quelle die Botschaft identifiziert." },
     { title = "Neues Jerusalem", path = "wiki/new-jerusalem", description = "Die Vision der Offenbarung, die der Rahmen in Verbindung mit der projizierten Rolle der Botschaft liest." },
     { title = "Kosmische Kette", path = "wiki/cosmic-chain", description = "Der weitere kosmologische Rahmen, innerhalb dessen das Erbschaftsereignis der Botschaft eine bestimmte Phase ist." },
-    { title = "Elohim", path = "wiki/elohim", description = "Die Allianz, deren formelle Ankunft die Botschaft zu empfangen errichtet wird." },
+    { title = "Elohim", path = "wiki/elohim", description = "Die Allianz, zu deren formellem Empfang die Botschaft errichtet wird." },
     { title = "Raël", path = "wiki/rael", description = "Der Prophet (Claude Vorilhon), der mit der Organisation des Botschaftsprojekts betraut ist." },
 ]
 
 footnotes = [
-    { content = "Die Botschaft ist das am stärksten quellengestützte Element des Rahmens des Korpus. Anders als der Kosmische Wettbewerb, die Doppelte Signatur und die Kosmische Kette — die alle eine erhebliche interpretative Konstruktion des Korpus über die Quelle hinaus umfassen — stammen die detaillierten architektonischen Spezifikationen der Botschaft, die Standortpräferenzen, die operativen Anforderungen und die projizierte Rolle unmittelbar aus dem raëlianischen Quellenmaterial (*Das Buch, das die Wahrheit sagt*, 1974, „Die neuen Gebote — Eure Mission“). Der interpretative Beitrag des Korpus besteht hauptsächlich in der Integration des Botschaftsmaterials mit dem weiteren Rahmen des Wassermann-Zeitalters." },
-    { content = "Das Korpus verzeichnet den von der raëlianischen Bewegung projizierten Zeitrahmen 2027–2030 und die gegenwärtige Phase des Projekts als Organisationsgeschichte, ohne die Daten zu befürworten. Der Fortschritt hängt von diplomatischen Verhandlungen und den politischen Bedingungen des Gastlandes ab, und das Korpus behandelt ihn, wie auch jede Entscheidung eines Gastlandes, weder als Bestätigung noch als Widerlegung der Prämisse des Kanons; der Zeitpunkt gehört zur bedingten, undatierten Rückkehr des Kanons." },
-    { content = "Die Identifizierung der Botschaft mit dem jüdischen prophetisch-apokalyptischen Dritten Tempel durch die Quelle ist explizit. In der jüdischen Erwartung folgt der Dritte Tempel auf den salomonischen Ersten Tempel (errichtet um 950 v. u. Z., zerstört 586 v. u. Z.) und den Zweiten Tempel (errichtet um 516 v. u. Z., von Herodes erweitert, zerstört 70 u. Z.); die Identifizierung bildet die Botschaft auf diese Erwartung ab, ohne sie zu ersetzen, und das Korpus zieht keine Linie von Empfangsstätten von jenen Tempeln zur Botschaft (der Kanon nennt den Tempel Salomos „die erste Residenz zum Empfang der Elohim“, TBWTT-3:102, sagt aber nichts von einer Abfolge). Die jüdische theologisch-historische Mehrheitstradition akzeptiert die raëlianische Identifizierung der Botschaft mit dem Dritten Tempel nicht; das Korpus verzeichnet die Identifizierung als explizite Behauptung der Quelle, nicht als von der Mehrheit befürwortete Lesart. Das Korpus liest Hesekiel 47,1–2 (Wasser, das aus der Schwelle des Tempels hervortritt) als Vorausbild der projizierten Rolle der Botschaft." },
-    { content = "Die ursprüngliche Präferenz der Quelle war, dass die Botschaft in Israel in der Nähe Jerusalems gelegen sein sollte — dem geografischen Ort der ursprünglichen Eden-Operation der Allianz und des erweiterten Eden-Linien-Projekts. Nach wiederholten israelischen Ablehnungen, extraterritorialen Status zu gewähren, über formelle Anträge ab 1991 hinweg, autorisierte die Botschaft Jahwes vom 13. Dezember 1997 die raëlianische Bewegung formell, den Status von „allen Nationen der Erde“ zu erbitten, wobei Israel nur eine letzte Option behielt. Das Korpus behandelt die Standortfrage als quellengestützt, aber in der Praxis ungeklärt." },
-    { content = "Das Korpus setzt sich mit dem zeitgenössischen UAP-Offenlegungsdiskurs auseinander (den AATIP-Enthüllungen der *New York Times* von 2017; Luis Elizondos *Imminent*; David Gruschs Kongressaussage von 2023; Avi Loebs Galileo-Projekt und dem ʻOumuamua-Argument; der Sol Foundation) als dem gegenwärtigen kulturellen Kontext, innerhalb dessen der projizierte offene Kontakt der Botschaft stattfinden würde — ohne zu behaupten, dass die UAP-Phänomene die Elohim-Allianz seien oder dass die Offenlegungsbewegung die Botschaft befürworte. Das Korpus liest die Entwicklung als eine Verschiebung der Plausibilitätsbedingungen für offenen außerirdischen Kontakt, nicht als Bestätigung des Rahmens." },
-    { content = "Die hier verglichenen Erwartungen einer wiederkehrenden Gestalt sind der jüdische Messias und der Dritte Tempel, die christliche Parusie, der islamische Mahdi, der buddhistische Maitreya, der hinduistische Kalki-Avatar, der zoroastrische Saoshyant und die aztekische Quetzalcoatl-Rückkehr. Nur der Dritte Tempel wird vom Kanon selbst mit der Botschaft identifiziert (siehe Anmerkung 3). Der Kanon spricht die buddhistische Erwartung mit eigenen Worten an — „deine Schriften zeigen an, dass der neue Buddha im Okzident geboren werden muss“ (ETTMTTP-3:228) — ohne den Namen Maitreya, der aus Raëls nachkanonischen Schriften stammt. Das Korpus verzeichnet die Ähnlichkeit dieser Erwartungen mit der Rückkehr des Kanons ausschließlich als Ähnlichkeit: Es identifiziert sie nicht mit der Rückkehr des Kanons, behandelt sie nicht als Beleg für eine zugrunde liegende Realität und bewahrt den eigenständigen theologischen Gehalt jeder Tradition." },
+    { content = "Die Botschaft ist das am stärksten quellengestützte Element des Rahmens des Korpus. Anders als der Kosmische Wettbewerb, die Doppelte Signatur und die Kosmische Kette — die alle eine interpretative Konstruktion des Korpus über die Quelle hinaus umfassen — stammen die architektonischen Spezifikationen der Botschaft, die Standortpräferenzen, die operativen Anforderungen und die projizierte Rolle unmittelbar aus dem raëlianischen Quellenmaterial (*Das Buch, das die Wahrheit sagt*, 1974, „Die neuen Gebote — Eure Mission“). Der Beitrag des Korpus besteht hauptsächlich in der Integration des Botschaftsmaterials mit dem Rahmen des Wassermann-Zeitalters." },
+    { content = "Der Korpus verzeichnet den von der raëlianischen Bewegung projizierten Zeitrahmen 2027–2030 und die gegenwärtige Phase des Projekts als Organisationsgeschichte, ohne die Daten zu befürworten. Der Fortschritt hängt von diplomatischen Verhandlungen und den politischen Bedingungen des Gastlandes ab, und der Korpus behandelt ihn, wie auch jede Entscheidung eines Gastlandes, weder als Bestätigung noch als Widerlegung der Prämisse des Kanons; der Zeitpunkt gehört zur bedingten, undatierten Rückkehr des Kanons." },
+    { content = "Die Identifizierung der Botschaft mit dem jüdischen prophetisch-apokalyptischen Dritten Tempel durch die Quelle ist explizit. In der jüdischen Erwartung folgt der Dritte Tempel auf den salomonischen Ersten Tempel (errichtet um 950 v. u. Z., zerstört 586 v. u. Z.) und den Zweiten Tempel (errichtet um 516 v. u. Z., von Herodes erweitert, zerstört 70 u. Z.); die Identifizierung bildet die Botschaft auf diese Erwartung ab, ohne sie zu ersetzen, und der Korpus zieht keine Linie von Empfangsstätten von jenen Tempeln zur Botschaft (der Kanon nennt den Tempel Salomos « la première résidence pour l'accueil des Elohim », TBWTT-3:102, sagt aber nichts von einer Abfolge). Die jüdische Mehrheitstradition akzeptiert die Identifizierung nicht; der Korpus verzeichnet sie als explizite Behauptung der Quelle, nicht als von der Mehrheit befürwortete Lesart. Der Korpus liest Hesekiel 47,1–2 (Wasser, das unter der Schwelle des Tempels hervortritt) als Vorausbild der projizierten Rolle der Botschaft." },
+    { content = "Die ursprüngliche Präferenz war Israel in der Nähe Jerusalems — der Ort der ursprünglichen Eden-Operation der Allianz und des erweiterten Projekts der Eden-Linie. Nach wiederholten israelischen Ablehnungen über formelle Anträge ab 1991 hinweg autorisierte die Botschaft Jahwes vom 13. Dezember 1997 die raëlianische Bewegung, extraterritorialen Status von „allen Nationen der Erde“ zu erbitten, wobei Israel nur eine letzte Option behielt. Der Korpus behandelt die Standortfrage als quellengestützt, aber in der Praxis ungeklärt." },
+    { content = "Der Korpus setzt sich mit dem UAP-Offenlegungsdiskurs auseinander (den AATIP-Enthüllungen der *New York Times* von 2017; Luis Elizondos *Imminent*; David Gruschs Kongressaussage von 2023; Avi Loebs Galileo-Projekt und dem ʻOumuamua-Argument; der Sol Foundation) als dem gegenwärtigen Kontext, innerhalb dessen der projizierte offene Kontakt der Botschaft stattfinden würde — ohne zu behaupten, dass die UAP-Phänomene die Elohim-Allianz seien oder dass die Offenlegungsbewegung die Botschaft befürworte. Der Korpus liest die Entwicklung als eine Verschiebung der Plausibilitätsbedingungen für offenen außerirdischen Kontakt, nicht als Bestätigung des Rahmens." },
+    { content = "Die hier verglichenen Erwartungen einer wiederkehrenden Gestalt sind der jüdische Messias und der Dritte Tempel, die christliche Parusie, der islamische Mahdi, der buddhistische Maitreya, der hinduistische Kalki-Avatar, der zoroastrische Saoshyant und die aztekische Rückkehr Quetzalcoatls. Nur der Dritte Tempel wird vom Kanon selbst mit der Botschaft identifiziert (siehe Anmerkung 3). Der Kanon spricht die buddhistische Erwartung mit eigenen Worten an — „deine Schriften zeigen an, dass der neue Buddha im Okzident geboren werden muss“ (ETTMTTP-3:228) — ohne den Namen Maitreya, der aus Raëls nachkanonischen Schriften stammt. Der Korpus verzeichnet die Ähnlichkeit dieser Erwartungen mit der Rückkehr des Kanons ausschließlich als Ähnlichkeit: Er identifiziert sie nicht mit der Rückkehr des Kanons, behandelt sie nicht als Beleg für eine zugrunde liegende Realität und bewahrt den eigenständigen theologischen Gehalt jeder Tradition." },
 ]
 
 [[extra.references]]
@@ -96,7 +96,7 @@ note = "Die Standardbehandlung der muslimischen apokalyptischen und Endzeit-Trad
 
 [[extra.references]]
 id = "doniger-the-hindus"
-note = "Donigers Überblick einschließlich der Kalki-Erwartung des künftigen Avatars."
+note = "Donigers Überblick einschließlich der Erwartung Kalkis als künftigen Avatars."
 
 [[extra.references]]
 id = "boyce-zoroastrians"
@@ -104,11 +104,11 @@ note = "Boyce über den zoroastrischen Saoshyant, den künftigen Retter, und die
 
 [[extra.references]]
 id = "carrasco-quetzalcoatl"
-note = "Carrasco über die Quetzalcoatl-Rückkehrprophezeiung in der aztekischen Tradition."
+note = "Carrasco über die Rückkehrprophezeiung Quetzalcoatls in der aztekischen Tradition."
 
 [[extra.references]]
 id = "elizondo-imminent"
-note = "Elizondos Bericht durch den ehemaligen Leiter des AATIP des Pentagon — ein zentraler Text der zeitgenössischen UAP-Offenlegungsbewegung."
+note = "Der Bericht Elizondos, des ehemaligen Leiters des AATIP des Pentagon — ein zentraler Text der zeitgenössischen UAP-Offenlegungsbewegung."
 
 [[extra.references]]
 id = "grusch-congressional-testimony"
@@ -124,118 +124,114 @@ note = "Loebs Erweiterung des Arguments der Artefaktsuche und das Beobachtungspr
 
 [extra.infobox]
 type = "Vorgesehenes physisches Bauwerk für die formelle Ankunft der Elohim-Allianz"
-basic_specifications = "≈4 km² großes Grundstück (1 km Radius); Konferenzraum für 21 Personen; Speiseraum für 21 Personen; sieben Gästezimmer mit separaten Bädern; Schwimmbecken; Landeplattform für 12-m-Raumschiff; Schutzmauer (max. 2 Stockwerke); Residenz ≥1.000 m von der Mauer entfernt"
+basic_specifications = "≈4 km² großes Grundstück (1 km Radius); Konferenzraum für 21 Personen; Speiseraum für 21 Personen; sieben Gästezimmer mit separaten Bädern; Schwimmbecken; Landeplattform für ein 12-m-Raumschiff; Schutzmauer (max. 2 Stockwerke); Residenz ≥1.000 m von der Mauer entfernt"
 legal_requirement = "Vom Gastland gewährter extraterritorialer Status"
 preferred_original_location = "Israel in der Nähe Jerusalems (gemäß Quellenmaterial 1973–1974)"
 current_authorization = "Alle Nationen der Erde (gemäß der Botschaft Jahwes vom 13. Dezember 1997)"
 identification_with_third_temple = "Ja; die Quelle identifiziert die Botschaft ausdrücklich als den Dritten Tempel der jüdischen apokalyptischen Tradition"
 prophetic_imagery = "Hesekiel 47,1-2; Apostelgeschichte 15,16; Jesaja 2,2-4; Micha 4,1-3"
-current_state_2026 = "Kollaborationsmemorandum von 2024 mit einer nicht offengelegten nationalen Regierung; Phase des Grundstückserwerbs 2025–2027; Planung und Bau 2027–2030"
-project_responsibility = "Internationale Raëlianische Bewegung; Daniel Turcotte als für das Botschaftsprojekt verantwortlicher raëlianischer Guide"
+current_state_2026 = "Memorandum of Collaboration von 2024 mit einer nicht genannten nationalen Regierung; Phase des Grundstückserwerbs 2025–2027; Planung und Bau 2027–2030"
+project_responsibility = "International Raëlian Movement; Daniel Turcotte als für das Botschaftsprojekt verantwortlicher raëlianischer Führer"
 distinguished_from = "Der salomonische Erste Tempel; der Zweite Tempel; das weitere Ereignis der Apokalypse; der Rahmen des Kosmischen Wettbewerbs"
 status_in_source_material = "Im Wesentlichen quellengestützt; die detaillierten architektonischen Spezifikationen stammen unmittelbar aus dem raëlianischen Quellenmaterial"
-principal_text = "*Das Buch, das die Wahrheit sagt* (Vorilhon/Raël, 1974), „Die neuen Gebote — Eure Mission“; *Außerirdische führten mich auf ihren Planeten* (1975); die Botschaft vom 13. Dezember 1997"
+principal_text = "*Das Buch, das die Wahrheit sagt* (Vorilhon/Raël, 1974), „Die neuen Gebote — Eure Mission“; *Außerirdische brachten mich auf ihren Planeten* (1975); die Botschaft vom 13. Dezember 1997"
 +++
 
-Die **Botschaft** ist das vorgesehene physische Bauwerk auf einem bestimmten, von einem Gastland mit extraterritorialem Status ausgestatteten Grundstück, das bereitsteht, um die formelle Ankunft der Elohim-Allianz zu empfangen und als operativer Ort für die durch die Ankunft eingeleiteten Begegnungen zwischen der Allianz und den Vertretern der Menschheit zu dienen. Die Botschaft ist das operativ konkreteste Element des weiteren Programms des Wassermann-Zeitalters, das die Allianz der Menschheit vorgeschlagen hat, mit detaillierten architektonischen Spezifikationen, die im Kontakt von 1973 zwischen Jahwe und Raël (Claude Vorilhon) am Krater Roc Plat von Clermont-Ferrand gegeben und in späteren Mitteilungen des Quellenmaterials ausgearbeitet wurden. Die Botschaft nimmt eine besondere Stellung innerhalb des weiteren Rahmens des Korpus ein: Sie ist das **physisch-operative Zentrum**, an dem das projizierte Erbschaftsereignis des Wassermann-Zeitalters stattfinden wird — der bestimmte Ort, an dem das angesammelte Wissen der Allianz nach der offenen Rückkehr der Allianz an die Menschheit übermittelt werden wird, und der Ort, von dem aus die Transformation des Wassermann-Zeitalters über die folgenden Jahrhunderte hinweg wirken wird.
+Die **Botschaft** ist das vorgesehene physische Bauwerk auf einem Grundstück, dem ein Gastland extraterritorialen Status gewährt hat, bereit, die formelle Ankunft der Elohim-Allianz zu empfangen und die Begegnungen zwischen der Allianz und den Vertretern der Menschheit zu beherbergen, die diese Ankunft einleiten wird. Sie ist das konkreteste Element des Programms des Wassermann-Zeitalters, das die Allianz vorgeschlagen hat, mit architektonischen Spezifikationen, die im Kontakt von 1973 zwischen Jahwe und Raël (Claude Vorilhon) am Krater Roc Plat bei Clermont-Ferrand gegeben und in späteren Mitteilungen ausgearbeitet wurden. Sie ist das **physisch-operative Zentrum**, an dem das projizierte Erbschaftsereignis des Wassermann-Zeitalters stattfinden wird — wo das angesammelte Wissen der Allianz nach ihrer offenen Rückkehr an die Menschheit übermittelt wird und von wo aus die Transformation des Wassermann-Zeitalters über die folgenden Jahrhunderte wirken wird.
 
-Die Spezifikationen der Botschaft umfassen die weiteren Standortanforderungen (etwa 4 km² mit mindestens 1 km Radius, mit vom Gastland gewährtem extraterritorialem Status, mit Luftraum über und um die Residenz, der nicht unter direkter militärischer oder Radarüberwachung steht), die Spezifikationen des Wohnkomplexes (eine Residenz mit höchstens zwei Stockwerken, mindestens 1.000 m von der umgebenden Parkmauer entfernt gelegen, mit zwei Eingängen, wobei die Residenz zusätzlich durch eine innere Barriere aus Bäumen und Sträuchern abgeschirmt wird), die operativen Einrichtungen (ein Konferenzraum für 21 Personen, ein Speiseraum mit 21 Sitzplätzen, sieben Gästezimmer mit jeweils separatem Bad, ein Schwimmbecken, eine Landeplattform auf der Dachterrasse der Residenz, die ein Allianzschiff von 12 Metern Durchmesser aufnehmen kann) und die Sicherheitsmerkmale (eine dicke Metalltür, die den Bereich der sieben Räume unter der Terrasse von dem von Menschen genutzten Abschnitt trennt, eine aseptische Kammer am Eingang des Konferenzraums, Mauern, die die Sicht von außen auf die Residenz und das Schwimmbecken verhindern). Die Spezifikationen spiegeln die praktischen Anforderungen eines Bauwerks wider, das Besucher zweier verschiedener Spezies aufnehmen muss (Menschen und Elohim, biologisch ähnlich, aber mit unterschiedlichen Biochemien, die eine Trennung durch aseptische Kammern erfordern) und das sowohl zeremoniell-formelle Ereignisse (das Erbschaftsereignis selbst) als auch fortgesetzte operative Nutzung (die von der Quelle projizierten Jahrtausende späterer Begegnungen zwischen Allianz und Menschheit) ermöglichen muss.
+Die Spezifikationen — vollständig aufgeführt unter *In den Primärquellen* weiter unten — umfassen das Grundstück (etwa 4 km² mit mindestens 1 km Radius, extraterritorialer Status, ein Luftraum frei von militärischer oder Radarüberwachung), die operativen Einrichtungen (Konferenz- und Speiseraum für 21 Personen, sieben Gästezimmer mit separaten Bädern, ein Schwimmbecken, eine Landeplattform auf der Dachterrasse für ein 12 Meter großes Schiff der Allianz) und die Sicherheitsmerkmale (eine Metalltür, die den Bereich der Allianz unter der Terrasse abschließt, eine aseptische Kammer, Mauern, die jede Sicht von außen verhindern). Sie spiegeln ein Bauwerk wider, das zwei Spezies beherbergen muss — Menschen und Elohim, biologisch ähnlich, aber mit unterschiedlichen Biochemien, die eine aseptische Trennung erfordern — und sowohl dem zeremoniellen Erbschaftsereignis als auch den Jahrtausenden von Begegnungen zwischen Allianz und Menschheit dienen soll, die die Quelle projiziert.
 
-{% claim(type="framework", id="woh-claim-0016") %}Die Identifizierung der Botschaft mit dem **Dritten Tempel** der jüdischen prophetisch-apokalyptischen Tradition ist theologisch erheblich.{% end %} Die Quelle identifiziert die Botschaft ausdrücklich als den Dritten Tempel, in der jüdischen Erwartung den Nachfolger des salomonischen Ersten Tempels (errichtet um 950 v. u. Z., 586 v. u. Z. von den Babyloniern zerstört) und des Zweiten Tempels (errichtet um 516 v. u. Z., von Herodes erweitert, 70 u. Z. von den Römern zerstört); das Korpus zieht keine Linie von Empfangsstätten von jenen Tempeln zur Botschaft (der Kanon nennt den Tempel Salomos „die erste Residenz zum Empfang der Elohim“, TBWTT-3:102, sagt aber nichts von einer Abfolge). Die ursprüngliche Präferenz der Quelle war, dass die Botschaft in Israel in der Nähe Jerusalems gelegen sein sollte — dem geografischen Ort der ursprünglichen Eden-Operation der Allianz und des erweiterten menschlichen Eden-Linien-Projekts über die folgenden Jahrtausende hinweg. Die Verbindung zu **Hesekiel 47,1-2** (die prophetische Vision von Wasser, das aus der Schwelle des Tempels hervortritt) wird vom Rahmen als unmittelbares Vorausbild der projizierten operativen Rolle der Botschaft gelesen: der Tempel als Quelle, aus der die Wasser des Verständnisses des Wassermann-Zeitalters nach außen fließen und die Welt verwandeln, die sie erreichen.{{ footnote(id="3") }} Die israelische Regierung hat den erbetenen extraterritorialen Status über mehrere formelle Anträge ab 1991 hinweg nicht gewährt, und die Botschaft Jahwes vom 13. Dezember 1997 autorisierte die raëlianische Bewegung formell, extraterritorialen Status von „allen Nationen der Erde“ zu erbitten, wobei Israel nur eine letzte Option behielt, die Genehmigung zu erteilen, bevor die Botschaft anderswo errichtet wird.{{ footnote(id="4") }}
+{% claim(type="framework", id="woh-claim-0016") %}Die Identifizierung der Botschaft mit dem jüdischen prophetisch-apokalyptischen **Dritten Tempel** ist zentral.{% end %} Die Quelle benennt die Botschaft als den Dritten Tempel, in der jüdischen Erwartung den Nachfolger des salomonischen Ersten Tempels (errichtet um 950 v. u. Z., 586 v. u. Z. von den Babyloniern zerstört) und des Zweiten Tempels (errichtet um 516 v. u. Z., von Herodes erweitert, 70 u. Z. von den Römern zerstört); der Korpus zieht keine Linie von Empfangsstätten von jenen Tempeln zur Botschaft (der Kanon nennt den Tempel Salomos « la première résidence pour l'accueil des Elohim », TBWTT-3:102, sagt aber nichts von einer Abfolge). Die ursprüngliche Präferenz war Israel in der Nähe Jerusalems — der Ort der ursprünglichen Eden-Operation der Allianz und des erweiterten menschlichen Projekts der Eden-Linie. Der Rahmen liest **Hesekiel 47,1-2** (Wasser, das unter der Schwelle des Tempels hervortritt) als unmittelbares Vorausbild der Rolle der Botschaft: der Tempel als Quelle, aus der die Wasser des Verständnisses des Wassermann-Zeitalters nach außen fließen und die Welt verwandeln, die sie erreichen.{{ footnote(id="3") }} Israel hat den erbetenen extraterritorialen Status über formelle Anträge ab 1991 hinweg nicht gewährt, und die Botschaft Jahwes vom 13. Dezember 1997 autorisierte die raëlianische Bewegung, ihn von „allen Nationen der Erde“ zu erbitten, wobei Israel nur eine letzte Option behielt, ihn zu gewähren, bevor die Botschaft anderswo errichtet wird.{{ footnote(id="4") }}
 
-Im Jahr 2026 befindet sich das Botschaftsprojekt auf der fortgeschrittensten Stufe seiner halben Jahrhundertgeschichte. Die raëlianische Bewegung hat in den vergangenen drei Jahrzehnten systematisches diplomatisches Engagement mit potenziellen Gastländern betrieben, mit dem UN-Fakultativprotokoll über Botschaften für Außerirdische von 2015, der Allianz für außerirdischen diplomatischen Kontakt von 2021, den Präsentationen von 2022 vor den Bürgermeistern von fünfzig Städten weltweit und am bedeutendsten dem 2024 mit einer nicht offengelegten nationalen Regierung unterzeichneten Kollaborationsmemorandum. Der veröffentlichte Zeitplan der raëlianischen Bewegung teilt die kommenden Jahre in bestimmte Phasen ein: die Phase der Standortanalyse 2022–2025, die Phase des Grundstückserwerbs 2025–2027, die Phase der Planung und des Baus 2027–2030 und den Wartungsmodus nach 2030 in Erwartung der Ankunft der Allianz. Das Korpus verzeichnet diesen Zeitplan, ohne seine spezifischen Daten als bestätigt zu befürworten — der tatsächliche Fortschritt des Projekts wird vom Erfolg der diplomatischen Verhandlungen und von den spezifischen politischen Bedingungen im Gastland abhängen —, verzeichnet jedoch die Existenz und die gegenwärtige Phase des Projekts als Tatsachen der Gegenwart.
+Im Jahr 2026 befindet sich das Projekt nach drei Jahrzehnten diplomatischen Engagements (ausgeführt unter *Die Geschichte des Botschaftsprojekts* weiter unten) auf der am weitesten fortgeschrittenen Stufe seiner halbhundertjährigen Geschichte — am bedeutendsten durch das 2024 mit einer nicht genannten nationalen Regierung unterzeichnete Memorandum of Collaboration, mit einem für 2027–2030 projizierten Bau. Der Korpus verzeichnet diesen Zeitplan, ohne seine Daten zu befürworten — der Fortschritt hängt von den diplomatischen Verhandlungen und den Bedingungen im Gastland ab —, behandelt jedoch die Existenz des Projekts und seine gegenwärtige Phase als Tatsachen der Gegenwart.
 
-Die Botschaft ist innerhalb des weiteren analytischen Apparats des Korpus **im Wesentlichen quellengestützt**.{{ footnote(id="1") }} Anders als der Rahmen des Kosmischen Wettbewerbs, das Prinzip der Doppelten Signatur und der Rahmen der Kosmischen Kette — die alle eine erhebliche interpretative Konstruktion des Korpus umfassen, die über den unmittelbaren Gehalt des Quellenmaterials hinausgeht — stammen die detaillierten Spezifikationen der Botschaft, die Standortpräferenzen, die operativen Anforderungen und die projizierte Rolle unmittelbar aus dem raëlianischen Quellenmaterial. Der interpretative Beitrag des Korpus besteht hauptsächlich in der Integration des Botschaftsmaterials mit dem weiteren Rahmen des Wassermann-Zeitalters. Ihr Bauzeitplan ist Organisationsgeschichte, kein Test der Prämisse des Kanons.{{ footnote(id="2") }}
+Die Botschaft ist das am stärksten **quellengestützte** Element des Apparats des Korpus.{{ footnote(id="1") }} Anders als der Kosmische Wettbewerb, die Doppelte Signatur und die Kosmische Kette — die eine Konstruktion des Korpus über das Quellenmaterial hinaus umfassen — stammen ihre Spezifikationen, ihr Standort, ihre Anforderungen und ihre projizierte Rolle unmittelbar aus den raëlianischen Quellen; der Korpus integriert sie hauptsächlich mit dem Rahmen des Wassermann-Zeitalters. Ihr Bauzeitplan ist Organisationsgeschichte, kein Test der Prämisse des Kanons.{{ footnote(id="2") }}
 
 ## Etymologie und Benennung
 
-Das Botschaftskonzept hat im Quellenmaterial und in der weiteren Behandlung des Korpus mehrere unterschiedliche Bezeichnungen.
+Die Botschaft trägt im Quellenmaterial und im Korpus mehrere Bezeichnungen.
 
 ### „Botschaft“ als Hauptbezeichnung
 
-Der Begriff **„Botschaft“** ist die Hauptbezeichnung sowohl im Quellenmaterial als auch im Korpus und greift auf das diplomatische Vokabular des modernen internationalen Systems zurück: Eine Botschaft ist die formelle diplomatische Vertretung eines Gemeinwesens bei einem anderen, mit bestimmten operativen Merkmalen (extraterritorialer Status, formelle Protokolle, vorgesehene Einrichtungen), die Botschaften von anderen Formen des Kontakts zwischen Gemeinwesen unterscheiden.
+**„Botschaft“** ist der Hauptbegriff sowohl im Quellenmaterial als auch im Korpus, entnommen dem modernen diplomatischen Vokabular: Eine Botschaft ist die formelle Vertretung eines Gemeinwesens bei einem anderen, mit Merkmalen (extraterritorialer Status, formelle Protokolle, vorgesehene Einrichtungen), die sie von anderen Formen des Kontakts zwischen Gemeinwesen unterscheiden.
 
 ### Varianten im Quellenmaterial
 
-Das Quellenmaterial verwendet mehrere unterschiedliche Formulierungen:
+Das Quellenmaterial verwendet mehrere Formulierungen:
 
-- **„Die Residenz“** — der häufigste Begriff des Quellenmaterials in den ursprünglichen Spezifikationen von 1973–1974, der sich speziell auf den Gebäudekomplex innerhalb des weiteren Grundstücks bezieht
-- **„Die Botschaft der Elohim“** — die in späteren Mitteilungen des Quellenmaterials verwendete formelle Bezeichnung
-- **„Unsere Botschaft“** — die spezifische Formulierung der Quelle in der Botschaft vom 13. Dezember 1997
-- **„Der Dritte Tempel“** — die Identifizierung der Botschaft durch die Quelle mit dem erwarteten dritten Tempel der jüdischen prophetisch-apokalyptischen Tradition
+- **„Die Residenz“** — der häufigste Begriff in den Spezifikationen von 1973–1974, für den Gebäudekomplex innerhalb des Grundstücks
+- **„Die Botschaft der Elohim“** — die formelle Bezeichnung in späteren Mitteilungen
+- **„Unsere Botschaft“** — die Formulierung in der Botschaft vom 13. Dezember 1997
+- **„Der Dritte Tempel“** — die Identifizierung durch die Quelle mit dem dritten Tempel der jüdischen prophetisch-apokalyptischen Tradition
 
 ### Verwandte begriffliche Terminologie
 
-Mehrere verwandte Begriffe wirken innerhalb des Rahmens:
+Verwandte Begriffe:
 
-- **„Extraterritorialer Status“** — die rechtliche Befreiung von der Gerichtsbarkeit des Gastlandes, die der Botschaftsstandort besitzen muss
-- **„Die Große Rückkehr“** — die spezifische Formulierung der Quelle für die projizierte formelle Ankunft der Allianz
-- **„Das Erbschaftsereignis“** — der Begriff des Korpus für die formelle Übermittlung des angesammelten Wissens der Allianz an der Botschaft
-- **„Die Nachbildung der Botschaft“** — das öffentlich zugängliche Modell der Botschaft, dessen Errichtung in der Nähe der funktionalen Botschaft die Quelle vorgibt
+- **„Extraterritorialer Status“** — die rechtliche Befreiung von der Gerichtsbarkeit des Gastlandes, die der Standort besitzen muss
+- **„Die Große Rückkehr“** — die Formulierung der Quelle für die projizierte Ankunft der Allianz
+- **„Das Erbschaftsereignis“** — der Begriff des Korpus für die Übermittlung des Wissens der Allianz an der Botschaft
+- **„Die Nachbildung der Botschaft“** — das öffentlich zugängliche Modell, dessen Errichtung nahe der funktionalen Botschaft die Quelle vorgibt
 
 ## Konventionelles Verständnis
 
-Das Botschaftskonzept als spezifisches operatives Projekt ist weitgehend eine Initiative der raëlianischen Bewegung, wobei die weitere wissenschaftliche und theologische Behandlung sich hauptsächlich mit den verwandten jüdischen Traditionen des Dritten Tempels und den christlichen Parusie-Traditionen auseinandersetzt und nicht speziell mit dem Botschaftsprojekt.
+Als operatives Projekt ist die Botschaft weitgehend eine Initiative der raëlianischen Bewegung; die wissenschaftliche und theologische Behandlung befasst sich mit den verwandten Traditionen des jüdischen Dritten Tempels und der christlichen Parusie statt mit dem Botschaftsprojekt selbst.
 
 ### Jüdische theologisch-historische Mehrheitsbehandlung
 
-Die jüdische theologisch-historische Mehrheitsbehandlung der Tradition des Dritten Tempels hat in den vergangenen mehreren Jahrhunderten umfangreiche Forschung hervorgebracht.
+**Der Erste Tempel (salomonisch)** wurde von Salomo um 950 v. u. Z. auf dem Tempelberg errichtet, seine Spezifikationen sind in 1. Könige 6–8 und 2. Chronik 2–7 überliefert, und er war das zentrale kultische Zentrum der israelitischen Religion, bis ihn die Babylonier unter Nebukadnezar II. im Jahr 586 v. u. Z. zerstörten.
 
-**Der Erste Tempel (salomonisch)** wurde von Salomo um 950 v. u. Z. auf dem Tempelberg in Jerusalem errichtet, mit detaillierten Spezifikationen, die in 1. Könige 6-8 und 2. Chronik 2-7 überliefert sind. Er diente bis zu seiner Zerstörung durch die Babylonier unter Nebukadnezar II. im Jahr 586 v. u. Z. als zentrales kultisches Zentrum der israelitischen Religion.
+**Der Zweite Tempel** wurde um 538 v. u. Z. nach dem Exil begonnen und war bis 516 v. u. Z. im Wesentlichen fertiggestellt; Herodes der Große erweiterte ihn ab etwa 20 v. u. Z. (der „herodianische Tempel“), und die Römer unter Titus zerstörten ihn im Jahr 70 u. Z. während des jüdischen Aufstands.
 
-**Der Zweite Tempel** wurde nach dem babylonischen Exil errichtet, wobei der Bau etwa 538 v. u. Z. begann und im Wesentlichen bis 516 v. u. Z. fertiggestellt war. Herodes der Große erweiterte den Tempel ab etwa 20 v. u. Z. erheblich und schuf den „herodianischen Tempel“, der das zentrale religiös-politische Zentrum des Judentums des Zweiten Tempels war. Der Tempel wurde im Jahr 70 u. Z. während des jüdischen Aufstands von den Römern unter Titus zerstört.
+**Der Dritte Tempel in der jüdischen prophetischen Tradition.** Die prophetisch-apokalyptische Tradition erwartet seit langem einen Dritten Tempel im messianischen Zeitalter, mit Material in den prophetischen Büchern (insbesondere dem „Tempel Hesekiels“ in Hesekiel 40–48){{ cite(id="halperin-faces-of-the-chariot", text="[1]", title="Halperin, *The Faces of the Chariot* (1988) — die Rezeption von Hesekiels Tempelvision") }} und in der rabbinisch-apokalyptischen Tradition.{{ cite(id="maimonides-mishneh-torah", text="[2]", title="Maimonides, *Mishneh Torah, Hilchot Melachim* 11,1 — der Tempel im messianischen Zeitalter") }}
 
-**Der Dritte Tempel in der jüdischen prophetischen Tradition**. Die jüdische prophetisch-apokalyptische Tradition hat seit langem einen Dritten Tempel erwartet, der im messianischen Zeitalter errichtet werden wird, mit umfangreichem Textmaterial über die prophetischen Bücher hinweg (insbesondere Hesekiel 40-48, mit den ausführlichen Spezifikationen des „Tempels Hesekiels“){{ cite(id="halperin-faces-of-the-chariot", text="[1]", title="Halperin, *The Faces of the Chariot* (1988) — die Rezeption von Hesekiels Tempelvision") }} und der weiteren rabbinisch-apokalyptischen Tradition.{{ cite(id="maimonides-mishneh-torah", text="[2]", title="Maimonides, *Mishneh Torah, Hilchot Melachim* 11,1 — der Tempel im messianischen Zeitalter") }}
-
-**Zeitgenössische jüdische Mehrheitspositionen zum Bau des Dritten Tempels** reichen von der expliziten Tempelbewegung (die für aktive Vorbereitungen zum Bau des Dritten Tempels eintritt) über traditionelle Positionen (die den Bau des Dritten Tempels im Allgemeinen als etwas behandeln, das im messianischen Zeitalter, aber nicht durch gewöhnliche menschliche Initiative geschehen wird) bis hin zu säkular-israelischen Positionen (die den Bau des Dritten Tempels im Allgemeinen als politisch destabilisierend und nicht als gegenwärtige israelische politische Priorität ansehen).
-
-Die jüdische Mehrheitsbehandlung setzt sich im Allgemeinen nicht direkt mit dem raëlianischen Botschaftsprojekt auseinander. Die Identifizierung der Botschaft mit dem Dritten Tempel durch die raëlianische Bewegung wird innerhalb der jüdischen theologisch-historischen Mehrheitsforschung weithin nicht akzeptiert.
+**Zeitgenössische jüdische Positionen** reichen von der Tempelbewegung, die auf aktive Vorbereitung drängt, über traditionelle Sichtweisen, die den Bau im messianischen Zeitalter, aber nicht durch gewöhnliche menschliche Initiative verorten, bis zu säkular-israelischen Sichtweisen, die ihn als politisch destabilisierend betrachten. Die jüdische Mehrheitsforschung befasst sich nicht direkt mit dem Botschaftsprojekt und akzeptiert seine Identifizierung mit dem Dritten Tempel weithin nicht.
 
 ### Christliche theologische Mehrheitsbehandlung
 
-Die christliche theologische Mehrheitsbehandlung der Parusie (der projizierten Wiederkunft) und verwandter apokalyptischer Traditionen hat in den vergangenen zwei Jahrtausenden umfangreiche Forschung hervorgebracht. Die christliche Mehrheitsbehandlung setzt sich im Allgemeinen nicht direkt mit dem raëlianischen Botschaftsprojekt auseinander. Die spezifische Identifizierung der projizierten Rückkehr der Allianz mit der christlichen Parusie-Tradition durch den raëlianischen Rahmen wird innerhalb der christlichen theologisch-historischen Mehrheitsforschung weithin nicht akzeptiert.
+Die christliche Theologie hat in zwei Jahrtausenden Forschung zur Parusie (der projizierten Wiederkunft) und zu verwandten apokalyptischen Traditionen hervorgebracht. Sie befasst sich nicht direkt mit dem raëlianischen Botschaftsprojekt und akzeptiert die Identifizierung der projizierten Rückkehr der Allianz mit der Parusie durch den Rahmen weithin nicht.
 
 ### Internationale-diplomatische Mehrheitsbehandlung
 
-Die weitere Frage der extraterritorialen Statusregelungen für diplomatische Vertretungen ist im Völkerrecht erheblich entwickelt.
+Regelungen des extraterritorialen Status für diplomatische Vertretungen sind im Völkerrecht gut entwickelt.
 
-**Das Wiener Übereinkommen über diplomatische Beziehungen** (unterzeichnet 1961, in Kraft getreten 1964) bietet den maßgeblichen zeitgenössischen Rahmen für diplomatische Vertretungen und extraterritorialen Status und legt die üblichen Protokolle für diplomatische Vertretungen, die Immunitäten und Privilegien des diplomatischen Personals und den weiteren operativen Rahmen fest, innerhalb dessen Botschaften zwischen Staaten wirken.{{ cite(id="vienna-convention-diplomatic-relations", text="[3]", title="Wiener Übereinkommen über diplomatische Beziehungen (1961)") }}
+**Das Wiener Übereinkommen über diplomatische Beziehungen** (unterzeichnet 1961, in Kraft seit 1964) ist der maßgebliche Rahmen für diplomatische Vertretungen und extraterritorialen Status und legt die Protokolle der Vertretungen sowie die Immunitäten und Privilegien des diplomatischen Personals fest.{{ cite(id="vienna-convention-diplomatic-relations", text="[3]", title="Wiener Übereinkommen über diplomatische Beziehungen (1961)") }}
 
-**Die Vatikanstadt** ist das wichtigste zeitgenössische Beispiel einer souveränen extraterritorialen Einrichtung; sie nimmt etwa 0,49 km² innerhalb Roms ein und dient als geistliches und administratives Zentrum der römisch-katholischen Kirche. Der Staat Vatikanstadt wurde durch die Lateranverträge von 1929 begründet, die dem Heiligen Stuhl die volle Souveränität über das Gebiet gewährten.{{ cite(id="lateran-treaty", text="[4]", title="Lateranvertrag (1929) — Begründung des Staates Vatikanstadt") }}
+**Die Vatikanstadt** ist das wichtigste Beispiel einer souveränen extraterritorialen Einrichtung — etwa 0,49 km² innerhalb Roms, das geistliche und administrative Zentrum der römisch-katholischen Kirche, begründet durch die Lateranverträge von 1929, die dem Heiligen Stuhl die volle Souveränität über das Gebiet gewährten.{{ cite(id="lateran-treaty", text="[4]", title="Lateranvertrag (1929) — Begründung des Staates Vatikanstadt") }}
 
-**Der Souveräne Malteserorden** ist eine weitere besondere völkerrechtliche Einrichtung, anerkannt als souveränes Subjekt des Völkerrechts ohne Kontrolle über ein bestimmtes Gebiet im herkömmlichen Sinne, mit extraterritorialen Liegenschaften in Rom und verschiedenen internationalen diplomatischen Beziehungen.
+**Der Souveräne Malteserorden** ist ein souveränes Subjekt des Völkerrechts ohne Kontrolle über ein Gebiet im herkömmlichen Sinne, mit extraterritorialen Liegenschaften in Rom und diplomatischen Beziehungen in aller Welt.
 
-**Die weitere Frage des extraterritorialen Status für nichtstaatliche Einrichtungen** weist im zeitgenössischen Völkerrecht erhebliche Komplexität auf. Der Antrag der raëlianischen Bewegung auf extraterritorialen Status für den Botschaftsstandort betrifft einen nicht herkömmlichen rechtlich-diplomatischen Rahmen — der Antrag ist auf extraterritorialen Status für eine Einrichtung (die Allianz) gerichtet, die noch nicht in formellen diplomatischen Beziehungen mit einem Gastland steht und die erst nach der Errichtung der Botschaft in formellen Beziehungen stehen wird.
+**Extraterritorialer Status für nichtstaatliche Einrichtungen** ist komplexer. Der raëlianische Antrag ist unkonventionell: Er erbittet den Status für eine Einrichtung — die Allianz —, die noch mit keinem Gastland in formellen diplomatischen Beziehungen steht und solche Beziehungen erst aufnimmt, sobald die Botschaft errichtet ist.
 
 ### UFO/UAP-Forschung der Mehrheit
 
-Die weitere Frage des außerirdischen Kontakts hat in jüngerer Zeit erhebliche akademische und staatliche Aufmerksamkeit erfahren, mit detaillierter Behandlung unter *Moderne Neudeutungen* weiter unten. Die UFO/UAP-Mehrheitsforschung hat sich im Allgemeinen nicht direkt mit dem raëlianischen Botschaftsprojekt auseinandergesetzt, wobei sich die akademische und staatliche UAP-Forschung auf Beobachtungsdaten, militärische Begegnungsberichte und weitere empirische Fragen konzentriert und nicht auf spezifische religiös-prophetische Rahmen, innerhalb derer Kontakt erwartet wird.
+Außerirdischer Kontakt hat in jüngerer Zeit akademische und staatliche Aufmerksamkeit erfahren, die unter *Moderne Neudeutungen* weiter unten behandelt wird; die UAP-Forschung hat sich nicht direkt mit dem Botschaftsprojekt befasst und konzentriert sich auf Beobachtungsdaten und empirische Fragen statt auf religiös-prophetische Rahmen.
 
 ## In den Primärquellen
 
 ### Die Spezifikationen von 1973–1974
 
-Das wichtigste Primärquellenmaterial für die Spezifikationen der Botschaft ist der Abschnitt „Die neuen Gebote — Eure Mission“ in *Das Buch, das die Wahrheit sagt* (Vorilhon/Raël, 1974).{{ cite(id="the-book-which-tells-the-truth", text="[5]", title="Vorilhon (Raël), *Das Buch, das die Wahrheit sagt* (1974), „Die neuen Gebote — Eure Mission“ — die Spezifikationen der Botschaft") }} Die detaillierten Spezifikationen der Quelle umfassen die Residenz mit sieben Gästezimmern (jedes mit separatem Bad), den Konferenzraum für 21 Personen, das Schwimmbecken, den Speiseraum für 21 Personen, den umgebenden Park mit Mauern, die die Sicht von außen verhindern, die mindestens 1.000 Meter von den Parkmauern entfernt gelegene Residenz, die maximale Höhe der Residenz von zwei Stockwerken, die innere Barriere aus Bäumen und Sträuchern, die die Residenz abschirmt, die zwei Eingänge in der umgebenden Mauer (einer im Süden, einer im Norden), die zwei Eingänge in der Residenz selbst, die Dachterrasse mit einer Landemöglichkeit für ein Raumschiff von 12 Metern Durchmesser, die Luftraumbeschränkung (keine direkte militärische oder Radarüberwachung), die Anforderung des extraterritorialen Status und die zulässige Residenz des Propheten (mit Frau, Kindern, Bediensteten und eingeladenen Gästen).
+Die wichtigste Quelle für die Spezifikationen ist „Die neuen Gebote — Eure Mission“ in *Das Buch, das die Wahrheit sagt* (Vorilhon/Raël, 1974).{{ cite(id="the-book-which-tells-the-truth", text="[5]", title="Vorilhon (Raël), *Das Buch, das die Wahrheit sagt* (1974), „Die neuen Gebote — Eure Mission“ — die Spezifikationen der Botschaft") }} Sie beschreibt im Einzelnen die Residenz (höchstens zwei Stockwerke, mindestens 1.000 Meter von den Parkmauern entfernt, durch eine innere Barriere aus Bäumen und Sträuchern abgeschirmt, mit zwei eigenen Eingängen), den umgebenden Park (Mauern, die jede Sicht von außen verhindern, zwei Eingänge in der Mauer — einer im Süden, einer im Norden), die Einrichtungen (sieben Gästezimmer mit jeweils separatem Bad, ein Konferenzraum und ein Speiseraum für 21 Personen, ein Schwimmbecken, eine Dachterrasse, die ein Schiff von 12 Metern Durchmesser aufnehmen kann), die Luftraumbeschränkung (keine militärische oder Radarüberwachung), die Anforderung des extraterritorialen Status und den erlaubten eigenen Wohnsitz des Propheten dort mit seiner Frau, seinen Kindern, Bediensteten und eingeladenen Gästen.
 
-Die Spezifikationen umfassen auch die Sicherheitsmerkmale, die den Bereich der Allianzoffiziere vom von Menschen genutzten Bereich unterscheiden: Die sieben Räume sind direkt unter der Terrasse zu errichten, vom menschlichen Abschnitt durch eine dicke Metalltür getrennt (von innen verschließbar, dauerhaft geschlossen gehalten); am Eingang des Konferenzraums ist eine aseptische Kammer zu errichten, die eine biologische Trennung zwischen der menschlichen und der Allianzumgebung bietet.
+Sicherheitsmerkmale trennen den Bereich der Allianzoffiziere vom menschlichen Bereich: Die sieben Räume liegen direkt unter der Terrasse, abgeschlossen durch eine dicke Metalltür (von innen verschließbar, dauerhaft geschlossen gehalten), mit einer aseptischen Kammer am Eingang des Konferenzraums zur biologischen Sicherheit.
 
-Die Formulierung des Zwecks der Botschaft durch die Quelle ist explizit: Die Botschaft ist der Ort, an dem die Allianz offen landen und „euch unser wissenschaftliches Wissen als unser Erbe für alle Völker der Erde geben“ wird. Die Fertigstellung der Botschaft ist eine der Bedingungen für die offene Rückkehr der Allianz — die anderen sind eine ausreichende Bevölkerung von Menschen, die die Rückkehr wünschen („Wenn die mit kriegerischem Wesen auf der ganzen Welt unschädlich gemacht sind ... Wenn die Liebe zum Leben und die Liebe der Menschheit zu uns und zu sich selbst stark genug ist“), und das Fehlen einer militärischen Bedrohung für das Allianzschiff.
+Der Zweck wird klar benannt: Die Botschaft ist der Ort, an dem die Allianz offen landen und „euch unser wissenschaftliches Wissen als unser Erbe für alle Völker der Erde geben“ wird. Ihre Fertigstellung ist eine Bedingung für die offene Rückkehr der Allianz, neben einer ausreichenden Bevölkerung, die die Rückkehr wünscht („Wenn die mit kriegerischem Wesen auf der ganzen Welt unschädlich gemacht sind ... Wenn die Liebe zum Leben und die Liebe der Menschheit zu uns und zu sich selbst stark genug ist“), und dem Fehlen einer militärischen Bedrohung für das Schiff der Allianz.
 
-Die Quelle gibt auch die weiteren operativen Praktiken vor, die das Botschaftsprojekt unterstützen: die Ernennung eines nationalen Vertreters in jedem Land, der für die Verbreitung der Wahrheit und die Koordination örtlicher Bemühungen verantwortlich ist, die Führung von Aufzeichnungen über jene, die finanziell zur Errichtung und zum Unterhalt der Botschaft beitragen (deren Beiträge, so bescheiden sie auch sein mögen, belohnt werden, wenn die Allianz kommt), und die jährliche Versammlung auf einem Berg in der Nähe der Residenz, bei der alle, die durch diese Schriften von der Allianz gehört haben und ihr Kommen wünschen, zusammenkommen, um intensiv über die Allianz nachzudenken und auf ihr Kommen zu hoffen.
+Die Quelle legt auch unterstützende Praktiken fest: einen nationalen Vertreter in jedem Land, der die Botschaft verbreitet und die örtlichen Bemühungen koordiniert; Aufzeichnungen über jene, die finanziell zur Errichtung und zum Unterhalt der Botschaft beitragen (deren Beiträge, so bescheiden sie auch sein mögen, belohnt werden, wenn die Allianz kommt); und eine jährliche Versammlung auf einem Berg nahe der Residenz, bei der sich alle versammeln, die das Kommen der Allianz wünschen, um intensiv an sie zu denken.
 
 ### Der zweite Kontakt am Roc Plat 1975
 
-Die wichtigsten Ausarbeitungen der Spezifikationen der Botschaft aus Primärquellen finden sich in *Außerirdische führten mich auf ihren Planeten* (Vorilhon/Raël, 1975), das den zweiten Kontakt zwischen Raël und der Allianz am 7. Oktober 1975 am Roc Plat aufzeichnet.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[6]", title="Vorilhon (Raël), *Außerirdische führten mich auf ihren Planeten* (1975) — die Ausarbeitungen des zweiten Kontakts am Roc Plat") }} Die Ausarbeitungen von 1975 umfassen verschiedene Klärungen der projizierten Rolle der Botschaft, zusätzlichen Kontext für das weitere Programm des Wassermann-Zeitalters, innerhalb dessen die Botschaft wirkt, und die spezifische Identifizierung von Raëls Rolle als des für die Organisation des Botschaftsprojekts verantwortlichen Propheten.
+Die wichtigsten Ausarbeitungen finden sich in *Außerirdische brachten mich auf ihren Planeten* (Vorilhon/Raël, 1975), das den zweiten Kontakt zwischen Raël und der Allianz am 7. Oktober 1975 am Roc Plat festhält.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[6]", title="Vorilhon (Raël), *Außerirdische brachten mich auf ihren Planeten* (1975) — die Ausarbeitungen des zweiten Kontakts am Roc Plat") }} Sie klären die Rolle der Botschaft und benennen Raël als den für die Organisation des Projekts verantwortlichen Propheten.
 
-Die spezifische Formulierung der Rolle Raëls durch die Quelle: „Du bist derjenige, dessen Kommen in allen Religionen von den alten Propheten, unseren Vertretern, angekündigt wurde. Du bist derjenige, der die Herde der Hirten zurückbringen wird, bevor das Wasser verschüttet ist, derjenige, der die Geschaffenen zu ihren Schöpfern zurückbringen wird.“
+Zu Raëls Rolle: „Du bist derjenige, dessen Kommen in allen Religionen von den alten Propheten, unseren Vertretern, angekündigt wurde. Du bist derjenige, der die Herde der Hirten zurückbringen wird, bevor das Wasser verschüttet ist, derjenige, der die Geschaffenen zu ihren Schöpfern zurückbringen wird.“
 
-Die spezifische Formulierung des israelischen Kontexts durch die Quelle, als direkte Ansprache an das Volk Israel: „Der Staat Israel muss dem Führer der Führer ein Gebiet in der Nähe Jerusalems geben, damit er dort die Residenz, die Botschaft der Elohim, errichten kann. Die Zeit ist gekommen, Volk Israel, das Neue Jerusalem zu errichten, wie es vorhergesehen wurde. Claude Rael ist derjenige, der vorhergesagt wurde. Lest eure Schriften erneut und öffnet eure Augen.“
+Direkt an das Volk Israel gerichtet: „Der Staat Israel muss dem Führer der Führer ein Gebiet in der Nähe Jerusalems geben, damit er dort die Residenz, die Botschaft der Elohim, errichten kann. Die Zeit ist gekommen, Volk Israel, das Neue Jerusalem zu errichten, wie es vorhergesehen wurde. Claude Rael ist derjenige, der vorhergesagt wurde. Lest eure Schriften erneut und öffnet eure Augen.“
 
-Die Quelle beruft sich ausdrücklich auf den bündnis-relationalen Rahmen des Widder-Zeitalters, einschließlich der Rolle der hebräischen Linie und der historischen Mission der hebräischen Tradition: „Wir haben euch aus den Klauen der Ägypter befreit, und ihr habt euch unseres Vertrauens nicht würdig erwiesen; wir haben euch eine für die ganze Menschheit bestimmte Botschaft anvertraut, und ihr habt sie eifersüchtig gehütet, anstatt sie zu verbreiten.“ Die Quelle warnt vor den Folgen einer israelischen Ablehnung: „Dies ist eure letzte Chance, andernfalls wird ein anderes Land den Führer der Führer aufnehmen und unsere Botschaft auf seinem Gebiet errichten, und dieses Land wird in eurer Nähe sein; es wird geschützt sein, und Glück wird herrschen, und der Staat Israel wird abermals zerstört werden.“
+Sie beruft sich auf den Bund des Widder-Zeitalters und die Mission der hebräischen Linie: „Wir haben euch aus den Klauen der Ägypter befreit, und ihr habt euch unseres Vertrauens nicht würdig erwiesen; wir haben euch eine für die ganze Menschheit bestimmte Botschaft anvertraut, und ihr habt sie eifersüchtig gehütet, anstatt sie zu verbreiten.“ Sie warnt vor dem Preis einer Ablehnung: „Dies ist eure letzte Chance, andernfalls wird ein anderes Land den Führer der Führer aufnehmen und unsere Botschaft auf seinem Gebiet errichten, und dieses Land wird in eurer Nähe sein; es wird geschützt sein, und Glück wird herrschen, und der Staat Israel wird abermals zerstört werden.“
 
 ### Die Botschaft vom 13. Dezember 1997 zur Autorisierung der Verlegung
 
-Das wichtigste Primärquellenmaterial für die Verlegung der Botschaft aus Israel ist die Botschaft Jahwes, die Raël am 13. Dezember 1997 übermittelt wurde (am vierundzwanzigsten Jahrestag des ursprünglichen Kontakts von 1973). Der wesentliche Inhalt der Botschaft:
+Die Primärquelle für die Verlegung ist die Botschaft Jahwes, die Raël am 13. Dezember 1997 übermittelt wurde, dem vierundzwanzigsten Jahrestag des Kontakts von 1973:
 
 > *„Es sind nun 24 Jahre vergangen, in denen ihr Raëlianer, die ihr uns offiziell und öffentlich als eure Schöpfer anerkannt habt, daran gearbeitet habt, dass wir in der erbetenen Botschaft willkommen geheißen werden können. Eure Hingabe und eure Bemühungen haben unsere Herzen erwärmt.“*
 
@@ -251,19 +247,17 @@ Das wichtigste Primärquellenmaterial für die Verlegung der Botschaft aus Israe
 
 > *„Die Stunde unserer Großen Rückkehr ist nahe, und wir werden die Hingebungsvollsten unter euch unterstützen und beschützen.“*
 
-Die Botschaft von 1997 stellt mehrere bestimmte Dinge fest: die formelle Autorisierung, extraterritorialen Status von allen Nationen der Erde (statt nur von Israel) zu erbitten; die technische Spezifikation, dass der 1-Kilometer-Radius sowohl Wasser als auch festes Land umfassen kann (wobei in jedem Wasseranteil die Schifffahrt verboten ist); die spezifischen Folgen für das Gastland (Schutz der Allianz, „gesicherte und blühende Zukunft“, Status als „geistiges und wissenschaftliches Zentrum des gesamten Planeten für die kommenden Jahrtausende“); und den Rahmen, innerhalb dessen Israel eine letzte Option behält, aber nicht mehr der ausschließliche Kandidat ist.
+Die Botschaft legt vier Dinge fest: die Autorisierung, extraterritorialen Status von allen Nationen statt nur von Israel zu erbitten; dass der Radius von 1 Kilometer neben Land auch Wasser umfassen darf, bei Verbot der Schifffahrt; die Folgen für das Gastland (Schutz, eine blühende Zukunft, der Status als geistiges und wissenschaftliches Zentrum des Planeten für Jahrtausende); und die Herabstufung Israels zu einer letzten Option statt des ausschließlichen Kandidaten.
 
 ### Die prophetische Verbindung zu Hesekiel 47,1-2
 
-Die Lesart des Rahmens vom prophetischen Vorausbild der Botschaft stützt sich hauptsächlich auf **Hesekiel 47,1-2**, mit hebräischem Text und Übersetzung:
+Die Lesart des Rahmens vom prophetischen Vorausbild der Botschaft stützt sich hauptsächlich auf **Hesekiel 47,1-2**:
 
 > וַיְשִׁבֵנִי אֶל־פֶּתַח הַבַּיִת וְהִנֵּה־מַיִם יֹצְאִים מִתַּחַת מִפְתַּן הַבַּיִת קָדִימָה
 > *Vayeshiveni el petach ha-bayit, ve-hineh mayim yotz'im mi-tachat miftan ha-bayit kadimah*
 > „Danach führte er mich wieder zur Tür des Tempels zurück, und siehe, da floss Wasser unter der Schwelle des Tempels hervor nach Osten.“
 
-Das hebräische מַיִם יֹצְאִים (*mayim yotz'im*), „hervortretendes Wasser“, aus der Schwelle des Tempels wird vom Rahmen als das unmittelbarste Vorausbild der Hebräischen Bibel für die Wasserträger-Ikonografie des Wassermann-Zeitalters gelesen. Hesekiels Vision beschreibt Wasser, das aus dem Tempel hervortritt, nach Osten fließt, zu einem Strom anschwillt, schließlich das Tote Meer erreicht und seine toten Wasser verjüngt. Der Rahmen liest dies als das prophetische Bild des Ausgießens des Wassermann-Zeitalters, wie es sich vom wiedererrichteten Tempel aus entfalten würde, den die Quelle mit der Botschaft identifiziert. Das Wasser, das aus der Schwelle der Botschaft fließt, die Welt verwandelt, die es erreicht, und wiederherstellt, was tot gewesen war — dies ist das Bild, das Hesekiel gezeigt wurde, in seinem Buch in dem ihm verfügbaren Vokabular aufgezeichnet.
-
-Der Rahmen liest die projizierte operative Rolle der Botschaft durch diese prophetische Linse: Die Botschaft wird nicht bloß ein Treffpunkt für Diplomaten sein. Sie wird, in der Formulierung der Quelle, das operative Zentrum sein, von dem aus der transformative Gehalt des Wassermann-Zeitalters über den Planeten nach außen fließt. Pilgerfahrten zur Botschaft, sich um sie sammelnde Bildungs- und Forschungseinrichtungen, die Botschaft als geistiges und intellektuelles Zentrum der Welt für die kommenden Jahrtausende — all dies ist der Strom Hesekiels, institutionell gemacht.
+Das hebräische מַיִם יֹצְאִים (*mayim yotz'im*), „hervortretende Wasser“, von der Schwelle des Tempels wird als das unmittelbarste Vorausbild der Hebräischen Bibel für die Wasserträger-Ikonografie des Wassermann-Zeitalters gelesen. Hesekiels Vision beschreibt Wasser, das aus dem Tempel hervortritt, nach Osten fließt, zu einem Strom anschwillt, das Tote Meer erreicht und seine toten Wasser verjüngt — was der Rahmen als das Ausgießen des Wassermann-Zeitalters liest, das sich vom wiedererrichteten Tempel (der Botschaft) aus entfaltet, von Hesekiel in dem ihm verfügbaren Vokabular festgehalten.
 
 ### Die Passage von der wiedererrichteten Hütte in Apostelgeschichte 15,16
 
@@ -273,328 +267,240 @@ Das sekundäre prophetische Vorausbild des Rahmens stützt sich auf **Apostelges
 > *Meta tauta anastrepsō kai anoikodomēsō tēn skēnēn David tēn peptōkuian*
 > „Danach will ich wiederkommen und die zerfallene Hütte Davids wieder aufbauen.“
 
-Das griechische Verb ἀναστρέφω (*anastrephō*), „sich zurückwenden, zurückkehren“, deutet eine Rückkehr nach einem Aufbruch an; das Verb ἀνοικοδομέω (*anoikodomeō*), „wieder aufbauen, wiedererrichten“, deutet die Wiederherstellung dessen an, was zerstört worden war. Der Ausdruck τὴν σκηνὴν Δαυίδ (*tēn skēnēn David*), „die Hütte Davids“, bezieht sich auf die davidische politisch-religiöse Struktur — das von David gegründete Königreich, die Hütte, die die Lade vor Salomos Tempel beherbergte, und im weiteren Sinne die gesamte allianz-israelitische Ordnung, die die Erdpräsenz der Allianz während des Widder-Zeitalters bestimmt hatte.
+Das griechische ἀναστρέφω (*anastrephō*), „sich zurückwenden, zurückkehren“, bezeichnet eine Rückkehr nach einem Aufbruch; ἀνοικοδομέω (*anoikodomeō*), „wieder aufbauen, wiedererrichten“, bezeichnet die Wiederherstellung dessen, was zerstört wurde. τὴν σκηνὴν Δαυίδ (*tēn skēnēn David*), „die Hütte Davids“, bezieht sich auf die davidische politisch-religiöse Struktur — das von David gegründete Königreich, die Hütte, die die Lade vor Salomos Tempel beherbergte, und im weiteren Sinne die gesamte allianz-israelitische Ordnung, die die Präsenz der Allianz auf der Erde während des Widder-Zeitalters bestimmte.
 
-Der Rahmen liest die Passage als die von der Quelle bevorzugte neutestamentliche Passage für die Rückkehr des Wassermann-Zeitalters: eine Rückkehr nach einem Aufbruch, ein Wiederaufbau dessen, was niedergeworfen worden war, eine Wiederherstellung der operativen Ordnung der Allianzpräsenz, die die zentrale kosmisch-politische Struktur während des Widder-Zeitalters gewesen war. Der in der Passage erwartete „Wiederaufbau“ ist, in der Lesart der Quelle, die Errichtung der Botschaft und die Rückkehr der Allianz bei der Fertigstellung der Botschaft.
+Der Rahmen liest sie als die von der Quelle bevorzugte neutestamentliche Passage für die Rückkehr des Wassermann-Zeitalters: eine Rückkehr nach einem Aufbruch, ein Wiederaufbau dessen, was niedergeworfen wurde, eine Wiederherstellung der Ordnung der Allianzpräsenz des Widder-Zeitalters — wobei der „Wiederaufbau“ die Errichtung der Botschaft und die Rückkehr der Allianz bei ihrer Fertigstellung ist.
 
 ## Der Gehalt des Konzepts
 
 ### Die grundlegenden operativen Merkmale
 
-Die Botschaft wirkt durch mehrere miteinander verbundene operative Merkmale:
-
-**Physisch-architektonische Spezifikationen**. Die unter *In den Primärquellen* oben dargelegten detaillierten Spezifikationen bilden die operative Grundlage. Die Spezifikationen sind detailliert und operativ konkret und spiegeln die praktischen Anforderungen eines Bauwerks wider, das zwei verschiedene Spezies sowohl bei zeremoniell-formeller als auch bei fortgesetzter operativer Nutzung aufnehmen muss.
-
-**Extraterritorialer Rechtsstatus**. Dem Standort muss vom Gastland extraterritorialer Status gewährt werden, mit rechtlicher Befreiung von der Gerichtsbarkeit des Gastlandes, analog zum Rahmen diplomatischer Vertretungen des Wiener Übereinkommens oder dem souveränen Status der Vatikanstadt.
-
-**Luftraumbeschränkung**. Der Luftraum über und um die Residenz darf nicht unter direkter militärischer oder Radarüberwachung stehen, womit die operativen Bedingungen geschaffen werden, unter denen Allianzschiffe ohne militärische oder Überwachungseingriffe landen und abheben können.
-
-**Biologische Trennung**. Das Design der Botschaft trennt die von Menschen und die von Allianzoffizieren genutzten Bereiche durch bestimmte architektonische Merkmale (die dicke Metalltür unter der Terrasse, die aseptische Kammer am Eingang des Konferenzraums) und spiegelt damit die praktischen biologischen Sicherheitsanforderungen des artübergreifenden Zusammenlebens wider.
-
-**Fortgesetzte operative Rolle**. Über das anfängliche Erbschaftsereignis hinaus wird die Botschaft als operatives Zentrum für die spätere Entwicklung des Wassermann-Zeitalters über die kommenden Jahrtausende dienen, fortgesetzte Begegnungen zwischen Allianz und Menschheit beherbergen und als Brennpunkt für Pilgerfahrten, Bildungs- und Forschungseinrichtungen und die weitere kulturelle Entwicklung dienen.
+Die Botschaft verbindet die physischen Spezifikationen (oben unter *In den Primärquellen* dargelegt), den extraterritorialen Rechtsstatus (Befreiung von der Gerichtsbarkeit des Gastlandes, wie bei den Vertretungen des Wiener Übereinkommens oder der Vatikanstadt), die Luftraumbeschränkung (keine militärische oder Radarüberwachung, damit Schiffe frei landen und abheben können), die biologische Trennung (die Metalltür unter der Terrasse und die aseptische Kammer teilen den menschlichen Bereich und den Bereich der Allianzoffiziere) und eine fortdauernde operative Rolle über das Erbschaftsereignis hinaus — das Zentrum für die spätere Entwicklung des Wassermann-Zeitalters, von Begegnungen und Pilgerfahrten bis zu Bildungs-, Forschungs- und Kultureinrichtungen.
 
 ### Die Bedingungen für die offene Rückkehr der Allianz
 
-Die Quelle gibt mehrere bestimmte Bedingungen vor, die erfüllt sein müssen, damit die offene Rückkehr der Allianz stattfindet:
+Die Quelle nennt mehrere:
 
-**Die Botschaft muss errichtet sein**. Die Fertigstellung der Botschaft ist die erste bestimmte operative Bedingung. Die Allianz wird nicht ohne ein vorgesehenes physisches Bauwerk ankommen, das bereitsteht, sie zu empfangen.
+**Die Botschaft muss errichtet sein.** Ihre Fertigstellung ist die erste Bedingung; die Allianz wird nicht ohne ein Bauwerk ankommen, das bereitsteht, sie zu empfangen.
 
-**Eine ausreichende menschliche Bevölkerung muss die Rückkehr wünschen**. Die Formulierung der Quelle: Die Menschheit muss „die Liebe zum Leben und die Liebe der Menschheit zu uns und zu sich selbst“ „stark genug“ haben — eine ausreichende Bevölkerung von Menschen muss die Rückkehr der Allianz bewusst wünschen und die Allianz als Schöpfer anerkennen statt als Götter oder als Widersacher.
+**Eine ausreichende Bevölkerung muss die Rückkehr wünschen.** „Die Liebe zum Leben und die Liebe der Menschheit zu uns und zu sich selbst“ muss „stark genug“ sein — genügend Menschen müssen die Rückkehr bewusst wünschen und die Allianz als Schöpfer anerkennen statt als Götter oder Widersacher.
 
-**Die militärische Bedrohung muss neutralisiert sein**. Die Formulierung der Quelle: Das Allianzschiff darf nicht von den zerstörerischen militärischen Kräften der Menschheit bedroht werden. Das weitere Gebot der Entmilitarisierung, das die Quelle formuliert, ist eine bestimmte operative Bedingung für die Rückkehr der Allianz — eine Menschheit, die ihre gegenwärtige militärisch-konfrontative Haltung beibehielte, wäre keine, zu der die Allianz sicher zurückkehren könnte.
+**Die militärische Bedrohung muss neutralisiert sein.** Die Schiffe der Allianz dürfen nicht von den militärischen Kräften der Menschheit bedroht werden; das Gebot der Entmilitarisierung in der Quelle ist eine Bedingung der Rückkehr.
 
-**Bewusste Anerkennung statt blinden Glaubens**. Die spezifische Formulierung der Quelle: Die Menschen, die die Allianz willkommen heißen, müssen dies auf der Grundlage von Bewusstsein und Verständnis tun und nicht auf der Grundlage blinden religiösen Glaubens. Die Rückkehr des Wassermann-Zeitalters soll von einer wissenschaftlich und philosophisch reifen Menschheit empfangen werden, die den Gehalt der Allianz nach seinen rationalen Verdiensten bewertet hat.
+**Bewusste Anerkennung, nicht blinder Glaube.** Wer die Allianz willkommen heißt, muss dies aus Bewusstsein und Verständnis tun, nicht aus blindem Glauben — eine wissenschaftlich und philosophisch reife Menschheit, die den Gehalt der Allianz nach seinen Verdiensten abgewogen hat.
 
 ### Das Erbschaftsereignis
 
-Der Rahmen liest die Botschaft als den operativen Ort für das **Erbschaftsereignis** — die formelle Übermittlung des angesammelten Wissens der Allianz von der Allianz an die Menschheit, die nach der offenen Rückkehr der Allianz stattfindet.
+Der Rahmen liest die Botschaft als den Ort des **Erbschaftsereignisses** — der formellen Übermittlung des angesammelten Wissens der Allianz an die Menschheit nach ihrer offenen Rückkehr.
 
-Der spezifische Gehalt des Erbschaftsereignisses umfasst:
+Es umfasst:
 
-**Übermittlung wissenschaftlichen Wissens**. Das angesammelte wissenschaftliche Wissen der Allianz — Biotechnologie, fortgeschrittene Physik, Antriebstechnologien, weiterer wissenschaftlicher Gehalt — wird an die Menschheit in Formen übermittelt, die der gegenwärtigen wissenschaftlichen Reife der Menschheit und ihrer Fähigkeit, das übertragene Wissen zu integrieren, angemessen sind.
+**Wissenschaftliches Wissen.** Die Wissenschaft der Allianz — Biotechnologie, fortgeschrittene Physik, Antrieb — in Formen, die der Reife der Menschheit und ihrer Fähigkeit, es aufzunehmen, angemessen sind.
 
-**Politisch-philosophischer Gehalt**. Der angesammelte politisch-philosophische Gehalt der Allianz — die weitere kosmisch-politische Lage, der Rahmen der Kosmischen Kette, die verschiedenen allianz-internen politischen und ethischen Traditionen — wird an die Menschheit als weiterer kosmischer Kontext für die projizierte Rolle der Menschheit als künftige Schöpferzivilisation übermittelt.
+**Politisch-philosophischer Gehalt.** Die kosmisch-politische Lage, der Rahmen der Kosmischen Kette und die politischen und ethischen Traditionen der Allianz, als Kontext für die Rolle der Menschheit als künftige Schöpferzivilisation.
 
-**Bestätigung des weiteren Korpusgehalts**. Die offene Rückkehr der Allianz wird eine unmittelbare Bestätigung (oder in bestimmten Fällen Korrektur) des weiteren Korpusgehalts liefern — des Schöpfungsrahmens von Genesis 1, der verschiedenen zeitalterspezifischen Operationen, des Gehalts der Schöpferteams und der menschlichen Rassen (sieben nach der Schlussfolgerung des Korpus), des weiteren kosmologischen Rahmens. Die spezifischen Rekonstruktionen des Korpus werden durch das unmittelbare maßgebliche Zeugnis der Allianz entweder im Wesentlichen bestätigt oder in bestimmten Fällen korrigiert.
+**Bestätigung des Korpus.** Das Zeugnis der Allianz wird den Korpus bestätigen oder korrigieren — den Schöpfungsrahmen von Genesis 1, die zeitalterspezifischen Operationen, die Schöpferteams und die menschlichen Rassen (sieben nach der Schlussfolgerung des Korpus), die Kosmologie.
 
-**Einleitung späterer operativer Regelungen**. Das Erbschaftsereignis wird die spätere, jahrtausendelange operative Regelung zwischen der Allianz und der Menschheit einleiten, wobei die Botschaft über die folgenden Jahrhunderte hinweg als zentrales operatives Zentrum dient.
+**Beginn der fortdauernden Ordnung.** Es leitet die jahrtausendelange Ordnung zwischen Allianz und Menschheit ein, mit der Botschaft als ihrem Zentrum über die folgenden Jahrhunderte.
 
 ### Die Nachbildung der Botschaft und die weitere Infrastruktur
 
-Die Quelle gibt vor, dass eine **Nachbildung der Botschaft**, öffentlich zugänglich, in der Nähe der funktionalen Botschaft errichtet wird, um gewöhnlichen Besuchern zu ermöglichen, den Ort zu erleben, ohne die laufenden diplomatischen und operativen Aktivitäten zu stören.
+Die Quelle gibt eine **Nachbildung der Botschaft** vor, öffentlich zugänglich und nahe der funktionalen gelegen, damit Besucher den Ort erleben können, ohne die Arbeit zu stören. Um sie herum umfasst die projizierte Infrastruktur Pilgereinrichtungen (Unterkunft, Verkehr, kommerzielle und kulturelle Unterstützung); Bildungs- und Forschungseinrichtungen (Universitäten, Forschungsinstitute, Bibliotheken, Archive), um das übermittelte Wissen mit der bestehenden Wissenschaft und Bildung der Menschheit zu verbinden; und, als „geistiges Zentrum der Welt für die kommenden Jahrtausende“, eine weitreichende kulturelle und religiöse Entwicklung.
 
-Die weitere Infrastruktur, die sich voraussichtlich um die Botschaft entwickeln wird, umfasst:
+### Die operative Rolle im Wassermann-Zeitalter
 
-**Pilgerinfrastruktur**. Besucherunterkünfte, Verkehrsinfrastruktur, unterstützende kommerzielle und kulturelle Einrichtungen für Pilgerfahrten aus allen Nationen zu dem Ort.
+Die Botschaft ist der Ort, an dem der **Übergang von den Fischen zum Wassermann** konkrete Gestalt annimmt. Das Fische-Zeitalter wirkte durch indirekten Kontakt über prophetische Vermittlung; das Wassermann-Zeitalter wirkt durch direkten Kontakt über die formelle Botschaft, das Zentrum, von dem aus die Entwicklungen des Zeitalters ausgehen.
 
-**Bildungs- und Forschungseinrichtungen**. Universitäten, Forschungseinrichtungen, Bibliotheken, Archive, die sich um die Botschaft sammeln und die institutionelle Infrastruktur für die Integration des übermittelten Wissens der Allianz mit den bestehenden wissenschaftlichen und bildungsbezogenen Strukturen der Menschheit bereitstellen.
-
-**Kulturelle und religiöse Einrichtungen**. Die Botschaft als „geistiges Zentrum der Welt für die kommenden Jahrtausende“ wird eine erhebliche Entwicklung kultureller und religiöser Infrastruktur hervorbringen, wobei die spezifischen Formen dieser Entwicklung eines der zentralen Kulturprojekte der reifen Phase des Wassermann-Zeitalters sein werden.
-
-### Die operative Rolle des Wassermann-Zeitalters
-
-Die weitere operative Rolle der Botschaft im Wassermann-Zeitalter lässt sich wie folgt zusammenfassen: Die Botschaft ist der physische Ort, an dem der **Übergang von den Fischen zum Wassermann** konkret in operativer Form verwirklicht wird. Das Fische-Zeitalter war durch indirekten Kontakt durch prophetische Vermittlung gekennzeichnet; das Wassermann-Zeitalter ist durch direkten Kontakt durch die formelle Botschaftsregelung gekennzeichnet. Die Botschaft ist die spezifische architektonisch-operative Form, die der Übergang annimmt, wobei die weiteren Entwicklungen des Wassermann-Zeitalters von der Botschaft als ihrem physisch-operativen Zentrum aus wirken.
-
-Die spezifische Formulierung der Quelle stellt die Botschaft in das Zentrum des weiteren Programms des Wassermann-Zeitalters: Die Botschaft ist der Ort, an dem die sieben neuen Gebote (Geniokratie, Humanitarismus, Weltregierung, Entmilitarisierung, Wissenschaft als Religion, Pflege der Telepathie, die metaphysischen Klärungen) durch die unmittelbare Beteiligung der Allianz ihre operative Umsetzung erhalten; die Botschaft ist der Ort, an dem die weitere Apokalypse des Wassermann-Zeitalters (die Enthüllungsphase) operativ vollständig wird; die Botschaft ist der Ort, von dem aus der transformative Gehalt des Wassermann-Zeitalters nach außen an die Menschheit insgesamt fließt.
+Die Quelle stellt sie in die Mitte des Programms des Wassermann-Zeitalters: als Ort, an dem die sieben neuen Gebote (Geniokratie, Humanitarismus, Weltregierung, Entmilitarisierung, Wissenschaft als Religion, telepathische Kultivierung, die metaphysischen Klärungen) unter direkter Beteiligung der Allianz umgesetzt werden; an dem die Apokalypse des Wassermann-Zeitalters (die Phase der Enthüllung) ihren Abschluss findet; und von dem aus der transformative Gehalt des Zeitalters zur Menschheit hinausfließt.
 
 ## Die Geschichte des Botschaftsprojekts
 
 ### Die vorbereitende Periode 1973–1991
 
-Der Kontakt von 1973 begründete die grundlegenden Spezifikationen der Botschaft, wobei die spätere Entwicklung der raëlianischen Bewegung in den 1970er und 1980er Jahren sich auf die weitere institutionelle Infrastruktur konzentrierte (die Gründung der Internationalen Raëlianischen Bewegung, den weiteren raëlianisch-philosophischen Gehalt, die sieben neuen Gebote). Das spezifische Botschaftsprojekt wurde in dieser Periode im vorbereitenden Modus gehalten.
+Der Kontakt von 1973 legte die grundlegenden Spezifikationen fest; in den 1970er und 1980er Jahren baute die Bewegung ihre institutionelle Infrastruktur auf (Gründung der International Raëlian Movement, Entwicklung der raëlianischen Philosophie und der sieben neuen Gebote) und hielt das Botschaftsprojekt in einem vorbereitenden Zustand.
 
-Im Jahr 1990 stimmten die Elohim als Zeichen besonderer Zuneigung zum Volk Israel Raëls Vorschlag zu, das ursprüngliche raëlianische Symbol der Unendlichkeit zu ändern, wenn es von raëlianischen Zweigstellen im Westen verwendet wird. Die zentrale Swastika (die im Sanskrit „Wohlergehen“ bedeutet und die Unendlichkeit in der Zeit darstellt) wurde durch einen galaxienförmigen Wirbel ersetzt. Diese Änderung wurde vorgenommen, um die Verhandlungen für den Bau der Botschaft in Israel zu erleichtern und aus Respekt vor den Empfindlichkeiten der Opfer der nationalsozialistischen Swastika während des Zweiten Weltkriegs. In Asien, wo die Swastika in buddhistischen Tempeln als Symbol der Unendlichkeit in der Zeit erscheint, blieb das ursprüngliche Symbol in Gebrauch.
+1990 stimmten die Elohim als Zeichen der Achtung gegenüber dem Volk Israel Raëls Vorschlag zu, das raëlianische Symbol der Unendlichkeit für die westlichen Zweige zu verändern: Das zentrale Hakenkreuz (Sanskrit für „Wohlergehen“, die Unendlichkeit in der Zeit) wurde durch einen galaxienförmigen Wirbel ersetzt, um die israelischen Verhandlungen zu erleichtern und die Empfindungen der Opfer des nationalsozialistischen Hakenkreuzes im Zweiten Weltkrieg zu achten. In Asien, wo das Hakenkreuz in buddhistischen Tempeln erscheint, blieb das ursprüngliche Symbol bestehen.
 
 ### Das israelische Engagement 1991–1997
 
-Der erste formelle Antrag wurde am 8. November 1991 (jüdisches Neujahr) an den Oberrabbiner in Jerusalem gestellt. Ein weiterer offizieller Antrag wurde mehrere Monate später an Israels Oberrabbiner gestellt. Der Antrag wurde anerkannt, und eine Prüfung des Antrags begann. Im Sommer 1993 kam eine israelische Regierungskommission zu dem Schluss, dass die Raëlianische Bewegung friedlicher Absicht sei und keine Bedrohung für Israels Sicherheit darstelle. Zwei Rabbiner der Kommission sollen zu dem Schluss gekommen sein, dass „es besser wäre, nichts gegen Rael zu unternehmen, für den Fall, dass er wirklich der erwartete Messias ist“.
+Der erste formelle Antrag ging am 8. November 1991 (jüdisches Neujahr) an den Oberrabbiner in Jerusalem, einige Monate später folgte ein weiterer Antrag, und eine Prüfung begann. Im Sommer 1993 befand eine Kommission der israelischen Regierung die Raëlianische Bewegung für friedlich und für keine Bedrohung der Sicherheit Israels; zwei Rabbiner in ihr sollen die Auffassung vertreten haben, „es wäre besser, nichts gegen Rael zu unternehmen, falls er wirklich der erwartete Messias ist“.
 
-Im November 1993 wurde ein weiterer direkter Antrag an Israels Ministerpräsidenten Jitzhak Rabin gestellt, der an der Montrealer Jüdischen Versammlung teilnahm. Nach etwa einem Monat antwortete Rabin über einen seiner Bürovertreter, dass er nicht entsprechen könne. Nachfolgende Regierungen haben die Frage nicht wieder aufgegriffen.
+Im November 1993 erreichte ein direkter Antrag Premierminister Jitzchak Rabin auf der jüdischen Versammlung in Montreal; etwa einen Monat später antwortete Rabin über einen Vertreter seines Büros, dass er dem nicht entsprechen könne. Spätere Regierungen haben die Frage nicht wieder aufgegriffen.
 
 ### Die Autorisierung vom 13. Dezember 1997
 
-Die Botschaft Jahwes vom 13. Dezember 1997 autorisierte formell die Verlegung des Botschaftsprojekts in andere Länder, wobei Israel eine letzte Option behielt, das Projekt aber nicht mehr von der israelischen Zusammenarbeit abhängig war. Der spezifische Inhalt der Botschaft wurde oben unter *In den Primärquellen* behandelt.
+Die Botschaft Jahwes vom 13. Dezember 1997 autorisierte die Verlegung in andere Länder, wobei Israel eine letzte Option behielt, das Projekt aber nicht mehr von israelischer Zusammenarbeit abhing. Ihr Inhalt wird oben unter *In den Primärquellen* behandelt.
 
 ### Die Verhandlungen 1998–2020
 
-In den folgenden zwei Jahrzehnten führte die raëlianische Bewegung Verhandlungen mit verschiedenen potenziellen Gastländern. Die wichtigsten dokumentierten Verhandlungen umfassen das Engagement mit Kanada, Russland, dem Libanon und verschiedenen anderen Ländern in den 1990er und 2000er Jahren. Keine dieser Verhandlungen führte in dieser Periode zu einer formellen Gewährung extraterritorialen Status.
+In den folgenden zwei Jahrzehnten verhandelte die Bewegung mit potenziellen Gastländern, darunter Kanada, Russland und der Libanon in den 1990er und 2000er Jahren. Keine dieser Verhandlungen führte zu einer formellen extraterritorialen Gewährung.
 
-Im Jahr 2005 nannte Raëls Kommentar in der veröffentlichten *Botschaft der Designer* die unteren Hänge des Berges Sinai als mögliche ägyptische Alternative („die unteren Hänge des Berges Sinai wären eine ausgezeichnete Alternativwahl, da dort Jahwe, der Anführer der Elohim, Mose zum ersten Mal erschien“), wobei auch mögliche palästinensische oder andere Standorte in Nachbarstaaten in Betracht gezogen wurden.
+2005 nannte Raëls Kommentar in *Message from the Designers* die unteren Hänge des Berges Sinai als mögliche ägyptische Alternative („die unteren Hänge des Berges Sinai wären eine ausgezeichnete alternative Wahl, denn dort erschien Jahwe, der Anführer der Elohim, Mose zum ersten Mal“), wobei auch palästinensische Standorte oder solche in anderen Nachbarstaaten erwogen wurden.
 
 ### Das UN-Fakultativprotokoll von 2015
 
-Im Jahr 2015 legte die raëlianische Bewegung den Vereinten Nationen ein „Fakultativprotokoll über Botschaften für Außerirdische“ vor, das einen üblichen diplomatischen Rahmen vorschlug, den jedes Gastland nutzen könnte, um die Gewährung des extraterritorialen Status zu formalisieren. Das Protokoll bot detaillierte Bestimmungen für die rechtlich-diplomatische Infrastruktur, die das Botschaftsprojekt erfordert, und stellte den bedeutendsten Versuch der Bewegung dar, den rechtlichen Status der Botschaft innerhalb etablierter internationaler-diplomatischer Rahmen zu formalisieren.
+2015 reichte die Bewegung bei den Vereinten Nationen ein „Fakultativprotokoll über Botschaften für Außerirdische“ ein, einen Standardrahmen, den jedes Gastland zur Formalisierung der extraterritorialen Gewährung nutzen könnte — ihr umfassendster Versuch, den Rechtsstatus der Botschaft in etablierte internationale Rahmen einzufügen.
 
 ### Die Beschleunigung 2021–2024
 
-Ab 2021 trat das Botschaftsprojekt in eine Periode erheblicher Beschleunigung ein:
+Ab 2021 beschleunigte sich das Projekt:
 
-**Februar 2021**: Die Allianz für außerirdischen diplomatischen Kontakt (AEDC) wurde als internationale gemeinnützige Organisation von Politikern, Diplomaten und Regierungsbeamten gegründet, die sich verpflichtet haben, außerirdische Zivilisationen auf der Erde willkommen zu heißen.
+**Februar 2021.** Die Allianz für extraterrestrischen diplomatischen Kontakt (AEDC) wurde gegründet — eine internationale gemeinnützige Organisation von Politikern, Diplomaten und Beamten, die sich verpflichtet haben, außerirdische Zivilisationen auf der Erde willkommen zu heißen.
 
-**2022**: Teams des Botschaftsprojekts begannen mit Präsentationen vor den Bürgermeistern von fünfzig ausgewählten Städten auf allen Kontinenten und verschafften dem Projekt eine erheblich erweiterte politisch-diplomatische Sichtbarkeit.
+**2022.** Projektteams begannen mit Präsentationen vor den Bürgermeistern von fünfzig ausgewählten Städten auf allen Kontinenten und erweiterten die politisch-diplomatische Sichtbarkeit des Projekts.
 
-**2024**: Eine nationale Regierung (deren Identität die Bewegung bis zu weiteren Verhandlungsstufen vertraulich behandelt) unterzeichnete ein Kollaborationsmemorandum mit der raëlianischen Bewegung, um die Aufnahme des Botschaftsprojekts zu prüfen. Daniel Turcotte, der für das Botschaftsprojekt verantwortliche raëlianische Guide, bezeichnete die Unterzeichnung als „einen historischen Tag für die Menschheit“ und merkte an, dass „eine Nation endlich den Mut und die Vision gezeigt hat, sich auf die Rückkehr einer fortgeschrittenen außerirdischen Zivilisation auf die Erde vorzubereiten“. Das Memorandum umreißt einen kollaborativen Rahmen einschließlich Zielen, Rollen, Grundsätzen der Zusammenarbeit und eines Zeitplans für die Sondierungsarbeit.
+**2024.** Eine nationale Regierung — deren Identität die Bewegung bis zu späteren Verhandlungsstufen vertraulich hält — unterzeichnete ein Memorandum of Collaboration, um die Aufnahme des Projekts zu prüfen. Daniel Turcotte, der für die Botschaft verantwortliche raëlianische Führer, nannte die Unterzeichnung „einen historischen Tag für die Menschheit“ und merkte an, dass „eine Nation endlich den Mut und die Weitsicht gezeigt hat, sich auf die Rückkehr einer fortgeschrittenen außerirdischen Zivilisation auf die Erde vorzubereiten“. Das Memorandum legt Ziele, Rollen, Grundsätze der Zusammenarbeit und einen Zeitplan für die Prüfungsarbeit fest.
 
 ### Der projizierte Zeitplan 2025–2030
 
-Der veröffentlichte Zeitplan der raëlianischen Bewegung projiziert die folgenden Phasen:
+Der veröffentlichte Zeitplan sieht vor:
 
-**2025–2027 (Phase des Grundstückserwerbs)**: Der bevorzugte Standort wird ermittelt, die extraterritoriale Übertragung wird rechtlich bewirkt, und Vereinbarungen über die Infrastruktur außerhalb des Standorts werden abgeschlossen.
+**2025–2027 (Grundstückserwerb).** Der bevorzugte Standort wird ermittelt, die extraterritoriale Übertragung rechtlich vollzogen, und Vereinbarungen über die Infrastruktur außerhalb des Standorts werden abgeschlossen.
 
-**2027–2030 (Phase der Planung und des Baus)**: Generalplanung, architektonische und ingenieurtechnische Gestaltung, Verträge und der tatsächliche Bau des Botschaftskomplexes einschließlich der öffentlich zugänglichen Nachbildung der Botschaft.
+**2027–2030 (Planung und Bau).** Generalplanung, architektonische und ingenieurtechnische Gestaltung, Verträge und Bau des Komplexes, einschließlich der öffentlichen Nachbildung der Botschaft.
 
-**Nach 2030 (Wartungsmodus)**: Die Botschaft wird im Wartungsmodus in Erwartung der Ankunft der Allianzdelegation wirken.
+**Nach 2030 (Wartungsmodus).** Die Botschaft wartet im Wartungsmodus auf die Delegation der Allianz.
 
-Das Korpus verzeichnet diese Projektionen, ohne sie als bestätigt zu befürworten. Der spezifische Zeitplan der raëlianischen Bewegung ist die eigene institutionelle Projektion der Bewegung, wobei der tatsächliche Fortschritt vom Erfolg der diplomatischen Verhandlungen und den weiteren politischen Bedingungen abhängt.
+Der Korpus verzeichnet diese Projektionen, ohne sie zu befürworten; der Zeitplan ist der eigene der Bewegung.
 
 ## Anwendung im gesamten Korpus
 
-Das Botschaftskonzept wirkt als spezifisches operatives Element innerhalb mehrerer Korpuseinträge.
-
-### Der Apokalypse-Eintrag
-
-Die Botschaft ist der operative Ort für die weitere Apokalypse (die Enthüllungsphase), die der Rahmen des Korpus artikuliert. Die detaillierte Behandlung der Apokalypse befindet sich im Eintrag [Apokalypse](../apocalypse/); der spezifische Beitrag des Botschaftseintrags besteht darin, die spezifische Rolle der Botschaft als physisch-operativen Ort zu begründen, an dem die Apokalypse operativ vollständig wird.
-
-### Der Eintrag zum Kosmischen Wettbewerb
-
-Die Botschaft ist der operative Ort für das Erbschaftsereignis, das auf die Bewertungsphase des Kosmischen Wettbewerbs folgt. Die detaillierte Behandlung des Kosmischen Wettbewerbs befindet sich im Eintrag [Kosmischer Wettbewerb](../cosmic-competition/); der spezifische Beitrag des Botschaftseintrags besteht darin, die Botschaft als die spezifische architektonisch-operative Form zu begründen, innerhalb derer die Erbschaftsübermittlung stattfindet.
-
-### Der Eintrag zur Kosmischen Kette
-
-Die Botschaft ist der operative Ort für den projizierten Übergang der Erde von einer geschaffenen zu einer Schöpferzivilisation innerhalb der weiteren Kosmischen Kette. Die detaillierte Behandlung der Kosmischen Kette befindet sich im Eintrag [Kosmische Kette](../cosmic-chain/); der spezifische Beitrag des Botschaftseintrags besteht darin, die Botschaft als den spezifischen physischen Ort zu begründen, an dem der Platz der Erde in der Kette operativ formalisiert wird.
-
-### Der Eintrag zur Doppelten Signatur
-
-Die Botschaft ist die operative Verwirklichung der Wasserträger-Signatur des Wassermann-Zeitalters. Die Bildwelt von Hesekiel 47 (Wasser, das aus der Schwelle des Tempels fließt) ist, in der Lesart des Rahmens, das prophetische Vorausbild der projizierten operativen Rolle der Botschaft als Quelle, aus der die Wasser des Verständnisses des Wassermann-Zeitalters fließen. Die detaillierte Behandlung der Doppelten Signatur befindet sich im Eintrag [Doppelte Signatur](../doubled-signature/); der spezifische Beitrag des Botschaftseintrags besteht darin, die Rolle der Botschaft innerhalb der operativen Verwirklichung der Wassermann-Löwe-Signatur zu begründen.
-
-### Der Raël-Eintrag
-
-Die Botschaft ist das operative Zentrum für die Mission des Propheten des Wassermann-Zeitalters. Die detaillierte Behandlung von Raëls Rolle befindet sich im Eintrag [Raël](../rael/) (sofern geschrieben); der spezifische Beitrag des Botschaftseintrags besteht darin, die Botschaft als das zentrale operative Projekt innerhalb von Raëls weiterer prophetischer Mission zu begründen.
-
-### Der Eintrag zum Zeitalter des Wassermanns
-
-Die Botschaft ist das zentrale operative Element des Programms des Wassermann-Zeitalters. Die detaillierte Behandlung des Zeitalters des Wassermanns befindet sich im Eintrag [Zeitalter des Wassermanns](../../timeline/age-of-aquarius/); der spezifische Beitrag des Botschaftseintrags besteht darin, die spezifischen operativen Merkmale der Botschaft zu begründen.
+Die Botschaft kehrt im gesamten Korpus als der Ort wieder, an dem mehrere projizierte Ereignisse ankommen: Sie ist der Ort, an dem die [Apokalypse](../apocalypse/) (die Phase der Enthüllung) ihren Abschluss findet; die Form, in der das Erbschaftsereignis auf die Bewertungsphase des [Kosmischen Wettbewerbs](../cosmic-competition/) folgt; der Ort, an dem der Übergang der Erde von einer geschaffenen zu einer schöpferischen Zivilisation innerhalb der [Kosmischen Kette](../cosmic-chain/) formalisiert wird; die Verwirklichung der Wasserträger-Signatur des Wassermann-Zeitalters, wobei die Bilder von Hesekiel 47 ihre Rolle als Quelle vorausbilden, aus der die Wasser des Zeitalters fließen (die [Doppelte Signatur](../doubled-signature/)); das Hauptprojekt der Mission des Propheten des Wassermann-Zeitalters (der Eintrag [Raël](../rael/)); und das zentrale Element des Programms des Wassermann-Zeitalters (der Eintrag [Zeitalter des Wassermanns](../../timeline/age-of-aquarius/)). Jeder Eintrag enthält die vollständige Behandlung.
 
 ## Abgrenzung von benachbarten Konzepten
 
-### Die Botschaft vs. der salomonische Erste Tempel
+### Die Botschaft vs. der Erste und der Zweite Tempel
 
-Der salomonische Erste Tempel (errichtet um 950 v. u. Z., zerstört 586 v. u. Z.) war das wichtigste Kultzentrum der israelitischen Religion; der Kanon nennt ihn „die erste Residenz zum Empfang der Elohim“ (TBWTT-3:102), sagt aber nichts von einer Abfolge. Die zeitgenössische Botschaft ist der projizierte Dritte Tempel, in der jüdischen Erwartung der Nachfolger des salomonischen und des Zweiten Tempels.
-
-Das Korpus zieht keine Linie von Empfangsstätten von jenen Tempeln zur Botschaft; die Identifizierung bildet die Botschaft auf die jüdische Erwartung ab, ohne sie zu ersetzen.
-
-### Die Botschaft vs. der Zweite Tempel
-
-Der Zweite Tempel (errichtet um 516 v. u. Z., erweitert um 20 v. u. Z., zerstört 70 u. Z.) folgte in Jerusalem auf den Ersten. Der Kanon sagt über ihn nichts; das Korpus liest ihn nicht als Glied einer Folge von Empfangsstätten, die zur Botschaft führt.
+Der Kanon nennt den Tempel Salomos (errichtet um 950 v. u. Z., zerstört 586 v. u. Z.) « la première résidence pour l'accueil des Elohim » (TBWTT-3:102) und sagt nichts über den Zweiten Tempel (errichtet um 516 v. u. Z., erweitert um 20 v. u. Z., zerstört 70 u. Z.). Die Botschaft ist der Dritte Tempel des Kanons (woh-claim-0016); der Korpus zieht keine Linie der Nachfolge von den früheren Tempeln zu ihr.
 
 ### Die Botschaft vs. das weitere Ereignis der Apokalypse
 
-Die weitere Apokalypse ist die Enthüllungsphase, während derer das zuvor verborgene Wirken der Allianz der Menschheit offen bekannt wird. Die Botschaft ist der spezifische physisch-operative Ort, an dem die Apokalypse operativ vollständig wird.
-
-Die Beziehung ist eine von **weiterem Ereignis und spezifischem Ort**. Die Apokalypse ist die weitere Enthüllungsphase; die Botschaft ist der spezifische architektonisch-operative Ort, an dem die Enthüllung ihre spezifische formelle Vollendung erreicht.
+Die Apokalypse ist die Phase der Enthüllung, in der das verborgene Wirken der Allianz offen bekannt wird — **Ereignis und Ort**: Die Botschaft ist der Ort, an dem diese Enthüllung ihren formellen Abschluss findet.
 
 ### Die Botschaft vs. der Rahmen des Kosmischen Wettbewerbs
 
-Der Rahmen des Kosmischen Wettbewerbs betrifft die weitere kosmologische Bewertungsphase, während derer eine Schöpferzivilisation ihre geschaffenen Menschheiten auf ihre Qualifikation für das Erbe bewertet. Die Botschaft ist der spezifische physisch-operative Ort, an dem das Erbschaftsereignis nach Abschluss der Bewertungsphase stattfindet.
-
-Die Beziehung ist eine von **weiterer Bewertung und spezifischem Erbschaftsort**. Der Kosmische Wettbewerb ist der weitere Bewertungsrahmen; die Botschaft ist die spezifische architektonisch-operative Form, innerhalb derer die Erbschaftsübermittlung stattfindet.
+Der Kosmische Wettbewerb ist die Bewertungsphase, in der eine Schöpferzivilisation ihre geschaffenen Menschheiten im Hinblick auf das Erbe beurteilt — **Bewertung und Ort des Erbes**: Die Botschaft ist der Ort, an dem die Übermittlung des Erbes stattfindet, sobald die Bewertung abgeschlossen ist.
 
 ### Die Botschaft vs. die Residenz der Allianz auf der Heimatwelt
 
-Die Residenz der Allianz auf der Heimatwelt ist der zentrale Ort für die tägliche operative Tätigkeit der Allianz. Die Botschaft auf der Erde ist eine spezifische operative Einrichtung, die für die erdseitige Arbeit der Allianz während der operativen Phase des Wassermann-Zeitalters vorgesehen ist.
-
-Die Beziehung ist eine von **Heimatwelt-Basis und erdseitiger operativer Einrichtung**. Die Heimatwelt ist die zentrale Residenz der Allianz; die Erd-Botschaft ist eine spezifische Außenposteneinrichtung mit begrenzten, aber spezifischen operativen Funktionen.
+Die Residenz der Allianz auf der Heimatwelt ist der Sitz ihrer alltäglichen Tätigkeit — **Heimatbasis und irdischer Außenposten**: Die Botschaft auf der Erde ist ein Außenposten mit begrenzten, bestimmten Funktionen für das Wirken der Allianz während des Wassermann-Zeitalters.
 
 ## Moderne Neudeutungen
 
 ### Die zeitgenössische UFO/UAP-Offenlegungsbewegung
 
-Die weitere Frage des außerirdischen Kontakts hat in jüngerer Zeit erhebliche akademische und staatliche Aufmerksamkeit erfahren, mit erheblichen Auswirkungen auf die weitere Landschaft, innerhalb derer das Botschaftsprojekt wirkt.
+Außerirdischer Kontakt hat in jüngerer Zeit akademische und staatliche Aufmerksamkeit erfahren und die Landschaft verändert, in der das Botschaftsprojekt wirkt.
 
-**Christopher Mellon** (ehemaliger stellvertretender Staatssekretär für Verteidigungsnachrichtenwesen) ist ein bedeutender öffentlicher Befürworter der Transparenz in Fragen von UAP (Unidentified Aerial Phenomena) gewesen, mit zahlreichen öffentlichen Auftritten, Meinungsbeiträgen und politischer Interessenvertretung über den Zeitraum 2017–2025 hinweg.{{ footnote(id="5") }} Mellons spezifische Interessenvertretung war hauptsächlich auf die Frage der UAP-Offenlegung ausgerichtet und nicht auf spezifische religiös-prophetische Rahmen.
+**Christopher Mellon** (ehemaliger stellvertretender Staatssekretär für Verteidigungsnachrichtenwesen) ist ein führender Befürworter der Transparenz in Fragen von UAP (Unidentified Aerial Phenomena) gewesen, mit Gastbeiträgen und politischer Fürsprache im Zeitraum 2017–2025.{{ footnote(id="5") }}
 
-**Luis Elizondo** (ehemaliger Leiter des Advanced Aerospace Threat Identification Program, AATIP, des US-Verteidigungsministeriums) wurde nach den Artikeln der *New York Times* vom Dezember 2017 über das AATIP-Programm und den anschließenden Enthüllungen von Tom DeLonge/To the Stars Academy eine bedeutende öffentliche Figur. Elizondos Buch *Imminent: Inside the Pentagon's Hunt for UFOs* von 2024 lieferte eine umfangreiche öffentliche Dokumentation der UAP-Untersuchungsprogramme der US-Regierung.{{ cite(id="elizondo-imminent", text="[7]", title="Elizondo, *Imminent: Inside the Pentagon's Hunt for UFOs* (2024)") }}
+**Luis Elizondo** (ehemaliger Leiter des Advanced Aerospace Threat Identification Program, AATIP, des US-Verteidigungsministeriums) wurde nach den Artikeln der *New York Times* vom Dezember 2017 über das AATIP und den Enthüllungen von Tom DeLonge und der To the Stars Academy bekannt. Sein Buch *Imminent: Inside the Pentagon's Hunt for UFOs* von 2024 dokumentierte die UAP-Untersuchungsprogramme der Regierung.{{ cite(id="elizondo-imminent", text="[7]", title="Elizondo, *Imminent: Inside the Pentagon's Hunt for UFOs* (2024)") }}
 
-**David Grusch** (ehemaliger US-Geheimdienstoffizier, inzwischen im Ruhestand) sagte am 26. Juli 2023 vor dem Aufsichtsausschuss des US-Repräsentantenhauses aus und lieferte eine umfangreiche öffentliche Aussage zu mutmaßlichen UAP-Bergungsprogrammen der US-Regierung.{{ cite(id="grusch-congressional-testimony", text="[8]", title="Grusch, Aussage vor dem Aufsichtsausschuss des US-Repräsentantenhauses (26. Juli 2023)") }} Die Aussage war inhaltlich bedeutsam, da sie eine erhebliche anschließende Auseinandersetzung des Kongresses und der Medien mit der weiteren UAP-Frage hervorrief.
+**David Grusch** (ehemaliger US-Geheimdienstoffizier, im Ruhestand) sagte am 26. Juli 2023 vor dem Aufsichtsausschuss des US-Repräsentantenhauses über mutmaßliche staatliche UAP-Bergungsprogramme aus und trieb damit einen Großteil der anschließenden Befassung durch Kongress und Medien an.{{ cite(id="grusch-congressional-testimony", text="[8]", title="Grusch, Aussage vor dem Aufsichtsausschuss des US-Repräsentantenhauses (26. Juli 2023)") }}
 
-**Jüngste Kongressanhörungen**. Der US-Kongress hat über den Zeitraum 2022–2025 hinweg mehrere bedeutende UAP-bezogene Anhörungen durchgeführt, mit erheblichem überparteilichem Engagement und verschiedenen Gesetzesvorschlägen. Der UAP Disclosure Act von 2023, obwohl im Ausschuss erheblich abgeändert, stellte eine bedeutende Auseinandersetzung des Kongresses mit der Offenlegungsfrage dar.
+**Kongressanhörungen.** Der Kongress hielt im Zeitraum 2022–2025 mehrere UAP-Anhörungen mit überparteilicher Beteiligung ab; der UAP Disclosure Act von 2023 markierte, obwohl im Ausschuss stark abgeändert, eine ernsthafte Befassung mit der Offenlegungsfrage.
 
-**Die UAP-Offenlegungsbewegung der Mehrheit** hat den kulturell-politischen Raum, innerhalb dessen Diskussionen über außerirdischen Kontakt stattfinden, erheblich erweitert. Der Rahmen liest diesen erweiterten Raum als relevanten Hintergrund für das zeitgenössische diplomatische Engagement des Botschaftsprojekts, auch dort, wo der spezifische Gehalt der Offenlegungsbewegung sich nicht direkt mit dem Botschaftsprojekt auseinandersetzt.
+**Die Offenlegungsbewegung** hat den kulturell-politischen Raum für die Diskussion außerirdischen Kontakts erweitert — relevanter Hintergrund für das diplomatische Engagement der Botschaft, auch wenn sie sich nicht direkt mit der Botschaft befasst.
 
 ### Akademische UAP-Forschung
 
-Die akademische Auseinandersetzung mit UAP-Fragen hat sich in den vergangenen Jahren erheblich entwickelt.
+Die akademische Arbeit zu UAP ist in den letzten Jahren gewachsen.
 
-**Die Stanford Sol Foundation** (gegründet 2023, geleitet von Garry Nolan und Peter Skafish an der Stanford University) hat sich in erheblichem Maße akademisch mit UAP-Fragen auseinandergesetzt, einschließlich akademischer Konferenzen, Publikationen und weiterer akademisch-disziplinärer Auseinandersetzung. Die spezifische Forschung der Sol Foundation konzentriert sich auf die empirische Frage der UAP-Phänomene und nicht auf spezifische religiös-prophetische Rahmen.
+**Die Stanford Sol Foundation** (gegründet 2023, geleitet von Garry Nolan und Peter Skafish) befasst sich in Konferenzen und Publikationen mit UAP-Fragen und konzentriert sich auf die empirischen Phänomene statt auf religiös-prophetische Rahmen.
 
-**Das Harvard Galileo Project** (gegründet 2021, geleitet von Avi Loeb an der Harvard University) hat erhebliche empirische Forschung zu UAP und weiteren Fragen außerirdischer Intelligenz durchgeführt. Loebs Forschung war im Wesentlichen auf beobachtungsbezogene und empirische Methodik ausgerichtet, mit verschiedenen Publikationen und weiterem öffentlichem Engagement über den Zeitraum 2021–2025 hinweg.{{ cite(id="loeb-extraterrestrial", text="[9]", title="Loeb, *Extraterrestrial* (2021) — das ʻOumuamua-Argument") }}{{ cite(id="loeb-interstellar", text="[10]", title="Loeb, *Interstellar* (2023) — das Galileo-Projekt") }}
+**Das Harvard Galileo Project** (gegründet 2021, geleitet von Avi Loeb) betreibt im Zeitraum 2021–2025 empirische Forschung zu UAP und außerirdischer Intelligenz, mit Schwerpunkt auf Beobachtungsmethodik.{{ cite(id="loeb-extraterrestrial", text="[9]", title="Loeb, *Extraterrestrial* (2021) — das ʻOumuamua-Argument") }}{{ cite(id="loeb-interstellar", text="[10]", title="Loeb, *Interstellar* (2023) — das Galileo Project") }}
 
-**Weiteres akademisches Engagement** umfasst verschiedene Publikationen, Konferenzen und institutionelle Initiativen an mehreren Universitäten und Forschungsorganisationen, wobei sich das Feld der akademischen UAP-Forschung von seinem früheren peripheren Status aus erheblich erweitert hat.
-
-Die Beziehung des Rahmens zur akademischen UAP-Forschung ist eine der strukturellen Vereinbarkeit in der weiteren empirischen Frage, während sie erheblich über das hinausgeht, womit sich die akademische UAP-Forschung unmittelbar auseinandersetzt.
+**Weitere Arbeit** umfasst Konferenzen und Initiativen an vielen Universitäten und Organisationen, während sich das Feld aus seinem früheren Randstatus heraus ausweitet. Der Rahmen ist bei der empirischen Frage strukturell mit der akademischen UAP-Forschung vereinbar, reicht aber weit über das hinaus, womit sie sich befasst.
 
 ### Extraterritoriale diplomatische Präzedenzfälle
 
-Der rechtlich-diplomatische Rahmen, innerhalb dessen die Botschaft wirkt, stützt sich auf erhebliche diplomatische Präzedenzfälle.
-
-**Wiener Übereinkommen über diplomatische Beziehungen** (1961). Das Übereinkommen legt den üblichen Rechtsrahmen für diplomatische Vertretungen fest, mit erheblichen Auswirkungen auf die spezifischen rechtlich-diplomatischen Anforderungen des Botschaftsprojekts.
-
-**Staat Vatikanstadt**. Durch die Lateranverträge von 1929 begründet, ist die Vatikanstadt das wichtigste zeitgenössische Beispiel einer souveränen extraterritorialen Einrichtung, die ein begrenztes, bestimmtes Gebiet innerhalb eines größeren Gaststaates einnimmt. Der Präzedenzfall der Vatikanstadt ist für die spezifische rechtlich-diplomatische Struktur des Botschaftsprojekts erheblich relevant.
-
-**Souveräner Malteserorden**. Der besondere völkerrechtliche Status des Ordens (souveränes Subjekt des Völkerrechts ohne Kontrolle über ein bestimmtes Gebiet im herkömmlichen Sinne) bietet einen spezifischen Präzedenzfall für das diplomatische Engagement nichtstaatlicher Einrichtungen.
-
-**Weitere extraterritoriale Präzedenzfälle** umfassen verschiedene Hauptsitze internationaler Organisationen (UN-Hauptquartier, Institutionen der Europäischen Union, verschiedene andere zwischenstaatliche Organisationsstandorte) und verschiedene spezifische Regelungen für diplomatische Vertretungen im zeitgenössischen Völkerrecht.
-
-Der Rahmen liest diese Präzedenzfälle als die erhebliche rechtlich-diplomatische Infrastruktur, innerhalb derer die spezifischen rechtlichen Anforderungen des Botschaftsprojekts operativ formalisiert werden können.
+Über das Wiener Übereinkommen, die Vatikanstadt und den Souveränen Malteserorden hinaus (oben unter *Konventionelles Verständnis* behandelt) liefern die Hauptsitze internationaler Organisationen — die UN, Institutionen der EU und andere zwischenstaatliche Standorte — sowie verschiedene Regelungen diplomatischer Vertretungen im Völkerrecht weitere Präzedenzfälle. Der Rahmen liest sie als die Infrastruktur, innerhalb derer die Anforderungen der Botschaft formalisiert werden können.
 
 ### Sendy über die prophezeite Rückkehr
 
-**Jean Sendy** entwickelte eine erhebliche Auseinandersetzung mit dem, was zum Botschaftsrahmen werden sollte, hauptsächlich durch seine Behandlung der hebräischen prophetischen Tradition und des weiteren Rahmens des Wassermann-Zeitalters. Sendys spezifische Beiträge umfassen:
-
-- Die Behandlung der verschiedenen prophetischen Passagen der Hebräischen Bibel als Bewahrung substanziellen operativen Gehalts über die projizierte Rückkehr der Allianz
-- Die Integration dieser Lesarten mit dem weiteren Rahmen des Wassermann-Zeitalters, den Sendy in *L'ère du Verseau* entwickelte
-- Die spezifische Identifizierung verschiedener hebräischer prophetischer Passagen mit der projizierten Rückkehr der Allianz
-
-Sendys spezifische Entwicklung der Botschaft ist begrenzter als die zeitgenössische Artikulation des Rahmens, aber Sendy liefert eine erhebliche methodische Begründung dafür, die hebräische prophetische Tradition als Bewahrung substanziellen operativen Gehalts zu behandeln.
+**Jean Sendy** befasste sich mit vielem, was zum Botschaftsrahmen werden sollte: Er las die prophetischen Passagen der Hebräischen Bibel als Bewahrung operativer Inhalte über die projizierte Rückkehr der Allianz und verband sie mit dem Rahmen des Wassermann-Zeitalters seines Werks *L'ère du Verseau*. Seine Ausarbeitung der Botschaft ist schmaler als die gegenwärtige Artikulation des Rahmens, doch er liefert die methodische Begründung dafür, die hebräische prophetische Tradition als operativ zu behandeln.
 
 ### Biglino über die prophezeite Rückkehr
 
-**Mauro Biglinos** streng übersetzungsbezogene Auseinandersetzung mit der Hebräischen Bibel hat eine begrenzte spezifische Auseinandersetzung mit dem Botschaftsprojekt hervorgebracht, obwohl Biglinos weitere Behandlung des spezifischen prophetischen Gehalts der Hebräischen Bibel strukturell mit dem Botschaftsrahmen vereinbar ist. Biglinos spezifische Lesart der hebräischen prophetischen Literatur als Bewahrung substanziellen operativen Gehalts (statt theologisch-symbolischen Gehalts) liefert einen spezifischen wissenschaftlichen Vorläufer für den weiteren interpretativen Ansatz des Botschaftsrahmens.
+**Mauro Biglinos** streng übersetzungsbezogene Lesart der Hebräischen Bibel befasst sich kaum mit dem Botschaftsprojekt, doch indem sie ihre prophetische Literatur als operativ statt theologisch-symbolisch liest, verschafft sie dem Rahmen einen wissenschaftlichen Vorläufer.
 
 ### Wallis über die prophezeite Rückkehr
 
-**Paul Anthony Wallis'** weitere Auseinandersetzung mit der allianz-vermittelten Geschichte umfasst eine gewisse Behandlung der Frage der projizierten Rückkehr, hauptsächlich innerhalb des weiteren Kontexts der Verweise verschiedener antiker Texte auf erwartete Ereignisse des Allianzkontakts. Wallis' spezifische Entwicklung der Botschaft ist begrenzter als die zeitgenössische Artikulation des Rahmens.
+**Paul Anthony Wallis'** Arbeit zur allianzvermittelten Geschichte berührt die projizierte Rückkehr über die Verweise antiker Texte auf erwartete Ereignisse des Allianzkontakts, auch wenn seine Ausarbeitung der Botschaft schmaler ist als die gegenwärtige Artikulation des Rahmens.
 
 ### Die Beziehung des Rahmens zur weiteren Landschaft
 
-Der Botschaftsrahmen des Korpus ist innerhalb dieser Landschaft wie folgt positioniert: im Wesentlichen quellengestützt mit detaillierten Spezifikationen, die unmittelbar aus dem raëlianischen Quellenmaterial stammen; strukturell mit der zeitgenössischen UFO/UAP-Offenlegungsbewegung auf der weiteren kulturell-politischen Ebene verbunden; rechtlich-diplomatisch mit etablierten Präzedenzfällen des extraterritorialen Status verbunden; strukturell vereinbar mit der Lesart der hebräischen prophetischen Tradition durch die weitere Sendy-Biglino-Wallis-Tradition; positioniert als gegenwärtiges operatives Projekt statt als rein theoretischer oder interpretativer Rahmen, dessen Fortschritt das Korpus als Organisationsgeschichte verzeichnet.
+Der Botschaftsrahmen des Korpus ist somit im raëlianischen Material quellengestützt, auf kulturell-politischer Ebene mit der UFO/UAP-Offenlegungsbewegung verbunden, in etablierten Präzedenzfällen des extraterritorialen Status verankert, vereinbar mit der Lesart der hebräischen prophetischen Tradition durch Sendy, Biglino und Wallis und ein gegenwärtiges Projekt, dessen Fortschritt der Korpus als Organisationsgeschichte verzeichnet.
 
 ## Vergleichende Beobachtungen
 
-Traditionen einer erwarteten Rückkehr treten weltweit in mehreren kulturell-religiösen Rahmen auf, mit erheblichen strukturellen Parallelen zur Botschaftslesart des Rahmens. Das Korpus verzeichnet diese Parallelen als Ähnlichkeiten mit der erwarteten Rückkehr des Kanons, nicht als Beleg für eine zugrunde liegende Realität.
+Traditionen einer erwarteten Rückkehr finden sich in Kulturen weltweit, mit strukturellen Parallelen zur Lesart der Botschaft. Der Korpus verzeichnet die Parallelen als Ähnlichkeiten mit der erwarteten Rückkehr des Kanons, nicht als Belege für eine zugrunde liegende Realität.
 
 ### Jüdische Traditionen des Dritten Tempels
 
-Die jüdische Tradition bewahrt das unmittelbar relevanteste vergleichende Material über die projizierte Rückkehr.
+Die jüdische Tradition bewahrt das unmittelbar relevanteste Vergleichsmaterial.
 
-**Hesekiels Tempel** (Hesekiel 40-48) bietet die ausführlichsten prophetisch-architektonischen Spezifikationen in der Hebräischen Bibel. Hesekiels Vision beschreibt detailliert die Maße, Strukturen, Vorhöfe und rituellen Anordnungen eines künftigen Tempels, mit erheblicher anschließender rabbinischer und zeitgenössischer jüdischer Auseinandersetzung. Die Spezifikationen Hesekiels unterscheiden sich in verschiedenen spezifischen Hinsichten von den historischen Ersten und Zweiten Tempeln, was nahelegt, dass die prophetische Vision einen noch zu errichtenden dritten Tempel beschreibt.
+**Hesekiels Tempel** (Hesekiel 40–48) bietet die ausführlichsten prophetisch-architektonischen Spezifikationen der Hebräischen Bibel — Maße, Strukturen, Vorhöfe und rituelle Anordnungen eines künftigen Tempels. Sie unterscheiden sich in mehreren Punkten vom Ersten und Zweiten Tempel, was auf einen dritten, noch zu errichtenden hindeutet.
 
-**Die Tradition des Dritten Tempels im messianischen Zeitalter**. Die jüdische Tradition hat seit langem einen Dritten Tempel erwartet, der im messianischen Zeitalter errichtet werden soll. Zu den wichtigsten Positionen gehören die maimonidische Sichtweise (dass der Dritte Tempel vom Messias bei seiner Ankunft errichtet werden wird, *Mishneh Torah*, *Hilchot Melachim* 11,1), verschiedene mittelalterliche und moderne Positionen dazu, ob die Errichtung der messianischen Ankunft vorausgehen oder folgen muss, und verschiedene zeitgenössische Positionen zur Beziehung zwischen der Errichtung des Dritten Tempels und der weiteren messianischen Eschatologie.
+**Die Tradition des messianischen Zeitalters.** Zu den Positionen über den Dritten Tempel im messianischen Zeitalter gehören die maimonidische Sicht (der Messias errichtet ihn bei seiner Ankunft, *Mishneh Torah*, *Hilchot Melachim* 11,1), die Debatte darüber, ob der Bau der messianischen Ankunft vorausgeht oder folgt, und zeitgenössische Sichtweisen über seinen Platz in der Eschatologie.
 
-**Die Tempelbewegung** (zeitgenössisch). Verschiedene zeitgenössische jüdische Organisationen treten für aktive Vorbereitungen zur Errichtung des Dritten Tempels ein, darunter das Tempelinstitut (gegründet 1987), die Getreuen des Tempelbergs und verschiedene andere Organisationen, die sich mit der Vorbereitung ritueller Geräte, der Ausbildung von Priestern und der weiteren institutionellen Vorbereitung für die projizierte Errichtung des Dritten Tempels befassen.
+**Die Tempelbewegung.** Zeitgenössische Organisationen drängen auf aktive Vorbereitung — das Tempelinstitut (gegründet 1987), die Getreuen des Tempelbergs —, indem sie Ritualgeräte anfertigen und Priester ausbilden.
 
-**Die politische Lage am Tempelberg** ist die zentrale praktisch-politische Einschränkung für die Errichtung des Dritten Tempels in der zeitgenössischen Periode. Der Tempelberg in Jerusalem beherbergt die al-Aqsa-Moschee und den Felsendom (beides islamische religiöse Stätten von erheblicher Bedeutung), wobei die weitere israelisch-palästinensisch-islamische politische Lage erhebliche Einschränkungen für jedes potenzielle Bauprojekt schafft.
+**Der Tempelberg.** Die wichtigste praktische Einschränkung heute: Der Tempelberg in Jerusalem beherbergt die al-Aqsa-Moschee und den Felsendom, beides bedeutende islamische Stätten, und die israelisch-palästinensisch-islamische Lage schränkt jeden Bau ein.
 
-Der Kanon selbst identifiziert die Botschaft mit dem Dritten Tempel (siehe Anmerkung 3). Über diese Identifizierung hinaus liest das Korpus die jüdische Erwartung als die engste Ähnlichkeit mit der Rückkehr des Kanons, wobei ihre Ausarbeitungen den eigenen eigentümlichen Gehalt der Tradition tragen.
+Der Kanon selbst identifiziert die Botschaft mit dem Dritten Tempel (siehe Anmerkung 3). Über diese Identifizierung hinaus liest der Korpus die jüdische Erwartung als die engste Ähnlichkeit mit der Rückkehr des Kanons, wobei ihre Ausarbeitungen den eigenen, unverwechselbaren Gehalt der Tradition tragen.
 
 ### Christliche Traditionen der Wiederkunft und Parusie
 
-Die christliche Tradition bewahrt umfangreiches Material über die **Parusie** (die projizierte Wiederkunft Christi).
+Die christliche Tradition bewahrt reiches Material über die **Parusie** (die projizierte Wiederkunft Christi).
 
-**Die apokalyptischen Reden der synoptischen Evangelien** (Matthäus 24, Markus 13, Lukas 21) bieten das zentrale Evangelienmaterial über die Parusie. Die Reden beschreiben die projizierte Rückkehr in ausführlicher apokalyptisch-symbolischer Sprache, mit erheblicher anschließender theologisch-historischer Auseinandersetzung.
+**Die apokalyptischen Reden der Synoptiker** (Matthäus 24, Markus 13, Lukas 21) sind das zentrale Evangelienmaterial und beschreiben die Rückkehr in apokalyptisch-symbolischer Sprache.
 
-**Das paulinische Parusie-Material**. Die Briefe des Paulus entwickeln die Parusie-Tradition ausführlich, wobei 1. Thessalonicher 4,13-18 die zentrale paulinische Aussage über die projizierte Rückkehr bietet („der Herr selbst wird vom Himmel herabkommen mit einem Befehlsruf, mit der Stimme des Erzengels und mit der Posaune Gottes“).
+**Das paulinische Material.** 1. Thessalonicher 4,13-18 ist die zentrale Aussage des Paulus („der Herr selbst wird vom Himmel herabkommen mit einem Befehlsruf, mit der Stimme des Erzengels und mit der Posaune Gottes“).
 
-**Die Offenbarung des Johannes**. Die Offenbarung des Johannes (die Apokalypse des Johannes) bietet die ausführlichste neutestamentliche Behandlung der projizierten Rückkehr, mit erheblichem apokalyptisch-symbolischem Gehalt. Die detaillierte Behandlung der Offenbarung befindet sich im Eintrag [Apokalypse](../apocalypse/).
+**Die Offenbarung.** Die Apokalypse des Johannes bietet die ausführlichste neutestamentliche Behandlung, die im Eintrag [Apokalypse](../apocalypse/) behandelt wird.
 
-**Spätere christliche theologische Entwicklung**. Die christliche theologische Tradition hat das Parusie-Material in den vergangenen zwei Jahrtausenden ausführlich entwickelt, mit erheblichen Variationen über die katholische, orthodoxe, protestantische und verschiedene andere christliche Traditionen hinweg. Zu den wichtigsten zeitgenössischen Positionen gehören verschiedene amillennialistische, prämillennialistische und postmillennialistische Rahmen innerhalb der protestantischen Tradition; verschiedene katholische und orthodoxe Positionen zur Beziehung zwischen der Parusie und der weiteren Eschatologie; und verschiedene zeitgenössische wissenschaftliche Auseinandersetzungen mit dem historischen und theologischen Gehalt.
+**Spätere Entwicklung.** Die christliche Theologie hat die Parusie über zwei Jahrtausende ausgearbeitet — die amillenaristischen, prämillenaristischen und postmillenaristischen Rahmen im Protestantismus; katholische und orthodoxe Positionen zu ihrem Platz in der Eschatologie; und die zeitgenössische historisch-theologische Forschung.
 
-Das Korpus vermerkt die Ähnlichkeit zwischen der Parusie und der erwarteten Rückkehr des Kanons, die der Kanon selbst an den christlichen Leser richtet („du hast hundertmal wiedergelesen, dass Jesus zurückkehren würde“, ETTMTTP-3:226).{{ cite(id="wright-resurrection-son-of-god", text="[11]", title="Wright, *The Resurrection of the Son of God* (2003) — Auferstehung und Parusie") }}{{ cite(id="sandt-zangenberg-matthew-james-didache", text="[12]", title="van de Sandt & Zangenberg, *Matthew, James, and Didache* (2008)") }}
+Der Korpus vermerkt die Ähnlichkeit zwischen der Parusie und der erwarteten Rückkehr des Kanons, die der Kanon selbst an den christlichen Leser richtet („du hast hundertmal wiedergelesen, dass Jesus zurückkehren würde“, ETTMTTP-3:226).{{ cite(id="wright-resurrection-son-of-god", text="[11]", title="Wright, *The Resurrection of the Son of God* (2003) — Auferstehung und Parusie") }}{{ cite(id="sandt-zangenberg-matthew-james-didache", text="[12]", title="van de Sandt & Zangenberg, *Matthew, James, and Didache* (2008)") }}
 
 ### Islamische Mahdi-Traditionen
 
-Die islamische Tradition bewahrt umfangreiches Material über Traditionen einer erwarteten Gestalt.
+Die islamische Tradition bewahrt reiches Material über erwartete Gestalten.
 
-**Die Mahdi-Tradition**. Sowohl die sunnitische als auch die schiitische islamische Tradition bewahren umfangreiches Material über den Mahdi (den „Rechtgeleiteten“), eine erwartete Gestalt, die am Ende der Zeiten erscheinen wird, um Gerechtigkeit und Rechtschaffenheit wiederherzustellen. Die sunnitische Mahdi-Tradition ist diffuser; die schiitische Mahdi-Tradition (insbesondere die spezifische Identifizierung des Mahdi mit dem zwölften Imam Muhammad al-Mahdi in der Zwölfer-Schia-Tradition, in Verborgenheit seit 874 u. Z.) ist ausgearbeiteter.
+**Der Mahdi.** Sowohl die sunnitische als auch die schiitische Tradition erwarten den Mahdi (den „Rechtgeleiteten“), der am Ende der Zeiten erscheint, um Gerechtigkeit wiederherzustellen. Die sunnitische Tradition ist diffuser; die schiitische — besonders die zwölferschiitische Identifizierung des Mahdi mit dem Zwölften Imam Muhammad al-Mahdi, seit 874 u. Z. in der Verborgenheit — ist ausgearbeiteter.
 
-**Die Isa-Tradition (Jesus) im Islam**. Die islamische Tradition bewahrt umfangreiches Material über die projizierte Rückkehr von Isa (Jesus), insbesondere in der Hadith-Literatur. Die islamische Isa-Tradition behandelt Jesus als jemanden, der ohne zu sterben in den Himmel erhoben wurde, mit einer projizierten Rückkehr am Ende der Zeiten, um an den weiteren eschatologischen Ereignissen teilzunehmen.
+**Die Isa-Tradition (Jesus).** Der Islam bewahrt die Rückkehr von Isa (Jesus), vor allem im Hadith, und behandelt ihn als jemanden, der ohne zu sterben in den Himmel erhoben wurde und am Ende der Zeiten zurückkehrt.
 
-**Die Beziehung zwischen dem Mahdi und Isa**. Verschiedene islamische Traditionen entwickeln umfangreiches Material über die projizierte koordinierte Ankunft sowohl des Mahdi als auch von Isa, mit verschiedenen spezifischen Rahmen zum Verständnis der Beziehung zwischen den beiden Gestalten.
+**Mahdi und Isa.** Verschiedene Traditionen entwickeln die koordinierte Ankunft beider Gestalten.
 
-Das Korpus vermerkt die Ähnlichkeit zwischen den Mahdi- und Isa-Traditionen und der erwarteten Rückkehr des Kanons.{{ cite(id="sachedina-islamic-messianism", text="[13]", title="Sachedina, *Islamic Messianism* (1981) — der Mahdi im Zwölfer-Schiismus") }}{{ cite(id="cook-muslim-apocalyptic", text="[14]", title="Cook, *Studies in Muslim Apocalyptic* (2002)") }}
+Der Korpus vermerkt die Ähnlichkeit zwischen den Traditionen von Mahdi und Isa und der erwarteten Rückkehr des Kanons.{{ cite(id="sachedina-islamic-messianism", text="[13]", title="Sachedina, *Islamic Messianism* (1981) — der Mahdi im Zwölfer-Schiismus") }}{{ cite(id="cook-muslim-apocalyptic", text="[14]", title="Cook, *Studies in Muslim Apocalyptic* (2002)") }}
 
 ### Buddhistische Maitreya-Tradition
 
-Die buddhistische Tradition bewahrt die **Maitreya**-Tradition — den erwarteten künftigen Buddha, der nach dem Niedergang der gegenwärtigen buddhistischen Tradition in der Welt erscheinen wird.
+Die buddhistische Tradition bewahrt den **Maitreya** — den nächsten Buddha nach Śākyamuni (dem historischen Buddha), der gegenwärtig im Tuṣita-Himmel weilt und erscheinen soll, nachdem die gegenwärtige buddhistische Tradition verfallen ist.
 
-**Der grundlegende Maitreya-Rahmen**. Maitreya wird als der nächste Buddha nach Śākyamuni Buddha (dem historischen Buddha) identifiziert, der gegenwärtig im Tuṣita-Himmel weilt und voraussichtlich zu einem bestimmten künftigen Zeitpunkt in der Welt erscheinen wird.
+**Ikonografie.** Maitreya erscheint in vielen Formen — der sitzende Maitreya der indisch-nepalesischen Tradition, der stehende Maitreya Ostasiens, der lachende Buddha Maitreya der chinesischen Volksreligion.
 
-**Die ikonografische Maitreya-Tradition**. Maitreya wird in der buddhistischen Tradition in verschiedenen ikonografischen Formen dargestellt, mit erheblichen regionalen Variationen (der sitzende Maitreya der indisch-nepalesischen Tradition, der stehende Maitreya verschiedener ostasiatischer Traditionen, der lachende-Buddha-Maitreya der chinesischen Volkstradition).
-
-**Die raëlianische Verbindung**. Raëls nachkanonische Schriften, darunter das veröffentlichte Buch *Maitreya*, und die Bewegung identifizieren ihn als den buddhistischen Maitreya; das Korpus übernimmt diese Identifizierung nicht. Die eigenen Worte des Kanons wenden sich an den buddhistischen Leser: „deine Schriften zeigen an, dass der neue Buddha im Okzident geboren werden muss; erkenne die vorgesehenen Zeichen!“ (ETTMTTP-3:228).
+**Die raëlianische Verbindung.** Raëls nachkanonische Schriften, darunter das veröffentlichte Buch *Maitreya*, und die Bewegung identifizieren ihn als den buddhistischen Maitreya; der Korpus übernimmt diese Identifizierung nicht. Die eigenen Worte des Kanons wenden sich an den buddhistischen Leser: „deine Schriften zeigen an, dass der neue Buddha im Okzident geboren werden muss; erkenne die vorgesehenen Zeichen!“ (ETTMTTP-3:228).
 
 ### Hinduistischer Kalki-Avatar
 
-Die hinduistische Tradition bewahrt die **Kalki-Avatar**-Tradition — den projizierten zehnten und letzten Avatar Vishnus, dessen Erscheinen am Ende des gegenwärtigen Kali Yuga erwartet wird, um die Rechtschaffenheit wiederherzustellen und ein neues kosmisches Zeitalter einzuleiten.
-
-**Der Kalki-Rahmen**. Kalki wird in verschiedenen puranischen Texten als auf einem weißen Pferd erscheinend, ein Schwert führend und die kosmisch-eschatologische Reinigung durchführend beschrieben, die das gegenwärtige Kali Yuga beendet und das neue Satya Yuga einleitet.
-
-**Der kosmisch-zyklische Kontext**. Die Kalki-Tradition wirkt innerhalb des weiteren hinduistischen zyklisch-kosmologischen Rahmens (ausführlicher behandelt im Eintrag [Kosmische Kette](../cosmic-chain/)), wobei der Kalki-Avatar den Übergang zwischen kosmischen Zeitaltern markiert.
-
-Das Korpus vermerkt ihre Ähnlichkeit mit der erwarteten Rückkehr des Kanons, in hinduistischen kosmologischen Begriffen.{{ cite(id="doniger-the-hindus", text="[15]", title="Doniger, *The Hindus: An Alternative History* (2009) — der Kalki-Avatar") }}
+Die hinduistische Tradition bewahrt den **Kalki-Avatar** — den zehnten und letzten Avatar Vishnus, der am Ende des gegenwärtigen Kali Yuga erwartet wird, um die Rechtschaffenheit wiederherzustellen. Puranische Texte beschreiben ihn, wie er auf einem weißen Pferd erscheint, ein Schwert führt und die Reinigung vollzieht, die das Kali Yuga beendet und das Satya Yuga beginnen lässt. Kalki wirkt innerhalb der hinduistischen zyklischen Kosmologie (ausführlicher im Eintrag [Kosmische Kette](../cosmic-chain/) behandelt) und markiert den Übergang zwischen kosmischen Zeitaltern. Der Korpus vermerkt seine Ähnlichkeit mit der erwarteten Rückkehr des Kanons, in hinduistisch-kosmologischen Begriffen.{{ cite(id="doniger-the-hindus", text="[15]", title="Doniger, *The Hindus: An Alternative History* (2009) — der Kalki-Avatar") }}
 
 ### Zoroastrischer Saoshyant
 
-Die zoroastrische Tradition bewahrt die **Saoshyant**-Tradition — die erwartete Retterfigur (oder Abfolge von drei Retterfiguren), die am Ende des gegenwärtigen kosmischen Zeitalters die kosmisch-eschatologische Erneuerung durchführen wird.
-
-**Der Saoshyant-Rahmen**. Verschiedene zoroastrische Texte (das Avesta, die Pahlavi-Literatur, verschiedene spätere Traditionen) entwickeln die Saoshyant-Tradition mit erheblichem spezifischem Gehalt. Die zentrale Saoshyant-Gestalt (Astvat-ereta) wird voraussichtlich die *Frashokereti* (die kosmische Erneuerung) durchführen und den Kosmos in seinen ursprünglichen vollkommenen Zustand zurückversetzen.
-
-**Der historische Einfluss**. Die zoroastrische Saoshyant-Tradition wird weithin als von erheblichem historischem Einfluss auf die Entwicklung jüdischer, christlicher und islamischer eschatologischer Rahmen anerkannt, insbesondere durch die persische Periode der israelitischen Geschichte und die weitere hellenistisch-religiöse Synthese.
-
-Das Korpus vermerkt ihre Ähnlichkeit mit der erwarteten Rückkehr des Kanons; jener Einfluss auf die westliche Eschatologie bedeutet zugleich, dass mehrere der Ähnlichkeiten zwischen den Traditionen auf gemeinsamer Abstammung der Traditionen selbst beruhen.{{ cite(id="boyce-zoroastrians", text="[16]", title="Boyce, *Zoroastrians* (2001) — der Saoshyant und Frashokereti") }}
+Die zoroastrische Tradition bewahrt den **Saoshyant** — die Rettergestalt (oder drei aufeinanderfolgende Retter), die die Erneuerung am Ende des gegenwärtigen kosmischen Zeitalters vollzieht. Das Avesta, die Pahlavi-Literatur und spätere Traditionen entwickeln sie im Einzelnen; die Hauptgestalt, Astvat-ereta, vollzieht das *Frashokereti* (die kosmische Erneuerung) und stellt den Kosmos in seinem ursprünglichen vollkommenen Zustand wieder her. Dem Saoshyant wird weithin zugeschrieben, die jüdische, christliche und islamische Eschatologie geprägt zu haben, besonders über die persische Periode der israelitischen Geschichte und die hellenistische religiöse Synthese. Der Korpus vermerkt seine Ähnlichkeit mit der erwarteten Rückkehr des Kanons; dieser Einfluss auf die westliche Eschatologie bedeutet zugleich, dass mehrere der Ähnlichkeiten zwischen den Traditionen auf gemeinsame Abstammung unter den Traditionen selbst zurückgehen.{{ cite(id="boyce-zoroastrians", text="[16]", title="Boyce, *Zoroastrians* (2001) — der Saoshyant und das Frashokereti") }}
 
 ### Indigene Traditionen der Rückkehr der Schöpfer
 
-Verschiedene indigene Traditionen bewahren umfangreiches Material über erwartete Rückkehren von Schöpfergestalten.
+Verschiedene indigene Traditionen bewahren Material über die erwartete Rückkehr von Schöpfergestalten.
 
-**Mesoamerikanische Tradition der Rückkehr Quetzalcoatls**. Die aztekische und weitere mesoamerikanische Tradition bewahrt umfangreiches Material über die projizierte Rückkehr Quetzalcoatls (der gefiederten Schlangengottheit), wobei die projizierte Rückkehr während der frühen Periode der spanischen Eroberung erhebliche historische Bedeutung hatte (die berichtete anfängliche Identifizierung von Cortés als zurückkehrendem Quetzalcoatl durch den aztekischen Herrscher Moctezuma II., obwohl die historische Genauigkeit dieser Identifizierung in der späteren Forschung erheblich umstritten ist).{{ cite(id="carrasco-quetzalcoatl", text="[17]", title="Carrasco, *Quetzalcoatl and the Irony of Empire* (1982) — die Rückkehrprophezeiung") }}
+**Mesoamerikanischer Quetzalcoatl.** Die aztekische und weitere mesoamerikanische Tradition bewahrt die Rückkehr Quetzalcoatls (der Gottheit der gefiederten Schlange), die zu Beginn der spanischen Eroberung Gewicht hatte — Moctezuma II. soll Cortés zunächst als den zurückkehrenden Quetzalcoatl identifiziert haben, auch wenn die Forschung diesen Bericht seither diskutiert.{{ cite(id="carrasco-quetzalcoatl", text="[17]", title="Carrasco, *Quetzalcoatl and the Irony of Empire* (1982) — die Rückkehrprophezeiung") }}
 
-**Verschiedene andere indigene Traditionen** bewahren Inhalte über die Rückkehr von Schöpfern innerhalb ihrer eigentümlichen kulturell-religiösen Rahmungen, mit erheblichem spezifischem Material über mehrere geografische Regionen hinweg (polynesische, nordamerikanische, südamerikanische, afrikanische, australische Aborigine- und verschiedene andere indigene Traditionen).
-
-Das Korpus vermerkt ihre Ähnlichkeit mit der erwarteten Rückkehr des Kanons, jeweils in ihren eigenen kulturellen Begriffen.
+**Andere Traditionen** in vielen Regionen — polynesische, nordamerikanische, südamerikanische, afrikanische, australisch-aboriginale und weitere — bewahren Inhalte über die Rückkehr von Schöpfern in ihren eigenen Begriffen. Der Korpus vermerkt ihre Ähnlichkeit mit der erwarteten Rückkehr des Kanons, jede in ihren eigenen kulturellen Begriffen.
 
 ### Die Ähnlichkeit
 
-Die Rückkehrerwartungen der Traditionen ähneln derjenigen des Kanons: eine wiederkehrende Gestalt oder Gruppe, eine Erneuerung an der Wende eines Zeitalters, in mehreren Fällen ein für die Ankunft vorbereitetes Heiligtum. Das Korpus verzeichnet dies als Ähnlichkeit, nicht als Beleg für eine zugrunde liegende Realität.{{ footnote(id="6") }} Der Kanon selbst nimmt eine einzige Identifizierung vor — die Botschaft als den Dritten Tempel — und spricht die Erwartungen mehrerer Traditionen mit eigenen Worten an, indem er den Christen, das Kind Israels, den Buddhisten und den Muslim aufruft, ihre eigene Erwartung in seiner Botschaft wiederzuerkennen (ETTMTTP-3:226–229); von den buddhistischen Schriften sagt er nur, dass sie anzeigen, „dass der neue Buddha im Okzident geboren werden muss“ (ETTMTTP-3:228). Der Name Maitreya gehört zu Raëls nachkanonischen Schriften, nicht zum Kanon.
+Die Rückkehrerwartungen der Traditionen ähneln der des Kanons: eine zurückkehrende Gestalt oder Gruppe, eine Erneuerung an der Wende eines Zeitalters, in mehreren Fällen ein für die Ankunft vorbereitetes Heiligtum. Der Korpus verzeichnet dies als Ähnlichkeit, nicht als Beleg für eine zugrunde liegende Realität.{{ footnote(id="6") }} Der Kanon selbst nimmt eine einzige Identifizierung vor — die Botschaft als den Dritten Tempel — und spricht die Erwartungen mehrerer Traditionen mit eigenen Worten an, indem er den Christen, das Kind Israels, den Buddhisten und den Muslim aufruft, ihre eigene Erwartung in seiner Botschaft wiederzuerkennen (ETTMTTP-3:226–229); von den buddhistischen Schriften sagt er nur, dass sie anzeigen, „dass der neue Buddha im Okzident geboren werden muss“ (ETTMTTP-3:228). Der Name Maitreya gehört zu Raëls nachkanonischen Schriften, nicht zum Kanon.
 
-Die wissenschaftliche Mehrheit erklärt das Wiederauftreten durch die interne Entwicklung jeder Tradition und durch Diffusion — der Einfluss der zoroastrischen Eschatologie auf die jüdische, christliche und islamische Erwartung ist der am besten dokumentierte Kanal —, und das Korpus schiebt diese Erklärung nicht beiseite. Die Ähnlichkeit stellt die Traditionen zum Vergleich neben die erwartete Rückkehr des Kanons; sie zeigt nicht, dass sie sich an dieselben Ereignisse erinnern.
+Die etablierte Forschung erklärt die Wiederkehr durch die innere Entwicklung jeder Tradition und durch Diffusion — der Einfluss der zoroastrischen Eschatologie auf die jüdische, christliche und islamische Erwartung ist der am besten dokumentierte Kanal —, und der Korpus stellt diese Erklärung nicht beiseite. Die Ähnlichkeit stellt die Traditionen zum Vergleich neben die erwartete Rückkehr des Kanons; sie zeigt nicht, dass sie sich an dieselben Ereignisse erinnern.

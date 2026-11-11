@@ -6,8 +6,8 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
@@ -270,7 +270,7 @@ The Theomachy operates within the broader Raëlian source-material context, with
 - The Eden disclosure connects to the broader [Eden](../eden/), [Adam and Eve](../adam-and-eve/), [Lucifer](../lucifer/), and [Serpent](../serpent/) entries
 - The antediluvian period connects to the broader [Antediluvian](../antediluvian/) entry
 - The flood event connects to the broader [Great Flood](../great-flood/) entry
-- The Babel intervention connects to the broader [Babel](../babel/) entry when written
+- The Babel intervention connects to the broader [Babel](../babel/) entry
 - The covenant establishment connects to the broader [The Alliance](../the-alliance/) entry
 - The open-military phase connects to the broader [Lucifer](../lucifer/) and [Council of the Eternals](../council-of-the-eternals/) entries
 - The pardon and resolution connect to the broader political-settlement framework
@@ -313,7 +313,7 @@ The conflict's specific Gemini-age development comprises several interrelated co
 
 **The post-flood covenant**. The post-flood covenant between the Lucifer faction (the "exiled creators") and the surviving humans (the "Noahic" line) formalized the alliance that had operated informally since the Eden disclosure. The covenant committed both parties to mutual support against any future Council action that would threaten either of them. The rainbow was the sign of this private alliance. The detailed treatment lives in the [The Alliance](../the-alliance/) entry.
 
-**The Tower of Babel project**. The post-flood human population, under Lucifer-faction guidance, undertook the substantial technological project that the Hebrew Bible records as the Tower of Babel. The project's specific operational character was the construction of an interstellar spacecraft capable of carrying the alliance's human partners to the home world. The Council intervened with language confusion and geographical dispersion, breaking up the project's institutional infrastructure. The detailed treatment lives in the [Babel](../babel/) entry when written.
+**The Tower of Babel project**. The post-flood human population, under Lucifer-faction guidance, undertook the substantial technological project that the Hebrew Bible records as the Tower of Babel. The project's specific operational character was the construction of an interstellar spacecraft capable of carrying the alliance's human partners to the home world. The Council intervened with language confusion and geographical dispersion, breaking up the project's institutional infrastructure. The detailed treatment lives in the [Babel](../babel/) entry.
 
 **The open-military phase**. The Council's escalation from the Babel intervention to direct military action produced the open-military phase of the conflict. The military action took the specific form of Council military forces moving against the Serpentine faction's positions on Earth, attempting to identify and destroy the hidden installations. The conflict took place across multiple theaters: orbital combat between Council spacecraft and Serpentine defensive systems; surface engagements at installation sites; possibly engagements at locations elsewhere in the solar system. The conflict was substantial in scope, in duration, and in destructive intensity.
 
@@ -369,7 +369,7 @@ The Theomachy's specific covenant-establishment outcome is the principal foundat
 
 ### The Babel entry
 
-The Theomachy's specific post-flood Tower of Babel intervention is one of the principal operational components of the broader [Babel](../babel/) entry when written. The detailed treatment of the Babel project lives in that entry; the Theomachy entry's specific contribution is registering the broader narrative-political context within which the Babel intervention operates.
+The Theomachy's specific post-flood Tower of Babel intervention is one of the principal operational components of the broader [Babel](../babel/) entry. The detailed treatment of the Babel project lives in that entry; the Theomachy entry's specific contribution is registering the broader narrative-political context within which the Babel intervention operates.
 
 ### The Council of the Eternals entry
 

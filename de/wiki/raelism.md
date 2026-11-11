@@ -1,50 +1,52 @@
 +++
 title = "Raëlismus"
 slug = "raelism"
-description = "Der Raëlismus ist die religiös-philosophische Bewegung, die von Raël (Claude Vorilhon) in den Jahren 1974–1976 gegründet wurde, nach seinem berichteten Kontakt am 13. Dezember 1973 mit einem Offizier der Elohim-Allianz am Krater Puy-de-Lassolas bei Clermont-Ferrand. Die Bewegung ist innerhalb der breiteren religiösen Bewegungslandschaft strukturell dadurch besonders, dass sie ausdrücklich atheistisch ist — sie lehnt eine übernatürliche Gottheit zugunsten der Elohim als fortgeschrittener biologischer Zivilisation ab, die die Menschheit durch Gentechnik geschaffen hat — und gleichzeitig erhebliche religiöse Dimensionen bewahrt: die kumulative prophetische Tradition, das Programm des Wassermann-Zeitalters, das Botschaftsprojekt und verschiedene unterscheidende raëlianische Praktiken einschließlich sensueller Meditation und der baptismalen Übertragung des Zellplans. Das institutionelle Vehikel ist die International Raëlian Movement (IRM), gegründet 1976, mit nationalen Zweigen in etwa neunzig Ländern und einer Gesamtmitgliedschaft von etwa 65.000 bis 100.000 (Zahlen variieren je nach Quelle) über den gesamten Zeitraum seit 1976."
+description = "Der Raëlismus ist die religiös-philosophische Bewegung, die Raël (Claude Vorilhon) in den Jahren 1974–1976 gründete, nach seinem berichteten Kontakt am 13. Dezember 1973 mit einem Offizier der Elohim-Allianz am Krater Puy-de-Lassolas bei Clermont-Ferrand. Die Bewegung zeichnet sich dadurch aus, dass sie ausdrücklich atheistisch ist — sie lehnt eine übernatürliche Gottheit zugunsten der Elohim als fortgeschrittener biologischer Zivilisation ab, die die Menschheit durch Gentechnik schuf — und zugleich religiöse Dimensionen bewahrt: durch die kumulative prophetische Tradition, das Programm des Wassermann-Zeitalters, das Botschaftsprojekt und eigene raëlianische Praktiken wie die sensuelle Meditation und die baptismale Übertragung des Zellplans. Das institutionelle Vehikel ist die International Raëlian Movement (IRM), gegründet 1976, mit nationalen Zweigen in etwa neunzig Ländern und einer Gesamtmitgliedschaft von etwa 65.000 bis 100.000 (Zahlen variieren je nach Quelle) über den Zeitraum seit 1976."
 template = "wiki-page.html"
 toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
-translation_sync = 88
+translation_sync = 100
+seo_description = "Raëlismus: Ursprünge der Bewegung, ihre Lehre über die Elohim, Praktiken und Botschaftsprojekt sowie ihr Platz im interpretativen Rahmen von Wheel of Heaven."
 same_as = ["https://www.wikidata.org/wiki/Q631897", "https://en.wikipedia.org/wiki/Ra%C3%ABlism"]
-claim_type = "direct"
-core_versions = { woh-claim-0027 = "0.1.0" }
-core_claim_ids = ["woh-claim-0027"]
 featured_order = 3
 category = "Cosmology & Framework"
-editorial_pass = "2026-05"
+editorial_pass = "2026-07"
 entry_type = "concept"
+claim_type = "direct"
+core_claim_ids = ["woh-claim-0027"]
+core_versions = { woh-claim-0027 = "0.1.0" }
 alternative_names = ["die Raëlianische Bewegung", "die International Raëlian Movement", "die raëlianische Religion", "Raëlianismus", "die IRM"]
 see_also = [
     { title = "Raël", path = "wiki/rael", description = "Der Gründer, geboren als Claude Vorilhon, der den Kontakt von 1973 berichtete." },
-    { title = "The Truth", path = "wiki/the-truth", description = "Das erste Buch von 1974, das die Botschaft der Elohim enthält." },
-    { title = "New Commandments", path = "wiki/new-commandments", description = "Der durch Raël übermittelte aktualisierte ethische Kodex." },
-    { title = "Elohim", path = "wiki/elohim", description = "Die in der raëlianischen Lesart als andernorts entstandene menschliche Zivilisation identifizierten Schöpfer." },
-    { title = "Embassy", path = "wiki/embassy", description = "Der diplomatische Komplex, den die Bewegung für die offizielle Rückkehr der Elohim errichten möchte." },
-    { title = "Geniocracy", path = "wiki/geniocracy", description = "Das politische System, das Raël vorschlägt — Herrschaft der nachweislich Intelligenten." },
-    { title = "Paradism", path = "wiki/paradism", description = "Die postknappheitsökonomische Vision, die Raël für eine vollautomatisierte Gesellschaft vorschlägt." },
+    { title = "Die Wahrheit", path = "wiki/the-truth", description = "Das erste Buch von 1974, das die Botschaft der Elohim enthält." },
+    { title = "Neue Gebote", path = "wiki/new-commandments", description = "Der durch Raël übermittelte aktualisierte ethische Kodex." },
+    { title = "Elohim", path = "wiki/elohim", description = "Die Schöpfer, in der raëlianischen Lesart als eine menschliche Zivilisation von anderswo identifiziert." },
+    { title = "Botschaft", path = "wiki/embassy", description = "Der diplomatische Komplex, den die Bewegung für die offizielle Rückkehr der Elohim errichten will." },
+    { title = "Geniokratie", path = "wiki/geniocracy", description = "Das politische System, das Raël vorschlägt — Herrschaft der nachweislich Intelligenten." },
+    { title = "Paradismus", path = "wiki/paradism", description = "Die Vision einer Ökonomie jenseits der Knappheit, die Raël für eine vollautomatisierte Gesellschaft vorschlägt." },
+    { title = "Die Religion der Religionen", path = "articles/the-religion-of-religions", description = "Prüft jede wissenschaftliche Bezeichnung, die der Bewegung gegeben wurde, und liest sie neben dem Bahá'í-Glauben, Oomoto und Cao Đài." },
 ]
 timeline = ["aquarius"]
 
 footnotes = [
-    { content = "Der Puy-de-Lassolas ist einer der vulkanischen Kegel der Chaîne des Puys im Massif Central, einer kleinen Kette von etwa achtzig pleistozän- bis holozänen Schlackenkegeln und Lavadomen, die 2018 in die UNESCO-Welterbeliste aufgenommen wurde. Vorilhons Angabe des Kraters als Kontaktort wurde von wohlwollenden Wissenschaftlern (Palmer, Introvigne) als Teil des allgemeinen Musters geografisch spezifischer Angaben im Quellenmaterial gelesen, die — unabhängig von ihrem evidentiären Status — sich unabhängig anhand der physischen Landschaft überprüfen lassen." },
-    { content = "Die Spanne von 65.000–100.000 stellt die Selbstangaben der International Raëlian Movement aus institutionellen Mitteilungen den niedrigeren Schätzungen unabhängiger Beobachter und Ex-Mitglieder gegenüber. Palmers *Aliens Adored* (2004) behandelt die Zahlen der Bewegung selbst als Obergrenze und merkt an, dass Unterscheidungen zwischen aktiver und nomineller Mitgliedschaft jede einzelne Zählung erheblich erschweren; das untere Ende der Spanne spiegelt typischerweise Schätzungen aktiver getaufter Mitglieder wider, während das obere Ende die kumulative Zahl der Zellplan-Übertragungen über die gesamte Geschichte der Bewegung hinweg widerspiegelt." },
-    { content = "Die Geniokratie-Schwellen — 50 Prozent über der mittleren Intelligenz für ein Amt, 10 Prozent über dem Mittel für das Wahlrecht — verorten die Lehre innerhalb einer breiteren meritokratisch-technokratischen Tradition, zu der Platons *Politeia*, das konfuzianische kaiserliche Prüfungssystem und die Technokratiebewegung des zwanzigsten Jahrhunderts (Howard Scott, M. King Hubbert) gehören. Die etablierte politiktheoretische Auseinandersetzung (Estlund und andere zur Epistokratie) hat solche Vorschläge im Allgemeinen so behandelt, dass sie sich erheblichen praktischen Schwierigkeiten in Bezug auf Messbarkeit, Stabilität und politische Legitimität jeder mutmaßlichen Intelligenzmetrik gegenübersehen." },
-    { content = "Die Verwendung ausdrücklich christlicher kirchlicher Titel — *Priester*, *Bischof*, *Priester der Priester* — durch die raëlianische Hierarchie innerhalb eines ausdrücklich atheistischen Rahmens ist selbst ein Punkt wissenschaftlichen Interesses. Palmer liest das übernommene Vokabular als Teil der breiteren Strategie der Bewegung, überlieferte religiöse Formen in nicht-übernatürlichen Begriffen umzukodieren; Rothsteins Hagiographie-Arbeit behandelt die Titel als Teil einer bewussten Rahmung der kumulativen prophetischen Tradition, die den Raëlismus als Nachfolger derselben institutionellen Linie positioniert und nicht als sauberen Bruch mit ihr." },
-    { content = "Auf die Clonaid-Ankündigung vom 27. Dezember 2002 folgte eine vom Wissenschaftsjournalisten Michael Guillen vermittelte Vereinbarung, dass ein unabhängiges Team die Klonbehauptung durch DNA-Test des angeblichen Säuglings überprüfen sollte. Der Verifizierungsprozess wurde Anfang Januar 2003 abgebrochen, nachdem Clonaid das Kind nicht zur Verfügung stellte; Boisselier berief sich auf elterliche Ablehnung aus Sorgerechtsgründen. Eine nachträgliche unabhängige Verifizierung ist nicht erbracht worden. Die etablierte wissenschaftliche Position (American Association for the Advancement of Science, *Nature*, *Science*) ist, dass die Ankündigung eine unbelegte Behauptung darstellt und kein dokumentiertes wissenschaftliches Ereignis." },
-    { content = "Der Kontrast zu Heaven's Gate ist strukturell spezifisch und nicht lediglich chronologisch. Beide Bewegungen entstanden 1974–75; beide kreisten um einen charismatischen Gründer, der einen Rahmen außerirdischen Kontakts artikulierte; beide entwickelten erhebliche Lehrkorpora und engagierte Mitgliedschaften. Die Divergenz liegt in den Ausstiegsbedingungen, die die jeweiligen Rahmen spezifizierten — Heaven's Gates Rahmen behandelte den körperlichen Tod als operativen Abreisemechanismus mit dem Begleitschiff von Hale-Bopp, während der Rahmen des Raëlismus die Botschaft und die offene Rückkehr der Allianz als erdseitig und an die fortgesetzte institutionelle Entwicklung gebunden behandelt. Zellers *Heaven's Gate* (2014) behandelt den Vergleich unmittelbar." },
-    { content = "Palmers *Aliens Adored* (2004) liest die Entlassung des MADECH-Vorstands 1975 und die Neugründung im Februar 1976 als den Moment, in dem die Bewegung von einer UFO-Kontakt-Vereinigung zu einer Religion im eigentlichen Sinne überging — den Punkt, an dem Raëls Autorität charismatisch-prophetisch statt administrativ wurde. Von Anti-Sekten-Organisationen gesammelte kritische Berichte beschreiben dieselbe Sukzession in weniger wohlwollenden Begriffen. Die etablierte NRB-Forschung behandelt beides als partielle Perspektiven auf einen umstrittenen Übergang und nicht als gesicherte Tatsache." },
-    { content = "Die Lehre der Bewegung, dass sexuelle Lust neue neuronale Bahnen schafft und die Intelligenz steigert, ist eine doktrinäre und keine etablierte wissenschaftliche Behauptung; die etablierte Neurowissenschaft stützt den spezifischen kausalen Mechanismus in der angegebenen Form nicht. Sie ist hier als raëlianische Lehre verzeichnet, im Einklang mit der allgemeinen Praxis des Korpus, korpus-interne Behauptungen von Behauptungen über die externe wissenschaftliche Aufzeichnung zu unterscheiden." },
+    { content = "Der Puy-de-Lassolas ist einer der Vulkankegel der Chaîne des Puys im Massif Central, einer kleinen Kette von etwa achtzig pleistozänen bis holozänen Schlackenkegeln und Lavadomen, die 2018 in die UNESCO-Welterbeliste aufgenommen wurde. Vorilhons Angabe des Kraters als Kontaktort wurde von wohlwollenden Wissenschaftlern (Palmer, Introvigne) als Teil eines Musters geografisch spezifischer Angaben im Quellenmaterial gelesen, die sich — was auch immer ihr evidentieller Status sein mag — unabhängig an der physischen Landschaft überprüfen lassen." },
+    { content = "Die Spanne von 65.000–100.000 stellt die Selbstangaben aus den institutionellen Mitteilungen der International Raëlian Movement den niedrigeren Schätzungen unabhängiger Beobachter und ehemaliger Mitglieder gegenüber. Palmers *Aliens Adored* (2004) behandelt die eigenen Zahlen der Bewegung als Obergrenzen und merkt an, dass die Unterscheidung zwischen aktiver und nomineller Mitgliedschaft jede einzelne Zählung erschwert; das untere Ende der Spanne spiegelt typischerweise Schätzungen aktiver getaufter Mitglieder wider, das obere Ende die kumulative Zahl der Zellplan-Übertragungen über die Geschichte der Bewegung hinweg." },
+    { content = "Die Schwellen der Geniokratie — 50 Prozent über der mittleren Intelligenz für ein Amt, 10 Prozent über dem Mittel für das Wahlrecht — verorten die Lehre in einer meritokratisch-technokratischen Tradition, zu der Platons *Politeia*, das konfuzianische kaiserliche Prüfungssystem und die Technokratiebewegung des zwanzigsten Jahrhunderts (Howard Scott, M. King Hubbert) gehören. Die etablierte politiktheoretische Auseinandersetzung (Estlund und andere zur Epistokratie) hat solchen Vorschlägen im Allgemeinen ernste praktische Schwierigkeiten hinsichtlich Messung, Stabilität und politischer Legitimität jeder mutmaßlichen Intelligenzmetrik zugeschrieben." },
+    { content = "Die Verwendung ausdrücklich christlicher kirchlicher Titel — *Priester*, *Bischof*, *Priester der Priester* — durch die raëlianische Hierarchie innerhalb eines ausdrücklich atheistischen Rahmens ist selbst ein Gegenstand wissenschaftlichen Interesses. Palmer liest das entlehnte Vokabular als Teil der Strategie der Bewegung, überlieferte religiöse Formen in nicht-übernatürlichen Begriffen umzukodieren; Rothsteins Arbeit zur Hagiographie behandelt die Titel als Teil einer bewussten Rahmung als kumulative prophetische Tradition, die den Raëlismus als Nachfolger derselben institutionellen Linie positioniert und nicht als sauberen Bruch mit ihr." },
+    { content = "Auf die Clonaid-Ankündigung vom 27. Dezember 2002 folgte eine vom Wissenschaftsjournalisten Michael Guillen vermittelte Vereinbarung, dass ein unabhängiges Team die Klonbehauptung durch einen DNA-Test des angeblichen Säuglings überprüfen sollte. Das Verifizierungsverfahren wurde Anfang Januar 2003 abgebrochen, nachdem Clonaid das Kind nicht zur Verfügung stellte; Boisselier berief sich auf die Weigerung der Eltern aus sorgerechtlichen Gründen. Eine spätere unabhängige Verifizierung wurde nicht erbracht. Die etablierte wissenschaftliche Position (American Association for the Advancement of Science, *Nature*, *Science*) lautet, dass die Ankündigung eine unbelegte Behauptung und kein dokumentiertes wissenschaftliches Ereignis darstellt." },
+    { content = "Der Kontrast zu Heaven's Gate ist struktureller und nicht bloß chronologischer Art. Beide Bewegungen entstanden 1974–75; beide kreisten um einen charismatischen Gründer, der einen Rahmen außerirdischen Kontakts artikulierte; beide entwickelten Lehrkorpora und engagierte Mitgliedschaften. Die Divergenz liegt in den Ausstiegsbedingungen, die die jeweiligen Rahmen festlegten — der Rahmen von Heaven's Gate behandelte den körperlichen Tod als operativen Mechanismus der Abreise mit dem Begleitschiff von Hale-Bopp, der Rahmen des Raëlismus behandelt die Botschaft und die offene Rückkehr der Allianz als erdseitig und an die fortgesetzte institutionelle Entwicklung gebunden. Zellers *Heaven's Gate* (2014) behandelt den Vergleich unmittelbar." },
+    { content = "Palmers *Aliens Adored* (2004) liest die Entlassung des MADECH-Vorstands 1975 und die Neugründung im Februar 1976 als den Moment, in dem die Bewegung von einer UFO-Kontakt-Vereinigung zu einer Religion im eigentlichen Sinne überging — den Punkt, an dem Raëls Autorität charismatisch-prophetisch statt administrativ wurde. Von Anti-Sekten-Organisationen gesammelte kritische Berichte beschreiben dieselbe Abfolge in weniger wohlwollenden Begriffen. Die etablierte NRB-Forschung behandelt beides als partielle Perspektiven auf einen umstrittenen Übergang und nicht als gesicherte Tatsache." },
+    { content = "Die Lehre der Bewegung, dass sexuelle Lust neue neuronale Bahnen bildet und die Intelligenz steigert, ist eine doktrinäre und keine etablierte wissenschaftliche Behauptung; die etablierte Neurowissenschaft stützt den kausalen Mechanismus in der angegebenen Form nicht. Sie ist hier als raëlianische Lehre verzeichnet, im Einklang mit der Praxis des Korpus, korpusinterne Behauptungen von Behauptungen über den externen wissenschaftlichen Befund zu unterscheiden." },
 ]
 
 [[extra.references]]
 id = "the-book-which-tells-the-truth"
-note = "Grundlegender raëlianischer Text von 1974, der den Erstkontakt vom 13. Dezember 1973 in Clermont-Ferrand und die Hauptlehre von Jahwe festhält."
+note = "Grundlegender raëlianischer Text von 1974, der den Erstkontakt vom 13. Dezember 1973 in Clermont-Ferrand und die Hauptlehre Jahwes festhält."
 
 [[extra.references]]
 id = "extraterrestrials-took-me-to-their-planet"
@@ -52,7 +54,7 @@ note = "Vorilhons zweites Buch von 1976, das den zweiten Kontakt vom 7. Oktober 
 
 [[extra.references]]
 id = "lets-welcome-the-extraterrestrials"
-note = "Vorilhons drittes Buch von 1979, das das Botschaftsprojekt, die zuvor zurückgehaltene Offenlegung der biologischen Elternschaft und den Übergang zum Wassermann behandelt."
+note = "Vorilhons drittes Buch von 1979, das das Botschaftsprojekt, die zuvor zurückgehaltene Offenlegung der biologischen Abstammung und den Übergang zum Wassermann behandelt."
 
 [[extra.references]]
 id = "intelligent-design-message-from-the-designers"
@@ -60,572 +62,403 @@ note = "Die konsolidierte englische Ausgabe von 2005, die die drei grundlegenden
 
 [[extra.references]]
 id = "rael-dot-org"
-note = "Wichtigste offizielle Website der International Raëlian Movement; institutionelle Selbstdarstellung und zeitgenössische Kommunikation."
+note = "Wichtigste offizielle Website der International Raëlian Movement; institutionelle Selbstdarstellung und zeitgenössische Mitteilungen."
 
 [[extra.references]]
 id = "genesis"
 locator = "Genesis 1"
-note = "Der erste Schöpfungsbericht der hebräischen Bibel, im raëlianischen Rahmen gelesen als Bewahrung einer substantiell korrekten Erinnerung an die gentechnische Schöpfungsarbeit der Elohim-Zivilisation."
+note = "Der erste Schöpfungsbericht der hebräischen Bibel, im raëlianischen Rahmen gelesen als Bewahrung einer zutreffenden Erinnerung an die gentechnische Schöpfungsarbeit der Elohim-Zivilisation."
 
 [[extra.references]]
 id = "those-gods-who-made-heaven-and-earth"
-note = "Jean Sendys philologisch-historiographische Lesart der Elohim der hebräischen Bibel als verkörperte außerirdische Wesen (1969) — unabhängiger wissenschaftlicher Vorläufer der raëlianischen Lesart."
+note = "Jean Sendys philologisch-historiographische Lesart der Elohim der hebräischen Bibel als leibliche außerirdische Wesen (1969) — unabhängiger wissenschaftlicher Vorläufer der raëlianischen Lesart."
 
 [[extra.references]]
 id = "the-bible-is-not-a-sacred-book"
-note = "Mauro Biglinos streng wörtliche Reihe zur hebräischen Bibel (ab 2010) — unabhängige philologische Konvergenz auf die Lesart der Elohim als Pluralität körperlicher Wesen."
+note = "Mauro Biglinos streng wörtliche Reihe zur hebräischen Bibel (ab 2010) — unabhängige philologische Konvergenz mit der Lesart der Elohim als Mehrzahl körperlicher Wesen."
 
 [[extra.references]]
 id = "escaping-from-eden"
-note = "Paul Anthony Wallis' vergleichend-keilschriftliche Lesart von 2020 der Elohim der hebräischen Bibel als das sumerische Himmelsvolk — dritte unabhängige wissenschaftliche Konvergenz mit dem raëlianischen Rahmen."
+note = "Paul Anthony Wallis' vergleichend-keilschriftliche Lesart von 2020, die die Elohim der hebräischen Bibel als das sumerische Himmelsvolk deutet — dritte unabhängige wissenschaftliche Konvergenz mit dem raëlianischen Rahmen."
 
 [extra.infobox]
-type = "Religiös-philosophische Bewegung; ausdrücklich atheistische Religion auf der Grundlage eines außerirdischen Schöpferrahmens; institutionelles Vehikel für das Botschaftsprojekt und die breitere Vorbereitung des Wassermann-Zeitalters"
+type = "Religiös-philosophische Bewegung; ausdrücklich atheistische Religion auf der Grundlage eines außerirdischen Schöpferrahmens; institutionelles Vehikel für das Botschaftsprojekt und die Vorbereitung des Wassermann-Zeitalters"
 founded = "1974 (MADECH); 1976 (International Raëlian Movement)"
 founder = "Raël (Claude Vorilhon, geb. 1946)"
 basic_doctrine = "Die Elohim, eine fortgeschrittene außerirdische Zivilisation, schufen vor etwa 25.000 Jahren alles Leben auf der Erde durch Gentechnik; die Menschheit soll diesen Ursprung anerkennen und sich auf die offene Rückkehr der Allianz vorbereiten; die Botschaft muss errichtet werden; die sieben neuen Gebote strukturieren das gesellschaftlich-politische Programm des Wassermann-Zeitalters"
-character = "Atheistische Religion; lehnt eine übernatürliche Gottheit ab und bewahrt zugleich religiöse Dimensionen von Ehrfurcht, Sinn und ethischem Engagement; strukturell besonders sowohl innerhalb der Kategorie der UFO-Religionen als auch innerhalb der breiteren Landschaft neuer religiöser Bewegungen"
-principal_practices = "Übertragung des Zellplans (raëlianische Taufe); sensuelle Meditation; telepathischer Kontakt (sonntags um 11 Uhr); jährliche Bergversammlung; Gedenken an Kontaktjahrestage (6. April, 6. August, 7. Oktober, 13. Dezember)"
-institutional_structure = "Siebenstufige Hierarchie der Führer; Führer der Führer (Raël) an der Spitze; Tochterorganisationen einschließlich Clonaid, Orden der Engel, Allianz für extraterrestrischen diplomatischen Kontakt, verschiedene Bildungs- und Öffentlichkeitsgremien"
-membership = "Etwa 65.000–100.000 (Zahlen variieren je nach Quelle); nationale Zweige in etwa 90 Ländern; am stärksten in Frankreich, Kanada, Japan, Südkorea, Afrika"
-distinguished_from = "Die breitere Kategorie der UFO-Religionen (Heaven's Gate, Aetherius Society, Unarius, andere); andere neue religiöse Bewegungen mit Prophetengründern (Mormonentum, Scientology, Bahá'í); breitere atheistische/wissenschaftliche Religionen (Comtesche Religion der Menschheit, säkularer Humanismus, Ethische Kultur); die Figur Raëls im Besonderen (im eigenen Eintrag behandelt)"
-status_in_source_material = "Substantiell dokumentiert; Lehrinhalt hauptsächlich aus raëlianischem Quellenmaterial (1974–2005); institutionelle Entwicklung hauptsächlich aus den institutionellen Aufzeichnungen der raëlianischen Bewegung; Kontroversen hauptsächlich aus zeitgenössischer journalistischer und akademischer Auseinandersetzung"
+character = "Atheistische Religion; lehnt eine übernatürliche Gottheit ab und bewahrt zugleich die religiösen Dimensionen von Ehrfurcht, Sinn und ethischem Engagement; eigenständig sowohl innerhalb der Kategorie der UFO-Religionen als auch in der weiteren Landschaft neuer religiöser Bewegungen"
+principal_practices = "Übertragung des Zellplans (raëlianische Taufe); sensuelle Meditation; telepathischer Kontakt (sonntags um 11 Uhr); jährliche Bergversammlung; Gedenken an die Kontaktjahrestage (6. April, 6. August, 7. Oktober, 13. Dezember)"
+institutional_structure = "Siebenstufige Hierarchie der Führer; Führer der Führer (Raël) an der Spitze; Tochterorganisationen wie Clonaid, der Orden der Engel, die Allianz für extraterrestrischen diplomatischen Kontakt sowie verschiedene Bildungs- und Öffentlichkeitsgremien"
+membership = "Etwa 65.000–100.000 (Zahlen variieren je nach Quelle); nationale Zweige in etwa 90 Ländern; am stärksten in Frankreich, Kanada, Japan, Südkorea und Afrika"
+distinguished_from = "Die weitere Kategorie der UFO-Religionen (Heaven's Gate, Aetherius Society, Unarius und andere); andere neue religiöse Bewegungen mit Prophetengründern (Mormonentum, Scientology, Bahá'í); weitere atheistische/wissenschaftliche Religionen (Comtesche Religion der Menschheit, säkularer Humanismus, Ethische Kultur); die Figur Raëls im Besonderen (im eigenen Eintrag behandelt)"
+status_in_source_material = "Gut dokumentiert; Lehrinhalt aus dem raëlianischen Quellenmaterial (1974–2005), institutionelle Entwicklung aus den Aufzeichnungen der Bewegung, Kontroversen aus der zeitgenössischen journalistischen und akademischen Auseinandersetzung"
 principal_text = "*Das Buch, das die Wahrheit sagt* (1974); *Außerirdische brachten mich auf ihren Planeten* (1975/76); *Empfangen wir die Außerirdischen* (1979); *Sensuelle Meditation* (1980); *Geniokratie* (1978); *Ja zum menschlichen Klonen* (2000); *Der Maitreya* (Anthologie); *Botschaft der Designer* (konsolidierte Ausgabe 2005)"
 +++
 
-Der **Raëlismus** ist die religiös-philosophische Bewegung, die von **Raël** (Claude Vorilhon) nach seinem berichteten Kontakt am 13. Dezember 1973 mit einem Offizier der Elohim-Allianz am vulkanischen Krater Puy-de-Lassolas bei Clermont-Ferrand, Frankreich, gegründet wurde.{{ footnote(id="1") }} Das institutionelle Vehikel der Bewegung ist die **International Raëlian Movement (IRM)**, gegründet 1976 als Nachfolgerin der Vorgängerorganisation **MADECH** (*Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité*, gegründet 1974). Der Raëlismus ist innerhalb der breiteren religiösen Bewegungslandschaft strukturell dadurch besonders, {% claim(type="direct", id="woh-claim-0027") %}dass er **ausdrücklich atheistisch** ist — er lehnt eine übernatürliche Gottheit zugunsten der Elohim als fortgeschrittener biologischer Zivilisation ab{% end %}, die die Menschheit vor etwa 25.000 Jahren durch Gentechnik geschaffen hat — und gleichzeitig erhebliche religiöse Dimensionen durch die kumulative prophetische Tradition, das Programm des Wassermann-Zeitalters, das Botschaftsprojekt und verschiedene unterscheidende raëlianische Praktiken bewahrt. Die Bewegung wurde innerhalb der etablierten Forschung zu neuen religiösen Bewegungen (NRB) als eine der institutionell substantiellsten UFO-Religionen charakterisiert, mit nationalen Zweigen in etwa neunzig Ländern und gemeldeten Mitgliederzahlen, die je nach Quelle und Methodik im Zeitraum nach 1976 zwischen etwa 65.000 und etwa 100.000 schwanken.{{ footnote(id="2") }}
+Der **Raëlismus** ist die religiös-philosophische Bewegung, die **Raël** (Claude Vorilhon) nach seinem berichteten Kontakt am 13. Dezember 1973 mit einem Offizier der Elohim-Allianz am vulkanischen Krater Puy-de-Lassolas bei Clermont-Ferrand, Frankreich, gründete.{{ footnote(id="1") }} Ihr institutionelles Vehikel ist die **International Raëlian Movement (IRM)**, gegründet 1976 als Nachfolgerin von **MADECH** (*Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité*, gegründet 1974). {% claim(type="direct", id="woh-claim-0027") %}Der Raëlismus ist **ausdrücklich atheistisch** — er lehnt eine übernatürliche Gottheit zugunsten der Elohim ab{% end %}, einer fortgeschrittenen biologischen Zivilisation, die die Menschheit vor rund 25.000 Jahren durch Gentechnik schuf — und bewahrt zugleich religiöse Dimensionen durch die kumulative prophetische Tradition, das Programm des Wassermann-Zeitalters, das Botschaftsprojekt und seine eigenen Praktiken. Die Forschung zu neuen religiösen Bewegungen (NRB) zählt ihn zu den institutionell am weitesten entwickelten UFO-Religionen, mit Zweigen in etwa neunzig Ländern und gemeldeten Mitgliederzahlen von rund 65.000 bis 100.000 im Zeitraum nach 1976 (die Zahlen variieren je nach Quelle und Methode).{{ footnote(id="2") }}
 
-Der Lehrinhalt des Raëlismus konzentriert sich auf den breiteren Rahmen, den die quellenmaterielle Unterweisung etabliert hat: die spezifische Schöpfungsarbeit der Elohim-Zivilisation auf der Erde über die vergangenen 25.000 Jahre, die kumulative prophetische Tradition, die in Raëls Wassermann-Mission gipfelt, die sieben neuen Gebote, die das politisch-gesellschaftliche Programm für das Wassermann-Zeitalter spezifizieren (Geniokratie, Humanitarismus, Weltregierung, Entmilitarisierung, Wissenschaft als Religion, telepathische Kultivierung und die metaphysischen Klärungen), das Botschaftsprojekt als operatives Zentrum für die projizierte offene Rückkehr der Allianz und das breitere Wassermann-Programm menschlicher Transformation hin zum projizierten {% wiki(slug="golden-age") %}Goldenen Zeitalter{% end %}. Der Lehrrahmen ist ausdrücklich **atheistisch** in dem konkreten Sinn, den Raël ausgearbeitet hat: Es gibt keine übernatürliche Gottheit, keine unsterbliche Seele, keinen metaphysisch-theologischen Apparat der Art, wie ihn die konventionellen religiösen Traditionen entwickelt haben; die religiösen Dimensionen von Ehrfurcht, Sinn und ethischem Engagement bleiben erhalten, sind aber auf den unendlichen Kosmos selbst, auf die Elohim-Schöpfer (behandelt als fortgeschrittene Wesen menschlicher Art und nicht als Gottheiten) und auf den breiteren kosmisch-schöpferischen Zyklus ausgerichtet, an dem die Menschheit teilzuhaben projiziert wird.
+Seine Lehre kreist um die Unterweisung des Quellenmaterials: die Schöpfungsarbeit der Elohim auf der Erde in den vergangenen 25.000 Jahren, die kumulative prophetische Tradition, die in Raëls Mission für das Wassermann-Zeitalter gipfelt, die sieben neuen Gebote, die das politisch-gesellschaftliche Programm des Zeitalters festlegen, das Botschaftsprojekt als operatives Zentrum für die projizierte offene Rückkehr der Allianz und den Weg zu einem kommenden {% wiki(slug="golden-age") %}Goldenen Zeitalter{% end %}. Der Atheismus ist von bestimmter Art: keine übernatürliche Gottheit, keine unsterbliche Seele, nichts vom metaphysisch-theologischen Apparat der konventionellen Religion. Ehrfurcht, Sinn und ethisches Engagement bleiben bestehen, ausgerichtet auf den unendlichen Kosmos, auf die Elohim als Schöpfer (fortgeschrittene Wesen menschlicher Art, nicht Gottheiten) und auf den kosmisch-schöpferischen Zyklus, in den die Menschheit eintreten soll.
 
-Die institutionelle Struktur des Raëlismus umfasst die **siebenstufige Hierarchie der Führer** (mit Raël als **Führer der Führer** an der Spitze), die verschiedenen Tochterorganisationen (Clonaid, den Orden der Engel, die Allianz für extraterrestrischen diplomatischen Kontakt und verschiedene Bildungs- und Öffentlichkeitsgremien) sowie die breitere operative Infrastruktur, die sich in den vergangenen fünf Jahrzehnten entwickelt hat. Zu den wichtigsten Praktiken gehören die **Übertragung des Zellplans** (die raëlianische Taufzeremonie, durchgeführt an vier jährlichen Daten, die bedeutsamen Momenten in der prophetischen Tradition entsprechen — 6. April, 6. August, 7. Oktober, 13. Dezember), die **sensuelle Meditation** (die von den Elohim entworfenen Meditationspraktiken zur Erweckung der Sinne und zur Erlangung innerer Harmonie), der **telepathische Kontakt** (die Praxis der Geist-zu-Geist-Kommunikation mit den Elohim, insbesondere sonntagmorgens um 11 Uhr durchgeführt) sowie verschiedene Gedenkfeiern an Kontaktjahrestage und breitere institutionelle Versammlungen.
+Die Bewegung hat im Laufe ihres halben Jahrhunderts Kontroversen ausgelöst. Die **Clonaid-Behauptung von 2002** — Brigitte Boisseliers Ankündigung vom 27. Dezember 2002 über das erste geklonte menschliche Baby („Eve“), seither nie unabhängig verifiziert — fand breite Medienaufmerksamkeit und stieß auf wissenschaftliche Skepsis. Das ursprüngliche **{% wiki(slug="raelian-symbol-of-infinity") %}raëlianische Symbol der Unendlichkeit{% end %}** (ein {% wiki(slug="star-of-david") %}Davidstern{% end %}, der ein Hakenkreuz umschließt) wurde 1990 in den westlichen Zweigen verändert; das Hakenkreuz wurde wegen seiner Rezeption nach dem Holocaust durch einen galaxienförmigen Wirbel ersetzt. Der **Orden der Engel** (gegründet 1998) wurde wegen seiner Praktiken und seiner ausschließlich weiblichen Mitgliedschaft kritisiert, die **sensuelle Meditation** wegen ihres sexuellen Inhalts. Französische Anti-Sekten-Stellen — **MIVILUDES** (*Mission interministérielle de vigilance et de lutte contre les dérives sectaires*) und **UNADFI** (*Union nationale des associations de défense des familles et de l'individu*) — haben die Bewegung in offiziellen Dokumenten als problematische religiöse Gruppe eingestuft. Jeder dieser Punkte wird weiter unten behandelt.
 
-Die Bewegung hat über ihre halbjahrhundertelange Geschichte hinweg erhebliche Kontroversen hervorgebracht. Die **Clonaid-Behauptung von 2002** — Brigitte Boisseliers Ankündigung am 27. Dezember 2002 von der angeblichen Geburt des ersten geklonten menschlichen Babys („Eve"), in den darauffolgenden zwei Jahrzehnten nie unabhängig verifiziert — erregte erhebliche internationale Medienaufmerksamkeit und löste erhebliche nachfolgende wissenschaftliche und journalistische Skepsis aus. Das **ursprüngliche {% wiki(slug="raelian-symbol-of-infinity") %}raëlianische Symbol der Unendlichkeit{% end %}** (ein {% wiki(slug="star-of-david") %}Davidstern{% end %} mit zentralem Hakenkreuz) wurde 1990 in den westlichen Zweigen modifiziert, um das zentrale Hakenkreuz durch einen galaxienförmigen Wirbel zu ersetzen, als Reaktion auf die komplizierte Rezeption des Symbols im post-Holocaust-europäisch-nordamerikanischen Kontext. Der **Orden der Engel** (gegründet 1998) war Gegenstand erheblicher Kontroversen bezüglich seiner spezifischen Praktiken und seiner ausschließlich weiblichen Mitgliederstruktur. Die Praktiken der **sensuellen Meditation** haben aufgrund ihres ausdrücklich sexuellen Inhalts erhebliche Mainstream-Kritik hervorgerufen. Die **Auseinandersetzung französischer Anti-Sekten-Organisationen** durch MIVILUDES (*Mission interministérielle de vigilance et de lutte contre les dérives sectaires*) und UNADFI (*Union nationale des associations de défense des familles et de l'individu*) hat in den vergangenen Jahrzehnten erhebliche rechtlich-politische Spannungen erzeugt, wobei die raëlianische Bewegung in verschiedenen offiziellen französischen Regierungsdokumenten als problematische religiöse Gruppe eingestuft wurde.
-
-Die Lesart ist interpretativ. Innerhalb der etablierten NRB-Forschung wird der Raëlismus als substantielle zeitgenössische religiöse Bewegung mit erheblicher dokumentierter institutioneller Entwicklung, erheblicher Lehrartikulation und erheblichem soziologisch-anthropologischem Interesse behandelt. Die wichtigsten Gelehrten (Susan Palmer, Massimo Introvigne, James R. Lewis, George Chryssides, Mikael Rothstein, Christopher Partridge und andere) haben eine substantielle wissenschaftliche Auseinandersetzung geleistet, die den Raëlismus als religiöses Phänomen ernst nimmt, ohne seine spezifischen historischen Behauptungen über das Kontaktereignis vom 13. Dezember 1973 zu billigen. Innerhalb der etablierten theologischen Tradition wird der Raëlismus weithin nicht als Fortsetzung einer etablierten theologischen Tradition behandelt; die verschiedenen religiösen Traditionen haben den Raëlismus entweder ignoriert oder als problematische Bewegung außerhalb der legitimen religiösen Tradition behandelt. Innerhalb des Korpus-Rahmens nimmt der Raëlismus die spezifische Position des **wichtigsten zeitgenössischen institutionellen Vehikels** für die quellenmaterielle Unterweisung ein, mit der sich der Rahmen befasst — weder identisch mit dem breiteren {% wiki(slug="wheel-of-heaven") %}Wheel-of-Heaven{% end %}-Rahmen (der den distinktiven interpretativen Beitrag des Korpus darstellt) noch vollständig von ihm trennbar (da die quellenmaterielle Unterweisung, mit der sich der Rahmen befasst, selbst die grundlegende Basis für beide ist).
+Die NRB-Forschung behandelt den Raëlismus als ernstzunehmende zeitgenössische religiöse Bewegung — dokumentiert in ihrem institutionellen Wachstum, ihrer Lehrartikulation und ihrem soziologischen Interesse —, ohne jedoch ihre historische Behauptung über den Kontakt von 1973 zu billigen. Die etablierten theologischen Traditionen haben sie weitgehend ignoriert oder außerhalb legitimer Religion verortet. In diesem Korpus ist der Raëlismus das **wichtigste zeitgenössische institutionelle Vehikel** für die Unterweisung des Quellenmaterials, mit der sich der Rahmen befasst — weder identisch mit dem weiteren {% wiki(slug="wheel-of-heaven") %}Wheel-of-Heaven{% end %}-Rahmen noch vollständig von ihm trennbar, da dieselbe Unterweisung die Grundlage beider ist.
 
 ## Etymologie und Bezeichnung
 
-Im Quellenmaterial und in der breiteren wissenschaftlichen Auseinandersetzung operieren mehrere unterschiedliche Bezeichnungen der Bewegung.
+Die Bewegung trägt im Quellenmaterial und in der Forschung mehrere Bezeichnungen.
 
-### „Raëlismus" als Hauptbezeichnung
+### „Raëlismus“ als Hauptbezeichnung
 
-Der deutsche Begriff **„Raëlismus"** ist die Hauptbezeichnung in der etablierten deutschsprachigen Wissenschaft und im populären Diskurs. Die Konstruktion folgt dem deutschen Standardmuster für Bezeichnungen religiöser Bewegungen (Katholizismus, Buddhismus, Mormonentum, Scientology usw.) und bildet die abstrakte Substantivbezeichnung aus dem Namen des Gründers. Das diakritische Zeichen (das Trema auf dem *ë*) bleibt in der wissenschaftlichen Verwendung und in den offiziellen Mitteilungen der raëlianischen Bewegung erhalten, wird aber in der populären Verwendung manchmal weggelassen (als **„Raelismus"** ohne diakritisches Zeichen).
+**„Raëlismus“** ist der gebräuchliche Begriff in Forschung und allgemeinem Sprachgebrauch, gebildet aus dem Namen des Gründers nach dem üblichen Muster (Katholizismus, Buddhismus, Mormonentum, Scientology). Das Trema auf dem *ë* bleibt in wissenschaftlicher und offizieller Verwendung erhalten, wird in populären Texten aber oft weggelassen (**„Raelismus“**). Die Bewegung selbst bevorzugt **„die Raëlianische Bewegung“** oder **„die International Raëlian Movement“** und behandelt „Raëlismus“ als externe wissenschaftliche Bezeichnung statt als eigenen internen Begriff.
 
-Die institutionelle Präferenz der Bewegung selbst geht im Allgemeinen dahin, **„die Raëlianische Bewegung"** oder **„die International Raëlian Movement"** statt **„Raëlismus"** als doktrinär-philosophische Bezeichnung zu verwenden. Die Selbstdarstellung der Bewegung behandelt „Raëlismus" im Allgemeinen als externe wissenschaftliche Bezeichnung und bewahrt zugleich die institutionelle Selbstbezeichnung als wichtigste interne Terminologie.
+### „Raëlianismus“ als alternative Bezeichnung
 
-### „Raëlianismus" als alternative Bezeichnung
-
-Der Begriff **„Raëlianismus"** wird gelegentlich als alternative wissenschaftliche Bezeichnung verwendet, insbesondere in älterer wissenschaftlicher Literatur. Die Konstruktion folgt einem leicht abweichenden Muster (mit dem *-ian*-Suffix statt des einfachen *-ismus*-Suffix) und ergibt die alternative Form. Die zeitgenössische Forschung hat sich substantiell auf **„Raëlismus"** als Hauptbezeichnung festgelegt, auch wenn beide Formen weiterhin in der wissenschaftlichen Literatur erscheinen.
+**„Raëlianismus“** erscheint als Alternative, vor allem in älterer Literatur, mit dem Suffix *-ian* statt des einfachen *-ismus*. Die zeitgenössische Forschung hat sich weitgehend auf **„Raëlismus“** festgelegt, doch beide Formen bestehen fort.
 
 ### Variationen im Quellenmaterial
 
-Das Quellenmaterial verwendet mehrere unterschiedliche Formulierungen:
+Das Quellenmaterial verwendet mehrere Formulierungen:
 
-- **„Die Raelianische Bewegung"** — die Hauptbezeichnung der Quelle in der englischen Ausgabe *Message from the Designers* von 2005
-- **„Die raelianische Religion"** — die spezifische Formulierung der Quelle in manchen Kontexten, insbesondere wenn sie den ausgesprochen religiösen statt rein philosophischen Charakter der Bewegung registriert
-- **„Eine atheistische Religion"** — Raëls spezifische Charakterisierung des doktrinär-philosophischen Inhalts der Bewegung
+- **„Die Raelianische Bewegung“** — die Hauptbezeichnung in der *Message from the Designers* von 2005
+- **„Die raelianische Religion“** — verwendet, wo der religiöse und nicht bloß philosophische Charakter der Bewegung im Blick ist
+- **„Eine atheistische Religion“** — Raëls eigene Charakterisierung ihres Inhalts
 
 ### Verwandte institutionelle Terminologie
 
-Im raëlianischen Rahmen operieren mehrere verwandte institutionelle Begriffe:
+- **MADECH** — *Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité* („Bewegung zum Empfang der Elohim, Schöpfer der Menschheit“), die 1974 gegründete Vorgängerorganisation
+- **IRM** — International Raëlian Movement, die 1976 gegründete Nachfolgerin
+- **Die Bewegung** — allgemeiner interner Sprachgebrauch
+- **Die raëlianische Gemeinschaft** — die Mitgliedschaft im Unterschied zur Institution
 
-- **MADECH** — *Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité* („Bewegung zum Empfang der Elohim, Schöpfer der Menschheit"), die 1974 gegründete Vorgängerorganisation
-- **IRM** — International Raëlian Movement, die 1976 gegründete Nachfolge- und übergeordnete Organisation
-- **Die Bewegung** — generische interne Bezeichnung
-- **Die raëlianische Gemeinschaft** — bezieht sich auf die breitere Mitgliedschaft statt spezifisch auf die institutionelle Struktur
+### Korpusinterne Verwendung
 
-### Korpus-interne Verwendung
-
-Der Wheel-of-Heaven-Korpus verwendet **Raëlismus** als Hauptbezeichnung für die religiös-philosophische Bewegung und **die International Raëlian Movement (IRM)** für die spezifische institutionelle Einheit. Der Korpus verwendet **das raëlianische Quellenmaterial** für die wichtigsten veröffentlichten Texte (Raëls Bücher und die darin bewahrte, durch Jahwe übermittelte Unterweisung) und **den raëlianischen Rahmen** für den doktrinär-philosophischen Inhalt, im Unterschied zu dem breiteren Wheel-of-Heaven-Rahmen, den der Korpus entwickelt hat.
+In diesem Korpus bezeichnet **Raëlismus** die Bewegung und **die International Raëlian Movement (IRM)** die Institution; **das raëlianische Quellenmaterial** meint Raëls Bücher und die darin bewahrte, durch Jahwe übermittelte Unterweisung, und **der raëlianische Rahmen** den Lehrinhalt im Unterschied zum weiteren Wheel-of-Heaven-Rahmen.
 
 ## Etabliertes Verständnis
 
-Das etablierte Verständnis des Raëlismus ist erheblich durch die Forschung zu neuen religiösen Bewegungen (NRB) geprägt worden, wobei verschiedene andere Ansätze zum breiteren wissenschaftlichen Bild beitragen.
+Das etablierte Verständnis des Raëlismus wurde überwiegend durch die Forschung zu neuen religiösen Bewegungen (NRB) geprägt, wobei andere Ansätze das Bild ergänzen.
 
-### Der NRB-wissenschaftliche Rahmen
+### Der wissenschaftliche Rahmen der NRB-Forschung
 
-Der wichtigste etablierte wissenschaftliche Rahmen für das Verständnis des Raëlismus ist die breitere Forschungstradition zu neuen religiösen Bewegungen (NRB), die sich in den 1970er bis 1990er Jahren als wichtigster akademischer Rahmen für die Auseinandersetzung mit zeitgenössischen religiösen Innovationen herausbildete.
+Der vorherrschende Rahmen ist die Forschungstradition zu neuen religiösen Bewegungen, die sich in den 1970er bis 1990er Jahren zur Untersuchung zeitgenössischer religiöser Innovation herausbildete. Sie behandelt den Raëlismus als eine solche Bewegung der Zeit nach 1960, die die Familienmerkmale teilt — charismatischer Gründer, eigene Lehre, institutionelles Wachstum, kontroverse Rezeption —, aber ihre eigenen Kennzeichen trägt: den außerirdischen Schöpferrahmen und den ausdrücklichen Atheismus.
 
-**Der grundlegende NRB-Rahmen** behandelt den Raëlismus als eine spezifische Instanz der breiteren Kategorie neuer religiöser Bewegungen, die im Zeitraum nach 1960 entstanden sind, mit verschiedenen gemeinsamen Merkmalen (charismatischer Gründer, distinktiver Lehrinhalt, institutionelle Entwicklung, kontroverse Rezeption durch etablierte religiöse und säkulare Institutionen) und verschiedenen spezifischen Merkmalen (der außerirdische Schöpferrahmen, der explizite Atheismus, das Muster institutioneller Entwicklung).
+Die Forschung ordnet ihn mehreren Kategorien zugleich zu:
 
-**Die wichtigsten NRB-Kategorisierungen** des Raëlismus umfassen:
+- **UFO-Religion** — Bewegungen, die auf UFO-Kontaktmaterial zurückgreifen (Heaven's Gate, Aetherius Society, Unarius und andere)
+- **Atheistische Religion** — Bewegungen ohne übernatürliche Gottheit (mehrere buddhistische Traditionen, die Comtesche {% wiki(slug="religion") %}Religion{% end %} der Menschheit, säkularer Humanismus, Ethische Kultur)
+- **Neue religiöse Bewegung mit Prophetengründer** — (Mormonentum, Scientology, Bahá'í)
+- **Postmoderne Religion** — mit Betonung ihres post-traditionellen Umfelds im späten zwanzigsten Jahrhundert
 
-- **UFO-Religion** — die breitere Kategorie religiöser Bewegungen, die auf UFO-Kontaktmaterial zurückgreifen (Heaven's Gate, Aetherius Society, Unarius, verschiedene andere)
-- **Atheistische Religion** — die breitere Kategorie religiöser Bewegungen, die ohne übernatürlich-göttlichen Inhalt operieren (verschiedene buddhistische Traditionen, Comtesche {% wiki(slug="religion") %}Religion{% end %} der Menschheit, säkularer Humanismus, Ethische Kultur, verschiedene andere)
-- **Neue religiöse Bewegung mit Prophetengründer** — die breitere Kategorie religiöser Bewegungen, die durch spezifische charismatisch-prophetische Figuren gegründet wurden (Mormonentum, Scientology, Bahá'í, verschiedene andere)
-- **Postmoderne Religion** — die Kategorie, die die spezifische kulturell-zeitliche Verortung des Raëlismus innerhalb der spätzwanzigjahrhundertlichen post-traditionellen religiösen Landschaft betont
-
-Die verschiedenen Kategorisierungen schließen sich nicht gegenseitig aus — der Raëlismus kann zutreffend innerhalb mehrerer NRB-Kategorisierungen gleichzeitig behandelt werden, wobei die spezifischen Kategorisierungen unterschiedliche analytische Rahmungen der distinktiven Merkmale der Bewegung erzeugen.
-
-### Die wichtigsten wissenschaftlichen Auseinandersetzungen
-
-**Susan J. Palmers** *Aliens Adored: Raël's UFO Religion* (Rutgers University Press, 2004) ist die wichtigste monographische wissenschaftliche Behandlung, die auf umfangreicher ethnographischer Feldforschung beruht. Palmers breiteres späteres Werk hat sich im Zeitraum nach 2004 weiterhin mit dem Raëlismus auseinandergesetzt, mit verschiedenen Zeitschriftenaufsätzen und Buchkapiteln, die die wichtigste englischsprachige wissenschaftliche Auseinandersetzung darstellen.
-
-**Massimo Introvigne** und das **Center for Studies on New Religions (CESNUR)** haben durch verschiedene Konferenzbeiträge, Zeitschriftenaufsätze und breiteren institutionellen CESNUR-Output eine substantielle wissenschaftliche Auseinandersetzung mit dem Raëlismus produziert. Die CESNUR-Auseinandersetzung ist im Allgemeinen wohlwollend-wissenschaftlich; sie nimmt die Bewegung ernst und wahrt zugleich wissenschaftliche Objektivität.
-
-**George D. Chryssides** hat im Rahmen seiner breiteren Arbeit zu neuen religiösen Bewegungen eine wissenschaftliche Auseinandersetzung mit dem Raëlismus geleistet, mit verschiedenen vergleichenden Analysen, die den Raëlismus innerhalb der breiteren NRB-Landschaft verorten.
-
-**Mikael Rothstein** hat eine substantielle wissenschaftliche Auseinandersetzung mit dem Raëlismus produziert, insbesondere in Bezug auf die spezifischen hagiographischen und textlichen Praktiken der Bewegung.
-
-**Christopher Partridges** Sammelband *UFO Religions* (Routledge, 2003) und seine breitere Arbeit zur zeitgenössischen Spiritualität haben eine substantielle Auseinandersetzung mit dem Raëlismus produziert.
-
-**James R. Lewis** hat mehrere substantielle Sammelbände herausgegeben, die sich mit dem Raëlismus befassen, darunter *The Gods Have Landed: New Religions from Other Worlds* (SUNY Press, 1995) und das *Encyclopedic Sourcebook of UFO Religions* (Prometheus, 2003).
+Diese Kategorien schließen einander nicht aus; jede rahmt eine andere Facette der Bewegung. Die wichtigsten Wissenschaftler und ihre Werke werden weiter unten unter *Moderne Neudeutungen* behandelt.
 
 ### Die etablierte wissenschaftliche Einschätzung
 
-Die etablierte wissenschaftliche Einschätzung des Raëlismus ist im Allgemeinen eine der **ernsthaften Auseinandersetzung bei skeptischer Distanz**:
+Die etablierte Einschätzung ist eine der **ernsthaften Auseinandersetzung bei skeptischer Distanz**: Die Bewegung wird als echtes religiöses Phänomen untersucht — ihre Institutionen, ihre Lehre, ihr Fortbestehen über fünf Jahrzehnte —, ohne ihre Behauptung über den Kontakt vom 13. Dezember 1973 zu billigen, die unverifiziert bleibt. Die Forschung liest Raël im Allgemeinen als aufrichtige religiöse Figur und nicht als Betrüger und verweist dabei auf die Beständigkeit seines Verhaltens über fünfzig Jahre. Das unterscheidet sich von der kritischeren populär-journalistischen Behandlung und von der feindseligeren Behandlung durch Anti-Sekten-Organisationen. Die rechtlich-politische Behandlung sowie die Berichte von Ex-Raëlianern und Anti-Sekten-Organisationen werden weiter unten unter *Moderne Neudeutungen* behandelt.
 
-- **Ernsthafte Auseinandersetzung** — Behandlung der Bewegung als substantielles religiöses Phänomen, das akademische Untersuchung verdient, unter Anerkennung ihrer institutionellen Entwicklung, ihrer Lehrartikulation und ihres anhaltenden operativen Musters
-- **Skeptische Distanz** — keine Bestätigung der spezifischen historischen Behauptungen des Rahmens über das Kontaktereignis vom 13. Dezember 1973, Behandlung der historisch-empirischen Behauptungen als weiterhin unverifiziert
-- **Wohlwollend-wissenschaftliche Orientierung** — im Allgemeinen Behandlung Raëls als aufrichtige religiöse Figur und nicht als gezielten Betrüger, unter Anerkennung des konsistenten fünfzigjährigen Verhaltensmusters
+### Das Verhältnis zum Rahmen des Korpus
 
-Die etablierte wissenschaftliche Einschätzung ist substantiell verschieden von der breiteren populär-journalistischen Behandlung (die im Allgemeinen skeptisch-kritischer ausfiel) und von der Behandlung durch Anti-Sekten-Organisationen (die im Allgemeinen feindseliger war).
-
-### Rechtlich-politische Behandlung
-
-Die rechtlich-politische Behandlung des Raëlismus hat in verschiedenen nationalen Kontexten substantiell variiert.
-
-**Französischer rechtlich-politischer Kontext.** Die französische Regierung hat über die **Mission interministérielle de vigilance et de lutte contre les dérives sectaires (MIVILUDES)** und die Anti-Sekten-Organisation **Union nationale des associations de défense des familles et de l'individu (UNADFI)** eine substantielle Auseinandersetzung mit dem Raëlismus geführt. Die raëlianische Bewegung ist in verschiedenen Dokumenten der französischen Regierung als *secte* (die französische rechtlich-kulturelle Kategorie problematischer religiöser Gruppen) eingestuft worden, mit verschiedenen rechtlich-politischen Spannungen in den vergangenen Jahrzehnten. Das *About-Picard-Gesetz* von 2001 über Anti-Sekten-Maßnahmen bildete den maßgeblichen nachfolgenden regulatorischen Rahmen.
-
-**Nordamerikanischer rechtlich-politischer Kontext.** Die raëlianische Bewegung hat in Nordamerika mit substantiell geringerer rechtlich-politischer Spannung operiert, wobei der erste Verfassungszusatz der Vereinigten Staaten und der kanadische Religionsfreiheitsschutz einen breiteren institutionellen Schutz bieten. Die Clonaid-Ankündigung von 2002 löste eine substantielle nachfolgende Auseinandersetzung mit der FDA und Health Canada aus, mit verschiedenen regulatorischen Fragen zur menschlichen Klonforschung.
-
-**Europäischer rechtlich-politischer Kontext.** Verschiedene europäische Länder haben eine unterschiedliche rechtlich-politische Auseinandersetzung mit dem Raëlismus geführt; die wichtigsten kontinentaleuropäischen Anti-Sekten-Rahmen (Belgiens Anti-Sekten-Parlamentskommission, der deutsche Sekten-Beauftragte, verschiedene andere) haben substantielle wissenschaftliche und politische Aufmerksamkeit erzeugt.
-
-**Asiatischer rechtlich-politischer Kontext.** Die raëlianische Bewegung hat substantielle Präsenz in Japan und Südkorea, wobei der breitere asiatische religionspluralistische Kontext eine andere rechtlich-politische Auseinandersetzung erzeugt als der europäische Anti-Sekten-Rahmen.
-
-### Das Verhältnis zum Korpus-Rahmen
-
-Der Korpus-Rahmen behandelt die substantielle etablierte wissenschaftliche Auseinandersetzung mit dem Raëlismus als den spezifischen zeitgenössischen akademischen Kontext, innerhalb dessen die Bewegung operiert, befasst sich aber mit dem quellenmateriellen Inhalt direkt und nicht hauptsächlich vermittelt über die verschiedenen wissenschaftlichen Ansätze. Die spezifische Position des Korpus lautet: Die etablierte Forschung hat eine substantielle Auseinandersetzung mit der *institutionellen Entwicklung* und den *soziologischen Merkmalen* der Bewegung geleistet, aber nur begrenzte Auseinandersetzung mit dem *Inhalt* der quellenmateriellen Unterweisung auf operativer Ebene — die spezifische Behandlung von Genesis 1 durch den Rahmen, die kosmisch-politische Rekonstruktion, der Rahmen der präzessionalen Zeitalter, der breitere kosmologische Inhalt. Der distinktive Beitrag des Korpus ist die Auseinandersetzung mit diesem Inhalt und nicht mit der institutionellen Entwicklung der Bewegung.
+Der Korpus nimmt diese Forschung als Kontext, befasst sich aber direkt mit dem Inhalt des Quellenmaterials. Seine Sicht: Die etablierte Forschung hat das institutionelle und soziologische Leben der Bewegung gründlich untersucht, sich aber kaum mit dem *Inhalt* der Unterweisung befasst — der Lesart von Genesis 1, der kosmisch-politischen Rekonstruktion, dem Rahmen der präzessionalen Zeitalter, der weiteren Kosmologie. Dieser Inhalt ist der eigenständige Beitrag des Korpus.
 
 ## In Primärquellen
 
-Das Primärquellenmaterial zum Raëlismus ist substantiell und zeitgenössisch; es umfasst die raëlianische quellenmaterielle Unterweisung, Raëls autobiographische und erläuternde Schriften, die institutionellen Aufzeichnungen der raëlianischen Bewegung und verschiedene nachfolgend veröffentlichte Materialien.
+Die Primärquellen sind die raëlianische Unterweisung selbst, Raëls autobiographische und erläuternde Schriften, die institutionellen Aufzeichnungen der Bewegung und später veröffentlichtes Material.
 
-### Die wichtigsten quellenmateriellen Bücher
+### Die wichtigsten Bücher des Quellenmaterials
 
-Das wichtigste Quellenmaterial für den Lehrinhalt des Raëlismus ist das Korpus der veröffentlichten Werke Raëls:
+Der Lehrinhalt stützt sich auf Raëls veröffentlichte Werke:
 
 - ***Das Buch, das die Wahrheit sagt*** (1974) — hält den Kontakt vom 13. Dezember 1973 und die Hauptlehre fest{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *Das Buch, das die Wahrheit sagt* (1974) — Erstkontakt in Clermont-Ferrand") }}
 - ***Außerirdische brachten mich auf ihren Planeten*** (1975/76) — hält den zweiten Kontakt vom 7. Oktober 1975 und den Besuch auf dem Planeten der Ewigen fest{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Außerirdische brachten mich auf ihren Planeten* (1976) — der Besuch im Périgord") }}
-- ***Empfangen wir die Außerirdischen*** (1979) — einschließlich der zuvor zurückgehaltenen Offenlegung der biologischen Elternschaft und erheblichen Folgematerials{{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="Vorilhon (Raël), *Empfangen wir die Außerirdischen* (1979) — Botschaftsprojekt und Übergang zum Wassermann") }}
-- ***{% wiki(slug="geniocracy") %}Geniokratie{% end %}*** (1978) — substantielle Ausarbeitung des ersten neuen Gebots
+- ***Empfangen wir die Außerirdischen*** (1979) — einschließlich der zuvor zurückgehaltenen Offenlegung der biologischen Abstammung und weiteren Materials{{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="Vorilhon (Raël), *Empfangen wir die Außerirdischen* (1979) — Botschaftsprojekt und Übergang zum Wassermann") }}
+- ***{% wiki(slug="geniocracy") %}Geniokratie{% end %}*** (1978) — Ausarbeitung des ersten neuen Gebots
 - ***Sensuelle Meditation*** (1980) — von den Elohim entworfene Meditationspraktiken
 - ***Ja zum menschlichen Klonen*** (2000) — Auseinandersetzung mit der Klonfrage
-- ***Der Maitreya*** (Anthologie) — Sammlung von Raëls Lehren über die Jahrzehnte nach 1973
-- ***Botschaft der Designer*** (konsolidierte englische Ausgabe 2005) — wichtigster zeitgenössischer Zugang zum maßgeblichen Quellenmaterial{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="Vorilhon (Raël), *Intelligent Design: Message from the Designers* (konsolidierte englische Ausgabe 2005)") }}
+- ***Der Maitreya*** (Anthologie) — Sammlung von Raëls Lehren aus den Jahrzehnten nach 1973
+- ***Botschaft der Designer*** (konsolidierte englische Ausgabe 2005) — wichtigster zeitgenössischer Zugang zum Quellenmaterial{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="Vorilhon (Raël), *Intelligent Design: Message from the Designers* (konsolidierte englische Ausgabe 2005)") }}
 
-Das gesamte quellenmaterielle Korpus ist in etwa dreißig Sprachen übersetzt worden, mit über zwei Millionen weltweit verkauften Exemplaren bis zur Veröffentlichung der konsolidierten englischen Ausgabe im Jahr 2005.
+Der Korpus wurde in etwa dreißig Sprachen übersetzt und hatte bis zur konsolidierten englischen Ausgabe von 2005 weltweit über zwei Millionen verkaufte Exemplare.
 
 ### Die institutionellen Aufzeichnungen
 
-Die institutionellen Aufzeichnungen der raëlianischen Bewegung bilden eine substantielle dokumentarische Grundlage für die institutionelle Geschichte der Bewegung:
+Die institutionellen Aufzeichnungen der Bewegung dokumentieren ihre Geschichte:
 
-- **Publikationen der Bewegung**: *Apocalypse* (internationales Hochglanzmagazin, halbjährlich); *Contact* (wöchentlicher E-Newsletter über raelianews.org)
-- **Institutionelle Websites**: rael.org (Hauptwebsite der raëlianischen Bewegung),{{ cite(id="rael-dot-org", text="[5]", title="rael.org — offizielle Website der International Raëlian Movement") }} elohimembassy.org (Botschaftsprojekt), verschiedene Websites von Tochterorganisationen
-- **Jährliche Seminare und Versammlungen**: Dokumentierte Seminare auf mehreren Kontinenten, mit erheblichen photographischen und filmischen Aufzeichnungen
-- **Interne Kommunikation**: Verschiedene Ebenen interner Kommunikation der raëlianischen Bewegung innerhalb der institutionellen Hierarchie
+- **Publikationen**: *Apocalypse* (internationales Hochglanzmagazin, halbjährlich); *Contact* (wöchentlicher E-Newsletter, raelianews.org)
+- **Websites**: rael.org (Hauptwebsite),{{ cite(id="rael-dot-org", text="[5]", title="rael.org — offizielle Website der International Raëlian Movement") }} elohimembassy.org (Botschaftsprojekt) und Websites der Tochterorganisationen
+- **Seminare und Versammlungen**: auf mehreren Kontinenten dokumentiert, mit Foto- und Videoaufzeichnungen
+- **Interne Kommunikation**: auf jeder Ebene der Hierarchie
 
 ### Die Korrespondenz zur Symbolmodifikation von 1990
 
-Die Modifikation des raëlianischen Symbols der {% wiki(slug="infinity") %}Unendlichkeit{% end %} in den westlichen Zweigen im Jahr 1990 ist durch spezifische Korrespondenz zwischen Raël und den Elohim dokumentiert, die im Quellenmaterial festgehalten ist. Die Korrespondenz hält fest:
+Die Veränderung des raëlianischen Symbols der {% wiki(slug="infinity") %}Unendlichkeit{% end %} in den westlichen Zweigen im Jahr 1990 ist durch Korrespondenz zwischen Raël und den Elohim im Quellenmaterial dokumentiert, die festhält:
 
-- Die spezifische Bedeutung des ursprünglichen Symbols (Davidstern als Symbol der Unendlichkeit im Raum, zentrales Hakenkreuz als Symbol der Unendlichkeit in der Zeit, mit dem breiteren symbolischen Inhalt kosmischer Unendlichkeit)
-- Die mit dem Holocaust verbundenen Komplikationen der Rezeption des Hakenkreuzes im westlichen Kontext nach 1945
-- Die Modifikation von 1990 in den westlichen Zweigen zum Ersatz des zentralen Hakenkreuzes durch einen galaxienförmigen Wirbel
-- Die fortgesetzte Verwendung des ursprünglichen Symbols in Asien, wo das Hakenkreuz in buddhistischen Tempeln ohne die westlichen politisch-historischen Assoziationen erscheint
+- die ursprüngliche Bedeutung (Davidstern für die Unendlichkeit im Raum, zentrales Hakenkreuz für die Unendlichkeit in der Zeit)
+- die mit dem Holocaust verbundenen Komplikationen des Hakenkreuzes in der westlichen Rezeption nach 1945
+- den Ersatz des Hakenkreuzes durch einen galaxienförmigen Wirbel in den westlichen Zweigen im Jahr 1990
+- die fortgesetzte Verwendung des Originals in Asien, wo das Hakenkreuz in buddhistischen Tempeln ohne die westlichen Assoziationen erscheint
 
 ### Die Botschaft vom 13. Dezember 1997
 
-Die telepathische Botschaft Jahwes vom 13. Dezember 1997 liefert spezifischen institutionell-doktrinären Inhalt zum Verhältnis der raëlianischen Bewegung zum breiteren Wassermann-Programm. Der wichtigste Inhalt der Botschaft (ausführlicher im Eintrag [Botschaft](../embassy/) behandelt):
+Die telepathische Botschaft Jahwes vom 13. Dezember 1997 behandelt den Platz der Bewegung im Programm des Wassermann-Zeitalters (ausführlicher im Eintrag [Botschaft](../embassy/) behandelt):
 
-- Die Raëlianer als „das neue auserwählte Volk" mit einem projizierten „neuen verheißenen Land"
-- Die Ermächtigung des Botschaftsprojekts, exterritorialen Status von „allen Nationen der Erde" anzustreben
-- Die Rahmung der projizierten offenen Rückkehr der Allianz als „{% wiki(slug="great-return") %}Große Rückkehr{% end %}"
+- die Raëlianer als „das neue auserwählte Volk“ mit einem „neuen verheißenen Land“
+- die Ermächtigung der Botschaft, exterritorialen Status von „allen Nationen der Erde“ anzustreben
+- die Rahmung der projizierten offenen Rückkehr der Allianz als „{% wiki(slug="great-return") %}Große Rückkehr{% end %}“
 
-### Verschiedene nachfolgende Kommunikationen
+### Verschiedene spätere Mitteilungen
 
-Verschiedene nachfolgende Kommunikationen der raëlianischen Bewegung im Zeitraum nach 1997 bilden einen fortgesetzten dokumentarischen Bestand zur institutionellen Entwicklung und Lehrartikulation der Bewegung. Zu den wichtigsten nachfolgenden Kommunikationen gehören:
-
-- Die Veröffentlichung der *Message from the Designers* im Jahr 2005, die die zeitgenössische konsolidierte englische Ausgabe bereitstellt
-- Verschiedene öffentliche Vorträge und Seminare Raëls im Zeitraum nach 1973
-- Verschiedene institutionelle Ankündigungen zum Botschaftsprojekt, zu Clonaid, zum Orden der Engel und zu anderen organisatorischen Entwicklungen
-- Die Ankündigung des Memorandum of Collaboration von 2024 zu den Verhandlungen über das Gastland des Botschaftsprojekts
+Spätere Mitteilungen setzen die Aufzeichnung fort: die *Message from the Designers* von 2005, Raëls öffentliche Vorträge und Seminare, institutionelle Ankündigungen zur Botschaft, zu Clonaid und zum Orden der Engel sowie das Memorandum of Collaboration von 2024 zu den Verhandlungen über das Gastland der Botschaft.
 
 ## Geschichte
 
-Auf der dokumentarischen Ebene ist die Geschichte des Raëlismus die Geschichte eines französischen Motorsportjournalisten, der zum Gründer einer der institutionell beständigsten zeitgenössischen UFO-Religionen wurde. In der Rahmung des Quellenmaterials ist sie die Geschichte einer einzigen, über fünf Jahrzehnte hinweg ausgeführten Mission — die Arbeit des Wassermann-Zeitalter-Propheten am Aufbau des Empfangs, um den die Allianz gebeten hat. Die beiden Lesarten beschreiben dieselbe Abfolge von Ereignissen auf verschiedenen Schichten, und keine verdrängt die andere. Die vollständige biographische Behandlung des Gründers findet sich im Eintrag [Raël](../rael/); was folgt, ist die institutionelle Geschichte.
+Auf der dokumentarischen Ebene ist die Geschichte des Raëlismus die Geschichte eines französischen Motorsportjournalisten, der zum Gründer einer der institutionell beständigsten zeitgenössischen UFO-Religionen wurde. In der Rahmung des Quellenmaterials ist sie die Geschichte einer einzigen, über fünf Jahrzehnte ausgeführten Mission — der Arbeit des Propheten des Wassermann-Zeitalters am Aufbau des Empfangs, um den die Allianz gebeten hat. Die beiden Lesarten beschreiben dieselbe Abfolge von Ereignissen auf verschiedenen Ebenen, und keine verdrängt die andere. Die vollständige biographische Behandlung des Gründers findet sich im Eintrag [Raël](../rael/); was folgt, ist die institutionelle Geschichte.
 
 ### Ursprünge (1973–1976)
 
 Claude Vorilhon wurde 1946 in Zentralfrankreich geboren und kam aus einer durchweg säkularen Laufbahn zur Kontakterzählung. Er hatte in Paris unter dem Künstlernamen *Claude Celler* eine Musikkarriere verfolgt, dann den Motorsportjournalismus, gründete die Zeitschrift *Auto Pop* und arbeitete als Testfahrer. Als ein französisches Gesetz vom November 1973 gegen Raserei auf Schnellstraßen die Testfahrertätigkeit beendete — *Auto Pop* selbst stellte im Folgejahr ihr Erscheinen ein —, befand sich Vorilhon nach seiner eigenen späteren Darstellung zwischen zwei Berufungen.
 
-Am Morgen des 13. Dezember 1973 berichtete Vorilhon, im Inneren des Puy-de-Lassolas, einem der vulkanischen Krater der Chaîne des Puys bei Clermont-Ferrand, gegangen zu sein, als ein Flugkörper herabstieg und ein etwa 1,20 Meter großes Wesen heraustrat. Das Wesen bat ihn, am folgenden Tag mit einer Bibel zurückzukehren; im Laufe von sechs aufeinanderfolgenden Tagen führte der Besucher Vorilhon Abschnitt für Abschnitt durch den biblischen Text und las ihn als die verdichtete historische Aufzeichnung der Schöpfungsarbeit der Elohim auf der Erde neu. Die Begegnung und die im Laufe dieser sechs Tage übermittelte Unterweisung wurden zu *Das Buch, das die Wahrheit sagt* (1974).{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *Das Buch, das die Wahrheit sagt* (1974) — Erstkontakt in Clermont-Ferrand") }}
+Am Morgen des 13. Dezember 1973 berichtete Vorilhon, im Inneren des Puy-de-Lassolas, eines der Vulkankrater der Chaîne des Puys bei Clermont-Ferrand, gegangen zu sein, als ein Flugkörper herabstieg und ein etwa 1,20 Meter großes Wesen heraustrat. Das Wesen bat ihn, am folgenden Tag mit einer Bibel zurückzukehren; an sechs aufeinanderfolgenden Tagen führte der Besucher Vorilhon Abschnitt für Abschnitt durch den biblischen Text und las ihn neu als die verdichtete historische Aufzeichnung des Wirkens der Elohim auf der Erde. Die Begegnung und die in diesen sechs Tagen übermittelte Unterweisung wurden zu *Das Buch, das die Wahrheit sagt* (1974).{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *Das Buch, das die Wahrheit sagt* (1974) — Erstkontakt in Clermont-Ferrand") }}
 
-Das erste organisatorische Vehikel folgte rasch. Der Rundbrief *Apocalypse* begann im Oktober 1974, und im Dezember 1974 rief Vorilhon **MADECH** ins Leben — *Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité*, die „Bewegung zum Empfang der Elohim, Schöpfer der Menschheit". In dieser Zeit nahm Vorilhon den Namen **Raël** an. MADECH erwies sich als fragile erste Struktur: Im Laufe des Jahres 1975 entwickelte sich ein Machtkampf zwischen Raël und dem Vorstand der Vereinigung, der im Juli 1975 in seiner Entlassung der Vorstandsmitglieder und deren Ersetzung durch einen kleineren Kreis von Unterstützern gipfelte.{{ footnote(id="7") }}
+Das erste organisatorische Vehikel folgte rasch. Der Rundbrief *Apocalypse* erschien ab Oktober 1974, und im Dezember 1974 rief Vorilhon **MADECH** ins Leben — *Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité*, die „Bewegung zum Empfang der Elohim, Schöpfer der Menschheit“. In dieser Zeit nahm Vorilhon den Namen **Raël** an. MADECH erwies sich als fragile erste Struktur: Im Laufe des Jahres 1975 entwickelte sich ein Machtkampf zwischen Raël und dem Vorstand der Vereinigung, der im Juli 1975 darin gipfelte, dass er die Vorstandsmitglieder entließ und durch einen kleineren Kreis von Unterstützern ersetzte.{{ footnote(id="7") }}
 
-Der zweite Kontakt rahmte das gesamte Projekt neu. Raël berichtete, dass die Elohim am 7. Oktober 1975 zurückkehrten, ihn an Bord ihres Flugkörpers nahmen und auf ihren eigenen Planeten brachten, wo ihm die Zivilisation der Ewigen gezeigt und die weitere Unterweisung erteilt wurde, die in *Außerirdische brachten mich auf ihren Planeten* (1975/76) festgehalten ist.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Außerirdische brachten mich auf ihren Planeten* (1976) — der Besuch im Périgord") }} Mit dem zweiten Kontakt verschob sich die Behauptung der Bewegung vom Bericht eines einzelnen Mannes über eine Begegnung am Straßenrand zu einem ausgearbeiteten kosmologischen und ethischen Programm. Im Februar 1976 löste Raël MADECH auf und gründete die Bewegung auf religiöser statt vereinsrechtlicher Grundlage neu — die Struktur, die zur **International Raëlian Movement** wurde, mit der siebenstufigen Hierarchie der Führer und Raël an ihrer Spitze als Führer der Führer.
+Der zweite Kontakt rahmte das gesamte Projekt neu. Raël berichtete, dass die Elohim am 7. Oktober 1975 zurückkehrten und ihn an Bord ihres Flugkörpers auf ihren eigenen Planeten brachten, wo ihm die Zivilisation der Ewigen gezeigt und die weitere Unterweisung erteilt wurde, die in *Außerirdische brachten mich auf ihren Planeten* (1975/76) festgehalten ist.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Außerirdische brachten mich auf ihren Planeten* (1976) — der Besuch auf dem Planeten der Ewigen") }} Mit dem zweiten Kontakt verschob sich die Behauptung der Bewegung vom Bericht eines einzelnen Mannes über eine Begegnung am Wegesrand zu einem ausgearbeiteten kosmologischen und ethischen Programm. Im Februar 1976 löste Raël MADECH auf und gründete die Bewegung auf religiöser statt vereinsrechtlicher Grundlage neu — die Struktur, die zur **International Raëlian Movement** wurde, mit der siebenstufigen Hierarchie der Führer und Raël an ihrer Spitze als Führer der Führer.
 
 ### Spätere Entwicklung (1976–heute)
 
-Das erste Jahrzehnt der Bewegung war eines der geografischen Verbreitung. 1976 wurde eine Mission nach Quebec entsandt und 1977 ein Québécois-Zweig errichtet; die frankokanadische Mitgliedschaft wurde — und blieb — eines der organisatorischen Schwergewichtszentren der Bewegung. Weitere Missionen folgten — Japan 1980, Afrika 1982, Australien 1990 — und etablierten das Muster nationaler Zweige, das schließlich etwa neunzig Länder erreichen sollte. In der Rahmung des Quellenmaterials ist diese Verbreitung die kumulative prophetische Tradition, die zum ersten Mal eine wissenschaftlich gebildete globale Bevölkerung erreicht; auf der soziologischen Ebene ist es das gewöhnliche Expansionsmuster einer neuen religiösen Bewegung mit einem mobilen, engagierten Kern.
+Das erste Jahrzehnt der Bewegung war eines der geografischen Verbreitung. 1976 wurde eine Mission nach Quebec entsandt und 1977 ein Québécois-Zweig errichtet; die frankokanadische Mitgliedschaft wurde — und blieb — eines der organisatorischen Schwerpunktzentren der Bewegung. Weitere Missionen folgten — Japan 1980, Afrika 1982, Australien 1990 — und etablierten das Muster nationaler Zweige, das schließlich etwa neunzig Länder erreichen sollte. In der Rahmung des Quellenmaterials ist diese Verbreitung die kumulative prophetische Tradition, die zum ersten Mal eine wissenschaftlich gebildete Weltbevölkerung erreicht; auf der soziologischen Ebene ist es das gewöhnliche Expansionsmuster einer neuen religiösen Bewegung mit einem mobilen, engagierten Kern.
 
-Das dritte Buch, *Empfangen wir die Außerirdischen* (1979), tat zwei Dinge, die alles Nachfolgende prägten.{{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="Vorilhon (Raël), *Empfangen wir die Außerirdischen* (1979) — Botschaftsprojekt und Übergang zum Wassermann") }} Es führte das **Botschaftsprojekt** ein — die Forderung, einen physischen Komplex mit exterritorialem Status zu errichten, um die offene Rückkehr der Allianz zu empfangen —, das seither das zentrale langfristige Unterfangen der Bewegung gewesen ist. Und es hielt die zuvor zurückgehaltene Offenlegung fest, dass Jahwe Raëls eigener biologischer Vater ist, was den Propheten innerhalb der Linie der Allianz verortet und nicht bloß als deren Boten. Die Offenlegung schließt die kumulative prophetische Tradition auf sich selbst: Der letzte Prophet wird als verwandt mit der Figur gelesen, der die früheren Lehrer der Tradition dienten.
+Das dritte Buch, *Empfangen wir die Außerirdischen* (1979), tat zwei Dinge, die alles Nachfolgende prägten.{{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="Vorilhon (Raël), *Empfangen wir die Außerirdischen* (1979) — Botschaftsprojekt und Offenlegung der Abstammung") }} Es führte das **Botschaftsprojekt** ein — die Forderung, einen physischen Komplex mit exterritorialem Status zu errichten, um die offene Rückkehr der Allianz zu empfangen —, das seither das zentrale langfristige Unterfangen der Bewegung ist. Und es hielt die zuvor zurückgehaltene Offenlegung fest, dass Jahwe Raëls eigener biologischer Vater ist, was den Propheten innerhalb der Abstammungslinie der Allianz verortet und nicht bloß als ihren Boten. Die Offenlegung schließt die kumulative prophetische Tradition in sich selbst: Der letzte Prophet wird als verwandt mit der Figur gelesen, der die früheren Lehrer der Tradition dienten.
 
-Die 1980er und 1990er Jahre waren in etwa zu gleichen Teilen eine Zeit des Eigentums, der Konsolidierung und der Kontroverse. Die Bewegung erwarb in den 1980er Jahren einen Campingplatz bei Albi in Südfrankreich und nannte ihn Eden; 1992 kaufte sie rund 115 Hektar bei Valcourt, Quebec, benannt *Le Jardin du Prophète* („der Garten des Propheten"), und eröffnete dort 1997 das Museum **UFOland**, das sie 2001 als finanziell nicht tragfähig für die Öffentlichkeit schloss. Die **Modifikation des {% wiki(slug="raelian-symbol-of-infinity") %}raëlianischen Symbols der Unendlichkeit{% end %} von 1990** — die Ersetzung des zentralen Hakenkreuzes durch einen galaxienförmigen Wirbel in den westlichen Zweigen — gehört in diese Zeit, ebenso wie die Gründung von **Clonaid** 1997 und die Gründung des **Ordens der Engel** 1998.
+Die 1980er und 1990er Jahre waren zu etwa gleichen Teilen eine Zeit des Grunderwerbs, der Konsolidierung und der Kontroverse. Die Bewegung erwarb in den 1980er Jahren einen Campingplatz bei Albi in Südfrankreich und nannte ihn Eden; 1992 kaufte sie rund 115 Hektar bei Valcourt, Quebec, genannt *Le Jardin du Prophète* („der Garten des Propheten“), eröffnete dort 1997 das Museum **UFOland** und schloss es 2001 als finanziell nicht tragfähig für die Öffentlichkeit. Die **Veränderung des {% wiki(slug="raelian-symbol-of-infinity") %}raëlianischen Symbols der Unendlichkeit{% end %} von 1990** — der Ersatz des zentralen Hakenkreuzes durch einen galaxienförmigen Wirbel in den westlichen Zweigen — gehört in diese Zeit, ebenso wie die Gründung von **Clonaid** 1997 und die Gründung des **Ordens der Engel** 1998.
 
-Das höchste öffentliche Profil erreichte die Bewegung mit der **Clonaid-Ankündigung vom Dezember 2002** über den angeblich geklonten Säugling „Eve", nie unabhängig verifiziert; im Januar 2003 ernannte Raël die Clonaid-Präsidentin Brigitte Boisselier zu seiner Nachfolgerin. Ebenfalls 2003 identifizierte sich Raël öffentlich als der **Maitreya** der Mahayana-buddhistischen Erwartung und veröffentlichte *Der Maitreya*, und die südkoreanischen Behörden verweigerten ihm die Einreise ins Land. Die konsolidierte englische Ausgabe von 2005, *Message from the Designers*, fasste die grundlegenden Bücher zum wichtigsten zeitgenössischen Zugang der Bewegung zusammen.{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="Vorilhon (Raël), *Intelligent Design: Message from the Designers* (konsolidierte englische Ausgabe 2005)") }}
+Ihr höchstes öffentliches Profil erreichte die Bewegung mit der **Clonaid-Ankündigung vom Dezember 2002** über den angeblich geklonten Säugling „Eve“, die nie unabhängig verifiziert wurde; im Januar 2003 ernannte Raël die Clonaid-Präsidentin Brigitte Boisselier zu seiner Nachfolgerin. Ebenfalls 2003 identifizierte sich Raël öffentlich als den **Maitreya** der mahayana-buddhistischen Erwartung und veröffentlichte *Der Maitreya*, und die südkoreanischen Behörden verweigerten ihm die Einreise. Die konsolidierte englische Ausgabe von 2005, *Message from the Designers*, fasste die grundlegenden Bücher zum wichtigsten zeitgenössischen Zugang der Bewegung zusammen.{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="Vorilhon (Raël), *Intelligent Design: Message from the Designers* (konsolidierte englische Ausgabe 2005)") }}
 
-Die Zeit nach 2005 war um die Botschaft herum organisiert. Die Bewegung reichte 2015 ein vorgeschlagenes *UN-Optionalprotokoll zu Botschaften für Extraterrestrische* ein, gründete 2021 die **Allianz für extraterrestrischen diplomatischen Kontakt (AEDC)**, präsentierte 2022 fünfzig ausgewählten Städten über ihre Bürgermeister den Botschaftsvorschlag und kündigte 2024 ein Memorandum of Collaboration mit einer nicht offengelegten nationalen Regierung an — die zeitgenössische Entwicklung, die die Bewegung als Annäherung an ein Konstruktionsfenster später in diesem Jahrzehnt rahmt. Wie ihr letztliches Ergebnis auch ausfallen mag, die Beständigkeit des Botschaftsfadens über fünf Jahrzehnte hinweg zählt zu den auffälligeren Merkmalen der institutionellen Aufzeichnung: dasselbe 1979 spezifizierte Projekt strukturiert in den 2020er Jahren noch immer die Aktivität der Bewegung.
+Die Zeit nach 2005 war um die Botschaft herum organisiert. Die Bewegung reichte 2015 ein vorgeschlagenes *UN-Fakultativprotokoll über Botschaften für Außerirdische* ein, gründete 2021 die **Allianz für extraterrestrischen diplomatischen Kontakt (AEDC)**, stellte 2022 fünfzig ausgewählten Städten über deren Bürgermeister den Botschaftsvorschlag vor und kündigte 2024 ein Memorandum of Collaboration mit einer nicht genannten nationalen Regierung an — die gegenwärtige Entwicklung, die die Bewegung als Annäherung an ein Bauzeitfenster später in diesem Jahrzehnt rahmt. Wie ihr Ausgang auch sein mag, die Beständigkeit des Botschaftsfadens über fünf Jahrzehnte gehört zu den auffälligsten Merkmalen der institutionellen Aufzeichnung: Dasselbe 1979 festgelegte Projekt organisiert die Tätigkeit der Bewegung noch in den 2020er Jahren.
 
 ## Der Inhalt des Begriffs
 
 ### Der Lehrrahmen
 
-Der Lehrrahmen des Raëlismus umfasst mehrere ineinandergreifende Komponenten:
+Der Lehrrahmen hat mehrere miteinander verbundene Komponenten:
 
-**Der Schöpfungsrahmen der Elohim.** Die Elohim-Zivilisation, eine fortgeschrittene biologische Zivilisation, der zeitgenössischen Menschheitswissenschaft um 25.000 Jahre voraus, hat alles Leben auf der Erde in den vergangenen 25.000 Jahren durch gezielte Gentechnik geschaffen. Der Schöpfungsbericht von Genesis 1 in der hebräischen {% wiki(slug="bible") %}Bibel{% end %} bewahrt eine substantiell korrekte Erinnerung an diese Schöpfungsarbeit in vorwissenschaftlichem Vokabular; die elohim des hebräischen Textes beziehen sich auf mehrere Individuen (die Elohim-Zivilisation) und nicht auf eine einzelne Gottheit.{{ cite(id="genesis", text="[6]", title="Genesis 1 — der Schöpfungsbericht mit pluralischem Subjekt, gelesen als Werk der Elohim-Zivilisation") }} Die Elohim sind keine Götter in irgendeinem übernatürlichen Sinn; sie sind fortgeschrittene Wesen menschlicher Art, ihrerseits von einer früheren Zivilisation in der breiteren kosmischen Kette geschaffen.
+**Der Schöpfungsrahmen der Elohim.** Die Elohim — eine biologische Zivilisation, der gegenwärtigen menschlichen Wissenschaft um etwa 25.000 Jahre voraus — schufen in den vergangenen 25.000 Jahren alles Leben auf der Erde durch gezielte Gentechnik. Genesis 1 in der hebräischen {% wiki(slug="bible") %}Bibel{% end %} bewahrt eine zutreffende Erinnerung an dieses Werk in vorwissenschaftlicher Sprache{{ cite(id="genesis", text="[6]", title="Genesis 1 — der Schöpfungsbericht mit pluralischem Subjekt, gelesen als Werk der Elohim-Zivilisation") }}: Die *elohim* des Textes sind eine Mehrzahl von Individuen, nicht eine einzelne Gottheit. Sie sind keine Götter in irgendeinem übernatürlichen Sinn, sondern fortgeschrittene Wesen menschlicher Art, ihrerseits von einer früheren Zivilisation in der Kosmischen Kette geschaffen.
 
-**Die kumulative prophetische Tradition.** Der Kanon setzt etwa vierzig Vertreter der infolge der Kontakte der Elohim geschaffenen Religionen an Jahwes Tisch (ETTMTTP-2:64), wobei jeder Prophet dem spezifischen kulturell-zeitlichen Moment angemessen war, in dem er erschien, und jeder zur kumulativen Vorbereitung der Menschheit auf die Wassermann-Offenbarung beitrug. Mose, Elija, Jesus, Mohammed, Buddha und verschiedene andere prophetische Hauptfiguren der Weltreligionen werden als von der Allianz beauftragte Lehrer gelesen, die substantiell korrekten Inhalt innerhalb der ihnen zur Verfügung stehenden kulturell-religiösen Vokabulare vermittelten. Raël ist „der Letzte der Linie der Propheten“ (ETTMTTP-3:257), die spezifische Wassermann-Figur, deren Mission einer wissenschaftlich reifen Menschheit den genauen Bericht über die menschlichen Ursprünge übermittelt.
+**Die kumulative prophetische Tradition.** Der Kanon setzt etwa vierzig Vertreter der nach den Kontakten der Elohim entstandenen Religionen an Jahwes Tisch (ETTMTTP-2:64), wobei jeder Prophet seinem kulturellen Moment entsprach und jeder zur Vorbereitung der Menschheit auf die Offenbarung des Wassermann-Zeitalters beitrug. Mose, Elija, Jesus, Mohammed, Buddha und andere werden als von der Allianz beauftragte Lehrer gelesen, die zutreffenden Inhalt in den ihnen verfügbaren Vokabularen vermittelten. Raël ist „der Letzte der Linie der Propheten“ (ETTMTTP-3:257), der Prophet des Wassermann-Zeitalters, der einer wissenschaftlich reifen Menschheit den wahren Bericht über die menschlichen Ursprünge überbringt.
 
-**Die sieben neuen Gebote.** Die Allianz hat für das Wassermann-Zeitalter ein spezifisches politisch-religiöses Programm vorgeschlagen, das sieben spezifische Gebote umfasst (im Folgenden detailliert behandelt). Die Gebote strukturieren das breitere Wassermann-Programm menschlicher Transformation hin zum projizierten Goldenen Zeitalter.
+**Die sieben neuen Gebote.** Das politisch-religiöse Programm der Allianz für das Wassermann-Zeitalter in sieben Teilen (im Folgenden ausgeführt), das das Zeitalter auf das Goldene Zeitalter ausrichtet.
 
-**Das Botschaftsprojekt.** Die Allianz benötigt eine designierte physische Struktur mit exterritorialem Status als operativen Ort für die projizierte offene Rückkehr. Die Botschaftsspezifikationen und das breitere Botschaftsprojekt werden ausführlicher im Eintrag [Botschaft](../embassy/) behandelt.
+**Das Botschaftsprojekt.** Ein designierter Komplex mit exterritorialem Status zum Empfang der offenen Rückkehr; ausführlich im Eintrag [Botschaft](../embassy/) behandelt.
 
-**Der Wassermann-Rahmen.** Der gegenwärtige kosmische Moment ist die Eröffnung des Wassermann-Zeitalters (ab 1946), das spezifische präzessionale Zeitalter, in dem die Menschheit die offene Rückkehr der Allianz erfahren und vom geschaffenen zum schöpferischen Zivilisationsstatus übergehen wird. Das breitere Wassermann-Programm erstreckt sich über die Jahrhunderte der vollen Entwicklung des Zeitalters.
+**Der Rahmen des Wassermann-Zeitalters.** Das gegenwärtige Zeitalter, das 1946 begann, ist das präzessionale Fenster, in dem die Menschheit die offene Rückkehr empfängt und vom Geschaffenen zum Schöpfer übergeht — ein Programm, das sich über die Jahrhunderte des Zeitalters entfaltet.
 
-**Der Kontext der kosmischen Kette.** Der breitere kosmologische Kontext, innerhalb dessen all dies operiert, ist die kosmische Kette — die unbegrenzt erweiterte Abfolge von geschaffenen und schaffenden Zivilisationen über die kosmische Zeit hinweg. Die detaillierte Behandlung findet sich im Eintrag [Kosmische Kette](../cosmic-chain/).
+**Der Kontext der Kosmischen Kette.** All dies steht innerhalb der Kosmischen Kette, der unabgeschlossenen Abfolge geschaffener und dann selbst schaffender Zivilisationen über die kosmische Zeit hinweg; siehe den Eintrag [Kosmische Kette](../cosmic-chain/).
 
 ### Die Rahmung als atheistische Religion
 
-Die distinktive Rahmung des Raëlismus als **atheistische Religion** operiert durch mehrere spezifische Merkmale:
+Die Rahmung als **atheistische Religion** beruht auf mehreren Punkten:
 
-**Ablehnung einer übernatürlichen Gottheit.** Es gibt keinen Gott in irgendeinem traditionellen theologischen Sinn. Die verschiedenen Bezüge auf „Gott" in der hebräischen Bibel (und die parallelen Bezüge in anderen religiösen Traditionen) bewahren eine substantiell korrekte Erinnerung an den Kontakt mit der Elohim-Allianz, aber die Elohim sind nicht göttlich in irgendeinem übernatürlichen Sinn; sie sind fortgeschrittene biologische Wesen menschlicher Art.
+**Keine übernatürliche Gottheit.** Es gibt keinen Gott im traditionellen Sinn. Die Bezüge der hebräischen Bibel auf „Gott“ und ihre Parallelen anderswo bewahren eine zutreffende Erinnerung an den Kontakt mit den Elohim, die nicht göttlich, sondern fortgeschrittene biologische Wesen menschlicher Art sind.
 
-**Ablehnung einer unsterblichen Seele.** Es gibt keine unsterbliche Seele, die den Tod des Körpers überlebt. Das Lebensprinzip ist der genetische Code, der selbst eine physische Struktur ist, die in der biologischen Materie jedes Organismus bewahrt wird. Die Biotechnologie der Elohim kann individuelle Identität durch Zellplan-Übertragung und anschließende Neuschöpfung bewahren und rekonstruieren, aber diese Bewahrung ist eine technische Operation innerhalb der gewöhnlichen materiellen Welt und kein metaphysisch-übernatürlicher Vorgang.
+**Keine unsterbliche Seele.** Nichts überlebt den Tod des Körpers. Das Lebensprinzip ist der genetische Code, eine physische Struktur in der Materie jedes Organismus. Die Biotechnologie der Elohim kann eine Person durch die Übertragung des Zellplans und spätere Neuschöpfung aufzeichnen und rekonstruieren, doch dies ist ein technischer Vorgang innerhalb der materiellen Welt, kein metaphysischer.
 
-**Ablehnung der Erbsünde und metaphysischer Verunreinigung.** Es gibt keine Erbsünde, keine ererbte Schuld, keine metaphysische Verunreinigung, die ritueller Reinigung bedarf. Die moralischen und psychologischen Strukturen, die die traditionellen Religionen zur Adressierung dieser angeblichen Zustände entwickelten, sind im raëlianischen Rahmen unnötig.
+**Keine Erbsünde.** Keine ererbte Schuld, keine Verunreinigung, die ritueller Reinigung bedarf — und daher kein Bedarf an der moralischen Maschinerie, die traditionelle Religionen zu ihrer Behandlung errichteten.
 
-**Bewahrung religiöser Dimensionen.** Trotz der Ablehnung übernatürlich-göttlicher Inhalte bewahrt der Raëlismus erhebliche religiöse Dimensionen:
+**Bewahrte religiöse Dimensionen.** Was bleibt, ist von einer Gottheit abgewandt, aber dennoch religiös:
 
-- **Ehrfurcht**: Der unendliche Kosmos selbst ist das angemessene Objekt religiöser Ehrfurcht, mit substantiellen Implikationen für die breitere raëlianische spirituelle Orientierung
-- **Sinn**: Der kosmisch-schöpferische Zyklus und die projizierte Rolle der Menschheit darin liefern substantiellen sinnstiftenden Inhalt
-- **Ethisches Engagement**: Die sieben neuen Gebote und das breitere Wassermann-Programm liefern substantiellen ethischen Inhalt
-- **Rituelle Praxis**: Die verschiedenen raëlianischen Praktiken (Zellplan-Übertragung, sensuelle Meditation, telepathischer Kontakt, jährliche Versammlungen, Kontaktjahrestag-Gedenkfeiern) liefern eine substantielle rituelle Struktur
-- **Gemeinschaft**: Die raëlianische Gemeinschaft liefert substantielle religiös-gemeinschaftliche Dimensionen
+- **Ehrfurcht** — gerichtet auf den unendlichen Kosmos selbst
+- **Sinn** — die projizierte Rolle der Menschheit im kosmisch-schöpferischen Zyklus
+- **Ethik** — die sieben neuen Gebote und das Programm des Wassermann-Zeitalters
+- **Ritual** — Übertragung des Zellplans, sensuelle Meditation, telepathischer Kontakt, jährliche Versammlungen und das Gedenken an die Kontaktjahrestage
+- **Gemeinschaft** — die raëlianische Gemeinschaft selbst
 
-Die Rahmung als atheistische Religion ist strukturell besonders innerhalb der breiteren religiösen Bewegungslandschaft — sie verortet den Raëlismus innerhalb einer spezifischen Teilmenge religiöser Bewegungen, die ohne übernatürlich-göttlichen Inhalt operieren und zugleich erhebliche religiöse Dimensionen bewahren. Die detaillierte vergleichende Behandlung findet sich im Abschnitt *Vergleichende Beobachtungen* weiter unten.
+Dies verortet den Raëlismus unter den religiösen Bewegungen, die die Dimensionen der Religion ohne übernatürliche Gottheit bewahren — ausführlich verglichen unter *Vergleichende Beobachtungen* weiter unten.
 
 ### Die sieben neuen Gebote
 
-Die sieben neuen Gebote strukturieren das breitere politisch-religiöse Programm des Wassermann-Zeitalters. Die detaillierte Behandlung jedes Gebots findet sich im Eintrag [Zeitalter des Wassermanns](../../timeline/age-of-aquarius/); der spezifische Beitrag des Raëlismus-Eintrags besteht darin, die Gebote innerhalb des breiteren Lehrrahmens zu registrieren:
+Die sieben Gebote rahmen das politisch-religiöse Programm des Wassermann-Zeitalters; jedes wird ausführlich im Eintrag [Zeitalter des Wassermanns](../../timeline/age-of-aquarius/) behandelt. In Kürze:
 
-**1. Geniokratie** — selektive Demokratie mit intelligenzbasierter Eignung für Ämter (50 % über dem Mittel) und für das Wahlrecht (10 % über dem Mittel); als langfristiges Entwicklungsziel und nicht als unmittelbare institutionelle Veränderung positioniert{{ footnote(id="3") }}
+**1. Geniokratie** — selektive Demokratie mit Intelligenzschwellen für Ämter (50 % über dem Mittel) und für das Wahlrecht (10 % über dem Mittel); ein langfristiges Ziel, keine unmittelbare Reform{{ footnote(id="3") }}
 
-**2. {% wiki(slug="humanitarianism") %}Humanitarismus{% end %}** — Ersetzung von Eigentum durch Pacht auf befristete Zeit (49 Jahre, aus dem Jubiläumsmuster von {% libref(book="leviticus", chapter=25) %}Levitikus 25{% end %} entlehnt); Beseitigung vererbbaren Wohlstands bei Bewahrung der individuellen Anreizstruktur
+**2. {% wiki(slug="humanitarianism") %}Humanitarismus{% end %}** — Eigentum ersetzt durch befristete Pacht (49 Jahre, nach dem Jubeljahrmuster von {% libref(book="leviticus", chapter=25) %}Levitikus 25{% end %}) und Abschaffung vererbbaren Vermögens bei Erhalt des individuellen Anreizes
 
-**3. Weltregierung** — vereinte planetare Autorität mit einer einzigen globalen Währung, einer einzigen gemeinsamen Zweitsprache neben den lokalen Muttersprachen, einem einzigen Koordinationsrahmen für Angelegenheiten auf planetarer Ebene
+**3. Weltregierung** — eine planetare Autorität, eine einzige globale Währung und eine gemeinsame Zweitsprache neben den lokalen Muttersprachen
 
-**4. Entmilitarisierung** — Abschaffung der Wehrpflicht, Berufsarmeen in den Dienst der Öffentlichkeit gestellt, Unterdrückung zwischenstaatlicher Kriege
+**4. Entmilitarisierung** — ein Ende der Wehrpflicht und zwischenstaatlicher Kriege, mit Berufsarmeen, die in den öffentlichen Dienst überführt werden
 
-**5. Wissenschaft als Religion** — Ausrichtung religiöser Dimensionen auf wissenschaftliches Verständnis statt auf übernatürlich-theologische Inhalte
+**5. Wissenschaft als Religion** — religiöse Aufmerksamkeit, die sich dem wissenschaftlichen Verständnis statt übernatürlicher Theologie zuwendet
 
-**6. Telepathische Kultivierung** — systematische Entwicklung der latenten telepathischen Fähigkeit bei Kindern durch Meditationspraktiken und Bildungsprogramme
+**6. Telepathische Kultivierung** — systematische Entwicklung der latenten Telepathie bei Kindern durch Meditation und Schulbildung
 
-**7. Metaphysische Klärungen** — Ablehnung der unsterblichen Seele, der Erbsünde und der metaphysischen Verunreinigung, die ritueller Reinigung bedarf
+**7. Metaphysische Klärungen** — Ablehnung der unsterblichen Seele, der Erbsünde und jeder Verunreinigung, die einer Reinigung bedarf
 
-Die Gebote werden als breitere richtungsweisende Orientierung präsentiert, an der sich das Wassermann-Zeitalter über die Jahrhunderte seiner vollen Umsetzung entwickeln soll, und nicht als unmittelbare institutionelle Anordnungen.
+Sie werden als langfristige Richtung des Zeitalters über seine Jahrhunderte hinweg präsentiert, nicht als unmittelbare Anordnungen.
 
 ### Die wichtigsten Praktiken
 
-Die wichtigsten Praktiken des Raëlismus umfassen mehrere distinktive Elemente:
+Die wichtigsten Praktiken:
 
-**Übertragung des Zellplans (raëlianische Taufe).** Das wichtigste raëlianische Initiationsritual, durchgeführt an vier jährlichen Daten, die bedeutsamen Momenten in der prophetischen Tradition entsprechen: 6. April (das von der Quelle angegebene Datum für verschiedene Gedenkfeiern), 6. August (der Atombombenabwurf auf Hiroshima — die spezifische Identifizierung der akustischen Signatur der Wassermann-Eröffnung durch die Quelle), 7. Oktober (Jahrestag des zweiten Kontakts von 1975 am Roc Plat), 13. Dezember (Jahrestag des Erstkontakts von 1973 am Puy-de-Lassolas).
+**Übertragung des Zellplans (raëlianische Taufe).** Der zentrale Initiationsritus, vollzogen an vier jährlichen Daten, die an die prophetische Tradition gebunden sind: 6. April, 6. August (der Atombombenabwurf auf Hiroshima, den die Quelle als akustische Signatur der Eröffnung des Wassermann-Zeitalters liest), 7. Oktober (der zweite Kontakt von 1975 am Roc Plat) und 13. Dezember (der Erstkontakt von 1973 am Puy-de-Lassolas). Ein Führer legt dem Initianden eine Hand auf die Stirn, mit Wasser als leitendem Medium. In Marcel Terrusses Essay, abgedruckt im dritten Buch (LWTE-4:75–78), nicht in den Botschaften oder in Raëls eigener Stimme, trägt jeder Mensch einen zellulär-chromosomischen Plan mit eigener elektromagnetischer Emission; ein Führer, dessen Frequenz die Elohim bei seiner eigenen Initiation registrierten, übermittelt das neue Mitglied an den Satelliten der Elohim, der jeden menschlichen Gedanken aufzeichnet — und zeigt damit an, dass das Mitglied die Botschaften verstanden hat und nach ihnen lebt. Der Ritus verzeichnet die genetische Identität des Einzelnen in den Aufzeichnungen der Allianz, die Grundlage für eine mögliche spätere Neuschöpfung auf dem Planeten der Ewigen.
 
-Der spezifische Inhalt der Zeremonie: Ein Führer legt seine Hand auf die Stirn des neuen Raëlianers, wobei Wasser als elektrisch leitendes Medium zwischen der Hand des Führers und der Stirn des neuen Raëlianers dient. In Marcel Terrusses Essay, abgedruckt im dritten Buch (LWTE-4:75–78), nicht in den Botschaften oder in Raëls eigener Stimme, hat jedes Individuum einen für ihn spezifischen zellulären chromosomischen Plan, der mit seiner eigenen elektromagnetischen Spektralemission vibriert; ein Führer, dessen eigene Frequenz von den Elohim während seiner eigenen Initiation registriert wurde, kann als Relais zwischen dem neuen Raëlianer und dem Satelliten der Elohim fungieren, der jeden menschlichen Gedanken aufzeichnet; die Zeremonie zeigt den Elohim an, dass der neue Raëlianer die Botschaften sowohl verstanden hat als auch nach ihnen lebt.
+**Bewahrung des Stirnbeins.** Nach dem Tod soll das Stirnbein des Mitglieds an den Führer der Führer gesandt werden. Erkennt die Taufe die Elohim zu Lebzeiten als Schöpfer an, so erkennt dies sie im Tod an — zusammen „Anerkennung im Leben wie im Tod“. Die Bitte hat logistische und rechtliche Komplikationen aufgeworfen; sie wird in den Testamenten der Mitglieder festgehalten und in den verschiedenen Rechtsordnungen uneinheitlich durchgesetzt.
 
-Die breitere operative Bedeutung der Zeremonie ist die formelle Registrierung der genetischen Identität des Individuums in den Aufzeichnungen der Allianz, was die Grundlage für eine potenzielle spätere Neuschöpfung auf dem Planeten der Ewigen bildet.
+**Sensuelle Meditation.** Praktiken, die die Elohim zur Erweckung der Sinne und zur Erlangung innerer Harmonie entworfen haben sollen, dargelegt in *Sensuelle Meditation* (1980) und in späteren Seminaren erweitert — Meditationstechniken, Übungen zur Körperwahrnehmung und zur Kultivierung der Sinne. Ihr sexueller Inhalt hat beständige Mainstream-Kritik hervorgerufen, die weiter unten behandelt wird.
 
-**Stirnbein-Bewahrung.** Nach dem Tod wird darum gebeten, das Stirnbein des Raëlianers zur Bewahrung an den Führer der Führer zu senden. Die spezifische Rahmung der Quelle: Die Zellplan-Übertragung ist eine Anerkennung der Elohim als Schöpfer zu Lebzeiten; die Stirnbein-Bewahrung ist eine Anerkennung nach dem Tod; zusammen bilden sie „Anerkennung im Leben wie im Tod".
+**Telepathischer Kontakt.** Geist-zu-Geist-Kommunikation mit den Elohim, praktiziert besonders sonntagmorgens um 11 Uhr mit festgelegten meditativen Techniken.
 
-Die Stirnbein-Bewahrung hat substantielle logistische und rechtliche Komplikationen erzeugt, mit verschiedenen raëlianischen Testamenten, die diese Bitte spezifizieren, und mit verschiedenen Rechtsordnungen, die unterschiedliche Ergebnisse hinsichtlich der Durchsetzbarkeit der Bitte erzeugen.
+**Jährliche Bergversammlung.** Die Quelle fordert eine jährliche Versammlung auf einem Berg nahe der Residenz — dem Standort der Botschaft, sobald sie errichtet ist —, bei der sich die Mitglieder auf die Allianz und ihr Kommen konzentrieren. Sie wird seit 1973 an wechselnden Orten abgehalten und erwartet die Botschaft für ihre volle Gestalt.
 
-**Sensuelle Meditation.** Die von den Elohim entworfenen Meditationspraktiken zur Erweckung der Sinne und zur Erlangung innerer Harmonie. Der detaillierte Praxisinhalt ist in *Sensuelle Meditation* (1980) bewahrt, mit substantieller späterer Ausarbeitung durch raëlianische Seminare und Publikationen. Die Praktiken umfassen verschiedene spezifische Meditationstechniken, Körperbewusstseinsübungen und einen breiteren Inhalt zur Sinneskultivierung.
-
-Die Praktiken der sensuellen Meditation haben aufgrund ihrer ausdrücklich sexuellen Inhalte erhebliche Mainstream-Kritik hervorgerufen, wobei sich verschiedene journalistische und breitere öffentliche Auseinandersetzungen auf diese Dimension konzentrierten. Die detaillierte Behandlung der verschiedenen Kontroversen findet sich weiter unten.
-
-**Telepathischer Kontakt.** Die Praxis der Geist-zu-Geist-Kommunikation mit den Elohim, insbesondere sonntagmorgens um 11 Uhr durchgeführt (die von der Quelle für die regelmäßige Praxis des telepathischen Kontakts angegebene spezifische Zeit). Die Praxis umfasst spezifische meditativ-kognitive Techniken, die darauf ausgelegt sind, die telepathische Verbindung zu erleichtern.
-
-**Jährliche Bergversammlung.** Die Vorgabe der Quelle für die jährliche Versammlung auf einem Berg in der Nähe des Wohnsitzes (des Botschaftsstandorts nach dessen Errichtung), bei der sich Raëlianer aus aller Welt versammeln, um intensiv an die Allianz zu denken und auf ihr Kommen zu hoffen. Die jährlichen Versammlungen wurden im Zeitraum nach 1973 an verschiedenen Orten abgehalten, wobei der projizierte Abschluss der Botschaft die künftige Operationalisierung der spezifischen Vorgabe der Quelle ermöglichen wird.
-
-**Kontaktjahrestag-Gedenkfeiern.** Die vier jährlichen Gedenkdaten (6. April, 6. August, 7. Oktober, 13. Dezember) liefern die wichtigste raëlianische liturgisch-kalendarische Struktur, mit substantiellen Gedenkversammlungen an diesen Daten in der gesamten globalen raëlianischen Bewegung.
+**Gedenken an die Kontaktjahrestage.** Die vier Daten (6. April, 6. August, 7. Oktober, 13. Dezember) bilden den liturgischen Kalender der Bewegung und werden weltweit mit Versammlungen begangen.
 
 ### Sexualethik, Geschlecht und der Körper
 
-Zu den Merkmalen, die den Raëlismus am stärksten sowohl von den älteren theistischen Traditionen als auch von den meisten anderen UFO-Religionen unterscheiden, gehört seine Sexual- und Körperethik, die Wissenschaftler unterschiedlich als „progressiv" (Bozeman), „weltlich und hedonistisch" (Chryssides) und als Ausdruck „liberaler gesellschaftlicher Werte" (Palmer) charakterisiert haben. Die Ethik folgt unmittelbar aus der oben dargelegten doktrinären Anthropologie. Wenn es keine unsterbliche Seele, keine Erbsünde und keine metaphysische Verunreinigung gibt, dann ist der Körper kein gefallenes Gefäß, das zur Reinheit zu disziplinieren wäre; er ist das biologische Erbe, das die Elohim konstruiert haben, und die Lust ist Teil seiner Konstruktion und keine Versuchung von ihr weg. Die maßgebliche Regel lautet in Raëls Formulierung, dass alles erlaubt ist, was niemandem schadet und das Wachstum des Wissens nicht behindert — eine Einwilligungs- und Schadensethik anstelle einer Reinheitsethik.
+Zu den Merkmalen, die den Raëlismus am stärksten sowohl von den älteren theistischen Traditionen als auch von den meisten anderen UFO-Religionen unterscheiden, gehört seine Sexual- und Körperethik, die Wissenschaftler unterschiedlich als „progressiv“ (Bozeman), „weltlich und hedonistisch“ (Chryssides) und als Ausdruck „liberaler gesellschaftlicher Werte“ (Palmer) charakterisiert haben. Die Ethik folgt unmittelbar aus der oben dargelegten doktrinären Anthropologie. Wenn es keine unsterbliche Seele, keine Erbsünde und keine metaphysische Verunreinigung gibt, dann ist der Körper kein gefallenes Gefäß, das zur Reinheit zu disziplinieren wäre; er ist das biologische Erbe, das die Elohim konstruiert haben, und die Lust ist Teil seiner Konstruktion statt einer Versuchung, die von ihr wegführt. Die maßgebliche Regel lautet in Raëls Formulierung, dass alles erlaubt ist, was niemandem schadet und das Wachstum des Wissens nicht behindert — eine Ethik der Einwilligung und des Nichtschadens anstelle einer Reinheitsethik.
 
-**Sexuelle Freiheit und ihre Grenzen.** Die Mitglieder werden ermutigt, ihre Sexualität zu erkunden; die Bewegung hat öffentlich für Masturbation, Empfängnisverhütung und den Gebrauch von Kondomen geworben und behandelt die sexuelle Orientierung als eine Frage der genetischen Programmierung durch die Elohim, die zu feiern und nicht zu korrigieren ist. Palmers Feldforschung fand Québécois-Raëlianer, die die Bezeichnungen *heterosexuell*, *homosexuell* und *bisexuell* als zu einengend ablehnten. Erzwungene Monogamie und Ehe werden als Institutionen abgelehnt, die als Beschränkung der Frauen und Unterdrückung sexuellen Ausdrucks gelesen werden. Die Permissivität ist begrenzt und nicht unbeschränkt: Inzest, Vergewaltigung und der sexuelle Missbrauch von Kindern sind strenge Tabus, die den Ausschluss nach sich ziehen, und nötigende oder unerwünschte sexuelle Annäherung zieht einen siebenjährigen Ausschluss nach sich — die Spanne, die das Quellenmaterial mit der vollständigen Zellregeneration identifiziert. Der Rahmen ist Einwilligung und Nicht-Schaden, nicht die Aufhebung jeglicher Schranke.
+**Sexuelle Freiheit und ihre Grenzen**. Die Mitglieder werden ermutigt, ihre Sexualität zu erkunden; die Bewegung hat öffentlich für Masturbation, Empfängnisverhütung und Kondomgebrauch geworben und behandelt die sexuelle Orientierung als Sache der genetischen Programmierung durch die Elohim, die zu feiern und nicht zu korrigieren ist. Palmers Feldforschung fand Québécois-Raëlianer, die die Bezeichnungen *heterosexuell*, *homosexuell* und *bisexuell* als zu einengend ablehnten. Erzwungene Monogamie und Ehe werden als Institutionen abgelehnt, die als Einschränkung der Frauen und Unterdrückung sexuellen Ausdrucks gelesen werden. Die Freizügigkeit ist begrenzt, nicht grenzenlos: Inzest, Vergewaltigung und sexueller Missbrauch von Kindern sind strenge Tabus, die mit Exkommunikation geahndet werden, und nötigende oder unerwünschte sexuelle Annäherung zieht einen siebenjährigen Ausschluss nach sich — die Spanne, die das Quellenmaterial mit der vollständigen Zellerneuerung identifiziert. Der Rahmen ist Einwilligung und Nichtschaden, nicht die Aufhebung jeder Schranke.
 
-**Geschlecht und der formbare Körper.** Raël behandelt Geschlecht als künstliches Konstrukt und betont seine Fluidität; transgender Mitglieder werden akzeptiert, und Transfrauen werden in den Orden der Engel aufgenommen. Palmer liest Raël so, dass er Frauen als den Elohim näherstehend betrachtet — die im Quellenmaterial als weit femininer denn maskulin beschrieben werden —, und hält seinen Vorschlag fest, dass weltweite weibliche politische Führung den Krieg beenden würde, eine Position, die die Bewegung als feministisch präsentiert, auch wenn Raël den etablierten Feminismus dafür kritisiert hat, dass er nach seiner Darstellung die Fehler der Männer reproduziere. Dieselbe Anthropologie, die den Körper zu einem biologischen Erbe macht, macht ihn auch formbar: Die Bewegung vertritt eine positive Sicht auf die elektive körperliche Modifikation, einschließlich der kosmetischen Chirurgie, als Selbstbestimmung über das eigene genetische Erbgut und nicht als Verletzung einer vorgegebenen Form.
+**Geschlecht und der formbare Körper**. Raël behandelt Geschlecht als künstliches Konstrukt und betont seine Fluidität; Transgender-Mitglieder werden akzeptiert, und Transfrauen werden in den Orden der Engel aufgenommen. Palmer liest Raël so, dass er Frauen als den Elohim näherstehend betrachtet — die im Quellenmaterial als weit mehr weiblich denn männlich beschrieben werden —, und hält seinen Vorschlag fest, dass weibliche politische Führung weltweit den Krieg beenden würde, eine Position, die die Bewegung als feministisch präsentiert, auch wenn Raël den etablierten Feminismus dafür kritisiert hat, dass er nach seiner Darstellung die Fehler der Männer reproduziere. Dieselbe Anthropologie, die den Körper zu einem biologischen Erbe macht, macht ihn auch formbar: Die Bewegung sieht elektive körperliche Veränderung, einschließlich der Schönheitschirurgie, positiv, als Selbstbestimmung über das eigene genetische Erbgut statt als Verletzung einer gegebenen Form.
 
-**Der Körper und der Kosmos.** Die sensuelle Meditation richtet all dies auf das aus, was das Quellenmaterial den **kosmischen Orgasmus** nennt — von einem führenden Raëlianer gegenüber Palmer als „die sinnliche Erfahrung der Einheit zwischen dem Selbst und dem Universum" beschrieben und als die höchste einem Menschen zugängliche Erfahrung präsentiert. Die Bewegung lehrt weiter, dass die Elohim das sexuelle Verlangen als Gegengewicht zum gewalttätigen Impuls in die Menschheit einbauten und dass sexuelle Lust das Gehirn stärkt.{{ footnote(id="8") }} Durch den Rahmen des Korpus gelesen, ist die Sexualethik keine beiläufige Liberalität, die der Kosmologie angehängt wäre, sondern eine direkte Folge von ihr: Eine Schöpferzivilisation, die den menschlichen Körper für die Lust konstruierte, und eine Lehre ohne Seele, die zu gefährden wäre, gelangt zu einer Ethik, die auf Einwilligung, Schaden und der Kultivierung der Sinne zentriert ist und nicht auf Reinheit und Enthaltsamkeit. Dieselbe Logik tritt in den metaphysischen Klärungen des siebten neuen Gebots und in der breiteren Ausrichtung des Wassermann-Zeitalter-Programms auf den Körper als konstruiert statt gefallen zutage.
+**Der Körper und der Kosmos**. Die sensuelle Meditation richtet all dies auf das aus, was das Quellenmaterial den **kosmischen Orgasmus** nennt — von einem führenden Raëlianer gegenüber Palmer als „die sinnliche Erfahrung der Einheit zwischen dem Selbst und dem Universum“ beschrieben und als die höchste einem Menschen zugängliche Erfahrung präsentiert. Die Bewegung lehrt ferner, dass die Elohim das sexuelle Verlangen als Gegengewicht zum gewalttätigen Impuls in die Menschheit einbauten und dass sexuelle Lust das Gehirn stärkt.{{ footnote(id="8") }} Durch den Rahmen des Korpus gelesen, ist die Sexualethik eine direkte Folge der Kosmologie: Eine Schöpferzivilisation, die den menschlichen Körper für die Lust konstruierte, und eine Lehre ohne Seele, die gefährdet werden könnte, gelangen zu einer Ethik, die auf Einwilligung, Schaden und der Kultivierung der Sinne beruht statt auf Reinheit und Enthaltsamkeit. Dieselbe Logik zeigt sich in den metaphysischen Klärungen des siebten neuen Gebots und in der Ausrichtung des Programms des Wassermann-Zeitalters auf den Körper als entworfen statt gefallen.
 
-Die sexuelle Dimension ist auch die beständigste Quelle der Mainstream-Kritik an der Bewegung gewesen, weiter unten unter *Die wichtigsten Kontroversen* ausführlicher behandelt; die wissenschaftliche Auseinandersetzung (Palmer, Chryssides, Bozeman) ist im Allgemeinen granularer ausgefallen als die journalistische Auseinandersetzung und liest die Praktiken als integralen Bestandteil des doktrinären Rahmens und nicht als von ihm trennbar.
+Die sexuelle Dimension ist zugleich die beständigste Quelle der Mainstream-Kritik an der Bewegung gewesen, die weiter unten unter *Die wichtigsten Kontroversen* ausführlicher behandelt wird; die wissenschaftliche Auseinandersetzung (Palmer, Chryssides, Bozeman) ist im Allgemeinen differenzierter ausgefallen als die journalistische und liest die Praktiken als integralen Bestandteil des Lehrrahmens statt als von ihm trennbar.
 
 ### Die institutionelle Struktur
 
-Die raëlianische institutionelle Struktur umfasst mehrere ineinandergreifende Komponenten:
+**Die siebenstufige Hierarchie der Führer:**
 
-**Die siebenstufige Hierarchie der Führer.** Die wichtigste institutionelle Hierarchie der raëlianischen Bewegung umfasst sieben Ebenen:
-
-- **Ebene 0**: Anwärter (Probationszeit)
+- **Ebene 0**: Anwärter (Probezeit)
 - **Ebene 1**: Hilfsführer
-- **Ebene 2**: Probationsführer
+- **Ebene 2**: Probeführer
 - **Ebene 3**: Priester
 - **Ebene 4**: Bischof
 - **Ebene 5**: Priester der Priester / Priester-Führer
 - **Ebene 6**: Führer der Führer (Raël){{ footnote(id="4") }}
 
-Die spezifischen Aufstiegskriterien der Hierarchie umfassen verschiedene Kombinationen aus Lehrstudium, sensueller Meditationspraxis, institutionellem Dienst und breiterer spirituell-entwicklungsmäßiger Progression. Der Aufstieg wird auf den höheren Ebenen persönlich von Raël und auf den unteren Ebenen von leitenden Führern bestimmt.
+Der Aufstieg verbindet Lehrstudium, Meditationspraxis, institutionellen Dienst und spirituelles Fortschreiten; über die höheren Ebenen entscheidet Raël, über die unteren leitende Führer.
 
-**Die nationalen Zweige.** Nationale Zweige der raëlianischen Bewegung sind in etwa neunzig Ländern eingerichtet worden, mit substantieller Variation in Größe und organisatorischer Entwicklung zwischen den Ländern. Zu den wichtigsten nationalen Zweigen gehören Frankreich, Kanada, Japan, Südkorea und verschiedene afrikanische Länder (in denen die Bewegung im Zeitraum nach den 1990er Jahren besonders stark war).
+**Nationale Zweige** gibt es etwa neunzig, von sehr unterschiedlicher Größe; die wichtigsten bestehen in Frankreich, Kanada, Japan, Südkorea und mehreren afrikanischen Ländern (in denen die Bewegung seit den 1990er Jahren stark ist).
 
-**Die Tochterorganisationen.** Mehrere substantielle Tochterorganisationen operieren innerhalb des breiteren institutionellen Rahmens der raëlianischen Bewegung:
+**Tochterorganisationen:**
 
-- **Clonaid** — 1997 von Raël gegründet, anschließend an die unabhängige wissenschaftliche Leitung von Brigitte Boisselier übertragen; das wichtigste klonbezogene operative Vehikel, mit der umstrittenen Ankündigung des angeblich geklonten Babys „Eve" im Jahr 2002
-- **Der Orden der Engel** — 1998 gegründet, Frauen, die sich speziell dem Empfang der Elohim widmen; substantielle Kontroverse um die spezifischen Praktiken des Ordens und seine ausschließlich weibliche Mitgliederstruktur
-- **Die Allianz für extraterrestrischen diplomatischen Kontakt (AEDC)** — 2021 gegründet, internationale gemeinnützige Organisation aus Politikern, Diplomaten und Regierungsbeamten, die das Botschaftsprojekt unterstützen
-- **Die Raelianische Stiftung** — breiterer institutioneller Dachverband für verschiedene Bildungs- und Öffentlichkeitsaktivitäten
-- **Verschiedene Bildungs- und Öffentlichkeitsorganisationen** — einschließlich Apostasynow.org (die Online-Ressource für Apostasie), Subversions.com (Raëls breitere kulturell-politische Kommentare), verschiedene andere spezifische Organisationen
+- **Clonaid** — 1997 von Raël gegründet, später unter der unabhängigen wissenschaftlichen Leitung von Brigitte Boisselier; das Vehikel für das Klonen hinter der Ankündigung von „Eve“ im Jahr 2002
+- **Der Orden der Engel** — 1998 gegründet, Frauen, die sich dem Empfang der Elohim widmen; umstritten wegen seiner Praktiken und seiner ausschließlich weiblichen Mitgliedschaft
+- **Die Allianz für extraterrestrischen diplomatischen Kontakt (AEDC)** — 2021 gegründet, eine internationale gemeinnützige Organisation von Politikern, Diplomaten und Beamten, die die Botschaft unterstützen
+- **Die Raelianische Stiftung** — Dach für Bildungs- und Öffentlichkeitsarbeit
+- weitere Einrichtungen, darunter Apostasynow.org (Online-Ressource zur Apostasie) und Subversions.com (Raëls kulturell-politische Kommentare)
 
-**Die finanziell-organisatorische Struktur.** Die raëlianische Bewegung operiert durch eine Mitglieds- und Beitragsstruktur, wobei Mitglieder freiwillige finanzielle Beiträge zu spezifischen Projekten leisten (insbesondere zum Botschaftsprojekt, das erheblichen laufenden finanziellen Bedarf hat). Die spezifische Anweisung der Quelle ist, Aufzeichnungen über die Beitragenden zu führen, wie bescheiden ihr Beitrag auch sein mag, wobei die breitere finanzielle Struktur die institutionelle Infrastruktur bildet.
-
-Die finanzielle Transparenz der raëlianischen Bewegung war im Zeitraum nach 1976 Gegenstand verschiedener journalistischer und akademischer Untersuchungen, mit verschiedenen Offenlegungsgraden in den verschiedenen nationalen Zweigen.
+**Die Finanzen** beruhen auf freiwilligen Beiträgen der Mitglieder zu bestimmten Projekten, vor allem zur Botschaft; die Quelle weist an, jeden Beitragenden zu verzeichnen, wie bescheiden die Gabe auch sei. Die finanzielle Transparenz der Bewegung ist seit 1976 Gegenstand journalistischer und akademischer Nachforschungen, wobei die Offenlegung je nach nationalem Zweig variiert.
 
 ### Die institutionelle Entwicklung im Zeitraum nach 1976
 
-Der narrative Bogen der institutionellen Entwicklung der Bewegung wird oben unter *Geschichte* behandelt. Als Abfolge organisatorischer Phasen gelesen, reicht er von der Gründung und Expansion 1976–1990 (Gründung der IRM, Abschluss der grundlegenden Bücher, Symbolmodifikation von 1990) über die Phase des Botschaftsengagements 1991–2005 (die Verlagerungsanfragen an Israel, die Botschaft Jahwes von 1997, der Orden der Engel, die Clonaid-Aktivität, die in der Ankündigung von 2002 gipfelte, und *Message from the Designers* von 2005) hinein in eine Konsolidierungsphase 2006–2020 und die Beschleunigung des Botschaftsprojekts nach 2021 — die AEDC, die Bürgermeisterpräsentationen von 2022 und das Memorandum of Collaboration von 2024 — ausgerichtet auf das projizierte Konstruktionsfenster 2027–2030.
+Der erzählerische Bogen wird oben unter *Geschichte* dargestellt. In Phasen gegliedert: Gründung und Expansion (1976–1990), eine Phase des Botschaftsengagements (1991–2005, einschließlich der Verlagerungsanfragen an Israel, der Botschaft Jahwes von 1997, des Ordens der Engel und der Clonaid-Aktivität), Konsolidierung (2006–2020) und die Beschleunigung des Botschaftsprojekts nach 2021 mit Blick auf ein projiziertes Bauzeitfenster 2027–2030.
 
 ### Die wichtigsten Kontroversen
 
-Mehrere wichtige Kontroversen verdienen Behandlung:
+**Die Clonaid-Behauptung von 2002.** Am 27. Dezember 2002 verkündete Brigitte Boisselier (Präsidentin von Clonaid und raëlianische Bischöfin) auf einer Pressekonferenz in Hollywood, Florida, Clonaid habe das erste geklonte menschliche Baby, „Eve“, hervorgebracht. Zwei Jahrzehnte später ist die Behauptung trotz wiederholter Beweisversprechen unverifiziert.{{ footnote(id="5") }} Die Wissenschaft hat sie als unbelegt behandelt; sie zog große Medienaufmerksamkeit auf sich und erhöhte das Profil der Bewegung, mit gemischter Wirkung.
 
-**Die Clonaid-Behauptung von 2002.** Am 27. Dezember 2002 kündigte Brigitte Boisselier (Präsidentin von Clonaid, raëlianische Bischöfin) auf einer Pressekonferenz in Hollywood, Florida, an, Clonaid habe die Geburt des ersten geklonten menschlichen Babys, Spitzname „Eve", unterstützt. Die Behauptung ist in den darauffolgenden zwei Jahrzehnten nicht unabhängig wissenschaftlich verifiziert worden, trotz verschiedener Clonaid-Erklärungen, die eine bevorstehende Verifizierung versprachen.{{ footnote(id="5") }} Die etablierte wissenschaftliche Gemeinschaft hat die Ankündigung substantiell als unverifiziert behandelt, mit erheblicher nachfolgender Skepsis. Die Ankündigung erzeugte substantielle internationale Medienaufmerksamkeit und erhöhte das breitere öffentliche Profil der raëlianischen Bewegung erheblich, allerdings mit substantiell gemischten Ergebnissen für die breitere institutionelle Rezeption der Bewegung.
+**Das ursprüngliche Symbol der Unendlichkeit** (ein Davidstern, der ein Hakenkreuz umschließt, für die Unendlichkeit in Raum und Zeit) stieß nach dem Holocaust auf Einwände; der Ersatz durch den galaxienförmigen Wirbel in den westlichen Zweigen 1990 war die Antwort darauf, während Asien das Original beibehielt, wo das Hakenkreuz durch buddhistische statt westliche Assoziationen gelesen wird.
 
-**Das ursprüngliche raëlianische Symbol der Unendlichkeit.** Das ursprüngliche Symbol (Davidstern mit zentralem Hakenkreuz, die Unendlichkeit in Raum bzw. Zeit darstellend) erzeugte erhebliche Komplikationen in der Rezeption im post-Holocaust-europäisch-nordamerikanischen Raum. Die Modifikation von 1990, das zentrale Hakenkreuz in den westlichen Zweigen durch einen galaxienförmigen Wirbel zu ersetzen, erfolgte als Reaktion auf diese Komplikationen, wobei das ursprüngliche Symbol in Asien bewahrt blieb, wo das Hakenkreuz in buddhistischen Tempeln ohne die westlichen politisch-historischen Assoziationen erscheint.
+**Der Orden der Engel** (1998) wurde wegen seiner Praktiken, seiner ausschließlich weiblichen Mitgliedschaft sowie berichteter Kleiderordnungen und Verpflichtungen kritisiert.
 
-**Der Orden der Engel.** Die Gründung des Ordens der Engel im Jahr 1998 — Frauen, die sich speziell dem Empfang der Elohim widmen — erzeugte erhebliche Kontroverse hinsichtlich der spezifischen Praktiken des Ordens, der ausschließlich weiblichen Mitgliederstruktur und verschiedener berichteter Praktiken, einschließlich spezifischer Kleiderordnungen, spezifischer Verpflichtungen und verschiedener anderer Merkmale. Der Orden der Engel war Gegenstand erheblicher Mainstream-journalistischer und akademischer Auseinandersetzung mit verschiedenen Kritikgraden im Zeitraum nach 1998.
+**Die sensuelle Meditation** wird wegen ihres sexuellen Inhalts kritisiert; die Bewegung verteidigt sie als integralen Bestandteil ihres spirituellen Rahmens.
 
-**Kontroversen um die sensuelle Meditation.** Die ausdrücklich sexuellen Inhalte verschiedener Praktiken der sensuellen Meditation haben erhebliche Mainstream-Kritik erzeugt, wobei sich verschiedene journalistische Auseinandersetzungen auf die spezifischen Inhalte der Praktiken konzentrierten. Die Reaktion der raëlianischen Bewegung bestand im Allgemeinen darin, die Praktiken als integral für den breiteren spirituell-entwicklungsmäßigen Rahmen zu verteidigen, wobei der sexuelle Inhalt als Kontinuum mit der breiteren sensuellen Kultivierungsorientierung behandelt wird und nicht als vom spirituellen Inhalt trennbar.
+**Das französische Anti-Sekten-Engagement** durch MIVILUDES und UNADFI hat seit den 1990er Jahren rechtlich-politische Spannungen erzeugt; die Bewegung wurde als problematische religiöse Gruppe eingestuft, und das *About-Picard-Gesetz* von 2001 verlieh dem regulatorische Kraft. Die Spannungen sind in Kontinentaleuropa (Frankreich, Belgien, Deutschland) am größten und in Nordamerika, Asien und Afrika geringer.
 
-**Französisches Anti-Sekten-Engagement.** Die Auseinandersetzung französischer Anti-Sekten-Organisationen durch MIVILUDES und UNADFI hat im Zeitraum nach den 1990er Jahren erhebliche rechtlich-politische Spannungen erzeugt, wobei die raëlianische Bewegung in verschiedenen offiziellen französischen Regierungsdokumenten als problematische religiöse Gruppe eingestuft wurde. Das *About-Picard-Gesetz* von 2001 über Anti-Sekten-Maßnahmen bildete den maßgeblichen nachfolgenden regulatorischen Rahmen mit verschiedenen rechtlich-politischen Implikationen für die französischen Operationen der raëlianischen Bewegung.
-
-**Verschiedene nationale rechtlich-politische Spannungen.** Die raëlianische Bewegung hat in verschiedenen anderen nationalen Kontexten rechtlich-politische Spannungen erzeugt, mit verschiedenen Akkommodierungsgraden in den verschiedenen Ländern. Die wichtigsten Spannungen lagen in Kontinentaleuropa (Frankreich, Belgien, Deutschland), mit relativ weniger Spannung in Nordamerika, Asien und Afrika.
-
-**Verschiedene Ex-Raëlianer-Berichte kritischer Art.** Verschiedene ehemalige Raëlianer haben kritische Berichte über ihre Erfahrungen innerhalb der Bewegung produziert, mit verschiedenen Glaubwürdigkeitsgraden und verschiedenen spezifischen Beschwerden. Die etablierte NRB-Forschung hat sich mit diesen Berichten im Allgemeinen als einer Beweisquelle unter vielen befasst, ohne sie als definitiv autoritativ oder definitiv abweisbar zu behandeln.
+Verschiedene **Berichte ehemaliger Raëlianer** fielen kritisch aus; die NRB-Forschung gewichtet sie als eine Quelle unter vielen, weder maßgeblich noch abzutun.
 
 ## Anwendung im gesamten Korpus
 
-Der Raëlismus operiert als tragende institutionelle und doktrinäre Entität über mehrere Korpus-Einträge hinweg.
+Der Raëlismus ist im gesamten Korpus tragend. Er ist die Bewegung, die [Raël](../rael/) gründete (die Figur wird gesondert behandelt); er betreibt das Projekt der [Botschaft](../embassy/); er ist das zeitgenössische institutionelle Vehikel für die [Apokalypse](../apocalypse/) (die Phase der Enthüllung) und für die Unterweisung des Quellenmaterials, mit der sich die Rahmen des Kosmischen Wettbewerbs, der Doppelten Signatur und der Kosmischen Kette im Korpus befassen; und er ist die wichtigste Bewegung des Wassermann-Zeitalters, deren Rolle im Eintrag [Zeitalter des Wassermanns](../../timeline/age-of-aquarius/) ausgeführt wird. In jedem Fall finden sich die Einzelheiten im verlinkten Eintrag; dieser hier liefert den institutionellen Kontext.
 
-### Der Eintrag zu Raël
-
-Die Figur Raëls ist der Gründer und fortgesetzte Hauptfigur des Raëlismus. Die detaillierte Behandlung der Figur findet sich im Eintrag [Raël](../rael/); der spezifische Beitrag des Raëlismus-Eintrags besteht darin, den doktrinär-institutionellen Inhalt der von Raël gegründeten Bewegung darzulegen.
-
-### Der Eintrag zur Botschaft
-
-Das Botschaftsprojekt ist das wichtigste operative Projekt der raëlianischen Bewegung. Die detaillierte Behandlung findet sich im Eintrag [Botschaft](../embassy/); der spezifische Beitrag des Raëlismus-Eintrags besteht darin, den institutionellen Kontext darzulegen, innerhalb dessen das Botschaftsprojekt operiert.
-
-### Der Eintrag zur Apokalypse
-
-Der Raëlismus ist das wichtigste zeitgenössische institutionelle Vehikel für den breiteren Rahmen der Apokalypse (der Enthüllungsphase). Die detaillierte Behandlung findet sich im Eintrag [Apokalypse](../apocalypse/); der spezifische Beitrag des Raëlismus-Eintrags besteht darin, die institutionelle Infrastruktur darzulegen, innerhalb derer der apokalyptische Inhalt operiert.
-
-### Die Einträge zu Kosmischer Konkurrenz, Doppelsignatur, Kosmischer Kette
-
-Der Raëlismus ist das wichtigste zeitgenössische institutionelle Vehikel für die quellenmaterielle Unterweisung, mit der sich der breitere Rahmen des Korpus befasst. Die detaillierte Behandlung jedes Rahmens findet sich im jeweiligen Eintrag; der spezifische Beitrag des Raëlismus-Eintrags besteht darin, den institutionellen Kontext darzulegen.
-
-### Der Eintrag zum Zeitalter des Wassermanns
-
-Der Raëlismus ist die wichtigste religiös-philosophische Bewegung des Wassermann-Zeitalters. Die detaillierte Behandlung des Zeitalters des Wassermanns findet sich im Eintrag [Zeitalter des Wassermanns](../../timeline/age-of-aquarius/); der spezifische Beitrag des Raëlismus-Eintrags besteht darin, die spezifische Rolle der Bewegung innerhalb der breiteren operativen Entwicklungen des Zeitalters darzulegen.
-
-### Der breitere Rahmen des Korpus
-
-Der Wheel-of-Heaven-Korpus ist operativ verschieden vom Raëlismus. Der Korpus befasst sich mit dem raëlianischen Quellenmaterial als grundlegendem Ausgangstext für seinen breiteren interpretativen Rahmen, doch die distinktiven analytischen Beiträge des Korpus (die zwölfgliedrige Ausarbeitung des Rahmens der präzessionalen Zeitalter, die systematische Anwendung des Doppelsignatur-Prinzips, die spezifische Artikulation des Rahmens kosmischer Konkurrenz, die breitere Entwicklung des Rahmens der kosmischen Kette, die verschiedenen hebräisch-textuellen Analysen, das interkulturelle Vergleichsmaterial) gehen substantiell über das hinaus, was das raëlianische Quellenmaterial direkt liefert. Das Verhältnis des Korpus zum Raëlismus ist eines von **geteiltem grundlegendem Quellenmaterial mit distinktiver interpretativer Erweiterung**.
+Der Wheel-of-Heaven-Korpus ist operativ von der Bewegung verschieden: Er nimmt das raëlianische Quellenmaterial als seine Grundlage, reicht aber weit darüber hinaus, wie unter *Abgrenzung von benachbarten Begriffen* weiter unten dargelegt.
 
 ## Abgrenzung von benachbarten Begriffen
 
-### Raëlismus vs. der breitere Wheel-of-Heaven-Rahmen
+### Raëlismus vs. der Wheel-of-Heaven-Rahmen
 
-Der Wheel-of-Heaven-Rahmen (der distinktive interpretative Beitrag des Korpus) unterscheidet sich vom Raëlismus (der religiös-philosophischen Bewegung) in mehreren spezifischen Punkten:
+Der Wheel-of-Heaven-Rahmen — der interpretative Beitrag des Korpus — unterscheidet sich vom Raëlismus als Bewegung:
 
-- Der Rahmen des Korpus stützt sich substantiell auf das breitere Werk von Jean Sendy,{{ cite(id="those-gods-who-made-heaven-and-earth", text="[7]", title="Sendy, *Ces dieux qui firent le ciel et la terre* / *Those Gods Who Made Heaven and Earth* (1969/1972)") }} den astronomisch-mythologischen Rahmen von *Hamlet's Mill*, Mauro Biglinos streng übersetzerische Auseinandersetzung mit der hebräischen Bibel,{{ cite(id="the-bible-is-not-a-sacred-book", text="[8]", title="Biglino, streng wörtliche Hebräische-Bibel-Reihe (ab 2010)") }} Paul Anthony Wallis' breitere allianzvermittelte Geschichte{{ cite(id="escaping-from-eden", text="[9]", title="Wallis, *Escaping from Eden* (2020) und nachfolgende vergleichend-keilschriftliche Bände") }} und verschiedene andere wissenschaftliche Quellen über das raëlianische Quellenmaterial selbst hinaus
-- Der Rahmen des Korpus entwickelt substantiell die zwölfgliedrige Ausarbeitung des Rahmens der präzessionalen Zeitalter, die das raëlianische Quellenmaterial andeutet, aber nicht systematisch entwickelt
-- Der Rahmen des Korpus entwickelt das Doppelsignatur-Prinzip systematisch über die zwölf Zeitalter hinweg, was im raëlianischen Quellenmaterial nicht vorhanden ist
-- Der Rahmen des Korpus befasst sich substantiell mit interkulturellem Vergleichsmaterial, mit dem sich das raëlianische Quellenmaterial nicht direkt befasst
-- Der Rahmen des Korpus ist operativ unabhängig von der institutionellen Struktur der raëlianischen Bewegung
+- er stützt sich auf das Werk von Jean Sendy,{{ cite(id="those-gods-who-made-heaven-and-earth", text="[7]", title="Sendy, *Ces dieux qui firent le ciel et la terre* / *Those Gods Who Made Heaven and Earth* (1969/1972)") }} den astronomisch-mythologischen Rahmen von *Hamlet's Mill*, Mauro Biglinos streng übersetzungsgetreue Lesart der hebräischen Bibel,{{ cite(id="the-bible-is-not-a-sacred-book", text="[8]", title="Biglino, streng wörtliche Reihe zur hebräischen Bibel (ab 2010)") }} Paul Anthony Wallis' allianzvermittelte Geschichte{{ cite(id="escaping-from-eden", text="[9]", title="Wallis, *Escaping from Eden* (2020) und nachfolgende vergleichend-keilschriftliche Bände") }} und weitere Quellen jenseits des raëlianischen Materials
+- er arbeitet den Rahmen der zwölf präzessionalen Zeitalter aus, den das raëlianische Material nur andeutet
+- er wendet das Prinzip der Doppelten Signatur systematisch über die zwölf Zeitalter an, was das raëlianische Material nicht tut
+- er befasst sich mit interkulturellem Vergleichsmaterial, mit dem sich das raëlianische Material nicht befasst
+- er ist operativ unabhängig von der institutionellen Struktur der Bewegung
 
-Das Verhältnis ist eines von **geteiltem grundlegendem Quellenmaterial mit distinktiver interpretativer Erweiterung**. Der Rahmen des Korpus kann von Lesern erschlossen werden, die keine Raëlianer sind, und erfordert kein institutionelles Engagement in der raëlianischen Bewegung; die raëlianische Bewegung kann von Praktizierenden erschlossen werden, die den breiteren Korpus-Rahmen nicht übernehmen.
+Das Verhältnis ist eines von **geteiltem grundlegendem Quellenmaterial mit eigenständiger interpretativer Erweiterung** — der Rahmen ist für Nicht-Raëlianer ohne institutionelle Beteiligung lesbar, und der Bewegung können sich auch jene anschließen, die den Rahmen nicht übernehmen.
 
-### Raëlismus vs. die Figur Raëls im Besonderen
+### Raëlismus vs. die Figur Raëls
 
-Raël als Figur und der Raëlismus als Bewegung sind operativ verschieden. Raël ist der Gründer und fortgesetzte Hauptfigur; der Raëlismus ist die institutionell-doktrinäre Bewegung, die Raël gegründet hat und weiterhin leitet, die aber eine erhebliche operative Infrastruktur über Raëls persönliches Engagement hinaus entwickelt hat. Die detaillierte Behandlung der Figur findet sich im Eintrag [Raël](../rael/).
+Raël ist der Gründer und die führende Figur; der Raëlismus ist die Bewegung, die er gründete und noch immer leitet, inzwischen mit einer Infrastruktur, die über sein persönliches Engagement hinausreicht. Siehe den Eintrag [Raël](../rael/).
 
-### Raëlismus vs. die breitere Kategorie der UFO-Religionen
+### Raëlismus vs. die wissenschaftlichen Kategorien
 
-Die breitere Kategorie der UFO-Religionen (Heaven's Gate, Aetherius Society, Unarius, Cosmic People, verschiedene andere) liefert die unmittelbare wissenschaftliche Kategorie, innerhalb derer der Raëlismus operiert. Der Raëlismus ist innerhalb dieser breiteren Kategorie durch mehrere spezifische Merkmale strukturell besonders:
-
-- **Die institutionelle Substanz**: Der Raëlismus weist eine substantiell größere institutionelle Entwicklung auf als die meisten anderen UFO-Religionen, wobei die IRM weltweit zu den institutionell substantiellsten UFO-Religionen zählt
-- **Die Lehrartikulation**: Der Raëlismus weist eine substantiell stärkere Lehrartikulation auf als die meisten anderen UFO-Religionen, mit dem systematischen quellenmateriellen Korpus
-- **Die Rahmung als atheistische Religion**: Die explizite atheistisch-religiöse Rahmung des Raëlismus unterscheidet ihn von vielen anderen UFO-Religionen, die substantielle übernatürlich-theologische Inhalte bewahren
-- **Die Integration der kumulativen prophetischen Tradition**: Die Integration des Raëlismus mit der breiteren kumulativen prophetischen Tradition (Mose, Jesus, Mohammed, Buddha, andere) unterscheidet ihn von UFO-Religionen, die ohne solche Integration operieren
-- **Das fortgesetzte operative Muster**: Das fortgesetzte fünfjahrzehntelange operative Muster des Raëlismus unterscheidet ihn von verschiedenen UFO-Religionen, die zusammengebrochen oder substantiell zurückgegangen sind
-
-Die detaillierte vergleichende Behandlung findet sich im Abschnitt *Vergleichende Beobachtungen* weiter unten.
-
-### Raëlismus vs. die breitere Kategorie der neuen religiösen Bewegungen
-
-Die breitere Kategorie der neuen religiösen Bewegungen (Mormonentum, Scientology, Bahá'í, verschiedene andere) liefert die breitere wissenschaftliche Kategorie, innerhalb derer der Raëlismus operiert. Der Raëlismus ist innerhalb dieser breiteren Kategorie strukturell besonders durch den spezifischen außerirdischen Schöpferrahmen und die explizite atheistisch-religiöse Rahmung.
-
-### Raëlismus vs. die breitere Kategorie der atheistischen/wissenschaftlichen Religionen
-
-Die breitere Kategorie der atheistischen/wissenschaftlichen Religionen (Comtesche Religion der Menschheit, säkularer Humanismus, Ethische Kultur, verschiedene buddhistische Traditionen, verschiedene andere) liefert eine spezifische wissenschaftliche Kategorie, innerhalb derer der Raëlismus operiert. Der Raëlismus ist innerhalb dieser breiteren Kategorie strukturell besonders durch den spezifischen außerirdischen Schöpferrahmen, der den substantiellen Lehrinhalt bereitstellt.
+Innerhalb seiner unmittelbaren Kategorie der **UFO-Religionen** hebt sich der Raëlismus ab durch seine institutionelle Substanz — die IRM gehört weltweit zu den am weitesten entwickelten UFO-Religionen —, seinen systematischen Lehrkorpus, seinen ausdrücklichen Atheismus (wo viele übernatürlich-theologische Inhalte beibehalten), seine Einbindung in die kumulative prophetische Tradition (Mose, Jesus, Mohammed, Buddha und andere) und sein ununterbrochenes Wirken über fünf Jahrzehnte. Innerhalb der weiteren Kategorie der **NRB** wird er durch den außerirdischen Schöpferrahmen und den ausdrücklichen Atheismus abgesetzt; innerhalb der Kategorie der **atheistischen/wissenschaftlichen Religionen** liefert derselbe Rahmen den Lehrinhalt, der den anderen fehlt. Der Vergleich der einzelnen Bewegungen folgt unter *Vergleichende Beobachtungen*.
 
 ## Moderne Neudeutungen
 
-### Etablierte NRB-Forschung zum Raëlismus im Besonderen
+### Forschung zu neuen religiösen Bewegungen
 
-Die wichtigste anhaltende wissenschaftliche Auseinandersetzung mit dem Raëlismus hat innerhalb der Forschung zu neuen religiösen Bewegungen (NRB) stattgefunden.
+Die anhaltende wissenschaftliche Auseinandersetzung mit dem Raëlismus kam aus der NRB-Forschung.
 
-**Susan J. Palmers** *Aliens Adored: Raël's UFO Religion* (Rutgers University Press, 2004) ist die wichtigste monographische wissenschaftliche Behandlung. Palmers Ansatz ist wohlwollend-ethnographisch und stützt sich auf umfangreiche direkte Feldforschung, einschließlich substantiellen Interviewmaterials mit Raël, leitenden Figuren der raëlianischen Bewegung und einfachen Mitgliedern. Das Buch liefert eine substantielle Analyse der institutionellen Struktur, des Lehrinhalts, der wichtigsten Praktiken, der wichtigsten Kontroversen und der breiteren soziologischen Merkmale der Bewegung. Palmers breiteres späteres Werk hat sich im Zeitraum nach 2004 weiterhin mit dem Raëlismus auseinandergesetzt, mit verschiedenen Zeitschriftenaufsätzen, die substantielle fortgesetzte Auseinandersetzung leisten.
+**Susan J. Palmers** *Aliens Adored: Raël's UFO Religion* (Rutgers University Press, 2004) ist die wichtigste monographische Studie — eine wohlwollend-ethnographische Darstellung auf Grundlage von Feldforschung (Interviews mit Raël, leitenden Figuren und einfachen Mitgliedern), die Struktur, Lehre, Praktiken, Kontroversen und Soziologie behandelt; ihre späteren Aufsätze setzen sie fort.
 
-**Massimo Introvigne** und das **Center for Studies on New Religions (CESNUR)** haben durch verschiedene Konferenzbeiträge, Zeitschriftenaufsätze in *Nova Religio* und anderen Foren sowie breiteren institutionellen CESNUR-Output eine substantielle wissenschaftliche Auseinandersetzung mit dem Raëlismus produziert. Introvignes allgemeiner Ansatz ist wohlwollend-wissenschaftlich; er nimmt den Raëlismus als religiöse Bewegung ernst und wahrt zugleich wissenschaftliche Objektivität in Bezug auf die spezifischen historischen Behauptungen des Rahmens.
+**Massimo Introvigne** und CESNUR haben sich in Konferenzbeiträgen und Zeitschriftenaufsätzen (in *Nova Religio* und anderswo) mit der Bewegung befasst, wohlwollend-wissenschaftlich, aber objektiv gegenüber ihren historischen Behauptungen.
 
-**George D. Chryssides** hat im Rahmen seiner breiteren Arbeit zu neuen religiösen Bewegungen eine wissenschaftliche Auseinandersetzung mit dem Raëlismus geleistet, mit verschiedenen vergleichenden Analysen, die den Raëlismus innerhalb der breiteren NRB-Landschaft verorten. Chryssides' spezifischer Beitrag umfasst die Auseinandersetzung mit der Frage charismatischer Führung und institutioneller Entwicklung über mehrere NRB-Fälle hinweg.
+**George D. Chryssides** behandelt sie im Rahmen seiner vergleichenden NRB-Arbeit, namentlich zu charismatischer Führung und institutioneller Entwicklung über mehrere Fälle hinweg.
 
-**Mikael Rothstein** hat eine substantielle wissenschaftliche Auseinandersetzung mit dem Raëlismus produziert, insbesondere in Bezug auf die spezifischen hagiographischen und textlichen Praktiken der Bewegung. Rothsteins „Hagiography and Text in the Raëlian Movement" (in Partridges *UFO Religions*, 2003) ist eine der wichtigsten Auseinandersetzungen.
+**Mikael Rothstein** arbeitet zu ihren hagiographischen und textlichen Praktiken — „Hagiography and Text in the Raëlian Movement“ (in Partridges *UFO Religions*, 2003).
 
-**Christopher Partridges** Sammelband *UFO Religions* (Routledge, 2003) und seine breitere Arbeit zur zeitgenössischen Spiritualität haben eine substantielle Auseinandersetzung mit dem Raëlismus produziert.
+**Christopher Partridge** gab *UFO Religions* (Routledge, 2003) heraus, neben seiner Arbeit zur zeitgenössischen Spiritualität.
 
-**James R. Lewis** hat mehrere substantielle Sammelbände herausgegeben, die sich mit dem Raëlismus befassen, darunter *The Gods Have Landed: New Religions from Other Worlds* (SUNY Press, 1995) und das *Encyclopedic Sourcebook of UFO Religions* (Prometheus, 2003).
+**James R. Lewis** gab *The Gods Have Landed: New Religions from Other Worlds* (SUNY Press, 1995) und das *Encyclopedic Sourcebook of UFO Religions* (Prometheus, 2003) heraus.
 
-**Erik A. W. Östling** hat eine substantielle wissenschaftliche Auseinandersetzung mit dem Raëlismus innerhalb der skandinavischen Religionsforschung produziert.
+**Erik A. W. Östling** hat sich innerhalb der skandinavischen Religionswissenschaft mit ihr befasst.
 
-Die allgemeine Einschätzung der etablierten NRB-Forschung ist eine der **ernsthaften Auseinandersetzung bei skeptischer Distanz** — sie behandelt den Raëlismus als substantielles religiöses Phänomen, das akademische Untersuchung verdient, ohne die spezifischen historischen Behauptungen des Rahmens über das Kontaktereignis vom 13. Dezember 1973 zu billigen.
+Die gemeinsame Haltung ist ernsthafte Auseinandersetzung bei skeptischer Distanz gegenüber der Behauptung des Kontakts vom 13. Dezember 1973.
 
-### Akademische Kategorisierungsdebatten
+### Kategorisierungsdebatten
 
-Die akademische Kategorisierung des Raëlismus war Gegenstand erheblicher wissenschaftlicher Debatten.
+Die akademische Bezeichnung ist umstritten. Die Kategorie der **UFO-Religion** erfasst vieles, ist aber manchen angesichts der Lehr- und Institutionsentwicklung der Bewegung zu eng. Die Kategorie der **NRB** erfasst die institutionellen und soziologischen Merkmale, nicht aber den außerirdischen Schöpferrahmen. Die Kategorie der **atheistischen Religion** erfasst die atheistische Rahmung, unterschätzt aber, wie manche argumentieren, die religiösen Dimensionen. Eine Lesart als **postmoderne Religion** betont ihr post-traditionelles Umfeld im späten zwanzigsten Jahrhundert. Die Forschung ist zu **eklektischen** Ansätzen konvergiert, die mehrere Kategorien zugleich heranziehen statt einer einzigen Bezeichnung.
 
-**Die Kategorisierung als UFO-Religion** behandelt den Raëlismus als eine spezifische Instanz der breiteren Kategorie der UFO-Religionen, neben Heaven's Gate, Aetherius Society, Unarius und verschiedenen anderen. Die Kategorisierung erfasst substantielle Merkmale des distinktiven Inhalts des Raëlismus, wird aber von einigen Wissenschaftlern als zu eng angesichts der substantiellen breiteren Lehrartikulation und institutionellen Entwicklung des Raëlismus behandelt.
+### Forschung zu einzelnen Lehren
 
-**Die Kategorisierung als neue religiöse Bewegung (NRB)** behandelt den Raëlismus als eine spezifische Instanz der breiteren NRB-Kategorie, neben Mormonentum, Scientology, Bahá'í und verschiedenen anderen. Die Kategorisierung erfasst die breiteren institutionellen und soziologischen Merkmale des Raëlismus, ohne speziell den außerirdischen Schöpferrahmen zu registrieren.
+Die Lesart von Genesis 1 als **gentechnische Schöpfung** ist in der etablierten Wissenschaft auf Skepsis gestoßen — Bibelwissenschaftler behandeln sie als eine zeitgenössische Interpretation und nicht als Fortsetzung historisch-kritischer Arbeit, Naturwissenschaftler als nicht durch die Evolutionsbiologie gestützt. Die **sensuelle Meditation** hat eine differenziertere akademische Behandlung erfahren als in der journalistischen Berichterstattung. Die **Geniokratie** wurde von der politischen Theorie als eine Artikulation der meritokratisch-technokratischen Tradition gelesen, und die **Übertragung des Zellplans** in der Ritualforschung auf ihre doktrinären Implikationen hin.
 
-**Die Kategorisierung als atheistische Religion** behandelt den Raëlismus als eine spezifische Instanz der breiteren Kategorie der atheistischen/wissenschaftlichen Religionen, neben der Comteschen Religion der Menschheit, dem säkularen Humanismus, der Ethischen Kultur, verschiedenen buddhistischen Traditionen und verschiedenen anderen. Die Kategorisierung erfasst die distinktive atheistisch-religiöse Rahmung des Raëlismus, wird aber von einigen Wissenschaftlern so behandelt, dass sie die substantiell religiösen Dimensionen des spezifischen Inhalts des Raëlismus unterschätzt.
+### Rechtlich-politische Behandlung
 
-**Die Kategorisierung als postmoderne Religion** behandelt den Raëlismus als eine spezifische Instanz der breiteren Kategorie postmoderner Religionen, mit der spezifischen kulturell-zeitlichen Verortung innerhalb der spätzwanzigjahrhundertlichen post-traditionellen religiösen Landschaft.
+Die Behandlung variierte von Land zu Land. In **Frankreich** haben MIVILUDES und UNADFI die Bewegung als *secte* eingestuft, mit Spannungen seit den 1990er Jahren, wobei das *About-Picard-Gesetz* von 2001 dem regulatorische Kraft verlieh; raëlianische Klagen hatten unterschiedlichen Erfolg. In **Nordamerika** haben der Erste Verfassungszusatz und der kanadische Schutz der Religionsfreiheit die Spannungen gemildert, auch wenn die Clonaid-Ankündigung von 2002 die Aufmerksamkeit von FDA und Health Canada auf sich zog; Gerichte in den USA und Kanada haben die Rechte der Bewegung im Allgemeinen bestätigt. In **Europa** führte Belgiens parlamentarische Anti-Sekten-Kommission von 1997 sie unter den problematischen Gruppen, und der deutsche Sekten-Beauftragte hat sich mit ihr befasst. In **Asien** ist die Bewegung in Japan und Südkorea stark, wobei Letzteres besonders entgegenkommend ist. Seit den 1990er Jahren ist sie zudem in mehreren **afrikanischen** Ländern präsent.
 
-**Eklektische Kategorisierungsansätze** behandeln den Raëlismus als zutreffend durch mehrere Kategorisierungen gleichzeitig erschließbar, wobei die spezifischen Kategorisierungen unterschiedliche analytische Rahmungen der distinktiven Merkmale der Bewegung erzeugen. Die breitere wissenschaftliche Konvergenz ist in Richtung eklektischer Kategorisierungsansätze gegangen statt in Richtung einer einzigen definitiven Kategorisierung.
+### Berichte ehemaliger Raëlianer und von Anti-Sekten-Organisationen
 
-### Wissenschaftliche Behandlung spezifischer raëlianischer Lehren
-
-Die verschiedenen spezifischen raëlianischen Lehren haben eine substantielle wissenschaftliche Auseinandersetzung produziert.
-
-**Der Rahmen der gentechnischen Schöpfung.** Die spezifische Lesart des raëlianischen Rahmens von Genesis 1 als Bewahrung einer substantiell korrekten Erinnerung an gentechnische Schöpfung hat eine substantielle wissenschaftliche Auseinandersetzung produziert. Die etablierte biblisch-wissenschaftliche Reaktion ist im Allgemeinen skeptisch ausgefallen und behandelt die Lesart als einen spezifischen zeitgenössischen interpretativen Rahmen und nicht als Fortsetzung der etablierten historisch-kritischen Bibelwissenschaft. Die breitere etablierte wissenschaftliche Reaktion ist substantiell skeptischer ausgefallen und behandelt die spezifischen historischen Behauptungen des Rahmens als nicht durch die etablierte Evolutionsbiologie und den breiteren wissenschaftlichen Konsens gestützt.
-
-**Die Praktiken der sensuellen Meditation.** Die Praktiken der sensuellen Meditation haben eine substantielle wissenschaftliche Auseinandersetzung produziert, mit verschiedenen akademischen Behandlungen des spezifischen Inhalts der Praktiken, des breiteren spirituell-entwicklungsmäßigen Rahmens und der Rezeption innerhalb der etablierten kulturellen Kontexte. Die etablierte wissenschaftliche Auseinandersetzung ist im Allgemeinen nuancierter ausgefallen als die journalistisch-populäre Auseinandersetzung, mit verschiedenen akademischen Behandlungen, die eine detaillierte Analyse der Integration der Praktiken in den breiteren raëlianischen Rahmen produzieren.
-
-**Die Geniokratie-Lehre.** Die politische Geniokratie-Lehre hat eine substantielle wissenschaftliche Auseinandersetzung innerhalb der politischen Theorie und der breiteren Sozialwissenschaft produziert. Die Lehre wurde als eine spezifische zeitgenössische Artikulation breiterer meritokratischer und technokratischer politischer Traditionen behandelt, mit verschiedenen wissenschaftlichen Behandlungen, die eine detaillierte Analyse des spezifischen Inhalts und der breiteren Implikationen der Lehre produzieren.
-
-**Die Zellplan-Übertragung.** Die baptismale Praxis der Zellplan-Übertragung hat eine substantielle wissenschaftliche Auseinandersetzung innerhalb der Ritualforschung und der breiteren Religionsforschung produziert, mit verschiedenen akademischen Behandlungen des spezifischen Inhalts der Praxis und ihrer breiteren theologisch-doktrinären Implikationen.
-
-### Rechtlich-politische Behandlung des Raëlismus
-
-Die rechtlich-politische Behandlung des Raëlismus hat in verschiedenen nationalen Kontexten substantiell variiert.
-
-**Französischer rechtlich-politischer Kontext.** Die französische Regierung hat über MIVILUDES und UNADFI eine substantielle Auseinandersetzung mit dem Raëlismus geführt. Die raëlianische Bewegung ist in verschiedenen Dokumenten der französischen Regierung als *secte* (die französische rechtlich-kulturelle Kategorie problematischer religiöser Gruppen) eingestuft worden, mit verschiedenen rechtlich-politischen Spannungen in den vergangenen Jahrzehnten. Das *About-Picard-Gesetz* von 2001 über Anti-Sekten-Maßnahmen hat den maßgeblichen nachfolgenden regulatorischen Rahmen gebildet. Verschiedene rechtliche Klagen der raëlianischen Bewegung gegen Einstufungen der französischen Regierung haben im Zeitraum nach 2001 unterschiedliche Ergebnisse erzeugt.
-
-**Nordamerikanischer rechtlich-politischer Kontext.** Die raëlianische Bewegung hat in Nordamerika mit substantiell geringerer rechtlich-politischer Spannung operiert, wobei der erste Verfassungszusatz der Vereinigten Staaten und der kanadische Religionsfreiheitsschutz einen breiteren institutionellen Schutz bieten. Die Clonaid-Ankündigung von 2002 löste eine substantielle nachfolgende Auseinandersetzung mit der FDA und Health Canada aus, mit verschiedenen regulatorischen Fragen zur menschlichen Klonforschung. Verschiedene US-amerikanische und kanadische Rechtsfälle haben die Religionsfreiheitsrechte der raëlianischen Bewegung im Allgemeinen bestätigt.
-
-**Europäischer rechtlich-politischer Kontext.** Verschiedene europäische Länder haben eine unterschiedliche rechtlich-politische Auseinandersetzung geführt. Belgiens Anti-Sekten-Parlamentskommission von 1997 stufte die raëlianische Bewegung unter den problematischen religiösen Gruppen ein; der deutsche Sekten-Beauftragte hat sich mit verschiedenen Angelegenheiten der raëlianischen Bewegung befasst; verschiedene andere europäische nationale Rahmen haben spezifische Auseinandersetzungen produziert.
-
-**Asiatischer rechtlich-politischer Kontext.** Die raëlianische Bewegung hat substantielle Präsenz in Japan und Südkorea, wobei der breitere asiatische religionspluralistische Kontext eine andere rechtlich-politische Auseinandersetzung erzeugt als der europäische Anti-Sekten-Rahmen. Der spezifische religionspluralistische Kontext Südkoreas war für die raëlianische Bewegung besonders entgegenkommend.
-
-**Afrikanischer rechtlich-politischer Kontext.** Die raëlianische Bewegung war im Zeitraum nach den 1990er Jahren in verschiedenen afrikanischen Ländern substantiell präsent, mit unterschiedlichen spezifischen nationalen Kontexten. Der breitere afrikanische religionspluralistische Kontext hat eine unterschiedliche rechtlich-politische Auseinandersetzung erzeugt.
-
-### Verschiedene Ex-Raëlianer- und Anti-Sekten-Organisationsberichte
-
-Verschiedene ehemalige Raëlianer haben kritische Berichte über ihre Erfahrungen innerhalb der Bewegung produziert, mit verschiedenen Glaubwürdigkeitsgraden und verschiedenen spezifischen Beschwerden. Die etablierte NRB-Forschung hat sich mit diesen Berichten im Allgemeinen als einer Beweisquelle unter vielen befasst, ohne sie als definitiv autoritativ oder definitiv abweisbar zu behandeln.
-
-Die breitere Auseinandersetzung von Anti-Sekten-Organisationen (UNADFI, MIVILUDES, FECRIS, verschiedene internationale Organisationen) hat in den vergangenen Jahrzehnten substantielles kritisch-feindseliges Material produziert. Die etablierte NRB-Forschung hat sich mit diesem Material im Allgemeinen kritisch befasst, wobei verschiedene Wissenschaftler das Anti-Sekten-Material als eine spezifische Perspektive und nicht als definitive wissenschaftliche Behandlung behandeln. Die eigene Position des Korpus richtet sich auf institutionell-soziologischer Ebene an dieser wissenschaftlichen Auseinandersetzung aus, geht aber beim Inhalt der quellenmateriellen Unterweisung über sie hinaus, und behandelt die Anti-Sekten- und Ex-Mitglieder-Berichte als eine Beweisquelle unter vielen und nicht als definitiv.
+Ehemalige Mitglieder haben kritische Berichte von unterschiedlicher Glaubwürdigkeit verfasst, Anti-Sekten-Organisationen (UNADFI, MIVILUDES, FECRIS) feindseliges Material; die NRB-Forschung liest beides kritisch, als Quellen unter vielen. Der Korpus schließt sich dieser Forschung auf der institutionell-soziologischen Ebene an, geht beim Inhalt der Unterweisung über sie hinaus und behandelt Berichte von Anti-Sekten-Organisationen und ehemaligen Mitgliedern als Belege, nicht als ausschlaggebend.
 
 ## Vergleichende Beobachtungen
 
-Die distinktiven Merkmale des Raëlismus verdienen eine vergleichende Auseinandersetzung mit mehreren Kategorien religiöser Bewegungen.
-
 ### Andere UFO-Religionen
 
-Die breitere Kategorie der UFO-Religionen liefert die unmittelbare wissenschaftliche Kategorie, innerhalb derer der Raëlismus operiert.
+**Heaven's Gate** (1974 von Marshall Applewhite und Bonnie Nettles gegründet) endete im März 1997 mit dem Massensuizid von 39 Mitgliedern in Rancho Santa Fe, Kalifornien, verknüpft mit dem Kometen Hale-Bopp; ihr Rahmen erwartete die außerirdische Rückkehr durch kosmische Ereignisse. Ihr katastrophales Ende ist der schärfste Kontrast zum fortdauernden fünf Jahrzehnte währenden Muster des Raëlismus.{{ footnote(id="6") }}
 
-**Heaven's Gate** (1974 von Marshall Applewhite und Bonnie Nettles gegründet) war eine UFO-Religion, die im März 1997 mit dem Massenselbstmord von 39 Mitgliedern in Rancho Santa Fe, Kalifornien, im Zusammenhang mit dem Erscheinen des Kometen Hale-Bopp katastrophal endete. Der spezifische Rahmen der Bewegung beinhaltete angeblichen Kontakt mit außerirdischen Wesen, deren Rückkehr durch spezifische kosmische Ereignisse erwartet wurde. Das katastrophale Ende der Bewegung bietet einen substantiellen Kontrast zum fortgesetzten fünfjahrzehntelangen operativen Muster des Raëlismus. Der Rahmen liest Heaven's Gate als einen spezifischen UFO-Religionsfall, dessen katastrophales Ergebnis substantiell andere operative Merkmale widerspiegelt als das fortgesetzte Muster des Raëlismus.{{ footnote(id="6") }}
+Die **Aetherius Society** (1955 von George King gegründet), eine der am längsten bestehenden UFO-Religionen, schöpft aus theosophischen und esoterischen Traditionen und behauptet Kontakt mit „Kosmischen Meistern“, die mit Körpern des Sonnensystems verbunden sind; sie besteht ununterbrochen mit nationalen Zweigen — eine strukturelle Parallele bei anderer Lehre. Die **Unarius Academy of Science** (1954 von Ernest L. Norman und Ruth E. Norman gegründet) beruht auf Channeling, schöpft aus theosophischem und esoterischem Material und behauptet Kontakt mit außerirdischen Zivilisationen. **Cosmic People (Vesmírní lidé)** (um 1997 von Ivo A. Benda gegründet) ist eine tschechische, auf Channeling beruhende Bewegung, die Kontakt mit plejadischen und anderen Zivilisationen behauptet.
 
-**Aetherius Society** (1955 von George King gegründet) ist eine der am längsten andauernden UFO-Religionen, mit substantieller Lehrartikulation, die auf theosophische und breitere esoterische Traditionen zurückgreift. Der spezifische Rahmen der Gesellschaft beinhaltet angeblichen Kontakt mit „Kosmischen Meistern", die mit verschiedenen Körpern des Sonnensystems verbunden sind. Die Gesellschaft hat im Zeitraum nach 1955 substantielle Operationen fortgeführt, mit verschiedenen nationalen Zweigen und substantieller institutioneller Entwicklung. Der Rahmen liest die Aetherius Society als einen spezifischen UFO-Religionsfall mit substantiellen strukturellen Parallelen zum fortgesetzten operativen Muster des Raëlismus, jedoch mit substantiell unterschiedlichem Lehrinhalt.
-
-**Unarius Academy of Science** (1954 von Ernest L. Norman und Ruth E. Norman gegründet) ist eine UFO-Religion mit substantiellem channelingbasiertem Lehrinhalt, der auf verschiedene theosophische und breitere esoterische Traditionen zurückgreift. Der spezifische Rahmen der Akademie beinhaltet angeblichen Kontakt mit verschiedenen außerirdischen Zivilisationen durch Channeling-Praktiken. Der Rahmen liest Unarius als einen spezifischen UFO-Religionsfall mit verschiedenen strukturellen Parallelen zum Raëlismus, der jedoch durch substantiell unterschiedliche doktrinär-institutionelle Merkmale operiert.
-
-**Cosmic People (Vesmírní lidé)** (ca. 1997 von Ivo A. Benda gegründet) ist eine tschechische UFO-Religion mit substantiellem channelingbasiertem Lehrinhalt. Der spezifische Rahmen der Bewegung beinhaltet angeblichen Kontakt mit plejadischen und breiteren außerirdischen Zivilisationen durch Channeling-Praktiken.
-
-**Verschiedene andere UFO-Religionen** — einschließlich des Ashtar Galactic Command, der Galactic Federation of Light, der Universe People und verschiedener anderer — liefern die breitere Landschaft, innerhalb derer der Raëlismus operiert. Der Rahmen liest den Raëlismus als strukturell besonders innerhalb dieser breiteren Landschaft durch die spezifische institutionelle Substanz, Lehrartikulation, atheistisch-religiöse Rahmung und das fortgesetzte operative Muster.
+Weitere — das Ashtar Galactic Command, die Galactic Federation of Light, Universe People — vervollständigen die Landschaft. In ihr hebt sich der Raëlismus durch institutionelle Substanz, Lehrartikulation, atheistische Rahmung und Beständigkeit ab.
 
 ### Neue religiöse Bewegungen mit Prophetengründern
 
-Die breitere Kategorie neuer religiöser Bewegungen (NRB) mit Prophetengründern liefert eine weitere wissenschaftliche Kategorie, innerhalb derer der Raëlismus operiert.
+Das **Mormonentum** (Kirche Jesu Christi der Heiligen der Letzten Tage, 1830 von Joseph Smith gegründet) ist in mehreren Punkten vergleichbar: ein Prophetengründer, ein vom Gründer hervorgebrachter Korpus (Buch Mormon, Lehre und Bündnisse, Köstliche Perle), institutionelle Entwicklung, eine Lehre der Schöpfung vieler Welten und Inhalte einer erwarteten Rückkehr; der ausführliche Vergleich findet sich im Eintrag [Kosmischer Wettbewerb](../cosmic-competition/).
 
-**Mormonentum** (Kirche Jesu Christi der Heiligen der Letzten Tage, 1830 von Joseph Smith gegründet) ist in mehreren spezifischen Punkten strukturell vergleichbar: Prophetengründerfigur, substantieller textlicher Korpus, der vom Gründer hervorgebracht wurde (Buch Mormon, Lehre und Bündnisse, Köstliche Perle), substantielle institutionelle Entwicklung, Lehre mehrerer Welten in der Schöpfung, erwarteter Rückkehrinhalt. Die detaillierte vergleichende Behandlung der Mormonenlehre findet sich in den *Vergleichenden Beobachtungen* des Eintrags [Kosmische Konkurrenz](../cosmic-competition/).
-
-**Scientology** (1953 von L. Ron Hubbard gegründet) ist in mehreren spezifischen Punkten strukturell vergleichbar: Prophetengründerfigur, substantieller textlicher Korpus, der vom Gründer hervorgebracht wurde, substantielle institutionelle Entwicklung, distinktiver Lehrinhalt, kontroverse Rezeption. Der Rahmen liest Scientology als einen spezifischen NRB-Fall mit substantiellen strukturellen Parallelen zum Raëlismus, jedoch mit substantiell unterschiedlichen doktrinär-institutionellen Merkmalen (Scientologys spezifische „Thetan"-Lehre, die Auditing-Praxis, die Sea-Organization-Struktur).
-
-**Bahá'í-Glaube** (1844–1863 von Báb und Bahá'u'lláh gegründet) ist in mehreren spezifischen Punkten strukturell vergleichbar: Prophetengründerfiguren, substantieller textlicher Korpus, substantielle institutionelle Entwicklung, Rahmung als universal-religiöse Tradition, erwarteter Rückkehrinhalt innerhalb des breiteren religiös-traditionellen Rahmens. Der Rahmen liest Bahá'í als einen spezifischen NRB-Fall mit substantiellen strukturellen Parallelen zum Raëlismus, jedoch mit substantiell unterschiedlichen doktrinär-institutionellen Merkmalen.
-
-**Verschiedene andere NRB mit Prophetengründern** — einschließlich Soka Gakkai (gegründet 1930), der Vereinigungskirche (1954 von Sun Myung Moon gegründet), verschiedener anderer — liefern die breitere Landschaft, innerhalb derer der Raëlismus operiert.
-
-Der Rahmen liest den Raëlismus als strukturell besonders innerhalb dieser breiteren NRB-Landschaft durch den spezifischen außerirdischen Schöpferrahmen, die explizite atheistisch-religiöse Rahmung und die Integration mit der breiteren kumulativen prophetischen Tradition (die die meisten anderen NRB nicht direkt integrieren).
+**Scientology** (1953 von L. Ron Hubbard gegründet) teilt Prophetengründer, vom Gründer hervorgebrachten Korpus, institutionelle Entwicklung, eigene Lehre und kontroverse Rezeption, bei anderen Merkmalen (der Thetan-Lehre, dem Auditing, der Sea Organization). Der **Bahá'í-Glaube** (1844–1863 vom Báb und Bahá'u'lláh gegründet) teilt Prophetengründer, einen Textkorpus, institutionelle Entwicklung, die Rahmung als universale religiöse Tradition und Inhalte einer erwarteten Rückkehr. Weitere — Soka Gakkai (1930), die Vereinigungskirche (1954, Sun Myung Moon) — runden das Feld ab. Darin zeichnet sich der Raëlismus durch den außerirdischen Schöpferrahmen, den ausdrücklichen Atheismus und seine Einbindung in die kumulative prophetische Tradition aus.
 
 ### Atheistische/wissenschaftliche Religionen
 
-Die breitere Kategorie der atheistischen/wissenschaftlichen Religionen liefert eine spezifische wissenschaftliche Kategorie, innerhalb derer die distinktive atheistisch-religiöse Rahmung des Raëlismus operiert.
+**Die Comtesche Religion der Menschheit** (um 1851 von Auguste Comte gegründet), ausgearbeitet in seinem *Système de politique positive*, war die bedeutende atheistische Religion des neunzehnten Jahrhunderts — ein positivistischer Glaube, auf die Menschheit ausgerichtet, mit Ritual, Kalender und institutioneller Struktur; ein Vorläufer der Rahmung des Raëlismus bei anderem Inhalt (die Menschheit selbst, nicht die Elohim und der kosmisch-schöpferische Zyklus).
 
-**Comtesche Religion der Menschheit** (ca. 1851 von Auguste Comte gegründet) war die wichtigste neunzehntjahrhundertliche Artikulation des atheistisch-religiösen Rahmens, mit substantieller Ausarbeitung durch Comtes *Système de politique positive* und verschiedene andere Werke. Die Religion der Menschheit schlug eine positivistische Religion vor, die auf die Menschheit selbst und nicht auf eine übernatürliche Gottheit ausgerichtet ist, mit substantieller ritueller Struktur, Kalender und breiterem religiös-institutionellem Rahmen. Der Rahmen liest die Religion der Menschheit als einen spezifischen historischen Vorläufer der atheistisch-religiösen Rahmung des Raëlismus, jedoch mit substantiell unterschiedlichem Lehrinhalt (Religion der Menschheit auf die Menschheit selbst ausgerichtet; Raëlismus auf die Elohim und den breiteren kosmisch-schöpferischen Zyklus ausgerichtet).
-
-**Säkularer Humanismus** ist die breitere zeitgenössische Bewegung, die einen nicht-religiösen humanistischen Rahmen artikuliert, mit verschiedenen spezifischen institutionellen Artikulationen (American Humanist Association, International Humanist and Ethical Union, verschiedene andere). Die Bewegung wird im Allgemeinen nicht als religiös im strengen Sinn klassifiziert, auch wenn sich verschiedene spezifische Artikulationen einer religiös-institutionellen Struktur angenähert haben. Der Rahmen liest den säkularen Humanismus als eine spezifische zeitgenössische Artikulation breiterer nicht-religiöser humanistischer Inhalte, mit substantieller struktureller Überschneidung mit der spezifischen atheistischen Orientierung des Raëlismus, aber substantiell unterschiedlichem Inhalt (säkularer Humanismus ohne spezifischen außerirdischen Schöpferrahmen).
-
-**Ethische Kultur** (1876 von Felix Adler gegründet) ist eine spezifische institutionelle Artikulation des breiteren ethisch-religiösen Rahmens, mit verschiedenen spezifischen institutionellen Merkmalen (Ethical Culture Society, verschiedene nationale Zweige). Die Bewegung bietet einen spezifischen historischen Vorläufer der atheistisch-religiösen Rahmung des Raëlismus innerhalb eines institutionell-religiösen Kontextes.
-
-**Verschiedene buddhistische Traditionen** bewahren substantiell atheistisch-religiöse Rahmen innerhalb der breiteren buddhistischen religiös-philosophischen Traditionen. Zu den wichtigsten buddhistischen atheistischen Merkmalen gehören die Ablehnung eines Schöpfergottinhalts, die Ablehnung einer unsterblichen Seele und die Ausrichtung auf Erwachen statt auf eine göttliche Beziehung. Der Rahmen liest verschiedene buddhistische Traditionen als substantielle Parallelen zur atheistisch-religiösen Rahmung des Raëlismus, wobei die Theravada-Tradition der streng atheistischen Rahmung besonders nahekommt, während verschiedene Mahayana-Traditionen substantiellere Gottheitsinhalte bewahren.
-
-**Die Sunday Assembly** und verschiedene andere zeitgenössische Artikulationen atheistischer Religionen liefern weitere Parallelen zur spezifischen atheistisch-religiösen Rahmung des Raëlismus innerhalb der breiteren zeitgenössischen religiösen Landschaft.
-
-### Buddhistisch-philosophische Religionen
-
-Die breitere Kategorie buddhistisch-philosophischer Religionen liefert eine spezifische vergleichende Kategorie für die distinktive atheistisch-philosophische Rahmung des Raëlismus.
-
-**Theravada-Buddhismus** bewahrt substantiell atheistische Inhalte innerhalb der breiteren buddhistischen religiös-philosophischen Tradition, mit der Ablehnung eines Schöpfergottinhalts, der Ablehnung einer unsterblichen Seele und der Ausrichtung auf das Erwachen durch den Achtfachen Pfad. Der Rahmen liest den Theravada-Buddhismus als eine spezifische Parallele zur atheistisch-religiösen Rahmung des Raëlismus, mit substantiell unterschiedlichem Lehrinhalt (Theravadas spezifischer Rahmen der Vier Edlen Wahrheiten; der spezifische außerirdische Schöpferrahmen des Raëlismus).
-
-**Verschiedene buddhistisch-modernistische Traditionen** (buddhistischer Modernismus, säkularer Buddhismus, verschiedene andere) haben im Zeitraum nach dem neunzehnten Jahrhundert substantielle Artikulationen explizit atheistischer buddhistischer Inhalte produziert, mit verschiedenen spezifischen institutionellen Merkmalen. Der Rahmen liest diese Traditionen als substantielle Parallelen zur atheistisch-religiösen Rahmung des Raëlismus, mit substantiell unterschiedlichem spezifischem Inhalt.
+Der **säkulare Humanismus**, der zeitgenössische nichtreligiöse humanistische Rahmen (die American Humanist Association, die International Humanist and Ethical Union), gilt im Allgemeinen nicht als Religion, überschneidet sich aber mit der atheistischen Ausrichtung des Raëlismus ohne dessen außerirdischen Schöpferinhalt. Die **Ethische Kultur** (1876 von Felix Adler gegründet) ist eine institutionelle Artikulation eines ethisch-religiösen Rahmens und ein weiterer Vorläufer. **Buddhistische Traditionen** tragen atheistische Rahmen innerhalb des Buddhismus — keine Schöpfergottheit, keine unsterbliche Seele, eine Ausrichtung auf das Erwachen durch den Achtfachen Pfad — eine substantielle Parallele bei anderer Lehre (die Vier Edlen Wahrheiten, kein außerirdischer Schöpferrahmen); der Theravada steht der streng atheistischen Rahmung am nächsten, der Mahayana bewahrt mehr Gottheitsinhalte, und buddhistisch-modernistische und säkular-buddhistische Traditionen haben seit dem neunzehnten Jahrhundert ausdrücklich atheistische Inhalte artikuliert. **Die Sunday Assembly** und andere zeitgenössische atheistische Gemeinden bieten weitere Parallelen.
 
 ### Indigene Schöpferreligionen
 
-Die breitere Kategorie indigener Schöpferreligionen liefert eine spezifische vergleichende Kategorie für die distinktive Rahmung des Raëlismus als Schöpferzivilisation innerhalb indigen-religiöser Traditionen.
-
-**Verschiedene mesoamerikanische Traditionen** bewahren substantielle Schöpferzivilisationsinhalte mit distinktiven kulturell-religiösen Rahmungen (die detaillierte Behandlung findet sich in den *Vergleichenden Beobachtungen* des Eintrags [Antediluvianisch](../antediluvian/) und in breiteren Einträgen). Der Rahmen liest diese Traditionen so, dass sie substantielle Parallelinhalte zum spezifischen außerirdischen Schöpferrahmen des Raëlismus innerhalb distinktiver kulturell-religiöser Rahmungen bewahren.
-
-**Verschiedene afrikanische Schöpfungstraditionen** bewahren substantielle Schöpferzivilisationsinhalte mit distinktiven kulturell-religiösen Rahmungen. Der Rahmen liest diese Traditionen so, dass sie substantielle Parallelinhalte innerhalb distinktiver kulturell-religiöser Rahmungen bewahren.
-
-**Verschiedene polynesische, nordamerikanische, südamerikanische und australische Aboriginal-Traditionen** bewahren substantielle Schöpferzivilisationsinhalte innerhalb ihrer distinktiven kulturell-religiösen Rahmungen.
+**Mesoamerikanische Traditionen** bewahren Inhalte über eine Schöpferzivilisation in ihren eigenen Ausdrucksformen (ausgeführt im Eintrag [Vorsintflutlich](../antediluvian/)), eine Parallele zum außerirdischen Schöpferrahmen. **Afrikanische**, **polynesische, nordamerikanische, südamerikanische und australisch-aboriginale Traditionen** bewahren ebenfalls Inhalte über eine Schöpferzivilisation in ihren eigenen Rahmungen.
 
 ### Die Konvergenz
 
-Die Arbeitsposition des Korpus zur vergleichenden Frage religiöser Bewegungen ist: Der Raëlismus nimmt eine distinktive Position innerhalb der breiteren religiösen Bewegungslandschaft ein — substantiell innerhalb der Kategorie der UFO-Religionen durch seinen spezifischen außerirdischen Schöpferrahmen, substantiell innerhalb der Kategorie neuer religiöser Bewegungen durch sein Muster institutioneller Entwicklung, substantiell innerhalb der Kategorie atheistischer Religionen durch seine explizite atheistische Rahmung, wobei er innerhalb jeder dieser Kategorien durch spezifische Merkmale, die eine eigene analytische Behandlung verdienen, distinktiv ist.
-
-Die etablierte wissenschaftliche Erklärung — die den Raëlismus im Allgemeinen durch eklektische Kategorisierungsansätze behandelt, die mehrere wissenschaftliche Kategorien gleichzeitig heranziehen — erfasst substantielle Merkmale der distinktiven Position des Raëlismus. Die spezifische Lesart des Rahmens ist: Die strukturelle Besonderheit des Raëlismus ist ein substantielles Merkmal, das die spezifische Rolle der Bewegung als wichtigstes zeitgenössisches institutionelles Vehikel für die quellenmaterielle Unterweisung widerspiegelt, mit der sich der breitere Wheel-of-Heaven-Rahmen befasst — ein Vehikel, dessen spezifische institutionelle, doktrinäre und operative Merkmale die spezifischen Anforderungen des Wassermann-Zeitalters widerspiegeln und nicht zufällig sind.
+Die Arbeitsposition des Korpus lautet, dass der Raëlismus in der gesamten Landschaft einen eigenständigen Platz einnimmt — in der Kategorie der UFO-Religionen durch den außerirdischen Schöpferrahmen, in der Kategorie der NRB durch seine institutionelle Entwicklung, in der Kategorie der atheistischen Religionen durch seine ausdrückliche Rahmung — und sich dabei innerhalb jeder abhebt, wie es der eklektische Kategorisierungsansatz der etablierten Forschung weitgehend zulässt. Der Rahmen liest diese Eigenständigkeit als Funktion der Rolle der Bewegung als wichtigstes zeitgenössisches Vehikel für die Unterweisung des Quellenmaterials, wobei ihre institutionellen, doktrinären und operativen Merkmale der Anforderung des Wassermann-Zeitalters entsprechen, statt beiläufig zu sein.
 
 ## Siehe auch
 
@@ -636,9 +469,9 @@ Die etablierte wissenschaftliche Erklärung — die den Raëlismus im Allgemeine
 - [Rat der Ewigen](../council-of-the-eternals/)
 - [Botschaft](../embassy/)
 - [Apokalypse](../apocalypse/)
-- [Kosmische Konkurrenz](../cosmic-competition/)
+- [Kosmischer Wettbewerb](../cosmic-competition/)
 - [Kosmische Kette](../cosmic-chain/)
-- [Doppelsignatur](../doubled-signature/)
+- [Doppelte Signatur](../doubled-signature/)
 - [Prophet](../prophet/)
 - [Jesus](../jesus/)
 - [Mose](../moses/)
@@ -678,9 +511,9 @@ International Raëlian Movement. Verschiedene offizielle Mitteilungen im Zeitrau
 
 Palmer, Susan J. *Aliens Adored: Raël's UFO Religion*. Rutgers University Press, 2004.
 
-Palmer, Susan J. „Field Notes: Apocalypse, Eros, and the Raelian Religion." *Religious Studies and Theology* 19, Nr. 2 (2000): 65–75.
+Palmer, Susan J. „Field Notes: Apocalypse, Eros, and the Raelian Religion.“ *Religious Studies and Theology* 19, Nr. 2 (2000): 65–75.
 
-Palmer, Susan J. „Women in the Raelian Movement: New Religious Experiments in Gender and Authority." In *The Gods Have Landed: New Religions from Other Worlds*, hg. von James R. Lewis. SUNY Press, 1995.
+Palmer, Susan J. „Women in the Raelian Movement: New Religious Experiments in Gender and Authority.“ In *The Gods Have Landed: New Religions from Other Worlds*, hg. von James R. Lewis. SUNY Press, 1995.
 
 Introvigne, Massimo. Verschiedene wissenschaftliche Auseinandersetzungen mit der raëlianischen Bewegung über CESNUR, 1990er-Jahre bis heute.
 
@@ -694,21 +527,21 @@ Partridge, Christopher. *The Re-Enchantment of the West*. 2 Bde. T&T Clark, 2004
 
 Tumminia, Diana G. *Alien Worlds: Social and Religious Dimensions of Extraterrestrial Contact*. Syracuse University Press, 2007.
 
-Chryssides, George D. „Unrecognized Charisma? A Study and Comparison of Four Charismatic Leaders: Charles Taze Russell, Joseph Smith, L. Ron Hubbard and Swami Prabhupada." Paper, CESNUR, 2003.
+Chryssides, George D. „Unrecognized Charisma? A Study and Comparison of Four Charismatic Leaders: Charles Taze Russell, Joseph Smith, L. Ron Hubbard and Swami Prabhupada.“ Paper, CESNUR, 2003.
 
 Chryssides, George D., und Margaret Z. Wilkins (Hgg.). *A Reader in New Religious Movements*. Continuum, 2006.
 
-Rothstein, Mikael. „Hagiography and Text in the Raëlian Movement." In *UFO Religions*, hg. von Christopher Partridge. Routledge, 2003.
+Rothstein, Mikael. „Hagiography and Text in the Raëlian Movement.“ In *UFO Religions*, hg. von Christopher Partridge. Routledge, 2003.
 
-Rothstein, Mikael. „UFO Religions and Religious Studies: A Comparative Perspective." In *UFO Religions*, hg. von Christopher Partridge. Routledge, 2003.
+Rothstein, Mikael. „UFO Religions and Religious Studies: A Comparative Perspective.“ In *UFO Religions*, hg. von Christopher Partridge. Routledge, 2003.
 
-Östling, Erik A. W. „Raëlism." In *Handbook of UFO Religions*, hg. von Benjamin E. Zeller. Brill, in Vorbereitung.
+Östling, Erik A. W. „Raëlism.“ In *Handbook of UFO Religions*, hg. von Benjamin E. Zeller. Brill, in Vorbereitung.
 
 Zeller, Benjamin E. *Heaven's Gate: America's UFO Religion*. NYU Press, 2014.
 
 Zeller, Benjamin E. (Hg.). *Handbook of UFO Religions*. Brill, 2021.
 
-Saliba, John A. „The Study of UFO Religions." *Nova Religio* 10, Nr. 2 (2006): 103–123.
+Saliba, John A. „The Study of UFO Religions.“ *Nova Religio* 10, Nr. 2 (2006): 103–123.
 
 Wessinger, Catherine (Hg.). *The Oxford Handbook of Millennialism*. Oxford University Press, 2011.
 
@@ -746,6 +579,6 @@ Clonaid. <https://www.clonaid.com>
 
 Alliance for Extraterrestrial Diplomatic Contact. <https://www.aedc-alliance.org>
 
-„Raëlism." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Raelism>
+„Raëlism.“ *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Raelism>
 
-„International Raelian Movement." *Wikipedia*. <https://en.wikipedia.org/wiki/Ra%C3%ABlism>
+„International Raelian Movement.“ *Wikipedia*. <https://en.wikipedia.org/wiki/Ra%C3%ABlism>

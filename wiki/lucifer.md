@@ -267,7 +267,7 @@ Across the Age of Cancer (c. 8,850 – 6,690 BCE on the corpus's chronology), Lu
 
 **Third**, the technological transmissions. The Genesis 4 cultural-founders genealogy — Jabal for pastoral nomadism, Jubal for music, Tubal-Cain for metallurgy — attributes developments to named persons the framework reads as products of the faction's teaching.
 
-**Fourth**, the civilization's overall development — by the late Age of Cancer advanced enough that the home-world authorities judged it a threat, leading to the Flood decision (treated in the [Great Flood](../great-flood/) entry, when written). The corpus reads this as largely the faction's work across the two millennia of Cancer, grown under alliance tutelage rather than in isolation.
+**Fourth**, the civilization's overall development — by the late Age of Cancer advanced enough that the home-world authorities judged it a threat, leading to the Flood decision (treated in the [Great Flood](../great-flood/) entry). The corpus reads this as largely the faction's work across the two millennia of Cancer, grown under alliance tutelage rather than in isolation.
 
 ### The *benei ha-Elohim* episode and the Nephilim
 
