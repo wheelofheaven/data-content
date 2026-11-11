@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 97
 claim_type = "inferred"
@@ -487,7 +487,7 @@ Die Lesart des Korpus erfordert nicht die Ablehnung des gesamten etablierten wis
 
 ### XII.6. Populationsengpass-Genetik
 
-Der Rahmen des Korpus sagt einen großen Populationsengpass zur Zeit der Sintflut voraus, die er auf etwa 6.690 v. Chr. (den Beginn des Zeitalters der Zwillinge) datiert. Die nachsintflutliche menschliche Bevölkerung würde in dieser Lesart von einer kleinen Gründergruppe abstammen — Noahs Familie von acht plus den Vertretern der anderen sechs Linien, die die Quelle als bewahrt und zurückgebracht erwähnt. Dies ist ein schwerer Engpass, und er würde eine nachweisbare Signatur in der genetischen Aufzeichnung aller nachfolgenden menschlichen Bevölkerungen hinterlassen: reduzierte genetische Vielfalt, die auf das Engpassereignis datiert, mit allmählicher Erholung der Vielfalt, während sich die Bevölkerung anschließend ausdehnte.
+Der Rahmen des Korpus sagt einen großen Populationsengpass zur Zeit der Sintflut voraus, die er auf etwa 6.690 v. Chr. (den Beginn des Zeitalters der Zwillinge) datiert. Die nachsintflutliche menschliche Bevölkerung würde in dieser Lesart von einer kleinen Gründergruppe abstammen — Noahs Familie von acht plus den Vertretern der anderen Linien, die die Quelle als bewahrt und zurückgebracht erwähnt. Dies ist ein schwerer Engpass, und er würde eine nachweisbare Signatur in der genetischen Aufzeichnung aller nachfolgenden menschlichen Bevölkerungen hinterlassen: reduzierte genetische Vielfalt, die auf das Engpassereignis datiert, mit allmählicher Erholung der Vielfalt, während sich die Bevölkerung anschließend ausdehnte.
 
 Die moderne Populationsgenetik hat mehrere offensichtliche Engpässe in der menschlichen Evolutionsgeschichte identifiziert. Der berühmteste ist die Toba-Engpass-Hypothese, die vorschlug, dass der Ausbruch des Mount Toba in Indonesien vor etwa 74.000 Jahren ein Beinahe-Aussterbeereignis in menschlichen Populationen verursachte. Die Toba-Hypothese ist durch neuere Studien erheblich abgeschwächt worden, doch die breitere Frage nach Engpässen in der menschlichen Vorgeschichte bleibt aktiv. Verschiedene Analysen mitochondrialer DNA und Y-Chromosom-Linien haben Koaleszenzereignisse zu verschiedenen Zeiten identifiziert, einige davon als Belege für Engpässe oder Bevölkerungsreduktionen interpretiert.
 

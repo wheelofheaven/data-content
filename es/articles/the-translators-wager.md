@@ -7,8 +7,8 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
-source_updated = "2026-11-07"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 97
 core_versions = { woh-claim-0042 = "0.1.0" }
@@ -876,7 +876,7 @@ la crónica de una pluralidad de individuos longevos, voladores, mortales
 y moralmente poco impresionantes; declina, por principio, toda
 identificación. *«Lo esencial»*, escribe, *«es que ya no intentemos hacer
 creer a la gente que Elohim significa "Dios"»*. Todo lo que este proyecto
-añade —la identificación, el programa, los siete equipos de creación, la
+añade —la identificación, el programa, los equipos de creación, la
 facción-serpiente exiliada, el presidente del Consejo, la embajada— queda
 más allá del punto donde su método, honestamente aplicado, se detiene.
 

@@ -852,7 +852,7 @@ plurality of long-lived, flying, mortal, morally unimpressive
 individuals; he declines, on principle, every identification. *"What is
 essential,"* he writes, *"is that we no longer try to make people
 believe that Elohim means 'God.'"* Everything this project adds — the
-identification, the program, the seven creation teams, the exiled
+identification, the program, the creation teams, the exiled
 serpent-faction, the president of the Council, the embassy — lies past
 the point where his method, honestly applied, stops.
 

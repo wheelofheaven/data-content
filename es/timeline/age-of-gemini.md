@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 97
 claim_type = "inferred"
@@ -487,7 +487,7 @@ La lectura del corpus no requiere rechazar todo el marco académico convencional
 
 ### XII.6. Genética de los cuellos de botella poblacionales
 
-El marco del corpus predice un importante cuello de botella poblacional en el momento del Diluvio, que sitúa en aproximadamente 6.690 a. e. c. (el inicio de la Era de Géminis). La población humana postdiluviana, en esta lectura, descendería de un pequeño grupo fundador: la familia de Noé de ocho miembros, más los representantes de los otros seis linajes que la fuente menciona como preservados y devueltos. Este es un cuello de botella severo, y dejaría una firma detectable en el registro genético de todas las poblaciones humanas posteriores: diversidad genética reducida que data del acontecimiento del cuello de botella, con una recuperación gradual de la diversidad a medida que la población se expandiera posteriormente.
+El marco del corpus predice un importante cuello de botella poblacional en el momento del Diluvio, que sitúa en aproximadamente 6.690 a. e. c. (el inicio de la Era de Géminis). La población humana postdiluviana, en esta lectura, descendería de un pequeño grupo fundador: la familia de Noé de ocho miembros, más los representantes de los otros linajes que la fuente menciona como preservados y devueltos. Este es un cuello de botella severo, y dejaría una firma detectable en el registro genético de todas las poblaciones humanas posteriores: diversidad genética reducida que data del acontecimiento del cuello de botella, con una recuperación gradual de la diversidad a medida que la población se expandiera posteriormente.
 
 La genética de poblaciones moderna ha identificado varios cuellos de botella aparentes en la historia evolutiva humana. El más famoso es la hipótesis del cuello de botella del Toba, que propuso que la erupción del monte Toba en Indonesia hace aproximadamente 74.000 años provocó un evento de casi extinción en las poblaciones humanas. La hipótesis del Toba se ha visto sustancialmente debilitada por estudios más recientes, pero la cuestión más amplia de los cuellos de botella en la prehistoria humana sigue activa. Diversos análisis de ADN mitocondrial y de linajes del cromosoma Y han identificado eventos de coalescencia en distintos momentos, algunos de los cuales se han interpretado como evidencia de cuellos de botella o reducciones poblacionales.
 

@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 97
 same_as = ["https://www.wikidata.org/wiki/Q766677", "https://en.wikipedia.org/wiki/Yahweh", "https://www.britannica.com/topic/Yahweh", "https://viaf.org/viaf/529159234869003372966"]
@@ -200,9 +200,9 @@ Die frühe Heimatwelt-Periode von Jahwes Leben wird im Quellenmaterial nicht im 
 
 ### Das Erdschöpfungsprojekt: Steinbock bis Löwe
 
-Jahwes Entscheidung, die operative Verantwortung für das Erdprojekt zu übernehmen — seine fortdauernde institutionelle Position einer mehrtausendjährigen Operation in interstellarer Entfernung zu widmen —, ist das strukturelle Merkmal, das dem Projekt seinen charakteristischen Maßstab und seine Geduld verleiht. Vom Beginn des Projekts im Zeitalter des Steinbocks (ca. 21.810 v. Chr.) bis zu seinem Abschluss am Ende des Zeitalters des Löwen (ca. 8.850 v. Chr.) leitete Jahwe die Arbeit der sieben Schöpferteams über den Superkontinent hinweg, wobei das Genesis-1-*Elohim* (Plural) der Schöpfungserzählung die Allianz unter seiner Gesamtleitung in ihrer Gesamtheit bezeichnet und das Genesis-2-*Yahweh Elohim* (Jahwe der Elohim) der Eden-Erzählung speziell Jahwe als Leiter des Israel-Teams meint.
+Jahwes Entscheidung, die operative Verantwortung für das Erdprojekt zu übernehmen — seine fortdauernde institutionelle Position einer mehrtausendjährigen Operation in interstellarer Entfernung zu widmen —, ist das strukturelle Merkmal, das dem Projekt seinen charakteristischen Maßstab und seine Geduld verleiht. Vom Beginn des Projekts im Zeitalter des Steinbocks (ca. 21.810 v. Chr.) bis zu seinem Abschluss am Ende des Zeitalters des Löwen (ca. 8.850 v. Chr.) leitete Jahwe die Arbeit der Schöpferteams über den Superkontinent hinweg, wobei das Genesis-1-*Elohim* (Plural) der Schöpfungserzählung die Allianz unter seiner Gesamtleitung in ihrer Gesamtheit bezeichnet und das Genesis-2-*Yahweh Elohim* (Jahwe der Elohim) der Eden-Erzählung speziell Jahwe als Leiter des Israel-Teams meint.
 
-Die ausführliche Erzählung der sieben präzessionalen Schöpfungszeitalter lebt im Eintrag [Genesis](../genesis/) sowie in den eigenen Einträgen zu jedem Zeitalter. Jahwes spezifische Rolle über diese Zeitalter hinweg war die des leitenden Offiziers, der die Arbeit koordinierte — bei den folgenreichsten Operationen persönlich anwesend, die koordinierten Tätigkeiten der sieben Teams überwachend, die wichtigen Entscheidungen treffend, die der Umfang des Projekts erforderte.
+Die ausführliche Erzählung der sieben präzessionalen Schöpfungszeitalter lebt im Eintrag [Genesis](../genesis/) sowie in den eigenen Einträgen zu jedem Zeitalter. Jahwes spezifische Rolle über diese Zeitalter hinweg war die des leitenden Offiziers, der die Arbeit koordinierte — bei den folgenreichsten Operationen persönlich anwesend, die koordinierten Tätigkeiten der Teams überwachend, die wichtigen Entscheidungen treffend, die der Umfang des Projekts erforderte.
 
 ### Die Eden-Episode und ihre politische Beilegung
 
@@ -250,7 +250,7 @@ Der politische Charakter eines Gremiums, das von einer ununterbrochen existieren
 
 Jahwe ist der spezifische Offizier, der über die gesamte Dauer von 22.000 Jahren die fortdauernde operative Verantwortung für das Erdprojekt innehatte. Der charakteristische Maßstab und die Geduld des Erdprojekts sind unmittelbare Folgen dieser Kontinuität: Ein mehrtausendjähriges Projekt, das von einem ununterbrochen existierenden Offizier überwacht wird, kann auf Zeitskalen geplant und ausgeführt werden, die Zivilisationen mit gewöhnlich lebenden Führungspersonen nicht zur Verfügung stehen. Zu Jahwes spezifischen Beiträgen zum Projekt über seine Dauer hinweg gehören die ursprüngliche Genehmigung, die persönliche Leitung der Arbeit des Israel-Teams während der Schöpfungsphase, die politische Beilegung in der Eden-Krise, der Wiederaufbau nach der Flut mit Noah, der formelle Wiederaufbau der Allianzbeziehung mit Abraham, der direkte Eingriff der mosaischen Periode, der politische Wandel nach der Entdeckung der kosmischen Kette sowie die fortlaufende Aufsicht über die Operationen des Fische- und Wassermann-Zeitalters.
 
-Jahwe ist nicht der einzige Eloha mit operativer Verantwortung für das Erdprojekt — die sieben Schöpferteams arbeiteten während der Schöpfungsperiode unter ihrer eigenen unmittelbaren Führung, die Luzifer-Fraktion hat seit dem Eden-Exil eigenständig operiert, und verschiedene andere Allianzoffiziere (die *malachim* oder „Boten" der hebräischen Bibel) haben über die nachschöpfungszeitliche Periode hinweg spezifische Missionen durchgeführt. Doch Jahwe ist der ranghöchste Offizier, bei dem die operative Verantwortung letztlich zusammenläuft, und seine Präsenz als fortdauernder Kontaktpunkt über die Jahrtausende hinweg ist das, was dem Projekt seine operative Kohärenz verleiht.
+Jahwe ist nicht der einzige Eloha mit operativer Verantwortung für das Erdprojekt — die Schöpferteams arbeiteten während der Schöpfungsperiode unter ihrer eigenen unmittelbaren Führung, die Luzifer-Fraktion hat seit dem Eden-Exil eigenständig operiert, und verschiedene andere Allianzoffiziere (die *malachim* oder „Boten" der hebräischen Bibel) haben über die nachschöpfungszeitliche Periode hinweg spezifische Missionen durchgeführt. Doch Jahwe ist der ranghöchste Offizier, bei dem die operative Verantwortung letztlich zusammenläuft, und seine Präsenz als fortdauernder Kontaktpunkt über die Jahrtausende hinweg ist das, was dem Projekt seine operative Kohärenz verleiht.
 
 ### Quelle der raëlianischen Offenbarung
 

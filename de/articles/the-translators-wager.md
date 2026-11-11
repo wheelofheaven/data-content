@@ -7,8 +7,8 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
-source_updated = "2026-11-07"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 97
 core_versions = { woh-claim-0042 = "0.1.0" }
@@ -870,7 +870,7 @@ als die Chronik einer Vielheit langlebiger, fliegender, sterblicher, moralisch
 wenig eindrucksvoller Individuen liest; er lehnt aus Prinzip jede Identifikation
 ab. *„Wesentlich ist,"* schreibt er, *„dass wir nicht länger versuchen, die
 Menschen glauben zu machen, Elohim bedeute ‚Gott'."* Alles, was dieses Projekt
-hinzufügt — die Identifikation, das Programm, die sieben Schöpfungsteams, die
+hinzufügt — die Identifikation, das Programm, die Schöpfungsteams, die
 verbannte Schlangenfraktion, den Präsidenten des Rates, die Botschaft —, liegt
 jenseits des Punktes, an dem seine Methode, redlich angewandt, haltmacht.
 

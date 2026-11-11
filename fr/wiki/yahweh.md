@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 97
 same_as = ["https://www.wikidata.org/wiki/Q766677", "https://en.wikipedia.org/wiki/Yahweh", "https://www.britannica.com/topic/Yahweh", "https://viaf.org/viaf/529159234869003372966"]
@@ -200,9 +200,9 @@ La période précoce de la vie de Yahvé sur la planète d'origine n'est pas dé
 
 ### Le projet de création terrestre : du Capricorne au Lion
 
-La décision de Yahvé d'assumer la responsabilité opérationnelle du projet terrestre — d'engager sa propre position institutionnelle continue dans une opération multi-millénaire conduite à distance interstellaire — est le trait structurel qui donne au projet son échelle et sa patience caractéristiques. Depuis le commencement du projet à l'Ère du Capricorne (vers 21 810 AEC) jusqu'à son achèvement à la fin de l'Ère du Lion (vers 8 850 AEC), Yahvé dirigea le travail des sept équipes de créateurs à travers le supercontinent, les *Élohim* (pluriel) de Genèse 1 du récit de création étant l'alliance collectivement sous son autorité d'ensemble, et le *Yahvé Élohim* de Genèse 2 (Yahvé des Élohim) du récit de l'Éden étant Yahvé spécifiquement comme chef de l'équipe d'Israël.
+La décision de Yahvé d'assumer la responsabilité opérationnelle du projet terrestre — d'engager sa propre position institutionnelle continue dans une opération multi-millénaire conduite à distance interstellaire — est le trait structurel qui donne au projet son échelle et sa patience caractéristiques. Depuis le commencement du projet à l'Ère du Capricorne (vers 21 810 AEC) jusqu'à son achèvement à la fin de l'Ère du Lion (vers 8 850 AEC), Yahvé dirigea le travail des équipes de créateurs à travers le supercontinent, les *Élohim* (pluriel) de Genèse 1 du récit de création étant l'alliance collectivement sous son autorité d'ensemble, et le *Yahvé Élohim* de Genèse 2 (Yahvé des Élohim) du récit de l'Éden étant Yahvé spécifiquement comme chef de l'équipe d'Israël.
 
-Le récit détaillé des sept ères précessionnelles de la création se trouve dans l'entrée [Genèse](../genesis/) et dans les entrées dédiées à chaque ère. Le rôle spécifique de Yahvé à travers ces ères fut celui de l'officier supérieur coordonnant le travail — présent en personne pour les opérations les plus conséquentes, supervisant les activités coordonnées des sept équipes, prenant les décisions majeures que l'envergure du projet exigeait.
+Le récit détaillé des sept ères précessionnelles de la création se trouve dans l'entrée [Genèse](../genesis/) et dans les entrées dédiées à chaque ère. Le rôle spécifique de Yahvé à travers ces ères fut celui de l'officier supérieur coordonnant le travail — présent en personne pour les opérations les plus conséquentes, supervisant les activités coordonnées des équipes, prenant les décisions majeures que l'envergure du projet exigeait.
 
 ### L'épisode édénique et son règlement politique
 
@@ -250,7 +250,7 @@ Le caractère politique d'un organe présidé par un dirigeant continûment exis
 
 Yahvé est l'officier précis qui a détenu la responsabilité opérationnelle continue du projet terrestre tout au long de ses 22 000 ans de durée. L'échelle distinctive et la patience du projet terrestre sont les conséquences directes de cette continuité : un projet multi-millénaire supervisé par un officier continûment existant peut être planifié et exécuté sur des échelles temporelles inaccessibles à des civilisations dont les dirigeants se succèdent sur des durées de vie ordinaires. Les contributions précises de Yahvé au projet à travers sa durée incluent l'autorisation initiale, la direction personnelle du travail de l'équipe d'Israël durant la phase de création, le règlement politique de la crise édénique, la reconstruction post-Déluge avec Noé, la reconstruction formelle de l'alliance avec Abraham, l'intervention directe de la période mosaïque, le revirement politique après la découverte de la chaîne cosmique, et la supervision continue des opérations de l'Ère des Poissons et de l'Ère du Verseau.
 
-Yahvé n'est pas le seul Éloha à porter une responsabilité opérationnelle pour le projet terrestre — les sept équipes de créateurs opérèrent sous leur propre direction immédiate durant la période de création, la faction luciférienne opère indépendamment depuis l'exil édénique, et divers autres officiers de l'alliance (les *malakhim* ou « messagers » de la Bible hébraïque) ont conduit des missions précises à travers la période post-création. Mais Yahvé est l'officier supérieur auquel la responsabilité opérationnelle revient en dernier ressort, et sa présence comme point de contact continu à travers les millénaires est ce qui donne au projet sa cohérence opérationnelle.
+Yahvé n'est pas le seul Éloha à porter une responsabilité opérationnelle pour le projet terrestre — les équipes de créateurs opérèrent sous leur propre direction immédiate durant la période de création, la faction luciférienne opère indépendamment depuis l'exil édénique, et divers autres officiers de l'alliance (les *malakhim* ou « messagers » de la Bible hébraïque) ont conduit des missions précises à travers la période post-création. Mais Yahvé est l'officier supérieur auquel la responsabilité opérationnelle revient en dernier ressort, et sa présence comme point de contact continu à travers les millénaires est ce qui donne au projet sa cohérence opérationnelle.
 
 ### Source de la révélation raëlienne
 

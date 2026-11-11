@@ -104,7 +104,7 @@ principal_framework_source = "*Extra-Terrestrials Took Me to Their Planet* (Vori
 
 The **Council of the Eternals** (also the Grand Council of the Eternals, the Council, the Divine Council, or the Divine Assembly) is the governing body of the Elohim civilization: a 700-member political authority of senior **Eternals** — individuals who have undergone the cloning-and-memory-transfer technology that produces practical immortality, living on across successive bodies. It sits on the second smaller planet of the alliance home stellar system (the Planet of the Eternals), where its members reside alongside roughly 8,400 resurrected humans selected for the same treatment. Yahweh, the first individual on whom the technology was successfully applied, has presided over it for approximately 25,000 years.
 
-It is the **deliberative-and-executive authority** for the entire Earth project. From the project's inauguration in the Age of Capricorn (c. 21,810 BCE on the corpus's reckoning) to the present Aquarian-age preparation for the open return, every major Earth-related decision has passed through it: authorizing the biological-synthesis program, distributing the work across seven creator teams, the post-Eden destruction order against the Lucifer faction, the Flood and post-Flood policies, the Tower of Babel scattering and the Sodom strike, the Aries-age discovery that the Elohim themselves had been created and the resulting shift to indirect contact through the prophetic tradition, the Piscean-age universal mission, and the Aquarian-age return. No contemporary Earth body operates on its temporal frame; its members carry personal political experience spanning centuries to millennia.
+It is the **deliberative-and-executive authority** for the entire Earth project. From the project's inauguration in the Age of Capricorn (c. 21,810 BCE on the corpus's reckoning) to the present Aquarian-age preparation for the open return, every major Earth-related decision has passed through it: authorizing the biological-synthesis program, distributing the work across the creator teams, the post-Eden destruction order against the Lucifer faction, the Flood and post-Flood policies, the Tower of Babel scattering and the Sodom strike, the Aries-age discovery that the Elohim themselves had been created and the resulting shift to indirect contact through the prophetic tradition, the Piscean-age universal mission, and the Aquarian-age return. No contemporary Earth body operates on its temporal frame; its members carry personal political experience spanning centuries to millennia.
 
 The reading is contested. Mainstream historical-critical scholarship treats the Hebrew Bible's divine-council material as Israelite religious development out of older ancient Near Eastern divine-assembly traditions — theological content, not an actual political body. Jewish, Christian, and Islamic theology read it variously: as anthropomorphic representation of God's transcendent nature, as the angelic hosts (created beings, not co-existent figures), or as subordinate elements that monotheism must reframe. Ancient-astronaut and reinterpretive traditions hold various positions; the corpus's reading is distinctive in naming the Council as a historical political body with a founding event, membership, operational history, and present continuation. It accepts the scholarly observation that the Hebrew material shares the ancient Near Eastern divine-assembly category, but reframes the ontology: all such material preserves fragmentary memory of the actual Council the Raëlian source identifies.
 
@@ -234,13 +234,13 @@ These are the procedures of a mature political institution operating on the temp
 
 ### Executive authority over the Earth project
 
-The Council is the **executive authority** for the entire Earth project. Every major operational decision has been deliberated and authorized there, then implemented through its mechanisms — the seven creator teams in the original synthesis program, the scientific and military operations of later ages, the prophetic-mediation infrastructure of the indirect-contact period.
+The Council is the **executive authority** for the entire Earth project. Every major operational decision has been deliberated and authorized there, then implemented through its mechanisms — the creator teams in the original synthesis program, the scientific and military operations of later ages, the prophetic-mediation infrastructure of the indirect-contact period.
 
 The principal decisions:
 
 **The original authorization (c. 22,000 BCE).** After a home-world crisis halted the genetic-synthesis program, the Council authorized relocating it to Earth — the compromise, after an earlier vote to halt the program and destroy the specimens, that let the work continue under modified terms far from home.
 
-**The seven-team distribution (c. 21,810 BCE onward).** The Council split the Earth work across seven creator teams, each assigned a region of the antediluvian supercontinent. See the [Antediluvian](../antediluvian/) entry.
+**The creator-team distribution (c. 21,810 BCE onward).** The Council split the Earth work across the creator teams, each assigned a region of the antediluvian supercontinent. See the [Antediluvian](../antediluvian/) entry.
 
 **The post-Eden destruction order (c. 8,850 BCE).** After the Eden disclosure, the Council exiled the Lucifer faction, the verdict delivered through Yahweh's pronouncement at the Eden settlement. See the [Lucifer](../lucifer/), [Serpent](../serpent/), and [Eden](../eden/) entries.
 
@@ -288,7 +288,7 @@ Authorization followed serious political conflict at home. The genetic-synthesis
 
 ### Pre-Eden Earth-project phase (c. 21,810–8,850 BCE)
 
-Across the seven precessional ages from Capricorn through Leo, the Council supervised the synthesis work through the seven creator teams — deliberating on progress, reviewing the teams' reports, authorizing the synthesis stages and the human-creation, and maintaining the project's political framework. The age-specific entries treat the detail; here the point is that it kept continuous oversight from the home world while deployed personnel worked on Earth.
+Across the seven precessional ages from Capricorn through Leo, the Council supervised the synthesis work through the creator teams — deliberating on progress, reviewing the teams' reports, authorizing the synthesis stages and the human-creation, and maintaining the project's political framework. The age-specific entries treat the detail; here the point is that it kept continuous oversight from the home world while deployed personnel worked on Earth.
 
 ### Post-Eden conflict phase (c. 8,850–6,690 BCE)
 

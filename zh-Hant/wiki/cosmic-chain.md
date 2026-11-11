@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
-source_updated = "2026-11-08"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 core_versions = { woh-claim-0030 = "0.1.0" }
@@ -471,7 +471,7 @@ principal_framework_source = "*Extra-Terrestrials Took Me to Their Planet*(弗�
 
 ### 宇宙鏈與地球工程本身
 
-地球工程是同盟在地球上的特定運作工作——七支創造者團隊的分布、洪水前的發展、各種後續的時代、當前水瓶座時代的準備。宇宙鏈則是地球工程作為一個特定實例運作於其中的更廣闊宇宙—循環—遞迴框架。
+地球工程是同盟在地球上的特定運作工作——創造者團隊的分布、洪水前的發展、各種後續的時代、當前水瓶座時代的準備。宇宙鏈則是地球工程作為一個特定實例運作於其中的更廣闊宇宙—循環—遞迴框架。
 
 此關係是一種**更廣宇宙框架與特定運作實例**。宇宙鏈跨越所有宇宙創造循環無限運作;地球工程則是同盟在這個特定世界、於這個特定循環期間的特定工作。
 

@@ -6,8 +6,8 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
-source_updated = "2026-08-30"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
@@ -163,7 +163,7 @@ bridge between the astronomical thesis and the reading of scripture as history
 
 The framework also uses this history to explain why the parallels diverge as much
 as they converge. Some apparent variants of one event in fact record several
-distinct operations: the corpus's account of seven creator teams working
+distinct operations: the corpus's account of creator teams working
 different regions predicts several parallel traditions preserving structurally
 similar but genuinely different content, so that honest comparison must weigh the
 divergence as carefully as the similarity, and read each tradition in its own

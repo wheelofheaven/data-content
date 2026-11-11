@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
-source_updated = "2026-11-08"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
@@ -168,7 +168,7 @@ rather than as claims the text states outright.
 **A three-part political world.** The covenant leaves three actors on the board
 rather than two: the home-world Council; the exiled-creator-and-human Alliance
 bound by the covenant on Earth; and the broader human population of the other
-six post-flood lineages, who are not parties to it. The distinction matters for
+post-flood lineages, who are not parties to it. The distinction matters for
 everything that follows. Many acts the Hebrew Bible ascribes to "Yahweh" or to
 "Elohim" in later chapters are, on this reading, the Alliance acting on its
 covenant commitments — protecting, teaching, intervening for its human partners;

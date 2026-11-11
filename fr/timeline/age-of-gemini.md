@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 97
 claim_type = "inferred"
@@ -487,7 +487,7 @@ La lecture du corpus n'exige pas de rejeter tout le cadre savant dominant. La di
 
 ### XII.6. Génétique des goulots d'étranglement de population
 
-Le cadre du corpus prédit un goulot d'étranglement majeur de population au moment du Déluge, qu'il place à environ 6 690 av. J.-C. (le début de l'Ère des Gémeaux). La population humaine postdiluvienne descendrait, dans cette lecture, d'un petit groupe fondateur — la famille de Noé de huit personnes, plus les représentants des six autres lignées que la source mentionne comme ayant été préservées et ramenées. C'est un goulot d'étranglement sévère, et il laisserait une signature détectable dans le registre génétique de toutes les populations humaines ultérieures : diversité génétique réduite datant de l'événement du goulot d'étranglement, avec récupération graduelle de la diversité à mesure que la population s'étendait par la suite.
+Le cadre du corpus prédit un goulot d'étranglement majeur de population au moment du Déluge, qu'il place à environ 6 690 av. J.-C. (le début de l'Ère des Gémeaux). La population humaine postdiluvienne descendrait, dans cette lecture, d'un petit groupe fondateur — la famille de Noé de huit personnes, plus les représentants des autres lignées que la source mentionne comme ayant été préservées et ramenées. C'est un goulot d'étranglement sévère, et il laisserait une signature détectable dans le registre génétique de toutes les populations humaines ultérieures : diversité génétique réduite datant de l'événement du goulot d'étranglement, avec récupération graduelle de la diversité à mesure que la population s'étendait par la suite.
 
 La génétique des populations moderne a identifié plusieurs goulots d'étranglement apparents dans l'histoire évolutive humaine. Le plus célèbre est l'hypothèse du goulot d'étranglement de Toba, qui proposait que l'éruption du mont Toba en Indonésie il y a environ 74 000 ans causa un événement de quasi-extinction dans les populations humaines. L'hypothèse de Toba a été substantiellement affaiblie par des études plus récentes, mais la question plus large des goulots d'étranglement dans la préhistoire humaine reste active. Diverses analyses d'ADN mitochondrial et de lignées du chromosome Y ont identifié des événements de coalescence à divers moments, dont certains ont été interprétés comme la preuve de goulots d'étranglement ou de réductions de population.
 

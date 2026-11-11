@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
@@ -152,7 +152,7 @@ So the date does not deny the earlier hominids — *Homo erectus*,
 *heidelbergensis*, the Neanderthals, archaic *sapiens* — that paleoanthropology
 places across hundreds of thousands of years. It reads them as earlier drafts of
 a long design programme and reserves 11,375 BCE for the moment the design was
-finalized and the current form produced in parallel by the seven creator teams.
+finalized and the current form produced in parallel by the creator teams.
 
 **The generation length is a working figure, not a fixed one.** The corpus is
 candid that twenty years is an estimate the source supplies rather than an

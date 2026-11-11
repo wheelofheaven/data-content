@@ -394,7 +394,7 @@ The precessional ages organize Earth's trajectory across twelve roughly 2,160-ye
 
 ### The Cosmic Chain vs. the Earth project specifically
 
-The Earth project is the alliance's specific work here — the seven creator-team distribution, the antediluvian developments, the later ages, the current Aquarian preparation; the chain is the framework within which that work is one instance.
+The Earth project is the alliance's specific work here — the creator-team distribution, the antediluvian developments, the later ages, the current Aquarian preparation; the chain is the framework within which that work is one instance.
 
 ### The Cosmic Chain vs. the broader infinite cosmos
 

@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
-source_updated = "2026-11-08"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 core_versions = { woh-claim-0030 = "0.1.0" }
@@ -471,7 +471,7 @@ La relación es de **marco-cósmico-más-amplio-y-trayectoria-específica-de-la-
 
 ### La cadena cósmica frente al proyecto de la Tierra en concreto
 
-El proyecto de la Tierra es la obra operativa específica de la alianza en la Tierra — la distribución de los siete equipos de creadores, los desarrollos antediluvianos, las diversas eras subsiguientes, la preparación actual de la era de Acuario. La cadena cósmica es el marco cósmico-cíclico-recursivo más amplio dentro del cual el proyecto de la Tierra opera como una instancia específica.
+El proyecto de la Tierra es la obra operativa específica de la alianza en la Tierra — la distribución de los equipos de creadores, los desarrollos antediluvianos, las diversas eras subsiguientes, la preparación actual de la era de Acuario. La cadena cósmica es el marco cósmico-cíclico-recursivo más amplio dentro del cual el proyecto de la Tierra opera como una instancia específica.
 
 La relación es de **marco-cósmico-más-amplio-e-instancia-operativa-específica**. La cadena cósmica opera a través de todos los ciclos creativos cósmicos de modo indefinido; el proyecto de la Tierra es la obra específica de la alianza en este mundo específico durante este ciclo específico.
 

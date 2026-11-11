@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
-source_updated = "2026-11-08"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Biblical Figures"
@@ -136,8 +136,8 @@ the earth by flood, the framework reads a decision taken in the Council's own
 politics, the "never again" resting on a vote rather than on a change of divine
 mood.
 
-**The seven-lineage repopulation.** The post-flood spread of Noah's descendants
-is read alongside the seven creator-teams reseeding their respective regions,
+**The lineage repopulation.** The post-flood spread of Noah's descendants
+is read alongside the creator teams reseeding their respective regions,
 with the Eden lineage retaining the advantage of continuous exiled-creator
 contact — a reading the framework offers to account for the precocious
 sophistication of the earliest Mesopotamian and Egyptian cultures. This is an

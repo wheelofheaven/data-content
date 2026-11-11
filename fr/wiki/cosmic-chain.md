@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
-source_updated = "2026-11-08"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 core_versions = { woh-claim-0030 = "0.1.0" }
@@ -471,7 +471,7 @@ La relation en est une de **cadre-cosmique-plus-large-et-trajectoire-spécifique
 
 ### La Chaîne cosmique vs le projet terrestre en particulier
 
-Le projet terrestre est le travail opérationnel spécifique de l'alliance sur Terre — la distribution des sept équipes de créateurs, les développements antédiluviens, les diverses ères subséquentes, la préparation actuelle de l'ère du Verseau. La Chaîne cosmique est le cadre cosmique-cyclique-récursif plus large au sein duquel le projet terrestre opère comme une instance spécifique.
+Le projet terrestre est le travail opérationnel spécifique de l'alliance sur Terre — la distribution des équipes de créateurs, les développements antédiluviens, les diverses ères subséquentes, la préparation actuelle de l'ère du Verseau. La Chaîne cosmique est le cadre cosmique-cyclique-récursif plus large au sein duquel le projet terrestre opère comme une instance spécifique.
 
 La relation en est une de **cadre-cosmique-plus-large-et-instance-opérationnelle-spécifique**. La Chaîne cosmique opère à travers tous les cycles créatifs cosmiques indéfiniment ; le projet terrestre est le travail spécifique de l'alliance sur ce monde spécifique durant ce cycle spécifique.
 

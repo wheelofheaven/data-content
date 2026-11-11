@@ -7,8 +7,8 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
-source_updated = "2026-11-07"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 97
 core_versions = { woh-claim-0042 = "0.1.0" }
@@ -886,7 +886,7 @@ chronique d'une pluralité d'individus longévifs, volants, mortels et
 moralement peu reluisants ; il décline, par principe, toute
 identification. *« Ce qui est essentiel »*, écrit-il, *« c'est que nous
 n'essayions plus de faire croire aux gens qu'Elohim signifie "Dieu". »*
-Tout ce que ce projet ajoute — l'identification, le programme, les sept
+Tout ce que ce projet ajoute — l'identification, le programme, les
 équipes de création, la faction du serpent exilée, le président du Conseil,
 l'ambassade — gît au-delà du point où sa méthode, honnêtement appliquée,
 s'arrête.

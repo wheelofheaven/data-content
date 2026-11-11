@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
-source_updated = "2026-11-08"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 core_versions = { woh-claim-0030 = "0.1.0" }
@@ -471,7 +471,7 @@ Das Verhältnis ist eines des **kosmisch-umfassenderen-Rahmens und der erdspezif
 
 ### Die Kosmische Kette vs. das Erdprojekt im Besonderen
 
-Das Erdprojekt ist die spezifische operative Arbeit der Allianz auf der Erde — die Verteilung der sieben Schöpferteams, die vorsintflutlichen Entwicklungen, die verschiedenen nachfolgenden Zeitalter, die gegenwärtige Vorbereitung des Wassermann-Zeitalters. Die Kosmische Kette ist der umfassendere kosmisch-zyklisch-rekursive Rahmen, innerhalb dessen das Erdprojekt als eine bestimmte Instanz operiert.
+Das Erdprojekt ist die spezifische operative Arbeit der Allianz auf der Erde — die Verteilung der Schöpferteams, die vorsintflutlichen Entwicklungen, die verschiedenen nachfolgenden Zeitalter, die gegenwärtige Vorbereitung des Wassermann-Zeitalters. Die Kosmische Kette ist der umfassendere kosmisch-zyklisch-rekursive Rahmen, innerhalb dessen das Erdprojekt als eine bestimmte Instanz operiert.
 
 Das Verhältnis ist eines des **umfassenderen kosmischen Rahmens und der spezifischen operativen Instanz**. Die Kosmische Kette operiert über alle kosmischen schöpferischen Zyklen unbestimmt hinweg; das Erdprojekt ist die spezifische Arbeit der Allianz auf dieser spezifischen Welt während dieses spezifischen Zyklus.
 

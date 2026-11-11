@@ -7,8 +7,8 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
-source_updated = "2026-11-07"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 97
 core_versions = { woh-claim-0042 = "0.1.0" }
@@ -848,7 +848,7 @@ bicicletta? Ora pedalerete!"* — רציתם את האופניים? עכשיו �
 מוסרית; הוא מסרב, מטעמי עיקרון, לכל זיהוי. *"מה שמהותי,"*
 הוא כותב, *"הוא שלא ננסה עוד לגרום לאנשים להאמין שאלוהים
 פירושו 'אל'."* כל מה שפרויקט זה מוסיף — הזיהוי,
-התוכנית, שבעת צוותי הבריאה, סיעת הנחש המוגלית, נשיא
+התוכנית, צוותי הבריאה, סיעת הנחש המוגלית, נשיא
 המועצה, השגרירות — שוכן מעבר לנקודה שבה שיטתו, ביישום
 ישר, עוצרת.
 

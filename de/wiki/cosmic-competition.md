@@ -6,8 +6,8 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
@@ -278,7 +278,7 @@ The detailed treatment of the Cosmic Chain lives in the [Cosmic Chain](../cosmic
 
 ### The Cosmic Competition vs. the Earth project specifically
 
-The Earth project is the alliance's specific operational work on Earth — the seven creator-team distribution, the antediluvian developments, the Eden installation, the Flood, the post-Flood reseeding, the various subsequent ages, the present Aquarian-age preparation. The Cosmic Competition is the broader framework within which the Earth project operates as one of multiple parallel projects.
+The Earth project is the alliance's specific operational work on Earth — the creator-team distribution, the antediluvian developments, the Eden installation, the Flood, the post-Flood reseeding, the various subsequent ages, the present Aquarian-age preparation. The Cosmic Competition is the broader framework within which the Earth project operates as one of multiple parallel projects.
 
 The relationship is one of one-instance-among-multiple. The Earth project is one specific instance of the alliance's broader creation work; the Cosmic Competition framework registers that the Earth project exists within a broader pattern of multiple parallel projects.
 

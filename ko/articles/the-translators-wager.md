@@ -7,8 +7,8 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
-source_updated = "2026-11-07"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 97
 core_versions = { woh-claim-0042 = "0.1.0" }
@@ -746,7 +746,7 @@ bicicletta? Ora pedalerete!"* — 자전거를 원했느냐? 이제 페달을 �
 연대기로서 정합적으로 읽힘을 증명한다. 그는 원칙에 따라 모든 동정(同定)을
 사양한다. *"본질적인 것은,"* 그는 쓴다, *"엘로힘이 '하느님'을 뜻한다고 사람들을
 더는 믿게 하려 하지 않는 것이다."* 이 프로젝트가 덧붙이는 모든 것 — 그 동정,
-그 프로그램, 일곱 창조 팀, 유배된 뱀-분파, 평의회의 의장, 대사관 — 은, 그의
+그 프로그램, 창조 팀들, 유배된 뱀-분파, 평의회의 의장, 대사관 — 은, 그의
 방법이 정직하게 적용될 때 멈추는 그 지점 너머에 놓인다.
 
 그래서 그 동류 의식은 진짜이고, 그 차이는 정직하다. 정경은 빌리노가 신자이기를

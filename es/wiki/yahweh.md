@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-11"
+source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 97
 same_as = ["https://www.wikidata.org/wiki/Q766677", "https://en.wikipedia.org/wiki/Yahweh", "https://www.britannica.com/topic/Yahweh", "https://viaf.org/viaf/529159234869003372966"]
@@ -200,9 +200,9 @@ El período temprano de la vida de Yahvé en el mundo de origen no se describe e
 
 ### El proyecto creativo terrestre: de Capricornio a Leo
 
-La decisión de Yahvé de asumir la responsabilidad operativa del proyecto terrestre — comprometer su propia posición institucional continuada con una operación multimilenaria realizada a distancia interestelar — es el rasgo estructural que confiere al proyecto su escala y paciencia características. Desde el inicio del proyecto en la Era de Capricornio (c. 21.810 a. C.) hasta su conclusión al cierre de la Era de Leo (c. 8.850 a. C.), Yahvé dirigió el trabajo de los siete equipos creadores en todo el supercontinente, siendo los *Elohim* (plural) de Génesis 1 del relato de la creación la alianza colectivamente bajo su autoridad general, y el *Yahweh Elohim* (Yahvé de los Elohim) de Génesis 2 del relato del Edén Yahvé específicamente como líder del equipo de Israel.
+La decisión de Yahvé de asumir la responsabilidad operativa del proyecto terrestre — comprometer su propia posición institucional continuada con una operación multimilenaria realizada a distancia interestelar — es el rasgo estructural que confiere al proyecto su escala y paciencia características. Desde el inicio del proyecto en la Era de Capricornio (c. 21.810 a. C.) hasta su conclusión al cierre de la Era de Leo (c. 8.850 a. C.), Yahvé dirigió el trabajo de los equipos creadores en todo el supercontinente, siendo los *Elohim* (plural) de Génesis 1 del relato de la creación la alianza colectivamente bajo su autoridad general, y el *Yahweh Elohim* (Yahvé de los Elohim) de Génesis 2 del relato del Edén Yahvé específicamente como líder del equipo de Israel.
 
-La narración detallada de las siete eras precesionales de la creación se encuentra en la entrada [Génesis](../genesis/) y en las entradas dedicadas a cada era. El papel específico de Yahvé a lo largo de estas eras fue el de oficial superior coordinando el trabajo — presente en persona para las operaciones más consecuentes, supervisando las actividades coordinadas de los siete equipos, tomando las grandes decisiones que la envergadura del proyecto requería.
+La narración detallada de las siete eras precesionales de la creación se encuentra en la entrada [Génesis](../genesis/) y en las entradas dedicadas a cada era. El papel específico de Yahvé a lo largo de estas eras fue el de oficial superior coordinando el trabajo — presente en persona para las operaciones más consecuentes, supervisando las actividades coordinadas de los equipos, tomando las grandes decisiones que la envergadura del proyecto requería.
 
 ### El episodio del Edén y su acuerdo político
 
@@ -250,7 +250,7 @@ El carácter político de un órgano presidido por un líder que existe de modo 
 
 Yahvé es el oficial específico que ha mantenido la responsabilidad operativa continuada del proyecto terrestre a lo largo de toda su duración de 22.000 años. La escala y la paciencia distintivas del proyecto son consecuencias directas de esta continuidad: un proyecto multimilenario supervisado por un oficial continuamente existente puede planificarse y ejecutarse en escalas temporales no disponibles para civilizaciones cuyos líderes pasan por períodos vitales ordinarios. Las contribuciones específicas de Yahvé al proyecto a lo largo de su duración incluyen la autorización original, la dirección personal del trabajo del equipo de Israel durante la fase creativa, el acuerdo político en la crisis del Edén, la reconstrucción post-Diluvio con Noé, la reconstrucción formal de la alianza con Abraham, la intervención directa del período mosaico, el cambio de política tras el descubrimiento de la cadena cósmica y la supervisión continuada de las operaciones de las eras pisceana y acuariana.
 
-Yahvé no es el único Eloha con responsabilidad operativa sobre el proyecto terrestre — los siete equipos creadores operaron bajo su propio liderazgo inmediato durante el período creativo, la facción de Lucifer ha operado de forma independiente desde el exilio del Edén, y diversos otros oficiales de la alianza (los *malakhim* o «mensajeros» de la Biblia hebrea) han llevado a cabo misiones específicas a lo largo del período post-creacional. Pero Yahvé es el oficial superior al que retorna en última instancia la responsabilidad operativa, y su presencia como punto de contacto continuado a lo largo de milenios es lo que confiere al proyecto su coherencia operativa.
+Yahvé no es el único Eloha con responsabilidad operativa sobre el proyecto terrestre — los equipos creadores operaron bajo su propio liderazgo inmediato durante el período creativo, la facción de Lucifer ha operado de forma independiente desde el exilio del Edén, y diversos otros oficiales de la alianza (los *malakhim* o «mensajeros» de la Biblia hebrea) han llevado a cabo misiones específicas a lo largo del período post-creacional. Pero Yahvé es el oficial superior al que retorna en última instancia la responsabilidad operativa, y su presencia como punto de contacto continuado a lo largo de milenios es lo que confiere al proyecto su coherencia operativa.
 
 ### Fuente de la revelación raeliana
 

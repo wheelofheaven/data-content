@@ -178,7 +178,7 @@ bridge between the astronomical thesis and the reading of scripture as history
 
 The framework also uses this history to explain why the parallels diverge as much
 as they converge. Some apparent variants of one event in fact record several
-distinct operations: the corpus's account of seven creator teams working
+distinct operations: the corpus's account of creator teams working
 different regions predicts several parallel traditions preserving structurally
 similar but genuinely different content, so that honest comparison must weigh the
 divergence as carefully as the similarity, and read each tradition in its own
