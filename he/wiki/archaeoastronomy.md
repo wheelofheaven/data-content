@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,16 +16,29 @@ category = "Methodology"
 entry_type = "concept"
 alternative_names = ["archaeoastronomy", "astroarchaeology (earlier term)", "cultural astronomy (broader contemporary term)", "ethnoastronomy (related discipline)", "astronomy in culture (alternative designation)", "arch\u00e9oastronomie (French)", "Arch\u00e4oastronomie (German)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus", "age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "טחנת המלט", path = "wiki/hamlets-mill", description = "השערת הקידוד הפרצסיוני, שטענותיה האסטרונומיות העתיקות הארכיאואסטרונומיה מצוידת לבחון." },
+    { title = "עידן עולם", path = "wiki/world-age", description = "מבנה העידנים הפרצסיוניים, התלוי בכך שתרבויות עתיקות החזיקו בידע על הנקיפה." },
+    { title = "גלגל המזלות", path = "wiki/zodiac", description = "המסגרת של קבוצות הכוכבים, שהחישוב העתיק שלה מתועד בארכיאואסטרונומיה באמצעות כיווני אתרים." },
+    { title = "השערת האסטרונאוטים הקדמונים", path = "wiki/ancient-astronaut-hypothesis", description = "המסורת הפרשנית שהקורפוס משחיל מול הארכיאואסטרונומיה המקובלת בשאלת המודעות שלפני היפרכוס." },
+    { title = "בונים קדומים", path = "wiki/ancient-builders", description = "בוני המגליתים והמקדשים, שכיווניהם האסטרונומיים התחום סוקר בשטח." },
+    { title = "גאומטריה קדושה", path = "wiki/sacred-geometry", description = "הקידוד האדריכלי־המתמטי של ידע שמימי, שהתחום קורא באתרים המכוונים." },
+    { title = "גבקלי טפה", path = "wiki/gobekli-tepe", description = "המקדש מכ־9600 לפנה״ס, שבמרכז הוויכוח הארכיאואסטרונומי על עמוד 43." },
+    { title = "גרהם הנקוק", path = "wiki/graham-hancock", description = "הסופר שספריו הפכו לפופולרית — ועוררו ויכוח על — הקריאה הארכיאואסטרונומית של אתרים עתיקים." },
+    { title = "הספינקס הגדול", path = "wiki/great-sphinx", description = "אנדרטת האריה הפונה לנקודת השוויון, שבמרכז טיעון התיארוך המוקדם יותר ועידן האריה." },
+    { title = "מתאם אוריון", path = "wiki/orion-correlation", description = "תזת מפת הקרקע גיזה–אוריון של בובאל ותיארוך של כ־10,500 לפנה״ס." },
+    { title = "ג׳ון אנתוני וסט", path = "wiki/john-anthony-west", description = "מצרים הסימבוליסטית של וסט ושוולר והטענה לאיקונוגרפיה העוקבת אחר הנקיפה." },
+]
 
 [extra.infobox]
-type = "Interdisciplinary scientific field studying astronomical knowledge, practices, and beliefs of ancient and pre-modern cultures; principal empirical discipline relevant to corpus chronological framework"
-disciplinary_emergence = "Sir Norman Lockyer (*The Dawn of Astronomy*, 1894); Alexander Thom (1950s-1970s); Gerald Hawkins (*Stonehenge Decoded*, 1965); the substantial subsequent disciplinary development since the 1960s-1970s"
+type = "תחום מדעי בין־תחומי החוקר את הידע, הפרקטיקות והאמונות האסטרונומיים של תרבויות עתיקות וקדם־מודרניות; הדיסציפלינה האמפירית הרלוונטית ביותר למסגרת הכרונולוגית של הקורפוס"
+disciplinary_emergence = "סר נורמן לוקייר (*The Dawn of Astronomy*, 1894); אלכסנדר תום (שנות החמישים–השבעים); ג'רלד הוקינס (*Stonehenge Decoded*, 1965); התגבשות לדיסציפלינה נפרדת במהלך שנות השישים והשבעים"
 principal_methodological_framework = "Green vs. brown archaeoastronomy distinction (Ruggles); statistical-quantitative analysis (green) vs. intensive cultural-ethnographic engagement (brown)"
-principal_research_methods = "Field surveys with theodolite measurements of alignment azimuths; astronomical reconstruction of ancient skies; ethnographic and ethnohistorical engagement; statistical analysis of alignment populations; computational simulation of ancient celestial conditions; integrated archaeological-astronomical analysis"
-principal_documented_phenomena = "Solar alignments (solstices, equinoxes, cross-quarter days); lunar alignments (18.6-year lunar standstill cycle); stellar alignments (Sirius heliacal rising, Orion, Pleiades, others); planetary alignments (Venus principally); precessional content (contested degree); calendar-mathematical content; broader cosmological-religious content"
-principal_corpus_engagement = "Mainstream archaeoastronomy as substantive empirical foundation for corpus chronological framework; *Hamlet's Mill* precessional-encoding hypothesis as principal load-bearing methodological commitment; substantial cross-cultural pre-Hipparchean precessional awareness as corpus claim"
-distinguished_from = "Astrology (the substantial astrological tradition engaging celestial-terrestrial correspondence); the broader history of astronomy (the substantial discipline studying astronomical knowledge through written records principally); pseudo-archaeoastronomy (the substantial alternative-archaeoastronomy tradition with methodologically problematic engagement)"
-status_in_framework = "Principal empirical discipline relevant to corpus chronological framework; substantive engagement with the *Hamlet's Mill* hypothesis and broader corpus precessional content; corpus position threads mainstream-acceptable and alternative-tradition content carefully"
+principal_research_methods = "סקרי שדה עם מדידות תאודוליט של אזימוטים של כיוונים; שחזור אסטרונומי של שמי העבר; עבודה אתנוגרפית ואתנו־היסטורית; ניתוח סטטיסטי של אוכלוסיות כיוונים; סימולציה ממוחשבת של תנאים שמימיים עתיקים; ניתוח משולב ארכאולוגי־אסטרונומי"
+principal_documented_phenomena = "יישורים סולאריים (היפוכים, שוויונות, ימי אמצע הרבעון); יישורים ירחיים (מחזור עמידת הירח בן 18.6 שנים); יישורים כוכביים (הזריחה ההליאקלית של סיריוס, אוריון, כימה ואחרים); יישורים פלנטריים (בעיקר נוגה); תוכן נקיפתי (מידתו שנויה במחלוקת); תוכן לוחי־מתמטי; תוכן קוסמולוגי־דתי רחב"
+principal_corpus_engagement = "הארכאו־אסטרונומיה המקובלת כבסיס האמפירי למסגרת הכרונולוגית של הקורפוס; השערת הקידוד הפרצסיוני של *Hamlet's Mill* כמחויבות המתודולוגית הנושאת; מודעות לפרצסיה שקדמה להיפרכוס, שנלמדה דרך מגע עם היוצרים, כטענה הייחודית של הקורפוס"
+distinguished_from = "אסטרולוגיה (מסורת ההתאמה בין שמים לארץ); תולדות האסטרונומיה (חקר הידע האסטרונומי בעיקר דרך תיעוד כתוב); פסאודו־ארכאו־אסטרונומיה (המסורת החלופית שאת שיטתה מבקרת הארכאו־אסטרונומיה המקובלת)"
+status_in_framework = "הדיסציפלינה האמפירית הרלוונטית ביותר למסגרת הכרונולוגית של הקורפוס; מאמצת את השערת *Hamlet's Mill* כתשתית מוסקת; מבחינה בין ארכאו־אסטרונומיה קפדנית לבין המסורת החלופית הספקולטיבית תוך קריאה הוגנת של שתיהן"
 +++
 
 **Archaeoastronomy** is the interdisciplinary study of how ancient and

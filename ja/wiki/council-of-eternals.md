@@ -8,7 +8,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -16,23 +16,31 @@ category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "civilization"
 
-alternative_names = ["the Grand Council of the Eternals", "the Council", "the Council of Eternals", "the Divine Council", "the Divine Assembly", "the Heavenly Court", "the Assembly of the Elohim"]
+alternative_names = ["永遠者の大評議会", "評議会", "永遠者の評議会", "神的評議会", "神的集会", "天の宮廷", "エロヒムの集会"]
 timeline = ["pre-creation", "capricorn", "sagittarius", "scorpio", "libra", "virgo", "leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
+see_also = [
+    { title = "ヤハウェ", path = "wiki/yahweh", description = "およそ25,000年にわたる地球計画を通じての評議会の議長。" },
+    { title = "同盟", path = "wiki/the-alliance", description = "評議会がその中に位置する、文明を横断するより広い組織。" },
+    { title = "ルシファー", path = "wiki/lucifer", description = "評議会がその地球への追放を裁定した、全面開示を求める派閥。" },
+    { title = "大洪水以前", path = "wiki/antediluvian", description = "評議会がリセットによって解決した、洪水以前の進歩の危機。" },
+    { title = "エデン", path = "wiki/eden", description = "評議会がその政治的決着を決定した開示の危機。" },
+    { title = "一神教は誤った問いである", path = "articles/monotheism-is-the-wrong-question", description = "聖書の「唯一の神」の背後にある複数性として読まれる神々の評議会。集会全体を代弁する代表者。" },
+]
 
 [extra.infobox]
-hebrew_designations = "עֲדַת אֵל (ʿadat ʾēl, 'assembly of El'); סוֹד יְהוָה (sod Yhwh, 'council of Yahweh'); בְּנֵי הָאֱלֹהִים (benei ha-Elohim, 'sons of Elohim')"
-greek_designation = "ἡ βουλὴ τῶν θεῶν (he boulē tōn theōn, 'the council of the gods', in the Septuagint and broader Hellenistic tradition)"
-type = "Governing political body of the Elohim civilization; deliberative-and-executive authority"
-membership = "700 Eternals (members of the Elohim civilization who have undergone cloning-and-memory-transfer to achieve practical immortality)"
-presidency = "Yahweh, the first individual on whom the cloning-and-memory-transfer technology was successfully applied; continuous Council president across approximately 25,000 years"
-location = "Planet of the Eternals (the second smaller planet in the alliance home stellar system, also home to approximately 8,400 resurrected humans)"
-operational_period = "Approximately 25,000 years from founding to present; continuous deliberative and executive authority across the entire Earth project"
-date_type = "framework-internal; derived from Yahweh's recorded 25,000-year continuous existence and Council presidency"
-biblical_appearance = "Psalm 82 (the assembly of El); 1 Kings 22:19–23 (Micaiah's vision); Job 1–2 (the sons of Elohim with ha-satan); Daniel 7:9–14 (the Ancient of Days enthroned); Isaiah 6:1–8 (Isaiah's commissioning); Isaiah 14:13 (the mount of assembly); Genesis 1:26 (the plural self-address); various other passages preserving the divine-council motif"
-distinguished_from = "The Elohim civilization (broader population of ~7 billion); the Eternals as a population (700 Elohim plus ~8,400 resurrected humans on the Planet of the Eternals); the Alliance (the cross-civilizational political body that emerged after the Noahic covenant); the Lucifer faction (the originally-dissenting subset of the Israel team); the prophetic tradition (the human partners commissioned for Earth-side work)"
-current_status = "Active; conducting Aquarian-age preparation through the Raëlian movement and the embassy project; preparing for the open return at the completed embassy"
-principal_text = "Hebrew Bible divine-council passages; *The Book Which Tells the Truth* (Vorilhon/Raël, 1974); *Extra-Terrestrials Took Me to Their Planet* (1975)"
-principal_framework_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), 'Meeting the Ancient Prophets'"
+hebrew_designations = "עֲדַת אֵל(ʿadat ʾēl、「エルの集会」)、סוֹד יְהוָה(sod Yhwh、「ヤハウェの評議会」)、בְּנֵי הָאֱלֹהִים(benei ha-Elohim、「エロヒムの子ら」)"
+greek_designation = "ἡ βουλὴ τῶν θεῶν(he boulē tōn theōn、「神々の評議会」。七十人訳聖書とより広いヘレニズムの伝統において)"
+type = "エロヒム文明の統治機関。審議と執行の権限を持つ"
+membership = "700人の永遠者(実質的な不死を得るためにクローン化と記憶転送を受けたエロヒム文明の成員)"
+presidency = "ヤハウェ。クローン化と記憶転送の技術が初めて成功裏に適用された個人であり、約25,000年にわたり継続して評議会の議長を務める"
+location = "永遠者の惑星(同盟の母星系にある二番目の小さな惑星で、約8,400人の復活した人間の住まいでもある)"
+operational_period = "創設から現在まで約25,000年。地球プロジェクト全体を通じて継続する審議と執行の権限"
+date_type = "枠組み内部の年代。ヤハウェの記録された25,000年の継続的存在と評議会議長職から導かれる"
+biblical_appearance = "詩篇82篇(エルの集会)、列王記上22:19〜23(ミカヤの幻)、ヨブ記1〜2章(サタンと共にいるエロヒムの子ら)、ダニエル書7:9〜14(玉座に着く日の老いたる者)、イザヤ書6:1〜8(イザヤの召命)、イザヤ書14:13(集会の山)、創世記1:26(複数形の自己呼称)、その他神的評議会のモチーフを保存するさまざまな箇所"
+distinguished_from = "エロヒム文明(約70億の、より広い人口)。集団としての永遠者(永遠者の惑星にいる700人のエロヒムと約8,400人の復活した人間)。同盟(ノアの契約の後に生まれた文明横断的な政治体)。ルシファー派(イスラエル・チームのうち当初異を唱えた一部)。預言者の伝統(地球側の作業のために任命された人間の協力者)"
+current_status = "活動中。ラエリアン・ムーブメントと大使館プロジェクトを通じて水瓶座の時代の準備を進めている。完成した大使館での公然たる帰還に備えている"
+principal_text = "ヘブライ語聖書の神的評議会の箇所。『真実を告げる書』(ヴォリロン/ラエル、1974年)。『地球外生命体は私を彼らの惑星へ連れて行った』(1975年)"
+principal_framework_source = "『地球外生命体は私を彼らの惑星へ連れて行った』(ヴォリロン/ラエル、1975年)、「古代の預言者たちとの出会い」"
 +++
 
 The **Council of the Eternals** (also the Grand Council of the Eternals, the Council, the Divine Council, or the Divine Assembly) is the governing body of the Elohim civilization: a 700-member political authority of senior **Eternals** — individuals who have undergone the cloning-and-memory-transfer technology that produces practical immortality, living on across successive bodies. It sits on the second smaller planet of the alliance home stellar system (the Planet of the Eternals), where its members reside alongside roughly 8,400 resurrected humans selected for the same treatment. Yahweh, the first individual on whom the technology was successfully applied, has presided over it for approximately 25,000 years.

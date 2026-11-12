@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,22 +16,30 @@ entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
 alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "Moses the Lawgiver", "Mosheh Rabbenu (\"Moses our Teacher\")"]
+see_also = [
+    { title = "耶和华", path = "wiki/yahweh", description = "燃烧的荆棘与西奈山接触事件背后的耶洛因主席。" },
+    { title = "永恒者议会", path = "wiki/council-of-the-eternals", description = "据报摩西与其他早先先知一同出席的机构。" },
+    { title = "穆罕默德", path = "wiki/muhammad", description = "与摩西同属联盟信使世系的一位后世先知。" },
+    { title = "耶稣", path = "wiki/jesus", description = "继续推进摩西所推动之恢复的后继立约中介者。" },
+    { title = "以利亚", path = "wiki/elijah", description = "在山上同一操作性接触传统中的一位后世希伯来先知。" },
+    { title = "先知与宗教清单", path = "wiki/list-of-prophets-and-religions", description = "文集据以安置摩西的更广泛的信使序列。" },
+]
 
 [extra.infobox]
-type = "Hebrew prophet, lawgiver, and deliverer"
+type = "希伯来先知、立法者与拯救者"
 hebrew = "<span class=\"hebrew\">מֹשֶׁה</span> *Moshe* (or *Mosheh*)"
 arabic = "<span class=\"arabic\">مُوسَىٰ</span> *Mūsā*"
-period = "Conventional dating: 13th century BCE (late Bronze Age); the Exodus traditionally dated to c. 1446 BCE (early-Exodus chronology) or c. 1250 BCE (late-Exodus chronology, the dominant academic position)"
-precessional_age = "Age of Aries (the corpus's precessional reckoning places the Mosaic period in the middle-to-late portion of Aries, c. 2065 BCE through 95 BCE)"
-lifespan = "Traditional 120 years (Deuteronomy 34:7); the figure is theologically significant in Hebrew tradition as the maximum human lifespan after the deluge"
-parents = "Father Amram of the tribe of Levi; mother Jochebed; siblings Aaron (brother, three years older) and Miriam (sister, the prophetess)"
-wife = "Zipporah (daughter of Reuel / Jethro, priest of Midian); also a Cushite wife mentioned in Numbers 12:1"
-sons = "Gershom and Eliezer"
-principal_biblical_sources = "Exodus 1–40; Leviticus 1–27; Numbers 1–36; Deuteronomy 1–34"
-key_episodes = "Birth and exposure on the Nile; killing of the Egyptian taskmaster; flight to Midian; burning bush on Horeb; the ten plagues of Egypt; institution of the Passover; parting of the Red Sea; manna and quail in the wilderness; Sinai theophany; reception of the Decalogue and Torah; the golden calf and the breaking of the tablets; construction of the Tabernacle and Ark of the Covenant; the 12 spies and the wilderness wandering; the bronze serpent; the death on Mount Nebo"
-death = "On Mount Nebo (also called Mount Pisgah) in Moab; buried by YHWH in an unknown location in the valley (Deuteronomy 34:5–6); aged 120 with \"his eye undimmed and his vigor unabated\""
-mosaic_authorship = "Traditional Jewish and Christian tradition attributes the authorship of the Pentateuch to Moses; mainstream academic scholarship treats the Pentateuch as a composite of multiple source-strata (the documentary hypothesis: J, E, D, P) developed across the period from the 10th through the 5th centuries BCE"
-framework_significance = "The most operationally specific sustained-contact relationship in the Hebrew Bible; the burning bush event, the Sinai theophany, the 40-day fasts, the Tabernacle and Ark specifications, the pillar of cloud and fire, the bronze serpent, the manna provision, the face-shining phenomenon, and the death-and-unmarked-grave together constitute the densest concentration of operational content for any prophetic figure in the corpus"
+period = "常规定年：公元前 13 世纪（青铜时代晚期）；出埃及传统上定于约公元前 1446 年（早期出埃及年表）或约公元前 1250 年（晚期出埃及年表，学界主流立场）"
+precessional_age = "白羊座时代（按文集的岁差推算，摩西时期位于白羊座的中后段，约公元前 2065 年至公元前 95 年）"
+lifespan = "传统上为 120 岁（申命记 34:7）；在希伯来传统中，这一数字作为洪水之后人类寿命的上限具有神学意义"
+parents = "父亲为利未支派的暗兰；母亲约基别；兄姊为亚伦（哥哥，年长三岁）与米利暗（姐姐，女先知）"
+wife = "西坡拉（米甸祭司流珥／叶忒罗之女）；另有民数记 12:1 提到的一位古实妻子"
+sons = "革舜与以利以谢"
+principal_biblical_sources = "出埃及记 1–40 章；利未记 1–27 章；民数记 1–36 章；申命记 1–34 章"
+key_episodes = "出生并被弃于尼罗河；击杀埃及督工；逃往米甸；何烈山上的燃烧荆棘；埃及十灾；设立逾越节；分开红海；旷野中的吗哪与鹌鹑；西奈山显现；领受十诫与妥拉；金牛犊与摔碎石版；建造会幕与约柜；十二探子与旷野漂流；铜蛇；死于尼波山"
+death = "死于摩押的尼波山（又称毗斯迦山）；耶和华将他埋葬在谷中无人知晓之处（申命记 34:5–6）；享年 120 岁，「眼目没有昏花，精神没有衰败」"
+mosaic_authorship = "犹太教与基督教传统将摩西五经的著作权归于摩西；主流学界则视摩西五经为多个来源层的复合体（底本假说：J、E、D、P），形成于公元前 10 至 5 世纪之间"
+framework_significance = "希伯来圣经中作业层面最具体的持续接触关系；燃烧荆棘事件、西奈山显现、四十日禁食、会幕与约柜的规格、云柱火柱、铜蛇、吗哪的供应、面皮发光现象以及死亡与无标记的坟墓，共同构成了文集中任何先知人物身上作业性内容最密集的集中"
 +++
 
 **Moses** (Hebrew <span class="hebrew">מֹשֶׁה</span>, *Moshe*; Greek *Mōusēs*; Arabic <span class="arabic">مُوسَىٰ</span>, *Mūsā*) is the foundational prophet, lawgiver, and deliverer of the Hebrew Bible, conventionally dated to the 13th century BCE during the late Bronze Age (late Age of Aries on the corpus's precessional reckoning). The **Pentateuch** — the first five books of the Hebrew Bible (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), known in Jewish tradition as the **Torah** ("instruction") — is largely a Moses biography from Exodus 2 onward, recording his Egyptian birth, his exposure and adoption by the Egyptian royal house, his flight to Midian after killing an Egyptian taskmaster, his commissioning at the **burning bush** on Mount Horeb, his leadership of the Israelite exodus from Egyptian slavery, the parting of the **Red Sea**, the **Sinai theophany** and the reception of the **Decalogue** and the broader Torah, the construction of the **Tabernacle** and the **Ark of the Covenant**, the 40-year wilderness wandering, and his death on **Mount Nebo** before the Israelite entry into Canaan.

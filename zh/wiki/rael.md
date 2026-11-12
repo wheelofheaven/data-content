@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,27 +17,37 @@ alternative_names = ["Claude Vorilhon", "Rael", "Raël Maitreya", "the Maitreya 
 portrait_id = "rael"
 image = "https://assets.wheelofheaven.world/images/wiki/rael-claude-vorilhon-v3.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/rael-claude-vorilhon-v3.avif"
-image_alt = "AI-generated editorial portrait of Rael as a 1970s Claude Vorilhon-style contactee with long hair and lightly tinted glasses."
-image_caption = "Interpretive portrait for the Rael wiki entry and library speaker metadata."
+image_alt = "AI 生成的雷尔编辑性肖像：一位 1970 年代克洛德·沃里隆风格的接触者，留着长发，戴着淡色眼镜。"
+image_caption = "用于雷尔百科条目及图书馆讲述者元数据的诠释性肖像。"
 timeline = ["aquarius"]
+see_also = [
+    { title = "桑迪与雷尔派讯息", path = "articles/sendy-and-the-raelian-messages", description = "第一部信息如何与 Jean Sendy 的著作相比较：共同的创世记解读、写作年表，以及 Sendy 所没有的创世记之外的评注。" },
+    { title = "雷尔派", path = "wiki/raelism", description = "沃里隆于 1976 年创立、作为大使馆计划之载体的运动。" },
+    { title = "先知", path = "wiki/prophet", description = "正典将他列为先知谱系中最后一位的类别。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "他报告于 1973 年 12 月 13 日与其一位官员会面的文明。" },
+    { title = "耶和华", path = "wiki/yahweh", description = "在六天的接触中传授教导的耶洛因主席。" },
+    { title = "大使馆", path = "wiki/embassy", description = "他的使命与运动所致力建造的设施计划。" },
+    { title = "启示", path = "wiki/apocalypse", description = "他的接触被认为所开启的水瓶座启示时代。" },
+    { title = "六个清晨，六年", path = "articles/six-mornings-six-years", description = "将他的三本书读作一部连续的口授，以及贯穿其中的披露体系。" },
+]
 
 [extra.infobox]
-type = "Aquarian-age prophet; founder of the International Raëlian Movement; corpus-identified last of the cumulative prophetic tradition"
+type = "水瓶座时代的先知；国际雷尔运动的创立者；文集认定的累积性先知传统中的最后一位"
 birth_name = "Claude Vorilhon"
-birth_date = "September 30, 1946"
-birth_place = "Vichy, France"
-nationality = "French"
-prior_occupation = "Motor-sports journalist; founder of *Auto Pop* magazine (1970)"
-first_contact = "December 13, 1973, Puy-de-Lassolas volcanic crater, Auvergne, France (six successive morning meetings)"
-second_contact = "October 7, 1975, Roc Plat near Brantôme, Périgord, France (taken aboard alliance craft to the Planet of the Eternals)"
-new_name = "Raël (Hebrew, glossed by source as 'messenger', 'light of the Elohim', or 'ambassador of the Elohim')"
-biological_parentage = "Disclosed by source 1975 (publication withheld three years until 1979): Yahweh, president of the Council of the Eternals"
+birth_date = "1946 年 9 月 30 日"
+birth_place = "法国维希"
+nationality = "法国"
+prior_occupation = "赛车运动记者；*Auto Pop* 杂志创办人（1970）"
+first_contact = "1973 年 12 月 13 日，法国奥弗涅的 Puy-de-Lassolas 火山口（连续六个早晨的会面）"
+second_contact = "1975 年 10 月 7 日，法国佩里戈尔布朗托姆附近的 Roc Plat（被带上联盟飞行器前往永恒者行星）"
+new_name = "雷尔（希伯来语，原始材料释为「使者」「耶洛因之光」或「耶洛因的大使」）"
+biological_parentage = "原始材料于 1975 年披露（推迟三年至 1979 年才发表）：耶和华，永恒者议会主席"
 principal_works = "*Le Livre qui dit la vérité* (1974); *Les Extra-Terrestres m'ont emmené sur leur planète* (1975/76); *Accueillir les Extra-terrestres* (1979); *La Géniocratie* (1978); *La Méditation Sensuelle* (1980); *Oui au clonage humain* (2000); *Le Maitreya* (anthology of teachings)"
-institutional_role = "Founder and Guide of Guides of the International Raëlian Movement (founded 1976); titular figure of the embassy project"
-identification_with_traditions = "Called by the canon the last of the line of the prophets (ETTMTTP-3:257); the second Message tells each tradition to recognize its own expectation in the present message, including the Buddhist one: 'the new Buddha must be born in the West' (ETTMTTP-3:228). The canon does not use the name Maitreya; the title comes from Raël's later, post-canon writings"
-distinguished_from = "The earlier prophets (Moses, Jesus, Muhammad, Buddha and others) within the cumulative prophetic tradition; the broader contactee tradition of mid-20th century UFO-religion movements; the various scholarly characterizations of Raël as new-religious-movement founder rather than as prophet"
-status_in_source_material = "Substantially documented; biographical content principally drawn from Raël's own autobiographical statements (1974-2005), the Raëlian movement's institutional records, and contemporary journalistic and academic treatments"
-principal_text = "*The Book Which Tells the Truth* (1974); *Extra-Terrestrials Took Me to Their Planet* (1976); *Let's Welcome the Extra-terrestrials* (1979); *The Maitreya* (anthology)"
+institutional_role = "国际雷尔运动（1976 年成立）的创立者与向导中之向导；大使馆计划的名义领导人物"
+identification_with_traditions = "正典称他为先知系列中的最后一位（ETTMTTP-3:257）；第二部讯息要求每个传统在当前的讯息中认出它自己的期待，其中包括佛教的期待：「新的佛陀必将诞生于西方」（ETTMTTP-3:228）。正典并未使用弥勒这一名称；这一称号出自雷尔后来、正典之外的著作"
+distinguished_from = "累积性先知传统中更早的先知（摩西、耶稣、穆罕默德、佛陀等）；20 世纪中叶 UFO 宗教运动中更广的接触者传统；学界把雷尔定性为新兴宗教运动创立者而非先知的各种描述"
+status_in_source_material = "有充分记载；传记内容主要取自雷尔本人的自传性陈述（1974–2005）、雷尔运动的机构记录以及当代新闻与学术论述"
+principal_text = "《讲述真相之书》（1974）；《外星人带我去他们的行星》（1976）；《让我们欢迎外星人》（1979）；《弥勒》（教诲选集）"
 +++
 
 {% claim(type="direct", id="woh-claim-0020") %}**Raël**, born **Claude Vorilhon** on September 30, 1946 in Vichy, France, is the French former motor-sports journalist who reported a contact with an officer of the Elohim alliance at the Puy-de-Lassolas volcanic crater near Clermont-Ferrand on the morning of December 13, 1973.{% end %} The contact inaugurated the Aquarian-age prophetic mission and produced the body of teaching subsequently published as *Le Livre qui dit la vérité* (*The Book Which Tells the Truth*, 1974),{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — record of the December 13, 1973 Puy-de-Lassolas contact") }} *Les Extra-Terrestres m'ont emmené sur leur planète* (*Extra-Terrestrials Took Me to Their Planet*, 1975/76),{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Extra-Terrestrials Took Me to Their Planet* (1976) — record of the October 7, 1975 Roc Plat contact and the Planet of the Eternals visit") }} and *Accueillir les Extra-terrestres* (*Let's Welcome the Extra-terrestrials*, 1979){{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="Vorilhon (Raël), *Let's Welcome the Extraterrestrials* (1979) — the biological-parentage disclosure and the embassy project") }} — collectively the principal Raëlian source material that the Wheel of Heaven corpus engages with. The figure subsequently founded the International Raëlian Movement (1976) and across the subsequent five decades has served as the institutional and public face of the broader embassy project and the Aquarian-age program the alliance has proposed for humanity.

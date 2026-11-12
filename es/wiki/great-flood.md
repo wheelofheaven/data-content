@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -32,12 +32,15 @@ see_also = [
     { title = "Antediluviano", path = "/wiki/antediluvian/", description = "El periodo civilizacional pre-diluviano al que el ataque puso fin." },
     { title = "Pangea", path = "/wiki/pangaea/", description = "El supercontinente cuya fragmentación produjo el ataque." },
     { title = "Edén", path = "/wiki/eden/", description = "El laboratorio originario de la alianza cuyo linaje extendió la civilización antediluviana." },
-    { title = "Biblia Hebrea", path = "/wiki/hebrew-bible/", description = "La principal fuente escritural para la narrativa del Diluvio." },
+    { title = "Biblia hebrea", path = "/wiki/hebrew-bible/", description = "La principal fuente escritural para la narrativa del Diluvio." },
     { title = "Génesis", path = "/wiki/genesis/", description = "El libro bíblico que contiene el relato del Diluvio (Génesis 6-9)." },
+    { title = "Atra-ḫasīs", path = "/library/atrahasis-woh/", description = "El relato babilónico del diluvio, estrechamente paralelo al relato hebreo." },
+    { title = "Epopeya de Gilgamesh", path = "/library/gilgamesh-woh/", description = "El relato mesopotámico del diluvio en la tablilla XI." },
     { title = "Sodoma y Gomorra", path = "/wiki/sodom-and-gomorrah/", description = "Un evento de ataque análogo posterior cuyo mecanismo es estructuralmente similar." },
     { title = "Babel", path = "/wiki/babel/", description = "El episodio post-diluviano de dispersión civilizacional." },
     { title = "Signatura doble", path = "/wiki/doubled-signature/", description = "El principio del corpus por el cual la tradición global del diluvio preserva la memoria histórica subyacente." },
     { title = "Teomaquia", path = "/wiki/theomachy/", description = "El marco más amplio del conflicto cósmico-político dentro del cual opera el ataque." },
+    { title = "El arcediano y el dragón", path = "articles/the-archdeacon-and-the-dragon", description = "La convergencia entre Wallis y el canon en torno al Diluvio como decisión de un consejo." },
 ]
 
 footnotes = [

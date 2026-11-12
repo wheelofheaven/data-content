@@ -6,26 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Commandments (proper-noun framework concept)", "the Aquarian-age program", "the seven commandments", "the Raëlian socio-political-religious doctrine"]
+alternative_names = ["the New Commandments (proper-noun framework concept)", "программа Эпохи Водолея", "семь заповедей", "раэлианское социально-политико-религиозное учение"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Моисей", path = "wiki/moses", description = "Посредник парного Декалога эпохи Овна, преемниками которого для эпохи Водолея выступают эти заповеди." },
+    { title = "Гениократия", path = "wiki/geniocracy", description = "Первая заповедь — измерение управления в семичастной программе." },
+    { title = "Гуманитаризм", path = "wiki/humanitarianism", description = "Вторая заповедь — измерение собственности и наследования в программе." },
+    { title = "Золотой век", path = "wiki/golden-age", description = "Форма жизни, которую должно произвести полное осуществление программы." },
+    { title = "Посольство", path = "wiki/embassy", description = "Требование построить сооружение, выделенное в изначальном разделе «Ваша миссия»." },
+    { title = "Апокалипсис", path = "wiki/apocalypse", description = "Пороговый момент, открывающий эпоху, на которую ориентированы эти предписания." },
+]
 
 [extra.infobox]
-type = "Raëlian umbrella concept; the seven principal political-religious-cultural directives delivered by Yahweh to Vorilhon during the December 1973 contact"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), Sixth Chapter; *Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), substantial 'The Keys' section; *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979); consolidated *Message from the Designers* (2005); systematic *timeline.epub* engagement"
-the_seven_commandments = "(1) Geniocracy — political-governance; (2) Humanitarianism — property-and-inheritance; (3) World Government — political-coordination; (4) Demilitarization — peace; (5) Science as Religion — religious-cultural; (6) Telepathic Cultivation — cognitive-developmental; (7) Metaphysical Clarifications — doctrinal-cosmological"
-source_textual_structure = "Original 1974 Chapter VI: four explicit sections (Geniocracy, Humanitarianism, World Government, Your Mission) — with Your Mission articulating the Raëlian institutional engagement distinctly from the seven structural commandments; subsequent corpus consolidation: seven systematic commandments faithful to broader corpus content"
-mosaic_decalogue_parallel = "Aries-age Decalogue (Exodus 20:1-17, Deuteronomy 5:6-21) and Aquarian-age New Commandments paired as substantive age-specific programmatic articulations; both delivered by Yahweh; substantive transition from individual-ethical-prohibitive content to collective-civilizational-constructive content"
-distinguished_from = "the Mosaic Decalogue (the Aries-age individual-ethical paired articulation); the Raëlian Mission (the institutional engagement registered in the original Chapter VI 'Your Mission' section); the Embassy construction (the specific operational requirement); the Apocalypse (the threshold-revelation moment); the Golden Age (the operational form of life that successful implementation produces)"
-parallel_traditions = "The Mosaic Decalogue; the Holiness Code and Deuteronomic Code; the Christian Sermon on the Mount; the Islamic Five Pillars and substantive Sharia; the Buddhist Eightfold Path and Five Precepts; the Hindu purusharthas; the Confucian Five Relationships; various indigenous programmatic traditions; Plato's Republic and Laws; the substantial utopian-programmatic tradition; the substantial revolutionary and democratic-progressive programmatic articulations; the contemporary UN-system programmatic engagements"
-status_in_framework = "Foundational umbrella concept consolidating the seven Aquarian-age program elements; substantively load-bearing for broader corpus eschatological-cosmological architecture"
-contingent_implementation = "Not immediate institutional change but directional orientation across centuries; long-term socio-political-cultural reorganization implementing the program at planetary civilizational scale"
+type = "Раэлианское обобщающее понятие; семь главных политико-религиозно-культурных установлений, переданных Яхве Ворильону во время контакта в декабре 1973 года"
+principal_source = "*Книга, которая говорит правду* (Ворильон, 1974), шестая глава; *Инопланетяне забрали меня на свою планету* (Ворильон, 1975), раздел «Ключи»; *Встретим инопланетян* (Ворильон, 1979); сведено в *Послании от Создателей* (2005)"
+the_seven_commandments = "(1) Гениократия — политическое управление; (2) Гуманитаризм — собственность и наследование; (3) Мировое правительство — политическая координация; (4) Демилитаризация — мир; (5) Наука как религия — религиозно-культурная сфера; (6) Развитие телепатии — когнитивное развитие; (7) Метафизические разъяснения — доктринально-космологическая сфера"
+source_textual_structure = "Исходная глава VI 1974 года: четыре раздела (Гениократия, Гуманитаризм, Мировое правительство, Ваша миссия), причём «Ваша миссия» излагает институциональную задачу раэлиан отдельно от структурных заповедей; семичастный перечень — позднейшее сведение, верное корпусу в целом"
+mosaic_decalogue_parallel = "Сопоставлены с Моисеевым Десятисловием Эпохи Овна (Исход 20:1–17; Второзаконие 5:6–21) как его преемственная формулировка эпохи Водолея; оба переданы Яхве; сдвиг — от индивидуально-этического запрета («не делай») к коллективно-цивилизационному созиданию («развивай»)"
+distinguished_from = "Моисеево Десятисловие (парная формулировка Эпохи Овна); раэлианская Миссия (институциональная задача, выделенная в разделе 1974 года «Ваша миссия»); Посольство (конкретное требование о здании); Апокалипсис (пороговый момент); Золотой век (форма жизни, которую должно породить полное осуществление)"
+parallel_traditions = "Моисеево Десятисловие; Кодекс святости и Второзаконнический кодекс; Нагорная проповедь; пять столпов ислама; буддийские Благородный восьмеричный путь и пять обетов; индуистские пурушартхи; конфуцианские пять отношений; *Государство* и *Законы* Платона; утопическая традиция (Мор, Бэкон, Кампанелла); просветительские, социалистические и демократические программы; Всеобщая декларация прав человека (1948); Цели устойчивого развития ООН (2015)"
+status_in_framework = "Основополагающее обобщающее понятие, объединяющее семь элементов программы эпохи Водолея; несущее для эсхатологической и космологической архитектуры корпуса"
+contingent_implementation = "Не немедленное институциональное изменение, а направление роста на протяжении веков; долгосрочная социально-политико-культурная реорганизация в планетарном масштабе"
 +++
 
 **The New Commandments** are, in the Wheel of Heaven framework, the seven

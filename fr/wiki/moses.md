@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,23 +15,31 @@ editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
-alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "Moses the Lawgiver", "Mosheh Rabbenu (\"Moses our Teacher\")"]
+alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "Moïse le législateur", "Mosheh Rabbenu (« Moïse notre maître »)"]
+see_also = [
+    { title = "Yahvé", path = "wiki/yahweh", description = "Le président des Élohim derrière le buisson ardent et les contacts du Sinaï." },
+    { title = "Conseil des Éternels", path = "wiki/council-of-the-eternals", description = "L'organe auprès duquel Moïse est dit présent aux côtés des autres prophètes antérieurs." },
+    { title = "Mahomet", path = "wiki/muhammad", description = "Un prophète ultérieur de la même lignée de messagers de l'alliance que Moïse." },
+    { title = "Jésus", path = "wiki/jesus", description = "Un médiateur d'alliance ultérieur qui poursuit le rétablissement que Moïse fait avancer." },
+    { title = "Élie", path = "wiki/elijah", description = "Un prophète hébreu ultérieur de la même tradition de contact opérationnel sur la montagne." },
+    { title = "Liste de prophètes et de religions", path = "wiki/list-of-prophets-and-religions", description = "La séquence plus large de messagers dans laquelle le corpus situe Moïse." },
+]
 
 [extra.infobox]
-type = "Hebrew prophet, lawgiver, and deliverer"
-hebrew = "<span class=\"hebrew\">מֹשֶׁה</span> *Moshe* (or *Mosheh*)"
+type = "Prophète, législateur et libérateur hébreu"
+hebrew = "<span class=\"hebrew\">מֹשֶׁה</span> *Moshe* (ou *Mosheh*)"
 arabic = "<span class=\"arabic\">مُوسَىٰ</span> *Mūsā*"
-period = "Conventional dating: 13th century BCE (late Bronze Age); the Exodus traditionally dated to c. 1446 BCE (early-Exodus chronology) or c. 1250 BCE (late-Exodus chronology, the dominant academic position)"
-precessional_age = "Age of Aries (the corpus's precessional reckoning places the Mosaic period in the middle-to-late portion of Aries, c. 2065 BCE through 95 BCE)"
-lifespan = "Traditional 120 years (Deuteronomy 34:7); the figure is theologically significant in Hebrew tradition as the maximum human lifespan after the deluge"
-parents = "Father Amram of the tribe of Levi; mother Jochebed; siblings Aaron (brother, three years older) and Miriam (sister, the prophetess)"
-wife = "Zipporah (daughter of Reuel / Jethro, priest of Midian); also a Cushite wife mentioned in Numbers 12:1"
-sons = "Gershom and Eliezer"
-principal_biblical_sources = "Exodus 1–40; Leviticus 1–27; Numbers 1–36; Deuteronomy 1–34"
-key_episodes = "Birth and exposure on the Nile; killing of the Egyptian taskmaster; flight to Midian; burning bush on Horeb; the ten plagues of Egypt; institution of the Passover; parting of the Red Sea; manna and quail in the wilderness; Sinai theophany; reception of the Decalogue and Torah; the golden calf and the breaking of the tablets; construction of the Tabernacle and Ark of the Covenant; the 12 spies and the wilderness wandering; the bronze serpent; the death on Mount Nebo"
-death = "On Mount Nebo (also called Mount Pisgah) in Moab; buried by YHWH in an unknown location in the valley (Deuteronomy 34:5–6); aged 120 with \"his eye undimmed and his vigor unabated\""
-mosaic_authorship = "Traditional Jewish and Christian tradition attributes the authorship of the Pentateuch to Moses; mainstream academic scholarship treats the Pentateuch as a composite of multiple source-strata (the documentary hypothesis: J, E, D, P) developed across the period from the 10th through the 5th centuries BCE"
-framework_significance = "The most operationally specific sustained-contact relationship in the Hebrew Bible; the burning bush event, the Sinai theophany, the 40-day fasts, the Tabernacle and Ark specifications, the pillar of cloud and fire, the bronze serpent, the manna provision, the face-shining phenomenon, and the death-and-unmarked-grave together constitute the densest concentration of operational content for any prophetic figure in the corpus"
+period = "Datation conventionnelle : XIIIe siècle AEC (fin de l'âge du bronze) ; l'Exode traditionnellement daté de v. 1446 AEC (chronologie haute) ou de v. 1250 AEC (chronologie basse, position académique dominante)"
+precessional_age = "Ère du Bélier (le comput précessionnel du corpus place la période mosaïque dans la partie moyenne à tardive du Bélier, v. 2065 AEC à 95 AEC)"
+lifespan = "120 ans selon la tradition (Deutéronome 34:7) ; le chiffre est théologiquement significatif dans la tradition hébraïque comme durée de vie humaine maximale après le Déluge"
+parents = "Père Amram, de la tribu de Lévi ; mère Jokébed ; frère et sœur Aaron (frère, de trois ans son aîné) et Myriam (sœur, la prophétesse)"
+wife = "Séphora (fille de Réuel / Jéthro, prêtre de Madian) ; ainsi qu'une épouse koushite mentionnée en Nombres 12:1"
+sons = "Guershom et Éliézer"
+principal_biblical_sources = "Exode 1–40 ; Lévitique 1–27 ; Nombres 1–36 ; Deutéronome 1–34"
+key_episodes = "Naissance et abandon sur le Nil ; meurtre du contremaître égyptien ; fuite à Madian ; buisson ardent sur l'Horeb ; les dix plaies d'Égypte ; institution de la Pâque ; passage de la mer Rouge ; manne et cailles dans le désert ; théophanie du Sinaï ; réception du Décalogue et de la Torah ; le veau d'or et le bris des tables ; construction du Tabernacle et de l'arche d'alliance ; les douze espions et l'errance au désert ; le serpent d'airain ; la mort sur le mont Nébo"
+death = "Sur le mont Nébo (aussi appelé mont Pisga) en Moab ; enterré par YHWH en un lieu inconnu de la vallée (Deutéronome 34:5–6) ; mort à 120 ans, « sa vue n'était point affaiblie et sa vigueur n'était point passée »"
+mosaic_authorship = "La tradition juive et chrétienne attribue à Moïse la rédaction du Pentateuque ; l'érudition académique courante traite le Pentateuque comme un composé de plusieurs strates sources (l'hypothèse documentaire : J, E, D, P) élaborées entre le Xe et le Ve siècle AEC"
+framework_significance = "La relation de contact soutenu la plus précise sur le plan opérationnel de toute la Bible hébraïque ; le buisson ardent, la théophanie du Sinaï, les jeûnes de 40 jours, les prescriptions du Tabernacle et de l'arche, la colonne de nuée et de feu, le serpent d'airain, la fourniture de la manne, le visage rayonnant et la mort suivie d'une tombe sans marque constituent ensemble la plus forte concentration de contenu opérationnel pour une figure prophétique dans le corpus"
 +++
 
 **Moses** (Hebrew <span class="hebrew">מֹשֶׁה</span>, *Moshe*; Greek *Mōusēs*; Arabic <span class="arabic">مُوسَىٰ</span>, *Mūsā*) is the foundational prophet, lawgiver, and deliverer of the Hebrew Bible, conventionally dated to the 13th century BCE during the late Bronze Age (late Age of Aries on the corpus's precessional reckoning). The **Pentateuch** — the first five books of the Hebrew Bible (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), known in Jewish tradition as the **Torah** ("instruction") — is largely a Moses biography from Exodus 2 onward, recording his Egyptian birth, his exposure and adoption by the Egyptian royal house, his flight to Midian after killing an Egyptian taskmaster, his commissioning at the **burning bush** on Mount Horeb, his leadership of the Israelite exodus from Egyptian slavery, the parting of the **Red Sea**, the **Sinai theophany** and the reception of the **Decalogue** and the broader Torah, the construction of the **Tabernacle** and the **Ark of the Covenant**, the 40-year wilderness wandering, and his death on **Mount Nebo** before the Israelite entry into Canaan.

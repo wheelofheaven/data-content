@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,26 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Four Levels of Consideration", "the Four Levels of Estimation", "the four-level framework", "the four-perspective evaluation framework", "the cosmic-to-individual evaluation framework", "*les quatre plans* (French source-original)"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Infinito", path = "wiki/infinity", description = "El primer nivel y el de mayor peso: el punto de referencia cósmico con el que se juzgan todas las cosas." },
+    { title = "Elohim", path = "wiki/elohim", description = "El segundo nivel: los creadores ante quienes la acción humana debe rendir cuentas." },
+    { title = "Cosmología fractal", path = "wiki/fractal-cosmology", description = "La cosmología de escalas anidadas que fundamenta la perspectiva del nivel del Infinito." },
+    { title = "Tierra viva", path = "wiki/living-earth", description = "El escenario cosmológico del que los Cuatro Niveles son el correlato ético." },
+    { title = "Cadena cósmica", path = "wiki/cosmic-chain", description = "La cosmología de civilizaciones anidadas que subyace al arco de los cuatro niveles, de lo cósmico a lo individual." },
+    { title = "Raelismo", path = "wiki/raelism", description = "El movimiento cuyos textos fuente enuncian por primera vez la regla de los cuatro niveles." },
+]
 
 [extra.infobox]
-type = "Foundational ethical-practical framework; the ethical-practical correlate of the broader Infinity-Fractal-Cosmology-Mass-Effect-Living-Earth cosmological cluster"
-basic_premise = "In every situation, things must be considered in relation to four levels — the Infinite, the Elohim, human society, and the individual self — operating together as integrated framework with love as constant"
-the_four_levels = "Level 1: The Infinite (cosmic-impersonal level); Level 2: The Elohim (creator-relational level); Level 3: Human society (collective level); Level 4: The individual self (personal level)"
-operational_character = "Multi-perspectival rather than hierarchical: the four levels operate together as integrated framework where all four must be operative simultaneously, with love as the constant integrative principle across all four"
-hierarchical_asymmetry = "While all four levels are operative, they are not equally weighted: 'The most important level is that relating to infinity, for it is in relation to this level that all things must be judged' — the Infinite is the principal evaluative reference point, with the other three levels providing operational specificity within the broader cosmic-Infinite framework"
+type = "Marco ético-práctico; el correlato práctico de la cosmología del Infinito, la Cosmología fractal y la Tierra viva"
+basic_premise = "En toda situación, las cosas deben sopesarse según cuatro niveles —el Infinito, los Elohim, la sociedad humana y el propio individuo— considerados a la vez, con el amor como constante"
+the_four_levels = "Nivel 1: el Infinito (perspectiva cósmica); Nivel 2: los Elohim (los creadores); Nivel 3: la sociedad humana (lo colectivo); Nivel 4: el propio individuo (el sentido personal)"
+operational_character = "Multiperspectivista, no jerárquico: los cuatro niveles se sostienen a la vez, con el amor como constante integradora"
+hierarchical_asymmetry = "Los niveles no tienen el mismo peso: «el plano más importante es el que tiene relación con el infinito; es con relación a este plano que hay que juzgar todas las cosas». El Infinito orienta los otros tres en lugar de anularlos"
 tension_resolution_function = "Each level addresses specific failure-modes the other levels can produce when isolated: Level 1 prevents anxious self-importance; Level 2 prevents nihilism; Level 3 prevents solipsism; Level 4 prevents collective-tyranny"
-position_in_framework = "Ethical-practical correlate of the broader cosmological framework cluster (Infinity, Fractal Cosmology, Mass Effect, Living Earth); the framework that translates the broader cosmic content into specific operational guidance for human living"
-distinguished_from = "Conventional ethical hierarchies (which typically operate hierarchically rather than multi-perspectivally); the Hindu purusharthas (which operate as four aims of life rather than as four evaluative perspectives); the Stoic concentric circles of concern (which operate as expanding-circle scope rather than as multi-level evaluation); contemporary effective-altruism frameworks (which typically operate through utilitarian calculus rather than through multi-perspectival integration); Lovecraftian cosmicism (which produces nihilistic implications absent in the framework's love-grounded integration)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in the 'Humanity' section of *The Keys* establishes the framework's specific content with explicit articulation, with substantial subsequent corpus-internal exegesis"
-principal_text = "*Extra-Terrestrials Took Me to Their Planet* (1975), 'The Keys' chapter, 'Humanity' section (the principal Yahweh passage); *Message from the Designers* FAQ section, 'What is the Purpose of Life?' (the substantial subsequent articulation with each level's specific exegesis); the Wheel of Heaven corpus *timeline.epub* outro Section VI"
+position_in_framework = "La vertiente ético-práctica del grupo cosmológico (Infinito, Cosmología fractal, Efecto de masa, Tierra viva): la regla que convierte esa cosmología en una guía para la vida"
+distinguished_from = "Las escalas jerárquicas de valores (los valores superiores anulan a los inferiores); los purusharthas hindúes (cuatro fines de la vida, no cuatro ángulos de evaluación); los círculos de interés estoicos (ampliación del alcance, no juicio en varios niveles); el cálculo del altruismo eficaz; el cosmicismo lovecraftiano (la escala cósmica leída como desesperación)"
+status_in_source_material = "Expuesto directamente por Yahvé en la sección «La humanidad» de «Las claves» en *Los extraterrestres me llevaron a su planeta* (1975), con una reformulación nivel por nivel en las preguntas frecuentes de *Mensaje de los Diseñadores*"
+principal_text = "*Los extraterrestres me llevaron a su planeta* (1975), capítulo «Las claves», sección «La humanidad»; el pasaje «¿Cuál es el sentido de la vida?» en *Mensaje de los Diseñadores*"
 +++
 
 {% claim(type="framework", id="woh-claim-0041") %}**Four Levels** is the name the Wheel of Heaven corpus gives to a rule stated by

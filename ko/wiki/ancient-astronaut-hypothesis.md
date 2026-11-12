@@ -6,26 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Ancient Astronaut Hypothesis", "Ancient Astronaut Theory", "Ancient Aliens hypothesis", "paleocontact hypothesis", "extraterrestrial-intervention hypothesis", "ancient-extraterrestrial-hypothesis"]
+alternative_names = ["고대 우주인 가설", "고대 우주인 이론", "고대 외계인 가설", "고대 접촉 가설", "외계 개입 가설", "고대 외계인 가설(ancient-extraterrestrial-hypothesis)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "장 상디", path = "wiki/jean-sendy", description = "코퍼스가 이 가설의 자기 판본에 통합하는 프레임워크를 제시한, 보릴롱 이전의 주요 인물." },
+    { title = "신(新)에우헤메리즘", path = "wiki/neo-euhemerism", description = "고대의 증언을 왜곡된 접촉 기록으로 읽는 코퍼스 독해의 바탕이 되는 해석 방법." },
+    { title = "마우로 비글리노", path = "wiki/mauro-biglino", description = "대중화 저자들보다 방법론적으로 코퍼스의 규율에 더 가깝다고 평가되는 현대의 텍스트·문헌학적 관여." },
+    { title = "설계자들로부터의 메시지", path = "wiki/message-from-the-designers", description = "고대 증거에 대한 사변적 해석이 아니라 코퍼스의 토대가 되는 보릴롱의 직접 계시." },
+    { title = "전승", path = "wiki/the-tradition", description = "이 가설이 고대 문화들을 가로질러 읽는, 전해진 접촉 기록을 가리키는 코퍼스의 용어." },
+    { title = "선구자들", path = "wiki/forerunners", description = "20세기에 대중화되기 전에 이 가설을 예견한 앞선 저자들." },
+]
 
 [extra.infobox]
-type = "Interpretive tradition / methodological category proposing extraterrestrial influence on prehistoric and ancient human development"
-principal_period = "Modern formulation: 1950s-present; broader antecedents in late nineteenth-century occult tradition and earlier speculative engagement"
-core_proposition = "Extraterrestrial beings visited Earth in prehistoric or ancient past and influenced human cultural, religious, and technological development"
-candidate_evidence = "Anomalous ancient monuments; cross-cultural mythological motifs of sky-descending beings; sophisticated pre-modern astronomical knowledge; religious-textual content involving celestial encounters; structural similarities across global mythologies"
-principal_proponents = "Erich von Däniken (popularizer); Zecharia Sitchin (Sumerian-Anunnaki framework); Jean Sendy (principal corpus-influence figure); Mauro Biglino (contemporary textual-philological engagement); Paul Anthony Wallis; Robert Temple; Robert Charroux; David Hatcher Childress; Giorgio Tsoukalos; Lloyd Pye; others"
-mainstream_status = "Rejected as pseudoscience by mainstream archaeology, history of religion, and skeptical scholarship; principal academic-skeptical engagement in Feder, Colavito, others"
-corpus_positioning = "Wheel of Heaven framework operates within broader tradition while diverging methodologically: Vorilhon source-textual grounding rather than speculative interpretation; Sendy-Vorilhon synthesis; Hamlet's Mill precessional framework integration; disciplined epistemic-pluralism methodology"
-distinguished_from = "Mainstream archaeology and history of religion (which treats human cultural development as autonomous); UFO contactee tradition narrowly (which focuses on contemporary contact rather than ancient); science fiction (which is explicitly fictional); various occult and esoteric traditions (which operate within different theoretical frameworks)"
-status_in_framework = "Broader interpretive tradition within which corpus operates; corpus is identifiably a member of the family while differing methodologically; substantive subject-matter category for understanding corpus's place in contemporary intellectual landscape"
+type = "선사 및 고대 인류의 발달에 외계의 영향이 있었다고 제안하는 해석 전통 / 방법론적 범주"
+principal_period = "현대적 정식화: 1950년대~현재; 더 넓은 선행 형태는 19세기 후반의 오컬트 전통과 그 이전의 사변적 논의"
+core_proposition = "외계 존재들이 선사 시대 또는 고대에 지구를 방문하여 인류의 문화적·종교적·기술적 발달에 영향을 미쳤다"
+candidate_evidence = "변칙적인 고대 기념물; 하늘에서 내려온 존재들에 관한 문화 횡단적 신화 모티프; 고도의 전근대 천문 지식; 천상의 만남을 담은 종교 문헌의 내용; 전 세계 신화들에 걸친 구조적 유사성"
+principal_proponents = "에리히 폰 데니켄(대중화한 인물); 제카리아 시친(수메르-아눈나키 틀); 장 상디(코퍼스에 영향을 준 주요 인물); 마우로 비글리노(현대의 문헌학적 접근); 폴 앤서니 월리스; 로버트 템플; 로베르 샤루; 데이비드 해처 칠드리스; 조르조 추칼로스; 로이드 파이; 그 밖의 인물들"
+mainstream_status = "주류 고고학, 종교사, 회의주의 학계에서 사이비과학으로 배척됨; 주요 학술적·회의적 검토는 페더, 콜라비토 등"
+corpus_positioning = "Wheel of Heaven 틀은 더 넓은 전통 안에서 작동하면서도 방법론적으로 갈라짐: 사변적 해석이 아니라 보릴롱 원전 텍스트에 근거함; 상디-보릴롱 종합; *햄릿의 맷돌*의 세차 틀 통합; 절제된 인식론적 다원주의 방법론"
+distinguished_from = "주류 고고학과 종교사(인류의 문화 발달을 자율적인 것으로 다룸); 좁은 의미의 UFO 접촉자 전통(고대가 아니라 현대의 접촉에 초점을 둠); 과학소설(명시적으로 허구임); 다양한 오컬트·밀교 전통(다른 이론적 틀 안에서 작동함)"
+status_in_framework = "코퍼스가 활동하는 더 넓은 해석 전통. 코퍼스는 이 계열의 자각적 구성원이면서 방법과 내용에서 그와 다르며, 현대 지적 지형 속에서 이 체계의 위치를 정하는 핵심 범주입니다"
 +++
 
 **The ancient astronaut hypothesis** — also called the paleocontact hypothesis,

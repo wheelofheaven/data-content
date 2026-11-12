@@ -6,26 +6,33 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the alliance", "the cross-civilizational alliance", "the Eloha-human alliance", "the Noahic alliance", "the covenant partnership"]
+alternative_names = ["동맹", "문명 간 동맹", "엘로하-인간 동맹", "노아의 동맹", "언약 동반자 관계"]
 timeline = ["gemini", "taurus", "aries", "pisces", "aquarius"]
+see_also = [
+    { title = "영원자 의회", path = "wiki/council-of-the-eternals", description = "노아의 순간에 동맹이 그것에 맞서 결성된 본국의 평의회." },
+    { title = "엘로힘", path = "wiki/elohim", description = "동맹이 인류와 결속시키는 창조자 문명." },
+    { title = "우주의 사슬", path = "wiki/cosmic-chain", description = "동맹이 자리하는, 창조자 문명들의 깊은 시간에 걸친 계승." },
+    { title = "우주적 경쟁", path = "wiki/cosmic-competition", description = "동맹이 후원하는 인류들에게 적용되는 평가 프레임워크." },
+    { title = "예언자", path = "wiki/prophet", description = "동맹이 매개된 접촉을 수행한 인간 중개자들." },
+]
 
 [extra.infobox]
-type = "Cross-civilizational political body; formal partnership between Eloha and human parties"
-formation_event = "The Noahic covenant (Genesis 9:8–17), at the post-Flood altar; c. 6,690 BCE on the corpus's chronology, late Age of Gemini"
-founding_parties = "The exiled Lucifer-faction creators (senior partner); the human Eden-lineage survivors led by Noah (junior partner)"
-subsequent_expansion = "Extended to include the broader Elohim civilization following the Taurus-age pardon of the exiled creators, c. 4,000–3,800 BCE"
-distinguished_from = "The Elohim civilization (broader population of ~7 billion on the home world); the Council of the Eternals (the home-world ruling body); the Lucifer faction (specific subset of dissenting creators); the prophetic tradition (specific contact mechanism the Alliance has used)"
-operational_modes = "Direct contact (pre-Flood through early Aries); indirect contact through prophets (mid-Aries through late Pisces); preparing for open return (Aquarian age)"
-current_status = "Active; operating in the post-1945 Aquarian-age preparation phase; preparing for the open return at the embassy"
-principal_text = "Genesis 9:8–17 (the Noahic covenant); subsequent Hebrew Bible covenant material (Abrahamic, Mosaic, Davidic); the broader Hebrew Bible's narrative of alliance-mediated history"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974); developed extensively across the broader Wheel of Heaven corpus"
+type = "문명 간 정치 기구; 엘로하 측과 인간 측의 공식적 동반자 관계"
+formation_event = "대홍수 이후 제단에서의 노아 언약(창세기 9:8–17); 코퍼스 연대기로 기원전 약 6,690년, 쌍둥이자리 시대 후기"
+founding_parties = "추방된 루시퍼 분파의 창조자들(선임 동반자); 노아가 이끈 에덴 계보의 인간 생존자들(후임 동반자)"
+subsequent_expansion = "기원전 약 4,000–3,800년, 황소자리 시대에 망명한 창조자들이 사면된 뒤 엘로힘 문명을 포함하도록 확대"
+distinguished_from = "엘로힘 문명(본국 행성에 약 70억 명), 영원자 평의회(본국의 통치 기구), 루시퍼 파(창조자들 중 반대파), 예언 전통(동맹이 사용해 온 접촉 방식)"
+operational_modes = "직접 접촉(대홍수 이전부터 양자리 초기까지); 예언자들을 통한 간접 접촉(양자리 중기부터 물고기자리 후기까지); 공개 귀환 준비(물병자리 시대)"
+current_status = "활동 중; 1945년 이후 물병자리 시대의 준비 단계에서 작동하고 있음; 대사관에서의 공개 귀환을 준비함"
+principal_text = "창세기 9:8–17(노아 언약), 이후 히브리어 성경의 언약 자료(아브라함, 모세, 다윗), 동맹이 매개한 역사에 대한 히브리어 성경의 서사"
+principal_framework_source = "*The Book Which Tells the Truth*(보릴롱/라엘, 1974). Wheel of Heaven 코퍼스 전반에 걸쳐 폭넓게 전개"
 +++
 
 **The Alliance** is the formal cross-civilizational political body that, on the Wheel of Heaven corpus's reading, structures the long historical relationship between the Elohim civilization and the Eden-lineage human population. It is one of the framework's principal interpretive constructions — the category the corpus uses to organize the Raëlian source material's account of the operational history connecting the Elohim creators with their human creations across the post-Flood millennia. On this reading the Alliance is not a metaphor or a theological abstraction but a historical political entity with a founding moment, founding parties, operations across documented history, and a projected future.

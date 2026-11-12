@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -20,7 +20,7 @@ category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 summary = "ジャン・サンディ（1910–1978）——ロシア生まれのパリ人、戦時中の通信員、レイモンド・チャンドラーの翻訳者、素人の指物師、1930年代アヴァンギャルドの片眼鏡のダンディ——は1963年、このプロジェクトがその内側に住まう読解の、最初の完成された言明を発表した。すなわち、ヘブライ語聖書は、文字どおりに受け取れば、複数にして物理的、可死のエロヒムの地球滞在を語っている、と。そして彼は、この系譜において以前にも以後にも誰一人としてなしえなかったことをした。読解のすべてを、反証可能な予言に、活字で、期限つきで賭けたのである——エロヒムの施設の痕跡は最初の着陸から一年以内に月面で発見されるだろう、もしされなければ「私の仮説は偽と見なされるべきである」。この解説は、彼の全著作をフランス語で精読する——1963年の『モーセの講義ノート』、『月、聖書の鍵』、『天と地を造りしこれらの神々』、『われら中世人』、『水瓶座の時代』、そして晩年の『メシアの時』——そして、その親近性にふさわしい深さでラエルのカノンと突き合わせる。彼の真に独創的な二つの主張をたどる。すなわち、中世の釈義はルネサンスや啓蒙の世俗主義よりも本文の真の意味に近く立っていたということ、そして、ジュネーヴ主席ラビのアレクサンドル・サフランを通じて取り組まれたカバラは、モーセより古い教えを保存しており、その核心の約束——「人は創世記の初めに語られた行いを更新するであろう」——は今や進行中の計画であるということ。この解説は賭けを正直に監査する。アポロは何も見つけず、サンディ自身のペテン師条項によって、月の方舟はその定式のかたちのまま反証されて立っている——彼はその判定を、彼の模倣者たちが決して認めない優雅さで受け止めた。そしてこの解説は、彼の評判を両側から平板にしてきた問い——1974年のラエリアン啓示が、サンディによればこの「善良な若者」が読んでいたという諸書に何かを負っているのかどうか——を、論争抜きに扱う。同時に、両者のあいだの構造的な相違を刻む。彼のエロヒムは生命を創造するのではなく荒廃した地球を再植民し、彼のヤハウェは大統領ではなく非物質的な原理であり、彼の天なる者たちは、十中八九、二度と帰ってこない。"
-keywords = ["Jean Sendy", "Elohim", "Célestes", "Theosites", "Galaxiens", "La lune clé de la Bible", "Moon Outpost of the Gods", "arc d'alliance", "precession of the equinoxes", "Age of Aquarius", "medievalism", "humanism", "Giordano Bruno", "Alexandre Safran", "Kabbalah", "tikkun olam", "Hamlet's Mill", "falsifiability", "paleocontact", "neo-euhemerism", "Raël", "Stefano Bigliardi"]
+keywords = ["ジャン・サンディ", "エロヒム", "Célestes", "Theosites", "Galaxiens", "La lune clé de la Bible", "Moon Outpost of the Gods", "arc d'alliance", "歳差運動", "水瓶座の時代", "中世主義", "人文主義", "ジョルダーノ・ブルーノ", "アレクサンドル・サフラン", "カバラ", "tikkun olam", "ハムレットの臼", "反証可能性", "古代接触説", "新エウヘメリズム", "ラエル", "ステファノ・ビリャルディ"]
 references = [
     # — The canon under comparison —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2 (¶¶25–27: the laboratory creation and the striking resemblance; ¶57: good and evil defined; ¶72: Babel, the interrupted conquest of space; ¶58: the Flood decision); Chapter 3 (¶33: the 'glory' as flying craft; ¶251: 'Elohim… venus du ciel'); Chapter 7 (¶56: the president of the Council of the Eternals)" },

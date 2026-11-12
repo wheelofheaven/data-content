@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,28 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["fractal cosmos", "the fractal-self-similar cosmology", "the infinite-hierarchical cosmology", "the nested-cosmos framework", "the scale-invariant cosmology"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "宏观生物学", path = "wiki/macrobiology", description = "研究分形阶梯某一级上之生命系统的学问：人类之于个人，犹如个人之于细胞。" },
+    { title = "质量效应", path = "wiki/mass-effect", description = "处理同一自相似宇宙论之时间维度的姊妹框架。" },
+    { title = "无限", path = "wiki/infinity", description = "分形宇宙论为其空间维度的更广框架。" },
+    { title = "宇宙链", path = "wiki/cosmic-chain", description = "充满无限尺度阶梯的嵌套存在者层级。" },
+    { title = "双重署名", path = "wiki/doubled-signature", description = "在不同尺度间呼应该框架自相似性的结构复现原则。" },
+    { title = "宇宙竞争", path = "wiki/cosmic-competition", description = "对在无限宇宙中运作之文明动态的框架解读。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "其母星来源材料阐明了无限层级结构的文明。" },
+    { title = "签名与设计者们", path = "/articles/the-signature-and-the-designers/", description = "无始的宇宙作为瓦解 Meyer 微调论证的关键：没有最初时刻，也就从来没有什么被“设定”。" },
+]
 
 [extra.infobox]
-type = "Hypothetical cosmological framework; concept articulating the spatial-self-similar structure of the cosmos across the infinite hierarchy of scales"
-basic_premise = "The cosmos exhibits self-similarity across scales, with the same fundamental patterns of organization recurring at every scale of examination, indefinitely in both directions without finding any bottom or any top"
-core_image = "The Earth is but a particle of the atom of the atoms of the hand of a gigantic being, who contemplates a starlit sky which composes the hand, the stomach or the foot of a being even more gigantic, who finds himself under a sky, etc., etc., ad infinitum"
-domain = "All scales of cosmological organization, from sub-atomic scales (where intelligent life on the atoms of our atoms exists, on the source's claim) through human scale through planetary, stellar, galactic, intergalactic scales and beyond"
-mathematical_status = "Structurally aligned with mathematical-fractal vocabulary (Mandelbrot 1975+); not yet formally mathematized within the corpus; principal articulation through source-material passages and corpus interpretive elaboration"
-relationship_to_mainstream_cosmology = "Substantially distinct from the standard cosmological-principle homogeneity-and-isotropy framework of mainstream Big Bang cosmology; operates within the contested-fractal-cosmology side of contemporary cosmological debate (Pietronero, Coleman-Pietronero, Baryshev); the Big Bang on the framework's reading is at most the beginning of our specific observable region rather than the beginning of being itself"
-relationship_to_mass_effect = "Sister framework; Fractal Cosmology addresses the spatial dimension of cosmological self-similarity; Mass Effect addresses the temporal dimension; both operate within the broader Infinity framework"
-distinguished_from = "Mainstream Big Bang cosmology (which posits homogeneity-and-isotropy at large scales rather than fractal self-similarity); the Mass Effect framework alone (the temporal dimension rather than the spatial); the broader Infinity framework (which contains Fractal Cosmology as one specific dimension); various mainstream multiverse proposals (which posit specific multi-universe structures rather than the open-ended hierarchical-self-similar structure the framework articulates)"
-status_in_source_material = "Substantial; the Raëlian source material provides explicit articulation of the infinite-hierarchical structure across multiple passages, with the corpus's specific use of *fractal cosmology* as technical designation registering the structural alignment with subsequently-developed mathematical vocabulary"
-principal_text = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), various passages on the infinite hierarchy; *Let's Welcome the Extra-terrestrials* (1979), 'Who Created the Creator of the Creators?' and various FAQ passages; the Wheel of Heaven corpus's outro treatment in *timeline.epub*"
+type = "假设性的宇宙论框架；阐述宇宙在无限尺度层级上空间自相似结构的概念"
+basic_premise = "宇宙在各个尺度上呈现自相似性，同样的基本组织模式在每一个考察尺度上反复出现，向两个方向无限延伸，既无底端，也无顶端"
+core_image = "地球不过是一个巨大存在者之手的原子之原子中的一个微粒；这个存在者凝望着一片星空，而这片星空又构成一个更加巨大的存在者的手、腹或足，后者又身处一片天空之下，如此等等，以至无穷"
+domain = "宇宙组织的所有尺度，从亚原子尺度（按原始材料的主张，在我们原子的原子上存在智慧生命），经人类尺度，到行星、恒星、星系、星系际尺度及更远"
+mathematical_status = "在结构上与数学分形词汇（曼德博，1975 年起）相合；在文集中尚未形式化为数学；主要通过原始材料段落与文集的诠释性阐发来表述"
+relationship_to_mainstream_cosmology = "有别于主流大爆炸宇宙学中以宇宙学原理为基础的均匀性与各向同性框架；处于当代宇宙学争论中有争议的分形宇宙学一方（Pietronero、Coleman-Pietronero、Baryshev）；按本框架的解读，大爆炸至多是我们可观测区域的开端，而非存在本身的开端"
+relationship_to_mass_effect = "姊妹框架；分形宇宙学处理宇宙自相似性的空间维度；质量效应处理时间维度；两者都在更广的无限框架内运作"
+distinguished_from = "主流大爆炸宇宙论（假定大尺度上的均匀性与各向同性，而非分形自相似）；单独的质量效应框架（时间维度而非空间维度）；更广的无限框架（分形宇宙学是其中一个具体维度）；各种主流多重宇宙假说（假定特定的多宇宙结构，而非本框架所阐述的开放式层级自相似结构）"
+status_in_source_material = "明确；雷尔派源材料在多处段落中阐述了无限的层级结构，文集将 *fractal cosmology*（分形宇宙学）用作术语，标示其与后来发展出的数学词汇相契合"
+principal_text = "《外星人带我去他们的行星》（沃里隆／雷尔，1975），关于无限层级的多处段落；《让我们欢迎外星人》（1979），「谁创造了创造者的创造者？」及多处问答段落；Wheel of Heaven 文集在 *timeline.epub* 中的结尾论述"
 +++
 
 **Fractal Cosmology** is the Wheel of Heaven corpus's name for the spatially self-similar structure of the cosmos across an infinite hierarchy of scales. The framework holds that **the cosmos exhibits self-similarity across scales, with the same fundamental patterns of organization recurring at every scale of examination, indefinitely in both directions without finding any bottom or any top**. Its source warrant is the Yahweh-delivered passages in *Extra-Terrestrials Took Me to Their Planet* (1975) and the later Raëlian material; the corpus adopts *fractal cosmology* as a technical designation because the structure aligns with the fractal vocabulary Benoît Mandelbrot was developing in the same period the material was delivered. It is the **spatial dimension** of the broader Infinity framework, with the **{% wiki(slug="mass-effect") %}Mass Effect{% end %}** framework as the corresponding **temporal dimension**.

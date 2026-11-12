@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,17 +15,22 @@ category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"
-alternative_names = ["Astrological age", "Precessional month", "World Age", "Aeon (in some Greek-derived usages)", "Platonic Month (in some Renaissance-tradition usages)"]
+alternative_names = ["점성술적 시대", "세차 월", "세계의 시대", "아이온(그리스어에서 유래한 일부 용법에서)", "플라톤 월(르네상스 전통의 일부 용법에서)"]
+see_also = [
+    { title = "세계의 시대", path = "/wiki/world-age/" },
+    { title = "대년", path = "wiki/great-year", description = "온전한 세차 주기, 그리고 베로수스, 리그베다, 발할라, 앙코르에 걸친 432,000이라는 수." },
+    { title = "시대를 갈아내는 맷돌", path = "articles/the-mill-that-grinds-the-ages", description = "세차 수의 암호 — 72, 2,160, 25,920, 432,000 — 를 그것을 보존한 전통들을 가로질러 추적합니다." },
+]
 
 [extra.infobox]
-type = "Unit of chronological measurement; one-twelfth of the precessional Great Year"
-duration_modern = "Approximately 2,147.6 years (25,771.5 years ÷ 12, based on the modern astronomical precessional rate of ~50.29 arcseconds/year)"
-duration_traditional = "Exactly 2,160 years (25,920 years ÷ 12, based on the astrological-tradition Great Year)"
-component_units = "1 Great Month = 30° of ecliptic precession; 12 Great Months = 1 Great Year (full precessional cycle); 30 Great Days = 1 Great Month (where 1 Great Day = 72 years ≈ one human lifespan)"
-zodiacal_correspondence = "Each Great Month corresponds to the period during which the vernal equinox point lies within one of the twelve zodiacal signs; the current Age is in transition between Pisces and Aquarius"
-mathematical_properties = "The traditional figure 25,920 factors as 2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72; the Great Month figure 2,160 factors as 2⁴ × 3³ × 5; both numbers have substantial divisibility properties that account for their prominence in cross-cultural cosmological tradition"
-cross_cultural_preservation = "The 25,920 / 2,160 / 432 numerical structure appears in Hindu *yuga* arithmetic (Kali Yuga = 432,000 years = 1/3 of the precessional Great Year measured in arcseconds), Babylonian sexagesimal numerology, the Platonic-tradition Magnus Annus, and other cross-cultural cosmological systems"
-framework_significance = "Principal chronological unit for the corpus; the precessional Great Months provide the structured temporal framework within which the Elohim project and the broader prophetic record are dated"
+type = "연대 측정 단위; 세차 대년의 12분의 1"
+duration_modern = "약 2,147.6년(25,771.5년 ÷ 12, 현대 천문학의 세차 속도 연간 약 50.29각초에 근거함)"
+duration_traditional = "정확히 2,160년(25,920년 ÷ 12, 점성술 전통의 대년에 근거함)"
+component_units = "1대월 = 황도 세차 30°; 12대월 = 1대년(세차 주기 전체); 30대일 = 1대월(1대일 = 72년 ≈ 인간의 한 생애)"
+zodiacal_correspondence = "각 대월은 춘분점이 열두 황도 별자리 가운데 하나 안에 있는 기간에 해당함; 현 시대는 물고기자리에서 물병자리로 넘어가는 전환기에 있음"
+mathematical_properties = "전통적 수치 25,920은 2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72로 인수분해됨; 대월 수치 2,160은 2⁴ × 3³ × 5로 인수분해됨; 두 수 모두 높은 약수 성질을 지녀 문화 횡단적 우주론 전통에서 두드러지는 이유가 됨"
+cross_cultural_preservation = "25,920 / 2,160 / 432의 수 구조는 힌두교의 *유가* 산술(칼리 유가 = 432,000년 = 각초로 잰 세차 대년의 3분의 1), 바빌로니아의 60진법 수비학, 플라톤 전통의 대년(Magnus Annus), 그 밖의 문화 횡단적 우주론 체계에 나타남"
+framework_significance = "코퍼스의 주요 연대 단위; 세차 대월은 엘로힘 프로젝트와 더 넓은 예언 기록의 연대를 정하는 구조화된 시간 틀을 제공함"
 +++
 
 The **Great Month** is the unit of chronological measurement corresponding to **one-twelfth of the precessional Great Year** — the period required for the vernal equinox point to traverse 30° (one zodiacal sign) along the ecliptic at the precessional rate. The unit is also known as the **Astrological Age**, the **Precessional Month**, or the **World Age**, and constitutes the principal chronological building block on which the Wheel of Heaven corpus's broader temporal framework depends.

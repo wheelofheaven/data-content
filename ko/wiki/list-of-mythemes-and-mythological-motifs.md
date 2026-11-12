@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,24 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of mythological motifs", "Mythological-motif index (framework reading)", "Cross-cultural mythemes catalogue"]
+alternative_names = ["신화적 모티프 목록", "신화 모티프 색인(틀의 독법)", "문화 횡단적 신화소 목록"]
+see_also = [
+    { title = "신화소", path = "wiki/mytheme", description = "목록의 용법이 끌어오며 모티프 및 설화 유형과 구별하는 전문 단위." },
+    { title = "창세기", path = "wiki/genesis", description = "목록이 확장하는 같은 실행적 번역 방법을 장 단위로 적용한 것." },
+    { title = "에덴", path = "wiki/eden", description = "목록에 실린 여러 모티프가 거슬러 읽히는 원천 서사." },
+    { title = "루시퍼", path = "wiki/lucifer", description = "목록의 금지된 지식과 반란 모티프 전반에 되풀이해 나타나는 인물." },
+    { title = "우주적 경쟁", path = "wiki/cosmic-competition", description = "목록에 실린 권세들 사이의 전쟁 모티프 여럿이 수렴하는 프레임워크의 독해." },
+    { title = "종교", path = "wiki/religion", description = "목록에 실린 모티프들이 그 안에 박혀 있는, 전통을 형성하는 더 넓은 범주." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of cross-cultural mythological motifs with framework readings"
-classification_instrument = "Stith Thompson, *Motif-Index of Folk-Literature* (1955), Section A (Mythological Motifs)"
-scope = "Cosmogonic, theogonic, anthropogonic, and culture-hero motifs with substantial cross-cultural attestation"
-catalogue_columns = "Motif name; Motif-Index code; principal cross-cultural attestations; framework reading"
-framework_method = "Translation of mythological patterns into operational terms consistent with the source material's account of the Elohim's work"
-working_hypothesis = "Wide cross-cultural distribution of certain motifs reflects shared historical reference (the Elohim's contact pattern across human populations) rather than coincidence or independent invention"
-caveat = "Coverage is most complete for motifs with clear framework-relevant content; the catalogue does not exhaust the Motif-Index even within Section A"
+type = "틀의 독법을 곁들인 문화 횡단적 신화 모티프 참고 목록"
+classification_instrument = "스티스 톰프슨, *Motif-Index of Folk-Literature*(1955), A부(신화적 모티프)"
+scope = "문화 횡단적 증언이 상당한 우주 기원·신들의 기원·인간 기원·문화 영웅 모티프"
+catalogue_columns = "모티프 이름; 모티프 색인 코드; 주요 문화 횡단적 증언; 틀의 독법"
+framework_method = "신화적 패턴을 엘로힘의 작업에 관한 원전 자료의 설명과 부합하는 작전적 용어로 옮김"
+working_hypothesis = "특정 모티프들의 넓은 문화 횡단적 분포는 우연이나 독립적 창작이 아니라 공유된 역사적 지시 대상(인류 집단들에 걸친 엘로힘의 접촉 패턴)을 반영함"
+caveat = "틀과 관련된 내용이 분명한 모티프일수록 수록 범위가 가장 완전함; 목록은 A부 안에서도 모티프 색인을 망라하지 않음"
 +++
 
 This entry catalogues the principal cross-cultural mythological motifs the Wheel of Heaven framework reads as preserving, in mythologised form, historical content from the Elohim's interaction with human populations across the Earth project. {% claim(type="speculative", id="woh-claim-0056") %}The catalogue uses **Stith Thompson's *Motif-Index of Folk-Literature*** (1955) as its principal academic classification instrument and supplies, for each motif, a brief inventory of cross-cultural attestations and the framework's adopted reading of what the motif preserves.{% end %}

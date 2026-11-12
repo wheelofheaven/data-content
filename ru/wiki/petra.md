@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -24,6 +24,14 @@ entry_type = "place"
 claim_type = "speculative"
 timeline = ["pisces"]
 alternative_names = ["Πέτρα (греч. «скала»)", "רקמו (набатейское Raqmū)", "רֶקֶם (ивр. Reqem)", "Rekem", "Raqēmō", "ٱلْبَتْرَاء (араб. al-Batrāʾ)", "Села (библейское «скала»)", "Мать колоний", "Реквем ущелий"]
+see_also = [
+    { title = "Набатеи", path = "wiki/nabataeans", description = "Арабское царство, высеченной в скале столицей которого была Петра." },
+    { title = "Ханифия", path = "wiki/hanafiyya", description = "Религия Авраама, география которой по этой гипотезе переносится в Петру." },
+    { title = "Мухаммад", path = "wiki/muhammad", description = "Пророк, чью самую раннюю общину аргумент об ориентации киблы переориентирует на Петру." },
+    { title = "Авраам", path = "wiki/abraham", description = "Патриарх, восстановленную религию которого, по прочтению корпуса, возрождал ранний ислам." },
+    { title = "Множественность богов", path = "wiki/plurality-of-gods", description = "Набатейский языческий пантеон, который Петра принимала до своего авраамического прочтения." },
+    { title = "Бытие", path = "wiki/genesis", description = "Библейский авраамический фон, на котором читается гипотеза о Петре." },
+]
 
 [extra.infobox]
 type = "Высеченная в скале набатейская караванная столица; объект Всемирного наследия ЮНЕСКО; географический центр гипотезы «Петра как первоначальная Мекка»"

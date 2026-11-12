@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,16 +17,16 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "ארבעה שבועות לאחר מהדורה 03, פרסם משרד המלחמה של ארה״ב את מהדורה 04 בכתובת war.gov/UFO: 40 תיקים — 14 מסמכים, 19 סרטונים, 4 הקלטות שמע ו-3 תמונות — ממשרד המלחמה, נאס״א, ה-CIA, ה-FBI, ולראשונה, ממשרד האנרגיה. שני התיקים הבולטים חולקים נושא אחד: אתרי נשק גרעיני. תמלול שסיווגו הוסר לאחרונה מתעד ועידה בלוס אלמוס ב-1949, שבה פיזיקאים של פרויקט מנהטן — ובהם אדוארד טלר, נוריס בראדבורי ומומחה המטאורים לינקולן לאפאז — ניסו ולא הצליחו להסביר את »כדורי האש הירוקים« שנצפו מעל המעבדה; תיק של משרד האנרגיה מתעד חדירה למרחב האווירי מספטמבר 2015 מעל מפעל הנשק הגרעיני פנטקס ליד אמרילו, טקסס. הקורפוס רושם את מהדורה 04 כהקשר לקריאת הקאנון, לא כסימן — כולל נושאה הגרעיני, הנוגע בסף האטום של 1945 שהקאנון מתייחס אליו כפתיחת התקופה הנוכחית, מבלי להיות ראיה לגביו."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §III and §IX"
+filed_under = "ההקשר של ההווה"
+cross_reference = "עידן הדלי, §III ו־§IX"
 canon_links = [
-    { title = "Age of Aquarius", path = "/timeline/age-of-aquarius/" },
+    { title = "עידן הדלי", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },
-    { title = "Apocalypse", path = "/wiki/apocalypse/" },
-    { title = "Ufology", path = "/wiki/ufology/" },
-    { title = "Elohim", path = "/wiki/elohim/" },
-    { title = "Ancient Astronaut Hypothesis", path = "/wiki/ancient-astronaut-hypothesis/" },
-    { title = "Raëlism", path = "/wiki/raelism/" }
+    { title = "אפוקליפסה", path = "/wiki/apocalypse/" },
+    { title = "אופולוגיה", path = "/wiki/ufology/" },
+    { title = "אלוהים", path = "/wiki/elohim/" },
+    { title = "השערת האסטרונאוטים הקדמונים", path = "/wiki/ancient-astronaut-hypothesis/" },
+    { title = "ראליזם", path = "/wiki/raelism/" }
 ]
 sources = [
     { title = "Department of War Publishes Fourth Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO", url = "https://www.war.gov/News/Releases/Release/Article/4539898/department-of-war-publishes-fourth-release-of-unidentified-anomalous-phenomena/", outlet = "U.S. Department of War", date = "2026-07-10" },

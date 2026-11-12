@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,20 +16,26 @@ entry_type = "concept"
 alternative_names = ["government UAP cover-up", "UFO cover-up", "UAP disclosure", "military cover-up of exobiology (earlier designation)", "UAP secrecy", "extraterrestrial contact cover-up"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
 see_also = [
+    { title = "השגרירות", path = "wiki/embassy", description = "הפתרון של הקנון לשאלת החשיפה באמצעות הכרה דיפלומטית רשמית." },
     { title = "PURSUE", path = "wiki/pursue", description = "תוכנית הפרסום הפומבי מ-2026, שהארכיון הפומבי-כברירת-מחדל שלה נוגע בטענת הסודיות מן הצד הרשמי." },
+    { title = "אופולוגיה", path = "wiki/ufology", description = "התחום הרחב ששאלת הטיוח היא חלק שנוי במחלוקת אחד ממנו." },
+    { title = "אסטרוביולוגיה", path = "wiki/astrobiology", description = "המחקר המדעי של חיים מחוץ לכדור הארץ, שהטיוח לכאורה מסתיר." },
+    { title = "השערת האסטרונאוטים הקדמונים", path = "wiki/ancient-astronaut-hypothesis", description = "המסגרת הקוראת את המגע עם UAP כהמשך לנוכחות ההיסטורית של האלוהים." },
+    { title = "ירושלים החדשה", path = "wiki/new-jerusalem", description = "השגרירות כבית המקדש השלישי, שמגע מוכר יחייב את בנייתה." },
+    { title = "משוואת דרייק", path = "wiki/drake-equation", description = "האומדן הפורמלי של הסתברות המגע שוויכוח החשיפה מניח מראש." },
 ]
 
 [extra.infobox]
-type = "Substantive question of governmental concealment of UAP investigation and alleged contact, with substantial 2017-2024 disclosure transformation; methodologically complex subject matter operating across multiple evidential categories"
+type = "השאלה השנויה במחלוקת אם ממשלות הסתירו חקירת UAP ומגע לכאורה; התחדדה בגל החשיפה של 2017–2024"
 documented_governmental_programs = "Project Sign 1947-1949; Project Grudge 1949-1952; Robertson Panel 1953; Project Blue Book 1952-1969; Condon Report 1968; AAWSAP 2008-2010; AATIP 2007-2012; UAP Task Force 2020-2022; AARO 2022-present"
-principal_2017_2024_disclosure_events = "NYT December 16, 2017 article disclosing AATIP; April 27, 2020 Pentagon UAP video releases; June 25, 2021 ODNI Preliminary Assessment; July 26, 2023 congressional hearings with David Grusch testimony; September 14, 2023 NASA UAP Independent Study Team report; November 13, 2024 follow-up congressional hearings"
+principal_2017_2024_disclosure_events = "כתבת AATIP של NYT (16 בדצמבר 2017); פרסום סרטוני הצי FLIR1,‏ Gimbal ו־GoFast על ידי הפנטגון (27 באפריל 2020); ההערכה הראשונית של ה־ODNI (25 ביוני 2021); שימוע בקונגרס עם דייוויד גרוש (26 ביולי 2023); דוח צוות המחקר העצמאי של נאס״א על UAP (14 בספטמבר 2023); שימועי המשך (13 בנובמבר 2024)"
 principal_whistleblowers = "David Grusch (2023 congressional testimony under oath; principal contemporary); Bob Lazar (1989-present; S-4 reverse-engineering claims); Robert Salas (1967 Malmstrom case); Phil Schneider (1995 lectures); Clifford Stone; Steven Greer (Disclosure Project 1993-present)"
-principal_historical_scholarship = "Richard Dolan, *UFOs and the National Security State* (2 vols., 2000, 2009); Leslie Kean, *UFOs: Generals, Pilots, and Government Officials Go on the Record* (2010); Luis Elizondo, *Imminent* (2024)"
-contested_document_tradition = "Majestic 12 documents (substantial authenticity disputes); substantial subsequent leaked-document tradition; the substantial CIA-MK-ULTRA-related psychological-operations engagement"
-principal_nuclear_facility_cases = "1967 Robert Salas Malmstrom AFB Minuteman missile shutdown; substantial Robert Hastings *UFOs and Nukes* documentation including approximately 150 documented multi-witness cases; 2010 National Press Club briefing"
+principal_historical_scholarship = "ריצ'רד דולן, UFOs and the National Security State (2000, 2009); לסלי קין, UFOs: Generals, Pilots, and Government Officials Go on the Record (2010); לואיס אליזונדו, Imminent (2024)"
+contested_document_tradition = "מסמכי Majestic 12 (MJ-12), שה־FBI קבע ב־1988 כי זויפו; מסורת המסמכים שהודלפו מאוחר יותר (Project Aquarius,‏ SOM 1-01)"
+principal_nuclear_facility_cases = "השבתת טילי המינוטמן בבסיס מאלמסטרום ב־1967 (רוברט סלאס); התיעוד של רוברט הייסטינגס ב־UFOs and Nukes של כ־150 מקרים; התדריך במועדון העיתונות הלאומי ב־2010"
 corpus_position = "Governmental cover-up substantively real across 1947-2017 period through demonstrated classified programs; 2017-2024 disclosure has substantially shifted question into mainstream-policy domain; substantive Vorilhon-source resolution operates through Embassy framework requiring international diplomatic recognition"
-distinguished_from = "General governmental secrecy (broader category); conspiracy theories without empirical foundation (substantively different evidential register); the broader Ufology field (cover-up question as one component); Astrobiology (the broader scientific field engaging extraterrestrial-life question)"
-status_in_framework = "Methodologically complex question engaged with substantive epistemic discipline; corpus position threads documented programs and contested allegations with substantial care"
+distinguished_from = "סודיות ממשלתית כללית (קטגוריה רחבה יותר); תאוריית קונספירציה חסרת בסיס (רובד ראייתי שונה); תחום האופולוגיה הרחב; אסטרוביולוגיה"
+status_in_framework = "נושא אמפירי שנוי במחלוקת הנקרא דרך הקנון; ההיסטוריה המתועדת והטענות הבלתי מאומתות מוחזקות בנפרד"
 +++
 
 **The military cover-up of exobiology** — increasingly called the

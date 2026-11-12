@@ -6,19 +6,28 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Roles"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["נָבִיא", "navi", "προφήτης", "prophētēs", "نبي", "nabī", "messenger", "seer"]
+alternative_names = ["נָבִיא", "navi", "προφήτης", "prophētēs", "نبي", "nabī", "메신저", "선견자"]
 portrait_id = "prophetic-lineage"
 image = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.avif"
-image_alt = "AI-generated editorial group portrait of the prophetic lineage, with figures from multiple eras arranged around a luminous axis."
-image_caption = "Interpretive portrait for the Prophet wiki entry and cross-tradition metadata."
+image_alt = "빛나는 축을 중심으로 여러 시대의 인물들이 배치된, 예언자 계보의 AI 생성 편집용 집단 초상."
+image_caption = "예언자 위키 항목과 전통 횡단 메타데이터를 위한 해석적 초상."
+see_also = [
+    { title = "야훼", path = "wiki/yahweh", description = "예언자 제도가 그를 위한 대화 상대 역할을 하는 엘로힘 인물." },
+    { title = "아담과 하와", path = "wiki/adam-and-eve", description = "에덴 이후 시기에 예언자 목록을 여는 계보." },
+    { title = "노아", path = "wiki/noah", description = "코퍼스가 예언자 후보로 논의하는 대홍수 이전 인물. 정경은 그를 예언자들 가운데 명명하지 않습니다." },
+    { title = "아브라함", path = "wiki/abraham", description = "예언자 제도가 이루어 내는 누적적 준비 속의 족장 예언자." },
+    { title = "모세", path = "wiki/moses", description = "매개된 접촉 기제 안의 주요 히브리 예언자." },
+    { title = "예수", path = "wiki/jesus", description = "계승 속 물고기자리 시대의 두 예언자 가운데 하나." },
+    { title = "마흔 개의 의자", path = "articles/the-forty-chairs", description = "정경은 자리에 앉은 약 마흔 명의 예언자 가운데 다섯을 명명합니다. 이 해설은 그 밖에 누가 그 자리에 있었는지 판정할 도구를 만듭니다." },
+]
 +++
 
 **Prophet** (Greek: *προφήτης*, *prophētēs*, "one who speaks for"; Hebrew: <span class="hebrew">נָבִיא</span>, *navi*, "one who is called" or "one who proclaims"; Arabic: <span class="hebrew">نبي</span>, *nabī*; Latin: *propheta*) is a human figure who, in the religious traditions of Judaism, Christianity, Islam, and many other systems, serves as a mediator between the divine and the human, receiving communications from the divine and transmitting them to a human audience. The role is universal across the major religious traditions, though its specific shape — the manner of communication, the social position of the prophet, the content of the messages, the relationship to institutional religion — varies substantially across traditions and across periods within traditions. In the Hebrew Bible alone, the prophetic literature occupies a substantial portion of the canon, with the Major and Minor Prophets together comprising fifteen named figures whose oracles, narratives, and visions structure much of the second division of the Tanakh.

@@ -6,28 +6,36 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["the Tower of Babel", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (Akkadian: 'gate of the god')", "the Babel project", "the Babel event", "the Tower-of-Babel intervention", "the Confounding of Tongues", "the Confusion of Languages"]
+alternative_names = ["바벨탑", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (아카드어: '신의 문')", "바벨 프로젝트", "바벨 사건", "the Tower-of-Babel intervention", "the Confounding of Tongues", "the Confusion of Languages"]
 timeline = ["gemini"]
+see_also = [
+    { title = "대홍수", path = "wiki/great-flood", description = "앞선 평의회의 리셋. 바벨은 되살아난 인간의 진보에 맞선 다음 개입입니다." },
+    { title = "노아 언약", path = "wiki/noahic-covenant", description = "바벨이 그 국지적 성격을 드러내는, 홍수 이후의 사적 협약." },
+    { title = "소돔과 고모라", path = "wiki/sodom-and-gomorrah", description = "화해의 거부가 아니라 반란의 진압이라는 점에서 바벨과 구별되는 후대의 타격." },
+    { title = "테오마키", path = "wiki/theomachy", description = "바벨 개입이 속한, 엘로힘 사이의 더 넓은 정치적 갈등." },
+    { title = "야훼", path = "wiki/yahweh", description = "바벨 분산을 촉발한 복수형 '우리가 내려가자'를 말합니다." },
+    { title = "동맹", path = "wiki/the-alliance", description = "바벨탑이 그 화평의 제물이었던 문명 간 기구." },
+]
 
 [extra.infobox]
-type = "Multi-component narrative event; the post-flood collaborative space-program reconciliation attempt and the Council intervention that ended it"
-chronology = "Late Age of Gemini (c. 6,690 BCE forward on the corpus's compressed timeline); after the Great Flood and the post-flood covenant; before the long Taurus-age quiet that preceded the Sodom and Gomorrah strike"
-location = "The land of Shinar (biblical) corresponding to ancient Sumer in the alluvial plains of the lower Tigris and Euphrates rivers; the principal site corresponds to the broader Babylon-Babel area of southern Mesopotamia"
-participants = "The post-flood Eden-lineage human population (the 'people of Israel' in the source's framing, designating the Eden-lineage genealogical line rather than the later geographical-political Israel); the exiled Serpentine-faction creators (the Lucifer-faction Eloha exiles); the home-world Council of the Eternals (the intervening party)"
-purpose_of_the_tower = "Peace-offering / diplomatic-reconciliation attempt: the alliance's strategic effort to argue the human creation's case before the Council by sending a delegation of human partners to the home world to demonstrate the human creation's intelligence, peacefulness, and gratitude — and to secure formal pardon for the alliance and the broader human creation"
-technological_character = "Substantial interstellar-capable spacecraft (the source's 'enormous rocket' framing); on the corpus's reading, the second-generation craft following first-generation interplanetary craft, with the Tower itself being either the spacecraft or the launch-facility for one"
-council_intervention = "Multi-component intervention: (1) targeted dispersion of the scientific elite across the post-flood continents; (2) destruction of all the research materials and scientific instruments; (3) fragmentation of the unified post-flood language into mutually incomprehensible variants; (4) effective termination of the broader space-program collaboration"
-operational_consequence = "The transformation of the Serpentine faction from peaceful dissidents seeking reconciliation into active rebels; the long quiet across most of the Age of Taurus before the subsequent Sodom rebellion attempt"
-distinguished_from = "The Great Flood (the chronologically prior Gemini-age destruction event); the Sodom and Gomorrah strike (the chronologically subsequent Taurus-age destruction event with substantively different operational character — military strike against rebellion rather than dispersion against reconciliation); the broader Theomachy multi-age narrative (within which the Babel intervention is one specific phase); the various conventional interpretations of Babel as defiance project (the framework's distinctive contribution is the peace-offering reading)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in 'The Tower of Babel' section of *The Book Which Tells the Truth* establishes the framework's specific content with explicit articulation"
-principal_text = "*The Book Which Tells the Truth* (1974), 'The Tower of Babel' section (the principal Yahweh passage); *timeline.epub* Age of Gemini chapter, Section XII (the substantial subsequent corpus articulation with detailed Hebrew exegesis, Sumerian-Enmerkar parallel, and broader narrative-arc context)"
+type = "대홍수 이후의 서사적 사건. 화해를 위한 시도로 읽히는 인간과 망명한 창조자들의 우주 계획, 그리고 그것을 끝낸 본국 평의회의 개입"
+chronology = "쌍둥이자리 시대 후기(코퍼스 연대기로 기원전 약 6,690년 이후). 대홍수와 노아 언약 이후, 소돔과 고모라 타격에 앞선 긴 황소자리 시대의 고요 이전"
+location = "시날 땅(성경) — 고대 수메르, 티그리스강과 유프라테스강 하류의 충적 평야. 주요 장소는 남부 메소포타미아의 바빌론–바벨 지역에 해당합니다"
+participants = "대홍수 이후의 에덴 계통 인류(원전의 '이스라엘 백성', 엘로힘의 아들들과 사람의 딸들의 결합을 통해 유대 민족이 된 집단), 망명한 루시퍼 파 창조자들, 본국의 영원자 평의회(개입한 측)"
+purpose_of_the_tower = "평화의 제물: 인간 대표단을 본국 행성에 보내 그들이 지적이고 평화로우며 감사할 줄 안다는 것을 보여 줌으로써 평의회 앞에서 인간 창조의 정당성을 변론하고 사면을 얻으려 한 동맹의 시도"
+technological_character = "성간 비행이 가능한 우주선(원전의 '거대한 로켓'). 코퍼스의 해석에서는 앞선 행성 간 우주선에 이은 2세대 우주선이며, 탑은 그 우주선 자체이거나 발사 시설입니다"
+council_intervention = "(1) 과학 엘리트를 대홍수 이후의 여러 대륙으로 흩음, (2) 연구 자료와 장비 파괴, (3) 하나의 언어를 서로 알아들을 수 없는 여러 언어로 분열시킴, (4) 우주 계획 종료"
+consequence = "망명한 루시퍼 파가 평화적 반대에서 공개적 반역으로 돌아섬. 소돔의 반역 이전까지 황소자리 시대 대부분에 걸친 긴 고요"
+distinguished_from = "대홍수(앞선 쌍둥이자리 시대의 타격), 소돔과 고모라 타격(이후 황소자리 시대의 타격 — 화해에 맞선 분산이 아니라 반역에 맞선 군사적 타격), 더 넓은 테오마키(바벨은 그 한 국면), 바벨을 반항으로 보는 통상적 해석(이 체계는 평화의 제물로 읽습니다)"
+status_in_source_material = "잘 기록됨. *진실을 말하는 책*의 '바벨탑' 절에 있는 야훼 구절이 이 체계의 핵심 내용을 직접 진술합니다"
+principal_text = "*진실을 말하는 책*(1974), '바벨탑' 절(주요 야훼 구절). 코퍼스의 쌍둥이자리 시대 자료에서 히브리어 주해, 엔메르카르 병행 사례, 더 넓은 서사 흐름의 맥락과 함께 전개됩니다"
 +++
 
 **Babel** (Hebrew: בָּבֶל, *Bavel*) is the Tower of Babel episode of

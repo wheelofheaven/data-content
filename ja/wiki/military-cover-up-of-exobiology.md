@@ -5,30 +5,36 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["government UAP cover-up", "UFO cover-up", "UAP disclosure", "military cover-up of exobiology (earlier designation)", "UAP secrecy", "extraterrestrial contact cover-up"]
+alternative_names = ["政府によるUAPの隠蔽", "UFOの隠蔽", "UAPの情報開示", "外圏生物学の軍による隠蔽(以前の呼称)", "UAPの秘匿", "地球外接触の隠蔽"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
 see_also = [
+    { title = "大使館", path = "wiki/embassy", description = "正式な外交的承認による、開示の問題への正典の解決。" },
     { title = "PURSUE", path = "wiki/pursue", description = "公開を原則とするそのアーカイブが、公式の側から秘匿の主張に関わる2026年の公開プログラム。" },
+    { title = "UFO学", path = "wiki/ufology", description = "隠蔽の問題がその争われている一部をなす、より広い分野。" },
+    { title = "アストロバイオロジー", path = "wiki/astrobiology", description = "隠蔽が覆い隠しているとされる、地球外生命の科学的研究。" },
+    { title = "古代宇宙飛行士仮説", path = "wiki/ancient-astronaut-hypothesis", description = "UAPとの接触を、歴史上のエロヒムの存在と連続するものとして読む枠組み。" },
+    { title = "新しいエルサレム", path = "wiki/new-jerusalem", description = "承認された接触が建設を必要とするであろう、第三神殿としての大使館。" },
+    { title = "ドレイクの方程式", path = "wiki/drake-equation", description = "開示論争が前提とする、接触の確率の公式な見積もり。" },
 ]
 
 [extra.infobox]
-type = "Substantive question of governmental concealment of UAP investigation and alleged contact, with substantial 2017-2024 disclosure transformation; methodologically complex subject matter operating across multiple evidential categories"
+type = "各国政府がUAPの調査と、主張される接触を隠蔽してきたかどうかという、議論のある問題。2017–2024年の開示の波によって先鋭化した"
 documented_governmental_programs = "Project Sign 1947-1949; Project Grudge 1949-1952; Robertson Panel 1953; Project Blue Book 1952-1969; Condon Report 1968; AAWSAP 2008-2010; AATIP 2007-2012; UAP Task Force 2020-2022; AARO 2022-present"
-principal_2017_2024_disclosure_events = "NYT December 16, 2017 article disclosing AATIP; April 27, 2020 Pentagon UAP video releases; June 25, 2021 ODNI Preliminary Assessment; July 26, 2023 congressional hearings with David Grusch testimony; September 14, 2023 NASA UAP Independent Study Team report; November 13, 2024 follow-up congressional hearings"
+principal_2017_2024_disclosure_events = "ニューヨーク・タイムズのAATIPの記事(2017年12月16日)。国防総省による海軍のFLIR1、Gimbal、GoFastの映像の公開(2020年4月27日)。ODNIの予備的評価(2021年6月25日)。デイヴィッド・グラッシュが出席した議会公聴会(2023年7月26日)。NASAのUAP独立研究チームの報告書(2023年9月14日)。続く公聴会(2024年11月13日)"
 principal_whistleblowers = "David Grusch (2023 congressional testimony under oath; principal contemporary); Bob Lazar (1989-present; S-4 reverse-engineering claims); Robert Salas (1967 Malmstrom case); Phil Schneider (1995 lectures); Clifford Stone; Steven Greer (Disclosure Project 1993-present)"
-principal_historical_scholarship = "Richard Dolan, *UFOs and the National Security State* (2 vols., 2000, 2009); Leslie Kean, *UFOs: Generals, Pilots, and Government Officials Go on the Record* (2010); Luis Elizondo, *Imminent* (2024)"
-contested_document_tradition = "Majestic 12 documents (substantial authenticity disputes); substantial subsequent leaked-document tradition; the substantial CIA-MK-ULTRA-related psychological-operations engagement"
-principal_nuclear_facility_cases = "1967 Robert Salas Malmstrom AFB Minuteman missile shutdown; substantial Robert Hastings *UFOs and Nukes* documentation including approximately 150 documented multi-witness cases; 2010 National Press Club briefing"
+principal_historical_scholarship = "リチャード・ドーラン、UFOs and the National Security State(2000年、2009年)。レスリー・キーン、UFOs: Generals, Pilots, and Government Officials Go on the Record(2010年)。ルイス・エリゾンド、Imminent(2024年)"
+contested_document_tradition = "マジェスティック12(MJ-12)文書。1988年にFBIによって捏造と判断された。その後の流出文書の伝統(プロジェクト・アクエリアス、SOM 1-01)"
+principal_nuclear_facility_cases = "1967年のマルムストロム空軍基地でのミニットマン停止事件(ロバート・サラス)。ロバート・ヘイスティングスの UFOs and Nukes による約150件の記録。2010年のナショナル・プレス・クラブでの説明会"
 corpus_position = "Governmental cover-up substantively real across 1947-2017 period through demonstrated classified programs; 2017-2024 disclosure has substantially shifted question into mainstream-policy domain; substantive Vorilhon-source resolution operates through Embassy framework requiring international diplomatic recognition"
-distinguished_from = "General governmental secrecy (broader category); conspiracy theories without empirical foundation (substantively different evidential register); the broader Ufology field (cover-up question as one component); Astrobiology (the broader scientific field engaging extraterrestrial-life question)"
-status_in_framework = "Methodologically complex question engaged with substantive epistemic discipline; corpus position threads documented programs and contested allegations with substantial care"
+distinguished_from = "一般的な政府の秘密主義(より広い範疇)。根拠のない陰謀論(別の証拠の領域)。より広いUFO研究の分野。宇宙生物学"
+status_in_framework = "正典を通して読まれる、議論のある経験的な主題。文書で確認される歴史と未検証の主張とは区別して扱われる"
 +++
 
 **The military cover-up of exobiology** — increasingly called the

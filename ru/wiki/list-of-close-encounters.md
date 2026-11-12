@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,19 +14,28 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of pre-modern close encounters", "Pre-1500 UFO and contact-event index", "Catalogue of unexplained aerial phenomena (antiquity through 1499 CE)"]
+alternative_names = ["Каталог досовременных близких встреч", "Указатель НЛО и событий контакта до 1500 года", "Каталог необъяснённых воздушных явлений (от древности до 1499 г. н. э.)"]
+see_also = [
+    { title = "Элохим", path = "wiki/elohim", description = "Присутствие, которое, согласно прочтению, документируют каталогизированные встречи на протяжении послеэдемского периода." },
+    { title = "Неоэвгемеризм", path = "wiki/neo-euhemerism", description = "Интерпретационный ход, применяющий современную терминологию встреч к досовременным рассказам." },
+    { title = "Список мифем и мифологических мотивов", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "Парный каталог, индексирующий повторяющийся повествовательный материал наряду со встречами." },
+    { title = "Список мегалитических памятников", path = "wiki/list-of-megalithic-sites", description = "Парный справочный каталог материальной летописи строительства." },
+    { title = "Иезекииль", path = "wiki/ezekiel", description = "Пророческий рассказ о встрече, включённый в число каталогизированных сообщений." },
+    { title = "Илия", path = "wiki/elijah", description = "Библейский рассказ о вознесении по воздуху, прочитанный в каталоге как близкая встреча." },
+    { title = "Шесть утр, шесть лет", path = "articles/six-mornings-six-years", description = "Реконструкция встреч 1973 и 1975 годов и их географии на уровне абзацев." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of pre-modern reported close encounters and aerial phenomena"
-scope = "c. 1460 BCE through 1499 CE (pre-modern, pre-Columbian-encounter, pre-scientific-revolution period)"
-principal_source = "Jacques Vallée and Chris Aubeck, *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times* (Tarcher/Penguin, 2009)"
-classification_instrument = "J. Allen Hynek's close-encounter classification (CE1–CE5, 1972 and later additions), applied to pre-modern accounts as a deliberate neo-euhemeristic interpretive move"
-geographic_coverage = "Mediterranean basin, Western Europe, Eastern Mediterranean, East Asia (especially China and Japan), Near East, with sparse coverage of the Americas (pre-1492) and sub-Saharan Africa"
-total_entries = "Approximately 130 reported encounters across the c. 3,000-year period"
-catalogue_columns = "Encounter; year; location; description (combining reported content with framework reading where applicable); Hynek classification where determinable"
-companion_catalogues = "[List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/); [List of megalithic sites](../list-of-megalithic-sites/)"
-framework_position = "The catalogued encounters preserve the documented historical record of operational Elohim and related presence on Earth across the post-Eden period; the cross-cultural phenomenological continuity is read as evidence of a unitary phenomenon rather than as folkloric coincidence or parallel invention"
-caveat = "Source reliability varies substantially across entries; many encounters survive only in single late chronicles or in literary contexts where the line between report and embellishment is unclear; the catalogue presents the reports as transmitted with framework readings indicated separately"
+type = "Справочный каталог досовременных сообщений о близких встречах и воздушных явлениях"
+scope = "ок. 1460 г. до н. э. – 1499 г. н. э. (досовременный период — до встречи с Америкой и до научной революции)"
+principal_source = "Жак Валле и Крис Обек, *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times* (Tarcher/Penguin, 2009)"
+classification_instrument = "Классификация близких встреч Дж. Аллена Хайнека (CE1–CE5, 1972 и позднейшие дополнения), применяемая к досовременным свидетельствам как сознательный неоэвгемеристский интерпретативный ход"
+geographic_coverage = "Средиземноморский бассейн, Западная Европа, Восточное Средиземноморье, Восточная Азия (особенно Китай и Япония), Ближний Восток; скудный охват Америки (до 1492 года) и Африки южнее Сахары"
+total_entries = "Около 130 сообщений о встречах за период примерно в 3000 лет"
+catalogue_columns = "Встреча; год; место; описание (сочетающее содержание сообщения с прочтением рамки, где применимо); классификация Хайнека, где её можно определить"
+companion_catalogues = "[Список мифем и мифологических мотивов](../list-of-mythemes-and-mythological-motifs/); [Список мегалитических памятников](../list-of-megalithic-sites/)"
+framework_position = "Каталогизированные встречи сохраняют задокументированную историческую летопись операционного присутствия Элохим и связанных с ними сил на Земле в постэдемский период; межкультурная феноменологическая преемственность читается как свидетельство единого явления, а не как фольклорное совпадение или параллельный вымысел"
+caveat = "Надёжность источников существенно различается от записи к записи; многие встречи сохранились лишь в единичных поздних хрониках или в литературных контекстах, где граница между сообщением и приукрашиванием неясна; каталог приводит сообщения в том виде, в каком они переданы, а прочтения рамки указаны отдельно"
 +++
 
 This entry catalogues reported close encounters with aerial phenomena and their occupants across the pre-modern period, from approximately 1460 BCE through 1499 CE. The catalogue follows the cataloguing work of **Jacques Vallée and Chris Aubeck** in *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times* (Tarcher/Penguin, 2009), the principal contemporary scholarly compilation of pre-modern reports, which examines approximately 500 pre-1880 incidents drawn from chronicles, religious texts, military histories, monastic annals, and other documentary sources.

@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "繼第四批解密四週之後,美國戰爭部於 war.gov/UFO 公布第五批檔案:41 份——文件、影像與影片,依媒體統計——來自五角大廈、FBI 與 CIA,並由首度現身的國務院(Department of State)與總統行政辦公室(Executive Office of the President)共同提供。頭條案例包括:一份 2024 年的 FBI 訪談,其中一名前軍方飛行員回憶 2002 年阿富汗巴格拉姆(Bagram)上空一個寂靜無聲、估計寬達 500 英尺的等邊三角形,將星辰逐一遮沒;2021 年阿曼灣一架砲艇機與約 25 個「低溫球體」的遭遇,那些物體似乎對機上主砲的開火有所反應;以及 1963 年 11 月的一組檔案——一則聳動的巴西電台報導,聲稱一顆墜毀的球體內有一具死亡乘員,自 CIA 的監聽謄本,經白宮太空委員會的查詢,最終抵達國務院的裁定:捏造。本書將第五批解密記錄為閱讀正典的脈絡,而非回歸的徵兆——並以完整的文獻強度,記錄這份在自身文件之下自行瓦解的巴伊亞檔案。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "當下的脈絡"
+cross_reference = "水瓶座時代，第 IX 節"
 canon_links = [
     { title = "水瓶座時代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

@@ -6,31 +6,39 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
-translation_stale = true
+translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["U.S. Space Force", "USSF", "Space Force", "United States Space Force"]
+alternative_names = ["미 우주군", "USSF", "우주군", "미국 우주군"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "외계 생물학에 대한 군사적 은폐", path = "wiki/military-cover-up-of-exobiology", description = "우주군의 창설이 시간적으로 나란히 놓이는 UAP 은폐와 공개의 문제." },
+    { title = "UFO학", path = "wiki/ufology", description = "그 대안 문헌이 이 군을 더 넓은 UAP 프레임워크와 연결하는 분야." },
+    { title = "우주생물학", path = "wiki/astrobiology", description = "우주 영역 임무가 맥락상 교차하는 외계 생명의 과학." },
+    { title = "드레이크 방정식", path = "wiki/drake-equation", description = "주변의 공개 논쟁이 전제하는 외계 문명 수의 추정." },
+    { title = "고대 우주비행사 가설", path = "wiki/ancient-astronaut-hypothesis", description = "코퍼스가 오늘날의 UAP 공개 논쟁과 나란히 읽는 과거 접촉의 입장." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "이 주류 군사적 전개를 물병자리 시대의 맥락에 놓는 프레임워크." },
+]
 
 [extra.infobox]
-type = "Sixth and youngest branch of U.S. Armed Forces; established December 20, 2019; operates under Department of the Air Force; substantive mission focus on military operations in space domain"
-establishment_date = "December 20, 2019 through National Defense Authorization Act for Fiscal Year 2020, signed by President Donald Trump"
+type = "미군의 여섯 번째이자 가장 젊은 군종. 2019년 12월 20일 창설. 공군부 산하에서 운영되며, 우주 영역의 군사 작전을 임무로 합니다"
+establishment_date = "2019년 12월 20일, 도널드 트럼프 대통령이 서명한 2020 회계연도 국방수권법을 통해 창설"
 predecessor = "Air Force Space Command (1982-2019; subsumed into USSF)"
-parent_department = "Department of the Air Force (parallel to U.S. Marine Corps under Department of the Navy)"
-principal_commands = "Space Operations Command (SpOC); Space Systems Command (SSC); Space Training and Readiness Command (STARCOM)"
-service_member_designation = "Guardians (adopted December 18, 2020)"
-principal_missions = "Satellite operations; missile warning and missile defense support; space situational awareness; GPS operations; offensive and defensive space operations; space domain awareness"
-fy2024_budget = "Approximately $30 billion (increased from $15.4 billion at 2020 establishment)"
-international_parallels = "Russia VKS Space Forces (2015); China PLA Aerospace Force (2024, reorganized from PLA Strategic Support Force 2015); France Commandement de l'espace (2019); UK Space Command (2021); substantial subsequent national space-military establishments"
-bipartisan_continuity = "Trump administration 2017-2021 (establishment); Biden administration 2021-2025 (maintenance and expansion); Trump administration 2025-present (continuation)"
-uap_disclosure_intersection = "Establishment in temporal proximity to 2017-2024 UAP disclosure transformation; broader space-domain awareness mission operates at intersection with substantial UAP detection capability"
-corpus_position = "Documented mainstream military development; substantial alternative-ufological engagement connecting USSF to broader UAP framework with substantively varying methodological support; Vorilhon source does not articulate USSF substantively as principal corpus content; engaged at descriptive level"
-distinguished_from = "NASA (the civilian space agency; distinct organizational and mission framework); other U.S. military branches operating in space domain prior to 2019 USSF establishment; the broader UAP cover-up question (treated in the Government UAP Cover-up and Disclosure entry)"
-status_in_framework = "Documented contemporary development at intersection of mainstream military policy and broader Aquarian-age framework; engaged with substantive epistemic discipline"
+parent_department = "공군부(해군부 산하의 미 해병대와 유사한 구조)"
+principal_commands = "우주작전사령부(SpOC); 우주체계사령부(SSC); 우주훈련준비사령부(STARCOM)"
+service_member_designation = "가디언(2020년 12월 18일 채택)"
+principal_missions = "위성 운용, 미사일 경보 및 미사일 방어 지원, 우주 상황 인식, GPS 운용, 공격·방어 우주 작전, 우주 영역 인식"
+fy2024_budget = "약 300억 달러(2020년 창설 당시 154억 달러에서 증가)"
+international_parallels = "러시아 VKS 우주군(2015), 중국 인민해방군 항공우주군(2024, 2015년 창설된 인민해방군 전략지원부대에서 재편), 프랑스 우주사령부(Commandement de l'espace, 2019), 영국 우주사령부(2021)"
+bipartisan_continuity = "첫 번째 트럼프 행정부(2017–2021)에서 창설, 바이든 행정부(2021–2025)에서 유지·확대, 두 번째 트럼프 행정부(2025–현재)에서 지속"
+uap_disclosure_intersection = "2017–2024년 UAP 공개 물결 중에 창설되었습니다. 우주 영역 인식 임무는 UAP 탐지 능력과 겹치지만, 코퍼스는 창설을 공개 준비가 아니라 통상적인 군 재편으로 읽습니다"
+corpus_position = "기록된 주류 군사적 전개로서 서술적으로 다룹니다. 이 군종을 UAP 회수와 연결하는 대안 UFO학의 '비밀 우주 프로그램' 주장은 사변적인 것으로 분류되며 문헌적 근거가 없습니다. 라엘 경전은 우주군을 주요 내용으로 다루지 않습니다"
+distinguished_from = "NASA(민간 우주 기관), 2019년 이전에 우주에서 활동한 미군 군종들, 더 넓은 UAP 은폐·공개 문제(외계생물학의 군사적 은폐 항목에서 다룸)"
+status_in_framework = "이 체계와 가볍게 관련된, 기록된 현대적 전개. 경전에서는 주변적이며, 공개 문제에 대한 경전 자체의 답은 어떤 군종이 아니라 대사관입니다"
 +++
 
 **The U.S. Space Force** (USSF) is the sixth and youngest branch of the United

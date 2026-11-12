@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,17 +16,25 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["plurality of the gods", "plurality of the Elohim", "the multiple-creators reading", "biblical polytheism", "Hebrew Bible plurality content", "the divine council reading", "the Elohim plural reading"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "אלוהים", path = "wiki/elohim", description = "שם העצם העברי ברבים שבלב קריאת הריבוי." },
+    { title = "יהוה", path = "wiki/yahweh", description = "אלוה מסוים אחד, המובחן מן הקולקטיב של האלוהים שלשון הרבים מציינת." },
+    { title = "מועצת הנצחיים", path = "wiki/council-of-the-eternals", description = "הגוף השלטוני המעניק ללשון הרבים המקראית מושא פוליטי." },
+    { title = "הצופים", path = "wiki/watchers", description = "לשון רבים מקראית שנייה של יצורים, שהקריאה נשענת עליה." },
+    { title = "שָׂטָן", path = "wiki/satan", description = "דמות במועצה הנקראת באופן פוליטי ולא כרוע מטפיזי." },
+    { title = "המגילות שהתעוררו בשנה הראשונה", path = "articles/the-scrolls-that-woke-in-year-one", description = "4QDeut(j) משמר ״בני אלוהים״ במקום שבו נוסח המסורה תוקן ל״בני ישראל״ — הריבוי נתפס בכתבי היד." },
+]
 
 [extra.infobox]
-type = "Foundational interpretive concept; the principal corpus position on the substantial multiple-divine-beings content of the Hebrew Bible and the broader cross-cultural religious-mythological traditions"
-basic_premise = "The Hebrew Bible and the broader religious-mythological traditions register substantial multiple-divine-beings content rather than substantial singular-supreme-deity content, with the substantial plurality content preserving cultural memory of an actual multiple-creator-civilization (the Elohim)"
-principal_evidence = "The Hebrew word *Elohim* is plural in form; substantial plural verbs (*na'aseh adam* 'let us make man' Genesis 1:26); substantial plural possessives (*be-tzalmenu* 'in our image'); substantial plural self-addresses (*ke-achad mimenu* 'as one of us' Genesis 3:22); substantial *benei ha-Elohim* 'sons of the Elohim' references (Genesis 6, Job 1-2, Psalm 82); substantial divine-council scenes (1 Kings 22, Job 1-2, Isaiah 6, Psalm 82)"
-the_first_mistake = "The substantial Yahweh-articulated framework reading: 'It replaced the term Elohim, which refers to the creators, with a singular term God, whereas in fact Elohim in Hebrew is the plural of Eloha. In this way, the Church transformed the creators into a single incomprehensible God.' Registers the conventional Christian-tradition singular-God reading as the principal translation-and-theological mistake"
-relationship_to_cosmic_chain = "The plurality content connects substantively to the broader Cosmic Chain framework — the substantial articulation that humans will themselves become creators, just as the creators were created. Plurality of Gods is therefore not merely a static descriptive position about how many divine beings exist, but the substantial dynamic position that registers humans as substantial future participants in the broader chain of creator-creature-creator development"
-mormon_lds_alignment = "Substantial structural alignment with the Mormon Latter-day Saints theological tradition, particularly through Joseph Smith's King Follett discourse (1844), Lorenzo Snow's couplet 'as man now is, God once was; as God now is, man may be,' the Mormon plural-Elohim doctrine, and the Mormon exaltation doctrine; the Mormon position represents the closest mainstream-religious-tradition convergence the framework has at the Plurality of Gods specific dimension"
-distinguished_from = "Conventional Christian-tradition monotheism (the principal interpretive contrast); conventional polytheistic religious traditions (which operate within distinct cosmological framings); cosmic pluralism (a substantively different concept registering the philosophical plurality of worlds); henotheism (which preserves singular-supreme-deity priority while acknowledging other deities); modalistic monarchianism (which registers multiple manifestations of singular underlying deity); various pantheistic and panentheistic frameworks"
-status_in_source_material = "Substantially documented; the principal Yahweh passages establishing the framework's specific content are distributed across multiple corpus sources, with substantial subsequent corpus development through the timeline.epub Hebrew exegesis"
-principal_text = "*Message from the Designers* (the principal Yahweh-articulated framework reading on the Church's first mistake); *The Book Which Tells the Truth* (1974, the substantial foundational Genesis 1 articulation); *timeline.epub* Age of Capricorn through Age of Pisces chapters (the substantial subsequent corpus articulation with detailed Hebrew exegesis); various Sendy works (substantial complementary content)"
+type = "מושג פרשני יסודי; עמדת הקורפוס שהתנ״ך והמסורות המיתולוגיות הרחבות מתארים ישויות אלוהיות רבות ולא אל עליון אחד"
+basic_premise = "התנ״ך והתיעוד הדתי־מיתולוגי הרחב מתארים ישויות אלוהיות רבות, לא אל עליון אחד; המסגרת קוראת ריבוי זה כזיכרון המשומר של היוצרים הרבים בפועל (האלוהים)"
+principal_evidence = "*אלוהים* היא מילה רבת צורה; פעלים ברבים (*נַעֲשֶׂה אָדָם*, בראשית א 26); כינויי קניין ברבים (*בְּצַלְמֵנוּ*); פנייה עצמית ברבים (*כְּאַחַד מִמֶּנּוּ*, בראשית ג 22); *בני האלוהים* (בראשית ו, איוב א–ב, תהלים פב); וסצנות המועצה האלוהית במלכים א כב, איוב א–ב, ישעיהו ו ותהלים פב"
+the_first_mistake = "ניסוחו של יהוה במקור הראליאני: 'היא החליפה את המונח Elohim, המתייחס לבוראים, במונח יחידאי ״אל״, בעוד שלמעשה Elohim בעברית הוא ריבוי של Eloha. בדרך זו, הכנסייה הפכה את הבוראים לאל יחיד בלתי מובן.'"
+relationship_to_cosmic_chain = "הריבוי הוא דינמי ולא רק תיאורי: דרך השרשרת הקוסמית, האנושות נקראת כיוצרת עתידית בזכות עצמה — 'הנבראים יהפכו לבוראים כפי שהבוראים נבראו' — כך שהקריאה מציינת לא רק כמה ישויות אלוהיות קיימות, אלא גם מה האנושות עשויה להיות"
+mormon_lds_alignment = "התכנסות מבנית קרובה לתאולוגיה המורמונית (קדושי אחרית הימים) — דרשת קינג פולט של ג'וזף סמית' (1844), צמד השורות של לורנצו סנואו ('as man now is, God once was; as God now is, man may be'), דוקטרינות ריבוי האלוהים וההתעלות — ההקבלה הקרובה ביותר לקריאה זו מבין הדתות המרכזיות"
+distinguished_from = "המונותאיזם הנוצרי והיהודי המקובל; הפוליתאיזם המקובל; ריבוי העולמות הקוסמי (ריבוי העולמות המיושבים, מושג נפרד); הנותאיזם (אל עליון אחד מעל אחרים); מונרכיאניזם מודליסטי (אל אחד בכמה אופנים); פנתאיזם"
+status_in_source_material = "מתועד היטב; קטעי המפתח של יהוה מפוזרים בספרי המקור הראליאניים, ופרשנות עברית מפורטת מפותחת בחומר ציר הזמן של הקורפוס"
+principal_text = "*מסר מהמתכננים* (קטע 'הטעות הראשונה' על התרגום של הכנסייה ליחיד של *אלוהים*); *הספר המגלה את האמת* (1974, הניסוח של בראשית א); פרקי ציר הזמן של הקורפוס (מהגדי ועד הדגים) לפרשנות העברית המפורטת; כתבי ז'אן סנדי כחומר משלים"
 +++
 
 **Plurality of Gods** is the Wheel of Heaven reading that the

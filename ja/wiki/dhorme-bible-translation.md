@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,17 +14,26 @@ category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "biographical and methodological"
 claim_type = "direct"
-alternative_names = ["Bible de la Pléiade (Dhorme)", "La Bible: L'Ancien Testament (Dhorme)", "Dhorme Old Testament", "Bible Dhorme"]
+alternative_names = ["Bible de la Pléiade (Dhorme)", "La Bible: L'Ancien Testament (Dhorme)", "ドルム旧約聖書", "Bible Dhorme"]
+see_also = [
+    { title = "エロヒム", path = "wiki/elohim", description = "ドルムが Dieu と訳さずに Élohim として保持した複数形。" },
+    { title = "ヤハウェ", path = "wiki/yahweh", description = "ドルムが神学的な称号に置き換えず、音韻に従って Iahvé と表記した神聖四文字。" },
+    { title = "創世記", path = "wiki/genesis", description = "その冒頭の節が、ドルムの語彙保持の方法を例示する書。" },
+    { title = "語源学的読解のリスト", path = "wiki/list-of-etymological-readings", description = "ドルムの脚注の資料に依拠する、この枠組みの文献学的な目録。" },
+    { title = "釈義的読解のリスト", path = "wiki/list-of-exegetic-readings", description = "同じ字義的語彙の基盤の上に築かれた、指示対象を扱う姉妹目録。" },
+    { title = "ヘブライ語", path = "wiki/hebrew", description = "その実際的な用語をドルムの翻訳が損なわずに伝える原語。" },
+    { title = "ドラゴン曲線", path = "articles/the-dragon-curve", description = "創世記1:21のドルムの « grands dragons » についての解説記事。最初のメッセージが彼の頁の中で唯一引用しない節。" },
+]
 
 [extra.infobox]
-type = "French scholarly translation of the Hebrew Bible / Old Testament"
-translator = "Édouard Dhorme (1881–1966), with collaborators Frank Michaéli and Antoine Guillaumont"
-publisher = "Éditions Gallimard, Bibliothèque de la Pléiade"
-publication_dates = "Tome I (1956); Tome II (1959)"
-source_text = "Masoretic Text of the Hebrew Bible, with consultation of the Septuagint and the broader cuneiform-and-Semitic philological apparatus"
-distinguishing_features = "Literal preservation of original vocabulary including *Élohim* (not *Dieu*) and *Iahvé* (rendering of the Tetragrammaton); extensive philological footnotes; introduction surveying the textual history; collaboration with specialists for certain books (Michaéli: Ezra, Nehemiah; Guillaumont: Maccabees)"
-framework_significance = "The version Claude Vorilhon reports having with him during his 1973 contact; the textual mediator through which the Raëlian source material's Hebrew-Bible references reach contemporary readers"
-status = "Out of print in the original Pléiade edition; secondhand copies remain widely available; the translation is referenced extensively in subsequent French-language neo-euhemerist scholarship"
+type = "ヘブライ語聖書/旧約聖書のフランス語による学術翻訳"
+translator = "エドゥアール・ドルム(1881〜1966年)、協力者フランク・ミカエリ、アントワーヌ・ギヨモンと共に"
+publisher = "ガリマール社、プレイヤード叢書"
+publication_dates = "第I巻(1956年)、第II巻(1959年)"
+source_text = "ヘブライ語聖書のマソラ本文。七十人訳聖書と、より広い楔形文字・セム語の文献学的資料を参照"
+distinguishing_features = "原語の語彙を字義どおりに保存(*Dieu* ではなく *Élohim*、神聖四文字の訳語としての *Iahvé* を含む)。詳細な文献学的脚注。本文の伝承史を概観する序論。一部の書については専門家との協働(ミカエリ:エズラ記、ネヘミヤ記。ギヨモン:マカバイ記)"
+framework_significance = "クロード・ヴォリロンが1973年の接触の際に携えていたと報告している版。ラエリアンの典拠資料によるヘブライ語聖書への言及が、現代の読者に届く際のテクスト上の媒介"
+status = "プレイヤード叢書の初版は絶版。古書は今も広く入手可能。この翻訳は、その後のフランス語圏の新エウヘメリズム研究で広く参照されている"
 +++
 
 The **Dhorme Bible** is the French translation of the Old Testament prepared by the French Assyriologist and Semitologist **Édouard Dhorme** (1881–1966), published by Gallimard in the Bibliothèque de la Pléiade in two volumes — Tome I in 1956 and Tome II in 1959. The translation is widely regarded among scholars as one of the most philologically rigorous French versions of the Hebrew Bible, the product of a fifty-year career of professional study of Hebrew, Akkadian, Ugaritic, and the broader Semitic and ancient Near Eastern philological tradition. The translation is distinguished from the standard French Catholic versions (notably the *Bible de Jérusalem*, in production at the same École Biblique during the same period) by its literal preservation of the operational vocabulary of the original Hebrew text — including the preservation of the plural form ***Élohim*** rather than the conventional theological translation *Dieu*, and the preservation of the Tetragrammaton as ***Iahvé*** rather than the conventional *l'Éternel* or *le Seigneur*.

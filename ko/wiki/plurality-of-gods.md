@@ -6,26 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["plurality of the gods", "plurality of the Elohim", "the multiple-creators reading", "biblical polytheism", "Hebrew Bible plurality content", "the divine council reading", "the Elohim plural reading"]
+alternative_names = ["신들의 다수성", "엘로힘의 다수성", "복수 창조자 독법", "성경의 다신론", "히브리어 성경의 다수성 내용", "신적 회의 독법", "엘로힘 복수 독법"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "엘로힘", path = "wiki/elohim", description = "복수성 독해의 핵심에 있는 히브리어 복수 명사." },
+    { title = "야훼", path = "wiki/yahweh", description = "복수형이 가리키는 엘로힘 집단과 구별되는 특정한 한 엘로하." },
+    { title = "영원자 의회", path = "wiki/council-of-the-eternals", description = "성경의 복수형에 정치적 지시 대상을 부여하는 통치 기구." },
+    { title = "감시자들", path = "wiki/watchers", description = "이 독해가 끌어오는 두 번째 성경적 복수 존재." },
+    { title = "사탄", path = "wiki/satan", description = "형이상학적 악이 아니라 정치적으로 읽히는 평의회의 인물." },
+    { title = "원년에 깨어난 두루마리들", path = "articles/the-scrolls-that-woke-in-year-one", description = "마소라 본문이 '이스라엘의 아들들'로 고친 곳에서 4QDeut(j)는 '엘로힘의 아들들'을 보존합니다 — 사본 속에 포착된 복수성." },
+]
 
 [extra.infobox]
-type = "Foundational interpretive concept; the principal corpus position on the substantial multiple-divine-beings content of the Hebrew Bible and the broader cross-cultural religious-mythological traditions"
-basic_premise = "The Hebrew Bible and the broader religious-mythological traditions register substantial multiple-divine-beings content rather than substantial singular-supreme-deity content, with the substantial plurality content preserving cultural memory of an actual multiple-creator-civilization (the Elohim)"
-principal_evidence = "The Hebrew word *Elohim* is plural in form; substantial plural verbs (*na'aseh adam* 'let us make man' Genesis 1:26); substantial plural possessives (*be-tzalmenu* 'in our image'); substantial plural self-addresses (*ke-achad mimenu* 'as one of us' Genesis 3:22); substantial *benei ha-Elohim* 'sons of the Elohim' references (Genesis 6, Job 1-2, Psalm 82); substantial divine-council scenes (1 Kings 22, Job 1-2, Isaiah 6, Psalm 82)"
-the_first_mistake = "The substantial Yahweh-articulated framework reading: 'It replaced the term Elohim, which refers to the creators, with a singular term God, whereas in fact Elohim in Hebrew is the plural of Eloha. In this way, the Church transformed the creators into a single incomprehensible God.' Registers the conventional Christian-tradition singular-God reading as the principal translation-and-theological mistake"
-relationship_to_cosmic_chain = "The plurality content connects substantively to the broader Cosmic Chain framework — the substantial articulation that humans will themselves become creators, just as the creators were created. Plurality of Gods is therefore not merely a static descriptive position about how many divine beings exist, but the substantial dynamic position that registers humans as substantial future participants in the broader chain of creator-creature-creator development"
-mormon_lds_alignment = "Substantial structural alignment with the Mormon Latter-day Saints theological tradition, particularly through Joseph Smith's King Follett discourse (1844), Lorenzo Snow's couplet 'as man now is, God once was; as God now is, man may be,' the Mormon plural-Elohim doctrine, and the Mormon exaltation doctrine; the Mormon position represents the closest mainstream-religious-tradition convergence the framework has at the Plurality of Gods specific dimension"
-distinguished_from = "Conventional Christian-tradition monotheism (the principal interpretive contrast); conventional polytheistic religious traditions (which operate within distinct cosmological framings); cosmic pluralism (a substantively different concept registering the philosophical plurality of worlds); henotheism (which preserves singular-supreme-deity priority while acknowledging other deities); modalistic monarchianism (which registers multiple manifestations of singular underlying deity); various pantheistic and panentheistic frameworks"
-status_in_source_material = "Substantially documented; the principal Yahweh passages establishing the framework's specific content are distributed across multiple corpus sources, with substantial subsequent corpus development through the timeline.epub Hebrew exegesis"
-principal_text = "*Message from the Designers* (the principal Yahweh-articulated framework reading on the Church's first mistake); *The Book Which Tells the Truth* (1974, the substantial foundational Genesis 1 articulation); *timeline.epub* Age of Capricorn through Age of Pisces chapters (the substantial subsequent corpus articulation with detailed Hebrew exegesis); various Sendy works (substantial complementary content)"
+type = "기초적 해석 개념. 히브리어 성경과 더 넓은 신화 전통이 하나의 지고한 신이 아니라 여러 신적 존재를 묘사한다는 코퍼스의 입장"
+basic_premise = "히브리어 성경과 더 넓은 종교·신화 기록은 하나의 지고한 신이 아니라 많은 신적 존재를 묘사합니다. 이 체계는 이 복수성을 실제의 복수 창조자들(엘로힘)에 대한 보존된 기억으로 읽습니다"
+principal_evidence = "*Elohim*은 형태상 복수입니다. 복수 동사(*na'aseh adam*, '사람을 만들자', 창세기 1:26), 복수 소유격(*be-tzalmenu*, '우리의 형상대로'), 복수 자기 지칭(*ke-achad mimenu*, '우리 중 하나같이', 창세기 3:22), *benei ha-Elohim*('엘로힘의 아들들', 창세기 6장, 욥기 1-2장, 시편 82편), 그리고 열왕기상 22장, 욥기 1-2장, 이사야 6장, 시편 82편의 신적 회의 장면"
+the_first_mistake = "라엘 원전에 나오는 야훼의 표명: '그것은 창조자들을 가리키는 엘로힘이라는 용어를 단수형 용어인 하나님으로 바꾸어 놓았습니다. 그러나 실제로 히브리어에서 엘로힘은 엘로하의 복수형입니다. 이렇게 하여 교회는 창조자들을 이해할 수 없는 단 하나의 하나님으로 바꾸어 놓았습니다.'"
+relationship_to_cosmic_chain = "복수성은 서술적일 뿐 아니라 역동적입니다. 우주의 사슬을 통해 인류는 그 자체로 미래의 창조자로 읽히며 — '창조자들이 창조되었던 것처럼 피조물도 창조자가 될 것입니다' — 이 해석은 신적 존재가 얼마나 많은지뿐 아니라 인류가 무엇이 될 수 있는지도 말합니다"
+mormon_lds_alignment = "모르몬(후기 성도) 신학과의 긴밀한 구조적 수렴 — 조지프 스미스의 킹 폴릿 설교(1844), 로렌조 스노의 2행시('as man now is, God once was; as God now is, man may be'), 복수의 엘로힘과 승영 교리 — 이 해석에 가장 가까운 주류 종교의 병행 사례"
+distinguished_from = "통상적인 그리스도교와 유대교의 유일신론, 통상적인 다신론, 우주적 다원론(거주 세계의 복수성, 별개의 개념), 단일신론(다른 신들 위의 하나의 지고한 신), 양태론적 단일신론(여러 양태의 한 신), 범신론"
+status_in_source_material = "잘 기록됨. 핵심적인 야훼 구절들이 라엘 원전 책들 전반에 분포하며, 상세한 히브리어 주해는 코퍼스의 연대기 자료에서 전개됩니다"
+principal_text = "*Message from the Designers*(*Elohim*을 단수로 옮긴 교회에 관한 '첫 번째 실수' 구절). *The Book Which Tells the Truth*(1974, 창세기 1장 표명). 상세한 히브리어 주해를 위한 코퍼스의 연대기 장들(염소자리부터 물고기자리까지). 보완 자료로서 장 상디의 저작들"
 +++
 
 **Plurality of Gods** is the Wheel of Heaven reading that the

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -21,17 +21,24 @@ entry_type = "place"
 claim_type = "direct"
 alternative_names = ["Beit ha-Mikdash ha-Shlishi (Hebrew, \"the Third Holy House\")", "The Embassy (in Raëlian terminology)", "The Residence (in some source-material passages)", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "The Messianic Temple"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "השגרירות", path = "wiki/embassy", description = "משכן קבלת הפנים שוורילון פירט, שהמסגרת מזהה עם בית המקדש השלישי." },
+    { title = "השיבה הגדולה", path = "wiki/great-return", description = "השיבה הצפויה של האלוהים, שהשגרירות/בית המקדש השלישי הם אתר קבלת הפנים הנדרש לה." },
+    { title = "יהוה", path = "wiki/yahweh", description = "נשיא האלוהים הקובע בקנון את תנאי מפרט השגרירות." },
+    { title = "אלוהים", path = "wiki/elohim", description = "הציוויליזציה שהשגרירות/בית המקדש השלישי נבנים כדי לקבל את שיבתה הרשמית." },
+    { title = "תור הזהב", path = "wiki/golden-age", description = "התגשמות עידן הדלי, שבמסגרתה צפויה בניית בית המקדש השלישי." },
+]
 
 [extra.infobox]
-type = "Anticipated future Temple in Jerusalem (in Jewish eschatology); functionally identified with the Embassy required for the Elohim's Great Return (in the Wheel of Heaven framework)"
-principal_biblical_sources = "Ezekiel 40-48 (the principal architectural vision, c. 573 BCE); Haggai 2:9; Zechariah 6:12-13; Isaiah 2:2-4 / Micah 4:1-3"
-historical_predecessors = "The Tabernacle (Mosaic period, c. 14th-13th centuries BCE); the First Temple (Solomon's Temple, c. 957–587 BCE, destroyed by the Babylonians); the Second Temple (516 BCE–70 CE, destroyed by the Romans)"
-contemporary_temple_mount_status = "Occupied by the Dome of the Rock (691-692 CE) and the al-Aqsa Mosque (705-715 CE); the third-holiest site in Islam; status quo since 1967: Israeli perimeter security, Waqf (Jordanian Islamic religious trust) administration, contested Jewish prayer access"
-jewish_preparation_organizations = "The Temple Institute (Machon HaMikdash, founded 1987 by Rabbi Yisrael Ariel); the Sanhedrin Initiative; the various red heifer breeding programs; the broader Religious Zionist Temple-preparation tradition"
-christian_engagement = "Dispensationalist eschatology (Darby 19th century, Scofield Reference Bible 1909, the Left Behind series 1995-2007); substantively contested by amillennial, postmillennial, and preterist Christian positions"
-raelian_identification = "The Embassy specified in the Vorilhon source material (*Le Livre qui dit la vérité*, 1974, Sixth Chapter \"The New Commandments,\" Section \"Your Mission\") is identified by the source material with the Third Temple of the Hebrew biblical tradition"
-raelian_embassy_history = "The Raëlian Movement formally requested Embassy land in Israel seven times between approximately 1990 and 2015, with all requests denied; on August 6, 2015 (21 Av 5775 in the Hebrew calendar), the source material declared the Elohim's protection of Israel withdrawn; subsequent proposals have involved Palestinian Authority territories and other locations"
-framework_significance = "The Third Temple is read by the framework as the substantive culmination of the Hebrew biblical Temple-restoration tradition and as functionally identical with the Embassy required for the Great Return; the operational continuity of Tabernacle → First Temple → Second Temple → Third Temple/Embassy constitutes a single sequence of Elohim terrestrial reception sites"
+type = "בית המקדש העתידי הצפוי בירושלים (באסכטולוגיה היהודית); מזוהה תפקודית עם השגרירות הנדרשת לשיבה הגדולה של האלוהים (במסגרת Wheel of Heaven)"
+principal_biblical_sources = "יחזקאל מ–מח (החזון האדריכלי העיקרי, בסביבות 573 לפנה״ס); חגי ב:9; זכריה ו:12–13; ישעיהו ב:2–4 / מיכה ד:1–3"
+historical_predecessors = "המשכן (התקופה המוסאית, בסביבות המאות ה־14–13 לפנה״ס); בית המקדש הראשון (מקדש שלמה, בסביבות 957–587 לפנה״ס, נחרב בידי הבבלים); בית המקדש השני (516 לפנה״ס – 70 לספירה, נחרב בידי הרומאים)"
+contemporary_temple_mount_status = "תפוס בידי כיפת הסלע (691–692 לספירה) ומסגד אל־אקצא (705–715 לספירה); המקום השלישי בקדושתו באסלאם; הסטטוס קוו מאז 1967: אבטחה ישראלית בהיקף, ניהול בידי הווקף (הנאמנות הדתית האסלאמית הירדנית), גישה שנויה במחלוקת לתפילת יהודים"
+jewish_preparation_organizations = "מכון המקדש (נוסד ב־1987 על ידי הרב ישראל אריאל); יוזמת הסנהדרין; תוכניות גידול פרה אדומה; מסורת ההכנה למקדש הרחבה של הציונות הדתית"
+christian_engagement = "אסכטולוגיה דיספנסציונליסטית (דארבי, המאה ה־19; תנ״ך העיון של סקופילד, 1909; סדרת Left Behind,‏ 1995–2007); שנויה במחלוקת בעמדות נוצריות אמילניאליות, פוסט־מילניאליות ופרטריסטיות"
+raelian_identification = "השגרירות המפורטת בחומר המקור של וורילון (*Le Livre qui dit la vérité*, 1974, הפרק השישי »המצוות החדשות«, הסעיף »שליחותכם«) מזוהה בחומר המקור עם בית המקדש השלישי של המסורת המקראית העברית"
+raelian_embassy_history = "התנועה הראליאנית ביקשה לראשונה קרקע לשגרירות בקרבת ירושלים ב־1991; ועדה ישראלית מצאה ב־1993 כי התנועה שוחרת שלום, אך ראש הממשלה יצחק רבין סירב ואף ממשלה מאוחרת יותר לא פתחה את השאלה מחדש; המסר מ־13 בדצמבר 1997 התיר לבקש מעמד אקס־טריטוריאלי מכל אומה, כשלישראל נשמרת אפשרות אחרונה; מסר משנת 2015 הכריז על הסרת הגנת האלוהים מישראל"
+framework_significance = "הקנון מזהה את בית המקדש השלישי עם השגרירות שנבנית לקראת השיבה הגדולה, וממפה את מבנהּ על ציפיית המקדש בלי להחליף את משמעותה של המסורת עצמה"
 +++
 
 The **Third Temple** (Hebrew **<span class="hebrew">בֵּית הַמִּקְדָּשׁ הַשְּׁלִישִׁי</span>** *Beit ha-Mikdash ha-Shlishi*, "the Third Holy House") is the future Temple that, in Jewish eschatological tradition, is to be built in Jerusalem to succeed the **First Temple** (Solomon's Temple, c. 957–587 BCE, destroyed by the Babylonians under Nebuchadnezzar II) and the **Second Temple** (516 BCE–70 CE, destroyed by the Romans under Titus). Its fullest biblical blueprint is the nine-chapter vision of the prophet [Ezekiel](/wiki/ezekiel/) (Ezekiel 40–48, c. 573 BCE), and its building is one of the works Jewish tradition assigns to the Messianic Age.

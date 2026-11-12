@@ -6,7 +6,7 @@ template = "timeline-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-10-29"
 translation_stale = false
 translation_sync = 100
@@ -24,27 +24,27 @@ footnotes = [
 ]
 
 references = [
-    { title = "Энума Элиш", author = "Аноним (Вавилон)", date = "ок. XII в. до н. э.", medium = "religious-text", path = "/library/enuma-elish/" },
-    { title = "Атрахасис", author = "Аноним (Аккад)", date = "ок. XVII в. до н. э.", medium = "religious-text", path = "/library/atrahasis/" },
-    { title = "1-я книга Еноха (Книга Стражей)", author = "Аноним (Иудаизм Второго Храма)", date = "ок. III в. до н. э.", medium = "religious-text", path = "/library/book-of-enoch/" },
-    { title = "Теогония и Труды и дни", author = "Гесиод", date = "ок. 700 г. до н. э.", medium = "religious-text", description = "Гесиодовская космогония и последовательность пяти веков (золотой, серебряный, бронзовый, героический, железный)." },
-    { title = "Пополь-Вух", author = "Аноним (К'иче-майя); перевод Денниса Тедлока", date = "XVI в.; перевод 1996 г.", medium = "religious-text" },
-    { title = "Младшая Эдда", author = "Снорри Стурлусон", date = "ок. 1220 г.", medium = "religious-text", description = "Исландский компендиум XIII века; источник космогонии Имира и совета Асов." },
-    { title = "Кумулипо: гавайская песнь творения", author = "Аноним; перевод Марты Уоррен Беквит", date = "XVIII в.; перевод 1951 г.", medium = "religious-text" },
-    { title = "Бледный лис", author = "Марсель Гриоль и Жермена Дитерлен", date = "1965 г.", medium = "nonfiction-book" },
-    { title = "Догоны заново: полевая оценка работы Марселя Гриоля", author = "Вальтер Э. А. ван Бек", publication = "Current Anthropology 32 (2), 139–167", date = "1991 г.", medium = "academic-paper", url = "https://pure.uvt.nl/ws/portalfiles/portal/1002365/dogonrestudied.pdf" },
-    { title = "Мозг Брока: размышления о романтике науки", author = "Карл Саган", date = "1979 г.", medium = "nonfiction-book", description = "Содержит главу о догон-сириусской полемике, поставившую под сомнение диффузионистское происхождение астрономических утверждений о Номмо." },
-    { title = "Исследование тайны Сириуса", author = "Иэн Ридпат", publication = "Skeptical Inquirer 3 (1), 56–62", date = "1978 г.", medium = "academic-paper" },
-    { title = "Книга, которая говорит правду", author = "Клод Ворийон (Раэль)", date = "1974 г.", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Инопланетяне забрали меня на свою планету", author = "Клод Ворийон (Раэль)", date = "1975 г.", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
-    { title = "Парк юрского периода", author = "Майкл Крайтон", date = "1990 г.", medium = "fiction-book" },
-    { title = "Парк юрского периода", author = "Режиссёр Стивен Спилберг; сценарий Майкла Крайтона и Дэвида Кеппа", date = "1993 г.", medium = "movie" },
-    { title = "Детерминированное непериодическое течение", author = "Эдвард Н. Лоренц", publication = "Journal of the Atmospheric Sciences 20 (2), 130–141", date = "1963 г.", medium = "academic-paper", description = "Основополагающая статья о чувствительной зависимости от начальных условий в детерминированных системах." },
-    { title = "Фрактальная геометрия природы", author = "Бенуа Мандельброт", date = "1982 г.", medium = "nonfiction-book" },
-    { title = "Порядок из хаоса: новый диалог человека с природой", author = "Илья Пригожин и Изабелла Стенгерс", date = "1984 г.", medium = "nonfiction-book" },
-    { title = "Хаос: создание новой науки", author = "Джеймс Глейк", date = "1987 г.", medium = "nonfiction-book" },
-    { title = "Математика и неожиданное", author = "Ивар Экеланд", date = "1988 г.", medium = "nonfiction-book" },
-    { title = "Мельница Гамлета: эссе об истоках человеческого знания и его передаче через миф", author = "Джорджо де Сантильяна и Герта фон Дехенд", date = "1969 г.", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
+    { id = "enuma-elish" },
+    { id = "atrahasis" },
+    { id = "1-enoch-the-book-of-the-watchers" },
+    { id = "theogony-works-and-days", note = "Гесиодовская космогония и последовательность пяти веков (золотой, серебряный, бронзовый, героический, железный)." },
+    { id = "popol-vuh" },
+    { id = "prose-edda", note = "Исландский компендиум XIII века; источник космогонии Имира и совета Асов." },
+    { id = "the-kumulipo-a-hawaiian-creation-chant" },
+    { id = "le-renard-p-le" },
+    { id = "dogon-restudied-a-field-evaluation-of-the-work-of-marcel-griaule" },
+    { id = "broca-s-brain-reflections-on-the-romance-of-science", note = "Содержит главу о догон-сириусской полемике, поставившую под сомнение диффузионистское происхождение астрономических утверждений о Номмо." },
+    { id = "investigating-the-sirius-mystery" },
+    { id = "le-livre-qui-dit-la-v-rit" },
+    { id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te" },
+    { id = "jurassic-park" },
+    { id = "jurassic-park" },
+    { id = "deterministic-nonperiodic-flow", note = "Основополагающая статья о чувствительной зависимости от начальных условий в детерминированных системах." },
+    { id = "the-fractal-geometry-of-nature" },
+    { id = "order-out-of-chaos-man-s-new-dialogue-with-nature" },
+    { id = "chaos-making-a-new-science" },
+    { id = "mathematics-and-the-unexpected" },
+    { id = "hamlets-mill" },
 ]
 
 [[extra.next_age]]

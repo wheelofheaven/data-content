@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 99
@@ -22,16 +22,18 @@ alternative_names = ["el Portador de Luz", "lūcifer", "Helel ben Shahar", "הֵ
 portrait_id = "lucifer"
 image = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.avif"
-image_alt = "AI-generated editorial portrait of Lucifer as the Light-Bringer, an Eloha faction leader with long hair and a green-gold luminosity."
-image_caption = "Interpretive portrait for the Lucifer wiki entry and library personality metadata."
+image_alt = "Retrato editorial generado por IA de Lucifer como el Portador de la Luz, líder de facción eloha de cabello largo y luminosidad verde dorada."
+image_caption = "Retrato interpretativo para la entrada de wiki sobre Lucifer y los metadatos de personajes de la biblioteca."
 timeline = ["leo", "cancer"]
 see_also = [
+    { title = "¿Son Lucifer y Satán el mismo?", path = "articles/lucifer-and-satan", description = "La lectura comparada que distingue a Lucifer de Satán como facciones opuestas." },
     { title = "Serpiente", path = "wiki/serpent", description = "Lucifer en su papel específico de revelación del Edén en Génesis 3." },
     { title = "Yahvé", path = "wiki/yahweh", description = "El jefe del equipo de Israel y moderado de la alianza; antiguo colega de Lucifer y opositor político post-Edén." },
     { title = "Satán", path = "wiki/satan", description = "Una figura Elohim distinta que encabeza la facción abolicionista del mundo de origen — políticamente opuesta a Lucifer, no idéntica." },
     { title = "Adán y Eva", path = "wiki/adam-and-eve", description = "Los primeros humanos a quienes educó la facción de Lucifer y a quienes hizo la revelación del Edén." },
     { title = "Antediluviano", path = "wiki/antediluvian", description = "El período a lo largo del cual la facción exiliada de Lucifer ejerció como maestros de la civilización del linaje del Edén." },
     { title = "Árbol de la Vida", path = "wiki/tree-of-life", description = "La tecnología de longevidad que la facción de Lucifer obtuvo para el liderazgo patriarcal del Edén." },
+    { title = "El arcediano y el dragón", path = "articles/the-archdeacon-and-the-dragon", description = "Superpone el arco de los cuatro dragones de Wallis a la lectura de la facción de Lucifer." },
 ]
 
 footnotes = [

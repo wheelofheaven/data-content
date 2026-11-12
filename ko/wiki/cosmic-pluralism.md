@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,20 +14,29 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
-alternative_names = ["Plurality of worlds", "Plurality of inhabited worlds", "Many-worlds cosmology (in the classical sense, distinct from the Everett quantum interpretation)", "Pluralität der Welten", "Pluralité des mondes"]
+alternative_names = ["세계의 복수성", "생명이 사는 세계의 복수성", "다세계 우주론(에버렛의 양자 해석과 구별되는 고전적 의미에서)", "Pluralität der Welten", "Pluralité des mondes"]
+see_also = [
+    { title = "드레이크 방정식", path = "wiki/drake-equation", description = "복수의 세계 가운데 몇이나 거주되고 있는지를 추정하려는 20세기의 시도." },
+    { title = "엘로힘", path = "wiki/elohim", description = "코퍼스가 우주적 다원론이 그 존재를 요구한다고 읽는 외계 문명." },
+    { title = "무한", path = "wiki/infinity", description = "다수 세계에 대한 조합론적 논증의 토대가 되는 무한 규모의 전제." },
+    { title = "생명공학(라이프 엔지니어링)", path = "wiki/life-engineering", description = "코퍼스의 독해에서 생명이 복수의 세계로 퍼져 나가는 기제." },
+    { title = "근접 조우 목록", path = "wiki/list-of-close-encounters", description = "코퍼스가 거주 세계들 사이에 이미 확립된 접촉으로 읽는 기록." },
+    { title = "합성유전체학", path = "wiki/synthetic-genomics", description = "우주적 다원론이 묘사하는 세계 파종 규모에 다가가고 있는 지구의 역량." },
+    { title = "서명과 설계자들", path = "/articles/the-signature-and-the-designers/", description = "흄의 미결정된 설계자를 논파가 아니라 발견으로 받아들입니다 — 유한하고, 복수이며, 물리적인 설계자." },
+]
 
 [extra.infobox]
-type = "Philosophical and scientific doctrine that the universe contains many worlds (or many *inhabited* worlds) beyond Earth"
-opposed_position = "Aristotelian unique-world cosmology — the doctrine that there is one world (the sublunary terrestrial sphere plus the supralunary celestial spheres) and no other"
-ancient_origin = "Greek atomism, formulated by Leucippus and Democritus (5th century BCE); systematised by Epicurus (341–270 BCE); transmitted to Latin antiquity by Lucretius (*De Rerum Natura*, c. 50 BCE)"
-medieval_developments = "1277 Paris Condemnations of Étienne Tempier opening philosophical space for plurality; Jean Buridan (14th century); Nicole Oresme (14th century); Nicholas of Cusa (*De Docta Ignorantia*, 1440)"
-early_modern_milestones = "Copernicus (*De Revolutionibus*, 1543); Bruno (*De l'infinito universo e mondi*, 1584; executed 1600); Kepler; Fontenelle (*Entretiens sur la pluralité des mondes*, 1686); Huygens (*Cosmotheoros*, 1698); Kant (*Allgemeine Naturgeschichte und Theorie des Himmels*, 1755)"
-nineteenth_century = "Whewell-Brewster debate (*Of the Plurality of Worlds*, 1853; *More Worlds Than One*, 1854); Percival Lowell and the Mars canals controversy (late 19th–early 20th c.)"
-twentieth_century = "Drake equation (Frank Drake, 1961); SETI Project Ozma (1960) onward; Fermi paradox (Enrico Fermi, c. 1950)"
-twenty_first_century = "First exoplanets discovered around pulsar PSR B1257+12 (Wolszczan & Frail, 1992); first around main-sequence star 51 Pegasi b (Mayor & Queloz, 1995; Nobel Prize 2019); Kepler mission (2009–2018); JWST atmospheric biosignature searches (2022 onward); approximately 6,000+ confirmed exoplanets as of 2026"
-framework_position = "Foundational rather than optional: the corpus's broader account requires cosmic pluralism — the Elohim came from another world, humanity was synthesised by extraterrestrial intelligence, and humanity is in turn destined to create new humanities on other worlds"
-key_source_passage = "Vorilhon (1974): \"Since the beginning of time it has been so: people create other people like themselves on other planets. The cycle continues. Some die, others take over. We are your creators, and you will create other humanities.\""
-key_biblical_cross_reference = "Ecclesiastes 3:15 — \"That which hath been is now; and that which is to be hath already been\""
+type = "우주에 지구 너머의 많은 세계(또는 *생명이 사는* 많은 세계)가 있다는 철학적·과학적 학설"
+opposed_position = "아리스토텔레스의 유일 세계 우주론 — 세계는 하나(월하의 지상 영역과 월상의 천구들)이며 다른 세계는 없다는 학설"
+ancient_origin = "레우키포스와 데모크리토스가 정식화한 그리스 원자론(기원전 5세기); 에피쿠로스(기원전 341–270)가 체계화; 루크레티우스(*De Rerum Natura*, 기원전 약 50년)가 라틴 고대에 전함"
+medieval_developments = "복수성에 철학적 공간을 연 에티엔 탕피에의 1277년 파리 단죄; 장 뷔리당(14세기); 니콜 오렘(14세기); 니콜라우스 쿠자누스(*De Docta Ignorantia*, 1440)"
+early_modern_milestones = "코페르니쿠스(*De Revolutionibus*, 1543); 브루노(*De l'infinito universo e mondi*, 1584; 1600년 처형); 케플러; 퐁트넬(*Entretiens sur la pluralité des mondes*, 1686); 하위헌스(*Cosmotheoros*, 1698); 칸트(*Allgemeine Naturgeschichte und Theorie des Himmels*, 1755)"
+nineteenth_century = "휴얼-브루스터 논쟁(*Of the Plurality of Worlds*, 1853; *More Worlds Than One*, 1854); 퍼시벌 로웰과 화성 운하 논쟁(19세기 후반~20세기 초)"
+twentieth_century = "드레이크 방정식(프랭크 드레이크, 1961); SETI 오즈마 계획(1960) 이후; 페르미 역설(엔리코 페르미, 1950년경)"
+twenty_first_century = "펄서 PSR B1257+12 주위에서 최초의 외계 행성 발견(볼시찬과 프레일, 1992), 주계열성 주위의 최초 사례인 51 Pegasi b(마요르와 쿠엘로, 1995, 2019년 노벨상), 케플러 임무(2009–2018), JWST의 대기 생명 지표 탐색(2022년 이후), 2026년 기준 6,000개 이상의 확인된 외계 행성"
+framework_position = "선택이 아니라 기초: 코퍼스의 더 넓은 설명은 우주 다원론을 필요로 함 — 엘로힘은 다른 세계에서 왔고, 인류는 외계 지성에 의해 합성되었으며, 인류는 이번에는 다른 세계에 새로운 인류를 창조할 운명임"
+key_source_passage = "보릴롱(1974): \"태초부터 그러했습니다. 사람들은 다른 행성에 자기와 같은 다른 사람들을 창조합니다. 순환은 계속됩니다. 어떤 이들은 죽고, 다른 이들이 이어받습니다. 우리는 여러분의 창조자이며, 여러분은 다른 인류들을 창조할 것입니다.\""
+key_biblical_cross_reference = "전도서 3:15 — \"이제 있는 것이 옛적에 있었고 장래에 있을 것도 옛적에 있었나니\""
 +++
 
 **Cosmic pluralism** is the philosophical and scientific doctrine that the universe contains **many worlds beyond Earth** — and, in its stronger form, **many inhabited worlds**. The doctrine has developed across approximately 2,500 years of philosophical and scientific reflection and has stood, across most of that period, in opposition to the dominant Aristotelian unique-world cosmology that held there to be one world only. The 20th and 21st centuries have seen cosmic pluralism shift from contested philosophical speculation to an empirically grounded scientific position: the documented existence of more than **6,000 confirmed exoplanets** as of 2026, the increasing identification of potentially habitable worlds in the *habitable zones* of their host stars, the development of biosignature-detection technologies in space telescopes (JWST and successors), and the continuing programmes of the **Search for Extraterrestrial Intelligence (SETI)** have together moved the question of *whether* there are other worlds from open to settled, leaving open the question of whether the documented other worlds are *inhabited*.

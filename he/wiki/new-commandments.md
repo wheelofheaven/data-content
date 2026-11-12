@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,17 +16,25 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the New Commandments (proper-noun framework concept)", "the Aquarian-age program", "the seven commandments", "the Raëlian socio-political-religious doctrine"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "משה", path = "wiki/moses", description = "מתווך עשרת הדיברות של עידן הטלה, שמצוות אלה באות במקומן עבור עידן הדלי." },
+    { title = "גניוקרטיה", path = "wiki/geniocracy", description = "המצווה הראשונה — ממד הממשל של התוכנית בת שבעת החלקים." },
+    { title = "הומניטריזם", path = "wiki/humanitarianism", description = "המצווה השנייה — ממד הקניין והירושה של התוכנית." },
+    { title = "תור הזהב", path = "wiki/golden-age", description = "צורת החיים שיישומה המלא של התוכנית נועד ליצור." },
+    { title = "השגרירות", path = "wiki/embassy", description = "דרישת הבנייה המופרדת בפרק המקורי ״שליחותך״." },
+    { title = "אפוקליפסה", path = "wiki/apocalypse", description = "רגע הסף הפותח את העידן שהנחיות אלה מכוונות אליו." },
+]
 
 [extra.infobox]
-type = "Raëlian umbrella concept; the seven principal political-religious-cultural directives delivered by Yahweh to Vorilhon during the December 1973 contact"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), Sixth Chapter; *Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), substantial 'The Keys' section; *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979); consolidated *Message from the Designers* (2005); systematic *timeline.epub* engagement"
-the_seven_commandments = "(1) Geniocracy — political-governance; (2) Humanitarianism — property-and-inheritance; (3) World Government — political-coordination; (4) Demilitarization — peace; (5) Science as Religion — religious-cultural; (6) Telepathic Cultivation — cognitive-developmental; (7) Metaphysical Clarifications — doctrinal-cosmological"
-source_textual_structure = "Original 1974 Chapter VI: four explicit sections (Geniocracy, Humanitarianism, World Government, Your Mission) — with Your Mission articulating the Raëlian institutional engagement distinctly from the seven structural commandments; subsequent corpus consolidation: seven systematic commandments faithful to broader corpus content"
-mosaic_decalogue_parallel = "Aries-age Decalogue (Exodus 20:1-17, Deuteronomy 5:6-21) and Aquarian-age New Commandments paired as substantive age-specific programmatic articulations; both delivered by Yahweh; substantive transition from individual-ethical-prohibitive content to collective-civilizational-constructive content"
-distinguished_from = "the Mosaic Decalogue (the Aries-age individual-ethical paired articulation); the Raëlian Mission (the institutional engagement registered in the original Chapter VI 'Your Mission' section); the Embassy construction (the specific operational requirement); the Apocalypse (the threshold-revelation moment); the Golden Age (the operational form of life that successful implementation produces)"
-parallel_traditions = "The Mosaic Decalogue; the Holiness Code and Deuteronomic Code; the Christian Sermon on the Mount; the Islamic Five Pillars and substantive Sharia; the Buddhist Eightfold Path and Five Precepts; the Hindu purusharthas; the Confucian Five Relationships; various indigenous programmatic traditions; Plato's Republic and Laws; the substantial utopian-programmatic tradition; the substantial revolutionary and democratic-progressive programmatic articulations; the contemporary UN-system programmatic engagements"
-status_in_framework = "Foundational umbrella concept consolidating the seven Aquarian-age program elements; substantively load-bearing for broader corpus eschatological-cosmological architecture"
-contingent_implementation = "Not immediate institutional change but directional orientation across centuries; long-term socio-political-cultural reorganization implementing the program at planetary civilizational scale"
+type = "מושג־על ראליאני; שבע ההנחיות הפוליטיות־דתיות־תרבותיות העיקריות שמסר יהוה לוורילון במגע של דצמבר 1973"
+principal_source = "*הספר המגלה את האמת* (וורילון, 1974), הפרק השישי; *החייזרים לקחו אותי לכוכב שלהם* (וורילון, 1975), הקטע 'המפתחות'; *בואו נקבל את פני החייזרים* (וורילון, 1979); מקובץ ב־*מסר מהמתכננים* (2005)"
+the_seven_commandments = "(1) גניוקרטיה — ממשל מדיני; (2) הומניטריזם — רכוש וירושה; (3) ממשלה עולמית — תיאום מדיני; (4) פירוז — שלום; (5) המדע כדת — דתי־תרבותי; (6) טיפוח הטלפתיה — התפתחות קוגניטיבית; (7) הבהרות מטפיזיות — דוקטרינרי־קוסמולוגי"
+source_textual_structure = "הפרק השישי המקורי מ־1974: ארבעה קטעים (גאוניוקרטיה, הומניטריזם, ממשלה עולמית, משימתך), כש'משימתך' מתווה את המשימה המוסדית הראליאנית בנפרד מן המצוות המבניות; המנייה בת שבעת הסעיפים היא איחוד מאוחר יותר הנאמן לקורפוס הרחב"
+mosaic_decalogue_parallel = "מוצמד לעשרת הדיברות של משה מעידן הטלה (שמות כ 1–17; דברים ה 6–21) כניסוח היורש של עידן הדלי; שניהם נמסרו על ידי יהוה; המעבר הוא מאיסור אתי־אישי ('לא תעשה') לבנייה קולקטיבית־ציוויליזציונית ('תפתחו')"
+distinguished_from = "עשרת הדיברות של משה (הניסוח המקביל של עידן הטלה); המשימה הראליאנית (המשימה המוסדית שהופרדה בקטע 'משימתך' של 1974); השגרירות (דרישת הבנייה הספציפית); האפוקליפסה (רגע הסף); תור הזהב (צורת החיים שיישום מלא אמור להניב)"
+parallel_traditions = "עשרת הדיברות של משה; קובץ הקדושה וחוקת דברים; הדרשה על ההר; חמשת עמודי האסלאם; הדרך המתומנת וחמשת הכללים הבודהיסטיים; הפורושרתות ההינדיות; חמשת היחסים הקונפוציאניים; *המדינה* ו*החוקים* של אפלטון; המסורת האוטופית (מור, בייקון, קמפנלה); תוכניות ההשכלה, הסוציאליזם והדמוקרטיה; ההכרזה לכל באי עולם בדבר זכויות האדם (1948); יעדי הפיתוח בר־הקיימא של האו״ם (2015)"
+status_in_framework = "מושג־על יסודי המכנס את שבעת רכיבי התוכנית של עידן הדלי; נושא משקל בארכיטקטורה האסכטולוגית והקוסמולוגית של הקורפוס"
+contingent_implementation = "לא שינוי מוסדי מיידי אלא כיוון שאליו יש לצמוח לאורך מאות שנים; ארגון מחדש חברתי־פוליטי־תרבותי ארוך טווח בקנה מידה פלנטרי"
 +++
 
 **The New Commandments** are, in the Wheel of Heaven framework, the seven

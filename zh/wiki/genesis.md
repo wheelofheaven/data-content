@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -14,19 +14,28 @@ category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
 alternative_names = ["Bereshit", "B'reshit", "First Book of Moses"]
+see_also = [
+    { title = "创世工具箱", path = "wiki/genesis-toolbox", description = "文集对创世记载所描述之运作中的科学与技术的汇编。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "第一章所叙述其工作的复数造物者。" },
+    { title = "伊甸", path = "wiki/eden", description = "创世记 2–3 章中最初人类被安置的园子。" },
+    { title = "亚当与夏娃", path = "wiki/adam-and-eve", description = "第二个创世记载中的最初人类。" },
+    { title = "挪亚", path = "wiki/noah", description = "创世记 6–9 章中在洪水中幸存的立约人物。" },
+    { title = "大洪水", path = "wiki/great-flood", description = "在创世记 6–9 章中重置人类故事的洪水叙事。" },
+    { title = "希伯来圣经", path = "wiki/hebrew-bible", description = "创世记作为开篇的更广经文文集。" },
+]
 
 [extra.infobox]
 hebrew_title = "בְּרֵאשִׁית"
 transliteration = "Bərēʾšît"
-title_meaning = "In the beginning"
-greek_title = "Γένεσις (Génesis, 'origin')"
-language = "Biblical Hebrew"
-length = "50 chapters; approximately 32,000 words in the Masoretic Text"
-canon_position = "First book of the Torah / Pentateuch; first book of the Hebrew Bible and Christian Old Testament"
-traditional_attribution = "Moses (Mosaic authorship)"
-scholarly_dating = "Compositional layers c. 10th–5th century BCE; final redaction post-exilic"
-principal_witnesses = "Masoretic Text; Septuagint; Samaritan Pentateuch; Dead Sea Scrolls fragments (c. 3rd century BCE – 1st century CE)"
-genre = "Primeval and patriarchal history; theological narrative"
+title_meaning = "起初"
+greek_title = "Γένεσις（Génesis，「起源」）"
+language = "圣经希伯来语"
+length = "50 章；马所拉文本中约 32,000 词"
+canon_position = "妥拉／摩西五经的第一卷；希伯来圣经与基督教旧约的第一卷"
+traditional_attribution = "摩西（摩西著作说）"
+scholarly_dating = "成书层次约为公元前 10 至 5 世纪；最终编订于被掳归回之后"
+principal_witnesses = "马所拉文本；七十士译本；撒玛利亚五经；死海古卷残片（约公元前 3 世纪至公元 1 世纪）"
+genre = "太古史与族长史；神学叙事"
 +++
 
 **Genesis** (Hebrew: <span class="hebrew">בְּרֵאשִׁית</span>, *Bərēʾšît*, "in the beginning"; Greek: *Γένεσις*, *Génesis*, "origin") is the first book of the {% wiki(slug="hebrew-bible") %}Hebrew Bible{% end %} and of the Christian Old Testament. The Hebrew title is taken from the book's opening word; the English title derives from the Greek {% wiki(slug="septuagint") %}Septuagint{% end %} translation, which named the book after its principal subject. Genesis contains two distinct creation accounts (Genesis 1:1–2:3 and Genesis 2:4–25), the primeval history (Genesis 3–11) including the expulsion from Eden, the genealogies of the long-lived patriarchs, the Flood, and the dispersal at Babel, and the patriarchal history (Genesis 12–50) covering Abraham, Isaac, Jacob, and Joseph. The book's fifty chapters span what conventional chronology treats as approximately two thousand years from creation to Joseph's death in Egypt, with the framework's reading treating the same narrative as compressing approximately fifteen thousand years of history.

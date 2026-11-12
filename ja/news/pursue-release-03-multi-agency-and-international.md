@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "第02弾リリースから三週間後、米国戦争省はwar.gov/UFOにて第03弾を公開しました。CIA、FBI、NASA、ペンタゴンから採取された53点の文書、10点のデジタル・レンダリング、6本の動画、3点のNASA音声記録が含まれ、これはPURSUEとして初めて、国防総省の資料に加え民間機関の保有資料を組み入れた一括資料となります。注目される事例には、2022年2月にシャイアン山地上空で陸軍情報将校と所属部隊の四名によって観測された、ジャガイモ型・乳白色オパール調・魚の鱗を思わせる物体、2008年にハラレ国際空港上空で底面に回転する光を有しビームを発した円盤、2026年に米国北東部で起きた一対のオーブとの遭遇、そして1949年のカスケード山地上空での空中ビーム収束に関するJ・エドガー・フーバー時代のファイルが含まれます。本コーパスは、この第03弾を、帰還の兆候としてではなく、正典を読むための文脈として記録します。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "現在の文脈"
+cross_reference = "水瓶座の時代、§IX"
 canon_links = [
     { title = "水瓶座の時代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

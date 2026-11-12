@@ -6,11 +6,11 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-05-15"
+translation_updated = "2026-11-12"
 source_updated = "2026-05-14"
 translation_stale = false
 translation_sync = 100
-redirect_to = { title = "Serpent", path = "/wiki/serpent/" }
+redirect_to = { title = "Serpiente", path = "/wiki/serpent/" }
 category = "Symbolism & Motifs"
 timeline = ["gemini"]
 claim_type = "inferred"

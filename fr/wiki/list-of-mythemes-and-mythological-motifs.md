@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,24 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of mythological motifs", "Mythological-motif index (framework reading)", "Cross-cultural mythemes catalogue"]
+alternative_names = ["Catalogue des motifs mythologiques", "Index des motifs mythologiques (lecture du cadre)", "Catalogue des mythèmes transculturels"]
+see_also = [
+    { title = "Mythème", path = "wiki/mytheme", description = "L'unité technique à laquelle se réfère l'usage du catalogue, distinguée du motif et du conte-type." },
+    { title = "Genèse", path = "wiki/genesis", description = "L'application à l'échelle d'un chapitre de la même méthode de traduction opérationnelle que le catalogue étend." },
+    { title = "Éden", path = "wiki/eden", description = "Un récit source sur lequel plusieurs motifs catalogués sont relus." },
+    { title = "Lucifer", path = "wiki/lucifer", description = "Une figure récurrente dans les motifs de savoir interdit et de rébellion du catalogue." },
+    { title = "Compétition cosmique", path = "wiki/cosmic-competition", description = "Le cadre de lecture vers lequel convergent plusieurs motifs catalogués de guerre entre puissances." },
+    { title = "Religion", path = "wiki/religion", description = "La catégorie plus large de formation des traditions dans laquelle s'inscrivent les motifs catalogués." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of cross-cultural mythological motifs with framework readings"
-classification_instrument = "Stith Thompson, *Motif-Index of Folk-Literature* (1955), Section A (Mythological Motifs)"
-scope = "Cosmogonic, theogonic, anthropogonic, and culture-hero motifs with substantial cross-cultural attestation"
-catalogue_columns = "Motif name; Motif-Index code; principal cross-cultural attestations; framework reading"
-framework_method = "Translation of mythological patterns into operational terms consistent with the source material's account of the Elohim's work"
-working_hypothesis = "Wide cross-cultural distribution of certain motifs reflects shared historical reference (the Elohim's contact pattern across human populations) rather than coincidence or independent invention"
-caveat = "Coverage is most complete for motifs with clear framework-relevant content; the catalogue does not exhaust the Motif-Index even within Section A"
+type = "Catalogue de référence des motifs mythologiques transculturels, avec les lectures du cadre"
+classification_instrument = "Stith Thompson, *Motif-Index of Folk-Literature* (1955), section A (motifs mythologiques)"
+scope = "Motifs cosmogoniques, théogoniques, anthropogoniques et de héros civilisateurs largement attestés à travers les cultures"
+catalogue_columns = "Nom du motif ; code du Motif-Index ; principales attestations transculturelles ; lecture du cadre"
+framework_method = "Traduction des schémas mythologiques en termes opérationnels cohérents avec le récit que fait le matériau source du travail des Élohim"
+working_hypothesis = "La large distribution transculturelle de certains motifs reflète une référence historique partagée (le schéma de contact des Élohim avec les populations humaines) plutôt qu'une coïncidence ou une invention indépendante"
+caveat = "La couverture est la plus complète pour les motifs dont le contenu est clairement pertinent pour le cadre ; le catalogue n'épuise pas le Motif-Index, même au sein de la section A"
 +++
 
 This entry catalogues the principal cross-cultural mythological motifs the Wheel of Heaven framework reads as preserving, in mythologised form, historical content from the Elohim's interaction with human populations across the Earth project. {% claim(type="speculative", id="woh-claim-0056") %}The catalogue uses **Stith Thompson's *Motif-Index of Folk-Literature*** (1955) as its principal academic classification instrument and supplies, for each motif, a brief inventory of cross-cultural attestations and the framework's adopted reading of what the motif preserves.{% end %}

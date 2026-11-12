@@ -6,28 +6,41 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Saṃsāra (Sanskrit संसार, Pali saṃsāra)", "the Wheel of Life (Bhavacakra)", "the cycle of birth, death, and rebirth", "the cycle of reincarnation", "cyclic existence", "the cycle (Vorilhon source designation)"]
+alternative_names = ["Saṃsāra (Sanskrit संसार, Pali saṃsāra)", "生命之輪（Bhavacakra）", "生、死與再生的循環", "輪迴轉世的循環", "循環的存在", "循環（沃里隆源典的稱謂）"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "宏觀生物學", path = "wiki/macrobiology", description = "把人類視為有機體的生物學;對它而言,輪迴(saṃsāra)是失敗模式——在完成之前就流產的過渡。" },
+    { title = "卐字", path = "wiki/swastika", description = "文集讀作保存輪迴模式的循環符號。" },
+    { title = "黃金時代", path = "wiki/golden-age", description = "文集將佛教的覺悟重新讀作脫離文明循環。" },
+    { title = "宇宙競爭", path = "wiki/cosmic-competition", description = "區分脫離循環與重新落回循環之物種的宇宙層級篩選。" },
+    { title = "啟示", path = "wiki/apocalypse", description = "人類面臨脫離循環之抉擇的水瓶座時代門檻。" },
+    { title = "宇宙鏈", path = "wiki/cosmic-chain", description = "文明循環在其中反覆出現的巢狀創造譜系。" },
+    { title = "四層級", path = "wiki/four-levels", description = "循環模式被讀作在其中運作的尺度層級。" },
+    { title = "大洪水", path = "wiki/great-flood", description = "文集讀作典型循環重啟的雙子座時代大災變——一個先進文明被打回原始狀態。" },
+    { title = "路西法", path = "wiki/lucifer", description = "流亡的親人類創造者派系,其方舟行動讓一群遺民度過洪水重啟而得以保存。" },
+    { title = "那座碾磨諸紀元的磨坊", path = "articles/the-mill-that-grinds-the-ages", description = "循環背後的歲差之輪——那座碾磨諸紀元的磨坊,以及正典讀作其記號的卐字。" },
+    { title = "人類的形狀", path = "articles/the-shape-of-humanity", description = "此解說文將文明循環讀作一個可能在誕生前流產的行星有機體的失敗模式。" },
+]
 
 [extra.infobox]
-type = "Cosmological-cyclical concept; the substantive cyclical pattern of civilizational rise-and-fall the corpus reads as underlying cosmic-civilizational reality preserved in Indian-religions saṃsāra-cycle traditions"
-sanskrit = "संसार (saṃsāra, 'wandering through, flowing on')"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'The Second Encounter' chapter, 'Buddhism' section; consolidated *Message from the Designers* (2005)"
-core_articulation = "Buddhist saṃsāra-cycle reread collectively-civilizationally: humanity faces cosmic-civilizational choice between escape from cycle (Golden Age, cosmic-civilizational engagement) or fall back into cycle (primitive-state restart, multi-millennial redevelopment in hostile world)"
-cosmic_civilizational_selection = "Natural selection at cosmic level for species capable of leaving their planet; species controlling aggressiveness reach cosmic-civilizational engagement; species unable to control aggressiveness self-destruct at weapons-acquisition threshold"
-buddhist_devils = "Aggressiveness toward fellow humans; aggressiveness toward nature"
-buddhist_awakening = "Golden Age of civilization in which science serves the people"
-swastika_connection = "The swastika operates as the cycle-symbol preserved across the corpus engagement (treated systematically in Swastika entry)"
-distinguished_from = "Individual-eschatological saṃsāra (the substantial Indian-religions individual-soul-transmigration reading); the cosmic Golden Age content (the operational form of life produced by successful cycle-escape); the Apocalypse threshold-event (the specific 1945-onward Aquarian-age threshold moment)"
+type = "宇宙論—循環性概念；語料將文明興衰的模式解讀為印度傳統中 saṃsāra 所保存的宇宙實相"
+sanskrit = "संसार（saṃsāra，「流轉、流動不息」）"
+principal_source = "*外星人帶我到他們的行星*（沃里隆，1975），〈第二次相遇〉一章，〈佛教〉一節；彙編本 *來自設計者的訊息*（2005）"
+core_articulation = "以集體角度重新解讀佛教的 saṃsāra：人類面臨一項宇宙性的抉擇，是脫離循環（科學為人民服務的黃金時代），還是重新落入循環（回到原始狀態重新開始，在敵對的世界中歷經數千年重新發展）"
+cosmic_civilizational_selection = "「在宇宙層次上對能夠離開其行星之物種的天擇」；能駕馭自身攻擊性的物種抵達星辰，不能駕馭者則在武器門檻上自我毀滅"
+buddhist_devils = "對同胞的攻擊性；對自然的攻擊性"
+buddhist_awakening = "一個科學為人民服務的文明黃金時代"
+swastika_connection = "卐字被解讀為跨傳統保存下來的循環符號（見卐字條目）"
+distinguished_from = "個人末世論意義上的 saṃsāra（傳統印度的靈魂輪迴讀法）；黃金時代（成功脫離循環所帶來的生活）；啟示（1945 年起特定的水瓶座門檻）"
 parallel_traditions = "Hindu saṃsāra (Vedic, Upanishadic, Vedantic engagement); Jain karma-cycle; Sikh cycle-content; Greek-Stoic eternal recurrence; Nietzschean eternal return; Mayan Long Count cycles; Norse Ragnarök-regeneration; Chinese cyclical traditions; various indigenous cyclical traditions"
-status_in_framework = "Foundational cosmological-cyclical concept; the substantive cosmic-civilizational pattern that successful Aquarian-age navigation breaks; integrated with broader Golden Age, Apocalypse, Cosmic Chain, Cosmic Competition framework"
+status_in_framework = "基礎的宇宙論—循環性概念；成功度過水瓶座時代即可打破的宇宙模式；與黃金時代、啟示、宇宙鏈與宇宙競爭框架相整合"
 +++
 
 **Saṃsāra** (Sanskrit संसार, "wandering through, flowing on") is the cycle of

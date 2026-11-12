@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,28 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Mass Effect", "the Law of Masstime", "the law of subjective time", "the time-mass relationship", "the scale-time correspondence"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Makrobiologie", path = "wiki/macrobiology", description = "Die Biologie des Ganzen — die Menschheit als Organismus eine Sprosse höher auf der Leiter der lebenden Größenordnungen, deren Zeitskalierung der Massenwirkung beschreibt." },
+    { title = "Unendlichkeit", path = "wiki/infinity", description = "Der grundlegende Rahmen, dessen Dimension der zeitlichen Skalierung der Massenwirkung ist." },
+    { title = "Kosmische Kette", path = "wiki/cosmic-chain", description = "Der Rahmen der zivilisatorischen Abfolge, mit dem die Quellenstelle das Gesetz verbindet." },
+    { title = "Jahwe", path = "wiki/yahweh", description = "Die Elohim-Gestalt, deren Aussage im Quellenmaterial von 1975 das Gesetz begründet." },
+    { title = "Elohim", path = "wiki/elohim", description = "Die Schöpferzivilisation, deren übermittelte Passage den Rahmen trägt." },
+    { title = "Kosmischer Wettbewerb", path = "wiki/cosmic-competition", description = "Die zivilisatorische Dynamik, die sich über die Größen-Zeit-Hierarchie abspielt, die das Gesetz beschreibt." },
+    { title = "Die Allianz", path = "wiki/the-alliance", description = "Die kosmische Zusammenarbeit über die unendliche Größenhierarchie hinweg, die das Gesetz umspannt." },
+    { title = "Die Gestalt der Menschheit", path = "articles/the-shape-of-humanity", description = "Der Artikel, der die Kosmologie des Skalierungsgesetzes auf die Morphologie von Zivilisationen ausweitet — Wests superlineares Wachstum als Stoffwechsel des Organismus." }
+]
 
 [extra.infobox]
-type = "Hypothetical physical-cosmological law; framework concept articulating the relationship between mass-or-scale and the experience of time"
-basic_premise = "The subjective experience of time scales with mass and complexity; a larger being experiences each subjective moment as encompassing a substantially longer interval of absolute time than a smaller being's subjective moment encompasses"
-formal_articulation = "Subjective time interval per unit absolute time scales inversely with mass-or-scale; equivalently, the absolute time interval encompassed by a unit subjective time interval scales positively with mass-or-scale"
-domain = "All scales of cosmological organization, from subatomic-scale beings through human scale through planetary-scale beings (planets, the Earth) through galactic-scale and beyond"
-mathematical_status = "Not yet formally mathematized within the corpus; principal articulation through Yahweh's source-material statement and corpus interpretive elaboration"
-relationship_to_relativity = "Substantial structural overlap with general-relativistic gravitational time dilation; the corpus's framework extends substantially beyond what mainstream relativity has established, particularly regarding subjective time and biological-cognitive scales"
-relationship_to_biology = "Substantial structural overlap with mainstream allometric scaling laws (Kleiber's law for metabolism, lifespan scaling, heart-rate scaling) and biological time perception scholarship (Eagleman, Wittmann)"
-distinguished_from = "Special-relativistic time dilation (velocity-based, not mass-based); biological time perception alone (a subset rather than the full framework); fractal cosmology generally (the spatial-self-similarity dimension distinct from the temporal-scaling dimension); the broader Infinity framework (the precondition rather than the law itself)"
-status_in_source_material = "Partial; the Raëlian source material provides explicit articulation in a single passage, with the corpus's broader development extending substantially through interpretive integration with the Cosmic Chain framework, the Infinity framework, and various mainstream-science engagements"
-principal_text = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), 'Neither God nor Soul'; various Wheel of Heaven corpus passages applying the framework"
+type = "Hypothetisches physikalisch-kosmologisches Gesetz; Begriff des Rahmens, der das Verhältnis zwischen Masse bzw. Größenordnung und dem Erleben der Zeit beschreibt"
+basic_premise = "Das subjektive Zeiterleben skaliert mit Masse und Komplexität; ein größeres Wesen erlebt jeden subjektiven Augenblick als ein wesentlich längeres Intervall absoluter Zeit umfassend als der subjektive Augenblick eines kleineren Wesens"
+formal_articulation = "Das subjektive Zeitintervall pro Einheit absoluter Zeit skaliert umgekehrt mit Masse bzw. Größenordnung; gleichbedeutend skaliert das von einer Einheit subjektiver Zeit umfasste absolute Zeitintervall positiv mit Masse bzw. Größenordnung"
+domain = "Alle Größenordnungen kosmologischer Organisation, von Wesen auf subatomarer Skala über die menschliche Skala bis zu Wesen planetarer Größenordnung (Planeten, die Erde), galaktischer Größenordnung und darüber hinaus"
+mathematical_status = "Innerhalb des Korpus noch nicht formal mathematisiert; maßgebliche Ausformulierung durch Jahwes Aussage im Quellenmaterial und die deutende Ausarbeitung des Korpus"
+relationship_to_relativity = "Anderes Phänomen: die gravitative Zeitdilatation der Allgemeinen Relativitätstheorie betrifft physikalische Uhrengänge, nicht die subjektive Zeit, und stützt die Massenwirkung nicht"
+relationship_to_biology = "Andere Größen: allometrische Skalierungsgesetze (Kleibers Gesetz für den Stoffwechsel, Skalierung der Lebensdauer, Skalierung der Herzfrequenz) und die Forschung zur Zeitwahrnehmung (Eagleman, Wittmann) messen andere Dinge und stützen die Massenwirkung nicht"
+distinguished_from = "Spezielle relativistische Zeitdilatation (geschwindigkeits-, nicht massebasiert); biologische Zeitwahrnehmung allein (eine Teilmenge statt des vollständigen Rahmens); Fraktale Kosmologie allgemein (die Dimension räumlicher Selbstähnlichkeit, getrennt von der Dimension zeitlicher Skalierung); der umfassendere Rahmen der Unendlichkeit (die Voraussetzung, nicht das Gesetz selbst)"
+status_in_source_material = "Teilweise; das raëlische Quellenmaterial bietet eine ausdrückliche Ausformulierung in einer einzigen Passage, während die weitere Entfaltung im Korpus wesentlich durch deutende Verbindung mit dem Rahmen der Kosmischen Kette, dem Rahmen der Unendlichkeit und verschiedenen Auseinandersetzungen mit der Mainstream-Wissenschaft erfolgt"
+principal_text = "*Außerirdische brachten mich auf ihren Planeten* (Vorilhon/Raël, 1975), ‚Weder Gott noch Seele‘; verschiedene Passagen des Wheel-of-Heaven-Korpus, die den Rahmen anwenden"
 +++
 
 The **Mass Effect**, also called the **Law of Masstime**, is the framework concept developed in the Wheel of Heaven corpus to articulate the relationship between mass-or-scale and the experience of time across the infinite hierarchy of cosmological scales. {% claim(type="speculative", id="woh-claim-0051") %}The framework holds that the subjective experience of time scales with mass and complexity: **a larger and more massive being experiences each subjective moment as encompassing a substantially longer interval of absolute time than a smaller being's subjective moment encompasses**.{% end %} Equivalently, smaller beings experience proportionally more subjective time per unit absolute time than larger beings — a eukaryotic cell, an ant, a human, an elephant, the Earth itself, and the gigantic being of whom the sun is an atom each operate within their own characteristic subjective-time scale, with the scale ratios reflecting the mass-or-complexity ratios across the broader cosmological hierarchy. The law's principal source-material warrant is the Yahweh-delivered passage in *Extra-Terrestrials Took Me to Their Planet* (1975), which establishes the framework in the broader cosmological context and connects it explicitly to the Infinity framework and the Cosmic Chain framework.

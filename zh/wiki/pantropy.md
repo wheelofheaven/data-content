@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,17 +15,25 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
 alternative_names = ["Human adaptation", "Biological space adaptation", "Human pantropic engineering", "Adapted Men (Blish's term)", "Volitional evolution (NASA-affiliated literature)"]
+see_also = [
+    { title = "地球化(terraforming)", path = "wiki/terraforming", description = "改造环境而非改造生物的互补途径。" },
+    { title = "合成生物学", path = "wiki/synthetic-biology", description = "赋予向异演化当代技术可行性的工程学科。" },
+    { title = "合成基因组学", path = "wiki/synthetic-genomics", description = "人类向异演化改造所依托的基因组构建工具包。" },
+    { title = "创世记", path = "wiki/genesis", description = "被解读为保存了人类按耶洛因形象进行向异演化之起源的创世记载。" },
+    { title = "伊甸", path = "wiki/eden", description = "耶洛因对人类进行向异演化操作的实验室场景。" },
+    { title = "生命工程", path = "wiki/life-engineering", description = "框架将人类合成置于其中来解读的更广生命设计纲领。" },
+]
 
 [extra.infobox]
-type = "Speculative-then-engineering practice of modifying organisms (particularly humans) to survive in otherwise inhospitable environments"
-coined_by = "James Blish (1921–1975), American science fiction writer, in stories published 1952–1957 collected as *The Seedling Stars* (Gnome Press, 1957)"
-etymology = "Greek *pan* (\"all\") + *tropē* (\"turning, changing\"), giving the literal sense \"turning everything\" or \"transformation to fit anywhere\""
-contrast_concept = "[Terraforming](../terraforming/) — modifying environments to fit organisms — coined in the same period (Jack Williamson, *Astounding* 1942)"
-contemporary_research = "Christopher Mason's research at Weill Cornell on tardigrade-DNA-modified human cells (2016 onward); the broader NASA-affiliated literature on \"volitional evolution\" for deep-space radiation resistance; the contemporary discussion in *Acta Astronautica*, *Astrobiology*, *Oncotarget*, *Frontiers in Physiology*, and other space-medicine journals"
-principal_target_environments = "Mars (low gravity, thin CO₂ atmosphere, high radiation); deep-space transit (galactic cosmic radiation, microgravity); the Moon (lower gravity, no atmosphere, lunar dust hazards); Europa, Enceladus, and other ocean-worlds (subsurface aqueous environments); broader exoplanetary contexts"
-principal_modification_targets = "Radiation tolerance (tardigrade Dsup protein, melanin pathways, DNA repair enhancement); bone-density preservation under low gravity; muscular preservation; cardiovascular adaptation; thermal tolerance (extremophile-derived antifreeze proteins, thermophilic enzymes); atmospheric tolerance (alternative oxygen carriers, CO₂ tolerance)"
-framework_position = "Humanity itself is read by the framework as the product of an Elohim pantropic engineering operation — humans constructed in the Elohim's biological image but adapted for Earth's specific conditions, with Genesis 1:26–27 preserving operational content about this pantropic origin; the corpus's broader work on synthetic biology, synthetic genomics, and life engineering provides the technical context for the operational reading"
-relationship_to_terraforming = "Pantropy and terraforming are the two principal approaches to extraterrestrial habitation: pantropy modifies organisms, terraforming modifies environments; the framework reads the Earth project as having involved both — Yom 3 continental engineering as a terraforming operation, Yamim 5–6 biological synthesis as a pantropy operation"
+type = "先为设想、后成工程的实践：改造生物（尤其是人类），使其能在原本不宜生存的环境中存活"
+coined_by = "詹姆斯·布利什（1921–1975），美国科幻作家，见于 1952–1957 年发表、后结集为 *The Seedling Stars*（Gnome Press，1957）的小说"
+etymology = "希腊语 *pan*（「全部」）+ *tropē*（「转变、变化」），字面义为「转变一切」或「为适应任何地方而改变」"
+contrast_concept = "[地球化](../terraforming/)——改造环境以适应生物——同一时期创造的词（杰克·威廉森，*Astounding* 1942）"
+contemporary_research = "克里斯托弗·梅森在威尔康奈尔医学院关于以缓步动物 DNA 改造人类细胞的研究（2016 年起）；更广的 NASA 相关文献中关于为抵御深空辐射而进行「意志演化」的讨论；*Acta Astronautica*、*Astrobiology*、*Oncotarget*、*Frontiers in Physiology* 等航天医学期刊中的当代讨论"
+principal_target_environments = "火星（低重力、稀薄的二氧化碳大气、高辐射）；深空航行（银河宇宙辐射、微重力）；月球（较低重力、无大气、月尘危害）；木卫二、土卫二及其他海洋世界（地下水环境）；更广的系外行星环境"
+principal_modification_targets = "辐射耐受（缓步动物 Dsup 蛋白、黑色素通路、DNA 修复增强）；低重力下的骨密度维持；肌肉维持；心血管适应；温度耐受（源自极端微生物的抗冻蛋白、嗜热酶）；大气耐受（替代性氧载体、二氧化碳耐受）"
+framework_position = "本框架把人类本身读作耶洛因一次向异演化工程作业的产物——人类按耶洛因的生物形象构建，却针对地球的具体条件作了适应，创世记 1:26–27 保存了关于这一向异演化起源的作业性内容；文集在合成生物学、合成基因组学与生命工程方面更广的工作为这一作业性解读提供了技术背景"
+relationship_to_terraforming = "向异演化与地球化是在地外居住的两种主要途径：向异演化改造生物，地球化改造环境；本框架认为地球计划两者兼有——第 3 个 Yom 的大陆工程是一次地球化作业，第 5–6 个 Yamim 的生物合成是一次向异演化作业"
 +++
 
 **Pantropy** is the hypothetical practice of modifying organisms — particularly humans — through **genetic engineering** or other biotechnological intervention so that they can survive and reproduce in environments otherwise inhospitable to them. The concept stands in deliberate contrast and complementarity to **terraforming**: where terraforming modifies environments to fit organisms (raising atmospheric oxygen on Mars, melting Martian polar caps, introducing photosynthetic life), pantropy modifies organisms to fit environments (engineering Mars-tolerant humans rather than Earth-tolerant Mars). The term combines the Greek roots **πᾶν** (*pan*, "all") and **τροπή** (*tropē*, "turning, changing"), giving the literal sense of "turning everything" or "transformation to fit anywhere" — a name capturing the radical breadth of biological modification the concept proposes.

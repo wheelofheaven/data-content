@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,27 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Earth-as-organism framework", "the planetary-organism claim", "the cosmic-biology framework", "the universal-aliveness principle", "Living Cosmos", "the biological correlate of Infinity"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "거시생물학", path = "wiki/macrobiology", description = "한 규모 위의 생명 체계 — 유기체로서의 인류 — 를 연구하는 분과로, 살아 있는 지구의 주장을 행성에서 종으로 확장합니다." },
+    { title = "무한", path = "wiki/infinity", description = "살아 있는 지구의 주장이 그 위에 서 있는 토대 우주론." },
+    { title = "프랙탈 우주론", path = "wiki/fractal-cosmology", description = "각 규모가 살아 있는 존재들을 품는 공간적 자기유사성." },
+    { title = "매스 이펙트", path = "wiki/mass-effect", description = "지구의 생명이 왜 인간에게 지각되지 않는지를 설명하는 시간 규모화." },
+    { title = "우주의 사슬", path = "wiki/cosmic-chain", description = "우주적 시간에 걸쳐 창조되고 또 창조하는 문명들의 중첩된 계보." },
+    { title = "네 단계", path = "wiki/four-levels", description = "살아 있는 우주라는 배경이 토대를 제공하는 윤리 규칙." },
+    { title = "라엘 운동 무한의 상징", path = "wiki/raelian-symbol-of-infinity", description = "무한히 큰 것과 무한히 작은 것을 담아내는 문장." },
+]
 
 [extra.infobox]
-type = "Foundational cosmological framework; biological correlate of the broader Infinity-Fractal-Mass-Effect cluster"
-basic_premise = "The Earth and all other planets are literal living beings, with biological organism-status that operates at substantial cosmic scales; the broader cosmos is biologically alive across all scales of organization"
-core_image = "'The Earth is alive like all the planets, and for the small growth that is humanity, it is difficult to notice this because of the time lag due to the enormous difference in mass, which prevents you from perceiving its palpitations' (Yahweh in *Extra-Terrestrials Took Me to Their Planet*)"
-position_in_framework = "Biological correlate of the broader Infinity-Fractal-Cosmology-Mass-Effect cluster; the framework that articulates the biological-organism content within the broader cosmological structure"
-relationship_to_mass_effect = "The Mass Effect framework explains why Earth's organism-status is not directly perceivable from human-scale experience: the substantial mass-and-time-scale differential between Earth and humans produces time-perception incompatibilities analogous to the differential between humans and our own atomic constituents"
-relationship_to_fractal_cosmology = "The Fractal Cosmology framework establishes the spatial-self-similar structure across cosmic scales within which Living Earth operates; each scale of cosmic organization contains living beings whose constituents are themselves living beings at smaller scales, with the recursion continuing indefinitely"
-relationship_to_gaia_hypothesis = "Substantial structural correspondence with James Lovelock's Gaia hypothesis (1972 onward), with the Raëlian articulation predating Lovelock's principal published work; the framework's specific position aligns with the 'strong Gaia' formulation while extending substantially beyond Lovelock's specific claims through the broader cosmological-organism extension"
-distinguished_from = "The metaphorical 'living Earth' content of various contemporary environmental-philosophical frameworks (the corpus's framework asserts literal organism-status); mainstream Gaia hypothesis weak formulation (the framework's position aligns with the strong formulation); panpsychism (the framework's position is biological-organism rather than consciousness-fundamental); the conventional anthropomorphic-animism content of various religious traditions (the framework's position is biological-scientific rather than religious-anthropomorphic)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage establishes the framework's specific content with explicit articulation"
-principal_text = "*Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' section (the principal Yahweh passage); *The Book Which Tells the Truth* (1974), various passages establishing the broader infinity-and-everything-is-in-everything framework; the Wheel of Heaven corpus's outro Section II"
+type = "기초 우주론 틀. 무한–프랙탈 우주론–매스 이펙트 군의 생물학적 갈래"
+basic_premise = "지구와 다른 모든 행성은 문자 그대로 살아 있는 존재이며, 더 넓은 우주는 모든 조직 규모에서 살아 있습니다"
+core_image = "'지구는 모든 행성처럼 살아 있으며, 인류라는 작은 성장물에게는 막대한 질량 차이로 인한 시간의 어긋남 때문에 이를 알아차리기 어렵습니다. 그 어긋남이 여러분이 지구의 고동을 지각하지 못하게 합니다'(*외계인들이 나를 그들의 행성으로 데려갔다*에서 야훼)"
+position_in_framework = "우주론 군의 생물학적 갈래: 무한, 프랙탈 우주론, 매스 이펙트가 구조적으로 기술하는 것을 살아 있는 지구는 문자 그대로 살아 있는 것으로 읽습니다"
+relationship_to_mass_effect = "매스 이펙트는 우리가 지구의 생명을 지각할 수 없는 이유를 설명합니다. 지구와 인간 사이의 질량과 시간의 차이는 우리와 우리 몸의 원자 사이의 차이와 같습니다"
+relationship_to_fractal_cosmology = "프랙탈 우주론은 중첩된 자기 유사 구조를 제공합니다 — 우주의 각 규모에는 살아 있는 존재들이 있고, 그들의 구성 요소 또한 끝없이 살아 있는 존재들입니다"
+relationship_to_gaia_hypothesis = "러브록의 가이아 가설과 구조적으로 가깝고, 라엘의 진술은 그의 초기 작업과 동시대입니다. 그러나 살아 있는 지구는 문자 그대로의 유기체 지위(강한 가이아)를 주장하며, 이를 모든 행성과 모든 규모로 확장합니다"
+distinguished_from = "은유적 '살아 있는 지구' 수사(여기서의 주장은 문자 그대로임), 약한 가이아(문자 그대로의 유기체가 아니라 시스템 수준의 자기 조절), 범심론(생물학적이 아니라 의식이 근본적), 의인화된 대지 여신 종교(주장은 신앙적이 아니라 생물학적임)"
+status_in_source_material = "*Extra-Terrestrials Took Me to Their Planet*(1975)의 'Neither God nor Soul' 절에서 야훼가 직접 진술합니다"
+principal_text = "*Extra-Terrestrials Took Me to Their Planet*(1975), 'Neither God nor Soul'. *The Book Which Tells the Truth*(1974), 'Mankind: A Disease of the Universe'"
 +++
 
 **Living Earth** is the Wheel of Heaven corpus's name for a claim the Raëlian

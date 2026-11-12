@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,17 +15,25 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["plurality of the gods", "plurality of the Elohim", "the multiple-creators reading", "biblical polytheism", "Hebrew Bible plurality content", "the divine council reading", "the Elohim plural reading"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "耶洛因", path = "wiki/elohim", description = "处于复数性解读核心的希伯来语复数名词。" },
+    { title = "耶和华", path = "wiki/yahweh", description = "一位具体的 Eloha，有别于该复数所指称的耶洛因集体。" },
+    { title = "永恒者议会", path = "wiki/council-of-the-eternals", description = "为圣经中的复数提供政治所指的治理机构。" },
+    { title = "守望者", path = "wiki/watchers", description = "这一解读所援引的第二个圣经中的复数存在者。" },
+    { title = "撒但", path = "wiki/satan", description = "一位被作政治性解读、而非视为形而上之恶的议会人物。" },
+    { title = "在元年苏醒的书卷", path = "articles/the-scrolls-that-woke-in-year-one", description = "4QDeut(j) 保存了“耶洛因之子”，而马所拉文本则被改为“以色列之子”——手稿中留下了复数性的痕迹。" },
+]
 
 [extra.infobox]
-type = "Foundational interpretive concept; the principal corpus position on the substantial multiple-divine-beings content of the Hebrew Bible and the broader cross-cultural religious-mythological traditions"
-basic_premise = "The Hebrew Bible and the broader religious-mythological traditions register substantial multiple-divine-beings content rather than substantial singular-supreme-deity content, with the substantial plurality content preserving cultural memory of an actual multiple-creator-civilization (the Elohim)"
-principal_evidence = "The Hebrew word *Elohim* is plural in form; substantial plural verbs (*na'aseh adam* 'let us make man' Genesis 1:26); substantial plural possessives (*be-tzalmenu* 'in our image'); substantial plural self-addresses (*ke-achad mimenu* 'as one of us' Genesis 3:22); substantial *benei ha-Elohim* 'sons of the Elohim' references (Genesis 6, Job 1-2, Psalm 82); substantial divine-council scenes (1 Kings 22, Job 1-2, Isaiah 6, Psalm 82)"
-the_first_mistake = "The substantial Yahweh-articulated framework reading: 'It replaced the term Elohim, which refers to the creators, with a singular term God, whereas in fact Elohim in Hebrew is the plural of Eloha. In this way, the Church transformed the creators into a single incomprehensible God.' Registers the conventional Christian-tradition singular-God reading as the principal translation-and-theological mistake"
-relationship_to_cosmic_chain = "The plurality content connects substantively to the broader Cosmic Chain framework — the substantial articulation that humans will themselves become creators, just as the creators were created. Plurality of Gods is therefore not merely a static descriptive position about how many divine beings exist, but the substantial dynamic position that registers humans as substantial future participants in the broader chain of creator-creature-creator development"
-mormon_lds_alignment = "Substantial structural alignment with the Mormon Latter-day Saints theological tradition, particularly through Joseph Smith's King Follett discourse (1844), Lorenzo Snow's couplet 'as man now is, God once was; as God now is, man may be,' the Mormon plural-Elohim doctrine, and the Mormon exaltation doctrine; the Mormon position represents the closest mainstream-religious-tradition convergence the framework has at the Plurality of Gods specific dimension"
-distinguished_from = "Conventional Christian-tradition monotheism (the principal interpretive contrast); conventional polytheistic religious traditions (which operate within distinct cosmological framings); cosmic pluralism (a substantively different concept registering the philosophical plurality of worlds); henotheism (which preserves singular-supreme-deity priority while acknowledging other deities); modalistic monarchianism (which registers multiple manifestations of singular underlying deity); various pantheistic and panentheistic frameworks"
-status_in_source_material = "Substantially documented; the principal Yahweh passages establishing the framework's specific content are distributed across multiple corpus sources, with substantial subsequent corpus development through the timeline.epub Hebrew exegesis"
-principal_text = "*Message from the Designers* (the principal Yahweh-articulated framework reading on the Church's first mistake); *The Book Which Tells the Truth* (1974, the substantial foundational Genesis 1 articulation); *timeline.epub* Age of Capricorn through Age of Pisces chapters (the substantial subsequent corpus articulation with detailed Hebrew exegesis); various Sendy works (substantial complementary content)"
+type = "基础性诠释概念；文集的立场是：希伯来圣经与更广的神话传统描述的是多位神圣存在，而非一位至高神"
+basic_premise = "希伯来圣经与更广的宗教—神话记录描述的是许多神圣存在，而非一位至高的神；本框架将这种多元性解读为对真实存在的复数创造者（耶洛因）的保存记忆"
+principal_evidence = "*Elohim* 在形式上是复数；复数动词（*na'aseh adam*，「我们要造人」，创世记 1:26）；复数所有格（*be-tzalmenu*，「照着我们的形像」）；复数自称（*ke-achad mimenu*，「与我们相似」，创世记 3:22）；*benei ha-Elohim*（「耶洛因之子」，创世记 6、约伯记 1-2、诗篇 82）；以及列王纪上 22、约伯记 1-2、以赛亚书 6 与诗篇 82 中的神圣议会场景"
+the_first_mistake = "耶和华在雷尔派源材料中的表述：「它把指称创造者们的词“耶洛因”换成了单数的“神”，而实际上耶洛因在希伯来文中是 Eloha 的复数。教会就这样把创造者们变成了一位单一的、不可理解的神。」"
+relationship_to_cosmic_chain = "这种多元性既是描述性的，也是动态的：通过宇宙之链，人类被解读为自身未来也将成为创造者——「被创造者将成为创造者，如同创造者们曾被创造」——因此这一解读不仅说明有多少神圣存在，也说明人类可能成为什么"
+mormon_lds_alignment = "与摩门教（后期圣徒）神学在结构上高度趋同——约瑟·斯密的金·福列特讲道（1844）、罗伦佐·斯诺的对句（「人现在怎样，神曾经也是那样；神现在怎样，人可能成为那样」）、复数耶洛因与升华的教义——是这一解读在主流宗教中最接近的平行"
+distinguished_from = "传统的基督教与犹太教一神论；传统的多神论；宇宙多元论（有居民世界的多元性，是另一概念）；单一主神论（一位至高神凌驾于其他神之上）；形态论神格唯一论（一位神以多种形态显现）；泛神论"
+status_in_source_material = "记载充分；关键的耶和华段落分布于各部雷尔派源著作中，文集的纪年材料中有详细的希伯来语释经"
+principal_text = "《来自设计者的信息》（关于教会把 *Elohim* 译为单数的「第一个错误」段落）；《讲述真相之书》（1974，对创世记第 1 章的阐述）；文集纪年各章（摩羯座至双鱼座）的详细希伯来语释经；让·桑迪的著作作为补充材料"
 +++
 
 **Plurality of Gods** is the Wheel of Heaven reading that the

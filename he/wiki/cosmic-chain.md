@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -20,12 +20,13 @@ claim_type = "framework"
 alternative_names = ["השרשרת הקוסמית", "שרשרת הבריאה", "השרשרת הקוסמית של הבריאה", "התהליך הקוסמי החוזר", "המחזור היצירתי הקוסמי", "מחזור הבוראים"]
 timeline = ["pre-creation", "aries", "pisces", "aquarius", "post-aquarius"]
 see_also = [
-    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "שלב ההערכה הספציפי בתוך השרשרת הקוסמית הרחבה — הערכת ההסמכה לירושה." },
-    { title = "Elohim", path = "wiki/elohim", description = "תרבות הבוראים שגילתה, במהלך עידן הטלה, שהיא עצמה נבראה." },
-    { title = "Apocalypse", path = "wiki/apocalypse", description = "הערכת־הירושה של עידן הדלי — שלב השרשרת בן־ימינו עבור אנושות כדור הארץ." },
-    { title = "Embassy", path = "wiki/embassy", description = "המקום המיועד לאירוע הירושה שבו תקבל הארץ את הידע המצטבר של הברית." },
-    { title = "Doubled Signature", path = "wiki/doubled-signature", description = "עיקרון פרשני קרוב הפועל בתוך מסגרת השרשרת הקוסמית הרחבה." },
-    { title = "Genesis", path = "wiki/genesis", description = "סיפור הבריאה הנקרא כמופע ספציפי אחד של דפוס הבריאה החוזר של השרשרת." },
+    { title = "מקרוביולוגיה", path = "wiki/macrobiology", description = "האנושות הנקראת כאורגניזם בקנה מידה אחד מעלה, המתפשט לאורך שרשרת הציוויליזציות הנבראות והבוראות." },
+    { title = "תחרות קוסמית", path = "wiki/cosmic-competition", description = "שלב ההערכה הספציפי בתוך השרשרת הקוסמית הרחבה — הערכת ההסמכה לירושה." },
+    { title = "אלוהים", path = "wiki/elohim", description = "תרבות הבוראים שגילתה, במהלך עידן הטלה, שהיא עצמה נבראה." },
+    { title = "אפוקליפסה", path = "wiki/apocalypse", description = "הערכת־הירושה של עידן הדלי — שלב השרשרת בן־ימינו עבור אנושות כדור הארץ." },
+    { title = "השגרירות", path = "wiki/embassy", description = "המקום המיועד לאירוע הירושה שבו תקבל הארץ את הידע המצטבר של הברית." },
+    { title = "החתימה הכפולה", path = "wiki/doubled-signature", description = "עיקרון פרשני קרוב הפועל בתוך מסגרת השרשרת הקוסמית הרחבה." },
+    { title = "בראשית", path = "wiki/genesis", description = "סיפור הבריאה הנקרא כמופע ספציפי אחד של דפוס הבריאה החוזר של השרשרת." },
 ]
 
 footnotes = [

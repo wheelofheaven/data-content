@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,21 +15,28 @@ editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
-alternative_names = ["Eliyyahu", "Eliyahu", "Elias", "Ilyas", "Elijah the Tishbite", "Elijah the Messenger"]
+alternative_names = ["Eliyyahu", "Eliyahu", "Élie", "Ilyas", "Élie le Tishbite", "Élie le Messager"]
+see_also = [
+    { title = "Moïse", path = "wiki/moses", description = "La figure antérieure de la théophanie de l'Horeb dont le précédent de contact est délibérément repris par le récit d'Élie." },
+    { title = "Ézéchiel", path = "wiki/ezekiel", description = "Dont la vision de la merkavah est le seul récit d'engin aérien de la Bible hébraïque plus explicite que le char d'Élie." },
+    { title = "Liste de rencontres rapprochées", path = "wiki/list-of-close-encounters", description = "Catalogue l'ascension sur le char de feu sous « Enlèvement d'Élie, v. 850 av. J.-C. »." },
+    { title = "Yahvé", path = "wiki/yahweh", description = "Le président des Élohim dont le nom théophore d'Élie confesse le nom contre le culte de Baal." },
+    { title = "Élohim", path = "wiki/elohim", description = "La civilisation dont le cadre lit le contact opérationnel derrière les épisodes du char et de la théophanie d'Élie." },
+]
 
 [extra.infobox]
-type = "Hebrew prophet"
+type = "Prophète hébreu"
 hebrew = "<span class=\"hebrew\">אֵלִיָּהוּ</span> *Eliyyahu*"
-period = "Mid-9th century BCE, during the reign of King Ahab of Israel (c. 874–853 BCE)"
-precessional_age = "Age of Aries (the corpus's reckoning places the Mosaic and Hebrew prophetic period within the Age of Aries, c. 2065 BCE through 95 BCE)"
-homeland = "Tishbe in Gilead (east of the Jordan River, in the territory of the half-tribe of Manasseh)"
-principal_biblical_sources = "1 Kings 17–19, 21; 2 Kings 1–2"
-key_episodes = "The drought prophecy against Ahab; the brook Cherith; the widow of Zarephath (raising of her son); Mount Carmel contest with the prophets of Baal; Horeb theophany (\"still small voice\"); Naboth's vineyard; the destruction of the captains and their fifties; the translation in the chariot of fire; the transfer of the mantle to Elisha"
-ascension = "2 Kings 2:11 — taken up to heaven in a whirlwind, with a chariot of fire and horses of fire separating him from Elisha"
-return_prophecy = "Malachi 4:5 — \"I will send you the prophet Elijah before the great and terrible day of YHWH\""
-new_testament_identification = "Matthew 11:14, 17:10–13 — John the Baptist identified as \"Elijah who is to come\"; Matthew 17:1–8 — Elijah appears with Moses at the Transfiguration"
-later_tradition = "Cup of Elijah at the Passover seder; chair of Elijah at every brit milah; identified with al-Khidr in Islamic tradition; the Carmelite Catholic order traces its origin to the prophets of Mount Carmel"
-framework_significance = "Multiple operational contact events documented in the Elijah narratives, including the chariot-of-fire translation (the most explicit aerial-craft account in the Hebrew Bible after Ezekiel 1), the Horeb theophany, the Mount Carmel intervention, and the angel-feeding episode at Horeb"
+period = "Milieu du IXe siècle AEC, sous le règne du roi Achab d'Israël (v. 874–853 AEC)"
+precessional_age = "Ère du Bélier (le comput du corpus place la période mosaïque et la période prophétique hébraïque dans l'Ère du Bélier, v. 2065 AEC à 95 AEC)"
+homeland = "Tishbé en Galaad (à l'est du Jourdain, sur le territoire de la demi-tribu de Manassé)"
+principal_biblical_sources = "1 Rois 17–19, 21 ; 2 Rois 1–2"
+key_episodes = "La prophétie de la sécheresse contre Achab ; le torrent de Kerith ; la veuve de Sarepta (résurrection de son fils) ; le défi du mont Carmel contre les prophètes de Baal ; la théophanie de l'Horeb (« murmure doux et léger ») ; la vigne de Naboth ; la destruction des chefs de cinquante et de leurs hommes ; l'enlèvement dans le char de feu ; la transmission du manteau à Élisée"
+ascension = "2 Rois 2:11 — enlevé au ciel dans un tourbillon, un char de feu et des chevaux de feu le séparant d'Élisée"
+return_prophecy = "Malachie 4:5 — « Je vous enverrai Élie, le prophète, avant que vienne le jour de YHWH, grand et redoutable »"
+new_testament_identification = "Matthieu 11:14, 17:10–13 — Jean le Baptiste identifié comme « l'Élie qui doit venir » ; Matthieu 17:1–8 — Élie apparaît avec Moïse lors de la Transfiguration"
+later_tradition = "La coupe d'Élie au séder de Pessah ; le siège d'Élie à chaque brit milah ; identifié à al-Khidr dans la tradition islamique ; l'ordre catholique des Carmes fait remonter son origine aux prophètes du mont Carmel"
+framework_significance = "Plusieurs événements de contact opérationnel documentés dans les récits d'Élie, notamment l'enlèvement dans le char de feu (le récit d'engin aérien le plus explicite de la Bible hébraïque après Ézéchiel 1), la théophanie de l'Horeb, l'intervention du mont Carmel et l'épisode de l'ange qui nourrit Élie en route vers l'Horeb"
 +++
 
 **Elijah** (Hebrew <span class="hebrew">אֵלִיָּהוּ</span>, *Eliyyahu*, conventionally Latinised as *Elias*; Arabic *Ilyās*) is one of the most theologically significant prophets of the Hebrew Bible. Active in the northern Kingdom of Israel during the reign of **King Ahab** (c. 874–853 BCE) and his son Ahaziah (c. 853–852 BCE), Elijah is depicted in 1 Kings 17–19 and 21 and in 2 Kings 1–2 as the principal prophetic opponent of Ahab's Tyrian queen **Jezebel** and her promotion of the Baal cult in northern Israel. He is best known for the **Mount Carmel contest** against the prophets of Baal (1 Kings 18), the **Horeb theophany** of the "still small voice" (1 Kings 19), and his **translation into the heavens in a chariot of fire** (2 Kings 2:11) — the latter making Elijah, alongside Enoch (Genesis 5:24), one of only two figures in the Hebrew Bible whom the canonical text describes as having been taken up without experiencing death. Elijah is also the figure whose prophesied return (Malachi 4:5) became central to subsequent Jewish messianic expectation and whom the New Testament Gospels identify with John the Baptist (Matthew 11:14, 17:10–13).

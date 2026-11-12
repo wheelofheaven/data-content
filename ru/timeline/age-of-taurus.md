@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -26,16 +26,16 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Клод Ворильон (Раэль)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Клод Ворильон (Раэль)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
-    { title = "Бытие", author = "Аноним (Еврейская Библия); перевод WoH с огласованного масоретского еврейского текста", date = "ок. VI–V вв. до н. э.", medium = "religious-text", path = "/library/genesis-woh/" },
-    { title = "История, Книга II", author = "Геродот Галикарнасский", date = "ок. 440 до н. э.", medium = "religious-text", description = "Источник сообщения о том, что египетские осведомители рассказали Геродоту, будто пирамиды «невообразимо древние»." },
-    { title = "RETRACTED ARTICLE: A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea", author = "Ted E. Bunch et al.", publication = "Scientific Reports 11, 18632", date = "2021", medium = "academic-paper", url = "https://doi.org/10.1038/s41598-021-97778-3", description = "Отозвана журналом Scientific Reports 24 апреля 2025 г.; сохранена здесь для контроля." },
-    { title = "Retraction Note: A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea", author = "Редакторы Scientific Reports", publication = "Scientific Reports 15, 14291", date = "2025", medium = "article", url = "https://doi.org/10.1038/s41598-025-99265-5", description = "Редакторы заявляют, что утверждения исходной статьи о воздушном взрыве не были достаточно подкреплены данными." },
-    { title = "No mineralogic or geochemical evidence of impact at Tall el-Hammam, a Middle Bronze Age city in the Jordan Valley near the Dead Sea", author = "Steven J. Jaret and R. Scott Harris", publication = "Scientific Reports 12, 5189", date = "2022", medium = "academic-paper", url = "https://doi.org/10.1038/s41598-022-08216-x" },
-    { title = "Misunderstandings about the Tunguska event, shock wave physics, and airbursts have resulted in misinterpretations of evidence at Tall el-Hammam", author = "Mark Boslough and Andy Bruno", publication = "Scientific Reports 15, 13869", date = "2025", medium = "academic-paper", url = "https://doi.org/10.1038/s41598-025-98362-9" },
-    { title = "Redating the Great Sphinx of Giza", author = "Robert M. Schoch", publication = "KMT 3 (2), 52–59", date = "1992", medium = "academic-paper" },
-    { title = "Voices of the Rocks: A Scientist Looks at Catastrophes and Ancient Civilizations", author = "Robert M. Schoch", date = "1999", medium = "nonfiction-book", description = "Книжное изложение аргумента Шоха о водной эрозии Сфинкса, цитируемого в §VII." },
+    { id = "le-livre-qui-dit-la-v-rit" },
+    { id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te" },
+    { id = "genesis" },
+    { id = "histories-book-ii", note = "Источник сообщения о том, что египетские осведомители рассказали Геродоту, будто пирамиды «невообразимо древние»." },
+    { id = "retracted-article-a-tunguska-sized-airburst-destroyed-tall-el-hammam-a-middle-br", note = "Отозвана журналом Scientific Reports 24 апреля 2025 г.; сохранена здесь для контроля." },
+    { id = "retraction-note-a-tunguska-sized-airburst-destroyed-tall-el-hammam-a-middle-bron", note = "Редакторы заявляют, что утверждения исходной статьи о воздушном взрыве не были достаточно подкреплены данными." },
+    { id = "no-mineralogic-or-geochemical-evidence-of-impact-at-tall-el-hammam-a-middle-bron" },
+    { id = "misunderstandings-about-the-tunguska-event-shock-wave-physics-and-airbursts-have" },
+    { id = "redating-the-great-sphinx-of-giza" },
+    { id = "voices-of-the-rocks", note = "Книжное изложение аргумента Шоха о водной эрозии Сфинкса, цитируемого в §VII." },
 ]
 
 [[extra.prev_age]]

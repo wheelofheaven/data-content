@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,20 +15,29 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Precessional Age", "Astrological Age", "Zodiacal Age", "Great Month", "Platonic Month (older Western-philosophical designation)", "Cosmic Age"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Großer Monat", path = "wiki/great-month", description = "Die gleichbedeutende Unterteilung des Großen Jahres von 2.160 Jahren, die ein Weltzeitalter bezeichnet." },
+    { title = "Hamlet's Mill", path = "wiki/hamlets-mill", description = "Die Rekonstruktion von Santillana und von Dechend, der der Rahmen sein präzessionales Modell entnimmt." },
+    { title = "Doppelte Signatur", path = "wiki/doubled-signature", description = "Das Prinzip, dass jedes Zeitalter sowohl auf sein eigenes Zeichen als auch auf sein zodiakales Gegenüber verweist." },
+    { title = "Kosmische Kette", path = "wiki/cosmic-chain", description = "Die Kosmologie der verschachtelten Größenordnungen, in der die präzessionalen Zeitalter geordnet sind." },
+    { title = "Sumerische Königsliste", path = "wiki/sumerian-king-list", description = "Eine antike Herrscherliste, die das Korpus vor der präzessionalen Chronologie liest." },
+    { title = "Genesis", path = "wiki/genesis", description = "Die Schöpfungserzählung, die das Korpus auf die Abfolge der präzessionalen Zeitalter abbildet." },
+    { title = "Die Mühle, die die Zeitalter mahlt", path = "articles/the-mill-that-grinds-the-ages", description = "Die Abfolge der Weltzeitalter, verfolgt durch die Kultsymbole, die sie begleiteten, von Hamlet's Mill bis zum Mazzaroth." }
+]
 
 [extra.infobox]
-type = "Structural-foundational temporal-cosmological framework concept; the principal organizing temporal unit of the corpus narrative"
-duration = "Approximately 2,160 years per age (one-twelfth of the ~25,920-year Great Year cycle)"
-mechanism = "Produced by the precession of Earth's axis — the slow conical wobble of the rotational axis caused principally by gravitational torque on Earth's equatorial bulge from the sun and moon, completing one full cycle every ~25,920 years at a rate of ~50 arcseconds per year"
-zodiacal_basis = "The twelve constellations of the zodiac, against which the vernal equinox sun rises in succession across the precessional cycle; the equinox moves backward (westward) through the zodiac at one sign per ~2,160 years"
-precessional_direction = "Backward through the zodiac (Capricorn → Sagittarius → Scorpio → Libra → Virgo → Leo → Cancer → Gemini → Taurus → Aries → Pisces → Aquarius → back to Capricorn)"
-great_year_total = "12 ages × 2,160 years = 25,920 years (the complete precessional cycle, also called the Platonic Year, Great Year, or *annus magnus*)"
-current_age = "Age of Aquarius (1950 CE corpus boundary; 1946 CE source-anchored opening) running to ~4110 CE"
-corpus_operational_period = "From the Capricorn-age opening at -21,810 to the Aquarian-age present (approximately 22,000 years), spanning twelve full precessional ages and constituting essentially one complete Great Year of the alliance's creation project"
-foundational_scholarship = "Giorgio de Santillana and Hertha von Dechend, *Hamlet's Mill: An Essay on Myth and the Frame of Time* (Gambit, 1969) — the principal scholarly anchor for the corpus's precessional framework"
-distinguished_from = "Mainstream astrology's tropical-zodiac framework (where signs are tied to seasonal positions rather than to actual constellational positions, decoupled from the precessional motion); the New Age movement's broader Aquarian-age engagement (which operates with various boundary-dating conventions and various interpretive emphases); the broader 'astrological age' popular designation (which often conflates precessional and tropical frameworks)"
-status_in_framework = "Foundational; the World Age operates as the principal organizing temporal-cosmological structure of the entire corpus narrative, with all twelve individual age entries (Capricorn through Aquarius) operating as detailed treatments of specific instances within this overarching framework"
-principal_corpus_treatment = "*timeline.epub*, particularly the Preamble's introduction to the precessional framework, the Libra chapter's articulation of the zodiac as engineering tool (Section VI), the Pisces chapter's articulation of the doubled signature principle, and the Aquarius chapter's articulation of the Great Year completion; *Message from the Designers* references to Aquarius opening; Jean Sendy, *L'ère du Verseau* (1970)"
+type = "Das präzessionale Zeitalter – ein Zwölftel des Großen Jahres; die Einheit von ~2.160 Jahren, die der Korpus als Rückgrat seiner Chronologie verwendet"
+duration = "Etwa 2160 Jahre pro Zeitalter (ein Zwölftel des Zyklus des Großen Jahres von ~25.920 Jahren)"
+mechanism = "Hervorgerufen durch die Präzession der Erdachse — das langsame kegelförmige Taumeln der Rotationsachse, verursacht vor allem durch das Gravitationsdrehmoment von Sonne und Mond auf den Äquatorwulst der Erde, das alle ~25.920 Jahre einen vollständigen Zyklus mit einer Rate von ~50 Bogensekunden pro Jahr vollendet"
+zodiacal_basis = "Die zwölf Sternbilder des Tierkreises, vor denen die Sonne zur Frühlings-Tagundnachtgleiche im Verlauf des Präzessionszyklus nacheinander aufgeht; die Tagundnachtgleiche wandert rückwärts (westwärts) durch den Tierkreis, ein Zeichen pro ~2160 Jahre"
+precessional_direction = "Rückwärts durch den Tierkreis (Steinbock → Schütze → Skorpion → Waage → Jungfrau → Löwe → Krebs → Zwillinge → Stier → Widder → Fische → Wassermann → zurück zum Steinbock)"
+great_year_total = "12 Zeitalter × 2160 Jahre = 25.920 Jahre (der vollständige Präzessionszyklus, auch Platonisches Jahr, Großes Jahr oder *annus magnus* genannt)"
+current_age = "Zeitalter des Wassermanns (Grenze des Korpus 1950 n. Chr.; in der Quelle verankerter Beginn 1946 n. Chr.), bis ~4110 n. Chr."
+corpus_operational_period = "Von der Eröffnung des Steinbock-Zeitalters um ~21.810 v. Chr. bis zum heutigen Zeitalter des Wassermanns – rund 22.000 Jahre über zwölf präzessionale Zeitalter, etwa ein volles Großes Jahr des Schöpfungsprojekts der Elohim"
+foundational_scholarship = "Giorgio de Santillana und Hertha von Dechend, *Hamlet's Mill: An Essay on Myth and the Frame of Time* (Gambit, 1969) — der zentrale wissenschaftliche Anker für den präzessionalen Rahmen des Korpus"
+distinguished_from = "Der tropische Tierkreis der gängigen Astrologie (an die Jahreszeiten statt an die tatsächlichen Sternbilder gebundene Zeichen, von der Präzession entkoppelt); das „Wassermannzeitalter“ des New Age (nach verschiedenen Konventionen datiert); und das lose populäre „astrologische Zeitalter“, das oft den tropischen und den präzessionalen Rahmen verwechselt"
+status_in_framework = "Grundlegend; das Weltzeitalter ist die wichtigste chronologische Einheit des Korpus, wobei jedes der zwölf Zeitalter (Steinbock bis Wassermann) in einem eigenen Eintrag behandelt wird"
+principal_corpus_treatment = "*timeline.epub*, besonders die Einführung in den präzessionalen Rahmen in der Präambel, die Darstellung des Tierkreises als Ingenieurswerkzeug im Waage-Kapitel (Abschnitt VI), das Fische-Kapitel zur Doppelten Signatur und das Wassermann-Kapitel zur Vollendung des Großen Jahres; *Message from the Designers* zur Eröffnung des Wassermann-Zeitalters; Jean Sendy, *L'ère du Verseau* (1970)"
 +++
 
 A **World Age** — also called a **Precessional Age**, **Astrological Age**,

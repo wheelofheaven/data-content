@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -23,21 +23,24 @@ timeline = ["gemini"]
 
 see_also = [
     { title = "Ной", path = "/wiki/noah/", description = "Человеческий выживший и патриарх, через которого продолжается послепотопная линия." },
-    { title = "Ноев Ковчег", path = "/wiki/noahs-ark/", description = "Орбитальный аппарат, сохранивший семью Ноя и генетических представителей." },
-    { title = "Ноев Завет", path = "/wiki/noahic-covenant/", description = "Послепотопное политическое урегулирование, учреждённое радужной подписью." },
-    { title = "Альянс", path = "/wiki/the-alliance/", description = "Политическое устройство, основанное Ноевым Заветом." },
+    { title = "Ноев ковчег", path = "/wiki/noahs-ark/", description = "Орбитальный аппарат, сохранивший семью Ноя и генетических представителей." },
+    { title = "Завет с Ноем", path = "/wiki/noahic-covenant/", description = "Послепотопное политическое урегулирование, учреждённое радужной подписью." },
+    { title = "Союз", path = "/wiki/the-alliance/", description = "Политическое устройство, основанное Ноевым Заветом." },
     { title = "Люцифер", path = "/wiki/lucifer/", description = "Фракция, чьё вмешательство сохранило Ноя через операцию ковчега." },
     { title = "Яхве", path = "/wiki/yahweh/", description = "Лидер Совета, на чьём послепотопном голосовании держится обязательство «никогда более»." },
     { title = "Совет Вечных", path = "/wiki/council-of-the-eternals/", description = "Политический орган родной планеты, санкционировавший удар." },
-    { title = "Допотопный мир", path = "/wiki/antediluvian/", description = "Допотопный цивилизационный период, который удар прекратил." },
+    { title = "Допотопный", path = "/wiki/antediluvian/", description = "Допотопный цивилизационный период, который удар прекратил." },
     { title = "Пангея", path = "/wiki/pangaea/", description = "Суперконтинент, чью фрагментацию произвёл удар." },
     { title = "Эдем", path = "/wiki/eden/", description = "Изначальная лаборатория альянса, чью линию продолжила допотопная цивилизация." },
     { title = "Еврейская Библия", path = "/wiki/hebrew-bible/", description = "Главный библейский источник повествования о Потопе." },
     { title = "Бытие", path = "/wiki/genesis/", description = "Библейская книга, содержащая рассказ о Потопе (Бытие 6–9)." },
+    { title = "Атра-хасис", path = "/library/atrahasis-woh/", description = "Вавилонское повествование о потопе, близко параллельное еврейскому рассказу." },
+    { title = "Эпос о Гильгамеше", path = "/library/gilgamesh-woh/", description = "Месопотамский рассказ о потопе на XI таблице." },
     { title = "Содом и Гоморра", path = "/wiki/sodom-and-gomorrah/", description = "Позднейшее аналогичное событие удара, чей механизм структурно схож." },
     { title = "Вавилон", path = "/wiki/babel/", description = "Послепотопный эпизод цивилизационного рассеяния." },
     { title = "Удвоенная подпись", path = "/wiki/doubled-signature/", description = "Корпусный принцип, по которому глобальная традиция о потопе сохраняет лежащую в её основе историческую память." },
     { title = "Теомахия", path = "/wiki/theomachy/", description = "Более широкая рамка космополитического конфликта, в которой действует удар." },
+    { title = "Архидиакон и дракон", path = "articles/the-archdeacon-and-the-dragon", description = "Сближение Уоллиса и канона в понимании Потопа как решения совета." },
 ]
 
 footnotes = [

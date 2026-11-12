@@ -6,28 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["svastika", "sauvastika", "manji (卍)", "Hakenkreuz (Nazi-specific tilted form)", "fylfot", "gammadion", "sun cross", "tetraskelion", "whirling logs (Navajo)"]
+alternative_names = ["svastika", "sauvastika", "manji (卍)", "Hakenkreuz（納粹特有的傾斜形式）", "fylfot", "gammadion", "太陽十字", "tetraskelion", "旋轉之木（納瓦荷）"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "雷爾派無限符號", path = "wiki/raelian-symbol-of-infinity", description = "以卐字為中心元素的複合徽記。" },
+    { title = "大衛之星", path = "wiki/star-of-david", description = "同一複合徽記的另一主要組成部分。" },
+    { title = "無限", path = "wiki/infinity", description = "卐字在其時間性、循環永恆維度上所編碼的更廣泛概念。" },
+    { title = "質量效應", path = "wiki/mass-effect", description = "與卐字「萬物皆循環」之意涵相契合的時間循環框架。" },
+    { title = "宇宙鏈", path = "wiki/cosmic-chain", description = "「頂端成為底端」之解讀所參與的巢狀循環宇宙論。" },
+    { title = "雷爾派", path = "wiki/raelism", description = "其亞洲分支保留以卐字為中心之原始徽記的運動。" },
+    { title = "那座碾磨諸紀元的磨坊", path = "articles/the-mill-that-grinds-the-ages", description = "卐字作為轉動的時代之輪——耶和華將此徽記釋為時間中的無限。" },
+]
 
 [extra.infobox]
-type = "Religious-iconographic symbol; one of the oldest known symbols globally with cross-cultural distribution across virtually all major cultural-religious traditions"
-basic_form = "Cross with four arms bent at right angles, typically rotated 90 degrees between successive arms; principal orientations are right-facing (clockwise, *svastika* proper) and left-facing (counter-clockwise, *sauvastika*)"
-sanskrit_etymology = "*Svastika* (सुस्तिक) from *sv-* (good, well) and *asti* (to be) plus the *-ka* suffix; principal meaning 'well-being,' 'good fortune,' 'auspiciousness'"
-oldest_known_usage = "Approximately 10,000 BCE; Mezin culture (Ukraine), carved-mammoth-ivory bracelet"
-principal_traditional_meanings = "Auspiciousness, good fortune, well-being (Hindu); cyclic cosmic time (Buddhist, Jain); eternity, infinity in time (Raëlian framework); the cycle, the choice between progress and regression (Raëlian-specific framework content)"
-principal_cross_cultural_traditions = "Hindu (svastika), Buddhist (Buddhapada, manji 卍), Jain (ashtamangala), Paleolithic and Neolithic European (Mezin, Cucuteni-Trypillian, Vinča), Bronze Age and Iron Age European (Greek geometric pottery, Etruscan, Roman, Celtic-Germanic-Slavic-Baltic), Mesopotamian, ancient Mediterranean, Native American (Navajo, Hopi), various indigenous traditions"
-position_in_raelian_framework = "Central element of the original Raëlian Symbol of Infinity (1973-present, in use in Asian Raëlian movement branches); modified to galaxy-spiral in Western Raëlian movement branches (1990 modification); represents the temporal dimension of infinity through the cyclic-eternal principle"
-post_1945_situation = "Nazi appropriation (1920-1945) produced substantial cultural-political complications in post-Holocaust European-North American contexts; legal restrictions vary across jurisdictions (Germany StGB §86 prohibits Nazi-specific usage; various other European countries have similar restrictions); various post-1945 reclamation efforts within Hindu-Buddhist diaspora communities have worked toward distinguishing the broader pre-Nazi religious-traditional usage from the specific Nazi appropriation"
-distinguished_from = "The Star of David (the other principal component of the Raëlian Symbol of Infinity, treated under separate entry); the Raëlian Symbol of Infinity as composite emblem (treated under separate entry); the Nazi *Hakenkreuz* specifically (the tilted-clockwise form adopted as NSDAP symbol 1920); the broader cross-cultural sun-cross category (which includes various non-swastika cross-with-arms forms)"
-status_in_source_material = "Substantially documented; the principal Yahweh-delivered passages establish both the symbol's specific Raëlian-framework semantic content and its identification with broader cross-cultural traditional usage"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Watching Over the Chosen People' content (the principal Yahweh passage on the emblem); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Buddhism' / 'Devils' section (the swastika as cycle); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' section (the Bardo Thodol cross-reference)"
+type = "宗教符號；已知最古老的符號之一，跨文化分布於大多數主要宗教傳統"
+basic_form = "四臂以直角彎折的十字，相鄰臂之間通常旋轉 90 度；主要方向為右旋（順時針，即本義的 *svastika*）與左旋（逆時針，*sauvastika*）"
+sanskrit_etymology = "*Svastika*（सुस्तिक），由 *sv-*（好、善）與 *asti*（存在）加上後綴 *-ka* 構成；主要意義為「安康」、「好運」、「吉祥」"
+oldest_known_usage = "約公元前 10,000 年；梅津文化（烏克蘭），雕刻的猛獁象牙手鐲"
+principal_traditional_meanings = "吉祥、好運、安康（印度教）；循環的宇宙時間（佛教、耆那教）；永恆、時間中的無限，以及進步與倒退之間的抉擇（雷爾派框架）"
+principal_cross_cultural_traditions = "印度教（svastika）、佛教（佛足印、卍字 manji）、耆那教（八吉祥）、舊石器與新石器時代的歐洲（梅津、庫庫特尼—特里波里、溫查）、青銅與鐵器時代的歐洲（希臘幾何紋陶器、伊特拉斯坎、羅馬、凱爾特—日耳曼—斯拉夫—波羅的）、美索不達米亞、古代地中海、美洲原住民（納瓦荷、霍皮）、各地原住民傳統"
+position_in_raelian_framework = "原始雷爾派無限符號的核心元素（1973 年至今，亞洲的雷爾派分支仍在使用）；西方分支於 1990 年改為星系旋渦；透過循環—永恆原理代表無限的時間維度"
+post_1945_situation = "納粹的挪用（1920-1945）在大屠殺之後的歐洲與北美造成文化—政治上的複雜問題；法律限制因司法管轄區而異（德國刑法典 §86 禁止納粹特定用法；其他歐洲國家亦有類似法律）；1945 年後印度教—佛教海外社群的重新正名努力，致力於區分納粹之前的宗教用法與納粹的挪用"
+distinguished_from = "大衛之星（此徽記的另一組成部分，另有條目）；作為複合徽記的雷爾派無限符號（另有條目）；納粹的 *Hakenkreuz*（1920 年被納粹黨採用為黨徽的順時針傾斜形式）；更廣泛的太陽十字類別（包括非卐字的帶臂十字形式）"
+status_in_source_material = "文獻充分；由耶和華傳達的段落既確立了此符號在雷爾派框架中的意義，也確立了它與跨文化傳統用法的對應"
+principal_text = "*訴說真相之書*（1974），〈看顧選民〉的內容（耶和華論此徽記的主要段落）；*外星人帶我到他們的行星*（1975），〈佛教〉／〈魔鬼〉一節（卐字作為循環）；*外星人帶我到他們的行星*（1975），〈既無神亦無靈魂〉一節（與《西藏度亡經》的對照）"
 +++
 
 The **swastika** is one of the oldest religious symbols, with archaeological evidence extending back at least 12,000 years to Paleolithic Europe. It is a **cross with four arms bent at right angles**, typically rotated 90 degrees between successive arms, in a right-facing (clockwise, *svastika* proper in Hindu tradition) or left-facing (counter-clockwise, *sauvastika*) orientation. Its cross-cultural reach spans most major traditions: it is a principal auspicious symbol in Hindu tradition (Sanskrit *svastika*, "well-being" or "good fortune"); appears in nearly all Buddhist temples, notably on the Buddhapada (Buddha's footprint) and in the Chinese 卍 (*manji*) form; is one of the eight auspicious symbols (*ashtamangala*) in Jain tradition; and had pre-Nazi use across European, Mesopotamian, Mediterranean, Native American, and other traditions. Its meaning varies by tradition but consistently carries auspicious, protective, and cosmic-cyclic content.

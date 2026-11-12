@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -15,22 +15,32 @@ category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "text"
 alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "the Holy Tongue", "Biblical Hebrew", "Classical Hebrew"]
+see_also = [
+    { title = "המקרא העברי", path = "wiki/hebrew-bible", description = "הקורפוס העיקרי שנשמר בשפה זו ונקרא לשם תוכן המסגרת." },
+    { title = "בראשית", path = "wiki/genesis", description = "סיפור הבריאה שנוסחו העברי נקרא בקורפוס באופן מעשי." },
+    { title = "עדן", path = "wiki/eden", description = "סביבת מעבדת הבריאה שבה, לפי הקריאה, נמסרה השפה לראשונה." },
+    { title = "אדם וחוה", path = "wiki/adam-and-eve", description = "בני האדם הראשונים שלפי הקריאה למדו את שפתם המדוברת של יוצריהם." },
+    { title = "בבל", path = "wiki/babel", description = "אירוע הפיזור הממסגר את התפצלותה של הלשון המקורית שנמסרה." },
+    { title = "גלגל המזלות", path = "wiki/zodiac", description = "חוט המזלות — המזל ששרד ב״מזל טוב״ נקרא דרך מסגרת גלגל המזלות." },
+    { title = "הטחנה הטוחנת את העידנים", path = "articles/the-mill-that-grinds-the-ages", description = "החוט האסטרלי העברי במלואו — מזרות, מזלות, ותחנת הכוכב שהפכה לברכה." },
+    { title = "מזרות", path = "wiki/mazzaroth", description = "הערך הייעודי על אוצר המילים של ״מזל״ ועל הישרדותו ב״מזל טוב״." },
+]
 
 [extra.infobox]
 hebrew_name = "עִבְרִית"
 transliteration = "ʿivrit"
-language_family = "Semitic > Northwest Semitic > Canaanite"
-sister_languages = "Phoenician, Moabite, Ammonite (closest); Aramaic, Arabic, Akkadian, Ugaritic (broader Semitic)"
-earliest_attestation = "Paleo-Hebrew inscriptions, c. 10th century BCE (Gezer calendar; Tel Zayit abecedary)"
-biblical_period = "c. 10th–6th century BCE"
-mishnaic_period = "c. 1st–4th century CE"
-medieval_period = "c. 5th–18th century CE (literary and liturgical use)"
-modern_revival = "late 19th–early 20th century CE"
-script = "Originally Paleo-Hebrew (Phoenician-derived); later 'square script' (Aramaic-derived) from c. 5th century BCE onward"
-speakers = "Approximately 9 million (modern Israel and diaspora); historical usage as liturgical and scholarly language across global Jewish communities"
-date_type = "Historical attestation; framework reading places original transmission in the Age of Leo, c. 11,375 BCE"
-principal_text = "The Hebrew Bible (Tanakh)"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974)"
+language_family = "שמית > שמית צפון־מערבית > כנענית"
+sister_languages = "פיניקית, מואבית, עמונית (הקרובות ביותר); ארמית, ערבית, אכדית, אוגריתית (השמיות במובן הרחב)"
+earliest_attestation = "כתובות בכתב העברי הקדום, בסביבות המאה ה־10 לפנה״ס (לוח גזר; האבג׳ד של תל זית)"
+biblical_period = "בסביבות המאות ה־10–6 לפנה״ס"
+mishnaic_period = "בסביבות המאות ה־1–4 לספירה"
+medieval_period = "בסביבות המאות ה־5–18 לספירה (שימוש ספרותי וליטורגי)"
+modern_revival = "סוף המאה ה־19 – תחילת המאה ה־20 לספירה"
+script = "במקור הכתב העברי הקדום (נגזר מהכתב הפיניקי); מאוחר יותר 'הכתב המרובע' (נגזר מהכתב הארמי) מבסביבות המאה ה־5 לפנה״ס ואילך"
+speakers = "כ־9 מיליון (ישראל של ימינו והתפוצות); שימוש היסטורי כשפת ליטורגיה ולימוד בקהילות היהודיות ברחבי העולם"
+date_type = "תיעוד היסטורי; קריאת המסגרת ממקמת את ההעברה המקורית בעידן האריה, בסביבות 11,375 לפנה״ס"
+principal_text = "המקרא העברי (תנ״ך)"
+principal_framework_source = "*הספר המגלה את האמת* (וורילון/ראל, 1974)"
 +++
 
 **Hebrew** (<span class="hebrew">עִבְרִית</span>, *ʿivrit*) is a Semitic language, originally the spoken and scriptural language of the ancient Israelites, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in which it survived primarily as a liturgical and scholarly language — the official language of the modern State of Israel. It belongs to the Canaanite branch of the Northwest Semitic subfamily and is closely related to Phoenician, Moabite, and Ammonite, with broader cognate relationships across the Semitic family to Aramaic, Arabic, Akkadian, Ugaritic, and the South Semitic languages. Within Jewish tradition, Hebrew is also called *Lashon ha-Kodesh* (<span class="hebrew">לְשׁוֹן הַקֹּדֶשׁ</span>, "the holy tongue"), reflecting its status as the language of scripture and liturgy across the long centuries of diaspora Jewish life.

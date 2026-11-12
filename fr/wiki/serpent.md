@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -26,6 +26,8 @@ see_also = [
     { title = "Yahvé", path = "wiki/yahweh", description = "Le chef de l'équipe Israël qui prononça le verdict post-divulgation." },
     { title = "Satan", path = "wiki/satan", description = "Une figure Élohim distincte — politiquement opposée au Serpent/Lucifer, confondue avec lui seulement dans la tradition ultérieure." },
     { title = "Arbre de Vie", path = "wiki/tree-of-life", description = "La technologie de longévité gardée après l'expulsion." },
+    { title = "L'archidiacre et le dragon", path = "articles/the-archdeacon-and-the-dragon", description = "La taxinomie à quatre figures Serpent/Lucifer/Satan/Yahvé est construite à partir de la lecture de cette entrée en termes de faction dissidente." },
+    { title = "La courbe du dragon", path = "articles/the-dragon-curve", description = "L'article qui se demande, à titre de conjecture signalée, si la faction dont on se souvient comme du Serpent est aussi celle dont on se souvient pour l'œuvre des dragons." },
 ]
 
 footnotes = [

@@ -6,30 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Abraham (English)", "Abram (pre-renaming name)", "אַבְרָהָם (Hebrew Avraham)", "אַבְרָם (Hebrew Avram)", "إبراهيم (Arabic Ibrāhīm)", "Ἀβραάμ (Greek Abraám)", "the Patriarch", "Avraham Avinu (Jewish 'Abraham our father')", "Khalīl Allāh (Arabic 'Friend of God')"]
+alternative_names = ["Abraham(英語)", "アブラム(改名前の名)", "אַבְרָהָם(ヘブライ語 Avraham)", "אַבְרָם(ヘブライ語 Avram)", "إبراهيم(アラビア語 Ibrāhīm)", "Ἀβραάμ(ギリシア語 Abraám)", "族長", "Avraham Avinu(ユダヤ教で「われらの父アブラハム」)", "Khalīl Allāh(アラビア語で「神の友」)"]
 timeline = ["age-of-taurus", "age-of-aries"]
+see_also = [
+    { title = "ノア契約", path = "wiki/noahic-covenant", description = "アブラハムの契約がその系譜を引き継ぐ、洪水後の契約。" },
+    { title = "ソドムとゴモラ", path = "wiki/sodom-and-gomorrah", description = "創世記18章でアブラハムが交渉する、評議会による予防的な攻撃。" },
+    { title = "モーセ", path = "wiki/moses", description = "同じエデン系統の回復における、後代の契約の仲介者。" },
+    { title = "ハニーフィーヤ", path = "wiki/hanafiyya", description = "イスラムの伝統がアブラハムにまで遡らせる、原初のハニーフの一神教。" },
+    { title = "ペトラ", path = "wiki/petra", description = "アブラハムとヒジャーズをめぐる問いの中心にあるナバテアの聖域。" },
+]
 
 [extra.infobox]
-type = "Biblical figure; Eden-lineage patriarch verified by post-Sodom Council loyalty test; founding patriarch for three Abrahamic religions plus Baha'i"
-hebrew_name = "אַבְרָהָם (Avraham, 'father of multitudes'); originally אַבְרָם (Avram, 'exalted father')"
+type = "聖書の人物。ソドム後の評議会による忠誠の試練で確証されたエデン系統の族長。三つのアブラハムの宗教とバハイ教の始祖たる族長"
+hebrew_name = "אַבְרָהָם(アヴラハム、「多くの者の父」)。もとはאַבְרָם(アヴラム、「高められた父」)"
 arabic_name = "إبراهيم (Ibrāhīm)"
-biblical_dating = "Taurus-Aries boundary in corpus chronology (late Age of Taurus, c. 2,000-1,900 BCE in mainstream traditional chronology); Genesis records Abraham as 75 years old at the lekh lekha call (Gen 12:4), 100 at Isaac's birth (Gen 21:5), 175 at death (Gen 25:7)"
-principal_biblical_location = "Genesis 11:26-25:18; subsequent references in Exodus 3:6-15, Joshua 24:2-3, Isaiah 41:8, 51:2, Psalms 105:6-9, Matthew 1:1-2, Luke 3:34, Romans 4, Galatians 3, Hebrews 11:8-19, James 2:21-23"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Sacrifice of Abraham' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Taurus chapter, Sections VIII and IX"
-core_corpus_articulation = "Post-Sodom Council recruitment and verification figure; tested loyalty around whom diminished Eden-lineage population reorganized; founding patriarch for Aries-age recovery program"
-covenant_role = "Abrahamic Covenant (Genesis 15, 17): geographic promise (Nile-to-Euphrates); descendant promise (numerous as stars and sand); circumcision (*brit milah*) as physical-marker covenant institution"
-loyalty_test = "Akedah / Sacrifice of Isaac (Genesis 22) — formal Council loyalty test conducted by visiting officer; Hebrew *nissah* ('tested') frames episode from opening verse; *ki atah yadati* ('for now I know') confirms empirical-investigation framing"
-key_figures = "Sarah (wife, mother of Isaac); Hagar (Egyptian handmaid, mother of Ishmael); Isaac (covenant-line son through Sarah); Ishmael (Arab-lineage son through Hagar); Keturah (third wife after Sarah; mother of six additional sons including Midian); Lot (nephew, Sodom survivor)"
-three_faiths_status = "Founding patriarch for Judaism (through Isaac), Christianity (through Isaac via Jesus genealogy), Islam (through Ishmael as Ibrahim, Hanif primordial-monotheist), Baha'i (through Keturah lineage to Baha'u'llah)"
-distinguished_from = "Mainstream uniquely-faithful-individual reading; ancient-astronaut alternative readings (Sitchin, Biglino); mainstream biblical-scholarly Documentary Hypothesis source-critical reading; minimalist historical-critical engagement (Van Seters) treating patriarchal narratives as later literary composition"
-status_in_framework = "Foundational Taurus-Aries transitional figure; tested founding patriarch; principal recovery-program founder following Sodom destruction; structural inaugurator of Aries-age Eden-lineage political-religious arrangement"
+biblical_dating = "コーパスの年代学では牡牛座と牡羊座の境界(主流の伝統的年代学では牡牛座の時代末期、紀元前2000〜1900年頃)。創世記はアブラハムを、レフ・レハの召命時に75歳(創12:4)、イサク誕生時に100歳(創21:5)、死去時に175歳(創25:7)と記録する"
+principal_biblical_location = "創世記11:26〜25:18。後続の言及は出エジプト記3:6〜15、ヨシュア記24:2〜3、イザヤ書41:8、51:2、詩篇105:6〜9、マタイ1:1〜2、ルカ3:34、ローマ4章、ガラテヤ3章、ヘブライ11:8〜19、ヤコブ2:21〜23"
+principal_source = "*The Book Which Tells the Truth*(ヴォリロン、1974年)、「The Truth」の章、「The Sacrifice of Abraham」の節。統合版 *Message from the Designers*(2005年)。*timeline.epub* ― 主に牡牛座の時代の章、第VIII節と第IX節におけるコーパスの詳しい取り組み"
+core_corpus_articulation = "ソドム後の評議会による登用と確証の人物。その試された忠誠を軸に、減少したエデン系統の集団が再編された。牡羊座の時代の回復計画の始祖たる族長"
+covenant_role = "アブラハム契約(創世記15章、17章):地理的約束(ナイルからユーフラテスまで)、子孫の約束(星と砂のように多く)、身体的な印としての契約制度である割礼(*brit milah*)"
+loyalty_test = "アケダー/イサクの犠牲(創世記22章)――来訪した担当官が行った評議会の正式な忠誠の試練。ヘブライ語 *nissah*(「試した」)が冒頭の節からこの挿話を枠づけ、*ki atah yadati*(「今こそわたしは知った」)が経験的調査という枠組みを裏づける"
+key_figures = "サラ(妻、イサクの母)、ハガル(エジプト人の女奴隷、イシュマエルの母)、イサク(サラによる契約の系統の息子)、イシュマエル(ハガルによるアラブ系統の息子)、ケトラ(サラ亡き後の三番目の妻。ミディアンを含む六人の息子の母)、ロト(甥、ソドムの生存者)"
+three_faiths_status = "ユダヤ教(イサクを通じて)、キリスト教(イエスの系図を経たイサクを通じて)、イスラーム(イブラーヒーム、原初の一神教徒ハニーフとしてのイシュマエルを通じて)、バハイ教(バハオラに至るケトラの系統を通じて)の始祖たる族長"
+distinguished_from = "主流の「比類なく信仰深い個人」という読解。古代宇宙飛行士説の別解釈(シッチン、ビリーノ)。主流の聖書学による文書仮説の資料批評的読解。族長物語を後代の文学的構成として扱うミニマリズムの歴史批評的取り組み(ヴァン・セターズ)"
+status_in_framework = "牡牛座から牡羊座への移行期を基礎づける人物。試された始祖たる族長。ソドム滅亡後の回復計画の主要な創始者。牡羊座の時代におけるエデン系統の政治的・宗教的体制を構造的に開始した人物"
 +++
 
 **Abraham** (Hebrew אַבְרָהָם, *Avraham*; Arabic إبراهيم, *Ibrāhīm*) is the founding

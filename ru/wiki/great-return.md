@@ -6,28 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
-redirect_to = { title = "Embassy", path = "/wiki/embassy/" }
+redirect_to = { title = "Посольство", path = "/wiki/embassy/" }
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
 claim_type = "direct"
 timeline = ["aquarius"]
-alternative_names = ["The Return", "Second Coming (in some comparative-religion framings)", "The Arrival", "The Reunification"]
+alternative_names = ["Возвращение", "Второе пришествие (в некоторых сравнительно-религиоведческих трактовках)", "Прибытие", "Воссоединение"]
+see_also = [
+    { title = "Посольство", path = "wiki/embassy", description = "Сооружение, которое человечество должно построить как главное предварительное условие Возвращения." },
+    { title = "Третий Храм", path = "wiki/third-temple", description = "Посольство, прочитанное через пророчества Еврейской Библии о восстановлении Храма." },
+    { title = "Золотой век", path = "wiki/golden-age", description = "Состояние после Возвращения, которое открывает прибытие, когда его предварительные условия выполнены." },
+    { title = "Совет Вечных", path = "wiki/council-of-the-eternals", description = "Руководящий орган Элохим, официальное прибытие которого представляет Возвращение." },
+    { title = "Иисус", path = "wiki/jesus", description = "Фигура христианской Парусии, которую рамка читает как один из словарей для обозначения Возвращения." },
+    { title = "Список пророков и религий", path = "wiki/list-of-prophets-and-religions", description = "Эсхатологические фигуры разных традиций, которые, по прочтению рамки, предвосхищают то же событие." },
+    { title = "Мельница Гамлета", path = "wiki/hamlets-mill", description = "Сравнительное исследование, низложенного «Владыку Золотого века, который должен вернуться» которого корпус читает наряду с Возвращением." },
+    { title = "Мельница, что мелет эпохи", path = "articles/the-mill-that-grinds-the-ages", description = "Спящий царь, который пробуждается, — Сатурн, Кронос, король былого и грядущего, — прочитанный как прецессионная форма Возвращения." },
+]
 
 [extra.infobox]
-type = "Anticipated official arrival of the Elohim on Earth; the framework's culminating eschatological event"
-designation_origin = "Specifically named in the December 13, 1997 \"Message of the Elohim\" preserved in *Intelligent Design: Messages from the Designers*"
-preconditions = "(1) Humanity's genuine desire for the arrival; (2) demonstration of unification and wisdom to receive advanced knowledge responsibly; (3) construction of the Embassy (\"Third Temple\") on neutral territory; (4) safety guarantee from human military forces"
-knowledge_transfer = "Approximately 25,000 years of scientific knowledge, equivalent to the gap between current human technological capability and the Elohim's"
-embassy_location = "Initially proposed in Israel (preferably Jerusalem area), with seven formal land requests denied by Israeli authorities between approximately 1990 and 2015; on August 6, 2015, the Vorilhon-mediated message declared the Elohim's protection of Israel withdrawn; subsequent proposals have involved Palestinian Authority territories and other locations"
-comparative_eschatology = "Connected by the framework to the Jewish Mashiach, Christian Parousia, Islamic Mahdi and return of Isa, Buddhist Maitreya, Hindu Kalki, Zoroastrian Saoshyant, Taoist Li Hong, and the broader cross-cultural eschatological-savior expectation pattern"
-chronological_placement = "The framework places the Great Return in the Age of Aquarius (post-2,160 CE on the broader reckoning), with the contemporary period (early 21st century CE) as the substantive transitional phase; the specific timing is treated as contingent on the satisfaction of the preconditions"
-primary_sources = "Vorilhon, *Le Livre qui dit la vérité* (1974); *Les extra-terrestres m'ont emmené sur leur planète* (1976); the Messages collection, particularly the December 13, 1997 message; the broader Raëlian Movement publication record"
-framework_significance = "The culminating event of the entire corpus interpretive framework; the substantive teleological orientation of the Elohim project on Earth; the inauguration of the broader Golden Age / Age of Aquarius proper"
+type = "Ожидаемое официальное прибытие Элохим на Землю; кульминационное эсхатологическое событие рамки"
+designation_origin = "Прямо названо в «Послании Элохим» от 13 декабря 1997 года, сохранённом в *Разумный замысел: послание от Создателей*"
+preconditions = "(1) Искреннее желание человечества их прибытия; (2) проявление единства и мудрости, чтобы ответственно принять передовые знания; (3) строительство Посольства («Третьего Храма») на нейтральной территории; (4) гарантия безопасности со стороны вооружённых сил людей"
+knowledge_transfer = "Около 25 000 лет научных знаний — разрыв между нынешними технологическими возможностями человечества и возможностями Элохим"
+embassy_location = "Первоначально предлагалось в Израиле (предпочтительно в районе Иерусалима): примерно с 1990 по 2015 год израильские власти отклонили семь официальных запросов о земле; 6 августа 2015 года послание, переданное через Ворильона, объявило, что Элохим сняли с Израиля свою защиту; последующие предложения касались территорий Палестинской автономии и других мест"
+comparative_eschatology = "Сопоставляется корпусом, как сходство, с иудейским Машиахом, христианской Парусией, исламскими Махди и возвращением Исы, буддийским Майтрейей, индуистским Калки, зороастрийским Саошьянтом, даосским Ли Хуном и более широкой межкультурной закономерностью эсхатологического спасителя"
+chronological_placement = "Рамка относит Великое возвращение к Эпохе Водолея, а современный период (начало XXI века н. э.) — к переходной фазе; сроки считаются зависящими от предварительных условий, а не фиксированной датой"
+primary_sources = "Ворильон, *Le Livre qui dit la vérité* (1974); *Les extra-terrestres m'ont emmené sur leur planète* (1976); собрание Посланий, особенно послание от 13 декабря 1997 года; более широкий корпус публикаций раэлианского движения"
+framework_significance = "Кульминационное событие рамки корпуса; момент, на который направлен проект Элохим на Земле; начало Золотого века"
 +++
 
 **The Great Return** is the Wheel of Heaven framework's name for the anticipated

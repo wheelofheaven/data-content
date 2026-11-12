@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -18,19 +18,26 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "direct"
-alternative_names = ["Beit ha-Mikdash ha-Shlishi (Hebrew, \"the Third Holy House\")", "The Embassy (in Raëlian terminology)", "The Residence (in some source-material passages)", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "The Messianic Temple"]
+alternative_names = ["Beit ha-Mikdash ha-Shlishi (Hebrew, \"the Third Holy House\")", "大使館（雷爾派術語）", "居所（見於某些源典段落）", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "彌賽亞聖殿"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "大使館", path = "wiki/embassy", description = "由沃里隆闡明規格、被框架等同於第三聖殿的接待居所。" },
+    { title = "大歸來", path = "wiki/great-return", description = "耶洛因預期中的回歸,大使館/第三聖殿是其必要的接待場所。" },
+    { title = "耶和華", path = "wiki/yahweh", description = "在正典中訂定大使館規格條件的耶洛因主席。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "大使館/第三聖殿為迎接其正式回歸而建的文明。" },
+    { title = "黃金時代", path = "wiki/golden-age", description = "預期第三聖殿將於其中建成的水瓶座時代應驗。" },
+]
 
 [extra.infobox]
-type = "Anticipated future Temple in Jerusalem (in Jewish eschatology); functionally identified with the Embassy required for the Elohim's Great Return (in the Wheel of Heaven framework)"
-principal_biblical_sources = "Ezekiel 40-48 (the principal architectural vision, c. 573 BCE); Haggai 2:9; Zechariah 6:12-13; Isaiah 2:2-4 / Micah 4:1-3"
-historical_predecessors = "The Tabernacle (Mosaic period, c. 14th-13th centuries BCE); the First Temple (Solomon's Temple, c. 957–587 BCE, destroyed by the Babylonians); the Second Temple (516 BCE–70 CE, destroyed by the Romans)"
-contemporary_temple_mount_status = "Occupied by the Dome of the Rock (691-692 CE) and the al-Aqsa Mosque (705-715 CE); the third-holiest site in Islam; status quo since 1967: Israeli perimeter security, Waqf (Jordanian Islamic religious trust) administration, contested Jewish prayer access"
-jewish_preparation_organizations = "The Temple Institute (Machon HaMikdash, founded 1987 by Rabbi Yisrael Ariel); the Sanhedrin Initiative; the various red heifer breeding programs; the broader Religious Zionist Temple-preparation tradition"
-christian_engagement = "Dispensationalist eschatology (Darby 19th century, Scofield Reference Bible 1909, the Left Behind series 1995-2007); substantively contested by amillennial, postmillennial, and preterist Christian positions"
-raelian_identification = "The Embassy specified in the Vorilhon source material (*Le Livre qui dit la vérité*, 1974, Sixth Chapter \"The New Commandments,\" Section \"Your Mission\") is identified by the source material with the Third Temple of the Hebrew biblical tradition"
-raelian_embassy_history = "The Raëlian Movement formally requested Embassy land in Israel seven times between approximately 1990 and 2015, with all requests denied; on August 6, 2015 (21 Av 5775 in the Hebrew calendar), the source material declared the Elohim's protection of Israel withdrawn; subsequent proposals have involved Palestinian Authority territories and other locations"
-framework_significance = "The Third Temple is read by the framework as the substantive culmination of the Hebrew biblical Temple-restoration tradition and as functionally identical with the Embassy required for the Great Return; the operational continuity of Tabernacle → First Temple → Second Temple → Third Temple/Embassy constitutes a single sequence of Elohim terrestrial reception sites"
+type = "預期中未來位於耶路撒冷的聖殿（猶太教末世論）；在功能上等同於耶洛因大歸來所需的大使館（Wheel of Heaven 框架）"
+principal_biblical_sources = "以西結書 40–48（主要的建築異象，約公元前 573 年）；哈該書 2:9；撒迦利亞書 6:12–13；以賽亞書 2:2–4／彌迦書 4:1–3"
+historical_predecessors = "會幕（摩西時期，約公元前 14–13 世紀）；第一聖殿（所羅門聖殿，約公元前 957–587 年，為巴比倫人所毀）；第二聖殿（公元前 516 年至公元 70 年，為羅馬人所毀）"
+contemporary_temple_mount_status = "為圓頂清真寺（公元 691–692 年）與阿克薩清真寺（公元 705–715 年）所佔據；伊斯蘭教第三聖地；1967 年以來的現狀：以色列負責周邊安全，瓦合甫（約旦伊斯蘭宗教基金會）負責管理，猶太人的祈禱權有爭議"
+jewish_preparation_organizations = "聖殿學院（Machon HaMikdash，1987 年由拉比 Yisrael Ariel 創立）；公會倡議（Sanhedrin Initiative）；紅母牛培育計畫；更廣泛的宗教錫安主義聖殿預備傳統"
+christian_engagement = "時代論末世論（達秘，19 世紀；《司可福串珠聖經》，1909；《末世迷蹤》系列，1995-2007）；受到無千禧年論、後千禧年論與過去論等基督教立場的質疑"
+raelian_identification = "沃里隆源典中所規定的大使館（*Le Livre qui dit la vérité*，1974，第六章〈新誡命〉，〈你的使命〉一節）被源典等同於希伯來聖經傳統中的第三聖殿"
+raelian_embassy_history = "雷爾運動於 1991 年首次請求在耶路撒冷附近取得大使館用地；1993 年一個以色列委員會認定該運動是和平的，但總理伊扎克·拉賓拒絕了，此後沒有任何政府重啟此問題；1997 年 12 月 13 日的訊息授權向任何國家尋求治外法權地位，以色列保有最後的選項；2015 年的一則訊息宣布耶洛因已撤回對以色列的保護"
+framework_significance = "正典將第三聖殿等同於為大歸來而建的大使館，把其結構對應到對聖殿的期待之上，但不取代此傳統自身的意義"
 +++
 
 The **Third Temple** (Hebrew **<span class="hebrew">בֵּית הַמִּקְדָּשׁ הַשְּׁלִישִׁי</span>** *Beit ha-Mikdash ha-Shlishi*, "the Third Holy House") is the future Temple that, in Jewish eschatological tradition, is to be built in Jerusalem to succeed the **First Temple** (Solomon's Temple, c. 957–587 BCE, destroyed by the Babylonians under Nebuchadnezzar II) and the **Second Temple** (516 BCE–70 CE, destroyed by the Romans under Titus). Its fullest biblical blueprint is the nine-chapter vision of the prophet [Ezekiel](/wiki/ezekiel/) (Ezekiel 40–48, c. 573 BCE), and its building is one of the works Jewish tradition assigns to the Messianic Age.

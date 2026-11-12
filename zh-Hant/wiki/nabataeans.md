@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -20,6 +20,14 @@ entry_type = "people"
 claim_type = "inferred"
 timeline = ["pisces", "aries"]
 alternative_names = ["נבטו(納巴泰亞蘭語 Nabaṭu)", "Ναβαταῖοι(希臘語 Nabataîoi)", "ٱلْأَنْبَاط(阿拉伯語 al-Anbāṭ)", "Nabateans", "the Nabati", "拉克穆之民(people of Raqmū)"]
+see_also = [
+    { title = "佩特拉", path = "wiki/petra", description = "納巴泰人的岩鑿首都,框架之佩特拉假說的中心地點。" },
+    { title = "哈尼夫信仰", path = "wiki/hanafiyya", description = "納巴泰民族被讀作其人間媒介的亞伯拉罕式復原。" },
+    { title = "穆罕默德", path = "wiki/muhammad", description = "其古蘭經阿拉伯語被論證源自納巴泰阿拉伯語的先知。" },
+    { title = "耶穌", path = "wiki/jesus", description = "說納巴泰人所書寫之同一種亞蘭語的人,將伊斯蘭置於共同的環境之中。" },
+    { title = "亞伯拉罕", path = "wiki/abraham", description = "納巴泰人身處其中之亞蘭—亞伯拉罕環境的族長源頭。" },
+    { title = "希伯來聖經", path = "wiki/hebrew-bible", description = "其操作詞彙共享此處所追蹤之亞蘭—亞伯拉罕環境的文集。" },
+]
 
 [extra.infobox]
 type = "古代北阿拉伯商旅貿易民族;佩特拉的建造者;亞蘭文至阿拉伯文書寫系統的傳遞者"

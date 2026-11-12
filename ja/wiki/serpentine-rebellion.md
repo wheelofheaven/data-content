@@ -5,7 +5,7 @@ template = "wiki-page.html"
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -13,7 +13,7 @@ category = "Events & Narratives"
 editorial_pass = "2026-05"
 timeline = ["cancer", "gemini"]
 claim_type = "inferred"
-redirect_to = { title = "Theomachy", path = "/wiki/theomachy/" }
+redirect_to = { title = "神々の闘い", path = "/wiki/theomachy/" }
 +++
 
 {% claim(type="framework", id="woh-claim-0008") %}The **Serpentine Rebellion** is the earlier framing for the faction of

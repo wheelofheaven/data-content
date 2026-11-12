@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "El Departamento de Guerra de EE. UU. abrió un portal público en war.gov/UFO con la primera entrega de registros UAP desclasificados — retornos de sensores, informes de operadores y un fotograma del Apolo 17 de 1972. El corpus de Wheel of Heaven registra la publicación como contexto para leer el canon, no como un signo: ningún archivo publicado es prueba a favor del marco, cuyo contacto anticipado es oficial, condicional y sin fecha."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "El contexto del presente"
+cross_reference = "Era de Acuario, §IX"
 canon_links = [
     { title = "Era de Acuario", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

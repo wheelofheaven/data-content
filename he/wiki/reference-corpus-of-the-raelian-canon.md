@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -20,8 +20,8 @@ lead = "בשלושת הספרים הקאנוניים של הקורפוס הרא�
 reading = "interpretive"
 
 see_also = [
-    { title = "התנ״ך והברית החדשה", path = "/wiki/bible/", description = "המסורת הטקסטואלית הרחבה יותר שבה שוכנים התנ״ך והברית החדשה." },
-    { title = "התנ״ך", path = "/wiki/hebrew-bible/", description = "גוף ההפניות הגדול והמדויק ביותר בקאנון." },
+    { title = "הביבליה", path = "/wiki/bible/", description = "המסורת הטקסטואלית הרחבה יותר שבה שוכנים התנ״ך והברית החדשה." },
+    { title = "המקרא העברי", path = "/wiki/hebrew-bible/", description = "גוף ההפניות הגדול והמדויק ביותר בקאנון." },
     { title = "בראשית", path = "/wiki/genesis/", description = "הספר המצוטט בהרחבה ביותר במהלך פרשנות תולדות־הקדם של הקאנון." },
     { title = "קבלה", path = "/wiki/kabbalah/", description = "מכונה ב»קץ העולם« »הספר הקרוב ביותר לאמת«; קטע הפרסאות מצביע לכיוון »שיעור קומה«." },
     { title = "ראליזם", path = "/wiki/raelism/", description = "התנועה המכוננת על ידי שלושת הספרים הקאנוניים המקוטלגים כאן." },
@@ -34,6 +34,7 @@ see_also = [
     { title = "אפוקליפסה", path = "/wiki/apocalypse/", description = "קריאת »ההתגלות« המפותחת ב»ההתגלויות החדשות«." },
     { title = "טחנת המלט", path = "/wiki/hamlets-mill/", description = "קריאה מיתולוגית־פרצסיונית בין־תרבותית הסמוכה לטיעון העקבות של הקאנון." },
     { title = "החתימה הכפולה", path = "/wiki/doubled-signature/", description = "עקרון הקורפוס שלפיו הקאנון וטקסטי ההפניה שלו מתכנסים אל אותה מציאות יסודית." },
+    { title = "שישה בקרים, שש שנים", path = "/articles/six-mornings-six-years/", description = "הטיעון מן הביקורת הטקסטואלית בעד מנגנון ביקורתי על שלושת ספרי המקור." },
 ]
 
 footnotes = [

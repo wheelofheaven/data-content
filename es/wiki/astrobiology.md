@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,17 +15,26 @@ category = "Science & Technology"
 entry_type = "concept"
 alternative_names = ["astrobiology", "exobiology (earlier synonymous term)", "bioastronomy", "xenobiology (related but distinct)", "astrobiologie (French)", "Astrobiologie (German)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Macrobiología", path = "wiki/macrobiology", description = "La disciplina hermana: mientras la astrobiología estudia la vida en el universo, la macrobiología estudia la vida como las unidades vivas mayores del universo." },
+    { title = "Planeta natal de los Elohim", path = "wiki/elohim-home-planet", description = "El mundo que el marco ofrece como el segundo ejemplo de vida que le falta a la astrobiología." },
+    { title = "Hipótesis de los antiguos astronautas", path = "wiki/ancient-astronaut-hypothesis", description = "La tradición contigua que lee pruebas históricas, y no contemporáneas, de contacto." },
+    { title = "Cadena cósmica", path = "wiki/cosmic-chain", description = "La explicación del marco sobre civilizaciones que siembran vida, el escenario de su lectura de la panspermia dirigida." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "El marco más amplio que sitúa la tesis de la creación junto a la astrobiología convencional." },
+    { title = "Ecuación de Drake", path = "wiki/drake-equation", description = "El marco probabilístico para contar civilizaciones comunicativas y la pregunta de Fermi que plantea." },
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "El autor cuyo argumento del dato único enmarca la lectura del corpus de la cuestión astrobiológica." },
+]
 
 [extra.infobox]
-type = "Multidisciplinary scientific field studying the origin, evolution, distribution, and future of life in the universe; subject of substantive corpus engagement at the intersection of mainstream science and the alliance-contact framework"
-discipline_founding = "Joshua Lederberg coined *exobiology* in 1960; the substantial NASA Exobiology Program established 1959-1960; the term *astrobiology* came into general use in the 1990s with the founding of the NASA Astrobiology Institute (1998)"
-principal_methodological_constraint = "Sendy's single-data-point constraint (1970): mainstream biology has access to only terrestrial life as its empirical foundation; general laws of biology derived from this single example operate under substantive methodological limitation"
-principal_research_methods = "Observational astronomy (telescopes, spectroscopy of exoplanet atmospheres); laboratory simulations of extraterrestrial conditions; in situ measurement (Mars rovers, planned Europa mission); theoretical modeling and computer simulation; meteorite analysis; extremophile biology research"
+type = "Campo científico que estudia el origen, la evolución, la distribución y el futuro de la vida en el universo; la disciplina dominante que el marco de Wheel of Heaven lee desde la perspectiva de la panspermia dirigida"
+discipline_founding = "*Exobiología*, término acuñado por Joshua Lederberg en 1960; programa de Exobiología de la NASA creado en 1959–1960; *astrobiología* se generalizó en los años noventa, formalizada con la fundación del Instituto de Astrobiología de la NASA (1998)"
+principal_methodological_constraint = "El problema del único dato de Sendy (1970): la biología solo tiene la vida terrestre como ejemplo, de modo que cualquier ley general que se extraiga de ella sigue siendo provisional hasta que se encuentre o se aporte un segundo caso"
+principal_research_methods = "Astronomía observacional y espectroscopia atmosférica; simulación en laboratorio de condiciones planetarias y de química prebiótica; medición in situ (los rovers de Marte, la Europa Clipper); modelización teórica; análisis de meteoritos; biología de extremófilos"
 principal_contemporary_programs = "Exoplanet detection (Kepler, TESS, JWST); Mars missions (Curiosity, Perseverance); Europa Clipper (launched 2024); SETI (Allen Telescope Array, Breakthrough Listen); origin-of-life research (RNA World, alkaline hydrothermal vents, metabolism-first hypotheses)"
-principal_pre_modern_history = "Greek atomist tradition (Anaxagoras, Democritus, Epicurus, Lucretius); medieval Islamic engagement (al-Kindi, al-Biruni); Renaissance plurality-of-worlds tradition (Nicholas of Cusa, Bruno, Kepler); early-modern engagement (Fontenelle, Huygens); 19th-century engagement (Flammarion); 20th-century engagement (Tsiolkovsky, Sagan)"
-corpus_position = "Mainstream astrobiology engaged as substantive scientific work; Vorilhon-source content articulated as documenting alliance-contact narrative that provides the substantive second data point Sendy articulated as resolution to the single-data-point constraint; mainstream science and alliance-contact framework presented as substantively complementary research programs rather than as competing alternatives"
-distinguished_from = "SETI narrowly (the search for technological signals; one component of astrobiology); UFO studies (the engagement with reported sightings; methodologically distinct register); the Ancient Astronaut Hypothesis (the engagement with historical evidence for past contact; substantively adjacent but distinct discipline); xenobiology (the speculative discipline of designing or imagining non-Earth-like biological systems)"
-status_in_framework = "Principal contemporary scientific discipline engaging the corpus's empirical claims about extraterrestrial civilizational existence; substantive corpus engagement at the intersection of mainstream science and the alliance-contact framework"
+principal_pre_modern_history = "Los atomistas griegos (Anaxágoras, Demócrito, Epicuro, Lucrecio); el pensamiento islámico medieval (al-Kindi, al-Biruni); la tradición renacentista de la pluralidad de los mundos (Nicolás de Cusa, Bruno, Kepler); los autores de la primera modernidad (Fontenelle, Huygens); Flammarion en el siglo XIX"
+corpus_position = "La astrobiología dominante se aborda como ciencia legítima; el marco lee la vida terrestre como la obra diseñada de los Elohim —una versión concreta de la panspermia dirigida (Crick y Orgel, 1973)—, a la vez que reconoce que esta lectura no está verificada de forma independiente según los estándares científicos"
+distinguished_from = "SETI (la búsqueda de tecnofirmas; una parte de la astrobiología); los estudios OVNI/UAP (un registro probatorio distinto); la Teoría de los Antiguos Astronautas (evidencia histórica y no contemporánea); la xenobiología (el diseño de bioquímicas distintas de la terrestre)"
+status_in_framework = "La disciplina científica contemporánea que aborda más directamente la tesis de la creación del corpus; el campo dentro del cual el marco sitúa su lectura de la panspermia dirigida"
 +++
 
 **Astrobiology** is the scientific study of life in the universe — its origin,

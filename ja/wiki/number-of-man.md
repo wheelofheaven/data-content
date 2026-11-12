@@ -6,27 +6,36 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["666", "Six Hundred Sixty-Six", "the Number of the Beast", "the Number of Man (proper-noun framework concept)", "χξϛ (Greek isopsephic representation)"]
+alternative_names = ["666", "六百六十六", "獣の数字", "人間の数字(固有名詞としての枠組みの概念)", "χξϛ(ギリシア語のイソプセフィによる表記)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "黙示録", path = "wiki/apocalypse", description = "ヨハネの黙示録13:18という舞台と、666番目の世代を画する1945年の核の閾値。" },
+    { title = "創世記", path = "wiki/genesis", description = "世代の数え上げが紀元前11,375年に年代づける、エデンの研究施設での創造の出来事。" },
+    { title = "世界年代", path = "wiki/world-age", description = "13,320年の期間が乙女座と獅子座の境界まで及ぶ、歳差運動の時代。" },
+    { title = "黄金時代", path = "wiki/golden-age", description = "創造から黙示へと至る軌跡が、周期の半分を経て到達する水瓶座の時代の頂点。" },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "666の計算がその歳差運動の年代学を固定する助けとなる枠組み。" },
+    { title = "ラエル", path = "wiki/rael", description = "『地球外生命体を歓迎しよう』における世代の数え上げの解釈の出典。" },
+    { title = "諸時代を挽く臼", path = "articles/the-mill-that-grinds-the-ages", description = "この世代の数え上げが並ぶ、より広い歳差運動の数の系統(72、2,160、25,920、432,000)。そしてそれに伴う、切りのよい数への注意。" },
+]
 
 [extra.infobox]
-type = "Number-symbolic concept; the Revelation 13:18 numerical specification interpreted as the number of human generations from creation to nuclear-acquisition threshold"
+type = "数の象徴の概念。ヨハネの黙示録13:18の666を、創造から核の獲得の閾値までの人間の世代数として読む"
 value = "666 (Indo-Arabic numeral); χξϛ (Greek isopsephic representation: chi 600 + xi 60 + stigma 6); שש מאות ששים ושש (Hebrew transliteration)"
-principal_source = "Revelation 13:18 (the source-textual location); *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) and consolidated *Message from the Designers* (2005) — the principal corpus interpretation; *timeline.epub* — substantive substantial subsequent corpus refinement"
-core_articulation = "666 = number of human generations from original Eden-laboratory creation through 1945 nuclear-acquisition threshold; with working estimate of 20 years per generation, 666 × 20 = 13,320 years; 1945 − 13,320 = 11,375 BCE creation date at Virgo-Leo precessional boundary"
-mathematical_features = "Triangular number (T_36 = 666); sum of integers from 1 to 36; sum of squares of first seven primes (2² + 3² + 5² + 7² + 11² + 13² + 17² = 666); harshad number (divisible by digit-sum)"
-precessional_calculation = "13,320 years / 2,160 years per Great Month = 6.166... Great Months; structurally close to half a complete Great Year (12,960 years exact half); creation-to-Apocalypse trajectory across approximately half of complete precessional cycle"
-distinguished_from = "the mainstream Nero Caesar isopsephic interpretation (Irenaeus, the substantial subsequent biblical-scholarly tradition); the textual-variant 616 reading (Papyrus 115 evidence); the various papacy-as-beast Reformation-era interpretations; the various contemporary-political-figure interpretations; the various conspiracy-theoretic Mark-of-the-Beast engagements"
+principal_source = "ヨハネの黙示録13:18(原典テキスト)。*Let Us Welcome the Extra-Terrestrials*(ヴォリロン、1979年)と *Message from the Designers*(2005年)― コーパスの主要な解釈。*timeline.epub* ― 完成した人間という精緻化"
+core_articulation = "666 = 原初のエデンの実験室での創造から1945年の核の獲得の閾値までの人間の世代数。正典(LWTE-2:208–209)は最初の人間を 「およそ13,000年前」に置き、666 × 20 = 13,320年と計算する。紀元前11,375年(1945 − 13,320)という年代と、それを乙女座と獅子座の境界付近に置くことは、正典ではなくコーパス自身の計算である"
+mathematical_features = "三角数(T₃₆ = 666)。最初の七つの素数の平方の和(2² + 3² + 5² + 7² + 11² + 13² + 17² = 666)。ハーシャッド数(各桁の和で割り切れる)"
+precessional_calculation = "13,320年 ÷ 大月あたり2,160年 = 6.166大月。大年の半分(12,960年、ちょうど六大月)に近く、360年の超過がある。創造から黙示までの軌跡は歳差運動の周期のおよそ半分にわたる"
+distinguished_from = "主流のネロ・カエサルのゲマトリアによる読解(エイレナイオスとその後の学問的伝統)。616という異読(パピルス115)。宗教改革期の教皇を獣とみなす読解。現代の政治的人物への同定。陰謀論的な「獣の刻印」の読解"
 parallel_traditions = "Hebrew gematria tradition; Greek isopsephy tradition; Sanskrit-Indian numerical-symbolic traditions; Chinese numerical-symbolic traditions; Mesoamerican calendrical-numerical traditions; various indigenous numerical-symbolic traditions"
-status_in_framework = "Foundational chronological-mathematical concept anchoring the corpus's 11,375 BCE creation-finalization date and the broader precessional-calendrical framework"
-principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) — principal source articulation in 'The Apocalypse of the Final Nuclear Cataclysm' section; *Message from the Designers* (2005) — consolidated English engagement; *timeline.epub* — substantive subsequent refinement registering finalized-humans interpretation"
+status_in_framework = "コーパスの紀元前11,375年という創造の年代と、その歳差運動による年代学の、基礎となる年代学的・数学的な錨"
+principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials*(ヴォリロン、1979年)、「The Apocalypse of the Final Nuclear Cataclysm」の節。*Message from the Designers*(2005年)。*timeline.epub* ― 完成した人間という精緻化"
 +++
 
 **The Number of Man** is the value **666** — written in the Greek of Revelation

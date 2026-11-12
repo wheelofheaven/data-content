@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,17 +15,22 @@ category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"
-alternative_names = ["Astrological age", "Precessional month", "World Age", "Aeon (in some Greek-derived usages)", "Platonic Month (in some Renaissance-tradition usages)"]
+alternative_names = ["Астрологическая эпоха", "Прецессионный месяц", "Эпоха мира", "Эон (в некоторых употреблениях греческого происхождения)", "Платонов месяц (в некоторых употреблениях ренессансной традиции)"]
+see_also = [
+    { title = "Эпоха мира", path = "/wiki/world-age/" },
+    { title = "Великий Год", path = "wiki/great-year", description = "Полный прецессионный цикл и число 432 000 у Бероса, в Ригведе, в Вальхалле и в Ангкоре." },
+    { title = "Мельница, что мелет эпохи", path = "articles/the-mill-that-grinds-the-ages", description = "Прецессионный числовой код — 72, 2160, 25 920, 432 000, — прослеженный через традиции, которые его сохранили." },
+]
 
 [extra.infobox]
-type = "Unit of chronological measurement; one-twelfth of the precessional Great Year"
-duration_modern = "Approximately 2,147.6 years (25,771.5 years ÷ 12, based on the modern astronomical precessional rate of ~50.29 arcseconds/year)"
-duration_traditional = "Exactly 2,160 years (25,920 years ÷ 12, based on the astrological-tradition Great Year)"
-component_units = "1 Great Month = 30° of ecliptic precession; 12 Great Months = 1 Great Year (full precessional cycle); 30 Great Days = 1 Great Month (where 1 Great Day = 72 years ≈ one human lifespan)"
-zodiacal_correspondence = "Each Great Month corresponds to the period during which the vernal equinox point lies within one of the twelve zodiacal signs; the current Age is in transition between Pisces and Aquarius"
-mathematical_properties = "The traditional figure 25,920 factors as 2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72; the Great Month figure 2,160 factors as 2⁴ × 3³ × 5; both numbers have substantial divisibility properties that account for their prominence in cross-cultural cosmological tradition"
-cross_cultural_preservation = "The 25,920 / 2,160 / 432 numerical structure appears in Hindu *yuga* arithmetic (Kali Yuga = 432,000 years = 1/3 of the precessional Great Year measured in arcseconds), Babylonian sexagesimal numerology, the Platonic-tradition Magnus Annus, and other cross-cultural cosmological systems"
-framework_significance = "Principal chronological unit for the corpus; the precessional Great Months provide the structured temporal framework within which the Elohim project and the broader prophetic record are dated"
+type = "Единица хронологического измерения; одна двенадцатая прецессионного Великого Года"
+duration_modern = "Около 2147,6 года (25 771,5 года ÷ 12, исходя из современной астрономической скорости прецессии ~50,29 угловой секунды в год)"
+duration_traditional = "Ровно 2160 лет (25 920 лет ÷ 12, исходя из Великого Года астрологической традиции)"
+component_units = "1 Великий Месяц = 30° прецессии по эклиптике; 12 Великих Месяцев = 1 Великий Год (полный прецессионный цикл); 30 Великих Дней = 1 Великий Месяц (где 1 Великий День = 72 года ≈ одна человеческая жизнь)"
+zodiacal_correspondence = "Каждый Великий Месяц соответствует периоду, в течение которого точка весеннего равноденствия находится в одном из двенадцати зодиакальных знаков; нынешняя Эпоха находится в переходе от Рыб к Водолею"
+mathematical_properties = "Традиционное число 25 920 раскладывается как 2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72; число Великого Месяца 2160 — как 2⁴ × 3³ × 5; оба числа обладают богатыми свойствами делимости, что объясняет их видное место в межкультурной космологической традиции"
+cross_cultural_preservation = "Числовая структура 25 920 / 2160 / 432 встречается в индуистской арифметике *юг* (Кали-юга = 432 000 лет = 1/3 прецессионного Великого Года, измеренного в угловых секундах), вавилонской шестидесятеричной нумерологии, Magnus Annus платоновской традиции и других межкультурных космологических системах"
+framework_significance = "Основная хронологическая единица корпуса; прецессионные Великие Месяцы дают структурированную временную рамку, в которой датируются проект Элохим и более широкая пророческая летопись"
 +++
 
 The **Great Month** is the unit of chronological measurement corresponding to **one-twelfth of the precessional Great Year** — the period required for the vernal equinox point to traverse 30° (one zodiacal sign) along the ecliptic at the precessional rate. The unit is also known as the **Astrological Age**, the **Precessional Month**, or the **World Age**, and constitutes the principal chronological building block on which the Wheel of Heaven corpus's broader temporal framework depends.

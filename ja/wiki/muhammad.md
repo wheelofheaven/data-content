@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,21 +16,29 @@ entry_type = "biographical"
 claim_type = "framework"
 timeline = ["pisces"]
 alternative_names = ["Muḥammad ibn ʿAbd Allāh", "Muhammad ibn Abdullah", "Abu al-Qasim", "Ahmad", "Rasūl Allāh", "Khātam al-Anbiyāʾ"]
+see_also = [
+    { title = "預言者および宗教のリスト", path = "wiki/list-of-prophets-and-religions", description = "正典が名指す使者たちの中にムハンマドを位置づける。名簿も順序も示さない、限定された預言者論の中で。" },
+    { title = "イエス", path = "wiki/jesus", description = "イスラムの伝統がその到来をムハンマドの予告として読む、それ以前の預言者。" },
+    { title = "近接遭遇のリスト", path = "wiki/list-of-close-encounters", description = "イスラーとミウラージュの昇天を、空中の乗り物による移送の出来事として目録に収める。" },
+    { title = "永遠者の評議会", path = "wiki/council-of-the-eternals", description = "1975年にエロヒムの惑星で、ヴォリロンがその中でムハンマドに会ったと伝えられる機関。" },
+    { title = "ハニーフィーヤ", path = "wiki/hanafiyya", description = "この枠組みがムハンマドの啓示をその中に位置づける、イスラム以前のアブラハム的一神教。" },
+    { title = "ペトラ", path = "wiki/petra", description = "この項目の文脈で取り上げる修正主義的地理において提案されているナバテアの遺跡。" },
+]
 
 [extra.infobox]
-type = "Arabian prophet, founder of the religious community that became Islam"
+type = "アラビアの預言者。のちにイスラームとなる宗教共同体の創始者"
 arabic = "<span class=\"arabic\">مُحَمَّد ٱبْن عَبْد ٱللَّٰه</span> *Muḥammad ibn ʿAbd Allāh*"
-name_meaning = "*Muḥammad* — \"the Praised One\" or \"He who is praised,\" from the Arabic root *ḥ-m-d* \"to praise\""
-birth = "c. 570 CE in Mecca (the traditional \"Year of the Elephant\")"
-death = "8 June 632 CE (12 Rabi al-Awwal, 11 AH) in Medina, aged approximately 62"
-lineage = "Banū Hāshim clan of the Quraysh tribe; father ʿAbd Allāh ibn ʿAbd al-Muṭṭalib (died before Muhammad's birth); mother Āminah bint Wahb (died c. 576 CE); raised by paternal grandfather ʿAbd al-Muṭṭalib until c. 578, then by paternal uncle Abū Ṭālib"
-first_revelation = "c. 610 CE at the Cave of Hira (Ghār Ḥirāʾ) on Jabal al-Nūr near Mecca, age approximately 40; Surah al-ʿAlaq (Q 96:1–5), beginning with the command *Iqraʾ* (\"Recite\") delivered by the angel Jibrīl (Gabriel)"
-hijra = "622 CE — the migration from Mecca to Yathrib (subsequently Medina), establishing the Islamic calendar (1 AH = the year beginning with the Hijra)"
-key_meccan_episodes = "First revelation at Hira; Khadija as first convert; early persecution of followers; the Isrāʾ wa-l-Miʿrāj (Night Journey and Ascension); Year of Sorrow (619 CE — deaths of Khadija and Abu Talib)"
-key_medinan_episodes = "Constitution of Medina; Battle of Badr (624); Battle of Uhud (625); Battle of the Trench (627); Treaty of Hudaybiyya (628); Conquest of Mecca (630); Farewell Pilgrimage (632)"
-revelation_text = "The Qur'an (<span class=\"arabic\">القرآن</span> *al-Qurʾān*), 114 surahs, transmitted over 22 years (c. 610–632 CE); textually canonised under the third caliph ʿUthmān ibn ʿAffān c. 650 CE"
-hadith_tradition = "The reported sayings, actions, and tacit approvals of Muhammad, transmitted through chains of narrators (*isnād*) and compiled in canonical collections in the 9th century CE — *Ṣaḥīḥ al-Bukhārī*, *Ṣaḥīḥ Muslim*, and the four Sunan collections in Sunni tradition; *al-Kāfī* and other collections in Shia tradition"
-framework_significance = "One of the messengers the canon names at Yahweh's table (ETTMTTP-2:64), among roughly forty representatives for whom it gives no list or order; the Cave of Hira revelation event preserves operational content about Elohim contact in the late Age of Pisces; the Isra' and Mi'raj preserves operational content about an aerial-craft translation event comparable to the Enoch and Elijah translations"
+name_meaning = "*Muḥammad*――「称えられる者」または「称賛される者」。アラビア語の語根 *ḥ-m-d*「称える」から"
+birth = "紀元570年頃、メッカで(伝統的な「象の年」)"
+death = "紀元632年6月8日(ヒジュラ暦11年ラビーウ・アル=アウワル月12日)、メディナで、約62歳"
+lineage = "クライシュ族のハーシム家。父はアブドゥッラー・イブン・アブドゥルムッタリブ(ムハンマドの誕生前に死去)、母はアーミナ・ビント・ワフブ(紀元576年頃に死去)。578年頃まで父方の祖父アブドゥルムッタリブに、その後は父方のおじアブー・ターリブに育てられた"
+first_revelation = "紀元610年頃、メッカ近郊のヌール山(ジャバル・アン=ヌール)にあるヒラー洞窟(ガール・ヒラー)で、約40歳。天使ジブリール(ガブリエル)によって伝えられた命令 *Iqraʾ*(「誦め」)で始まる凝血章(クルアーン96:1〜5)"
+hijra = "紀元622年――メッカからヤスリブ(のちのメディナ)への移住。イスラーム暦を確立した(ヒジュラ暦1年=ヒジュラで始まる年)"
+key_meccan_episodes = "ヒラーでの最初の啓示。最初の改宗者ハディージャ。信奉者への初期の迫害。イスラーとミウラージュ(夜の旅と昇天)。悲しみの年(紀元619年――ハディージャとアブー・ターリブの死)"
+key_medinan_episodes = "メディナ憲章。バドルの戦い(624年)。ウフドの戦い(625年)。塹壕の戦い(627年)。フダイビヤの和約(628年)。メッカ征服(630年)。別離の巡礼(632年)"
+revelation_text = "クルアーン(<span class=\"arabic\">القرآن</span> *al-Qurʾān*)、114章。22年間(紀元610〜632年頃)にわたって伝えられ、紀元650年頃に第三代カリフ、ウスマーン・イブン・アッファーンのもとで本文が正典化された"
+hadith_tradition = "ムハンマドの伝えられた言葉、行い、黙認。伝承者の鎖(*isnād*)を通じて伝えられ、紀元9世紀に正典的な集成にまとめられた――スンナ派では *Ṣaḥīḥ al-Bukhārī*、*Ṣaḥīḥ Muslim* と四つのスナン集、シーア派では *al-Kāfī* ほかの集成"
+framework_significance = "正典がヤハウェの食卓で名を挙げる使者の一人(ETTMTTP-2:64)。正典は約四十人の代表者について一覧も順序も示していない。ヒラー洞窟の啓示の出来事は、魚座の時代後期におけるエロヒムとの接触についての実際的内容を保存している。イスラーとミウラージュは、エノクやエリヤの移送に匹敵する、飛行体による移送の出来事についての実際的内容を保存している"
 +++
 
 **Muhammad ibn Abdullah** (Arabic <span class="arabic">مُحَمَّد ٱبْن عَبْد ٱللَّٰه</span>, *Muḥammad ibn ʿAbd Allāh*; c. 570 – 8 June 632 CE) was the Arabian prophet who founded the religious community that became **Islam**, the reciter of the **Qur'an** over a 22-year period of revelation (c. 610–632 CE), and the political leader who unified the Arabian Peninsula under the *ummah* polity during the last decade of his life. He is recognised by approximately one quarter of the contemporary human population — roughly 1.9 billion Muslims worldwide — as the final messenger (*khātam al-anbiyāʾ*, the "Seal of the Prophets") of the prophetic lineage that includes Ibrahim (Abraham), Musa (Moses), Dawud (David), Isa (Jesus), and the broader sequence of figures named in the Qur'an and the Hadith literature. Islam, the religious community he founded, is the second-largest religious tradition in the contemporary world after Christianity and is the principal religious affiliation of approximately fifty contemporary nation-states.

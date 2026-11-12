@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-07-02"
 translation_stale = false
 translation_sync = 100
@@ -16,10 +16,10 @@ claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "ב־1 ביולי 2026 הכריז צוות של University of Minnesota על SpudCell — תא סינתטי המורכב כולו מרכיבים לא־חיים, הגדל, משכפל את הגנום שלו ומתחלק על פני כמה דורות. זוהי הוכחת היתכנות, לא אורגניזם עצמאי: הוא אינו מסוגל לייצר חלבונים משלו ויש להזין אותו. בקריאה דרך הקורפוס, הוא ניצב בדיוק על הסף שיהוה מתאר ב»הספר המגלה את האמת«, שם החלה ציוויליזציית האלוהים עצמה בכך שיצרה »תאים חיים במבחנה« ברמה מדעית »הדומה לזו שאתם תגיעו אליה בקרוב«."
 canon_links = [
-    { title = "The Book Which Tells the Truth", path = "/library/the-book-which-tells-the-truth/" },
-    { title = "Elohim Home Planet", path = "/wiki/elohim-home-planet/" },
+    { title = "הספר המגלה את האמת", path = "/library/the-book-which-tells-the-truth/" },
+    { title = "כוכב־האם של האלוהים", path = "/wiki/elohim-home-planet/" },
     { title = "אלוהים", path = "/wiki/elohim/" },
-    { title = "Intelligent Design", path = "/wiki/intelligent-design/" }
+    { title = "תכנון תבוני", path = "/wiki/intelligent-design/" }
 ]
 sources = [
     { title = "התא הסינתטי הראשון בעולם בעל מחזור חיים מלא עשוי לחולל מהפכה בהנדסה הביולוגית", url = "https://twin-cities.umn.edu/news-events/worlds-first-synthetic-cell-complete-life-cycle-could-revolutionize-biological", outlet = "University of Minnesota", date = "2026-07-01" },

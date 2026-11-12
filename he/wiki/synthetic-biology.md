@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,16 +16,24 @@ editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
 alternative_names = ["Engineering biology", "Constructive biology", "Designed biology", "SynBio"]
+see_also = [
+    { title = "ארגז הכלים של הבריאה", path = "wiki/genesis-toolbox", description = "הסינתזה ברמת התוכנית: מערך הבריאה של הקנון, שתחום זה הוא ההתאמה המודרנית הקרובה ביותר אליו." },
+    { title = "הנדסת חיים", path = "wiki/life-engineering", description = "תחום־העל שבו מפותח במלואו טיעון ההתכנסות לביולוגיה סינתטית." },
+    { title = "הנדסה גנטית", path = "wiki/genetic-engineering", description = "התחום הוותיק יותר שהביולוגיה הסינתטית חופפת לו ומרחיבה אותו בפרקטיקה של דיסציפלינה הנדסית של ממש." },
+    { title = "גנומיקה סינתטית", path = "wiki/synthetic-genomics", description = "התחום האח של הגנום השלם, שהביולוגיה הסינתטית חופפת לו וכוללת אותו." },
+    { title = "אלוהים", path = "wiki/elohim", description = "הציוויליזציה שהמסגרת רואה בביולוגיה הסינתטית את ההתאמה הקרובה ביותר לאוצר המילים המעשי שלה." },
+    { title = "בראשית", path = "wiki/genesis", description = "סיפור הבריאה שהמסגרת קוראת כמתאר ביולוגיה מהונדסת בעת העתיקה הקדומה." },
+]
 
 [extra.infobox]
-type = "Engineering discipline applied to living systems"
-parent_field = "Life engineering"
-sister_fields = "Genetic engineering; synthetic genomics; xenobiology"
-distinguishing_feature = "Engineering-discipline practice (standardisation, modularity, abstraction, design–build–test cycles) applied to biological systems"
-foundational_milestones = "Repressilator (Elowitz and Leibler, 2000); genetic toggle switch (Gardner, Cantor, and Collins, 2000); first synthesis of a viral genome (Wimmer, 2002); BioBricks standard and Registry of Standard Biological Parts (Knight, 2003); iGEM (2004); semi-synthetic artemisinin (Keasling and colleagues, 2005 onward); JCVI-syn1.0 (2010)"
-key_techniques = "Genetic circuit design; metabolic pathway engineering; protein engineering (rational design and directed evolution); cell-free reaction systems; CRISPR-based circuit construction"
-current_status = "Active scientific discipline; commercial deployment in pharmaceuticals, food, materials, and industrial chemicals; multi-billion-dollar industry sector"
-framework_significance = "The discipline whose engineering-discipline vocabulary and methods most directly match the operational description of the Elohim's work in the Raëlian source material"
+type = "דיסציפלינה הנדסית המוחלת על מערכות חיות"
+parent_field = "הנדסת חיים"
+sister_fields = "הנדסה גנטית; גנומיקה סינתטית; קסנוביולוגיה"
+distinguishing_feature = "פרקטיקה של דיסציפלינה הנדסית (תקנון, מודולריות, הפשטה, מחזורי תכנון–בנייה–בדיקה) המוחלת על מערכות ביולוגיות"
+foundational_milestones = "הרפרסילטור (אלוביץ ולייבלר, 2000); המתג הגנטי הדו־מצבי (גרדנר, קנטור וקולינס, 2000); הסינתזה הראשונה של גנום נגיפי (וימר, 2002); תקן BioBricks ומאגר החלקים הביולוגיים התקניים (נייט, 2003); iGEM (2004); ארטמיסינין חצי־סינתטי (קיסלינג ועמיתיו, 2005 ואילך); JCVI-syn1.0 (2010)"
+key_techniques = "תכנון מעגלים גנטיים; הנדסת מסלולים מטבוליים; הנדסת חלבונים (תכנון רציונלי ואבולוציה מכוונת); מערכות תגובה נטולות תאים; בניית מעגלים מבוססת CRISPR"
+current_status = "דיסציפלינה מדעית פעילה; יישום מסחרי בתרופות, במזון, בחומרים ובכימיקלים תעשייתיים; ענף תעשייה של מיליארדי דולרים"
+framework_significance = "הדיסציפלינה שאוצר המילים והשיטות ההנדסיים שלה תואמים באופן הישיר ביותר את התיאור המבצעי של עבודת האלוהים בחומר המקור הראלי"
 +++
 
 **Synthetic biology** is the engineering-discipline branch of contemporary [life engineering](../life-engineering/). It applies engineering methods — standardisation, modularity, abstraction, characterisation, and design–build–test cycles — to the construction of biological systems with predetermined properties. The field is distinguished from older [genetic engineering](../genetic-engineering/), which it overlaps and extends, by its programmatic commitment to genuine engineering-discipline practice rather than the case-by-case empirical approach that characterised most pre-2000 biological-modification work; and from [synthetic genomics](../synthetic-genomics/), which it overlaps and includes, by its concern with sub-systems and components in addition to complete genomes.

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,17 +14,27 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of megalithic sites", "Ancient megalithic architecture index", "Cyclopean and megalithic construction reference"]
+alternative_names = ["Каталог мегалитических памятников", "Указатель древней мегалитической архитектуры", "Справочник по циклопическому и мегалитическому строительству"]
+see_also = [
+    { title = "Древние строители", path = "wiki/ancient-builders", description = "Парная статья, посвящённая тому, кто построил памятники, перечисленные в этом каталоге." },
+    { title = "Археоастрономия", path = "wiki/archaeoastronomy", description = "Систематические астрономические ориентации, задокументированные во многих каталогизированных памятниках." },
+    { title = "Элохим", path = "wiki/elohim", description = "Создатели, которым рамка приписывает периодическую поддержку развитого древнего строительства." },
+    { title = "Список мифем и мифологических мотивов", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "Мифологическая летопись, которую корпус читает наряду с материальными свидетельствами мегалитов." },
+    { title = "Пангея", path = "wiki/pangaea", description = "Допотопный массив суши, предшествующий глубокой строительной хронологии корпуса и обрамляющий её." },
+    { title = "Бытие", path = "wiki/genesis", description = "Исходное повествование, на котором основан рассказ корпуса о ранней развитой человеческой цивилизации." },
+    { title = "Гёбекли-Тепе", path = "wiki/gobekli-tepe", description = "Святилище ок. 9600 г. до н. э. — самый ранний датированный памятник, рассматриваемый каталогом." },
+    { title = "Большой сфинкс", path = "wiki/great-sphinx", description = "Памятник-лев в Гизе — другой аномально датированный памятник, рассматриваемый каталогом." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of megalithic archaeological sites"
-scope = "Pre-Pottery Neolithic through pre-Columbian eras; primary focus on sites with substantial framework relevance"
-criteria_for_inclusion = "Substantial use of large stone blocks (megaliths); evidence of advanced construction technique; documented archaeoastronomical alignments; cultural prominence; or framework relevance for the corpus's interpretive work"
-date_ranges_represented = "From c. 9600 BCE (Göbekli Tepe and Pre-Pottery Neolithic complex) to c. 1600 CE (late pre-Columbian Andean and Mesoamerican)"
-catalogue_columns = "Site name; location; conventional dating; construction features; archaeoastronomy where applicable; framework reading"
-mainstream_archaeology_position = "Sites are products of human civilisations using documented construction techniques appropriate to their periods; framework readings of extreme antiquity or extraterrestrial-assistance are not endorsed by mainstream archaeology"
-framework_position = "Megalithic record preserves operational evidence of advanced ancient construction capability across multiple regions and time-periods, consistent with the corpus's account of intermittent Elohim-supported cultural development during the Earth project's middle and later phases"
-caveat = "Coverage is selective rather than exhaustive; dating and construction-feature claims follow mainstream archaeological consensus where one exists, with contested or alternative claims explicitly flagged"
+type = "Справочный каталог мегалитических археологических памятников"
+scope = "От докерамического неолита до доколумбовой эпохи; основное внимание — памятникам, существенно значимым для рамки"
+criteria_for_inclusion = "Значительное использование крупных каменных блоков (мегалитов); признаки развитой строительной техники; задокументированные археоастрономические ориентации; культурная значимость; или значимость для интерпретативной работы корпуса"
+date_ranges_represented = "От ок. 9600 г. до н. э. (Гёбекли-Тепе и комплекс докерамического неолита) до ок. 1600 г. н. э. (поздние доколумбовы культуры Анд и Мезоамерики)"
+catalogue_columns = "Название памятника; местоположение; общепринятая датировка; особенности конструкции; археоастрономия, где применимо; прочтение рамки"
+mainstream_archaeology_position = "Памятники — продукты человеческих цивилизаций, использовавших задокументированные строительные техники, соответствующие их эпохам; прочтения рамки о глубочайшей древности или внеземной помощи общепринятой археологией не поддерживаются"
+framework_position = "Регистрация по каждому памятнику на собственном уровне каждого тезиса, с полным изложением версий общепринятой археологии; ни один памятник, ориентация или передатировка не служат доказательством рамки"
+caveat = "Охват выборочный, а не исчерпывающий; утверждения о датировке и особенностях конструкции следуют общепринятому археологическому консенсусу там, где он есть, а спорные или альтернативные утверждения явно отмечены"
 +++
 
 This entry catalogues megalithic sites of the ancient world — large stone structures whose construction features, dating, or astronomical alignments make them objects of substantial archaeological interest and, in many cases, objects of the Wheel of Heaven framework's interpretive engagement. *Megalith* derives from the Greek *megas* "great" + *lithos* "stone," and is used in archaeology to designate any structure incorporating large stone blocks as principal construction elements. The conventional archaeological literature treats the megalithic phenomenon as a feature of the Neolithic and Bronze Age periods (c. 9600 BCE through c. 1500 BCE in different regional contexts), with later megalithic traditions (Andean, Mesoamerican, sub-Saharan African) extending in some cases into the second millennium CE. The catalogue's scope encompasses this full range.

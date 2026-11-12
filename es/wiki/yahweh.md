@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 99
@@ -23,14 +23,16 @@ alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "Jehová", 
 portrait_id = "yahweh"
 image = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.avif"
-image_alt = "AI-generated editorial portrait of Yahweh as an elder Eloha with almond-shaped eyes, long pale hair, and a calm green-lit presence."
-image_caption = "Interpretive portrait for the Yahweh wiki entry and library speaker metadata."
+image_alt = "Retrato editorial generado por IA de Yahvé como un eloha anciano de ojos almendrados, cabello largo y claro y una presencia serena iluminada en verde."
+image_caption = "Retrato interpretativo para la entrada de wiki sobre Yahvé y los metadatos de oradores de la biblioteca."
 see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "La designación plural de la que Yahvé es el miembro principal." },
     { title = "Consejo de los Eternos", path = "wiki/council-of-the-eternals", description = "El órgano de gobierno que Yahvé preside." },
     { title = "Jesús", path = "wiki/jesus", description = "La figura convencionalmente identificada como hijo de Yahvé en la tradición cristiana." },
     { title = "Moisés", path = "wiki/moses", description = "Principal contacto de Yahvé durante la narración del Éxodo." },
     { title = "Abraham", path = "wiki/abraham", description = "El patriarca fundador a través del cual Yahvé estableció la alianza." },
+    { title = "El monoteísmo es la pregunta equivocada", path = "articles/monotheism-is-the-wrong-question", description = "Yahvé leído como un Eloha con nombre y representativo que habla en nombre de los hacedores plurales, no como el ser mismo." },
+    { title = "Seis mañanas, seis años", path = "articles/six-mornings-six-years", description = "Lo lee como su propio redactor: nombres retenidos, embargos con fecha, reparación que protege las fuentes." },
 ]
 
 footnotes = [

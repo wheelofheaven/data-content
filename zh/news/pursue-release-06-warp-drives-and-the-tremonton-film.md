@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "在第五批公布六周之后,美国战争部于 war.gov/UFO 发布了 PURSUE 第六批:据发布时媒体转述的战争部统计为71份文件——55份文档、15段视频与1段录音——其中67份来自战争部自身,4份来自科罗拉多州的一个地方执法机构,即该计划的首个非联邦贡献者。本批次的重心是一条文书链:国防情报局先进航空航天武器系统应用计划(2008—2012年)的目标说明、合同授予与五次合同修订,连同该计划委托撰写的38篇参考论文中的37篇,主题涵盖曲速引擎、可穿越虫洞、反重力、负质量推进、隐形斗篷、统计学德雷克方程,以及近距离接触所致的伤害报告。与之并列的是档案库中最古老的影片——海军准尉 Delbert C. Newhouse 于1952年7月2日在犹他州特里蒙顿上空拍摄的十二至十四个明亮物体,连同其完整的蓝皮书计划档案——以及一段1952年3月的录音:蓝皮书计划首任负责人 Edward J. Ruppelt 上尉告诉听众,空军800起案例中有五分之一无法解释,且报告集中于洛斯阿拉莫斯、阿尔伯克基与橡树岭周边。本项目将第六批登记为解读正典的背景,而非回归的征兆——并将战争部9月14日的法律豁免视为这一间隔期内更具后果的进展:该豁免为现任与前任人员及承包商向 PURSUE 提交 UAP 信息开辟了一条受保护的渠道。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "当下的背景"
+cross_reference = "水瓶座时代，§IX"
 canon_links = [
     { title = "水瓶座时代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

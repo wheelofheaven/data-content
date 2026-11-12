@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,18 +16,28 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the doubled signature", "the doubled-signature principle", "the Hamlet's Mill principle", "the doubled astronomical signature", "doubled invocation across the zodiacal axis"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "ישוע", path = "wiki/jesus", description = "דמות הדג והבתולה הנושאת את חתימת הדגים–הבתולה של העידן הנוצרי." },
+    { title = "משה", path = "wiki/moses", description = "פותח עידן האיל בעל הקרניים, שמסורתו מקודדת את חתימת הטלה–המאזניים." },
+    { title = "אפוקליפסה", path = "wiki/apocalypse", description = "העידן הנוכחי, שחתימת המים והאריה של הדלי–האריה שלו מונחת כעת." },
+    { title = "בראשית", path = "wiki/genesis", description = "טקסט עיקרי שהעיקרון קורא כמשמר תוכן אסטרונומי־פרצסיוני מקודד." },
+    { title = "המקרא העברי", path = "wiki/hebrew-bible", description = "קורפוס הסמליות הדתית שההזכרה הכפולה קוראת לשם חתימותיו האסטרונומיות." },
+    { title = "תחרות קוסמית", path = "wiki/cosmic-competition", description = "מסגרת נפרדת של הקורפוס, שהערך מבחין בינה לבין עקרון החתימה הכפולה." },
+    { title = "הטחנה הטוחנת את העידנים", path = "articles/the-mill-that-grinds-the-ages", description = "החתימה הכפולה הנקראת כחתימת־הנגד של היודעים בסוד — règle des signes opposés של סנדי — עידן אחר עידן." },
+    { title = "טאורוקטוניה", path = "wiki/tauroctony", description = "צמד השור–העקרב, הנישא בעקרב של הריגת השור המיתראית." },
+]
 
 [extra.infobox]
-type = "Hermeneutic-interpretive principle for reading precessional-age symbolism"
-basic_observation = "Each precessional age encodes its astronomical signature in iconographic and religious form across both its current zodiacal sign and the opposite sign on the zodiacal axis"
-mechanism = "Redundant doubled invocation ensures astronomical identity survives cultural transmission across centuries"
-zodiacal_opposition_axes = "Aries-Libra; Taurus-Scorpio; Gemini-Sagittarius; Cancer-Capricorn; Leo-Aquarius; Virgo-Pisces"
-worked_cases = "Pisces-Virgo (Christianity); Aries-Libra (Mosaic period); Taurus-Scorpio (Abrahamic reconstruction); Aquarius-Leo (present age)"
-principal_antecedent = "Giorgio de Santillana and Hertha von Dechend, *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (Boston: Gambit, 1969)"
-distinguished_from = "The precessional ages framework specifically (which structures the corpus's broader chronology); the Cosmic Competition framework (which concerns multiple humanities); the precession of the equinoxes itself (the underlying astronomical phenomenon)"
-status_in_source_material = "Not present in the Raëlian source material; corpus-internal interpretive principle drawn from Hamlet's Mill and applied systematically across the corpus's twelve-age framework"
-principal_text = "Hamlet's Mill (Santillana and von Dechend, 1969); various Wheel of Heaven corpus chapters applying the principle"
-principal_framework_source = "Giorgio de Santillana and Hertha von Dechend, *Hamlet's Mill* (1969); Jean Sendy, *L'ère du Verseau* (1970)"
+type = "עיקרון הרמנויטי־פרשני לקריאת הסמליות של העידנים הנקיפתיים"
+basic_observation = "כל עידן נקיפתי מקודד את חתימתו האסטרונומית בצורה איקונוגרפית ודתית הן במזל הנוכחי שלו והן במזל שמנגד לו על ציר גלגל המזלות"
+mechanism = "האזכור הכפול והעודף מבטיח שהזהות האסטרונומית תשרוד את ההעברה התרבותית לאורך מאות שנים"
+zodiacal_opposition_axes = "טלה–מאזניים; שור–עקרב; תאומים–קשת; סרטן–גדי; אריה–דלי; בתולה–דגים"
+worked_cases = "דגים–בתולה (הנצרות); טלה–מאזניים (התקופה המוסאית); שור–עקרב (השחזור האברהמי); דלי–אריה (העידן הנוכחי)"
+principal_antecedent = "ג'ורג'ו דה סנטיאנה והרתה פון דכנד, *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (בוסטון: Gambit, 1969)"
+distinguished_from = "מסגרת העידנים הנקיפתיים במובן הצר (המבנה את הכרונולוגיה הרחבה של הקורפוס); מסגרת התחרות הקוסמית (העוסקת באנושויות רבות); נקיפת השוויונות עצמה (התופעה האסטרונומית שביסוד)"
+status_in_source_material = "אינו מופיע בחומר המקור הראלי; עיקרון פרשני פנימי של הקורפוס השאוב מ־Hamlet's Mill ומוחל באופן שיטתי על מסגרת שנים־עשר העידנים של הקורפוס"
+principal_text = "Hamlet's Mill (סנטיאנה ופון דכנד, 1969); פרקים שונים בקורפוס של Wheel of Heaven המחילים את העיקרון"
+principal_framework_source = "ג'ורג'ו דה סנטיאנה והרתה פון דכנד, *Hamlet's Mill* (1969); ז'אן סנדי, *L'ère du Verseau* (1970)"
 +++
 
 The **Doubled Signature** is a hermeneutic principle, drawn from Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (1969) and applied systematically by the Wheel of Heaven corpus, by which {% claim(type="speculative", id="woh-claim-0044") %}each precessional age encodes its astronomical signature in iconographic and religious form across two zodiacal signs: the current sign, which marks the constellation against which the vernal equinox rises, and its opposite across the zodiacal axis, which appears at the autumnal equinox and supplies the iconographic counterweight.{% end %} Encoding the signature in *two* symbolic complexes rather than one is the principle's operative feature: the redundancy lets the astronomical identity survive centuries of transmission during which the original meaning is lost, the first observers are forgotten, and later theological elaboration obscures the astronomical content.

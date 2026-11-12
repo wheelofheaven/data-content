@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,24 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "Bioengineering of life", "Living-systems engineering"]
+alternative_names = ["工学的生物学", "デザイナー生物学", "構成的生物学", "生命の生物工学", "生命システム工学"]
+see_also = [
+    { title = "ジェネシス・ツールボックス", path = "wiki/genesis-toolbox", description = "計画全体の総合。正典の創造の技術体系の中心的段階としての生命工学。" },
+    { title = "合成生物学", path = "wiki/synthetic-biology", description = "この分野の最も野心的な部門。コーパスが生命工学と呼ぶものの、標準的な学問分野上の名称。" },
+    { title = "遺伝子工学", path = "wiki/genetic-engineering", description = "生命工学の傘の下にある、読み・書き・編集の基礎的な下位分野。" },
+    { title = "合成ゲノミクス", path = "wiki/synthetic-genomics", description = "台頭しつつある人間の能力のうち、ゲノム規模の設計と合成を担う構成要素。" },
+    { title = "エロヒム", path = "wiki/elohim", description = "人類がいまその生命設計の能力に再び近づきつつあるとこの枠組みが読む文明。" },
+    { title = "創世記", path = "wiki/genesis", description = "この枠組みが、エロヒムがこの同じ能力を行使する姿を描いたものとして読む創造の記述。" },
+]
 
 [extra.infobox]
-type = "Engineering discipline applied to living systems"
-principal_sub_disciplines = "Genetic engineering; synthetic biology; synthetic genomics; xenobiology"
-adjacent_fields = "Bioinformatics; systems biology; metabolic engineering; protein engineering; directed evolution; cell-free biology; biocomputing; tissue engineering"
-key_capability = "Reading, writing, and editing DNA; designing organisms and biological subsystems at the genetic and molecular level"
-foundational_milestones = "First recombinant DNA (Berg, Boyer, Cohen — 1972–73); first commercial recombinant pharmaceutical (Humulin, 1982); first complete genome sequence (1995); first cell with synthetic genome (JCVI-syn1.0, 2010); first minimal synthetic cell (JCVI-syn3.0, 2016); CRISPR–Cas9 (Doudna and Charpentier, 2012); first CRISPR gene therapy approval (Casgevy, 2023)"
-current_status = "Active and rapidly developing scientific and industrial field; capability expanding by orders of magnitude per decade"
-framework_significance = "The contemporary terrestrial development of the capability the source material attributes to the Elohim civilization; on the framework, the most concrete convergence between source-predicted and observed human development in the Aquarian period"
+type = "生命システムに適用される工学分野"
+principal_sub_disciplines = "遺伝子工学、合成生物学、合成ゲノミクス、ゼノバイオロジー"
+adjacent_fields = "バイオインフォマティクス、システム生物学、代謝工学、タンパク質工学、指向性進化、無細胞生物学、バイオコンピューティング、組織工学"
+key_capability = "DNAを読み、書き、編集すること。遺伝子・分子レベルで生物と生物学的サブシステムを設計すること"
+foundational_milestones = "最初の組換えDNA(バーグ、ボイヤー、コーエン――1972〜73年)。最初の商業用組換え医薬品(ヒューマリン、1982年)。最初の完全なゲノム配列(1995年)。合成ゲノムを持つ最初の細胞(JCVI-syn1.0、2010年)。最初の最小合成細胞(JCVI-syn3.0、2016年)。CRISPR-Cas9(ダウドナとシャルパンティエ、2012年)。最初のCRISPR遺伝子治療の承認(カスゲビー、2023年)"
+current_status = "活発かつ急速に発展している科学・産業分野。能力は十年ごとに桁違いに拡大している"
+framework_significance = "典拠資料がエロヒム文明に帰する能力の、現代の地上における発展。この枠組みでは、水瓶座の時代において典拠が予告したことと観察される人類の発展とが最も具体的に収斂している点"
 +++
 
 **Life engineering** is the application of scientific and engineering methods to the deliberate design and construction of living organisms or biological systems with novel functions, characteristics, or capabilities. It is a contemporary scientific and industrial field, in active development since the early 1970s and expanding rapidly across the 2010s and 2020s. The term is used as an umbrella for several closely related disciplines — most prominently *genetic engineering*, *synthetic biology*, *synthetic genomics*, and *xenobiology* — that share the common project of treating living matter as something that can be designed at the molecular level rather than only observed and described.

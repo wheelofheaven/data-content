@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,16 +15,29 @@ category = "Methodology"
 entry_type = "concept"
 alternative_names = ["archaeoastronomy", "astroarchaeology (earlier term)", "cultural astronomy (broader contemporary term)", "ethnoastronomy (related discipline)", "astronomy in culture (alternative designation)", "arch\u00e9oastronomie (French)", "Arch\u00e4oastronomie (German)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus", "age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "哈姆雷特的磨坊", path = "wiki/hamlets-mill", description = "岁差编码假说，考古天文学有能力检验其关于古代天文学的主张。" },
+    { title = "世界时代", path = "wiki/world-age", description = "有赖于古代文化掌握岁差知识的岁差时代结构。" },
+    { title = "黄道十二宫", path = "wiki/zodiac", description = "考古天文学透过遗址朝向来记录其古代推算的星座框架。" },
+    { title = "古代宇航员假说", path = "wiki/ancient-astronaut-hypothesis", description = "在喜帕恰斯之前是否已有岁差认识的问题上，文集将其与主流考古天文学对照并论的诠释传统。" },
+    { title = "古代建造者", path = "wiki/ancient-builders", description = "本学科实地勘测其天文朝向的巨石与神庙建造者。" },
+    { title = "神圣几何学", path = "wiki/sacred-geometry", description = "本学科在对准天象之遗址上解读的、天象知识的建筑—数学编码。" },
+    { title = "哥贝克力石阵", path = "wiki/gobekli-tepe", description = "约公元前 9600 年的圣所，处于 43 号石柱考古天文学争论的中心。" },
+    { title = "Graham Hancock", path = "wiki/graham-hancock", description = "其著作使古代遗址的考古天文学解读广为流行、也引发争论的作家。" },
+    { title = "狮身人面像", path = "wiki/great-sphinx", description = "面朝春分日出的狮形纪念物，处于更早定年与狮子座时代论证的中心。" },
+    { title = "猎户座关联理论", path = "wiki/orion-correlation", description = "Bauval 的吉萨—猎户座地面星图论题，以及约公元前 10,500 年的定年。" },
+    { title = "John Anthony West", path = "wiki/john-anthony-west", description = "West 与 Schwaller 的象征主义埃及，以及图像追踪岁差的主张。" },
+]
 
 [extra.infobox]
-type = "Interdisciplinary scientific field studying astronomical knowledge, practices, and beliefs of ancient and pre-modern cultures; principal empirical discipline relevant to corpus chronological framework"
-disciplinary_emergence = "Sir Norman Lockyer (*The Dawn of Astronomy*, 1894); Alexander Thom (1950s-1970s); Gerald Hawkins (*Stonehenge Decoded*, 1965); the substantial subsequent disciplinary development since the 1960s-1970s"
+type = "研究古代与前现代文化之天文知识、实践与信仰的跨学科科学领域；与文集纪年框架最直接相关的实证学科"
+disciplinary_emergence = "诺曼·洛克耶爵士（*The Dawn of Astronomy*，1894）；亚历山大·汤姆（1950 年代至 1970 年代）；杰拉尔德·霍金斯（*Stonehenge Decoded*，1965）；经 1960 年代至 1970 年代整合为独立学科"
 principal_methodological_framework = "Green vs. brown archaeoastronomy distinction (Ruggles); statistical-quantitative analysis (green) vs. intensive cultural-ethnographic engagement (brown)"
-principal_research_methods = "Field surveys with theodolite measurements of alignment azimuths; astronomical reconstruction of ancient skies; ethnographic and ethnohistorical engagement; statistical analysis of alignment populations; computational simulation of ancient celestial conditions; integrated archaeological-astronomical analysis"
-principal_documented_phenomena = "Solar alignments (solstices, equinoxes, cross-quarter days); lunar alignments (18.6-year lunar standstill cycle); stellar alignments (Sirius heliacal rising, Orion, Pleiades, others); planetary alignments (Venus principally); precessional content (contested degree); calendar-mathematical content; broader cosmological-religious content"
-principal_corpus_engagement = "Mainstream archaeoastronomy as substantive empirical foundation for corpus chronological framework; *Hamlet's Mill* precessional-encoding hypothesis as principal load-bearing methodological commitment; substantial cross-cultural pre-Hipparchean precessional awareness as corpus claim"
-distinguished_from = "Astrology (the substantial astrological tradition engaging celestial-terrestrial correspondence); the broader history of astronomy (the substantial discipline studying astronomical knowledge through written records principally); pseudo-archaeoastronomy (the substantial alternative-archaeoastronomy tradition with methodologically problematic engagement)"
-status_in_framework = "Principal empirical discipline relevant to corpus chronological framework; substantive engagement with the *Hamlet's Mill* hypothesis and broader corpus precessional content; corpus position threads mainstream-acceptable and alternative-tradition content carefully"
+principal_research_methods = "用经纬仪测量对准方位角的实地勘测；古代天空的天文重建；民族志与民族史研究；对准样本的统计分析；古代天象条件的计算机模拟；考古—天文的综合分析"
+principal_documented_phenomena = "太阳对准（至点、分点、季中日）；月亮对准（18.6 年的月静止周期）；恒星对准（天狼星偕日升、猎户座、昴星团等）；行星对准（主要是金星）；岁差内容（程度有争议）；历法—数学内容；更广的宇宙论—宗教内容"
+principal_corpus_engagement = "主流考古天文学作为文集纪年框架的实证基础；*Hamlet's Mill*（《哈姆雷特的磨坊》）的岁差编码假说作为承重性的方法论立场；喜帕恰斯之前、经由与创造者接触而传授的岁差知识，是文集独特的主张"
+distinguished_from = "占星学（天地对应的传统）；天文学史（主要通过书面记录研究天文知识）；伪考古天文学（其方法受到主流考古天文学批评的另类传统）"
+status_in_framework = "与文集纪年框架最相关的实证学科；将 *Hamlet's Mill*（《哈姆雷特的磨坊》）假说作为推论性的基础设施加以采纳；区分严谨的考古天文学与思辨性的另类传统，同时公允地解读两者"
 +++
 
 **Archaeoastronomy** is the interdisciplinary study of how ancient and

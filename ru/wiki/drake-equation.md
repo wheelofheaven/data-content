@@ -6,27 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Science & Technology"
 entry_type = "concept"
-alternative_names = ["Drake Equation", "Green Bank Equation (occasional alternative)", "Drake-Sagan Equation (rarely used)", "\u00e9quation de Drake (French)", "Drake-Gleichung (German)"]
+alternative_names = ["Уравнение Дрейка", "уравнение Грин-Бэнк (изредка встречающийся вариант)", "уравнение Дрейка–Сагана (употребляется редко)", "équation de Drake (франц.)", "Drake-Gleichung (нем.)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Астробиология", path = "wiki/astrobiology", description = "Магистральная исследовательская программа, внутри которой корпус обращается к уравнению." },
+    { title = "Уфология", path = "wiki/ufology", description = "Область свидетельств контакта, которая, по прочтению корпуса, уже разрешает вопрос Ферми, поставленный уравнением." },
+    { title = "Родная планета Элохимов", path = "wiki/elohim-home-planet", description = "Конкретная задокументированная цивилизация, которую корпус рассматривает как решённый случай уравнения." },
+    { title = "Космическое соревнование", path = "wiki/cosmic-competition", description = "Прочтение рамкой динамики галактических цивилизаций, которую уравнение абстрактно подсчитывает." },
+    { title = "Условия связности Сенди", path = "wiki/sendys-conditions-of-coherence", description = "Ограничение единственной точки данных, накладываемое на биологические и цивилизационные параметры уравнения." },
+    { title = "Гипотеза древних астронавтов", path = "wiki/ancient-astronaut-hypothesis", description = "Более широкая рамка, в которой корпус помещает тезис об уже установленном контакте." },
+]
 
 [extra.infobox]
-type = "Probabilistic formulation expressing the number of detectable communicative extraterrestrial civilizations in the Milky Way galaxy as the product of seven contributing factors"
-formulated_by = "Frank Drake (1930-2022); November 1, 1961 at National Radio Astronomy Observatory, Green Bank, West Virginia, for the first SETI conference (the 'Order of the Dolphin' meeting)"
+type = "Вероятностная формула, выражающая число обнаружимых внеземных цивилизаций, способных к общению, в Млечном Пути как произведение семи множителей"
+formulated_by = "Фрэнк Дрейк (1930–2022); 1 ноября 1961 года в Национальной радиоастрономической обсерватории в Грин-Бэнке (Западная Вирджиния), к первой конференции SETI (встреча «Ордена дельфина»)"
 equation = "N = R* \u00d7 fp \u00d7 ne \u00d7 fl \u00d7 fi \u00d7 fc \u00d7 L"
-parameters = "R* (rate of star formation); fp (fraction of stars with planets); ne (number of habitable planets per planet-bearing star); fl (fraction of habitable planets developing life); fi (fraction with intelligence); fc (fraction with detectable communication); L (lifetime of communicative civilizations)"
-principal_purpose = "Structural framework organizing the questions a SETI program must engage; 'a tool for quantifying our ignorance' (Drake); not principally a definitive quantification tool"
-parameter_constraint_status = "Astronomical parameters (R*, fp, ne) substantially constrained post-1995 through exoplanet revolution; biological and civilizational parameters (fl, fi, fc, L) remain substantively contested"
-principal_reformulations = "Sara Seager's biosignature-detection equation (2013); Adam Frank and Woodruff Sullivan archaeological reformulation (2016); Anders Sandberg, Eric Drexler, Toby Ord uncertainty-propagation analysis (2018)"
-principal_framing_question = "The Fermi Paradox (1950): given optimistic parameter estimates implying substantial galactic civilization counts, why don't we observe any?"
-corpus_position = "Substantive scientific framework engaged at the descriptive level; alliance-contact framework articulated in Vorilhon source provides substantive resolution to Fermi Paradox the equation generates"
-distinguished_from = "The broader SETI program (Drake Equation as one component); the Fermi Paradox (the question the equation's optimistic estimates pose); the Seager equation (post-2013 biosignature-focused adaptation); the Frank-Sullivan archaeological equation (2016 reformulation focused on past rather than present civilizations)"
+parameters = "R* (темп звездообразования); fp (доля звёзд с планетами); ne (число пригодных для жизни планет на звезду с планетами); fl (доля пригодных для жизни планет, на которых возникает жизнь); fi (доля с разумом); fc (доля с обнаружимой связью); L (продолжительность существования цивилизаций, способных к связи)"
+principal_purpose = "Повестка, упорядочивающая вопросы, которыми должна заниматься программа SETI; «способ измерить наше невежество» (Дрейк) — прежде всего не инструмент расчёта"
+parameter_constraint_status = "Астрономические члены (R*, fp, ne) хорошо ограничены после экзопланетной революции 1995 года; биологические и цивилизационные члены (fl, fi, fc, L) остаются спорными"
+principal_reformulations = "Уравнение биосигнатур Сары Сигер (2013); археологическая переформулировка Фрэнка и Салливана (2016); анализ неопределённости Сандберга, Дрекслера и Орда (2018)"
+principal_framing_question = "Парадокс Ферми (1950): если оптимистичные значения уравнения предполагают галактику, полную цивилизаций, почему мы не наблюдаем ни одной?"
+corpus_position = "Рамка считает уравнение добротной наукой, но порождаемый им парадокс Ферми читает как уже разрешённый — контакт с Элохим, о котором сообщает раэлианский источник, устанавливает, что N больше единицы, а не оставляет это оценке"
+distinguished_from = "Программа SETI в целом (уравнение — лишь её часть); парадокс Ферми (вопрос, который ставят оптимистичные значения уравнения); уравнение Сигер (сосредоточено на биосигнатурах, 2013); археологическое уравнение Фрэнка и Салливана (прошлые, а не нынешние цивилизации, 2016)"
 status_in_framework = "Substantive contemporary scientific formulation engaged within corpus framework's broader astrobiology engagement; principal resolution to Fermi Paradox articulated through alliance-contact framework"
 +++
 

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -20,12 +20,13 @@ claim_type = "framework"
 alternative_names = ["космическая цепь", "цепь творения", "космическая цепь творения", "повторяющийся космический процесс", "космический творческий цикл", "цикл создателей"]
 timeline = ["pre-creation", "aries", "pisces", "aquarius", "post-aquarius"]
 see_also = [
-    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "Конкретная фаза оценки в пределах более широкой Космической Цепи — оценка соответствия наследованию." },
-    { title = "Elohim", path = "wiki/elohim", description = "Цивилизация-создатель, обнаружившая в эпоху Овна, что она и сама была создана." },
-    { title = "Apocalypse", path = "wiki/apocalypse", description = "Оценка наследования эпохи Водолея — нынешняя фаза цепи для человечества Земли." },
-    { title = "Embassy", path = "wiki/embassy", description = "Проектируемое место события наследования, на котором Земля получила бы накопленное знание альянса." },
-    { title = "Doubled Signature", path = "wiki/doubled-signature", description = "Связанный истолковательный принцип, действующий в пределах более широкой рамки Космической Цепи." },
-    { title = "Genesis", path = "wiki/genesis", description = "Повествование о творении, прочитанное как один конкретный случай повторяющегося образца творения в цепи." },
+    { title = "Макробиология", path = "wiki/macrobiology", description = "Человечество, прочитанное как организм на один масштаб выше, распространяющееся по цепи сотворённых и творящих цивилизаций." },
+    { title = "Космическое соревнование", path = "wiki/cosmic-competition", description = "Конкретная фаза оценки в пределах более широкой Космической Цепи — оценка соответствия наследованию." },
+    { title = "Элохим", path = "wiki/elohim", description = "Цивилизация-создатель, обнаружившая в эпоху Овна, что она и сама была создана." },
+    { title = "Апокалипсис", path = "wiki/apocalypse", description = "Оценка наследования эпохи Водолея — нынешняя фаза цепи для человечества Земли." },
+    { title = "Посольство", path = "wiki/embassy", description = "Проектируемое место события наследования, на котором Земля получила бы накопленное знание альянса." },
+    { title = "Удвоенная подпись", path = "wiki/doubled-signature", description = "Связанный истолковательный принцип, действующий в пределах более широкой рамки Космической Цепи." },
+    { title = "Бытие", path = "wiki/genesis", description = "Повествование о творении, прочитанное как один конкретный случай повторяющегося образца творения в цепи." },
 ]
 
 footnotes = [

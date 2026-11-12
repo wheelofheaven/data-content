@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,17 +14,27 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of megalithic sites", "Ancient megalithic architecture index", "Cyclopean and megalithic construction reference"]
+alternative_names = ["거석 유적 목록", "고대 거석 건축 색인", "키클롭스식·거석 건축 참고 자료"]
+see_also = [
+    { title = "고대 건설자", path = "wiki/ancient-builders", description = "이 목록이 나열하는 유적을 누가 건설했는지를 다루는 짝 항목." },
+    { title = "고고천문학", path = "wiki/archaeoastronomy", description = "목록에 실린 많은 유적에 걸쳐 기록된 체계적인 천문 정렬." },
+    { title = "엘로힘", path = "wiki/elohim", description = "프레임워크가 진보한 고대 건설을 간헐적으로 지원했다고 보는 창조자들." },
+    { title = "신화소와 신화적 모티프 목록", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "코퍼스가 거석의 물질적 증거와 나란히 읽는 신화적 기록." },
+    { title = "판게아", path = "wiki/pangaea", description = "코퍼스의 깊은 건설 연대기에 앞서며 그 틀을 이루는 대홍수 이전 대륙." },
+    { title = "창세기", path = "wiki/genesis", description = "초기의 진보한 인류 문명에 대한 코퍼스의 설명을 고정하는 원천 서사." },
+    { title = "괴베클리 테페", path = "wiki/gobekli-tepe", description = "기원전 약 9600년의 성소 — 목록이 다루는 가장 이른 연대의 유적." },
+    { title = "대스핑크스", path = "wiki/great-sphinx", description = "기자의 사자 기념물 — 목록이 다루는, 연대가 변칙적인 또 하나의 유적." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of megalithic archaeological sites"
-scope = "Pre-Pottery Neolithic through pre-Columbian eras; primary focus on sites with substantial framework relevance"
-criteria_for_inclusion = "Substantial use of large stone blocks (megaliths); evidence of advanced construction technique; documented archaeoastronomical alignments; cultural prominence; or framework relevance for the corpus's interpretive work"
-date_ranges_represented = "From c. 9600 BCE (Göbekli Tepe and Pre-Pottery Neolithic complex) to c. 1600 CE (late pre-Columbian Andean and Mesoamerican)"
-catalogue_columns = "Site name; location; conventional dating; construction features; archaeoastronomy where applicable; framework reading"
-mainstream_archaeology_position = "Sites are products of human civilisations using documented construction techniques appropriate to their periods; framework readings of extreme antiquity or extraterrestrial-assistance are not endorsed by mainstream archaeology"
-framework_position = "Megalithic record preserves operational evidence of advanced ancient construction capability across multiple regions and time-periods, consistent with the corpus's account of intermittent Elohim-supported cultural development during the Earth project's middle and later phases"
-caveat = "Coverage is selective rather than exhaustive; dating and construction-feature claims follow mainstream archaeological consensus where one exists, with contested or alternative claims explicitly flagged"
+type = "거석 고고 유적 참고 목록"
+scope = "선토기 신석기 시대부터 콜럼버스 이전 시대까지; 틀과 상당한 관련이 있는 유적에 주로 초점을 둠"
+criteria_for_inclusion = "대형 석재(거석)의 상당한 사용; 고도의 건축 기법의 증거; 문서화된 고고천문학적 정렬; 문화적 중요성; 또는 코퍼스의 해석 작업에 대한 틀의 관련성"
+date_ranges_represented = "기원전 약 9600년(괴베클리 테페와 선토기 신석기 복합체)부터 기원후 약 1600년(후기 콜럼버스 이전 안데스와 메소아메리카)까지"
+catalogue_columns = "유적 이름; 위치; 관습적 연대; 건축적 특징; 해당되는 경우 고고천문학; 틀의 독법"
+mainstream_archaeology_position = "유적은 그 시대에 맞는 문서화된 건축 기법을 사용한 인간 문명의 산물임; 극단적인 고대성이나 외계의 도움을 말하는 틀의 독법은 주류 고고학이 지지하지 않음"
+framework_position = "각 유적을 각 논지의 등급에 따라 개별 기록하며, 주류 고고학의 설명을 온전히 함께 싣습니다. 어떤 유적, 정렬, 연대 재설정도 이 체계의 증거가 되지 않습니다"
+caveat = "수록 범위는 망라적이지 않고 선별적임; 연대와 건축적 특징에 관한 주장은 합의가 있는 경우 주류 고고학의 합의를 따르며, 논쟁적이거나 대안적인 주장은 명시적으로 표시함"
 +++
 
 This entry catalogues megalithic sites of the ancient world — large stone structures whose construction features, dating, or astronomical alignments make them objects of substantial archaeological interest and, in many cases, objects of the Wheel of Heaven framework's interpretive engagement. *Megalith* derives from the Greek *megas* "great" + *lithos* "stone," and is used in archaeology to designate any structure incorporating large stone blocks as principal construction elements. The conventional archaeological literature treats the megalithic phenomenon as a feature of the Neolithic and Bronze Age periods (c. 9600 BCE through c. 1500 BCE in different regional contexts), with later megalithic traditions (Andean, Mesoamerican, sub-Saharan African) extending in some cases into the second millennium CE. The catalogue's scope encompasses this full range.

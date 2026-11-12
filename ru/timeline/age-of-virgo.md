@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -28,15 +28,15 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Клод Ворильон (Раэль)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Клод Ворильон (Раэль)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
-    { title = "Бытие", author = "Анонимный автор (Еврейская Библия); перевод WoH с огласованного масоретского иврита", date = "ок. VI–V вв. до н. э.", medium = "religious-text", path = "/library/genesis-woh/" },
-    { title = "A Hebrew and English Lexicon of the Old Testament", author = "Francis Brown, S. R. Driver, and Charles A. Briggs", date = "1906", medium = "nonfiction-book", description = "Лексикон BDB. Источник статей о таннин / таниним, обсуждаемых в §V." },
-    { title = "The Hebrew and Aramaic Lexicon of the Old Testament", author = "Ludwig Koehler, Walter Baumgartner, and Johann Jakob Stamm", date = "1994–2000", medium = "nonfiction-book", description = "HALOT — также цитируется в §V по поводу таннин." },
-    { title = "A Concise Dictionary of the Words in the Hebrew Bible (Strong's)", author = "James Strong", date = "1890", medium = "nonfiction-book", description = "Еврейский словарь Стронга, цитируется по тексту для определения таннин." },
-    { title = "Soft-Tissue Vessels and Cellular Preservation in Tyrannosaurus rex", author = "Mary H. Schweitzer, Jennifer L. Wittmeyer, John R. Horner, and Jan K. Toporski", publication = "Science 307 (5717), 1952–1955", date = "2005", medium = "academic-paper", url = "https://www.science.org/doi/10.1126/science.1108397", description = "Мягкие ткани и предполагаемые кровеносные сосуды, извлечённые из бедренной кости T. rex." },
-    { title = "An Exceptionally Well-Preserved Theropod Dinosaur from the Yixian Formation of China", author = "Pei-ji Chen, Zhi-ming Dong, and Shuo-nan Zhen", publication = "Nature 391 (6663), 147–152", date = "1998", medium = "academic-paper", url = "https://www.nature.com/articles/34356", description = "Sinosauropteryx — первый неавианный динозавр, описанный с нитевидным перьеподобным покровом; открыл эру пернатых динозавров Ляонина." },
-    { title = "Osteology of Deinonychus antirrhopus, an Unusual Theropod from the Lower Cretaceous of Montana", author = "John H. Ostrom", publication = "Bulletin of the Peabody Museum of Natural History 30", date = "1969", medium = "academic-paper", description = "Монография Острома, восстановившая связь динозавров и птиц." },
+    { id = "le-livre-qui-dit-la-v-rit" },
+    { id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te" },
+    { id = "genesis" },
+    { id = "a-hebrew-and-english-lexicon-of-the-old-testament", note = "Лексикон BDB. Источник статей о таннин / таниним, обсуждаемых в §V." },
+    { id = "the-hebrew-and-aramaic-lexicon-of-the-old-testament", note = "HALOT — также цитируется в §V по поводу таннин." },
+    { id = "a-concise-dictionary-of-the-words-in-the-hebrew-bible-strong-s", note = "Еврейский словарь Стронга, цитируется по тексту для определения таннин." },
+    { id = "soft-tissue-vessels-and-cellular-preservation-in-tyrannosaurus-rex", note = "Мягкие ткани и предполагаемые кровеносные сосуды, извлечённые из бедренной кости T. rex." },
+    { id = "an-exceptionally-well-preserved-theropod-dinosaur-from-the-yixian-formation-of-c", note = "Sinosauropteryx — первый неавианный динозавр, описанный с нитевидным перьеподобным покровом; открыл эру пернатых динозавров Ляонина." },
+    { id = "osteology-of-deinonychus-antirrhopus-an-unusual-theropod-from-the-lower-cretaceo", note = "Монография Острома, восстановившая связь динозавров и птиц." },
 ]
 
 [[extra.prev_age]]

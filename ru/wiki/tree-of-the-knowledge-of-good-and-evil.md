@@ -6,29 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["Tree of the Knowledge of Good and Evil", "Tree of Knowledge", "עֵץ הַדַּעַת טוֹב וָרָע (Hebrew etz ha-daat tov va-ra)", "the forbidden tree", "the tree in the midst of the garden", "the second tree (alongside Tree of Life)"]
+alternative_names = ["Древо познания добра и зла", "Древо познания", "עֵץ הַדַּעַת טוֹב וָרָע (ивр. etz ha-daat tov va-ra)", "запретное древо", "древо посреди сада", "второе древо (наряду с Древом жизни)"]
 timeline = ["age-of-leo", "age-of-cancer"]
+see_also = [
+    { title = "Древо жизни", path = "wiki/tree-of-life", description = "Парное древо, кодирующее технологию долголетия, удерживаемую наряду с научным знанием." },
+    { title = "Змей", path = "wiki/serpent", description = "Фигура из Бытия 3, прочитанная как фракция Люцифера в её роли раскрытия." },
+    { title = "Люцифер", path = "wiki/lucifer", description = "Лидер инакомыслящей фракции, чьи создатели раскрыли первым людям удерживаемое знание." },
+    { title = "Эдем", path = "wiki/eden", description = "Сад-лаборатория, где стояло древо и произошло раскрытие." },
+    { title = "Элохим", path = "wiki/elohim", description = "Цивилизация-создатель, научное знание которой кодирует древо." },
+    { title = "Теомахия", path = "wiki/theomachy", description = "Конфликт фракций создателей, которому кладёт начало акт раскрытия." },
+    { title = "Великий потоп", path = "wiki/great-flood", description = "Более поздний катаклизм, к которому приходит траектория развития после раскрытия." },
+]
 
 [extra.infobox]
-type = "Symbolic-conceptual; principal Genesis 2-3 designation for scientific knowledge archives withheld from first synthetic humans"
-hebrew_term = "עֵץ הַדַּעַת טוֹב וָרָע (etz ha-daat tov va-ra) — 'tree of the knowledge of good and evil'"
-biblical_location = "Genesis 2:9, 2:16-17, 3:1-7, 3:11, 3:17, 3:22"
-biblical_dating = "Late Age of Leo / early Age of Cancer in corpus chronology (the Eden-laboratory operational period, c. 9,000 – 8,850 BCE); placement in garden in late Leo, disclosure-and-expulsion in early Cancer"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'Genesis' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Leo chapter, Section IX, and Age of Cancer chapter, Section IV"
-core_corpus_articulation = "The body of scientific knowledge possessed by the Elohim creator civilization, withheld from first synthetic humans by Council order to prevent humans from becoming creators' equals; the prohibition is political (protect creator civilization) rather than moral (avoid sin)"
-paired_concept = "Tree of Life (עֵץ הַחַיִּים etz ha-chayyim) — biological longevity technology of the Elohim; paired prohibition; treated in dedicated Tree of Life entry"
-serpent_identification = "Lucifer faction — minority of Israel-team Eloha scientists led by an Eloha called Lucifer ('light-bringer'); the Hebrew nachash used collectively for the faction performing the disclosure act"
-merism_content = "Hebrew tov va-ra ('good and evil') operates as classic biblical merism designating the entirety of moral knowledge; post-disclosure humans become moral agents capable of full ethical evaluation"
-disclosure_consequences = "Lucifer-faction exile to Earth ('serpent cursed to crawl'); Adam-and-Eve expulsion from laboratory-garden; Cherubim-and-flaming-sword guard preventing Tree-of-Life access (corpus reading: soldiers with atomic disintegration weapons); subsequent civilizational developmental trajectory"
-distinguished_from = "Mainstream Christian 'original sin' reading (treating prohibition as moral and disobedience as fall); Tree of Life (paired biological-longevity technology); gnostic positive-serpent reading (sharing structural features but operating distinctively on Eloha-faction internal distinctions)"
-status_in_framework = "Foundational symbolic-conceptual content; principal originary knowledge-asymmetry articulation; structural inaugurator of subsequent human scientific-developmental trajectory; central to broader corpus engagement with creator-created political relationship"
+type = "Символико-понятийное; главное обозначение в Бытии 2–3 для архивов научного знания, утаённых от первых синтетических людей"
+hebrew_term = "עֵץ הַדַּעַת טוֹב וָרָע (etz ha-daat tov va-ra) — «древо познания добра и зла»"
+biblical_location = "Бытие 2:9, 2:16–17, 3:1–7, 3:11, 3:17, 3:22"
+biblical_dating = "Поздняя Эпоха Льва / ранняя Эпоха Рака в хронологии корпуса (рабочий период эдемской лаборатории, ок. 9000–8850 гг. до н. э.); помещение в саду — в позднем Льве, раскрытие и изгнание — в раннем Раке"
+principal_source = "*Книга, которая говорит правду* (Ворильон, 1974), глава «Истина», раздел «Бытие»; сведено в *Послании от Создателей* (2005); далее развито в материале хронологии об Эпохе Льва и Эпохе Рака"
+core_corpus_articulation = "Совокупность научного знания, которым обладала цивилизация создателей Элохим, утаённая от первых синтетических людей по приказу Совета, чтобы они не стали равными создателям; запрет политический (защитить цивилизацию создателей), а не моральный (избежать греха)"
+paired_concept = "Древо жизни (עֵץ הַחַיִּים etz ha-chayyim) — биологическая технология долголетия Элохим; парный запрет рассматривается в отдельной статье «Древо жизни»"
+serpent_identification = "Фракция Люцифера — меньшинство учёных Элоха из израильской команды во главе с Элоха по имени Люцифер («светоносец»); еврейское nachash употреблено собирательно для фракции, совершающей раскрытие"
+merism_content = "Еврейское tov va-ra («добро и зло») — классический библейский меризм, обозначающий всю полноту нравственного знания; после раскрытия люди становятся нравственными субъектами, способными к самостоятельной оценке"
+disclosure_consequences = "Изгнание фракции Люцифера на Землю («змей, проклятый ползать»); изгнание Адама и Евы из лабораторного сада; стража из херувимов и пламенного меча, преграждающая доступ к Древу жизни (прочтение корпуса: солдаты с оружием атомной дезинтеграции); последующий путь научного развития"
+distinguished_from = "Общепринятое христианское прочтение через «первородный грех» (запрет как нравственный, вкушение как падение); Древо жизни (парная биологическая технология долголетия); гностическое прочтение с положительным змеем (разделяет структурные черты, но отвергает бога-создателя гораздо решительнее)"
+status_in_framework = "Основополагающее символико-понятийное содержание; главное изложение в рамке изначальной асимметрии знания между создателями и созданными и первого акта сопротивления ей"
 +++
 
 The **Tree of the Knowledge of Good and Evil** (Hebrew עֵץ הַדַּעַת טוֹב וָרָע,

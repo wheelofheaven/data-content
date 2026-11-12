@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -15,19 +15,29 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "framework"
 alternative_names = ["ID", "Design theory", "Design hypothesis", "Directed design (the Raëlian variant)"]
+see_also = [
+    { title = "ארגז הכלים של הבריאה", path = "wiki/genesis-toolbox", description = "תשובת המסגרת לוויכוח על התכנון בצורה מעשית: מתכננים בעלי ארגז כלים מתועד." },
+    { title = "הנדסת חיים", path = "wiki/life-engineering", description = "מנגנון הקורפוס שבאמצעותו, לפי הטענה, פעל המתכנן האלוהים." },
+    { title = "ביולוגיה סינתטית", path = "wiki/synthetic-biology", description = "התחום העכשווי שהמסגרת רואה בו שחזור של יכולת ההנדסה של המתכנן." },
+    { title = "גנומיקה סינתטית", path = "wiki/synthetic-genomics", description = "מדע סינתזת הגנום, שהמסגרת קוראת אותו כהמשך ישיר של עבודת התכנון המקורית." },
+    { title = "פנטרופיה", path = "wiki/pantropy", description = "מושג התאמת האורגניזמים, המרחיב את טענת התכנון לשינוי מכוון של האדם." },
+    { title = "בראשית", path = "wiki/genesis", description = "הטקסט ששלבי הימים שבו נקראים במסגרת כתיעוד של מלאכת ההנדסה." },
+    { title = "עדן", path = "wiki/eden", description = "האתר שהמסגרת מזהה כמעבדה שבה סונתזו בני האדם." },
+    { title = "החתימה והמתכננים", path = "/articles/the-signature-and-the-designers/", description = "המאמר הממקם את המסגרת על פני כל קשת התכנון — המתכנן הטרנסצנדנטי של מאייר נענה במתכנן גשמי ונברא." },
+]
 
 [extra.infobox]
-type = "Philosophical and scientific doctrine that the functional complexity of biological systems is best explained by intelligent design"
-two_senses = "Broad sense: any design-by-intelligence doctrine, with antecedents reaching back to Aristotelian teleology and the medieval scholastic tradition. Narrow sense: the specific American intellectual movement c. 1991 onward associated with the Discovery Institute."
-foundational_modern_text = "Phillip E. Johnson, *Darwin on Trial* (Regnery Gateway, 1991)"
-key_movement_figures = "Phillip E. Johnson (1940–2019); Michael Behe (b. 1952); William Dembski (b. 1960); Stephen C. Meyer (b. 1958); Jonathan Wells (b. 1942); Paul Nelson; Jay Richards; Douglas Axe"
-principal_organisations = "Discovery Institute (Seattle, founded 1991); Center for Science and Culture (founded 1996, originally Center for the Renewal of Science and Culture)"
-foundational_arguments = "Irreducible complexity (Behe 1996); specified complexity / the design inference (Dembski 1998); the fine-tuning of physical constants; the origin of biological information; abiogenesis difficulty"
-historical_antecedents = "Aristotelian teleology; the medieval scholastic tradition (Aquinas's fifth way); William Paley's *Natural Theology* (1802); the broader 19th-century natural theology tradition"
-foundational_critique = "David Hume, *Dialogues Concerning Natural Religion* (1779); Charles Darwin, *On the Origin of Species* (1859); the broader mainstream evolutionary-biology tradition"
-landmark_court_case = "Kitzmiller v. Dover Area School District (M.D. Pa. 2005), Judge John E. Jones III; 139-page ruling that ID is not science and that teaching it in public schools violates the Establishment Clause"
-relevant_scientific_alternative = "Francis Crick and Leslie E. Orgel, \"Directed Panspermia,\" *Icarus* 19 (1973): 341–346; Crick, *Life Itself* (1981) — the proposal that life on Earth may have been deliberately seeded by an extraterrestrial intelligence, the closest mainstream-scientific cognate of the framework's position"
-framework_position = "The core ID claim (biological systems are best explained by intelligent design) is reinterpreted as: terrestrial biological complexity, particularly humans, is the product of deliberate engineering by the Elohim, a non-terrestrial biological civilisation. The corpus's position is closer to the Crick-Orgel directed-panspermia hypothesis than to the contemporary ID movement, sharing with ID the central design claim while differing on the designer's identity, on the relationship to evolutionary biology, and on the political-religious context."
+type = "דוקטרינה פילוסופית ומדעית שלפיה המורכבות התפקודית של מערכות ביולוגיות מוסברת בצורה הטובה ביותר בתכנון תבוני"
+two_senses = "המובן הרחב: כל דוקטרינה של תכנון בידי תבונה, עם תקדימים המגיעים עד הטלאולוגיה האריסטוטלית והמסורת הסכולסטית של ימי הביניים. המובן הצר: התנועה האינטלקטואלית האמריקנית המסוימת מבסביבות 1991 ואילך, הקשורה למכון דיסקברי."
+foundational_modern_text = "פיליפ א' ג'ונסון, *Darwin on Trial* (Regnery Gateway, 1991)"
+key_movement_figures = "פיליפ א' ג'ונסון (1940–2019); מייקל בהי (נ' 1952); ויליאם דמבסקי (נ' 1960); סטיבן ס' מאייר (נ' 1958); ג'ונתן ולס (נ' 1942); פול נלסון; ג'יי ריצ'רדס; דאגלס אקס"
+principal_organisations = "מכון דיסקברי (סיאטל, נוסד 1991); המרכז למדע ותרבות (נוסד 1996, במקור המרכז לחידוש המדע והתרבות)"
+foundational_arguments = "מורכבות בלתי ניתנת לצמצום (בהי 1996); מורכבות מוגדרת / היסק התכנון (דמבסקי 1998); הכוונון העדין של הקבועים הפיזיקליים; מקור המידע הביולוגי; קושי האביוגנזה"
+historical_antecedents = "הטלאולוגיה האריסטוטלית; המסורת הסכולסטית של ימי הביניים (הדרך החמישית של אקווינס); *Natural Theology* של ויליאם פיילי (1802); מסורת התאולוגיה הטבעית הרחבה של המאה ה־19"
+foundational_critique = "דייוויד יום, *Dialogues Concerning Natural Religion* (1779); צ'ארלס דרווין, *On the Origin of Species* (1859); מסורת הביולוגיה האבולוציונית המקובלת הרחבה"
+landmark_court_case = "Kitzmiller v. Dover Area School District (M.D. Pa. 2005), השופט ג'ון א' ג'ונס השלישי; פסק דין בן 139 עמודים שקבע שתכנון תבוני אינו מדע ושהוראתו בבתי ספר ציבוריים מפרה את סעיף הממסד"
+relevant_scientific_alternative = "פרנסיס קריק ולסלי א' אורגל, \"Directed Panspermia\", *Icarus* 19 (1973): 341–346; קריק, *Life Itself* (1981) — ההצעה שהחיים על כדור הארץ אולי נזרעו במכוון בידי תבונה חוץ־ארצית, המקבילה המדעית־המקובלת הקרובה ביותר לעמדת המסגרת"
+framework_position = "טענת הליבה של התכנון התבוני (מערכות ביולוגיות מוסברות בצורה הטובה ביותר בתכנון תבוני) מתפרשת מחדש כך: המורכבות הביולוגית הארצית, ובמיוחד בני האדם, היא תוצר של הנדסה מכוונת בידי האלוהים, ציוויליזציה ביולוגית לא־ארצית. עמדת הקורפוס קרובה יותר להשערת הפנספרמיה המכוונת של קריק ואורגל מאשר לתנועת התכנון התבוני בת זמננו: היא חולקת עם התכנון התבוני את טענת התכנון המרכזית, אך נבדלת ממנה בזהות המתכנן, ביחס לביולוגיה האבולוציונית ובהקשר המדיני־דתי."
 +++
 
 **Intelligent Design** (ID) is, in the broad sense, the claim that the functional

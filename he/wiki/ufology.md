@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,19 +16,27 @@ entry_type = "concept"
 alternative_names = ["ufology", "UAP studies (contemporary policy designation)", "flying saucer studies (historical designation)", "anomalistics (broader related field)", "exopolitics (specific subdiscipline)", "OVNIs (French; Objet volant non identifié)", "UFO research"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
 see_also = [
+    { title = "הטיוח הצבאי של אקסוביולוגיה", path = "wiki/military-cover-up-of-exobiology", description = "שאלת הסודיות הממשלתית והחשיפה העוברת לאורך האופולוגיה המודרנית." },
     { title = "PURSUE", path = "wiki/pursue", description = "תוכנית ממשלת ארה״ב מ-2026 המשחררת רישומי UAP בלתי-פתורים בכתובת war.gov/UFO — ההתפתחות המוסדית העדכנית של התחום." },
+    { title = "השערת האסטרונאוטים הקדמונים", path = "wiki/ancient-astronaut-hypothesis", description = "מסורת המגע ההיסטורי בעבר, שהאופולוגיה עומדת לצידה ולעתים קרובות מתבלבלת עמה." },
+    { title = "יחזקאל", path = "wiki/ezekiel", description = "חזון המרכבה שהמסגרת קוראת כמפגש טרום־מודרני עם כלי טיס של האלוהים." },
+    { title = "אסטרוביולוגיה", path = "wiki/astrobiology", description = "המדע המקובל של חיים מחוץ לכדור הארץ, הנבדל מחקירת התצפיות של האופולוגיה." },
+    { title = "כוכב־האם של האלוהים", path = "wiki/elohim-home-planet", description = "עולם האלוהים שראל מדווח שנלקח אליו ב־1975 — מקרה המגע של המסגרת עצמה." },
+    { title = "מיתולוגיה השוואתית", path = "wiki/comparative-mythology", description = "הרציפות הפולקלוריסטית הבין־תרבותית שוואלה איתר בתופעה." },
+    { title = "ריבוי האלים", path = "wiki/plurality-of-gods", description = "קריאת המבקרים מן השמיים בעת העתיקה, שתיעוד העב״מים הטרום־מודרני נוגע בה." },
 ]
 
 [extra.infobox]
-type = "Interdisciplinary field studying reports of unidentified flying objects (UFOs) / Unidentified Aerial Phenomena (UAP) and the broader question of non-human technological presence; substantive engagement community within which corpus framework operates"
-disciplinary_origin = "Kenneth Arnold sighting June 24, 1947 (Mount Rainier, Washington); Roswell incident July 1947; subsequent Project Sign 1947-1949, Project Grudge 1949-1952, Project Blue Book 1952-1969 U.S. government investigation programs"
-principal_disciplinary_figures = "J. Allen Hynek (Close Encounter classification; *The UFO Experience*, 1972); Jacques Vallée (*Passport to Magonia*, 1969; cross-cultural folklore framework); Donald Keyhoe (early popularization); Stanton Friedman (nuclear physicist; Roswell engagement); John Mack (Harvard psychiatrist; abduction engagement); Edward Ruppelt (Project Blue Book directorship; coined 'UFO')"
-principal_us_government_programs = "Project Sign 1947-1949; Project Grudge 1949-1952; Project Blue Book 1952-1969; AATIP 2007-2012; AAWSAP; UAP Task Force 2020; All-Domain Anomaly Resolution Office (AARO) 2022"
-principal_2017_2024_transformation = "December 2017 NYT article disclosing AATIP; April 2020 Pentagon UAP video releases; June 2021 ODNI Preliminary Assessment on UAP; July 2023 congressional hearings with David Grusch testimony; September 2023 NASA UAP Independent Study Team report; November 2024 follow-up congressional hearings"
-principal_civilian_organizations = "NICAP (National Investigations Committee on Aerial Phenomena); APRO (Aerial Phenomena Research Organization); CUFOS (Center for UFO Studies); MUFON (Mutual UFO Network)"
-corpus_position = "Engages ufology substantively as the research community within which Vorilhon contact narrative operates as principal contactee case material; differs methodologically from mainstream ufology in that corpus framework operates from established alliance-contact reality (Vorilhon source) rather than from open question whether non-human presence exists"
-distinguished_from = "Astrobiology (the broader scientific field engaging extraterrestrial life question generally; ufology operates as one component); SETI (the search for technological signals from extraterrestrial civilizations; distinct from UFO/UAP investigation); Ancient Astronaut Hypothesis (the engagement with historical evidence for past contact; substantively adjacent but distinct); exopolitics (the specific subdiscipline engaging governmental policy and political dimensions of contact)"
-status_in_framework = "Substantive contemporary research community within which corpus framework's empirical claims about ongoing alliance presence operate"
+type = "תחום בין־תחומי החוקר דיווחים על עצמים מעופפים בלתי מזוהים (עב״מים) ועל תופעות אוויריות בלתי מזוהות (UAP), ואת שאלת נוכחותה של טכנולוגיה לא אנושית על כדור הארץ; נעשה ברובו מחוץ למדע המקובל"
+disciplinary_origin = "התצפית של קנת׳ ארנולד, 24 ביוני 1947 (הר ריינייר, וושינגטון); האיסוף ברוזוול, יולי 1947; פרויקט Sign של חיל האוויר האמריקאי (1947–1949), פרויקט Grudge (1949–1952) ופרויקט Blue Book (1952–1969)"
+principal_figures = "ג׳. אלן הייניק (סיווג המפגשים הקרובים; *The UFO Experience*, 1972); ז׳אק ואלה (*Passport to Magonia*, 1969; מסגרת הפולקלור הבין־תרבותית); דונלד קיהו (הפופולריזציה המוקדמת); אדוארד רופלט (מנהל Blue Book; טבע את המונח 'UFO'); ג׳ון מאק (פסיכיאטר מהרווארד; מחקר החטיפות)"
+principal_us_government_programs = "פרויקט Sign (1947–1949); פרויקט Grudge (1949–1952); פרויקט Blue Book (1952–1969); AATIP (2007–2012); כוח המשימה ל־UAP (2020); המשרד לפתרון אנומליות בכל התחומים (AARO, 2022)"
+modern_uap_era = "כתבת הניו יורק טיימס על AATIP בדצמבר 2017; פרסום סרטוני FLIR1, Gimbal ו־GoFast על ידי הפנטגון באפריל 2020; הערכת ה־ODNI ביוני 2021; שימוע בקונגרס עם דייוויד גרוש ביולי 2023; דוח נאס״א על UAP בספטמבר 2023; שימועי המשך בנובמבר 2024"
+principal_civilian_organizations = "NICAP;‏ APRO;‏ CUFOS (נוסד ב־1973 על ידי הייניק); MUFON"
+principal_skeptics = "דונלד מנזל; פיליפ קלאס; קרל סייגן; הוועדה לחקירה סקפטית (CSICOP / CSI)"
+corpus_position = "קורא את האופולוגיה כהקשר הרחב למגע של ראל ב־1973, שנדון כדיווח מגע אחד מני רבים; המסגרת פועלת מתוך תיאור המגע של הקנון ולא מתוך השאלה הפתוחה של האופולוגיה"
+distinguished_from = "אסטרוביולוגיה (המדע המקובל של חיים מחוץ לכדור הארץ); SETI (החיפוש אחר אותות טכנולוגיים); השערת האסטרונאוטים הקדומים (מגע היסטורי בעבר); אקסופוליטיקה (תת־התחום המדיניותי)"
+status_in_framework = "התחום העכשווי שבתוכו נמצא מקרה המגע המייסד של המסגרת; התיעוד והפרשנות החוץ־ארצית מוחזקים בנפרד"
 +++
 
 **Ufology** is the study of reports of **unidentified flying objects (UFOs)**

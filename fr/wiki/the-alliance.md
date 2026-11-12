@@ -6,26 +6,33 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the alliance", "the cross-civilizational alliance", "the Eloha-human alliance", "the Noahic alliance", "the covenant partnership"]
+alternative_names = ["l'alliance", "l'alliance intercivilisationnelle", "l'alliance entre Eloha et humains", "l'alliance noahique", "le partenariat d'alliance"]
 timeline = ["gemini", "taurus", "aries", "pisces", "aquarius"]
+see_also = [
+    { title = "Conseil des Éternels", path = "wiki/council-of-the-eternals", description = "Le Conseil du monde d'origine contre lequel l'Alliance s'est formée au moment noachique." },
+    { title = "Élohim", path = "wiki/elohim", description = "La civilisation créatrice que l'Alliance lie à la population humaine." },
+    { title = "Chaîne cosmique", path = "wiki/cosmic-chain", description = "La succession, dans le temps profond, de civilisations créatrices dans laquelle s'inscrit l'Alliance." },
+    { title = "Compétition cosmique", path = "wiki/cosmic-competition", description = "Le cadre d'évaluation appliqué aux humanités que parraine l'Alliance." },
+    { title = "Prophète", path = "wiki/prophet", description = "Les intermédiaires humains par lesquels l'Alliance a mené un contact médiatisé." },
+]
 
 [extra.infobox]
-type = "Cross-civilizational political body; formal partnership between Eloha and human parties"
-formation_event = "The Noahic covenant (Genesis 9:8–17), at the post-Flood altar; c. 6,690 BCE on the corpus's chronology, late Age of Gemini"
-founding_parties = "The exiled Lucifer-faction creators (senior partner); the human Eden-lineage survivors led by Noah (junior partner)"
-subsequent_expansion = "Extended to include the broader Elohim civilization following the Taurus-age pardon of the exiled creators, c. 4,000–3,800 BCE"
-distinguished_from = "The Elohim civilization (broader population of ~7 billion on the home world); the Council of the Eternals (the home-world ruling body); the Lucifer faction (specific subset of dissenting creators); the prophetic tradition (specific contact mechanism the Alliance has used)"
-operational_modes = "Direct contact (pre-Flood through early Aries); indirect contact through prophets (mid-Aries through late Pisces); preparing for open return (Aquarian age)"
-current_status = "Active; operating in the post-1945 Aquarian-age preparation phase; preparing for the open return at the embassy"
-principal_text = "Genesis 9:8–17 (the Noahic covenant); subsequent Hebrew Bible covenant material (Abrahamic, Mosaic, Davidic); the broader Hebrew Bible's narrative of alliance-mediated history"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974); developed extensively across the broader Wheel of Heaven corpus"
+type = "Organe politique intercivilisationnel ; partenariat formel entre parties eloha et humaines"
+formation_event = "L'alliance noahique (Genèse 9:8–17), à l'autel d'après le Déluge ; v. 6 690 AEC selon la chronologie du corpus, fin de l'Ère des Gémeaux"
+founding_parties = "Les créateurs exilés de la faction de Lucifer (partenaire principal) ; les survivants humains de la lignée d'Éden menés par Noé (partenaire secondaire)"
+subsequent_expansion = "Élargie aux Élohim en tant que civilisation à la suite du pardon accordé aux créateurs exilés à l'ère du Taureau, vers 4 000–3 800 av. J.-C."
+distinguished_from = "La civilisation des Élohim (~7 milliards d'individus sur le monde d'origine) ; le Conseil des Éternels (l'organe dirigeant du monde d'origine) ; la faction de Lucifer (le sous-groupe dissident des créateurs) ; la tradition prophétique (un mécanisme de contact que l'Alliance a utilisé)"
+operational_modes = "Contact direct (d'avant le Déluge au début du Bélier) ; contact indirect par les prophètes (du milieu du Bélier à la fin des Poissons) ; préparation du retour ouvert (Ère du Verseau)"
+current_status = "Active ; opère dans la phase de préparation de l'Ère du Verseau postérieure à 1945 ; prépare le retour ouvert à l'ambassade"
+principal_text = "Genèse 9:8–17 (l'alliance noachique) ; le matériau ultérieur de la Bible hébraïque sur les alliances (abrahamique, mosaïque, davidique) ; le récit, dans la Bible hébraïque, d'une histoire médiée par l'alliance"
+principal_framework_source = "*Le Livre qui dit la vérité* (Vorilhon/Raël, 1974) ; largement développé dans l'ensemble du corpus de Wheel of Heaven"
 +++
 
 **The Alliance** is the formal cross-civilizational political body that, on the Wheel of Heaven corpus's reading, structures the long historical relationship between the Elohim civilization and the Eden-lineage human population. It is one of the framework's principal interpretive constructions — the category the corpus uses to organize the Raëlian source material's account of the operational history connecting the Elohim creators with their human creations across the post-Flood millennia. On this reading the Alliance is not a metaphor or a theological abstraction but a historical political entity with a founding moment, founding parties, operations across documented history, and a projected future.

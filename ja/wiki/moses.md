@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,23 +15,31 @@ editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
-alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "Moses the Lawgiver", "Mosheh Rabbenu (\"Moses our Teacher\")"]
+alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "立法者モーセ", "Mosheh Rabbenu(「われらの師モーセ」)"]
+see_also = [
+    { title = "ヤハウェ", path = "wiki/yahweh", description = "燃える柴とシナイの接触の出来事の背後にいるエロヒムの議長。" },
+    { title = "永遠者の評議会", path = "wiki/council-of-the-eternals", description = "モーセが、先行する他の預言者たちとともに列席していると伝えられる機関。" },
+    { title = "ムハンマド", path = "wiki/muhammad", description = "モーセと同じ同盟の使者の系譜に属する後代の預言者。" },
+    { title = "イエス", path = "wiki/jesus", description = "モーセが推し進めた回復を引き継ぐ、後続の契約の仲介者。" },
+    { title = "エリヤ", path = "wiki/elijah", description = "山上での実際的な接触という同じ伝統に属する、後代のヘブライの預言者。" },
+    { title = "預言者および宗教のリスト", path = "wiki/list-of-prophets-and-religions", description = "コーパスがモーセを位置づける、より広い使者の系列。" },
+]
 
 [extra.infobox]
-type = "Hebrew prophet, lawgiver, and deliverer"
-hebrew = "<span class=\"hebrew\">מֹשֶׁה</span> *Moshe* (or *Mosheh*)"
+type = "ヘブライの預言者、立法者、解放者"
+hebrew = "<span class=\"hebrew\">מֹשֶׁה</span> *Moshe*(または *Mosheh*)"
 arabic = "<span class=\"arabic\">مُوسَىٰ</span> *Mūsā*"
-period = "Conventional dating: 13th century BCE (late Bronze Age); the Exodus traditionally dated to c. 1446 BCE (early-Exodus chronology) or c. 1250 BCE (late-Exodus chronology, the dominant academic position)"
-precessional_age = "Age of Aries (the corpus's precessional reckoning places the Mosaic period in the middle-to-late portion of Aries, c. 2065 BCE through 95 BCE)"
-lifespan = "Traditional 120 years (Deuteronomy 34:7); the figure is theologically significant in Hebrew tradition as the maximum human lifespan after the deluge"
-parents = "Father Amram of the tribe of Levi; mother Jochebed; siblings Aaron (brother, three years older) and Miriam (sister, the prophetess)"
-wife = "Zipporah (daughter of Reuel / Jethro, priest of Midian); also a Cushite wife mentioned in Numbers 12:1"
-sons = "Gershom and Eliezer"
-principal_biblical_sources = "Exodus 1–40; Leviticus 1–27; Numbers 1–36; Deuteronomy 1–34"
-key_episodes = "Birth and exposure on the Nile; killing of the Egyptian taskmaster; flight to Midian; burning bush on Horeb; the ten plagues of Egypt; institution of the Passover; parting of the Red Sea; manna and quail in the wilderness; Sinai theophany; reception of the Decalogue and Torah; the golden calf and the breaking of the tablets; construction of the Tabernacle and Ark of the Covenant; the 12 spies and the wilderness wandering; the bronze serpent; the death on Mount Nebo"
-death = "On Mount Nebo (also called Mount Pisgah) in Moab; buried by YHWH in an unknown location in the valley (Deuteronomy 34:5–6); aged 120 with \"his eye undimmed and his vigor unabated\""
-mosaic_authorship = "Traditional Jewish and Christian tradition attributes the authorship of the Pentateuch to Moses; mainstream academic scholarship treats the Pentateuch as a composite of multiple source-strata (the documentary hypothesis: J, E, D, P) developed across the period from the 10th through the 5th centuries BCE"
-framework_significance = "The most operationally specific sustained-contact relationship in the Hebrew Bible; the burning bush event, the Sinai theophany, the 40-day fasts, the Tabernacle and Ark specifications, the pillar of cloud and fire, the bronze serpent, the manna provision, the face-shining phenomenon, and the death-and-unmarked-grave together constitute the densest concentration of operational content for any prophetic figure in the corpus"
+period = "通説の年代:紀元前13世紀(後期青銅器時代)。出エジプトは伝統的に紀元前1446年頃(早期出エジプト年代論)または紀元前1250年頃(後期出エジプト年代論、学界の主流の立場)とされる"
+precessional_age = "牡羊座の時代(コーパスの歳差運動による算定では、モーセの時代は牡羊座の中期から後期、紀元前2065年頃から紀元前95年までに位置づけられる)"
+lifespan = "伝統的には120歳(申命記34:7)。この数字は、大洪水以後の人間の最大寿命として、ヘブライの伝統において神学的に重要である"
+parents = "父はレビ族のアムラム、母はヨケベド。きょうだいはアロン(兄、三歳年長)とミリアム(姉、女預言者)"
+wife = "ツィポラ(ミディアンの祭司レウエル/エトロの娘)。民数記12:1にはクシュ人の妻への言及もある"
+sons = "ゲルショムとエリエゼル"
+principal_biblical_sources = "出エジプト記1〜40章、レビ記1〜27章、民数記1〜36章、申命記1〜34章"
+key_episodes = "誕生とナイル川への遺棄。エジプト人の監督の殺害。ミディアンへの逃亡。ホレブの燃える柴。エジプトの十の災い。過越の制定。紅海の分割。荒野のマナとうずら。シナイでの神の顕現。十戒とトーラーの授与。金の子牛と石板の破壊。幕屋と契約の箱の建造。十二人の偵察と荒野の放浪。青銅の蛇。ネボ山での死"
+death = "モアブのネボ山(ピスガ山とも呼ばれる)で。YHWHによって谷の知られざる場所に葬られた(申命記34:5〜6)。120歳で、「目はかすまず、気力も衰えていなかった」"
+mosaic_authorship = "ユダヤ教とキリスト教の伝統はモーセ五書の著者をモーセとする。主流の学術研究はモーセ五書を、紀元前10世紀から5世紀にかけて発展した複数の資料層(文書仮説:J、E、D、P)の複合体として扱う"
+framework_significance = "ヘブライ語聖書において実際的に最も具体的な継続的接触の関係。燃える柴の出来事、シナイでの神の顕現、40日の断食、幕屋と契約の箱の仕様、雲の柱と火の柱、青銅の蛇、マナの供給、顔が光り輝く現象、そして死と標のない墓が合わさって、コーパスのどの預言者よりも実際的内容が濃密に集中している"
 +++
 
 **Moses** (Hebrew <span class="hebrew">מֹשֶׁה</span>, *Moshe*; Greek *Mōusēs*; Arabic <span class="arabic">مُوسَىٰ</span>, *Mūsā*) is the foundational prophet, lawgiver, and deliverer of the Hebrew Bible, conventionally dated to the 13th century BCE during the late Bronze Age (late Age of Aries on the corpus's precessional reckoning). The **Pentateuch** — the first five books of the Hebrew Bible (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), known in Jewish tradition as the **Torah** ("instruction") — is largely a Moses biography from Exodus 2 onward, recording his Egyptian birth, his exposure and adoption by the Egyptian royal house, his flight to Midian after killing an Egyptian taskmaster, his commissioning at the **burning bush** on Mount Horeb, his leadership of the Israelite exodus from Egyptian slavery, the parting of the **Red Sea**, the **Sinai theophany** and the reception of the **Decalogue** and the broader Torah, the construction of the **Tabernacle** and the **Ark of the Covenant**, the 40-year wilderness wandering, and his death on **Mount Nebo** before the Israelite entry into Canaan.

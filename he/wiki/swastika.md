@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,19 +16,28 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["svastika", "sauvastika", "manji (卍)", "Hakenkreuz (Nazi-specific tilted form)", "fylfot", "gammadion", "sun cross", "tetraskelion", "whirling logs (Navajo)"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "סמל האינסוף הראליאני", path = "wiki/raelian-symbol-of-infinity", description = "הסמל המורכב שצלב הקרס הוא הרכיב המרכזי בו." },
+    { title = "מגן דוד", path = "wiki/star-of-david", description = "הרכיב העיקרי האחר של אותו סמל מורכב." },
+    { title = "אינסוף", path = "wiki/infinity", description = "המושג הרחב שצלב הקרס מקודד בממדו הזמני, המחזורי־הנצחי." },
+    { title = "אפקט המסה", path = "wiki/mass-effect", description = "המסגרת הזמנית־המחזורית שמשמעות צלב הקרס, ״הכול מחזורי״, מתיישבת עמה." },
+    { title = "השרשרת הקוסמית", path = "wiki/cosmic-chain", description = "קוסמולוגיית המחזורים המקוננים שקריאת ״העליון נעשה תחתון״ משתתפת בה." },
+    { title = "ראליזם", path = "wiki/raelism", description = "התנועה שסניפיה באסיה שומרים על הסמל המקורי שבמרכזו צלב הקרס." },
+    { title = "הטחנה הטוחנת את העידנים", path = "articles/the-mill-that-grinds-the-ages", description = "צלב הקרס כגלגל העידנים המסתובב — פירושו של יהוה לסמל כאינסוף בזמן." },
+]
 
 [extra.infobox]
-type = "Religious-iconographic symbol; one of the oldest known symbols globally with cross-cultural distribution across virtually all major cultural-religious traditions"
-basic_form = "Cross with four arms bent at right angles, typically rotated 90 degrees between successive arms; principal orientations are right-facing (clockwise, *svastika* proper) and left-facing (counter-clockwise, *sauvastika*)"
-sanskrit_etymology = "*Svastika* (सुस्तिक) from *sv-* (good, well) and *asti* (to be) plus the *-ka* suffix; principal meaning 'well-being,' 'good fortune,' 'auspiciousness'"
-oldest_known_usage = "Approximately 10,000 BCE; Mezin culture (Ukraine), carved-mammoth-ivory bracelet"
-principal_traditional_meanings = "Auspiciousness, good fortune, well-being (Hindu); cyclic cosmic time (Buddhist, Jain); eternity, infinity in time (Raëlian framework); the cycle, the choice between progress and regression (Raëlian-specific framework content)"
-principal_cross_cultural_traditions = "Hindu (svastika), Buddhist (Buddhapada, manji 卍), Jain (ashtamangala), Paleolithic and Neolithic European (Mezin, Cucuteni-Trypillian, Vinča), Bronze Age and Iron Age European (Greek geometric pottery, Etruscan, Roman, Celtic-Germanic-Slavic-Baltic), Mesopotamian, ancient Mediterranean, Native American (Navajo, Hopi), various indigenous traditions"
-position_in_raelian_framework = "Central element of the original Raëlian Symbol of Infinity (1973-present, in use in Asian Raëlian movement branches); modified to galaxy-spiral in Western Raëlian movement branches (1990 modification); represents the temporal dimension of infinity through the cyclic-eternal principle"
-post_1945_situation = "Nazi appropriation (1920-1945) produced substantial cultural-political complications in post-Holocaust European-North American contexts; legal restrictions vary across jurisdictions (Germany StGB §86 prohibits Nazi-specific usage; various other European countries have similar restrictions); various post-1945 reclamation efforts within Hindu-Buddhist diaspora communities have worked toward distinguishing the broader pre-Nazi religious-traditional usage from the specific Nazi appropriation"
-distinguished_from = "The Star of David (the other principal component of the Raëlian Symbol of Infinity, treated under separate entry); the Raëlian Symbol of Infinity as composite emblem (treated under separate entry); the Nazi *Hakenkreuz* specifically (the tilted-clockwise form adopted as NSDAP symbol 1920); the broader cross-cultural sun-cross category (which includes various non-swastika cross-with-arms forms)"
-status_in_source_material = "Substantially documented; the principal Yahweh-delivered passages establish both the symbol's specific Raëlian-framework semantic content and its identification with broader cross-cultural traditional usage"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Watching Over the Chosen People' content (the principal Yahweh passage on the emblem); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Buddhism' / 'Devils' section (the swastika as cycle); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' section (the Bardo Thodol cross-reference)"
+type = "סמל דתי; מן העתיקים הידועים, בעל תפוצה בין־תרבותית ברוב המסורות הדתיות הגדולות"
+basic_form = "צלב בעל ארבע זרועות הכפופות בזווית ישרה, בדרך כלל מסובבות ב־90 מעלות בין זרוע לזרוע; הכיוונים העיקריים הם פונה ימינה (עם כיוון השעון, ה־*svastika* במובן הצר) ופונה שמאלה (נגד כיוון השעון, *sauvastika*)"
+sanskrit_etymology = "*Svastika* (सुस्तिक) מן *sv-* (טוב, היטב) ו־*asti* (להיות) בתוספת הסיומת *-ka*; המשמעות העיקרית 'רווחה', 'מזל טוב', 'סימן טוב'"
+oldest_known_usage = "בסביבות 10,000 לפנה״ס; תרבות מזין (אוקראינה), צמיד מגולף משנהב ממותה"
+principal_traditional_meanings = "מזל טוב, הצלחה, רווחה (הינדואיזם); זמן קוסמי מחזורי (בודהיזם, ג'ייניזם); נצח, אינסוף בזמן והבחירה בין קדמה לנסיגה (המסגרת הראליאנית)"
+principal_cross_cultural_traditions = "הינדית (svastika), בודהיסטית (Buddhapada, manji 卍), ג'ייניסטית (ashtamangala), אירופית פליאוליתית ונאוליתית (מזין, קוקוטני–טריפוליה, וינצ'ה), אירופית של תקופות הברונזה והברזל (קדרות גיאומטרית יוונית, אטרוסקית, רומית, קלטית־גרמאנית־סלאבית־בלטית), מסופוטמית, ים־תיכונית עתיקה, אינדיאנית (נאוואחו, הופי), ומסורות ילידיות שונות"
+position_in_raelian_framework = "רכיב מרכזי בסמל האינסוף הראליאני המקורי (1973–היום, עדיין בשימוש בסניפים הראליאניים באסיה); הוחלף בספירלה גלקטית בסניפים המערביים (1990); מייצג את הממד הזמני של האינסוף דרך העיקרון המחזורי־נצחי"
+post_1945_situation = "הניכוס הנאצי (1920–1945) יצר סיבוכים תרבותיים־פוליטיים באירופה ובצפון אמריקה שלאחר השואה; ההגבלות החוקיות משתנות בין תחומי שיפוט (סעיף 86 ל־StGB הגרמני אוסר שימוש נאצי ספציפי; במדינות אירופיות אחרות יש חוקים דומים); מאמצי השבה שלאחר 1945 בקהילות התפוצה ההינדיות והבודהיסטיות פועלים להבחין בין השימוש הדתי שקדם לנאצים לבין הניכוס הנאצי"
+distinguished_from = "מגן דוד (הרכיב האחר של הסמל, ערך נפרד); סמל האינסוף הראליאני כסמל מורכב (ערך נפרד); ה־*Hakenkreuz* הנאצי (הצורה הנטויה בכיוון השעון שאומצה כסמל ה־NSDAP ב־1920); הקטגוריה הרחבה של צלב השמש (הכוללת צורות של צלב עם זרועות שאינן צלב קרס)"
+status_in_source_material = "מתועד היטב; הקטעים שמסר יהוה קובעים הן את משמעות הסמל במסגרת הראליאנית והן את זיהויו עם השימוש המסורתי הבין־תרבותי"
+principal_text = "*הספר המגלה את האמת* (1974), התוכן 'שמירה על העם הנבחר' (הקטע העיקרי של יהוה על הסמל); *החייזרים לקחו אותי לכוכב שלהם* (1975), הסעיף 'בודהיזם' / 'שדים' (הסווסטיקה כמחזור); *החייזרים לקחו אותי לכוכב שלהם* (1975), הסעיף 'לא אל ולא נשמה' (ההפניה לבארדו תודול)"
 +++
 
 The **swastika** is one of the oldest religious symbols, with archaeological evidence extending back at least 12,000 years to Paleolithic Europe. It is a **cross with four arms bent at right angles**, typically rotated 90 degrees between successive arms, in a right-facing (clockwise, *svastika* proper in Hindu tradition) or left-facing (counter-clockwise, *sauvastika*) orientation. Its cross-cultural reach spans most major traditions: it is a principal auspicious symbol in Hindu tradition (Sanskrit *svastika*, "well-being" or "good fortune"); appears in nearly all Buddhist temples, notably on the Buddhapada (Buddha's footprint) and in the Chinese 卍 (*manji*) form; is one of the eight auspicious symbols (*ashtamangala*) in Jain tradition; and had pre-Nazi use across European, Mesopotamian, Mediterranean, Native American, and other traditions. Its meaning varies by tradition but consistently carries auspicious, protective, and cosmic-cyclic content.

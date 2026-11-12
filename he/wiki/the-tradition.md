@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,17 +16,26 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["la Tradition (French, Sendy's principal designation)", "the Tradition (capitalized to distinguish from generic 'tradition')", "the chain of Tradition (in the Hebrew *shalshelet ha-Kabbalah* sense)", "the perennial Tradition (in partial alignment with the perennialist designation)", "the Hermetic Tradition (in Western-esoteric usage)", "the Wisdom Tradition (in broader spiritual usage)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "ז׳אן סנדי", path = "wiki/jean-sendy", description = "המחבר שניסח את המסורת כפיגום המרכזי של המסגרת שלו." },
+    { title = "קבלה", path = "wiki/kabbalah", description = "הזרם האזוטרי־המגונן העברי שסנדי מתייחס אליו כשרשרת מסירה עיקרית." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "המסגרת היורשת את המסורת של סנדי ומרחיבה אותה בחומר מקור חדש." },
+    { title = "עידן עולם", path = "wiki/world-age", description = "הכרונולוגיה הפרצסיונית שהקורפוס משלב עם שושלות המסירה של סנדי." },
+    { title = "המקרא העברי", path = "wiki/hebrew-bible", description = "גוף טקסטים עיקרי שסנדי קורא לשם תוכן משומר על אנשי השמיים בתוך המסורת." },
+    { title = "ריבוי האלים", path = "wiki/plurality-of-gods", description = "רכיב משוחזר של הידע הקוסמי־הדתי המשומר שהמסורת נושאת." },
+    { title = "האיש שהִמר על התנ\"ך בעזרת הירח", path = "articles/the-man-who-bet-the-bible-on-the-moon", description = "ז׳אן סנדי עסק במסורת דרך הקבלה של הרב הראשי ספרן — המחקר המלא." },
+]
 
 [extra.infobox]
-type = "Foundational Sendy-derived framework concept; the cross-cultural body of preserved knowledge transmitted across millennia within esoteric pedagogical-textual traditions"
-principal_articulator = "Jean Sendy (1910-1978), French author whose major works articulate The Tradition as the central interpretive scaffold of his broader framework"
+type = "מושג מסגרת יסודי שמקורו בסנדי: הגוף הבין־תרבותי של ידע משומר שנמסר לאורך אלפי שנים בשושלות הוראה אזוטריות"
+principal_articulator = "ז'אן סנדי (1910–1978), הסופר הצרפתי שספריו מנסחים את המסורת כפיגום הפרשני המרכזי של המסגרת שלו"
 principal_works = "*Les cahiers de cours de Moïse* (Julliard, 1963); *La Lune, clé de la Bible* (Julliard, 1968); *Les dieux nous sont nés* (Grasset, 1966); *Ces dieux qui firent le ciel et la terre* (Robert Laffont, 1969); *L'ère du Verseau* (Robert Laffont, 1970); *Nous autres, gens du Moyen Âge*"
-core_content = "Substantial body of preserved knowledge content (cosmic, astronomical, religious, technical) traceable to original Elohim contact during the early post-flood ages; transmitted across millennia within specific pedagogical-priestly chains across multiple cultural-religious traditions"
-principal_transmission_lineages = "The Egyptian priestly tradition; the Hebrew prophetic and rabbinic tradition (with the Kabbalistic tradition as the principal esoteric-protective stream); the Pythagorean-Platonic Greek philosophical tradition; the Hermetic tradition (Hermes Trismegistus, Corpus Hermeticum); the Christian medieval-scholastic tradition; the various subsequent esoteric-transmission traditions"
-distinguished_from = "Mainstream sociological 'tradition' (cultural-customary practices passed down through generations); mainstream comparative-religion 'tradition' (substantial religious-cultural inheritance generally); the perennialist tradition's 'transcendent unity of religions' framework (which operates through different epistemic commitments); the broader 'New Age' wisdom-tradition popularization (which operates with substantial dilution of the specific content)"
-sendy_central_position = "Self-positioning as 'medievalist' — embracing the broader medieval intellectual tradition that the Renaissance / Enlightenment 'humanist' tradition rejected as superstition; the medievalist self-positioning operating paradoxically-rhetorically as the substantial argument that medieval anticipations (transmutation of metals, flying machines, going to the moon, extraterrestrial life) have been progressively confirmed by twentieth-century science while humanist confident dismissal has been progressively falsified"
-status_in_framework = "Foundational concept; the principal Sendy-derived interpretive scaffold supporting the corpus's broader cross-cultural integration"
-principal_corpus_treatment = "Sendy's *L'ère du Verseau* (1970), particularly the *Le Sceau de Salomon et la Tradition de Platon* and *Les Sources de la Tradition* sections; *Ces dieux qui firent le ciel et la terre* (1969); *Les cahiers de cours de Moïse* (1963); subsequent corpus development integrating Sendy's framework with Raëlian source material and *Hamlet's Mill* precessional reconstruction"
+core_content = "גוף של ידע משומר (קוסמי, אסטרונומי, דתי, טכני) שניתן להתחקות אחריו עד למגע עם האלוהים בעידנים המוקדמים שלאחר המבול, ונמסר בשרשראות כוהניות והוראתיות במסורות תרבותיות־דתיות רבות"
+principal_transmission_lineages = "הכהונה המצרית; המסורת הנבואית והרבנית העברית (והקבלה כזרם האזוטרי העיקרי שלה); הפילוסופים היוונים הפיתגוראים־אפלטוניים; המסורת ההרמטית (הרמס טריסמגיסטוס, ה־Corpus Hermeticum); האסכולות הנוצריות של ימי הביניים; והשושלות האזוטריות המערביות המאוחרות"
+distinguished_from = "מסורת במובן הסוציולוגי הרגיל (המנהגים שתרבות מוסרת הלאה); 'האחדות הטרנסצנדנטית של הדתות' של הפרניאליזם (הנשענת על מחויבויות אחרות); ו'מסורת החוכמה' העממית של העידן החדש (המדללת את התוכן הספציפי)"
+sendy_central_position = "הזדהותו העצמית של סנדי כ'מדיאביסט' (*médiéviste*) — צידוד במסורת האינטלקטואלית של ימי הביניים שה'הומניסטים' של הרנסנס וההשכלה ביטלו כאמונה תפלה, בטענה שתחזיותיה (התמרת מתכות, מכונות מעופפות, מסע לירח, חיים בעולמות אחרים) אוששו מאז על ידי מדע המאה העשרים, ואילו הביטולים ההומניסטיים הופרכו"
+status_in_framework = "מושג יסוד; הפיגום העיקרי שמקורו בסנדי לשילוב הבין־תרבותי של הקורפוס"
+principal_corpus_treatment = "*L'ère du Verseau* של סנדי (1970), ובמיוחד הקטעים *Le Sceau de Salomon et la Tradition de Platon* ו־*Les Sources de la Tradition*; *Ces dieux qui firent le ciel et la terre* (1969); *Les cahiers de cours de Moïse* (1963); מורחב בשילוב הקורפוס של החומר הראליאני ושל השחזור הפרצסיוני של *Hamlet's Mill*"
 +++
 
 **The Tradition** (French *la Tradition*; Hebrew שַׁלְשֶׁלֶת הַקַּבָּלָה,

@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,15 +17,15 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Dos semanas después de la Versión 01 de PURSUE, el Departamento de Guerra de EE. UU. publicó la Versión 02 en war.gov/UFO: más de cincuenta elementos previamente clasificados, incluido el primer vídeo de FANI a todo color (no térmico), un incidente de fijación de armas de un dron MQ-9 Reaper en la frontera Jordania-Siria, un encuentro de marzo de 2022 entre un submarino y objetos esféricos transmedio, y 116 páginas de archivo procedentes de Sandia, Nuevo México, 1948-1950. El corpus registra la Versión 02 como contexto para leer el canon, no como una señal del retorno."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "El contexto del presente"
+cross_reference = "Era de Acuario, §IX"
 canon_links = [
-    { title = "Age of Aquarius", path = "/timeline/age-of-aquarius/" },
+    { title = "Era de Acuario", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },
-    { title = "Ufology", path = "/wiki/ufology/" },
+    { title = "Ufología", path = "/wiki/ufology/" },
     { title = "Elohim", path = "/wiki/elohim/" },
-    { title = "Ancient Astronaut Hypothesis", path = "/wiki/ancient-astronaut-hypothesis/" },
-    { title = "Raëlism", path = "/wiki/raelism/" }
+    { title = "Hipótesis de los antiguos astronautas", path = "/wiki/ancient-astronaut-hypothesis/" },
+    { title = "Raelismo", path = "/wiki/raelism/" }
 ]
 sources = [
     { title = "Department of War Publishes Second Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO", url = "https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/", outlet = "U.S. Department of War", date = "2026-05-22" },

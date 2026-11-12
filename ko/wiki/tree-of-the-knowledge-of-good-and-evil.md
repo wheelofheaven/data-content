@@ -6,29 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["Tree of the Knowledge of Good and Evil", "Tree of Knowledge", "עֵץ הַדַּעַת טוֹב וָרָע (Hebrew etz ha-daat tov va-ra)", "the forbidden tree", "the tree in the midst of the garden", "the second tree (alongside Tree of Life)"]
+alternative_names = ["선악을 알게 하는 나무", "지식의 나무", "עֵץ הַדַּעַת טוֹב וָרָע (히브리어 etz ha-daat tov va-ra)", "금지된 나무", "동산 가운데의 나무", "두 번째 나무(생명나무와 나란히)"]
 timeline = ["age-of-leo", "age-of-cancer"]
+see_also = [
+    { title = "생명나무", path = "wiki/tree-of-life", description = "과학적 지식과 함께 보류된 장수 기술을 담은, 짝을 이루는 나무." },
+    { title = "뱀", path = "wiki/serpent", description = "폭로 역할을 맡은 루시퍼 분파로 읽히는 창세기 3장의 인물." },
+    { title = "루시퍼", path = "wiki/lucifer", description = "그 창조자들이 보류된 지식을 최초의 인간들에게 폭로한 반대 분파의 지도자." },
+    { title = "에덴", path = "wiki/eden", description = "나무가 서 있고 폭로가 일어난 실험실 동산." },
+    { title = "엘로힘", path = "wiki/elohim", description = "나무가 그 과학적 지식을 담고 있는 창조자 문명." },
+    { title = "테오마키", path = "wiki/theomachy", description = "폭로 행위가 시작한 창조자 분파 간의 갈등." },
+    { title = "대홍수", path = "wiki/great-flood", description = "폭로 이후의 발전 궤적이 도달한 후대의 대격변." },
+]
 
 [extra.infobox]
-type = "Symbolic-conceptual; principal Genesis 2-3 designation for scientific knowledge archives withheld from first synthetic humans"
-hebrew_term = "עֵץ הַדַּעַת טוֹב וָרָע (etz ha-daat tov va-ra) — 'tree of the knowledge of good and evil'"
-biblical_location = "Genesis 2:9, 2:16-17, 3:1-7, 3:11, 3:17, 3:22"
-biblical_dating = "Late Age of Leo / early Age of Cancer in corpus chronology (the Eden-laboratory operational period, c. 9,000 – 8,850 BCE); placement in garden in late Leo, disclosure-and-expulsion in early Cancer"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'Genesis' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Leo chapter, Section IX, and Age of Cancer chapter, Section IV"
-core_corpus_articulation = "The body of scientific knowledge possessed by the Elohim creator civilization, withheld from first synthetic humans by Council order to prevent humans from becoming creators' equals; the prohibition is political (protect creator civilization) rather than moral (avoid sin)"
-paired_concept = "Tree of Life (עֵץ הַחַיִּים etz ha-chayyim) — biological longevity technology of the Elohim; paired prohibition; treated in dedicated Tree of Life entry"
-serpent_identification = "Lucifer faction — minority of Israel-team Eloha scientists led by an Eloha called Lucifer ('light-bringer'); the Hebrew nachash used collectively for the faction performing the disclosure act"
-merism_content = "Hebrew tov va-ra ('good and evil') operates as classic biblical merism designating the entirety of moral knowledge; post-disclosure humans become moral agents capable of full ethical evaluation"
-disclosure_consequences = "Lucifer-faction exile to Earth ('serpent cursed to crawl'); Adam-and-Eve expulsion from laboratory-garden; Cherubim-and-flaming-sword guard preventing Tree-of-Life access (corpus reading: soldiers with atomic disintegration weapons); subsequent civilizational developmental trajectory"
-distinguished_from = "Mainstream Christian 'original sin' reading (treating prohibition as moral and disobedience as fall); Tree of Life (paired biological-longevity technology); gnostic positive-serpent reading (sharing structural features but operating distinctively on Eloha-faction internal distinctions)"
-status_in_framework = "Foundational symbolic-conceptual content; principal originary knowledge-asymmetry articulation; structural inaugurator of subsequent human scientific-developmental trajectory; central to broader corpus engagement with creator-created political relationship"
+type = "상징적·개념적. 최초의 합성 인간에게서 감추어진 과학 지식 보관소를 가리키는 창세기 2-3장의 주요 명칭"
+hebrew_term = "עֵץ הַדַּעַת טוֹב וָרָע (etz ha-daat tov va-ra) — '선악을 알게 하는 나무'"
+biblical_location = "창세기 2:9, 2:16-17, 3:1-7, 3:11, 3:17, 3:22"
+biblical_dating = "코퍼스 연대기로 사자자리 시대 후기 / 게자리 시대 초기(에덴 실험실 운영 기간, 기원전 약 9,000 – 8,850년). 사자자리 후기에 동산에 놓였고, 게자리 초기에 폭로와 추방이 일어났습니다"
+principal_source = "*The Book Which Tells the Truth*(보릴롱, 1974), 'The Truth' 장, 'Genesis' 절. *Message from the Designers*(2005)에서 통합. 사자자리 시대와 게자리 시대 연대기 자료에서 추가 전개"
+core_corpus_articulation = "엘로힘 창조자 문명이 지닌 과학 지식의 총체로, 최초의 합성 인간이 창조자와 대등해지는 것을 막기 위해 평의회의 명령으로 감추어졌습니다. 금지는 도덕적(죄를 피함)이 아니라 정치적(창조자 문명을 보호함)입니다"
+paired_concept = "생명나무(עֵץ הַחַיִּים etz ha-chayyim) — 엘로힘의 생물학적 장수 기술. 짝을 이루는 금지는 생명나무 항목에서 다룹니다"
+serpent_identification = "루시퍼 파 — 루시퍼('빛을 가져오는 자')라 불리는 엘로하가 이끄는, 이스라엘 팀 엘로하 과학자들 중 소수. 히브리어 nachash는 폭로를 실행한 이 파를 집합적으로 가리킵니다"
+merism_content = "히브리어 tov va-ra('선과 악')는 도덕적 지식 전체를 가리키는 고전적인 성경의 메리즘입니다. 폭로 이후 인간은 독립적 평가가 가능한 도덕적 행위자가 됩니다"
+disclosure_consequences = "루시퍼 파의 지구 유배('기어 다니도록 저주받은 뱀'), 실험실 동산에서 아담과 하와의 추방, 생명나무 접근을 막는 그룹과 불칼의 경비(코퍼스의 해석: 원자 분해 무기를 지닌 병사들), 이후의 과학적 발전 궤적"
+distinguished_from = "주류 그리스도교의 '원죄' 해석(금지는 도덕적, 먹는 것은 타락), 생명나무(짝을 이루는 생물학적 장수 기술), 영지주의의 긍정적 뱀 해석(구조적 특징을 공유하지만 창조신을 더 전면적으로 거부함)"
+status_in_framework = "기초적 상징·개념 내용. 창조자와 피조물 사이의 근원적 지식 비대칭과 그에 맞선 최초의 저항 행위에 대한 이 체계의 주요 표명"
 +++
 
 The **Tree of the Knowledge of Good and Evil** (Hebrew עֵץ הַדַּעַת טוֹב וָרָע,

@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "美国战争部在 war.gov/UFO 开通公共门户，发布首批解密 UAP 记录——传感器回波、操作员报告，以及一帧1972年阿波罗17号的画面。Wheel of Heaven 语料将此次披露登记为解读正典的背景，而非征兆：任何已披露的档案都不是支持本框架的证据——本框架所期待的接触是官方的、有条件的、不定日期的。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "当下的背景"
+cross_reference = "水瓶座时代，§IX"
 canon_links = [
     { title = "宝瓶座时代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

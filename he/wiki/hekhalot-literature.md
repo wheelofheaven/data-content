@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["ספרות Hekhalot / Heikhalot (הֵיכָלוֹת)", "מיסטיקת המרכבה", "מיסטיקת Merkabah", "ספרות 'ההיכלות'", "*ma'aseh merkavah* ('מעשה מרכבה')"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "שיעור קומה", path = "wiki/shiur-qomah", description = "טקסט מידות הפרסה שנמסר בתוך קורפוס זה ונקרא בידי הקנון הראליאני." },
+    { title = "קבלה", path = "wiki/kabbalah", description = "המיסטיקה היהודית הקלאסית המאוחרת, ששכבה טרום־קבלית זו קודמת לה במאות שנים." },
+    { title = "עץ החיים", path = "wiki/tree-of-life", description = "הדיאגרמה הקבלית המתפתחת מתוך מסורת העלייה דרך ההיכלות." },
+    { title = "המקרא העברי", path = "wiki/hebrew-bible", description = "מקור חזון כיסא־המרכבה של יחזקאל, שממנו שואבת מיסטיקת המרכבה את שמה." },
+    { title = "יהוה", path = "wiki/yahweh", description = "הדמות היושבת על כס המרכבה, שקומתה נמדדת בשיעור קומה המשובץ." },
+    { title = "נחתמו עד השנה הראשונה", path = "articles/unsealed-in-year-one", description = "קורא את ״שירות עולת השבת״ מקומראן כליטורגיית המרכבה הקדומה שמאחורי מסורת זו." },
+]
 
 [extra.infobox]
 type = "קורפוס של חיבורים מיסטיים יהודיים משלהי העת העתיקה / ראשית ימי הביניים (קדם-קבלי)"

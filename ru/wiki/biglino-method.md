@@ -6,26 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Biglino Method", "Metodo Biglino (Italian)", "the 'let's pretend it's true' method", "the naked-Bible method"]
+alternative_names = ["Метод Бильино", "Metodo Biglino (итал.)", "метод «давайте представим, что это правда»", "метод «обнажённой Библии»"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Мауро Бильино", path = "wiki/mauro-biglino", description = "Итальянский переводчик, по чьей практике прочтения назван и кодифицирован метод." },
+    { title = "Жан Сенди", path = "wiki/jean-sendy", description = "Сформулировал тот же принцип буквального прочтения «Шлиман — Гомер» на четыре десятилетия раньше Бильино." },
+    { title = "Еврейская Библия", path = "wiki/hebrew-bible", description = "Текст, который метод читает буквально, в оригинале, освобождённым от унаследованной богословской рамки." },
+    { title = "Список этимологических прочтений", path = "wiki/list-of-etymological-readings", description = "Каталог корпуса с еврейскими терминами, прочитанными напрямую, — применение метода термин за термином." },
+    { title = "Неоэвгемеризм", path = "wiki/neo-euhemerism", description = "Более широкая интерпретационная позиция, рассматривающая миф как сжатую историю, которой служит метод." },
+    { title = "Гипотеза древних астронавтов", path = "wiki/ancient-astronaut-hypothesis", description = "Более широкая область, в которую поступают выводы метода о буквальном прочтении." },
+    { title = "Человек, поставивший Библию на Луну", path = "articles/the-man-who-bet-the-bible-on-the-moon", description = "Жан Сенди сформулировал принцип «Шлиман — Гомер» на четыре десятилетия раньше Бильино — полное исследование." },
+]
 
 [extra.infobox]
-type = "Hermeneutic methodology for reading the Hebrew Bible; principal contemporary articulation of the Schliemann-Sendy literal-reading tradition"
-developer = "Mauro Biglino (1950–), Italian translator and scholar; translator of seventeen books of the Hebrew Bible for Edizioni San Paolo (Pauline Editions, Vatican-affiliated Catholic publisher) across more than a decade; independent author from 2010 onward"
-principal_source = "*Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011); *The Naked Bible* (with Giorgio Cattaneo, English edition 2022) for the explicit methodological articulation"
-methodology = "Three steps: (1) obtain familiarity with the original Hebrew text; (2) set aside accumulated traditional interpretation; (3) read the text literally, taking words in their concrete sense"
-slogan = "'Pretend that the Bible is simply telling the truth' — Biglino's principal methodological formulation"
-methodological_precedent = "Heinrich Schliemann's literal reading of the Homeric epics, leading to the identification and excavation of Troy (1870s); explicitly invoked by Jean Sendy in *Ces dieux qui firent le ciel et la terre* (1969) as the model for Bible reading approximately four decades before Biglino's independent articulation"
-distinguished_from = "Mainstream historical-critical method (which treats the text as composite and seeks original source-strata); confessional theological exegesis (which reads through inherited theological framework); allegorical exegesis (which reads literal narrative as cipher for theological content)"
-corpus_position = "Necessary but insufficient: the corpus accepts the literal-reading principle and applies it to Hebrew terms and narratives, while integrating Biglino's commitments with the broader Hamlet's Mill precessional framework, Vorilhon source-textual primacy, cross-cultural comparative engagement, and disciplined epistemic-pluralism methodology"
-status_in_framework = "Principal contemporary methodological articulation engaging Hebrew Bible directly; one component of the broader corpus hermeneutic alongside Sendy's framework, the Vorilhon revelation, and the Hamlet's Mill integration"
+type = "Герменевтическая методология чтения Еврейской Библии; главная современная формулировка традиции буквального чтения Шлимана и Сенди"
+developer = "Мауро Бильино (род. 1950), итальянский переводчик и исследователь; на протяжении более десяти лет переводчик семнадцати книг Еврейской Библии для Edizioni San Paolo (католическое издательство, аффилированное с Ватиканом); с 2010 года независимый автор"
+principal_source = "*Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011); *The Naked Bible* (совместно с Джорджо Каттанео, английское издание 2022) — для явной методологической формулировки"
+methodology = "Три шага: (1) освоить исходный еврейский текст; (2) отложить накопленное традиционное толкование; (3) читать текст буквально, понимая слова в их конкретном значении"
+slogan = "«Представьте, что Библия просто говорит правду» — главная методологическая формулировка Бильино"
+methodological_precedent = "Буквальное прочтение гомеровского эпоса Генрихом Шлиманом, приведшее к идентификации и раскопкам Трои (1870-е); прямо приводится Жаном Сенди в *Ces dieux qui firent le ciel et la terre* (1969) как образец чтения Библии — примерно за сорок лет до независимой формулировки Бильино"
+distinguished_from = "Общепринятый историко-критический метод (рассматривающий текст как составной и ищущий исходные пласты источников); конфессиональная богословская экзегеза (читающая через унаследованную богословскую рамку); аллегорическая экзегеза (читающая буквальное повествование как шифр богословского содержания)"
+corpus_position = "Необходим, но недостаточен: корпус принимает принцип буквального чтения и применяет его к еврейским терминам и повествованиям, соединяя установки Бильино с более широкой прецессионной рамкой «Мельницы Гамлета», первенством исходных текстов Ворильона, межкультурной сравнительной работой и дисциплинированной методологией эпистемического плюрализма"
+status_in_framework = "Главная современная методологическая формулировка, напрямую работающая с Еврейской Библией; одна из составляющих более широкой герменевтики корпуса наряду с рамкой Сенди, откровением Ворильона и интеграцией «Мельницы Гамлета»"
 +++
 
 The **Biglino Method** is the interpretive methodology developed by Italian translator and scholar **Mauro Biglino** (1950–) for reading the Hebrew Bible. The method consists of three commitments:

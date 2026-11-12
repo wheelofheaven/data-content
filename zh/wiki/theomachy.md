@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -15,21 +15,33 @@ editorial_pass = "2026-05"
 entry_type = "event/period"
 alternative_names = ["Serpentine Rebellion", "the War in Heaven", "the Battle of the Gods", "the First War", "the Cosmic Conflict", "the War of the Serpent", "the Lucifer-Council Conflict"]
 timeline = ["cancer", "gemini", "taurus"]
+see_also = [
+    { title = "路西法", path = "wiki/lucifer", description = "其伊甸披露引发这场冲突的被流放造物者派系领袖。" },
+    { title = "蛇", path = "wiki/serpent", description = "希伯来圣经借以保存这场冲突之记忆的 nachash 词汇。" },
+    { title = "大洪水", path = "wiki/great-flood", description = "在更大规模战争中发生的双子座时代毁灭事件。" },
+    { title = "伊甸", path = "wiki/eden", description = "开启这场冲突的禁忌知识披露之场景。" },
+    { title = "巴别", path = "wiki/babel", description = "在同一冲突中议会对洪水后人类计划的一次干预。" },
+    { title = "龙", path = "wiki/dragons", description = "被文集解读为遭追捕之流放造物者的 tannin 意象。" },
+    { title = "《奥德赛》背后的世界", path = "/articles/the-world-behind-the-odyssey/", description = "在框架解读之前，发掘这一模式之希腊层——荷马、赫西俄德与安纳托利亚继承神话——的解读文章。" },
+    { title = "荷马的东面", path = "/articles/the-east-face-of-homer/", description = "沿着这一模式向东的地层追溯至美索不达米亚的姊妹解读文章：有据可查的传播走廊，以及正典将希腊置于耶洛因势力范围之内的解读。" },
+    { title = "赫利孔山上的雨", path = "/articles/the-rain-over-helicon/", description = "第三篇希腊解读文章，审视 M. L. West 的比较方法：为何神战家族在历史上成立，而其成员又各自保有差异。" },
+    { title = "龙形曲线", path = "/articles/the-dragon-curve/", description = "关于创世记 1:21 的 tannin 以及战斗神话中蛇—龙—海怪词汇的解读文章，对照第一部信息来解读。" },
+]
 
 [extra.infobox]
-type = "Multi-age narrative event; political-military conflict between the Elohim home-world Council and the exiled-creator-and-human alliance on Earth"
-beginning = "Late Age of Cancer (c. 9,300-9,200 BCE on the corpus's compressed timeline); Lucifer's disclosure of forbidden knowledge to Adam and Eve in Eden; the political condemnation and exile to Earth"
-open_military_phase = "Late Age of Gemini (c. 6,690 BCE forward); Council military action against the Serpentine faction in multiple theaters (orbital combat, surface engagements, possibly elsewhere in the solar system)"
-resolution = "Early Age of Taurus; negotiated settlement and pardon of the original exiles; the alliance covenant with the human partners persists"
-participants_council_side = "Yahweh (Council president), Satan (home-world abolitionist faction leader), various Council military forces from the home world"
-participants_serpentine_side = "Lucifer (exiled-creator faction leader), the original exiled Eloha scientists, various subsequent adherents from the home-world dissenting tradition, the human alliance partners (with full participation in the post-flood phases)"
-casualty_scope = "Substantial; the source registers the conflict as substantial in scope, duration, and destructive intensity, with the pre-flood civilization's destruction and substantial military engagement during the post-flood phase"
-geographical_scope = "Multiple theaters: Earth surface engagements at Serpentine faction installation sites; orbital combat between Council spacecraft and Serpentine defensive systems; possibly engagements at locations elsewhere in the solar system"
-political_settlement = "Pardon for the original exiles only; not a general amnesty for the broader Lucifer-faction movement; the hybrid Nephilim lineages and the post-flood human population not parties to the pardon; the covenant alliance with the human partners not unmade"
-cultural_afterlife = "Preserved in virtually every major mythological tradition worldwide as the cross-cultural Theomachy pattern; preserved in the Hebrew Bible principally through the *liwyatan*/*nachash*/*tannin* vocabulary"
-distinguished_from = "The Eden Expulsion (the specific late-Cancer event that initiates the broader conflict); the Great Flood (the specific Gemini-age destructive event that operates within the broader conflict); the Tower of Babel intervention (the specific Council intervention against the post-flood human technological project); the Sodom and Gomorrah strike (a chronologically later Taurus-age event with distinct operational character); the broader cross-cultural Theomachy pattern (which the corpus reads as cultural memory of this single historical event)"
-status_in_source_material = "Substantially documented; the principal source-material passages establish both the conflict's specific narrative arc and its identification with the cross-cultural Theomachy pattern"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Eden,' 'The Flood,' 'Babel,' and broader narrative chapters; *timeline.epub* Age of Cancer chapter (Eden disclosure); *timeline.epub* Age of Gemini chapter (Sections X-XII, with substantial treatment of the open-military phase, the cross-cultural Theomachy convergence, and the political settlement); *timeline.epub* Age of Taurus chapter (the pardon)"
+type = "跨越多个时代的叙事事件；耶洛因母星议会与地球上的被流放创造者—人类联盟之间的政治—军事冲突"
+beginning = "巨蟹座时代晚期（按文集压缩的时间线约公元前 9,300–9,200 年）；路西法在伊甸向亚当和夏娃透露禁忌知识；政治谴责与流放地球"
+open_military_phase = "双子座时代晚期（约公元前 6,690 年起）；议会在多个战场对蛇派采取军事行动（轨道作战、地面交战，可能还在太阳系其他地方）"
+resolution = "金牛座时代早期；谈判达成和解并赦免最初的流放者；与人类伙伴的联盟之约延续下来"
+participants_council_side = "耶和华（议会主席）、撒但（母星废止派领袖）、来自母星的各支议会军事力量"
+participants_serpentine_side = "路西法（被流放创造者派系的领袖）、最初被流放的耶洛因科学家、此后来自母星异议传统的各种追随者、人类联盟伙伴（在洪水后的各阶段全面参与）"
+casualty_scope = "规模可观；原始材料记载这场冲突在范围、持续时间与破坏强度上都相当可观，包括洪水前文明的毁灭以及洪水后阶段的大规模军事交战"
+geographical_scope = "多个战场：在蛇派系设施所在地的地面交战；议会飞船与蛇派系防御系统之间的轨道作战；可能还有发生在太阳系其他地方的交战"
+political_settlement = "仅赦免最初的流放者；并非对更广的路西法派系运动的全面大赦；混血的拿非利人血统与洪水后的人类群体不在赦免之列；与人类伙伴的立约联盟未被解除"
+cultural_afterlife = "作为跨文化的神战模式，保存在世界上几乎所有主要神话传统中；在希伯来圣经中主要通过 *liwyatan*／*nachash*／*tannin* 这组词汇保存下来"
+distinguished_from = "逐出伊甸（引发更广冲突的、巨蟹座晚期的具体事件）；大洪水（在更广冲突之中发生的、双子座时代的具体毁灭事件）；巴别塔干预（议会针对洪水后人类技术计划的具体干预）；所多玛与蛾摩拉打击（时间上更晚、作业性质不同的金牛座时代事件）；更广的跨文化神战模式（文集将其读作对这一单一历史事件的文化记忆）"
+status_in_source_material = "有充分记载；主要的原始材料段落既确立了这场冲突的具体叙事线索，也确立了它与跨文化神战模式的对应"
+principal_text = "《讲述真相之书》（1974），「伊甸」「洪水」「巴别」及更广的叙事章节；*timeline.epub* 巨蟹座时代一章（伊甸中的透露）；*timeline.epub* 双子座时代一章（第 X–XII 节，详论公开军事阶段、跨文化神战的交汇以及政治和解）；*timeline.epub* 金牛座时代一章（赦免）"
 +++
 
 {% claim(type="framework", id="woh-claim-0008") %}The **Theomachy** is the multi-age narrative event of the political-military conflict between the Elohim home-world Council and the exiled-creator-and-human alliance on Earth.{% end %} The conflict begins with **Lucifer's disclosure of forbidden knowledge to Adam and Eve** in Eden during the late Age of Cancer (c. 9,300-9,200 BCE on the corpus's compressed timeline), develops through the antediluvian period and the events leading to the Great Flood, reaches **open military expression** in the late Age of Gemini (c. 6,690 BCE forward) with substantial military engagement across multiple theaters, and resolves through the **negotiated settlement and pardon of the original exiles** in the early Age of Taurus. The conflict's principal participants are: on the Council side, Yahweh (Council president, moderate), Satan (home-world abolitionist faction leader), and various Council military forces from the home world; on the Serpentine side, Lucifer (the exiled-creator faction leader), the original exiled Eloha scientists, various subsequent adherents from the home-world dissenting tradition, and the human alliance partners with full participation in the post-flood phases.

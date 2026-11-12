@@ -6,35 +6,43 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Jesus of Nazareth", "Jesus Christ", "Yeshua", "Yēšuaʿ", "יֵשׁוּעַ", "Ἰησοῦς", "Iēsoûs", "Isa", "عيسى"]
+alternative_names = ["Иисус из Назарета", "Иисус Христос", "Yeshua", "Yēšuaʿ", "יֵשׁוּעַ", "Ἰησοῦς", "Iēsoûs", "Isa", "عيسى"]
 timeline = ["pisces"]
+see_also = [
+    { title = "Союз", path = "wiki/the-alliance", description = "Программа завета, преднамеренным гибридно зачатым проектом которой считается Иисус." },
+    { title = "Яхве", path = "wiki/yahweh", description = "Президент Элохим, поручивший проект альянса, результатом которого стал Иисус." },
+    { title = "Элохим", path = "wiki/elohim", description = "Создатели, давшие отца-Элоаха в опосредованном альянсом зачатии." },
+    { title = "Пророк", path = "wiki/prophet", description = "Роль вестника, которую Иисус исполняет, открывая эпоху Рыб." },
+    { title = "Раэль", path = "wiki/rael", description = "Вестник эпохи Водолея, составляющий пару с Иисусом в преемственности пророков." },
+    { title = "Апокалипсис", path = "wiki/apocalypse", description = "Эпоха откровения, к которой должна была подготовить его миссия эпохи Рыб." },
+]
 
 [extra.infobox]
 hebrew_name = "יֵשׁוּעַ"
-transliteration = "Yēšuaʿ (Hebrew); Yeshu (Aramaic shortened form)"
+transliteration = "Yēšuaʿ (иврит); Yeshu (сокращённая арамейская форма)"
 greek_name = "Ἰησοῦς (Iēsoûs)"
 latin_name = "Iesus"
 arabic_name = "عيسى (ʿĪsā)"
-title = "Christos / Mashiach ('anointed one')"
-born = "c. 4 BCE, Bethlehem or Nazareth (mainstream consensus)"
-died = "c. 30 CE or c. 33 CE, Jerusalem (crucifixion under Pontius Pilate)"
-ministry_period = "c. 27–30 CE (approximately three years)"
-geographic_context = "Roman Palestine: Galilee and Judea"
-linguistic_context = "Native Aramaic; literate in Biblical Hebrew; multilingual environment"
-mother = "Mary (Hebrew: Miriam)"
-adoptive_father = "Joseph"
-biological_father = "Yahweh (in the framework's reading); 'Holy Spirit' (in the conventional reading)"
-framework_role = "Inaugural figure of the Age of Pisces; biological hybrid; biological half-brother of Raël"
-current_status = "Resurrected; resident on the Planet of the Eternals (per the source material)"
-principal_text = "The four canonical Gospels (Matthew, Mark, Luke, John); the Pauline epistles; the broader New Testament"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974)"
+title = "Христос / Машиах («помазанник»)"
+born = "ок. 4 г. до н. э., Вифлеем или Назарет (общепринятый консенсус)"
+died = "ок. 30 или ок. 33 г. н. э., Иерусалим (распятие при Понтии Пилате)"
+ministry_period = "ок. 27–30 гг. н. э. (около трёх лет)"
+geographic_context = "Римская Палестина: Галилея и Иудея"
+linguistic_context = "Родной язык — арамейский; владел библейским ивритом; многоязычная среда"
+mother = "Мария (ивр. Мирьям)"
+adoptive_father = "Иосиф"
+biological_father = "Яхве (в прочтении рамки); «Святой Дух» (в традиционном прочтении)"
+framework_role = "Открывающая фигура Эпохи Рыб; биологический гибрид; единокровный брат Раэля"
+current_status = "Воскрешён; живёт на Планете Вечных (согласно исходным текстам)"
+principal_text = "Четыре канонических Евангелия (от Матфея, Марка, Луки, Иоанна); послания Павла; Новый Завет в целом"
+principal_framework_source = "*Книга, которая говорит правду* (Ворильон/Раэль, 1974)"
 +++
 
 **Jesus of Nazareth** (Hebrew: <span class="hebrew">יֵשׁוּעַ</span>, *Yēšuaʿ*; Greek: *Ἰησοῦς*, *Iēsoûs*; Latin: *Iesus*; Arabic: <span class="hebrew">عيسى</span>, *ʿĪsā*; conventionally Anglicized as *Jesus*; titular *Christos / Mashiach*, "anointed one") is a first-century Jewish preacher, healer, and apocalyptic figure whose ministry in Roman Palestine, public execution by crucifixion under Pontius Pilate, and post-mortem appearances to his followers founded the Christian religious tradition. He is the subject of the four canonical Gospels (Matthew, Mark, Luke, John),{{ cite(id="gospel-of-matthew", text="[1]", title="Gospel of Matthew — canonical Synoptic Gospel; principal infancy and Sermon material") }}{{ cite(id="gospel-of-luke-acts-of-the-apostles", text="[2]", title="Gospel of Luke and Acts of the Apostles — Lukan two-volume composition") }}{{ cite(id="gospel-of-john", text="[3]", title="Gospel of John — Logos prologue and high-Christological narrative") }} of the Pauline epistles, and of the broader New Testament corpus. Outside the Christian sources he is attested briefly in Josephus (*Antiquities of the Jews* 18.3.3 and 20.9.1), in Tacitus (*Annals* 15.44), and in a small number of other early non-Christian witnesses. The historical existence of Jesus as a first-century figure is accepted by the substantial majority of mainstream historical scholarship.

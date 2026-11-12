@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 99
@@ -22,16 +22,18 @@ alternative_names = ["le Porteur de lumière", "lūcifer", "Helel ben Shahar", "
 portrait_id = "lucifer"
 image = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.avif"
-image_alt = "AI-generated editorial portrait of Lucifer as the Light-Bringer, an Eloha faction leader with long hair and a green-gold luminosity."
-image_caption = "Interpretive portrait for the Lucifer wiki entry and library personality metadata."
+image_alt = "Portrait éditorial généré par IA représentant Lucifer en Porteur de lumière, chef de faction eloha aux cheveux longs, nimbé d'une luminosité vert doré."
+image_caption = "Portrait interprétatif pour l'entrée wiki Lucifer et les métadonnées de personnage de la bibliothèque."
 timeline = ["leo", "cancer"]
 see_also = [
+    { title = "Lucifer et Satan sont-ils la même figure ?", path = "articles/lucifer-and-satan", description = "La lecture face à face qui distingue Lucifer de Satan comme des factions opposées." },
     { title = "Serpent", path = "wiki/serpent", description = "Lucifer dans son rôle spécifique de divulgation d'Éden en Genèse 3." },
     { title = "Yahvé", path = "wiki/yahweh", description = "Le chef de l'équipe Israël et le modéré de l'alliance ; ancien collègue de Lucifer et adversaire politique post-Éden." },
     { title = "Satan", path = "wiki/satan", description = "Une figure Élohim distincte conduisant la faction abolitionniste du monde d'origine — politiquement opposée à Lucifer, et non identique à lui." },
     { title = "Adam et Ève", path = "wiki/adam-and-eve", description = "Les premiers humains que la faction Lucifer éduqua et auxquels elle fit la divulgation d'Éden." },
     { title = "Antédiluvien", path = "wiki/antediluvian", description = "La période durant laquelle la faction Lucifer exilée servit d'enseignants à la civilisation de la lignée d'Éden." },
     { title = "Arbre de Vie", path = "wiki/tree-of-life", description = "La technologie de longévité que la faction Lucifer obtint pour la direction patriarcale d'Éden." },
+    { title = "L'archidiacre et le dragon", path = "articles/the-archdeacon-and-the-dragon", description = "Rapporte l'arc des quatre dragons de Wallis à la lecture de la faction Lucifer." },
 ]
 
 footnotes = [

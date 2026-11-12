@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,18 +14,26 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
-alternative_names = ["Human adaptation", "Biological space adaptation", "Human pantropic engineering", "Adapted Men (Blish's term)", "Volitional evolution (NASA-affiliated literature)"]
+alternative_names = ["인간 적응", "생물학적 우주 적응", "인간 팬트로피 공학", "적응된 인간(블리시의 용어)", "의지적 진화(NASA 관련 문헌)"]
+see_also = [
+    { title = "테라포밍", path = "wiki/terraforming", description = "생물이 아니라 환경을 바꾸는 상보적 접근." },
+    { title = "합성생물학", path = "wiki/synthetic-biology", description = "판트로피에 오늘날의 기술적 개연성을 부여하는 공학 분과." },
+    { title = "합성유전체학", path = "wiki/synthetic-genomics", description = "인간의 판트로피적 개조 바탕에 있는 유전체 구축 도구 모음." },
+    { title = "창세기", path = "wiki/genesis", description = "엘로힘의 형상 안에 인류의 판트로피적 기원을 보존한 것으로 읽히는 창조 기사." },
+    { title = "에덴", path = "wiki/eden", description = "인간에 대한 엘로힘의 판트로피 작업이 이루어진 실험실 배경." },
+    { title = "생명공학(라이프 엔지니어링)", path = "wiki/life-engineering", description = "프레임워크가 인간 합성을 그 안에서 읽는, 생명 설계의 더 넓은 프로그램." },
+]
 
 [extra.infobox]
-type = "Speculative-then-engineering practice of modifying organisms (particularly humans) to survive in otherwise inhospitable environments"
-coined_by = "James Blish (1921–1975), American science fiction writer, in stories published 1952–1957 collected as *The Seedling Stars* (Gnome Press, 1957)"
-etymology = "Greek *pan* (\"all\") + *tropē* (\"turning, changing\"), giving the literal sense \"turning everything\" or \"transformation to fit anywhere\""
-contrast_concept = "[Terraforming](../terraforming/) — modifying environments to fit organisms — coined in the same period (Jack Williamson, *Astounding* 1942)"
-contemporary_research = "Christopher Mason's research at Weill Cornell on tardigrade-DNA-modified human cells (2016 onward); the broader NASA-affiliated literature on \"volitional evolution\" for deep-space radiation resistance; the contemporary discussion in *Acta Astronautica*, *Astrobiology*, *Oncotarget*, *Frontiers in Physiology*, and other space-medicine journals"
-principal_target_environments = "Mars (low gravity, thin CO₂ atmosphere, high radiation); deep-space transit (galactic cosmic radiation, microgravity); the Moon (lower gravity, no atmosphere, lunar dust hazards); Europa, Enceladus, and other ocean-worlds (subsurface aqueous environments); broader exoplanetary contexts"
-principal_modification_targets = "Radiation tolerance (tardigrade Dsup protein, melanin pathways, DNA repair enhancement); bone-density preservation under low gravity; muscular preservation; cardiovascular adaptation; thermal tolerance (extremophile-derived antifreeze proteins, thermophilic enzymes); atmospheric tolerance (alternative oxygen carriers, CO₂ tolerance)"
-framework_position = "Humanity itself is read by the framework as the product of an Elohim pantropic engineering operation — humans constructed in the Elohim's biological image but adapted for Earth's specific conditions, with Genesis 1:26–27 preserving operational content about this pantropic origin; the corpus's broader work on synthetic biology, synthetic genomics, and life engineering provides the technical context for the operational reading"
-relationship_to_terraforming = "Pantropy and terraforming are the two principal approaches to extraterrestrial habitation: pantropy modifies organisms, terraforming modifies environments; the framework reads the Earth project as having involved both — Yom 3 continental engineering as a terraforming operation, Yamim 5–6 biological synthesis as a pantropy operation"
+type = "생물(특히 인간)을 본래라면 살 수 없는 환경에서 생존하도록 수정하는, 사변에서 출발해 공학이 된 실천"
+coined_by = "제임스 블리시(1921–1975), 미국의 과학소설 작가; 1952–1957년에 발표되어 *The Seedling Stars*(Gnome Press, 1957)로 묶인 단편들에서"
+etymology = "그리스어 *판*(\"모든\") + *트로페*(\"돌림, 바꿈\")로, 문자적으로 \"모든 것을 바꿈\" 또는 \"어디에나 맞도록 변형함\"이라는 뜻"
+contrast_concept = "[테라포밍](../terraforming/) — 환경을 생물에 맞게 수정함 — 같은 시기에 만들어진 용어(잭 윌리엄슨, *Astounding* 1942)"
+contemporary_research = "웨일 코넬에서 크리스토퍼 메이슨이 수행한 완보동물 DNA로 수정한 인간 세포 연구(2016년 이후); 심우주 방사선 저항을 위한 \"의지적 진화\"에 관한 NASA 관련 문헌; *Acta Astronautica*, *Astrobiology*, *Oncotarget*, *Frontiers in Physiology* 등 우주의학 학술지의 현대 논의"
+principal_target_environments = "화성(저중력, 희박한 CO₂ 대기, 강한 방사선); 심우주 이동(은하 우주선, 미세중력); 달(더 낮은 중력, 대기 없음, 월면 먼지 위험); 유로파, 엔셀라두스 등 바다 세계(지하의 수성 환경); 더 넓은 외계 행성 맥락"
+principal_modification_targets = "방사선 내성(완보동물의 Dsup 단백질, 멜라닌 경로, DNA 복구 강화); 저중력에서의 골밀도 유지; 근육 유지; 심혈관 적응; 열 내성(극한성 생물 유래 부동 단백질, 호열성 효소); 대기 내성(대체 산소 운반체, CO₂ 내성)"
+framework_position = "틀은 인류 자체를 엘로힘의 팬트로피 공학 작업의 산물로 읽음 — 인간은 엘로힘의 생물학적 형상대로 만들어졌으되 지구의 특정 조건에 맞게 조정되었으며, 창세기 1:26–27이 이 팬트로피적 기원에 관한 작전적 내용을 보존함; 합성생물학, 합성 유전체학, 생명 공학에 관한 코퍼스의 더 넓은 작업이 이 작전적 독법의 기술적 맥락을 제공함"
+relationship_to_terraforming = "팬트로피와 테라포밍은 외계 거주의 두 가지 주요 접근법임: 팬트로피는 생물을, 테라포밍은 환경을 수정함; 틀은 지구 프로젝트가 둘 다를 포함했다고 읽음 — 셋째 날(*욤* 3)의 대륙 공학은 테라포밍 작업으로, 다섯째·여섯째 날(*야밈* 5–6)의 생물학적 합성은 팬트로피 작업으로"
 +++
 
 **Pantropy** is the hypothetical practice of modifying organisms — particularly humans — through **genetic engineering** or other biotechnological intervention so that they can survive and reproduce in environments otherwise inhospitable to them. The concept stands in deliberate contrast and complementarity to **terraforming**: where terraforming modifies environments to fit organisms (raising atmospheric oxygen on Mars, melting Martian polar caps, introducing photosynthetic life), pantropy modifies organisms to fit environments (engineering Mars-tolerant humans rather than Earth-tolerant Mars). The term combines the Greek roots **πᾶν** (*pan*, "all") and **τροπή** (*tropē*, "turning, changing"), giving the literal sense of "turning everything" or "transformation to fit anywhere" — a name capturing the radical breadth of biological modification the concept proposes.

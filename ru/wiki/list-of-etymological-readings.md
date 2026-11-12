@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,25 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of etymological readings", "Framework philology index", "Glossary of source-language readings"]
+alternative_names = ["Каталог этимологических прочтений", "Указатель филологии рамки", "Глоссарий прочтений исходных языков"]
+see_also = [
+    { title = "Список экзегетических прочтений", path = "wiki/list-of-exegetic-readings", description = "Парный каталог о том, к чему относятся термины, дополняющий этот филологический уровень." },
+    { title = "Список мифем и мифологических мотивов", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "Третий парный каталог, посвящённый повторяющимся межкультурным повествовательным моделям." },
+    { title = "Метод Бильино", path = "wiki/biglino-method", description = "Строго филологическая процедура, на которую опирается метод Сенди — Бильино в каталоге." },
+    { title = "Иврит", path = "wiki/hebrew", description = "Крупнейшая категория исходных языков в каталоге." },
+    { title = "Библия", path = "wiki/bible", description = "Главный текстуальный корпус, термины которого каталог восстанавливает этимологически." },
+    { title = "Неоэвгемеризм", path = "wiki/neo-euhemerism", description = "Интерпретационная традиция, дающая операциональную оптику, которую применяют прочтения." },
+    { title = "Свитки, пробудившиеся в первый год", path = "articles/the-scrolls-that-woke-in-year-one", description = "11QMelchizedek прилагает «элохим» к небесному чину — лучший древний рукописный свидетель этимологического прочтения." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of framework etymological readings of religious and mythological terms"
-philological_method = "Standard scholarly etymology of source-language terms, read through the framework's operational interpretive lens"
-methodological_lineage = "Jean Sendy (1968–1972), philological-historiographic foundation; Mauro Biglino (2012 onward), strict Hebrew philology; Paul Wallis (2020 onward), Christian-engaged philology; broader corpus synthesis"
-scope = "Hebrew (largest category); Greek (New Testament, classical, philosophical); Sanskrit (Vedic and Hindu); Sumerian and Akkadian; Latin; cross-linguistic"
-catalogue_columns = "Word; source-language form with transliteration; standard etymology; framework reading"
-companion_catalogues = "[List of exegetic readings](../list-of-exegetic-readings/); [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/); [List of prophets and religions](../list-of-prophets-and-religions/)"
-caveat = "Standard etymologies follow mainstream philological scholarship; framework readings are the corpus's adopted positions and may diverge from standard interpretations at specific points, with divergences flagged where they occur"
+type = "Справочный каталог этимологических прочтений религиозных и мифологических терминов в рамке"
+philological_method = "Стандартная научная этимология терминов исходного языка, прочитанная через операционную интерпретативную оптику рамки"
+methodological_lineage = "Жан Сенди (1968–1972) — филолого-историографическое основание; Мауро Бильино (с 2012) — строгая еврейская филология; Пол Уоллис (с 2020) — филология в диалоге с христианством; более широкий синтез корпуса"
+scope = "Иврит (крупнейшая категория); греческий (Новый Завет, классический, философский); санскрит (ведийский и индуистский); шумерский и аккадский; латынь; межъязыковые"
+catalogue_columns = "Слово; форма в исходном языке с транслитерацией; стандартная этимология; прочтение рамки"
+companion_catalogues = "[Список экзегетических прочтений](../list-of-exegetic-readings/); [Список мифем и мифологических мотивов](../list-of-mythemes-and-mythological-motifs/); [Список пророков и религий](../list-of-prophets-and-religions/)"
+caveat = "Стандартные этимологии следуют общепринятой филологической науке; прочтения рамки — принятые корпусом позиции, которые в отдельных пунктах могут расходиться со стандартными толкованиями; расхождения отмечаются там, где они возникают"
 +++
 
 This entry catalogues the Wheel of Heaven framework's adopted etymological readings of religious, mythological, and traditional terms. The corpus uses careful philological method — drawn principally from the Sendy–Biglino tradition — to recover the literal meaning of source-language terms, and reads those literal meanings for the operational content the framework's broader interpretive synthesis identifies. The catalogue presents each term in its source language and script with transliteration, the standard scholarly etymology, and the framework's adopted reading, organised by source-language tradition (Hebrew, Greek, Sanskrit, Sumerian and Akkadian, Latin, and cross-linguistic) so that etymological convergences across language families can be assessed.

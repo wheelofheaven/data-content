@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -24,8 +24,10 @@ see_also = [
     { title = "אדם וחוה", path = "wiki/adam-and-eve", description = "בני האדם הראשונים שלהם ערך הנחש את גילוי עדן." },
     { title = "עדן", path = "wiki/eden", description = "המתקן המבוקר שבו התרחש הגילוי." },
     { title = "יהוה", path = "wiki/yahweh", description = "מנהיג צוות ישראל שהכריז על פסק הדין שלאחר הגילוי." },
-    { title = "שטן", path = "wiki/satan", description = "דמות אלוהים נפרדת — מנוגדת פוליטית לנחש/לוציפר, מובללת רק במסורת מאוחרת יותר." },
+    { title = "שָׂטָן", path = "wiki/satan", description = "דמות אלוהים נפרדת — מנוגדת פוליטית לנחש/לוציפר, מובללת רק במסורת מאוחרת יותר." },
     { title = "עץ החיים", path = "wiki/tree-of-life", description = "טכנולוגיית הארכת החיים שנשמרה לאחר הגירוש." },
+    { title = "הארכידיאקון והדרקון", path = "articles/the-archdeacon-and-the-dragon", description = "הטקסונומיה בת ארבע הדמויות — נחש/לוציפר/שטן/יהוה — נבנית מול קריאת הסיעה החולקת של ערך זה." },
+    { title = "עקומת הדרקון", path = "articles/the-dragon-curve", description = "המאמר השואל, כהשערה מסומנת, אם הסיעה הזכורה כנחש זכורה גם בשל מלאכת הדרקונים." },
 ]
 
 footnotes = [

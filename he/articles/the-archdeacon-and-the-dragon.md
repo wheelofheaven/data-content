@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -20,7 +20,7 @@ category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 summary = "ב־2020 פרסם ארכידיאקון מכהן של הכנסייה האנגליקנית באוסטרליה ספר הטוען שהאלוהים של בראשית הם 'בעלי־הכוח' — ריבוי של מבקרים בשר ודם שסיפוריהם עוצבו מחדש בידי עורכי המקרא המאוחרים לכלל מונותאיזם. חמישה ספרים נוספים באו בעקבותיו, אחד בשנה, וכל אחד דוחף את הטיעון הלאה: אל מסורות המגע של העולם, אל תולדות עריכתו של הקנון העברי, אל האקסופוליטיקה המודרנית, ולבסוף אל רמות הבזלת של אוראטו העתיקה. הסבר זה קורא בעיון את כל סדרת עדן של Paul Wallis ומשווה רשמים עם הקנון הראליאני — גוף טענות שווליס מעולם לא ציטט, ולפי עדות עמודיו שלו, מעולם לא קרא. הוא ממפה את ההתכנסויות: האלוהים של רבים, עדן כמתקן שמור, הנחש כסיעה מתנגדת של העושים, המבול כהחלטת מועצה, בבל כחבלה בציוויליזציה חוצת־חלל. הוא נוטל את דימויו הבודד השובה ביותר — קריאת YHWH כשם־הדרקון Akhekh — דרך ביקורת פילולוגית מלאה, ואומר בפשטות היכן האטימולוגיה נכשלת ומדוע הטענה המבנית שתחתיה עומדת בכל זאת. והוא מסמן, באותה זהירות, היכן שתי הקריאות נפרדות: מי לובש את הדרקון, מה בא ישוע לעשות, והאם דבר־מה הקרוי אלוהים שורד מעל האלוהים. הקרבה היא התכנסות, וההתכנסות היא נתון."
-keywords = ["Paul Wallis", "Escaping from Eden", "Akhekh", "יהוה", "אלוהים", "affrication", "יהושע 24", "מועצת האלים", "ניאו־אוהמריזם", "שיטת Biglino", "פליאו־מגע", "נחש", "דרקון"]
+keywords = ["פול וואליס", "Escaping from Eden", "Akhekh", "יהוה", "אלוהים", "אפריקציה", "יהושע 24", "מועצת האלים", "ניאו־אוהמריזם", "שיטת Biglino", "פליאו־מגע", "נחש", "דרקון"]
 references = [
     # — The canon under comparison —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶22: the dragons/dinosaurs; ¶¶28–39: Eden, the scientific books, the serpent faction and its exile; ¶58: the Flood; ¶78: the pardon); Chapter 3 (¶¶248–254: Satan and Job; ¶251: 'Elohim… those come from the sky'; ¶¶271–272: the undersea bases and Isaiah 27:1); Chapter 7, ¶56 (Yahweh president of the Council of the Eternals)" },

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,19 +15,28 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
 alternative_names = ["Plurality of worlds", "Plurality of inhabited worlds", "Many-worlds cosmology (in the classical sense, distinct from the Everett quantum interpretation)", "Pluralität der Welten", "Pluralité des mondes"]
+see_also = [
+    { title = "德雷克方程", path = "wiki/drake-equation", description = "二十世纪估算众多世界中有多少有人居住的尝试。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "文集认为宇宙多元论必然要求其存在的地外文明。" },
+    { title = "无限", path = "wiki/infinity", description = "为众多世界之组合论证奠基的无限尺度前提。" },
+    { title = "生命工程", path = "wiki/life-engineering", description = "按文集的解读，生命在众多世界间传播的机制。" },
+    { title = "近距离接触清单", path = "wiki/list-of-close-encounters", description = "文集解读为有人居住之世界间早已建立接触的记录。" },
+    { title = "合成基因组学", path = "wiki/synthetic-genomics", description = "正在接近宇宙多元论所描述之世界播种规模的地球能力。" },
+    { title = "签名与设计者们", path = "/articles/the-signature-and-the-designers/", description = "将 Hume 所说的未充分确定的设计者视为一项发现而非一种摧毁——有限、复数且有形。" },
+]
 
 [extra.infobox]
-type = "Philosophical and scientific doctrine that the universe contains many worlds (or many *inhabited* worlds) beyond Earth"
-opposed_position = "Aristotelian unique-world cosmology — the doctrine that there is one world (the sublunary terrestrial sphere plus the supralunary celestial spheres) and no other"
-ancient_origin = "Greek atomism, formulated by Leucippus and Democritus (5th century BCE); systematised by Epicurus (341–270 BCE); transmitted to Latin antiquity by Lucretius (*De Rerum Natura*, c. 50 BCE)"
-medieval_developments = "1277 Paris Condemnations of Étienne Tempier opening philosophical space for plurality; Jean Buridan (14th century); Nicole Oresme (14th century); Nicholas of Cusa (*De Docta Ignorantia*, 1440)"
-early_modern_milestones = "Copernicus (*De Revolutionibus*, 1543); Bruno (*De l'infinito universo e mondi*, 1584; executed 1600); Kepler; Fontenelle (*Entretiens sur la pluralité des mondes*, 1686); Huygens (*Cosmotheoros*, 1698); Kant (*Allgemeine Naturgeschichte und Theorie des Himmels*, 1755)"
-nineteenth_century = "Whewell-Brewster debate (*Of the Plurality of Worlds*, 1853; *More Worlds Than One*, 1854); Percival Lowell and the Mars canals controversy (late 19th–early 20th c.)"
-twentieth_century = "Drake equation (Frank Drake, 1961); SETI Project Ozma (1960) onward; Fermi paradox (Enrico Fermi, c. 1950)"
-twenty_first_century = "First exoplanets discovered around pulsar PSR B1257+12 (Wolszczan & Frail, 1992); first around main-sequence star 51 Pegasi b (Mayor & Queloz, 1995; Nobel Prize 2019); Kepler mission (2009–2018); JWST atmospheric biosignature searches (2022 onward); approximately 6,000+ confirmed exoplanets as of 2026"
-framework_position = "Foundational rather than optional: the corpus's broader account requires cosmic pluralism — the Elohim came from another world, humanity was synthesised by extraterrestrial intelligence, and humanity is in turn destined to create new humanities on other worlds"
-key_source_passage = "Vorilhon (1974): \"Since the beginning of time it has been so: people create other people like themselves on other planets. The cycle continues. Some die, others take over. We are your creators, and you will create other humanities.\""
-key_biblical_cross_reference = "Ecclesiastes 3:15 — \"That which hath been is now; and that which is to be hath already been\""
+type = "认为宇宙中除地球之外还有许多世界（或许多*有居民的*世界）的哲学与科学学说"
+opposed_position = "亚里士多德的唯一世界宇宙论——认为只有一个世界（月下的地界加上月上的天球），别无其他"
+ancient_origin = "希腊原子论，由留基伯与德谟克利特提出（公元前 5 世纪）；由伊壁鸠鲁系统化（公元前 341–270 年）；经卢克莱修传入拉丁古代（*De Rerum Natura*，约公元前 50 年）"
+medieval_developments = "1277 年艾蒂安·唐皮耶的巴黎禁令为多世界论打开了哲学空间；让·布里丹（14 世纪）；尼科尔·奥雷姆（14 世纪）；库萨的尼古拉（*De Docta Ignorantia*，1440）"
+early_modern_milestones = "哥白尼（*De Revolutionibus*，1543）；布鲁诺（*De l'infinito universo e mondi*，1584；1600 年被处死）；开普勒；丰特奈尔（*Entretiens sur la pluralité des mondes*，1686）；惠更斯（*Cosmotheoros*，1698）；康德（*Allgemeine Naturgeschichte und Theorie des Himmels*，1755）"
+nineteenth_century = "休厄尔—布儒斯特之争（*Of the Plurality of Worlds*，1853；*More Worlds Than One*，1854）；帕西瓦尔·罗威尔与火星运河之争（19 世纪末至 20 世纪初）"
+twentieth_century = "德雷克方程（弗兰克·德雷克，1961）；自奥兹玛计划（1960）以来的 SETI；费米悖论（恩里科·费米，约 1950）"
+twenty_first_century = "首批系外行星发现于脉冲星 PSR B1257+12 周围（沃尔兹冈与弗雷尔，1992）；首颗主序星周围的系外行星飞马座 51b（马约尔与奎洛兹，1995；2019 年诺贝尔奖）；开普勒任务（2009–2018）；詹姆斯·韦伯太空望远镜的大气生物特征搜寻（2022 年起）；截至 2026 年已确认的系外行星超过 6,000 颗"
+framework_position = "是根基而非可选项：文集更广的论述必然要求宇宙多元论——耶洛因来自另一个世界，人类由外星智慧合成，而人类反过来也注定要在其他世界上创造新的人类"
+key_source_passage = "沃里隆（1974）：「自太初以来便是如此：人们在其他行星上创造与自己相似的人。循环不断延续。有的消亡，有的接替。我们是你们的创造者，而你们也将创造其他人类。」"
+key_biblical_cross_reference = "传道书 3:15——「现今的事早先就有了，将来的事早已也有了」"
 +++
 
 **Cosmic pluralism** is the philosophical and scientific doctrine that the universe contains **many worlds beyond Earth** — and, in its stronger form, **many inhabited worlds**. The doctrine has developed across approximately 2,500 years of philosophical and scientific reflection and has stood, across most of that period, in opposition to the dominant Aristotelian unique-world cosmology that held there to be one world only. The 20th and 21st centuries have seen cosmic pluralism shift from contested philosophical speculation to an empirically grounded scientific position: the documented existence of more than **6,000 confirmed exoplanets** as of 2026, the increasing identification of potentially habitable worlds in the *habitable zones* of their host stars, the development of biosignature-detection technologies in space telescopes (JWST and successors), and the continuing programmes of the **Search for Extraterrestrial Intelligence (SETI)** have together moved the question of *whether* there are other worlds from open to settled, leaving open the question of whether the documented other worlds are *inhabited*.

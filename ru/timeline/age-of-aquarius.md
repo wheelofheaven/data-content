@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -27,21 +27,21 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Клод Ворильон (Раэль)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Клод Ворильон (Раэль)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
-    { title = "Intelligent Design: Message from the Designers", author = "Клод Ворильон (Раэль)", date = "2005", medium = "religious-text", description = "Англоязычное сводное издание основополагающих раэлианских текстов; источник прочтения 1946 года как открытия эпохи Водолея и заповеди о посольстве." },
-    { title = "Книга пророка Софонии", author = "Аноним (Еврейская Библия)", date = "ок. VII в. до н. э.", medium = "religious-text", path = "/library/zephaniah/", description = "Источник сигнала перехода «шум вопля от рыбных ворот», цитируемого в §II." },
-    { title = "Книга пророка Иоиля", author = "Аноним (Еврейская Библия)", date = "ок. V–IV вв. до н. э.", medium = "religious-text", path = "/library/joel/", description = "Источник места об «излиянии Духа на всякую плоть», цитируемого в §II." },
-    { title = "Книга пророка Даниила", author = "Аноним (эллинистический иудаизм)", date = "ок. 165 г. до н. э.", medium = "religious-text", path = "/library/daniel/", description = "Источник места о «времени конца / многие прочитают / умножится ведение», цитируемого в §II." },
-    { title = "Книга пророка Исаии", author = "Исаия бен-Амоц и постпленная школа Исаии", date = "ок. VIII–VI вв. до н. э.", medium = "religious-text", path = "/library/isaiah-woh/", description = "Источник мест о «горе дома Яхве» и «перекуют мечи на орала», цитируемых в §II." },
-    { title = "Книга пророка Иезекииля", author = "Иезекииль бен-Вузи", date = "ок. 593–571 гг. до н. э.", medium = "religious-text", path = "/library/ezekiel-woh/", description = "Источник видения реки из храма (Иезекииль 47), цитируемого в §II." },
-    { title = "Деяния апостолов", author = "Аноним (приписывается Луке)", date = "ок. 80–90 гг. н. э.", medium = "religious-text", path = "/library/acts/", description = "Повествование о Пятидесятнице и место Деяний 15:16 «восстановленная скиния Давидова», цитируемые в §II." },
-    { title = "Евангелие от Матфея", author = "Аноним (приписывается апостолу Матфею)", date = "ок. 80–90 гг. н. э.", medium = "religious-text", path = "/library/matthew-woh/", description = "Источник места о «Евангелии Царствия, проповеданном по всей вселенной» в Матфея 24:14, цитируемого в §II." },
-    { title = "Евангелие от Иоанна", author = "Аноним (Иоанновская община)", date = "ок. 90–110 гг. н. э.", medium = "religious-text", path = "/library/john/", description = "Источник мест о «живой воде», цитируемых в §VII." },
-    { title = "Откровение", author = "Иоанн Патмосский", date = "ок. 95 г. н. э.", medium = "religious-text", path = "/library/revelation/", description = "Источник мест о «вечном Евангелии» и «реке воды жизни», цитируемых в §II и §VII." },
-    { title = "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth", author = "Джорджо де Сантильяна и Герта фон Дехенд", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
-    { title = "Creation of a bacterial cell controlled by a chemically synthesized genome", author = "Daniel G. Gibson et al.", publication = "Science 329 (5987), 52–56", date = "2010", medium = "academic-paper", url = "https://doi.org/10.1126/science.1190719" },
-    { title = "Design and synthesis of a minimal bacterial genome", author = "Clyde A. Hutchison III et al.", publication = "Science 351 (6280), aad6253", date = "2016", medium = "academic-paper", url = "https://doi.org/10.1126/science.aad6253" },
+    { id = "le-livre-qui-dit-la-v-rit" },
+    { id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te" },
+    { id = "intelligent-design-message-from-the-designers", note = "Англоязычное сводное издание основополагающих раэлианских текстов; источник прочтения 1946 года как открытия эпохи Водолея и заповеди о посольстве." },
+    { id = "zephaniah", note = "Источник сигнала перехода «шум вопля от рыбных ворот», цитируемого в §II." },
+    { id = "joel", note = "Источник места об «излиянии Духа на всякую плоть», цитируемого в §II." },
+    { id = "daniel", note = "Источник места о «времени конца / многие прочитают / умножится ведение», цитируемого в §II." },
+    { id = "isaiah", note = "Источник мест о «горе дома Яхве» и «перекуют мечи на орала», цитируемых в §II." },
+    { id = "ezekiel", note = "Источник видения реки из храма (Иезекииль 47), цитируемого в §II." },
+    { id = "acts-of-the-apostles", note = "Повествование о Пятидесятнице и место Деяний 15:16 «восстановленная скиния Давидова», цитируемые в §II." },
+    { id = "gospel-of-matthew", note = "Источник места о «Евангелии Царствия, проповеданном по всей вселенной» в Матфея 24:14, цитируемого в §II." },
+    { id = "gospel-of-john", note = "Источник мест о «живой воде», цитируемых в §VII." },
+    { id = "revelation", note = "Источник мест о «вечном Евангелии» и «реке воды жизни», цитируемых в §II и §VII." },
+    { id = "hamlets-mill" },
+    { id = "creation-of-a-bacterial-cell-controlled-by-a-chemically-synthesized-genome" },
+    { id = "design-and-synthesis-of-a-minimal-bacterial-genome" },
 ]
 
 [[extra.prev_age]]

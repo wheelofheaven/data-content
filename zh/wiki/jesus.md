@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,6 +15,14 @@ editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["Jesus of Nazareth", "Jesus Christ", "Yeshua", "Yēšuaʿ", "יֵשׁוּעַ", "Ἰησοῦς", "Iēsoûs", "Isa", "عيسى"]
 timeline = ["pisces"]
+see_also = [
+    { title = "联盟", path = "wiki/the-alliance", description = "耶稣被解读为其有意安排的混血受孕项目的盟约纲领。" },
+    { title = "耶和华", path = "wiki/yahweh", description = "委托促成耶稣之联盟项目的耶洛因主席。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "在联盟中介的受孕中提供 Eloha 父亲的造物者。" },
+    { title = "先知", path = "wiki/prophet", description = "耶稣为开启双鱼座时代而担当的信使角色。" },
+    { title = "雷尔", path = "wiki/rael", description = "在先知传承中与耶稣成对的水瓶座时代信使。" },
+    { title = "启示", path = "wiki/apocalypse", description = "他的双鱼座使命受托为之预备的启示时代。" },
+]
 
 [extra.infobox]
 hebrew_name = "יֵשׁוּעַ"
@@ -22,19 +30,19 @@ transliteration = "Yēšuaʿ (Hebrew); Yeshu (Aramaic shortened form)"
 greek_name = "Ἰησοῦς (Iēsoûs)"
 latin_name = "Iesus"
 arabic_name = "عيسى (ʿĪsā)"
-title = "Christos / Mashiach ('anointed one')"
-born = "c. 4 BCE, Bethlehem or Nazareth (mainstream consensus)"
-died = "c. 30 CE or c. 33 CE, Jerusalem (crucifixion under Pontius Pilate)"
-ministry_period = "c. 27–30 CE (approximately three years)"
-geographic_context = "Roman Palestine: Galilee and Judea"
-linguistic_context = "Native Aramaic; literate in Biblical Hebrew; multilingual environment"
-mother = "Mary (Hebrew: Miriam)"
-adoptive_father = "Joseph"
-biological_father = "Yahweh (in the framework's reading); 'Holy Spirit' (in the conventional reading)"
-framework_role = "Inaugural figure of the Age of Pisces; biological hybrid; biological half-brother of Raël"
-current_status = "Resurrected; resident on the Planet of the Eternals (per the source material)"
-principal_text = "The four canonical Gospels (Matthew, Mark, Luke, John); the Pauline epistles; the broader New Testament"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974)"
+title = "Christos／Mashiach（「受膏者」）"
+born = "约公元前 4 年，伯利恒或拿撒勒（主流共识）"
+died = "约公元 30 年或约公元 33 年，耶路撒冷（在本丢·彼拉多治下被钉十字架）"
+ministry_period = "约公元 27–30 年（约三年）"
+geographic_context = "罗马治下的巴勒斯坦：加利利与犹太"
+linguistic_context = "母语为阿拉米语；通晓圣经希伯来语；多语环境"
+mother = "马利亚（希伯来语：Miriam）"
+adoptive_father = "约瑟"
+biological_father = "耶和华（按本框架的解读）；「圣灵」（按传统解读）"
+framework_role = "双鱼座时代的开创人物；生物学上的混血儿；雷尔同父异母的兄弟"
+current_status = "已复活；居于永恒者行星（据原始材料）"
+principal_text = "四部正典福音书（马太、马可、路加、约翰）；保罗书信；更广的新约"
+principal_framework_source = "《讲述真相之书》（沃里隆／雷尔，1974）"
 +++
 
 **Jesus of Nazareth** (Hebrew: <span class="hebrew">יֵשׁוּעַ</span>, *Yēšuaʿ*; Greek: *Ἰησοῦς*, *Iēsoûs*; Latin: *Iesus*; Arabic: <span class="hebrew">عيسى</span>, *ʿĪsā*; conventionally Anglicized as *Jesus*; titular *Christos / Mashiach*, "anointed one") is a first-century Jewish preacher, healer, and apocalyptic figure whose ministry in Roman Palestine, public execution by crucifixion under Pontius Pilate, and post-mortem appearances to his followers founded the Christian religious tradition. He is the subject of the four canonical Gospels (Matthew, Mark, Luke, John),{{ cite(id="gospel-of-matthew", text="[1]", title="Gospel of Matthew — canonical Synoptic Gospel; principal infancy and Sermon material") }}{{ cite(id="gospel-of-luke-acts-of-the-apostles", text="[2]", title="Gospel of Luke and Acts of the Apostles — Lukan two-volume composition") }}{{ cite(id="gospel-of-john", text="[3]", title="Gospel of John — Logos prologue and high-Christological narrative") }} of the Pauline epistles, and of the broader New Testament corpus. Outside the Christian sources he is attested briefly in Josephus (*Antiquities of the Jews* 18.3.3 and 20.9.1), in Tacitus (*Annals* 15.44), and in a small number of other early non-Christian witnesses. The historical existence of Jesus as a first-century figure is accepted by the substantial majority of mainstream historical scholarship.

@@ -7,8 +7,8 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
-source_updated = "2026-11-01"
+translation_updated = "2026-11-12"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -771,7 +771,7 @@ Gedächtnistransfer-Injektionen, die Buch 1 als Pädagogik der Elohim
 berichtet — und zustimmend aus irdischen Rattenversuchen zitiert
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=62) %}TBWTT 7:61–62{% end %})
 —, ritten auf einem Forschungsprogramm, das binnen eines Jahrzehnts
-zusammenbrach. Der Heimatplanet „etwas weniger als ein Lichtjahr“
+zusammenbrach. Der Heimatplanet „etwas weniger als ein Lichtjahr“ ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=52) %}TBWTT 5:52{% end %})
 entfernt liegt nach allen seitherigen Durchmusterungen im leeren Raum;
 das dritte Buch begegnet dem Einwand mit einer von einem Mitglied
 beigesteuerten Hypothese statt mit einer Offenbarung, das Licht bewege

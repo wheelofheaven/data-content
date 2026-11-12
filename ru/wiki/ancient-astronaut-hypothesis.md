@@ -6,26 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Ancient Astronaut Hypothesis", "Ancient Astronaut Theory", "Ancient Aliens hypothesis", "paleocontact hypothesis", "extraterrestrial-intervention hypothesis", "ancient-extraterrestrial-hypothesis"]
+alternative_names = ["Гипотеза древних астронавтов", "Теория древних астронавтов", "гипотеза «древних пришельцев»", "гипотеза палеоконтакта", "гипотеза внеземного вмешательства", "гипотеза древних инопланетян"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Жан Сенди", path = "wiki/jean-sendy", description = "Главная фигура до Ворильона, рамку которой корпус включает в свою версию гипотезы." },
+    { title = "Неоэвгемеризм", path = "wiki/neo-euhemerism", description = "Интерпретационный метод, лежащий в основе прочтения корпусом древних свидетельств как искажённой летописи контакта." },
+    { title = "Мауро Бильино", path = "wiki/mauro-biglino", description = "Современная текстологическая и филологическая работа, признанная методологически более близкой к дисциплине корпуса, чем работы популяризаторов." },
+    { title = "Послание от Создателей", path = "wiki/message-from-the-designers", description = "Прямое откровение Ворильону, на котором основан корпус, а не спекулятивное толкование древних свидетельств." },
+    { title = "Традиция", path = "wiki/the-tradition", description = "Термин корпуса для передаваемой летописи контакта, которую гипотеза читает в древних культурах." },
+    { title = "Предтечи", path = "wiki/forerunners", description = "Более ранние авторы, предвосхитившие гипотезу до её популяризации в XX веке." },
+]
 
 [extra.infobox]
-type = "Interpretive tradition / methodological category proposing extraterrestrial influence on prehistoric and ancient human development"
-principal_period = "Modern formulation: 1950s-present; broader antecedents in late nineteenth-century occult tradition and earlier speculative engagement"
-core_proposition = "Extraterrestrial beings visited Earth in prehistoric or ancient past and influenced human cultural, religious, and technological development"
-candidate_evidence = "Anomalous ancient monuments; cross-cultural mythological motifs of sky-descending beings; sophisticated pre-modern astronomical knowledge; religious-textual content involving celestial encounters; structural similarities across global mythologies"
-principal_proponents = "Erich von Däniken (popularizer); Zecharia Sitchin (Sumerian-Anunnaki framework); Jean Sendy (principal corpus-influence figure); Mauro Biglino (contemporary textual-philological engagement); Paul Anthony Wallis; Robert Temple; Robert Charroux; David Hatcher Childress; Giorgio Tsoukalos; Lloyd Pye; others"
-mainstream_status = "Rejected as pseudoscience by mainstream archaeology, history of religion, and skeptical scholarship; principal academic-skeptical engagement in Feder, Colavito, others"
-corpus_positioning = "Wheel of Heaven framework operates within broader tradition while diverging methodologically: Vorilhon source-textual grounding rather than speculative interpretation; Sendy-Vorilhon synthesis; Hamlet's Mill precessional framework integration; disciplined epistemic-pluralism methodology"
-distinguished_from = "Mainstream archaeology and history of religion (which treats human cultural development as autonomous); UFO contactee tradition narrowly (which focuses on contemporary contact rather than ancient); science fiction (which is explicitly fictional); various occult and esoteric traditions (which operate within different theoretical frameworks)"
-status_in_framework = "Broader interpretive tradition within which corpus operates; corpus is identifiably a member of the family while differing methodologically; substantive subject-matter category for understanding corpus's place in contemporary intellectual landscape"
+type = "Интерпретативная традиция / методологическая категория, предполагающая инопланетное влияние на доисторическое и древнее развитие человечества"
+principal_period = "Современная формулировка: с 1950-х годов по настоящее время; более широкие предшественники — оккультная традиция конца XIX века и более ранние спекулятивные построения"
+core_proposition = "Внеземные существа посещали Землю в доисторическом или древнем прошлом и повлияли на культурное, религиозное и технологическое развитие человечества"
+candidate_evidence = "Аномальные древние памятники; межкультурные мифологические мотивы существ, спускающихся с неба; развитые досовременные астрономические знания; религиозные тексты о небесных встречах; структурное сходство мифологий по всему миру"
+principal_proponents = "Эрих фон Дэникен (популяризатор); Захария Ситчин (шумерско-ануннакская рамка); Жан Сенди (главная фигура влияния на корпус); Мауро Бильино (современная текстуально-филологическая работа); Пол Энтони Уоллис; Роберт Темпл; Робер Шарру; Дэвид Хэтчер Чилдресс; Джорджо Цукалос; Ллойд Пай; другие"
+mainstream_status = "Отвергается как псевдонаука общепринятой археологией, историей религий и скептической наукой; главная академически-скептическая полемика — у Федера, Колавито и других"
+corpus_positioning = "Рамка Wheel of Heaven действует внутри более широкой традиции, методологически расходясь с ней: опора на исходные тексты Ворильона вместо спекулятивного толкования; синтез Сенди и Ворильона; интеграция прецессионной рамки «Мельницы Гамлета»; дисциплинированная методология эпистемического плюрализма"
+distinguished_from = "Общепринятая археология и история религий (рассматривающие культурное развитие человечества как автономное); традиция контактёров НЛО в узком смысле (сосредоточенная на современном, а не древнем контакте); научная фантастика (откровенно вымышленная); различные оккультные и эзотерические традиции (действующие в иных теоретических рамках)"
+status_in_framework = "Более широкая интерпретационная традиция, в которой работает корпус; корпус — осознающий себя член этого семейства, отличающийся от него методом и содержанием; ключевая категория для определения места рамки в современном интеллектуальном ландшафте"
 +++
 
 **The ancient astronaut hypothesis** — also called the paleocontact hypothesis,

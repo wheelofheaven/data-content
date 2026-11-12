@@ -5,7 +5,7 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -17,18 +17,25 @@ timeline = ["age-of-pisces", "age-of-aquarius"]
 see_also = [
     { title = "Encubrimiento militar de la exobiología", path = "wiki/military-cover-up-of-exobiology", description = "La cuestión del secreto gubernamental y la divulgación que atraviesa la ufología moderna." },
     { title = "PURSUE", path = "wiki/pursue", description = "El programa del gobierno de EE. UU. de 2026 que publica registros FANI no resueltos en war.gov/UFO — el desarrollo institucional actual del campo." },
+    { title = "Hipótesis de los antiguos astronautas", path = "wiki/ancient-astronaut-hypothesis", description = "La tradición histórica del contacto en el pasado, junto a la cual se sitúa la ufología y con la que a menudo se confunde." },
+    { title = "Ezequiel", path = "wiki/ezekiel", description = "La visión del carro que el marco lee como un encuentro premoderno con una nave de los Elohim." },
+    { title = "Astrobiología", path = "wiki/astrobiology", description = "La ciencia convencional de la vida extraterrestre, distinta de la investigación de avistamientos propia de la ufología." },
+    { title = "Planeta natal de los Elohim", path = "wiki/elohim-home-planet", description = "El mundo de los Elohim al que Raël relata haber sido llevado en 1975: el caso de contactado propio del marco." },
+    { title = "Mitología comparada", path = "wiki/comparative-mythology", description = "La continuidad folclórica intercultural que Vallée rastreó a través del fenómeno." },
+    { title = "Pluralidad de dioses", path = "wiki/plurality-of-gods", description = "La lectura de los antiguos visitantes del cielo con la que entra en contacto el registro OVNI premoderno." },
 ]
 
 [extra.infobox]
-type = "Interdisciplinary field studying reports of unidentified flying objects (UFOs) / Unidentified Aerial Phenomena (UAP) and the broader question of non-human technological presence; substantive engagement community within which corpus framework operates"
-disciplinary_origin = "Kenneth Arnold sighting June 24, 1947 (Mount Rainier, Washington); Roswell incident July 1947; subsequent Project Sign 1947-1949, Project Grudge 1949-1952, Project Blue Book 1952-1969 U.S. government investigation programs"
-principal_disciplinary_figures = "J. Allen Hynek (Close Encounter classification; *The UFO Experience*, 1972); Jacques Vallée (*Passport to Magonia*, 1969; cross-cultural folklore framework); Donald Keyhoe (early popularization); Stanton Friedman (nuclear physicist; Roswell engagement); John Mack (Harvard psychiatrist; abduction engagement); Edward Ruppelt (Project Blue Book directorship; coined 'UFO')"
-principal_us_government_programs = "Project Sign 1947-1949; Project Grudge 1949-1952; Project Blue Book 1952-1969; AATIP 2007-2012; AAWSAP; UAP Task Force 2020; All-Domain Anomaly Resolution Office (AARO) 2022"
-principal_2017_2024_transformation = "December 2017 NYT article disclosing AATIP; April 2020 Pentagon UAP video releases; June 2021 ODNI Preliminary Assessment on UAP; July 2023 congressional hearings with David Grusch testimony; September 2023 NASA UAP Independent Study Team report; November 2024 follow-up congressional hearings"
-principal_civilian_organizations = "NICAP (National Investigations Committee on Aerial Phenomena); APRO (Aerial Phenomena Research Organization); CUFOS (Center for UFO Studies); MUFON (Mutual UFO Network)"
-corpus_position = "Engages ufology substantively as the research community within which Vorilhon contact narrative operates as principal contactee case material; differs methodologically from mainstream ufology in that corpus framework operates from established alliance-contact reality (Vorilhon source) rather than from open question whether non-human presence exists"
-distinguished_from = "Astrobiology (the broader scientific field engaging extraterrestrial life question generally; ufology operates as one component); SETI (the search for technological signals from extraterrestrial civilizations; distinct from UFO/UAP investigation); Ancient Astronaut Hypothesis (the engagement with historical evidence for past contact; substantively adjacent but distinct); exopolitics (the specific subdiscipline engaging governmental policy and political dimensions of contact)"
-status_in_framework = "Substantive contemporary research community within which corpus framework's empirical claims about ongoing alliance presence operate"
+type = "Campo interdisciplinario que estudia los informes de objetos voladores no identificados (OVNI) y fenómenos aéreos no identificados (UAP), así como la cuestión de una presencia tecnológica no humana en la Tierra; se practica en gran medida fuera de la ciencia dominante"
+disciplinary_origin = "El avistamiento de Kenneth Arnold, 24 de junio de 1947 (monte Rainier, Washington); la recuperación de Roswell, julio de 1947; el Project Sign (1947–1949), el Project Grudge (1949–1952) y el Project Blue Book (1952–1969) de la Fuerza Aérea de los EE. UU."
+principal_figures = "J. Allen Hynek (clasificación de los encuentros cercanos; *The UFO Experience*, 1972); Jacques Vallée (*Passport to Magonia*, 1969; el marco del folclore intercultural); Donald Keyhoe (primera divulgación); Edward Ruppelt (director del Blue Book; acuñó «UFO»); John Mack (psiquiatra de Harvard; investigación sobre abducciones)"
+principal_us_government_programs = "Project Sign (1947–1949); Project Grudge (1949–1952); Project Blue Book (1952–1969); AATIP (2007–2012); UAP Task Force (2020); All-Domain Anomaly Resolution Office (AARO, 2022)"
+modern_uap_era = "Reportaje del New York Times sobre el AATIP, diciembre de 2017; publicación por el Pentágono de los vídeos FLIR1, Gimbal y GoFast, abril de 2020; evaluación de la ODNI, junio de 2021; audiencia en el Congreso con David Grusch, julio de 2023; informe de la NASA sobre los FANI, septiembre de 2023; audiencias de seguimiento, noviembre de 2024"
+principal_civilian_organizations = "NICAP; APRO; CUFOS (fundado en 1973 por Hynek); MUFON"
+principal_skeptics = "Donald Menzel; Philip Klass; Carl Sagan; el Committee for Skeptical Inquiry (CSICOP / CSI)"
+corpus_position = "Lee la ufología como el contexto amplio del contacto de Raël en 1973, considerado como un informe de contactado entre muchos; el marco parte del relato canónico del contacto y no de la pregunta abierta de la ufología"
+distinguished_from = "La astrobiología (la ciencia dominante de la vida extraterrestre); SETI (la búsqueda de señales tecnológicas); la Teoría de los Antiguos Astronautas (contacto en el pasado histórico); la exopolítica (el subcampo político)"
+status_in_framework = "El campo contemporáneo en el que se inscribe el caso de contacto fundacional del marco; el registro documentado y la interpretación extraterrestre se mantienen separados"
 +++
 
 **Ufology** is the study of reports of **unidentified flying objects (UFOs)**

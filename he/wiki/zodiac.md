@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,20 +16,31 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the zodiac belt", "the zodiacal circle", "*zōidiakos kyklos* (Greek: ζῳδιακὸς κύκλος, 'circle of small figures')", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "the celestial circle", "the wheel of heaven (in older usage)", "the twelve houses (in astrological usage)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "עידן עולם", path = "wiki/world-age", description = "העידן הפרצסיוני שכל מקטע בגלגל המזלות מסמן בלוח של המסגרת." },
+    { title = "החתימה הכפולה", path = "wiki/doubled-signature", description = "העיקרון הנוצר משישה צירי הניגוד הזוגיים של גלגל המזלות." },
+    { title = "טחנת המלט", path = "wiki/hamlets-mill", description = "העוגן המחקרי לקריאת קידוד מזלי־פרצסיוני באופן בין־תרבותי." },
+    { title = "השרשרת הקוסמית", path = "wiki/cosmic-chain", description = "המסגרת הכרונולוגית הרחבה שלוח המזלות מבנה." },
+    { title = "המקרא העברי", path = "wiki/hebrew-bible", description = "מסורת שתוכן המזרות שבה נקרא בקורפוס דרך מסגרת גלגל המזלות." },
+    { title = "ז׳אן סנדי", path = "wiki/jean-sendy", description = "המחבר שקריאת ה־religion zodiacale שלו קודמת לטיפול הפרצסיוני של הקורפוס." },
+    { title = "הטחנה הטוחנת את העידנים", path = "articles/the-mill-that-grinds-the-ages", description = "גלגל המזלות כשתים עשרה שעות השנה הגדולה, כל עידן קרוי על שם קבוצת הכוכבים של נקודת השוויון שלו." },
+    { title = "מזרות", path = "wiki/mazzaroth", description = "השם העברי לגלגל המזלות — המזרות של איוב לח וצאצאיו ה״מזלות״." },
+    { title = "טאורוקטוניה", path = "wiki/tauroctony", description = "הריגת השור המיתראית, הנקראת כמפת כוכבים של עידן השור." },
+]
 
 [extra.infobox]
-type = "Structural-foundational concept; the principal observational-symbolic framework underlying the precessional age system"
-definition = "The band of sky extending approximately 8° on either side of the ecliptic, divided into twelve constellational regions named after small figures (animal, human, and inanimate) traversed by the sun, moon, and planets in their apparent celestial motion"
-the_twelve_signs = "Aries (the Ram), Taurus (the Bull), Gemini (the Twins), Cancer (the Crab), Leo (the Lion), Virgo (the Virgin), Libra (the Scales), Scorpio (the Scorpion), Sagittarius (the Archer), Capricorn (the Sea-Goat), Aquarius (the Water-Bearer), Pisces (the Fishes)"
-six_paired_oppositions = "Aries↔Libra, Taurus↔Scorpio, Gemini↔Sagittarius, Cancer↔Capricorn, Leo↔Aquarius, Virgo↔Pisces — six axes producing the doubled-signature principle"
-ecliptic_basis = "The ecliptic — the apparent annual path of the sun against the stellar background, produced by Earth's orbital motion around the sun, inclined approximately 23.44° to the celestial equator"
-constellational_basis = "The twelve constellations occupy varying angular extents along the ecliptic (modern IAU boundaries; idealized 30°-per-sign in classical astrological usage); the constellations are not equal in size — Virgo is the largest, Capricorn among the smallest"
-mechanism_of_precessional_relevance = "The vernal equinox precesses backward (westward) through the zodiac at approximately one constellation per 2,160 years, producing the precessional age sequence (Capricorn → Sagittarius → Scorpio → ... → Pisces → Aquarius → back to Capricorn)"
-framework_reading = "The zodiac as the alliance's engineering tool — the long-duration calendrical framework devised by the Elohim for their interstellar biotech program, with the zodiacal names and the paired-opposition structure operating as functional engineering features rather than mystical-aesthetic conventions"
-zodiacal_names_origin = "On the corpus's reading: the Elohim's own conceptual shorthand for the twelve ecliptic segments, inherited by human civilizations through cultural transmission across the post-flood ages; later human civilizations modified the figures while preserving the underlying twelve-fold structure"
-distinguished_from = "Mainstream astrology's tropical zodiac (signs tied to seasonal positions rather than actual constellational positions, decoupled from precessional motion); the various cross-cultural zodiacal-equivalent traditions (Chinese twelve-animal cycle, Indian nakshatra system, Mesoamerican calendrical traditions) which preserve substantive parallel content within distinctive cultural framings; the broader astronomical constellational framework (the 88 IAU-defined constellations of which the twelve zodiacal constellations are a subset)"
-status_in_framework = "Foundational; the zodiac operates as the principal observational-symbolic complement to the World Age temporal framework, with the two together constituting the corpus's principal cosmic-chronological architecture"
-principal_corpus_treatment = "*timeline.epub*, particularly the Libra chapter's Section VI.2 ('The Zodiacal Framework as Engineering Tool'); Jean Sendy, *L'ère du Verseau* (1970), with substantial systematic engagement with Moses's use of zodiacal symbolism (the *religion zodiacale* framework)"
+type = "רצועת קבוצות הכוכבים לאורך המילקה; המסגרת התצפיתית שבבסיס עידני העולם הפרצסיוניים"
+definition = "רצועת השמיים המשתרעת כ־8° לכל צד של המילקה, ומחולקת לשנים־עשר אזורים של קבוצות כוכבים הקרויים על שם דמויות קטנות (בעלי חיים, בני אדם ועצמים דוממים), שהשמש, הירח וכוכבי הלכת חוצים בתנועתם השמימית הנראית"
+the_twelve_signs = "טלה, שור, תאומים, סרטן, אריה, בתולה, מאזניים, עקרב, קשת, גדי (עז־הים), דלי (שואב המים), דגים"
+six_paired_oppositions = "טלה↔מאזניים, שור↔עקרב, תאומים↔קשת, סרטן↔גדי, אריה↔דלי, בתולה↔דגים — שישה צירים המולידים את עקרון החתימה הכפולה"
+ecliptic_basis = "המילקה — המסלול השנתי הנראה של השמש על רקע הכוכבים, הנוצר מתנועת כדור הארץ במסלולו סביב השמש, ונוטה כ־23.44° למשווה השמימי"
+constellational_basis = "שתים־עשרה קבוצות הכוכבים תופסות היקפים זוויתיים שונים לאורך המילקה (גבולות IAU מודרניים; 30° אידיאליות לכל מזל בשימוש האסטרולוגי הקלאסי); קבוצות הכוכבים אינן שוות בגודלן — הבתולה הגדולה ביותר, הסרטן הקטנה ביותר"
+mechanism_of_precessional_relevance = "השוויון האביבי נוקף אחורה (מערבה) דרך גלגל המזלות בקצב של כקבוצת כוכבים אחת לכל 2,160 שנים, ויוצר את רצף העידנים הנקיפתיים (גדי ← קשת ← עקרב ← ... ← דגים ← דלי ← וחזרה לגדי)"
+framework_reading = "הזודיאק ככלי ההנדסי של האלוהים — לוח השנה ארוך הטווח שתוכנן עבור המיזם שלהם על כדור הארץ, ששמותיו ומבנה הניגודים הזוגיים שלו הם מאפיינים תפקודיים ולא מוסכמות מיסטיות"
+zodiacal_names_origin = "לפי קריאת הקורפוס, הקיצור של האלוהים עצמם לשנים־עשר מקטעי המילקה, שעבר בירושה לציוויליזציות האנושיות דרך מסירה תרבותית שלאחר המבול ושונה תוך שמירת המבנה בן שנים־עשר החלקים"
+distinguished_from = "הזודיאק הטרופי של האסטרולוגיה המקובלת (מזלות הקשורים למיקומים עונתיים ולא לקבוצות הכוכבים בפועל, מנותקים מן הפרצסיה); המקבילות הבין־תרבותיות לזודיאק (מחזור שנים־עשר החיות הסיני, שיטת הנקשטרות ההודית, מסורות לוח השנה המסו־אמריקניות) הנושאות תוכן מקביל במסגורים משלהן; וקבוצת קבוצות הכוכבים האסטרונומית הרחבה (88 קבוצות הכוכבים של IAU, ששתים־עשרה המזלות הן תת־קבוצה שלהן)"
+status_in_framework = "יסודי; הזודיאק הוא ההשלמה התצפיתית־סמלית לכרונולוגיית עידני העולם, ושניהם יחד יוצרים את הארכיטקטורה הקוסמית־כרונולוגית של הקורפוס"
+principal_corpus_treatment = "*timeline.epub*, ובמיוחד 'The Zodiacal Framework as Engineering Tool' בפרק המאזניים; ז'אן סנדי, *L'ère du Verseau* (1970), על השימוש של משה בסמליות הזודיאקלית (ה־*religion zodiacale*)"
 +++
 
 The **Zodiac** (Greek: ζῳδιακὸς κύκλος, *zōidiakos kyklos*, "circle of small

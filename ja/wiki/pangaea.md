@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -18,18 +18,26 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "framework"
-alternative_names = ["Pangea", "Antediluvian supercontinent", "The pre-deluge landmass", "The one continent"]
+alternative_names = ["Pangea", "大洪水以前の超大陸", "大洪水以前の陸塊", "一つの大陸"]
+see_also = [
+    { title = "エデン", path = "wiki/eden", description = "この洪水以前の単一の陸塊の上に位置する創造の場。" },
+    { title = "大洪水以前", path = "wiki/antediluvian", description = "パンゲアがその地理的な基盤となった、大洪水以前の時代全体。" },
+    { title = "ノアの箱舟", path = "wiki/noahs-ark", description = "陸塊の破局的な一回の分裂と結びついた、大洪水を生き延びた記述。" },
+    { title = "創世記", path = "wiki/genesis", description = "その6〜9章が、大陸を引き裂いた大洪水の介入を伝える。" },
+    { title = "テラフォーミング", path = "wiki/terraforming", description = "パンゲアを原初の海底から隆起させた大陸工学の作業。" },
+    { title = "伝統", path = "wiki/the-tradition", description = "コーパスが洪水以前の超大陸を符号化していると読む、保存された記憶。" },
+]
 
 [extra.infobox]
-type = "Supercontinent — both a mainstream-geological reconstruction and a framework-adopted antediluvian referent"
-mainstream_dating = "c. 335 million years ago (Carboniferous assembly) through c. 195 million years ago (Triassic-Jurassic breakup)"
-framework_dating = "Constructed during *yom* 3 / Age of Scorpio (c. 17,490 – 15,330 BCE on the corpus's reckoning); broken apart at the deluge event (c. 13,000 BCE on the corpus's reckoning)"
-extent = "Approximately equal to the combined landmass of all present-day continents, organised as a single contiguous body"
-shape_mainstream = "C-shaped with the Tethys Sea contained within the curve, surrounded by the superocean Panthalassa"
-geographic_role_framework = "The geographic substrate of the entire antediluvian period: the location of Eden, the location of the post-Eden dispersed civilisations, the area destroyed by the deluge event"
-breakup_mainstream = "Plate-tectonic rifting beginning approximately 195 million years ago, with progressive separation continuing through the Jurassic and Cretaceous"
-breakup_framework = "Catastrophic single-event breakup at the deluge, described in the source material as a deliberate operational intervention; the framework reads the modern continental configuration as the surface signature of the deluge event preserved in the contemporary geological record"
-divergence_from_mainstream = "Approximately three orders of magnitude on timescale; the framework's reading is incompatible with mainstream plate-tectonic dating and is registered transparently in the entry's dedicated section on the divergence"
+type = "超大陸――主流の地質学による復元であると同時に、この枠組みが採用する大洪水以前の指示対象"
+mainstream_dating = "約3億3500万年前(石炭紀の形成)から約1億9500万年前(三畳紀〜ジュラ紀の分裂)まで"
+framework_dating = "射手座の時代の後期(コーパスの計算では紀元前19,650–17,490年頃)に隆起させられた。創世記のテキストが *yom* 3 に圧縮する大陸の造成であり、安定化は蠍座の時代初期まで続いた。双子座の時代の始まり(コーパスの計算では紀元前6,690年頃)の大洪水で分裂した"
+extent = "現在のすべての大陸を合わせた陸地にほぼ等しく、単一の連続した陸塊として構成されていた"
+shape_mainstream = "C字形で、湾曲部の内側にテチス海を抱え、超海洋パンサラッサに囲まれていた"
+geographic_role_framework = "大洪水以前の時代全体の地理的基盤:エデンの所在地、エデン以後に分散した諸文明の所在地、大洪水の出来事によって破壊された地域"
+breakup_mainstream = "約1億9500万年前に始まるプレートテクトニクスによる地溝形成と、ジュラ紀と白亜紀を通じて続いた漸進的な分離"
+breakup_framework = "大洪水における単一の破局的な分裂。攻撃そのものは第一の書で意図的な介入として描かれ、分裂は第三の書(LWTE-4)にあるマルセル・テリュスの論考で描かれている。この枠組みは、現代の大陸の配置を、現在の地質学的記録に保存された大洪水の出来事の地表上の痕跡として読む"
+divergence_from_mainstream = "時間尺度でおよそ三桁。この枠組みの読解は主流のプレートテクトニクスの年代と両立せず、そのことは本項の相違を扱う専用の節で率直に記している"
 +++
 
 **Pangaea** is the name conventionally given to the single supercontinent identified by mainstream geology as having existed from approximately 335 million years ago through approximately 195 million years ago, before breaking up via plate-tectonic processes into the continental configuration of the present-day Earth. The name derives from the Greek *Παγγαία*, "all earth," and was introduced into geological scholarship by the German meteorologist and geophysicist **Alfred Wegener** in his 1912 paper *Die Entstehung der Kontinente* and subsequently developed in *Die Entstehung der Kontinente und Ozeane* (*The Origin of Continents and Oceans*, 1915, with major revisions through 1929) — the foundational works of the continental-drift theory that subsequently developed into the contemporary theory of plate tectonics.

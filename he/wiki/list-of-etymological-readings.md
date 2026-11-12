@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,15 +16,24 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
 alternative_names = ["Catalogue of etymological readings", "Framework philology index", "Glossary of source-language readings"]
+see_also = [
+    { title = "רשימת קריאות פרשניות", path = "wiki/list-of-exegetic-readings", description = "הקטלוג המשלים העוסק במה שמונחים מציינים, המשלים רמה פילולוגית זו." },
+    { title = "רשימת מיתמות ומוטיבים מיתולוגיים", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "הקטלוג המשלים השלישי, העוסק בדפוסי סיפור בין־תרבותיים חוזרים." },
+    { title = "שיטת ביגלינו", path = "wiki/biglino-method", description = "הליך הפילולוגיה הקפדנית ששיטת סנדי–ביגלינו של הקטלוג נשענת עליו." },
+    { title = "עברית", path = "wiki/hebrew", description = "קטגוריית שפת המקור הגדולה ביותר בקטלוג." },
+    { title = "הביבליה", path = "wiki/bible", description = "הקורפוס הטקסטואלי העיקרי שהקטלוג משחזר את מונחיו באופן אטימולוגי." },
+    { title = "נאו-אוהמריזם", path = "wiki/neo-euhemerism", description = "המסורת הפרשנית המספקת את העדשה המעשית שהקריאות מחילות." },
+    { title = "המגילות שהתעוררו בשנה הראשונה", path = "articles/the-scrolls-that-woke-in-year-one", description = "11QMelchizedek מחיל ״אלוהים״ על שליח שמימי — העד העתיק הטוב ביותר בכתבי היד לקריאה האטימולוגית." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of framework etymological readings of religious and mythological terms"
-philological_method = "Standard scholarly etymology of source-language terms, read through the framework's operational interpretive lens"
-methodological_lineage = "Jean Sendy (1968–1972), philological-historiographic foundation; Mauro Biglino (2012 onward), strict Hebrew philology; Paul Wallis (2020 onward), Christian-engaged philology; broader corpus synthesis"
-scope = "Hebrew (largest category); Greek (New Testament, classical, philosophical); Sanskrit (Vedic and Hindu); Sumerian and Akkadian; Latin; cross-linguistic"
-catalogue_columns = "Word; source-language form with transliteration; standard etymology; framework reading"
-companion_catalogues = "[List of exegetic readings](../list-of-exegetic-readings/); [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/); [List of prophets and religions](../list-of-prophets-and-religions/)"
-caveat = "Standard etymologies follow mainstream philological scholarship; framework readings are the corpus's adopted positions and may diverge from standard interpretations at specific points, with divergences flagged where they occur"
+type = "קטלוג עזר של קריאות אטימולוגיות של המסגרת במונחים דתיים ומיתולוגיים"
+philological_method = "אטימולוגיה מחקרית מקובלת של מונחים בשפת המקור, הנקראת דרך העדשה הפרשנית המבצעית של המסגרת"
+methodological_lineage = "ז'אן סנדי (1968–1972), יסוד פילולוגי־היסטוריוגרפי; מאורו ביליינו (2012 ואילך), פילולוגיה עברית קפדנית; פול וואליס (2020 ואילך), פילולוגיה בזיקה נוצרית; סינתזה רחבה של הקורפוס"
+scope = "עברית (הקטגוריה הגדולה ביותר); יוונית (הברית החדשה, קלאסית, פילוסופית); סנסקריט (וֶדית והינדית); שומרית ואכדית; לטינית; בין־לשונית"
+catalogue_columns = "מילה; צורה בשפת המקור עם תעתיק; אטימולוגיה מקובלת; קריאת המסגרת"
+companion_catalogues = "[רשימת קריאות פרשניות](../list-of-exegetic-readings/); [רשימת מיתמות ומוטיבים מיתולוגיים](../list-of-mythemes-and-mythological-motifs/); [רשימת הנביאים והדתות](../list-of-prophets-and-religions/)"
+caveat = "האטימולוגיות המקובלות הולכות בעקבות המחקר הפילולוגי המקובל; קריאות המסגרת הן העמדות שהקורפוס אימץ, ועשויות לסטות מהפרשנויות המקובלות בנקודות מסוימות, והסטיות מסומנות במקומן"
 +++
 
 This entry catalogues the Wheel of Heaven framework's adopted etymological readings of religious, mythological, and traditional terms. The corpus uses careful philological method — drawn principally from the Sendy–Biglino tradition — to recover the literal meaning of source-language terms, and reads those literal meanings for the operational content the framework's broader interpretive synthesis identifies. The catalogue presents each term in its source language and script with transliteration, the standard scholarly etymology, and the framework's adopted reading, organised by source-language tradition (Hebrew, Greek, Sanskrit, Sumerian and Akkadian, Latin, and cross-linguistic) so that etymological convergences across language families can be assessed.

@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
-source_updated = "2026-11-11"
+translation_updated = "2026-11-12"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -19,7 +19,7 @@ color = "teal"
 start_year = "-8850"
 end_year = "-6690"
 genesis_day = 7
-genesis_verse = "And on the seventh day Elohim ended his work which he had made; and he rested on the seventh day from all his work which he had made."
+genesis_verse = "Und so vollendete Elohim am siebenten Tag sein Werk, das er gemacht hatte, und ruhte am siebenten Tag von all seinem Werk, das er gemacht hatte."
 genesis_interpretation = "Das Zeitalter des Krebses ist der siebte Jom — der Tag der Ruhe. Das Schöpfungsprogramm ist abgeschlossen, doch seine Folgen entfalten sich unmittelbar: die Vertreibung aus Eden, das Exil der Luzifer-Fraktion, die Verbindung der Söhne der Elohim mit menschlichen Frauen, das Auftreten der Nephilim und der Aufstieg einer vorsintflutlichen Zivilisation, die so weit fortgeschritten war, dass sie den Heimatplaneten beunruhigte."
 
 
@@ -244,7 +244,7 @@ Für das Korpus bedeutet dies, dass das Buch Henoch als primäre ergänzende Que
 
 Die raëlianische Lesart akzeptiert dies wörtlich. Henoch wurde von den verbannten Schöpfern oder von Besuchern des Rates zum Heimatplaneten hinaufgenommen. Seine nachfolgenden Erfahrungen — beschrieben im Buch Henoch und verwandten Traditionen — stellen einen der spezifischsten antiken Berichte direkten Elohim-Kontakts dar, der in irgendeiner Quelle bewahrt ist. Die astronomischen und kosmologischen Details des Buches Henoch stammen nach dieser Lesart von dem, was Henoch während seines Besuchs tatsächlich sah. Die technische Spezifität bestimmter henochischer Passagen — die Beschreibungen der kosmischen Geographie, der Kalendersysteme, der Struktur der Himmel — ist das überlieferte Zeugnis der Begegnung eines antiken Menschen mit einer Zivilisation, die wesentlich fortgeschrittener war als seine eigene.
 
-**Die Juden als direkte Nachkommen.** Die Quelle erhebt eine weitere Behauptung über die Nephilim, die sorgfältige Behandlung verdient, denn sie ist sowohl spezifisch als auch folgenreich für die nachfolgende Geschichte, die das Korpus nachzeichnen wird. Während Raëls zweiter Begegnung mit den Elohim 1975 macht Jahwe eine Offenbarung, die die Quelle mit ungewöhnlichem Nachdruck präsentiert{{ cite(id="2") }}: *„Die Juden sind unsere direkten Nachkommen auf Erden. Deshalb ist ihnen ein besonderes Schicksal vorbehalten. Sie sind die Nachkommen der ‚Söhne der Elohim und der Töchter der Menschen‘, wie es in Genesis erwähnt wird. Ihr ursprünglicher Fehler war, dass sie sich mit ihren wissenschaftlichen Schöpfungen gepaart haben.“*
+**Die Juden als direkte Nachkommen.** Die Quelle erhebt eine weitere Behauptung über die Nephilim, die sorgfältige Behandlung verdient, denn sie ist sowohl spezifisch als auch folgenreich für die nachfolgende Geschichte, die das Korpus nachzeichnen wird. Während Raëls zweiter Begegnung mit den Elohim 1975 macht Jahwe eine Offenbarung, die die Quelle mit ungewöhnlichem Nachdruck präsentiert{{ cite(id="2") }}: *„Die Juden sind unsere direkten Nachkommen auf Erden. Deshalb ist ihnen ein besonderes Schicksal vorbehalten. Sie sind die Nachkommen der ‚Söhne der Elohim und der Töchter der Menschen‘, wie es in Genesis erwähnt wird. Ihr ursprünglicher Fehler war, dass sie sich mit ihren wissenschaftlichen Schöpfungen gepaart haben.“* (ETTMTTP-2:104)
 
 Die Behauptung ist spezifisch, und das Korpus gibt sie in den eigenen Worten des Kanons wieder. Der Kanon trifft zwei Aussagen über das Volk Israel. In der ersten wurden die Menschen, die das Schöpferteam schuf, dessen Labor in jenem Land lag, bei einem der Wettbewerbe unter den Teams als „der gelungenste irdische humanoide Typ in Bezug auf Intelligenz und Genie“ ausgewählt, was der Kanon als Ursprung des Selbstverständnisses Israels als auserwähltes Volk angibt (TBWTT-2:43). In der zweiten, oben zitierten, sind die Juden die Nachkommen der Verbindungen der Söhne der Elohim mit den Töchtern der Menschen (ETTMTTP-2:104, 2:123). Raël verbindet die beiden nur vorsichtig, als Antwort an einen Leser in seiner eigenen Kommentarstimme und nicht in einer diktierten Botschaft: „Vielleicht gerade weil dieses Volk das gelungenste war, ließen sich die Söhne Elohims von seinen Töchtern in Versuchung führen“ (LWTE-1:18). Der Kanon spricht von Abstammung und Linie. Er erhebt keinen genetischen Anspruch, und das Korpus fügt keinen hinzu: „direkte Nachkommen“ ist die Formulierung des Kanons, und sie wird hier nicht in eine Aussage über Gene, vererbte Fähigkeiten oder irgendeine heutige Bevölkerung verwandelt (siehe [Hebräer](/de/wiki/hebrews/)).
 

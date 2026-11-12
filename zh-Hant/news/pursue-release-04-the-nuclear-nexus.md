@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "繼第三批解密四週之後,美國戰爭部於 war.gov/UFO 公布第四批檔案:40 份——14 份文件、19 段影片、4 段音訊紀錄及 3 幅影像——來自戰爭部、NASA、CIA、FBI,以及首度現身的能源部(Department of Energy)。兩份頭條檔案共享同一主題:核武設施。一份新解密的紀錄,記載了 1949 年洛斯阿拉莫斯一場會議——曼哈頓計畫的物理學家們,包括愛德華·泰勒(Edward Teller)、諾里斯·布拉德伯里(Norris Bradbury)與隕石專家林肯·拉帕茲(Lincoln LaPaz)——嘗試卻未能解釋實驗室上空所見的「綠色火球」;一份能源部檔案則記錄了 2015 年 9 月於德州阿馬里洛(Amarillo)附近潘泰克斯核武廠上空的一宗空域入侵事件。本書將第四批解密記錄為閱讀正典的脈絡,而非徵兆——包括其核武主題:它觸及正典視為當前時代開端的 1945 年原子門檻,卻不構成關於該門檻的證據。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §III and §IX"
+filed_under = "當下的脈絡"
+cross_reference = "水瓶座時代，第 III 節與第 IX 節"
 canon_links = [
     { title = "水瓶座時代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

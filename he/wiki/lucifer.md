@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 99
@@ -22,16 +22,18 @@ alternative_names = ["the Light-Bringer", "lūcifer", "Helel ben Shahar", "הֵ�
 portrait_id = "lucifer"
 image = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.avif"
-image_alt = "AI-generated editorial portrait of Lucifer as the Light-Bringer, an Eloha faction leader with long hair and a green-gold luminosity."
-image_caption = "Interpretive portrait for the Lucifer wiki entry and library personality metadata."
+image_alt = "דיוקן עריכתי שנוצר בבינה מלאכותית של לוציפר כנושא האור, מנהיג סיעה מן האלוהים, ארוך שיער ובזוהר ירוק־זהוב."
+image_caption = "דיוקן פרשני לערך הוויקי על לוציפר ולמטא־נתוני הדמויות של הספרייה."
 timeline = ["leo", "cancer"]
 see_also = [
+    { title = "האם לוציפר והשטן הם אותה דמות?", path = "articles/lucifer-and-satan", description = "הקריאה ההשוואתית המבחינה בין לוציפר לשטן כסיעות מנוגדות." },
     { title = "הנחש", path = "wiki/serpent", description = "לוציפר בתפקידו הספציפי בגילוי עדן בבראשית ג." },
     { title = "יהוה", path = "wiki/yahweh", description = "מנהיג צוות ישראל ומתון הברית; עמיתו לשעבר של לוציפר ויריבו הפוליטי שלאחר עדן." },
-    { title = "שטן", path = "wiki/satan", description = "דמות אלוהים נפרדת המובילה את הסיעה האבוליציוניסטית של העולם הביתי — מנוגדת פוליטית ללוציפר, לא זהה לו." },
+    { title = "שָׂטָן", path = "wiki/satan", description = "דמות אלוהים נפרדת המובילה את הסיעה האבוליציוניסטית של העולם הביתי — מנוגדת פוליטית ללוציפר, לא זהה לו." },
     { title = "אדם וחוה", path = "wiki/adam-and-eve", description = "בני האדם הראשונים שאותם חינכה סיעת לוציפר ולהם נעשה גילוי עדן." },
     { title = "טרום-מבולי", path = "wiki/antediluvian", description = "התקופה שלאורכה שימשה סיעת לוציפר הגולה כמורי הציוויליזציה של שושלת עדן." },
     { title = "עץ החיים", path = "wiki/tree-of-life", description = "טכנולוגיית הארכת החיים שסיעת לוציפר השיגה למנהיגות הפטריארכלית של עדן." },
+    { title = "הארכידיאקון והדרקון", path = "articles/the-archdeacon-and-the-dragon", description = "ממפה את קשת ארבעת הדרקונים של וואליס אל קריאת סיעת לוציפר." },
 ]
 
 footnotes = [

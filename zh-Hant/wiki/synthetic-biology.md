@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,17 +14,25 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Engineering biology", "Constructive biology", "Designed biology", "SynBio"]
+alternative_names = ["工程生物學", "建構生物學", "設計生物學", "SynBio"]
+see_also = [
+    { title = "創世工具箱", path = "wiki/genesis-toolbox", description = "綱領層級的綜合:正典的創造技術堆疊,而本學科是其最接近的現代對應。" },
+    { title = "生命工程", path = "wiki/life-engineering", description = "合成生物學完整匯流論證於其中展開的總括領域。" },
+    { title = "遺傳工程", path = "wiki/genetic-engineering", description = "合成生物學以真正工程學科之實踐所重疊並延伸的較早領域。" },
+    { title = "合成基因組學", path = "wiki/synthetic-genomics", description = "合成生物學所重疊並涵蓋的全基因組姊妹領域。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "框架認為合成生物學與其操作詞彙最為吻合的文明。" },
+    { title = "創世記", path = "wiki/genesis", description = "框架讀作描述遠古時代工程生物學的創造記載。" },
+]
 
 [extra.infobox]
-type = "Engineering discipline applied to living systems"
-parent_field = "Life engineering"
-sister_fields = "Genetic engineering; synthetic genomics; xenobiology"
-distinguishing_feature = "Engineering-discipline practice (standardisation, modularity, abstraction, design–build–test cycles) applied to biological systems"
-foundational_milestones = "Repressilator (Elowitz and Leibler, 2000); genetic toggle switch (Gardner, Cantor, and Collins, 2000); first synthesis of a viral genome (Wimmer, 2002); BioBricks standard and Registry of Standard Biological Parts (Knight, 2003); iGEM (2004); semi-synthetic artemisinin (Keasling and colleagues, 2005 onward); JCVI-syn1.0 (2010)"
-key_techniques = "Genetic circuit design; metabolic pathway engineering; protein engineering (rational design and directed evolution); cell-free reaction systems; CRISPR-based circuit construction"
-current_status = "Active scientific discipline; commercial deployment in pharmaceuticals, food, materials, and industrial chemicals; multi-billion-dollar industry sector"
-framework_significance = "The discipline whose engineering-discipline vocabulary and methods most directly match the operational description of the Elohim's work in the Raëlian source material"
+type = "應用於生命系統的工程學科"
+parent_field = "生命工程"
+sister_fields = "遺傳工程；合成基因組學；異種生物學"
+distinguishing_feature = "將工程學科的實踐（標準化、模組化、抽象化、設計—建造—測試循環）應用於生物系統"
+foundational_milestones = "壓抑振盪子（埃洛維茨與萊布勒，2000）；基因撥動開關（加德納、坎托與柯林斯，2000）；首次合成病毒基因組（溫默，2002）；BioBricks 標準與標準生物元件登錄庫（奈特，2003）；iGEM（2004）；半合成青蒿素（基斯林等人，2005 年起）；JCVI-syn1.0（2010）"
+key_techniques = "基因迴路設計；代謝途徑工程；蛋白質工程（理性設計與定向演化）；無細胞反應系統；以 CRISPR 為基礎的迴路建構"
+current_status = "活躍的科學學科；已在製藥、食品、材料與工業化學品方面商業化應用；數十億美元規模的產業部門"
+framework_significance = "其工程學科的詞彙與方法最直接符合雷爾派源典對耶洛因工作之實際運作描述的學科"
 +++
 
 **Synthetic biology** is the engineering-discipline branch of contemporary [life engineering](../life-engineering/). It applies engineering methods — standardisation, modularity, abstraction, characterisation, and design–build–test cycles — to the construction of biological systems with predetermined properties. The field is distinguished from older [genetic engineering](../genetic-engineering/), which it overlaps and extends, by its programmatic commitment to genuine engineering-discipline practice rather than the case-by-case empirical approach that characterised most pre-2000 biological-modification work; and from [synthetic genomics](../synthetic-genomics/), which it overlaps and includes, by its concern with sub-systems and components in addition to complete genomes.

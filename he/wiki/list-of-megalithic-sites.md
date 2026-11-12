@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,16 +16,26 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
 alternative_names = ["Catalogue of megalithic sites", "Ancient megalithic architecture index", "Cyclopean and megalithic construction reference"]
+see_also = [
+    { title = "בונים קדומים", path = "wiki/ancient-builders", description = "הערך המזווג העוסק בשאלה מי בנה את האתרים שקטלוג זה מונה." },
+    { title = "ארכיאואסטרונומיה", path = "wiki/archaeoastronomy", description = "הכיוונים האסטרונומיים השיטתיים המתועדים באתרים מקוטלגים רבים." },
+    { title = "אלוהים", path = "wiki/elohim", description = "היוצרים שהמסגרת מייחסת להם תמיכה לסירוגין בבנייה עתיקה מתקדמת." },
+    { title = "רשימת מיתמות ומוטיבים מיתולוגיים", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "התיעוד המיתולוגי שהקורפוס קורא לצד העדות החומרית של המגליתים." },
+    { title = "פנגיאה", path = "wiki/pangaea", description = "היבשה שלפני המבול, הקודמת לכרונולוגיית הבנייה העמוקה של הקורפוס וממסגרת אותה." },
+    { title = "בראשית", path = "wiki/genesis", description = "סיפור המקור המעגן את תיאור הקורפוס בציוויליזציה אנושית מתקדמת מוקדמת." },
+    { title = "גבקלי טפה", path = "wiki/gobekli-tepe", description = "המקדש מכ־9600 לפנה״ס — האתר המתוארך המוקדם ביותר שהקטלוג עוסק בו." },
+    { title = "הספינקס הגדול", path = "wiki/great-sphinx", description = "אנדרטת האריה בגיזה — האתר הנוסף בעל התיארוך החריג שהקטלוג עוסק בו." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of megalithic archaeological sites"
-scope = "Pre-Pottery Neolithic through pre-Columbian eras; primary focus on sites with substantial framework relevance"
-criteria_for_inclusion = "Substantial use of large stone blocks (megaliths); evidence of advanced construction technique; documented archaeoastronomical alignments; cultural prominence; or framework relevance for the corpus's interpretive work"
-date_ranges_represented = "From c. 9600 BCE (Göbekli Tepe and Pre-Pottery Neolithic complex) to c. 1600 CE (late pre-Columbian Andean and Mesoamerican)"
-catalogue_columns = "Site name; location; conventional dating; construction features; archaeoastronomy where applicable; framework reading"
-mainstream_archaeology_position = "Sites are products of human civilisations using documented construction techniques appropriate to their periods; framework readings of extreme antiquity or extraterrestrial-assistance are not endorsed by mainstream archaeology"
-framework_position = "Megalithic record preserves operational evidence of advanced ancient construction capability across multiple regions and time-periods, consistent with the corpus's account of intermittent Elohim-supported cultural development during the Earth project's middle and later phases"
-caveat = "Coverage is selective rather than exhaustive; dating and construction-feature claims follow mainstream archaeological consensus where one exists, with contested or alternative claims explicitly flagged"
+type = "קטלוג עזר של אתרים ארכיאולוגיים מגליתיים"
+scope = "מהתקופה הנאוליתית הקדם־קרמית ועד התקופות הקדם־קולומביאניות; התמקדות עיקרית באתרים בעלי רלוונטיות ניכרת למסגרת"
+criteria_for_inclusion = "שימוש ניכר בגושי אבן גדולים (מגליתים); עדות לטכניקת בנייה מתקדמת; יישורים ארכיאואסטרונומיים מתועדים; בולטות תרבותית; או רלוונטיות למסגרת בעבודה הפרשנית של הקורפוס"
+date_ranges_represented = "מבסביבות 9600 לפנה״ס (גבקלי טפה ומכלול התקופה הנאוליתית הקדם־קרמית) עד בסביבות 1600 לספירה (סוף התקופה הקדם־קולומביאנית באנדים ובמסואמריקה)"
+catalogue_columns = "שם האתר; מקום; תיארוך מקובל; מאפייני בנייה; ארכיאואסטרונומיה היכן שרלוונטי; קריאת המסגרת"
+mainstream_archaeology_position = "האתרים הם תוצרים של ציוויליזציות אנושיות שהשתמשו בטכניקות בנייה מתועדות ההולמות את תקופותיהן; קריאות המסגרת של קדמוניות קיצונית או של סיוע חוץ־ארצי אינן מקובלות על הארכיאולוגיה המקובלת"
+framework_position = "רישום לפי אתר, בדרגה של כל תזה לגופה, כשתיאורי הארכאולוגיה המקובלת מובאים במלואם; שום אתר, כיוון או תיארוך מחדש אינו ראיה למסגרת"
+caveat = "הכיסוי סלקטיבי ולא ממצה; טענות התיארוך ומאפייני הבנייה הולכות בעקבות הקונצנזוס הארכיאולוגי המקובל היכן שהוא קיים, וטענות שנויות במחלוקת או חלופיות מסומנות במפורש"
 +++
 
 This entry catalogues megalithic sites of the ancient world — large stone structures whose construction features, dating, or astronomical alignments make them objects of substantial archaeological interest and, in many cases, objects of the Wheel of Heaven framework's interpretive engagement. *Megalith* derives from the Greek *megas* "great" + *lithos* "stone," and is used in archaeology to designate any structure incorporating large stone blocks as principal construction elements. The conventional archaeological literature treats the megalithic phenomenon as a feature of the Neolithic and Bronze Age periods (c. 9600 BCE through c. 1500 BCE in different regional contexts), with later megalithic traditions (Andean, Mesoamerican, sub-Saharan African) extending in some cases into the second millennium CE. The catalogue's scope encompasses this full range.

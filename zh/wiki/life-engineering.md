@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,15 +15,23 @@ editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
 alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "Bioengineering of life", "Living-systems engineering"]
+see_also = [
+    { title = "创世工具箱", path = "wiki/genesis-toolbox", description = "纲领层面的综合：生命工程作为正典创造技术栈的核心阶段。" },
+    { title = "合成生物学", path = "wiki/synthetic-biology", description = "该领域最具雄心的分支，即文集所称生命工程的标准学科名称。" },
+    { title = "遗传工程", path = "wiki/genetic-engineering", description = "生命工程总括之下基础性的读—写—编辑子学科。" },
+    { title = "合成基因组学", path = "wiki/synthetic-genomics", description = "正在兴起的人类能力中基因组尺度的设计与合成部分。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "框架认为人类如今正在重新接近其生命设计能力的文明。" },
+    { title = "创世记", path = "wiki/genesis", description = "框架解读为描述耶洛因行使这同一能力的创世记载。" },
+]
 
 [extra.infobox]
-type = "Engineering discipline applied to living systems"
-principal_sub_disciplines = "Genetic engineering; synthetic biology; synthetic genomics; xenobiology"
-adjacent_fields = "Bioinformatics; systems biology; metabolic engineering; protein engineering; directed evolution; cell-free biology; biocomputing; tissue engineering"
-key_capability = "Reading, writing, and editing DNA; designing organisms and biological subsystems at the genetic and molecular level"
-foundational_milestones = "First recombinant DNA (Berg, Boyer, Cohen — 1972–73); first commercial recombinant pharmaceutical (Humulin, 1982); first complete genome sequence (1995); first cell with synthetic genome (JCVI-syn1.0, 2010); first minimal synthetic cell (JCVI-syn3.0, 2016); CRISPR–Cas9 (Doudna and Charpentier, 2012); first CRISPR gene therapy approval (Casgevy, 2023)"
-current_status = "Active and rapidly developing scientific and industrial field; capability expanding by orders of magnitude per decade"
-framework_significance = "The contemporary terrestrial development of the capability the source material attributes to the Elohim civilization; on the framework, the most concrete convergence between source-predicted and observed human development in the Aquarian period"
+type = "应用于生命系统的工程学科"
+principal_sub_disciplines = "基因工程；合成生物学；合成基因组学；异种生物学"
+adjacent_fields = "生物信息学；系统生物学；代谢工程；蛋白质工程；定向演化；无细胞生物学；生物计算；组织工程"
+key_capability = "读取、书写与编辑 DNA；在遗传与分子层面设计生物体及生物子系统"
+foundational_milestones = "第一个重组 DNA（伯格、博耶、科恩——1972–73）；第一个商业化重组药物（优泌林，1982）；第一个完整基因组测序（1995）；第一个拥有合成基因组的细胞（JCVI-syn1.0，2010）；第一个最小合成细胞（JCVI-syn3.0，2016）；CRISPR–Cas9（杜德纳与沙尔庞捷，2012）；第一个获批的 CRISPR 基因疗法（Casgevy，2023）"
+current_status = "活跃且迅速发展的科学与产业领域；能力每十年以数量级扩展"
+framework_significance = "原始材料归于耶洛因文明的那种能力在当代地球上的发展；按本框架，这是水瓶座时期原始材料的预言与所观察到的人类发展之间最具体的交汇"
 +++
 
 **Life engineering** is the application of scientific and engineering methods to the deliberate design and construction of living organisms or biological systems with novel functions, characteristics, or capabilities. It is a contemporary scientific and industrial field, in active development since the early 1970s and expanding rapidly across the 2010s and 2020s. The term is used as an umbrella for several closely related disciplines — most prominently *genetic engineering*, *synthetic biology*, *synthetic genomics*, and *xenobiology* — that share the common project of treating living matter as something that can be designed at the molecular level rather than only observed and described.

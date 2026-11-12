@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,27 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Earth-as-organism framework", "the planetary-organism claim", "the cosmic-biology framework", "the universal-aliveness principle", "Living Cosmos", "the biological correlate of Infinity"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "宏觀生物學", path = "wiki/macrobiology", description = "研究高一級尺度之生命系統——人類作為有機體——的學科,將「活的地球」主張從行星延伸到物種。" },
+    { title = "無限", path = "wiki/infinity", description = "「活的地球」主張所依據的基礎宇宙論。" },
+    { title = "分形宇宙學", path = "wiki/fractal-cosmology", description = "每一尺度皆承載生命存在的空間自相似性。" },
+    { title = "質量效應", path = "wiki/mass-effect", description = "解釋為何地球的生命無法被人類察覺的時間尺度效應。" },
+    { title = "宇宙鏈", path = "wiki/cosmic-chain", description = "橫跨宇宙時間、受造且創造之文明的巢狀譜系。" },
+    { title = "四層級", path = "wiki/four-levels", description = "以活的宇宙為背景所奠定的倫理規則。" },
+    { title = "雷爾派無限符號", path = "wiki/raelian-symbol-of-infinity", description = "編碼無限大與無限小的徽記。" },
+]
 
 [extra.infobox]
-type = "Foundational cosmological framework; biological correlate of the broader Infinity-Fractal-Mass-Effect cluster"
-basic_premise = "The Earth and all other planets are literal living beings, with biological organism-status that operates at substantial cosmic scales; the broader cosmos is biologically alive across all scales of organization"
-core_image = "'The Earth is alive like all the planets, and for the small growth that is humanity, it is difficult to notice this because of the time lag due to the enormous difference in mass, which prevents you from perceiving its palpitations' (Yahweh in *Extra-Terrestrials Took Me to Their Planet*)"
-position_in_framework = "Biological correlate of the broader Infinity-Fractal-Cosmology-Mass-Effect cluster; the framework that articulates the biological-organism content within the broader cosmological structure"
-relationship_to_mass_effect = "The Mass Effect framework explains why Earth's organism-status is not directly perceivable from human-scale experience: the substantial mass-and-time-scale differential between Earth and humans produces time-perception incompatibilities analogous to the differential between humans and our own atomic constituents"
-relationship_to_fractal_cosmology = "The Fractal Cosmology framework establishes the spatial-self-similar structure across cosmic scales within which Living Earth operates; each scale of cosmic organization contains living beings whose constituents are themselves living beings at smaller scales, with the recursion continuing indefinitely"
-relationship_to_gaia_hypothesis = "Substantial structural correspondence with James Lovelock's Gaia hypothesis (1972 onward), with the Raëlian articulation predating Lovelock's principal published work; the framework's specific position aligns with the 'strong Gaia' formulation while extending substantially beyond Lovelock's specific claims through the broader cosmological-organism extension"
-distinguished_from = "The metaphorical 'living Earth' content of various contemporary environmental-philosophical frameworks (the corpus's framework asserts literal organism-status); mainstream Gaia hypothesis weak formulation (the framework's position aligns with the strong formulation); panpsychism (the framework's position is biological-organism rather than consciousness-fundamental); the conventional anthropomorphic-animism content of various religious traditions (the framework's position is biological-scientific rather than religious-anthropomorphic)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage establishes the framework's specific content with explicit articulation"
-principal_text = "*Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' section (the principal Yahweh passage); *The Book Which Tells the Truth* (1974), various passages establishing the broader infinity-and-everything-is-in-everything framework; the Wheel of Heaven corpus's outro Section II"
+type = "基礎宇宙論框架；無限—分形宇宙學—質量效應群組中的生物學支脈"
+basic_premise = "地球以及其他每一顆行星都是字面意義上的生物，更廣大的宇宙在每一個組織尺度上都是活的"
+core_image = "「地球如同所有行星一樣是活的，而對於人類這微小的生長物而言，由於質量的巨大差異所造成的時間落差，很難察覺這一點，這使你們無法感知它的脈動」（耶和華，見*外星人帶我到他們的行星*）"
+position_in_framework = "宇宙論群組的生物學支脈：無限、分形宇宙學與質量效應在結構上所描述的，活的地球將其解讀為字面意義上的活物"
+relationship_to_mass_effect = "質量效應解釋了我們為何無法感知地球的生命：地球與人類之間在質量與時間上的差距，就如同我們與自身身體原子之間的差距"
+relationship_to_fractal_cosmology = "分形宇宙學提供了層層嵌套的自相似結構——宇宙的每一個尺度都容納著生物，而其組成部分本身也是生物，無窮無盡"
+relationship_to_gaia_hypothesis = "在結構上接近洛夫洛克的蓋婭假說，且雷爾派的陳述與其早期著作同時期；但活的地球主張字面上的有機體地位（強蓋婭），並將其延伸至所有行星與每一個尺度"
+distinguished_from = "隱喻性的「活的地球」修辭（此處的主張是字面的）；弱蓋婭（系統層級的自我調節，而非字面上的有機體）；泛心論（以意識為根本，而非生物性）；擬人化的大地女神宗教（此主張是生物性的，而非崇拜性的）"
+status_in_source_material = "由耶和華在《外星人帶我到他們的行星》（1975）〈既無神也無靈魂〉一節中直接陳述"
+principal_text = "《外星人帶我到他們的行星》（1975），〈既無神也無靈魂〉；《訴說真相之書》（1974），〈人類：宇宙的一種疾病〉"
 +++
 
 **Living Earth** is the Wheel of Heaven corpus's name for a claim the Raëlian

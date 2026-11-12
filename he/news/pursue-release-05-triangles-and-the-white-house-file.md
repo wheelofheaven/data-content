@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "ארבעה שבועות לאחר מהדורה 04, פרסם משרד המלחמה של ארה״ב את מהדורה 05 בכתובת war.gov/UFO: 41 תיקים — מסמכים, תמונות וסרטונים, על פי ספירת העיתונות — מן הפנטגון, ה-FBI וה-CIA, שאליהם מצטרפות בפעם הראשונה מחלקת המדינה והמשרד הביצועי של הנשיא. מקרי הכותרת: ריאיון FBI מ-2024 שבו טייס צבאי לשעבר נזכר במשולש שווה-צלעות, דומם וברוחב מוערך של 500 רגל, המחשיך את הכוכבים מעל בגראם, אפגניסטן ב-2002; מפגש גאנשיפ במפרץ עומאן ב-2021 עם כ-25 »כדורים קרים« שנראו כמגיבים לירי התותח הראשי של המטוס; ואשכול תיקים מנובמבר 1963 שבו דיווח רדיו ברזילאי סנסציוני על כדור שהתרסק ובו איש צוות מת נודד מתמלול ניטור של ה-CIA דרך בירור של מועצת החלל של הבית הלבן אל פסק דין של מחלקת המדינה: בדיה. הקורפוס רושם את מהדורה 05 כהקשר לקריאת הקאנון, לא כסימן לשיבה — ורושם את תיק באהיה, המתפרק תחת מסמכיו שלו, במלוא עוצמתו התיעודית."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "ההקשר של ההווה"
+cross_reference = "עידן הדלי, §IX"
 canon_links = [
     { title = "עידן הדלי", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

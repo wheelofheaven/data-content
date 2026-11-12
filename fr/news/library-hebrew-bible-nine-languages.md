@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-07-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-06-07"
 translation_stale = false
 translation_sync = 100
@@ -18,7 +18,7 @@ summary = "La bibliothèque héberge désormais chaque livre de la Bible hébra�
 canon_links = [
     { title = "Bible hébraïque", path = "/wiki/hebrew-bible/" },
     { title = "Genèse", path = "/wiki/genesis/" },
-    { title = "Elohim", path = "/wiki/elohim/" },
+    { title = "Élohim", path = "/wiki/elohim/" },
     { title = "Traduction de la Bible par Dhorme", path = "/wiki/dhorme-bible-translation/" }
 ]
 sources = [

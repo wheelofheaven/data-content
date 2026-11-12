@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,15 +16,23 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
 alternative_names = ["Catalogue of neo-euhemeristic readings", "Framework exegesis index", "Glossary of operational readings"]
+see_also = [
+    { title = "רשימת מיתמות ומוטיבים מיתולוגיים", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "הקטלוג המשלים, העוסק בדפוסי סיפור בין־תרבותיים חוזרים ולא במונחים בודדים." },
+    { title = "רשימת קריאות אטימולוגיות", path = "wiki/list-of-etymological-readings", description = "הקטלוג המשלים, העוסק בקריאות פילולוגיות של מילים וביטויים מסוימים." },
+    { title = "אלוהים", path = "wiki/elohim", description = "מונח מקוטלג שהמסגרת קוראת באופן מעשי כיוצרים החוץ־ארציים ההיסטוריים." },
+    { title = "בראשית", path = "wiki/genesis", description = "מקור עיקרי שאת אפיזודות הסיפור שבו הקטלוג קורא באופן ניאו־אוהמריסטי." },
+    { title = "יהוה", path = "wiki/yahweh", description = "קריאה מקוטלגת של תואר־אישיות, המתרגמת את השם האלוהי למונחים מעשיים." },
+    { title = "מגדל בבל", path = "wiki/tower-of-babel", description = "אפיזודה סיפורית שהקטלוג קורא מחדש כהיסטוריה מעשית ששוחזרה." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of framework readings of religious and mythological terms"
-interpretive_method = "Neo-euhemeristic exegesis — translation of mythologised content into operational terms consistent with the source material's account"
-methodological_lineage = "Euhemerus of Messene (3rd c. BCE); Brinsley Le Poer Trench (1960); Jean Sendy (1968–1972); Erich von Däniken (1968); Zecharia Sitchin (1976–2010); Claude Vorilhon / Raël (1974–present); Mauro Biglino (1990s–present); Paul Wallis (2018–present)"
-scope = "Cosmological terms; narrative episodes; persons and titles; sacred objects and architecture; symbols and iconographic motifs; eschatological terms; theological concepts"
-catalogue_columns = "Term; framework reading; primary source within the framework lineage"
-companion_catalogues = "[List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/); [List of etymological readings](../list-of-etymological-readings/); [List of prophets and religions](../list-of-prophets-and-religions/)"
-caveat = "Coverage is most complete for terms in widely attested traditions; the catalogue is open to expansion as the corpus's coverage deepens"
+type = "קטלוג עזר של קריאות המסגרת במונחים דתיים ומיתולוגיים"
+interpretive_method = "פרשנות נאו־אוהמריסטית — תרגום תוכן שהפך למיתוס למונחים מבצעיים התואמים את תיאור חומר המקור"
+methodological_lineage = "אוהמרוס ממסנה (המאה ה־3 לפנה״ס); ברינסלי לה פואר טרנץ' (1960); ז'אן סנדי (1968–1972); אריך פון דניקן (1968); זכריה סיטשין (1976–2010); קלוד וורילון / ראל (1974–היום); מאורו ביליינו (שנות ה־90–היום); פול וואליס (2018–היום)"
+scope = "מונחים קוסמולוגיים; אפיזודות סיפוריות; אישים ותארים; חפצי קודש ואדריכלות; סמלים ומוטיבים איקונוגרפיים; מונחים אסכטולוגיים; מושגים תאולוגיים"
+catalogue_columns = "מונח; קריאת המסגרת; המקור הראשוני בתוך שושלת המסגרת"
+companion_catalogues = "[רשימת מיתמות ומוטיבים מיתולוגיים](../list-of-mythemes-and-mythological-motifs/); [רשימת קריאות אטימולוגיות](../list-of-etymological-readings/); [רשימת הנביאים והדתות](../list-of-prophets-and-religions/)"
+caveat = "הכיסוי מלא ביותר במונחים ממסורות מתועדות היטב; הקטלוג פתוח להרחבה ככל שכיסוי הקורפוס יעמיק"
 +++
 
 This entry catalogues the Wheel of Heaven framework's adopted neo-euhemeristic readings of religious, mythological, and traditional terms — its glossary of operational readings, presented as a navigable reference instrument. The corpus's interpretive method here is the one applied throughout the wiki and the long-form chapter material: each term's surface content is translated into operational terms consistent with the source material's account of the Elohim civilisation and the Earth project, on the working hypothesis that the relevant traditions preserve, in varying states of clarity, historical content that the operational translation recovers.

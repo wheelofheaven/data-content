@@ -6,29 +6,40 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the zodiac belt", "the zodiacal circle", "*zōidiakos kyklos* (Greek: ζῳδιακὸς κύκλος, 'circle of small figures')", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "the celestial circle", "the wheel of heaven (in older usage)", "the twelve houses (in astrological usage)"]
+alternative_names = ["황도대", "황도 원", "*zōidiakos kyklos* (그리스어: ζῳδιακὸς κύκλος, '작은 형상들의 원')", "*Mazzaroth* (히브리어: מַזָּרוֹת)", "천구의 원", "하늘의 바퀴(옛 용법에서)", "열두 하우스(점성술 용법에서)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "세계의 시대", path = "wiki/world-age", description = "각 황도 구간이 프레임워크의 달력에서 표시하는 세차 시대." },
+    { title = "이중 서명", path = "wiki/doubled-signature", description = "황도대의 여섯 쌍의 대립 축이 만들어 내는 원리." },
+    { title = "햄릿의 맷돌", path = "wiki/hamlets-mill", description = "황도-세차 부호화를 범문화적으로 읽기 위한 학문적 닻." },
+    { title = "우주의 사슬", path = "wiki/cosmic-chain", description = "황도 달력이 구조화하는 더 넓은 연대 프레임워크." },
+    { title = "히브리어 성경", path = "wiki/hebrew-bible", description = "코퍼스가 그 마자롯 내용을 황도대 프레임워크를 통해 읽는 전통." },
+    { title = "장 상디", path = "wiki/jean-sendy", description = "그의 '황도대 종교(religion zodiacale)' 독해가 코퍼스의 세차적 다룸에 앞선 저자." },
+    { title = "시대를 갈아내는 맷돌", path = "articles/the-mill-that-grinds-the-ages", description = "대년의 열두 시간으로서의 황도대로, 각 시대는 그 춘분점 별자리의 이름을 따릅니다." },
+    { title = "마자롯", path = "wiki/mazzaroth", description = "황도대의 히브리어 이름 — 욥기 38장의 마자롯과 그 후손인 마잘." },
+    { title = "타우록토니", path = "wiki/tauroctony", description = "황소자리 시대의 성도(星圖)로 읽히는 미트라교의 황소 살해 도상." },
+]
 
 [extra.infobox]
-type = "Structural-foundational concept; the principal observational-symbolic framework underlying the precessional age system"
-definition = "The band of sky extending approximately 8° on either side of the ecliptic, divided into twelve constellational regions named after small figures (animal, human, and inanimate) traversed by the sun, moon, and planets in their apparent celestial motion"
-the_twelve_signs = "Aries (the Ram), Taurus (the Bull), Gemini (the Twins), Cancer (the Crab), Leo (the Lion), Virgo (the Virgin), Libra (the Scales), Scorpio (the Scorpion), Sagittarius (the Archer), Capricorn (the Sea-Goat), Aquarius (the Water-Bearer), Pisces (the Fishes)"
-six_paired_oppositions = "Aries↔Libra, Taurus↔Scorpio, Gemini↔Sagittarius, Cancer↔Capricorn, Leo↔Aquarius, Virgo↔Pisces — six axes producing the doubled-signature principle"
-ecliptic_basis = "The ecliptic — the apparent annual path of the sun against the stellar background, produced by Earth's orbital motion around the sun, inclined approximately 23.44° to the celestial equator"
-constellational_basis = "The twelve constellations occupy varying angular extents along the ecliptic (modern IAU boundaries; idealized 30°-per-sign in classical astrological usage); the constellations are not equal in size — Virgo is the largest, Capricorn among the smallest"
-mechanism_of_precessional_relevance = "The vernal equinox precesses backward (westward) through the zodiac at approximately one constellation per 2,160 years, producing the precessional age sequence (Capricorn → Sagittarius → Scorpio → ... → Pisces → Aquarius → back to Capricorn)"
-framework_reading = "The zodiac as the alliance's engineering tool — the long-duration calendrical framework devised by the Elohim for their interstellar biotech program, with the zodiacal names and the paired-opposition structure operating as functional engineering features rather than mystical-aesthetic conventions"
-zodiacal_names_origin = "On the corpus's reading: the Elohim's own conceptual shorthand for the twelve ecliptic segments, inherited by human civilizations through cultural transmission across the post-flood ages; later human civilizations modified the figures while preserving the underlying twelve-fold structure"
-distinguished_from = "Mainstream astrology's tropical zodiac (signs tied to seasonal positions rather than actual constellational positions, decoupled from precessional motion); the various cross-cultural zodiacal-equivalent traditions (Chinese twelve-animal cycle, Indian nakshatra system, Mesoamerican calendrical traditions) which preserve substantive parallel content within distinctive cultural framings; the broader astronomical constellational framework (the 88 IAU-defined constellations of which the twelve zodiacal constellations are a subset)"
-status_in_framework = "Foundational; the zodiac operates as the principal observational-symbolic complement to the World Age temporal framework, with the two together constituting the corpus's principal cosmic-chronological architecture"
-principal_corpus_treatment = "*timeline.epub*, particularly the Libra chapter's Section VI.2 ('The Zodiacal Framework as Engineering Tool'); Jean Sendy, *L'ère du Verseau* (1970), with substantial systematic engagement with Moses's use of zodiacal symbolism (the *religion zodiacale* framework)"
+type = "황도를 따라 놓인 별자리의 띠. 세차 세계 시대의 바탕이 되는 관측 틀"
+definition = "황도 양쪽으로 약 8°씩 뻗어 있는 하늘의 띠로, 태양, 달, 행성들이 겉보기 천체 운동 속에서 지나가는 작은 형상들(동물, 인간, 무생물)의 이름을 딴 열두 별자리 구역으로 나뉨"
+the_twelve_signs = "양자리(숫양), 황소자리(황소), 쌍둥이자리(쌍둥이), 게자리(게), 사자자리(사자), 처녀자리(처녀), 천칭자리(저울), 전갈자리(전갈), 사수자리(궁수), 염소자리(바다염소), 물병자리(물 긷는 자), 물고기자리(물고기들)"
+six_paired_oppositions = "양자리↔천칭자리, 황소자리↔전갈자리, 쌍둥이자리↔사수자리, 게자리↔염소자리, 사자자리↔물병자리, 처녀자리↔물고기자리 — 이중 서명 원리를 낳는 여섯 축"
+ecliptic_basis = "황도 — 지구가 태양 주위를 공전하는 운동으로 생기는, 별을 배경으로 한 태양의 겉보기 연주 경로로, 천구 적도에 대해 약 23.44° 기울어져 있음"
+constellational_basis = "열두 별자리는 황도를 따라 서로 다른 각도 범위를 차지합니다(현대 IAU 경계, 고전 점성술 용법에서는 궁마다 30°로 이상화). 별자리의 크기는 같지 않으며, 처녀자리가 가장 크고 게자리가 가장 작습니다"
+mechanism_of_precessional_relevance = "춘분점은 약 2,160년마다 한 별자리씩 황도대를 거슬러(서쪽으로) 세차 이동하여 세차 시대의 순서를 만듦(염소자리 → 사수자리 → 전갈자리 → ... → 물고기자리 → 물병자리 → 다시 염소자리)"
+framework_reading = "엘로힘의 공학 도구로서의 황도대 — 지구에서의 프로젝트를 위해 고안된 장기 달력이며, 그 이름과 대립 쌍 구조는 신비적 관례가 아니라 기능적 특징입니다"
+zodiacal_names_origin = "코퍼스의 해석에서, 황도의 열두 구간을 가리키는 엘로힘 자신의 약칭. 대홍수 이후의 문화 전수를 통해 인간 문명에 전해졌고, 열두 겹 구조는 보존된 채 변형되었습니다"
+distinguished_from = "주류 점성술의 회귀 황도대(실제 별자리가 아니라 계절적 위치에 묶인 궁으로, 세차와 분리됨), 각자의 틀 안에서 유사한 내용을 담는 문화 간 황도대 대응물(중국의 12지, 인도의 낙샤트라 체계, 메소아메리카 역법 전통), 더 넓은 천문학적 별자리 집합(IAU 88개 별자리, 황도 12궁은 그 부분집합)"
+status_in_framework = "기초. 황도대는 세계의 시대 연대기의 관측적·상징적 보완물이며, 둘이 함께 코퍼스의 우주적·연대적 구조를 이룹니다"
+principal_corpus_treatment = "*timeline.epub*, 특히 천칭자리 장의 'The Zodiacal Framework as Engineering Tool'. 모세의 황도 상징 사용(*religion zodiacale*)에 관한 장 상디, *L'ère du Verseau*(1970)"
 +++
 
 The **Zodiac** (Greek: ζῳδιακὸς κύκλος, *zōidiakos kyklos*, "circle of small

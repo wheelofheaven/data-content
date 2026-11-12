@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -15,19 +15,24 @@ editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["Noah (English)", "נֹחַ (Hebrew Noaḥ)", "Νῶε (Greek Nōe)", "نوح (Arabic Nūḥ)", "the Eden-lineage flood survivor", "the ark-builder", "the post-flood patriarch"]
 timeline = ["age-of-cancer", "age-of-gemini"]
+see_also = [
+    { title = "大洪水", path = "wiki/great-flood", description = "方舟保存行动所针对的双子座时代大灾难。" },
+    { title = "路西法", path = "wiki/lucifer", description = "其干预通过方舟行动保存了挪亚的被流放造物者派系。" },
+    { title = "挪亚方舟", path = "wiki/noahs-ark", description = "被解读为载有遗传样本而非成对动物之屏护飞船的密封船只。" },
+    { title = "神战", path = "wiki/theomachy", description = "框定洪水决定的造物者派系之间的冲突。" },
+    { title = "巴别", path = "wiki/babel", description = "其引起议会警觉一事显示出母星与挪亚之约相互分离的洪水后复兴计划。" },
+    { title = "耶和华", path = "wiki/yahweh", description = "洪水后“永不再如此”的承诺以其投票为依据的议会领袖。" },
+]
 
 [extra.infobox]
-type = "Biblical figure; principal human operational partner of the exiled-creator (Serpentine) faction in the ark-preservation project"
-hebrew_name = "נֹחַ (Noaḥ, 'rest, comfort')"
-biblical_dating = "Cancer-Gemini boundary in corpus chronology (c. 6,690 BCE); mainstream biblical chronology places traditional Genesis flood dating between 2300-3000 BCE in Ussher-and-Septuagint frames"
-principal_biblical_location = "Genesis 5:29-10:32; brief subsequent references in Isaiah 54:9, Ezekiel 14:14-20, Matthew 24:37-39, Luke 17:26-27, Hebrews 11:7, 1 Peter 3:20, 2 Peter 2:5"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Flood' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in the Age of Cancer chapter"
-core_corpus_articulation = "Eden-lineage human operating as principal operational partner of the exiled-creator faction conducting clandestine preservation of life through orbital spacecraft (the Genesis 'ark') against Council-ordered nuclear attack on Earth"
-flood_event = "Council-ordered nuclear-missile attack on Earth conducted against the original creator project; the exiled creators (Serpentine faction) conducted clandestine preservation of life through orbital spacecraft; conducted at the Cancer-Gemini boundary (c. 6,690 BCE corpus chronology)"
-ark_specifications = "Hebrew *tevah* (sealed vessel, not boat) with three levels (Genesis 6:16); lifted 'above the earth' (Genesis 7:17 *vatarom me-al ha-aretz*) rather than 'on the water'; cargo genetic (single living cells per species) rather than physical animal pairs"
-post_flood_covenant = "Private arrangement between exiled creators present on the ground and Noah's family (Genesis 9); distinct from home-world Council whose non-participation is demonstrated by subsequent Babel-project surprise"
-distinguished_from = "Mainstream uniquely-righteous-individual reading; ancient-astronaut alternative readings; mainstream biblical-scholarly Documentary Hypothesis source-critical reading; conservative young-earth creationist literal-global-flood reading"
-status_in_framework = "Foundational flood-narrative figure; principal Cancer-Gemini-age figure; principal Eden-lineage post-flood patriarch; structurally parallel to contemporary Aquarian-age humanity facing cataclysmic-threshold engagement"
+type = "圣经人物；流亡的路西法派系在方舟保存行动中的主要人类伙伴"
+hebrew_name = "נֹחַ（Noaḥ，「安息、安慰」）"
+biblical_dating = "按文集纪年为双子座时代（约公元前 6,690 年）；传统的创世记纪年在乌雪与七十士译本框架中将洪水定于约公元前 2300 年至约公元前 3000 年之间"
+principal_source = "《讲述真相之书》（沃里隆，1974），「洪水」一节；汇编于《来自设计者的信息》（2005）"
+mesopotamian_counterparts = "朱苏德拉（苏美尔）、阿特拉哈西斯与乌特纳皮什提姆（阿卡德）——创世记记述所改写的洪水幸存者人物"
+ark_reading = "希伯来语 *tevah*（密封的箱子，而非船）；被解读为一艘「从地上升起」（创世记 7:17）的有屏护飞行器，所载货物是遗传样本，而非成对的实体动物"
+post_flood_covenant = "被解读为地面上的流亡创造者与挪亚一家之间的私下约定（创世记 9），有别于故乡世界的议会——议会对巴别之事的意外显示了它与此约无涉"
+distinguished_from = "主流的“义人遗民”解读；底本假说的来源批判解读；年轻地球创造论的字面全球洪水解读"
 +++
 
 **Noah** (Hebrew נֹחַ, *Noaḥ*, "rest" or "comfort") is the flood-survivor

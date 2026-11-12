@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,24 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of neo-euhemeristic readings", "Framework exegesis index", "Glossary of operational readings"]
+alternative_names = ["신에우헤메로스주의 독해 목록", "틀의 주해 색인", "작전적 독해 용어집"]
+see_also = [
+    { title = "신화소와 신화적 모티프 목록", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "개별 용어가 아니라 반복되는 범문화적 서사 패턴을 다루는 짝 목록." },
+    { title = "어원학적 독해 목록", path = "wiki/list-of-etymological-readings", description = "특정 단어와 구절에 대한 문헌학적 독해를 다루는 짝 목록." },
+    { title = "엘로힘", path = "wiki/elohim", description = "프레임워크가 역사적 외계 창조자들로 실행적으로 읽는 목록상의 용어." },
+    { title = "창세기", path = "wiki/genesis", description = "목록이 그 서사 일화들을 신에우헤메리즘적으로 읽는 주요 원천." },
+    { title = "야훼", path = "wiki/yahweh", description = "신의 이름을 실행적 용어로 옮기는, 목록상의 인물-칭호 독해." },
+    { title = "바벨탑", path = "wiki/tower-of-babel", description = "목록이 회복된 실행적 역사로 다시 읽는 서사 일화." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of framework readings of religious and mythological terms"
-interpretive_method = "Neo-euhemeristic exegesis — translation of mythologised content into operational terms consistent with the source material's account"
-methodological_lineage = "Euhemerus of Messene (3rd c. BCE); Brinsley Le Poer Trench (1960); Jean Sendy (1968–1972); Erich von Däniken (1968); Zecharia Sitchin (1976–2010); Claude Vorilhon / Raël (1974–present); Mauro Biglino (1990s–present); Paul Wallis (2018–present)"
-scope = "Cosmological terms; narrative episodes; persons and titles; sacred objects and architecture; symbols and iconographic motifs; eschatological terms; theological concepts"
-catalogue_columns = "Term; framework reading; primary source within the framework lineage"
-companion_catalogues = "[List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/); [List of etymological readings](../list-of-etymological-readings/); [List of prophets and religions](../list-of-prophets-and-religions/)"
-caveat = "Coverage is most complete for terms in widely attested traditions; the catalogue is open to expansion as the corpus's coverage deepens"
+type = "종교적·신화적 용어에 대한 틀의 독해 참고 목록"
+interpretive_method = "신에우헤메로스주의 주해 — 신화화된 내용을 원전 자료의 설명과 부합하는 작전적 용어로 옮김"
+methodological_lineage = "메세네의 에우헤메로스(기원전 3세기); 브린즐리 르 포어 트렌치(1960); 장 상디(1968–1972); 에리히 폰 데니켄(1968); 제카리아 시친(1976–2010); 클로드 보릴롱 / 라엘(1974–현재); 마우로 비글리노(1990년대–현재); 폴 월리스(2018–현재)"
+scope = "우주론적 용어; 서사 일화; 인물과 칭호; 성물과 건축; 상징과 도상 모티프; 종말론적 용어; 신학적 개념"
+catalogue_columns = "용어; 틀의 독법; 틀의 계보 안에서의 일차 출처"
+companion_catalogues = "[신화소와 신화적 모티프 목록](../list-of-mythemes-and-mythological-motifs/); [어원학적 독해 목록](../list-of-etymological-readings/); [예언자 및 종교 목록](../list-of-prophets-and-religions/)"
+caveat = "널리 증언된 전통의 용어일수록 수록 범위가 가장 완전함; 목록은 코퍼스의 범위가 깊어짐에 따라 확장될 수 있음"
 +++
 
 This entry catalogues the Wheel of Heaven framework's adopted neo-euhemeristic readings of religious, mythological, and traditional terms — its glossary of operational readings, presented as a navigable reference instrument. The corpus's interpretive method here is the one applied throughout the wiki and the long-form chapter material: each term's surface content is translated into operational terms consistent with the source material's account of the Elohim civilisation and the Earth project, on the working hypothesis that the relevant traditions preserve, in varying states of clarity, historical content that the operational translation recovers.

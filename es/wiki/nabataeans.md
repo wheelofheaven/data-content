@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -20,6 +20,14 @@ entry_type = "people"
 claim_type = "inferred"
 timeline = ["pisces", "aries"]
 alternative_names = ["נבטו (arameo nabateo Nabaṭu)", "Ναβαταῖοι (griego Nabataîoi)", "ٱلْأَنْبَاط (árabe al-Anbāṭ)", "Nabateans", "los nabati", "pueblo de Raqmū"]
+see_also = [
+    { title = "Petra", path = "wiki/petra", description = "La capital nabatea excavada en la roca, el lugar en torno al cual gira la hipótesis de Petra del marco." },
+    { title = "Hanafiyya", path = "wiki/hanafiyya", description = "La restauración abrahámica de la que el pueblo nabateo se lee como el medio humano." },
+    { title = "Mahoma", path = "wiki/muhammad", description = "El profeta cuyo árabe coránico, según se argumenta, desciende del árabe nabateo." },
+    { title = "Jesús", path = "wiki/jesus", description = "Hablante del mismo arameo en el que escribían los nabateos, lo que sitúa al islam en un medio compartido." },
+    { title = "Abraham", path = "wiki/abraham", description = "La fuente patriarcal del medio arameo-abrahámico en el que se inscriben los nabateos." },
+    { title = "Biblia hebrea", path = "wiki/hebrew-bible", description = "El corpus cuyo vocabulario operativo comparte el medio arameo-abrahámico que aquí se sigue." },
+]
 
 [extra.infobox]
 type = "Pueblo caravanero del antiguo norte de Arabia; constructores de Petra; transmisores de la escritura del arameo al árabe"

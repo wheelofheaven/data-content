@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,19 +16,30 @@ editorial_pass = "2026-05"
 entry_type = "text"
 alternative_names = ["Cabala (older European spelling)", "Qabalah (Hermetic / Western-esoteric spelling)", "Kabbala", "*Qabbalah* (Hebrew: קַבָּלָה)", "the Jewish mystical tradition", "*shalshelet ha-Kabbalah* ('chain of Tradition')", "*torat ha-sod* ('the secret teaching')", "*chokhmah penimit* ('inner wisdom')"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "ריבוי האלים", path = "wiki/plurality-of-gods", description = "קריאת הריבוי המובנה שקוסמולוגיית הספירות נאמרת כמשמרת אותה באופן הישיר ביותר." },
+    { title = "עץ החיים", path = "wiki/tree-of-life", description = "דיאגרמת עץ החיים המסדרת את עשר הספירות שהמסורת מנסחת." },
+    { title = "אלוהים", path = "wiki/elohim", description = "מבנה הברית שהקורפוס ממפה אליו את האצלות הספירות." },
+    { title = "ז׳אן סנדי", path = "wiki/jean-sendy", description = "המחבר שעיסוקו ב־La Cabale של ספרן מספק את קריאת הקבלה של המסגרת." },
+    { title = "המקרא העברי", path = "wiki/hebrew-bible", description = "הבסיס הכתובי שהמסורת האזוטרית קוראת לשם תוכן הריבוי שבו." },
+    { title = "מגן דוד", path = "wiki/star-of-david", description = "צורה סמלית יהודית קרובה בתוך אוצר המילים האזוטרי של המסורת." },
+    { title = "גלגל המזלות", path = "wiki/zodiac", description = "שנים עשר קבוצות הכוכבים שספר יצירה מייחס לשתים עשרה האותיות הפשוטות בעברית." },
+    { title = "הטחנה הטוחנת את העידנים", path = "articles/the-mill-that-grinds-the-ages", description = "מיפוי המזלות של ספר יצירה ו״אין מזל לישראל״ של התלמוד בתוך החוט הפרצסיוני הרחב." },
+    { title = "מזרות", path = "wiki/mazzaroth", description = "המונח האסטרלי שמאחורי אותיות המזלות של ספר יצירה וברכת ״מזל טוב״." },
+]
 
 [extra.infobox]
-type = "Major Jewish mystical-esoteric tradition; the principal living Western esoteric tradition with continuous textual-pedagogical transmission"
-literal_meaning = "Hebrew קַבָּלָה (*Qabbalah*) literally means 'reception' or 'received tradition,' from the root קבל (*q-b-l*, 'to receive'); designates the substantial body of teachings received and transmitted across the chain of tradition"
-principal_textual_corpus = "*Sefer Yetzirah* (Book of Formation, late antique); *Sefer ha-Bahir* (Book of Brightness, late 12th century); *Zohar* (Book of Splendor, late 13th century, attributed to Moses de León); the Lurianic corpus (16th century, principally through Hayyim Vital's transmission of Isaac Luria's teachings); the Hasidic corpus (18th century onward); various subsequent textual developments"
-core_cosmological_structure = "*Ein Sof* (the infinite, unmanifest divine source) → ten *sephirot* (emanations) operating across four worlds (*olamot*: *Atziluth*, *Beriah*, *Yetzirah*, *Asiyah*); the *sephirot* arranged in the *Etz Chaim* (Tree of Life) diagram with three pillars and twenty-two connecting paths"
-the_ten_sephirot = "Keter (Crown), Chokhmah (Wisdom), Binah (Understanding), Chesed (Mercy / Loving-kindness), Gevurah (Severity / Strength), Tiferet (Beauty / Harmony), Netzach (Eternity / Victory), Hod (Splendor / Glory), Yesod (Foundation), Malkhut (Kingdom / Sovereignty)"
-historical_phases = "Foundational period (late antiquity, principally Sefer Yetzirah); medieval emergence (12th-13th centuries, Provence and Spain, principally Bahir and Zohar); Lurianic synthesis (16th century, Safed); Hasidic development (18th century onward, Eastern Europe); modern academic and renewal phases (20th-21st centuries)"
-framework_position = "The single most positive framework assessment given to any religious-textual tradition: 'the closest book to the truth' (corpus-internal articulation drawing on Yahweh-source content). The Kabbalistic *sephirot* cosmology maps with notable precision onto the framework's articulation of the actual alliance structure"
-chain_of_tradition_claim = "The Kabbalistic tradition's own self-articulation: *shalshelet ha-Kabbalah* ('chain of Tradition'), with the substantial transmission claim reaching from Moses through Joshua, the Elders, the Prophets, the Great Assembly, and onward; with various Kabbalistic articulations registering the tradition's antiquity as exceeding even the Sinai revelation and reaching back to prehistoric origins"
-distinguished_from = "Mainstream rabbinic Judaism (which has historically operated within strict monotheistic theological framework with the Kabbalistic plurality content registered within the broader esoteric tradition rather than within mainstream halakhic discourse); Christian Kabbalah / Cabala (the substantial Renaissance-Christian appropriation operating within Christian-theological framing); Hermetic Qabalah (the substantial Western-esoteric appropriation operating within broader Hermetic-magical framing); broader Jewish mystical traditions (which include various non-Kabbalistic streams)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in the 'At the Roots of All Religions' section of *The Book Which Tells the Truth* establishes the framework's specific reading; subsequent corpus articulation in *timeline.epub* extends the engagement"
-principal_text_for_framework_engagement = "*The Book Which Tells the Truth* (1974), 'The End of the World' chapter, 'At the Roots of All Religions' section (the principal Yahweh passage); *timeline.epub* Pisces chapter, Section X (the substantial subsequent corpus articulation on the *sephirot* / alliance-structure mapping); Jean Sendy, *Les dieux nous sont nés* and *Ces dieux qui firent le ciel et la terre* (substantial Sendy engagement drawing on Alexandre Safran's *La Cabale*)"
+type = "המסורת המיסטית והאזוטרית היהודית העיקרית; המסורת האזוטרית המערבית החיה המרכזית, בעלת קו טקסטואלי והוראתי רציף"
+literal_meaning = "בעברית קַבָּלָה (*Qabbalah*), 'קבלה' או 'מסורת מקובלת', מן השורש קבל (*q-b-l*, 'לקבל'); המסורת קוראת לעצמה על שם אופן מסירתה — תורה הנמסרת בשרשרת ולא נגזרת מחדש בשכל"
+principal_textual_corpus = "*ספר יצירה* (העת העתיקה המאוחרת); *ספר הבהיר* (סוף המאה ה־12); *הזוהר* (ספר הזוהר, סוף המאה ה־13, מיוחס לשמעון בר יוחאי, נכתב בידי משה די ליאון); הקורפוס הלוריאני (המאה ה־16, באמצעות חיים ויטאל); הקורפוס החסידי (מן המאה ה־18 ואילך)"
+core_cosmological_structure = "*אין סוף* (המקור האינסופי והבלתי נגלה) המאציל עשר *ספירות* על פני ארבעה עולמות (*אצילות*, *בריאה*, *יצירה*, *עשייה*); ה*ספירות* מסודרות ב*עץ החיים* על שלושה עמודים המחוברים בעשרים ושניים נתיבים"
+the_ten_sefirot = "כתר, חכמה, בינה, חסד, גבורה, תפארת, נצח, הוד, יסוד, מלכות"
+historical_phases = "שלב היסוד (העת העתיקה המאוחרת, ספר יצירה); הופעה בימי הביניים (המאות ה־12–13, פרובנס וספרד, הבהיר והזוהר); הסינתזה הלוריאנית (המאה ה־16, צפת); ההתפתחות החסידית (מן המאה ה־18 ואילך, מזרח אירופה); שלבים אקדמיים ושלבי התחדשות מודרניים"
+framework_position = "ההערכה החיובית ביותר שהקורפוס נותן למסורת דתית כלשהי: הקבלה כ'הספר הקרוב ביותר לאמת', וקוסמולוגיית הספירות שלה נקראת כזיכרון משומר של הריבוי המובנה של האלוהים"
+chain_of_tradition_claim = "*שלשלת הקבלה* ('שרשרת המסורת') — תורה שהתקבלה ממשה דרך יהושע, הזקנים, הנביאים ואנשי כנסת הגדולה; המקובלים מרחיקים את קדמותה אל מעבר לסיני, למקורות פרהיסטוריים"
+distinguished_from = "היהדות הרבנית המרכזית (המחזיקה בספירות בתוך מונותאיזם קפדני); הקבלה הנוצרית / Cabala (ניכוס נוצרי בתקופת הרנסנס); ה־Qabalah ההרמטית (ניכוס מערבי־אזוטרי מודרני); המסורת המיסטית היהודית הרחבה (הכוללת זרמים שאינם קבליים)"
+status_in_source_material = "מתועד; הקטע 'בשורשי כל הדתות' ב־*הספר המגלה את האמת* הוא המקור העיקרי; חומר מאוחר יותר בקורפוס מרחיב את הקריאה של ה*ספירות* ושל מידות הפרסה ב*שיעור קומה*"
+principal_text_for_framework_engagement = "*הספר המגלה את האמת* (1974), 'בשורשי כל הדתות'; *שיעור קומה* וקריאתו ככוכב הלכת של האלוהים (ראו המאמר 'הספר הקרוב ביותר לאמת'); ז'אן סנדי, בהסתמך על *La Cabale* של אלכסנדר ספרן (1960)"
 +++
 
 **Kabbalah** (Hebrew: קַבָּלָה, *Qabbalah*, "received tradition") is the

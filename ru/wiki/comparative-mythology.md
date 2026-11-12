@@ -5,25 +5,39 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Comparative Mythology", "comparative religion (overlapping discipline)", "mythography (related but distinct discipline)", "comparative folklore", "Mythologie comparée (French)", "vergleichende Mythologie (German)"]
+alternative_names = ["Сравнительная мифология", "сравнительное религиоведение (смежная дисциплина)", "мифография (родственная, но отличная дисциплина)", "сравнительная фольклористика", "Mythologie comparée (франц.)", "vergleichende Mythologie (нем.)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Мельница Гамлета", path = "wiki/hamlets-mill", description = "Тезис о прецессионном кодировании, который корпус принимает как структурный организующий принцип дисциплины." },
+    { title = "Теомахия", path = "wiki/theomachy", description = "Комплекс мотивов войны среди богов, который дисциплина каталогизирует в разных культурах." },
+    { title = "Гипотеза древних астронавтов", path = "wiki/ancient-astronaut-hypothesis", description = "Более широкая интерпретационная рамка, через которую корпус читает повторяющиеся мотивы." },
+    { title = "Неоэвгемеризм", path = "wiki/neo-euhemerism", description = "Метод общего исторического референта, который корпус применяет к межкультурным моделям." },
+    { title = "Древо познания добра и зла", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "Мотив космического древа как один из примеров повторяющегося набора моделей дисциплины." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "Проект, для которого дисциплина — одно из главных методологических обязательств." },
+    { title = "Карл Юнг", path = "wiki/carl-jung", description = "Основатель архетипической школы прочтения мифа (вместе с Кэмпбеллом); его «Эон» читает эон Рыб." },
+    { title = "Джейн Селлерс", path = "wiki/jane-sellers", description = "Прецессионное прочтение мифа о смерти и воскресении Осириса." },
+    { title = "Сампо", path = "wiki/sampo", description = "Финский Сампо как прибалтийско-финский пример мифемы мировой мельницы." },
+    { title = "Мир за «Одиссеей»", path = "/articles/the-world-behind-the-odyssey/", description = "Греческий пример корпуса — задокументированная передача с Ближнего Востока к Гесиоду и Гомеру, причём прочтение рамки держится отдельно." },
+    { title = "Восточный лик Гомера", path = "/articles/the-east-face-of-homer/", description = "Вторая половина греческого примера: коридор передачи VIII века в подробностях и дисциплина того, что литературное заимствование может и чего не может доказать." },
+    { title = "Дождь над Геликоном", path = "/articles/the-rain-over-helicon/", description = "Методологическая проверка самой дисциплины: критерии, поднимающие параллель выше совпадения, ранжированные по Гесиоду, Гомеру, поэтической дикции и путям контакта." },
+]
 
 [extra.infobox]
-type = "Academic and interpretive discipline studying recurring patterns across geographically and historically separated mythological corpora; one of the corpus's principal methodological commitments"
-disciplinary_origin = "Late eighteenth-century European Romantic engagement with non-Western mythologies; formal disciplinary emergence in the nineteenth century with Friedrich Max Müller's comparative-philological work and James George Frazer's anthropological-comparative work"
-principal_methodological_schools = "Solar-mythology (Müller); anthropological-comparative (Frazer, Tylor, Lang); diffusionist (Bastian, Vienna school, Pan-Babylonianism); trifunctional structuralism (Dumézil); phenomenological-religious (Eliade, Otto, van der Leeuw); archetypal-Jungian (Jung, Neumann, Campbell); structural-anthropological (Lévi-Strauss); cognitive science of religion (Boyer, Atran, Barrett)"
-principal_motif_clusters = "Creation narratives; flood narratives; sky-visitor and culture-bringer traditions; theomachy / war-among-the-gods; divine descent and divine-human hybrids; golden age and ages-of-the-world traditions; dying-and-rising-god pattern; cosmic mountain and world-axis; cosmic tree; descent-to-the-underworld"
-corpus_position = "Comparative Mythology is one of the corpus's principal methodological commitments; the cross-cultural patterns are taken as substantive evidence requiring substantive explanation; the corpus differs from the mainstream contemporary academic discipline's retreat from grand-theoretical engagement"
-corpus_explanatory_framework = "Cross-cultural patterns explained principally by common historical referents in the alliance-contact framework, integrated with the Hamlet's Mill precessional structural framework; the corpus does not require rejecting cognitive-science, diffusionist, or archetypal explanations but treats them as partial explanations that miss the common-referent component"
-distinguished_from = "Comparative religion (broader disciplinary engagement with religious traditions beyond their mythological content); mythography (descriptive cataloguing of mythological content without comparative-theoretical framework); folklore studies (focused on contemporary oral tradition rather than ancient mythological corpora); cognitive science of religion (which engages cross-cultural patterns but explains them through evolved cognitive structures)"
-status_in_framework = "Principal methodological commitment alongside Sendy's Conditions of Coherence, the Biglino Method, the Hamlet's Mill precessional integration, and the broader corpus's disciplined epistemic-pluralism methodology"
+type = "Академическая и интерпретативная дисциплина, изучающая повторяющиеся закономерности в географически и исторически разделённых мифологических корпусах; одна из главных методологических установок корпуса"
+disciplinary_origin = "Обращение европейского романтизма конца XVIII века к незападным мифологиям; формальное становление дисциплины в XIX веке — сравнительно-филологические труды Фридриха Макса Мюллера и антропологически-сравнительные труды Джеймса Джорджа Фрэзера"
+principal_methodological_schools = "Солярная мифология (Мюллер); антропологически-сравнительная (Фрэзер, Тайлор, Лэнг); диффузионистская (Бастиан, венская школа, панвавилонизм); трёхфункциональный структурализм (Дюмезиль); феноменолого-религиоведческая (Элиаде, Отто, ван дер Леув); архетипически-юнгианская (Юнг, Нойманн, Кэмпбелл); структурно-антропологическая (Леви-Стросс); когнитивное религиоведение (Буайе, Атран, Барретт)"
+principal_motif_clusters = "Повествования о творении; повествования о потопе; традиции небесных посетителей и культурных героев; теомахия / война среди богов; божественное нисхождение и богочеловеческие гибриды; традиции золотого века и мировых эпох; мотив умирающего и воскресающего бога; космическая гора и мировая ось; космическое древо; нисхождение в подземный мир"
+corpus_position = "Сравнительная мифология — одна из главных методологических установок корпуса; межкультурные закономерности принимаются как реальные свидетельства, требующие объяснения; корпус расходится с отходом современной дисциплины от больших теоретических построений"
+corpus_explanatory_framework = "Межкультурные закономерности объясняются главным образом общими историческими референтами в рамке контакта с Союзом, интегрированной со структурной прецессионной рамкой «Мельницы Гамлета»; корпус не требует отвергать когнитивные, диффузионистские или архетипические объяснения, но считает их частичными объяснениями, упускающими составляющую общего референта"
+distinguished_from = "Сравнительное религиоведение (более широкое изучение религиозных традиций за пределами их мифологического содержания); мифография (описательная каталогизация мифологического содержания без сравнительно-теоретической рамки); фольклористика (сосредоточенная на современной устной традиции, а не на древних мифологических корпусах); когнитивное религиоведение (работающее с межкультурными закономерностями, но объясняющее их эволюционно сложившимися когнитивными структурами)"
+status_in_framework = "Главная методологическая установка наряду с «Условиями связности» Сенди, методом Бильино, прецессионной интеграцией «Мельницы Гамлета» и дисциплинированной методологией эпистемического плюрализма корпуса в целом"
 +++
 
 **Comparative mythology** is the academic discipline that studies myths from

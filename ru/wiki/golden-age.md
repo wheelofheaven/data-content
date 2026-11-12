@@ -6,26 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the awaited Golden Age", "the Golden Age of civilization", "the earthly paradise", "the Golden Age of interplanetary civilization", "the operational Golden Age"]
+alternative_names = ["ожидаемый Золотой век", "Золотой век цивилизации", "земной рай", "Золотой век межпланетной цивилизации", "the operational Golden Age"]
 timeline = ["age-of-aquarius", "post-aquarius"]
+see_also = [
+    { title = "Макробиология", path = "wiki/macrobiology", description = "Завершённый крупный переход в индивидуальности — человечество, доведённое до целостного глобального организма, прочитанное биологически." },
+    { title = "Апокалипсис", path = "wiki/apocalypse", description = "Момент порогового откровения, который может открыть Золотой век или его катастрофическую альтернативу." },
+    { title = "Эдем", path = "wiki/eden", description = "Изначальная лаборатория, прочитанная как исторический Золотой век, который восстанавливает будущее осуществление." },
+    { title = "Космическая Цепь", path = "wiki/cosmic-chain", description = "Рамка преемственности, внутри которой созревание Золотого века действует как одна из стадий." },
+    { title = "Парадизм", path = "wiki/paradism", description = "Постдефицитная социальная программа, осуществление которой характеризует Золотой век." },
+    { title = "Гениократия", path = "wiki/geniocracy", description = "Модель управления, сформулированная в исходных материалах наряду с Золотым веком." },
+    { title = "Посольство", path = "wiki/embassy", description = "Проект, завершение которого обусловливает успешное прохождение человечеством эпохи Водолея." },
+    { title = "Мельница Гамлета", path = "wiki/hamlets-mill", description = "Низложенный «Владыка Золотого века» — Сатурн, податель мер, — чья разрушенная мельница перемалывает эпохи." },
+    { title = "Мельница, что мелет эпохи", path = "articles/the-mill-that-grinds-the-ages", description = "Золотой век как царство низложенного спящего царя, который должен вернуться, когда прецессионное колесо завершит оборот." },
+    { title = "Облик человечества", path = "articles/the-shape-of-humanity", description = "Статья, представляющая Золотой век как успешное созревание человечества-организма за порогом «одного из ста»." },
+]
 
 [extra.infobox]
-type = "Eschatological-cosmological concept; the operational form of life that becomes available to humanity if it navigates the Aquarian-age threshold successfully"
-principal_corpus_articulation = "Vorilhon's Buddhism section in *Message from the Designers* (the substantial Buddhist-enlightenment metaphor); the substantial soteriological dual-path passage; the seven-characteristics articulation in *timeline.epub*"
-seven_principal_characteristics = "(1) Progressive elimination of material scarcity through nanotechnology and automation; (2) Substantial longevity through biological rejuvenation and computational continuation; (3) Transformation of social and political life through New Commandments implementation; (4) Computational continuation as substantive option; (5) Cultivated cognitive capacities including telepathy; (6) New spirituality appropriate to scientifically mature age; (7) Maturation into creating-civilization status"
-contingent_realization = "Realization is contingent on humanity's collective navigation of the Aquarian-age threshold; not automatic but dependent on cumulative effects of individual choices across the broader population"
-distinguished_from = "The Age of Aquarius (the broader chronological-astronomical period within which Golden Age may emerge); Apocalypse (the threshold-revelation moment); Cyberparadism (the contemporary aesthetic articulation); Cosmic Chain (the broader succession framework); Eden (the originary historical Golden Age)"
-relationship_to_eden = "Eden as the originary historical Golden Age (the alliance laboratory in which early humans lived in environmental-technological harmony); the Aquarian-age Golden Age as recovery and extension of that originary content at planetary civilizational scale"
-parallel_cross_cultural_traditions = "Greek/Roman ages of man (Hesiod, Ovid); Hindu Satya/Treta/Dvapara/Kali yuga framework; Mesoamerican Long Count cycles; Buddhist Maitreya tradition; Norse Ragnarök and post-Ragnarök regeneration; Persian Zoroastrian Frashokereti; Chinese cycle traditions; various indigenous 'great-cleansing/renewal' prophecies"
+type = "Эсхатолого-космологическое понятие; форма жизни, которая становится доступной человечеству, если оно успешно пройдёт порог эпохи Водолея"
+principal_corpus_articulation = "Раздел Ворильона о буддизме в *Послании от Создателей* (метафора буддийского просветления); отрывок о двух путях спасения; изложение семи характеристик в материале хронологии корпуса"
+seven_principal_characteristics = "(1) Устранение материального дефицита благодаря нанотехнологиям и автоматизации; (2) значительное продление жизни благодаря биологическому омоложению и вычислительному продолжению; (3) преобразование общественной и политической жизни через Новые заповеди; (4) вычислительное продолжение как возможность для личной идентичности; (5) развитые познавательные способности, включая телепатию; (6) новая духовность, соответствующая научно зрелой эпохе; (7) созревание до статуса цивилизации-создателя"
+contingent_realization = "Зависит от коллективного прохождения человечеством порога эпохи Водолея; не наступает автоматически, а зависит от совокупного действия индивидуальных выборов широкого населения"
+distinguished_from = "Эпоха Водолея (более широкий астрономический период, в котором может возникнуть Золотой век); Апокалипсис (момент порогового откровения); Киберпарадизм (современное эстетическое выражение); Космическая Цепь (более широкая рамка преемственности); Эдем (изначальный исторический Золотой век)"
+relationship_to_eden = "Эдем как изначальный исторический Золотой век — лаборатория, где первые люди жили в согласии со своими создателями; Золотой век эпохи Водолея как восстановление и расширение этого состояния в масштабе планетарной цивилизации"
+parallel_cross_cultural_traditions = "Греко-римские века человечества (Гесиод, Овидий); индуистский цикл юг — Сатья, Трета, Двапара, Кали; мезоамериканский Долгий счёт; буддийский Майтрейя; скандинавский Рагнарёк и последующее возрождение; персидско-зороастрийское Фрашокерети; китайские циклические традиции; различные пророчества об обновлении у коренных народов"
 contemporary_articulations = "Kurzweil's Singularity; e/acc movement; abundance-economy tradition (Diamandis, Kotler); broader 'Great Awakening' cultural engagement"
-status_in_framework = "Foundational eschatological-cosmological concept; the substantive content of successful Aquarian-age navigation; the cosmic-chain inheritance threshold"
+status_in_framework = "Основополагающее эсхатолого-космологическое понятие; содержание успешного прохождения эпохи Водолея; порог наследования в Космической Цепи"
 +++
 
 **The Golden Age** is, in the Wheel of Heaven framework, the form of life that

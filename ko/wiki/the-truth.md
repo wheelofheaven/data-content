@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,16 +15,24 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["la Vérité (French, the principal Vorilhon designation)", "the truth (lowercase, when referring to the recovered content as such)", "the underlying historical-civilizational reality (corpus-internal expansion)", "the message (in Raëlian source-textual usage)", "*emet* (אֱמֶת, Hebrew)", "*aletheia* (ἀλήθεια, Greek)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "전승", path = "wiki/the-tradition", description = "진리가 수천 년에 걸쳐 전해져 온, 보존된 전승 경로." },
+    { title = "엘로힘", path = "wiki/elohim", description = "그 역사가 진리가 회복하는 구체적 내용인 문명." },
+    { title = "히브리어 성경", path = "wiki/hebrew-bible", description = "어원적 회복이 그 신비화된 어휘를 해독하는 주요 종교 텍스트." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "그 복원 프로젝트가 진리의 회복인 코퍼스." },
+    { title = "카발라", path = "wiki/kabbalah", description = "역사적 내용을 신비화된 형태로 보존한 것으로 읽히는 한 비교 전통." },
+    { title = "세계의 시대", path = "wiki/world-age", description = "진리가 회복하는 역사적 실재를 구조화하는 세차 프레임워크." },
+]
 
 [extra.infobox]
-type = "Foundational concept; the framework's specific designation for the underlying historical-civilizational reality preserved in mystified form across the religious traditions"
-principal_source_anchor = "*Le Livre qui dit la vérité* (*The Book Which Tells the Truth*, 1974) — Vorilhon's foundational source text bearing The Truth in its title"
-framework_definition = "The underlying historical-civilizational reality (the Elohim civilization, its work on Earth across the twelve precessional ages, the broader cosmic-civilizational framework, the various contact moments preserved in the religious traditions) preserved in mystified form across the religious-traditional content of multiple cultures globally; recoverable through systematic etymological-rational engagement with the source-textual material"
-methodological_framework = "Vorilhon's etymological-rational engagement (the substantial 'etymology = science of the truth' move, recovering original meanings of religious vocabulary obscured by mystical overlay); Sendy's four-condition framework for decoding the Hebrew Bible (knowing the Bible, knowing space-flight possibilities, having recent biology / prehistory / history / evolution knowledge, refusing supernatural explanation)"
-distinguished_from = "Mainstream philosophical engagement with truth (correspondence theory, coherence theory, pragmatist theory, deflationary theory — the framework engages truth as specific historical content rather than as philosophical-epistemological category); the broader 'truth-movement' popular framings (operating with substantially different content and substantially different epistemic commitments); novel revelation (the framework explicitly self-positions as restoration rather than novel revelation)"
-self_positioning = "Restoration rather than novel revelation — the reassembly of distinctions the religious traditions preserve and the corpus is making available again after the long centuries during which they had been lost"
-status_in_framework = "Foundational concept; the framework's specific designation for what it recovers; supports the broader integration of religious-traditional, archaeological, scientific, and source-textual content"
-principal_corpus_treatment = "*Le Livre qui dit la vérité* (Vorilhon, 1974) — principal source-textual title-anchor; Sendy's *Ces dieux qui firent le ciel et la terre* (1969) and *L'ère du Verseau* (1970) — principal methodological articulations; the broader corpus subsequent integration"
+type = "*The Book Which Tells the Truth*(1974)의 기초 장. 여러 종교 전통에 신비화된 형태로 보존된, 되찾은 역사적 실재를 가리키는 이 체계의 이름"
+principal_source_anchor = "*Le Livre qui dit la vérité*(*The Book Which Tells the Truth*, 1974), 'The Truth' 장 — 보릴롱의 기초 원전 텍스트"
+framework_definition = "근저에 있는 역사적 실재 — 엘로힘, 세차 시대들에 걸친 그들의 지구 작업, 종교 전통들이 기록한 접촉의 순간들 — 는 보존되었으나 신비화되었고, 원전 텍스트를 어원적·합리적으로 읽음으로써 되찾을 수 있습니다"
+methodological_framework = "'진리의 과학'으로서의 어원학이라는 보릴롱의 방법(종교 어휘의 본래 의미를 되찾음). 히브리어 성경을 읽기 위한 장 상디의 네 조건(성경을 알 것, 우주 비행의 가능성과 한계를 알 것, 현재의 생물학·선사학·역사학·진화론을 갖출 것, '불가해한 것에 의한 설명'을 거부할 것)"
+distinguished_from = "진리가 무엇인지를 분석하는 철학적 진리론(대응설, 정합설, 실용주의, 축소주의)과 구별됩니다. 여기서 '진리'는 인식론적 범주가 아니라 특정한 역사적 내용을 가리킵니다. 대중적 '진실 운동'의 틀과도, 새로운 계시와도 구별되며, 이 체계는 스스로를 복원으로 위치 짓습니다."
+self_positioning = "새로운 계시가 아니라 복원 — 새로운 내용을 받는 것이 아니라 전통들이 보존해 온 것을 다시 짜 맞춤"
+status_in_framework = "기초. 라엘리즘의 원전 텍스트 핵심이자, 코퍼스가 무엇을 되찾는지에 대한 설명"
+principal_corpus_treatment = "*Le Livre qui dit la vérité*(보릴롱, 1974). 방법론에 관해서는 장 상디의 *Ces dieux qui firent le ciel et la terre*(1969)와 *L'ère du Verseau*(1970)"
 +++
 
 **The Truth** (French *la Vérité*; Hebrew אֱמֶת, *emet*) is the opening chapter

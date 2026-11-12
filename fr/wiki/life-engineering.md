@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,24 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "Bioengineering of life", "Living-systems engineering"]
+alternative_names = ["Biologie d'ingénierie", "Biologie de conception", "Biologie constructive", "Bio-ingénierie du vivant", "Ingénierie des systèmes vivants"]
+see_also = [
+    { title = "Boîte à outils de la Genèse", path = "wiki/genesis-toolbox", description = "La synthèse au niveau du programme : l'ingénierie du vivant comme phase centrale de la pile de création du canon." },
+    { title = "Biologie de synthèse", path = "wiki/synthetic-biology", description = "La branche la plus ambitieuse du domaine, le nom disciplinaire courant de ce que le corpus appelle ingénierie du vivant." },
+    { title = "Ingénierie génétique", path = "wiki/genetic-engineering", description = "La sous-discipline fondatrice de lecture, d'écriture et d'édition au sein de l'ingénierie du vivant." },
+    { title = "Génomique de synthèse", path = "wiki/synthetic-genomics", description = "La composante de conception et de synthèse à l'échelle du génome de la capacité humaine émergente." },
+    { title = "Élohim", path = "wiki/elohim", description = "La civilisation dont le cadre lit l'humanité comme approchant de nouveau la capacité de conception du vivant." },
+    { title = "Genèse", path = "wiki/genesis", description = "Le récit de création que le cadre lit comme décrivant les Élohim exerçant cette même capacité." },
+]
 
 [extra.infobox]
-type = "Engineering discipline applied to living systems"
-principal_sub_disciplines = "Genetic engineering; synthetic biology; synthetic genomics; xenobiology"
-adjacent_fields = "Bioinformatics; systems biology; metabolic engineering; protein engineering; directed evolution; cell-free biology; biocomputing; tissue engineering"
-key_capability = "Reading, writing, and editing DNA; designing organisms and biological subsystems at the genetic and molecular level"
-foundational_milestones = "First recombinant DNA (Berg, Boyer, Cohen — 1972–73); first commercial recombinant pharmaceutical (Humulin, 1982); first complete genome sequence (1995); first cell with synthetic genome (JCVI-syn1.0, 2010); first minimal synthetic cell (JCVI-syn3.0, 2016); CRISPR–Cas9 (Doudna and Charpentier, 2012); first CRISPR gene therapy approval (Casgevy, 2023)"
-current_status = "Active and rapidly developing scientific and industrial field; capability expanding by orders of magnitude per decade"
-framework_significance = "The contemporary terrestrial development of the capability the source material attributes to the Elohim civilization; on the framework, the most concrete convergence between source-predicted and observed human development in the Aquarian period"
+type = "Discipline d'ingénierie appliquée aux systèmes vivants"
+principal_sub_disciplines = "Ingénierie génétique ; biologie de synthèse ; génomique de synthèse ; xénobiologie"
+adjacent_fields = "Bio-informatique ; biologie des systèmes ; ingénierie métabolique ; ingénierie des protéines ; évolution dirigée ; biologie acellulaire ; calcul biologique ; ingénierie tissulaire"
+key_capability = "Lire, écrire et éditer l'ADN ; concevoir des organismes et des sous-systèmes biologiques au niveau génétique et moléculaire"
+foundational_milestones = "Premier ADN recombinant (Berg, Boyer, Cohen — 1972–73) ; premier médicament recombinant commercial (Humulin, 1982) ; première séquence complète d'un génome (1995) ; première cellule à génome synthétique (JCVI-syn1.0, 2010) ; première cellule synthétique minimale (JCVI-syn3.0, 2016) ; CRISPR–Cas9 (Doudna et Charpentier, 2012) ; première autorisation d'une thérapie génique CRISPR (Casgevy, 2023)"
+current_status = "Domaine scientifique et industriel actif et en développement rapide ; capacités qui progressent de plusieurs ordres de grandeur par décennie"
+framework_significance = "Le développement terrestre contemporain de la capacité que le matériau source attribue à la civilisation des Élohim ; selon le cadre, la convergence la plus concrète entre le développement humain prédit par la source et celui qui est observé à l'Ère du Verseau"
 +++
 
 **Life engineering** is the application of scientific and engineering methods to the deliberate design and construction of living organisms or biological systems with novel functions, characteristics, or capabilities. It is a contemporary scientific and industrial field, in active development since the early 1970s and expanding rapidly across the 2010s and 2020s. The term is used as an umbrella for several closely related disciplines — most prominently *genetic engineering*, *synthetic biology*, *synthetic genomics*, and *xenobiology* — that share the common project of treating living matter as something that can be designed at the molecular level rather than only observed and described.

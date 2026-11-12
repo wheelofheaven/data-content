@@ -7,9 +7,9 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
-translation_stale = true
+translation_stale = false
 translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.avif"
@@ -20,21 +20,30 @@ category = "Elohim"
 entry_type = "place"
 alternative_names = ["Elohim Home Planet", "the home planet", "the planet of the Elohim", "the planet of the creators", "the planet of the Eternals (per single-planet reading)", "the other world", "the Mormon Kolob (per Tvedtnes hypothesis)"]
 timeline = ["age-of-capricorn", "age-of-aquarius"]
+see_also = [
+    { title = "מועצת הנצחיים", path = "wiki/council-of-the-eternals", description = "הגוף השלטוני היושב על כוכב הבית בתיאור המקור." },
+    { title = "יהוה", path = "wiki/yahweh", description = "נשיא הנצחיים ובן האלמוות הראשון של כוכב הבית." },
+    { title = "השערת האסטרונאוטים הקדמונים", path = "wiki/ancient-astronaut-hypothesis", description = "המסגרת הרחבה שבה ממוקם כוכב בית של יוצרים מחוץ למערכת השמש." },
+    { title = "קבלה", path = "wiki/kabbalah", description = "המסורת שממנה נגזרות מדידות המרחק בפרסאות של כוכב הבית." },
+    { title = "השרשרת הקוסמית", path = "wiki/cosmic-chain", description = "שושלת היוצרים והנבראים המקוננת, שכוכב הבית הוא חוליה אחת בה." },
+    { title = "מבשרים", path = "wiki/forerunners", description = "הציוויליזציה הקודמת שזרעה את שושלת האלוהים, הקודמת לכוכב הבית." },
+    { title = "שישה בקרים, שש שנים", path = "articles/six-mornings-six-years", description = "מוכיח מתוך מסלול המסע שהמסע של 1975 אינו מגיע לעולם זה כלל." },
+]
 
 [extra.infobox]
-type = "Extrasolar planet; political-civilizational center of the Elohim alliance that conducted the genetic-engineering project producing terrestrial life"
-principal_source = "Claude Vorilhon, *Message from the Designers* (Tagman Press, 2005), consolidating *Le Livre qui dit la vérité* (1974), *Les Extra-Terrestres m'ont emmené sur leur planète* (1975), and *Accueillir les Extra-Terrestres* (1979)"
-location_from_home_star = "236,000 parasangs (~70.8 billion kilometers); home star substantially larger than the Sun"
-location_from_earth = "30,000,000 parasangs (~9 trillion kilometers, approximately 1 light-year); subject to the substantial astronomical-inconsistency objection the source itself addresses through deliberate-obfuscation and variable-lightspeed cosmology"
-parasang_unit = "Source-redefined unit: distance light travels in one second (~300,000 kilometers); etymologically borrowed from ancient Persian linear-distance unit but redefined as celestial-distance unit in the source's vocabulary"
-environment = "Mild temperature; lush vegetation with exotic flora; azure seas; agricultural-ecological character described as paradisal"
+type = "כוכב לכת חוץ־שמשי; המרכז הפוליטי והציוויליזציוני של האלוהים, הציוויליזציה שלפי קריאת המסגרת הנדסה את החיים הארציים"
+principal_source = "קלוד וורילון, *Message from the Designers* (Tagman Press, 2005), המאגד את *Le Livre qui dit la vérité* (1974), *Les Extra-Terrestres m'ont emmené sur leur planète* (1975) ו־*Accueillir les Extra-Terrestres* (1979)"
+location_from_home_star = "236,000 פרסות (כ־70.8 מיליארד ק״מ, כ־474 יחידות אסטרונומיות); כוכב הבית מתואר כגדול בהרבה מן השמש"
+location_from_earth = "30,000,000 פרסות (כ־9 טריליון ק״מ, בערך שנת אור אחת) — נתון הסותר מרחקים כוכביים ידועים, והמקור מתמודד עמו באמצעות ערפול מכוון וקוסמולוגיה של מהירות אור משתנה"
+parasang_unit = "יחידה שהמקור מגדיר מחדש כמרחק שהאור עובר בשנייה אחת (כ־300,000 ק״מ); המילה שאולה ממידת מרחק דרכים פרסית עתיקה"
+environment = "טמפרטורה נוחה; צמחייה עשירה וצומח אקזוטי; ימים תכולים; נוף שהמקור מתאר כגן עדן"
 civilization = "~7 billion inhabitants; seven provinces; official language closely resembling ancient Hebrew"
-council_of_eternals = "~700 Elohim members + ~8,400 resurrected humans from Earth; presided by Yahweh (first individual successfully cloned-and-memory-transferred ~25,000 years ago)"
+council_of_eternals = "כ־700 חברים מן האלוהים ועוד כ־8,400 בני אדם שהוקמו לתחייה, בראשות יהוה (הפרט הראשון ששובט וזכרונו הועבר, לפני כ־25,000 שנה)"
 economy = "Post-scarcity; atom-based energy; biological robots performing mechanical labor; intellectual-creative activity as principal human pursuit"
-travel_technology = "Atom-based propulsion at 7× lightspeed at time of Vorilhon contact (1973-1975); journey to Earth ~2 months; subsequent technological advance to substantially shorter journey times"
-relationship_to_planet_of_eternals = "Source content allows two readings: single-planet identification (the home planet IS the Planet of the Eternals) or two-planet system (the Planet of the Eternals is a second smaller planet in the same stellar system); the corpus registers both readings as compatible with the source material"
-distinguished_from = "The intergalactic ship near Earth (Elohim operational base with seven Elohim representatives plus two ship-responsible Elohim); Earth-based Elohim installations (the Andean, Himalayan, Greek, and other regional bases); Mormon Kolob (which may or may not refer to the same entity, per the Tvedtnes hypothesis)"
-status_in_framework = "Principal extraterrestrial location in the corpus framework; the political-civilizational center of the alliance that conducts the Earth project; the residence of the Council of the Eternals; the destination for the resurrected prophets and qualifying humans"
+travel_technology = "הנעה מבוססת אטום במהירות של פי שבעה ממהירות האור; המסע לכדור הארץ ארך כחודשיים בזמן המגע (1973–75), ופחות בהרבה עד 1975"
+relationship_to_planet_of_eternals = "המקור מתיר שתי קריאות: כוכב הבית הוא כוכב הנצחיים (כוכב אחד), או שכוכב הנצחיים הוא עולם שני וקטן יותר באותה מערכת (שני כוכבים). המסגרת רואה בשתיהן קריאות התואמות את המקור."
+distinguished_from = "הספינה הבין־גלקטית המוצבת בקרבת כדור הארץ (צוות של תשעה: שבעה נציגי מחוזות ועוד שני קציני כלי); המתקנים של האלוהים על כדור הארץ (באנדים, בהימלאיה, ביוון ובמקומות נוספים); הקולוב המורמוני, שהקורפוס אינו מזהה עם כוכבם של האלוהים"
+status_in_framework = "המקום החוץ־ארצי העיקרי במסגרת: מושב מועצת הנצחיים ומשכנם של הנביאים שהוקמו לתחייה, והמרכז הפוליטי של הציוויליזציה המנהלת את מיזם כדור הארץ"
 +++
 
 **The Elohim Home Planet** is, in the Wheel of Heaven framework, the extrasolar

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,17 +15,29 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["neo-evhemerism (alternative French spelling)", "neo-Euhemerist interpretation", "the neo-euhemeristic reading", "extraterrestrial euhemerism (occasional descriptive term)", "the ancient astronaut hypothesis (overlapping but not identical)", "paleocontact hypothesis (overlapping but not identical)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "고대 우주비행사 가설", path = "wiki/ancient-astronaut-hypothesis", description = "코퍼스가 스스로를 자각하는 구성원인 더 넓은 해석 전통. 신에우헤메리즘은 그 바탕의 독해 방법입니다." },
+    { title = "엘로힘", path = "wiki/elohim", description = "이 방법이 신성이 아니라 역사적 문명으로 읽는 창세기의 인물들." },
+    { title = "마우로 비글리노", path = "wiki/mauro-biglino", description = "히브리어 성경에 대한 엄격한 번역 중심의 신에우헤메리즘적 독해를 표명하는 현대 인물." },
+    { title = "전승", path = "wiki/the-tradition", description = "같은 신에우헤메리즘적 독해 위에 세워진 상디의 전승 프레임워크." },
+    { title = "히브리어 성경", path = "wiki/hebrew-bible", description = "이 방법이 그 신현들을 보존된 접촉 기억으로 읽는 코퍼스." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "신화를 신에우헤메리즘적으로 읽으면서 세차 천문학으로 그것을 확장하는 프레임워크." },
+    { title = "종교", path = "wiki/religion", description = "이 방법이 실제 접촉의 보존된 기억으로 다루는 신화적 자료." },
+    { title = "오디세이아 뒤의 세계", path = "/articles/the-world-behind-the-odyssey/", description = "이 방법에 대한 범주 대체 반론을 온전한 강도로 진술한 뒤 그리스 신화에 적용하는 해설." },
+    { title = "호메로스의 동쪽 면", path = "/articles/the-east-face-of-homer/", description = "범주 대체 점검을 다니엘의 사자들과 엘로힘 영역에 대한 정경의 독해에 적용하는 짝 해설." },
+    { title = "헬리콘에 내린 비", path = "/articles/the-rain-over-helicon/", description = "범주 대체 반론을 이미 넘은 장애물이 아니라 프레임워크에 대한 살아 있는 제약으로 진술하는 세 번째 그리스 해설." },
+]
 
 [extra.infobox]
-type = "Foundational interpretive-methodological concept; the position that reads religious-mythological gods and divine beings as preserved cultural memory of historical extraterrestrial-civilizational contact"
-classical_origin = "Euhemerism, articulated by Euhemerus of Messene (c. 4th-3rd century BCE) in the *Hiera Anagraphē* (*Sacred Inscription*); read the gods of Greek mythology as deified historical kings and culture-heroes whose memory the religious tradition had elevated to divine status"
-neo_euhemeristic_extension = "The further claim that the historical figures whose memory the gods preserve were not principally human kings but members of a technologically advanced extraterrestrial civilization whose capacities appeared supernatural to pre-scientific observers; produces the interpretive framework within which the religious-mythological content becomes preserved cultural memory of actual historical extraterrestrial-civilizational contact rather than principally symbolic-mythological elaboration"
-framework_relationship = "The Wheel of Heaven framework operates neo-euhemeristically at the methodological-interpretive level while extending substantially beyond simple neo-euhemerism through: integration with precessional astronomy (the doubled-signature principle, the twelve-age architecture); the ongoing-alliance framework (the Elohim as continuing contemporary reality rather than merely historical memory); the substantial source-textual specificity of Vorilhon's contact accounts and Sendy's pre-Raëlian articulations"
-principal_contemporary_articulators = "Erich von Däniken (*Chariots of the Gods?*, 1968); Zecharia Sitchin (*The 12th Planet*, 1976, and the broader Earth Chronicles); Mauro Biglino (the strict-translational Hebrew engagement); Paul Anthony Wallis (*Escaping from Eden*, 2020); Robert Charroux; the broader ancient astronaut hypothesis tradition; the substantial Raëlian Movement engagement"
-distinguished_from = "Classical Euhemerism (which reads gods as deified human historical figures); ancient astronaut hypothesis in its popular media articulations (which frequently operates without the methodological-interpretive specificity neo-euhemerism's classical heritage provides); mainstream comparative-religion engagement (which generally treats religious-mythological content as cultural-symbolic-experiential rather than as preserved historical memory); supernatural-theistic religious traditions (which read the gods as actual supernatural beings rather than as historical figures preserved in mythologized form)"
-mainstream_scholarly_status = "Limited mainstream academic currency for the term 'neo-euhemerism' specifically; mainstream scholarly engagement with the broader interpretive position operates principally through related terminology ('ancient astronaut hypothesis,' 'paleocontact hypothesis'); classical Euhemerism has substantial mainstream scholarly engagement as historical-conceptual category"
-status_in_framework = "Foundational methodological concept; the interpretive-typological category situating the framework's position within broader intellectual history; supports systematic engagement with religious-mythological content across traditions"
-principal_corpus_treatment = "Sendy's substantial articulations (1963-1972) operating neo-euhemeristically across his entire body of work; Vorilhon's contact-account material providing principal source-textual content for neo-euhemeristic reading; the broader corpus integration with precessional astronomy and ongoing-alliance framework"
+type = "신화의 신들과 신적 존재를 실제 역사적 인물에 대한 뒤틀린 문화적 기억으로 읽는 해석 방법 — 근대적 형태에서는 신으로 오인된 고도 문명"
+classical_origin = "에우헤메리즘. 메세네의 에우헤메로스(기원전 약 340–260년)가 *Hiera Anagraphē*(*신성한 비문*)에서 표명했으며, 그리스 신들을 후대 전통이 신적 지위로 높인 역사상의 왕과 은인으로 읽었습니다"
+neo_euhemeristic_extension = "신들 뒤의 역사적 인물을 인간 왕이 아니라, 그 능력 — 비행, 의술, 야금, 무기 — 이 과학 이전의 관찰자에게 초자연적으로 보였던 기술적으로 진보한 문명으로 봅니다"
+framework_relationship = "Wheel of Heaven 체계는 신화를 신에우헤메리즘적으로 읽되, 세차 천문학(이중 서명 원리, 열두 시대 구조), 지속되는 동맹의 틀(엘로힘은 기억만이 아니라 지속되는 실재), 보릴롱과 상디의 특정 원전 텍스트로 그 방법을 확장합니다"
+principal_contemporary_articulators = "장 상디(1963–1972), 에리히 폰 데니켄(*Chariots of the Gods?*, 1968), 제카리아 시친(*The 12th Planet*, 1976), 클로드 보릴롱(라엘)(1974년 이후), 마우로 비글리노, 폴 앤서니 월리스(*Escaping from Eden*, 2020), 로베르 샤루"
+distinguished_from = "고전적 에우헤메리즘(신격화된 인간으로서의 신), 고대 우주인 가설(읽기 방법이 아니라 내용에 관한 주장), 주류 비교종교학(문화적·상징적 현상으로서의 신화), 초자연적 유신론 해석(실제 초자연적 존재로서의 신)"
+mainstream_scholarly_status = "이 용어 자체는 학계에서 거의 통용되지 않습니다. 학계는 근대적 입장을 '고대 우주인' 또는 '고대 접촉' 가설로 다루며 사이비 과학으로 거부합니다. 고전적 에우헤메리즘은 종교사에서 잘 연구된 범주입니다"
+status_in_framework = "기초 방법. 이 체계를 신화를 역사로 읽는 더 긴 역사 속에 위치시키고, 전통 간 비교를 뒷받침하는 해석 범주"
+principal_corpus_treatment = "장 상디의 작업(1963–1972)은 히브리어 성경을 처음부터 끝까지 신에우헤메리즘적으로 읽습니다. 보릴롱의 접촉 기록이 이 체계의 1차 원전 텍스트를 제공하며, 코퍼스는 둘을 세차 천문학 및 지속되는 동맹의 틀과 통합합니다"
 +++
 
 **Neo-Euhemerism** is the interpretive method that reads the gods and divine

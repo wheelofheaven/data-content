@@ -6,28 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the cosmic competition", "the cosmic competition framework", "the inheritance evaluation", "the parallel-humanities framework", "the multiple-worlds creation framework"]
+alternative_names = ["the cosmic competition", "宇宙競爭框架", "繼承評估", "平行人類框架", "多世界創造框架"]
 timeline = ["aries", "pisces", "aquarius"]
+see_also = [
+    { title = "宏觀生物學", path = "wiki/macrobiology", description = "整體的生物學:宇宙競爭提供了行星有機體科學所需的受造人類群體。" },
+    { title = "宇宙鏈", path = "wiki/cosmic-chain", description = "此競爭作為其一次迭代的更廣泛反覆創造模式。" },
+    { title = "耶穌", path = "wiki/jesus", description = "其撒種的比喻被文集讀作明確闡述平行人類框架的人。" },
+    { title = "啟示", path = "wiki/apocalypse", description = "有別於此框架所描述之繼承評估的更廣泛揭開事件。" },
+    { title = "大洪水", path = "wiki/great-flood", description = "聯盟評估地球人類時一次先前的門檻失敗時刻。" },
+    { title = "大使館", path = "wiki/embassy", description = "其建成標誌著地球取得繼承資格的接待場所。" },
+    { title = "人類的形狀", path = "articles/the-shape-of-humanity", description = "此解說文將多重人類框架建構成一門提議中的科學——文明形態學——把地球讀作眾多樣本之一。" },
+]
 
 [extra.infobox]
-type = "Framework concept; corpus-internal interpretive construction integrating multiple Raëlian source-material gestures into a systematic account of the cosmic-political situation"
-basic_premise = "Multiple humanities created by the Elohim alliance on multiple worlds; each evaluated against the standard required for inheritance (moral and scientific maturity)"
+type = "框架概念；本文集內部的詮釋建構，將雷爾派源典中的多處提示整合為對宇宙政治處境的系統性記述"
+basic_premise = "耶洛因聯盟在多個世界上創造了多個人類；每一個都依據繼承所需的標準（道德與科學的成熟）接受評估"
 character = "Non-adversarial; evaluation rather than zero-sum conflict; multiple humanities can potentially qualify simultaneously"
-known_creations = "Three surviving humanities (per the parable-of-the-sower reading); Earth is one; two others on planets 'relatively near'; one previous attempt failed and produced a plant-only world that still exists"
-qualification_categories = "Moral maturity; scientific maturity; political maturity"
-operational_origin = "The Aries-age discovery (c. 2,160–1,200 BCE) that the Elohim themselves had been created, producing the policy shift from direct to indirect contact"
-explicit_articulation = "Jesus's parable of the sower (Matthew 13:3-9, c. 30 CE); March 14, 1978 telepathic message to Raël"
-current_phase = "Aquarian-age operational evaluation; the inheritance-threshold becoming determinable across the present decades"
-distinguished_from = "The Cosmic Chain (the broader recurring pattern); the Earth project specifically (the alliance's specific Earth-side operations); the Aquarian-age opening (the specific present phase); the Apocalypse (the broader unveiling event)"
-principal_text = "Matthew 13:3-9 (parable of the sower); Matthew 13:18-30 (Jesus's interpretation); Matthew 6:10 (the Lord's Prayer's central petition)"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), 'Parallel Humanities'; *Message of the Elohim* (March 14, 1978), preserved in *Extra-Terrestrials Took Me to Their Planet*"
+known_creations = "三個存續的人類（依撒種比喻的解讀）；地球是其中之一；另外兩個位於「相對鄰近」的行星上；先前一次嘗試失敗，產生了一個至今仍存在、只有植物的世界"
+qualification_categories = "道德成熟；科學成熟；政治成熟"
+operational_origin = "白羊座時代（約公元前 2,160–1,200 年）的發現：耶洛因自身也是被創造的，由此導致政策從直接接觸轉向間接接觸"
+explicit_articulation = "耶穌的撒種比喻（馬太福音 13:3-9，約西元 30 年）"
+current_phase = "水瓶座時代的實際評估；繼承門檻將在當前數十年間變得可以判定"
+distinguished_from = "宇宙鏈（更廣的反覆模式）；具體的地球計畫（聯盟在地球一方的具體運作）；水瓶座時代的開啟（具體的當前階段）；啟示（更廣的揭露事件）"
+principal_text = "馬太福音 13:3–9（撒種的比喻）；馬太福音 13:18–30（耶穌的解釋）；馬太福音 6:10（主禱文的核心祈求）"
+principal_framework_source = "《訴說真相之書》（沃里隆／雷爾，1974），〈平行的人類〉"
 +++
 
 **Cosmic Competition** is the framework concept developed in the Wheel of Heaven corpus to organize the Raëlian source material's account of the broader cosmological situation in which Earth's humanity exists. {% claim(type="framework", id="woh-claim-0047") %}The framework reads Earth's humanity as one of multiple humanities created by the Elohim alliance on multiple worlds in our galactic neighborhood, with each humanity being evaluated against the standard of moral and scientific maturity required for **inheritance** — for receiving the alliance's accumulated knowledge and becoming the next link in the cosmic chain of creation.{% end %} The framework integrates several distinct strands of source material into a systematic account: the parable-of-the-sower passage of *The Book Which Tells the Truth* (1974), in which Jesus's parable is read as the explicit articulation of the multiple-humanities framework; the Aries-age discovery material concerning the Elohim's recognition that they themselves had been created within the same broader pattern; and the broader Aquarian-age inheritance-threshold material concerning the specific qualifications humanity must demonstrate.

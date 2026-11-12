@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,17 +15,25 @@ category = "Methodology"
 entry_type = "concept"
 alternative_names = ["Ancient Astronaut Hypothesis", "Ancient Astronaut Theory", "Ancient Aliens hypothesis", "paleocontact hypothesis", "extraterrestrial-intervention hypothesis", "ancient-extraterrestrial-hypothesis"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "La principal figura anterior a Vorilhon cuyo marco integra el corpus en su versión de la hipótesis." },
+    { title = "Neo-euhemerismo", path = "wiki/neo-euhemerism", description = "El método interpretativo que subyace a la lectura del corpus del testimonio antiguo como registro distorsionado de contactos." },
+    { title = "Mauro Biglino", path = "wiki/mauro-biglino", description = "Trabajo textual y filológico contemporáneo considerado metodológicamente más próximo a la disciplina del corpus que el de los divulgadores." },
+    { title = "Mensaje de los Diseñadores", path = "wiki/message-from-the-designers", description = "La revelación directa de Vorilhon que fundamenta el corpus, en lugar de la interpretación especulativa de pruebas antiguas." },
+    { title = "La Tradición", path = "wiki/the-tradition", description = "El término del corpus para el registro de contactos transmitido que la hipótesis lee a través de las culturas antiguas." },
+    { title = "Precursores", path = "wiki/forerunners", description = "Los autores anteriores que anticiparon la hipótesis antes de su divulgación en el siglo XX." },
+]
 
 [extra.infobox]
-type = "Interpretive tradition / methodological category proposing extraterrestrial influence on prehistoric and ancient human development"
-principal_period = "Modern formulation: 1950s-present; broader antecedents in late nineteenth-century occult tradition and earlier speculative engagement"
-core_proposition = "Extraterrestrial beings visited Earth in prehistoric or ancient past and influenced human cultural, religious, and technological development"
+type = "Tradición interpretativa / categoría metodológica que propone una influencia extraterrestre en el desarrollo humano prehistórico y antiguo"
+principal_period = "Formulación moderna: desde la década de 1950 hasta hoy; antecedentes más amplios en la tradición ocultista de finales del siglo XIX y en especulaciones anteriores"
+core_proposition = "Seres extraterrestres visitaron la Tierra en el pasado prehistórico o antiguo e influyeron en el desarrollo cultural, religioso y tecnológico de la humanidad"
 candidate_evidence = "Anomalous ancient monuments; cross-cultural mythological motifs of sky-descending beings; sophisticated pre-modern astronomical knowledge; religious-textual content involving celestial encounters; structural similarities across global mythologies"
-principal_proponents = "Erich von Däniken (popularizer); Zecharia Sitchin (Sumerian-Anunnaki framework); Jean Sendy (principal corpus-influence figure); Mauro Biglino (contemporary textual-philological engagement); Paul Anthony Wallis; Robert Temple; Robert Charroux; David Hatcher Childress; Giorgio Tsoukalos; Lloyd Pye; others"
-mainstream_status = "Rejected as pseudoscience by mainstream archaeology, history of religion, and skeptical scholarship; principal academic-skeptical engagement in Feder, Colavito, others"
-corpus_positioning = "Wheel of Heaven framework operates within broader tradition while diverging methodologically: Vorilhon source-textual grounding rather than speculative interpretation; Sendy-Vorilhon synthesis; Hamlet's Mill precessional framework integration; disciplined epistemic-pluralism methodology"
-distinguished_from = "Mainstream archaeology and history of religion (which treats human cultural development as autonomous); UFO contactee tradition narrowly (which focuses on contemporary contact rather than ancient); science fiction (which is explicitly fictional); various occult and esoteric traditions (which operate within different theoretical frameworks)"
-status_in_framework = "Broader interpretive tradition within which corpus operates; corpus is identifiably a member of the family while differing methodologically; substantive subject-matter category for understanding corpus's place in contemporary intellectual landscape"
+principal_proponents = "Erich von Däniken (divulgador); Zecharia Sitchin (marco sumerio de los anunnaki); Jean Sendy (principal figura de influencia en el corpus); Mauro Biglino (trabajo textual-filológico contemporáneo); Paul Anthony Wallis; Robert Temple; Robert Charroux; David Hatcher Childress; Giorgio Tsoukalos; Lloyd Pye; otros"
+mainstream_status = "Rechazada como pseudociencia por la arqueología convencional, la historia de las religiones y la erudición escéptica; principales respuestas académico-escépticas en Feder, Colavito y otros"
+corpus_positioning = "El marco de Wheel of Heaven opera dentro de la tradición más amplia, pero diverge en el método: anclaje en los textos fuente de Vorilhon en lugar de interpretación especulativa; síntesis Sendy-Vorilhon; integración del marco precesional de *El molino de Hamlet*; metodología disciplinada de pluralismo epistémico"
+distinguished_from = "La arqueología y la historia de las religiones convencionales (que tratan el desarrollo cultural humano como autónomo); la tradición de los contactados ovni en sentido estricto (centrada en el contacto contemporáneo y no en el antiguo); la ciencia ficción (explícitamente ficticia); diversas tradiciones ocultistas y esotéricas (que operan dentro de otros marcos teóricos)"
+status_in_framework = "La tradición interpretativa amplia dentro de la cual opera el corpus; el corpus es un miembro consciente de esa familia que se diferencia de ella en método y contenido; una categoría clave para situar el marco en el panorama intelectual contemporáneo"
 +++
 
 **The ancient astronaut hypothesis** — also called the paleocontact hypothesis,

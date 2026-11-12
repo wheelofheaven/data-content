@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,19 +16,27 @@ editorial_pass = "2026-05"
 entry_type = "event/period"
 alternative_names = ["the Tower of Babel", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (Akkadian: 'gate of the god')", "the Babel project", "the Babel event", "the Tower-of-Babel intervention", "the Confounding of Tongues", "the Confusion of Languages"]
 timeline = ["gemini"]
+see_also = [
+    { title = "המבול", path = "wiki/great-flood", description = "האתחול הקודם של המועצה; בבל היא ההתערבות הבאה נגד התקדמות אנושית מחודשת." },
+    { title = "ברית נח", path = "wiki/noahic-covenant", description = "ההסכם הפרטי שלאחר המבול, שבבל חושפת את אופיו המקומי." },
+    { title = "סדום ועמורה", path = "wiki/sodom-and-gomorrah", description = "המכה המאוחרת יותר, המובחנת מבבל כדיכוי מרד ולא כדחיית פיוס." },
+    { title = "תאומכיה", path = "wiki/theomachy", description = "הקונפליקט הפוליטי הרחב בין האלוהים, שהתערבות בבל שייכת לו." },
+    { title = "יהוה", path = "wiki/yahweh", description = "אומר את לשון הרבים ״הבה נרדה״ המציתה את פיזור בבל." },
+    { title = "הברית", path = "wiki/the-alliance", description = "הגוף הבין־ציוויליזציוני שמגדל בבל היה מנחת השלום שלו." },
+]
 
 [extra.infobox]
-type = "Multi-component narrative event; the post-flood collaborative space-program reconciliation attempt and the Council intervention that ended it"
-chronology = "Late Age of Gemini (c. 6,690 BCE forward on the corpus's compressed timeline); after the Great Flood and the post-flood covenant; before the long Taurus-age quiet that preceded the Sodom and Gomorrah strike"
-location = "The land of Shinar (biblical) corresponding to ancient Sumer in the alluvial plains of the lower Tigris and Euphrates rivers; the principal site corresponds to the broader Babylon-Babel area of southern Mesopotamia"
-participants = "The post-flood Eden-lineage human population (the 'people of Israel' in the source's framing, designating the Eden-lineage genealogical line rather than the later geographical-political Israel); the exiled Serpentine-faction creators (the Lucifer-faction Eloha exiles); the home-world Council of the Eternals (the intervening party)"
-purpose_of_the_tower = "Peace-offering / diplomatic-reconciliation attempt: the alliance's strategic effort to argue the human creation's case before the Council by sending a delegation of human partners to the home world to demonstrate the human creation's intelligence, peacefulness, and gratitude — and to secure formal pardon for the alliance and the broader human creation"
-technological_character = "Substantial interstellar-capable spacecraft (the source's 'enormous rocket' framing); on the corpus's reading, the second-generation craft following first-generation interplanetary craft, with the Tower itself being either the spacecraft or the launch-facility for one"
-council_intervention = "Multi-component intervention: (1) targeted dispersion of the scientific elite across the post-flood continents; (2) destruction of all the research materials and scientific instruments; (3) fragmentation of the unified post-flood language into mutually incomprehensible variants; (4) effective termination of the broader space-program collaboration"
-operational_consequence = "The transformation of the Serpentine faction from peaceful dissidents seeking reconciliation into active rebels; the long quiet across most of the Age of Taurus before the subsequent Sodom rebellion attempt"
-distinguished_from = "The Great Flood (the chronologically prior Gemini-age destruction event); the Sodom and Gomorrah strike (the chronologically subsequent Taurus-age destruction event with substantively different operational character — military strike against rebellion rather than dispersion against reconciliation); the broader Theomachy multi-age narrative (within which the Babel intervention is one specific phase); the various conventional interpretations of Babel as defiance project (the framework's distinctive contribution is the peace-offering reading)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in 'The Tower of Babel' section of *The Book Which Tells the Truth* establishes the framework's specific content with explicit articulation"
-principal_text = "*The Book Which Tells the Truth* (1974), 'The Tower of Babel' section (the principal Yahweh passage); *timeline.epub* Age of Gemini chapter, Section XII (the substantial subsequent corpus articulation with detailed Hebrew exegesis, Sumerian-Enmerkar parallel, and broader narrative-arc context)"
+type = "אירוע סיפורי שלאחר המבול; מיזם חלל משותף לבני אדם ולסיעת היוצרים הגולה, הנקרא כניסיון פיוס, והתערבות מועצת כוכב הבית שסיימה אותו"
+chronology = "סוף עידן התאומים (בערך 6,690 לפנה״ס ואילך בכרונולוגיה של הקורפוס); אחרי המבול הגדול וברית נח; לפני השקט הארוך של עידן השור שקדם למכה על סדום ועמורה"
+location = "ארץ שנער (המקראית) — שומר העתיקה, במישור הסחף של הפרת והחידקל התחתונים; האתר העיקרי תואם את אזור בבל שבדרום מסופוטמיה"
+participants = "בני האדם משושלת עדן שלאחר המבול ('עם ישראל' של המקור, האוכלוסייה שבאמצעות זיווגי בני האלוהים עם בנות האדם הפכה לעם היהודי); סיעת לוציפר הגולה של היוצרים; מועצת הנצחיים של כוכב הבית (הצד המתערב)"
+purpose_of_the_tower = "מנחת שלום: ניסיון הברית לטעון לטובת הבריאה האנושית בפני המועצה על ידי שליחת משלחת של בני אדם לכוכב הבית כדי להראות שהם נבונים, שוחרי שלום ואסירי תודה — ולזכות בחנינה"
+technological_character = "חללית בעלת יכולת בין־כוכבית ('הרקטה העצומה' של המקור); לפי קריאת הקורפוס, כלי מדור שני שבא אחרי כלים בין־פלנטריים מוקדמים יותר, כשהמגדל הוא הכלי עצמו או מתקן השיגור שלו"
+council_intervention = "(1) פיזור העילית המדעית על פני היבשות שלאחר המבול; (2) השמדת חומרי המחקר והמכשירים; (3) פיצול השפה האחת ללשונות שאינן מובנות זו לזו; (4) סיום תוכנית החלל"
+consequence = "סיעת לוציפר הגולה עוברת מהתנגדות שוחרת שלום למרד גלוי; שקט ארוך לאורך רוב עידן השור לפני המרד בסדום"
+distinguished_from = "המבול הגדול (המכה המוקדמת יותר של עידן התאומים); המכה על סדום ועמורה (המאוחרת יותר, של עידן השור — מכה צבאית נגד מרד, לא פיזור נגד פיוס); התאומכיה הרחבה (שבבל היא שלב אחד בה); והקריאה המקובלת של בבל כהתרסה (המסגרת קוראת אותה כמנחת שלום)"
+status_in_source_material = "מתועד היטב; קטע יהוה בפרק 'מגדל בבל' ב־*הספר המגלה את האמת* מציג את תוכן הליבה של המסגרת במפורש"
+principal_text = "*הספר המגלה את האמת* (1974), הפרק 'מגדל בבל' (קטע יהוה העיקרי); מפותח בחומר הקורפוס על עידן התאומים עם פרשנות עברית, ההקבלה לאנמרכר והקשר הקשת הסיפורית הרחבה"
 +++
 
 **Babel** (Hebrew: בָּבֶל, *Bavel*) is the Tower of Babel episode of

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,28 @@ category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["mytheme", "mythological motif (broader usage)", "narrative element (broader usage)", "mythème (French original)", "Mythem (German)", "mitema (Italian, Spanish)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Mitología comparada", path = "wiki/comparative-mythology", description = "El campo disciplinar más amplio dentro del cual el mitema es una herramienta analítica." },
+    { title = "Teomaquia", path = "wiki/theomachy", description = "Uno de los conjuntos de motivos interculturales recurrentes que el corpus analiza como mitema." },
+    { title = "Arca de Noé", path = "wiki/noahs-ark", description = "Una instancia del mitema del diluvio, uno de los principales conjuntos de motivos del corpus." },
+    { title = "Hipótesis de los antiguos astronautas", path = "wiki/ancient-astronaut-hypothesis", description = "La explicación histórica preferida por el corpus para los motivos interculturales recurrentes." },
+    { title = "Árbol del conocimiento del bien y del mal", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "Un motivo del Génesis leído como historia comprimida dentro del trabajo sobre los mitemas." },
+    { title = "Antiguos Constructores", path = "wiki/ancient-builders", description = "Los protagonistas de los motivos de megalitos y construcción que el corpus lee a través de las tradiciones." },
+    { title = "El mundo tras la Odisea", path = "/articles/the-world-behind-the-odyssey/", description = "Un Explicativo que rastrea los mitemas de la transferencia de conocimiento y de la sucesión desde la Odisea hacia atrás, a través de Anatolia y Mesopotamia." },
+    { title = "El rostro oriental de Homero", path = "/articles/the-east-face-of-homer/", description = "El Explicativo complementario sobre cómo viajan las formas narrativas mientras los héroes no lo hacen: la relación entre Gilgamesh y Odiseo como caso modelo de transmisión de mitemas." },
+]
 
 [extra.infobox]
-type = "Technical analytical unit in Claude Lévi-Strauss's structural-anthropological method for the study of myth; also broader popular term for recurring cross-cultural mythological motifs"
-coined_by = "Claude Lévi-Strauss (1908-2009), French structural anthropologist"
-principal_articulation = "Lévi-Strauss, 'The Structural Study of Myth' (*Journal of American Folklore*, 1955), incorporated into *Structural Anthropology* (1958); developed across *Mythologiques* (4 vols., 1964-1971)"
-linguistic_analogy = "Mytheme : myth :: phoneme : language; the mytheme is the relational unit, not the isolated content"
-principal_methodology = "Cross-variant analysis: collecting multiple variants of a myth across cultural settings, identifying the recurring relational elements (mythemes), and arranging them in columns to reveal the underlying structural relations (typically binary oppositions and their mediations)"
-canonical_example = "The Oedipus myth analyzed in 'The Structural Study of Myth' through four columns: (1) overrated kinship relations; (2) underrated kinship relations; (3) denial of the autochthonous origin of man; (4) persistence of the autochthonous origin of man"
-broader_popular_usage = "Any recurring narrative element — motif, character type, narrative pattern — appearing across multiple cultures; substantially interchangeable with 'mythological motif' in this usage"
-corpus_position = "Engages both strict Lévi-Straussian sense and broader popular sense; corpus's methodological commitment is to cross-cultural pattern recognition rather than to any single methodological school; the mytheme concept is one tool among several within the broader Comparative Mythology engagement"
-distinguished_from = "Motif (the broader Stith Thompson cataloguing concept); tale-type (the Aarne-Thompson-Uther narrative-type concept); archetype (the Jungian psychological-pattern concept); narrative function (the Proppian narrative-structural concept); narreme (Eugene Dorfman's parallel narratological concept)"
-status_in_framework = "Methodological technical term within the broader Comparative Mythology engagement; cross-referenced to the [Comparative Mythology](../comparative-mythology/) entry for the broader disciplinary engagement"
+type = "Unidad analítica técnica del método antropológico-estructural de Claude Lévi-Strauss para el estudio del mito; también término popular más amplio para los motivos mitológicos interculturales recurrentes"
+coined_by = "Claude Lévi-Strauss (1908-2009), antropólogo estructuralista francés"
+principal_articulation = "Lévi-Strauss, «The Structural Study of Myth» (*Journal of American Folklore*, 1955), incorporado a *Antropología estructural* (1958); desarrollado a lo largo de *Mitológicas* (4 vols., 1964-1971)"
+linguistic_analogy = "Mitema : mito :: fonema : lengua; el mitema es la unidad relacional, no el contenido aislado"
+principal_methodology = "Análisis entre variantes: reunir múltiples variantes de un mito en distintos contextos culturales, identificar los elementos relacionales recurrentes (mitemas) y disponerlos en columnas para revelar las relaciones estructurales subyacentes (por lo general oposiciones binarias y sus mediaciones)"
+canonical_example = "El mito de Edipo, analizado en «The Structural Study of Myth» en cuatro columnas: (1) relaciones de parentesco sobrevaloradas; (2) relaciones de parentesco infravaloradas; (3) negación del origen autóctono del hombre; (4) persistencia del origen autóctono del hombre"
+broader_popular_usage = "Cualquier elemento narrativo recurrente (motivo, tipo de personaje, patrón narrativo) que aparece en múltiples culturas; en este uso, prácticamente intercambiable con «motivo mitológico»"
+corpus_position = "Trabaja tanto con el sentido estrictamente levistraussiano como con el sentido popular más amplio; el compromiso metodológico del corpus es con el reconocimiento de patrones interculturales y no con una escuela metodológica concreta; el concepto de mitema es una herramienta entre varias dentro del trabajo más amplio de Mitología comparada"
+distinguished_from = "El motivo (el concepto de catalogación más amplio de Stith Thompson); el tipo de cuento (el concepto de tipo narrativo de Aarne-Thompson-Uther); el arquetipo (el concepto junguiano de patrón psicológico); la función narrativa (el concepto narrativo-estructural de Propp); el narrema (el concepto narratológico paralelo de Eugene Dorfman)"
+status_in_framework = "Término técnico metodológico dentro del trabajo más amplio de Mitología comparada; con referencia cruzada a la entrada [Mitología comparada](../comparative-mythology/) para el trabajo disciplinar más amplio"
 +++
 
 **Mytheme** is, in its strict technical sense, the principal analytical unit of **Claude Lévi-Strauss**'s structural-anthropological method for the study of myth. Lévi-Strauss articulated the concept principally in "The Structural Study of Myth" (*Journal of American Folklore*, 1955; subsequently incorporated as chapter eleven of *Structural Anthropology*, 1958) and developed it across the four-volume *Mythologiques* (1964-1971).

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,20 +16,27 @@ entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
 alternative_names = ["Eliyyahu", "Eliyahu", "Elias", "Ilyas", "Elijah the Tishbite", "Elijah the Messenger"]
+see_also = [
+    { title = "Mose", path = "wiki/moses", description = "Die frühere Gestalt der Theophanie am Horeb, deren Kontaktpräzedenz die Elija-Erzählung bewusst aufgreift." },
+    { title = "Hesekiel", path = "wiki/ezekiel", description = "Dessen Merkawa-Vision der einzige Bericht der Hebräischen Bibel über ein Luftfahrzeug ist, der deutlicher ist als Elijas Wagen." },
+    { title = "Liste der Kontaktfälle", path = "wiki/list-of-close-encounters", description = "Verzeichnet die Himmelfahrt im Feuerwagen unter „Entführung Elijas“, um 850 v. Chr." },
+    { title = "Jahwe", path = "wiki/yahweh", description = "Der Präsident der Elohim, dessen Namen Elijas theophorer Name gegen den Baalskult bekennt." },
+    { title = "Elohim", path = "wiki/elohim", description = "Die Zivilisation, deren unmittelbaren Kontakt der Rahmen hinter Elijas Wagen und den Theophanie-Episoden liest." }
+]
 
 [extra.infobox]
-type = "Hebrew prophet"
+type = "Hebräischer Prophet"
 hebrew = "<span class=\"hebrew\">אֵלִיָּהוּ</span> *Eliyyahu*"
-period = "Mid-9th century BCE, during the reign of King Ahab of Israel (c. 874–853 BCE)"
-precessional_age = "Age of Aries (the corpus's reckoning places the Mosaic and Hebrew prophetic period within the Age of Aries, c. 2065 BCE through 95 BCE)"
-homeland = "Tishbe in Gilead (east of the Jordan River, in the territory of the half-tribe of Manasseh)"
-principal_biblical_sources = "1 Kings 17–19, 21; 2 Kings 1–2"
-key_episodes = "The drought prophecy against Ahab; the brook Cherith; the widow of Zarephath (raising of her son); Mount Carmel contest with the prophets of Baal; Horeb theophany (\"still small voice\"); Naboth's vineyard; the destruction of the captains and their fifties; the translation in the chariot of fire; the transfer of the mantle to Elisha"
-ascension = "2 Kings 2:11 — taken up to heaven in a whirlwind, with a chariot of fire and horses of fire separating him from Elisha"
-return_prophecy = "Malachi 4:5 — \"I will send you the prophet Elijah before the great and terrible day of YHWH\""
-new_testament_identification = "Matthew 11:14, 17:10–13 — John the Baptist identified as \"Elijah who is to come\"; Matthew 17:1–8 — Elijah appears with Moses at the Transfiguration"
-later_tradition = "Cup of Elijah at the Passover seder; chair of Elijah at every brit milah; identified with al-Khidr in Islamic tradition; the Carmelite Catholic order traces its origin to the prophets of Mount Carmel"
-framework_significance = "Multiple operational contact events documented in the Elijah narratives, including the chariot-of-fire translation (the most explicit aerial-craft account in the Hebrew Bible after Ezekiel 1), the Horeb theophany, the Mount Carmel intervention, and the angel-feeding episode at Horeb"
+period = "Mitte des 9. Jahrhunderts v. Chr., während der Herrschaft König Ahabs von Israel (ca. 874–853 v. Chr.)"
+precessional_age = "Zeitalter des Widders (die Rechnung des Korpus legt die mosaische und hebräisch-prophetische Periode in das Zeitalter des Widders, ca. 2065 v. Chr. bis 95 v. Chr.)"
+homeland = "Tischbe in Gilead (östlich des Jordan, im Gebiet des halben Stammes Manasse)"
+principal_biblical_sources = "1 Könige 17–19, 21; 2 Könige 1–2"
+key_episodes = "Die Dürreprophezeiung gegen Ahab; der Bach Krit; die Witwe von Sarepta (Auferweckung ihres Sohnes); der Wettstreit auf dem Karmel mit den Propheten Baals; die Theophanie am Horeb („stilles, sanftes Sausen“); Nabots Weinberg; die Vernichtung der Hauptleute und ihrer Fünfzig; die Entrückung im feurigen Wagen; die Übergabe des Mantels an Elisa"
+ascension = "2 Könige 2,11 — in einem Wirbelsturm in den Himmel aufgenommen, während ein feuriger Wagen mit feurigen Pferden ihn von Elisa trennte"
+return_prophecy = "Maleachi 4,5 — „Ich will euch senden den Propheten Elia, ehe der große und schreckliche Tag JHWHs kommt“"
+new_testament_identification = "Matthäus 11,14; 17,10–13 — Johannes der Täufer wird als „Elia, der da kommen soll“ identifiziert; Matthäus 17,1–8 — Elia erscheint mit Mose bei der Verklärung"
+later_tradition = "Der Becher des Elia beim Pessach-Seder; der Stuhl des Elia bei jeder Brit Mila; in der islamischen Tradition mit al-Chidr identifiziert; der katholische Karmeliterorden führt seinen Ursprung auf die Propheten des Karmel zurück"
+framework_significance = "Mehrere operative Kontaktereignisse in den Elia-Erzählungen, darunter die Entrückung im feurigen Wagen (der deutlichste Bericht über ein Fluggerät in der Hebräischen Bibel nach Hesekiel 1), die Theophanie am Horeb, das Eingreifen auf dem Karmel und die Speisung durch den Engel am Horeb"
 +++
 
 **Elijah** (Hebrew <span class="hebrew">אֵלִיָּהוּ</span>, *Eliyyahu*, conventionally Latinised as *Elias*; Arabic *Ilyās*) is one of the most theologically significant prophets of the Hebrew Bible. Active in the northern Kingdom of Israel during the reign of **King Ahab** (c. 874–853 BCE) and his son Ahaziah (c. 853–852 BCE), Elijah is depicted in 1 Kings 17–19 and 21 and in 2 Kings 1–2 as the principal prophetic opponent of Ahab's Tyrian queen **Jezebel** and her promotion of the Baal cult in northern Israel. He is best known for the **Mount Carmel contest** against the prophets of Baal (1 Kings 18), the **Horeb theophany** of the "still small voice" (1 Kings 19), and his **translation into the heavens in a chariot of fire** (2 Kings 2:11) — the latter making Elijah, alongside Enoch (Genesis 5:24), one of only two figures in the Hebrew Bible whom the canonical text describes as having been taken up without experiencing death. Elijah is also the figure whose prophesied return (Malachi 4:5) became central to subsequent Jewish messianic expectation and whom the New Testament Gospels identify with John the Baptist (Matthew 11:14, 17:10–13).

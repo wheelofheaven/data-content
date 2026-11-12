@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -15,21 +15,33 @@ editorial_pass = "2026-05"
 entry_type = "event/period"
 alternative_names = ["Serpentine Rebellion", "the War in Heaven", "the Battle of the Gods", "the First War", "the Cosmic Conflict", "the War of the Serpent", "the Lucifer-Council Conflict"]
 timeline = ["cancer", "gemini", "taurus"]
+see_also = [
+    { title = "Lucifer", path = "wiki/lucifer", description = "El líder de la facción de creadores exiliados cuya revelación en el Edén desencadena el conflicto." },
+    { title = "Serpiente", path = "wiki/serpent", description = "El vocabulario del najash con el que la Biblia Hebrea conserva la memoria del conflicto." },
+    { title = "Gran Diluvio", path = "wiki/great-flood", description = "El acontecimiento destructivo de la era de Géminis que se inscribe en la guerra más amplia." },
+    { title = "Edén", path = "wiki/eden", description = "El escenario de la revelación del conocimiento prohibido con la que comienza el conflicto." },
+    { title = "Babel", path = "wiki/babel", description = "Una intervención del Consejo contra el proyecto humano posterior al diluvio durante el mismo conflicto." },
+    { title = "Dragones", path = "wiki/dragons", description = "La imagen del tannín que el corpus lee como los creadores exiliados perseguidos." },
+    { title = "El mundo tras la Odisea", path = "/articles/the-world-behind-the-odyssey/", description = "El Explicativo que excava los estratos griegos del patrón —Homero, Hesíodo y los mitos anatolios de sucesión— antes de la lectura del marco." },
+    { title = "El rostro oriental de Homero", path = "/articles/the-east-face-of-homer/", description = "El Explicativo complementario que sigue los estratos del patrón hacia el este, hasta Mesopotamia: el corredor de transmisión documentado y la lectura del canon que sitúa a Grecia dentro de la esfera elohímica." },
+    { title = "La lluvia sobre el Helicón", path = "/articles/the-rain-over-helicon/", description = "El tercer Explicativo griego, que examina el método comparativo de M. L. West: por qué la familia del combate divino se mantiene unida históricamente mientras sus miembros conservan sus diferencias." },
+    { title = "La curva del dragón", path = "/articles/the-dragon-curve/", description = "El Explicativo sobre los tannín de Génesis 1:21 y el vocabulario de serpientes, dragones y monstruos marinos de los mitos de combate, leído a la luz del primer Mensaje." },
+]
 
 [extra.infobox]
-type = "Multi-age narrative event; political-military conflict between the Elohim home-world Council and the exiled-creator-and-human alliance on Earth"
-beginning = "Late Age of Cancer (c. 9,300-9,200 BCE on the corpus's compressed timeline); Lucifer's disclosure of forbidden knowledge to Adam and Eve in Eden; the political condemnation and exile to Earth"
-open_military_phase = "Late Age of Gemini (c. 6,690 BCE forward); Council military action against the Serpentine faction in multiple theaters (orbital combat, surface engagements, possibly elsewhere in the solar system)"
-resolution = "Early Age of Taurus; negotiated settlement and pardon of the original exiles; the alliance covenant with the human partners persists"
-participants_council_side = "Yahweh (Council president), Satan (home-world abolitionist faction leader), various Council military forces from the home world"
-participants_serpentine_side = "Lucifer (exiled-creator faction leader), the original exiled Eloha scientists, various subsequent adherents from the home-world dissenting tradition, the human alliance partners (with full participation in the post-flood phases)"
-casualty_scope = "Substantial; the source registers the conflict as substantial in scope, duration, and destructive intensity, with the pre-flood civilization's destruction and substantial military engagement during the post-flood phase"
-geographical_scope = "Multiple theaters: Earth surface engagements at Serpentine faction installation sites; orbital combat between Council spacecraft and Serpentine defensive systems; possibly engagements at locations elsewhere in the solar system"
-political_settlement = "Pardon for the original exiles only; not a general amnesty for the broader Lucifer-faction movement; the hybrid Nephilim lineages and the post-flood human population not parties to the pardon; the covenant alliance with the human partners not unmade"
-cultural_afterlife = "Preserved in virtually every major mythological tradition worldwide as the cross-cultural Theomachy pattern; preserved in the Hebrew Bible principally through the *liwyatan*/*nachash*/*tannin* vocabulary"
-distinguished_from = "The Eden Expulsion (the specific late-Cancer event that initiates the broader conflict); the Great Flood (the specific Gemini-age destructive event that operates within the broader conflict); the Tower of Babel intervention (the specific Council intervention against the post-flood human technological project); the Sodom and Gomorrah strike (a chronologically later Taurus-age event with distinct operational character); the broader cross-cultural Theomachy pattern (which the corpus reads as cultural memory of this single historical event)"
-status_in_source_material = "Substantially documented; the principal source-material passages establish both the conflict's specific narrative arc and its identification with the cross-cultural Theomachy pattern"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Eden,' 'The Flood,' 'Babel,' and broader narrative chapters; *timeline.epub* Age of Cancer chapter (Eden disclosure); *timeline.epub* Age of Gemini chapter (Sections X-XII, with substantial treatment of the open-military phase, the cross-cultural Theomachy convergence, and the political settlement); *timeline.epub* Age of Taurus chapter (the pardon)"
+type = "Acontecimiento narrativo de varias eras; conflicto político-militar entre el Consejo del mundo de origen de los Elohim y la alianza de los creadores exiliados con los humanos en la Tierra"
+beginning = "Final de la Era de Cáncer (c. 9300-9200 a. e. c. en la cronología comprimida del corpus); la revelación del conocimiento prohibido por Lucifer a Adán y Eva en el Edén; la condena política y el exilio a la Tierra"
+open_military_phase = "Final de la Era de Géminis (desde c. 6690 a. e. c.); acción militar del Consejo contra la facción Serpentina en múltiples escenarios (combate orbital, enfrentamientos en superficie, posiblemente en otros lugares del sistema solar)"
+resolution = "Comienzo de la Era de Tauro; acuerdo negociado y perdón de los exiliados originales; la alianza con los socios humanos se mantiene"
+participants_council_side = "Yahvé (presidente del Consejo), Satán (líder de la facción abolicionista del mundo de origen), diversas fuerzas militares del Consejo procedentes del mundo de origen"
+participants_serpentine_side = "Lucifer (líder de la facción de los creadores exiliados), los científicos eloha exiliados originales, diversos adeptos posteriores de la tradición disidente del mundo de origen, los socios humanos de la alianza (con plena participación en las fases posteriores al diluvio)"
+casualty_scope = "Considerable; la fuente registra el conflicto como considerable en alcance, duración e intensidad destructiva, con la destrucción de la civilización antediluviana y un enfrentamiento militar sustancial durante la fase posterior al diluvio"
+geographical_scope = "Múltiples escenarios: enfrentamientos en la superficie terrestre en las instalaciones de la facción Serpentina; combate orbital entre naves del Consejo y sistemas defensivos serpentinos; posiblemente enfrentamientos en otros lugares del sistema solar"
+political_settlement = "Perdón solo para los exiliados originales; no una amnistía general para el movimiento más amplio de la facción de Lucifer; los linajes híbridos de los Nefilim y la población humana posterior al diluvio no forman parte del perdón; la alianza con los socios humanos no se deshace"
+cultural_afterlife = "Conservada en prácticamente todas las grandes tradiciones mitológicas del mundo como el patrón intercultural de la Teomaquia; conservada en la Biblia hebrea principalmente a través del vocabulario *liwyatan*/*nachash*/*tannin*"
+distinguished_from = "La expulsión del Edén (el acontecimiento específico de finales de Cáncer que inicia el conflicto más amplio); el Gran Diluvio (el acontecimiento destructivo específico de la Era de Géminis que opera dentro del conflicto más amplio); la intervención de la Torre de Babel (la intervención específica del Consejo contra el proyecto tecnológico humano posterior al diluvio); el ataque a Sodoma y Gomorra (un acontecimiento cronológicamente posterior, de la Era de Tauro, con un carácter operativo distinto); el patrón intercultural más amplio de la Teomaquia (que el corpus lee como memoria cultural de este único acontecimiento histórico)"
+status_in_source_material = "Sustancialmente documentada; los principales pasajes del material de fuente establecen tanto el arco narrativo específico del conflicto como su identificación con el patrón intercultural de la Teomaquia"
+principal_text = "*El libro que dice la verdad* (1974), «El Edén», «El Diluvio», «Babel» y otros capítulos narrativos; *timeline.epub*, capítulo de la Era de Cáncer (la revelación del Edén); *timeline.epub*, capítulo de la Era de Géminis (secciones X-XII, con un tratamiento sustancial de la fase militar abierta, la convergencia intercultural de la Teomaquia y el acuerdo político); *timeline.epub*, capítulo de la Era de Tauro (el perdón)"
 +++
 
 {% claim(type="framework", id="woh-claim-0008") %}The **Theomachy** is the multi-age narrative event of the political-military conflict between the Elohim home-world Council and the exiled-creator-and-human alliance on Earth.{% end %} The conflict begins with **Lucifer's disclosure of forbidden knowledge to Adam and Eve** in Eden during the late Age of Cancer (c. 9,300-9,200 BCE on the corpus's compressed timeline), develops through the antediluvian period and the events leading to the Great Flood, reaches **open military expression** in the late Age of Gemini (c. 6,690 BCE forward) with substantial military engagement across multiple theaters, and resolves through the **negotiated settlement and pardon of the original exiles** in the early Age of Taurus. The conflict's principal participants are: on the Council side, Yahweh (Council president, moderate), Satan (home-world abolitionist faction leader), and various Council military forces from the home world; on the Serpentine side, Lucifer (the exiled-creator faction leader), the original exiled Eloha scientists, various subsequent adherents from the home-world dissenting tradition, and the human alliance partners with full participation in the post-flood phases.

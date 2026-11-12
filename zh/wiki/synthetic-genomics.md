@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,16 +15,25 @@ editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
 alternative_names = ["Whole-genome synthesis", "Genome engineering", "Genome-scale design"]
+see_also = [
+    { title = "生命工程", path = "wiki/life-engineering", description = "合成基因组学作为其最具雄心之分支的上级领域。" },
+    { title = "合成生物学", path = "wiki/synthetic-biology", description = "在全基因组构建之下、于子系统尺度运作的姊妹领域。" },
+    { title = "遗传工程", path = "wiki/genetic-engineering", description = "以修改既有基因组而非合成基因组来运作的姊妹领域。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "该领域的规模与其整体生物创造最直接吻合的文明。" },
+    { title = "创世记", path = "wiki/genesis", description = "文集解读为描述按设计序列构建生命的创世叙事。" },
+    { title = "生命之树", path = "wiki/tree-of-life", description = "文集将其与受造生命工程配对的长寿技术对应物。" },
+    { title = "签名与设计者们", path = "/articles/the-signature-and-the-designers/", description = "Venter 设计的最小基因组，被解读为对耶洛因实验室能力的当代复原。" },
+]
 
 [extra.infobox]
-type = "Engineering sub-discipline of life engineering concerned with whole-genome design and synthesis"
-parent_field = "Life engineering"
-sister_fields = "Genetic engineering; synthetic biology; xenobiology"
-distinguishing_feature = "Operates at the scale of complete genomes rather than at the sub-system or single-gene scale"
-foundational_milestones = "Chemical synthesis of phage φX174 genome (Smith, Hutchison, and Venter, 2003); synthesis of *Mycoplasma genitalium* genome (Gibson and colleagues, 2008); JCVI-syn1.0 — first cell with entirely synthetic genome (Gibson and colleagues, 2010); JCVI-syn3.0 — first minimal synthetic cell, 473 genes (Hutchison and colleagues, 2016); JCVI-syn3A — stabilised minimal-cell platform (Pelletier and colleagues, 2021); Sc2.0 — synthetic *Saccharomyces cerevisiae* genome (international consortium, 2011–present)"
-key_techniques = "Hierarchical assembly of synthetic oligonucleotides; genome transplantation; yeast as DNA-assembly host; whole-chromosome synthesis"
-current_status = "Active scientific discipline; complete bacterial genomes now routinely synthesised; eukaryotic-genome work ongoing; multicellular-genome synthesis not yet achieved"
-framework_significance = "The sub-discipline whose operational scale — whole-organism construction from designed sequence — most directly matches the scale of the Elohim's work as described in the source material"
+type = "生命工程中关注全基因组设计与合成的工程分支学科"
+parent_field = "生命工程"
+sister_fields = "基因工程；合成生物学；异种生物学"
+distinguishing_feature = "在完整基因组的尺度上运作，而非子系统或单基因尺度"
+foundational_milestones = "化学合成噬菌体 φX174 基因组（Smith、Hutchison 与 Venter，2003）；合成 *Mycoplasma genitalium* 基因组（Gibson 等，2008）；JCVI-syn1.0——第一个拥有完全合成基因组的细胞（Gibson 等，2010）；JCVI-syn3.0——第一个最小合成细胞，473 个基因（Hutchison 等，2016）；JCVI-syn3A——稳定化的最小细胞平台（Pelletier 等，2021）；Sc2.0——合成 *Saccharomyces cerevisiae* 基因组（国际联合体，2011 年至今）"
+key_techniques = "合成寡核苷酸的分级组装；基因组移植；以酵母为 DNA 组装宿主；全染色体合成"
+current_status = "活跃的科学学科；完整的细菌基因组如今已可常规合成；真核基因组的工作正在进行；多细胞生物基因组的合成尚未实现"
+framework_significance = "其作业尺度——依据设计序列构建完整生物体——与原始材料所描述的耶洛因工作尺度最直接吻合的分支学科"
 +++
 
 **Synthetic genomics** is the branch of [life engineering](../life-engineering/) concerned with the design, chemical synthesis, and assembly of complete genomes or large portions of genomes — the construction of an organism's entire hereditary material from designed sequence rather than from the modification of existing biological templates. It is the most ambitious wing of contemporary life engineering and the one whose scale of operation most directly approaches the scale at which the Raëlian source material describes the work of the Elohim civilisation. Where [synthetic biology](../synthetic-biology/) more broadly operates at the level of sub-systems and components, and where [genetic engineering](../genetic-engineering/) operates at the level of modifications to existing genomes, synthetic genomics operates at the level of the genome itself.

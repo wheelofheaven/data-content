@@ -5,7 +5,7 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,20 +15,26 @@ entry_type = "concept"
 alternative_names = ["government UAP cover-up", "UFO cover-up", "UAP disclosure", "military cover-up of exobiology (earlier designation)", "UAP secrecy", "extraterrestrial contact cover-up"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
 see_also = [
+    { title = "大使馆", path = "wiki/embassy", description = "正典透过正式外交承认对公开问题给出的解决方案。" },
     { title = "PURSUE", path = "wiki/pursue", description = "2026年的公开发布计划,其默认公开的档案库从官方一侧与保密主张相关。" },
+    { title = "UFO学", path = "wiki/ufology", description = "掩盖问题作为其中一个争议部分的更广领域。" },
+    { title = "天体生物学", path = "wiki/astrobiology", description = "据称被掩盖的地外生命科学研究。" },
+    { title = "古代宇航员假说", path = "wiki/ancient-astronaut-hypothesis", description = "将 UAP 接触解读为与历史上耶洛因之存在一脉相承的框架。" },
+    { title = "新耶路撒冷", path = "wiki/new-jerusalem", description = "一旦接触获得承认便需要建造的“大使馆即第三圣殿”。" },
+    { title = "德雷克方程", path = "wiki/drake-equation", description = "公开辩论所预设的接触概率正式估算。" },
 ]
 
 [extra.infobox]
-type = "Substantive question of governmental concealment of UAP investigation and alleged contact, with substantial 2017-2024 disclosure transformation; methodologically complex subject matter operating across multiple evidential categories"
+type = "关于各国政府是否隐瞒了 UAP 调查及所谓接触的争议性问题；因 2017–2024 年的披露浪潮而更加尖锐"
 documented_governmental_programs = "Project Sign 1947-1949; Project Grudge 1949-1952; Robertson Panel 1953; Project Blue Book 1952-1969; Condon Report 1968; AAWSAP 2008-2010; AATIP 2007-2012; UAP Task Force 2020-2022; AARO 2022-present"
-principal_2017_2024_disclosure_events = "NYT December 16, 2017 article disclosing AATIP; April 27, 2020 Pentagon UAP video releases; June 25, 2021 ODNI Preliminary Assessment; July 26, 2023 congressional hearings with David Grusch testimony; September 14, 2023 NASA UAP Independent Study Team report; November 13, 2024 follow-up congressional hearings"
+principal_2017_2024_disclosure_events = "《纽约时报》关于 AATIP 的报道（2017 年 12 月 16 日）；五角大楼发布海军的 FLIR1、Gimbal 与 GoFast 视频（2020 年 4 月 27 日）；国家情报总监办公室初步评估（2021 年 6 月 25 日）；有大卫·格鲁什作证的国会听证会（2023 年 7 月 26 日）；NASA UAP 独立研究小组报告（2023 年 9 月 14 日）；后续听证会（2024 年 11 月 13 日）"
 principal_whistleblowers = "David Grusch (2023 congressional testimony under oath; principal contemporary); Bob Lazar (1989-present; S-4 reverse-engineering claims); Robert Salas (1967 Malmstrom case); Phil Schneider (1995 lectures); Clifford Stone; Steven Greer (Disclosure Project 1993-present)"
-principal_historical_scholarship = "Richard Dolan, *UFOs and the National Security State* (2 vols., 2000, 2009); Leslie Kean, *UFOs: Generals, Pilots, and Government Officials Go on the Record* (2010); Luis Elizondo, *Imminent* (2024)"
-contested_document_tradition = "Majestic 12 documents (substantial authenticity disputes); substantial subsequent leaked-document tradition; the substantial CIA-MK-ULTRA-related psychological-operations engagement"
-principal_nuclear_facility_cases = "1967 Robert Salas Malmstrom AFB Minuteman missile shutdown; substantial Robert Hastings *UFOs and Nukes* documentation including approximately 150 documented multi-witness cases; 2010 National Press Club briefing"
+principal_historical_scholarship = "理查德·多兰，*UFOs and the National Security State*（2000、2009）；莱斯莉·基恩，*UFOs: Generals, Pilots, and Government Officials Go on the Record*（2010）；路易斯·埃利松多，*Imminent*（2024）"
+contested_document_tradition = "「威严 12」（MJ-12）文件，1988 年被联邦调查局判定为伪造；后来的泄露文件传统（水瓶座计划、SOM 1-01）"
+principal_nuclear_facility_cases = "1967 年马姆斯特罗姆空军基地民兵导弹停机事件（罗伯特·萨拉斯）；罗伯特·黑斯廷斯在 *UFOs and Nukes* 中记录的约 150 个案例；2010 年全国新闻俱乐部发布会"
 corpus_position = "Governmental cover-up substantively real across 1947-2017 period through demonstrated classified programs; 2017-2024 disclosure has substantially shifted question into mainstream-policy domain; substantive Vorilhon-source resolution operates through Embassy framework requiring international diplomatic recognition"
-distinguished_from = "General governmental secrecy (broader category); conspiracy theories without empirical foundation (substantively different evidential register); the broader Ufology field (cover-up question as one component); Astrobiology (the broader scientific field engaging extraterrestrial-life question)"
-status_in_framework = "Methodologically complex question engaged with substantive epistemic discipline; corpus position threads documented programs and contested allegations with substantial care"
+distinguished_from = "一般的政府保密（更广的类别）；无根据的阴谋论（不同的证据层面）；更广的飞碟学领域；天体生物学"
+status_in_framework = "通过正典来解读的有争议的实证课题；有据可查的历史与未经证实的指控分开对待"
 +++
 
 **The military cover-up of exobiology** — increasingly called the

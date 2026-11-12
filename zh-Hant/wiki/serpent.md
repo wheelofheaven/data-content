@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -26,6 +26,8 @@ see_also = [
     { title = "耶和華", path = "wiki/yahweh", description = "宣告揭露後判決之以色列隊伍領袖。" },
     { title = "撒但", path = "wiki/satan", description = "一個獨立的耶洛因形象 —— 政治上與蛇/路西法相對,僅於後期傳統中被混為一談。" },
     { title = "生命之樹", path = "wiki/tree-of-life", description = "驅逐後受守護之延壽技術。" },
+    { title = "會吏長與龍", path = "articles/the-archdeacon-and-the-dragon", description = "蛇/路西法/撒但/耶和華的四人物分類,是對照本條目的異議派系解讀而建立的。" },
+    { title = "龍形曲線", path = "articles/the-dragon-curve", description = "此解說文以標明為推測的方式提問:被記憶為蛇的派系,是否也因造龍之工而被記憶。" },
 ]
 
 footnotes = [

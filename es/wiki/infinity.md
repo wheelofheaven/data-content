@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,26 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Infinite", "the infinite cosmos", "infinite-cosmological framework", "the broader infinite framework", "cosmic infinity"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Cosmología fractal", path = "wiki/fractal-cosmology", description = "La dimensión espacial que opera dentro del marco del Infinito." },
+    { title = "Efecto de masa", path = "wiki/mass-effect", description = "La dimensión de escalado temporal que opera dentro del marco del Infinito." },
+    { title = "Cadena cósmica", path = "wiki/cosmic-chain", description = "La dimensión causal, cósmica y civilizatoria que opera dentro del marco del Infinito." },
+    { title = "Cuatro niveles", path = "wiki/four-levels", description = "El correlato ético y práctico que implica el cosmos infinito." },
+    { title = "Competencia cósmica", path = "wiki/cosmic-competition", description = "La dinámica civilizatoria que enmarca la premisa de la jerarquía infinita." },
+    { title = "Elohim", path = "wiki/elohim", description = "La civilización creadora cuyos pasajes transmitidos por Yahvé aportan el fundamento textual del marco." },
+]
 
 [extra.infobox]
-type = "Foundational cosmological framework; concept articulating the infinite extent of the cosmos along spatial, temporal, and hierarchical dimensions"
-basic_premise = "The cosmos is infinite along three mutually reinforcing dimensions: spatial extent (no boundary, no edge, no center), temporal extent (no beginning, no end), and hierarchical scale (no smallest scale, no largest scale)"
-core_image = "There is neither a beginning nor an end to matter, since 'nothing is lost, nothing is created, everything is transformed' (Yahweh in *Extra-Terrestrials Took Me to Their Planet*)"
-domain = "All cosmological structure across all scales, all times, all locations"
-mathematical_status = "Substantially distinct from mainstream Cantorian transfinite mathematics (which treats specific orders of infinity within mathematical-set theory); the framework's infinity is principally physical-cosmological rather than mathematical-set-theoretic; the infinity in mathematics is one specific articulation within the broader infinity framework"
-relationship_to_mainstream_cosmology = "Substantially distinct from mainstream Big Bang cosmology's specific framework (finite age c. 13.8 billion years, finite observable extent set by cosmic horizon, homogeneous-and-isotropic at large scales per cosmological principle); the framework holds the cosmos to be infinite in age, infinite in extent, and fractal-hierarchical-self-similar rather than homogeneous-and-isotropic"
+type = "Marco cosmológico fundacional que formula la extensión infinita del cosmos en sus dimensiones espacial, temporal y jerárquica"
+basic_premise = "El cosmos es infinito en tres dimensiones que se refuerzan mutuamente: extensión espacial (sin límite, sin borde, sin centro), extensión temporal (sin principio, sin fin) y escala jerárquica (sin escala mínima, sin escala máxima)"
+core_image = "No hay principio ni fin para la materia, puesto que «nada se pierde, nada se crea, todo se transforma» (Yahvé en *Los extraterrestres me llevaron a su planeta*)"
+domain = "Toda la estructura cosmológica en todas las escalas, todos los tiempos y todos los lugares"
+mathematical_status = "Distinto de las matemáticas transfinitas cantorianas dominantes (que tratan los órdenes de infinito dentro de la teoría de conjuntos); el infinito del marco es físico-cosmológico y no conjuntista, y el infinito matemático es una formulación dentro de él"
+relationship_to_mainstream_cosmology = "Distinto de la cosmología del Big Bang (edad finita de c. 13.800 millones de años, extensión observable finita fijada por el horizonte cósmico, homogénea e isótropa a gran escala según el principio cosmológico); el marco sostiene que el cosmos es infinito en edad, infinito en extensión y fractal, jerárquico y autosemejante en lugar de homogéneo e isótropo"
 relationship_to_other_framework_entries = "Foundational; Fractal Cosmology operates as spatial dimension within Infinity; Mass Effect operates as temporal dimension; Cosmic Chain operates as causal-cosmic-civilizational dimension; Four Levels operates as ethical-practical correlate"
-distinguished_from = "Mainstream Big Bang cosmology (which posits finite age and finite observable extent); mathematical infinity alone (which is one specific articulation rather than the foundational framework); the conventional supernatural-deity theological framework (which conflates 'God' with infinity in problematic ways); various mainstream multiverse proposals (which posit specific multi-universe structures rather than the open-ended infinite-hierarchical structure)"
-status_in_source_material = "Substantial; the Raëlian source material provides explicit articulation across multiple passages establishing the infinity framework's specific content; the corpus's broader articulation of three mutually reinforcing dimensions of infinity is corpus development beyond what the source material directly provides"
-principal_text = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul'; *Let's Welcome the Extra-terrestrials* (1979), 'Who Created the Creator of the Creators?' and various FAQ passages; the Wheel of Heaven corpus's outro Section II"
+distinguished_from = "La cosmología del Big Bang (edad finita y extensión observable finita); el infinito matemático por sí solo (una formulación, no el marco fundacional); el marco de una deidad sobrenatural (que confunde «Dios» con el infinito); las propuestas dominantes de multiverso (estructuras de múltiples universos en lugar de la jerarquía infinita abierta)"
+status_in_source_material = "El material fuente raeliano formula el marco explícitamente en varios pasajes; la formulación del corpus de tres dimensiones que se refuerzan mutuamente va más allá de lo que la fuente ofrece directamente"
+principal_text = "*El libro que dice la verdad* (Vorilhon/Raël, 1974); *Los extraterrestres me llevaron a su planeta* (1975), «Ni Dios ni alma»; *Acojamos a los extraterrestres* (1979), «¿Quién creó al creador de los creadores?» y diversos pasajes de preguntas y respuestas; la sección II del epílogo del corpus de Wheel of Heaven"
 +++
 
 **Infinity** is the foundational cosmological framework of the Wheel of Heaven corpus. It holds that **the cosmos is infinite along three mutually reinforcing dimensions**: infinite in **spatial extent** (no boundary, no edge, no center), infinite in **temporal extent** (no beginning, no end), and infinite in **hierarchical scale** (no smallest scale, no largest scale). Its source warrant is the Yahweh-delivered passages in *The Book Which Tells the Truth* (1974) and *Extra-Terrestrials Took Me to Their Planet* (1975), developed through the Outro Section II of *timeline.epub*. Within it, **Fractal Cosmology** is the spatial dimension, the **{% wiki(slug="mass-effect") %}Mass Effect{% end %}** the temporal-scaling dimension, the **Cosmic Chain** the causal-cosmic-civilizational dimension, and the **Four Levels** the ethical-practical correlate.

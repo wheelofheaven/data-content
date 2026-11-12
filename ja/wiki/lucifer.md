@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 99
@@ -22,16 +22,18 @@ alternative_names = ["光をもたらす者", "lūcifer", "ヘレル・ベン・
 portrait_id = "lucifer"
 image = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.avif"
-image_alt = "AI-generated editorial portrait of Lucifer as the Light-Bringer, an Eloha faction leader with long hair and a green-gold luminosity."
-image_caption = "Interpretive portrait for the Lucifer wiki entry and library personality metadata."
+image_alt = "長髪で緑金色の光を帯びたエロハの派閥指導者、光をもたらす者としてのルシファーの、AI生成による編集用の肖像。"
+image_caption = "ルシファーのウィキ項目とライブラリーの人物メタデータのための解釈的肖像。"
 timeline = ["leo", "cancer"]
 see_also = [
+    { title = "ルシファーとサタンは同一か", path = "articles/lucifer-and-satan", description = "ルシファーとサタンを正反対の派閥として区別する、両者を並べた読解。" },
     { title = "蛇", path = "wiki/serpent", description = "創世記3章のエデン開示という特定の役割におけるルシファー。" },
     { title = "ヤハウェ", path = "wiki/yahweh", description = "イスラエル・チームの指導者であり同盟内の穏健派。ルシファーのかつての同僚であり、エデン以後の政治的対立者。" },
     { title = "サタン", path = "wiki/satan", description = "母星の廃絶派閥を率いる別個のエロヒムの人物 ― ルシファーとは政治的に正反対であり、同一ではない。" },
     { title = "アダムとエバ", path = "wiki/adam-and-eve", description = "ルシファー派閥が教育し、エデン開示を行った相手である最初の人類。" },
     { title = "大洪水以前", path = "wiki/antediluvian", description = "追放されたルシファー派閥がエデン系統の文明の教師として奉仕した期間。" },
     { title = "生命の樹", path = "wiki/tree-of-life", description = "ルシファー派閥がエデンの族長指導層のために得た長寿技術。" },
+    { title = "大執事と竜", path = "articles/the-archdeacon-and-the-dragon", description = "ウォリスの四匹の竜の筋書きを、ルシファーの派閥の読解に重ね合わせる。" },
 ]
 
 footnotes = [

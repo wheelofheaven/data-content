@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -83,12 +83,12 @@ note = "Paul Anthony Wallis' vergleichend-keilschriftliche Lesart von 2020, die 
 
 [extra.infobox]
 type = "Religiös-philosophische Bewegung; ausdrücklich atheistische Religion auf der Grundlage eines außerirdischen Schöpferrahmens; institutionelles Vehikel für das Botschaftsprojekt und die Vorbereitung des Wassermann-Zeitalters"
-founded = "1974 (MADECH); 1976 (International Raëlian Movement)"
+founded = "1974 (MADECH); 1976 (Internationale Raëlianische Bewegung)"
 founder = "Raël (Claude Vorilhon, geb. 1946)"
 basic_doctrine = "Die Elohim, eine fortgeschrittene außerirdische Zivilisation, schufen vor etwa 25.000 Jahren alles Leben auf der Erde durch Gentechnik; die Menschheit soll diesen Ursprung anerkennen und sich auf die offene Rückkehr der Allianz vorbereiten; die Botschaft muss errichtet werden; die sieben neuen Gebote strukturieren das gesellschaftlich-politische Programm des Wassermann-Zeitalters"
 character = "Atheistische Religion; lehnt eine übernatürliche Gottheit ab und bewahrt zugleich die religiösen Dimensionen von Ehrfurcht, Sinn und ethischem Engagement; eigenständig sowohl innerhalb der Kategorie der UFO-Religionen als auch in der weiteren Landschaft neuer religiöser Bewegungen"
 principal_practices = "Übertragung des Zellplans (raëlianische Taufe); sensuelle Meditation; telepathischer Kontakt (sonntags um 11 Uhr); jährliche Bergversammlung; Gedenken an die Kontaktjahrestage (6. April, 6. August, 7. Oktober, 13. Dezember)"
-institutional_structure = "Siebenstufige Hierarchie der Führer; Führer der Führer (Raël) an der Spitze; Tochterorganisationen wie Clonaid, der Orden der Engel, die Allianz für extraterrestrischen diplomatischen Kontakt sowie verschiedene Bildungs- und Öffentlichkeitsgremien"
+institutional_structure = "Siebenstufige Hierarchie der Guides; Guide der Guides (Raël) an der Spitze; Tochterorganisationen wie Clonaid, der Orden der Engel, die Allianz für extraterrestrischen diplomatischen Kontakt sowie verschiedene Bildungs- und Öffentlichkeitsgremien"
 membership = "Etwa 65.000–100.000 (Zahlen variieren je nach Quelle); nationale Zweige in etwa 90 Ländern; am stärksten in Frankreich, Kanada, Japan, Südkorea und Afrika"
 distinguished_from = "Die weitere Kategorie der UFO-Religionen (Heaven's Gate, Aetherius Society, Unarius und andere); andere neue religiöse Bewegungen mit Prophetengründern (Mormonentum, Scientology, Bahá'í); weitere atheistische/wissenschaftliche Religionen (Comtesche Religion der Menschheit, säkularer Humanismus, Ethische Kultur); die Figur Raëls im Besonderen (im eigenen Eintrag behandelt)"
 status_in_source_material = "Gut dokumentiert; Lehrinhalt aus dem raëlianischen Quellenmaterial (1974–2005), institutionelle Entwicklung aus den Aufzeichnungen der Bewegung, Kontroversen aus der zeitgenössischen journalistischen und akademischen Auseinandersetzung"
@@ -220,7 +220,7 @@ Am Morgen des 13. Dezember 1973 berichtete Vorilhon, im Inneren des Puy-de-Lasso
 
 Das erste organisatorische Vehikel folgte rasch. Der Rundbrief *Apocalypse* erschien ab Oktober 1974, und im Dezember 1974 rief Vorilhon **MADECH** ins Leben — *Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité*, die „Bewegung zum Empfang der Elohim, Schöpfer der Menschheit“. In dieser Zeit nahm Vorilhon den Namen **Raël** an. MADECH erwies sich als fragile erste Struktur: Im Laufe des Jahres 1975 entwickelte sich ein Machtkampf zwischen Raël und dem Vorstand der Vereinigung, der im Juli 1975 darin gipfelte, dass er die Vorstandsmitglieder entließ und durch einen kleineren Kreis von Unterstützern ersetzte.{{ footnote(id="7") }}
 
-Der zweite Kontakt rahmte das gesamte Projekt neu. Raël berichtete, dass die Elohim am 7. Oktober 1975 zurückkehrten und ihn an Bord ihres Flugkörpers auf ihren eigenen Planeten brachten, wo ihm die Zivilisation der Ewigen gezeigt und die weitere Unterweisung erteilt wurde, die in *Außerirdische brachten mich auf ihren Planeten* (1975/76) festgehalten ist.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Außerirdische brachten mich auf ihren Planeten* (1976) — der Besuch auf dem Planeten der Ewigen") }} Mit dem zweiten Kontakt verschob sich die Behauptung der Bewegung vom Bericht eines einzelnen Mannes über eine Begegnung am Wegesrand zu einem ausgearbeiteten kosmologischen und ethischen Programm. Im Februar 1976 löste Raël MADECH auf und gründete die Bewegung auf religiöser statt vereinsrechtlicher Grundlage neu — die Struktur, die zur **International Raëlian Movement** wurde, mit der siebenstufigen Hierarchie der Führer und Raël an ihrer Spitze als Führer der Führer.
+Der zweite Kontakt rahmte das gesamte Projekt neu. Raël berichtete, dass die Elohim am 7. Oktober 1975 zurückkehrten und ihn an Bord ihres Flugkörpers auf ihren eigenen Planeten brachten, wo ihm die Zivilisation der Ewigen gezeigt und die weitere Unterweisung erteilt wurde, die in *Außerirdische brachten mich auf ihren Planeten* (1975/76) festgehalten ist.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Außerirdische brachten mich auf ihren Planeten* (1976) — der Besuch auf dem Planeten der Ewigen") }} Mit dem zweiten Kontakt verschob sich die Behauptung der Bewegung vom Bericht eines einzelnen Mannes über eine Begegnung am Wegesrand zu einem ausgearbeiteten kosmologischen und ethischen Programm. Im Februar 1976 löste Raël MADECH auf und gründete die Bewegung auf religiöser statt vereinsrechtlicher Grundlage neu — die Struktur, die zur **International Raëlian Movement** wurde, mit der siebenstufigen Hierarchie der Guides und Raël an ihrer Spitze als Guide der Guides.
 
 ### Spätere Entwicklung (1976–heute)
 
@@ -296,9 +296,9 @@ Sie werden als langfristige Richtung des Zeitalters über seine Jahrhunderte hin
 
 Die wichtigsten Praktiken:
 
-**Übertragung des Zellplans (raëlianische Taufe).** Der zentrale Initiationsritus, vollzogen an vier jährlichen Daten, die an die prophetische Tradition gebunden sind: 6. April, 6. August (der Atombombenabwurf auf Hiroshima, den die Quelle als akustische Signatur der Eröffnung des Wassermann-Zeitalters liest), 7. Oktober (der zweite Kontakt von 1975 am Roc Plat) und 13. Dezember (der Erstkontakt von 1973 am Puy-de-Lassolas). Ein Führer legt dem Initianden eine Hand auf die Stirn, mit Wasser als leitendem Medium. In Marcel Terrusses Essay, abgedruckt im dritten Buch (LWTE-4:75–78), nicht in den Botschaften oder in Raëls eigener Stimme, trägt jeder Mensch einen zellulär-chromosomischen Plan mit eigener elektromagnetischer Emission; ein Führer, dessen Frequenz die Elohim bei seiner eigenen Initiation registrierten, übermittelt das neue Mitglied an den Satelliten der Elohim, der jeden menschlichen Gedanken aufzeichnet — und zeigt damit an, dass das Mitglied die Botschaften verstanden hat und nach ihnen lebt. Der Ritus verzeichnet die genetische Identität des Einzelnen in den Aufzeichnungen der Allianz, die Grundlage für eine mögliche spätere Neuschöpfung auf dem Planeten der Ewigen.
+**Übertragung des Zellplans (raëlianische Taufe).** Der zentrale Initiationsritus, vollzogen an vier jährlichen Daten, die an die prophetische Tradition gebunden sind: 6. April, 6. August (der Atombombenabwurf auf Hiroshima, den die Quelle als akustische Signatur der Eröffnung des Wassermann-Zeitalters liest), 7. Oktober (der zweite Kontakt von 1975 am Roc Plat) und 13. Dezember (der Erstkontakt von 1973 am Puy-de-Lassolas). Ein Guide legt dem Initianden eine Hand auf die Stirn, mit Wasser als leitendem Medium. In Marcel Terrusses Essay, abgedruckt im dritten Buch (LWTE-4:75–78), nicht in den Botschaften oder in Raëls eigener Stimme, trägt jeder Mensch einen zellulär-chromosomischen Plan mit eigener elektromagnetischer Emission; ein Guide, dessen Frequenz die Elohim bei seiner eigenen Initiation registrierten, übermittelt das neue Mitglied an den Satelliten der Elohim, der jeden menschlichen Gedanken aufzeichnet — und zeigt damit an, dass das Mitglied die Botschaften verstanden hat und nach ihnen lebt. Der Ritus verzeichnet die genetische Identität des Einzelnen in den Aufzeichnungen der Allianz, die Grundlage für eine mögliche spätere Neuschöpfung auf dem Planeten der Ewigen.
 
-**Bewahrung des Stirnbeins.** Nach dem Tod soll das Stirnbein des Mitglieds an den Führer der Führer gesandt werden. Erkennt die Taufe die Elohim zu Lebzeiten als Schöpfer an, so erkennt dies sie im Tod an — zusammen „Anerkennung im Leben wie im Tod“. Die Bitte hat logistische und rechtliche Komplikationen aufgeworfen; sie wird in den Testamenten der Mitglieder festgehalten und in den verschiedenen Rechtsordnungen uneinheitlich durchgesetzt.
+**Bewahrung des Stirnbeins.** Nach dem Tod soll das Stirnbein des Mitglieds an den Guide der Guides gesandt werden. Erkennt die Taufe die Elohim zu Lebzeiten als Schöpfer an, so erkennt dies sie im Tod an — zusammen „Anerkennung im Leben wie im Tod“. Die Bitte hat logistische und rechtliche Komplikationen aufgeworfen; sie wird in den Testamenten der Mitglieder festgehalten und in den verschiedenen Rechtsordnungen uneinheitlich durchgesetzt.
 
 **Sensuelle Meditation.** Praktiken, die die Elohim zur Erweckung der Sinne und zur Erlangung innerer Harmonie entworfen haben sollen, dargelegt in *Sensuelle Meditation* (1980) und in späteren Seminaren erweitert — Meditationstechniken, Übungen zur Körperwahrnehmung und zur Kultivierung der Sinne. Ihr sexueller Inhalt hat beständige Mainstream-Kritik hervorgerufen, die weiter unten behandelt wird.
 
@@ -322,17 +322,17 @@ Die sexuelle Dimension ist zugleich die beständigste Quelle der Mainstream-Krit
 
 ### Die institutionelle Struktur
 
-**Die siebenstufige Hierarchie der Führer:**
+**Die siebenstufige Hierarchie der Guides:**
 
 - **Ebene 0**: Anwärter (Probezeit)
-- **Ebene 1**: Hilfsführer
-- **Ebene 2**: Probeführer
+- **Ebene 1**: Hilfs-Guide
+- **Ebene 2**: Probe-Guide
 - **Ebene 3**: Priester
 - **Ebene 4**: Bischof
-- **Ebene 5**: Priester der Priester / Priester-Führer
-- **Ebene 6**: Führer der Führer (Raël){{ footnote(id="4") }}
+- **Ebene 5**: Priester der Priester / Priester-Guide
+- **Ebene 6**: Guide der Guides (Raël){{ footnote(id="4") }}
 
-Der Aufstieg verbindet Lehrstudium, Meditationspraxis, institutionellen Dienst und spirituelles Fortschreiten; über die höheren Ebenen entscheidet Raël, über die unteren leitende Führer.
+Der Aufstieg verbindet Lehrstudium, Meditationspraxis, institutionellen Dienst und spirituelles Fortschreiten; über die höheren Ebenen entscheidet Raël, über die unteren leitende Guides.
 
 **Nationale Zweige** gibt es etwa neunzig, von sehr unterschiedlicher Größe; die wichtigsten bestehen in Frankreich, Kanada, Japan, Südkorea und mehreren afrikanischen Ländern (in denen die Bewegung seit den 1990er Jahren stark ist).
 

@@ -6,29 +6,39 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["the Noahic Covenant", "the post-flood covenant", "the rainbow covenant", "the Noahide covenant (Jewish tradition designation)", "the originary biblical covenant"]
+alternative_names = ["l'Alliance noahique", "l'alliance postdiluvienne", "l'alliance de l'arc-en-ciel", "the Noahide covenant (Jewish tradition designation)", "l'alliance biblique originelle"]
 timeline = ["age-of-gemini"]
+see_also = [
+    { title = "Noé", path = "wiki/noah", description = "Le partenaire humain des créateurs exilés et partie cadette de l'alliance." },
+    { title = "Grand Déluge", path = "wiki/great-flood", description = "Le cataclysme de l'ère des Gémeaux auquel l'alliance répond et qu'elle clôt." },
+    { title = "Lucifer", path = "wiki/lucifer", description = "La faction des créateurs exilés qui devient la partie aînée de l'alliance à l'autel." },
+    { title = "L'Alliance", path = "wiki/the-alliance", description = "Le partenariat intercivilisationnel que fonde l'alliance." },
+    { title = "Yahvé", path = "wiki/yahweh", description = "Le président du Conseil sur le vote post-diluvien duquel repose l'engagement du « plus jamais »." },
+    { title = "Babel", path = "wiki/babel", description = "Le projet ultérieur dont la surprise au Conseil montre le caractère privé de l'alliance." },
+    { title = "Bible hébraïque", path = "wiki/hebrew-bible", description = "La source du récit de l'alliance de Genèse 8-9 et de son signe, l'arc-en-ciel." },
+    { title = "Nouveaux commandements", path = "wiki/new-commandments", description = "L'alliance de l'ère du Verseau qui clôt la séquence qu'ouvre l'alliance noachique." },
+]
 
 [extra.infobox]
-type = "Post-flood political-religious event; formal alliance founding between the exiled-creator faction and the surviving humans led by Noah"
-hebrew_term = "בְּרִית (brit, 'covenant, alliance, agreement')"
+type = "Événement politico-religieux postdiluvien ; fondation de l'alliance entre la faction exilée de Lucifer parmi les créateurs et les humains survivants menés par Noé"
+hebrew_term = "בְּרִית (brit, « alliance, pacte, accord »)"
 biblical_location = "Genesis 8:20-9:17 (the principal narrative); subsequent references in Isaiah 24:5, Isaiah 54:9, Jeremiah 33:20-26, Hosea 6:7"
 biblical_dating = "Cancer-Gemini boundary aftermath in corpus chronology (immediately following c. 6,690 BCE flood event); mainstream biblical chronology generally treats Genesis 9 as Priestly (P) source composition c. 6th century BCE"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in the Age of Gemini chapter, Sections VIII and XIII"
-core_corpus_articulation = "Private arrangement between the exiled-creator faction (the Serpentine faction) and the surviving humans led by Noah; founding alliance distinct from the home-world Council whose non-participation is demonstrated by subsequent Babel-project surprise"
-covenant_parties = "Exiled creators (the Serpentine faction); humans led by Noah and his family (the Eden-lineage survivors)"
-covenant_terms = "Exiled creators: non-participation in future destruction of humanity; acknowledgment of legitimacy of human scientific progress. Humans: gratitude, productive rebuilding, ritual recognition through offerings"
-covenant_sign = "Rainbow (Hebrew קֶשֶׁת *keshet*, dual meaning rainbow + bow-as-weapon); the bow used against the earth now hung in the cloud as visible token of laid-down weapon"
-seven_noahide_laws = "Subsequent Jewish rabbinic articulation (Talmud Sanhedrin 56a-60a): prohibitions against idolatry, blasphemy, murder, sexual immorality, theft, eating flesh from a living animal; positive requirement of courts of justice"
-distinguished_from = "The home-world Council (Council not party to the covenant); subsequent biblical covenants (Abrahamic, Mosaic, Davidic, New — sequential elaborations); mainstream Christian theological covenant readings (which generally treat covenant as agreement with single divine party rather than as private exiled-creator-human arrangement)"
-status_in_framework = "Foundational post-flood political-religious event; the originary alliance founding subsequent covenant tradition; the formal beginning of partnership structuring all subsequent alliance activity"
+principal_source = "*Le Livre qui dit la vérité* (Vorilhon, 1974), chapitre « La vérité » ; consolidé dans *Le Message donné par les extra-terrestres* (2005) ; traitement principal dans le corpus au chapitre sur l'ère des Gémeaux"
+core_corpus_articulation = "Arrangement privé entre la faction exilée de Lucifer parmi les créateurs et les humains survivants menés par Noé ; fondation de l'Alliance, distincte du Conseil du monde d'origine, dont la non-participation est démontrée par sa surprise ultérieure à Babel"
+covenant_parties = "Les créateurs exilés (la faction de Lucifer, partie principale) ; Noé et sa famille (les survivants de la lignée d'Éden, partie secondaire)"
+covenant_terms = "Créateurs exilés : non-participation à toute destruction future de l'humanité ; reconnaissance de la légitimité du progrès scientifique humain. Humains : gratitude, reconstruction productive, reconnaissance rituelle par des offrandes"
+covenant_sign = "L'arc-en-ciel (hébreu קֶשֶׁת *keshet*, double sens : arc-en-ciel et arc comme arme) ; l'arc employé contre la terre, désormais suspendu dans la nuée en signe d'une arme déposée"
+seven_noahide_laws = "Formulation rabbinique juive ultérieure (Talmud, Sanhédrin 56a-60a) : interdictions de l'idolâtrie, du blasphème, du meurtre, de l'immoralité sexuelle, du vol et de la consommation de la chair d'un animal vivant ; plus l'obligation positive d'instituer des tribunaux"
+distinguished_from = "Le Conseil du monde d'origine (non partie à l'alliance) ; les alliances bibliques ultérieures (abrahamique, mosaïque, davidique, nouvelle — élaborations successives) ; la théologie chrétienne dominante de l'alliance (qui traite l'alliance comme un accord avec une seule partie divine plutôt que comme un arrangement privé entre créateurs et humains)"
+status_in_framework = "Événement postdiluvien fondateur ; l'alliance originelle qui ouvre la séquence structurant toute l'activité ultérieure de l'alliance"
 +++
 
 **The Noahic Covenant** is the post-flood agreement recorded in Genesis

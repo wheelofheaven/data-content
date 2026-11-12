@@ -6,11 +6,11 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-10-25"
+translation_updated = "2026-11-12"
 source_updated = "2026-10-25"
 translation_stale = false
 translation_sync = 100
-redirect_to = { title = "Theomachy", path = "/wiki/theomachy/" }
+redirect_to = { title = "테오마키", path = "/wiki/theomachy/" }
 category = "Events & Narratives"
 timeline = ["cancer", "gemini", "taurus"]
 claim_type = "inferred"

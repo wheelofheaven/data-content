@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -23,7 +23,7 @@ see_also = [
     { title = "聖經", path = "/wiki/bible/", description = "希伯來聖經與新約所處的更廣泛文本傳統。" },
     { title = "希伯來聖經", path = "/wiki/hebrew-bible/", description = "經典最大且最精確引用的參考文獻主體。" },
     { title = "創世記", path = "/wiki/genesis/", description = "在經典的原初歷史釋經中被引用最為廣泛的書卷。" },
-    { title = "卡巴拉", path = "/wiki/kabbalah/", description = "在《世界末日》中被稱為「最接近真理之書」;關於波斯里的段落指向了《創造者之高》(Shi'ur Qomah)傳統。" },
+    { title = "卡巴拉", path = "/wiki/kabbalah/", description = "在《世界末日》中被稱為「最接近真理之書」;關於帕拉桑的段落指向《希烏爾·科瑪》(Shi'ur Qomah)。" },
     { title = "雷爾派", path = "/wiki/raelism/", description = "由此處所列三部經典所構成的運動。" },
     { title = "雷爾", path = "/wiki/rael/", description = "克勞德·沃里隆,三部經典的作者。" },
     { title = "耶洛因", path = "/wiki/elohim/", description = "經典從希伯來語複數形式解碼出的文明稱號。" },
@@ -31,9 +31,10 @@ see_also = [
     { title = "摩西", path = "/wiki/moses/", description = "名列於 ETTMTTP-2:64、3:257 與 LWTE-3:27 所提及的使者之中。" },
     { title = "耶穌", path = "/wiki/jesus/", description = "雙魚座時代的主要使者;《基督的角色》圍繞《馬太福音》而建。" },
     { title = "穆罕默德", path = "/wiki/muhammad/", description = "古蘭經的使者;經典直接涉及第21、54、56章。" },
-    { title = "啟示錄", path = "/wiki/apocalypse/", description = "在《新啟示》中發展出的《啟示錄》解讀。" },
+    { title = "啟示", path = "/wiki/apocalypse/", description = "在《新啟示》中發展出的《啟示錄》解讀。" },
     { title = "哈姆雷特的磨坊", path = "/wiki/hamlets-mill/", description = "與經典的痕跡論點相鄰的跨文化神話—歲差解讀。" },
     { title = "雙重署名", path = "/wiki/doubled-signature/", description = "經典及其參考文本匯聚於同一底層實在的文集原則。" },
+    { title = "六個早晨，六年", path = "/articles/six-mornings-six-years/", description = "主張為三部源書建立校勘記的文本批評論證。" },
 ]
 
 footnotes = [

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,21 +16,29 @@ editorial_pass = "2026-05"
 entry_type = "event/period"
 alternative_names = ["the Cities of the Plain", "the Sodom event", "the Sodom strike", "*Sedom va-Amorah* (Hebrew: סְדֹם וַעֲמֹרָה)", "the Genesis 19 destruction", "the Council preventive strike (Taurus phase)", "the second preventive strike", "the Dead Sea event"]
 timeline = ["taurus"]
+see_also = [
+    { title = "המבול", path = "wiki/great-flood", description = "המכה הראשונה של המועצה, בקנה מידה פלנטרי; סדום היא מכה מאוחרת ומקומית." },
+    { title = "בבל", path = "wiki/babel", description = "ההתערבות הסמוכה שלאחר המבול — פניית שלום שפוזרה, לא מרד שדוכא." },
+    { title = "אברהם", path = "wiki/abraham", description = "מתחנן לפני יהוה על השמדת הערים בבראשית יח." },
+    { title = "לוציפר", path = "wiki/lucifer", description = "הסיעה הגולה תומכת האנושות (הנחש), שמורדי סדום תבעו את מורשתה והפכו אותה." },
+    { title = "שָׂטָן", path = "wiki/satan", description = "סיעת כוכב הבית שדחקה להשמדת האנושות; נבדלת מן הנחש של לוציפר." },
+    { title = "הברית", path = "wiki/the-alliance", description = "הגוף שהמכה אוכפת את מדיניות הבלימה שלו." },
+]
 
 [extra.infobox]
-type = "Multi-component narrative event; the late-Taurus Council preventive strike against an organized human vengeance movement at the Cities of the Plain"
-chronology = "Late Age of Taurus (conventionally placed approximately 2,000-1,800 BCE on the conventional Abrahamic chronology); approximately 2,500-3,000 years after the Babel intervention; during Abraham's lifetime"
-location = "The Cities of the Plain — Sodom (סְדֹם), Gomorrah (עֲמֹרָה), and the additional cities Admah, Zeboiim, and Zoar — situated in the lower Jordan Valley of the southern Levant; the principal site corresponds to the modern Dead Sea basin"
-participants_council_side = "The home-world Council of the Eternals (the intervening party, monitoring the situation through remote observation); two Council scouts (the 'two angels' of Genesis 19:1) sent for verification reconnaissance; the broader Council military operations responsible for the atomic strike"
-participants_human_side = "The Sodom and Gomorrah rebel population (the descendants of post-Babel scattered scientific elite who had reaccumulated knowledge during the long quiet); Lot and his immediate family (Abraham's nephew, identified by the scouts as not part of the vengeance movement and worth preserving); the broader population of the Cities of the Plain"
-abraham_role = "Witness and intercessor; the Mamre conversation between Abraham and the Yahweh-figure (Genesis 18) preserves the substantial negotiation over the threshold of righteous people; the verification confirmed that the threshold could not be met; the strike was authorized; Abraham's nephew Lot was extracted before the strike"
-purpose_of_the_rebellion = "Organized vengeance / military retaliation: the human-led conspiracy to reverse, by force, the Council's policy of containment, with substantial weapons-program development drawing on scientific knowledge salvaged and reaccumulated during the long quiet between Babel and Sodom"
-council_intervention = "Multi-component intervention: (1) reconnaissance verification by two Council scouts equipped with personal hardware (the 'pocket atomic weapon' of the source's account); (2) extraction of the small population worth preserving (Lot and his immediate family); (3) targeted atomic strike against the Cities of the Plain; (4) substantial geological and ecological transformation of the broader Dead Sea basin"
-physical_signature = "The Dead Sea basin: hypersaline terminal lake approximately 430 meters below sea level, with water ten times saltier than ordinary seawater, dead to all normal aquatic life, sitting in a landscape of sterile salt flats and barren marl; magnesium-chloride dominance; heavy-metal concentrations; surrounding sterilized salt flats extending well beyond ordinary lakeshore evaporation patterns"
-operational_consequence = "The substantial reduction of the Eden lineage to 'a very primitive state' through the elimination of the educated class; the substantial shift from the post-Babel slow-knowledge-reaccumulation phase to the post-Sodom semi-primitive phase; the substantial Serpent-symbolism transformation from positive to negative valence; the broader cultural-symbolic conditions that produced the subsequent Christian-tradition Devil/Lucifer/Serpent conflation"
-distinguished_from = "The Babel intervention (the chronologically earlier Gemini-age dispersion event with substantively different operational character — peace-offering reconciliation attempt vs. organized vengeance movement); the Great Flood (the chronologically much earlier Gemini-age planetary-scale destruction event); the broader Theomachy multi-age narrative (within which Sodom operates as one specific late-Taurus phase); the conventional 'sin of Sodom' theological reading (the framework's specific contribution is the political-military-rebellion reading rather than the conventional sexual-deviance reading)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in 'The Truth' chapter, 'Sodom and Gomorrah' section, of *The Book Which Tells the Truth* establishes the framework's specific content with explicit articulation"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Sodom and Gomorrah' section (the principal Yahweh passage); *timeline.epub* Age of Taurus chapter, Section VI ('The Two Scouts, the Strike, and the Dead Sea') and Section VII ('The Forgetting and the Transformation of the Serpent') — the substantial subsequent corpus articulation"
+type = "אירוע סיפורי; המכה של המועצה בסוף עידן השור נגד תנועת נקמה אנושית מאורגנת בערי הכיכר"
+chronology = "סוף עידן השור (ממוקם במקובל בערך 2,000–1,800 לפנה״ס בכרונולוגיה של האבות); כ־2,500–3,000 שנה אחרי ההתערבות בבבל; בימי חייו של אברהם"
+location = "ערי הכיכר — סדום (סְדֹם), עמורה (עֲמֹרָה) והערים הנוספות אדמה, צביים וצוער — בעמק הירדן התחתון שבדרום הלבנט; האתר העיקרי תואם את אגן ים המלח של ימינו"
+participants_council_side = "מועצת הנצחיים של כוכב הבית, שעקבה אחר המצב בתצפית מרחוק; שני סיירים של המועצה ('שני המלאכים' של בראשית יט 1) שנשלחו לאמת את האיום; אנשי המועצה שביצעו את המכה"
+participants_human_side = "אוכלוסיית סדום ועמורה — צאצאי העילית המדעית שפוזרה אחרי בבל ושאספה מחדש ידע בתקופת השקט הארוכה; לוט ומשפחתו הקרובה (אחיינו של אברהם, שנמצא כי אינו חלק מן התנועה וראוי לשימור)"
+abraham_role = "עד ומליץ יושר; השיחה בממרא (בראשית יח) משמרת את המשא ומתן שלו על סף מספר הצדיקים; כאשר לא ניתן היה לעמוד בסף אושרה המכה, ואחיינו לוט חולץ קודם לכן"
+purpose_of_the_rebellion = "נקמה מאורגנת: תוכנית בהנהגה אנושית להפוך בכוח את מדיניות הבלימה של המועצה, בהסתמך על ידע מדעי שניצל ונצבר מחדש בתקופת השקט הארוכה בין בבל לסדום"
+council_intervention = "(1) סיור של שני סיירים המצוידים בחומרה אישית ('הנשק האטומי הכיסי' של המקור); (2) חילוץ האוכלוסייה הקטנה הראויה לשימור (לוט ומשפחתו); (3) מכה אטומית ממוקדת על ערי הכיכר; (4) השינוי הגאולוגי של אגן ים המלח"
+physical_signature = "אגן ים המלח: אגם סופי היפר־מלוח כ־430 מטר מתחת לפני הים, מלוח פי עשרה בערך ממי הים, מת לחיים ימיים רגילים; דומיננטיות של מגנזיום כלורי; ריכוזים חריגים של מתכות כבדות; מישורי מלח עקרים מסביב"
+operational_consequence = "הידרדרות שושלת עדן ל'מצב פרימיטיבי מאוד' עקב אובדן המעמד המשכיל שלה; המעבר משלב ההתאוששות שאחרי בבל אל הנסיגה שאחרי סדום; היפוך סמליות הנחש מחיובית לשלילית, שהזין את הזיהוי המאוחר של השטן, לוציפר והנחש זה עם זה"
+distinguished_from = "ההתערבות בבבל (יוזמת שלום מוקדמת יותר שפוזרה, לא מרד שדוכא); המבול הגדול (מכה מוקדמת בהרבה בקנה מידה פלנטרי); סיפור התאומכיה הרחב (שבתוכו סדום היא שלב אחד של סוף עידן השור); הקריאה המקובלת של 'חטא סדום' (המסגרת קוראת מרד פוליטי־צבאי, לא סטייה מינית)"
+status_in_source_material = "מתועד; קטע יהוה העיקרי מופיע בקטע 'סדום ועמורה' ב־*הספר המגלה את האמת*"
+principal_text = "*הספר המגלה את האמת* (1974), הקטע 'סדום ועמורה' (קטע יהוה העיקרי); *timeline.epub*, פרק עידן השור, סעיפים VI ('The Two Scouts, the Strike, and the Dead Sea') ו־VII ('The Forgetting and the Transformation of the Serpent')"
 +++
 
 **Sodom and Gomorrah** (Hebrew: סְדֹם וַעֲמֹרָה, *Sedom va-Amorah*) is the

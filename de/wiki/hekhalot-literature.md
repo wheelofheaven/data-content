@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["Hekhalot-/Heikhalot-Literatur (הֵיכָלוֹת)", "Merkava-Mystik", "Merkaba-Mystik", "die „Palast“-Literatur", "*ma'aseh merkavah* („das Werk des Wagens“)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Shi'ur Qomah", path = "wiki/shiur-qomah", description = "Der Text der Parasangen-Maße, der in diesem Korpus überliefert und vom raëlianischen Kanon gelesen wird." },
+    { title = "Kabbala", path = "wiki/kabbalah", description = "Die spätere klassische jüdische Mystik, der diese vorkabbalistische Schicht um Jahrhunderte vorausgeht." },
+    { title = "Baum des Lebens", path = "wiki/tree-of-life", description = "Das kabbalistische Diagramm, das sich aus der Tradition des Aufstiegs durch die Paläste entwickelt." },
+    { title = "Hebräische Bibel", path = "wiki/hebrew-bible", description = "Quelle von Hesekiels Vision des Thronwagens, nach der die Merkawa-Mystik benannt ist." },
+    { title = "Jahwe", path = "wiki/yahweh", description = "Die thronende Gestalt der Merkawa, deren Statur das eingebettete Schi’ur Koma vermisst." },
+    { title = "Entsiegelt im Jahr eins", path = "articles/unsealed-in-year-one", description = "Liest die Qumran-Lieder für das Sabbatopfer als proto-merkawische Liturgie hinter dieser Tradition." }
+]
 
 [extra.infobox]
 type = "Korpus spätantiker/frühmittelalterlicher jüdisch-mystischer Texte (vorkabbalistisch)"

@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
-source_updated = "2026-11-11"
+translation_updated = "2026-11-12"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -244,7 +244,7 @@ Pour le corpus, cela signifie que le Livre d'Hénoch doit être traité comme un
 
 La lecture raëlienne accepte cela littéralement. Hénoch fut emmené sur la planète d'origine par les créateurs exilés ou par des visiteurs du conseil. Ses expériences ultérieures — décrites dans le Livre d'Hénoch et les traditions apparentées — constituent l'un des témoignages anciens les plus précis de contact direct avec les Élohim préservés dans toute source. Le détail astronomique et cosmologique du Livre d'Hénoch, dans cette lecture, provient de ce qu'Hénoch a effectivement vu durant sa visite. La spécificité technique de certains passages hénochiques — les descriptions de la géographie cosmique, les systèmes calendaires, la structure des cieux — est l'enregistrement survivant de la rencontre d'un humain ancien avec une civilisation considérablement plus avancée que la sienne.
 
-**Les Juifs comme descendants directs.** La source fait une autre affirmation sur les Néphilim qui mérite un traitement soigné, parce qu'elle est à la fois précise et conséquente pour l'histoire ultérieure que le corpus retracera. Durant la seconde rencontre de Raël avec les Élohim, en 1975, Yahvé fait une révélation que la source présente avec une emphase inhabituelle{{ cite(id="2") }} : *« Les Juifs sont nos descendants directs sur la Terre. C'est pour cela qu'un destin particulier leur est réservé. Ils sont les descendants des fils d'Elohim et des filles des hommes dont il est question dans la Genèse. Leur faute originelle fut de s'être unis à leur création scientifique. »*
+**Les Juifs comme descendants directs.** La source fait une autre affirmation sur les Néphilim qui mérite un traitement soigné, parce qu'elle est à la fois précise et conséquente pour l'histoire ultérieure que le corpus retracera. Durant la seconde rencontre de Raël avec les Élohim, en 1975, Yahvé fait une révélation que la source présente avec une emphase inhabituelle{{ cite(id="2") }} : *« Les Juifs sont nos descendants directs sur la Terre. C'est pour cela qu'un destin particulier leur est réservé. Ils sont les descendants des fils d'Elohim et des filles des hommes dont il est question dans la Genèse. Leur faute originelle fut de s'être unis à leur création scientifique. »* (ETTMTTP-2:104)
 
 L'affirmation est précise, et le corpus la rapporte dans les propres mots du canon. Le canon fait deux affirmations sur le peuple d'Israël. Dans la première, les humains faits par l'équipe de créateurs dont le laboratoire se trouvait dans cette terre furent élus, lors de l'un des concours entre les équipes, comme « le type humanoïde terrestre le plus réussi sur le plan intelligence et génie », ce que le canon donne comme l'origine de la compréhension qu'Israël a de lui-même comme peuple élu (TBWTT-2:43). Dans la seconde, citée plus haut, les Juifs sont les descendants des unions des fils des Élohim avec les filles des hommes (ETTMTTP-2:104, 2:123). Raël ne relie les deux qu'à titre d'hypothèse, en répondant à un lecteur dans sa propre voix de commentateur plutôt que dans un Message dicté : « C'est peut-être justement parce que ce peuple était le plus réussi que les fils d'Elohim se laissèrent tenter par leurs filles » (LWTE-1:18). Le canon parle de descendance et de lignée. Il n'avance aucune affirmation génétique, et le corpus n'en ajoute aucune : « descendants directs » est l'expression du canon, et elle n'est pas transformée ici en une affirmation sur les gènes, des capacités héritées ou quelque population actuelle que ce soit (voir [Hébreux](/fr/wiki/hebrews/)).
 

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -16,18 +16,26 @@ category = "Science & Technology"
 entry_type = "concept"
 alternative_names = ["Drake Equation", "Green Bank Equation (occasional alternative)", "Drake-Sagan Equation (rarely used)", "\u00e9quation de Drake (French)", "Drake-Gleichung (German)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "אסטרוביולוגיה", path = "wiki/astrobiology", description = "תוכנית המחקר המקובלת שבתוכה הקורפוס עוסק במשוואה." },
+    { title = "אופולוגיה", path = "wiki/ufology", description = "תחום עדויות המגע שהקורפוס קורא כמי שכבר פותר את שאלת פרמי של המשוואה." },
+    { title = "כוכב־האם של האלוהים", path = "wiki/elohim-home-planet", description = "הציוויליזציה המתועדת המסוימת שהקורפוס מתייחס אליה כמקרה הפתור של המשוואה." },
+    { title = "תחרות קוסמית", path = "wiki/cosmic-competition", description = "קריאת המסגרת בדינמיקה של ציוויליזציות גלקטיות, שהמשוואה סופרת באופן מופשט." },
+    { title = "תנאי הלכידות של סנדי", path = "wiki/sendys-conditions-of-coherence", description = "אילוץ נקודת הנתונים היחידה על הפרמטרים הביולוגיים והציוויליזציוניים של המשוואה." },
+    { title = "השערת האסטרונאוטים הקדמונים", path = "wiki/ancient-astronaut-hypothesis", description = "המסגרת הרחבה שבה הקורפוס ממקם את הטענה שהמגע כבר נוצר." },
+]
 
 [extra.infobox]
-type = "Probabilistic formulation expressing the number of detectable communicative extraterrestrial civilizations in the Milky Way galaxy as the product of seven contributing factors"
-formulated_by = "Frank Drake (1930-2022); November 1, 1961 at National Radio Astronomy Observatory, Green Bank, West Virginia, for the first SETI conference (the 'Order of the Dolphin' meeting)"
+type = "נוסחה הסתברותית המבטאת את מספר הציוויליזציות החוץ־ארציות המתקשרות שניתן לגלות בשביל החלב כמכפלה של שבעה גורמים"
+formulated_by = "פרנק דרייק (1930–2022); 1 בנובמבר 1961 במצפה הרדיו־אסטרונומי הלאומי, גרין בנק, מערב וירג'יניה, לקראת כנס SETI הראשון (מפגש 'מסדר הדולפין')"
 equation = "N = R* \u00d7 fp \u00d7 ne \u00d7 fl \u00d7 fi \u00d7 fc \u00d7 L"
-parameters = "R* (rate of star formation); fp (fraction of stars with planets); ne (number of habitable planets per planet-bearing star); fl (fraction of habitable planets developing life); fi (fraction with intelligence); fc (fraction with detectable communication); L (lifetime of communicative civilizations)"
-principal_purpose = "Structural framework organizing the questions a SETI program must engage; 'a tool for quantifying our ignorance' (Drake); not principally a definitive quantification tool"
-parameter_constraint_status = "Astronomical parameters (R*, fp, ne) substantially constrained post-1995 through exoplanet revolution; biological and civilizational parameters (fl, fi, fc, L) remain substantively contested"
-principal_reformulations = "Sara Seager's biosignature-detection equation (2013); Adam Frank and Woodruff Sullivan archaeological reformulation (2016); Anders Sandberg, Eric Drexler, Toby Ord uncertainty-propagation analysis (2018)"
-principal_framing_question = "The Fermi Paradox (1950): given optimistic parameter estimates implying substantial galactic civilization counts, why don't we observe any?"
-corpus_position = "Substantive scientific framework engaged at the descriptive level; alliance-contact framework articulated in Vorilhon source provides substantive resolution to Fermi Paradox the equation generates"
-distinguished_from = "The broader SETI program (Drake Equation as one component); the Fermi Paradox (the question the equation's optimistic estimates pose); the Seager equation (post-2013 biosignature-focused adaptation); the Frank-Sullivan archaeological equation (2016 reformulation focused on past rather than present civilizations)"
+parameters = "R* (קצב היווצרות הכוכבים); fp (שיעור הכוכבים שיש להם כוכבי לכת); ne (מספר כוכבי הלכת הכשירים לחיים לכל כוכב בעל כוכבי לכת); fl (שיעור כוכבי הלכת הכשירים לחיים שבהם מתפתחים חיים); fi (השיעור שבו מתפתחת תבונה); fc (השיעור שבו מתפתחת תקשורת ניתנת לגילוי); L (משך חייהן של ציוויליזציות מתקשרות)"
+principal_purpose = "סדר יום המארגן את השאלות שתוכנית SETI חייבת לעסוק בהן; 'דרך לכמת את בורותנו' (דרייק) — ולא בעיקר כלי לחישוב"
+parameter_constraint_status = "האיברים האסטרונומיים (R*,‏ fp,‏ ne) מוגבלים היטב מאז מהפכת כוכבי הלכת החוץ־שמשיים של 1995; האיברים הביולוגיים והציוויליזציוניים (fl,‏ fi,‏ fc,‏ L) נותרו שנויים במחלוקת"
+principal_reformulations = "משוואת הסמנים הביולוגיים של שרה סיגר (2013); הניסוח הארכאולוגי מחדש של פרנק וסאליבן (2016); ניתוח אי־הוודאות של סנדברג, דרקסלר ואורד (2018)"
+principal_framing_question = "פרדוקס פרמי (1950): אם הערכים האופטימיים של המשוואה מרמזים על גלקסיה מלאה בציוויליזציות, מדוע איננו צופים באף אחת?"
+corpus_position = "המסגרת מתייחסת למשוואה כמדע תקין אך קוראת את פרדוקס פרמי שהיא מעוררת כפתור כבר — המגע עם האלוהים, המדווח במקור הראליאני, קובע ש־N גדול מאחד במקום להשאירו להערכה"
+distinguished_from = "תוכנית SETI הרחבה (המשוואה היא חלק אחד ממנה); פרדוקס פרמי (השאלה שמעוררים הערכים האופטימיים של המשוואה); משוואת סיגר (ממוקדת בסמנים ביולוגיים, 2013); המשוואה הארכאולוגית של פרנק וסאליבן (ציוויליזציות עבר ולא הווה, 2016)"
 status_in_framework = "Substantive contemporary scientific formulation engaged within corpus framework's broader astrobiology engagement; principal resolution to Fermi Paradox articulated through alliance-contact framework"
 +++
 

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -20,12 +20,13 @@ claim_type = "framework"
 alternative_names = ["宇宙鏈", "創造之鏈", "宇宙創造之鏈", "反覆運作的宇宙進程", "宇宙創造循環", "創造者的循環"]
 timeline = ["pre-creation", "aries", "pisces", "aquarius", "post-aquarius"]
 see_also = [
-    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "更廣闊宇宙鏈之內的特定評估階段——繼承資格的考核。" },
-    { title = "Elohim", path = "wiki/elohim", description = "在白羊座時代發現自身亦曾被創造的那個創造者文明。" },
-    { title = "Apocalypse", path = "wiki/apocalypse", description = "水瓶座時代的繼承評估——此鏈對地球人類而言的當下階段。" },
-    { title = "Embassy", path = "wiki/embassy", description = "繼承事件的預定場所,地球將於此處接收同盟所累積的知識。" },
-    { title = "Doubled Signature", path = "wiki/doubled-signature", description = "在更廣闊宇宙鏈框架內運作的一項相關詮釋原則。" },
-    { title = "Genesis", path = "wiki/genesis", description = "創世記敘事被讀作此鏈反覆出現的創造模式的一個具體實例。" },
+    { title = "宏觀生物學", path = "wiki/macrobiology", description = "人類被讀作高一級尺度的有機體,沿著受造且創造之文明鏈傳遞下去。" },
+    { title = "宇宙競爭", path = "wiki/cosmic-competition", description = "更廣闊宇宙鏈之內的特定評估階段——繼承資格的考核。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "在白羊座時代發現自身亦曾被創造的那個創造者文明。" },
+    { title = "啟示", path = "wiki/apocalypse", description = "水瓶座時代的繼承評估——此鏈對地球人類而言的當下階段。" },
+    { title = "大使館", path = "wiki/embassy", description = "繼承事件的預定場所,地球將於此處接收同盟所累積的知識。" },
+    { title = "雙重署名", path = "wiki/doubled-signature", description = "在更廣闊宇宙鏈框架內運作的一項相關詮釋原則。" },
+    { title = "創世記", path = "wiki/genesis", description = "創世記敘事被讀作此鏈反覆出現的創造模式的一個具體實例。" },
 ]
 
 footnotes = [

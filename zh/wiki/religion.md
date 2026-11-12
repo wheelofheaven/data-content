@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,17 +15,28 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["*religio* (Latin)", "*religare* (Latin verbal root, 'to bind/link')", "the cultivated bond", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "耶洛因", path = "wiki/elohim", description = "按框架的解读，宗教所培育的联结所指向的施造文明。" },
+    { title = "新埃乌赫梅罗斯主义", path = "wiki/neo-euhemerism", description = "框架据以将神话与宗教解码为真实接触之记忆的诠释方法。" },
+    { title = "雷尔派", path = "wiki/raelism", description = "在 religare 意义上自我定位为无神论宗教的运动。" },
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "其“religare 即联结”的框架先于文集的解读并为之奠基的作者。" },
+    { title = "先知", path = "wiki/prophet", description = "造物主与受造者之间的联结借以周期性更新的信使角色。" },
+    { title = "众神之多元性", path = "wiki/plurality-of-gods", description = "框架在宗教所保存的诸传统背后解读出的复数造物者。" },
+    { title = "希伯来圣经", path = "wiki/hebrew-bible", description = "保存联结维系内容的一个主要文本传统。" },
+    { title = "宗教中的宗教", path = "articles/the-religion-of-religions", description = "借 religare 词源和年轻的普世主义宗教家族来解读雷尔派“无神论宗教”的自我定义。" },
+    { title = "一神论是个错误的问题", path = "articles/monotheism-is-the-wrong-question", description = "为何“一神论对多神论”是错误的框架——反偶像论战作为记忆与效忠，单数者作为复数造物者的代表。" },
+]
 
 [extra.infobox]
-type = "Foundational concept; the framework's specific definition of religion as the cultivated relationship between humanity and its extraterrestrial creators"
-etymology = "Latin *religio* ('religious obligation, conscientious observance, sanctity'), most plausibly derived from *religare* ('to bind, to tie, to link'); Cicero in *De Natura Deorum* offered the alternative derivation from *relegere* ('to re-read, to consider carefully'); the *religare* etymology is the one the framework operates principally"
-framework_definition = "The cultivated relationship between humanity and the specific civilization (the Elohim) that produced terrestrial life through deliberate scientific work; the bond requiring active cultivation across generations through ritual, instruction, textual preservation, architectural orientation, and broader institutional apparatus"
-distinguished_from = "Mainstream academic religious-studies definitions (Tylor, Durkheim, Eliade, Geertz, Smart, Asad — operating principally through cultural-symbolic-experiential framings); the Marx/Lenin 'opium of the people' tradition (operating principally through ideological-functional critique); the New Atheist tradition (operating principally through cognitive-error and harmful-institutional framings); the perennialist tradition (operating principally through transcendent-unity framings); the various supernatural-theistic traditions (operating principally through divine-revelation framings)"
-principal_source_articulation = "Vorilhon: 'Religion from the Latin religio means \"that which links\" or \"the tie\", which unites the creators to their creation' (*Let Us Welcome the Extra-Terrestrials*, 1979); Sendy: 'La religion vient du latin religare, qui veut dire relier... l'étymologie définit parfaitement l'objet initial des religions : maintenir le lien entre les cieux et la Terre' (*L'ère du Verseau*, 1970)"
-raelian_movement_self_positioning = "An 'atheist religion' — religion in the *religare* sense (cultivated bond between creators and created) while atheist in the technical sense (rejecting supernatural divinity, since the Elohim are biological beings rather than supernatural gods)"
-cross_cultural_pattern = "Priesthood-architecture-ritual complexes operating as link-maintenance institutions across virtually every major civilization: Mesopotamian, Egyptian, Vedic / Hindu, Greek and Roman, Chinese, Mesoamerican, various indigenous traditions"
-status_in_framework = "Foundational concept; the framework's specific definition of what religion IS, supporting the broader integration of revelation, prophetic-tradition, sacred-text, ritual, and architectural-iconographic content across the corpus"
-principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) — principal direct source articulation; *L'ère du Verseau* (Sendy, 1970), particularly the *La Religion* section — substantial pre-Raëlian articulation; *timeline.epub* — substantial subsequent corpus development with Noah's pre-flood community as the original religious community"
+type = "基础概念；本框架对宗教的定义：人类与其创造者耶洛因之间经培育而维系的纽带"
+etymology = "拉丁语 *religio*（「宗教义务、谨严的奉行、神圣性」），最可能源自 *religare*（「捆绑、系结、连接」）；西塞罗在 *De Natura Deorum* 中提出另一种词源，即源自 *relegere*（「重读、仔细思量」）。本框架采用 *religare* 词源"
+framework_definition = "人类与耶洛因——通过有意的科学工作造出地球生命的文明——之间经培育而维系的纽带，借由仪式、教导、文本保存以及圣建筑的朝向代代相传"
+distinguished_from = "学院派宗教研究的定义（泰勒、涂尔干、伊利亚德、格尔茨、斯马特、阿萨德——文化—象征—体验的框架）；马克思／列宁「人民的鸦片」批判；新无神论的认知谬误框架；永恒主义的超验统一框架；超自然有神论的神启框架"
+principal_source_articulation = "沃里隆：「宗教（religion）一词源自拉丁语 religio，意为“联结者”或“纽带”，它将创造者与其造物联结在一起」（《让我们欢迎外星人》，1979）；桑迪：'l'étymologie définit parfaitement l'objet initial des religions : maintenir le lien entre les cieux et la Terre'（*L'ère du Verseau*，1970）"
+raelian_movement_self_positioning = "一种「无神论宗教」——在 *religare* 意义上是宗教（创造者与被造者之间经培育的纽带），在否认超自然神性的意义上是无神论，因为耶洛因是生物性的存在而非神"
+cross_cultural_pattern = "在各主要文明中作为维系联结之机构而运作的祭司—建筑—仪式复合体：美索不达米亚、埃及、吠陀、希腊—罗马、中国、中美洲以及各萨满传统"
+status_in_framework = "基础概念；本框架对宗教本质的定义，支撑着整个文集对启示、预言、圣典、仪式与圣建筑的处理"
+principal_corpus_treatment = "《让我们欢迎外星人》（沃里隆，1979）——主要的源材料表述；*L'ère du Verseau*（桑迪，1970），尤其是 *La Religion* 一节——雷尔派之前的表述；*timeline.epub*——文集后来的发展，以挪亚的洪水前群体为第一个宗教群体"
 +++
 
 **Religion** (Latin *religio*, most plausibly from *religare*, "to bind, to tie,

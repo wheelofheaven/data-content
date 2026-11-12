@@ -5,29 +5,37 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["ufology", "UAP studies (contemporary policy designation)", "flying saucer studies (historical designation)", "anomalistics (broader related field)", "exopolitics (specific subdiscipline)", "OVNIs (French; Objet volant non identifié)", "UFO research"]
+alternative_names = ["уфология", "изучение UAP (современное политическое обозначение)", "изучение летающих тарелок (историческое обозначение)", "аномалистика (более широкая смежная область)", "exopolitics (specific subdiscipline)", "OVNIs (франц.; Objet volant non identifié)", "исследование НЛО"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
 see_also = [
+    { title = "Военное сокрытие экзобиологии", path = "wiki/military-cover-up-of-exobiology", description = "Вопрос о правительственной секретности и раскрытии, проходящий через всю современную уфологию." },
     { title = "PURSUE", path = "wiki/pursue", description = "Программа правительства США 2026 года, публикующая неразрешённые материалы о UAP на war.gov/UFO, — текущее институциональное развитие поля." },
+    { title = "Гипотеза древних астронавтов", path = "wiki/ancient-astronaut-hypothesis", description = "Историческая традиция контакта в прошлом, рядом с которой стоит уфология и с которой её часто смешивают." },
+    { title = "Иезекииль", path = "wiki/ezekiel", description = "Видение колесницы, которое рамка читает как досовременную встречу с аппаратом Элохим." },
+    { title = "Астробиология", path = "wiki/astrobiology", description = "Магистральная наука о внеземной жизни, отличная от исследования наблюдений в уфологии." },
+    { title = "Родная планета Элохимов", path = "wiki/elohim-home-planet", description = "Мир Элохим, куда, по сообщению Раэля, его доставили в 1975 году, — собственный случай контактёра в рамке." },
+    { title = "Сравнительная мифология", path = "wiki/comparative-mythology", description = "Межкультурная преемственность фольклора, которую Валле проследил сквозь феномен." },
+    { title = "Множественность богов", path = "wiki/plurality-of-gods", description = "Прочтение древних небесных гостей, которого касается досовременная летопись НЛО." },
 ]
 
 [extra.infobox]
-type = "Interdisciplinary field studying reports of unidentified flying objects (UFOs) / Unidentified Aerial Phenomena (UAP) and the broader question of non-human technological presence; substantive engagement community within which corpus framework operates"
-disciplinary_origin = "Kenneth Arnold sighting June 24, 1947 (Mount Rainier, Washington); Roswell incident July 1947; subsequent Project Sign 1947-1949, Project Grudge 1949-1952, Project Blue Book 1952-1969 U.S. government investigation programs"
-principal_disciplinary_figures = "J. Allen Hynek (Close Encounter classification; *The UFO Experience*, 1972); Jacques Vallée (*Passport to Magonia*, 1969; cross-cultural folklore framework); Donald Keyhoe (early popularization); Stanton Friedman (nuclear physicist; Roswell engagement); John Mack (Harvard psychiatrist; abduction engagement); Edward Ruppelt (Project Blue Book directorship; coined 'UFO')"
-principal_us_government_programs = "Project Sign 1947-1949; Project Grudge 1949-1952; Project Blue Book 1952-1969; AATIP 2007-2012; AAWSAP; UAP Task Force 2020; All-Domain Anomaly Resolution Office (AARO) 2022"
-principal_2017_2024_transformation = "December 2017 NYT article disclosing AATIP; April 2020 Pentagon UAP video releases; June 2021 ODNI Preliminary Assessment on UAP; July 2023 congressional hearings with David Grusch testimony; September 2023 NASA UAP Independent Study Team report; November 2024 follow-up congressional hearings"
-principal_civilian_organizations = "NICAP (National Investigations Committee on Aerial Phenomena); APRO (Aerial Phenomena Research Organization); CUFOS (Center for UFO Studies); MUFON (Mutual UFO Network)"
-corpus_position = "Engages ufology substantively as the research community within which Vorilhon contact narrative operates as principal contactee case material; differs methodologically from mainstream ufology in that corpus framework operates from established alliance-contact reality (Vorilhon source) rather than from open question whether non-human presence exists"
-distinguished_from = "Astrobiology (the broader scientific field engaging extraterrestrial life question generally; ufology operates as one component); SETI (the search for technological signals from extraterrestrial civilizations; distinct from UFO/UAP investigation); Ancient Astronaut Hypothesis (the engagement with historical evidence for past contact; substantively adjacent but distinct); exopolitics (the specific subdiscipline engaging governmental policy and political dimensions of contact)"
-status_in_framework = "Substantive contemporary research community within which corpus framework's empirical claims about ongoing alliance presence operate"
+type = "Междисциплинарная область, изучающая сообщения о неопознанных летающих объектах (НЛО) и неопознанных аномальных явлениях (НЛЯ), а также вопрос о нечеловеческом технологическом присутствии на Земле; развивается в основном вне общепринятой науки"
+disciplinary_origin = "Наблюдение Кеннета Арнольда 24 июня 1947 года (гора Рейнир, штат Вашингтон); подбор обломков в Розуэлле в июле 1947 года; программы ВВС США Project Sign (1947–1949), Project Grudge (1949–1952) и Project Blue Book (1952–1969)"
+principal_figures = "Дж. Аллен Хайнек (классификация близких встреч; *The UFO Experience*, 1972); Жак Валле (*Passport to Magonia*, 1969; межкультурная фольклорная рамка); Дональд Кихо (ранняя популяризация); Эдвард Руппельт (руководитель проекта Blue Book; ввёл термин «НЛО» (UFO)); Джон Мак (психиатр из Гарварда; исследование похищений)"
+principal_us_government_programs = "Project Sign (1947–1949); Project Grudge (1949–1952); Project Blue Book (1952–1969); AATIP (2007–2012); UAP Task Force (2020); Управление по разрешению аномалий во всех средах (AARO, 2022)"
+modern_uap_era = "Декабрь 2017 — статья New York Times об AATIP; апрель 2020 — публикация Пентагоном видео FLIR1, Gimbal и GoFast; июнь 2021 — оценка ODNI; июль 2023 — слушания в Конгрессе с Дэвидом Грушем; сентябрь 2023 — доклад NASA по НЛЯ; ноябрь 2024 — повторные слушания"
+principal_civilian_organizations = "NICAP; APRO; CUFOS (основан в 1973 году Хайнеком); MUFON"
+principal_skeptics = "Дональд Мензел; Филип Класс; Карл Саган; Комитет скептических расследований (CSICOP / CSI)"
+corpus_position = "Читает уфологию как более широкий контекст контакта Раэля 1973 года, рассматриваемого как одно из многих сообщений контактёров; рамка исходит из изложения контакта в каноне, а не из открытого вопроса уфологии"
+distinguished_from = "Астробиология (общепринятая наука о внеземной жизни); SETI (поиск технологических сигналов); гипотеза древних астронавтов (контакт в историческом прошлом); экзополитика (политическая подобласть)"
+status_in_framework = "Современная область, в которой находится основополагающий случай контакта рамки; документированные данные и инопланетная интерпретация разведены"
 +++
 
 **Ufology** is the study of reports of **unidentified flying objects (UFOs)**

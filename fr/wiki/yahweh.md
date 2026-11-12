@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 99
@@ -23,14 +23,16 @@ alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "Jéhovah",
 portrait_id = "yahweh"
 image = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.avif"
-image_alt = "AI-generated editorial portrait of Yahweh as an elder Eloha with almond-shaped eyes, long pale hair, and a calm green-lit presence."
-image_caption = "Interpretive portrait for the Yahweh wiki entry and library speaker metadata."
+image_alt = "Portrait éditorial généré par IA représentant Yahvé en Eloha âgé aux yeux en amande, aux longs cheveux pâles, d'une présence calme baignée de lumière verte."
+image_caption = "Portrait interprétatif pour l'entrée wiki Yahvé et les métadonnées d'orateur de la bibliothèque."
 see_also = [
     { title = "Élohim", path = "wiki/elohim", description = "La désignation plurielle dont Yahvé est le membre principal." },
     { title = "Conseil des Éternels", path = "wiki/council-of-the-eternals", description = "L'organe directeur que Yahvé préside." },
     { title = "Jésus", path = "wiki/jesus", description = "La figure conventionnellement identifiée comme le fils de Yahvé dans la tradition chrétienne." },
     { title = "Moïse", path = "wiki/moses", description = "Le principal contact de Yahvé pendant le récit de l'Exode." },
     { title = "Abraham", path = "wiki/abraham", description = "Le patriarche fondateur par lequel Yahvé a établi l'alliance." },
+    { title = "Le monothéisme est la mauvaise question", path = "articles/monotheism-is-the-wrong-question", description = "Yahvé lu comme un Éloha nommé et représentatif qui parle au nom des créateurs pluriels — et non comme l'être lui-même." },
+    { title = "Six matins, six ans", path = "articles/six-mornings-six-years", description = "Le lit comme son propre rédacteur : noms retenus, embargos datés, réparation protégeant les sources." },
 ]
 
 footnotes = [

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["*Shiʿur Qomah* (שִׁעוּר קוֹמָה)", "Sefer Haqqomah ('ספר הגוף [האלוהי]')", "מידת הקומה", "מידת הגוף", "Ma'amar Rabbi Yishmael"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "יהוה", path = "wiki/yahweh", description = "הדמות שמדידות ״קומת היוצר״ שלה הקנון מייחס לקבלה." },
+    { title = "כוכב־האם של האלוהים", path = "wiki/elohim-home-planet", description = "המרחק שהמסגרת משחזרת כאשר הפרסה של הטקסט נקראת כשניית־אור." },
+    { title = "ספרות ההיכלות", path = "wiki/hekhalot-literature", description = "הקורפוס המיסטי של ההיכלות והמרכבה מסוף העת העתיקה, שהטקסט שייך לו." },
+    { title = "קבלה", path = "wiki/kabbalah", description = "המיסטיקה המאוחרת יותר שהקנון הראליאני מציין כמקור מידות הפרסה." },
+    { title = "אלוהים", path = "wiki/elohim", description = "המהנדסים שהמסגרת קוראת את מדידותיהם הקוסמיות מאחורי מידות הגוף האלוהי." },
+    { title = "המקרא העברי", path = "wiki/hebrew-bible", description = "המקור הכתובי שהגימטריה של תהלים קמז 5 בו יוצרת את מספר אבן הראשה 236." },
+]
 
 [extra.infobox]
 type = "חיבור מתוך הקורפוס המיסטי של ההיכלות / המרכבה; 'מידת הגוף האלוהי' האנתרופומורפית"

@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "在 PURSUE 第一批材料公布两周后,美国战争部在 war.gov/UFO 发布第二批:逾五十项此前列为机密的内容,包括首段非热成像、全彩色的 UAP 视频、一架 MQ-9 死神无人机在约旦—叙利亚边境对目标实施武器锁定的事件、2022年3月一艘潜艇与跨介质球体之间的相遇,以及1948—1950年新墨西哥州桑迪亚的116页档案文献。本项目将第二批材料登记为解读正典的背景,而非回归的征兆。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "当下的背景"
+cross_reference = "水瓶座时代，§IX"
 canon_links = [
     { title = "水瓶座时代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

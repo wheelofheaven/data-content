@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 99
@@ -23,14 +23,16 @@ alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "耶和华"
 portrait_id = "yahweh"
 image = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.avif"
-image_alt = "AI-generated editorial portrait of Yahweh as an elder Eloha with almond-shaped eyes, long pale hair, and a calm green-lit presence."
-image_caption = "Interpretive portrait for the Yahweh wiki entry and library speaker metadata."
+image_alt = "AI 生成的耶和华编辑性肖像：一位年长的耶洛因，杏仁形的眼睛，浅色长发，在绿光映照下神态安详。"
+image_caption = "用于耶和华百科条目及图书馆讲述者元数据的诠释性肖像。"
 see_also = [
     { title = "耶洛因", path = "wiki/elohim", description = "耶和华为其首要成员的复数集合称谓。" },
     { title = "永恒者议会", path = "wiki/council-of-the-eternals", description = "耶和华所主持的治理机构。" },
     { title = "耶稣", path = "wiki/jesus", description = "在基督教传统中通常被认定为耶和华之子的人物。" },
     { title = "摩西", path = "wiki/moses", description = "出埃及叙事期间耶和华的主要联络人。" },
     { title = "亚伯拉罕", path = "wiki/abraham", description = "耶和华藉以确立盟约的奠基性列祖。" },
+    { title = "一神论是个错误的问题", path = "articles/monotheism-is-the-wrong-question", description = "耶和华被解读为一位具名的、代表性的 Eloha，代复数造物者发言——而非存在本身。" },
+    { title = "六个清晨，六年", path = "articles/six-mornings-six-years", description = "将他解读为自身的编校者：被隐去的名字、定时的禁令、保护来源的修补。" },
 ]
 
 footnotes = [

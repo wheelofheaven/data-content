@@ -6,26 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Science & Technology"
 entry_type = "concept"
-alternative_names = ["astrobiology", "exobiology (earlier synonymous term)", "bioastronomy", "xenobiology (related but distinct)", "astrobiologie (French)", "Astrobiologie (German)"]
+alternative_names = ["우주생물학", "외계생물학(이전의 동의어)", "생물천문학", "제노생물학(관련되지만 구별됨)", "astrobiologie (프랑스어)", "Astrobiologie (독일어)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "거시생물학", path = "wiki/macrobiology", description = "자매 분과: 우주생물학이 우주 속의 생명을 연구한다면, 거시생물학은 우주의 더 큰 살아 있는 단위로서의 생명을 연구합니다." },
+    { title = "엘로힘의 모행성", path = "wiki/elohim-home-planet", description = "프레임워크가 우주생물학에 빠져 있는 생명의 두 번째 사례로 제시하는 세계." },
+    { title = "고대 우주비행사 가설", path = "wiki/ancient-astronaut-hypothesis", description = "오늘날이 아니라 역사적 접촉 증거를 읽는 인접 전통." },
+    { title = "우주의 사슬", path = "wiki/cosmic-chain", description = "문명들이 생명의 씨를 뿌린다는 프레임워크의 설명으로, 그 의도적 범종설 독해의 배경." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "창조 주장을 주류 우주생물학과 나란히 위치시키는 더 넓은 프레임워크." },
+    { title = "드레이크 방정식", path = "wiki/drake-equation", description = "교신 가능한 문명을 헤아리기 위한 확률적 틀과, 그것이 제기하는 페르미 물음." },
+    { title = "장 상디", path = "wiki/jean-sendy", description = "그의 단일 데이터 지점 논증이 우주생물학 문제에 대한 코퍼스의 독해에 틀을 제공하는 저자." },
+]
 
 [extra.infobox]
-type = "Multidisciplinary scientific field studying the origin, evolution, distribution, and future of life in the universe; subject of substantive corpus engagement at the intersection of mainstream science and the alliance-contact framework"
-discipline_founding = "Joshua Lederberg coined *exobiology* in 1960; the substantial NASA Exobiology Program established 1959-1960; the term *astrobiology* came into general use in the 1990s with the founding of the NASA Astrobiology Institute (1998)"
-principal_methodological_constraint = "Sendy's single-data-point constraint (1970): mainstream biology has access to only terrestrial life as its empirical foundation; general laws of biology derived from this single example operate under substantive methodological limitation"
-principal_research_methods = "Observational astronomy (telescopes, spectroscopy of exoplanet atmospheres); laboratory simulations of extraterrestrial conditions; in situ measurement (Mars rovers, planned Europa mission); theoretical modeling and computer simulation; meteorite analysis; extremophile biology research"
-principal_contemporary_programs = "Exoplanet detection (Kepler, TESS, JWST); Mars missions (Curiosity, Perseverance); Europa Clipper (launched 2024); SETI (Allen Telescope Array, Breakthrough Listen); origin-of-life research (RNA World, alkaline hydrothermal vents, metabolism-first hypotheses)"
-principal_pre_modern_history = "Greek atomist tradition (Anaxagoras, Democritus, Epicurus, Lucretius); medieval Islamic engagement (al-Kindi, al-Biruni); Renaissance plurality-of-worlds tradition (Nicholas of Cusa, Bruno, Kepler); early-modern engagement (Fontenelle, Huygens); 19th-century engagement (Flammarion); 20th-century engagement (Tsiolkovsky, Sagan)"
-corpus_position = "Mainstream astrobiology engaged as substantive scientific work; Vorilhon-source content articulated as documenting alliance-contact narrative that provides the substantive second data point Sendy articulated as resolution to the single-data-point constraint; mainstream science and alliance-contact framework presented as substantively complementary research programs rather than as competing alternatives"
-distinguished_from = "SETI narrowly (the search for technological signals; one component of astrobiology); UFO studies (the engagement with reported sightings; methodologically distinct register); the Ancient Astronaut Hypothesis (the engagement with historical evidence for past contact; substantively adjacent but distinct discipline); xenobiology (the speculative discipline of designing or imagining non-Earth-like biological systems)"
-status_in_framework = "Principal contemporary scientific discipline engaging the corpus's empirical claims about extraterrestrial civilizational existence; substantive corpus engagement at the intersection of mainstream science and the alliance-contact framework"
+type = "우주에서 생명의 기원, 진화, 분포, 미래를 연구하는 과학 분야. Wheel of Heaven 체계가 유도 범종설의 관점에서 읽는 주류 학문"
+discipline_founding = "*Exobiology*(외계생물학)는 1960년 조슈아 레더버그가 만든 용어. NASA 외계생물학 프로그램은 1959–1960년에 설립. *astrobiology*(우주생물학)는 1990년대에 일반화되었고, NASA 우주생물학 연구소 설립(1998)으로 공식화되었습니다"
+principal_methodological_constraint = "상디의 단일 데이터 문제(1970): 생물학에는 지구 생명이라는 단 하나의 사례만 있으므로, 거기서 끌어낸 일반 법칙은 두 번째 사례가 발견되거나 제공될 때까지 잠정적입니다"
+principal_research_methods = "관측 천문학과 대기 분광학, 행성 조건과 전생물 화학의 실험실 시뮬레이션, 현장 측정(화성 탐사차, 유로파 클리퍼), 이론적 모델링, 운석 분석, 극한 생물학"
+principal_contemporary_programs = "외계 행성 탐지(케플러, TESS, JWST), 화성 임무(큐리오시티, 퍼서비어런스), 유로파 클리퍼(2024년 발사), SETI(앨런 망원경 배열, 브레이크스루 리슨), 생명 기원 연구(RNA 세계, 열수 분출구, 대사 우선설)"
+principal_pre_modern_history = "그리스 원자론자들(아낙사고라스, 데모크리토스, 에피쿠로스, 루크레티우스), 중세 이슬람 사상(알킨디, 알비루니), 르네상스의 세계 복수성 전통(니콜라우스 쿠자누스, 브루노, 케플러), 근대 초기 저술가들(퐁트넬, 하위헌스), 19세기의 플라마리옹"
+corpus_position = "주류 우주생물학을 정당한 과학으로 다룹니다. 이 체계는 지구 생명을 엘로힘이 설계한 작품 — 유도 범종설(크릭과 오겔, 1973)의 구체적 형태 — 으로 읽되, 이 해석이 과학적 기준으로 독립적으로 검증되지 않았음을 인정합니다"
+distinguished_from = "SETI(기술 신호 탐색, 우주생물학의 일부), UFO/UAP 연구(별개의 증거 영역), 고대 우주인 가설(현대가 아닌 역사적 증거), 이종생물학(지구와 다른 생화학의 설계)"
+status_in_framework = "코퍼스의 창조 주장을 가장 직접적으로 다루는 현대 과학 학문. 이 체계가 유도 범종설 해석을 위치시키는 분야"
 +++
 
 **Astrobiology** is the scientific study of life in the universe — its origin,

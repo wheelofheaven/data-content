@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "在第二批公布三周之后,美国战争部于 war.gov/UFO 发布了 PURSUE 第三批:53份文件、10幅数字渲染图、6段视频与3段 NASA 音频,材料来自中央情报局、联邦调查局、NASA 与五角大楼——这是 PURSUE 首次将民事机构所持档案与国防部材料并置发布的批次。代表性案例包括:2022年2月一名美国陆军情报军官与所属分队四名成员在夏延山脉上空观测到的马铃薯形、乳白虹彩、鱼鳞状物体;2008年在哈拉雷国际机场上空盘旋的、底部带旋转灯光并发射光束的圆盘;2026年发生于美国东北部的成对球体相遇;以及1949年胡佛时期联邦调查局关于喀斯喀特山脉上空天光汇聚的档案。本项目将第三批材料登记为解读正典的背景,而非回归的征兆。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "当下的背景"
+cross_reference = "水瓶座时代，§IX"
 canon_links = [
     { title = "水瓶座时代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

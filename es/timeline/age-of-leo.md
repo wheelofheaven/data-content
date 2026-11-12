@@ -6,8 +6,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
-source_updated = "2026-11-11"
+translation_updated = "2026-11-12"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -148,7 +148,7 @@ El contenido técnico de estas adiciones — qué genes se modificaron, qué ví
 
 La creación humana, como toda creación biológica desde Escorpio, fue conducida por múltiples equipos faccionales que trabajaban en paralelo.
 
-La fuente es explícita en este punto: *«Cada equipo se puso a trabajar, y muy pronto pudimos comparar nuestras creaciones... Es fácil deducir cuántos equipos de creadores hicieron esto — cada raza en la Tierra corresponde a un equipo de creadores.»* En un pasaje posterior, la fuente especifica la estructura geográfica: *«Como en la Tierra hay diferentes razas y culturas. Nuestras provincias fueron creadas y basadas en esas razas y culturas, respetando la libertad y la independencia de cada una.»* Y en otro lugar, el número de provincias en el mundo de origen se da como siete (TBWTT 7:19). La fuente no cuenta ella misma los equipos; el corpus infiere siete equipos a partir de las siete provincias del planeta de origen (TBWTT 7:19, 7:66). Según esa inferencia, cada provincia tenía su propio patrimonio distinto y su propio equipo desplegado, cada uno produciendo humanos a su propia imagen — esto es, a imagen del subconjunto particular de la civilización Elohim al que pertenecía el equipo.
+La fuente es explícita en este punto: *«Cada equipo se puso a trabajar, y muy pronto pudimos comparar nuestras creaciones... Es fácil deducir cuántos equipos de creadores hicieron esto — cada raza en la Tierra corresponde a un equipo de creadores.»* (TBWTT 2:25) En un pasaje posterior, la fuente especifica la estructura geográfica: *«Como en la Tierra hay diferentes razas y culturas. Nuestras provincias fueron creadas y basadas en esas razas y culturas, respetando la libertad y la independencia de cada una.»* (TBWTT 7:66) Y en otro lugar, el número de provincias en el mundo de origen se da como siete (TBWTT 7:19). La fuente no cuenta ella misma los equipos; el corpus infiere siete equipos a partir de las siete provincias del planeta de origen (TBWTT 7:19, 7:66). Según esa inferencia, cada provincia tenía su propio patrimonio distinto y su propio equipo desplegado, cada uno produciendo humanos a su propia imagen — esto es, a imagen del subconjunto particular de la civilización Elohim al que pertenecía el equipo.
 
 Los siete equipos trabajaron en paralelo, en distintas regiones del supercontinente, produciendo simultáneamente siete poblaciones humanas distintas.{{ footnote(id="1") }} Cada equipo tenía acceso a la misma base de conocimiento subyacente: la plantilla de diseño primate-a-humano desarrollada iterativamente, las redes reguladoras genéticas, los programas de desarrollo, las arquitecturas neurales que el programa había producido a lo largo de los siglos previos de trabajo. Cada equipo aplicó esta base a través de sus propias tradiciones estéticas y culturales específicas — las preferencias de diseño de su provincia de origen, el vocabulario institucional de su tradición científica, las sensibilidades artísticas de su circunscripción. El resultado fue una humanidad cuya diversidad biológica reflejaba la diversidad de la propia civilización Elohim — preservada en la Tierra como elección deliberada antes que borrada en favor de un diseño unificado.
 

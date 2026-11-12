@@ -6,27 +6,36 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["666", "Six Hundred Sixty-Six", "the Number of the Beast", "the Number of Man (proper-noun framework concept)", "χξϛ (Greek isopsephic representation)"]
+alternative_names = ["666", "六百六十六", "獸的數目", "人之數（本框架的專有概念）", "χξϛ (Greek isopsephic representation)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "啟示", path = "wiki/apocalypse", description = "《啟示錄》13:18 的背景,以及標誌第 666 代的 1945 年核門檻。" },
+    { title = "創世記", path = "wiki/genesis", description = "世代計數將之定年於公元前 11,375 年的伊甸實驗室創造事件。" },
+    { title = "世界時代", path = "wiki/world-age", description = "13,320 年跨度延伸至處女座—獅子座交界所經歷的歲差時代。" },
+    { title = "黃金時代", path = "wiki/golden-age", description = "從創造到啟示的軌跡在半個週期後抵達的水瓶座圓滿。" },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "666 計算協助錨定其歲差年代學的框架。" },
+    { title = "雷爾", path = "wiki/rael", description = "《歡迎外星人》中世代計數詮釋的出處。" },
+    { title = "那座碾磨諸紀元的磨坊", path = "articles/the-mill-that-grinds-the-ages", description = "此世代計數所並列的更廣泛歲差數字家族(72、2,160、25,920、432,000)——以及隨之而來的整數警示。" },
+]
 
 [extra.infobox]
-type = "Number-symbolic concept; the Revelation 13:18 numerical specification interpreted as the number of human generations from creation to nuclear-acquisition threshold"
+type = "數字象徵概念；啟示錄 13:18 的 666 被解讀為從創造到取得核能門檻之間的人類世代數"
 value = "666 (Indo-Arabic numeral); χξϛ (Greek isopsephic representation: chi 600 + xi 60 + stigma 6); שש מאות ששים ושש (Hebrew transliteration)"
-principal_source = "Revelation 13:18 (the source-textual location); *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) and consolidated *Message from the Designers* (2005) — the principal corpus interpretation; *timeline.epub* — substantive substantial subsequent corpus refinement"
-core_articulation = "666 = number of human generations from original Eden-laboratory creation through 1945 nuclear-acquisition threshold; with working estimate of 20 years per generation, 666 × 20 = 13,320 years; 1945 − 13,320 = 11,375 BCE creation date at Virgo-Leo precessional boundary"
-mathematical_features = "Triangular number (T_36 = 666); sum of integers from 1 to 36; sum of squares of first seven primes (2² + 3² + 5² + 7² + 11² + 13² + 17² = 666); harshad number (divisible by digit-sum)"
-precessional_calculation = "13,320 years / 2,160 years per Great Month = 6.166... Great Months; structurally close to half a complete Great Year (12,960 years exact half); creation-to-Apocalypse trajectory across approximately half of complete precessional cycle"
-distinguished_from = "the mainstream Nero Caesar isopsephic interpretation (Irenaeus, the substantial subsequent biblical-scholarly tradition); the textual-variant 616 reading (Papyrus 115 evidence); the various papacy-as-beast Reformation-era interpretations; the various contemporary-political-figure interpretations; the various conspiracy-theoretic Mark-of-the-Beast engagements"
+principal_source = "啟示錄 13:18（來源文本）；《歡迎外星人》（沃里隆，1979）與《來自設計者的訊息》（2005）——語料的主要詮釋；*timeline.epub*——「完成之人類」的補充修訂"
+core_articulation = "666 = 從最初伊甸實驗室的創造到 1945 年取得核能門檻之間的人類世代數；正典（LWTE-2:208–209）將最初的人類置於「約 13,000 年前」，並計算 666 × 20 = 13,320 年；西元前 11,375 年這一日期（1945 − 13,320）及其接近處女座—獅子座交界的定位，是語料自己的計算，而非正典的"
+mathematical_features = "三角形數（T₃₆ = 666）；前七個質數的平方和（2² + 3² + 5² + 7² + 11² + 13² + 17² = 666）；哈沙德數（可被其各位數字之和整除）"
+precessional_calculation = "13,320 年 ÷ 每個大月 2,160 年 = 6.166 個大月；接近半個大年（12,960 年，恰為六個大月），多出 360 年；從創造到啟示的軌跡橫跨約半個歲差週期"
+distinguished_from = "主流的尼祿·凱撒字母數值讀法（愛任紐及其後的學術傳統）；616 異文（第 115 號蒲草紙）；宗教改革時期以教宗為獸的讀法；當代政治人物的對號入座；陰謀論式的獸印讀法"
 parallel_traditions = "Hebrew gematria tradition; Greek isopsephy tradition; Sanskrit-Indian numerical-symbolic traditions; Chinese numerical-symbolic traditions; Mesoamerican calendrical-numerical traditions; various indigenous numerical-symbolic traditions"
-status_in_framework = "Foundational chronological-mathematical concept anchoring the corpus's 11,375 BCE creation-finalization date and the broader precessional-calendrical framework"
-principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) — principal source articulation in 'The Apocalypse of the Final Nuclear Cataclysm' section; *Message from the Designers* (2005) — consolidated English engagement; *timeline.epub* — substantive subsequent refinement registering finalized-humans interpretation"
+status_in_framework = "語料西元前 11,375 年創造日期及其歲差年表的基礎年代—數學錨點"
+principal_corpus_treatment = "《歡迎外星人》（沃里隆，1979），〈最終核浩劫的啟示〉一節；《來自設計者的訊息》（2005）；*timeline.epub*——「完成之人類」的補充修訂"
 +++
 
 **The Number of Man** is the value **666** — written in the Greek of Revelation

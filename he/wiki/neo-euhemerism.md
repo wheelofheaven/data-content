@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,17 +16,29 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["neo-evhemerism (alternative French spelling)", "neo-Euhemerist interpretation", "the neo-euhemeristic reading", "extraterrestrial euhemerism (occasional descriptive term)", "the ancient astronaut hypothesis (overlapping but not identical)", "paleocontact hypothesis (overlapping but not identical)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "השערת האסטרונאוטים הקדמונים", path = "wiki/ancient-astronaut-hypothesis", description = "המסורת הפרשנית הרחבה שהקורפוס הוא חבר מודע לעצמו בה; הניאו־אוהמריזם הוא שיטת הקריאה שביסודה." },
+    { title = "אלוהים", path = "wiki/elohim", description = "הדמויות של בראשית שהשיטה קוראת כציוויליזציה היסטורית ולא כאלוהות." },
+    { title = "מאורו ביגלינו", path = "wiki/mauro-biglino", description = "מנסח עכשווי של הקריאה הניאו־אוהמריסטית, המילולית־התרגומית הקפדנית, של התנ״ך." },
+    { title = "המסורת", path = "wiki/the-tradition", description = "מסגרת המסירה של סנדי, הבנויה על אותה קריאה ניאו־אוהמריסטית." },
+    { title = "המקרא העברי", path = "wiki/hebrew-bible", description = "הקורפוס שאת ההתגלויות שבו השיטה קוראת כזיכרון מגע משומר." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "המסגרת הקוראת את המיתוס באופן ניאו־אוהמריסטי ומרחיבה אותו באסטרונומיה פרצסיונית." },
+    { title = "דת", path = "wiki/religion", description = "החומר המיתולוגי שהשיטה מתייחסת אליו כזיכרון משומר של מגע ממשי." },
+    { title = "העולם שמאחורי האודיסיאה", path = "/articles/the-world-behind-the-odyssey/", description = "מאמר המציג את ההתנגדות של החלפת הקטגוריות לשיטה במלוא עוצמתה לפני שהוא מחיל אותה על המיתוס היווני." },
+    { title = "הפן המזרחי של הומרוס", path = "/articles/the-east-face-of-homer/", description = "המאמר המשלים המחיל את בחינת החלפת הקטגוריות על קריאת הקנון בשליחי דניאל ובתחום האלוהימי." },
+    { title = "הגשם מעל הליקון", path = "/articles/the-rain-over-helicon/", description = "המאמר היווני השלישי, המציג את התנגדות החלפת הקטגוריות כאילוץ חי על המסגרת ולא כמכשול שכבר נעבר." },
+]
 
 [extra.infobox]
-type = "Foundational interpretive-methodological concept; the position that reads religious-mythological gods and divine beings as preserved cultural memory of historical extraterrestrial-civilizational contact"
-classical_origin = "Euhemerism, articulated by Euhemerus of Messene (c. 4th-3rd century BCE) in the *Hiera Anagraphē* (*Sacred Inscription*); read the gods of Greek mythology as deified historical kings and culture-heroes whose memory the religious tradition had elevated to divine status"
-neo_euhemeristic_extension = "The further claim that the historical figures whose memory the gods preserve were not principally human kings but members of a technologically advanced extraterrestrial civilization whose capacities appeared supernatural to pre-scientific observers; produces the interpretive framework within which the religious-mythological content becomes preserved cultural memory of actual historical extraterrestrial-civilizational contact rather than principally symbolic-mythological elaboration"
-framework_relationship = "The Wheel of Heaven framework operates neo-euhemeristically at the methodological-interpretive level while extending substantially beyond simple neo-euhemerism through: integration with precessional astronomy (the doubled-signature principle, the twelve-age architecture); the ongoing-alliance framework (the Elohim as continuing contemporary reality rather than merely historical memory); the substantial source-textual specificity of Vorilhon's contact accounts and Sendy's pre-Raëlian articulations"
-principal_contemporary_articulators = "Erich von Däniken (*Chariots of the Gods?*, 1968); Zecharia Sitchin (*The 12th Planet*, 1976, and the broader Earth Chronicles); Mauro Biglino (the strict-translational Hebrew engagement); Paul Anthony Wallis (*Escaping from Eden*, 2020); Robert Charroux; the broader ancient astronaut hypothesis tradition; the substantial Raëlian Movement engagement"
-distinguished_from = "Classical Euhemerism (which reads gods as deified human historical figures); ancient astronaut hypothesis in its popular media articulations (which frequently operates without the methodological-interpretive specificity neo-euhemerism's classical heritage provides); mainstream comparative-religion engagement (which generally treats religious-mythological content as cultural-symbolic-experiential rather than as preserved historical memory); supernatural-theistic religious traditions (which read the gods as actual supernatural beings rather than as historical figures preserved in mythologized form)"
-mainstream_scholarly_status = "Limited mainstream academic currency for the term 'neo-euhemerism' specifically; mainstream scholarly engagement with the broader interpretive position operates principally through related terminology ('ancient astronaut hypothesis,' 'paleocontact hypothesis'); classical Euhemerism has substantial mainstream scholarly engagement as historical-conceptual category"
-status_in_framework = "Foundational methodological concept; the interpretive-typological category situating the framework's position within broader intellectual history; supports systematic engagement with religious-mythological content across traditions"
-principal_corpus_treatment = "Sendy's substantial articulations (1963-1972) operating neo-euhemeristically across his entire body of work; Vorilhon's contact-account material providing principal source-textual content for neo-euhemeristic reading; the broader corpus integration with precessional astronomy and ongoing-alliance framework"
+type = "שיטה פרשנית הקוראת את האלים והישויות האלוהיות של המיתוס כזיכרון תרבותי משובש של דמויות היסטוריות אמיתיות — בצורתה המודרנית, ציוויליזציה מתקדמת שנחשבה בטעות לאלים"
+classical_origin = "האוהמריזם, שנוסח על ידי אוהמרוס ממסנה (בערך 340–260 לפנה״ס) ב־*Hiera Anagraphē* (*הכתובת הקדושה*); קרא את האלים היוונים כמלכים ומיטיבים היסטוריים שהמסורת המאוחרת העלתה למעמד אלוהי"
+neo_euhemeristic_extension = "מזהה את הדמויות ההיסטוריות שמאחורי האלים לא כמלכים אנושיים אלא כציוויליזציה מתקדמת טכנולוגית שיכולותיה — תעופה, רפואה, מטלורגיה, נשק — נראו על־טבעיות בעיני צופים קדם־מדעיים"
+framework_relationship = "המסגרת של Wheel of Heaven קוראת את המיתוס באופן ניאו־אוהמריסטי, אך מרחיבה את השיטה באסטרונומיה פרצסיונית (עקרון החתימה הכפולה, הארכיטקטורה של שנים־עשר העידנים), במסגרת הברית המתמשכת (האלוהים כמציאות נמשכת ולא רק כזיכרון) ובטקסטי המקור המסוימים של וורילון וסנדי"
+principal_contemporary_articulators = "ז'אן סנדי (1963–1972); אריך פון דניקן (*Chariots of the Gods?*, 1968); זכריה סיטשין (*The 12th Planet*, 1976); קלוד וורילון (ראל) (מ־1974 ואילך); מאורו ביגלינו; פול אנתוני וואליס (*Escaping from Eden*, 2020); רובר שארו"
+distinguished_from = "האוהמריזם הקלאסי (אלים כבני אדם שהואלהו); השערת האסטרונאוטים הקדומים (טענת תוכן ולא שיטת קריאה); חקר הדתות ההשוואתי המקובל (המיתוס כתופעה תרבותית־סמלית); קריאות על־טבעיות־תאיסטיות (אלים כישויות על־טבעיות ממשיות)"
+mainstream_scholarly_status = "למונח עצמו מעט תפוצה אקדמית; המחקר עוסק בעמדה המודרנית כהשערת 'האסטרונאוטים הקדומים' או 'המגע הקדום' ודוחה אותה כפסאודו־מדע. האוהמריזם הקלאסי הוא קטגוריה נחקרת היטב בתולדות הדתות"
+status_in_framework = "שיטת יסוד; הקטגוריה הפרשנית הממקמת את המסגרת בתוך ההיסטוריה הארוכה של קריאת המיתוס כהיסטוריה, ותומכת בהשוואות הבין־מסורתיות שלה"
+principal_corpus_treatment = "עבודתו של ז'אן סנדי (1963–1972) קוראת את התנ״ך באופן ניאו־אוהמריסטי לכל אורכה; תיאורי המגע של וורילון מספקים את טקסט המקור העיקרי של המסגרת; הקורפוס משלב את שניהם עם אסטרונומיה פרצסיונית ועם מסגרת הברית המתמשכת"
 +++
 
 **Neo-Euhemerism** is the interpretive method that reads the gods and divine

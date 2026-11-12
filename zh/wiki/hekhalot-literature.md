@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["希卡洛特／Heikhalot 文献（הֵיכָלוֹת）", "梅尔卡瓦神秘主义", "Merkabah 神秘主义", "'宫殿' 文献", "*ma'aseh merkavah*（'战车之工'）"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "希乌尔·科玛", path = "wiki/shiur-qomah", description = "在这一文献群中传承、并被雷尔正典解读的帕拉桑丈量文本。" },
+    { title = "卡巴拉", path = "wiki/kabbalah", description = "这一前卡巴拉层次比之早了数个世纪的后期经典犹太神秘主义。" },
+    { title = "生命之树", path = "wiki/tree-of-life", description = "从穿越宫殿之升天传统中发展出来的卡巴拉图式。" },
+    { title = "希伯来圣经", path = "wiki/hebrew-bible", description = "以西结宝座战车异象的出处，merkavah 神秘主义即由此得名。" },
+    { title = "耶和华", path = "wiki/yahweh", description = "merkavah 上的坐宝座者，嵌于其中的《身量之书》丈量其身量。" },
+    { title = "在元年启封", path = "articles/unsealed-in-year-one", description = "将库姆兰《安息日献祭之歌》解读为这一传统背后的原始 merkavah 礼仪。" },
+]
 
 [extra.infobox]
 type = "古典时代晚期／中世纪早期犹太神秘主义文本的文集（前卡巴拉时期）"

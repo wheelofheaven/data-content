@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,22 +17,30 @@ entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
 alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "Moses the Lawgiver", "Mosheh Rabbenu (\"Moses our Teacher\")"]
+see_also = [
+    { title = "יהוה", path = "wiki/yahweh", description = "נשיא האלוהים שמאחורי אירועי המגע בסנה הבוער ובסיני." },
+    { title = "מועצת הנצחיים", path = "wiki/council-of-the-eternals", description = "הגוף שבו משה מדווח כנוכח לצד הנביאים הקודמים האחרים." },
+    { title = "מוחמד", path = "wiki/muhammad", description = "נביא מאוחר יותר באותה שושלת של שליחי הברית כמו משה." },
+    { title = "ישוע", path = "wiki/jesus", description = "מתווך ברית מאוחר יותר הממשיך את השיקום שמשה מקדם." },
+    { title = "אליהו", path = "wiki/elijah", description = "נביא עברי מאוחר יותר באותה מסורת של מגע מעשי על ההר." },
+    { title = "רשימת הנביאים והדתות", path = "wiki/list-of-prophets-and-religions", description = "רצף השליחים הרחב שבו הקורפוס ממקם את משה." },
+]
 
 [extra.infobox]
-type = "Hebrew prophet, lawgiver, and deliverer"
-hebrew = "<span class=\"hebrew\">מֹשֶׁה</span> *Moshe* (or *Mosheh*)"
+type = "נביא עברי, מחוקק ומושיע"
+hebrew = "<span class=\"hebrew\">מֹשֶׁה</span> *Moshe* (או *Mosheh*)"
 arabic = "<span class=\"arabic\">مُوسَىٰ</span> *Mūsā*"
-period = "Conventional dating: 13th century BCE (late Bronze Age); the Exodus traditionally dated to c. 1446 BCE (early-Exodus chronology) or c. 1250 BCE (late-Exodus chronology, the dominant academic position)"
-precessional_age = "Age of Aries (the corpus's precessional reckoning places the Mosaic period in the middle-to-late portion of Aries, c. 2065 BCE through 95 BCE)"
-lifespan = "Traditional 120 years (Deuteronomy 34:7); the figure is theologically significant in Hebrew tradition as the maximum human lifespan after the deluge"
-parents = "Father Amram of the tribe of Levi; mother Jochebed; siblings Aaron (brother, three years older) and Miriam (sister, the prophetess)"
-wife = "Zipporah (daughter of Reuel / Jethro, priest of Midian); also a Cushite wife mentioned in Numbers 12:1"
-sons = "Gershom and Eliezer"
-principal_biblical_sources = "Exodus 1–40; Leviticus 1–27; Numbers 1–36; Deuteronomy 1–34"
-key_episodes = "Birth and exposure on the Nile; killing of the Egyptian taskmaster; flight to Midian; burning bush on Horeb; the ten plagues of Egypt; institution of the Passover; parting of the Red Sea; manna and quail in the wilderness; Sinai theophany; reception of the Decalogue and Torah; the golden calf and the breaking of the tablets; construction of the Tabernacle and Ark of the Covenant; the 12 spies and the wilderness wandering; the bronze serpent; the death on Mount Nebo"
-death = "On Mount Nebo (also called Mount Pisgah) in Moab; buried by YHWH in an unknown location in the valley (Deuteronomy 34:5–6); aged 120 with \"his eye undimmed and his vigor unabated\""
-mosaic_authorship = "Traditional Jewish and Christian tradition attributes the authorship of the Pentateuch to Moses; mainstream academic scholarship treats the Pentateuch as a composite of multiple source-strata (the documentary hypothesis: J, E, D, P) developed across the period from the 10th through the 5th centuries BCE"
-framework_significance = "The most operationally specific sustained-contact relationship in the Hebrew Bible; the burning bush event, the Sinai theophany, the 40-day fasts, the Tabernacle and Ark specifications, the pillar of cloud and fire, the bronze serpent, the manna provision, the face-shining phenomenon, and the death-and-unmarked-grave together constitute the densest concentration of operational content for any prophetic figure in the corpus"
+period = "תיארוך מקובל: המאה ה־13 לפנה״ס (תקופת הברונזה המאוחרת); יציאת מצרים מתוארכת במסורת לבסביבות 1446 לפנה״ס (הכרונולוגיה של יציאה מוקדמת) או לבסביבות 1250 לפנה״ס (הכרונולוגיה של יציאה מאוחרת, העמדה האקדמית הרווחת)"
+precessional_age = "עידן הטלה (החישוב הנקיפתי של הקורפוס ממקם את התקופה המוסאית בחלק האמצעי־המאוחר של הטלה, בסביבות 2065 לפנה״ס עד 95 לפנה״ס)"
+lifespan = "120 שנה לפי המסורת (דברים לד:7); למספר משמעות תאולוגית במסורת העברית כאורך החיים המרבי של האדם אחרי המבול"
+parents = "האב עמרם משבט לוי; האם יוכבד; אחיו אהרן (אח, מבוגר ממנו בשלוש שנים) ומרים (אחות, הנביאה)"
+wife = "צפורה (בת רעואל / יתרו, כהן מדין); וכן אישה כושית הנזכרת בבמדבר יב:1"
+sons = "גרשום ואליעזר"
+principal_biblical_sources = "שמות א–מ; ויקרא א–כז; במדבר א–לו; דברים א–לד"
+key_episodes = "הלידה וההשלכה ליאור; הריגת הנוגש המצרי; הבריחה למדין; הסנה הבוער בחורב; עשר מכות מצרים; ייסוד הפסח; קריעת ים סוף; המן והשליו במדבר; ההתגלות בסיני; קבלת עשרת הדיברות והתורה; עגל הזהב ושבירת הלוחות; בניית המשכן וארון הברית; שנים־עשר המרגלים והנדודים במדבר; נחש הנחושת; המוות בהר נבו"
+death = "בהר נבו (המכונה גם הר הפסגה) במואב; נקבר בידי יהוה במקום לא ידוע בגיא (דברים לד:5–6); בן 120 כש»לא כהתה עינו ולא נס לחה«"
+mosaic_authorship = "המסורת היהודית והנוצרית מייחסת את חיבור התורה למשה; המחקר האקדמי המקובל רואה בתורה חיבור של כמה שכבות מקור (השערת התעודות: J, E, D, P) שהתפתחו בתקופה שבין המאה ה־10 למאה ה־5 לפנה״ס"
+framework_significance = "יחסי המגע הממושכים המפורטים ביותר מבחינה מבצעית במקרא העברי; אירוע הסנה הבוער, ההתגלות בסיני, צומות 40 הימים, מפרטי המשכן והארון, עמוד הענן והאש, נחש הנחושת, אספקת המן, תופעת קרינת הפנים והמוות והקבר הלא מסומן מהווים יחד את הריכוז הצפוף ביותר של תוכן מבצעי לדמות נבואית כלשהי בקורפוס"
 +++
 
 **Moses** (Hebrew <span class="hebrew">מֹשֶׁה</span>, *Moshe*; Greek *Mōusēs*; Arabic <span class="arabic">مُوسَىٰ</span>, *Mūsā*) is the foundational prophet, lawgiver, and deliverer of the Hebrew Bible, conventionally dated to the 13th century BCE during the late Bronze Age (late Age of Aries on the corpus's precessional reckoning). The **Pentateuch** — the first five books of the Hebrew Bible (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), known in Jewish tradition as the **Torah** ("instruction") — is largely a Moses biography from Exodus 2 onward, recording his Egyptian birth, his exposure and adoption by the Egyptian royal house, his flight to Midian after killing an Egyptian taskmaster, his commissioning at the **burning bush** on Mount Horeb, his leadership of the Israelite exodus from Egyptian slavery, the parting of the **Red Sea**, the **Sinai theophany** and the reception of the **Decalogue** and the broader Torah, the construction of the **Tabernacle** and the **Ark of the Covenant**, the 40-year wilderness wandering, and his death on **Mount Nebo** before the Israelite entry into Canaan.

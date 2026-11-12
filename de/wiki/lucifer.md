@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 99
@@ -22,16 +22,18 @@ alternative_names = ["der Lichtbringer", "lūcifer", "Helel ben Shahar", "הֵי
 portrait_id = "lucifer"
 image = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.avif"
-image_alt = "AI-generated editorial portrait of Lucifer as the Light-Bringer, an Eloha faction leader with long hair and a green-gold luminosity."
-image_caption = "Interpretive portrait for the Lucifer wiki entry and library personality metadata."
+image_alt = "KI-generiertes redaktionelles Porträt Luzifers als des Lichtbringers, eines Fraktionsführers der Elohim mit langem Haar und grün-goldenem Leuchten."
+image_caption = "Deutendes Porträt für den Wiki-Eintrag zu Luzifer und die Personenmetadaten der Bibliothek."
 timeline = ["leo", "cancer"]
 see_also = [
-    { title = "Serpent", path = "wiki/serpent", description = "Luzifer in seiner spezifischen Rolle bei der Eden-Enthüllung in Genesis 3." },
-    { title = "Yahweh", path = "wiki/yahweh", description = "Der Anführer des Israel-Teams und gemäßigte Vertreter der Allianz; Luzifers ehemaliger Kollege und politischer Gegner nach Eden." },
+    { title = "Sind Luzifer und Satan dieselbe Gestalt?", path = "articles/lucifer-and-satan", description = "Die direkte Gegenüberstellung, die Luzifer und Satan als gegnerische Fraktionen unterscheidet." },
+    { title = "Schlange", path = "wiki/serpent", description = "Luzifer in seiner spezifischen Rolle bei der Eden-Enthüllung in Genesis 3." },
+    { title = "Jahwe", path = "wiki/yahweh", description = "Der Anführer des Israel-Teams und gemäßigte Vertreter der Allianz; Luzifers ehemaliger Kollege und politischer Gegner nach Eden." },
     { title = "Satan", path = "wiki/satan", description = "Eine eigene Elohim-Gestalt, die die abolitionistische Fraktion der Heimatwelt anführt — politisch entgegengesetzt zu Luzifer, nicht mit ihm identisch." },
-    { title = "Adam and Eve", path = "wiki/adam-and-eve", description = "Die ersten Menschen, die Luzifers Fraktion erzog und denen sie die Eden-Enthüllung machte." },
-    { title = "Antediluvian", path = "wiki/antediluvian", description = "Die Periode, über die hinweg die verbannte Luzifer-Fraktion als Lehrer der Zivilisation der Eden-Linie diente." },
-    { title = "Tree of Life", path = "wiki/tree-of-life", description = "Die Langlebigkeitstechnologie, die die Luzifer-Fraktion für die patriarchale Führung Edens beschaffte." },
+    { title = "Adam und Eva", path = "wiki/adam-and-eve", description = "Die ersten Menschen, die Luzifers Fraktion erzog und denen sie die Eden-Enthüllung machte." },
+    { title = "Vorsintflutlich", path = "wiki/antediluvian", description = "Die Periode, über die hinweg die verbannte Luzifer-Fraktion als Lehrer der Zivilisation der Eden-Linie diente." },
+    { title = "Baum des Lebens", path = "wiki/tree-of-life", description = "Die Langlebigkeitstechnologie, die die Luzifer-Fraktion für die patriarchale Führung Edens beschaffte." },
+    { title = "Der Erzdiakon und der Drache", path = "articles/the-archdeacon-and-the-dragon", description = "Ordnet Wallis’ Bogen der vier Drachen der Lesart der Luzifer-Fraktion zu." }
 ]
 
 footnotes = [

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,28 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Mass Effect", "the Law of Masstime", "the law of subjective time", "the time-mass relationship", "the scale-time correspondence"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "宏观生物学", path = "wiki/macrobiology", description = "整体的生物学——人类作为生命尺度阶梯上高一级的有机体，其时间尺度由质量效应描述。" },
+    { title = "无限", path = "wiki/infinity", description = "质量效应作为其时间尺度维度的基础框架。" },
+    { title = "宇宙链", path = "wiki/cosmic-chain", description = "源段落将这一法则与之相联的文明继承框架。" },
+    { title = "耶和华", path = "wiki/yahweh", description = "其 1975 年来源材料中的陈述确立这一法则的耶洛因人物。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "其所传达的段落为该框架提供依据的施造文明。" },
+    { title = "宇宙竞争", path = "wiki/cosmic-competition", description = "在这一法则所描述的尺度—时间层级中展开的文明动态。" },
+    { title = "联盟", path = "wiki/the-alliance", description = "在这一法则所跨越的无限尺度层级中运作的宇宙协作。" },
+    { title = "人类的形状", path = "articles/the-shape-of-humanity", description = "将尺度律宇宙论延伸至文明形态学的解读文章——West 的超线性增长作为有机体的新陈代谢。" },
+]
 
 [extra.infobox]
-type = "Hypothetical physical-cosmological law; framework concept articulating the relationship between mass-or-scale and the experience of time"
-basic_premise = "The subjective experience of time scales with mass and complexity; a larger being experiences each subjective moment as encompassing a substantially longer interval of absolute time than a smaller being's subjective moment encompasses"
-formal_articulation = "Subjective time interval per unit absolute time scales inversely with mass-or-scale; equivalently, the absolute time interval encompassed by a unit subjective time interval scales positively with mass-or-scale"
-domain = "All scales of cosmological organization, from subatomic-scale beings through human scale through planetary-scale beings (planets, the Earth) through galactic-scale and beyond"
-mathematical_status = "Not yet formally mathematized within the corpus; principal articulation through Yahweh's source-material statement and corpus interpretive elaboration"
-relationship_to_relativity = "Substantial structural overlap with general-relativistic gravitational time dilation; the corpus's framework extends substantially beyond what mainstream relativity has established, particularly regarding subjective time and biological-cognitive scales"
-relationship_to_biology = "Substantial structural overlap with mainstream allometric scaling laws (Kleiber's law for metabolism, lifespan scaling, heart-rate scaling) and biological time perception scholarship (Eagleman, Wittmann)"
-distinguished_from = "Special-relativistic time dilation (velocity-based, not mass-based); biological time perception alone (a subset rather than the full framework); fractal cosmology generally (the spatial-self-similarity dimension distinct from the temporal-scaling dimension); the broader Infinity framework (the precondition rather than the law itself)"
-status_in_source_material = "Partial; the Raëlian source material provides explicit articulation in a single passage, with the corpus's broader development extending substantially through interpretive integration with the Cosmic Chain framework, the Infinity framework, and various mainstream-science engagements"
-principal_text = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), 'Neither God nor Soul'; various Wheel of Heaven corpus passages applying the framework"
+type = "假设性的物理—宇宙论定律；阐述质量或尺度与时间体验之间关系的框架概念"
+basic_premise = "对时间的主观体验随质量与复杂性而变化；较大的存在者所体验的每一个主观瞬间，所涵盖的绝对时间间隔远长于较小存在者的主观瞬间"
+formal_articulation = "单位绝对时间内的主观时间间隔与质量或尺度成反比；等价地，单位主观时间间隔所涵盖的绝对时间间隔与质量或尺度成正比"
+domain = "宇宙组织的所有尺度，从亚原子尺度的存在者，经人类尺度，到行星尺度的存在者（行星、地球），再到星系尺度及更远"
+mathematical_status = "在文集中尚未形式化为数学；主要通过耶和华在原始材料中的陈述以及文集的诠释性阐发来表述"
+relationship_to_relativity = "不同的现象：广义相对论的引力时间膨胀涉及物理时钟的速率，而非主观时间，并不为质量效应提供支持"
+relationship_to_biology = "不同的量：异速生长标度律（代谢的克莱伯定律、寿命标度、心率标度）与时间知觉研究（Eagleman、Wittmann）测量的是其他东西，并不为质量效应提供支持"
+distinguished_from = "狭义相对论的时间膨胀（基于速度而非质量）；单纯的生物时间知觉（只是一个子集，而非完整框架）；一般意义上的分形宇宙学（空间自相似维度，有别于时间尺度维度）；更广的无限框架（是前提而非定律本身）"
+status_in_source_material = "部分有据；雷尔派原始材料在单一段落中作了明确表述，文集更广的发展则主要通过与宇宙链框架、无限框架以及多种主流科学研究的诠释性整合大幅延伸"
+principal_text = "《外星人带我去他们的行星》（沃里隆／雷尔，1975），「既无上帝亦无灵魂」；应用这一框架的 Wheel of Heaven 文集多处段落"
 +++
 
 The **Mass Effect**, also called the **Law of Masstime**, is the framework concept developed in the Wheel of Heaven corpus to articulate the relationship between mass-or-scale and the experience of time across the infinite hierarchy of cosmological scales. {% claim(type="speculative", id="woh-claim-0051") %}The framework holds that the subjective experience of time scales with mass and complexity: **a larger and more massive being experiences each subjective moment as encompassing a substantially longer interval of absolute time than a smaller being's subjective moment encompasses**.{% end %} Equivalently, smaller beings experience proportionally more subjective time per unit absolute time than larger beings — a eukaryotic cell, an ant, a human, an elephant, the Earth itself, and the gigantic being of whom the sun is an atom each operate within their own characteristic subjective-time scale, with the scale ratios reflecting the mass-or-complexity ratios across the broader cosmological hierarchy. The law's principal source-material warrant is the Yahweh-delivered passage in *Extra-Terrestrials Took Me to Their Planet* (1975), which establishes the framework in the broader cosmological context and connects it explicitly to the Infinity framework and the Cosmic Chain framework.

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,21 +16,28 @@ editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["Abraham (English)", "Abram (pre-renaming name)", "אַבְרָהָם (Hebrew Avraham)", "אַבְרָם (Hebrew Avram)", "إبراهيم (Arabic Ibrāhīm)", "Ἀβραάμ (Greek Abraám)", "the Patriarch", "Avraham Avinu (Jewish 'Abraham our father')", "Khalīl Allāh (Arabic 'Friend of God')"]
 timeline = ["age-of-taurus", "age-of-aries"]
+see_also = [
+    { title = "ברית נח", path = "wiki/noahic-covenant", description = "הברית שלאחר המבול, שהברית האברהמית ממשיכה את שושלתה." },
+    { title = "סדום ועמורה", path = "wiki/sodom-and-gomorrah", description = "מכת המנע של המועצה, שאברהם מתמקח עליה בבראשית יח." },
+    { title = "משה", path = "wiki/moses", description = "מתווך הברית המאוחר יותר באותו שיקום של שושלת עדן." },
+    { title = "חניפיה", path = "wiki/hanafiyya", description = "המונותאיזם החניפי הקדמון שהמסורת האסלאמית מייחסת לאברהם." },
+    { title = "פטרה", path = "wiki/petra", description = "המקדש הנבטי שבמרכז שאלת אברהם והחג׳אז." },
+]
 
 [extra.infobox]
-type = "Biblical figure; Eden-lineage patriarch verified by post-Sodom Council loyalty test; founding patriarch for three Abrahamic religions plus Baha'i"
-hebrew_name = "אַבְרָהָם (Avraham, 'father of multitudes'); originally אַבְרָם (Avram, 'exalted father')"
+type = "דמות מקראית; אב שושלת עדן שנבחן במבחן הנאמנות של המועצה שאחרי סדום; אב מייסד של שלוש הדתות האברהמיות ושל הבהאיות"
+hebrew_name = "אַבְרָהָם (Avraham, 'אב המון גויים'); במקור אַבְרָם (Avram, 'אב רם')"
 arabic_name = "إبراهيم (Ibrāhīm)"
-biblical_dating = "Taurus-Aries boundary in corpus chronology (late Age of Taurus, c. 2,000-1,900 BCE in mainstream traditional chronology); Genesis records Abraham as 75 years old at the lekh lekha call (Gen 12:4), 100 at Isaac's birth (Gen 21:5), 175 at death (Gen 25:7)"
-principal_biblical_location = "Genesis 11:26-25:18; subsequent references in Exodus 3:6-15, Joshua 24:2-3, Isaiah 41:8, 51:2, Psalms 105:6-9, Matthew 1:1-2, Luke 3:34, Romans 4, Galatians 3, Hebrews 11:8-19, James 2:21-23"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Sacrifice of Abraham' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Taurus chapter, Sections VIII and IX"
-core_corpus_articulation = "Post-Sodom Council recruitment and verification figure; tested loyalty around whom diminished Eden-lineage population reorganized; founding patriarch for Aries-age recovery program"
-covenant_role = "Abrahamic Covenant (Genesis 15, 17): geographic promise (Nile-to-Euphrates); descendant promise (numerous as stars and sand); circumcision (*brit milah*) as physical-marker covenant institution"
-loyalty_test = "Akedah / Sacrifice of Isaac (Genesis 22) — formal Council loyalty test conducted by visiting officer; Hebrew *nissah* ('tested') frames episode from opening verse; *ki atah yadati* ('for now I know') confirms empirical-investigation framing"
-key_figures = "Sarah (wife, mother of Isaac); Hagar (Egyptian handmaid, mother of Ishmael); Isaac (covenant-line son through Sarah); Ishmael (Arab-lineage son through Hagar); Keturah (third wife after Sarah; mother of six additional sons including Midian); Lot (nephew, Sodom survivor)"
-three_faiths_status = "Founding patriarch for Judaism (through Isaac), Christianity (through Isaac via Jesus genealogy), Islam (through Ishmael as Ibrahim, Hanif primordial-monotheist), Baha'i (through Keturah lineage to Baha'u'llah)"
-distinguished_from = "Mainstream uniquely-faithful-individual reading; ancient-astronaut alternative readings (Sitchin, Biglino); mainstream biblical-scholarly Documentary Hypothesis source-critical reading; minimalist historical-critical engagement (Van Seters) treating patriarchal narratives as later literary composition"
-status_in_framework = "Foundational Taurus-Aries transitional figure; tested founding patriarch; principal recovery-program founder following Sodom destruction; structural inaugurator of Aries-age Eden-lineage political-religious arrangement"
+biblical_dating = "גבול השור–הטלה בכרונולוגיה של הקורפוס (סוף עידן השור, בסביבות 2,000–1,900 לפנה״ס בכרונולוגיה המסורתית המקובלת); בראשית מציין את אברהם כבן 75 בקריאת 'לך לך' (בראשית יב:4), כבן 100 בהולדת יצחק (בראשית כא:5) וכבן 175 במותו (בראשית כה:7)"
+principal_biblical_location = "בראשית יא:26–כה:18; אזכורים מאוחרים בשמות ג:6–15, יהושע כד:2–3, ישעיהו מא:8, נא:2, תהילים קה:6–9, מתי א:1–2, לוקס ג:34, אל הרומים ד, אל הגלטים ג, אל העברים יא:8–19, איגרת יעקב ב:21–23"
+principal_source = "*הספר המגלה את האמת* (וורילון, 1974), הפרק 'האמת', הקטע 'עקדת אברהם'; *מסר מהמתכננים* המקובץ (2005); *timeline.epub* — עיסוק נרחב בקורפוס, בעיקר בפרק עידן השור, סעיפים VIII ו־IX"
+core_corpus_articulation = "דמות הגיוס והאימות של המועצה שאחרי סדום; נאמנות שנבחנה, שסביבה התארגנה מחדש אוכלוסיית שושלת עדן המדולדלת; אב מייסד של תוכנית השיקום של עידן הטלה"
+covenant_role = "ברית אברהם (בראשית טו, יז): הבטחה גיאוגרפית (מהנילוס עד הפרת); הבטחת צאצאים (רבים ככוכבים וכחול); ברית מילה (*brit milah*) כמוסד ברית של סימן גופני"
+loyalty_test = "העקדה (בראשית כב) — מבחן נאמנות רשמי של המועצה שערך קצין מבקר; המילה העברית *נִסָּה* מסגרת את האפיזודה מהפסוק הפותח; *כי עתה ידעתי* מאשר את מסגרת החקירה האמפירית"
+key_figures = "שרה (אשתו, אם יצחק); הגר (השפחה המצרית, אם ישמעאל); יצחק (בן קו הברית משרה); ישמעאל (בן השושלת הערבית מהגר); קטורה (אשתו השלישית אחרי שרה; אם שישה בנים נוספים, ובהם מדין); לוט (בן אחיו, ניצול סדום)"
+three_faiths_status = "אב מייסד ליהדות (דרך יצחק), לנצרות (דרך יצחק בשושלת ישוע), לאסלאם (דרך ישמעאל, בתור אִבְּרָאהִים, החניף המונותאיסט הקדמון) ולבהאיות (דרך שושלת קטורה עד בהאאאללה)"
+distinguished_from = "הקריאה המקובלת של יחיד נאמן ייחודי; קריאות חלופיות של האסטרונאוטים הקדמונים (סיטשין, ביליינו); קריאת ביקורת המקורות של השערת התעודות במחקר המקרא המקובל; העיסוק ההיסטורי־ביקורתי המינימליסטי (ואן סטרס) הרואה בסיפורי האבות חיבור ספרותי מאוחר"
+status_in_framework = "דמות מעבר יסודית בין השור לטלה; אב מייסד שנבחן; מייסד תוכנית השיקום העיקרי אחרי חורבן סדום; מכונן מבני של ההסדר המדיני־דתי של שושלת עדן בעידן הטלה"
 +++
 
 **Abraham** (Hebrew אַבְרָהָם, *Avraham*; Arabic إبراهيم, *Ibrāhīm*) is the founding

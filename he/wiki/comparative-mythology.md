@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -15,16 +15,30 @@ category = "Methodology"
 entry_type = "concept"
 alternative_names = ["Comparative Mythology", "comparative religion (overlapping discipline)", "mythography (related but distinct discipline)", "comparative folklore", "Mythologie comparée (French)", "vergleichende Mythologie (German)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "טחנת המלט", path = "wiki/hamlets-mill", description = "תזת הקידוד הפרצסיוני שהקורפוס מאמץ כעיקרון המארגן המבני של התחום." },
+    { title = "תאומכיה", path = "wiki/theomachy", description = "אשכול המוטיבים של מלחמה בין האלים שהתחום מקטלג באופן בין־תרבותי." },
+    { title = "השערת האסטרונאוטים הקדמונים", path = "wiki/ancient-astronaut-hypothesis", description = "המסגרת הפרשנית הרחבה שדרכה הקורפוס קורא את המוטיבים החוזרים." },
+    { title = "נאו-אוהמריזם", path = "wiki/neo-euhemerism", description = "שיטת המושא ההיסטורי המשותף שהקורפוס מחיל על הדפוסים הבין־תרבותיים." },
+    { title = "עץ הדעת טוב ורע", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "מוטיב העץ הקוסמי כמופע אחד של מערך הדפוסים החוזרים של התחום." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "המיזם העוסק בתחום כאחת ממחויבויותיו המתודולוגיות העיקריות." },
+    { title = "קרל יונג", path = "wiki/carl-jung", description = "מייסד האסכולה הארכיטיפית לקריאת מיתוסים (יחד עם קמפבל); ספרו Aion קורא את עידן הדגים." },
+    { title = "ג׳יין סלרס", path = "wiki/jane-sellers", description = "הקריאה הפרצסיונית של מיתוס מותו ותחייתו של אוזיריס." },
+    { title = "סאמפו", path = "wiki/sampo", description = "הסאמפו הפיני כמופע הבלטי־פיני של מיתמת טחנת העולם." },
+    { title = "העולם שמאחורי האודיסיאה", path = "/articles/the-world-behind-the-odyssey/", description = "מקרה המבחן היווני של הקורפוס — מסירה מתועדת מן המזרח הקרוב אל הסיודוס והומרוס, כשקריאת המסגרת נשמרת בנפרד." },
+    { title = "הפן המזרחי של הומרוס", path = "/articles/the-east-face-of-homer/", description = "המחצית השנייה של מקרה המבחן היווני: מסדרון המסירה של המאה השמינית בפירוט, והמשמעת של מה שהשאלה ספרותית יכולה ואינה יכולה להוכיח." },
+    { title = "הגשם מעל הליקון", path = "/articles/the-rain-over-helicon/", description = "בחינת שיטה של התחום עצמו: המבחנים המעלים הקבלה מעל צירוף מקרים, מדורגים על פני הסיודוס, הומרוס, הלשון הפואטית ונתיבי המגע." },
+]
 
 [extra.infobox]
-type = "Academic and interpretive discipline studying recurring patterns across geographically and historically separated mythological corpora; one of the corpus's principal methodological commitments"
-disciplinary_origin = "Late eighteenth-century European Romantic engagement with non-Western mythologies; formal disciplinary emergence in the nineteenth century with Friedrich Max Müller's comparative-philological work and James George Frazer's anthropological-comparative work"
-principal_methodological_schools = "Solar-mythology (Müller); anthropological-comparative (Frazer, Tylor, Lang); diffusionist (Bastian, Vienna school, Pan-Babylonianism); trifunctional structuralism (Dumézil); phenomenological-religious (Eliade, Otto, van der Leeuw); archetypal-Jungian (Jung, Neumann, Campbell); structural-anthropological (Lévi-Strauss); cognitive science of religion (Boyer, Atran, Barrett)"
-principal_motif_clusters = "Creation narratives; flood narratives; sky-visitor and culture-bringer traditions; theomachy / war-among-the-gods; divine descent and divine-human hybrids; golden age and ages-of-the-world traditions; dying-and-rising-god pattern; cosmic mountain and world-axis; cosmic tree; descent-to-the-underworld"
-corpus_position = "Comparative Mythology is one of the corpus's principal methodological commitments; the cross-cultural patterns are taken as substantive evidence requiring substantive explanation; the corpus differs from the mainstream contemporary academic discipline's retreat from grand-theoretical engagement"
-corpus_explanatory_framework = "Cross-cultural patterns explained principally by common historical referents in the alliance-contact framework, integrated with the Hamlet's Mill precessional structural framework; the corpus does not require rejecting cognitive-science, diffusionist, or archetypal explanations but treats them as partial explanations that miss the common-referent component"
-distinguished_from = "Comparative religion (broader disciplinary engagement with religious traditions beyond their mythological content); mythography (descriptive cataloguing of mythological content without comparative-theoretical framework); folklore studies (focused on contemporary oral tradition rather than ancient mythological corpora); cognitive science of religion (which engages cross-cultural patterns but explains them through evolved cognitive structures)"
-status_in_framework = "Principal methodological commitment alongside Sendy's Conditions of Coherence, the Biglino Method, the Hamlet's Mill precessional integration, and the broader corpus's disciplined epistemic-pluralism methodology"
+type = "תחום אקדמי ופרשני החוקר דפוסים חוזרים בקורפוסים מיתולוגיים המופרדים גיאוגרפית והיסטורית; אחת המחויבויות המתודולוגיות העיקריות של הקורפוס"
+disciplinary_origin = "העיסוק הרומנטי האירופי בסוף המאה ה־18 במיתולוגיות לא־מערביות; הופעה דיסציפלינרית רשמית במאה ה־19 עם עבודתו ההשוואתית־פילולוגית של פרידריך מקס מילר ועבודתו האנתרופולוגית־השוואתית של ג'יימס ג'ורג' פרייזר"
+principal_methodological_schools = "מיתולוגיה סולארית (מילר); אנתרופולוגית־השוואתית (פרייזר, טיילור, לאנג); דיפוזיוניסטית (באסטיאן, אסכולת וינה, הפאן־בבליוניזם); סטרוקטורליזם תלת־תפקודי (דומזיל); פנומנולוגית־דתית (אליאדה, אוטו, ואן דר לאו); ארכיטיפית־יונגיאנית (יונג, נוימן, קמפבל); אנתרופולוגית־מבנית (לוי־שטראוס); מדע הקוגניציה של הדת (בויר, אטראן, בארט)"
+principal_motif_clusters = "סיפורי בריאה; סיפורי מבול; מסורות של מבקרים מן השמיים ומביאי תרבות; תאומכיה / מלחמה בין האלים; ירידה אלוהית וכלאיים אלוהיים־אנושיים; תור הזהב ומסורות עידני העולם; דפוס האל המת והקם לתחייה; ההר הקוסמי וציר העולם; העץ הקוסמי; הירידה לשאול"
+corpus_position = "המיתולוגיה ההשוואתית היא אחת המחויבויות המתודולוגיות העיקריות של הקורפוס; הדפוסים הבין־תרבותיים נלקחים כעדות ממשית הדורשת הסבר; הקורפוס נבדל מנסיגתה של הדיסציפלינה העכשווית מעיסוק בתאוריות־על"
+corpus_explanatory_framework = "דפוסים בין־תרבותיים מוסברים בעיקר במושאים היסטוריים משותפים במסגרת הברית והמגע, בשילוב המסגרת המבנית הנקיפתית של Hamlet's Mill; הקורפוס אינו מחייב דחייה של הסברי מדע הקוגניציה, הדיפוזיוניזם או הארכיטיפים, אלא רואה בהם הסברים חלקיים המחמיצים את רכיב המושא המשותף"
+distinguished_from = "דת השוואתית (עיסוק דיסציפלינרי רחב במסורות דתיות מעבר לתוכנן המיתולוגי); מיתוגרפיה (קטלוג תיאורי של תוכן מיתולוגי ללא מסגרת השוואתית־תיאורטית); חקר הפולקלור (המתמקד במסורת שבעל־פה בת זמננו ולא בקורפוסים מיתולוגיים עתיקים); מדע הקוגניציה של הדת (העוסק בדפוסים בין־תרבותיים אך מסביר אותם במבנים קוגניטיביים שהתפתחו באבולוציה)"
+status_in_framework = "מחויבות מתודולוגית עיקרית לצד תנאי הקוהרנטיות של סנדי, שיטת ביליינו, השילוב הנקיפתי של Hamlet's Mill והמתודולוגיה הממושמעת של פלורליזם אפיסטמי בקורפוס הרחב"
 +++
 
 **Comparative mythology** is the academic discipline that studies myths from

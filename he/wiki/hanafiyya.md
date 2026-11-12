@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -19,6 +19,14 @@ entry_type = "concept"
 claim_type = "inferred"
 timeline = ["pisces"]
 alternative_names = ["ٱلْحَنِيفِيَّة (al-Ḥanīfiyyah)", "حَنِيف (ḥanīf, יחיד)", "حُنَفَاء (ḥunafāʾ, רבים)", "millat Ibrāhīm (»דת אברהם«)", "dīn Ibrāhīm", "המונותאיזם הקדמוני", "דת הישרים"]
+see_also = [
+    { title = "אברהם", path = "wiki/abraham", description = "הדמות המייסדת, שהחניפיה טוענת לשקם את דתה המקורית האבודה." },
+    { title = "מוחמד", path = "wiki/muhammad", description = "מוצג בקוראן כשב אל ״מִלַּת אִבְּרָאהִים״ שהחניפיה מציינת." },
+    { title = "פטרה", path = "wiki/petra", description = "המוקד המקורי שגיבסון מציע לתנועה שכינתה עצמה לראשונה חניפיה." },
+    { title = "הנבטים", path = "wiki/nabataeans", description = "הסביבה הארמית־הנוצרית המעורבת במסירת המונח דרך המילה הקרובה ḥanpā." },
+    { title = "אלוהים", path = "wiki/elohim", description = "היוצרים שהקורפוס קורא את החניפיה כממשיכה את תוכנית השיקום האברהמית שלהם." },
+    { title = "רשימת הנביאים והדתות", path = "wiki/list-of-prophets-and-religions", description = "מקומה של החניפיה בין המסורות שהברית טיפחה לאורך העידנים." },
+]
 
 [extra.infobox]
 type = "מונח קוראני ואסלאמי-מוקדם למונותאיזם הקדמוני של אברהם; השם העצמי המקורי המוצע של האסלאם המוקדם"

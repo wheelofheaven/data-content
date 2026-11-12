@@ -6,27 +6,36 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["666", "Six Hundred Sixty-Six", "the Number of the Beast", "the Number of Man (proper-noun framework concept)", "χξϛ (Greek isopsephic representation)"]
+alternative_names = ["666", "Six cent soixante-six", "le Nombre de la Bête", "le Nombre de l'homme (concept du cadre, nom propre)", "χξϛ (représentation isopséphique grecque)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "Le cadre d'Apocalypse 13:18 et le seuil nucléaire de 1945 qui marque la 666e génération." },
+    { title = "Genèse", path = "wiki/genesis", description = "L'événement de création dans le laboratoire d'Éden que le décompte des générations date de 11 375 av. J.-C." },
+    { title = "Âge du monde", path = "wiki/world-age", description = "Les âges précessionnels à travers lesquels s'étend la durée de 13 320 ans jusqu'à la limite Vierge-Lion." },
+    { title = "Âge d'or", path = "wiki/golden-age", description = "L'aboutissement de l'ère du Verseau auquel la trajectoire de la création à l'Apocalypse parvient après un demi-cycle." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "Le cadre dont le calcul du 666 aide à ancrer la chronologie précessionnelle." },
+    { title = "Raël", path = "wiki/rael", description = "La source de l'interprétation du décompte des générations dans Accueillir les extra-terrestres." },
+    { title = "Le moulin qui broie les âges", path = "articles/the-mill-that-grinds-the-ages", description = "La famille plus large des nombres précessionnels (72, 2 160, 25 920, 432 000) à côté de laquelle se place ce décompte des générations — et la mise en garde sur les nombres ronds qui l'accompagne." },
+]
 
 [extra.infobox]
-type = "Number-symbolic concept; the Revelation 13:18 numerical specification interpreted as the number of human generations from creation to nuclear-acquisition threshold"
+type = "Concept de symbolique numérique ; le 666 d'Apocalypse 13:18 lu comme le nombre de générations humaines depuis la création jusqu'au seuil de l'acquisition du nucléaire"
 value = "666 (Indo-Arabic numeral); χξϛ (Greek isopsephic representation: chi 600 + xi 60 + stigma 6); שש מאות ששים ושש (Hebrew transliteration)"
-principal_source = "Revelation 13:18 (the source-textual location); *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) and consolidated *Message from the Designers* (2005) — the principal corpus interpretation; *timeline.epub* — substantive substantial subsequent corpus refinement"
-core_articulation = "666 = number of human generations from original Eden-laboratory creation through 1945 nuclear-acquisition threshold; with working estimate of 20 years per generation, 666 × 20 = 13,320 years; 1945 − 13,320 = 11,375 BCE creation date at Virgo-Leo precessional boundary"
-mathematical_features = "Triangular number (T_36 = 666); sum of integers from 1 to 36; sum of squares of first seven primes (2² + 3² + 5² + 7² + 11² + 13² + 17² = 666); harshad number (divisible by digit-sum)"
+principal_source = "Apocalypse 13:18 (le texte source) ; *Accueillir les extra-terrestres* (Vorilhon, 1979) et *Le Message donné par les extra-terrestres* (2005) — l'interprétation principale du corpus ; *timeline.epub* — l'affinement sur les humains achevés"
+core_articulation = "666 = nombre de générations humaines depuis la création originelle dans le laboratoire d'Éden jusqu'au seuil de l'acquisition du nucléaire en 1945 ; le canon (LWTE-2:208–209) situe les premiers humains « il y a quelque 13 000 ans » et calcule 666 × 20 = 13 320 ans ; la date de 11 375 av. J.-C. (1945 − 13 320) et sa situation près de la frontière Vierge–Lion relèvent de l'arithmétique propre au corpus, non du canon"
+mathematical_features = "Nombre triangulaire (T₃₆ = 666) ; somme des carrés des sept premiers nombres premiers (2² + 3² + 5² + 7² + 11² + 13² + 17² = 666) ; nombre Harshad (divisible par la somme de ses chiffres)"
 precessional_calculation = "13,320 years / 2,160 years per Great Month = 6.166... Great Months; structurally close to half a complete Great Year (12,960 years exact half); creation-to-Apocalypse trajectory across approximately half of complete precessional cycle"
-distinguished_from = "the mainstream Nero Caesar isopsephic interpretation (Irenaeus, the substantial subsequent biblical-scholarly tradition); the textual-variant 616 reading (Papyrus 115 evidence); the various papacy-as-beast Reformation-era interpretations; the various contemporary-political-figure interpretations; the various conspiracy-theoretic Mark-of-the-Beast engagements"
+distinguished_from = "La lecture dominante par la gématrie de Néron César (Irénée et la tradition savante ultérieure) ; la variante textuelle 616 (Papyrus 115) ; les lectures de l'époque de la Réforme identifiant la papauté à la bête ; les identifications à des figures politiques contemporaines ; les lectures conspirationnistes de la Marque de la Bête"
 parallel_traditions = "Hebrew gematria tradition; Greek isopsephy tradition; Sanskrit-Indian numerical-symbolic traditions; Chinese numerical-symbolic traditions; Mesoamerican calendrical-numerical traditions; various indigenous numerical-symbolic traditions"
-status_in_framework = "Foundational chronological-mathematical concept anchoring the corpus's 11,375 BCE creation-finalization date and the broader precessional-calendrical framework"
-principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) — principal source articulation in 'The Apocalypse of the Final Nuclear Cataclysm' section; *Message from the Designers* (2005) — consolidated English engagement; *timeline.epub* — substantive subsequent refinement registering finalized-humans interpretation"
+status_in_framework = "Ancrage chronologique et mathématique fondateur pour la date de création de 11 375 av. J.-C. retenue par le corpus et pour sa chronologie précessionnelle"
+principal_corpus_treatment = "*Accueillir les extra-terrestres* (Vorilhon, 1979), section « L'Apocalypse du cataclysme nucléaire final » ; *Le Message donné par les extra-terrestres* (2005) ; *timeline.epub* — l'affinement sur les humains achevés"
 +++
 
 **The Number of Man** is the value **666** — written in the Greek of Revelation

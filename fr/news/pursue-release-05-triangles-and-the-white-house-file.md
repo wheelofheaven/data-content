@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Quatre semaines après le Communiqué 04, le Département de la Guerre des États-Unis a publié le Communiqué 05 sur war.gov/UFO : 41 fichiers — documents, images et vidéos, selon le décompte de la presse — provenant du Pentagone, du FBI et de la CIA, rejoints pour la première fois par le Département d'État et le Bureau exécutif du président. Les cas phares : un entretien FBI de 2024 dans lequel un ancien pilote militaire se souvient d'un triangle équilatéral, silencieux et estimé à 500 pieds d'envergure, occultant les étoiles au-dessus de Bagram, en Afghanistan, en 2002 ; une rencontre de 2021 dans le golfe d'Oman entre un avion d'appui-feu et quelque 25 « orbes froids » qui semblaient réagir aux tirs du canon principal de l'appareil ; et un groupe de fichiers de novembre 1963 dans lequel un reportage radiophonique brésilien sensationnel — une sphère écrasée avec un membre d'équipage mort — voyage d'une transcription d'écoute de la CIA à un verdict du Département d'État, en passant par une enquête du conseil spatial de la Maison-Blanche : fabriqué. Le corpus enregistre le Communiqué 05 comme un contexte pour lire le canon, et non comme un signe du retour — et consigne le dossier de Bahia, qui se dissout sous ses propres documents, à pleine valeur documentaire."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "Le contexte du présent"
+cross_reference = "Ère du Verseau, §IX"
 canon_links = [
     { title = "Âge du Verseau", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

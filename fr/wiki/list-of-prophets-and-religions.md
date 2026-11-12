@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,20 +14,30 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of religions", "Prophet and tradition index", "Religious-tradition reference"]
+alternative_names = ["Catalogue des religions", "Index des prophètes et des traditions", "Référence des traditions religieuses"]
+see_also = [
+    { title = "Religion", path = "wiki/religion", description = "L'entrée mère qui développe la lecture de l'histoire religieuse proposée par le cadre et que ce catalogue met en tableau." },
+    { title = "Raëlisme", path = "wiki/raelism", description = "La tradition propre au canon, au sommet de l'échelle comparative employée ici." },
+    { title = "Raël", path = "wiki/rael", description = "Le dernier messager de la lignée prophétique que le catalogue recense." },
+    { title = "Mahomet", path = "wiki/muhammad", description = "L'un des prophètes fondateurs dont le catalogue classe et recoupe la tradition." },
+    { title = "Moïse", path = "wiki/moses", description = "L'un des prophètes fondateurs dont le catalogue classe et recoupe la tradition." },
+    { title = "Élohim", path = "wiki/elohim", description = "La civilisation dont le cadre lit les contacts derrière les traditions authentiques recensées." },
+    { title = "La religion des religions", path = "articles/the-religion-of-religions", description = "Place trois des universalismes de deuxième rang du catalogue — bahaïsme, Oomoto, Cao Đài — à côté du Raëlisme, chacun dans ses propres mots." },
+    { title = "Les quarante chaises", path = "articles/the-forty-chairs", description = "Formalise l'échelle à cinq rangs de ce catalogue en six critères explicites, étalonnés sur la Scientologie et sur le contraste entre Joseph Smith et Hubbard." },
+]
 portrait_id = "prophetic-lineage"
 image = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.avif"
-image_alt = "AI-generated editorial group portrait of the prophetic lineage, with figures from multiple eras arranged around a luminous axis."
-image_caption = "Interpretive portrait for the prophets and religions reference catalogue."
+image_alt = "Portrait de groupe éditorial généré par IA représentant la lignée prophétique, avec des figures de plusieurs époques disposées autour d'un axe lumineux."
+image_caption = "Portrait interprétatif pour le catalogue de référence des prophètes et des religions."
 
 [extra.infobox]
-type = "Reference catalogue of religious traditions and their founding figures"
-scope = "Major world religions, regional and ethnic traditions, ancient religions, new religious movements"
-classification_instrument = "Five-tier authenticity scale (canonical / highly likely / likely / unlikely / highly unlikely)"
-authenticity_basis = "Wheel of Heaven framework's reading of each tradition as preserving (or not) authentic testimony of Elohim–human contact"
-companion_entries = "[Religion](../religion/); [Bible](../bible/); [Raëlism](../raelism/); individual entries on the major traditions and their founders"
-caveat = "The catalogue is not exhaustive; coverage is most complete for traditions with substantial historical documentation and dedicated wiki entries"
+type = "Catalogue de référence des traditions religieuses et de leurs figures fondatrices"
+scope = "Grandes religions du monde, traditions régionales et ethniques, religions antiques, nouveaux mouvements religieux"
+classification_instrument = "Échelle comparative à cinq niveaux (canonique / très probable / probable / improbable / très improbable) — l'heuristique propre au corpus pour organiser la comparaison ; le canon ne donne aucun niveau"
+tier_basis = "Le niveau canonique consigne les messagers nommés par le message dicté ; les niveaux ouverts consignent la comparaison de travail du corpus entre chaque récit fondateur et le récit de contact du canon, non un verdict d'authenticité"
+companion_entries = "[Religion](../religion/) ; [Bible](../bible/) ; [Raëlisme](../raelism/) ; entrées individuelles sur les grandes traditions et leurs fondateurs"
+caveat = "Le catalogue n'est pas exhaustif ; la couverture est la plus complète pour les traditions disposant d'une documentation historique substantielle et d'entrées wiki dédiées"
 +++
 
 This entry catalogues the world's principal religious traditions and the prophets, founders, and visionaries associated with them, with an indication of how each tradition is positioned within the Wheel of Heaven framework's reading of religious history. The catalogue serves three functions: a navigation index for the wiki's coverage of individual traditions, a reference for the corpus's working positions in comparing different traditions, and a transparent statement of the methodology by which tier assignments are made.

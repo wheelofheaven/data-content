@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,16 +15,25 @@ editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
 alternative_names = ["Whole-genome synthesis", "Genome engineering", "Genome-scale design"]
+see_also = [
+    { title = "Ingeniería de la vida", path = "wiki/life-engineering", description = "El campo matriz del que la genómica sintética es la rama más ambiciosa." },
+    { title = "Biología sintética", path = "wiki/synthetic-biology", description = "El campo hermano que opera a escala de subsistema, por debajo de la construcción de genomas completos." },
+    { title = "Ingeniería genética", path = "wiki/genetic-engineering", description = "El campo hermano que opera modificando genomas existentes en lugar de sintetizarlos." },
+    { title = "Elohim", path = "wiki/elohim", description = "La civilización con cuya creación de organismos completos coincide más directamente la escala del campo." },
+    { title = "Génesis", path = "wiki/genesis", description = "El relato de la creación que el corpus lee como descripción de la construcción de vida a partir de secuencias diseñadas." },
+    { title = "Árbol de la Vida", path = "wiki/tree-of-life", description = "La contrapartida de la tecnología de longevidad que el corpus empareja con la ingeniería de la vida creada." },
+    { title = "La firma y los diseñadores", path = "/articles/the-signature-and-the-designers/", description = "El genoma mínimo diseñado de Venter leído como la recuperación contemporánea de la capacidad de laboratorio de los Elohim." },
+]
 
 [extra.infobox]
-type = "Engineering sub-discipline of life engineering concerned with whole-genome design and synthesis"
-parent_field = "Life engineering"
-sister_fields = "Genetic engineering; synthetic biology; xenobiology"
-distinguishing_feature = "Operates at the scale of complete genomes rather than at the sub-system or single-gene scale"
-foundational_milestones = "Chemical synthesis of phage φX174 genome (Smith, Hutchison, and Venter, 2003); synthesis of *Mycoplasma genitalium* genome (Gibson and colleagues, 2008); JCVI-syn1.0 — first cell with entirely synthetic genome (Gibson and colleagues, 2010); JCVI-syn3.0 — first minimal synthetic cell, 473 genes (Hutchison and colleagues, 2016); JCVI-syn3A — stabilised minimal-cell platform (Pelletier and colleagues, 2021); Sc2.0 — synthetic *Saccharomyces cerevisiae* genome (international consortium, 2011–present)"
-key_techniques = "Hierarchical assembly of synthetic oligonucleotides; genome transplantation; yeast as DNA-assembly host; whole-chromosome synthesis"
-current_status = "Active scientific discipline; complete bacterial genomes now routinely synthesised; eukaryotic-genome work ongoing; multicellular-genome synthesis not yet achieved"
-framework_significance = "The sub-discipline whose operational scale — whole-organism construction from designed sequence — most directly matches the scale of the Elohim's work as described in the source material"
+type = "Subdisciplina de ingeniería dentro de la ingeniería de la vida dedicada al diseño y la síntesis de genomas completos"
+parent_field = "Ingeniería de la vida"
+sister_fields = "Ingeniería genética; biología sintética; xenobiología"
+distinguishing_feature = "Opera a la escala de genomas completos y no a la de subsistemas o genes individuales"
+foundational_milestones = "Síntesis química del genoma del fago φX174 (Smith, Hutchison y Venter, 2003); síntesis del genoma de *Mycoplasma genitalium* (Gibson y colaboradores, 2008); JCVI-syn1.0, primera célula con un genoma totalmente sintético (Gibson y colaboradores, 2010); JCVI-syn3.0, primera célula sintética mínima, 473 genes (Hutchison y colaboradores, 2016); JCVI-syn3A, plataforma estabilizada de célula mínima (Pelletier y colaboradores, 2021); Sc2.0, genoma sintético de *Saccharomyces cerevisiae* (consorcio internacional, 2011–hoy)"
+key_techniques = "Ensamblaje jerárquico de oligonucleótidos sintéticos; trasplante de genomas; la levadura como huésped para el ensamblaje del ADN; síntesis de cromosomas completos"
+current_status = "Disciplina científica activa; los genomas bacterianos completos se sintetizan ya de forma rutinaria; el trabajo con genomas eucariotas sigue en curso; aún no se ha logrado la síntesis de genomas multicelulares"
+framework_significance = "La subdisciplina cuya escala operativa (la construcción de organismos completos a partir de una secuencia diseñada) coincide más directamente con la escala de la obra de los Elohim descrita en el material de fuente"
 +++
 
 **Synthetic genomics** is the branch of [life engineering](../life-engineering/) concerned with the design, chemical synthesis, and assembly of complete genomes or large portions of genomes — the construction of an organism's entire hereditary material from designed sequence rather than from the modification of existing biological templates. It is the most ambitious wing of contemporary life engineering and the one whose scale of operation most directly approaches the scale at which the Raëlian source material describes the work of the Elohim civilisation. Where [synthetic biology](../synthetic-biology/) more broadly operates at the level of sub-systems and components, and where [genetic engineering](../genetic-engineering/) operates at the level of modifications to existing genomes, synthetic genomics operates at the level of the genome itself.

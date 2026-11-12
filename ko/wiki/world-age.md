@@ -6,29 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Precessional Age", "Astrological Age", "Zodiacal Age", "Great Month", "Platonic Month (older Western-philosophical designation)", "Cosmic Age"]
+alternative_names = ["세차 시대", "점성술적 시대", "황도 시대", "대월", "플라톤 월(예전 서양 철학의 명칭)", "우주적 시대"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "대월", path = "wiki/great-month", description = "세계의 시대가 가리키는 대년의 2,160년 하위 구분과 같은 뜻의 말." },
+    { title = "햄릿의 맷돌", path = "wiki/hamlets-mill", description = "프레임워크가 세차 모델을 끌어오는 산틸라나와 폰 데헨트의 재구성." },
+    { title = "이중 서명", path = "wiki/doubled-signature", description = "각 시대가 자신의 별자리와 그 황도상 맞은편 별자리를 함께 가리킨다는 원리." },
+    { title = "우주의 사슬", path = "wiki/cosmic-chain", description = "세차 시대들이 조직되는 중첩된 규모의 우주론." },
+    { title = "수메르 왕명록", path = "wiki/sumerian-king-list", description = "코퍼스가 세차 연대기에 맞대어 읽는 고대의 왕조 기록." },
+    { title = "창세기", path = "wiki/genesis", description = "코퍼스가 세차 시대들의 순서에 대응시키는 창조 서사." },
+    { title = "시대를 갈아내는 맷돌", path = "articles/the-mill-that-grinds-the-ages", description = "햄릿의 맷돌에서 마자롯에 이르기까지, 세계 시대의 순서를 추적해 온 숭배 상징들을 통해 따라갑니다." },
+]
 
 [extra.infobox]
-type = "Structural-foundational temporal-cosmological framework concept; the principal organizing temporal unit of the corpus narrative"
-duration = "Approximately 2,160 years per age (one-twelfth of the ~25,920-year Great Year cycle)"
-mechanism = "Produced by the precession of Earth's axis — the slow conical wobble of the rotational axis caused principally by gravitational torque on Earth's equatorial bulge from the sun and moon, completing one full cycle every ~25,920 years at a rate of ~50 arcseconds per year"
-zodiacal_basis = "The twelve constellations of the zodiac, against which the vernal equinox sun rises in succession across the precessional cycle; the equinox moves backward (westward) through the zodiac at one sign per ~2,160 years"
-precessional_direction = "Backward through the zodiac (Capricorn → Sagittarius → Scorpio → Libra → Virgo → Leo → Cancer → Gemini → Taurus → Aries → Pisces → Aquarius → back to Capricorn)"
-great_year_total = "12 ages × 2,160 years = 25,920 years (the complete precessional cycle, also called the Platonic Year, Great Year, or *annus magnus*)"
-current_age = "Age of Aquarius (1950 CE corpus boundary; 1946 CE source-anchored opening) running to ~4110 CE"
-corpus_operational_period = "From the Capricorn-age opening at -21,810 to the Aquarian-age present (approximately 22,000 years), spanning twelve full precessional ages and constituting essentially one complete Great Year of the alliance's creation project"
-foundational_scholarship = "Giorgio de Santillana and Hertha von Dechend, *Hamlet's Mill: An Essay on Myth and the Frame of Time* (Gambit, 1969) — the principal scholarly anchor for the corpus's precessional framework"
-distinguished_from = "Mainstream astrology's tropical-zodiac framework (where signs are tied to seasonal positions rather than to actual constellational positions, decoupled from the precessional motion); the New Age movement's broader Aquarian-age engagement (which operates with various boundary-dating conventions and various interpretive emphases); the broader 'astrological age' popular designation (which often conflates precessional and tropical frameworks)"
-status_in_framework = "Foundational; the World Age operates as the principal organizing temporal-cosmological structure of the entire corpus narrative, with all twelve individual age entries (Capricorn through Aquarius) operating as detailed treatments of specific instances within this overarching framework"
-principal_corpus_treatment = "*timeline.epub*, particularly the Preamble's introduction to the precessional framework, the Libra chapter's articulation of the zodiac as engineering tool (Section VI), the Pisces chapter's articulation of the doubled signature principle, and the Aquarius chapter's articulation of the Great Year completion; *Message from the Designers* references to Aquarius opening; Jean Sendy, *L'ère du Verseau* (1970)"
+type = "세차 시대 — 대년의 12분의 1. 코퍼스가 연대기의 뼈대로 사용하는 약 2,160년 단위"
+duration = "시대당 약 2,160년(약 25,920년의 대년 주기의 12분의 1)"
+mechanism = "지구 자전축의 세차운동에서 비롯됨 — 주로 태양과 달이 지구의 적도 팽대부에 가하는 중력 토크로 인해 자전축이 느리게 원뿔 모양으로 흔들리는 운동으로, 연간 약 50각초의 속도로 약 25,920년마다 한 주기를 완성함"
+zodiacal_basis = "황도대의 열두 별자리로, 세차 주기에 걸쳐 춘분의 태양이 차례로 그 별자리들을 배경으로 떠오름; 춘분점은 약 2,160년마다 한 별자리씩 황도대를 거슬러(서쪽으로) 이동함"
+precessional_direction = "황도대를 거슬러 감(염소자리 → 사수자리 → 전갈자리 → 천칭자리 → 처녀자리 → 사자자리 → 게자리 → 쌍둥이자리 → 황소자리 → 양자리 → 물고기자리 → 물병자리 → 다시 염소자리)"
+great_year_total = "12시대 × 2,160년 = 25,920년(세차 주기 전체로, 플라톤년, 대년, 또는 *annus magnus*라고도 함)"
+current_age = "물병자리 시대(코퍼스 경계 기원후 1950년; 원전에 근거한 개막 기원후 1946년), 기원후 약 4110년까지 이어짐"
+corpus_operational_period = "기원전 약 21,810년 염소자리 시대의 시작부터 현재의 물병자리 시대까지 — 열두 세차 시대에 걸친 약 22,000년으로, 엘로힘 창조 프로젝트의 대략 한 대년 전체"
+foundational_scholarship = "조르조 데 산틸라나와 헤르타 폰 데헨트, *Hamlet's Mill: An Essay on Myth and the Frame of Time*(Gambit, 1969) — 코퍼스의 세차 틀을 위한 주요 학술적 닻"
+distinguished_from = "주류 점성술의 회귀 황도대(실제 별자리가 아니라 계절에 묶인 궁으로, 세차와 분리됨), 뉴에이지의 '물병자리 시대'(여러 관례로 연대가 정해짐), 회귀 틀과 세차 틀을 자주 혼동하는 느슨한 대중적 '점성술적 시대'"
+status_in_framework = "기초. 세계의 시대는 코퍼스의 주요 연대 단위이며, 열두 시대(염소자리부터 물병자리까지) 각각을 별도 항목에서 다룹니다"
+principal_corpus_treatment = "*timeline.epub*, 특히 세차 틀을 소개하는 서문, 공학 도구로서의 황도대를 다루는 천칭자리 장(VI절), 이중 서명을 다루는 물고기자리 장, 대년의 완성을 다루는 물병자리 장. 물병자리 시대의 개막에 관한 *Message from the Designers*. 장 상디, *L'ère du Verseau*(1970)"
 +++
 
 A **World Age** — also called a **Precessional Age**, **Astrological Age**,

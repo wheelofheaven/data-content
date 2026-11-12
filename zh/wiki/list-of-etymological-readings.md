@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,15 +15,24 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
 alternative_names = ["Catalogue of etymological readings", "Framework philology index", "Glossary of source-language readings"]
+see_also = [
+    { title = "释经学阅读清单", path = "wiki/list-of-exegetic-readings", description = "处理术语所指为何的姊妹目录，与此处的语文学层面相互补充。" },
+    { title = "神话素与神话母题清单", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "处理反复出现之跨文化叙事模式的第三份姊妹目录。" },
+    { title = "比利诺方法", path = "wiki/biglino-method", description = "本目录之 Sendy—Biglino 方法所依据的严格语文学程序。" },
+    { title = "希伯来语", path = "wiki/hebrew", description = "本目录中最大的源语言类别。" },
+    { title = "圣经", path = "wiki/bible", description = "其术语被本目录作词源复原的主要文本文集。" },
+    { title = "新埃乌赫梅罗斯主义", path = "wiki/neo-euhemerism", description = "为这些解读提供操作性视角的诠释传统。" },
+    { title = "在元年苏醒的书卷", path = "articles/the-scrolls-that-woke-in-year-one", description = "11QMelchizedek 将“elohim”用于一位天上的官员——词源解读最好的古代手稿见证。" },
+]
 
 [extra.infobox]
-type = "Reference catalogue of framework etymological readings of religious and mythological terms"
-philological_method = "Standard scholarly etymology of source-language terms, read through the framework's operational interpretive lens"
-methodological_lineage = "Jean Sendy (1968–1972), philological-historiographic foundation; Mauro Biglino (2012 onward), strict Hebrew philology; Paul Wallis (2020 onward), Christian-engaged philology; broader corpus synthesis"
-scope = "Hebrew (largest category); Greek (New Testament, classical, philosophical); Sanskrit (Vedic and Hindu); Sumerian and Akkadian; Latin; cross-linguistic"
-catalogue_columns = "Word; source-language form with transliteration; standard etymology; framework reading"
-companion_catalogues = "[List of exegetic readings](../list-of-exegetic-readings/); [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/); [List of prophets and religions](../list-of-prophets-and-religions/)"
-caveat = "Standard etymologies follow mainstream philological scholarship; framework readings are the corpus's adopted positions and may diverge from standard interpretations at specific points, with divergences flagged where they occur"
+type = "本框架对宗教与神话术语之词源解读的参考目录"
+philological_method = "对源语言术语的标准学术词源，透过本框架的作业性诠释视角加以解读"
+methodological_lineage = "让·桑迪（1968–1972），语文学—史学基础；毛罗·比利诺（2012 年起），严格的希伯来语文学；Paul Wallis（2020 年起），立足基督教的语文学；更广的文集综合"
+scope = "希伯来语（最大的类别）；希腊语（新约、古典、哲学）；梵语（吠陀与印度教）；苏美尔语与阿卡德语；拉丁语；跨语言"
+catalogue_columns = "词语；附转写的源语言形式；标准词源；本框架的解读"
+companion_catalogues = "[释经学阅读清单](../list-of-exegetic-readings/)；[神话素与神话母题清单](../list-of-mythemes-and-mythological-motifs/)；[先知与宗教清单](../list-of-prophets-and-religions/)"
+caveat = "标准词源遵循主流语文学研究；本框架的解读是文集所采纳的立场，在某些具体之处可能与标准解释不同，凡有分歧之处均予标明"
 +++
 
 This entry catalogues the Wheel of Heaven framework's adopted etymological readings of religious, mythological, and traditional terms. The corpus uses careful philological method — drawn principally from the Sendy–Biglino tradition — to recover the literal meaning of source-language terms, and reads those literal meanings for the operational content the framework's broader interpretive synthesis identifies. The catalogue presents each term in its source language and script with transliteration, the standard scholarly etymology, and the framework's adopted reading, organised by source-language tradition (Hebrew, Greek, Sanskrit, Sumerian and Akkadian, Latin, and cross-linguistic) so that etymological convergences across language families can be assessed.

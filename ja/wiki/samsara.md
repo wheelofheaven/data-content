@@ -6,28 +6,41 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Saṃsāra (Sanskrit संसार, Pali saṃsāra)", "the Wheel of Life (Bhavacakra)", "the cycle of birth, death, and rebirth", "the cycle of reincarnation", "cyclic existence", "the cycle (Vorilhon source designation)"]
+alternative_names = ["Saṃsāra(サンスクリット語 संसार、パーリ語 saṃsāra)", "生命の輪(バヴァチャクラ)", "誕生、死、再生の循環", "輪廻転生の循環", "循環的存在", "循環(ヴォリロンの典拠での呼称)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "マクロ生物学", path = "wiki/macrobiology", description = "有機体としての人類の生物学。輪廻はその失敗の様態、すなわち完了する前に流産する移行である。" },
+    { title = "卍", path = "wiki/swastika", description = "コーパスが輪廻の型を保存するものとして読む、周期の象徴。" },
+    { title = "黄金時代", path = "wiki/golden-age", description = "仏教の悟りを文明の周期からの脱出として読み直すコーパスの読解。" },
+    { title = "宇宙的競争", path = "wiki/cosmic-competition", description = "周期から脱出する種と周期へと逆戻りする種とを選り分ける、宇宙規模の選択。" },
+    { title = "黙示録", path = "wiki/apocalypse", description = "人類が周期からの脱出という選択に直面する、水瓶座の時代の閾値。" },
+    { title = "宇宙の連鎖", path = "wiki/cosmic-chain", description = "文明の周期がその中で繰り返される、入れ子状の創造の系譜。" },
+    { title = "四段階", path = "wiki/four-levels", description = "周期的な型がその全体にわたって作動すると読まれる尺度の階層。" },
+    { title = "大洪水", path = "wiki/great-flood", description = "コーパスが周期の再開始の典型として読む、双子座の時代の大災害。高度な文明が原始的な状態へと押し戻された。" },
+    { title = "ルシファー", path = "wiki/lucifer", description = "その方舟の作戦が、洪水による再開始を越えて残された者を保存した、追放された親人類の創造者の派閥。" },
+    { title = "諸時代を挽く臼", path = "articles/the-mill-that-grinds-the-ages", description = "周期の背後にある歳差運動の輪。時代を挽く臼と、正典がその徴として読む卍。" },
+    { title = "人類の形", path = "articles/the-shape-of-humanity", description = "文明の周期を、生まれる前に流産しうる惑星規模の有機体の失敗の様態として読む解説記事。" },
+]
 
 [extra.infobox]
-type = "Cosmological-cyclical concept; the substantive cyclical pattern of civilizational rise-and-fall the corpus reads as underlying cosmic-civilizational reality preserved in Indian-religions saṃsāra-cycle traditions"
-sanskrit = "संसार (saṃsāra, 'wandering through, flowing on')"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'The Second Encounter' chapter, 'Buddhism' section; consolidated *Message from the Designers* (2005)"
-core_articulation = "Buddhist saṃsāra-cycle reread collectively-civilizationally: humanity faces cosmic-civilizational choice between escape from cycle (Golden Age, cosmic-civilizational engagement) or fall back into cycle (primitive-state restart, multi-millennial redevelopment in hostile world)"
-cosmic_civilizational_selection = "Natural selection at cosmic level for species capable of leaving their planet; species controlling aggressiveness reach cosmic-civilizational engagement; species unable to control aggressiveness self-destruct at weapons-acquisition threshold"
-buddhist_devils = "Aggressiveness toward fellow humans; aggressiveness toward nature"
-buddhist_awakening = "Golden Age of civilization in which science serves the people"
-swastika_connection = "The swastika operates as the cycle-symbol preserved across the corpus engagement (treated systematically in Swastika entry)"
-distinguished_from = "Individual-eschatological saṃsāra (the substantial Indian-religions individual-soul-transmigration reading); the cosmic Golden Age content (the operational form of life produced by successful cycle-escape); the Apocalypse threshold-event (the specific 1945-onward Aquarian-age threshold moment)"
+type = "宇宙論的・循環的な概念。コーパスが、インドの諸伝統の saṃsāra(輪廻)に保存された宇宙的現実として読む、文明の興隆と衰退のパターン"
+sanskrit = "संसार(saṃsāra、「さまよい巡ること、流れ続けること」)"
+principal_source = "『地球外生命体は私を彼らの惑星へ連れて行った』(ヴォリロン、1975年)、「第二の会見」の章、「仏教」の節。統合版『設計者からのメッセージ』(2005年)"
+core_articulation = "仏教の saṃsāra を集団的に読み直したもの:人類は、循環からの脱出(人々に奉仕する科学の黄金時代)と、循環への逆戻り(原始状態からの再出発、敵対的な世界で数千年をかけて再発展する)とのあいだの宇宙的な選択に直面している"
+cosmic_civilizational_selection = "「自らの惑星を離れることのできる種のための、宇宙的な水準での自然選択」。自らの攻撃性を制御した種は星々に到達し、そうでない種は兵器の閾値で自滅する"
+buddhist_devils = "同胞である人間への攻撃性。自然への攻撃性"
+buddhist_awakening = "科学が人々に奉仕する文明の黄金時代"
+swastika_connection = "諸伝統を通じて保存された循環のシンボルとして読まれる卍(卍の項目で扱う)"
+distinguished_from = "個人の終末論としての saṃsāra(伝統的なインドの魂の転生という読解)。黄金時代(循環からの脱出に成功して生まれる生)。黙示(1945年以降の水瓶座の時代の特定の閾値)"
 parallel_traditions = "Hindu saṃsāra (Vedic, Upanishadic, Vedantic engagement); Jain karma-cycle; Sikh cycle-content; Greek-Stoic eternal recurrence; Nietzschean eternal return; Mayan Long Count cycles; Norse Ragnarök-regeneration; Chinese cyclical traditions; various indigenous cyclical traditions"
-status_in_framework = "Foundational cosmological-cyclical concept; the substantive cosmic-civilizational pattern that successful Aquarian-age navigation breaks; integrated with broader Golden Age, Apocalypse, Cosmic Chain, Cosmic Competition framework"
+status_in_framework = "宇宙論的・循環的な基礎概念。水瓶座の時代を首尾よく乗り切ることで断ち切られる宇宙的パターン。黄金時代、黙示、宇宙の連鎖、宇宙的競争の枠組みと統合されている"
 +++
 
 **Saṃsāra** (Sanskrit संसार, "wandering through, flowing on") is the cycle of

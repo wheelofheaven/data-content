@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,15 +15,24 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
 alternative_names = ["Catalogue of etymological readings", "Framework philology index", "Glossary of source-language readings"]
+see_also = [
+    { title = "Liste exegetischer Lesarten", path = "wiki/list-of-exegetic-readings", description = "Der Begleitkatalog darüber, worauf sich Begriffe beziehen, als Ergänzung zu dieser philologischen Ebene." },
+    { title = "Liste der Mytheme und mythologischen Motive", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "Der dritte Begleitkatalog zu wiederkehrenden kulturübergreifenden Erzählmustern." },
+    { title = "Biglino-Methode", path = "wiki/biglino-method", description = "Das Verfahren strenger Philologie, auf das sich die Sendy-Biglino-Methode des Katalogs stützt." },
+    { title = "Hebräisch", path = "wiki/hebrew", description = "Die größte Kategorie der Ausgangssprachen im Katalog." },
+    { title = "Bibel", path = "wiki/bible", description = "Das wichtigste Textkorpus, dessen Begriffe der Katalog etymologisch wiedergewinnt." },
+    { title = "Neo-Euhemerismus", path = "wiki/neo-euhemerism", description = "Die Deutungstradition, die die operative Perspektive der Lesarten liefert." },
+    { title = "Die Schriftrollen, die im Jahr eins erwachten", path = "articles/the-scrolls-that-woke-in-year-one", description = "11QMelchisedek wendet „elohim“ auf einen himmlischen Amtsträger an — der beste antike Handschriftenzeuge der etymologischen Lesart." }
+]
 
 [extra.infobox]
-type = "Reference catalogue of framework etymological readings of religious and mythological terms"
-philological_method = "Standard scholarly etymology of source-language terms, read through the framework's operational interpretive lens"
-methodological_lineage = "Jean Sendy (1968–1972), philological-historiographic foundation; Mauro Biglino (2012 onward), strict Hebrew philology; Paul Wallis (2020 onward), Christian-engaged philology; broader corpus synthesis"
-scope = "Hebrew (largest category); Greek (New Testament, classical, philosophical); Sanskrit (Vedic and Hindu); Sumerian and Akkadian; Latin; cross-linguistic"
-catalogue_columns = "Word; source-language form with transliteration; standard etymology; framework reading"
-companion_catalogues = "[List of exegetic readings](../list-of-exegetic-readings/); [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/); [List of prophets and religions](../list-of-prophets-and-religions/)"
-caveat = "Standard etymologies follow mainstream philological scholarship; framework readings are the corpus's adopted positions and may diverge from standard interpretations at specific points, with divergences flagged where they occur"
+type = "Nachschlagekatalog etymologischer Lesarten religiöser und mythologischer Begriffe durch den Rahmen"
+philological_method = "Gängige wissenschaftliche Etymologie der Begriffe in der Ausgangssprache, gelesen durch die operative Deutungslinse des Rahmens"
+methodological_lineage = "Jean Sendy (1968–1972), philologisch-historiografische Grundlegung; Mauro Biglino (ab 2012), strenge hebräische Philologie; Paul Wallis (ab 2020), christlich engagierte Philologie; umfassendere Synthese des Korpus"
+scope = "Hebräisch (größte Kategorie); Griechisch (Neues Testament, klassisch, philosophisch); Sanskrit (vedisch und hinduistisch); Sumerisch und Akkadisch; Latein; sprachübergreifend"
+catalogue_columns = "Wort; Form in der Ausgangssprache mit Transliteration; gängige Etymologie; Lesart des Rahmens"
+companion_catalogues = "[Liste exegetischer Lesarten](../list-of-exegetic-readings/); [Liste der Mytheme und mythologischen Motive](../list-of-mythemes-and-mythological-motifs/); [Liste der Propheten und Religionen](../list-of-prophets-and-religions/)"
+caveat = "Die gängigen Etymologien folgen der philologischen Mainstream-Forschung; die Lesarten des Rahmens sind die vom Korpus übernommenen Positionen und können an bestimmten Stellen von den üblichen Deutungen abweichen; Abweichungen sind jeweils gekennzeichnet"
 +++
 
 This entry catalogues the Wheel of Heaven framework's adopted etymological readings of religious, mythological, and traditional terms. The corpus uses careful philological method — drawn principally from the Sendy–Biglino tradition — to recover the literal meaning of source-language terms, and reads those literal meanings for the operational content the framework's broader interpretive synthesis identifies. The catalogue presents each term in its source language and script with transliteration, the standard scholarly etymology, and the framework's adopted reading, organised by source-language tradition (Hebrew, Greek, Sanskrit, Sumerian and Akkadian, Latin, and cross-linguistic) so that etymological convergences across language families can be assessed.

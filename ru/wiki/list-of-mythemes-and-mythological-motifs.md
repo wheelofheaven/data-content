@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,24 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of mythological motifs", "Mythological-motif index (framework reading)", "Cross-cultural mythemes catalogue"]
+alternative_names = ["Каталог мифологических мотивов", "Указатель мифологических мотивов (прочтение рамки)", "Каталог межкультурных мифем"]
+see_also = [
+    { title = "Мифема", path = "wiki/mytheme", description = "Техническая единица, на которую опирается употребление в каталоге и которую он отличает от мотива и сказочного типа." },
+    { title = "Бытие", path = "wiki/genesis", description = "Применение того же метода операционального перевода в масштабе глав, который расширяет каталог." },
+    { title = "Эдем", path = "wiki/eden", description = "Исходное повествование, на которое возводятся несколько каталогизированных мотивов." },
+    { title = "Люцифер", path = "wiki/lucifer", description = "Фигура, повторяющаяся в каталогизированных мотивах запретного знания и мятежа." },
+    { title = "Космическое соревнование", path = "wiki/cosmic-competition", description = "Прочтение рамки, к которому сходятся несколько каталогизированных мотивов войны между силами." },
+    { title = "Религия", path = "wiki/religion", description = "Более широкая традицеобразующая категория, в которую встроены каталогизированные мотивы." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of cross-cultural mythological motifs with framework readings"
-classification_instrument = "Stith Thompson, *Motif-Index of Folk-Literature* (1955), Section A (Mythological Motifs)"
-scope = "Cosmogonic, theogonic, anthropogonic, and culture-hero motifs with substantial cross-cultural attestation"
-catalogue_columns = "Motif name; Motif-Index code; principal cross-cultural attestations; framework reading"
-framework_method = "Translation of mythological patterns into operational terms consistent with the source material's account of the Elohim's work"
-working_hypothesis = "Wide cross-cultural distribution of certain motifs reflects shared historical reference (the Elohim's contact pattern across human populations) rather than coincidence or independent invention"
-caveat = "Coverage is most complete for motifs with clear framework-relevant content; the catalogue does not exhaust the Motif-Index even within Section A"
+type = "Справочный каталог межкультурных мифологических мотивов с прочтениями рамки"
+classification_instrument = "Стит Томпсон, *Motif-Index of Folk-Literature* (1955), раздел A (мифологические мотивы)"
+scope = "Космогонические, теогонические, антропогонические мотивы и мотивы культурного героя со значительной межкультурной засвидетельствованностью"
+catalogue_columns = "Название мотива; код по Motif-Index; основные межкультурные свидетельства; прочтение рамки"
+framework_method = "Перевод мифологических закономерностей в операционные термины, согласующиеся с изложением исходных текстов о работе Элохим"
+working_hypothesis = "Широкое межкультурное распространение определённых мотивов отражает общий исторический референт (характер контактов Элохим с человеческими популяциями), а не совпадение или независимое изобретение"
+caveat = "Охват наиболее полон для мотивов с ясным значимым для рамки содержанием; каталог не исчерпывает Motif-Index даже в пределах раздела A"
 +++
 
 This entry catalogues the principal cross-cultural mythological motifs the Wheel of Heaven framework reads as preserving, in mythologised form, historical content from the Elohim's interaction with human populations across the Earth project. {% claim(type="speculative", id="woh-claim-0056") %}The catalogue uses **Stith Thompson's *Motif-Index of Folk-Literature*** (1955) as its principal academic classification instrument and supplies, for each motif, a brief inventory of cross-cultural attestations and the framework's adopted reading of what the motif preserves.{% end %}

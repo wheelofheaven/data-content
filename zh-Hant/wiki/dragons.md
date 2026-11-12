@@ -6,28 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["dinosaurs", "*taninim* (Hebrew plural)", "*tannin* (Hebrew singular)", "great sea creatures (English softened translation)", "*ketos* (Septuagint Greek)", "*cete grandia* (Vulgate Latin)", "sea monsters", "dragons of the deep"]
+alternative_names = ["恐龍", "*taninim* (Hebrew plural)", "*tannin* (Hebrew singular)", "巨大的海中生物（英文的淡化譯法）", "*ketos* (Septuagint Greek)", "*cete grandia* (Vulgate Latin)", "海怪", "深淵之龍"]
 timeline = ["virgo", "leo", "cancer", "gemini"]
+see_also = [
+    { title = "蛇", path = "wiki/serpent", description = "在《以賽亞書》27:1 三詞並列的龍之辨識中,其希伯來詞與 tannin 重疊的 nachash。" },
+    { title = "創世記", path = "wiki/genesis", description = "其第五日創造記載以最強的創造動詞 bara 指稱 taninim。" },
+    { title = "大洪水", path = "wiki/great-flood", description = "消滅了大多數大型龍類的雙子座時代洪水。" },
+    { title = "路西法", path = "wiki/lucifer", description = "同一 tannin 詞彙在《以賽亞書》27:1 中所追蹤其歷史指涉的反對派系。" },
+    { title = "撒但", path = "wiki/satan", description = "後來的爬蟲—龍象徵被對應其上的敵對者傳統。" },
+    { title = "詞源學閱讀清單", path = "wiki/list-of-etymological-readings", description = "tannin 在文集直接解讀之希伯來詞語中的位置。" },
+    { title = "龍形曲線", path = "articles/the-dragon-curve", description = "關於《創世記》1:21 的大龍——第一部《訊息》從未引用的經文——以及它與鳥類並列之恐龍的解說文。" },
+]
 
 [extra.infobox]
-type = "Concept; category of biological organism with substantial source-grounded creation history, mainstream-paleontological correspondence, and cross-cultural mythological-folkloric attestation"
-basic_premise = "Large reptilian or serpentine creatures deliberately created by specific factional teams within the Elohim creation program during the Age of Virgo (c. 13,170 to 11,010 BCE); corresponding to the dinosaurs of mainstream paleontology; the same creatures whose memory is preserved in dragon folklore across virtually every human culture"
-creation_age = "Age of Virgo (c. 13,170 to 11,010 BCE on the corpus's compressed timeline); the fifth day of the Genesis 1 creation sequence"
-creation_attribution = "Specific factional teams within the broader Elohim creation program; identified by the source as 'some other groups of scientists'; recognized within the program itself as vindicating the home-world opposition faction's prior concerns"
-mainstream_paleontology_correspondence = "Dinosaurs of the Mesozoic Era (mainstream date c. 252-66 million years ago; corpus reading: persisting from Virgo through Gemini, c. 13,170 to c. 6,690 BCE); the K-Pg extinction event substantially reread by the corpus through the Gemini-flood framework"
-hebrew_textual_anchor = "Genesis 1:21 וַיִּבְרָא אֱלֹהִים אֶת־הַתַּנִּינִם הַגְּדֹלִים (*Vayivra Elohim et ha-taninim ha-gedolim*, 'And Elohim created the great taninim'); the strongest Hebrew verb of creation (*bara*) used specifically for the *taninim*; cross-referenced in Isaiah 27:1, Psalm 74:13, Jeremiah 51:34, Exodus 7"
-modern_phylogenetic_status = "Birds (Aves) are the surviving theropod lineage of the dinosaur clade; established through Ostrom's 1960s-1970s Deinonychus-Archaeopteryx work and confirmed by the Liaoning feathered-dinosaur fossils from 1996 onward; the dinosaur-bird connection is settled mainstream paleontology"
-cross_cultural_attestation = "Universal dragon memory across virtually every human culture; Chinese *long* (龍), Indian *naga*, Mesoamerican feathered serpents (Quetzalcoatl, Kukulkan), Mesopotamian Tiamat, Ugaritic Lotan and tannanu, Norse Jörmungandr and Niðhöggr, Greek Python and Ladon and Hydra, Aboriginal Australian Rainbow Serpent, various African dragon traditions"
-status_in_source_material = "Substantially documented; the principal source-material passages establish both the dragons' specific creation history and their identification with the dinosaurs of mainstream paleontology"
-distinguished_from = "Mythological invention (the corpus's specific position is that dragon folklore preserves cultural memory of actually-encountered creatures rather than purely imaginative invention); the broader category of fossil organisms (the corpus reads dragons specifically as the deliberately-created creatures, not as products of unguided evolutionary processes); the Lucifer faction's specific historical referents (the Isaiah 27:1 three-term identification of *liwyatan*/*nachash*/*tannin* applies to the Lucifer faction; the same Hebrew word *tannin* operates in different specific contexts)"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Genesis' chapter (the home-world incident passage; the Day 5 creation passage); *timeline.epub* Age of Virgo chapter (Sections VI-IX, with substantial treatment of dragons-as-dinosaurs, the Hebrew *tannin* translation history, and the dinosaur-bird phylogenetic connection); *timeline.epub* Age of Gemini chapter (treatment of the dinosaur-flood connection)"
+type = "概念；一類生物有機體，具有大量以源典為據的創造史、與主流古生物學的對應，以及跨文化的神話與民間傳說佐證"
+basic_premise = "在處女座時代（約公元前 13,170 至 11,010 年）由耶洛因創造計畫中的特定派系團隊刻意創造的大型爬行類或蛇形生物；對應主流古生物學的恐龍；其記憶在幾乎所有人類文化的龍傳說中得以保存的正是這些生物"
+creation_age = "處女座時代（依本文集壓縮的時間線約為公元前 13,170 至 11,010 年）；《創世記》第 1 章創造序列的第五日"
+creation_attribution = "更廣的耶洛因創造計畫中的特定派系團隊；源典稱之為「其他一些科學家團體」；計畫內部認為此事印證了母星反對派先前的疑慮"
+mainstream_paleontology_correspondence = "中生代的恐龍（主流年代約為 2.52 億至 6,600 萬年前；本文集的解讀：自處女座延續至雙子座，約公元前 13,170 至約 6,690 年）；本文集透過雙子座洪水框架大幅重讀了 K-Pg 滅絕事件"
+hebrew_textual_anchor = "創世記 1:21 וַיִּבְרָא אֱלֹהִים אֶת־הַתַּנִּינִם הַגְּדֹלִים（*Vayivra Elohim et ha-taninim ha-gedolim*，「耶洛因創造了巨大的 taninim」）；最強的希伯來創造動詞（*bara*）特別用於 *taninim*；參見以賽亞書 27:1、詩篇 74:13、耶利米書 51:34、出埃及記 7"
+modern_phylogenetic_status = "鳥類（Aves）是恐龍演化支中存續下來的獸腳類世系；由奧斯特倫在 1960–1970 年代對恐爪龍與始祖鳥的研究確立，並由 1996 年起遼寧出土的帶羽毛恐龍化石證實；恐龍與鳥類的關聯是主流古生物學的定論"
+cross_cultural_attestation = "幾乎所有人類文化中普遍存在的龍記憶；中國的*龍*、印度的 *naga*、中美洲的羽蛇（克察爾科亞特爾、庫庫爾坎）、美索不達米亞的提阿瑪特、烏加里特的洛坦與 tannanu、北歐的耶夢加得與尼德霍格、希臘的皮同、拉冬與海德拉、澳洲原住民的彩虹蛇、非洲各地的龍傳統"
+status_in_source_material = "有大量記載；主要的源典段落既確立了龍的具體創造史，也確立了它們與主流古生物學之恐龍的同一性"
+distinguished_from = "神話虛構（本文集的具體立場是：龍的民間傳說保存了對實際遭遇之生物的文化記憶，而非純粹的想像虛構）；更廣的化石生物類別（本文集將龍具體讀為被刻意創造的生物，而非無引導之演化過程的產物）；路西法派系的具體歷史指涉（以賽亞書 27:1 中 *liwyatan*／*nachash*／*tannin* 三詞的認定適用於路西法派系；同一個希伯來詞 *tannin* 在不同的具體語境中運作）"
+principal_text = "*訴說真相之書*（1974），〈創世記〉一章（母星事件段落；第五日創造段落）；*timeline.epub* 處女座時代一章（第 VI–IX 節，詳論龍即恐龍、希伯來語 *tannin* 的翻譯史，以及恐龍與鳥類的系統發生關聯）；*timeline.epub* 雙子座時代一章（論恐龍與洪水的關聯）"
 +++
 
 **Dragons** are a category of large reptilian or serpentine creatures that the Wheel of Heaven framework identifies as deliberately created biological organisms produced by specific factional teams within the Elohim creation program during the **Age of Virgo** (c. 13,170 to 11,010 BCE on the corpus's compressed timeline), corresponding to the **fifth day** of the Genesis 1 creation sequence. The framework identifies these creatures with the **dinosaurs** of mainstream paleontology, with the Hebrew word תַּנִּין (*tannin*) of Genesis 1:21 — softened to "whales" or "great sea creatures" in most major Bible translations but unambiguously meaning "dragon" or "sea-monster" in the Hebrew lexicon — providing the principal source-textual anchor. The corpus's reading registers four converging claims: the Hebrew text of Genesis 1:21 explicitly describes the Elohim's creation of dragons using the strongest creation verb available in Hebrew (*bara*); the Raëlian source places dragons and birds together in the same creative age, a pairing that mainstream English translations of Genesis obscure; modern phylogenetics has established that birds are the surviving theropod lineage of the dinosaur clade; and universal dragon memory across human cultures preserves cultural memory of creatures actually encountered before the Gemini-age flood eliminated most of the larger forms.

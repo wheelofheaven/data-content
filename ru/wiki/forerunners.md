@@ -6,25 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["Forerunners", "Forerunner", "prodromos (Greek πρόδρομος, 'one who runs ahead')", "preparator", "way-preparer", "the messenger before"]
+alternative_names = ["Предтечи", "Предтеча", "prodromos (греч. πρόδρομος, «бегущий впереди»)", "приготовитель", "приготовляющий путь", "посланник впереди"]
 timeline = ["age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "Раэль", path = "wiki/rael", description = "Открывающая эпоху Водолея фигура, к принятию которой готовили Предтечи поздней эпохи Рыб." },
+    { title = "Пророк", path = "wiki/prophet", description = "Более широкая категория, внутри которой Предтечи выступают подготовительным подклассом." },
+    { title = "Илия", path = "wiki/elijah", description = "Предтеча Еврейской Библии, обещанное возвращение которого было отнесено к Иоанну Крестителю." },
+    { title = "Космическая Цепь", path = "wiki/cosmic-chain", description = "Статья, к которой относится содержание о создателях до Элохим, — держится отдельно от Предтеч." },
+    { title = "Апокалипсис", path = "wiki/apocalypse", description = "Фаза откровения эпохи Водолея, на которую указывают подготовительные миссии." },
+    { title = "Посольство", path = "wiki/embassy", description = "Цель контакта с альянсом, которой в конечном счёте служит культурная подготовка Предтеч." },
+    { title = "Подпись и замыслители", path = "/articles/the-signature-and-the-designers/", description = "Цепь творцов без первого звена, прочитанная как ответ канона на регресс, для которого и Докинз, и Мейер требуют дна." },
+    { title = "Сорок стульев", path = "articles/the-forty-chairs", description = "Перепись примерно сорока восседающих представителей, подчинённая критериям, и пограничные случаи, которые она отмечает для пересмотра." },
+]
 
 [extra.infobox]
-type = "Functional category within broader Prophet framework; figures whose missions prepare way for subsequent alliance-contact missions"
-principal_source = "Inherited from biblical-traditional usage; corpus engagement principally through specific figure-engagement (John the Baptist, Bab, Joseph Smith, late-Piscean contactees) rather than dedicated doctrinal articulation; substantive corpus contextualization in *timeline.epub* late-Piscean preparation content"
-biblical_grounding = "Malachi 3:1 ('Behold, I will send my messenger, and he shall prepare the way before me'); Isaiah 40:3 ('The voice of him that crieth in the wilderness, Prepare ye the way of Yahweh'); Malachi 4:5-6 (Elijah's return before the day of Yahweh); Mark 1:2-3, Matthew 3:1-3, Luke 3:1-6, John 1:6-8, 19-28 (John the Baptist as Forerunner of Jesus)"
-core_corpus_articulation = "Functional category designating figures whose missions prepare humanity for subsequent alliance-contact missions; preparatory rather than inaugural function; distinguished from age-inaugural prophets (Moses, Jesus, Vorilhon) by specific preparation-of-the-way role"
-principal_forerunners = "John the Baptist (Forerunner of Jesus); Bab (explicit Forerunner of Baha'u'llah); Elijah (Hebrew Bible Forerunner tradition); Joseph Smith, Bab, Baha'u'llah as late-Piscean Forerunners of Aquarian-age Vorilhon revelation; twentieth-century UFO contactee tradition"
-aquarian_age_preparation_focus = "Nineteenth-and-twentieth-century cultural-conceptual preparation producing matrix within which December 13, 1973 Vorilhon contact could be received: late-Piscean alliance-contact prophets (Joseph Smith, Bab, Baha'u'llah); Theosophical Society and broader esoteric tradition (Helena Blavatsky, others); twentieth-century UFO contactees (Adamski, Van Tassel, Menger, Fry, others); broader cultural matrix"
-distinguished_from = "Age-inaugural prophets (Moses, Jesus, Vorilhon as inaugurators of Aries, Pisces, Aquarius respectively); v1 conflation with pre-Elohim creator civilization (treated in Cosmic Chain entry); Mormon usage 'Forerunners' as designation for pre-mortal existence (distinct theological usage)"
-status_in_framework = "Functional sub-category within Prophet framework; recurring structural pattern across alliance-cultivation history; principal Aquarian-age content concerns nineteenth-and-twentieth-century preparation"
+type = "Функциональная категория внутри более широкой рамки Пророка; пророки и провидцы, чья миссия готовит путь для последующей, более центральной фигуры"
+principal_source = "Унаследовано из библейского словоупотребления, а не названо в раэлианском каноне; корпус рассматривает эту категорию через конкретные фигуры (Иоанн Креститель, Баб, Илия, материал о бабидах и бахаи XIX века) и через материал хронологии о позднерыбной подготовке к контакту эпохи Водолея"
+biblical_grounding = "Малахия 3:1 («Вот, Я посылаю Ангела Моего, и он приготовит путь предо Мною»); Исаия 40:3 («Глас вопиющего в пустыне: приготовьте путь Яхве»); Малахия 4:5–6 (возвращение Илии перед днём Яхве); Марк 1:2–3, Матфей 3:1–3, Лука 3:1–6, Иоанн 1:6–8 и 1:19–28 (Иоанн Креститель как предтеча Иисуса)"
+core_corpus_articulation = "Подготовительные, а не открывающие эпоху пророки; они создают культурные условия, в которых может быть воспринята последующая миссия, открывающая эпоху, — так Иоанн Креститель подготовил Иудею I века к Иисусу"
+principal_forerunners = "Иоанн Креститель (предтеча Иисуса); Баб (самопровозглашённый предтеча Бахауллы); Илия (традиция предтечи в Еврейской Библии)"
+aquarian_age_preparation_focus = "Подготовительная работа XIX и XX веков, которую корпус читает как подготовку к контакту, о котором сообщается в декабре 1973 года: религиозные основатели XIX века, прочитанные как сравнительный материал; теософское и эзотерическое возрождение (Блаватская и её преемники); традиция контактёров НЛО середины века (Адамски, Ван Тассел, Менгер, Фрай); и более широкая среда научной фантастики, космической гонки и контркультуры 1960-х годов"
+distinguished_from = "Пророки, открывающие эпоху (Моисей, Иисус, Раэль); цивилизация создателей, предшествовавшая Элохим (рассматривается в статье «Космическая Цепь»); употребление слова «предтеча» у Святых последних дней для фигур доземного существования"
+status_in_framework = "Подготовительная подкатегория внутри института пророков; повторяющаяся закономерность, которую корпус прослеживает на переходах между эпохами, с основным весом на позднерыбной подготовке к эпохе Водолея. Категория — синтез проекта; раэлианский канон этого термина не использует."
 +++
 
 **Forerunners** are, in the Wheel of Heaven framework, the functional class of

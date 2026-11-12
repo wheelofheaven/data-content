@@ -6,30 +6,40 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "the Holy Tongue", "Biblical Hebrew", "Classical Hebrew"]
+alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "聖なる言語", "聖書ヘブライ語", "古典ヘブライ語"]
+see_also = [
+    { title = "ヘブライ語聖書", path = "wiki/hebrew-bible", description = "この言語で保存され、枠組みの内容を求めて読まれる主要なコーパス。" },
+    { title = "創世記", path = "wiki/genesis", description = "コーパスがそのヘブライ語の文言を実際的に読む創造の記述。" },
+    { title = "エデン", path = "wiki/eden", description = "この読解において、言語が最初に伝えられた創造の研究施設という舞台。" },
+    { title = "アダムとエバ", path = "wiki/adam-and-eve", description = "この読解において、創造者たちの話し言葉を学んだ最初の人類。" },
+    { title = "バベル", path = "wiki/babel", description = "伝えられた原初の言語の多様化を枠づける離散の出来事。" },
+    { title = "黄道十二宮", path = "wiki/zodiac", description = "マザロトの糸。mazel tov に残る mazzal は黄道帯の枠組みを通して読まれる。" },
+    { title = "諸時代を挽く臼", path = "articles/the-mill-that-grinds-the-ages", description = "ヘブライの天体の糸の全体像。マザロト、mazzalot、そして祝福の言葉となった星の座。" },
+    { title = "マザロト", path = "wiki/mazzaroth", description = "mazzal の語彙と、mazel tov におけるその残存を扱う専用の項目。" },
+]
 
 [extra.infobox]
 hebrew_name = "עִבְרִית"
 transliteration = "ʿivrit"
-language_family = "Semitic > Northwest Semitic > Canaanite"
-sister_languages = "Phoenician, Moabite, Ammonite (closest); Aramaic, Arabic, Akkadian, Ugaritic (broader Semitic)"
-earliest_attestation = "Paleo-Hebrew inscriptions, c. 10th century BCE (Gezer calendar; Tel Zayit abecedary)"
-biblical_period = "c. 10th–6th century BCE"
-mishnaic_period = "c. 1st–4th century CE"
-medieval_period = "c. 5th–18th century CE (literary and liturgical use)"
-modern_revival = "late 19th–early 20th century CE"
-script = "Originally Paleo-Hebrew (Phoenician-derived); later 'square script' (Aramaic-derived) from c. 5th century BCE onward"
-speakers = "Approximately 9 million (modern Israel and diaspora); historical usage as liturgical and scholarly language across global Jewish communities"
-date_type = "Historical attestation; framework reading places original transmission in the Age of Leo, c. 11,375 BCE"
-principal_text = "The Hebrew Bible (Tanakh)"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974)"
+language_family = "セム語派 > 北西セム語 > カナン諸語"
+sister_languages = "フェニキア語、モアブ語、アンモン語(最も近い)。アラム語、アラビア語、アッカド語、ウガリット語(より広いセム語派)"
+earliest_attestation = "古ヘブライ文字の碑文、紀元前10世紀頃(ゲゼル暦、テル・ザイトのアベセダリー)"
+biblical_period = "紀元前10〜6世紀頃"
+mishnaic_period = "紀元1〜4世紀頃"
+medieval_period = "紀元5〜18世紀頃(文学的・典礼的使用)"
+modern_revival = "紀元19世紀末〜20世紀初頭"
+script = "当初は古ヘブライ文字(フェニキア文字に由来)。紀元前5世紀頃以降は「方形文字」(アラム文字に由来)"
+speakers = "約900万人(現代イスラエルとディアスポラ)。歴史的には世界各地のユダヤ人共同体で典礼と学問の言語として使用"
+date_type = "歴史的な証言。この枠組みの読解では、最初の伝達は獅子座の時代、紀元前11,375年頃に置かれる"
+principal_text = "ヘブライ語聖書(タナハ)"
+principal_framework_source = "『真実を告げる書』(ヴォリロン/ラエル、1974年)"
 +++
 
 **Hebrew** (<span class="hebrew">עִבְרִית</span>, *ʿivrit*) is a Semitic language, originally the spoken and scriptural language of the ancient Israelites, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in which it survived primarily as a liturgical and scholarly language — the official language of the modern State of Israel. It belongs to the Canaanite branch of the Northwest Semitic subfamily and is closely related to Phoenician, Moabite, and Ammonite, with broader cognate relationships across the Semitic family to Aramaic, Arabic, Akkadian, Ugaritic, and the South Semitic languages. Within Jewish tradition, Hebrew is also called *Lashon ha-Kodesh* (<span class="hebrew">לְשׁוֹן הַקֹּדֶשׁ</span>, "the holy tongue"), reflecting its status as the language of scripture and liturgy across the long centuries of diaspora Jewish life.

@@ -6,27 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the doubled signature", "the doubled-signature principle", "the Hamlet's Mill principle", "the doubled astronomical signature", "doubled invocation across the zodiacal axis"]
+alternative_names = ["the doubled signature", "雙重署名原則", "哈姆雷特之磨原則", "雙重天文署名", "跨黃道軸的雙重援引"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "耶穌", path = "wiki/jesus", description = "承載基督教時代雙魚座—處女座署名的魚與童女人物。" },
+    { title = "摩西", path = "wiki/moses", description = "有角的白羊時代開創者,其傳統編碼白羊座—天秤座署名。" },
+    { title = "啟示", path = "wiki/apocalypse", description = "當前時代,其水瓶座—獅子座的水與獅署名正在此刻奠定。" },
+    { title = "創世記", path = "wiki/genesis", description = "此原則讀作保存了編碼之歲差天文內容的主要文本。" },
+    { title = "希伯來聖經", path = "wiki/hebrew-bible", description = "雙重召喚為其天文署名而解讀的宗教象徵文集。" },
+    { title = "宇宙競爭", path = "wiki/cosmic-competition", description = "本條目與雙重署名原則區分開來的另一個文集框架。" },
+    { title = "那座碾磨諸紀元的磨坊", path = "articles/the-mill-that-grinds-the-ages", description = "雙重署名被讀作入門者的副署——桑迪的「對立星座規則」(règle des signes opposés)——逐一時代加以檢視。" },
+    { title = "屠牛圖", path = "wiki/tauroctony", description = "由密特拉屠牛圖中的蠍子所承載的金牛座—天蠍座配對。" },
+]
 
 [extra.infobox]
-type = "Hermeneutic-interpretive principle for reading precessional-age symbolism"
-basic_observation = "Each precessional age encodes its astronomical signature in iconographic and religious form across both its current zodiacal sign and the opposite sign on the zodiacal axis"
-mechanism = "Redundant doubled invocation ensures astronomical identity survives cultural transmission across centuries"
-zodiacal_opposition_axes = "Aries-Libra; Taurus-Scorpio; Gemini-Sagittarius; Cancer-Capricorn; Leo-Aquarius; Virgo-Pisces"
-worked_cases = "Pisces-Virgo (Christianity); Aries-Libra (Mosaic period); Taurus-Scorpio (Abrahamic reconstruction); Aquarius-Leo (present age)"
-principal_antecedent = "Giorgio de Santillana and Hertha von Dechend, *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (Boston: Gambit, 1969)"
-distinguished_from = "The precessional ages framework specifically (which structures the corpus's broader chronology); the Cosmic Competition framework (which concerns multiple humanities); the precession of the equinoxes itself (the underlying astronomical phenomenon)"
-status_in_source_material = "Not present in the Raëlian source material; corpus-internal interpretive principle drawn from Hamlet's Mill and applied systematically across the corpus's twelve-age framework"
-principal_text = "Hamlet's Mill (Santillana and von Dechend, 1969); various Wheel of Heaven corpus chapters applying the principle"
-principal_framework_source = "Giorgio de Santillana and Hertha von Dechend, *Hamlet's Mill* (1969); Jean Sendy, *L'ère du Verseau* (1970)"
+type = "閱讀歲差時代象徵的詮釋學原則"
+basic_observation = "每一個歲差時代都以圖像與宗教形式，同時在其當下的黃道星座與黃道軸上相對的星座中編碼其天文署名"
+mechanism = "冗餘的雙重援引確保天文身分能在跨越數世紀的文化傳遞中留存"
+zodiacal_opposition_axes = "白羊座—天秤座；金牛座—天蠍座；雙子座—射手座；巨蟹座—摩羯座；獅子座—水瓶座；處女座—雙魚座"
+worked_cases = "雙魚座—處女座（基督教）；白羊座—天秤座（摩西時期）；金牛座—天蠍座（亞伯拉罕重建）；水瓶座—獅子座（當前時代）"
+principal_antecedent = "喬治·德·桑蒂利亞納與赫塔·馮·德亨德，*Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth*（Boston: Gambit, 1969）"
+distinguished_from = "具體的歲差時代框架（構成本文集更廣年表的結構）；宇宙競爭框架（涉及多個人類）；歲差本身（底層的天文現象）"
+status_in_source_material = "不見於雷爾派源典；本文集內部的詮釋原則，取自《哈姆雷特之磨》，並系統性地應用於本文集的十二時代框架"
+principal_text = "《哈姆雷特之磨》（桑蒂利亞納與馮·德亨德，1969）；Wheel of Heaven 文集中應用此原則的各章"
+principal_framework_source = "喬治·德·桑蒂利亞納與赫塔·馮·德亨德，*Hamlet's Mill*（1969）；讓·桑迪，*L'ère du Verseau*（1970）"
 +++
 
 The **Doubled Signature** is a hermeneutic principle, drawn from Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (1969) and applied systematically by the Wheel of Heaven corpus, by which {% claim(type="speculative", id="woh-claim-0044") %}each precessional age encodes its astronomical signature in iconographic and religious form across two zodiacal signs: the current sign, which marks the constellation against which the vernal equinox rises, and its opposite across the zodiacal axis, which appears at the autumnal equinox and supplies the iconographic counterweight.{% end %} Encoding the signature in *two* symbolic complexes rather than one is the principle's operative feature: the redundancy lets the astronomical identity survive centuries of transmission during which the original meaning is lost, the first observers are forgotten, and later theological elaboration obscures the astronomical content.

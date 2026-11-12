@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,17 +14,27 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of megalithic sites", "Ancient megalithic architecture index", "Cyclopean and megalithic construction reference"]
+alternative_names = ["Catalogue des sites mégalithiques", "Index de l'architecture mégalithique antique", "Référence des constructions cyclopéennes et mégalithiques"]
+see_also = [
+    { title = "Anciens bâtisseurs", path = "wiki/ancient-builders", description = "L'entrée jumelle qui traite de la question de savoir qui construisit les sites recensés ici." },
+    { title = "Archéoastronomie", path = "wiki/archaeoastronomy", description = "Les alignements astronomiques systématiques documentés sur de nombreux sites catalogués." },
+    { title = "Élohim", path = "wiki/elohim", description = "Les créateurs auxquels le cadre attribue un soutien intermittent aux constructions anciennes avancées." },
+    { title = "Liste de mythèmes et de motifs mythologiques", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "Le témoignage mythologique que le corpus lit en regard des preuves matérielles mégalithiques." },
+    { title = "Pangée", path = "wiki/pangaea", description = "La masse continentale antédiluvienne qui précède et encadre la chronologie profonde de construction du corpus." },
+    { title = "Genèse", path = "wiki/genesis", description = "Le récit source qui ancre le récit, par le corpus, d'une civilisation humaine avancée ancienne." },
+    { title = "Göbekli Tepe", path = "wiki/gobekli-tepe", description = "Le sanctuaire d'environ 9600 av. J.-C. — le plus ancien site daté que traite le catalogue." },
+    { title = "Grand Sphinx", path = "wiki/great-sphinx", description = "Le monument léonin de Gizeh — l'autre site à datation anomale que traite le catalogue." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of megalithic archaeological sites"
-scope = "Pre-Pottery Neolithic through pre-Columbian eras; primary focus on sites with substantial framework relevance"
-criteria_for_inclusion = "Substantial use of large stone blocks (megaliths); evidence of advanced construction technique; documented archaeoastronomical alignments; cultural prominence; or framework relevance for the corpus's interpretive work"
-date_ranges_represented = "From c. 9600 BCE (Göbekli Tepe and Pre-Pottery Neolithic complex) to c. 1600 CE (late pre-Columbian Andean and Mesoamerican)"
-catalogue_columns = "Site name; location; conventional dating; construction features; archaeoastronomy where applicable; framework reading"
-mainstream_archaeology_position = "Sites are products of human civilisations using documented construction techniques appropriate to their periods; framework readings of extreme antiquity or extraterrestrial-assistance are not endorsed by mainstream archaeology"
-framework_position = "Megalithic record preserves operational evidence of advanced ancient construction capability across multiple regions and time-periods, consistent with the corpus's account of intermittent Elohim-supported cultural development during the Earth project's middle and later phases"
-caveat = "Coverage is selective rather than exhaustive; dating and construction-feature claims follow mainstream archaeological consensus where one exists, with contested or alternative claims explicitly flagged"
+type = "Catalogue de référence des sites archéologiques mégalithiques"
+scope = "Du Néolithique précéramique aux époques précolombiennes ; accent principal sur les sites d'une pertinence substantielle pour le cadre"
+criteria_for_inclusion = "Usage substantiel de grands blocs de pierre (mégalithes) ; indices d'une technique de construction avancée ; alignements archéoastronomiques documentés ; importance culturelle ; ou pertinence pour le travail interprétatif du corpus"
+date_ranges_represented = "De v. 9600 AEC (Göbekli Tepe et ensemble du Néolithique précéramique) à v. 1600 EC (fin de la période précolombienne andine et mésoaméricaine)"
+catalogue_columns = "Nom du site ; lieu ; datation conventionnelle ; caractéristiques de construction ; archéoastronomie le cas échéant ; lecture du cadre"
+mainstream_archaeology_position = "Les sites sont l'œuvre de civilisations humaines utilisant des techniques de construction documentées et propres à leur époque ; les lectures du cadre qui leur prêtent une antiquité extrême ou une assistance extraterrestre ne sont pas reconnues par l'archéologie courante"
+framework_position = "Enregistrement site par site au degré propre à chaque thèse, les explications de l'archéologie dominante étant restituées intégralement ; aucun site, alignement ou nouvelle datation ne constitue une preuve en faveur du cadre"
+caveat = "La couverture est sélective plutôt qu'exhaustive ; les affirmations relatives aux datations et aux caractéristiques de construction suivent le consensus archéologique courant lorsqu'il existe, les affirmations contestées ou alternatives étant explicitement signalées"
 +++
 
 This entry catalogues megalithic sites of the ancient world — large stone structures whose construction features, dating, or astronomical alignments make them objects of substantial archaeological interest and, in many cases, objects of the Wheel of Heaven framework's interpretive engagement. *Megalith* derives from the Greek *megas* "great" + *lithos* "stone," and is used in archaeology to designate any structure incorporating large stone blocks as principal construction elements. The conventional archaeological literature treats the megalithic phenomenon as a feature of the Neolithic and Bronze Age periods (c. 9600 BCE through c. 1500 BCE in different regional contexts), with later megalithic traditions (Andean, Mesoamerican, sub-Saharan African) extending in some cases into the second millennium CE. The catalogue's scope encompasses this full range.

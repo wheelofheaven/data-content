@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -20,12 +20,12 @@ summary = "שבועיים לאחר מהדורת PURSUE 01, פרסם משרד ה�
 filed_under = "ההקשר של ההווה"
 cross_reference = "עידן הדלי, §IX"
 canon_links = [
-    { title = "Age of Aquarius", path = "/timeline/age-of-aquarius/" },
+    { title = "עידן הדלי", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },
-    { title = "Ufology", path = "/wiki/ufology/" },
-    { title = "Elohim", path = "/wiki/elohim/" },
-    { title = "Ancient Astronaut Hypothesis", path = "/wiki/ancient-astronaut-hypothesis/" },
-    { title = "Raëlism", path = "/wiki/raelism/" }
+    { title = "אופולוגיה", path = "/wiki/ufology/" },
+    { title = "אלוהים", path = "/wiki/elohim/" },
+    { title = "השערת האסטרונאוטים הקדמונים", path = "/wiki/ancient-astronaut-hypothesis/" },
+    { title = "ראליזם", path = "/wiki/raelism/" }
 ]
 sources = [
     { title = "Department of War Publishes Second Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO", url = "https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/", outlet = "U.S. Department of War", date = "2026-05-22" },

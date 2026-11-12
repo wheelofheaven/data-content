@@ -708,7 +708,7 @@ Elohim pedagogy — and cites approvingly from terrestrial rat
 experiments
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=62) %}TBWTT 7:61–62{% end %})
 — rode a research program that collapsed within the decade. The home
-planet "a little less than a light-year" away sits inside empty space
+planet "a little less than a light-year" ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=52) %}TBWTT 5:52{% end %}) away sits inside empty space
 by every survey since; the third book meets the objection with a
 member-supplied hypothesis, rather than a revelation, about light
 moving in "a pronounced curve"

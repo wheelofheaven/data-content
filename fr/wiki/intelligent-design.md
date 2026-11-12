@@ -5,7 +5,7 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -13,20 +13,30 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "framework"
-alternative_names = ["ID", "Design theory", "Design hypothesis", "Directed design (the Raëlian variant)"]
+alternative_names = ["ID", "Théorie du dessein", "Hypothèse du dessein", "Dessein dirigé (la variante raëlienne)"]
+see_also = [
+    { title = "Boîte à outils de la Genèse", path = "wiki/genesis-toolbox", description = "La réponse du cadre au débat sur le dessein, sous forme opérationnelle : des concepteurs dotés d'une boîte à outils documentée." },
+    { title = "Ingénierie du vivant", path = "wiki/life-engineering", description = "Le mécanisme du corpus par lequel le concepteur élohim est censé avoir agi." },
+    { title = "Biologie de synthèse", path = "wiki/synthetic-biology", description = "La discipline contemporaine que le cadre considère comme la redécouverte de la capacité d'ingénierie du concepteur." },
+    { title = "Génomique de synthèse", path = "wiki/synthetic-genomics", description = "La science de la synthèse des génomes que le cadre lit comme en continuité avec l'œuvre de conception originelle." },
+    { title = "Pantropie", path = "wiki/pantropy", description = "Le concept d'adaptation des organismes qui étend la thèse du dessein à la modification humaine délibérée." },
+    { title = "Genèse", path = "wiki/genesis", description = "Le texte dont le cadre lit les phases des Yamim comme le compte rendu de l'ingénierie." },
+    { title = "Éden", path = "wiki/eden", description = "Le site que le cadre identifie comme le laboratoire où les humains furent synthétisés." },
+    { title = "La signature et les concepteurs", path = "/articles/the-signature-and-the-designers/", description = "L'article qui situe le cadre sur l'ensemble du spectre du dessein — au concepteur transcendant de Meyer répond un concepteur incarné, lui-même créé." },
+]
 
 [extra.infobox]
-type = "Philosophical and scientific doctrine that the functional complexity of biological systems is best explained by intelligent design"
-two_senses = "Broad sense: any design-by-intelligence doctrine, with antecedents reaching back to Aristotelian teleology and the medieval scholastic tradition. Narrow sense: the specific American intellectual movement c. 1991 onward associated with the Discovery Institute."
+type = "Doctrine philosophique et scientifique selon laquelle la complexité fonctionnelle des systèmes biologiques s'explique le mieux par un dessein intelligent"
+two_senses = "Sens large : toute doctrine d'un dessein par une intelligence, avec des antécédents remontant à la téléologie aristotélicienne et à la tradition scolastique médiévale. Sens étroit : le mouvement intellectuel américain spécifique, à partir de 1991 environ, associé au Discovery Institute."
 foundational_modern_text = "Phillip E. Johnson, *Darwin on Trial* (Regnery Gateway, 1991)"
-key_movement_figures = "Phillip E. Johnson (1940–2019); Michael Behe (b. 1952); William Dembski (b. 1960); Stephen C. Meyer (b. 1958); Jonathan Wells (b. 1942); Paul Nelson; Jay Richards; Douglas Axe"
-principal_organisations = "Discovery Institute (Seattle, founded 1991); Center for Science and Culture (founded 1996, originally Center for the Renewal of Science and Culture)"
-foundational_arguments = "Irreducible complexity (Behe 1996); specified complexity / the design inference (Dembski 1998); the fine-tuning of physical constants; the origin of biological information; abiogenesis difficulty"
-historical_antecedents = "Aristotelian teleology; the medieval scholastic tradition (Aquinas's fifth way); William Paley's *Natural Theology* (1802); the broader 19th-century natural theology tradition"
-foundational_critique = "David Hume, *Dialogues Concerning Natural Religion* (1779); Charles Darwin, *On the Origin of Species* (1859); the broader mainstream evolutionary-biology tradition"
-landmark_court_case = "Kitzmiller v. Dover Area School District (M.D. Pa. 2005), Judge John E. Jones III; 139-page ruling that ID is not science and that teaching it in public schools violates the Establishment Clause"
-relevant_scientific_alternative = "Francis Crick and Leslie E. Orgel, \"Directed Panspermia,\" *Icarus* 19 (1973): 341–346; Crick, *Life Itself* (1981) — the proposal that life on Earth may have been deliberately seeded by an extraterrestrial intelligence, the closest mainstream-scientific cognate of the framework's position"
-framework_position = "The core ID claim (biological systems are best explained by intelligent design) is reinterpreted as: terrestrial biological complexity, particularly humans, is the product of deliberate engineering by the Elohim, a non-terrestrial biological civilisation. The corpus's position is closer to the Crick-Orgel directed-panspermia hypothesis than to the contemporary ID movement, sharing with ID the central design claim while differing on the designer's identity, on the relationship to evolutionary biology, and on the political-religious context."
+key_movement_figures = "Phillip E. Johnson (1940–2019) ; Michael Behe (né en 1952) ; William Dembski (né en 1960) ; Stephen C. Meyer (né en 1958) ; Jonathan Wells (né en 1942) ; Paul Nelson ; Jay Richards ; Douglas Axe"
+principal_organisations = "Discovery Institute (Seattle, fondé en 1991) ; Center for Science and Culture (fondé en 1996, à l'origine Center for the Renewal of Science and Culture)"
+foundational_arguments = "Complexité irréductible (Behe, 1996) ; complexité spécifiée / l'inférence du dessein (Dembski, 1998) ; le réglage fin des constantes physiques ; l'origine de l'information biologique ; la difficulté de l'abiogenèse"
+historical_antecedents = "Téléologie aristotélicienne ; la tradition scolastique médiévale (la cinquième voie de Thomas d'Aquin) ; *Natural Theology* de William Paley (1802) ; la tradition plus large de la théologie naturelle du XIXe siècle"
+foundational_critique = "David Hume, *Dialogues sur la religion naturelle* (1779) ; Charles Darwin, *L'Origine des espèces* (1859) ; la tradition plus large de la biologie évolutionniste courante"
+landmark_court_case = "Kitzmiller v. Dover Area School District (M.D. Pa. 2005), juge John E. Jones III ; jugement de 139 pages établissant que l'ID n'est pas une science et que son enseignement dans les écoles publiques viole la clause d'établissement"
+relevant_scientific_alternative = "Francis Crick et Leslie E. Orgel, « Directed Panspermia », *Icarus* 19 (1973) : 341–346 ; Crick, *Life Itself* (1981) — la proposition selon laquelle la vie sur Terre pourrait avoir été délibérément ensemencée par une intelligence extraterrestre, le parent scientifique courant le plus proche de la position du cadre"
+framework_position = "L'affirmation centrale de l'ID (les systèmes biologiques s'expliquent le mieux par un dessein intelligent) est réinterprétée ainsi : la complexité biologique terrestre, en particulier l'être humain, est le produit d'une ingénierie délibérée des Élohim, une civilisation biologique non terrestre. La position du corpus est plus proche de l'hypothèse de la panspermie dirigée de Crick et Orgel que du mouvement ID contemporain : elle partage avec l'ID l'affirmation centrale du dessein, mais s'en écarte sur l'identité du concepteur, sur le rapport à la biologie évolutionniste et sur le contexte politico-religieux."
 +++
 
 **Intelligent Design** (ID) is, in the broad sense, the claim that the functional

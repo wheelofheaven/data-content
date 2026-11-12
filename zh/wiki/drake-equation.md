@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,26 @@ category = "Science & Technology"
 entry_type = "concept"
 alternative_names = ["Drake Equation", "Green Bank Equation (occasional alternative)", "Drake-Sagan Equation (rarely used)", "\u00e9quation de Drake (French)", "Drake-Gleichung (German)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "天体生物学", path = "wiki/astrobiology", description = "文集在其中探讨这一方程的主流研究计划。" },
+    { title = "UFO学", path = "wiki/ufology", description = "文集认为已经解决该方程之费米问题的接触证据领域。" },
+    { title = "耶洛因母行星", path = "wiki/elohim-home-planet", description = "文集视为该方程之已解答个案的具体有据可查文明。" },
+    { title = "宇宙竞争", path = "wiki/cosmic-competition", description = "对该方程所抽象计数之银河文明动态的框架解读。" },
+    { title = "桑迪的一致性条件", path = "wiki/sendys-conditions-of-coherence", description = "对该方程之生物与文明参数的单一数据点约束。" },
+    { title = "古代宇航员假说", path = "wiki/ancient-astronaut-hypothesis", description = "文集据以定位“接触早已建立”这一主张的更广框架。" },
+]
 
 [extra.infobox]
-type = "Probabilistic formulation expressing the number of detectable communicative extraterrestrial civilizations in the Milky Way galaxy as the product of seven contributing factors"
-formulated_by = "Frank Drake (1930-2022); November 1, 1961 at National Radio Astronomy Observatory, Green Bank, West Virginia, for the first SETI conference (the 'Order of the Dolphin' meeting)"
+type = "将银河系中可被探测到的、能够通讯的地外文明数量表示为七个因子之乘积的概率公式"
+formulated_by = "弗兰克·德雷克（1930–2022）；1961 年 11 月 1 日于西弗吉尼亚州格林班克的美国国家射电天文台，为首届 SETI 会议（「海豚团」会议）而提出"
 equation = "N = R* \u00d7 fp \u00d7 ne \u00d7 fl \u00d7 fi \u00d7 fc \u00d7 L"
-parameters = "R* (rate of star formation); fp (fraction of stars with planets); ne (number of habitable planets per planet-bearing star); fl (fraction of habitable planets developing life); fi (fraction with intelligence); fc (fraction with detectable communication); L (lifetime of communicative civilizations)"
-principal_purpose = "Structural framework organizing the questions a SETI program must engage; 'a tool for quantifying our ignorance' (Drake); not principally a definitive quantification tool"
-parameter_constraint_status = "Astronomical parameters (R*, fp, ne) substantially constrained post-1995 through exoplanet revolution; biological and civilizational parameters (fl, fi, fc, L) remain substantively contested"
-principal_reformulations = "Sara Seager's biosignature-detection equation (2013); Adam Frank and Woodruff Sullivan archaeological reformulation (2016); Anders Sandberg, Eric Drexler, Toby Ord uncertainty-propagation analysis (2018)"
-principal_framing_question = "The Fermi Paradox (1950): given optimistic parameter estimates implying substantial galactic civilization counts, why don't we observe any?"
-corpus_position = "Substantive scientific framework engaged at the descriptive level; alliance-contact framework articulated in Vorilhon source provides substantive resolution to Fermi Paradox the equation generates"
-distinguished_from = "The broader SETI program (Drake Equation as one component); the Fermi Paradox (the question the equation's optimistic estimates pose); the Seager equation (post-2013 biosignature-focused adaptation); the Frank-Sullivan archaeological equation (2016 reformulation focused on past rather than present civilizations)"
+parameters = "R*（恒星形成速率）；fp（拥有行星的恒星比例）；ne（每个拥有行星的恒星系中宜居行星的数量）；fl（宜居行星中发展出生命的比例）；fi（发展出智慧的比例）；fc（发展出可探测通信的比例）；L（通信文明的存续时间）"
+principal_purpose = "一份组织 SETI 计划所须面对之问题的议程；「量化我们无知的一种方式」（德雷克）——主要并非计算工具"
+parameter_constraint_status = "自 1995 年系外行星革命以来，天文学各项（R*、fp、ne）已得到较好的约束；生物学与文明各项（fl、fi、fc、L）仍有争议"
+principal_reformulations = "萨拉·西格的生物特征方程（2013）；弗兰克—沙利文的考古学重构（2016）；桑德伯格—德雷克斯勒—奥德的不确定性分析（2018）"
+principal_framing_question = "费米悖论（1950）：如果该方程的乐观取值意味着银河系中遍布文明，为何我们一个也没有观测到？"
+corpus_position = "本框架视该方程为可靠的科学，但认为它所引出的费米悖论已经解决——雷尔派源材料所报告的与耶洛因的接触确立了 N 大于一，而非留待估算"
+distinguished_from = "更广的 SETI 计划（该方程是其一部分）；费米悖论（该方程的乐观取值所引出的问题）；西格方程（聚焦生物特征，2013）；弗兰克—沙利文考古学方程（针对过去而非现存的文明，2016）"
 status_in_framework = "Substantive contemporary scientific formulation engaged within corpus framework's broader astrobiology engagement; principal resolution to Fermi Paradox articulated through alliance-contact framework"
 +++
 

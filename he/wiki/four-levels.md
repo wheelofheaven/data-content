@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -16,18 +16,26 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Four Levels of Consideration", "the Four Levels of Estimation", "the four-level framework", "the four-perspective evaluation framework", "the cosmic-to-individual evaluation framework", "*les quatre plans* (French source-original)"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "אינסוף", path = "wiki/infinity", description = "הרמה הראשונה והכבדה ביותר — נקודת הייחוס הקוסמית שלפיה נשפט הכול." },
+    { title = "אלוהים", path = "wiki/elohim", description = "הרמה השנייה — היוצרים שבפניהם המעשה האנושי נתון לדין וחשבון." },
+    { title = "קוסמולוגיה פרקטלית", path = "wiki/fractal-cosmology", description = "קוסמולוגיית קני המידה המקוננים המבססת את נקודת המבט של רמת האינסוף." },
+    { title = "כדור הארץ החי", path = "wiki/living-earth", description = "הסביבה הקוסמולוגית שארבע הרמות משמשות לה מקבילה אתית." },
+    { title = "השרשרת הקוסמית", path = "wiki/cosmic-chain", description = "קוסמולוגיית הציוויליזציות המקוננות שמאחורי השתרעותן של ארבע הרמות מן הקוסמי ועד הפרט." },
+    { title = "ראליזם", path = "wiki/raelism", description = "התנועה שטקסטי המקור שלה מנסחים לראשונה את כלל ארבע הרמות." },
+]
 
 [extra.infobox]
-type = "Foundational ethical-practical framework; the ethical-practical correlate of the broader Infinity-Fractal-Cosmology-Mass-Effect-Living-Earth cosmological cluster"
-basic_premise = "In every situation, things must be considered in relation to four levels — the Infinite, the Elohim, human society, and the individual self — operating together as integrated framework with love as constant"
-the_four_levels = "Level 1: The Infinite (cosmic-impersonal level); Level 2: The Elohim (creator-relational level); Level 3: Human society (collective level); Level 4: The individual self (personal level)"
-operational_character = "Multi-perspectival rather than hierarchical: the four levels operate together as integrated framework where all four must be operative simultaneously, with love as the constant integrative principle across all four"
-hierarchical_asymmetry = "While all four levels are operative, they are not equally weighted: 'The most important level is that relating to infinity, for it is in relation to this level that all things must be judged' — the Infinite is the principal evaluative reference point, with the other three levels providing operational specificity within the broader cosmic-Infinite framework"
-tension_resolution_function = "Each level addresses specific failure-modes the other levels can produce when isolated: Level 1 prevents anxious self-importance; Level 2 prevents nihilism; Level 3 prevents solipsism; Level 4 prevents collective-tyranny"
-position_in_framework = "Ethical-practical correlate of the broader cosmological framework cluster (Infinity, Fractal Cosmology, Mass Effect, Living Earth); the framework that translates the broader cosmic content into specific operational guidance for human living"
-distinguished_from = "Conventional ethical hierarchies (which typically operate hierarchically rather than multi-perspectivally); the Hindu purusharthas (which operate as four aims of life rather than as four evaluative perspectives); the Stoic concentric circles of concern (which operate as expanding-circle scope rather than as multi-level evaluation); contemporary effective-altruism frameworks (which typically operate through utilitarian calculus rather than through multi-perspectival integration); Lovecraftian cosmicism (which produces nihilistic implications absent in the framework's love-grounded integration)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in the 'Humanity' section of *The Keys* establishes the framework's specific content with explicit articulation, with substantial subsequent corpus-internal exegesis"
-principal_text = "*Extra-Terrestrials Took Me to Their Planet* (1975), 'The Keys' chapter, 'Humanity' section (the principal Yahweh passage); *Message from the Designers* FAQ section, 'What is the Purpose of Life?' (the substantial subsequent articulation with each level's specific exegesis); the Wheel of Heaven corpus *timeline.epub* outro Section VI"
+type = "מסגרת אתית־מעשית; המקבילה המעשית של הקוסמולוגיה אינסוף–קוסמולוגיה פרקטלית–כדור הארץ החי"
+basic_premise = "בכל מצב יש לשקול את הדברים מול ארבע רמות — האינסוף, האלוהים, החברה האנושית והעצמי היחיד — המוחזקות יחד, כשהאהבה היא הקבוע"
+the_four_levels = "רמה 1: האינסוף (פרספקטיבה קוסמית); רמה 2: האלוהים (היוצרים); רמה 3: החברה האנושית (הקולקטיב); רמה 4: העצמי היחיד (משמעות אישית)"
+operational_character = "רב־פרספקטיבית, לא היררכית — ארבע הרמות מוחזקות בבת אחת, כשהאהבה היא הקבוע המאחד"
+hierarchical_asymmetry = "הרמות אינן שקולות: 'הרמה החשובה ביותר היא זו הנוגעת לאינסוף, שכן ביחס לרמה זו יש לשפוט את כל הדברים.' האינסוף מכוון את שלוש האחרות ואינו גובר עליהן"
+tension_resolution_function = "כל רמה בולמת כשל שהאחרות מזמינות: רמה 1 בולמת חשיבות עצמית מנופחת; רמה 2 בולמת ניהיליזם; רמה 3 בולמת סוליפסיזם; רמה 4 בולמת עריצות קולקטיבית"
+position_in_framework = "הצד האתי־מעשי של האשכול הקוסמולוגי (אינסוף, קוסמולוגיה פרקטלית, אפקט המסה, כדור הארץ החי) — הכלל ההופך את הקוסמולוגיה הזו להדרכה לחיים"
+distinguished_from = "סולמות ערכים היררכיים (ערכים עליונים גוברים על נמוכים); הפורושרתות ההינדיות (ארבע מטרות חיים, לא ארבע זוויות הערכה); מעגלי הדאגה הסטואיים (היקף מתרחב, לא שיפוט רב־רמתי); החשבון של האלטרואיזם האפקטיבי; הקוסמיזם הלאבקרפטיאני (הקנה הקוסמי נקרא כייאוש)"
+status_in_source_material = "נאמר במפורש על ידי יהוה בקטע 'האנושות' שבפרק 'המפתחות' ב־*החייזרים לקחו אותי לכוכב שלהם* (1975), עם ניסוח מחודש רמה אחר רמה בשאלות הנפוצות של *מסר מהמתכננים*"
+principal_text = "*החייזרים לקחו אותי לכוכב שלהם* (1975), הפרק 'המפתחות', הקטע 'האנושות'; הקטע 'מהי מטרת החיים?' ב־*מסר מהמתכננים*"
 +++
 
 {% claim(type="framework", id="woh-claim-0041") %}**Four Levels** is the name the Wheel of Heaven corpus gives to a rule stated by

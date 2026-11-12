@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,15 +16,24 @@ editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
 alternative_names = ["Planetary engineering", "Ecological engineering at planetary scale", "Earth-shaping", "Geoengineering of other worlds"]
+see_also = [
+    { title = "ארגז הכלים של הבריאה", path = "wiki/genesis-toolbox", description = "הסינתזה ברמת התוכנית: עיצוב כוכב הלכת כשלב אחד במערך הבריאה המלא שהקנון מתאר." },
+    { title = "בראשית", path = "wiki/genesis", description = "הטקסט שארבעת עידניו הראשונים נקראים במסגרת כעיצוב כדור הארץ בידי האלוהים." },
+    { title = "אלוהים", path = "wiki/elohim", description = "הציוויליזציה הנקראת כמי שעיצבה את כדור הארץ לפני הסינתזה הביולוגית." },
+    { title = "ביולוגיה סינתטית", path = "wiki/synthetic-biology", description = "התחום הסמוך של שלב הסינתזה הביולוגית שבא אחרי עיצוב כוכב הלכת." },
+    { title = "הנדסת חיים", path = "wiki/life-engineering", description = "המקבילה הביולוגית לעיצוב כוכב הלכת במיזם כדור הארץ." },
+    { title = "פנטרופיה", path = "wiki/pantropy", description = "האסטרטגיה ההפוכה: התאמת אורגניזמים לעולמות במקום עולמות לאורגניזמים." },
+    { title = "פנגיאה", path = "wiki/pangaea", description = "התצורה היבשתית הנוגעת לקריאת המסגרת בהנדסת היבשות." },
+]
 
 [extra.infobox]
-type = "Planetary-engineering discipline aimed at making other worlds habitable for terrestrial life"
-adjacent_fields = "Astrobiology; planetary science; xenobiology; synthetic biology; geoengineering; climate science"
-term_coined = "Jack Williamson, *Collision Orbit*, 1942 (science-fiction context); Carl Sagan, *Science*, 1961 (scientific context)"
-principal_targets = "Mars (most studied); Venus (more speculative); Moon, Mercury, Jovian and Saturnian moons (variously discussed); free-floating habitats and shell worlds (alternative paraterraforming concepts)"
-foundational_milestones = "Coining of the term (Williamson, 1942); first scientific proposal (Sagan, Venus terraforming via algae, 1961); first Mars terraforming proposal (Sagan, polar-cap vaporisation, 1971); foundational scientific treatments (McKay, 1982 onward; Fogg, *Terraforming*, 1995); CO2-inventory analysis (Jakosky and Edwards, 2018); silica-aerogel paraterraforming (Wordsworth et al., 2019)"
-current_status = "Active research field; no terraforming has been attempted at any scale; full-scale Mars terraforming assessed as infeasible with present technology; localised paraterraforming concepts under active study"
-framework_significance = "The planetary-engineering operations of the first four ages of Genesis 1 — atmospheric separation, water-cycle establishment, continental work, astronomical calibration — are read on the framework as the Elohim's terraforming of Earth during the preparation phase of the Earth project, prior to biological synthesis"
+type = "דיסציפלינה של הנדסה פלנטרית שמטרתה להפוך עולמות אחרים לכשירים לחיים ארציים"
+adjacent_fields = "אסטרוביולוגיה; מדעי כוכבי הלכת; קסנוביולוגיה; ביולוגיה סינתטית; הנדסת אקלים; מדעי האקלים"
+term_coined = "ג'ק ויליאמסון, *Collision Orbit*, 1942 (הקשר של מדע בדיוני); קרל סייגן, *Science*, 1961 (הקשר מדעי)"
+principal_targets = "מאדים (הנחקר ביותר); נוגה (ספקולטיבי יותר); הירח, כוכב חמה, ירחי צדק ושבתאי (נדונים במידות שונות); בתי גידול צפים חופשיים ועולמות־קליפה (מושגי פרה־טרהפורמינג חלופיים)"
+foundational_milestones = "טביעת המונח (ויליאמסון, 1942); ההצעה המדעית הראשונה (סייגן, טרהפורמינג של נוגה באמצעות אצות, 1961); ההצעה הראשונה לטרהפורמינג של מאדים (סייגן, אידוי כיפות הקרח הקוטביות, 1971); טיפולים מדעיים יסודיים (מקיי, 1982 ואילך; פוג, *Terraforming*, 1995); ניתוח מלאי ה־CO2 (ג'קוסקי ואדוארדס, 2018); פרה־טרהפורמינג באמצעות אירוג'ל סיליקה (וורדסוורת' ועמיתיו, 2019)"
+current_status = "תחום מחקר פעיל; טרהפורמינג לא נוסה בשום קנה מידה; טרהפורמינג מלא של מאדים הוערך כבלתי אפשרי בטכנולוגיה הנוכחית; מושגי פרה־טרהפורמינג מקומיים נמצאים במחקר פעיל"
+framework_significance = "פעולות ההנדסה הפלנטרית של ארבעת העידנים הראשונים בבראשית א — הפרדת האטמוספרה, ביסוס מחזור המים, העבודה היבשתית, הכיול האסטרונומי — נקראות במסגרת כטרהפורמינג של כדור הארץ בידי האלוהים בשלב ההכנה של פרויקט כדור הארץ, לפני הסינתזה הביולוגית"
 +++
 
 **Terraforming** is the deliberate large-scale modification of a planet, moon, or other celestial body to make its environmental conditions habitable for terrestrial life — most often with reference to making the body habitable for unmodified humans, but increasingly with reference to making it habitable for any class of Earth-derived organisms. The term is constructed from the Latin *terra* (earth) and the English verb *to form*, meaning literally *to make Earth-like*. It is the planetary-scale counterpart of the climate-engineering and geoengineering proposals that have been developed for the management of Earth's own climate, and it draws on the same atmospheric, geological, and ecological sciences applied at the much larger scale of complete planetary transformation.

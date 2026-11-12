@@ -6,30 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Abraham (English)", "Abram (pre-renaming name)", "אַבְרָהָם (Hebrew Avraham)", "אַבְרָם (Hebrew Avram)", "إبراهيم (Arabic Ibrāhīm)", "Ἀβραάμ (Greek Abraám)", "the Patriarch", "Avraham Avinu (Jewish 'Abraham our father')", "Khalīl Allāh (Arabic 'Friend of God')"]
+alternative_names = ["Abraham (anglais)", "Abram (nom antérieur au changement de nom)", "אַבְרָהָם (hébreu Avraham)", "אַבְרָם (hébreu Avram)", "إبراهيم (arabe Ibrāhīm)", "Ἀβραάμ (grec Abraám)", "le Patriarche", "Avraham Avinu (hébreu juif « Abraham notre père »)", "Khalīl Allāh (arabe « Ami de Dieu »)"]
 timeline = ["age-of-taurus", "age-of-aries"]
+see_also = [
+    { title = "Alliance noahique", path = "wiki/noahic-covenant", description = "L'alliance post-diluvienne dont l'alliance abrahamique prolonge la lignée." },
+    { title = "Sodome et Gomorrhe", path = "wiki/sodom-and-gomorrah", description = "La frappe préventive du Conseil au sujet de laquelle Abraham négocie en Genèse 18." },
+    { title = "Moïse", path = "wiki/moses", description = "Le médiateur d'alliance ultérieur dans le même rétablissement de la lignée d'Éden." },
+    { title = "Hanafiyya", path = "wiki/hanafiyya", description = "Le monothéisme hanif primordial que la tradition islamique fait remonter à Abraham." },
+    { title = "Pétra", path = "wiki/petra", description = "Le sanctuaire nabatéen au centre de la question abrahamique du Hedjaz." },
+]
 
 [extra.infobox]
-type = "Biblical figure; Eden-lineage patriarch verified by post-Sodom Council loyalty test; founding patriarch for three Abrahamic religions plus Baha'i"
-hebrew_name = "אַבְרָהָם (Avraham, 'father of multitudes'); originally אַבְרָם (Avram, 'exalted father')"
+type = "Figure biblique ; patriarche de la lignée d'Éden vérifié par l'épreuve de loyauté du Conseil après Sodome ; patriarche fondateur des trois religions abrahamiques ainsi que de la foi bahá'íe"
+hebrew_name = "אַבְרָהָם (Avraham, « père d'une multitude ») ; à l'origine אַבְרָם (Avram, « père exalté »)"
 arabic_name = "إبراهيم (Ibrāhīm)"
-biblical_dating = "Taurus-Aries boundary in corpus chronology (late Age of Taurus, c. 2,000-1,900 BCE in mainstream traditional chronology); Genesis records Abraham as 75 years old at the lekh lekha call (Gen 12:4), 100 at Isaac's birth (Gen 21:5), 175 at death (Gen 25:7)"
-principal_biblical_location = "Genesis 11:26-25:18; subsequent references in Exodus 3:6-15, Joshua 24:2-3, Isaiah 41:8, 51:2, Psalms 105:6-9, Matthew 1:1-2, Luke 3:34, Romans 4, Galatians 3, Hebrews 11:8-19, James 2:21-23"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Sacrifice of Abraham' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Taurus chapter, Sections VIII and IX"
-core_corpus_articulation = "Post-Sodom Council recruitment and verification figure; tested loyalty around whom diminished Eden-lineage population reorganized; founding patriarch for Aries-age recovery program"
-covenant_role = "Abrahamic Covenant (Genesis 15, 17): geographic promise (Nile-to-Euphrates); descendant promise (numerous as stars and sand); circumcision (*brit milah*) as physical-marker covenant institution"
-loyalty_test = "Akedah / Sacrifice of Isaac (Genesis 22) — formal Council loyalty test conducted by visiting officer; Hebrew *nissah* ('tested') frames episode from opening verse; *ki atah yadati* ('for now I know') confirms empirical-investigation framing"
-key_figures = "Sarah (wife, mother of Isaac); Hagar (Egyptian handmaid, mother of Ishmael); Isaac (covenant-line son through Sarah); Ishmael (Arab-lineage son through Hagar); Keturah (third wife after Sarah; mother of six additional sons including Midian); Lot (nephew, Sodom survivor)"
-three_faiths_status = "Founding patriarch for Judaism (through Isaac), Christianity (through Isaac via Jesus genealogy), Islam (through Ishmael as Ibrahim, Hanif primordial-monotheist), Baha'i (through Keturah lineage to Baha'u'llah)"
-distinguished_from = "Mainstream uniquely-faithful-individual reading; ancient-astronaut alternative readings (Sitchin, Biglino); mainstream biblical-scholarly Documentary Hypothesis source-critical reading; minimalist historical-critical engagement (Van Seters) treating patriarchal narratives as later literary composition"
-status_in_framework = "Foundational Taurus-Aries transitional figure; tested founding patriarch; principal recovery-program founder following Sodom destruction; structural inaugurator of Aries-age Eden-lineage political-religious arrangement"
+biblical_dating = "Frontière Taureau-Bélier dans la chronologie du corpus (fin de l'Ère du Taureau, v. 2000-1900 AEC dans la chronologie traditionnelle courante) ; la Genèse donne à Abraham 75 ans lors de l'appel du lekh lekha (Gn 12:4), 100 ans à la naissance d'Isaac (Gn 21:5) et 175 ans à sa mort (Gn 25:7)"
+principal_biblical_location = "Genèse 11:26-25:18 ; mentions ultérieures en Exode 3:6-15, Josué 24:2-3, Isaïe 41:8, 51:2, Psaumes 105:6-9, Matthieu 1:1-2, Luc 3:34, Romains 4, Galates 3, Hébreux 11:8-19, Jacques 2:21-23"
+principal_source = "*Le Livre qui dit la vérité* (Vorilhon, 1974), chapitre « La vérité », section « Le sacrifice d'Abraham » ; *Le Message donné par les extra-terrestres* (2005), version consolidée ; *timeline.epub* — traitement étendu dans le corpus, principalement au chapitre sur l'ère du Taureau, sections VIII et IX"
+core_corpus_articulation = "Figure de recrutement et de vérification du Conseil après Sodome ; loyauté éprouvée autour de laquelle la population réduite de la lignée d'Éden se réorganisa ; patriarche fondateur du programme de reconstruction de l'Ère du Bélier"
+covenant_role = "Alliance abrahamique (Genèse 15, 17) : promesse territoriale (du Nil à l'Euphrate) ; promesse de descendance (nombreuse comme les étoiles et le sable) ; circoncision (*brit milah*) comme institution d'alliance par marque physique"
+loyalty_test = "Akedah / Sacrifice d'Isaac (Genèse 22) — épreuve formelle de loyauté du Conseil menée par un officier en visite ; l'hébreu *nissah* (« éprouva ») cadre l'épisode dès le premier verset ; *ki atah yadati* (« car maintenant je sais ») confirme la lecture en termes d'enquête empirique"
+key_figures = "Sara (épouse, mère d'Isaac) ; Agar (servante égyptienne, mère d'Ismaël) ; Isaac (fils de la lignée d'alliance par Sara) ; Ismaël (fils de la lignée arabe par Agar) ; Ketura (troisième épouse après Sara ; mère de six autres fils dont Madian) ; Lot (neveu, survivant de Sodome)"
+three_faiths_status = "Patriarche fondateur du judaïsme (par Isaac), du christianisme (par Isaac, via la généalogie de Jésus), de l'islam (par Ismaël, sous le nom d'Ibrahim, Hanif monothéiste primordial) et de la foi bahá'íe (par la lignée de Ketura jusqu'à Bahá'u'lláh)"
+distinguished_from = "Lecture courante de l'individu à la foi unique ; lectures alternatives des anciens astronautes (Sitchin, Biglino) ; lecture source-critique de l'hypothèse documentaire dans l'exégèse biblique courante ; approche historico-critique minimaliste (Van Seters) traitant les récits patriarcaux comme une composition littéraire tardive"
+status_in_framework = "Figure fondatrice de la transition Taureau-Bélier ; patriarche fondateur éprouvé ; principal fondateur du programme de reconstruction après la destruction de Sodome ; initiateur structurel de l'organisation politico-religieuse de la lignée d'Éden à l'Ère du Bélier"
 +++
 
 **Abraham** (Hebrew אַבְרָהָם, *Avraham*; Arabic إبراهيم, *Ibrāhīm*) is the founding

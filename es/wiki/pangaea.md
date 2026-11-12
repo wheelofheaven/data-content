@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -19,17 +19,25 @@ editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "framework"
 alternative_names = ["Pangea", "Antediluvian supercontinent", "The pre-deluge landmass", "The one continent"]
+see_also = [
+    { title = "Edén", path = "wiki/eden", description = "El lugar de la creación situado en esta única masa continental antediluviana." },
+    { title = "Antediluviano", path = "wiki/antediluvian", description = "Todo el periodo anterior al diluvio, para el que Pangea sirvió de sustrato geográfico." },
+    { title = "Arca de Noé", path = "wiki/noahs-ark", description = "El relato de supervivencia al diluvio vinculado a la fractura catastrófica, en un único acontecimiento, de la masa continental." },
+    { title = "Génesis", path = "wiki/genesis", description = "Sus capítulos 6–9 aportan la intervención del diluvio que fragmentó el continente." },
+    { title = "Terraformación", path = "wiki/terraforming", description = "La operación de ingeniería continental que hizo surgir Pangea del lecho marino primordial." },
+    { title = "La Tradición", path = "wiki/the-tradition", description = "La memoria conservada que, según el corpus, codifica el supercontinente antediluviano." },
+]
 
 [extra.infobox]
-type = "Supercontinent — both a mainstream-geological reconstruction and a framework-adopted antediluvian referent"
-mainstream_dating = "c. 335 million years ago (Carboniferous assembly) through c. 195 million years ago (Triassic-Jurassic breakup)"
-framework_dating = "Constructed during *yom* 3 / Age of Scorpio (c. 17,490 – 15,330 BCE on the corpus's reckoning); broken apart at the deluge event (c. 13,000 BCE on the corpus's reckoning)"
-extent = "Approximately equal to the combined landmass of all present-day continents, organised as a single contiguous body"
-shape_mainstream = "C-shaped with the Tethys Sea contained within the curve, surrounded by the superocean Panthalassa"
-geographic_role_framework = "The geographic substrate of the entire antediluvian period: the location of Eden, the location of the post-Eden dispersed civilisations, the area destroyed by the deluge event"
-breakup_mainstream = "Plate-tectonic rifting beginning approximately 195 million years ago, with progressive separation continuing through the Jurassic and Cretaceous"
-breakup_framework = "Catastrophic single-event breakup at the deluge, described in the source material as a deliberate operational intervention; the framework reads the modern continental configuration as the surface signature of the deluge event preserved in the contemporary geological record"
-divergence_from_mainstream = "Approximately three orders of magnitude on timescale; the framework's reading is incompatible with mainstream plate-tectonic dating and is registered transparently in the entry's dedicated section on the divergence"
+type = "Supercontinente: a la vez una reconstrucción de la geología convencional y un referente antediluviano adoptado por el marco"
+mainstream_dating = "c. 335 millones de años atrás (formación en el Carbonífero) hasta c. 195 millones de años atrás (fragmentación entre el Triásico y el Jurásico)"
+framework_dating = "Elevada a finales de la Era de Sagitario (c. 19.650 – 17.490 a. e. c. según el cómputo del corpus), la obra continental que el texto del Génesis comprime en el *yom* 3, con una estabilización que continúa hasta comienzos de Escorpio; fragmentada en el diluvio, al inicio de la Era de Géminis (c. 6.690 a. e. c. según el cómputo del corpus)"
+extent = "Aproximadamente igual a la masa terrestre combinada de todos los continentes actuales, organizada como un único cuerpo continuo"
+shape_mainstream = "En forma de C, con el mar de Tetis dentro de la curva, rodeado por el superocéano Pantalasa"
+geographic_role_framework = "El sustrato geográfico de todo el período antediluviano: el emplazamiento del Edén, el de las civilizaciones dispersas posteriores al Edén y la zona destruida por el diluvio"
+breakup_mainstream = "Rifting tectónico que comenzó hace unos 195 millones de años, con una separación progresiva que continuó durante el Jurásico y el Cretácico"
+breakup_framework = "Fragmentación catastrófica en un único acontecimiento durante el diluvio; el ataque en sí se describe en el primer libro como una intervención deliberada, y la fragmentación en el ensayo de Marcel Terrusse del tercer libro (LWTE-4); el marco lee la configuración continental moderna como la huella superficial del diluvio conservada en el registro geológico actual"
+divergence_from_mainstream = "Unos tres órdenes de magnitud en la escala temporal; la lectura del marco es incompatible con la datación tectónica convencional y se registra con transparencia en la sección que la entrada dedica a la divergencia"
 +++
 
 **Pangaea** is the name conventionally given to the single supercontinent identified by mainstream geology as having existed from approximately 335 million years ago through approximately 195 million years ago, before breaking up via plate-tectonic processes into the continental configuration of the present-day Earth. The name derives from the Greek *Παγγαία*, "all earth," and was introduced into geological scholarship by the German meteorologist and geophysicist **Alfred Wegener** in his 1912 paper *Die Entstehung der Kontinente* and subsequently developed in *Die Entstehung der Kontinente und Ozeane* (*The Origin of Continents and Oceans*, 1915, with major revisions through 1929) — the foundational works of the continental-drift theory that subsequently developed into the contemporary theory of plate tectonics.

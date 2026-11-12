@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -20,7 +20,7 @@ author_slug = "zara-zinsfuss"
 core_claim_ids = ["woh-claim-0004", "woh-claim-0005", "woh-claim-0007"]
 core_versions = { woh-claim-0004 = "0.2.0", woh-claim-0005 = "0.2.0", woh-claim-0007 = "0.1.0" }
 summary = "המאמר השלישי ברצף האודיסיאה עובר מן החפירה ומן המסירה אל המתודה. *The East Face of Helicon* של M. L. West אינו נשען על מקבילה סנסציונית אחת: הוא צובר עדויות על פני הסיודוס ומחזור כומרבי, האודיסיאה וגלגמש, קרב האלים, ההליך הפואטי, הלשון הנוסחתית, והנתיבים האנושיים המחברים את הים האגאי אל אנטוליה ואל הלבנט. הסבר זה מדרג את העדויות האלה, משמר את ההמצאה היוונית ואת הירושה ההודו־אירופית, ומסמן את הגבול המדויק בין תלות ספרותית מתועדת לבין קריאת המסומן המשותף הספקולטיבית של Wheel of Heaven."
-keywords = ["M. L. West", "East Face of Helicon", "מיתולוגיה יוונית", "אודיסיאה", "גלגמש", "הסיודוס", "כומרבי", "טיפואוס", "המזרח הקדום", "מסירה פואטית", "מיתולוגיה משווה"]
+keywords = ["מ' ל' וסט", "East Face of Helicon", "מיתולוגיה יוונית", "אודיסיאה", "גלגמש", "הסיודוס", "כומרבי", "טיפואוס", "המזרח הקדום", "מסירה פואטית", "מיתולוגיה משווה"]
 references = [
     # The Wheel of Heaven canon
     { id = "the-book-which-tells-the-truth", locator = "Chapter 5, paragraph 54 (Greece among the creator-base regions, where mythology contains testimonies)" },

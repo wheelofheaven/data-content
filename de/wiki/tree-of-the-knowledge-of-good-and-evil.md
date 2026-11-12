@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,20 +15,29 @@ category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["Tree of the Knowledge of Good and Evil", "Tree of Knowledge", "עֵץ הַדַּעַת טוֹב וָרָע (Hebrew etz ha-daat tov va-ra)", "the forbidden tree", "the tree in the midst of the garden", "the second tree (alongside Tree of Life)"]
 timeline = ["age-of-leo", "age-of-cancer"]
+see_also = [
+    { title = "Baum des Lebens", path = "wiki/tree-of-life", description = "Der zweite Baum des Paares, der die Langlebigkeitstechnologie verschlüsselt, die zusammen mit dem wissenschaftlichen Wissen zurückgehalten wurde." },
+    { title = "Schlange", path = "wiki/serpent", description = "Die Gestalt aus Genesis 3, gelesen als die Luzifer-Fraktion in ihrer Rolle der Offenlegung." },
+    { title = "Luzifer", path = "wiki/lucifer", description = "Der Anführer der abweichenden Fraktion, deren Schöpfer den ersten Menschen das zurückgehaltene Wissen offenlegten." },
+    { title = "Eden", path = "wiki/eden", description = "Der Laborgarten, in dem der Baum stand und die Offenlegung geschah." },
+    { title = "Elohim", path = "wiki/elohim", description = "Die Schöpferzivilisation, deren wissenschaftliches Wissen der Baum verschlüsselt." },
+    { title = "Theomachie", path = "wiki/theomachy", description = "Der Konflikt der Schöpferfraktionen, den der Akt der Offenlegung eröffnet." },
+    { title = "Sintflut", path = "wiki/great-flood", description = "Die spätere Katastrophe, bei der die Entwicklungsbahn nach der Offenlegung ankommt." }
+]
 
 [extra.infobox]
-type = "Symbolic-conceptual; principal Genesis 2-3 designation for scientific knowledge archives withheld from first synthetic humans"
-hebrew_term = "עֵץ הַדַּעַת טוֹב וָרָע (etz ha-daat tov va-ra) — 'tree of the knowledge of good and evil'"
-biblical_location = "Genesis 2:9, 2:16-17, 3:1-7, 3:11, 3:17, 3:22"
-biblical_dating = "Late Age of Leo / early Age of Cancer in corpus chronology (the Eden-laboratory operational period, c. 9,000 – 8,850 BCE); placement in garden in late Leo, disclosure-and-expulsion in early Cancer"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'Genesis' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Leo chapter, Section IX, and Age of Cancer chapter, Section IV"
-core_corpus_articulation = "The body of scientific knowledge possessed by the Elohim creator civilization, withheld from first synthetic humans by Council order to prevent humans from becoming creators' equals; the prohibition is political (protect creator civilization) rather than moral (avoid sin)"
-paired_concept = "Tree of Life (עֵץ הַחַיִּים etz ha-chayyim) — biological longevity technology of the Elohim; paired prohibition; treated in dedicated Tree of Life entry"
-serpent_identification = "Lucifer faction — minority of Israel-team Eloha scientists led by an Eloha called Lucifer ('light-bringer'); the Hebrew nachash used collectively for the faction performing the disclosure act"
-merism_content = "Hebrew tov va-ra ('good and evil') operates as classic biblical merism designating the entirety of moral knowledge; post-disclosure humans become moral agents capable of full ethical evaluation"
-disclosure_consequences = "Lucifer-faction exile to Earth ('serpent cursed to crawl'); Adam-and-Eve expulsion from laboratory-garden; Cherubim-and-flaming-sword guard preventing Tree-of-Life access (corpus reading: soldiers with atomic disintegration weapons); subsequent civilizational developmental trajectory"
-distinguished_from = "Mainstream Christian 'original sin' reading (treating prohibition as moral and disobedience as fall); Tree of Life (paired biological-longevity technology); gnostic positive-serpent reading (sharing structural features but operating distinctively on Eloha-faction internal distinctions)"
-status_in_framework = "Foundational symbolic-conceptual content; principal originary knowledge-asymmetry articulation; structural inaugurator of subsequent human scientific-developmental trajectory; central to broader corpus engagement with creator-created political relationship"
+type = "Symbolisch-begrifflich; die maßgebliche Bezeichnung in Genesis 2–3 für die Archive wissenschaftlichen Wissens, die den ersten synthetischen Menschen vorenthalten wurden"
+hebrew_term = "עֵץ הַדַּעַת טוֹב וָרָע (etz ha-daat tov va-ra) — ‚Baum der Erkenntnis des Guten und Bösen‘"
+biblical_location = "Genesis 2,9; 2,16–17; 3,1–7; 3,11; 3,17; 3,22"
+biblical_dating = "Spätes Zeitalter des Löwen / frühes Zeitalter des Krebses in der Chronologie des Korpus (die Betriebszeit des Eden-Labors, ca. 9.000 – 8.850 v. Chr.); Pflanzung im Garten im späten Löwen, Enthüllung und Vertreibung im frühen Krebs"
+principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), Kapitel 'The Truth', Abschnitt 'Genesis'; zusammengeführt in *Message from the Designers* (2005); weiterentwickelt im Timeline-Material zum Zeitalter des Löwen und zum Zeitalter des Krebses"
+core_corpus_articulation = "Die Gesamtheit des wissenschaftlichen Wissens der Schöpferzivilisation der Elohim, den ersten synthetischen Menschen auf Anordnung des Rates vorenthalten, damit sie den Schöpfern nicht ebenbürtig würden; das Verbot ist politisch (Schutz der Schöpferzivilisation), nicht moralisch (Vermeidung von Sünde)"
+paired_concept = "Baum des Lebens (עֵץ הַחַיִּים etz ha-chayyim) – die Technologie der Elohim für biologische Langlebigkeit; das gepaarte Verbot wird im eigenen Eintrag Baum des Lebens behandelt"
+serpent_identification = "Luzifer-Fraktion – eine Minderheit von Eloha-Wissenschaftlern des Israel-Teams unter Führung eines Eloha namens Luzifer („Lichtbringer“); das hebräische nachasch wird kollektiv für die Fraktion verwendet, die die Enthüllung vollzieht"
+merism_content = "Hebräisch tov va-ra („gut und böse“) ist ein klassischer biblischer Merismus, der die Gesamtheit des moralischen Wissens benennt; nach der Enthüllung werden die Menschen zu moralisch Handelnden, die zu eigenständigem Urteil fähig sind"
+disclosure_consequences = "Verbannung der Luzifer-Fraktion auf die Erde (die „zum Kriechen verfluchte Schlange“); Vertreibung Adams und Evas aus dem Labor-Garten; die Wache der Cherubim mit dem flammenden Schwert, die den Zugang zum Baum des Lebens versperrt (Lesart des Korpus: Soldaten mit atomaren Desintegrationswaffen); der anschließende Weg wissenschaftlicher Entwicklung"
+distinguished_from = "Die etablierte christliche Lesart der „Erbsünde“ (Verbot als moralisch, Essen als Sündenfall); der Baum des Lebens (gepaarte Technologie für biologische Langlebigkeit); die gnostische Lesart einer positiven Schlange (teilt strukturelle Merkmale, verwirft den Schöpfergott aber umfassender)"
+status_in_framework = "Grundlegender symbolisch-begrifflicher Gehalt; die maßgebliche Formulierung des Rahmens für das ursprüngliche Wissensgefälle zwischen Schöpfern und Geschaffenen und für den ersten Akt des Widerstands dagegen"
 +++
 
 The **Tree of the Knowledge of Good and Evil** (Hebrew עֵץ הַדַּעַת טוֹב וָרָע,

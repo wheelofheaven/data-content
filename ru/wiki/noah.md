@@ -6,28 +6,33 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Noah (English)", "נֹחַ (Hebrew Noaḥ)", "Νῶε (Greek Nōe)", "نوح (Arabic Nūḥ)", "the Eden-lineage flood survivor", "the ark-builder", "the post-flood patriarch"]
+alternative_names = ["Noah (англ.)", "נֹחַ (ивр. Noaḥ)", "Νῶε (греч. Nōe)", "نوح (араб. Nūḥ)", "the Eden-lineage flood survivor", "строитель ковчега", "послепотопный патриарх"]
 timeline = ["age-of-cancer", "age-of-gemini"]
+see_also = [
+    { title = "Великий потоп", path = "wiki/great-flood", description = "Катаклизм эпохи Близнецов, против которого была предпринята операция сохранения на ковчеге." },
+    { title = "Люцифер", path = "wiki/lucifer", description = "Фракция изгнанных создателей, чьё вмешательство сохранило Ноя благодаря операции с ковчегом." },
+    { title = "Ноев ковчег", path = "wiki/noahs-ark", description = "Запечатанный сосуд, прочитанный как экранированный аппарат, несущий генетические образцы, а не пары животных." },
+    { title = "Теомахия", path = "wiki/theomachy", description = "Конфликт фракций создателей, обрамлявший решение о потопе." },
+    { title = "Вавилон", path = "wiki/babel", description = "Послепотопный проект восстановления, тревога Совета по поводу которого показывает обособленность родной планеты от завета Ноя." },
+    { title = "Яхве", path = "wiki/yahweh", description = "Лидер Совета, на чьём послепотопном голосовании держится обязательство «никогда более»." },
+]
 
 [extra.infobox]
-type = "Biblical figure; principal human operational partner of the exiled-creator (Serpentine) faction in the ark-preservation project"
-hebrew_name = "נֹחַ (Noaḥ, 'rest, comfort')"
-biblical_dating = "Cancer-Gemini boundary in corpus chronology (c. 6,690 BCE); mainstream biblical chronology places traditional Genesis flood dating between 2300-3000 BCE in Ussher-and-Septuagint frames"
-principal_biblical_location = "Genesis 5:29-10:32; brief subsequent references in Isaiah 54:9, Ezekiel 14:14-20, Matthew 24:37-39, Luke 17:26-27, Hebrews 11:7, 1 Peter 3:20, 2 Peter 2:5"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Flood' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in the Age of Cancer chapter"
-core_corpus_articulation = "Eden-lineage human operating as principal operational partner of the exiled-creator faction conducting clandestine preservation of life through orbital spacecraft (the Genesis 'ark') against Council-ordered nuclear attack on Earth"
-flood_event = "Council-ordered nuclear-missile attack on Earth conducted against the original creator project; the exiled creators (Serpentine faction) conducted clandestine preservation of life through orbital spacecraft; conducted at the Cancer-Gemini boundary (c. 6,690 BCE corpus chronology)"
-ark_specifications = "Hebrew *tevah* (sealed vessel, not boat) with three levels (Genesis 6:16); lifted 'above the earth' (Genesis 7:17 *vatarom me-al ha-aretz*) rather than 'on the water'; cargo genetic (single living cells per species) rather than physical animal pairs"
-post_flood_covenant = "Private arrangement between exiled creators present on the ground and Noah's family (Genesis 9); distinct from home-world Council whose non-participation is demonstrated by subsequent Babel-project surprise"
-distinguished_from = "Mainstream uniquely-righteous-individual reading; ancient-astronaut alternative readings; mainstream biblical-scholarly Documentary Hypothesis source-critical reading; conservative young-earth creationist literal-global-flood reading"
-status_in_framework = "Foundational flood-narrative figure; principal Cancer-Gemini-age figure; principal Eden-lineage post-flood patriarch; structurally parallel to contemporary Aquarian-age humanity facing cataclysmic-threshold engagement"
+type = "Библейский персонаж; главный человеческий партнёр изгнанной фракции Люцифера в операции по сохранению жизни на ковчеге"
+hebrew_name = "נֹחַ (Noaḥ, «покой, утешение»)"
+biblical_dating = "Эпоха Близнецов в хронологии корпуса (ок. 6690 г. до н. э.); традиционные хронологии Бытия относят потоп примерно к 2300–3000 гг. до н. э. в системах Ашшера и Септуагинты"
+principal_source = "*Книга, которая говорит правду* (Ворильон, 1974), раздел «Потоп»; сведено в *Послании от Создателей* (2005)"
+mesopotamian_counterparts = "Зиусудра (шумерский), Атра-хасис и Утнапиштим (аккадские) — фигура спасшегося от потопа, которую перерабатывает рассказ Бытия"
+ark_reading = "Иврит *tevah* (запечатанный ящик, а не лодка); прочитывается как экранированный аппарат, «поднявшийся над землёй» (Бытие 7:17), груз которого составляли генетические образцы, а не физические пары животных"
+post_flood_covenant = "Прочитывается как частное соглашение между изгнанными создателями на земле и семьёй Ноя (Бытие 9), отличное от Совета родного мира, чьё удивление при Вавилоне показывает его обособленность"
+distinguished_from = "Общепринятое прочтение о праведном остатке; источниковедческое прочтение в рамках документальной гипотезы; младоземельное креационистское прочтение о буквальном всемирном потопе"
 +++
 
 **Noah** (Hebrew נֹחַ, *Noaḥ*, "rest" or "comfort") is the flood-survivor

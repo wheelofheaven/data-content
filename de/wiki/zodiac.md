@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,20 +15,31 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the zodiac belt", "the zodiacal circle", "*zōidiakos kyklos* (Greek: ζῳδιακὸς κύκλος, 'circle of small figures')", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "the celestial circle", "the wheel of heaven (in older usage)", "the twelve houses (in astrological usage)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Weltzeitalter", path = "wiki/world-age", description = "Das präzessionale Zeitalter, das jeder Abschnitt des Tierkreises im Kalender des Rahmens markiert." },
+    { title = "Doppelte Signatur", path = "wiki/doubled-signature", description = "Das Prinzip, das aus den sechs Achsen paarweiser Gegenüberstellung des Tierkreises hervorgeht." },
+    { title = "Hamlet's Mill", path = "wiki/hamlets-mill", description = "Der wissenschaftliche Anker für eine kulturübergreifende Lesart zodiakal-präzessionaler Verschlüsselung." },
+    { title = "Kosmische Kette", path = "wiki/cosmic-chain", description = "Der umfassendere chronologische Rahmen, den der zodiakale Kalender gliedert." },
+    { title = "Hebräische Bibel", path = "wiki/hebrew-bible", description = "Eine Tradition, deren Mazzaroth-Inhalt das Korpus durch den zodiakalen Rahmen liest." },
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "Der Autor, dessen Lesart der religion zodiacale der präzessionalen Behandlung durch das Korpus vorausgeht." },
+    { title = "Die Mühle, die die Zeitalter mahlt", path = "articles/the-mill-that-grinds-the-ages", description = "Der Tierkreis als die zwölf Stunden des Großen Jahres, jedes Zeitalter nach seinem Äquinoktialsternbild benannt." },
+    { title = "Mazzaroth", path = "wiki/mazzaroth", description = "Der hebräische Name für den Tierkreis — der Mazzaroth aus Hiob 38 und seine mazzal-Nachfahren." },
+    { title = "Tauroktonie", path = "wiki/tauroctony", description = "Die mithräische Stiertötung, gelesen als Sternkarte des Stier-Zeitalters." }
+]
 
 [extra.infobox]
-type = "Structural-foundational concept; the principal observational-symbolic framework underlying the precessional age system"
-definition = "The band of sky extending approximately 8° on either side of the ecliptic, divided into twelve constellational regions named after small figures (animal, human, and inanimate) traversed by the sun, moon, and planets in their apparent celestial motion"
-the_twelve_signs = "Aries (the Ram), Taurus (the Bull), Gemini (the Twins), Cancer (the Crab), Leo (the Lion), Virgo (the Virgin), Libra (the Scales), Scorpio (the Scorpion), Sagittarius (the Archer), Capricorn (the Sea-Goat), Aquarius (the Water-Bearer), Pisces (the Fishes)"
-six_paired_oppositions = "Aries↔Libra, Taurus↔Scorpio, Gemini↔Sagittarius, Cancer↔Capricorn, Leo↔Aquarius, Virgo↔Pisces — six axes producing the doubled-signature principle"
-ecliptic_basis = "The ecliptic — the apparent annual path of the sun against the stellar background, produced by Earth's orbital motion around the sun, inclined approximately 23.44° to the celestial equator"
-constellational_basis = "The twelve constellations occupy varying angular extents along the ecliptic (modern IAU boundaries; idealized 30°-per-sign in classical astrological usage); the constellations are not equal in size — Virgo is the largest, Capricorn among the smallest"
-mechanism_of_precessional_relevance = "The vernal equinox precesses backward (westward) through the zodiac at approximately one constellation per 2,160 years, producing the precessional age sequence (Capricorn → Sagittarius → Scorpio → ... → Pisces → Aquarius → back to Capricorn)"
-framework_reading = "The zodiac as the alliance's engineering tool — the long-duration calendrical framework devised by the Elohim for their interstellar biotech program, with the zodiacal names and the paired-opposition structure operating as functional engineering features rather than mystical-aesthetic conventions"
-zodiacal_names_origin = "On the corpus's reading: the Elohim's own conceptual shorthand for the twelve ecliptic segments, inherited by human civilizations through cultural transmission across the post-flood ages; later human civilizations modified the figures while preserving the underlying twelve-fold structure"
-distinguished_from = "Mainstream astrology's tropical zodiac (signs tied to seasonal positions rather than actual constellational positions, decoupled from precessional motion); the various cross-cultural zodiacal-equivalent traditions (Chinese twelve-animal cycle, Indian nakshatra system, Mesoamerican calendrical traditions) which preserve substantive parallel content within distinctive cultural framings; the broader astronomical constellational framework (the 88 IAU-defined constellations of which the twelve zodiacal constellations are a subset)"
-status_in_framework = "Foundational; the zodiac operates as the principal observational-symbolic complement to the World Age temporal framework, with the two together constituting the corpus's principal cosmic-chronological architecture"
-principal_corpus_treatment = "*timeline.epub*, particularly the Libra chapter's Section VI.2 ('The Zodiacal Framework as Engineering Tool'); Jean Sendy, *L'ère du Verseau* (1970), with substantial systematic engagement with Moses's use of zodiacal symbolism (the *religion zodiacale* framework)"
+type = "Das Band der Sternbilder entlang der Ekliptik; der Beobachtungsrahmen, der den präzessionalen Weltzeitaltern zugrunde liegt"
+definition = "Der Himmelsstreifen, der sich etwa 8° beiderseits der Ekliptik erstreckt, eingeteilt in zwölf Sternbildbereiche, benannt nach kleinen Figuren (Tiere, Menschen und Gegenstände), die Sonne, Mond und Planeten in ihrer scheinbaren Himmelsbewegung durchlaufen"
+the_twelve_signs = "Widder, Stier, Zwillinge, Krebs, Löwe, Jungfrau, Waage, Skorpion, Schütze, Steinbock (Ziegenfisch), Wassermann, Fische"
+six_paired_oppositions = "Widder↔Waage, Stier↔Skorpion, Zwillinge↔Schütze, Krebs↔Steinbock, Löwe↔Wassermann, Jungfrau↔Fische — sechs Achsen, aus denen das Prinzip der Doppelten Signatur hervorgeht"
+ecliptic_basis = "Die Ekliptik — die scheinbare jährliche Bahn der Sonne vor dem Sternenhintergrund, hervorgerufen durch die Umlaufbewegung der Erde um die Sonne, um etwa 23,44° gegen den Himmelsäquator geneigt"
+constellational_basis = "Die zwölf Sternbilder nehmen entlang der Ekliptik unterschiedlich große Winkelbereiche ein (moderne IAU-Grenzen; idealisiert 30° pro Zeichen im klassischen astrologischen Gebrauch); die Sternbilder sind nicht gleich groß – die Jungfrau ist das größte, der Krebs das kleinste"
+mechanism_of_precessional_relevance = "Die Frühlings-Tagundnachtgleiche präzediert rückwärts (westwärts) durch den Tierkreis, etwa ein Sternbild pro 2160 Jahre, woraus sich die Abfolge der präzessionalen Zeitalter ergibt (Steinbock → Schütze → Skorpion → ... → Fische → Wassermann → zurück zum Steinbock)"
+framework_reading = "Der Tierkreis als Ingenieurswerkzeug der Elohim – der für ihr Projekt auf der Erde entworfene Langzeitkalender, dessen Namen und Struktur gepaarter Gegensätze funktionale Merkmale sind, keine mystischen Konventionen"
+zodiacal_names_origin = "Nach der Lesart des Korpus die eigene Kurzbezeichnung der Elohim für die zwölf Abschnitte der Ekliptik, von menschlichen Zivilisationen durch kulturelle Weitergabe nach der Sintflut übernommen und abgewandelt, während die Zwölferstruktur erhalten blieb"
+distinguished_from = "Der tropische Tierkreis der gängigen Astrologie (an jahreszeitliche Positionen statt an die tatsächlichen Sternbilder gebundene Zeichen, von der Präzession entkoppelt); die kulturübergreifenden Entsprechungen des Tierkreises (der chinesische Zwölf-Tiere-Zyklus, das indische Nakshatra-System, mesoamerikanische Kalendertraditionen), die parallele Inhalte in eigenen Rahmungen tragen; und die weitere Menge astronomischer Sternbilder (die 88 IAU-Sternbilder, von denen die zwölf des Tierkreises eine Teilmenge sind)"
+status_in_framework = "Grundlegend; der Tierkreis ist das beobachtend-symbolische Gegenstück zur Chronologie der Weltzeitalter, beide zusammen bilden die kosmisch-chronologische Architektur des Korpus"
+principal_corpus_treatment = "*timeline.epub*, besonders 'The Zodiacal Framework as Engineering Tool' im Waage-Kapitel; Jean Sendy, *L'ère du Verseau* (1970), zu Moses Gebrauch der Tierkreissymbolik (die *religion zodiacale*)"
 +++
 
 The **Zodiac** (Greek: ζῳδιακὸς κύκλος, *zōidiakos kyklos*, "circle of small

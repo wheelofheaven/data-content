@@ -7,8 +7,8 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
-source_updated = "2026-11-01"
+translation_updated = "2026-11-12"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -542,8 +542,9 @@ footnotes = [
 自己是科學時代的宗教這一點上。第一本書報導為耶洛因教學法的那些記憶轉移注射
 ——並且贊許地引用了地球上的老鼠實驗
 （{% libref(book="the-book-which-tells-the-truth", chapter=7, verse=62) %}TBWTT 7:61–62{% end %}）
-——所搭乘的，是一個在十年之內便垮掉的研究綱領。那顆「略少於一光年」之外的
-母星，按此後的每一次巡天觀測，都坐落在空無一物的太空之中；第三本書迎向這項
+——所搭乘的，是一個在十年之內便垮掉的研究綱領。那顆「略少於一光年」
+（{% libref(book="the-book-which-tells-the-truth", chapter=5, verse=52) %}TBWTT 5:52{% end %}）
+之外的母星，按此後的每一次巡天觀測，都坐落在空無一物的太空之中；第三本書迎向這項
 異議，靠的是一位成員所提供的假說，而不是一則啟示，說光是沿著「一道明顯的
 曲線」行進的
 （{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=27) %}LWTE 1:27{% end %}），

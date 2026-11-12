@@ -6,26 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["plurality of the gods", "plurality of the Elohim", "the multiple-creators reading", "biblical polytheism", "Hebrew Bible plurality content", "the divine council reading", "the Elohim plural reading"]
+alternative_names = ["множественность богов", "множественность Элохим", "прочтение о множестве создателей", "библейский политеизм", "мотивы множественности в Еврейской Библии", "прочтение о божественном совете", "прочтение Элохим во множественном числе"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Элохим", path = "wiki/elohim", description = "Еврейское существительное во множественном числе, лежащее в основе прочтения множественности." },
+    { title = "Яхве", path = "wiki/yahweh", description = "Один конкретный Элоах, отличаемый от коллектива Элохим, который называет множественное число." },
+    { title = "Совет Вечных", path = "wiki/council-of-the-eternals", description = "Руководящий орган, дающий библейскому множественному числу политический референт." },
+    { title = "Стражи", path = "wiki/watchers", description = "Второе библейское множественное число существ, на которое опирается прочтение." },
+    { title = "Сатана", path = "wiki/satan", description = "Фигура Совета, прочитанная политически, а не как метафизическое зло." },
+    { title = "Свитки, пробудившиеся в первый год", path = "articles/the-scrolls-that-woke-in-year-one", description = "4QDeut(j) сохраняет «сынов Элохим» там, где масоретский текст был исправлен на «сынов Израилевых», — множественность, уловленная в рукописях." },
+]
 
 [extra.infobox]
-type = "Foundational interpretive concept; the principal corpus position on the substantial multiple-divine-beings content of the Hebrew Bible and the broader cross-cultural religious-mythological traditions"
-basic_premise = "The Hebrew Bible and the broader religious-mythological traditions register substantial multiple-divine-beings content rather than substantial singular-supreme-deity content, with the substantial plurality content preserving cultural memory of an actual multiple-creator-civilization (the Elohim)"
-principal_evidence = "The Hebrew word *Elohim* is plural in form; substantial plural verbs (*na'aseh adam* 'let us make man' Genesis 1:26); substantial plural possessives (*be-tzalmenu* 'in our image'); substantial plural self-addresses (*ke-achad mimenu* 'as one of us' Genesis 3:22); substantial *benei ha-Elohim* 'sons of the Elohim' references (Genesis 6, Job 1-2, Psalm 82); substantial divine-council scenes (1 Kings 22, Job 1-2, Isaiah 6, Psalm 82)"
-the_first_mistake = "The substantial Yahweh-articulated framework reading: 'It replaced the term Elohim, which refers to the creators, with a singular term God, whereas in fact Elohim in Hebrew is the plural of Eloha. In this way, the Church transformed the creators into a single incomprehensible God.' Registers the conventional Christian-tradition singular-God reading as the principal translation-and-theological mistake"
-relationship_to_cosmic_chain = "The plurality content connects substantively to the broader Cosmic Chain framework — the substantial articulation that humans will themselves become creators, just as the creators were created. Plurality of Gods is therefore not merely a static descriptive position about how many divine beings exist, but the substantial dynamic position that registers humans as substantial future participants in the broader chain of creator-creature-creator development"
-mormon_lds_alignment = "Substantial structural alignment with the Mormon Latter-day Saints theological tradition, particularly through Joseph Smith's King Follett discourse (1844), Lorenzo Snow's couplet 'as man now is, God once was; as God now is, man may be,' the Mormon plural-Elohim doctrine, and the Mormon exaltation doctrine; the Mormon position represents the closest mainstream-religious-tradition convergence the framework has at the Plurality of Gods specific dimension"
-distinguished_from = "Conventional Christian-tradition monotheism (the principal interpretive contrast); conventional polytheistic religious traditions (which operate within distinct cosmological framings); cosmic pluralism (a substantively different concept registering the philosophical plurality of worlds); henotheism (which preserves singular-supreme-deity priority while acknowledging other deities); modalistic monarchianism (which registers multiple manifestations of singular underlying deity); various pantheistic and panentheistic frameworks"
-status_in_source_material = "Substantially documented; the principal Yahweh passages establishing the framework's specific content are distributed across multiple corpus sources, with substantial subsequent corpus development through the timeline.epub Hebrew exegesis"
-principal_text = "*Message from the Designers* (the principal Yahweh-articulated framework reading on the Church's first mistake); *The Book Which Tells the Truth* (1974, the substantial foundational Genesis 1 articulation); *timeline.epub* Age of Capricorn through Age of Pisces chapters (the substantial subsequent corpus articulation with detailed Hebrew exegesis); various Sendy works (substantial complementary content)"
+type = "Основополагающее интерпретационное понятие; позиция корпуса, согласно которой Еврейская Библия и более широкие мифологические традиции описывают множество божественных существ, а не одно верховное божество"
+basic_premise = "Еврейская Библия и более широкое религиозно-мифологическое наследие описывают многих божественных существ, а не одного верховного Бога; рамка читает эту множественность как сохранившуюся память о реальных множественных создателях (Элохим)"
+principal_evidence = "*Элохим* — форма множественного числа; глаголы во множественном числе (*na'aseh adam*, «сотворим человека», Бытие 1:26); притяжательные формы множественного числа (*be-tzalmenu*, «по образу Нашему»); обращение к себе во множественном числе (*ke-achad mimenu*, «как один из Нас», Бытие 3:22); *benei ha-Elohim* («сыны Элохим», Бытие 6, Иов 1–2, Псалом 82); сцены божественного совета в 3 Царств 22, Иов 1–2, Исаия 6 и Псалом 82"
+the_first_mistake = "Формулировка Яхве в раэлианском источнике: «Она заменила термин Элохим, обозначающий создателей, единственным числом — Бог, тогда как на самом деле Элохим на иврите — множественное число от Элоха. Так Церковь превратила создателей в единого непостижимого Бога»."
+relationship_to_cosmic_chain = "Множественность не только описательна, но и динамична: через Космическую Цепь человечество прочитывается как будущий создатель — «сотворённые станут создателями, как и создатели были сотворены», — так что прочтение говорит не только о том, сколько существует божественных существ, но и о том, кем может стать человечество"
+mormon_lds_alignment = "Тесное структурное сближение с богословием мормонов (Святых последних дней) — проповедь Джозефа Смита на похоронах Кинга Фоллетта (1844), двустишие Лоренцо Сноу («каков человек ныне, таким был некогда Бог; каков Бог ныне, таким может стать человек»), учения о множественных Элохим и о возвышении — ближайшая параллель этому прочтению среди общепризнанных религий"
+distinguished_from = "Традиционный христианский и иудейский монотеизм; традиционный политеизм; космический плюрализм (множественность обитаемых миров, отдельное понятие); генотеизм (одно верховное божество над прочими); модалистский монархианизм (одно божество в нескольких модусах); пантеизм"
+status_in_source_material = "Хорошо документировано; ключевые отрывки Яхве распределены по раэлианским исходным книгам, а подробная экзегеза иврита развита в материале хронологии корпуса"
+principal_text = "*Послание от Создателей* (отрывок о «первой ошибке» — передаче Церковью *Элохим* в единственном числе); *Книга, которая говорит правду* (1974, изложение Бытия 1); главы хронологии корпуса (от Козерога до Рыб) — подробная экзегеза иврита; сочинения Жана Сенди как дополнительный материал"
 +++
 
 **Plurality of Gods** is the Wheel of Heaven reading that the

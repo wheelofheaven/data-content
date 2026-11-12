@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
-source_updated = "2026-11-11"
+translation_updated = "2026-11-12"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -244,7 +244,7 @@ Para el corpus, esto significa que el Libro de Enoc debe ser tratado como fuente
 
 La lectura raeliana acepta esto literalmente. Enoc fue llevado al mundo de origen por los creadores exiliados o por visitantes del consejo. Sus experiencias subsiguientes — descritas en el Libro de Enoc y tradiciones relacionadas — constituyen uno de los registros antiguos más específicos de contacto directo con los Elohim preservado en cualquier fuente. El detalle astronómico y cosmológico del Libro de Enoc, en esta lectura, deriva de lo que Enoc vio efectivamente durante su visita. La especificidad técnica de ciertos pasajes enóquicos — las descripciones de la geografía cósmica, los sistemas calendáricos, la estructura de los cielos — es el registro superviviente del encuentro de un antiguo humano con una civilización sustancialmente más avanzada que la suya.
 
-**Los judíos como descendientes directos.** La fuente hace una afirmación adicional sobre los Nefilim que merece un tratamiento cuidadoso, porque es a la vez específica y consecuente para la historia subsiguiente que el corpus rastreará. Durante el segundo encuentro de Raël con los Elohim, en 1975, Yahvé hace una revelación que la fuente presenta con un énfasis inusual{{ cite(id="2") }}: *«Los judíos son nuestros descendientes directos en la Tierra. Por eso les está reservado un destino específico. Son los descendientes de "los hijos de Elohim y las hijas de los hombres", como se menciona en el Génesis. Su error original fue haberse unido a sus creaciones científicas.»*
+**Los judíos como descendientes directos.** La fuente hace una afirmación adicional sobre los Nefilim que merece un tratamiento cuidadoso, porque es a la vez específica y consecuente para la historia subsiguiente que el corpus rastreará. Durante el segundo encuentro de Raël con los Elohim, en 1975, Yahvé hace una revelación que la fuente presenta con un énfasis inusual{{ cite(id="2") }}: *«Los judíos son nuestros descendientes directos en la Tierra. Por eso les está reservado un destino específico. Son los descendientes de "los hijos de Elohim y las hijas de los hombres", como se menciona en el Génesis. Su error original fue haberse unido a sus creaciones científicas.»* (ETTMTTP-2:104)
 
 La afirmación es específica, y el corpus la recoge con las propias palabras del canon. El canon hace dos afirmaciones sobre el pueblo de Israel. En la primera, los humanos hechos por el equipo de creadores cuyo laboratorio se encontraba en esa tierra fueron elegidos, en uno de los concursos entre los equipos, como «el tipo humanoide terrestre más logrado en el plano de la inteligencia y del genio», lo que el canon presenta como el origen de la autocomprensión de Israel como pueblo elegido (TBWTT-2:43). En la segunda, citada más arriba, los judíos son los descendientes de las uniones de los hijos de Elohim con las hijas de los hombres (ETTMTTP-2:104, 2:123). Raël enlaza ambas solo de forma tentativa, respondiendo a un lector con su propia voz de comentarista y no en un Mensaje dictado: «Quizá sea precisamente porque este pueblo era el más logrado por lo que los hijos de Elohim se dejaron tentar por sus hijas» (LWTE-1:18). El canon habla de descendencia y de linaje. No hace ninguna afirmación genética, y el corpus no añade ninguna: «descendientes directos» es la expresión del canon, y aquí no se convierte en una afirmación sobre genes, capacidades heredadas ni ninguna población actual (véase [Hebreos](/es/wiki/hebrews/)).
 

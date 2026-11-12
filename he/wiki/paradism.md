@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,18 +16,25 @@ category = "Raëlism"
 entry_type = "concept"
 alternative_names = ["Paradism", "paradisme (French)", "Earthly paradise (substantive Vorilhon designation)", "Paradise on Earth (substantive Vorilhon section title)", "the realized post-scarcity society", "fully-automated post-money society"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "תור הזהב", path = "wiki/golden-age", description = "התוכן שלאחר המחסור שהפרדיזם נקרא כצורתו המעשית." },
+    { title = "המצוות החדשות", path = "wiki/new-commandments", description = "התוכנית של עידן הדלי שהפרדיזם הוא רכיב עיקרי בה." },
+    { title = "גניוקרטיה", path = "wiki/geniocracy", description = "תוכנית הממשל של הדמוקרטיה הבררנית, המשולבת לצד הפרדיזם." },
+    { title = "הומניטריזם", path = "wiki/humanitarianism", description = "תוכנית הרפורמה בעושר ובקניין, המשולבת לצד הפרדיזם." },
+    { title = "סייברפרדיזם", path = "wiki/cyberparadism", description = "הרחבת תוכנית הפרדיזם אל הפלטפורמה הדיגיטלית." },
+]
 
 [extra.infobox]
 type = "Socio-economic concept; principal New Commandments program-component articulating post-scarcity post-money society through advanced automation"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'Welcoming the Extra-Terrestrials' material, 'Society and Government' subsection; consolidated *Message from the Designers* (2005), 'Paradise on Earth' section; *timeline.epub* — substantive corpus engagement principally in Age of Aquarius chapter and Golden Age substantive content"
-core_corpus_articulation = "Post-scarcity, fully-automated, post-money society in image of the Elohim home planet; advanced automation and AI systems substituting for human menial labor; humans liberated to fulfillment, creation, intellectual exploration"
+principal_source = "*החייזרים לקחו אותי לכוכב שלהם* (וורילון, 1975), החומר 'לקבל את פני החייזרים', תת־הפרק 'חברה וממשל'; *מסר מהמתכננים* המקובץ (2005), הפרק 'גן עדן עלי אדמות'; טיפול נוסף בקורפוס בפרק ציר הזמן על עידן הדלי ובחומר על תור הזהב"
+core_corpus_articulation = "חברה של שפע, אוטומטית לחלוטין ונטולת כסף, בדמות כוכב הלכת של האלוהים; מערכות אוטומציה ובינה מלאכותית מתקדמות המחליפות את העבודה האנושית השחורה; בני אדם המשוחררים להגשמה עצמית, ליצירה ולחקירה אינטלקטואלית"
 principal_mechanism = "Advanced automation (biological robots, AI systems, robotic infrastructure) performing all menial labor; abundance-distribution replacing scarcity-allocation; post-money society eliminating monetary exchange"
-post_capitalism_post_communism_framing = "Paradism as third-way alternative; capitalism rejected (enslaves to money, benefits few); communism rejected (places equality above liberty); Paradism preserves liberty and differentiation while eliminating material scarcity"
-transitional_vs_realized = "Transitional Paradism preserves differentiated reward for differentiated contribution; fully-realized Paradism (fully-automated future) eliminates money entirely"
-new_commandments_integration = "Principal Aquarian-age program-component integrated with Geniocracy, Humanitarianism, Cyberparadism, World Government, Demilitarization, Science as Religion, Telepathic Cultivation, Metaphysical Clarifications"
-organizational_engagement = "Paradism organization (paradism.org) operates as spin-off political-organizational engagement parallel to Movement for Worldwide Geniocracy"
-contemporary_parallels = "Post-scarcity economics (Frase, Reich); Fully Automated Luxury Communism (Bastani); Universal Basic Income; transhumanism (Bostrom, Kurzweil); technological singularity discourse; utopian-socialist tradition (Morris, Bellamy); Star Trek Federation post-money society"
-status_in_framework = "Principal Aquarian-age program-component; operational form of Golden Age post-scarcity content; substantive third-way alternative to twentieth-century dominant economic systems"
+post_capitalism_post_communism_framing = "הפרדיזם כחלופה של דרך שלישית; הקפיטליזם נדחה (משעבד לכסף, מיטיב עם מעטים); הקומוניזם נדחה (מעמיד את השוויון מעל החירות); הפרדיזם משמר חירות ובידול תוך ביטול המחסור החומרי"
+transitional_vs_realized = "הפרדיזם המעברי משמר תגמול מובחן לתרומה מובחנת; הפרדיזם המוגשם במלואו (עתיד אוטומטי לחלוטין) מבטל את הכסף כליל"
+new_commandments_integration = "רכיב עיקרי בתוכנית עידן הדלי, המשולב עם הגניוקרטיה, ההומניטריזם, הסייברפרדיזם, הממשלה העולמית, הפירוז, המדע כדת, טיפוח הטלפתיה וההבהרות המטפיזיות"
+organizational_engagement = "תנועת הפרדיזם (paradism.org) — גוף הסברה שהתפצל ומקדם את הדוקטרינה, נפרד מן התנועה לגאוניוקרטיה עולמית ומקביל לה"
+contemporary_parallels = "כלכלת שפע שלאחר המחסור (פרייז, רייך); Fully Automated Luxury Communism (בסטאני); הכנסה בסיסית אוניברסלית; טרנס־הומניזם (בוסטרום, קורצוויל); השיח על הסינגולריות הטכנולוגית; המסורת הסוציאליסטית־האוטופית (מוריס, בלמי); החברה ללא כסף של הפדרציה ב־Star Trek"
+status_in_framework = "רכיב מרכזי בתוכנית של עידן הדלי; הצורה המבצעית של תוכן השפע של תור הזהב; דרך שלישית חלופית למערכות הכלכליות של המאה העשרים"
 +++
 
 {% claim(type="framework", id="woh-claim-0033") %}**Paradism** is the Raëlian doctrine of a post-scarcity, fully automated, moneyless

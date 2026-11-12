@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -15,19 +15,24 @@ editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["Noah (English)", "נֹחַ (Hebrew Noaḥ)", "Νῶε (Greek Nōe)", "نوح (Arabic Nūḥ)", "the Eden-lineage flood survivor", "the ark-builder", "the post-flood patriarch"]
 timeline = ["age-of-cancer", "age-of-gemini"]
+see_also = [
+    { title = "Gran Diluvio", path = "wiki/great-flood", description = "El cataclismo de la era de Géminis contra el que se montó la operación de preservación del arca." },
+    { title = "Lucifer", path = "wiki/lucifer", description = "La facción de creadores exiliados cuya intervención preservó a Noé mediante la operación del arca." },
+    { title = "Arca de Noé", path = "wiki/noahs-ark", description = "La embarcación sellada leída como una nave blindada que transportaba muestras genéticas y no parejas de animales." },
+    { title = "Teomaquia", path = "wiki/theomachy", description = "El conflicto entre facciones de creadores que enmarcó la decisión del diluvio." },
+    { title = "Babel", path = "wiki/babel", description = "El proyecto de recuperación posterior al diluvio cuya alarma en el Consejo muestra que el mundo de origen era ajeno a la alianza de Noé." },
+    { title = "Yahvé", path = "wiki/yahweh", description = "El líder del Consejo sobre cuyo voto posterior al diluvio descansa el compromiso del «nunca más»." },
+]
 
 [extra.infobox]
-type = "Biblical figure; principal human operational partner of the exiled-creator (Serpentine) faction in the ark-preservation project"
-hebrew_name = "נֹחַ (Noaḥ, 'rest, comfort')"
-biblical_dating = "Cancer-Gemini boundary in corpus chronology (c. 6,690 BCE); mainstream biblical chronology places traditional Genesis flood dating between 2300-3000 BCE in Ussher-and-Septuagint frames"
-principal_biblical_location = "Genesis 5:29-10:32; brief subsequent references in Isaiah 54:9, Ezekiel 14:14-20, Matthew 24:37-39, Luke 17:26-27, Hebrews 11:7, 1 Peter 3:20, 2 Peter 2:5"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Flood' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in the Age of Cancer chapter"
-core_corpus_articulation = "Eden-lineage human operating as principal operational partner of the exiled-creator faction conducting clandestine preservation of life through orbital spacecraft (the Genesis 'ark') against Council-ordered nuclear attack on Earth"
-flood_event = "Council-ordered nuclear-missile attack on Earth conducted against the original creator project; the exiled creators (Serpentine faction) conducted clandestine preservation of life through orbital spacecraft; conducted at the Cancer-Gemini boundary (c. 6,690 BCE corpus chronology)"
-ark_specifications = "Hebrew *tevah* (sealed vessel, not boat) with three levels (Genesis 6:16); lifted 'above the earth' (Genesis 7:17 *vatarom me-al ha-aretz*) rather than 'on the water'; cargo genetic (single living cells per species) rather than physical animal pairs"
-post_flood_covenant = "Private arrangement between exiled creators present on the ground and Noah's family (Genesis 9); distinct from home-world Council whose non-participation is demonstrated by subsequent Babel-project surprise"
-distinguished_from = "Mainstream uniquely-righteous-individual reading; ancient-astronaut alternative readings; mainstream biblical-scholarly Documentary Hypothesis source-critical reading; conservative young-earth creationist literal-global-flood reading"
-status_in_framework = "Foundational flood-narrative figure; principal Cancer-Gemini-age figure; principal Eden-lineage post-flood patriarch; structurally parallel to contemporary Aquarian-age humanity facing cataclysmic-threshold engagement"
+type = "Figura bíblica; principal socio humano de la facción exiliada de Lucifer en la operación de preservación del arca"
+hebrew_name = "נֹחַ (Noaḥ, «descanso, consuelo»)"
+biblical_dating = "Era de Géminis en la cronología del corpus (c. 6.690 a. e. c.); las cronologías tradicionales del Génesis sitúan el diluvio entre c. 2300 y c. 3000 a. e. c. en los marcos de Ussher y de la Septuaginta"
+principal_source = "*El libro que dice la verdad* (Vorilhon, 1974), sección «El diluvio»; consolidado en *Mensaje de los Diseñadores* (2005)"
+mesopotamian_counterparts = "Ziusudra (sumerio), Atra-ḫasīs y Utnapishtim (acadio): la figura del superviviente del diluvio que reelabora el relato del Génesis"
+ark_reading = "*Tevah* hebreo (un cofre sellado, no un barco); leída como una nave blindada «elevada por encima de la tierra» (Génesis 7:17) cuya carga eran muestras genéticas y no parejas físicas de animales"
+post_flood_covenant = "Leída como un acuerdo privado entre los creadores exiliados presentes en la Tierra y la familia de Noé (Génesis 9), distinto del Consejo del planeta de origen, cuya sorpresa ante Babel muestra su separación"
+distinguished_from = "La lectura dominante del remanente justo; la lectura de crítica de fuentes de la hipótesis documentaria; la lectura creacionista de la Tierra joven de un diluvio global literal"
 +++
 
 **Noah** (Hebrew נֹחַ, *Noaḥ*, "rest" or "comfort") is the flood-survivor

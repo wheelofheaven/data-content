@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,16 +15,25 @@ editorial_pass = "2026-05"
 entry_type = "biographical and methodological"
 claim_type = "direct"
 alternative_names = ["Bible de la Pléiade (Dhorme)", "La Bible: L'Ancien Testament (Dhorme)", "Dhorme Old Testament", "Bible Dhorme"]
+see_also = [
+    { title = "耶洛因", path = "wiki/elohim", description = "Dhorme 保留为 Élohim、而不译作 Dieu 的复数形式。" },
+    { title = "耶和华", path = "wiki/yahweh", description = "Dhorme 按语音译作 Iahvé、而不以神学称号替代的四字神名。" },
+    { title = "创世记", path = "wiki/genesis", description = "其首节体现了 Dhorme 保留词汇方法的书卷。" },
+    { title = "词源学阅读清单", path = "wiki/list-of-etymological-readings", description = "借助 Dhorme 脚注体系的框架语文学目录。" },
+    { title = "释经学阅读清单", path = "wiki/list-of-exegetic-readings", description = "建立在同一字面词汇基础上的姊妹指称目录。" },
+    { title = "希伯来语", path = "wiki/hebrew", description = "其操作性术语经 Dhorme 的译本完整传递的源语言。" },
+    { title = "龙形曲线", path = "articles/the-dragon-curve", description = "关于 Dhorme 在创世记 1:21 所译 « grands dragons » 的解读文章——他那一页中第一部信息唯一没有引用的经文。" },
+]
 
 [extra.infobox]
-type = "French scholarly translation of the Hebrew Bible / Old Testament"
-translator = "Édouard Dhorme (1881–1966), with collaborators Frank Michaéli and Antoine Guillaumont"
-publisher = "Éditions Gallimard, Bibliothèque de la Pléiade"
-publication_dates = "Tome I (1956); Tome II (1959)"
-source_text = "Masoretic Text of the Hebrew Bible, with consultation of the Septuagint and the broader cuneiform-and-Semitic philological apparatus"
-distinguishing_features = "Literal preservation of original vocabulary including *Élohim* (not *Dieu*) and *Iahvé* (rendering of the Tetragrammaton); extensive philological footnotes; introduction surveying the textual history; collaboration with specialists for certain books (Michaéli: Ezra, Nehemiah; Guillaumont: Maccabees)"
-framework_significance = "The version Claude Vorilhon reports having with him during his 1973 contact; the textual mediator through which the Raëlian source material's Hebrew-Bible references reach contemporary readers"
-status = "Out of print in the original Pléiade edition; secondhand copies remain widely available; the translation is referenced extensively in subsequent French-language neo-euhemerist scholarship"
+type = "希伯来圣经／旧约的法文学术译本"
+translator = "爱德华·多尔姆（Édouard Dhorme，1881–1966），合作者为 Frank Michaéli 与 Antoine Guillaumont"
+publisher = "伽利玛出版社（Éditions Gallimard），七星文库（Bibliothèque de la Pléiade）"
+publication_dates = "第一卷（1956）；第二卷（1959）"
+source_text = "希伯来圣经马所拉文本，并参照七十士译本及更广的楔形文字与闪米特语文学研究资料"
+distinguishing_features = "按字面保留原始词汇，包括 *Élohim*（而非 *Dieu*）与 *Iahvé*（四字神名的译法）；大量语文学脚注；概述文本史的导言；部分书卷与专家合作（Michaéli：以斯拉记、尼希米记；Guillaumont：马加比书）"
+framework_significance = "克洛德·沃里隆自称在 1973 年接触时随身携带的版本；雷尔派原始材料中的希伯来圣经引文借以传达给当代读者的文本媒介"
+status = "七星文库原版已绝版；二手本仍广泛可得；该译本在其后的法语新犹希迈罗斯主义研究中被大量引用"
 +++
 
 The **Dhorme Bible** is the French translation of the Old Testament prepared by the French Assyriologist and Semitologist **Édouard Dhorme** (1881–1966), published by Gallimard in the Bibliothèque de la Pléiade in two volumes — Tome I in 1956 and Tome II in 1959. The translation is widely regarded among scholars as one of the most philologically rigorous French versions of the Hebrew Bible, the product of a fifty-year career of professional study of Hebrew, Akkadian, Ugaritic, and the broader Semitic and ancient Near Eastern philological tradition. The translation is distinguished from the standard French Catholic versions (notably the *Bible de Jérusalem*, in production at the same École Biblique during the same period) by its literal preservation of the operational vocabulary of the original Hebrew text — including the preservation of the plural form ***Élohim*** rather than the conventional theological translation *Dieu*, and the preservation of the Tetragrammaton as ***Iahvé*** rather than the conventional *l'Éternel* or *le Seigneur*.

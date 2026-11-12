@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -29,15 +29,18 @@ see_also = [
     { title = "路西法", path = "/wiki/lucifer/", description = "其干预通过方舟行动保存了挪亚的派系。" },
     { title = "耶和华", path = "/wiki/yahweh/", description = "议会领袖,洪水后“永不再如此”的承诺以其投票为依据。" },
     { title = "永恒议会", path = "/wiki/council-of-the-eternals/", description = "授权进行打击的母星政治机构。" },
-    { title = "洪水前期", path = "/wiki/antediluvian/", description = "被该次打击终结的洪水前文明阶段。" },
+    { title = "大洪水前", path = "/wiki/antediluvian/", description = "被该次打击终结的洪水前文明阶段。" },
     { title = "盘古大陆", path = "/wiki/pangaea/", description = "因该次打击而分裂的超大陆。" },
     { title = "伊甸", path = "/wiki/eden/", description = "其世系被洪水前文明延续的初始联盟实验室。" },
     { title = "希伯来圣经", path = "/wiki/hebrew-bible/", description = "洪水叙事的主要经文出处。" },
     { title = "创世记", path = "/wiki/genesis/", description = "含有洪水记述的圣经书卷(创世记 6—9章)。" },
+    { title = "阿特拉哈西斯", path = "/library/atrahasis-woh/", description = "与希伯来记述高度平行的巴比伦洪水叙事。" },
+    { title = "吉尔伽美什史诗", path = "/library/gilgamesh-woh/", description = "第十一块泥板中的美索不达米亚洪水记述。" },
     { title = "所多玛与蛾摩拉", path = "/wiki/sodom-and-gomorrah/", description = "后期一次类似的打击事件,机制结构相似。" },
     { title = "巴别", path = "/wiki/babel/", description = "洪水后的文明离散事件。" },
     { title = "双重署名", path = "/wiki/doubled-signature/", description = "文集所采用的原则,认为全球洪水传统保留了潜在的历史记忆。" },
-    { title = "诸神之战", path = "/wiki/theomachy/", description = "该次打击所处的更广义宇宙政治冲突框架。" },
+    { title = "神战", path = "/wiki/theomachy/", description = "该次打击所处的更广义宇宙政治冲突框架。" },
+    { title = "会吏总与龙", path = "articles/the-archdeacon-and-the-dragon", description = "Wallis 与正典在“洪水即议会决定”上的趋同。" },
 ]
 
 footnotes = [

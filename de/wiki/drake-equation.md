@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,26 @@ category = "Science & Technology"
 entry_type = "concept"
 alternative_names = ["Drake Equation", "Green Bank Equation (occasional alternative)", "Drake-Sagan Equation (rarely used)", "\u00e9quation de Drake (French)", "Drake-Gleichung (German)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Astrobiologie", path = "wiki/astrobiology", description = "Das etablierte Forschungsprogramm, in dem sich das Korpus mit der Gleichung befasst." },
+    { title = "Ufologie", path = "wiki/ufology", description = "Das Feld der Kontaktbelege, das nach der Lesart des Korpus die Fermi-Frage der Gleichung bereits beantwortet." },
+    { title = "Elohim-Heimatwelt", path = "wiki/elohim-home-planet", description = "Die konkrete dokumentierte Zivilisation, die das Korpus als den beantworteten Fall der Gleichung behandelt." },
+    { title = "Kosmischer Wettbewerb", path = "wiki/cosmic-competition", description = "Die Lesart des Rahmens zur Dynamik galaktischer Zivilisationen, die die Gleichung abstrakt zählt." },
+    { title = "Sendys Kohärenzbedingungen", path = "wiki/sendys-conditions-of-coherence", description = "Die Einschränkung durch einen einzigen Datenpunkt für die biologischen und zivilisatorischen Parameter der Gleichung." },
+    { title = "Prä-Astronautik-Hypothese", path = "wiki/ancient-astronaut-hypothesis", description = "Der umfassendere Rahmen, in dem das Korpus die These vom bereits hergestellten Kontakt verortet." }
+]
 
 [extra.infobox]
-type = "Probabilistic formulation expressing the number of detectable communicative extraterrestrial civilizations in the Milky Way galaxy as the product of seven contributing factors"
-formulated_by = "Frank Drake (1930-2022); November 1, 1961 at National Radio Astronomy Observatory, Green Bank, West Virginia, for the first SETI conference (the 'Order of the Dolphin' meeting)"
+type = "Wahrscheinlichkeitsformel, die die Anzahl der nachweisbaren, kommunikationsfähigen außerirdischen Zivilisationen in der Milchstraße als Produkt aus sieben Faktoren ausdrückt"
+formulated_by = "Frank Drake (1930–2022); 1. November 1961 am National Radio Astronomy Observatory, Green Bank, West Virginia, für die erste SETI-Konferenz (das Treffen des „Order of the Dolphin“)"
 equation = "N = R* \u00d7 fp \u00d7 ne \u00d7 fl \u00d7 fi \u00d7 fc \u00d7 L"
-parameters = "R* (rate of star formation); fp (fraction of stars with planets); ne (number of habitable planets per planet-bearing star); fl (fraction of habitable planets developing life); fi (fraction with intelligence); fc (fraction with detectable communication); L (lifetime of communicative civilizations)"
-principal_purpose = "Structural framework organizing the questions a SETI program must engage; 'a tool for quantifying our ignorance' (Drake); not principally a definitive quantification tool"
+parameters = "R* (Sternentstehungsrate); fp (Anteil der Sterne mit Planeten); ne (Anzahl bewohnbarer Planeten pro Stern mit Planeten); fl (Anteil der bewohnbaren Planeten, auf denen Leben entsteht); fi (Anteil mit Intelligenz); fc (Anteil mit nachweisbarer Kommunikation); L (Lebensdauer kommunizierender Zivilisationen)"
+principal_purpose = "Eine Agenda, die die Fragen ordnet, mit denen sich ein SETI-Programm befassen muss; „eine Art, unsere Unwissenheit zu quantifizieren“ (Drake) – nicht in erster Linie ein Rechenwerkzeug"
 parameter_constraint_status = "Astronomical parameters (R*, fp, ne) substantially constrained post-1995 through exoplanet revolution; biological and civilizational parameters (fl, fi, fc, L) remain substantively contested"
 principal_reformulations = "Sara Seager's biosignature-detection equation (2013); Adam Frank and Woodruff Sullivan archaeological reformulation (2016); Anders Sandberg, Eric Drexler, Toby Ord uncertainty-propagation analysis (2018)"
 principal_framing_question = "The Fermi Paradox (1950): given optimistic parameter estimates implying substantial galactic civilization counts, why don't we observe any?"
-corpus_position = "Substantive scientific framework engaged at the descriptive level; alliance-contact framework articulated in Vorilhon source provides substantive resolution to Fermi Paradox the equation generates"
-distinguished_from = "The broader SETI program (Drake Equation as one component); the Fermi Paradox (the question the equation's optimistic estimates pose); the Seager equation (post-2013 biosignature-focused adaptation); the Frank-Sullivan archaeological equation (2016 reformulation focused on past rather than present civilizations)"
+corpus_position = "Der Rahmen betrachtet die Gleichung als solide Wissenschaft, liest das von ihr erzeugte Fermi-Paradoxon aber als bereits gelöst – der in der raëlianischen Quelle berichtete Kontakt mit den Elohim legt N als größer als eins fest, statt es der Schätzung zu überlassen"
+distinguished_from = "Das umfassendere SETI-Programm (die Gleichung ist ein Teil davon); das Fermi-Paradoxon (die Frage, die die optimistischen Werte der Gleichung aufwerfen); die Seager-Gleichung (auf Biosignaturen ausgerichtet, 2013); die archäologische Frank-Sullivan-Gleichung (vergangene statt gegenwärtiger Zivilisationen, 2016)"
 status_in_framework = "Substantive contemporary scientific formulation engaged within corpus framework's broader astrobiology engagement; principal resolution to Fermi Paradox articulated through alliance-contact framework"
 +++
 

@@ -6,27 +6,36 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["666", "Six Hundred Sixty-Six", "the Number of the Beast", "the Number of Man (proper-noun framework concept)", "χξϛ (Greek isopsephic representation)"]
+alternative_names = ["666", "육백육십육", "짐승의 수", "사람의 수(고유명사로 쓰이는 틀 개념)", "χξϛ (그리스어 이소프세피 표기)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "묵시록", path = "wiki/apocalypse", description = "요한계시록 13장 18절의 배경과, 666번째 세대를 표시하는 1945년의 핵 문턱." },
+    { title = "창세기", path = "wiki/genesis", description = "세대 계산이 기원전 11,375년으로 연대를 매기는 에덴 실험실의 창조 사건." },
+    { title = "세계의 시대", path = "wiki/world-age", description = "13,320년의 기간이 처녀자리-사자자리 경계까지 이어지는 세차 시대들." },
+    { title = "황금시대", path = "wiki/golden-age", description = "창조에서 묵시록에 이르는 궤적이 순환의 절반을 지나 도달하는 물병자리 시대의 정점." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "666 계산이 그 세차 연대기를 고정하는 데 도움을 주는 프레임워크." },
+    { title = "라엘", path = "wiki/rael", description = "『외계인들을 환영하자』에 실린 세대 계산 해석의 출처." },
+    { title = "시대를 갈아내는 맷돌", path = "articles/the-mill-that-grinds-the-ages", description = "이 세대 계산이 나란히 놓이는 더 넓은 세차 수의 계열(72, 2,160, 25,920, 432,000) — 그리고 그와 함께 따라오는 어림수에 대한 경계." },
+]
 
 [extra.infobox]
-type = "Number-symbolic concept; the Revelation 13:18 numerical specification interpreted as the number of human generations from creation to nuclear-acquisition threshold"
+type = "수 상징 개념. 요한계시록 13:18의 666을 창조로부터 핵 획득 문턱까지의 인간 세대 수로 읽음"
 value = "666 (Indo-Arabic numeral); χξϛ (Greek isopsephic representation: chi 600 + xi 60 + stigma 6); שש מאות ששים ושש (Hebrew transliteration)"
-principal_source = "Revelation 13:18 (the source-textual location); *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) and consolidated *Message from the Designers* (2005) — the principal corpus interpretation; *timeline.epub* — substantive substantial subsequent corpus refinement"
-core_articulation = "666 = number of human generations from original Eden-laboratory creation through 1945 nuclear-acquisition threshold; with working estimate of 20 years per generation, 666 × 20 = 13,320 years; 1945 − 13,320 = 11,375 BCE creation date at Virgo-Leo precessional boundary"
-mathematical_features = "Triangular number (T_36 = 666); sum of integers from 1 to 36; sum of squares of first seven primes (2² + 3² + 5² + 7² + 11² + 13² + 17² = 666); harshad number (divisible by digit-sum)"
-precessional_calculation = "13,320 years / 2,160 years per Great Month = 6.166... Great Months; structurally close to half a complete Great Year (12,960 years exact half); creation-to-Apocalypse trajectory across approximately half of complete precessional cycle"
-distinguished_from = "the mainstream Nero Caesar isopsephic interpretation (Irenaeus, the substantial subsequent biblical-scholarly tradition); the textual-variant 616 reading (Papyrus 115 evidence); the various papacy-as-beast Reformation-era interpretations; the various contemporary-political-figure interpretations; the various conspiracy-theoretic Mark-of-the-Beast engagements"
+principal_source = "요한계시록 13:18(원전 텍스트). *Let Us Welcome the Extra-Terrestrials*(보릴롱, 1979)와 *Message from the Designers*(2005) — 주요 코퍼스 해석. *timeline.epub* — 완성된 인간에 관한 정교화"
+core_articulation = "666 = 최초의 에덴 실험실 창조로부터 1945년 핵 획득 문턱까지의 인간 세대 수. 경전(LWTE-2:208–209)은 최초의 인간을 '약 13,000년 전'에 두고 666 × 20 = 13,320년으로 계산합니다. 기원전 11,375년이라는 날짜(1945 − 13,320)와 그것을 처녀자리–사자자리 경계 부근에 두는 것은 경전이 아니라 코퍼스 자체의 계산입니다"
+mathematical_features = "삼각수(T₃₆ = 666), 처음 일곱 소수의 제곱의 합(2² + 3² + 5² + 7² + 11² + 13² + 17² = 666), 하샤드 수(각 자릿수의 합으로 나누어떨어짐)"
+precessional_calculation = "13,320년 ÷ 대월(大月)당 2,160년 = 6.166 대월. 대년의 절반(12,960년, 정확히 6 대월)에 가까우며 360년이 초과합니다. 창조에서 묵시록에 이르는 궤적이 세차 주기의 대략 절반에 걸칩니다"
+distinguished_from = "주류의 네로 카이사르 게마트리아 해석(이레네우스와 이후의 학문 전통), 616 사본 이문(파피루스 115), 종교개혁기의 교황=짐승 해석, 현대 정치 인물에 대한 동일시, 음모론적 짐승의 표 해석"
 parallel_traditions = "Hebrew gematria tradition; Greek isopsephy tradition; Sanskrit-Indian numerical-symbolic traditions; Chinese numerical-symbolic traditions; Mesoamerican calendrical-numerical traditions; various indigenous numerical-symbolic traditions"
-status_in_framework = "Foundational chronological-mathematical concept anchoring the corpus's 11,375 BCE creation-finalization date and the broader precessional-calendrical framework"
-principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) — principal source articulation in 'The Apocalypse of the Final Nuclear Cataclysm' section; *Message from the Designers* (2005) — consolidated English engagement; *timeline.epub* — substantive subsequent refinement registering finalized-humans interpretation"
+status_in_framework = "코퍼스의 기원전 11,375년 창조 연대와 그 세차 연대기를 위한 기초적 연대·수학적 기준점"
+principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials*(보릴롱, 1979), 'The Apocalypse of the Final Nuclear Cataclysm' 절. *Message from the Designers*(2005). *timeline.epub* — 완성된 인간에 관한 정교화"
 +++
 
 **The Number of Man** is the value **666** — written in the Greek of Revelation

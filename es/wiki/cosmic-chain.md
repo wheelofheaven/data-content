@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -20,6 +20,7 @@ claim_type = "framework"
 alternative_names = ["la cadena cósmica", "la cadena de la creación", "la cadena cósmica de la creación", "el proceso cósmico recurrente", "el ciclo creativo cósmico", "el ciclo de creadores"]
 timeline = ["pre-creation", "aries", "pisces", "aquarius", "post-aquarius"]
 see_also = [
+    { title = "Macrobiología", path = "wiki/macrobiology", description = "La humanidad leída como un organismo una escala más arriba, que se propaga a lo largo de la cadena de civilizaciones creadas y creadoras." },
     { title = "Competencia cósmica", path = "wiki/cosmic-competition", description = "La fase específica de evaluación dentro de la cadena cósmica más amplia — la valoración de cualificación para la herencia." },
     { title = "Elohim", path = "wiki/elohim", description = "La civilización creadora que descubrió, durante la era de Aries, que ella misma había sido creada." },
     { title = "Apocalipsis", path = "wiki/apocalypse", description = "La evaluación de herencia de la era de Acuario — la fase actual de la cadena para la humanidad de la Tierra." },

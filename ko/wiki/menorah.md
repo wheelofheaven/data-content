@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,25 @@ editorial_pass = "2026-05"
 entry_type = "symbol"
 claim_type = "inferred"
 timeline = ["taurus", "aries", "pisces"]
-alternative_names = ["Temple menorah", "Seven-branched lampstand", "Mosaic candelabrum", "Sevenfold lamp"]
+alternative_names = ["성전 메노라", "일곱 갈래 등잔대", "모세의 촛대", "일곱 겹 등불"]
+see_also = [
+    { title = "주해적 독해 목록", path = "wiki/list-of-exegetic-readings", description = "메노라를 성물에 대한 프레임워크의 실행적 독해 가운데 하나로 등재한 목록." },
+    { title = "다윗의 별", path = "wiki/star-of-david", description = "프레임워크가 보존된 실행적 기억을 위해 읽는, 비슷하게 오래된 유대 문장." },
+    { title = "스와스티카", path = "wiki/swastika", description = "코퍼스가 잊힌 실행적 내용을 담고 있는 것으로 읽는 또 하나의 오래된 상징." },
+    { title = "묵시록", path = "wiki/apocalypse", description = "여기서 읽는 일곱 등잔 배치를 다시 사용하는 요한계시록의 등잔대 이미지." },
+    { title = "신화소와 신화적 모티프 목록", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "일곱 등잔 상징이 그 안에 자리하는 반복 모티프의 짝 목록." },
+]
 
 [extra.infobox]
-type = "Seven-branched golden lampstand of the Tabernacle and Temple"
-hebrew = "<span class=\"hebrew\">מְנוֹרָה</span> *menorah* (lit. \"lampstand\", from the root *nūr* \"to give light\")"
-first_attested = "Exodus 25:31–40 (Mosaic specifications, late Age of Aries on the corpus's reckoning)"
-biblical_specifications = "Single piece of hammered pure gold; central shaft with six branches (three from each side); seven oil-lamp cups shaped like almond blossoms; intricate floral decoration; one talent of gold for the lampstand and its accessories"
-biblical_passages = "Exodus 25:31–40 (specifications); Exodus 37:17–24 (construction by Bezalel); Numbers 8:1–4 (lighting protocol); Zechariah 4:1–14 (the vision of the lampstand with seven lamps); 1 Kings 7:49 (Solomon's ten menorot)"
-mainstream_significance = "Principal furnishing of the Tabernacle and the Temple; one of the oldest continuously used Jewish religious symbols; emblem of the State of Israel since 1949"
-framework_significance = "Operational memory of seven Elohim bases on elevated terrain, connected through a central communications installation (the original referent of the seven-branched design)"
-related_objects = "[Ark of the Covenant](/wiki/ark-of-the-covenant/); Tabernacle; Temple of Jerusalem; the *hanukkiah* (nine-branched Hanukkah lamp, a distinct object)"
-arch_of_titus = "Surviving Roman-era depiction (c. 81 CE) showing the actual Second Temple menorah carried in triumphal procession after the destruction of Jerusalem in 70 CE"
+type = "성막과 성전의 일곱 갈래 금 등잔대"
+hebrew = "<span class=\"hebrew\">מְנוֹרָה</span> *메노라*(문자적으로 \"등잔대\", \"빛을 내다\"라는 뜻의 어근 *누르*에서 유래)"
+first_attested = "출애굽기 25:31–40(모세의 명세, 코퍼스의 계산으로 양자리 시대 후기)"
+biblical_specifications = "망치로 두드린 순금 한 덩이; 중앙 줄기에 여섯 가지(양쪽에 셋씩); 살구꽃 모양의 기름 등잔 잔 일곱; 정교한 꽃 장식; 등잔대와 그 부속품에 금 한 달란트"
+biblical_passages = "출애굽기 25:31–40(명세); 출애굽기 37:17–24(브살렐의 제작); 민수기 8:1–4(점등 규정); 스가랴 4:1–14(일곱 등잔이 있는 등잔대 환상); 열왕기상 7:49(솔로몬의 열 메노롯)"
+mainstream_significance = "성막과 성전의 주요 기물; 가장 오래도록 끊임없이 사용된 유대교 종교 상징 가운데 하나; 1949년 이후 이스라엘 국가의 문장"
+framework_significance = "중앙 통신 시설로 연결된 일곱 엘로힘 기지에 대한 실무적 기억(일곱 가지 디자인의 본래 지시 대상)"
+related_objects = "[언약궤](/wiki/ark-of-the-covenant/), 성막, 예루살렘 성전, *hanukkiah*(아홉 가지의 하누카 등잔, 별개의 물건)"
+arch_of_titus = "기원후 70년 예루살렘 파괴 이후 개선 행렬에서 운반되는 실제 제2성전 메노라를 보여 주는 현존 로마 시대 묘사(기원후 약 81년)"
 +++
 
 The **Menorah** (Hebrew <span class="hebrew">מְנוֹרָה</span>, *menorah*, "lampstand") is the seven-branched golden lampstand specified in the Hebrew Bible (Exodus 25:31–40) as a principal furnishing of the Tabernacle constructed during the Israelite wilderness period and subsequently of the First and Second Temples of Jerusalem. It is among the oldest continuously preserved religious symbols in any tradition: the design has been in continuous Jewish religious use for approximately 3,200 years from the Mosaic period (conventionally dated to the 13th century BCE) to the present, and the seven-branched configuration has served as a principal emblem of Jewish identity across the destruction of the First Temple in 586 BCE, the destruction of the Second Temple in 70 CE, the long diaspora period, and the establishment of the State of Israel in 1948. The Menorah has served as the official emblem of the State of Israel since 1949.

@@ -6,27 +6,36 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Earth-as-organism framework", "the planetary-organism claim", "the cosmic-biology framework", "the universal-aliveness principle", "Living Cosmos", "the biological correlate of Infinity"]
+alternative_names = ["le cadre de la Terre-organisme", "l'affirmation de l'organisme planétaire", "le cadre de la biologie cosmique", "le principe de l'universalité du vivant", "Cosmos vivant", "le corrélat biologique de l'Infini"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Macrobiologie", path = "wiki/macrobiology", description = "La discipline qui étudie les systèmes vivants à l'échelle supérieure — l'humanité comme organisme — et étend la thèse de la Terre vivante de la planète à l'espèce." },
+    { title = "Infini", path = "wiki/infinity", description = "La cosmologie fondatrice sur laquelle repose la thèse de la Terre vivante." },
+    { title = "Cosmologie fractale", path = "wiki/fractal-cosmology", description = "L'autosimilarité spatiale au sein de laquelle chaque échelle abrite des êtres vivants." },
+    { title = "Effet de masse", path = "wiki/mass-effect", description = "La mise à l'échelle du temps qui explique pourquoi la vie de la Terre est imperceptible aux humains." },
+    { title = "Chaîne cosmique", path = "wiki/cosmic-chain", description = "La lignée emboîtée des civilisations créées et créatrices à travers le temps cosmique." },
+    { title = "Quatre niveaux", path = "wiki/four-levels", description = "La règle éthique que fonde le cadre d'un cosmos vivant." },
+    { title = "Symbole raëlien de l'infini", path = "wiki/raelian-symbol-of-infinity", description = "L'emblème qui encode l'infiniment grand et l'infiniment petit." },
+]
 
 [extra.infobox]
-type = "Foundational cosmological framework; biological correlate of the broader Infinity-Fractal-Mass-Effect cluster"
-basic_premise = "The Earth and all other planets are literal living beings, with biological organism-status that operates at substantial cosmic scales; the broader cosmos is biologically alive across all scales of organization"
-core_image = "'The Earth is alive like all the planets, and for the small growth that is humanity, it is difficult to notice this because of the time lag due to the enormous difference in mass, which prevents you from perceiving its palpitations' (Yahweh in *Extra-Terrestrials Took Me to Their Planet*)"
-position_in_framework = "Biological correlate of the broader Infinity-Fractal-Cosmology-Mass-Effect cluster; the framework that articulates the biological-organism content within the broader cosmological structure"
-relationship_to_mass_effect = "The Mass Effect framework explains why Earth's organism-status is not directly perceivable from human-scale experience: the substantial mass-and-time-scale differential between Earth and humans produces time-perception incompatibilities analogous to the differential between humans and our own atomic constituents"
-relationship_to_fractal_cosmology = "The Fractal Cosmology framework establishes the spatial-self-similar structure across cosmic scales within which Living Earth operates; each scale of cosmic organization contains living beings whose constituents are themselves living beings at smaller scales, with the recursion continuing indefinitely"
-relationship_to_gaia_hypothesis = "Substantial structural correspondence with James Lovelock's Gaia hypothesis (1972 onward), with the Raëlian articulation predating Lovelock's principal published work; the framework's specific position aligns with the 'strong Gaia' formulation while extending substantially beyond Lovelock's specific claims through the broader cosmological-organism extension"
-distinguished_from = "The metaphorical 'living Earth' content of various contemporary environmental-philosophical frameworks (the corpus's framework asserts literal organism-status); mainstream Gaia hypothesis weak formulation (the framework's position aligns with the strong formulation); panpsychism (the framework's position is biological-organism rather than consciousness-fundamental); the conventional anthropomorphic-animism content of various religious traditions (the framework's position is biological-scientific rather than religious-anthropomorphic)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage establishes the framework's specific content with explicit articulation"
-principal_text = "*Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' section (the principal Yahweh passage); *The Book Which Tells the Truth* (1974), various passages establishing the broader infinity-and-everything-is-in-everything framework; the Wheel of Heaven corpus's outro Section II"
+type = "Cadre cosmologique fondateur ; le volet biologique du groupe Infini–Cosmologie fractale–Effet de masse"
+basic_premise = "La Terre, comme toute autre planète, est un être vivant au sens littéral, et le cosmos dans son ensemble est vivant à chaque échelle d'organisation"
+core_image = "« La terre est vivante, comme toutes les planètes, et, pour la petite moisissure qu'est l'humanité, il vous est difficile de vous en rendre compte à cause du décalage de temps dû à l'énorme différence de masse qui vous empêche de capter ses palpitations » (Yahvé dans *Les Extra-terrestres m'ont emmené sur leur planète*)"
+position_in_framework = "Le volet biologique du groupe cosmologique : ce que l'Infini, la Cosmologie fractale et l'Effet de masse décrivent structurellement, la Terre vivante le lit comme littéralement vivant"
+relationship_to_mass_effect = "L'Effet de masse explique pourquoi nous ne pouvons pas percevoir la vie de la Terre : l'écart de masse et de temps entre la Terre et les humains est comparable à l'écart entre nous et les atomes de notre propre corps"
+relationship_to_fractal_cosmology = "La Cosmologie fractale fournit la structure emboîtée et autosimilaire — chaque échelle du cosmos contient des êtres vivants dont les constituants sont eux-mêmes des êtres vivants, sans fin"
+relationship_to_gaia_hypothesis = "Structurellement proche de l'hypothèse Gaïa de Lovelock, et l'énoncé raëlien est contemporain de ses premiers travaux ; mais la Terre vivante affirme un statut d'organisme au sens littéral (Gaïa forte) et l'étend à toutes les planètes et à toutes les échelles"
+distinguished_from = "La rhétorique métaphorique de la « Terre vivante » (l'affirmation est ici littérale) ; Gaïa faible (autorégulation systémique, non un organisme au sens littéral) ; le panpsychisme (la conscience comme fondamentale, non biologique) ; la religion anthropomorphe de la déesse Terre (l'affirmation est biologique, non dévotionnelle)"
+status_in_source_material = "Énoncé directement par Yahvé dans la section « Ni Dieu ni âme » des *Extra-terrestres m'ont emmené sur leur planète* (1975)"
+principal_text = "*Les extra-terrestres m'ont emmené sur leur planète* (1975), « Ni Dieu ni âme » ; *Le Livre qui dit la vérité* (1974), « L'humanité, maladie de l'univers »"
 +++
 
 **Living Earth** is the Wheel of Heaven corpus's name for a claim the Raëlian

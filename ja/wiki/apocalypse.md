@@ -6,15 +6,27 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Revelation", "ἀποκάλυψις", "Age of Apocalypse", "Age of Revelation"]
+alternative_names = ["啓示", "ἀποκάλυψις", "黙示の時代", "啓示の時代"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "マクロ生物学", path = "wiki/macrobiology", description = "有機体としての人類の生物学。1945年は、その惑星規模の神経系が起動した時点にあたる。" },
+    { title = "黄金時代", path = "wiki/golden-age", description = "移行を乗り越えたのちに黙示が開く先にある、文明の帰結。" },
+    { title = "預言者", path = "wiki/prophet", description = "黙示がその累積的な働きを頂点へと導く伝統。" },
+    { title = "大使館", path = "wiki/embassy", description = "この時期に実行可能となる、計画された公然の帰還。" },
+    { title = "エロヒム", path = "wiki/elohim", description = "黙示においてその内容が直接の評価にさらされる同盟。" },
+    { title = "ラエル", path = "wiki/rael", description = "黙示の枠組みの内容を伝えた預言者。" },
+    { title = "元年に目覚めた巻物", path = "articles/the-scrolls-that-woke-in-year-one", description = "死海文書は、この時代の暦の元年に姿を現した。その写本の発見に照らして読む覆いの除去。" },
+    { title = "元年に封を解かれて", path = "articles/unsealed-in-year-one", description = "同じ発見についての姉妹編の読解。封じられたダニエルの書が開かれ、文書の内容がこの時代に何を語るのか。" },
+    { title = "人類の形", path = "articles/the-shape-of-humanity", description = "1945年を、惑星規模の有機体の神経系が、自らを終わらせる力とともに起動した瞬間として読む解説記事。" },
+    { title = "カール・ユング", path = "wiki/carl-jung", description = "ユングの『アイオーン』と、いま終わりつつある魚座のアイオーンについての二匹の魚の読解。" },
+]
 +++
 
 **Apocalypse** (Greek: *ἀποκάλυψις*, *apokalypsis*) is, in its plain Greek meaning, an *uncovering* or *unveiling* — the disclosure of what was previously concealed. The English word entered medieval and early-modern usage through the Latin *apocalypsis* and the Vulgate's title for the New Testament's Book of Revelation (*Apocalypsis Iohannis*, "the Unveiling of John"). Across the medieval and early-modern centuries, the term acquired a secondary set of connotations — catastrophic destruction, end-of-the-world judgment, eschatological cataclysm — that the original Greek does not carry and that have come to dominate popular English usage. The two senses are now substantially distinct in contemporary English: the popular *apocalypse* names a destructive end; the technical *apocalypse* names a revelation of hidden truth.

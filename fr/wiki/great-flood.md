@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -24,7 +24,7 @@ timeline = ["gemini"]
 see_also = [
     { title = "Noé", path = "/wiki/noah/", description = "Le survivant humain et patriarche par lequel la lignée post-diluvienne se poursuit." },
     { title = "Arche de Noé", path = "/wiki/noahs-ark/", description = "Le vaisseau orbital qui préserva la famille de Noé et les représentants génétiques." },
-    { title = "Alliance noachique", path = "/wiki/noahic-covenant/", description = "Le règlement politique post-diluvien constitué par la signature de l'arc-en-ciel." },
+    { title = "Alliance noahique", path = "/wiki/noahic-covenant/", description = "Le règlement politique post-diluvien constitué par la signature de l'arc-en-ciel." },
     { title = "L'Alliance", path = "/wiki/the-alliance/", description = "L'arrangement politique fondé par l'alliance noachique." },
     { title = "Lucifer", path = "/wiki/lucifer/", description = "La faction dont l'intervention préserva Noé par l'opération de l'arche." },
     { title = "Yahvé", path = "/wiki/yahweh/", description = "Le chef du Conseil dont le vote post-diluvien fonde l'engagement du « plus jamais »." },
@@ -34,10 +34,13 @@ see_also = [
     { title = "Éden", path = "/wiki/eden/", description = "Le laboratoire alliancier originaire dont la lignée fut prolongée par la civilisation antédiluvienne." },
     { title = "Bible hébraïque", path = "/wiki/hebrew-bible/", description = "La source scripturaire principale du récit du Déluge." },
     { title = "Genèse", path = "/wiki/genesis/", description = "Le livre biblique contenant le récit du Déluge (Genèse 6-9)." },
+    { title = "Atra-ḫasīs", path = "/library/atrahasis-woh/", description = "Le récit babylonien du déluge, étroitement parallèle au récit hébreu." },
+    { title = "Épopée de Gilgamesh", path = "/library/gilgamesh-woh/", description = "Le récit mésopotamien du déluge de la tablette XI." },
     { title = "Sodome et Gomorrhe", path = "/wiki/sodom-and-gomorrah/", description = "Un événement de frappe analogue postérieur dont le mécanisme est structurellement similaire." },
     { title = "Babel", path = "/wiki/babel/", description = "L'épisode post-diluvien de dispersion civilisationnelle." },
     { title = "Signature redoublée", path = "/wiki/doubled-signature/", description = "Le principe du corpus selon lequel la tradition mondiale du déluge préserve la mémoire historique sous-jacente." },
     { title = "Théomachie", path = "/wiki/theomachy/", description = "Le cadre plus large du conflit cosmico-politique au sein duquel la frappe opère." },
+    { title = "L'archidiacre et le dragon", path = "articles/the-archdeacon-and-the-dragon", description = "La convergence entre Wallis et le canon sur le Déluge comme décision d'un conseil." },
 ]
 
 footnotes = [

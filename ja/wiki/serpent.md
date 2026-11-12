@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -26,6 +26,8 @@ see_also = [
     { title = "ヤハウェ", path = "wiki/yahweh", description = "開示後の判決を宣告したイスラエル・チームの指導者。" },
     { title = "サタン", path = "wiki/satan", description = "別個のエロヒムの姿 ― 蛇/ルシファーとは政治的に正反対であり、後代の伝統においてのみ混同された。" },
     { title = "生命の樹", path = "wiki/tree-of-life", description = "追放後に守られた長寿技術。" },
+    { title = "大執事と竜", path = "articles/the-archdeacon-and-the-dragon", description = "蛇/ルシファー/サタン/ヤハウェという四者の分類は、この項目の異を唱えた派閥という読解に対抗して組み立てられている。" },
+    { title = "ドラゴン曲線", path = "articles/the-dragon-curve", description = "蛇として記憶される派閥が、竜の仕事についても記憶されているのかどうかを、明示された推測として問う解説記事。" },
 ]
 
 footnotes = [

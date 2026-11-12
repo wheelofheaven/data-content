@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["헤칼로트/헤이칼로트 문헌 (הֵיכָלוֹת)", "Merkavah 신비주의", "Merkabah 신비주의", "'궁전' 문헌", "*ma'aseh merkavah* ('병거의 작업')"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "쉬우르 코마", path = "wiki/shiur-qomah", description = "이 코퍼스 안에서 전해져 라엘리안 정경이 읽는 파라상 측정 텍스트." },
+    { title = "카발라", path = "wiki/kabbalah", description = "이 카발라 이전 지층보다 수 세기 뒤에 오는 후대의 고전 유대 신비주의." },
+    { title = "생명나무", path = "wiki/tree-of-life", description = "궁전을 통과하는 승천 전통에서 발전해 나온 카발라의 도해." },
+    { title = "히브리어 성경", path = "wiki/hebrew-bible", description = "메르카바 신비주의가 그 이름을 따온 에스겔의 보좌-병거 환상의 출처." },
+    { title = "야훼", path = "wiki/yahweh", description = "포함된 『쉬우르 코마』가 그 신장을 측정하는, 메르카바 위에 좌정한 인물." },
+    { title = "원년에 봉인이 풀리다", path = "articles/unsealed-in-year-one", description = "쿰란의 「안식일 희생 노래」를 이 전통 배후의 원(原)메르카바 전례로 읽습니다." },
+]
 
 [extra.infobox]
 type = "고대 후기~중세 초기 유대교 신비주의 텍스트 코퍼스 (카발라 이전 시대)"

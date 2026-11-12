@@ -6,35 +6,43 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Jesus of Nazareth", "Jesus Christ", "Yeshua", "Yēšuaʿ", "יֵשׁוּעַ", "Ἰησοῦς", "Iēsoûs", "Isa", "عيسى"]
+alternative_names = ["Jésus de Nazareth", "Jésus-Christ", "Yeshua", "Yēšuaʿ", "יֵשׁוּעַ", "Ἰησοῦς", "Iēsoûs", "Isa", "عيسى"]
 timeline = ["pisces"]
+see_also = [
+    { title = "L'Alliance", path = "wiki/the-alliance", description = "Le programme d'alliance dont Jésus est lu comme un projet délibéré de conception hybride." },
+    { title = "Yahvé", path = "wiki/yahweh", description = "Le président des Élohim qui commanda le projet d'alliance dont naquit Jésus." },
+    { title = "Élohim", path = "wiki/elohim", description = "Les créateurs qui fournissent le père éloha dans la conception médiatisée par l'alliance." },
+    { title = "Prophète", path = "wiki/prophet", description = "Le rôle de messager que Jésus remplit pour inaugurer l'ère des Poissons." },
+    { title = "Raël", path = "wiki/rael", description = "Le messager de l'ère du Verseau associé à Jésus dans la succession des prophètes." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "L'âge de la révélation que sa mission de l'ère des Poissons avait pour charge de préparer." },
+]
 
 [extra.infobox]
 hebrew_name = "יֵשׁוּעַ"
-transliteration = "Yēšuaʿ (Hebrew); Yeshu (Aramaic shortened form)"
+transliteration = "Yēšuaʿ (hébreu) ; Yeshu (forme abrégée araméenne)"
 greek_name = "Ἰησοῦς (Iēsoûs)"
 latin_name = "Iesus"
 arabic_name = "عيسى (ʿĪsā)"
-title = "Christos / Mashiach ('anointed one')"
-born = "c. 4 BCE, Bethlehem or Nazareth (mainstream consensus)"
-died = "c. 30 CE or c. 33 CE, Jerusalem (crucifixion under Pontius Pilate)"
-ministry_period = "c. 27–30 CE (approximately three years)"
-geographic_context = "Roman Palestine: Galilee and Judea"
-linguistic_context = "Native Aramaic; literate in Biblical Hebrew; multilingual environment"
-mother = "Mary (Hebrew: Miriam)"
+title = "Christos / Mashiach (« oint »)"
+born = "v. 4 AEC, Bethléem ou Nazareth (consensus courant)"
+died = "v. 30 EC ou v. 33 EC, Jérusalem (crucifixion sous Ponce Pilate)"
+ministry_period = "v. 27–30 EC (environ trois ans)"
+geographic_context = "Palestine romaine : Galilée et Judée"
+linguistic_context = "Araméen langue maternelle ; lettré en hébreu biblique ; environnement multilingue"
+mother = "Marie (hébreu : Myriam)"
 adoptive_father = "Joseph"
-biological_father = "Yahweh (in the framework's reading); 'Holy Spirit' (in the conventional reading)"
-framework_role = "Inaugural figure of the Age of Pisces; biological hybrid; biological half-brother of Raël"
-current_status = "Resurrected; resident on the Planet of the Eternals (per the source material)"
-principal_text = "The four canonical Gospels (Matthew, Mark, Luke, John); the Pauline epistles; the broader New Testament"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974)"
+biological_father = "Yahvé (selon la lecture du cadre) ; « Saint-Esprit » (selon la lecture conventionnelle)"
+framework_role = "Figure inaugurale de l'Ère des Poissons ; hybride biologique ; demi-frère biologique de Raël"
+current_status = "Ressuscité ; résidant sur la Planète des Éternels (selon le matériau source)"
+principal_text = "Les quatre Évangiles canoniques (Matthieu, Marc, Luc, Jean) ; les épîtres pauliniennes ; l'ensemble du Nouveau Testament"
+principal_framework_source = "*Le Livre qui dit la vérité* (Vorilhon/Raël, 1974)"
 +++
 
 **Jesus of Nazareth** (Hebrew: <span class="hebrew">יֵשׁוּעַ</span>, *Yēšuaʿ*; Greek: *Ἰησοῦς*, *Iēsoûs*; Latin: *Iesus*; Arabic: <span class="hebrew">عيسى</span>, *ʿĪsā*; conventionally Anglicized as *Jesus*; titular *Christos / Mashiach*, "anointed one") is a first-century Jewish preacher, healer, and apocalyptic figure whose ministry in Roman Palestine, public execution by crucifixion under Pontius Pilate, and post-mortem appearances to his followers founded the Christian religious tradition. He is the subject of the four canonical Gospels (Matthew, Mark, Luke, John),{{ cite(id="gospel-of-matthew", text="[1]", title="Gospel of Matthew — canonical Synoptic Gospel; principal infancy and Sermon material") }}{{ cite(id="gospel-of-luke-acts-of-the-apostles", text="[2]", title="Gospel of Luke and Acts of the Apostles — Lukan two-volume composition") }}{{ cite(id="gospel-of-john", text="[3]", title="Gospel of John — Logos prologue and high-Christological narrative") }} of the Pauline epistles, and of the broader New Testament corpus. Outside the Christian sources he is attested briefly in Josephus (*Antiquities of the Jews* 18.3.3 and 20.9.1), in Tacitus (*Annals* 15.44), and in a small number of other early non-Christian witnesses. The historical existence of Jesus as a first-century figure is accepted by the substantial majority of mainstream historical scholarship.

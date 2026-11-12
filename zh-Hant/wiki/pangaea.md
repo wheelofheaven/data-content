@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -18,18 +18,26 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "framework"
-alternative_names = ["Pangea", "Antediluvian supercontinent", "The pre-deluge landmass", "The one continent"]
+alternative_names = ["Pangea", "大洪水前的超大陸", "洪水前的大陸", "唯一的大陸"]
+see_also = [
+    { title = "伊甸", path = "wiki/eden", description = "位於這塊單一大洪水前陸塊上的創造地點。" },
+    { title = "大洪水之前", path = "wiki/antediluvian", description = "以盤古大陸為地理基底的整個洪水前時期。" },
+    { title = "挪亞方舟", path = "wiki/noahs-ark", description = "與此陸塊單一災變事件式破裂相關的洪水倖存記述。" },
+    { title = "創世記", path = "wiki/genesis", description = "其第 6–9 章提供了使大陸破裂的洪水干預。" },
+    { title = "地球化(terraforming)", path = "wiki/terraforming", description = "將盤古大陸從原始海床升起的大陸工程作業。" },
+    { title = "傳統", path = "wiki/the-tradition", description = "文集讀作編碼了洪水前超大陸的保存記憶。" },
+]
 
 [extra.infobox]
-type = "Supercontinent — both a mainstream-geological reconstruction and a framework-adopted antediluvian referent"
-mainstream_dating = "c. 335 million years ago (Carboniferous assembly) through c. 195 million years ago (Triassic-Jurassic breakup)"
-framework_dating = "Constructed during *yom* 3 / Age of Scorpio (c. 17,490 – 15,330 BCE on the corpus's reckoning); broken apart at the deluge event (c. 13,000 BCE on the corpus's reckoning)"
-extent = "Approximately equal to the combined landmass of all present-day continents, organised as a single contiguous body"
-shape_mainstream = "C-shaped with the Tethys Sea contained within the curve, surrounded by the superocean Panthalassa"
-geographic_role_framework = "The geographic substrate of the entire antediluvian period: the location of Eden, the location of the post-Eden dispersed civilisations, the area destroyed by the deluge event"
-breakup_mainstream = "Plate-tectonic rifting beginning approximately 195 million years ago, with progressive separation continuing through the Jurassic and Cretaceous"
-breakup_framework = "Catastrophic single-event breakup at the deluge, described in the source material as a deliberate operational intervention; the framework reads the modern continental configuration as the surface signature of the deluge event preserved in the contemporary geological record"
-divergence_from_mainstream = "Approximately three orders of magnitude on timescale; the framework's reading is incompatible with mainstream plate-tectonic dating and is registered transparently in the entry's dedicated section on the divergence"
+type = "超大陸——既是主流地質學的重建，也是本框架所採用的大洪水前指涉對象"
+mainstream_dating = "約 3.35 億年前（石炭紀聚合）至約 1.95 億年前（三疊紀—侏羅紀分裂）"
+framework_dating = "在射手座時代晚期升起（依語料的推算約西元前 19,650 – 17,490 年），即創世記文本壓縮於第三個 *yom* 的大陸工程，穩定化持續至天蠍座時代早期；在雙子座時代開啟時的大洪水中分裂（依語料的推算約西元前 6,690 年）"
+extent = "約等於當今所有大陸的陸地總和，組成單一相連的陸塊"
+shape_mainstream = "呈 C 形，特提斯海位於弧內，四周為超級海洋泛古洋所環繞"
+geographic_role_framework = "整個大洪水前時期的地理基底：伊甸的所在地、伊甸之後分散之文明的所在地、被大洪水事件摧毀的區域"
+breakup_mainstream = "板塊構造裂解約始於 1.95 億年前，並在侏羅紀與白堊紀持續漸進分離"
+breakup_framework = "大洪水時的單一災變式分裂——打擊本身在第一本書中被描述為有意的干預，分裂則見於第三本書中 Marcel Terrusse 的文章（LWTE-4）；本框架將現代的大陸配置解讀為保存在當代地質紀錄中的大洪水事件的地表印記"
+divergence_from_mainstream = "時間尺度上相差約三個數量級；本框架的解讀與主流板塊構造定年不相容，並在本條目專門討論此分歧的一節中透明地記錄"
 +++
 
 **Pangaea** is the name conventionally given to the single supercontinent identified by mainstream geology as having existed from approximately 335 million years ago through approximately 195 million years ago, before breaking up via plate-tectonic processes into the continental configuration of the present-day Earth. The name derives from the Greek *Παγγαία*, "all earth," and was introduced into geological scholarship by the German meteorologist and geophysicist **Alfred Wegener** in his 1912 paper *Die Entstehung der Kontinente* and subsequently developed in *Die Entstehung der Kontinente und Ozeane* (*The Origin of Continents and Oceans*, 1915, with major revisions through 1929) — the foundational works of the continental-drift theory that subsequently developed into the contemporary theory of plate tectonics.

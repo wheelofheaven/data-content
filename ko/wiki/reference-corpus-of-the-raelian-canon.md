@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -20,8 +20,8 @@ lead = "라엘리안 코퍼스의 세 정전 전반에 걸쳐, 클로드 보리�
 reading = "interpretive"
 
 see_also = [
-    { title = "성서", path = "/wiki/bible/", description = "히브리 성서와 신약이 자리하는 더 넓은 텍스트 전통입니다." },
-    { title = "히브리 성서", path = "/wiki/hebrew-bible/", description = "정전에서 가장 크고 가장 정밀하게 인용되는 참조 본문입니다." },
+    { title = "성경", path = "/wiki/bible/", description = "히브리 성서와 신약이 자리하는 더 넓은 텍스트 전통입니다." },
+    { title = "히브리어 성경", path = "/wiki/hebrew-bible/", description = "정전에서 가장 크고 가장 정밀하게 인용되는 참조 본문입니다." },
     { title = "창세기", path = "/wiki/genesis/", description = "정전의 원시 역사 주해에서 가장 광범위하게 인용되는 책입니다." },
     { title = "카발라", path = "/wiki/kabbalah/", description = "『세상의 종말』에서 '진리에 가장 가까운 책'으로 명명되었으며, 파라상 구절은 시우르 코마를 가리킵니다." },
     { title = "라엘리즘", path = "/wiki/raelism/", description = "여기에 목록화된 세 정전으로 구성된 운동입니다." },
@@ -31,9 +31,10 @@ see_also = [
     { title = "모세", path = "/wiki/moses/", description = "ETTMTTP-2:64, 3:257 및 LWTE-3:27에서 이름이 언급된 메신저들 가운데 하나입니다." },
     { title = "예수", path = "/wiki/jesus/", description = "물고기자리 시대의 주요 메신저로, 『그리스도의 역할』은 마태복음을 중심으로 구성되어 있습니다." },
     { title = "무함마드", path = "/wiki/muhammad/", description = "쿠란의 메신저로, 정전은 수라 21, 54, 56을 직접적으로 다룹니다." },
-    { title = "아포칼립스", path = "/wiki/apocalypse/", description = "『새로운 계시』에서 발전된 요한계시록 독해입니다." },
+    { title = "묵시록", path = "/wiki/apocalypse/", description = "『새로운 계시』에서 발전된 요한계시록 독해입니다." },
     { title = "햄릿의 맷돌", path = "/wiki/hamlets-mill/", description = "정전의 흔적 논증에 인접한 범문화적 신화적-세차적 독해입니다." },
     { title = "이중 서명", path = "/wiki/doubled-signature/", description = "정전과 그 참조 텍스트들이 동일한 근저의 현실로 수렴된다는 코퍼스의 원리입니다." },
+    { title = "여섯 아침, 여섯 해", path = "/articles/six-mornings-six-years/", description = "세 원천 책에 대한 비판 장치를 지지하는 본문 비평의 논거." },
 ]
 
 footnotes = [

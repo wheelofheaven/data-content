@@ -7,8 +7,8 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
-source_updated = "2026-11-01"
+translation_updated = "2026-11-12"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -555,7 +555,7 @@ ETTMTTP 2:72、ETTMTTP 3:216，以及 LWTE 的那些日期标注。这个文集�
 在了「成为科学时代的宗教」上。第一本书作为耶洛因教学法而报道、并从地球
 上的大鼠实验中赞许地引用的那些记忆转移注射
 （{% libref(book="the-book-which-tells-the-truth", chapter=7, verse=62) %}TBWTT 7:61–62{% end %}）
-——所搭乘的研究纲领在十年之内就垮掉了。那颗「略少于一光年」之外的故乡
+——所搭乘的研究纲领在十年之内就垮掉了。那颗「略少于一光年」（{% libref(book="the-book-which-tells-the-truth", chapter=5, verse=52) %}TBWTT 5:52{% end %}）之外的故乡
 行星，按此后的每一次巡天都坐落在空无的太空之中；第三本书迎击这一反驳时，
 拿出的是一位成员提供的假说，而不是一次启示，说是光沿着「一道明显的弯曲」
 行进（{% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=27) %}LWTE 1:27{% end %}），

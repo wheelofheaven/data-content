@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-07-02"
 translation_stale = false
 translation_sync = 100
@@ -16,7 +16,7 @@ claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "2026 年 7 月 1 日,一支 University of Minnesota 團隊發表了 SpudCell——一個完全由非生命組件組裝而成的合成細胞,能夠生長、複製自身基因組,並歷經數個世代分裂。它是一項概念驗證,而非能自給自足的生物體:它無法自行製造蛋白質,必須以外部餵養維持。透過源典來讀,它恰好落在耶和華於《訴說真相之書》中所描述的那道門檻上——Elohim 自身的文明正是由在『可與你們不久將要達到的水平相比』的科學水平上,製造出『試管中的活細胞』而起步。"
 canon_links = [
-    { title = "The Book Which Tells the Truth", path = "/library/the-book-which-tells-the-truth/" },
+    { title = "訴說真相之書", path = "/library/the-book-which-tells-the-truth/" },
     { title = "耶洛因母行星", path = "/wiki/elohim-home-planet/" },
     { title = "耶洛因", path = "/wiki/elohim/" },
     { title = "智慧設計", path = "/wiki/intelligent-design/" }

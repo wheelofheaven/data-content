@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -20,7 +20,7 @@ category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 summary = "2020年、オーストラリア聖公会の現職の大執事が、創世記のエロヒムは「力ある者たち」——その物語を聖書の後代の編集者たちが一神教へと作り替えた、血肉をもつ複数の訪問者——であると論じる一冊の本を刊行しました。さらに五冊が、一年に一冊ずつ続き、そのそれぞれが議論をさらに推し進めます——世界の接触伝承へ、ヘブライ語正典の編集史へ、現代のエクソポリティクスへ、そしてついには古代ウラルトゥの玄武岩の高地へと。この解説は、ポール・ウォリスのエデン・シリーズ全体を精読し、ラエリアン正典——ウォリスが一度も引用したことがなく、彼自身の紙面が示す証拠に照らせば一度も読んだことのない主張の総体——と突き合わせます。そしてその収斂を地図に描きます——複数形のエロヒム、守られた施設としてのエデン、作り手たちのうち異を唱える一派としての蛇、評議会の決定としての洪水、宇宙を旅する文明の破壊工作としてのバベル。彼の最も人目を引く一つの像——YHWH を竜の名 Akhekh として読むこと——を、完全な文献学的監査にかけ、その語源がどこで破綻するかを、そしてそれでもなおその下にある構造的な主張がなぜ立つのかを、はっきりと述べます。そして、二つの読みが分かれるところを、等しい注意深さで印します——誰が竜をまとうのか、イエスは何をしに来たのか、そして神と呼ばれる何かがエロヒムの上に生き延びるのかどうか。その類縁は収斂であり、収斂は一つの与件なのです。"
-keywords = ["ポール・ウォリス", "エデンからの脱出", "Akhekh", "ヤハウェ", "エロヒム", "affrication", "ヨシュア記24章", "神々の評議会", "新エウヘメロス主義", "ビリーノ・メソッド", "パレオコンタクト", "蛇", "竜"]
+keywords = ["ポール・ウォリス", "エデンからの脱出", "Akhekh", "ヤハウェ", "エロヒム", "破擦音化", "ヨシュア記24章", "神々の評議会", "新エウヘメロス主義", "ビリーノ・メソッド", "パレオコンタクト", "蛇", "竜"]
 references = [
     # — The canon under comparison —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2, 'The Truth' (¶22: the dragons/dinosaurs; ¶¶28–39: Eden, the scientific books, the serpent faction and its exile; ¶58: the Flood; ¶78: the pardon); Chapter 3 (¶¶248–254: Satan and Job; ¶251: 'Elohim… those come from the sky'; ¶¶271–272: the undersea bases and Isaiah 27:1); Chapter 7, ¶56 (Yahweh president of the Council of the Eternals)" },

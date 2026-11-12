@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,17 @@ alternative_names = ["נָבִיא", "navi", "προφήτης", "prophētēs", 
 portrait_id = "prophetic-lineage"
 image = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.avif"
-image_alt = "AI-generated editorial group portrait of the prophetic lineage, with figures from multiple eras arranged around a luminous axis."
-image_caption = "Interpretive portrait for the Prophet wiki entry and cross-tradition metadata."
+image_alt = "AI 生成的先知谱系编辑性群像，来自多个时代的人物环绕一条发光的轴线排列。"
+image_caption = "用于先知百科条目及跨传统元数据的诠释性肖像。"
+see_also = [
+    { title = "耶和华", path = "wiki/yahweh", description = "先知制度作为其对话者所服务的耶洛因人物。" },
+    { title = "亚当与夏娃", path = "wiki/adam-and-eve", description = "在伊甸之后的时期开启先知名单的世系。" },
+    { title = "挪亚", path = "wiki/noah", description = "文集将其作为先知候选人讨论的一位洪水前人物；正典并未将他列入先知之中。" },
+    { title = "亚伯拉罕", path = "wiki/abraham", description = "该制度所实现的累积性准备中的一位族长先知。" },
+    { title = "摩西", path = "wiki/moses", description = "中介接触机制中的一位重要希伯来先知。" },
+    { title = "耶稣", path = "wiki/jesus", description = "传承序列中双鱼座时代的两位先知之一。" },
+    { title = "四十把椅子", path = "articles/the-forty-chairs", description = "正典点名了约四十位就座先知中的五位；这篇解读文章构建了用以判断还有谁坐在桌旁的工具。" },
+]
 +++
 
 **Prophet** (Greek: *προφήτης*, *prophētēs*, "one who speaks for"; Hebrew: <span class="hebrew">נָבִיא</span>, *navi*, "one who is called" or "one who proclaims"; Arabic: <span class="hebrew">نبي</span>, *nabī*; Latin: *propheta*) is a human figure who, in the religious traditions of Judaism, Christianity, Islam, and many other systems, serves as a mediator between the divine and the human, receiving communications from the divine and transmitting them to a human audience. The role is universal across the major religious traditions, though its specific shape — the manner of communication, the social position of the prophet, the content of the messages, the relationship to institutional religion — varies substantially across traditions and across periods within traditions. In the Hebrew Bible alone, the prophetic literature occupies a substantial portion of the canon, with the Major and Minor Prophets together comprising fifteen named figures whose oracles, narratives, and visions structure much of the second division of the Tanakh.

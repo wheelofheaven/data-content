@@ -8,7 +8,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -16,23 +16,31 @@ category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "civilization"
 
-alternative_names = ["the Grand Council of the Eternals", "the Council", "the Council of Eternals", "the Divine Council", "the Divine Assembly", "the Heavenly Court", "the Assembly of the Elohim"]
+alternative_names = ["le Grand Conseil des Éternels", "le Conseil", "le Conseil des Éternels", "le Conseil divin", "l'Assemblée divine", "la Cour céleste", "l'Assemblée des Élohim"]
 timeline = ["pre-creation", "capricorn", "sagittarius", "scorpio", "libra", "virgo", "leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
+see_also = [
+    { title = "Yahvé", path = "wiki/yahweh", description = "Le président du Conseil tout au long du projet Terre, long d'environ 25 000 ans." },
+    { title = "L'Alliance", path = "wiki/the-alliance", description = "L'organe intercivilisationnel plus large au sein duquel siège le Conseil." },
+    { title = "Lucifer", path = "wiki/lucifer", description = "La faction de la divulgation complète dont le Conseil a jugé l'exil sur Terre." },
+    { title = "Antédiluvien", path = "wiki/antediluvian", description = "La crise de développement antédiluvienne que le Conseil a résolue par la remise à zéro." },
+    { title = "Éden", path = "wiki/eden", description = "La crise de la divulgation dont le Conseil a décidé le règlement politique." },
+    { title = "Le monothéisme est la mauvaise question", path = "articles/monotheism-is-the-wrong-question", description = "Le conseil divin lu comme la pluralité derrière le « Dieu unique » biblique — un représentant parlant pour toute l'assemblée." },
+]
 
 [extra.infobox]
-hebrew_designations = "עֲדַת אֵל (ʿadat ʾēl, 'assembly of El'); סוֹד יְהוָה (sod Yhwh, 'council of Yahweh'); בְּנֵי הָאֱלֹהִים (benei ha-Elohim, 'sons of Elohim')"
-greek_designation = "ἡ βουλὴ τῶν θεῶν (he boulē tōn theōn, 'the council of the gods', in the Septuagint and broader Hellenistic tradition)"
-type = "Governing political body of the Elohim civilization; deliberative-and-executive authority"
-membership = "700 Eternals (members of the Elohim civilization who have undergone cloning-and-memory-transfer to achieve practical immortality)"
-presidency = "Yahweh, the first individual on whom the cloning-and-memory-transfer technology was successfully applied; continuous Council president across approximately 25,000 years"
-location = "Planet of the Eternals (the second smaller planet in the alliance home stellar system, also home to approximately 8,400 resurrected humans)"
-operational_period = "Approximately 25,000 years from founding to present; continuous deliberative and executive authority across the entire Earth project"
-date_type = "framework-internal; derived from Yahweh's recorded 25,000-year continuous existence and Council presidency"
-biblical_appearance = "Psalm 82 (the assembly of El); 1 Kings 22:19–23 (Micaiah's vision); Job 1–2 (the sons of Elohim with ha-satan); Daniel 7:9–14 (the Ancient of Days enthroned); Isaiah 6:1–8 (Isaiah's commissioning); Isaiah 14:13 (the mount of assembly); Genesis 1:26 (the plural self-address); various other passages preserving the divine-council motif"
-distinguished_from = "The Elohim civilization (broader population of ~7 billion); the Eternals as a population (700 Elohim plus ~8,400 resurrected humans on the Planet of the Eternals); the Alliance (the cross-civilizational political body that emerged after the Noahic covenant); the Lucifer faction (the originally-dissenting subset of the Israel team); the prophetic tradition (the human partners commissioned for Earth-side work)"
-current_status = "Active; conducting Aquarian-age preparation through the Raëlian movement and the embassy project; preparing for the open return at the completed embassy"
-principal_text = "Hebrew Bible divine-council passages; *The Book Which Tells the Truth* (Vorilhon/Raël, 1974); *Extra-Terrestrials Took Me to Their Planet* (1975)"
-principal_framework_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), 'Meeting the Ancient Prophets'"
+hebrew_designations = "עֲדַת אֵל (ʿadat ʾēl, « assemblée d'El ») ; סוֹד יְהוָה (sod Yhwh, « conseil de Yahvé ») ; בְּנֵי הָאֱלֹהִים (benei ha-Elohim, « fils d'Élohim »)"
+greek_designation = "ἡ βουλὴ τῶν θεῶν (he boulē tōn theōn, « le conseil des dieux », dans la Septante et la tradition hellénistique plus large)"
+type = "Organe politique dirigeant de la civilisation des Élohim ; autorité délibérative et exécutive"
+membership = "700 Éternels (membres de la civilisation des Élohim ayant bénéficié du clonage et du transfert de mémoire pour atteindre une immortalité pratique)"
+presidency = "Yahvé, le premier individu sur qui la technologie de clonage et de transfert de mémoire fut appliquée avec succès ; président continu du Conseil depuis environ 25 000 ans"
+location = "Planète des Éternels (la seconde planète, plus petite, du système stellaire d'origine de l'alliance, où vivent aussi environ 8 400 humains ressuscités)"
+operational_period = "Environ 25 000 ans de la fondation à aujourd'hui ; autorité délibérative et exécutive continue sur l'ensemble du projet Terre"
+date_type = "interne au cadre ; dérivé de l'existence continue de Yahvé, rapportée sur 25 000 ans, et de sa présidence du Conseil"
+biblical_appearance = "Psaume 82 (l'assemblée d'El) ; 1 Rois 22:19–23 (la vision de Michée) ; Job 1–2 (les fils d'Élohim avec ha-satan) ; Daniel 7:9–14 (l'Ancien des jours sur son trône) ; Isaïe 6:1–8 (la vocation d'Isaïe) ; Isaïe 14:13 (la montagne de l'assemblée) ; Genèse 1:26 (l'auto-désignation au pluriel) ; divers autres passages qui conservent le motif du conseil divin"
+distinguished_from = "La civilisation des Élohim (population plus large d'environ 7 milliards) ; les Éternels en tant que population (700 Élohim et environ 8 400 humains ressuscités sur la Planète des Éternels) ; l'Alliance (l'organe politique intercivilisationnel apparu après l'alliance noahique) ; la faction de Lucifer (le sous-ensemble initialement dissident de l'équipe d'Israël) ; la tradition prophétique (les partenaires humains mandatés pour le travail sur Terre)"
+current_status = "Actif ; conduit la préparation de l'Ère du Verseau à travers le Mouvement raëlien et le projet d'ambassade ; prépare le retour ouvert à l'ambassade achevée"
+principal_text = "Passages de la Bible hébraïque sur le conseil divin ; *Le Livre qui dit la vérité* (Vorilhon/Raël, 1974) ; *Les Extra-terrestres m'ont emmené sur leur planète* (1975)"
+principal_framework_source = "*Les Extra-terrestres m'ont emmené sur leur planète* (Vorilhon/Raël, 1975), « La rencontre avec les anciens prophètes »"
 +++
 
 The **Council of the Eternals** (also the Grand Council of the Eternals, the Council, the Divine Council, or the Divine Assembly) is the governing body of the Elohim civilization: a 700-member political authority of senior **Eternals** — individuals who have undergone the cloning-and-memory-transfer technology that produces practical immortality, living on across successive bodies. It sits on the second smaller planet of the alliance home stellar system (the Planet of the Eternals), where its members reside alongside roughly 8,400 resurrected humans selected for the same treatment. Yahweh, the first individual on whom the technology was successfully applied, has presided over it for approximately 25,000 years.

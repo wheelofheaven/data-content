@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,17 +16,26 @@ category = "Science & Technology"
 entry_type = "concept"
 alternative_names = ["astrobiology", "exobiology (earlier synonymous term)", "bioastronomy", "xenobiology (related but distinct)", "astrobiologie (French)", "Astrobiologie (German)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "מקרוביולוגיה", path = "wiki/macrobiology", description = "התחום האח: האסטרוביולוגיה חוקרת חיים ביקום, והמקרוביולוגיה חוקרת חיים כיחידות החיות הגדולות יותר של היקום." },
+    { title = "כוכב־האם של האלוהים", path = "wiki/elohim-home-planet", description = "העולם שהמסגרת מציעה כדוגמה השנייה לחיים, החסרה לאסטרוביולוגיה." },
+    { title = "השערת האסטרונאוטים הקדמונים", path = "wiki/ancient-astronaut-hypothesis", description = "המסורת הסמוכה, הקוראת עדויות היסטוריות ולא עכשוויות למגע." },
+    { title = "השרשרת הקוסמית", path = "wiki/cosmic-chain", description = "תיאור המסגרת של ציוויליזציות הזורעות חיים, הרקע לקריאתה בפנספרמיה מכוונת." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "המסגרת הרחבה הממקמת את טענת הבריאה לצד האסטרוביולוגיה המקובלת." },
+    { title = "משוואת דרייק", path = "wiki/drake-equation", description = "המסגרת ההסתברותית לספירת ציוויליזציות מתקשרות ושאלת פרמי שהיא מעלה." },
+    { title = "ז׳אן סנדי", path = "wiki/jean-sendy", description = "המחבר שטיעון נקודת הנתונים היחידה שלו ממסגר את קריאת הקורפוס בשאלת האסטרוביולוגיה." },
+]
 
 [extra.infobox]
-type = "Multidisciplinary scientific field studying the origin, evolution, distribution, and future of life in the universe; subject of substantive corpus engagement at the intersection of mainstream science and the alliance-contact framework"
-discipline_founding = "Joshua Lederberg coined *exobiology* in 1960; the substantial NASA Exobiology Program established 1959-1960; the term *astrobiology* came into general use in the 1990s with the founding of the NASA Astrobiology Institute (1998)"
-principal_methodological_constraint = "Sendy's single-data-point constraint (1970): mainstream biology has access to only terrestrial life as its empirical foundation; general laws of biology derived from this single example operate under substantive methodological limitation"
-principal_research_methods = "Observational astronomy (telescopes, spectroscopy of exoplanet atmospheres); laboratory simulations of extraterrestrial conditions; in situ measurement (Mars rovers, planned Europa mission); theoretical modeling and computer simulation; meteorite analysis; extremophile biology research"
-principal_contemporary_programs = "Exoplanet detection (Kepler, TESS, JWST); Mars missions (Curiosity, Perseverance); Europa Clipper (launched 2024); SETI (Allen Telescope Array, Breakthrough Listen); origin-of-life research (RNA World, alkaline hydrothermal vents, metabolism-first hypotheses)"
-principal_pre_modern_history = "Greek atomist tradition (Anaxagoras, Democritus, Epicurus, Lucretius); medieval Islamic engagement (al-Kindi, al-Biruni); Renaissance plurality-of-worlds tradition (Nicholas of Cusa, Bruno, Kepler); early-modern engagement (Fontenelle, Huygens); 19th-century engagement (Flammarion); 20th-century engagement (Tsiolkovsky, Sagan)"
-corpus_position = "Mainstream astrobiology engaged as substantive scientific work; Vorilhon-source content articulated as documenting alliance-contact narrative that provides the substantive second data point Sendy articulated as resolution to the single-data-point constraint; mainstream science and alliance-contact framework presented as substantively complementary research programs rather than as competing alternatives"
-distinguished_from = "SETI narrowly (the search for technological signals; one component of astrobiology); UFO studies (the engagement with reported sightings; methodologically distinct register); the Ancient Astronaut Hypothesis (the engagement with historical evidence for past contact; substantively adjacent but distinct discipline); xenobiology (the speculative discipline of designing or imagining non-Earth-like biological systems)"
-status_in_framework = "Principal contemporary scientific discipline engaging the corpus's empirical claims about extraterrestrial civilizational existence; substantive corpus engagement at the intersection of mainstream science and the alliance-contact framework"
+type = "תחום מדעי החוקר את מוצא החיים ביקום, את התפתחותם, תפוצתם ועתידם; הדיסציפלינה המקובלת שהמסגרת של Wheel of Heaven קוראת מבעד לעדשת הפנספרמיה המכוונת"
+discipline_founding = "המונח *אקסוביולוגיה* נטבע על ידי ג'שוע לדרברג ב־1960; תוכנית האקסוביולוגיה של נאס״א הוקמה ב־1959–1960; המונח *אסטרוביולוגיה* נכנס לשימוש כללי בשנות התשעים, ומוסד עם ייסוד מכון האסטרוביולוגיה של נאס״א (1998)"
+principal_methodological_constraint = "בעיית נקודת הנתונים היחידה של סנדי (1970): לביולוגיה יש רק דוגמה אחת — החיים הארציים — ולכן כל חוק כללי הנגזר ממנה נותר זמני עד שיימצא או יסופק מקרה שני"
+principal_research_methods = "אסטרונומיה תצפיתית וספקטרוסקופיה אטמוספרית; סימולציה במעבדה של תנאים פלנטריים ושל כימיה קדם־ביוטית; מדידה באתר (רכבי שטח במאדים, Europa Clipper); מידול תאורטי; ניתוח מטאוריטים; ביולוגיה של אקסטרמופילים"
+principal_contemporary_programs = "גילוי כוכבי לכת חוץ־שמשיים (קפלר, TESS,‏ JWST); משימות למאדים (Curiosity,‏ Perseverance); Europa Clipper (שוגרה ב־2024); SETI (Allen Telescope Array,‏ Breakthrough Listen); מחקר מוצא החיים (עולם ה־RNA, ארובות הידרותרמיות, חילוף חומרים תחילה)"
+principal_pre_modern_history = "האטומיסטים היוונים (אנקסגורס, דמוקריטוס, אפיקורוס, לוקרטיוס); ההגות האסלאמית בימי הביניים (אל־כנדי, אל־בירוני); מסורת ריבוי העולמות של הרנסנס (ניקולאוס קוזאנוס, ברונו, קפלר); כותבים בראשית העת החדשה (פונטנל, הויגנס); פלמריון במאה התשע־עשרה"
+corpus_position = "האסטרוביולוגיה המקובלת נדונה כמדע לגיטימי; המסגרת קוראת את החיים הארציים כיצירה המתוכננת של האלוהים — גרסה מוחשית של פנספרמיה מכוונת (קריק ואורגל, 1973) — ומודה שקריאה זו אינה מאומתת באופן עצמאי לפי אמות מידה מדעיות"
+distinguished_from = "SETI (החיפוש אחר סימנים טכנולוגיים; חלק אחד מן האסטרוביולוגיה); מחקרי עב״מים / UAP (רובד ראייתי נפרד); השערת האסטרונאוטים הקדומים (ראיות היסטוריות ולא עכשוויות); קסנוביולוגיה (תכנון ביוכימיה שאינה דמוית־ארץ)"
+status_in_framework = "הדיסציפלינה המדעית העכשווית העוסקת באופן הישיר ביותר בטענת הבריאה של הקורפוס; התחום שבתוכו ממקמת המסגרת את קריאת הפנספרמיה המכוונת שלה"
 +++
 
 **Astrobiology** is the scientific study of life in the universe — its origin,

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,17 +14,25 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Engineering biology", "Constructive biology", "Designed biology", "SynBio"]
+alternative_names = ["공학 생물학", "구성 생물학", "설계된 생물학", "SynBio"]
+see_also = [
+    { title = "창세기 도구 상자", path = "wiki/genesis-toolbox", description = "프로그램 수준의 종합: 정경의 창조 스택이며, 이 분과는 그에 가장 가까운 현대적 대응물입니다." },
+    { title = "생명공학(라이프 엔지니어링)", path = "wiki/life-engineering", description = "합성생물학에 대한 수렴 논증 전체가 전개되는 상위 분야." },
+    { title = "유전공학", path = "wiki/genetic-engineering", description = "합성생물학이 겹치며 진정한 공학 분과의 실천으로 확장하는 더 오래된 분야." },
+    { title = "합성유전체학", path = "wiki/synthetic-genomics", description = "합성생물학이 겹치며 포함하는, 전체 유전체를 다루는 자매 분야." },
+    { title = "엘로힘", path = "wiki/elohim", description = "프레임워크가 합성생물학이 그 실행적 어휘와 가장 가깝게 일치한다고 읽는 문명." },
+    { title = "창세기", path = "wiki/genesis", description = "프레임워크가 먼 고대의 공학적 생물학을 묘사한 것으로 읽는 창조 기사." },
+]
 
 [extra.infobox]
-type = "Engineering discipline applied to living systems"
-parent_field = "Life engineering"
-sister_fields = "Genetic engineering; synthetic genomics; xenobiology"
-distinguishing_feature = "Engineering-discipline practice (standardisation, modularity, abstraction, design–build–test cycles) applied to biological systems"
-foundational_milestones = "Repressilator (Elowitz and Leibler, 2000); genetic toggle switch (Gardner, Cantor, and Collins, 2000); first synthesis of a viral genome (Wimmer, 2002); BioBricks standard and Registry of Standard Biological Parts (Knight, 2003); iGEM (2004); semi-synthetic artemisinin (Keasling and colleagues, 2005 onward); JCVI-syn1.0 (2010)"
-key_techniques = "Genetic circuit design; metabolic pathway engineering; protein engineering (rational design and directed evolution); cell-free reaction systems; CRISPR-based circuit construction"
-current_status = "Active scientific discipline; commercial deployment in pharmaceuticals, food, materials, and industrial chemicals; multi-billion-dollar industry sector"
-framework_significance = "The discipline whose engineering-discipline vocabulary and methods most directly match the operational description of the Elohim's work in the Raëlian source material"
+type = "살아 있는 체계에 적용되는 공학 분야"
+parent_field = "생명 공학"
+sister_fields = "유전공학; 합성 유전체학; 제노생물학"
+distinguishing_feature = "공학 분야의 실천(표준화, 모듈화, 추상화, 설계–제작–시험 주기)을 생물 체계에 적용함"
+foundational_milestones = "리프레실레이터(엘로위츠와 라이블러, 2000); 유전자 토글 스위치(가드너, 캔터, 콜린스, 2000); 최초의 바이러스 유전체 합성(위머, 2002); 바이오브릭스 표준과 표준 생물학적 부품 등록소(나이트, 2003); iGEM(2004); 반합성 아르테미시닌(키슬링 연구진, 2005년 이후); JCVI-syn1.0(2010)"
+key_techniques = "유전자 회로 설계; 대사 경로 공학; 단백질 공학(합리적 설계와 유도 진화); 무세포 반응 체계; CRISPR 기반 회로 구축"
+current_status = "활발한 과학 분야; 의약품, 식품, 소재, 산업용 화학 물질에 상업적으로 적용됨; 수십억 달러 규모의 산업 부문"
+framework_significance = "그 공학 분야의 어휘와 방법이 라엘리안 원전 자료에 나오는 엘로힘의 작업에 대한 작전적 묘사와 가장 직접적으로 일치하는 분야"
 +++
 
 **Synthetic biology** is the engineering-discipline branch of contemporary [life engineering](../life-engineering/). It applies engineering methods — standardisation, modularity, abstraction, characterisation, and design–build–test cycles — to the construction of biological systems with predetermined properties. The field is distinguished from older [genetic engineering](../genetic-engineering/), which it overlaps and extends, by its programmatic commitment to genuine engineering-discipline practice rather than the case-by-case empirical approach that characterised most pre-2000 biological-modification work; and from [synthetic genomics](../synthetic-genomics/), which it overlaps and includes, by its concern with sub-systems and components in addition to complete genomes.

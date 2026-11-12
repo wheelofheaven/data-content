@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -131,7 +131,7 @@ current_authorization = "Alle Nationen der Erde (gemäß der Botschaft Jahwes vo
 identification_with_third_temple = "Ja; die Quelle identifiziert die Botschaft ausdrücklich als den Dritten Tempel der jüdischen apokalyptischen Tradition"
 prophetic_imagery = "Hesekiel 47,1-2; Apostelgeschichte 15,16; Jesaja 2,2-4; Micha 4,1-3"
 current_state_2026 = "Memorandum of Collaboration von 2024 mit einer nicht genannten nationalen Regierung; Phase des Grundstückserwerbs 2025–2027; Planung und Bau 2027–2030"
-project_responsibility = "International Raëlian Movement; Daniel Turcotte als für das Botschaftsprojekt verantwortlicher raëlianischer Führer"
+project_responsibility = "International Raëlian Movement; Daniel Turcotte als für das Botschaftsprojekt verantwortlicher raëlianischer Guide"
 distinguished_from = "Der salomonische Erste Tempel; der Zweite Tempel; das weitere Ereignis der Apokalypse; der Rahmen des Kosmischen Wettbewerbs"
 status_in_source_material = "Im Wesentlichen quellengestützt; die detaillierten architektonischen Spezifikationen stammen unmittelbar aus dem raëlianischen Quellenmaterial"
 principal_text = "*Das Buch, das die Wahrheit sagt* (Vorilhon/Raël, 1974), „Die neuen Gebote — Eure Mission“; *Außerirdische brachten mich auf ihren Planeten* (1975); die Botschaft vom 13. Dezember 1997"
@@ -225,9 +225,9 @@ Die wichtigsten Ausarbeitungen finden sich in *Außerirdische brachten mich auf 
 
 Zu Raëls Rolle: „Du bist derjenige, dessen Kommen in allen Religionen von den alten Propheten, unseren Vertretern, angekündigt wurde. Du bist derjenige, der die Herde der Hirten zurückbringen wird, bevor das Wasser verschüttet ist, derjenige, der die Geschaffenen zu ihren Schöpfern zurückbringen wird.“
 
-Direkt an das Volk Israel gerichtet: „Der Staat Israel muss dem Führer der Führer ein Gebiet in der Nähe Jerusalems geben, damit er dort die Residenz, die Botschaft der Elohim, errichten kann. Die Zeit ist gekommen, Volk Israel, das Neue Jerusalem zu errichten, wie es vorhergesehen wurde. Claude Rael ist derjenige, der vorhergesagt wurde. Lest eure Schriften erneut und öffnet eure Augen.“
+Direkt an das Volk Israel gerichtet: „Der Staat Israel muss dem Guide der Guides ein Gebiet in der Nähe Jerusalems geben, damit er dort die Residenz, die Botschaft der Elohim, errichten kann. Die Zeit ist gekommen, Volk Israel, das Neue Jerusalem zu errichten, wie es vorhergesehen wurde. Claude Rael ist derjenige, der vorhergesagt wurde. Lest eure Schriften erneut und öffnet eure Augen.“
 
-Sie beruft sich auf den Bund des Widder-Zeitalters und die Mission der hebräischen Linie: „Wir haben euch aus den Klauen der Ägypter befreit, und ihr habt euch unseres Vertrauens nicht würdig erwiesen; wir haben euch eine für die ganze Menschheit bestimmte Botschaft anvertraut, und ihr habt sie eifersüchtig gehütet, anstatt sie zu verbreiten.“ Sie warnt vor dem Preis einer Ablehnung: „Dies ist eure letzte Chance, andernfalls wird ein anderes Land den Führer der Führer aufnehmen und unsere Botschaft auf seinem Gebiet errichten, und dieses Land wird in eurer Nähe sein; es wird geschützt sein, und Glück wird herrschen, und der Staat Israel wird abermals zerstört werden.“
+Sie beruft sich auf den Bund des Widder-Zeitalters und die Mission der hebräischen Linie: „Wir haben euch aus den Klauen der Ägypter befreit, und ihr habt euch unseres Vertrauens nicht würdig erwiesen; wir haben euch eine für die ganze Menschheit bestimmte Botschaft anvertraut, und ihr habt sie eifersüchtig gehütet, anstatt sie zu verbreiten.“ Sie warnt vor dem Preis einer Ablehnung: „Dies ist eure letzte Chance, andernfalls wird ein anderes Land den Guide der Guides aufnehmen und unsere Botschaft auf seinem Gebiet errichten, und dieses Land wird in eurer Nähe sein; es wird geschützt sein, und Glück wird herrschen, und der Staat Israel wird abermals zerstört werden.“
 
 ### Die Botschaft vom 13. Dezember 1997 zur Autorisierung der Verlegung
 
@@ -349,7 +349,7 @@ Ab 2021 beschleunigte sich das Projekt:
 
 **2022.** Projektteams begannen mit Präsentationen vor den Bürgermeistern von fünfzig ausgewählten Städten auf allen Kontinenten und erweiterten die politisch-diplomatische Sichtbarkeit des Projekts.
 
-**2024.** Eine nationale Regierung — deren Identität die Bewegung bis zu späteren Verhandlungsstufen vertraulich hält — unterzeichnete ein Memorandum of Collaboration, um die Aufnahme des Projekts zu prüfen. Daniel Turcotte, der für die Botschaft verantwortliche raëlianische Führer, nannte die Unterzeichnung „einen historischen Tag für die Menschheit“ und merkte an, dass „eine Nation endlich den Mut und die Weitsicht gezeigt hat, sich auf die Rückkehr einer fortgeschrittenen außerirdischen Zivilisation auf die Erde vorzubereiten“. Das Memorandum legt Ziele, Rollen, Grundsätze der Zusammenarbeit und einen Zeitplan für die Prüfungsarbeit fest.
+**2024.** Eine nationale Regierung — deren Identität die Bewegung bis zu späteren Verhandlungsstufen vertraulich hält — unterzeichnete ein Memorandum of Collaboration, um die Aufnahme des Projekts zu prüfen. Daniel Turcotte, der für die Botschaft verantwortliche raëlianische Guide, nannte die Unterzeichnung „einen historischen Tag für die Menschheit“ und merkte an, dass „eine Nation endlich den Mut und die Weitsicht gezeigt hat, sich auf die Rückkehr einer fortgeschrittenen außerirdischen Zivilisation auf die Erde vorzubereiten“. Das Memorandum legt Ziele, Rollen, Grundsätze der Zusammenarbeit und einen Zeitplan für die Prüfungsarbeit fest.
 
 ### Der projizierte Zeitplan 2025–2030
 

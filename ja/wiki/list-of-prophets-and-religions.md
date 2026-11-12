@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,20 +14,30 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of religions", "Prophet and tradition index", "Religious-tradition reference"]
+alternative_names = ["宗教の目録", "預言者と伝統の索引", "宗教伝統の参考資料"]
 portrait_id = "prophetic-lineage"
 image = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.avif"
-image_alt = "AI-generated editorial group portrait of the prophetic lineage, with figures from multiple eras arranged around a luminous axis."
-image_caption = "Interpretive portrait for the prophets and religions reference catalogue."
+image_alt = "光り輝く軸の周りに複数の時代の人物が配された、預言者の系譜の、AI生成による編集用の集団肖像。"
+image_caption = "預言者および宗教の参考目録のための解釈的肖像。"
+see_also = [
+    { title = "宗教", path = "wiki/religion", description = "この目録が表にまとめる宗教史についての、この枠組みの読解を展開する親項目。" },
+    { title = "ラエル運動", path = "wiki/raelism", description = "正典自身の伝統。ここで用いる比較の尺度の最上位に位置する。" },
+    { title = "ラエル", path = "wiki/rael", description = "目録が索引化する預言者の系譜における最後の使者。" },
+    { title = "ムハンマド", path = "wiki/muhammad", description = "目録がその伝統を分類し、相互参照する創始の預言者の一人。" },
+    { title = "モーセ", path = "wiki/moses", description = "目録がその伝統を分類し、相互参照する創始の預言者の一人。" },
+    { title = "エロヒム", path = "wiki/elohim", description = "列挙された真正な伝統の背後に、この枠組みがその接触を読み取る文明。" },
+    { title = "諸宗教の宗教", path = "articles/the-religion-of-religions", description = "目録の第二階層の普遍主義のうち三つ ― バハイ教、大本、カオダイ教 ― を、それぞれ自身の言葉でラエル運動と並べる。" },
+    { title = "四十の椅子", path = "articles/the-forty-chairs", description = "この目録の五段階の尺度を、サイエントロジーと、ジョセフ・スミスとハバードの対比に基づいて較正した、明示された六つの検定へと定式化する。" },
+]
 
 [extra.infobox]
-type = "Reference catalogue of religious traditions and their founding figures"
-scope = "Major world religions, regional and ethnic traditions, ancient religions, new religious movements"
-classification_instrument = "Five-tier authenticity scale (canonical / highly likely / likely / unlikely / highly unlikely)"
-authenticity_basis = "Wheel of Heaven framework's reading of each tradition as preserving (or not) authentic testimony of Elohim–human contact"
-companion_entries = "[Religion](../religion/); [Bible](../bible/); [Raëlism](../raelism/); individual entries on the major traditions and their founders"
-caveat = "The catalogue is not exhaustive; coverage is most complete for traditions with substantial historical documentation and dedicated wiki entries"
+type = "宗教伝統とその創始者の参考目録"
+scope = "主要な世界宗教、地域的・民族的伝統、古代宗教、新宗教運動"
+classification_instrument = "五段階の比較の尺度(正典的/非常に可能性が高い/可能性が高い/可能性が低い/非常に可能性が低い)。比較を整理するためのコーパス自身の発見的手法であり、正典は段階を示していない"
+tier_basis = "「正典的」は、口述されたメッセージが使者たちを名指していることを記録する。それ以外の段階は、各創始の物語を正典による接触の記述と照らし合わせたコーパスの作業上の比較を記録するものであり、真正性についての判定ではない"
+companion_entries = "[宗教](../religion/)、[聖書](../bible/)、[ラエル運動](../raelism/)、主要な伝統とその創始者についての個別項目"
+caveat = "目録は網羅的ではない。十分な歴史的記録と専用のウィキ項目を持つ伝統ほど網羅的である"
 +++
 
 This entry catalogues the world's principal religious traditions and the prophets, founders, and visionaries associated with them, with an indication of how each tradition is positioned within the Wheel of Heaven framework's reading of religious history. The catalogue serves three functions: a navigation index for the wiki's coverage of individual traditions, a reference for the corpus's working positions in comparing different traditions, and a transparent statement of the methodology by which tier assignments are made.

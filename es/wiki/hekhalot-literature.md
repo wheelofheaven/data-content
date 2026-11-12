@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["Literatura Hekhalot / Heikhalot (הֵיכָלוֹת)", "Misticismo Merkavah", "Misticismo Merkabah", "la literatura de los 'palacios'", "*ma'aseh merkavah* ('la obra del carro')"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Shi'ur Qomah", path = "wiki/shiur-qomah", description = "El texto de medidas en parasangas transmitido dentro de este corpus y leído por el canon raeliano." },
+    { title = "Cábala", path = "wiki/kabbalah", description = "La mística judía clásica posterior, a la que este estrato precabalístico precede en siglos." },
+    { title = "Árbol de la Vida", path = "wiki/tree-of-life", description = "El diagrama cabalístico que se desarrolla a partir de la tradición del ascenso a través de los palacios." },
+    { title = "Biblia hebrea", path = "wiki/hebrew-bible", description = "Fuente de la visión del carro-trono de Ezequiel, de la que toma su nombre la mística de la merkavá." },
+    { title = "Yahvé", path = "wiki/yahweh", description = "La figura entronizada de la merkavá cuya estatura mide el Shi'ur Qomah incluido en ella." },
+    { title = "Desellados en el año uno", path = "articles/unsealed-in-year-one", description = "Lee los Cantos del Sacrificio Sabático de Qumrán como la liturgia protomerkavá detrás de esta tradición." },
+]
 
 [extra.infobox]
 type = "Corpus de textos místicos judíos de la Antigüedad tardía / Alta Edad Media (precabalístico)"

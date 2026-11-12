@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,24 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "Bioengineering of life", "Living-systems engineering"]
+alternative_names = ["공학 생물학", "설계 생물학", "구성 생물학", "생명의 생물공학", "생명 체계 공학"]
+see_also = [
+    { title = "창세기 도구 상자", path = "wiki/genesis-toolbox", description = "프로그램 수준의 종합: 정경의 창조 스택의 중심 국면으로서의 생명공학." },
+    { title = "합성생물학", path = "wiki/synthetic-biology", description = "이 분야의 가장 야심 찬 분파로, 코퍼스가 생명공학이라 부르는 것의 표준적인 분과 이름." },
+    { title = "유전공학", path = "wiki/genetic-engineering", description = "생명공학이라는 상위 범주 안의 기초적인 읽기-쓰기-편집 하위 분과." },
+    { title = "합성유전체학", path = "wiki/synthetic-genomics", description = "새로이 등장하는 인간 역량의 유전체 규모 설계·합성 구성 요소." },
+    { title = "엘로힘", path = "wiki/elohim", description = "프레임워크가 인류가 이제 그 생명 설계 역량에 다시 다가가고 있다고 읽는 문명." },
+    { title = "창세기", path = "wiki/genesis", description = "프레임워크가 엘로힘이 바로 이 역량을 행사한 것을 묘사한다고 읽는 창조 기사." },
+]
 
 [extra.infobox]
-type = "Engineering discipline applied to living systems"
-principal_sub_disciplines = "Genetic engineering; synthetic biology; synthetic genomics; xenobiology"
-adjacent_fields = "Bioinformatics; systems biology; metabolic engineering; protein engineering; directed evolution; cell-free biology; biocomputing; tissue engineering"
-key_capability = "Reading, writing, and editing DNA; designing organisms and biological subsystems at the genetic and molecular level"
-foundational_milestones = "First recombinant DNA (Berg, Boyer, Cohen — 1972–73); first commercial recombinant pharmaceutical (Humulin, 1982); first complete genome sequence (1995); first cell with synthetic genome (JCVI-syn1.0, 2010); first minimal synthetic cell (JCVI-syn3.0, 2016); CRISPR–Cas9 (Doudna and Charpentier, 2012); first CRISPR gene therapy approval (Casgevy, 2023)"
-current_status = "Active and rapidly developing scientific and industrial field; capability expanding by orders of magnitude per decade"
-framework_significance = "The contemporary terrestrial development of the capability the source material attributes to the Elohim civilization; on the framework, the most concrete convergence between source-predicted and observed human development in the Aquarian period"
+type = "살아 있는 체계에 적용되는 공학 분야"
+principal_sub_disciplines = "유전공학; 합성생물학; 합성 유전체학; 제노생물학"
+adjacent_fields = "생물정보학; 시스템생물학; 대사공학; 단백질공학; 유도 진화; 무세포 생물학; 생물 컴퓨팅; 조직공학"
+key_capability = "DNA를 읽고, 쓰고, 편집함; 유전적·분자적 수준에서 생물과 생물학적 하위 체계를 설계함"
+foundational_milestones = "최초의 재조합 DNA(버그, 보이어, 코언 — 1972–73); 최초의 상업용 재조합 의약품(휴뮬린, 1982); 최초의 완전한 유전체 서열(1995); 합성 유전체를 지닌 최초의 세포(JCVI-syn1.0, 2010); 최초의 최소 합성 세포(JCVI-syn3.0, 2016); CRISPR–Cas9(다우드나와 샤르팡티에, 2012); 최초의 CRISPR 유전자 치료제 승인(카스게비, 2023)"
+current_status = "활발하고 빠르게 발전하는 과학·산업 분야; 역량이 10년마다 몇 자릿수씩 확대되고 있음"
+framework_significance = "원전 자료가 엘로힘 문명에 귀속시키는 역량의 현대 지구적 발전; 틀에서는 물병자리 시대에 원전이 예견한 것과 관찰된 인류의 발전 사이의 가장 구체적인 수렴"
 +++
 
 **Life engineering** is the application of scientific and engineering methods to the deliberate design and construction of living organisms or biological systems with novel functions, characteristics, or capabilities. It is a contemporary scientific and industrial field, in active development since the early 1970s and expanding rapidly across the 2010s and 2020s. The term is used as an umbrella for several closely related disciplines — most prominently *genetic engineering*, *synthetic biology*, *synthetic genomics*, and *xenobiology* — that share the common project of treating living matter as something that can be designed at the molecular level rather than only observed and described.

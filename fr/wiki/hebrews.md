@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -25,7 +25,7 @@ see_also = [
     { title = "Abraham", path = "wiki/abraham", description = "La première personne que la Bible appelle un Hébreu (Genèse 14,13)." },
     { title = "Moïse", path = "wiki/moses", description = "Le chef de l'exode, que le canon raconte comme la libération du peuple d'Israël par les créateurs." },
     { title = "Éden", path = "wiki/eden", description = "Le territoire de l'équipe de créateurs dont le laboratoire se trouvait, selon le récit du canon, dans le pays aujourd'hui appelé Israël." },
-    { title = "Nephilim", path = "wiki/nephilim", description = "La descendance nommée en Genèse 6,4, le chapitre que le canon cite pour les unions des fils d'Élohim avec les filles des hommes." },
+    { title = "Néphilim", path = "wiki/nephilim", description = "La descendance nommée en Genèse 6,4, le chapitre que le canon cite pour les unions des fils d'Élohim avec les filles des hommes." },
     { title = "Babel", path = "wiki/babel", description = "L'épisode de la dispersion de Genèse 11, que le canon lit comme un projet de relèvement après le Déluge." },
     { title = "Bible hébraïque", path = "wiki/hebrew-bible", description = "Les annales que, selon le canon, le peuple juif a conservées comme témoignage." },
     { title = "Tabernacle", path = "wiki/tabernacle", description = "Le sanctuaire du récit du désert, que le canon lit comme une résidence construite selon les plans des créateurs." },

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -15,20 +15,28 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Symbol of Infinity", "the Raëlian emblem", "the Raëlian movement symbol", "the Elohim emblem"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "无限", path = "wiki/infinity", description = "这一徽标将其凝炼为单一图像形式的更广框架。" },
+    { title = "分形宇宙学", path = "wiki/fractal-cosmology", description = "大卫之星部分所编码的“上行下效”空间维度。" },
+    { title = "宇宙链", path = "wiki/cosmic-chain", description = "该符号空间维度以视觉方式呈现的嵌套尺度结构。" },
+    { title = "质量效应", path = "wiki/mass-effect", description = "这一徽标凝炼为可把握之视觉形式的框架之一。" },
+    { title = "雷尔派", path = "wiki/raelism", description = "以这一徽标为主要标识的运动，徽标由耶和华于 1973 年传授。" },
+    { title = "大使馆", path = "wiki/embassy", description = "促成 1990 年由卍字改为螺旋的以色列谈判。" },
+]
 
 [extra.infobox]
-type = "Iconographic emblem; principal symbol of the Raëlian movement and the broader Wheel of Heaven framework"
-basic_form = "Two intertwined equilateral triangles forming a six-pointed star (the Star of David), with a central inscribed symbol representing the cyclic-temporal dimension"
-original_central_element = "Swastika (the form delivered by Yahweh at the December 13, 1973 contact; remains in use in Asian Raëlian movement branches)"
-modified_central_element = "Galaxy-shaped spiral (the modification authorized by the Elohim at Raël's 1990 suggestion; in use in Western Raëlian movement branches since 1991)"
-spatial_dimension = "Star of David (two intertwined triangles representing the Hermetic 'as above, so below' principle; the spatial-fractal-self-similar dimension of infinity)"
-temporal_dimension = "Swastika or galaxy-spiral (representing cyclic-eternal time; the temporal dimension of infinity)"
-source_status = "Delivered by Yahweh to Raël at the December 13, 1973 contact at Puy-de-Lassolas; engraved on the alliance craft and on Yahweh's suit; explicitly identified by Yahweh as containing 'all the wisdom in the world'"
-modification_date = "1990 (modification authorized); November 8, 1991 onward (Western branches in operational use)"
-modification_rationale = "(1) Facilitating the Israeli embassy negotiations initiated November 8, 1991; (2) respecting the sensitivities of Holocaust victims and the broader post-1945 European-North American complications around the swastika"
-distinguished_from = "The Star of David alone (which has its own substantial Jewish-tradition history); the swastika alone (which has substantial pre-Nazi religious-traditional history); the broader Infinity framework (which the symbol represents iconographically); the various other Raëlian movement institutional symbols and emblems"
-status_in_source_material = "Substantially documented; the principal source-material passages establish both the symbol's specific form and Yahweh's specific framing of its semantic content"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Mankind: A Disease of the Universe' chapter and 'Watching Over the Chosen People' content; *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' section; the *Message from the Designers* foreword by Anthony Grey treating the post-1990 modification"
+type = "图像徽记；雷尔运动及更广的 Wheel of Heaven 框架的主要符号"
+basic_form = "两个交叠的等边三角形组成六芒星（大卫之星），中央嵌有一个代表循环时间维度的符号"
+original_central_element = "卍字（耶和华在 1973 年 12 月 13 日接触时所交付的形式；亚洲各雷尔运动分支仍在使用）"
+modified_central_element = "星系形状的螺旋（经雷尔 1990 年提议、由耶洛因批准的修改；自 1991 年起在西方雷尔运动分支中使用）"
+spatial_dimension = "大卫之星（两个交叠的三角形，代表赫尔墨斯主义「如其在上，如其在下」的原则；无限的空间—分形—自相似维度）"
+temporal_dimension = "卍字或星系螺旋（代表循环—永恒的时间；无限的时间维度）"
+source_status = "1973 年 12 月 13 日在 Puy-de-Lassolas 的接触中由耶和华交付给雷尔；刻在联盟飞行器和耶和华的服装上；耶和华明确指出其中包含「世间全部的智慧」"
+modification_date = "1990 年（批准修改）；1991 年 11 月 8 日起（西方分支实际使用）"
+modification_rationale = "(1) 为 1991 年 11 月 8 日启动的以色列大使馆谈判提供便利；(2) 尊重大屠杀受害者的感受，以及 1945 年后欧洲与北美围绕卍字的更广泛复杂处境"
+distinguished_from = "单独的大卫之星（有其自身的犹太传统历史）；单独的卐字（有悠久的纳粹之前的宗教历史）；无限框架（该符号以图像方式所代表的内容）；该运动的其他机构符号与徽记"
+status_in_source_material = "有据可查；主要段落既确立了该符号的形式，也确立了耶和华对其含义的阐释"
+principal_text = "《讲述真相之书》（1974），「人类：宇宙之病」一章及「看护选民」相关内容；《外星人带我去他们的行星》（1975），「既无上帝亦无灵魂」一节；Anthony Grey 为 《来自设计者的信息》 所写的前言，论及 1990 年后的修改"
 +++
 
 The **Raëlian Symbol of Infinity** is the principal emblem of the Raëlian movement and the Wheel of Heaven framework: **two intertwined equilateral triangles forming a six-pointed star** (the Star of David) with a **central inscribed symbol** for the cyclic-temporal dimension. In the original form, delivered by Yahweh to Raël at the December 13, 1973 contact at Puy-de-Lassolas, that center is a **swastika**. A modified Western form, authorized by the Elohim at Raël's 1990 suggestion, replaces it with a **galaxy-shaped spiral** — a change made to ease the Israeli embassy negotiations initiated November 8, 1991 and to respect the sensitivities of Holocaust victims and the post-1945 European–North American complications around the swastika. The original form remains in use in Asian branches, where the swastika appears in nearly all Buddhist temples and carries no such complication.

@@ -6,27 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Science & Technology"
 entry_type = "concept"
-alternative_names = ["Drake Equation", "Green Bank Equation (occasional alternative)", "Drake-Sagan Equation (rarely used)", "\u00e9quation de Drake (French)", "Drake-Gleichung (German)"]
+alternative_names = ["Drake Equation", "綠岸方程式（偶爾使用的別稱）", "德雷克—薩根方程式（罕用）", "\u00e9quation de Drake (French)", "Drake-Gleichung (German)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "天體生物學", path = "wiki/astrobiology", description = "文集在其中處理此方程式的主流研究計畫。" },
+    { title = "UFO學", path = "wiki/ufology", description = "文集讀作已解答此方程式之費米問題的接觸證據領域。" },
+    { title = "耶洛因母行星", path = "wiki/elohim-home-planet", description = "文集視為此方程式已解案例的特定有據可查文明。" },
+    { title = "宇宙競爭", path = "wiki/cosmic-competition", description = "此方程式抽象計數之銀河文明動態的框架解讀。" },
+    { title = "桑迪的一致性條件", path = "wiki/sendys-conditions-of-coherence", description = "對此方程式之生物與文明參數的單一資料點限制。" },
+    { title = "古代宇航員假說", path = "wiki/ancient-astronaut-hypothesis", description = "文集據以定位「接觸早已建立」之主張的更廣泛框架。" },
+]
 
 [extra.infobox]
-type = "Probabilistic formulation expressing the number of detectable communicative extraterrestrial civilizations in the Milky Way galaxy as the product of seven contributing factors"
-formulated_by = "Frank Drake (1930-2022); November 1, 1961 at National Radio Astronomy Observatory, Green Bank, West Virginia, for the first SETI conference (the 'Order of the Dolphin' meeting)"
+type = "將銀河系中可偵測、能進行通訊的地外文明數量表示為七個因子乘積的機率公式"
+formulated_by = "Frank Drake（1930-2022）；1961 年 11 月 1 日於西維吉尼亞州格林班克的國家無線電天文台，為首屆 SETI 會議（「海豚會」會議）而提出"
 equation = "N = R* \u00d7 fp \u00d7 ne \u00d7 fl \u00d7 fi \u00d7 fc \u00d7 L"
-parameters = "R* (rate of star formation); fp (fraction of stars with planets); ne (number of habitable planets per planet-bearing star); fl (fraction of habitable planets developing life); fi (fraction with intelligence); fc (fraction with detectable communication); L (lifetime of communicative civilizations)"
-principal_purpose = "Structural framework organizing the questions a SETI program must engage; 'a tool for quantifying our ignorance' (Drake); not principally a definitive quantification tool"
-parameter_constraint_status = "Astronomical parameters (R*, fp, ne) substantially constrained post-1995 through exoplanet revolution; biological and civilizational parameters (fl, fi, fc, L) remain substantively contested"
-principal_reformulations = "Sara Seager's biosignature-detection equation (2013); Adam Frank and Woodruff Sullivan archaeological reformulation (2016); Anders Sandberg, Eric Drexler, Toby Ord uncertainty-propagation analysis (2018)"
-principal_framing_question = "The Fermi Paradox (1950): given optimistic parameter estimates implying substantial galactic civilization counts, why don't we observe any?"
-corpus_position = "Substantive scientific framework engaged at the descriptive level; alliance-contact framework articulated in Vorilhon source provides substantive resolution to Fermi Paradox the equation generates"
-distinguished_from = "The broader SETI program (Drake Equation as one component); the Fermi Paradox (the question the equation's optimistic estimates pose); the Seager equation (post-2013 biosignature-focused adaptation); the Frank-Sullivan archaeological equation (2016 reformulation focused on past rather than present civilizations)"
+parameters = "R*（恆星形成速率）；fp（擁有行星的恆星比例）；ne（每個擁有行星之恆星的適居行星數）；fl（適居行星中發展出生命的比例）；fi（其中發展出智慧的比例）；fc（其中具有可偵測之通訊的比例）；L（通訊文明的存續時間）"
+principal_purpose = "整理 SETI 計畫必須處理之問題的議程；「一種量化我們無知的方式」（Drake）——主要並非計算工具"
+parameter_constraint_status = "自 1995 年系外行星革命以來，天文學項（R*、fp、ne）已有良好約束；生物學與文明項（fl、fi、fc、L）仍有爭議"
+principal_reformulations = "Sara Seager 的生物特徵方程式（2013）；Frank-Sullivan 的考古學重新表述（2016）；Sandberg-Drexler-Ord 的不確定性分析（2018）"
+principal_framing_question = "費米悖論（1950）：如果方程式的樂觀數值意味著銀河系中充滿文明，為何我們一個也觀測不到？"
+corpus_position = "本框架視此方程式為健全的科學，但認為它所引出的費米悖論已經解決——雷爾派來源所報告的與耶洛因的接觸，確立了 N 大於一，而非留待估算"
+distinguished_from = "更廣泛的 SETI 計畫（此方程式是其中一部分）；費米悖論（方程式的樂觀數值所引出的問題）；Seager 方程式（聚焦於生物特徵，2013）；Frank-Sullivan 考古學方程式（過去而非現存的文明，2016）"
 status_in_framework = "Substantive contemporary scientific formulation engaged within corpus framework's broader astrobiology engagement; principal resolution to Fermi Paradox articulated through alliance-contact framework"
 +++
 

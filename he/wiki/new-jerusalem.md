@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,16 +16,24 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the New Jerusalem", "Third Temple (Jewish-historical register)", "Embassy (contemporary operational register)", "the Heavenly Jerusalem (Christian-apocalyptic register)", "the descending Holy City (Revelation 21 designation)", "the residence of the Elohim (Vorilhon source designation)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "השגרירות", path = "wiki/embassy", description = "המפרט המעשי של אותו מבנה." },
+    { title = "בית המקדש השלישי", path = "wiki/third-temple", description = "השם בהיסטוריה היהודית לאותו מבנה קבלת פנים מיועד." },
+    { title = "יחזקאל", path = "wiki/ezekiel", description = "הנביא שחזון סף המקדש שלו נקרא בקורפוס כהקדמה מבשרת." },
+    { title = "אפוקליפסה", path = "wiki/apocalypse", description = "האסכטולוגיה של ספר ההתגלות, המספקת את דימוי העיר היורדת." },
+    { title = "תור הזהב", path = "wiki/golden-age", description = "השינוי של עידן הדלי שהמבנה נועד להיות במרכזו ולהקרין ממנו החוצה." },
+    { title = "נחתמו עד השנה הראשונה", path = "articles/unsealed-in-year-one", description = "קורא את טקסט ״ירושלים החדשה״ הארמי מקומראן — העיר המדודה הממתינה לבנייתה — כאב קדמון של ערך זה." },
+]
 
 [extra.infobox]
-type = "Aquarian-age physical-institutional concept; the structure intended to receive the alliance's formal arrival and to serve as the operational location of human-Elohim diplomatic engagement"
-three_term_identification = "New Jerusalem (Christian-apocalyptic register); Third Temple (Jewish-historical register); Embassy (contemporary operational register) — three terms for the same physical-institutional content within distinct interpretive frames"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'To the People of Israel' section; *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979); consolidated *Message from the Designers* (2005)"
-biblical_prefigurations = "Ezekiel 47:1-2 (water from the temple threshold); Acts 15:16 (rebuild the tabernacle of David); Revelation 21:1-3 (descending New Jerusalem)"
-original_location_preference = "Israel near Jerusalem; the geographic site of the original Eden operation; the highest-concentration alliance-contact site on Earth"
-relocation_authorization = "December 13, 1997 Yahweh message — formal authorization to seek permission from any nation following Israeli refusals; Israel preserved as 'last chance' option"
-distinguished_from = "Embassy (the operational-architectural register, treated in dedicated entry); Third Temple (the Jewish-historical register, treated in dedicated entry when written); the historic Solomonic and Second Temples (the prior Jerusalem-temple physical structures)"
-status_in_framework = "Foundational Aquarian-age architectural-institutional concept; the operational center from which Aquarian-age transformative content flows outward; the spiritual and intellectual center of the world for millennia to come"
+type = "מבנה של עידן הדלי שנבנה כדי לקבל את שובם הרשמי של האלוהים; מושב המגע הגלוי בין האלוהים לבני האדם"
+three_term_identification = "ירושלים החדשה (השם הנוצרי־אפוקליפטי); בית המקדש השלישי (השם היהודי־היסטורי); השגרירות (השם המבצעי) — שלושה שמות למבנה אחד"
+principal_source = "*החייזרים לקחו אותי לכוכב שלהם* (וורילון, 1975), 'אל עם ישראל'; *בואו נקבל את פני החייזרים* (1979); *מסר מהמתכננים* (2005)"
+biblical_prefigurations = "יחזקאל מז 1–2 (מים היוצאים מתחת למפתן הבית); מעשי השליחים טו 16 (בניית סוכת דוד מחדש); ההתגלות כא 1–3 (ירושלים החדשה היורדת)"
+original_location_preference = "ישראל, בקרבת ירושלים — אתר מבצע עדן המקורי"
+relocation_authorization = "מסר מיהוה מ־13 בדצמבר 1997 — היתר לבקש מעמד אקס־טריטוריאלי מכל אומה לאחר סירובי ישראל; לישראל נשמרת אפשרות 'הזדמנות אחרונה'"
+distinguished_from = "השגרירות (מפרט מבצעי, ערך נפרד); בית המקדש השלישי (רצף יהודי־היסטורי, ערך נפרד); בית המקדש הראשון והשני ההיסטוריים"
+status_in_framework = "מבנה יסוד של עידן הדלי; המרכז המבצעי שממנו אמורה התמורה של העידן להקרין החוצה"
 +++
 
 **New Jerusalem** is, in the Wheel of Heaven framework, one of three names — alongside

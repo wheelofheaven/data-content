@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,15 +15,23 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
 alternative_names = ["Catalogue of mythological motifs", "Mythological-motif index (framework reading)", "Cross-cultural mythemes catalogue"]
+see_also = [
+    { title = "Mitema", path = "wiki/mytheme", description = "La unidad técnica en la que se apoya el uso del catálogo y que distingue del motivo y del tipo de cuento." },
+    { title = "Génesis", path = "wiki/genesis", description = "La aplicación a escala de capítulo del mismo método de traducción operativa que amplía el catálogo." },
+    { title = "Edén", path = "wiki/eden", description = "Un relato fuente al que se remiten varios motivos catalogados." },
+    { title = "Lucifer", path = "wiki/lucifer", description = "Una figura recurrente en los motivos de conocimiento prohibido y rebelión del catálogo." },
+    { title = "Competencia cósmica", path = "wiki/cosmic-competition", description = "La lectura del marco en la que convergen varios motivos catalogados de guerra entre poderes." },
+    { title = "Religión", path = "wiki/religion", description = "La categoría más amplia de formación de tradiciones en la que se insertan los motivos catalogados." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of cross-cultural mythological motifs with framework readings"
-classification_instrument = "Stith Thompson, *Motif-Index of Folk-Literature* (1955), Section A (Mythological Motifs)"
-scope = "Cosmogonic, theogonic, anthropogonic, and culture-hero motifs with substantial cross-cultural attestation"
-catalogue_columns = "Motif name; Motif-Index code; principal cross-cultural attestations; framework reading"
-framework_method = "Translation of mythological patterns into operational terms consistent with the source material's account of the Elohim's work"
-working_hypothesis = "Wide cross-cultural distribution of certain motifs reflects shared historical reference (the Elohim's contact pattern across human populations) rather than coincidence or independent invention"
-caveat = "Coverage is most complete for motifs with clear framework-relevant content; the catalogue does not exhaust the Motif-Index even within Section A"
+type = "Catálogo de referencia de motivos mitológicos interculturales con lecturas del marco"
+classification_instrument = "Stith Thompson, *Motif-Index of Folk-Literature* (1955), sección A (motivos mitológicos)"
+scope = "Motivos cosmogónicos, teogónicos, antropogónicos y de héroes civilizadores con un testimonio intercultural sustancial"
+catalogue_columns = "Nombre del motivo; código del Motif-Index; principales testimonios interculturales; lectura del marco"
+framework_method = "Traducción de los patrones mitológicos a términos operativos coherentes con el relato que el material de fuente hace de la obra de los Elohim"
+working_hypothesis = "La amplia distribución intercultural de ciertos motivos refleja una referencia histórica compartida (el patrón de contacto de los Elohim con las poblaciones humanas) y no una coincidencia o invención independiente"
+caveat = "La cobertura es más completa para los motivos con un contenido claramente relevante para el marco; el catálogo no agota el Motif-Index ni siquiera dentro de la sección A"
 +++
 
 This entry catalogues the principal cross-cultural mythological motifs the Wheel of Heaven framework reads as preserving, in mythologised form, historical content from the Elohim's interaction with human populations across the Earth project. {% claim(type="speculative", id="woh-claim-0056") %}The catalogue uses **Stith Thompson's *Motif-Index of Folk-Literature*** (1955) as its principal academic classification instrument and supplies, for each motif, a brief inventory of cross-cultural attestations and the framework's adopted reading of what the motif preserves.{% end %}

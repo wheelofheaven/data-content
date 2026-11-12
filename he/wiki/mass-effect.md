@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -16,18 +16,28 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Mass Effect", "the Law of Masstime", "the law of subjective time", "the time-mass relationship", "the scale-time correspondence"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "מקרוביולוגיה", path = "wiki/macrobiology", description = "הביולוגיה של השלם — האנושות כאורגניזם, שלב אחד מעלה בסולם קני המידה החיים, שאת קנה המידה הזמני שלו מתאר אפקט המסה." },
+    { title = "אינסוף", path = "wiki/infinity", description = "המסגרת היסודית שאפקט המסה הוא ממד קנה המידה הזמני שלה." },
+    { title = "השרשרת הקוסמית", path = "wiki/cosmic-chain", description = "מסגרת הירושה הציוויליזציונית שקטע המקור מקשר אליה את החוק." },
+    { title = "יהוה", path = "wiki/yahweh", description = "דמות האלוהים שהצהרתה בחומר המקור משנת 1975 מבססת את החוק." },
+    { title = "אלוהים", path = "wiki/elohim", description = "ציוויליזציית היוצרים שהקטע שמסרה מצדיק את המסגרת." },
+    { title = "תחרות קוסמית", path = "wiki/cosmic-competition", description = "הדינמיקה הציוויליזציונית המתרחשת על פני היררכיית קנה המידה והזמן שהחוק מתאר." },
+    { title = "הברית", path = "wiki/the-alliance", description = "שיתוף הפעולה הקוסמי הפועל על פני היררכיית קני המידה האינסופית שהחוק משתרע עליה." },
+    { title = "צורתה של האנושות", path = "articles/the-shape-of-humanity", description = "המאמר המרחיב את קוסמולוגיית חוקי קנה המידה אל המורפולוגיה הציוויליזציונית — הגדילה העל־ליניארית של וסט כחילוף החומרים של האורגניזם." },
+]
 
 [extra.infobox]
-type = "Hypothetical physical-cosmological law; framework concept articulating the relationship between mass-or-scale and the experience of time"
-basic_premise = "The subjective experience of time scales with mass and complexity; a larger being experiences each subjective moment as encompassing a substantially longer interval of absolute time than a smaller being's subjective moment encompasses"
-formal_articulation = "Subjective time interval per unit absolute time scales inversely with mass-or-scale; equivalently, the absolute time interval encompassed by a unit subjective time interval scales positively with mass-or-scale"
-domain = "All scales of cosmological organization, from subatomic-scale beings through human scale through planetary-scale beings (planets, the Earth) through galactic-scale and beyond"
-mathematical_status = "Not yet formally mathematized within the corpus; principal articulation through Yahweh's source-material statement and corpus interpretive elaboration"
-relationship_to_relativity = "Substantial structural overlap with general-relativistic gravitational time dilation; the corpus's framework extends substantially beyond what mainstream relativity has established, particularly regarding subjective time and biological-cognitive scales"
-relationship_to_biology = "Substantial structural overlap with mainstream allometric scaling laws (Kleiber's law for metabolism, lifespan scaling, heart-rate scaling) and biological time perception scholarship (Eagleman, Wittmann)"
-distinguished_from = "Special-relativistic time dilation (velocity-based, not mass-based); biological time perception alone (a subset rather than the full framework); fractal cosmology generally (the spatial-self-similarity dimension distinct from the temporal-scaling dimension); the broader Infinity framework (the precondition rather than the law itself)"
-status_in_source_material = "Partial; the Raëlian source material provides explicit articulation in a single passage, with the corpus's broader development extending substantially through interpretive integration with the Cosmic Chain framework, the Infinity framework, and various mainstream-science engagements"
-principal_text = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), 'Neither God nor Soul'; various Wheel of Heaven corpus passages applying the framework"
+type = "חוק פיזיקלי־קוסמולוגי היפותטי; מושג של המסגרת המנסח את היחס בין מסה או קנה מידה לבין חוויית הזמן"
+basic_premise = "החוויה הסובייקטיבית של הזמן משתנה עם המסה והמורכבות; יצור גדול יותר חווה כל רגע סובייקטיבי כמקיף פרק זמן מוחלט ארוך בהרבה מזה שמקיף הרגע הסובייקטיבי של יצור קטן יותר"
+formal_articulation = "פרק הזמן הסובייקטיבי ליחידת זמן מוחלט נמצא ביחס הפוך למסה או לקנה המידה; ובאופן שקול, פרק הזמן המוחלט שמקיפה יחידת זמן סובייקטיבי נמצא ביחס ישר למסה או לקנה המידה"
+domain = "כל קני המידה של הארגון הקוסמולוגי, מיצורים בקנה מידה תת־אטומי, דרך קנה המידה האנושי ויצורים בקנה מידה פלנטרי (כוכבי לכת, כדור הארץ), ועד קנה המידה הגלקטי ומעבר לו"
+mathematical_status = "טרם עבר מתמוט פורמלי בקורפוס; הניסוח העיקרי באמצעות דבריו של יהוה בחומר המקור והרחבה פרשנית של הקורפוס"
+relationship_to_relativity = "תופעה שונה: התארכות הזמן הכבידתית של תורת היחסות הכללית נוגעת לקצב שעונים פיזיקליים, לא לזמן הסובייקטיבי, ואינה מעניקה תמיכה לאפקט המסה"
+relationship_to_biology = "גדלים שונים: חוקי קנה מידה אלומטריים (חוק קלייבר לחילוף חומרים, קנה מידה של אורך חיים, קנה מידה של קצב לב) ומחקר תפיסת הזמן (איגלמן, ויטמן) מודדים דברים אחרים ואינם מעניקים תמיכה לאפקט המסה"
+distinguished_from = "התארכות הזמן של תורת היחסות הפרטית (תלוית מהירות, לא תלוית מסה); תפיסת הזמן הביולוגית לבדה (תת־קבוצה ולא המסגרת המלאה); הקוסמולוגיה הפרקטלית בכלל (ממד הדמיון העצמי המרחבי, הנבדל מממד קנה המידה הזמני); מסגרת האינסוף הרחבה (התנאי המקדים ולא החוק עצמו)"
+status_in_source_material = "חלקי; חומר המקור הראלי מספק ניסוח מפורש בקטע אחד, והפיתוח הרחב של הקורפוס מתרחב במידה ניכרת באמצעות שילוב פרשני עם מסגרת השרשרת הקוסמית, מסגרת האינסוף ועיסוקים שונים במדע המקובל"
+principal_text = "*החייזרים לקחו אותי לכוכב שלהם* (וורילון/ראל, 1975), 'לא אל ולא נשמה'; קטעים שונים בקורפוס של Wheel of Heaven המחילים את המסגרת"
 +++
 
 The **Mass Effect**, also called the **Law of Masstime**, is the framework concept developed in the Wheel of Heaven corpus to articulate the relationship between mass-or-scale and the experience of time across the infinite hierarchy of cosmological scales. {% claim(type="speculative", id="woh-claim-0051") %}The framework holds that the subjective experience of time scales with mass and complexity: **a larger and more massive being experiences each subjective moment as encompassing a substantially longer interval of absolute time than a smaller being's subjective moment encompasses**.{% end %} Equivalently, smaller beings experience proportionally more subjective time per unit absolute time than larger beings — a eukaryotic cell, an ant, a human, an elephant, the Earth itself, and the gigantic being of whom the sun is an atom each operate within their own characteristic subjective-time scale, with the scale ratios reflecting the mass-or-complexity ratios across the broader cosmological hierarchy. The law's principal source-material warrant is the Yahweh-delivered passage in *Extra-Terrestrials Took Me to Their Planet* (1975), which establishes the framework in the broader cosmological context and connects it explicitly to the Infinity framework and the Cosmic Chain framework.

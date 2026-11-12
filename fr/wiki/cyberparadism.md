@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -17,7 +17,7 @@ entry_type = "concept"
 claim_type = "framework"
 core_claim_ids = ["woh-claim-0033"]
 core_versions = { woh-claim-0033 = "0.1.0" }
-alternative_names = ["Cyber Paradise", "Cybergenesis", "Neogenesis", "l'esthétique cyberparadiste"]
+alternative_names = ["Cyberparadis", "Cybergenèse", "Néogenèse", "l'esthétique cyberparadiste"]
 timeline = ["age-of-aquarius"]
 
 image = "https://assets.wheelofheaven.world/images/wiki/cyberparadism-eden-valley.webp"

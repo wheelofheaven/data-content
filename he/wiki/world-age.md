@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,20 +16,29 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Precessional Age", "Astrological Age", "Zodiacal Age", "Great Month", "Platonic Month (older Western-philosophical designation)", "Cosmic Age"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "החודש הגדול", path = "wiki/great-month", description = "החלוקה הנרדפת בת 2,160 השנים של השנה הגדולה, שעידן עולם מציין." },
+    { title = "טחנת המלט", path = "wiki/hamlets-mill", description = "השחזור של סנטיאנה ופון דכנד, שממנו המסגרת שואבת את המודל הפרצסיוני שלה." },
+    { title = "החתימה הכפולה", path = "wiki/doubled-signature", description = "העיקרון שלפיו כל עידן מתייחס הן למזלו שלו והן למזל שמנגדו בגלגל המזלות." },
+    { title = "השרשרת הקוסמית", path = "wiki/cosmic-chain", description = "קוסמולוגיית קני המידה המקוננים שבתוכה מאורגנים העידנים הפרצסיוניים." },
+    { title = "רשימת המלכים השומרית", path = "wiki/sumerian-king-list", description = "רשומת מלכים עתיקה שהקורפוס קורא לעומת הכרונולוגיה הפרצסיונית." },
+    { title = "בראשית", path = "wiki/genesis", description = "סיפור הבריאה שהקורפוס ממפה אל רצף העידנים הפרצסיוניים." },
+    { title = "הטחנה הטוחנת את העידנים", path = "articles/the-mill-that-grinds-the-ages", description = "רצף עידני העולם, הנעקב דרך סמלי הפולחן שעקבו אחריו, מ״טחנת המלט״ ועד המזרות." },
+]
 
 [extra.infobox]
-type = "Structural-foundational temporal-cosmological framework concept; the principal organizing temporal unit of the corpus narrative"
-duration = "Approximately 2,160 years per age (one-twelfth of the ~25,920-year Great Year cycle)"
-mechanism = "Produced by the precession of Earth's axis — the slow conical wobble of the rotational axis caused principally by gravitational torque on Earth's equatorial bulge from the sun and moon, completing one full cycle every ~25,920 years at a rate of ~50 arcseconds per year"
-zodiacal_basis = "The twelve constellations of the zodiac, against which the vernal equinox sun rises in succession across the precessional cycle; the equinox moves backward (westward) through the zodiac at one sign per ~2,160 years"
-precessional_direction = "Backward through the zodiac (Capricorn → Sagittarius → Scorpio → Libra → Virgo → Leo → Cancer → Gemini → Taurus → Aries → Pisces → Aquarius → back to Capricorn)"
-great_year_total = "12 ages × 2,160 years = 25,920 years (the complete precessional cycle, also called the Platonic Year, Great Year, or *annus magnus*)"
-current_age = "Age of Aquarius (1950 CE corpus boundary; 1946 CE source-anchored opening) running to ~4110 CE"
-corpus_operational_period = "From the Capricorn-age opening at -21,810 to the Aquarian-age present (approximately 22,000 years), spanning twelve full precessional ages and constituting essentially one complete Great Year of the alliance's creation project"
-foundational_scholarship = "Giorgio de Santillana and Hertha von Dechend, *Hamlet's Mill: An Essay on Myth and the Frame of Time* (Gambit, 1969) — the principal scholarly anchor for the corpus's precessional framework"
-distinguished_from = "Mainstream astrology's tropical-zodiac framework (where signs are tied to seasonal positions rather than to actual constellational positions, decoupled from the precessional motion); the New Age movement's broader Aquarian-age engagement (which operates with various boundary-dating conventions and various interpretive emphases); the broader 'astrological age' popular designation (which often conflates precessional and tropical frameworks)"
-status_in_framework = "Foundational; the World Age operates as the principal organizing temporal-cosmological structure of the entire corpus narrative, with all twelve individual age entries (Capricorn through Aquarius) operating as detailed treatments of specific instances within this overarching framework"
-principal_corpus_treatment = "*timeline.epub*, particularly the Preamble's introduction to the precessional framework, the Libra chapter's articulation of the zodiac as engineering tool (Section VI), the Pisces chapter's articulation of the doubled signature principle, and the Aquarius chapter's articulation of the Great Year completion; *Message from the Designers* references to Aquarius opening; Jean Sendy, *L'ère du Verseau* (1970)"
+type = "העידן הפרצסיוני — שנים־עשר בשנה הגדולה; היחידה של כ־2,160 שנה שהקורפוס משתמש בה כשדרת הכרונולוגיה שלו"
+duration = "כ־2,160 שנים לעידן (אחד חלקי שנים־עשר ממחזור השנה הגדולה בן כ־25,920 שנים)"
+mechanism = "נוצר מנקיפת צירו של כדור הארץ — התנודה החרוטית האיטית של ציר הסיבוב, הנגרמת בעיקר ממומנט הכבידה של השמש והירח על התפיחה המשוונית של כדור הארץ, ומשלימה מחזור מלא אחד בכל כ־25,920 שנים בקצב של כ־50 שניות קשת לשנה"
+zodiacal_basis = "שנים־עשר קבוצות הכוכבים של גלגל המזלות, שעל רקען עולה שמש השוויון האביבי בזו אחר זו לאורך מחזור הנקיפה; השוויון נע אחורה (מערבה) דרך גלגל המזלות בקצב של מזל אחד לכל כ־2,160 שנים"
+precessional_direction = "אחורה דרך גלגל המזלות (גדי ← קשת ← עקרב ← מאזניים ← בתולה ← אריה ← סרטן ← תאומים ← שור ← טלה ← דגים ← דלי ← וחזרה לגדי)"
+great_year_total = "12 עידנים × 2,160 שנים = 25,920 שנים (מחזור הנקיפה השלם, המכונה גם השנה האפלטונית, השנה הגדולה או *annus magnus*)"
+current_age = "עידן הדלי (גבול הקורפוס 1950 לספירה; פתיחה המעוגנת במקור ב־1946 לספירה) הנמשך עד כ־4110 לספירה"
+corpus_operational_period = "מפתיחת עידן הגדי בכ־21,810 לפנה״ס ועד עידן הדלי הנוכחי — כ־22,000 שנה על פני שנים־עשר עידנים פרצסיוניים, בערך שנה גדולה שלמה אחת של מיזם הבריאה של האלוהים"
+foundational_scholarship = "ג'ורג'ו דה סנטיאנה והרתה פון דכנד, *Hamlet's Mill: An Essay on Myth and the Frame of Time* (Gambit, 1969) — העוגן המחקרי העיקרי של המסגרת הנקיפתית של הקורפוס"
+distinguished_from = "הזודיאק הטרופי של האסטרולוגיה המקובלת (מזלות הקשורים לעונות ולא לקבוצות הכוכבים בפועל, מנותקים מן הפרצסיה); 'עידן הדלי' של העידן החדש (מתוארך לפי מוסכמות שונות); וה'עידן האסטרולוגי' העממי והרופף, שלעתים קרובות מבלבל בין המסגרת הטרופית לפרצסיונית"
+status_in_framework = "יסודי; עידן העולם הוא יחידת הכרונולוגיה העיקרית של הקורפוס, וכל אחד משנים־עשר העידנים (מהגדי ועד הדלי) נדון בערך משלו"
+principal_corpus_treatment = "*timeline.epub*, ובמיוחד הקדמת ההקדמה למסגרת הפרצסיונית, תיאור הזודיאק ככלי הנדסי בפרק המאזניים (סעיף VI), פרק הדגים על החתימה הכפולה ופרק הדלי על השלמת השנה הגדולה; *מסר מהמתכננים* על פתיחת עידן הדלי; ז'אן סנדי, *L'ère du Verseau* (1970)"
 +++
 
 A **World Age** — also called a **Precessional Age**, **Astrological Age**,

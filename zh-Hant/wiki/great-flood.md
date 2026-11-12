@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -29,15 +29,18 @@ see_also = [
     { title = "路西法", path = "/wiki/lucifer/", description = "其介入透過方舟行動保全了挪亞的派系。" },
     { title = "耶和華", path = "/wiki/yahweh/", description = "其洪水後表決奠定永不再為承諾的議會領袖。" },
     { title = "永恆者議會", path = "/wiki/council-of-the-eternals/", description = "授權打擊的母星政治機構。" },
-    { title = "洪水前", path = "/wiki/antediluvian/", description = "打擊所終結的洪水前文明時期。" },
+    { title = "大洪水之前", path = "/wiki/antediluvian/", description = "打擊所終結的洪水前文明時期。" },
     { title = "盤古大陸", path = "/wiki/pangaea/", description = "打擊所造成碎裂的超大陸。" },
     { title = "伊甸", path = "/wiki/eden/", description = "洪水前文明所延續譜系的原初聯盟實驗室。" },
     { title = "希伯來聖經", path = "/wiki/hebrew-bible/", description = "洪水敘事的主要經典來源。" },
     { title = "創世記", path = "/wiki/genesis/", description = "包含洪水記載的聖經之書（創世記6–9章）。" },
+    { title = "阿特拉哈西斯", path = "/library/atrahasis-woh/", description = "與希伯來記載高度平行的巴比倫洪水敘事。" },
+    { title = "吉爾伽美什史詩", path = "/library/gilgamesh-woh/", description = "第十一泥板中的美索不達米亞洪水記載。" },
     { title = "所多瑪與蛾摩拉", path = "/wiki/sodom-and-gomorrah/", description = "機制結構上相似的較晚類比性打擊事件。" },
     { title = "巴別", path = "/wiki/babel/", description = "洪水後的文明分散事件。" },
     { title = "雙重署名", path = "/wiki/doubled-signature/", description = "語料庫原則：全球洪水傳統保留底層歷史記憶。" },
-    { title = "神祇之戰", path = "/wiki/theomachy/", description = "打擊所在運作的更廣闊宇宙─政治衝突框架。" },
+    { title = "神戰", path = "/wiki/theomachy/", description = "打擊所在運作的更廣闊宇宙─政治衝突框架。" },
+    { title = "會吏長與龍", path = "articles/the-archdeacon-and-the-dragon", description = "瓦利斯與正典在「洪水即議會決議」上的匯合。" },
 ]
 
 footnotes = [
@@ -49,7 +52,7 @@ footnotes = [
     { content = "方舟動物配對保存（《創世記》6:19-20; 7:2-3）在此框架的解讀中被讀作基因樣本保存，而非實際裝載動物。潔淨動物七對、不潔淨動物一對的區別（《創世記》7:2-3）被讀作反映生殖族群遺傳學考量——洪水後標記為祭祀用之物種所需的較大奠基族群規模。從方舟釋出的鴿子與烏鴉（《創世記》8:6-12）被讀作打擊後環境評估的生物偵察工具，橄欖枝的歸回則標誌足夠的輻射與生態恢復，可供離艙。" },
 ]
 
-hebrew_name = "הַמַּבּוּל (ha-mabbul)"
+hebrew_name = "הַמַּבּוּל（ha-mabbul）"
 greek_name = "ὁ κατακλυσμός (ho kataklysmos，七十士譯本中所用)"
 latin_name = "Diluvium"
 arabic_name = "الطوفان (aṭ-Ṭūfān，古蘭經傳統中所用)"

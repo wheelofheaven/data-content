@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,7 +17,7 @@ core_claim_ids = ["woh-claim-0057"]
 editorial_pass = "2026-08"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["Presidential Unsealing and Reporting System for UAP Encounters", "PURSUE Task Force", "war.gov/UFO (le portail de publication)", "les publications de fichiers UAP"]
+alternative_names = ["Presidential Unsealing and Reporting System for UAP Encounters", "Groupe de travail PURSUE", "war.gov/UFO (le portail de publication)", "les publications de fichiers UAP"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "Ufologie", path = "wiki/ufology", description = "Le champ d'étude au sein duquel s'inscrit la question des dossiers UAP ; PURSUE en est le développement institutionnel de 2026." },

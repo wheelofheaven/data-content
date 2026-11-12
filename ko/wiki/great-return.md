@@ -6,28 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
-redirect_to = { title = "Embassy", path = "/wiki/embassy/" }
+redirect_to = { title = "대사관", path = "/wiki/embassy/" }
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
 claim_type = "direct"
 timeline = ["aquarius"]
-alternative_names = ["The Return", "Second Coming (in some comparative-religion framings)", "The Arrival", "The Reunification"]
+alternative_names = ["귀환", "재림(일부 비교종교학적 틀에서)", "도착", "재결합"]
+see_also = [
+    { title = "대사관", path = "wiki/embassy", description = "인류가 귀환의 주된 전제 조건으로 건설해야 하는 시설." },
+    { title = "제3 성전", path = "wiki/third-temple", description = "히브리어 성경의 성전 복원 예언을 통해 읽은 대사관." },
+    { title = "황금시대", path = "wiki/golden-age", description = "전제 조건이 충족되면 도래가 여는 귀환 이후의 상태." },
+    { title = "영원자 의회", path = "wiki/council-of-the-eternals", description = "그 공식 도래를 귀환이 나타내는 엘로힘의 통치 기구." },
+    { title = "예수", path = "wiki/jesus", description = "프레임워크가 귀환을 가리키는 하나의 어휘로 읽는 기독교 파루시아의 인물." },
+    { title = "예언자 및 종교 목록", path = "wiki/list-of-prophets-and-religions", description = "프레임워크가 같은 사건을 예견하는 것으로 읽는, 전통을 가로지르는 종말론적 인물들." },
+    { title = "햄릿의 맷돌", path = "wiki/hamlets-mill", description = "그 폐위된 '돌아올 황금시대의 주인'을 코퍼스가 귀환과 나란히 읽는 비교 연구." },
+    { title = "시대를 갈아내는 맷돌", path = "articles/the-mill-that-grinds-the-ages", description = "깨어나는 잠든 왕 — 사투르누스, 크로노스, '과거이자 미래의 왕' — 을 귀환의 세차적 형태로 읽습니다." },
+]
 
 [extra.infobox]
-type = "Anticipated official arrival of the Elohim on Earth; the framework's culminating eschatological event"
-designation_origin = "Specifically named in the December 13, 1997 \"Message of the Elohim\" preserved in *Intelligent Design: Messages from the Designers*"
-preconditions = "(1) Humanity's genuine desire for the arrival; (2) demonstration of unification and wisdom to receive advanced knowledge responsibly; (3) construction of the Embassy (\"Third Temple\") on neutral territory; (4) safety guarantee from human military forces"
-knowledge_transfer = "Approximately 25,000 years of scientific knowledge, equivalent to the gap between current human technological capability and the Elohim's"
-embassy_location = "Initially proposed in Israel (preferably Jerusalem area), with seven formal land requests denied by Israeli authorities between approximately 1990 and 2015; on August 6, 2015, the Vorilhon-mediated message declared the Elohim's protection of Israel withdrawn; subsequent proposals have involved Palestinian Authority territories and other locations"
-comparative_eschatology = "Connected by the framework to the Jewish Mashiach, Christian Parousia, Islamic Mahdi and return of Isa, Buddhist Maitreya, Hindu Kalki, Zoroastrian Saoshyant, Taoist Li Hong, and the broader cross-cultural eschatological-savior expectation pattern"
-chronological_placement = "The framework places the Great Return in the Age of Aquarius (post-2,160 CE on the broader reckoning), with the contemporary period (early 21st century CE) as the substantive transitional phase; the specific timing is treated as contingent on the satisfaction of the preconditions"
-primary_sources = "Vorilhon, *Le Livre qui dit la vérité* (1974); *Les extra-terrestres m'ont emmené sur leur planète* (1976); the Messages collection, particularly the December 13, 1997 message; the broader Raëlian Movement publication record"
-framework_significance = "The culminating event of the entire corpus interpretive framework; the substantive teleological orientation of the Elohim project on Earth; the inauguration of the broader Golden Age / Age of Aquarius proper"
+type = "엘로힘의 지구 공식 도착으로 기대되는 사건; 틀의 정점을 이루는 종말론적 사건"
+designation_origin = "*Intelligent Design: Messages from the Designers*에 보존된 1997년 12월 13일의 \"엘로힘의 메시지\"에서 특정하게 명명됨"
+preconditions = "(1) 도착을 바라는 인류의 진정한 소망; (2) 고도의 지식을 책임 있게 받을 수 있는 통합과 지혜의 증명; (3) 중립 지역에 대사관(\"제3 성전\") 건설; (4) 인간 군대로부터의 안전 보장"
+knowledge_transfer = "약 25,000년 분량의 과학 지식으로, 현재 인류의 기술 역량과 엘로힘의 역량 사이의 격차에 해당함"
+embassy_location = "처음에는 이스라엘(가급적 예루살렘 지역)에 제안되었으나, 약 1990년부터 2015년 사이에 일곱 차례의 공식 토지 요청이 이스라엘 당국에 의해 거부되었습니다. 2015년 8월 6일, 보릴롱을 통해 전해진 메시지는 이스라엘에 대한 엘로힘의 보호가 철회되었다고 선언했으며, 이후의 제안에는 팔레스타인 자치정부 지역과 다른 장소들이 포함되었습니다"
+comparative_eschatology = "코퍼스는 유사성의 차원에서 유대교의 마시아흐, 그리스도교의 파루시아, 이슬람의 마흐디와 이사의 재림, 불교의 미륵, 힌두교의 칼키, 조로아스터교의 사오시안트, 도교의 이홍(李弘), 그리고 더 넓은 문화 간 종말론적 구세주 패턴과 비교합니다"
+chronological_placement = "이 체계는 대귀환을 물병자리 시대에 두며, 현대(21세기 초)를 과도기로 봅니다. 시기는 고정된 날짜가 아니라 전제 조건에 달린 것으로 다룹니다"
+primary_sources = "보릴롱, *Le Livre qui dit la vérité*(1974); *Les extra-terrestres m'ont emmené sur leur planète*(1976); 메시지 모음, 특히 1997년 12월 13일의 메시지; 더 넓은 라엘리안 운동의 출판 기록"
+framework_significance = "코퍼스 체계의 정점이 되는 사건. 지구에서의 엘로힘 프로젝트가 지향하는 순간이자 황금시대의 개막"
 +++
 
 **The Great Return** is the Wheel of Heaven framework's name for the anticipated

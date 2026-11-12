@@ -6,28 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["Noah's Ark", "the ark of Noah", "תֵּבַת נֹחַ (Hebrew tevat Noaḥ)", "the preservation vessel", "the orbital spacecraft (corpus reading)", "كَشْتِيُّ نُوحٍ (Arabic safīnat Nūḥ)"]
+alternative_names = ["Arche de Noé", "l'arche de Noé", "תֵּבַת נֹחַ (hébreu tevat Noaḥ)", "le vaisseau de préservation", "le vaisseau spatial en orbite (lecture du corpus)", "كَشْتِيُّ نُوحٍ (arabe safīnat Nūḥ)"]
 timeline = ["age-of-cancer", "age-of-gemini"]
+see_also = [
+    { title = "Noé", path = "wiki/noah", description = "L'humain de la lignée d'Éden qui coordonna l'opération de préservation par l'arche." },
+    { title = "Grand Déluge", path = "wiki/great-flood", description = "Le cataclysme de l'ère des Gémeaux contre lequel l'arche fut construite." },
+    { title = "Lucifer", path = "wiki/lucifer", description = "La faction de créateurs exilés sous la direction de laquelle l'arche fut construite." },
+    { title = "Alliance noahique", path = "wiki/noahic-covenant", description = "L'accord postdiluvien qui formalise la préservation accomplie par l'arche." },
+    { title = "Arche d'alliance", path = "wiki/ark-of-the-covenant", description = "Le coffre plus tardif (aron) que le mot anglais « ark » confond avec la tevah." },
+    { title = "Raël", path = "wiki/rael", description = "Destinataire du récit source qui lit l'arche comme un vaisseau de préservation blindé." },
+]
 
 [extra.infobox]
-type = "Cancer-Gemini-age preservation event; orbital spacecraft constructed under exiled-creator technical direction, crewed by Noah's family"
-hebrew_term = "תֵּבָה (tevah, 'sealed vessel/container'); distinct from אֲרוֹן (aron) used for Ark of the Covenant"
-biblical_location = "Genesis 6:14-9:18 (principal narrative); subsequent references in Matthew 24:38, Luke 17:27, Hebrews 11:7, 1 Peter 3:20, 2 Peter 2:5"
-biblical_dating = "Cancer-Gemini boundary in corpus chronology (c. 6,690 BCE); mainstream conservative-evangelical Christian chronology places construction c. 2300-3000 BCE per Ussher-and-Septuagint frames"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Flood' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Gemini chapter, Sections V-VII"
-core_corpus_articulation = "Orbital spacecraft constructed under exiled-creator technical direction across centuries-long preparation period; crewed by Noah's family (eight humans) and carrying genetic-preservation cargo (single living cells per species) plus living specimens; preserved life through Council-ordered nuclear-missile cataclysm"
-architectural_specifications = "Hebrew *tevah* (sealed vessel) with three stories (Genesis 6:16); gopher wood construction with pitch coating (Genesis 6:14); 300×50×30-cubit dimensions (Genesis 6:15); single window and single door"
-cargo_specification = "Genetic-archive content (single living cells per species, male and female) plus living specimens of certain preserved species; eight human crew (Noah, his wife, Shem-Ham-Japheth, their wives); possible representatives from all seven post-flood lineages"
-operational_sequence = "Construction (centuries-long, on Earth's surface under Council observation); loading (genetic-cargo and living-specimen loading); launch (lifted off surface before/during initial weapon impacts); 150-day orbital phase (during radioactive-decay period); post-flood remediation (exiled creators 'monitored the level of radioactivity and dispersed it scientifically'); atmospheric monitoring (bird-release reconnaissance); landing (on Mount Ararat in biblical tradition)"
-distinguished_from = "The Ark of the Covenant (Aries-age sacred-container, Hebrew *aron* not *tevah*); the Tabernacle (Aries-age portable sanctuary); mainstream wooden-boat readings; conservative young-earth literal-global-flood readings; ancient-astronaut alternative spacecraft readings (Sitchin, von Däniken)"
-status_in_framework = "Foundational Cancer-Gemini-age preservation event; principal originary alliance-and-human collaborative engineering project; structural predecessor to subsequent alliance-and-human engineering projects (Babel, Tabernacle, Solomonic Temple, Embassy)"
+type = "Vaisseau biblique ; lu dans le cadre comme un engin blindé construit sous la direction de la faction Lucifer exilée pour préserver la vie à travers le déluge de l'ère des Gémeaux"
+hebrew_term = "תֵּבָה (*tevah*, « vaisseau scellé, coffre ») ; le même mot rare désigne la corbeille de Moïse enfant (Exode 2:3), distinct du mot ordinaire pour navire (*oniyyah*) et de l'*aron* de l'Arche d'alliance"
+biblical_location = "Genèse 6:14–9:18 (récit principal) ; mentions ultérieures en Matthieu 24:38 ; Luc 17:27 ; Hébreux 11:7 ; 1 Pierre 3:20 ; 2 Pierre 2:5"
+biblical_dating = "Ère des Gémeaux dans la chronologie du corpus (env. 6 690 av. J.-C.) ; les chronologies traditionnelles de la Genèse la situent vers 2300–3000 av. J.-C. dans les cadres d'Ussher et de la Septante"
+principal_source = "*Le Livre qui dit la vérité* (Vorilhon, 1974), section « Le déluge » ; repris dans *Le Message donné par les extra-terrestres* (2005)"
+specifications = "Bois de gopher enduit de poix (*kopher*) à l'intérieur et à l'extérieur ; 300 × 50 × 30 coudées ; une seule fenêtre et une seule porte ; trois étages (Genèse 6:14–16)"
+ark_reading = "Un engin scellé et blindé « élevé au-dessus de la terre » (Genèse 7:17) ; la poix lue comme un blindage, les 150 jours (Genèse 7:24) comme l'intervalle de décroissance des retombées, la cargaison comme des échantillons génétiques plutôt que des couples d'animaux"
+mesopotamian_counterparts = "L'embarcation de roseaux et de bitume d'Atra-ḫasīs et d'Utnapishtim (Gilgamesh XI) ; l'embarcation de Ziusudra (Genèse d'Eridu sumérienne)"
+distinguished_from = "La lecture dominante d'un bateau en bois ; l'Arche d'alliance (hébreu *aron*) ; les lectures jeune-terriennes d'un déluge littéral et mondial ; les lectures alternatives des anciens astronautes (Sitchin, von Däniken)"
 +++
 
 **Noah's Ark** (Hebrew תֵּבָה, *tevah*, a "sealed vessel" or "chest") is the

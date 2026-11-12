@@ -6,9 +6,9 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
-translation_stale = true
+translation_stale = false
 translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.avif"
@@ -19,21 +19,30 @@ category = "Elohim"
 entry_type = "place"
 alternative_names = ["Elohim Home Planet", "the home planet", "the planet of the Elohim", "the planet of the creators", "the planet of the Eternals (per single-planet reading)", "the other world", "the Mormon Kolob (per Tvedtnes hypothesis)"]
 timeline = ["age-of-capricorn", "age-of-aquarius"]
+see_also = [
+    { title = "永遠者の評議会", path = "wiki/council-of-the-eternals", description = "原典の記述において、母惑星に置かれている統治機関。" },
+    { title = "ヤハウェ", path = "wiki/yahweh", description = "永遠者たちの議長であり、母星の最初の不死者。" },
+    { title = "古代宇宙飛行士仮説", path = "wiki/ancient-astronaut-hypothesis", description = "太陽系外の創造者の母星がその中に位置づけられる、より広い枠組み。" },
+    { title = "カバラ", path = "wiki/kabbalah", description = "母星についてのパラサングによる距離の計測がそこに由来する伝統。" },
+    { title = "宇宙の連鎖", path = "wiki/cosmic-chain", description = "母惑星がその一つの環をなす、創造者と被造物の入れ子状の系譜。" },
+    { title = "先駆者たち", path = "wiki/forerunners", description = "母星に先立つエロヒムの系統に種をまいた、それ以前の文明。" },
+    { title = "六つの朝、六つの年", path = "articles/six-mornings-six-years", description = "旅程から、1975年の旅がこの世界には到達していないことを立証する。" },
+]
 
 [extra.infobox]
-type = "Extrasolar planet; political-civilizational center of the Elohim alliance that conducted the genetic-engineering project producing terrestrial life"
-principal_source = "Claude Vorilhon, *Message from the Designers* (Tagman Press, 2005), consolidating *Le Livre qui dit la vérité* (1974), *Les Extra-Terrestres m'ont emmené sur leur planète* (1975), and *Accueillir les Extra-Terrestres* (1979)"
-location_from_home_star = "236,000 parasangs (~70.8 billion kilometers); home star substantially larger than the Sun"
-location_from_earth = "30,000,000 parasangs (~9 trillion kilometers, approximately 1 light-year); subject to the substantial astronomical-inconsistency objection the source itself addresses through deliberate-obfuscation and variable-lightspeed cosmology"
-parasang_unit = "Source-redefined unit: distance light travels in one second (~300,000 kilometers); etymologically borrowed from ancient Persian linear-distance unit but redefined as celestial-distance unit in the source's vocabulary"
-environment = "Mild temperature; lush vegetation with exotic flora; azure seas; agricultural-ecological character described as paradisal"
+type = "太陽系外惑星。この枠組みが地上の生命を設計したと読む文明であるエロヒムの、政治的・文明的な中心"
+principal_source = "クロード・ヴォリロン『設計者からのメッセージ』(タグマン・プレス、2005年)。『*Le Livre qui dit la vérité*』(1974年)、『*Les Extra-Terrestres m'ont emmené sur leur planète*』(1975年)、『*Accueillir les Extra-Terrestres*』(1979年)を一冊にまとめたもの"
+location_from_home_star = "236,000パラサング(約708億km、約474AU)。母星の恒星は太陽よりはるかに大きいと描かれている"
+location_from_earth = "30,000,000パラサング(約9兆km、およそ1光年)― 既知の恒星間距離と矛盾する数値であり、原典はこれを意図的な曖昧化と光速可変の宇宙論によって説明している"
+parasang_unit = "原典が、光が1秒間に進む距離(約30万km)として再定義した単位。この語は古代ペルシアの道のりの尺度から借用されている"
+environment = "穏やかな気温。豊かな植生と珍しい植物相。紺碧の海。原典が楽園のようだと描く風景"
 civilization = "~7 billion inhabitants; seven provinces; official language closely resembling ancient Hebrew"
-council_of_eternals = "~700 Elohim members + ~8,400 resurrected humans from Earth; presided by Yahweh (first individual successfully cloned-and-memory-transferred ~25,000 years ago)"
+council_of_eternals = "約700人のエロヒムの成員と約8,400人の復活した人間。ヤハウェ(約25,000年前、最初にクローン化され記憶を移された個人)が議長を務める"
 economy = "Post-scarcity; atom-based energy; biological robots performing mechanical labor; intellectual-creative activity as principal human pursuit"
-travel_technology = "Atom-based propulsion at 7× lightspeed at time of Vorilhon contact (1973-1975); journey to Earth ~2 months; subsequent technological advance to substantially shorter journey times"
-relationship_to_planet_of_eternals = "Source content allows two readings: single-planet identification (the home planet IS the Planet of the Eternals) or two-planet system (the Planet of the Eternals is a second smaller planet in the same stellar system); the corpus registers both readings as compatible with the source material"
-distinguished_from = "The intergalactic ship near Earth (Elohim operational base with seven Elohim representatives plus two ship-responsible Elohim); Earth-based Elohim installations (the Andean, Himalayan, Greek, and other regional bases); Mormon Kolob (which may or may not refer to the same entity, per the Tvedtnes hypothesis)"
-status_in_framework = "Principal extraterrestrial location in the corpus framework; the political-civilizational center of the alliance that conducts the Earth project; the residence of the Council of the Eternals; the destination for the resurrected prophets and qualifying humans"
+travel_technology = "光速の7倍で進む原子に基づく推進。接触の時点(1973–75年)では地球までの旅に約2か月かかったが、1975年にははるかに短くなっていた"
+relationship_to_planet_of_eternals = "原典は二つの読解を許す:母惑星がそのまま永遠者の惑星である(単一惑星説)か、永遠者の惑星は同じ星系にある二つ目のより小さな世界である(二惑星説)か。この枠組みは両者を原典と両立するものとして扱う。"
+distinguished_from = "地球の近くに駐留する銀河間宇宙船(乗員9人:7人の地方代表と2人の船の士官)。地球上のエロヒムの施設(アンデス、ヒマラヤ、ギリシアなど)。モルモン教のコロブ(コーパスはエロヒムの恒星と同一視しない)"
+status_in_framework = "この枠組みにおける主要な地球外の場所:永遠者の評議会の所在地であり、復活した預言者たちの住まいであり、地球計画を運営する文明の政治的中心"
 +++
 
 **The Elohim Home Planet** is, in the Wheel of Heaven framework, the extrasolar

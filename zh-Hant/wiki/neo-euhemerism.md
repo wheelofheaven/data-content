@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,17 +15,29 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["neo-evhemerism (alternative French spelling)", "neo-Euhemerist interpretation", "the neo-euhemeristic reading", "extraterrestrial euhemerism (occasional descriptive term)", "the ancient astronaut hypothesis (overlapping but not identical)", "paleocontact hypothesis (overlapping but not identical)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "古代宇航員假說", path = "wiki/ancient-astronaut-hypothesis", description = "文集作為其自覺成員的更廣泛詮釋傳統;新埃烏赫梅羅斯主義是其底層的解讀方法。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "此方法讀作歷史文明而非神性的《創世記》人物。" },
+    { title = "毛羅·比利諾", path = "wiki/mauro-biglino", description = "對希伯來聖經作嚴格逐字新埃烏赫梅羅斯式解讀的當代闡述者。" },
+    { title = "傳統", path = "wiki/the-tradition", description = "桑迪的傳承框架,建立在同一新埃烏赫梅羅斯式解讀之上。" },
+    { title = "希伯來聖經", path = "wiki/hebrew-bible", description = "此方法將其神顯讀作保存之接觸記憶的文集。" },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "以新埃烏赫梅羅斯方式解讀神話、並以歲差天文學加以延伸的框架。" },
+    { title = "宗教", path = "wiki/religion", description = "此方法視為真實接觸之保存記憶的神話材料。" },
+    { title = "《奧德賽》背後的世界", path = "/articles/the-world-behind-the-odyssey/", description = "一篇在將此方法應用於希臘神話之前,先以最強形式陳述對它的「範疇替換」反駁的解說文。" },
+    { title = "荷馬的東面", path = "/articles/the-east-face-of-homer/", description = "姊妹篇解說文,將範疇替換審查應用於正典對但以理之使者與耶洛因勢力範圍的解讀。" },
+    { title = "赫利孔山上的雨", path = "/articles/the-rain-over-helicon/", description = "第三篇希臘解說文,將範疇替換反駁陳述為對框架持續有效的限制,而非已經跨越的障礙。" },
+]
 
 [extra.infobox]
-type = "Foundational interpretive-methodological concept; the position that reads religious-mythological gods and divine beings as preserved cultural memory of historical extraterrestrial-civilizational contact"
-classical_origin = "Euhemerism, articulated by Euhemerus of Messene (c. 4th-3rd century BCE) in the *Hiera Anagraphē* (*Sacred Inscription*); read the gods of Greek mythology as deified historical kings and culture-heroes whose memory the religious tradition had elevated to divine status"
-neo_euhemeristic_extension = "The further claim that the historical figures whose memory the gods preserve were not principally human kings but members of a technologically advanced extraterrestrial civilization whose capacities appeared supernatural to pre-scientific observers; produces the interpretive framework within which the religious-mythological content becomes preserved cultural memory of actual historical extraterrestrial-civilizational contact rather than principally symbolic-mythological elaboration"
-framework_relationship = "The Wheel of Heaven framework operates neo-euhemeristically at the methodological-interpretive level while extending substantially beyond simple neo-euhemerism through: integration with precessional astronomy (the doubled-signature principle, the twelve-age architecture); the ongoing-alliance framework (the Elohim as continuing contemporary reality rather than merely historical memory); the substantial source-textual specificity of Vorilhon's contact accounts and Sendy's pre-Raëlian articulations"
-principal_contemporary_articulators = "Erich von Däniken (*Chariots of the Gods?*, 1968); Zecharia Sitchin (*The 12th Planet*, 1976, and the broader Earth Chronicles); Mauro Biglino (the strict-translational Hebrew engagement); Paul Anthony Wallis (*Escaping from Eden*, 2020); Robert Charroux; the broader ancient astronaut hypothesis tradition; the substantial Raëlian Movement engagement"
-distinguished_from = "Classical Euhemerism (which reads gods as deified human historical figures); ancient astronaut hypothesis in its popular media articulations (which frequently operates without the methodological-interpretive specificity neo-euhemerism's classical heritage provides); mainstream comparative-religion engagement (which generally treats religious-mythological content as cultural-symbolic-experiential rather than as preserved historical memory); supernatural-theistic religious traditions (which read the gods as actual supernatural beings rather than as historical figures preserved in mythologized form)"
-mainstream_scholarly_status = "Limited mainstream academic currency for the term 'neo-euhemerism' specifically; mainstream scholarly engagement with the broader interpretive position operates principally through related terminology ('ancient astronaut hypothesis,' 'paleocontact hypothesis'); classical Euhemerism has substantial mainstream scholarly engagement as historical-conceptual category"
-status_in_framework = "Foundational methodological concept; the interpretive-typological category situating the framework's position within broader intellectual history; supports systematic engagement with religious-mythological content across traditions"
-principal_corpus_treatment = "Sendy's substantial articulations (1963-1972) operating neo-euhemeristically across his entire body of work; Vorilhon's contact-account material providing principal source-textual content for neo-euhemeristic reading; the broader corpus integration with precessional astronomy and ongoing-alliance framework"
+type = "一種詮釋方法，將神話中的神祇與神聖存在解讀為對真實歷史人物的扭曲文化記憶——在其現代形式中，是被誤認為神祇的先進文明"
+classical_origin = "埃烏赫梅羅斯主義，由墨西拿的埃烏赫梅羅斯（約西元前 340–260 年）在 *Hiera Anagraphē*（《神聖銘文》）中提出；將希臘諸神解讀為後世傳統將之提升至神聖地位的歷史上的君王與恩人"
+neo_euhemeristic_extension = "認定諸神背後的歷史人物並非人類君王，而是一個技術先進的文明，其能力——飛行、醫術、冶金、武器——在前科學時代的觀察者看來是超自然的"
+framework_relationship = "Wheel of Heaven 框架以新埃烏赫梅羅斯主義的方式解讀神話，但以歲差天文學（雙重署名原理、十二時代架構）、持續聯盟框架（耶洛因是持續存在的實體，而不僅是一段記憶）以及沃里隆與桑迪的特定來源文本擴展了此方法"
+principal_contemporary_articulators = "Jean Sendy（1963–1972）；Erich von Däniken（*Chariots of the Gods?*，1968）；Zecharia Sitchin（*The 12th Planet*，1976）；Claude Vorilhon（雷爾）（1974 年起）；Mauro Biglino；Paul Anthony Wallis（*Escaping from Eden*，2020）；Robert Charroux"
+distinguished_from = "古典埃烏赫梅羅斯主義（神是被神化的人）；遠古外星人假說（一種內容主張，而非解讀方法）；主流比較宗教學（神話作為文化—象徵現象）；超自然有神論的讀法（神是真實的超自然存在）"
+mainstream_scholarly_status = "此術語本身在學術界幾乎不通行；學界將此現代立場視為「遠古外星人」或「古代接觸」假說加以探討，並斥為偽科學。古典埃烏赫梅羅斯主義則是宗教史中研究充分的類別"
+status_in_framework = "基礎方法；將本框架置於「以神話為歷史」這一悠久解讀史之中的詮釋類別，並支撐其跨傳統的比較"
+principal_corpus_treatment = "Jean Sendy 的著作（1963–1972）通篇以新埃烏赫梅羅斯主義的方式解讀希伯來聖經；沃里隆的接觸記述提供本框架的主要來源文本；語料將兩者與歲差天文學及持續聯盟框架相整合"
 +++
 
 **Neo-Euhemerism** is the interpretive method that reads the gods and divine

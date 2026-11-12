@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 99
@@ -23,14 +23,16 @@ alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "Jehovah", 
 portrait_id = "yahweh"
 image = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.avif"
-image_alt = "AI-generated editorial portrait of Yahweh as an elder Eloha with almond-shaped eyes, long pale hair, and a calm green-lit presence."
-image_caption = "Interpretive portrait for the Yahweh wiki entry and library speaker metadata."
+image_alt = "דיוקן עריכתי שנוצר בבינה מלאכותית של יהוה כאחד מזקני האלוהים, בעל עיניים בצורת שקד, שיער ארוך בהיר ונוכחות שלווה באור ירוק."
+image_caption = "דיוקן פרשני לערך הוויקי על יהוה ולמטא־נתוני הדוברים של הספרייה."
 see_also = [
     { title = "אלוהים", path = "wiki/elohim", description = "כינוי הרבים שיהוה הוא חבר עיקרי בו." },
     { title = "מועצת הנצחיים", path = "wiki/council-of-the-eternals", description = "הגוף השלטוני שיהוה עומד בראשו." },
-    { title = "ישו", path = "wiki/jesus", description = "הדמות המזוהה באופן מקובל כבנו של יהוה במסורת הנוצרית." },
+    { title = "ישוע", path = "wiki/jesus", description = "הדמות המזוהה באופן מקובל כבנו של יהוה במסורת הנוצרית." },
     { title = "משה", path = "wiki/moses", description = "מגעו העיקרי של יהוה לאורך נרטיב יציאת מצרים." },
     { title = "אברהם", path = "wiki/abraham", description = "אבי האומה היסודי שדרכו ביסס יהוה את הברית." },
+    { title = "מונותאיזם הוא השאלה הלא־נכונה", path = "articles/monotheism-is-the-wrong-question", description = "יהוה נקרא כאלוה בעל שם, נציג המדבר בשם היוצרים הרבים — לא ההוויה עצמה." },
+    { title = "שישה בקרים, שש שנים", path = "articles/six-mornings-six-years", description = "קורא אותו כעורך של עצמו: שמות מוסתרים, איסורי פרסום מתוזמנים, תיקון המגן על המקורות." },
 ]
 
 footnotes = [

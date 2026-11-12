@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["Hekhalot / Heikhalot 文献(הֵיכָלוֹת)", "Merkavah 神秘主義", "Merkabah 神秘主義", "「宮殿」文献", "*ma'aseh merkavah*(「戦車の業」)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "シウル・コマー", path = "wiki/shiur-qomah", description = "このコーパスの中で伝えられ、ラエルの正典が読むパラサングによる計測のテクスト。" },
+    { title = "カバラ", path = "wiki/kabbalah", description = "このカバラ以前の層が数世紀先行する、後代の古典的ユダヤ神秘主義。" },
+    { title = "生命の樹", path = "wiki/tree-of-life", description = "宮殿を通り抜けて昇る伝統から発展したカバラの図。" },
+    { title = "ヘブライ語聖書", path = "wiki/hebrew-bible", description = "メルカバー神秘主義がその名を得た、エゼキエルの玉座の戦車の幻の出典。" },
+    { title = "ヤハウェ", path = "wiki/yahweh", description = "組み込まれた『シウル・コマー』がその身の丈を計測する、メルカバーの玉座の人物。" },
+    { title = "元年に封を解かれて", path = "articles/unsealed-in-year-one", description = "クムランの『安息日の犠牲の歌』を、この伝統の背後にある原メルカバー的な典礼として読む。" },
+]
 
 [extra.infobox]
 type = "古代末期から中世初期のユダヤ神秘主義テクスト群(カバラ以前)"

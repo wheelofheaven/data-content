@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "משרד המלחמה של ארה״ב פתח פורטל ציבורי בכתובת war.gov/UFO ובו המנה הראשונה של רשומות UAP שהוסר חיסיונן — קליטות חיישנים, דוחות מפעילים ופריים מ־אפולו 17 משנת 1972. קורפוס Wheel of Heaven רושם את המהדורה כהקשר לקריאת הקאנון, לא כסימן: שום תיק שפורסם אינו ראיה למסגרת, שהמגע הצפוי בה רשמי, מותנה ובלתי־מתוארך."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "ההקשר של ההווה"
+cross_reference = "עידן הדלי, §IX"
 canon_links = [
     { title = "עידן הדלי", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

@@ -5,29 +5,37 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["ufology", "UAP studies (contemporary policy designation)", "flying saucer studies (historical designation)", "anomalistics (broader related field)", "exopolitics (specific subdiscipline)", "OVNIs (French; Objet volant non identifié)", "UFO research"]
+alternative_names = ["UFO研究", "UAP研究(現代の政策上の呼称)", "空飛ぶ円盤研究(歴史的な呼称)", "異常現象学(より広い関連分野)", "exopolitics (specific subdiscipline)", "OVNIs(フランス語。Objet volant non identifié)", "UFO調査"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
 see_also = [
+    { title = "エクソバイオロジーの軍事的隠蔽", path = "wiki/military-cover-up-of-exobiology", description = "現代のUFO研究を貫く、政府の秘匿と開示の問題。" },
     { title = "PURSUE", path = "wiki/pursue", description = "war.gov/UFOで未解決のUAP記録を公開する2026年の米国政府プログラム——この分野の現在の制度的展開。" },
+    { title = "古代宇宙飛行士仮説", path = "wiki/ancient-astronaut-hypothesis", description = "UFO研究が隣り合い、しばしば混同される、過去の歴史上の接触の伝統。" },
+    { title = "エゼキエル", path = "wiki/ezekiel", description = "この枠組みが近代以前のエロヒムの乗り物との遭遇として読む戦車の幻。" },
+    { title = "アストロバイオロジー", path = "wiki/astrobiology", description = "地球外生命の主流科学。目撃の調査を行うUFO研究とは区別される。" },
+    { title = "エロヒムの母星", path = "wiki/elohim-home-planet", description = "ラエルが1975年に連れて行かれたと報告するエロヒムの世界。この枠組み自身のコンタクティーの事例。" },
+    { title = "比較神話学", path = "wiki/comparative-mythology", description = "ヴァレがこの現象を通してたどった、文化を横断する民間伝承の連続性。" },
+    { title = "神々の複数性", path = "wiki/plurality-of-gods", description = "近代以前のUFOの記録が触れる、古代の天からの訪問者の読解。" },
 ]
 
 [extra.infobox]
-type = "Interdisciplinary field studying reports of unidentified flying objects (UFOs) / Unidentified Aerial Phenomena (UAP) and the broader question of non-human technological presence; substantive engagement community within which corpus framework operates"
-disciplinary_origin = "Kenneth Arnold sighting June 24, 1947 (Mount Rainier, Washington); Roswell incident July 1947; subsequent Project Sign 1947-1949, Project Grudge 1949-1952, Project Blue Book 1952-1969 U.S. government investigation programs"
-principal_disciplinary_figures = "J. Allen Hynek (Close Encounter classification; *The UFO Experience*, 1972); Jacques Vallée (*Passport to Magonia*, 1969; cross-cultural folklore framework); Donald Keyhoe (early popularization); Stanton Friedman (nuclear physicist; Roswell engagement); John Mack (Harvard psychiatrist; abduction engagement); Edward Ruppelt (Project Blue Book directorship; coined 'UFO')"
-principal_us_government_programs = "Project Sign 1947-1949; Project Grudge 1949-1952; Project Blue Book 1952-1969; AATIP 2007-2012; AAWSAP; UAP Task Force 2020; All-Domain Anomaly Resolution Office (AARO) 2022"
-principal_2017_2024_transformation = "December 2017 NYT article disclosing AATIP; April 2020 Pentagon UAP video releases; June 2021 ODNI Preliminary Assessment on UAP; July 2023 congressional hearings with David Grusch testimony; September 2023 NASA UAP Independent Study Team report; November 2024 follow-up congressional hearings"
-principal_civilian_organizations = "NICAP (National Investigations Committee on Aerial Phenomena); APRO (Aerial Phenomena Research Organization); CUFOS (Center for UFO Studies); MUFON (Mutual UFO Network)"
-corpus_position = "Engages ufology substantively as the research community within which Vorilhon contact narrative operates as principal contactee case material; differs methodologically from mainstream ufology in that corpus framework operates from established alliance-contact reality (Vorilhon source) rather than from open question whether non-human presence exists"
-distinguished_from = "Astrobiology (the broader scientific field engaging extraterrestrial life question generally; ufology operates as one component); SETI (the search for technological signals from extraterrestrial civilizations; distinct from UFO/UAP investigation); Ancient Astronaut Hypothesis (the engagement with historical evidence for past contact; substantively adjacent but distinct); exopolitics (the specific subdiscipline engaging governmental policy and political dimensions of contact)"
-status_in_framework = "Substantive contemporary research community within which corpus framework's empirical claims about ongoing alliance presence operate"
+type = "未確認飛行物体(UFO)と未確認航空現象(UAP)の報告、および地球上における人間以外の技術的存在という問題を研究する学際的な分野。主に主流科学の外で営まれている"
+disciplinary_origin = "ケネス・アーノルドの目撃(1947年6月24日、ワシントン州レーニア山)。1947年7月のロズウェルでの回収。米空軍のプロジェクト・サイン(1947〜1949年)、プロジェクト・グラッジ(1949〜1952年)、プロジェクト・ブルーブック(1952〜1969年)"
+principal_figures = "J・アレン・ハイネック(接近遭遇の分類。*The UFO Experience*、1972年)。ジャック・ヴァレ(*Passport to Magonia*、1969年。文化横断的な民間伝承の枠組み)。ドナルド・キーホー(初期の普及)。エドワード・ルッペルト(ブルーブックの責任者。「UFO」という語を造った)。ジョン・マック(ハーバード大学の精神科医。誘拐体験の研究)"
+principal_us_government_programs = "プロジェクト・サイン(1947〜1949年)。プロジェクト・グラッジ(1949〜1952年)。プロジェクト・ブルーブック(1952〜1969年)。AATIP(2007〜2012年)。UAPタスクフォース(2020年)。全領域異常解決局(AARO、2022年)"
+modern_uap_era = "2017年12月、AATIPについてのニューヨーク・タイムズの報道。2020年4月、国防総省によるFLIR1、Gimbal、GoFastの映像の公開。2021年6月、ODNIの評価。2023年7月、デイヴィッド・グラッシュが証言した議会公聴会。2023年9月、NASAのUAP報告書。2024年11月、続く公聴会"
+principal_civilian_organizations = "NICAP。APRO。CUFOS(1973年にハイネックが設立)。MUFON"
+principal_skeptics = "ドナルド・メンゼル。フィリップ・クラス。カール・セーガン。懐疑的調査委員会(CSICOP/CSI)"
+corpus_position = "ufology(UFO研究)を1973年のラエルの接触のより広い文脈として読み、多くのコンタクティー報告の一つとして取り組む。この枠組みは、UFO研究の未解決の問いからではなく、正典による接触の記述から出発する"
+distinguished_from = "宇宙生物学(地球外生命についての主流科学)。SETI(技術的信号の探索)。古代宇宙飛行士仮説(過去の歴史上の接触)。エクソポリティクス(政策の下位分野)"
+status_in_framework = "この枠組みの創始となる接触事例が位置する現代の分野。文書で確認される記録と地球外生命による解釈とは区別して扱われる"
 +++
 
 **Ufology** is the study of reports of **unidentified flying objects (UFOs)**

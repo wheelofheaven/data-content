@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Deux semaines après le Communiqué PURSUE 01, le Département de la Guerre des États-Unis a publié le Communiqué 02 sur war.gov/UFO : plus de cinquante éléments auparavant classifiés, dont la première vidéo UAP non thermique en couleurs réelles, un incident de verrouillage d'arme d'un MQ-9 Reaper à la frontière Jordanie–Syrie, une rencontre de mars 2022 entre un sous-marin et des objets sphériques transmédium, et 116 pages d'archives provenant de Sandia (Nouveau-Mexique), 1948–1950. Le corpus enregistre le Communiqué 02 comme un contexte pour lire le canon, et non comme un signe du retour."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "Le contexte du présent"
+cross_reference = "Ère du Verseau, §IX"
 canon_links = [
     { title = "Âge du Verseau", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

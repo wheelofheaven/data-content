@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "繼第五批解密六週之後,美國戰爭部於 war.gov/UFO 公布第六批檔案:依戰爭部於公布時所通報的統計共 71 份——55 份文件、15 段影片與一段錄音——其中 67 份來自戰爭部自身,4 份來自科羅拉多州的一個地方執法機關,即本計畫首個非聯邦提供者。本批解密的重心是一條文件鏈:國防情報局(Defense Intelligence Agency)「先進航太武器系統應用計畫」(Advanced Aerospace Weapon System Applications Program,2008–2012)的目標說明書、合約授予與五次合約修訂,連同該計畫委託撰寫的 38 份參考文獻中的 37 份——主題涵蓋曲速引擎、可穿越蟲洞、反重力、負質量推進、隱形斗篷、統計版德雷克方程式,以及近距離接觸所通報的傷害。與之並列的是檔案庫中最古老的影片——海軍准尉德爾伯特·C·紐豪斯(Delbert C. Newhouse)於 1952 年 7 月 2 日在猶他州特里蒙頓上空拍攝的十二至十四個明亮物體,並附有完整的藍皮書計畫檔案——以及一段 1952 年 3 月的錄音:藍皮書計畫首任主管愛德華·J·魯佩爾特上尉(Captain Edward J. Ruppelt)告訴聽眾,空軍 800 宗案件中有五分之一無法解釋,且通報集中於洛斯阿拉莫斯、阿布奎基與橡樹嶺周邊。本書將第六批解密記錄為閱讀正典的脈絡,而非回歸的徵兆——並將戰爭部 9 月 14 日的法律豁免——它為現任與前任人員及承包商開啟了一條向 PURSUE 提供 UAP 資訊的受保護管道——讀為這段期間更具影響的發展。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "當下的脈絡"
+cross_reference = "水瓶座時代，第 IX 節"
 canon_links = [
     { title = "水瓶座時代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

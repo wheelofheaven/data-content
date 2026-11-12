@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,21 +15,28 @@ editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["Abraham (English)", "Abram (pre-renaming name)", "אַבְרָהָם (Hebrew Avraham)", "אַבְרָם (Hebrew Avram)", "إبراهيم (Arabic Ibrāhīm)", "Ἀβραάμ (Greek Abraám)", "the Patriarch", "Avraham Avinu (Jewish 'Abraham our father')", "Khalīl Allāh (Arabic 'Friend of God')"]
 timeline = ["age-of-taurus", "age-of-aries"]
+see_also = [
+    { title = "挪亚之约", path = "wiki/noahic-covenant", description = "亚伯拉罕之约延续其世系的洪水后盟约。" },
+    { title = "所多玛与蛾摩拉", path = "wiki/sodom-and-gomorrah", description = "亚伯拉罕在创世记 18 章中为之交涉的议会预防性打击。" },
+    { title = "摩西", path = "wiki/moses", description = "在同一伊甸世系恢复中的后世立约中介者。" },
+    { title = "哈尼夫信仰", path = "wiki/hanafiyya", description = "伊斯兰传统追溯至亚伯拉罕的原初哈尼夫一神信仰。" },
+    { title = "佩特拉", path = "wiki/petra", description = "处于亚伯拉罕—汉志问题中心的纳巴泰圣所。" },
+]
 
 [extra.infobox]
-type = "Biblical figure; Eden-lineage patriarch verified by post-Sodom Council loyalty test; founding patriarch for three Abrahamic religions plus Baha'i"
-hebrew_name = "אַבְרָהָם (Avraham, 'father of multitudes'); originally אַבְרָם (Avram, 'exalted father')"
+type = "圣经人物；伊甸血统的族长，经所多玛事件后的议会忠诚考验得到验证；三大亚伯拉罕宗教及巴哈伊信仰的始祖"
+hebrew_name = "אַבְרָהָם（Avraham，「多国之父」）；原名 אַבְרָם（Avram，「尊贵之父」）"
 arabic_name = "إبراهيم (Ibrāhīm)"
-biblical_dating = "Taurus-Aries boundary in corpus chronology (late Age of Taurus, c. 2,000-1,900 BCE in mainstream traditional chronology); Genesis records Abraham as 75 years old at the lekh lekha call (Gen 12:4), 100 at Isaac's birth (Gen 21:5), 175 at death (Gen 25:7)"
-principal_biblical_location = "Genesis 11:26-25:18; subsequent references in Exodus 3:6-15, Joshua 24:2-3, Isaiah 41:8, 51:2, Psalms 105:6-9, Matthew 1:1-2, Luke 3:34, Romans 4, Galatians 3, Hebrews 11:8-19, James 2:21-23"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Sacrifice of Abraham' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Taurus chapter, Sections VIII and IX"
-core_corpus_articulation = "Post-Sodom Council recruitment and verification figure; tested loyalty around whom diminished Eden-lineage population reorganized; founding patriarch for Aries-age recovery program"
-covenant_role = "Abrahamic Covenant (Genesis 15, 17): geographic promise (Nile-to-Euphrates); descendant promise (numerous as stars and sand); circumcision (*brit milah*) as physical-marker covenant institution"
-loyalty_test = "Akedah / Sacrifice of Isaac (Genesis 22) — formal Council loyalty test conducted by visiting officer; Hebrew *nissah* ('tested') frames episode from opening verse; *ki atah yadati* ('for now I know') confirms empirical-investigation framing"
-key_figures = "Sarah (wife, mother of Isaac); Hagar (Egyptian handmaid, mother of Ishmael); Isaac (covenant-line son through Sarah); Ishmael (Arab-lineage son through Hagar); Keturah (third wife after Sarah; mother of six additional sons including Midian); Lot (nephew, Sodom survivor)"
-three_faiths_status = "Founding patriarch for Judaism (through Isaac), Christianity (through Isaac via Jesus genealogy), Islam (through Ishmael as Ibrahim, Hanif primordial-monotheist), Baha'i (through Keturah lineage to Baha'u'llah)"
-distinguished_from = "Mainstream uniquely-faithful-individual reading; ancient-astronaut alternative readings (Sitchin, Biglino); mainstream biblical-scholarly Documentary Hypothesis source-critical reading; minimalist historical-critical engagement (Van Seters) treating patriarchal narratives as later literary composition"
-status_in_framework = "Foundational Taurus-Aries transitional figure; tested founding patriarch; principal recovery-program founder following Sodom destruction; structural inaugurator of Aries-age Eden-lineage political-religious arrangement"
+biblical_dating = "文集年表中的金牛座—白羊座交界（金牛座时代晚期，按主流传统年表约公元前 2000–1900 年）；《创世记》记载亚伯拉罕在 lekh lekha 呼召时 75 岁（创 12:4），以撒出生时 100 岁（创 21:5），去世时 175 岁（创 25:7）"
+principal_biblical_location = "创世记 11:26–25:18；后续提及见出埃及记 3:6–15、约书亚记 24:2–3、以赛亚书 41:8、51:2、诗篇 105:6–9、马太福音 1:1–2、路加福音 3:34、罗马书 4 章、加拉太书 3 章、希伯来书 11:8–19、雅各书 2:21–23"
+principal_source = "《讲述真相之书》（沃里隆，1974），「真实」一章，「亚伯拉罕的献祭」一节；汇编本 《来自设计者的信息》（2005）；*timeline.epub*——文集的展开论述，主要见于金牛座时代一章第 VIII、IX 节"
+core_corpus_articulation = "所多玛事件后议会招募与验证的人物；经考验其忠诚，衰减的伊甸血统人口围绕他重新组织；白羊座时代复兴计划的始祖"
+covenant_role = "亚伯拉罕之约（创世记 15、17 章）：土地应许（从尼罗河到幼发拉底河）；后裔应许（多如星辰与海沙）；割礼（*brit milah*）作为以身体标记为凭的立约制度"
+loyalty_test = "阿克达／以撒献祭（创世记 22 章）——由来访官员执行的正式议会忠诚考验；希伯来文 *nissah*（「试验」）自首节起即为该事件定调；*ki atah yadati*（「现在我知道了」）印证了实证考察的框架"
+key_figures = "撒拉（妻子，以撒之母）；夏甲（埃及使女，以实玛利之母）；以撒（经撒拉所出的立约之子）；以实玛利（经夏甲所出的阿拉伯血统之子）；基土拉（撒拉之后的第三位妻子；另生六子，包括米甸）；罗得（侄子，所多玛幸存者）"
+three_faiths_status = "犹太教的始祖（经以撒）、基督教的始祖（经以撒，借耶稣家谱）、伊斯兰教的始祖（经以实玛利，作为易卜拉欣、原初一神信仰者哈尼夫）、巴哈伊信仰的始祖（经基土拉血统至巴哈欧拉）"
+distinguished_from = "主流的「唯一忠信个人」解读；远古外星人理论的其他解读（西琴、比利诺）；主流圣经学界的底本假说来源批判解读；将族长叙事视为晚期文学创作的极简主义历史批判研究（Van Seters）"
+status_in_framework = "金牛座—白羊座过渡期的奠基人物；经过考验的始祖；所多玛毁灭后复兴计划的主要创立者；白羊座时代伊甸血统政治—宗教格局的结构性开创者"
 +++
 
 **Abraham** (Hebrew אַבְרָהָם, *Avraham*; Arabic إبراهيم, *Ibrāhīm*) is the founding

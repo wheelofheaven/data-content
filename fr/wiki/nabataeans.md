@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -20,6 +20,14 @@ entry_type = "people"
 claim_type = "inferred"
 timeline = ["pisces", "aries"]
 alternative_names = ["נבטו (araméen nabatéen Nabaṭu)", "Ναβαταῖοι (grec Nabataîoi)", "ٱلْأَنْبَاط (arabe al-Anbāṭ)", "Nabateans", "les Nabati", "le peuple de Raqmū"]
+see_also = [
+    { title = "Pétra", path = "wiki/petra", description = "La capitale rupestre des Nabatéens, site au centre de l'hypothèse de Pétra proposée par le cadre." },
+    { title = "Hanafiyya", path = "wiki/hanafiyya", description = "La restauration abrahamique dont le peuple nabatéen est lu comme le vecteur humain." },
+    { title = "Mahomet", path = "wiki/muhammad", description = "Le prophète dont l'arabe coranique descendrait, selon cette thèse, de l'arabe nabatéen." },
+    { title = "Jésus", path = "wiki/jesus", description = "Locuteur du même araméen que celui qu'écrivaient les Nabatéens, ce qui place l'islam dans un milieu commun." },
+    { title = "Abraham", path = "wiki/abraham", description = "La source patriarcale du milieu araméo-abrahamique dans lequel s'inscrivent les Nabatéens." },
+    { title = "Bible hébraïque", path = "wiki/hebrew-bible", description = "Le corpus dont le vocabulaire opérationnel partage le milieu araméo-abrahamique suivi ici." },
+]
 
 [extra.infobox]
 type = "Peuple caravanier de commerce de l'Arabie du Nord antique ; bâtisseurs de Pétra ; transmetteurs de l'écriture passée de l'araméen à l'arabe"

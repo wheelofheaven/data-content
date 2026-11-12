@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -17,26 +17,27 @@ editorial_pass = "2026-05"
 entry_type = "text"
 alternative_names = ["Bereshit", "B'reshit", "First Book of Moses"]
 see_also = [
-    { title = "Elohim", path = "wiki/elohim", description = "The plural creators whose work the first chapter narrates." },
-    { title = "Eden", path = "wiki/eden", description = "The garden where the first humans were placed in Genesis 2–3." },
-    { title = "Adam and Eve", path = "wiki/adam-and-eve", description = "The first humans of the second creation account." },
-    { title = "Noah", path = "wiki/noah", description = "The covenantal figure of Genesis 6–9 who survives the Flood." },
-    { title = "Great Flood", path = "wiki/great-flood", description = "The deluge narrative that resets the human story in Genesis 6–9." },
-    { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "The broader scriptural corpus Genesis opens." },
+    { title = "ארגז הכלים של הבריאה", path = "wiki/genesis-toolbox", description = "ליקוט הקורפוס של המדע והטכנולוגיה שסיפור הבריאה מתאר בפעולה." },
+    { title = "אלוהים", path = "wiki/elohim", description = "היוצרים הרבים שאת מעשיהם מספר הפרק הראשון." },
+    { title = "עדן", path = "wiki/eden", description = "הגן שבו הושמו בני האדם הראשונים בבראשית ב–ג." },
+    { title = "אדם וחוה", path = "wiki/adam-and-eve", description = "בני האדם הראשונים של סיפור הבריאה השני." },
+    { title = "נוח", path = "wiki/noah", description = "דמות הברית של בראשית ו–ט השורדת את המבול." },
+    { title = "המבול", path = "wiki/great-flood", description = "סיפור המבול המאתחל את הסיפור האנושי בבראשית ו–ט." },
+    { title = "המקרא העברי", path = "wiki/hebrew-bible", description = "הקורפוס המקראי הרחב שספר בראשית פותח." },
 ]
 
 [extra.infobox]
 hebrew_title = "בְּרֵאשִׁית"
 transliteration = "Bərēʾšît"
-title_meaning = "In the beginning"
-greek_title = "Γένεσις (Génesis, 'origin')"
-language = "Biblical Hebrew"
-length = "50 chapters; approximately 32,000 words in the Masoretic Text"
-canon_position = "First book of the Torah / Pentateuch; first book of the Hebrew Bible and Christian Old Testament"
-traditional_attribution = "Moses (Mosaic authorship)"
-scholarly_dating = "Compositional layers c. 10th–5th century BCE; final redaction post-exilic"
-principal_witnesses = "Masoretic Text; Septuagint; Samaritan Pentateuch; Dead Sea Scrolls fragments (c. 3rd century BCE – 1st century CE)"
-genre = "Primeval and patriarchal history; theological narrative"
+title_meaning = "בראשית"
+greek_title = "Γένεσις (Génesis, 'מוצא')"
+language = "עברית מקראית"
+length = "50 פרקים; כ־32,000 מילים בנוסח המסורה"
+canon_position = "הספר הראשון בתורה / בחומש; הספר הראשון במקרא העברי ובברית הישנה הנוצרית"
+traditional_attribution = "משה (חיבור מוסאי)"
+scholarly_dating = "שכבות חיבור בסביבות המאות ה־10–5 לפנה״ס; עריכה סופית לאחר הגלות"
+principal_witnesses = "נוסח המסורה; תרגום השבעים; התורה השומרונית; קטעי המגילות הגנוזות (בסביבות המאה ה־3 לפנה״ס – המאה ה־1 לספירה)"
+genre = "תולדות קדמוניות ותולדות האבות; סיפורת תאולוגית"
 +++
 
 **Genesis** (Hebrew: <span class="hebrew">בְּרֵאשִׁית</span>, *Bərēʾšît*, "in the beginning"; Greek: *Γένεσις*, *Génesis*, "origin") is the first book of the {% wiki(slug="hebrew-bible") %}Hebrew Bible{% end %} and of the Christian Old Testament. The Hebrew title is taken from the book's opening word; the English title derives from the Greek {% wiki(slug="septuagint") %}Septuagint{% end %} translation, which named the book after its principal subject. Genesis contains two distinct creation accounts (Genesis 1:1–2:3 and Genesis 2:4–25), the primeval history (Genesis 3–11) including the expulsion from Eden, the genealogies of the long-lived patriarchs, the Flood, and the dispersal at Babel, and the patriarchal history (Genesis 12–50) covering Abraham, Isaac, Jacob, and Joseph. The book's fifty chapters span what conventional chronology treats as approximately two thousand years from creation to Joseph's death in Egypt, with the framework's reading treating the same narrative as compressing approximately fifteen thousand years of history.

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,15 +15,24 @@ editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
 alternative_names = ["Planetary engineering", "Ecological engineering at planetary scale", "Earth-shaping", "Geoengineering of other worlds"]
+see_also = [
+    { title = "Genesis-Werkzeugkasten", path = "wiki/genesis-toolbox", description = "Die Synthese auf Programmebene: Terraforming als eine Phase des vollständigen Schöpfungsstapels, den der Kanon beschreibt." },
+    { title = "Genesis", path = "wiki/genesis", description = "Der Text, dessen erste vier Zeitalter der Rahmen als das Terraforming der Erde durch die Elohim liest." },
+    { title = "Elohim", path = "wiki/elohim", description = "Die Zivilisation, die nach dieser Lesart die Erde vor der biologischen Synthese terraformte." },
+    { title = "Synthetische Biologie", path = "wiki/synthetic-biology", description = "Die benachbarte Disziplin der Phase der biologischen Synthese, die auf das Terraforming folgte." },
+    { title = "Lebensengineering", path = "wiki/life-engineering", description = "Das biologische Gegenstück zum planetaren Terraforming im Erdprojekt." },
+    { title = "Pantropie", path = "wiki/pantropy", description = "Die umgekehrte Strategie, Organismen an Welten anzupassen statt Welten an Organismen." },
+    { title = "Pangaea", path = "wiki/pangaea", description = "Die Anordnung der Kontinente, die für die Lesart des Rahmens zur Gestaltung der Kontinente von Belang ist." }
+]
 
 [extra.infobox]
-type = "Planetary-engineering discipline aimed at making other worlds habitable for terrestrial life"
-adjacent_fields = "Astrobiology; planetary science; xenobiology; synthetic biology; geoengineering; climate science"
-term_coined = "Jack Williamson, *Collision Orbit*, 1942 (science-fiction context); Carl Sagan, *Science*, 1961 (scientific context)"
-principal_targets = "Mars (most studied); Venus (more speculative); Moon, Mercury, Jovian and Saturnian moons (variously discussed); free-floating habitats and shell worlds (alternative paraterraforming concepts)"
-foundational_milestones = "Coining of the term (Williamson, 1942); first scientific proposal (Sagan, Venus terraforming via algae, 1961); first Mars terraforming proposal (Sagan, polar-cap vaporisation, 1971); foundational scientific treatments (McKay, 1982 onward; Fogg, *Terraforming*, 1995); CO2-inventory analysis (Jakosky and Edwards, 2018); silica-aerogel paraterraforming (Wordsworth et al., 2019)"
-current_status = "Active research field; no terraforming has been attempted at any scale; full-scale Mars terraforming assessed as infeasible with present technology; localised paraterraforming concepts under active study"
-framework_significance = "The planetary-engineering operations of the first four ages of Genesis 1 — atmospheric separation, water-cycle establishment, continental work, astronomical calibration — are read on the framework as the Elohim's terraforming of Earth during the preparation phase of the Earth project, prior to biological synthesis"
+type = "Disziplin der planetaren Technik mit dem Ziel, andere Welten für irdisches Leben bewohnbar zu machen"
+adjacent_fields = "Astrobiologie; Planetenwissenschaft; Xenobiologie; synthetische Biologie; Geoengineering; Klimawissenschaft"
+term_coined = "Jack Williamson, *Collision Orbit*, 1942 (Science-Fiction-Kontext); Carl Sagan, *Science*, 1961 (wissenschaftlicher Kontext)"
+principal_targets = "Mars (am meisten untersucht); Venus (spekulativer); Mond, Merkur, Jupiter- und Saturnmonde (unterschiedlich diskutiert); frei schwebende Habitate und Schalenwelten (alternative Konzepte des Paraterraformings)"
+foundational_milestones = "Prägung des Begriffs (Williamson, 1942); erster wissenschaftlicher Vorschlag (Sagan, Terraforming der Venus mittels Algen, 1961); erster Vorschlag zum Terraforming des Mars (Sagan, Verdampfung der Polkappen, 1971); grundlegende wissenschaftliche Abhandlungen (McKay, ab 1982; Fogg, *Terraforming*, 1995); Analyse des CO2-Bestands (Jakosky und Edwards, 2018); Paraterraforming mit Silica-Aerogel (Wordsworth et al., 2019)"
+current_status = "Aktives Forschungsfeld; Terraforming wurde in keinem Maßstab versucht; ein vollständiges Terraforming des Mars gilt mit heutiger Technik als undurchführbar; lokale Konzepte des Paraterraformings werden aktiv untersucht"
+framework_significance = "Die planetaren Gestaltungsoperationen der ersten vier Zeitalter von Genesis 1 — Trennung der Atmosphäre, Einrichtung des Wasserkreislaufs, kontinentale Arbeit, astronomische Kalibrierung — werden im Rahmen als das Terraforming der Erde durch die Elohim in der Vorbereitungsphase des Erdprojekts gelesen, vor der biologischen Synthese"
 +++
 
 **Terraforming** is the deliberate large-scale modification of a planet, moon, or other celestial body to make its environmental conditions habitable for terrestrial life — most often with reference to making the body habitable for unmodified humans, but increasingly with reference to making it habitable for any class of Earth-derived organisms. The term is constructed from the Latin *terra* (earth) and the English verb *to form*, meaning literally *to make Earth-like*. It is the planetary-scale counterpart of the climate-engineering and geoengineering proposals that have been developed for the management of Earth's own climate, and it draws on the same atmospheric, geological, and ecological sciences applied at the much larger scale of complete planetary transformation.

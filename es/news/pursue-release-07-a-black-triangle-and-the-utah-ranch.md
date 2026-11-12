@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ core_claim_ids = ["woh-claim-0057"]
 core_versions = { woh-claim-0057 = "0.1.0" }
 editorial_pass = "2026-05"
 summary = "Cinco semanas después de la Versión 06, el Departamento de Guerra de EE. UU. publicó la Versión 07 en war.gov/UFO: 28 documentos y nada más —ni vídeo, ni audio, ni imágenes—, el lote más pequeño hasta ahora y el primero compuesto enteramente de papel. Veinticinco archivos proceden del propio Departamento, uno del FBI, uno de la Oficina Ejecutiva del Presidente, y uno lleva un nuevo prefijo « U.S. Government ». El archivo principal es reciente: un informe de la All-domain Anomaly Resolution Office sobre el interrogatorio de agentes federales que en junio de 2026 vieron un triángulo negro mate elevarse en silencio sobre una cresta en un emplazamiento sensible del oeste de los Estados Unidos, mantenerse suspendido y lanzarse hacia un cañón —publicado cuatro meses después del suceso, junto con un acta de entrevista del FBI que discrepa de él en la duración, el tamaño y el calor. Detrás se sitúa el registro operativo del contratista que dirigió el programa AAWSAP de la Agencia de Inteligencia de Defensa en 2008-2010: sus planes para adquirir equipos recuperados y muestras biológicas, una cámara subterránea diseñada para albergarlos, un despliegue en Brasil, un almacén de datos de 234.364 informes de avistamientos y su investigación de un rancho de Utah cuyas muestras de pelo de « Skinwalker » resultaron ser del propio perro del testigo. Un expediente de la Casa Blanca de 1962-1964 muestra al gobierno redactando procedimientos para los objetos que caen del espacio, con la NASA como rostro público y el Departamento de Defensa como analista. El corpus registra la Versión 07 como contexto para leer el canon, no como una señal del retorno."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "El contexto del presente"
+cross_reference = "Era de Acuario, §IX"
 canon_links = [
     { title = "Era de Acuario", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

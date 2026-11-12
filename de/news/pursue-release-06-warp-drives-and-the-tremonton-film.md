@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Sechs Wochen nach Veröffentlichung 05 stellte das US-Department of War Veröffentlichung 06 auf war.gov/UFO online: 71 Akten nach der bei Veröffentlichung berichteten Zählung des Departments – 55 Dokumente, 15 Videos und eine Audioaufnahme –, 67 davon vom Department selbst und vier von einer lokalen Strafverfolgungsbehörde in Colorado, dem ersten Beitragenden des Programms außerhalb der Bundesebene. Der Schwerpunkt der Tranche ist eine Papierspur: die Zielbeschreibung, die Auftragsvergabe und fünf Vertragsänderungen des Advanced Aerospace Weapon System Applications Program der Defense Intelligence Agency (2008–2012), zusammen mit 37 der 38 Referenzpapiere, die es zu Warp-Antrieben, passierbaren Wurmlöchern, Antigravitation, Antrieb mit negativer Masse, Unsichtbarkeitstarnung, einer statistischen Drake-Gleichung und gemeldeten Verletzungen aus Nahbegegnungen in Auftrag gab. Daneben steht der älteste Film des Archivs – die Aufnahmen des Navy-Warrant-Officers Delbert C. Newhouse vom 2. Juli 1952 von zwölf bis vierzehn hellen Objekten über Tremonton, Utah, mit seiner vollständigen Project-Blue-Book-Akte – sowie eine Aufzeichnung vom März 1952, in der Captain Edward J. Ruppelt, der erste Leiter von Blue Book, einem Publikum erklärt, dass ein Fünftel der 800 Fälle der Air Force unerklärt sei und dass sich die Berichte um Los Alamos, Albuquerque und Oak Ridge häuften. Das Korpus registriert Veröffentlichung 06 als Kontext für die Lektüre des Kanons, nicht als Zeichen der Rückkehr – und liest die rechtliche Freistellung des Departments vom 14. September, die aktiven und ehemaligen Bediensteten und Auftragnehmern einen geschützten Kanal öffnet, um UAP-Informationen an PURSUE heranzutragen, als die folgenreichere Entwicklung des Intervalls."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "Der Kontext der Gegenwart"
+cross_reference = "Zeitalter des Wassermanns, §IX"
 canon_links = [
     { title = "Wassermann-Zeitalter", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

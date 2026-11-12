@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 99
@@ -23,14 +23,16 @@ alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "Jehovah", 
 portrait_id = "yahweh"
 image = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.avif"
-image_alt = "AI-generated editorial portrait of Yahweh as an elder Eloha with almond-shaped eyes, long pale hair, and a calm green-lit presence."
-image_caption = "Interpretive portrait for the Yahweh wiki entry and library speaker metadata."
+image_alt = "AI 生成的編輯用肖像：耶和華被描繪為一位年長的耶洛因，有著杏仁形的眼睛、淡色長髮，在綠光中顯得沉靜。"
+image_caption = "為耶和華百科條目及圖書館講者元資料所作的詮釋性肖像。"
 see_also = [
     { title = "耶洛因", path = "wiki/elohim", description = "耶和華為其首要成員的複數稱謂。" },
     { title = "永恆者議會", path = "wiki/council-of-the-eternals", description = "耶和華擔任主席的治理機構。" },
     { title = "耶穌", path = "wiki/jesus", description = "在基督教傳統中慣常被認同為耶和華之子的形象。" },
     { title = "摩西", path = "wiki/moses", description = "出埃及敘事期間耶和華的主要接觸對象。" },
     { title = "亞伯拉罕", path = "wiki/abraham", description = "耶和華藉以建立盟約的奠基性族長。" },
+    { title = "一神論是個問錯的問題", path = "articles/monotheism-is-the-wrong-question", description = "耶和華被讀作一位有名號、代表複數創造者發言的 Eloha——而非存在本身。" },
+    { title = "六個早晨，六年", path = "articles/six-mornings-six-years", description = "將他讀作自己的編修者:隱去的名字、定時的禁令、保護消息來源的修補。" },
 ]
 
 footnotes = [
@@ -116,7 +118,7 @@ born = "約公元前 23,000 年於耶洛因母星(框架內部)"
 age_at_1973_contact = "約二萬五千年"
 bodies = "25(透過細胞轉移延續技術)"
 role = "永恆者議會主席;地球計畫的高階聯盟權威"
-species = "Eloha"
+species = "耶洛因"
 home_world = "位於太陽系外的單一行星"
 earth_role = "指揮地球創造計畫的高階官員;伊甸時期及其後以色列隊的領袖;與希伯來先知傳統對話的主要聯盟代表"
 principal_source = "*來自設計者的訊息*(沃里隆/雷爾,1974–79),耶和華為其第一人稱講者"

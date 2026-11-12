@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -23,14 +23,20 @@ alternative_names = ["Ануннаки", "Небесные", "Создатели
 portrait_id = "elohim"
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.avif"
-image_alt = "AI-generated editorial group portrait of the Elohim as long-haired human-like creators in a green-lit council setting."
-image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
+image_alt = "Созданный ИИ редакционный групповой портрет Элохим — длинноволосых человекоподобных создателей в зале совета в зелёном освещении."
+image_caption = "Интерпретирующий портрет для вики-статьи об Элохим и метаданных персонажей библиотеки."
 see_also = [
+    { title = "Восточный лик Гомера", path = "/articles/the-east-face-of-homer/", description = "Статья, читающая Грецию как провинцию сферы Элохим на основании двух канонических опор." },
+    { title = "Дождь над Геликоном", path = "/articles/the-rain-over-helicon/", description = "Третья греческая статья, взвешивающая, что задокументированная литературная передача может и чего не может установить об общем референте за традициями божественной битвы." },
+    { title = "Ануннаки — это Элохим?", path = "articles/anunnaki-and-the-elohim", description = "Называют ли шумерские Ануннаки тех же творцов — сравнение случай за случаем." },
     { title = "Яхве", path = "wiki/yahweh", description = "Главный из Элохим — президент Совета Вечных." },
     { title = "Совет Вечных", path = "wiki/council-of-the-eternals", description = "Управляющий орган, определяющий судьбу человеческого творения." },
     { title = "Множественность богов", path = "wiki/plurality-of-gods", description = "Филологические основания для трактовки Элохим как множественного числа, а не как «множественного величия»." },
     { title = "Раэлизм", path = "wiki/raelism", description = "Современная интерпретационная оптика, в которой Элохим читаются как развитая человеческая цивилизация." },
-    { title = "Родная планета Элохим", path = "wiki/elohim-home-planet", description = "Планета происхождения, описанная Раэлем после его визита в 1975 году." },
+    { title = "Родная планета Элохимов", path = "wiki/elohim-home-planet", description = "Планета происхождения, описанная Раэлем после его визита в 1975 году." },
+    { title = "Архидиакон и дракон", path = "articles/the-archdeacon-and-the-dragon", description = "Прочтение элохим из Бытия как множественных «Могущественных», на котором держится вся аргументация статьи." },
+    { title = "Свитки, пробудившиеся в первый год", path = "articles/the-scrolls-that-woke-in-year-one", description = "«Сыны Элохим» в 4QDeut(j) и небесные «элохим» в 11QMelchizedek — множественное число, прочитанное на древней кумранской коже." },
+    { title = "Монотеизм — не тот вопрос", path = "articles/monotheism-is-the-wrong-question", description = "Почему единственный библейский «Бог» может быть представительным Элоахом, а не сверхъестественным Абсолютом, — множественность, прочитанная сквозь полемику против идолов." },
 ]
 
 footnotes = [

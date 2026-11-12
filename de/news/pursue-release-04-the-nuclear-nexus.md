@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Vier Wochen nach Veröffentlichung 03 stellte das US-Department of War Veröffentlichung 04 auf war.gov/UFO online: 40 Akten – 14 Dokumente, 19 Videos, 4 Audioaufnahmen und 3 Bilder – aus dem Kriegsministerium, der NASA, der CIA, dem FBI und, zum ersten Mal, dem Department of Energy. Die beiden Leitakten teilen ein Thema: Nuklearwaffenstandorte. Ein neu freigegebenes Protokoll dokumentiert eine Konferenz in Los Alamos von 1949, auf der Physiker des Manhattan-Projekts – unter ihnen Edward Teller, Norris Bradbury und der Meteorexperte Lincoln LaPaz – vergeblich versuchten, die über dem Labor gesichteten „grünen Feuerbälle“ zu erklären; eine Akte des Energieministeriums dokumentiert ein Eindringen in den Luftraum über der Nuklearwaffenanlage Pantex bei Amarillo, Texas, im September 2015. Das Korpus registriert Veröffentlichung 04 als Kontext für die Lektüre des Kanons, nicht als Zeichen – einschließlich ihres nuklearen Themas, das die atomare Schwelle von 1945 berührt, die der Kanon als Beginn der gegenwärtigen Ära behandelt, ohne ein Beleg dafür zu sein."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §III and §IX"
+filed_under = "Der Kontext der Gegenwart"
+cross_reference = "Zeitalter des Wassermanns, §III und §IX"
 canon_links = [
     { title = "Wassermann-Zeitalter", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

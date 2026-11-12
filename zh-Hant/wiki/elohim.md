@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -23,14 +23,20 @@ alternative_names = ["阿努納奇", "天界諸者", "造物主", "厄勒(El)", 
 portrait_id = "elohim"
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.avif"
-image_alt = "AI-generated editorial group portrait of the Elohim as long-haired human-like creators in a green-lit council setting."
-image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
+image_alt = "AI 生成的編輯用群像：耶洛因被描繪為長髮、外貌如人類的創造者，身處綠光照亮的議會場景中。"
+image_caption = "為耶洛因百科條目及圖書館人物元資料所作的詮釋性肖像。"
 see_also = [
+    { title = "荷馬的東面", path = "/articles/the-east-face-of-homer/", description = "此解說文依據兩個正典錨點,將希臘讀作耶洛因勢力範圍中的一個行省。" },
+    { title = "赫利孔山上的雨", path = "/articles/the-rain-over-helicon/", description = "第三篇希臘解說文,衡量有據可查的文學傳播對於神祇爭戰傳統背後共同指涉對象,能證明什麼、不能證明什麼。" },
+    { title = "阿努納奇就是耶洛因嗎?", path = "articles/anunnaki-and-the-elohim", description = "蘇美的阿努納奇是否指稱同一批創造者——逐案比較。" },
     { title = "耶和華", path = "wiki/yahweh", description = "首要的耶洛因 —— 永恆者議會主席。" },
     { title = "永恆者議會", path = "wiki/council-of-the-eternals", description = "決定人類受造命運的治理機構。" },
-    { title = "諸神的複數性", path = "wiki/plurality-of-gods", description = "將「耶洛因」視為真實複數而非莊嚴單數的語文學論證。" },
-    { title = "雷爾運動", path = "wiki/raelism", description = "將耶洛因解讀為一支進步人類文明的當代詮釋視角。" },
-    { title = "耶洛因母星", path = "wiki/elohim-home-planet", description = "雷爾於 1975 年造訪後所描述的源生行星。" },
+    { title = "眾神之多元性", path = "wiki/plurality-of-gods", description = "將「耶洛因」視為真實複數而非莊嚴單數的語文學論證。" },
+    { title = "雷爾派", path = "wiki/raelism", description = "將耶洛因解讀為一支進步人類文明的當代詮釋視角。" },
+    { title = "耶洛因母行星", path = "wiki/elohim-home-planet", description = "雷爾於 1975 年造訪後所描述的源生行星。" },
+    { title = "會吏長與龍", path = "articles/the-archdeacon-and-the-dragon", description = "將《創世記》的 elohim 讀作複數「大能者」的解讀,全文論證即建立於此。" },
+    { title = "在元年甦醒的書卷", path = "articles/the-scrolls-that-woke-in-year-one", description = "4QDeut(j) 的「耶洛因之子」與 11QMelchizedek 中屬天的「elohim」——在古老的庫姆蘭皮卷上讀出的複數。" },
+    { title = "一神論是個問錯的問題", path = "articles/monotheism-is-the-wrong-question", description = "為何聖經中單數的「神」可能是一位代表性的 Eloha,而非超自然的絕對者——從偶像論戰中解讀出的複數性。" },
 ]
 
 footnotes = [

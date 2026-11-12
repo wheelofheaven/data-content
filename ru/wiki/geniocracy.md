@@ -6,27 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Geniocracy (proper-noun framework concept)", "selective democracy (Vorilhon source-textual designation)", "the first New Commandment", "the Raëlian political-governance doctrine", "Géniocratie (French)", "government by the geniuses (descriptive expansion)"]
+alternative_names = ["Geniocracy (proper-noun framework concept)", "selective democracy (Vorilhon source-textual designation)", "первая Новая заповедь", "the Raëlian political-governance doctrine", "Géniocratie (франц.)", "government by the geniuses (descriptive expansion)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Гуманитаризм", path = "wiki/humanitarianism", description = "Заповедь о собственности и наследовании, составляющая пару с гениократией в Новых заповедях." },
+    { title = "Новые заповеди", path = "wiki/new-commandments", description = "Семичастная программа эпохи Водолея, первой заповедью которой является гениократия." },
+    { title = "Яхве", path = "wiki/yahweh", description = "Президент Элохим, изложивший эту доктрину Ворильону." },
+    { title = "Раэль", path = "wiki/rael", description = "Получатель доктрины и основатель Движения за всемирную гениократию." },
+    { title = "Послание от Создателей", path = "wiki/message-from-the-designers", description = "Сводный исходный текст, фиксирующий изначальную формулировку доктрины." },
+    { title = "Раэлизм", path = "wiki/raelism", description = "Движение, внутри которого гениократия функционирует как основополагающая политическая доктрина." },
+]
 
 [extra.infobox]
-type = "Raëlian political-governance doctrine; the first of the seven New Commandments delivered to Vorilhon during the December 1973 contact"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), Sixth Chapter (The New Commandments), section titled Geniocracy; *Géniocratie* (Vorilhon, 1977), the dedicated systematic articulation"
-core_articulation = "'Selective democracy' restricting political eligibility to those whose measured intelligence exceeds specified thresholds — voting reserved for those at least 10% above population average, eligibility for public office reserved for those at least 50% above"
-position_within_seven_commandments = "First New Commandment; the political-governance dimension complementing Humanitarianism, World Government, Demilitarization, Science as Religion, Telepathic Cultivation, and the Metaphysical Clarifications"
-principal_argument_structure = "Universal-suffrage democracy weighs votes equally regardless of capacity to understand issues; majority-rule frequently contradicts expert knowledge (Copernicus example); cells-of-the-body metaphor articulates that specialized capacities should make decisions for the broader system; psychometric measurement provides technical basis for eligibility restriction"
-distinguished_from = "Universal-suffrage democracy (which weighs all votes equally); aristocracy (hereditary-based political authority); plutocracy (wealth-based political authority); monarchy (single-individual hereditary political authority); theocracy (religious-authority-based political authority); technocracy (technical-expertise-based political authority operating substantively differently from intelligence-based selection)"
+type = "Раэлианское учение о правлении; первая из семи Новых заповедей, переданных Ворильону во время контакта в декабре 1973 года"
+principal_source = "*Книга, которая говорит правду* (Ворильон, 1974), шестая глава («Новые заповеди»), раздел «Гениократия»; *Géniocratie* (Ворильон, 1977) — специальное систематическое изложение"
+core_articulation = "«Избирательная демократия», соотносящая политическую правоспособность с измеренным интеллектом: право голоса — для тех, кто превосходит средний уровень населения не менее чем на 10%, право занимать государственные должности — для тех, кто превосходит его не менее чем на 50%"
+position_within_seven_commandments = "Первая Новая заповедь; измерение управления, наряду с Гуманитаризмом, Мировым правительством, Демилитаризацией, Наукой как религией, Развитием телепатии и Метафизическими разъяснениями"
+principal_argument_structure = "Демократия всеобщего избирательного права придаёт каждому голосу равный вес независимо от способности избирателя понимать вопросы; правило большинства часто перевешивает экспертное знание (пример Коперника); метафора клеток тела утверждает, что политическое суждение должно принадлежать тем, кто для него подготовлен; критерий правоспособности даёт психометрическое тестирование"
+distinguished_from = "Демократия всеобщего избирательного права (равный вес всех голосов); аристократия (наследственная власть); плутократия (власть богатства); монархия (единоличный наследственный правитель); теократия (религиозная власть); технократия (специализированная техническая экспертиза, а не общий интеллект); меритократия (доказанные достижения, а не измеренный интеллект)"
 parallel_contemporary_articulations = "Plato's philosopher-kings (*Republic*); Confucian meritocratic civil-service tradition; twentieth-century technocracy movement (Howard Scott); Bertrand Russell's scientific-oligarchy engagement; epistocracy tradition (Jason Brennan, David Estlund); John Stuart Mill's plural-voting proposal; Robert Heinlein's political articulations; Singapore meritocratic-governance experiment"
-mainstream_critical_engagement = "Measurement-validity concerns (Stephen Jay Gould's *The Mismeasure of Man*, the substantial broader critical-psychometric tradition); historical-eugenic associations (the substantial twentieth-century historical experience); democratic-egalitarian concerns (the substantial mainstream democratic-political-philosophy tradition); practical-implementation concerns (the substantial broader concerns about implementation integrity)"
-status_in_framework = "Foundational Raëlian political-governance doctrine; the first of the seven New Commandments constituting the Aquarian-age program; directional orientation rather than immediate institutional change"
-principal_corpus_treatment = "*The Book Which Tells the Truth* (Vorilhon, 1974), Sixth Chapter — principal source articulation; *Géniocratie* (Vorilhon, 1977) — the dedicated systematic articulation; *timeline.epub* — substantial subsequent corpus contextualization within the broader New Commandments framework"
+mainstream_critical_engagement = "Валидность измерения (Стивен Джей Гулд, *The Mismeasure of Man*); исторические связи с евгеникой (Гальтон и опыт XX века); демократически-эгалитарные возражения (Хабермас, Ролз, Уолцер); практическая реализация и риск захвата"
+status_in_framework = "Основополагающее раэлианское учение об управлении; первая из семи Новых заповедей; направляющий ориентир для эпохи Водолея, а не немедленная реформа"
+principal_corpus_treatment = "*Книга, которая говорит правду* (Ворильон, 1974), шестая глава — основное изложение; *Géniocratie* (Ворильон, 1977) — специальное систематическое изложение; позднейшее осмысление в более широкой рамке Новых заповедей"
 +++
 
 **Geniocracy** (from Latin *genius*, "innate ability, natural talent," and

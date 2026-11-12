@@ -6,30 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["the Cities of the Plain", "the Sodom event", "the Sodom strike", "*Sedom va-Amorah* (Hebrew: סְדֹם וַעֲמֹרָה)", "the Genesis 19 destruction", "the Council preventive strike (Taurus phase)", "the second preventive strike", "the Dead Sea event"]
+alternative_names = ["города равнины", "содомское событие", "удар по Содому", "*Sedom va-Amorah* (ивр. סְדֹם וַעֲמֹרָה)", "уничтожение в Бытии 19", "превентивный удар Совета (фаза Тельца)", "второй превентивный удар", "событие у Мёртвого моря"]
 timeline = ["taurus"]
+see_also = [
+    { title = "Великий потоп", path = "wiki/great-flood", description = "Первый удар Совета в планетарном масштабе; Содом — более поздний, локальный." },
+    { title = "Вавилон", path = "wiki/babel", description = "Соседнее послепотопное вмешательство — рассеянный мирный жест, а не подавленный мятеж." },
+    { title = "Авраам", path = "wiki/abraham", description = "Ходатайствует перед Яхве о разрушении городов в Бытии 18." },
+    { title = "Люцифер", path = "wiki/lucifer", description = "Изгнанная благосклонная к людям фракция (Змей), наследие которой содомские мятежники присвоили и извратили." },
+    { title = "Сатана", path = "wiki/satan", description = "Фракция родной планеты, добивавшаяся уничтожения человечества; отлична от Змея-Люцифера." },
+    { title = "Союз", path = "wiki/the-alliance", description = "Орган, политику сдерживания которого обеспечивает удар." },
+]
 
 [extra.infobox]
-type = "Multi-component narrative event; the late-Taurus Council preventive strike against an organized human vengeance movement at the Cities of the Plain"
-chronology = "Late Age of Taurus (conventionally placed approximately 2,000-1,800 BCE on the conventional Abrahamic chronology); approximately 2,500-3,000 years after the Babel intervention; during Abraham's lifetime"
-location = "The Cities of the Plain — Sodom (סְדֹם), Gomorrah (עֲמֹרָה), and the additional cities Admah, Zeboiim, and Zoar — situated in the lower Jordan Valley of the southern Levant; the principal site corresponds to the modern Dead Sea basin"
-participants_council_side = "The home-world Council of the Eternals (the intervening party, monitoring the situation through remote observation); two Council scouts (the 'two angels' of Genesis 19:1) sent for verification reconnaissance; the broader Council military operations responsible for the atomic strike"
-participants_human_side = "The Sodom and Gomorrah rebel population (the descendants of post-Babel scattered scientific elite who had reaccumulated knowledge during the long quiet); Lot and his immediate family (Abraham's nephew, identified by the scouts as not part of the vengeance movement and worth preserving); the broader population of the Cities of the Plain"
-abraham_role = "Witness and intercessor; the Mamre conversation between Abraham and the Yahweh-figure (Genesis 18) preserves the substantial negotiation over the threshold of righteous people; the verification confirmed that the threshold could not be met; the strike was authorized; Abraham's nephew Lot was extracted before the strike"
-purpose_of_the_rebellion = "Organized vengeance / military retaliation: the human-led conspiracy to reverse, by force, the Council's policy of containment, with substantial weapons-program development drawing on scientific knowledge salvaged and reaccumulated during the long quiet between Babel and Sodom"
-council_intervention = "Multi-component intervention: (1) reconnaissance verification by two Council scouts equipped with personal hardware (the 'pocket atomic weapon' of the source's account); (2) extraction of the small population worth preserving (Lot and his immediate family); (3) targeted atomic strike against the Cities of the Plain; (4) substantial geological and ecological transformation of the broader Dead Sea basin"
-physical_signature = "The Dead Sea basin: hypersaline terminal lake approximately 430 meters below sea level, with water ten times saltier than ordinary seawater, dead to all normal aquatic life, sitting in a landscape of sterile salt flats and barren marl; magnesium-chloride dominance; heavy-metal concentrations; surrounding sterilized salt flats extending well beyond ordinary lakeshore evaporation patterns"
-operational_consequence = "The substantial reduction of the Eden lineage to 'a very primitive state' through the elimination of the educated class; the substantial shift from the post-Babel slow-knowledge-reaccumulation phase to the post-Sodom semi-primitive phase; the substantial Serpent-symbolism transformation from positive to negative valence; the broader cultural-symbolic conditions that produced the subsequent Christian-tradition Devil/Lucifer/Serpent conflation"
-distinguished_from = "The Babel intervention (the chronologically earlier Gemini-age dispersion event with substantively different operational character — peace-offering reconciliation attempt vs. organized vengeance movement); the Great Flood (the chronologically much earlier Gemini-age planetary-scale destruction event); the broader Theomachy multi-age narrative (within which Sodom operates as one specific late-Taurus phase); the conventional 'sin of Sodom' theological reading (the framework's specific contribution is the political-military-rebellion reading rather than the conventional sexual-deviance reading)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in 'The Truth' chapter, 'Sodom and Gomorrah' section, of *The Book Which Tells the Truth* establishes the framework's specific content with explicit articulation"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Sodom and Gomorrah' section (the principal Yahweh passage); *timeline.epub* Age of Taurus chapter, Section VI ('The Two Scouts, the Strike, and the Dead Sea') and Section VII ('The Forgetting and the Transformation of the Serpent') — the substantial subsequent corpus articulation"
+type = "Повествовательное событие; удар Совета в конце Эпохи Тельца по организованному движению человеческой мести в городах равнины"
+chronology = "Поздняя Эпоха Тельца (по авраамической хронологии традиционно ок. 2000–1800 гг. до н. э.); примерно через 2500–3000 лет после вмешательства при Вавилоне; при жизни Авраама"
+location = "Города равнины — Содом (סְדֹם), Гоморра (עֲמֹרָה) и ещё Адма, Цевоим и Цоар — в нижней части долины Иордана на юге Леванта; главное место соответствует современной впадине Мёртвого моря"
+participants_council_side = "Совет Вечных родного мира, следивший за ситуацией путём дистанционного наблюдения; два разведчика Совета («два Ангела» из Бытия 19:1), посланные проверить угрозу; персонал Совета, нанёсший удар"
+participants_human_side = "Население Содома и Гоморры — потомки рассеянной после Вавилона научной элиты, вновь собравшие знания во время долгого затишья; Лот и его ближайшая семья (племянник Авраама, признанный непричастным к движению и достойным спасения)"
+abraham_role = "Свидетель и заступник; разговор в Мамре (Бытие 18) сохраняет его торг о пороговом числе праведников; когда порог не был достигнут, удар был санкционирован, а его племянник Лот заранее выведен"
+purpose_of_the_rebellion = "Организованная месть: план во главе с людьми силой отменить политику сдерживания Совета, опираясь на научные знания, спасённые и вновь накопленные во время долгого затишья между Вавилоном и Содомом"
+council_intervention = "(1) разведка двумя разведчиками с личным снаряжением («карманное атомное оружие» источника); (2) вывод немногих достойных спасения (Лот и его семья); (3) направленный атомный удар по городам равнины; (4) геологическое преобразование впадины Мёртвого моря"
+physical_signature = "Впадина Мёртвого моря: гиперсолёное бессточное озеро примерно на 430 метров ниже уровня моря, примерно в десять раз солонее морской воды, лишённое обычной водной жизни; преобладание хлорида магния; аномальные концентрации тяжёлых металлов; окружающие бесплодные солончаки"
+operational_consequence = "Низведение эдемской линии до «весьма первобытного состояния» вследствие утраты её образованного слоя; переход от послевавилонской фазы восстановления к послесодомскому откату; переворот символики Змея с положительной на отрицательную, питавший позднейшее смешение Дьявола, Люцифера и Змея"
+distinguished_from = "Вмешательство при Вавилоне (более раннее мирное предложение, ответом на которое стало рассеяние, а не подавленный мятеж); Великий потоп (гораздо более ранний удар планетарного масштаба); Теомахия в целом (в которой Содом — одна из фаз конца Эпохи Тельца); традиционное прочтение «греха Содома» (рамка видит здесь политико-военный мятеж, а не сексуальное отклонение)"
+status_in_source_material = "Документировано; главный отрывок Яхве находится в разделе «Содом и Гоморра» *Книги, которая говорит правду*"
+principal_text = "*Книга, которая говорит правду* (1974), раздел «Содом и Гоморра» (главный отрывок Яхве); *timeline.epub*, глава об Эпохе Тельца, разделы VI («Два разведчика, удар и Мёртвое море») и VII («Забвение и преображение Змея»)"
 +++
 
 **Sodom and Gomorrah** (Hebrew: סְדֹם וַעֲמֹרָה, *Sedom va-Amorah*) is the

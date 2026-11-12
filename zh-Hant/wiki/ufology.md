@@ -5,29 +5,37 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["ufology", "UAP studies (contemporary policy designation)", "flying saucer studies (historical designation)", "anomalistics (broader related field)", "exopolitics (specific subdiscipline)", "OVNIs (French; Objet volant non identifié)", "UFO research"]
+alternative_names = ["ufology", "UAP 研究（當代政策稱謂）", "飛碟研究（歷史稱謂）", "異常現象學（更廣的相關領域）", "exopolitics (specific subdiscipline)", "OVNIs (French; Objet volant non identifié)", "UFO 研究"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
 see_also = [
+    { title = "外星生物學的軍事隱瞞", path = "wiki/military-cover-up-of-exobiology", description = "貫穿現代 UFO 學的政府保密與揭露問題。" },
     { title = "PURSUE", path = "wiki/pursue", description = "2026 年美國政府於 war.gov/UFO 釋出未結案 UAP 紀錄的計畫——該領域當前的制度性發展。" },
+    { title = "古代宇航員假說", path = "wiki/ancient-astronaut-hypothesis", description = "UFO 學與之並列且常被混淆的歷史性過去接觸傳統。" },
+    { title = "以西結", path = "wiki/ezekiel", description = "框架讀作前現代耶洛因飛行器接觸事件的戰車異象。" },
+    { title = "天體生物學", path = "wiki/astrobiology", description = "研究外星生命的主流科學,有別於 UFO 學對目擊事件的調查。" },
+    { title = "耶洛因母行星", path = "wiki/elohim-home-planet", description = "雷爾報告於 1975 年被帶往的耶洛因世界——框架自身的接觸者案例。" },
+    { title = "比較神話學", path = "wiki/comparative-mythology", description = "瓦萊在此現象中追溯的跨文化民間傳說連續性。" },
+    { title = "眾神之多元性", path = "wiki/plurality-of-gods", description = "前現代 UFO 紀錄所觸及的、對古代天空訪客的解讀。" },
 ]
 
 [extra.infobox]
-type = "Interdisciplinary field studying reports of unidentified flying objects (UFOs) / Unidentified Aerial Phenomena (UAP) and the broader question of non-human technological presence; substantive engagement community within which corpus framework operates"
-disciplinary_origin = "Kenneth Arnold sighting June 24, 1947 (Mount Rainier, Washington); Roswell incident July 1947; subsequent Project Sign 1947-1949, Project Grudge 1949-1952, Project Blue Book 1952-1969 U.S. government investigation programs"
-principal_disciplinary_figures = "J. Allen Hynek (Close Encounter classification; *The UFO Experience*, 1972); Jacques Vallée (*Passport to Magonia*, 1969; cross-cultural folklore framework); Donald Keyhoe (early popularization); Stanton Friedman (nuclear physicist; Roswell engagement); John Mack (Harvard psychiatrist; abduction engagement); Edward Ruppelt (Project Blue Book directorship; coined 'UFO')"
-principal_us_government_programs = "Project Sign 1947-1949; Project Grudge 1949-1952; Project Blue Book 1952-1969; AATIP 2007-2012; AAWSAP; UAP Task Force 2020; All-Domain Anomaly Resolution Office (AARO) 2022"
-principal_2017_2024_transformation = "December 2017 NYT article disclosing AATIP; April 2020 Pentagon UAP video releases; June 2021 ODNI Preliminary Assessment on UAP; July 2023 congressional hearings with David Grusch testimony; September 2023 NASA UAP Independent Study Team report; November 2024 follow-up congressional hearings"
-principal_civilian_organizations = "NICAP (National Investigations Committee on Aerial Phenomena); APRO (Aerial Phenomena Research Organization); CUFOS (Center for UFO Studies); MUFON (Mutual UFO Network)"
-corpus_position = "Engages ufology substantively as the research community within which Vorilhon contact narrative operates as principal contactee case material; differs methodologically from mainstream ufology in that corpus framework operates from established alliance-contact reality (Vorilhon source) rather than from open question whether non-human presence exists"
-distinguished_from = "Astrobiology (the broader scientific field engaging extraterrestrial life question generally; ufology operates as one component); SETI (the search for technological signals from extraterrestrial civilizations; distinct from UFO/UAP investigation); Ancient Astronaut Hypothesis (the engagement with historical evidence for past contact; substantively adjacent but distinct); exopolitics (the specific subdiscipline engaging governmental policy and political dimensions of contact)"
-status_in_framework = "Substantive contemporary research community within which corpus framework's empirical claims about ongoing alliance presence operate"
+type = "研究不明飛行物（UFO）與不明空中現象（UAP）報告，以及地球上是否存在非人類技術的跨學科領域；大致在主流科學之外進行"
+disciplinary_origin = "Kenneth Arnold 的目擊事件，1947 年 6 月 24 日（華盛頓州雷尼爾山）；1947 年 7 月的羅斯威爾回收事件；美國空軍的信號計畫（Project Sign，1947–1949）、怨恨計畫（Project Grudge，1949–1952）與藍皮書計畫（Project Blue Book，1952–1969）"
+principal_figures = "J. Allen Hynek（近距離接觸分類；*The UFO Experience*，1972）；Jacques Vallée（*Passport to Magonia*，1969；跨文化民俗框架）；Donald Keyhoe（早期普及者）；Edward Ruppelt（藍皮書計畫主持人；創造「UFO」一詞）；John Mack（哈佛精神科醫師；綁架事件研究）"
+principal_us_government_programs = "信號計畫（Project Sign，1947–1949）；怨恨計畫（Project Grudge，1949–1952）；藍皮書計畫（Project Blue Book，1952–1969）；AATIP（2007–2012）；UAP 特別工作小組（2020）；全域異常解析辦公室（AARO，2022）"
+modern_uap_era = "2017 年 12 月《紐約時報》關於 AATIP 的報導；2020 年 4 月五角大廈發布 FLIR1、Gimbal 與 GoFast 影片；2021 年 6 月國家情報總監辦公室的評估；2023 年 7 月 David Grusch 出席的國會聽證會；2023 年 9 月 NASA UAP 報告；2024 年 11 月的後續聽證會"
+principal_civilian_organizations = "NICAP；APRO；CUFOS（1973 年由 Hynek 創立）；MUFON"
+principal_skeptics = "Donald Menzel；Philip Klass；Carl Sagan；懷疑論調查委員會（CSICOP／CSI）"
+corpus_position = "將 UFO 學解讀為 1973 年雷爾接觸事件的更廣泛背景，作為眾多接觸者報告之一加以探討；本框架以正典對接觸的記述為出發點，而非以 UFO 學的開放問題為出發點"
+distinguished_from = "天體生物學（研究地外生命的主流科學）；SETI（搜尋技術信號）；遠古外星人假說（歷史上的過往接觸）；外星政治學（政策子領域）"
+status_in_framework = "本框架的創始接觸案例所處的當代領域；有文獻記載的紀錄與外星人詮釋分開看待"
 +++
 
 **Ufology** is the study of reports of **unidentified flying objects (UFOs)**

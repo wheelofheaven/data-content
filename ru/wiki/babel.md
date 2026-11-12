@@ -6,28 +6,36 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["the Tower of Babel", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (Akkadian: 'gate of the god')", "the Babel project", "the Babel event", "the Tower-of-Babel intervention", "the Confounding of Tongues", "the Confusion of Languages"]
+alternative_names = ["Вавилонская башня", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (аккад. «врата бога»)", "вавилонский проект", "вавилонское событие", "the Tower-of-Babel intervention", "смешение языков", "смешение наречий"]
 timeline = ["gemini"]
+see_also = [
+    { title = "Великий потоп", path = "wiki/great-flood", description = "Предшествующий перезапуск Совета; Вавилон — следующее вмешательство против возобновившегося продвижения человечества." },
+    { title = "Завет с Ноем", path = "wiki/noahic-covenant", description = "Частный послепотопный договор, локальный характер которого обнажает Вавилон." },
+    { title = "Содом и Гоморра", path = "wiki/sodom-and-gomorrah", description = "Более поздний удар, отличающийся от Вавилона как подавление мятежа, а не отказ от примирения." },
+    { title = "Теомахия", path = "wiki/theomachy", description = "Более широкий политический конфликт Элохим, к которому принадлежит вмешательство в Вавилоне." },
+    { title = "Яхве", path = "wiki/yahweh", description = "Произносит множественное «сойдём», запускающее вавилонское рассеяние." },
+    { title = "Союз", path = "wiki/the-alliance", description = "Межцивилизационный орган, мирным даром которому была Вавилонская башня." },
+]
 
 [extra.infobox]
-type = "Multi-component narrative event; the post-flood collaborative space-program reconciliation attempt and the Council intervention that ended it"
-chronology = "Late Age of Gemini (c. 6,690 BCE forward on the corpus's compressed timeline); after the Great Flood and the post-flood covenant; before the long Taurus-age quiet that preceded the Sodom and Gomorrah strike"
-location = "The land of Shinar (biblical) corresponding to ancient Sumer in the alluvial plains of the lower Tigris and Euphrates rivers; the principal site corresponds to the broader Babylon-Babel area of southern Mesopotamia"
-participants = "The post-flood Eden-lineage human population (the 'people of Israel' in the source's framing, designating the Eden-lineage genealogical line rather than the later geographical-political Israel); the exiled Serpentine-faction creators (the Lucifer-faction Eloha exiles); the home-world Council of the Eternals (the intervening party)"
-purpose_of_the_tower = "Peace-offering / diplomatic-reconciliation attempt: the alliance's strategic effort to argue the human creation's case before the Council by sending a delegation of human partners to the home world to demonstrate the human creation's intelligence, peacefulness, and gratitude — and to secure formal pardon for the alliance and the broader human creation"
-technological_character = "Substantial interstellar-capable spacecraft (the source's 'enormous rocket' framing); on the corpus's reading, the second-generation craft following first-generation interplanetary craft, with the Tower itself being either the spacecraft or the launch-facility for one"
-council_intervention = "Multi-component intervention: (1) targeted dispersion of the scientific elite across the post-flood continents; (2) destruction of all the research materials and scientific instruments; (3) fragmentation of the unified post-flood language into mutually incomprehensible variants; (4) effective termination of the broader space-program collaboration"
-operational_consequence = "The transformation of the Serpentine faction from peaceful dissidents seeking reconciliation into active rebels; the long quiet across most of the Age of Taurus before the subsequent Sodom rebellion attempt"
-distinguished_from = "The Great Flood (the chronologically prior Gemini-age destruction event); the Sodom and Gomorrah strike (the chronologically subsequent Taurus-age destruction event with substantively different operational character — military strike against rebellion rather than dispersion against reconciliation); the broader Theomachy multi-age narrative (within which the Babel intervention is one specific phase); the various conventional interpretations of Babel as defiance project (the framework's distinctive contribution is the peace-offering reading)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in 'The Tower of Babel' section of *The Book Which Tells the Truth* establishes the framework's specific content with explicit articulation"
-principal_text = "*The Book Which Tells the Truth* (1974), 'The Tower of Babel' section (the principal Yahweh passage); *timeline.epub* Age of Gemini chapter, Section XII (the substantial subsequent corpus articulation with detailed Hebrew exegesis, Sumerian-Enmerkar parallel, and broader narrative-arc context)"
+type = "Послепотопное повествовательное событие; космический проект людей и изгнанных создателей, прочитываемый как попытка примирения, и вмешательство Совета родного мира, положившее ему конец"
+chronology = "Поздняя Эпоха Близнецов (ок. 6690 г. до н. э. и далее в хронологии корпуса); после Великого потопа и Завета с Ноем; до долгого затишья Эпохи Тельца, предшествовавшего удару по Содому и Гоморре"
+location = "Земля Сеннаар (библейская) — древний Шумер, в аллювиальной равнине нижнего течения Тигра и Евфрата; главное место соответствует области Вавилона-Бавеля на юге Месопотамии"
+participants = "Послепотопные люди эдемской линии («народ Израиля» в источнике — население, которое через союзы сынов Элохим с дочерьми человеческими стало еврейским народом); изгнанная фракция создателей во главе с Люцифером; Совет Вечных родного мира (вмешавшаяся сторона)"
+purpose_of_the_tower = "Мирное подношение: попытка альянса защитить дело человеческого творения перед Советом, отправив делегацию людей в родной мир, чтобы показать, что они разумны, миролюбивы и благодарны, — и добиться помилования"
+technological_character = "Космический корабль, способный к межзвёздным полётам («огромная ракета» источника); в прочтении корпуса — корабль второго поколения после более ранних межпланетных, причём Башня была либо самим кораблём, либо его стартовым комплексом"
+council_intervention = "(1) рассеяние научной элиты по послепотопным континентам; (2) уничтожение исследовательских материалов и приборов; (3) раздробление единого языка на взаимно непонятные наречия; (4) прекращение космической программы"
+consequence = "Изгнанная фракция Люцифера переходит от мирного инакомыслия к открытому мятежу; долгое затишье на протяжении большей части Эпохи Тельца перед мятежом в Содоме"
+distinguished_from = "Великий потоп (более ранний удар Эпохи Близнецов); удар по Содому и Гоморре (более поздний, Эпохи Тельца — военный удар против мятежа, а не рассеяние в ответ на примирение); Теомахия в целом (одной из фаз которой является Вавилон); общепринятое прочтение Вавилона как вызова (рамка читает его как мирное подношение)"
+status_in_source_material = "Хорошо документировано; отрывок Яхве в разделе «Вавилонская башня» *Книги, которая говорит правду* прямо излагает основное содержание рамки"
+principal_text = "*Книга, которая говорит правду* (1974), раздел «Вавилонская башня» (главный отрывок Яхве); развито в материале корпуса об Эпохе Близнецов — с экзегезой иврита, параллелью с Энмеркаром и более широким контекстом повествовательной арки"
 +++
 
 **Babel** (Hebrew: בָּבֶל, *Bavel*) is the Tower of Babel episode of

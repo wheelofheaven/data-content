@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,17 +14,26 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Whole-genome synthesis", "Genome engineering", "Genome-scale design"]
+alternative_names = ["全ゲノム合成", "ゲノム工学", "ゲノム規模の設計"]
+see_also = [
+    { title = "生命工学", path = "wiki/life-engineering", description = "合成ゲノミクスがその最も野心的な部門をなす親分野。" },
+    { title = "合成生物学", path = "wiki/synthetic-biology", description = "全ゲノム構築より下の、下位システムの規模で作動する姉妹分野。" },
+    { title = "遺伝子工学", path = "wiki/genetic-engineering", description = "ゲノムを合成するのではなく、既存のゲノムを改変することによって作動する姉妹分野。" },
+    { title = "エロヒム", path = "wiki/elohim", description = "この分野の規模が最も直接的に対応する、生物全体の創造を行った文明。" },
+    { title = "創世記", path = "wiki/genesis", description = "コーパスが設計された配列による生命の構築を記述していると読む創造の物語。" },
+    { title = "生命の樹", path = "wiki/tree-of-life", description = "コーパスが生命創造の工学と対にする、長寿技術の対応物。" },
+    { title = "署名と設計者たち", path = "/articles/the-signature-and-the-designers/", description = "ヴェンターの設計された最小ゲノムを、エロヒムの研究施設の能力の現代における回復として読む。" },
+]
 
 [extra.infobox]
-type = "Engineering sub-discipline of life engineering concerned with whole-genome design and synthesis"
-parent_field = "Life engineering"
-sister_fields = "Genetic engineering; synthetic biology; xenobiology"
-distinguishing_feature = "Operates at the scale of complete genomes rather than at the sub-system or single-gene scale"
-foundational_milestones = "Chemical synthesis of phage φX174 genome (Smith, Hutchison, and Venter, 2003); synthesis of *Mycoplasma genitalium* genome (Gibson and colleagues, 2008); JCVI-syn1.0 — first cell with entirely synthetic genome (Gibson and colleagues, 2010); JCVI-syn3.0 — first minimal synthetic cell, 473 genes (Hutchison and colleagues, 2016); JCVI-syn3A — stabilised minimal-cell platform (Pelletier and colleagues, 2021); Sc2.0 — synthetic *Saccharomyces cerevisiae* genome (international consortium, 2011–present)"
-key_techniques = "Hierarchical assembly of synthetic oligonucleotides; genome transplantation; yeast as DNA-assembly host; whole-chromosome synthesis"
-current_status = "Active scientific discipline; complete bacterial genomes now routinely synthesised; eukaryotic-genome work ongoing; multicellular-genome synthesis not yet achieved"
-framework_significance = "The sub-discipline whose operational scale — whole-organism construction from designed sequence — most directly matches the scale of the Elohim's work as described in the source material"
+type = "ゲノム全体の設計と合成を扱う、生命工学の工学的下位分野"
+parent_field = "生命工学"
+sister_fields = "遺伝子工学、合成生物学、ゼノバイオロジー"
+distinguishing_feature = "サブシステムや単一遺伝子のスケールではなく、完全なゲノムのスケールで働く"
+foundational_milestones = "ファージφX174ゲノムの化学合成(スミス、ハチソン、ヴェンター、2003年)。*Mycoplasma genitalium* ゲノムの合成(ギブソンら、2008年)。JCVI-syn1.0――完全に合成されたゲノムを持つ最初の細胞(ギブソンら、2010年)。JCVI-syn3.0――473遺伝子の最初の最小合成細胞(ハチソンら、2016年)。JCVI-syn3A――安定化された最小細胞プラットフォーム(ペルティエら、2021年)。Sc2.0――合成 *Saccharomyces cerevisiae* ゲノム(国際コンソーシアム、2011年〜現在)"
+key_techniques = "合成オリゴヌクレオチドの階層的組み立て、ゲノム移植、DNA組み立ての宿主としての酵母、染色体全体の合成"
+current_status = "活発な科学分野。完全な細菌ゲノムは今や日常的に合成されている。真核生物ゲノムの作業は進行中。多細胞生物のゲノム合成はまだ達成されていない"
+framework_significance = "その作業スケール――設計された配列からの生物全体の構築――が、典拠資料に記述されたエロヒムの仕事のスケールに最も直接的に一致する下位分野"
 +++
 
 **Synthetic genomics** is the branch of [life engineering](../life-engineering/) concerned with the design, chemical synthesis, and assembly of complete genomes or large portions of genomes — the construction of an organism's entire hereditary material from designed sequence rather than from the modification of existing biological templates. It is the most ambitious wing of contemporary life engineering and the one whose scale of operation most directly approaches the scale at which the Raëlian source material describes the work of the Elohim civilisation. Where [synthetic biology](../synthetic-biology/) more broadly operates at the level of sub-systems and components, and where [genetic engineering](../genetic-engineering/) operates at the level of modifications to existing genomes, synthetic genomics operates at the level of the genome itself.

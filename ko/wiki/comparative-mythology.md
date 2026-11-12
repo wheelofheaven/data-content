@@ -5,25 +5,39 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Comparative Mythology", "comparative religion (overlapping discipline)", "mythography (related but distinct discipline)", "comparative folklore", "Mythologie comparée (French)", "vergleichende Mythologie (German)"]
+alternative_names = ["비교신화학", "비교종교학(겹치는 분야)", "신화지(관련되지만 구별되는 분야)", "비교민속학", "Mythologie comparée (프랑스어)", "vergleichende Mythologie (독일어)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "햄릿의 맷돌", path = "wiki/hamlets-mill", description = "코퍼스가 이 분과의 구조적 조직 원리로 채택하는 세차 부호화 논제." },
+    { title = "테오마키", path = "wiki/theomachy", description = "이 분과가 범문화적으로 목록화하는 신들 사이의 전쟁 모티프 군." },
+    { title = "고대 우주비행사 가설", path = "wiki/ancient-astronaut-hypothesis", description = "코퍼스가 반복되는 모티프들을 읽어 내는 더 넓은 해석 틀." },
+    { title = "신(新)에우헤메리즘", path = "wiki/neo-euhemerism", description = "코퍼스가 범문화적 패턴에 적용하는 공통 역사적 지시 대상의 방법." },
+    { title = "선악을 알게 하는 나무", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "이 분과의 반복 패턴군의 한 사례인 우주 나무 모티프." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "이 분과를 주요 방법론적 원칙 가운데 하나로 삼는 프로젝트." },
+    { title = "카를 융", path = "wiki/carl-jung", description = "(캠벨과 함께) 원형적 신화 해석 학파의 창시자. 그의 『아이온』은 물고기자리 시대를 읽습니다." },
+    { title = "제인 셀러스", path = "wiki/jane-sellers", description = "오시리스의 죽음과 부활 신화에 대한 세차적 독해." },
+    { title = "삼포", path = "wiki/sampo", description = "세계 맷돌 신화소의 발트-핀 계통 사례인 핀란드의 삼포." },
+    { title = "오디세이아 뒤의 세계", path = "/articles/the-world-behind-the-odyssey/", description = "코퍼스의 그리스 사례 연구 — 근동에서 헤시오도스와 호메로스로 이어진 기록된 전승을 다루되, 프레임워크의 독해는 따로 둡니다." },
+    { title = "호메로스의 동쪽 면", path = "/articles/the-east-face-of-homer/", description = "그리스 사례 연구의 후반부: 8세기 전승 회랑의 세부, 그리고 문학적 차용이 증명할 수 있는 것과 없는 것을 가리는 규율." },
+    { title = "헬리콘에 내린 비", path = "/articles/the-rain-over-helicon/", description = "이 분과 자체에 대한 방법 점검: 평행을 우연 이상으로 끌어올리는 검증들을 헤시오도스, 호메로스, 시어, 접촉 경로에 걸쳐 등급을 매깁니다." },
+]
 
 [extra.infobox]
-type = "Academic and interpretive discipline studying recurring patterns across geographically and historically separated mythological corpora; one of the corpus's principal methodological commitments"
-disciplinary_origin = "Late eighteenth-century European Romantic engagement with non-Western mythologies; formal disciplinary emergence in the nineteenth century with Friedrich Max Müller's comparative-philological work and James George Frazer's anthropological-comparative work"
-principal_methodological_schools = "Solar-mythology (Müller); anthropological-comparative (Frazer, Tylor, Lang); diffusionist (Bastian, Vienna school, Pan-Babylonianism); trifunctional structuralism (Dumézil); phenomenological-religious (Eliade, Otto, van der Leeuw); archetypal-Jungian (Jung, Neumann, Campbell); structural-anthropological (Lévi-Strauss); cognitive science of religion (Boyer, Atran, Barrett)"
-principal_motif_clusters = "Creation narratives; flood narratives; sky-visitor and culture-bringer traditions; theomachy / war-among-the-gods; divine descent and divine-human hybrids; golden age and ages-of-the-world traditions; dying-and-rising-god pattern; cosmic mountain and world-axis; cosmic tree; descent-to-the-underworld"
-corpus_position = "Comparative Mythology is one of the corpus's principal methodological commitments; the cross-cultural patterns are taken as substantive evidence requiring substantive explanation; the corpus differs from the mainstream contemporary academic discipline's retreat from grand-theoretical engagement"
-corpus_explanatory_framework = "Cross-cultural patterns explained principally by common historical referents in the alliance-contact framework, integrated with the Hamlet's Mill precessional structural framework; the corpus does not require rejecting cognitive-science, diffusionist, or archetypal explanations but treats them as partial explanations that miss the common-referent component"
-distinguished_from = "Comparative religion (broader disciplinary engagement with religious traditions beyond their mythological content); mythography (descriptive cataloguing of mythological content without comparative-theoretical framework); folklore studies (focused on contemporary oral tradition rather than ancient mythological corpora); cognitive science of religion (which engages cross-cultural patterns but explains them through evolved cognitive structures)"
-status_in_framework = "Principal methodological commitment alongside Sendy's Conditions of Coherence, the Biglino Method, the Hamlet's Mill precessional integration, and the broader corpus's disciplined epistemic-pluralism methodology"
+type = "지리적·역사적으로 떨어진 신화 자료들에 걸쳐 되풀이되는 패턴을 연구하는 학문적·해석적 분야; 코퍼스의 주요 방법론적 원칙 가운데 하나"
+disciplinary_origin = "18세기 후반 유럽 낭만주의의 비서구 신화에 대한 관심; 19세기 프리드리히 막스 뮐러의 비교문헌학 작업과 제임스 조지 프레이저의 인류학적 비교 작업으로 학문 분야로서 공식 등장"
+principal_methodological_schools = "태양신화학파(뮐러); 인류학적 비교학파(프레이저, 타일러, 랭); 전파론(바스티안, 빈 학파, 범바빌론주의); 삼기능 구조주의(뒤메질); 종교현상학(엘리아데, 오토, 반 데르 레이우); 융 학파 원형론(융, 노이만, 캠벨); 구조인류학(레비스트로스); 종교인지과학(보이어, 애트런, 배럿)"
+principal_motif_clusters = "창조 서사; 홍수 서사; 하늘의 방문자와 문화 전달자 전통; 테오마키 / 신들의 전쟁; 신의 강림과 신-인간 혼혈; 황금시대와 세계의 시대 전통; 죽었다가 다시 살아나는 신의 패턴; 우주산과 세계축; 우주수; 저승 하강"
+corpus_position = "비교신화학은 코퍼스의 주요 방법론적 원칙 가운데 하나입니다. 문화 간 패턴은 설명을 요구하는 실제 증거로 받아들여지며, 코퍼스는 거대 이론적 논의에서 물러난 현대 학문 분야와 다른 길을 갑니다"
+corpus_explanatory_framework = "문화 횡단적 패턴은 주로 동맹-접촉 틀의 공통된 역사적 지시 대상으로 설명되며, *햄릿의 맷돌*의 세차 구조 틀과 통합됨; 코퍼스는 인지과학적·전파론적·원형론적 설명을 거부할 필요가 없다고 보며, 다만 이를 공통 지시 대상이라는 요소를 놓치는 부분적 설명으로 다룸"
+distinguished_from = "비교종교학(신화 내용을 넘어 종교 전통을 다루는 더 넓은 분야); 신화지(비교 이론의 틀 없이 신화 내용을 기술적으로 목록화함); 민속학(고대 신화 자료보다 현대의 구전 전통에 초점을 둠); 종교인지과학(문화 횡단적 패턴을 다루지만 진화한 인지 구조로 설명함)"
+status_in_framework = "상디의 정합성 조건, 비글리노 방법, *햄릿의 맷돌*의 세차 통합, 더 넓은 코퍼스의 절제된 인식론적 다원주의 방법론과 나란히 하는 주요 방법론적 원칙"
 +++
 
 **Comparative mythology** is the academic discipline that studies myths from

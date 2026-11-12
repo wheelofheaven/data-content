@@ -6,26 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Science & Technology"
 entry_type = "concept"
-alternative_names = ["astrobiology", "exobiology (earlier synonymous term)", "bioastronomy", "xenobiology (related but distinct)", "astrobiologie (French)", "Astrobiologie (German)"]
+alternative_names = ["астробиология", "экзобиология (более ранний синоним)", "биоастрономия", "ксенобиология (родственная, но отличная)", "astrobiologie (франц.)", "Astrobiologie (нем.)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Макробиология", path = "wiki/macrobiology", description = "Родственная дисциплина: если астробиология изучает жизнь во Вселенной, то макробиология — жизнь как более крупные живые единицы Вселенной." },
+    { title = "Родная планета Элохимов", path = "wiki/elohim-home-planet", description = "Мир, который рамка предлагает как недостающий астробиологии второй пример жизни." },
+    { title = "Гипотеза древних астронавтов", path = "wiki/ancient-astronaut-hypothesis", description = "Смежная традиция, читающая исторические, а не современные свидетельства контакта." },
+    { title = "Космическая Цепь", path = "wiki/cosmic-chain", description = "Рассказ рамки о цивилизациях, засевающих жизнь, — обстановка её прочтения направленной панспермии." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "Более широкая рамка, ставящая тезис о творении рядом с магистральной астробиологией." },
+    { title = "Уравнение Дрейка", path = "wiki/drake-equation", description = "Вероятностная рамка для подсчёта коммуникативных цивилизаций и порождаемый ею вопрос Ферми." },
+    { title = "Жан Сенди", path = "wiki/jean-sendy", description = "Автор, чей аргумент единственной точки данных обрамляет прочтение корпусом вопроса астробиологии." },
+]
 
 [extra.infobox]
-type = "Multidisciplinary scientific field studying the origin, evolution, distribution, and future of life in the universe; subject of substantive corpus engagement at the intersection of mainstream science and the alliance-contact framework"
-discipline_founding = "Joshua Lederberg coined *exobiology* in 1960; the substantial NASA Exobiology Program established 1959-1960; the term *astrobiology* came into general use in the 1990s with the founding of the NASA Astrobiology Institute (1998)"
-principal_methodological_constraint = "Sendy's single-data-point constraint (1970): mainstream biology has access to only terrestrial life as its empirical foundation; general laws of biology derived from this single example operate under substantive methodological limitation"
-principal_research_methods = "Observational astronomy (telescopes, spectroscopy of exoplanet atmospheres); laboratory simulations of extraterrestrial conditions; in situ measurement (Mars rovers, planned Europa mission); theoretical modeling and computer simulation; meteorite analysis; extremophile biology research"
-principal_contemporary_programs = "Exoplanet detection (Kepler, TESS, JWST); Mars missions (Curiosity, Perseverance); Europa Clipper (launched 2024); SETI (Allen Telescope Array, Breakthrough Listen); origin-of-life research (RNA World, alkaline hydrothermal vents, metabolism-first hypotheses)"
-principal_pre_modern_history = "Greek atomist tradition (Anaxagoras, Democritus, Epicurus, Lucretius); medieval Islamic engagement (al-Kindi, al-Biruni); Renaissance plurality-of-worlds tradition (Nicholas of Cusa, Bruno, Kepler); early-modern engagement (Fontenelle, Huygens); 19th-century engagement (Flammarion); 20th-century engagement (Tsiolkovsky, Sagan)"
-corpus_position = "Mainstream astrobiology engaged as substantive scientific work; Vorilhon-source content articulated as documenting alliance-contact narrative that provides the substantive second data point Sendy articulated as resolution to the single-data-point constraint; mainstream science and alliance-contact framework presented as substantively complementary research programs rather than as competing alternatives"
-distinguished_from = "SETI narrowly (the search for technological signals; one component of astrobiology); UFO studies (the engagement with reported sightings; methodologically distinct register); the Ancient Astronaut Hypothesis (the engagement with historical evidence for past contact; substantively adjacent but distinct discipline); xenobiology (the speculative discipline of designing or imagining non-Earth-like biological systems)"
-status_in_framework = "Principal contemporary scientific discipline engaging the corpus's empirical claims about extraterrestrial civilizational existence; substantive corpus engagement at the intersection of mainstream science and the alliance-contact framework"
+type = "Научная область, изучающая происхождение, эволюцию, распространение и будущее жизни во Вселенной; общепринятая дисциплина, которую рамка Wheel of Heaven читает через призму направленной панспермии"
+discipline_founding = "Термин *экзобиология* введён Джошуа Ледербергом в 1960 году; Программа экзобиологии NASA учреждена в 1959–1960 годах; термин *астробиология* вошёл в широкое употребление в 1990-е годы и закрепился с основанием Института астробиологии NASA (1998)"
+principal_methodological_constraint = "Проблема единственной точки данных у Сенди (1970): у биологии есть лишь один пример — земная жизнь, поэтому любые выведенные из неё общие законы остаются предварительными, пока не будет найден или предоставлен второй случай"
+principal_research_methods = "Наблюдательная астрономия и атмосферная спектроскопия; лабораторное моделирование планетных условий и пребиотической химии; измерения на месте (марсоходы, Europa Clipper); теоретическое моделирование; анализ метеоритов; биология экстремофилов"
+principal_contemporary_programs = "Обнаружение экзопланет (Kepler, TESS, JWST); марсианские миссии (Curiosity, Perseverance); Europa Clipper (запущен в 2024 году); SETI (Allen Telescope Array, Breakthrough Listen); исследования происхождения жизни (мир РНК, гидротермальные источники, гипотеза «сначала метаболизм»)"
+principal_pre_modern_history = "Греческие атомисты (Анаксагор, Демокрит, Эпикур, Лукреций); средневековая исламская мысль (аль-Кинди, аль-Бируни); ренессансная традиция множественности миров (Николай Кузанский, Бруно, Кеплер); авторы раннего Нового времени (Фонтенель, Гюйгенс); Фламмарион в XIX веке"
+corpus_position = "Общепринятая астробиология рассматривается как законная наука; рамка читает земную жизнь как спроектированное творение Элохим — конкретный вариант направленной панспермии (Крик и Оргел, 1973), — признавая при этом, что это прочтение не проверено независимо по научным стандартам"
+distinguished_from = "SETI (поиск техносигнатур; одна из частей астробиологии); исследования НЛО/НЛЯ (иной доказательный регистр); гипотеза древних астронавтов (исторические, а не современные свидетельства); ксенобиология (проектирование биохимии, не похожей на земную)"
+status_in_framework = "Современная научная дисциплина, наиболее непосредственно связанная с утверждением корпуса о сотворении; область, в которой рамка помещает своё прочтение через направленную панспермию"
 +++
 
 **Astrobiology** is the scientific study of life in the universe — its origin,

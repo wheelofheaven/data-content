@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -23,14 +23,20 @@ alternative_names = ["Anunnaki", "Celestes", "Creadores", "El", "Dioses", "Los P
 portrait_id = "elohim"
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.avif"
-image_alt = "AI-generated editorial group portrait of the Elohim as long-haired human-like creators in a green-lit council setting."
-image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
+image_alt = "Retrato de grupo editorial generado por IA de los Elohim como creadores de aspecto humano y cabello largo en un escenario de consejo iluminado en verde."
+image_caption = "Retrato interpretativo para la entrada de wiki sobre los Elohim y los metadatos de personajes de la biblioteca."
 see_also = [
+    { title = "El rostro oriental de Homero", path = "/articles/the-east-face-of-homer/", description = "El Explicativo que lee Grecia como una provincia de la esfera elohímica, sobre la base de dos anclajes canónicos." },
+    { title = "La lluvia sobre el Helicón", path = "/articles/the-rain-over-helicon/", description = "El tercer Explicativo griego, que sopesa lo que la transmisión literaria documentada puede y no puede establecer sobre un referente común detrás de las tradiciones del combate divino." },
+    { title = "¿Son los anunnaki los Elohim?", path = "articles/anunnaki-and-the-elohim", description = "Si los anunnaki sumerios nombran a los mismos hacedores: una comparación caso por caso." },
     { title = "Yahvé", path = "wiki/yahweh", description = "El Elohim principal — presidente del Consejo de los Eternos." },
     { title = "Consejo de los Eternos", path = "wiki/council-of-the-eternals", description = "El órgano de gobierno que decide sobre el destino de la creación humana." },
-    { title = "Pluralidad de los Dioses", path = "wiki/plurality-of-gods", description = "El argumento filológico para tratar Elohim como plural y no como un singular mayestático." },
+    { title = "Pluralidad de dioses", path = "wiki/plurality-of-gods", description = "El argumento filológico para tratar Elohim como plural y no como un singular mayestático." },
     { title = "Raelismo", path = "wiki/raelism", description = "La lente interpretativa contemporánea que lee a los Elohim como una civilización humana avanzada." },
-    { title = "Planeta de origen de los Elohim", path = "wiki/elohim-home-planet", description = "El planeta de origen descrito por Raël tras su visita de 1975." },
+    { title = "Planeta natal de los Elohim", path = "wiki/elohim-home-planet", description = "El planeta de origen descrito por Raël tras su visita de 1975." },
+    { title = "El arcediano y el dragón", path = "articles/the-archdeacon-and-the-dragon", description = "La lectura plural de los elohim del Génesis como «los Poderosos», sobre la que descansa todo el argumento del artículo." },
+    { title = "Los rollos que despertaron en el año uno", path = "articles/the-scrolls-that-woke-in-year-one", description = "Los «hijos de Elohim» de 4QDeut(j) y los «elohim» celestiales de 11QMelquisedec: el plural leído en el antiguo cuero de Qumrán." },
+    { title = "El monoteísmo es la pregunta equivocada", path = "articles/monotheism-is-the-wrong-question", description = "Por qué el «Dios» singular de la Biblia puede ser un Eloha representativo y no un Absoluto sobrenatural: la pluralidad leída a través de la polémica contra los ídolos." },
 ]
 
 footnotes = [

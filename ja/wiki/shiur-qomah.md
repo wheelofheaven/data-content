@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["*Shiʿur Qomah* (שִׁעוּר קוֹמָה)", "Sefer Haqqomah(『[神の]身体の書』)", "身丈の寸法", "身体の寸法", "Ma'amar Rabbi Yishmael"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "ヤハウェ", path = "wiki/yahweh", description = "正典がその「創造者の身の丈」の計測をカバラに帰する人物。" },
+    { title = "エロヒムの母星", path = "wiki/elohim-home-planet", description = "テクストのパラサングを光秒として読むとき、この枠組みが取り戻す距離。" },
+    { title = "ヘカロート文献", path = "wiki/hekhalot-literature", description = "このテクストが属する、古代末期の宮殿と戦車の神秘主義のコーパス。" },
+    { title = "カバラ", path = "wiki/kabbalah", description = "ラエルの正典がパラサングの数値の出典として名指す、後代の神秘主義。" },
+    { title = "エロヒム", path = "wiki/elohim", description = "この枠組みが神の身体の数値の背後にその宇宙的計測を読み取る技術者たち。" },
+    { title = "ヘブライ語聖書", path = "wiki/hebrew-bible", description = "その詩篇147:5のゲマトリアが要となる数値236を生む、聖典上の出典。" },
+]
 
 [extra.infobox]
 type = "ヘカロート/メルカバー神秘主義文献に属するテクスト。神の身体を擬人的に捉えた「神の身体の寸法」"

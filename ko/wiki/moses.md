@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,23 +15,31 @@ editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
-alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "Moses the Lawgiver", "Mosheh Rabbenu (\"Moses our Teacher\")"]
+alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "율법 수여자 모세", "Mosheh Rabbenu (\"우리의 스승 모세\")"]
+see_also = [
+    { title = "야훼", path = "wiki/yahweh", description = "불타는 떨기나무와 시나이 접촉 사건 배후의 엘로힘 의장." },
+    { title = "영원자 의회", path = "wiki/council-of-the-eternals", description = "모세가 앞선 다른 예언자들과 함께 자리했다고 전해지는 기구." },
+    { title = "무함마드", path = "wiki/muhammad", description = "모세와 같은 동맹 사자 계보에 속한 후대의 예언자." },
+    { title = "예수", path = "wiki/jesus", description = "모세가 진전시킨 회복을 이어 간 후속 언약 중개자." },
+    { title = "엘리야", path = "wiki/elijah", description = "산 위의 같은 실행적 접촉 전통에 속한 후대의 히브리 예언자." },
+    { title = "예언자 및 종교 목록", path = "wiki/list-of-prophets-and-religions", description = "코퍼스가 모세를 자리매김하는 더 넓은 사자들의 계열." },
+]
 
 [extra.infobox]
-type = "Hebrew prophet, lawgiver, and deliverer"
-hebrew = "<span class=\"hebrew\">מֹשֶׁה</span> *Moshe* (or *Mosheh*)"
+type = "히브리 예언자, 율법 수여자, 구원자"
+hebrew = "<span class=\"hebrew\">מֹשֶׁה</span> *Moshe* (또는 *Mosheh*)"
 arabic = "<span class=\"arabic\">مُوسَىٰ</span> *Mūsā*"
-period = "Conventional dating: 13th century BCE (late Bronze Age); the Exodus traditionally dated to c. 1446 BCE (early-Exodus chronology) or c. 1250 BCE (late-Exodus chronology, the dominant academic position)"
-precessional_age = "Age of Aries (the corpus's precessional reckoning places the Mosaic period in the middle-to-late portion of Aries, c. 2065 BCE through 95 BCE)"
-lifespan = "Traditional 120 years (Deuteronomy 34:7); the figure is theologically significant in Hebrew tradition as the maximum human lifespan after the deluge"
-parents = "Father Amram of the tribe of Levi; mother Jochebed; siblings Aaron (brother, three years older) and Miriam (sister, the prophetess)"
-wife = "Zipporah (daughter of Reuel / Jethro, priest of Midian); also a Cushite wife mentioned in Numbers 12:1"
-sons = "Gershom and Eliezer"
-principal_biblical_sources = "Exodus 1–40; Leviticus 1–27; Numbers 1–36; Deuteronomy 1–34"
-key_episodes = "Birth and exposure on the Nile; killing of the Egyptian taskmaster; flight to Midian; burning bush on Horeb; the ten plagues of Egypt; institution of the Passover; parting of the Red Sea; manna and quail in the wilderness; Sinai theophany; reception of the Decalogue and Torah; the golden calf and the breaking of the tablets; construction of the Tabernacle and Ark of the Covenant; the 12 spies and the wilderness wandering; the bronze serpent; the death on Mount Nebo"
-death = "On Mount Nebo (also called Mount Pisgah) in Moab; buried by YHWH in an unknown location in the valley (Deuteronomy 34:5–6); aged 120 with \"his eye undimmed and his vigor unabated\""
-mosaic_authorship = "Traditional Jewish and Christian tradition attributes the authorship of the Pentateuch to Moses; mainstream academic scholarship treats the Pentateuch as a composite of multiple source-strata (the documentary hypothesis: J, E, D, P) developed across the period from the 10th through the 5th centuries BCE"
-framework_significance = "The most operationally specific sustained-contact relationship in the Hebrew Bible; the burning bush event, the Sinai theophany, the 40-day fasts, the Tabernacle and Ark specifications, the pillar of cloud and fire, the bronze serpent, the manna provision, the face-shining phenomenon, and the death-and-unmarked-grave together constitute the densest concentration of operational content for any prophetic figure in the corpus"
+period = "관습적 연대: 기원전 13세기(후기 청동기 시대); 출애굽은 전통적으로 기원전 약 1446년(이른 출애굽 연대) 또는 기원전 약 1250년(늦은 출애굽 연대, 학계의 지배적 입장)으로 봄"
+precessional_age = "양자리 시대(코퍼스의 세차 계산은 모세 시대를 기원전 약 2065년부터 기원전 95년까지인 양자리의 중후반에 둠)"
+lifespan = "전통적으로 120년(신명기 34:7); 이 수치는 히브리 전통에서 대홍수 이후 인간 수명의 최대치로서 신학적 의미가 있음"
+parents = "아버지는 레위 지파의 아므람; 어머니는 요게벳; 형제자매는 아론(형, 세 살 위)과 미리암(누나, 여예언자)"
+wife = "십보라(미디안 제사장 르우엘 / 이드로의 딸); 민수기 12:1에 언급된 구스 여인 아내도 있음"
+sons = "게르솜과 엘리에셀"
+principal_biblical_sources = "출애굽기 1–40장; 레위기 1–27장; 민수기 1–36장; 신명기 1–34장"
+key_episodes = "출생과 나일강에 버려짐; 이집트인 감독관 살해; 미디안으로 도피; 호렙의 불타는 떨기나무; 이집트의 열 가지 재앙; 유월절 제정; 홍해가 갈라짐; 광야의 만나와 메추라기; 시내산 신현; 십계명과 토라를 받음; 금송아지와 돌판을 깨뜨림; 성막과 언약궤 건조; 열두 정탐꾼과 광야 방랑; 놋뱀; 느보산에서의 죽음"
+death = "모압의 느보산(비스가산이라고도 함)에서; 골짜기의 알려지지 않은 곳에 YHWH가 장사함(신명기 34:5–6); 120세에 \"눈이 흐리지 아니하였고 기력이 쇠하지 아니하였더라\""
+mosaic_authorship = "전통적 유대교와 그리스도교 전승은 오경의 저작을 모세에게 돌림; 주류 학계는 오경을 기원전 10세기부터 5세기에 걸쳐 형성된 여러 자료층(문서설: J, E, D, P)의 복합체로 봄"
+framework_significance = "히브리어 성경에서 작전상 가장 구체적인 지속적 접촉 관계; 불타는 떨기나무 사건, 시내산 신현, 40일 금식, 성막과 언약궤의 명세, 구름 기둥과 불기둥, 놋뱀, 만나 공급, 얼굴의 광채 현상, 죽음과 표시 없는 무덤이 함께 코퍼스의 예언자 인물 가운데 가장 조밀한 작전적 내용을 이룸"
 +++
 
 **Moses** (Hebrew <span class="hebrew">מֹשֶׁה</span>, *Moshe*; Greek *Mōusēs*; Arabic <span class="arabic">مُوسَىٰ</span>, *Mūsā*) is the foundational prophet, lawgiver, and deliverer of the Hebrew Bible, conventionally dated to the 13th century BCE during the late Bronze Age (late Age of Aries on the corpus's precessional reckoning). The **Pentateuch** — the first five books of the Hebrew Bible (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), known in Jewish tradition as the **Torah** ("instruction") — is largely a Moses biography from Exodus 2 onward, recording his Egyptian birth, his exposure and adoption by the Egyptian royal house, his flight to Midian after killing an Egyptian taskmaster, his commissioning at the **burning bush** on Mount Horeb, his leadership of the Israelite exodus from Egyptian slavery, the parting of the **Red Sea**, the **Sinai theophany** and the reception of the **Decalogue** and the broader Torah, the construction of the **Tabernacle** and the **Ark of the Covenant**, the 40-year wilderness wandering, and his death on **Mount Nebo** before the Israelite entry into Canaan.

@@ -6,27 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Four Levels of Consideration", "the Four Levels of Estimation", "the four-level framework", "the four-perspective evaluation framework", "the cosmic-to-individual evaluation framework", "*les quatre plans* (French source-original)"]
+alternative_names = ["고려의 네 단계", "평가의 네 단계", "네 단계 틀", "the four-perspective evaluation framework", "the cosmic-to-individual evaluation framework", "*les quatre plans* (French source-original)"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "무한", path = "wiki/infinity", description = "첫 번째이자 가장 무거운 단계 — 모든 것이 그것에 비추어 판단되는 우주적 기준점." },
+    { title = "엘로힘", path = "wiki/elohim", description = "두 번째 단계 — 인간의 행위가 책임을 지는 창조자들." },
+    { title = "프랙탈 우주론", path = "wiki/fractal-cosmology", description = "무한 단계의 관점에 토대를 제공하는 중첩된 규모의 우주론." },
+    { title = "살아 있는 지구", path = "wiki/living-earth", description = "네 단계가 그 윤리적 상관물로 기능하는 우주론적 배경." },
+    { title = "우주의 사슬", path = "wiki/cosmic-chain", description = "네 단계가 우주에서 개인까지 걸치는 범위 배후의 중첩된 문명 우주론." },
+    { title = "라엘리즘", path = "wiki/raelism", description = "그 원천 텍스트가 처음으로 네 단계 규칙을 진술한 운동." },
+]
 
 [extra.infobox]
-type = "Foundational ethical-practical framework; the ethical-practical correlate of the broader Infinity-Fractal-Cosmology-Mass-Effect-Living-Earth cosmological cluster"
-basic_premise = "In every situation, things must be considered in relation to four levels — the Infinite, the Elohim, human society, and the individual self — operating together as integrated framework with love as constant"
-the_four_levels = "Level 1: The Infinite (cosmic-impersonal level); Level 2: The Elohim (creator-relational level); Level 3: Human society (collective level); Level 4: The individual self (personal level)"
-operational_character = "Multi-perspectival rather than hierarchical: the four levels operate together as integrated framework where all four must be operative simultaneously, with love as the constant integrative principle across all four"
-hierarchical_asymmetry = "While all four levels are operative, they are not equally weighted: 'The most important level is that relating to infinity, for it is in relation to this level that all things must be judged' — the Infinite is the principal evaluative reference point, with the other three levels providing operational specificity within the broader cosmic-Infinite framework"
-tension_resolution_function = "Each level addresses specific failure-modes the other levels can produce when isolated: Level 1 prevents anxious self-importance; Level 2 prevents nihilism; Level 3 prevents solipsism; Level 4 prevents collective-tyranny"
-position_in_framework = "Ethical-practical correlate of the broader cosmological framework cluster (Infinity, Fractal Cosmology, Mass Effect, Living Earth); the framework that translates the broader cosmic content into specific operational guidance for human living"
-distinguished_from = "Conventional ethical hierarchies (which typically operate hierarchically rather than multi-perspectivally); the Hindu purusharthas (which operate as four aims of life rather than as four evaluative perspectives); the Stoic concentric circles of concern (which operate as expanding-circle scope rather than as multi-level evaluation); contemporary effective-altruism frameworks (which typically operate through utilitarian calculus rather than through multi-perspectival integration); Lovecraftian cosmicism (which produces nihilistic implications absent in the framework's love-grounded integration)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in the 'Humanity' section of *The Keys* establishes the framework's specific content with explicit articulation, with substantial subsequent corpus-internal exegesis"
-principal_text = "*Extra-Terrestrials Took Me to Their Planet* (1975), 'The Keys' chapter, 'Humanity' section (the principal Yahweh passage); *Message from the Designers* FAQ section, 'What is the Purpose of Life?' (the substantial subsequent articulation with each level's specific exegesis); the Wheel of Heaven corpus *timeline.epub* outro Section VI"
+type = "윤리적·실천적 틀. 무한–프랙탈 우주론–살아 있는 지구 우주론의 실천적 짝"
+basic_premise = "모든 상황에서 사물은 네 단계 — 무한, 엘로힘, 인간 사회, 개인 — 에 비추어 함께 저울질되어야 하며, 사랑이 그 상수입니다"
+the_four_levels = "1단계: 무한(우주적 관점). 2단계: 엘로힘(창조자들). 3단계: 인간 사회(집단). 4단계: 개인(개인적 의미)"
+operational_character = "위계적이 아니라 다관점적 — 네 단계를 동시에 견지하며, 사랑이 이를 통합하는 상수입니다"
+hierarchical_asymmetry = "단계들의 비중은 같지 않습니다: '가장 중요한 단계는 무한에 관한 단계이며, 모든 것은 바로 이 단계에 비추어 판단해야 합니다.' 무한은 나머지 세 단계를 압도하는 것이 아니라 방향을 잡아 줍니다"
+tension_resolution_function = "각 단계는 다른 단계들이 불러오는 실패를 견제합니다. 1단계는 부풀려진 자기 중요성을, 2단계는 허무주의를, 3단계는 유아론을, 4단계는 집단의 폭정을 견제합니다"
+position_in_framework = "우주론 군(무한, 프랙탈 우주론, 매스 이펙트, 살아 있는 지구)의 윤리적·실천적 측면 — 그 우주론을 삶의 지침으로 바꾸는 규칙"
+distinguished_from = "위계적 가치 사다리(상위 가치가 하위 가치를 압도), 힌두교의 푸루샤르타(네 가지 평가 각도가 아니라 삶의 네 목표), 스토아학파의 관심의 원(다층적 판단이 아니라 범위의 확장), 효과적 이타주의의 계산, 러브크래프트식 우주주의(우주적 규모를 절망으로 읽음)"
+status_in_source_material = "*Extra-Terrestrials Took Me to Their Planet*(1975)의 'The Keys' 중 'Humanity' 절에서 야훼가 직접 진술하며, *Message from the Designers* FAQ에서 단계별로 다시 진술됩니다"
+principal_text = "*Extra-Terrestrials Took Me to Their Planet*(1975), 'The Keys' 장, 'Humanity' 절. *Message from the Designers*의 'What is the Purpose of Life?' 구절"
 +++
 
 {% claim(type="framework", id="woh-claim-0041") %}**Four Levels** is the name the Wheel of Heaven corpus gives to a rule stated by

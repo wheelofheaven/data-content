@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,17 +14,26 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Whole-genome synthesis", "Genome engineering", "Genome-scale design"]
+alternative_names = ["전체 유전체 합성", "유전체 공학", "유전체 규모 설계"]
+see_also = [
+    { title = "생명공학(라이프 엔지니어링)", path = "wiki/life-engineering", description = "합성유전체학이 그 가장 야심 찬 분파를 이루는 상위 분야." },
+    { title = "합성생물학", path = "wiki/synthetic-biology", description = "전체 유전체 구축 아래의 하위 시스템 규모에서 작동하는 자매 분야." },
+    { title = "유전공학", path = "wiki/genetic-engineering", description = "유전체를 합성하는 대신 기존 유전체를 수정하는 방식으로 작동하는 자매 분야." },
+    { title = "엘로힘", path = "wiki/elohim", description = "이 분야의 규모가 그 전체 생물 창조와 가장 직접적으로 일치하는 문명." },
+    { title = "창세기", path = "wiki/genesis", description = "코퍼스가 설계된 서열에 의한 생명 구축을 묘사한 것으로 읽는 창조 서사." },
+    { title = "생명나무", path = "wiki/tree-of-life", description = "코퍼스가 창조된 생명의 공학과 짝짓는 장수 기술의 대응물." },
+    { title = "서명과 설계자들", path = "/articles/the-signature-and-the-designers/", description = "벤터의 설계된 최소 유전체를 엘로힘의 실험실 역량을 오늘날 회복한 것으로 읽습니다." },
+]
 
 [extra.infobox]
-type = "Engineering sub-discipline of life engineering concerned with whole-genome design and synthesis"
-parent_field = "Life engineering"
-sister_fields = "Genetic engineering; synthetic biology; xenobiology"
-distinguishing_feature = "Operates at the scale of complete genomes rather than at the sub-system or single-gene scale"
-foundational_milestones = "Chemical synthesis of phage φX174 genome (Smith, Hutchison, and Venter, 2003); synthesis of *Mycoplasma genitalium* genome (Gibson and colleagues, 2008); JCVI-syn1.0 — first cell with entirely synthetic genome (Gibson and colleagues, 2010); JCVI-syn3.0 — first minimal synthetic cell, 473 genes (Hutchison and colleagues, 2016); JCVI-syn3A — stabilised minimal-cell platform (Pelletier and colleagues, 2021); Sc2.0 — synthetic *Saccharomyces cerevisiae* genome (international consortium, 2011–present)"
-key_techniques = "Hierarchical assembly of synthetic oligonucleotides; genome transplantation; yeast as DNA-assembly host; whole-chromosome synthesis"
-current_status = "Active scientific discipline; complete bacterial genomes now routinely synthesised; eukaryotic-genome work ongoing; multicellular-genome synthesis not yet achieved"
-framework_significance = "The sub-discipline whose operational scale — whole-organism construction from designed sequence — most directly matches the scale of the Elohim's work as described in the source material"
+type = "전체 유전체의 설계와 합성을 다루는 생명 공학의 공학 하위 분야"
+parent_field = "생명 공학"
+sister_fields = "유전공학; 합성생물학; 제노생물학"
+distinguishing_feature = "하위 체계나 단일 유전자 규모가 아니라 완전한 유전체 규모에서 작동함"
+foundational_milestones = "파지 φX174 유전체의 화학적 합성(스미스, 허치슨, 벤터, 2003); *Mycoplasma genitalium* 유전체 합성(깁슨 연구진, 2008); JCVI-syn1.0 — 완전히 합성된 유전체를 지닌 최초의 세포(깁슨 연구진, 2010); JCVI-syn3.0 — 473개 유전자의 최초 최소 합성 세포(허치슨 연구진, 2016); JCVI-syn3A — 안정화된 최소 세포 플랫폼(펠티에 연구진, 2021); Sc2.0 — 합성 *Saccharomyces cerevisiae* 유전체(국제 컨소시엄, 2011–현재)"
+key_techniques = "합성 올리고뉴클레오타이드의 위계적 조립; 유전체 이식; DNA 조립 숙주로서의 효모; 염색체 전체 합성"
+current_status = "활발한 과학 분야; 완전한 세균 유전체가 이제 일상적으로 합성됨; 진핵생물 유전체 작업이 진행 중; 다세포 생물 유전체 합성은 아직 달성되지 않음"
+framework_significance = "그 작업 규모 — 설계된 서열로부터 생물 전체를 구축함 — 가 원전 자료에 묘사된 엘로힘의 작업 규모와 가장 직접적으로 일치하는 하위 분야"
 +++
 
 **Synthetic genomics** is the branch of [life engineering](../life-engineering/) concerned with the design, chemical synthesis, and assembly of complete genomes or large portions of genomes — the construction of an organism's entire hereditary material from designed sequence rather than from the modification of existing biological templates. It is the most ambitious wing of contemporary life engineering and the one whose scale of operation most directly approaches the scale at which the Raëlian source material describes the work of the Elohim civilisation. Where [synthetic biology](../synthetic-biology/) more broadly operates at the level of sub-systems and components, and where [genetic engineering](../genetic-engineering/) operates at the level of modifications to existing genomes, synthetic genomics operates at the level of the genome itself.

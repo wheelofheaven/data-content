@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -34,6 +34,7 @@ see_also = [
     { title = "Apocalypse", path = "/wiki/apocalypse/", description = "La lecture de l'Apocalypse développée dans Les Nouvelles Révélations." },
     { title = "Le Moulin d'Hamlet", path = "/wiki/hamlets-mill/", description = "Lecture mythologico-précessionnelle interculturelle adjacente à l'argument des traces du canon." },
     { title = "Signature redoublée", path = "/wiki/doubled-signature/", description = "Le principe selon lequel le canon et ses textes de référence convergent vers la même réalité sous-jacente." },
+    { title = "Six matins, six ans", path = "/articles/six-mornings-six-years/", description = "Le dossier de critique textuelle en faveur d'un apparat critique sur les trois livres sources." },
 ]
 
 footnotes = [

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -16,19 +16,28 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["dinosaurs", "*taninim* (Hebrew plural)", "*tannin* (Hebrew singular)", "great sea creatures (English softened translation)", "*ketos* (Septuagint Greek)", "*cete grandia* (Vulgate Latin)", "sea monsters", "dragons of the deep"]
 timeline = ["virgo", "leo", "cancer", "gemini"]
+see_also = [
+    { title = "הנחש", path = "wiki/serpent", description = "הנחש, שהמונח העברי שלו חופף לתנין בזיהוי הדרקון בשלושה מונחים בישעיהו כז 1." },
+    { title = "בראשית", path = "wiki/genesis", description = "תיאור הבריאה של היום החמישי בו מכנה את התנינים בפועל הבריאה החזק ביותר, ברא." },
+    { title = "המבול", path = "wiki/great-flood", description = "מבול עידן התאומים, שחיסל את רוב צורות הדרקון הגדולות." },
+    { title = "לוציפר", path = "wiki/lucifer", description = "סיעת האופוזיציה, שאוצר המילים של התנין עוקב אחר מושאיה ההיסטוריים בישעיהו כז 1." },
+    { title = "שָׂטָן", path = "wiki/satan", description = "מסורת היריב, שעליה מופתה מאוחר יותר סמליות הזוחל־הדרקון." },
+    { title = "רשימת קריאות אטימולוגיות", path = "wiki/list-of-etymological-readings", description = "מקומו של התנין בין המונחים העבריים שהקורפוס קורא באופן ישיר." },
+    { title = "עקומת הדרקון", path = "articles/the-dragon-curve", description = "המאמר על התנינים הגדולים של בראשית א 21, הפסוק שהמסר הראשון אינו מצטט לעולם, והדינוזאורים שהוא ממקם לצד העופות." },
+]
 
 [extra.infobox]
-type = "Concept; category of biological organism with substantial source-grounded creation history, mainstream-paleontological correspondence, and cross-cultural mythological-folkloric attestation"
-basic_premise = "Large reptilian or serpentine creatures deliberately created by specific factional teams within the Elohim creation program during the Age of Virgo (c. 13,170 to 11,010 BCE); corresponding to the dinosaurs of mainstream paleontology; the same creatures whose memory is preserved in dragon folklore across virtually every human culture"
-creation_age = "Age of Virgo (c. 13,170 to 11,010 BCE on the corpus's compressed timeline); the fifth day of the Genesis 1 creation sequence"
-creation_attribution = "Specific factional teams within the broader Elohim creation program; identified by the source as 'some other groups of scientists'; recognized within the program itself as vindicating the home-world opposition faction's prior concerns"
-mainstream_paleontology_correspondence = "Dinosaurs of the Mesozoic Era (mainstream date c. 252-66 million years ago; corpus reading: persisting from Virgo through Gemini, c. 13,170 to c. 6,690 BCE); the K-Pg extinction event substantially reread by the corpus through the Gemini-flood framework"
-hebrew_textual_anchor = "Genesis 1:21 וַיִּבְרָא אֱלֹהִים אֶת־הַתַּנִּינִם הַגְּדֹלִים (*Vayivra Elohim et ha-taninim ha-gedolim*, 'And Elohim created the great taninim'); the strongest Hebrew verb of creation (*bara*) used specifically for the *taninim*; cross-referenced in Isaiah 27:1, Psalm 74:13, Jeremiah 51:34, Exodus 7"
-modern_phylogenetic_status = "Birds (Aves) are the surviving theropod lineage of the dinosaur clade; established through Ostrom's 1960s-1970s Deinonychus-Archaeopteryx work and confirmed by the Liaoning feathered-dinosaur fossils from 1996 onward; the dinosaur-bird connection is settled mainstream paleontology"
-cross_cultural_attestation = "Universal dragon memory across virtually every human culture; Chinese *long* (龍), Indian *naga*, Mesoamerican feathered serpents (Quetzalcoatl, Kukulkan), Mesopotamian Tiamat, Ugaritic Lotan and tannanu, Norse Jörmungandr and Niðhöggr, Greek Python and Ladon and Hydra, Aboriginal Australian Rainbow Serpent, various African dragon traditions"
-status_in_source_material = "Substantially documented; the principal source-material passages establish both the dragons' specific creation history and their identification with the dinosaurs of mainstream paleontology"
-distinguished_from = "Mythological invention (the corpus's specific position is that dragon folklore preserves cultural memory of actually-encountered creatures rather than purely imaginative invention); the broader category of fossil organisms (the corpus reads dragons specifically as the deliberately-created creatures, not as products of unguided evolutionary processes); the Lucifer faction's specific historical referents (the Isaiah 27:1 three-term identification of *liwyatan*/*nachash*/*tannin* applies to the Lucifer faction; the same Hebrew word *tannin* operates in different specific contexts)"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Genesis' chapter (the home-world incident passage; the Day 5 creation passage); *timeline.epub* Age of Virgo chapter (Sections VI-IX, with substantial treatment of dragons-as-dinosaurs, the Hebrew *tannin* translation history, and the dinosaur-bird phylogenetic connection); *timeline.epub* Age of Gemini chapter (treatment of the dinosaur-flood connection)"
+type = "מושג; קטגוריה של אורגניזם ביולוגי בעל תולדות בריאה מעוגנות היטב במקור, התאמה לפלאונטולוגיה המקובלת ותיעוד מיתולוגי־פולקלוריסטי בין־תרבותי"
+basic_premise = "יצורים זוחלים או נחשיים גדולים שנבראו במכוון בידי צוותים סיעתיים מסוימים בתוך תוכנית הבריאה של האלוהים בעידן הבתולה (בסביבות 13,170 עד 11,010 לפנה״ס); תואמים את הדינוזאורים של הפלאונטולוגיה המקובלת; אותם יצורים שזכרם נשמר בפולקלור הדרקונים כמעט בכל תרבות אנושית"
+creation_age = "עידן הבתולה (בסביבות 13,170 עד 11,010 לפנה״ס בציר הזמן הדחוס של הקורפוס); היום החמישי ברצף הבריאה של בראשית א"
+creation_attribution = "צוותים סיעתיים מסוימים בתוך תוכנית הבריאה הרחבה של האלוהים; המקור מזהה אותם כ'כמה קבוצות אחרות של מדענים'; בתוך התוכנית עצמה הוכרו כמצדיקים את החששות המוקדמים של סיעת האופוזיציה בעולם הבית"
+mainstream_paleontology_correspondence = "דינוזאורים של הזמן המזוזואי (תיארוך מקובל: לפני כ־252–66 מיליון שנה; קריאת הקורפוס: התקיימו מהבתולה עד התאומים, בסביבות 13,170 עד בסביבות 6,690 לפנה״ס); אירוע ההכחדה K-Pg נקרא מחדש במידה ניכרת בקורפוס דרך מסגרת המבול של עידן התאומים"
+hebrew_textual_anchor = "בראשית א:21 וַיִּבְרָא אֱלֹהִים אֶת־הַתַּנִּינִם הַגְּדֹלִים (*Vayivra Elohim et ha-taninim ha-gedolim*); פועל הבריאה העברי החזק ביותר (*ברא*) משמש במיוחד ל*תנינים*; הפניות מקבילות בישעיהו כז:1, תהילים עד:13, ירמיהו נא:34, שמות ז"
+modern_phylogenetic_status = "העופות (Aves) הם שושלת התרופודים ששרדה מתוך מחלקת הדינוזאורים; הדבר בוסס בעבודתו של אוסטרום על דינוניכוס וארכיאופטריקס בשנות ה־60 וה־70 ואושר במאובני הדינוזאורים המנוצים מליאונינג מ־1996 ואילך; הקשר בין דינוזאורים לעופות הוא פלאונטולוגיה מקובלת ומוכרעת"
+cross_cultural_attestation = "זיכרון דרקונים אוניברסלי כמעט בכל תרבות אנושית; ה*לונג* (龍) הסיני, ה*נאגה* ההודי, הנחשים המנוצים של מסואמריקה (קצלקואטל, קוקולקאן), תיאמת המסופוטמית, לוטן ו־tannanu האוגריתיים, יורמונגנדר וניד'הוג הנורדיים, פיתון, לדון וההידרה היווניים, נחש הקשת של הילידים האוסטרלים, ומסורות דרקונים אפריקאיות שונות"
+status_in_source_material = "מתועד במידה ניכרת; קטעי המקור העיקריים קובעים הן את תולדות הבריאה המסוימות של הדרקונים והן את זיהוים עם הדינוזאורים של הפלאונטולוגיה המקובלת"
+distinguished_from = "המצאה מיתולוגית (עמדתו המסוימת של הקורפוס היא שפולקלור הדרקונים משמר זיכרון תרבותי של יצורים שנפגשו בפועל ולא המצאה דמיונית גרידא); הקטגוריה הרחבה של אורגניזמים מאובנים (הקורפוס קורא את הדרקונים במיוחד כיצורים שנבראו במכוון, ולא כתוצרים של תהליכים אבולוציוניים בלתי מכוונים); המושאים ההיסטוריים המסוימים של סיעת לוציפר (הזיהוי התלת־מונחי של *לויתן*/*נחש*/*תנין* בישעיהו כז:1 חל על סיעת לוציפר; אותה מילה עברית *תנין* פועלת בהקשרים מסוימים שונים)"
+principal_text = "*הספר המגלה את האמת* (1974), פרק 'בראשית' (קטע התקרית בעולם הבית; קטע הבריאה של היום החמישי); *timeline.epub*, פרק עידן הבתולה (סעיפים VI–IX, עם טיפול מקיף בדרקונים כדינוזאורים, בתולדות תרגום ה*תנין* העברי ובקשר הפילוגנטי בין דינוזאורים לעופות); *timeline.epub*, פרק עידן התאומים (טיפול בקשר בין הדינוזאורים למבול)"
 +++
 
 **Dragons** are a category of large reptilian or serpentine creatures that the Wheel of Heaven framework identifies as deliberately created biological organisms produced by specific factional teams within the Elohim creation program during the **Age of Virgo** (c. 13,170 to 11,010 BCE on the corpus's compressed timeline), corresponding to the **fifth day** of the Genesis 1 creation sequence. The framework identifies these creatures with the **dinosaurs** of mainstream paleontology, with the Hebrew word תַּנִּין (*tannin*) of Genesis 1:21 — softened to "whales" or "great sea creatures" in most major Bible translations but unambiguously meaning "dragon" or "sea-monster" in the Hebrew lexicon — providing the principal source-textual anchor. The corpus's reading registers four converging claims: the Hebrew text of Genesis 1:21 explicitly describes the Elohim's creation of dragons using the strongest creation verb available in Hebrew (*bara*); the Raëlian source places dragons and birds together in the same creative age, a pairing that mainstream English translations of Genesis obscure; modern phylogenetics has established that birds are the surviving theropod lineage of the dinosaur clade; and universal dragon memory across human cultures preserves cultural memory of creatures actually encountered before the Gemini-age flood eliminated most of the larger forms.

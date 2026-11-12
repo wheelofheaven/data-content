@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,17 +14,27 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of megalithic sites", "Ancient megalithic architecture index", "Cyclopean and megalithic construction reference"]
+alternative_names = ["巨石遺址目錄", "古代巨石建築索引", "巨型石構與巨石建築參考"]
+see_also = [
+    { title = "古代建造者", path = "wiki/ancient-builders", description = "處理本目錄所列遺址由誰建造的配對條目。" },
+    { title = "考古天文學", path = "wiki/archaeoastronomy", description = "在許多收錄遺址中記錄到的系統性天文方位。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "框架認為曾間歇支持古代先進建造的創造者。" },
+    { title = "神話素與神話母題清單", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "文集與巨石實物證據並讀的神話紀錄。" },
+    { title = "盤古大陸", path = "wiki/pangaea", description = "早於並框定文集深時建造年代學的洪水前陸塊。" },
+    { title = "創世記", path = "wiki/genesis", description = "奠定文集對早期先進人類文明之記述的源敘事。" },
+    { title = "哥貝克力石陣", path = "wiki/gobekli-tepe", description = "約公元前 9600 年的聖所——本目錄所處理之年代最早的遺址。" },
+    { title = "吉薩大獅身人面像", path = "wiki/great-sphinx", description = "吉薩的獅形紀念碑——本目錄所處理的另一個定年異常遺址。" },
+]
 
 [extra.infobox]
-type = "Reference catalogue of megalithic archaeological sites"
-scope = "Pre-Pottery Neolithic through pre-Columbian eras; primary focus on sites with substantial framework relevance"
-criteria_for_inclusion = "Substantial use of large stone blocks (megaliths); evidence of advanced construction technique; documented archaeoastronomical alignments; cultural prominence; or framework relevance for the corpus's interpretive work"
-date_ranges_represented = "From c. 9600 BCE (Göbekli Tepe and Pre-Pottery Neolithic complex) to c. 1600 CE (late pre-Columbian Andean and Mesoamerican)"
-catalogue_columns = "Site name; location; conventional dating; construction features; archaeoastronomy where applicable; framework reading"
-mainstream_archaeology_position = "Sites are products of human civilisations using documented construction techniques appropriate to their periods; framework readings of extreme antiquity or extraterrestrial-assistance are not endorsed by mainstream archaeology"
-framework_position = "Megalithic record preserves operational evidence of advanced ancient construction capability across multiple regions and time-periods, consistent with the corpus's account of intermittent Elohim-supported cultural development during the Earth project's middle and later phases"
-caveat = "Coverage is selective rather than exhaustive; dating and construction-feature claims follow mainstream archaeological consensus where one exists, with contested or alternative claims explicitly flagged"
+type = "巨石考古遺址的參考目錄"
+scope = "前陶器新石器時代至前哥倫布時代；主要聚焦於與本框架高度相關的遺址"
+criteria_for_inclusion = "大量使用大型石塊（巨石）；先進建造技術的證據；有記載的考古天文對準；文化上的顯著地位；或對本文集詮釋工作而言與本框架相關"
+date_ranges_represented = "從約公元前 9600 年（哥貝克力石陣與前陶器新石器時代建築群）至約公元 1600 年（前哥倫布時代晚期的安地斯與中美洲）"
+catalogue_columns = "遺址名稱；地點；傳統定年；建築特徵；適用時的考古天文學；本框架的解讀"
+mainstream_archaeology_position = "這些遺址是人類文明運用與其時代相稱、有記載之建造技術的產物；本框架關於極古年代或地外協助的解讀不為主流考古學所認可"
+framework_position = "逐一登錄各遺址，依各項論點自身的等級，並完整呈現主流考古學的記述；沒有任何遺址、排列或重新定年可作為本框架的證據"
+caveat = "覆蓋是選擇性的而非窮盡的；定年與建築特徵的主張在有主流考古共識時依循之，有爭議或另類的主張皆明確標示"
 +++
 
 This entry catalogues megalithic sites of the ancient world — large stone structures whose construction features, dating, or astronomical alignments make them objects of substantial archaeological interest and, in many cases, objects of the Wheel of Heaven framework's interpretive engagement. *Megalith* derives from the Greek *megas* "great" + *lithos* "stone," and is used in archaeology to designate any structure incorporating large stone blocks as principal construction elements. The conventional archaeological literature treats the megalithic phenomenon as a feature of the Neolithic and Bronze Age periods (c. 9600 BCE through c. 1500 BCE in different regional contexts), with later megalithic traditions (Andean, Mesoamerican, sub-Saharan African) extending in some cases into the second millennium CE. The catalogue's scope encompasses this full range.

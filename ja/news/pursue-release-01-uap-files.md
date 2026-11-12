@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "米国戦争省は war.gov/UFO に公開ポータルを開設し、機密解除されたUAP記録の第一弾——センサーの観測データ、運用者報告、そして1972年のアポロ17号のフレーム——を公開しました。Wheel of Heaven のコーパスは、この公開を兆候としてではなく、正典を読むための文脈として記録します。公開されたいかなるファイルも、この枠組みの証拠ではありません。枠組みが予期する接触は、公式で、条件付きで、日付のないものです。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "現在の文脈"
+cross_reference = "水瓶座の時代、§IX"
 canon_links = [
     { title = "水瓶座の時代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

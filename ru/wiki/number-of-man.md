@@ -6,27 +6,36 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["666", "Six Hundred Sixty-Six", "the Number of the Beast", "the Number of Man (proper-noun framework concept)", "χξϛ (Greek isopsephic representation)"]
+alternative_names = ["666", "Шестьсот шестьдесят шесть", "Число Зверя", "Число человека (понятие рамки как имя собственное)", "χξϛ (греческая изопсефическая запись)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Апокалипсис", path = "wiki/apocalypse", description = "Обстановка Откровения 13:18 и ядерный порог 1945 года, отмечающий 666-е поколение." },
+    { title = "Бытие", path = "wiki/genesis", description = "Событие творения в эдемской лаборатории, которое счёт поколений датирует 11 375 годом до н. э." },
+    { title = "Эпоха мира", path = "wiki/world-age", description = "Прецессионные эпохи, через которые 13 320-летний промежуток тянется до границы Девы и Льва." },
+    { title = "Золотой век", path = "wiki/golden-age", description = "Кульминация эпохи Водолея, к которой траектория от творения до Апокалипсиса приходит через половину цикла." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "Рамка, прецессионную хронологию которой помогает закрепить вычисление 666." },
+    { title = "Раэль", path = "wiki/rael", description = "Источник толкования счёта поколений в книге «Встретим инопланетян»." },
+    { title = "Мельница, что мелет эпохи", path = "articles/the-mill-that-grinds-the-ages", description = "Более широкое прецессионное семейство чисел (72, 2160, 25 920, 432 000), рядом с которым стоит этот счёт поколений, — и предостережение о круглых числах, которое ему сопутствует." },
+]
 
 [extra.infobox]
-type = "Number-symbolic concept; the Revelation 13:18 numerical specification interpreted as the number of human generations from creation to nuclear-acquisition threshold"
+type = "Числово-символическое понятие; 666 из Откровения 13:18, прочитанное как число человеческих поколений от сотворения до порога обретения ядерного оружия"
 value = "666 (Indo-Arabic numeral); χξϛ (Greek isopsephic representation: chi 600 + xi 60 + stigma 6); שש מאות ששים ושש (Hebrew transliteration)"
-principal_source = "Revelation 13:18 (the source-textual location); *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) and consolidated *Message from the Designers* (2005) — the principal corpus interpretation; *timeline.epub* — substantive substantial subsequent corpus refinement"
-core_articulation = "666 = number of human generations from original Eden-laboratory creation through 1945 nuclear-acquisition threshold; with working estimate of 20 years per generation, 666 × 20 = 13,320 years; 1945 − 13,320 = 11,375 BCE creation date at Virgo-Leo precessional boundary"
-mathematical_features = "Triangular number (T_36 = 666); sum of integers from 1 to 36; sum of squares of first seven primes (2² + 3² + 5² + 7² + 11² + 13² + 17² = 666); harshad number (divisible by digit-sum)"
-precessional_calculation = "13,320 years / 2,160 years per Great Month = 6.166... Great Months; structurally close to half a complete Great Year (12,960 years exact half); creation-to-Apocalypse trajectory across approximately half of complete precessional cycle"
-distinguished_from = "the mainstream Nero Caesar isopsephic interpretation (Irenaeus, the substantial subsequent biblical-scholarly tradition); the textual-variant 616 reading (Papyrus 115 evidence); the various papacy-as-beast Reformation-era interpretations; the various contemporary-political-figure interpretations; the various conspiracy-theoretic Mark-of-the-Beast engagements"
+principal_source = "Откровение 13:18 (исходный текст); *Встретим инопланетян* (Ворильон, 1979) и *Послание от Создателей* (2005) — основное толкование в корпусе; *timeline.epub* — уточнение о завершённых людях"
+core_articulation = "666 = число человеческих поколений от изначального сотворения в эдемской лаборатории до порога обретения ядерного оружия в 1945 году; канон (LWTE-2:208–209) относит первых людей к «примерно 13 000 лет назад» и вычисляет 666 × 20 = 13 320 лет; дата 11 375 г. до н. э. (1945 − 13 320) и её размещение у границы Девы и Льва — собственная арифметика корпуса, а не канона"
+mathematical_features = "Треугольное число (T₃₆ = 666); сумма квадратов первых семи простых чисел (2² + 3² + 5² + 7² + 11² + 13² + 17² = 666); число Харшад (делится на сумму своих цифр)"
+precessional_calculation = "13 320 лет ÷ 2160 лет на Великий месяц = 6,166 Великого месяца; близко к половине Великого Года (12 960 лет, ровно шесть Великих месяцев) с избытком в 360 лет; путь от сотворения до Апокалипсиса охватывает примерно половину прецессионного цикла"
+distinguished_from = "Общепринятое прочтение через гематрию имени Нерона Кесаря (Ириней и последующая научная традиция); текстуальный вариант 616 (папирус 115); прочтения эпохи Реформации, отождествлявшие зверя с папством; отождествления с современными политическими фигурами; конспирологические прочтения о начертании зверя"
 parallel_traditions = "Hebrew gematria tradition; Greek isopsephy tradition; Sanskrit-Indian numerical-symbolic traditions; Chinese numerical-symbolic traditions; Mesoamerican calendrical-numerical traditions; various indigenous numerical-symbolic traditions"
-status_in_framework = "Foundational chronological-mathematical concept anchoring the corpus's 11,375 BCE creation-finalization date and the broader precessional-calendrical framework"
-principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) — principal source articulation in 'The Apocalypse of the Final Nuclear Cataclysm' section; *Message from the Designers* (2005) — consolidated English engagement; *timeline.epub* — substantive subsequent refinement registering finalized-humans interpretation"
+status_in_framework = "Основополагающая хронолого-математическая опора для даты сотворения в корпусе, 11 375 г. до н. э., и его прецессионной хронологии"
+principal_corpus_treatment = "*Встретим инопланетян* (Ворильон, 1979), раздел «Апокалипсис последнего ядерного катаклизма»; *Послание от Создателей* (2005); *timeline.epub* — уточнение о завершённых людях"
 +++
 
 **The Number of Man** is the value **666** — written in the Greek of Revelation

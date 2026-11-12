@@ -6,25 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["archaeoastronomy", "astroarchaeology (earlier term)", "cultural astronomy (broader contemporary term)", "ethnoastronomy (related discipline)", "astronomy in culture (alternative designation)", "arch\u00e9oastronomie (French)", "Arch\u00e4oastronomie (German)"]
+alternative_names = ["고고천문학", "천문고고학(이전 용어)", "문화 천문학(더 넓은 현대 용어)", "민족천문학(관련 분야)", "문화 속의 천문학(대안적 명칭)", "archéoastronomie (프랑스어)", "Archäoastronomie (독일어)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus", "age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "햄릿의 맷돌", path = "wiki/hamlets-mill", description = "고고천문학이 그 고대 천문학적 주장을 검증할 수 있는 세차 부호화 가설." },
+    { title = "세계의 시대", path = "wiki/world-age", description = "고대 문화가 세차 지식을 지니고 있었는지에 달려 있는 세차 시대 구조." },
+    { title = "황도대", path = "wiki/zodiac", description = "고고천문학이 유적 정렬을 통해 그 고대 계산을 기록하는 별자리 프레임워크." },
+    { title = "고대 우주비행사 가설", path = "wiki/ancient-astronaut-hypothesis", description = "히파르코스 이전의 인식 문제를 두고 코퍼스가 주류 고고천문학과 엮어 읽는 해석 전통." },
+    { title = "고대 건설자", path = "wiki/ancient-builders", description = "이 분과가 그 천문 정렬을 현장 조사하는 거석·신전 건설자들." },
+    { title = "신성 기하학", path = "wiki/sacred-geometry", description = "이 분과가 정렬된 유적에서 읽어 내는, 천체 지식의 건축적·수학적 부호화." },
+    { title = "괴베클리 테페", path = "wiki/gobekli-tepe", description = "기둥 43 고고천문학 논쟁의 중심에 있는 기원전 약 9600년의 성소." },
+    { title = "그레이엄 핸콕", path = "wiki/graham-hancock", description = "그 책들이 고대 유적에 대한 고고천문학적 독해를 대중화하고 — 또 논쟁을 불러일으킨 — 저술가." },
+    { title = "대스핑크스", path = "wiki/great-sphinx", description = "더 이른 연대 측정과 사자자리 시대 논증의 중심에 있는, 춘분점을 바라보는 사자 기념물." },
+    { title = "오리온 상관관계", path = "wiki/orion-correlation", description = "보발의 기자–오리온 지상 지도 논제와 기원전 약 10,500년이라는 연대." },
+    { title = "존 앤서니 웨스트", path = "wiki/john-anthony-west", description = "웨스트와 슈발레의 상징주의 이집트, 그리고 세차를 추적한 도상이라는 주장." },
+]
 
 [extra.infobox]
-type = "Interdisciplinary scientific field studying astronomical knowledge, practices, and beliefs of ancient and pre-modern cultures; principal empirical discipline relevant to corpus chronological framework"
-disciplinary_emergence = "Sir Norman Lockyer (*The Dawn of Astronomy*, 1894); Alexander Thom (1950s-1970s); Gerald Hawkins (*Stonehenge Decoded*, 1965); the substantial subsequent disciplinary development since the 1960s-1970s"
+type = "고대 및 전근대 문화의 천문 지식, 관행, 믿음을 연구하는 학제 간 과학 분야. 코퍼스의 연대기 틀과 가장 직접적으로 관련된 경험적 학문"
+disciplinary_emergence = "노먼 로키어 경(*The Dawn of Astronomy*, 1894), 알렉산더 톰(1950–1970년대), 제럴드 호킨스(*Stonehenge Decoded*, 1965). 1960–1970년대를 거치며 독립된 학문으로 정착"
 principal_methodological_framework = "Green vs. brown archaeoastronomy distinction (Ruggles); statistical-quantitative analysis (green) vs. intensive cultural-ethnographic engagement (brown)"
-principal_research_methods = "Field surveys with theodolite measurements of alignment azimuths; astronomical reconstruction of ancient skies; ethnographic and ethnohistorical engagement; statistical analysis of alignment populations; computational simulation of ancient celestial conditions; integrated archaeological-astronomical analysis"
-principal_documented_phenomena = "Solar alignments (solstices, equinoxes, cross-quarter days); lunar alignments (18.6-year lunar standstill cycle); stellar alignments (Sirius heliacal rising, Orion, Pleiades, others); planetary alignments (Venus principally); precessional content (contested degree); calendar-mathematical content; broader cosmological-religious content"
-principal_corpus_engagement = "Mainstream archaeoastronomy as substantive empirical foundation for corpus chronological framework; *Hamlet's Mill* precessional-encoding hypothesis as principal load-bearing methodological commitment; substantial cross-cultural pre-Hipparchean precessional awareness as corpus claim"
-distinguished_from = "Astrology (the substantial astrological tradition engaging celestial-terrestrial correspondence); the broader history of astronomy (the substantial discipline studying astronomical knowledge through written records principally); pseudo-archaeoastronomy (the substantial alternative-archaeoastronomy tradition with methodologically problematic engagement)"
-status_in_framework = "Principal empirical discipline relevant to corpus chronological framework; substantive engagement with the *Hamlet's Mill* hypothesis and broader corpus precessional content; corpus position threads mainstream-acceptable and alternative-tradition content carefully"
+principal_research_methods = "경위의로 정렬 방위각을 측정하는 현장 조사, 고대 하늘의 천문학적 재구성, 민족지 및 민족사 연구, 정렬 집단의 통계 분석, 고대 천체 조건의 전산 시뮬레이션, 고고학·천문학 통합 분석"
+principal_documented_phenomena = "태양 정렬(동지·하지, 춘분·추분, 계절 중간일); 달 정렬(18.6년 주기의 달 정지점); 항성 정렬(시리우스의 태양 근접 출현, 오리온, 플레이아데스 등); 행성 정렬(주로 금성); 세차 내용(정도에 대해서는 논쟁 중); 역법-수학적 내용; 더 넓은 우주론적·종교적 내용"
+principal_corpus_engagement = "코퍼스 연대기 틀의 경험적 토대로서의 주류 고고천문학. 하중을 지탱하는 방법론적 원칙으로서 *Hamlet's Mill*의 세차 부호화 가설. 창조자와의 접촉을 통해 전수된 히파르코스 이전의 세차 인식이 코퍼스의 고유한 주장입니다"
+distinguished_from = "점성술(천상과 지상의 대응 전통), 천문학사(주로 문헌 기록을 통한 천문 지식 연구), 사이비 고고천문학(주류 고고천문학이 그 방법을 비판하는 대안 전통)"
+status_in_framework = "코퍼스 연대기 틀과 가장 관련 깊은 경험적 학문. *Hamlet's Mill* 가설을 추론된 기반으로 채택하며, 엄밀한 고고천문학과 사변적 대안 전통을 구별하되 양쪽을 공정하게 읽습니다"
 +++
 
 **Archaeoastronomy** is the interdisciplinary study of how ancient and

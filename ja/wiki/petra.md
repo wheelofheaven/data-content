@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -24,6 +24,14 @@ entry_type = "place"
 claim_type = "speculative"
 timeline = ["pisces"]
 alternative_names = ["Πέτρα(ギリシャ語「岩」)", "רקמו(ナバテア語 Raqmū)", "רֶקֶם(ヘブライ語 Reqem)", "Rekem", "Raqēmō", "ٱلْبَتْرَاء(アラビア語 al-Batrāʾ)", "Sela(聖書の「岩」)", "植民市の母", "峡谷のReqem"]
+see_also = [
+    { title = "ナバテア人", path = "wiki/nabataeans", description = "ペトラを岩窟の首都としたアラブの王国。" },
+    { title = "ハニーフィーヤ", path = "wiki/hanafiyya", description = "この仮説がその地理をペトラへと移す、アブラハムの宗教。" },
+    { title = "ムハンマド", path = "wiki/muhammad", description = "キブラの方角をめぐる議論が、その最初期の共同体をペトラへと向け直す預言者。" },
+    { title = "アブラハム", path = "wiki/abraham", description = "初期イスラムがその回復された宗教を復興したとコーパスが読む族長。" },
+    { title = "神々の複数性", path = "wiki/plurality-of-gods", description = "アブラハム的な読解以前にペトラが擁していた、ナバテアの異教の神々。" },
+    { title = "創世記", path = "wiki/genesis", description = "ペトラ仮説がそれを背景として読まれる、アブラハムの聖典的な背景。" },
+]
 
 [extra.infobox]
 type = "岩窟のナバテア隊商首都;ユネスコ世界遺産;『ペトラ＝本来のメッカ』仮説の地理的中心"

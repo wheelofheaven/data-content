@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,17 +16,26 @@ entry_type = "concept"
 claim_type = "direct"
 alternative_names = ["Genetic modification", "Gene splicing (historical informal usage)", "Recombinant DNA technology (the foundational subdomain)", "Genome editing (the contemporary CRISPR-era subdomain)"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "创世工具箱", path = "wiki/genesis-toolbox", description = "纲领层面的综合，汇集了本学科为其组成部分之一的完整创造技术栈。" },
+    { title = "生命工程", path = "wiki/life-engineering", description = "在框架内统摄基因工程及其姊妹学科的总括概念。" },
+    { title = "合成生物学", path = "wiki/synthetic-biology", description = "与基因工程重叠并加以拓展的工程学科领域。" },
+    { title = "合成基因组学", path = "wiki/synthetic-genomics", description = "从基因工程衍生而来的基因组尺度设计与合成领域。" },
+    { title = "向异演化(pantropy)", path = "wiki/pantropy", description = "为非地球环境改造生物的工程，一门相关的后继学科。" },
+    { title = "大归来", path = "wiki/great-return", description = "框架认为当前工程能力正在为之预备的预期知识传递。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "框架认为人类正在重新获得其原初合成能力的文明。" },
+]
 
 [extra.infobox]
-type = "The scientific discipline of deliberately modifying an organism's genetic material to introduce, alter, or transfer genetic content"
-foundational_period = "Early 1970s — Paul Berg's first recombinant DNA molecule (1972); Stanley Cohen and Herbert Boyer's first successful bacterial transformation with recombinant DNA (1973); the Asilomar Conference (February 1975)"
-foundational_figures = "Paul Berg (Stanford, recombinant DNA, Nobel Prize 1980); Stanley Cohen (Stanford) and Herbert Boyer (UCSF) (Cohen-Boyer technique, 1973); Werner Arber, Daniel Nathans, Hamilton Smith (restriction enzymes, Nobel Prize 1978); Frederick Sanger (DNA sequencing, second Nobel Prize 1980); Kary Mullis (PCR, Nobel Prize 1993); Jennifer Doudna and Emmanuelle Charpentier (CRISPR-Cas9, Nobel Prize 2020)"
-foundational_techniques = "Restriction enzymes; DNA ligase; plasmids as vectors; bacterial transformation; polymerase chain reaction (PCR); DNA sequencing (Sanger method, subsequent next-generation sequencing); gel electrophoresis"
-contemporary_techniques = "CRISPR-Cas9 (genome editing, 2012 onward); CRISPR-Cas12, CRISPR-Cas13 (variant systems); base editing; prime editing; TALENs (transcription activator-like effector nucleases); zinc finger nucleases; gene drives; mRNA technology (substantively developed during the COVID-19 vaccine response)"
-regulatory_framework = "NIH Guidelines for Research Involving Recombinant DNA Molecules (1976, regularly updated); USDA, FDA, EPA regulatory authority (US); the substantially more restrictive EU regulatory framework; Cartagena Protocol on Biosafety (2003); national variations across most jurisdictions; the contemporary contested status of heritable human genome editing"
-major_applications = "Medical (recombinant insulin from 1978, recombinant therapeutic proteins, gene therapy, CAR-T cell therapy, mRNA vaccines); agricultural (Bt crops, Roundup-Ready crops, Golden Rice, the broader GMO industry); industrial (bioplastics, biofuels, recombinant enzymes); research (model organisms, knockout/knock-in studies, cellular reprogramming)"
-related_disciplines = "Synthetic biology; synthetic genomics; pantropy; life engineering (the broader umbrella concept); cell biology; molecular biology; biochemistry; bioinformatics; structural biology"
-framework_significance = "Read by the framework as the substantive recovery by humanity of the engineering capabilities the Elohim used in the original synthesis approximately 25,000 years ago; the contemporary acceleration of genetic-engineering capability corresponds substantively to the framework's reading of the contemporary Age-of-Apocalypse transitional period"
+type = "有意修改生物体遗传物质，以引入、改变或转移遗传内容的科学学科"
+foundational_period = "1970 年代初——保罗·伯格制成第一个重组 DNA 分子（1972）；斯坦利·科恩与赫伯特·博耶首次成功以重组 DNA 转化细菌（1973）；阿西洛马会议（1975 年 2 月）"
+foundational_figures = "保罗·伯格（斯坦福，重组 DNA，1980 年诺贝尔奖）；斯坦利·科恩（斯坦福）与赫伯特·博耶（加州大学旧金山分校）（科恩—博耶技术，1973）；维尔纳·阿尔伯、丹尼尔·内森斯、汉密尔顿·史密斯（限制性内切酶，1978 年诺贝尔奖）；弗雷德里克·桑格（DNA 测序，1980 年第二次获诺贝尔奖）；凯利·穆利斯（PCR，1993 年诺贝尔奖）；詹妮弗·杜德纳与埃马纽埃尔·沙尔庞捷（CRISPR-Cas9，2020 年诺贝尔奖）"
+foundational_techniques = "限制性内切酶；DNA 连接酶；以质粒为载体；细菌转化；聚合酶链式反应（PCR）；DNA 测序（桑格法及其后的二代测序）；凝胶电泳"
+contemporary_techniques = "CRISPR-Cas9（基因组编辑，2012 年起）；CRISPR-Cas12、CRISPR-Cas13（变体系统）；碱基编辑；先导编辑；TALEN（转录激活因子样效应物核酸酶）；锌指核酸酶；基因驱动；mRNA 技术（在 COVID-19 疫苗研发期间迅速发展）"
+regulatory_framework = "美国国立卫生研究院《重组 DNA 分子研究指南》（NIH Guidelines for Research Involving Recombinant DNA Molecules，1976 年，定期更新）；美国农业部、食品药品监督管理局、环境保护署的监管权限（美国）；更为严格的欧盟框架；《卡塔赫纳生物安全议定书》（2003）；大多数司法管辖区的国别差异；可遗传人类基因组编辑的争议地位"
+major_applications = "医学（1978 年起的重组胰岛素、重组治疗性蛋白、基因治疗、CAR-T 细胞疗法、mRNA 疫苗）；农业（Bt 作物、抗农达作物、黄金大米、更广的转基因产业）；工业（生物塑料、生物燃料、重组酶）；研究（模式生物、基因敲除／敲入研究、细胞重编程）"
+related_disciplines = "合成生物学；合成基因组学；向异演化（pantropy）；生命工程（更广的总括概念）；细胞生物学；分子生物学；生物化学；生物信息学；结构生物学"
+framework_significance = "本框架将其解读为人类重新获得耶洛因用以合成地球生命的工程能力；这一能力的加速被解读为启示时代过渡的标志"
 +++
 
 **Genetic engineering** is the deliberate modification of an organism's genetic

@@ -6,29 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Precessional Age", "Astrological Age", "Zodiacal Age", "Great Month", "Platonic Month (older Western-philosophical designation)", "Cosmic Age"]
+alternative_names = ["Прецессионная эпоха", "Астрологическая эпоха", "Зодиакальная эпоха", "Великий Месяц", "Платонов месяц (старое западно-философское обозначение)", "Космическая эпоха"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Великий месяц", path = "wiki/great-month", description = "Синонимичное 2160-летнее подразделение Великого Года, которое называет эпоха мира." },
+    { title = "Мельница Гамлета", path = "wiki/hamlets-mill", description = "Реконструкция Сантильяны и фон Дехенд, из которой рамка черпает свою прецессионную модель." },
+    { title = "Удвоенная подпись", path = "wiki/doubled-signature", description = "Принцип, согласно которому каждая эпоха отсылает и к своему знаку, и к противоположному ему знаку зодиака." },
+    { title = "Космическая Цепь", path = "wiki/cosmic-chain", description = "Космология вложенных масштабов, внутри которой упорядочены прецессионные эпохи." },
+    { title = "Шумерский царский список", path = "wiki/sumerian-king-list", description = "Древняя запись царствований, которую корпус читает на фоне прецессионной хронологии." },
+    { title = "Бытие", path = "wiki/genesis", description = "Повествование о творении, которое корпус накладывает на последовательность прецессионных эпох." },
+    { title = "Мельница, что мелет эпохи", path = "articles/the-mill-that-grinds-the-ages", description = "Последовательность эпох мира, прослеженная через культовые символы, которые её отслеживали, — от «Мельницы Гамлета» до Маззарот." },
+]
 
 [extra.infobox]
-type = "Structural-foundational temporal-cosmological framework concept; the principal organizing temporal unit of the corpus narrative"
-duration = "Approximately 2,160 years per age (one-twelfth of the ~25,920-year Great Year cycle)"
-mechanism = "Produced by the precession of Earth's axis — the slow conical wobble of the rotational axis caused principally by gravitational torque on Earth's equatorial bulge from the sun and moon, completing one full cycle every ~25,920 years at a rate of ~50 arcseconds per year"
-zodiacal_basis = "The twelve constellations of the zodiac, against which the vernal equinox sun rises in succession across the precessional cycle; the equinox moves backward (westward) through the zodiac at one sign per ~2,160 years"
-precessional_direction = "Backward through the zodiac (Capricorn → Sagittarius → Scorpio → Libra → Virgo → Leo → Cancer → Gemini → Taurus → Aries → Pisces → Aquarius → back to Capricorn)"
-great_year_total = "12 ages × 2,160 years = 25,920 years (the complete precessional cycle, also called the Platonic Year, Great Year, or *annus magnus*)"
-current_age = "Age of Aquarius (1950 CE corpus boundary; 1946 CE source-anchored opening) running to ~4110 CE"
-corpus_operational_period = "From the Capricorn-age opening at -21,810 to the Aquarian-age present (approximately 22,000 years), spanning twelve full precessional ages and constituting essentially one complete Great Year of the alliance's creation project"
-foundational_scholarship = "Giorgio de Santillana and Hertha von Dechend, *Hamlet's Mill: An Essay on Myth and the Frame of Time* (Gambit, 1969) — the principal scholarly anchor for the corpus's precessional framework"
-distinguished_from = "Mainstream astrology's tropical-zodiac framework (where signs are tied to seasonal positions rather than to actual constellational positions, decoupled from the precessional motion); the New Age movement's broader Aquarian-age engagement (which operates with various boundary-dating conventions and various interpretive emphases); the broader 'astrological age' popular designation (which often conflates precessional and tropical frameworks)"
-status_in_framework = "Foundational; the World Age operates as the principal organizing temporal-cosmological structure of the entire corpus narrative, with all twelve individual age entries (Capricorn through Aquarius) operating as detailed treatments of specific instances within this overarching framework"
-principal_corpus_treatment = "*timeline.epub*, particularly the Preamble's introduction to the precessional framework, the Libra chapter's articulation of the zodiac as engineering tool (Section VI), the Pisces chapter's articulation of the doubled signature principle, and the Aquarius chapter's articulation of the Great Year completion; *Message from the Designers* references to Aquarius opening; Jean Sendy, *L'ère du Verseau* (1970)"
+type = "Прецессионная эпоха — одна двенадцатая Великого Года; единица длительностью ~2160 лет, которую корпус использует как остов своей хронологии"
+duration = "Около 2160 лет на эпоху (одна двенадцатая цикла Великого Года ~25 920 лет)"
+mechanism = "Обусловлена прецессией земной оси — медленным коническим покачиванием оси вращения, вызванным главным образом гравитационным моментом Солнца и Луны, действующим на экваториальное утолщение Земли; полный цикл завершается примерно за 25 920 лет со скоростью ~50 угловых секунд в год"
+zodiacal_basis = "Двенадцать созвездий зодиака, на фоне которых в ходе прецессионного цикла последовательно восходит солнце весеннего равноденствия; точка равноденствия движется назад (на запад) по зодиаку со скоростью один знак примерно за 2160 лет"
+precessional_direction = "Назад по зодиаку (Козерог → Стрелец → Скорпион → Весы → Дева → Лев → Рак → Близнецы → Телец → Овен → Рыбы → Водолей → снова Козерог)"
+great_year_total = "12 эпох × 2160 лет = 25 920 лет (полный прецессионный цикл, также называемый Платоновым годом, Великим Годом или *annus magnus*)"
+current_age = "Эпоха Водолея (граница корпуса — 1950 г. н. э.; начало по источнику — 1946 г. н. э.), продолжающаяся примерно до 4110 г. н. э."
+corpus_operational_period = "От начала Эпохи Козерога ок. 21 810 г. до н. э. до нынешней Эпохи Водолея — примерно 22 000 лет на протяжении двенадцати прецессионных эпох, около одного полного Великого Года проекта творения Элохим"
+foundational_scholarship = "Джорджо де Сантильяна и Херта фон Дехенд, *Hamlet's Mill: An Essay on Myth and the Frame of Time* (Gambit, 1969) — главная научная опора прецессионной рамки корпуса"
+distinguished_from = "Тропический зодиак общепринятой астрологии (знаки привязаны к временам года, а не к реальным созвездиям, и не связаны с прецессией); «Эпоха Водолея» нью-эйдж (датируемая по разным условностям); расхожая «астрологическая эпоха», часто смешивающая тропическую и прецессионную рамки"
+status_in_framework = "Основополагающее; Эпоха мира — главная хронологическая единица корпуса, и каждой из двенадцати эпох (от Козерога до Водолея) посвящена отдельная статья"
+principal_corpus_treatment = "*timeline.epub*, особенно введение в прецессионную рамку в Преамбуле, изложение зодиака как инженерного инструмента в главе о Весах (раздел VI), глава о Рыбах об удвоенной подписи и глава о Водолее о завершении Великого Года; *Послание от Создателей* — о начале эпохи Водолея; Жан Сенди, *L'ère du Verseau* (1970)"
 +++
 
 A **World Age** — also called a **Precessional Age**, **Astrological Age**,

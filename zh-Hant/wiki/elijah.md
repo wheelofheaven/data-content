@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,21 +15,28 @@ editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
-alternative_names = ["Eliyyahu", "Eliyahu", "Elias", "Ilyas", "Elijah the Tishbite", "Elijah the Messenger"]
+alternative_names = ["Eliyyahu", "Eliyahu", "Elias", "Ilyas", "提斯比人以利亞", "使者以利亞"]
+see_also = [
+    { title = "摩西", path = "wiki/moses", description = "較早的何烈山神顯人物,以利亞敘事刻意呼應其接觸先例。" },
+    { title = "以西結", path = "wiki/ezekiel", description = "其 merkavah 異象是希伯來聖經中唯一比以利亞的戰車更明確的飛行器記述。" },
+    { title = "近距離接觸清單", path = "wiki/list-of-close-encounters", description = "以「以利亞被劫」(約公元前 850 年)之名收錄火戰車升天事件。" },
+    { title = "耶和華", path = "wiki/yahweh", description = "以利亞以其名入名的神名對抗巴力崇拜所宣認的耶洛因主席。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "框架在以利亞的戰車與神顯段落背後讀出其操作性接觸的文明。" },
+]
 
 [extra.infobox]
-type = "Hebrew prophet"
+type = "希伯來先知"
 hebrew = "<span class=\"hebrew\">אֵלִיָּהוּ</span> *Eliyyahu*"
-period = "Mid-9th century BCE, during the reign of King Ahab of Israel (c. 874–853 BCE)"
-precessional_age = "Age of Aries (the corpus's reckoning places the Mosaic and Hebrew prophetic period within the Age of Aries, c. 2065 BCE through 95 BCE)"
-homeland = "Tishbe in Gilead (east of the Jordan River, in the territory of the half-tribe of Manasseh)"
-principal_biblical_sources = "1 Kings 17–19, 21; 2 Kings 1–2"
-key_episodes = "The drought prophecy against Ahab; the brook Cherith; the widow of Zarephath (raising of her son); Mount Carmel contest with the prophets of Baal; Horeb theophany (\"still small voice\"); Naboth's vineyard; the destruction of the captains and their fifties; the translation in the chariot of fire; the transfer of the mantle to Elisha"
-ascension = "2 Kings 2:11 — taken up to heaven in a whirlwind, with a chariot of fire and horses of fire separating him from Elisha"
-return_prophecy = "Malachi 4:5 — \"I will send you the prophet Elijah before the great and terrible day of YHWH\""
-new_testament_identification = "Matthew 11:14, 17:10–13 — John the Baptist identified as \"Elijah who is to come\"; Matthew 17:1–8 — Elijah appears with Moses at the Transfiguration"
-later_tradition = "Cup of Elijah at the Passover seder; chair of Elijah at every brit milah; identified with al-Khidr in Islamic tradition; the Carmelite Catholic order traces its origin to the prophets of Mount Carmel"
-framework_significance = "Multiple operational contact events documented in the Elijah narratives, including the chariot-of-fire translation (the most explicit aerial-craft account in the Hebrew Bible after Ezekiel 1), the Horeb theophany, the Mount Carmel intervention, and the angel-feeding episode at Horeb"
+period = "公元前 9 世紀中葉，以色列王亞哈在位期間（約公元前 874–853 年）"
+precessional_age = "白羊座時代（本文集的推算將摩西與希伯來先知時期置於白羊座時代之內，約公元前 2065 年至公元前 95 年）"
+homeland = "基列的提斯比（約旦河以東，瑪拿西半支派的領土）"
+principal_biblical_sources = "列王紀上 17–19、21；列王紀下 1–2"
+key_episodes = "針對亞哈的乾旱預言；基立溪；撒勒法的寡婦（使其子復活）；迦密山上與巴力先知的較量；何烈山的神顯（「微小的聲音」）；拿伯的葡萄園；五十夫長及其五十人的被滅；在火戰車中被接去；外衣傳給以利沙"
+ascension = "列王紀下 2:11——乘旋風升天，有火車火馬將他與以利沙隔開"
+return_prophecy = "瑪拉基書 4:5——「看哪，耶和華大而可畏之日未到以前，我必差遣先知以利亞到你們那裡去」"
+new_testament_identification = "馬太福音 11:14、17:10–13——施洗約翰被認定為「那應當來的以利亞」；馬太福音 17:1–8——以利亞在登山變像時與摩西一同顯現"
+later_tradition = "逾越節家宴上的以利亞之杯；每一次割禮（brit milah）上的以利亞之椅；在伊斯蘭傳統中被等同於黑德爾（al-Khidr）；天主教加爾默羅會將其起源追溯至迦密山的先知們"
+framework_significance = "以利亞敘事中記載了多起實際接觸事件，包括火戰車的接升（希伯來聖經中僅次於以西結書第 1 章最明確的飛行器記述）、何烈山的神顯、迦密山的干預，以及何烈山上天使供食的事件"
 +++
 
 **Elijah** (Hebrew <span class="hebrew">אֵלִיָּהוּ</span>, *Eliyyahu*, conventionally Latinised as *Elias*; Arabic *Ilyās*) is one of the most theologically significant prophets of the Hebrew Bible. Active in the northern Kingdom of Israel during the reign of **King Ahab** (c. 874–853 BCE) and his son Ahaziah (c. 853–852 BCE), Elijah is depicted in 1 Kings 17–19 and 21 and in 2 Kings 1–2 as the principal prophetic opponent of Ahab's Tyrian queen **Jezebel** and her promotion of the Baal cult in northern Israel. He is best known for the **Mount Carmel contest** against the prophets of Baal (1 Kings 18), the **Horeb theophany** of the "still small voice" (1 Kings 19), and his **translation into the heavens in a chariot of fire** (2 Kings 2:11) — the latter making Elijah, alongside Enoch (Genesis 5:24), one of only two figures in the Hebrew Bible whom the canonical text describes as having been taken up without experiencing death. Elijah is also the figure whose prophesied return (Malachi 4:5) became central to subsequent Jewish messianic expectation and whom the New Testament Gospels identify with John the Baptist (Matthew 11:14, 17:10–13).

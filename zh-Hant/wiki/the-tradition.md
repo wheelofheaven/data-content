@@ -6,26 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["la Tradition (French, Sendy's principal designation)", "the Tradition (capitalized to distinguish from generic 'tradition')", "the chain of Tradition (in the Hebrew *shalshelet ha-Kabbalah* sense)", "the perennial Tradition (in partial alignment with the perennialist designation)", "the Hermetic Tradition (in Western-esoteric usage)", "the Wisdom Tradition (in broader spiritual usage)"]
+alternative_names = ["la Tradition (French, Sendy's principal designation)", "傳統（大寫，以區別於一般意義的「傳統」）", "傳統之鏈（希伯來語 *shalshelet ha-Kabbalah* 意義上）", "永恆傳統（部分對應長青哲學的稱謂）", "赫密士傳統（西方祕傳用法）", "智慧傳統（更廣的靈性用法）"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "讓·桑迪", path = "wiki/jean-sendy", description = "將「傳統」闡述為其框架核心支架的作者。" },
+    { title = "卡巴拉", path = "wiki/kabbalah", description = "桑迪視為主要傳承鏈的希伯來祕傳—保護性支流。" },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "承繼桑迪之「傳統」並以新的源材料加以延伸的框架。" },
+    { title = "世界時代", path = "wiki/world-age", description = "文集與桑迪之傳承譜系整合的歲差年代學。" },
+    { title = "希伯來聖經", path = "wiki/hebrew-bible", description = "桑迪在「傳統」中為其保存之天空民族內容而研讀的主要文集。" },
+    { title = "眾神之多元性", path = "wiki/plurality-of-gods", description = "「傳統」所承載之保存的宇宙—宗教知識中一個被復原的元素。" },
+    { title = "那個把聖經押在月球上的人", path = "articles/the-man-who-bet-the-bible-on-the-moon", description = "讓·桑迪透過首席拉比薩夫蘭的《卡巴拉》研究「傳統」——完整研究。" },
+]
 
 [extra.infobox]
-type = "Foundational Sendy-derived framework concept; the cross-cultural body of preserved knowledge transmitted across millennia within esoteric pedagogical-textual traditions"
-principal_articulator = "Jean Sendy (1910-1978), French author whose major works articulate The Tradition as the central interpretive scaffold of his broader framework"
+type = "源自桑迪的基礎框架概念：在秘傳教學譜系中歷經數千年傳下、跨文化的保存知識總體"
+principal_articulator = "Jean Sendy（1910–1978），法國作家，其著作將傳統闡述為其框架的核心詮釋骨架"
 principal_works = "*Les cahiers de cours de Moïse* (Julliard, 1963); *La Lune, clé de la Bible* (Julliard, 1968); *Les dieux nous sont nés* (Grasset, 1966); *Ces dieux qui firent le ciel et la terre* (Robert Laffont, 1969); *L'ère du Verseau* (Robert Laffont, 1970); *Nous autres, gens du Moyen Âge*"
-core_content = "Substantial body of preserved knowledge content (cosmic, astronomical, religious, technical) traceable to original Elohim contact during the early post-flood ages; transmitted across millennia within specific pedagogical-priestly chains across multiple cultural-religious traditions"
-principal_transmission_lineages = "The Egyptian priestly tradition; the Hebrew prophetic and rabbinic tradition (with the Kabbalistic tradition as the principal esoteric-protective stream); the Pythagorean-Platonic Greek philosophical tradition; the Hermetic tradition (Hermes Trismegistus, Corpus Hermeticum); the Christian medieval-scholastic tradition; the various subsequent esoteric-transmission traditions"
-distinguished_from = "Mainstream sociological 'tradition' (cultural-customary practices passed down through generations); mainstream comparative-religion 'tradition' (substantial religious-cultural inheritance generally); the perennialist tradition's 'transcendent unity of religions' framework (which operates through different epistemic commitments); the broader 'New Age' wisdom-tradition popularization (which operates with substantial dilution of the specific content)"
-sendy_central_position = "Self-positioning as 'medievalist' — embracing the broader medieval intellectual tradition that the Renaissance / Enlightenment 'humanist' tradition rejected as superstition; the medievalist self-positioning operating paradoxically-rhetorically as the substantial argument that medieval anticipations (transmutation of metals, flying machines, going to the moon, extraterrestrial life) have been progressively confirmed by twentieth-century science while humanist confident dismissal has been progressively falsified"
-status_in_framework = "Foundational concept; the principal Sendy-derived interpretive scaffold supporting the corpus's broader cross-cultural integration"
-principal_corpus_treatment = "Sendy's *L'ère du Verseau* (1970), particularly the *Le Sceau de Salomon et la Tradition de Platon* and *Les Sources de la Tradition* sections; *Ces dieux qui firent le ciel et la terre* (1969); *Les cahiers de cours de Moïse* (1963); subsequent corpus development integrating Sendy's framework with Raëlian source material and *Hamlet's Mill* precessional reconstruction"
+core_content = "可追溯至洪水後早期各時代與耶洛因接觸的保存知識總體（宇宙、天文、宗教、技術），在眾多文化—宗教傳統的祭司與教學鏈中傳承"
+principal_transmission_lineages = "埃及祭司階層；希伯來先知與拉比傳統（以卡巴拉為其主要秘傳流派）；畢達哥拉斯—柏拉圖派希臘哲學家；赫密士傳統（三重偉大的赫密士、*Corpus Hermeticum*）；中世紀基督教學派；以及後來的西方秘傳譜系"
+distinguished_from = "一般社會學意義上的傳統（一個文化所傳承的習俗）；永恆主義的「諸宗教的超越性統一」（建立在不同的承諾之上）；以及通俗新時代運動的「智慧傳統」（稀釋了特定內容）"
+sendy_central_position = "桑迪自認為「中世紀主義者」（*médiéviste*）——站在被文藝復興與啟蒙運動「人文主義者」斥為迷信的中世紀思想傳統一邊，理由是其預見（金屬嬗變、飛行器、登月旅行、其他世界上的生命）此後已被二十世紀科學證實，而人文主義者的否定則已被證偽"
+status_in_framework = "基礎概念；源自桑迪、供語料進行跨文化整合的主要骨架"
+principal_corpus_treatment = "桑迪的 *L'ère du Verseau*（1970），尤其是其中 *Le Sceau de Salomon et la Tradition de Platon* 與 *Les Sources de la Tradition* 兩節；*Ces dieux qui firent le ciel et la terre*（1969）；*Les cahiers de cours de Moïse*（1963）；並由語料對雷爾派材料與《哈姆雷特之磨》歲差重建的整合加以延伸"
 +++
 
 **The Tradition** (French *la Tradition*; Hebrew שַׁלְשֶׁלֶת הַקַּבָּלָה,

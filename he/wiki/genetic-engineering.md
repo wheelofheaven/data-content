@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,17 +17,26 @@ entry_type = "concept"
 claim_type = "direct"
 alternative_names = ["Genetic modification", "Gene splicing (historical informal usage)", "Recombinant DNA technology (the foundational subdomain)", "Genome editing (the contemporary CRISPR-era subdomain)"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "ארגז הכלים של הבריאה", path = "wiki/genesis-toolbox", description = "הסינתזה ברמת התוכנית, המרכיבה את מערך הבריאה המלא שתחום זה הוא רכיב אחד בו." },
+    { title = "הנדסת חיים", path = "wiki/life-engineering", description = "מושג־העל המארגן את ההנדסה הגנטית ואת תחומיה האחים בתוך המסגרת." },
+    { title = "ביולוגיה סינתטית", path = "wiki/synthetic-biology", description = "התחום ההנדסי החופף להנדסה הגנטית ומרחיב אותה." },
+    { title = "גנומיקה סינתטית", path = "wiki/synthetic-genomics", description = "תחום התכנון והסינתזה ברמת הגנום, שצמח מתוך ההנדסה הגנטית." },
+    { title = "פנטרופיה", path = "wiki/pantropy", description = "הנדסת אורגניזמים לסביבות שאינן ארציות — תחום צאצא קרוב." },
+    { title = "השיבה הגדולה", path = "wiki/great-return", description = "העברת הידע הצפויה, שהמסגרת רואה ביכולת ההנדסה הנוכחית הכנה לקראתה." },
+    { title = "אלוהים", path = "wiki/elohim", description = "הציוויליזציה שהמסגרת קוראת את האנושות כמשחזרת את יכולת הסינתזה המקורית שלה." },
+]
 
 [extra.infobox]
-type = "The scientific discipline of deliberately modifying an organism's genetic material to introduce, alter, or transfer genetic content"
-foundational_period = "Early 1970s — Paul Berg's first recombinant DNA molecule (1972); Stanley Cohen and Herbert Boyer's first successful bacterial transformation with recombinant DNA (1973); the Asilomar Conference (February 1975)"
-foundational_figures = "Paul Berg (Stanford, recombinant DNA, Nobel Prize 1980); Stanley Cohen (Stanford) and Herbert Boyer (UCSF) (Cohen-Boyer technique, 1973); Werner Arber, Daniel Nathans, Hamilton Smith (restriction enzymes, Nobel Prize 1978); Frederick Sanger (DNA sequencing, second Nobel Prize 1980); Kary Mullis (PCR, Nobel Prize 1993); Jennifer Doudna and Emmanuelle Charpentier (CRISPR-Cas9, Nobel Prize 2020)"
-foundational_techniques = "Restriction enzymes; DNA ligase; plasmids as vectors; bacterial transformation; polymerase chain reaction (PCR); DNA sequencing (Sanger method, subsequent next-generation sequencing); gel electrophoresis"
-contemporary_techniques = "CRISPR-Cas9 (genome editing, 2012 onward); CRISPR-Cas12, CRISPR-Cas13 (variant systems); base editing; prime editing; TALENs (transcription activator-like effector nucleases); zinc finger nucleases; gene drives; mRNA technology (substantively developed during the COVID-19 vaccine response)"
-regulatory_framework = "NIH Guidelines for Research Involving Recombinant DNA Molecules (1976, regularly updated); USDA, FDA, EPA regulatory authority (US); the substantially more restrictive EU regulatory framework; Cartagena Protocol on Biosafety (2003); national variations across most jurisdictions; the contemporary contested status of heritable human genome editing"
-major_applications = "Medical (recombinant insulin from 1978, recombinant therapeutic proteins, gene therapy, CAR-T cell therapy, mRNA vaccines); agricultural (Bt crops, Roundup-Ready crops, Golden Rice, the broader GMO industry); industrial (bioplastics, biofuels, recombinant enzymes); research (model organisms, knockout/knock-in studies, cellular reprogramming)"
-related_disciplines = "Synthetic biology; synthetic genomics; pantropy; life engineering (the broader umbrella concept); cell biology; molecular biology; biochemistry; bioinformatics; structural biology"
-framework_significance = "Read by the framework as the substantive recovery by humanity of the engineering capabilities the Elohim used in the original synthesis approximately 25,000 years ago; the contemporary acceleration of genetic-engineering capability corresponds substantively to the framework's reading of the contemporary Age-of-Apocalypse transitional period"
+type = "התחום המדעי של שינוי מכוון של החומר הגנטי של אורגניזם כדי להכניס, לשנות או להעביר תוכן גנטי"
+foundational_period = "תחילת שנות ה־70 — מולקולת ה־DNA הרקומביננטית הראשונה של פול ברג (1972); הטרנספורמציה החיידקית המוצלחת הראשונה ב־DNA רקומביננטי של סטנלי כהן והרברט בויר (1973); ועידת אסילומר (פברואר 1975)"
+foundational_figures = "פול ברג (סטנפורד, DNA רקומביננטי, פרס נובל 1980); סטנלי כהן (סטנפורד) והרברט בויר (UCSF) (שיטת כהן–בויר, 1973); ורנר ארבר, דניאל נתנס, המילטון סמית' (אנזימי הגבלה, פרס נובל 1978); פרדריק סנגר (ריצוף DNA, פרס נובל שני 1980); קרי מוליס (PCR, פרס נובל 1993); ג'ניפר דודנה ועמנואל שרפנטייה (CRISPR-Cas9, פרס נובל 2020)"
+foundational_techniques = "אנזימי הגבלה; DNA ליגאז; פלסמידים כווקטורים; טרנספורמציה חיידקית; תגובת שרשרת של פולימראז (PCR); ריצוף DNA (שיטת סנגר, ובהמשך ריצוף מהדור הבא); אלקטרופורזה בג'ל"
+contemporary_techniques = "CRISPR-Cas9 (עריכת גנום, משנת 2012 ואילך); CRISPR-Cas12, CRISPR-Cas13 (מערכות חלופיות); עריכת בסיסים; עריכה ראשונית (prime editing); TALENs (נוקלאזות דמויות מפעילי שעתוק); נוקלאזות אצבעות אבץ; הנעה גנטית (gene drives); טכנולוגיית mRNA (פותחה במהירות במהלך פיתוח החיסונים לקוביד־19)"
+regulatory_framework = "הנחיות NIH למחקר במולקולות DNA רקומביננטיות (1976, מתעדכנות באופן שוטף); סמכות הרגולציה של USDA,‏ FDA ו־EPA (ארה״ב); המסגרת המחמירה יותר של האיחוד האירופי; פרוטוקול קרטחנה בדבר בטיחות ביולוגית (2003); הבדלים לאומיים ברוב תחומי השיפוט; מעמדה השנוי במחלוקת של עריכת גנום אנושי תורשתית"
+major_applications = "רפואה (אינסולין רקומביננטי מ־1978, חלבונים טיפוליים רקומביננטיים, ריפוי גנטי, טיפול בתאי CAR-T, חיסוני mRNA); חקלאות (גידולי Bt, גידולי Roundup-Ready, אורז הזהב, תעשיית ה־GMO הרחבה); תעשייה (ביו־פלסטיק, דלקים ביולוגיים, אנזימים רקומביננטיים); מחקר (אורגניזמי מודל, מחקרי השבתה והחדרה של גנים, תכנות מחדש של תאים)"
+related_disciplines = "ביולוגיה סינתטית; גנומיקה סינתטית; פנטרופיה; הנדסת חיים (מושג הגג הרחב); ביולוגיה של התא; ביולוגיה מולקולרית; ביוכימיה; ביואינפורמטיקה; ביולוגיה מבנית"
+framework_significance = "נקרא על ידי המסגרת כהשבתה בידי האנושות של יכולת ההנדסה שבה השתמשו האלוהים כדי לסנתז את החיים הארציים; האצת יכולת זו נקראת כסימן למעבר של עידן האפוקליפסה"
 +++
 
 **Genetic engineering** is the deliberate modification of an organism's genetic

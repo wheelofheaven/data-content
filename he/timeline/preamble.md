@@ -6,7 +6,7 @@ template = "timeline-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-10-29"
 translation_stale = false
 translation_sync = 100
@@ -14,7 +14,7 @@ symbol = "🚀"
 color = "silver"
 start_year = "before -21810"
 end_year = "-21810"
-period = "before 21'810BC"
+period = "לפני 21'810 לפנה״ס"
 chapter = "2.1"
 genesis_interpretation = "פתח הדבר מניח את היסוד לציר הזמן כולו, וקובע את הנסיבות שהביאו את האלוהים לחפש בכדור הארץ חזית חדשה למחקר גנטי. כמו האזהרה שב»פארק היורה«, הוא חוקר את ההשלכות של ניסויים מדעיים בלתי מרוסנים ואת החיפוש אחר חזיתות חדשות כאשר ההתקדמות הופכת שנויה במחלוקת בבית."
 footnotes = [

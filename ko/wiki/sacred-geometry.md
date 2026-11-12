@@ -6,25 +6,32 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["Sacred Geometry", "geometric symbolism", "sacred mathematics", "sacred proportion", "divine geometry", "Heilige Geometrie (German)", "géométrie sacrée (French)"]
+alternative_names = ["신성 기하학", "기하학적 상징", "신성 수학", "신성 비례", "신적 기하학", "Heilige Geometrie (독일어)", "géométrie sacrée (프랑스어)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus", "age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "라엘 운동 무한의 상징", path = "wiki/raelian-symbol-of-infinity", description = "다윗의 별과 스와스티카를 결합한, 코퍼스의 주요 기하학적·상징적 관여." },
+    { title = "카발라", path = "wiki/kabbalah", description = "주요 신성 기하학 형태인 생명나무와 세피로트 도해의 출처." },
+    { title = "제3 성전", path = "wiki/third-temple", description = "그 정밀한 비례 명세를 코퍼스가 동맹이 전수한 신성 기하학으로 읽는 성전." },
+    { title = "대사관", path = "wiki/embassy", description = "그 건축 명세가 코퍼스의 신성 비례 내용을 담고 있는 영접 거처." },
+    { title = "황도대", path = "wiki/zodiac", description = "코퍼스가 범문화적 신성 비례와 나란히 읽는 세차-기하학 프레임워크." },
+]
 
 [extra.infobox]
-type = "Body of geometric forms, ratios, and proportions to which religious, cosmological, or metaphysical significance has been attributed across cultures and traditions; designates both documented cross-cultural use of geometric ratios in sacred architecture and interpretive tradition treating geometric forms as carrying inherent metaphysical meaning"
-principal_geometric_forms = "Golden ratio (φ ≈ 1.618); Platonic solids; vesica piscis; Flower of Life; Tree of Life / Sephirot diagram; Sri Yantra; mandala; squared circle; π and √2 / √3 relations; harmonic ratios"
-historical_roots = "Pythagoras (c. 570-495 BCE); Plato (c. 428-348 BCE; *Timaeus*); Vitruvius (c. 80-15 BCE; *De Architectura*); Hermetic tradition; Euclid; medieval scholastic and cathedral-builder traditions; Renaissance revival (Pacioli, Leonardo)"
-modern_revival = "Theosophy (Blavatsky); Anthroposophy (Steiner); Schwaller de Lubicz (Egyptian-symbolic); Robert Lawlor; Keith Critchlow; John Michell; Drunvalo Melchizedek; Leonora Leet; Randall Carlson"
-corpus_position = "Accepts documented cross-cultural use of geometric ratios in sacred architecture as substantively real; accepts cross-cultural religious-symbolic use of specific geometric forms as substantively real; engages broader esoteric Sacred Geometry tradition at descriptive level without adopting strongest metaphysical-causal claims; articulates specific Vorilhon-source and Sendy-source engagement with geometric-symbolic content"
-principal_corpus_engagement = "Raëlian Symbol of Infinity (Star of David + swastika); Tabernacle and Ark of the Covenant precise-proportional specifications; Sendy's analysis of Plato's *Timaeus* 35b numerical-geometric content; broader cross-cultural geometric-symbolic content as alliance-transmitted religious-cultural material"
-distinguished_from = "Pure mathematics (geometric content engaged without religious-cosmological commitment); architecture (geometric content engaged for structural and aesthetic purposes); decorative geometric art (geometric content engaged for ornamental purposes without religious-cosmological framework); the strongest 'consciousness-affecting geometry' claims (which the corpus engages descriptively without adopting)"
-status_in_framework = "Substantive corpus engagement at multiple registers; the documented cross-cultural pattern is treated as real evidence; the alliance-transmission framework provides one explanatory framework alongside common-cognitive-structure and diffusion explanations"
+type = "여러 문화에서 종교적·우주론적·형이상학적 의미를 부여받은 기하학적 형태, 비율, 비례의 총체. 성스러운 건축에서 기하학적 비율을 문화 간에 사용한 기록과, 그러한 형태가 고유한 의미를 지닌다고 보는 해석 전통을 모두 포함합니다"
+principal_geometric_forms = "황금비(φ ≈ 1.618); 플라톤 입체; 베시카 피스키스; 생명의 꽃; 생명의 나무 / 세피로트 도해; 스리 얀트라; 만다라; 원의 정사각형화; π와 √2 / √3의 관계; 조화 비율"
+historical_roots = "피타고라스(기원전 약 570-495); 플라톤(기원전 약 428-348; *티마이오스*); 비트루비우스(기원전 약 80-15; *건축십서*); 헤르메스주의 전통; 유클리드; 중세 스콜라와 대성당 건축가 전통; 르네상스의 부흥(파치올리, 레오나르도)"
+modern_revival = "신지학(블라바츠키); 인지학(슈타이너); 슈발레 드 뤼비크(이집트 상징론); 로버트 롤러; 키스 크리치로; 존 미셸; 드룬발로 멜기세덱; 레오노라 리트; 랜들 칼슨"
+corpus_position = "성스러운 건축에서 기하학적 비율을 문화 간에 사용한 기록과 특정 형태의 종교적·상징적 사용을 받아들입니다. 비전적 신성 기하학 전통은 서술적으로 다루되 그 가장 강한 형이상학적·인과적 주장은 채택하지 않으며, 동맹이 전수한 특정 기하학적 내용은 보릴롱과 상디의 원전을 통해 읽습니다"
+principal_corpus_engagement = "라엘리안 무한의 상징(다윗의 별 + 만자). 성막과 언약궤의 비례 사양. 플라톤 *Timaeus* 35b의 수적·기하학적 내용에 대한 상디의 분석. 전수된 전통의 일부로 읽는 문화 간 기하학적·상징적 내용"
+distinguished_from = "순수 수학(종교적 헌신 없는 기하학적 내용), 건축(구조적·미적 사용), 장식적 기하학 미술(종교적 틀 없는 장식), 가장 강한 '의식에 작용하는 기하학' 주장(서술적으로 다루되 채택하지 않음)"
+status_in_framework = "여러 층위에서 다룹니다. 기록된 문화 간 패턴은 실재하는 것으로 취급하며, 동맹 전수 해석은 확립된 사실이 아니라 공통 인지 및 전파와 나란히 놓이는 유보적 설명 틀의 하나로 제시합니다"
 +++
 
 **Sacred Geometry** is the body of geometric forms, ratios, and proportions to

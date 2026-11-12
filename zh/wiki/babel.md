@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,19 +15,27 @@ editorial_pass = "2026-05"
 entry_type = "event/period"
 alternative_names = ["the Tower of Babel", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (Akkadian: 'gate of the god')", "the Babel project", "the Babel event", "the Tower-of-Babel intervention", "the Confounding of Tongues", "the Confusion of Languages"]
 timeline = ["gemini"]
+see_also = [
+    { title = "大洪水", path = "wiki/great-flood", description = "先前的议会重置；巴别是针对人类再度进步的下一次干预。" },
+    { title = "挪亚之约", path = "wiki/noahic-covenant", description = "其地方性质被巴别所暴露的洪水后私下盟约。" },
+    { title = "所多玛与蛾摩拉", path = "wiki/sodom-and-gomorrah", description = "后来的打击，与巴别的区别在于它是镇压叛乱，而非拒绝和解。" },
+    { title = "神战", path = "wiki/theomachy", description = "巴别干预所属的更广泛的耶洛因政治冲突。" },
+    { title = "耶和华", path = "wiki/yahweh", description = "说出触发巴别离散的复数“我们下去”。" },
+    { title = "联盟", path = "wiki/the-alliance", description = "巴别塔作为其和平献礼的跨文明机构。" },
+]
 
 [extra.infobox]
-type = "Multi-component narrative event; the post-flood collaborative space-program reconciliation attempt and the Council intervention that ended it"
-chronology = "Late Age of Gemini (c. 6,690 BCE forward on the corpus's compressed timeline); after the Great Flood and the post-flood covenant; before the long Taurus-age quiet that preceded the Sodom and Gomorrah strike"
-location = "The land of Shinar (biblical) corresponding to ancient Sumer in the alluvial plains of the lower Tigris and Euphrates rivers; the principal site corresponds to the broader Babylon-Babel area of southern Mesopotamia"
-participants = "The post-flood Eden-lineage human population (the 'people of Israel' in the source's framing, designating the Eden-lineage genealogical line rather than the later geographical-political Israel); the exiled Serpentine-faction creators (the Lucifer-faction Eloha exiles); the home-world Council of the Eternals (the intervening party)"
-purpose_of_the_tower = "Peace-offering / diplomatic-reconciliation attempt: the alliance's strategic effort to argue the human creation's case before the Council by sending a delegation of human partners to the home world to demonstrate the human creation's intelligence, peacefulness, and gratitude — and to secure formal pardon for the alliance and the broader human creation"
-technological_character = "Substantial interstellar-capable spacecraft (the source's 'enormous rocket' framing); on the corpus's reading, the second-generation craft following first-generation interplanetary craft, with the Tower itself being either the spacecraft or the launch-facility for one"
-council_intervention = "Multi-component intervention: (1) targeted dispersion of the scientific elite across the post-flood continents; (2) destruction of all the research materials and scientific instruments; (3) fragmentation of the unified post-flood language into mutually incomprehensible variants; (4) effective termination of the broader space-program collaboration"
-operational_consequence = "The transformation of the Serpentine faction from peaceful dissidents seeking reconciliation into active rebels; the long quiet across most of the Age of Taurus before the subsequent Sodom rebellion attempt"
-distinguished_from = "The Great Flood (the chronologically prior Gemini-age destruction event); the Sodom and Gomorrah strike (the chronologically subsequent Taurus-age destruction event with substantively different operational character — military strike against rebellion rather than dispersion against reconciliation); the broader Theomachy multi-age narrative (within which the Babel intervention is one specific phase); the various conventional interpretations of Babel as defiance project (the framework's distinctive contribution is the peace-offering reading)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in 'The Tower of Babel' section of *The Book Which Tells the Truth* establishes the framework's specific content with explicit articulation"
-principal_text = "*The Book Which Tells the Truth* (1974), 'The Tower of Babel' section (the principal Yahweh passage); *timeline.epub* Age of Gemini chapter, Section XII (the substantial subsequent corpus articulation with detailed Hebrew exegesis, Sumerian-Enmerkar parallel, and broader narrative-arc context)"
+type = "洪水后的叙事事件；人类与流亡创造者共同进行的太空计划，被解读为寻求和解的尝试，以及终结这一计划的故乡世界议会干预"
+chronology = "双子座时代晚期（按文集纪年约公元前 6,690 年起）；在大洪水与挪亚之约之后；在所多玛与蛾摩拉打击之前那段漫长的金牛座时代沉寂之前"
+location = "示拿地（圣经）——古代苏美尔，位于底格里斯河与幼发拉底河下游的冲积平原；主要地点对应美索不达米亚南部的巴比伦—巴别一带"
+participants = "洪水后的伊甸血统人类（源材料中的「以色列人」，即通过耶洛因之子与人的女子结合而成为犹太民族的群体）；流亡的路西法创造者派系；故乡世界的永恒者议会（干预方）"
+purpose_of_the_tower = "一份和平献礼：联盟试图在议会面前为人类这一造物陈情，派遣一支人类代表团前往故乡世界，以表明人类聪慧、和平且心怀感激——并赢得赦免"
+technological_character = "一艘具备星际航行能力的航天器（源材料中的「巨大火箭」）；按文集的解读，这是继更早的行星际航天器之后的第二代飞行器，而塔本身要么就是该飞行器，要么是其发射设施"
+council_intervention = "（1）将科学精英分散到洪水后的各大陆；（2）销毁研究材料与仪器；（3）把单一语言分裂为彼此无法理解的多种语言；（4）终止太空计划"
+consequence = "流亡的路西法派系从和平异见转向公开反叛；在所多玛的反叛之前，金牛座时代的大部分时间里是一段漫长的沉寂"
+distinguished_from = "大洪水（较早的双子座时代打击）；所多玛与蛾摩拉打击（较晚的金牛座时代打击——针对反叛的军事打击，而非针对和解的驱散）；更广的神战（巴别是其中一个阶段）；以及将巴别视为反抗的传统解读（本框架将其解读为和平献礼）"
+status_in_source_material = "记载充分；《讲述真相之书》「巴别塔」一节中的耶和华段落直接陈述了本框架的核心内容"
+principal_text = "《讲述真相之书》（1974），「巴别塔」一节（主要的耶和华段落）；在文集的双子座时代材料中展开，包括希伯来语释经、恩美卡平行文本及更广的叙事弧背景"
 +++
 
 **Babel** (Hebrew: בָּבֶל, *Bavel*) is the Tower of Babel episode of

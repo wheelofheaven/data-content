@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -16,19 +16,24 @@ editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["Noah (English)", "נֹחַ (Hebrew Noaḥ)", "Νῶε (Greek Nōe)", "نوح (Arabic Nūḥ)", "the Eden-lineage flood survivor", "the ark-builder", "the post-flood patriarch"]
 timeline = ["age-of-cancer", "age-of-gemini"]
+see_also = [
+    { title = "המבול", path = "wiki/great-flood", description = "אסון עידן התאומים שנגדו הועמד מבצע השימור בתיבה." },
+    { title = "לוציפר", path = "wiki/lucifer", description = "סיעת היוצרים הגולה שהתערבותה שימרה את נח באמצעות מבצע התיבה." },
+    { title = "תיבת נח", path = "wiki/noahs-ark", description = "הכלי האטום הנקרא ככלי ממוגן הנושא דגימות גנטיות ולא זוגות בעלי חיים." },
+    { title = "תאומכיה", path = "wiki/theomachy", description = "הקונפליקט בין סיעות היוצרים שמסגר את החלטת המבול." },
+    { title = "בבל", path = "wiki/babel", description = "מיזם ההתאוששות שלאחר המבול, שבהלת המועצה ממנו מראה את נפרדותו של כוכב הבית מבריתו של נח." },
+    { title = "יהוה", path = "wiki/yahweh", description = "מנהיג המועצה שעל הצבעתו שלאחר המבול נשענת ההתחייבות ״לא עוד״." },
+]
 
 [extra.infobox]
-type = "Biblical figure; principal human operational partner of the exiled-creator (Serpentine) faction in the ark-preservation project"
-hebrew_name = "נֹחַ (Noaḥ, 'rest, comfort')"
-biblical_dating = "Cancer-Gemini boundary in corpus chronology (c. 6,690 BCE); mainstream biblical chronology places traditional Genesis flood dating between 2300-3000 BCE in Ussher-and-Septuagint frames"
-principal_biblical_location = "Genesis 5:29-10:32; brief subsequent references in Isaiah 54:9, Ezekiel 14:14-20, Matthew 24:37-39, Luke 17:26-27, Hebrews 11:7, 1 Peter 3:20, 2 Peter 2:5"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Flood' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in the Age of Cancer chapter"
-core_corpus_articulation = "Eden-lineage human operating as principal operational partner of the exiled-creator faction conducting clandestine preservation of life through orbital spacecraft (the Genesis 'ark') against Council-ordered nuclear attack on Earth"
-flood_event = "Council-ordered nuclear-missile attack on Earth conducted against the original creator project; the exiled creators (Serpentine faction) conducted clandestine preservation of life through orbital spacecraft; conducted at the Cancer-Gemini boundary (c. 6,690 BCE corpus chronology)"
-ark_specifications = "Hebrew *tevah* (sealed vessel, not boat) with three levels (Genesis 6:16); lifted 'above the earth' (Genesis 7:17 *vatarom me-al ha-aretz*) rather than 'on the water'; cargo genetic (single living cells per species) rather than physical animal pairs"
-post_flood_covenant = "Private arrangement between exiled creators present on the ground and Noah's family (Genesis 9); distinct from home-world Council whose non-participation is demonstrated by subsequent Babel-project surprise"
-distinguished_from = "Mainstream uniquely-righteous-individual reading; ancient-astronaut alternative readings; mainstream biblical-scholarly Documentary Hypothesis source-critical reading; conservative young-earth creationist literal-global-flood reading"
-status_in_framework = "Foundational flood-narrative figure; principal Cancer-Gemini-age figure; principal Eden-lineage post-flood patriarch; structurally parallel to contemporary Aquarian-age humanity facing cataclysmic-threshold engagement"
+type = "דמות מקראית; השותף האנושי העיקרי של סיעת לוציפר הגולה במבצע שימור החיים בתיבה"
+hebrew_name = "נֹחַ (Noaḥ, 'מנוחה, נחמה')"
+biblical_dating = "עידן התאומים בכרונולוגיה של הקורפוס (בערך 6,690 לפנה״ס); כרונולוגיות מסורתיות של בראשית ממקמות את המבול בין 2300 ל־3000 לפנה״ס בקירוב במסגרות של אשר ושל תרגום השבעים"
+principal_source = "*הספר המגלה את האמת* (וורילון, 1974), הקטע 'המבול'; מקובץ ב־*מסר מהמתכננים* (2005)"
+mesopotamian_counterparts = "זיוסודרה (השומרי), אתרחסיס ואותנפישתים (האכדיים) — דמות שורד המבול שסיפור בראשית מעבד מחדש"
+ark_reading = "*תבה* עברית (ארגז אטום, לא סירה); נקראת ככלי ממוגן ש״וַתָּרָם מֵעַל הָאָרֶץ״ (בראשית ז 17), שמטענו היה דגימות גנטיות ולא זוגות בעלי חיים פיזיים"
+post_flood_covenant = "נקרא כהסדר פרטי בין היוצרים הגולים שעל הקרקע לבין משפחת נח (בראשית ט), הנבדל ממועצת כוכב הבית, שהפתעתה בבבל מראה את נפרדותה"
+distinguished_from = "קריאת השארית הצדיקה המקובלת; הקריאה הביקורתית־מקורותית של השערת התעודות; קריאת המבול העולמי המילולית של בריאתנות כדור הארץ הצעיר"
 +++
 
 **Noah** (Hebrew נֹחַ, *Noaḥ*, "rest" or "comfort") is the flood-survivor

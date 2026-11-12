@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -16,17 +16,24 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the alliance", "the cross-civilizational alliance", "the Eloha-human alliance", "the Noahic alliance", "the covenant partnership"]
 timeline = ["gemini", "taurus", "aries", "pisces", "aquarius"]
+see_also = [
+    { title = "מועצת הנצחיים", path = "wiki/council-of-the-eternals", description = "מועצת כוכב הבית שהברית התגבשה בהתנגדות לה ברגע של נח." },
+    { title = "אלוהים", path = "wiki/elohim", description = "ציוויליזציית היוצרים שהברית קושרת אל האוכלוסייה האנושית." },
+    { title = "השרשרת הקוסמית", path = "wiki/cosmic-chain", description = "רצף ציוויליזציות היוצרים בזמן העמוק שהברית נמצאת בתוכו." },
+    { title = "תחרות קוסמית", path = "wiki/cosmic-competition", description = "מסגרת ההערכה המוחלת על האנושויות שהברית נותנת להן חסות." },
+    { title = "נביא", path = "wiki/prophet", description = "המתווכים האנושיים שדרכם קיימה הברית מגע מתווך." },
+]
 
 [extra.infobox]
-type = "Cross-civilizational political body; formal partnership between Eloha and human parties"
-formation_event = "The Noahic covenant (Genesis 9:8–17), at the post-Flood altar; c. 6,690 BCE on the corpus's chronology, late Age of Gemini"
-founding_parties = "The exiled Lucifer-faction creators (senior partner); the human Eden-lineage survivors led by Noah (junior partner)"
-subsequent_expansion = "Extended to include the broader Elohim civilization following the Taurus-age pardon of the exiled creators, c. 4,000–3,800 BCE"
-distinguished_from = "The Elohim civilization (broader population of ~7 billion on the home world); the Council of the Eternals (the home-world ruling body); the Lucifer faction (specific subset of dissenting creators); the prophetic tradition (specific contact mechanism the Alliance has used)"
-operational_modes = "Direct contact (pre-Flood through early Aries); indirect contact through prophets (mid-Aries through late Pisces); preparing for open return (Aquarian age)"
-current_status = "Active; operating in the post-1945 Aquarian-age preparation phase; preparing for the open return at the embassy"
-principal_text = "Genesis 9:8–17 (the Noahic covenant); subsequent Hebrew Bible covenant material (Abrahamic, Mosaic, Davidic); the broader Hebrew Bible's narrative of alliance-mediated history"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974); developed extensively across the broader Wheel of Heaven corpus"
+type = "גוף מדיני בין־ציוויליזציוני; שותפות רשמית בין צדדים מן האלוהים לבין צדדים אנושיים"
+formation_event = "ברית נח (בראשית ט:8–17), ליד המזבח שאחרי המבול; בסביבות 6,690 לפנה״ס בכרונולוגיה של הקורפוס, סוף עידן התאומים"
+founding_parties = "הבוראים הגולים של סיעת לוציפר (השותף הבכיר); ניצולי שושלת עדן האנושיים בהנהגת נח (השותף הזוטר)"
+subsequent_expansion = "הורחבה לכלול את ציוויליזציית האלוהים בעקבות החנינה ליוצרים הגולים בעידן השור, בערך 4,000–3,800 לפנה״ס"
+distinguished_from = "ציוויליזציית האלוהים (כ־7 מיליארד בכוכב הבית); מועצת הנצחיים (הגוף השולט בכוכב הבית); סיעת לוציפר (תת־הקבוצה החולקת של היוצרים); המסורת הנבואית (מנגנון מגע שבו השתמשה הברית)"
+operational_modes = "מגע ישיר (מלפני המבול ועד תחילת הטלה); מגע עקיף באמצעות נביאים (מאמצע הטלה ועד סוף הדגים); הכנה לשיבה הגלויה (עידן הדלי)"
+current_status = "פעילה; פועלת בשלב ההכנה של עידן הדלי שאחרי 1945; מתכוננת לשיבה הגלויה בשגרירות"
+principal_text = "בראשית ט 8–17 (ברית נח); חומר הברית המאוחר יותר בתנ״ך (ברית אברהם, ברית סיני, ברית דוד); הסיפור התנ״כי של היסטוריה המתווכת על ידי הברית"
+principal_framework_source = "*הספר המגלה את האמת* (וורילון/ראל, 1974); מפותח בהרחבה לאורך הקורפוס של Wheel of Heaven"
 +++
 
 **The Alliance** is the formal cross-civilizational political body that, on the Wheel of Heaven corpus's reading, structures the long historical relationship between the Elohim civilization and the Eden-lineage human population. It is one of the framework's principal interpretive constructions — the category the corpus uses to organize the Raëlian source material's account of the operational history connecting the Elohim creators with their human creations across the post-Flood millennia. On this reading the Alliance is not a metaphor or a theological abstraction but a historical political entity with a founding moment, founding parties, operations across documented history, and a projected future.

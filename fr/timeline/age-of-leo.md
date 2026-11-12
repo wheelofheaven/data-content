@@ -6,8 +6,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
-source_updated = "2026-11-11"
+translation_updated = "2026-11-12"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -148,7 +148,7 @@ Le contenu technique de ces ajouts — quels gènes ont été modifiés, quelles
 
 La création humaine, comme toute création biologique depuis le Scorpion, a été conduite par plusieurs équipes factionnelles travaillant en parallèle.
 
-La source est explicite sur ce point : *« Chaque équipe s'est mise au travail, et très vite nous avons pu comparer nos créations… Il est facile de calculer combien d'équipes de créateurs ont fait ce travail — chaque race sur Terre correspond à une équipe de créateurs. »* Dans un passage ultérieur, la source précise la structure géographique : *« Comme sur la Terre il existe sur notre planète différentes races et cultures. Nos provinces ont été créées et fondées sur ces races et ces cultures, tout en respectant la liberté et l'indépendance de chacune. »* Et ailleurs, le nombre de provinces sur le monde d'origine est donné comme étant sept (TBWTT 7:19). La source ne dénombre pas elle-même les équipes ; le corpus infère sept équipes à partir des sept provinces de la planète d'origine (TBWTT 7:19, 7:66). Selon cette inférence, chaque province avait son héritage distinct et son équipe déployée, chacune produisant des humains à sa propre image — c'est-à-dire à l'image du sous-ensemble particulier de la civilisation éloïmique auquel cette équipe appartenait.
+La source est explicite sur ce point : *« Chaque équipe s'est mise au travail, et très vite nous avons pu comparer nos créations… Il est facile de calculer combien d'équipes de créateurs ont fait ce travail — chaque race sur Terre correspond à une équipe de créateurs. »* (TBWTT 2:25) Dans un passage ultérieur, la source précise la structure géographique : *« Comme sur la Terre il existe sur notre planète différentes races et cultures. Nos provinces ont été créées et fondées sur ces races et ces cultures, tout en respectant la liberté et l'indépendance de chacune. »* (TBWTT 7:66) Et ailleurs, le nombre de provinces sur le monde d'origine est donné comme étant sept (TBWTT 7:19). La source ne dénombre pas elle-même les équipes ; le corpus infère sept équipes à partir des sept provinces de la planète d'origine (TBWTT 7:19, 7:66). Selon cette inférence, chaque province avait son héritage distinct et son équipe déployée, chacune produisant des humains à sa propre image — c'est-à-dire à l'image du sous-ensemble particulier de la civilisation éloïmique auquel cette équipe appartenait.
 
 Les sept équipes ont travaillé en parallèle, dans différentes régions du supercontinent, produisant simultanément sept populations humaines distinctes.{{ footnote(id="1") }} Chaque équipe avait accès à la même base de connaissances sous-jacente : la matrice de conception primate-vers-humain développée de manière itérative, les réseaux de régulation génétique, les programmes de développement, les architectures neuronales que le programme avait produits au fil des siècles antérieurs de travail. Chaque équipe a appliqué cette base au travers de ses propres traditions esthétiques et culturelles spécifiques — les préférences de conception de sa province d'origine, le vocabulaire institutionnel de sa tradition scientifique, les sensibilités artistiques de son public. Le résultat fut une humanité dont la diversité biologique reflétait la diversité de la civilisation éloïmique elle-même — préservée sur Terre comme un choix délibéré plutôt qu'effacée au profit d'une conception unifiée.
 

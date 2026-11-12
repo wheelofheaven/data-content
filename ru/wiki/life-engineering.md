@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,24 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "Bioengineering of life", "Living-systems engineering"]
+alternative_names = ["Инженерная биология", "Дизайнерская биология", "Конструктивная биология", "Биоинженерия жизни", "Инженерия живых систем"]
+see_also = [
+    { title = "Инструментарий Бытия", path = "wiki/genesis-toolbox", description = "Синтез на уровне программы: инженерия жизни как центральная фаза стека творения канона." },
+    { title = "Синтетическая биология", path = "wiki/synthetic-biology", description = "Самое амбициозное крыло области, стандартное дисциплинарное название того, что корпус называет инженерией жизни." },
+    { title = "Генетическая инженерия", path = "wiki/genetic-engineering", description = "Основополагающая поддисциплина чтения, записи и редактирования внутри обобщающей инженерии жизни." },
+    { title = "Синтетическая геномика", path = "wiki/synthetic-genomics", description = "Компонент проектирования и синтеза в масштабе генома в формирующихся возможностях человечества." },
+    { title = "Элохим", path = "wiki/elohim", description = "Цивилизация, к способности проектировать жизнь которой, по прочтению рамки, человечество теперь вновь приближается." },
+    { title = "Бытие", path = "wiki/genesis", description = "Повествование о творении, которое рамка читает как описание того, как Элохим применяли ту же способность." },
+]
 
 [extra.infobox]
-type = "Engineering discipline applied to living systems"
-principal_sub_disciplines = "Genetic engineering; synthetic biology; synthetic genomics; xenobiology"
-adjacent_fields = "Bioinformatics; systems biology; metabolic engineering; protein engineering; directed evolution; cell-free biology; biocomputing; tissue engineering"
-key_capability = "Reading, writing, and editing DNA; designing organisms and biological subsystems at the genetic and molecular level"
-foundational_milestones = "First recombinant DNA (Berg, Boyer, Cohen — 1972–73); first commercial recombinant pharmaceutical (Humulin, 1982); first complete genome sequence (1995); first cell with synthetic genome (JCVI-syn1.0, 2010); first minimal synthetic cell (JCVI-syn3.0, 2016); CRISPR–Cas9 (Doudna and Charpentier, 2012); first CRISPR gene therapy approval (Casgevy, 2023)"
-current_status = "Active and rapidly developing scientific and industrial field; capability expanding by orders of magnitude per decade"
-framework_significance = "The contemporary terrestrial development of the capability the source material attributes to the Elohim civilization; on the framework, the most concrete convergence between source-predicted and observed human development in the Aquarian period"
+type = "Инженерная дисциплина, применяемая к живым системам"
+principal_sub_disciplines = "Генная инженерия; синтетическая биология; синтетическая геномика; ксенобиология"
+adjacent_fields = "Биоинформатика; системная биология; метаболическая инженерия; белковая инженерия; направленная эволюция; бесклеточная биология; биовычисления; тканевая инженерия"
+key_capability = "Чтение, запись и редактирование ДНК; конструирование организмов и биологических подсистем на генетическом и молекулярном уровне"
+foundational_milestones = "Первая рекомбинантная ДНК (Берг, Бойер, Коэн — 1972–73); первый коммерческий рекомбинантный препарат (Хумулин, 1982); первая полная последовательность генома (1995); первая клетка с синтетическим геномом (JCVI-syn1.0, 2010); первая минимальная синтетическая клетка (JCVI-syn3.0, 2016); CRISPR–Cas9 (Даудна и Шарпантье, 2012); первое одобрение генной терапии на основе CRISPR (Casgevy, 2023)"
+current_status = "Активная и быстро развивающаяся научная и промышленная область; возможности растут на порядки за десятилетие"
+framework_significance = "Современное земное развитие той способности, которую исходные тексты приписывают цивилизации Элохим; в рамке — самое конкретное совпадение между предсказанным источником и наблюдаемым развитием человечества в период Водолея"
 +++
 
 **Life engineering** is the application of scientific and engineering methods to the deliberate design and construction of living organisms or biological systems with novel functions, characteristics, or capabilities. It is a contemporary scientific and industrial field, in active development since the early 1970s and expanding rapidly across the 2010s and 2020s. The term is used as an umbrella for several closely related disciplines — most prominently *genetic engineering*, *synthetic biology*, *synthetic genomics*, and *xenobiology* — that share the common project of treating living matter as something that can be designed at the molecular level rather than only observed and described.

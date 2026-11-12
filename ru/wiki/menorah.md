@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,25 @@ editorial_pass = "2026-05"
 entry_type = "symbol"
 claim_type = "inferred"
 timeline = ["taurus", "aries", "pisces"]
-alternative_names = ["Temple menorah", "Seven-branched lampstand", "Mosaic candelabrum", "Sevenfold lamp"]
+alternative_names = ["Храмовая менора", "Семисвечник", "Моисеев светильник", "Семичастный светильник"]
+see_also = [
+    { title = "Список экзегетических прочтений", path = "wiki/list-of-exegetic-readings", description = "Каталог, регистрирующий Менору среди операциональных прочтений рамкой священных предметов." },
+    { title = "Звезда Давида", path = "wiki/star-of-david", description = "Сопоставимо древняя еврейская эмблема, которую рамка читает ради сохранённой операциональной памяти." },
+    { title = "Свастика", path = "wiki/swastika", description = "Ещё один устойчивый символ, который корпус читает как кодирующий забытое операциональное содержание." },
+    { title = "Апокалипсис", path = "wiki/apocalypse", description = "Образ светильников в Откровении, повторно использующий прочитанную здесь конфигурацию семи лампад." },
+    { title = "Список мифем и мифологических мотивов", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "Парный каталог повторяющихся мотивов, среди которых находится символ семи лампад." },
+]
 
 [extra.infobox]
-type = "Seven-branched golden lampstand of the Tabernacle and Temple"
-hebrew = "<span class=\"hebrew\">מְנוֹרָה</span> *menorah* (lit. \"lampstand\", from the root *nūr* \"to give light\")"
-first_attested = "Exodus 25:31–40 (Mosaic specifications, late Age of Aries on the corpus's reckoning)"
-biblical_specifications = "Single piece of hammered pure gold; central shaft with six branches (three from each side); seven oil-lamp cups shaped like almond blossoms; intricate floral decoration; one talent of gold for the lampstand and its accessories"
-biblical_passages = "Exodus 25:31–40 (specifications); Exodus 37:17–24 (construction by Bezalel); Numbers 8:1–4 (lighting protocol); Zechariah 4:1–14 (the vision of the lampstand with seven lamps); 1 Kings 7:49 (Solomon's ten menorot)"
-mainstream_significance = "Principal furnishing of the Tabernacle and the Temple; one of the oldest continuously used Jewish religious symbols; emblem of the State of Israel since 1949"
-framework_significance = "Operational memory of seven Elohim bases on elevated terrain, connected through a central communications installation (the original referent of the seven-branched design)"
-related_objects = "[Ark of the Covenant](/wiki/ark-of-the-covenant/); Tabernacle; Temple of Jerusalem; the *hanukkiah* (nine-branched Hanukkah lamp, a distinct object)"
-arch_of_titus = "Surviving Roman-era depiction (c. 81 CE) showing the actual Second Temple menorah carried in triumphal procession after the destruction of Jerusalem in 70 CE"
+type = "Семисвечный золотой светильник Скинии и Храма"
+hebrew = "<span class=\"hebrew\">מְנוֹרָה</span> *menorah* (букв. «светильник», от корня *nūr* «светить»)"
+first_attested = "Исход 25:31–40 (предписания Моисею, поздняя Эпоха Овна по расчёту корпуса)"
+biblical_specifications = "Цельная вещь из чеканного чистого золота; центральный ствол с шестью ветвями (по три с каждой стороны); семь чашечек-лампад в форме миндального цветка; тонкий растительный орнамент; талант золота на светильник и его принадлежности"
+biblical_passages = "Исход 25:31–40 (предписания); Исход 37:17–24 (изготовление Веселеилом); Числа 8:1–4 (порядок возжигания); Захария 4:1–14 (видение светильника с семью лампадами); 3 Царств 7:49 (десять светильников Соломона)"
+mainstream_significance = "Главный предмет убранства Скинии и Храма; один из древнейших непрерывно используемых еврейских религиозных символов; эмблема Государства Израиль с 1949 года"
+framework_significance = "Рабочая память о семи базах Элохим, соединённых центральной установкой связи (изначальный референт семисвечной конструкции)"
+related_objects = "[Ковчег Завета](/wiki/ark-of-the-covenant/); Скиния; Иерусалимский Храм; *ханукия* (девятисвечный светильник Хануки, отдельный предмет)"
+arch_of_titus = "Сохранившееся изображение римской эпохи (ок. 81 г. н. э.), показывающее подлинную менору Второго Храма, которую несут в триумфальной процессии после разрушения Иерусалима в 70 г. н. э."
 +++
 
 The **Menorah** (Hebrew <span class="hebrew">מְנוֹרָה</span>, *menorah*, "lampstand") is the seven-branched golden lampstand specified in the Hebrew Bible (Exodus 25:31–40) as a principal furnishing of the Tabernacle constructed during the Israelite wilderness period and subsequently of the First and Second Temples of Jerusalem. It is among the oldest continuously preserved religious symbols in any tradition: the design has been in continuous Jewish religious use for approximately 3,200 years from the Mosaic period (conventionally dated to the 13th century BCE) to the present, and the seven-branched configuration has served as a principal emblem of Jewish identity across the destruction of the First Temple in 586 BCE, the destruction of the Second Temple in 70 CE, the long diaspora period, and the establishment of the State of Israel in 1948. The Menorah has served as the official emblem of the State of Israel since 1949.

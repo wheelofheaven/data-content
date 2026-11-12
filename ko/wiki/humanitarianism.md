@@ -6,27 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Humanitarianism (proper-noun framework concept)", "humanitarianism (lowercase, when used in mainstream sense)", "the second New Commandment", "the Raëlian property-and-inheritance doctrine", "the forty-nine-year rental doctrine"]
+alternative_names = ["Humanitarianism (proper-noun framework concept)", "humanitarianism (lowercase, when used in mainstream sense)", "두 번째 새 계명", "라엘리안 재산·상속 교리", "49년 임대 교리"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "천재정치", path = "wiki/geniocracy", description = "새 계명에서 휴머니타리아니즘과 짝을 이루는 정치·통치의 계명." },
+    { title = "새 계명", path = "wiki/new-commandments", description = "휴머니타리아니즘이 그 두 번째 계명을 이루는 일곱 부분의 물병자리 시대 프로그램." },
+    { title = "히브리어 성경", path = "wiki/hebrew-bible", description = "마흔아홉 해의 보유 기간을 뒷받침하는 레위기 25장 희년 전통의 출처." },
+    { title = "야훼", path = "wiki/yahweh", description = "이 교리를 보릴롱에게 표명한 엘로힘의 의장." },
+    { title = "라엘", path = "wiki/rael", description = "이 사회경제적 교리의 수신자이자 전달자." },
+    { title = "설계자들로부터의 메시지", path = "wiki/message-from-the-designers", description = "교리의 본래 표명을 기록한 통합 원천 텍스트." },
+]
 
 [extra.infobox]
-type = "Raëlian socio-economic doctrine; the second of the seven New Commandments delivered to Vorilhon during the December 1973 contact"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), Sixth Chapter (The New Commandments), section titled Humanitarianism"
-core_articulation = "Abolition of property ownership in favor of forty-nine-year rental tenures; elimination of inheritance beyond the family home; substantive reorientation toward equality of opportunity and merit-based individual reward across a single generational lifespan"
-scriptural_anchor = "Leviticus 25:8-23 (the Jubilee tradition); the sabbatical-year cycle of seven sevens producing the forty-ninth year as the year of release; *'The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me'* (Leviticus 25:23)"
-position_within_seven_commandments = "Second New Commandment; the property-and-inheritance dimension complementing Geniocracy (political-governance), World Government (political-coordination), Demilitarization (peace), Science as Religion (religious-cultural), Telepathic Cultivation (cognitive-developmental), and the Metaphysical Clarifications (doctrinal-cosmological)"
-distinguished_from = "Capitalism (permits inheritance-based concentration of wealth across generations); Communism (registered by the source as failing through inadequate incentive structures); mainstream humanitarianism (the broader generic-noun concept of humanitarian aid and human-welfare commitment, distinct from the proper-noun Raëlian socio-economic doctrine)"
+type = "라엘의 사회경제 교리. 1973년 12월 접촉 중 야훼가 보릴롱에게 전한 일곱 가지 새 계명 가운데 두 번째"
+principal_source = "*The Book Which Tells the Truth*(보릴롱, 1974), 제6장(The New Commandments), Humanitarianism이라는 제목의 절"
+core_articulation = "완전한 재산 소유를 폐지하고 49년 임차 보유로 대체함. 가족의 집을 넘어서는 상속의 종식. 출생 시의 기회 균등과 한 생애에 걸친 능력에 따른 보상의 결합"
+scriptural_anchor = "레위기 25:8-23(희년). 일곱 번의 일곱 해로 이루어진 안식 주기가 마흔아홉째 해의 해방을 낳음. *'The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me'*(레위기 25:23)"
+position_within_seven_commandments = "두 번째 새 계명. 재산과 상속의 차원으로, 천재정치(통치), 세계 정부(조정), 비무장화(평화), 종교로서의 과학(종교·문화), 텔레파시 계발(인지), 형이상학적 해명(교리)과 나란히 놓입니다"
+distinguished_from = "자본주의(상속에 기초한 부의 집중을 허용), 공산주의(원전은 유인의 결여로 실패했다고 봄), 주류 인도주의(인도적 원조의 일반 윤리로, 대문자 H의 라엘 교리와 구별됨)"
 parallel_contemporary_articulations = "Steiner-Vallentyne left-libertarian school (Hillel Steiner, Peter Vallentyne); Georgism (Henry George); Freiwirtschaft (Silvio Gesell); property-owning democracy (Rawls, Anderson); inheritance-reform scholarship (Piketty); Universal Basic Income (UBI) movement"
-parallel_cross_cultural_traditions = "Hebrew Bible Jubilee (Leviticus 25); early Christian community-of-goods (Acts 2:44-45, 4:32-37); monastic common-ownership traditions (Benedictine, Franciscan); Islamic zakat and waqf; Buddhist sangha property arrangements; indigenous common-property traditions; nineteenth-century utopian-experimental communities; Israeli kibbutz movement"
-status_in_framework = "Foundational Raëlian socio-economic doctrine; one of the seven New Commandments constituting the Aquarian-age program; directional orientation rather than immediate institutional change"
-principal_corpus_treatment = "*The Book Which Tells the Truth* (Vorilhon, 1974), Sixth Chapter — principal source articulation; *timeline.epub* — substantial subsequent corpus contextualization within the broader New Commandments framework"
+parallel_cross_cultural_traditions = "히브리 희년(레위기 25장), 초기 그리스도교의 재산 공유(사도행전 2장, 4장), 수도원의 공동 소유(베네딕도회, 프란치스코회), 이슬람의 자카트와 와크프, 불교의 승가, 원주민의 공동 재산 전통, 유토피아 공동체와 이스라엘의 키부츠"
+status_in_framework = "라엘의 기초 사회경제 교리. 일곱 가지 새 계명 가운데 하나로, 즉각적 개혁이 아니라 물병자리 시대를 위한 방향"
+principal_corpus_treatment = "*The Book Which Tells the Truth*(보릴롱, 1974), 제6장 — 주요 표명. 이후 더 넓은 새 계명 틀 안에서 맥락화"
 +++
 
 **Humanitarianism** is, in the Wheel of Heaven framework, the Raëlian doctrine

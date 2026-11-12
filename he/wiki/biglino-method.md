@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -16,17 +16,26 @@ category = "Methodology"
 entry_type = "concept"
 alternative_names = ["Biglino Method", "Metodo Biglino (Italian)", "the 'let's pretend it's true' method", "the naked-Bible method"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "מאורו ביגלינו", path = "wiki/mauro-biglino", description = "המתרגם האיטלקי ששיטה זו קרויה על שם דרך הקריאה שלו ומקודדת אותה." },
+    { title = "ז׳אן סנדי", path = "wiki/jean-sendy", description = "ניסח את אותו עקרון קריאה מילולית של שלימן–הומרוס ארבעה עשורים לפני ביגלינו." },
+    { title = "המקרא העברי", path = "wiki/hebrew-bible", description = "הטקסט שהשיטה קוראת באופן מילולי, במקור, מופשט מן המסגור התאולוגי שהתקבל בירושה." },
+    { title = "רשימת קריאות אטימולוגיות", path = "wiki/list-of-etymological-readings", description = "קטלוג הקורפוס של מונחים עבריים הנקראים באופן ישיר, המחיל את השיטה מונח אחר מונח." },
+    { title = "נאו-אוהמריזם", path = "wiki/neo-euhemerism", description = "העמדה הפרשנית הרחבה, המתייחסת למיתוס כהיסטוריה דחוסה, שהשיטה משרתת." },
+    { title = "השערת האסטרונאוטים הקדמונים", path = "wiki/ancient-astronaut-hypothesis", description = "התחום הרחב שמסקנות הקריאה המילולית שלו ניזונות מתוצרי השיטה." },
+    { title = "האיש שהִמר על התנ\"ך בעזרת הירח", path = "articles/the-man-who-bet-the-bible-on-the-moon", description = "ז׳אן סנדי ניסח את עקרון שלימן–הומרוס ארבעה עשורים לפני ביגלינו — המחקר המלא." },
+]
 
 [extra.infobox]
-type = "Hermeneutic methodology for reading the Hebrew Bible; principal contemporary articulation of the Schliemann-Sendy literal-reading tradition"
-developer = "Mauro Biglino (1950–), Italian translator and scholar; translator of seventeen books of the Hebrew Bible for Edizioni San Paolo (Pauline Editions, Vatican-affiliated Catholic publisher) across more than a decade; independent author from 2010 onward"
-principal_source = "*Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011); *The Naked Bible* (with Giorgio Cattaneo, English edition 2022) for the explicit methodological articulation"
-methodology = "Three steps: (1) obtain familiarity with the original Hebrew text; (2) set aside accumulated traditional interpretation; (3) read the text literally, taking words in their concrete sense"
-slogan = "'Pretend that the Bible is simply telling the truth' — Biglino's principal methodological formulation"
-methodological_precedent = "Heinrich Schliemann's literal reading of the Homeric epics, leading to the identification and excavation of Troy (1870s); explicitly invoked by Jean Sendy in *Ces dieux qui firent le ciel et la terre* (1969) as the model for Bible reading approximately four decades before Biglino's independent articulation"
-distinguished_from = "Mainstream historical-critical method (which treats the text as composite and seeks original source-strata); confessional theological exegesis (which reads through inherited theological framework); allegorical exegesis (which reads literal narrative as cipher for theological content)"
-corpus_position = "Necessary but insufficient: the corpus accepts the literal-reading principle and applies it to Hebrew terms and narratives, while integrating Biglino's commitments with the broader Hamlet's Mill precessional framework, Vorilhon source-textual primacy, cross-cultural comparative engagement, and disciplined epistemic-pluralism methodology"
-status_in_framework = "Principal contemporary methodological articulation engaging Hebrew Bible directly; one component of the broader corpus hermeneutic alongside Sendy's framework, the Vorilhon revelation, and the Hamlet's Mill integration"
+type = "מתודולוגיה הרמנויטית לקריאת המקרא העברי; הניסוח העכשווי העיקרי של מסורת הקריאה המילולית של שלימן וסנדי"
+developer = "מאורו ביליינו (1950–), מתרגם וחוקר איטלקי; תרגם שבעה־עשר ספרים של המקרא העברי עבור Edizioni San Paolo (הוצאה קתולית הקשורה לוותיקן) במשך יותר מעשור; מחבר עצמאי מ־2010 ואילך"
+principal_source = "*Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011); *The Naked Bible* (עם ג'ורג'ו קטאנאו, מהדורה אנגלית 2022) לניסוח המתודולוגי המפורש"
+methodology = "שלושה שלבים: (1) היכרות עם הטקסט העברי המקורי; (2) הנחת הפרשנות המסורתית המצטברת בצד; (3) קריאת הטקסט כפשוטו, תוך הבנת המילים במובנן המוחשי"
+slogan = "'העמידו פנים שהמקרא פשוט אומר את האמת' — הניסוח המתודולוגי העיקרי של ביליינו"
+methodological_precedent = "קריאתו המילולית של היינריך שלימן באפוסים ההומריים, שהובילה לזיהוי טרויה ולחפירתה (שנות ה־70 של המאה ה־19); ז'אן סנדי הציג אותה במפורש ב־*Ces dieux qui firent le ciel et la terre* (1969) כדגם לקריאת המקרא, כארבעה עשורים לפני הניסוח העצמאי של ביליינו"
+distinguished_from = "השיטה ההיסטורית־ביקורתית המקובלת (הרואה בטקסט חיבור מורכב ומחפשת את שכבות המקור); פרשנות תאולוגית וידויית (הקוראת דרך מסגרת תאולוגית מורשת); פרשנות אלגורית (הקוראת את הסיפור הפשוט כצופן לתוכן תאולוגי)"
+corpus_position = "הכרחית אך אינה מספיקה: הקורפוס מקבל את עקרון הקריאה המילולית ומחיל אותו על מונחים וסיפורים עבריים, תוך שילוב מחויבויותיו של ביליינו עם המסגרת הנקיפתית הרחבה של Hamlet's Mill, עם בכורת מקורותיו של וורילון, עם עיסוק השוואתי בין־תרבותי ועם מתודולוגיה ממושמעת של פלורליזם אפיסטמי"
+status_in_framework = "הניסוח המתודולוגי העכשווי העיקרי העוסק ישירות במקרא העברי; רכיב אחד בהרמנויטיקה הרחבה של הקורפוס, לצד המסגרת של סנדי, ההתגלות לוורילון ושילוב Hamlet's Mill"
 +++
 
 The **Biglino Method** is the interpretive methodology developed by Italian translator and scholar **Mauro Biglino** (1950–) for reading the Hebrew Bible. The method consists of three commitments:

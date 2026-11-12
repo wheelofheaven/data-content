@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["*Shiʿur Qomah* (שִׁעוּר קוֹמָה)", "Sefer Haqqomah ('[신적] 육체의 책')", "신장의 척도", "육체의 척도", "Ma'amar Rabbi Yishmael"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "야훼", path = "wiki/yahweh", description = "정경이 카발라에 귀속시키는 '창조자의 신장' 측정의 대상 인물." },
+    { title = "엘로힘의 모행성", path = "wiki/elohim-home-planet", description = "텍스트의 파라상을 광초(光秒)로 읽을 때 프레임워크가 회복하는 거리." },
+    { title = "헤칼로트 문헌", path = "wiki/hekhalot-literature", description = "이 텍스트가 속한, 고대 후기의 궁전-병거 신비주의 코퍼스." },
+    { title = "카발라", path = "wiki/kabbalah", description = "라엘리안 정경이 파라상 수치의 출처로 명명하는 후대의 신비주의." },
+    { title = "엘로힘", path = "wiki/elohim", description = "프레임워크가 신체 수치 배후에서 그 우주적 측정을 읽는 공학자들." },
+    { title = "히브리어 성경", path = "wiki/hebrew-bible", description = "그 시편 147편 5절의 게마트리아가 핵심 수치 236을 낳는 성경적 원천." },
+]
 
 [extra.infobox]
 type = "헤칼로트/메르카바 신비주의 코퍼스에 속하는 텍스트; 신인동형론적 '신적 육체의 척도'"

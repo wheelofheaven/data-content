@@ -6,26 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the awaited Golden Age", "the Golden Age of civilization", "the earthly paradise", "the Golden Age of interplanetary civilization", "the operational Golden Age"]
+alternative_names = ["待望の黄金時代", "文明の黄金時代", "地上の楽園", "惑星間文明の黄金時代", "the operational Golden Age"]
 timeline = ["age-of-aquarius", "post-aquarius"]
+see_also = [
+    { title = "マクロ生物学", path = "wiki/macrobiology", description = "個体性における大転換の完了。首尾一貫した地球規模の有機体へと至った人類を、生物学的に読む。" },
+    { title = "黙示録", path = "wiki/apocalypse", description = "黄金時代、あるいはその破局的な代替を開きうる、閾値における啓示の時点。" },
+    { title = "エデン", path = "wiki/eden", description = "未来の実現が取り戻す歴史上の黄金時代として読まれる、起源の研究施設。" },
+    { title = "宇宙の連鎖", path = "wiki/cosmic-chain", description = "黄金時代の成熟がその一段階として作動する、継承の枠組み。" },
+    { title = "パラディズム", path = "wiki/paradism", description = "その実施が黄金時代を特徴づける、欠乏後の社会計画。" },
+    { title = "ジェニオクラシー", path = "wiki/geniocracy", description = "原典資料において黄金時代と並んで述べられる統治の模範。" },
+    { title = "大使館", path = "wiki/embassy", description = "その完成が、人類による水瓶座の時代の航行の成功の条件となる計画。" },
+    { title = "ハムレットの臼", path = "wiki/hamlets-mill", description = "退位させられた「黄金時代の主」― 尺度を与える者サトゥルヌス ― その壊れた臼が時代を挽き出す。" },
+    { title = "諸時代を挽く臼", path = "articles/the-mill-that-grinds-the-ages", description = "退位させられ眠る王の治世としての黄金時代。歳差運動の輪が一巡するときに帰還するとされる。" },
+    { title = "人類の形", path = "articles/the-shape-of-humanity", description = "黄金時代を、有機体としての人類が百に一つの閾値を越えて首尾よく成熟することとして枠づける解説記事。" },
+]
 
 [extra.infobox]
-type = "Eschatological-cosmological concept; the operational form of life that becomes available to humanity if it navigates the Aquarian-age threshold successfully"
-principal_corpus_articulation = "Vorilhon's Buddhism section in *Message from the Designers* (the substantial Buddhist-enlightenment metaphor); the substantial soteriological dual-path passage; the seven-characteristics articulation in *timeline.epub*"
-seven_principal_characteristics = "(1) Progressive elimination of material scarcity through nanotechnology and automation; (2) Substantial longevity through biological rejuvenation and computational continuation; (3) Transformation of social and political life through New Commandments implementation; (4) Computational continuation as substantive option; (5) Cultivated cognitive capacities including telepathy; (6) New spirituality appropriate to scientifically mature age; (7) Maturation into creating-civilization status"
-contingent_realization = "Realization is contingent on humanity's collective navigation of the Aquarian-age threshold; not automatic but dependent on cumulative effects of individual choices across the broader population"
-distinguished_from = "The Age of Aquarius (the broader chronological-astronomical period within which Golden Age may emerge); Apocalypse (the threshold-revelation moment); Cyberparadism (the contemporary aesthetic articulation); Cosmic Chain (the broader succession framework); Eden (the originary historical Golden Age)"
-relationship_to_eden = "Eden as the originary historical Golden Age (the alliance laboratory in which early humans lived in environmental-technological harmony); the Aquarian-age Golden Age as recovery and extension of that originary content at planetary civilizational scale"
-parallel_cross_cultural_traditions = "Greek/Roman ages of man (Hesiod, Ovid); Hindu Satya/Treta/Dvapara/Kali yuga framework; Mesoamerican Long Count cycles; Buddhist Maitreya tradition; Norse Ragnarök and post-Ragnarök regeneration; Persian Zoroastrian Frashokereti; Chinese cycle traditions; various indigenous 'great-cleansing/renewal' prophecies"
+type = "終末論的・宇宙論的な概念。人類が水瓶座の時代の閾値を首尾よく乗り切った場合に開かれる生の形"
+principal_corpus_articulation = "*Message from the Designers* におけるヴォリロンの仏教の節(仏教の悟りの比喩)。救済論的な二つの道の一節。コーパスの年表の資料における七つの特徴の定式化"
+seven_principal_characteristics = "(1)ナノテクノロジーと自動化による物質的欠乏の解消。(2)生物学的な若返りと計算機上での継続による大幅な寿命の延長。(3)新しい戒めによる社会的・政治的生活の変革。(4)個人のアイデンティティの選択肢としての計算機上での継続。(5)テレパシーを含む、涵養された認知能力。(6)科学的に成熟した時代にふさわしい新しい霊性。(7)創造する文明という地位への成熟"
+contingent_realization = "人類が集団として水瓶座の時代の閾値を乗り切るかどうかにかかっている。自動的に訪れるのではなく、より広い人々にわたる個人の選択の累積的な効果に依存する"
+distinguished_from = "水瓶座の時代(黄金時代がその中で現れうる、より広い天文学的な期間)。黙示(閾値における啓示の瞬間)。サイバーパラディズム(現代の美的な定式化)。宇宙の連鎖(より広い継承の枠組み)。エデン(原初の歴史的な黄金時代)"
+relationship_to_eden = "原初の歴史的な黄金時代としてのエデン ― 最初の人間たちがその造り主たちと調和して暮らした実験室。水瓶座の時代の黄金時代は、その状態を惑星規模の文明の規模で回復し、拡張するものとされる"
+parallel_cross_cultural_traditions = "ギリシア・ローマの人間の時代(ヘシオドス、オウィディウス)。ヒンドゥー教のサティヤ/トレーター/ドヴァーパラ/カリのユガの周期。メソアメリカの長期暦。仏教の弥勒。北欧のラグナロクとその再生。ペルシアのゾロアスター教のフラショー・ケレティ。中国の循環の伝統。さまざまな先住民の再生の予言"
 contemporary_articulations = "Kurzweil's Singularity; e/acc movement; abundance-economy tradition (Diamandis, Kotler); broader 'Great Awakening' cultural engagement"
-status_in_framework = "Foundational eschatological-cosmological concept; the substantive content of successful Aquarian-age navigation; the cosmic-chain inheritance threshold"
+status_in_framework = "基礎となる終末論的・宇宙論的な概念。水瓶座の時代を首尾よく乗り切ったときに得られる内容。宇宙の連鎖における継承の閾値"
 +++
 
 **The Golden Age** is, in the Wheel of Heaven framework, the form of life that

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,16 +15,26 @@ category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["Forerunners", "Forerunner", "prodromos (Greek πρόδρομος, 'one who runs ahead')", "preparator", "way-preparer", "the messenger before"]
 timeline = ["age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "雷尔", path = "wiki/rael", description = "晚期双鱼座时代的先驱者为其接受而预备的水瓶座时代开创人物。" },
+    { title = "先知", path = "wiki/prophet", description = "先驱者作为其预备性子类而运作的更广类别。" },
+    { title = "以利亚", path = "wiki/elijah", description = "其应许的再来被应用于施洗约翰的希伯来圣经先驱者。" },
+    { title = "宇宙链", path = "wiki/cosmic-chain", description = "前耶洛因造物者内容所属的条目，与先驱者分开处理。" },
+    { title = "启示", path = "wiki/apocalypse", description = "预备性使命所指向的水瓶座时代启示阶段。" },
+    { title = "大使馆", path = "wiki/embassy", description = "先驱者的文化预备最终所服务的联盟接触目标。" },
+    { title = "签名与设计者们", path = "/articles/the-signature-and-the-designers/", description = "没有第一环的造物者链条，被解读为正典对 Dawkins 与 Meyer 都要求有个底的那种无穷回溯的回答。" },
+    { title = "四十把椅子", path = "articles/the-forty-chairs", description = "对约四十位就座代表依标准进行的普查，以及它所标出、有待审查的边界个案。" },
+]
 
 [extra.infobox]
-type = "Functional category within broader Prophet framework; figures whose missions prepare way for subsequent alliance-contact missions"
-principal_source = "Inherited from biblical-traditional usage; corpus engagement principally through specific figure-engagement (John the Baptist, Bab, Joseph Smith, late-Piscean contactees) rather than dedicated doctrinal articulation; substantive corpus contextualization in *timeline.epub* late-Piscean preparation content"
-biblical_grounding = "Malachi 3:1 ('Behold, I will send my messenger, and he shall prepare the way before me'); Isaiah 40:3 ('The voice of him that crieth in the wilderness, Prepare ye the way of Yahweh'); Malachi 4:5-6 (Elijah's return before the day of Yahweh); Mark 1:2-3, Matthew 3:1-3, Luke 3:1-6, John 1:6-8, 19-28 (John the Baptist as Forerunner of Jesus)"
-core_corpus_articulation = "Functional category designating figures whose missions prepare humanity for subsequent alliance-contact missions; preparatory rather than inaugural function; distinguished from age-inaugural prophets (Moses, Jesus, Vorilhon) by specific preparation-of-the-way role"
-principal_forerunners = "John the Baptist (Forerunner of Jesus); Bab (explicit Forerunner of Baha'u'llah); Elijah (Hebrew Bible Forerunner tradition); Joseph Smith, Bab, Baha'u'llah as late-Piscean Forerunners of Aquarian-age Vorilhon revelation; twentieth-century UFO contactee tradition"
-aquarian_age_preparation_focus = "Nineteenth-and-twentieth-century cultural-conceptual preparation producing matrix within which December 13, 1973 Vorilhon contact could be received: late-Piscean alliance-contact prophets (Joseph Smith, Bab, Baha'u'llah); Theosophical Society and broader esoteric tradition (Helena Blavatsky, others); twentieth-century UFO contactees (Adamski, Van Tassel, Menger, Fry, others); broader cultural matrix"
-distinguished_from = "Age-inaugural prophets (Moses, Jesus, Vorilhon as inaugurators of Aries, Pisces, Aquarius respectively); v1 conflation with pre-Elohim creator civilization (treated in Cosmic Chain entry); Mormon usage 'Forerunners' as designation for pre-mortal existence (distinct theological usage)"
-status_in_framework = "Functional sub-category within Prophet framework; recurring structural pattern across alliance-cultivation history; principal Aquarian-age content concerns nineteenth-and-twentieth-century preparation"
+type = "更广的先知框架中的一个功能类别；其使命在于为随后一位更核心人物铺路的先知与异象者"
+principal_source = "沿袭自圣经用法，而非雷尔派正典中的名称；文集通过具体人物（施洗约翰、巴孛、以利亚、十九世纪巴比教与巴哈伊的材料）以及纪年材料中关于双鱼座时代晚期为水瓶座时代接触所作准备的内容来讨论这一类别"
+biblical_grounding = "玛拉基书 3:1（「我要差遣我的使者在我前面预备道路」）；以赛亚书 40:3（「有人声喊着说：在旷野预备耶和华的路」）；玛拉基书 4:5-6（以利亚在耶和华的日子之前归来）；马可福音 1:2-3、马太福音 3:1-3、路加福音 3:1-6、约翰福音 1:6-8 与 1:19-28（施洗约翰作为耶稣的先驱）"
+core_corpus_articulation = "预备性而非开创性的先知；他们培育文化条件，使随后开创时代的使命得以被接受，正如施洗约翰为一世纪的犹太地预备迎接耶稣"
+principal_forerunners = "施洗约翰（耶稣的先驱）；巴孛（自称巴哈欧拉的先驱）；以利亚（希伯来圣经的先驱传统）"
+aquarian_age_preparation_focus = "文集解读为 1973 年 12 月所报告之接触的准备的十九、二十世纪铺垫：十九世纪的宗教创始人，作为比较材料来解读；神智学与神秘主义的复兴（布拉瓦茨基及其后继者）；二十世纪中叶的 UFO 接触者传统（亚当斯基、范塔塞尔、门格尔、弗赖）；以及科幻小说、太空竞赛与 1960 年代反主流文化所构成的更广背景"
+distinguished_from = "开创时代的先知（摩西、耶稣、雷尔）；耶洛因之前的创造者文明（见「宇宙之链」条目）；后期圣徒对前世存在中人物的「先驱」用法"
+status_in_framework = "先知制度中的一个预备性子类别；文集在各时代过渡中解读出的反复出现的模式，主要分量落在双鱼座时代晚期为水瓶座时代所作的准备上。这一类别是本项目的综合；雷尔派正典并不使用该术语。"
 +++
 
 **Forerunners** are, in the Wheel of Heaven framework, the functional class of

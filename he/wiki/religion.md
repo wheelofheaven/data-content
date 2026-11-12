@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,17 +16,28 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["*religio* (Latin)", "*religare* (Latin verbal root, 'to bind/link')", "the cultivated bond", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "אלוהים", path = "wiki/elohim", description = "ציוויליזציית היוצרים שאליה, לפי קריאת המסגרת, הדת מטפחת את הקשר המחייב." },
+    { title = "נאו-אוהמריזם", path = "wiki/neo-euhemerism", description = "השיטה הפרשנית שבה המסגרת מפענחת מיתוס ודת כזיכרון של מגע ממשי." },
+    { title = "ראליזם", path = "wiki/raelism", description = "התנועה המגדירה את עצמה כדת אתאיסטית במובן של religare." },
+    { title = "ז׳אן סנדי", path = "wiki/jean-sendy", description = "המחבר שמסגור ה־religare כקשר אצלו קודם לקריאת הקורפוס ומבסס אותה." },
+    { title = "נביא", path = "wiki/prophet", description = "תפקיד השליח שדרכו מתחדש מעת לעת הקשר בין היוצרים לנבראים." },
+    { title = "ריבוי האלים", path = "wiki/plurality-of-gods", description = "היוצרים הרבים שהמסגרת קוראת מאחורי המסורות שהדת משמרת." },
+    { title = "המקרא העברי", path = "wiki/hebrew-bible", description = "מסורת טקסטואלית עיקרית המשמרת את תוכן שמירת הקשר." },
+    { title = "דת הדתות", path = "articles/the-religion-of-religions", description = "קורא את ההגדרה העצמית של הראליזם כ״דת אתאיסטית״ דרך האטימולוגיה של religare ומשפחת התנועות האוניברסליסטיות הצעירות." },
+    { title = "מונותאיזם הוא השאלה הלא־נכונה", path = "articles/monotheism-is-the-wrong-question", description = "מדוע ״מונותאיזם מול פוליתאיזם״ הוא מסגור שגוי — הפולמוס נגד האלילים כזיכרון וכנאמנות, והיחיד כנציגם של היוצרים הרבים." },
+]
 
 [extra.infobox]
-type = "Foundational concept; the framework's specific definition of religion as the cultivated relationship between humanity and its extraterrestrial creators"
-etymology = "Latin *religio* ('religious obligation, conscientious observance, sanctity'), most plausibly derived from *religare* ('to bind, to tie, to link'); Cicero in *De Natura Deorum* offered the alternative derivation from *relegere* ('to re-read, to consider carefully'); the *religare* etymology is the one the framework operates principally"
-framework_definition = "The cultivated relationship between humanity and the specific civilization (the Elohim) that produced terrestrial life through deliberate scientific work; the bond requiring active cultivation across generations through ritual, instruction, textual preservation, architectural orientation, and broader institutional apparatus"
-distinguished_from = "Mainstream academic religious-studies definitions (Tylor, Durkheim, Eliade, Geertz, Smart, Asad — operating principally through cultural-symbolic-experiential framings); the Marx/Lenin 'opium of the people' tradition (operating principally through ideological-functional critique); the New Atheist tradition (operating principally through cognitive-error and harmful-institutional framings); the perennialist tradition (operating principally through transcendent-unity framings); the various supernatural-theistic traditions (operating principally through divine-revelation framings)"
-principal_source_articulation = "Vorilhon: 'Religion from the Latin religio means \"that which links\" or \"the tie\", which unites the creators to their creation' (*Let Us Welcome the Extra-Terrestrials*, 1979); Sendy: 'La religion vient du latin religare, qui veut dire relier... l'étymologie définit parfaitement l'objet initial des religions : maintenir le lien entre les cieux et la Terre' (*L'ère du Verseau*, 1970)"
-raelian_movement_self_positioning = "An 'atheist religion' — religion in the *religare* sense (cultivated bond between creators and created) while atheist in the technical sense (rejecting supernatural divinity, since the Elohim are biological beings rather than supernatural gods)"
-cross_cultural_pattern = "Priesthood-architecture-ritual complexes operating as link-maintenance institutions across virtually every major civilization: Mesopotamian, Egyptian, Vedic / Hindu, Greek and Roman, Chinese, Mesoamerican, various indigenous traditions"
-status_in_framework = "Foundational concept; the framework's specific definition of what religion IS, supporting the broader integration of revelation, prophetic-tradition, sacred-text, ritual, and architectural-iconographic content across the corpus"
-principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) — principal direct source articulation; *L'ère du Verseau* (Sendy, 1970), particularly the *La Religion* section — substantial pre-Raëlian articulation; *timeline.epub* — substantial subsequent corpus development with Noah's pre-flood community as the original religious community"
+type = "מושג יסוד; הגדרת הדת של המסגרת כקשר מטופח בין האנושות לבין יוצריה, האלוהים"
+etymology = "לטינית *religio* ('חובה דתית, הקפדה, קדושה'), ככל הנראה מ־*religare* ('לקשור, לחבר, לאגד'); קיקרו ב־*De Natura Deorum* הציע גזירה מתחרה מ־*relegere* ('לקרוא שוב, לשקול בקפידה'). המסגרת פועלת על פי האטימולוגיה *religare*"
+framework_definition = "הקשר המטופח בין האנושות לבין האלוהים — הציוויליזציה שהפיקה את החיים הארציים בעבודה מדעית מכוונת — הנשמר לאורך הדורות באמצעות טקס, הוראה, שימור טקסטים וכיוון האדריכלות המקודשת"
+distinguished_from = "הגדרות אקדמיות של חקר הדתות (טיילור, דורקהיים, אליאדה, גירץ, סמארט, אסד — מסגורים תרבותיים־סמליים־חווייתיים); ביקורת 'אופיום להמונים' של מרקס ולנין; מסגור הטעות הקוגניטיבית של האתאיזם החדש; מסגור האחדות הטרנסצנדנטית של הפרניאליזם; מסגורים על־טבעיים־תאיסטיים של התגלות אלוהית"
+principal_source_articulation = "וורילון: 'המילה דת (religion) באה מן הלטינית religio, שפירושה ״מה שקושר״ או ״הקשר״, המאחד את הבוראים עם בריאתם' (*בואו נקבל את פני החייזרים*, 1979); סנדי: 'l'étymologie définit parfaitement l'objet initial des religions : maintenir le lien entre les cieux et la Terre' (*L'ère du Verseau*, 1970)"
+raelian_movement_self_positioning = "'דת אתאיסטית' — דת במובן *religare* (קשר מטופח בין היוצרים לנבראים), ואתאיסטית בשלילת אלוהות על־טבעית, שכן האלוהים הם יצורים ביולוגיים ולא אלים"
+cross_cultural_pattern = "מכלולים של כהונה, אדריכלות וטקס המתפקדים כמוסדות לשמירת הקשר בציוויליזציות המרכזיות: המסופוטמית, המצרית, הוודית, היוונית־רומית, הסינית, המסו־אמריקנית והמסורות השמאניות"
+status_in_framework = "מושג יסוד; הגדרת המסגרת למהי דת, העומדת ביסוד הטיפול שלה בהתגלות, בנבואה, בטקסט המקודש, בטקס ובאדריכלות המקודשת לאורך הקורפוס"
+principal_corpus_treatment = "*בואו נקבל את פני החייזרים* (וורילון, 1979) — הניסוח העיקרי במקור; *L'ère du Verseau* (סנדי, 1970), ובמיוחד הפרק *La Religion* — הניסוח הקדם־ראליאני; *timeline.epub* — פיתוח מאוחר יותר בקורפוס, ובו קהילתו של נח שלפני המבול כקהילה הדתית הראשונה"
 +++
 
 **Religion** (Latin *religio*, most plausibly from *religare*, "to bind, to tie,

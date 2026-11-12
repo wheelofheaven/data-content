@@ -6,7 +6,7 @@ template = "timeline-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-10-29"
 translation_stale = false
 translation_sync = 100
@@ -14,7 +14,7 @@ symbol = "🚀"
 color = "silver"
 start_year = "before -21810"
 end_year = "-21810"
-period = "before 21'810BC"
+period = "紀元前21,810年以前"
 chapter = "2.1"
 genesis_interpretation = "序章は時系列全体の舞台を整え、エロヒムが遺伝子研究の新たなフロンティアとして地球を求めるに至った状況を確立します。ジュラシック・パークの警鐘的な物語と同じく、抑制を欠いた科学的実験の帰結と、母星で進歩が物議をかもしたときに新たなフロンティアを求める姿勢を考察します。"
 footnotes = [

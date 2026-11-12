@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,19 +14,28 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
-alternative_names = ["Genetic modification", "Gene splicing (historical informal usage)", "Recombinant DNA technology (the foundational subdomain)", "Genome editing (the contemporary CRISPR-era subdomain)"]
+alternative_names = ["遺伝子改変", "遺伝子スプライシング(歴史的な非公式の用法)", "組換えDNA技術(基礎となる下位領域)", "ゲノム編集(現代のCRISPR時代の下位領域)"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "ジェネシス・ツールボックス", path = "wiki/genesis-toolbox", description = "この学問分野をその一構成要素とする、創造の技術体系の全体をまとめる計画全体の総合。" },
+    { title = "生命工学", path = "wiki/life-engineering", description = "この枠組みの中で遺伝子工学とその姉妹分野をまとめる包括的な概念。" },
+    { title = "合成生物学", path = "wiki/synthetic-biology", description = "遺伝子工学と重なり合い、それを拡張する工学分野。" },
+    { title = "合成ゲノミクス", path = "wiki/synthetic-genomics", description = "遺伝子工学から生まれた、ゲノム規模の設計と合成の分野。" },
+    { title = "パントロピー", path = "wiki/pantropy", description = "地球外の環境のための生物の工学。関連する派生分野。" },
+    { title = "大いなる帰還", path = "wiki/great-return", description = "現在の工学的能力がそのための準備であるとこの枠組みが読む、予期される知識の移転。" },
+    { title = "エロヒム", path = "wiki/elohim", description = "人類がその本来の合成能力を取り戻しつつあるとこの枠組みが読む文明。" },
+]
 
 [extra.infobox]
-type = "The scientific discipline of deliberately modifying an organism's genetic material to introduce, alter, or transfer genetic content"
-foundational_period = "Early 1970s — Paul Berg's first recombinant DNA molecule (1972); Stanley Cohen and Herbert Boyer's first successful bacterial transformation with recombinant DNA (1973); the Asilomar Conference (February 1975)"
-foundational_figures = "Paul Berg (Stanford, recombinant DNA, Nobel Prize 1980); Stanley Cohen (Stanford) and Herbert Boyer (UCSF) (Cohen-Boyer technique, 1973); Werner Arber, Daniel Nathans, Hamilton Smith (restriction enzymes, Nobel Prize 1978); Frederick Sanger (DNA sequencing, second Nobel Prize 1980); Kary Mullis (PCR, Nobel Prize 1993); Jennifer Doudna and Emmanuelle Charpentier (CRISPR-Cas9, Nobel Prize 2020)"
-foundational_techniques = "Restriction enzymes; DNA ligase; plasmids as vectors; bacterial transformation; polymerase chain reaction (PCR); DNA sequencing (Sanger method, subsequent next-generation sequencing); gel electrophoresis"
-contemporary_techniques = "CRISPR-Cas9 (genome editing, 2012 onward); CRISPR-Cas12, CRISPR-Cas13 (variant systems); base editing; prime editing; TALENs (transcription activator-like effector nucleases); zinc finger nucleases; gene drives; mRNA technology (substantively developed during the COVID-19 vaccine response)"
-regulatory_framework = "NIH Guidelines for Research Involving Recombinant DNA Molecules (1976, regularly updated); USDA, FDA, EPA regulatory authority (US); the substantially more restrictive EU regulatory framework; Cartagena Protocol on Biosafety (2003); national variations across most jurisdictions; the contemporary contested status of heritable human genome editing"
-major_applications = "Medical (recombinant insulin from 1978, recombinant therapeutic proteins, gene therapy, CAR-T cell therapy, mRNA vaccines); agricultural (Bt crops, Roundup-Ready crops, Golden Rice, the broader GMO industry); industrial (bioplastics, biofuels, recombinant enzymes); research (model organisms, knockout/knock-in studies, cellular reprogramming)"
-related_disciplines = "Synthetic biology; synthetic genomics; pantropy; life engineering (the broader umbrella concept); cell biology; molecular biology; biochemistry; bioinformatics; structural biology"
-framework_significance = "Read by the framework as the substantive recovery by humanity of the engineering capabilities the Elohim used in the original synthesis approximately 25,000 years ago; the contemporary acceleration of genetic-engineering capability corresponds substantively to the framework's reading of the contemporary Age-of-Apocalypse transitional period"
+type = "遺伝物質を導入、改変、移転するために、生物の遺伝物質を意図的に改変する科学分野"
+foundational_period = "1970年代初頭――ポール・バーグによる最初の組換えDNA分子(1972年)。スタンレー・コーエンとハーバート・ボイヤーによる組換えDNAを用いた最初の細菌形質転換の成功(1973年)。アシロマ会議(1975年2月)"
+foundational_figures = "ポール・バーグ(スタンフォード大学、組換えDNA、1980年ノーベル賞)。スタンレー・コーエン(スタンフォード大学)とハーバート・ボイヤー(カリフォルニア大学サンフランシスコ校)(コーエン=ボイヤー法、1973年)。ヴェルナー・アーバー、ダニエル・ネイサンズ、ハミルトン・スミス(制限酵素、1978年ノーベル賞)。フレデリック・サンガー(DNA配列決定、1980年に二度目のノーベル賞)。キャリー・マリス(PCR、1993年ノーベル賞)。ジェニファー・ダウドナとエマニュエル・シャルパンティエ(CRISPR-Cas9、2020年ノーベル賞)"
+foundational_techniques = "制限酵素、DNAリガーゼ、ベクターとしてのプラスミド、細菌の形質転換、ポリメラーゼ連鎖反応(PCR)、DNA配列決定(サンガー法、その後の次世代シーケンシング)、ゲル電気泳動"
+contemporary_techniques = "CRISPR-Cas9(ゲノム編集、2012年以降)。CRISPR-Cas12、CRISPR-Cas13(変異型システム)。塩基編集。プライム編集。TALEN(転写活性化因子様エフェクターヌクレアーゼ)。ジンクフィンガーヌクレアーゼ。遺伝子ドライブ。mRNA技術(COVID-19ワクチンへの対応の中で急速に開発された)"
+regulatory_framework = "組換えDNA分子を用いる研究に関するNIHガイドライン(1976年、定期的に改訂)。USDA、FDA、EPAの規制権限(米国)。より厳格なEUの枠組み。バイオセーフティに関するカルタヘナ議定書(2003年)。大半の法域における各国ごとの違い。遺伝するヒトゲノム編集の、議論のある位置づけ"
+major_applications = "医療(1978年以降の組換えインスリン、組換え治療用タンパク質、遺伝子治療、CAR-T細胞療法、mRNAワクチン)。農業(Bt作物、ラウンドアップ・レディ作物、ゴールデンライス、より広いGMO産業)。工業(バイオプラスチック、バイオ燃料、組換え酵素)。研究(モデル生物、ノックアウト/ノックイン研究、細胞のリプログラミング)"
+related_disciplines = "合成生物学、合成ゲノミクス、パントロピー、生命工学(より広い包括的概念)、細胞生物学、分子生物学、生化学、バイオインフォマティクス、構造生物学"
+framework_significance = "この枠組みでは、エロヒムが地上の生命を合成するのに用いた工学的能力を人類が取り戻しつつあることとして読まれる。その能力の加速は、黙示の時代への移行の指標として読まれる"
 +++
 
 **Genetic engineering** is the deliberate modification of an organism's genetic

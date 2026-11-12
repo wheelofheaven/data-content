@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,28 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the doubled signature", "the doubled-signature principle", "the Hamlet's Mill principle", "the doubled astronomical signature", "doubled invocation across the zodiacal axis"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Jesús", path = "wiki/jesus", description = "La figura del pez y la virgen que lleva la signatura Piscis-Virgo de la era cristiana." },
+    { title = "Moisés", path = "wiki/moses", description = "El inaugurador cornudo de la era del carnero cuya tradición codifica la signatura Aries-Libra." },
+    { title = "Apocalipsis", path = "wiki/apocalypse", description = "La era presente, cuya signatura Acuario-Leo del agua y el león se está imprimiendo ahora." },
+    { title = "Génesis", path = "wiki/genesis", description = "Un texto principal que, según el principio, conserva contenido astronómico-precesional codificado." },
+    { title = "Biblia hebrea", path = "wiki/hebrew-bible", description = "El corpus de simbolismo religioso que la invocación doble lee en busca de sus signaturas astronómicas." },
+    { title = "Competencia cósmica", path = "wiki/cosmic-competition", description = "Un marco distinto del corpus que la entrada separa del principio de la signatura doble." },
+    { title = "El molino que muele las eras", path = "articles/the-mill-that-grinds-the-ages", description = "La signatura doble leída como la contrafirma de los iniciados —la règle des signes opposés de Sendy— recorrida era por era." },
+    { title = "Tauroctonía", path = "wiki/tauroctony", description = "El emparejamiento Tauro–Escorpio que lleva el escorpión de la tauroctonía mitraica." },
+]
 
 [extra.infobox]
-type = "Hermeneutic-interpretive principle for reading precessional-age symbolism"
-basic_observation = "Each precessional age encodes its astronomical signature in iconographic and religious form across both its current zodiacal sign and the opposite sign on the zodiacal axis"
-mechanism = "Redundant doubled invocation ensures astronomical identity survives cultural transmission across centuries"
+type = "Principio hermenéutico-interpretativo para leer el simbolismo de las eras precesionales"
+basic_observation = "Cada era precesional codifica su firma astronómica en forma iconográfica y religiosa tanto en su signo zodiacal actual como en el signo opuesto del eje zodiacal"
+mechanism = "La invocación doble y redundante garantiza que la identidad astronómica sobreviva a la transmisión cultural a lo largo de los siglos"
 zodiacal_opposition_axes = "Aries-Libra; Taurus-Scorpio; Gemini-Sagittarius; Cancer-Capricorn; Leo-Aquarius; Virgo-Pisces"
-worked_cases = "Pisces-Virgo (Christianity); Aries-Libra (Mosaic period); Taurus-Scorpio (Abrahamic reconstruction); Aquarius-Leo (present age)"
-principal_antecedent = "Giorgio de Santillana and Hertha von Dechend, *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (Boston: Gambit, 1969)"
-distinguished_from = "The precessional ages framework specifically (which structures the corpus's broader chronology); the Cosmic Competition framework (which concerns multiple humanities); the precession of the equinoxes itself (the underlying astronomical phenomenon)"
-status_in_source_material = "Not present in the Raëlian source material; corpus-internal interpretive principle drawn from Hamlet's Mill and applied systematically across the corpus's twelve-age framework"
-principal_text = "Hamlet's Mill (Santillana and von Dechend, 1969); various Wheel of Heaven corpus chapters applying the principle"
-principal_framework_source = "Giorgio de Santillana and Hertha von Dechend, *Hamlet's Mill* (1969); Jean Sendy, *L'ère du Verseau* (1970)"
+worked_cases = "Piscis-Virgo (cristianismo); Aries-Libra (período mosaico); Tauro-Escorpio (reconstrucción abrahámica); Acuario-Leo (era presente)"
+principal_antecedent = "Giorgio de Santillana y Hertha von Dechend, *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (Boston: Gambit, 1969)"
+distinguished_from = "El marco de las eras precesionales en sí (que estructura la cronología más amplia del corpus); el marco de la Competencia cósmica (que se refiere a múltiples humanidades); la precesión de los equinoccios misma (el fenómeno astronómico subyacente)"
+status_in_source_material = "No presente en el material de fuente raeliano; principio interpretativo interno del corpus tomado de *El molino de Hamlet* y aplicado sistemáticamente al marco de doce eras del corpus"
+principal_text = "*El molino de Hamlet* (Santillana y von Dechend, 1969); diversos capítulos del corpus de Wheel of Heaven que aplican el principio"
+principal_framework_source = "Giorgio de Santillana y Hertha von Dechend, *El molino de Hamlet* (1969); Jean Sendy, *L'ère du Verseau* (1970)"
 +++
 
 The **Doubled Signature** is a hermeneutic principle, drawn from Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (1969) and applied systematically by the Wheel of Heaven corpus, by which {% claim(type="speculative", id="woh-claim-0044") %}each precessional age encodes its astronomical signature in iconographic and religious form across two zodiacal signs: the current sign, which marks the constellation against which the vernal equinox rises, and its opposite across the zodiacal axis, which appears at the autumnal equinox and supplies the iconographic counterweight.{% end %} Encoding the signature in *two* symbolic complexes rather than one is the principle's operative feature: the redundancy lets the astronomical identity survive centuries of transmission during which the original meaning is lost, the first observers are forgotten, and later theological elaboration obscures the astronomical content.

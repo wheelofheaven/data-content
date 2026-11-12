@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,25 @@ category = "Raëlism"
 entry_type = "concept"
 alternative_names = ["Paradism", "paradisme (French)", "Earthly paradise (substantive Vorilhon designation)", "Paradise on Earth (substantive Vorilhon section title)", "the realized post-scarcity society", "fully-automated post-money society"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "黃金時代", path = "wiki/golden-age", description = "樂園主義被讀作其操作形式的後匱乏內容。" },
+    { title = "新誡命", path = "wiki/new-commandments", description = "以樂園主義為主要組成部分的水瓶座時代綱領。" },
+    { title = "天才政治", path = "wiki/geniocracy", description = "與樂園主義並行整合的選擇性民主治理綱領。" },
+    { title = "人道主義", path = "wiki/humanitarianism", description = "與樂園主義並行整合的財富與財產改革綱領。" },
+    { title = "賽博樂園主義", path = "wiki/cyberparadism", description = "樂園主義綱領的數位平台延伸。" },
+]
 
 [extra.infobox]
 type = "Socio-economic concept; principal New Commandments program-component articulating post-scarcity post-money society through advanced automation"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'Welcoming the Extra-Terrestrials' material, 'Society and Government' subsection; consolidated *Message from the Designers* (2005), 'Paradise on Earth' section; *timeline.epub* — substantive corpus engagement principally in Age of Aquarius chapter and Golden Age substantive content"
-core_corpus_articulation = "Post-scarcity, fully-automated, post-money society in image of the Elohim home planet; advanced automation and AI systems substituting for human menial labor; humans liberated to fulfillment, creation, intellectual exploration"
+principal_source = "《外星人帶我到他們的行星》（沃里隆，1975），「歡迎外星人」部分的〈社會與政府〉小節；彙編本《來自設計者的訊息》（2005），〈地上的樂園〉一節；語料在水瓶座時代的時間線章節與黃金時代材料中有進一步處理"
+core_corpus_articulation = "後匱乏、全面自動化、後貨幣的社會，以耶洛因母星為範本；先進的自動化與人工智慧系統取代人類的粗重勞動；人類得以解放，追求自我實現、創造與知識探索"
 principal_mechanism = "Advanced automation (biological robots, AI systems, robotic infrastructure) performing all menial labor; abundance-distribution replacing scarcity-allocation; post-money society eliminating monetary exchange"
-post_capitalism_post_communism_framing = "Paradism as third-way alternative; capitalism rejected (enslaves to money, benefits few); communism rejected (places equality above liberty); Paradism preserves liberty and differentiation while eliminating material scarcity"
-transitional_vs_realized = "Transitional Paradism preserves differentiated reward for differentiated contribution; fully-realized Paradism (fully-automated future) eliminates money entirely"
-new_commandments_integration = "Principal Aquarian-age program-component integrated with Geniocracy, Humanitarianism, Cyberparadism, World Government, Demilitarization, Science as Religion, Telepathic Cultivation, Metaphysical Clarifications"
-organizational_engagement = "Paradism organization (paradism.org) operates as spin-off political-organizational engagement parallel to Movement for Worldwide Geniocracy"
-contemporary_parallels = "Post-scarcity economics (Frase, Reich); Fully Automated Luxury Communism (Bastani); Universal Basic Income; transhumanism (Bostrom, Kurzweil); technological singularity discourse; utopian-socialist tradition (Morris, Bellamy); Star Trek Federation post-money society"
-status_in_framework = "Principal Aquarian-age program-component; operational form of Golden Age post-scarcity content; substantive third-way alternative to twentieth-century dominant economic systems"
+post_capitalism_post_communism_framing = "樂園主義作為第三條道路；拒絕資本主義（使人受金錢奴役，只使少數人受益）；拒絕共產主義（將平等置於自由之上）；樂園主義在消除物質匱乏的同時，保留自由與差異"
+transitional_vs_realized = "過渡期的樂園主義對不同的貢獻保留不同的回報；完全實現的樂園主義（完全自動化的未來）則徹底廢除金錢"
+new_commandments_integration = "水瓶座時代計畫的主要組成部分，與天才政治、人道主義、賽博樂園主義、世界政府、非軍事化、科學作為宗教、心靈感應的培養、形上學的澄清相整合"
+organizational_engagement = "樂園主義運動（paradism.org）——推廣此學說的衍生倡議團體，與世界天才政治運動（Movement for Worldwide Geniocracy）有別且並行"
+contemporary_parallels = "後匱乏經濟學（弗雷斯、賴克）；完全自動化的奢華共產主義（巴斯塔尼）；全民基本收入；超人類主義（博斯特倫、庫茲威爾）；技術奇點論述；烏托邦社會主義傳統（莫里斯、貝拉米）；《星際爭霸戰》聯邦的無貨幣社會"
+status_in_framework = "水瓶座時代計畫的主要組成部分；黃金時代後匱乏內涵的實務形式；二十世紀各經濟體制之外的第三條道路"
 +++
 
 {% claim(type="framework", id="woh-claim-0033") %}**Paradism** is the Raëlian doctrine of a post-scarcity, fully automated, moneyless

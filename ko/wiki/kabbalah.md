@@ -6,28 +6,39 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["Cabala (older European spelling)", "Qabalah (Hermetic / Western-esoteric spelling)", "Kabbala", "*Qabbalah* (Hebrew: קַבָּלָה)", "the Jewish mystical tradition", "*shalshelet ha-Kabbalah* ('chain of Tradition')", "*torat ha-sod* ('the secret teaching')", "*chokhmah penimit* ('inner wisdom')"]
+alternative_names = ["Cabala (예전 유럽식 철자)", "Qabalah (헤르메스주의 / 서구 밀교식 철자)", "Kabbala", "*Qabbalah* (히브리어: קַבָּלָה)", "유대 신비주의 전통", "*shalshelet ha-Kabbalah* ('전승의 사슬')", "*torat ha-sod* ('비밀의 가르침')", "*chokhmah penimit* ('내적 지혜')"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "신들의 다수성", path = "wiki/plurality-of-gods", description = "세피로트 우주론이 가장 직접적으로 보존한다고 하는 구조화된 복수성의 독해." },
+    { title = "생명나무", path = "wiki/tree-of-life", description = "이 전통이 표명하는 열 세피로트를 배열한 에츠 하임 도해." },
+    { title = "엘로힘", path = "wiki/elohim", description = "코퍼스가 세피로트의 유출을 대응시키는 동맹 구조." },
+    { title = "장 상디", path = "wiki/jean-sendy", description = "사프란의 『카발라』에 대한 관여가 프레임워크의 카발라 독해를 제공한 저자." },
+    { title = "히브리어 성경", path = "wiki/hebrew-bible", description = "이 비교(秘敎) 전통이 그 복수성 내용을 위해 읽는 성경적 기반." },
+    { title = "다윗의 별", path = "wiki/star-of-david", description = "이 전통의 비교 어휘 안에 있는 같은 계통의 유대 상징 형태." },
+    { title = "황도대", path = "wiki/zodiac", description = "『세페르 예치라』가 열두 단순 히브리 문자에 배정하는 열두 별자리." },
+    { title = "시대를 갈아내는 맷돌", path = "articles/the-mill-that-grinds-the-ages", description = "더 넓은 세차의 실 안에서 본 『세페르 예치라』의 황도대 대응과 탈무드의 '이스라엘에게는 마잘이 없다'." },
+    { title = "마자롯", path = "wiki/mazzaroth", description = "『세페르 예치라』의 황도대 문자와 마젤 토브 축복 배후의 천문 용어." },
+]
 
 [extra.infobox]
-type = "Major Jewish mystical-esoteric tradition; the principal living Western esoteric tradition with continuous textual-pedagogical transmission"
-literal_meaning = "Hebrew קַבָּלָה (*Qabbalah*) literally means 'reception' or 'received tradition,' from the root קבל (*q-b-l*, 'to receive'); designates the substantial body of teachings received and transmitted across the chain of tradition"
-principal_textual_corpus = "*Sefer Yetzirah* (Book of Formation, late antique); *Sefer ha-Bahir* (Book of Brightness, late 12th century); *Zohar* (Book of Splendor, late 13th century, attributed to Moses de León); the Lurianic corpus (16th century, principally through Hayyim Vital's transmission of Isaac Luria's teachings); the Hasidic corpus (18th century onward); various subsequent textual developments"
-core_cosmological_structure = "*Ein Sof* (the infinite, unmanifest divine source) → ten *sephirot* (emanations) operating across four worlds (*olamot*: *Atziluth*, *Beriah*, *Yetzirah*, *Asiyah*); the *sephirot* arranged in the *Etz Chaim* (Tree of Life) diagram with three pillars and twenty-two connecting paths"
-the_ten_sephirot = "Keter (Crown), Chokhmah (Wisdom), Binah (Understanding), Chesed (Mercy / Loving-kindness), Gevurah (Severity / Strength), Tiferet (Beauty / Harmony), Netzach (Eternity / Victory), Hod (Splendor / Glory), Yesod (Foundation), Malkhut (Kingdom / Sovereignty)"
-historical_phases = "Foundational period (late antiquity, principally Sefer Yetzirah); medieval emergence (12th-13th centuries, Provence and Spain, principally Bahir and Zohar); Lurianic synthesis (16th century, Safed); Hasidic development (18th century onward, Eastern Europe); modern academic and renewal phases (20th-21st centuries)"
-framework_position = "The single most positive framework assessment given to any religious-textual tradition: 'the closest book to the truth' (corpus-internal articulation drawing on Yahweh-source content). The Kabbalistic *sephirot* cosmology maps with notable precision onto the framework's articulation of the actual alliance structure"
-chain_of_tradition_claim = "The Kabbalistic tradition's own self-articulation: *shalshelet ha-Kabbalah* ('chain of Tradition'), with the substantial transmission claim reaching from Moses through Joshua, the Elders, the Prophets, the Great Assembly, and onward; with various Kabbalistic articulations registering the tradition's antiquity as exceeding even the Sinai revelation and reaching back to prehistoric origins"
-distinguished_from = "Mainstream rabbinic Judaism (which has historically operated within strict monotheistic theological framework with the Kabbalistic plurality content registered within the broader esoteric tradition rather than within mainstream halakhic discourse); Christian Kabbalah / Cabala (the substantial Renaissance-Christian appropriation operating within Christian-theological framing); Hermetic Qabalah (the substantial Western-esoteric appropriation operating within broader Hermetic-magical framing); broader Jewish mystical traditions (which include various non-Kabbalistic streams)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in the 'At the Roots of All Religions' section of *The Book Which Tells the Truth* establishes the framework's specific reading; subsequent corpus articulation in *timeline.epub* extends the engagement"
-principal_text_for_framework_engagement = "*The Book Which Tells the Truth* (1974), 'The End of the World' chapter, 'At the Roots of All Religions' section (the principal Yahweh passage); *timeline.epub* Pisces chapter, Section X (the substantial subsequent corpus articulation on the *sephirot* / alliance-structure mapping); Jean Sendy, *Les dieux nous sont nés* and *Ces dieux qui firent le ciel et la terre* (substantial Sendy engagement drawing on Alexandre Safran's *La Cabale*)"
+type = "유대교의 주요 신비주의·비전 전통. 텍스트와 교육의 계보가 끊이지 않고 이어지는 주요 현존 서구 비전 전통"
+literal_meaning = "히브리어 קַבָּלָה(*Qabbalah*), '받음' 또는 '받은 전통'. 어근 קבל(*q-b-l*, '받다')에서 유래합니다. 이 전통은 전수 방식으로 자신을 이름 짓습니다 — 새로 추론해 내는 것이 아니라 사슬을 따라 전해진 가르침입니다"
+principal_textual_corpus = "*Sefer Yetzirah*(형성의 책, 고대 후기), *Sefer ha-Bahir*(12세기 후반), *Zohar*(광휘의 책, 13세기 후반, 시몬 바르 요하이에게 귀속되나 모세 데 레온이 저술), 루리아 코퍼스(16세기, 하임 비탈을 통해), 하시디즘 코퍼스(18세기 이후)"
+core_cosmological_structure = "*Ein Sof*(무한하고 드러나지 않은 근원)가 네 세계(*Atziluth*, *Beriah*, *Yetzirah*, *Asiyah*)에 걸쳐 열 개의 *sefirot*를 유출합니다. *sefirot*는 스물두 개의 길로 이어진 세 기둥 위에 *Etz Chaim*(생명나무)으로 배열됩니다"
+the_ten_sefirot = "케테르(왕관), 호크마(지혜), 비나(이해), 헤세드(자비), 게부라(엄격), 티페레트(아름다움), 네차흐(영원), 호드(광휘), 예소드(기초), 말후트(왕국)"
+historical_phases = "기초기(고대 후기, Sefer Yetzirah), 중세의 출현(12–13세기, 프로방스와 스페인, Bahir와 Zohar), 루리아의 종합(16세기, 사페드), 하시디즘의 전개(18세기 이후, 동유럽), 근대 학문 및 갱신기"
+framework_position = "코퍼스가 어떤 종교 전통에 대해서든 내리는 가장 긍정적인 평가: 카발라는 '진실에 가장 가까운 책'이며, 그 sefirot 우주론은 엘로힘의 구조화된 복수성에 대한 보존된 기억으로 읽힙니다"
+chain_of_tradition_claim = "*Shalshelet ha-Kabbalah*('전통의 사슬') — 모세로부터 여호수아, 장로들, 예언자들, 대회당으로 이어져 받은 가르침. 카발리스트들은 그 기원을 시나이 너머 선사시대까지 끌어올립니다"
+distinguished_from = "주류 랍비 유대교(sefirot를 엄격한 유일신론 안에 둠), 그리스도교 카발라(르네상스기 그리스도교의 전유), 헤르메스주의 카발라(근대 서구 비전주의의 전유), 더 넓은 유대 신비주의 전통(카발라가 아닌 흐름 포함)"
+status_in_source_material = "기록됨. *진실을 말하는 책*의 '모든 종교의 뿌리에서' 구절이 주요 원전이며, 이후 코퍼스 자료가 *sefirot*와 *Shi'ur Qomah*의 파라상 수치에 대한 해석을 확장합니다"
+principal_text_for_framework_engagement = "*진실을 말하는 책*(1974), '모든 종교의 뿌리에서'. *Shi'ur Qomah*와 그 엘로힘 본국 행성 해석(해설 '진실에 가장 가까운 책' 참조). 알렉상드르 사프랑의 *La Cabale*(1960)에 기댄 장 상디"
 +++
 
 **Kabbalah** (Hebrew: קַבָּלָה, *Qabbalah*, "received tradition") is the

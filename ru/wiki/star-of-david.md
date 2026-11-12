@@ -6,28 +6,36 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["hexagram", "Magen David (מָגֵן דָּוִד, 'Shield of David')", "Solomon's Seal (Seal of Solomon)", "Hindu Shatkona (षट्कोण, 'six-cornered')", "Star of Goliath (older Karaite designation)", "Creator's Star", "Hex Star"]
+alternative_names = ["гексаграмма", "Magen David (מָגֵן דָּוִד, «Щит Давида»)", "Соломонова печать (Печать Соломона)", "индуистская шаткона (षट्कोण, «шестиугольная»)", "Звезда Голиафа (старое караимское обозначение)", "Звезда Создателя", "шестиконечная звезда"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Раэлианский символ бесконечности", path = "wiki/raelian-symbol-of-infinity", description = "Составная эмблема, внешним компонентом которой является Звезда Давида." },
+    { title = "Свастика", path = "wiki/swastika", description = "Другой компонент этой эмблемы, кодирующий временно́е измерение бесконечности." },
+    { title = "Бесконечность", path = "wiki/infinity", description = "Пространственное измерение, которое переплетённые треугольники представляют для рамки." },
+    { title = "Союз", path = "wiki/the-alliance", description = "Завет создателей и творения, который, по прочтению Сенди, кодируют переплетённые треугольники." },
+    { title = "Фрактальная космология", path = "wiki/fractal-cosmology", description = "Пересекающая масштабы структура «что вверху, то и внизу», которую изображает гексаграмма." },
+    { title = "Удвоенная подпись", path = "wiki/doubled-signature", description = "Принцип корпуса о парном иконографическом кодировании, примером которого служит этот символ." },
+]
 
 [extra.infobox]
 type = "Religious-iconographic symbol; hexagram comprising two intertwined equilateral triangles forming a six-pointed star; substantial cross-cultural distribution across multiple religious-traditional contexts"
-basic_form = "Two intertwined equilateral triangles, one pointing upward and one pointing downward, forming a six-pointed star (hexagram); the geometric structure produces six points and twelve outer line-segments forming the principal hexagonal outline"
-hebrew_designation = "*Magen David* (מָגֵן דָּוִד, 'Shield of David'); the Hebrew designation became the principal Jewish-cultural designation across the medieval and modern periods"
-oldest_known_usage = "Substantial pre-Jewish-symbol cross-cultural usage extending back at least 4,000-5,000 years across Mesopotamian, Mediterranean, and South Asian traditions; the specific Jewish-symbol identification is principally modern (17th century onward)"
-principal_traditional_meanings = "Cosmic correspondence (Hermetic 'as above, so below'); union of male and female divine principles (Hindu Shatkona); union of opposites and four-elements integration (Hermetic-alchemical); magical-protective seal (Solomon's Seal traditions); Jewish-cultural identification (modern Jewish-symbol usage); the alliance covenant between creators and human creation (Sendy interpretive contribution); the spatial dimension of infinity (Raëlian framework)"
-principal_cross_cultural_traditions = "Hindu (Shatkona, principally Tantric-yantra usage); Hermetic-alchemical (the four-elements-integration framework); Solomon's Seal traditions (magical-protective contexts across medieval Jewish, Christian, and Islamic traditions); Mesopotamian and ancient Mediterranean hexagram usage; medieval Christian and Islamic religious-architectural usage; modern Jewish-cultural and Zionist-political usage; Raëlian-framework iconographic correlate of the spatial dimension of infinity"
-position_in_raelian_framework = "Outer component of the Raëlian Symbol of Infinity (the composite emblem with central swastika or galaxy-spiral); represents the spatial dimension of infinity through the Hermetic 'as above, so below' principle; in Sendy's distinctive interpretive contribution, additionally represents the alliance covenant between the creators (upward triangle) and the human creation (downward triangle)"
-modern_jewish_symbol_status = "Principal Jewish-cultural symbol since approximately the late nineteenth century; adopted by the Zionist movement at the First Zionist Congress (1897); substantial Holocaust-period usage as the yellow-badge identification; adopted on the Israeli national flag (1948); continues as the principal Jewish-cultural-religious symbol in contemporary contexts"
-distinguished_from = "The Swastika (the other principal component of the Raëlian Symbol of Infinity, with its own substantial pre-Nazi religious-traditional history); the Raëlian Symbol of Infinity as composite emblem (treated under separate entry); the broader cross-cultural pentagram and other star-iconographic forms (which operate within distinct iconographic categories); the various national-flag and political-symbol usages (which operate within specific contemporary political contexts)"
-status_in_source_material = "Substantially documented; the principal Yahweh-delivered passages establish both the symbol's specific Raëlian-framework semantic content and its identification with the Hermetic 'as above, so below' principle; Sendy's distinctive interpretive contribution provides substantial additional doctrinal content"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Watching Over the Chosen People' content (the principal Yahweh passage on the emblem); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' section (the 'as above, so below' explicit articulation and the Bardo Thodol cross-reference); Jean Sendy, *L'ère du Verseau* (1970), the seal-of-Solomon-as-alliance-covenant interpretive contribution"
+basic_form = "Два сцепленных равносторонних треугольника, один вершиной вверх, другой вниз, образующие шестиконечную звезду (гексаграмму); шесть внешних вершин вокруг центрального шестиугольника"
+hebrew_designation = "*Маген Давид* (מָגֵן דָּוִד, «Щит Давида»), обычное еврейское название в Средние века и Новое время"
+oldest_known_usage = "Гексаграмма использовалась в разных культурах — в месопотамских, средиземноморских и южноазиатских традициях — задолго до какой-либо связи с иудаизмом; отождествление именно с еврейским символом — позднее (с XVII века)"
+principal_traditional_meanings = "Космическое соответствие («что вверху, то и внизу», герметизм); союз мужского и женского начал (индуистская шаткона); союз противоположностей и четырёх стихий (герметико-алхимическая традиция); охранная печать (печать Соломона); еврейская идентичность (Новое время); альянс между создателями и человечеством (Сенди); пространственное измерение бесконечности (раэлианская рамка)"
+principal_cross_cultural_traditions = "Индуизм (шаткона); герметико-алхимическая традиция (фигура четырёх стихий); печать Соломона (магически-охранное использование в средневековых иудейской, христианской и исламской средах); использование гексаграммы в Месопотамии и Средиземноморье; современное еврейское и сионистское использование; раэлианская рамка"
+position_in_raelian_framework = "Внешний компонент Раэлианского символа бесконечности (составной эмблемы с центральной свастикой или галактической спиралью); представляет пространственное измерение бесконечности через «что вверху, то и внизу»; в прочтении Сенди — печать альянса между создателями (треугольник вершиной вверх) и человечеством (треугольник вершиной вниз)"
+modern_jewish_symbol_status = "Главный еврейский символ примерно с конца XIX века; принят сионистским движением на Первом сионистском конгрессе (1897); навязан как жёлтый опознавательный знак при нацистском режиме; помещён на флаг Израиля (1948)"
+distinguished_from = "Свастика (другой компонент Раэлианского символа бесконечности); сам Раэлианский символ бесконечности (отдельная статья); пентаграмма и другие звёздные формы; флаг Израиля как конкретное национально-политическое использование"
+status_in_source_material = "Документировано; отрывки Яхве придают символу смысл «что вверху, то и внизу», а Сенди добавляет прочтение как знака союза-завета"
+principal_text = "*Книга, которая говорит правду* (1974), «Надзор за избранным народом»; *Инопланетяне забрали меня на свою планету* (1975), «Ни Бога, ни души»; Жан Сенди, *L'ère du Verseau* (1970)"
 +++
 
 **The Star of David** (Hebrew מָגֵן דָּוִד, *Magen David*, "Shield of David") is a

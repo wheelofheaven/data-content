@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,21 +16,29 @@ entry_type = "biographical"
 claim_type = "framework"
 timeline = ["pisces"]
 alternative_names = ["Muḥammad ibn ʿAbd Allāh", "Muhammad ibn Abdullah", "Abu al-Qasim", "Ahmad", "Rasūl Allāh", "Khātam al-Anbiyāʾ"]
+see_also = [
+    { title = "Liste de prophètes et de religions", path = "wiki/list-of-prophets-and-religions", description = "Place Mahomet parmi les messagers que nomme le canon, dans une prophétologie circonscrite qui ne fournit ni liste ni ordre." },
+    { title = "Jésus", path = "wiki/jesus", description = "Le prophète antérieur dont la tradition islamique lit la venue comme annonçant Mahomet." },
+    { title = "Liste de rencontres rapprochées", path = "wiki/list-of-close-encounters", description = "Recense l'ascension de l'Isra' et du Mi'raj comme un événement de transport par engin aérien." },
+    { title = "Conseil des Éternels", path = "wiki/council-of-the-eternals", description = "L'organe parmi lequel Vorilhon aurait rencontré Mahomet sur la planète des Élohim en 1975." },
+    { title = "Hanafiyya", path = "wiki/hanafiyya", description = "Le monothéisme abrahamique préislamique dans lequel le cadre situe la révélation de Mahomet." },
+    { title = "Pétra", path = "wiki/petra", description = "Le site nabatéen proposé par la géographie révisionniste abordée dans le contexte de cette entrée." },
+]
 
 [extra.infobox]
-type = "Arabian prophet, founder of the religious community that became Islam"
+type = "Prophète arabe, fondateur de la communauté religieuse qui devint l'islam"
 arabic = "<span class=\"arabic\">مُحَمَّد ٱبْن عَبْد ٱللَّٰه</span> *Muḥammad ibn ʿAbd Allāh*"
-name_meaning = "*Muḥammad* — \"the Praised One\" or \"He who is praised,\" from the Arabic root *ḥ-m-d* \"to praise\""
-birth = "c. 570 CE in Mecca (the traditional \"Year of the Elephant\")"
-death = "8 June 632 CE (12 Rabi al-Awwal, 11 AH) in Medina, aged approximately 62"
-lineage = "Banū Hāshim clan of the Quraysh tribe; father ʿAbd Allāh ibn ʿAbd al-Muṭṭalib (died before Muhammad's birth); mother Āminah bint Wahb (died c. 576 CE); raised by paternal grandfather ʿAbd al-Muṭṭalib until c. 578, then by paternal uncle Abū Ṭālib"
-first_revelation = "c. 610 CE at the Cave of Hira (Ghār Ḥirāʾ) on Jabal al-Nūr near Mecca, age approximately 40; Surah al-ʿAlaq (Q 96:1–5), beginning with the command *Iqraʾ* (\"Recite\") delivered by the angel Jibrīl (Gabriel)"
-hijra = "622 CE — the migration from Mecca to Yathrib (subsequently Medina), establishing the Islamic calendar (1 AH = the year beginning with the Hijra)"
-key_meccan_episodes = "First revelation at Hira; Khadija as first convert; early persecution of followers; the Isrāʾ wa-l-Miʿrāj (Night Journey and Ascension); Year of Sorrow (619 CE — deaths of Khadija and Abu Talib)"
-key_medinan_episodes = "Constitution of Medina; Battle of Badr (624); Battle of Uhud (625); Battle of the Trench (627); Treaty of Hudaybiyya (628); Conquest of Mecca (630); Farewell Pilgrimage (632)"
-revelation_text = "The Qur'an (<span class=\"arabic\">القرآن</span> *al-Qurʾān*), 114 surahs, transmitted over 22 years (c. 610–632 CE); textually canonised under the third caliph ʿUthmān ibn ʿAffān c. 650 CE"
-hadith_tradition = "The reported sayings, actions, and tacit approvals of Muhammad, transmitted through chains of narrators (*isnād*) and compiled in canonical collections in the 9th century CE — *Ṣaḥīḥ al-Bukhārī*, *Ṣaḥīḥ Muslim*, and the four Sunan collections in Sunni tradition; *al-Kāfī* and other collections in Shia tradition"
-framework_significance = "One of the messengers the canon names at Yahweh's table (ETTMTTP-2:64), among roughly forty representatives for whom it gives no list or order; the Cave of Hira revelation event preserves operational content about Elohim contact in the late Age of Pisces; the Isra' and Mi'raj preserves operational content about an aerial-craft translation event comparable to the Enoch and Elijah translations"
+name_meaning = "*Muḥammad* — « le Loué » ou « Celui qui est loué », de la racine arabe *ḥ-m-d* « louer »"
+birth = "v. 570 EC à La Mecque (l'« année de l'Éléphant » de la tradition)"
+death = "8 juin 632 EC (12 Rabi al-Awwal, an 11 de l'Hégire) à Médine, à l'âge d'environ 62 ans"
+lineage = "Clan des Banū Hāshim, de la tribu de Quraysh ; père ʿAbd Allāh ibn ʿAbd al-Muṭṭalib (mort avant la naissance de Muhammad) ; mère Āminah bint Wahb (morte v. 576 EC) ; élevé par son grand-père paternel ʿAbd al-Muṭṭalib jusque v. 578, puis par son oncle paternel Abū Ṭālib"
+first_revelation = "v. 610 EC dans la grotte de Hira (Ghār Ḥirāʾ) sur le Jabal al-Nūr près de La Mecque, à environ 40 ans ; sourate al-ʿAlaq (Q 96:1–5), qui commence par l'ordre *Iqraʾ* (« Récite ») transmis par l'ange Jibrīl (Gabriel)"
+hijra = "622 EC — l'émigration de La Mecque à Yathrib (devenue Médine), qui fonde le calendrier islamique (an 1 de l'Hégire = l'année commençant avec l'Hégire)"
+key_meccan_episodes = "Première révélation à Hira ; Khadija première convertie ; premières persécutions des fidèles ; l'Isrāʾ wa-l-Miʿrāj (Voyage nocturne et Ascension) ; l'Année de la tristesse (619 EC — morts de Khadija et d'Abu Talib)"
+key_medinan_episodes = "Constitution de Médine ; bataille de Badr (624) ; bataille d'Uhud (625) ; bataille du Fossé (627) ; traité de Hudaybiyya (628) ; conquête de La Mecque (630) ; Pèlerinage d'adieu (632)"
+revelation_text = "Le Coran (<span class=\"arabic\">القرآن</span> *al-Qurʾān*), 114 sourates, transmis sur 22 ans (v. 610–632 EC) ; canonisé sous le troisième calife ʿUthmān ibn ʿAffān v. 650 EC"
+hadith_tradition = "Les paroles, actions et approbations tacites rapportées de Muhammad, transmises par des chaînes de transmetteurs (*isnād*) et compilées dans des recueils canoniques au IXe siècle EC — *Ṣaḥīḥ al-Bukhārī*, *Ṣaḥīḥ Muslim* et les quatre recueils de Sunan dans la tradition sunnite ; *al-Kāfī* et d'autres recueils dans la tradition chiite"
+framework_significance = "L'un des messagers que le canon nomme à la table de Yahvé (ETTMTTP-2:64), parmi une quarantaine de représentants dont il ne donne ni liste ni ordre ; l'événement de révélation de la grotte de Hira conserve un contenu opérationnel sur le contact avec les Élohim à la fin de l'Ère des Poissons ; l'Isra' et le Mi'raj conservent un contenu opérationnel sur un enlèvement par engin aérien comparable à ceux d'Hénoch et d'Élie"
 +++
 
 **Muhammad ibn Abdullah** (Arabic <span class="arabic">مُحَمَّد ٱبْن عَبْد ٱللَّٰه</span>, *Muḥammad ibn ʿAbd Allāh*; c. 570 – 8 June 632 CE) was the Arabian prophet who founded the religious community that became **Islam**, the reciter of the **Qur'an** over a 22-year period of revelation (c. 610–632 CE), and the political leader who unified the Arabian Peninsula under the *ummah* polity during the last decade of his life. He is recognised by approximately one quarter of the contemporary human population — roughly 1.9 billion Muslims worldwide — as the final messenger (*khātam al-anbiyāʾ*, the "Seal of the Prophets") of the prophetic lineage that includes Ibrahim (Abraham), Musa (Moses), Dawud (David), Isa (Jesus), and the broader sequence of figures named in the Qur'an and the Hadith literature. Islam, the religious community he founded, is the second-largest religious tradition in the contemporary world after Christianity and is the principal religious affiliation of approximately fifty contemporary nation-states.

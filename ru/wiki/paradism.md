@@ -6,27 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Raëlism"
 entry_type = "concept"
-alternative_names = ["Paradism", "paradisme (French)", "Earthly paradise (substantive Vorilhon designation)", "Paradise on Earth (substantive Vorilhon section title)", "the realized post-scarcity society", "fully-automated post-money society"]
+alternative_names = ["Парадизм", "paradisme (франц.)", "Earthly paradise (substantive Vorilhon designation)", "Paradise on Earth (substantive Vorilhon section title)", "the realized post-scarcity society", "fully-automated post-money society"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Золотой век", path = "wiki/golden-age", description = "Постдефицитное содержание, операциональной формой которого считается парадизм." },
+    { title = "Новые заповеди", path = "wiki/new-commandments", description = "Программа эпохи Водолея, одним из главных компонентов которой является парадизм." },
+    { title = "Гениократия", path = "wiki/geniocracy", description = "Программа управления путём избирательной демократии, интегрированная наряду с парадизмом." },
+    { title = "Гуманитаризм", path = "wiki/humanitarianism", description = "Программа реформы богатства и собственности, интегрированная наряду с парадизмом." },
+    { title = "Киберпарадизм", path = "wiki/cyberparadism", description = "Распространение программы парадизма на цифровые платформы." },
+]
 
 [extra.infobox]
 type = "Socio-economic concept; principal New Commandments program-component articulating post-scarcity post-money society through advanced automation"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'Welcoming the Extra-Terrestrials' material, 'Society and Government' subsection; consolidated *Message from the Designers* (2005), 'Paradise on Earth' section; *timeline.epub* — substantive corpus engagement principally in Age of Aquarius chapter and Golden Age substantive content"
-core_corpus_articulation = "Post-scarcity, fully-automated, post-money society in image of the Elohim home planet; advanced automation and AI systems substituting for human menial labor; humans liberated to fulfillment, creation, intellectual exploration"
+principal_source = "*Инопланетяне забрали меня на свою планету* (Ворильон, 1975), материал «Встретим инопланетян», подраздел «Общество и правительство»; сводное *Послание от Создателей* (2005), раздел «Рай на Земле»; дальнейшая трактовка в корпусе — в главе хронологии об Эпохе Водолея и в материале о Золотом веке"
+core_corpus_articulation = "Общество постдефицита, полной автоматизации и без денег — по образу родной планеты Элохим; передовая автоматизация и системы ИИ заменяют человеческий чёрный труд; люди освобождаются для самореализации, творчества и интеллектуального поиска"
 principal_mechanism = "Advanced automation (biological robots, AI systems, robotic infrastructure) performing all menial labor; abundance-distribution replacing scarcity-allocation; post-money society eliminating monetary exchange"
-post_capitalism_post_communism_framing = "Paradism as third-way alternative; capitalism rejected (enslaves to money, benefits few); communism rejected (places equality above liberty); Paradism preserves liberty and differentiation while eliminating material scarcity"
-transitional_vs_realized = "Transitional Paradism preserves differentiated reward for differentiated contribution; fully-realized Paradism (fully-automated future) eliminates money entirely"
-new_commandments_integration = "Principal Aquarian-age program-component integrated with Geniocracy, Humanitarianism, Cyberparadism, World Government, Demilitarization, Science as Religion, Telepathic Cultivation, Metaphysical Clarifications"
-organizational_engagement = "Paradism organization (paradism.org) operates as spin-off political-organizational engagement parallel to Movement for Worldwide Geniocracy"
-contemporary_parallels = "Post-scarcity economics (Frase, Reich); Fully Automated Luxury Communism (Bastani); Universal Basic Income; transhumanism (Bostrom, Kurzweil); technological singularity discourse; utopian-socialist tradition (Morris, Bellamy); Star Trek Federation post-money society"
-status_in_framework = "Principal Aquarian-age program-component; operational form of Golden Age post-scarcity content; substantive third-way alternative to twentieth-century dominant economic systems"
+post_capitalism_post_communism_framing = "Парадизм как третий путь; капитализм отвергается (порабощает деньгами, выгоден немногим); коммунизм отвергается (ставит равенство выше свободы); парадизм сохраняет свободу и различия, устраняя материальный дефицит"
+transitional_vs_realized = "Переходный парадизм сохраняет дифференцированное вознаграждение за дифференцированный вклад; полностью осуществлённый парадизм (полностью автоматизированное будущее) целиком устраняет деньги"
+new_commandments_integration = "Главная составляющая программы Эпохи Водолея, интегрированная с гениократией, гуманитаризмом, киберпарадизмом, мировым правительством, демилитаризацией, наукой как религией, развитием телепатии и метафизическими разъяснениями"
+organizational_engagement = "Движение «Парадизм» (paradism.org) — отделившаяся просветительская организация, продвигающая это учение, отдельная от Движения за всемирную гениократию и действующая параллельно ему"
+contemporary_parallels = "Экономика постдефицита (Фрейз, Райх); «Полностью автоматизированный роскошный коммунизм» (Бастани); безусловный базовый доход; трансгуманизм (Бостром, Курцвейл); дискурс технологической сингулярности; утопически-социалистическая традиция (Моррис, Беллами); безденежное общество Федерации из «Звёздного пути»"
+status_in_framework = "Главная составляющая программы эпохи Водолея; рабочая форма постдефицитного содержания Золотого века; третий путь в сравнении с экономическими системами XX века"
 +++
 
 {% claim(type="framework", id="woh-claim-0033") %}**Paradism** is the Raëlian doctrine of a post-scarcity, fully automated, moneyless

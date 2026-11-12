@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,17 +15,29 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the awaited Golden Age", "the Golden Age of civilization", "the earthly paradise", "the Golden Age of interplanetary civilization", "the operational Golden Age"]
 timeline = ["age-of-aquarius", "post-aquarius"]
+see_also = [
+    { title = "Makrobiologie", path = "wiki/macrobiology", description = "Der vollendete große Übergang der Individualität — die Menschheit, zu einem kohärenten globalen Organismus geführt, biologisch gelesen." },
+    { title = "Apokalypse", path = "wiki/apocalypse", description = "Der Moment der Offenbarung an der Schwelle, der das Goldene Zeitalter oder seine katastrophale Alternative einleiten kann." },
+    { title = "Eden", path = "wiki/eden", description = "Das ursprüngliche Labor, gelesen als das historische Goldene Zeitalter, das die künftige Verwirklichung wiedergewinnt." },
+    { title = "Kosmische Kette", path = "wiki/cosmic-chain", description = "Der Rahmen der Abfolge, in dem die Reifung zum Goldenen Zeitalter als eine Stufe wirkt." },
+    { title = "Paradismus", path = "wiki/paradism", description = "Das soziale Programm der Überflussgesellschaft, dessen Umsetzung das Goldene Zeitalter kennzeichnet." },
+    { title = "Geniokratie", path = "wiki/geniocracy", description = "Das Regierungsmodell, das im Quellenmaterial neben dem Goldenen Zeitalter formuliert wird." },
+    { title = "Botschaft", path = "wiki/embassy", description = "Das Projekt, dessen Vollendung die gelungene Bewältigung des Wassermann-Zeitalters durch die Menschheit bedingt." },
+    { title = "Hamlet's Mill", path = "wiki/hamlets-mill", description = "Der abgesetzte „Herr des Goldenen Zeitalters“ — Saturn, der Geber der Maße —, dessen zerstörte Mühle die Zeitalter ausmahlt." },
+    { title = "Die Mühle, die die Zeitalter mahlt", path = "articles/the-mill-that-grinds-the-ages", description = "Das Goldene Zeitalter als Herrschaft des abgesetzten schlafenden Königs, dessen Rückkehr ansteht, wenn sich das präzessionale Rad vollendet." },
+    { title = "Die Gestalt der Menschheit", path = "articles/the-shape-of-humanity", description = "Der Artikel, der das Goldene Zeitalter als gelungene Reifung der Menschheit als Organismus über die Schwelle von eins zu hundert hinaus fasst." }
+]
 
 [extra.infobox]
-type = "Eschatological-cosmological concept; the operational form of life that becomes available to humanity if it navigates the Aquarian-age threshold successfully"
-principal_corpus_articulation = "Vorilhon's Buddhism section in *Message from the Designers* (the substantial Buddhist-enlightenment metaphor); the substantial soteriological dual-path passage; the seven-characteristics articulation in *timeline.epub*"
-seven_principal_characteristics = "(1) Progressive elimination of material scarcity through nanotechnology and automation; (2) Substantial longevity through biological rejuvenation and computational continuation; (3) Transformation of social and political life through New Commandments implementation; (4) Computational continuation as substantive option; (5) Cultivated cognitive capacities including telepathy; (6) New spirituality appropriate to scientifically mature age; (7) Maturation into creating-civilization status"
-contingent_realization = "Realization is contingent on humanity's collective navigation of the Aquarian-age threshold; not automatic but dependent on cumulative effects of individual choices across the broader population"
-distinguished_from = "The Age of Aquarius (the broader chronological-astronomical period within which Golden Age may emerge); Apocalypse (the threshold-revelation moment); Cyberparadism (the contemporary aesthetic articulation); Cosmic Chain (the broader succession framework); Eden (the originary historical Golden Age)"
-relationship_to_eden = "Eden as the originary historical Golden Age (the alliance laboratory in which early humans lived in environmental-technological harmony); the Aquarian-age Golden Age as recovery and extension of that originary content at planetary civilizational scale"
-parallel_cross_cultural_traditions = "Greek/Roman ages of man (Hesiod, Ovid); Hindu Satya/Treta/Dvapara/Kali yuga framework; Mesoamerican Long Count cycles; Buddhist Maitreya tradition; Norse Ragnarök and post-Ragnarök regeneration; Persian Zoroastrian Frashokereti; Chinese cycle traditions; various indigenous 'great-cleansing/renewal' prophecies"
+type = "Eschatologisch-kosmologisches Konzept; die Lebensform, die der Menschheit offensteht, wenn sie die Schwelle des Wassermann-Zeitalters erfolgreich durchschreitet"
+principal_corpus_articulation = "Vorilhons Abschnitt über den Buddhismus in *Message from the Designers* (die Metapher der buddhistischen Erleuchtung); die soteriologische Passage von den zwei Wegen; die Formulierung der sieben Merkmale im Timeline-Material des Korpus"
+seven_principal_characteristics = "(1) Beseitigung materieller Knappheit durch Nanotechnologie und Automatisierung; (2) stark verlängerte Lebensdauer durch biologische Verjüngung und rechnergestützte Fortführung; (3) Umgestaltung des gesellschaftlichen und politischen Lebens durch die Neuen Gebote; (4) rechnergestützte Fortführung als Option für die individuelle Identität; (5) gepflegte kognitive Fähigkeiten einschließlich Telepathie; (6) eine neue Spiritualität, die einem wissenschaftlich reifen Zeitalter entspricht; (7) Reifung zum Status einer schöpferischen Zivilisation"
+contingent_realization = "Abhängig davon, dass die Menschheit die Schwelle des Wassermann-Zeitalters gemeinsam durchschreitet; nicht automatisch, sondern abhängig von der kumulativen Wirkung individueller Entscheidungen in der breiten Bevölkerung"
+distinguished_from = "Das Zeitalter des Wassermanns (der umfassendere astronomische Zeitraum, in dem das Goldene Zeitalter entstehen kann); Apokalypse (der Moment der Schwellen-Offenbarung); Cyberparadismus (die zeitgenössische ästhetische Ausformulierung); Kosmische Kette (der umfassendere Rahmen der Nachfolge); Eden (das ursprüngliche historische Goldene Zeitalter)"
+relationship_to_eden = "Eden als das ursprüngliche historische Goldene Zeitalter – das Labor, in dem die ersten Menschen in Harmonie mit ihren Schöpfern lebten; das Goldene Zeitalter des Wassermanns als Wiedergewinnung und Erweiterung dieses Zustands im Maßstab einer planetaren Zivilisation"
+parallel_cross_cultural_traditions = "Griechische/römische Weltalter (Hesiod, Ovid); der hinduistische Zyklus der Satya-, Treta-, Dvapara- und Kali-Yuga; die mesoamerikanische Lange Zählung; der buddhistische Maitreya; das nordische Ragnarök und seine Erneuerung; das persisch-zoroastrische Frashokereti; chinesische Zyklustraditionen; verschiedene indigene Erneuerungsprophezeiungen"
 contemporary_articulations = "Kurzweil's Singularity; e/acc movement; abundance-economy tradition (Diamandis, Kotler); broader 'Great Awakening' cultural engagement"
-status_in_framework = "Foundational eschatological-cosmological concept; the substantive content of successful Aquarian-age navigation; the cosmic-chain inheritance threshold"
+status_in_framework = "Grundlegendes eschatologisch-kosmologisches Konzept; der Gehalt eines gelungenen Weges durch das Wassermann-Zeitalter; die Erbschwelle der Kosmischen Kette"
 +++
 
 **The Golden Age** is, in the Wheel of Heaven framework, the form of life that

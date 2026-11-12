@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,17 +15,28 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["*religio* (Latin)", "*religare* (Latin verbal root, 'to bind/link')", "the cultivated bond", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Elohim", path = "wiki/elohim", description = "Die Schöpferzivilisation, zu der die Religion nach der Lesart des Rahmens die verbindende Bindung pflegt." },
+    { title = "Neo-Euhemerismus", path = "wiki/neo-euhemerism", description = "Die Deutungsmethode, mit der der Rahmen Mythos und Religion als Erinnerung an realen Kontakt entschlüsselt." },
+    { title = "Raëlismus", path = "wiki/raelism", description = "Die Bewegung, die sich als atheistische Religion im Sinne von religare versteht." },
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "Der Autor, dessen Deutung von religare als Bindung der Lesart des Korpus vorausgeht und sie begründet." },
+    { title = "Prophet", path = "wiki/prophet", description = "Die Rolle des Boten, durch die die Verbindung zwischen Schöpfern und Geschaffenen regelmäßig erneuert wird." },
+    { title = "Götter-Vielheit", path = "wiki/plurality-of-gods", description = "Die vielen Schöpfer, die der Rahmen hinter den von der Religion bewahrten Traditionen liest." },
+    { title = "Hebräische Bibel", path = "wiki/hebrew-bible", description = "Eine maßgebliche Texttradition, die den Inhalt der Pflege dieser Verbindung bewahrt." },
+    { title = "Die Religion der Religionen", path = "articles/the-religion-of-religions", description = "Liest die Selbstbestimmung des Raëlismus als „atheistische Religion“ über die religare-Etymologie und die junge universalistische Familie." },
+    { title = "Monotheismus ist die falsche Frage", path = "articles/monotheism-is-the-wrong-question", description = "Warum „Monotheismus gegen Polytheismus“ der falsche Rahmen ist — Polemik gegen Götzen als Erinnerung und Loyalität, und der Singular als Vertreter der vielen Schöpfer." }
+]
 
 [extra.infobox]
-type = "Foundational concept; the framework's specific definition of religion as the cultivated relationship between humanity and its extraterrestrial creators"
-etymology = "Latin *religio* ('religious obligation, conscientious observance, sanctity'), most plausibly derived from *religare* ('to bind, to tie, to link'); Cicero in *De Natura Deorum* offered the alternative derivation from *relegere* ('to re-read, to consider carefully'); the *religare* etymology is the one the framework operates principally"
-framework_definition = "The cultivated relationship between humanity and the specific civilization (the Elohim) that produced terrestrial life through deliberate scientific work; the bond requiring active cultivation across generations through ritual, instruction, textual preservation, architectural orientation, and broader institutional apparatus"
-distinguished_from = "Mainstream academic religious-studies definitions (Tylor, Durkheim, Eliade, Geertz, Smart, Asad — operating principally through cultural-symbolic-experiential framings); the Marx/Lenin 'opium of the people' tradition (operating principally through ideological-functional critique); the New Atheist tradition (operating principally through cognitive-error and harmful-institutional framings); the perennialist tradition (operating principally through transcendent-unity framings); the various supernatural-theistic traditions (operating principally through divine-revelation framings)"
-principal_source_articulation = "Vorilhon: 'Religion from the Latin religio means \"that which links\" or \"the tie\", which unites the creators to their creation' (*Let Us Welcome the Extra-Terrestrials*, 1979); Sendy: 'La religion vient du latin religare, qui veut dire relier... l'étymologie définit parfaitement l'objet initial des religions : maintenir le lien entre les cieux et la Terre' (*L'ère du Verseau*, 1970)"
-raelian_movement_self_positioning = "An 'atheist religion' — religion in the *religare* sense (cultivated bond between creators and created) while atheist in the technical sense (rejecting supernatural divinity, since the Elohim are biological beings rather than supernatural gods)"
+type = "Grundlegendes Konzept; die Definition von Religion im Rahmen als gepflegte Bindung zwischen der Menschheit und ihren Schöpfern, den Elohim"
+etymology = "Lateinisch *religio* („religiöse Verpflichtung, gewissenhafte Beachtung, Heiligkeit“), am plausibelsten von *religare* („binden, festbinden, verknüpfen“); Cicero bot in *De Natura Deorum* die konkurrierende Ableitung von *relegere* („wieder lesen, sorgfältig bedenken“) an. Der Rahmen arbeitet mit der Etymologie von *religare*"
+framework_definition = "Die gepflegte Bindung zwischen der Menschheit und den Elohim – der Zivilisation, die das irdische Leben durch gezielte wissenschaftliche Arbeit hervorgebracht hat –, über Generationen bewahrt durch Ritual, Unterweisung, Textüberlieferung und die Ausrichtung sakraler Architektur"
+distinguished_from = "Religionswissenschaftliche Definitionen (Tylor, Durkheim, Eliade, Geertz, Smart, Asad – kulturell-symbolisch-erfahrungsbezogene Rahmungen); die Kritik von Marx und Lenin an Religion als „Opium des Volkes“; die Rahmung des Neuen Atheismus als kognitiver Irrtum; die perennialistische Rahmung einer transzendenten Einheit; übernatürlich-theistische Rahmungen göttlicher Offenbarung"
+principal_source_articulation = "Vorilhon: „Religion, vom lateinischen religio, bedeutet ‚das, was verbindet‘ oder ‚das Band‘, das die Schöpfer mit ihrer Schöpfung vereint“ (*Let Us Welcome the Extra-Terrestrials*, 1979); Sendy: 'l'étymologie définit parfaitement l'objet initial des religions : maintenir le lien entre les cieux et la Terre' (*L'ère du Verseau*, 1970)"
+raelian_movement_self_positioning = "Eine „atheistische Religion“ – Religion im Sinne von *religare* (eine gepflegte Bindung zwischen Schöpfern und Geschaffenen), atheistisch in der Ablehnung übernatürlicher Göttlichkeit, da die Elohim biologische Wesen und keine Götter sind"
 cross_cultural_pattern = "Priesthood-architecture-ritual complexes operating as link-maintenance institutions across virtually every major civilization: Mesopotamian, Egyptian, Vedic / Hindu, Greek and Roman, Chinese, Mesoamerican, various indigenous traditions"
-status_in_framework = "Foundational concept; the framework's specific definition of what religion IS, supporting the broader integration of revelation, prophetic-tradition, sacred-text, ritual, and architectural-iconographic content across the corpus"
-principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) — principal direct source articulation; *L'ère du Verseau* (Sendy, 1970), particularly the *La Religion* section — substantial pre-Raëlian articulation; *timeline.epub* — substantial subsequent corpus development with Noah's pre-flood community as the original religious community"
+status_in_framework = "Grundlegendes Konzept; die Definition dessen, was Religion ist, im Rahmen; Grundlage für die Behandlung von Offenbarung, Prophetie, heiligem Text, Ritual und sakraler Architektur im gesamten Korpus"
+principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) – die maßgebliche Formulierung in den Quellen; *L'ère du Verseau* (Sendy, 1970), besonders der Abschnitt *La Religion* – die vor-raëlianische Formulierung; *timeline.epub* – spätere Entfaltung im Korpus, mit Noahs vorsintflutlicher Gemeinschaft als erster religiöser Gemeinschaft"
 +++
 
 **Religion** (Latin *religio*, most plausibly from *religare*, "to bind, to tie,

@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -20,7 +20,7 @@ category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 summary = "ז'אן סנדי והמסר הראליאני הראשון חולקים מקבץ ניכר של קריאות מסוימות בספר בראשית, ובהן הדעת האסורה כספרים מדעיים, הנחש כפורש, בבל כמיזם שיגור, והגעה לפני כ־22,000 שנה. הם נבדלים בעניין האבולוציה, זהות הנחש, חיי הנצח והמגע המתמשך. מעבר לבראשית החפיפה מסתיימת ברובה: לרוב הפרשנות של המסר על ישראל, על הנביאים ועל הבשורות אין מקבילה בספריו של סנדי שקדמו ל־1974, שהתזה שלהם שוללת אותה. עיבוד סלקטיבי נותר סביר לגבי בראשית; לא תלות ולא חיבור עצמאי הוכחו."
-keywords = ["Jean Sendy", "Raël", "המסרים הראליאניים", "תלות ספרותית", "Elohim", "ספר בראשית", "ימי־ביניימיות"]
+keywords = ["ז'אן סנדי", "ראל", "המסרים הראליאניים", "תלות ספרותית", "אלוהים", "ספר בראשית", "ימי־ביניימיות"]
 references = [
     { id = "sendy-ces-dieux", title = "Ces dieux qui firent le ciel et la terre: le roman de la Bible", author = "Jean Sendy", date = "1969; inspected in a later J’ai Lu/FeniXX digital edition", locator = "Chs. 1–2 and 9 (method, evolution, chronology), 18–19 and 27 (biology), 24 (voyages and eternity), 28–31 (knowledge, serpent, Noah), 34–35 (departure, later prophets, Babel, death of the original visitors). EPUB files PL3–PL4, PL11, PL20–PL21, PL26, PL29–PL33, PL36–PL37." },
     { id = "the-book-which-tells-the-truth", title = "Le Livre qui dit la vérité / The Book Which Tells the Truth", author = "Raël", date = "1974; French text representing the 2005 collected edition", locator = "TBWTT-1:15–24,44–46,53–55; 2:2–5,16–39,58,68,72–78; 3:113; 5:4,56–66; 6:7,21–22; 7:29–31. References identify paragraphs in the project digitization. Quotations use the Library’s existing English translation; the comparison was checked against the French text." },

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,20 +15,29 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Precessional Age", "Astrological Age", "Zodiacal Age", "Great Month", "Platonic Month (older Western-philosophical designation)", "Cosmic Age"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "大月", path = "wiki/great-month", description = "世界时代所指称的、大年中同义的 2,160 年分段。" },
+    { title = "哈姆雷特的磨坊", path = "wiki/hamlets-mill", description = "框架从中汲取其岁差模型的 Santillana 与 von Dechend 重建。" },
+    { title = "双重署名", path = "wiki/doubled-signature", description = "每个时代既指涉自身星座、又指涉其黄道对宫的原则。" },
+    { title = "宇宙链", path = "wiki/cosmic-chain", description = "诸岁差时代在其中得以组织的嵌套尺度宇宙论。" },
+    { title = "苏美尔王表", path = "wiki/sumerian-king-list", description = "文集对照岁差年表来解读的一份古代王表记录。" },
+    { title = "创世记", path = "wiki/genesis", description = "文集将其对应于岁差时代序列的创世叙事。" },
+    { title = "碾磨诸纪元的磨坊", path = "articles/the-mill-that-grinds-the-ages", description = "从《哈姆雷特的磨坊》到 Mazzaroth，透过追踪它的祭祀符号来追溯世界时代序列。" },
+]
 
 [extra.infobox]
-type = "Structural-foundational temporal-cosmological framework concept; the principal organizing temporal unit of the corpus narrative"
-duration = "Approximately 2,160 years per age (one-twelfth of the ~25,920-year Great Year cycle)"
-mechanism = "Produced by the precession of Earth's axis — the slow conical wobble of the rotational axis caused principally by gravitational torque on Earth's equatorial bulge from the sun and moon, completing one full cycle every ~25,920 years at a rate of ~50 arcseconds per year"
-zodiacal_basis = "The twelve constellations of the zodiac, against which the vernal equinox sun rises in succession across the precessional cycle; the equinox moves backward (westward) through the zodiac at one sign per ~2,160 years"
-precessional_direction = "Backward through the zodiac (Capricorn → Sagittarius → Scorpio → Libra → Virgo → Leo → Cancer → Gemini → Taurus → Aries → Pisces → Aquarius → back to Capricorn)"
-great_year_total = "12 ages × 2,160 years = 25,920 years (the complete precessional cycle, also called the Platonic Year, Great Year, or *annus magnus*)"
-current_age = "Age of Aquarius (1950 CE corpus boundary; 1946 CE source-anchored opening) running to ~4110 CE"
-corpus_operational_period = "From the Capricorn-age opening at -21,810 to the Aquarian-age present (approximately 22,000 years), spanning twelve full precessional ages and constituting essentially one complete Great Year of the alliance's creation project"
-foundational_scholarship = "Giorgio de Santillana and Hertha von Dechend, *Hamlet's Mill: An Essay on Myth and the Frame of Time* (Gambit, 1969) — the principal scholarly anchor for the corpus's precessional framework"
-distinguished_from = "Mainstream astrology's tropical-zodiac framework (where signs are tied to seasonal positions rather than to actual constellational positions, decoupled from the precessional motion); the New Age movement's broader Aquarian-age engagement (which operates with various boundary-dating conventions and various interpretive emphases); the broader 'astrological age' popular designation (which often conflates precessional and tropical frameworks)"
-status_in_framework = "Foundational; the World Age operates as the principal organizing temporal-cosmological structure of the entire corpus narrative, with all twelve individual age entries (Capricorn through Aquarius) operating as detailed treatments of specific instances within this overarching framework"
-principal_corpus_treatment = "*timeline.epub*, particularly the Preamble's introduction to the precessional framework, the Libra chapter's articulation of the zodiac as engineering tool (Section VI), the Pisces chapter's articulation of the doubled signature principle, and the Aquarius chapter's articulation of the Great Year completion; *Message from the Designers* references to Aquarius opening; Jean Sendy, *L'ère du Verseau* (1970)"
+type = "岁差时代——大年的十二分之一；文集用作其纪年骨架的约 2,160 年单位"
+duration = "每个时代约 2,160 年（约 25,920 年大年周期的十二分之一）"
+mechanism = "由地轴的岁差所产生——自转轴缓慢的圆锥状摆动，主要由太阳和月球对地球赤道隆起部的引力力矩引起，以每年约 50 角秒的速率，约每 25,920 年完成一个完整周期"
+zodiacal_basis = "黄道十二星座：在岁差周期中，春分时的太阳依次在它们的背景上升起；春分点在黄道上向后（向西）移动，约每 2,160 年移过一个星座"
+precessional_direction = "沿黄道向后（摩羯座 → 射手座 → 天蝎座 → 天秤座 → 处女座 → 狮子座 → 巨蟹座 → 双子座 → 金牛座 → 白羊座 → 双鱼座 → 水瓶座 → 回到摩羯座）"
+great_year_total = "12 个时代 × 2,160 年 = 25,920 年（完整的岁差周期，又称柏拉图年、大年或 *annus magnus*）"
+current_age = "水瓶座时代（文集界限为公元 1950 年；以原始材料为依据的开端为公元 1946 年），持续至约公元 4110 年"
+corpus_operational_period = "从约公元前 21,810 年摩羯座时代开启至当前的水瓶座时代——跨越十二个岁差时代，约 22,000 年，约合耶洛因创造计划的一个完整大年"
+foundational_scholarship = "乔治·德·桑蒂利亚纳与赫塔·冯·德申，*Hamlet's Mill: An Essay on Myth and the Frame of Time*（Gambit，1969）——文集岁差框架的主要学术依据"
+distinguished_from = "主流占星学的回归黄道（星座与季节挂钩，而非与实际星座对应，与岁差脱钩）；新时代运动的「水瓶座时代」（按各种惯例定年）；以及常把回归框架与岁差框架混为一谈的松散通俗说法「占星时代」"
+status_in_framework = "基础性；世界时代是文集的主要纪年单位，十二个时代（摩羯座至水瓶座）各有专门条目"
+principal_corpus_treatment = "*timeline.epub*，尤其是前言对岁差框架的介绍、天秤座一章将黄道带视为工程工具的论述（第 VI 节）、双鱼座一章关于双重署名的论述，以及水瓶座一章关于大年完成的论述；《来自设计者的信息》 关于水瓶座开启的论述；让·桑迪，*L'ère du Verseau*（1970）"
 +++
 
 A **World Age** — also called a **Precessional Age**, **Astrological Age**,

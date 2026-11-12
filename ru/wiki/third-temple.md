@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -18,19 +18,26 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "direct"
-alternative_names = ["Beit ha-Mikdash ha-Shlishi (Hebrew, \"the Third Holy House\")", "The Embassy (in Raëlian terminology)", "The Residence (in some source-material passages)", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "The Messianic Temple"]
+alternative_names = ["Beit ha-Mikdash ha-Shlishi (ивр., «Третий Святой Дом»)", "Посольство (в раэлианской терминологии)", "Резиденция (в некоторых местах исходных текстов)", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "Мессианский Храм"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "Посольство", path = "wiki/embassy", description = "Резиденция для приёма, описанная Ворильоном, которую рамка отождествляет с Третьим Храмом." },
+    { title = "Великое возвращение", path = "wiki/great-return", description = "Ожидаемое возвращение Элохим, для которого Посольство / Третий Храм — необходимое место приёма." },
+    { title = "Яхве", path = "wiki/yahweh", description = "Президент Элохим, задающий в каноне условия спецификации посольства." },
+    { title = "Элохим", path = "wiki/elohim", description = "Цивилизация, для приёма официального возвращения которой строится Посольство / Третий Храм." },
+    { title = "Золотой век", path = "wiki/golden-age", description = "Свершение эпохи Водолея, в рамках которого ожидается строительство Третьего Храма." },
+]
 
 [extra.infobox]
-type = "Anticipated future Temple in Jerusalem (in Jewish eschatology); functionally identified with the Embassy required for the Elohim's Great Return (in the Wheel of Heaven framework)"
-principal_biblical_sources = "Ezekiel 40-48 (the principal architectural vision, c. 573 BCE); Haggai 2:9; Zechariah 6:12-13; Isaiah 2:2-4 / Micah 4:1-3"
-historical_predecessors = "The Tabernacle (Mosaic period, c. 14th-13th centuries BCE); the First Temple (Solomon's Temple, c. 957–587 BCE, destroyed by the Babylonians); the Second Temple (516 BCE–70 CE, destroyed by the Romans)"
-contemporary_temple_mount_status = "Occupied by the Dome of the Rock (691-692 CE) and the al-Aqsa Mosque (705-715 CE); the third-holiest site in Islam; status quo since 1967: Israeli perimeter security, Waqf (Jordanian Islamic religious trust) administration, contested Jewish prayer access"
-jewish_preparation_organizations = "The Temple Institute (Machon HaMikdash, founded 1987 by Rabbi Yisrael Ariel); the Sanhedrin Initiative; the various red heifer breeding programs; the broader Religious Zionist Temple-preparation tradition"
-christian_engagement = "Dispensationalist eschatology (Darby 19th century, Scofield Reference Bible 1909, the Left Behind series 1995-2007); substantively contested by amillennial, postmillennial, and preterist Christian positions"
-raelian_identification = "The Embassy specified in the Vorilhon source material (*Le Livre qui dit la vérité*, 1974, Sixth Chapter \"The New Commandments,\" Section \"Your Mission\") is identified by the source material with the Third Temple of the Hebrew biblical tradition"
-raelian_embassy_history = "The Raëlian Movement formally requested Embassy land in Israel seven times between approximately 1990 and 2015, with all requests denied; on August 6, 2015 (21 Av 5775 in the Hebrew calendar), the source material declared the Elohim's protection of Israel withdrawn; subsequent proposals have involved Palestinian Authority territories and other locations"
-framework_significance = "The Third Temple is read by the framework as the substantive culmination of the Hebrew biblical Temple-restoration tradition and as functionally identical with the Embassy required for the Great Return; the operational continuity of Tabernacle → First Temple → Second Temple → Third Temple/Embassy constitutes a single sequence of Elohim terrestrial reception sites"
+type = "Ожидаемый будущий Храм в Иерусалиме (в иудейской эсхатологии); функционально отождествляемый с Посольством, необходимым для Великого возвращения Элохим (в рамке Wheel of Heaven)"
+principal_biblical_sources = "Иезекииль 40–48 (главное архитектурное видение, ок. 573 г. до н. э.); Аггей 2:9; Захария 6:12–13; Исаия 2:2–4 / Михей 4:1–3"
+historical_predecessors = "Скиния (период Моисея, ок. XIV–XIII вв. до н. э.); Первый Храм (Храм Соломона, ок. 957–587 гг. до н. э., разрушен вавилонянами); Второй Храм (516 г. до н. э. – 70 г. н. э., разрушен римлянами)"
+contemporary_temple_mount_status = "Занята Куполом Скалы (691–692 гг. н. э.) и мечетью аль-Акса (705–715 гг. н. э.); третья святыня ислама; статус-кво с 1967 года: израильская охрана периметра, управление Вакфа (иорданского исламского религиозного фонда), спорный доступ евреев для молитвы"
+jewish_preparation_organizations = "Институт Храма (Махон ха-Микдаш, основан в 1987 году раввином Исраэлем Ариэлем); инициатива Синедриона; программы разведения рыжей телицы; более широкая традиция подготовки к Храму в религиозном сионизме"
+christian_engagement = "Диспенсационалистская эсхатология (Дарби, XIX век; Справочная Библия Скофилда, 1909; серия «Оставленные», 1995–2007); оспаривается амилленаристскими, постмилленаристскими и претеристскими христианскими позициями"
+raelian_identification = "Посольство, описанное в исходных текстах Ворильона (*Le Livre qui dit la vérité*, 1974, шестая глава «Новые заповеди», раздел «Ваша миссия»), отождествляется исходными текстами с Третьим Храмом еврейской библейской традиции"
+raelian_embassy_history = "Раэлианское движение впервые запросило землю для Посольства близ Иерусалима в 1991 году; израильская комиссия в 1993 году признала движение мирным, но премьер-министр Ицхак Рабин отказал, и ни одно последующее правительство к вопросу не вернулось; послание от 13 декабря 1997 года разрешило добиваться экстерриториального статуса у любой страны, сохранив за Израилем последнюю возможность; послание 2015 года объявило, что Элохим сняли с Израиля свою защиту"
+framework_significance = "Канон отождествляет Третий Храм с Посольством, построенным для Великого возвращения, накладывая его структуру на ожидание Храма, но не подменяя собственного смысла традиции"
 +++
 
 The **Third Temple** (Hebrew **<span class="hebrew">בֵּית הַמִּקְדָּשׁ הַשְּׁלִישִׁי</span>** *Beit ha-Mikdash ha-Shlishi*, "the Third Holy House") is the future Temple that, in Jewish eschatological tradition, is to be built in Jerusalem to succeed the **First Temple** (Solomon's Temple, c. 957–587 BCE, destroyed by the Babylonians under Nebuchadnezzar II) and the **Second Temple** (516 BCE–70 CE, destroyed by the Romans under Titus). Its fullest biblical blueprint is the nine-chapter vision of the prophet [Ezekiel](/wiki/ezekiel/) (Ezekiel 40–48, c. 573 BCE), and its building is one of the works Jewish tradition assigns to the Messianic Age.

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,17 +14,26 @@ category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "biographical and methodological"
 claim_type = "direct"
-alternative_names = ["Bible de la Pléiade (Dhorme)", "La Bible: L'Ancien Testament (Dhorme)", "Dhorme Old Testament", "Bible Dhorme"]
+alternative_names = ["Bible de la Pléiade (Dhorme)", "La Bible: L'Ancien Testament (Dhorme)", "도름 구약성경", "도름 성경"]
+see_also = [
+    { title = "엘로힘", path = "wiki/elohim", description = "도름이 Dieu로 번역하지 않고 Élohim으로 보존하는 복수형." },
+    { title = "야훼", path = "wiki/yahweh", description = "도름이 신학적 칭호로 대체하지 않고 음운적으로 Iahvé로 옮기는 신명사문자." },
+    { title = "창세기", path = "wiki/genesis", description = "그 첫 구절이 도름의 어휘 보존 방법을 예시하는 책." },
+    { title = "어원학적 독해 목록", path = "wiki/list-of-etymological-readings", description = "도름의 각주 장치를 끌어오는 프레임워크의 문헌학적 목록." },
+    { title = "주해적 독해 목록", path = "wiki/list-of-exegetic-readings", description = "같은 문자적 어휘 기반 위에 세워진 짝을 이루는 지시 대상 목록." },
+    { title = "히브리어", path = "wiki/hebrew", description = "도름의 번역이 그 실행적 용어들을 온전히 전달하는 원천 언어." },
+    { title = "드래곤 곡선", path = "articles/the-dragon-curve", description = "창세기 1장 21절에 나오는 도름의 « grands dragons »(큰 용들)을 다루는 해설 — 그의 지면에서 첫 번째 메시지가 결코 인용하지 않는 단 하나의 구절." },
+]
 
 [extra.infobox]
-type = "French scholarly translation of the Hebrew Bible / Old Testament"
-translator = "Édouard Dhorme (1881–1966), with collaborators Frank Michaéli and Antoine Guillaumont"
+type = "히브리어 성경 / 구약의 프랑스어 학술 번역"
+translator = "에두아르 도름(1881–1966), 공동 작업자 프랑크 미샤엘리, 앙투안 기요몽"
 publisher = "Éditions Gallimard, Bibliothèque de la Pléiade"
-publication_dates = "Tome I (1956); Tome II (1959)"
-source_text = "Masoretic Text of the Hebrew Bible, with consultation of the Septuagint and the broader cuneiform-and-Semitic philological apparatus"
-distinguishing_features = "Literal preservation of original vocabulary including *Élohim* (not *Dieu*) and *Iahvé* (rendering of the Tetragrammaton); extensive philological footnotes; introduction surveying the textual history; collaboration with specialists for certain books (Michaéli: Ezra, Nehemiah; Guillaumont: Maccabees)"
-framework_significance = "The version Claude Vorilhon reports having with him during his 1973 contact; the textual mediator through which the Raëlian source material's Hebrew-Bible references reach contemporary readers"
-status = "Out of print in the original Pléiade edition; secondhand copies remain widely available; the translation is referenced extensively in subsequent French-language neo-euhemerist scholarship"
+publication_dates = "제1권(1956); 제2권(1959)"
+source_text = "히브리어 성경의 마소라 본문, 칠십인역과 더 넓은 설형문자·셈어 문헌학 자료를 참조함"
+distinguishing_features = "*Élohim*(*Dieu*가 아님)과 *Iahvé*(신명사문자의 표기)를 포함한 원어 어휘의 문자적 보존; 방대한 문헌학적 각주; 본문사를 개관하는 서론; 일부 책은 전문가와 협업(미샤엘리: 에스라, 느헤미야; 기요몽: 마카베오)"
+framework_significance = "클로드 보릴롱이 1973년 접촉 당시 지니고 있었다고 밝힌 판본; 라엘리안 원전 자료의 히브리어 성경 인용이 현대 독자에게 이르는 텍스트상의 매개"
+status = "원래의 플레이아드판은 절판; 중고본은 여전히 널리 구할 수 있음; 이 번역은 이후 프랑스어권 신에우헤메로스주의 연구에서 폭넓게 인용됨"
 +++
 
 The **Dhorme Bible** is the French translation of the Old Testament prepared by the French Assyriologist and Semitologist **Édouard Dhorme** (1881–1966), published by Gallimard in the Bibliothèque de la Pléiade in two volumes — Tome I in 1956 and Tome II in 1959. The translation is widely regarded among scholars as one of the most philologically rigorous French versions of the Hebrew Bible, the product of a fifty-year career of professional study of Hebrew, Akkadian, Ugaritic, and the broader Semitic and ancient Near Eastern philological tradition. The translation is distinguished from the standard French Catholic versions (notably the *Bible de Jérusalem*, in production at the same École Biblique during the same period) by its literal preservation of the operational vocabulary of the original Hebrew text — including the preservation of the plural form ***Élohim*** rather than the conventional theological translation *Dieu*, and the preservation of the Tetragrammaton as ***Iahvé*** rather than the conventional *l'Éternel* or *le Seigneur*.

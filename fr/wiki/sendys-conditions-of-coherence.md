@@ -6,24 +6,33 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Sendy's Conditions of Coherence", "Sendy's five conditions", "the conditions of coherence", "Les conditions de cohérence (French)", "the hologram conditions"]
+alternative_names = ["Conditions de cohérence de Sendy", "les cinq conditions de Sendy", "les conditions de cohérence", "Les conditions de cohérence (français)", "les conditions de l'hologramme"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "L'auteur qui formula les cinq conditions dans L'Ère du Verseau (1970)." },
+    { title = "Méthode Biglino", path = "wiki/biglino-method", description = "La procédure opératoire jumelle qui précise ce que le lecteur doit faire, face au « ce qu'il doit avoir » de Sendy." },
+    { title = "Mauro Biglino", path = "wiki/mauro-biglino", description = "Le philologue dont le corpus associe la méthode en trois étapes à ces conditions." },
+    { title = "La Tradition", path = "wiki/the-tradition", description = "Le savoir transmis que la quatrième condition de Sendy recadre comme un contact galactique physique." },
+    { title = "Néo-évhémérisme", path = "wiki/neo-euhemerism", description = "La tradition interprétative dans laquelle les conditions préparent le lecteur à entrer." },
+    { title = "Hypothèse des anciens astronautes", path = "wiki/ancient-astronaut-hypothesis", description = "La tradition interprétative plus large au sein de laquelle les conditions précisent une méthode de lecture." },
+    { title = "L'homme qui joua la Bible sur la Lune", path = "articles/the-man-who-bet-the-bible-on-the-moon", description = "L'article complet sur Jean Sendy, dont cette entrée recense les conditions de cohérence." },
+]
 
 [extra.infobox]
-type = "Methodological framework specifying preconditions for coherent literal reading of the Hebrew Bible within the ancient-astronaut interpretive tradition"
-developer = "Jean Sendy (1910–1978), French author of *Les cahiers de cours de Moïse* (1963), *Ces dieux qui firent le ciel et la terre* (1969), *L'Ère du Verseau* (1970), and other works in the ancient-astronaut and alternative-history tradition"
-principal_source = "*L'Ère du Verseau* (Robert Laffont, 1970), chapter 18, in the section opening 'Pour que le texte biblique apparaisse avec le relief et la cohérence d'un hologramme...'"
-the_five_conditions = "(1) Familiarity with the Bible; (2) Familiarity with astronautics within the framework of contemporary physics; (3) Elementary but clear and recent knowledge of biology, prehistory, history, and evolution; (4) Refusal of explanation by the inexplicable (rejection of the supernatural); (5) Acceptance of a universe intelligible to human reason"
-relationship_to_biglino_method = "Paired complementary methodology: Sendy specifies the preconditions the reader must satisfy; Biglino specifies the three-step operative procedure (obtain familiarity with original text; set aside traditional interpretation; read literally). Sendy supplies what the reader must have; Biglino supplies what the reader must do."
-distinguished_from = "Mainstream historical-critical method (which has its own preconditions — philological competence, genre awareness, comparative ancient Near Eastern engagement); confessional theological exegesis (which presupposes faith and inherited theological framework); Bultmann's demythologization program (which removes mythological content rather than rereading it as concrete account); pure modern empiricist naturalism (Sendy's position is medievalist-rationalist rather than humanist-empiricist)"
-status_in_framework = "Principal pre-Vorilhon methodological inheritance for the corpus; the systematic preconditional framework that pairs with the Biglino Method to articulate the corpus's principal contemporary hermeneutic; one component of the broader corpus methodology alongside Hamlet's Mill precessional integration, Vorilhon source-textual primacy, and disciplined epistemic-pluralism"
+type = "Cadre méthodologique qui précise les conditions préalables d'une lecture littérale cohérente de la Bible hébraïque au sein de la tradition interprétative des anciens astronautes"
+developer = "Jean Sendy (1910–1978), auteur français des *Cahiers de cours de Moïse* (1963), de *Ces dieux qui firent le ciel et la terre* (1969), de *L'Ère du Verseau* (1970) et d'autres ouvrages relevant de la tradition des anciens astronautes et de l'histoire alternative"
+principal_source = "*L'Ère du Verseau* (Robert Laffont, 1970), chapitre 18, dans la section qui s'ouvre par « Pour que le texte biblique apparaisse avec le relief et la cohérence d'un hologramme... »"
+the_five_conditions = "(1) La familiarité avec la Bible ; (2) la familiarité avec l'astronautique dans le cadre de la physique contemporaine ; (3) une connaissance élémentaire mais claire et récente de la biologie, de la préhistoire, de l'histoire et de l'évolution ; (4) le refus de l'explication par l'inexplicable (rejet du surnaturel) ; (5) l'acceptation d'un univers intelligible à la raison humaine"
+relationship_to_biglino_method = "Méthodologie complémentaire appariée : Sendy précise les conditions préalables que le lecteur doit remplir ; Biglino précise la procédure opératoire en trois étapes (se familiariser avec le texte original ; mettre de côté l'interprétation traditionnelle ; lire littéralement). Sendy fournit ce que le lecteur doit avoir ; Biglino fournit ce que le lecteur doit faire."
+distinguished_from = "La méthode historico-critique courante (qui a ses propres conditions préalables — compétence philologique, conscience des genres, comparaison avec le Proche-Orient ancien) ; l'exégèse théologique confessionnelle (qui présuppose la foi et un cadre théologique hérité) ; le programme de démythologisation de Bultmann (qui retire le contenu mythologique au lieu de le relire comme récit concret) ; le pur naturalisme empiriste moderne (la position de Sendy est rationaliste médiéviste plutôt qu'humaniste empiriste)"
+status_in_framework = "Principal héritage méthodologique antérieur à Vorilhon pour le corpus ; le cadre systématique de conditions préalables qui, associé à la Méthode Biglino, formule la principale herméneutique contemporaine du corpus ; une composante de la méthodologie plus large du corpus aux côtés de l'intégration précessionnelle du *Moulin d'Hamlet*, de la primauté des textes sources de Vorilhon et d'un pluralisme épistémique discipliné"
 +++
 
 **Sendy's Conditions of Coherence** is the methodological framework articulated by **Jean Sendy** (1910–1978) in *L'Ère du Verseau* (Robert Laffont, 1970, chapter 18) specifying the five preconditions a reader must satisfy for the Hebrew Bible to appear, in his phrase, *"with the relief and coherence of a hologram."* Sendy's full formulation:

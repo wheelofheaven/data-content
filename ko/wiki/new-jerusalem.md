@@ -6,25 +6,33 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Jerusalem", "Third Temple (Jewish-historical register)", "Embassy (contemporary operational register)", "the Heavenly Jerusalem (Christian-apocalyptic register)", "the descending Holy City (Revelation 21 designation)", "the residence of the Elohim (Vorilhon source designation)"]
+alternative_names = ["새 예루살렘", "Third Temple (Jewish-historical register)", "Embassy (contemporary operational register)", "the Heavenly Jerusalem (Christian-apocalyptic register)", "the descending Holy City (Revelation 21 designation)", "the residence of the Elohim (Vorilhon source designation)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "대사관", path = "wiki/embassy", description = "같은 구조물의 실행 명세." },
+    { title = "제3 성전", path = "wiki/third-temple", description = "같은 예정된 영접 구조물에 대한 유대 역사적 이름." },
+    { title = "에스겔", path = "wiki/ezekiel", description = "그 성전 문지방 환상을 코퍼스가 예표로 읽는 예언자." },
+    { title = "묵시록", path = "wiki/apocalypse", description = "내려오는 도성의 이미지를 제공하는 요한계시록의 종말론." },
+    { title = "황금시대", path = "wiki/golden-age", description = "이 구조물이 그 중심이 되어 바깥으로 퍼뜨리도록 의도된 물병자리 시대의 변혁." },
+    { title = "원년에 봉인이 풀리다", path = "articles/unsealed-in-year-one", description = "쿰란의 아람어 「새 예루살렘」 텍스트 — 건설을 기다리는 측량된 도성 — 를 이 항목의 조상으로 읽습니다." },
+]
 
 [extra.infobox]
-type = "Aquarian-age physical-institutional concept; the structure intended to receive the alliance's formal arrival and to serve as the operational location of human-Elohim diplomatic engagement"
-three_term_identification = "New Jerusalem (Christian-apocalyptic register); Third Temple (Jewish-historical register); Embassy (contemporary operational register) — three terms for the same physical-institutional content within distinct interpretive frames"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'To the People of Israel' section; *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979); consolidated *Message from the Designers* (2005)"
-biblical_prefigurations = "Ezekiel 47:1-2 (water from the temple threshold); Acts 15:16 (rebuild the tabernacle of David); Revelation 21:1-3 (descending New Jerusalem)"
-original_location_preference = "Israel near Jerusalem; the geographic site of the original Eden operation; the highest-concentration alliance-contact site on Earth"
-relocation_authorization = "December 13, 1997 Yahweh message — formal authorization to seek permission from any nation following Israeli refusals; Israel preserved as 'last chance' option"
-distinguished_from = "Embassy (the operational-architectural register, treated in dedicated entry); Third Temple (the Jewish-historical register, treated in dedicated entry when written); the historic Solomonic and Second Temples (the prior Jerusalem-temple physical structures)"
-status_in_framework = "Foundational Aquarian-age architectural-institutional concept; the operational center from which Aquarian-age transformative content flows outward; the spiritual and intellectual center of the world for millennia to come"
+type = "엘로힘의 공식 귀환을 맞이하기 위해 지어지는 물병자리 시대의 건축물. 엘로힘과 인류가 공개적으로 접촉하는 자리"
+three_term_identification = "새 예루살렘(그리스도교 묵시적 명칭), 제3 성전(유대 역사적 명칭), 대사관(실무적 명칭) — 하나의 건물을 가리키는 세 이름"
+principal_source = "*Extra-Terrestrials Took Me to Their Planet*(보릴롱, 1975), 'To the People of Israel'. *Let Us Welcome the Extra-Terrestrials*(1979). *Message from the Designers*(2005)"
+biblical_prefigurations = "에스겔 47:1-2(성전 문지방에서 흘러나오는 물), 사도행전 15:16(다윗의 장막을 다시 세움), 요한계시록 21:1-3(내려오는 새 예루살렘)"
+original_location_preference = "이스라엘, 예루살렘 인근 — 최초의 에덴 작업이 이루어진 장소"
+relocation_authorization = "1997년 12월 13일 야훼의 메시지 — 이스라엘의 거절 이후 어느 나라에서든 치외법권 지위를 구하도록 승인했습니다. 이스라엘에는 '마지막 기회'라는 선택지가 남아 있습니다"
+distinguished_from = "대사관(실무적 사양, 별도 항목), 제3 성전(유대 역사적 계승, 별도 항목), 역사상의 제1·제2 성전"
+status_in_framework = "물병자리 시대의 기초 건축물. 이 시대의 변혁이 퍼져 나갈 실무적 중심"
 +++
 
 **New Jerusalem** is, in the Wheel of Heaven framework, one of three names — alongside

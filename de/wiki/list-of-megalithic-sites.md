@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,16 +15,26 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
 alternative_names = ["Catalogue of megalithic sites", "Ancient megalithic architecture index", "Cyclopean and megalithic construction reference"]
+see_also = [
+    { title = "Antike Baumeister", path = "wiki/ancient-builders", description = "Der Paareintrag darüber, wer die in diesem Katalog aufgeführten Stätten erbaute." },
+    { title = "Archäoastronomie", path = "wiki/archaeoastronomy", description = "Die systematischen astronomischen Ausrichtungen, die an vielen katalogisierten Stätten dokumentiert sind." },
+    { title = "Elohim", path = "wiki/elohim", description = "Die Schöpfer, denen der Rahmen die zeitweilige Unterstützung fortgeschrittener antiker Bauwerke zuschreibt." },
+    { title = "Liste der Mytheme und mythologischen Motive", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "Die mythologische Überlieferung, die das Korpus neben den materiellen Megalithbelegen liest." },
+    { title = "Pangaea", path = "wiki/pangaea", description = "Die vorsintflutliche Landmasse, die der tiefen Baugeschichte des Korpus vorausgeht und sie rahmt." },
+    { title = "Genesis", path = "wiki/genesis", description = "Die Quellenerzählung, die den Bericht des Korpus über die frühe fortgeschrittene menschliche Zivilisation verankert." },
+    { title = "Göbekli Tepe", path = "wiki/gobekli-tepe", description = "Das Heiligtum von etwa 9600 v. Chr. — die früheste datierte Stätte, die der Katalog behandelt." },
+    { title = "Große Sphinx", path = "wiki/great-sphinx", description = "Das Löwenmonument von Gizeh — die andere anomal datierte Stätte, die der Katalog behandelt." }
+]
 
 [extra.infobox]
-type = "Reference catalogue of megalithic archaeological sites"
-scope = "Pre-Pottery Neolithic through pre-Columbian eras; primary focus on sites with substantial framework relevance"
-criteria_for_inclusion = "Substantial use of large stone blocks (megaliths); evidence of advanced construction technique; documented archaeoastronomical alignments; cultural prominence; or framework relevance for the corpus's interpretive work"
-date_ranges_represented = "From c. 9600 BCE (Göbekli Tepe and Pre-Pottery Neolithic complex) to c. 1600 CE (late pre-Columbian Andean and Mesoamerican)"
-catalogue_columns = "Site name; location; conventional dating; construction features; archaeoastronomy where applicable; framework reading"
-mainstream_archaeology_position = "Sites are products of human civilisations using documented construction techniques appropriate to their periods; framework readings of extreme antiquity or extraterrestrial-assistance are not endorsed by mainstream archaeology"
-framework_position = "Megalithic record preserves operational evidence of advanced ancient construction capability across multiple regions and time-periods, consistent with the corpus's account of intermittent Elohim-supported cultural development during the Earth project's middle and later phases"
-caveat = "Coverage is selective rather than exhaustive; dating and construction-feature claims follow mainstream archaeological consensus where one exists, with contested or alternative claims explicitly flagged"
+type = "Nachschlagekatalog megalithischer archäologischer Stätten"
+scope = "Vom präkeramischen Neolithikum bis in die präkolumbische Zeit; Schwerpunkt auf Stätten mit erheblicher Relevanz für den Rahmen"
+criteria_for_inclusion = "Umfangreiche Verwendung großer Steinblöcke (Megalithen); Belege für fortgeschrittene Bautechnik; dokumentierte archäoastronomische Ausrichtungen; kulturelle Bedeutung; oder Relevanz für die Deutungsarbeit des Korpus"
+date_ranges_represented = "Von ca. 9600 v. Chr. (Göbekli Tepe und der Komplex des präkeramischen Neolithikums) bis ca. 1600 n. Chr. (späte präkolumbische Kulturen der Anden und Mesoamerikas)"
+catalogue_columns = "Name der Stätte; Ort; konventionelle Datierung; Baumerkmale; Archäoastronomie, wo zutreffend; Lesart des Rahmens"
+mainstream_archaeology_position = "Die Stätten sind Erzeugnisse menschlicher Zivilisationen, die dokumentierte, ihrer Epoche angemessene Bautechniken verwendeten; Lesarten des Rahmens, die extremes Alter oder außerirdische Hilfe annehmen, werden von der Mainstream-Archäologie nicht gestützt"
+framework_position = "Erfassung Ort für Ort nach dem jeweils eigenen Grad jeder These, wobei die Darstellungen der etablierten Archäologie vollständig wiedergegeben werden; kein Ort, keine Ausrichtung und keine Neudatierung ist ein Beleg für den Rahmen"
+caveat = "Die Abdeckung ist eine Auswahl, nicht vollständig; Angaben zu Datierung und Baumerkmalen folgen dem archäologischen Mainstream-Konsens, soweit ein solcher besteht, umstrittene oder alternative Angaben sind ausdrücklich gekennzeichnet"
 +++
 
 This entry catalogues megalithic sites of the ancient world — large stone structures whose construction features, dating, or astronomical alignments make them objects of substantial archaeological interest and, in many cases, objects of the Wheel of Heaven framework's interpretive engagement. *Megalith* derives from the Greek *megas* "great" + *lithos* "stone," and is used in archaeology to designate any structure incorporating large stone blocks as principal construction elements. The conventional archaeological literature treats the megalithic phenomenon as a feature of the Neolithic and Bronze Age periods (c. 9600 BCE through c. 1500 BCE in different regional contexts), with later megalithic traditions (Andean, Mesoamerican, sub-Saharan African) extending in some cases into the second millennium CE. The catalogue's scope encompasses this full range.

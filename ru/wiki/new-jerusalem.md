@@ -6,25 +6,33 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Jerusalem", "Third Temple (Jewish-historical register)", "Embassy (contemporary operational register)", "the Heavenly Jerusalem (Christian-apocalyptic register)", "the descending Holy City (Revelation 21 designation)", "the residence of the Elohim (Vorilhon source designation)"]
+alternative_names = ["Новый Иерусалим", "Third Temple (Jewish-historical register)", "Embassy (contemporary operational register)", "the Heavenly Jerusalem (Christian-apocalyptic register)", "the descending Holy City (Revelation 21 designation)", "the residence of the Elohim (Vorilhon source designation)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Посольство", path = "wiki/embassy", description = "Операциональные спецификации того же сооружения." },
+    { title = "Третий Храм", path = "wiki/third-temple", description = "Еврейско-историческое название того же задуманного сооружения для приёма." },
+    { title = "Иезекииль", path = "wiki/ezekiel", description = "Пророк, чьё видение храмового порога корпус читает как прообраз." },
+    { title = "Апокалипсис", path = "wiki/apocalypse", description = "Эсхатология Откровения, дающая образ нисходящего города." },
+    { title = "Золотой век", path = "wiki/golden-age", description = "Преображение эпохи Водолея, центром и источником которого должно стать это сооружение." },
+    { title = "Распечатанное в первый год", path = "articles/unsealed-in-year-one", description = "Читает кумранский арамейский текст о Новом Иерусалиме — измеренный город, ожидающий постройки, — как предка этой статьи." },
+]
 
 [extra.infobox]
-type = "Aquarian-age physical-institutional concept; the structure intended to receive the alliance's formal arrival and to serve as the operational location of human-Elohim diplomatic engagement"
-three_term_identification = "New Jerusalem (Christian-apocalyptic register); Third Temple (Jewish-historical register); Embassy (contemporary operational register) — three terms for the same physical-institutional content within distinct interpretive frames"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'To the People of Israel' section; *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979); consolidated *Message from the Designers* (2005)"
-biblical_prefigurations = "Ezekiel 47:1-2 (water from the temple threshold); Acts 15:16 (rebuild the tabernacle of David); Revelation 21:1-3 (descending New Jerusalem)"
-original_location_preference = "Israel near Jerusalem; the geographic site of the original Eden operation; the highest-concentration alliance-contact site on Earth"
-relocation_authorization = "December 13, 1997 Yahweh message — formal authorization to seek permission from any nation following Israeli refusals; Israel preserved as 'last chance' option"
-distinguished_from = "Embassy (the operational-architectural register, treated in dedicated entry); Third Temple (the Jewish-historical register, treated in dedicated entry when written); the historic Solomonic and Second Temples (the prior Jerusalem-temple physical structures)"
-status_in_framework = "Foundational Aquarian-age architectural-institutional concept; the operational center from which Aquarian-age transformative content flows outward; the spiritual and intellectual center of the world for millennia to come"
+type = "Сооружение эпохи Водолея, предназначенное для официального возвращения Элохим; место открытого контакта Элохим и людей"
+three_term_identification = "Новый Иерусалим (христианско-апокалиптическое название); Третий Храм (иудейско-историческое название); Посольство (рабочее название) — три названия одного здания"
+principal_source = "*Инопланетяне забрали меня на свою планету* (Ворильон, 1975), «Народу Израиля»; *Встретим инопланетян* (1979); *Послание от Создателей* (2005)"
+biblical_prefigurations = "Иезекииль 47:1–2 (вода из-под порога храма); Деяния 15:16 («восстановлю скинию Давидову»); Откровение 21:1–3 (нисходящий Новый Иерусалим)"
+original_location_preference = "Израиль, вблизи Иерусалима — место первоначальной эдемской операции"
+relocation_authorization = "Послание Яхве от 13 декабря 1997 года — разрешение добиваться экстерриториального статуса у любой страны после отказов Израиля; за Израилем сохраняется возможность «последнего шанса»"
+distinguished_from = "Посольство (рабочие характеристики, отдельная статья); Третий Храм (иудейско-историческая преемственность, отдельная статья); исторические Первый и Второй Храмы"
+status_in_framework = "Основополагающее сооружение эпохи Водолея; рабочий центр, из которого должно распространяться преображение эпохи"
 +++
 
 **New Jerusalem** is, in the Wheel of Heaven framework, one of three names — alongside

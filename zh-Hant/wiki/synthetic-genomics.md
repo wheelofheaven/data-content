@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,17 +14,26 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Whole-genome synthesis", "Genome engineering", "Genome-scale design"]
+alternative_names = ["全基因組合成", "基因組工程", "基因組尺度設計"]
+see_also = [
+    { title = "生命工程", path = "wiki/life-engineering", description = "以合成基因組學為其最具雄心之分支的上層領域。" },
+    { title = "合成生物學", path = "wiki/synthetic-biology", description = "在全基因組建構之下的子系統尺度上運作的姊妹領域。" },
+    { title = "遺傳工程", path = "wiki/genetic-engineering", description = "以修改既有基因組而非合成基因組來運作的姊妹領域。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "其整體生物創造與此領域的尺度最直接對應的文明。" },
+    { title = "創世記", path = "wiki/genesis", description = "文集讀作描述以設計序列建構生命的創造敘事。" },
+    { title = "生命之樹", path = "wiki/tree-of-life", description = "文集與受造生命工程配對的延壽技術對應物。" },
+    { title = "簽名與設計者們", path = "/articles/the-signature-and-the-designers/", description = "凡特所設計的最小基因組,被讀作當代對耶洛因實驗室能力的重新取得。" },
+]
 
 [extra.infobox]
-type = "Engineering sub-discipline of life engineering concerned with whole-genome design and synthesis"
-parent_field = "Life engineering"
-sister_fields = "Genetic engineering; synthetic biology; xenobiology"
-distinguishing_feature = "Operates at the scale of complete genomes rather than at the sub-system or single-gene scale"
-foundational_milestones = "Chemical synthesis of phage φX174 genome (Smith, Hutchison, and Venter, 2003); synthesis of *Mycoplasma genitalium* genome (Gibson and colleagues, 2008); JCVI-syn1.0 — first cell with entirely synthetic genome (Gibson and colleagues, 2010); JCVI-syn3.0 — first minimal synthetic cell, 473 genes (Hutchison and colleagues, 2016); JCVI-syn3A — stabilised minimal-cell platform (Pelletier and colleagues, 2021); Sc2.0 — synthetic *Saccharomyces cerevisiae* genome (international consortium, 2011–present)"
-key_techniques = "Hierarchical assembly of synthetic oligonucleotides; genome transplantation; yeast as DNA-assembly host; whole-chromosome synthesis"
-current_status = "Active scientific discipline; complete bacterial genomes now routinely synthesised; eukaryotic-genome work ongoing; multicellular-genome synthesis not yet achieved"
-framework_significance = "The sub-discipline whose operational scale — whole-organism construction from designed sequence — most directly matches the scale of the Elohim's work as described in the source material"
+type = "生命工程中關注全基因組設計與合成的工程子學科"
+parent_field = "生命工程"
+sister_fields = "遺傳工程；合成生物學；異種生物學"
+distinguishing_feature = "在完整基因組的尺度上運作，而非在子系統或單一基因的尺度上"
+foundational_milestones = "噬菌體 φX174 基因組的化學合成（史密斯、哈奇森與文特，2003）；*生殖道黴漿菌*（*Mycoplasma genitalium*）基因組的合成（吉布森等人，2008）；JCVI-syn1.0——第一個擁有完全合成基因組的細胞（吉布森等人，2010）；JCVI-syn3.0——第一個最小合成細胞，473 個基因（哈奇森等人，2016）；JCVI-syn3A——穩定化的最小細胞平台（佩爾蒂埃等人，2021）；Sc2.0——合成的*釀酒酵母*（*Saccharomyces cerevisiae*）基因組（國際聯盟，2011 年至今）"
+key_techniques = "合成寡核苷酸的階層式組裝；基因組移植；以酵母為 DNA 組裝宿主；全染色體合成"
+current_status = "活躍的科學學科；完整的細菌基因組如今已能例行合成；真核基因組的研究持續進行中；多細胞生物基因組的合成尚未實現"
+framework_significance = "其運作尺度——依設計序列建構完整生物體——最直接符合源典所描述之耶洛因工作尺度的子學科"
 +++
 
 **Synthetic genomics** is the branch of [life engineering](../life-engineering/) concerned with the design, chemical synthesis, and assembly of complete genomes or large portions of genomes — the construction of an organism's entire hereditary material from designed sequence rather than from the modification of existing biological templates. It is the most ambitious wing of contemporary life engineering and the one whose scale of operation most directly approaches the scale at which the Raëlian source material describes the work of the Elohim civilisation. Where [synthetic biology](../synthetic-biology/) more broadly operates at the level of sub-systems and components, and where [genetic engineering](../genetic-engineering/) operates at the level of modifications to existing genomes, synthetic genomics operates at the level of the genome itself.

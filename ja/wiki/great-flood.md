@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -23,21 +23,24 @@ timeline = ["gemini"]
 
 see_also = [
     { title = "ノア", path = "/wiki/noah/", description = "洪水以後の系譜を継承する人間の生存者にして家長。" },
-    { title = "ノアの方舟", path = "/wiki/noahs-ark/", description = "ノアの家族と遺伝的代表を保存した軌道上の宇宙船。" },
-    { title = "ノアの契約", path = "/wiki/noahic-covenant/", description = "虹の徴によって構成された洪水後の政治的合意。" },
+    { title = "ノアの箱舟", path = "/wiki/noahs-ark/", description = "ノアの家族と遺伝的代表を保存した軌道上の宇宙船。" },
+    { title = "ノア契約", path = "/wiki/noahic-covenant/", description = "虹の徴によって構成された洪水後の政治的合意。" },
     { title = "同盟", path = "/wiki/the-alliance/", description = "ノアの契約によって創設された政治的な取り決め。" },
     { title = "ルシファー", path = "/wiki/lucifer/", description = "方舟作戦を通じてノアの存続を確保した派閥。" },
     { title = "ヤハウェ", path = "/wiki/yahweh/", description = "「もう二度と行わない」という洪水後の誓約がその投票に基づいている評議会の指導者。" },
     { title = "永遠者の評議会", path = "/wiki/council-of-the-eternals/", description = "攻撃を承認した母惑星の政治機関。" },
-    { title = "洪水以前（アンテディルヴィアン）", path = "/wiki/antediluvian/", description = "攻撃によって終止符を打たれた洪水以前の文明期。" },
+    { title = "大洪水以前", path = "/wiki/antediluvian/", description = "攻撃によって終止符を打たれた洪水以前の文明期。" },
     { title = "パンゲア", path = "/wiki/pangaea/", description = "攻撃がその分裂を生じさせた超大陸。" },
     { title = "エデン", path = "/wiki/eden/", description = "洪水以前の文明がその系譜を引き継いだ、起源の同盟研究施設。" },
     { title = "ヘブライ語聖書", path = "/wiki/hebrew-bible/", description = "洪水物語の主要な聖典的典拠。" },
     { title = "創世記", path = "/wiki/genesis/", description = "洪水記事（創世記6〜9章）を含む聖書の書。" },
+    { title = "アトラ・ハシース", path = "/library/atrahasis-woh/", description = "ヘブライ語の記述に密接に並行する、バビロニアの洪水物語。" },
+    { title = "ギルガメシュ叙事詩", path = "/library/gilgamesh-woh/", description = "第11書板にあるメソポタミアの洪水の記述。" },
     { title = "ソドムとゴモラ", path = "/wiki/sodom-and-gomorrah/", description = "そのメカニズムが構造的に類似した、後代の類比的な攻撃事件。" },
     { title = "バベル", path = "/wiki/babel/", description = "洪水後の文明分散のエピソード。" },
-    { title = "二重の徴", path = "/wiki/doubled-signature/", description = "世界規模の洪水伝承が基底にある歴史的記憶を保存しているとする、コーパスの原理。" },
-    { title = "神々の戦い（テオマキー）", path = "/wiki/theomachy/", description = "攻撃がその内部で作動する、より広い宇宙的‐政治的紛争の枠組み。" },
+    { title = "二重の署名", path = "/wiki/doubled-signature/", description = "世界規模の洪水伝承が基底にある歴史的記憶を保存しているとする、コーパスの原理。" },
+    { title = "神々の闘い", path = "/wiki/theomachy/", description = "攻撃がその内部で作動する、より広い宇宙的‐政治的紛争の枠組み。" },
+    { title = "大執事と竜", path = "articles/the-archdeacon-and-the-dragon", description = "洪水を評議会の決定とみなす点での、ウォリスと正典の収斂。" },
 ]
 
 footnotes = [

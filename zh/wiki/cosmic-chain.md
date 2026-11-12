@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -20,12 +20,13 @@ claim_type = "framework"
 alternative_names = ["宇宙链", "创造之链", "宇宙创造之链", "循环往复的宇宙进程", "宇宙创造循环", "施造者之循环"]
 timeline = ["pre-creation", "aries", "pisces", "aquarius", "post-aquarius"]
 see_also = [
-    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "更宏阔的宇宙链之内的特定评估阶段 — 继承资格评定。" },
-    { title = "Elohim", path = "wiki/elohim", description = "在白羊座时代发现自身亦曾被造的施造文明。" },
-    { title = "Apocalypse", path = "wiki/apocalypse", description = "宝瓶座时代的继承评估 — 此链条针对地球人类的当下阶段。" },
-    { title = "Embassy", path = "wiki/embassy", description = "继承事件的预定场所,地球将于此处领受联盟所积累的全部知识。" },
-    { title = "Doubled Signature", path = "wiki/doubled-signature", description = "运作于更宏阔的宇宙链框架之内的一项相关诠释原则。" },
-    { title = "Genesis", path = "wiki/genesis", description = "被读作此链条循环往复的创造模式之一具体实例的创世记载。" },
+    { title = "宏观生物学", path = "wiki/macrobiology", description = "人类被解读为高一个尺度的有机体，沿着受造且施造之文明的链条传承。" },
+    { title = "宇宙竞争", path = "wiki/cosmic-competition", description = "更宏阔的宇宙链之内的特定评估阶段 — 继承资格评定。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "在白羊座时代发现自身亦曾被造的施造文明。" },
+    { title = "启示", path = "wiki/apocalypse", description = "水瓶座时代的继承评估 — 此链条针对地球人类的当下阶段。" },
+    { title = "大使馆", path = "wiki/embassy", description = "继承事件的预定场所,地球将于此处领受联盟所积累的全部知识。" },
+    { title = "双重署名", path = "wiki/doubled-signature", description = "运作于更宏阔的宇宙链框架之内的一项相关诠释原则。" },
+    { title = "创世记", path = "wiki/genesis", description = "被读作此链条循环往复的创造模式之一具体实例的创世记载。" },
 ]
 
 footnotes = [
@@ -152,7 +153,7 @@ relationship_to_cosmic_competition = "宇宙竞争是更宏阔的宇宙链之内
 distinguished_from = "宇宙竞争框架(特定评估阶段);岁差时代框架(地球的具体年表位置);地球计划本身(联盟在地球上的具体工作);更宏阔的无限宇宙(链条运作于其中的更大宇宙学结构)"
 status_in_source_material = "部分;Raël 派源材料明确陈述了基本前提(「耶洛因被来自另一行星的人所造,那些人又被来自另一行星的其他人所造,如此直至无穷」),但并未发展出文集所阐述的系统化宇宙链框架"
 principal_text = "马太福音 6:10(主祷文);Raël 派源材料中关于施造者之链与拒斥「第一施造者」之问的各处段落"
-principal_framework_source = "*Extra-Terrestrials Took Me to Their Planet*(Vorilhon/Raël,1975),「既无神,亦无魂」;*The Book Which Tells the Truth*(1974),各处段落"
+principal_framework_source = "《外星人带我去他们的行星》（沃里隆／雷尔，1975），「既无神，亦无魂」；《讲述真相之书》（1974），各处段落"
 +++
 
 **宇宙链**是 Wheel of Heaven 文集所发展的框架概念,用以阐述耶洛因文明所处的更宏阔的宇宙学处境。宇宙链将宇宙处境读作一条横贯宇宙时间、被造而又施造的文明的无限延展序列,每一个达到科学成熟的文明最终都会在合适的世界上创造新的人类,后者继而自身成为施造文明,使此链条延续于幽深的时间之中。耶洛因在白羊座时代(按文集的推算约为公元前 2,160–1,200 年)发现,他们自身乃是被一个更早的文明所造,而非某一独特模式的自主肇始者。此发现从根本上改变了他们的自我理解:他们并非他们正向银河系各处推展的生物创造模式的肇始者,而是一个运作了不知多久但极为漫长的、循环往复的宇宙进程的当下本地实例。此链条向后无限延展,穿越先前的施造文明,向前无限延展,穿越未来的被造文明,无可寻得的起点,亦无可寻得的终点。

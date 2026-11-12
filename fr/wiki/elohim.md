@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -22,14 +22,20 @@ alternative_names = ["Anunnaki", "les Célestes", "les Créateurs", "El", "les D
 portrait_id = "elohim"
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.avif"
-image_alt = "AI-generated editorial group portrait of the Elohim as long-haired human-like creators in a green-lit council setting."
-image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
+image_alt = "Portrait de groupe éditorial généré par IA représentant les Élohim comme des créateurs d'apparence humaine aux cheveux longs, dans un décor de conseil baigné de lumière verte."
+image_caption = "Portrait interprétatif pour l'entrée wiki Élohim et les métadonnées de personnage de la bibliothèque."
 see_also = [
-    { title = "Yahvé", path = "wiki/yahweh", description = "L'Éloha principal — président du Conseil des Éternels." },
+    { title = "La face orientale d'Homère", path = "/articles/the-east-face-of-homer/", description = "L'article qui lit la Grèce comme une province de la sphère élohimienne, sur la foi de deux ancrages canoniques." },
+    { title = "La pluie sur l'Hélicon", path = "/articles/the-rain-over-helicon/", description = "Le troisième article grec, qui pèse ce que la transmission littéraire documentée peut et ne peut pas établir quant à un référent commun derrière les traditions de combat divin." },
+    { title = "Les Anunnaki sont-ils les Élohim ?", path = "articles/anunnaki-and-the-elohim", description = "Les Anunnaki sumériens désignent-ils les mêmes créateurs ? — une comparaison au cas par cas." },
+    { title = "Yahvé", path = "wiki/yahweh", description = "Le principal des Élohim — président du Conseil des Éternels." },
     { title = "Conseil des Éternels", path = "wiki/council-of-the-eternals", description = "L'organe directeur qui statue sur le sort de la création humaine." },
     { title = "Pluralité des dieux", path = "wiki/plurality-of-gods", description = "Le dossier philologique en faveur d'une lecture plurielle d'Élohim plutôt que d'un singulier de majesté." },
     { title = "Raëlisme", path = "wiki/raelism", description = "La grille de lecture contemporaine qui interprète les Élohim comme une civilisation humaine avancée." },
-    { title = "Planète d'origine des Élohim", path = "wiki/elohim-home-planet", description = "La planète d'origine décrite par Raël après sa visite de 1975." },
+    { title = "Planète d'origine des Elohim", path = "wiki/elohim-home-planet", description = "La planète d'origine décrite par Raël après sa visite de 1975." },
+    { title = "L'archidiacre et le dragon", path = "articles/the-archdeacon-and-the-dragon", description = "La lecture plurielle des « Puissants » pour l'elohim de la Genèse, sur laquelle repose tout l'argument de l'article." },
+    { title = "Les manuscrits qui s'éveillèrent en l'an un", path = "articles/the-scrolls-that-woke-in-year-one", description = "Les « fils d'Elohim » de 4QDeut(j) et les « elohim » célestes de 11QMelchisédek — le pluriel lu sur l'antique cuir de Qumrân." },
+    { title = "Le monothéisme est la mauvaise question", path = "articles/monotheism-is-the-wrong-question", description = "Pourquoi le « Dieu » biblique au singulier pourrait être un Éloha représentatif, non un Absolu surnaturel — la pluralité lue à travers la polémique contre les idoles." },
 ]
 
 footnotes = [

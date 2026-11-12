@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,7 +17,7 @@ core_claim_ids = ["woh-claim-0057"]
 editorial_pass = "2026-08"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["Presidential Unsealing and Reporting System for UAP Encounters", "PURSUE 特別工作組(PURSUE Task Force)", "war.gov/UFO(釋出入口網站)", "UAP 檔案解密系列"]
+alternative_names = ["總統 UAP 遭遇解密與報告系統", "PURSUE 特別工作組(PURSUE Task Force)", "war.gov/UFO(釋出入口網站)", "UAP 檔案解密系列"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "UFO學", path = "wiki/ufology", description = "UAP 紀錄問題所處的研究領域;PURSUE 是其 2026 年的制度性發展。" },

@@ -5,7 +5,7 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,30 @@ category = "Methodology"
 entry_type = "concept"
 alternative_names = ["Comparative Mythology", "comparative religion (overlapping discipline)", "mythography (related but distinct discipline)", "comparative folklore", "Mythologie comparée (French)", "vergleichende Mythologie (German)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Hamlet's Mill", path = "wiki/hamlets-mill", description = "Die These der präzessionalen Verschlüsselung, die das Korpus als strukturelles Ordnungsprinzip der Disziplin übernimmt." },
+    { title = "Theomachie", path = "wiki/theomachy", description = "Das Motivbündel des Krieges unter den Göttern, das die Disziplin kulturübergreifend katalogisiert." },
+    { title = "Prä-Astronautik-Hypothese", path = "wiki/ancient-astronaut-hypothesis", description = "Der umfassendere Deutungsrahmen, durch den das Korpus die wiederkehrenden Motive liest." },
+    { title = "Neo-Euhemerismus", path = "wiki/neo-euhemerism", description = "Die Methode des gemeinsamen historischen Bezugspunkts, die das Korpus auf die kulturübergreifenden Muster anwendet." },
+    { title = "Baum der Erkenntnis von Gut und Böse", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "Das Motiv des kosmischen Baums als ein Fall aus dem Bestand wiederkehrender Muster der Disziplin." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "Das Projekt, das sich mit der Disziplin als einer seiner wichtigsten methodischen Verpflichtungen befasst." },
+    { title = "Carl Jung", path = "wiki/carl-jung", description = "Der Begründer der archetypischen Schule der Mythendeutung (mit Campbell); sein Aion liest den Fische-Äon." },
+    { title = "Jane Sellers", path = "wiki/jane-sellers", description = "Die präzessionale Lesart des Mythos von Tod und Auferstehung des Osiris." },
+    { title = "Sampo", path = "wiki/sampo", description = "Der finnische Sampo als baltisch-finnischer Fall des Mythems der Weltmühle." },
+    { title = "Die Welt hinter der Odyssee", path = "/articles/the-world-behind-the-odyssey/", description = "Die griechische Fallstudie des Korpus — dokumentierte Überlieferung aus dem Nahen Osten zu Hesiod und Homer, mit getrennt gehaltener Lesart des Rahmens." },
+    { title = "Die Ostseite Homers", path = "/articles/the-east-face-of-homer/", description = "Die zweite Hälfte der griechischen Fallstudie: der Überlieferungskorridor des achten Jahrhunderts im Einzelnen und die Disziplin dessen, was literarische Entlehnung beweisen kann und was nicht." },
+    { title = "Der Regen über dem Helikon", path = "/articles/the-rain-over-helicon/", description = "Eine Methodenprüfung der Disziplin selbst: die Tests, die eine Parallele über den Zufall erheben, abgestuft über Hesiod, Homer, poetische Diktion und die Kontaktwege." }
+]
 
 [extra.infobox]
-type = "Academic and interpretive discipline studying recurring patterns across geographically and historically separated mythological corpora; one of the corpus's principal methodological commitments"
-disciplinary_origin = "Late eighteenth-century European Romantic engagement with non-Western mythologies; formal disciplinary emergence in the nineteenth century with Friedrich Max Müller's comparative-philological work and James George Frazer's anthropological-comparative work"
-principal_methodological_schools = "Solar-mythology (Müller); anthropological-comparative (Frazer, Tylor, Lang); diffusionist (Bastian, Vienna school, Pan-Babylonianism); trifunctional structuralism (Dumézil); phenomenological-religious (Eliade, Otto, van der Leeuw); archetypal-Jungian (Jung, Neumann, Campbell); structural-anthropological (Lévi-Strauss); cognitive science of religion (Boyer, Atran, Barrett)"
-principal_motif_clusters = "Creation narratives; flood narratives; sky-visitor and culture-bringer traditions; theomachy / war-among-the-gods; divine descent and divine-human hybrids; golden age and ages-of-the-world traditions; dying-and-rising-god pattern; cosmic mountain and world-axis; cosmic tree; descent-to-the-underworld"
-corpus_position = "Comparative Mythology is one of the corpus's principal methodological commitments; the cross-cultural patterns are taken as substantive evidence requiring substantive explanation; the corpus differs from the mainstream contemporary academic discipline's retreat from grand-theoretical engagement"
-corpus_explanatory_framework = "Cross-cultural patterns explained principally by common historical referents in the alliance-contact framework, integrated with the Hamlet's Mill precessional structural framework; the corpus does not require rejecting cognitive-science, diffusionist, or archetypal explanations but treats them as partial explanations that miss the common-referent component"
-distinguished_from = "Comparative religion (broader disciplinary engagement with religious traditions beyond their mythological content); mythography (descriptive cataloguing of mythological content without comparative-theoretical framework); folklore studies (focused on contemporary oral tradition rather than ancient mythological corpora); cognitive science of religion (which engages cross-cultural patterns but explains them through evolved cognitive structures)"
-status_in_framework = "Principal methodological commitment alongside Sendy's Conditions of Coherence, the Biglino Method, the Hamlet's Mill precessional integration, and the broader corpus's disciplined epistemic-pluralism methodology"
+type = "Akademische und interpretierende Disziplin, die wiederkehrende Muster in geografisch und historisch getrennten mythologischen Korpora untersucht; eine der zentralen methodischen Verpflichtungen des Korpus"
+disciplinary_origin = "Romantische europäische Auseinandersetzung mit nichtwestlichen Mythologien im späten 18. Jahrhundert; formale Entstehung als Disziplin im 19. Jahrhundert mit Friedrich Max Müllers vergleichend-philologischer und James George Frazers anthropologisch-vergleichender Arbeit"
+principal_methodological_schools = "Solarmythologie (Müller); anthropologisch-vergleichend (Frazer, Tylor, Lang); diffusionistisch (Bastian, Wiener Schule, Panbabylonismus); trifunktionaler Strukturalismus (Dumézil); religionsphänomenologisch (Eliade, Otto, van der Leeuw); archetypisch-jungianisch (Jung, Neumann, Campbell); strukturalanthropologisch (Lévi-Strauss); kognitive Religionswissenschaft (Boyer, Atran, Barrett)"
+principal_motif_clusters = "Schöpfungserzählungen; Fluterzählungen; Traditionen von Himmelsbesuchern und Kulturbringern; Theomachie / Krieg unter den Göttern; göttliche Abstammung und göttlich-menschliche Hybride; Traditionen vom Goldenen Zeitalter und den Weltzeitaltern; das Muster des sterbenden und auferstehenden Gottes; kosmischer Berg und Weltachse; kosmischer Baum; Abstieg in die Unterwelt"
+corpus_position = "Die vergleichende Mythologie ist eine der wichtigsten methodischen Festlegungen des Korpus; die kulturübergreifenden Muster werden als reale, erklärungsbedürftige Belege genommen; der Korpus unterscheidet sich vom Rückzug der heutigen Disziplin aus großen theoretischen Entwürfen"
+corpus_explanatory_framework = "Kulturübergreifende Muster werden vor allem durch gemeinsame historische Bezugspunkte im Rahmen des Allianz-Kontakts erklärt, verbunden mit dem präzessionalen Strukturrahmen von Hamlet's Mill; der Korpus verlangt nicht, kognitionswissenschaftliche, diffusionistische oder archetypische Erklärungen zu verwerfen, behandelt sie aber als Teilerklärungen, die die Komponente des gemeinsamen Bezugspunkts verfehlen"
+distinguished_from = "Vergleichende Religionswissenschaft (umfassendere disziplinäre Auseinandersetzung mit religiösen Traditionen über ihren mythologischen Gehalt hinaus); Mythographie (beschreibende Katalogisierung mythologischen Gehalts ohne vergleichend-theoretischen Rahmen); Volkskunde (auf gegenwärtige mündliche Überlieferung statt auf antike mythologische Korpora ausgerichtet); kognitive Religionswissenschaft (die kulturübergreifende Muster untersucht, sie aber durch evolvierte kognitive Strukturen erklärt)"
+status_in_framework = "Zentrale methodische Verpflichtung neben Sendys Kohärenzbedingungen, der Biglino-Methode, der präzessionalen Einbindung von Hamlet's Mill und der disziplinierten Methodik des epistemischen Pluralismus des Korpus insgesamt"
 +++
 
 **Comparative mythology** is the academic discipline that studies myths from

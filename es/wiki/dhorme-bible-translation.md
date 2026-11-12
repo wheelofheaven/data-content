@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,16 +15,25 @@ editorial_pass = "2026-05"
 entry_type = "biographical and methodological"
 claim_type = "direct"
 alternative_names = ["Bible de la Pléiade (Dhorme)", "La Bible: L'Ancien Testament (Dhorme)", "Dhorme Old Testament", "Bible Dhorme"]
+see_also = [
+    { title = "Elohim", path = "wiki/elohim", description = "La forma plural que Dhorme conserva como Élohim en lugar de traducirla como Dieu." },
+    { title = "Yahvé", path = "wiki/yahweh", description = "El Tetragrámaton, que Dhorme vierte fonológicamente como Iahvé en lugar de sustituirlo por un título teológico." },
+    { title = "Génesis", path = "wiki/genesis", description = "El libro cuyo versículo inicial ejemplifica el método de vocabulario conservado de Dhorme." },
+    { title = "Lista de lecturas etimológicas", path = "wiki/list-of-etymological-readings", description = "El catálogo filológico del marco que se apoya en el aparato de notas de Dhorme." },
+    { title = "Lista de lecturas exegéticas", path = "wiki/list-of-exegetic-readings", description = "El catálogo referencial complementario construido sobre el mismo fundamento de vocabulario literal." },
+    { title = "Hebreo", path = "wiki/hebrew", description = "La lengua fuente cuyos términos operativos transmite intactos la traducción de Dhorme." },
+    { title = "La curva del dragón", path = "articles/the-dragon-curve", description = "El Explicativo sobre los « grands dragons » de Dhorme en Génesis 1:21: el único versículo de su página que el primer Mensaje nunca cita." },
+]
 
 [extra.infobox]
-type = "French scholarly translation of the Hebrew Bible / Old Testament"
-translator = "Édouard Dhorme (1881–1966), with collaborators Frank Michaéli and Antoine Guillaumont"
+type = "Traducción académica francesa de la Biblia hebrea / Antiguo Testamento"
+translator = "Édouard Dhorme (1881–1966), con los colaboradores Frank Michaéli y Antoine Guillaumont"
 publisher = "Éditions Gallimard, Bibliothèque de la Pléiade"
 publication_dates = "Tome I (1956); Tome II (1959)"
-source_text = "Masoretic Text of the Hebrew Bible, with consultation of the Septuagint and the broader cuneiform-and-Semitic philological apparatus"
-distinguishing_features = "Literal preservation of original vocabulary including *Élohim* (not *Dieu*) and *Iahvé* (rendering of the Tetragrammaton); extensive philological footnotes; introduction surveying the textual history; collaboration with specialists for certain books (Michaéli: Ezra, Nehemiah; Guillaumont: Maccabees)"
-framework_significance = "The version Claude Vorilhon reports having with him during his 1973 contact; the textual mediator through which the Raëlian source material's Hebrew-Bible references reach contemporary readers"
-status = "Out of print in the original Pléiade edition; secondhand copies remain widely available; the translation is referenced extensively in subsequent French-language neo-euhemerist scholarship"
+source_text = "Texto masorético de la Biblia hebrea, con consulta de la Septuaginta y del aparato filológico cuneiforme y semítico más amplio"
+distinguishing_features = "Conservación literal del vocabulario original, incluidos *Élohim* (no *Dieu*) e *Iahvé* (versión del Tetragrámaton); amplias notas filológicas; introducción que repasa la historia del texto; colaboración con especialistas para ciertos libros (Michaéli: Esdras, Nehemías; Guillaumont: Macabeos)"
+framework_significance = "La versión que Claude Vorilhon dice haber llevado consigo durante su contacto de 1973; el mediador textual a través del cual las referencias del material de fuente raeliano a la Biblia hebrea llegan a los lectores contemporáneos"
+status = "Agotada en la edición original de la Pléiade; los ejemplares de segunda mano siguen siendo fáciles de encontrar; la traducción se cita ampliamente en la erudición neoevemerista posterior en lengua francesa"
 +++
 
 The **Dhorme Bible** is the French translation of the Old Testament prepared by the French Assyriologist and Semitologist **Édouard Dhorme** (1881–1966), published by Gallimard in the Bibliothèque de la Pléiade in two volumes — Tome I in 1956 and Tome II in 1959. The translation is widely regarded among scholars as one of the most philologically rigorous French versions of the Hebrew Bible, the product of a fifty-year career of professional study of Hebrew, Akkadian, Ugaritic, and the broader Semitic and ancient Near Eastern philological tradition. The translation is distinguished from the standard French Catholic versions (notably the *Bible de Jérusalem*, in production at the same École Biblique during the same period) by its literal preservation of the operational vocabulary of the original Hebrew text — including the preservation of the plural form ***Élohim*** rather than the conventional theological translation *Dieu*, and the preservation of the Tetragrammaton as ***Iahvé*** rather than the conventional *l'Éternel* or *le Seigneur*.

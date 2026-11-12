@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,17 +15,26 @@ category = "Science & Technology"
 entry_type = "concept"
 alternative_names = ["astrobiology", "exobiology (earlier synonymous term)", "bioastronomy", "xenobiology (related but distinct)", "astrobiologie (French)", "Astrobiologie (German)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "宏观生物学", path = "wiki/macrobiology", description = "姊妹学科：天体生物学研究宇宙中的生命，宏观生物学则研究作为宇宙中更大生命单位的生命。" },
+    { title = "耶洛因母行星", path = "wiki/elohim-home-planet", description = "框架作为天体生物学所缺少的第二个生命实例而提出的世界。" },
+    { title = "古代宇航员假说", path = "wiki/ancient-astronaut-hypothesis", description = "解读历史性而非当代性接触证据的相邻传统。" },
+    { title = "宇宙链", path = "wiki/cosmic-chain", description = "框架对文明播种生命的论述，是其定向泛种论解读的背景。" },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "将创造主张与主流天体生物学并置的更广框架。" },
+    { title = "德雷克方程", path = "wiki/drake-equation", description = "计算可通讯文明数量的概率框架，以及它所引出的费米问题。" },
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "其“单一数据点”论证框定了文集对天体生物学问题之解读的作者。" },
+]
 
 [extra.infobox]
-type = "Multidisciplinary scientific field studying the origin, evolution, distribution, and future of life in the universe; subject of substantive corpus engagement at the intersection of mainstream science and the alliance-contact framework"
-discipline_founding = "Joshua Lederberg coined *exobiology* in 1960; the substantial NASA Exobiology Program established 1959-1960; the term *astrobiology* came into general use in the 1990s with the founding of the NASA Astrobiology Institute (1998)"
-principal_methodological_constraint = "Sendy's single-data-point constraint (1970): mainstream biology has access to only terrestrial life as its empirical foundation; general laws of biology derived from this single example operate under substantive methodological limitation"
-principal_research_methods = "Observational astronomy (telescopes, spectroscopy of exoplanet atmospheres); laboratory simulations of extraterrestrial conditions; in situ measurement (Mars rovers, planned Europa mission); theoretical modeling and computer simulation; meteorite analysis; extremophile biology research"
-principal_contemporary_programs = "Exoplanet detection (Kepler, TESS, JWST); Mars missions (Curiosity, Perseverance); Europa Clipper (launched 2024); SETI (Allen Telescope Array, Breakthrough Listen); origin-of-life research (RNA World, alkaline hydrothermal vents, metabolism-first hypotheses)"
-principal_pre_modern_history = "Greek atomist tradition (Anaxagoras, Democritus, Epicurus, Lucretius); medieval Islamic engagement (al-Kindi, al-Biruni); Renaissance plurality-of-worlds tradition (Nicholas of Cusa, Bruno, Kepler); early-modern engagement (Fontenelle, Huygens); 19th-century engagement (Flammarion); 20th-century engagement (Tsiolkovsky, Sagan)"
-corpus_position = "Mainstream astrobiology engaged as substantive scientific work; Vorilhon-source content articulated as documenting alliance-contact narrative that provides the substantive second data point Sendy articulated as resolution to the single-data-point constraint; mainstream science and alliance-contact framework presented as substantively complementary research programs rather than as competing alternatives"
-distinguished_from = "SETI narrowly (the search for technological signals; one component of astrobiology); UFO studies (the engagement with reported sightings; methodologically distinct register); the Ancient Astronaut Hypothesis (the engagement with historical evidence for past contact; substantively adjacent but distinct discipline); xenobiology (the speculative discipline of designing or imagining non-Earth-like biological systems)"
-status_in_framework = "Principal contemporary scientific discipline engaging the corpus's empirical claims about extraterrestrial civilizational existence; substantive corpus engagement at the intersection of mainstream science and the alliance-contact framework"
+type = "研究宇宙中生命的起源、演化、分布与未来的科学领域；Wheel of Heaven 框架通过定向泛种论的视角来解读的主流学科"
+discipline_founding = "*Exobiology*（外空生物学）一词由约书亚·莱德伯格于 1960 年创造；NASA 外空生物学计划设立于 1959–1960 年；*astrobiology*（天体生物学）一词在 1990 年代开始普遍使用，并随 NASA 天体生物学研究所的成立（1998）而正式确立"
+principal_methodological_constraint = "桑迪的单一数据点问题（1970）：生物学只有地球生命这一个例子，因此由此得出的任何一般规律在找到或得到第二个案例之前都只是暂时性的"
+principal_research_methods = "观测天文学与大气光谱学；在实验室中模拟行星环境与前生命化学；原位测量（火星车、欧罗巴快船）；理论建模；陨石分析；极端微生物生物学"
+principal_contemporary_programs = "系外行星探测（开普勒、TESS、詹姆斯·韦伯太空望远镜）；火星任务（好奇号、毅力号）；欧罗巴快船（2024 年发射）；SETI（艾伦望远镜阵列、突破聆听）；生命起源研究（RNA 世界、热液喷口、代谢优先）"
+principal_pre_modern_history = "希腊原子论者（阿那克萨哥拉、德谟克利特、伊壁鸠鲁、卢克莱修）；中世纪伊斯兰思想（铿迪、比鲁尼）；文艺复兴时期的世界多元论传统（库萨的尼古拉、布鲁诺、开普勒）；近代早期的作者（丰特奈尔、惠更斯）；十九世纪的弗拉马里翁"
+corpus_position = "将主流天体生物学视为正当科学加以讨论；本框架将地球生命解读为耶洛因的设计之作——定向泛种论（克里克与奥格尔，1973）的一个具体版本——同时承认这一解读尚未按科学标准得到独立验证"
+distinguished_from = "SETI（搜寻技术特征；天体生物学的一部分）；UFO／UAP 研究（另一种证据层面）；远古外星人假说（历史证据而非当代证据）；异种生物学（设计非地球类型的生物化学）"
+status_in_framework = "与文集的创造主张最直接相关的当代科学学科；本框架在其中定位其定向泛种论解读的领域"
 +++
 
 **Astrobiology** is the scientific study of life in the universe — its origin,

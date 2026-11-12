@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,20 +14,29 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
-alternative_names = ["Plurality of worlds", "Plurality of inhabited worlds", "Many-worlds cosmology (in the classical sense, distinct from the Everett quantum interpretation)", "Pluralität der Welten", "Pluralité des mondes"]
+alternative_names = ["世界的多元性", "有生命居住之世界的多元性", "多世界宇宙論（古典意義上，有別於埃弗雷特的量子詮釋）", "Pluralität der Welten", "Pluralité des mondes"]
+see_also = [
+    { title = "德雷克方程", path = "wiki/drake-equation", description = "二十世紀估算眾多世界中有多少有人居住的嘗試。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "文集認為宇宙多元論必然要求其存在的外星文明。" },
+    { title = "無限", path = "wiki/infinity", description = "為多重世界之組合論證奠基的無限尺度前提。" },
+    { title = "生命工程", path = "wiki/life-engineering", description = "在文集解讀中生命藉以在多重世界間傳播的機制。" },
+    { title = "近距離接觸清單", path = "wiki/list-of-close-encounters", description = "文集讀作有人居住之世界間已建立接觸的紀錄。" },
+    { title = "合成基因組學", path = "wiki/synthetic-genomics", description = "正接近宇宙多元論所描述之播種世界規模的地球能力。" },
+    { title = "簽名與設計者們", path = "/articles/the-signature-and-the-designers/", description = "將休謨那位未被充分決定的設計者視為一項發現而非一次拆解——有限、複數且具物質性。" },
+]
 
 [extra.infobox]
-type = "Philosophical and scientific doctrine that the universe contains many worlds (or many *inhabited* worlds) beyond Earth"
-opposed_position = "Aristotelian unique-world cosmology — the doctrine that there is one world (the sublunary terrestrial sphere plus the supralunary celestial spheres) and no other"
-ancient_origin = "Greek atomism, formulated by Leucippus and Democritus (5th century BCE); systematised by Epicurus (341–270 BCE); transmitted to Latin antiquity by Lucretius (*De Rerum Natura*, c. 50 BCE)"
-medieval_developments = "1277 Paris Condemnations of Étienne Tempier opening philosophical space for plurality; Jean Buridan (14th century); Nicole Oresme (14th century); Nicholas of Cusa (*De Docta Ignorantia*, 1440)"
-early_modern_milestones = "Copernicus (*De Revolutionibus*, 1543); Bruno (*De l'infinito universo e mondi*, 1584; executed 1600); Kepler; Fontenelle (*Entretiens sur la pluralité des mondes*, 1686); Huygens (*Cosmotheoros*, 1698); Kant (*Allgemeine Naturgeschichte und Theorie des Himmels*, 1755)"
-nineteenth_century = "Whewell-Brewster debate (*Of the Plurality of Worlds*, 1853; *More Worlds Than One*, 1854); Percival Lowell and the Mars canals controversy (late 19th–early 20th c.)"
-twentieth_century = "Drake equation (Frank Drake, 1961); SETI Project Ozma (1960) onward; Fermi paradox (Enrico Fermi, c. 1950)"
-twenty_first_century = "First exoplanets discovered around pulsar PSR B1257+12 (Wolszczan & Frail, 1992); first around main-sequence star 51 Pegasi b (Mayor & Queloz, 1995; Nobel Prize 2019); Kepler mission (2009–2018); JWST atmospheric biosignature searches (2022 onward); approximately 6,000+ confirmed exoplanets as of 2026"
-framework_position = "Foundational rather than optional: the corpus's broader account requires cosmic pluralism — the Elohim came from another world, humanity was synthesised by extraterrestrial intelligence, and humanity is in turn destined to create new humanities on other worlds"
-key_source_passage = "Vorilhon (1974): \"Since the beginning of time it has been so: people create other people like themselves on other planets. The cycle continues. Some die, others take over. We are your creators, and you will create other humanities.\""
-key_biblical_cross_reference = "Ecclesiastes 3:15 — \"That which hath been is now; and that which is to be hath already been\""
+type = "主張宇宙在地球之外包含許多世界（或許多*有生命居住的*世界）的哲學與科學學說"
+opposed_position = "亞里斯多德的單一世界宇宙論——主張只有一個世界（月下的地界球層加上月上的天界球層）而別無其他的學說"
+ancient_origin = "希臘原子論，由留基伯與德謨克利特提出（公元前 5 世紀）；由伊比鳩魯（公元前 341–270 年）系統化；經盧克萊修（*De Rerum Natura*，約公元前 50 年）傳入拉丁古代"
+medieval_developments = "1277 年艾蒂安·唐皮耶的巴黎禁令為多元世界開啟了哲學空間；讓·布里丹（14 世紀）；尼可·奧里斯姆（14 世紀）；庫薩的尼古拉（*De Docta Ignorantia*，1440）"
+early_modern_milestones = "哥白尼（*De Revolutionibus*，1543）；布魯諾（*De l'infinito universo e mondi*，1584；1600 年被處決）；克卜勒；豐特奈爾（*Entretiens sur la pluralité des mondes*，1686）；惠更斯（*Cosmotheoros*，1698）；康德（*Allgemeine Naturgeschichte und Theorie des Himmels*，1755）"
+nineteenth_century = "休厄爾與布魯斯特之爭（*Of the Plurality of Worlds*，1853；*More Worlds Than One*，1854）；帕西瓦爾·羅威爾與火星運河爭議（19 世紀晚期至 20 世紀初）"
+twentieth_century = "德雷克方程式（法蘭克·德雷克，1961）；SETI 奧茲瑪計畫（1960）及其後；費米悖論（恩里科·費米，約 1950）"
+twenty_first_century = "首批系外行星發現於脈衝星 PSR B1257+12 周圍（Wolszczan 與 Frail，1992）；首顆主序星周圍的系外行星飛馬座 51b（Mayor 與 Queloz，1995；2019 年諾貝爾獎）；克卜勒任務（2009–2018）；JWST 大氣生物特徵搜尋（2022 年起）；截至 2026 年已確認超過 6,000 顆系外行星"
+framework_position = "是基礎而非可選的：本文集更廣的記述需要宇宙多元論——耶洛因來自另一個世界，人類由地外智慧合成，而人類反過來也注定要在其他世界上創造新的人類"
+key_source_passage = "沃里隆（1974）：「自時間之初便是如此：人在其他行星上創造與自己相似的人。循環延續下去。有些滅亡，另一些接續。我們是你們的創造者，而你們將創造其他的人類。」"
+key_biblical_cross_reference = "傳道書 3:15——「現今的事早先就有了，將來的事早已也有了」"
 +++
 
 **Cosmic pluralism** is the philosophical and scientific doctrine that the universe contains **many worlds beyond Earth** — and, in its stronger form, **many inhabited worlds**. The doctrine has developed across approximately 2,500 years of philosophical and scientific reflection and has stood, across most of that period, in opposition to the dominant Aristotelian unique-world cosmology that held there to be one world only. The 20th and 21st centuries have seen cosmic pluralism shift from contested philosophical speculation to an empirically grounded scientific position: the documented existence of more than **6,000 confirmed exoplanets** as of 2026, the increasing identification of potentially habitable worlds in the *habitable zones* of their host stars, the development of biosignature-detection technologies in space telescopes (JWST and successors), and the continuing programmes of the **Search for Extraterrestrial Intelligence (SETI)** have together moved the question of *whether* there are other worlds from open to settled, leaving open the question of whether the documented other worlds are *inhabited*.

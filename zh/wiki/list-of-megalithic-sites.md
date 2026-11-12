@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,16 +15,26 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
 alternative_names = ["Catalogue of megalithic sites", "Ancient megalithic architecture index", "Cyclopean and megalithic construction reference"]
+see_also = [
+    { title = "古代建造者", path = "wiki/ancient-builders", description = "处理本目录所列遗址由谁建造的配对条目。" },
+    { title = "考古天文学", path = "wiki/archaeoastronomy", description = "在许多被编目遗址中记录到的系统性天文朝向。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "框架认为曾间歇性支持古代先进建造的造物者。" },
+    { title = "神话素与神话母题清单", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "文集与巨石物证并读的神话记录。" },
+    { title = "盘古大陆", path = "wiki/pangaea", description = "早于并框定文集深层建造年表的洪水前陆地。" },
+    { title = "创世记", path = "wiki/genesis", description = "为文集对早期先进人类文明之记述提供锚点的源叙事。" },
+    { title = "哥贝克力石阵", path = "wiki/gobekli-tepe", description = "约公元前 9600 年的圣所——本目录所涉及的最早定年遗址。" },
+    { title = "狮身人面像", path = "wiki/great-sphinx", description = "吉萨的狮形纪念物——本目录所涉及的另一处定年异常的遗址。" },
+]
 
 [extra.infobox]
-type = "Reference catalogue of megalithic archaeological sites"
-scope = "Pre-Pottery Neolithic through pre-Columbian eras; primary focus on sites with substantial framework relevance"
-criteria_for_inclusion = "Substantial use of large stone blocks (megaliths); evidence of advanced construction technique; documented archaeoastronomical alignments; cultural prominence; or framework relevance for the corpus's interpretive work"
-date_ranges_represented = "From c. 9600 BCE (Göbekli Tepe and Pre-Pottery Neolithic complex) to c. 1600 CE (late pre-Columbian Andean and Mesoamerican)"
-catalogue_columns = "Site name; location; conventional dating; construction features; archaeoastronomy where applicable; framework reading"
-mainstream_archaeology_position = "Sites are products of human civilisations using documented construction techniques appropriate to their periods; framework readings of extreme antiquity or extraterrestrial-assistance are not endorsed by mainstream archaeology"
-framework_position = "Megalithic record preserves operational evidence of advanced ancient construction capability across multiple regions and time-periods, consistent with the corpus's account of intermittent Elohim-supported cultural development during the Earth project's middle and later phases"
-caveat = "Coverage is selective rather than exhaustive; dating and construction-feature claims follow mainstream archaeological consensus where one exists, with contested or alternative claims explicitly flagged"
+type = "巨石考古遗址的参考目录"
+scope = "前陶新石器时代至前哥伦布时代；主要关注与本框架高度相关的遗址"
+criteria_for_inclusion = "大量使用巨型石块（巨石）；先进建造技术的证据；有记载的考古天文对准；文化上的显著地位；或与文集诠释工作相关"
+date_ranges_represented = "从约公元前 9600 年（哥贝克力石阵及前陶新石器复合体）到约公元 1600 年（前哥伦布时代晚期的安第斯与中美洲）"
+catalogue_columns = "遗址名称；地点；常规定年；建造特征；适用时的考古天文学；本框架的解读"
+mainstream_archaeology_position = "这些遗址是人类文明运用与其时代相称、有据可查的建造技术所建；关于极古年代或外星协助的本框架解读不为主流考古学所认可"
+framework_position = "逐一登记各遗址，按各论点自身的等级标注，并完整列出主流考古学的解释；没有任何遗址、对准或重新定年构成本框架的证据"
+caveat = "覆盖是选择性的而非穷尽的；定年与建造特征的主张在存在主流考古共识时遵循该共识，有争议或另类的主张则明确标出"
 +++
 
 This entry catalogues megalithic sites of the ancient world — large stone structures whose construction features, dating, or astronomical alignments make them objects of substantial archaeological interest and, in many cases, objects of the Wheel of Heaven framework's interpretive engagement. *Megalith* derives from the Greek *megas* "great" + *lithos* "stone," and is used in archaeology to designate any structure incorporating large stone blocks as principal construction elements. The conventional archaeological literature treats the megalithic phenomenon as a feature of the Neolithic and Bronze Age periods (c. 9600 BCE through c. 1500 BCE in different regional contexts), with later megalithic traditions (Andean, Mesoamerican, sub-Saharan African) extending in some cases into the second millennium CE. The catalogue's scope encompasses this full range.

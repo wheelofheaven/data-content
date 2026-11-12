@@ -6,11 +6,11 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-05-15"
+translation_updated = "2026-11-12"
 source_updated = "2026-08-06"
-translation_stale = true
+translation_stale = false
 translation_sync = 100
-redirect_to = { title = "Cosmic Chain", path = "/wiki/cosmic-chain/" }
+redirect_to = { title = "宇宙の連鎖", path = "/wiki/cosmic-chain/" }
 category = "Science & Technology"
 claim_type = "direct"
 editorial_pass = "2026-05"

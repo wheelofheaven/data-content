@@ -6,28 +6,33 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Noah (English)", "נֹחַ (Hebrew Noaḥ)", "Νῶε (Greek Nōe)", "نوح (Arabic Nūḥ)", "the Eden-lineage flood survivor", "the ark-builder", "the post-flood patriarch"]
+alternative_names = ["Noah (영어)", "נֹחַ (히브리어 Noaḥ)", "Νῶε (그리스어 Nōe)", "نوح (아랍어 Nūḥ)", "the Eden-lineage flood survivor", "the ark-builder", "the post-flood patriarch"]
 timeline = ["age-of-cancer", "age-of-gemini"]
+see_also = [
+    { title = "대홍수", path = "wiki/great-flood", description = "방주 보존 작전이 그것에 맞서 실행된 쌍둥이자리 시대의 대격변." },
+    { title = "루시퍼", path = "wiki/lucifer", description = "그 개입이 방주 작전을 통해 노아를 보존한 유배된 창조자 분파." },
+    { title = "노아의 방주", path = "wiki/noahs-ark", description = "동물 쌍이 아니라 유전 표본을 실은 차폐된 비행체로 읽히는 봉인된 선박." },
+    { title = "테오마키", path = "wiki/theomachy", description = "홍수 결정의 틀을 이룬 창조자 분파 간의 갈등." },
+    { title = "바벨", path = "wiki/babel", description = "평의회의 경계심이 본국과 노아의 언약 사이의 분리를 보여 주는 홍수 이후의 회복 프로젝트." },
+    { title = "야훼", path = "wiki/yahweh", description = "홍수 이후 그의 표결에 '다시는 없으리라'는 약속이 달려 있는 평의회 지도자." },
+]
 
 [extra.infobox]
-type = "Biblical figure; principal human operational partner of the exiled-creator (Serpentine) faction in the ark-preservation project"
-hebrew_name = "נֹחַ (Noaḥ, 'rest, comfort')"
-biblical_dating = "Cancer-Gemini boundary in corpus chronology (c. 6,690 BCE); mainstream biblical chronology places traditional Genesis flood dating between 2300-3000 BCE in Ussher-and-Septuagint frames"
-principal_biblical_location = "Genesis 5:29-10:32; brief subsequent references in Isaiah 54:9, Ezekiel 14:14-20, Matthew 24:37-39, Luke 17:26-27, Hebrews 11:7, 1 Peter 3:20, 2 Peter 2:5"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Flood' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in the Age of Cancer chapter"
-core_corpus_articulation = "Eden-lineage human operating as principal operational partner of the exiled-creator faction conducting clandestine preservation of life through orbital spacecraft (the Genesis 'ark') against Council-ordered nuclear attack on Earth"
-flood_event = "Council-ordered nuclear-missile attack on Earth conducted against the original creator project; the exiled creators (Serpentine faction) conducted clandestine preservation of life through orbital spacecraft; conducted at the Cancer-Gemini boundary (c. 6,690 BCE corpus chronology)"
-ark_specifications = "Hebrew *tevah* (sealed vessel, not boat) with three levels (Genesis 6:16); lifted 'above the earth' (Genesis 7:17 *vatarom me-al ha-aretz*) rather than 'on the water'; cargo genetic (single living cells per species) rather than physical animal pairs"
-post_flood_covenant = "Private arrangement between exiled creators present on the ground and Noah's family (Genesis 9); distinct from home-world Council whose non-participation is demonstrated by subsequent Babel-project surprise"
-distinguished_from = "Mainstream uniquely-righteous-individual reading; ancient-astronaut alternative readings; mainstream biblical-scholarly Documentary Hypothesis source-critical reading; conservative young-earth creationist literal-global-flood reading"
-status_in_framework = "Foundational flood-narrative figure; principal Cancer-Gemini-age figure; principal Eden-lineage post-flood patriarch; structurally parallel to contemporary Aquarian-age humanity facing cataclysmic-threshold engagement"
+type = "성경 인물. 방주 보존 작전에서 망명한 루시퍼 파의 주요 인간 협력자"
+hebrew_name = "נֹחַ (Noaḥ, '안식, 위로')"
+biblical_dating = "코퍼스 연대기로 쌍둥이자리 시대(기원전 약 6,690년). 전통적 창세기 연대기는 어셔와 칠십인역 틀에서 대홍수를 기원전 약 2300년에서 약 3000년 사이로 봅니다"
+principal_source = "*진실을 말하는 책*(보릴롱, 1974), '대홍수' 절. *설계자들로부터의 메시지*(2005)에서 통합"
+mesopotamian_counterparts = "지우수드라(수메르), 아트라하시스와 우트나피슈팀(아카드) — 창세기 기사가 다시 빚어낸 홍수 생존자 인물"
+ark_reading = "히브리어 *tevah*(배가 아니라 봉인된 상자). 물리적 동물 쌍이 아니라 유전 표본을 화물로 실은, '땅 위로 들어 올려진'(창세기 7:17) 차폐 비행체로 읽힙니다"
+post_flood_covenant = "땅 위의 망명한 창조자들과 노아의 가족 사이의 사적 약정(창세기 9장)으로 읽히며, 바벨에서 놀라움을 보인 것에서 별개임이 드러나는 본국 평의회와 구별됩니다"
+distinguished_from = "주류의 의로운 남은 자 해석, 문서 가설의 자료 비평적 해석, 젊은 지구 창조론의 문자적 전 지구 홍수 해석"
 +++
 
 **Noah** (Hebrew נֹחַ, *Noaḥ*, "rest" or "comfort") is the flood-survivor

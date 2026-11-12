@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -16,19 +16,27 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["hexagram", "Magen David (מָגֵן דָּוִד, 'Shield of David')", "Solomon's Seal (Seal of Solomon)", "Hindu Shatkona (षट्कोण, 'six-cornered')", "Star of Goliath (older Karaite designation)", "Creator's Star", "Hex Star"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "סמל האינסוף הראליאני", path = "wiki/raelian-symbol-of-infinity", description = "הסמל המורכב שמגן דוד הוא רכיבו החיצוני." },
+    { title = "סווסטיקה", path = "wiki/swastika", description = "הרכיב האחר של אותו סמל, המקודד את ממדו הזמני של האינסוף." },
+    { title = "אינסוף", path = "wiki/infinity", description = "הממד המרחבי שהמשולשים השלובים מייצגים עבור המסגרת." },
+    { title = "הברית", path = "wiki/the-alliance", description = "הברית בין היוצר לנברא, שסנדי קורא את המשולשים השלובים כמקודדים אותה." },
+    { title = "קוסמולוגיה פרקטלית", path = "wiki/fractal-cosmology", description = "המבנה של ״כמו למעלה כך למטה״ החוצה קני מידה, שההקסגרמה מציירת." },
+    { title = "החתימה הכפולה", path = "wiki/doubled-signature", description = "עקרון הקורפוס של קידוד איקונוגרפי זוגי, שסמל זה מדגים." },
+]
 
 [extra.infobox]
 type = "Religious-iconographic symbol; hexagram comprising two intertwined equilateral triangles forming a six-pointed star; substantial cross-cultural distribution across multiple religious-traditional contexts"
-basic_form = "Two intertwined equilateral triangles, one pointing upward and one pointing downward, forming a six-pointed star (hexagram); the geometric structure produces six points and twelve outer line-segments forming the principal hexagonal outline"
-hebrew_designation = "*Magen David* (מָגֵן דָּוִד, 'Shield of David'); the Hebrew designation became the principal Jewish-cultural designation across the medieval and modern periods"
-oldest_known_usage = "Substantial pre-Jewish-symbol cross-cultural usage extending back at least 4,000-5,000 years across Mesopotamian, Mediterranean, and South Asian traditions; the specific Jewish-symbol identification is principally modern (17th century onward)"
-principal_traditional_meanings = "Cosmic correspondence (Hermetic 'as above, so below'); union of male and female divine principles (Hindu Shatkona); union of opposites and four-elements integration (Hermetic-alchemical); magical-protective seal (Solomon's Seal traditions); Jewish-cultural identification (modern Jewish-symbol usage); the alliance covenant between creators and human creation (Sendy interpretive contribution); the spatial dimension of infinity (Raëlian framework)"
-principal_cross_cultural_traditions = "Hindu (Shatkona, principally Tantric-yantra usage); Hermetic-alchemical (the four-elements-integration framework); Solomon's Seal traditions (magical-protective contexts across medieval Jewish, Christian, and Islamic traditions); Mesopotamian and ancient Mediterranean hexagram usage; medieval Christian and Islamic religious-architectural usage; modern Jewish-cultural and Zionist-political usage; Raëlian-framework iconographic correlate of the spatial dimension of infinity"
-position_in_raelian_framework = "Outer component of the Raëlian Symbol of Infinity (the composite emblem with central swastika or galaxy-spiral); represents the spatial dimension of infinity through the Hermetic 'as above, so below' principle; in Sendy's distinctive interpretive contribution, additionally represents the alliance covenant between the creators (upward triangle) and the human creation (downward triangle)"
-modern_jewish_symbol_status = "Principal Jewish-cultural symbol since approximately the late nineteenth century; adopted by the Zionist movement at the First Zionist Congress (1897); substantial Holocaust-period usage as the yellow-badge identification; adopted on the Israeli national flag (1948); continues as the principal Jewish-cultural-religious symbol in contemporary contexts"
-distinguished_from = "The Swastika (the other principal component of the Raëlian Symbol of Infinity, with its own substantial pre-Nazi religious-traditional history); the Raëlian Symbol of Infinity as composite emblem (treated under separate entry); the broader cross-cultural pentagram and other star-iconographic forms (which operate within distinct iconographic categories); the various national-flag and political-symbol usages (which operate within specific contemporary political contexts)"
-status_in_source_material = "Substantially documented; the principal Yahweh-delivered passages establish both the symbol's specific Raëlian-framework semantic content and its identification with the Hermetic 'as above, so below' principle; Sendy's distinctive interpretive contribution provides substantial additional doctrinal content"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Watching Over the Chosen People' content (the principal Yahweh passage on the emblem); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' section (the 'as above, so below' explicit articulation and the Bardo Thodol cross-reference); Jean Sendy, *L'ère du Verseau* (1970), the seal-of-Solomon-as-alliance-covenant interpretive contribution"
+basic_form = "שני משולשים שווי צלעות שלובים, אחד מצביע מעלה ואחד מטה, היוצרים כוכב בן שש קצוות (הקסגרם); שש קצוות חיצוניות סביב משושה מרכזי"
+hebrew_designation = "*מגן דוד* (מָגֵן דָּוִד), השם היהודי המקובל בימי הביניים ובעת החדשה"
+oldest_known_usage = "להקסגרם שימוש בין־תרבותי במסורות מסופוטמיות, ים־תיכוניות ודרום־אסייתיות שקדם בהרבה לכל קשר יהודי; זיהויו הספציפי כסמל יהודי הוא מודרני (מן המאה השבע־עשרה ואילך)"
+principal_traditional_meanings = "התאמה קוסמית ('כמו למעלה כך למטה', הרמטי); איחוד העקרונות הזכרי והנקבי (השטקונה ההינדית); איחוד הניגודים וארבעת היסודות (הרמטי־אלכימי); חותם מגן (חותם שלמה); זהות יהודית (מודרני); הברית בין היוצרים לאנושות (סנדי); הממד המרחבי של האינסוף (המסגרת הראליאנית)"
+principal_cross_cultural_traditions = "הינדואיזם (שטקונה); הרמטי־אלכימי (צורת ארבעת היסודות); חותם שלמה (שימוש מאגי־מגן בהקשרים יהודיים, נוצריים ואסלאמיים בימי הביניים); שימוש בהקסגרם במסופוטמיה ובאגן הים התיכון; שימוש יהודי וציוני מודרני; המסגרת הראליאנית"
+position_in_raelian_framework = "הרכיב החיצוני של סמל האינסוף הראליאני (הסמל המורכב שבמרכזו צלב קרס או ספירלה גלקטית); מייצג את הממד המרחבי של האינסוף דרך 'כמו למעלה כך למטה'; בקריאתו של סנדי, חותם הברית בין היוצרים (המשולש הפונה מעלה) לאנושות (המשולש הפונה מטה)"
+modern_jewish_symbol_status = "הסמל היהודי העיקרי מאז בערך סוף המאה התשע־עשרה; אומץ על ידי התנועה הציונית בקונגרס הציוני הראשון (1897); נכפה כטלאי הזיהוי הצהוב תחת המשטר הנאצי; הוצב על דגל ישראל (1948)"
+distinguished_from = "צלב הקרס (הרכיב האחר של סמל האינסוף הראליאני); סמל האינסוף הראליאני עצמו (ערך נפרד); הפנטגרם וצורות כוכב אחרות; דגל ישראל כשימוש לאומי־פוליטי ספציפי"
+status_in_source_material = "מתועד; קטעי יהוה מעניקים לסמל את משמעות 'כמו למעלה כך למטה', וסנדי מוסיף את קריאת הברית"
+principal_text = "*הספר המגלה את האמת* (1974), 'השגחה על העם הנבחר'; *החייזרים לקחו אותי לכוכב שלהם* (1975), 'לא אל ולא נשמה'; ז'אן סנדי, *L'ère du Verseau* (1970)"
 +++
 
 **The Star of David** (Hebrew מָגֵן דָּוִד, *Magen David*, "Shield of David") is a

@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Cuatro semanas después de la Versión 03, el Departamento de Guerra de EE. UU. publicó la Versión 04 en war.gov/UFO: 40 archivos —14 documentos, 19 vídeos, 4 grabaciones de audio y 3 imágenes— del Departamento de Guerra, la NASA, la CIA, el FBI y, por primera vez, el Departamento de Energía. Los dos archivos destacados comparten un tema: instalaciones de armas nucleares. Una transcripción recién desclasificada registra una conferencia de Los Álamos de 1949 en la que físicos del Proyecto Manhattan —entre ellos Edward Teller, Norris Bradbury y el experto en meteoros Lincoln LaPaz— intentaron sin éxito explicar las « bolas de fuego verdes » vistas sobre el laboratorio; un archivo del Departamento de Energía documenta una intrusión en el espacio aéreo de septiembre de 2015 sobre la planta de armas nucleares de Pantex, cerca de Amarillo, Texas. El corpus registra la Versión 04 como contexto para leer el canon, no como una señal —incluido su tema nuclear, que toca el umbral atómico de 1945 que el canon trata como la apertura de la era presente, sin ser prueba acerca de él."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §III and §IX"
+filed_under = "El contexto del presente"
+cross_reference = "Era de Acuario, §III y §IX"
 canon_links = [
     { title = "Era de Acuario", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

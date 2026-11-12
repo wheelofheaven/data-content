@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -20,7 +20,7 @@ author_slug = "zara-zinsfuss"
 core_claim_ids = ["woh-claim-0005", "woh-claim-0006", "woh-claim-0007"]
 core_versions = { woh-claim-0005 = "0.2.0", woh-claim-0006 = "0.1.0", woh-claim-0007 = "0.1.0" }
 summary = "מאמר הליווי ל*העולם שמאחורי האודיסיאה* עוקב אחר התעלה מזרחה. הפילולוגיה הממוסדת תיעדה, בפירוט, כמה מן השירה ומן המיתוס היווניים הארכאיים הגיעו ממסופוטמיה, מאנטוליה, ומן הלבנט — האודיסיאה עצמה עומדת ביחס ספרותי בר־הדגמה אל עלילות גלגמש. הסבר זה פורש את המחקר הזה במלוא עוצמתו, מסמן בדיוק מה שאילה ספרותית יכולה ומה אין ביכולתה להוכיח על אודות ראשיתה של הציוויליזציה, ואז קורא את התמונה כולה דרך הקנון: יוון כמחוז של אותה היסטוריה אלוהימית עצמה שהקורפוס המקראי מתעד — נקובה כאזור של בסיס בוראים שהמיתולוגיה שלו משמרת עדויות, ומאות שנים לאחר הומרוס, מקבלת שליחים משלה."
-keywords = ["גלגמש", "אודיסיאה", "הומרוס", "המזרח הקדום", "מסופוטמיה", "מהפכת האוריינטליזציה", "M. L. West", "דניאל", "שליחים", "מיתולוגיה משווה"]
+keywords = ["גלגמש", "אודיסיאה", "הומרוס", "המזרח הקדום", "מסופוטמיה", "מהפכת האוריינטליזציה", "מ' ל' וסט", "דניאל", "שליחים", "מיתולוגיה משווה"]
 references = [
     # The Wheel of Heaven canon
     { id = "the-book-which-tells-the-truth", locator = "Chapter 3, paragraphs 214–216 (the emissaries to Persia and Greece); Chapter 5, paragraph 54 (Greece among the creator-base regions)" },

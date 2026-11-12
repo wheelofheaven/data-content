@@ -6,26 +6,33 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the alliance", "the cross-civilizational alliance", "the Eloha-human alliance", "the Noahic alliance", "the covenant partnership"]
+alternative_names = ["the alliance", "跨文明聯盟", "耶洛因—人類聯盟", "挪亞聯盟", "立約夥伴關係"]
 timeline = ["gemini", "taurus", "aries", "pisces", "aquarius"]
+see_also = [
+    { title = "永恆者議會", path = "wiki/council-of-the-eternals", description = "聯盟在挪亞時刻與之對立而成立的母星議會。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "聯盟將之與人類族群聯結的創造者文明。" },
+    { title = "宇宙鏈", path = "wiki/cosmic-chain", description = "聯盟身處其中的創造者文明深時傳承。" },
+    { title = "宇宙競爭", path = "wiki/cosmic-competition", description = "施用於聯盟所支持之各人類的評估框架。" },
+    { title = "先知", path = "wiki/prophet", description = "聯盟藉以進行中介接觸的人類中間人。" },
+]
 
 [extra.infobox]
-type = "Cross-civilizational political body; formal partnership between Eloha and human parties"
-formation_event = "The Noahic covenant (Genesis 9:8–17), at the post-Flood altar; c. 6,690 BCE on the corpus's chronology, late Age of Gemini"
-founding_parties = "The exiled Lucifer-faction creators (senior partner); the human Eden-lineage survivors led by Noah (junior partner)"
-subsequent_expansion = "Extended to include the broader Elohim civilization following the Taurus-age pardon of the exiled creators, c. 4,000–3,800 BCE"
-distinguished_from = "The Elohim civilization (broader population of ~7 billion on the home world); the Council of the Eternals (the home-world ruling body); the Lucifer faction (specific subset of dissenting creators); the prophetic tradition (specific contact mechanism the Alliance has used)"
-operational_modes = "Direct contact (pre-Flood through early Aries); indirect contact through prophets (mid-Aries through late Pisces); preparing for open return (Aquarian age)"
-current_status = "Active; operating in the post-1945 Aquarian-age preparation phase; preparing for the open return at the embassy"
-principal_text = "Genesis 9:8–17 (the Noahic covenant); subsequent Hebrew Bible covenant material (Abrahamic, Mosaic, Davidic); the broader Hebrew Bible's narrative of alliance-mediated history"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974); developed extensively across the broader Wheel of Heaven corpus"
+type = "跨文明的政治機構；耶洛因方與人類方之間的正式夥伴關係"
+formation_event = "挪亞之約（創世記 9:8–17），於洪水後的祭壇；依本文集年表約為公元前 6,690 年，雙子座時代晚期"
+founding_parties = "被流放的路西法派系造物者（資深夥伴）；挪亞所帶領的伊甸血統人類倖存者（資淺夥伴）"
+subsequent_expansion = "在約西元前 4,000–3,800 年金牛座時代被流放的創造者獲赦之後，擴展至包括耶洛因文明"
+distinguished_from = "耶洛因文明（母星上約 70 億人）；永恆者議會（母星的統治機構）；路西法派（創造者中持異議的部分）；先知傳統（聯盟曾使用的接觸機制）"
+operational_modes = "直接接觸（洪水前至白羊座時代初期）；透過先知的間接接觸（白羊座時代中期至雙魚座時代晚期）；為公開歸來作準備（水瓶座時代）"
+current_status = "活躍中；在 1945 年後的水瓶座時代準備階段運作；為在大使館公開歸來作準備"
+principal_text = "創世記 9:8–17（挪亞之約）；其後希伯來聖經的聖約材料（亞伯拉罕之約、摩西之約、大衛之約）；希伯來聖經中以聯盟為中介的歷史敘事"
+principal_framework_source = "《訴說真相之書》（沃里隆／雷爾，1974）；在 Wheel of Heaven 語料中有廣泛發展"
 +++
 
 **The Alliance** is the formal cross-civilizational political body that, on the Wheel of Heaven corpus's reading, structures the long historical relationship between the Elohim civilization and the Eden-lineage human population. It is one of the framework's principal interpretive constructions — the category the corpus uses to organize the Raëlian source material's account of the operational history connecting the Elohim creators with their human creations across the post-Flood millennia. On this reading the Alliance is not a metaphor or a theological abstraction but a historical political entity with a founding moment, founding parties, operations across documented history, and a projected future.

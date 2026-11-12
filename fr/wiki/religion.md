@@ -6,26 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["*religio* (Latin)", "*religare* (Latin verbal root, 'to bind/link')", "the cultivated bond", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
+alternative_names = ["*religio* (latin)", "*religare* (racine verbale latine, « lier, relier »)", "le lien cultivé", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Élohim", path = "wiki/elohim", description = "La civilisation créatrice avec laquelle la religion, selon la lecture du cadre, entretient le lien qui relie." },
+    { title = "Néo-évhémérisme", path = "wiki/neo-euhemerism", description = "La méthode interprétative par laquelle le cadre décode mythe et religion comme mémoire d'un contact réel." },
+    { title = "Raëlisme", path = "wiki/raelism", description = "Le mouvement qui se définit comme une religion athée au sens de religare." },
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "L'auteur dont la lecture de religare comme lien précède et fonde la lecture du corpus." },
+    { title = "Prophète", path = "wiki/prophet", description = "Le rôle de messager par lequel le lien entre créateurs et créés est périodiquement renouvelé." },
+    { title = "Pluralité des dieux", path = "wiki/plurality-of-gods", description = "Les créateurs pluriels que le cadre lit derrière les traditions que conserve la religion." },
+    { title = "Bible hébraïque", path = "wiki/hebrew-bible", description = "Une tradition textuelle majeure qui conserve le contenu relatif à l'entretien du lien." },
+    { title = "La religion des religions", path = "articles/the-religion-of-religions", description = "Lit l'autodéfinition du Raëlisme comme « religion athée » à travers l'étymologie de religare et la jeune famille universaliste." },
+    { title = "Le monothéisme est la mauvaise question", path = "articles/monotheism-is-the-wrong-question", description = "Pourquoi « monothéisme contre polythéisme » est un cadre erroné — la polémique anti-idoles comme mémoire et allégeance, et le singulier comme représentant des créateurs pluriels." },
+]
 
 [extra.infobox]
-type = "Foundational concept; the framework's specific definition of religion as the cultivated relationship between humanity and its extraterrestrial creators"
-etymology = "Latin *religio* ('religious obligation, conscientious observance, sanctity'), most plausibly derived from *religare* ('to bind, to tie, to link'); Cicero in *De Natura Deorum* offered the alternative derivation from *relegere* ('to re-read, to consider carefully'); the *religare* etymology is the one the framework operates principally"
-framework_definition = "The cultivated relationship between humanity and the specific civilization (the Elohim) that produced terrestrial life through deliberate scientific work; the bond requiring active cultivation across generations through ritual, instruction, textual preservation, architectural orientation, and broader institutional apparatus"
-distinguished_from = "Mainstream academic religious-studies definitions (Tylor, Durkheim, Eliade, Geertz, Smart, Asad — operating principally through cultural-symbolic-experiential framings); the Marx/Lenin 'opium of the people' tradition (operating principally through ideological-functional critique); the New Atheist tradition (operating principally through cognitive-error and harmful-institutional framings); the perennialist tradition (operating principally through transcendent-unity framings); the various supernatural-theistic traditions (operating principally through divine-revelation framings)"
-principal_source_articulation = "Vorilhon: 'Religion from the Latin religio means \"that which links\" or \"the tie\", which unites the creators to their creation' (*Let Us Welcome the Extra-Terrestrials*, 1979); Sendy: 'La religion vient du latin religare, qui veut dire relier... l'étymologie définit parfaitement l'objet initial des religions : maintenir le lien entre les cieux et la Terre' (*L'ère du Verseau*, 1970)"
-raelian_movement_self_positioning = "An 'atheist religion' — religion in the *religare* sense (cultivated bond between creators and created) while atheist in the technical sense (rejecting supernatural divinity, since the Elohim are biological beings rather than supernatural gods)"
+type = "Concept fondateur ; la définition que le cadre donne de la religion comme lien cultivé entre l'humanité et ses créateurs, les Élohim"
+etymology = "Latin *religio* (« obligation religieuse, observance scrupuleuse, sainteté »), dérivé le plus vraisemblablement de *religare* (« lier, attacher, relier ») ; Cicéron, dans le *De Natura Deorum*, proposait la dérivation concurrente à partir de *relegere* (« relire, considérer attentivement »). Le cadre s'appuie sur l'étymologie *religare*"
+framework_definition = "Le lien cultivé entre l'humanité et les Élohim — la civilisation qui a produit la vie terrestre par un travail scientifique délibéré —, entretenu de génération en génération par le rituel, l'enseignement, la préservation des textes et l'orientation de l'architecture sacrée"
+distinguished_from = "Les définitions académiques des sciences des religions (Tylor, Durkheim, Eliade, Geertz, Smart, Asad — approches culturelles, symboliques et expérientielles) ; la critique marxiste-léniniste de l'« opium du peuple » ; la lecture du Nouvel Athéisme comme erreur cognitive ; la lecture pérennialiste de l'unité transcendante ; les lectures théistes surnaturelles de la révélation divine"
+principal_source_articulation = "Vorilhon : « \"Religion\" vient du latin \"religio\", qui veut dire \"ce qui relie\", le lien qui unit les créateurs à leur création » (*Accueillir les extra-terrestres*, 1979) ; Sendy : « La religion vient du latin religare, qui veut dire relier... l'étymologie définit parfaitement l'objet initial des religions : maintenir le lien entre les cieux et la Terre » (*L'ère du Verseau*, 1970)"
+raelian_movement_self_positioning = "Une « religion athée » — religion au sens de *religare* (un lien cultivé entre créateurs et créés), athée en ce qu'elle nie toute divinité surnaturelle, puisque les Élohim sont des êtres biologiques et non des dieux"
 cross_cultural_pattern = "Priesthood-architecture-ritual complexes operating as link-maintenance institutions across virtually every major civilization: Mesopotamian, Egyptian, Vedic / Hindu, Greek and Roman, Chinese, Mesoamerican, various indigenous traditions"
-status_in_framework = "Foundational concept; the framework's specific definition of what religion IS, supporting the broader integration of revelation, prophetic-tradition, sacred-text, ritual, and architectural-iconographic content across the corpus"
-principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) — principal direct source articulation; *L'ère du Verseau* (Sendy, 1970), particularly the *La Religion* section — substantial pre-Raëlian articulation; *timeline.epub* — substantial subsequent corpus development with Noah's pre-flood community as the original religious community"
+status_in_framework = "Concept fondateur ; la définition que le cadre donne de ce qu'est la religion, qui sous-tend son traitement de la révélation, de la prophétie, du texte sacré, du rituel et de l'architecture sacrée dans l'ensemble du corpus"
+principal_corpus_treatment = "*Accueillir les extra-terrestres* (Vorilhon, 1979) — principale formulation directe de la source ; *L'ère du Verseau* (Sendy, 1970), en particulier la section *La Religion* — formulation pré-raëlienne substantielle ; *timeline.epub* — développement ultérieur substantiel du corpus, avec la communauté antédiluvienne de Noé comme communauté religieuse originelle"
 +++
 
 **Religion** (Latin *religio*, most plausibly from *religare*, "to bind, to tie,

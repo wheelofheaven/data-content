@@ -6,15 +6,27 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Revelation", "ἀποκάλυψις", "Age of Apocalypse", "Age of Revelation"]
+alternative_names = ["Revelation", "ἀποκάλυψις", "啟示的時代", "啟示錄的時代"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "宏觀生物學", path = "wiki/macrobiology", description = "把人類視為有機體的生物學;依此,1945 年標誌著行星神經系統的啟動。" },
+    { title = "黃金時代", path = "wiki/golden-age", description = "一旦平穩度過過渡期,啟示所通向的文明結局。" },
+    { title = "先知", path = "wiki/prophet", description = "其累積之功由啟示帶向圓滿的傳統。" },
+    { title = "大使館", path = "wiki/embassy", description = "在此時期於操作上成為可能的、計畫中的公開回歸。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "其內容在啟示中可供人類直接評估的聯盟。" },
+    { title = "雷爾", path = "wiki/rael", description = "傳遞啟示之框架內容的先知。" },
+    { title = "在元年甦醒的書卷", path = "articles/the-scrolls-that-woke-in-year-one", description = "死海古卷在這個時代曆法的元年出土——以這批手稿的發現來閱讀「揭開」。" },
+    { title = "在元年被開啟", path = "articles/unsealed-in-year-one", description = "對同一發現的姊妹篇解讀——但以理被封住的書被開啟,以及古卷內容對這個時代所說的話。" },
+    { title = "人類的形狀", path = "articles/the-shape-of-humanity", description = "此解說文將 1945 年讀作行星有機體神經系統啟動、同時獲得自我毀滅之力的時刻。" },
+    { title = "卡爾·榮格", path = "wiki/carl-jung", description = "榮格的《伊雍》,以及對正在結束的雙魚座紀元所作的「雙魚」解讀。" },
+]
 +++
 
 **Apocalypse** (Greek: *ἀποκάλυψις*, *apokalypsis*) is, in its plain Greek meaning, an *uncovering* or *unveiling* — the disclosure of what was previously concealed. The English word entered medieval and early-modern usage through the Latin *apocalypsis* and the Vulgate's title for the New Testament's Book of Revelation (*Apocalypsis Iohannis*, "the Unveiling of John"). Across the medieval and early-modern centuries, the term acquired a secondary set of connotations — catastrophic destruction, end-of-the-world judgment, eschatological cataclysm — that the original Greek does not carry and that have come to dominate popular English usage. The two senses are now substantially distinct in contemporary English: the popular *apocalypse* names a destructive end; the technical *apocalypse* names a revelation of hidden truth.

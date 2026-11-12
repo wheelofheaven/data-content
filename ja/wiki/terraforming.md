@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,25 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Planetary engineering", "Ecological engineering at planetary scale", "Earth-shaping", "Geoengineering of other worlds"]
+alternative_names = ["惑星工学", "惑星規模の生態工学", "地球化", "他の世界のジオエンジニアリング"]
+see_also = [
+    { title = "ジェネシス・ツールボックス", path = "wiki/genesis-toolbox", description = "計画全体の総合。正典が記述する創造の技術体系全体の一段階としてのテラフォーミング。" },
+    { title = "創世記", path = "wiki/genesis", description = "この枠組みがその最初の四つの時代を、エロヒムによる地球のテラフォーミングとして読むテクスト。" },
+    { title = "エロヒム", path = "wiki/elohim", description = "生物の合成に先立って地球をテラフォーミングしたと読まれる文明。" },
+    { title = "合成生物学", path = "wiki/synthetic-biology", description = "テラフォーミングに続く生物合成の段階に隣接する学問分野。" },
+    { title = "生命工学", path = "wiki/life-engineering", description = "地球計画における、惑星のテラフォーミングの生物学的な対応物。" },
+    { title = "パントロピー", path = "wiki/pantropy", description = "世界を生物に合わせるのではなく、生物を世界に適応させるという逆の戦略。" },
+    { title = "パンゲア", path = "wiki/pangaea", description = "この枠組みの大陸工学の読解にかかわる大陸の配置。" },
+]
 
 [extra.infobox]
-type = "Planetary-engineering discipline aimed at making other worlds habitable for terrestrial life"
-adjacent_fields = "Astrobiology; planetary science; xenobiology; synthetic biology; geoengineering; climate science"
-term_coined = "Jack Williamson, *Collision Orbit*, 1942 (science-fiction context); Carl Sagan, *Science*, 1961 (scientific context)"
-principal_targets = "Mars (most studied); Venus (more speculative); Moon, Mercury, Jovian and Saturnian moons (variously discussed); free-floating habitats and shell worlds (alternative paraterraforming concepts)"
-foundational_milestones = "Coining of the term (Williamson, 1942); first scientific proposal (Sagan, Venus terraforming via algae, 1961); first Mars terraforming proposal (Sagan, polar-cap vaporisation, 1971); foundational scientific treatments (McKay, 1982 onward; Fogg, *Terraforming*, 1995); CO2-inventory analysis (Jakosky and Edwards, 2018); silica-aerogel paraterraforming (Wordsworth et al., 2019)"
-current_status = "Active research field; no terraforming has been attempted at any scale; full-scale Mars terraforming assessed as infeasible with present technology; localised paraterraforming concepts under active study"
-framework_significance = "The planetary-engineering operations of the first four ages of Genesis 1 — atmospheric separation, water-cycle establishment, continental work, astronomical calibration — are read on the framework as the Elohim's terraforming of Earth during the preparation phase of the Earth project, prior to biological synthesis"
+type = "他の世界を地球の生命が居住できるようにすることを目指す惑星工学の分野"
+adjacent_fields = "宇宙生物学、惑星科学、ゼノバイオロジー、合成生物学、ジオエンジニアリング、気候科学"
+term_coined = "ジャック・ウィリアムソン『*Collision Orbit*』、1942年(SFの文脈)。カール・セーガン、*Science*、1961年(科学の文脈)"
+principal_targets = "火星(最もよく研究されている)、金星(より思弁的)、月、水星、木星と土星の衛星(さまざまに論じられている)、自由浮遊型の居住施設とシェルワールド(代替的なパラテラフォーミングの構想)"
+foundational_milestones = "用語の造語(ウィリアムソン、1942年)。最初の科学的提案(セーガン、藻類による金星のテラフォーミング、1961年)。最初の火星テラフォーミングの提案(セーガン、極冠の気化、1971年)。基礎的な科学的論考(マッケイ、1982年以降。フォッグ『*Terraforming*』、1995年)。CO2保有量の分析(ジャコスキーとエドワーズ、2018年)。シリカエアロゲルによるパラテラフォーミング(ワーズワースら、2019年)"
+current_status = "活発な研究分野。いかなる規模でもテラフォーミングは試みられていない。火星の全面的なテラフォーミングは現在の技術では実現不可能と評価されている。局所的なパラテラフォーミングの構想が活発に研究されている"
+framework_significance = "創世記1章の最初の四つの時代の惑星工学的作業――大気の分離、水循環の確立、大陸の作業、天文学的な較正――は、この枠組みでは、生物学的合成に先立つ地球プロジェクトの準備段階におけるエロヒムによる地球のテラフォーミングとして読まれる"
 +++
 
 **Terraforming** is the deliberate large-scale modification of a planet, moon, or other celestial body to make its environmental conditions habitable for terrestrial life — most often with reference to making the body habitable for unmodified humans, but increasingly with reference to making it habitable for any class of Earth-derived organisms. The term is constructed from the Latin *terra* (earth) and the English verb *to form*, meaning literally *to make Earth-like*. It is the planetary-scale counterpart of the climate-engineering and geoengineering proposals that have been developed for the management of Earth's own climate, and it draws on the same atmospheric, geological, and ecological sciences applied at the much larger scale of complete planetary transformation.

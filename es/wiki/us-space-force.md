@@ -6,31 +6,39 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
-translation_stale = true
+translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
 alternative_names = ["U.S. Space Force", "USSF", "Space Force", "United States Space Force"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Encubrimiento militar de la exobiología", path = "wiki/military-cover-up-of-exobiology", description = "La cuestión del encubrimiento y la divulgación de los FANI, junto a la cual se sitúa en el tiempo la fundación de la Fuerza Espacial." },
+    { title = "Ufología", path = "wiki/ufology", description = "El campo cuya literatura alternativa vincula esta rama con el marco más amplio de los FANI." },
+    { title = "Astrobiología", path = "wiki/astrobiology", description = "La ciencia de la vida extraterrestre con la que la misión en el dominio espacial se cruza en su contexto." },
+    { title = "Ecuación de Drake", path = "wiki/drake-equation", description = "La estimación de civilizaciones extraterrestres que presupone el debate sobre la divulgación que la rodea." },
+    { title = "Hipótesis de los antiguos astronautas", path = "wiki/ancient-astronaut-hypothesis", description = "La postura del contacto en el pasado que el corpus lee junto al debate contemporáneo sobre la divulgación de los FANI." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "El marco que sitúa este desarrollo militar convencional en el contexto de la era de Acuario." },
+]
 
 [extra.infobox]
-type = "Sixth and youngest branch of U.S. Armed Forces; established December 20, 2019; operates under Department of the Air Force; substantive mission focus on military operations in space domain"
-establishment_date = "December 20, 2019 through National Defense Authorization Act for Fiscal Year 2020, signed by President Donald Trump"
+type = "Sexta y más reciente rama de las Fuerzas Armadas de EE. UU.; creada el 20 de diciembre de 2019; depende del Departamento de la Fuerza Aérea; su misión se centra en las operaciones militares en el dominio espacial"
+establishment_date = "20 de diciembre de 2019, mediante la Ley de Autorización de Defensa Nacional para el año fiscal 2020, firmada por el presidente Donald Trump"
 predecessor = "Air Force Space Command (1982-2019; subsumed into USSF)"
-parent_department = "Department of the Air Force (parallel to U.S. Marine Corps under Department of the Navy)"
-principal_commands = "Space Operations Command (SpOC); Space Systems Command (SSC); Space Training and Readiness Command (STARCOM)"
-service_member_designation = "Guardians (adopted December 18, 2020)"
-principal_missions = "Satellite operations; missile warning and missile defense support; space situational awareness; GPS operations; offensive and defensive space operations; space domain awareness"
+parent_department = "Departamento de la Fuerza Aérea (en paralelo al Cuerpo de Marines de EE. UU. dentro del Departamento de la Marina)"
+principal_commands = "Mando de Operaciones Espaciales (SpOC); Mando de Sistemas Espaciales (SSC); Mando de Entrenamiento y Preparación Espacial (STARCOM)"
+service_member_designation = "Guardianes («Guardians», adoptado el 18 de diciembre de 2020)"
+principal_missions = "Operaciones de satélites; alerta de misiles y apoyo a la defensa antimisiles; conocimiento de la situación espacial; operaciones del GPS; operaciones espaciales ofensivas y defensivas; conocimiento del dominio espacial"
 fy2024_budget = "Approximately $30 billion (increased from $15.4 billion at 2020 establishment)"
 international_parallels = "Russia VKS Space Forces (2015); China PLA Aerospace Force (2024, reorganized from PLA Strategic Support Force 2015); France Commandement de l'espace (2019); UK Space Command (2021); substantial subsequent national space-military establishments"
 bipartisan_continuity = "Trump administration 2017-2021 (establishment); Biden administration 2021-2025 (maintenance and expansion); Trump administration 2025-present (continuation)"
 uap_disclosure_intersection = "Establishment in temporal proximity to 2017-2024 UAP disclosure transformation; broader space-domain awareness mission operates at intersection with substantial UAP detection capability"
 corpus_position = "Documented mainstream military development; substantial alternative-ufological engagement connecting USSF to broader UAP framework with substantively varying methodological support; Vorilhon source does not articulate USSF substantively as principal corpus content; engaged at descriptive level"
-distinguished_from = "NASA (the civilian space agency; distinct organizational and mission framework); other U.S. military branches operating in space domain prior to 2019 USSF establishment; the broader UAP cover-up question (treated in the Government UAP Cover-up and Disclosure entry)"
-status_in_framework = "Documented contemporary development at intersection of mainstream military policy and broader Aquarian-age framework; engaged with substantive epistemic discipline"
+distinguished_from = "La NASA (la agencia espacial civil); las ramas militares de EE. UU. que operaban en el espacio antes de 2019; la cuestión más amplia del encubrimiento y la divulgación de los UAP (tratada en la entrada sobre el encubrimiento militar de la exobiología)"
+status_in_framework = "Un hecho contemporáneo documentado con un ángulo ligero en el marco; periférico respecto del canon, cuya propia respuesta a la cuestión de la divulgación es la Embajada y no ninguna rama militar"
 +++
 
 **The U.S. Space Force** (USSF) is the sixth and youngest branch of the United

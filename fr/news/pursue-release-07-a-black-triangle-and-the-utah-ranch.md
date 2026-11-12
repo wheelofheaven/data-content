@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ core_claim_ids = ["woh-claim-0057"]
 core_versions = { woh-claim-0057 = "0.1.0" }
 editorial_pass = "2026-05"
 summary = "Cinq semaines après le Communiqué 06, le Département de la Guerre des États-Unis a publié le Communiqué 07 sur war.gov/UFO : 28 documents et rien d'autre — ni vidéo, ni audio, ni images —, la plus petite tranche à ce jour et la première faite entièrement de papier. Vingt-cinq fichiers proviennent du Département lui-même, un du FBI, un du Bureau exécutif du président, et un porte un nouveau préfixe, « U.S. Government ». Le fichier phare est récent : le compte rendu, par l'All-domain Anomaly Resolution Office, de l'audition d'agents fédéraux qui ont vu en juin 2026 un triangle noir mat s'élever en silence au-dessus d'une crête, sur un site sensible de l'Ouest des États-Unis, rester en vol stationnaire, puis plonger dans un canyon — publié quatre mois après les faits, avec un procès-verbal d'entretien du FBI qui le contredit sur la durée, la taille et la chaleur. Derrière lui se trouve le dossier d'exploitation du contractant qui a conduit le programme AAWSAP de la Defense Intelligence Agency en 2008–2010 : ses projets d'acquérir du matériel récupéré et des échantillons biologiques, une chambre forte souterraine conçue pour les abriter, une mission au Brésil, un entrepôt de données de 234 364 signalements d'observations, et son enquête sur un ranch de l'Utah dont les poils de « Skinwalker » se sont révélés être ceux du propre chien du témoin. Un dossier de la Maison-Blanche de 1962–1964 montre le gouvernement rédigeant des procédures pour les objets qui tombent de l'espace, la NASA servant de façade publique et le Département de la Défense d'analyste. Le corpus enregistre le Communiqué 07 comme un contexte pour lire le canon, et non comme un signe du retour."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "Le contexte du présent"
+cross_reference = "Ère du Verseau, §IX"
 canon_links = [
     { title = "Âge du Verseau", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

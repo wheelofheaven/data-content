@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -18,19 +18,26 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "direct"
-alternative_names = ["Beit ha-Mikdash ha-Shlishi (Hebrew, \"the Third Holy House\")", "The Embassy (in Raëlian terminology)", "The Residence (in some source-material passages)", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "The Messianic Temple"]
+alternative_names = ["Beit ha-Mikdash ha-Shlishi (히브리어, \"세 번째 거룩한 집\")", "대사관(라엘리안 용어에서)", "거주지(일부 원전 자료 구절에서)", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "메시아의 성전"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "대사관", path = "wiki/embassy", description = "프레임워크가 제3 성전과 동일시하는, 보릴롱이 명세한 영접 거처." },
+    { title = "대귀환", path = "wiki/great-return", description = "대사관/제3 성전이 필수적인 영접 장소가 되는, 기대되는 엘로힘의 귀환." },
+    { title = "야훼", path = "wiki/yahweh", description = "정경에서 대사관 명세의 조건을 정하는 엘로힘의 의장." },
+    { title = "엘로힘", path = "wiki/elohim", description = "대사관/제3 성전이 그 공식 귀환을 맞이하기 위해 지어지는 문명." },
+    { title = "황금시대", path = "wiki/golden-age", description = "제3 성전의 건설이 기대되는 물병자리 시대의 성취." },
+]
 
 [extra.infobox]
-type = "Anticipated future Temple in Jerusalem (in Jewish eschatology); functionally identified with the Embassy required for the Elohim's Great Return (in the Wheel of Heaven framework)"
-principal_biblical_sources = "Ezekiel 40-48 (the principal architectural vision, c. 573 BCE); Haggai 2:9; Zechariah 6:12-13; Isaiah 2:2-4 / Micah 4:1-3"
-historical_predecessors = "The Tabernacle (Mosaic period, c. 14th-13th centuries BCE); the First Temple (Solomon's Temple, c. 957–587 BCE, destroyed by the Babylonians); the Second Temple (516 BCE–70 CE, destroyed by the Romans)"
-contemporary_temple_mount_status = "Occupied by the Dome of the Rock (691-692 CE) and the al-Aqsa Mosque (705-715 CE); the third-holiest site in Islam; status quo since 1967: Israeli perimeter security, Waqf (Jordanian Islamic religious trust) administration, contested Jewish prayer access"
-jewish_preparation_organizations = "The Temple Institute (Machon HaMikdash, founded 1987 by Rabbi Yisrael Ariel); the Sanhedrin Initiative; the various red heifer breeding programs; the broader Religious Zionist Temple-preparation tradition"
-christian_engagement = "Dispensationalist eschatology (Darby 19th century, Scofield Reference Bible 1909, the Left Behind series 1995-2007); substantively contested by amillennial, postmillennial, and preterist Christian positions"
-raelian_identification = "The Embassy specified in the Vorilhon source material (*Le Livre qui dit la vérité*, 1974, Sixth Chapter \"The New Commandments,\" Section \"Your Mission\") is identified by the source material with the Third Temple of the Hebrew biblical tradition"
-raelian_embassy_history = "The Raëlian Movement formally requested Embassy land in Israel seven times between approximately 1990 and 2015, with all requests denied; on August 6, 2015 (21 Av 5775 in the Hebrew calendar), the source material declared the Elohim's protection of Israel withdrawn; subsequent proposals have involved Palestinian Authority territories and other locations"
-framework_significance = "The Third Temple is read by the framework as the substantive culmination of the Hebrew biblical Temple-restoration tradition and as functionally identical with the Embassy required for the Great Return; the operational continuity of Tabernacle → First Temple → Second Temple → Third Temple/Embassy constitutes a single sequence of Elohim terrestrial reception sites"
+type = "예루살렘에 세워질 것으로 기대되는 미래의 성전(유대교 종말론에서); 엘로힘의 대귀환에 필요한 대사관과 기능적으로 동일시됨(Wheel of Heaven 틀에서)"
+principal_biblical_sources = "에스겔 40-48장(주요 건축 환상, 기원전 약 573년); 학개 2:9; 스가랴 6:12-13; 이사야 2:2-4 / 미가 4:1-3"
+historical_predecessors = "성막(모세 시대, 기원전 약 14-13세기); 제1성전(솔로몬 성전, 기원전 약 957–587년, 바빌로니아에 의해 파괴됨); 제2성전(기원전 516년–기원후 70년, 로마에 의해 파괴됨)"
+contemporary_temple_mount_status = "바위의 돔(기원후 691-692년)과 알아크사 모스크(기원후 705-715년)가 자리함; 이슬람의 세 번째 성지; 1967년 이후의 현상 유지: 이스라엘의 외곽 경비, 와크프(요르단의 이슬람 종교 재단) 관리, 유대인 기도 접근권을 둘러싼 논쟁"
+jewish_preparation_organizations = "성전 연구소(Machon HaMikdash, 1987년 랍비 이스라엘 아리엘이 설립), 산헤드린 이니셔티브, 붉은 암소 사육 프로그램, 더 넓은 종교적 시온주의의 성전 준비 전통"
+christian_engagement = "세대주의 종말론(다비, 19세기, 스코필드 관주 성경, 1909, 『레프트 비하인드』 시리즈, 1995-2007). 무천년설, 후천년설, 과거주의 그리스도교 입장들이 이에 이의를 제기합니다"
+raelian_identification = "보릴롱 원전 자료(*Le Livre qui dit la vérité*, 1974, 제6장 \"새로운 계명\", \"여러분의 사명\" 절)에 명시된 대사관은 원전 자료에 의해 히브리 성경 전통의 제3 성전과 동일시됨"
+raelian_embassy_history = "라엘리안 운동은 1991년 처음으로 예루살렘 인근의 대사관 부지를 요청했습니다. 1993년 이스라엘 위원회는 운동이 평화적이라고 판단했지만 이츠하크 라빈 총리는 거절했고, 이후 어떤 정부도 이 문제를 다시 다루지 않았습니다. 1997년 12월 13일 메시지는 어느 나라에서든 치외법권 지위를 구하도록 승인하되 이스라엘에 마지막 선택지를 남겼고, 2015년 메시지는 이스라엘에 대한 엘로힘의 보호가 철회되었다고 선언했습니다"
+framework_significance = "경전은 제3 성전을 대귀환을 위해 지어지는 대사관과 동일시하며, 전통 자체의 의미를 대체하지 않고 그 구조를 성전에 대한 기대에 대응시킵니다"
 +++
 
 The **Third Temple** (Hebrew **<span class="hebrew">בֵּית הַמִּקְדָּשׁ הַשְּׁלִישִׁי</span>** *Beit ha-Mikdash ha-Shlishi*, "the Third Holy House") is the future Temple that, in Jewish eschatological tradition, is to be built in Jerusalem to succeed the **First Temple** (Solomon's Temple, c. 957–587 BCE, destroyed by the Babylonians under Nebuchadnezzar II) and the **Second Temple** (516 BCE–70 CE, destroyed by the Romans under Titus). Its fullest biblical blueprint is the nine-chapter vision of the prophet [Ezekiel](/wiki/ezekiel/) (Ezekiel 40–48, c. 573 BCE), and its building is one of the works Jewish tradition assigns to the Messianic Age.

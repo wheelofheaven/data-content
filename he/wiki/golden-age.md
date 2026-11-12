@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,17 +16,29 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the awaited Golden Age", "the Golden Age of civilization", "the earthly paradise", "the Golden Age of interplanetary civilization", "the operational Golden Age"]
 timeline = ["age-of-aquarius", "post-aquarius"]
+see_also = [
+    { title = "מקרוביולוגיה", path = "wiki/macrobiology", description = "המעבר הגדול שהושלם באינדיבידואליות — האנושות המובאת לכדי אורגניזם עולמי לכיד, בקריאה ביולוגית." },
+    { title = "אפוקליפסה", path = "wiki/apocalypse", description = "רגע ההתגלות שבסף, שעשוי לפתוח את תור הזהב או את החלופה ההרסנית שלו." },
+    { title = "עדן", path = "wiki/eden", description = "המעבדה הראשונית, הנקראת כתור הזהב ההיסטורי שההגשמה העתידית משחזרת." },
+    { title = "השרשרת הקוסמית", path = "wiki/cosmic-chain", description = "מסגרת הירושה שבתוכה הבשלת תור הזהב פועלת כשלב אחד." },
+    { title = "פרדיזם", path = "wiki/paradism", description = "התוכנית החברתית שלאחר המחסור, שיישומה מאפיין את תור הזהב." },
+    { title = "גניוקרטיה", path = "wiki/geniocracy", description = "מודל הממשל המנוסח לצד תור הזהב בחומר המקור." },
+    { title = "השגרירות", path = "wiki/embassy", description = "המיזם שהשלמתו מתנה את צליחתה המוצלחת של האנושות את עידן הדלי." },
+    { title = "טחנת המלט", path = "wiki/hamlets-mill", description = "״אדון תור הזהב״ המודח — שבתאי, נותן המידות — שטחנתו ההרוסה טוחנת את העידנים." },
+    { title = "הטחנה הטוחנת את העידנים", path = "articles/the-mill-that-grinds-the-ages", description = "תור הזהב כמלכותו של המלך הישן המודח, שעתיד לשוב כשהגלגל הפרצסיוני משלים את סיבובו." },
+    { title = "צורתה של האנושות", path = "articles/the-shape-of-humanity", description = "המאמר הממסגר את תור הזהב כהבשלה המוצלחת של האנושות כאורגניזם מעבר לסף של אחד ממאה." },
+]
 
 [extra.infobox]
-type = "Eschatological-cosmological concept; the operational form of life that becomes available to humanity if it navigates the Aquarian-age threshold successfully"
-principal_corpus_articulation = "Vorilhon's Buddhism section in *Message from the Designers* (the substantial Buddhist-enlightenment metaphor); the substantial soteriological dual-path passage; the seven-characteristics articulation in *timeline.epub*"
-seven_principal_characteristics = "(1) Progressive elimination of material scarcity through nanotechnology and automation; (2) Substantial longevity through biological rejuvenation and computational continuation; (3) Transformation of social and political life through New Commandments implementation; (4) Computational continuation as substantive option; (5) Cultivated cognitive capacities including telepathy; (6) New spirituality appropriate to scientifically mature age; (7) Maturation into creating-civilization status"
-contingent_realization = "Realization is contingent on humanity's collective navigation of the Aquarian-age threshold; not automatic but dependent on cumulative effects of individual choices across the broader population"
-distinguished_from = "The Age of Aquarius (the broader chronological-astronomical period within which Golden Age may emerge); Apocalypse (the threshold-revelation moment); Cyberparadism (the contemporary aesthetic articulation); Cosmic Chain (the broader succession framework); Eden (the originary historical Golden Age)"
-relationship_to_eden = "Eden as the originary historical Golden Age (the alliance laboratory in which early humans lived in environmental-technological harmony); the Aquarian-age Golden Age as recovery and extension of that originary content at planetary civilizational scale"
-parallel_cross_cultural_traditions = "Greek/Roman ages of man (Hesiod, Ovid); Hindu Satya/Treta/Dvapara/Kali yuga framework; Mesoamerican Long Count cycles; Buddhist Maitreya tradition; Norse Ragnarök and post-Ragnarök regeneration; Persian Zoroastrian Frashokereti; Chinese cycle traditions; various indigenous 'great-cleansing/renewal' prophecies"
+type = "מושג אסכטולוגי־קוסמולוגי; צורת החיים שנעשית זמינה לאנושות אם תנווט בהצלחה את סף עידן הדלי"
+principal_corpus_articulation = "קטע הבודהיזם של וורילון ב־*מסר מהמתכננים* (מטפורת ההארה הבודהיסטית); הקטע הסוטריולוגי על שתי הדרכים; ניסוח שבעת המאפיינים בחומר ציר הזמן של הקורפוס"
+seven_principal_characteristics = "(1) ביטול המחסור החומרי באמצעות ננוטכנולוגיה ואוטומציה; (2) הארכה ניכרת של תוחלת החיים באמצעות התחדשות ביולוגית והמשכיות חישובית; (3) שינוי החיים החברתיים והפוליטיים דרך המצוות החדשות; (4) המשכיות חישובית כאפשרות לזהות האישית; (5) יכולות קוגניטיביות מטופחות, ובהן טלפתיה; (6) רוחניות חדשה המותאמת לעידן בוגר מדעית; (7) התבגרות למעמד של ציוויליזציה יוצרת"
+contingent_realization = "מותנה בניווט הקולקטיבי של האנושות בסף עידן הדלי; אינו אוטומטי, אלא תלוי בהשפעה המצטברת של בחירות אישיות באוכלוסייה הרחבה"
+distinguished_from = "עידן הדלי (התקופה האסטרונומית הרחבה שבתוכה עשוי תור הזהב להופיע); האפוקליפסה (רגע ההתגלות שבסף); הסייבר־פרדיזם (הניסוח האסתטי העכשווי); השרשרת הקוסמית (מסגרת הרצף הרחבה); עדן (תור הזהב ההיסטורי הראשוני)"
+relationship_to_eden = "עדן כתור הזהב ההיסטורי הראשוני — המעבדה שבה חיו בני האדם הראשונים בהרמוניה עם יוצריהם; תור הזהב של עידן הדלי כשחזור והרחבה של מצב זה בקנה מידה של ציוויליזציה פלנטרית"
+parallel_cross_cultural_traditions = "עידני האדם היווניים והרומיים (הסיודוס, אובידיוס); מחזור היוגות ההינדי סאטיה/טרטה/דוואפרה/קאלי; הספירה הארוכה המסו־אמריקנית; מאיטרייה הבודהיסטי; רגנרוק הנורדי והתחדשותו; הפרשוקרטי הזורואסטרי הפרסי; מסורות המחזור הסיניות; נבואות התחדשות שונות של עמים ילידיים"
 contemporary_articulations = "Kurzweil's Singularity; e/acc movement; abundance-economy tradition (Diamandis, Kotler); broader 'Great Awakening' cultural engagement"
-status_in_framework = "Foundational eschatological-cosmological concept; the substantive content of successful Aquarian-age navigation; the cosmic-chain inheritance threshold"
+status_in_framework = "מושג יסוד אסכטולוגי־קוסמולוגי; התוכן של ניווט מוצלח בעידן הדלי; סף הירושה של השרשרת הקוסמית"
 +++
 
 **The Golden Age** is, in the Wheel of Heaven framework, the form of life that

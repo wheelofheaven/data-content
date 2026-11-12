@@ -1,7 +1,7 @@
 {
   "$schema": "./glossary-schema.json",
-  "version": "1.5.1",
-  "updated": "2026-11-11",
+  "version": "1.6.0",
+  "updated": "2026-11-12",
   "description": "Terminology glossary for consistent translations across all languages",
   "terms": [
     {
@@ -1095,6 +1095,26 @@
         "en": "the corpus",
         "ja": "コーパス"
       }
+    },
+    {
+      "id": "guide",
+      "category": "core",
+      "definition": "Ordained rank of the International Raëlian Movement; the movement's clergy, arranged in a seven-level hierarchy (Assistant Guide, Probationary Guide, Priest, Bishop, Priest-Guide, Guide of Guides).",
+      "translations": {
+        "en": "Guide",
+        "de": "Guide"
+      },
+      "notes": "de: founder decision 2026-11-12 — always the loanword 'Guide' (der Guide, des Guides, die Guides; a woman holding the rank: die Guide), never 'Führer'. Compounds: Hilfs-Guide, Probe-Guide, Priester-Guide, Bischofs-Guide, Planetarischer Guide."
+    },
+    {
+      "id": "guide-of-guides",
+      "category": "core",
+      "definition": "Raël's principal institutional title: the highest rank in the Raëlian hierarchy of Guides (French: Guide des Guides).",
+      "translations": {
+        "en": "Guide of Guides",
+        "de": "Guide der Guides"
+      },
+      "notes": "de: never 'Führer der Führer'."
     }
   ],
   "categories": {

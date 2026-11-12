@@ -5,7 +5,7 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -13,20 +13,30 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "framework"
-alternative_names = ["ID", "Design theory", "Design hypothesis", "Directed design (the Raëlian variant)"]
+alternative_names = ["ID", "설계 이론", "설계 가설", "지향 설계(라엘리안 변형)"]
+see_also = [
+    { title = "창세기 도구 상자", path = "wiki/genesis-toolbox", description = "설계 논쟁에 대한 프레임워크의 실행적 형태의 답: 기록된 도구 상자를 갖춘 설계자들." },
+    { title = "생명공학(라이프 엔지니어링)", path = "wiki/life-engineering", description = "엘로힘 설계자가 작용했다고 여겨지는 코퍼스의 기제." },
+    { title = "합성생물학", path = "wiki/synthetic-biology", description = "프레임워크가 설계자의 공학 역량을 되찾는 것으로 보는 현대 분과." },
+    { title = "합성유전체학", path = "wiki/synthetic-genomics", description = "프레임워크가 원래의 설계 작업과 연속된 것으로 읽는 유전체 합성 과학." },
+    { title = "팬트로피", path = "wiki/pantropy", description = "설계 주장을 의도적인 인간 개조로까지 확장하는 생물 맞춤 개념." },
+    { title = "창세기", path = "wiki/genesis", description = "프레임워크가 그 야밈(날) 국면들을 공학의 기록으로 읽는 텍스트." },
+    { title = "에덴", path = "wiki/eden", description = "프레임워크가 인간이 합성된 실험실로 지목하는 장소." },
+    { title = "서명과 설계자들", path = "/articles/the-signature-and-the-designers/", description = "프레임워크를 설계 스펙트럼 전체 위에 놓는 해설 — 마이어의 초월적 설계자에, 몸을 지닌 만들어진 설계자로 답합니다." },
+]
 
 [extra.infobox]
-type = "Philosophical and scientific doctrine that the functional complexity of biological systems is best explained by intelligent design"
-two_senses = "Broad sense: any design-by-intelligence doctrine, with antecedents reaching back to Aristotelian teleology and the medieval scholastic tradition. Narrow sense: the specific American intellectual movement c. 1991 onward associated with the Discovery Institute."
-foundational_modern_text = "Phillip E. Johnson, *Darwin on Trial* (Regnery Gateway, 1991)"
-key_movement_figures = "Phillip E. Johnson (1940–2019); Michael Behe (b. 1952); William Dembski (b. 1960); Stephen C. Meyer (b. 1958); Jonathan Wells (b. 1942); Paul Nelson; Jay Richards; Douglas Axe"
-principal_organisations = "Discovery Institute (Seattle, founded 1991); Center for Science and Culture (founded 1996, originally Center for the Renewal of Science and Culture)"
-foundational_arguments = "Irreducible complexity (Behe 1996); specified complexity / the design inference (Dembski 1998); the fine-tuning of physical constants; the origin of biological information; abiogenesis difficulty"
-historical_antecedents = "Aristotelian teleology; the medieval scholastic tradition (Aquinas's fifth way); William Paley's *Natural Theology* (1802); the broader 19th-century natural theology tradition"
-foundational_critique = "David Hume, *Dialogues Concerning Natural Religion* (1779); Charles Darwin, *On the Origin of Species* (1859); the broader mainstream evolutionary-biology tradition"
-landmark_court_case = "Kitzmiller v. Dover Area School District (M.D. Pa. 2005), Judge John E. Jones III; 139-page ruling that ID is not science and that teaching it in public schools violates the Establishment Clause"
-relevant_scientific_alternative = "Francis Crick and Leslie E. Orgel, \"Directed Panspermia,\" *Icarus* 19 (1973): 341–346; Crick, *Life Itself* (1981) — the proposal that life on Earth may have been deliberately seeded by an extraterrestrial intelligence, the closest mainstream-scientific cognate of the framework's position"
-framework_position = "The core ID claim (biological systems are best explained by intelligent design) is reinterpreted as: terrestrial biological complexity, particularly humans, is the product of deliberate engineering by the Elohim, a non-terrestrial biological civilisation. The corpus's position is closer to the Crick-Orgel directed-panspermia hypothesis than to the contemporary ID movement, sharing with ID the central design claim while differing on the designer's identity, on the relationship to evolutionary biology, and on the political-religious context."
+type = "생물 체계의 기능적 복잡성은 지적 설계로 가장 잘 설명된다는 철학적·과학적 학설"
+two_senses = "넓은 의미: 지성에 의한 설계를 말하는 모든 학설로, 그 선행 형태는 아리스토텔레스의 목적론과 중세 스콜라 전통까지 거슬러 올라감. 좁은 의미: 1991년경 이후 디스커버리 연구소와 연계된 미국의 특정 지적 운동."
+foundational_modern_text = "필립 E. 존슨, *Darwin on Trial*(Regnery Gateway, 1991)"
+key_movement_figures = "필립 E. 존슨(1940–2019); 마이클 비히(1952년생); 윌리엄 뎀스키(1960년생); 스티븐 C. 마이어(1958년생); 조너선 웰스(1942년생); 폴 넬슨; 제이 리처즈; 더글러스 액스"
+principal_organisations = "디스커버리 연구소(시애틀, 1991년 설립); 과학과 문화 센터(1996년 설립, 원래 명칭은 과학과 문화 혁신 센터)"
+foundational_arguments = "환원 불가능한 복잡성(비히 1996); 명시된 복잡성 / 설계 추론(뎀스키 1998); 물리 상수의 미세 조정; 생물학적 정보의 기원; 자연발생의 어려움"
+historical_antecedents = "아리스토텔레스의 목적론; 중세 스콜라 전통(아퀴나스의 다섯째 길); 윌리엄 페일리의 *Natural Theology*(1802); 더 넓은 19세기 자연신학 전통"
+foundational_critique = "데이비드 흄, *Dialogues Concerning Natural Religion*(1779); 찰스 다윈, *On the Origin of Species*(1859); 더 넓은 주류 진화생물학 전통"
+landmark_court_case = "키츠밀러 대 도버 교육구 사건(펜실베이니아 중부 연방지방법원, 2005), 존 E. 존스 3세 판사; 지적 설계는 과학이 아니며 공립학교에서 이를 가르치는 것은 국교 설립 금지 조항에 위배된다는 139쪽 분량의 판결"
+relevant_scientific_alternative = "프랜시스 크릭과 레슬리 E. 오겔, \"Directed Panspermia,\" *Icarus* 19 (1973): 341–346; 크릭, *Life Itself*(1981) — 지구의 생명이 외계 지성에 의해 의도적으로 파종되었을 수 있다는 제안으로, 틀의 입장에 가장 가까운 주류 과학의 동족 개념"
+framework_position = "지적 설계의 핵심 주장(생물 체계는 지적 설계로 가장 잘 설명된다)은 다음과 같이 재해석됨: 지구의 생물학적 복잡성, 특히 인간은 지구 밖의 생물학적 문명인 엘로힘이 의도적으로 설계한 산물임. 코퍼스의 입장은 현대 지적 설계 운동보다 크릭-오겔의 지향 범종설 가설에 더 가까우며, 지적 설계와는 중심적인 설계 주장을 공유하면서도 설계자의 정체, 진화생물학과의 관계, 정치-종교적 맥락에서 차이를 보임."
 +++
 
 **Intelligent Design** (ID) is, in the broad sense, the claim that the functional

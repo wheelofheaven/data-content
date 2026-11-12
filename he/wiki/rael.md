@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -18,27 +18,37 @@ alternative_names = ["Claude Vorilhon", "Rael", "Raël Maitreya", "the Maitreya 
 portrait_id = "rael"
 image = "https://assets.wheelofheaven.world/images/wiki/rael-claude-vorilhon-v3.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/rael-claude-vorilhon-v3.avif"
-image_alt = "AI-generated editorial portrait of Rael as a 1970s Claude Vorilhon-style contactee with long hair and lightly tinted glasses."
-image_caption = "Interpretive portrait for the Rael wiki entry and library speaker metadata."
+image_alt = "דיוקן עריכתי שנוצר בבינה מלאכותית של ראל כאיש מגע מסגנון קלוד וורילון של שנות ה־70, ארוך שיער ובמשקפיים בגוון קל."
+image_caption = "דיוקן פרשני לערך הוויקי על ראל ולמטא־נתוני הדוברים של הספרייה."
 timeline = ["aquarius"]
+see_also = [
+    { title = "סנדי והמסרים הראליאניים", path = "articles/sendy-and-the-raelian-messages", description = "כיצד המסר הראשון משתווה לספריו של ז׳אן סנדי: קריאות משותפות בבראשית, כרונולוגיית החיבור, והפרשנות שמעבר לבראשית שאינה מצויה אצל סנדי." },
+    { title = "ראליזם", path = "wiki/raelism", description = "התנועה שוורילון ייסד ב־1976 ככלי למיזם השגרירות." },
+    { title = "נביא", path = "wiki/prophet", description = "הקטגוריה שבה הקנון ממקם אותו כאחרון בשושלת הנביאים." },
+    { title = "אלוהים", path = "wiki/elohim", description = "הציוויליזציה שאת שליחה דיווח שפגש ב־13 בדצמבר 1973." },
+    { title = "יהוה", path = "wiki/yahweh", description = "נשיא האלוהים שמסר את התורה לאורך מגע של שישה ימים." },
+    { title = "השגרירות", path = "wiki/embassy", description = "מיזם המתקן ששליחותו ותנועתו מכוונות לבנייתו." },
+    { title = "אפוקליפסה", path = "wiki/apocalypse", description = "עידן ההתגלות של הדלי, שהמגע שלו נחשב כפותח אותו." },
+    { title = "שישה בקרים, שש שנים", path = "articles/six-mornings-six-years", description = "שלושת ספריו נקראים כהכתבה סדרתית אחת, יחד עם מערכת החשיפה המנהלת אותם." },
+]
 
 [extra.infobox]
-type = "Aquarian-age prophet; founder of the International Raëlian Movement; corpus-identified last of the cumulative prophetic tradition"
-birth_name = "Claude Vorilhon"
-birth_date = "September 30, 1946"
-birth_place = "Vichy, France"
-nationality = "French"
-prior_occupation = "Motor-sports journalist; founder of *Auto Pop* magazine (1970)"
-first_contact = "December 13, 1973, Puy-de-Lassolas volcanic crater, Auvergne, France (six successive morning meetings)"
-second_contact = "October 7, 1975, Roc Plat near Brantôme, Périgord, France (taken aboard alliance craft to the Planet of the Eternals)"
-new_name = "Raël (Hebrew, glossed by source as 'messenger', 'light of the Elohim', or 'ambassador of the Elohim')"
-biological_parentage = "Disclosed by source 1975 (publication withheld three years until 1979): Yahweh, president of the Council of the Eternals"
-principal_works = "*Le Livre qui dit la vérité* (1974); *Les Extra-Terrestres m'ont emmené sur leur planète* (1975/76); *Accueillir les Extra-terrestres* (1979); *La Géniocratie* (1978); *La Méditation Sensuelle* (1980); *Oui au clonage humain* (2000); *Le Maitreya* (anthology of teachings)"
-institutional_role = "Founder and Guide of Guides of the International Raëlian Movement (founded 1976); titular figure of the embassy project"
-identification_with_traditions = "Called by the canon the last of the line of the prophets (ETTMTTP-3:257); the second Message tells each tradition to recognize its own expectation in the present message, including the Buddhist one: 'the new Buddha must be born in the West' (ETTMTTP-3:228). The canon does not use the name Maitreya; the title comes from Raël's later, post-canon writings"
-distinguished_from = "The earlier prophets (Moses, Jesus, Muhammad, Buddha and others) within the cumulative prophetic tradition; the broader contactee tradition of mid-20th century UFO-religion movements; the various scholarly characterizations of Raël as new-religious-movement founder rather than as prophet"
-status_in_source_material = "Substantially documented; biographical content principally drawn from Raël's own autobiographical statements (1974-2005), the Raëlian movement's institutional records, and contemporary journalistic and academic treatments"
-principal_text = "*The Book Which Tells the Truth* (1974); *Extra-Terrestrials Took Me to Their Planet* (1976); *Let's Welcome the Extra-terrestrials* (1979); *The Maitreya* (anthology)"
+type = "נביא עידן הדלי; מייסד התנועה הראלית הבינלאומית; האחרון במסורת הנבואית המצטברת לפי זיהוי הקורפוס"
+birth_name = "קלוד וורילון"
+birth_date = "30 בספטמבר 1946"
+birth_place = "וישי, צרפת"
+nationality = "צרפתי"
+prior_occupation = "עיתונאי ספורט מוטורי; מייסד המגזין *Auto Pop* (1970)"
+first_contact = "13 בדצמבר 1973, לוע הר הגעש פּוּי־דה־לסולה, אוברן, צרפת (שש פגישות בוקר רצופות)"
+second_contact = "7 באוקטובר 1975, רוק פלא ליד ברנטום, פריגור, צרפת (נלקח על סיפון כלי השיט של הברית אל כוכב הלכת של הנצחיים)"
+new_name = "ראל (עברית; המקור מפרש 'שליח', 'אור האלוהים' או 'שגריר האלוהים')"
+biological_parentage = "נחשף בידי המקור ב־1975 (הפרסום נדחה שלוש שנים, עד 1979): יהוה, נשיא מועצת הנצחיים"
+principal_works = "*Le Livre qui dit la vérité* (1974); *Les Extra-Terrestres m'ont emmené sur leur planète* (1975/76); *Accueillir les Extra-terrestres* (1979); *La Géniocratie* (1978); *La Méditation Sensuelle* (1980); *Oui au clonage humain* (2000); *Le Maitreya* (אנתולוגיה של תורות)"
+institutional_role = "מייסד התנועה הראלית הבינלאומית (נוסדה 1976) ו»מדריך המדריכים« שלה; הדמות הטיטולרית של פרויקט השגרירות"
+identification_with_traditions = "הקאנון מכנה אותו האחרון בשושלת הנביאים (ETTMTTP-3:257); המסר השני מורה לכל מסורת לזהות את ציפייתה שלה במסר הנוכחי, ובכלל זה את הציפייה הבודהיסטית: 'הבודהה החדש חייב להיוולד במערב' (ETTMTTP-3:228). הקאנון אינו משתמש בשם מאיטרייה; התואר בא מכתביו המאוחרים של ראל, שלאחר הקאנון"
+distinguished_from = "הנביאים הקודמים (משה, ישוע, מוחמד, בודהה ואחרים) בתוך המסורת הנבואית המצטברת; מסורת אנשי המגע הרחבה של תנועות דת העב״מים של אמצע המאה ה־20; האפיונים המחקריים השונים של ראל כמייסד תנועה דתית חדשה ולא כנביא"
+status_in_source_material = "מתועד במידה ניכרת; התוכן הביוגרפי שאוב בעיקר מהצהרותיו האוטוביוגרפיות של ראל עצמו (1974–2005), מהרשומות המוסדיות של התנועה הראלית ומטיפולים עיתונאיים ואקדמיים בני זמננו"
+principal_text = "*הספר המגלה את האמת* (1974); *החייזרים לקחו אותי לכוכב שלהם* (1976); *בואו נקבל את פני החייזרים* (1979); *המאיטרייה* (אנתולוגיה)"
 +++
 
 {% claim(type="direct", id="woh-claim-0020") %}**Raël**, born **Claude Vorilhon** on September 30, 1946 in Vichy, France, is the French former motor-sports journalist who reported a contact with an officer of the Elohim alliance at the Puy-de-Lassolas volcanic crater near Clermont-Ferrand on the morning of December 13, 1973.{% end %} The contact inaugurated the Aquarian-age prophetic mission and produced the body of teaching subsequently published as *Le Livre qui dit la vérité* (*The Book Which Tells the Truth*, 1974),{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — record of the December 13, 1973 Puy-de-Lassolas contact") }} *Les Extra-Terrestres m'ont emmené sur leur planète* (*Extra-Terrestrials Took Me to Their Planet*, 1975/76),{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Extra-Terrestrials Took Me to Their Planet* (1976) — record of the October 7, 1975 Roc Plat contact and the Planet of the Eternals visit") }} and *Accueillir les Extra-terrestres* (*Let's Welcome the Extra-terrestrials*, 1979){{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="Vorilhon (Raël), *Let's Welcome the Extraterrestrials* (1979) — the biological-parentage disclosure and the embassy project") }} — collectively the principal Raëlian source material that the Wheel of Heaven corpus engages with. The figure subsequently founded the International Raëlian Movement (1976) and across the subsequent five decades has served as the institutional and public face of the broader embassy project and the Aquarian-age program the alliance has proposed for humanity.

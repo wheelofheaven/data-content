@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,21 +15,29 @@ editorial_pass = "2026-05"
 entry_type = "event/period"
 alternative_names = ["the Cities of the Plain", "the Sodom event", "the Sodom strike", "*Sedom va-Amorah* (Hebrew: סְדֹם וַעֲמֹרָה)", "the Genesis 19 destruction", "the Council preventive strike (Taurus phase)", "the second preventive strike", "the Dead Sea event"]
 timeline = ["taurus"]
+see_also = [
+    { title = "大洪水", path = "wiki/great-flood", description = "第一次、行星尺度的议会打击；所多玛则是后来的局部打击。" },
+    { title = "巴别", path = "wiki/babel", description = "相邻的洪水后干预——被驱散的是一次和平示好，而非被镇压的叛乱。" },
+    { title = "亚伯拉罕", path = "wiki/abraham", description = "在创世记 18 章中就这些城的毁灭向耶和华代求。" },
+    { title = "路西法", path = "wiki/lucifer", description = "被流放的亲人类派系（蛇），所多玛的叛乱者声称继承其遗产却将之颠倒。" },
+    { title = "撒但", path = "wiki/satan", description = "曾极力主张毁灭人类的母星派系；有别于路西法的蛇。" },
+    { title = "联盟", path = "wiki/the-alliance", description = "这次打击所执行的遏制政策之制定机构。" },
+]
 
 [extra.infobox]
-type = "Multi-component narrative event; the late-Taurus Council preventive strike against an organized human vengeance movement at the Cities of the Plain"
-chronology = "Late Age of Taurus (conventionally placed approximately 2,000-1,800 BCE on the conventional Abrahamic chronology); approximately 2,500-3,000 years after the Babel intervention; during Abraham's lifetime"
-location = "The Cities of the Plain — Sodom (סְדֹם), Gomorrah (עֲמֹרָה), and the additional cities Admah, Zeboiim, and Zoar — situated in the lower Jordan Valley of the southern Levant; the principal site corresponds to the modern Dead Sea basin"
-participants_council_side = "The home-world Council of the Eternals (the intervening party, monitoring the situation through remote observation); two Council scouts (the 'two angels' of Genesis 19:1) sent for verification reconnaissance; the broader Council military operations responsible for the atomic strike"
-participants_human_side = "The Sodom and Gomorrah rebel population (the descendants of post-Babel scattered scientific elite who had reaccumulated knowledge during the long quiet); Lot and his immediate family (Abraham's nephew, identified by the scouts as not part of the vengeance movement and worth preserving); the broader population of the Cities of the Plain"
-abraham_role = "Witness and intercessor; the Mamre conversation between Abraham and the Yahweh-figure (Genesis 18) preserves the substantial negotiation over the threshold of righteous people; the verification confirmed that the threshold could not be met; the strike was authorized; Abraham's nephew Lot was extracted before the strike"
-purpose_of_the_rebellion = "Organized vengeance / military retaliation: the human-led conspiracy to reverse, by force, the Council's policy of containment, with substantial weapons-program development drawing on scientific knowledge salvaged and reaccumulated during the long quiet between Babel and Sodom"
-council_intervention = "Multi-component intervention: (1) reconnaissance verification by two Council scouts equipped with personal hardware (the 'pocket atomic weapon' of the source's account); (2) extraction of the small population worth preserving (Lot and his immediate family); (3) targeted atomic strike against the Cities of the Plain; (4) substantial geological and ecological transformation of the broader Dead Sea basin"
-physical_signature = "The Dead Sea basin: hypersaline terminal lake approximately 430 meters below sea level, with water ten times saltier than ordinary seawater, dead to all normal aquatic life, sitting in a landscape of sterile salt flats and barren marl; magnesium-chloride dominance; heavy-metal concentrations; surrounding sterilized salt flats extending well beyond ordinary lakeshore evaporation patterns"
-operational_consequence = "The substantial reduction of the Eden lineage to 'a very primitive state' through the elimination of the educated class; the substantial shift from the post-Babel slow-knowledge-reaccumulation phase to the post-Sodom semi-primitive phase; the substantial Serpent-symbolism transformation from positive to negative valence; the broader cultural-symbolic conditions that produced the subsequent Christian-tradition Devil/Lucifer/Serpent conflation"
-distinguished_from = "The Babel intervention (the chronologically earlier Gemini-age dispersion event with substantively different operational character — peace-offering reconciliation attempt vs. organized vengeance movement); the Great Flood (the chronologically much earlier Gemini-age planetary-scale destruction event); the broader Theomachy multi-age narrative (within which Sodom operates as one specific late-Taurus phase); the conventional 'sin of Sodom' theological reading (the framework's specific contribution is the political-military-rebellion reading rather than the conventional sexual-deviance reading)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in 'The Truth' chapter, 'Sodom and Gomorrah' section, of *The Book Which Tells the Truth* establishes the framework's specific content with explicit articulation"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Sodom and Gomorrah' section (the principal Yahweh passage); *timeline.epub* Age of Taurus chapter, Section VI ('The Two Scouts, the Strike, and the Dead Sea') and Section VII ('The Forgetting and the Transformation of the Serpent') — the substantial subsequent corpus articulation"
+type = "叙事事件；金牛座时代晚期议会对平原诸城中一个有组织的人类复仇运动的打击"
+chronology = "金牛座时代晚期（按亚伯拉罕纪年通常定于约公元前 2,000–1,800 年）；巴别干预之后约 2,500–3,000 年；在亚伯拉罕在世期间"
+location = "平原诸城——所多玛（סְדֹם）、蛾摩拉（עֲמֹרָה）以及押玛、洗扁、琐珥等城——位于黎凡特南部的约旦河谷下游；主要地点对应现代的死海盆地"
+participants_council_side = "故乡世界的永恒者议会，以远程观察监视局势；派去核实威胁的两名议会侦察者（创世记 19:1 中的「两个天使」）；执行打击的议会人员"
+participants_human_side = "所多玛与蛾摩拉的居民——巴别之后被分散的科学精英的后代，他们在漫长的沉寂期间重新聚集了知识；罗得及其直系家人（亚伯拉罕的侄子，被判定不属于该运动、值得保全）"
+abraham_role = "见证者与代求者；幔利的对话（创世记 18）保存了他就义人人数门槛所作的协商；当这一门槛无法达到时，打击获得授权，他的侄子罗得事先被撤离"
+purpose_of_the_rebellion = "有组织的复仇：一个由人类主导的计划，企图以武力推翻议会的遏制政策，所依凭的是在巴别与所多玛之间漫长沉寂期间抢救并重新积累起来的科学知识"
+council_intervention = "（1）由配备个人装备（源材料中的「袖珍原子武器」）的两名侦察者进行侦察；（2）撤离值得保全的少数人（罗得及其家人）；（3）对平原诸城进行定点原子打击；（4）死海盆地的地质改变"
+physical_signature = "死海盆地：一个低于海平面约 430 米的高盐度终端湖，盐度约为海水的十倍，一般水生生物无法存活；以氯化镁为主；重金属浓度异常；周围是不毛的盐滩"
+operational_consequence = "伊甸血统因失去其受教育阶层而沦为「非常原始的状态」；从巴别之后的恢复阶段转入所多玛之后的倒退；蛇的象征由正面转为负面，为后来魔鬼／路西法／蛇的混同埋下伏笔"
+distinguished_from = "巴别干预（较早时被驱散的和平提议，而非被镇压的反叛）；大洪水（早得多的、行星规模的打击）；更广的神战叙事（所多玛是其中金牛座时代晚期的一个阶段）；传统的「所多玛之罪」解读（本框架解读为政治—军事反叛，而非性的偏差）"
+status_in_source_material = "有据可查；主要的耶和华段落见于《讲述真相之书》的 「所多玛与蛾摩拉」一节"
+principal_text = "《讲述真相之书》（1974），「所多玛与蛾摩拉」一节（主要的耶和华段落）；*timeline.epub*，金牛座时代一章，第 VI 节（'The Two Scouts, the Strike, and the Dead Sea'）与第 VII 节（'The Forgetting and the Transformation of the Serpent'）"
 +++
 
 **Sodom and Gomorrah** (Hebrew: סְדֹם וַעֲמֹרָה, *Sedom va-Amorah*) is the

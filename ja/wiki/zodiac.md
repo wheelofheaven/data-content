@@ -6,29 +6,40 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the zodiac belt", "the zodiacal circle", "*zōidiakos kyklos* (Greek: ζῳδιακὸς κύκλος, 'circle of small figures')", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "the celestial circle", "the wheel of heaven (in older usage)", "the twelve houses (in astrological usage)"]
+alternative_names = ["黄道帯", "獣帯の円", "*zōidiakos kyklos*(ギリシア語:ζῳδιακὸς κύκλος、「小さな像の円」)", "*Mazzaroth*(ヘブライ語:מַזָּרוֹת)", "天の円", "天の輪(古い用法で)", "十二の宮(占星術の用法で)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "世界年代", path = "wiki/world-age", description = "この枠組みの暦において、黄道帯の各区分が画する歳差運動の時代。" },
+    { title = "二重の署名", path = "wiki/doubled-signature", description = "黄道帯の六つの対極の軸が生み出す原理。" },
+    { title = "ハムレットの臼", path = "wiki/hamlets-mill", description = "黄道帯と歳差運動の符号化を文化横断的に読むための学術的な錨。" },
+    { title = "宇宙の連鎖", path = "wiki/cosmic-chain", description = "黄道帯の暦が構造づける、より広い年代学的枠組み。" },
+    { title = "ヘブライ語聖書", path = "wiki/hebrew-bible", description = "コーパスがそのマザロトの内容を黄道帯の枠組みを通して読む伝統。" },
+    { title = "ジャン・サンディ", path = "wiki/jean-sendy", description = "その黄道帯宗教(religion zodiacale)の読解が、コーパスの歳差運動の扱いに先立つ著者。" },
+    { title = "諸時代を挽く臼", path = "articles/the-mill-that-grinds-the-ages", description = "大年の十二の時刻としての黄道帯。各時代は春分点の星座にちなんで名づけられる。" },
+    { title = "マザロト", path = "wiki/mazzaroth", description = "黄道帯を指すヘブライ語の名称。ヨブ記38章のマザロトと、その末裔である mazzal。" },
+    { title = "タウロクトニー", path = "wiki/tauroctony", description = "牡牛座の時代の星図として読まれる、ミトラスの牡牛供犠。" },
+]
 
 [extra.infobox]
-type = "Structural-foundational concept; the principal observational-symbolic framework underlying the precessional age system"
-definition = "The band of sky extending approximately 8° on either side of the ecliptic, divided into twelve constellational regions named after small figures (animal, human, and inanimate) traversed by the sun, moon, and planets in their apparent celestial motion"
-the_twelve_signs = "Aries (the Ram), Taurus (the Bull), Gemini (the Twins), Cancer (the Crab), Leo (the Lion), Virgo (the Virgin), Libra (the Scales), Scorpio (the Scorpion), Sagittarius (the Archer), Capricorn (the Sea-Goat), Aquarius (the Water-Bearer), Pisces (the Fishes)"
-six_paired_oppositions = "Aries↔Libra, Taurus↔Scorpio, Gemini↔Sagittarius, Cancer↔Capricorn, Leo↔Aquarius, Virgo↔Pisces — six axes producing the doubled-signature principle"
-ecliptic_basis = "The ecliptic — the apparent annual path of the sun against the stellar background, produced by Earth's orbital motion around the sun, inclined approximately 23.44° to the celestial equator"
-constellational_basis = "The twelve constellations occupy varying angular extents along the ecliptic (modern IAU boundaries; idealized 30°-per-sign in classical astrological usage); the constellations are not equal in size — Virgo is the largest, Capricorn among the smallest"
-mechanism_of_precessional_relevance = "The vernal equinox precesses backward (westward) through the zodiac at approximately one constellation per 2,160 years, producing the precessional age sequence (Capricorn → Sagittarius → Scorpio → ... → Pisces → Aquarius → back to Capricorn)"
-framework_reading = "The zodiac as the alliance's engineering tool — the long-duration calendrical framework devised by the Elohim for their interstellar biotech program, with the zodiacal names and the paired-opposition structure operating as functional engineering features rather than mystical-aesthetic conventions"
-zodiacal_names_origin = "On the corpus's reading: the Elohim's own conceptual shorthand for the twelve ecliptic segments, inherited by human civilizations through cultural transmission across the post-flood ages; later human civilizations modified the figures while preserving the underlying twelve-fold structure"
-distinguished_from = "Mainstream astrology's tropical zodiac (signs tied to seasonal positions rather than actual constellational positions, decoupled from precessional motion); the various cross-cultural zodiacal-equivalent traditions (Chinese twelve-animal cycle, Indian nakshatra system, Mesoamerican calendrical traditions) which preserve substantive parallel content within distinctive cultural framings; the broader astronomical constellational framework (the 88 IAU-defined constellations of which the twelve zodiacal constellations are a subset)"
-status_in_framework = "Foundational; the zodiac operates as the principal observational-symbolic complement to the World Age temporal framework, with the two together constituting the corpus's principal cosmic-chronological architecture"
-principal_corpus_treatment = "*timeline.epub*, particularly the Libra chapter's Section VI.2 ('The Zodiacal Framework as Engineering Tool'); Jean Sendy, *L'ère du Verseau* (1970), with substantial systematic engagement with Moses's use of zodiacal symbolism (the *religion zodiacale* framework)"
+type = "黄道に沿った星座の帯。歳差運動による世界の時代の基礎にある観測上の枠組み"
+definition = "黄道の両側に約8°ずつ広がる天の帯。太陽、月、惑星がその見かけの天体運動で通過する、小さな像(動物、人間、無生物)にちなんで名づけられた十二の星座領域に分けられる"
+the_twelve_signs = "牡羊座(雄羊)、牡牛座(雄牛)、双子座(双子)、蟹座(蟹)、獅子座(獅子)、乙女座(乙女)、天秤座(天秤)、蠍座(蠍)、射手座(射手)、山羊座(海の山羊)、水瓶座(水を運ぶ者)、魚座(魚)"
+six_paired_oppositions = "牡羊座↔天秤座、牡牛座↔蠍座、双子座↔射手座、蟹座↔山羊座、獅子座↔水瓶座、乙女座↔魚座――二重の署名の原則を生む六つの軸"
+ecliptic_basis = "黄道――恒星を背景とした太陽の見かけの年周経路。太陽の周りを回る地球の公転運動によって生じ、天の赤道に対して約23.44°傾いている"
+constellational_basis = "十二の星座は黄道に沿ってさまざまな角度の範囲を占める(現代のIAUの境界。古典的な占星術の用法では理想化された一宮30°)。星座の大きさは等しくない ― 乙女座が最大で、蟹座が最小である"
+mechanism_of_precessional_relevance = "春分点は黄道十二宮を約2,160年に一星座の割合で逆行(西向き)し、歳差運動の時代の連続を生む(山羊座 → 射手座 → 蠍座 → ……→ 魚座 → 水瓶座 → 再び山羊座へ)"
+framework_reading = "エロヒムの工学的道具としての黄道帯 ― 地球での計画のために考案された長期の暦であり、その名称と対をなす対立の構造は、神秘的な慣習ではなく機能的な特徴である"
+zodiacal_names_origin = "コーパスの読解では、黄道の十二の区分を表すエロヒム自身の略記であり、洪水後の文化的伝達を通じて人類の文明に受け継がれ、十二分割の構造を保ったまま変化した"
+distinguished_from = "主流の占星術のトロピカル黄道帯(星座宮は実際の星座ではなく季節上の位置に結びつけられ、歳差運動から切り離されている)。それぞれの枠組みの中で並行する内容を担う、文化横断的な黄道帯の相当物(中国の十二支、インドのナクシャトラの体系、メソアメリカの暦の伝統)。そしてより広い天文学上の星座の集合(IAUの88星座。黄道十二星座はその一部)"
+status_in_framework = "基礎的。黄道帯は世界の時代の年代学を観測と象徴の面から補完するものであり、両者が合わさってコーパスの宇宙的・年代学的な構造を形づくる"
+principal_corpus_treatment = "*timeline.epub*、とくに天秤座の章の「The Zodiacal Framework as Engineering Tool」。ジャン・サンディ、*L'ère du Verseau*(1970年)、モーセによる黄道帯の象徴の使用(*religion zodiacale*)について"
 +++
 
 The **Zodiac** (Greek: ζῳδιακὸς κύκλος, *zōidiakos kyklos*, "circle of small

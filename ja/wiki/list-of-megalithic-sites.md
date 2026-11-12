@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,17 +14,27 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of megalithic sites", "Ancient megalithic architecture index", "Cyclopean and megalithic construction reference"]
+alternative_names = ["巨石遺跡の目録", "古代巨石建築の索引", "キュクロプス式・巨石建造物の参考資料"]
+see_also = [
+    { title = "古代の建設者", path = "wiki/ancient-builders", description = "この目録に挙げられた遺跡を誰が建てたのかを扱う、対をなす項目。" },
+    { title = "考古天文学", path = "wiki/archaeoastronomy", description = "目録に収められた多くの遺跡にわたって記録された、体系的な天文学的配列。" },
+    { title = "エロヒム", path = "wiki/elohim", description = "この枠組みが、古代の高度な建造を断続的に支援したとみなす創造者たち。" },
+    { title = "神話素および神話的モチーフのリスト", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "コーパスが巨石の物的証拠と並べて読む神話の記録。" },
+    { title = "パンゲア", path = "wiki/pangaea", description = "コーパスの深い建造の年代学に先立ち、それを枠づける洪水以前の陸塊。" },
+    { title = "創世記", path = "wiki/genesis", description = "初期の高度な人間の文明についてのコーパスの記述を固定する原典の物語。" },
+    { title = "ギョベクリ・テペ", path = "wiki/gobekli-tepe", description = "紀元前9600年頃の聖域。目録が扱う中で最も古く年代づけられた遺跡。" },
+    { title = "大スフィンクス", path = "wiki/great-sphinx", description = "ギザの獅子の記念碑。目録が扱う、年代が変則的なもう一つの遺跡。" },
+]
 
 [extra.infobox]
-type = "Reference catalogue of megalithic archaeological sites"
-scope = "Pre-Pottery Neolithic through pre-Columbian eras; primary focus on sites with substantial framework relevance"
-criteria_for_inclusion = "Substantial use of large stone blocks (megaliths); evidence of advanced construction technique; documented archaeoastronomical alignments; cultural prominence; or framework relevance for the corpus's interpretive work"
-date_ranges_represented = "From c. 9600 BCE (Göbekli Tepe and Pre-Pottery Neolithic complex) to c. 1600 CE (late pre-Columbian Andean and Mesoamerican)"
-catalogue_columns = "Site name; location; conventional dating; construction features; archaeoastronomy where applicable; framework reading"
-mainstream_archaeology_position = "Sites are products of human civilisations using documented construction techniques appropriate to their periods; framework readings of extreme antiquity or extraterrestrial-assistance are not endorsed by mainstream archaeology"
-framework_position = "Megalithic record preserves operational evidence of advanced ancient construction capability across multiple regions and time-periods, consistent with the corpus's account of intermittent Elohim-supported cultural development during the Earth project's middle and later phases"
-caveat = "Coverage is selective rather than exhaustive; dating and construction-feature claims follow mainstream archaeological consensus where one exists, with contested or alternative claims explicitly flagged"
+type = "巨石考古遺跡の参考目録"
+scope = "先土器新石器時代からコロンブス以前の時代まで。この枠組みに大きくかかわる遺跡を主な対象とする"
+criteria_for_inclusion = "大型の石材(巨石)の大規模な使用、高度な建設技術の証拠、記録された考古天文学的配列、文化的な重要性、またはコーパスの解釈作業にとっての枠組み上の重要性"
+date_ranges_represented = "紀元前9600年頃(ギョベクリ・テペと先土器新石器時代の複合遺跡)から紀元1600年頃(コロンブス以前の後期アンデスとメソアメリカ)まで"
+catalogue_columns = "遺跡名、場所、通説の年代、建設上の特徴、該当する場合は考古天文学、この枠組みの読解"
+mainstream_archaeology_position = "遺跡は、それぞれの時代にふさわしい記録された建設技術を用いた人類文明の産物である。極端な古さや地球外の援助を想定するこの枠組みの読解は、主流の考古学によって支持されていない"
+framework_position = "各遺跡を、それぞれの説ごとの評価の水準で登録し、主流の考古学の説明を余さず併記する。いかなる遺跡、配列、年代の見直しも、この枠組みの証拠とはならない"
+caveat = "網羅的ではなく選択的。年代と建設上の特徴に関する主張は、主流の考古学的合意がある場合はそれに従い、議論のある主張や別解釈は明示する"
 +++
 
 This entry catalogues megalithic sites of the ancient world — large stone structures whose construction features, dating, or astronomical alignments make them objects of substantial archaeological interest and, in many cases, objects of the Wheel of Heaven framework's interpretive engagement. *Megalith* derives from the Greek *megas* "great" + *lithos* "stone," and is used in archaeology to designate any structure incorporating large stone blocks as principal construction elements. The conventional archaeological literature treats the megalithic phenomenon as a feature of the Neolithic and Bronze Age periods (c. 9600 BCE through c. 1500 BCE in different regional contexts), with later megalithic traditions (Andean, Mesoamerican, sub-Saharan African) extending in some cases into the second millennium CE. The catalogue's scope encompasses this full range.

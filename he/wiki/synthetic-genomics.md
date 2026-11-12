@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,16 +16,25 @@ editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
 alternative_names = ["Whole-genome synthesis", "Genome engineering", "Genome-scale design"]
+see_also = [
+    { title = "הנדסת חיים", path = "wiki/life-engineering", description = "תחום האם שהגנומיקה הסינתטית היא האגף השאפתני ביותר שלו." },
+    { title = "ביולוגיה סינתטית", path = "wiki/synthetic-biology", description = "התחום האח הפועל בקנה מידה של תת־מערכות, מתחת לבניית גנום שלם." },
+    { title = "הנדסה גנטית", path = "wiki/genetic-engineering", description = "התחום האח הפועל בשינוי גנומים קיימים ולא בסינתזה שלהם." },
+    { title = "אלוהים", path = "wiki/elohim", description = "הציוויליזציה שקנה המידה של התחום תואם באופן הישיר ביותר את בריאת האורגניזם השלם שלה." },
+    { title = "בראשית", path = "wiki/genesis", description = "סיפור הבריאה שהקורפוס קורא כמתאר בניית חיים מרצפים מתוכננים." },
+    { title = "עץ החיים", path = "wiki/tree-of-life", description = "המקבילה של טכנולוגיית הארכת החיים, שהקורפוס מזווג עם הנדסת חיים נבראים." },
+    { title = "החתימה והמתכננים", path = "/articles/the-signature-and-the-designers/", description = "הגנום המינימלי המתוכנן של ונטר, הנקרא כשחזור עכשווי של יכולת המעבדה של האלוהים." },
+]
 
 [extra.infobox]
-type = "Engineering sub-discipline of life engineering concerned with whole-genome design and synthesis"
-parent_field = "Life engineering"
-sister_fields = "Genetic engineering; synthetic biology; xenobiology"
-distinguishing_feature = "Operates at the scale of complete genomes rather than at the sub-system or single-gene scale"
-foundational_milestones = "Chemical synthesis of phage φX174 genome (Smith, Hutchison, and Venter, 2003); synthesis of *Mycoplasma genitalium* genome (Gibson and colleagues, 2008); JCVI-syn1.0 — first cell with entirely synthetic genome (Gibson and colleagues, 2010); JCVI-syn3.0 — first minimal synthetic cell, 473 genes (Hutchison and colleagues, 2016); JCVI-syn3A — stabilised minimal-cell platform (Pelletier and colleagues, 2021); Sc2.0 — synthetic *Saccharomyces cerevisiae* genome (international consortium, 2011–present)"
-key_techniques = "Hierarchical assembly of synthetic oligonucleotides; genome transplantation; yeast as DNA-assembly host; whole-chromosome synthesis"
-current_status = "Active scientific discipline; complete bacterial genomes now routinely synthesised; eukaryotic-genome work ongoing; multicellular-genome synthesis not yet achieved"
-framework_significance = "The sub-discipline whose operational scale — whole-organism construction from designed sequence — most directly matches the scale of the Elohim's work as described in the source material"
+type = "תת־דיסציפלינה הנדסית של הנדסת החיים העוסקת בתכנון ובסינתזה של גנומים שלמים"
+parent_field = "הנדסת חיים"
+sister_fields = "הנדסה גנטית; ביולוגיה סינתטית; קסנוביולוגיה"
+distinguishing_feature = "פועלת בקנה המידה של גנומים שלמים ולא בקנה המידה של תת־מערכות או של גן בודד"
+foundational_milestones = "סינתזה כימית של גנום הפאג' φX174 (סמית', האצ'יסון ונטר, 2003); סינתזת הגנום של *Mycoplasma genitalium* (גיבסון ועמיתיו, 2008); JCVI-syn1.0 — התא הראשון עם גנום סינתטי לחלוטין (גיבסון ועמיתיו, 2010); JCVI-syn3.0 — התא הסינתטי המינימלי הראשון, 473 גנים (האצ'יסון ועמיתיו, 2016); JCVI-syn3A — פלטפורמת תא מינימלי מיוצבת (פלטייה ועמיתיו, 2021); Sc2.0 — גנום סינתטי של *Saccharomyces cerevisiae* (קונסורציום בינלאומי, 2011–היום)"
+key_techniques = "הרכבה היררכית של אוליגונוקלאוטידים סינתטיים; השתלת גנום; שמרים כמארחים להרכבת DNA; סינתזה של כרומוזומים שלמים"
+current_status = "דיסציפלינה מדעית פעילה; גנומים חיידקיים שלמים מסונתזים כיום כדבר שבשגרה; העבודה על גנומים אאוקריוטיים נמשכת; סינתזה של גנום רב־תאי טרם הושגה"
+framework_significance = "תת־הדיסציפלינה שקנה המידה המבצעי שלה — בניית אורגניזם שלם מרצף מתוכנן — תואם באופן הישיר ביותר את קנה המידה של עבודת האלוהים כפי שהיא מתוארת בחומר המקור"
 +++
 
 **Synthetic genomics** is the branch of [life engineering](../life-engineering/) concerned with the design, chemical synthesis, and assembly of complete genomes or large portions of genomes — the construction of an organism's entire hereditary material from designed sequence rather than from the modification of existing biological templates. It is the most ambitious wing of contemporary life engineering and the one whose scale of operation most directly approaches the scale at which the Raëlian source material describes the work of the Elohim civilisation. Where [synthetic biology](../synthetic-biology/) more broadly operates at the level of sub-systems and components, and where [genetic engineering](../genetic-engineering/) operates at the level of modifications to existing genomes, synthetic genomics operates at the level of the genome itself.

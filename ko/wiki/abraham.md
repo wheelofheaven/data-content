@@ -6,30 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Abraham (English)", "Abram (pre-renaming name)", "אַבְרָהָם (Hebrew Avraham)", "אַבְרָם (Hebrew Avram)", "إبراهيم (Arabic Ibrāhīm)", "Ἀβραάμ (Greek Abraám)", "the Patriarch", "Avraham Avinu (Jewish 'Abraham our father')", "Khalīl Allāh (Arabic 'Friend of God')"]
+alternative_names = ["Abraham (영어)", "아브람(개명 이전의 이름)", "אַבְרָהָם (히브리어 Avraham)", "אַבְרָם (히브리어 Avram)", "إبراهيم (아랍어 Ibrāhīm)", "Ἀβραάμ (그리스어 Abraám)", "족장", "Avraham Avinu (유대교의 '우리 조상 아브라함')", "Khalīl Allāh (아랍어 '하나님의 벗')"]
 timeline = ["age-of-taurus", "age-of-aries"]
+see_also = [
+    { title = "노아 언약", path = "wiki/noahic-covenant", description = "아브라함 언약이 그 계보를 잇는 홍수 이후의 언약." },
+    { title = "소돔과 고모라", path = "wiki/sodom-and-gomorrah", description = "창세기 18장에서 아브라함이 협상하는 평의회의 예방 타격." },
+    { title = "모세", path = "wiki/moses", description = "같은 에덴 계보 회복 속의 후대 언약 중개자." },
+    { title = "하니피야", path = "wiki/hanafiyya", description = "이슬람 전통이 아브라함에게까지 거슬러 올라가는 원초적 하니프 일신교." },
+    { title = "페트라", path = "wiki/petra", description = "아브라함과 히자즈 문제의 중심에 있는 나바테아 성소." },
+]
 
 [extra.infobox]
-type = "Biblical figure; Eden-lineage patriarch verified by post-Sodom Council loyalty test; founding patriarch for three Abrahamic religions plus Baha'i"
-hebrew_name = "אַבְרָהָם (Avraham, 'father of multitudes'); originally אַבְרָם (Avram, 'exalted father')"
+type = "성경 인물; 소돔 이후 평의회의 충성 시험으로 검증된 에덴 계보의 족장; 세 아브라함 종교와 바하이의 시조 족장"
+hebrew_name = "אַבְרָהָם (Avraham, '많은 무리의 아버지'); 본래 이름 אַבְרָם (Avram, '높임받는 아버지')"
 arabic_name = "إبراهيم (Ibrāhīm)"
-biblical_dating = "Taurus-Aries boundary in corpus chronology (late Age of Taurus, c. 2,000-1,900 BCE in mainstream traditional chronology); Genesis records Abraham as 75 years old at the lekh lekha call (Gen 12:4), 100 at Isaac's birth (Gen 21:5), 175 at death (Gen 25:7)"
-principal_biblical_location = "Genesis 11:26-25:18; subsequent references in Exodus 3:6-15, Joshua 24:2-3, Isaiah 41:8, 51:2, Psalms 105:6-9, Matthew 1:1-2, Luke 3:34, Romans 4, Galatians 3, Hebrews 11:8-19, James 2:21-23"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Sacrifice of Abraham' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Taurus chapter, Sections VIII and IX"
-core_corpus_articulation = "Post-Sodom Council recruitment and verification figure; tested loyalty around whom diminished Eden-lineage population reorganized; founding patriarch for Aries-age recovery program"
-covenant_role = "Abrahamic Covenant (Genesis 15, 17): geographic promise (Nile-to-Euphrates); descendant promise (numerous as stars and sand); circumcision (*brit milah*) as physical-marker covenant institution"
-loyalty_test = "Akedah / Sacrifice of Isaac (Genesis 22) — formal Council loyalty test conducted by visiting officer; Hebrew *nissah* ('tested') frames episode from opening verse; *ki atah yadati* ('for now I know') confirms empirical-investigation framing"
-key_figures = "Sarah (wife, mother of Isaac); Hagar (Egyptian handmaid, mother of Ishmael); Isaac (covenant-line son through Sarah); Ishmael (Arab-lineage son through Hagar); Keturah (third wife after Sarah; mother of six additional sons including Midian); Lot (nephew, Sodom survivor)"
-three_faiths_status = "Founding patriarch for Judaism (through Isaac), Christianity (through Isaac via Jesus genealogy), Islam (through Ishmael as Ibrahim, Hanif primordial-monotheist), Baha'i (through Keturah lineage to Baha'u'llah)"
-distinguished_from = "Mainstream uniquely-faithful-individual reading; ancient-astronaut alternative readings (Sitchin, Biglino); mainstream biblical-scholarly Documentary Hypothesis source-critical reading; minimalist historical-critical engagement (Van Seters) treating patriarchal narratives as later literary composition"
-status_in_framework = "Foundational Taurus-Aries transitional figure; tested founding patriarch; principal recovery-program founder following Sodom destruction; structural inaugurator of Aries-age Eden-lineage political-religious arrangement"
+biblical_dating = "코퍼스 연대기에서 황소자리-양자리 경계(황소자리 시대 후기, 주류 전통 연대기로 기원전 약 2,000~1,900년); 창세기는 아브라함이 *레크 레카* 부르심 때 75세(창 12:4), 이삭이 태어날 때 100세(창 21:5), 죽을 때 175세(창 25:7)였다고 기록"
+principal_biblical_location = "창세기 11:26-25:18; 이후의 언급은 출애굽기 3:6-15, 여호수아 24:2-3, 이사야 41:8, 51:2, 시편 105:6-9, 마태복음 1:1-2, 누가복음 3:34, 로마서 4장, 갈라디아서 3장, 히브리서 11:8-19, 야고보서 2:21-23"
+principal_source = "*The Book Which Tells the Truth*(보릴롱, 1974), 'The Truth' 장, 'The Sacrifice of Abraham' 절. 통합본 *Message from the Designers*(2005). *timeline.epub* — 주로 황소자리 시대 장 VIII절과 IX절에서 확장된 코퍼스 논의"
+core_corpus_articulation = "소돔 이후 평의회의 모집·검증 인물; 시험을 거친 충성을 중심으로 줄어든 에덴 계보 인구가 재편됨; 양자리 시대 회복 프로그램의 시조 족장"
+covenant_role = "아브라함 언약(창세기 15장, 17장): 지리적 약속(나일강에서 유프라테스강까지); 후손의 약속(별과 모래처럼 많음); 신체 표지 언약 제도로서의 할례(*브리트 밀라*)"
+loyalty_test = "아케다 / 이삭의 희생(창세기 22장) — 방문한 관리가 수행한 평의회의 공식 충성 시험; 히브리어 *닛사*('시험하셨다')가 첫 절부터 일화의 틀을 정하며, *키 아타 야다티*('이제야 내가 알았다')가 경험적 조사라는 틀을 확인함"
+key_figures = "사라(아내, 이삭의 어머니); 하갈(이집트인 여종, 이스마엘의 어머니); 이삭(사라에게서 난 언약 계보의 아들); 이스마엘(하갈에게서 난 아랍 계보의 아들); 그두라(사라 이후의 셋째 아내; 미디안을 포함한 여섯 아들의 어머니); 롯(조카, 소돔의 생존자)"
+three_faiths_status = "유대교(이삭을 통해), 그리스도교(예수의 족보에 이르는 이삭을 통해), 이슬람(이브라힘, 곧 태초의 일신론자 하니프로서 이스마엘을 통해), 바하이(그두라 계보를 거쳐 바하올라에 이르는)의 시조 족장"
+distinguished_from = "주류의 유일하게 신실한 개인이라는 독법; 고대 우주인 대안 독법(시친, 비글리노); 주류 성서학의 문서설 자료비평 독법; 족장 서사를 후대의 문학적 창작으로 보는 최소주의 역사비평적 접근(반 세터스)"
+status_in_framework = "황소자리-양자리 전환기의 기초 인물; 시험을 거친 시조 족장; 소돔 파괴 이후 회복 프로그램의 주요 창시자; 양자리 시대 에덴 계보의 정치-종교적 체제를 구조적으로 연 인물"
 +++
 
 **Abraham** (Hebrew אַבְרָהָם, *Avraham*; Arabic إبراهيم, *Ibrāhīm*) is the founding

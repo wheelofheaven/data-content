@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 99
@@ -23,14 +23,16 @@ alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "Иегов
 portrait_id = "yahweh"
 image = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.avif"
-image_alt = "AI-generated editorial portrait of Yahweh as an elder Eloha with almond-shaped eyes, long pale hair, and a calm green-lit presence."
-image_caption = "Interpretive portrait for the Yahweh wiki entry and library speaker metadata."
+image_alt = "Созданный ИИ редакционный портрет Яхве как старшего Элоха с миндалевидными глазами, длинными светлыми волосами и спокойным присутствием в зелёном освещении."
+image_caption = "Интерпретирующий портрет для вики-статьи о Яхве и метаданных говорящих в библиотеке."
 see_also = [
     { title = "Элохим", path = "wiki/elohim", description = "Множественное обозначение, главным членом которого является Яхве." },
     { title = "Совет Вечных", path = "wiki/council-of-the-eternals", description = "Руководящий орган, который возглавляет Яхве." },
     { title = "Иисус", path = "wiki/jesus", description = "Фигура, традиционно отождествляемая с сыном Яхве в христианской традиции." },
     { title = "Моисей", path = "wiki/moses", description = "Основной контакт Яхве в повествовании об Исходе." },
     { title = "Авраам", path = "wiki/abraham", description = "Патриарх-основатель, через которого Яхве установил завет." },
+    { title = "Монотеизм — не тот вопрос", path = "articles/monotheism-is-the-wrong-question", description = "Яхве прочитан как поименованный представительный Элоах, говорящий от имени множественных творцов, а не как само бытие." },
+    { title = "Шесть утр, шесть лет", path = "articles/six-mornings-six-years", description = "Читает его как собственного редактора: утаённые имена, приуроченные запреты на раскрытие, правка, защищающая источник." },
 ]
 
 footnotes = [

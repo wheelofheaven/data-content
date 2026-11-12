@@ -6,26 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the awaited Golden Age", "the Golden Age of civilization", "the earthly paradise", "the Golden Age of interplanetary civilization", "the operational Golden Age"]
+alternative_names = ["기다려 온 황금시대", "문명의 황금시대", "지상 낙원", "행성 간 문명의 황금시대", "the operational Golden Age"]
 timeline = ["age-of-aquarius", "post-aquarius"]
+see_also = [
+    { title = "거시생물학", path = "wiki/macrobiology", description = "완료된 개체성의 주요 전환 — 일관된 지구적 유기체에 이른 인류를 생물학적으로 읽은 것." },
+    { title = "묵시록", path = "wiki/apocalypse", description = "황금시대를 열 수도, 그 파국적 대안을 열 수도 있는 문턱의 계시 순간." },
+    { title = "에덴", path = "wiki/eden", description = "미래의 실현이 회복하는 역사적 황금시대로 읽히는 원초적 실험실." },
+    { title = "우주의 사슬", path = "wiki/cosmic-chain", description = "황금시대의 성숙이 한 단계로 작동하는 계승 프레임워크." },
+    { title = "파라디즘", path = "wiki/paradism", description = "그 실행이 황금시대를 특징짓는 탈희소성 사회 프로그램." },
+    { title = "천재정치", path = "wiki/geniocracy", description = "원천 자료에서 황금시대와 나란히 표명된 통치 모델." },
+    { title = "대사관", path = "wiki/embassy", description = "그 완성이 인류의 성공적인 물병자리 시대 항해를 좌우하는 프로젝트." },
+    { title = "햄릿의 맷돌", path = "wiki/hamlets-mill", description = "폐위된 '황금시대의 주인' — 척도를 준 자 사투르누스 — 그의 부서진 맷돌이 시대들을 갈아냅니다." },
+    { title = "시대를 갈아내는 맷돌", path = "articles/the-mill-that-grinds-the-ages", description = "폐위되어 잠든 왕의 통치로서의 황금시대로, 세차 바퀴가 한 바퀴를 마칠 때 돌아올 것입니다." },
+    { title = "인류의 형상", path = "articles/the-shape-of-humanity", description = "황금시대를 유기체로서의 인류가 백분의 일의 문턱을 넘어 성공적으로 성숙하는 것으로 그리는 해설." },
+]
 
 [extra.infobox]
-type = "Eschatological-cosmological concept; the operational form of life that becomes available to humanity if it navigates the Aquarian-age threshold successfully"
-principal_corpus_articulation = "Vorilhon's Buddhism section in *Message from the Designers* (the substantial Buddhist-enlightenment metaphor); the substantial soteriological dual-path passage; the seven-characteristics articulation in *timeline.epub*"
-seven_principal_characteristics = "(1) Progressive elimination of material scarcity through nanotechnology and automation; (2) Substantial longevity through biological rejuvenation and computational continuation; (3) Transformation of social and political life through New Commandments implementation; (4) Computational continuation as substantive option; (5) Cultivated cognitive capacities including telepathy; (6) New spirituality appropriate to scientifically mature age; (7) Maturation into creating-civilization status"
-contingent_realization = "Realization is contingent on humanity's collective navigation of the Aquarian-age threshold; not automatic but dependent on cumulative effects of individual choices across the broader population"
-distinguished_from = "The Age of Aquarius (the broader chronological-astronomical period within which Golden Age may emerge); Apocalypse (the threshold-revelation moment); Cyberparadism (the contemporary aesthetic articulation); Cosmic Chain (the broader succession framework); Eden (the originary historical Golden Age)"
-relationship_to_eden = "Eden as the originary historical Golden Age (the alliance laboratory in which early humans lived in environmental-technological harmony); the Aquarian-age Golden Age as recovery and extension of that originary content at planetary civilizational scale"
-parallel_cross_cultural_traditions = "Greek/Roman ages of man (Hesiod, Ovid); Hindu Satya/Treta/Dvapara/Kali yuga framework; Mesoamerican Long Count cycles; Buddhist Maitreya tradition; Norse Ragnarök and post-Ragnarök regeneration; Persian Zoroastrian Frashokereti; Chinese cycle traditions; various indigenous 'great-cleansing/renewal' prophecies"
+type = "종말론적·우주론적 개념. 인류가 물병자리 시대의 문턱을 성공적으로 헤쳐 나갈 경우 가능해지는 삶의 형태"
+principal_corpus_articulation = "*Message from the Designers*에 있는 보릴롱의 불교 절(불교적 깨달음의 은유), 구원론적 두 갈래 길 구절, 코퍼스 연대기 자료의 일곱 특징 표명"
+seven_principal_characteristics = "(1) 나노기술과 자동화를 통한 물질적 결핍의 제거, (2) 생물학적 회춘과 전산적 지속을 통한 크게 연장된 수명, (3) 새 계명을 통한 사회·정치 생활의 변혁, (4) 개인 정체성을 위한 선택지로서의 전산적 지속, (5) 텔레파시를 포함한 계발된 인지 능력, (6) 과학적으로 성숙한 시대에 맞는 새로운 영성, (7) 창조하는 문명의 지위로의 성숙"
+contingent_realization = "인류가 물병자리 시대의 문턱을 집단적으로 헤쳐 나가는 데 달려 있습니다. 자동적이지 않으며, 더 넓은 인구 전반에 걸친 개인적 선택들의 누적 효과에 좌우됩니다"
+distinguished_from = "물병자리 시대(황금시대가 나타날 수 있는 더 넓은 천문학적 시기), 묵시록(문턱에서의 계시의 순간), 사이버파라디즘(현대의 미학적 표명), 우주의 사슬(더 넓은 계승의 틀), 에덴(근원적인 역사적 황금시대)"
+relationship_to_eden = "근원적인 역사적 황금시대로서의 에덴 — 최초의 인간이 만든 이들과 조화를 이루며 살았던 실험실. 물병자리 시대의 황금시대는 그 상태를 행성 문명 규모로 회복하고 확장하는 것입니다"
+parallel_cross_cultural_traditions = "그리스·로마의 인간 시대(헤시오도스, 오비디우스), 힌두교의 사티아/트레타/드와파라/칼리 유가 주기, 메소아메리카의 장기력, 불교의 미륵, 북유럽의 라그나뢰크와 그 재생, 페르시아 조로아스터교의 프라쇼케레티, 중국의 순환 전통, 여러 원주민의 갱신 예언"
 contemporary_articulations = "Kurzweil's Singularity; e/acc movement; abundance-economy tradition (Diamandis, Kotler); broader 'Great Awakening' cultural engagement"
-status_in_framework = "Foundational eschatological-cosmological concept; the substantive content of successful Aquarian-age navigation; the cosmic-chain inheritance threshold"
+status_in_framework = "기초적 종말론·우주론 개념. 물병자리 시대를 성공적으로 헤쳐 나간 결과의 내용이며, 우주의 사슬을 물려받는 문턱"
 +++
 
 **The Golden Age** is, in the Wheel of Heaven framework, the form of life that

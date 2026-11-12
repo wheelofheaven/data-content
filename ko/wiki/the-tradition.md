@@ -6,26 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["la Tradition (French, Sendy's principal designation)", "the Tradition (capitalized to distinguish from generic 'tradition')", "the chain of Tradition (in the Hebrew *shalshelet ha-Kabbalah* sense)", "the perennial Tradition (in partial alignment with the perennialist designation)", "the Hermetic Tradition (in Western-esoteric usage)", "the Wisdom Tradition (in broader spiritual usage)"]
+alternative_names = ["la Tradition (프랑스어, 상디의 주된 명칭)", "전승(일반적 의미의 '전통'과 구별하기 위해 대문자로 씀)", "전승의 사슬(히브리어 *shalshelet ha-Kabbalah*의 의미에서)", "영원한 전승(영원주의의 명칭과 부분적으로 일치함)", "헤르메스 전승(서구 밀교 용법에서)", "지혜의 전승(더 넓은 영성 용법에서)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "장 상디", path = "wiki/jean-sendy", description = "전승을 자신의 프레임워크의 중심 골격으로 표명한 저자." },
+    { title = "카발라", path = "wiki/kabbalah", description = "상디가 주요 전승 사슬로 다루는 히브리의 비교적·보호적 흐름." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "상디의 전승을 물려받아 새로운 원천 자료로 확장하는 프레임워크." },
+    { title = "세계의 시대", path = "wiki/world-age", description = "코퍼스가 상디의 전승 계보와 통합하는 세차 연대기." },
+    { title = "히브리어 성경", path = "wiki/hebrew-bible", description = "상디가 전승 안에 보존된 하늘 사람들의 내용을 위해 읽는 주요 텍스트." },
+    { title = "신들의 다수성", path = "wiki/plurality-of-gods", description = "전승이 담고 있는 보존된 우주-종교적 지식의 회복된 요소." },
+    { title = "성경을 달에 건 남자", path = "articles/the-man-who-bet-the-bible-on-the-moon", description = "장 상디는 사프란 대랍비의 카발라를 통해 전승과 관계를 맺었습니다 — 전체 연구." },
+]
 
 [extra.infobox]
-type = "Foundational Sendy-derived framework concept; the cross-cultural body of preserved knowledge transmitted across millennia within esoteric pedagogical-textual traditions"
-principal_articulator = "Jean Sendy (1910-1978), French author whose major works articulate The Tradition as the central interpretive scaffold of his broader framework"
+type = "상디에게서 유래한 기초 개념: 비전적 가르침의 계보 안에서 수천 년에 걸쳐 전해진, 문화를 가로지르는 보존된 지식의 총체"
+principal_articulator = "장 상디(1910–1978), 전승을 자기 체계의 중심 해석적 뼈대로 표명한 프랑스 저자"
 principal_works = "*Les cahiers de cours de Moïse* (Julliard, 1963); *La Lune, clé de la Bible* (Julliard, 1968); *Les dieux nous sont nés* (Grasset, 1966); *Ces dieux qui firent le ciel et la terre* (Robert Laffont, 1969); *L'ère du Verseau* (Robert Laffont, 1970); *Nous autres, gens du Moyen Âge*"
-core_content = "Substantial body of preserved knowledge content (cosmic, astronomical, religious, technical) traceable to original Elohim contact during the early post-flood ages; transmitted across millennia within specific pedagogical-priestly chains across multiple cultural-religious traditions"
-principal_transmission_lineages = "The Egyptian priestly tradition; the Hebrew prophetic and rabbinic tradition (with the Kabbalistic tradition as the principal esoteric-protective stream); the Pythagorean-Platonic Greek philosophical tradition; the Hermetic tradition (Hermes Trismegistus, Corpus Hermeticum); the Christian medieval-scholastic tradition; the various subsequent esoteric-transmission traditions"
-distinguished_from = "Mainstream sociological 'tradition' (cultural-customary practices passed down through generations); mainstream comparative-religion 'tradition' (substantial religious-cultural inheritance generally); the perennialist tradition's 'transcendent unity of religions' framework (which operates through different epistemic commitments); the broader 'New Age' wisdom-tradition popularization (which operates with substantial dilution of the specific content)"
-sendy_central_position = "Self-positioning as 'medievalist' — embracing the broader medieval intellectual tradition that the Renaissance / Enlightenment 'humanist' tradition rejected as superstition; the medievalist self-positioning operating paradoxically-rhetorically as the substantial argument that medieval anticipations (transmutation of metals, flying machines, going to the moon, extraterrestrial life) have been progressively confirmed by twentieth-century science while humanist confident dismissal has been progressively falsified"
-status_in_framework = "Foundational concept; the principal Sendy-derived interpretive scaffold supporting the corpus's broader cross-cultural integration"
-principal_corpus_treatment = "Sendy's *L'ère du Verseau* (1970), particularly the *Le Sceau de Salomon et la Tradition de Platon* and *Les Sources de la Tradition* sections; *Ces dieux qui firent le ciel et la terre* (1969); *Les cahiers de cours de Moïse* (1963); subsequent corpus development integrating Sendy's framework with Raëlian source material and *Hamlet's Mill* precessional reconstruction"
+core_content = "대홍수 직후 시대의 엘로힘 접촉으로 거슬러 올라가는 보존된 지식(우주적, 천문학적, 종교적, 기술적)의 총체로, 여러 문화·종교 전통의 사제 및 교육 사슬 안에서 전해졌습니다"
+principal_transmission_lineages = "이집트 사제직, 히브리 예언 및 랍비 전통(카발라가 그 주요 비전적 흐름), 피타고라스·플라톤 계열의 그리스 철학자들, 헤르메스주의 전통(헤르메스 트리스메기스투스, 『헤르메스 문서』), 중세 그리스도교 학파들, 이후의 서구 비전 계보"
+distinguished_from = "일상적인 사회학적 의미의 전통(한 문화가 물려주는 관습), 영원주의의 '종교들의 초월적 일치'(다른 전제에 기초함), 대중적인 뉴에이지 '지혜 전통'(특정한 내용을 희석함)"
+sendy_central_position = "'중세주의자'(*médiéviste*)로서의 상디의 자기 규정 — 르네상스와 계몽주의 '인문주의자들'이 미신으로 일축한 중세 지적 전통의 편에 섭니다. 그 예견들(금속의 변성, 비행 기계, 달 여행, 다른 세계의 생명)은 이후 20세기 과학으로 확인된 반면, 인문주의자들의 일축은 반증되었다는 논거입니다"
+status_in_framework = "기초 개념. 코퍼스의 문화 간 통합을 위해 상디에게서 유래한 주요 뼈대"
+principal_corpus_treatment = "상디의 *L'ère du Verseau*(1970), 특히 *Le Sceau de Salomon et la Tradition de Platon*과 *Les Sources de la Tradition* 절. *Ces dieux qui firent le ciel et la terre*(1969). *Les cahiers de cours de Moïse*(1963). 코퍼스가 라엘 자료와 *Hamlet's Mill*의 세차 재구성을 통합하여 확장"
 +++
 
 **The Tradition** (French *la Tradition*; Hebrew שַׁלְשֶׁלֶת הַקַּבָּלָה,

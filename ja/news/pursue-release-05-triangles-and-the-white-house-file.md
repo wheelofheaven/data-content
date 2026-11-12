@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "第04弾リリースから四週間後、米国戦争省はwar.gov/UFOにて第05弾を公開しました。報道機関の集計によれば、ペンタゴン、FBI、CIAから、そして初めて国務省と大統領府が加わり、文書、画像、動画からなる41点のファイルが採取されています。目玉となる事例は次のとおりです。すなわち、元軍用機パイロットが、2002年にアフガニスタン・バグラム上空で星々を覆い隠していった、無音で推定500フィートの正三角形を回想する2024年のFBIインタビュー。航空機が主砲を発射したことに反応するように見えた、およそ25の「冷たいオーブ」との2021年のオマーン湾ガンシップ遭遇事案。そして、死亡した乗員を伴う墜落球体というブラジルの扇情的なラジオ報道が、CIAの傍受記録からホワイトハウスの宇宙会議の照会を経て、国務省の判決——でっち上げ——へと渡っていく1963年11月のファイル群です。本コーパスは、第05弾を、帰還の兆候としてではなく、正典を読むための文脈として記録します——そして、それ自身の文書のもとで崩れ去るバイーアのファイルを、完全な文書的強度で登録します。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "現在の文脈"
+cross_reference = "水瓶座の時代、§IX"
 canon_links = [
     { title = "水瓶座の時代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

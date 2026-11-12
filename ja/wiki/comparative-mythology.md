@@ -5,25 +5,39 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Comparative Mythology", "comparative religion (overlapping discipline)", "mythography (related but distinct discipline)", "comparative folklore", "Mythologie comparée (French)", "vergleichende Mythologie (German)"]
+alternative_names = ["比較神話学", "比較宗教学(重なり合う分野)", "神話誌(関連するが別の分野)", "比較民俗学", "Mythologie comparée(フランス語)", "vergleichende Mythologie(ドイツ語)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "ハムレットの臼", path = "wiki/hamlets-mill", description = "コーパスがこの学問分野の構造的な組織原理として採用する、歳差運動の符号化の命題。" },
+    { title = "神々の闘い", path = "wiki/theomachy", description = "この学問分野が文化を横断して目録化する、神々の間の戦争というモチーフ群。" },
+    { title = "古代宇宙飛行士仮説", path = "wiki/ancient-astronaut-hypothesis", description = "コーパスが繰り返されるモチーフをそれを通して読む、より広い解釈の枠組み。" },
+    { title = "ネオエウヘメリズム", path = "wiki/neo-euhemerism", description = "コーパスが文化横断的な型に適用する、共通の歴史的指示対象の方法。" },
+    { title = "善悪の知識の樹", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "この学問分野が扱う繰り返される型の一例としての、宇宙樹のモチーフ。" },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "この学問分野を主要な方法論的取り組みの一つとして扱うプロジェクト。" },
+    { title = "カール・ユング", path = "wiki/carl-jung", description = "(キャンベルとともに)神話読解の元型学派の創始者。その『アイオーン』は魚座のアイオーンを読む。" },
+    { title = "ジェーン・セラーズ", path = "wiki/jane-sellers", description = "オシリスの死と復活の神話の歳差運動による読解。" },
+    { title = "サンポ", path = "wiki/sampo", description = "世界の臼という神話素のバルト・フィン系の事例としての、フィンランドのサンポ。" },
+    { title = "『オデュッセイア』の背後の世界", path = "/articles/the-world-behind-the-odyssey/", description = "コーパスのギリシアの事例研究。近東からヘシオドスとホメロスへの記録に残る伝達を、この枠組みの読解と切り離して扱う。" },
+    { title = "ホメロスの東面", path = "/articles/the-east-face-of-homer/", description = "ギリシアの事例研究の後半。8世紀の伝達の回廊の詳細と、文学的借用が何を証明でき、何を証明できないかという規律。" },
+    { title = "ヘリコンに降る雨", path = "/articles/the-rain-over-helicon/", description = "この学問分野そのものの方法の検証。並行関係を偶然以上のものへと引き上げる検定を、ヘシオドス、ホメロス、詩的語法、接触の経路にわたって段階づける。" },
+]
 
 [extra.infobox]
-type = "Academic and interpretive discipline studying recurring patterns across geographically and historically separated mythological corpora; one of the corpus's principal methodological commitments"
-disciplinary_origin = "Late eighteenth-century European Romantic engagement with non-Western mythologies; formal disciplinary emergence in the nineteenth century with Friedrich Max Müller's comparative-philological work and James George Frazer's anthropological-comparative work"
-principal_methodological_schools = "Solar-mythology (Müller); anthropological-comparative (Frazer, Tylor, Lang); diffusionist (Bastian, Vienna school, Pan-Babylonianism); trifunctional structuralism (Dumézil); phenomenological-religious (Eliade, Otto, van der Leeuw); archetypal-Jungian (Jung, Neumann, Campbell); structural-anthropological (Lévi-Strauss); cognitive science of religion (Boyer, Atran, Barrett)"
-principal_motif_clusters = "Creation narratives; flood narratives; sky-visitor and culture-bringer traditions; theomachy / war-among-the-gods; divine descent and divine-human hybrids; golden age and ages-of-the-world traditions; dying-and-rising-god pattern; cosmic mountain and world-axis; cosmic tree; descent-to-the-underworld"
-corpus_position = "Comparative Mythology is one of the corpus's principal methodological commitments; the cross-cultural patterns are taken as substantive evidence requiring substantive explanation; the corpus differs from the mainstream contemporary academic discipline's retreat from grand-theoretical engagement"
-corpus_explanatory_framework = "Cross-cultural patterns explained principally by common historical referents in the alliance-contact framework, integrated with the Hamlet's Mill precessional structural framework; the corpus does not require rejecting cognitive-science, diffusionist, or archetypal explanations but treats them as partial explanations that miss the common-referent component"
-distinguished_from = "Comparative religion (broader disciplinary engagement with religious traditions beyond their mythological content); mythography (descriptive cataloguing of mythological content without comparative-theoretical framework); folklore studies (focused on contemporary oral tradition rather than ancient mythological corpora); cognitive science of religion (which engages cross-cultural patterns but explains them through evolved cognitive structures)"
-status_in_framework = "Principal methodological commitment alongside Sendy's Conditions of Coherence, the Biglino Method, the Hamlet's Mill precessional integration, and the broader corpus's disciplined epistemic-pluralism methodology"
+type = "地理的・歴史的に隔たった神話群にわたって繰り返し現れるパターンを研究する学術的・解釈的な学問分野。コーパスの主要な方法論的立場の一つ"
+disciplinary_origin = "18世紀後半のヨーロッパ・ロマン主義による非西洋神話への関心。19世紀にフリードリヒ・マックス・ミュラーの比較文献学的研究とジェイムズ・ジョージ・フレイザーの人類学的比較研究によって正式な学問分野として成立"
+principal_methodological_schools = "太陽神話学派(ミュラー)、人類学的比較学派(フレイザー、タイラー、ラング)、伝播論(バスティアン、ウィーン学派、汎バビロニア主義)、三機能構造主義(デュメジル)、宗教現象学(エリアーデ、オットー、ファン・デル・レーウ)、ユング派元型論(ユング、ノイマン、キャンベル)、構造人類学(レヴィ=ストロース)、宗教認知科学(ボイヤー、アトラン、バレット)"
+principal_motif_clusters = "創造神話。洪水神話。天からの来訪者と文化英雄の伝承。神々の闘い/神々の間の戦争。神的存在の降臨と神人の混血。黄金時代と世界年代の伝承。死んで甦る神のパターン。宇宙山と世界軸。宇宙樹。冥界下り"
+corpus_position = "比較神話学はコーパスの主要な方法論的立場の一つである。文化横断的なパターンは説明を要する実在の証拠として受け取られる。コーパスは、壮大な理論への取り組みから退いた現代の学問分野とは異なる"
+corpus_explanatory_framework = "文化横断的なパターンは、主として同盟との接触という枠組みにおける共通の歴史的指示対象によって説明され、『ハムレットの臼』の歳差運動の構造的枠組みと統合される。コーパスは認知科学的、伝播論的、元型論的な説明を退ける必要はないが、それらを共通の指示対象という要素を見落とす部分的な説明として扱う"
+distinguished_from = "比較宗教学(神話的内容を超えて宗教伝統に取り組む、より広い学問分野)。神話誌(比較理論の枠組みを持たない神話的内容の記述的目録化)。民俗学(古代の神話群ではなく現代の口承伝統に焦点を当てる)。宗教認知科学(文化横断的なパターンに取り組むが、進化した認知構造によって説明する)"
+status_in_framework = "サンディの整合性条件、ビリーノの方法、『ハムレットの臼』の歳差運動の統合、そしてより広いコーパスの規律ある認識論的多元主義の方法論と並ぶ、主要な方法論的立場"
 +++
 
 **Comparative mythology** is the academic discipline that studies myths from

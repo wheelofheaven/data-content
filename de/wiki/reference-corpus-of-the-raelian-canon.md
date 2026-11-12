@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -34,6 +34,7 @@ see_also = [
     { title = "Apokalypse", path = "/wiki/apocalypse/", description = "Die Lesart der Offenbarung, entwickelt in Die neuen Offenbarungen." },
     { title = "Hamlet's Mill", path = "/wiki/hamlets-mill/", description = "Kulturübergreifende mythologisch-präzessionale Lesart, die dem Spurenargument des Kanons benachbart ist." },
     { title = "Doppelte Signatur", path = "/wiki/doubled-signature/", description = "Das Korpusprinzip, nach dem der Kanon und seine Bezugstexte auf dieselbe zugrundeliegende Wirklichkeit konvergieren." },
+    { title = "Sechs Morgen, sechs Jahre", path = "/articles/six-mornings-six-years/", description = "Das textkritische Plädoyer für einen kritischen Apparat zu den drei Quellenbüchern." }
 ]
 
 footnotes = [

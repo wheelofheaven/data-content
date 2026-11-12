@@ -6,27 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Mass Effect", "the Law of Masstime", "the law of subjective time", "the time-mass relationship", "the scale-time correspondence"]
+alternative_names = ["매스 이펙트", "질량시간의 법칙", "주관적 시간의 법칙", "시간-질량 관계", "규모-시간 대응"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "거시생물학", path = "wiki/macrobiology", description = "전체의 생물학 — 생명 규모의 사다리에서 한 단 위의 유기체인 인류이며, 매스 이펙트는 그 시간 규모화를 묘사합니다." },
+    { title = "무한", path = "wiki/infinity", description = "매스 이펙트가 그 시간 규모화 차원을 이루는 토대 프레임워크." },
+    { title = "우주의 사슬", path = "wiki/cosmic-chain", description = "원천 구절이 이 법칙을 연결 짓는 문명 계승 프레임워크." },
+    { title = "야훼", path = "wiki/yahweh", description = "1975년 원천 자료의 진술로 이 법칙을 정립한 엘로힘 인물." },
+    { title = "엘로힘", path = "wiki/elohim", description = "전달된 구절이 이 프레임워크의 근거가 되는 창조자 문명." },
+    { title = "우주적 경쟁", path = "wiki/cosmic-competition", description = "법칙이 묘사하는 규모-시간 위계 전반에서 전개되는 문명 역학." },
+    { title = "동맹", path = "wiki/the-alliance", description = "법칙이 걸치는 무한한 규모 위계 전반에서 작동하는 우주적 협력." },
+    { title = "인류의 형상", path = "articles/the-shape-of-humanity", description = "규모화 법칙의 우주론을 문명 형태학으로 확장하는 해설 — 웨스트의 초선형 성장을 유기체의 대사로 봅니다." },
+]
 
 [extra.infobox]
-type = "Hypothetical physical-cosmological law; framework concept articulating the relationship between mass-or-scale and the experience of time"
-basic_premise = "The subjective experience of time scales with mass and complexity; a larger being experiences each subjective moment as encompassing a substantially longer interval of absolute time than a smaller being's subjective moment encompasses"
-formal_articulation = "Subjective time interval per unit absolute time scales inversely with mass-or-scale; equivalently, the absolute time interval encompassed by a unit subjective time interval scales positively with mass-or-scale"
-domain = "All scales of cosmological organization, from subatomic-scale beings through human scale through planetary-scale beings (planets, the Earth) through galactic-scale and beyond"
-mathematical_status = "Not yet formally mathematized within the corpus; principal articulation through Yahweh's source-material statement and corpus interpretive elaboration"
-relationship_to_relativity = "Substantial structural overlap with general-relativistic gravitational time dilation; the corpus's framework extends substantially beyond what mainstream relativity has established, particularly regarding subjective time and biological-cognitive scales"
-relationship_to_biology = "Substantial structural overlap with mainstream allometric scaling laws (Kleiber's law for metabolism, lifespan scaling, heart-rate scaling) and biological time perception scholarship (Eagleman, Wittmann)"
-distinguished_from = "Special-relativistic time dilation (velocity-based, not mass-based); biological time perception alone (a subset rather than the full framework); fractal cosmology generally (the spatial-self-similarity dimension distinct from the temporal-scaling dimension); the broader Infinity framework (the precondition rather than the law itself)"
-status_in_source_material = "Partial; the Raëlian source material provides explicit articulation in a single passage, with the corpus's broader development extending substantially through interpretive integration with the Cosmic Chain framework, the Infinity framework, and various mainstream-science engagements"
-principal_text = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), 'Neither God nor Soul'; various Wheel of Heaven corpus passages applying the framework"
+type = "가설적 물리·우주론 법칙; 질량 또는 규모와 시간 경험 사이의 관계를 표현하는 틀 개념"
+basic_premise = "시간의 주관적 경험은 질량과 복잡성에 따라 달라짐; 더 큰 존재는 각각의 주관적 순간을, 더 작은 존재의 주관적 순간보다 훨씬 긴 절대 시간 간격을 포괄하는 것으로 경험함"
+formal_articulation = "절대 시간 단위당 주관적 시간 간격은 질량 또는 규모에 반비례함; 같은 말로, 주관적 시간 단위가 포괄하는 절대 시간 간격은 질량 또는 규모에 비례함"
+domain = "우주론적 조직의 모든 규모로, 원자보다 작은 규모의 존재에서 인간 규모를 거쳐 행성 규모의 존재(행성들, 지구)와 은하 규모와 그 너머에 이름"
+mathematical_status = "코퍼스 안에서 아직 공식적으로 수학화되지 않음; 주로 야훼의 원전 진술과 코퍼스의 해석적 정교화를 통해 표현됨"
+relationship_to_relativity = "다른 현상: 일반 상대론의 중력 시간 지연은 주관적 시간이 아니라 물리적 시계의 속도에 관한 것이며, 매스 이펙트를 뒷받침하지 않습니다"
+relationship_to_biology = "다른 양: 상대 성장 척도 법칙(대사에 관한 클라이버 법칙, 수명 척도, 심박수 척도)과 시간 지각 연구(이글먼, 비트만)는 다른 것을 측정하며, 매스 이펙트를 뒷받침하지 않습니다"
+distinguished_from = "특수상대론적 시간 지연(질량이 아니라 속도에 근거함); 생물학적 시간 지각 단독(전체 틀이 아니라 그 일부); 일반적인 프랙털 우주론(시간적 규모 차원과 구별되는 공간적 자기 유사성 차원); 더 넓은 무한 틀(법칙 자체가 아니라 그 전제 조건)"
+status_in_source_material = "부분적; 라엘리안 원전 자료는 단 한 구절에서 명시적으로 표현하며, 코퍼스의 더 넓은 발전은 우주의 사슬 틀, 무한 틀, 다양한 주류 과학과의 대화를 통한 해석적 통합으로 상당히 확장됨"
+principal_text = "*외계인들이 나를 그들의 행성으로 데려갔다*(보릴롱/라엘, 1975), '신도 영혼도 아닌'; 이 틀을 적용하는 Wheel of Heaven 코퍼스의 여러 구절"
 +++
 
 The **Mass Effect**, also called the **Law of Masstime**, is the framework concept developed in the Wheel of Heaven corpus to articulate the relationship between mass-or-scale and the experience of time across the infinite hierarchy of cosmological scales. {% claim(type="speculative", id="woh-claim-0051") %}The framework holds that the subjective experience of time scales with mass and complexity: **a larger and more massive being experiences each subjective moment as encompassing a substantially longer interval of absolute time than a smaller being's subjective moment encompasses**.{% end %} Equivalently, smaller beings experience proportionally more subjective time per unit absolute time than larger beings — a eukaryotic cell, an ant, a human, an elephant, the Earth itself, and the gigantic being of whom the sun is an atom each operate within their own characteristic subjective-time scale, with the scale ratios reflecting the mass-or-complexity ratios across the broader cosmological hierarchy. The law's principal source-material warrant is the Yahweh-delivered passage in *Extra-Terrestrials Took Me to Their Planet* (1975), which establishes the framework in the broader cosmological context and connects it explicitly to the Infinity framework and the Cosmic Chain framework.

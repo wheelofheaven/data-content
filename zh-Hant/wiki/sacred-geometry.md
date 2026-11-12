@@ -6,25 +6,32 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["Sacred Geometry", "geometric symbolism", "sacred mathematics", "sacred proportion", "divine geometry", "Heilige Geometrie (German)", "géométrie sacrée (French)"]
+alternative_names = ["Sacred Geometry", "幾何象徵", "神聖數學", "神聖比例", "神性幾何", "Heilige Geometrie (German)", "géométrie sacrée (French)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus", "age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "雷爾派無限符號", path = "wiki/raelian-symbol-of-infinity", description = "文集最主要的幾何象徵運用,結合大衛之星與卐字。" },
+    { title = "卡巴拉", path = "wiki/kabbalah", description = "生命之樹與質點(Sephirot)圖的出處,一種主要的神聖幾何形式。" },
+    { title = "第三聖殿", path = "wiki/third-temple", description = "其精確比例規格被文集讀作聯盟所傳授之神聖幾何的聖殿。" },
+    { title = "大使館", path = "wiki/embassy", description = "其建築規格承載文集神聖比例內容的接待居所。" },
+    { title = "黃道十二宮", path = "wiki/zodiac", description = "文集與跨文化神聖比例並讀的歲差幾何框架。" },
+]
 
 [extra.infobox]
-type = "Body of geometric forms, ratios, and proportions to which religious, cosmological, or metaphysical significance has been attributed across cultures and traditions; designates both documented cross-cultural use of geometric ratios in sacred architecture and interpretive tradition treating geometric forms as carrying inherent metaphysical meaning"
-principal_geometric_forms = "Golden ratio (φ ≈ 1.618); Platonic solids; vesica piscis; Flower of Life; Tree of Life / Sephirot diagram; Sri Yantra; mandala; squared circle; π and √2 / √3 relations; harmonic ratios"
-historical_roots = "Pythagoras (c. 570-495 BCE); Plato (c. 428-348 BCE; *Timaeus*); Vitruvius (c. 80-15 BCE; *De Architectura*); Hermetic tradition; Euclid; medieval scholastic and cathedral-builder traditions; Renaissance revival (Pacioli, Leonardo)"
-modern_revival = "Theosophy (Blavatsky); Anthroposophy (Steiner); Schwaller de Lubicz (Egyptian-symbolic); Robert Lawlor; Keith Critchlow; John Michell; Drunvalo Melchizedek; Leonora Leet; Randall Carlson"
-corpus_position = "Accepts documented cross-cultural use of geometric ratios in sacred architecture as substantively real; accepts cross-cultural religious-symbolic use of specific geometric forms as substantively real; engages broader esoteric Sacred Geometry tradition at descriptive level without adopting strongest metaphysical-causal claims; articulates specific Vorilhon-source and Sendy-source engagement with geometric-symbolic content"
-principal_corpus_engagement = "Raëlian Symbol of Infinity (Star of David + swastika); Tabernacle and Ark of the Covenant precise-proportional specifications; Sendy's analysis of Plato's *Timaeus* 35b numerical-geometric content; broader cross-cultural geometric-symbolic content as alliance-transmitted religious-cultural material"
-distinguished_from = "Pure mathematics (geometric content engaged without religious-cosmological commitment); architecture (geometric content engaged for structural and aesthetic purposes); decorative geometric art (geometric content engaged for ornamental purposes without religious-cosmological framework); the strongest 'consciousness-affecting geometry' claims (which the corpus engages descriptively without adopting)"
-status_in_framework = "Substantive corpus engagement at multiple registers; the documented cross-cultural pattern is treated as real evidence; the alliance-transmission framework provides one explanatory framework alongside common-cognitive-structure and diffusion explanations"
+type = "在各文化中被賦予宗教、宇宙論或形上學意義的幾何形式、比例與比率之總體；涵蓋神聖建築中有文獻記載的跨文化幾何比例運用，以及視這些形式本身帶有內在意義的詮釋傳統"
+principal_geometric_forms = "黃金比例（φ ≈ 1.618）；柏拉圖立體；魚鰾形（vesica piscis）；生命之花；生命之樹／質點圖；室利延陀羅；曼荼羅；化圓為方；π 與 √2／√3 的關係；和聲比例"
+historical_roots = "畢達哥拉斯（約公元前 570–495 年）；柏拉圖（約公元前 428–348 年；*Timaeus*）；維特魯威（約公元前 80–15 年；*De Architectura*）；赫密士傳統；歐幾里得；中世紀經院與大教堂建造者傳統；文藝復興的復興（帕西奧利、達文西）"
+modern_revival = "神智學（布拉瓦茨基）；人智學（史代納）；施瓦勒·德·盧比克（埃及象徵學）；羅伯特·勞勒；基思·克里奇洛；約翰·米歇爾；德隆瓦洛·默基瑟德；萊奧諾拉·利特；蘭德爾·卡爾森"
+corpus_position = "接受神聖建築中有文獻記載的跨文化幾何比例運用，以及特定形式的宗教象徵用途；以描述的方式探討神秘學的神聖幾何傳統，但不採納其最強的形上因果主張；透過沃里隆與桑迪的來源解讀特定經由聯盟傳授的幾何內容"
+principal_corpus_engagement = "雷爾派無限符號（大衛之星＋卐字）；會幕與約櫃的比例規格；桑迪對柏拉圖 *Timaeus* 35b 數字—幾何內容的分析；作為所傳授傳統之一部分而解讀的跨文化幾何象徵內容"
+distinguished_from = "純數學（不帶宗教承諾的幾何內容）；建築（結構與美學上的運用）；裝飾性幾何藝術（不具宗教框架的紋飾）；最強的「影響意識的幾何」主張（以描述方式探討，不予採納）"
+status_in_framework = "在多個層次上探討；有文獻記載的跨文化模式被視為真實；聯盟傳授的解讀作為一種有所保留的解釋框架提出，與共同認知說和傳播說並列，而非既定事實"
 +++
 
 **Sacred Geometry** is the body of geometric forms, ratios, and proportions to

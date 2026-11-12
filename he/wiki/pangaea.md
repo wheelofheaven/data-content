@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -20,17 +20,25 @@ editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "framework"
 alternative_names = ["Pangea", "Antediluvian supercontinent", "The pre-deluge landmass", "The one continent"]
+see_also = [
+    { title = "עדן", path = "wiki/eden", description = "אתר הבריאה, הממוקם על יבשת טרום־מבולית אחת זו." },
+    { title = "טרום-מבולי", path = "wiki/antediluvian", description = "כל התקופה שלפני המבול, שפנגיאה שימשה לה מצע גאוגרפי." },
+    { title = "תיבת נח", path = "wiki/noahs-ark", description = "תיאור ההישרדות מן המבול, הקשור להתפרקות הקטסטרופלית של היבשה באירוע יחיד." },
+    { title = "בראשית", path = "wiki/genesis", description = "פרקיו ו–ט מספקים את התערבות המבול שפירקה את היבשת." },
+    { title = "טרהפורמינג", path = "wiki/terraforming", description = "מבצע הנדסת היבשות שהעלה את פנגיאה מקרקעית הים הקדמונית." },
+    { title = "המסורת", path = "wiki/the-tradition", description = "הזיכרון המשומר שהקורפוס קורא כמקודד את יבשת־העל שלפני המבול." },
+]
 
 [extra.infobox]
-type = "Supercontinent — both a mainstream-geological reconstruction and a framework-adopted antediluvian referent"
-mainstream_dating = "c. 335 million years ago (Carboniferous assembly) through c. 195 million years ago (Triassic-Jurassic breakup)"
-framework_dating = "Constructed during *yom* 3 / Age of Scorpio (c. 17,490 – 15,330 BCE on the corpus's reckoning); broken apart at the deluge event (c. 13,000 BCE on the corpus's reckoning)"
-extent = "Approximately equal to the combined landmass of all present-day continents, organised as a single contiguous body"
-shape_mainstream = "C-shaped with the Tethys Sea contained within the curve, surrounded by the superocean Panthalassa"
-geographic_role_framework = "The geographic substrate of the entire antediluvian period: the location of Eden, the location of the post-Eden dispersed civilisations, the area destroyed by the deluge event"
-breakup_mainstream = "Plate-tectonic rifting beginning approximately 195 million years ago, with progressive separation continuing through the Jurassic and Cretaceous"
-breakup_framework = "Catastrophic single-event breakup at the deluge, described in the source material as a deliberate operational intervention; the framework reads the modern continental configuration as the surface signature of the deluge event preserved in the contemporary geological record"
-divergence_from_mainstream = "Approximately three orders of magnitude on timescale; the framework's reading is incompatible with mainstream plate-tectonic dating and is registered transparently in the entry's dedicated section on the divergence"
+type = "יבשת־על — הן שחזור גיאולוגי מקובל והן מושא טרום־מבולי שהמסגרת אימצה"
+mainstream_dating = "לפני כ־335 מיליון שנה (התגבשות בפחמן) עד לפני כ־195 מיליון שנה (התפרקות בגבול הטריאס–היורה)"
+framework_dating = "הורמה בסוף עידן הקשת (בערך 19,650–17,490 לפנה״ס לפי חשבון הקורפוס), עבודת היבשות שטקסט בראשית דוחס ל*יום* השלישי, וההתייצבות נמשכה אל תחילת העקרב; התפרקה במבול בפתיחת עידן התאומים (בערך 6,690 לפנה״ס לפי חשבון הקורפוס)"
+extent = "שקולה בקירוב לשטח היבשה המשולב של כל היבשות של ימינו, המאורגן כגוש רציף אחד"
+shape_mainstream = "בצורת האות C, וים התטיס כלוא בתוך הקשת, מוקפת באוקיינוס־העל פנתלסה"
+geographic_role_framework = "המצע הגיאוגרפי של כל התקופה הטרום־מבולית: מקומו של עדן, מקומן של הציוויליזציות המפוזרות שאחרי עדן, האזור שנחרב באירוע המבול"
+breakup_mainstream = "התבקעות טקטונית של לוחות שהחלה לפני כ־195 מיליון שנה, עם היפרדות הדרגתית שנמשכה לאורך היורה והקרטיקון"
+breakup_framework = "התפרקות קטסטרופלית באירוע יחיד במבול; המכה עצמה מתוארת בספר הראשון כהתערבות מכוונת, וההתפרקות — במסה של מרסל טרוס בספר השלישי (LWTE-4); המסגרת קוראת את תצורת היבשות המודרנית כחתימת פני השטח של אירוע המבול שנשמרה בתיעוד הגאולוגי העכשווי"
+divergence_from_mainstream = "כשלושה סדרי גודל בציר הזמן; קריאת המסגרת אינה מתיישבת עם התיארוך הטקטוני המקובל, והדבר נרשם בשקיפות בסעיף הייעודי של הערך על הפער"
 +++
 
 **Pangaea** is the name conventionally given to the single supercontinent identified by mainstream geology as having existed from approximately 335 million years ago through approximately 195 million years ago, before breaking up via plate-tectonic processes into the continental configuration of the present-day Earth. The name derives from the Greek *Παγγαία*, "all earth," and was introduced into geological scholarship by the German meteorologist and geophysicist **Alfred Wegener** in his 1912 paper *Die Entstehung der Kontinente* and subsequently developed in *Die Entstehung der Kontinente und Ozeane* (*The Origin of Continents and Oceans*, 1915, with major revisions through 1929) — the foundational works of the continental-drift theory that subsequently developed into the contemporary theory of plate tectonics.

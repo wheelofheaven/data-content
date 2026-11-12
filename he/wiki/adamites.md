@@ -7,28 +7,31 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
-redirect_to = { title = "Adam and Eve", path = "/wiki/adam-and-eve/" }
+redirect_to = { title = "אדם וחוה", path = "/wiki/adam-and-eve/" }
 category = "Peoples & Groups"
 editorial_pass = "2026-05"
 entry_type = "people group"
 claim_type = "framework"
 timeline = ["leo", "cancer", "gemini"]
 alternative_names = ["The Adamic population", "The Edenic humans", "The first human community", "*Bnei adam* (in the Hebrew biblical sense, distinguished from the post-deluge meaning)"]
+see_also = [
+    { title = "אדם וחוה", path = "/wiki/adam-and-eve/" },
+]
 
 [extra.infobox]
-type = "Engineered human population of the Eden phase; the original *adam* community on the framework's reading"
-hebrew = "<span class=\"hebrew\">אָדָם</span> *adam* (the collective term in the Hebrew Bible's Genesis 1–5 narratives, used both as a personal name and as a collective designation)"
-etymology = "From the Hebrew root <span class=\"hebrew\">א-ד-ם</span> (*ʾ-d-m*), cognate with <span class=\"hebrew\">אֲדָמָה</span> *adamah* (\"earth, soil\"), <span class=\"hebrew\">אָדֹם</span> *adom* (\"red\"), and <span class=\"hebrew\">דָּם</span> *dam* (\"blood\"); the framework's adopted philological reading treats *adam* as preserving the literal meaning \"earthling, of the earth\" — appropriate to a population engineered for the specific terrestrial environment"
-period = "Age of Leo (c. 11,010 – 8,850 BCE) for the initial synthesis and Eden phase; subsequent Ages of Cancer and Gemini (through c. 4,335 BCE) for the post-Eden and post-deluge population history"
-location = "The Gan Eden (\"Garden of Eden\") in the framework's reading — a specific operational site within the broader Eden region; geographic identification treated as open"
-principal_biblical_sources = "Genesis 1:26–5:5 (the creation, Eden phase, expulsion, and immediate descendants); Genesis 6:1–4 (the broader *bnei ha-Elohim* / Nephilim narrative connecting to the Adamite hybridisation reading)"
-framework_significance = "The original engineered human population on the framework's reading; the substrate population from which subsequent post-deluge humanity is descended; the population that experienced the Serpent-contact event preserved as the Eden narrative"
-distinct_from = "The early Christian Adamite sect (Adamians), active in North Africa from the 2nd through 4th centuries CE, who practised ritual nudity in imitation of pre-Fall Adam — an unrelated phenomenon treated in the historical-disambiguation section below"
-relationship_to_archaic_admixture = "Contemporary genomic research has established that all non-African modern humans carry approximately 1–4% Neanderthal DNA, with Melanesian, Australian Aboriginal, and Papuan populations carrying an additional 2–5% Denisovan DNA, and evidence of admixture with at least one further \"super-archaic\" hominin lineage. The framework reads the Adamite-Serpent hybridisation as preserving content potentially relatable to (though not strictly identical with) the documented archaic-admixture record."
+type = "אוכלוסייה אנושית מהונדסת של שלב עדן; קהילת ה*אדם* המקורית לפי קריאת המסגרת"
+hebrew = "<span class=\"hebrew\">אָדָם</span> *adam* (המונח הקיבוצי בסיפורי בראשית א–ה במקרא העברי, המשמש הן כשם פרטי והן ככינוי קיבוצי)"
+etymology = "מן השורש העברי <span class=\"hebrew\">א-ד-ם</span> (*ʾ-d-m*), הקרוב ל<span class=\"hebrew\">אֲדָמָה</span> *adamah* (»אדמה, קרקע«), <span class=\"hebrew\">אָדֹם</span> *adom* (»אדום«) ו<span class=\"hebrew\">דָּם</span> *dam* (»דם«); הקריאה הפילולוגית שהמסגרת אימצה רואה ב*אדם* שימור של המשמעות המילולית »בן האדמה, מן האדמה« — הולם אוכלוסייה שהונדסה לסביבה הארצית המסוימת"
+period = "עידן האריה (בסביבות 11,010 – 8,850 לפנה״ס) לסינתזה הראשונית ולשלב עדן; עידני הסרטן והתאומים שאחריו (עד בסביבות 4,335 לפנה״ס) לתולדות האוכלוסייה שאחרי עדן ואחרי המבול"
+location = "גן עדן לפי קריאת המסגרת — אתר מבצעי מסוים בתוך אזור עדן הרחב; הזיהוי הגיאוגרפי נותר פתוח"
+principal_biblical_sources = "בראשית א 26–ה 5 (הבריאה, שלב עדן, הגירוש והצאצאים הישירים); בראשית ו 1–4 (הסיפור הרחב של *בני האלוהים* / הנפילים על הזיווגים של תקופת הגלות)"
+framework_significance = "אוכלוסיית בני האדם המהונדסת המקורית לפי קריאת המסגרת; אוכלוסיית שלב עדן ושל גילוי הנחש, שנשמרו כסיפור עדן; אחד הגזעים האנושיים שהועלו לתיבה והוחזרו למקום בריאתם (TBWTT-2:62, 2:68)"
+distinct_from = "כת האדמיטים הנוצרית הקדומה (האדמיאנים), שפעלה בצפון אפריקה מהמאה ה־2 עד המאה ה־4 לספירה ונהגה בעירום פולחני בחיקוי אדם שלפני החטא — תופעה שאינה קשורה, הנדונה בסעיף הבחנה ההיסטורית שלהלן"
+relationship_to_archaic_admixture = "מחקר גנומי עכשווי קבע שכל בני האדם המודרניים שאינם אפריקאים נושאים כ־1–4% DNA ניאנדרטלי, שאוכלוסיות מלנזיות, אבוריג'יניות אוסטרליות ופפואניות נושאות עוד 2–5% DNA דניסובני, וכי יש עדות להתערבבות עם שושלת הומינינית 'על־ארכאית' נוספת אחת לפחות. המסגרת רושמת תיעוד זה כהקשר מדעי מקובל בלבד ואינה גוזרת ממנו שום מסקנה ברמת האוכלוסייה או ברמה הגנטית."
 +++
 
 The **Adamites**, in the Wheel of Heaven framework, are the distinct community of engineered humans synthesised by the Elohim during the *yom* 6 phase of the Earth project (the framework's reading places this in the Age of Leo, c. 11,010 – 8,850 BCE) and resident within the **Gan Eden** (the Garden of Eden) during the immediate post-synthesis phase. The framework reads the Adamites as the original engineered human population — the *adam* of Genesis 1:26–2:7, philologically named for the Hebrew *adamah* ("earth, soil") — designed in the biological image of the Elohim and adapted for the specific terrestrial conditions of the antediluvian world (the broader pre-deluge supercontinent treated in the [Pangaea](../pangaea/) entry). The framework reads the subsequent Eden narrative (Genesis 3) as the **disclosure episode**: a faction of the creators — the *Serpent* of the canonical text — revealed withheld knowledge to the Adamites and was exiled for it. {% claim(type="framework", id="woh-claim-0019") %}Through the antediluvian age the Adamites lived in contact with that exiled faction, whose members took wives among the daughters of men (Genesis 6:1–2; TBWTT-2:50–51); the resulting **hybrid lineages** are part of what the Flood decision was taken against.{% end %} The framework connects those unions to the Genesis 6:1–4 *bnei ha-Elohim*–*bnot ha-adam* passage (the "sons of God" and the "daughters of men") and the broader Watcher / Nephilim tradition developed in 1 Enoch and other Second Temple-period apocalyptic literature.

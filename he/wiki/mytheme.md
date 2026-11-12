@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,18 +16,28 @@ category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["mytheme", "mythological motif (broader usage)", "narrative element (broader usage)", "mythème (French original)", "Mythem (German)", "mitema (Italian, Spanish)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "מיתולוגיה השוואתית", path = "wiki/comparative-mythology", description = "העיסוק הדיסציפלינרי הרחב שבתוכו המיתמה היא כלי ניתוח אחד." },
+    { title = "תאומכיה", path = "wiki/theomachy", description = "אחד מאשכולות המוטיבים הבין־תרבותיים החוזרים שהקורפוס מנתח כמיתמה." },
+    { title = "תיבת נח", path = "wiki/noahs-ark", description = "מופע של מיתמת המבול, אחד מאשכולות המוטיבים העיקריים של הקורפוס." },
+    { title = "השערת האסטרונאוטים הקדמונים", path = "wiki/ancient-astronaut-hypothesis", description = "ההסבר ההיסטורי המועדף על הקורפוס למוטיבים הבין־תרבותיים החוזרים." },
+    { title = "עץ הדעת טוב ורע", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "מוטיב מבראשית הנקרא כהיסטוריה דחוסה בתוך העיסוק במיתמות." },
+    { title = "בונים קדומים", path = "wiki/ancient-builders", description = "נושאי מוטיבי המגליתים והבנייה שהקורפוס קורא לרוחב המסורות." },
+    { title = "העולם שמאחורי האודיסיאה", path = "/articles/the-world-behind-the-odyssey/", description = "מאמר העוקב אחר מיתמות העברת הידע והירושה מן האודיסיאה לאחור דרך אנטוליה ומסופוטמיה." },
+    { title = "הפן המזרחי של הומרוס", path = "/articles/the-east-face-of-homer/", description = "המאמר המשלים על האופן שבו צורות סיפור נודדות בעוד הגיבורים אינם נודדים — היחס בין גילגמש לאודיסאוס כמקרה המופת של מסירת מיתמות." },
+]
 
 [extra.infobox]
-type = "Technical analytical unit in Claude Lévi-Strauss's structural-anthropological method for the study of myth; also broader popular term for recurring cross-cultural mythological motifs"
-coined_by = "Claude Lévi-Strauss (1908-2009), French structural anthropologist"
-principal_articulation = "Lévi-Strauss, 'The Structural Study of Myth' (*Journal of American Folklore*, 1955), incorporated into *Structural Anthropology* (1958); developed across *Mythologiques* (4 vols., 1964-1971)"
-linguistic_analogy = "Mytheme : myth :: phoneme : language; the mytheme is the relational unit, not the isolated content"
-principal_methodology = "Cross-variant analysis: collecting multiple variants of a myth across cultural settings, identifying the recurring relational elements (mythemes), and arranging them in columns to reveal the underlying structural relations (typically binary oppositions and their mediations)"
-canonical_example = "The Oedipus myth analyzed in 'The Structural Study of Myth' through four columns: (1) overrated kinship relations; (2) underrated kinship relations; (3) denial of the autochthonous origin of man; (4) persistence of the autochthonous origin of man"
-broader_popular_usage = "Any recurring narrative element — motif, character type, narrative pattern — appearing across multiple cultures; substantially interchangeable with 'mythological motif' in this usage"
-corpus_position = "Engages both strict Lévi-Straussian sense and broader popular sense; corpus's methodological commitment is to cross-cultural pattern recognition rather than to any single methodological school; the mytheme concept is one tool among several within the broader Comparative Mythology engagement"
-distinguished_from = "Motif (the broader Stith Thompson cataloguing concept); tale-type (the Aarne-Thompson-Uther narrative-type concept); archetype (the Jungian psychological-pattern concept); narrative function (the Proppian narrative-structural concept); narreme (Eugene Dorfman's parallel narratological concept)"
-status_in_framework = "Methodological technical term within the broader Comparative Mythology engagement; cross-referenced to the [Comparative Mythology](../comparative-mythology/) entry for the broader disciplinary engagement"
+type = "יחידת ניתוח טכנית בשיטה האנתרופולוגית־המבנית של קלוד לוי־שטראוס לחקר המיתוס; וגם מונח עממי רחב למוטיבים מיתולוגיים בין־תרבותיים חוזרים"
+coined_by = "קלוד לוי־שטראוס (1908–2009), אנתרופולוג מבני צרפתי"
+principal_articulation = "לוי־שטראוס, 'The Structural Study of Myth' (*Journal of American Folklore*, 1955), שנכלל ב־*Structural Anthropology* (1958); פותח לאורך *Mythologiques* (4 כרכים, 1964–1971)"
+linguistic_analogy = "מיתמה : מיתוס :: פונמה : שפה; המיתמה היא יחידת היחס, לא התוכן המבודד"
+principal_methodology = "ניתוח בין־גרסאות: איסוף גרסאות רבות של מיתוס ממסגרות תרבותיות שונות, זיהוי יסודות היחס החוזרים (מיתמות) וסידורם בעמודות כדי לחשוף את יחסי המבנה שביסוד (בדרך כלל ניגודים בינריים ותיווכיהם)"
+canonical_example = "מיתוס אדיפוס כפי שנותח ב־'The Structural Study of Myth' בארבע עמודות: (1) יחסי קרבה מוערכים יתר על המידה; (2) יחסי קרבה מוערכים פחות מדי; (3) שלילת מוצאו האוטוכתוני של האדם; (4) התמדת מוצאו האוטוכתוני של האדם"
+broader_popular_usage = "כל יסוד סיפורי חוזר — מוטיב, טיפוס דמות, דפוס עלילתי — המופיע בתרבויות רבות; בשימוש זה הוא כמעט שקול ל'מוטיב מיתולוגי'"
+corpus_position = "עוסק הן במובן הלוי־שטראוסי הקפדני והן במובן העממי הרחב; המחויבות המתודולוגית של הקורפוס היא לזיהוי דפוסים בין־תרבותיים ולא לאסכולה מתודולוגית אחת; מושג המיתמה הוא כלי אחד מבין כמה בתוך העיסוק הרחב במיתולוגיה השוואתית"
+distinguished_from = "מוטיב (מושג הקטלוג הרחב של סטית' תומפסון); טיפוס סיפור (מושג טיפוס הסיפור של ארנה–תומפסון–אותר); ארכיטיפ (מושג הדפוס הפסיכולוגי היונגיאני); פונקציה סיפורית (המושג הנרטיבי־המבני של פרופ); נרמה (המושג הנרטולוגי המקביל של יוג'ין דורפמן)"
+status_in_framework = "מונח טכני מתודולוגי בתוך העיסוק הרחב במיתולוגיה השוואתית; עם הפניה לערך [מיתולוגיה השוואתית](../comparative-mythology/) לעיסוק הדיסציפלינרי הרחב"
 +++
 
 **Mytheme** is, in its strict technical sense, the principal analytical unit of **Claude Lévi-Strauss**'s structural-anthropological method for the study of myth. Lévi-Strauss articulated the concept principally in "The Structural Study of Myth" (*Journal of American Folklore*, 1955; subsequently incorporated as chapter eleven of *Structural Anthropology*, 1958) and developed it across the four-volume *Mythologiques* (1964-1971).

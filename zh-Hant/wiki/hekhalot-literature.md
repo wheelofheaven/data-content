@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["希卡洛特／Heikhalot 文獻（הֵיכָלוֹת）", "梅爾卡瓦神祕主義", "Merkabah 神祕主義", "'宮殿' 文獻", "*ma'aseh merkavah*（'戰車之工'）"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "希烏爾·科瑪", path = "wiki/shiur-qomah", description = "在此文集中傳承、並為雷爾派正典所解讀的帕拉桑度量文本。" },
+    { title = "卡巴拉", path = "wiki/kabbalah", description = "此前卡巴拉層位比之早了數百年的後期古典猶太神祕主義。" },
+    { title = "生命之樹", path = "wiki/tree-of-life", description = "由穿越諸宮升天傳統發展而來的卡巴拉圖式。" },
+    { title = "希伯來聖經", path = "wiki/hebrew-bible", description = "以西結寶座戰車異象的出處,merkavah 神祕主義即由此得名。" },
+    { title = "耶和華", path = "wiki/yahweh", description = "merkavah 上的登基者,其身量由嵌入其中的《希烏爾·科瑪》加以丈量。" },
+    { title = "在元年被開啟", path = "articles/unsealed-in-year-one", description = "將庫姆蘭《安息日獻祭之歌》讀作此傳統背後的原始 merkavah 禮儀。" },
+]
 
 [extra.infobox]
 type = "古典時代晚期／中世紀早期猶太神祕主義文本的文集（前卡巴拉時期）"

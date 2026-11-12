@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,20 +15,29 @@ category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["Tree of the Knowledge of Good and Evil", "Tree of Knowledge", "עֵץ הַדַּעַת טוֹב וָרָע (Hebrew etz ha-daat tov va-ra)", "the forbidden tree", "the tree in the midst of the garden", "the second tree (alongside Tree of Life)"]
 timeline = ["age-of-leo", "age-of-cancer"]
+see_also = [
+    { title = "Árbol de la Vida", path = "wiki/tree-of-life", description = "El árbol emparejado que codifica la tecnología de longevidad retenida junto con el conocimiento científico." },
+    { title = "Serpiente", path = "wiki/serpent", description = "La figura de Génesis 3 leída como la facción de Lucifer en su papel de revelación." },
+    { title = "Lucifer", path = "wiki/lucifer", description = "El líder de la facción disidente cuyos creadores revelaron el conocimiento retenido a los primeros seres humanos." },
+    { title = "Edén", path = "wiki/eden", description = "El jardín-laboratorio donde se alzaba el árbol y tuvo lugar la revelación." },
+    { title = "Elohim", path = "wiki/elohim", description = "La civilización creadora cuyo conocimiento científico codifica el árbol." },
+    { title = "Teomaquia", path = "wiki/theomachy", description = "El conflicto entre facciones de creadores que inaugura el acto de revelación." },
+    { title = "Gran Diluvio", path = "wiki/great-flood", description = "El cataclismo posterior al que llega la trayectoria de desarrollo posterior a la revelación." },
+]
 
 [extra.infobox]
-type = "Symbolic-conceptual; principal Genesis 2-3 designation for scientific knowledge archives withheld from first synthetic humans"
-hebrew_term = "עֵץ הַדַּעַת טוֹב וָרָע (etz ha-daat tov va-ra) — 'tree of the knowledge of good and evil'"
-biblical_location = "Genesis 2:9, 2:16-17, 3:1-7, 3:11, 3:17, 3:22"
-biblical_dating = "Late Age of Leo / early Age of Cancer in corpus chronology (the Eden-laboratory operational period, c. 9,000 – 8,850 BCE); placement in garden in late Leo, disclosure-and-expulsion in early Cancer"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'Genesis' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Leo chapter, Section IX, and Age of Cancer chapter, Section IV"
-core_corpus_articulation = "The body of scientific knowledge possessed by the Elohim creator civilization, withheld from first synthetic humans by Council order to prevent humans from becoming creators' equals; the prohibition is political (protect creator civilization) rather than moral (avoid sin)"
-paired_concept = "Tree of Life (עֵץ הַחַיִּים etz ha-chayyim) — biological longevity technology of the Elohim; paired prohibition; treated in dedicated Tree of Life entry"
-serpent_identification = "Lucifer faction — minority of Israel-team Eloha scientists led by an Eloha called Lucifer ('light-bringer'); the Hebrew nachash used collectively for the faction performing the disclosure act"
-merism_content = "Hebrew tov va-ra ('good and evil') operates as classic biblical merism designating the entirety of moral knowledge; post-disclosure humans become moral agents capable of full ethical evaluation"
-disclosure_consequences = "Lucifer-faction exile to Earth ('serpent cursed to crawl'); Adam-and-Eve expulsion from laboratory-garden; Cherubim-and-flaming-sword guard preventing Tree-of-Life access (corpus reading: soldiers with atomic disintegration weapons); subsequent civilizational developmental trajectory"
-distinguished_from = "Mainstream Christian 'original sin' reading (treating prohibition as moral and disobedience as fall); Tree of Life (paired biological-longevity technology); gnostic positive-serpent reading (sharing structural features but operating distinctively on Eloha-faction internal distinctions)"
-status_in_framework = "Foundational symbolic-conceptual content; principal originary knowledge-asymmetry articulation; structural inaugurator of subsequent human scientific-developmental trajectory; central to broader corpus engagement with creator-created political relationship"
+type = "Simbólico-conceptual; la principal designación de Génesis 2-3 para los archivos de conocimiento científico vedados a los primeros humanos sintéticos"
+hebrew_term = "עֵץ הַדַּעַת טוֹב וָרָע (etz ha-daat tov va-ra): «árbol del conocimiento del bien y del mal»"
+biblical_location = "Génesis 2:9, 2:16-17, 3:1-7, 3:11, 3:17, 3:22"
+biblical_dating = "Final de la Era de Leo / comienzo de la Era de Cáncer en la cronología del corpus (el período operativo del laboratorio del Edén, c. 9.000 – 8.850 a. e. c.); colocación en el jardín a finales de Leo, revelación y expulsión a comienzos de Cáncer"
+principal_source = "*El libro que dice la verdad* (Vorilhon, 1974), capítulo «La verdad», sección «Génesis»; consolidado en *Mensaje de los Diseñadores* (2005); desarrollado en el material de la cronología sobre la Era de Leo y la Era de Cáncer"
+core_corpus_articulation = "El conjunto del conocimiento científico que poseía la civilización creadora de los Elohim, vedado por orden del Consejo a los primeros humanos sintéticos para impedir que llegaran a ser iguales a sus creadores; la prohibición es política (proteger a la civilización creadora) y no moral (evitar el pecado)"
+paired_concept = "Árbol de la Vida (עֵץ הַחַיִּים etz ha-chayyim): la tecnología de longevidad biológica de los Elohim; la prohibición emparejada se trata en la entrada dedicada al Árbol de la Vida"
+serpent_identification = "La facción de Lucifer: una minoría de científicos Eloha del equipo de Israel encabezada por un Eloha llamado Lucifer («portador de luz»); el hebreo nachash usado colectivamente para la facción que lleva a cabo la revelación"
+merism_content = "El hebreo tov va-ra («el bien y el mal») es un merismo bíblico clásico que nombra la totalidad del conocimiento moral; tras la revelación, los humanos se convierten en agentes morales capaces de una evaluación independiente"
+disclosure_consequences = "El exilio de la facción de Lucifer en la Tierra (la «serpiente condenada a arrastrarse»); la expulsión de Adán y Eva del jardín-laboratorio; la guardia de los querubines y la espada flamígera que impide el acceso al Árbol de la Vida (lectura del corpus: soldados con armas atómicas de desintegración); la trayectoria posterior de desarrollo científico"
+distinguished_from = "La lectura del cristianismo dominante del «pecado original» (prohibición moral, comer como caída); el Árbol de la Vida (tecnología emparejada de longevidad biológica); la lectura gnóstica de la serpiente positiva (comparte rasgos estructurales, pero rechaza de forma más tajante al dios creador)"
+status_in_framework = "Contenido simbólico-conceptual fundacional; la principal formulación del marco de la asimetría originaria de conocimiento entre creadores y creados, y del primer acto de resistencia contra ella"
 +++
 
 The **Tree of the Knowledge of Good and Evil** (Hebrew עֵץ הַדַּעַת טוֹב וָרָע,

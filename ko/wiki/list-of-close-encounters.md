@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,19 +14,28 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of pre-modern close encounters", "Pre-1500 UFO and contact-event index", "Catalogue of unexplained aerial phenomena (antiquity through 1499 CE)"]
+alternative_names = ["전근대 근접 조우 목록", "1500년 이전 UFO 및 접촉 사건 색인", "미확인 공중 현상 목록(고대부터 기원후 1499년까지)"]
+see_also = [
+    { title = "엘로힘", path = "wiki/elohim", description = "목록에 수록된 조우들이 에덴 이후 시기 전체에 걸쳐 기록하는 것으로 읽히는 존재." },
+    { title = "신(新)에우헤메리즘", path = "wiki/neo-euhemerism", description = "현대의 조우 용어를 전근대의 기록에 적용하는 해석적 방식." },
+    { title = "신화소와 신화적 모티프 목록", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "조우들과 나란히 반복되는 서사 자료를 색인하는 짝 목록." },
+    { title = "거석 유적 목록", path = "wiki/list-of-megalithic-sites", description = "물리적 건설 기록을 다루는 짝 참고 목록." },
+    { title = "에스겔", path = "wiki/ezekiel", description = "목록에 수록된 보고들 가운데 포함된 예언적 조우 기록." },
+    { title = "엘리야", path = "wiki/elijah", description = "목록에서 근접 조우로 읽히는 성경 속 공중 승천 기록." },
+    { title = "여섯 아침, 여섯 해", path = "articles/six-mornings-six-years", description = "1973년과 1975년의 조우와 그 지리를 문단 단위로 재구성합니다." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of pre-modern reported close encounters and aerial phenomena"
-scope = "c. 1460 BCE through 1499 CE (pre-modern, pre-Columbian-encounter, pre-scientific-revolution period)"
-principal_source = "Jacques Vallée and Chris Aubeck, *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times* (Tarcher/Penguin, 2009)"
-classification_instrument = "J. Allen Hynek's close-encounter classification (CE1–CE5, 1972 and later additions), applied to pre-modern accounts as a deliberate neo-euhemeristic interpretive move"
-geographic_coverage = "Mediterranean basin, Western Europe, Eastern Mediterranean, East Asia (especially China and Japan), Near East, with sparse coverage of the Americas (pre-1492) and sub-Saharan Africa"
-total_entries = "Approximately 130 reported encounters across the c. 3,000-year period"
-catalogue_columns = "Encounter; year; location; description (combining reported content with framework reading where applicable); Hynek classification where determinable"
-companion_catalogues = "[List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/); [List of megalithic sites](../list-of-megalithic-sites/)"
-framework_position = "The catalogued encounters preserve the documented historical record of operational Elohim and related presence on Earth across the post-Eden period; the cross-cultural phenomenological continuity is read as evidence of a unitary phenomenon rather than as folkloric coincidence or parallel invention"
-caveat = "Source reliability varies substantially across entries; many encounters survive only in single late chronicles or in literary contexts where the line between report and embellishment is unclear; the catalogue presents the reports as transmitted with framework readings indicated separately"
+type = "보고된 전근대의 근접 조우와 공중 현상에 관한 참고 목록"
+scope = "기원전 약 1460년부터 기원후 1499년까지(전근대, 콜럼버스의 조우 이전, 과학 혁명 이전 시기)"
+principal_source = "자크 발레와 크리스 오벡, *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times*(Tarcher/Penguin, 2009)"
+classification_instrument = "J. 앨런 하이넥의 근접 조우 분류(CE1–CE5, 1972년과 이후의 추가분)를, 의도적인 신에우헤메로스주의적 해석 조치로서 전근대 기록에 적용함"
+geographic_coverage = "지중해 분지, 서유럽, 동지중해, 동아시아(특히 중국과 일본), 근동; 아메리카(1492년 이전)와 사하라 이남 아프리카는 드물게 다룸"
+total_entries = "약 3,000년 기간에 걸쳐 보고된 약 130건의 조우"
+catalogue_columns = "조우; 연도; 장소; 설명(보고된 내용과 해당되는 경우 틀의 독법을 결합함); 판별 가능한 경우 하이넥 분류"
+companion_catalogues = "[신화소와 신화적 모티프 목록](../list-of-mythemes-and-mythological-motifs/); [거석 유적 목록](../list-of-megalithic-sites/)"
+framework_position = "목록에 실린 조우들은 에덴 이후 시기 전반에 걸쳐 지구에 있었던 엘로힘과 관련 존재의 작전상 현존에 관한 문서화된 역사 기록을 보존함; 문화 횡단적인 현상학적 연속성은 민담의 우연이나 평행적 창작이 아니라 단일한 현상의 증거로 읽힘"
+caveat = "출처의 신뢰도는 항목마다 크게 다름; 많은 조우가 후대의 단일 연대기나 보고와 윤색의 경계가 불분명한 문학적 맥락에만 남아 있음; 목록은 보고를 전해진 그대로 제시하고 틀의 독법은 따로 표시함"
 +++
 
 This entry catalogues reported close encounters with aerial phenomena and their occupants across the pre-modern period, from approximately 1460 BCE through 1499 CE. The catalogue follows the cataloguing work of **Jacques Vallée and Chris Aubeck** in *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times* (Tarcher/Penguin, 2009), the principal contemporary scholarly compilation of pre-modern reports, which examines approximately 500 pre-1880 incidents drawn from chronicles, religious texts, military histories, monastic annals, and other documentary sources.

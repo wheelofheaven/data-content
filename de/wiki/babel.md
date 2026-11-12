@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,19 +15,27 @@ editorial_pass = "2026-05"
 entry_type = "event/period"
 alternative_names = ["the Tower of Babel", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (Akkadian: 'gate of the god')", "the Babel project", "the Babel event", "the Tower-of-Babel intervention", "the Confounding of Tongues", "the Confusion of Languages"]
 timeline = ["gemini"]
+see_also = [
+    { title = "Sintflut", path = "wiki/great-flood", description = "Der frühere Neustart durch den Rat; Babel ist das nächste Eingreifen gegen erneuten menschlichen Fortschritt." },
+    { title = "Noachidischer Bund", path = "wiki/noahic-covenant", description = "Der private Pakt nach der Sintflut, dessen lokalen Charakter Babel offenlegt." },
+    { title = "Sodom und Gomorra", path = "wiki/sodom-and-gomorrah", description = "Der spätere Schlag, von Babel unterschieden als Unterdrückung einer Rebellion statt als Zurückweisung einer Versöhnung." },
+    { title = "Theomachie", path = "wiki/theomachy", description = "Der umfassendere politische Konflikt der Elohim, zu dem das Eingreifen bei Babel gehört." },
+    { title = "Jahwe", path = "wiki/yahweh", description = "Spricht das plurale „Lasst uns herabsteigen“, das die Zerstreuung von Babel auslöst." },
+    { title = "Die Allianz", path = "wiki/the-alliance", description = "Das zivilisationsübergreifende Bündnis, dessen Friedensangebot der Turm von Babel war." }
+]
 
 [extra.infobox]
-type = "Multi-component narrative event; the post-flood collaborative space-program reconciliation attempt and the Council intervention that ended it"
-chronology = "Late Age of Gemini (c. 6,690 BCE forward on the corpus's compressed timeline); after the Great Flood and the post-flood covenant; before the long Taurus-age quiet that preceded the Sodom and Gomorrah strike"
-location = "The land of Shinar (biblical) corresponding to ancient Sumer in the alluvial plains of the lower Tigris and Euphrates rivers; the principal site corresponds to the broader Babylon-Babel area of southern Mesopotamia"
-participants = "The post-flood Eden-lineage human population (the 'people of Israel' in the source's framing, designating the Eden-lineage genealogical line rather than the later geographical-political Israel); the exiled Serpentine-faction creators (the Lucifer-faction Eloha exiles); the home-world Council of the Eternals (the intervening party)"
-purpose_of_the_tower = "Peace-offering / diplomatic-reconciliation attempt: the alliance's strategic effort to argue the human creation's case before the Council by sending a delegation of human partners to the home world to demonstrate the human creation's intelligence, peacefulness, and gratitude — and to secure formal pardon for the alliance and the broader human creation"
-technological_character = "Substantial interstellar-capable spacecraft (the source's 'enormous rocket' framing); on the corpus's reading, the second-generation craft following first-generation interplanetary craft, with the Tower itself being either the spacecraft or the launch-facility for one"
-council_intervention = "Multi-component intervention: (1) targeted dispersion of the scientific elite across the post-flood continents; (2) destruction of all the research materials and scientific instruments; (3) fragmentation of the unified post-flood language into mutually incomprehensible variants; (4) effective termination of the broader space-program collaboration"
-operational_consequence = "The transformation of the Serpentine faction from peaceful dissidents seeking reconciliation into active rebels; the long quiet across most of the Age of Taurus before the subsequent Sodom rebellion attempt"
-distinguished_from = "The Great Flood (the chronologically prior Gemini-age destruction event); the Sodom and Gomorrah strike (the chronologically subsequent Taurus-age destruction event with substantively different operational character — military strike against rebellion rather than dispersion against reconciliation); the broader Theomachy multi-age narrative (within which the Babel intervention is one specific phase); the various conventional interpretations of Babel as defiance project (the framework's distinctive contribution is the peace-offering reading)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in 'The Tower of Babel' section of *The Book Which Tells the Truth* establishes the framework's specific content with explicit articulation"
-principal_text = "*The Book Which Tells the Truth* (1974), 'The Tower of Babel' section (the principal Yahweh passage); *timeline.epub* Age of Gemini chapter, Section XII (the substantial subsequent corpus articulation with detailed Hebrew exegesis, Sumerian-Enmerkar parallel, and broader narrative-arc context)"
+type = "Erzählereignis nach der Sintflut; ein Raumfahrtprojekt von Menschen und verbannten Schöpfern, gelesen als Versuch der Versöhnung, und das Eingreifen des Rates auf dem Heimatplaneten, das es beendete"
+chronology = "Spätes Zeitalter der Zwillinge (ca. 6.690 v. Chr. und danach in der Chronologie des Korpus); nach der Sintflut und dem Noahbund; vor der langen Ruhe des Stier-Zeitalters, die dem Schlag gegen Sodom und Gomorra vorausging"
+location = "Das Land Schinar (biblisch) – das antike Sumer in der Schwemmebene des unteren Tigris und Euphrat; der Hauptschauplatz entspricht dem Gebiet von Babylon-Babel im südlichen Mesopotamien"
+participants = "Die Menschen der Eden-Linie nach der Sintflut (das „Volk Israel“ der Quelle, die Population, die durch die Verbindungen der Söhne der Elohim mit den Töchtern der Menschen zum jüdischen Volk wurde); die verbannte Luzifer-Fraktion der Schöpfer; der Rat der Ewigen auf dem Heimatplaneten (die eingreifende Partei)"
+purpose_of_the_tower = "Ein Friedensangebot: der Versuch der Allianz, die Sache der menschlichen Schöpfung vor dem Rat zu vertreten, indem sie eine Delegation von Menschen zum Heimatplaneten schickte, um zu zeigen, dass sie intelligent, friedlich und dankbar waren – und um eine Begnadigung zu erwirken"
+technological_character = "Ein interstellar taugliches Raumschiff (die „immense rocket“ der Quelle); nach der Lesart des Korpus ein Fahrzeug der zweiten Generation nach früheren interplanetaren Fahrzeugen, wobei der Turm entweder das Fahrzeug selbst oder seine Startanlage war"
+council_intervention = "(1) Zerstreuung der wissenschaftlichen Elite über die Kontinente nach der Sintflut; (2) Zerstörung der Forschungsmaterialien und Instrumente; (3) Zersplitterung der einen Sprache in gegenseitig unverständliche Sprachen; (4) Beendigung des Raumfahrtprogramms"
+consequence = "Die verbannte Luzifer-Fraktion wendet sich vom friedlichen Dissens zur offenen Rebellion; eine lange Ruhe über den größten Teil des Stier-Zeitalters vor der Rebellion von Sodom"
+distinguished_from = "Die Sintflut (der frühere Schlag im Zeitalter der Zwillinge); der Schlag gegen Sodom und Gomorra (der spätere im Zeitalter des Stiers – ein militärischer Schlag gegen eine Rebellion, keine Zerstreuung gegen eine Versöhnung); die umfassendere Theomachie (von der Babel eine Phase ist); und die herkömmliche Lesart von Babel als Auflehnung (der Rahmen liest es als Friedensangebot)"
+status_in_source_material = "Gut belegt; die Jahwe-Passage im Abschnitt 'The Tower of Babel' von *The Book Which Tells the Truth* formuliert den Kerngehalt des Rahmens direkt"
+principal_text = "*The Book Which Tells the Truth* (1974), Abschnitt 'The Tower of Babel' (die maßgebliche Jahwe-Passage); weiterentwickelt im Material des Korpus zum Zeitalter der Zwillinge mit hebräischer Exegese, der Enmerkar-Parallele und dem weiteren Kontext des Erzählbogens"
 +++
 
 **Babel** (Hebrew: בָּבֶל, *Bavel*) is the Tower of Babel episode of

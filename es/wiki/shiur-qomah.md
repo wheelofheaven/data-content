@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["*Shiʿur Qomah* (שִׁעוּר קוֹמָה)", "Sefer Haqqomah ('Libro del Cuerpo [Divino]')", "la Medida de la Estatura", "la Medida del Cuerpo", "Ma'amar Rabbi Yishmael"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Yahvé", path = "wiki/yahweh", description = "La figura cuyas medidas de la «altura del creador» atribuye el canon a la Cábala." },
+    { title = "Planeta natal de los Elohim", path = "wiki/elohim-home-planet", description = "La distancia que recupera el marco cuando la parasanga del texto se lee como un segundo luz." },
+    { title = "Literatura Hekhalot", path = "wiki/hekhalot-literature", description = "El corpus místico tardoantiguo de los palacios y el carro al que pertenece el texto." },
+    { title = "Cábala", path = "wiki/kabbalah", description = "La mística posterior que el canon raeliano nombra como fuente de las cifras en parasangas." },
+    { title = "Elohim", path = "wiki/elohim", description = "Los ingenieros cuyas medidas cósmicas lee el marco detrás de las cifras del cuerpo divino." },
+    { title = "Biblia hebrea", path = "wiki/hebrew-bible", description = "La fuente escrituraria cuya guematría de Salmo 147:5 genera la cifra clave de 236." },
+]
 
 [extra.infobox]
 type = "Texto del corpus místico Hekhalot / Merkavah; 'medida del cuerpo divino' antropomórfica"

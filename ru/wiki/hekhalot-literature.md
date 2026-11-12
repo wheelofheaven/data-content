@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["литература Hekhalot / Heikhalot (הֵיכָלוֹת)", "мистика Merkavah", "мистика Merkabah", "литература 'дворцов'", "*ma'aseh merkavah* ('деяние колесницы')"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Шиур Кома", path = "wiki/shiur-qomah", description = "Текст об измерениях в парасангах, переданный внутри этого корпуса и прочитанный раэлианским каноном." },
+    { title = "Каббала", path = "wiki/kabbalah", description = "Более поздняя классическая еврейская мистика, которой этот докаббалистический пласт предшествует на столетия." },
+    { title = "Древо жизни", path = "wiki/tree-of-life", description = "Каббалистическая диаграмма, развившаяся из традиции восхождения через чертоги." },
+    { title = "Еврейская Библия", path = "wiki/hebrew-bible", description = "Источник видения престола-колесницы Иезекииля, от которого мистика меркавы получила своё название." },
+    { title = "Яхве", path = "wiki/yahweh", description = "Восседающая на престоле фигура меркавы, рост которой измеряет включённый в корпус «Шиур Кома»." },
+    { title = "Распечатанное в первый год", path = "articles/unsealed-in-year-one", description = "Читает кумранские «Песни субботнего жертвоприношения» как протомеркавическую литургию, стоящую за этой традицией." },
+]
 
 [extra.infobox]
 type = "Корпус позднеантичных / раннесредневековых еврейских мистических текстов (докаббалистический)"

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -19,17 +19,25 @@ editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "framework"
 alternative_names = ["Pangea", "Antediluvian supercontinent", "The pre-deluge landmass", "The one continent"]
+see_also = [
+    { title = "伊甸", path = "wiki/eden", description = "位于这块单一洪水前陆地上的创造场所。" },
+    { title = "大洪水前", path = "wiki/antediluvian", description = "盘古大陆作为其地理基底的整个洪水前时期。" },
+    { title = "挪亚方舟", path = "wiki/noahs-ark", description = "与这块陆地灾变性的一次性分裂相关联的洪水幸存记述。" },
+    { title = "创世记", path = "wiki/genesis", description = "其第 6–9 章提供了使大陆分裂的洪水干预。" },
+    { title = "地球化(terraforming)", path = "wiki/terraforming", description = "将盘古大陆从原始海床中抬升出来的大陆工程行动。" },
+    { title = "传统", path = "wiki/the-tradition", description = "文集解读为编码了洪水前超大陆的被保存记忆。" },
+]
 
 [extra.infobox]
-type = "Supercontinent — both a mainstream-geological reconstruction and a framework-adopted antediluvian referent"
-mainstream_dating = "c. 335 million years ago (Carboniferous assembly) through c. 195 million years ago (Triassic-Jurassic breakup)"
-framework_dating = "Constructed during *yom* 3 / Age of Scorpio (c. 17,490 – 15,330 BCE on the corpus's reckoning); broken apart at the deluge event (c. 13,000 BCE on the corpus's reckoning)"
-extent = "Approximately equal to the combined landmass of all present-day continents, organised as a single contiguous body"
-shape_mainstream = "C-shaped with the Tethys Sea contained within the curve, surrounded by the superocean Panthalassa"
-geographic_role_framework = "The geographic substrate of the entire antediluvian period: the location of Eden, the location of the post-Eden dispersed civilisations, the area destroyed by the deluge event"
-breakup_mainstream = "Plate-tectonic rifting beginning approximately 195 million years ago, with progressive separation continuing through the Jurassic and Cretaceous"
-breakup_framework = "Catastrophic single-event breakup at the deluge, described in the source material as a deliberate operational intervention; the framework reads the modern continental configuration as the surface signature of the deluge event preserved in the contemporary geological record"
-divergence_from_mainstream = "Approximately three orders of magnitude on timescale; the framework's reading is incompatible with mainstream plate-tectonic dating and is registered transparently in the entry's dedicated section on the divergence"
+type = "超大陆——既是主流地质学的重建，也是本框架所采纳的洪水前指涉"
+mainstream_dating = "约 3.35 亿年前（石炭纪聚合）至约 1.95 亿年前（三叠纪—侏罗纪分裂）"
+framework_dating = "隆起于射手座时代晚期（按文集推算约公元前 19,650–17,490 年），即《创世记》文本压缩为 *yom* 3 的大陆工程，稳定过程延续至天蝎座早期；在双子座时代开启时（按文集推算约公元前 6,690 年）的大洪水中解体"
+extent = "约等于当今所有大陆的陆地面积之和，组成一个连续的整体"
+shape_mainstream = "呈 C 形，特提斯海包含在弧内，四周环绕着泛大洋"
+geographic_role_framework = "整个洪水前时期的地理基底：伊甸的所在、伊甸之后分散各地的文明的所在、被洪水事件摧毁的区域"
+breakup_mainstream = "板块构造裂解始于约 1.95 亿年前，在侏罗纪与白垩纪期间逐步分离"
+breakup_framework = "大洪水时的单次灾变性解体：打击本身在第一本书中被描述为有意的干预，解体则见于第三本书中马塞尔·泰吕斯的文章（LWTE-4）；本框架将现代大陆格局解读为保存在当代地质记录中的洪水事件的地表印记"
+divergence_from_mainstream = "时间尺度上相差约三个数量级；本框架的解读与主流板块构造定年不相容，这一点在条目讨论此分歧的专节中予以透明记录"
 +++
 
 **Pangaea** is the name conventionally given to the single supercontinent identified by mainstream geology as having existed from approximately 335 million years ago through approximately 195 million years ago, before breaking up via plate-tectonic processes into the continental configuration of the present-day Earth. The name derives from the Greek *Παγγαία*, "all earth," and was introduced into geological scholarship by the German meteorologist and geophysicist **Alfred Wegener** in his 1912 paper *Die Entstehung der Kontinente* and subsequently developed in *Die Entstehung der Kontinente und Ozeane* (*The Origin of Continents and Oceans*, 1915, with major revisions through 1929) — the foundational works of the continental-drift theory that subsequently developed into the contemporary theory of plate tectonics.

@@ -5,7 +5,7 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -17,10 +17,15 @@ timeline = ["age-of-pisces", "age-of-aquarius"]
 see_also = [
     { title = "Embajada", path = "wiki/embassy", description = "La resolución del canon a la cuestión de la divulgación mediante el reconocimiento diplomático formal." },
     { title = "PURSUE", path = "wiki/pursue", description = "El programa de publicación de 2026 cuyo archivo público por defecto incide sobre la tesis del secreto desde el lado oficial." },
+    { title = "Ufología", path = "wiki/ufology", description = "El campo más amplio del que la cuestión del encubrimiento es una parte controvertida." },
+    { title = "Astrobiología", path = "wiki/astrobiology", description = "El estudio científico de la vida extraterrestre que el encubrimiento supuestamente oculta." },
+    { title = "Hipótesis de los antiguos astronautas", path = "wiki/ancient-astronaut-hypothesis", description = "El marco que lee el contacto con los FANI en continuidad con la presencia histórica de los Elohim." },
+    { title = "Nueva Jerusalén", path = "wiki/new-jerusalem", description = "La Embajada como Tercer Templo que un contacto reconocido exigiría construir." },
+    { title = "Ecuación de Drake", path = "wiki/drake-equation", description = "La estimación formal de la probabilidad de contacto que presupone el debate sobre la divulgación." },
 ]
 
 [extra.infobox]
-type = "Substantive question of governmental concealment of UAP investigation and alleged contact, with substantial 2017-2024 disclosure transformation; methodologically complex subject matter operating across multiple evidential categories"
+type = "La cuestión discutida de si los gobiernos han ocultado la investigación de los UAP y un supuesto contacto; agudizada por la ola de divulgación de 2017–2024"
 documented_governmental_programs = "Project Sign 1947-1949; Project Grudge 1949-1952; Robertson Panel 1953; Project Blue Book 1952-1969; Condon Report 1968; AAWSAP 2008-2010; AATIP 2007-2012; UAP Task Force 2020-2022; AARO 2022-present"
 principal_2017_2024_disclosure_events = "NYT December 16, 2017 article disclosing AATIP; April 27, 2020 Pentagon UAP video releases; June 25, 2021 ODNI Preliminary Assessment; July 26, 2023 congressional hearings with David Grusch testimony; September 14, 2023 NASA UAP Independent Study Team report; November 13, 2024 follow-up congressional hearings"
 principal_whistleblowers = "David Grusch (2023 congressional testimony under oath; principal contemporary); Bob Lazar (1989-present; S-4 reverse-engineering claims); Robert Salas (1967 Malmstrom case); Phil Schneider (1995 lectures); Clifford Stone; Steven Greer (Disclosure Project 1993-present)"
@@ -28,8 +33,8 @@ principal_historical_scholarship = "Richard Dolan, *UFOs and the National Securi
 contested_document_tradition = "Majestic 12 documents (substantial authenticity disputes); substantial subsequent leaked-document tradition; the substantial CIA-MK-ULTRA-related psychological-operations engagement"
 principal_nuclear_facility_cases = "1967 Robert Salas Malmstrom AFB Minuteman missile shutdown; substantial Robert Hastings *UFOs and Nukes* documentation including approximately 150 documented multi-witness cases; 2010 National Press Club briefing"
 corpus_position = "Governmental cover-up substantively real across 1947-2017 period through demonstrated classified programs; 2017-2024 disclosure has substantially shifted question into mainstream-policy domain; substantive Vorilhon-source resolution operates through Embassy framework requiring international diplomatic recognition"
-distinguished_from = "General governmental secrecy (broader category); conspiracy theories without empirical foundation (substantively different evidential register); the broader Ufology field (cover-up question as one component); Astrobiology (the broader scientific field engaging extraterrestrial-life question)"
-status_in_framework = "Methodologically complex question engaged with substantive epistemic discipline; corpus position threads documented programs and contested allegations with substantial care"
+distinguished_from = "El secreto gubernamental en general (categoría más amplia); las teorías conspirativas infundadas (un registro probatorio distinto); el campo más amplio de la Ufología; la Astrobiología"
+status_in_framework = "Un tema empírico discutido, leído a través del canon; la historia documentada y las alegaciones no verificadas se mantienen separadas"
 +++
 
 **The military cover-up of exobiology** — increasingly called the

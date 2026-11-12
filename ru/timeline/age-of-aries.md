@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -26,14 +26,14 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Клод Ворильон (Раэль)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Клод Ворильон (Раэль)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
-    { title = "Исход", author = "Аноним (Еврейская Библия); перевод WoH в процессе с огласованного масоретского еврейского текста", date = "ок. VI–V вв. до н. э.", medium = "religious-text", path = "/library/exodus-woh/", description = "Неопалимая купина, переход через Красное море, Синайская теофания, Скиния и Ковчег — первичный источник главы." },
-    { title = "Числа", author = "Аноним (Еврейская Библия)", date = "ок. VI–V вв. до н. э.", medium = "religious-text", path = "/library/numbers/", description = "Медный змей (21:8–9), указания о Скинии и повествования о странствиях, цитируемые в §III." },
-    { title = "Иисус Навин", author = "Аноним (Еврейская Библия)", date = "ок. VI в. до н. э. (Девтерономическая история)", medium = "religious-text", path = "/library/joshua/", description = "Штурм Иерихона, битва при Беф-Хороне и эпизод «долгого дня», цитируемые в §III." },
-    { title = "Иезекииль", author = "Иезекииль бен-Вузий", date = "ок. 593–571 гг. до н. э.", medium = "religious-text", path = "/library/ezekiel-woh/", description = "Видение колесницы в Иезекииле 1, цитируемое в §II и подробно перечитываемое в §V." },
-    { title = "Даниил", author = "Аноним (эллинистический иудаизм)", date = "ок. 165 г. до н. э.", medium = "religious-text", path = "/library/daniel/", description = "Источник пассажа Даниила 10:13 о Михаиле / «князе Персидском», касающегося Персии и Греции в §VII." },
-    { title = "The Spaceships of Ezekiel", author = "Йозеф Ф. Блюмрих", date = "1974", medium = "nonfiction-book", description = "Техническая реконструкция инженера NASA аппарата из Иезекииля 1, центральная для перечитывания в §V главы." },
+    { id = "le-livre-qui-dit-la-v-rit" },
+    { id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te" },
+    { id = "exodus", note = "Неопалимая купина, переход через Красное море, Синайская теофания, Скиния и Ковчег — первичный источник главы." },
+    { id = "numbers", note = "Медный змей (21:8–9), указания о Скинии и повествования о странствиях, цитируемые в §III." },
+    { id = "joshua", note = "Штурм Иерихона, битва при Беф-Хороне и эпизод «долгого дня», цитируемые в §III." },
+    { id = "ezekiel", note = "Видение колесницы в Иезекииле 1, цитируемое в §II и подробно перечитываемое в §V." },
+    { id = "daniel", note = "Источник пассажа Даниила 10:13 о Михаиле / «князе Персидском», касающегося Персии и Греции в §VII." },
+    { id = "the-spaceships-of-ezekiel", note = "Техническая реконструкция инженера NASA аппарата из Иезекииля 1, центральная для перечитывания в §V главы." },
 ]
 
 [[extra.prev_age]]

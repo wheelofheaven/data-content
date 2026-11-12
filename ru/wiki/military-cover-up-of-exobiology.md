@@ -5,30 +5,36 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["government UAP cover-up", "UFO cover-up", "UAP disclosure", "military cover-up of exobiology (earlier designation)", "UAP secrecy", "extraterrestrial contact cover-up"]
+alternative_names = ["правительственное сокрытие UAP", "сокрытие НЛО", "раскрытие UAP", "военное сокрытие экзобиологии (более раннее обозначение)", "секретность вокруг UAP", "сокрытие контакта с инопланетянами"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
 see_also = [
+    { title = "Посольство", path = "wiki/embassy", description = "Решение каноном вопроса о раскрытии через официальное дипломатическое признание." },
     { title = "PURSUE", path = "wiki/pursue", description = "Программа публичного раскрытия 2026 года, чей открытый по умолчанию архив касается тезиса о секретности с официальной стороны." },
+    { title = "Уфология", path = "wiki/ufology", description = "Более широкая область, одной из спорных частей которой является вопрос о сокрытии." },
+    { title = "Астробиология", path = "wiki/astrobiology", description = "Научное изучение внеземной жизни, которое якобы скрывает сокрытие." },
+    { title = "Гипотеза древних астронавтов", path = "wiki/ancient-astronaut-hypothesis", description = "Рамка, читающая контакт с НЛО как продолжение исторического присутствия Элохим." },
+    { title = "Новый Иерусалим", path = "wiki/new-jerusalem", description = "Посольство как Третий Храм, постройки которого потребовал бы признанный контакт." },
+    { title = "Уравнение Дрейка", path = "wiki/drake-equation", description = "Формальная оценка вероятности контакта, которую предполагает спор о раскрытии." },
 ]
 
 [extra.infobox]
-type = "Substantive question of governmental concealment of UAP investigation and alleged contact, with substantial 2017-2024 disclosure transformation; methodologically complex subject matter operating across multiple evidential categories"
+type = "Спорный вопрос о том, скрывали ли правительства расследования НЛЯ и предполагаемый контакт; обострён волной раскрытия информации 2017–2024 годов"
 documented_governmental_programs = "Project Sign 1947-1949; Project Grudge 1949-1952; Robertson Panel 1953; Project Blue Book 1952-1969; Condon Report 1968; AAWSAP 2008-2010; AATIP 2007-2012; UAP Task Force 2020-2022; AARO 2022-present"
-principal_2017_2024_disclosure_events = "NYT December 16, 2017 article disclosing AATIP; April 27, 2020 Pentagon UAP video releases; June 25, 2021 ODNI Preliminary Assessment; July 26, 2023 congressional hearings with David Grusch testimony; September 14, 2023 NASA UAP Independent Study Team report; November 13, 2024 follow-up congressional hearings"
+principal_2017_2024_disclosure_events = "Статья NYT об AATIP (16 декабря 2017); публикация Пентагоном видео ВМС FLIR1, Gimbal и GoFast (27 апреля 2020); предварительная оценка ODNI (25 июня 2021); слушания в Конгрессе с Дэвидом Грушем (26 июля 2023); доклад независимой исследовательской группы NASA по НЛЯ (14 сентября 2023); повторные слушания (13 ноября 2024)"
 principal_whistleblowers = "David Grusch (2023 congressional testimony under oath; principal contemporary); Bob Lazar (1989-present; S-4 reverse-engineering claims); Robert Salas (1967 Malmstrom case); Phil Schneider (1995 lectures); Clifford Stone; Steven Greer (Disclosure Project 1993-present)"
-principal_historical_scholarship = "Richard Dolan, *UFOs and the National Security State* (2 vols., 2000, 2009); Leslie Kean, *UFOs: Generals, Pilots, and Government Officials Go on the Record* (2010); Luis Elizondo, *Imminent* (2024)"
-contested_document_tradition = "Majestic 12 documents (substantial authenticity disputes); substantial subsequent leaked-document tradition; the substantial CIA-MK-ULTRA-related psychological-operations engagement"
-principal_nuclear_facility_cases = "1967 Robert Salas Malmstrom AFB Minuteman missile shutdown; substantial Robert Hastings *UFOs and Nukes* documentation including approximately 150 documented multi-witness cases; 2010 National Press Club briefing"
+principal_historical_scholarship = "Ричард Долан, UFOs and the National Security State (2000, 2009); Лесли Кин, UFOs: Generals, Pilots, and Government Officials Go on the Record (2010); Луис Элизондо, Imminent (2024)"
+contested_document_tradition = "Документы «Маджестик-12» (MJ-12), признанные ФБР в 1988 году сфабрикованными; позднейшая традиция «утёкших» документов (Project Aquarius, SOM 1-01)"
+principal_nuclear_facility_cases = "Отключение ракет Minuteman на авиабазе Малмстром в 1967 году (Роберт Салас); документирование примерно 150 случаев в UFOs and Nukes Роберта Гастингса; брифинг в Национальном пресс-клубе в 2010 году"
 corpus_position = "Governmental cover-up substantively real across 1947-2017 period through demonstrated classified programs; 2017-2024 disclosure has substantially shifted question into mainstream-policy domain; substantive Vorilhon-source resolution operates through Embassy framework requiring international diplomatic recognition"
-distinguished_from = "General governmental secrecy (broader category); conspiracy theories without empirical foundation (substantively different evidential register); the broader Ufology field (cover-up question as one component); Astrobiology (the broader scientific field engaging extraterrestrial-life question)"
-status_in_framework = "Methodologically complex question engaged with substantive epistemic discipline; corpus position threads documented programs and contested allegations with substantial care"
+distinguished_from = "Правительственная секретность вообще (более широкая категория); необоснованная теория заговора (иной доказательный регистр); уфология в целом; астробиология"
+status_in_framework = "Спорный эмпирический предмет, прочитываемый через канон; документированная история и непроверенные утверждения разведены"
 +++
 
 **The military cover-up of exobiology** — increasingly called the

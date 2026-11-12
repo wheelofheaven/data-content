@@ -5,25 +5,39 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Comparative Mythology", "comparative religion (overlapping discipline)", "mythography (related but distinct discipline)", "comparative folklore", "Mythologie comparée (French)", "vergleichende Mythologie (German)"]
+alternative_names = ["Comparative Mythology", "比較宗教學（重疊的學科）", "神話誌（相關但不同的學科）", "比較民俗學", "Mythologie comparée (French)", "vergleichende Mythologie (German)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "哈姆雷特之磨", path = "wiki/hamlets-mill", description = "文集採納為本學科結構組織原則的歲差編碼論點。" },
+    { title = "神戰", path = "wiki/theomachy", description = "本學科跨文化編目的眾神之戰母題群。" },
+    { title = "古代宇航員假說", path = "wiki/ancient-astronaut-hypothesis", description = "文集用以解讀反覆出現之母題的更廣泛詮釋框架。" },
+    { title = "新埃烏赫梅羅斯主義", path = "wiki/neo-euhemerism", description = "文集套用於跨文化模式的共同歷史指涉方法。" },
+    { title = "分別善惡之樹", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "宇宙樹母題,作為本學科反覆出現之模式組中的一例。" },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "將本學科作為其主要方法論承諾之一的計畫。" },
+    { title = "卡爾·榮格", path = "wiki/carl-jung", description = "原型神話解讀學派的創始人(與坎伯並列);他的《伊雍》解讀雙魚座紀元。" },
+    { title = "珍·塞勒斯", path = "wiki/jane-sellers", description = "對歐西里斯死亡與復起神話的歲差解讀。" },
+    { title = "Sampo(三寶磨)", path = "wiki/sampo", description = "芬蘭的 Sampo,作為世界之磨神話素在波羅的—芬蘭文化中的實例。" },
+    { title = "《奧德賽》背後的世界", path = "/articles/the-world-behind-the-odyssey/", description = "文集的希臘個案研究——從近東到赫西俄德與荷馬的有據可查傳播,並將框架解讀分開處理。" },
+    { title = "荷馬的東面", path = "/articles/the-east-face-of-homer/", description = "希臘個案研究的後半部:詳述八世紀的傳播走廊,以及文學借用能證明與不能證明什麼的方法紀律。" },
+    { title = "赫利孔山上的雨", path = "/articles/the-rain-over-helicon/", description = "對本學科本身的方法審查:使平行現象超越巧合的檢驗,分別評定於赫西俄德、荷馬、詩歌措辭與接觸路線。" },
+]
 
 [extra.infobox]
-type = "Academic and interpretive discipline studying recurring patterns across geographically and historically separated mythological corpora; one of the corpus's principal methodological commitments"
-disciplinary_origin = "Late eighteenth-century European Romantic engagement with non-Western mythologies; formal disciplinary emergence in the nineteenth century with Friedrich Max Müller's comparative-philological work and James George Frazer's anthropological-comparative work"
-principal_methodological_schools = "Solar-mythology (Müller); anthropological-comparative (Frazer, Tylor, Lang); diffusionist (Bastian, Vienna school, Pan-Babylonianism); trifunctional structuralism (Dumézil); phenomenological-religious (Eliade, Otto, van der Leeuw); archetypal-Jungian (Jung, Neumann, Campbell); structural-anthropological (Lévi-Strauss); cognitive science of religion (Boyer, Atran, Barrett)"
-principal_motif_clusters = "Creation narratives; flood narratives; sky-visitor and culture-bringer traditions; theomachy / war-among-the-gods; divine descent and divine-human hybrids; golden age and ages-of-the-world traditions; dying-and-rising-god pattern; cosmic mountain and world-axis; cosmic tree; descent-to-the-underworld"
-corpus_position = "Comparative Mythology is one of the corpus's principal methodological commitments; the cross-cultural patterns are taken as substantive evidence requiring substantive explanation; the corpus differs from the mainstream contemporary academic discipline's retreat from grand-theoretical engagement"
-corpus_explanatory_framework = "Cross-cultural patterns explained principally by common historical referents in the alliance-contact framework, integrated with the Hamlet's Mill precessional structural framework; the corpus does not require rejecting cognitive-science, diffusionist, or archetypal explanations but treats them as partial explanations that miss the common-referent component"
-distinguished_from = "Comparative religion (broader disciplinary engagement with religious traditions beyond their mythological content); mythography (descriptive cataloguing of mythological content without comparative-theoretical framework); folklore studies (focused on contemporary oral tradition rather than ancient mythological corpora); cognitive science of religion (which engages cross-cultural patterns but explains them through evolved cognitive structures)"
-status_in_framework = "Principal methodological commitment alongside Sendy's Conditions of Coherence, the Biglino Method, the Hamlet's Mill precessional integration, and the broader corpus's disciplined epistemic-pluralism methodology"
+type = "研究地理與歷史上相隔之神話資料中反覆出現之模式的學術與詮釋學科；本文集主要的方法論立場之一"
+disciplinary_origin = "18 世紀晚期歐洲浪漫主義對非西方神話的關注；19 世紀隨弗里德里希·馬克斯·繆勒的比較語文學研究與詹姆斯·喬治·弗雷澤的人類學比較研究而正式成為學科"
+principal_methodological_schools = "太陽神話學派（繆勒）；人類學比較學派（弗雷澤、泰勒、朗格）；傳播論學派（巴斯蒂安、維也納學派、泛巴比倫主義）；三功能結構主義（杜梅齊爾）；宗教現象學派（伊利亞德、奧托、范德雷烏）；榮格原型學派（榮格、諾伊曼、坎伯）；結構人類學（李維史陀）；宗教認知科學（博耶、阿特蘭、巴雷特）"
+principal_motif_clusters = "創世敘事；洪水敘事；天界訪客與文化帶來者傳統；神戰／諸神之戰；神聖降臨與神人混血；黃金時代與世界諸時代傳統；死而復生之神模式；宇宙之山與世界之軸；宇宙樹；下降冥界"
+corpus_position = "比較神話學是語料的主要方法論承諾之一；跨文化模式被視為需要解釋的真實證據；語料與當代學科從宏大理論探討中退縮的趨勢有所不同"
+corpus_explanatory_framework = "跨文化模式主要以聯盟接觸框架中的共同歷史指涉來解釋，並與《哈姆雷特之磨》的歲差結構框架整合；本文集不要求否定認知科學、傳播論或原型論的解釋，而是將它們視為遺漏了共同指涉成分的部分解釋"
+distinguished_from = "比較宗教學（更廣泛地研究宗教傳統，不限於其神話內容）；神話誌（描述性編錄神話內容，不帶比較理論框架）；民俗學研究（著重當代口傳傳統而非古代神話資料）；宗教認知科學（研究跨文化模式，但以演化而來的認知結構解釋之）"
+status_in_framework = "與桑迪的一致性條件、比利諾方法、《哈姆雷特之磨》歲差整合，以及本文集更廣的有紀律認識論多元方法並列的主要方法論立場"
 +++
 
 **Comparative mythology** is the academic discipline that studies myths from

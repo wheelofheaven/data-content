@@ -6,26 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["plurality of the gods", "plurality of the Elohim", "the multiple-creators reading", "biblical polytheism", "Hebrew Bible plurality content", "the divine council reading", "the Elohim plural reading"]
+alternative_names = ["神々の複数性", "エロヒムの複数性", "複数の創造者という読解", "聖書の多神教", "ヘブライ語聖書における複数性の内容", "神的評議会という読解", "エロヒムを複数として読む読解"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "エロヒム", path = "wiki/elohim", description = "複数性の読解の中心にある、ヘブライ語の複数形の名詞。" },
+    { title = "ヤハウェ", path = "wiki/yahweh", description = "特定の一人のエロハ。複数形が名指すエロヒムの集団とは区別される。" },
+    { title = "永遠者の評議会", path = "wiki/council-of-the-eternals", description = "聖書の複数形に政治的な指示対象を与える統治機関。" },
+    { title = "監視者たち", path = "wiki/watchers", description = "この読解が依拠する、聖書におけるもう一つの存在者の複数形。" },
+    { title = "サタン", path = "wiki/satan", description = "形而上学的な悪としてではなく、政治的に読まれる評議会の人物。" },
+    { title = "元年に目覚めた巻物", path = "articles/the-scrolls-that-woke-in-year-one", description = "マソラ本文が「イスラエルの子ら」へと編集した箇所に、4QDeut(j) は「エロヒムの子ら」を保存している。写本に捉えられた複数性。" },
+]
 
 [extra.infobox]
-type = "Foundational interpretive concept; the principal corpus position on the substantial multiple-divine-beings content of the Hebrew Bible and the broader cross-cultural religious-mythological traditions"
-basic_premise = "The Hebrew Bible and the broader religious-mythological traditions register substantial multiple-divine-beings content rather than substantial singular-supreme-deity content, with the substantial plurality content preserving cultural memory of an actual multiple-creator-civilization (the Elohim)"
-principal_evidence = "The Hebrew word *Elohim* is plural in form; substantial plural verbs (*na'aseh adam* 'let us make man' Genesis 1:26); substantial plural possessives (*be-tzalmenu* 'in our image'); substantial plural self-addresses (*ke-achad mimenu* 'as one of us' Genesis 3:22); substantial *benei ha-Elohim* 'sons of the Elohim' references (Genesis 6, Job 1-2, Psalm 82); substantial divine-council scenes (1 Kings 22, Job 1-2, Isaiah 6, Psalm 82)"
-the_first_mistake = "The substantial Yahweh-articulated framework reading: 'It replaced the term Elohim, which refers to the creators, with a singular term God, whereas in fact Elohim in Hebrew is the plural of Eloha. In this way, the Church transformed the creators into a single incomprehensible God.' Registers the conventional Christian-tradition singular-God reading as the principal translation-and-theological mistake"
-relationship_to_cosmic_chain = "The plurality content connects substantively to the broader Cosmic Chain framework — the substantial articulation that humans will themselves become creators, just as the creators were created. Plurality of Gods is therefore not merely a static descriptive position about how many divine beings exist, but the substantial dynamic position that registers humans as substantial future participants in the broader chain of creator-creature-creator development"
-mormon_lds_alignment = "Substantial structural alignment with the Mormon Latter-day Saints theological tradition, particularly through Joseph Smith's King Follett discourse (1844), Lorenzo Snow's couplet 'as man now is, God once was; as God now is, man may be,' the Mormon plural-Elohim doctrine, and the Mormon exaltation doctrine; the Mormon position represents the closest mainstream-religious-tradition convergence the framework has at the Plurality of Gods specific dimension"
-distinguished_from = "Conventional Christian-tradition monotheism (the principal interpretive contrast); conventional polytheistic religious traditions (which operate within distinct cosmological framings); cosmic pluralism (a substantively different concept registering the philosophical plurality of worlds); henotheism (which preserves singular-supreme-deity priority while acknowledging other deities); modalistic monarchianism (which registers multiple manifestations of singular underlying deity); various pantheistic and panentheistic frameworks"
-status_in_source_material = "Substantially documented; the principal Yahweh passages establishing the framework's specific content are distributed across multiple corpus sources, with substantial subsequent corpus development through the timeline.epub Hebrew exegesis"
-principal_text = "*Message from the Designers* (the principal Yahweh-articulated framework reading on the Church's first mistake); *The Book Which Tells the Truth* (1974, the substantial foundational Genesis 1 articulation); *timeline.epub* Age of Capricorn through Age of Pisces chapters (the substantial subsequent corpus articulation with detailed Hebrew exegesis); various Sendy works (substantial complementary content)"
+type = "基礎的な解釈概念。ヘブライ語聖書とより広い神話の伝統は、唯一の至高神ではなく複数の神的存在を描いている、というコーパスの立場"
+basic_premise = "ヘブライ語聖書とより広い宗教的・神話的記録は、唯一の至高の神ではなく多くの神的存在を描いている。この枠組みは、この複数性を、実在した複数の創造者たち(エロヒム)の保存された記憶として読む"
+principal_evidence = "*Elohim* は形の上で複数形である。複数形の動詞(*na'aseh adam*、「われわれは人を造ろう」、創世記1:26)。複数形の所有表現(*be-tzalmenu*、「われわれのかたちに」)。複数形の自称(*ke-achad mimenu*、「われわれのひとりのように」、創世記3:22)。*benei ha-Elohim*(「エロヒムの子ら」、創世記6章、ヨブ記1–2章、詩編82編)。そして列王記上22章、ヨブ記1–2章、イザヤ書6章、詩編82編の神的会議の場面"
+the_first_mistake = "ラエルの原典におけるヤハウェの言葉:「それは、創造者たちを指す語エロヒムを、単数形の語である神に置き換えた。実際にはエロヒムはヘブライ語でエロハの複数形であるにもかかわらず。こうして教会は、創造者たちを単一の不可解な神へと変えてしまった。」"
+relationship_to_cosmic_chain = "この複数性は記述的であるだけでなく動的でもある:宇宙の連鎖を通じて、人類はそれ自体が未来の創造者として読まれる ― 「創造された者たちは、創造者たちが創造されたのと同じように、創造者となる」 ― したがってこの読解は、神的存在がいくつ存在するかだけでなく、人類が何になりうるかをも名指す"
+mormon_lds_alignment = "モルモン教(末日聖徒)の神学との緊密な構造的収斂 ― ジョセフ・スミスのキング・フォレット説教(1844年)、ロレンゾ・スノーの対句('as man now is, God once was; as God now is, man may be')、複数のエロヒムと昇栄の教義 ― この読解に最も近い主流宗教上の並行例"
+distinguished_from = "従来のキリスト教とユダヤ教の一神教。従来の多神教。宇宙的多元論(居住世界の複数性、別個の概念)。単一神教(他の神々の上に立つ一柱の至高神)。様態論的モナルキア主義(複数の様態をとる一柱の神)。汎神論"
+status_in_source_material = "十分に記録されている。鍵となるヤハウェの箇所はラエルの原典書籍全体に分布しており、詳細なヘブライ語の釈義はコーパスの年表の資料で展開されている"
+principal_text = "*Message from the Designers*(*Elohim* を教会が単数形で表したことについての「最初の誤り」の一節)。*The Book Which Tells the Truth*(1974年、創世記1章の定式化)。詳細なヘブライ語の釈義についてはコーパスの年表の章(山羊座から魚座まで)。補完的な資料としてジャン・サンディの著作"
 +++
 
 **Plurality of Gods** is the Wheel of Heaven reading that the

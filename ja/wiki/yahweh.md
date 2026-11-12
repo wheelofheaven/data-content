@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 99
@@ -23,14 +23,16 @@ alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "エホバ"
 portrait_id = "yahweh"
 image = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.avif"
-image_alt = "AI-generated editorial portrait of Yahweh as an elder Eloha with almond-shaped eyes, long pale hair, and a calm green-lit presence."
-image_caption = "Interpretive portrait for the Yahweh wiki entry and library speaker metadata."
+image_alt = "アーモンド形の目、長く淡い色の髪を持ち、緑の光の中に穏やかに佇む年長のエロハとしてのヤハウェの、AI生成による編集用の肖像。"
+image_caption = "ヤハウェのウィキ項目とライブラリーの話者メタデータのための解釈的肖像。"
 see_also = [
     { title = "エロヒム", path = "wiki/elohim", description = "ヤハウェがその主要な構成員である複数形の呼称。" },
     { title = "永遠者の評議会", path = "wiki/council-of-the-eternals", description = "ヤハウェが議長を務める統治機関。" },
     { title = "イエス", path = "wiki/jesus", description = "キリスト教伝統において慣例的にヤハウェの子と同定されている人物。" },
     { title = "モーセ", path = "wiki/moses", description = "出エジプト物語におけるヤハウェの主要な接触相手。" },
     { title = "アブラハム", path = "wiki/abraham", description = "ヤハウェが契約を樹立した創設族長。" },
+    { title = "一神教は誤った問いである", path = "articles/monotheism-is-the-wrong-question", description = "ヤハウェを、存在そのものではなく、複数の造り手たちを代弁する、名をもつ代表のエロハとして読む。" },
+    { title = "六つの朝、六つの年", path = "articles/six-mornings-six-years", description = "彼を自らの編纂者として読む。伏せられた名、時を定めた公表禁止、情報源を守るための修復。" },
 ]
 
 footnotes = [

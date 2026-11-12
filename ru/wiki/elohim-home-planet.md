@@ -6,9 +6,9 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
-translation_stale = true
+translation_stale = false
 translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.avif"
@@ -17,23 +17,32 @@ image_caption = "Родной мир Элохим в описании источ
 editorial_pass = "2026-05"
 category = "Elohim"
 entry_type = "place"
-alternative_names = ["Elohim Home Planet", "the home planet", "the planet of the Elohim", "the planet of the creators", "the planet of the Eternals (per single-planet reading)", "the other world", "the Mormon Kolob (per Tvedtnes hypothesis)"]
+alternative_names = ["Elohim Home Planet", "родная планета", "планета Элохим", "планета создателей", "the planet of the Eternals (per single-planet reading)", "the other world", "the Mormon Kolob (per Tvedtnes hypothesis)"]
 timeline = ["age-of-capricorn", "age-of-aquarius"]
+see_also = [
+    { title = "Совет Вечных", path = "wiki/council-of-the-eternals", description = "Руководящий орган, заседающий на родной планете согласно исходному описанию." },
+    { title = "Яхве", path = "wiki/yahweh", description = "Президент Вечных и первый бессмертный родного мира." },
+    { title = "Гипотеза древних астронавтов", path = "wiki/ancient-astronaut-hypothesis", description = "Более широкая рамка, в которой помещается внесолнечный родной мир создателей." },
+    { title = "Каббала", path = "wiki/kabbalah", description = "Традиция, из которой происходят расстояния до родного мира, измеренные в парасангах." },
+    { title = "Космическая Цепь", path = "wiki/cosmic-chain", description = "Вложенная линия создателей и сотворённых, в которой родная планета — одно звено." },
+    { title = "Предтечи", path = "wiki/forerunners", description = "Предшествующая цивилизация, засеявшая линию Элохим до родного мира." },
+    { title = "Шесть утр, шесть лет", path = "articles/six-mornings-six-years", description = "Устанавливает по маршруту, что путешествие 1975 года так и не достигает этого мира." },
+]
 
 [extra.infobox]
-type = "Extrasolar planet; political-civilizational center of the Elohim alliance that conducted the genetic-engineering project producing terrestrial life"
-principal_source = "Claude Vorilhon, *Message from the Designers* (Tagman Press, 2005), consolidating *Le Livre qui dit la vérité* (1974), *Les Extra-Terrestres m'ont emmené sur leur planète* (1975), and *Accueillir les Extra-Terrestres* (1979)"
-location_from_home_star = "236,000 parasangs (~70.8 billion kilometers); home star substantially larger than the Sun"
-location_from_earth = "30,000,000 parasangs (~9 trillion kilometers, approximately 1 light-year); subject to the substantial astronomical-inconsistency objection the source itself addresses through deliberate-obfuscation and variable-lightspeed cosmology"
-parasang_unit = "Source-redefined unit: distance light travels in one second (~300,000 kilometers); etymologically borrowed from ancient Persian linear-distance unit but redefined as celestial-distance unit in the source's vocabulary"
-environment = "Mild temperature; lush vegetation with exotic flora; azure seas; agricultural-ecological character described as paradisal"
+type = "Внесолнечная планета; политический и цивилизационный центр Элохим — цивилизации, которая, согласно прочтению рамки, сконструировала земную жизнь"
+principal_source = "Клод Ворильон, *Message from the Designers* (Tagman Press, 2005), объединяющее *Le Livre qui dit la vérité* (1974), *Les Extra-Terrestres m'ont emmené sur leur planète* (1975) и *Accueillir les Extra-Terrestres* (1979)"
+location_from_home_star = "236 000 парасангов (~70,8 млрд км, ~474 а. е.); родная звезда описана как гораздо более крупная, чем Солнце"
+location_from_earth = "30 000 000 парасангов (~9 трлн км, примерно один световой год) — величина, противоречащая известным звёздным расстояниям, что источник объясняет намеренным запутыванием и космологией переменной скорости света"
+parasang_unit = "Единица, которую источник переопределяет как расстояние, проходимое светом за одну секунду (~300 000 км); слово заимствовано из древнеперсидской меры дорожного расстояния"
+environment = "Мягкая температура; пышная растительность и экзотическая флора; лазурные моря; ландшафт, который источник описывает как райский"
 civilization = "~7 billion inhabitants; seven provinces; official language closely resembling ancient Hebrew"
-council_of_eternals = "~700 Elohim members + ~8,400 resurrected humans from Earth; presided by Yahweh (first individual successfully cloned-and-memory-transferred ~25,000 years ago)"
+council_of_eternals = "~700 членов-Элохим и ~8400 воскрешённых людей под председательством Яхве (первого клонированного индивида с переносом памяти, ~25 000 лет назад)"
 economy = "Post-scarcity; atom-based energy; biological robots performing mechanical labor; intellectual-creative activity as principal human pursuit"
-travel_technology = "Atom-based propulsion at 7× lightspeed at time of Vorilhon contact (1973-1975); journey to Earth ~2 months; subsequent technological advance to substantially shorter journey times"
-relationship_to_planet_of_eternals = "Source content allows two readings: single-planet identification (the home planet IS the Planet of the Eternals) or two-planet system (the Planet of the Eternals is a second smaller planet in the same stellar system); the corpus registers both readings as compatible with the source material"
-distinguished_from = "The intergalactic ship near Earth (Elohim operational base with seven Elohim representatives plus two ship-responsible Elohim); Earth-based Elohim installations (the Andean, Himalayan, Greek, and other regional bases); Mormon Kolob (which may or may not refer to the same entity, per the Tvedtnes hypothesis)"
-status_in_framework = "Principal extraterrestrial location in the corpus framework; the political-civilizational center of the alliance that conducts the Earth project; the residence of the Council of the Eternals; the destination for the resurrected prophets and qualifying humans"
+travel_technology = "Атомная тяга со скоростью в семь раз выше скорости света; путь до Земли занимал около двух месяцев на момент контакта (1973–1975) и гораздо меньше к 1975 году"
+relationship_to_planet_of_eternals = "Источник допускает два прочтения: родная планета И ЕСТЬ Планета Вечных (одна планета) либо Планета Вечных — второй, меньший мир в той же системе (две планеты). Рамка считает оба совместимыми с источником."
+distinguished_from = "Межгалактический корабль, находящийся вблизи Земли (экипаж из девяти: семь представителей провинций и два офицера судна); земные базы Элохим (в Андах, Гималаях, Греции и в других местах); мормонский Колоб, который корпус не отождествляет со звездой Элохим"
+status_in_framework = "Главное внеземное место в рамке: резиденция Совета Вечных и дом воскрешённых пророков, политический центр цивилизации, ведущей проект Земли"
 +++
 
 **The Elohim Home Planet** is, in the Wheel of Heaven framework, the extrasolar

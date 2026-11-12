@@ -6,25 +6,33 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Jerusalem", "Third Temple (Jewish-historical register)", "Embassy (contemporary operational register)", "the Heavenly Jerusalem (Christian-apocalyptic register)", "the descending Holy City (Revelation 21 designation)", "the residence of the Elohim (Vorilhon source designation)"]
+alternative_names = ["la Nouvelle Jérusalem", "Third Temple (Jewish-historical register)", "Embassy (contemporary operational register)", "the Heavenly Jerusalem (Christian-apocalyptic register)", "the descending Holy City (Revelation 21 designation)", "the residence of the Elohim (Vorilhon source designation)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Ambassade", path = "wiki/embassy", description = "Les spécifications opérationnelles de la même structure." },
+    { title = "Troisième Temple", path = "wiki/third-temple", description = "Le nom de l'histoire juive pour la même structure d'accueil prévue." },
+    { title = "Ézéchiel", path = "wiki/ezekiel", description = "Le prophète dont le corpus lit la vision du seuil du temple comme une préfiguration." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "L'eschatologie de l'Apocalypse de Jean qui fournit l'image de la cité qui descend." },
+    { title = "Âge d'or", path = "wiki/golden-age", description = "La transformation de l'ère du Verseau que la structure doit centrer et rayonner vers l'extérieur." },
+    { title = "Descellés en l'an un", path = "articles/unsealed-in-year-one", description = "Lit le texte araméen de Qumrân sur la Nouvelle Jérusalem — la cité mesurée en attente de construction — comme un ancêtre de cette entrée." },
+]
 
 [extra.infobox]
-type = "Aquarian-age physical-institutional concept; the structure intended to receive the alliance's formal arrival and to serve as the operational location of human-Elohim diplomatic engagement"
-three_term_identification = "New Jerusalem (Christian-apocalyptic register); Third Temple (Jewish-historical register); Embassy (contemporary operational register) — three terms for the same physical-institutional content within distinct interpretive frames"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'To the People of Israel' section; *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979); consolidated *Message from the Designers* (2005)"
-biblical_prefigurations = "Ezekiel 47:1-2 (water from the temple threshold); Acts 15:16 (rebuild the tabernacle of David); Revelation 21:1-3 (descending New Jerusalem)"
-original_location_preference = "Israel near Jerusalem; the geographic site of the original Eden operation; the highest-concentration alliance-contact site on Earth"
+type = "Édifice de l'ère du Verseau construit pour accueillir le retour officiel des Élohim ; le siège du contact ouvert entre Élohim et humains"
+three_term_identification = "Nouvelle Jérusalem (nom apocalyptique chrétien) ; Troisième Temple (nom historique juif) ; Ambassade (nom opérationnel) — trois noms pour un seul bâtiment"
+principal_source = "*Les extra-terrestres m'ont emmené sur leur planète* (Vorilhon, 1975), « Au peuple d'Israël » ; *Accueillir les extra-terrestres* (1979) ; *Le Message donné par les extra-terrestres* (2005)"
+biblical_prefigurations = "Ézéchiel 47:1-2 (l'eau qui sort du seuil du temple) ; Actes 15:16 (relever le tabernacle de David) ; Apocalypse 21:1-3 (la Nouvelle Jérusalem qui descend)"
+original_location_preference = "Israël, près de Jérusalem — le site de l'opération originelle d'Éden"
 relocation_authorization = "December 13, 1997 Yahweh message — formal authorization to seek permission from any nation following Israeli refusals; Israel preserved as 'last chance' option"
-distinguished_from = "Embassy (the operational-architectural register, treated in dedicated entry); Third Temple (the Jewish-historical register, treated in dedicated entry when written); the historic Solomonic and Second Temples (the prior Jerusalem-temple physical structures)"
-status_in_framework = "Foundational Aquarian-age architectural-institutional concept; the operational center from which Aquarian-age transformative content flows outward; the spiritual and intellectual center of the world for millennia to come"
+distinguished_from = "L'Ambassade (spécifications opérationnelles, entrée dédiée) ; le Troisième Temple (succession historique juive, entrée dédiée) ; les Premier et Second Temples historiques"
+status_in_framework = "Édifice fondateur de l'ère du Verseau ; le centre opérationnel d'où doit rayonner la transformation de l'ère"
 +++
 
 **New Jerusalem** is, in the Wheel of Heaven framework, one of three names — alongside

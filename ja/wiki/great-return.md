@@ -6,28 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
-redirect_to = { title = "Embassy", path = "/wiki/embassy/" }
+redirect_to = { title = "大使館", path = "/wiki/embassy/" }
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
 claim_type = "direct"
 timeline = ["aquarius"]
-alternative_names = ["The Return", "Second Coming (in some comparative-religion framings)", "The Arrival", "The Reunification"]
+alternative_names = ["帰還", "再臨(比較宗教学のいくつかの枠組みで)", "到来", "再統合"]
+see_also = [
+    { title = "大使館", path = "wiki/embassy", description = "帰還の主要な前提条件として、人類が建設しなければならない施設。" },
+    { title = "第三神殿", path = "wiki/third-temple", description = "ヘブライ語聖書の神殿再建の預言を通して読まれる大使館。" },
+    { title = "黄金時代", path = "wiki/golden-age", description = "前提条件が満たされたのちに到来が開く、帰還後の状態。" },
+    { title = "永遠者の評議会", path = "wiki/council-of-the-eternals", description = "帰還がその公式の到来を意味する、エロヒムの統治機関。" },
+    { title = "イエス", path = "wiki/jesus", description = "この枠組みが帰還を表す語彙の一つとして読む、キリスト教の再臨の人物。" },
+    { title = "預言者および宗教のリスト", path = "wiki/list-of-prophets-and-religions", description = "この枠組みが同じ出来事を予期するものとして読む、諸伝統を横断する終末論的人物たち。" },
+    { title = "ハムレットの臼", path = "wiki/hamlets-mill", description = "その退位させられた「帰還すべき黄金時代の主」を、コーパスが帰還と並べて読む比較研究。" },
+    { title = "諸時代を挽く臼", path = "articles/the-mill-that-grinds-the-ages", description = "目覚める眠れる王 ― サトゥルヌス、クロノス、かつての王にして未来の王 ― を、帰還の歳差運動的な形として読む。" },
+]
 
 [extra.infobox]
-type = "Anticipated official arrival of the Elohim on Earth; the framework's culminating eschatological event"
-designation_origin = "Specifically named in the December 13, 1997 \"Message of the Elohim\" preserved in *Intelligent Design: Messages from the Designers*"
-preconditions = "(1) Humanity's genuine desire for the arrival; (2) demonstration of unification and wisdom to receive advanced knowledge responsibly; (3) construction of the Embassy (\"Third Temple\") on neutral territory; (4) safety guarantee from human military forces"
-knowledge_transfer = "Approximately 25,000 years of scientific knowledge, equivalent to the gap between current human technological capability and the Elohim's"
-embassy_location = "Initially proposed in Israel (preferably Jerusalem area), with seven formal land requests denied by Israeli authorities between approximately 1990 and 2015; on August 6, 2015, the Vorilhon-mediated message declared the Elohim's protection of Israel withdrawn; subsequent proposals have involved Palestinian Authority territories and other locations"
-comparative_eschatology = "Connected by the framework to the Jewish Mashiach, Christian Parousia, Islamic Mahdi and return of Isa, Buddhist Maitreya, Hindu Kalki, Zoroastrian Saoshyant, Taoist Li Hong, and the broader cross-cultural eschatological-savior expectation pattern"
-chronological_placement = "The framework places the Great Return in the Age of Aquarius (post-2,160 CE on the broader reckoning), with the contemporary period (early 21st century CE) as the substantive transitional phase; the specific timing is treated as contingent on the satisfaction of the preconditions"
-primary_sources = "Vorilhon, *Le Livre qui dit la vérité* (1974); *Les extra-terrestres m'ont emmené sur leur planète* (1976); the Messages collection, particularly the December 13, 1997 message; the broader Raëlian Movement publication record"
-framework_significance = "The culminating event of the entire corpus interpretive framework; the substantive teleological orientation of the Elohim project on Earth; the inauguration of the broader Golden Age / Age of Aquarius proper"
+type = "予期されているエロヒムの地球への公式な到来。この枠組みの頂点をなす終末論的出来事"
+designation_origin = "1997年12月13日の「エロヒムのメッセージ」で具体的に名づけられた。『インテリジェント・デザイン:設計者からのメッセージ』に収録"
+preconditions = "(1)人類がその到来を心から望むこと、(2)高度な知識を責任をもって受け取るための統一と英知を示すこと、(3)中立の領土に大使館(「第三神殿」)を建設すること、(4)人間の軍事力からの安全の保証"
+knowledge_transfer = "約25,000年分の科学的知識。現在の人類の技術力とエロヒムの技術力の差に相当する"
+embassy_location = "当初はイスラエル(できればエルサレム地域)に提案され、およそ1990年から2015年までのあいだに7回の正式な土地の要請がイスラエル当局によって拒否された。2015年8月6日、ヴォリロンを介したメッセージは、エロヒムによるイスラエルの保護が撤回されたことを宣言した。その後の提案はパレスチナ自治政府の領域やその他の場所に及んでいる"
+comparative_eschatology = "コーパスは類似として、ユダヤ教のマシアハ、キリスト教のパルーシア(再臨)、イスラームのマフディーとイーサーの帰還、仏教の弥勒、ヒンドゥー教のカルキ、ゾロアスター教のサオシュヤント、道教の李弘、そしてより広い文化横断的な終末の救世主のパターンと比較する"
+chronological_placement = "この枠組みは大いなる帰還を水瓶座の時代に置き、現代(21世紀初頭)をその移行期とする。その時期は固定された日付ではなく、前提条件次第のものとして扱われる"
+primary_sources = "ヴォリロン『*Le Livre qui dit la vérité*』(1974年)、『*Les extra-terrestres m'ont emmené sur leur planète*』(1976年)、メッセージ集、とりわけ1997年12月13日のメッセージ、より広いラエリアン・ムーブメントの出版記録"
+framework_significance = "コーパスの枠組みの頂点となる出来事。地球でのエロヒムの計画が目指す瞬間。黄金時代の始まり"
 +++
 
 **The Great Return** is the Wheel of Heaven framework's name for the anticipated

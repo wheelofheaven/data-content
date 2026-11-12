@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,16 +15,24 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["la Vérité (French, the principal Vorilhon designation)", "the truth (lowercase, when referring to the recovered content as such)", "the underlying historical-civilizational reality (corpus-internal expansion)", "the message (in Raëlian source-textual usage)", "*emet* (אֱמֶת, Hebrew)", "*aletheia* (ἀλήθεια, Greek)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Die Tradition", path = "wiki/the-tradition", description = "Der bewahrte Überlieferungskanal, durch den die Wahrheit über Jahrtausende getragen wurde." },
+    { title = "Elohim", path = "wiki/elohim", description = "Die Zivilisation, deren Geschichte der konkrete Inhalt ist, den die Wahrheit wiedergewinnt." },
+    { title = "Hebräische Bibel", path = "wiki/hebrew-bible", description = "Der wichtigste religiöse Text, dessen mystifizierten Wortschatz die etymologische Wiedergewinnung entschlüsselt." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "Das Korpus, dessen Wiederherstellungsprojekt die Wiedergewinnung der Wahrheit ist." },
+    { title = "Kabbala", path = "wiki/kabbalah", description = "Eine esoterische Tradition, die nach dieser Lesart den historischen Gehalt in mystifizierter Form bewahrt." },
+    { title = "Weltzeitalter", path = "wiki/world-age", description = "Der präzessionale Rahmen, der die historische Wirklichkeit gliedert, die die Wahrheit wiedergewinnt." }
+]
 
 [extra.infobox]
-type = "Foundational concept; the framework's specific designation for the underlying historical-civilizational reality preserved in mystified form across the religious traditions"
-principal_source_anchor = "*Le Livre qui dit la vérité* (*The Book Which Tells the Truth*, 1974) — Vorilhon's foundational source text bearing The Truth in its title"
-framework_definition = "The underlying historical-civilizational reality (the Elohim civilization, its work on Earth across the twelve precessional ages, the broader cosmic-civilizational framework, the various contact moments preserved in the religious traditions) preserved in mystified form across the religious-traditional content of multiple cultures globally; recoverable through systematic etymological-rational engagement with the source-textual material"
-methodological_framework = "Vorilhon's etymological-rational engagement (the substantial 'etymology = science of the truth' move, recovering original meanings of religious vocabulary obscured by mystical overlay); Sendy's four-condition framework for decoding the Hebrew Bible (knowing the Bible, knowing space-flight possibilities, having recent biology / prehistory / history / evolution knowledge, refusing supernatural explanation)"
-distinguished_from = "Mainstream philosophical engagement with truth (correspondence theory, coherence theory, pragmatist theory, deflationary theory — the framework engages truth as specific historical content rather than as philosophical-epistemological category); the broader 'truth-movement' popular framings (operating with substantially different content and substantially different epistemic commitments); novel revelation (the framework explicitly self-positions as restoration rather than novel revelation)"
-self_positioning = "Restoration rather than novel revelation — the reassembly of distinctions the religious traditions preserve and the corpus is making available again after the long centuries during which they had been lost"
-status_in_framework = "Foundational concept; the framework's specific designation for what it recovers; supports the broader integration of religious-traditional, archaeological, scientific, and source-textual content"
-principal_corpus_treatment = "*Le Livre qui dit la vérité* (Vorilhon, 1974) — principal source-textual title-anchor; Sendy's *Ces dieux qui firent le ciel et la terre* (1969) and *L'ère du Verseau* (1970) — principal methodological articulations; the broader corpus subsequent integration"
+type = "Grundlegendes Kapitel von *The Book Which Tells the Truth* (1974); der Name des Rahmens für die wiedergewonnene historische Wirklichkeit, die in mystifizierter Form über die religiösen Traditionen hinweg bewahrt ist"
+principal_source_anchor = "*Le Livre qui dit la vérité* (*The Book Which Tells the Truth*, 1974), Kapitel 'The Truth' – Vorilhons grundlegender Quelltext"
+framework_definition = "Die zugrunde liegende historische Wirklichkeit – die Elohim, ihre Arbeit auf der Erde über die präzessionalen Zeitalter hinweg und die Kontaktmomente, die die religiösen Traditionen verzeichnen –, bewahrt, aber mystifiziert, und wiedergewinnbar durch etymologisches und rationales Lesen der Quelltexte"
+methodological_framework = "Vorilhons Etymologie als „Wissenschaft der Wahrheit“ (Wiedergewinnung der ursprünglichen Bedeutung des religiösen Vokabulars); Jean Sendys vier Bedingungen für das Lesen der Hebräischen Bibel (die Bibel kennen; die Möglichkeiten und Grenzen der Raumfahrt kennen; den aktuellen Stand von Biologie / Vorgeschichte / Geschichte / Evolution beherrschen; die „Erklärung durch das Unerklärliche“ ablehnen)"
+distinguished_from = "Philosophische Wahrheitstheorien (Korrespondenz-, Kohärenz-, pragmatistische, deflationäre Theorie), die untersuchen, was Wahrheit ist; hier bezeichnet „die Wahrheit“ einen bestimmten historischen Gehalt, keine erkenntnistheoretische Kategorie. Ebenfalls unterschieden von populären Rahmungen einer „Wahrheitsbewegung“ und von neuer Offenbarung – der Rahmen versteht sich als Wiederherstellung."
+self_positioning = "Wiederherstellung statt neuer Offenbarung – das Zusammensetzen dessen, was die Traditionen bewahrt haben, nicht der Empfang neuer Inhalte"
+status_in_framework = "Grundlegend; der Quelltext-Kern des Raëlismus und die Darstellung des Korpus dessen, was er wiedergewinnt"
+principal_corpus_treatment = "*Le Livre qui dit la vérité* (Vorilhon, 1974); Jean Sendys *Ces dieux qui firent le ciel et la terre* (1969) und *L'ère du Verseau* (1970) für die Methode"
 +++
 
 **The Truth** (French *la Vérité*; Hebrew אֱמֶת, *emet*) is the opening chapter

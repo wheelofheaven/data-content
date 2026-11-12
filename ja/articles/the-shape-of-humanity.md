@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -20,7 +20,7 @@ category = "Macro-History"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 summary = "第二のラエリアンのメッセージのただ一文において、ヤハウェはラエルに、「各人を、妊娠中の大いなる存在、すなわち人類の一つの細胞のように」考えるよう求め——そしてエロヒムは「無限の数の惑星の上で生命を創造することに慣れている」がゆえに、発生学者が胎児に起きることを予測するのとまさに同じように、文明に起きることを予測できると付け加える。それを字義どおりに受け取れば、まだ存在しない一つの学問がそこからこぼれ落ちる。すなわち*文明形態学*——人類を、諸文化と諸国家の堆積としてではなく、一つの発展途上の惑星的有機体として研究する学問であり、その細胞は人間、その器官は諸制度、その代謝はエネルギー、その神経系は通信網、そしてその成熟は、多くの相争う諸文明から単一の首尾一貫した地球規模の身体への移行である。この解説はその論拠を組み上げる。それは、有機体としての人類という主張が装飾ではなく明示的なカノンであることを示し、そのような科学を常に阻んできた壁——私たちには地球が一つしかなく、実験を二度走らせることができないという壁——に立ち向かい、ジャレド・ダイアモンドの「歴史の自然実験」、シュペングラーの*世界史の形態学*、トインビーの挑戦と応答、テインターの限界収益、そしてジェフリー・ウェストのスケーリング法則を、別の名のもとに組み立てられたこの学問の断片として読み、歴史に欠けている方法論への二つの道——さまざまな初期パラメータで並行して走らせる計算された諸文明と、無私の生命工学文明がすでに所有しているであろう現実の複数惑星のデータセット——を特定し、そしてカノンを、マクロ史が周回しつづけながら決して言い切ることのない縁——成熟は失敗しうること、有機体は流産しうること、これこそがラエリアンの*サンサーラ*——循環、スワスティカ、百分の一の可能性——が名指すものであるということ——へと辿る。それは、その類比自身の暗い歴史を敵対的な証人として結ばれる。"
-keywords = ["文明形態学", "文明生物学", "マクロ生物学", "有機体としての人類", "マクロ史", "Guns Germs and Steel", "歴史の自然実験", "シュペングラー", "トインビー", "テインター", "崩壊", "スケーリング法則", "ノウアスフィア", "テイヤール", "ヴェルナツキー", "宇宙的競争", "サンサーラ", "黄金時代", "エロヒム仮説", "グレート・フィルター"]
+keywords = ["文明形態学", "文明生物学", "マクロ生物学", "有機体としての人類", "マクロ史", "銃・病原菌・鉄", "歴史の自然実験", "シュペングラー", "トインビー", "テインター", "崩壊", "スケーリング法則", "ノウアスフィア", "テイヤール", "ヴェルナツキー", "宇宙的競争", "サンサーラ", "黄金時代", "エロヒム仮説", "グレート・フィルター"]
 references = [
     # — The canon passages under discussion —
     { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶97–103: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶98: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶96, 205: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; Chapter 1, ¶44: the Infinite indifferent (Raël answering a reader), natural selection 'at all levels')" },

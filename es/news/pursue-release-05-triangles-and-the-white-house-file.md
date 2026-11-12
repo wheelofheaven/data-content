@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Cuatro semanas después de la Versión 04, el Departamento de Guerra de EE. UU. publicó la Versión 05 en war.gov/UFO: 41 archivos —documentos, imágenes y vídeos, según el recuento de la prensa— del Pentágono, el FBI y la CIA, a los que se suman por primera vez el Departamento de Estado y la Oficina Ejecutiva del Presidente. Los casos destacados: una entrevista del FBI de 2024 en la que un expiloto militar recuerda un triángulo equilátero, silencioso y de unos 500 pies estimados, apagando las estrellas sobre Bagram, Afganistán, en 2002; un encuentro de 2021 en el Golfo de Omán entre un avión artillado y unos 25 « orbes fríos » que parecían reaccionar al disparo de su cañón principal; y un grupo de archivos de noviembre de 1963 en el que un sensacional reportaje radiofónico brasileño sobre una esfera estrellada con un tripulante muerto viaja desde una transcripción de monitoreo de la CIA, pasando por una consulta del consejo espacial de la Casa Blanca, hasta un veredicto del Departamento de Estado: fabricado. El corpus registra la Versión 05 como contexto para leer el canon, no como una señal del retorno —y consigna el archivo de Bahía, que se disuelve bajo sus propios documentos, con toda su fuerza documental."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "El contexto del presente"
+cross_reference = "Era de Acuario, §IX"
 canon_links = [
     { title = "Era de Acuario", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

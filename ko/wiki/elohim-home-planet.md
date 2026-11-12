@@ -6,9 +6,9 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
-translation_stale = true
+translation_stale = false
 translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.avif"
@@ -19,21 +19,30 @@ category = "Elohim"
 entry_type = "place"
 alternative_names = ["Elohim Home Planet", "the home planet", "the planet of the Elohim", "the planet of the creators", "the planet of the Eternals (per single-planet reading)", "the other world", "the Mormon Kolob (per Tvedtnes hypothesis)"]
 timeline = ["age-of-capricorn", "age-of-aquarius"]
+see_also = [
+    { title = "영원자 의회", path = "wiki/council-of-the-eternals", description = "원천의 묘사에서 모행성에 자리한 통치 기구." },
+    { title = "야훼", path = "wiki/yahweh", description = "영원자들의 의장이자 모행성 최초의 불멸자." },
+    { title = "고대 우주비행사 가설", path = "wiki/ancient-astronaut-hypothesis", description = "태양계 밖의 창조자 본국이 자리매김되는 더 넓은 프레임워크." },
+    { title = "카발라", path = "wiki/kabbalah", description = "모행성까지의 파라상 거리 측정이 유래하는 전통." },
+    { title = "우주의 사슬", path = "wiki/cosmic-chain", description = "모행성이 그 한 고리를 이루는, 창조자-피조물의 중첩된 계보." },
+    { title = "선구자들", path = "wiki/forerunners", description = "모행성에 앞서 엘로힘 계열의 씨를 뿌린 앞선 문명." },
+    { title = "여섯 아침, 여섯 해", path = "articles/six-mornings-six-years", description = "여정을 근거로 1975년의 여행이 이 세계에 결코 닿지 않았음을 입증합니다." },
+]
 
 [extra.infobox]
-type = "Extrasolar planet; political-civilizational center of the Elohim alliance that conducted the genetic-engineering project producing terrestrial life"
-principal_source = "Claude Vorilhon, *Message from the Designers* (Tagman Press, 2005), consolidating *Le Livre qui dit la vérité* (1974), *Les Extra-Terrestres m'ont emmené sur leur planète* (1975), and *Accueillir les Extra-Terrestres* (1979)"
-location_from_home_star = "236,000 parasangs (~70.8 billion kilometers); home star substantially larger than the Sun"
-location_from_earth = "30,000,000 parasangs (~9 trillion kilometers, approximately 1 light-year); subject to the substantial astronomical-inconsistency objection the source itself addresses through deliberate-obfuscation and variable-lightspeed cosmology"
-parasang_unit = "Source-redefined unit: distance light travels in one second (~300,000 kilometers); etymologically borrowed from ancient Persian linear-distance unit but redefined as celestial-distance unit in the source's vocabulary"
-environment = "Mild temperature; lush vegetation with exotic flora; azure seas; agricultural-ecological character described as paradisal"
+type = "태양계 밖 행성. 이 체계가 지구 생명을 설계한 것으로 읽는 문명인 엘로힘의 정치적·문명적 중심"
+principal_source = "클로드 보릴롱, *Message from the Designers*(Tagman Press, 2005), *Le Livre qui dit la vérité*(1974), *Les Extra-Terrestres m'ont emmené sur leur planète*(1975), *Accueillir les Extra-Terrestres*(1979)를 통합함"
+location_from_home_star = "236,000 파라상(약 708억 km, 약 474 AU). 모항성은 태양보다 훨씬 크다고 묘사됩니다"
+location_from_earth = "30,000,000 파라상(약 9조 km, 대략 1광년) — 알려진 항성 간 거리와 충돌하는 수치로, 원전은 이를 의도적 은폐와 가변 광속 우주론으로 설명합니다"
+parasang_unit = "원전이 빛이 1초에 이동하는 거리(약 300,000 km)로 재정의한 단위. 이 단어는 도로 거리를 재던 고대 페르시아 단위에서 빌려 왔습니다"
+environment = "온화한 기온, 무성한 초목과 이국적인 식물, 쪽빛 바다. 원전이 낙원 같다고 묘사하는 풍경"
 civilization = "~7 billion inhabitants; seven provinces; official language closely resembling ancient Hebrew"
-council_of_eternals = "~700 Elohim members + ~8,400 resurrected humans from Earth; presided by Yahweh (first individual successfully cloned-and-memory-transferred ~25,000 years ago)"
+council_of_eternals = "약 700명의 엘로힘 구성원과 약 8,400명의 부활한 인간, 의장은 야훼(약 25,000년 전 최초로 복제되고 기억이 이전된 개인)"
 economy = "Post-scarcity; atom-based energy; biological robots performing mechanical labor; intellectual-creative activity as principal human pursuit"
-travel_technology = "Atom-based propulsion at 7× lightspeed at time of Vorilhon contact (1973-1975); journey to Earth ~2 months; subsequent technological advance to substantially shorter journey times"
-relationship_to_planet_of_eternals = "Source content allows two readings: single-planet identification (the home planet IS the Planet of the Eternals) or two-planet system (the Planet of the Eternals is a second smaller planet in the same stellar system); the corpus registers both readings as compatible with the source material"
-distinguished_from = "The intergalactic ship near Earth (Elohim operational base with seven Elohim representatives plus two ship-responsible Elohim); Earth-based Elohim installations (the Andean, Himalayan, Greek, and other regional bases); Mormon Kolob (which may or may not refer to the same entity, per the Tvedtnes hypothesis)"
-status_in_framework = "Principal extraterrestrial location in the corpus framework; the political-civilizational center of the alliance that conducts the Earth project; the residence of the Council of the Eternals; the destination for the resurrected prophets and qualifying humans"
+travel_technology = "광속의 일곱 배로 나아가는 원자 기반 추진. 접촉 당시(1973–75) 지구까지의 여정은 약 두 달이 걸렸고, 1975년에는 훨씬 짧아졌습니다"
+relationship_to_planet_of_eternals = "원전은 두 가지 해석을 허용합니다. 본국 행성이 곧 영원자들의 행성이라는 해석(단일 행성)과, 영원자들의 행성이 같은 계의 더 작은 두 번째 세계라는 해석(두 행성)입니다. 이 체계는 둘 다 원전과 양립하는 것으로 다룹니다."
+distinguished_from = "지구 근처에 주둔한 은하 간 우주선(승무원 아홉 명: 지방 대표 일곱 명과 선박 장교 두 명), 엘로힘의 지구 기반 시설들(안데스, 히말라야, 그리스 등), 코퍼스가 엘로힘의 항성과 동일시하지 않는 모르몬교의 콜롭"
+status_in_framework = "이 체계의 주요 외계 장소: 영원자 평의회의 소재지이자 부활한 예언자들의 거처이며, 지구 프로젝트를 운영하는 문명의 정치적 중심"
 +++
 
 **The Elohim Home Planet** is, in the Wheel of Heaven framework, the extrasolar

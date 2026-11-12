@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,17 +14,26 @@ category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "biographical and methodological"
 claim_type = "direct"
-alternative_names = ["Bible de la Pléiade (Dhorme)", "La Bible: L'Ancien Testament (Dhorme)", "Dhorme Old Testament", "Bible Dhorme"]
+alternative_names = ["Bible de la Pléiade (Dhorme)", "La Bible: L'Ancien Testament (Dhorme)", "多爾姆舊約", "Bible Dhorme"]
+see_also = [
+    { title = "耶洛因", path = "wiki/elohim", description = "多爾姆保留為 Élohim、而不譯作 Dieu 的複數形式。" },
+    { title = "耶和華", path = "wiki/yahweh", description = "多爾姆依讀音譯為 Iahvé、而不以神學稱號取代的四字神名。" },
+    { title = "創世記", path = "wiki/genesis", description = "其開篇經文例示多爾姆保留詞彙之方法的書卷。" },
+    { title = "詞源學閱讀清單", path = "wiki/list-of-etymological-readings", description = "援用多爾姆註腳校勘資料的框架語文學目錄。" },
+    { title = "釋經學閱讀清單", path = "wiki/list-of-exegetic-readings", description = "建立在同一字面詞彙基礎上的姊妹指涉目錄。" },
+    { title = "希伯來語", path = "wiki/hebrew", description = "多爾姆譯本完整傳遞其操作性詞語的源語言。" },
+    { title = "龍形曲線", path = "articles/the-dragon-curve", description = "關於多爾姆在《創世記》1:21 的 « grands dragons »(大龍)的解說文——他那一頁中第一部《訊息》唯一從未引用的經文。" },
+]
 
 [extra.infobox]
-type = "French scholarly translation of the Hebrew Bible / Old Testament"
-translator = "Édouard Dhorme (1881–1966), with collaborators Frank Michaéli and Antoine Guillaumont"
+type = "希伯來聖經／舊約的法文學術譯本"
+translator = "愛德華·多爾姆（1881–1966），與合作者弗朗克·米卡埃利及安托萬·紀堯蒙"
 publisher = "Éditions Gallimard, Bibliothèque de la Pléiade"
-publication_dates = "Tome I (1956); Tome II (1959)"
-source_text = "Masoretic Text of the Hebrew Bible, with consultation of the Septuagint and the broader cuneiform-and-Semitic philological apparatus"
-distinguishing_features = "Literal preservation of original vocabulary including *Élohim* (not *Dieu*) and *Iahvé* (rendering of the Tetragrammaton); extensive philological footnotes; introduction surveying the textual history; collaboration with specialists for certain books (Michaéli: Ezra, Nehemiah; Guillaumont: Maccabees)"
-framework_significance = "The version Claude Vorilhon reports having with him during his 1973 contact; the textual mediator through which the Raëlian source material's Hebrew-Bible references reach contemporary readers"
-status = "Out of print in the original Pléiade edition; secondhand copies remain widely available; the translation is referenced extensively in subsequent French-language neo-euhemerist scholarship"
+publication_dates = "第一卷（1956）；第二卷（1959）"
+source_text = "希伯來聖經的馬所拉文本，並參照七十士譯本及更廣的楔形文字與閃語語文學資料"
+distinguishing_features = "按字面保留原文詞彙，包括 *Élohim*（而非 *Dieu*）與 *Iahvé*（四字神名的譯法）；大量語文學註腳；概述文本歷史的導言；部分書卷與專家合作（米卡埃利：以斯拉記、尼希米記；紀堯蒙：馬加比書）"
+framework_significance = "克勞德·沃里隆自述在 1973 年接觸期間隨身攜帶的版本；雷爾派源典中對希伯來聖經的引用，正是經由這一文本中介抵達當代讀者"
+status = "原版七星文庫版已絕版；二手書仍廣泛可得；此譯本在其後的法語新埃烏赫梅羅斯主義研究中被大量引用"
 +++
 
 The **Dhorme Bible** is the French translation of the Old Testament prepared by the French Assyriologist and Semitologist **Édouard Dhorme** (1881–1966), published by Gallimard in the Bibliothèque de la Pléiade in two volumes — Tome I in 1956 and Tome II in 1959. The translation is widely regarded among scholars as one of the most philologically rigorous French versions of the Hebrew Bible, the product of a fifty-year career of professional study of Hebrew, Akkadian, Ugaritic, and the broader Semitic and ancient Near Eastern philological tradition. The translation is distinguished from the standard French Catholic versions (notably the *Bible de Jérusalem*, in production at the same École Biblique during the same period) by its literal preservation of the operational vocabulary of the original Hebrew text — including the preservation of the plural form ***Élohim*** rather than the conventional theological translation *Dieu*, and the preservation of the Tetragrammaton as ***Iahvé*** rather than the conventional *l'Éternel* or *le Seigneur*.

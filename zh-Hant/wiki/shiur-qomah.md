@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["*Shiʿur Qomah* (שִׁעוּר קוֹמָה)", "Sefer Haqqomah（'[神聖]身體之書'）", "身量的度量", "身體的度量", "Ma'amar Rabbi Yishmael"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "耶和華", path = "wiki/yahweh", description = "正典將其「創造者之身高」度量歸於卡巴拉的人物。" },
+    { title = "耶洛因母行星", path = "wiki/elohim-home-planet", description = "將文本中的帕拉桑讀作光秒時,框架所復原的距離。" },
+    { title = "希卡洛特文獻", path = "wiki/hekhalot-literature", description = "此文本所屬的古代晚期宮殿與戰車神祕主義文集。" },
+    { title = "卡巴拉", path = "wiki/kabbalah", description = "雷爾派正典點名為帕拉桑數字出處的後期神祕主義。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "框架在神聖身體數字背後讀出其宇宙度量的工程師。" },
+    { title = "希伯來聖經", path = "wiki/hebrew-bible", description = "其《詩篇》147:5 的字母數值(gematria)產生關鍵數字 236 的經典出處。" },
+]
 
 [extra.infobox]
 type = "希卡洛特／梅爾卡瓦神祕文獻中的文本；擬人化的 '神聖身體的度量'"

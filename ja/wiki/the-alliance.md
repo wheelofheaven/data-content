@@ -6,26 +6,33 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the alliance", "the cross-civilizational alliance", "the Eloha-human alliance", "the Noahic alliance", "the covenant partnership"]
+alternative_names = ["同盟", "文明横断的な同盟", "エロハと人間の同盟", "ノアの同盟", "契約による協力関係"]
 timeline = ["gemini", "taurus", "aries", "pisces", "aquarius"]
+see_also = [
+    { title = "永遠者の評議会", path = "wiki/council-of-the-eternals", description = "ノアの時点で同盟がそれに対抗して結成された、母星の評議会。" },
+    { title = "エロヒム", path = "wiki/elohim", description = "同盟が人間の集団と結びつける創造者の文明。" },
+    { title = "宇宙の連鎖", path = "wiki/cosmic-chain", description = "同盟がその中に位置する、深い時間にわたる創造者の文明の継承。" },
+    { title = "宇宙的競争", path = "wiki/cosmic-competition", description = "同盟が後援する人類に適用される評価の枠組み。" },
+    { title = "預言者", path = "wiki/prophet", description = "同盟がそれを通じて仲介された接触を行った人間の仲介者たち。" },
+]
 
 [extra.infobox]
-type = "Cross-civilizational political body; formal partnership between Eloha and human parties"
-formation_event = "The Noahic covenant (Genesis 9:8–17), at the post-Flood altar; c. 6,690 BCE on the corpus's chronology, late Age of Gemini"
-founding_parties = "The exiled Lucifer-faction creators (senior partner); the human Eden-lineage survivors led by Noah (junior partner)"
-subsequent_expansion = "Extended to include the broader Elohim civilization following the Taurus-age pardon of the exiled creators, c. 4,000–3,800 BCE"
-distinguished_from = "The Elohim civilization (broader population of ~7 billion on the home world); the Council of the Eternals (the home-world ruling body); the Lucifer faction (specific subset of dissenting creators); the prophetic tradition (specific contact mechanism the Alliance has used)"
-operational_modes = "Direct contact (pre-Flood through early Aries); indirect contact through prophets (mid-Aries through late Pisces); preparing for open return (Aquarian age)"
-current_status = "Active; operating in the post-1945 Aquarian-age preparation phase; preparing for the open return at the embassy"
-principal_text = "Genesis 9:8–17 (the Noahic covenant); subsequent Hebrew Bible covenant material (Abrahamic, Mosaic, Davidic); the broader Hebrew Bible's narrative of alliance-mediated history"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974); developed extensively across the broader Wheel of Heaven corpus"
+type = "文明横断的な政治体。エロハ側と人間側の正式な協力関係"
+formation_event = "ノアの契約(創世記9:8〜17)、洪水後の祭壇で。コーパスの年代学では紀元前6,690年頃、双子座の時代後期"
+founding_parties = "追放されたルシファー派の創造者たち(上位の協力者)。ノアに率いられたエデン系統の人間の生存者たち(下位の協力者)"
+subsequent_expansion = "牡牛座の時代における追放された創造者たちの赦し(紀元前4,000–3,800年頃)の後、エロヒム文明を含むまでに拡大した"
+distinguished_from = "エロヒム文明(母星に約70億)。永遠者の評議会(母星の統治機関)。ルシファーの派閥(創造者たちの中の異議を唱える一部)。預言者の伝統(同盟が用いてきた接触の仕組み)"
+operational_modes = "直接的接触(洪水以前から牡羊座の時代初期まで)。預言者を通じた間接的接触(牡羊座の時代中期から魚座の時代後期まで)。公然たる帰還への準備(水瓶座の時代)"
+current_status = "活動中。1945年以後の水瓶座の時代の準備段階で活動している。大使館での公然たる帰還に備えている"
+principal_text = "創世記9:8–17(ノアの契約)。その後のヘブライ語聖書の契約の資料(アブラハム、モーセ、ダビデ)。同盟が媒介する歴史についてのヘブライ語聖書の物語"
+principal_framework_source = "*The Book Which Tells the Truth*(ヴォリロン/ラエル、1974年)。Wheel of Heaven のコーパス全体で詳しく展開されている"
 +++
 
 **The Alliance** is the formal cross-civilizational political body that, on the Wheel of Heaven corpus's reading, structures the long historical relationship between the Elohim civilization and the Eden-lineage human population. It is one of the framework's principal interpretive constructions — the category the corpus uses to organize the Raëlian source material's account of the operational history connecting the Elohim creators with their human creations across the post-Flood millennia. On this reading the Alliance is not a metaphor or a theological abstraction but a historical political entity with a founding moment, founding parties, operations across documented history, and a projected future.

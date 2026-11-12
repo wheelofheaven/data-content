@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Six semaines après le Communiqué 05, le Département de la Guerre des États-Unis a publié le Communiqué 06 sur war.gov/UFO : 71 fichiers selon le décompte du Département tel que rapporté à la publication — 55 documents, 15 vidéos et un enregistrement audio — dont 67 provenant du Département lui-même et quatre d'une agence locale de maintien de l'ordre du Colorado, premier contributeur non fédéral du programme. Le centre de gravité de la tranche est une piste documentaire : l'énoncé des objectifs, l'attribution du contrat et les cinq avenants de l'Advanced Aerospace Weapon System Applications Program de la Defense Intelligence Agency (2008–2012), ainsi que 37 des 38 documents de référence qu'il a commandés sur les moteurs à distorsion, les trous de ver traversables, l'antigravité, la propulsion à masse négative, l'occultation par invisibilité, une équation de Drake statistique et les blessures rapportées lors de rencontres rapprochées. À ses côtés figurent le plus ancien film de l'archive — les images tournées le 2 juillet 1952 par Delbert C. Newhouse, warrant officer de la Navy, montrant douze à quatorze objets brillants au-dessus de Tremonton, dans l'Utah, avec son dossier complet du Project Blue Book — et un enregistrement de mars 1952 du capitaine Edward J. Ruppelt, premier chef de Blue Book, expliquant à son auditoire qu'un cinquième des 800 cas de l'Air Force restaient inexpliqués et que les signalements se concentraient autour de Los Alamos, d'Albuquerque et d'Oak Ridge. Le corpus enregistre le Communiqué 06 comme un contexte pour lire le canon, et non comme un signe du retour — et lit la dérogation juridique du 14 septembre du Département, qui ouvre un canal protégé permettant aux personnels et contractants, actuels et anciens, d'apporter des informations UAP à PURSUE, comme le développement le plus lourd de conséquences de l'intervalle."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "Le contexte du présent"
+cross_reference = "Ère du Verseau, §IX"
 canon_links = [
     { title = "Âge du Verseau", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

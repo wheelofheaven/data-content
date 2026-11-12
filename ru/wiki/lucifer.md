@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 99
@@ -22,16 +22,18 @@ alternative_names = ["Светоносец", "lūcifer", "Helel ben Shahar", "ה
 portrait_id = "lucifer"
 image = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.avif"
-image_alt = "AI-generated editorial portrait of Lucifer as the Light-Bringer, an Eloha faction leader with long hair and a green-gold luminosity."
-image_caption = "Interpretive portrait for the Lucifer wiki entry and library personality metadata."
+image_alt = "Созданный ИИ редакционный портрет Люцифера как Светоносца — лидера фракции Элоха с длинными волосами и зелёно-золотым сиянием."
+image_caption = "Интерпретирующий портрет для вики-статьи о Люцифере и метаданных персонажей библиотеки."
 timeline = ["leo", "cancer"]
 see_also = [
+    { title = "Люцифер и Сатана — одно и то же?", path = "articles/lucifer-and-satan", description = "Прямое сопоставление, различающее Люцифера и Сатану как противоположные фракции." },
     { title = "Змей", path = "wiki/serpent", description = "Люцифер в его конкретной роли эдемского раскрытия из Бытия 3." },
     { title = "Яхве", path = "wiki/yahweh", description = "Лидер команды Израиля и умеренный альянса; бывший коллега Люцифера и его послеэдемский политический оппонент." },
     { title = "Сатана", path = "wiki/satan", description = "Отдельная фигура Элохим, возглавляющая аболиционистскую фракцию родного мира — политически противоположная Люциферу, а не тождественная ему." },
     { title = "Адам и Ева", path = "wiki/adam-and-eve", description = "Первые люди, которых обучала фракция Люцифера и которым она совершила эдемское раскрытие." },
     { title = "Допотопный", path = "wiki/antediluvian", description = "Период, на протяжении которого изгнанная фракция Люцифера служила учителями цивилизации эдемской линии." },
     { title = "Древо жизни", path = "wiki/tree-of-life", description = "Технология продлевания жизни, которую фракция Люцифера получила для патриархального руководства Эдема." },
+    { title = "Архидиакон и дракон", path = "articles/the-archdeacon-and-the-dragon", description = "Накладывает дугу четырёх драконов Уоллиса на прочтение фракции Люцифера." },
 ]
 
 footnotes = [

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -22,7 +22,7 @@ reading = "interpretive"
 see_also = [
     { title = "Библия", path = "/wiki/bible/", description = "Более широкая текстуальная традиция, в которой расположены Еврейская Библия и Новый Завет." },
     { title = "Еврейская Библия", path = "/wiki/hebrew-bible/", description = "Крупнейший и наиболее точно цитируемый корпус ссылок канона." },
-    { title = "Книга Бытия", path = "/wiki/genesis/", description = "Книга, наиболее обширно цитируемая в экзегезе праистории канона." },
+    { title = "Бытие", path = "/wiki/genesis/", description = "Книга, наиболее обширно цитируемая в экзегезе праистории канона." },
     { title = "Каббала", path = "/wiki/kabbalah/", description = "Названа в «Конце света» как «книга, наиболее близкая к истине»; пассаж о парасангах указывает на Шиур Кома." },
     { title = "Раэлизм", path = "/wiki/raelism/", description = "Движение, конституированное тремя каноническими книгами, каталогизированными здесь." },
     { title = "Раэль", path = "/wiki/rael/", description = "Клод Ворильон, автор трёх канонических книг." },
@@ -34,6 +34,7 @@ see_also = [
     { title = "Апокалипсис", path = "/wiki/apocalypse/", description = "Прочтение Откровения, развитое в «Новых откровениях»." },
     { title = "Мельница Гамлета", path = "/wiki/hamlets-mill/", description = "Кросс-культурное мифологически-прецессионное прочтение, смежное с аргументом канона о следах." },
     { title = "Удвоенная подпись", path = "/wiki/doubled-signature/", description = "Принцип корпуса, согласно которому канон и его справочные тексты сходятся на одной и той же лежащей в основе реальности." },
+    { title = "Шесть утр, шесть лет", path = "/articles/six-mornings-six-years/", description = "Текстологический довод в пользу критического аппарата к трём исходным книгам." },
 ]
 
 footnotes = [

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,15 +15,24 @@ editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
 alternative_names = ["Planetary engineering", "Ecological engineering at planetary scale", "Earth-shaping", "Geoengineering of other worlds"]
+see_also = [
+    { title = "创世工具箱", path = "wiki/genesis-toolbox", description = "纲领层面的综合：地球化作为正典所描述之完整创造技术栈的一个阶段。" },
+    { title = "创世记", path = "wiki/genesis", description = "框架将其前四个时期解读为耶洛因对地球进行地球化的文本。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "被解读为在生物合成之前已对地球进行地球化的文明。" },
+    { title = "合成生物学", path = "wiki/synthetic-biology", description = "继地球化之后的生物合成阶段的相邻学科。" },
+    { title = "生命工程", path = "wiki/life-engineering", description = "在地球工程中与行星地球化相对应的生物学部分。" },
+    { title = "向异演化(pantropy)", path = "wiki/pantropy", description = "反向的策略：让生物适应世界，而非让世界适应生物。" },
+    { title = "盘古大陆", path = "wiki/pangaea", description = "与框架之大陆工程解读相关的大陆构型。" },
+]
 
 [extra.infobox]
-type = "Planetary-engineering discipline aimed at making other worlds habitable for terrestrial life"
-adjacent_fields = "Astrobiology; planetary science; xenobiology; synthetic biology; geoengineering; climate science"
-term_coined = "Jack Williamson, *Collision Orbit*, 1942 (science-fiction context); Carl Sagan, *Science*, 1961 (scientific context)"
-principal_targets = "Mars (most studied); Venus (more speculative); Moon, Mercury, Jovian and Saturnian moons (variously discussed); free-floating habitats and shell worlds (alternative paraterraforming concepts)"
-foundational_milestones = "Coining of the term (Williamson, 1942); first scientific proposal (Sagan, Venus terraforming via algae, 1961); first Mars terraforming proposal (Sagan, polar-cap vaporisation, 1971); foundational scientific treatments (McKay, 1982 onward; Fogg, *Terraforming*, 1995); CO2-inventory analysis (Jakosky and Edwards, 2018); silica-aerogel paraterraforming (Wordsworth et al., 2019)"
-current_status = "Active research field; no terraforming has been attempted at any scale; full-scale Mars terraforming assessed as infeasible with present technology; localised paraterraforming concepts under active study"
-framework_significance = "The planetary-engineering operations of the first four ages of Genesis 1 — atmospheric separation, water-cycle establishment, continental work, astronomical calibration — are read on the framework as the Elohim's terraforming of Earth during the preparation phase of the Earth project, prior to biological synthesis"
+type = "旨在使其他世界适合地球生命居住的行星工程学科"
+adjacent_fields = "天体生物学；行星科学；异种生物学；合成生物学；地球工程；气候科学"
+term_coined = "杰克·威廉森，*Collision Orbit*，1942（科幻语境）；卡尔·萨根，*Science*，1961（科学语境）"
+principal_targets = "火星（研究最多）；金星（更具设想性）；月球、水星、木星与土星的卫星（各有讨论）；自由漂浮栖息地与壳层世界（另类的局部地球化概念）"
+foundational_milestones = "该词的创造（威廉森，1942）；第一个科学提案（萨根，以藻类改造金星，1961）；第一个火星地球化提案（萨根，使极冠气化，1971）；奠基性的科学论述（McKay，1982 年起；Fogg，*Terraforming*，1995）；二氧化碳储量分析（Jakosky 与 Edwards，2018）；二氧化硅气凝胶局部地球化（Wordsworth 等，2019）"
+current_status = "活跃的研究领域；尚未在任何规模上尝试过地球化；以现有技术进行全面的火星地球化被评估为不可行；局部地球化概念正在积极研究中"
+framework_significance = "《创世记》第 1 章前四个时代的行星工程作业——大气分隔、水循环的建立、大陆工程、天文校准——在本框架中被读作耶洛因在地球计划准备阶段、生物合成之前对地球进行的地球化"
 +++
 
 **Terraforming** is the deliberate large-scale modification of a planet, moon, or other celestial body to make its environmental conditions habitable for terrestrial life — most often with reference to making the body habitable for unmodified humans, but increasingly with reference to making it habitable for any class of Earth-derived organisms. The term is constructed from the Latin *terra* (earth) and the English verb *to form*, meaning literally *to make Earth-like*. It is the planetary-scale counterpart of the climate-engineering and geoengineering proposals that have been developed for the management of Earth's own climate, and it draws on the same atmospheric, geological, and ecological sciences applied at the much larger scale of complete planetary transformation.

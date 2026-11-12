@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,16 +16,26 @@ category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["Forerunners", "Forerunner", "prodromos (Greek πρόδρομος, 'one who runs ahead')", "preparator", "way-preparer", "the messenger before"]
 timeline = ["age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "ראל", path = "wiki/rael", description = "הדמות הפותחת את עידן הדלי, שהמבשרים של סוף עידן הדגים הכינו את קבלתה." },
+    { title = "נביא", path = "wiki/prophet", description = "הקטגוריה הרחבה שבתוכה המבשרים מתפקדים כתת־סוג מכין." },
+    { title = "אליהו", path = "wiki/elijah", description = "המבשר בתנ״ך ששיבתו המובטחת יושמה על יוחנן המטביל." },
+    { title = "השרשרת הקוסמית", path = "wiki/cosmic-chain", description = "הערך שתוכן היוצרים שקדמו לאלוהים שייך אליו, הנשמר בנפרד מן המבשרים." },
+    { title = "אפוקליפסה", path = "wiki/apocalypse", description = "שלב ההתגלות של עידן הדלי, שהשליחויות המכינות מצביעות לעברו." },
+    { title = "השגרירות", path = "wiki/embassy", description = "יעד המגע עם הברית שההכנה התרבותית של המבשרים משרתת בסופו של דבר." },
+    { title = "החתימה והמתכננים", path = "/articles/the-signature-and-the-designers/", description = "שרשרת היוצרים ללא חוליה ראשונה, הנקראת כתשובת הקנון לנסיגה האינסופית שגם דוקינס וגם מאייר דורשים לה תחתית." },
+    { title = "ארבעים הכיסאות", path = "articles/the-forty-chairs", description = "המפקד, המונחה על ידי קריטריונים, של כארבעים הנציגים היושבים, ומקרי הגבול שהוא מסמן לבחינה." },
+]
 
 [extra.infobox]
-type = "Functional category within broader Prophet framework; figures whose missions prepare way for subsequent alliance-contact missions"
-principal_source = "Inherited from biblical-traditional usage; corpus engagement principally through specific figure-engagement (John the Baptist, Bab, Joseph Smith, late-Piscean contactees) rather than dedicated doctrinal articulation; substantive corpus contextualization in *timeline.epub* late-Piscean preparation content"
-biblical_grounding = "Malachi 3:1 ('Behold, I will send my messenger, and he shall prepare the way before me'); Isaiah 40:3 ('The voice of him that crieth in the wilderness, Prepare ye the way of Yahweh'); Malachi 4:5-6 (Elijah's return before the day of Yahweh); Mark 1:2-3, Matthew 3:1-3, Luke 3:1-6, John 1:6-8, 19-28 (John the Baptist as Forerunner of Jesus)"
-core_corpus_articulation = "Functional category designating figures whose missions prepare humanity for subsequent alliance-contact missions; preparatory rather than inaugural function; distinguished from age-inaugural prophets (Moses, Jesus, Vorilhon) by specific preparation-of-the-way role"
-principal_forerunners = "John the Baptist (Forerunner of Jesus); Bab (explicit Forerunner of Baha'u'llah); Elijah (Hebrew Bible Forerunner tradition); Joseph Smith, Bab, Baha'u'llah as late-Piscean Forerunners of Aquarian-age Vorilhon revelation; twentieth-century UFO contactee tradition"
-aquarian_age_preparation_focus = "Nineteenth-and-twentieth-century cultural-conceptual preparation producing matrix within which December 13, 1973 Vorilhon contact could be received: late-Piscean alliance-contact prophets (Joseph Smith, Bab, Baha'u'llah); Theosophical Society and broader esoteric tradition (Helena Blavatsky, others); twentieth-century UFO contactees (Adamski, Van Tassel, Menger, Fry, others); broader cultural matrix"
-distinguished_from = "Age-inaugural prophets (Moses, Jesus, Vorilhon as inaugurators of Aries, Pisces, Aquarius respectively); v1 conflation with pre-Elohim creator civilization (treated in Cosmic Chain entry); Mormon usage 'Forerunners' as designation for pre-mortal existence (distinct theological usage)"
-status_in_framework = "Functional sub-category within Prophet framework; recurring structural pattern across alliance-cultivation history; principal Aquarian-age content concerns nineteenth-and-twentieth-century preparation"
+type = "קטגוריה תפקודית בתוך מסגרת הנביא הרחבה; נביאים וחוזים שמשימתם מכשירה את הדרך לדמות מאוחרת ומרכזית יותר"
+principal_source = "עבר בירושה מן השימוש המקראי ואינו נקרא בשמו בקנון הראליאני; הקורפוס עוסק בקטגוריה דרך דמויות מסוימות (יוחנן המטביל, הבאב, אליהו, החומר הבאבי והבהאי של המאה התשע־עשרה) ודרך חומר ציר הזמן על ההכנה בסוף עידן הדגים למגע של עידן הדלי"
+biblical_grounding = "מלאכי ג 1 ('הִנְנִי שֹׁלֵחַ מַלְאָכִי וּפִנָּה דֶרֶךְ לְפָנָי'); ישעיהו מ 3 ('קוֹל קוֹרֵא בַּמִּדְבָּר פַּנּוּ דֶּרֶךְ יְהוָה'); מלאכי ג 23–24 (שובו של אליהו לפני יום יהוה); מרקוס א 2–3, מתי ג 1–3, לוקס ג 1–6, יוחנן א 6–8 ו־א 19–28 (יוחנן המטביל כמבשרו של ישוע)"
+core_corpus_articulation = "נביאים מכינים ולא פותחים; הם מטפחים את התנאים התרבותיים שבהם משימה מאוחרת הפותחת עידן יכולה להתקבל, כפי שיוחנן המטביל הכין את יהודה של המאה הראשונה לקראת ישוע"
+principal_forerunners = "יוחנן המטביל (מבשרו של ישוע); הבאב (מבשרו המוצהר של בהאאללה); אליהו (מסורת המבשר בתנ״ך)"
+aquarian_age_preparation_focus = "העבודה המקדימה של המאות התשע־עשרה והעשרים שהקורפוס קורא כהכנה למגע המדווח של דצמבר 1973: מייסדי הדתות של המאה התשע־עשרה, הנקראים כחומר השוואתי; התחייה התאוסופית והאזוטרית (בלבצקי וממשיכיה); מסורת נעני העב״מים של אמצע המאה (אדמסקי, ואן טאסל, מנגר, פריי); והמטריצה הרחבה של המדע הבדיוני, מרוץ החלל ותרבות הנגד של שנות השישים"
+distinguished_from = "נביאים הפותחים עידן (משה, ישוע, ראל); ציוויליזציית היוצרים שקדמה לאלוהים (נדונה בערך השרשרת הקוסמית); השימוש של קדושי אחרית הימים במונח 'מבשר' לדמויות מן הקיום שלפני הלידה"
+status_in_framework = "תת־קטגוריה מכינה בתוך מוסד הנבואה; דפוס חוזר שהקורפוס קורא לאורך מעברי עידנים, ועיקר משקלו בהכנה בסוף עידן הדגים לקראת עידן הדלי. הקטגוריה היא סינתזה של הפרויקט; הקנון הראליאני אינו משתמש במונח."
 +++
 
 **Forerunners** are, in the Wheel of Heaven framework, the functional class of

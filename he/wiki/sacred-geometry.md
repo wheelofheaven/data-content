@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,16 +16,23 @@ category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["Sacred Geometry", "geometric symbolism", "sacred mathematics", "sacred proportion", "divine geometry", "Heilige Geometrie (German)", "géométrie sacrée (French)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus", "age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "סמל האינסוף הראליאני", path = "wiki/raelian-symbol-of-infinity", description = "העיסוק הגאומטרי־הסמלי העיקרי של הקורפוס, המשלב את מגן דוד ואת צלב הקרס." },
+    { title = "קבלה", path = "wiki/kabbalah", description = "מקור דיאגרמת עץ החיים והספירות, צורה עיקרית בגאומטריה המקודשת." },
+    { title = "בית המקדש השלישי", path = "wiki/third-temple", description = "שהקורפוס קורא את מפרטיו בעלי הפרופורציות המדויקות כגאומטריה מקודשת שהברית מסרה." },
+    { title = "השגרירות", path = "wiki/embassy", description = "משכן קבלת הפנים שמפרטיו האדריכליים נושאים את תוכן הפרופורציות המקודשות של הקורפוס." },
+    { title = "גלגל המזלות", path = "wiki/zodiac", description = "המסגרת הגאומטרית־הפרצסיונית שהקורפוס קורא לצד הפרופורציה המקודשת הבין־תרבותית." },
+]
 
 [extra.infobox]
-type = "Body of geometric forms, ratios, and proportions to which religious, cosmological, or metaphysical significance has been attributed across cultures and traditions; designates both documented cross-cultural use of geometric ratios in sacred architecture and interpretive tradition treating geometric forms as carrying inherent metaphysical meaning"
-principal_geometric_forms = "Golden ratio (φ ≈ 1.618); Platonic solids; vesica piscis; Flower of Life; Tree of Life / Sephirot diagram; Sri Yantra; mandala; squared circle; π and √2 / √3 relations; harmonic ratios"
-historical_roots = "Pythagoras (c. 570-495 BCE); Plato (c. 428-348 BCE; *Timaeus*); Vitruvius (c. 80-15 BCE; *De Architectura*); Hermetic tradition; Euclid; medieval scholastic and cathedral-builder traditions; Renaissance revival (Pacioli, Leonardo)"
-modern_revival = "Theosophy (Blavatsky); Anthroposophy (Steiner); Schwaller de Lubicz (Egyptian-symbolic); Robert Lawlor; Keith Critchlow; John Michell; Drunvalo Melchizedek; Leonora Leet; Randall Carlson"
-corpus_position = "Accepts documented cross-cultural use of geometric ratios in sacred architecture as substantively real; accepts cross-cultural religious-symbolic use of specific geometric forms as substantively real; engages broader esoteric Sacred Geometry tradition at descriptive level without adopting strongest metaphysical-causal claims; articulates specific Vorilhon-source and Sendy-source engagement with geometric-symbolic content"
-principal_corpus_engagement = "Raëlian Symbol of Infinity (Star of David + swastika); Tabernacle and Ark of the Covenant precise-proportional specifications; Sendy's analysis of Plato's *Timaeus* 35b numerical-geometric content; broader cross-cultural geometric-symbolic content as alliance-transmitted religious-cultural material"
-distinguished_from = "Pure mathematics (geometric content engaged without religious-cosmological commitment); architecture (geometric content engaged for structural and aesthetic purposes); decorative geometric art (geometric content engaged for ornamental purposes without religious-cosmological framework); the strongest 'consciousness-affecting geometry' claims (which the corpus engages descriptively without adopting)"
-status_in_framework = "Substantive corpus engagement at multiple registers; the documented cross-cultural pattern is treated as real evidence; the alliance-transmission framework provides one explanatory framework alongside common-cognitive-structure and diffusion explanations"
+type = "גוף של צורות, יחסים ופרופורציות גאומטריים שיוחסה להם משמעות דתית, קוסמולוגית או מטפיזית בתרבויות שונות; כולל הן את השימוש הבין־תרבותי המתועד ביחסים גאומטריים באדריכלות המקודשת והן את המסורת הפרשנית הרואה בצורות אלה נושאות משמעות מהותית"
+principal_geometric_forms = "יחס הזהב (φ ≈ 1.618); הגופים האפלטוניים; vesica piscis; פרח החיים; עץ החיים / תרשים הספירות; שרי ינטרה; מנדלה; ריבוע המעגל; יחסי π ו־√2 / √3; יחסים הרמוניים"
+historical_roots = "פיתגורס (בסביבות 570–495 לפנה״ס); אפלטון (בסביבות 428–348 לפנה״ס; *טימאוס*); ויטרוביוס (בסביבות 80–15 לפנה״ס; *De Architectura*); המסורת ההרמטית; אוקלידס; המסורות הסכולסטיות ומסורות בוני הקתדרלות של ימי הביניים; התחייה של הרנסנס (פאצ'ולי, לאונרדו)"
+modern_revival = "התאוסופיה (בלבצקי); האנתרופוסופיה (שטיינר); שוולר דה לוביץ (סמליות מצרית); רוברט לולור; קית' קריצ'לו; ג'ון מישל; דרונוואלו מלכיצדק; לאונורה ליט; רנדל קרלסון"
+corpus_position = "מקבל את השימוש הבין־תרבותי המתועד ביחסים גאומטריים באדריכלות המקודשת ואת השימוש הדתי־סמלי בצורות מסוימות; עוסק במסורת האזוטרית של הגאומטריה המקודשת באופן תיאורי בלי לאמץ את טענותיה המטפיזיות־סיבתיות החזקות ביותר; קורא תוכן גאומטרי מסוים שהועבר על ידי הברית דרך מקורות וורילון וסנדי"
+principal_corpus_engagement = "סמל האינסוף הראליאני (מגן דוד + צלב קרס); המפרט הפרופורציונלי של המשכן ושל ארון הברית; ניתוחו של סנדי לתוכן המספרי־גאומטרי ב־*טימאיוס* של אפלטון 35b; תוכן גאומטרי־סמלי בין־תרבותי הנקרא כחלק מן המסורת שנמסרה"
+distinguished_from = "מתמטיקה טהורה (תוכן גאומטרי ללא מחויבות דתית); אדריכלות (שימוש מבני ואסתטי); אמנות גאומטרית דקורטיבית (קישוט ללא מסגרת דתית); הטענות החזקות ביותר על 'גאומטריה המשפיעה על התודעה' (נדונות באופן תיאורי, לא מאומצות)"
+status_in_framework = "נדון בכמה רבדים; הדפוס הבין־תרבותי המתועד מטופל כממשי; הקריאה של העברה על ידי הברית מוצעת כמסגרת הסבר אחת, בהסתייגות, לצד הסברים של קוגניציה משותפת ושל דיפוזיה, ולא כעובדה מבוססת"
 +++
 
 **Sacred Geometry** is the body of geometric forms, ratios, and proportions to

@@ -6,29 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Symbol of Infinity", "the Raëlian emblem", "the Raëlian movement symbol", "the Elohim emblem"]
+alternative_names = ["無限の象徴", "ラエリアンの紋章", "ラエリアン・ムーブメントの象徴", "エロヒムの紋章"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "無限", path = "wiki/infinity", description = "この標章が一つの図像の形へと凝縮する、より広い枠組み。" },
+    { title = "フラクタル宇宙論", path = "wiki/fractal-cosmology", description = "ダビデの星の要素が表す、「上のごとく下も」という空間的次元。" },
+    { title = "宇宙の連鎖", path = "wiki/cosmic-chain", description = "この象徴の空間的次元が視覚的に表す、入れ子状の尺度の構造。" },
+    { title = "マス・エフェクト", path = "wiki/mass-effect", description = "この標章が把握可能な視覚的形へと凝縮する枠組みの一つ。" },
+    { title = "ラエル運動", path = "wiki/raelism", description = "この標章を主要な識別の印とする運動。1973年にヤハウェによって伝えられた。" },
+    { title = "大使館", path = "wiki/embassy", description = "1990年の卍から渦巻きへの変更のきっかけとなった、イスラエルとの交渉。" },
+]
 
 [extra.infobox]
-type = "Iconographic emblem; principal symbol of the Raëlian movement and the broader Wheel of Heaven framework"
-basic_form = "Two intertwined equilateral triangles forming a six-pointed star (the Star of David), with a central inscribed symbol representing the cyclic-temporal dimension"
-original_central_element = "Swastika (the form delivered by Yahweh at the December 13, 1973 contact; remains in use in Asian Raëlian movement branches)"
-modified_central_element = "Galaxy-shaped spiral (the modification authorized by the Elohim at Raël's 1990 suggestion; in use in Western Raëlian movement branches since 1991)"
-spatial_dimension = "Star of David (two intertwined triangles representing the Hermetic 'as above, so below' principle; the spatial-fractal-self-similar dimension of infinity)"
-temporal_dimension = "Swastika or galaxy-spiral (representing cyclic-eternal time; the temporal dimension of infinity)"
-source_status = "Delivered by Yahweh to Raël at the December 13, 1973 contact at Puy-de-Lassolas; engraved on the alliance craft and on Yahweh's suit; explicitly identified by Yahweh as containing 'all the wisdom in the world'"
-modification_date = "1990 (modification authorized); November 8, 1991 onward (Western branches in operational use)"
-modification_rationale = "(1) Facilitating the Israeli embassy negotiations initiated November 8, 1991; (2) respecting the sensitivities of Holocaust victims and the broader post-1945 European-North American complications around the swastika"
-distinguished_from = "The Star of David alone (which has its own substantial Jewish-tradition history); the swastika alone (which has substantial pre-Nazi religious-traditional history); the broader Infinity framework (which the symbol represents iconographically); the various other Raëlian movement institutional symbols and emblems"
-status_in_source_material = "Substantially documented; the principal source-material passages establish both the symbol's specific form and Yahweh's specific framing of its semantic content"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Mankind: A Disease of the Universe' chapter and 'Watching Over the Chosen People' content; *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' section; the *Message from the Designers* foreword by Anthony Grey treating the post-1990 modification"
+type = "図像的な紋章。ラエリアン・ムーブメントと、より広い Wheel of Heaven の枠組みの主要な象徴"
+basic_form = "二つの正三角形が組み合わさって六芒星(ダビデの星)を形づくり、その中央に循環的・時間的な次元を表す象徴が刻まれている"
+original_central_element = "卍(1973年12月13日の接触でヤハウェが伝えた形。アジアのラエリアン・ムーブメント支部では今も用いられている)"
+modified_central_element = "銀河の形をした渦巻き(1990年のラエルの提案を受けてエロヒムが認めた改変。1991年以降、西洋のラエリアン・ムーブメント支部で使用されている)"
+spatial_dimension = "ダビデの星(ヘルメス主義の「上のごとく、下もまた然り」の原則を表す二つの組み合わさった三角形。無限の空間的・フラクタル的自己相似の次元)"
+temporal_dimension = "卍または銀河の渦巻き(循環する永遠の時間を表す。無限の時間的次元)"
+source_status = "1973年12月13日、ピュイ・ド・ラソラスでの接触でヤハウェがラエルに伝えた。同盟の飛行体とヤハウェの服に刻まれていた。ヤハウェはこれを「世界のすべての英知」を含むものと明言した"
+modification_date = "1990年(改変の承認)。1991年11月8日以降(西洋の支部で実際に使用)"
+modification_rationale = "(1)1991年11月8日に始まったイスラエルの大使館交渉を円滑にするため、(2)ホロコーストの犠牲者の心情と、卍をめぐる1945年以降のヨーロッパと北米のより広い問題に配慮するため"
+distinguished_from = "ダビデの星単独(ユダヤの伝統における独自の歴史をもつ)。卍単独(ナチス以前の長い宗教的歴史をもつ)。無限の枠組み(このシンボルが図像として表すもの)。運動の他の制度的なシンボルや紋章"
+status_in_source_material = "記録されている。主要な箇所が、シンボルの形と、その意味についてのヤハウェによる位置づけの両方を確立している"
+principal_text = "『真実を告げる書』(1974年)、「人類:宇宙の病」の章と「選ばれた民を見守る」の内容。『地球外生命体は私を彼らの惑星へ連れて行った』(1975年)、「神も魂もない」の節。1990年以降の改変を扱う、アンソニー・グレイによる『設計者からのメッセージ』の序文"
 +++
 
 The **Raëlian Symbol of Infinity** is the principal emblem of the Raëlian movement and the Wheel of Heaven framework: **two intertwined equilateral triangles forming a six-pointed star** (the Star of David) with a **central inscribed symbol** for the cyclic-temporal dimension. In the original form, delivered by Yahweh to Raël at the December 13, 1973 contact at Puy-de-Lassolas, that center is a **swastika**. A modified Western form, authorized by the Elohim at Raël's 1990 suggestion, replaces it with a **galaxy-shaped spiral** — a change made to ease the Israeli embassy negotiations initiated November 8, 1991 and to respect the sensitivities of Holocaust victims and the post-1945 European–North American complications around the swastika. The original form remains in use in Asian branches, where the swastika appears in nearly all Buddhist temples and carries no such complication.

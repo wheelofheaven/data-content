@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,19 +15,28 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["svastika", "sauvastika", "manji (卍)", "Hakenkreuz (Nazi-specific tilted form)", "fylfot", "gammadion", "sun cross", "tetraskelion", "whirling logs (Navajo)"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "雷尔派无限符号", path = "wiki/raelian-symbol-of-infinity", description = "以卍字为中心元素的复合徽标。" },
+    { title = "大卫之星", path = "wiki/star-of-david", description = "同一复合徽标的另一主要组成部分。" },
+    { title = "无限", path = "wiki/infinity", description = "卍字在其时间性、循环—永恒维度上所编码的更广概念。" },
+    { title = "质量效应", path = "wiki/mass-effect", description = "与卍字“万物皆循环”之意相契合的时间—循环框架。" },
+    { title = "宇宙链", path = "wiki/cosmic-chain", description = "“顶端化为底部”之解读所参与的嵌套循环宇宙论。" },
+    { title = "雷尔派", path = "wiki/raelism", description = "其亚洲分支保留以卍字为中心之原始徽标的运动。" },
+    { title = "碾磨诸纪元的磨坊", path = "articles/the-mill-that-grinds-the-ages", description = "卍字作为诸时代转动之轮——耶和华将这一徽标注解为时间中的无限。" },
+]
 
 [extra.infobox]
-type = "Religious-iconographic symbol; one of the oldest known symbols globally with cross-cultural distribution across virtually all major cultural-religious traditions"
-basic_form = "Cross with four arms bent at right angles, typically rotated 90 degrees between successive arms; principal orientations are right-facing (clockwise, *svastika* proper) and left-facing (counter-clockwise, *sauvastika*)"
-sanskrit_etymology = "*Svastika* (सुस्तिक) from *sv-* (good, well) and *asti* (to be) plus the *-ka* suffix; principal meaning 'well-being,' 'good fortune,' 'auspiciousness'"
-oldest_known_usage = "Approximately 10,000 BCE; Mezin culture (Ukraine), carved-mammoth-ivory bracelet"
-principal_traditional_meanings = "Auspiciousness, good fortune, well-being (Hindu); cyclic cosmic time (Buddhist, Jain); eternity, infinity in time (Raëlian framework); the cycle, the choice between progress and regression (Raëlian-specific framework content)"
-principal_cross_cultural_traditions = "Hindu (svastika), Buddhist (Buddhapada, manji 卍), Jain (ashtamangala), Paleolithic and Neolithic European (Mezin, Cucuteni-Trypillian, Vinča), Bronze Age and Iron Age European (Greek geometric pottery, Etruscan, Roman, Celtic-Germanic-Slavic-Baltic), Mesopotamian, ancient Mediterranean, Native American (Navajo, Hopi), various indigenous traditions"
-position_in_raelian_framework = "Central element of the original Raëlian Symbol of Infinity (1973-present, in use in Asian Raëlian movement branches); modified to galaxy-spiral in Western Raëlian movement branches (1990 modification); represents the temporal dimension of infinity through the cyclic-eternal principle"
-post_1945_situation = "Nazi appropriation (1920-1945) produced substantial cultural-political complications in post-Holocaust European-North American contexts; legal restrictions vary across jurisdictions (Germany StGB §86 prohibits Nazi-specific usage; various other European countries have similar restrictions); various post-1945 reclamation efforts within Hindu-Buddhist diaspora communities have worked toward distinguishing the broader pre-Nazi religious-traditional usage from the specific Nazi appropriation"
-distinguished_from = "The Star of David (the other principal component of the Raëlian Symbol of Infinity, treated under separate entry); the Raëlian Symbol of Infinity as composite emblem (treated under separate entry); the Nazi *Hakenkreuz* specifically (the tilted-clockwise form adopted as NSDAP symbol 1920); the broader cross-cultural sun-cross category (which includes various non-swastika cross-with-arms forms)"
-status_in_source_material = "Substantially documented; the principal Yahweh-delivered passages establish both the symbol's specific Raëlian-framework semantic content and its identification with broader cross-cultural traditional usage"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Watching Over the Chosen People' content (the principal Yahweh passage on the emblem); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Buddhism' / 'Devils' section (the swastika as cycle); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' section (the Bardo Thodol cross-reference)"
+type = "宗教符号；已知最古老的符号之一，跨文化地分布于大多数主要宗教传统"
+basic_form = "四臂直角弯折的十字，相邻各臂通常依次旋转 90 度；主要朝向为右旋（顺时针，即本义的 *svastika*）与左旋（逆时针，*sauvastika*）"
+sanskrit_etymology = "*Svastika*（सुस्तिक）源自 *sv-*（好、善）与 *asti*（存在），加后缀 *-ka*；主要含义为「安康」「好运」「吉祥」"
+oldest_known_usage = "约公元前 10,000 年；梅津文化（乌克兰），雕刻的猛犸象牙手镯"
+principal_traditional_meanings = "吉祥、好运、安康（印度教）；循环的宇宙时间（佛教、耆那教）；永恒、时间上的无限，以及进步与倒退之间的抉择（雷尔派框架）"
+principal_cross_cultural_traditions = "印度教（svastika）、佛教（佛足印，卍 manji）、耆那教（八吉祥）、欧洲旧石器与新石器时代（梅津、库库特尼—特里波利、温查）、欧洲青铜与铁器时代（希腊几何纹陶器、伊特鲁里亚、罗马、凯尔特—日耳曼—斯拉夫—波罗的）、美索不达米亚、古代地中海、美洲原住民（纳瓦霍、霍皮）以及各种原住民传统"
+position_in_raelian_framework = "最初的雷尔派无限符号的核心元素（1973 年至今，亚洲的雷尔派分支仍在使用）；西方分支于 1990 年将其改为星系旋涡；通过循环—永恒原则代表无限的时间维度"
+post_1945_situation = "纳粹的挪用（1920–1945）在大屠杀之后的欧洲与北美造成了文化—政治上的复杂局面；法律限制因司法管辖区而异（德国刑法典第 86 条禁止纳粹特有的用法；其他欧洲国家有类似法律）；1945 年后，印度教—佛教侨民社群的正名努力致力于将纳粹之前的宗教用法与纳粹的挪用区分开来"
+distinguished_from = "大卫之星（该徽记的另一组成部分，另有条目）；作为复合徽记的雷尔派无限符号（另有条目）；纳粹的 *Hakenkreuz*（1920 年被采纳为纳粹党符号的顺时针倾斜形式）；更广的太阳十字类别（包括非卐字的带臂十字形式）"
+status_in_source_material = "记载充分；耶和华传达的段落既确立了该符号在雷尔派框架中的含义，也确认了它与跨文化传统用法的同一性"
+principal_text = "《讲述真相之书》（1974），「看护选民」相关内容（耶和华论此徽记的主要段落）；《外星人带我去他们的行星》（1975），「佛教」／「魔鬼」一节（卍字作为循环）；《外星人带我去他们的行星》（1975），「既无上帝亦无灵魂」一节（与《中阴闻教得度》的对照）"
 +++
 
 The **swastika** is one of the oldest religious symbols, with archaeological evidence extending back at least 12,000 years to Paleolithic Europe. It is a **cross with four arms bent at right angles**, typically rotated 90 degrees between successive arms, in a right-facing (clockwise, *svastika* proper in Hindu tradition) or left-facing (counter-clockwise, *sauvastika*) orientation. Its cross-cultural reach spans most major traditions: it is a principal auspicious symbol in Hindu tradition (Sanskrit *svastika*, "well-being" or "good fortune"); appears in nearly all Buddhist temples, notably on the Buddhapada (Buddha's footprint) and in the Chinese 卍 (*manji*) form; is one of the eight auspicious symbols (*ashtamangala*) in Jain tradition; and had pre-Nazi use across European, Mesopotamian, Mediterranean, Native American, and other traditions. Its meaning varies by tradition but consistently carries auspicious, protective, and cosmic-cyclic content.

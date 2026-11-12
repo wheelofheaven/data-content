@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -19,6 +19,14 @@ entry_type = "concept"
 claim_type = "inferred"
 timeline = ["pisces"]
 alternative_names = ["ٱلْحَنِيفِيَّة (al-Ḥanīfiyyah)", "حَنِيف (ḥanīf,单数)", "حُنَفَاء (ḥunafāʾ,复数)", "millat Ibrāhīm(“亚伯拉罕的宗教”)", "dīn Ibrāhīm", "原初的一神论", "正直者的宗教"]
+see_also = [
+    { title = "亚伯拉罕", path = "wiki/abraham", description = "哈尼夫派声称要恢复其失落之原初宗教的奠基人物。" },
+    { title = "穆罕默德", path = "wiki/muhammad", description = "被古兰经呈现为回归哈尼夫派所指称之 millat Ibrāhīm 的人物。" },
+    { title = "佩特拉", path = "wiki/petra", description = "Gibson 所提出的、最早自称哈尼夫派之运动的原初所在地。" },
+    { title = "纳巴泰人", path = "wiki/nabataeans", description = "经由同源词 ḥanpā 而牵涉到该词传播的亚兰—基督教环境。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "文集认为哈尼夫派延续了其亚伯拉罕恢复计划的造物者。" },
+    { title = "先知与宗教清单", path = "wiki/list-of-prophets-and-religions", description = "哈尼夫派在历代联盟所培育之传统中的位置。" },
+]
 
 [extra.infobox]
 type = "《古兰经》与早期伊斯兰用以指称亚伯拉罕原初一神论的术语;被提出为早期伊斯兰最初的自称"

@@ -6,26 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Ancient Astronaut Hypothesis", "Ancient Astronaut Theory", "Ancient Aliens hypothesis", "paleocontact hypothesis", "extraterrestrial-intervention hypothesis", "ancient-extraterrestrial-hypothesis"]
+alternative_names = ["Hypothèse des anciens astronautes", "Théorie des anciens astronautes", "hypothèse des « Ancient Aliens »", "hypothèse du paléocontact", "hypothèse de l'intervention extraterrestre", "hypothèse des extraterrestres antiques"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "La principale figure antérieure à Vorilhon dont le corpus intègre le cadre dans sa version de l'hypothèse." },
+    { title = "Néo-évhémérisme", path = "wiki/neo-euhemerism", description = "La méthode d'interprétation qui sous-tend la lecture, par le corpus, des témoignages antiques comme relation brouillée d'un contact." },
+    { title = "Mauro Biglino", path = "wiki/mauro-biglino", description = "Un travail textuel et philologique contemporain, jugé méthodologiquement plus proche de la discipline du corpus que celui des vulgarisateurs." },
+    { title = "Le Message donné par les extra-terrestres", path = "wiki/message-from-the-designers", description = "La révélation directe reçue par Vorilhon, qui fonde le corpus plutôt qu'une interprétation spéculative des indices antiques." },
+    { title = "La Tradition", path = "wiki/the-tradition", description = "Le terme du corpus pour la relation de contact transmise que l'hypothèse lit à travers les cultures antiques." },
+    { title = "Précurseurs", path = "wiki/forerunners", description = "Les auteurs antérieurs qui ont anticipé l'hypothèse avant sa vulgarisation au XXe siècle." },
+]
 
 [extra.infobox]
-type = "Interpretive tradition / methodological category proposing extraterrestrial influence on prehistoric and ancient human development"
-principal_period = "Modern formulation: 1950s-present; broader antecedents in late nineteenth-century occult tradition and earlier speculative engagement"
-core_proposition = "Extraterrestrial beings visited Earth in prehistoric or ancient past and influenced human cultural, religious, and technological development"
-candidate_evidence = "Anomalous ancient monuments; cross-cultural mythological motifs of sky-descending beings; sophisticated pre-modern astronomical knowledge; religious-textual content involving celestial encounters; structural similarities across global mythologies"
-principal_proponents = "Erich von Däniken (popularizer); Zecharia Sitchin (Sumerian-Anunnaki framework); Jean Sendy (principal corpus-influence figure); Mauro Biglino (contemporary textual-philological engagement); Paul Anthony Wallis; Robert Temple; Robert Charroux; David Hatcher Childress; Giorgio Tsoukalos; Lloyd Pye; others"
-mainstream_status = "Rejected as pseudoscience by mainstream archaeology, history of religion, and skeptical scholarship; principal academic-skeptical engagement in Feder, Colavito, others"
-corpus_positioning = "Wheel of Heaven framework operates within broader tradition while diverging methodologically: Vorilhon source-textual grounding rather than speculative interpretation; Sendy-Vorilhon synthesis; Hamlet's Mill precessional framework integration; disciplined epistemic-pluralism methodology"
-distinguished_from = "Mainstream archaeology and history of religion (which treats human cultural development as autonomous); UFO contactee tradition narrowly (which focuses on contemporary contact rather than ancient); science fiction (which is explicitly fictional); various occult and esoteric traditions (which operate within different theoretical frameworks)"
-status_in_framework = "Broader interpretive tradition within which corpus operates; corpus is identifiably a member of the family while differing methodologically; substantive subject-matter category for understanding corpus's place in contemporary intellectual landscape"
+type = "Tradition interprétative / catégorie méthodologique proposant une influence extraterrestre sur le développement humain préhistorique et antique"
+principal_period = "Formulation moderne : des années 1950 à aujourd'hui ; antécédents plus larges dans la tradition occultiste de la fin du XIXe siècle et dans des spéculations antérieures"
+core_proposition = "Des êtres extraterrestres ont visité la Terre dans un passé préhistorique ou antique et ont influencé le développement culturel, religieux et technologique de l'humanité"
+candidate_evidence = "Monuments antiques anomaux ; motifs mythologiques transculturels d'êtres descendus du ciel ; connaissances astronomiques prémodernes sophistiquées ; contenus de textes religieux relatant des rencontres célestes ; similitudes structurelles entre les mythologies du monde entier"
+principal_proponents = "Erich von Däniken (vulgarisateur) ; Zecharia Sitchin (cadre suméro-anunnaki) ; Jean Sendy (principale influence sur le corpus) ; Mauro Biglino (approche textuelle et philologique contemporaine) ; Paul Anthony Wallis ; Robert Temple ; Robert Charroux ; David Hatcher Childress ; Giorgio Tsoukalos ; Lloyd Pye ; d'autres"
+mainstream_status = "Rejetée comme pseudoscience par l'archéologie courante, l'histoire des religions et la critique sceptique ; principales réponses académiques et sceptiques chez Feder, Colavito et d'autres"
+corpus_positioning = "Le cadre de Wheel of Heaven s'inscrit dans cette tradition plus large tout en s'en écartant sur le plan méthodologique : ancrage dans les textes sources de Vorilhon plutôt qu'interprétation spéculative ; synthèse Sendy-Vorilhon ; intégration du cadre précessionnel du *Moulin d'Hamlet* ; méthodologie disciplinée de pluralisme épistémique"
+distinguished_from = "Archéologie courante et histoire des religions (qui traitent le développement culturel humain comme autonome) ; tradition des contactés ovni au sens strict (centrée sur le contact contemporain plutôt qu'antique) ; science-fiction (explicitement fictionnelle) ; diverses traditions occultes et ésotériques (qui opèrent dans d'autres cadres théoriques)"
+status_in_framework = "La tradition interprétative plus large au sein de laquelle opère le corpus ; le corpus est un membre conscient de cette famille, dont il se distingue par la méthode et le fond ; une catégorie clé pour situer le cadre dans le paysage intellectuel contemporain"
 +++
 
 **The ancient astronaut hypothesis** — also called the paleocontact hypothesis,

@@ -6,8 +6,8 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
-source_updated = "2026-11-11"
+translation_updated = "2026-11-12"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -148,7 +148,7 @@ Der technische Inhalt dieser Hinzufügungen – welche Gene modifiziert, welche 
 
 Die menschliche Schöpfung wurde, wie jede biologische Schöpfung seit dem Skorpion, von mehreren Fraktionsteams parallel durchgeführt.
 
-Die Quelle ist in diesem Punkt eindeutig: *„Jedes Team machte sich an die Arbeit, und sehr bald konnten wir unsere Schöpfungen vergleichen... Es ist leicht herauszufinden, wie viele Teams von Schöpfern dies taten – jede Rasse auf der Erde entspricht einem Team von Schöpfern.“* In einer späteren Passage spezifiziert die Quelle die geografische Struktur: *„Wie es auf der Erde verschiedene Rassen und Kulturen gibt. Unsere Provinzen wurden auf der Grundlage dieser Rassen und Kulturen geschaffen, wobei die Freiheit und Unabhängigkeit jeder einzelnen respektiert wurde.“* Und an anderer Stelle wird die Zahl der Provinzen auf der Heimatwelt mit sieben angegeben (TBWTT 7:19). Die Quelle zählt die Teams selbst nicht; der Korpus erschließt sieben Teams aus den sieben Provinzen des Heimatplaneten (TBWTT 7:19, 7:66). Nach dieser Inferenz hatte jede Provinz ihr eigenes ausgeprägtes Erbe und ihr eigenes entsandtes Team, jedes Menschen in ihrem eigenen Ebenbild hervorbringend – das heißt, im Ebenbild der besonderen Teilmenge der Elohim-Zivilisation, der dieses Team angehörte.
+Die Quelle ist in diesem Punkt eindeutig: *„Jedes Team machte sich an die Arbeit, und sehr bald konnten wir unsere Schöpfungen vergleichen... Es ist leicht herauszufinden, wie viele Teams von Schöpfern dies taten – jede Rasse auf der Erde entspricht einem Team von Schöpfern.“* (TBWTT 2:25) In einer späteren Passage spezifiziert die Quelle die geografische Struktur: *„Wie es auf der Erde verschiedene Rassen und Kulturen gibt. Unsere Provinzen wurden auf der Grundlage dieser Rassen und Kulturen geschaffen, wobei die Freiheit und Unabhängigkeit jeder einzelnen respektiert wurde.“* (TBWTT 7:66) Und an anderer Stelle wird die Zahl der Provinzen auf der Heimatwelt mit sieben angegeben (TBWTT 7:19). Die Quelle zählt die Teams selbst nicht; der Korpus erschließt sieben Teams aus den sieben Provinzen des Heimatplaneten (TBWTT 7:19, 7:66). Nach dieser Inferenz hatte jede Provinz ihr eigenes ausgeprägtes Erbe und ihr eigenes entsandtes Team, jedes Menschen in ihrem eigenen Ebenbild hervorbringend – das heißt, im Ebenbild der besonderen Teilmenge der Elohim-Zivilisation, der dieses Team angehörte.
 
 Die sieben Teams arbeiteten parallel, in verschiedenen Regionen des Superkontinents, und brachten gleichzeitig sieben verschiedene menschliche Populationen hervor.{{ footnote(id="1") }} Jedes Team hatte Zugang zu derselben zugrundeliegenden Wissensbasis: die iterativ entwickelte Entwurfsvorlage vom Primaten zum Menschen, die genetischen Regulationsnetzwerke, die Entwicklungsprogramme, die neuronalen Architekturen, die das Programm im Laufe der vorherigen Jahrhunderte der Arbeit hervorgebracht hatte. Jedes Team wandte diese Grundlinie durch seine eigenen spezifischen ästhetischen und kulturellen Traditionen an – die Entwurfspräferenzen seiner Provinz auf der Heimatwelt, das institutionelle Vokabular seiner wissenschaftlichen Tradition, die künstlerischen Empfindungen seiner Anhängerschaft. Das Ergebnis war eine Menschheit, deren biologische Vielfalt die Vielfalt der eigenen Zivilisation der Elohim widerspiegelte – auf der Erde als bewusste Wahl bewahrt statt zugunsten eines vereinheitlichten Entwurfs ausgelöscht.
 

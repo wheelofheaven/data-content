@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,24 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of neo-euhemeristic readings", "Framework exegesis index", "Glossary of operational readings"]
+alternative_names = ["新埃烏赫梅羅斯主義閱讀目錄", "本框架釋經索引", "實際運作閱讀詞彙表"]
+see_also = [
+    { title = "神話素與神話母題清單", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "涵蓋反覆出現之跨文化敘事模式而非個別詞語的姊妹目錄。" },
+    { title = "詞源學閱讀清單", path = "wiki/list-of-etymological-readings", description = "涵蓋特定詞語與片語之語文學解讀的姊妹目錄。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "框架以操作方式讀作歷史上外星創造者的收錄詞條。" },
+    { title = "創世記", path = "wiki/genesis", description = "目錄以新埃烏赫梅羅斯主義解讀其敘事段落的主要來源。" },
+    { title = "耶和華", path = "wiki/yahweh", description = "將神名轉譯為操作性用語的收錄人名—稱號解讀。" },
+    { title = "巴別塔", path = "wiki/tower-of-babel", description = "目錄重新讀作被復原之操作歷史的敘事段落。" },
+]
 
 [extra.infobox]
-type = "Reference catalogue of framework readings of religious and mythological terms"
-interpretive_method = "Neo-euhemeristic exegesis — translation of mythologised content into operational terms consistent with the source material's account"
-methodological_lineage = "Euhemerus of Messene (3rd c. BCE); Brinsley Le Poer Trench (1960); Jean Sendy (1968–1972); Erich von Däniken (1968); Zecharia Sitchin (1976–2010); Claude Vorilhon / Raël (1974–present); Mauro Biglino (1990s–present); Paul Wallis (2018–present)"
-scope = "Cosmological terms; narrative episodes; persons and titles; sacred objects and architecture; symbols and iconographic motifs; eschatological terms; theological concepts"
-catalogue_columns = "Term; framework reading; primary source within the framework lineage"
-companion_catalogues = "[List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/); [List of etymological readings](../list-of-etymological-readings/); [List of prophets and religions](../list-of-prophets-and-religions/)"
-caveat = "Coverage is most complete for terms in widely attested traditions; the catalogue is open to expansion as the corpus's coverage deepens"
+type = "本框架對宗教與神話詞語之解讀的參考目錄"
+interpretive_method = "新埃烏赫梅羅斯主義釋經——將神話化的內容轉譯為與源典記述一致的實際運作詞語"
+methodological_lineage = "麥西尼的埃烏赫梅羅斯（公元前 3 世紀）；布林斯利·勒普爾·特倫奇（1960）；讓·桑迪（1968–1972）；艾力赫·馮·丹尼肯（1968）；撒迦利亞·西琴（1976–2010）；克勞德·沃里隆／雷爾（1974 年至今）；毛羅·比利諾（1990 年代至今）；保羅·華利斯（2018 年至今）"
+scope = "宇宙論詞語；敘事情節；人物與稱號；聖物與建築；符號與圖像母題；末世論詞語；神學概念"
+catalogue_columns = "詞語；本框架的解讀；本框架傳承中的主要來源"
+companion_catalogues = "[神話素與神話母題清單](../list-of-mythemes-and-mythological-motifs/)；[詞源學閱讀清單](../list-of-etymological-readings/)；[先知與宗教清單](../list-of-prophets-and-religions/)"
+caveat = "對廣泛有佐證之傳統中的詞語覆蓋最為完整；隨著本文集的覆蓋加深，本目錄可持續擴充"
 +++
 
 This entry catalogues the Wheel of Heaven framework's adopted neo-euhemeristic readings of religious, mythological, and traditional terms — its glossary of operational readings, presented as a navigable reference instrument. The corpus's interpretive method here is the one applied throughout the wiki and the long-form chapter material: each term's surface content is translated into operational terms consistent with the source material's account of the Elohim civilisation and the Earth project, on the working hypothesis that the relevant traditions preserve, in varying states of clarity, historical content that the operational translation recovers.

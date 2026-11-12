@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -23,14 +23,20 @@ alternative_names = ["アヌンナキ", "天の者たち", "創造者", "エル"
 portrait_id = "elohim"
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.avif"
-image_alt = "AI-generated editorial group portrait of the Elohim as long-haired human-like creators in a green-lit council setting."
-image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
+image_alt = "長髪の人間に似た創造者として、緑の光に照らされた評議会の場に描かれたエロヒムの、AI生成による編集用の集団肖像。"
+image_caption = "エロヒムのウィキ項目とライブラリーの人物メタデータのための解釈的肖像。"
 see_also = [
-    { title = "ヤハウェ", path = "wiki/yahweh", description = "エロヒムの主要人物 ― 永遠の評議会の議長。" },
-    { title = "永遠の評議会", path = "wiki/council-of-the-eternals", description = "人類創造の運命を決定する統治機関。" },
+    { title = "ホメロスの東面", path = "/articles/the-east-face-of-homer/", description = "二つの正典上の錨に基づいて、ギリシアをエロヒムの圏域の一地方として読む解説記事。" },
+    { title = "ヘリコンに降る雨", path = "/articles/the-rain-over-helicon/", description = "三つ目のギリシアの解説記事。記録に残る文学的伝達が、神々の戦いの伝承の背後にある共通の指示対象について何を立証でき、何を立証できないのかを量る。" },
+    { title = "アヌンナキはエロヒムなのか", path = "articles/anunnaki-and-the-elohim", description = "シュメールのアヌンナキが同じ造り手たちを名指しているのかどうか。事例ごとの比較。" },
+    { title = "ヤハウェ", path = "wiki/yahweh", description = "エロヒムの主要人物 ― 永遠者の評議会の議長。" },
+    { title = "永遠者の評議会", path = "wiki/council-of-the-eternals", description = "人類創造の運命を決定する統治機関。" },
     { title = "神々の複数性", path = "wiki/plurality-of-gods", description = "エロヒムを尊厳の複数形ではなく真の複数形として扱う文献学的論拠。" },
-    { title = "ラエリズム", path = "wiki/raelism", description = "エロヒムを先進的な人類文明として読み解く現代の解釈レンズ。" },
+    { title = "ラエル運動", path = "wiki/raelism", description = "エロヒムを先進的な人類文明として読み解く現代の解釈レンズ。" },
     { title = "エロヒムの母星", path = "wiki/elohim-home-planet", description = "1975年のラエル訪問後に記述された起源の惑星。" },
+    { title = "大執事と竜", path = "articles/the-archdeacon-and-the-dragon", description = "創世記の elohim を複数形の「力ある者たち」として読む読解。この記事の議論全体がその上に成り立つ。" },
+    { title = "元年に目覚めた巻物", path = "articles/the-scrolls-that-woke-in-year-one", description = "4QDeut(j) の「エロヒムの子ら」と 11QMelchizedek の天上の「elohim」。古代クムランの羊皮紙の上で読まれる複数形。" },
+    { title = "一神教は誤った問いである", path = "articles/monotheism-is-the-wrong-question", description = "聖書の単数形の「神」が、超自然的な絶対者ではなく代表のエロハでありうるのはなぜか。偶像批判を横断して読まれる複数性。" },
 ]
 
 footnotes = [

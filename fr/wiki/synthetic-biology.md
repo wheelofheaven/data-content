@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,17 +14,25 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Engineering biology", "Constructive biology", "Designed biology", "SynBio"]
+alternative_names = ["Biologie d'ingénierie", "Biologie constructive", "Biologie conçue", "SynBio"]
+see_also = [
+    { title = "Boîte à outils de la Genèse", path = "wiki/genesis-toolbox", description = "La synthèse au niveau du programme : la pile de création du canon, dont cette discipline est l'équivalent moderne le plus proche." },
+    { title = "Ingénierie du vivant", path = "wiki/life-engineering", description = "Le domaine englobant dans lequel est développé l'argument complet de convergence en faveur de la biologie de synthèse." },
+    { title = "Ingénierie génétique", path = "wiki/genetic-engineering", description = "Le domaine plus ancien que la biologie de synthèse recoupe et prolonge par une véritable pratique de discipline d'ingénierie." },
+    { title = "Génomique de synthèse", path = "wiki/synthetic-genomics", description = "Le domaine jumeau des génomes complets que la biologie de synthèse recoupe et englobe." },
+    { title = "Élohim", path = "wiki/elohim", description = "La civilisation au vocabulaire opérationnel de laquelle, selon le cadre, la biologie de synthèse correspond le plus étroitement." },
+    { title = "Genèse", path = "wiki/genesis", description = "Le récit de la création que le cadre lit comme décrivant une biologie conçue par ingénierie dans la haute antiquité." },
+]
 
 [extra.infobox]
-type = "Engineering discipline applied to living systems"
-parent_field = "Life engineering"
-sister_fields = "Genetic engineering; synthetic genomics; xenobiology"
-distinguishing_feature = "Engineering-discipline practice (standardisation, modularity, abstraction, design–build–test cycles) applied to biological systems"
-foundational_milestones = "Repressilator (Elowitz and Leibler, 2000); genetic toggle switch (Gardner, Cantor, and Collins, 2000); first synthesis of a viral genome (Wimmer, 2002); BioBricks standard and Registry of Standard Biological Parts (Knight, 2003); iGEM (2004); semi-synthetic artemisinin (Keasling and colleagues, 2005 onward); JCVI-syn1.0 (2010)"
-key_techniques = "Genetic circuit design; metabolic pathway engineering; protein engineering (rational design and directed evolution); cell-free reaction systems; CRISPR-based circuit construction"
-current_status = "Active scientific discipline; commercial deployment in pharmaceuticals, food, materials, and industrial chemicals; multi-billion-dollar industry sector"
-framework_significance = "The discipline whose engineering-discipline vocabulary and methods most directly match the operational description of the Elohim's work in the Raëlian source material"
+type = "Discipline d'ingénierie appliquée aux systèmes vivants"
+parent_field = "Ingénierie du vivant"
+sister_fields = "Ingénierie génétique ; génomique de synthèse ; xénobiologie"
+distinguishing_feature = "Pratique propre aux disciplines d'ingénierie (standardisation, modularité, abstraction, cycles conception–construction–test) appliquée aux systèmes biologiques"
+foundational_milestones = "Répressilateur (Elowitz et Leibler, 2000) ; interrupteur génétique à bascule (Gardner, Cantor et Collins, 2000) ; première synthèse d'un génome viral (Wimmer, 2002) ; standard BioBricks et Registry of Standard Biological Parts (Knight, 2003) ; iGEM (2004) ; artémisinine semi-synthétique (Keasling et collègues, à partir de 2005) ; JCVI-syn1.0 (2010)"
+key_techniques = "Conception de circuits génétiques ; ingénierie des voies métaboliques ; ingénierie des protéines (conception rationnelle et évolution dirigée) ; systèmes réactionnels acellulaires ; construction de circuits fondée sur CRISPR"
+current_status = "Discipline scientifique active ; déploiement commercial dans les produits pharmaceutiques, l'alimentation, les matériaux et la chimie industrielle ; secteur industriel de plusieurs milliards de dollars"
+framework_significance = "La discipline dont le vocabulaire et les méthodes d'ingénierie correspondent le plus directement à la description opérationnelle du travail des Élohim dans le matériau source raëlien"
 +++
 
 **Synthetic biology** is the engineering-discipline branch of contemporary [life engineering](../life-engineering/). It applies engineering methods — standardisation, modularity, abstraction, characterisation, and design–build–test cycles — to the construction of biological systems with predetermined properties. The field is distinguished from older [genetic engineering](../genetic-engineering/), which it overlaps and extends, by its programmatic commitment to genuine engineering-discipline practice rather than the case-by-case empirical approach that characterised most pre-2000 biological-modification work; and from [synthetic genomics](../synthetic-genomics/), which it overlaps and includes, by its concern with sub-systems and components in addition to complete genomes.

@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ core_claim_ids = ["woh-claim-0057"]
 core_versions = { woh-claim-0057 = "0.1.0" }
 editorial_pass = "2026-05"
 summary = "Fünf Wochen nach Veröffentlichung 06 stellte das US-Department of War Veröffentlichung 07 auf war.gov/UFO online: 28 Dokumente und sonst nichts – kein Video, kein Audio, keine Bilder –, die bislang kleinste Tranche und die erste, die ganz aus Papier besteht. Fünfundzwanzig Akten stammen vom Department selbst, eine vom FBI, eine vom Executive Office of the President, und eine trägt ein neues Präfix „U.S. Government“. Die Leitakte ist jung: ein Debriefing des All-domain Anomaly Resolution Office mit Bundesagenten, die im Juni 2026 an einem sensiblen Standort im Westen der Vereinigten Staaten beobachteten, wie ein mattschwarzes Dreieck lautlos über einem Grat aufstieg, schwebte und in einen Canyon abtauchte – veröffentlicht vier Monate nach dem Ereignis, zusammen mit einem FBI-Interviewprotokoll, das ihm bei Dauer, Größe und Wärme widerspricht. Dahinter steht die Betriebsakte des Auftragnehmers, der 2008–2010 das AAWSAP-Programm der Defense Intelligence Agency durchführte: seine Pläne, geborgene Hardware und biologische Proben zu erwerben, ein unterirdischer Tresorraum zu ihrer Aufbewahrung, ein Einsatz in Brasilien, ein Data Warehouse mit 234.364 Sichtungsberichten und seine Untersuchung einer Ranch in Utah, deren „Skinwalker“-Haarproben sich als die des eigenen Hundes des Zeugen erwiesen. Eine Akte des Weißen Hauses von 1962–1964 zeigt die Regierung beim Entwurf von Verfahren für Objekte, die aus dem Weltraum fallen, mit der NASA als öffentlichem Gesicht und dem Verteidigungsministerium als Analysten. Das Korpus registriert Veröffentlichung 07 als Kontext für die Lektüre des Kanons, nicht als Zeichen der Rückkehr."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "Der Kontext der Gegenwart"
+cross_reference = "Zeitalter des Wassermanns, §IX"
 canon_links = [
     { title = "Wassermann-Zeitalter", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

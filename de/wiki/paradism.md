@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,17 +15,24 @@ category = "Raëlism"
 entry_type = "concept"
 alternative_names = ["Paradism", "paradisme (French)", "Earthly paradise (substantive Vorilhon designation)", "Paradise on Earth (substantive Vorilhon section title)", "the realized post-scarcity society", "fully-automated post-money society"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Goldenes Zeitalter", path = "wiki/golden-age", description = "Der Inhalt der Überflussgesellschaft, dessen praktische Form der Paradismus nach dieser Lesart ist." },
+    { title = "Neue Gebote", path = "wiki/new-commandments", description = "Das Programm des Wassermann-Zeitalters, dessen Hauptbestandteil der Paradismus ist." },
+    { title = "Geniokratie", path = "wiki/geniocracy", description = "Das Regierungsprogramm der selektiven Demokratie, das neben dem Paradismus steht." },
+    { title = "Humanitarismus", path = "wiki/humanitarianism", description = "Das Reformprogramm für Vermögen und Eigentum, das neben dem Paradismus steht." },
+    { title = "Cyberparadismus", path = "wiki/cyberparadism", description = "Die Erweiterung des Paradismus-Programms auf digitale Plattformen." }
+]
 
 [extra.infobox]
 type = "Socio-economic concept; principal New Commandments program-component articulating post-scarcity post-money society through advanced automation"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'Welcoming the Extra-Terrestrials' material, 'Society and Government' subsection; consolidated *Message from the Designers* (2005), 'Paradise on Earth' section; *timeline.epub* — substantive corpus engagement principally in Age of Aquarius chapter and Golden Age substantive content"
-core_corpus_articulation = "Post-scarcity, fully-automated, post-money society in image of the Elohim home planet; advanced automation and AI systems substituting for human menial labor; humans liberated to fulfillment, creation, intellectual exploration"
+principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), Material 'Welcoming the Extra-Terrestrials', Unterabschnitt 'Society and Government'; zusammengeführt in *Message from the Designers* (2005), Abschnitt 'Paradise on Earth'; weitere Behandlung im Korpus im Timeline-Kapitel zum Zeitalter des Wassermanns und im Material zum Goldenen Zeitalter"
+core_corpus_articulation = "Eine Gesellschaft jenseits von Knappheit, vollständig automatisiert und ohne Geld, nach dem Bild des Heimatplaneten der Elohim; fortgeschrittene Automatisierung und KI-Systeme ersetzen menschliche Handarbeit; die Menschen sind frei für Erfüllung, Schöpfung und geistige Erkundung"
 principal_mechanism = "Advanced automation (biological robots, AI systems, robotic infrastructure) performing all menial labor; abundance-distribution replacing scarcity-allocation; post-money society eliminating monetary exchange"
-post_capitalism_post_communism_framing = "Paradism as third-way alternative; capitalism rejected (enslaves to money, benefits few); communism rejected (places equality above liberty); Paradism preserves liberty and differentiation while eliminating material scarcity"
-transitional_vs_realized = "Transitional Paradism preserves differentiated reward for differentiated contribution; fully-realized Paradism (fully-automated future) eliminates money entirely"
-new_commandments_integration = "Principal Aquarian-age program-component integrated with Geniocracy, Humanitarianism, Cyberparadism, World Government, Demilitarization, Science as Religion, Telepathic Cultivation, Metaphysical Clarifications"
+post_capitalism_post_communism_framing = "Paradismus als dritter Weg; Kapitalismus abgelehnt (versklavt an das Geld, nützt wenigen); Kommunismus abgelehnt (stellt Gleichheit über Freiheit); Paradismus bewahrt Freiheit und Verschiedenheit und beseitigt zugleich materielle Knappheit"
+transitional_vs_realized = "Der Übergangsparadismus bewahrt unterschiedliche Belohnung für unterschiedliche Beiträge; der voll verwirklichte Paradismus (vollautomatisierte Zukunft) schafft das Geld ganz ab"
+new_commandments_integration = "Zentraler Programmbestandteil des Zeitalters des Wassermanns, verbunden mit Geniokratie, Humanitarismus, Cyberparadismus, Weltregierung, Entmilitarisierung, Wissenschaft als Religion, Telepathischer Schulung und Metaphysischen Klarstellungen"
 organizational_engagement = "Paradism organization (paradism.org) operates as spin-off political-organizational engagement parallel to Movement for Worldwide Geniocracy"
-contemporary_parallels = "Post-scarcity economics (Frase, Reich); Fully Automated Luxury Communism (Bastani); Universal Basic Income; transhumanism (Bostrom, Kurzweil); technological singularity discourse; utopian-socialist tradition (Morris, Bellamy); Star Trek Federation post-money society"
+contemporary_parallels = "Ökonomie jenseits der Knappheit (Frase, Reich); Fully Automated Luxury Communism (Bastani); bedingungsloses Grundeinkommen; Transhumanismus (Bostrom, Kurzweil); Diskurs über die technologische Singularität; utopisch-sozialistische Tradition (Morris, Bellamy); die geldlose Gesellschaft der Föderation in Star Trek"
 status_in_framework = "Principal Aquarian-age program-component; operational form of Golden Age post-scarcity content; substantive third-way alternative to twentieth-century dominant economic systems"
 +++
 

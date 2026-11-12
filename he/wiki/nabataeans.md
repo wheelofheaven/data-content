@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -20,6 +20,14 @@ entry_type = "people"
 claim_type = "inferred"
 timeline = ["pisces", "aries"]
 alternative_names = ["נבטו (ארמית נבטית Nabaṭu)", "Ναβαταῖοι (יוונית Nabataîoi)", "ٱلْأَنْبَاط (ערבית al-Anbāṭ)", "Nabateans", "הנבטי", "אנשי רקמו (Raqmū)"]
+see_also = [
+    { title = "פטרה", path = "wiki/petra", description = "בירתם החצובה בסלע של הנבטים, האתר שבמרכז השערת פטרה של המסגרת." },
+    { title = "חניפיה", path = "wiki/hanafiyya", description = "השיקום האברהמי שהעם הנבטי נקרא כמתווך האנושי שלו." },
+    { title = "מוחמד", path = "wiki/muhammad", description = "הנביא שהערבית הקוראנית שלו נטענת כצאצאית של הערבית הנבטית." },
+    { title = "ישוע", path = "wiki/jesus", description = "דובר אותה ארמית שבה כתבו הנבטים, דבר הממקם את האסלאם בסביבה משותפת." },
+    { title = "אברהם", path = "wiki/abraham", description = "המקור האבהי של הסביבה הארמית־האברהמית שהנבטים שייכים לה." },
+    { title = "המקרא העברי", path = "wiki/hebrew-bible", description = "הקורפוס שאוצר המילים המעשי שלו שותף לסביבה הארמית־האברהמית הנידונה כאן." },
+]
 
 [extra.infobox]
 type = "עם סוחר-שיירות צפון-ערבי קדום; בוני פטרה; מוסרי הכתב מן הארמית אל הערבית"

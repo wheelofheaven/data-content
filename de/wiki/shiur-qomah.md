@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["*Shiʿur Qomah* (שִׁעוּר קוֹמָה)", "Sefer Haqqomah („Buch des [göttlichen] Körpers“)", "das Maß der Gestalt", "das Maß des Körpers", "Ma'amar Rabbi Yishmael"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Jahwe", path = "wiki/yahweh", description = "Die Gestalt, deren Maße der „Höhe des Schöpfers“ der Kanon der Kabbala zuschreibt." },
+    { title = "Elohim-Heimatwelt", path = "wiki/elohim-home-planet", description = "Die Entfernung, die der Rahmen gewinnt, wenn die Parasange des Textes als Lichtsekunde gelesen wird." },
+    { title = "Hekhalot-Literatur", path = "wiki/hekhalot-literature", description = "Das spätantike mystische Korpus der Paläste und des Wagens, zu dem der Text gehört." },
+    { title = "Kabbala", path = "wiki/kabbalah", description = "Die spätere Mystik, die der raëlianische Kanon als Quelle der Parasangen-Angaben nennt." },
+    { title = "Elohim", path = "wiki/elohim", description = "Die Ingenieure, deren kosmische Maße der Rahmen hinter den Angaben zum göttlichen Körper liest." },
+    { title = "Hebräische Bibel", path = "wiki/hebrew-bible", description = "Die biblische Quelle, deren Gematrie von Psalm 147,5 die Schlüsselzahl 236 ergibt." }
+]
 
 [extra.infobox]
 type = "Text des mystischen Hekhalot-/Merkava-Korpus; anthropomorphes „Maß des göttlichen Körpers“"

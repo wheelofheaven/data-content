@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,18 +14,26 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
-alternative_names = ["Human adaptation", "Biological space adaptation", "Human pantropic engineering", "Adapted Men (Blish's term)", "Volitional evolution (NASA-affiliated literature)"]
+alternative_names = ["Adaptation humaine", "Adaptation biologique à l'espace", "Ingénierie pantropique humaine", "Hommes adaptés (terme de Blish)", "Évolution volontaire (littérature liée à la NASA)"]
+see_also = [
+    { title = "Terraformation", path = "wiki/terraforming", description = "L'approche complémentaire qui modifie les environnements plutôt que les organismes." },
+    { title = "Biologie de synthèse", path = "wiki/synthetic-biology", description = "La discipline d'ingénierie qui donne à la pantropie sa plausibilité technique contemporaine." },
+    { title = "Génomique de synthèse", path = "wiki/synthetic-genomics", description = "La boîte à outils de construction de génomes qui sous-tend la modification pantropique humaine." },
+    { title = "Genèse", path = "wiki/genesis", description = "Le récit de création lu comme préservant l'origine pantropique de l'humanité à l'image des Élohim." },
+    { title = "Éden", path = "wiki/eden", description = "Le cadre de laboratoire de l'opération pantropique des Élohim sur les humains." },
+    { title = "Ingénierie du vivant", path = "wiki/life-engineering", description = "Le programme plus large de conception du vivant au sein duquel le cadre lit la synthèse humaine." },
+]
 
 [extra.infobox]
-type = "Speculative-then-engineering practice of modifying organisms (particularly humans) to survive in otherwise inhospitable environments"
-coined_by = "James Blish (1921–1975), American science fiction writer, in stories published 1952–1957 collected as *The Seedling Stars* (Gnome Press, 1957)"
-etymology = "Greek *pan* (\"all\") + *tropē* (\"turning, changing\"), giving the literal sense \"turning everything\" or \"transformation to fit anywhere\""
-contrast_concept = "[Terraforming](../terraforming/) — modifying environments to fit organisms — coined in the same period (Jack Williamson, *Astounding* 1942)"
-contemporary_research = "Christopher Mason's research at Weill Cornell on tardigrade-DNA-modified human cells (2016 onward); the broader NASA-affiliated literature on \"volitional evolution\" for deep-space radiation resistance; the contemporary discussion in *Acta Astronautica*, *Astrobiology*, *Oncotarget*, *Frontiers in Physiology*, and other space-medicine journals"
-principal_target_environments = "Mars (low gravity, thin CO₂ atmosphere, high radiation); deep-space transit (galactic cosmic radiation, microgravity); the Moon (lower gravity, no atmosphere, lunar dust hazards); Europa, Enceladus, and other ocean-worlds (subsurface aqueous environments); broader exoplanetary contexts"
-principal_modification_targets = "Radiation tolerance (tardigrade Dsup protein, melanin pathways, DNA repair enhancement); bone-density preservation under low gravity; muscular preservation; cardiovascular adaptation; thermal tolerance (extremophile-derived antifreeze proteins, thermophilic enzymes); atmospheric tolerance (alternative oxygen carriers, CO₂ tolerance)"
-framework_position = "Humanity itself is read by the framework as the product of an Elohim pantropic engineering operation — humans constructed in the Elohim's biological image but adapted for Earth's specific conditions, with Genesis 1:26–27 preserving operational content about this pantropic origin; the corpus's broader work on synthetic biology, synthetic genomics, and life engineering provides the technical context for the operational reading"
-relationship_to_terraforming = "Pantropy and terraforming are the two principal approaches to extraterrestrial habitation: pantropy modifies organisms, terraforming modifies environments; the framework reads the Earth project as having involved both — Yom 3 continental engineering as a terraforming operation, Yamim 5–6 biological synthesis as a pantropy operation"
+type = "Pratique, d'abord spéculative puis d'ingénierie, consistant à modifier des organismes (en particulier des humains) pour qu'ils survivent dans des environnements autrement inhospitaliers"
+coined_by = "James Blish (1921–1975), écrivain américain de science-fiction, dans des nouvelles publiées de 1952 à 1957 et réunies dans *The Seedling Stars* (Gnome Press, 1957)"
+etymology = "Du grec *pan* (« tout ») + *tropē* (« tour, changement »), d'où le sens littéral de « tout transformer » ou « transformation pour s'adapter partout »"
+contrast_concept = "[Terraformation](../terraforming/) — modifier les environnements pour les adapter aux organismes — terme forgé à la même époque (Jack Williamson, *Astounding*, 1942)"
+contemporary_research = "Les recherches de Christopher Mason à Weill Cornell sur des cellules humaines modifiées par de l'ADN de tardigrade (à partir de 2016) ; la littérature plus large liée à la NASA sur l'« évolution volontaire » pour la résistance aux radiations de l'espace lointain ; la discussion contemporaine dans *Acta Astronautica*, *Astrobiology*, *Oncotarget*, *Frontiers in Physiology* et d'autres revues de médecine spatiale"
+principal_target_environments = "Mars (faible gravité, atmosphère ténue de CO₂, radiations élevées) ; transit dans l'espace lointain (rayonnement cosmique galactique, microgravité) ; la Lune (gravité plus faible, absence d'atmosphère, dangers de la poussière lunaire) ; Europe, Encelade et autres mondes océans (environnements aqueux souterrains) ; contextes exoplanétaires plus larges"
+principal_modification_targets = "Tolérance aux radiations (protéine Dsup du tardigrade, voies de la mélanine, renforcement de la réparation de l'ADN) ; préservation de la densité osseuse en faible gravité ; préservation musculaire ; adaptation cardiovasculaire ; tolérance thermique (protéines antigel issues d'extrêmophiles, enzymes thermophiles) ; tolérance atmosphérique (transporteurs d'oxygène alternatifs, tolérance au CO₂)"
+framework_position = "Le cadre lit l'humanité elle-même comme le produit d'une opération d'ingénierie pantropique des Élohim — des humains construits à l'image biologique des Élohim mais adaptés aux conditions spécifiques de la Terre, Genèse 1:26–27 conservant un contenu opérationnel sur cette origine pantropique ; le travail plus large du corpus sur la biologie de synthèse, la génomique de synthèse et l'ingénierie du vivant fournit le contexte technique de la lecture opérationnelle"
+relationship_to_terraforming = "La pantropie et la terraformation sont les deux principales approches de l'habitation extraterrestre : la pantropie modifie les organismes, la terraformation modifie les environnements ; le cadre lit le projet Terre comme ayant impliqué les deux — l'ingénierie continentale du yom 3 comme opération de terraformation, la synthèse biologique des yamim 5–6 comme opération de pantropie"
 +++
 
 **Pantropy** is the hypothetical practice of modifying organisms — particularly humans — through **genetic engineering** or other biotechnological intervention so that they can survive and reproduce in environments otherwise inhospitable to them. The concept stands in deliberate contrast and complementarity to **terraforming**: where terraforming modifies environments to fit organisms (raising atmospheric oxygen on Mars, melting Martian polar caps, introducing photosynthetic life), pantropy modifies organisms to fit environments (engineering Mars-tolerant humans rather than Earth-tolerant Mars). The term combines the Greek roots **πᾶν** (*pan*, "all") and **τροπή** (*tropē*, "turning, changing"), giving the literal sense of "turning everything" or "transformation to fit anywhere" — a name capturing the radical breadth of biological modification the concept proposes.

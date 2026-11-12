@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,18 +16,27 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Earth-as-organism framework", "the planetary-organism claim", "the cosmic-biology framework", "the universal-aliveness principle", "Living Cosmos", "the biological correlate of Infinity"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "מקרוביולוגיה", path = "wiki/macrobiology", description = "התחום החוקר מערכות חיות בקנה מידה אחד מעלה — האנושות כאורגניזם — ומרחיב את טענת כדור הארץ החי מכוכב הלכת אל המין." },
+    { title = "אינסוף", path = "wiki/infinity", description = "הקוסמולוגיה היסודית שעליה נשענת טענת כדור הארץ החי." },
+    { title = "קוסמולוגיה פרקטלית", path = "wiki/fractal-cosmology", description = "הדמיון־לעצמו המרחבי שבתוכו כל קנה מידה מאכלס יצורים חיים." },
+    { title = "אפקט המסה", path = "wiki/mass-effect", description = "קנה המידה הזמני המסביר מדוע חייו של כדור הארץ אינם מורגשים לבני האדם." },
+    { title = "השרשרת הקוסמית", path = "wiki/cosmic-chain", description = "השושלת המקוננת של ציוויליזציות נבראות ובוראות לאורך הזמן הקוסמי." },
+    { title = "ארבע הרמות", path = "wiki/four-levels", description = "הכלל האתי שסביבת הקוסמוס החי מבססת." },
+    { title = "סמל האינסוף הראליאני", path = "wiki/raelian-symbol-of-infinity", description = "הסמל המקודד את הגדול לאין סוף ואת הקטן לאין סוף." },
+]
 
 [extra.infobox]
-type = "Foundational cosmological framework; biological correlate of the broader Infinity-Fractal-Mass-Effect cluster"
-basic_premise = "The Earth and all other planets are literal living beings, with biological organism-status that operates at substantial cosmic scales; the broader cosmos is biologically alive across all scales of organization"
-core_image = "'The Earth is alive like all the planets, and for the small growth that is humanity, it is difficult to notice this because of the time lag due to the enormous difference in mass, which prevents you from perceiving its palpitations' (Yahweh in *Extra-Terrestrials Took Me to Their Planet*)"
-position_in_framework = "Biological correlate of the broader Infinity-Fractal-Cosmology-Mass-Effect cluster; the framework that articulates the biological-organism content within the broader cosmological structure"
-relationship_to_mass_effect = "The Mass Effect framework explains why Earth's organism-status is not directly perceivable from human-scale experience: the substantial mass-and-time-scale differential between Earth and humans produces time-perception incompatibilities analogous to the differential between humans and our own atomic constituents"
-relationship_to_fractal_cosmology = "The Fractal Cosmology framework establishes the spatial-self-similar structure across cosmic scales within which Living Earth operates; each scale of cosmic organization contains living beings whose constituents are themselves living beings at smaller scales, with the recursion continuing indefinitely"
-relationship_to_gaia_hypothesis = "Substantial structural correspondence with James Lovelock's Gaia hypothesis (1972 onward), with the Raëlian articulation predating Lovelock's principal published work; the framework's specific position aligns with the 'strong Gaia' formulation while extending substantially beyond Lovelock's specific claims through the broader cosmological-organism extension"
-distinguished_from = "The metaphorical 'living Earth' content of various contemporary environmental-philosophical frameworks (the corpus's framework asserts literal organism-status); mainstream Gaia hypothesis weak formulation (the framework's position aligns with the strong formulation); panpsychism (the framework's position is biological-organism rather than consciousness-fundamental); the conventional anthropomorphic-animism content of various religious traditions (the framework's position is biological-scientific rather than religious-anthropomorphic)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage establishes the framework's specific content with explicit articulation"
-principal_text = "*Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' section (the principal Yahweh passage); *The Book Which Tells the Truth* (1974), various passages establishing the broader infinity-and-everything-is-in-everything framework; the Wheel of Heaven corpus's outro Section II"
+type = "מסגרת קוסמולוגית יסודית; הגדיל הביולוגי של אשכול אינסוף–קוסמולוגיה פרקטלית–אפקט המסה"
+basic_premise = "כדור הארץ וכל כוכב לכת אחר הם יצורים חיים במובן המילולי, והקוסמוס הרחב חי בכל רמת ארגון"
+core_image = "'כדור הארץ חי כמו כל כוכבי הלכת, ולגידול הקטן שהוא האנושות קשה להבחין בכך בגלל פער הזמן הנובע מן ההבדל העצום במסה, המונע מכם לחוש בפעימותיו' (יהוה ב־*החייזרים לקחו אותי לכוכב שלהם*)"
+position_in_framework = "הגדיל הביולוגי של האשכול הקוסמולוגי: מה שאינסוף, קוסמולוגיה פרקטלית ואפקט המסה מתארים מבנית, כדור הארץ החי קורא כחי במובן המילולי"
+relationship_to_mass_effect = "אפקט המסה מסביר מדוע איננו יכולים לתפוס את חייו של כדור הארץ: הפער במסה ובזמן בין כדור הארץ לבני האדם דומה לפער בינינו לבין האטומים של גופנו"
+relationship_to_fractal_cosmology = "הקוסמולוגיה הפרקטלית מספקת את המבנה המקונן והדומה לעצמו — כל קנה מידה של הקוסמוס מכיל יצורים חיים שמרכיביהם הם עצמם יצורים חיים, בלי סוף"
+relationship_to_gaia_hypothesis = "קרובה מבנית להשערת גאיה של לאבלוק, והאמירה הראליאנית בת זמנה של עבודתו המוקדמת; אך כדור הארץ החי טוען למעמד של אורגניזם במובן המילולי (גאיה חזקה) ומרחיב זאת לכל כוכבי הלכת ולכל קנה מידה"
+distinguished_from = "רטוריקה מטפורית של 'כדור ארץ חי' (הטענה כאן מילולית); גאיה חלשה (ויסות עצמי ברמת המערכת, לא אורגניזם במובן המילולי); פאנפסיכיזם (התודעה כיסודית, לא ביולוגית); דת אנתרופומורפית של אלת אדמה (הטענה ביולוגית, לא פולחנית)"
+status_in_source_material = "נאמר במפורש על ידי יהוה בקטע 'לא אל ולא נשמה' ב־*החייזרים לקחו אותי לכוכב שלהם* (1975)"
+principal_text = "*החייזרים לקחו אותי לכוכב שלהם* (1975), 'לא אל ולא נשמה'; *הספר המגלה את האמת* (1974), 'האנושות: מחלה של היקום'"
 +++
 
 **Living Earth** is the Wheel of Heaven corpus's name for a claim the Raëlian

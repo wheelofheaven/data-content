@@ -6,27 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the doubled signature", "the doubled-signature principle", "the Hamlet's Mill principle", "the doubled astronomical signature", "doubled invocation across the zodiacal axis"]
+alternative_names = ["удвоенная подпись", "принцип удвоенной подписи", "принцип «Мельницы Гамлета»", "удвоенная астрономическая подпись", "удвоенное обращение через зодиакальную ось"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Иисус", path = "wiki/jesus", description = "Фигура рыбы и девы, несущая подпись Рыб — Девы христианской эры." },
+    { title = "Моисей", path = "wiki/moses", description = "Рогатый зачинатель эпохи овна, традиция которого кодирует подпись Овна — Весов." },
+    { title = "Апокалипсис", path = "wiki/apocalypse", description = "Нынешняя эпоха, водно-львиная подпись Водолея — Льва которой закладывается сейчас." },
+    { title = "Бытие", path = "wiki/genesis", description = "Один из главных текстов, которые принцип читает как сохраняющие закодированное прецессионно-астрономическое содержание." },
+    { title = "Еврейская Библия", path = "wiki/hebrew-bible", description = "Корпус религиозной символики, который удвоенное обращение читает ради его астрономических подписей." },
+    { title = "Космическое соревнование", path = "wiki/cosmic-competition", description = "Отдельная рамка корпуса, которую статья отграничивает от принципа удвоенной подписи." },
+    { title = "Мельница, что мелет эпохи", path = "articles/the-mill-that-grinds-the-ages", description = "Удвоенная подпись, прочитанная как контрподпись посвящённых — règle des signes opposés Сенди, — пройденная эпоха за эпохой." },
+    { title = "Тавроктония", path = "wiki/tauroctony", description = "Пара Телец — Скорпион, которую несёт скорпион в митраистском убиении быка." },
+]
 
 [extra.infobox]
-type = "Hermeneutic-interpretive principle for reading precessional-age symbolism"
-basic_observation = "Each precessional age encodes its astronomical signature in iconographic and religious form across both its current zodiacal sign and the opposite sign on the zodiacal axis"
-mechanism = "Redundant doubled invocation ensures astronomical identity survives cultural transmission across centuries"
-zodiacal_opposition_axes = "Aries-Libra; Taurus-Scorpio; Gemini-Sagittarius; Cancer-Capricorn; Leo-Aquarius; Virgo-Pisces"
-worked_cases = "Pisces-Virgo (Christianity); Aries-Libra (Mosaic period); Taurus-Scorpio (Abrahamic reconstruction); Aquarius-Leo (present age)"
-principal_antecedent = "Giorgio de Santillana and Hertha von Dechend, *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (Boston: Gambit, 1969)"
-distinguished_from = "The precessional ages framework specifically (which structures the corpus's broader chronology); the Cosmic Competition framework (which concerns multiple humanities); the precession of the equinoxes itself (the underlying astronomical phenomenon)"
-status_in_source_material = "Not present in the Raëlian source material; corpus-internal interpretive principle drawn from Hamlet's Mill and applied systematically across the corpus's twelve-age framework"
-principal_text = "Hamlet's Mill (Santillana and von Dechend, 1969); various Wheel of Heaven corpus chapters applying the principle"
-principal_framework_source = "Giorgio de Santillana and Hertha von Dechend, *Hamlet's Mill* (1969); Jean Sendy, *L'ère du Verseau* (1970)"
+type = "Герменевтико-интерпретативный принцип чтения символики прецессионных эпох"
+basic_observation = "Каждая прецессионная эпоха кодирует свою астрономическую подпись в иконографической и религиозной форме как в текущем зодиакальном знаке, так и в противоположном знаке на зодиакальной оси"
+mechanism = "Избыточное удвоенное обращение гарантирует, что астрономическая идентичность переживёт культурную передачу на протяжении веков"
+zodiacal_opposition_axes = "Овен–Весы; Телец–Скорпион; Близнецы–Стрелец; Рак–Козерог; Лев–Водолей; Дева–Рыбы"
+worked_cases = "Рыбы–Дева (христианство); Овен–Весы (период Моисея); Телец–Скорпион (авраамическая реконструкция); Водолей–Лев (нынешняя эпоха)"
+principal_antecedent = "Джорджо де Сантильяна и Херта фон Дехенд, *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (Бостон: Gambit, 1969)"
+distinguished_from = "Собственно рамка прецессионных эпох (структурирующая более широкую хронологию корпуса); рамка Космического соревнования (касающаяся множества человечеств); сама прецессия равноденствий (лежащее в основе астрономическое явление)"
+status_in_source_material = "Отсутствует в раэлианских исходных текстах; внутрикорпусный интерпретативный принцип, взятый из «Мельницы Гамлета» и систематически применяемый во всей двенадцатиэпохальной рамке корпуса"
+principal_text = "«Мельница Гамлета» (Сантильяна и фон Дехенд, 1969); различные главы корпуса Wheel of Heaven, применяющие этот принцип"
+principal_framework_source = "Джорджо де Сантильяна и Херта фон Дехенд, *Hamlet's Mill* (1969); Жан Сенди, *L'ère du Verseau* (1970)"
 +++
 
 The **Doubled Signature** is a hermeneutic principle, drawn from Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (1969) and applied systematically by the Wheel of Heaven corpus, by which {% claim(type="speculative", id="woh-claim-0044") %}each precessional age encodes its astronomical signature in iconographic and religious form across two zodiacal signs: the current sign, which marks the constellation against which the vernal equinox rises, and its opposite across the zodiacal axis, which appears at the autumnal equinox and supplies the iconographic counterweight.{% end %} Encoding the signature in *two* symbolic complexes rather than one is the principle's operative feature: the redundancy lets the astronomical identity survive centuries of transmission during which the original meaning is lost, the first observers are forgotten, and later theological elaboration obscures the astronomical content.

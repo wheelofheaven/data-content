@@ -6,27 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Raëlism"
 entry_type = "concept"
-alternative_names = ["Paradism", "paradisme (French)", "Earthly paradise (substantive Vorilhon designation)", "Paradise on Earth (substantive Vorilhon section title)", "the realized post-scarcity society", "fully-automated post-money society"]
+alternative_names = ["パラディズム", "paradisme(フランス語)", "Earthly paradise (substantive Vorilhon designation)", "Paradise on Earth (substantive Vorilhon section title)", "the realized post-scarcity society", "fully-automated post-money society"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "黄金時代", path = "wiki/golden-age", description = "パラディズムがその実際の形として読まれる、欠乏後の内容。" },
+    { title = "新しい戒め", path = "wiki/new-commandments", description = "パラディズムをその主要な構成要素とする、水瓶座の時代の計画。" },
+    { title = "ジェニオクラシー", path = "wiki/geniocracy", description = "パラディズムとともに統合される、選択的民主制の統治計画。" },
+    { title = "ヒューマニタリアニズム", path = "wiki/humanitarianism", description = "パラディズムとともに統合される、富と財産の改革計画。" },
+    { title = "サイバーパラディズム", path = "wiki/cyberparadism", description = "パラディズムの計画をデジタル・プラットフォームへと広げたもの。" },
+]
 
 [extra.infobox]
 type = "Socio-economic concept; principal New Commandments program-component articulating post-scarcity post-money society through advanced automation"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'Welcoming the Extra-Terrestrials' material, 'Society and Government' subsection; consolidated *Message from the Designers* (2005), 'Paradise on Earth' section; *timeline.epub* — substantive corpus engagement principally in Age of Aquarius chapter and Golden Age substantive content"
-core_corpus_articulation = "Post-scarcity, fully-automated, post-money society in image of the Elohim home planet; advanced automation and AI systems substituting for human menial labor; humans liberated to fulfillment, creation, intellectual exploration"
+principal_source = "*Extra-Terrestrials Took Me to Their Planet*(ヴォリロン、1975年)、「Welcoming the Extra-Terrestrials」の資料、「Society and Government」の小節。統合版 *Message from the Designers*(2005年)、「Paradise on Earth」の節。コーパスにおけるさらなる扱いは水瓶座の時代の年表の章と黄金時代の資料にある"
+core_corpus_articulation = "エロヒムの母惑星をかたどった、欠乏後・完全自動化・貨幣後の社会。高度な自動化とAIシステムが人間の単純労働を代替する。人間は自己実現、創造、知的探究へと解放される"
 principal_mechanism = "Advanced automation (biological robots, AI systems, robotic infrastructure) performing all menial labor; abundance-distribution replacing scarcity-allocation; post-money society eliminating monetary exchange"
-post_capitalism_post_communism_framing = "Paradism as third-way alternative; capitalism rejected (enslaves to money, benefits few); communism rejected (places equality above liberty); Paradism preserves liberty and differentiation while eliminating material scarcity"
-transitional_vs_realized = "Transitional Paradism preserves differentiated reward for differentiated contribution; fully-realized Paradism (fully-automated future) eliminates money entirely"
-new_commandments_integration = "Principal Aquarian-age program-component integrated with Geniocracy, Humanitarianism, Cyberparadism, World Government, Demilitarization, Science as Religion, Telepathic Cultivation, Metaphysical Clarifications"
-organizational_engagement = "Paradism organization (paradism.org) operates as spin-off political-organizational engagement parallel to Movement for Worldwide Geniocracy"
-contemporary_parallels = "Post-scarcity economics (Frase, Reich); Fully Automated Luxury Communism (Bastani); Universal Basic Income; transhumanism (Bostrom, Kurzweil); technological singularity discourse; utopian-socialist tradition (Morris, Bellamy); Star Trek Federation post-money society"
-status_in_framework = "Principal Aquarian-age program-component; operational form of Golden Age post-scarcity content; substantive third-way alternative to twentieth-century dominant economic systems"
+post_capitalism_post_communism_framing = "第三の道としてのパラディズム。資本主義は退けられる(金銭に隷属させ、少数を利する)。共産主義は退けられる(平等を自由の上に置く)。パラディズムは物質的欠乏をなくしつつ自由と差異を保つ"
+transitional_vs_realized = "過渡期のパラディズムは、異なる貢献に対する異なる報酬を保つ。完全に実現したパラディズム(完全に自動化された未来)は金銭を完全になくす"
+new_commandments_integration = "ジェニオクラシー、ヒューマニタリアニズム、サイバーパラディズム、世界政府、非武装化、宗教としての科学、テレパシーの涵養、形而上学的な明確化と統合された、水瓶座の時代の主要な計画要素"
+organizational_engagement = "パラディズム運動(paradism.org)― この教義を推進する派生的な提唱団体。世界ジニオクラシー運動とは別個で、並行して活動する"
+contemporary_parallels = "ポスト欠乏経済学(フレイズ、ライシュ)。完全自動化された豪奢な共産主義(バスターニ)。ユニバーサル・ベーシックインカム。トランスヒューマニズム(ボストロム、カーツワイル)。技術的特異点の言説。ユートピア社会主義の伝統(モリス、ベラミー)。『スタートレック』の惑星連邦の貨幣なき社会"
+status_in_framework = "水瓶座の時代の計画の主要な構成要素。黄金時代の欠乏後という内容の実務上の形態。20世紀の経済体制に対する第三の道"
 +++
 
 {% claim(type="framework", id="woh-claim-0033") %}**Paradism** is the Raëlian doctrine of a post-scarcity, fully automated, moneyless

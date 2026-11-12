@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -22,22 +22,25 @@ alternative_names = ["המבול הגדול", "המבול", "המבול של נ�
 timeline = ["gemini"]
 
 see_also = [
-    { title = "נח", path = "/wiki/noah/", description = "השורד האנושי והפטריארך שדרכו נמשכת השושלת שלאחר המבול." },
+    { title = "נוח", path = "/wiki/noah/", description = "השורד האנושי והפטריארך שדרכו נמשכת השושלת שלאחר המבול." },
     { title = "תיבת נח", path = "/wiki/noahs-ark/", description = "כלי השיט המסלולי ששימר את משפחת נח ואת הנציגים הגנטיים." },
     { title = "ברית נח", path = "/wiki/noahic-covenant/", description = "ההסדר הפוליטי שלאחר המבול שכונן בחתימת הקשת בענן." },
     { title = "הברית", path = "/wiki/the-alliance/", description = "ההסדר הפוליטי שנוסד באמצעות ברית נח." },
     { title = "לוציפר", path = "/wiki/lucifer/", description = "הסיעה שהתערבותה שימרה את נח באמצעות מבצע התיבה." },
     { title = "יהוה", path = "/wiki/yahweh/", description = "מנהיג המועצה שעל הצבעתו שלאחר המבול נשענת ההתחייבות לאי־חזרה." },
     { title = "מועצת הנצחיים", path = "/wiki/council-of-the-eternals/", description = "הגוף הפוליטי של כוכב־הבית שאישר את המתקפה." },
-    { title = "קדם־מבולי", path = "/wiki/antediluvian/", description = "התקופה הציוויליזציונית שלפני המבול שהמתקפה סיימה." },
+    { title = "טרום-מבולי", path = "/wiki/antediluvian/", description = "התקופה הציוויליזציונית שלפני המבול שהמתקפה סיימה." },
     { title = "פנגיאה", path = "/wiki/pangaea/", description = "אדמת־העל שאת התפצלותה הפיקה המתקפה." },
     { title = "עדן", path = "/wiki/eden/", description = "מעבדת הברית המקורית שאת שושלתה הרחיבה התרבות הקדם־מבולית." },
-    { title = "התנ״ך", path = "/wiki/hebrew-bible/", description = "המקור הכתבי העיקרי לסיפור המבול." },
+    { title = "המקרא העברי", path = "/wiki/hebrew-bible/", description = "המקור הכתבי העיקרי לסיפור המבול." },
     { title = "בראשית", path = "/wiki/genesis/", description = "הספר המקראי המכיל את סיפור המבול (בראשית ו'-ט')." },
+    { title = "אתרחסיס", path = "/library/atrahasis-woh/", description = "סיפור המבול הבבלי, המקביל באופן הדוק לתיאור העברי." },
+    { title = "עלילות גילגמש", path = "/library/gilgamesh-woh/", description = "תיאור המבול המסופוטמי בלוח XI." },
     { title = "סדום ועמורה", path = "/wiki/sodom-and-gomorrah/", description = "אירוע מתקפה אנלוגי מאוחר יותר שמנגנונו דומה במבנה." },
     { title = "בבל", path = "/wiki/babel/", description = "אפיזודת הפיזור הציוויליזציוני שלאחר המבול." },
     { title = "החתימה הכפולה", path = "/wiki/doubled-signature/", description = "עקרון הקורפוס שלפיו המסורת הגלובלית של המבול משמרת זיכרון היסטורי בסיסי." },
-    { title = "תיאומכיה", path = "/wiki/theomachy/", description = "מסגרת הקונפליקט הקוסמי־פוליטי הרחבה שבה פועלת המתקפה." },
+    { title = "תאומכיה", path = "/wiki/theomachy/", description = "מסגרת הקונפליקט הקוסמי־פוליטי הרחבה שבה פועלת המתקפה." },
+    { title = "הארכידיאקון והדרקון", path = "articles/the-archdeacon-and-the-dragon", description = "ההתכנסות בין וואליס לקנון סביב המבול כהחלטת מועצה." },
 ]
 
 footnotes = [

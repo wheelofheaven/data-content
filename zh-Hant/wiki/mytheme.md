@@ -6,27 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-08"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["mytheme", "mythological motif (broader usage)", "narrative element (broader usage)", "mythème (French original)", "Mythem (German)", "mitema (Italian, Spanish)"]
+alternative_names = ["mytheme", "神話母題（較廣的用法）", "敘事元素（較廣的用法）", "mythème (French original)", "Mythem (German)", "mitema (Italian, Spanish)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "比較神話學", path = "wiki/comparative-mythology", description = "神話素作為其分析工具之一的更廣泛學科研究。" },
+    { title = "神戰", path = "wiki/theomachy", description = "文集作為神話素分析的反覆出現之跨文化母題群之一。" },
+    { title = "挪亞方舟", path = "wiki/noahs-ark", description = "洪水神話素的一例,屬文集主要母題群之一。" },
+    { title = "古代宇航員假說", path = "wiki/ancient-astronaut-hypothesis", description = "文集對反覆出現之跨文化母題所偏好的歷史解釋。" },
+    { title = "分別善惡之樹", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "在神話素研究中被讀作壓縮歷史的《創世記》母題。" },
+    { title = "古代建造者", path = "wiki/ancient-builders", description = "文集跨傳統解讀之巨石與建造母題的主體。" },
+    { title = "《奧德賽》背後的世界", path = "/articles/the-world-behind-the-odyssey/", description = "一篇從《奧德賽》經安納托利亞回溯至美索不達米亞,追蹤知識傳授與王權更替神話素的解說文。" },
+    { title = "荷馬的東面", path = "/articles/the-east-face-of-homer/", description = "關於敘事形態如何流傳而英雄不隨之流傳的姊妹篇解說文——以吉爾伽美什與奧德修斯的關係作為神話素傳播的典範案例。" },
+]
 
 [extra.infobox]
-type = "Technical analytical unit in Claude Lévi-Strauss's structural-anthropological method for the study of myth; also broader popular term for recurring cross-cultural mythological motifs"
-coined_by = "Claude Lévi-Strauss (1908-2009), French structural anthropologist"
-principal_articulation = "Lévi-Strauss, 'The Structural Study of Myth' (*Journal of American Folklore*, 1955), incorporated into *Structural Anthropology* (1958); developed across *Mythologiques* (4 vols., 1964-1971)"
-linguistic_analogy = "Mytheme : myth :: phoneme : language; the mytheme is the relational unit, not the isolated content"
-principal_methodology = "Cross-variant analysis: collecting multiple variants of a myth across cultural settings, identifying the recurring relational elements (mythemes), and arranging them in columns to reveal the underlying structural relations (typically binary oppositions and their mediations)"
-canonical_example = "The Oedipus myth analyzed in 'The Structural Study of Myth' through four columns: (1) overrated kinship relations; (2) underrated kinship relations; (3) denial of the autochthonous origin of man; (4) persistence of the autochthonous origin of man"
-broader_popular_usage = "Any recurring narrative element — motif, character type, narrative pattern — appearing across multiple cultures; substantially interchangeable with 'mythological motif' in this usage"
-corpus_position = "Engages both strict Lévi-Straussian sense and broader popular sense; corpus's methodological commitment is to cross-cultural pattern recognition rather than to any single methodological school; the mytheme concept is one tool among several within the broader Comparative Mythology engagement"
-distinguished_from = "Motif (the broader Stith Thompson cataloguing concept); tale-type (the Aarne-Thompson-Uther narrative-type concept); archetype (the Jungian psychological-pattern concept); narrative function (the Proppian narrative-structural concept); narreme (Eugene Dorfman's parallel narratological concept)"
-status_in_framework = "Methodological technical term within the broader Comparative Mythology engagement; cross-referenced to the [Comparative Mythology](../comparative-mythology/) entry for the broader disciplinary engagement"
+type = "克勞德·李維史陀研究神話之結構人類學方法中的技術分析單位；亦為跨文化反覆出現之神話母題的更廣泛通俗用語"
+coined_by = "克勞德·李維史陀（1908–2009），法國結構人類學家"
+principal_articulation = "李維史陀，〈神話的結構研究〉（*Journal of American Folklore*，1955），收入 *Structural Anthropology*（1958）；在 *Mythologiques*（4 卷，1964–1971）中加以發展"
+linguistic_analogy = "神話素 : 神話 :: 音素 : 語言；神話素是關係單位，而非孤立的內容"
+principal_methodology = "跨異文分析：蒐集一則神話在不同文化背景中的多個異文，辨識反覆出現的關係元素（神話素），並將其排成欄位，以揭示底層的結構關係（通常是二元對立及其中介）"
+canonical_example = "〈神話的結構研究〉以四欄分析伊底帕斯神話：（1）被高估的親屬關係；（2）被低估的親屬關係；（3）否定人類源自土地；（4）人類源自土地之說的延續"
+broader_popular_usage = "任何在多種文化中出現的反覆敘事元素——母題、角色類型、敘事模式；在此用法中與「神話母題」大致可互換"
+corpus_position = "兼顧嚴格的李維史陀意義與更廣的通俗意義；本文集的方法論立場是跨文化模式辨識，而非任何單一方法學派；神話素概念是更廣比較神話學研究中的數種工具之一"
+distinguished_from = "母題（斯蒂斯·湯普森更廣的編目概念）；故事類型（阿爾奈—湯普森—烏瑟的敘事類型概念）；原型（榮格的心理模式概念）；敘事功能（普羅普的敘事結構概念）；敘事素（narreme，尤金·多夫曼的平行敘事學概念）"
+status_in_framework = "更廣比較神話學研究中的方法論技術術語；更廣的學科研究見[比較神話學](../comparative-mythology/)條目"
 +++
 
 **Mytheme** is, in its strict technical sense, the principal analytical unit of **Claude Lévi-Strauss**'s structural-anthropological method for the study of myth. Lévi-Strauss articulated the concept principally in "The Structural Study of Myth" (*Journal of American Folklore*, 1955; subsequently incorporated as chapter eleven of *Structural Anthropology*, 1958) and developed it across the four-volume *Mythologiques* (1964-1971).

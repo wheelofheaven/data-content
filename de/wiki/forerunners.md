@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,15 +15,25 @@ category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["Forerunners", "Forerunner", "prodromos (Greek πρόδρομος, 'one who runs ahead')", "preparator", "way-preparer", "the messenger before"]
 timeline = ["age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "Raël", path = "wiki/rael", description = "Die eröffnende Gestalt des Wassermann-Zeitalters, deren Aufnahme die Vorläufer des späten Fische-Zeitalters vorbereiteten." },
+    { title = "Prophet", path = "wiki/prophet", description = "Die umfassendere Kategorie, innerhalb derer die Vorläufer als vorbereitende Untergruppe wirken." },
+    { title = "Elija", path = "wiki/elijah", description = "Der Vorläufer der Hebräischen Bibel, dessen verheißene Wiederkehr auf Johannes den Täufer bezogen wurde." },
+    { title = "Kosmische Kette", path = "wiki/cosmic-chain", description = "Der Eintrag, zu dem der Inhalt über die Schöpfer vor den Elohim gehört, getrennt von den Vorläufern gehalten." },
+    { title = "Apokalypse", path = "wiki/apocalypse", description = "Die Offenbarungsphase des Wassermann-Zeitalters, auf die die vorbereitenden Missionen hinweisen." },
+    { title = "Botschaft", path = "wiki/embassy", description = "Das Ziel des Allianzkontakts, dem die kulturelle Vorbereitung durch die Vorläufer letztlich dient." },
+    { title = "Die Signatur und die Designer", path = "/articles/the-signature-and-the-designers/", description = "Die Kette der Schöpfer ohne erstes Glied, gelesen als Antwort des Kanons auf den Regress, für den sowohl Dawkins als auch Meyer einen Grund verlangen." },
+    { title = "Die vierzig Stühle", path = "articles/the-forty-chairs", description = "Die kriteriengeleitete Erhebung der etwa vierzig Vertreter, die zu Tisch saßen, und die Grenzfälle, die sie zur Prüfung vormerkt." }
+]
 
 [extra.infobox]
 type = "Functional category within broader Prophet framework; figures whose missions prepare way for subsequent alliance-contact missions"
-principal_source = "Inherited from biblical-traditional usage; corpus engagement principally through specific figure-engagement (John the Baptist, Bab, Joseph Smith, late-Piscean contactees) rather than dedicated doctrinal articulation; substantive corpus contextualization in *timeline.epub* late-Piscean preparation content"
-biblical_grounding = "Malachi 3:1 ('Behold, I will send my messenger, and he shall prepare the way before me'); Isaiah 40:3 ('The voice of him that crieth in the wilderness, Prepare ye the way of Yahweh'); Malachi 4:5-6 (Elijah's return before the day of Yahweh); Mark 1:2-3, Matthew 3:1-3, Luke 3:1-6, John 1:6-8, 19-28 (John the Baptist as Forerunner of Jesus)"
-core_corpus_articulation = "Functional category designating figures whose missions prepare humanity for subsequent alliance-contact missions; preparatory rather than inaugural function; distinguished from age-inaugural prophets (Moses, Jesus, Vorilhon) by specific preparation-of-the-way role"
-principal_forerunners = "John the Baptist (Forerunner of Jesus); Bab (explicit Forerunner of Baha'u'llah); Elijah (Hebrew Bible Forerunner tradition); Joseph Smith, Bab, Baha'u'llah as late-Piscean Forerunners of Aquarian-age Vorilhon revelation; twentieth-century UFO contactee tradition"
-aquarian_age_preparation_focus = "Nineteenth-and-twentieth-century cultural-conceptual preparation producing matrix within which December 13, 1973 Vorilhon contact could be received: late-Piscean alliance-contact prophets (Joseph Smith, Bab, Baha'u'llah); Theosophical Society and broader esoteric tradition (Helena Blavatsky, others); twentieth-century UFO contactees (Adamski, Van Tassel, Menger, Fry, others); broader cultural matrix"
-distinguished_from = "Age-inaugural prophets (Moses, Jesus, Vorilhon as inaugurators of Aries, Pisces, Aquarius respectively); v1 conflation with pre-Elohim creator civilization (treated in Cosmic Chain entry); Mormon usage 'Forerunners' as designation for pre-mortal existence (distinct theological usage)"
+principal_source = "Aus dem biblischen Sprachgebrauch übernommen, nicht im raëlianischen Kanon benannt; der Korpus behandelt die Kategorie über bestimmte Gestalten (Johannes der Täufer, der Bab, Elia, das Babi- und Bahá'í-Material des 19. Jahrhunderts) und über das Timeline-Material zur spätpiscäischen Vorbereitung auf den Kontakt des Wassermann-Zeitalters"
+biblical_grounding = "Maleachi 3,1 („Siehe, ich sende meinen Boten, der vor mir her den Weg bereiten soll“); Jesaja 40,3 („Eine Stimme ruft in der Wüste: Bereitet den Weg Jahwes“); Maleachi 3,23–24 (Elias Wiederkehr vor dem Tag Jahwes); Markus 1,2–3, Matthäus 3,1–3, Lukas 3,1–6, Johannes 1,6–8 und 1,19–28 (Johannes der Täufer als Vorläufer Jesu)"
+core_corpus_articulation = "Vorbereitende, nicht eröffnende Propheten; sie schaffen die kulturellen Bedingungen, unter denen eine spätere, ein Zeitalter eröffnende Mission aufgenommen werden kann, so wie Johannes der Täufer das Judäa des ersten Jahrhunderts auf Jesus vorbereitete"
+principal_forerunners = "Johannes der Täufer (Vorläufer Jesu); der Bab (selbsternannter Vorläufer Bahá'u'lláhs); Elia (Vorläufertradition der Hebräischen Bibel)"
+aquarian_age_preparation_focus = "Die Vorarbeit des 19. und 20. Jahrhunderts, die der Korpus als Vorbereitung auf den berichteten Kontakt im Dezember 1973 liest: die religiösen Gründer des 19. Jahrhunderts, gelesen als Vergleichsmaterial; die theosophische und esoterische Wiederbelebung (Blavatsky und ihre Nachfolger); die Kontaktler-Tradition der Jahrhundertmitte (Adamski, Van Tassel, Menger, Fry); und das weitere Umfeld aus Science-Fiction, Wettlauf ins All und Gegenkultur der 1960er-Jahre"
+distinguished_from = "Ein Zeitalter eröffnende Propheten (Mose, Jesus, Raël); die Schöpferzivilisation vor den Elohim (behandelt im Eintrag Kosmische Kette); der Gebrauch von „Vorläufer“ bei den Heiligen der Letzten Tage für Gestalten der vorirdischen Existenz"
 status_in_framework = "Functional sub-category within Prophet framework; recurring structural pattern across alliance-cultivation history; principal Aquarian-age content concerns nineteenth-and-twentieth-century preparation"
 +++
 

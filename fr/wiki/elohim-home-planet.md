@@ -6,9 +6,9 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
-translation_stale = true
+translation_stale = false
 translation_sync = 100
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-home-planet-v1.avif"
@@ -17,23 +17,32 @@ image_caption = "Le monde d’origine des Élohim tel que le décrit la source :
 editorial_pass = "2026-05"
 category = "Elohim"
 entry_type = "place"
-alternative_names = ["Elohim Home Planet", "the home planet", "the planet of the Elohim", "the planet of the creators", "the planet of the Eternals (per single-planet reading)", "the other world", "the Mormon Kolob (per Tvedtnes hypothesis)"]
+alternative_names = ["Planète d'origine des Élohim", "la planète d'origine", "la planète des Élohim", "la planète des créateurs", "la planète des Éternels (selon la lecture d'une planète unique)", "l'autre monde", "Kolob, chez les mormons (selon l'hypothèse de Tvedtnes)"]
 timeline = ["age-of-capricorn", "age-of-aquarius"]
+see_also = [
+    { title = "Conseil des Éternels", path = "wiki/council-of-the-eternals", description = "L'organe directeur siégeant sur la planète d'origine dans la description des sources." },
+    { title = "Yahvé", path = "wiki/yahweh", description = "Président des Éternels et premier immortel de la planète d'origine." },
+    { title = "Hypothèse des anciens astronautes", path = "wiki/ancient-astronaut-hypothesis", description = "Le cadre plus large dans lequel se situe une planète d'origine créatrice extrasolaire." },
+    { title = "Kabbale", path = "wiki/kabbalah", description = "La tradition dont dérivent les mesures de distance en parasanges de la planète d'origine." },
+    { title = "Chaîne cosmique", path = "wiki/cosmic-chain", description = "La lignée emboîtée de créateurs et de créés dont la planète d'origine est un maillon." },
+    { title = "Précurseurs", path = "wiki/forerunners", description = "La civilisation antérieure qui ensemença la lignée des Élohim, avant la planète d'origine." },
+    { title = "Six matins, six ans", path = "articles/six-mornings-six-years", description = "Établit, à partir de l'itinéraire, que le voyage de 1975 n'atteint jamais ce monde." },
+]
 
 [extra.infobox]
-type = "Extrasolar planet; political-civilizational center of the Elohim alliance that conducted the genetic-engineering project producing terrestrial life"
+type = "Planète extrasolaire ; centre politique et civilisationnel des Élohim, la civilisation dont le cadre lit qu'elle a conçu la vie terrestre"
 principal_source = "Claude Vorilhon, *Message from the Designers* (Tagman Press, 2005), consolidating *Le Livre qui dit la vérité* (1974), *Les Extra-terrestres m'ont emmené sur leur planète* (1975), and *Accueillir les extra-terrestres* (1979)"
 location_from_home_star = "236,000 parasangs (~70.8 billion kilometers); home star substantially larger than the Sun"
-location_from_earth = "30,000,000 parasangs (~9 trillion kilometers, approximately 1 light-year); subject to the substantial astronomical-inconsistency objection the source itself addresses through deliberate-obfuscation and variable-lightspeed cosmology"
-parasang_unit = "Source-redefined unit: distance light travels in one second (~300,000 kilometers); etymologically borrowed from ancient Persian linear-distance unit but redefined as celestial-distance unit in the source's vocabulary"
+location_from_earth = "30 000 000 de parasanges (~9 000 milliards de km, environ une année-lumière) — un chiffre en conflit avec les distances stellaires connues, que la source explique par une obfuscation délibérée et par une cosmologie à vitesse de la lumière variable"
+parasang_unit = "Une unité que la source redéfinit comme la distance parcourue par la lumière en une seconde (~300 000 km) ; le mot est emprunté à une ancienne mesure perse des distances routières"
 environment = "Mild temperature; lush vegetation with exotic flora; azure seas; agricultural-ecological character described as paradisal"
 civilization = "~7 billion inhabitants; seven provinces; official language closely resembling ancient Hebrew"
-council_of_eternals = "~700 Elohim members + ~8,400 resurrected humans from Earth; presided by Yahweh (first individual successfully cloned-and-memory-transferred ~25,000 years ago)"
+council_of_eternals = "~700 membres Élohim plus ~8 400 humains ressuscités, présidés par Yahvé (le premier individu cloné et ayant bénéficié d'un transfert de mémoire, il y a ~25 000 ans)"
 economy = "Post-scarcity; atom-based energy; biological robots performing mechanical labor; intellectual-creative activity as principal human pursuit"
 travel_technology = "Atom-based propulsion at 7× lightspeed at time of Vorilhon contact (1973-1975); journey to Earth ~2 months; subsequent technological advance to substantially shorter journey times"
-relationship_to_planet_of_eternals = "Source content allows two readings: single-planet identification (the home planet IS the Planet of the Eternals) or two-planet system (the Planet of the Eternals is a second smaller planet in the same stellar system); the corpus registers both readings as compatible with the source material"
-distinguished_from = "The intergalactic ship near Earth (Elohim operational base with seven Elohim representatives plus two ship-responsible Elohim); Earth-based Elohim installations (the Andean, Himalayan, Greek, and other regional bases); Mormon Kolob (which may or may not refer to the same entity, per the Tvedtnes hypothesis)"
-status_in_framework = "Principal extraterrestrial location in the corpus framework; the political-civilizational center of the alliance that conducts the Earth project; the residence of the Council of the Eternals; the destination for the resurrected prophets and qualifying humans"
+relationship_to_planet_of_eternals = "La source autorise deux lectures : la planète d'origine EST la Planète des Éternels (une seule planète), ou la Planète des Éternels est un second monde, plus petit, dans le même système (deux planètes). Le cadre considère les deux comme compatibles avec la source."
+distinguished_from = "Le vaisseau intergalactique stationné près de la Terre (neuf membres d'équipage : sept représentants provinciaux plus deux officiers du vaisseau) ; les installations terrestres des Élohim (andine, himalayenne, grecque et autres) ; le Kolob mormon, que le corpus n'identifie pas à l'étoile des Élohim"
+status_in_framework = "Le principal lieu extraterrestre du cadre : le siège du Conseil des Éternels et la demeure des prophètes ressuscités, ainsi que le centre politique de la civilisation qui dirige le projet terrestre"
 +++
 
 **The Elohim Home Planet** is, in the Wheel of Heaven framework, the extrasolar

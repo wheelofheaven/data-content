@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -26,6 +26,8 @@ see_also = [
     { title = "Яхве", path = "wiki/yahweh", description = "Лидер команды Израиля, вынесший приговор после раскрытия." },
     { title = "Сатана", path = "wiki/satan", description = "Отдельная фигура Элохим — политически противоположная Змею/Люциферу, смешанная с ним лишь в позднейшей традиции." },
     { title = "Древо жизни", path = "wiki/tree-of-life", description = "Технология продлевания жизни, охраняемая после изгнания." },
+    { title = "Архидиакон и дракон", path = "articles/the-archdeacon-and-the-dragon", description = "Таксономия четырёх фигур — Змей, Люцифер, Сатана, Яхве — построена в противовес прочтению этой статьи об инакомыслящей фракции." },
+    { title = "Кривая дракона", path = "articles/the-dragon-curve", description = "Статья, задающая — как помеченную догадку — вопрос, не помнят ли фракцию, запомнившуюся как Змей, также за работу с драконами." },
 ]
 
 footnotes = [

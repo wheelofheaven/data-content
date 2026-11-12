@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -26,6 +26,8 @@ see_also = [
     { title = "Yahvé", path = "wiki/yahweh", description = "El líder del equipo de Israel que pronunció el veredicto posterior a la revelación." },
     { title = "Satán", path = "wiki/satan", description = "Una figura Elohim separada —políticamente opuesta a la Serpiente/Lucifer, confundida con ella sólo en la tradición posterior." },
     { title = "Árbol de la Vida", path = "wiki/tree-of-life", description = "La tecnología de longevidad custodiada tras la expulsión." },
+    { title = "El arcediano y el dragón", path = "articles/the-archdeacon-and-the-dragon", description = "La taxonomía de cuatro figuras Serpiente/Lucifer/Satán/Yahvé se construye frente a la lectura de la facción disidente de esta entrada." },
+    { title = "La curva del dragón", path = "articles/the-dragon-curve", description = "El Explicativo que se pregunta, como conjetura señalada, si la facción recordada como la Serpiente es también recordada por la obra de los dragones." },
 ]
 
 footnotes = [

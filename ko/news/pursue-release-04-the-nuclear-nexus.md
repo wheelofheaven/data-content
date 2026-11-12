@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -18,7 +18,7 @@ claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "제3차 공개로부터 4주 후, 미국 전쟁부는 war.gov/UFO에 제4차 공개를 게시했습니다. 전쟁부, NASA, CIA, FBI, 그리고 최초로 에너지부에서 가져온 40건의 파일 — 14건의 문서, 19편의 영상, 4건의 음성 녹음, 그리고 3건의 이미지입니다. 두 건의 표제급 파일은 하나의 주제를 공유합니다. 바로 핵무기 시설입니다. 새로 기밀 해제된 회의록은 맨해튼 프로젝트의 물리학자들 — 그중에는 에드워드 텔러, 노리스 브래드버리, 유성 전문가 링컨 라파즈가 있습니다 — 이 실험실 상공에서 목격된 「녹색 화구」를 설명하려다 실패한 1949년 로스앨러모스 회의를 기록하고 있으며, 에너지부 파일은 2015년 9월 텍사스주 애머릴로 인근 팬텍스 핵무기 공장 상공의 영공 침입 사건을 문서화합니다. 본 코퍼스는 제4차 공개를 징후가 아니라 캐논을 읽기 위한 맥락으로 기록합니다 — 그 핵이라는 주제도 마찬가지입니다. 그 주제는 캐논이 현 시대의 시작으로 다루는 1945년의 원자력 문턱에 닿아 있지만, 그것에 관한 증거는 아닙니다."
 filed_under = "현재의 맥락"
-cross_reference = "Age of Aquarius, §III and §IX"
+cross_reference = "물병자리 시대, §III 및 §IX"
 canon_links = [
     { title = "물병자리 시대", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

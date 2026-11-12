@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -24,6 +24,14 @@ entry_type = "place"
 claim_type = "speculative"
 timeline = ["pisces"]
 alternative_names = ["Πέτρα (그리스어 '바위')", "רקמו (나바테아어 Raqmū)", "רֶקֶם (히브리어 Reqem)", "Rekem", "Raqēmō", "ٱلْبَتْرَاء (아랍어 al-Batrāʾ)", "Sela (성경의 '바위')", "식민지들의 어머니", "협곡의 레켐"]
+see_also = [
+    { title = "나바테아인", path = "wiki/nabataeans", description = "페트라를 바위를 깎은 수도로 삼았던 아랍 왕국." },
+    { title = "하니피야", path = "wiki/hanafiyya", description = "가설이 그 지리를 페트라로 옮겨 놓는 아브라함의 종교." },
+    { title = "무함마드", path = "wiki/muhammad", description = "키블라 방향 논증이 그의 초기 공동체를 페트라 쪽으로 다시 향하게 하는 예언자." },
+    { title = "아브라함", path = "wiki/abraham", description = "코퍼스가 초기 이슬람이 되살린 것으로 읽는, 복원된 종교의 족장." },
+    { title = "신들의 다수성", path = "wiki/plurality-of-gods", description = "아브라함적 독해 이전에 페트라가 모셨던 나바테아의 이교 만신전." },
+    { title = "창세기", path = "wiki/genesis", description = "페트라 가설이 그것에 맞대어 읽히는 성경 속 아브라함의 배경." },
+]
 
 [extra.infobox]
 type = "암각 나바테아 대상 수도; 유네스코 세계유산; 페트라-원(原)메카 가설의 지리적 중심"

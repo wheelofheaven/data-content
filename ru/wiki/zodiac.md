@@ -6,29 +6,40 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the zodiac belt", "the zodiacal circle", "*zōidiakos kyklos* (Greek: ζῳδιακὸς κύκλος, 'circle of small figures')", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "the celestial circle", "the wheel of heaven (in older usage)", "the twelve houses (in astrological usage)"]
+alternative_names = ["зодиакальный пояс", "зодиакальный круг", "*zōidiakos kyklos* (греч. ζῳδιακὸς κύκλος, «круг малых фигур»)", "*Mazzaroth* (ивр. מַזָּרוֹת)", "небесный круг", "небесное колесо (в старом употреблении)", "двенадцать домов (в астрологическом употреблении)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Эпоха мира", path = "wiki/world-age", description = "Прецессионная эпоха, которую отмечает каждый сегмент зодиака в календаре рамки." },
+    { title = "Удвоенная подпись", path = "wiki/doubled-signature", description = "Принцип, порождаемый шестью осями парных противоположений зодиака." },
+    { title = "Мельница Гамлета", path = "wiki/hamlets-mill", description = "Научная опора для межкультурного прочтения зодиакально-прецессионного кодирования." },
+    { title = "Космическая Цепь", path = "wiki/cosmic-chain", description = "Более широкая хронологическая рамка, которую структурирует зодиакальный календарь." },
+    { title = "Еврейская Библия", path = "wiki/hebrew-bible", description = "Традиция, содержание о Маззарот которой корпус читает через зодиакальную рамку." },
+    { title = "Жан Сенди", path = "wiki/jean-sendy", description = "Автор, чьё прочтение «зодиакальной религии» предшествует прецессионной трактовке корпуса." },
+    { title = "Мельница, что мелет эпохи", path = "articles/the-mill-that-grinds-the-ages", description = "Зодиак как двенадцать часов Великого Года, каждая эпоха которого названа по созвездию равноденствия." },
+    { title = "Маззарот", path = "wiki/mazzaroth", description = "Еврейское название зодиака — Маззарот из Иова 38 и его потомки-маззалот." },
+    { title = "Тавроктония", path = "wiki/tauroctony", description = "Митраистское убиение быка, прочитанное как звёздная карта эпохи Тельца." },
+]
 
 [extra.infobox]
-type = "Structural-foundational concept; the principal observational-symbolic framework underlying the precessional age system"
-definition = "The band of sky extending approximately 8° on either side of the ecliptic, divided into twelve constellational regions named after small figures (animal, human, and inanimate) traversed by the sun, moon, and planets in their apparent celestial motion"
-the_twelve_signs = "Aries (the Ram), Taurus (the Bull), Gemini (the Twins), Cancer (the Crab), Leo (the Lion), Virgo (the Virgin), Libra (the Scales), Scorpio (the Scorpion), Sagittarius (the Archer), Capricorn (the Sea-Goat), Aquarius (the Water-Bearer), Pisces (the Fishes)"
-six_paired_oppositions = "Aries↔Libra, Taurus↔Scorpio, Gemini↔Sagittarius, Cancer↔Capricorn, Leo↔Aquarius, Virgo↔Pisces — six axes producing the doubled-signature principle"
-ecliptic_basis = "The ecliptic — the apparent annual path of the sun against the stellar background, produced by Earth's orbital motion around the sun, inclined approximately 23.44° to the celestial equator"
-constellational_basis = "The twelve constellations occupy varying angular extents along the ecliptic (modern IAU boundaries; idealized 30°-per-sign in classical astrological usage); the constellations are not equal in size — Virgo is the largest, Capricorn among the smallest"
-mechanism_of_precessional_relevance = "The vernal equinox precesses backward (westward) through the zodiac at approximately one constellation per 2,160 years, producing the precessional age sequence (Capricorn → Sagittarius → Scorpio → ... → Pisces → Aquarius → back to Capricorn)"
-framework_reading = "The zodiac as the alliance's engineering tool — the long-duration calendrical framework devised by the Elohim for their interstellar biotech program, with the zodiacal names and the paired-opposition structure operating as functional engineering features rather than mystical-aesthetic conventions"
-zodiacal_names_origin = "On the corpus's reading: the Elohim's own conceptual shorthand for the twelve ecliptic segments, inherited by human civilizations through cultural transmission across the post-flood ages; later human civilizations modified the figures while preserving the underlying twelve-fold structure"
-distinguished_from = "Mainstream astrology's tropical zodiac (signs tied to seasonal positions rather than actual constellational positions, decoupled from precessional motion); the various cross-cultural zodiacal-equivalent traditions (Chinese twelve-animal cycle, Indian nakshatra system, Mesoamerican calendrical traditions) which preserve substantive parallel content within distinctive cultural framings; the broader astronomical constellational framework (the 88 IAU-defined constellations of which the twelve zodiacal constellations are a subset)"
-status_in_framework = "Foundational; the zodiac operates as the principal observational-symbolic complement to the World Age temporal framework, with the two together constituting the corpus's principal cosmic-chronological architecture"
-principal_corpus_treatment = "*timeline.epub*, particularly the Libra chapter's Section VI.2 ('The Zodiacal Framework as Engineering Tool'); Jean Sendy, *L'ère du Verseau* (1970), with substantial systematic engagement with Moses's use of zodiacal symbolism (the *religion zodiacale* framework)"
+type = "Полоса созвездий вдоль эклиптики; наблюдательная основа прецессионных Эпох мира"
+definition = "Полоса неба шириной примерно 8° по обе стороны от эклиптики, разделённая на двенадцать областей-созвездий, названных по небольшим фигурам (животным, людям и предметам), через которые проходят Солнце, Луна и планеты в своём видимом небесном движении"
+the_twelve_signs = "Овен (баран), Телец (бык), Близнецы, Рак, Лев, Дева, Весы, Скорпион, Стрелец (лучник), Козерог (морской козёл), Водолей (водонос), Рыбы"
+six_paired_oppositions = "Овен↔Весы, Телец↔Скорпион, Близнецы↔Стрелец, Рак↔Козерог, Лев↔Водолей, Дева↔Рыбы — шесть осей, порождающих принцип удвоенной подписи"
+ecliptic_basis = "Эклиптика — видимый годовой путь Солнца на фоне звёзд, обусловленный орбитальным движением Земли вокруг Солнца и наклонённый примерно на 23,44° к небесному экватору"
+constellational_basis = "Двенадцать созвездий занимают вдоль эклиптики разную угловую протяжённость (современные границы МАС; идеализированные 30° на знак в классической астрологии); созвездия не равны по величине — Дева самое большое, Рак самое маленькое"
+mechanism_of_precessional_relevance = "Точка весеннего равноденствия прецессирует назад (на запад) по зодиаку со скоростью примерно одно созвездие за 2160 лет, порождая последовательность прецессионных эпох (Козерог → Стрелец → Скорпион → ... → Рыбы → Водолей → снова Козерог)"
+framework_reading = "Зодиак как инженерный инструмент Элохим — долговременный календарь, созданный для их проекта на Земле; его названия и структура парных противостояний — функциональные черты, а не мистические условности"
+zodiacal_names_origin = "В прочтении корпуса — собственное краткое обозначение Элохим для двенадцати сегментов эклиптики, унаследованное человеческими цивилизациями через послепотопную культурную передачу и видоизменённое при сохранении двенадцатичастной структуры"
+distinguished_from = "Тропический зодиак общепринятой астрологии (знаки привязаны к сезонным положениям, а не к реальным созвездиям, и не связаны с прецессией); межкультурные аналоги зодиака (китайский двенадцатилетний цикл животных, индийская система накшатр, мезоамериканские календарные традиции), несущие параллельное содержание в собственных рамках; более широкий набор астрономических созвездий (88 созвездий МАС, подмножеством которых являются двенадцать зодиакальных)"
+status_in_framework = "Основополагающее; зодиак — наблюдательно-символическое дополнение хронологии Эпох мира, вместе они образуют космохронологическую архитектуру корпуса"
+principal_corpus_treatment = "*timeline.epub*, в особенности раздел «Зодиакальная рамка как инженерный инструмент» в главе о Весах; Жан Сенди, *L'ère du Verseau* (1970), об использовании Моисеем зодиакальной символики (*religion zodiacale*)"
 +++
 
 The **Zodiac** (Greek: ζῳδιακὸς κύκλος, *zōidiakos kyklos*, "circle of small

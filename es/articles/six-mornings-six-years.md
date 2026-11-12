@@ -7,8 +7,8 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
-source_updated = "2026-11-01"
+translation_updated = "2026-11-12"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -699,7 +699,7 @@ transferencia de memoria que el libro 1 refiere como pedagogía de los Elohim
 —y cita con aprobación a partir de experimentos terrestres con ratas
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=62) %}TBWTT 7:61–62{% end %})—
 cabalgaban un programa de investigación que se desmoronó en menos de una
-década. El planeta natal «a poco menos de un año luz» queda dentro de un
+década. El planeta natal «a poco menos de un año luz» ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=52) %}TBWTT 5:52{% end %}) queda dentro de un
 espacio vacío según todos los sondeos posteriores; el tercer libro sale al
 paso de la objeción con una hipótesis aportada por un miembro, y no con una
 revelación, acerca de una luz que se mueve en «una curva pronunciada»

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,6 +16,18 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Revelation", "ἀποκάλυψις", "Age of Apocalypse", "Age of Revelation"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "מקרוביולוגיה", path = "wiki/macrobiology", description = "הביולוגיה של האנושות כאורגניזם, שבה 1945 מסמנת את רגע הפעלתה של מערכת העצבים הפלנטרית." },
+    { title = "תור הזהב", path = "wiki/golden-age", description = "התוצאה הציוויליזציונית שהאפוקליפסה פותחת אליה לאחר שהמעבר נצלח." },
+    { title = "נביא", path = "wiki/prophet", description = "המסורת שהאפוקליפסה מביאה את מפעלה המצטבר לשיאו." },
+    { title = "השגרירות", path = "wiki/embassy", description = "השיבה הגלויה המתוכננת, שהופכת אפשרית מבחינה מעשית בתקופה זו." },
+    { title = "אלוהים", path = "wiki/elohim", description = "הברית שתוכנה נעשה זמין להערכה ישירה באפוקליפסה." },
+    { title = "ראל", path = "wiki/rael", description = "הנביא שדרכו נמסר תוכן המסגרת של האפוקליפסה." },
+    { title = "המגילות שהתעוררו בשנה הראשונה", path = "articles/the-scrolls-that-woke-in-year-one", description = "מגילות ים המלח צצו בשנה הראשונה של לוח העידן — החשיפה נקראת לצד תגלית כתבי היד." },
+    { title = "נחתמו עד השנה הראשונה", path = "articles/unsealed-in-year-one", description = "הקריאה המשלימה של אותה תגלית — ספרו החתום של דניאל נפתח, ומה שתוכן המגילות אומר לעידן." },
+    { title = "צורתה של האנושות", path = "articles/the-shape-of-humanity", description = "המאמר הקורא את 1945 כרגע שבו הופעלה מערכת העצבים של האורגניזם הפלנטרי, יחד עם הכוח להשמיד את עצמו." },
+    { title = "קרל יונג", path = "wiki/carl-jung", description = "ספרו של יונג Aion וקריאת שני הדגים של עידן הדגים המסתיים כעת." },
+]
 +++
 
 **Apocalypse** (Greek: *ἀποκάλυψις*, *apokalypsis*) is, in its plain Greek meaning, an *uncovering* or *unveiling* — the disclosure of what was previously concealed. The English word entered medieval and early-modern usage through the Latin *apocalypsis* and the Vulgate's title for the New Testament's Book of Revelation (*Apocalypsis Iohannis*, "the Unveiling of John"). Across the medieval and early-modern centuries, the term acquired a secondary set of connotations — catastrophic destruction, end-of-the-world judgment, eschatological cataclysm — that the original Greek does not carry and that have come to dominate popular English usage. The two senses are now substantially distinct in contemporary English: the popular *apocalypse* names a destructive end; the technical *apocalypse* names a revelation of hidden truth.

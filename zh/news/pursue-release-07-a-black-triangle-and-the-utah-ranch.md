@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ core_claim_ids = ["woh-claim-0057"]
 core_versions = { woh-claim-0057 = "0.1.0" }
 editorial_pass = "2026-05"
 summary = "在第六批公布五周之后,美国战争部于 war.gov/UFO 发布了 PURSUE 第七批:28份文档,别无他物——没有视频、没有录音、没有图像——这是迄今规模最小的一批,也是第一批完全由纸质文件构成的批次。其中25份来自战争部自身,1份来自联邦调查局,1份来自总统行政办公室,另有1份带有新的「U.S. Government」(美国政府)前缀。头条档案时间很近:全域异常解决办公室对数名联邦探员的问询记录——2026年6月,他们在美国西部一处敏感地点看到一个哑光黑色三角形物体无声地升起于山脊之上,悬停,随后俯冲进一道峡谷——在事发四个月后即告公布,而联邦调查局的一份访谈记录在持续时间、尺寸与热信号上与之相左。其后是2008—2010年间承办国防情报局 AAWSAP 计划的承包商的运营记录:其取得回收硬件与生物样本的计划、一座为存放这些物品而设计的地下库房、一次赴巴西的派遣、一个收录234,364份目击报告的数据仓库,以及其对犹他州一处牧场的调查——那里的「Skinwalker」毛发样本,检测结果是证人自家的狗。一份1962—1964年的白宫档案显示,政府曾为自太空坠落的物体起草处置程序,由 NASA 充当公众形象,由国防部负责分析。本项目将第七批登记为解读正典的背景,而非回归的征兆。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "当下的背景"
+cross_reference = "水瓶座时代，§IX"
 canon_links = [
     { title = "水瓶座时代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

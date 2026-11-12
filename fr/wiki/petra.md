@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -23,6 +23,14 @@ editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "speculative"
 timeline = ["pisces"]
+see_also = [
+    { title = "Nabatéens", path = "wiki/nabataeans", description = "Le royaume arabe dont Pétra était la capitale taillée dans le roc." },
+    { title = "Hanafiyya", path = "wiki/hanafiyya", description = "La religion d'Abraham dont l'hypothèse déplace la géographie à Pétra." },
+    { title = "Mahomet", path = "wiki/muhammad", description = "Le prophète dont l'argument de l'orientation de la qibla réoriente la première communauté vers Pétra." },
+    { title = "Abraham", path = "wiki/abraham", description = "Le patriarche dont le corpus lit l'islam primitif comme ravivant la religion restaurée." },
+    { title = "Pluralité des dieux", path = "wiki/plurality-of-gods", description = "Le panthéon païen nabatéen qu'abritait Pétra avant sa lecture abrahamique." },
+    { title = "Genèse", path = "wiki/genesis", description = "L'arrière-plan scripturaire abrahamique sur lequel se lit l'hypothèse de Pétra." },
+]
 alternative_names = ["Πέτρα (grec « rocher »)", "רקמו (nabatéen Raqmū)", "רֶקֶם (hébreu Reqem)", "Rekem", "Raqēmō", "ٱلْبَتْرَاء (arabe al-Batrāʾ)", "Sela (« rocher » biblique)", "Mère des Colonies", "Reqem des Gorges"]
 
 [extra.infobox]

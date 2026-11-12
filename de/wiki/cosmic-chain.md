@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -20,12 +20,13 @@ claim_type = "framework"
 alternative_names = ["die kosmische Kette", "die Kette der Schöpfung", "die kosmische Kette der Schöpfung", "der wiederkehrende kosmische Prozess", "der kosmische schöpferische Zyklus", "der Zyklus der Schöpfer"]
 timeline = ["pre-creation", "aries", "pisces", "aquarius", "post-aquarius"]
 see_also = [
+    { title = "Makrobiologie", path = "wiki/macrobiology", description = "Die Menschheit, gelesen als Organismus eine Größenordnung höher, der sich entlang der Kette geschaffener und schaffender Zivilisationen fortpflanzt." },
     { title = "Kosmischer Wettbewerb", path = "wiki/cosmic-competition", description = "Die spezifische Bewertungsphase innerhalb der umfassenderen Kosmischen Kette — die Beurteilung der Erbschaftsqualifikation." },
     { title = "Elohim", path = "wiki/elohim", description = "Die schaffende Zivilisation, die während des Widder-Zeitalters entdeckte, dass sie selbst erschaffen worden war." },
     { title = "Apokalypse", path = "wiki/apocalypse", description = "Die Erbschaftsbewertung des Wassermann-Zeitalters — die gegenwärtige Phase der Kette für die Menschheit der Erde." },
     { title = "Botschaft", path = "wiki/embassy", description = "Der vorgesehene Ort des Erbschaftsereignisses, bei dem die Erde das angesammelte Wissen der Allianz empfangen würde." },
     { title = "Doppelte Signatur", path = "wiki/doubled-signature", description = "Ein verwandtes Deutungsprinzip, das innerhalb des umfassenderen Rahmens der Kosmischen Kette operiert." },
-    { title = "Genesis", path = "wiki/genesis", description = "Der Schöpfungsbericht, gelesen als eine bestimmte Instanz des wiederkehrenden Schöpfungsmusters der Kette." },
+    { title = "Genesis", path = "wiki/genesis", description = "Der Schöpfungsbericht, gelesen als eine bestimmte Instanz des wiederkehrenden Schöpfungsmusters der Kette." }
 ]
 
 footnotes = [

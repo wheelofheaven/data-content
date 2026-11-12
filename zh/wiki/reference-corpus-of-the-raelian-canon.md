@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -20,20 +20,21 @@ lead = "在雷尔正典的三本经典著作中，克洛德·沃里隆（雷尔�
 reading = "interpretive"
 
 see_also = [
-    { title = "Bible", path = "/wiki/bible/", description = "希伯来圣经和新约所处的更广泛的文本传统。" },
-    { title = "Hebrew Bible", path = "/wiki/hebrew-bible/", description = "正典中最大且引用最精确的参考文本主体。" },
-    { title = "Genesis", path = "/wiki/genesis/", description = "正典原始历史诠释中引用最广泛的一卷书。" },
-    { title = "Kabbalah", path = "/wiki/kabbalah/", description = "在《世界末日》中被命名为「最接近真理的书」；帕拉桑段落指向《身量之书》。" },
-    { title = "Raëlism", path = "/wiki/raelism/", description = "由此处所编目的三本经典著作所构成的运动。" },
-    { title = "Rael", path = "/wiki/rael/", description = "克洛德·沃里隆，三本经典著作的作者。" },
-    { title = "Elohim", path = "/wiki/elohim/", description = "正典从希伯来语复数形式解读出的文明称谓。" },
-    { title = "Yahweh", path = "/wiki/yahweh/", description = "正典在圣经文本中恢复其地位的议会领袖。" },
-    { title = "Moses", path = "/wiki/moses/", description = "列名于 ETTMTTP-2:64、3:257 与 LWTE-3:27 的诸信使之中。" },
-    { title = "Jesus", path = "/wiki/jesus/", description = "双鱼时代的主要信使；《基督的角色》围绕《马太福音》构建。" },
-    { title = "Muhammad", path = "/wiki/muhammad/", description = "《古兰经》的信使；正典直接涉及第21、54和56章。" },
-    { title = "Apocalypse", path = "/wiki/apocalypse/", description = "在《新启示》中展开的《启示录》解读。" },
-    { title = "Hamlet's Mill", path = "/wiki/hamlets-mill/", description = "与正典痕迹论证相邻的跨文化神话-岁差解读。" },
-    { title = "Doubled Signature", path = "/wiki/doubled-signature/", description = "正典与其参考文本汇聚于同一底层现实的语料原则。" },
+    { title = "圣经", path = "/wiki/bible/", description = "希伯来圣经和新约所处的更广泛的文本传统。" },
+    { title = "希伯来圣经", path = "/wiki/hebrew-bible/", description = "正典中最大且引用最精确的参考文本主体。" },
+    { title = "创世记", path = "/wiki/genesis/", description = "正典原始历史诠释中引用最广泛的一卷书。" },
+    { title = "卡巴拉", path = "/wiki/kabbalah/", description = "在《世界末日》中被命名为「最接近真理的书」；帕拉桑段落指向《身量之书》。" },
+    { title = "雷尔派", path = "/wiki/raelism/", description = "由此处所编目的三本经典著作所构成的运动。" },
+    { title = "雷尔", path = "/wiki/rael/", description = "克洛德·沃里隆，三本经典著作的作者。" },
+    { title = "耶洛因", path = "/wiki/elohim/", description = "正典从希伯来语复数形式解读出的文明称谓。" },
+    { title = "耶和华", path = "/wiki/yahweh/", description = "正典在圣经文本中恢复其地位的议会领袖。" },
+    { title = "摩西", path = "/wiki/moses/", description = "列名于 ETTMTTP-2:64、3:257 与 LWTE-3:27 的诸信使之中。" },
+    { title = "耶稣", path = "/wiki/jesus/", description = "双鱼时代的主要信使；《基督的角色》围绕《马太福音》构建。" },
+    { title = "穆罕默德", path = "/wiki/muhammad/", description = "《古兰经》的信使；正典直接涉及第21、54和56章。" },
+    { title = "启示", path = "/wiki/apocalypse/", description = "在《新启示》中展开的《启示录》解读。" },
+    { title = "哈姆雷特的磨坊", path = "/wiki/hamlets-mill/", description = "与正典痕迹论证相邻的跨文化神话-岁差解读。" },
+    { title = "双重署名", path = "/wiki/doubled-signature/", description = "正典与其参考文本汇聚于同一底层现实的语料原则。" },
+    { title = "六个清晨，六年", path = "/articles/six-mornings-six-years/", description = "为三部源书建立校勘记的文本校勘论证。" },
 ]
 
 footnotes = [

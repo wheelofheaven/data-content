@@ -6,28 +6,41 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Saṃsāra (Sanskrit संसार, Pali saṃsāra)", "the Wheel of Life (Bhavacakra)", "the cycle of birth, death, and rebirth", "the cycle of reincarnation", "cyclic existence", "the cycle (Vorilhon source designation)"]
+alternative_names = ["Saṃsāra (санскр. संसार, пали saṃsāra)", "Колесо жизни (Бхавачакра)", "круговорот рождения, смерти и перерождения", "цикл реинкарнации", "циклическое существование", "цикл (обозначение в исходных текстах Ворильона)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Макробиология", path = "wiki/macrobiology", description = "Биология человечества как организма, для которой сансара — сценарий неудачи: переход, срывающийся до завершения." },
+    { title = "Свастика", path = "wiki/swastika", description = "Символ цикла, который корпус читает как сохраняющий модель сансары." },
+    { title = "Золотой век", path = "wiki/golden-age", description = "Перепрочтение корпусом буддийского пробуждения как выхода из цивилизационного цикла." },
+    { title = "Космическое соревнование", path = "wiki/cosmic-competition", description = "Отбор на космическом уровне, разделяющий виды на вырвавшиеся из цикла и откатившиеся в него." },
+    { title = "Апокалипсис", path = "wiki/apocalypse", description = "Порог эпохи Водолея, на котором человечество стоит перед выбором выхода из цикла." },
+    { title = "Космическая Цепь", path = "wiki/cosmic-chain", description = "Вложенная линия творения, внутри которой повторяется цивилизационный цикл." },
+    { title = "Четыре уровня", path = "wiki/four-levels", description = "Иерархия масштабов, на протяжении которой, согласно прочтению, действует циклическая модель." },
+    { title = "Великий потоп", path = "wiki/great-flood", description = "Катаклизм эпохи Близнецов, который корпус читает как образцовый перезапуск цикла: развитая цивилизация отброшена в первобытное состояние." },
+    { title = "Люцифер", path = "wiki/lucifer", description = "Изгнанная, благосклонная к людям фракция создателей, операция с ковчегом которой сохранила остаток при перезапуске потопом." },
+    { title = "Мельница, что мелет эпохи", path = "articles/the-mill-that-grinds-the-ages", description = "Прецессионное колесо за циклом — мельница, что мелет эпохи, и свастика, которую канон читает как её знак." },
+    { title = "Облик человечества", path = "articles/the-shape-of-humanity", description = "Статья, читающая цивилизационный цикл как сценарий неудачи планетарного организма, который может погибнуть, не успев родиться." },
+]
 
 [extra.infobox]
-type = "Cosmological-cyclical concept; the substantive cyclical pattern of civilizational rise-and-fall the corpus reads as underlying cosmic-civilizational reality preserved in Indian-religions saṃsāra-cycle traditions"
-sanskrit = "संसार (saṃsāra, 'wandering through, flowing on')"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'The Second Encounter' chapter, 'Buddhism' section; consolidated *Message from the Designers* (2005)"
-core_articulation = "Buddhist saṃsāra-cycle reread collectively-civilizationally: humanity faces cosmic-civilizational choice between escape from cycle (Golden Age, cosmic-civilizational engagement) or fall back into cycle (primitive-state restart, multi-millennial redevelopment in hostile world)"
-cosmic_civilizational_selection = "Natural selection at cosmic level for species capable of leaving their planet; species controlling aggressiveness reach cosmic-civilizational engagement; species unable to control aggressiveness self-destruct at weapons-acquisition threshold"
-buddhist_devils = "Aggressiveness toward fellow humans; aggressiveness toward nature"
-buddhist_awakening = "Golden Age of civilization in which science serves the people"
-swastika_connection = "The swastika operates as the cycle-symbol preserved across the corpus engagement (treated systematically in Swastika entry)"
-distinguished_from = "Individual-eschatological saṃsāra (the substantial Indian-religions individual-soul-transmigration reading); the cosmic Golden Age content (the operational form of life produced by successful cycle-escape); the Apocalypse threshold-event (the specific 1945-onward Aquarian-age threshold moment)"
+type = "Космологически-циклическое понятие; закономерность подъёма и упадка цивилизаций, которую корпус читает как космическую реальность, сохранённую в индийской сансаре (saṃsāra)"
+sanskrit = "संसार (saṃsāra, «блуждание, течение дальше»)"
+principal_source = "*Инопланетяне забрали меня на свою планету* (Ворильон, 1975), глава «Вторая встреча», раздел «Буддизм»; сводное издание *Message from the Designers* (2005)"
+core_articulation = "Буддийская сансара (saṃsāra), перечитанная коллективно: человечество стоит перед космическим выбором между выходом из цикла (Золотой век науки на службе людей) и возвращением в него (перезапуск с первобытного состояния и новое развитие на протяжении тысячелетий во враждебном мире)"
+cosmic_civilizational_selection = "«Естественный отбор на космическом уровне видов, способных покинуть свою планету»; виды, овладевшие своей агрессивностью, достигают звёзд, а не овладевшие — самоуничтожаются на пороге оружия"
+buddhist_devils = "Агрессивность по отношению к ближним; агрессивность по отношению к природе"
+buddhist_awakening = "Золотой век цивилизации, в которой наука служит людям"
+swastika_connection = "Свастика, прочитанная как символ цикла, сохранившийся в разных традициях (рассматривается в статье «Свастика»)"
+distinguished_from = "Индивидуально-эсхатологическая сансара (традиционное индийское прочтение как переселения души); Золотой век (жизнь, которую порождает успешный выход из цикла); Апокалипсис (конкретный порог эпохи Водолея, начавшийся в 1945 году)"
 parallel_traditions = "Hindu saṃsāra (Vedic, Upanishadic, Vedantic engagement); Jain karma-cycle; Sikh cycle-content; Greek-Stoic eternal recurrence; Nietzschean eternal return; Mayan Long Count cycles; Norse Ragnarök-regeneration; Chinese cyclical traditions; various indigenous cyclical traditions"
-status_in_framework = "Foundational cosmological-cyclical concept; the substantive cosmic-civilizational pattern that successful Aquarian-age navigation breaks; integrated with broader Golden Age, Apocalypse, Cosmic Chain, Cosmic Competition framework"
+status_in_framework = "Основополагающее космологически-циклическое понятие; космическая закономерность, которую разрывает успешное прохождение эпохи Водолея; связано с рамками Золотого века, Апокалипсиса, Космической Цепи и Космического соревнования"
 +++
 
 **Saṃsāra** (Sanskrit संसार, "wandering through, flowing on") is the cycle of

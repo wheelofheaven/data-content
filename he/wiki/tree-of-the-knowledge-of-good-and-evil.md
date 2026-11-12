@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,20 +16,29 @@ category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["Tree of the Knowledge of Good and Evil", "Tree of Knowledge", "עֵץ הַדַּעַת טוֹב וָרָע (Hebrew etz ha-daat tov va-ra)", "the forbidden tree", "the tree in the midst of the garden", "the second tree (alongside Tree of Life)"]
 timeline = ["age-of-leo", "age-of-cancer"]
+see_also = [
+    { title = "עץ החיים", path = "wiki/tree-of-life", description = "העץ המזווג המקודד את טכנולוגיית הארכת החיים, שנמנעה יחד עם הידע המדעי." },
+    { title = "הנחש", path = "wiki/serpent", description = "הדמות של בראשית ג הנקראת כסיעת לוציפר בתפקיד החשיפה שלה." },
+    { title = "לוציפר", path = "wiki/lucifer", description = "מנהיג הסיעה החולקת, שיוצריה חשפו את הידע המוסתר לבני האדם הראשונים." },
+    { title = "עדן", path = "wiki/eden", description = "גן־המעבדה שבו עמד העץ ושבו התרחשה החשיפה." },
+    { title = "אלוהים", path = "wiki/elohim", description = "ציוויליזציית היוצרים שהעץ מקודד את הידע המדעי שלה." },
+    { title = "תאומכיה", path = "wiki/theomachy", description = "הקונפליקט בין סיעות היוצרים שמעשה החשיפה פותח." },
+    { title = "המבול", path = "wiki/great-flood", description = "האסון המאוחר יותר שמסלול ההתפתחות שלאחר החשיפה מגיע אליו." },
+]
 
 [extra.infobox]
-type = "Symbolic-conceptual; principal Genesis 2-3 designation for scientific knowledge archives withheld from first synthetic humans"
-hebrew_term = "עֵץ הַדַּעַת טוֹב וָרָע (etz ha-daat tov va-ra) — 'tree of the knowledge of good and evil'"
-biblical_location = "Genesis 2:9, 2:16-17, 3:1-7, 3:11, 3:17, 3:22"
-biblical_dating = "Late Age of Leo / early Age of Cancer in corpus chronology (the Eden-laboratory operational period, c. 9,000 – 8,850 BCE); placement in garden in late Leo, disclosure-and-expulsion in early Cancer"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'Genesis' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Leo chapter, Section IX, and Age of Cancer chapter, Section IV"
-core_corpus_articulation = "The body of scientific knowledge possessed by the Elohim creator civilization, withheld from first synthetic humans by Council order to prevent humans from becoming creators' equals; the prohibition is political (protect creator civilization) rather than moral (avoid sin)"
-paired_concept = "Tree of Life (עֵץ הַחַיִּים etz ha-chayyim) — biological longevity technology of the Elohim; paired prohibition; treated in dedicated Tree of Life entry"
-serpent_identification = "Lucifer faction — minority of Israel-team Eloha scientists led by an Eloha called Lucifer ('light-bringer'); the Hebrew nachash used collectively for the faction performing the disclosure act"
-merism_content = "Hebrew tov va-ra ('good and evil') operates as classic biblical merism designating the entirety of moral knowledge; post-disclosure humans become moral agents capable of full ethical evaluation"
-disclosure_consequences = "Lucifer-faction exile to Earth ('serpent cursed to crawl'); Adam-and-Eve expulsion from laboratory-garden; Cherubim-and-flaming-sword guard preventing Tree-of-Life access (corpus reading: soldiers with atomic disintegration weapons); subsequent civilizational developmental trajectory"
-distinguished_from = "Mainstream Christian 'original sin' reading (treating prohibition as moral and disobedience as fall); Tree of Life (paired biological-longevity technology); gnostic positive-serpent reading (sharing structural features but operating distinctively on Eloha-faction internal distinctions)"
-status_in_framework = "Foundational symbolic-conceptual content; principal originary knowledge-asymmetry articulation; structural inaugurator of subsequent human scientific-developmental trajectory; central to broader corpus engagement with creator-created political relationship"
+type = "סמלי־מושגי; הכינוי העיקרי בבראשית ב–ג לארכיוני הידע המדעי שנמנעו מבני האדם הסינתטיים הראשונים"
+hebrew_term = "עֵץ הַדַּעַת טוֹב וָרָע (etz ha-daat tov va-ra)"
+biblical_location = "בראשית ב:9, ב:16–17, ג:1–7, ג:11, ג:17, ג:22"
+biblical_dating = "סוף עידן האריה / תחילת עידן הסרטן בכרונולוגיה של הקורפוס (תקופת הפעילות של מעבדת עדן, בערך 9,000–8,850 לפנה״ס); הצבה בגן בסוף האריה, גילוי וגירוש בתחילת הסרטן"
+principal_source = "*הספר המגלה את האמת* (וורילון, 1974), הפרק 'האמת', הקטע 'בראשית'; מקובץ ב־*מסר מהמתכננים* (2005); מפותח עוד בחומר ציר הזמן על עידן האריה ועידן הסרטן"
+core_corpus_articulation = "גוף הידע המדעי שבידי ציוויליזציית היוצרים, האלוהים, שנמנע מבני האדם הסינתטיים הראשונים בפקודת המועצה כדי שלא יהיו שווים ליוצרים; האיסור הוא פוליטי (הגנה על ציוויליזציית היוצרים) ולא מוסרי (הימנעות מחטא)"
+paired_concept = "עץ החיים (עֵץ הַחַיִּים) — טכנולוגיית אריכות הימים הביולוגית של האלוהים; האיסור המקביל, הנדון בערך הנפרד על עץ החיים"
+serpent_identification = "סיעת לוציפר — מיעוט של מדעני אלוהה מצוות ישראל בהנהגת אלוהה בשם לוציפר ('נושא האור'); המילה העברית נחש משמשת באופן קיבוצי לסיעה המבצעת את הגילוי"
+merism_content = "בעברית 'טוב ורע' הוא מריזם מקראי קלאסי המציין את כלל הידע המוסרי; לאחר הגילוי בני האדם הופכים לסוכנים מוסריים המסוגלים לשיפוט עצמאי"
+disclosure_consequences = "גלות סיעת לוציפר לכדור הארץ (ה'נחש שנתקלל ללכת על גחונו'); גירוש אדם וחוה מגן המעבדה; משמר הכרובים ולהט החרב החוסם את הגישה לעץ החיים (קריאת הקורפוס: חיילים עם נשק פירוק אטומי); מסלול ההתפתחות המדעית שבא אחר כך"
+distinguished_from = "הקריאה הנוצרית המקובלת של 'החטא הקדמון' (האיסור כמוסרי, האכילה כנפילה); עץ החיים (טכנולוגיית אריכות ימים ביולוגית מקבילה); הקריאה הגנוסטית של הנחש החיובי (חולקת מאפיינים מבניים אך דוחה את האל־היוצר באופן גורף יותר)"
+status_in_framework = "תוכן יסוד סמלי־מושגי; הניסוח העיקרי של המסגרת לאי־הסימטריה הראשונית בידע בין היוצרים לנבראים, ולמעשה ההתנגדות הראשון לה"
 +++
 
 The **Tree of the Knowledge of Good and Evil** (Hebrew עֵץ הַדַּעַת טוֹב וָרָע,

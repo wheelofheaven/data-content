@@ -6,30 +6,40 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "the Holy Tongue", "Biblical Hebrew", "Classical Hebrew"]
+alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "거룩한 언어", "성경 히브리어", "고전 히브리어"]
+see_also = [
+    { title = "히브리어 성경", path = "wiki/hebrew-bible", description = "이 언어로 보존되어 프레임워크 내용을 위해 읽히는 주요 코퍼스." },
+    { title = "창세기", path = "wiki/genesis", description = "코퍼스가 그 히브리어 표현을 실행적으로 읽는 창조 기사." },
+    { title = "에덴", path = "wiki/eden", description = "이 독해에서 언어가 처음 전수된 창조 실험실이라는 배경." },
+    { title = "아담과 하와", path = "wiki/adam-and-eve", description = "이 독해에서 창조자들의 구어를 배운 최초의 인간들." },
+    { title = "바벨", path = "wiki/babel", description = "원래 전수된 언어의 분화를 규정하는 분산 사건." },
+    { title = "황도대", path = "wiki/zodiac", description = "마자롯의 실 — 마젤 토브에 살아남은 마잘을 황도대 프레임워크를 통해 읽습니다." },
+    { title = "시대를 갈아내는 맷돌", path = "articles/the-mill-that-grinds-the-ages", description = "히브리 천문의 실 전체 — 마자롯, 마잘로트, 그리고 축복이 된 별의 자리." },
+    { title = "마자롯", path = "wiki/mazzaroth", description = "마잘 어휘와 그것이 마젤 토브에 살아남은 일을 다루는 전용 항목." },
+]
 
 [extra.infobox]
 hebrew_name = "עִבְרִית"
 transliteration = "ʿivrit"
-language_family = "Semitic > Northwest Semitic > Canaanite"
-sister_languages = "Phoenician, Moabite, Ammonite (closest); Aramaic, Arabic, Akkadian, Ugaritic (broader Semitic)"
-earliest_attestation = "Paleo-Hebrew inscriptions, c. 10th century BCE (Gezer calendar; Tel Zayit abecedary)"
-biblical_period = "c. 10th–6th century BCE"
-mishnaic_period = "c. 1st–4th century CE"
-medieval_period = "c. 5th–18th century CE (literary and liturgical use)"
-modern_revival = "late 19th–early 20th century CE"
-script = "Originally Paleo-Hebrew (Phoenician-derived); later 'square script' (Aramaic-derived) from c. 5th century BCE onward"
-speakers = "Approximately 9 million (modern Israel and diaspora); historical usage as liturgical and scholarly language across global Jewish communities"
-date_type = "Historical attestation; framework reading places original transmission in the Age of Leo, c. 11,375 BCE"
-principal_text = "The Hebrew Bible (Tanakh)"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974)"
+language_family = "셈어파 > 북서 셈어군 > 가나안어군"
+sister_languages = "페니키아어, 모압어, 암몬어(가장 가까움); 아람어, 아랍어, 아카드어, 우가리트어(더 넓은 셈어파)"
+earliest_attestation = "고대 히브리 문자 비문, 기원전 약 10세기(게제르 달력; 텔 자이트 알파벳 비문)"
+biblical_period = "기원전 약 10~6세기"
+mishnaic_period = "기원후 약 1~4세기"
+medieval_period = "기원후 약 5~18세기(문학 및 전례 용도)"
+modern_revival = "기원후 19세기 후반~20세기 초"
+script = "본래 고대 히브리 문자(페니키아 문자 계통); 기원전 약 5세기 이후로는 '방형 문자'(아람 문자 계통)"
+speakers = "약 900만 명(현대 이스라엘과 디아스포라); 역사적으로 전 세계 유대인 공동체에서 전례어이자 학술어로 사용됨"
+date_type = "역사적 증언; 틀의 독법은 본래의 전수를 사자자리 시대, 기원전 약 11,375년에 둠"
+principal_text = "히브리어 성경(타나크)"
+principal_framework_source = "*진실을 말하는 책*(보릴롱/라엘, 1974)"
 +++
 
 **Hebrew** (<span class="hebrew">עִבְרִית</span>, *ʿivrit*) is a Semitic language, originally the spoken and scriptural language of the ancient Israelites, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in which it survived primarily as a liturgical and scholarly language — the official language of the modern State of Israel. It belongs to the Canaanite branch of the Northwest Semitic subfamily and is closely related to Phoenician, Moabite, and Ammonite, with broader cognate relationships across the Semitic family to Aramaic, Arabic, Akkadian, Ugaritic, and the South Semitic languages. Within Jewish tradition, Hebrew is also called *Lashon ha-Kodesh* (<span class="hebrew">לְשׁוֹן הַקֹּדֶשׁ</span>, "the holy tongue"), reflecting its status as the language of scripture and liturgy across the long centuries of diaspora Jewish life.

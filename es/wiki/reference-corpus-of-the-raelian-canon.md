@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -21,7 +21,7 @@ reading = "interpretive"
 
 see_also = [
     { title = "Biblia", path = "/wiki/bible/", description = "La tradición textual más amplia en la que se inscriben la Biblia hebrea y el Nuevo Testamento." },
-    { title = "Biblia Hebrea", path = "/wiki/hebrew-bible/", description = "El cuerpo de referencia más extenso y citado con mayor precisión por el canon." },
+    { title = "Biblia hebrea", path = "/wiki/hebrew-bible/", description = "El cuerpo de referencia más extenso y citado con mayor precisión por el canon." },
     { title = "Génesis", path = "/wiki/genesis/", description = "El libro más citado en la exégesis de la historia primigenia que recorre el canon." },
     { title = "Cábala", path = "/wiki/kabbalah/", description = "Nombrada en El fin del mundo como «el libro más cercano a la verdad»; el pasaje de los parasangas apunta al Shi'ur Qomah." },
     { title = "Raelismo", path = "/wiki/raelism/", description = "El movimiento constituido por los tres libros canónicos aquí catalogados." },
@@ -34,6 +34,7 @@ see_also = [
     { title = "Apocalipsis", path = "/wiki/apocalypse/", description = "La lectura del Apocalipsis desarrollada en Las nuevas revelaciones." },
     { title = "El molino de Hamlet", path = "/wiki/hamlets-mill/", description = "Lectura mitológico-precesional intercultural adyacente al argumento de los «vestigios» del canon." },
     { title = "Signatura doble", path = "/wiki/doubled-signature/", description = "El principio del corpus por el cual el canon y sus textos de referencia convergen sobre la misma realidad subyacente." },
+    { title = "Seis mañanas, seis años", path = "/articles/six-mornings-six-years/", description = "El argumento de crítica textual a favor de un aparato crítico sobre los tres libros fuente." },
 ]
 
 footnotes = [

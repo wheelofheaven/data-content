@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -28,16 +28,19 @@ see_also = [
     { title = "동맹", path = "/wiki/the-alliance/", description = "노아 언약에 의해 창설된 정치적 결속." },
     { title = "루시퍼", path = "/wiki/lucifer/", description = "방주 작전을 통해 노아를 보존한 개입의 분파." },
     { title = "야훼", path = "/wiki/yahweh/", description = "홍수 이후의 '다시는 없으리라'는 약속이 의존하는 평의회 지도자." },
-    { title = "영원자 평의회", path = "/wiki/council-of-the-eternals/", description = "타격을 승인한 본국의 정치 기구." },
-    { title = "홍수 이전 시대", path = "/wiki/antediluvian/", description = "타격으로 종결된 홍수 이전의 문명적 시기." },
+    { title = "영원자 의회", path = "/wiki/council-of-the-eternals/", description = "타격을 승인한 본국의 정치 기구." },
+    { title = "대홍수 이전 시대", path = "/wiki/antediluvian/", description = "타격으로 종결된 홍수 이전의 문명적 시기." },
     { title = "판게아", path = "/wiki/pangaea/", description = "타격이 단편화시킨 초대륙." },
     { title = "에덴", path = "/wiki/eden/", description = "홍수 이전 문명이 그 계보를 확장한 원초적 동맹 실험실." },
     { title = "히브리어 성경", path = "/wiki/hebrew-bible/", description = "홍수 서사의 주된 경전 출전." },
     { title = "창세기", path = "/wiki/genesis/", description = "홍수 기사를 담은 성경의 책(창세기 6–9장)." },
+    { title = "아트라하시스", path = "/library/atrahasis-woh/", description = "히브리 기사와 밀접하게 평행하는 바빌로니아의 홍수 서사." },
+    { title = "길가메시 서사시", path = "/library/gilgamesh-woh/", description = "서판 XI에 실린 메소포타미아의 홍수 기사." },
     { title = "소돔과 고모라", path = "/wiki/sodom-and-gomorrah/", description = "그 기제가 구조적으로 유사한 후대의 유비적 타격 사건." },
     { title = "바벨", path = "/wiki/babel/", description = "홍수 이후의 문명적 분산 일화." },
     { title = "이중 서명", path = "/wiki/doubled-signature/", description = "전 지구적 홍수 전승이 그 기저의 역사적 기억을 보존한다는 코퍼스의 원리." },
-    { title = "신들의 전쟁", path = "/wiki/theomachy/", description = "이 타격이 작동하는 더 넓은 우주-정치적 갈등의 틀." },
+    { title = "테오마키", path = "/wiki/theomachy/", description = "이 타격이 작동하는 더 넓은 우주-정치적 갈등의 틀." },
+    { title = "부주교와 용", path = "articles/the-archdeacon-and-the-dragon", description = "월리스와 정경 사이에서 수렴하는, 평의회 결정으로서의 대홍수." },
 ]
 
 footnotes = [

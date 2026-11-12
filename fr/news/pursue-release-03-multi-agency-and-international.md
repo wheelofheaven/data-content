@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Trois semaines après le Communiqué 02, le Département de la Guerre des États-Unis a publié le Communiqué 03 sur war.gov/UFO : 53 documents, 10 rendus numériques, 6 vidéos et 3 enregistrements audio de la NASA tirés de la CIA, du FBI, de la NASA et du Pentagone — la première tranche PURSUE à intégrer des fonds d'agences civiles aux côtés du matériel du DoD. Les cas phares incluent un objet en forme de pomme de terre, opalescent, à écailles de poisson observé au-dessus des montagnes Cheyenne en février 2022 par un officier du renseignement de l'Armée et quatre membres de son unité ; un disque de 2008 avec des lumières rotatives en face inférieure et des faisceaux émis au-dessus de l'aéroport international de Harare ; une rencontre d'orbes appariés en 2026 dans le nord-est des États-Unis ; et un dossier de J. Edgar Hoover de 1949 sur la convergence de faisceaux célestes au-dessus des montagnes Cascade. Le corpus enregistre le Communiqué 03 comme un contexte pour lire le canon, et non comme un signe du retour."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "Le contexte du présent"
+cross_reference = "Ère du Verseau, §IX"
 canon_links = [
     { title = "Âge du Verseau", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

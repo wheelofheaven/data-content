@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,6 +15,18 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Revelation", "ἀποκάλυψις", "Age of Apocalypse", "Age of Revelation"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "Makrobiologie", path = "wiki/macrobiology", description = "Die Biologie der Menschheit als Organismus, für die 1945 das Einschalten des planetaren Nervensystems markiert." },
+    { title = "Goldenes Zeitalter", path = "wiki/golden-age", description = "Das zivilisatorische Ergebnis, auf das sich die Apokalypse öffnet, sobald der Übergang bewältigt ist." },
+    { title = "Prophet", path = "wiki/prophet", description = "Die Tradition, deren kumulatives Werk die Apokalypse zur Vollendung bringt." },
+    { title = "Botschaft", path = "wiki/embassy", description = "Die geplante offene Rückkehr, die in dieser Periode praktisch möglich wird." },
+    { title = "Elohim", path = "wiki/elohim", description = "Die Allianz, deren Inhalt in der Apokalypse der direkten Prüfung zugänglich wird." },
+    { title = "Raël", path = "wiki/rael", description = "Der Prophet, durch den der Rahmeninhalt der Apokalypse übermittelt wurde." },
+    { title = "Die Schriftrollen, die im Jahr eins erwachten", path = "articles/the-scrolls-that-woke-in-year-one", description = "Die Schriftrollen vom Toten Meer kamen im Jahr eins der Zeitrechnung der Ära ans Licht — die Enthüllung, gelesen vor dem Hintergrund des Handschriftenfunds." },
+    { title = "Entsiegelt im Jahr eins", path = "articles/unsealed-in-year-one", description = "Die begleitende Lesart desselben Fundes — Daniels versiegeltes Buch geöffnet, und was der Inhalt der Rollen der Ära sagt." },
+    { title = "Die Gestalt der Menschheit", path = "articles/the-shape-of-humanity", description = "Der Artikel, der 1945 als den Moment liest, in dem sich das Nervensystem des planetaren Organismus einschaltete, zugleich mit der Macht, sich selbst zu beenden." },
+    { title = "Carl Jung", path = "wiki/carl-jung", description = "Jungs Aion und die Lesart der zwei Fische für den nun endenden Fische-Äon." }
+]
 +++
 
 **Apocalypse** (Greek: *ἀποκάλυψις*, *apokalypsis*) is, in its plain Greek meaning, an *uncovering* or *unveiling* — the disclosure of what was previously concealed. The English word entered medieval and early-modern usage through the Latin *apocalypsis* and the Vulgate's title for the New Testament's Book of Revelation (*Apocalypsis Iohannis*, "the Unveiling of John"). Across the medieval and early-modern centuries, the term acquired a secondary set of connotations — catastrophic destruction, end-of-the-world judgment, eschatological cataclysm — that the original Greek does not carry and that have come to dominate popular English usage. The two senses are now substantially distinct in contemporary English: the popular *apocalypse* names a destructive end; the technical *apocalypse* names a revelation of hidden truth.

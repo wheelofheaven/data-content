@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,16 +15,24 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the New Jerusalem", "Third Temple (Jewish-historical register)", "Embassy (contemporary operational register)", "the Heavenly Jerusalem (Christian-apocalyptic register)", "the descending Holy City (Revelation 21 designation)", "the residence of the Elohim (Vorilhon source designation)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "大使馆", path = "wiki/embassy", description = "同一建筑的操作规格。" },
+    { title = "第三圣殿", path = "wiki/third-temple", description = "同一预定接待建筑在犹太历史上的名称。" },
+    { title = "以西结", path = "wiki/ezekiel", description = "其圣殿门槛异象被文集解读为预表的先知。" },
+    { title = "启示", path = "wiki/apocalypse", description = "提供降临之城意象的《启示录》末世论。" },
+    { title = "黄金时代", path = "wiki/golden-age", description = "这座建筑旨在居中并向外辐射的水瓶座时代转变。" },
+    { title = "在元年启封", path = "articles/unsealed-in-year-one", description = "将库姆兰亚兰语《新耶路撒冷》文本——那座经过丈量、等待建造的城——解读为本条目先祖的文章。" },
+]
 
 [extra.infobox]
-type = "Aquarian-age physical-institutional concept; the structure intended to receive the alliance's formal arrival and to serve as the operational location of human-Elohim diplomatic engagement"
-three_term_identification = "New Jerusalem (Christian-apocalyptic register); Third Temple (Jewish-historical register); Embassy (contemporary operational register) — three terms for the same physical-institutional content within distinct interpretive frames"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'To the People of Israel' section; *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979); consolidated *Message from the Designers* (2005)"
-biblical_prefigurations = "Ezekiel 47:1-2 (water from the temple threshold); Acts 15:16 (rebuild the tabernacle of David); Revelation 21:1-3 (descending New Jerusalem)"
-original_location_preference = "Israel near Jerusalem; the geographic site of the original Eden operation; the highest-concentration alliance-contact site on Earth"
-relocation_authorization = "December 13, 1997 Yahweh message — formal authorization to seek permission from any nation following Israeli refusals; Israel preserved as 'last chance' option"
-distinguished_from = "Embassy (the operational-architectural register, treated in dedicated entry); Third Temple (the Jewish-historical register, treated in dedicated entry when written); the historic Solomonic and Second Temples (the prior Jerusalem-temple physical structures)"
-status_in_framework = "Foundational Aquarian-age architectural-institutional concept; the operational center from which Aquarian-age transformative content flows outward; the spiritual and intellectual center of the world for millennia to come"
+type = "水瓶座时代的建筑，为迎接耶洛因正式归来而建；耶洛因与人类公开接触的所在"
+three_term_identification = "新耶路撒冷（基督教启示文学的名称）；第三圣殿（犹太历史的名称）；大使馆（实际运作的名称）——同一座建筑的三个名称"
+principal_source = "《外星人带我去他们的行星》（沃里隆，1975），「致以色列人民」；《让我们欢迎外星人》（1979）；《来自设计者的信息》（2005）"
+biblical_prefigurations = "以西结书 47:1-2（水从殿的门槛下流出）；使徒行传 15:16（重修大卫的帐幕）；启示录 21:1-3（从天而降的新耶路撒冷）"
+original_location_preference = "以色列，耶路撒冷附近——最初伊甸行动的所在地"
+relocation_authorization = "1997 年 12 月 13 日耶和华的讯息——在以色列多次拒绝之后，授权向任何国家寻求治外法权地位；以色列保留「最后机会」的选项"
+distinguished_from = "大使馆（实际运作规格，另有条目）；第三圣殿（犹太历史上的承继，另有条目）；历史上的第一圣殿与第二圣殿"
+status_in_framework = "水瓶座时代的基础性建筑；这个时代的变革将由此向外辐射的运作中心"
 +++
 
 **New Jerusalem** is, in the Wheel of Heaven framework, one of three names — alongside

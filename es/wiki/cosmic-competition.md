@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -15,19 +15,28 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the cosmic competition", "the cosmic competition framework", "the inheritance evaluation", "the parallel-humanities framework", "the multiple-worlds creation framework"]
 timeline = ["aries", "pisces", "aquarius"]
+see_also = [
+    { title = "Macrobiología", path = "wiki/macrobiology", description = "La biología del todo: la Competencia Cósmica aporta la población de humanidades creadas que requiere una ciencia de los organismos planetarios." },
+    { title = "Cadena cósmica", path = "wiki/cosmic-chain", description = "El patrón de creación recurrente más amplio del que esta competencia es una iteración." },
+    { title = "Jesús", path = "wiki/jesus", description = "Cuya parábola del sembrador lee el corpus como la formulación explícita del marco de las humanidades paralelas." },
+    { title = "Apocalipsis", path = "wiki/apocalypse", description = "El acontecimiento de desvelamiento más amplio, distinto de la evaluación de la herencia que describe este marco." },
+    { title = "Gran Diluvio", path = "wiki/great-flood", description = "Un momento anterior de fracaso en un umbral dentro de la evaluación de la humanidad de la Tierra por la alianza." },
+    { title = "Embajada", path = "wiki/embassy", description = "El lugar de recepción cuya construcción marca que la Tierra reúne las condiciones para la herencia." },
+    { title = "La forma de la humanidad", path = "articles/the-shape-of-humanity", description = "El Explicativo que convierte el marco de las humanidades múltiples en una ciencia propuesta —la morfología civilizatoria— y lee la Tierra como un espécimen entre muchos." },
+]
 
 [extra.infobox]
-type = "Framework concept; corpus-internal interpretive construction integrating multiple Raëlian source-material gestures into a systematic account of the cosmic-political situation"
-basic_premise = "Multiple humanities created by the Elohim alliance on multiple worlds; each evaluated against the standard required for inheritance (moral and scientific maturity)"
+type = "Concepto del marco; construcción interpretativa interna del corpus que integra varias indicaciones del material de fuente raeliano en un relato sistemático de la situación político-cósmica"
+basic_premise = "Múltiples humanidades creadas por la alianza de los Elohim en múltiples mundos; cada una evaluada según el nivel exigido para la herencia (madurez moral y científica)"
 character = "Non-adversarial; evaluation rather than zero-sum conflict; multiple humanities can potentially qualify simultaneously"
-known_creations = "Three surviving humanities (per the parable-of-the-sower reading); Earth is one; two others on planets 'relatively near'; one previous attempt failed and produced a plant-only world that still exists"
+known_creations = "Tres humanidades supervivientes (según la lectura de la parábola del sembrador); la Tierra es una; otras dos en planetas «relativamente cercanos»; un intento anterior fracasó y produjo un mundo solo vegetal que aún existe"
 qualification_categories = "Moral maturity; scientific maturity; political maturity"
-operational_origin = "The Aries-age discovery (c. 2,160–1,200 BCE) that the Elohim themselves had been created, producing the policy shift from direct to indirect contact"
-explicit_articulation = "Jesus's parable of the sower (Matthew 13:3-9, c. 30 CE); March 14, 1978 telepathic message to Raël"
-current_phase = "Aquarian-age operational evaluation; the inheritance-threshold becoming determinable across the present decades"
-distinguished_from = "The Cosmic Chain (the broader recurring pattern); the Earth project specifically (the alliance's specific Earth-side operations); the Aquarian-age opening (the specific present phase); the Apocalypse (the broader unveiling event)"
-principal_text = "Matthew 13:3-9 (parable of the sower); Matthew 13:18-30 (Jesus's interpretation); Matthew 6:10 (the Lord's Prayer's central petition)"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), 'Parallel Humanities'; *Message of the Elohim* (March 14, 1978), preserved in *Extra-Terrestrials Took Me to Their Planet*"
+operational_origin = "El descubrimiento de la Era de Aries (c. 2160–1200 a. e. c.) de que los propios Elohim habían sido creados, que produjo el cambio de política del contacto directo al indirecto"
+explicit_articulation = "La parábola del sembrador de Jesús (Mateo 13:3-9, c. 30 e. c.)"
+current_phase = "Evaluación operativa de la Era de Acuario; el umbral de la herencia se vuelve determinable a lo largo de las décadas presentes"
+distinguished_from = "La Cadena cósmica (el patrón recurrente más amplio); el proyecto Tierra en particular (las operaciones específicas de la alianza en la Tierra); la apertura de la Era de Acuario (la fase presente específica); el Apocalipsis (el acontecimiento más amplio de desvelamiento)"
+principal_text = "Mateo 13:3-9 (parábola del sembrador); Mateo 13:18-30 (interpretación de Jesús); Mateo 6:10 (la petición central del Padrenuestro)"
+principal_framework_source = "*El libro que dice la verdad* (Vorilhon/Raël, 1974), «Humanidades paralelas»"
 +++
 
 **Cosmic Competition** is the framework concept developed in the Wheel of Heaven corpus to organize the Raëlian source material's account of the broader cosmological situation in which Earth's humanity exists. {% claim(type="framework", id="woh-claim-0047") %}The framework reads Earth's humanity as one of multiple humanities created by the Elohim alliance on multiple worlds in our galactic neighborhood, with each humanity being evaluated against the standard of moral and scientific maturity required for **inheritance** — for receiving the alliance's accumulated knowledge and becoming the next link in the cosmic chain of creation.{% end %} The framework integrates several distinct strands of source material into a systematic account: the parable-of-the-sower passage of *The Book Which Tells the Truth* (1974), in which Jesus's parable is read as the explicit articulation of the multiple-humanities framework; the Aries-age discovery material concerning the Elohim's recognition that they themselves had been created within the same broader pattern; and the broader Aquarian-age inheritance-threshold material concerning the specific qualifications humanity must demonstrate.

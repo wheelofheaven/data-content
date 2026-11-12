@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,25 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Planetary engineering", "Ecological engineering at planetary scale", "Earth-shaping", "Geoengineering of other worlds"]
+alternative_names = ["행성 공학", "행성 규모의 생태 공학", "지구화", "다른 세계의 지구공학"]
+see_also = [
+    { title = "창세기 도구 상자", path = "wiki/genesis-toolbox", description = "프로그램 수준의 종합: 정경이 묘사하는 창조 스택 전체의 한 국면으로서의 테라포밍." },
+    { title = "창세기", path = "wiki/genesis", description = "프레임워크가 그 처음 네 시대를 엘로힘의 지구 테라포밍으로 읽는 텍스트." },
+    { title = "엘로힘", path = "wiki/elohim", description = "생물학적 합성에 앞서 지구를 테라포밍한 것으로 읽히는 문명." },
+    { title = "합성생물학", path = "wiki/synthetic-biology", description = "테라포밍에 뒤이은 생물학적 합성 국면의 인접 분과." },
+    { title = "생명공학(라이프 엔지니어링)", path = "wiki/life-engineering", description = "지구 프로젝트에서 행성 테라포밍에 대응하는 생물학적 짝." },
+    { title = "팬트로피", path = "wiki/pantropy", description = "세계를 생물에 맞추는 대신 생물을 세계에 맞추는 역방향 전략." },
+    { title = "판게아", path = "wiki/pangaea", description = "프레임워크의 대륙 공학 독해와 관련된 대륙 배치." },
+]
 
 [extra.infobox]
-type = "Planetary-engineering discipline aimed at making other worlds habitable for terrestrial life"
-adjacent_fields = "Astrobiology; planetary science; xenobiology; synthetic biology; geoengineering; climate science"
-term_coined = "Jack Williamson, *Collision Orbit*, 1942 (science-fiction context); Carl Sagan, *Science*, 1961 (scientific context)"
-principal_targets = "Mars (most studied); Venus (more speculative); Moon, Mercury, Jovian and Saturnian moons (variously discussed); free-floating habitats and shell worlds (alternative paraterraforming concepts)"
-foundational_milestones = "Coining of the term (Williamson, 1942); first scientific proposal (Sagan, Venus terraforming via algae, 1961); first Mars terraforming proposal (Sagan, polar-cap vaporisation, 1971); foundational scientific treatments (McKay, 1982 onward; Fogg, *Terraforming*, 1995); CO2-inventory analysis (Jakosky and Edwards, 2018); silica-aerogel paraterraforming (Wordsworth et al., 2019)"
-current_status = "Active research field; no terraforming has been attempted at any scale; full-scale Mars terraforming assessed as infeasible with present technology; localised paraterraforming concepts under active study"
-framework_significance = "The planetary-engineering operations of the first four ages of Genesis 1 — atmospheric separation, water-cycle establishment, continental work, astronomical calibration — are read on the framework as the Elohim's terraforming of Earth during the preparation phase of the Earth project, prior to biological synthesis"
+type = "다른 세계를 지구 생명이 살 수 있게 만드는 것을 목표로 하는 행성 공학 분야"
+adjacent_fields = "우주생물학; 행성과학; 제노생물학; 합성생물학; 지구공학; 기후과학"
+term_coined = "잭 윌리엄슨, *Collision Orbit*, 1942(과학소설 맥락); 칼 세이건, *Science*, 1961(과학적 맥락)"
+principal_targets = "화성(가장 많이 연구됨); 금성(더 사변적); 달, 수성, 목성과 토성의 위성들(다양하게 논의됨); 자유 부유 거주지와 껍질 세계(대안적 준테라포밍 개념)"
+foundational_milestones = "용어의 탄생(윌리엄슨, 1942); 최초의 과학적 제안(세이건, 조류를 이용한 금성 테라포밍, 1961); 최초의 화성 테라포밍 제안(세이건, 극관 기화, 1971); 기초적인 과학적 논의(매케이, 1982년 이후; 포그, *Terraforming*, 1995); CO2 보유량 분석(야코스키와 에드워즈, 2018); 실리카 에어로젤 준테라포밍(워즈워스 외, 2019)"
+current_status = "활발한 연구 분야; 어떤 규모로도 테라포밍이 시도된 적은 없음; 전면적인 화성 테라포밍은 현재 기술로는 불가능하다고 평가됨; 국지적 준테라포밍 개념이 활발히 연구되고 있음"
+framework_significance = "창세기 1장의 처음 네 시대에 걸친 행성 공학 작업 — 대기 분리, 물순환 확립, 대륙 작업, 천문학적 보정 — 은 틀에서 생물학적 합성 이전, 지구 프로젝트의 준비 단계에 엘로힘이 수행한 지구의 테라포밍으로 읽힘"
 +++
 
 **Terraforming** is the deliberate large-scale modification of a planet, moon, or other celestial body to make its environmental conditions habitable for terrestrial life — most often with reference to making the body habitable for unmodified humans, but increasingly with reference to making it habitable for any class of Earth-derived organisms. The term is constructed from the Latin *terra* (earth) and the English verb *to form*, meaning literally *to make Earth-like*. It is the planetary-scale counterpart of the climate-engineering and geoengineering proposals that have been developed for the management of Earth's own climate, and it draws on the same atmospheric, geological, and ecological sciences applied at the much larger scale of complete planetary transformation.

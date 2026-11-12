@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -24,6 +24,14 @@ entry_type = "place"
 claim_type = "speculative"
 timeline = ["pisces"]
 alternative_names = ["Πέτρα (griechisch „Fels“)", "רקמו (nabatäisch Raqmū)", "רֶקֶם (hebräisch Reqem)", "Rekem", "Raqēmō", "ٱلْبَتْرَاء (arabisch al-Batrāʾ)", "Sela (biblisch „Fels“)", "Mutter der Kolonien", "Reqem der Schluchten"]
+see_also = [
+    { title = "Nabatäer", path = "wiki/nabataeans", description = "Das arabische Königreich, dessen in den Fels gehauene Hauptstadt Petra war." },
+    { title = "Hanafiyya", path = "wiki/hanafiyya", description = "Die Religion Abrahams, deren Geografie die Hypothese nach Petra verlegt." },
+    { title = "Mohammed", path = "wiki/muhammad", description = "Der Prophet, dessen früheste Gemeinde das Qibla-Argument nach Petra ausrichtet." },
+    { title = "Abraham", path = "wiki/abraham", description = "Der Patriarch, dessen wiederhergestellte Religion der frühe Islam nach der Lesart des Korpus wiederbelebt." },
+    { title = "Götter-Vielheit", path = "wiki/plurality-of-gods", description = "Das nabatäische heidnische Pantheon, das Petra vor seiner abrahamitischen Lesart beherbergte." },
+    { title = "Genesis", path = "wiki/genesis", description = "Der biblisch-abrahamitische Hintergrund, vor dem die Petra-Hypothese gelesen wird." }
+]
 
 [extra.infobox]
 type = "In den Fels gehauene nabatäische Karawanen-Hauptstadt; UNESCO-Weltkulturerbe; geografisches Zentrum der Hypothese von Petra als ursprünglichem Mekka"

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,21 +15,29 @@ editorial_pass = "2026-05"
 entry_type = "event/period"
 alternative_names = ["the Cities of the Plain", "the Sodom event", "the Sodom strike", "*Sedom va-Amorah* (Hebrew: סְדֹם וַעֲמֹרָה)", "the Genesis 19 destruction", "the Council preventive strike (Taurus phase)", "the second preventive strike", "the Dead Sea event"]
 timeline = ["taurus"]
+see_also = [
+    { title = "Gran Diluvio", path = "wiki/great-flood", description = "El primer ataque del Consejo, a escala planetaria; Sodoma es uno posterior y localizado." },
+    { title = "Babel", path = "wiki/babel", description = "La intervención contigua posterior al Diluvio: una propuesta de paz dispersada, no una rebelión reprimida." },
+    { title = "Abraham", path = "wiki/abraham", description = "Intercede ante Yahvé por la destrucción de las ciudades en Génesis 18." },
+    { title = "Lucifer", path = "wiki/lucifer", description = "La facción exiliada y favorable a la humanidad (la Serpiente) cuya herencia reclamaron e invirtieron los rebeldes de Sodoma." },
+    { title = "Satán", path = "wiki/satan", description = "La facción del mundo de origen que había presionado por la destrucción de la humanidad; distinta de la Serpiente de Lucifer." },
+    { title = "La Alianza", path = "wiki/the-alliance", description = "El órgano cuya política de contención impone el ataque." },
+]
 
 [extra.infobox]
-type = "Multi-component narrative event; the late-Taurus Council preventive strike against an organized human vengeance movement at the Cities of the Plain"
-chronology = "Late Age of Taurus (conventionally placed approximately 2,000-1,800 BCE on the conventional Abrahamic chronology); approximately 2,500-3,000 years after the Babel intervention; during Abraham's lifetime"
-location = "The Cities of the Plain — Sodom (סְדֹם), Gomorrah (עֲמֹרָה), and the additional cities Admah, Zeboiim, and Zoar — situated in the lower Jordan Valley of the southern Levant; the principal site corresponds to the modern Dead Sea basin"
-participants_council_side = "The home-world Council of the Eternals (the intervening party, monitoring the situation through remote observation); two Council scouts (the 'two angels' of Genesis 19:1) sent for verification reconnaissance; the broader Council military operations responsible for the atomic strike"
-participants_human_side = "The Sodom and Gomorrah rebel population (the descendants of post-Babel scattered scientific elite who had reaccumulated knowledge during the long quiet); Lot and his immediate family (Abraham's nephew, identified by the scouts as not part of the vengeance movement and worth preserving); the broader population of the Cities of the Plain"
-abraham_role = "Witness and intercessor; the Mamre conversation between Abraham and the Yahweh-figure (Genesis 18) preserves the substantial negotiation over the threshold of righteous people; the verification confirmed that the threshold could not be met; the strike was authorized; Abraham's nephew Lot was extracted before the strike"
-purpose_of_the_rebellion = "Organized vengeance / military retaliation: the human-led conspiracy to reverse, by force, the Council's policy of containment, with substantial weapons-program development drawing on scientific knowledge salvaged and reaccumulated during the long quiet between Babel and Sodom"
-council_intervention = "Multi-component intervention: (1) reconnaissance verification by two Council scouts equipped with personal hardware (the 'pocket atomic weapon' of the source's account); (2) extraction of the small population worth preserving (Lot and his immediate family); (3) targeted atomic strike against the Cities of the Plain; (4) substantial geological and ecological transformation of the broader Dead Sea basin"
-physical_signature = "The Dead Sea basin: hypersaline terminal lake approximately 430 meters below sea level, with water ten times saltier than ordinary seawater, dead to all normal aquatic life, sitting in a landscape of sterile salt flats and barren marl; magnesium-chloride dominance; heavy-metal concentrations; surrounding sterilized salt flats extending well beyond ordinary lakeshore evaporation patterns"
-operational_consequence = "The substantial reduction of the Eden lineage to 'a very primitive state' through the elimination of the educated class; the substantial shift from the post-Babel slow-knowledge-reaccumulation phase to the post-Sodom semi-primitive phase; the substantial Serpent-symbolism transformation from positive to negative valence; the broader cultural-symbolic conditions that produced the subsequent Christian-tradition Devil/Lucifer/Serpent conflation"
-distinguished_from = "The Babel intervention (the chronologically earlier Gemini-age dispersion event with substantively different operational character — peace-offering reconciliation attempt vs. organized vengeance movement); the Great Flood (the chronologically much earlier Gemini-age planetary-scale destruction event); the broader Theomachy multi-age narrative (within which Sodom operates as one specific late-Taurus phase); the conventional 'sin of Sodom' theological reading (the framework's specific contribution is the political-military-rebellion reading rather than the conventional sexual-deviance reading)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in 'The Truth' chapter, 'Sodom and Gomorrah' section, of *The Book Which Tells the Truth* establishes the framework's specific content with explicit articulation"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Sodom and Gomorrah' section (the principal Yahweh passage); *timeline.epub* Age of Taurus chapter, Section VI ('The Two Scouts, the Strike, and the Dead Sea') and Section VII ('The Forgetting and the Transformation of the Serpent') — the substantial subsequent corpus articulation"
+type = "Acontecimiento narrativo; el ataque del Consejo, a finales de la Era de Tauro, contra un movimiento humano organizado de venganza en las Ciudades de la Llanura"
+chronology = "Final de la Era de Tauro (situado convencionalmente hacia 2.000–1.800 a. e. c. según la cronología abrahámica); unos 2.500–3.000 años después de la intervención de Babel; durante la vida de Abraham"
+location = "Las Ciudades de la Llanura —Sodoma (סְדֹם), Gomorra (עֲמֹרָה) y las ciudades adicionales de Admá, Zeboim y Zoar—, en el valle bajo del Jordán, en el sur del Levante; el emplazamiento principal corresponde a la actual cuenca del mar Muerto"
+participants_council_side = "El Consejo de los Eternos del planeta de origen, que vigilaba la situación mediante observación a distancia; dos exploradores del Consejo (los «dos ángeles» de Génesis 19:1) enviados para verificar la amenaza; el personal del Consejo que llevó a cabo el ataque"
+participants_human_side = "La población de Sodoma y Gomorra: descendientes de la élite científica dispersada tras Babel que habían vuelto a reunir conocimientos durante la larga calma; Lot y su familia inmediata (el sobrino de Abraham, juzgado ajeno al movimiento y digno de ser preservado)"
+abraham_role = "Testigo e intercesor; la conversación de Mamré (Génesis 18) conserva su negociación sobre el umbral de justos; cuando no pudo alcanzarse ese umbral se autorizó el ataque, y su sobrino Lot fue evacuado de antemano"
+purpose_of_the_rebellion = "Venganza organizada: un plan dirigido por humanos para revertir por la fuerza la política de contención del Consejo, a partir de conocimientos científicos rescatados y reacumulados durante la larga calma entre Babel y Sodoma"
+council_intervention = "(1) reconocimiento por dos exploradores provistos de equipo personal (el «arma atómica de bolsillo» de la fuente); (2) evacuación de la pequeña población digna de ser preservada (Lot y su familia); (3) un ataque atómico dirigido contra las Ciudades de la Llanura; (4) la transformación geológica de la cuenca del mar Muerto"
+physical_signature = "La cuenca del mar Muerto: un lago terminal hipersalino a unos 430 metros bajo el nivel del mar, unas diez veces más salado que el agua de mar, sin vida acuática normal; predominio del cloruro de magnesio; concentraciones anómalas de metales pesados; salinas estériles en los alrededores"
+operational_consequence = "La reducción del linaje del Edén a «un estado muy primitivo» por la pérdida de su clase instruida; el paso de la fase de recuperación posterior a Babel a la recaída posterior a Sodoma; la inversión del simbolismo de la Serpiente de positivo a negativo, que alimentó la posterior confusión entre Diablo, Lucifer y Serpiente"
+distinguished_from = "La intervención de Babel (una propuesta de paz anterior dispersada, no una rebelión sofocada); el Gran Diluvio (un ataque muy anterior, a escala planetaria); el relato más amplio de la Teomaquia (dentro del cual Sodoma es una fase de finales de la Era de Tauro); la lectura convencional del «pecado de Sodoma» (el marco lee una rebelión político-militar, no una desviación sexual)"
+status_in_source_material = "Documentado; el pasaje principal de Yahvé figura en la sección «Sodoma y Gomorra» de *El libro que dice la verdad*"
+principal_text = "*El libro que dice la verdad* (1974), sección «Sodoma y Gomorra» (el pasaje principal de Yahvé); *timeline.epub*, capítulo de la Era de Tauro, secciones VI («Los dos exploradores, el ataque y el mar Muerto») y VII («El olvido y la transformación de la Serpiente»)"
 +++
 
 **Sodom and Gomorrah** (Hebrew: סְדֹם וַעֲמֹרָה, *Sedom va-Amorah*) is the

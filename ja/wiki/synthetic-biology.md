@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,17 +14,25 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Engineering biology", "Constructive biology", "Designed biology", "SynBio"]
+alternative_names = ["工学的生物学", "構成的生物学", "設計された生物学", "SynBio"]
+see_also = [
+    { title = "ジェネシス・ツールボックス", path = "wiki/genesis-toolbox", description = "計画全体の総合。正典の創造の技術体系であり、この学問分野はその最も近い現代の対応物である。" },
+    { title = "生命工学", path = "wiki/life-engineering", description = "合成生物学についての収斂論の全体が展開される、包括的な分野。" },
+    { title = "遺伝子工学", path = "wiki/genetic-engineering", description = "合成生物学が重なり合い、本格的な工学分野の実践によって拡張する、より古い分野。" },
+    { title = "合成ゲノミクス", path = "wiki/synthetic-genomics", description = "合成生物学が重なり合い、包含する、全ゲノムを扱う姉妹分野。" },
+    { title = "エロヒム", path = "wiki/elohim", description = "合成生物学がその実際的な語彙に最も近いとこの枠組みが読む文明。" },
+    { title = "創世記", path = "wiki/genesis", description = "この枠組みが太古における工学的な生物学を記述したものとして読む創造の記述。" },
+]
 
 [extra.infobox]
-type = "Engineering discipline applied to living systems"
-parent_field = "Life engineering"
-sister_fields = "Genetic engineering; synthetic genomics; xenobiology"
-distinguishing_feature = "Engineering-discipline practice (standardisation, modularity, abstraction, design–build–test cycles) applied to biological systems"
-foundational_milestones = "Repressilator (Elowitz and Leibler, 2000); genetic toggle switch (Gardner, Cantor, and Collins, 2000); first synthesis of a viral genome (Wimmer, 2002); BioBricks standard and Registry of Standard Biological Parts (Knight, 2003); iGEM (2004); semi-synthetic artemisinin (Keasling and colleagues, 2005 onward); JCVI-syn1.0 (2010)"
-key_techniques = "Genetic circuit design; metabolic pathway engineering; protein engineering (rational design and directed evolution); cell-free reaction systems; CRISPR-based circuit construction"
-current_status = "Active scientific discipline; commercial deployment in pharmaceuticals, food, materials, and industrial chemicals; multi-billion-dollar industry sector"
-framework_significance = "The discipline whose engineering-discipline vocabulary and methods most directly match the operational description of the Elohim's work in the Raëlian source material"
+type = "生命システムに適用される工学分野"
+parent_field = "生命工学"
+sister_fields = "遺伝子工学、合成ゲノミクス、ゼノバイオロジー"
+distinguishing_feature = "工学分野の実践(標準化、モジュール化、抽象化、設計・構築・試験のサイクル)を生物システムに適用すること"
+foundational_milestones = "リプレッシレーター(エロウィッツとライブラー、2000年)。遺伝子トグルスイッチ(ガードナー、カンター、コリンズ、2000年)。ウイルスゲノムの初の合成(ヴィマー、2002年)。バイオブリック規格と標準生物部品登録所(ナイト、2003年)。iGEM(2004年)。半合成アルテミシニン(キースリングら、2005年以降)。JCVI-syn1.0(2010年)"
+key_techniques = "遺伝子回路の設計。代謝経路工学。タンパク質工学(合理的設計と指向性進化)。無細胞反応系。CRISPRに基づく回路構築"
+current_status = "活発な科学分野。医薬品、食品、素材、工業化学品で商業展開。数十億ドル規模の産業部門"
+framework_significance = "その工学分野としての語彙と方法が、ラエリアンの典拠資料におけるエロヒムの仕事の実際的記述に最も直接的に一致する学問分野"
 +++
 
 **Synthetic biology** is the engineering-discipline branch of contemporary [life engineering](../life-engineering/). It applies engineering methods — standardisation, modularity, abstraction, characterisation, and design–build–test cycles — to the construction of biological systems with predetermined properties. The field is distinguished from older [genetic engineering](../genetic-engineering/), which it overlaps and extends, by its programmatic commitment to genuine engineering-discipline practice rather than the case-by-case empirical approach that characterised most pre-2000 biological-modification work; and from [synthetic genomics](../synthetic-genomics/), which it overlaps and includes, by its concern with sub-systems and components in addition to complete genomes.

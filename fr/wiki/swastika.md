@@ -6,28 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["svastika", "sauvastika", "manji (卍)", "Hakenkreuz (Nazi-specific tilted form)", "fylfot", "gammadion", "sun cross", "tetraskelion", "whirling logs (Navajo)"]
+alternative_names = ["svastika", "sauvastika", "manji (卍)", "Hakenkreuz (forme inclinée propre au nazisme)", "fylfot", "gammadion", "croix solaire", "tetraskelion", "bûches tourbillonnantes (navajo)"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Symbole raëlien de l'infini", path = "wiki/raelian-symbol-of-infinity", description = "L'emblème composite dont le svastika est l'élément central." },
+    { title = "Étoile de David", path = "wiki/star-of-david", description = "L'autre composante principale du même emblème composite." },
+    { title = "Infini", path = "wiki/infinity", description = "Le concept plus large que le svastika encode dans sa dimension temporelle, cyclique et éternelle." },
+    { title = "Effet de masse", path = "wiki/mass-effect", description = "Le cadre temporel et cyclique avec lequel s'accorde le sens du svastika, selon lequel tout est cyclique." },
+    { title = "Chaîne cosmique", path = "wiki/cosmic-chain", description = "La cosmologie des cycles emboîtés à laquelle participe la lecture du haut qui devient le bas." },
+    { title = "Raëlisme", path = "wiki/raelism", description = "Le mouvement dont les branches asiatiques conservent l'emblème originel centré sur le svastika." },
+    { title = "Le moulin qui broie les âges", path = "articles/the-mill-that-grinds-the-ages", description = "Le svastika comme roue tournante des âges — la glose de Yahvé qui fait de l'emblème l'infini dans le temps." },
+]
 
 [extra.infobox]
-type = "Religious-iconographic symbol; one of the oldest known symbols globally with cross-cultural distribution across virtually all major cultural-religious traditions"
-basic_form = "Cross with four arms bent at right angles, typically rotated 90 degrees between successive arms; principal orientations are right-facing (clockwise, *svastika* proper) and left-facing (counter-clockwise, *sauvastika*)"
-sanskrit_etymology = "*Svastika* (सुस्तिक) from *sv-* (good, well) and *asti* (to be) plus the *-ka* suffix; principal meaning 'well-being,' 'good fortune,' 'auspiciousness'"
-oldest_known_usage = "Approximately 10,000 BCE; Mezin culture (Ukraine), carved-mammoth-ivory bracelet"
-principal_traditional_meanings = "Auspiciousness, good fortune, well-being (Hindu); cyclic cosmic time (Buddhist, Jain); eternity, infinity in time (Raëlian framework); the cycle, the choice between progress and regression (Raëlian-specific framework content)"
-principal_cross_cultural_traditions = "Hindu (svastika), Buddhist (Buddhapada, manji 卍), Jain (ashtamangala), Paleolithic and Neolithic European (Mezin, Cucuteni-Trypillian, Vinča), Bronze Age and Iron Age European (Greek geometric pottery, Etruscan, Roman, Celtic-Germanic-Slavic-Baltic), Mesopotamian, ancient Mediterranean, Native American (Navajo, Hopi), various indigenous traditions"
-position_in_raelian_framework = "Central element of the original Raëlian Symbol of Infinity (1973-present, in use in Asian Raëlian movement branches); modified to galaxy-spiral in Western Raëlian movement branches (1990 modification); represents the temporal dimension of infinity through the cyclic-eternal principle"
-post_1945_situation = "Nazi appropriation (1920-1945) produced substantial cultural-political complications in post-Holocaust European-North American contexts; legal restrictions vary across jurisdictions (Germany StGB §86 prohibits Nazi-specific usage; various other European countries have similar restrictions); various post-1945 reclamation efforts within Hindu-Buddhist diaspora communities have worked toward distinguishing the broader pre-Nazi religious-traditional usage from the specific Nazi appropriation"
-distinguished_from = "The Star of David (the other principal component of the Raëlian Symbol of Infinity, treated under separate entry); the Raëlian Symbol of Infinity as composite emblem (treated under separate entry); the Nazi *Hakenkreuz* specifically (the tilted-clockwise form adopted as NSDAP symbol 1920); the broader cross-cultural sun-cross category (which includes various non-swastika cross-with-arms forms)"
-status_in_source_material = "Substantially documented; the principal Yahweh-delivered passages establish both the symbol's specific Raëlian-framework semantic content and its identification with broader cross-cultural traditional usage"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Watching Over the Chosen People' content (the principal Yahweh passage on the emblem); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Buddhism' / 'Devils' section (the swastika as cycle); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' section (the Bardo Thodol cross-reference)"
+type = "Symbole religieux ; l'un des plus anciens connus, présent de manière interculturelle dans la plupart des grandes traditions religieuses"
+basic_form = "Croix à quatre bras coudés à angle droit, généralement tournés de 90 degrés d'un bras à l'autre ; les principales orientations sont dextrogyre (sens horaire, *svastika* proprement dit) et sinistrogyre (sens antihoraire, *sauvastika*)"
+sanskrit_etymology = "*Svastika* (सुस्तिक), de *sv-* (bon, bien) et *asti* (être), plus le suffixe *-ka* ; sens principal « bien-être », « bonne fortune », « auspiciosité »"
+oldest_known_usage = "Environ 10 000 AEC ; culture de Mezin (Ukraine), bracelet en ivoire de mammouth sculpté"
+principal_traditional_meanings = "Bon augure, bonne fortune, bien-être (hindou) ; temps cosmique cyclique (bouddhiste, jaïn) ; éternité, infini dans le temps, et choix entre progrès et régression (cadre raëlien)"
+principal_cross_cultural_traditions = "Hindoue (svastika), bouddhiste (Buddhapada, manji 卍), jaïne (ashtamangala), européenne paléolithique et néolithique (Mezin, Cucuteni-Trypillia, Vinča), européenne de l'âge du bronze et de l'âge du fer (céramique géométrique grecque, étrusque, romaine, celto-germano-slavo-balte), mésopotamienne, méditerranéenne antique, amérindienne (navajo, hopi), diverses traditions autochtones"
+position_in_raelian_framework = "Élément central du symbole raëlien de l'infini originel (de 1973 à aujourd'hui, toujours utilisé dans les branches raëliennes asiatiques) ; remplacé par une spirale galactique dans les branches occidentales (1990) ; représente la dimension temporelle de l'infini à travers le principe cyclique-éternel"
+post_1945_situation = "L'appropriation nazie (1920-1945) a entraîné des complications culturelles et politiques dans l'Europe et l'Amérique du Nord de l'après-Shoah ; les restrictions légales varient selon les juridictions (le § 86 du StGB allemand interdit l'usage spécifiquement nazi ; d'autres pays européens ont des lois similaires) ; depuis 1945, des efforts de réappropriation au sein des communautés hindoues et bouddhistes de la diaspora visent à distinguer l'usage religieux antérieur au nazisme de l'appropriation nazie"
+distinguished_from = "L'étoile de David (l'autre composante de l'emblème, entrée dédiée) ; le symbole raëlien de l'infini en tant qu'emblème composite (entrée dédiée) ; le *Hakenkreuz* nazi (la forme inclinée orientée dans le sens horaire, adoptée comme symbole du NSDAP en 1920) ; la catégorie plus large de la croix solaire (qui inclut des formes de croix à bras autres que le svastika)"
+status_in_source_material = "Bien documenté ; les passages transmis par Yahvé établissent à la fois la signification du symbole dans le cadre raëlien et son identification avec l'usage traditionnel interculturel"
+principal_text = "*Le Livre qui dit la vérité* (1974), passages sur la surveillance du peuple élu (le principal passage de Yahvé sur l'emblème) ; *Les Extra-terrestres m'ont emmené sur leur planète* (1975), section « Le bouddhisme » / « Les démons » (le svastika comme cycle) ; *Les Extra-terrestres m'ont emmené sur leur planète* (1975), section « Ni Dieu ni âme » (le renvoi au Bardo Thödol)"
 +++
 
 The **swastika** is one of the oldest religious symbols, with archaeological evidence extending back at least 12,000 years to Paleolithic Europe. It is a **cross with four arms bent at right angles**, typically rotated 90 degrees between successive arms, in a right-facing (clockwise, *svastika* proper in Hindu tradition) or left-facing (counter-clockwise, *sauvastika*) orientation. Its cross-cultural reach spans most major traditions: it is a principal auspicious symbol in Hindu tradition (Sanskrit *svastika*, "well-being" or "good fortune"); appears in nearly all Buddhist temples, notably on the Buddhapada (Buddha's footprint) and in the Chinese 卍 (*manji*) form; is one of the eight auspicious symbols (*ashtamangala*) in Jain tradition; and had pre-Nazi use across European, Mesopotamian, Mediterranean, Native American, and other traditions. Its meaning varies by tradition but consistently carries auspicious, protective, and cosmic-cyclic content.

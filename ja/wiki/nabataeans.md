@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -20,6 +20,14 @@ entry_type = "people"
 claim_type = "inferred"
 timeline = ["pisces", "aries"]
 alternative_names = ["נבטו (ナバテア・アラム語 Nabaṭu)", "Ναβαταῖοι (ギリシア語 Nabataîoi)", "ٱلْأَنْبَاط (アラビア語 al-Anbāṭ)", "Nabateans", "ナバティ (the Nabati)", "ラクムー(Raqmū)の民"]
+see_also = [
+    { title = "ペトラ", path = "wiki/petra", description = "ナバテア人の岩窟の首都であり、この枠組みのペトラ仮説の中心となる場所。" },
+    { title = "ハニーフィーヤ", path = "wiki/hanafiyya", description = "ナバテアの人々がその人間の媒体として読まれる、アブラハム的な回復。" },
+    { title = "ムハンマド", path = "wiki/muhammad", description = "そのクルアーンのアラビア語がナバテア・アラビア語に由来すると論じられる預言者。" },
+    { title = "イエス", path = "wiki/jesus", description = "ナバテア人が書き記したのと同じアラム語の話者。イスラムを共通の環境の中に置く。" },
+    { title = "アブラハム", path = "wiki/abraham", description = "ナバテア人が属するアラム・アブラハム的環境の、族長としての源。" },
+    { title = "ヘブライ語聖書", path = "wiki/hebrew-bible", description = "その実際的な語彙が、ここでたどるアラム・アブラハム的環境を共有するコーパス。" },
+]
 
 [extra.infobox]
 type = "古代北アラビアの隊商交易民族;ペトラの建設者;アラム文字からアラビア文字への伝達者"

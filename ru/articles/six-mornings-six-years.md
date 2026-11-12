@@ -7,8 +7,8 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
-source_updated = "2026-11-01"
+translation_updated = "2026-11-12"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -713,7 +713,7 @@ ETTMTTP 2:72, ETTMTTP 3:216, даты LWTE. Корпус оценивает це
 Элохим — и одобрительно ссылается при этом на земные опыты над крысами
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=62) %}TBWTT 7:61–62{% end %})
 — ехали на исследовательской программе, рухнувшей в пределах
-десятилетия. Родная планета «чуть менее чем в световом годе» пути
+десятилетия. Родная планета «чуть менее чем в световом годе» ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=52) %}TBWTT 5:52{% end %}) пути
 лежит, по всем последующим обзорам неба, внутри пустого пространства;
 третья книга встречает возражение гипотезой, поставленной членом
 движения, а не откровением, — о свете, движущемся по «выраженной

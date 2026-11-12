@@ -6,29 +6,40 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the zodiac belt", "the zodiacal circle", "*zōidiakos kyklos* (Greek: ζῳδιακὸς κύκλος, 'circle of small figures')", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "the celestial circle", "the wheel of heaven (in older usage)", "the twelve houses (in astrological usage)"]
+alternative_names = ["la ceinture zodiacale", "le cercle zodiacal", "*zōidiakos kyklos* (grec : ζῳδιακὸς κύκλος, « cercle des petites figures »)", "*Mazzaroth* (hébreu : מַזָּרוֹת)", "le cercle céleste", "la roue du ciel (dans un usage ancien)", "les douze maisons (dans l'usage astrologique)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Âge du monde", path = "wiki/world-age", description = "L'âge précessionnel que marque chaque segment zodiacal dans le calendrier du cadre." },
+    { title = "Signature redoublée", path = "wiki/doubled-signature", description = "Le principe produit par les six axes d'oppositions appariées du zodiaque." },
+    { title = "Le Moulin d'Hamlet", path = "wiki/hamlets-mill", description = "L'ancrage savant pour une lecture interculturelle de l'encodage zodiacal et précessionnel." },
+    { title = "Chaîne cosmique", path = "wiki/cosmic-chain", description = "Le cadre chronologique plus large que structure le calendrier zodiacal." },
+    { title = "Bible hébraïque", path = "wiki/hebrew-bible", description = "Une tradition dont le corpus lit le contenu du Mazzaroth à travers le cadre zodiacal." },
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "L'auteur dont la lecture de la religion zodiacale précède le traitement précessionnel du corpus." },
+    { title = "Le moulin qui broie les âges", path = "articles/the-mill-that-grinds-the-ages", description = "Le zodiaque comme les douze heures de la Grande Année, chaque âge portant le nom de sa constellation équinoxiale." },
+    { title = "Mazzaroth", path = "wiki/mazzaroth", description = "Le nom hébreu du zodiaque — le Mazzaroth de Job 38 et ses descendants mazzal." },
+    { title = "Tauroctonie", path = "wiki/tauroctony", description = "La tauroctonie mithriaque lue comme une carte du ciel de l'ère du Taureau." },
+]
 
 [extra.infobox]
-type = "Structural-foundational concept; the principal observational-symbolic framework underlying the precessional age system"
-definition = "The band of sky extending approximately 8° on either side of the ecliptic, divided into twelve constellational regions named after small figures (animal, human, and inanimate) traversed by the sun, moon, and planets in their apparent celestial motion"
-the_twelve_signs = "Aries (the Ram), Taurus (the Bull), Gemini (the Twins), Cancer (the Crab), Leo (the Lion), Virgo (the Virgin), Libra (the Scales), Scorpio (the Scorpion), Sagittarius (the Archer), Capricorn (the Sea-Goat), Aquarius (the Water-Bearer), Pisces (the Fishes)"
-six_paired_oppositions = "Aries↔Libra, Taurus↔Scorpio, Gemini↔Sagittarius, Cancer↔Capricorn, Leo↔Aquarius, Virgo↔Pisces — six axes producing the doubled-signature principle"
-ecliptic_basis = "The ecliptic — the apparent annual path of the sun against the stellar background, produced by Earth's orbital motion around the sun, inclined approximately 23.44° to the celestial equator"
-constellational_basis = "The twelve constellations occupy varying angular extents along the ecliptic (modern IAU boundaries; idealized 30°-per-sign in classical astrological usage); the constellations are not equal in size — Virgo is the largest, Capricorn among the smallest"
-mechanism_of_precessional_relevance = "The vernal equinox precesses backward (westward) through the zodiac at approximately one constellation per 2,160 years, producing the precessional age sequence (Capricorn → Sagittarius → Scorpio → ... → Pisces → Aquarius → back to Capricorn)"
-framework_reading = "The zodiac as the alliance's engineering tool — the long-duration calendrical framework devised by the Elohim for their interstellar biotech program, with the zodiacal names and the paired-opposition structure operating as functional engineering features rather than mystical-aesthetic conventions"
-zodiacal_names_origin = "On the corpus's reading: the Elohim's own conceptual shorthand for the twelve ecliptic segments, inherited by human civilizations through cultural transmission across the post-flood ages; later human civilizations modified the figures while preserving the underlying twelve-fold structure"
-distinguished_from = "Mainstream astrology's tropical zodiac (signs tied to seasonal positions rather than actual constellational positions, decoupled from precessional motion); the various cross-cultural zodiacal-equivalent traditions (Chinese twelve-animal cycle, Indian nakshatra system, Mesoamerican calendrical traditions) which preserve substantive parallel content within distinctive cultural framings; the broader astronomical constellational framework (the 88 IAU-defined constellations of which the twelve zodiacal constellations are a subset)"
-status_in_framework = "Foundational; the zodiac operates as the principal observational-symbolic complement to the World Age temporal framework, with the two together constituting the corpus's principal cosmic-chronological architecture"
-principal_corpus_treatment = "*timeline.epub*, particularly the Libra chapter's Section VI.2 ('The Zodiacal Framework as Engineering Tool'); Jean Sendy, *L'ère du Verseau* (1970), with substantial systematic engagement with Moses's use of zodiacal symbolism (the *religion zodiacale* framework)"
+type = "La bande de constellations le long de l'écliptique ; le cadre d'observation qui sous-tend les ères précessionnelles"
+definition = "La bande du ciel qui s'étend d'environ 8° de part et d'autre de l'écliptique, divisée en douze régions constellées portant le nom de petites figures (animales, humaines et inanimées), que parcourent le Soleil, la Lune et les planètes dans leur mouvement céleste apparent"
+the_twelve_signs = "Bélier, Taureau, Gémeaux, Cancer (le Crabe), Lion, Vierge, Balance, Scorpion, Sagittaire (l'Archer), Capricorne (la Chèvre-Poisson), Verseau (le Porteur d'eau), Poissons"
+six_paired_oppositions = "Bélier↔Balance, Taureau↔Scorpion, Gémeaux↔Sagittaire, Cancer↔Capricorne, Lion↔Verseau, Vierge↔Poissons — six axes qui produisent le principe de la signature redoublée"
+ecliptic_basis = "L'écliptique — la trajectoire annuelle apparente du Soleil sur le fond des étoiles, produite par le mouvement orbital de la Terre autour du Soleil, inclinée d'environ 23,44° sur l'équateur céleste"
+constellational_basis = "Les douze constellations occupent des étendues angulaires variables le long de l'écliptique (frontières modernes de l'UAI ; 30° idéalisés par signe dans l'usage astrologique classique) ; les constellations ne sont pas de taille égale — la Vierge est la plus grande, le Cancer la plus petite"
+mechanism_of_precessional_relevance = "Le point vernal recule (vers l'ouest) à travers le zodiaque au rythme d'environ une constellation tous les 2 160 ans, produisant la séquence des ères précessionnelles (Capricorne → Sagittaire → Scorpion → ... → Poissons → Verseau → retour au Capricorne)"
+framework_reading = "Le zodiaque comme outil d'ingénierie des Élohim — le calendrier de longue durée conçu pour leur projet sur Terre, ses noms et sa structure d'oppositions par paires étant des éléments fonctionnels plutôt que des conventions mystiques"
+zodiacal_names_origin = "Selon la lecture du corpus, la désignation abrégée propre aux Élohim pour les douze segments de l'écliptique, héritée par les civilisations humaines par transmission culturelle postdiluvienne et modifiée tout en préservant la structure duodécimale"
+distinguished_from = "Le zodiaque tropical de l'astrologie dominante (signes liés aux positions saisonnières plutôt qu'aux constellations réelles, découplés de la précession) ; les équivalents interculturels du zodiaque (le cycle chinois des douze animaux, le système indien des *nakshatra*, les traditions calendaires mésoaméricaines), qui portent un contenu parallèle dans leurs propres cadres ; et l'ensemble plus large des constellations astronomiques (les 88 constellations de l'UAI, dont les douze zodiacales forment un sous-ensemble)"
+status_in_framework = "Fondateur ; le zodiaque est le complément observationnel et symbolique de la chronologie des ères précessionnelles, les deux formant ensemble l'architecture cosmo-chronologique du corpus"
+principal_corpus_treatment = "*timeline.epub*, en particulier la section VI.2 du chapitre de la Balance (« Le cadre zodiacal comme outil d'ingénierie ») ; Jean Sendy, *L'ère du Verseau* (1970), avec un examen systématique substantiel de l'usage que Moïse fait du symbolisme zodiacal (le cadre de la *religion zodiacale*)"
 +++
 
 The **Zodiac** (Greek: ζῳδιακὸς κύκλος, *zōidiakos kyklos*, "circle of small

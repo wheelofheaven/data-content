@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,15 +15,23 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
 alternative_names = ["Catalogue of mythological motifs", "Mythological-motif index (framework reading)", "Cross-cultural mythemes catalogue"]
+see_also = [
+    { title = "神话素", path = "wiki/mytheme", description = "本目录用法所依据、并与母题和故事类型相区分的专门单位。" },
+    { title = "创世记", path = "wiki/genesis", description = "本目录所延伸之同一操作性转译方法在章节尺度上的应用。" },
+    { title = "伊甸", path = "wiki/eden", description = "若干被编目母题被回溯解读到的一个源叙事。" },
+    { title = "路西法", path = "wiki/lucifer", description = "在本目录禁忌知识与反叛母题中反复出现的人物。" },
+    { title = "宇宙竞争", path = "wiki/cosmic-competition", description = "若干被编目的“诸力量之战”母题所汇聚的框架解读。" },
+    { title = "宗教", path = "wiki/religion", description = "被编目母题所嵌入的、更广泛的传统形成类别。" },
+]
 
 [extra.infobox]
-type = "Reference catalogue of cross-cultural mythological motifs with framework readings"
-classification_instrument = "Stith Thompson, *Motif-Index of Folk-Literature* (1955), Section A (Mythological Motifs)"
-scope = "Cosmogonic, theogonic, anthropogonic, and culture-hero motifs with substantial cross-cultural attestation"
-catalogue_columns = "Motif name; Motif-Index code; principal cross-cultural attestations; framework reading"
-framework_method = "Translation of mythological patterns into operational terms consistent with the source material's account of the Elohim's work"
-working_hypothesis = "Wide cross-cultural distribution of certain motifs reflects shared historical reference (the Elohim's contact pattern across human populations) rather than coincidence or independent invention"
-caveat = "Coverage is most complete for motifs with clear framework-relevant content; the catalogue does not exhaust the Motif-Index even within Section A"
+type = "附本框架解读的跨文化神话母题参考目录"
+classification_instrument = "斯蒂斯·汤普森，*Motif-Index of Folk-Literature*（1955），A 部（神话母题）"
+scope = "具有充分跨文化佐证的宇宙起源、神谱、人类起源与文化英雄母题"
+catalogue_columns = "母题名称；母题索引编号；主要的跨文化佐证；本框架的解读"
+framework_method = "把神话模式转译为与原始材料关于耶洛因工作之记述相一致的作业性术语"
+working_hypothesis = "某些母题的广泛跨文化分布反映的是共同的历史指涉（耶洛因在各人类群体中的接触模式），而非巧合或独立发明"
+caveat = "对具有明确框架相关内容的母题覆盖最为完整；即便在 A 部之内，本目录也未穷尽母题索引"
 +++
 
 This entry catalogues the principal cross-cultural mythological motifs the Wheel of Heaven framework reads as preserving, in mythologised form, historical content from the Elohim's interaction with human populations across the Earth project. {% claim(type="speculative", id="woh-claim-0056") %}The catalogue uses **Stith Thompson's *Motif-Index of Folk-Literature*** (1955) as its principal academic classification instrument and supplies, for each motif, a brief inventory of cross-cultural attestations and the framework's adopted reading of what the motif preserves.{% end %}

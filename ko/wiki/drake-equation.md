@@ -6,27 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Science & Technology"
 entry_type = "concept"
-alternative_names = ["Drake Equation", "Green Bank Equation (occasional alternative)", "Drake-Sagan Equation (rarely used)", "\u00e9quation de Drake (French)", "Drake-Gleichung (German)"]
+alternative_names = ["드레이크 방정식", "그린뱅크 방정식(간혹 쓰이는 대안)", "드레이크-세이건 방정식(드물게 쓰임)", "équation de Drake (프랑스어)", "Drake-Gleichung (독일어)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "우주생물학", path = "wiki/astrobiology", description = "코퍼스가 이 방정식을 다루는 주류 연구 프로그램." },
+    { title = "UFO학", path = "wiki/ufology", description = "코퍼스가 이 방정식의 페르미 물음을 이미 해결한 것으로 읽는 접촉 증거의 영역." },
+    { title = "엘로힘의 모행성", path = "wiki/elohim-home-planet", description = "코퍼스가 이 방정식의 답이 나온 사례로 다루는, 기록된 특정 문명." },
+    { title = "우주적 경쟁", path = "wiki/cosmic-competition", description = "이 방정식이 추상적으로 헤아리는 은하 문명 역학에 대한 프레임워크의 독해." },
+    { title = "상디의 정합성 조건", path = "wiki/sendys-conditions-of-coherence", description = "이 방정식의 생물학적·문명적 매개변수에 대한 단일 데이터 지점의 제약." },
+    { title = "고대 우주비행사 가설", path = "wiki/ancient-astronaut-hypothesis", description = "코퍼스가 '접촉은 이미 확립되었다'는 주장을 위치시키는 더 넓은 틀." },
+]
 
 [extra.infobox]
-type = "Probabilistic formulation expressing the number of detectable communicative extraterrestrial civilizations in the Milky Way galaxy as the product of seven contributing factors"
-formulated_by = "Frank Drake (1930-2022); November 1, 1961 at National Radio Astronomy Observatory, Green Bank, West Virginia, for the first SETI conference (the 'Order of the Dolphin' meeting)"
+type = "우리 은하에서 탐지 가능한, 교신하는 외계 문명의 수를 일곱 가지 인자의 곱으로 나타내는 확률 공식"
+formulated_by = "프랭크 드레이크(1930-2022). 1961년 11월 1일 웨스트버지니아주 그린뱅크의 국립 전파천문대에서 최초의 SETI 회의('돌고래 기사단' 모임)를 위해 정식화"
 equation = "N = R* \u00d7 fp \u00d7 ne \u00d7 fl \u00d7 fi \u00d7 fc \u00d7 L"
-parameters = "R* (rate of star formation); fp (fraction of stars with planets); ne (number of habitable planets per planet-bearing star); fl (fraction of habitable planets developing life); fi (fraction with intelligence); fc (fraction with detectable communication); L (lifetime of communicative civilizations)"
-principal_purpose = "Structural framework organizing the questions a SETI program must engage; 'a tool for quantifying our ignorance' (Drake); not principally a definitive quantification tool"
-parameter_constraint_status = "Astronomical parameters (R*, fp, ne) substantially constrained post-1995 through exoplanet revolution; biological and civilizational parameters (fl, fi, fc, L) remain substantively contested"
-principal_reformulations = "Sara Seager's biosignature-detection equation (2013); Adam Frank and Woodruff Sullivan archaeological reformulation (2016); Anders Sandberg, Eric Drexler, Toby Ord uncertainty-propagation analysis (2018)"
-principal_framing_question = "The Fermi Paradox (1950): given optimistic parameter estimates implying substantial galactic civilization counts, why don't we observe any?"
-corpus_position = "Substantive scientific framework engaged at the descriptive level; alliance-contact framework articulated in Vorilhon source provides substantive resolution to Fermi Paradox the equation generates"
-distinguished_from = "The broader SETI program (Drake Equation as one component); the Fermi Paradox (the question the equation's optimistic estimates pose); the Seager equation (post-2013 biosignature-focused adaptation); the Frank-Sullivan archaeological equation (2016 reformulation focused on past rather than present civilizations)"
+parameters = "R*(별의 형성률); fp(행성을 가진 별의 비율); ne(행성을 가진 별 하나당 거주 가능한 행성의 수); fl(생명이 발생하는 거주 가능 행성의 비율); fi(지성이 생기는 비율); fc(탐지 가능한 통신을 하는 비율); L(통신하는 문명의 존속 기간)"
+principal_purpose = "SETI 프로그램이 다루어야 할 질문들을 정리한 의제. '우리의 무지를 정량화하는 방법'(드레이크) — 주로 계산 도구는 아닙니다"
+parameter_constraint_status = "천문학적 항(R*, fp, ne)은 1995년 외계 행성 혁명 이후 잘 제약되어 있으나, 생물학적·문명적 항(fl, fi, fc, L)은 여전히 논쟁 중입니다"
+principal_reformulations = "사라 시거의 생명 지표 방정식(2013), 프랭크–설리번의 고고학적 재정식화(2016), 샌드버그–드렉슬러–오드의 불확실성 분석(2018)"
+principal_framing_question = "페르미 역설(1950): 방정식의 낙관적인 값이 문명으로 가득한 은하를 함축한다면, 왜 우리는 하나도 관측하지 못하는가?"
+corpus_position = "이 체계는 방정식을 건전한 과학으로 다루지만, 그것이 낳는 페르미 역설은 이미 해결된 것으로 읽습니다. 라엘 원전에 보고된 엘로힘과의 접촉은 N을 추정에 맡기지 않고 1보다 큰 값으로 확정합니다"
+distinguished_from = "더 넓은 SETI 프로그램(방정식은 그 일부), 페르미 역설(방정식의 낙관적인 값이 제기하는 질문), 시거 방정식(생명 지표 중심, 2013), 프랭크–설리번 고고학적 방정식(현재가 아닌 과거 문명, 2016)"
 status_in_framework = "Substantive contemporary scientific formulation engaged within corpus framework's broader astrobiology engagement; principal resolution to Fermi Paradox articulated through alliance-contact framework"
 +++
 

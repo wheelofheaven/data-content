@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Quatre semaines après le Communiqué 03, le Département de la Guerre des États-Unis a publié le Communiqué 04 sur war.gov/UFO : 40 fichiers — 14 documents, 19 vidéos, 4 enregistrements audio et 3 images — provenant du Département de la Guerre, de la NASA, de la CIA, du FBI et, pour la première fois, du Département de l'Énergie. Les deux fichiers phares partagent un même sujet : les sites d'armes nucléaires. Une transcription nouvellement déclassifiée relate une conférence de Los Alamos de 1949 au cours de laquelle des physiciens du Projet Manhattan — Edward Teller, Norris Bradbury et l'expert en météores Lincoln LaPaz parmi eux — ont tenté sans succès d'expliquer les « boules de feu vertes » observées au-dessus du laboratoire ; un fichier du Département de l'Énergie documente une intrusion aérienne de septembre 2015 au-dessus de l'usine d'armes nucléaires Pantex près d'Amarillo, au Texas. Le corpus enregistre le Communiqué 04 comme un contexte pour lire le canon, et non comme un signe — y compris son sujet nucléaire, qui touche le seuil atomique de 1945 que le canon traite comme l'ouverture de l'ère présente, sans constituer une preuve à son sujet."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §III and §IX"
+filed_under = "Le contexte du présent"
+cross_reference = "Ère du Verseau, §III et §IX"
 canon_links = [
     { title = "Âge du Verseau", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

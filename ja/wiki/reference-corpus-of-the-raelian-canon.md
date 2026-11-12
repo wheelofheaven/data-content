@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -34,6 +34,7 @@ see_also = [
     { title = "黙示録", path = "/wiki/apocalypse/", description = "『新たな啓示』で展開される黙示録の読解。" },
     { title = "ハムレットの臼", path = "/wiki/hamlets-mill/", description = "正典の痕跡論に隣接する、文化横断的な神話的=歳差論的読解。" },
     { title = "二重の署名", path = "/wiki/doubled-signature/", description = "正典とその参照テクストが同一の根底的実在へと収斂するというコーパスの原理。" },
+    { title = "六つの朝、六つの年", path = "/articles/six-mornings-six-years/", description = "三冊の原典書に対して校訂資料を備えるべきだという、本文批評上の論拠。" },
 ]
 
 footnotes = [

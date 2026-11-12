@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 99
@@ -23,14 +23,16 @@ alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "Jehova", "
 portrait_id = "yahweh"
 image = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/yahweh-eloha-v2.avif"
-image_alt = "AI-generated editorial portrait of Yahweh as an elder Eloha with almond-shaped eyes, long pale hair, and a calm green-lit presence."
-image_caption = "Interpretive portrait for the Yahweh wiki entry and library speaker metadata."
+image_alt = "KI-generiertes redaktionelles Porträt Jahwes als älterer Eloha mit mandelförmigen Augen, langem hellem Haar und ruhiger, grün beleuchteter Ausstrahlung."
+image_caption = "Deutendes Porträt für den Wiki-Eintrag zu Jahwe und die Sprechermetadaten der Bibliothek."
 see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "Die plurale Bezeichnung, deren wichtigstes Mitglied Jahwe ist." },
     { title = "Rat der Ewigen", path = "wiki/council-of-the-eternals", description = "Das leitende Gremium, dem Jahwe vorsitzt." },
     { title = "Jesus", path = "wiki/jesus", description = "Die Figur, die in der christlichen Tradition konventionell als Sohn Jahwes identifiziert wird." },
     { title = "Mose", path = "wiki/moses", description = "Jahwes primärer Kontakt während der Exodus-Erzählung." },
     { title = "Abraham", path = "wiki/abraham", description = "Der Gründungspatriarch, durch den Jahwe den Bund schloss." },
+    { title = "Monotheismus ist die falsche Frage", path = "articles/monotheism-is-the-wrong-question", description = "Jahwe, gelesen als benannter, stellvertretender Eloha, der für die vielen Schöpfer spricht — nicht als das Sein selbst." },
+    { title = "Sechs Morgen, sechs Jahre", path = "articles/six-mornings-six-years", description = "Liest ihn als seinen eigenen Redaktor: zurückgehaltene Namen, zeitlich gesetzte Sperrfristen, quellenschützende Reparatur." }
 ]
 
 footnotes = [

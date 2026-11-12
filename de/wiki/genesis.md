@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -14,19 +14,28 @@ category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
 alternative_names = ["Bereshit", "B'reshit", "First Book of Moses"]
+see_also = [
+    { title = "Genesis-Werkzeugkasten", path = "wiki/genesis-toolbox", description = "Die Zusammenstellung des Korpus von Wissenschaft und Technik, die der Schöpfungsbericht im Einsatz beschreibt." },
+    { title = "Elohim", path = "wiki/elohim", description = "Die vielen Schöpfer, deren Werk das erste Kapitel erzählt." },
+    { title = "Eden", path = "wiki/eden", description = "Der Garten, in den die ersten Menschen in Genesis 2–3 gesetzt wurden." },
+    { title = "Adam und Eva", path = "wiki/adam-and-eve", description = "Die ersten Menschen des zweiten Schöpfungsberichts." },
+    { title = "Noah", path = "wiki/noah", description = "Die Bundesgestalt aus Genesis 6–9, die die Sintflut überlebt." },
+    { title = "Sintflut", path = "wiki/great-flood", description = "Die Sintfluterzählung, die die Geschichte der Menschheit in Genesis 6–9 neu beginnen lässt." },
+    { title = "Hebräische Bibel", path = "wiki/hebrew-bible", description = "Das umfassendere Schriftenkorpus, das die Genesis eröffnet." }
+]
 
 [extra.infobox]
 hebrew_title = "בְּרֵאשִׁית"
 transliteration = "Bərēʾšît"
-title_meaning = "In the beginning"
-greek_title = "Γένεσις (Génesis, 'origin')"
-language = "Biblical Hebrew"
-length = "50 chapters; approximately 32,000 words in the Masoretic Text"
-canon_position = "First book of the Torah / Pentateuch; first book of the Hebrew Bible and Christian Old Testament"
-traditional_attribution = "Moses (Mosaic authorship)"
-scholarly_dating = "Compositional layers c. 10th–5th century BCE; final redaction post-exilic"
-principal_witnesses = "Masoretic Text; Septuagint; Samaritan Pentateuch; Dead Sea Scrolls fragments (c. 3rd century BCE – 1st century CE)"
-genre = "Primeval and patriarchal history; theological narrative"
+title_meaning = "Im Anfang"
+greek_title = "Γένεσις (Génesis, ‚Ursprung‘)"
+language = "Biblisches Hebräisch"
+length = "50 Kapitel; etwa 32.000 Wörter im Masoretischen Text"
+canon_position = "Erstes Buch der Tora / des Pentateuch; erstes Buch der Hebräischen Bibel und des christlichen Alten Testaments"
+traditional_attribution = "Mose (mosaische Verfasserschaft)"
+scholarly_dating = "Kompositionsschichten ca. 10.–5. Jahrhundert v. Chr.; Endredaktion nachexilisch"
+principal_witnesses = "Masoretischer Text; Septuaginta; Samaritanischer Pentateuch; Fragmente der Schriftrollen vom Toten Meer (ca. 3. Jahrhundert v. Chr. – 1. Jahrhundert n. Chr.)"
+genre = "Ur- und Vätergeschichte; theologische Erzählung"
 +++
 
 **Genesis** (Hebrew: <span class="hebrew">בְּרֵאשִׁית</span>, *Bərēʾšît*, "in the beginning"; Greek: *Γένεσις*, *Génesis*, "origin") is the first book of the {% wiki(slug="hebrew-bible") %}Hebrew Bible{% end %} and of the Christian Old Testament. The Hebrew title is taken from the book's opening word; the English title derives from the Greek {% wiki(slug="septuagint") %}Septuagint{% end %} translation, which named the book after its principal subject. Genesis contains two distinct creation accounts (Genesis 1:1–2:3 and Genesis 2:4–25), the primeval history (Genesis 3–11) including the expulsion from Eden, the genealogies of the long-lived patriarchs, the Flood, and the dispersal at Babel, and the patriarchal history (Genesis 12–50) covering Abraham, Isaac, Jacob, and Joseph. The book's fifty chapters span what conventional chronology treats as approximately two thousand years from creation to Joseph's death in Egypt, with the framework's reading treating the same narrative as compressing approximately fifteen thousand years of history.

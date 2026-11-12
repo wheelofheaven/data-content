@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -15,19 +15,27 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["hexagram", "Magen David (מָגֵן דָּוִד, 'Shield of David')", "Solomon's Seal (Seal of Solomon)", "Hindu Shatkona (षट्कोण, 'six-cornered')", "Star of Goliath (older Karaite designation)", "Creator's Star", "Hex Star"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "雷尔派无限符号", path = "wiki/raelian-symbol-of-infinity", description = "以大卫之星为外层组成部分的复合徽标。" },
+    { title = "卐字", path = "wiki/swastika", description = "该徽标的另一组成部分，编码无限的时间维度。" },
+    { title = "无限", path = "wiki/infinity", description = "交织的三角形在框架中所代表的空间维度。" },
+    { title = "联盟", path = "wiki/the-alliance", description = "Sendy 解读为交织三角形所编码的造物主—受造者盟约。" },
+    { title = "分形宇宙学", path = "wiki/fractal-cosmology", description = "六芒星所象征的跨尺度“上行下效”结构。" },
+    { title = "双重署名", path = "wiki/doubled-signature", description = "这一符号所体现的成对图像编码之文集原则。" },
+]
 
 [extra.infobox]
 type = "Religious-iconographic symbol; hexagram comprising two intertwined equilateral triangles forming a six-pointed star; substantial cross-cultural distribution across multiple religious-traditional contexts"
-basic_form = "Two intertwined equilateral triangles, one pointing upward and one pointing downward, forming a six-pointed star (hexagram); the geometric structure produces six points and twelve outer line-segments forming the principal hexagonal outline"
-hebrew_designation = "*Magen David* (מָגֵן דָּוִד, 'Shield of David'); the Hebrew designation became the principal Jewish-cultural designation across the medieval and modern periods"
-oldest_known_usage = "Substantial pre-Jewish-symbol cross-cultural usage extending back at least 4,000-5,000 years across Mesopotamian, Mediterranean, and South Asian traditions; the specific Jewish-symbol identification is principally modern (17th century onward)"
-principal_traditional_meanings = "Cosmic correspondence (Hermetic 'as above, so below'); union of male and female divine principles (Hindu Shatkona); union of opposites and four-elements integration (Hermetic-alchemical); magical-protective seal (Solomon's Seal traditions); Jewish-cultural identification (modern Jewish-symbol usage); the alliance covenant between creators and human creation (Sendy interpretive contribution); the spatial dimension of infinity (Raëlian framework)"
-principal_cross_cultural_traditions = "Hindu (Shatkona, principally Tantric-yantra usage); Hermetic-alchemical (the four-elements-integration framework); Solomon's Seal traditions (magical-protective contexts across medieval Jewish, Christian, and Islamic traditions); Mesopotamian and ancient Mediterranean hexagram usage; medieval Christian and Islamic religious-architectural usage; modern Jewish-cultural and Zionist-political usage; Raëlian-framework iconographic correlate of the spatial dimension of infinity"
-position_in_raelian_framework = "Outer component of the Raëlian Symbol of Infinity (the composite emblem with central swastika or galaxy-spiral); represents the spatial dimension of infinity through the Hermetic 'as above, so below' principle; in Sendy's distinctive interpretive contribution, additionally represents the alliance covenant between the creators (upward triangle) and the human creation (downward triangle)"
-modern_jewish_symbol_status = "Principal Jewish-cultural symbol since approximately the late nineteenth century; adopted by the Zionist movement at the First Zionist Congress (1897); substantial Holocaust-period usage as the yellow-badge identification; adopted on the Israeli national flag (1948); continues as the principal Jewish-cultural-religious symbol in contemporary contexts"
-distinguished_from = "The Swastika (the other principal component of the Raëlian Symbol of Infinity, with its own substantial pre-Nazi religious-traditional history); the Raëlian Symbol of Infinity as composite emblem (treated under separate entry); the broader cross-cultural pentagram and other star-iconographic forms (which operate within distinct iconographic categories); the various national-flag and political-symbol usages (which operate within specific contemporary political contexts)"
-status_in_source_material = "Substantially documented; the principal Yahweh-delivered passages establish both the symbol's specific Raëlian-framework semantic content and its identification with the Hermetic 'as above, so below' principle; Sendy's distinctive interpretive contribution provides substantial additional doctrinal content"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Watching Over the Chosen People' content (the principal Yahweh passage on the emblem); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' section (the 'as above, so below' explicit articulation and the Bardo Thodol cross-reference); Jean Sendy, *L'ère du Verseau* (1970), the seal-of-Solomon-as-alliance-covenant interpretive contribution"
+basic_form = "两个相互交错的等边三角形，一个朝上、一个朝下，构成六角星（六芒星）；六个外角环绕中央的六边形"
+hebrew_designation = "*Magen David*（מָגֵן דָּוִד，「大卫之盾」），中世纪与现代犹太人的标准称呼"
+oldest_known_usage = "六芒星在美索不达米亚、地中海与南亚传统中有跨文化的使用，远早于任何与犹太人的关联；将其特定地认定为犹太符号是现代的事（十七世纪以后）"
+principal_traditional_meanings = "宇宙对应（「如其在上，如其在下」，赫尔墨斯派）；阳性与阴性原则的结合（印度教的 Shatkona）；对立面与四元素的结合（赫尔墨斯—炼金术）；护身印（所罗门之印）；犹太身份（现代）；创造者与人类之间的联盟（桑迪）；无限的空间维度（雷尔派框架）"
+principal_cross_cultural_traditions = "印度教（Shatkona）；赫尔墨斯—炼金术（四元素图形）；所罗门之印（在中世纪犹太教、基督教与伊斯兰教语境中的魔法—护身用途）；美索不达米亚与地中海的六芒星用法；现代犹太与锡安主义用法；雷尔派框架"
+position_in_raelian_framework = "雷尔派无限符号（中央为卐字或星系旋涡的复合徽记）的外围组成部分；通过「如其在上，如其在下」代表无限的空间维度；按桑迪的解读，是创造者（朝上的三角形）与人类（朝下的三角形）之间联盟的印记"
+modern_jewish_symbol_status = "约自十九世纪晚期起成为主要的犹太符号；在第一届锡安主义大会（1897）上被锡安主义运动采纳；在纳粹政权下被强制用作黄色识别标志；被置于以色列国旗之上（1948）"
+distinguished_from = "卐字（雷尔派无限符号的另一组成部分）；雷尔派无限符号本身（另有条目）；五芒星及其他星形；作为特定民族—政治用途的以色列国旗"
+status_in_source_material = "有据可查；耶和华的段落赋予该符号「如其在上，如其在下」的含义，桑迪则补充了联盟—立约的解读"
+principal_text = "《讲述真相之书》（1974），「看护选民」；《外星人带我去他们的行星》（1975），「既无神，亦无魂」；让·桑迪，*L'ère du Verseau*（1970）"
 +++
 
 **The Star of David** (Hebrew מָגֵן דָּוִד, *Magen David*, "Shield of David") is a

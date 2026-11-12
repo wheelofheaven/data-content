@@ -6,24 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["Forerunners", "Forerunner", "prodromos (Greek πρόδρομος, 'one who runs ahead')", "preparator", "way-preparer", "the messenger before"]
+alternative_names = ["Précurseurs", "Précurseur", "prodromos (grec πρόδρομος, « celui qui court en avant »)", "préparateur", "celui qui prépare le chemin", "le messager qui précède"]
 timeline = ["age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "Raël", path = "wiki/rael", description = "La figure inaugurale de l'ère du Verseau dont les Précurseurs de la fin de l'ère des Poissons ont préparé la réception." },
+    { title = "Prophète", path = "wiki/prophet", description = "La catégorie plus large au sein de laquelle les Précurseurs forment la sous-classe préparatoire." },
+    { title = "Élie", path = "wiki/elijah", description = "Le Précurseur de la Bible hébraïque dont le retour promis fut appliqué à Jean le Baptiste." },
+    { title = "Chaîne cosmique", path = "wiki/cosmic-chain", description = "L'entrée à laquelle appartient le contenu sur les créateurs antérieurs aux Élohim, tenu distinct des Précurseurs." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "La phase de révélation de l'ère du Verseau vers laquelle pointent les missions préparatoires." },
+    { title = "Ambassade", path = "wiki/embassy", description = "Le but de contact avec l'alliance que sert en définitive la préparation culturelle des Précurseurs." },
+    { title = "La signature et les concepteurs", path = "/articles/the-signature-and-the-designers/", description = "La chaîne de créateurs sans premier maillon, lue comme la réponse du canon à la régression dont Dawkins et Meyer exigent tous deux un fondement." },
+    { title = "Les quarante chaises", path = "articles/the-forty-chairs", description = "Le recensement, régi par des critères, des quelque quarante représentants qui siègent, et les cas limites qu'il signale pour examen." },
+]
 
 [extra.infobox]
 type = "Functional category within broader Prophet framework; figures whose missions prepare way for subsequent alliance-contact missions"
-principal_source = "Inherited from biblical-traditional usage; corpus engagement principally through specific figure-engagement (John the Baptist, Bab, Joseph Smith, late-Piscean contactees) rather than dedicated doctrinal articulation; substantive corpus contextualization in *timeline.epub* late-Piscean preparation content"
-biblical_grounding = "Malachi 3:1 ('Behold, I will send my messenger, and he shall prepare the way before me'); Isaiah 40:3 ('The voice of him that crieth in the wilderness, Prepare ye the way of Yahweh'); Malachi 4:5-6 (Elijah's return before the day of Yahweh); Mark 1:2-3, Matthew 3:1-3, Luke 3:1-6, John 1:6-8, 19-28 (John the Baptist as Forerunner of Jesus)"
-core_corpus_articulation = "Functional category designating figures whose missions prepare humanity for subsequent alliance-contact missions; preparatory rather than inaugural function; distinguished from age-inaugural prophets (Moses, Jesus, Vorilhon) by specific preparation-of-the-way role"
-principal_forerunners = "John the Baptist (Forerunner of Jesus); Bab (explicit Forerunner of Baha'u'llah); Elijah (Hebrew Bible Forerunner tradition); Joseph Smith, Bab, Baha'u'llah as late-Piscean Forerunners of Aquarian-age Vorilhon revelation; twentieth-century UFO contactee tradition"
-aquarian_age_preparation_focus = "Nineteenth-and-twentieth-century cultural-conceptual preparation producing matrix within which December 13, 1973 Vorilhon contact could be received: late-Piscean alliance-contact prophets (Joseph Smith, Bab, Baha'u'llah); Theosophical Society and broader esoteric tradition (Helena Blavatsky, others); twentieth-century UFO contactees (Adamski, Van Tassel, Menger, Fry, others); broader cultural matrix"
-distinguished_from = "Age-inaugural prophets (Moses, Jesus, Vorilhon as inaugurators of Aries, Pisces, Aquarius respectively); v1 conflation with pre-Elohim creator civilization (treated in Cosmic Chain entry); Mormon usage 'Forerunners' as designation for pre-mortal existence (distinct theological usage)"
+principal_source = "Hérité de l'usage biblique plutôt que nommé dans le canon raëlien ; le corpus aborde la catégorie à travers des figures précises (Jean-Baptiste, le Báb, Élie, le matériau bábí et bahá'í du XIXe siècle) et à travers le matériau de chronologie sur la préparation, à la fin de l'ère des Poissons, du contact de l'ère du Verseau"
+biblical_grounding = "Malachie 3:1 ('Behold, I will send my messenger, and he shall prepare the way before me') ; Ésaïe 40:3 ('A voice cries in the wilderness: prepare the way of Yahweh') ; Malachie 4:5-6 (le retour d'Élie avant le jour de Yahvé) ; Marc 1:2-3, Matthieu 3:1-3, Luc 3:1-6, Jean 1:6-8 et 1:19-28 (Jean-Baptiste comme précurseur de Jésus)"
+core_corpus_articulation = "Prophètes préparatoires plutôt qu'inauguraux ; ils cultivent les conditions culturelles dans lesquelles une mission ultérieure inaugurant une ère peut être reçue, comme Jean-Baptiste prépara la Judée du Ier siècle à Jésus"
+principal_forerunners = "Jean-Baptiste (précurseur de Jésus) ; le Báb (précurseur autoproclamé de Bahá'u'lláh) ; Élie (tradition du précurseur dans la Bible hébraïque)"
+aquarian_age_preparation_focus = "Le travail préparatoire des XIXe et XXe siècles que le corpus lit comme une préparation au contact rapporté de décembre 1973 : les fondateurs religieux du XIXe siècle, lus comme matériau comparatif ; le renouveau théosophique et ésotérique (Blavatsky et ses successeurs) ; la tradition des contactés OVNI du milieu du siècle (Adamski, Van Tassel, Menger, Fry) ; et la matrice plus large de la science-fiction, de la course à l'espace et de la contre-culture des années 1960"
+distinguished_from = "Les prophètes inaugurant une ère (Moïse, Jésus, Raël) ; la civilisation créatrice antérieure aux Élohim (traitée dans l'entrée Chaîne cosmique) ; l'usage du terme « précurseur » chez les saints des derniers jours pour des figures de l'existence prémortelle"
 status_in_framework = "Functional sub-category within Prophet framework; recurring structural pattern across alliance-cultivation history; principal Aquarian-age content concerns nineteenth-and-twentieth-century preparation"
 +++
 

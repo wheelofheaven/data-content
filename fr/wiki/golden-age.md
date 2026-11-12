@@ -6,26 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the awaited Golden Age", "the Golden Age of civilization", "the earthly paradise", "the Golden Age of interplanetary civilization", "the operational Golden Age"]
+alternative_names = ["l'Âge d'or attendu", "l'Âge d'or de la civilisation", "le paradis terrestre", "l'Âge d'or de la civilisation interplanétaire", "l'Âge d'or opérationnel"]
 timeline = ["age-of-aquarius", "post-aquarius"]
+see_also = [
+    { title = "Macrobiologie", path = "wiki/macrobiology", description = "La transition majeure d'individualité accomplie — l'humanité portée jusqu'à un organisme global cohérent, lue biologiquement." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "Le moment de révélation au seuil qui peut inaugurer l'Âge d'or ou son alternative catastrophique." },
+    { title = "Éden", path = "wiki/eden", description = "Le laboratoire originel lu comme l'Âge d'or historique que retrouvera sa réalisation future." },
+    { title = "Chaîne cosmique", path = "wiki/cosmic-chain", description = "Le cadre de succession au sein duquel la maturation de l'Âge d'or opère comme une étape." },
+    { title = "Paradisme", path = "wiki/paradism", description = "Le programme social d'après la pénurie dont la mise en œuvre caractérise l'Âge d'or." },
+    { title = "Géniocratie", path = "wiki/geniocracy", description = "Le modèle de gouvernance exposé aux côtés de l'Âge d'or dans les matériaux sources." },
+    { title = "Ambassade", path = "wiki/embassy", description = "Le projet dont l'achèvement conditionne la traversée réussie de l'ère du Verseau par l'humanité." },
+    { title = "Le Moulin d'Hamlet", path = "wiki/hamlets-mill", description = "Le « Seigneur de l'Âge d'or » déposé — Saturne, le donneur des mesures — dont le moulin brisé broie les âges." },
+    { title = "Le moulin qui broie les âges", path = "articles/the-mill-that-grinds-the-ages", description = "L'Âge d'or comme règne du roi déposé et endormi, attendu au retour lorsque la roue précessionnelle s'achève." },
+    { title = "La forme de l'humanité", path = "articles/the-shape-of-humanity", description = "L'article qui présente l'Âge d'or comme la maturation réussie de l'humanité-organisme au-delà du seuil d'une sur cent." },
+]
 
 [extra.infobox]
-type = "Eschatological-cosmological concept; the operational form of life that becomes available to humanity if it navigates the Aquarian-age threshold successfully"
-principal_corpus_articulation = "Vorilhon's Buddhism section in *Message from the Designers* (the substantial Buddhist-enlightenment metaphor); the substantial soteriological dual-path passage; the seven-characteristics articulation in *timeline.epub*"
-seven_principal_characteristics = "(1) Progressive elimination of material scarcity through nanotechnology and automation; (2) Substantial longevity through biological rejuvenation and computational continuation; (3) Transformation of social and political life through New Commandments implementation; (4) Computational continuation as substantive option; (5) Cultivated cognitive capacities including telepathy; (6) New spirituality appropriate to scientifically mature age; (7) Maturation into creating-civilization status"
-contingent_realization = "Realization is contingent on humanity's collective navigation of the Aquarian-age threshold; not automatic but dependent on cumulative effects of individual choices across the broader population"
-distinguished_from = "The Age of Aquarius (the broader chronological-astronomical period within which Golden Age may emerge); Apocalypse (the threshold-revelation moment); Cyberparadism (the contemporary aesthetic articulation); Cosmic Chain (the broader succession framework); Eden (the originary historical Golden Age)"
-relationship_to_eden = "Eden as the originary historical Golden Age (the alliance laboratory in which early humans lived in environmental-technological harmony); the Aquarian-age Golden Age as recovery and extension of that originary content at planetary civilizational scale"
-parallel_cross_cultural_traditions = "Greek/Roman ages of man (Hesiod, Ovid); Hindu Satya/Treta/Dvapara/Kali yuga framework; Mesoamerican Long Count cycles; Buddhist Maitreya tradition; Norse Ragnarök and post-Ragnarök regeneration; Persian Zoroastrian Frashokereti; Chinese cycle traditions; various indigenous 'great-cleansing/renewal' prophecies"
+type = "Concept eschatologique et cosmologique ; la forme de vie qui devient accessible à l'humanité si elle franchit avec succès le seuil de l'ère du Verseau"
+principal_corpus_articulation = "La section de Vorilhon sur le bouddhisme dans *Le Message donné par les extra-terrestres* (la métaphore de l'éveil bouddhique) ; le passage sotériologique sur la double voie ; la formulation des sept caractéristiques dans le matériau de chronologie du corpus"
+seven_principal_characteristics = "(1) Élimination de la pénurie matérielle par la nanotechnologie et l'automatisation ; (2) Longévité fortement accrue par le rajeunissement biologique et la continuation computationnelle ; (3) Transformation de la vie sociale et politique par les Nouveaux Commandements ; (4) La continuation computationnelle comme option pour l'identité individuelle ; (5) Des capacités cognitives cultivées, dont la télépathie ; (6) Une nouvelle spiritualité adaptée à un âge scientifiquement mûr ; (7) La maturation vers le statut de civilisation créatrice"
+contingent_realization = "Subordonnée à la traversée collective, par l'humanité, du seuil de l'ère du Verseau ; non automatique, mais dépendante de l'effet cumulé des choix individuels dans l'ensemble de la population"
+distinguished_from = "L'ère du Verseau (la période astronomique plus large au sein de laquelle l'Âge d'or peut émerger) ; l'Apocalypse (le moment de révélation au seuil) ; le Cyberparadisme (la formulation esthétique contemporaine) ; la Chaîne cosmique (le cadre plus large de succession) ; l'Éden (l'Âge d'or historique originel)"
+relationship_to_eden = "L'Éden comme Âge d'or historique originel — le laboratoire dans lequel les premiers humains vivaient en harmonie avec leurs créateurs ; l'Âge d'or de l'ère du Verseau comme récupération et extension de cette condition à l'échelle d'une civilisation planétaire"
+parallel_cross_cultural_traditions = "Les âges de l'homme grecs et romains (Hésiode, Ovide) ; le cycle hindou des yugas Satya, Treta, Dvapara et Kali ; le Compte long mésoaméricain ; Maitreya dans le bouddhisme ; le Ragnarök nordique et sa régénération ; la Frashokereti du zoroastrisme perse ; les traditions cycliques chinoises ; diverses prophéties autochtones de renouveau"
 contemporary_articulations = "Kurzweil's Singularity; e/acc movement; abundance-economy tradition (Diamandis, Kotler); broader 'Great Awakening' cultural engagement"
-status_in_framework = "Foundational eschatological-cosmological concept; the substantive content of successful Aquarian-age navigation; the cosmic-chain inheritance threshold"
+status_in_framework = "Concept eschatologique et cosmologique fondateur ; le contenu d'une traversée réussie de l'ère du Verseau ; le seuil d'héritage de la Chaîne cosmique"
 +++
 
 **The Golden Age** is, in the Wheel of Heaven framework, the form of life that

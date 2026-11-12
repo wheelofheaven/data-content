@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -18,18 +18,26 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "framework"
-alternative_names = ["Pangea", "Antediluvian supercontinent", "The pre-deluge landmass", "The one continent"]
+alternative_names = ["Пангея", "Допотопный суперконтинент", "Допотопный массив суши", "Единый континент"]
+see_also = [
+    { title = "Эдем", path = "wiki/eden", description = "Место творения, расположенное на этом едином допотопном массиве суши." },
+    { title = "Допотопный", path = "wiki/antediluvian", description = "Весь допотопный период, географическим субстратом которого служила Пангея." },
+    { title = "Ноев ковчег", path = "wiki/noahs-ark", description = "Рассказ о спасении от потопа, связанный с катастрофическим одномоментным распадом массива суши." },
+    { title = "Бытие", path = "wiki/genesis", description = "Его главы 6–9 описывают вмешательство потопа, расколовшее континент." },
+    { title = "Терраформирование", path = "wiki/terraforming", description = "Операция континентальной инженерии, поднявшая Пангею с первозданного морского дна." },
+    { title = "Традиция", path = "wiki/the-tradition", description = "Сохранённая память, которую корпус читает как кодирующую допотопный суперконтинент." },
+]
 
 [extra.infobox]
-type = "Supercontinent — both a mainstream-geological reconstruction and a framework-adopted antediluvian referent"
-mainstream_dating = "c. 335 million years ago (Carboniferous assembly) through c. 195 million years ago (Triassic-Jurassic breakup)"
-framework_dating = "Constructed during *yom* 3 / Age of Scorpio (c. 17,490 – 15,330 BCE on the corpus's reckoning); broken apart at the deluge event (c. 13,000 BCE on the corpus's reckoning)"
-extent = "Approximately equal to the combined landmass of all present-day continents, organised as a single contiguous body"
-shape_mainstream = "C-shaped with the Tethys Sea contained within the curve, surrounded by the superocean Panthalassa"
-geographic_role_framework = "The geographic substrate of the entire antediluvian period: the location of Eden, the location of the post-Eden dispersed civilisations, the area destroyed by the deluge event"
-breakup_mainstream = "Plate-tectonic rifting beginning approximately 195 million years ago, with progressive separation continuing through the Jurassic and Cretaceous"
-breakup_framework = "Catastrophic single-event breakup at the deluge, described in the source material as a deliberate operational intervention; the framework reads the modern continental configuration as the surface signature of the deluge event preserved in the contemporary geological record"
-divergence_from_mainstream = "Approximately three orders of magnitude on timescale; the framework's reading is incompatible with mainstream plate-tectonic dating and is registered transparently in the entry's dedicated section on the divergence"
+type = "Суперконтинент — одновременно реконструкция общепринятой геологии и принятый рамкой допотопный референт"
+mainstream_dating = "ок. 335 млн лет назад (сборка в каменноугольном периоде) – ок. 195 млн лет назад (распад на границе триаса и юры)"
+framework_dating = "Поднята в конце Эпохи Стрельца (ок. 19 650–17 490 гг. до н. э. по счислению корпуса) — работа над континентами, которую текст Бытия сжимает в *йом* 3, со стабилизацией, продолжавшейся в раннем Скорпионе; расколота при потопе в начале Эпохи Близнецов (ок. 6690 г. до н. э. по счислению корпуса)"
+extent = "Примерно равна совокупной площади суши всех нынешних континентов, организованной как единый сплошной массив"
+shape_mainstream = "C-образная, с морем Тетис внутри изгиба, окружённая суперокеаном Панталасса"
+geographic_role_framework = "Географический субстрат всего допотопного периода: местоположение Эдема, местоположение рассеянных постэдемских цивилизаций, область, уничтоженная потопом"
+breakup_mainstream = "Тектонический рифтогенез, начавшийся около 195 млн лет назад, с постепенным расхождением на протяжении юры и мела"
+breakup_framework = "Катастрофический раскол единовременным событием при потопе: сам удар описан в первой книге как преднамеренное вмешательство, а раскол — в эссе Марселя Террюсса в третьей книге (LWTE-4); рамка читает современную конфигурацию континентов как поверхностный след события потопа, сохранившийся в современной геологической летописи"
+divergence_from_mainstream = "Около трёх порядков величины по временной шкале; прочтение рамки несовместимо с общепринятой тектонической датировкой и открыто зафиксировано в специальном разделе статьи о расхождении"
 +++
 
 **Pangaea** is the name conventionally given to the single supercontinent identified by mainstream geology as having existed from approximately 335 million years ago through approximately 195 million years ago, before breaking up via plate-tectonic processes into the continental configuration of the present-day Earth. The name derives from the Greek *Παγγαία*, "all earth," and was introduced into geological scholarship by the German meteorologist and geophysicist **Alfred Wegener** in his 1912 paper *Die Entstehung der Kontinente* and subsequently developed in *Die Entstehung der Kontinente und Ozeane* (*The Origin of Continents and Oceans*, 1915, with major revisions through 1929) — the foundational works of the continental-drift theory that subsequently developed into the contemporary theory of plate tectonics.

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,15 +15,23 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
 alternative_names = ["Catalogue of neo-euhemeristic readings", "Framework exegesis index", "Glossary of operational readings"]
+see_also = [
+    { title = "Lista de mitemas y motivos mitológicos", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "El catálogo complementario que recoge patrones narrativos interculturales recurrentes en lugar de términos individuales." },
+    { title = "Lista de lecturas etimológicas", path = "wiki/list-of-etymological-readings", description = "El catálogo complementario que recoge lecturas filológicas de palabras y expresiones concretas." },
+    { title = "Elohim", path = "wiki/elohim", description = "Un término catalogado que el marco lee en clave operativa como los creadores extraterrestres históricos." },
+    { title = "Génesis", path = "wiki/genesis", description = "Una fuente principal cuyos episodios narrativos el catálogo lee de forma neoevemerista." },
+    { title = "Yahvé", path = "wiki/yahweh", description = "Una lectura catalogada de un título personal que traduce el nombre divino a términos operativos." },
+    { title = "Torre de Babel", path = "wiki/tower-of-babel", description = "Un episodio narrativo que el catálogo relee como historia operativa recuperada." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of framework readings of religious and mythological terms"
-interpretive_method = "Neo-euhemeristic exegesis — translation of mythologised content into operational terms consistent with the source material's account"
-methodological_lineage = "Euhemerus of Messene (3rd c. BCE); Brinsley Le Poer Trench (1960); Jean Sendy (1968–1972); Erich von Däniken (1968); Zecharia Sitchin (1976–2010); Claude Vorilhon / Raël (1974–present); Mauro Biglino (1990s–present); Paul Wallis (2018–present)"
-scope = "Cosmological terms; narrative episodes; persons and titles; sacred objects and architecture; symbols and iconographic motifs; eschatological terms; theological concepts"
-catalogue_columns = "Term; framework reading; primary source within the framework lineage"
-companion_catalogues = "[List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/); [List of etymological readings](../list-of-etymological-readings/); [List of prophets and religions](../list-of-prophets-and-religions/)"
-caveat = "Coverage is most complete for terms in widely attested traditions; the catalogue is open to expansion as the corpus's coverage deepens"
+type = "Catálogo de referencia de lecturas del marco sobre términos religiosos y mitológicos"
+interpretive_method = "Exégesis neoevemerista: traducción del contenido mitologizado a términos operativos coherentes con el relato del material de fuente"
+methodological_lineage = "Evémero de Mesene (siglo III a. e. c.); Brinsley Le Poer Trench (1960); Jean Sendy (1968–1972); Erich von Däniken (1968); Zecharia Sitchin (1976–2010); Claude Vorilhon / Raël (1974–hoy); Mauro Biglino (década de 1990–hoy); Paul Wallis (2018–hoy)"
+scope = "Términos cosmológicos; episodios narrativos; personas y títulos; objetos sagrados y arquitectura; símbolos y motivos iconográficos; términos escatológicos; conceptos teológicos"
+catalogue_columns = "Término; lectura del marco; fuente primaria dentro del linaje del marco"
+companion_catalogues = "[Lista de mitemas y motivos mitológicos](../list-of-mythemes-and-mythological-motifs/); [Lista de lecturas etimológicas](../list-of-etymological-readings/); [Lista de profetas y religiones](../list-of-prophets-and-religions/)"
+caveat = "La cobertura es más completa para los términos de tradiciones ampliamente documentadas; el catálogo está abierto a ampliaciones a medida que se profundiza la cobertura del corpus"
 +++
 
 This entry catalogues the Wheel of Heaven framework's adopted neo-euhemeristic readings of religious, mythological, and traditional terms — its glossary of operational readings, presented as a navigable reference instrument. The corpus's interpretive method here is the one applied throughout the wiki and the long-form chapter material: each term's surface content is translated into operational terms consistent with the source material's account of the Elohim civilisation and the Earth project, on the working hypothesis that the relevant traditions preserve, in varying states of clarity, historical content that the operational translation recovers.

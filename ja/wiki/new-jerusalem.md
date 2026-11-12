@@ -6,25 +6,33 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Jerusalem", "Third Temple (Jewish-historical register)", "Embassy (contemporary operational register)", "the Heavenly Jerusalem (Christian-apocalyptic register)", "the descending Holy City (Revelation 21 designation)", "the residence of the Elohim (Vorilhon source designation)"]
+alternative_names = ["新しいエルサレム", "Third Temple (Jewish-historical register)", "Embassy (contemporary operational register)", "the Heavenly Jerusalem (Christian-apocalyptic register)", "the descending Holy City (Revelation 21 designation)", "the residence of the Elohim (Vorilhon source designation)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "大使館", path = "wiki/embassy", description = "同じ構造物の実際的な仕様。" },
+    { title = "第三神殿", path = "wiki/third-temple", description = "同じく意図された受け入れの構造物を指す、ユダヤ史上の名称。" },
+    { title = "エゼキエル", path = "wiki/ezekiel", description = "その神殿の敷居の幻をコーパスが予表として読む預言者。" },
+    { title = "黙示録", path = "wiki/apocalypse", description = "降りてくる都の像を与える、ヨハネの黙示録の終末論。" },
+    { title = "黄金時代", path = "wiki/golden-age", description = "この構造物が中心となり、外へと広げていくことを意図された、水瓶座の時代の変容。" },
+    { title = "元年に封を解かれて", path = "articles/unsealed-in-year-one", description = "クムランのアラム語の「新しいエルサレム」文書 ― 建設を待つ測量された都 ― を、この項目の先祖として読む。" },
+]
 
 [extra.infobox]
-type = "Aquarian-age physical-institutional concept; the structure intended to receive the alliance's formal arrival and to serve as the operational location of human-Elohim diplomatic engagement"
-three_term_identification = "New Jerusalem (Christian-apocalyptic register); Third Temple (Jewish-historical register); Embassy (contemporary operational register) — three terms for the same physical-institutional content within distinct interpretive frames"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'To the People of Israel' section; *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979); consolidated *Message from the Designers* (2005)"
-biblical_prefigurations = "Ezekiel 47:1-2 (water from the temple threshold); Acts 15:16 (rebuild the tabernacle of David); Revelation 21:1-3 (descending New Jerusalem)"
-original_location_preference = "Israel near Jerusalem; the geographic site of the original Eden operation; the highest-concentration alliance-contact site on Earth"
-relocation_authorization = "December 13, 1997 Yahweh message — formal authorization to seek permission from any nation following Israeli refusals; Israel preserved as 'last chance' option"
-distinguished_from = "Embassy (the operational-architectural register, treated in dedicated entry); Third Temple (the Jewish-historical register, treated in dedicated entry when written); the historic Solomonic and Second Temples (the prior Jerusalem-temple physical structures)"
-status_in_framework = "Foundational Aquarian-age architectural-institutional concept; the operational center from which Aquarian-age transformative content flows outward; the spiritual and intellectual center of the world for millennia to come"
+type = "エロヒムの正式な帰還を迎えるために建てられる水瓶座の時代の建造物。エロヒムと人類の公然たる接触の拠点"
+three_term_identification = "新エルサレム(キリスト教黙示文学での名称)。第三神殿(ユダヤ史上の名称)。大使館(実務上の名称)― 一つの建物を指す三つの名称"
+principal_source = "*Extra-Terrestrials Took Me to Their Planet*(ヴォリロン、1975年)、「To the People of Israel」。*Let Us Welcome the Extra-Terrestrials*(1979年)。*Message from the Designers*(2005年)"
+biblical_prefigurations = "エゼキエル書47:1-2(神殿の敷居から流れ出る水)。使徒言行録15:16(ダビデの幕屋を建て直す)。ヨハネの黙示録21:1-3(降りてくる新エルサレム)"
+original_location_preference = "イスラエル、エルサレムの近く ― 原初のエデン計画が行われた場所"
+relocation_authorization = "1997年12月13日のヤハウェからのメッセージ ― イスラエルの拒否を受けて、あらゆる国に治外法権の地位を求めることを認めた。イスラエルには「最後の機会」としての選択肢が残される"
+distinguished_from = "大使館(実務上の仕様、別項目)。第三神殿(ユダヤ史上の継承、別項目)。歴史上の第一神殿と第二神殿"
+status_in_framework = "水瓶座の時代の基礎となる建造物。この時代の変革がそこから放射されるべき実務上の中心"
 +++
 
 **New Jerusalem** is, in the Wheel of Heaven framework, one of three names — alongside

@@ -6,26 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the awaited Golden Age", "the Golden Age of civilization", "the earthly paradise", "the Golden Age of interplanetary civilization", "the operational Golden Age"]
+alternative_names = ["所期待的黃金時代", "文明的黃金時代", "地上樂園", "星際文明的黃金時代", "the operational Golden Age"]
 timeline = ["age-of-aquarius", "post-aquarius"]
+see_also = [
+    { title = "宏觀生物學", path = "wiki/macrobiology", description = "完成了的個體性重大轉變——人類被帶向一個連貫的全球有機體,以生物學角度解讀。" },
+    { title = "啟示", path = "wiki/apocalypse", description = "可能開啟黃金時代、也可能開啟其災難性替代結局的門檻啟示時刻。" },
+    { title = "伊甸", path = "wiki/eden", description = "被讀作歷史上的黃金時代、而未來實現將加以復原的原初實驗室。" },
+    { title = "宇宙鏈", path = "wiki/cosmic-chain", description = "黃金時代之成熟作為其中一個階段而運作的傳承框架。" },
+    { title = "樂園主義", path = "wiki/paradism", description = "其實施構成黃金時代特徵的後匱乏社會綱領。" },
+    { title = "天才政治", path = "wiki/geniocracy", description = "源材料中與黃金時代一同闡述的治理模式。" },
+    { title = "大使館", path = "wiki/embassy", description = "其完成是人類成功度過水瓶座時代之條件的計畫。" },
+    { title = "哈姆雷特之磨", path = "wiki/hamlets-mill", description = "被廢黜的「黃金時代之主」——賜下度量的薩圖恩——其毀壞的磨坊碾出諸時代。" },
+    { title = "那座碾磨諸紀元的磨坊", path = "articles/the-mill-that-grinds-the-ages", description = "黃金時代作為被廢黜之沉睡君王的統治,待歲差之輪轉完一周時歸來。" },
+    { title = "人類的形狀", path = "articles/the-shape-of-humanity", description = "此解說文將黃金時代框定為人類這一有機體越過百分之一門檻後的成功成熟。" },
+]
 
 [extra.infobox]
-type = "Eschatological-cosmological concept; the operational form of life that becomes available to humanity if it navigates the Aquarian-age threshold successfully"
-principal_corpus_articulation = "Vorilhon's Buddhism section in *Message from the Designers* (the substantial Buddhist-enlightenment metaphor); the substantial soteriological dual-path passage; the seven-characteristics articulation in *timeline.epub*"
-seven_principal_characteristics = "(1) Progressive elimination of material scarcity through nanotechnology and automation; (2) Substantial longevity through biological rejuvenation and computational continuation; (3) Transformation of social and political life through New Commandments implementation; (4) Computational continuation as substantive option; (5) Cultivated cognitive capacities including telepathy; (6) New spirituality appropriate to scientifically mature age; (7) Maturation into creating-civilization status"
-contingent_realization = "Realization is contingent on humanity's collective navigation of the Aquarian-age threshold; not automatic but dependent on cumulative effects of individual choices across the broader population"
-distinguished_from = "The Age of Aquarius (the broader chronological-astronomical period within which Golden Age may emerge); Apocalypse (the threshold-revelation moment); Cyberparadism (the contemporary aesthetic articulation); Cosmic Chain (the broader succession framework); Eden (the originary historical Golden Age)"
-relationship_to_eden = "Eden as the originary historical Golden Age (the alliance laboratory in which early humans lived in environmental-technological harmony); the Aquarian-age Golden Age as recovery and extension of that originary content at planetary civilizational scale"
-parallel_cross_cultural_traditions = "Greek/Roman ages of man (Hesiod, Ovid); Hindu Satya/Treta/Dvapara/Kali yuga framework; Mesoamerican Long Count cycles; Buddhist Maitreya tradition; Norse Ragnarök and post-Ragnarök regeneration; Persian Zoroastrian Frashokereti; Chinese cycle traditions; various indigenous 'great-cleansing/renewal' prophecies"
+type = "末世論—宇宙論概念；人類若能成功度過水瓶座時代門檻，便可獲得的生活形式"
+principal_corpus_articulation = "沃里隆在《來自設計者的訊息》中的佛教一節（佛教覺悟的隱喻）；救贖論的雙重道路段落；語料時間線材料中關於七項特徵的表述"
+seven_principal_characteristics = "（1）透過奈米技術與自動化消除物質匱乏；（2）透過生物性回春與運算延續大幅延長壽命；（3）透過新誡命轉變社會與政治生活；（4）運算延續作為個人身分的一種選擇；（5）培養包括心靈感應在內的認知能力；（6）適合科學成熟時代的新靈性；（7）成熟為具創造能力的文明"
+contingent_realization = "取決於人類集體能否度過水瓶座時代門檻；並非自動實現，而是取決於廣大人口中個人選擇的累積效應"
+distinguished_from = "水瓶座時代（黃金時代可能在其中出現的更廣泛天文時期）；啟示（門檻—揭示的時刻）；網路樂園主義（當代的美學表述）；宇宙鏈（更廣泛的承續框架）；伊甸（原初的歷史黃金時代）"
+relationship_to_eden = "伊甸作為原初的歷史黃金時代——最初的人類與其造者和諧共處的實驗室；水瓶座時代的黃金時代則是在全球文明尺度上恢復並延伸此狀態"
+parallel_cross_cultural_traditions = "希臘／羅馬的人類時代（赫西俄德、奧維德）；印度教的 Satya/Treta/Dvapara/Kali 時（yuga）循環；中美洲長紀曆；佛教彌勒；北歐諸神黃昏及其再生；波斯瑣羅亞斯德教的 Frashokereti；中國的循環傳統；各種原住民的更新預言"
 contemporary_articulations = "Kurzweil's Singularity; e/acc movement; abundance-economy tradition (Diamandis, Kotler); broader 'Great Awakening' cultural engagement"
-status_in_framework = "Foundational eschatological-cosmological concept; the substantive content of successful Aquarian-age navigation; the cosmic-chain inheritance threshold"
+status_in_framework = "基礎的末世論—宇宙論概念；成功度過水瓶座時代的內涵；宇宙鏈的傳承門檻"
 +++
 
 **The Golden Age** is, in the Wheel of Heaven framework, the form of life that

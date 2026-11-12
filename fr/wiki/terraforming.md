@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,25 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Planetary engineering", "Ecological engineering at planetary scale", "Earth-shaping", "Geoengineering of other worlds"]
+alternative_names = ["Ingénierie planétaire", "Ingénierie écologique à l'échelle planétaire", "Façonnage de terres", "Géo-ingénierie d'autres mondes"]
+see_also = [
+    { title = "Boîte à outils de la Genèse", path = "wiki/genesis-toolbox", description = "La synthèse au niveau du programme : la terraformation comme une phase de la pile de création complète que décrit le canon." },
+    { title = "Genèse", path = "wiki/genesis", description = "Le texte dont le cadre lit les quatre premiers âges comme la terraformation de la Terre par les Élohim." },
+    { title = "Élohim", path = "wiki/elohim", description = "La civilisation qui aurait terraformé la Terre avant la synthèse biologique." },
+    { title = "Biologie de synthèse", path = "wiki/synthetic-biology", description = "La discipline voisine de la phase de synthèse biologique qui suivit la terraformation." },
+    { title = "Ingénierie du vivant", path = "wiki/life-engineering", description = "Le pendant biologique de la terraformation planétaire dans le projet Terre." },
+    { title = "Pantropie", path = "wiki/pantropy", description = "La stratégie inverse, qui adapte les organismes aux mondes plutôt que les mondes aux organismes." },
+    { title = "Pangée", path = "wiki/pangaea", description = "La configuration continentale qui intéresse la lecture d'une ingénierie continentale proposée par le cadre." },
+]
 
 [extra.infobox]
-type = "Planetary-engineering discipline aimed at making other worlds habitable for terrestrial life"
-adjacent_fields = "Astrobiology; planetary science; xenobiology; synthetic biology; geoengineering; climate science"
-term_coined = "Jack Williamson, *Collision Orbit*, 1942 (science-fiction context); Carl Sagan, *Science*, 1961 (scientific context)"
-principal_targets = "Mars (most studied); Venus (more speculative); Moon, Mercury, Jovian and Saturnian moons (variously discussed); free-floating habitats and shell worlds (alternative paraterraforming concepts)"
-foundational_milestones = "Coining of the term (Williamson, 1942); first scientific proposal (Sagan, Venus terraforming via algae, 1961); first Mars terraforming proposal (Sagan, polar-cap vaporisation, 1971); foundational scientific treatments (McKay, 1982 onward; Fogg, *Terraforming*, 1995); CO2-inventory analysis (Jakosky and Edwards, 2018); silica-aerogel paraterraforming (Wordsworth et al., 2019)"
-current_status = "Active research field; no terraforming has been attempted at any scale; full-scale Mars terraforming assessed as infeasible with present technology; localised paraterraforming concepts under active study"
-framework_significance = "The planetary-engineering operations of the first four ages of Genesis 1 — atmospheric separation, water-cycle establishment, continental work, astronomical calibration — are read on the framework as the Elohim's terraforming of Earth during the preparation phase of the Earth project, prior to biological synthesis"
+type = "Discipline d'ingénierie planétaire visant à rendre d'autres mondes habitables pour la vie terrestre"
+adjacent_fields = "Astrobiologie ; planétologie ; xénobiologie ; biologie de synthèse ; géo-ingénierie ; climatologie"
+term_coined = "Jack Williamson, *Collision Orbit*, 1942 (contexte de science-fiction) ; Carl Sagan, *Science*, 1961 (contexte scientifique)"
+principal_targets = "Mars (la plus étudiée) ; Vénus (plus spéculative) ; Lune, Mercure, lunes de Jupiter et de Saturne (diversement discutées) ; habitats flottants et mondes-coquilles (concepts alternatifs de paraterraformation)"
+foundational_milestones = "Invention du terme (Williamson, 1942) ; première proposition scientifique (Sagan, terraformation de Vénus par des algues, 1961) ; première proposition de terraformation de Mars (Sagan, vaporisation des calottes polaires, 1971) ; traitements scientifiques fondateurs (McKay, à partir de 1982 ; Fogg, *Terraforming*, 1995) ; analyse de l'inventaire de CO2 (Jakosky et Edwards, 2018) ; paraterraformation par aérogel de silice (Wordsworth et al., 2019)"
+current_status = "Domaine de recherche actif ; aucune terraformation n'a été tentée à quelque échelle que ce soit ; la terraformation complète de Mars est jugée irréalisable avec la technologie actuelle ; des concepts de paraterraformation localisée sont activement étudiés"
+framework_significance = "Les opérations d'ingénierie planétaire des quatre premières ères de Genèse 1 — séparation atmosphérique, établissement du cycle de l'eau, travaux continentaux, calibrage astronomique — sont lues par le cadre comme la terraformation de la Terre par les Élohim pendant la phase préparatoire du projet Terre, avant la synthèse biologique"
 +++
 
 **Terraforming** is the deliberate large-scale modification of a planet, moon, or other celestial body to make its environmental conditions habitable for terrestrial life — most often with reference to making the body habitable for unmodified humans, but increasingly with reference to making it habitable for any class of Earth-derived organisms. The term is constructed from the Latin *terra* (earth) and the English verb *to form*, meaning literally *to make Earth-like*. It is the planetary-scale counterpart of the climate-engineering and geoengineering proposals that have been developed for the management of Earth's own climate, and it draws on the same atmospheric, geological, and ecological sciences applied at the much larger scale of complete planetary transformation.

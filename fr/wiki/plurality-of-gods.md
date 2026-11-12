@@ -6,26 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["plurality of the gods", "plurality of the Elohim", "the multiple-creators reading", "biblical polytheism", "Hebrew Bible plurality content", "the divine council reading", "the Elohim plural reading"]
+alternative_names = ["pluralité des dieux", "pluralité des Élohim", "la lecture des créateurs multiples", "polythéisme biblique", "contenu de la Bible hébraïque relatif à la pluralité", "la lecture du conseil divin", "la lecture plurielle d'Élohim"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "Élohim", path = "wiki/elohim", description = "Le nom hébreu pluriel au cœur de la lecture plurielle." },
+    { title = "Yahvé", path = "wiki/yahweh", description = "Un Éloha particulier, distinct du collectif des Élohim que désigne le pluriel." },
+    { title = "Conseil des Éternels", path = "wiki/council-of-the-eternals", description = "L'organe directeur qui donne au pluriel biblique un référent politique." },
+    { title = "Veilleurs", path = "wiki/watchers", description = "Un second pluriel biblique désignant des êtres, sur lequel s'appuie la lecture." },
+    { title = "Satan", path = "wiki/satan", description = "Une figure du Conseil lue politiquement plutôt que comme mal métaphysique." },
+    { title = "Les manuscrits qui s'éveillèrent en l'an un", path = "articles/the-scrolls-that-woke-in-year-one", description = "4QDeut(j) conserve « fils d'Élohim » là où le texte massorétique a été corrigé en « fils d'Israël » — la pluralité saisie dans les manuscrits." },
+]
 
 [extra.infobox]
-type = "Foundational interpretive concept; the principal corpus position on the substantial multiple-divine-beings content of the Hebrew Bible and the broader cross-cultural religious-mythological traditions"
-basic_premise = "The Hebrew Bible and the broader religious-mythological traditions register substantial multiple-divine-beings content rather than substantial singular-supreme-deity content, with the substantial plurality content preserving cultural memory of an actual multiple-creator-civilization (the Elohim)"
-principal_evidence = "The Hebrew word *Elohim* is plural in form; substantial plural verbs (*na'aseh adam* 'let us make man' Genesis 1:26); substantial plural possessives (*be-tzalmenu* 'in our image'); substantial plural self-addresses (*ke-achad mimenu* 'as one of us' Genesis 3:22); substantial *benei ha-Elohim* 'sons of the Elohim' references (Genesis 6, Job 1-2, Psalm 82); substantial divine-council scenes (1 Kings 22, Job 1-2, Isaiah 6, Psalm 82)"
-the_first_mistake = "The substantial Yahweh-articulated framework reading: 'It replaced the term Elohim, which refers to the creators, with a singular term God, whereas in fact Elohim in Hebrew is the plural of Eloha. In this way, the Church transformed the creators into a single incomprehensible God.' Registers the conventional Christian-tradition singular-God reading as the principal translation-and-theological mistake"
-relationship_to_cosmic_chain = "The plurality content connects substantively to the broader Cosmic Chain framework — the substantial articulation that humans will themselves become creators, just as the creators were created. Plurality of Gods is therefore not merely a static descriptive position about how many divine beings exist, but the substantial dynamic position that registers humans as substantial future participants in the broader chain of creator-creature-creator development"
-mormon_lds_alignment = "Substantial structural alignment with the Mormon Latter-day Saints theological tradition, particularly through Joseph Smith's King Follett discourse (1844), Lorenzo Snow's couplet 'as man now is, God once was; as God now is, man may be,' the Mormon plural-Elohim doctrine, and the Mormon exaltation doctrine; the Mormon position represents the closest mainstream-religious-tradition convergence the framework has at the Plurality of Gods specific dimension"
-distinguished_from = "Conventional Christian-tradition monotheism (the principal interpretive contrast); conventional polytheistic religious traditions (which operate within distinct cosmological framings); cosmic pluralism (a substantively different concept registering the philosophical plurality of worlds); henotheism (which preserves singular-supreme-deity priority while acknowledging other deities); modalistic monarchianism (which registers multiple manifestations of singular underlying deity); various pantheistic and panentheistic frameworks"
-status_in_source_material = "Substantially documented; the principal Yahweh passages establishing the framework's specific content are distributed across multiple corpus sources, with substantial subsequent corpus development through the timeline.epub Hebrew exegesis"
-principal_text = "*Message from the Designers* (the principal Yahweh-articulated framework reading on the Church's first mistake); *The Book Which Tells the Truth* (1974, the substantial foundational Genesis 1 articulation); *timeline.epub* Age of Capricorn through Age of Pisces chapters (the substantial subsequent corpus articulation with detailed Hebrew exegesis); various Sendy works (substantial complementary content)"
+type = "Concept interprétatif fondateur ; la position du corpus selon laquelle la Bible hébraïque et les traditions mythologiques plus larges décrivent plusieurs êtres divins plutôt qu'une divinité suprême unique"
+basic_premise = "La Bible hébraïque et l'ensemble plus large des données religieuses et mythologiques décrivent de nombreux êtres divins, et non un Dieu suprême unique ; le cadre lit cette pluralité comme la mémoire conservée des créateurs réellement pluriels (les Élohim)"
+principal_evidence = "*Elohim* est de forme plurielle ; verbes au pluriel (*na'aseh adam*, « faisons l'homme », Genèse 1:26) ; possessifs au pluriel (*be-tzalmenu*, « à notre image ») ; auto-désignation au pluriel (*ke-achad mimenu*, « comme l'un de nous », Genèse 3:22) ; les *benei ha-Elohim* (« fils des Élohim », Genèse 6, Job 1-2, Psaume 82) ; et les scènes de conseil divin de 1 Rois 22, Job 1-2, Ésaïe 6 et du Psaume 82"
+the_first_mistake = "La formulation de Yahvé dans la source raëlienne : l'Église a eu le tort « d'avoir mal traduit les écrits bibliques en remplaçant dans les \"Bibles usuelles\" le terme \"Elohim\" qui désigne les créateurs, par Dieu, un terme au singulier alors que Elohim, en Hébreu est le pluriel d'Eloha, transformant ainsi les créateurs en un Dieu unique incompréhensible » (TBWTT 5:21)"
+relationship_to_cosmic_chain = "La pluralité est dynamique autant que descriptive : à travers la Chaîne cosmique, l'humanité est lue comme un futur créateur à part entière — « les créés seront créateurs comme les créateurs ont été créés » (TBWTT 4:77) —, si bien que cette lecture ne dit pas seulement combien d'êtres divins existent, mais ce que l'humanité peut devenir"
+mormon_lds_alignment = "Convergence structurelle étroite avec la théologie mormone (saints des derniers jours) — le discours King Follett de Joseph Smith (1844), le distique de Lorenzo Snow ('as man now is, God once was; as God now is, man may be'), les doctrines des Élohim pluriels et de l'exaltation —, le parallèle le plus proche de cette lecture parmi les religions établies"
+distinguished_from = "Le monothéisme chrétien et juif conventionnel ; le polythéisme conventionnel ; le pluralisme cosmique (la pluralité des mondes habités, un concept distinct) ; l'hénothéisme (une divinité suprême au-dessus des autres) ; le monarchianisme modaliste (une divinité sous plusieurs modes) ; le panthéisme"
+status_in_source_material = "Bien documenté ; les passages clés de Yahvé sont répartis dans les livres sources raëliens, avec une exégèse hébraïque détaillée développée dans le matériau de chronologie du corpus"
+principal_text = "*Le Message donné par les extra-terrestres* (le passage sur la « première erreur », concernant la traduction au singulier d'*Elohim* par l'Église) ; *Le Livre qui dit la vérité* (1974, la formulation de Genèse 1) ; les chapitres de chronologie du corpus (du Capricorne aux Poissons) pour l'exégèse hébraïque détaillée ; les œuvres de Jean Sendy comme matériau complémentaire"
 +++
 
 **Plurality of Gods** is the Wheel of Heaven reading that the

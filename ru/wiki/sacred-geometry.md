@@ -6,25 +6,32 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["Sacred Geometry", "geometric symbolism", "sacred mathematics", "sacred proportion", "divine geometry", "Heilige Geometrie (German)", "géométrie sacrée (French)"]
+alternative_names = ["Сакральная геометрия", "геометрическая символика", "сакральная математика", "сакральная пропорция", "божественная геометрия", "Heilige Geometrie (нем.)", "géométrie sacrée (франц.)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus", "age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "Раэлианский символ бесконечности", path = "wiki/raelian-symbol-of-infinity", description = "Главное геометрико-символическое обращение корпуса, соединяющее Звезду Давида и свастику." },
+    { title = "Каббала", path = "wiki/kabbalah", description = "Источник диаграммы Древа жизни и сфирот — одной из главных сакрально-геометрических форм." },
+    { title = "Третий Храм", path = "wiki/third-temple", description = "Чьи точно пропорциональные спецификации корпус читает как переданную альянсом сакральную геометрию." },
+    { title = "Посольство", path = "wiki/embassy", description = "Резиденция для приёма, архитектурные спецификации которой несут сакрально-пропорциональное содержание корпуса." },
+    { title = "Зодиак", path = "wiki/zodiac", description = "Прецессионно-геометрическая рамка, которую корпус читает наряду с межкультурными сакральными пропорциями." },
+]
 
 [extra.infobox]
-type = "Body of geometric forms, ratios, and proportions to which religious, cosmological, or metaphysical significance has been attributed across cultures and traditions; designates both documented cross-cultural use of geometric ratios in sacred architecture and interpretive tradition treating geometric forms as carrying inherent metaphysical meaning"
-principal_geometric_forms = "Golden ratio (φ ≈ 1.618); Platonic solids; vesica piscis; Flower of Life; Tree of Life / Sephirot diagram; Sri Yantra; mandala; squared circle; π and √2 / √3 relations; harmonic ratios"
-historical_roots = "Pythagoras (c. 570-495 BCE); Plato (c. 428-348 BCE; *Timaeus*); Vitruvius (c. 80-15 BCE; *De Architectura*); Hermetic tradition; Euclid; medieval scholastic and cathedral-builder traditions; Renaissance revival (Pacioli, Leonardo)"
-modern_revival = "Theosophy (Blavatsky); Anthroposophy (Steiner); Schwaller de Lubicz (Egyptian-symbolic); Robert Lawlor; Keith Critchlow; John Michell; Drunvalo Melchizedek; Leonora Leet; Randall Carlson"
-corpus_position = "Accepts documented cross-cultural use of geometric ratios in sacred architecture as substantively real; accepts cross-cultural religious-symbolic use of specific geometric forms as substantively real; engages broader esoteric Sacred Geometry tradition at descriptive level without adopting strongest metaphysical-causal claims; articulates specific Vorilhon-source and Sendy-source engagement with geometric-symbolic content"
-principal_corpus_engagement = "Raëlian Symbol of Infinity (Star of David + swastika); Tabernacle and Ark of the Covenant precise-proportional specifications; Sendy's analysis of Plato's *Timaeus* 35b numerical-geometric content; broader cross-cultural geometric-symbolic content as alliance-transmitted religious-cultural material"
-distinguished_from = "Pure mathematics (geometric content engaged without religious-cosmological commitment); architecture (geometric content engaged for structural and aesthetic purposes); decorative geometric art (geometric content engaged for ornamental purposes without religious-cosmological framework); the strongest 'consciousness-affecting geometry' claims (which the corpus engages descriptively without adopting)"
-status_in_framework = "Substantive corpus engagement at multiple registers; the documented cross-cultural pattern is treated as real evidence; the alliance-transmission framework provides one explanatory framework alongside common-cognitive-structure and diffusion explanations"
+type = "Совокупность геометрических форм, отношений и пропорций, которым в разных культурах придавалось религиозное, космологическое или метафизическое значение; охватывает как документированное межкультурное использование геометрических отношений в сакральной архитектуре, так и интерпретационную традицию, считающую эти формы носителями внутреннего смысла"
+principal_geometric_forms = "Золотое сечение (φ ≈ 1,618); платоновы тела; vesica piscis; Цветок жизни; Древо жизни / схема сфирот; Шри-янтра; мандала; квадратура круга; отношения π и √2 / √3; гармонические пропорции"
+historical_roots = "Пифагор (ок. 570–495 гг. до н. э.); Платон (ок. 428–348 гг. до н. э.; *Тимей*); Витрувий (ок. 80–15 гг. до н. э.; *De Architectura*); герметическая традиция; Евклид; средневековые схоластические традиции и традиции строителей соборов; ренессансное возрождение (Пачоли, Леонардо)"
+modern_revival = "Теософия (Блаватская); антропософия (Штейнер); Швеллер де Любич (египетско-символическое направление); Роберт Лоулор; Кит Кричлоу; Джон Мичелл; Друнвало Мельхиседек; Леонора Лит; Рэндалл Карлсон"
+corpus_position = "Принимает документированное межкультурное использование геометрических отношений в сакральной архитектуре и религиозно-символическое использование отдельных форм; описательно рассматривает эзотерическую традицию сакральной геометрии, не принимая её самых сильных метафизико-причинных утверждений; прочитывает конкретное геометрическое содержание, переданное альянсом, через источники Ворильона и Сенди"
+principal_corpus_engagement = "Раэлианский символ бесконечности (звезда Давида + свастика); пропорциональные предписания для Скинии и Ковчега Завета; анализ Сенди числово-геометрического содержания *Тимея* Платона, 35b; межкультурное геометрико-символическое содержание, прочитанное как часть переданной традиции"
+distinguished_from = "Чистая математика (геометрическое содержание без религиозной приверженности); архитектура (конструктивное и эстетическое использование); декоративное геометрическое искусство (орнамент без религиозной рамки); самые сильные утверждения о «геометрии, влияющей на сознание» (рассматриваются описательно, не принимаются)"
+status_in_framework = "Рассматривается в нескольких регистрах; документированная межкультурная закономерность считается реальной; прочтение через передачу от альянса предлагается как одна осторожная объяснительная рамка наряду с общностью познания и диффузией, а не как установленный факт"
 +++
 
 **Sacred Geometry** is the body of geometric forms, ratios, and proportions to

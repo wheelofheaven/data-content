@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,15 +15,24 @@ category = "Methodology"
 entry_type = "concept"
 alternative_names = ["Sendy's Conditions of Coherence", "Sendy's five conditions", "the conditions of coherence", "Les conditions de cohérence (French)", "the hologram conditions"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "在《L'Ère du Verseau》（1970）中阐述五项条件的作者。" },
+    { title = "比利诺方法", path = "wiki/biglino-method", description = "与之配对的操作程序，规定读者必须做什么，对应 Sendy 所说读者必须具备什么。" },
+    { title = "Mauro Biglino", path = "wiki/mauro-biglino", description = "其三步法被文集与这些条件配对的语文学家。" },
+    { title = "传统", path = "wiki/the-tradition", description = "Sendy 的第四项条件将其重新诠释为实体银河接触的被传递知识。" },
+    { title = "新埃乌赫梅罗斯主义", path = "wiki/neo-euhemerism", description = "这些条件使读者得以进入的诠释传统。" },
+    { title = "古代宇航员假说", path = "wiki/ancient-astronaut-hypothesis", description = "这些条件在其中规定一种阅读方法的更广诠释传统。" },
+    { title = "以圣经赌月球的人", path = "articles/the-man-who-bet-the-bible-on-the-moon", description = "关于 Jean Sendy 的完整解读文章，本条目所编目的即其一致性条件。" },
+]
 
 [extra.infobox]
-type = "Methodological framework specifying preconditions for coherent literal reading of the Hebrew Bible within the ancient-astronaut interpretive tradition"
-developer = "Jean Sendy (1910–1978), French author of *Les cahiers de cours de Moïse* (1963), *Ces dieux qui firent le ciel et la terre* (1969), *L'Ère du Verseau* (1970), and other works in the ancient-astronaut and alternative-history tradition"
-principal_source = "*L'Ère du Verseau* (Robert Laffont, 1970), chapter 18, in the section opening 'Pour que le texte biblique apparaisse avec le relief et la cohérence d'un hologramme...'"
-the_five_conditions = "(1) Familiarity with the Bible; (2) Familiarity with astronautics within the framework of contemporary physics; (3) Elementary but clear and recent knowledge of biology, prehistory, history, and evolution; (4) Refusal of explanation by the inexplicable (rejection of the supernatural); (5) Acceptance of a universe intelligible to human reason"
-relationship_to_biglino_method = "Paired complementary methodology: Sendy specifies the preconditions the reader must satisfy; Biglino specifies the three-step operative procedure (obtain familiarity with original text; set aside traditional interpretation; read literally). Sendy supplies what the reader must have; Biglino supplies what the reader must do."
-distinguished_from = "Mainstream historical-critical method (which has its own preconditions — philological competence, genre awareness, comparative ancient Near Eastern engagement); confessional theological exegesis (which presupposes faith and inherited theological framework); Bultmann's demythologization program (which removes mythological content rather than rereading it as concrete account); pure modern empiricist naturalism (Sendy's position is medievalist-rationalist rather than humanist-empiricist)"
-status_in_framework = "Principal pre-Vorilhon methodological inheritance for the corpus; the systematic preconditional framework that pairs with the Biglino Method to articulate the corpus's principal contemporary hermeneutic; one component of the broader corpus methodology alongside Hamlet's Mill precessional integration, Vorilhon source-textual primacy, and disciplined epistemic-pluralism"
+type = "在远古外星人诠释传统中，规定对希伯来圣经进行一致的字面解读所需前提条件的方法论框架"
+developer = "让·桑迪（1910–1978），法国作家，著有 *Les cahiers de cours de Moïse*（1963）、*Ces dieux qui firent le ciel et la terre*（1969）、*L'Ère du Verseau*（1970）以及其他远古外星人与另类历史传统中的作品"
+principal_source = "*L'Ère du Verseau*（Robert Laffont，1970），第 18 章，以「Pour que le texte biblique apparaisse avec le relief et la cohérence d'un hologramme...」开头的一节"
+the_five_conditions = "(1) 熟悉圣经；(2) 在当代物理学框架内熟悉航天学；(3) 对生物学、史前史、历史与演化有基础但清晰且更新的知识；(4) 拒绝以不可解释之物作解释（拒斥超自然）；(5) 接受一个人类理性可以理解的宇宙"
+relationship_to_biglino_method = "互补的配对方法：桑迪规定读者必须满足的前提条件；比利诺规定三步操作程序（熟悉原文；搁置传统解释；按字面阅读）。桑迪提供读者必须具备的东西；比利诺提供读者必须做的事。"
+distinguished_from = "主流历史批判法（有其自身的前提——语文学能力、文体意识、古代近东比较研究）；宗派神学释经（预设信仰与承袭的神学框架）；布尔特曼的去神话化纲领（移除神话内容，而非把它重读为具体记述）；纯粹的现代经验主义自然主义（桑迪的立场是中世纪式的理性主义，而非人文主义—经验主义）"
+status_in_framework = "文集在沃里隆之前的主要方法论遗产；与比利诺方法相配、共同阐述文集当代主要诠释学的系统性前提框架；文集更广方法论的一个组成部分，与《哈姆雷特的磨坊》岁差整合、沃里隆原始文本的首要地位以及严谨的认识论多元主义并列"
 +++
 
 **Sendy's Conditions of Coherence** is the methodological framework articulated by **Jean Sendy** (1910–1978) in *L'Ère du Verseau* (Robert Laffont, 1970, chapter 18) specifying the five preconditions a reader must satisfy for the Hebrew Bible to appear, in his phrase, *"with the relief and coherence of a hologram."* Sendy's full formulation:

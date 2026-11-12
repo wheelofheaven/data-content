@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -20,6 +20,7 @@ claim_type = "framework"
 alternative_names = ["la chaîne cosmique", "la chaîne de la création", "la chaîne cosmique de la création", "le processus cosmique récurrent", "le cycle créatif cosmique", "le cycle des créateurs"]
 timeline = ["pre-creation", "aries", "pisces", "aquarius", "post-aquarius"]
 see_also = [
+    { title = "Macrobiologie", path = "wiki/macrobiology", description = "L'humanité lue comme un organisme à l'échelle supérieure, se propageant le long de la chaîne des civilisations créées et créatrices." },
     { title = "Compétition cosmique", path = "wiki/cosmic-competition", description = "La phase d'évaluation spécifique au sein de la Chaîne cosmique plus large — l'évaluation de qualification pour l'héritage." },
     { title = "Élohim", path = "wiki/elohim", description = "La civilisation créatrice qui a découvert, durant l'ère du Bélier, qu'elle avait elle-même été créée." },
     { title = "Apocalypse", path = "wiki/apocalypse", description = "L'évaluation d'héritage de l'ère du Verseau — la phase actuelle de la chaîne pour l'humanité terrestre." },

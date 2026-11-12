@@ -6,28 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["dinosaurs", "*taninim* (Hebrew plural)", "*tannin* (Hebrew singular)", "great sea creatures (English softened translation)", "*ketos* (Septuagint Greek)", "*cete grandia* (Vulgate Latin)", "sea monsters", "dragons of the deep"]
+alternative_names = ["恐竜", "*taninim*(ヘブライ語複数形)", "*tannin*(ヘブライ語単数形)", "大きな海の生き物(英語の和らげた訳)", "*ketos*(七十人訳のギリシア語)", "*cete grandia*(ウルガタのラテン語)", "海の怪物", "深淵の竜"]
 timeline = ["virgo", "leo", "cancer", "gemini"]
+see_also = [
+    { title = "蛇", path = "wiki/serpent", description = "イザヤ書27:1の三つの語による竜の同定において、そのヘブライ語が tannin と重なる nachash。" },
+    { title = "創世記", path = "wiki/genesis", description = "その第五日の創造の記述は、最も強い創造の動詞 bara によって taninim を名指す。" },
+    { title = "大洪水", path = "wiki/great-flood", description = "より大型の竜の形態の大半を消し去った、双子座の時代の大洪水。" },
+    { title = "ルシファー", path = "wiki/lucifer", description = "イザヤ書27:1において同じ tannin の語彙がその歴史的指示対象を追跡する、反対派閥。" },
+    { title = "サタン", path = "wiki/satan", description = "後代の爬虫類・竜の象徴がそこへと重ね合わされた、敵対者の伝統。" },
+    { title = "語源学的読解のリスト", path = "wiki/list-of-etymological-readings", description = "コーパスが直接に読むヘブライ語の用語の中での tannin の位置。" },
+    { title = "ドラゴン曲線", path = "articles/the-dragon-curve", description = "創世記1:21の大いなる竜 ― 最初のメッセージが決して引用しない節 ― と、それが鳥たちの傍らに据える恐竜についての解説記事。" },
+]
 
 [extra.infobox]
-type = "Concept; category of biological organism with substantial source-grounded creation history, mainstream-paleontological correspondence, and cross-cultural mythological-folkloric attestation"
-basic_premise = "Large reptilian or serpentine creatures deliberately created by specific factional teams within the Elohim creation program during the Age of Virgo (c. 13,170 to 11,010 BCE); corresponding to the dinosaurs of mainstream paleontology; the same creatures whose memory is preserved in dragon folklore across virtually every human culture"
-creation_age = "Age of Virgo (c. 13,170 to 11,010 BCE on the corpus's compressed timeline); the fifth day of the Genesis 1 creation sequence"
-creation_attribution = "Specific factional teams within the broader Elohim creation program; identified by the source as 'some other groups of scientists'; recognized within the program itself as vindicating the home-world opposition faction's prior concerns"
-mainstream_paleontology_correspondence = "Dinosaurs of the Mesozoic Era (mainstream date c. 252-66 million years ago; corpus reading: persisting from Virgo through Gemini, c. 13,170 to c. 6,690 BCE); the K-Pg extinction event substantially reread by the corpus through the Gemini-flood framework"
-hebrew_textual_anchor = "Genesis 1:21 וַיִּבְרָא אֱלֹהִים אֶת־הַתַּנִּינִם הַגְּדֹלִים (*Vayivra Elohim et ha-taninim ha-gedolim*, 'And Elohim created the great taninim'); the strongest Hebrew verb of creation (*bara*) used specifically for the *taninim*; cross-referenced in Isaiah 27:1, Psalm 74:13, Jeremiah 51:34, Exodus 7"
-modern_phylogenetic_status = "Birds (Aves) are the surviving theropod lineage of the dinosaur clade; established through Ostrom's 1960s-1970s Deinonychus-Archaeopteryx work and confirmed by the Liaoning feathered-dinosaur fossils from 1996 onward; the dinosaur-bird connection is settled mainstream paleontology"
-cross_cultural_attestation = "Universal dragon memory across virtually every human culture; Chinese *long* (龍), Indian *naga*, Mesoamerican feathered serpents (Quetzalcoatl, Kukulkan), Mesopotamian Tiamat, Ugaritic Lotan and tannanu, Norse Jörmungandr and Niðhöggr, Greek Python and Ladon and Hydra, Aboriginal Australian Rainbow Serpent, various African dragon traditions"
-status_in_source_material = "Substantially documented; the principal source-material passages establish both the dragons' specific creation history and their identification with the dinosaurs of mainstream paleontology"
-distinguished_from = "Mythological invention (the corpus's specific position is that dragon folklore preserves cultural memory of actually-encountered creatures rather than purely imaginative invention); the broader category of fossil organisms (the corpus reads dragons specifically as the deliberately-created creatures, not as products of unguided evolutionary processes); the Lucifer faction's specific historical referents (the Isaiah 27:1 three-term identification of *liwyatan*/*nachash*/*tannin* applies to the Lucifer faction; the same Hebrew word *tannin* operates in different specific contexts)"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Genesis' chapter (the home-world incident passage; the Day 5 creation passage); *timeline.epub* Age of Virgo chapter (Sections VI-IX, with substantial treatment of dragons-as-dinosaurs, the Hebrew *tannin* translation history, and the dinosaur-bird phylogenetic connection); *timeline.epub* Age of Gemini chapter (treatment of the dinosaur-flood connection)"
+type = "概念。典拠に基づく相当量の創造史、主流の古生物学との対応、文化横断的な神話・民間伝承での証言を持つ生物のカテゴリー"
+basic_premise = "乙女座の時代(紀元前13,170〜11,010年頃)に、エロヒムの創造計画の中の特定の派閥チームによって意図的に創造された大型の爬虫類的または蛇状の生物。主流の古生物学の恐竜に対応し、ほぼすべての人類文化の竜の民間伝承にその記憶が保存されている生物と同じものである"
+creation_age = "乙女座の時代(コーパスの圧縮された年表で紀元前13,170〜11,010年頃)。創世記1章の創造の連続における第五の日"
+creation_attribution = "より広いエロヒムの創造計画の中の特定の派閥チーム。典拠では「科学者の他のいくつかのグループ」とされる。計画の内部で、母星の反対派がかねて抱いていた懸念を裏づけるものと認識された"
+mainstream_paleontology_correspondence = "中生代の恐竜(主流の年代では約2億5200万〜6600万年前。コーパスの読解では乙女座から双子座まで、紀元前13,170年頃〜6,690年頃まで存続)。K-Pg絶滅事変は、コーパスによって双子座の洪水の枠組みを通して大幅に読み直される"
+hebrew_textual_anchor = "創世記1:21 וַיִּבְרָא אֱלֹהִים אֶת־הַתַּנִּינִם הַגְּדֹלִים(*Vayivra Elohim et ha-taninim ha-gedolim*、「そしてエロヒムは大いなるタニーニームを創造した」)。最も強い創造のヘブライ語動詞(*bara*)が、とりわけ *taninim* に用いられている。イザヤ書27:1、詩篇74:13、エレミヤ書51:34、出エジプト記7章と相互参照される"
+modern_phylogenetic_status = "鳥類(Aves)は恐竜のクレードのうち生き残った獣脚類の系統である。1960〜70年代のオストロムによるデイノニクスと始祖鳥の研究で確立し、1996年以降の遼寧省の羽毛恐竜化石によって確認された。恐竜と鳥の関係は主流の古生物学で決着している"
+cross_cultural_attestation = "ほぼすべての人類文化にわたる普遍的な竜の記憶。中国の *long*(龍)、インドの *naga*、メソアメリカの羽毛ある蛇(ケツァルコアトル、ククルカン)、メソポタミアのティアマト、ウガリットのロタンとタンナヌ、北欧のヨルムンガンドとニーズヘッグ、ギリシアのピュトン、ラドン、ヒュドラ、オーストラリア先住民の虹の蛇、アフリカのさまざまな竜の伝承"
+status_in_source_material = "十分に記録されている。典拠資料の主要な箇所が、竜の具体的な創造史と、主流の古生物学の恐竜との同定の両方を確立している"
+distinguished_from = "神話的創作(コーパスの具体的な立場は、竜の民間伝承は純粋に想像による創作ではなく、実際に遭遇した生物の文化的記憶を保存しているというもの)。化石生物のより広いカテゴリー(コーパスは竜を、導かれない進化過程の産物ではなく、とりわけ意図的に創造された生物として読む)。ルシファー派にかかわる具体的な歴史的指示対象(イザヤ書27:1の *liwyatan*/*nachash*/*tannin* という三語の同定はルシファー派に当てはまる。同じヘブライ語 *tannin* が異なる具体的文脈で働いている)"
+principal_text = "『真実を告げる書』(1974年)、「創世記」の章(母星での出来事の箇所、第五日の創造の箇所)。*timeline.epub* の乙女座の時代の章(第VI〜IX節。恐竜としての竜、ヘブライ語 *tannin* の翻訳史、恐竜と鳥の系統的つながりを詳しく扱う)。*timeline.epub* の双子座の時代の章(恐竜と洪水のつながりを扱う)"
 +++
 
 **Dragons** are a category of large reptilian or serpentine creatures that the Wheel of Heaven framework identifies as deliberately created biological organisms produced by specific factional teams within the Elohim creation program during the **Age of Virgo** (c. 13,170 to 11,010 BCE on the corpus's compressed timeline), corresponding to the **fifth day** of the Genesis 1 creation sequence. The framework identifies these creatures with the **dinosaurs** of mainstream paleontology, with the Hebrew word תַּנִּין (*tannin*) of Genesis 1:21 — softened to "whales" or "great sea creatures" in most major Bible translations but unambiguously meaning "dragon" or "sea-monster" in the Hebrew lexicon — providing the principal source-textual anchor. The corpus's reading registers four converging claims: the Hebrew text of Genesis 1:21 explicitly describes the Elohim's creation of dragons using the strongest creation verb available in Hebrew (*bara*); the Raëlian source places dragons and birds together in the same creative age, a pairing that mainstream English translations of Genesis obscure; modern phylogenetics has established that birds are the surviving theropod lineage of the dinosaur clade; and universal dragon memory across human cultures preserves cultural memory of creatures actually encountered before the Gemini-age flood eliminated most of the larger forms.

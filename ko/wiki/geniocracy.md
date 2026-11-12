@@ -6,27 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Geniocracy (proper-noun framework concept)", "selective democracy (Vorilhon source-textual designation)", "the first New Commandment", "the Raëlian political-governance doctrine", "Géniocratie (French)", "government by the geniuses (descriptive expansion)"]
+alternative_names = ["Geniocracy (proper-noun framework concept)", "selective democracy (Vorilhon source-textual designation)", "첫 번째 새 계명", "the Raëlian political-governance doctrine", "Géniocratie (프랑스어)", "government by the geniuses (descriptive expansion)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "휴머니타리아니즘", path = "wiki/humanitarianism", description = "새 계명에서 천재정치와 짝을 이루는 재산·상속의 계명." },
+    { title = "새 계명", path = "wiki/new-commandments", description = "천재정치가 그 첫 번째 계명을 이루는 일곱 부분의 물병자리 시대 프로그램." },
+    { title = "야훼", path = "wiki/yahweh", description = "이 교리를 보릴롱에게 표명한 엘로힘의 의장." },
+    { title = "라엘", path = "wiki/rael", description = "이 교리의 수신자이자 세계 천재정치 운동의 창설자." },
+    { title = "설계자들로부터의 메시지", path = "wiki/message-from-the-designers", description = "교리의 본래 표명을 기록한 통합 원천 텍스트." },
+    { title = "라엘리즘", path = "wiki/raelism", description = "천재정치가 그 안에서 기초적 정치 교리로 기능하는 운동." },
+]
 
 [extra.infobox]
-type = "Raëlian political-governance doctrine; the first of the seven New Commandments delivered to Vorilhon during the December 1973 contact"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), Sixth Chapter (The New Commandments), section titled Geniocracy; *Géniocratie* (Vorilhon, 1977), the dedicated systematic articulation"
-core_articulation = "'Selective democracy' restricting political eligibility to those whose measured intelligence exceeds specified thresholds — voting reserved for those at least 10% above population average, eligibility for public office reserved for those at least 50% above"
-position_within_seven_commandments = "First New Commandment; the political-governance dimension complementing Humanitarianism, World Government, Demilitarization, Science as Religion, Telepathic Cultivation, and the Metaphysical Clarifications"
-principal_argument_structure = "Universal-suffrage democracy weighs votes equally regardless of capacity to understand issues; majority-rule frequently contradicts expert knowledge (Copernicus example); cells-of-the-body metaphor articulates that specialized capacities should make decisions for the broader system; psychometric measurement provides technical basis for eligibility restriction"
-distinguished_from = "Universal-suffrage democracy (which weighs all votes equally); aristocracy (hereditary-based political authority); plutocracy (wealth-based political authority); monarchy (single-individual hereditary political authority); theocracy (religious-authority-based political authority); technocracy (technical-expertise-based political authority operating substantively differently from intelligence-based selection)"
+type = "라엘의 통치 교리. 1973년 12월 접촉 중 보릴롱에게 전해진 일곱 가지 새 계명 가운데 첫 번째"
+principal_source = "*진실을 말하는 책*(보릴롱, 1974), 제6장(새로운 계명), '천재정치' 절; 이를 체계적으로 다룬 *Géniocratie*(보릴롱, 1977)"
+core_articulation = "측정된 지능에 따라 정치적 자격에 가중치를 두는 '선택적 민주주의' — 투표권은 인구 평균보다 최소 10% 높은 사람에게, 공직은 최소 50% 높은 사람에게 주어집니다"
+position_within_seven_commandments = "첫 번째 새 계명. 통치의 차원으로, 휴머니타리아니즘, 세계 정부, 비무장화, 종교로서의 과학, 텔레파시 계발, 형이상학적 해명과 나란히 놓입니다"
+principal_argument_structure = "보통선거 민주주의는 유권자의 쟁점 이해 능력과 무관하게 모든 표에 같은 비중을 둡니다. 다수결은 전문 지식을 자주 무시합니다(코페르니쿠스의 예). 몸의 세포 은유는 정치적 판단이 그것을 갖춘 이들에게 속해야 한다고 봅니다. 심리 측정 검사가 자격 기준을 제공합니다"
+distinguished_from = "보통선거 민주주의(모든 표에 같은 비중), 귀족정(세습 권위), 금권정(부에 기초한 권위), 군주정(단일 세습 통치자), 신정(종교적 권위), 기술관료제(일반 지능이 아닌 전문 기술 지식), 능력주의(측정된 지능이 아닌 입증된 성취)"
 parallel_contemporary_articulations = "Plato's philosopher-kings (*Republic*); Confucian meritocratic civil-service tradition; twentieth-century technocracy movement (Howard Scott); Bertrand Russell's scientific-oligarchy engagement; epistocracy tradition (Jason Brennan, David Estlund); John Stuart Mill's plural-voting proposal; Robert Heinlein's political articulations; Singapore meritocratic-governance experiment"
-mainstream_critical_engagement = "Measurement-validity concerns (Stephen Jay Gould's *The Mismeasure of Man*, the substantial broader critical-psychometric tradition); historical-eugenic associations (the substantial twentieth-century historical experience); democratic-egalitarian concerns (the substantial mainstream democratic-political-philosophy tradition); practical-implementation concerns (the substantial broader concerns about implementation integrity)"
-status_in_framework = "Foundational Raëlian political-governance doctrine; the first of the seven New Commandments constituting the Aquarian-age program; directional orientation rather than immediate institutional change"
-principal_corpus_treatment = "*The Book Which Tells the Truth* (Vorilhon, 1974), Sixth Chapter — principal source articulation; *Géniocratie* (Vorilhon, 1977) — the dedicated systematic articulation; *timeline.epub* — substantial subsequent corpus contextualization within the broader New Commandments framework"
+mainstream_critical_engagement = "측정 타당성(스티븐 제이 굴드, *The Mismeasure of Man*), 역사적 우생학과의 연관(골턴과 20세기의 기록), 민주적·평등주의적 반론(하버마스, 롤스, 왈저), 실제 시행과 포획의 위험"
+status_in_framework = "라엘의 기초 통치 교리. 일곱 가지 새 계명 가운데 첫 번째로, 즉각적 개혁이 아니라 물병자리 시대를 위한 방향 설정"
+principal_corpus_treatment = "*The Book Which Tells the Truth*(보릴롱, 1974), 제6장 — 주요 표명. *Géniocratie*(보릴롱, 1977) — 전용 체계적 해설. 이후 더 넓은 새 계명 틀 안에서 맥락화"
 +++
 
 **Geniocracy** (from Latin *genius*, "innate ability, natural talent," and

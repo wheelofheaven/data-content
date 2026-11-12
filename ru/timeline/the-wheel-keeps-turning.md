@@ -7,7 +7,7 @@ weight = 270
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -22,15 +22,15 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité (Книга, которая говорит правду)", author = "Клод Ворильон (Раэль)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète (Инопланетяне забрали меня на свою планету)", author = "Клод Ворильон (Раэль)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
-    { title = "Intelligent Design: Message from the Designers (Разумный замысел: Послание Создателей)", author = "Клод Ворильон (Раэль)", date = "2005", medium = "religious-text", description = "Сводное издание на английском языке; первичный источник для фрактальной космологии в §I и четырёхуровневой нравственной структуры в §V." },
-    { title = "Бытие", author = "Аноним (Еврейская Библия); перевод WoH с огласованного масоретского еврейского текста", date = "ок. VI–V вв. до н. э.", medium = "religious-text", path = "/library/genesis-woh/" },
-    { title = "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (Мельница Гамлета: исследование истоков человеческого знания и его передачи через миф)", author = "Джорджо де Сантильяна и Герта фон Дехенд", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/", description = "Межкультурная реконструкция прецессионной рамки — структурного остова двенадцатиричной схемы эпох корпуса." },
-    { title = "Qur'anic Geography (Коранская география)", author = "Дэн Гибсон", date = "2011", medium = "nonfiction-book" },
-    { title = "Early Islamic Qiblas (Ранние исламские киблы)", author = "Дэн Гибсон", date = "2017", medium = "nonfiction-book" },
-    { title = "The Fractal Geometry of Nature (Фрактальная геометрия природы)", author = "Бенуа Мандельброт", date = "1982", medium = "nonfiction-book", description = "Математическое основание, на которое ссылается §I при утверждении о фрактальной космологии." },
-    { title = "Бхагавадгита", author = "Вьяса (традиционное приписывание)", date = "ок. II в. до н. э.", medium = "religious-text", description = "Цитируется в §III в связи с прочтением индийской традиции корпусом; канон не называет Кришну." },
+    { id = "le-livre-qui-dit-la-v-rit" },
+    { id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te" },
+    { id = "intelligent-design-message-from-the-designers", note = "Сводное издание на английском языке; первичный источник для фрактальной космологии в §I и четырёхуровневой нравственной структуры в §V." },
+    { id = "genesis" },
+    { id = "hamlets-mill", note = "Межкультурная реконструкция прецессионной рамки — структурного остова двенадцатиричной схемы эпох корпуса." },
+    { id = "qur-anic-geography" },
+    { id = "early-islamic-qiblas" },
+    { id = "the-fractal-geometry-of-nature", note = "Математическое основание, на которое ссылается §I при утверждении о фрактальной космологии." },
+    { id = "bhagavad-gita", note = "Цитируется в §III в связи с прочтением индийской традиции корпусом; канон не называет Кришну." },
 ]
 
 [[extra.prev_age]]

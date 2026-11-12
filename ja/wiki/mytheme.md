@@ -6,27 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-08"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["mytheme", "mythological motif (broader usage)", "narrative element (broader usage)", "mythème (French original)", "Mythem (German)", "mitema (Italian, Spanish)"]
+alternative_names = ["神話素", "神話的モチーフ(より広い用法)", "物語要素(より広い用法)", "mythème(フランス語の原語)", "Mythem(ドイツ語)", "mitema(イタリア語、スペイン語)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "比較神話学", path = "wiki/comparative-mythology", description = "神話素がその分析の道具の一つとなる、より広い学問分野上の取り組み。" },
+    { title = "神々の闘い", path = "wiki/theomachy", description = "コーパスが神話素として分析する、文化を横断して繰り返されるモチーフ群の一つ。" },
+    { title = "ノアの箱舟", path = "wiki/noahs-ark", description = "コーパスの主要なモチーフ群の一つである洪水の神話素の一例。" },
+    { title = "古代宇宙飛行士仮説", path = "wiki/ancient-astronaut-hypothesis", description = "文化を横断して繰り返されるモチーフについて、コーパスが優先する歴史的説明。" },
+    { title = "善悪の知識の樹", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "神話素への取り組みの中で、圧縮された歴史として読まれる創世記のモチーフ。" },
+    { title = "古代の建設者", path = "wiki/ancient-builders", description = "コーパスが諸伝統を横断して読む、巨石と建造のモチーフの主題。" },
+    { title = "『オデュッセイア』の背後の世界", path = "/articles/the-world-behind-the-odyssey/", description = "知識の伝達と王権継承の神話素を、『オデュッセイア』からアナトリアとメソポタミアへと遡ってたどる解説記事。" },
+    { title = "ホメロスの東面", path = "/articles/the-east-face-of-homer/", description = "英雄は旅をしないのに物語の型は旅をする、その仕方を扱う姉妹編の解説記事。ギルガメシュとオデュッセウスの関係を、神話素の伝達の模範事例とする。" },
+]
 
 [extra.infobox]
-type = "Technical analytical unit in Claude Lévi-Strauss's structural-anthropological method for the study of myth; also broader popular term for recurring cross-cultural mythological motifs"
-coined_by = "Claude Lévi-Strauss (1908-2009), French structural anthropologist"
-principal_articulation = "Lévi-Strauss, 'The Structural Study of Myth' (*Journal of American Folklore*, 1955), incorporated into *Structural Anthropology* (1958); developed across *Mythologiques* (4 vols., 1964-1971)"
-linguistic_analogy = "Mytheme : myth :: phoneme : language; the mytheme is the relational unit, not the isolated content"
-principal_methodology = "Cross-variant analysis: collecting multiple variants of a myth across cultural settings, identifying the recurring relational elements (mythemes), and arranging them in columns to reveal the underlying structural relations (typically binary oppositions and their mediations)"
-canonical_example = "The Oedipus myth analyzed in 'The Structural Study of Myth' through four columns: (1) overrated kinship relations; (2) underrated kinship relations; (3) denial of the autochthonous origin of man; (4) persistence of the autochthonous origin of man"
-broader_popular_usage = "Any recurring narrative element — motif, character type, narrative pattern — appearing across multiple cultures; substantially interchangeable with 'mythological motif' in this usage"
-corpus_position = "Engages both strict Lévi-Straussian sense and broader popular sense; corpus's methodological commitment is to cross-cultural pattern recognition rather than to any single methodological school; the mytheme concept is one tool among several within the broader Comparative Mythology engagement"
-distinguished_from = "Motif (the broader Stith Thompson cataloguing concept); tale-type (the Aarne-Thompson-Uther narrative-type concept); archetype (the Jungian psychological-pattern concept); narrative function (the Proppian narrative-structural concept); narreme (Eugene Dorfman's parallel narratological concept)"
-status_in_framework = "Methodological technical term within the broader Comparative Mythology engagement; cross-referenced to the [Comparative Mythology](../comparative-mythology/) entry for the broader disciplinary engagement"
+type = "クロード・レヴィ=ストロースの神話研究のための構造人類学的方法における専門的な分析単位。より広くは、文化横断的に繰り返し現れる神話的モチーフを指す一般的な用語"
+coined_by = "クロード・レヴィ=ストロース(1908〜2009年)、フランスの構造人類学者"
+principal_articulation = "レヴィ=ストロース「神話の構造的研究」(*Journal of American Folklore*、1955年)。『構造人類学』(1958年)に収録。『神話論理』(全4巻、1964〜1971年)で展開"
+linguistic_analogy = "神話素:神話=音素:言語。神話素は孤立した内容ではなく関係の単位である"
+principal_methodology = "異本横断的分析:文化的状況をまたいで神話の複数の異本を集め、繰り返し現れる関係的要素(神話素)を特定し、それらを列に配置して根底にある構造的関係(典型的には二項対立とその媒介)を明らかにする"
+canonical_example = "「神話の構造的研究」で四つの列によって分析されたオイディプス神話:(1)過大評価された親族関係、(2)過小評価された親族関係、(3)人間の土着起源の否定、(4)人間の土着起源の存続"
+broader_popular_usage = "複数の文化に現れる繰り返しの物語要素――モチーフ、人物類型、物語パターン――のすべて。この用法では「神話的モチーフ」とほぼ互換的"
+corpus_position = "厳密なレヴィ=ストロース的意味とより広い一般的意味の両方に取り組む。コーパスの方法論的立場は、特定の方法論的学派ではなく文化横断的なパターン認識にある。神話素の概念は、より広い比較神話学の取り組みの中のいくつかの道具の一つである"
+distinguished_from = "モチーフ(スティス・トンプソンによる、より広い目録化の概念)。話型(アアルネ=トンプソン=ウターの物語類型の概念)。元型(ユング派の心理的パターンの概念)。物語機能(プロップの物語構造の概念)。ナレーム(ユージン・ドーフマンによる並行的な物語論の概念)"
+status_in_framework = "より広い比較神話学の取り組みの中の方法論的専門用語。より広い学問的取り組みについては[比較神話学](../comparative-mythology/)の項目を参照"
 +++
 
 **Mytheme** is, in its strict technical sense, the principal analytical unit of **Claude Lévi-Strauss**'s structural-anthropological method for the study of myth. Lévi-Strauss articulated the concept principally in "The Structural Study of Myth" (*Journal of American Folklore*, 1955; subsequently incorporated as chapter eleven of *Structural Anthropology*, 1958) and developed it across the four-volume *Mythologiques* (1964-1971).

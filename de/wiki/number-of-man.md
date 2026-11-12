@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,27 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["666", "Six Hundred Sixty-Six", "the Number of the Beast", "the Number of Man (proper-noun framework concept)", "χξϛ (Greek isopsephic representation)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Apokalypse", path = "wiki/apocalypse", description = "Der Kontext von Offenbarung 13,18 und die nukleare Schwelle von 1945, die die 666. Generation markiert." },
+    { title = "Genesis", path = "wiki/genesis", description = "Das Schöpfungsereignis im Eden-Labor, das die Generationenzählung auf 11.375 v. Chr. datiert." },
+    { title = "Weltzeitalter", path = "wiki/world-age", description = "Die präzessionalen Zeitalter, über die sich die Spanne von 13.320 Jahren bis zur Grenze von Jungfrau und Löwe erstreckt." },
+    { title = "Goldenes Zeitalter", path = "wiki/golden-age", description = "Die Vollendung im Wassermann-Zeitalter, bei der die Bahn von der Schöpfung bis zur Apokalypse nach dem halben Zyklus ankommt." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "Der Rahmen, dessen präzessionale Chronologie die Berechnung der 666 mit verankern hilft." },
+    { title = "Raël", path = "wiki/rael", description = "Die Quelle der Deutung als Generationenzählung in Empfangen wir die Außerirdischen." },
+    { title = "Die Mühle, die die Zeitalter mahlt", path = "articles/the-mill-that-grinds-the-ages", description = "Die umfassendere präzessionale Zahlenfamilie (72, 2.160, 25.920, 432.000), neben der diese Generationenzählung steht — und die Vorsicht gegenüber runden Zahlen, die mit ihr einhergeht." }
+]
 
 [extra.infobox]
-type = "Number-symbolic concept; the Revelation 13:18 numerical specification interpreted as the number of human generations from creation to nuclear-acquisition threshold"
+type = "Zahlensymbolisches Konzept; die 666 aus Offenbarung 13,18, gelesen als die Zahl der menschlichen Generationen von der Erschaffung bis zur Schwelle des Atomwaffenbesitzes"
 value = "666 (Indo-Arabic numeral); χξϛ (Greek isopsephic representation: chi 600 + xi 60 + stigma 6); שש מאות ששים ושש (Hebrew transliteration)"
-principal_source = "Revelation 13:18 (the source-textual location); *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) and consolidated *Message from the Designers* (2005) — the principal corpus interpretation; *timeline.epub* — substantive substantial subsequent corpus refinement"
-core_articulation = "666 = number of human generations from original Eden-laboratory creation through 1945 nuclear-acquisition threshold; with working estimate of 20 years per generation, 666 × 20 = 13,320 years; 1945 − 13,320 = 11,375 BCE creation date at Virgo-Leo precessional boundary"
-mathematical_features = "Triangular number (T_36 = 666); sum of integers from 1 to 36; sum of squares of first seven primes (2² + 3² + 5² + 7² + 11² + 13² + 17² = 666); harshad number (divisible by digit-sum)"
+principal_source = "Offenbarung 13,18 (der Quelltext); *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) und *Message from the Designers* (2005) – die maßgebliche Deutung im Korpus; *timeline.epub* – die Präzisierung zu den vollendeten Menschen"
+core_articulation = "666 = Zahl der menschlichen Generationen von der ursprünglichen Erschaffung im Eden-Labor bis zur Schwelle des Atomwaffenbesitzes 1945; der Kanon (LWTE-2:208–209) setzt die ersten Menschen „vor etwa 13.000 Jahren“ an und rechnet 666 × 20 = 13.320 Jahre; das Datum 11.375 v. Chr. (1945 − 13.320) und seine Einordnung nahe der Grenze von Jungfrau und Löwe sind die eigene Rechnung des Korpus, nicht die des Kanons"
+mathematical_features = "Dreieckszahl (T₃₆ = 666); Summe der Quadrate der ersten sieben Primzahlen (2² + 3² + 5² + 7² + 11² + 13² + 17² = 666); Harshad-Zahl (durch ihre Quersumme teilbar)"
 precessional_calculation = "13,320 years / 2,160 years per Great Month = 6.166... Great Months; structurally close to half a complete Great Year (12,960 years exact half); creation-to-Apocalypse trajectory across approximately half of complete precessional cycle"
-distinguished_from = "the mainstream Nero Caesar isopsephic interpretation (Irenaeus, the substantial subsequent biblical-scholarly tradition); the textual-variant 616 reading (Papyrus 115 evidence); the various papacy-as-beast Reformation-era interpretations; the various contemporary-political-figure interpretations; the various conspiracy-theoretic Mark-of-the-Beast engagements"
+distinguished_from = "Die etablierte Gematria-Lesart „Nero Caesar“ (Irenäus und die spätere wissenschaftliche Tradition); die Textvariante 616 (Papyrus 115); Lesarten der Reformationszeit, die das Papsttum als Tier deuten; Identifizierungen mit zeitgenössischen politischen Gestalten; verschwörungstheoretische Lesarten des Malzeichens des Tieres"
 parallel_traditions = "Hebrew gematria tradition; Greek isopsephy tradition; Sanskrit-Indian numerical-symbolic traditions; Chinese numerical-symbolic traditions; Mesoamerican calendrical-numerical traditions; various indigenous numerical-symbolic traditions"
-status_in_framework = "Foundational chronological-mathematical concept anchoring the corpus's 11,375 BCE creation-finalization date and the broader precessional-calendrical framework"
-principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) — principal source articulation in 'The Apocalypse of the Final Nuclear Cataclysm' section; *Message from the Designers* (2005) — consolidated English engagement; *timeline.epub* — substantive subsequent refinement registering finalized-humans interpretation"
+status_in_framework = "Grundlegender chronologisch-mathematischer Ankerpunkt für das Schöpfungsdatum des Korpus, 11.375 v. Chr., und für seine präzessionale Chronologie"
+principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979), Abschnitt 'The Apocalypse of the Final Nuclear Cataclysm'; *Message from the Designers* (2005); *timeline.epub* – die Präzisierung zu den vollendeten Menschen"
 +++
 
 **The Number of Man** is the value **666** — written in the Greek of Revelation

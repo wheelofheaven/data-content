@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Tres semanas después de la Versión 02, el Departamento de Guerra de EE. UU. publicó la Versión 03 en war.gov/UFO: 53 documentos, 10 renderizaciones digitales, 6 vídeos y 3 grabaciones de audio de la NASA, procedentes de la CIA, el FBI, la NASA y el Pentágono —el primer lote de PURSUE que incorpora archivos de agencias civiles junto con material del Departamento de Defensa. Los casos destacados incluyen un objeto con forma de patata, opalescente, con escamas de pez, observado sobre las montañas Cheyenne en febrero de 2022 por un oficial de inteligencia del Ejército y cuatro miembros de su unidad; un disco de 2008 con luces giratorias en su parte inferior y haces emitidos sobre el Aeropuerto Internacional de Harare; un encuentro con orbes emparejados en el noreste de EE. UU. en 2026; y un archivo de J. Edgar Hoover de 1949 sobre la convergencia de haces de luz en el cielo sobre las montañas Cascade. El corpus registra la Versión 03 como contexto para leer el canon, no como una señal del retorno."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "El contexto del presente"
+cross_reference = "Era de Acuario, §IX"
 canon_links = [
     { title = "Era de Acuario", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

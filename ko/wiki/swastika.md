@@ -6,28 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["svastika", "sauvastika", "manji (卍)", "Hakenkreuz (Nazi-specific tilted form)", "fylfot", "gammadion", "sun cross", "tetraskelion", "whirling logs (Navajo)"]
+alternative_names = ["svastika", "sauvastika", "manji (卍)", "Hakenkreuz (나치 특유의 기울어진 형태)", "fylfot", "gammadion", "태양 십자", "tetraskelion", "소용돌이치는 통나무(나바호)"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "라엘 운동 무한의 상징", path = "wiki/raelian-symbol-of-infinity", description = "스와스티카가 중심 요소를 이루는 복합 문장." },
+    { title = "다윗의 별", path = "wiki/star-of-david", description = "같은 복합 문장의 또 다른 주요 구성 요소." },
+    { title = "무한", path = "wiki/infinity", description = "스와스티카가 그 시간적·순환적·영원한 차원에서 담아내는 더 넓은 개념." },
+    { title = "매스 이펙트", path = "wiki/mass-effect", description = "'모든 것은 순환한다'는 스와스티카의 의미와 맞물리는 시간-순환 프레임워크." },
+    { title = "우주의 사슬", path = "wiki/cosmic-chain", description = "'위가 아래가 된다'는 독해가 참여하는 중첩된 순환의 우주론." },
+    { title = "라엘리즘", path = "wiki/raelism", description = "그 아시아 지부들이 원래의 스와스티카 중심 문장을 유지하는 운동." },
+    { title = "시대를 갈아내는 맷돌", path = "articles/the-mill-that-grinds-the-ages", description = "시대의 회전하는 바퀴로서의 스와스티카 — 이 문장을 시간 속의 무한으로 풀이한 야훼의 주석." },
+]
 
 [extra.infobox]
-type = "Religious-iconographic symbol; one of the oldest known symbols globally with cross-cultural distribution across virtually all major cultural-religious traditions"
-basic_form = "Cross with four arms bent at right angles, typically rotated 90 degrees between successive arms; principal orientations are right-facing (clockwise, *svastika* proper) and left-facing (counter-clockwise, *sauvastika*)"
-sanskrit_etymology = "*Svastika* (सुस्तिक) from *sv-* (good, well) and *asti* (to be) plus the *-ka* suffix; principal meaning 'well-being,' 'good fortune,' 'auspiciousness'"
-oldest_known_usage = "Approximately 10,000 BCE; Mezin culture (Ukraine), carved-mammoth-ivory bracelet"
-principal_traditional_meanings = "Auspiciousness, good fortune, well-being (Hindu); cyclic cosmic time (Buddhist, Jain); eternity, infinity in time (Raëlian framework); the cycle, the choice between progress and regression (Raëlian-specific framework content)"
-principal_cross_cultural_traditions = "Hindu (svastika), Buddhist (Buddhapada, manji 卍), Jain (ashtamangala), Paleolithic and Neolithic European (Mezin, Cucuteni-Trypillian, Vinča), Bronze Age and Iron Age European (Greek geometric pottery, Etruscan, Roman, Celtic-Germanic-Slavic-Baltic), Mesopotamian, ancient Mediterranean, Native American (Navajo, Hopi), various indigenous traditions"
-position_in_raelian_framework = "Central element of the original Raëlian Symbol of Infinity (1973-present, in use in Asian Raëlian movement branches); modified to galaxy-spiral in Western Raëlian movement branches (1990 modification); represents the temporal dimension of infinity through the cyclic-eternal principle"
-post_1945_situation = "Nazi appropriation (1920-1945) produced substantial cultural-political complications in post-Holocaust European-North American contexts; legal restrictions vary across jurisdictions (Germany StGB §86 prohibits Nazi-specific usage; various other European countries have similar restrictions); various post-1945 reclamation efforts within Hindu-Buddhist diaspora communities have worked toward distinguishing the broader pre-Nazi religious-traditional usage from the specific Nazi appropriation"
-distinguished_from = "The Star of David (the other principal component of the Raëlian Symbol of Infinity, treated under separate entry); the Raëlian Symbol of Infinity as composite emblem (treated under separate entry); the Nazi *Hakenkreuz* specifically (the tilted-clockwise form adopted as NSDAP symbol 1920); the broader cross-cultural sun-cross category (which includes various non-swastika cross-with-arms forms)"
-status_in_source_material = "Substantially documented; the principal Yahweh-delivered passages establish both the symbol's specific Raëlian-framework semantic content and its identification with broader cross-cultural traditional usage"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Watching Over the Chosen People' content (the principal Yahweh passage on the emblem); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Buddhism' / 'Devils' section (the swastika as cycle); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' section (the Bardo Thodol cross-reference)"
+type = "종교적 상징. 알려진 가장 오래된 상징 가운데 하나로, 대부분의 주요 종교 전통에 걸쳐 문화 간에 분포합니다"
+basic_form = "네 팔이 직각으로 꺾인 십자형으로, 대개 이어지는 팔마다 90도씩 회전함; 주된 방향은 오른쪽 방향(시계 방향, 본래의 *스바스티카*)과 왼쪽 방향(반시계 방향, *사우바스티카*)"
+sanskrit_etymology = "*스바스티카*(सुस्तिक)는 *sv-*(좋은, 잘)와 *asti*(있다)에 접미사 *-ka*가 붙은 말; 주된 의미는 '안녕', '행운', '길상'"
+oldest_known_usage = "기원전 약 10,000년; 메진 문화(우크라이나), 매머드 상아를 깎아 만든 팔찌"
+principal_traditional_meanings = "상서로움, 행운, 안녕(힌두교), 순환하는 우주적 시간(불교, 자이나교), 영원, 시간 속의 무한, 진보와 퇴보 사이의 선택(라엘 체계)"
+principal_cross_cultural_traditions = "힌두교(스바스티카), 불교(불족적, 만자 卍), 자이나교(아슈타망갈라), 구석기·신석기 유럽(메진, 쿠쿠테니-트리필리아, 빈차), 청동기·철기 유럽(그리스 기하학 양식 도기, 에트루리아, 로마, 켈트-게르만-슬라브-발트), 메소포타미아, 고대 지중해, 아메리카 원주민(나바호, 호피), 다양한 토착 전통"
+position_in_raelian_framework = "원래의 라엘리안 무한의 상징의 중심 요소(1973–현재, 아시아 라엘리안 지부에서는 지금도 사용). 서구 지부에서는 은하 나선으로 변경(1990). 순환적·영원한 원리를 통해 무한의 시간적 차원을 나타냅니다"
+post_1945_situation = "나치의 전유(1920-1945)는 홀로코스트 이후 유럽과 북미에서 문화적·정치적 복잡성을 낳았습니다. 법적 규제는 관할권마다 다르며(독일 형법 제86조는 나치 특유의 사용을 금지하고, 다른 유럽 국가에도 유사한 법이 있음), 1945년 이후 힌두교·불교 디아스포라 공동체의 회복 노력은 나치 이전의 종교적 사용을 나치의 전유와 구별하려 합니다"
+distinguished_from = "다윗의 별(상징의 다른 구성 요소, 별도 항목), 복합 상징으로서의 라엘리안 무한의 상징(별도 항목), 나치 *Hakenkreuz*(1920년 나치당 상징으로 채택된, 시계 방향으로 기울어진 형태), 더 넓은 태양 십자 범주(만자가 아닌, 팔이 달린 십자 형태 포함)"
+status_in_source_material = "잘 기록됨. 야훼가 전한 구절들이 상징의 라엘 체계상 의미와, 문화 간 전통적 사용과의 동일시를 모두 확정합니다"
+principal_text = "*진실을 말하는 책*(1974), '선택된 민족을 지켜봄' 내용(문장에 관한 야훼의 주요 구절); *외계인들이 나를 그들의 행성으로 데려갔다*(1975), '불교' / '악마들' 절(순환으로서의 스와스티카); *외계인들이 나를 그들의 행성으로 데려갔다*(1975), '신도 영혼도 아닌' 절(바르도 퇴돌과의 교차 참조)"
 +++
 
 The **swastika** is one of the oldest religious symbols, with archaeological evidence extending back at least 12,000 years to Paleolithic Europe. It is a **cross with four arms bent at right angles**, typically rotated 90 degrees between successive arms, in a right-facing (clockwise, *svastika* proper in Hindu tradition) or left-facing (counter-clockwise, *sauvastika*) orientation. Its cross-cultural reach spans most major traditions: it is a principal auspicious symbol in Hindu tradition (Sanskrit *svastika*, "well-being" or "good fortune"); appears in nearly all Buddhist temples, notably on the Buddhapada (Buddha's footprint) and in the Chinese 卍 (*manji*) form; is one of the eight auspicious symbols (*ashtamangala*) in Jain tradition; and had pre-Nazi use across European, Mesopotamian, Mediterranean, Native American, and other traditions. Its meaning varies by tradition but consistently carries auspicious, protective, and cosmic-cyclic content.

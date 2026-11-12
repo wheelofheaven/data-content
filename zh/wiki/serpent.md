@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -22,10 +22,12 @@ alternative_names = ["伊甸之蛇", "naḥash", "נָחָשׁ", "路西法派�
 see_also = [
     { title = "路西法", path = "wiki/lucifer", description = "异见派系的具名领袖;蛇即路西法在《创世记》第 3 章中的角色。" },
     { title = "亚当与夏娃", path = "wiki/adam-and-eve", description = "蛇向其作出伊甸披露的最初人类。" },
-    { title = "伊甸园", path = "wiki/eden", description = "披露发生的受控设施。" },
+    { title = "伊甸", path = "wiki/eden", description = "披露发生的受控设施。" },
     { title = "耶和华", path = "wiki/yahweh", description = "宣告披露后判决的以色列团队领袖。" },
     { title = "撒但", path = "wiki/satan", description = "一个独立的耶洛因人物 — 在政治上与蛇/路西法相反,仅在后世传统中被混同。" },
     { title = "生命之树", path = "wiki/tree-of-life", description = "放逐之后被守护的长寿技术。" },
+    { title = "会吏总与龙", path = "articles/the-archdeacon-and-the-dragon", description = "蛇／路西法／撒但／耶和华的四人物分类，是对照本条目的异见派系解读而建立的。" },
+    { title = "龙形曲线", path = "articles/the-dragon-curve", description = "以明确标注的推测提出疑问的解读文章：被记作蛇的那个派系，是否也因龙的工作而被记住。" },
 ]
 
 footnotes = [

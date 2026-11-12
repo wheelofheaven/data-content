@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,15 +17,15 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Через две недели после первого транша PURSUE Министерство войны США выложило на war.gov/UFO второй транш: более пятидесяти ранее засекреченных материалов, включая первое нетепловое полноцветное видео НЛО, инцидент с захватом цели беспилотником MQ-9 Reaper на иордано-сирийской границе, столкновение подводной лодки в марте 2022 года с трансмедийными сферическими объектами и 116 архивных страниц из Сандии, Нью-Мексико, 1948–1950 годов. Корпус регистрирует второй транш как контекст для прочтения канона, а не как знак возвращения."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "Контекст настоящего"
+cross_reference = "Эпоха Водолея, §IX"
 canon_links = [
-    { title = "Age of Aquarius", path = "/timeline/age-of-aquarius/" },
+    { title = "Эпоха Водолея", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },
-    { title = "Ufology", path = "/wiki/ufology/" },
-    { title = "Elohim", path = "/wiki/elohim/" },
-    { title = "Ancient Astronaut Hypothesis", path = "/wiki/ancient-astronaut-hypothesis/" },
-    { title = "Raëlism", path = "/wiki/raelism/" }
+    { title = "Уфология", path = "/wiki/ufology/" },
+    { title = "Элохим", path = "/wiki/elohim/" },
+    { title = "Гипотеза древних астронавтов", path = "/wiki/ancient-astronaut-hypothesis/" },
+    { title = "Раэлизм", path = "/wiki/raelism/" }
 ]
 sources = [
     { title = "Department of War Publishes Second Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO", url = "https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/", outlet = "U.S. Department of War", date = "2026-05-22" },

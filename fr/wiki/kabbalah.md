@@ -6,28 +6,39 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["Cabala (older European spelling)", "Qabalah (Hermetic / Western-esoteric spelling)", "Kabbala", "*Qabbalah* (Hebrew: קַבָּלָה)", "the Jewish mystical tradition", "*shalshelet ha-Kabbalah* ('chain of Tradition')", "*torat ha-sod* ('the secret teaching')", "*chokhmah penimit* ('inner wisdom')"]
+alternative_names = ["Cabala (ancienne graphie européenne)", "Qabalah (graphie hermétique / ésotérique occidentale)", "Kabbala", "*Qabbalah* (hébreu : קַבָּלָה)", "la tradition mystique juive", "*shalshelet ha-Kabbalah* (« chaîne de la Tradition »)", "*torat ha-sod* (« l'enseignement secret »)", "*chokhmah penimit* (« sagesse intérieure »)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Pluralité des dieux", path = "wiki/plurality-of-gods", description = "La lecture d'une pluralité structurée que la cosmologie des sefirot préserverait le plus directement." },
+    { title = "Arbre de Vie", path = "wiki/tree-of-life", description = "Le diagramme de l'Etz Chaim qui ordonne les dix sefirot formulées par la tradition." },
+    { title = "Élohim", path = "wiki/elohim", description = "La structure d'alliance sur laquelle le corpus projette les émanations des sefirot." },
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "L'auteur dont la lecture de La Cabale de Safran fournit au cadre sa lecture de la Kabbale." },
+    { title = "Bible hébraïque", path = "wiki/hebrew-bible", description = "La base scripturaire que la tradition ésotérique lit pour son contenu de pluralité." },
+    { title = "Étoile de David", path = "wiki/star-of-david", description = "Une forme symbolique juive apparentée, au sein du vocabulaire ésotérique de la tradition." },
+    { title = "Zodiaque", path = "wiki/zodiac", description = "Les douze constellations que le Sefer Yetzirah attribue aux douze lettres hébraïques simples." },
+    { title = "Le moulin qui broie les âges", path = "articles/the-mill-that-grinds-the-ages", description = "La correspondance zodiacale du Sefer Yetzirah et le ein mazal le-Yisrael du Talmud, dans le fil précessionnel plus large." },
+    { title = "Mazzaroth", path = "wiki/mazzaroth", description = "Le terme astral derrière les lettres zodiacales du Sefer Yetzirah et la bénédiction mazel tov." },
+]
 
 [extra.infobox]
-type = "Major Jewish mystical-esoteric tradition; the principal living Western esoteric tradition with continuous textual-pedagogical transmission"
-literal_meaning = "Hebrew קַבָּלָה (*Qabbalah*) literally means 'reception' or 'received tradition,' from the root קבל (*q-b-l*, 'to receive'); designates the substantial body of teachings received and transmitted across the chain of tradition"
-principal_textual_corpus = "*Sefer Yetzirah* (Book of Formation, late antique); *Sefer ha-Bahir* (Book of Brightness, late 12th century); *Zohar* (Book of Splendor, late 13th century, attributed to Moses de León); the Lurianic corpus (16th century, principally through Hayyim Vital's transmission of Isaac Luria's teachings); the Hasidic corpus (18th century onward); various subsequent textual developments"
-core_cosmological_structure = "*Ein Sof* (the infinite, unmanifest divine source) → ten *sephirot* (emanations) operating across four worlds (*olamot*: *Atziluth*, *Beriah*, *Yetzirah*, *Asiyah*); the *sephirot* arranged in the *Etz Chaim* (Tree of Life) diagram with three pillars and twenty-two connecting paths"
-the_ten_sephirot = "Keter (Crown), Chokhmah (Wisdom), Binah (Understanding), Chesed (Mercy / Loving-kindness), Gevurah (Severity / Strength), Tiferet (Beauty / Harmony), Netzach (Eternity / Victory), Hod (Splendor / Glory), Yesod (Foundation), Malkhut (Kingdom / Sovereignty)"
-historical_phases = "Foundational period (late antiquity, principally Sefer Yetzirah); medieval emergence (12th-13th centuries, Provence and Spain, principally Bahir and Zohar); Lurianic synthesis (16th century, Safed); Hasidic development (18th century onward, Eastern Europe); modern academic and renewal phases (20th-21st centuries)"
-framework_position = "The single most positive framework assessment given to any religious-textual tradition: 'the closest book to the truth' (corpus-internal articulation drawing on Yahweh-source content). The Kabbalistic *sephirot* cosmology maps with notable precision onto the framework's articulation of the actual alliance structure"
-chain_of_tradition_claim = "The Kabbalistic tradition's own self-articulation: *shalshelet ha-Kabbalah* ('chain of Tradition'), with the substantial transmission claim reaching from Moses through Joshua, the Elders, the Prophets, the Great Assembly, and onward; with various Kabbalistic articulations registering the tradition's antiquity as exceeding even the Sinai revelation and reaching back to prehistoric origins"
-distinguished_from = "Mainstream rabbinic Judaism (which has historically operated within strict monotheistic theological framework with the Kabbalistic plurality content registered within the broader esoteric tradition rather than within mainstream halakhic discourse); Christian Kabbalah / Cabala (the substantial Renaissance-Christian appropriation operating within Christian-theological framing); Hermetic Qabalah (the substantial Western-esoteric appropriation operating within broader Hermetic-magical framing); broader Jewish mystical traditions (which include various non-Kabbalistic streams)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in the 'At the Roots of All Religions' section of *The Book Which Tells the Truth* establishes the framework's specific reading; subsequent corpus articulation in *timeline.epub* extends the engagement"
-principal_text_for_framework_engagement = "*The Book Which Tells the Truth* (1974), 'The End of the World' chapter, 'At the Roots of All Religions' section (the principal Yahweh passage); *timeline.epub* Pisces chapter, Section X (the substantial subsequent corpus articulation on the *sephirot* / alliance-structure mapping); Jean Sendy, *Les dieux nous sont nés* and *Ces dieux qui firent le ciel et la terre* (substantial Sendy engagement drawing on Alexandre Safran's *La Cabale*)"
+type = "La principale tradition mystique et ésotérique juive ; la principale tradition ésotérique occidentale vivante dotée d'une lignée textuelle et pédagogique continue"
+literal_meaning = "Hébreu קַבָּלָה (*Qabbalah*), « réception » ou « tradition reçue », de la racine קבל (*q-b-l*, « recevoir ») ; la tradition se nomme d'après son mode de transmission — un enseignement transmis le long d'une chaîne plutôt que redécouvert par le raisonnement"
+principal_textual_corpus = "*Sefer Yetzirah* (Livre de la Formation, Antiquité tardive) ; *Sefer ha-Bahir* (fin du XIIe s.) ; *Zohar* (Livre de la Splendeur, fin du XIIIe s., attribué à Shimon bar Yochaï, rédigé par Moïse de León) ; le corpus lourianique (XVIe s., par Hayyim Vital) ; le corpus hassidique (à partir du XVIIIe s.)"
+core_cosmological_structure = "*Ein Sof* (la source infinie et non manifestée) émanant dix *sefirot* à travers quatre mondes (*Atziluth*, *Beriah*, *Yetzirah*, *Asiyah*) ; les *sefirot* disposées dans l'*Etz Chaim* (Arbre de vie) sur trois piliers reliés par vingt-deux sentiers"
+the_ten_sefirot = "Keter (Couronne), Chokhmah (Sagesse), Binah (Intelligence), Chesed (Miséricorde), Gevurah (Rigueur), Tiferet (Beauté), Netzach (Éternité), Hod (Splendeur), Yesod (Fondement), Malkhut (Royaume)"
+historical_phases = "Fondatrice (Antiquité tardive, Sefer Yetzirah) ; émergence médiévale (XIIe–XIIIe s., Provence et Espagne, Bahir et Zohar) ; synthèse lourianique (XVIe s., Safed) ; développement hassidique (à partir du XVIIIe s., Europe de l'Est) ; phases académiques et de renouveau modernes"
+framework_position = "L'évaluation la plus favorable que le corpus accorde à une tradition religieuse : la Kabbale comme « le livre le plus proche de la vérité », sa cosmologie des *sefirot* lue comme une mémoire conservée de la pluralité structurée des Élohim"
+chain_of_tradition_claim = "*Shalshelet ha-Kabbalah* (« la chaîne de la tradition ») — un enseignement reçu de Moïse à travers Josué, les Anciens, les Prophètes et la Grande Assemblée ; les kabbalistes en font remonter l'ancienneté au-delà du Sinaï, jusqu'à des origines préhistoriques"
+distinguished_from = "Le judaïsme rabbinique dominant (qui maintient les *sefirot* dans un monothéisme strict) ; la Kabbale chrétienne (appropriation chrétienne de la Renaissance) ; la Qabale hermétique (appropriation ésotérique occidentale moderne) ; la tradition mystique juive au sens large (qui comprend des courants non kabbalistiques)"
+status_in_source_material = "Documenté ; le passage « À l'origine de toutes les religions » du *Livre qui dit la vérité* est la source principale ; le matériau ultérieur du corpus prolonge la lecture des *sefirot* et des chiffres en parasanges du *Shi'ur Qomah*"
+principal_text_for_framework_engagement = "*Le Livre qui dit la vérité* (1974), « À l'origine de toutes les religions » ; le *Shi'ur Qomah* et sa lecture en termes de planète d'origine des Élohim (voir l'article « Le livre le plus proche de la vérité ») ; Jean Sendy, s'appuyant sur *La Cabale* d'Alexandre Safran (1960)"
 +++
 
 **Kabbalah** (Hebrew: קַבָּלָה, *Qabbalah*, "received tradition") is the

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 99
@@ -21,12 +21,12 @@ entry_type = "concept"
 alternative_names = ["el Árbol de la Vida", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "el Árbol de la Vida Eterna", "el Árbol de la Inmortalidad", "la tecnología de longevidad", "la tecnología de transferencia celular"]
 timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
-    { title = "Tree of Knowledge", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "El árbol paralelo del Edén — el archivo restringido de conocimiento científico, distinto de la biotecnología de longevidad." },
-    { title = "Antediluvian", path = "wiki/antediluvian", description = "El período cuyas longevidades patriarcales (Adán 930, Matusalén 969) el marco lee como el registro operativo del Árbol de la Vida." },
-    { title = "Council of the Eternals", path = "wiki/council-of-the-eternals", description = "La comunidad de los Eternos sostenida por la forma madura de clonación y transferencia de memoria de la tecnología." },
-    { title = "Eden", path = "wiki/eden", description = "La instalación donde el Árbol de la Vida era infraestructura restringida." },
+    { title = "Árbol del conocimiento", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "El árbol paralelo del Edén — el archivo restringido de conocimiento científico, distinto de la biotecnología de longevidad." },
+    { title = "Antediluviano", path = "wiki/antediluvian", description = "El período cuyas longevidades patriarcales (Adán 930, Matusalén 969) el marco lee como el registro operativo del Árbol de la Vida." },
+    { title = "Consejo de los Eternos", path = "wiki/council-of-the-eternals", description = "La comunidad de los Eternos sostenida por la forma madura de clonación y transferencia de memoria de la tecnología." },
+    { title = "Edén", path = "wiki/eden", description = "La instalación donde el Árbol de la Vida era infraestructura restringida." },
     { title = "Lucifer", path = "wiki/lucifer", description = "La facción exiliada que negoció las concesiones de longevidad posteriores al Edén para el liderazgo patriarcal." },
-    { title = "Apocalypse", path = "wiki/apocalypse", description = "El contexto de la era de Acuario para la restauración proyectada de la tecnología de longevidad a la humanidad." },
+    { title = "Apocalipsis", path = "wiki/apocalypse", description = "El contexto de la era de Acuario para la restauración proyectada de la tecnología de longevidad a la humanidad." },
 ]
 
 footnotes = [

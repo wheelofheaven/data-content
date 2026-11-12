@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -18,7 +18,7 @@ claim_type = "framework"
 core_claim_ids = ["woh-claim-0018"]
 core_versions = { woh-claim-0018 = "0.1.0" }
 entry_type = "figure"
-alternative_names = ["아담", "하와", "אָדָם וְחַוָּה", "ʾĀḏām and Ḥawwāh", "최초의 인간", "최초의 한 쌍", "아담 카드몬과 하와 (카발라 전통)"]
+alternative_names = ["아담", "하와", "אָדָם וְחַוָּה", "ʾĀḏām과 Ḥawwāh", "최초의 인간", "최초의 한 쌍", "아담 카드몬과 하와 (카발라 전통)"]
 timeline = ["leo", "cancer"]
 see_also = [
     { title = "에덴", path = "wiki/eden", description = "아담과 하와가 합성되고 교육받은 이스라엘 팀의 시설." },

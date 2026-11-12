@@ -6,30 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Abraham (English)", "Abram (pre-renaming name)", "אַבְרָהָם (Hebrew Avraham)", "אַבְרָם (Hebrew Avram)", "إبراهيم (Arabic Ibrāhīm)", "Ἀβραάμ (Greek Abraám)", "the Patriarch", "Avraham Avinu (Jewish 'Abraham our father')", "Khalīl Allāh (Arabic 'Friend of God')"]
+alternative_names = ["Abraham (англ.)", "Аврам (имя до переименования)", "אַבְרָהָם (ивр. Avraham)", "אַבְרָם (ивр. Avram)", "إبراهيم (араб. Ibrāhīm)", "Ἀβραάμ (греч. Abraám)", "Патриарх", "Avraham Avinu (иудейское «Авраам, отец наш»)", "Khalīl Allāh (араб. «Друг Божий»)"]
 timeline = ["age-of-taurus", "age-of-aries"]
+see_also = [
+    { title = "Завет с Ноем", path = "wiki/noahic-covenant", description = "Послепотопный завет, линию которого продолжает завет с Авраамом." },
+    { title = "Содом и Гоморра", path = "wiki/sodom-and-gomorrah", description = "Превентивный удар Совета, о котором Авраам ведёт переговоры в Бытии 18." },
+    { title = "Моисей", path = "wiki/moses", description = "Более поздний посредник завета в том же восстановлении эдемской линии." },
+    { title = "Ханифия", path = "wiki/hanafiyya", description = "Изначальное ханифское единобожие, которое исламская традиция возводит к Аврааму." },
+    { title = "Петра", path = "wiki/petra", description = "Набатейское святилище в центре авраамическо-хиджазского вопроса." },
+]
 
 [extra.infobox]
-type = "Biblical figure; Eden-lineage patriarch verified by post-Sodom Council loyalty test; founding patriarch for three Abrahamic religions plus Baha'i"
-hebrew_name = "אַבְרָהָם (Avraham, 'father of multitudes'); originally אַבְרָם (Avram, 'exalted father')"
+type = "Библейский персонаж; патриарх эдемской линии, проверенный испытанием верности со стороны Совета после Содома; патриарх-основатель трёх авраамических религий, а также бахаизма"
+hebrew_name = "אַבְרָהָם (Avraham, «отец множеств»); первоначально אַבְרָם (Avram, «возвышенный отец»)"
 arabic_name = "إبراهيم (Ibrāhīm)"
-biblical_dating = "Taurus-Aries boundary in corpus chronology (late Age of Taurus, c. 2,000-1,900 BCE in mainstream traditional chronology); Genesis records Abraham as 75 years old at the lekh lekha call (Gen 12:4), 100 at Isaac's birth (Gen 21:5), 175 at death (Gen 25:7)"
-principal_biblical_location = "Genesis 11:26-25:18; subsequent references in Exodus 3:6-15, Joshua 24:2-3, Isaiah 41:8, 51:2, Psalms 105:6-9, Matthew 1:1-2, Luke 3:34, Romans 4, Galatians 3, Hebrews 11:8-19, James 2:21-23"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Sacrifice of Abraham' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Taurus chapter, Sections VIII and IX"
-core_corpus_articulation = "Post-Sodom Council recruitment and verification figure; tested loyalty around whom diminished Eden-lineage population reorganized; founding patriarch for Aries-age recovery program"
-covenant_role = "Abrahamic Covenant (Genesis 15, 17): geographic promise (Nile-to-Euphrates); descendant promise (numerous as stars and sand); circumcision (*brit milah*) as physical-marker covenant institution"
-loyalty_test = "Akedah / Sacrifice of Isaac (Genesis 22) — formal Council loyalty test conducted by visiting officer; Hebrew *nissah* ('tested') frames episode from opening verse; *ki atah yadati* ('for now I know') confirms empirical-investigation framing"
-key_figures = "Sarah (wife, mother of Isaac); Hagar (Egyptian handmaid, mother of Ishmael); Isaac (covenant-line son through Sarah); Ishmael (Arab-lineage son through Hagar); Keturah (third wife after Sarah; mother of six additional sons including Midian); Lot (nephew, Sodom survivor)"
-three_faiths_status = "Founding patriarch for Judaism (through Isaac), Christianity (through Isaac via Jesus genealogy), Islam (through Ishmael as Ibrahim, Hanif primordial-monotheist), Baha'i (through Keturah lineage to Baha'u'llah)"
-distinguished_from = "Mainstream uniquely-faithful-individual reading; ancient-astronaut alternative readings (Sitchin, Biglino); mainstream biblical-scholarly Documentary Hypothesis source-critical reading; minimalist historical-critical engagement (Van Seters) treating patriarchal narratives as later literary composition"
-status_in_framework = "Foundational Taurus-Aries transitional figure; tested founding patriarch; principal recovery-program founder following Sodom destruction; structural inaugurator of Aries-age Eden-lineage political-religious arrangement"
+biblical_dating = "Граница Тельца и Овна в хронологии корпуса (поздняя Эпоха Тельца, ок. 2000–1900 гг. до н. э. по общепринятой традиционной хронологии); Бытие сообщает, что Аврааму было 75 лет при призыве *lekh lekha* (Быт 12:4), 100 лет при рождении Исаака (Быт 21:5) и 175 лет при смерти (Быт 25:7)"
+principal_biblical_location = "Бытие 11:26–25:18; последующие упоминания: Исход 3:6–15, Иисус Навин 24:2–3, Исаия 41:8, 51:2, Псалтирь 105:6–9, Матфей 1:1–2, Лука 3:34, Римлянам 4, Галатам 3, Евреям 11:8–19, Иаков 2:21–23"
+principal_source = "*Книга, которая говорит правду* (Ворильон, 1974), глава «Истина», раздел «Жертвоприношение Авраама»; сводное *Послание от Создателей* (2005); *timeline.epub* — развёрнутая трактовка в корпусе, главным образом в главе об Эпохе Тельца, разделы VIII и IX"
+core_corpus_articulation = "Фигура вербовки и проверки со стороны Совета после Содома; человек испытанной верности, вокруг которого реорганизовалось поредевшее население эдемской линии; патриарх-основатель программы восстановления Эпохи Овна"
+covenant_role = "Авраамов завет (Бытие 15, 17): обетование земли (от Нила до Евфрата); обетование потомства (многочисленного, как звёзды и песок); обрезание (*brit milah*) как установление завета через телесный знак"
+loyalty_test = "Акеда / жертвоприношение Исаака (Бытие 22) — формальное испытание верности со стороны Совета, проведённое посетившим офицером; еврейское *nissah* («испытал») обрамляет эпизод с первого стиха; *ki atah yadati* («ибо теперь Я знаю») подтверждает рамку эмпирической проверки"
+key_figures = "Сарра (жена, мать Исаака); Агарь (египетская служанка, мать Измаила); Исаак (сын линии завета от Сарры); Измаил (сын арабской линии от Агари); Хеттура (третья жена после Сарры; мать ещё шести сыновей, в том числе Мадиама); Лот (племянник, уцелевший из Содома)"
+three_faiths_status = "Патриарх-основатель иудаизма (через Исаака), христианства (через Исаака по родословию Иисуса), ислама (через Измаила, как Ибрахим, ханиф — изначальный монотеист) и бахаизма (через линию Хеттуры к Бахаулле)"
+distinguished_from = "Общепринятое прочтение об исключительно верующем индивиде; альтернативные прочтения в духе теории древних астронавтов (Ситчин, Бильино); источниковедческое прочтение в рамках общепринятой библеистической документальной гипотезы; минималистский историко-критический подход (Ван Сетерс), рассматривающий патриархальные повествования как позднюю литературную композицию"
+status_in_framework = "Основополагающая переходная фигура между Тельцом и Овном; испытанный патриарх-основатель; главный основатель программы восстановления после уничтожения Содома; структурный зачинатель политико-религиозного устройства эдемской линии в Эпоху Овна"
 +++
 
 **Abraham** (Hebrew אַבְרָהָם, *Avraham*; Arabic إبراهيم, *Ibrāhīm*) is the founding

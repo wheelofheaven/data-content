@@ -6,28 +6,41 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Saṃsāra (Sanskrit संसार, Pali saṃsāra)", "the Wheel of Life (Bhavacakra)", "the cycle of birth, death, and rebirth", "the cycle of reincarnation", "cyclic existence", "the cycle (Vorilhon source designation)"]
+alternative_names = ["Saṃsāra (sanskrit संसार, pali saṃsāra)", "la Roue de la vie (Bhavacakra)", "le cycle de la naissance, de la mort et de la renaissance", "le cycle de la réincarnation", "l'existence cyclique", "le cycle (désignation de la source chez Vorilhon)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Macrobiologie", path = "wiki/macrobiology", description = "La biologie de l'humanité comme organisme, dont le saṃsāra est le mode d'échec — la transition qui avorte avant de s'achever." },
+    { title = "Svastika", path = "wiki/swastika", description = "Le symbole cyclique que le corpus lit comme préservant le schéma du saṃsāra." },
+    { title = "Âge d'or", path = "wiki/golden-age", description = "La relecture, par le corpus, de l'éveil bouddhique comme sortie du cycle civilisationnel." },
+    { title = "Compétition cosmique", path = "wiki/cosmic-competition", description = "La sélection à l'échelle cosmique qui départage les espèces sortant du cycle et celles qui y retombent." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "Le seuil de l'ère du Verseau où l'humanité fait face au choix de sortir du cycle." },
+    { title = "Chaîne cosmique", path = "wiki/cosmic-chain", description = "La lignée de création emboîtée au sein de laquelle le cycle civilisationnel se répète." },
+    { title = "Quatre niveaux", path = "wiki/four-levels", description = "La hiérarchie d'échelles à travers laquelle le schéma cyclique est lu comme opérant." },
+    { title = "Grand Déluge", path = "wiki/great-flood", description = "Le cataclysme de l'ère des Gémeaux que le corpus lit comme un redémarrage de cycle exemplaire — une civilisation avancée rejetée à un état primitif." },
+    { title = "Lucifer", path = "wiki/lucifer", description = "La faction de créateurs exilée et favorable aux humains, dont l'opération de l'arche préserva un reste à travers le redémarrage du déluge." },
+    { title = "Le moulin qui broie les âges", path = "articles/the-mill-that-grinds-the-ages", description = "La roue précessionnelle derrière le cycle — le moulin qui broie les âges, et le svastika que le canon lit comme son signe." },
+    { title = "La forme de l'humanité", path = "articles/the-shape-of-humanity", description = "L'article qui lit le cycle civilisationnel comme le mode d'échec d'un organisme planétaire susceptible d'avorter avant sa naissance." },
+]
 
 [extra.infobox]
-type = "Cosmological-cyclical concept; the substantive cyclical pattern of civilizational rise-and-fall the corpus reads as underlying cosmic-civilizational reality preserved in Indian-religions saṃsāra-cycle traditions"
-sanskrit = "संसार (saṃsāra, 'wandering through, flowing on')"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'The Second Encounter' chapter, 'Buddhism' section; consolidated *Message from the Designers* (2005)"
+type = "Concept cosmologique cyclique ; le schéma d'essor et de déclin des civilisations que le corpus lit comme la réalité cosmique conservée dans le *saṃsāra* des traditions indiennes"
+sanskrit = "संसार (saṃsāra, « errance, écoulement continu »)"
+principal_source = "*Les Extra-terrestres m'ont emmené sur leur planète* (Vorilhon, 1975), chapitre « La deuxième rencontre », section « Le bouddhisme » ; *Le Message donné par les extra-terrestres* consolidé (2005)"
 core_articulation = "Buddhist saṃsāra-cycle reread collectively-civilizationally: humanity faces cosmic-civilizational choice between escape from cycle (Golden Age, cosmic-civilizational engagement) or fall back into cycle (primitive-state restart, multi-millennial redevelopment in hostile world)"
-cosmic_civilizational_selection = "Natural selection at cosmic level for species capable of leaving their planet; species controlling aggressiveness reach cosmic-civilizational engagement; species unable to control aggressiveness self-destruct at weapons-acquisition threshold"
-buddhist_devils = "Aggressiveness toward fellow humans; aggressiveness toward nature"
-buddhist_awakening = "Golden Age of civilization in which science serves the people"
-swastika_connection = "The swastika operates as the cycle-symbol preserved across the corpus engagement (treated systematically in Swastika entry)"
-distinguished_from = "Individual-eschatological saṃsāra (the substantial Indian-religions individual-soul-transmigration reading); the cosmic Golden Age content (the operational form of life produced by successful cycle-escape); the Apocalypse threshold-event (the specific 1945-onward Aquarian-age threshold moment)"
+cosmic_civilizational_selection = "« Une sélection naturelle, à l'échelon cosmique, des espèces capables d'échapper à leur planète » (ETTMTTP-2:25) ; les espèces qui maîtrisent leur agressivité atteignent les étoiles, celles qui n'y parviennent pas s'autodétruisent au seuil des armes"
+buddhist_devils = "L'agressivité envers ses semblables ; l'agressivité envers la nature"
+buddhist_awakening = "Un Âge d'or de la civilisation dans lequel la science sert le peuple"
+swastika_connection = "Le svastika lu comme le symbole du cycle conservé à travers les traditions (traité dans l'entrée Svastika)"
+distinguished_from = "Le *saṃsāra* eschatologique individuel (la lecture indienne traditionnelle de la transmigration de l'âme) ; l'Âge d'or (la vie que produit une sortie réussie du cycle) ; l'Apocalypse (le seuil précis de l'ère du Verseau, à partir de 1945)"
 parallel_traditions = "Hindu saṃsāra (Vedic, Upanishadic, Vedantic engagement); Jain karma-cycle; Sikh cycle-content; Greek-Stoic eternal recurrence; Nietzschean eternal return; Mayan Long Count cycles; Norse Ragnarök-regeneration; Chinese cyclical traditions; various indigenous cyclical traditions"
-status_in_framework = "Foundational cosmological-cyclical concept; the substantive cosmic-civilizational pattern that successful Aquarian-age navigation breaks; integrated with broader Golden Age, Apocalypse, Cosmic Chain, Cosmic Competition framework"
+status_in_framework = "Concept cosmologique cyclique fondateur ; le schéma cosmique que rompt une traversée réussie de l'ère du Verseau ; intégré aux cadres de l'Âge d'or, de l'Apocalypse, de la Chaîne cosmique et de la Compétition cosmique"
 +++
 
 **Saṃsāra** (Sanskrit संसार, "wandering through, flowing on") is the cycle of

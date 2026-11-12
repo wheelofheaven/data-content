@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -23,21 +23,24 @@ timeline = ["gemini"]
 
 see_also = [
     { title = "Noah", path = "/wiki/noah/", description = "Der menschliche Überlebende und Patriarch, durch den die nachsintflutliche Linie fortbesteht." },
-    { title = "Noahs Arche", path = "/wiki/noahs-ark/", description = "Das orbitale Gefährt, das Noahs Familie und die genetischen Vertreter bewahrte." },
+    { title = "Arche Noah", path = "/wiki/noahs-ark/", description = "Das orbitale Gefährt, das Noahs Familie und die genetischen Vertreter bewahrte." },
     { title = "Noachidischer Bund", path = "/wiki/noahic-covenant/", description = "Die nachsintflutliche politische Ordnung, konstituiert durch die Regenbogen-Signatur." },
     { title = "Die Allianz", path = "/wiki/the-alliance/", description = "Die politische Ordnung, gegründet durch den noachidischen Bund." },
     { title = "Luzifer", path = "/wiki/lucifer/", description = "Die Fraktion, deren Intervention Noah durch die Arche-Operation bewahrte." },
     { title = "Jahwe", path = "/wiki/yahweh/", description = "Der Ratsvorsitzende, auf dessen nachsintflutlicher Stimme die Niemals-Wieder-Selbstverpflichtung beruht." },
     { title = "Rat der Ewigen", path = "/wiki/council-of-the-eternals/", description = "Das politische Gremium der Heimatwelt, das den Schlag autorisierte." },
-    { title = "Antediluvianisch", path = "/wiki/antediluvian/", description = "Die vorsintflutliche zivilisatorische Periode, die der Schlag beendete." },
+    { title = "Vorsintflutlich", path = "/wiki/antediluvian/", description = "Die vorsintflutliche zivilisatorische Periode, die der Schlag beendete." },
     { title = "Pangäa", path = "/wiki/pangaea/", description = "Der Superkontinent, dessen Fragmentierung der Schlag hervorbrachte." },
     { title = "Eden", path = "/wiki/eden/", description = "Das ursprüngliche Allianz-Labor, dessen Linie die vorsintflutliche Zivilisation fortsetzte." },
     { title = "Hebräische Bibel", path = "/wiki/hebrew-bible/", description = "Die wichtigste schriftliche Quelle für die Sintflut-Erzählung." },
     { title = "Genesis", path = "/wiki/genesis/", description = "Das biblische Buch, das den Sintflut-Bericht enthält (Genesis 6–9)." },
+    { title = "Atra-ḫasīs", path = "/library/atrahasis-woh/", description = "Die babylonische Sintfluterzählung, die dem hebräischen Bericht eng entspricht." },
+    { title = "Gilgamesch-Epos", path = "/library/gilgamesh-woh/", description = "Der mesopotamische Sintflutbericht auf Tafel XI." },
     { title = "Sodom und Gomorra", path = "/wiki/sodom-and-gomorrah/", description = "Ein späteres analoges Schlag-Ereignis mit strukturell ähnlichem Mechanismus." },
     { title = "Babel", path = "/wiki/babel/", description = "Die nachsintflutliche zivilisatorische Zerstreuungsepisode." },
     { title = "Doppelte Signatur", path = "/wiki/doubled-signature/", description = "Das Korpus-Prinzip, nach dem die globale Sintflut-Tradition die zugrundeliegende historische Erinnerung bewahrt." },
     { title = "Theomachie", path = "/wiki/theomachy/", description = "Der weitere kosmisch-politische Konfliktrahmen, in dem der Schlag operiert." },
+    { title = "Der Erzdiakon und der Drache", path = "articles/the-archdeacon-and-the-dragon", description = "Die Übereinstimmung von Wallis und dem Kanon darin, dass die Sintflut eine Entscheidung des Rates war." }
 ]
 
 footnotes = [

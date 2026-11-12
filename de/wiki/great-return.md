@@ -6,28 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
-redirect_to = { title = "Embassy", path = "/wiki/embassy/" }
+redirect_to = { title = "Botschaft", path = "/wiki/embassy/" }
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
 claim_type = "direct"
 timeline = ["aquarius"]
 alternative_names = ["The Return", "Second Coming (in some comparative-religion framings)", "The Arrival", "The Reunification"]
+see_also = [
+    { title = "Botschaft", path = "wiki/embassy", description = "Die Anlage, die die Menschheit als wichtigste Vorbedingung der Rückkehr bauen muss." },
+    { title = "Dritter Tempel", path = "wiki/third-temple", description = "Die Botschaft, gelesen durch die Prophezeiungen der Hebräischen Bibel über die Wiederherstellung des Tempels." },
+    { title = "Goldenes Zeitalter", path = "wiki/golden-age", description = "Der Zustand nach der Rückkehr, den die Ankunft einleitet, sobald ihre Vorbedingungen erfüllt sind." },
+    { title = "Rat der Ewigen", path = "wiki/council-of-the-eternals", description = "Das leitende Gremium der Elohim, dessen offizielle Ankunft die Rückkehr darstellt." },
+    { title = "Jesus", path = "wiki/jesus", description = "Die Gestalt der christlichen Parusie, die der Rahmen als einen Wortschatz für die Rückkehr liest." },
+    { title = "Liste der Propheten und Religionen", path = "wiki/list-of-prophets-and-religions", description = "Die eschatologischen Gestalten der verschiedenen Traditionen, die nach der Lesart des Rahmens dasselbe Ereignis vorwegnehmen." },
+    { title = "Hamlet's Mill", path = "wiki/hamlets-mill", description = "Die vergleichende Studie, deren abgesetzten „Herrn des Goldenen Zeitalters, dessen Rückkehr ansteht“ das Korpus neben der Rückkehr liest." },
+    { title = "Die Mühle, die die Zeitalter mahlt", path = "articles/the-mill-that-grinds-the-ages", description = "Der schlafende König, der erwacht — Saturn, Kronos, der einstige und künftige König —, gelesen als die präzessionale Gestalt der Rückkehr." }
+]
 
 [extra.infobox]
-type = "Anticipated official arrival of the Elohim on Earth; the framework's culminating eschatological event"
-designation_origin = "Specifically named in the December 13, 1997 \"Message of the Elohim\" preserved in *Intelligent Design: Messages from the Designers*"
-preconditions = "(1) Humanity's genuine desire for the arrival; (2) demonstration of unification and wisdom to receive advanced knowledge responsibly; (3) construction of the Embassy (\"Third Temple\") on neutral territory; (4) safety guarantee from human military forces"
-knowledge_transfer = "Approximately 25,000 years of scientific knowledge, equivalent to the gap between current human technological capability and the Elohim's"
-embassy_location = "Initially proposed in Israel (preferably Jerusalem area), with seven formal land requests denied by Israeli authorities between approximately 1990 and 2015; on August 6, 2015, the Vorilhon-mediated message declared the Elohim's protection of Israel withdrawn; subsequent proposals have involved Palestinian Authority territories and other locations"
-comparative_eschatology = "Connected by the framework to the Jewish Mashiach, Christian Parousia, Islamic Mahdi and return of Isa, Buddhist Maitreya, Hindu Kalki, Zoroastrian Saoshyant, Taoist Li Hong, and the broader cross-cultural eschatological-savior expectation pattern"
-chronological_placement = "The framework places the Great Return in the Age of Aquarius (post-2,160 CE on the broader reckoning), with the contemporary period (early 21st century CE) as the substantive transitional phase; the specific timing is treated as contingent on the satisfaction of the preconditions"
-primary_sources = "Vorilhon, *Le Livre qui dit la vérité* (1974); *Les extra-terrestres m'ont emmené sur leur planète* (1976); the Messages collection, particularly the December 13, 1997 message; the broader Raëlian Movement publication record"
-framework_significance = "The culminating event of the entire corpus interpretive framework; the substantive teleological orientation of the Elohim project on Earth; the inauguration of the broader Golden Age / Age of Aquarius proper"
+type = "Erwartete offizielle Ankunft der Elohim auf der Erde; das eschatologische Schlussereignis des Rahmens"
+designation_origin = "Ausdrücklich benannt in der „Botschaft der Elohim“ vom 13. Dezember 1997, überliefert in *Intelligent Design: Messages from the Designers*"
+preconditions = "(1) Der aufrichtige Wunsch der Menschheit nach der Ankunft; (2) der Nachweis von Einigung und Weisheit, um fortgeschrittenes Wissen verantwortungsvoll zu empfangen; (3) der Bau der Botschaft („Dritter Tempel“) auf neutralem Gebiet; (4) eine Sicherheitsgarantie seitens der menschlichen Streitkräfte"
+knowledge_transfer = "Etwa 25.000 Jahre wissenschaftlichen Wissens, entsprechend dem Abstand zwischen der heutigen technologischen Leistungsfähigkeit der Menschheit und der der Elohim"
+embassy_location = "Ursprünglich in Israel vorgeschlagen (bevorzugt im Raum Jerusalem), mit sieben förmlichen Landgesuchen, die die israelischen Behörden zwischen etwa 1990 und 2015 ablehnten; am 6. August 2015 erklärte die von Vorilhon übermittelte Botschaft den Schutz Israels durch die Elohim für entzogen; spätere Vorschläge betrafen Gebiete der Palästinensischen Autonomiebehörde und andere Orte"
+comparative_eschatology = "Vom Korpus im Sinne einer Ähnlichkeit verglichen mit dem jüdischen Maschiach, der christlichen Parusie, dem islamischen Mahdi und der Wiederkehr Isas, dem buddhistischen Maitreya, dem hinduistischen Kalki, dem zoroastrischen Saoshyant, dem daoistischen Li Hong und dem weiteren kulturübergreifenden Muster eschatologischer Rettergestalten"
+chronological_placement = "Der Rahmen verortet die Große Rückkehr im Zeitalter des Wassermanns, mit der Gegenwart (frühes 21. Jahrhundert n. Chr.) als Übergangsphase; der Zeitpunkt gilt als abhängig von den Vorbedingungen, nicht als festes Datum"
+primary_sources = "Vorilhon, *Le Livre qui dit la vérité* (1974); *Les extra-terrestres m'ont emmené sur leur planète* (1976); die Sammlung der Botschaften, insbesondere die Botschaft vom 13. Dezember 1997; das umfassendere Publikationsverzeichnis der Raëlianischen Bewegung"
+framework_significance = "Das abschließende Ereignis des Rahmens des Korpus; der Moment, auf den das Projekt der Elohim auf der Erde ausgerichtet ist; die Eröffnung des Goldenen Zeitalters"
 +++
 
 **The Great Return** is the Wheel of Heaven framework's name for the anticipated

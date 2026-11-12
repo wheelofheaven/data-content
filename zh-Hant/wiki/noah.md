@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -15,19 +15,24 @@ editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["Noah (English)", "נֹחַ (Hebrew Noaḥ)", "Νῶε (Greek Nōe)", "نوح (Arabic Nūḥ)", "the Eden-lineage flood survivor", "the ark-builder", "the post-flood patriarch"]
 timeline = ["age-of-cancer", "age-of-gemini"]
+see_also = [
+    { title = "大洪水", path = "wiki/great-flood", description = "方舟保存行動所針對的雙子座時代大災變。" },
+    { title = "路西法", path = "wiki/lucifer", description = "其介入透過方舟行動保全了挪亞的流亡創造者派系。" },
+    { title = "挪亞方舟", path = "wiki/noahs-ark", description = "被讀作載運基因樣本而非成對動物之防護飛行器的密封載具。" },
+    { title = "神戰", path = "wiki/theomachy", description = "框定洪水決議的創造者派系衝突。" },
+    { title = "巴別", path = "wiki/babel", description = "洪水後的復原計畫,議會對它的警覺顯示母星與挪亞之約各自分立。" },
+    { title = "耶和華", path = "wiki/yahweh", description = "其洪水後表決奠定「永不再」承諾的議會領袖。" },
+]
 
 [extra.infobox]
-type = "Biblical figure; principal human operational partner of the exiled-creator (Serpentine) faction in the ark-preservation project"
-hebrew_name = "נֹחַ (Noaḥ, 'rest, comfort')"
-biblical_dating = "Cancer-Gemini boundary in corpus chronology (c. 6,690 BCE); mainstream biblical chronology places traditional Genesis flood dating between 2300-3000 BCE in Ussher-and-Septuagint frames"
-principal_biblical_location = "Genesis 5:29-10:32; brief subsequent references in Isaiah 54:9, Ezekiel 14:14-20, Matthew 24:37-39, Luke 17:26-27, Hebrews 11:7, 1 Peter 3:20, 2 Peter 2:5"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Flood' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in the Age of Cancer chapter"
-core_corpus_articulation = "Eden-lineage human operating as principal operational partner of the exiled-creator faction conducting clandestine preservation of life through orbital spacecraft (the Genesis 'ark') against Council-ordered nuclear attack on Earth"
-flood_event = "Council-ordered nuclear-missile attack on Earth conducted against the original creator project; the exiled creators (Serpentine faction) conducted clandestine preservation of life through orbital spacecraft; conducted at the Cancer-Gemini boundary (c. 6,690 BCE corpus chronology)"
-ark_specifications = "Hebrew *tevah* (sealed vessel, not boat) with three levels (Genesis 6:16); lifted 'above the earth' (Genesis 7:17 *vatarom me-al ha-aretz*) rather than 'on the water'; cargo genetic (single living cells per species) rather than physical animal pairs"
-post_flood_covenant = "Private arrangement between exiled creators present on the ground and Noah's family (Genesis 9); distinct from home-world Council whose non-participation is demonstrated by subsequent Babel-project surprise"
-distinguished_from = "Mainstream uniquely-righteous-individual reading; ancient-astronaut alternative readings; mainstream biblical-scholarly Documentary Hypothesis source-critical reading; conservative young-earth creationist literal-global-flood reading"
-status_in_framework = "Foundational flood-narrative figure; principal Cancer-Gemini-age figure; principal Eden-lineage post-flood patriarch; structurally parallel to contemporary Aquarian-age humanity facing cataclysmic-threshold engagement"
+type = "聖經人物；被流放的路西法派在方舟保存行動中的主要人類夥伴"
+hebrew_name = "נֹחַ（Noaḥ，「安息、安慰」）"
+biblical_dating = "依語料年表為雙子座時代（約西元前 6,690 年）；傳統的創世記年表在烏雪與七十士譯本的框架中將洪水置於約西元前 2300 至約 3000 年之間"
+principal_source = "《訴說真相之書》（沃里隆，1974），〈洪水〉一節；彙編於《來自設計者的訊息》（2005）"
+mesopotamian_counterparts = "朱蘇德拉（蘇美）、阿特拉哈西斯與烏特納匹什提姆（阿卡德）——創世記記載所改寫的洪水倖存者人物"
+ark_reading = "希伯來文 *tevah*（密封的箱子，而非船）；解讀為一艘「從地上升起」（創世記 7:17）的防護飛行器，其貨物是基因樣本而非實體的成對動物"
+post_flood_covenant = "解讀為地上被流放的創造者與挪亞一家之間的私下約定（創世記 9），有別於母星議會——議會在巴別時的驚訝顯示了其獨立性"
+distinguished_from = "主流的義人遺民讀法；文獻假說的來源批判讀法；年輕地球創造論的字面全球洪水讀法"
 +++
 
 **Noah** (Hebrew נֹחַ, *Noaḥ*, "rest" or "comfort") is the flood-survivor

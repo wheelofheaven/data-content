@@ -5,7 +5,7 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -13,20 +13,30 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "framework"
-alternative_names = ["ID", "Design theory", "Design hypothesis", "Directed design (the Raëlian variant)"]
+alternative_names = ["ID", "設計理論", "設計假說", "定向設計（雷爾派的變體）"]
+see_also = [
+    { title = "創世工具箱", path = "wiki/genesis-toolbox", description = "框架以操作形式對設計之爭作出的回答:擁有一套有據可查之工具箱的設計者。" },
+    { title = "生命工程", path = "wiki/life-engineering", description = "文集認為耶洛因設計者藉以行動的機制。" },
+    { title = "合成生物學", path = "wiki/synthetic-biology", description = "框架視為正在重新取得設計者工程能力的當代學科。" },
+    { title = "合成基因組學", path = "wiki/synthetic-genomics", description = "框架讀作與最初設計工作一脈相承的基因組合成科學。" },
+    { title = "向異演化(pantropy)", path = "wiki/pantropy", description = "將設計之說延伸至有意改造人類的生物訂製概念。" },
+    { title = "創世記", path = "wiki/genesis", description = "框架將其 Yamim(諸「日」)階段讀作工程紀錄的文本。" },
+    { title = "伊甸", path = "wiki/eden", description = "框架認定為人類被合成之實驗室的地點。" },
+    { title = "簽名與設計者們", path = "/articles/the-signature-and-the-designers/", description = "此解說文將框架置於完整的設計光譜上——以一位有形體、本身亦是被造的設計者,回應邁爾的超越性設計者。" },
+]
 
 [extra.infobox]
-type = "Philosophical and scientific doctrine that the functional complexity of biological systems is best explained by intelligent design"
-two_senses = "Broad sense: any design-by-intelligence doctrine, with antecedents reaching back to Aristotelian teleology and the medieval scholastic tradition. Narrow sense: the specific American intellectual movement c. 1991 onward associated with the Discovery Institute."
-foundational_modern_text = "Phillip E. Johnson, *Darwin on Trial* (Regnery Gateway, 1991)"
-key_movement_figures = "Phillip E. Johnson (1940–2019); Michael Behe (b. 1952); William Dembski (b. 1960); Stephen C. Meyer (b. 1958); Jonathan Wells (b. 1942); Paul Nelson; Jay Richards; Douglas Axe"
-principal_organisations = "Discovery Institute (Seattle, founded 1991); Center for Science and Culture (founded 1996, originally Center for the Renewal of Science and Culture)"
-foundational_arguments = "Irreducible complexity (Behe 1996); specified complexity / the design inference (Dembski 1998); the fine-tuning of physical constants; the origin of biological information; abiogenesis difficulty"
-historical_antecedents = "Aristotelian teleology; the medieval scholastic tradition (Aquinas's fifth way); William Paley's *Natural Theology* (1802); the broader 19th-century natural theology tradition"
-foundational_critique = "David Hume, *Dialogues Concerning Natural Religion* (1779); Charles Darwin, *On the Origin of Species* (1859); the broader mainstream evolutionary-biology tradition"
-landmark_court_case = "Kitzmiller v. Dover Area School District (M.D. Pa. 2005), Judge John E. Jones III; 139-page ruling that ID is not science and that teaching it in public schools violates the Establishment Clause"
-relevant_scientific_alternative = "Francis Crick and Leslie E. Orgel, \"Directed Panspermia,\" *Icarus* 19 (1973): 341–346; Crick, *Life Itself* (1981) — the proposal that life on Earth may have been deliberately seeded by an extraterrestrial intelligence, the closest mainstream-scientific cognate of the framework's position"
-framework_position = "The core ID claim (biological systems are best explained by intelligent design) is reinterpreted as: terrestrial biological complexity, particularly humans, is the product of deliberate engineering by the Elohim, a non-terrestrial biological civilisation. The corpus's position is closer to the Crick-Orgel directed-panspermia hypothesis than to the contemporary ID movement, sharing with ID the central design claim while differing on the designer's identity, on the relationship to evolutionary biology, and on the political-religious context."
+type = "主張生物系統的功能複雜性最好以智慧設計來解釋的哲學與科學學說"
+two_senses = "廣義：任何「由智慧設計」的學說，其先驅可追溯至亞里斯多德的目的論與中世紀經院傳統。狹義：約 1991 年起與發現研究所相關的特定美國思想運動。"
+foundational_modern_text = "菲利普·E·約翰遜，*Darwin on Trial*（Regnery Gateway，1991）"
+key_movement_figures = "菲利普·E·約翰遜（1940–2019）；麥可·貝希（生於 1952）；威廉·鄧勃斯基（生於 1960）；史蒂芬·C·邁爾（生於 1958）；喬納森·威爾斯（生於 1942）；保羅·尼爾森；傑伊·理查茲；道格拉斯·阿克斯"
+principal_organisations = "發現研究所（西雅圖，創立於 1991）；科學與文化中心（創立於 1996，原名科學與文化復興中心）"
+foundational_arguments = "不可化約的複雜性（貝希 1996）；特定複雜性／設計推論（鄧勃斯基 1998）；物理常數的微調；生物資訊的起源；自然發生的困難"
+historical_antecedents = "亞里斯多德的目的論；中世紀經院傳統（阿奎那的第五路）；威廉·佩利的 *Natural Theology*（1802）；更廣的 19 世紀自然神學傳統"
+foundational_critique = "大衛·休謨，*Dialogues Concerning Natural Religion*（1779）；查爾斯·達爾文，*On the Origin of Species*（1859）；更廣的主流演化生物學傳統"
+landmark_court_case = "基茨米勒訴多佛學區案（賓夕法尼亞州中區聯邦地方法院，2005），法官約翰·E·瓊斯三世；長達 139 頁的判決認定 ID 不是科學，並認定在公立學校教授 ID 違反禁止設立國教條款"
+relevant_scientific_alternative = "法蘭西斯·克里克與萊斯利·E·奧格爾，\"Directed Panspermia,\" *Icarus* 19 (1973): 341–346；克里克，*Life Itself*（1981）——主張地球上的生命可能是由地外智慧刻意播種的提案，為主流科學中與本框架立場最接近的同類"
+framework_position = "ID 的核心主張（生物系統最好以智慧設計來解釋）被重新詮釋為：地球生物的複雜性，尤其是人類，是耶洛因——一個非地球的生物文明——刻意工程設計的產物。本文集的立場更接近克里克—奧格爾的定向泛種論假說，而非當代 ID 運動：與 ID 共享核心的設計主張，但在設計者的身分、與演化生物學的關係，以及政治宗教背景上有所不同。"
 +++
 
 **Intelligent Design** (ID) is, in the broad sense, the claim that the functional

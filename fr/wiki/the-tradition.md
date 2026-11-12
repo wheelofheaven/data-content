@@ -6,25 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["la Tradition (French, Sendy's principal designation)", "the Tradition (capitalized to distinguish from generic 'tradition')", "the chain of Tradition (in the Hebrew *shalshelet ha-Kabbalah* sense)", "the perennial Tradition (in partial alignment with the perennialist designation)", "the Hermetic Tradition (in Western-esoteric usage)", "the Wisdom Tradition (in broader spiritual usage)"]
+alternative_names = ["la Tradition (français, principale désignation de Sendy)", "la Tradition (avec majuscule pour la distinguer de la « tradition » au sens générique)", "la chaîne de la Tradition (au sens hébreu de *shalshelet ha-Kabbalah*)", "la Tradition pérenne (en alignement partiel avec la désignation pérennialiste)", "la Tradition hermétique (dans l'usage ésotérique occidental)", "la Tradition de sagesse (dans un usage spirituel plus large)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "L'auteur qui fit de la Tradition l'armature centrale de son cadre." },
+    { title = "Kabbale", path = "wiki/kabbalah", description = "Le courant ésotérique et protecteur hébreu que Sendy traite comme une chaîne de transmission majeure." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "Le cadre qui hérite de la Tradition de Sendy et la prolonge par de nouveaux matériaux sources." },
+    { title = "Âge du monde", path = "wiki/world-age", description = "La chronologie précessionnelle que le corpus intègre aux lignées de transmission de Sendy." },
+    { title = "Bible hébraïque", path = "wiki/hebrew-bible", description = "Un corpus majeur que Sendy lit pour y retrouver le contenu préservé des gens du ciel au sein de la Tradition." },
+    { title = "Pluralité des dieux", path = "wiki/plurality-of-gods", description = "Un élément retrouvé du savoir cosmico-religieux préservé que porte la Tradition." },
+    { title = "L'homme qui joua la Bible sur la Lune", path = "articles/the-man-who-bet-the-bible-on-the-moon", description = "Jean Sendy aborda la Tradition par la Kabbale du grand rabbin Safran — l'étude complète." },
+]
 
 [extra.infobox]
-type = "Foundational Sendy-derived framework concept; the cross-cultural body of preserved knowledge transmitted across millennia within esoteric pedagogical-textual traditions"
-principal_articulator = "Jean Sendy (1910-1978), French author whose major works articulate The Tradition as the central interpretive scaffold of his broader framework"
+type = "Concept fondateur du cadre, issu de Sendy : l'ensemble interculturel de connaissances préservées, transmis au fil des millénaires au sein de lignées d'enseignement ésotérique"
+principal_articulator = "Jean Sendy (1910–1978), l'auteur français dont les livres font de la Tradition l'échafaudage interprétatif central de son cadre"
 principal_works = "*Les cahiers de cours de Moïse* (Julliard, 1963); *La Lune, clé de la Bible* (Julliard, 1968); *Les dieux nous sont nés* (Grasset, 1966); *Ces dieux qui firent le ciel et la terre* (Robert Laffont, 1969); *L'ère du Verseau* (Robert Laffont, 1970); *Nous autres, gens du Moyen Âge*"
-core_content = "Substantial body of preserved knowledge content (cosmic, astronomical, religious, technical) traceable to original Elohim contact during the early post-flood ages; transmitted across millennia within specific pedagogical-priestly chains across multiple cultural-religious traditions"
-principal_transmission_lineages = "The Egyptian priestly tradition; the Hebrew prophetic and rabbinic tradition (with the Kabbalistic tradition as the principal esoteric-protective stream); the Pythagorean-Platonic Greek philosophical tradition; the Hermetic tradition (Hermes Trismegistus, Corpus Hermeticum); the Christian medieval-scholastic tradition; the various subsequent esoteric-transmission traditions"
-distinguished_from = "Mainstream sociological 'tradition' (cultural-customary practices passed down through generations); mainstream comparative-religion 'tradition' (substantial religious-cultural inheritance generally); the perennialist tradition's 'transcendent unity of religions' framework (which operates through different epistemic commitments); the broader 'New Age' wisdom-tradition popularization (which operates with substantial dilution of the specific content)"
-sendy_central_position = "Self-positioning as 'medievalist' — embracing the broader medieval intellectual tradition that the Renaissance / Enlightenment 'humanist' tradition rejected as superstition; the medievalist self-positioning operating paradoxically-rhetorically as the substantial argument that medieval anticipations (transmutation of metals, flying machines, going to the moon, extraterrestrial life) have been progressively confirmed by twentieth-century science while humanist confident dismissal has been progressively falsified"
-status_in_framework = "Foundational concept; the principal Sendy-derived interpretive scaffold supporting the corpus's broader cross-cultural integration"
+core_content = "Ensemble de connaissances préservées (cosmiques, astronomiques, religieuses, techniques) remontant au contact avec les Élohim dans les premières ères postdiluviennes, transmis au sein de chaînes sacerdotales et pédagogiques à travers de nombreuses traditions culturelles et religieuses"
+principal_transmission_lineages = "Le sacerdoce égyptien ; la tradition prophétique et rabbinique hébraïque (dont la Kabbale est le principal courant ésotérique) ; les philosophes grecs pythagoriciens et platoniciens ; la tradition hermétique (Hermès Trismégiste, le *Corpus Hermeticum*) ; les écoles chrétiennes médiévales ; et les lignées ésotériques occidentales ultérieures"
+distinguished_from = "La tradition au sens sociologique ordinaire (les coutumes qu'une culture transmet) ; l'« unité transcendante des religions » des pérennialistes (qui repose sur d'autres engagements) ; et la « tradition de sagesse » populaire du New Age (qui dilue le contenu spécifique)"
+sendy_central_position = "L'auto-identification de Sendy comme « médiéviste » — prenant le parti de la tradition intellectuelle médiévale que les « humanistes » de la Renaissance et des Lumières rejetaient comme superstition, au motif que ses anticipations (transmutation des métaux, machines volantes, voyage sur la Lune, vie sur d'autres mondes) ont depuis été confirmées par la science du XXe siècle, tandis que les rejets humanistes ont été démentis"
+status_in_framework = "Concept fondateur ; le principal échafaudage, issu de Sendy, de l'intégration interculturelle opérée par le corpus"
 principal_corpus_treatment = "Sendy's *L'ère du Verseau* (1970), particularly the *Le Sceau de Salomon et la Tradition de Platon* and *Les Sources de la Tradition* sections; *Ces dieux qui firent le ciel et la terre* (1969); *Les cahiers de cours de Moïse* (1963); subsequent corpus development integrating Sendy's framework with Raëlian source material and *Hamlet's Mill* precessional reconstruction"
 +++
 

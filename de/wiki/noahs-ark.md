@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,19 +15,25 @@ editorial_pass = "2026-05"
 entry_type = "event"
 alternative_names = ["Noah's Ark", "the ark of Noah", "תֵּבַת נֹחַ (Hebrew tevat Noaḥ)", "the preservation vessel", "the orbital spacecraft (corpus reading)", "كَشْتِيُّ نُوحٍ (Arabic safīnat Nūḥ)"]
 timeline = ["age-of-cancer", "age-of-gemini"]
+see_also = [
+    { title = "Noah", path = "wiki/noah", description = "Der Mensch der Eden-Linie, der die Bewahrungsoperation der Arche koordinierte." },
+    { title = "Sintflut", path = "wiki/great-flood", description = "Die Katastrophe des Zwillinge-Zeitalters, gegen die die Arche gebaut wurde." },
+    { title = "Luzifer", path = "wiki/lucifer", description = "Die Fraktion der verbannten Schöpfer, unter deren Leitung die Arche gebaut wurde." },
+    { title = "Noachidischer Bund", path = "wiki/noahic-covenant", description = "Die Vereinbarung nach der Sintflut, die die von der Arche vollbrachte Bewahrung förmlich festhält." },
+    { title = "Bundeslade", path = "wiki/ark-of-the-covenant", description = "Die spätere Truhe aron, die das deutsche Wort „Arche“ mit der tevah vermengt." },
+    { title = "Raël", path = "wiki/rael", description = "Empfänger des Quellenberichts, der die Arche als abgeschirmtes Bewahrungsfahrzeug liest." }
+]
 
 [extra.infobox]
-type = "Cancer-Gemini-age preservation event; orbital spacecraft constructed under exiled-creator technical direction, crewed by Noah's family"
-hebrew_term = "תֵּבָה (tevah, 'sealed vessel/container'); distinct from אֲרוֹן (aron) used for Ark of the Covenant"
-biblical_location = "Genesis 6:14-9:18 (principal narrative); subsequent references in Matthew 24:38, Luke 17:27, Hebrews 11:7, 1 Peter 3:20, 2 Peter 2:5"
-biblical_dating = "Cancer-Gemini boundary in corpus chronology (c. 6,690 BCE); mainstream conservative-evangelical Christian chronology places construction c. 2300-3000 BCE per Ussher-and-Septuagint frames"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Flood' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Gemini chapter, Sections V-VII"
-core_corpus_articulation = "Orbital spacecraft constructed under exiled-creator technical direction across centuries-long preparation period; crewed by Noah's family (eight humans) and carrying genetic-preservation cargo (single living cells per species) plus living specimens; preserved life through Council-ordered nuclear-missile cataclysm"
-architectural_specifications = "Hebrew *tevah* (sealed vessel) with three stories (Genesis 6:16); gopher wood construction with pitch coating (Genesis 6:14); 300×50×30-cubit dimensions (Genesis 6:15); single window and single door"
-cargo_specification = "Genetic-archive content (single living cells per species, male and female) plus living specimens of certain preserved species; eight human crew (Noah, his wife, Shem-Ham-Japheth, their wives); possible representatives from all seven post-flood lineages"
-operational_sequence = "Construction (centuries-long, on Earth's surface under Council observation); loading (genetic-cargo and living-specimen loading); launch (lifted off surface before/during initial weapon impacts); 150-day orbital phase (during radioactive-decay period); post-flood remediation (exiled creators 'monitored the level of radioactivity and dispersed it scientifically'); atmospheric monitoring (bird-release reconnaissance); landing (on Mount Ararat in biblical tradition)"
-distinguished_from = "The Ark of the Covenant (Aries-age sacred-container, Hebrew *aron* not *tevah*); the Tabernacle (Aries-age portable sanctuary); mainstream wooden-boat readings; conservative young-earth literal-global-flood readings; ancient-astronaut alternative spacecraft readings (Sitchin, von Däniken)"
-status_in_framework = "Foundational Cancer-Gemini-age preservation event; principal originary alliance-and-human collaborative engineering project; structural predecessor to subsequent alliance-and-human engineering projects (Babel, Tabernacle, Solomonic Temple, Embassy)"
+type = "Biblisches Gefäß; im Rahmen gelesen als abgeschirmtes Fahrzeug, unter der Leitung der verbannten Luzifer-Fraktion gebaut, um das Leben durch die Sintflut des Zwillinge-Zeitalters zu bewahren"
+hebrew_term = "תֵּבָה (tevah, „versiegeltes Gefäß, Kasten“); dasselbe seltene Wort, das für den Korb des Säuglings Mose verwendet wird (Exodus 2,3), unterschieden vom gewöhnlichen Wort für Schiff (oniyyah) und vom aron der Bundeslade"
+biblical_location = "Genesis 6,14–9,18 (Haupterzählung); spätere Bezüge in Matthäus 24,38; Lukas 17,27; Hebräer 11,7; 1. Petrus 3,20; 2. Petrus 2,5"
+biblical_dating = "Zeitalter der Zwillinge in der Chronologie des Korpus (ca. 6.690 v. Chr.); traditionelle Chronologien der Genesis setzen sie im Rahmen von Ussher und der Septuaginta um ca. 2.300–3.000 v. Chr. an"
+principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), Abschnitt 'The Flood'; zusammengeführt in *Message from the Designers* (2005)"
+specifications = "Goferholz, innen und außen mit Pech (kopher) abgedichtet; 300 × 50 × 30 Ellen; ein einziges Fenster und eine einzige Tür; drei Decks (Genesis 6,14–16)"
+ark_reading = "Ein versiegeltes, abgeschirmtes Fahrzeug, „über die Erde emporgehoben“ (Genesis 7,17); das Pech gelesen als Abschirmung, die 150 Tage (Genesis 7,24) als Abklingzeit des Fallouts, die Ladung als genetische Proben statt Tierpaaren"
+mesopotamian_counterparts = "Das Gefäß aus Schilf und Bitumen von Atra-ḫasīs und Utnapischtim (Gilgamesch XI); das Gefäß des Ziusudra (sumerische Eridu-Genesis)"
+distinguished_from = "Die etablierte Lesart als Holzboot; die Bundeslade (hebräisch aron); jung-erdkreationistische Lesarten einer wörtlichen globalen Flut; alternative Prä-Astronautik-Lesarten (Sitchin, von Däniken)"
 +++
 
 **Noah's Ark** (Hebrew תֵּבָה, *tevah*, a "sealed vessel" or "chest") is the

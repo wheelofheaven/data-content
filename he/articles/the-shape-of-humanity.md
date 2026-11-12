@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -20,7 +20,7 @@ category = "Macro-History"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 summary = "במשפט יחיד של המסר הראליאני השני, מבקש יהוה מראל להתייחס אל „כל אדם כאל תא של היצור הגדול שבהתהוות, הלוא הוא האנושות“ — ומוסיף כי האלוהים, ה„רגילים ליצור חיים על אינסוף פלנטות“, יכולים אפוא לחזות מה יקרה לציוויליזציה כפי שאמבריולוג חוזה מה יקרה לעובר. קִחו זאת כפשוטו ומתוך כך נושרת דיסציפלינה שאינה קיימת עדיין: *מורפולוגיה ציוויליזציונית* שתחקור את האנושות לא כערמה של תרבויות ומדינות אלא כאורגניזם פלנטרי מתפתח יחיד, שתאיו הם בני אדם, שאיבריו הם מוסדות, שחילוף החומרים שלו הוא אנרגיה, שמערכת העצבים שלו היא רשת התקשורת, ושהבשלתו היא המעבר מציוויליזציות רבות ומתקוטטות לכלל גוף גלובלי יחיד וקוהרנטי. הסבר זה בונה את הטיעון. הוא מראה שהטענה בדבר האנושות-כאורגניזם היא קנון מפורש, לא קישוט; הוא מתעמת עם הקיר שעצר תמיד מדע כזה — שיש לנו כדור ארץ אחד בלבד ואיננו יכולים להריץ את הניסוי פעמיים; הוא קורא את „הניסויים הטבעיים של ההיסטוריה“ של Jared Diamond, את *המורפולוגיה של ההיסטוריה העולמית* של Spengler, את האתגר-והתגובה של Toynbee, את התשואות השוליות של Tainter, ואת חוקי קנה-המידה של Geoffrey West כשברי הדיסציפלינה המורכבים תחת שמות אחרים; הוא מזהה את שתי הדרכים אל המתודולוגיה שההיסטוריה חסֵרה — ציוויליזציות מחושבות המורצות במקביל עם פרמטרים התחלתיים מגוונים, ומאגר הנתונים הרב-פלנטרי הממשי שציוויליזציה חסרת-פניות של הנדסת-חיים כבר הייתה מחזיקה בו; והוא עוקב אחר הקנון אל השוליים שהמאקרו-היסטוריה חגה סביבם בלי לנסחם ממש: שההבשלה עלולה להיכשל, שהאורגניזם עלול להפיל, שזה מה ש*הסמסרה* הראליאנית — המחזור, הסווסטיקה, הסיכוי האחד ממאה — היא שם לו. הוא מסתיים בהיסטוריה האפלה של האנלוגיה עצמה כעד העוין שלו."
-keywords = ["מורפולוגיה ציוויליזציונית", "ביולוגיה ציוויליזציונית", "מאקרוביולוגיה", "האנושות כאורגניזם", "מאקרו-היסטוריה", "Guns Germs and Steel", "ניסויים טבעיים של ההיסטוריה", "Spengler", "Toynbee", "Tainter", "קריסה", "חוקי קנה-מידה", "נואוספירה", "Teilhard", "Vernadsky", "התחרות הקוסמית", "סמסרה", "תור הזהב", "השערת האלוהים", "המסנן הגדול"]
+keywords = ["מורפולוגיה ציוויליזציונית", "ביולוגיה ציוויליזציונית", "מאקרוביולוגיה", "האנושות כאורגניזם", "מאקרו-היסטוריה", "Guns Germs and Steel", "ניסויים טבעיים של ההיסטוריה", "שפנגלר", "טוינבי", "טיינטר", "קריסה", "חוקי קנה-מידה", "נואוספירה", "טייאר", "ורנדסקי", "התחרות הקוסמית", "סמסרה", "תור הזהב", "השערת האלוהים", "המסנן הגדול"]
 references = [
     # — The canon passages under discussion —
     { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2, 'The Apocalypse' (¶¶97–103: humanity as 'a biological entity,' 'each human to be like a cell of the great being in gestation, that is, Humanity,' the embryological prediction of a civilization's development; ¶98: 'we who are used to creating life on an infinity of planets, know what happens to a Humanity which has reached your level of technology, without having reached an equivalent level of wisdom'; ¶¶96, 205: the one-chance-in-a-hundred and the 'choice between self-destruction or the passage into the Golden Age'; Chapter 1, ¶44: the Infinite indifferent (Raël answering a reader), natural selection 'at all levels')" },

@@ -6,25 +6,32 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["Sacred Geometry", "geometric symbolism", "sacred mathematics", "sacred proportion", "divine geometry", "Heilige Geometrie (German)", "géométrie sacrée (French)"]
+alternative_names = ["神聖幾何学", "幾何学的象徴体系", "神聖数学", "神聖比例", "神の幾何学", "Heilige Geometrie(ドイツ語)", "géométrie sacrée(フランス語)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus", "age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "ラエル運動の無限のシンボル", path = "wiki/raelian-symbol-of-infinity", description = "ダビデの星と卍を組み合わせた、コーパスの主要な幾何学的・象徴的な取り組み。" },
+    { title = "カバラ", path = "wiki/kabbalah", description = "主要な神聖幾何学の形である、生命の樹とセフィロトの図の出典。" },
+    { title = "第三神殿", path = "wiki/third-temple", description = "その精密な比例の仕様を、コーパスが同盟から伝えられた神聖幾何学として読むもの。" },
+    { title = "大使館", path = "wiki/embassy", description = "その建築上の仕様がコーパスの神聖な比例の内容を担う、受け入れのための公邸。" },
+    { title = "黄道十二宮", path = "wiki/zodiac", description = "コーパスが文化横断的な神聖比例と並べて読む、歳差運動の幾何学的枠組み。" },
+]
 
 [extra.infobox]
-type = "Body of geometric forms, ratios, and proportions to which religious, cosmological, or metaphysical significance has been attributed across cultures and traditions; designates both documented cross-cultural use of geometric ratios in sacred architecture and interpretive tradition treating geometric forms as carrying inherent metaphysical meaning"
-principal_geometric_forms = "Golden ratio (φ ≈ 1.618); Platonic solids; vesica piscis; Flower of Life; Tree of Life / Sephirot diagram; Sri Yantra; mandala; squared circle; π and √2 / √3 relations; harmonic ratios"
-historical_roots = "Pythagoras (c. 570-495 BCE); Plato (c. 428-348 BCE; *Timaeus*); Vitruvius (c. 80-15 BCE; *De Architectura*); Hermetic tradition; Euclid; medieval scholastic and cathedral-builder traditions; Renaissance revival (Pacioli, Leonardo)"
-modern_revival = "Theosophy (Blavatsky); Anthroposophy (Steiner); Schwaller de Lubicz (Egyptian-symbolic); Robert Lawlor; Keith Critchlow; John Michell; Drunvalo Melchizedek; Leonora Leet; Randall Carlson"
-corpus_position = "Accepts documented cross-cultural use of geometric ratios in sacred architecture as substantively real; accepts cross-cultural religious-symbolic use of specific geometric forms as substantively real; engages broader esoteric Sacred Geometry tradition at descriptive level without adopting strongest metaphysical-causal claims; articulates specific Vorilhon-source and Sendy-source engagement with geometric-symbolic content"
-principal_corpus_engagement = "Raëlian Symbol of Infinity (Star of David + swastika); Tabernacle and Ark of the Covenant precise-proportional specifications; Sendy's analysis of Plato's *Timaeus* 35b numerical-geometric content; broader cross-cultural geometric-symbolic content as alliance-transmitted religious-cultural material"
-distinguished_from = "Pure mathematics (geometric content engaged without religious-cosmological commitment); architecture (geometric content engaged for structural and aesthetic purposes); decorative geometric art (geometric content engaged for ornamental purposes without religious-cosmological framework); the strongest 'consciousness-affecting geometry' claims (which the corpus engages descriptively without adopting)"
-status_in_framework = "Substantive corpus engagement at multiple registers; the documented cross-cultural pattern is treated as real evidence; the alliance-transmission framework provides one explanatory framework alongside common-cognitive-structure and diffusion explanations"
+type = "諸文化にわたって宗教的、宇宙論的、形而上学的な意味を与えられてきた幾何学的な形、比率、均整の総体。聖なる建築における幾何学的比率の、文書で確認される文化横断的な使用と、それらの形が固有の意味を帯びるとみなす解釈の伝統の両方を含む"
+principal_geometric_forms = "黄金比(φ ≈ 1.618)、プラトン立体、ヴェシカ・パイシス、フラワー・オブ・ライフ、生命の樹/セフィロトの図、シュリー・ヤントラ、曼荼羅、円の正方形化、πと√2/√3の関係、調和比"
+historical_roots = "ピュタゴラス(紀元前570〜495年頃)、プラトン(紀元前428〜348年頃、『ティマイオス』)、ウィトルウィウス(紀元前80〜15年頃、『*De Architectura*』)、ヘルメス主義の伝統、エウクレイデス、中世スコラ学と大聖堂建築者の伝統、ルネサンスの復興(パチョーリ、レオナルド)"
+modern_revival = "神智学(ブラヴァツキー)、人智学(シュタイナー)、シュワレ・ド・リュビッチ(エジプトの象徴学)、ロバート・ローラー、キース・クリッチロウ、ジョン・ミッチェル、ドランヴァロ・メルキゼデク、レオノーラ・リート、ランドール・カールソン"
+corpus_position = "聖なる建築における幾何学的比率の、文書で確認される文化横断的な使用と、特定の形の宗教的・象徴的な使用を受け入れる。秘教的な神聖幾何学の伝統には記述的に取り組み、その最も強い形而上学的・因果的な主張は採らない。同盟によって伝えられた特定の幾何学的内容を、ヴォリロンとサンディの原典を通して読む"
+principal_corpus_engagement = "ラエルの無限のシンボル(ダビデの星+卍)。幕屋と契約の箱の比率の仕様。プラトン *Timaeus* 35b の数的・幾何学的内容についてのサンディの分析。教えられた伝統の一部として読まれる文化横断的な幾何学的・象徴的内容"
+distinguished_from = "純粋数学(宗教的な立場を伴わない幾何学的内容)。建築(構造的・美的な使用)。装飾的な幾何学芸術(宗教的枠組みを伴わない装飾)。最も強い「意識に作用する幾何学」の主張(記述的に取り組むが、採らない)"
+status_in_framework = "複数の水準で取り組まれる。文書で確認される文化横断的なパターンは実在のものとして扱われる。同盟による伝達という読解は、共通の認知や伝播と並ぶ、留保つきの一つの説明の枠組みとして提示され、確立した事実としては提示されない"
 +++
 
 **Sacred Geometry** is the body of geometric forms, ratios, and proportions to

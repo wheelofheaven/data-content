@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -20,7 +20,7 @@ category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 summary = "ז'אן סנדי (1910–1978) — פריזאי יליד רוסיה, כתב בזמן מלחמה, מתרגם של ריימונד צ'נדלר, נגר חובב, גנדרן ממושקף של האוונגרד של שנות ה־30 — פרסם ב־1963 את הניסוח הגמור הראשון של הקריאה שהפרויקט הזה חי בתוכה: התנ\"ך העברי, הנקרא כפשוטו, מספר על שהותם עלי אדמות של אלוהים רבים, גשמיים ובני־תמותה. אז עשה משהו שאיש בשושלת לא עשה לפניו ולא אחריו: הוא הִמר על הקריאה כולה בניבוי בר־הפרכה, בדפוס, עם מועד אחרון — עקבות של מתקני האלוהים יימצאו על הירח בתוך שנה מן הנחיתה הראשונה, ואם לא יימצאו, 'יש להחזיק את השערתי כשקרית.' הסבר זה קורא בעיון את מכלול כתביו בצרפתית — ה־Cahiers de cours de Moïse מ־1963, La lune, clé de la Bible, Ces dieux qui firent le ciel et la terre, Nous autres, gens du Moyen Âge, L'Ère du Verseau, וה־Temps messianiques המאוחר — ומשווה הערות עם הקנון הראליאני בעומק שהקִרבה ראויה לו. הוא צועד בשתי התזות המקוריות באמת שלו: שהפרשנות של ימי הביניים עמדה קרובה יותר למשמעות האמיתית של הטקסט מכפי שהחילוניות של הרנסאנס וההשכלה עמדו אי־פעם, ושהקבלה, הנקראת דרך הרב הראשי אלכסנדר ספרן, משמרת תורה קדומה ממשה שהבטחתה המרכזית — 'האדם יחדֵש את המעשים המסופרים בראשית ספר בראשית' — היא תוכנית המתבצעת עתה. הוא מבקר את ההימור ביושר: אפולו לא מצא דבר, ולפי סעיף־השרלטן של סנדי עצמו תיבת־הירח מופרכת כפי שנוסחה, פסק־דין שאותו קיבל בחן רב יותר מכפי שמחקיו מכירים אי־פעם. והוא מטפל, בלא פולמוס, בשאלה שהִשטיחה את מוניטין שלו משני הכיוונים — האם ההתגלות הראליאנית של 1974 חבה דבר־מה לספרים שלדברי סנדי 'brave jeune homme' זה קרא — תוך שהוא מסמן את הסטיות המבניות שבין השניים: האלוהים שלו מתיישבים מחדש בכדור־ארץ חרֵב במקום ליצור חיים, היהוה שלו הוא עיקרון בלתי־חומרי במקום נשיא, והשמימיים שלו, ככל הנראה, לעולם לא ישובו."
-keywords = ["Jean Sendy", "Elohim", "Célestes", "Theosites", "Galaxiens", "La lune clé de la Bible", "Moon Outpost of the Gods", "arc d'alliance", "precession of the equinoxes", "Age of Aquarius", "medievalism", "humanism", "Giordano Bruno", "Alexandre Safran", "Kabbalah", "tikkun olam", "Hamlet's Mill", "falsifiability", "paleocontact", "neo-euhemerism", "Raël", "Stefano Bigliardi"]
+keywords = ["ז'אן סנדי", "אלוהים", "Célestes", "Theosites", "Galaxiens", "La lune clé de la Bible", "Moon Outpost of the Gods", "arc d'alliance", "נקיפת השוויונות", "עידן הדלי", "ימי־ביניימיות", "הומניזם", "ג'ורדנו ברונו", "אלכסנדר ספרן", "קבלה", "תיקון עולם", "Hamlet's Mill", "הפרכה", "פליאו־קונטקט", "נאו־אוהמריזם", "ראל", "סטפנו ביליארדי"]
 references = [
     # — The canon under comparison —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶53 ('We are men like you'); Chapter 2 (¶¶25–27: the laboratory creation and the striking resemblance; ¶57: good and evil defined; ¶72: Babel, the interrupted conquest of space; ¶58: the Flood decision); Chapter 3 (¶33: the 'glory' as flying craft; ¶251: 'Elohim… venus du ciel'); Chapter 7 (¶56: the president of the Council of the Eternals)" },

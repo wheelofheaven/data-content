@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,19 +16,25 @@ editorial_pass = "2026-05"
 entry_type = "event"
 alternative_names = ["Noah's Ark", "the ark of Noah", "תֵּבַת נֹחַ (Hebrew tevat Noaḥ)", "the preservation vessel", "the orbital spacecraft (corpus reading)", "كَشْتِيُّ نُوحٍ (Arabic safīnat Nūḥ)"]
 timeline = ["age-of-cancer", "age-of-gemini"]
+see_also = [
+    { title = "נוח", path = "wiki/noah", description = "האדם משושלת עדן שתיאם את מבצע השימור בתיבה." },
+    { title = "המבול", path = "wiki/great-flood", description = "אסון עידן התאומים שנגדו נבנתה התיבה." },
+    { title = "לוציפר", path = "wiki/lucifer", description = "סיעת היוצרים הגולה שבהכוונתה נבנתה התיבה." },
+    { title = "ברית נח", path = "wiki/noahic-covenant", description = "ההסכם שלאחר המבול המעגן את השימור שהתיבה השיגה." },
+    { title = "ארון הברית", path = "wiki/ark-of-the-covenant", description = "ארגז הארון המאוחר יותר, שהמילה האנגלית ark מבלבלת אותו עם התבה." },
+    { title = "ראל", path = "wiki/rael", description = "מקבל תיאור המקור הקורא את התיבה ככלי שימור ממוגן." },
+]
 
 [extra.infobox]
-type = "Cancer-Gemini-age preservation event; orbital spacecraft constructed under exiled-creator technical direction, crewed by Noah's family"
-hebrew_term = "תֵּבָה (tevah, 'sealed vessel/container'); distinct from אֲרוֹן (aron) used for Ark of the Covenant"
-biblical_location = "Genesis 6:14-9:18 (principal narrative); subsequent references in Matthew 24:38, Luke 17:27, Hebrews 11:7, 1 Peter 3:20, 2 Peter 2:5"
-biblical_dating = "Cancer-Gemini boundary in corpus chronology (c. 6,690 BCE); mainstream conservative-evangelical Christian chronology places construction c. 2300-3000 BCE per Ussher-and-Septuagint frames"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Flood' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Gemini chapter, Sections V-VII"
-core_corpus_articulation = "Orbital spacecraft constructed under exiled-creator technical direction across centuries-long preparation period; crewed by Noah's family (eight humans) and carrying genetic-preservation cargo (single living cells per species) plus living specimens; preserved life through Council-ordered nuclear-missile cataclysm"
-architectural_specifications = "Hebrew *tevah* (sealed vessel) with three stories (Genesis 6:16); gopher wood construction with pitch coating (Genesis 6:14); 300×50×30-cubit dimensions (Genesis 6:15); single window and single door"
-cargo_specification = "Genetic-archive content (single living cells per species, male and female) plus living specimens of certain preserved species; eight human crew (Noah, his wife, Shem-Ham-Japheth, their wives); possible representatives from all seven post-flood lineages"
-operational_sequence = "Construction (centuries-long, on Earth's surface under Council observation); loading (genetic-cargo and living-specimen loading); launch (lifted off surface before/during initial weapon impacts); 150-day orbital phase (during radioactive-decay period); post-flood remediation (exiled creators 'monitored the level of radioactivity and dispersed it scientifically'); atmospheric monitoring (bird-release reconnaissance); landing (on Mount Ararat in biblical tradition)"
-distinguished_from = "The Ark of the Covenant (Aries-age sacred-container, Hebrew *aron* not *tevah*); the Tabernacle (Aries-age portable sanctuary); mainstream wooden-boat readings; conservative young-earth literal-global-flood readings; ancient-astronaut alternative spacecraft readings (Sitchin, von Däniken)"
-status_in_framework = "Foundational Cancer-Gemini-age preservation event; principal originary alliance-and-human collaborative engineering project; structural predecessor to subsequent alliance-and-human engineering projects (Babel, Tabernacle, Solomonic Temple, Embassy)"
+type = "כלי שיט מקראי; נקרא במסגרת ככלי ממוגן שנבנה בהכוונת סיעת לוציפר הגולה כדי לשמר את החיים דרך מבול עידן התאומים"
+hebrew_term = "תֵּבָה (תבה, 'כלי אטום, ארגז'); אותה מילה נדירה המשמשת לתיבת משה התינוק (שמות ב 3), שונה מן המילה הרגילה לספינה (אֳנִיָּה) ומן הארון של ארון הברית"
+biblical_location = "בראשית ו 14–ט 18 (הסיפור העיקרי); אזכורים מאוחרים: מתי כד 38; לוקס יז 27; האיגרת אל העברים יא 7; האיגרת הראשונה של פטרוס ג 20; האיגרת השנייה של פטרוס ב 5"
+biblical_dating = "עידן התאומים בכרונולוגיה של הקורפוס (בערך 6,690 לפנה״ס); כרונולוגיות מסורתיות של בראשית ממקמות אותו בערך 2,300–3,000 לפנה״ס במסגרות של אשר ושל תרגום השבעים"
+principal_source = "*הספר המגלה את האמת* (וורילון, 1974), הקטע 'המבול'; מקובץ ב־*מסר מהמתכננים* (2005)"
+specifications = "עצי גופר מצופים בכופר מבית ומחוץ; 300 × 50 × 30 אמה; צוהר אחד ופתח אחד; שלוש קומות (בראשית ו 14–16)"
+ark_reading = "כלי אטום וממוגן ש״וַתָּרָם מֵעַל הָאָרֶץ״ (בראשית ז 17); הכופר נקרא כמיגון, 150 הימים (בראשית ז 24) כפרק הזמן של דעיכת הנשורת, והמטען כדגימות גנטיות ולא כזוגות בעלי חיים"
+mesopotamian_counterparts = "כלי הקנים והביטומן של אתרחסיס ושל אותנפישתים (גילגמש, לוח XI); הכלי של זיוסודרה (בראשית ערידו השומרית)"
+distinguished_from = "הקריאה המקובלת של סירת עץ; ארון הברית (בעברית ארון); קריאות של כדור ארץ צעיר ומבול עולמי מילולי; קריאות חלופיות של אסטרונאוטים קדומים (סיטשין, פון דניקן)"
 +++
 
 **Noah's Ark** (Hebrew תֵּבָה, *tevah*, a "sealed vessel" or "chest") is the

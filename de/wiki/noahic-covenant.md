@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -15,20 +15,30 @@ editorial_pass = "2026-05"
 entry_type = "event"
 alternative_names = ["the Noahic Covenant", "the post-flood covenant", "the rainbow covenant", "the Noahide covenant (Jewish tradition designation)", "the originary biblical covenant"]
 timeline = ["age-of-gemini"]
+see_also = [
+    { title = "Noah", path = "wiki/noah", description = "Der menschliche Partner der verbannten Schöpfer und die nachgeordnete Partei des Bundes." },
+    { title = "Sintflut", path = "wiki/great-flood", description = "Die Katastrophe des Zwillinge-Zeitalters, auf die der Bund antwortet und die er abschließt." },
+    { title = "Luzifer", path = "wiki/lucifer", description = "Die Fraktion der verbannten Schöpfer, die am Altar zur übergeordneten Partei des Bundes wird." },
+    { title = "Die Allianz", path = "wiki/the-alliance", description = "Die zivilisationsübergreifende Partnerschaft, die der Bund begründet." },
+    { title = "Jahwe", path = "wiki/yahweh", description = "Der Präsident des Rates, auf dessen Stimme nach der Sintflut die Zusage „nie wieder“ beruht." },
+    { title = "Babel", path = "wiki/babel", description = "Das spätere Projekt, dessen Überraschung für den Rat den privaten Charakter des Bundes zeigt." },
+    { title = "Hebräische Bibel", path = "wiki/hebrew-bible", description = "Die Quelle der Bundeserzählung aus Genesis 8–9 und ihres Regenbogenzeichens." },
+    { title = "Neue Gebote", path = "wiki/new-commandments", description = "Der Bund des Wassermann-Zeitalters, der die vom Noahbund eröffnete Abfolge abschließt." }
+]
 
 [extra.infobox]
-type = "Post-flood political-religious event; formal alliance founding between the exiled-creator faction and the surviving humans led by Noah"
-hebrew_term = "בְּרִית (brit, 'covenant, alliance, agreement')"
+type = "Politisch-religiöses Ereignis nach der Sintflut; Gründung der Allianz zwischen der verbannten Luzifer-Fraktion der Schöpfer und den überlebenden Menschen unter Noahs Führung"
+hebrew_term = "בְּרִית (brit, ‚Bund, Bündnis, Vereinbarung‘)"
 biblical_location = "Genesis 8:20-9:17 (the principal narrative); subsequent references in Isaiah 24:5, Isaiah 54:9, Jeremiah 33:20-26, Hosea 6:7"
 biblical_dating = "Cancer-Gemini boundary aftermath in corpus chronology (immediately following c. 6,690 BCE flood event); mainstream biblical chronology generally treats Genesis 9 as Priestly (P) source composition c. 6th century BCE"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in the Age of Gemini chapter, Sections VIII and XIII"
-core_corpus_articulation = "Private arrangement between the exiled-creator faction (the Serpentine faction) and the surviving humans led by Noah; founding alliance distinct from the home-world Council whose non-participation is demonstrated by subsequent Babel-project surprise"
-covenant_parties = "Exiled creators (the Serpentine faction); humans led by Noah and his family (the Eden-lineage survivors)"
-covenant_terms = "Exiled creators: non-participation in future destruction of humanity; acknowledgment of legitimacy of human scientific progress. Humans: gratitude, productive rebuilding, ritual recognition through offerings"
-covenant_sign = "Rainbow (Hebrew קֶשֶׁת *keshet*, dual meaning rainbow + bow-as-weapon); the bow used against the earth now hung in the cloud as visible token of laid-down weapon"
-seven_noahide_laws = "Subsequent Jewish rabbinic articulation (Talmud Sanhedrin 56a-60a): prohibitions against idolatry, blasphemy, murder, sexual immorality, theft, eating flesh from a living animal; positive requirement of courts of justice"
-distinguished_from = "The home-world Council (Council not party to the covenant); subsequent biblical covenants (Abrahamic, Mosaic, Davidic, New — sequential elaborations); mainstream Christian theological covenant readings (which generally treat covenant as agreement with single divine party rather than as private exiled-creator-human arrangement)"
-status_in_framework = "Foundational post-flood political-religious event; the originary alliance founding subsequent covenant tradition; the formal beginning of partnership structuring all subsequent alliance activity"
+principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), Kapitel 'The Truth'; zusammengeführt in *Message from the Designers* (2005); maßgebliche Behandlung im Korpus im Kapitel zum Zeitalter der Zwillinge"
+core_corpus_articulation = "Private Vereinbarung zwischen der verbannten Luzifer-Fraktion der Schöpfer und den überlebenden Menschen unter Noahs Führung; Gründung der Allianz, unterschieden vom Rat auf dem Heimatplaneten, dessen Nichtbeteiligung sich an seiner späteren Überraschung bei Babel zeigt"
+covenant_parties = "Verbannte Schöpfer (die Luzifer-Fraktion, ranghöhere Partei); Noah und seine Familie (die Überlebenden der Eden-Linie, rangniedere Partei)"
+covenant_terms = "Verbannte Schöpfer: keine Beteiligung an einer künftigen Vernichtung der Menschheit; Anerkennung der Rechtmäßigkeit menschlichen wissenschaftlichen Fortschritts. Menschen: Dankbarkeit, tatkräftiger Wiederaufbau, rituelle Anerkennung durch Opfergaben"
+covenant_sign = "Regenbogen (hebräisch קֶשֶׁת keschet, Doppelbedeutung Regenbogen + Bogen als Waffe); der gegen die Erde gebrauchte Bogen, nun in die Wolken gehängt als Zeichen einer niedergelegten Waffe"
+seven_noahide_laws = "Spätere jüdisch-rabbinische Formulierung (Talmud Sanhedrin 56a–60a): Verbote von Götzendienst, Gotteslästerung, Mord, sexueller Unzucht, Diebstahl und dem Verzehr von Fleisch eines lebenden Tieres; dazu das positive Gebot, Gerichte einzusetzen"
+distinguished_from = "Der Rat auf dem Heimatplaneten (keine Partei des Bundes); die späteren biblischen Bünde (Abrahams-, Mose-, Davids- und Neuer Bund – aufeinanderfolgende Ausgestaltungen); die etablierte christliche Bundestheologie (die den Bund als Vereinbarung mit einer einzigen göttlichen Partei versteht, nicht als private Vereinbarung zwischen Schöpfern und Menschen)"
+status_in_framework = "Grundlegendes Ereignis nach der Sintflut; der ursprüngliche Bund, der die Abfolge begründet, die alle spätere Tätigkeit der Allianz strukturiert"
 +++
 
 **The Noahic Covenant** is the post-flood agreement recorded in Genesis

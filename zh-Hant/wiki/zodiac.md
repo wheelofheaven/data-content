@@ -6,29 +6,40 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the zodiac belt", "the zodiacal circle", "*zōidiakos kyklos* (Greek: ζῳδιακὸς κύκλος, 'circle of small figures')", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "the celestial circle", "the wheel of heaven (in older usage)", "the twelve houses (in astrological usage)"]
+alternative_names = ["黃道帶", "黃道圈", "*zōidiakos kyklos* (Greek: ζῳδιακὸς κύκλος, 'circle of small figures')", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "天界之圈", "天之輪（較早的用法）", "十二宮（占星用法）"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "世界時代", path = "wiki/world-age", description = "每個黃道區段在框架曆法中所標示的歲差時代。" },
+    { title = "雙重署名", path = "wiki/doubled-signature", description = "由黃道六條對宮軸線所產生的原則。" },
+    { title = "哈姆雷特之磨", path = "wiki/hamlets-mill", description = "跨文化解讀黃道—歲差編碼的學術錨點。" },
+    { title = "宇宙鏈", path = "wiki/cosmic-chain", description = "黃道曆法所建構的更廣泛年代框架。" },
+    { title = "希伯來聖經", path = "wiki/hebrew-bible", description = "文集透過黃道框架解讀其 Mazzaroth 內容的傳統。" },
+    { title = "讓·桑迪", path = "wiki/jean-sendy", description = "其「黃道宗教」(religion zodiacale)解讀先於文集之歲差處理的作者。" },
+    { title = "那座碾磨諸紀元的磨坊", path = "articles/the-mill-that-grinds-the-ages", description = "黃道作為大年的十二個時辰,每個時代皆以其春分點所在星座命名。" },
+    { title = "Mazzaroth(黃道星宿)", path = "wiki/mazzaroth", description = "黃道的希伯來名稱——《約伯記》第 38 章的 Mazzaroth 及其 mazzal 後裔。" },
+    { title = "屠牛圖", path = "wiki/tauroctony", description = "被讀作金牛座時代星圖的密特拉屠牛圖。" },
+]
 
 [extra.infobox]
-type = "Structural-foundational concept; the principal observational-symbolic framework underlying the precessional age system"
-definition = "The band of sky extending approximately 8° on either side of the ecliptic, divided into twelve constellational regions named after small figures (animal, human, and inanimate) traversed by the sun, moon, and planets in their apparent celestial motion"
-the_twelve_signs = "Aries (the Ram), Taurus (the Bull), Gemini (the Twins), Cancer (the Crab), Leo (the Lion), Virgo (the Virgin), Libra (the Scales), Scorpio (the Scorpion), Sagittarius (the Archer), Capricorn (the Sea-Goat), Aquarius (the Water-Bearer), Pisces (the Fishes)"
-six_paired_oppositions = "Aries↔Libra, Taurus↔Scorpio, Gemini↔Sagittarius, Cancer↔Capricorn, Leo↔Aquarius, Virgo↔Pisces — six axes producing the doubled-signature principle"
-ecliptic_basis = "The ecliptic — the apparent annual path of the sun against the stellar background, produced by Earth's orbital motion around the sun, inclined approximately 23.44° to the celestial equator"
-constellational_basis = "The twelve constellations occupy varying angular extents along the ecliptic (modern IAU boundaries; idealized 30°-per-sign in classical astrological usage); the constellations are not equal in size — Virgo is the largest, Capricorn among the smallest"
-mechanism_of_precessional_relevance = "The vernal equinox precesses backward (westward) through the zodiac at approximately one constellation per 2,160 years, producing the precessional age sequence (Capricorn → Sagittarius → Scorpio → ... → Pisces → Aquarius → back to Capricorn)"
-framework_reading = "The zodiac as the alliance's engineering tool — the long-duration calendrical framework devised by the Elohim for their interstellar biotech program, with the zodiacal names and the paired-opposition structure operating as functional engineering features rather than mystical-aesthetic conventions"
-zodiacal_names_origin = "On the corpus's reading: the Elohim's own conceptual shorthand for the twelve ecliptic segments, inherited by human civilizations through cultural transmission across the post-flood ages; later human civilizations modified the figures while preserving the underlying twelve-fold structure"
-distinguished_from = "Mainstream astrology's tropical zodiac (signs tied to seasonal positions rather than actual constellational positions, decoupled from precessional motion); the various cross-cultural zodiacal-equivalent traditions (Chinese twelve-animal cycle, Indian nakshatra system, Mesoamerican calendrical traditions) which preserve substantive parallel content within distinctive cultural framings; the broader astronomical constellational framework (the 88 IAU-defined constellations of which the twelve zodiacal constellations are a subset)"
-status_in_framework = "Foundational; the zodiac operates as the principal observational-symbolic complement to the World Age temporal framework, with the two together constituting the corpus's principal cosmic-chronological architecture"
-principal_corpus_treatment = "*timeline.epub*, particularly the Libra chapter's Section VI.2 ('The Zodiacal Framework as Engineering Tool'); Jean Sendy, *L'ère du Verseau* (1970), with substantial systematic engagement with Moses's use of zodiacal symbolism (the *religion zodiacale* framework)"
+type = "沿黃道分布的星座帶；歲差世界時代所依據的觀測框架"
+definition = "黃道兩側各延伸約 8° 的天空帶，劃分為十二個星座區域，以小型形象（動物、人物與無生命物）命名，太陽、月亮與行星在其視運動中穿行其間"
+the_twelve_signs = "白羊座（公羊）、金牛座（公牛）、雙子座（雙胞胎）、巨蟹座（螃蟹）、獅子座（獅子）、處女座（處女）、天秤座（天秤）、天蠍座（蠍子）、射手座（弓箭手）、摩羯座（海山羊）、水瓶座（持水者）、雙魚座（雙魚）"
+six_paired_oppositions = "白羊座↔天秤座、金牛座↔天蠍座、雙子座↔射手座、巨蟹座↔摩羯座、獅子座↔水瓶座、處女座↔雙魚座——產生雙重署名原則的六條軸線"
+ecliptic_basis = "黃道——太陽相對於恆星背景的視年路徑，由地球繞太陽的公轉運動產生，與天球赤道傾斜約 23.44°"
+constellational_basis = "十二個星座沿黃道所佔的角度範圍各不相同（現代 IAU 邊界；古典占星用法中理想化為每宮 30°）；各星座大小不一——處女座最大，巨蟹座最小"
+mechanism_of_precessional_relevance = "春分點以每約 2,160 年一個星座的速度在黃道上向後（向西）歲差移動，產生歲差時代序列（摩羯座 → 射手座 → 天蠍座 → …… → 雙魚座 → 水瓶座 → 回到摩羯座）"
+framework_reading = "黃道帶作為耶洛因的工程工具——為其地球計畫所設計的長期曆法，其名稱與兩兩相對的結構是功能性特徵，而非神秘的慣例"
+zodiacal_names_origin = "依語料的解讀，是耶洛因自己對十二個黃道區段的簡稱，經由洪水後的文化傳遞為人類文明所繼承，並在保留十二分結構的同時有所改動"
+distinguished_from = "主流占星學的回歸黃道帶（星座與季節位置掛鉤，而非與實際星座對應，與歲差脫鉤）；各文化中相當於黃道帶的體系（中國的十二生肖循環、印度的 nakshatra 體系、中美洲的曆法傳統），以各自的框架承載平行的內容；以及更廣泛的天文星座集合（88 個 IAU 星座，十二個黃道星座是其子集）"
+status_in_framework = "基礎性；黃道帶是世界時代年表在觀測—象徵上的補充，兩者共同構成語料的宇宙—年代架構"
+principal_corpus_treatment = "*timeline.epub*，尤其是天秤座章節的〈作為工程工具的黃道框架〉；Jean Sendy，*L'ère du Verseau*（1970），論摩西對黃道象徵的運用（*religion zodiacale*）"
 +++
 
 The **Zodiac** (Greek: ζῳδιακὸς κύκλος, *zōidiakos kyklos*, "circle of small

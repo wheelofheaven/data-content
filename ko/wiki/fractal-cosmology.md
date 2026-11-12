@@ -6,27 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["fractal cosmos", "the fractal-self-similar cosmology", "the infinite-hierarchical cosmology", "the nested-cosmos framework", "the scale-invariant cosmology"]
+alternative_names = ["프랙털 우주", "프랙털 자기 유사 우주론", "무한 위계 우주론", "중첩 우주 틀", "척도 불변 우주론"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "거시생물학", path = "wiki/macrobiology", description = "프랙탈 사다리의 한 단에 있는 생명 체계에 대한 연구: 인간에 대한 인류는 세포에 대한 인간과 같습니다." },
+    { title = "매스 이펙트", path = "wiki/mass-effect", description = "같은 자기유사적 우주론의 시간적 차원을 다루는 자매 프레임워크." },
+    { title = "무한", path = "wiki/infinity", description = "프랙탈 우주론이 그 공간적 차원을 이루는 더 넓은 프레임워크." },
+    { title = "우주의 사슬", path = "wiki/cosmic-chain", description = "무한한 규모의 사다리를 채우는 존재들의 중첩된 위계." },
+    { title = "이중 서명", path = "wiki/doubled-signature", description = "규모를 가로지르는 프레임워크의 자기유사성을 반향하는 구조적 반복의 원리." },
+    { title = "우주적 경쟁", path = "wiki/cosmic-competition", description = "무한한 우주 안에서 작동하는 문명 역학에 대한 프레임워크의 독해." },
+    { title = "엘로힘", path = "wiki/elohim", description = "그 본국 행성의 원천 자료가 무한-위계적 구조를 표명하는 문명." },
+    { title = "서명과 설계자들", path = "/articles/the-signature-and-the-designers/", description = "시작 없는 우주는 마이어의 미세 조정 논증을 무력화하는 경첩입니다: 최초의 순간도 없고, 무엇도 '설정'된 적이 없습니다." },
+]
 
 [extra.infobox]
-type = "Hypothetical cosmological framework; concept articulating the spatial-self-similar structure of the cosmos across the infinite hierarchy of scales"
-basic_premise = "The cosmos exhibits self-similarity across scales, with the same fundamental patterns of organization recurring at every scale of examination, indefinitely in both directions without finding any bottom or any top"
-core_image = "The Earth is but a particle of the atom of the atoms of the hand of a gigantic being, who contemplates a starlit sky which composes the hand, the stomach or the foot of a being even more gigantic, who finds himself under a sky, etc., etc., ad infinitum"
-domain = "All scales of cosmological organization, from sub-atomic scales (where intelligent life on the atoms of our atoms exists, on the source's claim) through human scale through planetary, stellar, galactic, intergalactic scales and beyond"
-mathematical_status = "Structurally aligned with mathematical-fractal vocabulary (Mandelbrot 1975+); not yet formally mathematized within the corpus; principal articulation through source-material passages and corpus interpretive elaboration"
-relationship_to_mainstream_cosmology = "Substantially distinct from the standard cosmological-principle homogeneity-and-isotropy framework of mainstream Big Bang cosmology; operates within the contested-fractal-cosmology side of contemporary cosmological debate (Pietronero, Coleman-Pietronero, Baryshev); the Big Bang on the framework's reading is at most the beginning of our specific observable region rather than the beginning of being itself"
-relationship_to_mass_effect = "Sister framework; Fractal Cosmology addresses the spatial dimension of cosmological self-similarity; Mass Effect addresses the temporal dimension; both operate within the broader Infinity framework"
-distinguished_from = "Mainstream Big Bang cosmology (which posits homogeneity-and-isotropy at large scales rather than fractal self-similarity); the Mass Effect framework alone (the temporal dimension rather than the spatial); the broader Infinity framework (which contains Fractal Cosmology as one specific dimension); various mainstream multiverse proposals (which posit specific multi-universe structures rather than the open-ended hierarchical-self-similar structure the framework articulates)"
-status_in_source_material = "Substantial; the Raëlian source material provides explicit articulation of the infinite-hierarchical structure across multiple passages, with the corpus's specific use of *fractal cosmology* as technical designation registering the structural alignment with subsequently-developed mathematical vocabulary"
-principal_text = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), various passages on the infinite hierarchy; *Let's Welcome the Extra-terrestrials* (1979), 'Who Created the Creator of the Creators?' and various FAQ passages; the Wheel of Heaven corpus's outro treatment in *timeline.epub*"
+type = "가설적 우주론 틀; 무한한 규모의 위계에 걸친 우주의 공간적 자기 유사 구조를 표현하는 개념"
+basic_premise = "우주는 규모 전반에 걸쳐 자기 유사성을 보이며, 동일한 기본 조직 패턴이 관찰의 모든 규모에서 되풀이되고, 바닥도 꼭대기도 찾을 수 없이 양 방향으로 무한정 이어짐"
+core_image = "지구는 거대한 존재의 손을 이루는 원자들의 원자의 한 입자에 지나지 않으며, 그 존재는 별이 빛나는 하늘을 바라보는데, 그 하늘은 훨씬 더 거대한 존재의 손이나 배나 발을 이루고, 그 존재 또한 하늘 아래에 있으며, 그렇게 무한히 이어짐"
+domain = "우주론적 조직의 모든 규모로, 원자보다 작은 규모(원전의 주장에 따르면 우리 원자들의 원자 위에 지적 생명이 존재함)에서 인간 규모를 거쳐 행성, 항성, 은하, 은하 간 규모와 그 너머에 이름"
+mathematical_status = "수학적 프랙털 용어(만델브로, 1975년 이후)와 구조적으로 일치함; 코퍼스 안에서 아직 공식적으로 수학화되지 않음; 주로 원전 구절과 코퍼스의 해석적 정교화를 통해 표현됨"
+relationship_to_mainstream_cosmology = "주류 빅뱅 우주론의 표준 우주론 원리(균질성과 등방성)와 구별되며, 현대 우주론 논쟁에서 논란이 있는 프랙탈 우주론 진영(피에트로네로, 콜먼–피에트로네로, 바리셰프)에서 작동합니다. 이 체계의 해석에서 빅뱅은 존재 자체의 시작이 아니라 기껏해야 우리가 관측 가능한 영역의 시작입니다"
+relationship_to_mass_effect = "자매 틀; 프랙털 우주론은 우주론적 자기 유사성의 공간적 차원을 다루고, 매스 이펙트는 시간적 차원을 다룸; 둘 다 더 넓은 무한 틀 안에서 작동함"
+distinguished_from = "주류 빅뱅 우주론(큰 규모에서 프랙털 자기 유사성이 아니라 균질성과 등방성을 상정함); 매스 이펙트 틀 단독(공간이 아니라 시간적 차원); 더 넓은 무한 틀(프랙털 우주론을 하나의 특정 차원으로 포함함); 다양한 주류 다중우주 제안(틀이 표현하는 열린 위계적 자기 유사 구조가 아니라 특정한 다중 우주 구조를 상정함)"
+status_in_source_material = "명시적. 라엘 원전 자료는 여러 구절에서 무한한 위계 구조를 표명하며, 코퍼스가 *프랙탈 우주론*을 전문 용어로 쓰는 것은 이후 발전한 수학적 어휘와의 정합을 반영합니다"
+principal_text = "*외계인들이 나를 그들의 행성으로 데려갔다*(보릴롱/라엘, 1975), 무한한 위계에 관한 여러 구절; *외계인들을 환영하자*(1979), '창조자들의 창조자는 누가 창조했는가?'와 여러 자주 묻는 질문 구절; *timeline.epub*에 실린 Wheel of Heaven 코퍼스의 맺음말"
 +++
 
 **Fractal Cosmology** is the Wheel of Heaven corpus's name for the spatially self-similar structure of the cosmos across an infinite hierarchy of scales. The framework holds that **the cosmos exhibits self-similarity across scales, with the same fundamental patterns of organization recurring at every scale of examination, indefinitely in both directions without finding any bottom or any top**. Its source warrant is the Yahweh-delivered passages in *Extra-Terrestrials Took Me to Their Planet* (1975) and the later Raëlian material; the corpus adopts *fractal cosmology* as a technical designation because the structure aligns with the fractal vocabulary Benoît Mandelbrot was developing in the same period the material was delivered. It is the **spatial dimension** of the broader Infinity framework, with the **{% wiki(slug="mass-effect") %}Mass Effect{% end %}** framework as the corresponding **temporal dimension**.

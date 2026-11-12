@@ -6,27 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-08"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["mytheme", "mythological motif (broader usage)", "narrative element (broader usage)", "mythème (French original)", "Mythem (German)", "mitema (Italian, Spanish)"]
+alternative_names = ["мифема", "мифологический мотив (более широкое употребление)", "повествовательный элемент (более широкое употребление)", "mythème (франц. оригинал)", "Mythem (нем.)", "mitema (итал., исп.)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Сравнительная мифология", path = "wiki/comparative-mythology", description = "Более широкое обращение к дисциплине, внутри которого мифема — один из аналитических инструментов." },
+    { title = "Теомахия", path = "wiki/theomachy", description = "Один из повторяющихся межкультурных комплексов мотивов, который корпус анализирует как мифему." },
+    { title = "Ноев ковчег", path = "wiki/noahs-ark", description = "Пример мифемы потопа — одного из главных комплексов мотивов корпуса." },
+    { title = "Гипотеза древних астронавтов", path = "wiki/ancient-astronaut-hypothesis", description = "Предпочитаемое корпусом историческое объяснение повторяющихся межкультурных мотивов." },
+    { title = "Древо познания добра и зла", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "Мотив из Бытия, прочитанный как сжатая история в рамках работы с мифемами." },
+    { title = "Древние строители", path = "wiki/ancient-builders", description = "Субъекты мотивов мегалитов и строительства, которые корпус читает в разных традициях." },
+    { title = "Мир за «Одиссеей»", path = "/articles/the-world-behind-the-odyssey/", description = "Статья, прослеживающая мифемы передачи знания и преемства от «Одиссеи» назад через Анатолию и Месопотамию." },
+    { title = "Восточный лик Гомера", path = "/articles/the-east-face-of-homer/", description = "Парная статья о том, как странствуют формы повествования, тогда как герои — нет: отношение Гильгамеша и Одиссея как образцовый случай передачи мифемы." },
+]
 
 [extra.infobox]
-type = "Technical analytical unit in Claude Lévi-Strauss's structural-anthropological method for the study of myth; also broader popular term for recurring cross-cultural mythological motifs"
-coined_by = "Claude Lévi-Strauss (1908-2009), French structural anthropologist"
-principal_articulation = "Lévi-Strauss, 'The Structural Study of Myth' (*Journal of American Folklore*, 1955), incorporated into *Structural Anthropology* (1958); developed across *Mythologiques* (4 vols., 1964-1971)"
-linguistic_analogy = "Mytheme : myth :: phoneme : language; the mytheme is the relational unit, not the isolated content"
-principal_methodology = "Cross-variant analysis: collecting multiple variants of a myth across cultural settings, identifying the recurring relational elements (mythemes), and arranging them in columns to reveal the underlying structural relations (typically binary oppositions and their mediations)"
-canonical_example = "The Oedipus myth analyzed in 'The Structural Study of Myth' through four columns: (1) overrated kinship relations; (2) underrated kinship relations; (3) denial of the autochthonous origin of man; (4) persistence of the autochthonous origin of man"
-broader_popular_usage = "Any recurring narrative element — motif, character type, narrative pattern — appearing across multiple cultures; substantially interchangeable with 'mythological motif' in this usage"
-corpus_position = "Engages both strict Lévi-Straussian sense and broader popular sense; corpus's methodological commitment is to cross-cultural pattern recognition rather than to any single methodological school; the mytheme concept is one tool among several within the broader Comparative Mythology engagement"
-distinguished_from = "Motif (the broader Stith Thompson cataloguing concept); tale-type (the Aarne-Thompson-Uther narrative-type concept); archetype (the Jungian psychological-pattern concept); narrative function (the Proppian narrative-structural concept); narreme (Eugene Dorfman's parallel narratological concept)"
-status_in_framework = "Methodological technical term within the broader Comparative Mythology engagement; cross-referenced to the [Comparative Mythology](../comparative-mythology/) entry for the broader disciplinary engagement"
+type = "Технический аналитический элемент структурно-антропологического метода изучения мифа Клода Леви-Стросса; также более широкий общеупотребительный термин для повторяющихся межкультурных мифологических мотивов"
+coined_by = "Клод Леви-Стросс (1908–2009), французский антрополог-структуралист"
+principal_articulation = "Леви-Стросс, «The Structural Study of Myth» (*Journal of American Folklore*, 1955), вошедшая в *Структурную антропологию* (1958); развита в *Мифологиках* (4 тома, 1964–1971)"
+linguistic_analogy = "Мифема : миф :: фонема : язык; мифема — это реляционный элемент, а не изолированное содержание"
+principal_methodology = "Анализ вариантов: сбор нескольких вариантов мифа в разных культурных средах, выявление повторяющихся реляционных элементов (мифем) и расположение их в столбцах, чтобы обнаружить лежащие в основе структурные отношения (как правило, бинарные оппозиции и их медиации)"
+canonical_example = "Миф об Эдипе, разобранный в «The Structural Study of Myth» в четырёх столбцах: (1) переоценка родственных отношений; (2) недооценка родственных отношений; (3) отрицание автохтонного происхождения человека; (4) сохранение автохтонного происхождения человека"
+broader_popular_usage = "Любой повторяющийся повествовательный элемент — мотив, тип персонажа, повествовательная схема, — встречающийся во многих культурах; в этом употреблении практически взаимозаменим с «мифологическим мотивом»"
+corpus_position = "Корпус использует и строгое леви-строссовское значение, и более широкое общеупотребительное; методологическая установка корпуса — распознавание межкультурных закономерностей, а не приверженность какой-либо одной методологической школе; понятие мифемы — один из нескольких инструментов в более широкой работе сравнительной мифологии"
+distinguished_from = "Мотив (более широкое каталогизационное понятие Стита Томпсона); сказочный тип (понятие повествовательного типа Аарне–Томпсона–Утера); архетип (юнгианское понятие психологического паттерна); повествовательная функция (пропповское повествовательно-структурное понятие); нарратема (параллельное нарратологическое понятие Юджина Дорфмана)"
+status_in_framework = "Методологический технический термин в более широкой работе сравнительной мифологии; перекрёстная ссылка на статью [Сравнительная мифология](../comparative-mythology/) о более широком дисциплинарном контексте"
 +++
 
 **Mytheme** is, in its strict technical sense, the principal analytical unit of **Claude Lévi-Strauss**'s structural-anthropological method for the study of myth. Lévi-Strauss articulated the concept principally in "The Structural Study of Myth" (*Journal of American Folklore*, 1955; subsequently incorporated as chapter eleven of *Structural Anthropology*, 1958) and developed it across the four-volume *Mythologiques* (1964-1971).

@@ -6,28 +6,33 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Noah (English)", "נֹחַ (Hebrew Noaḥ)", "Νῶε (Greek Nōe)", "نوح (Arabic Nūḥ)", "the Eden-lineage flood survivor", "the ark-builder", "the post-flood patriarch"]
+alternative_names = ["Noah(英語)", "נֹחַ(ヘブライ語 Noaḥ)", "Νῶε(ギリシア語 Nōe)", "نوح(アラビア語 Nūḥ)", "the Eden-lineage flood survivor", "the ark-builder", "the post-flood patriarch"]
 timeline = ["age-of-cancer", "age-of-gemini"]
+see_also = [
+    { title = "大洪水", path = "wiki/great-flood", description = "方舟による保存の作戦がそれに対して行われた、双子座の時代の大災害。" },
+    { title = "ルシファー", path = "wiki/lucifer", description = "その介入が方舟の作戦を通じてノアを守った、追放された創造者の派閥。" },
+    { title = "ノアの箱舟", path = "wiki/noahs-ark", description = "動物のつがいではなく遺伝的試料を運ぶ遮蔽された乗り物として読まれる、封じられた容器。" },
+    { title = "神々の闘い", path = "wiki/theomachy", description = "洪水の決定を枠づけた、創造者の派閥間の紛争。" },
+    { title = "バベル", path = "wiki/babel", description = "評議会の驚愕が、母星がノアの契約とは別個であることを示す、洪水後の回復計画。" },
+    { title = "ヤハウェ", path = "wiki/yahweh", description = "「もう二度と行わない」という誓約がその洪水後の投票に基づく、評議会の指導者。" },
+]
 
 [extra.infobox]
-type = "Biblical figure; principal human operational partner of the exiled-creator (Serpentine) faction in the ark-preservation project"
-hebrew_name = "נֹחַ (Noaḥ, 'rest, comfort')"
-biblical_dating = "Cancer-Gemini boundary in corpus chronology (c. 6,690 BCE); mainstream biblical chronology places traditional Genesis flood dating between 2300-3000 BCE in Ussher-and-Septuagint frames"
-principal_biblical_location = "Genesis 5:29-10:32; brief subsequent references in Isaiah 54:9, Ezekiel 14:14-20, Matthew 24:37-39, Luke 17:26-27, Hebrews 11:7, 1 Peter 3:20, 2 Peter 2:5"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Flood' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in the Age of Cancer chapter"
-core_corpus_articulation = "Eden-lineage human operating as principal operational partner of the exiled-creator faction conducting clandestine preservation of life through orbital spacecraft (the Genesis 'ark') against Council-ordered nuclear attack on Earth"
-flood_event = "Council-ordered nuclear-missile attack on Earth conducted against the original creator project; the exiled creators (Serpentine faction) conducted clandestine preservation of life through orbital spacecraft; conducted at the Cancer-Gemini boundary (c. 6,690 BCE corpus chronology)"
-ark_specifications = "Hebrew *tevah* (sealed vessel, not boat) with three levels (Genesis 6:16); lifted 'above the earth' (Genesis 7:17 *vatarom me-al ha-aretz*) rather than 'on the water'; cargo genetic (single living cells per species) rather than physical animal pairs"
-post_flood_covenant = "Private arrangement between exiled creators present on the ground and Noah's family (Genesis 9); distinct from home-world Council whose non-participation is demonstrated by subsequent Babel-project surprise"
-distinguished_from = "Mainstream uniquely-righteous-individual reading; ancient-astronaut alternative readings; mainstream biblical-scholarly Documentary Hypothesis source-critical reading; conservative young-earth creationist literal-global-flood reading"
-status_in_framework = "Foundational flood-narrative figure; principal Cancer-Gemini-age figure; principal Eden-lineage post-flood patriarch; structurally parallel to contemporary Aquarian-age humanity facing cataclysmic-threshold engagement"
+type = "聖書の人物。方舟による保存の作戦における、追放されたルシファーの派閥の主要な人間のパートナー"
+hebrew_name = "נֹחַ(Noaḥ、「休息、慰め」)"
+biblical_dating = "コーパスの年代学では双子座の時代(紀元前6,690年頃)。伝統的な創世記の年代学では、アッシャーと七十人訳の枠組みにおいて洪水は紀元前2300年頃から紀元前3000年頃のあいだに置かれる"
+principal_source = "『真実を告げる書』(ヴォリロン、1974年)、「大洪水」の節。『設計者からのメッセージ』(2005年)に統合"
+mesopotamian_counterparts = "ジウスドラ(シュメール)、アトラ・ハシースとウトナピシュティム(アッカド)。創世記の記述が作り直した、洪水の生存者の人物"
+ark_reading = "ヘブライ語 *tevah*(船ではなく、封じられた箱)。「地の上に持ち上げられた」(創世記7:17)遮蔽された乗り物として読まれ、その積荷は動物の実物のつがいではなく遺伝的試料であった"
+post_flood_covenant = "地上にいた追放された創造者たちとノアの家族とのあいだの私的な取り決めとして読まれる(創世記9章)。母星の評議会とは区別され、評議会が別個であることは、バベルでの評議会の驚きに示されている"
+distinguished_from = "主流の「義なる残りの者」という読解。文書仮説による資料批判的な読解。若い地球創造論による字義的な全地球洪水の読解"
 +++
 
 **Noah** (Hebrew נֹחַ, *Noaḥ*, "rest" or "comfort") is the flood-survivor

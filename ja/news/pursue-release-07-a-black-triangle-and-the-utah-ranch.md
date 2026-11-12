@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ core_claim_ids = ["woh-claim-0057"]
 core_versions = { woh-claim-0057 = "0.1.0" }
 editorial_pass = "2026-05"
 summary = "第06弾リリースから五週間後、米国戦争省はwar.gov/UFOにて第07弾を公開しました。28点の文書のみ——動画も音声も画像もなし——で、これまでで最小の一括資料であり、すべてが紙から成る初めてのものです。25点は同省自身から、1点はFBIから、1点は大統領府から採取され、1点は新たな「U.S. Government（米国政府）」の接頭辞を持ちます。筆頭のファイルは最近のものです。すなわち、2026年6月に米国西部の機微な施設で、艶消しの黒い三角形が尾根の上に無音で上昇し、ホバリングし、峡谷へと急降下するのを目撃した連邦捜査官たちに対する全領域異常解明局（AARO）の聴取記録であり、出来事の四か月後に公開され、持続時間、大きさ、熱について食い違うFBIの面接記録を伴っています。その背後には、国防情報局（DIA）のAAWSAPプログラムを2008〜2010年に運営した請負業者の運用記録があります。すなわち、回収されたハードウェアと生物学的サンプルを取得する計画、それらを保管するよう設計された地下保管庫、ブラジルへの派遣、234,364件の目撃報告を収めるデータウェアハウス、そして「スキンウォーカー」の毛髪サンプルが目撃者自身の犬のものと判明したユタ州の牧場の調査です。1962〜1964年のホワイトハウスのファイルは、宇宙から落下する物体についての手続きを、NASAを公の顔とし国防総省を分析者として、政府が起草する様子を示しています。本コーパスは、第07弾を、帰還の兆候としてではなく、正典を読むための文脈として記録します。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "現在の文脈"
+cross_reference = "水瓶座の時代、§IX"
 canon_links = [
     { title = "水瓶座の時代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

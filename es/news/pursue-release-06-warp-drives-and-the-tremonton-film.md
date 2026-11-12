@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Seis semanas después de la Versión 05, el Departamento de Guerra de EE. UU. publicó la Versión 06 en war.gov/UFO: 71 archivos según el recuento del Departamento tal como se comunicó en el momento de la publicación —55 documentos, 15 vídeos y una grabación de audio—, 67 de ellos del propio Departamento y cuatro de una agencia local de fuerzas del orden de Colorado, el primer contribuyente no federal del programa. El centro de gravedad del lote es un rastro documental: la declaración de objetivos, la adjudicación del contrato y las cinco modificaciones del Advanced Aerospace Weapon System Applications Program (2008-2012) de la Agencia de Inteligencia de Defensa, junto con 37 de los 38 documentos de referencia que encargó sobre motores de curvatura, agujeros de gusano transitables, antigravedad, propulsión por masa negativa, camuflaje de invisibilidad, una ecuación de Drake estadística y lesiones reportadas por encuentros cercanos. A su lado se sitúa la película más antigua del archivo —las imágenes filmadas el 2 de julio de 1952 por el suboficial de la Armada Delbert C. Newhouse de doce a catorce objetos brillantes sobre Tremonton, Utah, con su expediente completo del Project Blue Book— y una grabación de marzo de 1952 del capitán Edward J. Ruppelt, primer jefe de Blue Book, diciendo a un auditorio que una quinta parte de los 800 casos de la Fuerza Aérea seguía sin explicación y que los informes se concentraban en torno a Los Álamos, Albuquerque y Oak Ridge. El corpus registra la Versión 06 como contexto para leer el canon, no como una señal del retorno —y lee la exención legal del 14 de septiembre del Departamento, que abre un canal protegido para que el personal actual y anterior y los contratistas aporten información sobre FANI a PURSUE, como el desarrollo más trascendente del intervalo."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "El contexto del presente"
+cross_reference = "Era de Acuario, §IX"
 canon_links = [
     { title = "Era de Acuario", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

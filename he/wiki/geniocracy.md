@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,18 +16,26 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Geniocracy (proper-noun framework concept)", "selective democracy (Vorilhon source-textual designation)", "the first New Commandment", "the Raëlian political-governance doctrine", "Géniocratie (French)", "government by the geniuses (descriptive expansion)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "הומניטריזם", path = "wiki/humanitarianism", description = "מצוות הקניין והירושה, המזווגת עם הגניוקרטיה במצוות החדשות." },
+    { title = "המצוות החדשות", path = "wiki/new-commandments", description = "התוכנית בת שבעת החלקים של עידן הדלי, שהגניוקרטיה היא המצווה הראשונה בה." },
+    { title = "יהוה", path = "wiki/yahweh", description = "נשיא האלוהים שניסח את התורה לוורילון." },
+    { title = "ראל", path = "wiki/rael", description = "מקבל התורה ומייסד התנועה לגניוקרטיה עולמית." },
+    { title = "מסר מהמתכננים", path = "wiki/message-from-the-designers", description = "טקסט המקור המקובץ המתעד את הניסוח המקורי של התורה." },
+    { title = "ראליזם", path = "wiki/raelism", description = "התנועה שבתוכה הגניוקרטיה מתפקדת כתורה פוליטית יסודית." },
+]
 
 [extra.infobox]
-type = "Raëlian political-governance doctrine; the first of the seven New Commandments delivered to Vorilhon during the December 1973 contact"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), Sixth Chapter (The New Commandments), section titled Geniocracy; *Géniocratie* (Vorilhon, 1977), the dedicated systematic articulation"
-core_articulation = "'Selective democracy' restricting political eligibility to those whose measured intelligence exceeds specified thresholds — voting reserved for those at least 10% above population average, eligibility for public office reserved for those at least 50% above"
-position_within_seven_commandments = "First New Commandment; the political-governance dimension complementing Humanitarianism, World Government, Demilitarization, Science as Religion, Telepathic Cultivation, and the Metaphysical Clarifications"
-principal_argument_structure = "Universal-suffrage democracy weighs votes equally regardless of capacity to understand issues; majority-rule frequently contradicts expert knowledge (Copernicus example); cells-of-the-body metaphor articulates that specialized capacities should make decisions for the broader system; psychometric measurement provides technical basis for eligibility restriction"
-distinguished_from = "Universal-suffrage democracy (which weighs all votes equally); aristocracy (hereditary-based political authority); plutocracy (wealth-based political authority); monarchy (single-individual hereditary political authority); theocracy (religious-authority-based political authority); technocracy (technical-expertise-based political authority operating substantively differently from intelligence-based selection)"
+type = "דוקטרינת ממשל ראליאנית; הראשונה משבע המצוות החדשות שנמסרו לוורילון במגע של דצמבר 1973"
+principal_source = "*הספר המגלה את האמת* (וורילון, 1974), הפרק השישי (המצוות החדשות), הסעיף שכותרתו גניוקרטיה; *Géniocratie* (וורילון, 1977), הניסוח השיטתי הייעודי"
+core_articulation = "'דמוקרטיה סלקטיבית' השוקלת זכאות פוליטית לפי אינטליגנציה מדודה — זכות ההצבעה שמורה למי שנמצאים לפחות 10% מעל ממוצע האוכלוסייה, ומשרה ציבורית למי שנמצאים לפחות 50% מעליו"
+position_within_seven_commandments = "המצווה החדשה הראשונה; ממד הממשל, לצד ההומניטריזם, ממשלה עולמית, פירוז, המדע כדת, טיפוח הטלפתיה וההבהרות המטפיזיות"
+principal_argument_structure = "דמוקרטיה של זכות בחירה כללית שוקלת כל קול באופן שווה בלי קשר ליכולת הבוחר להבין את הסוגיות; שלטון הרוב גובר לעתים קרובות על ידע מומחה (הדוגמה של קופרניקוס); מטפורת תאי הגוף גורסת שהשיפוט הפוליטי צריך להיות בידי המצוידים לו; מבחנים פסיכומטריים מספקים את קריטריון הזכאות"
+distinguished_from = "דמוקרטיה של זכות בחירה כללית (שוקלת כל הקולות באופן שווה); אריסטוקרטיה (סמכות תורשתית); פלוטוקרטיה (סמכות מבוססת עושר); מונרכיה (שליט תורשתי יחיד); תאוקרטיה (סמכות דתית); טכנוקרטיה (מומחיות טכנית מתמחה ולא אינטליגנציה כללית); מריטוקרטיה (הישגים מוכחים ולא אינטליגנציה מדודה)"
 parallel_contemporary_articulations = "Plato's philosopher-kings (*Republic*); Confucian meritocratic civil-service tradition; twentieth-century technocracy movement (Howard Scott); Bertrand Russell's scientific-oligarchy engagement; epistocracy tradition (Jason Brennan, David Estlund); John Stuart Mill's plural-voting proposal; Robert Heinlein's political articulations; Singapore meritocratic-governance experiment"
-mainstream_critical_engagement = "Measurement-validity concerns (Stephen Jay Gould's *The Mismeasure of Man*, the substantial broader critical-psychometric tradition); historical-eugenic associations (the substantial twentieth-century historical experience); democratic-egalitarian concerns (the substantial mainstream democratic-political-philosophy tradition); practical-implementation concerns (the substantial broader concerns about implementation integrity)"
-status_in_framework = "Foundational Raëlian political-governance doctrine; the first of the seven New Commandments constituting the Aquarian-age program; directional orientation rather than immediate institutional change"
-principal_corpus_treatment = "*The Book Which Tells the Truth* (Vorilhon, 1974), Sixth Chapter — principal source articulation; *Géniocratie* (Vorilhon, 1977) — the dedicated systematic articulation; *timeline.epub* — substantial subsequent corpus contextualization within the broader New Commandments framework"
+mainstream_critical_engagement = "תוקף המדידה (סטיבן ג'יי גולד, *The Mismeasure of Man*); הקשרים אאוגניים היסטוריים (גלטון והתיעוד של המאה העשרים); התנגדויות דמוקרטיות־שוויוניות (הברמאס, רולס, וולצר); יישום מעשי והסיכון להשתלטות"
+status_in_framework = "דוקטרינת ממשל ראליאנית יסודית; הראשונה משבע המצוות החדשות; אוריינטציה כיוונית לעידן הדלי ולא רפורמה מיידית"
+principal_corpus_treatment = "*הספר המגלה את האמת* (וורילון, 1974), הפרק השישי — הניסוח העיקרי; *Géniocratie* (וורילון, 1977) — ההצגה השיטתית הייעודית; הקשר מאוחר יותר בתוך מסגרת המצוות החדשות הרחבה"
 +++
 
 **Geniocracy** (from Latin *genius*, "innate ability, natural talent," and

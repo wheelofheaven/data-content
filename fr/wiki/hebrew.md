@@ -6,30 +6,40 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "the Holy Tongue", "Biblical Hebrew", "Classical Hebrew"]
+alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "la Langue sainte", "Hébreu biblique", "Hébreu classique"]
+see_also = [
+    { title = "Bible hébraïque", path = "wiki/hebrew-bible", description = "Le principal corpus conservé dans cette langue et lu pour son contenu relatif au cadre." },
+    { title = "Genèse", path = "wiki/genesis", description = "Le récit de la création dont le corpus lit la formulation hébraïque en termes opérationnels." },
+    { title = "Éden", path = "wiki/eden", description = "Le cadre du laboratoire de création où, selon cette lecture, la langue fut transmise pour la première fois." },
+    { title = "Adam et Ève", path = "wiki/adam-and-eve", description = "Les premiers humains qui, selon cette lecture, apprirent la langue parlée de leurs créateurs." },
+    { title = "Babel", path = "wiki/babel", description = "L'épisode de dispersion qui encadre la diversification de la langue originellement transmise." },
+    { title = "Zodiaque", path = "wiki/zodiac", description = "Le fil du Mazzaroth — le mazzal qui survit dans mazel tov se lit à travers le cadre zodiacal." },
+    { title = "Le moulin qui broie les âges", path = "articles/the-mill-that-grinds-the-ages", description = "Le fil astral hébreu au complet — Mazzaroth, mazzalot, et la station de l'étoile devenue bénédiction." },
+    { title = "Mazzaroth", path = "wiki/mazzaroth", description = "L'entrée consacrée au vocabulaire du mazzal et à sa survivance dans mazel tov." },
+]
 
 [extra.infobox]
 hebrew_name = "עִבְרִית"
 transliteration = "ʿivrit"
-language_family = "Semitic > Northwest Semitic > Canaanite"
-sister_languages = "Phoenician, Moabite, Ammonite (closest); Aramaic, Arabic, Akkadian, Ugaritic (broader Semitic)"
-earliest_attestation = "Paleo-Hebrew inscriptions, c. 10th century BCE (Gezer calendar; Tel Zayit abecedary)"
-biblical_period = "c. 10th–6th century BCE"
-mishnaic_period = "c. 1st–4th century CE"
-medieval_period = "c. 5th–18th century CE (literary and liturgical use)"
-modern_revival = "late 19th–early 20th century CE"
-script = "Originally Paleo-Hebrew (Phoenician-derived); later 'square script' (Aramaic-derived) from c. 5th century BCE onward"
-speakers = "Approximately 9 million (modern Israel and diaspora); historical usage as liturgical and scholarly language across global Jewish communities"
-date_type = "Historical attestation; framework reading places original transmission in the Age of Leo, c. 11,375 BCE"
-principal_text = "The Hebrew Bible (Tanakh)"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974)"
+language_family = "Sémitique > Sémitique du Nord-Ouest > Cananéen"
+sister_languages = "Phénicien, moabite, ammonite (les plus proches) ; araméen, arabe, akkadien, ougaritique (sémitique au sens large)"
+earliest_attestation = "Inscriptions paléo-hébraïques, v. Xe siècle AEC (calendrier de Gézer ; abécédaire de Tel Zayit)"
+biblical_period = "v. Xe–VIe siècle AEC"
+mishnaic_period = "v. Ier–IVe siècle EC"
+medieval_period = "v. Ve–XVIIIe siècle EC (usage littéraire et liturgique)"
+modern_revival = "fin du XIXe – début du XXe siècle EC"
+script = "À l'origine paléo-hébreu (dérivé du phénicien) ; puis « écriture carrée » (dérivée de l'araméen) à partir du Ve siècle AEC environ"
+speakers = "Environ 9 millions (Israël moderne et diaspora) ; usage historique comme langue liturgique et savante dans les communautés juives du monde entier"
+date_type = "Attestation historique ; la lecture du cadre situe la transmission originelle dans l'Ère du Lion, v. 11 375 AEC"
+principal_text = "La Bible hébraïque (Tanakh)"
+principal_framework_source = "*Le Livre qui dit la vérité* (Vorilhon/Raël, 1974)"
 +++
 
 **Hebrew** (<span class="hebrew">עִבְרִית</span>, *ʿivrit*) is a Semitic language, originally the spoken and scriptural language of the ancient Israelites, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in which it survived primarily as a liturgical and scholarly language — the official language of the modern State of Israel. It belongs to the Canaanite branch of the Northwest Semitic subfamily and is closely related to Phoenician, Moabite, and Ammonite, with broader cognate relationships across the Semitic family to Aramaic, Arabic, Akkadian, Ugaritic, and the South Semitic languages. Within Jewish tradition, Hebrew is also called *Lashon ha-Kodesh* (<span class="hebrew">לְשׁוֹן הַקֹּדֶשׁ</span>, "the holy tongue"), reflecting its status as the language of scripture and liturgy across the long centuries of diaspora Jewish life.

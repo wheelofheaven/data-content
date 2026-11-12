@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -18,7 +18,7 @@ core_versions = { woh-claim-0057 = "0.1.0" }
 editorial_pass = "2026-05"
 summary = "제6차 공개로부터 5주 후, 미국 전쟁부는 war.gov/UFO에 제7차 공개를 게시했습니다. 28건의 문서뿐 — 영상도, 음성도, 이미지도 없이 — 지금까지 가장 작은 자료군이자 전적으로 종이로만 이루어진 첫 자료군입니다. 25건은 전쟁부 자체에서, 1건은 FBI에서, 1건은 대통령실에서 나왔으며, 1건은 새로운 「미국 정부(U.S. Government)」 접두어를 달고 있습니다. 대표 파일은 최근의 것입니다. 2026년 6월 미국 서부의 한 민감한 시설에서 무광 검은 삼각형이 능선 위로 소리 없이 떠올라 호버링하다가 협곡으로 급강하하는 것을 지켜본 연방 요원들에 대한 전영역변칙해결국(All-domain Anomaly Resolution Office)의 디브리핑 기록으로, 사건 넉 달 뒤에 게시되었고, 지속 시간·크기·열에 관해 이와 어긋나는 FBI 인터뷰 기록이 함께 공개되었습니다. 그 뒤에는 2008~2010년 국방정보국의 AAWSAP 프로그램을 운영한 계약업체의 운영 기록이 자리합니다. 회수된 하드웨어와 생물학적 표본을 획득하려는 계획, 그것을 보관하도록 설계된 지하 금고, 브라질 파견, 234,364건의 목격 보고를 담은 데이터 웨어하우스, 그리고 「스킨워커」 털 표본이 목격자 자신의 개의 것으로 판명된 유타의 한 목장에 대한 조사입니다. 1962~1964년의 백악관 파일은 NASA를 대외적 얼굴로, 국방부를 분석 주체로 삼아 우주에서 떨어지는 물체에 대한 절차를 기안하는 정부를 보여 줍니다. 본 코퍼스는 제7차 공개를 귀환의 징후가 아니라 캐논을 읽기 위한 맥락으로 기록합니다."
 filed_under = "현재의 맥락"
-cross_reference = "Age of Aquarius, §IX"
+cross_reference = "물병자리 시대, §IX"
 canon_links = [
     { title = "물병자리 시대", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

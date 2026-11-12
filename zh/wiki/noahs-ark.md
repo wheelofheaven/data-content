@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,19 +15,25 @@ editorial_pass = "2026-05"
 entry_type = "event"
 alternative_names = ["Noah's Ark", "the ark of Noah", "תֵּבַת נֹחַ (Hebrew tevat Noaḥ)", "the preservation vessel", "the orbital spacecraft (corpus reading)", "كَشْتِيُّ نُوحٍ (Arabic safīnat Nūḥ)"]
 timeline = ["age-of-cancer", "age-of-gemini"]
+see_also = [
+    { title = "挪亚", path = "wiki/noah", description = "协调方舟保存行动的伊甸世系之人。" },
+    { title = "大洪水", path = "wiki/great-flood", description = "方舟为抵御它而建造的双子座时代大灾难。" },
+    { title = "路西法", path = "wiki/lucifer", description = "方舟在其指导下建造的被流放造物者派系。" },
+    { title = "挪亚之约", path = "wiki/noahic-covenant", description = "将方舟所完成之保存正式化的洪水后协议。" },
+    { title = "约柜", path = "wiki/ark-of-the-covenant", description = "后来的 aron 箱柜，英文“ark”一词将其与 tevah 混为一谈。" },
+    { title = "雷尔", path = "wiki/rael", description = "来源记述的接受者，该记述将方舟解读为一艘有屏护的保存飞船。" },
+]
 
 [extra.infobox]
-type = "Cancer-Gemini-age preservation event; orbital spacecraft constructed under exiled-creator technical direction, crewed by Noah's family"
-hebrew_term = "תֵּבָה (tevah, 'sealed vessel/container'); distinct from אֲרוֹן (aron) used for Ark of the Covenant"
-biblical_location = "Genesis 6:14-9:18 (principal narrative); subsequent references in Matthew 24:38, Luke 17:27, Hebrews 11:7, 1 Peter 3:20, 2 Peter 2:5"
-biblical_dating = "Cancer-Gemini boundary in corpus chronology (c. 6,690 BCE); mainstream conservative-evangelical Christian chronology places construction c. 2300-3000 BCE per Ussher-and-Septuagint frames"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Flood' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Gemini chapter, Sections V-VII"
-core_corpus_articulation = "Orbital spacecraft constructed under exiled-creator technical direction across centuries-long preparation period; crewed by Noah's family (eight humans) and carrying genetic-preservation cargo (single living cells per species) plus living specimens; preserved life through Council-ordered nuclear-missile cataclysm"
-architectural_specifications = "Hebrew *tevah* (sealed vessel) with three stories (Genesis 6:16); gopher wood construction with pitch coating (Genesis 6:14); 300×50×30-cubit dimensions (Genesis 6:15); single window and single door"
-cargo_specification = "Genetic-archive content (single living cells per species, male and female) plus living specimens of certain preserved species; eight human crew (Noah, his wife, Shem-Ham-Japheth, their wives); possible representatives from all seven post-flood lineages"
-operational_sequence = "Construction (centuries-long, on Earth's surface under Council observation); loading (genetic-cargo and living-specimen loading); launch (lifted off surface before/during initial weapon impacts); 150-day orbital phase (during radioactive-decay period); post-flood remediation (exiled creators 'monitored the level of radioactivity and dispersed it scientifically'); atmospheric monitoring (bird-release reconnaissance); landing (on Mount Ararat in biblical tradition)"
-distinguished_from = "The Ark of the Covenant (Aries-age sacred-container, Hebrew *aron* not *tevah*); the Tabernacle (Aries-age portable sanctuary); mainstream wooden-boat readings; conservative young-earth literal-global-flood readings; ancient-astronaut alternative spacecraft readings (Sitchin, von Däniken)"
-status_in_framework = "Foundational Cancer-Gemini-age preservation event; principal originary alliance-and-human collaborative engineering project; structural predecessor to subsequent alliance-and-human engineering projects (Babel, Tabernacle, Solomonic Temple, Embassy)"
+type = "圣经中的船只；本框架将其解读为在流亡的路西法派系指导下建造的屏护飞行器，用以让生命度过双子座时代的洪水"
+hebrew_term = "תֵּבָה（tevah，「密封的容器、箱子」）；与婴孩摩西的篮子（出埃及记 2:3）所用的是同一个罕见词，有别于表示船的普通词（oniyyah），也有别于约柜的 aron"
+biblical_location = "创世记 6:14–9:18（主要叙事）；后来的提及见马太福音 24:38；路加福音 17:27；希伯来书 11:7；彼得前书 3:20；彼得后书 2:5"
+biblical_dating = "按文集纪年为双子座时代（约公元前 6,690 年）；传统的创世记纪年在乌雪与七十士译本框架中将其定于约公元前 2,300–3,000 年"
+principal_source = "《讲述真相之书》（沃里隆，1974），「洪水」一节；汇编于《来自设计者的信息》（2005）"
+specifications = "歌斐木建造，里外抹上松香（kopher）；长 300 肘、宽 50 肘、高 30 肘；一扇窗、一扇门；分上中下三层（创世记 6:14–16）"
+ark_reading = "一艘密封、有屏护的飞行器，「从地上升起」（创世记 7:17）；松香被解读为屏护层，150 天（创世记 7:24）被解读为放射性沉降物的衰变期，所载货物被解读为遗传样本而非成对的动物"
+mesopotamian_counterparts = "阿特拉哈西斯与乌特纳皮什提姆的芦苇沥青船（《吉尔伽美什史诗》第十一块泥板）；朱苏德拉之船（苏美尔《埃利都创世记》）"
+distinguished_from = "主流的木船解读；约柜（希伯来语 aron）；年轻地球论的字面全球洪水解读；远古外星人的另类解读（西琴、冯·丹尼肯）"
 +++
 
 **Noah's Ark** (Hebrew תֵּבָה, *tevah*, a "sealed vessel" or "chest") is the

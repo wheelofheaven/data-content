@@ -5,30 +5,36 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["government UAP cover-up", "UFO cover-up", "UAP disclosure", "military cover-up of exobiology (earlier designation)", "UAP secrecy", "extraterrestrial contact cover-up"]
+alternative_names = ["dissimulation gouvernementale des PAN", "dissimulation des ovnis", "divulgation des PAN", "dissimulation militaire de l'exobiologie (désignation antérieure)", "secret sur les PAN", "dissimulation des contacts extraterrestres"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
 see_also = [
+    { title = "Ambassade", path = "wiki/embassy", description = "La réponse du canon à la question de la divulgation par une reconnaissance diplomatique formelle." },
     { title = "PURSUE", path = "wiki/pursue", description = "Le programme de publication de 2026 dont l'archive publique par défaut pèse sur la thèse du secret du côté officiel." },
+    { title = "Ufologie", path = "wiki/ufology", description = "Le champ plus large dont la question de la dissimulation est une partie contestée." },
+    { title = "Astrobiologie", path = "wiki/astrobiology", description = "L'étude scientifique de la vie extraterrestre que la dissimulation est censée cacher." },
+    { title = "Hypothèse des anciens astronautes", path = "wiki/ancient-astronaut-hypothesis", description = "Le cadre qui lit le contact UAP comme en continuité avec la présence historique des Élohim." },
+    { title = "Nouvelle Jérusalem", path = "wiki/new-jerusalem", description = "L'Ambassade-Troisième Temple qu'exigerait de construire un contact reconnu." },
+    { title = "Équation de Drake", path = "wiki/drake-equation", description = "L'estimation formelle de la probabilité de contact que présuppose le débat sur la divulgation." },
 ]
 
 [extra.infobox]
-type = "Substantive question of governmental concealment of UAP investigation and alleged contact, with substantial 2017-2024 disclosure transformation; methodologically complex subject matter operating across multiple evidential categories"
+type = "La question contestée de savoir si des gouvernements ont dissimulé des enquêtes sur les PAN et des contacts allégués ; avivée par la vague de divulgations de 2017–2024"
 documented_governmental_programs = "Project Sign 1947-1949; Project Grudge 1949-1952; Robertson Panel 1953; Project Blue Book 1952-1969; Condon Report 1968; AAWSAP 2008-2010; AATIP 2007-2012; UAP Task Force 2020-2022; AARO 2022-present"
 principal_2017_2024_disclosure_events = "NYT December 16, 2017 article disclosing AATIP; April 27, 2020 Pentagon UAP video releases; June 25, 2021 ODNI Preliminary Assessment; July 26, 2023 congressional hearings with David Grusch testimony; September 14, 2023 NASA UAP Independent Study Team report; November 13, 2024 follow-up congressional hearings"
 principal_whistleblowers = "David Grusch (2023 congressional testimony under oath; principal contemporary); Bob Lazar (1989-present; S-4 reverse-engineering claims); Robert Salas (1967 Malmstrom case); Phil Schneider (1995 lectures); Clifford Stone; Steven Greer (Disclosure Project 1993-present)"
-principal_historical_scholarship = "Richard Dolan, *UFOs and the National Security State* (2 vols., 2000, 2009); Leslie Kean, *UFOs: Generals, Pilots, and Government Officials Go on the Record* (2010); Luis Elizondo, *Imminent* (2024)"
+principal_historical_scholarship = "Richard Dolan, *UFOs and the National Security State* (2000, 2009) ; Leslie Kean, *UFOs: Generals, Pilots, and Government Officials Go on the Record* (2010) ; Luis Elizondo, *Imminent* (2024)"
 contested_document_tradition = "Majestic 12 documents (substantial authenticity disputes); substantial subsequent leaked-document tradition; the substantial CIA-MK-ULTRA-related psychological-operations engagement"
 principal_nuclear_facility_cases = "1967 Robert Salas Malmstrom AFB Minuteman missile shutdown; substantial Robert Hastings *UFOs and Nukes* documentation including approximately 150 documented multi-witness cases; 2010 National Press Club briefing"
 corpus_position = "Governmental cover-up substantively real across 1947-2017 period through demonstrated classified programs; 2017-2024 disclosure has substantially shifted question into mainstream-policy domain; substantive Vorilhon-source resolution operates through Embassy framework requiring international diplomatic recognition"
-distinguished_from = "General governmental secrecy (broader category); conspiracy theories without empirical foundation (substantively different evidential register); the broader Ufology field (cover-up question as one component); Astrobiology (the broader scientific field engaging extraterrestrial-life question)"
-status_in_framework = "Methodologically complex question engaged with substantive epistemic discipline; corpus position threads documented programs and contested allegations with substantial care"
+distinguished_from = "Le secret gouvernemental en général (catégorie plus large) ; la théorie du complot infondée (un registre de preuves différent) ; le champ plus large de l'ufologie ; l'astrobiologie"
+status_in_framework = "Un sujet empirique contesté lu à travers le canon ; l'histoire documentée et les allégations non vérifiées sont tenues séparées"
 +++
 
 **The military cover-up of exobiology** — increasingly called the

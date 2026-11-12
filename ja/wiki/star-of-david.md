@@ -6,28 +6,36 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["hexagram", "Magen David (מָגֵן דָּוִד, 'Shield of David')", "Solomon's Seal (Seal of Solomon)", "Hindu Shatkona (षट्कोण, 'six-cornered')", "Star of Goliath (older Karaite designation)", "Creator's Star", "Hex Star"]
+alternative_names = ["六芒星", "Magen David(מָגֵן דָּוִד、「ダビデの盾」)", "ソロモンの封印(ソロモンの印章)", "ヒンドゥー教のシャトコーナ(षट्कोण、「六つの角を持つ」)", "ゴリアテの星(古いカライ派の呼称)", "創造者の星", "ヘックス・スター"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "ラエル運動の無限のシンボル", path = "wiki/raelian-symbol-of-infinity", description = "ダビデの星をその外側の構成要素とする複合的な標章。" },
+    { title = "卍", path = "wiki/swastika", description = "同じ標章のもう一つの構成要素。無限の時間的次元を符号化する。" },
+    { title = "無限", path = "wiki/infinity", description = "この枠組みにとって、組み合わされた二つの三角形が表す空間的次元。" },
+    { title = "同盟", path = "wiki/the-alliance", description = "サンディが、組み合わされた二つの三角形が符号化するものとして読む、創造者と被造物の契約。" },
+    { title = "フラクタル宇宙論", path = "wiki/fractal-cosmology", description = "六芒星が表す、尺度を横断する「上のごとく下も」の構造。" },
+    { title = "二重の署名", path = "wiki/doubled-signature", description = "この象徴が例示する、対になった図像的符号化というコーパスの原理。" },
+]
 
 [extra.infobox]
 type = "Religious-iconographic symbol; hexagram comprising two intertwined equilateral triangles forming a six-pointed star; substantial cross-cultural distribution across multiple religious-traditional contexts"
-basic_form = "Two intertwined equilateral triangles, one pointing upward and one pointing downward, forming a six-pointed star (hexagram); the geometric structure produces six points and twelve outer line-segments forming the principal hexagonal outline"
-hebrew_designation = "*Magen David* (מָגֵן דָּוִד, 'Shield of David'); the Hebrew designation became the principal Jewish-cultural designation across the medieval and modern periods"
-oldest_known_usage = "Substantial pre-Jewish-symbol cross-cultural usage extending back at least 4,000-5,000 years across Mesopotamian, Mediterranean, and South Asian traditions; the specific Jewish-symbol identification is principally modern (17th century onward)"
-principal_traditional_meanings = "Cosmic correspondence (Hermetic 'as above, so below'); union of male and female divine principles (Hindu Shatkona); union of opposites and four-elements integration (Hermetic-alchemical); magical-protective seal (Solomon's Seal traditions); Jewish-cultural identification (modern Jewish-symbol usage); the alliance covenant between creators and human creation (Sendy interpretive contribution); the spatial dimension of infinity (Raëlian framework)"
-principal_cross_cultural_traditions = "Hindu (Shatkona, principally Tantric-yantra usage); Hermetic-alchemical (the four-elements-integration framework); Solomon's Seal traditions (magical-protective contexts across medieval Jewish, Christian, and Islamic traditions); Mesopotamian and ancient Mediterranean hexagram usage; medieval Christian and Islamic religious-architectural usage; modern Jewish-cultural and Zionist-political usage; Raëlian-framework iconographic correlate of the spatial dimension of infinity"
-position_in_raelian_framework = "Outer component of the Raëlian Symbol of Infinity (the composite emblem with central swastika or galaxy-spiral); represents the spatial dimension of infinity through the Hermetic 'as above, so below' principle; in Sendy's distinctive interpretive contribution, additionally represents the alliance covenant between the creators (upward triangle) and the human creation (downward triangle)"
-modern_jewish_symbol_status = "Principal Jewish-cultural symbol since approximately the late nineteenth century; adopted by the Zionist movement at the First Zionist Congress (1897); substantial Holocaust-period usage as the yellow-badge identification; adopted on the Israeli national flag (1948); continues as the principal Jewish-cultural-religious symbol in contemporary contexts"
-distinguished_from = "The Swastika (the other principal component of the Raëlian Symbol of Infinity, with its own substantial pre-Nazi religious-traditional history); the Raëlian Symbol of Infinity as composite emblem (treated under separate entry); the broader cross-cultural pentagram and other star-iconographic forms (which operate within distinct iconographic categories); the various national-flag and political-symbol usages (which operate within specific contemporary political contexts)"
-status_in_source_material = "Substantially documented; the principal Yahweh-delivered passages establish both the symbol's specific Raëlian-framework semantic content and its identification with the Hermetic 'as above, so below' principle; Sendy's distinctive interpretive contribution provides substantial additional doctrinal content"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Watching Over the Chosen People' content (the principal Yahweh passage on the emblem); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' section (the 'as above, so below' explicit articulation and the Bardo Thodol cross-reference); Jean Sendy, *L'ère du Verseau* (1970), the seal-of-Solomon-as-alliance-covenant interpretive contribution"
+basic_form = "上向きと下向きの二つの正三角形が組み合わさってできる六芒星(ヘキサグラム)。中央の六角形を囲む六つの外側の頂点"
+hebrew_designation = "*Magen David*(מָגֵן דָּוִד、「ダビデの盾」)。中世と近代を通じたユダヤ教の標準的な名称"
+oldest_known_usage = "ヘキサグラムは、ユダヤとの結びつきよりはるか以前から、メソポタミア、地中海、南アジアの諸伝統で文化横断的に用いられてきた。ユダヤのシンボルとしての特定の同定は近代のものである(17世紀以降)"
+principal_traditional_meanings = "宇宙的な照応(「上にあるがごとく、下にもしかり」、ヘルメス主義)。男性原理と女性原理の結合(ヒンドゥー教のシャトコナ)。対立物と四元素の結合(ヘルメス主義・錬金術)。護符の印章(ソロモンの封印)。ユダヤ人のアイデンティティ(近代)。創造者たちと人類との同盟(サンディ)。無限の空間的側面(ラエルの枠組み)"
+principal_cross_cultural_traditions = "ヒンドゥー教(シャトコナ)。ヘルメス主義・錬金術(四元素の図形)。ソロモンの封印(中世のユダヤ教、キリスト教、イスラームの文脈における魔術的・護符的な使用)。メソポタミアと地中海のヘキサグラムの使用。近代のユダヤとシオニズムの使用。ラエルの枠組み"
+position_in_raelian_framework = "ラエルの無限のシンボル(中央に卍または銀河の渦巻きを置く複合的な紋章)の外側の構成要素。「上にあるがごとく、下にもしかり」を通じて無限の空間的側面を表す。サンディの読解では、創造者たち(上向きの三角形)と人類(下向きの三角形)との同盟の印章"
+modern_jewish_symbol_status = "おおよそ19世紀後半以来のユダヤ教の主要なシンボル。第1回シオニスト会議(1897年)でシオニズム運動に採用された。ナチス政権下では識別用の黄色いバッジとして強制された。イスラエルの国旗に置かれた(1948年)"
+distinguished_from = "卍(ラエルの無限のシンボルのもう一つの構成要素)。ラエルの無限のシンボルそのもの(別項目)。五芒星その他の星形。特定の国家的・政治的使用としてのイスラエルの国旗"
+status_in_source_material = "記録されている。ヤハウェの言葉がこのシンボルに「上にあるがごとく、下にもしかり」という意味を与え、サンディが同盟の契約という読解を加えている"
+principal_text = "*The Book Which Tells the Truth*(1974年)、「Watching Over the Chosen People」。*Extra-Terrestrials Took Me to Their Planet*(1975年)、「Neither God nor Soul」。ジャン・サンディ、*L'ère du Verseau*(1970年)"
 +++
 
 **The Star of David** (Hebrew מָגֵן דָּוִד, *Magen David*, "Shield of David") is a

@@ -6,31 +6,39 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
-translation_stale = true
+translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
 alternative_names = ["U.S. Space Force", "USSF", "Space Force", "United States Space Force"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Militärische Vertuschung der Exobiologie", path = "wiki/military-cover-up-of-exobiology", description = "Die Frage nach Vertuschung und Offenlegung von UAP, neben der die Gründung der Space Force zeitlich steht." },
+    { title = "Ufologie", path = "wiki/ufology", description = "Das Feld, dessen alternative Literatur die Teilstreitkraft mit dem umfassenderen UAP-Rahmen verbindet." },
+    { title = "Astrobiologie", path = "wiki/astrobiology", description = "Die Wissenschaft vom außerirdischen Leben, mit der sich die Mission im Weltraum kontextuell überschneidet." },
+    { title = "Drake-Gleichung", path = "wiki/drake-equation", description = "Die Schätzung außerirdischer Zivilisationen, die die umgebende Offenlegungsdebatte voraussetzt." },
+    { title = "Prä-Astronautik-Hypothese", path = "wiki/ancient-astronaut-hypothesis", description = "Die Position eines Kontakts in der Vergangenheit, die das Korpus neben der gegenwärtigen UAP-Offenlegungsdebatte liest." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "Der Rahmen, der diese etablierte militärische Entwicklung in den Kontext des Wassermann-Zeitalters stellt." }
+]
 
 [extra.infobox]
-type = "Sixth and youngest branch of U.S. Armed Forces; established December 20, 2019; operates under Department of the Air Force; substantive mission focus on military operations in space domain"
-establishment_date = "December 20, 2019 through National Defense Authorization Act for Fiscal Year 2020, signed by President Donald Trump"
+type = "Sechste und jüngste Teilstreitkraft der US-Streitkräfte; gegründet am 20. Dezember 2019; untersteht dem Department of the Air Force; Auftrag mit Schwerpunkt auf militärischen Operationen im Weltraum"
+establishment_date = "20. Dezember 2019, durch den National Defense Authorization Act for Fiscal Year 2020, unterzeichnet von Präsident Donald Trump"
 predecessor = "Air Force Space Command (1982-2019; subsumed into USSF)"
-parent_department = "Department of the Air Force (parallel to U.S. Marine Corps under Department of the Navy)"
+parent_department = "Department of the Air Force (analog zum U.S. Marine Corps unter dem Department of the Navy)"
 principal_commands = "Space Operations Command (SpOC); Space Systems Command (SSC); Space Training and Readiness Command (STARCOM)"
-service_member_designation = "Guardians (adopted December 18, 2020)"
-principal_missions = "Satellite operations; missile warning and missile defense support; space situational awareness; GPS operations; offensive and defensive space operations; space domain awareness"
+service_member_designation = "Guardians (eingeführt am 18. Dezember 2020)"
+principal_missions = "Satellitenbetrieb; Raketenwarnung und Unterstützung der Raketenabwehr; Weltraumlagebild; GPS-Betrieb; offensive und defensive Weltraumoperationen; Lagebewusstsein im Weltraum"
 fy2024_budget = "Approximately $30 billion (increased from $15.4 billion at 2020 establishment)"
 international_parallels = "Russia VKS Space Forces (2015); China PLA Aerospace Force (2024, reorganized from PLA Strategic Support Force 2015); France Commandement de l'espace (2019); UK Space Command (2021); substantial subsequent national space-military establishments"
 bipartisan_continuity = "Trump administration 2017-2021 (establishment); Biden administration 2021-2025 (maintenance and expansion); Trump administration 2025-present (continuation)"
 uap_disclosure_intersection = "Establishment in temporal proximity to 2017-2024 UAP disclosure transformation; broader space-domain awareness mission operates at intersection with substantial UAP detection capability"
 corpus_position = "Documented mainstream military development; substantial alternative-ufological engagement connecting USSF to broader UAP framework with substantively varying methodological support; Vorilhon source does not articulate USSF substantively as principal corpus content; engaged at descriptive level"
-distinguished_from = "NASA (the civilian space agency; distinct organizational and mission framework); other U.S. military branches operating in space domain prior to 2019 USSF establishment; the broader UAP cover-up question (treated in the Government UAP Cover-up and Disclosure entry)"
-status_in_framework = "Documented contemporary development at intersection of mainstream military policy and broader Aquarian-age framework; engaged with substantive epistemic discipline"
+distinguished_from = "NASA (die zivile Raumfahrtbehörde); die US-Teilstreitkräfte, die vor 2019 im Weltraum operierten; die umfassendere Frage nach Vertuschung und Offenlegung von UAP (behandelt im Eintrag zur militärischen Vertuschung der Exobiologie)"
+status_in_framework = "Eine belegte zeitgenössische Entwicklung mit geringem Bezug zum Rahmen; randständig gegenüber dem Kanon, dessen eigene Antwort auf die Offenlegungsfrage die Botschaft ist und nicht irgendeine Teilstreitkraft"
 +++
 
 **The U.S. Space Force** (USSF) is the sixth and youngest branch of the United

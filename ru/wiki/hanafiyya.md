@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -19,6 +19,14 @@ entry_type = "concept"
 claim_type = "inferred"
 timeline = ["pisces"]
 alternative_names = ["ٱلْحَنِيفِيَّة (al-Ḥanīfiyyah)", "حَنِيف (ḥanīf, ед. ч.)", "حُنَفَاء (ḥunafāʾ, мн. ч.)", "millat Ibrāhīm («религия Авраама»)", "dīn Ibrāhīm", "изначальный монотеизм", "религия праведных"]
+see_also = [
+    { title = "Авраам", path = "wiki/abraham", description = "Основатель, утраченную изначальную религию которого стремится восстановить Ханифия." },
+    { title = "Мухаммад", path = "wiki/muhammad", description = "Представлен Кораном как возвращающийся к millat Ibrāhīm, которую называет Ханифия." },
+    { title = "Петра", path = "wiki/petra", description = "Предложенное Гибсоном изначальное место движения, впервые назвавшего себя Ханифией." },
+    { title = "Набатеи", path = "wiki/nabataeans", description = "Арамейско-христианская среда, причастная к передаче термина через родственное ḥanpā." },
+    { title = "Элохим", path = "wiki/elohim", description = "Создатели, авраамическую программу восстановления которых, по прочтению корпуса, продолжает Ханифия." },
+    { title = "Список пророков и религий", path = "wiki/list-of-prophets-and-religions", description = "Место Ханифии среди традиций, взращённых альянсом на протяжении эпох." },
+]
 
 [extra.infobox]
 type = "Коранический и раннеисламский термин для изначального монотеизма Авраама; предполагаемое исходное самоназвание раннего ислама"

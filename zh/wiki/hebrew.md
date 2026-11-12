@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -14,22 +14,32 @@ category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "text"
 alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "the Holy Tongue", "Biblical Hebrew", "Classical Hebrew"]
+see_also = [
+    { title = "希伯来圣经", path = "wiki/hebrew-bible", description = "以这种语言保存、并被解读其框架内容的主要文集。" },
+    { title = "创世记", path = "wiki/genesis", description = "其希伯来措辞被文集作操作性解读的创世记载。" },
+    { title = "伊甸", path = "wiki/eden", description = "按此解读，这门语言最初被传授的创造实验室场景。" },
+    { title = "亚当与夏娃", path = "wiki/adam-and-eve", description = "按此解读，学会其创造者口语的最初人类。" },
+    { title = "巴别", path = "wiki/babel", description = "为最初被传授的语言之分化提供框架的离散事件。" },
+    { title = "黄道十二宫", path = "wiki/zodiac", description = "Mazzaroth 线索——在 mazel tov 中留存下来的 mazzal，透过黄道带框架来解读。" },
+    { title = "碾磨诸纪元的磨坊", path = "articles/the-mill-that-grinds-the-ages", description = "完整的希伯来星辰线索——Mazzaroth、mazzalot，以及星辰的位置如何变成了祝福。" },
+    { title = "Mazzaroth", path = "wiki/mazzaroth", description = "关于 mazzal 词汇及其在 mazel tov 中留存的专门条目。" },
+]
 
 [extra.infobox]
 hebrew_name = "עִבְרִית"
 transliteration = "ʿivrit"
-language_family = "Semitic > Northwest Semitic > Canaanite"
-sister_languages = "Phoenician, Moabite, Ammonite (closest); Aramaic, Arabic, Akkadian, Ugaritic (broader Semitic)"
-earliest_attestation = "Paleo-Hebrew inscriptions, c. 10th century BCE (Gezer calendar; Tel Zayit abecedary)"
-biblical_period = "c. 10th–6th century BCE"
-mishnaic_period = "c. 1st–4th century CE"
-medieval_period = "c. 5th–18th century CE (literary and liturgical use)"
-modern_revival = "late 19th–early 20th century CE"
-script = "Originally Paleo-Hebrew (Phoenician-derived); later 'square script' (Aramaic-derived) from c. 5th century BCE onward"
-speakers = "Approximately 9 million (modern Israel and diaspora); historical usage as liturgical and scholarly language across global Jewish communities"
-date_type = "Historical attestation; framework reading places original transmission in the Age of Leo, c. 11,375 BCE"
-principal_text = "The Hebrew Bible (Tanakh)"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974)"
+language_family = "闪米特语族 > 西北闪米特语支 > 迦南语组"
+sister_languages = "腓尼基语、摩押语、亚扪语（最接近）；阿拉米语、阿拉伯语、阿卡德语、乌加里特语（更广的闪米特语）"
+earliest_attestation = "古希伯来文铭文，约公元前 10 世纪（基色历；Tel Zayit 字母表）"
+biblical_period = "约公元前 10–6 世纪"
+mishnaic_period = "约公元 1–4 世纪"
+medieval_period = "约公元 5–18 世纪（文学与礼仪使用）"
+modern_revival = "公元 19 世纪末至 20 世纪初"
+script = "最初为古希伯来字母（源自腓尼基字母）；约公元前 5 世纪起为「方块字母」（源自阿拉米字母）"
+speakers = "约 900 万（现代以色列及海外散居者）；历史上作为全球犹太社群的礼仪与学术语言"
+date_type = "历史佐证；本框架的解读把最初的传授置于狮子座时代，约公元前 11,375 年"
+principal_text = "希伯来圣经（塔纳赫）"
+principal_framework_source = "《讲述真相之书》（沃里隆／雷尔，1974）"
 +++
 
 **Hebrew** (<span class="hebrew">עִבְרִית</span>, *ʿivrit*) is a Semitic language, originally the spoken and scriptural language of the ancient Israelites, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in which it survived primarily as a liturgical and scholarly language — the official language of the modern State of Israel. It belongs to the Canaanite branch of the Northwest Semitic subfamily and is closely related to Phoenician, Moabite, and Ammonite, with broader cognate relationships across the Semitic family to Aramaic, Arabic, Akkadian, Ugaritic, and the South Semitic languages. Within Jewish tradition, Hebrew is also called *Lashon ha-Kodesh* (<span class="hebrew">לְשׁוֹן הַקֹּדֶשׁ</span>, "the holy tongue"), reflecting its status as the language of scripture and liturgy across the long centuries of diaspora Jewish life.

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,20 +15,31 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the zodiac belt", "the zodiacal circle", "*zōidiakos kyklos* (Greek: ζῳδιακὸς κύκλος, 'circle of small figures')", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "the celestial circle", "the wheel of heaven (in older usage)", "the twelve houses (in astrological usage)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "世界时代", path = "wiki/world-age", description = "每个黄道分段在框架历法中所标示的岁差时代。" },
+    { title = "双重署名", path = "wiki/doubled-signature", description = "由黄道六条成对对宫轴线所产生的原则。" },
+    { title = "哈姆雷特的磨坊", path = "wiki/hamlets-mill", description = "跨文化解读黄道—岁差编码的学术锚点。" },
+    { title = "宇宙链", path = "wiki/cosmic-chain", description = "黄道历法所构建的更广年代框架。" },
+    { title = "希伯来圣经", path = "wiki/hebrew-bible", description = "其 Mazzaroth 内容被文集透过黄道框架解读的一个传统。" },
+    { title = "Jean Sendy", path = "wiki/jean-sendy", description = "其“黄道宗教”解读先于文集岁差论述的作者。" },
+    { title = "碾磨诸纪元的磨坊", path = "articles/the-mill-that-grinds-the-ages", description = "黄道作为大年的十二个时辰，每个时代以其春分点所在星座命名。" },
+    { title = "Mazzaroth", path = "wiki/mazzaroth", description = "黄道的希伯来名称——约伯记 38 章的 Mazzaroth 及其 mazzal 后裔。" },
+    { title = "屠牛像", path = "wiki/tauroctony", description = "被解读为金牛座时代星图的密特拉屠牛像。" },
+]
 
 [extra.infobox]
-type = "Structural-foundational concept; the principal observational-symbolic framework underlying the precessional age system"
-definition = "The band of sky extending approximately 8° on either side of the ecliptic, divided into twelve constellational regions named after small figures (animal, human, and inanimate) traversed by the sun, moon, and planets in their apparent celestial motion"
-the_twelve_signs = "Aries (the Ram), Taurus (the Bull), Gemini (the Twins), Cancer (the Crab), Leo (the Lion), Virgo (the Virgin), Libra (the Scales), Scorpio (the Scorpion), Sagittarius (the Archer), Capricorn (the Sea-Goat), Aquarius (the Water-Bearer), Pisces (the Fishes)"
-six_paired_oppositions = "Aries↔Libra, Taurus↔Scorpio, Gemini↔Sagittarius, Cancer↔Capricorn, Leo↔Aquarius, Virgo↔Pisces — six axes producing the doubled-signature principle"
-ecliptic_basis = "The ecliptic — the apparent annual path of the sun against the stellar background, produced by Earth's orbital motion around the sun, inclined approximately 23.44° to the celestial equator"
-constellational_basis = "The twelve constellations occupy varying angular extents along the ecliptic (modern IAU boundaries; idealized 30°-per-sign in classical astrological usage); the constellations are not equal in size — Virgo is the largest, Capricorn among the smallest"
-mechanism_of_precessional_relevance = "The vernal equinox precesses backward (westward) through the zodiac at approximately one constellation per 2,160 years, producing the precessional age sequence (Capricorn → Sagittarius → Scorpio → ... → Pisces → Aquarius → back to Capricorn)"
-framework_reading = "The zodiac as the alliance's engineering tool — the long-duration calendrical framework devised by the Elohim for their interstellar biotech program, with the zodiacal names and the paired-opposition structure operating as functional engineering features rather than mystical-aesthetic conventions"
-zodiacal_names_origin = "On the corpus's reading: the Elohim's own conceptual shorthand for the twelve ecliptic segments, inherited by human civilizations through cultural transmission across the post-flood ages; later human civilizations modified the figures while preserving the underlying twelve-fold structure"
-distinguished_from = "Mainstream astrology's tropical zodiac (signs tied to seasonal positions rather than actual constellational positions, decoupled from precessional motion); the various cross-cultural zodiacal-equivalent traditions (Chinese twelve-animal cycle, Indian nakshatra system, Mesoamerican calendrical traditions) which preserve substantive parallel content within distinctive cultural framings; the broader astronomical constellational framework (the 88 IAU-defined constellations of which the twelve zodiacal constellations are a subset)"
-status_in_framework = "Foundational; the zodiac operates as the principal observational-symbolic complement to the World Age temporal framework, with the two together constituting the corpus's principal cosmic-chronological architecture"
-principal_corpus_treatment = "*timeline.epub*, particularly the Libra chapter's Section VI.2 ('The Zodiacal Framework as Engineering Tool'); Jean Sendy, *L'ère du Verseau* (1970), with substantial systematic engagement with Moses's use of zodiacal symbolism (the *religion zodiacale* framework)"
+type = "沿黄道分布的星座带；岁差世界时代所依据的观测框架"
+definition = "在黄道两侧各延伸约 8° 的天空带，分为十二个星座区域，以小型形象（动物、人物与无生命之物）命名，太阳、月亮与行星在其视运动中穿行其间"
+the_twelve_signs = "白羊座（公羊）、金牛座（公牛）、双子座（双胞胎）、巨蟹座（螃蟹）、狮子座（狮子）、处女座（处女）、天秤座（天平）、天蝎座（蝎子）、射手座（射手）、摩羯座（海山羊）、水瓶座（持水者）、双鱼座（双鱼）"
+six_paired_oppositions = "白羊座↔天秤座、金牛座↔天蝎座、双子座↔射手座、巨蟹座↔摩羯座、狮子座↔水瓶座、处女座↔双鱼座——六条轴线构成双重署名原则"
+ecliptic_basis = "黄道——太阳在恒星背景上一年中的视路径，由地球绕太阳的公转运动产生，与天赤道约成 23.44° 的倾角"
+constellational_basis = "十二个星座沿黄道所占的角度范围各不相同（现代国际天文学联合会边界；古典占星用法中理想化为每宫 30°）；各星座大小不一——处女座最大，巨蟹座最小"
+mechanism_of_precessional_relevance = "春分点沿黄道向后（向西）岁差运动，约每 2,160 年移过一个星座，形成岁差时代的序列（摩羯座 → 射手座 → 天蝎座 → …… → 双鱼座 → 水瓶座 → 回到摩羯座）"
+framework_reading = "黄道带作为耶洛因的工程工具——为其地球计划设计的长周期历法，其名称与成对相对的结构是功能性特征，而非神秘的惯例"
+zodiacal_names_origin = "按文集的解读，是耶洛因自己对十二个黄道区段的简称，经洪水后的文化传承为人类各文明所继承，在保留十二分结构的同时有所改动"
+distinguished_from = "主流占星学的回归黄道（星座与季节位置挂钩，而非实际星座，与岁差脱钩）；以自身框架承载平行内容的跨文化黄道对应体系（中国的十二生肖周期、印度的星宿体系、中美洲的历法传统）；以及更广的天文星座集合（国际天文学联合会的 88 个星座，十二个黄道星座是其子集）"
+status_in_framework = "基础性；黄道带是世界时代纪年在观测—象征上的补充，两者共同构成文集的宇宙—纪年架构"
+principal_corpus_treatment = "*timeline.epub*，尤其是天秤座一章的 'The Zodiacal Framework as Engineering Tool'；让·桑迪，*L'ère du Verseau*（1970），论摩西对黄道象征的运用（*religion zodiacale*）"
 +++
 
 The **Zodiac** (Greek: ζῳδιακὸς κύκλος, *zōidiakos kyklos*, "circle of small

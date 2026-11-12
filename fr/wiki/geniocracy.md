@@ -6,27 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Geniocracy (proper-noun framework concept)", "selective democracy (Vorilhon source-textual designation)", "the first New Commandment", "the Raëlian political-governance doctrine", "Géniocratie (French)", "government by the geniuses (descriptive expansion)"]
+alternative_names = ["Geniocracy (proper-noun framework concept)", "selective democracy (Vorilhon source-textual designation)", "le premier Nouveau Commandement", "the Raëlian political-governance doctrine", "Géniocratie (français)", "government by the geniuses (descriptive expansion)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Humanitarisme", path = "wiki/humanitarianism", description = "Le commandement de la propriété et de l'héritage associé à la Géniocratie dans les Nouveaux commandements." },
+    { title = "Nouveaux commandements", path = "wiki/new-commandments", description = "Le programme du Verseau en sept parties dont la Géniocratie est le premier commandement." },
+    { title = "Yahvé", path = "wiki/yahweh", description = "Le président des Élohim qui exposa la doctrine à Vorilhon." },
+    { title = "Raël", path = "wiki/rael", description = "Le destinataire de la doctrine et fondateur du Mouvement pour la géniocratie mondiale." },
+    { title = "Le Message donné par les extra-terrestres", path = "wiki/message-from-the-designers", description = "Le texte source consolidé qui consigne la formulation originelle de la doctrine." },
+    { title = "Raëlisme", path = "wiki/raelism", description = "Le mouvement au sein duquel la Géniocratie fonctionne comme doctrine politique fondatrice." },
+]
 
 [extra.infobox]
-type = "Raëlian political-governance doctrine; the first of the seven New Commandments delivered to Vorilhon during the December 1973 contact"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), Sixth Chapter (The New Commandments), section titled Geniocracy; *Géniocratie* (Vorilhon, 1977), the dedicated systematic articulation"
-core_articulation = "'Selective democracy' restricting political eligibility to those whose measured intelligence exceeds specified thresholds — voting reserved for those at least 10% above population average, eligibility for public office reserved for those at least 50% above"
-position_within_seven_commandments = "First New Commandment; the political-governance dimension complementing Humanitarianism, World Government, Demilitarization, Science as Religion, Telepathic Cultivation, and the Metaphysical Clarifications"
-principal_argument_structure = "Universal-suffrage democracy weighs votes equally regardless of capacity to understand issues; majority-rule frequently contradicts expert knowledge (Copernicus example); cells-of-the-body metaphor articulates that specialized capacities should make decisions for the broader system; psychometric measurement provides technical basis for eligibility restriction"
-distinguished_from = "Universal-suffrage democracy (which weighs all votes equally); aristocracy (hereditary-based political authority); plutocracy (wealth-based political authority); monarchy (single-individual hereditary political authority); theocracy (religious-authority-based political authority); technocracy (technical-expertise-based political authority operating substantively differently from intelligence-based selection)"
+type = "Doctrine raëlienne de gouvernement ; le premier des sept Nouveaux Commandements transmis à Vorilhon lors du contact de décembre 1973"
+principal_source = "*Le Livre qui dit la vérité* (Vorilhon, 1974), sixième chapitre (« Les nouveaux commandements »), section intitulée « La géniocratie » ; *La Géniocratie* (Vorilhon, 1977), la formulation systématique dédiée"
+core_articulation = "Une « démocratie sélective » qui pondère l'éligibilité politique en fonction de l'intelligence mesurée — le vote étant réservé aux personnes se situant au moins 10 % au-dessus de la moyenne de la population, les fonctions publiques à celles se situant au moins 50 % au-dessus"
+position_within_seven_commandments = "Premier Nouveau Commandement ; la dimension de la gouvernance, aux côtés de l'Humanitarisme, du Gouvernement mondial, de la Démilitarisation, de la Science comme religion, de la Culture télépathique et des Clarifications métaphysiques"
+principal_argument_structure = "La démocratie au suffrage universel accorde le même poids à chaque voix, quelle que soit la capacité de l'électeur à comprendre les enjeux ; la règle de la majorité l'emporte souvent sur le savoir des experts (l'exemple de Copernic) ; la métaphore des cellules du corps soutient que le jugement politique devrait revenir à ceux qui sont équipés pour l'exercer ; les tests psychométriques fournissent le critère d'éligibilité"
+distinguished_from = "La démocratie au suffrage universel (qui pondère toutes les voix de façon égale) ; l'aristocratie (autorité héréditaire) ; la ploutocratie (autorité fondée sur la richesse) ; la monarchie (un souverain héréditaire unique) ; la théocratie (autorité religieuse) ; la technocratie (expertise technique spécialisée plutôt qu'intelligence générale) ; la méritocratie (réussite démontrée plutôt qu'intelligence mesurée)"
 parallel_contemporary_articulations = "Plato's philosopher-kings (*Republic*); Confucian meritocratic civil-service tradition; twentieth-century technocracy movement (Howard Scott); Bertrand Russell's scientific-oligarchy engagement; epistocracy tradition (Jason Brennan, David Estlund); John Stuart Mill's plural-voting proposal; Robert Heinlein's political articulations; Singapore meritocratic-governance experiment"
-mainstream_critical_engagement = "Measurement-validity concerns (Stephen Jay Gould's *The Mismeasure of Man*, the substantial broader critical-psychometric tradition); historical-eugenic associations (the substantial twentieth-century historical experience); democratic-egalitarian concerns (the substantial mainstream democratic-political-philosophy tradition); practical-implementation concerns (the substantial broader concerns about implementation integrity)"
-status_in_framework = "Foundational Raëlian political-governance doctrine; the first of the seven New Commandments constituting the Aquarian-age program; directional orientation rather than immediate institutional change"
-principal_corpus_treatment = "*The Book Which Tells the Truth* (Vorilhon, 1974), Sixth Chapter — principal source articulation; *Géniocratie* (Vorilhon, 1977) — the dedicated systematic articulation; *timeline.epub* — substantial subsequent corpus contextualization within the broader New Commandments framework"
+mainstream_critical_engagement = "La validité de la mesure (Stephen Jay Gould, *The Mismeasure of Man*) ; les associations historiques avec l'eugénisme (Galton et l'histoire du XXe siècle) ; les objections démocratiques et égalitaires (Habermas, Rawls, Walzer) ; la mise en œuvre pratique et le risque de captation"
+status_in_framework = "Doctrine raëlienne fondatrice de gouvernance ; le premier des sept Nouveaux Commandements ; une orientation directrice pour l'ère du Verseau plutôt qu'une réforme immédiate"
+principal_corpus_treatment = "*Le Livre qui dit la vérité* (Vorilhon, 1974), sixième chapitre — la formulation principale ; *Géniocratie* (Vorilhon, 1977) — l'exposé systématique dédié ; contextualisation ultérieure dans le cadre plus large des Nouveaux Commandements"
 +++
 
 **Geniocracy** (from Latin *genius*, "innate ability, natural talent," and

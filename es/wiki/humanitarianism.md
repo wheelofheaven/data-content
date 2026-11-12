@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,26 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Humanitarianism (proper-noun framework concept)", "humanitarianism (lowercase, when used in mainstream sense)", "the second New Commandment", "the Raëlian property-and-inheritance doctrine", "the forty-nine-year rental doctrine"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Geniocracia", path = "wiki/geniocracy", description = "El mandamiento de gobierno político emparejado con el humanitarismo en los Nuevos Mandamientos." },
+    { title = "Nuevos Mandamientos", path = "wiki/new-commandments", description = "El programa de Acuario en siete partes del que el humanitarismo es el segundo mandamiento." },
+    { title = "Biblia hebrea", path = "wiki/hebrew-bible", description = "La fuente de la tradición del Jubileo de Levítico 25, que fundamenta el mandato de cuarenta y nueve años." },
+    { title = "Yahvé", path = "wiki/yahweh", description = "El presidente de los Elohim que expuso la doctrina a Vorilhon." },
+    { title = "Raël", path = "wiki/rael", description = "El receptor y transmisor de la doctrina socioeconómica." },
+    { title = "Mensaje de los Diseñadores", path = "wiki/message-from-the-designers", description = "El texto fuente consolidado que recoge la formulación original de la doctrina." },
+]
 
 [extra.infobox]
-type = "Raëlian socio-economic doctrine; the second of the seven New Commandments delivered to Vorilhon during the December 1973 contact"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), Sixth Chapter (The New Commandments), section titled Humanitarianism"
-core_articulation = "Abolition of property ownership in favor of forty-nine-year rental tenures; elimination of inheritance beyond the family home; substantive reorientation toward equality of opportunity and merit-based individual reward across a single generational lifespan"
-scriptural_anchor = "Leviticus 25:8-23 (the Jubilee tradition); the sabbatical-year cycle of seven sevens producing the forty-ninth year as the year of release; *'The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me'* (Leviticus 25:23)"
-position_within_seven_commandments = "Second New Commandment; the property-and-inheritance dimension complementing Geniocracy (political-governance), World Government (political-coordination), Demilitarization (peace), Science as Religion (religious-cultural), Telepathic Cultivation (cognitive-developmental), and the Metaphysical Clarifications (doctrinal-cosmological)"
-distinguished_from = "Capitalism (permits inheritance-based concentration of wealth across generations); Communism (registered by the source as failing through inadequate incentive structures); mainstream humanitarianism (the broader generic-noun concept of humanitarian aid and human-welfare commitment, distinct from the proper-noun Raëlian socio-economic doctrine)"
+type = "Doctrina socioeconómica raeliana; el segundo de los siete Nuevos Mandamientos que Yahvé transmitió a Vorilhon durante el contacto de diciembre de 1973"
+principal_source = "*El libro que dice la verdad* (Vorilhon, 1974), capítulo sexto (Los nuevos mandamientos), sección titulada «Humanitarismo»"
+core_articulation = "Abolición de la propiedad plena en favor de arrendamientos de cuarenta y nueve años; fin de la herencia más allá de la vivienda familiar; igualdad de oportunidades al nacer combinada con una recompensa basada en el mérito a lo largo de una sola vida"
+scriptural_anchor = "Levítico 25:8-23 (el Jubileo); el ciclo sabático de siete veces siete que produce el año cuadragésimo noveno de liberación; *«The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me»* (Levítico 25:23)"
+position_within_seven_commandments = "Segundo Nuevo Mandamiento; la dimensión de la propiedad y la herencia, junto a la Geniocracia (gobierno), el Gobierno Mundial (coordinación), la Desmilitarización (paz), la Ciencia como Religión (religiosa-cultural), el Cultivo Telepático (cognitiva) y las Aclaraciones Metafísicas (doctrinal)"
+distinguished_from = "El capitalismo (permite la concentración de la riqueza basada en la herencia); el comunismo (que la fuente considera fracasado por falta de incentivos); el humanitarismo corriente (la ética genérica de la ayuda humanitaria, distinta de la doctrina raeliana del Humanitarismo con mayúscula)"
 parallel_contemporary_articulations = "Steiner-Vallentyne left-libertarian school (Hillel Steiner, Peter Vallentyne); Georgism (Henry George); Freiwirtschaft (Silvio Gesell); property-owning democracy (Rawls, Anderson); inheritance-reform scholarship (Piketty); Universal Basic Income (UBI) movement"
-parallel_cross_cultural_traditions = "Hebrew Bible Jubilee (Leviticus 25); early Christian community-of-goods (Acts 2:44-45, 4:32-37); monastic common-ownership traditions (Benedictine, Franciscan); Islamic zakat and waqf; Buddhist sangha property arrangements; indigenous common-property traditions; nineteenth-century utopian-experimental communities; Israeli kibbutz movement"
-status_in_framework = "Foundational Raëlian socio-economic doctrine; one of the seven New Commandments constituting the Aquarian-age program; directional orientation rather than immediate institutional change"
-principal_corpus_treatment = "*The Book Which Tells the Truth* (Vorilhon, 1974), Sixth Chapter — principal source articulation; *timeline.epub* — substantial subsequent corpus contextualization within the broader New Commandments framework"
+parallel_cross_cultural_traditions = "El Jubileo hebreo (Levítico 25); la comunidad de bienes del cristianismo primitivo (Hechos 2, 4); la propiedad común monástica (benedictina, franciscana); el zakat y el waqf islámicos; la sangha budista; las tradiciones indígenas de propiedad común; las comunas utópicas y el kibutz israelí"
+status_in_framework = "Doctrina socioeconómica raeliana fundacional; uno de los siete Nuevos Mandamientos; una orientación para la Era de Acuario y no una reforma inmediata"
+principal_corpus_treatment = "*El libro que dice la verdad* (Vorilhon, 1974), capítulo sexto: la formulación principal; contextualización posterior dentro del marco más amplio de los Nuevos Mandamientos"
 +++
 
 **Humanitarianism** is, in the Wheel of Heaven framework, the Raëlian doctrine

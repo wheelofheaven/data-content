@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -18,8 +18,17 @@ alternative_names = ["נָבִיא", "navi", "προφήτης", "prophētēs", 
 portrait_id = "prophetic-lineage"
 image = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.avif"
-image_alt = "AI-generated editorial group portrait of the prophetic lineage, with figures from multiple eras arranged around a luminous axis."
-image_caption = "Interpretive portrait for the Prophet wiki entry and cross-tradition metadata."
+image_alt = "דיוקן קבוצתי עריכתי שנוצר בבינה מלאכותית של השושלת הנבואית, ובו דמויות מתקופות רבות המסודרות סביב ציר זוהר."
+image_caption = "דיוקן פרשני לערך הוויקי על הנביא ולמטא־נתונים הבין־מסורתיים."
+see_also = [
+    { title = "יהוה", path = "wiki/yahweh", description = "דמות האלוהים שמוסד הנבואה משמש לה כבן־שיח." },
+    { title = "אדם וחוה", path = "wiki/adam-and-eve", description = "השושלת הפותחת את רשימת הנביאים בתקופה שלאחר עדן." },
+    { title = "נוח", path = "wiki/noah", description = "דמות טרום־מבולית שהקורפוס דן בה כמועמד לנבואה; הקנון אינו מונה אותו בין הנביאים." },
+    { title = "אברהם", path = "wiki/abraham", description = "נביא מן האבות בהכנה המצטברת שהמוסד מחולל." },
+    { title = "משה", path = "wiki/moses", description = "נביא עברי מרכזי במנגנון המגע המתווך." },
+    { title = "ישוע", path = "wiki/jesus", description = "אחד משני נביאי עידן הדגים ברצף." },
+    { title = "ארבעים הכיסאות", path = "articles/the-forty-chairs", description = "הקנון מונה חמישה מתוך כארבעים הנביאים היושבים; המאמר בונה את הכלי להכרעה מי עוד ישב סביב השולחן." },
+]
 +++
 
 **Prophet** (Greek: *προφήτης*, *prophētēs*, "one who speaks for"; Hebrew: <span class="hebrew">נָבִיא</span>, *navi*, "one who is called" or "one who proclaims"; Arabic: <span class="hebrew">نبي</span>, *nabī*; Latin: *propheta*) is a human figure who, in the religious traditions of Judaism, Christianity, Islam, and many other systems, serves as a mediator between the divine and the human, receiving communications from the divine and transmitting them to a human audience. The role is universal across the major religious traditions, though its specific shape — the manner of communication, the social position of the prophet, the content of the messages, the relationship to institutional religion — varies substantially across traditions and across periods within traditions. In the Hebrew Bible alone, the prophetic literature occupies a substantial portion of the canon, with the Major and Minor Prophets together comprising fifteen named figures whose oracles, narratives, and visions structure much of the second division of the Tanakh.

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,19 +16,32 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Saṃsāra (Sanskrit संसार, Pali saṃsāra)", "the Wheel of Life (Bhavacakra)", "the cycle of birth, death, and rebirth", "the cycle of reincarnation", "cyclic existence", "the cycle (Vorilhon source designation)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "מקרוביולוגיה", path = "wiki/macrobiology", description = "הביולוגיה של האנושות כאורגניזם, שבה הסמסרה היא אופן הכישלון — המעבר שנכשל לפני שהוא מושלם." },
+    { title = "סווסטיקה", path = "wiki/swastika", description = "סמל המחזור שהקורפוס קורא כמשמר את דפוס הסמסרה." },
+    { title = "תור הזהב", path = "wiki/golden-age", description = "הקריאה המחודשת של הקורפוס בהתעוררות הבודהיסטית כיציאה מן המחזור הציוויליזציוני." },
+    { title = "תחרות קוסמית", path = "wiki/cosmic-competition", description = "הברירה ברמה הקוסמית הממיינת מינים הנמלטים מן המחזור לעומת מינים הנופלים בחזרה אליו." },
+    { title = "אפוקליפסה", path = "wiki/apocalypse", description = "סף עידן הדלי, שבו האנושות ניצבת בפני הבחירה להימלט מן המחזור." },
+    { title = "השרשרת הקוסמית", path = "wiki/cosmic-chain", description = "שושלת הבריאה המקוננת שבתוכה המחזור הציוויליזציוני חוזר." },
+    { title = "ארבע הרמות", path = "wiki/four-levels", description = "היררכיית קני המידה שעל פניה הדפוס המחזורי נקרא כפועל." },
+    { title = "המבול", path = "wiki/great-flood", description = "אסון עידן התאומים שהקורפוס קורא כאתחול מחזור מופתי — ציוויליזציה מתקדמת המושלכת חזרה למצב קדמוני." },
+    { title = "לוציפר", path = "wiki/lucifer", description = "סיעת היוצרים הגולה, תומכת האנושות, שמבצע התיבה שלה שימר שארית דרך אתחול המבול." },
+    { title = "הטחנה הטוחנת את העידנים", path = "articles/the-mill-that-grinds-the-ages", description = "הגלגל הפרצסיוני שמאחורי המחזור — הטחנה הטוחנת את העידנים, וצלב הקרס שהקנון קורא כסימנה." },
+    { title = "צורתה של האנושות", path = "articles/the-shape-of-humanity", description = "המאמר הקורא את המחזור הציוויליזציוני כאופן הכישלון של אורגניזם פלנטרי העלול למות ברחם לפני שנולד." },
+]
 
 [extra.infobox]
-type = "Cosmological-cyclical concept; the substantive cyclical pattern of civilizational rise-and-fall the corpus reads as underlying cosmic-civilizational reality preserved in Indian-religions saṃsāra-cycle traditions"
-sanskrit = "संसार (saṃsāra, 'wandering through, flowing on')"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'The Second Encounter' chapter, 'Buddhism' section; consolidated *Message from the Designers* (2005)"
-core_articulation = "Buddhist saṃsāra-cycle reread collectively-civilizationally: humanity faces cosmic-civilizational choice between escape from cycle (Golden Age, cosmic-civilizational engagement) or fall back into cycle (primitive-state restart, multi-millennial redevelopment in hostile world)"
-cosmic_civilizational_selection = "Natural selection at cosmic level for species capable of leaving their planet; species controlling aggressiveness reach cosmic-civilizational engagement; species unable to control aggressiveness self-destruct at weapons-acquisition threshold"
-buddhist_devils = "Aggressiveness toward fellow humans; aggressiveness toward nature"
-buddhist_awakening = "Golden Age of civilization in which science serves the people"
-swastika_connection = "The swastika operates as the cycle-symbol preserved across the corpus engagement (treated systematically in Swastika entry)"
-distinguished_from = "Individual-eschatological saṃsāra (the substantial Indian-religions individual-soul-transmigration reading); the cosmic Golden Age content (the operational form of life produced by successful cycle-escape); the Apocalypse threshold-event (the specific 1945-onward Aquarian-age threshold moment)"
+type = "מושג קוסמולוגי־מחזורי; דפוס העלייה והנפילה של ציוויליזציות שהקורפוס קורא כמציאות הקוסמית שנשמרה בסמסרה (saṃsāra) של המסורות ההודיות"
+sanskrit = "संसार (saṃsāra, 'נדידה, זרימה הלאה')"
+principal_source = "*החייזרים לקחו אותי לכוכב שלהם* (וורילון, 1975), הפרק 'המפגש השני', הסעיף 'בודהיזם'; *Message from the Designers* המאוגד (2005)"
+core_articulation = "הסמסרה הבודהיסטית נקראת מחדש באופן קולקטיבי: האנושות עומדת בפני בחירה קוסמית בין יציאה מן המחזור (תור זהב של מדע בשירות העם) לבין נפילה חזרה לתוכו (אתחול למצב פרימיטיבי, והתפתחות מחדש לאורך אלפי שנים בעולם עוין)"
+cosmic_civilizational_selection = "'ברירה טבעית ברמה הקוסמית של מינים המסוגלים לעזוב את כוכב הלכת שלהם'; מינים השולטים בתוקפנותם מגיעים לכוכבים, ומינים שאינם שולטים בה משמידים את עצמם בסף הנשק"
+buddhist_devils = "תוקפנות כלפי בני אדם אחרים; תוקפנות כלפי הטבע"
+buddhist_awakening = "תור זהב של ציוויליזציה שבה המדע משרת את העם"
+swastika_connection = "צלב הקרס נקרא כסמל המחזור שנשמר במסורות השונות (נדון בערך צלב הקרס)"
+distinguished_from = "סמסרה אסכטולוגית־אישית (הקריאה ההודית המסורתית של גלגול נשמות); תור הזהב (החיים שמניבה יציאה מוצלחת מן המחזור); האפוקליפסה (סף הדלי המסוים מ־1945 ואילך)"
 parallel_traditions = "Hindu saṃsāra (Vedic, Upanishadic, Vedantic engagement); Jain karma-cycle; Sikh cycle-content; Greek-Stoic eternal recurrence; Nietzschean eternal return; Mayan Long Count cycles; Norse Ragnarök-regeneration; Chinese cyclical traditions; various indigenous cyclical traditions"
-status_in_framework = "Foundational cosmological-cyclical concept; the substantive cosmic-civilizational pattern that successful Aquarian-age navigation breaks; integrated with broader Golden Age, Apocalypse, Cosmic Chain, Cosmic Competition framework"
+status_in_framework = "מושג יסוד קוסמולוגי־מחזורי; הדפוס הקוסמי שניווט מוצלח בעידן הדלי שובר; משולב במסגרות של תור הזהב, האפוקליפסה, השרשרת הקוסמית והתחרות הקוסמית"
 +++
 
 **Saṃsāra** (Sanskrit संसार, "wandering through, flowing on") is the cycle of

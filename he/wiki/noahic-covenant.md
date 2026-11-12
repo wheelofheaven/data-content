@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -16,20 +16,30 @@ editorial_pass = "2026-05"
 entry_type = "event"
 alternative_names = ["the Noahic Covenant", "the post-flood covenant", "the rainbow covenant", "the Noahide covenant (Jewish tradition designation)", "the originary biblical covenant"]
 timeline = ["age-of-gemini"]
+see_also = [
+    { title = "נוח", path = "wiki/noah", description = "השותף האנושי של היוצרים הגולים והצד הזוטר בברית." },
+    { title = "המבול", path = "wiki/great-flood", description = "אסון עידן התאומים שהברית עונה עליו וחותמת אותו." },
+    { title = "לוציפר", path = "wiki/lucifer", description = "סיעת היוצרים הגולה, ההופכת לצד הבכיר בברית ליד המזבח." },
+    { title = "הברית", path = "wiki/the-alliance", description = "השותפות הבין־ציוויליזציונית שהברית מייסדת." },
+    { title = "יהוה", path = "wiki/yahweh", description = "נשיא המועצה שעל הצבעתו שלאחר המבול נשענת ההתחייבות ״לא עוד״." },
+    { title = "בבל", path = "wiki/babel", description = "המיזם המאוחר יותר, שהפתעת המועצה ממנו מראה את אופייה הפרטי של הברית." },
+    { title = "המקרא העברי", path = "wiki/hebrew-bible", description = "מקור סיפור הברית של בראשית ח–ט ואות הקשת שלה." },
+    { title = "המצוות החדשות", path = "wiki/new-commandments", description = "ברית עידן הדלי, החותמת את הרצף שברית נח פותחת." },
+]
 
 [extra.infobox]
-type = "Post-flood political-religious event; formal alliance founding between the exiled-creator faction and the surviving humans led by Noah"
-hebrew_term = "בְּרִית (brit, 'covenant, alliance, agreement')"
-biblical_location = "Genesis 8:20-9:17 (the principal narrative); subsequent references in Isaiah 24:5, Isaiah 54:9, Jeremiah 33:20-26, Hosea 6:7"
+type = "אירוע פוליטי־דתי שלאחר המבול; ייסוד הברית בין סיעת לוציפר הגולה של היוצרים לבין בני האדם השורדים בהנהגת נח"
+hebrew_term = "בְּרִית (brit, 'ברית, אמנה, הסכם')"
+biblical_location = "בראשית ח 20–ט 17 (הסיפור העיקרי); אזכורים מאוחרים יותר בישעיהו כד 5, ישעיהו נד 9, ירמיהו לג 20–26, הושע ו 7"
 biblical_dating = "Cancer-Gemini boundary aftermath in corpus chronology (immediately following c. 6,690 BCE flood event); mainstream biblical chronology generally treats Genesis 9 as Priestly (P) source composition c. 6th century BCE"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in the Age of Gemini chapter, Sections VIII and XIII"
-core_corpus_articulation = "Private arrangement between the exiled-creator faction (the Serpentine faction) and the surviving humans led by Noah; founding alliance distinct from the home-world Council whose non-participation is demonstrated by subsequent Babel-project surprise"
-covenant_parties = "Exiled creators (the Serpentine faction); humans led by Noah and his family (the Eden-lineage survivors)"
-covenant_terms = "Exiled creators: non-participation in future destruction of humanity; acknowledgment of legitimacy of human scientific progress. Humans: gratitude, productive rebuilding, ritual recognition through offerings"
-covenant_sign = "Rainbow (Hebrew קֶשֶׁת *keshet*, dual meaning rainbow + bow-as-weapon); the bow used against the earth now hung in the cloud as visible token of laid-down weapon"
-seven_noahide_laws = "Subsequent Jewish rabbinic articulation (Talmud Sanhedrin 56a-60a): prohibitions against idolatry, blasphemy, murder, sexual immorality, theft, eating flesh from a living animal; positive requirement of courts of justice"
-distinguished_from = "The home-world Council (Council not party to the covenant); subsequent biblical covenants (Abrahamic, Mosaic, Davidic, New — sequential elaborations); mainstream Christian theological covenant readings (which generally treat covenant as agreement with single divine party rather than as private exiled-creator-human arrangement)"
-status_in_framework = "Foundational post-flood political-religious event; the originary alliance founding subsequent covenant tradition; the formal beginning of partnership structuring all subsequent alliance activity"
+principal_source = "*הספר המגלה את האמת* (וורילון, 1974), הפרק 'האמת'; מקובץ ב־*מסר מהמתכננים* (2005); העיסוק העיקרי בקורפוס בפרק עידן התאומים"
+core_corpus_articulation = "הסדר פרטי בין סיעת לוציפר הגולה של היוצרים לבין בני האדם השורדים בהנהגת נח; ייסוד הברית, הנפרדת ממועצת כוכב הבית, שאי־השתתפותה מתגלה בהפתעתה המאוחרת בבבל"
+covenant_parties = "היוצרים הגולים (סיעת לוציפר, הצד הבכיר); נח ומשפחתו (השורדים משושלת עדן, הצד הזוטר)"
+covenant_terms = "היוצרים הגולים: אי־השתתפות בכל השמדה עתידית של האנושות; הכרה בלגיטימיות של הקדמה המדעית האנושית. בני האדם: הכרת תודה, בנייה מחדש פורייה, הכרה טקסית באמצעות מנחות"
+covenant_sign = "הקשת (בעברית קֶשֶׁת, במשמעות כפולה: קשת בענן + קשת כנשק); הקשת ששימשה נגד הארץ נתלית כעת בענן כאות לנשק שהונח"
+seven_noahide_laws = "ניסוח רבני יהודי מאוחר (תלמוד בבלי, סנהדרין נו ע״א–ס ע״א): איסורי עבודה זרה, ברכת השם, שפיכות דמים, גילוי עריות, גזל ואבר מן החי; ובנוסף מצוות העשה של הקמת בתי דין"
+distinguished_from = "מועצת כוכב הבית (שאינה צד לברית); הבריתות המקראיות שאחריה (ברית אברהם, ברית סיני, ברית דוד, הברית החדשה — הרחבות רצופות); תאולוגיית הברית הנוצרית המקובלת (הרואה בברית הסכם עם צד אלוהי יחיד ולא הסדר פרטי בין יוצרים לבני אדם)"
+status_in_framework = "אירוע יסוד שלאחר המבול; הברית הראשונית המייסדת את הרצף שעליו בנויה כל פעילות הברית שלאחר מכן"
 +++
 
 **The Noahic Covenant** is the post-flood agreement recorded in Genesis

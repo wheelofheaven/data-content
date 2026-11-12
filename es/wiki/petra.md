@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -24,6 +24,14 @@ entry_type = "place"
 claim_type = "speculative"
 timeline = ["pisces"]
 alternative_names = ["Πέτρα (griego 'roca')", "רקמו (nabateo Raqmū)", "רֶקֶם (hebreo Reqem)", "Rekem", "Raqēmō", "ٱلْبَتْرَاء (árabe al-Batrāʾ)", "Sela (bíblico 'roca')", "Madre de las Colonias", "Reqem de los Desfiladeros"]
+see_also = [
+    { title = "Nabateos", path = "wiki/nabataeans", description = "El reino árabe cuya capital excavada en la roca era Petra." },
+    { title = "Hanafiyya", path = "wiki/hanafiyya", description = "La religión de Abraham cuya geografía la hipótesis traslada a Petra." },
+    { title = "Mahoma", path = "wiki/muhammad", description = "El profeta cuya primera comunidad el argumento de la orientación de la qibla reorienta hacia Petra." },
+    { title = "Abraham", path = "wiki/abraham", description = "El patriarca cuya religión restaurada, según la lectura del corpus, revivió el islam primitivo." },
+    { title = "Pluralidad de dioses", path = "wiki/plurality-of-gods", description = "El panteón pagano nabateo que Petra albergó antes de su lectura abrahámica." },
+    { title = "Génesis", path = "wiki/genesis", description = "El trasfondo abrahámico de las Escrituras frente al cual se lee la hipótesis de Petra." },
+]
 
 [extra.infobox]
 type = "Capital caravanera nabatea excavada en la roca; Patrimonio de la Humanidad de la UNESCO; centro geográfico de la hipótesis de Petra-como-Meca-original"

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,17 +16,25 @@ category = "Methodology"
 entry_type = "concept"
 alternative_names = ["Ancient Astronaut Hypothesis", "Ancient Astronaut Theory", "Ancient Aliens hypothesis", "paleocontact hypothesis", "extraterrestrial-intervention hypothesis", "ancient-extraterrestrial-hypothesis"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "ז׳אן סנדי", path = "wiki/jean-sendy", description = "הדמות העיקרית שקדמה לוורילון, שהקורפוס משלב את המסגרת שלה בגרסתו להשערה." },
+    { title = "נאו-אוהמריזם", path = "wiki/neo-euhemerism", description = "השיטה הפרשנית שביסוד קריאת הקורפוס בעדות עתיקה כתיעוד משובש של מגע." },
+    { title = "מאורו ביגלינו", path = "wiki/mauro-biglino", description = "עיסוק טקסטואלי־פילולוגי עכשווי, הנחשב קרוב יותר מבחינה מתודולוגית למשמעת הקורפוס מאשר הפופולריזטורים." },
+    { title = "מסר מהמתכננים", path = "wiki/message-from-the-designers", description = "ההתגלות הישירה לוורילון, המבססת את הקורפוס במקום פירוש ספקולטיבי של עדויות עתיקות." },
+    { title = "המסורת", path = "wiki/the-tradition", description = "מונח הקורפוס לתיעוד המגע שנמסר, שההשערה קוראת לרוחב תרבויות עתיקות." },
+    { title = "מבשרים", path = "wiki/forerunners", description = "המחברים הקודמים שצפו את ההשערה לפני הפופולריזציה שלה במאה העשרים." },
+]
 
 [extra.infobox]
-type = "Interpretive tradition / methodological category proposing extraterrestrial influence on prehistoric and ancient human development"
-principal_period = "Modern formulation: 1950s-present; broader antecedents in late nineteenth-century occult tradition and earlier speculative engagement"
-core_proposition = "Extraterrestrial beings visited Earth in prehistoric or ancient past and influenced human cultural, religious, and technological development"
-candidate_evidence = "Anomalous ancient monuments; cross-cultural mythological motifs of sky-descending beings; sophisticated pre-modern astronomical knowledge; religious-textual content involving celestial encounters; structural similarities across global mythologies"
-principal_proponents = "Erich von Däniken (popularizer); Zecharia Sitchin (Sumerian-Anunnaki framework); Jean Sendy (principal corpus-influence figure); Mauro Biglino (contemporary textual-philological engagement); Paul Anthony Wallis; Robert Temple; Robert Charroux; David Hatcher Childress; Giorgio Tsoukalos; Lloyd Pye; others"
-mainstream_status = "Rejected as pseudoscience by mainstream archaeology, history of religion, and skeptical scholarship; principal academic-skeptical engagement in Feder, Colavito, others"
-corpus_positioning = "Wheel of Heaven framework operates within broader tradition while diverging methodologically: Vorilhon source-textual grounding rather than speculative interpretation; Sendy-Vorilhon synthesis; Hamlet's Mill precessional framework integration; disciplined epistemic-pluralism methodology"
-distinguished_from = "Mainstream archaeology and history of religion (which treats human cultural development as autonomous); UFO contactee tradition narrowly (which focuses on contemporary contact rather than ancient); science fiction (which is explicitly fictional); various occult and esoteric traditions (which operate within different theoretical frameworks)"
-status_in_framework = "Broader interpretive tradition within which corpus operates; corpus is identifiably a member of the family while differing methodologically; substantive subject-matter category for understanding corpus's place in contemporary intellectual landscape"
+type = "מסורת פרשנית / קטגוריה מתודולוגית המציעה השפעה חוץ־ארצית על ההתפתחות האנושית הפרהיסטורית והעתיקה"
+principal_period = "ניסוח מודרני: שנות ה־50 של המאה ה־20 ועד היום; תקדימים רחבים במסורת האוקולטית של סוף המאה ה־19 ובעיסוק ספקולטיבי מוקדם יותר"
+core_proposition = "ישויות חוץ־ארציות ביקרו בכדור הארץ בעבר הפרהיסטורי או העתיק והשפיעו על ההתפתחות התרבותית, הדתית והטכנולוגית של האדם"
+candidate_evidence = "מונומנטים עתיקים חריגים; מוטיבים מיתולוגיים בין־תרבותיים של ישויות היורדות מן השמיים; ידע אסטרונומי מתוחכם טרום־מודרני; תוכן טקסטואלי־דתי של מפגשים שמימיים; דמיון מבני בין מיתולוגיות ברחבי העולם"
+principal_proponents = "אריך פון דניקן (מפיץ); זכריה סיטשין (מסגרת שומרית־אנונאקית); ז'אן סנדי (דמות ההשפעה העיקרית על הקורפוס); מאורו ביליינו (עיסוק טקסטואלי־פילולוגי בן זמננו); פול אנתוני וואליס; רוברט טמפל; רובר שארו; דייוויד האצ'ר צ'ילדרס; ג'ורג'ו צוקאלוס; לויד פאי; ואחרים"
+mainstream_status = "נדחית כפסאודו־מדע בידי הארכיאולוגיה המקובלת, חקר תולדות הדתות והמחקר הספקני; העיסוק האקדמי־ספקני העיקרי אצל פדר, קולוויטו ואחרים"
+corpus_positioning = "מסגרת Wheel of Heaven פועלת בתוך המסורת הרחבה אך נבדלת ממנה מתודולוגית: עיגון במקורות של וורילון במקום פרשנות ספקולטיבית; סינתזה של סנדי ווורילון; שילוב המסגרת הנקיפתית של Hamlet's Mill; מתודולוגיה ממושמעת של פלורליזם אפיסטמי"
+distinguished_from = "הארכיאולוגיה המקובלת וחקר תולדות הדתות (הרואים בהתפתחות התרבותית האנושית תהליך אוטונומי); מסורת המגע עם עב״מים במובן הצר (המתמקדת במגע בן זמננו ולא במגע קדום); מדע בדיוני (שהוא בדיוני במפורש); מסורות אוקולטיות ואזוטריות שונות (הפועלות במסגרות תיאורטיות אחרות)"
+status_in_framework = "המסורת הפרשנית הרחבה שבתוכה פועל הקורפוס; הקורפוס הוא בן מודע לעצמו של משפחה זו, הנבדל ממנה בשיטה ובתוכן; קטגוריית מפתח למיקום המסגרת בנוף האינטלקטואלי העכשווי"
 +++
 
 **The ancient astronaut hypothesis** — also called the paleocontact hypothesis,

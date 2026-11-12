@@ -6,29 +6,39 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["the Noahic Covenant", "the post-flood covenant", "the rainbow covenant", "the Noahide covenant (Jewish tradition designation)", "the originary biblical covenant"]
+alternative_names = ["노아 언약", "대홍수 이후의 언약", "무지개 언약", "the Noahide covenant (Jewish tradition designation)", "성경의 근원적 언약"]
 timeline = ["age-of-gemini"]
+see_also = [
+    { title = "노아", path = "wiki/noah", description = "유배된 창조자들의 인간 동반자이자 언약의 하위 당사자." },
+    { title = "대홍수", path = "wiki/great-flood", description = "이 언약이 응답하며 종결하는 쌍둥이자리 시대의 대격변." },
+    { title = "루시퍼", path = "wiki/lucifer", description = "제단에서 언약의 상위 당사자가 되는 유배된 창조자 분파." },
+    { title = "동맹", path = "wiki/the-alliance", description = "이 언약이 창설하는 문명 간 동반 관계." },
+    { title = "야훼", path = "wiki/yahweh", description = "홍수 이후 그의 표결에 '다시는 없으리라'는 약속이 달려 있는 평의회 의장." },
+    { title = "바벨", path = "wiki/babel", description = "평의회를 놀라게 한 일이 이 언약의 사적 성격을 드러내는 후대의 프로젝트." },
+    { title = "히브리어 성경", path = "wiki/hebrew-bible", description = "창세기 8–9장의 언약 서사와 그 무지개 표징의 출처." },
+    { title = "새 계명", path = "wiki/new-commandments", description = "노아 언약이 시작한 계열을 마무리하는 물병자리 시대의 언약." },
+]
 
 [extra.infobox]
-type = "Post-flood political-religious event; formal alliance founding between the exiled-creator faction and the surviving humans led by Noah"
-hebrew_term = "בְּרִית (brit, 'covenant, alliance, agreement')"
-biblical_location = "Genesis 8:20-9:17 (the principal narrative); subsequent references in Isaiah 24:5, Isaiah 54:9, Jeremiah 33:20-26, Hosea 6:7"
+type = "대홍수 이후의 정치적·종교적 사건. 망명한 루시퍼 파 창조자들과 노아가 이끄는 생존 인류 사이의 동맹 창설"
+hebrew_term = "בְּרִית (brit, '언약, 동맹, 합의')"
+biblical_location = "창세기 8:20-9:17(주요 서사). 이후 이사야 24:5, 이사야 54:9, 예레미야 33:20-26, 호세아 6:7에서 언급"
 biblical_dating = "Cancer-Gemini boundary aftermath in corpus chronology (immediately following c. 6,690 BCE flood event); mainstream biblical chronology generally treats Genesis 9 as Priestly (P) source composition c. 6th century BCE"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in the Age of Gemini chapter, Sections VIII and XIII"
-core_corpus_articulation = "Private arrangement between the exiled-creator faction (the Serpentine faction) and the surviving humans led by Noah; founding alliance distinct from the home-world Council whose non-participation is demonstrated by subsequent Babel-project surprise"
-covenant_parties = "Exiled creators (the Serpentine faction); humans led by Noah and his family (the Eden-lineage survivors)"
-covenant_terms = "Exiled creators: non-participation in future destruction of humanity; acknowledgment of legitimacy of human scientific progress. Humans: gratitude, productive rebuilding, ritual recognition through offerings"
-covenant_sign = "Rainbow (Hebrew קֶשֶׁת *keshet*, dual meaning rainbow + bow-as-weapon); the bow used against the earth now hung in the cloud as visible token of laid-down weapon"
-seven_noahide_laws = "Subsequent Jewish rabbinic articulation (Talmud Sanhedrin 56a-60a): prohibitions against idolatry, blasphemy, murder, sexual immorality, theft, eating flesh from a living animal; positive requirement of courts of justice"
-distinguished_from = "The home-world Council (Council not party to the covenant); subsequent biblical covenants (Abrahamic, Mosaic, Davidic, New — sequential elaborations); mainstream Christian theological covenant readings (which generally treat covenant as agreement with single divine party rather than as private exiled-creator-human arrangement)"
-status_in_framework = "Foundational post-flood political-religious event; the originary alliance founding subsequent covenant tradition; the formal beginning of partnership structuring all subsequent alliance activity"
+principal_source = "*The Book Which Tells the Truth*(보릴롱, 1974), 'The Truth' 장. *Message from the Designers*(2005)에서 통합. 쌍둥이자리 시대 장에서의 주요 코퍼스 논의"
+core_corpus_articulation = "망명한 루시퍼 파 창조자들과 노아가 이끄는 생존 인류 사이의 사적 약정. 동맹의 창설이며, 본국 평의회와는 구별됩니다. 평의회가 참여하지 않았다는 사실은 이후 바벨에서 평의회가 보인 놀라움에서 드러납니다"
+covenant_parties = "망명한 창조자들(루시퍼 파, 상위 당사자), 노아와 그 가족(에덴 계통의 생존자, 하위 당사자)"
+covenant_terms = "망명한 창조자들: 앞으로 있을 어떤 인류 파괴에도 가담하지 않음, 인간의 과학적 진보의 정당성 인정. 인간: 감사, 생산적 재건, 제물을 통한 의례적 인정"
+covenant_sign = "무지개(히브리어 קֶשֶׁת keshet, 무지개와 무기로서의 활이라는 이중 의미). 땅을 향해 쓰였던 활이 이제 내려놓은 무기의 표징으로 구름 속에 걸림"
+seven_noahide_laws = "후대 유대 랍비 전통의 표명(탈무드 산헤드린 56a-60a): 우상숭배, 신성모독, 살인, 성적 부도덕, 도둑질, 산 동물의 살을 먹는 것의 금지와, 법정을 세우라는 적극적 요구"
+distinguished_from = "본국 평의회(언약의 당사자가 아님), 이후의 성경 언약들(아브라함, 모세, 다윗, 새 언약 — 순차적 확장), 주류 그리스도교 언약 신학(언약을 창조자와 인간 사이의 사적 약정이 아니라 단일한 신적 당사자와의 합의로 봄)"
+status_in_framework = "대홍수 이후의 기초 사건. 이후 모든 동맹 활동을 구조화하는 연쇄를 연 최초의 언약"
 +++
 
 **The Noahic Covenant** is the post-flood agreement recorded in Genesis

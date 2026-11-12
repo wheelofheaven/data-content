@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -19,6 +19,14 @@ entry_type = "concept"
 claim_type = "inferred"
 timeline = ["pisces"]
 alternative_names = ["ٱلْحَنِيفِيَّة (al-Ḥanīfiyyah)", "حَنِيف (ḥanīf、単数)", "حُنَفَاء (ḥunafāʾ、複数)", "millat Ibrāhīm(「アブラハムの宗教」)", "dīn Ibrāhīm", "原初の一神教", "直き者たちの宗教"]
+see_also = [
+    { title = "アブラハム", path = "wiki/abraham", description = "ハニーフィーヤがその失われた本来の宗教を回復すると主張する、創始の人物。" },
+    { title = "ムハンマド", path = "wiki/muhammad", description = "クルアーンによって、ハニーフィーヤが名指す millat Ibrāhīm へと立ち返る者として示される。" },
+    { title = "ペトラ", path = "wiki/petra", description = "最初にハニーフィーヤを名乗った運動の本来の場所として、ギブソンが提案する地。" },
+    { title = "ナバテア人", path = "wiki/nabataeans", description = "同系語 ḥanpā を通じたこの語の伝達にかかわる、アラム語系キリスト教の環境。" },
+    { title = "エロヒム", path = "wiki/elohim", description = "ハニーフィーヤがそのアブラハム的回復の計画を継続しているとコーパスが読む、創造者たち。" },
+    { title = "預言者および宗教のリスト", path = "wiki/list-of-prophets-and-religions", description = "時代を通じて同盟が育んだ諸伝統の中でのハニーフィーヤの位置。" },
+]
 
 [extra.infobox]
 type = "アブラハムの原初的一神教を指すクルアーンおよび初期イスラームの用語;初期イスラームの本来の自称とされる説"

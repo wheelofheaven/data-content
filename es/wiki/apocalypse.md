@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,6 +15,18 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Revelation", "ἀποκάλυψις", "Age of Apocalypse", "Age of Revelation"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "Macrobiología", path = "wiki/macrobiology", description = "La biología de la humanidad como organismo, para la cual 1945 marca el encendido del sistema nervioso planetario." },
+    { title = "Edad de Oro", path = "wiki/golden-age", description = "El desenlace civilizatorio hacia el que se abre el Apocalipsis una vez superada la transición." },
+    { title = "Profeta", path = "wiki/prophet", description = "La tradición cuya obra acumulada el Apocalipsis lleva a su culminación." },
+    { title = "Embajada", path = "wiki/embassy", description = "El regreso abierto planeado, que se vuelve operativamente posible durante este periodo." },
+    { title = "Elohim", path = "wiki/elohim", description = "La alianza cuyo contenido queda disponible para la evaluación directa en el Apocalipsis." },
+    { title = "Raël", path = "wiki/rael", description = "El profeta a través del cual se transmitió el contenido del marco propio del Apocalipsis." },
+    { title = "Los rollos que despertaron en el año uno", path = "articles/the-scrolls-that-woke-in-year-one", description = "Los Manuscritos del Mar Muerto salieron a la luz en el año uno del calendario de la era: el desvelamiento leído a la luz del hallazgo de manuscritos." },
+    { title = "Desellados en el año uno", path = "articles/unsealed-in-year-one", description = "La lectura complementaria del mismo hallazgo: el libro sellado de Daniel abierto, y lo que el contenido de los manuscritos dice a la era." },
+    { title = "La forma de la humanidad", path = "articles/the-shape-of-humanity", description = "El Explicativo que lee 1945 como el momento en que el sistema nervioso del organismo planetario se encendió junto con el poder de acabar consigo mismo." },
+    { title = "Carl Jung", path = "wiki/carl-jung", description = "El Aion de Jung y la lectura de los dos peces del eón de Piscis que ahora termina." },
+]
 +++
 
 **Apocalypse** (Greek: *ἀποκάλυψις*, *apokalypsis*) is, in its plain Greek meaning, an *uncovering* or *unveiling* — the disclosure of what was previously concealed. The English word entered medieval and early-modern usage through the Latin *apocalypsis* and the Vulgate's title for the New Testament's Book of Revelation (*Apocalypsis Iohannis*, "the Unveiling of John"). Across the medieval and early-modern centuries, the term acquired a secondary set of connotations — catastrophic destruction, end-of-the-world judgment, eschatological cataclysm — that the original Greek does not carry and that have come to dominate popular English usage. The two senses are now substantially distinct in contemporary English: the popular *apocalypse* names a destructive end; the technical *apocalypse* names a revelation of hidden truth.

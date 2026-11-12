@@ -6,27 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Four Levels of Consideration", "the Four Levels of Estimation", "the four-level framework", "the four-perspective evaluation framework", "the cosmic-to-individual evaluation framework", "*les quatre plans* (French source-original)"]
+alternative_names = ["四層考量", "四層評估", "四層框架", "the four-perspective evaluation framework", "the cosmic-to-individual evaluation framework", "*les quatre plans* (French source-original)"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "無限", path = "wiki/infinity", description = "第一個也是最重要的層級——衡量萬物的宇宙參照點。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "第二個層級——人類行為須向其負責的創造者。" },
+    { title = "分形宇宙學", path = "wiki/fractal-cosmology", description = "為無限層級之視角奠基的巢狀尺度宇宙論。" },
+    { title = "活的地球", path = "wiki/living-earth", description = "四層級作為其倫理對應的宇宙論背景。" },
+    { title = "宇宙鏈", path = "wiki/cosmic-chain", description = "四層級從宇宙到個人之跨度背後的巢狀文明宇宙論。" },
+    { title = "雷爾派", path = "wiki/raelism", description = "其源文本最早闡述四層級規則的運動。" },
+]
 
 [extra.infobox]
-type = "Foundational ethical-practical framework; the ethical-practical correlate of the broader Infinity-Fractal-Cosmology-Mass-Effect-Living-Earth cosmological cluster"
-basic_premise = "In every situation, things must be considered in relation to four levels — the Infinite, the Elohim, human society, and the individual self — operating together as integrated framework with love as constant"
-the_four_levels = "Level 1: The Infinite (cosmic-impersonal level); Level 2: The Elohim (creator-relational level); Level 3: Human society (collective level); Level 4: The individual self (personal level)"
-operational_character = "Multi-perspectival rather than hierarchical: the four levels operate together as integrated framework where all four must be operative simultaneously, with love as the constant integrative principle across all four"
-hierarchical_asymmetry = "While all four levels are operative, they are not equally weighted: 'The most important level is that relating to infinity, for it is in relation to this level that all things must be judged' — the Infinite is the principal evaluative reference point, with the other three levels providing operational specificity within the broader cosmic-Infinite framework"
-tension_resolution_function = "Each level addresses specific failure-modes the other levels can produce when isolated: Level 1 prevents anxious self-importance; Level 2 prevents nihilism; Level 3 prevents solipsism; Level 4 prevents collective-tyranny"
-position_in_framework = "Ethical-practical correlate of the broader cosmological framework cluster (Infinity, Fractal Cosmology, Mass Effect, Living Earth); the framework that translates the broader cosmic content into specific operational guidance for human living"
-distinguished_from = "Conventional ethical hierarchies (which typically operate hierarchically rather than multi-perspectivally); the Hindu purusharthas (which operate as four aims of life rather than as four evaluative perspectives); the Stoic concentric circles of concern (which operate as expanding-circle scope rather than as multi-level evaluation); contemporary effective-altruism frameworks (which typically operate through utilitarian calculus rather than through multi-perspectival integration); Lovecraftian cosmicism (which produces nihilistic implications absent in the framework's love-grounded integration)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in the 'Humanity' section of *The Keys* establishes the framework's specific content with explicit articulation, with substantial subsequent corpus-internal exegesis"
-principal_text = "*Extra-Terrestrials Took Me to Their Planet* (1975), 'The Keys' chapter, 'Humanity' section (the principal Yahweh passage); *Message from the Designers* FAQ section, 'What is the Purpose of Life?' (the substantial subsequent articulation with each level's specific exegesis); the Wheel of Heaven corpus *timeline.epub* outro Section VI"
+type = "倫理—實踐框架；無限—分形宇宙學—活的地球宇宙論在實踐上的對應"
+basic_premise = "在任何情境中，事物都必須在四個層級上加以衡量——無限、耶洛因、人類社會與個人自我——四者同時兼顧，並以愛為恆定不變的準則"
+the_four_levels = "第一層：無限（宇宙視角）；第二層：耶洛因（創造者）；第三層：人類社會（集體）；第四層：個人自我（個人意義）"
+operational_character = "多視角而非層級式——四個層級同時兼顧，以愛為整合的恆定準則"
+hierarchical_asymmetry = "各層級的分量並不相等：「最重要的層級是與無限相關的層級，因為一切事物都必須以此層級為準來評判。」無限為其他三個層級定向，而非凌駕其上"
+tension_resolution_function = "每個層級都制衡其他層級容易引發的一種失誤：第一層制衡自我膨脹；第二層制衡虛無主義；第三層制衡唯我論；第四層制衡集體暴政"
+position_in_framework = "宇宙論群組（無限、分形宇宙學、質量效應、活的地球）的倫理—實踐面——將該宇宙論轉化為生活指引的法則"
+distinguished_from = "層級式價值階梯（較高價值凌駕較低價值）；印度教的人生四目標（四種人生目的，而非四個評價角度）；斯多葛學派的關懷圈（範圍逐步擴大，而非多層級判斷）；有效利他主義的計算；洛夫克拉夫特式宇宙主義（將宇宙尺度解讀為絕望）"
+status_in_source_material = "由耶和華在《外星人帶我到他們的行星》（1975）〈關鍵〉中的〈人類〉一節直接陳述，《來自設計者的訊息》的常見問題中有逐層重述"
+principal_text = "《外星人帶我到他們的行星》（1975），〈關鍵〉章，〈人類〉一節；《來自設計者的訊息》中〈生命的目的是什麼？〉段落"
 +++
 
 {% claim(type="framework", id="woh-claim-0041") %}**Four Levels** is the name the Wheel of Heaven corpus gives to a rule stated by

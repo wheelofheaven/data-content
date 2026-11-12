@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Drei Wochen nach Veröffentlichung 02 stellte das US-Department of War Veröffentlichung 03 auf war.gov/UFO online: 53 Dokumente, 10 digitale Renderings, 6 Videos und 3 NASA-Audioaufnahmen aus CIA, FBI, NASA und Pentagon – die erste PURSUE-Tranche, die zivile Behördenbestände neben Materialien des Verteidigungsministeriums einbezieht. Zu den Leitfällen gehören ein kartoffelförmiges, opaleszentes, fischschuppiges Objekt, das im Februar 2022 über den Cheyenne Mountains von einem Geheimdienstoffizier der Armee und vier Mitgliedern seiner Einheit beobachtet wurde; eine 2008 über dem Harare International Airport gesichtete Scheibe mit rotierenden Leuchten auf der Unterseite und ausgesandten Strahlen; eine Begegnung mit gepaarten Kugeln 2026 im Nordosten der USA; und eine 1949 verfasste J.-Edgar-Hoover-Akte über eine Himmelsstrahl-Konvergenz über den Cascade Mountains. Das Korpus registriert Veröffentlichung 03 als Kontext für die Lektüre des Kanons, nicht als Zeichen der Rückkehr."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "Der Kontext der Gegenwart"
+cross_reference = "Zeitalter des Wassermanns, §IX"
 canon_links = [
     { title = "Wassermann-Zeitalter", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

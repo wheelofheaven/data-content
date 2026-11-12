@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,17 @@ alternative_names = ["נָבִיא", "navi", "προφήτης", "prophētēs", 
 portrait_id = "prophetic-lineage"
 image = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.avif"
-image_alt = "AI-generated editorial group portrait of the prophetic lineage, with figures from multiple eras arranged around a luminous axis."
-image_caption = "Interpretive portrait for the Prophet wiki entry and cross-tradition metadata."
+image_alt = "Retrato de grupo editorial generado por IA del linaje profético, con figuras de varias épocas dispuestas en torno a un eje luminoso."
+image_caption = "Retrato interpretativo para la entrada de wiki sobre el profeta y los metadatos interconfesionales."
+see_also = [
+    { title = "Yahvé", path = "wiki/yahweh", description = "La figura Elohim ante la cual la institución profética actúa como interlocutora." },
+    { title = "Adán y Eva", path = "wiki/adam-and-eve", description = "El linaje que abre la lista profética en el periodo posterior al Edén." },
+    { title = "Noé", path = "wiki/noah", description = "Una figura antediluviana que el corpus discute como candidato a profeta; el canon no lo nombra entre los profetas." },
+    { title = "Abraham", path = "wiki/abraham", description = "Un profeta patriarcal dentro de la preparación acumulativa que realiza la institución." },
+    { title = "Moisés", path = "wiki/moses", description = "Un gran profeta hebreo dentro del mecanismo de contacto mediado." },
+    { title = "Jesús", path = "wiki/jesus", description = "Uno de los dos profetas de la era de Piscis en la sucesión." },
+    { title = "Las cuarenta sillas", path = "articles/the-forty-chairs", description = "El canon nombra a cinco de los cerca de cuarenta profetas sentados; el Explicativo construye el instrumento para decidir quién más estaba a la mesa." },
+]
 +++
 
 **Prophet** (Greek: *προφήτης*, *prophētēs*, "one who speaks for"; Hebrew: <span class="hebrew">נָבִיא</span>, *navi*, "one who is called" or "one who proclaims"; Arabic: <span class="hebrew">نبي</span>, *nabī*; Latin: *propheta*) is a human figure who, in the religious traditions of Judaism, Christianity, Islam, and many other systems, serves as a mediator between the divine and the human, receiving communications from the divine and transmitting them to a human audience. The role is universal across the major religious traditions, though its specific shape — the manner of communication, the social position of the prophet, the content of the messages, the relationship to institutional religion — varies substantially across traditions and across periods within traditions. In the Hebrew Bible alone, the prophetic literature occupies a substantial portion of the canon, with the Major and Minor Prophets together comprising fifteen named figures whose oracles, narratives, and visions structure much of the second division of the Tanakh.

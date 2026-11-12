@@ -6,29 +6,39 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["the Noahic Covenant", "the post-flood covenant", "the rainbow covenant", "the Noahide covenant (Jewish tradition designation)", "the originary biblical covenant"]
+alternative_names = ["ノアの契約", "洪水後の契約", "虹の契約", "the Noahide covenant (Jewish tradition designation)", "聖書における原初の契約"]
 timeline = ["age-of-gemini"]
+see_also = [
+    { title = "ノア", path = "wiki/noah", description = "追放された創造者たちの人間のパートナーであり、契約の下位の当事者。" },
+    { title = "大洪水", path = "wiki/great-flood", description = "契約が応答し、終わらせる、双子座の時代の大災害。" },
+    { title = "ルシファー", path = "wiki/lucifer", description = "祭壇において契約の上位の当事者となる、追放された創造者の派閥。" },
+    { title = "同盟", path = "wiki/the-alliance", description = "契約が創設する、文明を横断する協力関係。" },
+    { title = "ヤハウェ", path = "wiki/yahweh", description = "「もう二度と行わない」という誓約がその洪水後の投票に基づく、評議会の議長。" },
+    { title = "バベル", path = "wiki/babel", description = "評議会の驚きが契約の私的な性格を示す、後代の計画。" },
+    { title = "ヘブライ語聖書", path = "wiki/hebrew-bible", description = "創世記8〜9章の契約の物語と、その虹の徴の出典。" },
+    { title = "新しい戒め", path = "wiki/new-commandments", description = "ノアの契約が開いた系列を閉じる、水瓶座の時代の契約。" },
+]
 
 [extra.infobox]
-type = "Post-flood political-religious event; formal alliance founding between the exiled-creator faction and the surviving humans led by Noah"
-hebrew_term = "בְּרִית (brit, 'covenant, alliance, agreement')"
-biblical_location = "Genesis 8:20-9:17 (the principal narrative); subsequent references in Isaiah 24:5, Isaiah 54:9, Jeremiah 33:20-26, Hosea 6:7"
+type = "洪水後の政治的・宗教的な出来事。追放された創造者たちのルシファーの派閥と、ノアに率いられた生き残りの人間たちとのあいだの同盟の創設"
+hebrew_term = "בְּרִית(brit、「契約、同盟、協定」)"
+biblical_location = "創世記8:20–9:17(主要な物語)。その後の言及はイザヤ書24:5、イザヤ書54:9、エレミヤ書33:20–26、ホセア書6:7"
 biblical_dating = "Cancer-Gemini boundary aftermath in corpus chronology (immediately following c. 6,690 BCE flood event); mainstream biblical chronology generally treats Genesis 9 as Priestly (P) source composition c. 6th century BCE"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in the Age of Gemini chapter, Sections VIII and XIII"
-core_corpus_articulation = "Private arrangement between the exiled-creator faction (the Serpentine faction) and the surviving humans led by Noah; founding alliance distinct from the home-world Council whose non-participation is demonstrated by subsequent Babel-project surprise"
-covenant_parties = "Exiled creators (the Serpentine faction); humans led by Noah and his family (the Eden-lineage survivors)"
-covenant_terms = "Exiled creators: non-participation in future destruction of humanity; acknowledgment of legitimacy of human scientific progress. Humans: gratitude, productive rebuilding, ritual recognition through offerings"
-covenant_sign = "Rainbow (Hebrew קֶשֶׁת *keshet*, dual meaning rainbow + bow-as-weapon); the bow used against the earth now hung in the cloud as visible token of laid-down weapon"
-seven_noahide_laws = "Subsequent Jewish rabbinic articulation (Talmud Sanhedrin 56a-60a): prohibitions against idolatry, blasphemy, murder, sexual immorality, theft, eating flesh from a living animal; positive requirement of courts of justice"
-distinguished_from = "The home-world Council (Council not party to the covenant); subsequent biblical covenants (Abrahamic, Mosaic, Davidic, New — sequential elaborations); mainstream Christian theological covenant readings (which generally treat covenant as agreement with single divine party rather than as private exiled-creator-human arrangement)"
-status_in_framework = "Foundational post-flood political-religious event; the originary alliance founding subsequent covenant tradition; the formal beginning of partnership structuring all subsequent alliance activity"
+principal_source = "*The Book Which Tells the Truth*(ヴォリロン、1974年)、「The Truth」の章。*Message from the Designers*(2005年)に統合。コーパスでの主要な取り組みは双子座の時代の章"
+core_corpus_articulation = "追放された創造者たちのルシファーの派閥と、ノアに率いられた生き残りの人間たちとのあいだの私的な取り決め。同盟の創設であり、母星の評議会とは区別される。評議会が関与していなかったことは、後にバベルで評議会が驚いたことに示されている"
+covenant_parties = "追放された創造者たち(ルシファーの派閥、上位の当事者)。ノアとその家族(エデン系統の生存者、下位の当事者)"
+covenant_terms = "追放された創造者たち:今後いかなる人類の滅亡にも関与しないこと。人間の科学的進歩の正当性を認めること。人間:感謝、生産的な再建、捧げ物による儀礼的な承認"
+covenant_sign = "虹(ヘブライ語 קֶשֶׁת keshet、虹と武器としての弓という二重の意味)。地に向けて用いられた弓が、置かれた武器のしるしとして今は雲の中に掛けられている"
+seven_noahide_laws = "後のユダヤ教ラビによる定式化(タルムード、サンヘドリン56a–60a):偶像崇拝、冒涜、殺人、性的不品行、窃盗、生きた動物の肉を食べることの禁止。加えて、裁判所を設けるという積極的な義務"
+distinguished_from = "母星の評議会(契約の当事者ではない)。その後の聖書の諸契約(アブラハム、モーセ、ダビデ、新しい契約 ― 順を追った展開)。主流のキリスト教の契約神学(契約を、創造者と人間の私的な取り決めではなく、唯一の神的当事者との合意として扱う)"
+status_in_framework = "洪水後の基礎となる出来事。その後のすべての同盟の活動を構造づける系列を創始した、原初の契約"
 +++
 
 **The Noahic Covenant** is the post-flood agreement recorded in Genesis

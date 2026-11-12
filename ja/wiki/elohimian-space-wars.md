@@ -6,13 +6,13 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-05-15"
+translation_updated = "2026-11-12"
 source_updated = "2026-05-14"
 translation_stale = false
 translation_sync = 100
-redirect_to = { title = "Theomachy", path = "/wiki/theomachy/" }
+redirect_to = { title = "神々の闘い", path = "/wiki/theomachy/" }
 category = "Elohim"
-alternative_names = ["Æsir–Vanir War", "Theomachy", "Titanomachy", "War in Heaven"]
+alternative_names = ["アース神族とヴァン神族の戦争", "神々の闘い", "ティタノマキア", "天上の戦争"]
 timeline = ["gemini"]
 claim_type = "inferred"
 editorial_pass = "2026-05"

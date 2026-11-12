@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ core_claim_ids = ["woh-claim-0057"]
 core_versions = { woh-claim-0057 = "0.1.0" }
 editorial_pass = "2026-05"
 summary = "繼第六批解密五週之後,美國戰爭部於 war.gov/UFO 公布第七批檔案:28 份文件,別無其他——沒有影片、沒有錄音、沒有影像——是迄今規模最小、也是首批全數由紙本構成的解密。其中 25 份來自戰爭部自身,一份來自 FBI,一份來自總統行政辦公室,另一份則帶有新的「U.S. Government」(美國政府)前綴。領銜檔案年代甚近:全域異常現象解析辦公室(All-domain Anomaly Resolution Office)對數名聯邦探員的任務匯報——他們於 2026 年 6 月在美國西部一處敏感場址,目睹一個霧面黑色的三角形無聲地自山脊上方升起、懸停,然後俯衝入一道峽谷——在事件發生四個月後即告公布,並附有一份 FBI 訪談紀錄,兩者在持續時間、尺寸與熱訊跡上互有出入。其後是 2008–2010 年承辦國防情報局 AAWSAP 計畫之承包商的營運紀錄:其取得回收硬體與生物樣本的計畫、一座為存放這些材料而設計的地下庫房、一次赴巴西的派遣、一座收錄 234,364 份目擊通報的資料倉儲,以及其對猶他州一座牧場的調查——該處的「Skinwalker」(剝皮行者)毛髮樣本,鑑定結果竟是證人自家的狗。一份 1962–1964 年的白宮檔案則顯示,政府曾為自太空墜落之物草擬處置程序,由 NASA 擔任公眾門面,國防部擔任分析者。本書將第七批解密記錄為閱讀正典的脈絡,而非回歸的徵兆。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "當下的脈絡"
+cross_reference = "水瓶座時代，第 IX 節"
 canon_links = [
     { title = "水瓶座時代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

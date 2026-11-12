@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,16 +16,25 @@ editorial_pass = "2026-05"
 entry_type = "biographical and methodological"
 claim_type = "direct"
 alternative_names = ["Bible de la Pléiade (Dhorme)", "La Bible: L'Ancien Testament (Dhorme)", "Dhorme Old Testament", "Bible Dhorme"]
+see_also = [
+    { title = "אלוהים", path = "wiki/elohim", description = "צורת הרבים שדורם משמר כ־Élohim במקום לתרגמה כ־Dieu." },
+    { title = "יהוה", path = "wiki/yahweh", description = "השם המפורש, שדורם מעביר באופן פונולוגי כ־Iahvé במקום להחליפו בתואר תאולוגי." },
+    { title = "בראשית", path = "wiki/genesis", description = "הספר שפסוק הפתיחה שלו מדגים את שיטת אוצר המילים המשומר של דורם." },
+    { title = "רשימת קריאות אטימולוגיות", path = "wiki/list-of-etymological-readings", description = "הקטלוג הפילולוגי של המסגרת, הנשען על מנגנון ההערות של דורם." },
+    { title = "רשימת קריאות פרשניות", path = "wiki/list-of-exegetic-readings", description = "הקטלוג ההפנייתי המשלים, הבנוי על אותו יסוד של אוצר מילים מילולי." },
+    { title = "עברית", path = "wiki/hebrew", description = "שפת המקור שמונחיה המעשיים עוברים בשלמותם בתרגומו של דורם." },
+    { title = "עקומת הדרקון", path = "articles/the-dragon-curve", description = "המאמר על « grands dragons » של דורם בבראשית א 21 — הפסוק היחיד בעמוד שלו שהמסר הראשון אינו מצטט לעולם." },
+]
 
 [extra.infobox]
-type = "French scholarly translation of the Hebrew Bible / Old Testament"
-translator = "Édouard Dhorme (1881–1966), with collaborators Frank Michaéli and Antoine Guillaumont"
+type = "תרגום מחקרי צרפתי של המקרא העברי / הברית הישנה"
+translator = "אדואר דורם (1881–1966), עם משתפי הפעולה פרנק מיכאלי ואנטואן גיומון"
 publisher = "Éditions Gallimard, Bibliothèque de la Pléiade"
-publication_dates = "Tome I (1956); Tome II (1959)"
-source_text = "Masoretic Text of the Hebrew Bible, with consultation of the Septuagint and the broader cuneiform-and-Semitic philological apparatus"
-distinguishing_features = "Literal preservation of original vocabulary including *Élohim* (not *Dieu*) and *Iahvé* (rendering of the Tetragrammaton); extensive philological footnotes; introduction surveying the textual history; collaboration with specialists for certain books (Michaéli: Ezra, Nehemiah; Guillaumont: Maccabees)"
-framework_significance = "The version Claude Vorilhon reports having with him during his 1973 contact; the textual mediator through which the Raëlian source material's Hebrew-Bible references reach contemporary readers"
-status = "Out of print in the original Pléiade edition; secondhand copies remain widely available; the translation is referenced extensively in subsequent French-language neo-euhemerist scholarship"
+publication_dates = "כרך א (1956); כרך ב (1959)"
+source_text = "נוסח המסורה של המקרא העברי, בהתייעצות עם תרגום השבעים ועם המנגנון הפילולוגי הרחב של כתב היתדות והשפות השמיות"
+distinguishing_features = "שימור מילולי של אוצר המילים המקורי, ובכלל זה *Élohim* (ולא *Dieu*) ו־*Iahvé* (תעתיק השם המפורש); הערות שוליים פילולוגיות נרחבות; מבוא הסוקר את תולדות הנוסח; שיתוף פעולה עם מומחים בספרים מסוימים (מיכאלי: עזרא, נחמיה; גיומון: מקבים)"
+framework_significance = "הנוסח שקלוד וורילון מדווח שהיה עמו בעת המגע ב־1973; המתווך הטקסטואלי שדרכו מגיעות ההפניות למקרא העברי שבחומר המקור הראלי אל הקוראים בני זמננו"
+status = "מהדורת הפליאד המקורית אזלה; עותקים יד שנייה זמינים בהרחבה; התרגום מצוטט רבות במחקר הנאו־אוהמריסטי בשפה הצרפתית שבא אחריו"
 +++
 
 The **Dhorme Bible** is the French translation of the Old Testament prepared by the French Assyriologist and Semitologist **Édouard Dhorme** (1881–1966), published by Gallimard in the Bibliothèque de la Pléiade in two volumes — Tome I in 1956 and Tome II in 1959. The translation is widely regarded among scholars as one of the most philologically rigorous French versions of the Hebrew Bible, the product of a fifty-year career of professional study of Hebrew, Akkadian, Ugaritic, and the broader Semitic and ancient Near Eastern philological tradition. The translation is distinguished from the standard French Catholic versions (notably the *Bible de Jérusalem*, in production at the same École Biblique during the same period) by its literal preservation of the operational vocabulary of the original Hebrew text — including the preservation of the plural form ***Élohim*** rather than the conventional theological translation *Dieu*, and the preservation of the Tetragrammaton as ***Iahvé*** rather than the conventional *l'Éternel* or *le Seigneur*.

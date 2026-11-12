@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -20,7 +20,7 @@ category = "Hermeneutics"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 summary = "המפה הרגילה מחלקת את הדתות למונותאיזמים, המאשרים אל אחד בלתי־חומרי, ולפוליתאיזמים, המרבים אלים. המקורות העתיקים אינם נשארים בתוך הגבולות הללו. מצוות ישראל תובעות נאמנות בלעדית בעוד ששיריה משמרים מועצת אלים; פאולוס יכול להודות ב'אל אחד' ועדיין לדבר על 'אלים רבים ואדונים רבים'; הקוראן גוער באנשים המכירים כבר באללה כבורא אך ניגשים אליו דרך מתווכים. הסבר זה טוען שהפולמוס נגד האלילים היה לעתים קרובות פחות טענה אריתמטית על מספר הישויות העל־אנושיות הקיימות ויותר מאבק על זיכרון, ייצוג, תיווך ונאמנות. אחר כך הוא מציע את ההצעה החזקה יותר של Wheel of Heaven: ששחזורים נבואיים קראו לאנושות בחזרה מן הצלמים המתים אל הבוראים הממשיים, המיוצגים בכל שליחות בידי אֱלוֹהַּ או שליח מסוים, בטרם התמירה תאולוגיה מאוחרת את אותו ריבוי לכלל מוחלט על־טבעי יחיד."
-keywords = ["מונותאיזם", "עבודת אלילים", "tawhid", "מועצת האלים", "אלוהים", "דת אברהם", "פגאניות", "הרמנויטיקה"]
+keywords = ["מונותאיזם", "עבודת אלילים", "תווחיד", "מועצת האלים", "אלוהים", "דת אברהם", "פגאניות", "הרמנויטיקה"]
 references = [
     # The Wheel of Heaven canon
     { id = "the-book-which-tells-the-truth", locator = "Chapter 3, paragraph 4 (humanity worships stone and idols after forgetting its creators); chapter 5, paragraph 21 (Elohim/Eloha, the singular-God translation, and the cross as object)" },

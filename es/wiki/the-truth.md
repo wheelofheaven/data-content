@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,15 +15,23 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["la Vérité (French, the principal Vorilhon designation)", "the truth (lowercase, when referring to the recovered content as such)", "the underlying historical-civilizational reality (corpus-internal expansion)", "the message (in Raëlian source-textual usage)", "*emet* (אֱמֶת, Hebrew)", "*aletheia* (ἀλήθεια, Greek)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "La Tradición", path = "wiki/the-tradition", description = "El canal de transmisión conservado a través del cual la Verdad se ha transmitido a lo largo de milenios." },
+    { title = "Elohim", path = "wiki/elohim", description = "La civilización cuya historia es el contenido concreto que recupera la Verdad." },
+    { title = "Biblia hebrea", path = "wiki/hebrew-bible", description = "El principal texto religioso cuyo vocabulario mistificado descifra la recuperación etimológica." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "El corpus cuyo proyecto de restauración es la recuperación de la Verdad." },
+    { title = "Cábala", path = "wiki/kabbalah", description = "Una tradición esotérica que, según esta lectura, conserva el contenido histórico en forma mistificada." },
+    { title = "Era del Mundo", path = "wiki/world-age", description = "El marco precesional que estructura la realidad histórica que recupera la Verdad." },
+]
 
 [extra.infobox]
-type = "Foundational concept; the framework's specific designation for the underlying historical-civilizational reality preserved in mystified form across the religious traditions"
+type = "Capítulo fundacional de *El libro que dice la verdad* (1974); el nombre que el marco da a la realidad histórica recuperada, conservada de forma mistificada en las tradiciones religiosas"
 principal_source_anchor = "*Le Livre qui dit la vérité* (*The Book Which Tells the Truth*, 1974) — Vorilhon's foundational source text bearing The Truth in its title"
-framework_definition = "The underlying historical-civilizational reality (the Elohim civilization, its work on Earth across the twelve precessional ages, the broader cosmic-civilizational framework, the various contact moments preserved in the religious traditions) preserved in mystified form across the religious-traditional content of multiple cultures globally; recoverable through systematic etymological-rational engagement with the source-textual material"
-methodological_framework = "Vorilhon's etymological-rational engagement (the substantial 'etymology = science of the truth' move, recovering original meanings of religious vocabulary obscured by mystical overlay); Sendy's four-condition framework for decoding the Hebrew Bible (knowing the Bible, knowing space-flight possibilities, having recent biology / prehistory / history / evolution knowledge, refusing supernatural explanation)"
-distinguished_from = "Mainstream philosophical engagement with truth (correspondence theory, coherence theory, pragmatist theory, deflationary theory — the framework engages truth as specific historical content rather than as philosophical-epistemological category); the broader 'truth-movement' popular framings (operating with substantially different content and substantially different epistemic commitments); novel revelation (the framework explicitly self-positions as restoration rather than novel revelation)"
-self_positioning = "Restoration rather than novel revelation — the reassembly of distinctions the religious traditions preserve and the corpus is making available again after the long centuries during which they had been lost"
-status_in_framework = "Foundational concept; the framework's specific designation for what it recovers; supports the broader integration of religious-traditional, archaeological, scientific, and source-textual content"
+framework_definition = "La realidad histórica subyacente —los Elohim, su obra en la Tierra a lo largo de las eras precesionales y los momentos de contacto que registran las tradiciones religiosas—, conservada pero mistificada, y recuperable mediante una lectura etimológica y racional de los textos fuente"
+methodological_framework = "La etimología de Vorilhon como «ciencia de la verdad» (recuperar el sentido original del vocabulario religioso); las cuatro condiciones de Jean Sendy para leer la Biblia Hebrea (conocer la Biblia; conocer las posibilidades y los límites del vuelo espacial; dominar la biología, la prehistoria, la historia y la evolución actuales; rechazar la «explicación por lo Inexplicable»)"
+distinguished_from = "Las teorías filosóficas de la verdad (correspondencia, coherencia, pragmatista, deflacionaria), que analizan qué es la verdad; aquí «la Verdad» nombra un contenido histórico concreto, no una categoría epistemológica. También es distinta de los enfoques populares del «movimiento por la verdad» y de una revelación nueva: el marco se presenta como restauración."
+self_positioning = "Restauración y no revelación nueva: reunir de nuevo lo que las tradiciones conservaron, no recibir un contenido nuevo"
+status_in_framework = "Fundacional; el núcleo textual del Raelismo y el relato del corpus sobre lo que recupera"
 principal_corpus_treatment = "*Le Livre qui dit la vérité* (Vorilhon, 1974) — principal source-textual title-anchor; Sendy's *Ces dieux qui firent le ciel et la terre* (1969) and *L'ère du Verseau* (1970) — principal methodological articulations; the broader corpus subsequent integration"
 +++
 

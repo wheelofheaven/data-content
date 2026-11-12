@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -18,7 +18,7 @@ claim_type = "framework"
 core_claim_ids = ["woh-claim-0018"]
 core_versions = { woh-claim-0018 = "0.1.0" }
 entry_type = "figure"
-alternative_names = ["Адам", "Ева", "אָדָם וְחַוָּה", "ʾĀḏām and Ḥawwāh", "Первые люди", "Первая пара", "Адам Кадмон и Хавва (в каббалистической традиции)"]
+alternative_names = ["Адам", "Ева", "אָדָם וְחַוָּה", "ʾĀḏām и Ḥawwāh", "Первые люди", "Первая пара", "Адам Кадмон и Хавва (в каббалистической традиции)"]
 timeline = ["leo", "cancer"]
 see_also = [
     { title = "Эдем", path = "wiki/eden", description = "Установка команды Израиля, где Адам и Ева были синтезированы и обучены." },

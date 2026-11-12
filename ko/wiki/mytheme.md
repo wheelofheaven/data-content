@@ -6,27 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-08"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["mytheme", "mythological motif (broader usage)", "narrative element (broader usage)", "mythème (French original)", "Mythem (German)", "mitema (Italian, Spanish)"]
+alternative_names = ["신화소", "신화 모티프(더 넓은 용법)", "서사 요소(더 넓은 용법)", "mythème (프랑스어 원어)", "Mythem (독일어)", "mitema (이탈리아어, 스페인어)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "비교신화학", path = "wiki/comparative-mythology", description = "신화소가 하나의 분석 도구가 되는 더 넓은 분과적 관여." },
+    { title = "테오마키", path = "wiki/theomachy", description = "코퍼스가 신화소로 분석하는 반복적 범문화 모티프 군 가운데 하나." },
+    { title = "노아의 방주", path = "wiki/noahs-ark", description = "코퍼스의 주요 모티프 군 가운데 하나인 홍수 신화소의 사례." },
+    { title = "고대 우주비행사 가설", path = "wiki/ancient-astronaut-hypothesis", description = "반복되는 범문화적 모티프에 대해 코퍼스가 선호하는 역사적 설명." },
+    { title = "선악을 알게 하는 나무", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "신화소 관여 안에서 압축된 역사로 읽히는 창세기의 모티프." },
+    { title = "고대 건설자", path = "wiki/ancient-builders", description = "코퍼스가 전통들을 가로질러 읽는 거석·건축 모티프의 주체들." },
+    { title = "오디세이아 뒤의 세계", path = "/articles/the-world-behind-the-odyssey/", description = "지식 이전과 계승의 신화소를 『오디세이아』에서 아나톨리아와 메소포타미아로 거슬러 추적하는 해설." },
+    { title = "호메로스의 동쪽 면", path = "/articles/the-east-face-of-homer/", description = "영웅은 여행하지 않아도 서사의 형태는 여행한다는 것을 다루는 짝 해설 — 신화소 전승의 모범 사례로서의 길가메시–오디세우스 관계." },
+]
 
 [extra.infobox]
-type = "Technical analytical unit in Claude Lévi-Strauss's structural-anthropological method for the study of myth; also broader popular term for recurring cross-cultural mythological motifs"
-coined_by = "Claude Lévi-Strauss (1908-2009), French structural anthropologist"
-principal_articulation = "Lévi-Strauss, 'The Structural Study of Myth' (*Journal of American Folklore*, 1955), incorporated into *Structural Anthropology* (1958); developed across *Mythologiques* (4 vols., 1964-1971)"
-linguistic_analogy = "Mytheme : myth :: phoneme : language; the mytheme is the relational unit, not the isolated content"
-principal_methodology = "Cross-variant analysis: collecting multiple variants of a myth across cultural settings, identifying the recurring relational elements (mythemes), and arranging them in columns to reveal the underlying structural relations (typically binary oppositions and their mediations)"
-canonical_example = "The Oedipus myth analyzed in 'The Structural Study of Myth' through four columns: (1) overrated kinship relations; (2) underrated kinship relations; (3) denial of the autochthonous origin of man; (4) persistence of the autochthonous origin of man"
-broader_popular_usage = "Any recurring narrative element — motif, character type, narrative pattern — appearing across multiple cultures; substantially interchangeable with 'mythological motif' in this usage"
-corpus_position = "Engages both strict Lévi-Straussian sense and broader popular sense; corpus's methodological commitment is to cross-cultural pattern recognition rather than to any single methodological school; the mytheme concept is one tool among several within the broader Comparative Mythology engagement"
-distinguished_from = "Motif (the broader Stith Thompson cataloguing concept); tale-type (the Aarne-Thompson-Uther narrative-type concept); archetype (the Jungian psychological-pattern concept); narrative function (the Proppian narrative-structural concept); narreme (Eugene Dorfman's parallel narratological concept)"
-status_in_framework = "Methodological technical term within the broader Comparative Mythology engagement; cross-referenced to the [Comparative Mythology](../comparative-mythology/) entry for the broader disciplinary engagement"
+type = "신화 연구를 위한 클로드 레비스트로스의 구조인류학적 방법의 기술적 분석 단위; 문화 횡단적으로 되풀이되는 신화 모티프를 가리키는 더 넓은 대중적 용어이기도 함"
+coined_by = "클로드 레비스트로스(1908-2009), 프랑스의 구조인류학자"
+principal_articulation = "레비스트로스, 'The Structural Study of Myth'(*Journal of American Folklore*, 1955), *구조인류학*(1958)에 수록; *신화학*(전 4권, 1964-1971)에 걸쳐 발전됨"
+linguistic_analogy = "신화소 : 신화 :: 음소 : 언어; 신화소는 고립된 내용이 아니라 관계적 단위임"
+principal_methodology = "이본 횡단 분석: 여러 문화적 환경에서 한 신화의 여러 이본을 모으고, 되풀이되는 관계적 요소(신화소)를 찾아내어, 근저의 구조적 관계(대개 이항 대립과 그 매개)를 드러내도록 열로 배열함"
+canonical_example = "'The Structural Study of Myth'에서 네 열로 분석한 오이디푸스 신화: (1) 과대평가된 친족 관계; (2) 과소평가된 친족 관계; (3) 인간의 토착적 기원의 부정; (4) 인간의 토착적 기원의 지속"
+broader_popular_usage = "여러 문화에 나타나는 모든 반복적 서사 요소 — 모티프, 인물 유형, 서사 패턴; 이 용법에서는 '신화 모티프'와 사실상 바꿔 쓸 수 있음"
+corpus_position = "엄밀한 레비스트로스적 의미와 더 넓은 대중적 의미를 모두 다룸; 코퍼스의 방법론적 원칙은 단일한 방법론 학파가 아니라 문화 횡단적 패턴 인식에 있음; 신화소 개념은 더 넓은 비교신화학 작업 안의 여러 도구 가운데 하나"
+distinguished_from = "모티프(스티스 톰프슨의 더 넓은 목록화 개념); 설화 유형(아르네-톰프슨-우터의 서사 유형 개념); 원형(융의 심리적 패턴 개념); 서사 기능(프로프의 서사 구조 개념); 서사소(유진 도프먼의 평행적 서사학 개념)"
+status_in_framework = "더 넓은 비교신화학 작업 안의 방법론적 기술 용어; 더 넓은 학문적 논의는 [비교신화학](../comparative-mythology/) 항목과 교차 참조"
 +++
 
 **Mytheme** is, in its strict technical sense, the principal analytical unit of **Claude Lévi-Strauss**'s structural-anthropological method for the study of myth. Lévi-Strauss articulated the concept principally in "The Structural Study of Myth" (*Journal of American Folklore*, 1955; subsequently incorporated as chapter eleven of *Structural Anthropology*, 1958) and developed it across the four-volume *Mythologiques* (1964-1971).

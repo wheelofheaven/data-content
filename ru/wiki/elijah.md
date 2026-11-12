@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,21 +15,28 @@ editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
-alternative_names = ["Eliyyahu", "Eliyahu", "Elias", "Ilyas", "Elijah the Tishbite", "Elijah the Messenger"]
+alternative_names = ["Eliyyahu", "Eliyahu", "Elias", "Ilyas", "Илия Фесвитянин", "Илия-посланник"]
+see_also = [
+    { title = "Моисей", path = "wiki/moses", description = "Более ранняя фигура теофании на Хориве, прецеденту контакта которой сознательно вторит повествование об Илии." },
+    { title = "Иезекииль", path = "wiki/ezekiel", description = "Чьё видение меркавы — единственный рассказ Еврейской Библии о летательном аппарате, более явный, чем колесница Илии." },
+    { title = "Список близких встреч", path = "wiki/list-of-close-encounters", description = "Каталогизирует вознесение на огненной колеснице под заголовком «Похищение Илии», ок. 850 г. до н. э." },
+    { title = "Яхве", path = "wiki/yahweh", description = "Президент Элохим, имя которого исповедует теофорное имя Илии в противостоянии культу Ваала." },
+    { title = "Элохим", path = "wiki/elohim", description = "Цивилизация, операциональный контакт которой рамка читает за эпизодами колесницы и теофании Илии." },
+]
 
 [extra.infobox]
-type = "Hebrew prophet"
+type = "Еврейский пророк"
 hebrew = "<span class=\"hebrew\">אֵלִיָּהוּ</span> *Eliyyahu*"
-period = "Mid-9th century BCE, during the reign of King Ahab of Israel (c. 874–853 BCE)"
-precessional_age = "Age of Aries (the corpus's reckoning places the Mosaic and Hebrew prophetic period within the Age of Aries, c. 2065 BCE through 95 BCE)"
-homeland = "Tishbe in Gilead (east of the Jordan River, in the territory of the half-tribe of Manasseh)"
-principal_biblical_sources = "1 Kings 17–19, 21; 2 Kings 1–2"
-key_episodes = "The drought prophecy against Ahab; the brook Cherith; the widow of Zarephath (raising of her son); Mount Carmel contest with the prophets of Baal; Horeb theophany (\"still small voice\"); Naboth's vineyard; the destruction of the captains and their fifties; the translation in the chariot of fire; the transfer of the mantle to Elisha"
-ascension = "2 Kings 2:11 — taken up to heaven in a whirlwind, with a chariot of fire and horses of fire separating him from Elisha"
-return_prophecy = "Malachi 4:5 — \"I will send you the prophet Elijah before the great and terrible day of YHWH\""
-new_testament_identification = "Matthew 11:14, 17:10–13 — John the Baptist identified as \"Elijah who is to come\"; Matthew 17:1–8 — Elijah appears with Moses at the Transfiguration"
-later_tradition = "Cup of Elijah at the Passover seder; chair of Elijah at every brit milah; identified with al-Khidr in Islamic tradition; the Carmelite Catholic order traces its origin to the prophets of Mount Carmel"
-framework_significance = "Multiple operational contact events documented in the Elijah narratives, including the chariot-of-fire translation (the most explicit aerial-craft account in the Hebrew Bible after Ezekiel 1), the Horeb theophany, the Mount Carmel intervention, and the angel-feeding episode at Horeb"
+period = "Середина IX века до н. э., в правление израильского царя Ахава (ок. 874–853 гг. до н. э.)"
+precessional_age = "Эпоха Овна (по расчёту корпуса период Моисея и еврейских пророков приходится на Эпоху Овна, ок. 2065 г. до н. э. – 95 г. до н. э.)"
+homeland = "Фесвя в Галааде (к востоку от реки Иордан, на территории половины колена Манассии)"
+principal_biblical_sources = "3 Царств 17–19, 21; 4 Царств 1–2"
+key_episodes = "Пророчество о засухе против Ахава; поток Хорафа; вдова из Сарепты (воскрешение её сына); состязание на горе Кармил с пророками Ваала; теофания на Хориве («веяние тихого ветра»); виноградник Навуфея; гибель пятидесятников с их отрядами; восхищение на огненной колеснице; передача милоти Елисею"
+ascension = "4 Царств 2:11 — взят на небо в вихре, причём огненная колесница и огненные кони разлучили его с Елисеем"
+return_prophecy = "Малахия 4:5 — «Вот, Я пошлю к вам Илию пророка пред наступлением дня Господня, великого и страшного»"
+new_testament_identification = "Матфей 11:14, 17:10–13 — Иоанн Креститель отождествлён с «Илией, которому должно прийти»; Матфей 17:1–8 — Илия является вместе с Моисеем при Преображении"
+later_tradition = "Чаша Илии на пасхальном седере; кресло Илии при каждом обряде брит мила; отождествление с аль-Хидром в исламской традиции; католический орден кармелитов возводит своё происхождение к пророкам горы Кармил"
+framework_significance = "В повествованиях об Илии задокументировано несколько операционных контактов, включая восхищение на огненной колеснице (самое явное описание летательного аппарата в Еврейской Библии после Иезекииля 1), теофанию на Хориве, вмешательство на горе Кармил и эпизод кормления ангелом у Хорива"
 +++
 
 **Elijah** (Hebrew <span class="hebrew">אֵלִיָּהוּ</span>, *Eliyyahu*, conventionally Latinised as *Elias*; Arabic *Ilyās*) is one of the most theologically significant prophets of the Hebrew Bible. Active in the northern Kingdom of Israel during the reign of **King Ahab** (c. 874–853 BCE) and his son Ahaziah (c. 853–852 BCE), Elijah is depicted in 1 Kings 17–19 and 21 and in 2 Kings 1–2 as the principal prophetic opponent of Ahab's Tyrian queen **Jezebel** and her promotion of the Baal cult in northern Israel. He is best known for the **Mount Carmel contest** against the prophets of Baal (1 Kings 18), the **Horeb theophany** of the "still small voice" (1 Kings 19), and his **translation into the heavens in a chariot of fire** (2 Kings 2:11) — the latter making Elijah, alongside Enoch (Genesis 5:24), one of only two figures in the Hebrew Bible whom the canonical text describes as having been taken up without experiencing death. Elijah is also the figure whose prophesied return (Malachi 4:5) became central to subsequent Jewish messianic expectation and whom the New Testament Gospels identify with John the Baptist (Matthew 11:14, 17:10–13).

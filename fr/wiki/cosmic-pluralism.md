@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,20 +14,29 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
-alternative_names = ["Plurality of worlds", "Plurality of inhabited worlds", "Many-worlds cosmology (in the classical sense, distinct from the Everett quantum interpretation)", "Pluralität der Welten", "Pluralité des mondes"]
+alternative_names = ["Pluralité des mondes", "Pluralité des mondes habités", "Cosmologie des mondes multiples (au sens classique, distincte de l'interprétation quantique d'Everett)", "Pluralität der Welten", "Pluralité des mondes"]
+see_also = [
+    { title = "Équation de Drake", path = "wiki/drake-equation", description = "La tentative du XXe siècle d'estimer combien de ces mondes multiples sont habités." },
+    { title = "Élohim", path = "wiki/elohim", description = "La civilisation extraterrestre dont le corpus lit l'existence comme une exigence du pluralisme cosmique." },
+    { title = "Infini", path = "wiki/infinity", description = "La prémisse de l'échelle infinie qui fonde l'argument combinatoire en faveur de la pluralité des mondes." },
+    { title = "Ingénierie du vivant", path = "wiki/life-engineering", description = "Le mécanisme par lequel la vie se propage à travers les mondes multiples dans la lecture du corpus." },
+    { title = "Liste de rencontres rapprochées", path = "wiki/list-of-close-encounters", description = "Le dossier que le corpus lit comme un contact déjà établi entre mondes habités." },
+    { title = "Génomique de synthèse", path = "wiki/synthetic-genomics", description = "La capacité terrestre qui approche l'échelle d'ensemencement des mondes que décrit le pluralisme cosmique." },
+    { title = "La signature et les concepteurs", path = "/articles/the-signature-and-the-designers/", description = "Le concepteur sous-déterminé de Hume pris comme un résultat plutôt que comme une démolition — fini, pluriel et physique." },
+]
 
 [extra.infobox]
-type = "Philosophical and scientific doctrine that the universe contains many worlds (or many *inhabited* worlds) beyond Earth"
-opposed_position = "Aristotelian unique-world cosmology — the doctrine that there is one world (the sublunary terrestrial sphere plus the supralunary celestial spheres) and no other"
-ancient_origin = "Greek atomism, formulated by Leucippus and Democritus (5th century BCE); systematised by Epicurus (341–270 BCE); transmitted to Latin antiquity by Lucretius (*De Rerum Natura*, c. 50 BCE)"
-medieval_developments = "1277 Paris Condemnations of Étienne Tempier opening philosophical space for plurality; Jean Buridan (14th century); Nicole Oresme (14th century); Nicholas of Cusa (*De Docta Ignorantia*, 1440)"
-early_modern_milestones = "Copernicus (*De Revolutionibus*, 1543); Bruno (*De l'infinito universo e mondi*, 1584; executed 1600); Kepler; Fontenelle (*Entretiens sur la pluralité des mondes*, 1686); Huygens (*Cosmotheoros*, 1698); Kant (*Allgemeine Naturgeschichte und Theorie des Himmels*, 1755)"
-nineteenth_century = "Whewell-Brewster debate (*Of the Plurality of Worlds*, 1853; *More Worlds Than One*, 1854); Percival Lowell and the Mars canals controversy (late 19th–early 20th c.)"
-twentieth_century = "Drake equation (Frank Drake, 1961); SETI Project Ozma (1960) onward; Fermi paradox (Enrico Fermi, c. 1950)"
+type = "Doctrine philosophique et scientifique selon laquelle l'univers contient de nombreux mondes (ou de nombreux mondes *habités*) au-delà de la Terre"
+opposed_position = "Cosmologie aristotélicienne du monde unique — la doctrine selon laquelle il existe un seul monde (la sphère terrestre sublunaire et les sphères célestes supralunaires) et aucun autre"
+ancient_origin = "L'atomisme grec, formulé par Leucippe et Démocrite (Ve siècle AEC) ; systématisé par Épicure (341–270 AEC) ; transmis à l'Antiquité latine par Lucrèce (*De Rerum Natura*, v. 50 AEC)"
+medieval_developments = "Condamnations de Paris de 1277 par Étienne Tempier, qui ouvrent un espace philosophique à la pluralité ; Jean Buridan (XIVe siècle) ; Nicole Oresme (XIVe siècle) ; Nicolas de Cues (*De Docta Ignorantia*, 1440)"
+early_modern_milestones = "Copernic (*De Revolutionibus*, 1543) ; Bruno (*De l'infinito universo e mondi*, 1584 ; exécuté en 1600) ; Kepler ; Fontenelle (*Entretiens sur la pluralité des mondes*, 1686) ; Huygens (*Cosmotheoros*, 1698) ; Kant (*Allgemeine Naturgeschichte und Theorie des Himmels*, 1755)"
+nineteenth_century = "Débat Whewell-Brewster (*Of the Plurality of Worlds*, 1853 ; *More Worlds Than One*, 1854) ; Percival Lowell et la controverse des canaux de Mars (fin du XIXe – début du XXe siècle)"
+twentieth_century = "Équation de Drake (Frank Drake, 1961) ; projet SETI Ozma (1960) et suivants ; paradoxe de Fermi (Enrico Fermi, v. 1950)"
 twenty_first_century = "First exoplanets discovered around pulsar PSR B1257+12 (Wolszczan & Frail, 1992); first around main-sequence star 51 Pegasi b (Mayor & Queloz, 1995; Nobel Prize 2019); Kepler mission (2009–2018); JWST atmospheric biosignature searches (2022 onward); approximately 6,000+ confirmed exoplanets as of 2026"
-framework_position = "Foundational rather than optional: the corpus's broader account requires cosmic pluralism — the Elohim came from another world, humanity was synthesised by extraterrestrial intelligence, and humanity is in turn destined to create new humanities on other worlds"
-key_source_passage = "Vorilhon (1974): \"Since the beginning of time it has been so: people create other people like themselves on other planets. The cycle continues. Some die, others take over. We are your creators, and you will create other humanities.\""
-key_biblical_cross_reference = "Ecclesiastes 3:15 — \"That which hath been is now; and that which is to be hath already been\""
+framework_position = "Fondamental plutôt qu'optionnel : le récit plus large du corpus requiert le pluralisme cosmique — les Élohim sont venus d'un autre monde, l'humanité a été synthétisée par une intelligence extraterrestre, et l'humanité est à son tour destinée à créer de nouvelles humanités sur d'autres mondes"
+key_source_passage = "Vorilhon (1974) : « Depuis le début des temps il en est ainsi, les hommes créent d'autres hommes, semblables à eux-mêmes, sur d'autres mondes. Le cycle continue. Certains meurent, d'autres prennent la relève. Nous sommes vos créateurs et vous créerez d'autres hommes. »"
+key_biblical_cross_reference = "Ecclésiaste 3:15 — « Ce qui est a déjà été, et ce qui sera a déjà été »"
 +++
 
 **Cosmic pluralism** is the philosophical and scientific doctrine that the universe contains **many worlds beyond Earth** — and, in its stronger form, **many inhabited worlds**. The doctrine has developed across approximately 2,500 years of philosophical and scientific reflection and has stood, across most of that period, in opposition to the dominant Aristotelian unique-world cosmology that held there to be one world only. The 20th and 21st centuries have seen cosmic pluralism shift from contested philosophical speculation to an empirically grounded scientific position: the documented existence of more than **6,000 confirmed exoplanets** as of 2026, the increasing identification of potentially habitable worlds in the *habitable zones* of their host stars, the development of biosignature-detection technologies in space telescopes (JWST and successors), and the continuing programmes of the **Search for Extraterrestrial Intelligence (SETI)** have together moved the question of *whether* there are other worlds from open to settled, leaving open the question of whether the documented other worlds are *inhabited*.

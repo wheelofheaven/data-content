@@ -6,27 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Science & Technology"
 entry_type = "concept"
-alternative_names = ["Drake Equation", "Green Bank Equation (occasional alternative)", "Drake-Sagan Equation (rarely used)", "\u00e9quation de Drake (French)", "Drake-Gleichung (German)"]
+alternative_names = ["ドレイクの方程式", "グリーンバンク方程式(ときに用いられる別称)", "ドレイク=セーガン方程式(まれに用いられる)", "équation de Drake(フランス語)", "Drake-Gleichung(ドイツ語)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "アストロバイオロジー", path = "wiki/astrobiology", description = "コーパスがこの方程式に取り組む、主流の研究プログラム。" },
+    { title = "UFO学", path = "wiki/ufology", description = "コーパスがこの方程式のフェルミの問いをすでに解決しているものとして読む、接触の証拠の領域。" },
+    { title = "エロヒムの母星", path = "wiki/elohim-home-planet", description = "コーパスがこの方程式に答えが出た事例として扱う、特定の記録された文明。" },
+    { title = "宇宙的競争", path = "wiki/cosmic-competition", description = "この方程式が抽象的に数え上げる、銀河の文明の力学についての枠組みの読解。" },
+    { title = "サンディの整合性条件", path = "wiki/sendys-conditions-of-coherence", description = "この方程式の生物学的・文明的パラメータに課される、唯一のデータ点という制約。" },
+    { title = "古代宇宙飛行士仮説", path = "wiki/ancient-astronaut-hypothesis", description = "コーパスが「接触はすでに確立されている」という主張を位置づける、より広い枠組み。" },
+]
 
 [extra.infobox]
-type = "Probabilistic formulation expressing the number of detectable communicative extraterrestrial civilizations in the Milky Way galaxy as the product of seven contributing factors"
-formulated_by = "Frank Drake (1930-2022); November 1, 1961 at National Radio Astronomy Observatory, Green Bank, West Virginia, for the first SETI conference (the 'Order of the Dolphin' meeting)"
+type = "天の川銀河において検出可能な、交信する地球外文明の数を七つの因子の積として表す確率論的な式"
+formulated_by = "フランク・ドレイク(1930–2022年)。1961年11月1日、ウェストバージニア州グリーンバンクの国立電波天文台で、最初のSETI会議(「イルカ団」の会合)のために"
 equation = "N = R* \u00d7 fp \u00d7 ne \u00d7 fl \u00d7 fi \u00d7 fc \u00d7 L"
-parameters = "R* (rate of star formation); fp (fraction of stars with planets); ne (number of habitable planets per planet-bearing star); fl (fraction of habitable planets developing life); fi (fraction with intelligence); fc (fraction with detectable communication); L (lifetime of communicative civilizations)"
-principal_purpose = "Structural framework organizing the questions a SETI program must engage; 'a tool for quantifying our ignorance' (Drake); not principally a definitive quantification tool"
-parameter_constraint_status = "Astronomical parameters (R*, fp, ne) substantially constrained post-1995 through exoplanet revolution; biological and civilizational parameters (fl, fi, fc, L) remain substantively contested"
-principal_reformulations = "Sara Seager's biosignature-detection equation (2013); Adam Frank and Woodruff Sullivan archaeological reformulation (2016); Anders Sandberg, Eric Drexler, Toby Ord uncertainty-propagation analysis (2018)"
-principal_framing_question = "The Fermi Paradox (1950): given optimistic parameter estimates implying substantial galactic civilization counts, why don't we observe any?"
-corpus_position = "Substantive scientific framework engaged at the descriptive level; alliance-contact framework articulated in Vorilhon source provides substantive resolution to Fermi Paradox the equation generates"
-distinguished_from = "The broader SETI program (Drake Equation as one component); the Fermi Paradox (the question the equation's optimistic estimates pose); the Seager equation (post-2013 biosignature-focused adaptation); the Frank-Sullivan archaeological equation (2016 reformulation focused on past rather than present civilizations)"
+parameters = "R*(星の形成率)、fp(惑星を持つ恒星の割合)、ne(惑星を持つ恒星あたりの居住可能な惑星の数)、fl(生命が発生する居住可能惑星の割合)、fi(知性を持つに至る割合)、fc(検出可能な通信を行う割合)、L(通信を行う文明の存続期間)"
+principal_purpose = "SETI計画が取り組むべき問いを整理する議題。'a way of quantifying our ignorance'(ドレイク)― 主として計算の道具ではない"
+parameter_constraint_status = "天文学的な項(R*、fp、ne)は1995年の系外惑星革命以降よく制約されている。生物学的・文明的な項(fl、fi、fc、L)は依然として議論が分かれている"
+principal_reformulations = "サラ・シーガーのバイオシグネチャー方程式(2013年)。フランクとサリバンによる考古学的な再定式化(2016年)。サンドバーグ、ドレクスラー、オードによる不確実性の分析(2018年)"
+principal_framing_question = "フェルミのパラドックス(1950年):方程式の楽観的な値が文明で満ちた銀河を意味するなら、なぜ私たちは一つも観測しないのか?"
+corpus_position = "この枠組みは方程式を健全な科学として扱うが、それが生むフェルミのパラドックスはすでに解決済みとして読む ― ラエルの原典で報告されたエロヒムとの接触は、Nを推定に委ねるのではなく、Nが1より大きいことを確立する"
+distinguished_from = "より広いSETI計画(方程式はその一部)。フェルミのパラドックス(方程式の楽観的な値が提起する問い)。シーガー方程式(バイオシグネチャーに焦点を当てたもの、2013年)。フランクとサリバンの考古学的方程式(現在ではなく過去の文明、2016年)"
 status_in_framework = "Substantive contemporary scientific formulation engaged within corpus framework's broader astrobiology engagement; principal resolution to Fermi Paradox articulated through alliance-contact framework"
 +++
 

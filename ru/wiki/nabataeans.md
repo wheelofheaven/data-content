@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -20,6 +20,14 @@ entry_type = "people"
 claim_type = "inferred"
 timeline = ["pisces", "aries"]
 alternative_names = ["נבטו (набатейско-арамейское Nabaṭu)", "Ναβαταῖοι (греческое Nabataîoi)", "ٱلْأَنْبَاط (арабское al-Anbāṭ)", "Nabateans", "набати (the Nabati)", "народ Ракму"]
+see_also = [
+    { title = "Петра", path = "wiki/petra", description = "Высеченная в скале столица набатеев — место, на котором сосредоточена гипотеза рамки о Петре." },
+    { title = "Ханифия", path = "wiki/hanafiyya", description = "Авраамическое восстановление, человеческим носителем которого, согласно прочтению, был набатейский народ." },
+    { title = "Мухаммад", path = "wiki/muhammad", description = "Пророк, коранический арабский язык которого, как утверждается, происходит от набатейского арабского." },
+    { title = "Иисус", path = "wiki/jesus", description = "Говоривший на том же арамейском, на котором писали набатеи, что помещает ислам в общую среду." },
+    { title = "Авраам", path = "wiki/abraham", description = "Патриархальный источник арамейско-авраамической среды, в которой находятся набатеи." },
+    { title = "Еврейская Библия", path = "wiki/hebrew-bible", description = "Корпус, операциональная лексика которого разделяет прослеживаемую здесь арамейско-авраамическую среду." },
+]
 
 [extra.infobox]
 type = "Древний северноаравийский народ караванной торговли; строители Петры; передатчики письма от арамейского к арабскому"

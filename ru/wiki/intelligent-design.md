@@ -5,7 +5,7 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -13,20 +13,30 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "framework"
-alternative_names = ["ID", "Design theory", "Design hypothesis", "Directed design (the Raëlian variant)"]
+alternative_names = ["РЗ", "Теория замысла", "Гипотеза замысла", "Направленный замысел (раэлианский вариант)"]
+see_also = [
+    { title = "Инструментарий Бытия", path = "wiki/genesis-toolbox", description = "Ответ рамки на спор о замысле в операциональной форме: замыслители с задокументированным инструментарием." },
+    { title = "Инженерия жизни", path = "wiki/life-engineering", description = "Механизм корпуса, посредством которого, как считается, действовал замыслитель-Элохим." },
+    { title = "Синтетическая биология", path = "wiki/synthetic-biology", description = "Современная дисциплина, которую рамка рассматривает как восстановление инженерных возможностей замыслителя." },
+    { title = "Синтетическая геномика", path = "wiki/synthetic-genomics", description = "Наука о синтезе геномов, которую рамка читает как продолжение изначальной работы по замыслу." },
+    { title = "Пантропия", path = "wiki/pantropy", description = "Концепция адаптации организмов, распространяющая тезис о замысле на целенаправленное изменение человека." },
+    { title = "Бытие", path = "wiki/genesis", description = "Текст, фазы йамим которого рамка читает как запись этой инженерной работы." },
+    { title = "Эдем", path = "wiki/eden", description = "Место, которое рамка отождествляет с лабораторией, где были синтезированы люди." },
+    { title = "Подпись и замыслители", path = "/articles/the-signature-and-the-designers/", description = "Статья, помещающая рамку на полный спектр концепций замысла: трансцендентному замыслителю Мейера противопоставлен воплощённый, сотворённый замыслитель." },
+]
 
 [extra.infobox]
-type = "Philosophical and scientific doctrine that the functional complexity of biological systems is best explained by intelligent design"
-two_senses = "Broad sense: any design-by-intelligence doctrine, with antecedents reaching back to Aristotelian teleology and the medieval scholastic tradition. Narrow sense: the specific American intellectual movement c. 1991 onward associated with the Discovery Institute."
-foundational_modern_text = "Phillip E. Johnson, *Darwin on Trial* (Regnery Gateway, 1991)"
-key_movement_figures = "Phillip E. Johnson (1940–2019); Michael Behe (b. 1952); William Dembski (b. 1960); Stephen C. Meyer (b. 1958); Jonathan Wells (b. 1942); Paul Nelson; Jay Richards; Douglas Axe"
-principal_organisations = "Discovery Institute (Seattle, founded 1991); Center for Science and Culture (founded 1996, originally Center for the Renewal of Science and Culture)"
-foundational_arguments = "Irreducible complexity (Behe 1996); specified complexity / the design inference (Dembski 1998); the fine-tuning of physical constants; the origin of biological information; abiogenesis difficulty"
-historical_antecedents = "Aristotelian teleology; the medieval scholastic tradition (Aquinas's fifth way); William Paley's *Natural Theology* (1802); the broader 19th-century natural theology tradition"
-foundational_critique = "David Hume, *Dialogues Concerning Natural Religion* (1779); Charles Darwin, *On the Origin of Species* (1859); the broader mainstream evolutionary-biology tradition"
-landmark_court_case = "Kitzmiller v. Dover Area School District (M.D. Pa. 2005), Judge John E. Jones III; 139-page ruling that ID is not science and that teaching it in public schools violates the Establishment Clause"
-relevant_scientific_alternative = "Francis Crick and Leslie E. Orgel, \"Directed Panspermia,\" *Icarus* 19 (1973): 341–346; Crick, *Life Itself* (1981) — the proposal that life on Earth may have been deliberately seeded by an extraterrestrial intelligence, the closest mainstream-scientific cognate of the framework's position"
-framework_position = "The core ID claim (biological systems are best explained by intelligent design) is reinterpreted as: terrestrial biological complexity, particularly humans, is the product of deliberate engineering by the Elohim, a non-terrestrial biological civilisation. The corpus's position is closer to the Crick-Orgel directed-panspermia hypothesis than to the contemporary ID movement, sharing with ID the central design claim while differing on the designer's identity, on the relationship to evolutionary biology, and on the political-religious context."
+type = "Философская и научная доктрина, согласно которой функциональная сложность биологических систем лучше всего объясняется разумным замыслом"
+two_senses = "Широкий смысл: любое учение о замысле разума, с предшественниками, восходящими к аристотелевской телеологии и средневековой схоластической традиции. Узкий смысл: конкретное американское интеллектуальное движение примерно с 1991 года, связанное с Discovery Institute."
+foundational_modern_text = "Филлип И. Джонсон, *Darwin on Trial* (Regnery Gateway, 1991)"
+key_movement_figures = "Филлип И. Джонсон (1940–2019); Майкл Бихи (род. 1952); Уильям Дембски (род. 1960); Стивен С. Мейер (род. 1958); Джонатан Уэллс (род. 1942); Пол Нельсон; Джей Ричардс; Дуглас Экс"
+principal_organisations = "Discovery Institute (Сиэтл, основан в 1991); Center for Science and Culture (основан в 1996, первоначально Center for the Renewal of Science and Culture)"
+foundational_arguments = "Неупрощаемая сложность (Бихи, 1996); определённая сложность / вывод о замысле (Дембски, 1998); тонкая настройка физических постоянных; происхождение биологической информации; трудности абиогенеза"
+historical_antecedents = "Аристотелевская телеология; средневековая схоластическая традиция (пятый путь Фомы Аквинского); *Natural Theology* Уильяма Пейли (1802); более широкая традиция естественной теологии XIX века"
+foundational_critique = "Дэвид Юм, *Dialogues Concerning Natural Religion* (1779); Чарльз Дарвин, *On the Origin of Species* (1859); более широкая традиция общепринятой эволюционной биологии"
+landmark_court_case = "«Китцмиллер против школьного округа Довер» (Средний округ Пенсильвании, 2005), судья Джон И. Джонс III; 139-страничное решение о том, что РЗ не является наукой и что его преподавание в государственных школах нарушает положение об установлении религии"
+relevant_scientific_alternative = "Фрэнсис Крик и Лесли И. Оргел, «Directed Panspermia», *Icarus* 19 (1973): 341–346; Крик, *Life Itself* (1981) — предположение, что жизнь на Земле могла быть намеренно посеяна внеземным разумом; ближайший аналог позиции рамки в общепринятой науке"
+framework_position = "Ключевое утверждение РЗ (биологические системы лучше всего объясняются разумным замыслом) переосмысляется так: земная биологическая сложность, особенно человек, есть продукт намеренной инженерии Элохим — неземной биологической цивилизации. Позиция корпуса ближе к гипотезе направленной панспермии Крика–Оргела, чем к современному движению РЗ: с РЗ её объединяет центральное утверждение о замысле, а отличают — представление о том, кто был создателем, отношение к эволюционной биологии и политико-религиозный контекст."
 +++
 
 **Intelligent Design** (ID) is, in the broad sense, the claim that the functional

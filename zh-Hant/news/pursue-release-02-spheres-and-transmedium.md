@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,15 +17,15 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "繼 PURSUE 第一批解密兩週之後,美國戰爭部於 war.gov/UFO 公布第二批檔案:超過五十項先前列為機密的材料,包括首支非熱像、全彩的 UAP 影片、發生於約旦—敘利亞邊境的 MQ-9「死神」無人機武器鎖定事件、2022 年 3 月一艘美國潛艦遭遇跨介質球體物的紀錄,以及 1948 至 1950 年間新墨西哥州桑迪亞的 116 頁檔案。本書將第二批解密記錄為閱讀正典的脈絡,而非回歸的徵兆。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "當下的脈絡"
+cross_reference = "水瓶座時代，第 IX 節"
 canon_links = [
-    { title = "Age of Aquarius", path = "/timeline/age-of-aquarius/" },
+    { title = "水瓶座時代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },
-    { title = "Ufology", path = "/wiki/ufology/" },
-    { title = "Elohim", path = "/wiki/elohim/" },
-    { title = "Ancient Astronaut Hypothesis", path = "/wiki/ancient-astronaut-hypothesis/" },
-    { title = "Raëlism", path = "/wiki/raelism/" }
+    { title = "UFO學", path = "/wiki/ufology/" },
+    { title = "耶洛因", path = "/wiki/elohim/" },
+    { title = "古代宇航員假說", path = "/wiki/ancient-astronaut-hypothesis/" },
+    { title = "雷爾派", path = "/wiki/raelism/" }
 ]
 sources = [
     { title = "Department of War Publishes Second Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO", url = "https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/", outlet = "U.S. Department of War", date = "2026-05-22" },

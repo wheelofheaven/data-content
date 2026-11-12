@@ -6,27 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the doubled signature", "the doubled-signature principle", "the Hamlet's Mill principle", "the doubled astronomical signature", "doubled invocation across the zodiacal axis"]
+alternative_names = ["二重の署名", "二重の署名の原則", "ハムレットの臼の原則", "二重の天文学的署名", "黄道軸にわたる二重の援用"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "イエス", path = "wiki/jesus", description = "キリスト教の時代の魚座と乙女座の署名を担う、魚と処女の人物。" },
+    { title = "モーセ", path = "wiki/moses", description = "その伝統が牡羊座と天秤座の署名を符号化する、角をもつ牡羊の時代の創始者。" },
+    { title = "黙示録", path = "wiki/apocalypse", description = "水瓶座と獅子座の、水と獅子の署名がいま刻まれつつある現在の時代。" },
+    { title = "創世記", path = "wiki/genesis", description = "この原理が符号化された歳差運動の天文学的内容を保存していると読む主要なテクスト。" },
+    { title = "ヘブライ語聖書", path = "wiki/hebrew-bible", description = "二重の呼びかけがその天文学的署名を求めて読む、宗教的象徴のコーパス。" },
+    { title = "宇宙的競争", path = "wiki/cosmic-competition", description = "この項目が二重の署名の原理と区別する、別個のコーパスの枠組み。" },
+    { title = "諸時代を挽く臼", path = "articles/the-mill-that-grinds-the-ages", description = "秘儀参入者の副署として読まれる二重の署名 ― サンディの règle des signes opposés(対極の星座の規則)― を時代ごとにたどる。" },
+    { title = "タウロクトニー", path = "wiki/tauroctony", description = "ミトラスの牡牛供犠のサソリが担う、牡牛座と蠍座の組み合わせ。" },
+]
 
 [extra.infobox]
-type = "Hermeneutic-interpretive principle for reading precessional-age symbolism"
-basic_observation = "Each precessional age encodes its astronomical signature in iconographic and religious form across both its current zodiacal sign and the opposite sign on the zodiacal axis"
-mechanism = "Redundant doubled invocation ensures astronomical identity survives cultural transmission across centuries"
-zodiacal_opposition_axes = "Aries-Libra; Taurus-Scorpio; Gemini-Sagittarius; Cancer-Capricorn; Leo-Aquarius; Virgo-Pisces"
-worked_cases = "Pisces-Virgo (Christianity); Aries-Libra (Mosaic period); Taurus-Scorpio (Abrahamic reconstruction); Aquarius-Leo (present age)"
-principal_antecedent = "Giorgio de Santillana and Hertha von Dechend, *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (Boston: Gambit, 1969)"
-distinguished_from = "The precessional ages framework specifically (which structures the corpus's broader chronology); the Cosmic Competition framework (which concerns multiple humanities); the precession of the equinoxes itself (the underlying astronomical phenomenon)"
-status_in_source_material = "Not present in the Raëlian source material; corpus-internal interpretive principle drawn from Hamlet's Mill and applied systematically across the corpus's twelve-age framework"
-principal_text = "Hamlet's Mill (Santillana and von Dechend, 1969); various Wheel of Heaven corpus chapters applying the principle"
-principal_framework_source = "Giorgio de Santillana and Hertha von Dechend, *Hamlet's Mill* (1969); Jean Sendy, *L'ère du Verseau* (1970)"
+type = "歳差運動の時代の象徴体系を読むための解釈学的原則"
+basic_observation = "各歳差運動の時代は、その天文学的な署名を、現在の黄道十二宮の星座と、黄道軸上でその反対側にある星座の両方にわたって、図像的・宗教的な形で刻み込む"
+mechanism = "冗長な二重の援用によって、天文学的な同一性が数世紀にわたる文化的伝達を生き延びる"
+zodiacal_opposition_axes = "牡羊座・天秤座、牡牛座・蠍座、双子座・射手座、蟹座・山羊座、獅子座・水瓶座、乙女座・魚座"
+worked_cases = "魚座・乙女座(キリスト教)、牡羊座・天秤座(モーセの時代)、牡牛座・蠍座(アブラハムによる再建)、水瓶座・獅子座(現在の時代)"
+principal_antecedent = "ジョルジョ・デ・サンティラーナ、ヘルタ・フォン・デッヒェント『*Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth*』(ボストン:ガンビット社、1969年)"
+distinguished_from = "とりわけ歳差運動の時代の枠組み(コーパスのより広い年代学を構造化する)。宇宙的競争の枠組み(複数の人類にかかわる)。歳差運動そのもの(根底にある天文現象)"
+status_in_source_material = "ラエリアンの典拠資料には見られない。『ハムレットの臼』から引き出され、コーパスの十二の時代の枠組み全体に体系的に適用される、コーパス内部の解釈原則"
+principal_text = "『ハムレットの臼』(サンティラーナ、フォン・デッヒェント、1969年)。この原則を適用する Wheel of Heaven コーパスの諸章"
+principal_framework_source = "ジョルジョ・デ・サンティラーナ、ヘルタ・フォン・デッヒェント『ハムレットの臼』(1969年)。ジャン・サンディ『*L'ère du Verseau*』(1970年)"
 +++
 
 The **Doubled Signature** is a hermeneutic principle, drawn from Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and its Transmission Through Myth* (1969) and applied systematically by the Wheel of Heaven corpus, by which {% claim(type="speculative", id="woh-claim-0044") %}each precessional age encodes its astronomical signature in iconographic and religious form across two zodiacal signs: the current sign, which marks the constellation against which the vernal equinox rises, and its opposite across the zodiacal axis, which appears at the autumnal equinox and supplies the iconographic counterweight.{% end %} Encoding the signature in *two* symbolic complexes rather than one is the principle's operative feature: the redundancy lets the astronomical identity survive centuries of transmission during which the original meaning is lost, the first observers are forgotten, and later theological elaboration obscures the astronomical content.

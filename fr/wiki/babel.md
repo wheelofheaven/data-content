@@ -6,28 +6,36 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["the Tower of Babel", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (Akkadian: 'gate of the god')", "the Babel project", "the Babel event", "the Tower-of-Babel intervention", "the Confounding of Tongues", "the Confusion of Languages"]
+alternative_names = ["la tour de Babel", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (akkadien : « porte du dieu »)", "le projet de Babel", "l'événement de Babel", "l'intervention de la tour de Babel", "la Confusion des langues", "la Confusion des parlers"]
 timeline = ["gemini"]
+see_also = [
+    { title = "Grand Déluge", path = "wiki/great-flood", description = "La réinitialisation antérieure du Conseil ; Babel est l'intervention suivante contre la nouvelle avancée humaine." },
+    { title = "Alliance noahique", path = "wiki/noahic-covenant", description = "Le pacte privé post-diluvien dont Babel révèle le caractère local." },
+    { title = "Sodome et Gomorrhe", path = "wiki/sodom-and-gomorrah", description = "La frappe ultérieure, distinguée de Babel comme répression d'une rébellion plutôt que refus d'une réconciliation." },
+    { title = "Théomachie", path = "wiki/theomachy", description = "Le conflit politique plus large des Élohim auquel appartient l'intervention de Babel." },
+    { title = "Yahvé", path = "wiki/yahweh", description = "Prononce le pluriel « descendons » qui déclenche la dispersion de Babel." },
+    { title = "L'Alliance", path = "wiki/the-alliance", description = "L'organe intercivilisationnel dont la tour de Babel était l'offrande de paix." },
+]
 
 [extra.infobox]
-type = "Multi-component narrative event; the post-flood collaborative space-program reconciliation attempt and the Council intervention that ended it"
-chronology = "Late Age of Gemini (c. 6,690 BCE forward on the corpus's compressed timeline); after the Great Flood and the post-flood covenant; before the long Taurus-age quiet that preceded the Sodom and Gomorrah strike"
-location = "The land of Shinar (biblical) corresponding to ancient Sumer in the alluvial plains of the lower Tigris and Euphrates rivers; the principal site corresponds to the broader Babylon-Babel area of southern Mesopotamia"
-participants = "The post-flood Eden-lineage human population (the 'people of Israel' in the source's framing, designating the Eden-lineage genealogical line rather than the later geographical-political Israel); the exiled Serpentine-faction creators (the Lucifer-faction Eloha exiles); the home-world Council of the Eternals (the intervening party)"
-purpose_of_the_tower = "Peace-offering / diplomatic-reconciliation attempt: the alliance's strategic effort to argue the human creation's case before the Council by sending a delegation of human partners to the home world to demonstrate the human creation's intelligence, peacefulness, and gratitude — and to secure formal pardon for the alliance and the broader human creation"
-technological_character = "Substantial interstellar-capable spacecraft (the source's 'enormous rocket' framing); on the corpus's reading, the second-generation craft following first-generation interplanetary craft, with the Tower itself being either the spacecraft or the launch-facility for one"
-council_intervention = "Multi-component intervention: (1) targeted dispersion of the scientific elite across the post-flood continents; (2) destruction of all the research materials and scientific instruments; (3) fragmentation of the unified post-flood language into mutually incomprehensible variants; (4) effective termination of the broader space-program collaboration"
-operational_consequence = "The transformation of the Serpentine faction from peaceful dissidents seeking reconciliation into active rebels; the long quiet across most of the Age of Taurus before the subsequent Sodom rebellion attempt"
-distinguished_from = "The Great Flood (the chronologically prior Gemini-age destruction event); the Sodom and Gomorrah strike (the chronologically subsequent Taurus-age destruction event with substantively different operational character — military strike against rebellion rather than dispersion against reconciliation); the broader Theomachy multi-age narrative (within which the Babel intervention is one specific phase); the various conventional interpretations of Babel as defiance project (the framework's distinctive contribution is the peace-offering reading)"
-status_in_source_material = "Substantially documented; the principal Yahweh passage in 'The Tower of Babel' section of *The Book Which Tells the Truth* establishes the framework's specific content with explicit articulation"
-principal_text = "*The Book Which Tells the Truth* (1974), 'The Tower of Babel' section (the principal Yahweh passage); *timeline.epub* Age of Gemini chapter, Section XII (the substantial subsequent corpus articulation with detailed Hebrew exegesis, Sumerian-Enmerkar parallel, and broader narrative-arc context)"
+type = "Événement narratif postdiluvien ; un projet spatial mené par les humains et les créateurs exilés, lu comme une tentative de réconciliation, et l'intervention du Conseil du monde d'origine qui y mit fin"
+chronology = "Fin de l'ère des Gémeaux (à partir d'env. 6 690 av. J.-C. dans la chronologie du corpus) ; après le Déluge et l'alliance noachique ; avant le long calme de l'ère du Taureau qui précéda la frappe sur Sodome et Gomorrhe"
+location = "Le pays de Shinar (biblique) — l'ancienne Sumer, dans la plaine alluviale du cours inférieur du Tigre et de l'Euphrate ; le site principal correspond à la région de Babylone-Babel, dans le sud de la Mésopotamie"
+participants = "Les humains postdiluviens de la lignée d'Éden (le « peuple d'Israël » de la source, la population qui, par les unions des fils des Élohim avec les filles des hommes, devint le peuple juif) ; la faction Lucifer exilée, parmi les créateurs ; le Conseil des Éternels du monde d'origine (la partie qui intervint)"
+purpose_of_the_tower = "Une offrande de paix : la tentative de l'alliance de plaider la cause de la création humaine devant le Conseil en envoyant une délégation d'humains sur le monde d'origine pour montrer qu'ils étaient intelligents, pacifiques et reconnaissants — et obtenir un pardon"
+technological_character = "Un vaisseau capable de voyages interstellaires (l'« immense fusée » de la source) ; selon la lecture du corpus, un engin de deuxième génération succédant à des engins interplanétaires antérieurs, la Tour étant soit l'engin lui-même, soit son installation de lancement"
+council_intervention = "(1) dispersion de l'élite scientifique sur les continents postdiluviens ; (2) destruction du matériel et des instruments de recherche ; (3) fragmentation de la langue unique en langues mutuellement inintelligibles ; (4) arrêt du programme spatial"
+consequence = "La faction Lucifer exilée passe de la dissidence pacifique à la rébellion ouverte ; un long calme couvre la plus grande partie de l'ère du Taureau avant la rébellion de Sodome"
+distinguished_from = "Le Déluge (la frappe antérieure de l'ère des Gémeaux) ; la frappe sur Sodome et Gomorrhe (la frappe ultérieure de l'ère du Taureau — une frappe militaire contre une rébellion, et non une dispersion opposée à une réconciliation) ; la Théomachie au sens large (dont Babel est une phase) ; et la lecture conventionnelle de Babel comme défi (le cadre la lit comme une offrande de paix)"
+status_in_source_material = "Bien documenté ; le passage de Yahvé dans la section « La Tour de Babel » du *Livre qui dit la vérité* énonce directement le contenu central du cadre"
+principal_text = "*Le Livre qui dit la vérité* (1974), section « La Tour de Babel » (le principal passage de Yahvé) ; développé dans le matériau du corpus sur l'ère des Gémeaux, avec l'exégèse hébraïque, le parallèle d'Enmerkar et le contexte plus large de l'arc narratif"
 +++
 
 **Babel** (Hebrew: בָּבֶל, *Bavel*) is the Tower of Babel episode of

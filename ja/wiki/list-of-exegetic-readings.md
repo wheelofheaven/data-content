@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,24 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of neo-euhemeristic readings", "Framework exegesis index", "Glossary of operational readings"]
+alternative_names = ["新エウヘメリズム的読解の目録", "枠組みの釈義索引", "実際的読解の用語集"]
+see_also = [
+    { title = "神話素および神話的モチーフのリスト", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "個々の語ではなく、文化を横断して繰り返される物語の型を扱う姉妹目録。" },
+    { title = "語源学的読解のリスト", path = "wiki/list-of-etymological-readings", description = "特定の語や句についての文献学的読解を扱う姉妹目録。" },
+    { title = "エロヒム", path = "wiki/elohim", description = "この枠組みが歴史上の地球外の創造者たちとして実際的に読む、目録に収められた語。" },
+    { title = "創世記", path = "wiki/genesis", description = "目録がその物語のエピソードをネオエウヘメリズム的に読む主要な原典。" },
+    { title = "ヤハウェ", path = "wiki/yahweh", description = "神名を実際的な用語へと訳す、目録に収められた人物・称号の読解。" },
+    { title = "バベルの塔", path = "wiki/tower-of-babel", description = "目録が回復された実際の歴史として読み直す物語のエピソード。" },
+]
 
 [extra.infobox]
-type = "Reference catalogue of framework readings of religious and mythological terms"
-interpretive_method = "Neo-euhemeristic exegesis — translation of mythologised content into operational terms consistent with the source material's account"
-methodological_lineage = "Euhemerus of Messene (3rd c. BCE); Brinsley Le Poer Trench (1960); Jean Sendy (1968–1972); Erich von Däniken (1968); Zecharia Sitchin (1976–2010); Claude Vorilhon / Raël (1974–present); Mauro Biglino (1990s–present); Paul Wallis (2018–present)"
-scope = "Cosmological terms; narrative episodes; persons and titles; sacred objects and architecture; symbols and iconographic motifs; eschatological terms; theological concepts"
-catalogue_columns = "Term; framework reading; primary source within the framework lineage"
-companion_catalogues = "[List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/); [List of etymological readings](../list-of-etymological-readings/); [List of prophets and religions](../list-of-prophets-and-religions/)"
-caveat = "Coverage is most complete for terms in widely attested traditions; the catalogue is open to expansion as the corpus's coverage deepens"
+type = "宗教的・神話的な語についてのこの枠組みの読解の参考目録"
+interpretive_method = "新エウヘメリズム的釈義――神話化された内容を、典拠資料の説明と整合する実際的な言葉に翻訳すること"
+methodological_lineage = "メッセネのエウヘメロス(紀元前3世紀)、ブリンズリー・ル・ポア・トレンチ(1960年)、ジャン・サンディ(1968〜1972年)、エーリッヒ・フォン・デニケン(1968年)、ゼカリア・シッチン(1976〜2010年)、クロード・ヴォリロン/ラエル(1974年〜現在)、マウロ・ビリーノ(1990年代〜現在)、ポール・ウォリス(2018年〜現在)"
+scope = "宇宙論的な語、物語の挿話、人物と称号、聖なる物体と建築、象徴と図像モチーフ、終末論的な語、神学的概念"
+catalogue_columns = "語、この枠組みの読解、この枠組みの系譜における一次典拠"
+companion_catalogues = "[神話素および神話的モチーフのリスト](../list-of-mythemes-and-mythological-motifs/)、[語源学的読解のリスト](../list-of-etymological-readings/)、[預言者および宗教のリスト](../list-of-prophets-and-religions/)"
+caveat = "広く証言される伝統の語ほど網羅的である。目録はコーパスの範囲が深まるにつれて拡張される余地がある"
 +++
 
 This entry catalogues the Wheel of Heaven framework's adopted neo-euhemeristic readings of religious, mythological, and traditional terms — its glossary of operational readings, presented as a navigable reference instrument. The corpus's interpretive method here is the one applied throughout the wiki and the long-form chapter material: each term's surface content is translated into operational terms consistent with the source material's account of the Elohim civilisation and the Earth project, on the working hypothesis that the relevant traditions preserve, in varying states of clarity, historical content that the operational translation recovers.

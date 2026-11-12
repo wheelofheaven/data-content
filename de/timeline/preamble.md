@@ -6,13 +6,13 @@ template = "timeline-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-10-29"
 translation_stale = false
 translation_sync = 100
 symbol = "🚀"
 color = "silver"
-start_year = "before -21810"
+start_year = "vor -21810"
 end_year = "-21810"
 period = "vor 21.810 v. Chr."
 chapter = "2.1"

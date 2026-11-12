@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["*Shiʿur Qomah* (שִׁעוּר קוֹמָה)", "Sefer Haqqomah ('Livre du corps [divin]')", "la Mesure de la Stature", "la Mesure du Corps", "Ma'amar Rabbi Yishmael"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Yahvé", path = "wiki/yahweh", description = "La figure dont le canon attribue à la Kabbale les mesures de la « hauteur du créateur »." },
+    { title = "Planète d'origine des Elohim", path = "wiki/elohim-home-planet", description = "La distance que retrouve le cadre lorsque la parasange du texte est lue comme une seconde-lumière." },
+    { title = "Littérature des Hekhalot", path = "wiki/hekhalot-literature", description = "Le corpus mystique tardo-antique des palais et du char auquel appartient le texte." },
+    { title = "Kabbale", path = "wiki/kabbalah", description = "La mystique plus tardive que le canon raëlien désigne comme source des chiffres en parasanges." },
+    { title = "Élohim", path = "wiki/elohim", description = "Les ingénieurs dont le cadre lit les mesures cosmiques derrière les figures du corps divin." },
+    { title = "Bible hébraïque", path = "wiki/hebrew-bible", description = "La source scripturaire dont la guématrie du Psaume 147:5 engendre le chiffre clé de 236." },
+]
 
 [extra.infobox]
 type = "Texte du corpus mystique des Hekhalot / de la Merkavah ; « mesure du corps divin » anthropomorphique"

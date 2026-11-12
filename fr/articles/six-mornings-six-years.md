@@ -7,8 +7,8 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
-source_updated = "2026-11-01"
+translation_updated = "2026-11-12"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 claim_type = "inferred"
@@ -737,6 +737,7 @@ d'expériences terrestres sur des rats
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=62) %}TBWTT 7:61–62{% end %})
 — chevauchaient un programme de recherche qui s'est effondré dans la
 décennie. La planète d'origine située « un peu moins d'une année-lumière »
+({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=52) %}TBWTT 5:52{% end %})
 plus loin se trouve en plein espace vide selon tous les relevés depuis ;
 le troisième livre répond à l'objection par une hypothèse fournie par des
 membres, et non par une révélation, sur la lumière se déplaçant selon

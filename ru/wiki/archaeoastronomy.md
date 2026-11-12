@@ -6,25 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["archaeoastronomy", "astroarchaeology (earlier term)", "cultural astronomy (broader contemporary term)", "ethnoastronomy (related discipline)", "astronomy in culture (alternative designation)", "arch\u00e9oastronomie (French)", "Arch\u00e4oastronomie (German)"]
+alternative_names = ["археоастрономия", "астроархеология (более ранний термин)", "культурная астрономия (более широкий современный термин)", "этноастрономия (родственная дисциплина)", "астрономия в культуре (альтернативное обозначение)", "archéoastronomie (франц.)", "Archäoastronomie (нем.)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus", "age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "Мельница Гамлета", path = "wiki/hamlets-mill", description = "Гипотеза прецессионного кодирования, древние астрономические утверждения которой археоастрономия способна проверить." },
+    { title = "Эпоха мира", path = "wiki/world-age", description = "Структура прецессионных эпох, зависящая от того, обладали ли древние культуры знанием о прецессии." },
+    { title = "Зодиак", path = "wiki/zodiac", description = "Созвездная рамка, древний счёт по которой археоастрономия документирует через ориентации памятников." },
+    { title = "Гипотеза древних астронавтов", path = "wiki/ancient-astronaut-hypothesis", description = "Интерпретационная традиция, которую корпус противопоставляет магистральной археоастрономии в вопросе о догиппарховом знании." },
+    { title = "Древние строители", path = "wiki/ancient-builders", description = "Строители мегалитов и храмов, астрономические ориентации которых дисциплина обследует в поле." },
+    { title = "Сакральная геометрия", path = "wiki/sacred-geometry", description = "Архитектурно-математическое кодирование небесного знания, которое дисциплина читает в ориентированных памятниках." },
+    { title = "Гёбекли-Тепе", path = "wiki/gobekli-tepe", description = "Святилище ок. 9600 г. до н. э. в центре археоастрономического спора о столбе 43." },
+    { title = "Грэм Хэнкок", path = "wiki/graham-hancock", description = "Писатель, чьи книги популяризировали археоастрономическое прочтение древних памятников и вызвали споры о нём." },
+    { title = "Большой сфинкс", path = "wiki/great-sphinx", description = "Обращённый к равноденствию памятник-лев в центре аргумента о более древней датировке и эпохе Льва." },
+    { title = "Корреляция Ориона", path = "wiki/orion-correlation", description = "Тезис Бьювела о Гизе как наземной карте Ориона и датировка ок. 10 500 г. до н. э." },
+    { title = "Джон Энтони Уэст", path = "wiki/john-anthony-west", description = "Символистский Египет Уэста и Шваллера и утверждение об иконографии, следующей за прецессией." },
+]
 
 [extra.infobox]
-type = "Interdisciplinary scientific field studying astronomical knowledge, practices, and beliefs of ancient and pre-modern cultures; principal empirical discipline relevant to corpus chronological framework"
-disciplinary_emergence = "Sir Norman Lockyer (*The Dawn of Astronomy*, 1894); Alexander Thom (1950s-1970s); Gerald Hawkins (*Stonehenge Decoded*, 1965); the substantial subsequent disciplinary development since the 1960s-1970s"
+type = "Междисциплинарная научная область, изучающая астрономические знания, практики и верования древних и досовременных культур; эмпирическая дисциплина, наиболее непосредственно связанная с хронологической рамкой корпуса"
+disciplinary_emergence = "Сэр Норман Локьер (*The Dawn of Astronomy*, 1894); Александр Том (1950–1970-е); Джеральд Хокинс (*Stonehenge Decoded*, 1965); оформление в самостоятельную дисциплину в 1960–1970-е годы"
 principal_methodological_framework = "Green vs. brown archaeoastronomy distinction (Ruggles); statistical-quantitative analysis (green) vs. intensive cultural-ethnographic engagement (brown)"
-principal_research_methods = "Field surveys with theodolite measurements of alignment azimuths; astronomical reconstruction of ancient skies; ethnographic and ethnohistorical engagement; statistical analysis of alignment populations; computational simulation of ancient celestial conditions; integrated archaeological-astronomical analysis"
-principal_documented_phenomena = "Solar alignments (solstices, equinoxes, cross-quarter days); lunar alignments (18.6-year lunar standstill cycle); stellar alignments (Sirius heliacal rising, Orion, Pleiades, others); planetary alignments (Venus principally); precessional content (contested degree); calendar-mathematical content; broader cosmological-religious content"
-principal_corpus_engagement = "Mainstream archaeoastronomy as substantive empirical foundation for corpus chronological framework; *Hamlet's Mill* precessional-encoding hypothesis as principal load-bearing methodological commitment; substantial cross-cultural pre-Hipparchean precessional awareness as corpus claim"
-distinguished_from = "Astrology (the substantial astrological tradition engaging celestial-terrestrial correspondence); the broader history of astronomy (the substantial discipline studying astronomical knowledge through written records principally); pseudo-archaeoastronomy (the substantial alternative-archaeoastronomy tradition with methodologically problematic engagement)"
-status_in_framework = "Principal empirical discipline relevant to corpus chronological framework; substantive engagement with the *Hamlet's Mill* hypothesis and broader corpus precessional content; corpus position threads mainstream-acceptable and alternative-tradition content carefully"
+principal_research_methods = "Полевые обследования с теодолитными измерениями азимутов ориентации; астрономическая реконструкция древнего неба; этнографическая и этноисторическая работа; статистический анализ совокупностей ориентаций; компьютерное моделирование древних небесных условий; комплексный археолого-астрономический анализ"
+principal_documented_phenomena = "Солнечные ориентации (солнцестояния, равноденствия, промежуточные дни между ними); лунные ориентации (18,6-летний цикл лунных остановок); звёздные ориентации (гелиакический восход Сириуса, Орион, Плеяды и др.); планетарные ориентации (главным образом Венера); прецессионное содержание (степень спорна); календарно-математическое содержание; более широкое космолого-религиозное содержание"
+principal_corpus_engagement = "Общепринятая археоастрономия как эмпирическая основа хронологической рамки корпуса; гипотеза *Мельницы Гамлета* о прецессионном кодировании как несущая методологическая установка; догиппарховское знание о прецессии, переданное через контакт с создателями, как отличительное утверждение корпуса"
+distinguished_from = "Астрология (традиция соответствия небесного и земного); история астрономии (изучение астрономических знаний главным образом по письменным источникам); псевдоархеоастрономия (альтернативная традиция, чей метод критикует общепринятая археоастрономия)"
+status_in_framework = "Эмпирическая дисциплина, наиболее значимая для хронологической рамки корпуса; принимает гипотезу *Мельницы Гамлета* как выводную инфраструктуру; отличает строгую археоастрономию от спекулятивной альтернативной традиции, честно прочитывая обе"
 +++
 
 **Archaeoastronomy** is the interdisciplinary study of how ancient and

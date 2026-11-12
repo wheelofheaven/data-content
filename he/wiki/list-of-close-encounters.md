@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,18 +16,27 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
 alternative_names = ["Catalogue of pre-modern close encounters", "Pre-1500 UFO and contact-event index", "Catalogue of unexplained aerial phenomena (antiquity through 1499 CE)"]
+see_also = [
+    { title = "אלוהים", path = "wiki/elohim", description = "הנוכחות שהמפגשים המקוטלגים נקראים כמתעדים לאורך התקופה שלאחר עדן." },
+    { title = "נאו-אוהמריזם", path = "wiki/neo-euhemerism", description = "המהלך הפרשני המחיל מינוח מפגשים מודרני על תיאורים טרום־מודרניים." },
+    { title = "רשימת מיתמות ומוטיבים מיתולוגיים", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "קטלוג משלים הממפתח את חומר הסיפור החוזר לצד המפגשים." },
+    { title = "רשימת אתרים מגליתיים", path = "wiki/list-of-megalithic-sites", description = "קטלוג עזר משלים של תיעוד הבנייה הפיזי." },
+    { title = "יחזקאל", path = "wiki/ezekiel", description = "תיאור מפגש נבואי הנכלל בין הדיווחים המקוטלגים." },
+    { title = "אליהו", path = "wiki/elijah", description = "תיאור מקראי של עלייה באוויר, הנקרא בקטלוג כמפגש קרוב." },
+    { title = "שישה בקרים, שש שנים", path = "articles/six-mornings-six-years", description = "שחזור ברמת הפסקה של המפגשים של 1973 ו־1975 ושל הגאוגרפיה שלהם." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of pre-modern reported close encounters and aerial phenomena"
-scope = "c. 1460 BCE through 1499 CE (pre-modern, pre-Columbian-encounter, pre-scientific-revolution period)"
-principal_source = "Jacques Vallée and Chris Aubeck, *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times* (Tarcher/Penguin, 2009)"
-classification_instrument = "J. Allen Hynek's close-encounter classification (CE1–CE5, 1972 and later additions), applied to pre-modern accounts as a deliberate neo-euhemeristic interpretive move"
-geographic_coverage = "Mediterranean basin, Western Europe, Eastern Mediterranean, East Asia (especially China and Japan), Near East, with sparse coverage of the Americas (pre-1492) and sub-Saharan Africa"
-total_entries = "Approximately 130 reported encounters across the c. 3,000-year period"
-catalogue_columns = "Encounter; year; location; description (combining reported content with framework reading where applicable); Hynek classification where determinable"
-companion_catalogues = "[List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/); [List of megalithic sites](../list-of-megalithic-sites/)"
-framework_position = "The catalogued encounters preserve the documented historical record of operational Elohim and related presence on Earth across the post-Eden period; the cross-cultural phenomenological continuity is read as evidence of a unitary phenomenon rather than as folkloric coincidence or parallel invention"
-caveat = "Source reliability varies substantially across entries; many encounters survive only in single late chronicles or in literary contexts where the line between report and embellishment is unclear; the catalogue presents the reports as transmitted with framework readings indicated separately"
+type = "קטלוג עזר של מפגשים מקרוב ותופעות אוויריות טרום־מודרניים שדווחו"
+scope = "בסביבות 1460 לפנה״ס עד 1499 לספירה (התקופה הטרום־מודרנית, שלפני המפגש עם קולומבוס ושלפני המהפכה המדעית)"
+principal_source = "ז'אק ואלה וכריס אובק, *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times* (Tarcher/Penguin, 2009)"
+classification_instrument = "סיווג המפגשים מקרוב של ג'יי אלן הייניק (CE1–CE5, 1972 ותוספות מאוחרות), המוחל על תיאורים טרום־מודרניים כצעד פרשני נאו־אוהמריסטי מכוון"
+geographic_coverage = "אגן הים התיכון, מערב אירופה, מזרח הים התיכון, מזרח אסיה (במיוחד סין ויפן), המזרח הקרוב, עם כיסוי דליל של אמריקה (לפני 1492) ושל אפריקה שמדרום לסהרה"
+total_entries = "כ־130 מפגשים מדווחים לאורך תקופה של כ־3,000 שנה"
+catalogue_columns = "מפגש; שנה; מקום; תיאור (המשלב את התוכן המדווח עם קריאת המסגרת היכן שרלוונטי); סיווג הייניק היכן שניתן לקבוע"
+companion_catalogues = "[רשימת מיתמות ומוטיבים מיתולוגיים](../list-of-mythemes-and-mythological-motifs/); [רשימת אתרים מגליתיים](../list-of-megalithic-sites/)"
+framework_position = "המפגשים שבקטלוג משמרים את הרישום ההיסטורי המתועד של נוכחות מבצעית של האלוהים ושל נוכחות קשורה על כדור הארץ לאורך התקופה שאחרי עדן; הרציפות הפנומנולוגית הבין־תרבותית נקראת כראיה לתופעה אחת ולא כצירוף מקרים פולקלוריסטי או כהמצאה מקבילה"
+caveat = "מהימנות המקורות משתנה במידה ניכרת בין הרשומות; מפגשים רבים שרדו רק בכרוניקה מאוחרת אחת או בהקשרים ספרותיים שבהם הגבול בין דיווח לקישוט אינו ברור; הקטלוג מציג את הדיווחים כפי שהועברו, וקריאות המסגרת מצוינות בנפרד"
 +++
 
 This entry catalogues reported close encounters with aerial phenomena and their occupants across the pre-modern period, from approximately 1460 BCE through 1499 CE. The catalogue follows the cataloguing work of **Jacques Vallée and Chris Aubeck** in *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times* (Tarcher/Penguin, 2009), the principal contemporary scholarly compilation of pre-modern reports, which examines approximately 500 pre-1880 incidents drawn from chronicles, religious texts, military histories, monastic annals, and other documentary sources.

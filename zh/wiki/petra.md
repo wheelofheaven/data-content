@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -24,6 +24,14 @@ entry_type = "place"
 claim_type = "speculative"
 timeline = ["pisces"]
 alternative_names = ["Πέτρα(希腊语,意为“石头”)", "רקמו(纳巴泰语 Raqmū)", "רֶקֶם(希伯来语 Reqem)", "Rekem", "Raqēmō", "ٱلْبَتْرَاء(阿拉伯语 al-Batrāʾ)", "Sela(圣经中的“石头”)", "诸殖民地之母", "峡谷的雷克姆(Reqem of the Gorges)"]
+see_also = [
+    { title = "纳巴泰人", path = "wiki/nabataeans", description = "以佩特拉为其凿岩都城的阿拉伯王国。" },
+    { title = "哈尼夫信仰", path = "wiki/hanafiyya", description = "其地理被该假说迁置于佩特拉的亚伯拉罕宗教。" },
+    { title = "穆罕默德", path = "wiki/muhammad", description = "其最早的社群被朝向论证重新指向佩特拉的先知。" },
+    { title = "亚伯拉罕", path = "wiki/abraham", description = "文集将早期伊斯兰解读为复兴其所恢复之宗教的族长。" },
+    { title = "众神之多元性", path = "wiki/plurality-of-gods", description = "佩特拉在被作亚伯拉罕式解读之前所供奉的纳巴泰异教万神殿。" },
+    { title = "创世记", path = "wiki/genesis", description = "佩特拉假说据以解读的经文中亚伯拉罕背景。" },
+]
 
 [extra.infobox]
 type = "凿岩而成的纳巴泰商队都城;联合国教科文组织世界遗产;“佩特拉即最初的麦加”假说的地理核心"

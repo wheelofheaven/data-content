@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,19 +14,28 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
-alternative_names = ["Genetic modification", "Gene splicing (historical informal usage)", "Recombinant DNA technology (the foundational subdomain)", "Genome editing (the contemporary CRISPR-era subdomain)"]
+alternative_names = ["Генетическая модификация", "Сплайсинг генов (историческое неформальное употребление)", "Технология рекомбинантной ДНК (основополагающая подобласть)", "Редактирование генома (современная подобласть эпохи CRISPR)"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "Инструментарий Бытия", path = "wiki/genesis-toolbox", description = "Синтез на уровне программы, собирающий полный стек творения, одним из компонентов которого является эта дисциплина." },
+    { title = "Инженерия жизни", path = "wiki/life-engineering", description = "Обобщающее понятие, упорядочивающее генетическую инженерию и родственные дисциплины внутри рамки." },
+    { title = "Синтетическая биология", path = "wiki/synthetic-biology", description = "Инженерная дисциплина, перекрывающая и расширяющая генетическую инженерию." },
+    { title = "Синтетическая геномика", path = "wiki/synthetic-genomics", description = "Область проектирования и синтеза в масштабе генома, выросшая из генетической инженерии." },
+    { title = "Пантропия", path = "wiki/pantropy", description = "Конструирование организмов для неземных сред — родственная дисциплина-наследница." },
+    { title = "Великое возвращение", path = "wiki/great-return", description = "Ожидаемая передача знаний, к которой, по прочтению рамки, готовят нынешние инженерные возможности." },
+    { title = "Элохим", path = "wiki/elohim", description = "Цивилизация, изначальную синтетическую способность которой, по прочтению рамки, восстанавливает человечество." },
+]
 
 [extra.infobox]
-type = "The scientific discipline of deliberately modifying an organism's genetic material to introduce, alter, or transfer genetic content"
-foundational_period = "Early 1970s — Paul Berg's first recombinant DNA molecule (1972); Stanley Cohen and Herbert Boyer's first successful bacterial transformation with recombinant DNA (1973); the Asilomar Conference (February 1975)"
-foundational_figures = "Paul Berg (Stanford, recombinant DNA, Nobel Prize 1980); Stanley Cohen (Stanford) and Herbert Boyer (UCSF) (Cohen-Boyer technique, 1973); Werner Arber, Daniel Nathans, Hamilton Smith (restriction enzymes, Nobel Prize 1978); Frederick Sanger (DNA sequencing, second Nobel Prize 1980); Kary Mullis (PCR, Nobel Prize 1993); Jennifer Doudna and Emmanuelle Charpentier (CRISPR-Cas9, Nobel Prize 2020)"
-foundational_techniques = "Restriction enzymes; DNA ligase; plasmids as vectors; bacterial transformation; polymerase chain reaction (PCR); DNA sequencing (Sanger method, subsequent next-generation sequencing); gel electrophoresis"
-contemporary_techniques = "CRISPR-Cas9 (genome editing, 2012 onward); CRISPR-Cas12, CRISPR-Cas13 (variant systems); base editing; prime editing; TALENs (transcription activator-like effector nucleases); zinc finger nucleases; gene drives; mRNA technology (substantively developed during the COVID-19 vaccine response)"
-regulatory_framework = "NIH Guidelines for Research Involving Recombinant DNA Molecules (1976, regularly updated); USDA, FDA, EPA regulatory authority (US); the substantially more restrictive EU regulatory framework; Cartagena Protocol on Biosafety (2003); national variations across most jurisdictions; the contemporary contested status of heritable human genome editing"
-major_applications = "Medical (recombinant insulin from 1978, recombinant therapeutic proteins, gene therapy, CAR-T cell therapy, mRNA vaccines); agricultural (Bt crops, Roundup-Ready crops, Golden Rice, the broader GMO industry); industrial (bioplastics, biofuels, recombinant enzymes); research (model organisms, knockout/knock-in studies, cellular reprogramming)"
-related_disciplines = "Synthetic biology; synthetic genomics; pantropy; life engineering (the broader umbrella concept); cell biology; molecular biology; biochemistry; bioinformatics; structural biology"
-framework_significance = "Read by the framework as the substantive recovery by humanity of the engineering capabilities the Elohim used in the original synthesis approximately 25,000 years ago; the contemporary acceleration of genetic-engineering capability corresponds substantively to the framework's reading of the contemporary Age-of-Apocalypse transitional period"
+type = "Научная дисциплина намеренного изменения генетического материала организма с целью введения, изменения или переноса генетического содержания"
+foundational_period = "Начало 1970-х — первая рекомбинантная молекула ДНК Пола Берга (1972); первая успешная трансформация бактерий рекомбинантной ДНК Стэнли Коэном и Гербертом Бойером (1973); Асиломарская конференция (февраль 1975)"
+foundational_figures = "Пол Берг (Стэнфорд, рекомбинантная ДНК, Нобелевская премия 1980); Стэнли Коэн (Стэнфорд) и Герберт Бойер (UCSF) (техника Коэна–Бойера, 1973); Вернер Арбер, Даниел Натанс, Гамильтон Смит (рестриктазы, Нобелевская премия 1978); Фредерик Сэнгер (секвенирование ДНК, вторая Нобелевская премия 1980); Кэри Маллис (ПЦР, Нобелевская премия 1993); Дженнифер Даудна и Эмманюэль Шарпантье (CRISPR-Cas9, Нобелевская премия 2020)"
+foundational_techniques = "Рестриктазы; ДНК-лигаза; плазмиды как векторы; бактериальная трансформация; полимеразная цепная реакция (ПЦР); секвенирование ДНК (метод Сэнгера, затем секвенирование нового поколения); гель-электрофорез"
+contemporary_techniques = "CRISPR-Cas9 (редактирование генома, с 2012 года); CRISPR-Cas12, CRISPR-Cas13 (варианты систем); редактирование оснований; прайм-редактирование; TALEN (эффекторные нуклеазы, подобные активаторам транскрипции); нуклеазы с цинковыми пальцами; генные драйвы; мРНК-технология (стремительно развитая в ходе создания вакцин против COVID-19)"
+regulatory_framework = "Руководящие принципы NIH для исследований с рекомбинантными молекулами ДНК (1976, регулярно обновляются); регуляторные полномочия USDA, FDA, EPA (США); более строгая рамка ЕС; Картахенский протокол по биобезопасности (2003); национальные различия в большинстве юрисдикций; спорный статус наследуемого редактирования генома человека"
+major_applications = "Медицина (рекомбинантный инсулин с 1978 года, рекомбинантные терапевтические белки, генная терапия, CAR-T-клеточная терапия, мРНК-вакцины); сельское хозяйство (Bt-культуры, культуры Roundup Ready, «Золотой рис», ГМО-индустрия в целом); промышленность (биопластики, биотопливо, рекомбинантные ферменты); исследования (модельные организмы, нокаутные и нокин-исследования, клеточное перепрограммирование)"
+related_disciplines = "Синтетическая биология; синтетическая геномика; пантропия; инженерия жизни (более широкое объемлющее понятие); клеточная биология; молекулярная биология; биохимия; биоинформатика; структурная биология"
+framework_significance = "Прочитывается рамкой как возвращение человечеству инженерной способности, которой Элохим пользовались при синтезе земной жизни; ускорение развития этой способности прочитывается как признак перехода Эпохи Апокалипсиса"
 +++
 
 **Genetic engineering** is the deliberate modification of an organism's genetic

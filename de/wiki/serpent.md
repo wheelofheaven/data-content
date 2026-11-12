@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -26,6 +26,8 @@ see_also = [
     { title = "Jahwe", path = "wiki/yahweh", description = "Der Anführer des Israel-Teams, der das Urteil nach der Enthüllung sprach." },
     { title = "Satan", path = "wiki/satan", description = "Eine eigenständige Elohim-Figur — politisch der Gegenpol zur Schlange/Luzifer, erst in späterer Tradition vermengt." },
     { title = "Baum des Lebens", path = "wiki/tree-of-life", description = "Die nach der Vertreibung bewachte Technologie der Langlebigkeit." },
+    { title = "Der Erzdiakon und der Drache", path = "articles/the-archdeacon-and-the-dragon", description = "Die Taxonomie der vier Gestalten Schlange/Luzifer/Satan/Jahwe ist vor der Lesart dieses Eintrags als abweichende Fraktion aufgebaut." },
+    { title = "Die Drachenkurve", path = "articles/the-dragon-curve", description = "Der Artikel, der als ausgewiesene Vermutung fragt, ob die als Schlange erinnerte Fraktion auch für das Drachenwerk erinnert wird." }
 ]
 
 footnotes = [

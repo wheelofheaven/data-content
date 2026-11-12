@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -15,20 +15,30 @@ editorial_pass = "2026-05"
 entry_type = "event"
 alternative_names = ["the Noahic Covenant", "the post-flood covenant", "the rainbow covenant", "the Noahide covenant (Jewish tradition designation)", "the originary biblical covenant"]
 timeline = ["age-of-gemini"]
+see_also = [
+    { title = "挪亚", path = "wiki/noah", description = "被流放造物者的人类伙伴，盟约中的较低一方。" },
+    { title = "大洪水", path = "wiki/great-flood", description = "盟约所回应并为之画上句号的双子座时代大灾难。" },
+    { title = "路西法", path = "wiki/lucifer", description = "在祭坛前成为盟约较高一方的被流放造物者派系。" },
+    { title = "联盟", path = "wiki/the-alliance", description = "盟约所创立的跨文明伙伴关系。" },
+    { title = "耶和华", path = "wiki/yahweh", description = "洪水后“永不再如此”的承诺以其投票为依据的议会主席。" },
+    { title = "巴别", path = "wiki/babel", description = "其令议会措手不及之事显示出盟约私下性质的后来计划。" },
+    { title = "希伯来圣经", path = "wiki/hebrew-bible", description = "创世记 8–9 章盟约叙事及其彩虹记号的出处。" },
+    { title = "新诫命", path = "wiki/new-commandments", description = "结束挪亚之约所开启之序列的水瓶座时代盟约。" },
+]
 
 [extra.infobox]
-type = "Post-flood political-religious event; formal alliance founding between the exiled-creator faction and the surviving humans led by Noah"
-hebrew_term = "בְּרִית (brit, 'covenant, alliance, agreement')"
-biblical_location = "Genesis 8:20-9:17 (the principal narrative); subsequent references in Isaiah 24:5, Isaiah 54:9, Jeremiah 33:20-26, Hosea 6:7"
+type = "洪水后的政治—宗教事件；流亡的路西法创造者派系与挪亚率领的幸存人类之间结成联盟"
+hebrew_term = "בְּרִית（brit，「约、联盟、协定」）"
+biblical_location = "创世记 8:20-9:17（主要叙事）；后续提及见以赛亚书 24:5、以赛亚书 54:9、耶利米书 33:20-26、何西阿书 6:7"
 biblical_dating = "Cancer-Gemini boundary aftermath in corpus chronology (immediately following c. 6,690 BCE flood event); mainstream biblical chronology generally treats Genesis 9 as Priestly (P) source composition c. 6th century BCE"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in the Age of Gemini chapter, Sections VIII and XIII"
-core_corpus_articulation = "Private arrangement between the exiled-creator faction (the Serpentine faction) and the surviving humans led by Noah; founding alliance distinct from the home-world Council whose non-participation is demonstrated by subsequent Babel-project surprise"
-covenant_parties = "Exiled creators (the Serpentine faction); humans led by Noah and his family (the Eden-lineage survivors)"
-covenant_terms = "Exiled creators: non-participation in future destruction of humanity; acknowledgment of legitimacy of human scientific progress. Humans: gratitude, productive rebuilding, ritual recognition through offerings"
-covenant_sign = "Rainbow (Hebrew קֶשֶׁת *keshet*, dual meaning rainbow + bow-as-weapon); the bow used against the earth now hung in the cloud as visible token of laid-down weapon"
-seven_noahide_laws = "Subsequent Jewish rabbinic articulation (Talmud Sanhedrin 56a-60a): prohibitions against idolatry, blasphemy, murder, sexual immorality, theft, eating flesh from a living animal; positive requirement of courts of justice"
-distinguished_from = "The home-world Council (Council not party to the covenant); subsequent biblical covenants (Abrahamic, Mosaic, Davidic, New — sequential elaborations); mainstream Christian theological covenant readings (which generally treat covenant as agreement with single divine party rather than as private exiled-creator-human arrangement)"
-status_in_framework = "Foundational post-flood political-religious event; the originary alliance founding subsequent covenant tradition; the formal beginning of partnership structuring all subsequent alliance activity"
+principal_source = "《讲述真相之书》（沃里隆，1974），「真实」一章；汇编于 《来自设计者的信息》（2005）；文集的主要论述见双子座时代一章"
+core_corpus_articulation = "流亡的路西法创造者派系与挪亚率领的幸存人类之间的私下约定；联盟由此创立，有别于故乡世界的议会——议会后来对巴别之事的意外表明它并未参与"
+covenant_parties = "流亡的创造者（路西法派系，资深一方）；挪亚及其家人（伊甸血统的幸存者，资浅一方）"
+covenant_terms = "流亡的创造者：不参与未来任何毁灭人类的行动；承认人类科学进步的正当性。人类：感恩、积极重建、以献祭进行仪式性的承认"
+covenant_sign = "虹（希伯来语 קֶשֶׁת keshet，兼有「彩虹」与「作为武器的弓」双重含义）；曾用来对付大地的弓如今挂在云中，作为放下武器的记号"
+seven_noahide_laws = "后来犹太拉比的表述（《塔木德·公会篇》56a-60a）：禁止偶像崇拜、亵渎、谋杀、性不道德、偷窃、食用活体动物的肉；另加设立法庭的积极要求"
+distinguished_from = "故乡世界的议会（并非立约一方）；圣经中后续的诸约（亚伯拉罕之约、摩西之约、大卫之约、新约——相继的展开）；主流基督教的圣约神学（将此约视为与唯一神圣一方的约定，而非创造者与人类之间的私下约定）"
+status_in_framework = "洪水后的基础性事件；开启此后所有联盟活动之序列的原初之约"
 +++
 
 **The Noahic Covenant** is the post-flood agreement recorded in Genesis

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,17 +16,26 @@ entry_type = "concept"
 claim_type = "direct"
 alternative_names = ["Genetic modification", "Gene splicing (historical informal usage)", "Recombinant DNA technology (the foundational subdomain)", "Genome editing (the contemporary CRISPR-era subdomain)"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "Caja de herramientas del Génesis", path = "wiki/genesis-toolbox", description = "La síntesis a nivel de programa que reúne la pila completa de la creación de la que esta disciplina es un componente." },
+    { title = "Ingeniería de la vida", path = "wiki/life-engineering", description = "El concepto general que organiza la ingeniería genética y sus disciplinas hermanas dentro del marco." },
+    { title = "Biología sintética", path = "wiki/synthetic-biology", description = "El campo de la disciplina de ingeniería que se solapa con la ingeniería genética y la amplía." },
+    { title = "Genómica sintética", path = "wiki/synthetic-genomics", description = "El campo del diseño y la síntesis a escala genómica surgido de la ingeniería genética." },
+    { title = "Pantropía", path = "wiki/pantropy", description = "La ingeniería de organismos para entornos no terrestres, una disciplina descendiente afín." },
+    { title = "Gran Regreso", path = "wiki/great-return", description = "La transferencia de conocimiento prevista para la que, según el marco, prepara la actual capacidad de ingeniería." },
+    { title = "Elohim", path = "wiki/elohim", description = "La civilización cuya capacidad de síntesis original, según el marco, la humanidad está recuperando." },
+]
 
 [extra.infobox]
-type = "The scientific discipline of deliberately modifying an organism's genetic material to introduce, alter, or transfer genetic content"
-foundational_period = "Early 1970s — Paul Berg's first recombinant DNA molecule (1972); Stanley Cohen and Herbert Boyer's first successful bacterial transformation with recombinant DNA (1973); the Asilomar Conference (February 1975)"
-foundational_figures = "Paul Berg (Stanford, recombinant DNA, Nobel Prize 1980); Stanley Cohen (Stanford) and Herbert Boyer (UCSF) (Cohen-Boyer technique, 1973); Werner Arber, Daniel Nathans, Hamilton Smith (restriction enzymes, Nobel Prize 1978); Frederick Sanger (DNA sequencing, second Nobel Prize 1980); Kary Mullis (PCR, Nobel Prize 1993); Jennifer Doudna and Emmanuelle Charpentier (CRISPR-Cas9, Nobel Prize 2020)"
-foundational_techniques = "Restriction enzymes; DNA ligase; plasmids as vectors; bacterial transformation; polymerase chain reaction (PCR); DNA sequencing (Sanger method, subsequent next-generation sequencing); gel electrophoresis"
+type = "La disciplina científica que modifica deliberadamente el material genético de un organismo para introducir, alterar o transferir contenido genético"
+foundational_period = "Principios de la década de 1970: la primera molécula de ADN recombinante de Paul Berg (1972); la primera transformación bacteriana con ADN recombinante lograda por Stanley Cohen y Herbert Boyer (1973); la Conferencia de Asilomar (febrero de 1975)"
+foundational_figures = "Paul Berg (Stanford, ADN recombinante, Premio Nobel 1980); Stanley Cohen (Stanford) y Herbert Boyer (UCSF) (técnica Cohen-Boyer, 1973); Werner Arber, Daniel Nathans, Hamilton Smith (enzimas de restricción, Premio Nobel 1978); Frederick Sanger (secuenciación del ADN, segundo Premio Nobel 1980); Kary Mullis (PCR, Premio Nobel 1993); Jennifer Doudna y Emmanuelle Charpentier (CRISPR-Cas9, Premio Nobel 2020)"
+foundational_techniques = "Enzimas de restricción; ADN ligasa; plásmidos como vectores; transformación bacteriana; reacción en cadena de la polimerasa (PCR); secuenciación del ADN (método de Sanger y la posterior secuenciación de nueva generación); electroforesis en gel"
 contemporary_techniques = "CRISPR-Cas9 (genome editing, 2012 onward); CRISPR-Cas12, CRISPR-Cas13 (variant systems); base editing; prime editing; TALENs (transcription activator-like effector nucleases); zinc finger nucleases; gene drives; mRNA technology (substantively developed during the COVID-19 vaccine response)"
-regulatory_framework = "NIH Guidelines for Research Involving Recombinant DNA Molecules (1976, regularly updated); USDA, FDA, EPA regulatory authority (US); the substantially more restrictive EU regulatory framework; Cartagena Protocol on Biosafety (2003); national variations across most jurisdictions; the contemporary contested status of heritable human genome editing"
-major_applications = "Medical (recombinant insulin from 1978, recombinant therapeutic proteins, gene therapy, CAR-T cell therapy, mRNA vaccines); agricultural (Bt crops, Roundup-Ready crops, Golden Rice, the broader GMO industry); industrial (bioplastics, biofuels, recombinant enzymes); research (model organisms, knockout/knock-in studies, cellular reprogramming)"
-related_disciplines = "Synthetic biology; synthetic genomics; pantropy; life engineering (the broader umbrella concept); cell biology; molecular biology; biochemistry; bioinformatics; structural biology"
-framework_significance = "Read by the framework as the substantive recovery by humanity of the engineering capabilities the Elohim used in the original synthesis approximately 25,000 years ago; the contemporary acceleration of genetic-engineering capability corresponds substantively to the framework's reading of the contemporary Age-of-Apocalypse transitional period"
+regulatory_framework = "Directrices de los NIH para la investigación con moléculas de ADN recombinante (1976, actualizadas periódicamente); competencias regulatorias del USDA, la FDA y la EPA (EE. UU.); el marco más restrictivo de la UE; Protocolo de Cartagena sobre Seguridad de la Biotecnología (2003); variaciones nacionales en la mayoría de las jurisdicciones; el estatus discutido de la edición heredable del genoma humano"
+major_applications = "Médicas (insulina recombinante desde 1978, proteínas terapéuticas recombinantes, terapia génica, terapia celular CAR-T, vacunas de ARNm); agrícolas (cultivos Bt, cultivos Roundup Ready, arroz dorado, la industria de los OGM en general); industriales (bioplásticos, biocombustibles, enzimas recombinantes); de investigación (organismos modelo, estudios de knockout/knock-in, reprogramación celular)"
+related_disciplines = "Biología sintética; genómica sintética; pantropía; ingeniería de la vida (el concepto general más amplio); biología celular; biología molecular; bioquímica; bioinformática; biología estructural"
+framework_significance = "El marco lo lee como la recuperación por parte de la humanidad de la capacidad de ingeniería que los Elohim usaron para sintetizar la vida terrestre; la aceleración de esa capacidad se lee como un indicador de la transición de la era del Apocalipsis"
 +++
 
 **Genetic engineering** is the deliberate modification of an organism's genetic

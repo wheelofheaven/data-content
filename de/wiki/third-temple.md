@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -20,17 +20,24 @@ entry_type = "place"
 claim_type = "direct"
 alternative_names = ["Beit ha-Mikdash ha-Shlishi (Hebrew, \"the Third Holy House\")", "The Embassy (in Raëlian terminology)", "The Residence (in some source-material passages)", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "The Messianic Temple"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "Botschaft", path = "wiki/embassy", description = "Die von Vorilhon spezifizierte Empfangsresidenz, die der Rahmen mit dem Dritten Tempel gleichsetzt." },
+    { title = "Große Rückkehr", path = "wiki/great-return", description = "Die erwartete Rückkehr der Elohim, für die die Botschaft bzw. der Dritte Tempel der erforderliche Empfangsort ist." },
+    { title = "Jahwe", path = "wiki/yahweh", description = "Der Präsident der Elohim, der im Kanon die Bedingungen für die Spezifikation der Botschaft festlegt." },
+    { title = "Elohim", path = "wiki/elohim", description = "Die Zivilisation, zu deren offizieller Rückkehr die Botschaft bzw. der Dritte Tempel gebaut wird." },
+    { title = "Goldenes Zeitalter", path = "wiki/golden-age", description = "Die Erfüllung im Wassermann-Zeitalter, in der der Bau des Dritten Tempels erwartet wird." }
+]
 
 [extra.infobox]
-type = "Anticipated future Temple in Jerusalem (in Jewish eschatology); functionally identified with the Embassy required for the Elohim's Great Return (in the Wheel of Heaven framework)"
-principal_biblical_sources = "Ezekiel 40-48 (the principal architectural vision, c. 573 BCE); Haggai 2:9; Zechariah 6:12-13; Isaiah 2:2-4 / Micah 4:1-3"
-historical_predecessors = "The Tabernacle (Mosaic period, c. 14th-13th centuries BCE); the First Temple (Solomon's Temple, c. 957–587 BCE, destroyed by the Babylonians); the Second Temple (516 BCE–70 CE, destroyed by the Romans)"
-contemporary_temple_mount_status = "Occupied by the Dome of the Rock (691-692 CE) and the al-Aqsa Mosque (705-715 CE); the third-holiest site in Islam; status quo since 1967: Israeli perimeter security, Waqf (Jordanian Islamic religious trust) administration, contested Jewish prayer access"
-jewish_preparation_organizations = "The Temple Institute (Machon HaMikdash, founded 1987 by Rabbi Yisrael Ariel); the Sanhedrin Initiative; the various red heifer breeding programs; the broader Religious Zionist Temple-preparation tradition"
-christian_engagement = "Dispensationalist eschatology (Darby 19th century, Scofield Reference Bible 1909, the Left Behind series 1995-2007); substantively contested by amillennial, postmillennial, and preterist Christian positions"
-raelian_identification = "The Embassy specified in the Vorilhon source material (*Le Livre qui dit la vérité*, 1974, Sixth Chapter \"The New Commandments,\" Section \"Your Mission\") is identified by the source material with the Third Temple of the Hebrew biblical tradition"
-raelian_embassy_history = "The Raëlian Movement formally requested Embassy land in Israel seven times between approximately 1990 and 2015, with all requests denied; on August 6, 2015 (21 Av 5775 in the Hebrew calendar), the source material declared the Elohim's protection of Israel withdrawn; subsequent proposals have involved Palestinian Authority territories and other locations"
-framework_significance = "The Third Temple is read by the framework as the substantive culmination of the Hebrew biblical Temple-restoration tradition and as functionally identical with the Embassy required for the Great Return; the operational continuity of Tabernacle → First Temple → Second Temple → Third Temple/Embassy constitutes a single sequence of Elohim terrestrial reception sites"
+type = "Erwarteter künftiger Tempel in Jerusalem (in der jüdischen Eschatologie); funktional gleichgesetzt mit der Botschaft, die für die Große Rückkehr der Elohim erforderlich ist (im Rahmen von Wheel of Heaven)"
+principal_biblical_sources = "Hesekiel 40–48 (die zentrale architektonische Vision, ca. 573 v. Chr.); Haggai 2,9; Sacharja 6,12–13; Jesaja 2,2–4 / Micha 4,1–3"
+historical_predecessors = "Die Stiftshütte (mosaische Periode, ca. 14.–13. Jahrhundert v. Chr.); der Erste Tempel (Salomonischer Tempel, ca. 957–587 v. Chr., von den Babyloniern zerstört); der Zweite Tempel (516 v. Chr.–70 n. Chr., von den Römern zerstört)"
+contemporary_temple_mount_status = "Bebaut mit dem Felsendom (691–692 n. Chr.) und der al-Aqsa-Moschee (705–715 n. Chr.); die dritthöchste heilige Stätte des Islam; Status quo seit 1967: israelische Sicherung des Umfelds, Verwaltung durch den Waqf (jordanische islamische religiöse Stiftung), umstrittener Zugang für jüdisches Gebet"
+jewish_preparation_organizations = "Das Temple Institute (Machon HaMikdasch, 1987 von Rabbiner Jisrael Ariel gegründet); die Sanhedrin-Initiative; Zuchtprogramme für die rote Kuh; die weitere religiös-zionistische Tradition der Tempelvorbereitung"
+christian_engagement = "Dispensationalistische Eschatologie (Darby, 19. Jahrhundert; Scofield Reference Bible, 1909; die Reihe Left Behind, 1995–2007); bestritten von amillenaristischen, postmillenaristischen und präteristischen christlichen Positionen"
+raelian_identification = "Die im Quellenmaterial Vorilhons festgelegte Botschaft (*Le Livre qui dit la vérité*, 1974, Sechstes Kapitel „Die neuen Gebote“, Abschnitt „Eure Mission“) wird vom Quellenmaterial mit dem Dritten Tempel der hebräisch-biblischen Tradition gleichgesetzt"
+raelian_embassy_history = "Die Raëlianische Bewegung ersuchte 1991 erstmals um Land für die Botschaft nahe Jerusalem; eine israelische Kommission befand die Bewegung 1993 für friedlich, doch Premierminister Jitzchak Rabin lehnte ab, und keine spätere Regierung griff die Frage wieder auf; die Botschaft vom 13. Dezember 1997 erlaubte, bei jeder Nation um extraterritorialen Status zu ersuchen, wobei Israel eine letzte Option behielt; eine Botschaft von 2015 erklärte den Schutz Israels durch die Elohim für entzogen"
+framework_significance = "Der Kanon setzt den Dritten Tempel mit der für die Große Rückkehr gebauten Botschaft gleich und bildet ihren Bau auf die Tempelerwartung ab, ohne die eigene Bedeutung der Tradition zu ersetzen"
 +++
 
 The **Third Temple** (Hebrew **<span class="hebrew">בֵּית הַמִּקְדָּשׁ הַשְּׁלִישִׁי</span>** *Beit ha-Mikdash ha-Shlishi*, "the Third Holy House") is the future Temple that, in Jewish eschatological tradition, is to be built in Jerusalem to succeed the **First Temple** (Solomon's Temple, c. 957–587 BCE, destroyed by the Babylonians under Nebuchadnezzar II) and the **Second Temple** (516 BCE–70 CE, destroyed by the Romans under Titus). Its fullest biblical blueprint is the nine-chapter vision of the prophet [Ezekiel](/wiki/ezekiel/) (Ezekiel 40–48, c. 573 BCE), and its building is one of the works Jewish tradition assigns to the Messianic Age.

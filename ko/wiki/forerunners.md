@@ -6,25 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["Forerunners", "Forerunner", "prodromos (Greek πρόδρομος, 'one who runs ahead')", "preparator", "way-preparer", "the messenger before"]
+alternative_names = ["선구자들", "선구자", "prodromos (그리스어 πρόδρομος, '앞서 달려가는 자')", "준비자", "길을 예비하는 자", "앞서 보내진 메신저"]
 timeline = ["age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "라엘", path = "wiki/rael", description = "후기 물고기자리 시대의 선구자들이 그 영접을 준비한 물병자리 시대의 개창 인물." },
+    { title = "예언자", path = "wiki/prophet", description = "선구자들이 준비 역할의 하위 부류로 기능하는 더 넓은 범주." },
+    { title = "엘리야", path = "wiki/elijah", description = "약속된 그의 귀환이 세례 요한에게 적용된 히브리어 성경의 선구자." },
+    { title = "우주의 사슬", path = "wiki/cosmic-chain", description = "엘로힘 이전 창조자에 관한 내용이 속하는 항목으로, 선구자들과는 구별됩니다." },
+    { title = "묵시록", path = "wiki/apocalypse", description = "준비 사명들이 가리키는 물병자리 시대의 계시 국면." },
+    { title = "대사관", path = "wiki/embassy", description = "선구자들의 문화적 준비가 궁극적으로 봉사하는 동맹 접촉의 목표." },
+    { title = "서명과 설계자들", path = "/articles/the-signature-and-the-designers/", description = "첫 고리가 없는 제작자들의 사슬로, 도킨스와 마이어가 모두 바닥을 요구하는 무한 소급에 대한 정경의 답으로 읽힙니다." },
+    { title = "마흔 개의 의자", path = "articles/the-forty-chairs", description = "자리에 앉은 약 마흔 명의 대표자에 대한 기준 기반의 조사, 그리고 검토를 위해 표시해 둔 경계 사례들." },
+]
 
 [extra.infobox]
-type = "Functional category within broader Prophet framework; figures whose missions prepare way for subsequent alliance-contact missions"
-principal_source = "Inherited from biblical-traditional usage; corpus engagement principally through specific figure-engagement (John the Baptist, Bab, Joseph Smith, late-Piscean contactees) rather than dedicated doctrinal articulation; substantive corpus contextualization in *timeline.epub* late-Piscean preparation content"
-biblical_grounding = "Malachi 3:1 ('Behold, I will send my messenger, and he shall prepare the way before me'); Isaiah 40:3 ('The voice of him that crieth in the wilderness, Prepare ye the way of Yahweh'); Malachi 4:5-6 (Elijah's return before the day of Yahweh); Mark 1:2-3, Matthew 3:1-3, Luke 3:1-6, John 1:6-8, 19-28 (John the Baptist as Forerunner of Jesus)"
-core_corpus_articulation = "Functional category designating figures whose missions prepare humanity for subsequent alliance-contact missions; preparatory rather than inaugural function; distinguished from age-inaugural prophets (Moses, Jesus, Vorilhon) by specific preparation-of-the-way role"
-principal_forerunners = "John the Baptist (Forerunner of Jesus); Bab (explicit Forerunner of Baha'u'llah); Elijah (Hebrew Bible Forerunner tradition); Joseph Smith, Bab, Baha'u'llah as late-Piscean Forerunners of Aquarian-age Vorilhon revelation; twentieth-century UFO contactee tradition"
-aquarian_age_preparation_focus = "Nineteenth-and-twentieth-century cultural-conceptual preparation producing matrix within which December 13, 1973 Vorilhon contact could be received: late-Piscean alliance-contact prophets (Joseph Smith, Bab, Baha'u'llah); Theosophical Society and broader esoteric tradition (Helena Blavatsky, others); twentieth-century UFO contactees (Adamski, Van Tassel, Menger, Fry, others); broader cultural matrix"
-distinguished_from = "Age-inaugural prophets (Moses, Jesus, Vorilhon as inaugurators of Aries, Pisces, Aquarius respectively); v1 conflation with pre-Elohim creator civilization (treated in Cosmic Chain entry); Mormon usage 'Forerunners' as designation for pre-mortal existence (distinct theological usage)"
-status_in_framework = "Functional sub-category within Prophet framework; recurring structural pattern across alliance-cultivation history; principal Aquarian-age content concerns nineteenth-and-twentieth-century preparation"
+type = "더 넓은 예언자 틀 안의 기능적 범주. 이후 더 중심적인 인물의 길을 준비하는 사명을 지닌 예언자와 선견자"
+principal_source = "라엘 경전에서 명명된 것이 아니라 성경의 용법에서 물려받았습니다. 코퍼스는 특정 인물들(세례 요한, 바브, 엘리야, 19세기 바비·바하이 자료)과, 물병자리 시대 접촉을 위한 물고기자리 시대 후기의 준비에 관한 연대기 자료를 통해 이 범주를 다룹니다"
+biblical_grounding = "말라기 3:1('Behold, I will send my messenger, and he shall prepare the way before me'), 이사야 40:3('A voice cries in the wilderness: prepare the way of Yahweh'), 말라기 4:5-6(야훼의 날 이전 엘리야의 귀환), 마가복음 1:2-3, 마태복음 3:1-3, 누가복음 3:1-6, 요한복음 1:6-8과 1:19-28(예수의 선구자로서의 세례 요한)"
+core_corpus_articulation = "시대를 여는 예언자가 아니라 준비하는 예언자. 세례 요한이 1세기 유대를 예수를 위해 준비시켰듯이, 이후 시대를 여는 사명이 받아들여질 수 있는 문화적 조건을 가꿉니다"
+principal_forerunners = "세례 요한(예수의 선구자), 바브(바하울라의 선구자를 자처), 엘리야(히브리어 성경의 선구자 전통)"
+aquarian_age_preparation_focus = "코퍼스가 1973년 12월에 보고된 접촉을 위한 준비로 읽는 19세기와 20세기의 기반 작업: 비교 자료로 읽는 19세기 종교 창시자들, 신지학과 비전주의의 부흥(블라바츠키와 그 후계자들), 20세기 중반의 UFO 접촉자 전통(애덤스키, 반 타셀, 멩거, 프라이), 그리고 SF, 우주 경쟁, 1960년대 반문화의 더 넓은 모체"
+distinguished_from = "시대를 여는 예언자(모세, 예수, 라엘), 엘로힘 이전의 창조자 문명(우주의 사슬 항목에서 다룸), 전생(前生) 존재의 인물에 대한 후기 성도 교회의 '선구자' 용법"
+status_in_framework = "예언자 제도 안의 준비적 하위 범주. 코퍼스가 시대 전환마다 읽어 내는 반복 패턴으로, 주된 비중은 물병자리 시대를 위한 물고기자리 시대 후기의 준비에 있습니다. 이 범주는 프로젝트의 종합이며, 라엘 경전은 이 용어를 쓰지 않습니다."
 +++
 
 **Forerunners** are, in the Wheel of Heaven framework, the functional class of

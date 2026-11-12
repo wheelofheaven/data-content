@@ -8,7 +8,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -18,21 +18,29 @@ entry_type = "civilization"
 
 alternative_names = ["the Grand Council of the Eternals", "the Council", "the Council of Eternals", "the Divine Council", "the Divine Assembly", "the Heavenly Court", "the Assembly of the Elohim"]
 timeline = ["pre-creation", "capricorn", "sagittarius", "scorpio", "libra", "virgo", "leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
+see_also = [
+    { title = "Jahwe", path = "wiki/yahweh", description = "Der Präsident des Rates während des etwa 25.000 Jahre umfassenden Erdprojekts." },
+    { title = "Die Allianz", path = "wiki/the-alliance", description = "Das umfassendere zivilisationsübergreifende Bündnis, in dem der Rat steht." },
+    { title = "Luzifer", path = "wiki/lucifer", description = "Die Fraktion der vollen Offenlegung, über deren Verbannung auf die Erde der Rat entschied." },
+    { title = "Vorsintflutlich", path = "wiki/antediluvian", description = "Die Fortschrittskrise vor der Sintflut, die der Rat mit dem Neustart löste." },
+    { title = "Eden", path = "wiki/eden", description = "Die Offenlegungskrise, über deren politische Beilegung der Rat entschied." },
+    { title = "Monotheismus ist die falsche Frage", path = "articles/monotheism-is-the-wrong-question", description = "Der Götterrat, gelesen als die Vielheit hinter dem biblischen „einen Gott“ — ein Vertreter, der für die ganze Versammlung spricht." }
+]
 
 [extra.infobox]
-hebrew_designations = "עֲדַת אֵל (ʿadat ʾēl, 'assembly of El'); סוֹד יְהוָה (sod Yhwh, 'council of Yahweh'); בְּנֵי הָאֱלֹהִים (benei ha-Elohim, 'sons of Elohim')"
-greek_designation = "ἡ βουλὴ τῶν θεῶν (he boulē tōn theōn, 'the council of the gods', in the Septuagint and broader Hellenistic tradition)"
-type = "Governing political body of the Elohim civilization; deliberative-and-executive authority"
-membership = "700 Eternals (members of the Elohim civilization who have undergone cloning-and-memory-transfer to achieve practical immortality)"
-presidency = "Yahweh, the first individual on whom the cloning-and-memory-transfer technology was successfully applied; continuous Council president across approximately 25,000 years"
-location = "Planet of the Eternals (the second smaller planet in the alliance home stellar system, also home to approximately 8,400 resurrected humans)"
-operational_period = "Approximately 25,000 years from founding to present; continuous deliberative and executive authority across the entire Earth project"
-date_type = "framework-internal; derived from Yahweh's recorded 25,000-year continuous existence and Council presidency"
-biblical_appearance = "Psalm 82 (the assembly of El); 1 Kings 22:19–23 (Micaiah's vision); Job 1–2 (the sons of Elohim with ha-satan); Daniel 7:9–14 (the Ancient of Days enthroned); Isaiah 6:1–8 (Isaiah's commissioning); Isaiah 14:13 (the mount of assembly); Genesis 1:26 (the plural self-address); various other passages preserving the divine-council motif"
-distinguished_from = "The Elohim civilization (broader population of ~7 billion); the Eternals as a population (700 Elohim plus ~8,400 resurrected humans on the Planet of the Eternals); the Alliance (the cross-civilizational political body that emerged after the Noahic covenant); the Lucifer faction (the originally-dissenting subset of the Israel team); the prophetic tradition (the human partners commissioned for Earth-side work)"
-current_status = "Active; conducting Aquarian-age preparation through the Raëlian movement and the embassy project; preparing for the open return at the completed embassy"
-principal_text = "Hebrew Bible divine-council passages; *The Book Which Tells the Truth* (Vorilhon/Raël, 1974); *Extra-Terrestrials Took Me to Their Planet* (1975)"
-principal_framework_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), 'Meeting the Ancient Prophets'"
+hebrew_designations = "עֲדַת אֵל (ʿadat ʾēl, ‚Versammlung Els‘); סוֹד יְהוָה (sod Yhwh, ‚Rat Jahwes‘); בְּנֵי הָאֱלֹהִים (benei ha-Elohim, ‚Söhne der Elohim‘)"
+greek_designation = "ἡ βουλὴ τῶν θεῶν (he boulē tōn theōn, ‚der Rat der Götter‘, in der Septuaginta und der weiteren hellenistischen Tradition)"
+type = "Regierendes politisches Organ der Zivilisation der Elohim; beratende und ausführende Autorität"
+membership = "700 Ewige (Mitglieder der Zivilisation der Elohim, die durch Klonen und Gedächtnisübertragung praktische Unsterblichkeit erlangt haben)"
+presidency = "Jahwe, der erste Mensch, an dem die Technik des Klonens und der Gedächtnisübertragung erfolgreich angewandt wurde; ununterbrochener Präsident des Rates seit etwa 25.000 Jahren"
+location = "Planet der Ewigen (der zweite, kleinere Planet im Heimatsternsystem der Allianz, auch Heimat von etwa 8400 wiedererschaffenen Menschen)"
+operational_period = "Etwa 25.000 Jahre von der Gründung bis heute; ununterbrochene beratende und ausführende Autorität über das gesamte Erdprojekt"
+date_type = "rahmenintern; abgeleitet aus Jahwes überlieferter ununterbrochener Existenz von 25.000 Jahren und seiner Präsidentschaft im Rat"
+biblical_appearance = "Psalm 82 (die Versammlung Els); 1 Könige 22,19–23 (Michas Vision); Hiob 1–2 (die Söhne der Elohim mit ha-satan); Daniel 7,9–14 (der thronende Hochbetagte); Jesaja 6,1–8 (Jesajas Berufung); Jesaja 14,13 (der Versammlungsberg); Genesis 1,26 (die Selbstanrede im Plural); verschiedene weitere Stellen, die das Motiv des göttlichen Rates bewahren"
+distinguished_from = "Die Zivilisation der Elohim (umfassendere Bevölkerung von ~7 Milliarden); die Ewigen als Bevölkerung (700 Elohim sowie ~8400 wiedererschaffene Menschen auf dem Planeten der Ewigen); die Allianz (das zivilisationsübergreifende politische Organ, das nach dem noachidischen Bund entstand); die Luzifer-Fraktion (die ursprünglich abweichende Teilgruppe des Israel-Teams); die prophetische Tradition (die menschlichen Partner, beauftragt mit der Arbeit auf der Erde)"
+current_status = "Aktiv; betreibt die Vorbereitung des Zeitalters des Wassermanns durch die Raëlische Bewegung und das Botschaftsprojekt; bereitet die offene Rückkehr bei der fertiggestellten Botschaft vor"
+principal_text = "Stellen zum göttlichen Rat in der Hebräischen Bibel; *Das Buch, das die Wahrheit sagt* (Vorilhon/Raël, 1974); *Außerirdische brachten mich auf ihren Planeten* (1975)"
+principal_framework_source = "*Außerirdische brachten mich auf ihren Planeten* (Vorilhon/Raël, 1975), ‚Begegnung mit den alten Propheten‘"
 +++
 
 The **Council of the Eternals** (also the Grand Council of the Eternals, the Council, the Divine Council, or the Divine Assembly) is the governing body of the Elohim civilization: a 700-member political authority of senior **Eternals** — individuals who have undergone the cloning-and-memory-transfer technology that produces practical immortality, living on across successive bodies. It sits on the second smaller planet of the alliance home stellar system (the Planet of the Eternals), where its members reside alongside roughly 8,400 resurrected humans selected for the same treatment. Yahweh, the first individual on whom the technology was successfully applied, has presided over it for approximately 25,000 years.

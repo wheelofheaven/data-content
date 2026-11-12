@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,19 +14,28 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of pre-modern close encounters", "Pre-1500 UFO and contact-event index", "Catalogue of unexplained aerial phenomena (antiquity through 1499 CE)"]
+alternative_names = ["前近代の近接遭遇の目録", "1500年以前のUFOと接触事件の索引", "説明のつかない空中現象の目録(古代から紀元1499年まで)"]
+see_also = [
+    { title = "エロヒム", path = "wiki/elohim", description = "目録に収められた遭遇が、エデン以後の時代を通じて記録しているものとして読まれる存在。" },
+    { title = "ネオエウヘメリズム", path = "wiki/neo-euhemerism", description = "近代の遭遇の用語を近代以前の記述に当てはめる解釈上の手法。" },
+    { title = "神話素および神話的モチーフのリスト", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "遭遇と並べて、繰り返される物語の素材を索引化する姉妹目録。" },
+    { title = "巨石遺跡のリスト", path = "wiki/list-of-megalithic-sites", description = "物理的な建造の記録を扱う姉妹の参考目録。" },
+    { title = "エゼキエル", path = "wiki/ezekiel", description = "目録に収められた報告の中に含まれる、預言者の遭遇の記述。" },
+    { title = "エリヤ", path = "wiki/elijah", description = "目録で接近遭遇として読まれる、聖書の空中への昇天の記述。" },
+    { title = "六つの朝、六つの年", path = "articles/six-mornings-six-years", description = "1973年と1975年の遭遇とその地理を、段落単位で再構成したもの。" },
+]
 
 [extra.infobox]
-type = "Reference catalogue of pre-modern reported close encounters and aerial phenomena"
-scope = "c. 1460 BCE through 1499 CE (pre-modern, pre-Columbian-encounter, pre-scientific-revolution period)"
-principal_source = "Jacques Vallée and Chris Aubeck, *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times* (Tarcher/Penguin, 2009)"
-classification_instrument = "J. Allen Hynek's close-encounter classification (CE1–CE5, 1972 and later additions), applied to pre-modern accounts as a deliberate neo-euhemeristic interpretive move"
-geographic_coverage = "Mediterranean basin, Western Europe, Eastern Mediterranean, East Asia (especially China and Japan), Near East, with sparse coverage of the Americas (pre-1492) and sub-Saharan Africa"
-total_entries = "Approximately 130 reported encounters across the c. 3,000-year period"
-catalogue_columns = "Encounter; year; location; description (combining reported content with framework reading where applicable); Hynek classification where determinable"
-companion_catalogues = "[List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/); [List of megalithic sites](../list-of-megalithic-sites/)"
-framework_position = "The catalogued encounters preserve the documented historical record of operational Elohim and related presence on Earth across the post-Eden period; the cross-cultural phenomenological continuity is read as evidence of a unitary phenomenon rather than as folkloric coincidence or parallel invention"
-caveat = "Source reliability varies substantially across entries; many encounters survive only in single late chronicles or in literary contexts where the line between report and embellishment is unclear; the catalogue presents the reports as transmitted with framework readings indicated separately"
+type = "前近代に報告された近接遭遇と空中現象の参考目録"
+scope = "紀元前1460年頃から紀元1499年まで(前近代、コロンブスの接触以前、科学革命以前の時代)"
+principal_source = "ジャック・ヴァレとクリス・オーベック『*Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times*』(ターチャー/ペンギン、2009年)"
+classification_instrument = "J・アレン・ハイネックの近接遭遇分類(CE1〜CE5、1972年とその後の追加)。意図的な新エウヘメリズム的解釈の手法として前近代の記述に適用"
+geographic_coverage = "地中海沿岸、西ヨーロッパ、東地中海、東アジア(とりわけ中国と日本)、近東。南北アメリカ(1492年以前)とサハラ以南アフリカは記録がまばら"
+total_entries = "約3,000年の期間にわたる約130件の報告された遭遇"
+catalogue_columns = "遭遇、年、場所、記述(報告された内容と、該当する場合はこの枠組みの読解を合わせたもの)、判定可能な場合はハイネック分類"
+companion_catalogues = "[神話素および神話的モチーフのリスト](../list-of-mythemes-and-mythological-motifs/)、[巨石遺跡のリスト](../list-of-megalithic-sites/)"
+framework_position = "目録化された遭遇は、エデン以後の時代を通じて地球に実際に存在したエロヒムおよび関連する存在の、記録された歴史的証拠を保存している。文化横断的な現象学的連続性は、民間伝承上の偶然や並行的創作ではなく、単一の現象の証拠として読まれる"
+caveat = "典拠の信頼性は項目によって大きく異なる。多くの遭遇は後代の単一の年代記や、報告と潤色の境界が不明瞭な文学的文脈にしか残っていない。目録は報告を伝えられたとおりに示し、この枠組みの読解は別に示す"
 +++
 
 This entry catalogues reported close encounters with aerial phenomena and their occupants across the pre-modern period, from approximately 1460 BCE through 1499 CE. The catalogue follows the cataloguing work of **Jacques Vallée and Chris Aubeck** in *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times* (Tarcher/Penguin, 2009), the principal contemporary scholarly compilation of pre-modern reports, which examines approximately 500 pre-1880 incidents drawn from chronicles, religious texts, military histories, monastic annals, and other documentary sources.

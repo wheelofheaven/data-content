@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,17 +15,29 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the awaited Golden Age", "the Golden Age of civilization", "the earthly paradise", "the Golden Age of interplanetary civilization", "the operational Golden Age"]
 timeline = ["age-of-aquarius", "post-aquarius"]
+see_also = [
+    { title = "Macrobiología", path = "wiki/macrobiology", description = "La gran transición en la individualidad ya completada: la humanidad llevada a ser un organismo global coherente, leída biológicamente." },
+    { title = "Apocalipsis", path = "wiki/apocalypse", description = "El momento de revelación en el umbral que puede inaugurar la Edad de Oro o su alternativa catastrófica." },
+    { title = "Edén", path = "wiki/eden", description = "El laboratorio originario leído como la Edad de Oro histórica que recupera su realización futura." },
+    { title = "Cadena cósmica", path = "wiki/cosmic-chain", description = "El marco de sucesión dentro del cual la maduración de la Edad de Oro opera como una etapa." },
+    { title = "Paradismo", path = "wiki/paradism", description = "El programa social posterior a la escasez cuya puesta en práctica caracteriza la Edad de Oro." },
+    { title = "Geniocracia", path = "wiki/geniocracy", description = "El modelo de gobierno formulado junto a la Edad de Oro en el material fuente." },
+    { title = "Embajada", path = "wiki/embassy", description = "El proyecto cuya culminación condiciona que la humanidad atraviese con éxito la era de Acuario." },
+    { title = "El molino de Hamlet", path = "wiki/hamlets-mill", description = "El depuesto «Señor de la Edad de Oro» —Saturno, el que da las medidas— cuyo molino destrozado muele las eras." },
+    { title = "El molino que muele las eras", path = "articles/the-mill-that-grinds-the-ages", description = "La Edad de Oro como el reinado del rey dormido y depuesto, que ha de volver cuando la rueda precesional complete su giro." },
+    { title = "La forma de la humanidad", path = "articles/the-shape-of-humanity", description = "El Explicativo que plantea la Edad de Oro como la maduración lograda de la humanidad como organismo más allá del umbral de uno entre cien." },
+]
 
 [extra.infobox]
-type = "Eschatological-cosmological concept; the operational form of life that becomes available to humanity if it navigates the Aquarian-age threshold successfully"
-principal_corpus_articulation = "Vorilhon's Buddhism section in *Message from the Designers* (the substantial Buddhist-enlightenment metaphor); the substantial soteriological dual-path passage; the seven-characteristics articulation in *timeline.epub*"
-seven_principal_characteristics = "(1) Progressive elimination of material scarcity through nanotechnology and automation; (2) Substantial longevity through biological rejuvenation and computational continuation; (3) Transformation of social and political life through New Commandments implementation; (4) Computational continuation as substantive option; (5) Cultivated cognitive capacities including telepathy; (6) New spirituality appropriate to scientifically mature age; (7) Maturation into creating-civilization status"
-contingent_realization = "Realization is contingent on humanity's collective navigation of the Aquarian-age threshold; not automatic but dependent on cumulative effects of individual choices across the broader population"
-distinguished_from = "The Age of Aquarius (the broader chronological-astronomical period within which Golden Age may emerge); Apocalypse (the threshold-revelation moment); Cyberparadism (the contemporary aesthetic articulation); Cosmic Chain (the broader succession framework); Eden (the originary historical Golden Age)"
-relationship_to_eden = "Eden as the originary historical Golden Age (the alliance laboratory in which early humans lived in environmental-technological harmony); the Aquarian-age Golden Age as recovery and extension of that originary content at planetary civilizational scale"
-parallel_cross_cultural_traditions = "Greek/Roman ages of man (Hesiod, Ovid); Hindu Satya/Treta/Dvapara/Kali yuga framework; Mesoamerican Long Count cycles; Buddhist Maitreya tradition; Norse Ragnarök and post-Ragnarök regeneration; Persian Zoroastrian Frashokereti; Chinese cycle traditions; various indigenous 'great-cleansing/renewal' prophecies"
+type = "Concepto escatológico-cosmológico; la forma de vida que se abre a la humanidad si atraviesa con éxito el umbral de la Era de Acuario"
+principal_corpus_articulation = "La sección de Vorilhon sobre el budismo en *Mensaje de los Diseñadores* (la metáfora de la iluminación budista); el pasaje soteriológico de la doble vía; la formulación de las siete características en el material de la cronología del corpus"
+seven_principal_characteristics = "(1) Eliminación de la escasez material mediante la nanotecnología y la automatización; (2) longevidad muy prolongada mediante el rejuvenecimiento biológico y la continuación computacional; (3) transformación de la vida social y política mediante los Nuevos Mandamientos; (4) la continuación computacional como opción para la identidad individual; (5) capacidades cognitivas cultivadas, incluida la telepatía; (6) una nueva espiritualidad adecuada a una era científicamente madura; (7) maduración hasta la condición de civilización creadora"
+contingent_realization = "Supeditada a que la humanidad atraviese colectivamente el umbral de la Era de Acuario; no es automática, sino que depende del efecto acumulado de las elecciones individuales en el conjunto de la población"
+distinguished_from = "La Era de Acuario (el período astronómico amplio dentro del cual puede surgir la Edad de Oro); el Apocalipsis (el momento umbral de revelación); el Ciberparadismo (la formulación estética contemporánea); la Cadena cósmica (el marco amplio de sucesión); el Edén (la Edad de Oro histórica originaria)"
+relationship_to_eden = "El Edén como la Edad de Oro histórica originaria: el laboratorio en el que los primeros humanos vivieron en armonía con sus creadores; la Edad de Oro de la Era de Acuario como la recuperación y ampliación de esa condición a escala de civilización planetaria"
+parallel_cross_cultural_traditions = "Las edades del hombre griegas y romanas (Hesíodo, Ovidio); el ciclo hindú de los yugas Satya, Treta, Dvapara y Kali; la Cuenta Larga mesoamericana; el Maitreya budista; el Ragnarök nórdico y su regeneración; la Frashokereti zoroástrica persa; las tradiciones cíclicas chinas; diversas profecías indígenas de renovación"
 contemporary_articulations = "Kurzweil's Singularity; e/acc movement; abundance-economy tradition (Diamandis, Kotler); broader 'Great Awakening' cultural engagement"
-status_in_framework = "Foundational eschatological-cosmological concept; the substantive content of successful Aquarian-age navigation; the cosmic-chain inheritance threshold"
+status_in_framework = "Concepto escatológico-cosmológico fundacional; el contenido de una travesía exitosa de la Era de Acuario; el umbral de herencia de la Cadena cósmica"
 +++
 
 **The Golden Age** is, in the Wheel of Heaven framework, the form of life that

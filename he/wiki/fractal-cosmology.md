@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,18 +16,28 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["fractal cosmos", "the fractal-self-similar cosmology", "the infinite-hierarchical cosmology", "the nested-cosmos framework", "the scale-invariant cosmology"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "מקרוביולוגיה", path = "wiki/macrobiology", description = "חקר המערכות החיות בשלב אחד של הסולם הפרקטלי: האנושות ביחס לאדם כאדם ביחס לתא." },
+    { title = "אפקט המסה", path = "wiki/mass-effect", description = "המסגרת האחות העוסקת בממד הזמן של אותה קוסמולוגיה דומה־לעצמה." },
+    { title = "אינסוף", path = "wiki/infinity", description = "המסגרת הרחבה שהקוסמולוגיה הפרקטלית היא הממד המרחבי שלה." },
+    { title = "השרשרת הקוסמית", path = "wiki/cosmic-chain", description = "ההיררכיה המקוננת של יצורים המאכלסת את סולם הקנה־מידה האינסופי." },
+    { title = "החתימה הכפולה", path = "wiki/doubled-signature", description = "עקרון של חזרה מבנית המהדהד את הדמיון־לעצמו של המסגרת על פני קני מידה." },
+    { title = "תחרות קוסמית", path = "wiki/cosmic-competition", description = "קריאת המסגרת בדינמיקה הציוויליזציונית הפועלת בתוך הקוסמוס האינסופי." },
+    { title = "אלוהים", path = "wiki/elohim", description = "הציוויליזציה שחומר המקור מכוכבה מנסח את המבנה האינסופי וההיררכי." },
+    { title = "החתימה והמתכננים", path = "/articles/the-signature-and-the-designers/", description = "הקוסמוס חסר הראשית כציר המנטרל את טיעון הכוונון העדין של מאייר: אין רגע ראשון, דבר מעולם לא ״כוונן״." },
+]
 
 [extra.infobox]
-type = "Hypothetical cosmological framework; concept articulating the spatial-self-similar structure of the cosmos across the infinite hierarchy of scales"
-basic_premise = "The cosmos exhibits self-similarity across scales, with the same fundamental patterns of organization recurring at every scale of examination, indefinitely in both directions without finding any bottom or any top"
-core_image = "The Earth is but a particle of the atom of the atoms of the hand of a gigantic being, who contemplates a starlit sky which composes the hand, the stomach or the foot of a being even more gigantic, who finds himself under a sky, etc., etc., ad infinitum"
-domain = "All scales of cosmological organization, from sub-atomic scales (where intelligent life on the atoms of our atoms exists, on the source's claim) through human scale through planetary, stellar, galactic, intergalactic scales and beyond"
-mathematical_status = "Structurally aligned with mathematical-fractal vocabulary (Mandelbrot 1975+); not yet formally mathematized within the corpus; principal articulation through source-material passages and corpus interpretive elaboration"
-relationship_to_mainstream_cosmology = "Substantially distinct from the standard cosmological-principle homogeneity-and-isotropy framework of mainstream Big Bang cosmology; operates within the contested-fractal-cosmology side of contemporary cosmological debate (Pietronero, Coleman-Pietronero, Baryshev); the Big Bang on the framework's reading is at most the beginning of our specific observable region rather than the beginning of being itself"
-relationship_to_mass_effect = "Sister framework; Fractal Cosmology addresses the spatial dimension of cosmological self-similarity; Mass Effect addresses the temporal dimension; both operate within the broader Infinity framework"
-distinguished_from = "Mainstream Big Bang cosmology (which posits homogeneity-and-isotropy at large scales rather than fractal self-similarity); the Mass Effect framework alone (the temporal dimension rather than the spatial); the broader Infinity framework (which contains Fractal Cosmology as one specific dimension); various mainstream multiverse proposals (which posit specific multi-universe structures rather than the open-ended hierarchical-self-similar structure the framework articulates)"
-status_in_source_material = "Substantial; the Raëlian source material provides explicit articulation of the infinite-hierarchical structure across multiple passages, with the corpus's specific use of *fractal cosmology* as technical designation registering the structural alignment with subsequently-developed mathematical vocabulary"
-principal_text = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), various passages on the infinite hierarchy; *Let's Welcome the Extra-terrestrials* (1979), 'Who Created the Creator of the Creators?' and various FAQ passages; the Wheel of Heaven corpus's outro treatment in *timeline.epub*"
+type = "מסגרת קוסמולוגית היפותטית; מושג המנסח את המבנה הדומה־לעצמו במרחב של הקוסמוס לאורך ההיררכיה האינסופית של קני המידה"
+basic_premise = "הקוסמוס מגלה דמיון עצמי בין קני מידה, כשאותם דפוסי ארגון יסודיים חוזרים בכל קנה מידה של בחינה, ללא גבול בשני הכיוונים, בלי שיימצא תחתית או פסגה"
+core_image = "כדור הארץ אינו אלא חלקיק של האטום של האטומים של ידו של יצור ענקי, המתבונן בשמי כוכבים שהם היד, הבטן או הרגל של יצור ענקי עוד יותר, הנמצא תחת שמיים, וכן הלאה וכן הלאה, עד אין סוף"
+domain = "כל קני המידה של הארגון הקוסמולוגי, מקני המידה התת־אטומיים (שבהם קיימים חיים תבוניים על האטומים של האטומים שלנו, לפי טענת המקור), דרך קנה המידה האנושי, ועד קני המידה הפלנטריים, הכוכביים, הגלקטיים, הבין־גלקטיים ומעבר להם"
+mathematical_status = "תואם מבנית את אוצר המילים המתמטי־פרקטלי (מנדלברוט, 1975 ואילך); טרם עבר מתמוט פורמלי בקורפוס; הניסוח העיקרי באמצעות קטעי המקור והרחבה פרשנית של הקורפוס"
+relationship_to_mainstream_cosmology = "שונה מן המסגרת הסטנדרטית של העיקרון הקוסמולוגי — הומוגניות ואיזוטרופיות — בקוסמולוגיית המפץ הגדול המקובלת; פועלת בצד של הקוסמולוגיה הפרקטלית השנויה במחלוקת בוויכוח הקוסמולוגי העכשווי (פייטרונרו, קולמן־פייטרונרו, ברישב); המפץ הגדול, לפי קריאת המסגרת, הוא לכל היותר ראשיתו של האזור הנצפה שלנו ולא ראשית ההוויה עצמה"
+relationship_to_mass_effect = "מסגרת אחות; הקוסמולוגיה הפרקטלית עוסקת בממד המרחבי של הדמיון העצמי הקוסמולוגי; אפקט המסה עוסק בממד הזמני; שתיהן פועלות בתוך מסגרת האינסוף הרחבה"
+distinguished_from = "קוסמולוגיית המפץ הגדול המקובלת (המניחה הומוגניות ואיזוטרופיות בקני מידה גדולים ולא דמיון עצמי פרקטלי); מסגרת אפקט המסה לבדה (הממד הזמני ולא המרחבי); מסגרת האינסוף הרחבה (המכילה את הקוסמולוגיה הפרקטלית כממד מסוים אחד); הצעות שונות של רב־יקום במדע המקובל (המניחות מבנים רב־יקומיים מסוימים ולא את המבנה ההיררכי הפתוח והדומה־לעצמו שהמסגרת מנסחת)"
+status_in_source_material = "מפורש; מקורות ראליאניים מנסחים את המבנה ההיררכי האינסופי בכמה קטעים, ושימוש הקורפוס במונח *קוסמולוגיה פרקטלית* כמונח טכני רושם את ההתאמה לאוצר המילים המתמטי שפותח מאוחר יותר"
+principal_text = "*החייזרים לקחו אותי לכוכב שלהם* (וורילון/ראל, 1975), קטעים שונים על ההיררכיה האינסופית; *בואו נקבל את פני החייזרים* (1979), 'מי ברא את בורא הבוראים?' וקטעי שאלות ותשובות שונים; הטיפול בחתימת הקורפוס של Wheel of Heaven ב־*timeline.epub*"
 +++
 
 **Fractal Cosmology** is the Wheel of Heaven corpus's name for the spatially self-similar structure of the cosmos across an infinite hierarchy of scales. The framework holds that **the cosmos exhibits self-similarity across scales, with the same fundamental patterns of organization recurring at every scale of examination, indefinitely in both directions without finding any bottom or any top**. Its source warrant is the Yahweh-delivered passages in *Extra-Terrestrials Took Me to Their Planet* (1975) and the later Raëlian material; the corpus adopts *fractal cosmology* as a technical designation because the structure aligns with the fractal vocabulary Benoît Mandelbrot was developing in the same period the material was delivered. It is the **spatial dimension** of the broader Infinity framework, with the **{% wiki(slug="mass-effect") %}Mass Effect{% end %}** framework as the corresponding **temporal dimension**.

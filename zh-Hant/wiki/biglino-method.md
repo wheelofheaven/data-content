@@ -6,26 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Biglino Method", "Metodo Biglino (Italian)", "the 'let's pretend it's true' method", "the naked-Bible method"]
+alternative_names = ["Biglino Method", "Metodo Biglino (Italian)", "「假裝它是真的」方法", "赤裸聖經方法"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "毛羅·比利諾", path = "wiki/mauro-biglino", description = "此方法以其命名並加以規範化其解讀實踐的義大利譯者。" },
+    { title = "讓·桑迪", path = "wiki/jean-sendy", description = "早於比利諾四十年便已闡述同一「施里曼—荷馬」字面解讀原則的人。" },
+    { title = "希伯來聖經", path = "wiki/hebrew-bible", description = "此方法以原文、剝除承襲而來之神學框架加以字面解讀的文本。" },
+    { title = "詞源學閱讀清單", path = "wiki/list-of-etymological-readings", description = "文集直接解讀之希伯來詞語的目錄,逐詞運用此方法。" },
+    { title = "新埃烏赫梅羅斯主義", path = "wiki/neo-euhemerism", description = "此方法所服務、將神話視為壓縮歷史的更廣泛詮釋立場。" },
+    { title = "古代宇航員假說", path = "wiki/ancient-astronaut-hypothesis", description = "此方法之產出所供給其字面解讀結論的更廣泛領域。" },
+    { title = "那個把聖經押在月球上的人", path = "articles/the-man-who-bet-the-bible-on-the-moon", description = "讓·桑迪早於比利諾四十年便陳述了施里曼—荷馬原則——完整研究。" },
+]
 
 [extra.infobox]
-type = "Hermeneutic methodology for reading the Hebrew Bible; principal contemporary articulation of the Schliemann-Sendy literal-reading tradition"
-developer = "Mauro Biglino (1950–), Italian translator and scholar; translator of seventeen books of the Hebrew Bible for Edizioni San Paolo (Pauline Editions, Vatican-affiliated Catholic publisher) across more than a decade; independent author from 2010 onward"
-principal_source = "*Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011); *The Naked Bible* (with Giorgio Cattaneo, English edition 2022) for the explicit methodological articulation"
-methodology = "Three steps: (1) obtain familiarity with the original Hebrew text; (2) set aside accumulated traditional interpretation; (3) read the text literally, taking words in their concrete sense"
-slogan = "'Pretend that the Bible is simply telling the truth' — Biglino's principal methodological formulation"
-methodological_precedent = "Heinrich Schliemann's literal reading of the Homeric epics, leading to the identification and excavation of Troy (1870s); explicitly invoked by Jean Sendy in *Ces dieux qui firent le ciel et la terre* (1969) as the model for Bible reading approximately four decades before Biglino's independent articulation"
-distinguished_from = "Mainstream historical-critical method (which treats the text as composite and seeks original source-strata); confessional theological exegesis (which reads through inherited theological framework); allegorical exegesis (which reads literal narrative as cipher for theological content)"
-corpus_position = "Necessary but insufficient: the corpus accepts the literal-reading principle and applies it to Hebrew terms and narratives, while integrating Biglino's commitments with the broader Hamlet's Mill precessional framework, Vorilhon source-textual primacy, cross-cultural comparative engagement, and disciplined epistemic-pluralism methodology"
-status_in_framework = "Principal contemporary methodological articulation engaging Hebrew Bible directly; one component of the broader corpus hermeneutic alongside Sendy's framework, the Vorilhon revelation, and the Hamlet's Mill integration"
+type = "閱讀希伯來聖經的詮釋學方法；施里曼—桑迪字面閱讀傳統在當代的主要表述"
+developer = "毛羅·比利諾（1950–），義大利翻譯家與學者；十餘年間為聖保祿出版社（Edizioni San Paolo，隸屬梵蒂岡體系的天主教出版社）翻譯希伯來聖經十七卷；2010 年起為獨立作家"
+principal_source = "*Il libro che cambierà per sempre le nostre idee sulla Bibbia*（2011）；*The Naked Bible*（與喬治·卡塔內奧合著，英文版 2022）——方法論的明確表述見於此書"
+methodology = "三個步驟：（1）熟悉希伯來原文；（2）擱置累積下來的傳統詮釋；（3）按字面閱讀文本，取詞語的具體意義"
+slogan = "「假裝聖經只是在講述真相」——比利諾的主要方法論表述"
+methodological_precedent = "海因里希·施里曼對荷馬史詩的字面閱讀，促成了特洛伊的辨認與發掘（1870 年代）；讓·桑迪在 *Ces dieux qui firent le ciel et la terre*（1969）中明確援引此例，作為閱讀聖經的模範，比比利諾獨立提出的表述早約四十年"
+distinguished_from = "主流歷史批判法（將文本視為複合體並追尋原始來源層）；信仰立場的神學釋經（透過承襲的神學框架閱讀）；寓意釋經（將字面敘事讀作神學內容的密碼）"
+corpus_position = "必要但不充分：本文集接受字面閱讀原則，並將其應用於希伯來詞語與敘事，同時把比利諾的立場與更廣的《哈姆雷特之磨》歲差框架、沃里隆源典文本優先、跨文化比較研究，以及有紀律的認識論多元方法整合起來"
+status_in_framework = "直接處理希伯來聖經的當代主要方法論表述；與桑迪的框架、沃里隆啟示及《哈姆雷特之磨》整合並列，為本文集更廣詮釋學的組成部分之一"
 +++
 
 The **Biglino Method** is the interpretive methodology developed by Italian translator and scholar **Mauro Biglino** (1950–) for reading the Hebrew Bible. The method consists of three commitments:

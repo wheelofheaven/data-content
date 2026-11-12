@@ -6,25 +6,33 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Commandments (proper-noun framework concept)", "the Aquarian-age program", "the seven commandments", "the Raëlian socio-political-religious doctrine"]
+alternative_names = ["the New Commandments (proper-noun framework concept)", "le programme de l'Ère du Verseau", "les sept commandements", "la doctrine socio-politico-religieuse raëlienne"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Moïse", path = "wiki/moses", description = "Médiateur du Décalogue de l'ère du Bélier, son pendant, auquel ces commandements succèdent pour l'ère du Verseau." },
+    { title = "Géniocratie", path = "wiki/geniocracy", description = "Le premier commandement — la dimension de gouvernance du programme en sept parties." },
+    { title = "Humanitarisme", path = "wiki/humanitarianism", description = "Le deuxième commandement — la dimension de propriété et d'héritage du programme." },
+    { title = "Âge d'or", path = "wiki/golden-age", description = "La forme de vie que la pleine mise en œuvre du programme doit produire." },
+    { title = "Ambassade", path = "wiki/embassy", description = "L'exigence de construction mise à part dans la section originale « Votre mission »." },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "Le moment de seuil qui ouvre l'ère vers laquelle s'orientent ces directives." },
+]
 
 [extra.infobox]
-type = "Raëlian umbrella concept; the seven principal political-religious-cultural directives delivered by Yahweh to Vorilhon during the December 1973 contact"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), Sixth Chapter; *Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), substantial 'The Keys' section; *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979); consolidated *Message from the Designers* (2005); systematic *timeline.epub* engagement"
-the_seven_commandments = "(1) Geniocracy — political-governance; (2) Humanitarianism — property-and-inheritance; (3) World Government — political-coordination; (4) Demilitarization — peace; (5) Science as Religion — religious-cultural; (6) Telepathic Cultivation — cognitive-developmental; (7) Metaphysical Clarifications — doctrinal-cosmological"
-source_textual_structure = "Original 1974 Chapter VI: four explicit sections (Geniocracy, Humanitarianism, World Government, Your Mission) — with Your Mission articulating the Raëlian institutional engagement distinctly from the seven structural commandments; subsequent corpus consolidation: seven systematic commandments faithful to broader corpus content"
-mosaic_decalogue_parallel = "Aries-age Decalogue (Exodus 20:1-17, Deuteronomy 5:6-21) and Aquarian-age New Commandments paired as substantive age-specific programmatic articulations; both delivered by Yahweh; substantive transition from individual-ethical-prohibitive content to collective-civilizational-constructive content"
-distinguished_from = "the Mosaic Decalogue (the Aries-age individual-ethical paired articulation); the Raëlian Mission (the institutional engagement registered in the original Chapter VI 'Your Mission' section); the Embassy construction (the specific operational requirement); the Apocalypse (the threshold-revelation moment); the Golden Age (the operational form of life that successful implementation produces)"
-parallel_traditions = "The Mosaic Decalogue; the Holiness Code and Deuteronomic Code; the Christian Sermon on the Mount; the Islamic Five Pillars and substantive Sharia; the Buddhist Eightfold Path and Five Precepts; the Hindu purusharthas; the Confucian Five Relationships; various indigenous programmatic traditions; Plato's Republic and Laws; the substantial utopian-programmatic tradition; the substantial revolutionary and democratic-progressive programmatic articulations; the contemporary UN-system programmatic engagements"
-status_in_framework = "Foundational umbrella concept consolidating the seven Aquarian-age program elements; substantively load-bearing for broader corpus eschatological-cosmological architecture"
+type = "Concept raëlien englobant ; les sept principales directives politiques, religieuses et culturelles transmises par Yahvé à Vorilhon lors du contact de décembre 1973"
+principal_source = "*Le Livre qui dit la vérité* (Vorilhon, 1974), sixième chapitre ; *Les extra-terrestres m'ont emmené sur leur planète* (Vorilhon, 1975), section « Les clés » ; *Accueillir les extra-terrestres* (Vorilhon, 1979) ; consolidé dans *Le Message donné par les extra-terrestres* (2005)"
+the_seven_commandments = "(1) Géniocratie — gouvernance politique ; (2) Humanitarisme — propriété et héritage ; (3) Gouvernement mondial — coordination politique ; (4) Démilitarisation — paix ; (5) La science comme religion — domaine religieux et culturel ; (6) Culture de la télépathie — développement cognitif ; (7) Éclaircissements métaphysiques — doctrine et cosmologie"
+source_textual_structure = "Chapitre VI originel de 1974 : quatre sections (Géniocratie, Humanitarisme, Gouvernement mondial, Votre mission), « Votre mission » exposant la tâche institutionnelle raëlienne à part des commandements structurels ; l'énumération en sept points est une consolidation ultérieure fidèle à l'ensemble du corpus"
+mosaic_decalogue_parallel = "Mis en regard du Décalogue mosaïque de l'ère du Bélier (Exode 20:1-17 ; Deutéronome 5:6-21) comme formulation qui lui succède à l'ère du Verseau ; tous deux transmis par Yahvé ; le passage se fait de l'interdiction éthique individuelle (« tu ne feras pas ») à la construction civilisationnelle collective (« vous développerez »)"
+distinguished_from = "Le Décalogue mosaïque (la formulation jumelle de l'ère du Bélier) ; la Mission raëlienne (la tâche institutionnelle mise à part dans la section « Votre mission » de 1974) ; l'Ambassade (l'exigence précise d'un bâtiment) ; l'Apocalypse (le moment du seuil) ; l'Âge d'or (la forme de vie que la mise en œuvre complète doit produire)"
+parallel_traditions = "Le Décalogue mosaïque ; le Code de sainteté et le Code deutéronomique ; le Sermon sur la montagne ; les cinq piliers de l'islam ; le Noble Chemin octuple et les cinq préceptes bouddhistes ; les *purushartha* hindous ; les cinq relations confucéennes ; la *République* et les *Lois* de Platon ; la tradition utopique (More, Bacon, Campanella) ; les programmes des Lumières, socialistes et démocratiques ; la Déclaration universelle des droits de l'homme (1948) ; les Objectifs de développement durable de l'ONU (2015)"
+status_in_framework = "Concept englobant fondateur réunissant les sept éléments du programme de l'ère du Verseau ; porteur pour l'architecture eschatologique et cosmologique du corpus"
 contingent_implementation = "Not immediate institutional change but directional orientation across centuries; long-term socio-political-cultural reorganization implementing the program at planetary civilizational scale"
 +++
 

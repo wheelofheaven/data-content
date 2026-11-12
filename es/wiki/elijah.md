@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,20 +16,27 @@ entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
 alternative_names = ["Eliyyahu", "Eliyahu", "Elias", "Ilyas", "Elijah the Tishbite", "Elijah the Messenger"]
+see_also = [
+    { title = "Moisés", path = "wiki/moses", description = "La figura anterior de la teofanía del Horeb cuyo precedente de contacto el relato de Elías evoca deliberadamente." },
+    { title = "Ezequiel", path = "wiki/ezekiel", description = "Cuya visión de la merkavá es el único relato de una nave aérea en la Biblia Hebrea más explícito que el carro de Elías." },
+    { title = "Lista de encuentros cercanos", path = "wiki/list-of-close-encounters", description = "Cataloga la ascensión en el carro de fuego bajo «Rapto de Elías», hacia el 850 a. e. c." },
+    { title = "Yahvé", path = "wiki/yahweh", description = "El presidente de los Elohim cuyo nombre confiesa el nombre teofórico de Elías frente al culto de Baal." },
+    { title = "Elohim", path = "wiki/elohim", description = "La civilización cuyo contacto operativo el marco lee detrás de los episodios del carro y de la teofanía de Elías." },
+]
 
 [extra.infobox]
-type = "Hebrew prophet"
+type = "Profeta hebreo"
 hebrew = "<span class=\"hebrew\">אֵלִיָּהוּ</span> *Eliyyahu*"
-period = "Mid-9th century BCE, during the reign of King Ahab of Israel (c. 874–853 BCE)"
-precessional_age = "Age of Aries (the corpus's reckoning places the Mosaic and Hebrew prophetic period within the Age of Aries, c. 2065 BCE through 95 BCE)"
-homeland = "Tishbe in Gilead (east of the Jordan River, in the territory of the half-tribe of Manasseh)"
-principal_biblical_sources = "1 Kings 17–19, 21; 2 Kings 1–2"
-key_episodes = "The drought prophecy against Ahab; the brook Cherith; the widow of Zarephath (raising of her son); Mount Carmel contest with the prophets of Baal; Horeb theophany (\"still small voice\"); Naboth's vineyard; the destruction of the captains and their fifties; the translation in the chariot of fire; the transfer of the mantle to Elisha"
-ascension = "2 Kings 2:11 — taken up to heaven in a whirlwind, with a chariot of fire and horses of fire separating him from Elisha"
-return_prophecy = "Malachi 4:5 — \"I will send you the prophet Elijah before the great and terrible day of YHWH\""
-new_testament_identification = "Matthew 11:14, 17:10–13 — John the Baptist identified as \"Elijah who is to come\"; Matthew 17:1–8 — Elijah appears with Moses at the Transfiguration"
-later_tradition = "Cup of Elijah at the Passover seder; chair of Elijah at every brit milah; identified with al-Khidr in Islamic tradition; the Carmelite Catholic order traces its origin to the prophets of Mount Carmel"
-framework_significance = "Multiple operational contact events documented in the Elijah narratives, including the chariot-of-fire translation (the most explicit aerial-craft account in the Hebrew Bible after Ezekiel 1), the Horeb theophany, the Mount Carmel intervention, and the angel-feeding episode at Horeb"
+period = "Mediados del siglo IX a. e. c., durante el reinado del rey Acab de Israel (c. 874–853 a. e. c.)"
+precessional_age = "Era de Aries (el cómputo del corpus sitúa el período mosaico y profético hebreo dentro de la Era de Aries, c. 2065 a. e. c. a 95 a. e. c.)"
+homeland = "Tisbé en Galaad (al este del río Jordán, en el territorio de la media tribu de Manasés)"
+principal_biblical_sources = "1 Reyes 17–19, 21; 2 Reyes 1–2"
+key_episodes = "La profecía de la sequía contra Acab; el torrente de Querit; la viuda de Sarepta (resurrección de su hijo); el desafío del monte Carmelo con los profetas de Baal; la teofanía del Horeb («un susurro apacible»); la viña de Nabot; la destrucción de los capitanes y sus cincuentenas; el traslado en el carro de fuego; la entrega del manto a Eliseo"
+ascension = "2 Reyes 2:11: subió al cielo en un torbellino, mientras un carro de fuego con caballos de fuego lo separaba de Eliseo"
+return_prophecy = "Malaquías 4:5: «Yo os envío al profeta Elías antes de que venga el día de YHWH, grande y terrible»"
+new_testament_identification = "Mateo 11:14, 17:10–13: Juan el Bautista identificado como «Elías, el que había de venir»; Mateo 17:1–8: Elías aparece con Moisés en la Transfiguración"
+later_tradition = "La copa de Elías en el séder de Pésaj; la silla de Elías en cada brit milá; identificado con al-Jidr en la tradición islámica; la orden católica carmelita remonta su origen a los profetas del monte Carmelo"
+framework_significance = "Múltiples contactos operativos documentados en las narraciones de Elías, entre ellos el traslado en el carro de fuego (el relato más explícito de una nave aérea en la Biblia hebrea después de Ezequiel 1), la teofanía del Horeb, la intervención del monte Carmelo y el episodio del ángel que lo alimenta camino del Horeb"
 +++
 
 **Elijah** (Hebrew <span class="hebrew">אֵלִיָּהוּ</span>, *Eliyyahu*, conventionally Latinised as *Elias*; Arabic *Ilyās*) is one of the most theologically significant prophets of the Hebrew Bible. Active in the northern Kingdom of Israel during the reign of **King Ahab** (c. 874–853 BCE) and his son Ahaziah (c. 853–852 BCE), Elijah is depicted in 1 Kings 17–19 and 21 and in 2 Kings 1–2 as the principal prophetic opponent of Ahab's Tyrian queen **Jezebel** and her promotion of the Baal cult in northern Israel. He is best known for the **Mount Carmel contest** against the prophets of Baal (1 Kings 18), the **Horeb theophany** of the "still small voice" (1 Kings 19), and his **translation into the heavens in a chariot of fire** (2 Kings 2:11) — the latter making Elijah, alongside Enoch (Genesis 5:24), one of only two figures in the Hebrew Bible whom the canonical text describes as having been taken up without experiencing death. Elijah is also the figure whose prophesied return (Malachi 4:5) became central to subsequent Jewish messianic expectation and whom the New Testament Gospels identify with John the Baptist (Matthew 11:14, 17:10–13).

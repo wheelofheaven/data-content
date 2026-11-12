@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 99
@@ -22,16 +22,18 @@ alternative_names = ["光的携带者", "lūcifer", "Helel ben Shahar", "הֵי�
 portrait_id = "lucifer"
 image = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/lucifer-light-bringer-v3.avif"
-image_alt = "AI-generated editorial portrait of Lucifer as the Light-Bringer, an Eloha faction leader with long hair and a green-gold luminosity."
-image_caption = "Interpretive portrait for the Lucifer wiki entry and library personality metadata."
+image_alt = "AI 生成的路西法编辑性肖像：作为带光者，一位长发、散发绿金色光辉的耶洛因派系领袖。"
+image_caption = "用于路西法百科条目及图书馆人物元数据的诠释性肖像。"
 timeline = ["leo", "cancer"]
 see_also = [
+    { title = "路西法与撒但是同一者吗？", path = "articles/lucifer-and-satan", description = "将路西法与撒但区分为对立派系的正面对比解读。" },
     { title = "蛇", path = "wiki/serpent", description = "路西法在其具体的《创世记》3 章伊甸披露角色中。" },
     { title = "耶和华", path = "wiki/yahweh", description = "以色列团队领袖与同盟温和派;路西法昔日的同僚与后伊甸时期的政治对手。" },
     { title = "撒但", path = "wiki/satan", description = "一个独立的耶洛因人物,领导母星废除派系 — 在政治上与路西法相反,而非同一。" },
     { title = "亚当与夏娃", path = "wiki/adam-and-eve", description = "路西法派系所教育、并向其作出伊甸披露的最初人类。" },
     { title = "大洪水前", path = "wiki/antediluvian", description = "被流放的路西法派系担任伊甸世系文明教师的时期。" },
     { title = "生命之树", path = "wiki/tree-of-life", description = "路西法派系为伊甸族长领导层所取得的长寿技术。" },
+    { title = "会吏总与龙", path = "articles/the-archdeacon-and-the-dragon", description = "将 Wallis 的四龙脉络对应到路西法派系的解读上。" },
 ]
 
 footnotes = [

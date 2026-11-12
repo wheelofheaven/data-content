@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["Littérature des Hekhalot / Heikhalot (הֵיכָלוֹת)", "Mystique de la Merkavah", "Mystique de la Merkabah", "la littérature des « palais »", "*ma'aseh merkavah* ('l'œuvre du char')"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Shi'ur Qomah", path = "wiki/shiur-qomah", description = "Le texte de mesures en parasanges transmis dans ce corpus et lu par le canon raëlien." },
+    { title = "Kabbale", path = "wiki/kabbalah", description = "La mystique juive classique plus tardive que cette strate prékabbalistique précède de plusieurs siècles." },
+    { title = "Arbre de Vie", path = "wiki/tree-of-life", description = "Le diagramme kabbalistique issu de la tradition de l'ascension à travers les palais." },
+    { title = "Bible hébraïque", path = "wiki/hebrew-bible", description = "La source de la vision du char-trône d'Ézéchiel, d'où la mystique de la merkavah tire son nom." },
+    { title = "Yahvé", path = "wiki/yahweh", description = "La figure trônant sur la merkavah dont le Shi'ur Qomah enchâssé mesure la stature." },
+    { title = "Descellés en l'an un", path = "articles/unsealed-in-year-one", description = "Lit les Cantiques du sacrifice du sabbat de Qumrân comme la liturgie proto-merkavah derrière cette tradition." },
+]
 
 [extra.infobox]
 type = "Corpus de textes mystiques juifs de l'Antiquité tardive / du haut Moyen Âge (pré-kabbalistiques)"

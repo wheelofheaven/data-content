@@ -6,28 +6,41 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Saṃsāra (Sanskrit संसार, Pali saṃsāra)", "the Wheel of Life (Bhavacakra)", "the cycle of birth, death, and rebirth", "the cycle of reincarnation", "cyclic existence", "the cycle (Vorilhon source designation)"]
+alternative_names = ["Saṃsāra (Sanskrit संसार, Pali saṃsāra)", "생명의 바퀴(Bhavacakra)", "탄생, 죽음, 재생의 순환", "윤회의 순환", "순환적 존재", "순환(보릴롱 원전의 명칭)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "거시생물학", path = "wiki/macrobiology", description = "유기체로서의 인류를 다루는 생물학으로, 이 분과에서 삼사라는 실패 양식 — 완료되기 전에 유산되는 전환 — 입니다." },
+    { title = "스와스티카", path = "wiki/swastika", description = "코퍼스가 삼사라 패턴을 보존한 것으로 읽는 순환의 상징." },
+    { title = "황금시대", path = "wiki/golden-age", description = "불교의 깨달음을 문명 순환으로부터의 탈출로 다시 읽는 코퍼스의 독해." },
+    { title = "우주적 경쟁", path = "wiki/cosmic-competition", description = "순환을 벗어나는 종과 다시 빠져드는 종을 가르는 우주적 수준의 선택." },
+    { title = "묵시록", path = "wiki/apocalypse", description = "인류가 순환 탈출의 선택에 직면하는 물병자리 시대의 문턱." },
+    { title = "우주의 사슬", path = "wiki/cosmic-chain", description = "문명 순환이 반복되는 중첩된 창조 계보." },
+    { title = "네 단계", path = "wiki/four-levels", description = "순환 패턴이 작동한다고 읽히는 규모 위계." },
+    { title = "대홍수", path = "wiki/great-flood", description = "코퍼스가 순환 재시작의 전형으로 읽는 쌍둥이자리 시대의 대격변 — 진보한 문명이 원시 상태로 되돌려졌습니다." },
+    { title = "루시퍼", path = "wiki/lucifer", description = "방주 작전으로 홍수 재시작을 거치며 남은 자들을 보존한, 유배된 친인류 창조자 분파." },
+    { title = "시대를 갈아내는 맷돌", path = "articles/the-mill-that-grinds-the-ages", description = "순환 배후의 세차 바퀴 — 시대를 갈아내는 맷돌, 그리고 정경이 그 표징으로 읽는 스와스티카." },
+    { title = "인류의 형상", path = "articles/the-shape-of-humanity", description = "문명 순환을 태어나기 전에 유산될 수 있는 행성 유기체의 실패 양식으로 읽는 해설." },
+]
 
 [extra.infobox]
-type = "Cosmological-cyclical concept; the substantive cyclical pattern of civilizational rise-and-fall the corpus reads as underlying cosmic-civilizational reality preserved in Indian-religions saṃsāra-cycle traditions"
-sanskrit = "संसार (saṃsāra, 'wandering through, flowing on')"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'The Second Encounter' chapter, 'Buddhism' section; consolidated *Message from the Designers* (2005)"
-core_articulation = "Buddhist saṃsāra-cycle reread collectively-civilizationally: humanity faces cosmic-civilizational choice between escape from cycle (Golden Age, cosmic-civilizational engagement) or fall back into cycle (primitive-state restart, multi-millennial redevelopment in hostile world)"
-cosmic_civilizational_selection = "Natural selection at cosmic level for species capable of leaving their planet; species controlling aggressiveness reach cosmic-civilizational engagement; species unable to control aggressiveness self-destruct at weapons-acquisition threshold"
-buddhist_devils = "Aggressiveness toward fellow humans; aggressiveness toward nature"
-buddhist_awakening = "Golden Age of civilization in which science serves the people"
-swastika_connection = "The swastika operates as the cycle-symbol preserved across the corpus engagement (treated systematically in Swastika entry)"
-distinguished_from = "Individual-eschatological saṃsāra (the substantial Indian-religions individual-soul-transmigration reading); the cosmic Golden Age content (the operational form of life produced by successful cycle-escape); the Apocalypse threshold-event (the specific 1945-onward Aquarian-age threshold moment)"
+type = "우주론적·순환적 개념. 코퍼스가 인도 전통의 saṃsāra에 보존된 우주적 실재로 읽는 문명의 흥망 패턴"
+sanskrit = "संसार (saṃsāra, '두루 떠돎, 흘러감')"
+principal_source = "*외계인들이 나를 그들의 행성으로 데려갔다*(보릴롱, 1975), '두 번째 만남' 장, '불교' 절; 통합판 *Message from the Designers*(2005)"
+core_articulation = "불교의 saṃsāra를 집단적으로 다시 읽음: 인류는 순환을 벗어나는 것(과학이 민중을 위해 봉사하는 황금시대)과 순환으로 다시 떨어지는 것(원시 상태로의 재시작, 적대적인 세계에서 수천 년에 걸친 재발전) 사이의 우주적 선택에 직면해 있습니다"
+cosmic_civilizational_selection = "'자신의 행성을 떠날 수 있는 종을 가려내는 우주적 차원의 자연 선택'. 자신의 공격성을 다스리는 종은 별에 도달하고, 그렇지 못한 종은 무기의 문턱에서 자멸합니다"
+buddhist_devils = "동료 인간에 대한 공격성; 자연에 대한 공격성"
+buddhist_awakening = "과학이 민중을 위해 봉사하는 문명의 황금시대"
+swastika_connection = "만자를 여러 전통에 걸쳐 보존된 순환의 상징으로 읽음(만자 항목에서 다룸)"
+distinguished_from = "개인적·종말론적 saṃsāra(전통적인 인도의 영혼 윤회 해석), 황금시대(순환에서 성공적으로 벗어날 때 이루어지는 삶), 묵시록(1945년 이후의 특정한 물병자리 시대 문턱)"
 parallel_traditions = "Hindu saṃsāra (Vedic, Upanishadic, Vedantic engagement); Jain karma-cycle; Sikh cycle-content; Greek-Stoic eternal recurrence; Nietzschean eternal return; Mayan Long Count cycles; Norse Ragnarök-regeneration; Chinese cyclical traditions; various indigenous cyclical traditions"
-status_in_framework = "Foundational cosmological-cyclical concept; the substantive cosmic-civilizational pattern that successful Aquarian-age navigation breaks; integrated with broader Golden Age, Apocalypse, Cosmic Chain, Cosmic Competition framework"
+status_in_framework = "기초적 우주론적·순환적 개념. 물병자리 시대를 성공적으로 헤쳐 나갈 때 깨지는 우주적 패턴이며, 황금시대, 묵시록, 우주의 사슬, 우주적 경쟁의 틀과 통합됩니다"
 +++
 
 **Saṃsāra** (Sanskrit संसार, "wandering through, flowing on") is the cycle of

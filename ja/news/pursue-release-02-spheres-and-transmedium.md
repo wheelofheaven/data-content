@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "PURSUE第01弾リリースから二週間後、米国戦争省はwar.gov/UFOにて第02弾を公開しました。これまで機密扱いだった五十点以上の資料が含まれ、その中には初の非熱画像・フルカラーのUAP映像、ヨルダン・シリア国境でのMQ-9リーパーによる兵装ロックオン事例、2022年3月の潜水艦近傍におけるトランスメディウム球体物体との遭遇、そして1948年から1950年にかけてのニューメキシコ州サンディアからの116ページに及ぶ文書記録が含まれます。本コーパスは、この第02弾を、帰還の兆候としてではなく、正典を読むための文脈として記録します。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "現在の文脈"
+cross_reference = "水瓶座の時代、§IX"
 canon_links = [
     { title = "水瓶座の時代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

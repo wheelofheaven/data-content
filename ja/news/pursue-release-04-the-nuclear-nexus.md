@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "第03弾リリースから四週間後、米国戦争省はwar.gov/UFOにて第04弾を公開しました。戦争省、NASA、CIA、FBI、そして初めてエネルギー省から、14点の文書、19本の動画、4点の音声記録、3点の画像からなる40点のファイルが採取されています。目玉となる二つのファイルは同じ主題を共有しています。すなわち核兵器施設です。新たに機密解除された記録は、マンハッタン計画の物理学者たち——なかでもエドワード・テラー、ノリス・ブラッドベリー、そして流星の専門家リンカーン・ラパスを含む——が、研究所上空で目撃された「緑色の火球」を説明しようと試み、そして失敗した1949年のロスアラモス会議を記録しています。エネルギー省のファイルは、テキサス州アマリロ近郊のパンテックス核兵器工場上空への2015年9月の空域侵入を記録しています。本コーパスは、この第04弾を、兆候としてではなく、正典を読むための文脈として記録します——その核という主題も含めてです。それは、正典が現在の時代の幕開けとして扱う1945年の原子力の閾に触れますが、それについての証拠ではありません。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §III and §IX"
+filed_under = "現在の文脈"
+cross_reference = "水瓶座の時代、§IIIおよび§IX"
 canon_links = [
     { title = "水瓶座の時代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

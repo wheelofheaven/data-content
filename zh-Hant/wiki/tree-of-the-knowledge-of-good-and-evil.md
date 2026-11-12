@@ -6,29 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["Tree of the Knowledge of Good and Evil", "Tree of Knowledge", "עֵץ הַדַּעַת טוֹב וָרָע (Hebrew etz ha-daat tov va-ra)", "the forbidden tree", "the tree in the midst of the garden", "the second tree (alongside Tree of Life)"]
+alternative_names = ["Tree of the Knowledge of Good and Evil", "知識之樹", "עֵץ הַדַּעַת טוֹב וָרָע (Hebrew etz ha-daat tov va-ra)", "禁樹", "園中央的樹", "第二棵樹（與生命之樹並列）"]
 timeline = ["age-of-leo", "age-of-cancer"]
+see_also = [
+    { title = "生命之樹", path = "wiki/tree-of-life", description = "成對之樹,編碼與科學知識一同被保留的延壽技術。" },
+    { title = "蛇", path = "wiki/serpent", description = "被讀作扮演揭露角色之路西法派系的《創世記》第 3 章人物。" },
+    { title = "路西法", path = "wiki/lucifer", description = "異議派系的領袖,其創造者向最初人類揭露了被保留的知識。" },
+    { title = "伊甸", path = "wiki/eden", description = "此樹所在、揭露發生之處的實驗室園子。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "此樹所編碼之科學知識所屬的創造者文明。" },
+    { title = "神戰", path = "wiki/theomachy", description = "揭露行為所開啟的創造者派系衝突。" },
+    { title = "大洪水", path = "wiki/great-flood", description = "揭露之後的發展軌跡所走到的後來大災變。" },
+]
 
 [extra.infobox]
-type = "Symbolic-conceptual; principal Genesis 2-3 designation for scientific knowledge archives withheld from first synthetic humans"
-hebrew_term = "עֵץ הַדַּעַת טוֹב וָרָע (etz ha-daat tov va-ra) — 'tree of the knowledge of good and evil'"
-biblical_location = "Genesis 2:9, 2:16-17, 3:1-7, 3:11, 3:17, 3:22"
-biblical_dating = "Late Age of Leo / early Age of Cancer in corpus chronology (the Eden-laboratory operational period, c. 9,000 – 8,850 BCE); placement in garden in late Leo, disclosure-and-expulsion in early Cancer"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'Genesis' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Leo chapter, Section IX, and Age of Cancer chapter, Section IV"
-core_corpus_articulation = "The body of scientific knowledge possessed by the Elohim creator civilization, withheld from first synthetic humans by Council order to prevent humans from becoming creators' equals; the prohibition is political (protect creator civilization) rather than moral (avoid sin)"
-paired_concept = "Tree of Life (עֵץ הַחַיִּים etz ha-chayyim) — biological longevity technology of the Elohim; paired prohibition; treated in dedicated Tree of Life entry"
-serpent_identification = "Lucifer faction — minority of Israel-team Eloha scientists led by an Eloha called Lucifer ('light-bringer'); the Hebrew nachash used collectively for the faction performing the disclosure act"
-merism_content = "Hebrew tov va-ra ('good and evil') operates as classic biblical merism designating the entirety of moral knowledge; post-disclosure humans become moral agents capable of full ethical evaluation"
-disclosure_consequences = "Lucifer-faction exile to Earth ('serpent cursed to crawl'); Adam-and-Eve expulsion from laboratory-garden; Cherubim-and-flaming-sword guard preventing Tree-of-Life access (corpus reading: soldiers with atomic disintegration weapons); subsequent civilizational developmental trajectory"
-distinguished_from = "Mainstream Christian 'original sin' reading (treating prohibition as moral and disobedience as fall); Tree of Life (paired biological-longevity technology); gnostic positive-serpent reading (sharing structural features but operating distinctively on Eloha-faction internal distinctions)"
-status_in_framework = "Foundational symbolic-conceptual content; principal originary knowledge-asymmetry articulation; structural inaugurator of subsequent human scientific-developmental trajectory; central to broader corpus engagement with creator-created political relationship"
+type = "象徵—概念性；創世記 2-3 章對不讓最初的合成人類接觸之科學知識檔案的主要稱呼"
+hebrew_term = "עֵץ הַדַּעַת טוֹב וָרָע（etz ha-daat tov va-ra）——「分別善惡之樹」"
+biblical_location = "創世記 2:9、2:16–17、3:1–7、3:11、3:17、3:22"
+biblical_dating = "依語料年表為獅子座時代晚期／巨蟹座時代早期（伊甸實驗室運作期間，約西元前 9,000 – 8,850 年）；在獅子座時代晚期置於園中，在巨蟹座時代早期揭示並驅逐"
+principal_source = "《訴說真相之書》（沃里隆，1974），〈真相〉章，〈創世記〉一節；彙編於《來自設計者的訊息》（2005）；在獅子座時代與巨蟹座時代的時間線材料中進一步發展"
+core_corpus_articulation = "耶洛因創造者文明所擁有的科學知識總體，依議會命令不讓最初的合成人類接觸，以防他們成為與創造者平等的存在；此禁令是政治性的（保護創造者文明），而非道德性的（避免罪惡）"
+paired_concept = "生命樹（עֵץ הַחַיִּים etz ha-chayyim）——耶洛因的生物長壽技術；與之成對的禁令，見生命樹專門條目"
+serpent_identification = "路西法派——以色列團隊中少數的 Eloha 科學家，由一位名為路西法（「帶來光明者」）的 Eloha 領導；希伯來文 nachash 被集體用來指稱進行揭示的這一派系"
+merism_content = "希伯來文 tov va-ra（「善與惡」）是典型的聖經兩極並舉法，指稱道德知識的全部；揭示之後，人類成為能夠獨立判斷的道德主體"
+disclosure_consequences = "路西法派被流放到地球（「蛇被咒詛用肚子行走」）；亞當與夏娃被逐出實驗室—園子；基路伯與發火焰的劍把守，阻止接近生命樹（語料的解讀：手持原子分解武器的士兵）；其後的科學發展軌跡"
+distinguished_from = "主流基督教的「原罪」讀法（禁令是道德性的，吃果子即墮落）；生命樹（成對的生物長壽技術）；諾斯底派對蛇的正面解讀（在結構上有共同之處，但更全面地否定造物神）"
+status_in_framework = "基礎的象徵—概念內容；本框架對創造者與被造者之間原初知識不對稱，以及對此不對稱的第一次反抗的主要表述"
 +++
 
 The **Tree of the Knowledge of Good and Evil** (Hebrew עֵץ הַדַּעַת טוֹב וָרָע,

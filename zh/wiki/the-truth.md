@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,16 +15,24 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["la Vérité (French, the principal Vorilhon designation)", "the truth (lowercase, when referring to the recovered content as such)", "the underlying historical-civilizational reality (corpus-internal expansion)", "the message (in Raëlian source-textual usage)", "*emet* (אֱמֶת, Hebrew)", "*aletheia* (ἀλήθεια, Greek)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "传统", path = "wiki/the-tradition", description = "真相借以在数千年间传承下来的、被保存的传递渠道。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "其历史即为真相所复原之具体内容的文明。" },
+    { title = "希伯来圣经", path = "wiki/hebrew-bible", description = "其被神秘化的词汇由词源复原加以解码的主要宗教文本。" },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "其恢复计划即是复原真相的文集。" },
+    { title = "卡巴拉", path = "wiki/kabbalah", description = "被解读为以神秘化形式保存历史内容的一种秘传传统。" },
+    { title = "世界时代", path = "wiki/world-age", description = "构建真相所复原之历史现实的岁差框架。" },
+]
 
 [extra.infobox]
-type = "Foundational concept; the framework's specific designation for the underlying historical-civilizational reality preserved in mystified form across the religious traditions"
-principal_source_anchor = "*Le Livre qui dit la vérité* (*The Book Which Tells the Truth*, 1974) — Vorilhon's foundational source text bearing The Truth in its title"
-framework_definition = "The underlying historical-civilizational reality (the Elohim civilization, its work on Earth across the twelve precessional ages, the broader cosmic-civilizational framework, the various contact moments preserved in the religious traditions) preserved in mystified form across the religious-traditional content of multiple cultures globally; recoverable through systematic etymological-rational engagement with the source-textual material"
-methodological_framework = "Vorilhon's etymological-rational engagement (the substantial 'etymology = science of the truth' move, recovering original meanings of religious vocabulary obscured by mystical overlay); Sendy's four-condition framework for decoding the Hebrew Bible (knowing the Bible, knowing space-flight possibilities, having recent biology / prehistory / history / evolution knowledge, refusing supernatural explanation)"
-distinguished_from = "Mainstream philosophical engagement with truth (correspondence theory, coherence theory, pragmatist theory, deflationary theory — the framework engages truth as specific historical content rather than as philosophical-epistemological category); the broader 'truth-movement' popular framings (operating with substantially different content and substantially different epistemic commitments); novel revelation (the framework explicitly self-positions as restoration rather than novel revelation)"
-self_positioning = "Restoration rather than novel revelation — the reassembly of distinctions the religious traditions preserve and the corpus is making available again after the long centuries during which they had been lost"
-status_in_framework = "Foundational concept; the framework's specific designation for what it recovers; supports the broader integration of religious-traditional, archaeological, scientific, and source-textual content"
-principal_corpus_treatment = "*Le Livre qui dit la vérité* (Vorilhon, 1974) — principal source-textual title-anchor; Sendy's *Ces dieux qui firent le ciel et la terre* (1969) and *L'ère du Verseau* (1970) — principal methodological articulations; the broader corpus subsequent integration"
+type = "《讲述真相之书》（1974）的基础性章节；本框架对以神秘化形式保存在各宗教传统中、被重新发现的历史实相的称呼"
+principal_source_anchor = "*Le Livre qui dit la vérité*（《讲述真相之书》，1974），'The Truth' 一章——沃里隆的基础性源文本"
+framework_definition = "潜在的历史实相——耶洛因、他们跨越各岁差时代在地球上的工作，以及各宗教传统所记录的接触时刻——虽被保存却遭神秘化，可通过对源文本的词源学与理性解读加以恢复"
+methodological_framework = "沃里隆以词源学为「真理之学」（恢复宗教词汇的本义）；让·桑迪解读希伯来圣经的四个条件（了解圣经；了解太空飞行的可能与限度；掌握当前的生物学／史前史／历史／演化知识；拒绝「以不可解释者来解释」）"
+distinguished_from = "哲学上的各种真理理论（符合论、融贯论、实用主义、紧缩论），分析的是真理为何物；此处「真理」指的是具体的历史内容，而非认识论范畴。亦有别于通俗的「真相运动」框架，以及新的启示——本框架将自身定位为恢复。"
+self_positioning = "恢复而非新的启示——重新拼合各传统所保存的内容，而非领受新内容"
+status_in_framework = "基础性；雷尔派的源文本核心，以及文集对其所恢复之内容的阐述"
+principal_corpus_treatment = "*Le Livre qui dit la vérité*（沃里隆，1974）；方法上参照让·桑迪的 *Ces dieux qui firent le ciel et la terre*（1969）与 *L'ère du Verseau*（1970）"
 +++
 
 **The Truth** (French *la Vérité*; Hebrew אֱמֶת, *emet*) is the opening chapter

@@ -6,26 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["*religio* (Latin)", "*religare* (Latin verbal root, 'to bind/link')", "the cultivated bond", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
+alternative_names = ["*religio* (라틴어)", "*religare* (라틴어 동사 어근, '묶다/잇다')", "가꾸어진 유대", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "엘로힘", path = "wiki/elohim", description = "프레임워크의 독해에서 종교가 그와의 결속을 가꾸는 창조자 문명." },
+    { title = "신(新)에우헤메리즘", path = "wiki/neo-euhemerism", description = "프레임워크가 신화와 종교를 실제 접촉의 기억으로 해독하는 해석 방법." },
+    { title = "라엘리즘", path = "wiki/raelism", description = "스스로를 religare의 의미에서 무신론적 종교로 위치시키는 운동." },
+    { title = "장 상디", path = "wiki/jean-sendy", description = "연결로서의 religare라는 틀이 코퍼스의 독해에 앞서며 그 토대가 된 저자." },
+    { title = "예언자", path = "wiki/prophet", description = "창조자와 피조물 사이의 연결이 주기적으로 갱신되는 사자의 역할." },
+    { title = "신들의 다수성", path = "wiki/plurality-of-gods", description = "종교가 보존하는 전통들 뒤에서 프레임워크가 읽어 내는 복수의 제작자들." },
+    { title = "히브리어 성경", path = "wiki/hebrew-bible", description = "연결 유지의 내용을 보존한 주요 텍스트 전통." },
+    { title = "종교들의 종교", path = "articles/the-religion-of-religions", description = "라엘리즘의 '무신론적 종교'라는 자기 규정을 religare 어원과 젊은 보편주의 계열을 통해 읽습니다." },
+    { title = "일신교는 잘못된 물음이다", path = "articles/monotheism-is-the-wrong-question", description = "'일신교 대 다신교'가 왜 잘못된 틀인가 — 우상 반대 논쟁은 기억이자 충성이며, 단수는 복수의 제작자들을 대표합니다." },
+]
 
 [extra.infobox]
-type = "Foundational concept; the framework's specific definition of religion as the cultivated relationship between humanity and its extraterrestrial creators"
-etymology = "Latin *religio* ('religious obligation, conscientious observance, sanctity'), most plausibly derived from *religare* ('to bind, to tie, to link'); Cicero in *De Natura Deorum* offered the alternative derivation from *relegere* ('to re-read, to consider carefully'); the *religare* etymology is the one the framework operates principally"
-framework_definition = "The cultivated relationship between humanity and the specific civilization (the Elohim) that produced terrestrial life through deliberate scientific work; the bond requiring active cultivation across generations through ritual, instruction, textual preservation, architectural orientation, and broader institutional apparatus"
-distinguished_from = "Mainstream academic religious-studies definitions (Tylor, Durkheim, Eliade, Geertz, Smart, Asad — operating principally through cultural-symbolic-experiential framings); the Marx/Lenin 'opium of the people' tradition (operating principally through ideological-functional critique); the New Atheist tradition (operating principally through cognitive-error and harmful-institutional framings); the perennialist tradition (operating principally through transcendent-unity framings); the various supernatural-theistic traditions (operating principally through divine-revelation framings)"
-principal_source_articulation = "Vorilhon: 'Religion from the Latin religio means \"that which links\" or \"the tie\", which unites the creators to their creation' (*Let Us Welcome the Extra-Terrestrials*, 1979); Sendy: 'La religion vient du latin religare, qui veut dire relier... l'étymologie définit parfaitement l'objet initial des religions : maintenir le lien entre les cieux et la Terre' (*L'ère du Verseau*, 1970)"
-raelian_movement_self_positioning = "An 'atheist religion' — religion in the *religare* sense (cultivated bond between creators and created) while atheist in the technical sense (rejecting supernatural divinity, since the Elohim are biological beings rather than supernatural gods)"
-cross_cultural_pattern = "Priesthood-architecture-ritual complexes operating as link-maintenance institutions across virtually every major civilization: Mesopotamian, Egyptian, Vedic / Hindu, Greek and Roman, Chinese, Mesoamerican, various indigenous traditions"
-status_in_framework = "Foundational concept; the framework's specific definition of what religion IS, supporting the broader integration of revelation, prophetic-tradition, sacred-text, ritual, and architectural-iconographic content across the corpus"
-principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) — principal direct source articulation; *L'ère du Verseau* (Sendy, 1970), particularly the *La Religion* section — substantial pre-Raëlian articulation; *timeline.epub* — substantial subsequent corpus development with Noah's pre-flood community as the original religious community"
+type = "기초 개념. 종교를 인류와 그 창조자인 엘로힘 사이에 가꾸어 온 유대로 정의하는 이 체계의 정의"
+etymology = "라틴어 *religio*('종교적 의무, 세심한 준수, 신성함'). 가장 유력한 어원은 *religare*('묶다, 매다, 잇다')이며, 키케로는 *De Natura Deorum*에서 *relegere*('다시 읽다, 신중히 숙고하다')라는 대안 어원을 제시했습니다. 이 체계는 *religare* 어원에서 출발합니다"
+framework_definition = "인류와 엘로힘 — 의도적인 과학적 작업으로 지구 생명을 만들어 낸 문명 — 사이에 가꾸어 온 유대. 의례, 가르침, 텍스트 보존, 성스러운 건축의 방위를 통해 여러 세대에 걸쳐 유지됩니다"
+distinguished_from = "학계 종교학의 정의들(타일러, 뒤르켐, 엘리아데, 기어츠, 스마트, 아사드 — 문화적·상징적·경험적 틀). 마르크스·레닌의 '인민의 아편' 비판. 신무신론의 인지적 오류 틀. 영원주의의 초월적 일치 틀. 초자연적 유신론의 신적 계시 틀"
+principal_source_articulation = "보릴롱: '라틴어 religio에서 온 종교(religion)는 \"잇는 것\" 또는 \"끈\"을 뜻하며, 그것이 창조자들을 그들의 피조물과 하나로 묶습니다' (*외계인들을 환영하자*, 1979). 상디: 'l'étymologie définit parfaitement l'objet initial des religions : maintenir le lien entre les cieux et la Terre' (*L'ère du Verseau*, 1970)"
+raelian_movement_self_positioning = "'무신론적 종교'. *religare*의 의미(창조자와 피조물 사이에 가꾸어 온 유대)에서 종교이고, 초자연적 신성을 부정한다는 점에서 무신론입니다. 엘로힘은 신이 아니라 생물학적 존재이기 때문입니다"
+cross_cultural_pattern = "주요 문명 전반에서 유대를 지키는 제도로 기능한 사제직·건축·의례 복합체: 메소포타미아, 이집트, 베다, 그리스·로마, 중국, 메소아메리카, 샤머니즘 전통"
+status_in_framework = "기초 개념. 종교가 무엇인지에 대한 이 체계의 정의로, 코퍼스 전반에서 계시, 예언, 경전, 의례, 성스러운 건축을 다루는 방식의 토대"
+principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials*(보릴롱, 1979) — 주요 원전 표명. *L'ère du Verseau*(상디, 1970), 특히 *La Religion* 절 — 라엘 이전의 표명. *timeline.epub* — 이후 코퍼스의 전개로, 노아의 대홍수 이전 공동체를 최초의 종교 공동체로 봅니다"
 +++
 
 **Religion** (Latin *religio*, most plausibly from *religare*, "to bind, to tie,

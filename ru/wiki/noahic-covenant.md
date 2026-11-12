@@ -6,29 +6,39 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["the Noahic Covenant", "the post-flood covenant", "the rainbow covenant", "the Noahide covenant (Jewish tradition designation)", "the originary biblical covenant"]
+alternative_names = ["Завет с Ноем", "послепотопный завет", "завет радуги", "the Noahide covenant (Jewish tradition designation)", "изначальный библейский завет"]
 timeline = ["age-of-gemini"]
+see_also = [
+    { title = "Ной", path = "wiki/noah", description = "Человеческий партнёр изгнанных создателей и младшая сторона завета." },
+    { title = "Великий потоп", path = "wiki/great-flood", description = "Катаклизм эпохи Близнецов, на который отвечает и который завершает завет." },
+    { title = "Люцифер", path = "wiki/lucifer", description = "Фракция изгнанных создателей, становящаяся старшей стороной завета у жертвенника." },
+    { title = "Союз", path = "wiki/the-alliance", description = "Межцивилизационное партнёрство, основанное заветом." },
+    { title = "Яхве", path = "wiki/yahweh", description = "Президент Совета, на чьём послепотопном голосовании держится обязательство «никогда более»." },
+    { title = "Вавилон", path = "wiki/babel", description = "Более поздний проект, неожиданный для Совета, который показывает частный характер завета." },
+    { title = "Еврейская Библия", path = "wiki/hebrew-bible", description = "Источник повествования о завете в Бытии 8–9 и его знака — радуги." },
+    { title = "Новые заповеди", path = "wiki/new-commandments", description = "Завет эпохи Водолея, замыкающий последовательность, которую открывает завет с Ноем." },
+]
 
 [extra.infobox]
-type = "Post-flood political-religious event; formal alliance founding between the exiled-creator faction and the surviving humans led by Noah"
-hebrew_term = "בְּרִית (brit, 'covenant, alliance, agreement')"
-biblical_location = "Genesis 8:20-9:17 (the principal narrative); subsequent references in Isaiah 24:5, Isaiah 54:9, Jeremiah 33:20-26, Hosea 6:7"
+type = "Послепотопное политико-религиозное событие; основание альянса между изгнанной фракцией создателей во главе с Люцифером и уцелевшими людьми во главе с Ноем"
+hebrew_term = "בְּרִית (brit, «завет, союз, соглашение»)"
+biblical_location = "Бытие 8:20–9:17 (основное повествование); последующие упоминания — Исаия 24:5, Исаия 54:9, Иеремия 33:20–26, Осия 6:7"
 biblical_dating = "Cancer-Gemini boundary aftermath in corpus chronology (immediately following c. 6,690 BCE flood event); mainstream biblical chronology generally treats Genesis 9 as Priestly (P) source composition c. 6th century BCE"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in the Age of Gemini chapter, Sections VIII and XIII"
-core_corpus_articulation = "Private arrangement between the exiled-creator faction (the Serpentine faction) and the surviving humans led by Noah; founding alliance distinct from the home-world Council whose non-participation is demonstrated by subsequent Babel-project surprise"
-covenant_parties = "Exiled creators (the Serpentine faction); humans led by Noah and his family (the Eden-lineage survivors)"
-covenant_terms = "Exiled creators: non-participation in future destruction of humanity; acknowledgment of legitimacy of human scientific progress. Humans: gratitude, productive rebuilding, ritual recognition through offerings"
-covenant_sign = "Rainbow (Hebrew קֶשֶׁת *keshet*, dual meaning rainbow + bow-as-weapon); the bow used against the earth now hung in the cloud as visible token of laid-down weapon"
-seven_noahide_laws = "Subsequent Jewish rabbinic articulation (Talmud Sanhedrin 56a-60a): prohibitions against idolatry, blasphemy, murder, sexual immorality, theft, eating flesh from a living animal; positive requirement of courts of justice"
-distinguished_from = "The home-world Council (Council not party to the covenant); subsequent biblical covenants (Abrahamic, Mosaic, Davidic, New — sequential elaborations); mainstream Christian theological covenant readings (which generally treat covenant as agreement with single divine party rather than as private exiled-creator-human arrangement)"
-status_in_framework = "Foundational post-flood political-religious event; the originary alliance founding subsequent covenant tradition; the formal beginning of partnership structuring all subsequent alliance activity"
+principal_source = "*Книга, которая говорит правду* (Ворильон, 1974), глава «Истина»; сведено в *Послании от Создателей* (2005); основная трактовка в корпусе — в главе об Эпохе Близнецов"
+core_corpus_articulation = "Частное соглашение между изгнанной фракцией создателей во главе с Люцифером и уцелевшими людьми во главе с Ноем; основание Альянса, отличного от Совета родного мира, неучастие которого видно по его позднейшему удивлению при Вавилоне"
+covenant_parties = "Изгнанные создатели (фракция Люцифера, старшая сторона); Ной и его семья (уцелевшие эдемской линии, младшая сторона)"
+covenant_terms = "Изгнанные создатели: неучастие в любом будущем уничтожении человечества; признание законности научного прогресса людей. Люди: благодарность, созидательное восстановление, ритуальное признание через приношения"
+covenant_sign = "Радуга (иврит קֶשֶׁת keshet, двойное значение: радуга и лук как оружие); лук, обращённый против земли, теперь повешен в облаке как знак сложенного оружия"
+seven_noahide_laws = "Позднейшая иудейская раввинистическая формулировка (Талмуд, Санхедрин 56a–60a): запреты идолопоклонства, богохульства, убийства, сексуальной распущенности, воровства и поедания плоти живого животного; а также положительное требование учреждать суды"
+distinguished_from = "Совет родного мира (не участник завета); последующие библейские заветы (с Авраамом, Моисеем, Давидом, Новый — последовательные развития); общепринятое христианское богословие завета (которое понимает завет как договор с единственной божественной стороной, а не как частное соглашение создателей и людей)"
+status_in_framework = "Основополагающее послепотопное событие; изначальный завет, положивший начало последовательности, которая структурирует всю дальнейшую деятельность альянса"
 +++
 
 **The Noahic Covenant** is the post-flood agreement recorded in Genesis

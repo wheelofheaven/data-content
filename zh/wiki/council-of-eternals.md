@@ -8,7 +8,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -18,21 +18,29 @@ entry_type = "civilization"
 
 alternative_names = ["the Grand Council of the Eternals", "the Council", "the Council of Eternals", "the Divine Council", "the Divine Assembly", "the Heavenly Court", "the Assembly of the Elohim"]
 timeline = ["pre-creation", "capricorn", "sagittarius", "scorpio", "libra", "virgo", "leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
+see_also = [
+    { title = "耶和华", path = "wiki/yahweh", description = "贯穿约 25,000 年地球计划的议会主席。" },
+    { title = "联盟", path = "wiki/the-alliance", description = "议会所处的更广泛跨文明机构。" },
+    { title = "路西法", path = "wiki/lucifer", description = "其被流放到地球一事由议会裁决的全面披露派系。" },
+    { title = "大洪水前", path = "wiki/antediluvian", description = "议会以重置加以解决的洪水前进步危机。" },
+    { title = "伊甸", path = "wiki/eden", description = "其政治解决由议会决定的披露危机。" },
+    { title = "一神论是个错误的问题", path = "articles/monotheism-is-the-wrong-question", description = "将神圣议会解读为圣经“独一神”背后的复数性——一位代表整个会众发言的代表。" },
+]
 
 [extra.infobox]
-hebrew_designations = "עֲדַת אֵל (ʿadat ʾēl, 'assembly of El'); סוֹד יְהוָה (sod Yhwh, 'council of Yahweh'); בְּנֵי הָאֱלֹהִים (benei ha-Elohim, 'sons of Elohim')"
-greek_designation = "ἡ βουλὴ τῶν θεῶν (he boulē tōn theōn, 'the council of the gods', in the Septuagint and broader Hellenistic tradition)"
-type = "Governing political body of the Elohim civilization; deliberative-and-executive authority"
-membership = "700 Eternals (members of the Elohim civilization who have undergone cloning-and-memory-transfer to achieve practical immortality)"
-presidency = "Yahweh, the first individual on whom the cloning-and-memory-transfer technology was successfully applied; continuous Council president across approximately 25,000 years"
-location = "Planet of the Eternals (the second smaller planet in the alliance home stellar system, also home to approximately 8,400 resurrected humans)"
-operational_period = "Approximately 25,000 years from founding to present; continuous deliberative and executive authority across the entire Earth project"
-date_type = "framework-internal; derived from Yahweh's recorded 25,000-year continuous existence and Council presidency"
-biblical_appearance = "Psalm 82 (the assembly of El); 1 Kings 22:19–23 (Micaiah's vision); Job 1–2 (the sons of Elohim with ha-satan); Daniel 7:9–14 (the Ancient of Days enthroned); Isaiah 6:1–8 (Isaiah's commissioning); Isaiah 14:13 (the mount of assembly); Genesis 1:26 (the plural self-address); various other passages preserving the divine-council motif"
-distinguished_from = "The Elohim civilization (broader population of ~7 billion); the Eternals as a population (700 Elohim plus ~8,400 resurrected humans on the Planet of the Eternals); the Alliance (the cross-civilizational political body that emerged after the Noahic covenant); the Lucifer faction (the originally-dissenting subset of the Israel team); the prophetic tradition (the human partners commissioned for Earth-side work)"
-current_status = "Active; conducting Aquarian-age preparation through the Raëlian movement and the embassy project; preparing for the open return at the completed embassy"
-principal_text = "Hebrew Bible divine-council passages; *The Book Which Tells the Truth* (Vorilhon/Raël, 1974); *Extra-Terrestrials Took Me to Their Planet* (1975)"
-principal_framework_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), 'Meeting the Ancient Prophets'"
+hebrew_designations = "עֲדַת אֵל（ʿadat ʾēl，「伊勒的会」）；סוֹד יְהוָה（sod Yhwh，「耶和华的议会」）；בְּנֵי הָאֱלֹהִים（benei ha-Elohim，「耶洛因之子」）"
+greek_designation = "ἡ βουλὴ τῶν θεῶν（he boulē tōn theōn，「众神的议会」，见于七十士译本及更广的希腊化传统）"
+type = "耶洛因文明的执政机构；兼具审议与执行权力"
+membership = "700 位永恒者（经克隆与记忆转移而获得实际永生的耶洛因文明成员）"
+presidency = "耶和华，第一位成功应用克隆与记忆转移技术的个体；约 25,000 年来连续担任议会主席"
+location = "永恒者行星（联盟母星系中第二颗较小的行星，亦有约 8,400 名复活的人类居住）"
+operational_period = "自创立至今约 25,000 年；在整个地球计划期间持续拥有审议与执行权力"
+date_type = "框架内部推定；依据耶和华所记载的 25,000 年连续存在及议会主席任期推得"
+biblical_appearance = "诗篇 82 篇（伊勒的会）；列王纪上 22:19–23（米该雅的异象）；约伯记 1–2 章（耶洛因之子与 ha-satan）；但以理书 7:9–14（亘古常在者登宝座）；以赛亚书 6:1–8（以赛亚受差遣）；以赛亚书 14:13（聚会的山）；创世记 1:26（复数的自称）；以及其他保存神圣议会母题的经文"
+distinguished_from = "耶洛因文明（约 70 亿的更广人口）；作为群体的永恒者（永恒者行星上的 700 位耶洛因加上约 8,400 名复活的人类）；联盟（挪亚之约后形成的跨文明政治机构）；路西法派系（以色列团队中最初持异议的一支）；先知传统（受托在地球一侧工作的人类伙伴）"
+current_status = "活跃中；通过雷尔运动与大使馆计划进行水瓶座时代的准备；为在大使馆建成之际的公开回归作准备"
+principal_text = "希伯来圣经中的神圣议会经文；《讲述真相之书》（沃里隆／雷尔，1974）；《外星人带我去他们的行星》（1975）"
+principal_framework_source = "《外星人带我去他们的行星》（沃里隆／雷尔，1975），「会见古代先知」"
 +++
 
 The **Council of the Eternals** (also the Grand Council of the Eternals, the Council, the Divine Council, or the Divine Assembly) is the governing body of the Elohim civilization: a 700-member political authority of senior **Eternals** — individuals who have undergone the cloning-and-memory-transfer technology that produces practical immortality, living on across successive bodies. It sits on the second smaller planet of the alliance home stellar system (the Planet of the Eternals), where its members reside alongside roughly 8,400 resurrected humans selected for the same treatment. Yahweh, the first individual on whom the technology was successfully applied, has presided over it for approximately 25,000 years.

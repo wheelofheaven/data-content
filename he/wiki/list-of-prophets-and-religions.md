@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -19,16 +19,26 @@ alternative_names = ["Catalogue of religions", "Prophet and tradition index", "R
 portrait_id = "prophetic-lineage"
 image = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.avif"
-image_alt = "AI-generated editorial group portrait of the prophetic lineage, with figures from multiple eras arranged around a luminous axis."
-image_caption = "Interpretive portrait for the prophets and religions reference catalogue."
+image_alt = "דיוקן קבוצתי עריכתי שנוצר בבינה מלאכותית של השושלת הנבואית, ובו דמויות מתקופות רבות המסודרות סביב ציר זוהר."
+image_caption = "דיוקן פרשני לקטלוג העזר של הנביאים והדתות."
+see_also = [
+    { title = "דת", path = "wiki/religion", description = "ערך האם המפתח את קריאת המסגרת בהיסטוריה הדתית שקטלוג זה מציג בטבלה." },
+    { title = "ראליזם", path = "wiki/raelism", description = "המסורת של הקנון עצמו, בראש הסולם ההשוואתי המשמש כאן." },
+    { title = "ראל", path = "wiki/rael", description = "השליח האחרון בשושלת הנבואית שהקטלוג ממפתח." },
+    { title = "מוחמד", path = "wiki/muhammad", description = "אחד הנביאים המייסדים שהקטלוג מסווג את מסורתו ומצליב אותה." },
+    { title = "משה", path = "wiki/moses", description = "אחד הנביאים המייסדים שהקטלוג מסווג את מסורתו ומצליב אותה." },
+    { title = "אלוהים", path = "wiki/elohim", description = "הציוויליזציה שהמסגרת קוראת את מגעיה מאחורי המסורות האותנטיות המנויות." },
+    { title = "דת הדתות", path = "articles/the-religion-of-religions", description = "מציב שלוש מן האוניברסליות של הדרג השני בקטלוג — הבהאית, אומוטו וקאו דאי — לצד הראליזם, בלשונן שלהן." },
+    { title = "ארבעים הכיסאות", path = "articles/the-forty-chairs", description = "ממסד את סולם חמשת הדרגים של קטלוג זה לשישה מבחנים מנוסחים, המכוילים על סיינטולוגיה ועל הניגוד בין ג׳וזף סמית׳ להאברד." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of religious traditions and their founding figures"
-scope = "Major world religions, regional and ethnic traditions, ancient religions, new religious movements"
-classification_instrument = "Five-tier authenticity scale (canonical / highly likely / likely / unlikely / highly unlikely)"
-authenticity_basis = "Wheel of Heaven framework's reading of each tradition as preserving (or not) authentic testimony of Elohim–human contact"
-companion_entries = "[Religion](../religion/); [Bible](../bible/); [Raëlism](../raelism/); individual entries on the major traditions and their founders"
-caveat = "The catalogue is not exhaustive; coverage is most complete for traditions with substantial historical documentation and dedicated wiki entries"
+type = "קטלוג עזר של מסורות דתיות ודמויות המייסדים שלהן"
+scope = "דתות עולם מרכזיות, מסורות אזוריות ואתניות, דתות עתיקות, תנועות דתיות חדשות"
+classification_instrument = "סולם השוואתי בן חמישה דרגים (קנוני / סביר מאוד / סביר / לא סביר / לא סביר מאוד) — היוריסטיקה של הקורפוס עצמו לארגון ההשוואה; הקנון אינו נותן דרגים"
+tier_basis = "הדרג הקנוני רושם את השליחים שהמסר המוכתב מונה בשמם; הדרגים הפתוחים רושמים את השוואת העבודה של הקורפוס בין סיפור הייסוד של כל מסורת לבין תיאור המגע של הקנון, ולא פסק דין על אותנטיות"
+companion_entries = "[דת](../religion/); [הביבליה](../bible/); [ראליזם](../raelism/); ערכים נפרדים על המסורות המרכזיות ועל מייסדיהן"
+caveat = "הקטלוג אינו ממצה; הכיסוי מלא ביותר במסורות בעלות תיעוד היסטורי ניכר וערכי ויקי ייעודיים"
 +++
 
 This entry catalogues the world's principal religious traditions and the prophets, founders, and visionaries associated with them, with an indication of how each tradition is positioned within the Wheel of Heaven framework's reading of religious history. The catalogue serves three functions: a navigation index for the wiki's coverage of individual traditions, a reference for the corpus's working positions in comparing different traditions, and a transparent statement of the methodology by which tier assignments are made.

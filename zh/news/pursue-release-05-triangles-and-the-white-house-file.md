@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "在第四批公布四周之后,美国战争部于 war.gov/UFO 发布了 PURSUE 第五批:据媒体统计为41份文件——文档、图像与视频——材料来自五角大楼、联邦调查局与中央情报局,并首次迎来国务院与总统行政办公室的加入。领衔案例包括:一次2024年的联邦调查局访谈,一名前军方飞行员在其中回忆2002年阿富汗巴格拉姆上空一个无声、估计500英尺宽的等边三角形遮蔽了星空;2021年阿曼湾一架炮艇机与约25个「冷球体」的遭遇,这些球体似乎对飞机主炮的射击作出了反应;以及1963年11月的一组档案,其中一则关于坠毁球体与死亡乘员的耸动巴西电台报道,从中央情报局的监听记录经白宫太空委员会的问询,走到国务院的裁决:捏造。本项目将第五批登记为解读正典的背景,而非回归的征兆——并以全额文献效力载录在其自身文件之下瓦解的巴伊亚档案。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "当下的背景"
+cross_reference = "水瓶座时代，§IX"
 canon_links = [
     { title = "水瓶座时代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

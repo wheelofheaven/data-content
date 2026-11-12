@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,25 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of etymological readings", "Framework philology index", "Glossary of source-language readings"]
+alternative_names = ["語源学的読解の目録", "枠組みの文献学索引", "典拠言語の読解の用語集"]
+see_also = [
+    { title = "釈義的読解のリスト", path = "wiki/list-of-exegetic-readings", description = "語が何を指すかを扱い、この文献学的な水準を補う姉妹目録。" },
+    { title = "神話素および神話的モチーフのリスト", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "文化を横断して繰り返される物語の型を扱う、三つ目の姉妹目録。" },
+    { title = "ビリーノの方法", path = "wiki/biglino-method", description = "目録のサンディ=ビグリーノの方法が依拠する、厳密な文献学の手続き。" },
+    { title = "ヘブライ語", path = "wiki/hebrew", description = "目録の中で最大の原語の範疇。" },
+    { title = "聖書", path = "wiki/bible", description = "目録がその用語を語源的に回復する、主要なテクストのコーパス。" },
+    { title = "ネオエウヘメリズム", path = "wiki/neo-euhemerism", description = "読解が適用する実際的なレンズをもたらす解釈の伝統。" },
+    { title = "元年に目覚めた巻物", path = "articles/the-scrolls-that-woke-in-year-one", description = "11QMelchizedek は「elohim」を天上の役人に当てている。語源的読解にとって最良の古代写本の証人。" },
+]
 
 [extra.infobox]
-type = "Reference catalogue of framework etymological readings of religious and mythological terms"
-philological_method = "Standard scholarly etymology of source-language terms, read through the framework's operational interpretive lens"
-methodological_lineage = "Jean Sendy (1968–1972), philological-historiographic foundation; Mauro Biglino (2012 onward), strict Hebrew philology; Paul Wallis (2020 onward), Christian-engaged philology; broader corpus synthesis"
-scope = "Hebrew (largest category); Greek (New Testament, classical, philosophical); Sanskrit (Vedic and Hindu); Sumerian and Akkadian; Latin; cross-linguistic"
-catalogue_columns = "Word; source-language form with transliteration; standard etymology; framework reading"
-companion_catalogues = "[List of exegetic readings](../list-of-exegetic-readings/); [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/); [List of prophets and religions](../list-of-prophets-and-religions/)"
-caveat = "Standard etymologies follow mainstream philological scholarship; framework readings are the corpus's adopted positions and may diverge from standard interpretations at specific points, with divergences flagged where they occur"
+type = "宗教的・神話的な語についてのこの枠組みの語源学的読解の参考目録"
+philological_method = "典拠言語の語の標準的な学術的語源を、この枠組みの実際的な解釈のレンズを通して読む"
+methodological_lineage = "ジャン・サンディ(1968〜1972年)、文献学的・史学的基礎。マウロ・ビリーノ(2012年以降)、厳密なヘブライ語文献学。ポール・ウォリス(2020年以降)、キリスト教に関与する文献学。より広いコーパスの総合"
+scope = "ヘブライ語(最大のカテゴリー)、ギリシア語(新約聖書、古典、哲学)、サンスクリット語(ヴェーダとヒンドゥー教)、シュメール語とアッカド語、ラテン語、言語横断的"
+catalogue_columns = "語、翻字を付した典拠言語の形、標準的な語源、この枠組みの読解"
+companion_catalogues = "[釈義的読解のリスト](../list-of-exegetic-readings/)、[神話素および神話的モチーフのリスト](../list-of-mythemes-and-mythological-motifs/)、[預言者および宗教のリスト](../list-of-prophets-and-religions/)"
+caveat = "標準的な語源は主流の文献学の研究に従う。この枠組みの読解はコーパスが採用する立場であり、特定の点で標準的な解釈と異なることがあり、相違がある箇所ではそれを明示する"
 +++
 
 This entry catalogues the Wheel of Heaven framework's adopted etymological readings of religious, mythological, and traditional terms. The corpus uses careful philological method — drawn principally from the Sendy–Biglino tradition — to recover the literal meaning of source-language terms, and reads those literal meanings for the operational content the framework's broader interpretive synthesis identifies. The catalogue presents each term in its source language and script with transliteration, the standard scholarly etymology, and the framework's adopted reading, organised by source-language tradition (Hebrew, Greek, Sanskrit, Sumerian and Akkadian, Latin, and cross-linguistic) so that etymological convergences across language families can be assessed.

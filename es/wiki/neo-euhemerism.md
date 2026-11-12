@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,17 +15,29 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["neo-evhemerism (alternative French spelling)", "neo-Euhemerist interpretation", "the neo-euhemeristic reading", "extraterrestrial euhemerism (occasional descriptive term)", "the ancient astronaut hypothesis (overlapping but not identical)", "paleocontact hypothesis (overlapping but not identical)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Hipótesis de los antiguos astronautas", path = "wiki/ancient-astronaut-hypothesis", description = "La tradición interpretativa más amplia de la que el corpus es un miembro consciente de sí mismo; el neoevemerismo es su método de lectura subyacente." },
+    { title = "Elohim", path = "wiki/elohim", description = "Las figuras del Génesis que el método lee como una civilización histórica y no como divinidad." },
+    { title = "Mauro Biglino", path = "wiki/mauro-biglino", description = "Un exponente contemporáneo de la lectura neoevemerista de traducción estricta de la Biblia Hebrea." },
+    { title = "La Tradición", path = "wiki/the-tradition", description = "El marco de transmisión de Sendy, construido sobre la misma lectura neoevemerista." },
+    { title = "Biblia hebrea", path = "wiki/hebrew-bible", description = "El corpus cuyas teofanías lee el método como memoria conservada de contactos." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "El marco que lee el mito de forma neoevemerista a la vez que lo amplía con la astronomía precesional." },
+    { title = "Religión", path = "wiki/religion", description = "El material mitológico que el método trata como memoria conservada de un contacto real." },
+    { title = "El mundo tras la Odisea", path = "/articles/the-world-behind-the-odyssey/", description = "Un Explicativo que expone con toda su fuerza la objeción de la sustitución de categorías contra el método antes de aplicarlo al mito griego." },
+    { title = "El rostro oriental de Homero", path = "/articles/the-east-face-of-homer/", description = "El Explicativo complementario que aplica la auditoría de la sustitución de categorías a la lectura del canon de los emisarios de Daniel y de la esfera elohímica." },
+    { title = "La lluvia sobre el Helicón", path = "/articles/the-rain-over-helicon/", description = "El tercer Explicativo griego, que plantea la objeción de la sustitución de categorías como una restricción vigente sobre el marco y no como un obstáculo ya superado." },
+]
 
 [extra.infobox]
-type = "Foundational interpretive-methodological concept; the position that reads religious-mythological gods and divine beings as preserved cultural memory of historical extraterrestrial-civilizational contact"
-classical_origin = "Euhemerism, articulated by Euhemerus of Messene (c. 4th-3rd century BCE) in the *Hiera Anagraphē* (*Sacred Inscription*); read the gods of Greek mythology as deified historical kings and culture-heroes whose memory the religious tradition had elevated to divine status"
-neo_euhemeristic_extension = "The further claim that the historical figures whose memory the gods preserve were not principally human kings but members of a technologically advanced extraterrestrial civilization whose capacities appeared supernatural to pre-scientific observers; produces the interpretive framework within which the religious-mythological content becomes preserved cultural memory of actual historical extraterrestrial-civilizational contact rather than principally symbolic-mythological elaboration"
-framework_relationship = "The Wheel of Heaven framework operates neo-euhemeristically at the methodological-interpretive level while extending substantially beyond simple neo-euhemerism through: integration with precessional astronomy (the doubled-signature principle, the twelve-age architecture); the ongoing-alliance framework (the Elohim as continuing contemporary reality rather than merely historical memory); the substantial source-textual specificity of Vorilhon's contact accounts and Sendy's pre-Raëlian articulations"
-principal_contemporary_articulators = "Erich von Däniken (*Chariots of the Gods?*, 1968); Zecharia Sitchin (*The 12th Planet*, 1976, and the broader Earth Chronicles); Mauro Biglino (the strict-translational Hebrew engagement); Paul Anthony Wallis (*Escaping from Eden*, 2020); Robert Charroux; the broader ancient astronaut hypothesis tradition; the substantial Raëlian Movement engagement"
-distinguished_from = "Classical Euhemerism (which reads gods as deified human historical figures); ancient astronaut hypothesis in its popular media articulations (which frequently operates without the methodological-interpretive specificity neo-euhemerism's classical heritage provides); mainstream comparative-religion engagement (which generally treats religious-mythological content as cultural-symbolic-experiential rather than as preserved historical memory); supernatural-theistic religious traditions (which read the gods as actual supernatural beings rather than as historical figures preserved in mythologized form)"
-mainstream_scholarly_status = "Limited mainstream academic currency for the term 'neo-euhemerism' specifically; mainstream scholarly engagement with the broader interpretive position operates principally through related terminology ('ancient astronaut hypothesis,' 'paleocontact hypothesis'); classical Euhemerism has substantial mainstream scholarly engagement as historical-conceptual category"
-status_in_framework = "Foundational methodological concept; the interpretive-typological category situating the framework's position within broader intellectual history; supports systematic engagement with religious-mythological content across traditions"
-principal_corpus_treatment = "Sendy's substantial articulations (1963-1972) operating neo-euhemeristically across his entire body of work; Vorilhon's contact-account material providing principal source-textual content for neo-euhemeristic reading; the broader corpus integration with precessional astronomy and ongoing-alliance framework"
+type = "Método interpretativo que lee a los dioses y seres divinos del mito como un recuerdo cultural deformado de figuras históricas reales; en su forma moderna, una civilización avanzada tomada por dioses"
+classical_origin = "El evemerismo, formulado por Evémero de Mesene (c. 340–260 a. e. c.) en la *Hiera Anagraphē* (*Inscripción sagrada*); leía a los dioses griegos como reyes y benefactores históricos a los que la tradición posterior elevó a la condición divina"
+neo_euhemeristic_extension = "Identifica a las figuras históricas que hay detrás de los dioses no con reyes humanos, sino con una civilización tecnológicamente avanzada cuyas capacidades —el vuelo, la medicina, la metalurgia, las armas— parecían sobrenaturales a observadores precientíficos"
+framework_relationship = "El marco de Wheel of Heaven lee el mito de forma neo-evemerista, pero amplía el método con la astronomía precesional (el principio de la signatura doble, la arquitectura de las doce eras), el marco de la alianza en curso (los Elohim como una realidad que continúa, no solo un recuerdo) y los textos fuente concretos de Vorilhon y Sendy"
+principal_contemporary_articulators = "Jean Sendy (1963–1972); Erich von Däniken (*Chariots of the Gods?*, 1968); Zecharia Sitchin (*The 12th Planet*, 1976); Claude Vorilhon (Raël) (desde 1974); Mauro Biglino; Paul Anthony Wallis (*Escaping from Eden*, 2020); Robert Charroux"
+distinguished_from = "El evemerismo clásico (los dioses como humanos divinizados); la Teoría de los Antiguos Astronautas (una tesis de contenido y no un método de lectura); la religión comparada dominante (el mito como fenómeno cultural-simbólico); las lecturas teístas sobrenaturales (los dioses como seres sobrenaturales reales)"
+mainstream_scholarly_status = "El término en sí tiene poca circulación académica; la investigación aborda la postura moderna como la hipótesis de los «antiguos astronautas» o del «paleocontacto» y la rechaza como pseudociencia. El evemerismo clásico es una categoría bien estudiada en la historia de las religiones"
+status_in_framework = "Método fundacional; la categoría interpretativa que sitúa el marco dentro de la larga historia de la lectura del mito como historia y que sustenta sus comparaciones entre tradiciones"
+principal_corpus_treatment = "La obra de Jean Sendy (1963–1972) lee la Biblia Hebrea de forma neo-evemerista de principio a fin; los relatos de contacto de Vorilhon aportan el texto fuente principal del marco; el corpus integra ambos con la astronomía precesional y el marco de la alianza en curso"
 +++
 
 **Neo-Euhemerism** is the interpretive method that reads the gods and divine

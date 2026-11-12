@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -16,21 +16,29 @@ entry_type = "biographical"
 claim_type = "framework"
 timeline = ["pisces"]
 alternative_names = ["Muḥammad ibn ʿAbd Allāh", "Muhammad ibn Abdullah", "Abu al-Qasim", "Ahmad", "Rasūl Allāh", "Khātam al-Anbiyāʾ"]
+see_also = [
+    { title = "先知與宗教清單", path = "wiki/list-of-prophets-and-religions", description = "將穆罕默德列於正典所點名的使者之中,其先知論有所限定,不提供名冊或順序。" },
+    { title = "耶穌", path = "wiki/jesus", description = "伊斯蘭傳統將其降臨讀作預言穆罕默德的較早先知。" },
+    { title = "近距離接觸清單", path = "wiki/list-of-close-encounters", description = "將夜行登霄(Isra' 與 Mi'raj)收錄為一次飛行器轉移事件。" },
+    { title = "永恆者議會", path = "wiki/council-of-the-eternals", description = "據報沃里隆於 1975 年在耶洛因行星上於其中遇見穆罕默德的機構。" },
+    { title = "哈尼夫信仰", path = "wiki/hanafiyya", description = "框架將穆罕默德之啟示置入其中的前伊斯蘭亞伯拉罕一神信仰。" },
+    { title = "佩特拉", path = "wiki/petra", description = "本條目脈絡中所討論之修正主義地理學提出的納巴泰遺址。" },
+]
 
 [extra.infobox]
-type = "Arabian prophet, founder of the religious community that became Islam"
+type = "阿拉伯先知，後來成為伊斯蘭教之宗教群體的創立者"
 arabic = "<span class=\"arabic\">مُحَمَّد ٱبْن عَبْد ٱللَّٰه</span> *Muḥammad ibn ʿAbd Allāh*"
-name_meaning = "*Muḥammad* — \"the Praised One\" or \"He who is praised,\" from the Arabic root *ḥ-m-d* \"to praise\""
-birth = "c. 570 CE in Mecca (the traditional \"Year of the Elephant\")"
-death = "8 June 632 CE (12 Rabi al-Awwal, 11 AH) in Medina, aged approximately 62"
-lineage = "Banū Hāshim clan of the Quraysh tribe; father ʿAbd Allāh ibn ʿAbd al-Muṭṭalib (died before Muhammad's birth); mother Āminah bint Wahb (died c. 576 CE); raised by paternal grandfather ʿAbd al-Muṭṭalib until c. 578, then by paternal uncle Abū Ṭālib"
-first_revelation = "c. 610 CE at the Cave of Hira (Ghār Ḥirāʾ) on Jabal al-Nūr near Mecca, age approximately 40; Surah al-ʿAlaq (Q 96:1–5), beginning with the command *Iqraʾ* (\"Recite\") delivered by the angel Jibrīl (Gabriel)"
-hijra = "622 CE — the migration from Mecca to Yathrib (subsequently Medina), establishing the Islamic calendar (1 AH = the year beginning with the Hijra)"
-key_meccan_episodes = "First revelation at Hira; Khadija as first convert; early persecution of followers; the Isrāʾ wa-l-Miʿrāj (Night Journey and Ascension); Year of Sorrow (619 CE — deaths of Khadija and Abu Talib)"
-key_medinan_episodes = "Constitution of Medina; Battle of Badr (624); Battle of Uhud (625); Battle of the Trench (627); Treaty of Hudaybiyya (628); Conquest of Mecca (630); Farewell Pilgrimage (632)"
-revelation_text = "The Qur'an (<span class=\"arabic\">القرآن</span> *al-Qurʾān*), 114 surahs, transmitted over 22 years (c. 610–632 CE); textually canonised under the third caliph ʿUthmān ibn ʿAffān c. 650 CE"
-hadith_tradition = "The reported sayings, actions, and tacit approvals of Muhammad, transmitted through chains of narrators (*isnād*) and compiled in canonical collections in the 9th century CE — *Ṣaḥīḥ al-Bukhārī*, *Ṣaḥīḥ Muslim*, and the four Sunan collections in Sunni tradition; *al-Kāfī* and other collections in Shia tradition"
-framework_significance = "One of the messengers the canon names at Yahweh's table (ETTMTTP-2:64), among roughly forty representatives for whom it gives no list or order; the Cave of Hira revelation event preserves operational content about Elohim contact in the late Age of Pisces; the Isra' and Mi'raj preserves operational content about an aerial-craft translation event comparable to the Enoch and Elijah translations"
+name_meaning = "*Muḥammad*——「受讚美者」或「被讚美的那一位」，源自阿拉伯語字根 *ḥ-m-d*「讚美」"
+birth = "約公元 570 年生於麥加（傳統所稱的「象年」）"
+death = "公元 632 年 6 月 8 日（伊曆 11 年 3 月 12 日）於麥地那去世，享年約 62 歲"
+lineage = "古萊什部落的哈希姆家族；父親阿卜杜拉·伊本·阿卜杜勒·穆塔利卜（於穆罕默德出生前去世）；母親阿米娜·賓特·瓦赫卜（約公元 576 年去世）；由祖父阿卜杜勒·穆塔利卜撫養至約 578 年，其後由伯父阿布·塔利卜撫養"
+first_revelation = "約公元 610 年於麥加附近光明山（Jabal al-Nūr）上的希拉山洞（Ghār Ḥirāʾ），時年約 40 歲；血塊章（古蘭經 96:1–5），以天使吉卜利勒（加百列）傳達的命令 *Iqraʾ*（「你應當宣讀」）開始"
+hijra = "公元 622 年——從麥加遷往葉斯里卜（後稱麥地那），由此確立伊斯蘭曆（伊曆元年 = 以遷徙開始的那一年）"
+key_meccan_episodes = "希拉山洞的首次啟示；赫蒂徹為第一位歸信者；追隨者早期受迫害；夜行與登霄（Isrāʾ wa-l-Miʿrāj）；憂傷之年（公元 619 年——赫蒂徹與阿布·塔利卜去世）"
+key_medinan_episodes = "麥地那憲章；白德爾之戰（624）；伍侯德之戰（625）；壕溝之戰（627）；侯代比亞和約（628）；征服麥加（630）；辭朝（632）"
+revelation_text = "古蘭經（<span class=\"arabic\">القرآن</span> *al-Qurʾān*），114 章，在 22 年間傳下（約公元 610–632 年）；約公元 650 年在第三任哈里發奧斯曼·伊本·阿凡治下定本"
+hadith_tradition = "所傳述的穆罕默德言論、行為與默許，經由傳述者鏈（*isnād*）傳遞，並於公元 9 世紀編為正典彙編——遜尼派傳統中的 *Ṣaḥīḥ al-Bukhārī*、*Ṣaḥīḥ Muslim* 及四部《聖訓集》（Sunan）；什葉派傳統中的 *al-Kāfī* 及其他彙編"
+framework_significance = "正典所述在耶和華席上的使者之一（ETTMTTP-2:64），約四十位代表之一，正典未給出其名單或次序；希拉山洞的啟示事件保存了雙魚座時代晚期耶洛因接觸的實際運作內容；夜行與登霄保存了一次飛行器接升事件的實際運作內容，可與以諾及以利亞的接升相比"
 +++
 
 **Muhammad ibn Abdullah** (Arabic <span class="arabic">مُحَمَّد ٱبْن عَبْد ٱللَّٰه</span>, *Muḥammad ibn ʿAbd Allāh*; c. 570 – 8 June 632 CE) was the Arabian prophet who founded the religious community that became **Islam**, the reciter of the **Qur'an** over a 22-year period of revelation (c. 610–632 CE), and the political leader who unified the Arabian Peninsula under the *ummah* polity during the last decade of his life. He is recognised by approximately one quarter of the contemporary human population — roughly 1.9 billion Muslims worldwide — as the final messenger (*khātam al-anbiyāʾ*, the "Seal of the Prophets") of the prophetic lineage that includes Ibrahim (Abraham), Musa (Moses), Dawud (David), Isa (Jesus), and the broader sequence of figures named in the Qur'an and the Hadith literature. Islam, the religious community he founded, is the second-largest religious tradition in the contemporary world after Christianity and is the principal religious affiliation of approximately fifty contemporary nation-states.

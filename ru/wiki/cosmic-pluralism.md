@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -14,20 +14,29 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
-alternative_names = ["Plurality of worlds", "Plurality of inhabited worlds", "Many-worlds cosmology (in the classical sense, distinct from the Everett quantum interpretation)", "Pluralität der Welten", "Pluralité des mondes"]
+alternative_names = ["Множественность миров", "Множественность обитаемых миров", "Космология многих миров (в классическом смысле, не путать с квантовой интерпретацией Эверетта)", "Pluralität der Welten", "Pluralité des mondes"]
+see_also = [
+    { title = "Уравнение Дрейка", path = "wiki/drake-equation", description = "Попытка XX века оценить, сколько из множества миров обитаемы." },
+    { title = "Элохим", path = "wiki/elohim", description = "Внеземная цивилизация, существования которой, по прочтению корпуса, требует космический плюрализм." },
+    { title = "Бесконечность", path = "wiki/infinity", description = "Предпосылка бесконечного масштаба, обосновывающая комбинаторный аргумент о множестве миров." },
+    { title = "Инженерия жизни", path = "wiki/life-engineering", description = "Механизм, которым в прочтении корпуса жизнь распространяется по множеству миров." },
+    { title = "Список близких встреч", path = "wiki/list-of-close-encounters", description = "Летопись, которую корпус читает как уже установленный контакт между обитаемыми мирами." },
+    { title = "Синтетическая геномика", path = "wiki/synthetic-genomics", description = "Земная способность, приближающаяся к масштабу засевания миров, который описывает космический плюрализм." },
+    { title = "Подпись и замыслители", path = "/articles/the-signature-and-the-designers/", description = "Недоопределённый замыслитель Юма, принятый как вывод, а не как опровержение, — конечный, множественный и физический." },
+]
 
 [extra.infobox]
-type = "Philosophical and scientific doctrine that the universe contains many worlds (or many *inhabited* worlds) beyond Earth"
-opposed_position = "Aristotelian unique-world cosmology — the doctrine that there is one world (the sublunary terrestrial sphere plus the supralunary celestial spheres) and no other"
-ancient_origin = "Greek atomism, formulated by Leucippus and Democritus (5th century BCE); systematised by Epicurus (341–270 BCE); transmitted to Latin antiquity by Lucretius (*De Rerum Natura*, c. 50 BCE)"
-medieval_developments = "1277 Paris Condemnations of Étienne Tempier opening philosophical space for plurality; Jean Buridan (14th century); Nicole Oresme (14th century); Nicholas of Cusa (*De Docta Ignorantia*, 1440)"
-early_modern_milestones = "Copernicus (*De Revolutionibus*, 1543); Bruno (*De l'infinito universo e mondi*, 1584; executed 1600); Kepler; Fontenelle (*Entretiens sur la pluralité des mondes*, 1686); Huygens (*Cosmotheoros*, 1698); Kant (*Allgemeine Naturgeschichte und Theorie des Himmels*, 1755)"
-nineteenth_century = "Whewell-Brewster debate (*Of the Plurality of Worlds*, 1853; *More Worlds Than One*, 1854); Percival Lowell and the Mars canals controversy (late 19th–early 20th c.)"
-twentieth_century = "Drake equation (Frank Drake, 1961); SETI Project Ozma (1960) onward; Fermi paradox (Enrico Fermi, c. 1950)"
-twenty_first_century = "First exoplanets discovered around pulsar PSR B1257+12 (Wolszczan & Frail, 1992); first around main-sequence star 51 Pegasi b (Mayor & Queloz, 1995; Nobel Prize 2019); Kepler mission (2009–2018); JWST atmospheric biosignature searches (2022 onward); approximately 6,000+ confirmed exoplanets as of 2026"
-framework_position = "Foundational rather than optional: the corpus's broader account requires cosmic pluralism — the Elohim came from another world, humanity was synthesised by extraterrestrial intelligence, and humanity is in turn destined to create new humanities on other worlds"
-key_source_passage = "Vorilhon (1974): \"Since the beginning of time it has been so: people create other people like themselves on other planets. The cycle continues. Some die, others take over. We are your creators, and you will create other humanities.\""
-key_biblical_cross_reference = "Ecclesiastes 3:15 — \"That which hath been is now; and that which is to be hath already been\""
+type = "Философская и научная доктрина о том, что во вселенной помимо Земли существует множество миров (или множество *обитаемых* миров)"
+opposed_position = "Аристотелевская космология единственного мира — учение о том, что существует один мир (подлунная земная сфера и надлунные небесные сферы) и никакого другого"
+ancient_origin = "Греческий атомизм, сформулированный Левкиппом и Демокритом (V век до н. э.); систематизирован Эпикуром (341–270 гг. до н. э.); передан латинской античности Лукрецием (*De Rerum Natura*, ок. 50 г. до н. э.)"
+medieval_developments = "Парижские осуждения 1277 года Этьена Тампье, открывшие философское пространство для множественности; Жан Буридан (XIV век); Николай Орем (XIV век); Николай Кузанский (*De Docta Ignorantia*, 1440)"
+early_modern_milestones = "Коперник (*De Revolutionibus*, 1543); Бруно (*De l'infinito universo e mondi*, 1584; казнён в 1600); Кеплер; Фонтенель (*Entretiens sur la pluralité des mondes*, 1686); Гюйгенс (*Cosmotheoros*, 1698); Кант (*Allgemeine Naturgeschichte und Theorie des Himmels*, 1755)"
+nineteenth_century = "Спор Уэвелла и Брюстера (*Of the Plurality of Worlds*, 1853; *More Worlds Than One*, 1854); Персиваль Ловелл и полемика о марсианских каналах (конец XIX – начало XX в.)"
+twentieth_century = "Уравнение Дрейка (Фрэнк Дрейк, 1961); SETI, начиная с проекта «Озма» (1960); парадокс Ферми (Энрико Ферми, ок. 1950)"
+twenty_first_century = "Первые экзопланеты открыты у пульсара PSR B1257+12 (Вольщан и Фрейл, 1992); первая у звезды главной последовательности — 51 Пегаса b (Майор и Кело, 1995; Нобелевская премия 2019 года); миссия «Кеплер» (2009–2018); поиск атмосферных биосигнатур телескопом JWST (с 2022 года); более 6000 подтверждённых экзопланет на 2026 год"
+framework_position = "Основополагающий, а не факультативный элемент: более широкое изложение корпуса требует космического плюрализма — Элохим прибыли из другого мира, человечество было синтезировано внеземным разумом, а человечеству, в свою очередь, предстоит создавать новые человечества на других мирах"
+key_source_passage = "Ворильон (1974): «Так было с начала времён: люди создают других людей, подобных себе, на других планетах. Цикл продолжается. Одни умирают, другие приходят им на смену. Мы — ваши создатели, и вы создадите другие человечества»."
+key_biblical_cross_reference = "Екклесиаст 3:15 — «Что было, то и теперь есть, и что будет, то уже было»"
 +++
 
 **Cosmic pluralism** is the philosophical and scientific doctrine that the universe contains **many worlds beyond Earth** — and, in its stronger form, **many inhabited worlds**. The doctrine has developed across approximately 2,500 years of philosophical and scientific reflection and has stood, across most of that period, in opposition to the dominant Aristotelian unique-world cosmology that held there to be one world only. The 20th and 21st centuries have seen cosmic pluralism shift from contested philosophical speculation to an empirically grounded scientific position: the documented existence of more than **6,000 confirmed exoplanets** as of 2026, the increasing identification of potentially habitable worlds in the *habitable zones* of their host stars, the development of biosignature-detection technologies in space telescopes (JWST and successors), and the continuing programmes of the **Search for Extraterrestrial Intelligence (SETI)** have together moved the question of *whether* there are other worlds from open to settled, leaving open the question of whether the documented other worlds are *inhabited*.

@@ -6,31 +6,39 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
-translation_stale = true
+translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["U.S. Space Force", "USSF", "Space Force", "United States Space Force"]
+alternative_names = ["Космические силы США", "USSF", "Космические силы", "Космические силы Соединённых Штатов"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Военное сокрытие экзобиологии", path = "wiki/military-cover-up-of-exobiology", description = "Вопрос о сокрытии и раскрытии НЛО, рядом с которым по времени стоит основание Космических сил." },
+    { title = "Уфология", path = "wiki/ufology", description = "Область, альтернативная литература которой связывает этот род войск с более широкой рамкой НЛО." },
+    { title = "Астробиология", path = "wiki/astrobiology", description = "Наука о внеземной жизни, с которой миссия в космической сфере пересекается контекстуально." },
+    { title = "Уравнение Дрейка", path = "wiki/drake-equation", description = "Оценка числа внеземных цивилизаций, которую предполагает окружающий спор о раскрытии." },
+    { title = "Гипотеза древних астронавтов", path = "wiki/ancient-astronaut-hypothesis", description = "Позиция о контакте в прошлом, которую корпус читает наряду с современным спором о раскрытии НЛО." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "Рамка, помещающая это магистральное военное событие в контекст эпохи Водолея." },
+]
 
 [extra.infobox]
-type = "Sixth and youngest branch of U.S. Armed Forces; established December 20, 2019; operates under Department of the Air Force; substantive mission focus on military operations in space domain"
-establishment_date = "December 20, 2019 through National Defense Authorization Act for Fiscal Year 2020, signed by President Donald Trump"
+type = "Шестой и самый молодой вид Вооружённых сил США; создан 20 декабря 2019 года; подчиняется Министерству военно-воздушных сил; задачи сосредоточены на военных операциях в космическом пространстве"
+establishment_date = "20 декабря 2019 года, Законом о государственной обороне на 2020 финансовый год, подписанным президентом Дональдом Трампом"
 predecessor = "Air Force Space Command (1982-2019; subsumed into USSF)"
-parent_department = "Department of the Air Force (parallel to U.S. Marine Corps under Department of the Navy)"
-principal_commands = "Space Operations Command (SpOC); Space Systems Command (SSC); Space Training and Readiness Command (STARCOM)"
-service_member_designation = "Guardians (adopted December 18, 2020)"
-principal_missions = "Satellite operations; missile warning and missile defense support; space situational awareness; GPS operations; offensive and defensive space operations; space domain awareness"
-fy2024_budget = "Approximately $30 billion (increased from $15.4 billion at 2020 establishment)"
-international_parallels = "Russia VKS Space Forces (2015); China PLA Aerospace Force (2024, reorganized from PLA Strategic Support Force 2015); France Commandement de l'espace (2019); UK Space Command (2021); substantial subsequent national space-military establishments"
-bipartisan_continuity = "Trump administration 2017-2021 (establishment); Biden administration 2021-2025 (maintenance and expansion); Trump administration 2025-present (continuation)"
-uap_disclosure_intersection = "Establishment in temporal proximity to 2017-2024 UAP disclosure transformation; broader space-domain awareness mission operates at intersection with substantial UAP detection capability"
-corpus_position = "Documented mainstream military development; substantial alternative-ufological engagement connecting USSF to broader UAP framework with substantively varying methodological support; Vorilhon source does not articulate USSF substantively as principal corpus content; engaged at descriptive level"
-distinguished_from = "NASA (the civilian space agency; distinct organizational and mission framework); other U.S. military branches operating in space domain prior to 2019 USSF establishment; the broader UAP cover-up question (treated in the Government UAP Cover-up and Disclosure entry)"
-status_in_framework = "Documented contemporary development at intersection of mainstream military policy and broader Aquarian-age framework; engaged with substantive epistemic discipline"
+parent_department = "Министерство военно-воздушных сил (по аналогии с Корпусом морской пехоты США в составе Министерства военно-морских сил)"
+principal_commands = "Командование космических операций (SpOC); Командование космических систем (SSC); Командование космической подготовки и готовности (STARCOM)"
+service_member_designation = "«Стражи» (Guardians; принято 18 декабря 2020 года)"
+principal_missions = "Спутниковые операции; предупреждение о ракетном нападении и поддержка противоракетной обороны; ситуационная осведомлённость в космосе; эксплуатация GPS; наступательные и оборонительные космические операции; осведомлённость о космической обстановке"
+fy2024_budget = "Около 30 млрд долларов (против 15,4 млрд при создании в 2020 году)"
+international_parallels = "Космические войска ВКС России (2015); Аэрокосмические силы НОАК Китая (2024, реорганизованы из Сил стратегического обеспечения НОАК 2015 года); Commandement de l'espace Франции (2019); Космическое командование Великобритании (2021)"
+bipartisan_continuity = "Созданы при первой администрации Трампа (2017–2021); сохранены и расширены при администрации Байдена (2021–2025); продолжают действовать при второй администрации Трампа (с 2025 года)"
+uap_disclosure_intersection = "Созданы в период волны раскрытия информации о НЛЯ 2017–2024 годов; задача осведомлённости о космической обстановке пересекается с возможностями обнаружения НЛЯ, однако корпус читает создание сил как обычную военную реорганизацию, а не как подготовку к раскрытию"
+corpus_position = "Документированное общепризнанное военное событие, рассматриваемое описательно; альтернативно-уфологические утверждения о «секретной космической программе», связывающие этот вид войск с извлечением НЛЯ, помечены как спекулятивные и не имеют документальной опоры; раэлианский канон не рассматривает Космические силы как основное содержание"
+distinguished_from = "NASA (гражданское космическое агентство); виды Вооружённых сил США, действовавшие в космосе до 2019 года; более широкий вопрос о сокрытии и раскрытии информации о НЛЯ (рассматривается в статье о военном сокрытии экзобиологии)"
+status_in_framework = "Документированное современное событие с лёгким углом зрения рамки; периферийно по отношению к канону, чей собственный ответ на вопрос о раскрытии — Посольство, а не какой-либо вид войск"
 +++
 
 **The U.S. Space Force** (USSF) is the sixth and youngest branch of the United

@@ -7,28 +7,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
-redirect_to = { title = "Embassy", path = "/wiki/embassy/" }
+redirect_to = { title = "השגרירות", path = "/wiki/embassy/" }
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
 claim_type = "direct"
 timeline = ["aquarius"]
 alternative_names = ["The Return", "Second Coming (in some comparative-religion framings)", "The Arrival", "The Reunification"]
+see_also = [
+    { title = "השגרירות", path = "wiki/embassy", description = "המתקן שהאנושות חייבת לבנות כתנאי המוקדם העיקרי לשיבה." },
+    { title = "בית המקדש השלישי", path = "wiki/third-temple", description = "השגרירות הנקראת דרך נבואות שיקום המקדש בתנ״ך." },
+    { title = "תור הזהב", path = "wiki/golden-age", description = "המצב שלאחר השיבה, שההגעה פותחת לאחר שתנאיה המוקדמים מתמלאים." },
+    { title = "מועצת הנצחיים", path = "wiki/council-of-the-eternals", description = "הגוף השלטוני של האלוהים, שהשיבה מייצגת את הגעתו הרשמית." },
+    { title = "ישוע", path = "wiki/jesus", description = "דמות הפרוסיה הנוצרית, שהמסגרת קוראת כאוצר מילים אחד לשיבה." },
+    { title = "רשימת הנביאים והדתות", path = "wiki/list-of-prophets-and-religions", description = "הדמויות האסכטולוגיות בין המסורות, שהמסגרת קוראת כצופות את אותו אירוע." },
+    { title = "טחנת המלט", path = "wiki/hamlets-mill", description = "המחקר ההשוואתי ש״אדון תור הזהב, העתיד לשוב״ המודח שלו נקרא בקורפוס לצד השיבה." },
+    { title = "הטחנה הטוחנת את העידנים", path = "articles/the-mill-that-grinds-the-ages", description = "המלך הישן המתעורר — שבתאי, קרונוס, המלך שהיה ושיהיה — הנקרא כצורתה הפרצסיונית של השיבה." },
+]
 
 [extra.infobox]
-type = "Anticipated official arrival of the Elohim on Earth; the framework's culminating eschatological event"
-designation_origin = "Specifically named in the December 13, 1997 \"Message of the Elohim\" preserved in *Intelligent Design: Messages from the Designers*"
-preconditions = "(1) Humanity's genuine desire for the arrival; (2) demonstration of unification and wisdom to receive advanced knowledge responsibly; (3) construction of the Embassy (\"Third Temple\") on neutral territory; (4) safety guarantee from human military forces"
-knowledge_transfer = "Approximately 25,000 years of scientific knowledge, equivalent to the gap between current human technological capability and the Elohim's"
-embassy_location = "Initially proposed in Israel (preferably Jerusalem area), with seven formal land requests denied by Israeli authorities between approximately 1990 and 2015; on August 6, 2015, the Vorilhon-mediated message declared the Elohim's protection of Israel withdrawn; subsequent proposals have involved Palestinian Authority territories and other locations"
-comparative_eschatology = "Connected by the framework to the Jewish Mashiach, Christian Parousia, Islamic Mahdi and return of Isa, Buddhist Maitreya, Hindu Kalki, Zoroastrian Saoshyant, Taoist Li Hong, and the broader cross-cultural eschatological-savior expectation pattern"
-chronological_placement = "The framework places the Great Return in the Age of Aquarius (post-2,160 CE on the broader reckoning), with the contemporary period (early 21st century CE) as the substantive transitional phase; the specific timing is treated as contingent on the satisfaction of the preconditions"
-primary_sources = "Vorilhon, *Le Livre qui dit la vérité* (1974); *Les extra-terrestres m'ont emmené sur leur planète* (1976); the Messages collection, particularly the December 13, 1997 message; the broader Raëlian Movement publication record"
-framework_significance = "The culminating event of the entire corpus interpretive framework; the substantive teleological orientation of the Elohim project on Earth; the inauguration of the broader Golden Age / Age of Aquarius proper"
+type = "הגעתם הרשמית הצפויה של האלוהים לכדור הארץ; אירוע השיא האסכטולוגי של המסגרת"
+designation_origin = "נקרא כך במפורש ב»מסר האלוהים« מ־13 בדצמבר 1997, המשומר ב־*Intelligent Design: Messages from the Designers*"
+preconditions = "(1) רצון אמיתי של האנושות בהגעה; (2) הפגנת אחדות וחוכמה כדי לקבל ידע מתקדם באחריות; (3) בניית השגרירות (»בית המקדש השלישי«) בשטח ניטרלי; (4) ערובת ביטחון מצד הכוחות הצבאיים של בני האדם"
+knowledge_transfer = "כ־25,000 שנות ידע מדעי, השקולות לפער בין היכולת הטכנולוגית האנושית הנוכחית לזו של האלוהים"
+embassy_location = "הוצע תחילה בישראל (רצוי באזור ירושלים), ושבע בקשות רשמיות לקרקע נדחו על ידי הרשויות בישראל בין 1990 ל־2015 בקירוב; ב־6 באוגוסט 2015 הכריז המסר שנמסר באמצעות וורילון על הסרת הגנת האלוהים מישראל; הצעות מאוחרות יותר נגעו בשטחי הרשות הפלסטינית ובמקומות אחרים"
+comparative_eschatology = "מושווה בקורפוס, כדמיון, למשיח היהודי, לפרוסיה הנוצרית, למהדי ולשיבת עיסא באסלאם, למאיטרייה הבודהיסטי, לקלקי ההינדי, לסאושיאנט הזורואסטרי, ללי הונג הטאואיסטי ולדפוס המושיע האסכטולוגי הבין־תרבותי הרחב"
+chronological_placement = "המסגרת ממקמת את השיבה הגדולה בעידן הדלי, כשהתקופה העכשווית (תחילת המאה ה־21 לספירה) היא שלב המעבר; העיתוי נתפס כמותנה בתנאים המקדימים ולא כתאריך קבוע"
+primary_sources = "וורילון, *Le Livre qui dit la vérité* (1974); *Les extra-terrestres m'ont emmené sur leur planète* (1976); אוסף המסרים, ובמיוחד המסר מ־13 בדצמבר 1997; רשומת הפרסומים הרחבה של התנועה הראלית"
+framework_significance = "האירוע המכתיר של מסגרת הקורפוס; הרגע שאליו מכוון מיזם האלוהים על כדור הארץ; פתיחת תור הזהב"
 +++
 
 **The Great Return** is the Wheel of Heaven framework's name for the anticipated

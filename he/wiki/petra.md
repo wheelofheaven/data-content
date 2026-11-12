@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -24,6 +24,14 @@ entry_type = "place"
 claim_type = "speculative"
 timeline = ["pisces"]
 alternative_names = ["Πέτρα (יוונית, »סלע«)", "רקמו (Raqmū נבטית)", "רֶקֶם (עברית, Reqem)", "Rekem", "Raqēmō", "ٱلْبَتْرَاء (ערבית, al-Batrāʾ)", "סֶלַע (מקראית, »הסלע«)", "אם המושבות", "רקם של הנקיקים"]
+see_also = [
+    { title = "הנבטים", path = "wiki/nabataeans", description = "הממלכה הערבית שפטרה, החצובה בסלע, הייתה בירתה." },
+    { title = "חניפיה", path = "wiki/hanafiyya", description = "דת אברהם שהשערה זו מעתיקה את הגאוגרפיה שלה לפטרה." },
+    { title = "מוחמד", path = "wiki/muhammad", description = "הנביא שטיעון כיוון הקיבלה מכוון מחדש את קהילתו המוקדמת ביותר לעבר פטרה." },
+    { title = "אברהם", path = "wiki/abraham", description = "האב שהקורפוס קורא את האסלאם המוקדם כמחייה את דתו המשוקמת." },
+    { title = "ריבוי האלים", path = "wiki/plurality-of-gods", description = "הפנתיאון האלילי הנבטי ששכן בפטרה לפני קריאתה האברהמית." },
+    { title = "בראשית", path = "wiki/genesis", description = "הרקע הכתובי האברהמי שעל פניו נקראת השערת פטרה." },
+]
 
 [extra.infobox]
 type = "בירת שיירות נבטית חצובה בסלע; אתר מורשת עולמית של אונסקו; המוקד הגיאוגרפי של השערת פטרה-כמכה-המקורית"

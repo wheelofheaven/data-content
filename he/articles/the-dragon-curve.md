@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -21,7 +21,7 @@ category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 summary = "בראשית 1:21 בורא את התנינים הגדולים — המילה שהמקרא העברי מייחד למעמד הדרקונים, שאלפיים שנות תרגום ריככו ל“לווייתנים” ול“יצורי ים”. המסר הראליאני הראשון מספר את תוכנו של הפסוק הזה במדויק — חיי ים גדולים, עופות ו“דרקונים, או מה שאתם כיניתם דינוזאורים” — ומצטט את הציוויים התוחמים אותו, בראשית 1:20 ו־1:24, אך לעולם לא את הפסוק עצמו. ההשמטה מוזרה יותר משהיא נראית: התנ״ך שבידי ראל, תרגום הפליאד של דורם, מתרגם את הפסוק « Élohim créa donc les grands dragons ». מאמר זה קורא את קטע הדרקונים כחתימה של מחבר — ושוקל אותו מול ההסבר הממעיט החזק ביותר, מול קורפוס סנדי שנבדק, ומול מה שידעו באמת ב־1974 על עופות ועל דינוזאורים — כשעקומת הדרקון של מייקל קרייטון משמשת דימוי לדרך שבה הטיעון נפרש."
-keywords = ["תנין", "בראשית 1:21", "דרקונים", "דינוזאורים", "עופות", "Dhorme", "פארק היורה", "עקומת הדרקון", "Jean Sendy", "נחש", "לווייתן", "Raël"]
+keywords = ["תנין", "בראשית 1:21", "דרקונים", "דינוזאורים", "עופות", "דורם", "פארק היורה", "עקומת הדרקון", "ז'אן סנדי", "נחש", "לווייתן", "ראל"]
 references = [
     { id = "the-book-which-tells-the-truth", title = "Le Livre qui dit la vérité / The Book Which Tells the Truth", author = "Raël", date = "1974; French text representing the 2005 collected edition", locator = "TBWTT 2:19–23 (the quotation bracket and the dragons sentence); 2:25–39 (the Eden team and the serpent group); 3:271–273 (the banished creators and Isaiah 27:1). References identify paragraphs in the project digitization; quotations use the Library's English translation and were checked against the French text." },
     { id = "dhorme-bible", title = "La Bible — Ancien Testament I", author = "Édouard Dhorme (ed.)", date = "Bibliothèque de la Pléiade, Gallimard, 1956", locator = "Genesis 1:20–24 text and the apparatus note on vv. 20–23 ('Les dragons (verset 21), hébreu tanninim…'); the note on Genesis 3:1. Inspected in a publisher's digital extract of the Pléiade volume; not collated with the printed first edition." },

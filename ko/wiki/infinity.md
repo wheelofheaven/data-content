@@ -6,27 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Infinite", "the infinite cosmos", "infinite-cosmological framework", "the broader infinite framework", "cosmic infinity"]
+alternative_names = ["무한자", "무한한 우주", "무한 우주론 틀", "더 넓은 무한 틀", "우주적 무한"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "프랙탈 우주론", path = "wiki/fractal-cosmology", description = "무한 프레임워크 안에서 작동하는 공간적 차원." },
+    { title = "매스 이펙트", path = "wiki/mass-effect", description = "무한 프레임워크 안에서 작동하는 시간 규모화 차원." },
+    { title = "우주의 사슬", path = "wiki/cosmic-chain", description = "무한 프레임워크 안에서 작동하는 인과적·우주적·문명적 차원." },
+    { title = "네 단계", path = "wiki/four-levels", description = "무한한 우주가 수반하는 윤리적·실천적 상관물." },
+    { title = "우주적 경쟁", path = "wiki/cosmic-competition", description = "무한 위계의 전제가 틀을 지우는 문명 역학." },
+    { title = "엘로힘", path = "wiki/elohim", description = "야훼가 전한 구절들이 프레임워크의 원천적 근거를 제공하는 창조자 문명." },
+]
 
 [extra.infobox]
-type = "Foundational cosmological framework; concept articulating the infinite extent of the cosmos along spatial, temporal, and hierarchical dimensions"
-basic_premise = "The cosmos is infinite along three mutually reinforcing dimensions: spatial extent (no boundary, no edge, no center), temporal extent (no beginning, no end), and hierarchical scale (no smallest scale, no largest scale)"
-core_image = "There is neither a beginning nor an end to matter, since 'nothing is lost, nothing is created, everything is transformed' (Yahweh in *Extra-Terrestrials Took Me to Their Planet*)"
-domain = "All cosmological structure across all scales, all times, all locations"
-mathematical_status = "Substantially distinct from mainstream Cantorian transfinite mathematics (which treats specific orders of infinity within mathematical-set theory); the framework's infinity is principally physical-cosmological rather than mathematical-set-theoretic; the infinity in mathematics is one specific articulation within the broader infinity framework"
-relationship_to_mainstream_cosmology = "Substantially distinct from mainstream Big Bang cosmology's specific framework (finite age c. 13.8 billion years, finite observable extent set by cosmic horizon, homogeneous-and-isotropic at large scales per cosmological principle); the framework holds the cosmos to be infinite in age, infinite in extent, and fractal-hierarchical-self-similar rather than homogeneous-and-isotropic"
+type = "공간적·시간적·위계적 차원에 걸친 우주의 무한한 범위를 표명하는 기초 우주론 틀"
+basic_premise = "우주는 서로를 강화하는 세 차원에 걸쳐 무한함: 공간적 범위(경계도, 가장자리도, 중심도 없음), 시간적 범위(시작도 끝도 없음), 위계적 규모(가장 작은 규모도, 가장 큰 규모도 없음)"
+core_image = "물질에는 시작도 끝도 없으니, '아무것도 사라지지 않고, 아무것도 창조되지 않으며, 모든 것은 변형될 뿐'이기 때문임(*외계인들이 나를 그들의 행성으로 데려갔다*에서 야훼)"
+domain = "모든 규모, 모든 시간, 모든 장소에 걸친 모든 우주론적 구조"
+mathematical_status = "주류 칸토어식 초한 수학(집합론 안에서 무한의 순서를 다룸)과 구별됩니다. 이 체계의 무한은 집합론적이 아니라 물리적·우주론적이며, 수학적 무한은 그 안의 한 표명입니다"
+relationship_to_mainstream_cosmology = "빅뱅 우주론(약 138억 년의 유한한 나이, 우주 지평선이 정하는 유한한 관측 범위, 우주론 원리에 따른 대규모의 균질성과 등방성)과 구별됩니다. 이 체계는 우주가 나이에서 무한하고 범위에서 무한하며, 균질·등방이 아니라 프랙탈적·위계적·자기 유사적이라고 봅니다"
 relationship_to_other_framework_entries = "Foundational; Fractal Cosmology operates as spatial dimension within Infinity; Mass Effect operates as temporal dimension; Cosmic Chain operates as causal-cosmic-civilizational dimension; Four Levels operates as ethical-practical correlate"
-distinguished_from = "Mainstream Big Bang cosmology (which posits finite age and finite observable extent); mathematical infinity alone (which is one specific articulation rather than the foundational framework); the conventional supernatural-deity theological framework (which conflates 'God' with infinity in problematic ways); various mainstream multiverse proposals (which posit specific multi-universe structures rather than the open-ended infinite-hierarchical structure)"
-status_in_source_material = "Substantial; the Raëlian source material provides explicit articulation across multiple passages establishing the infinity framework's specific content; the corpus's broader articulation of three mutually reinforcing dimensions of infinity is corpus development beyond what the source material directly provides"
-principal_text = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul'; *Let's Welcome the Extra-terrestrials* (1979), 'Who Created the Creator of the Creators?' and various FAQ passages; the Wheel of Heaven corpus's outro Section II"
+distinguished_from = "빅뱅 우주론(유한한 나이와 유한한 관측 범위), 수학적 무한 단독(기초 틀이 아닌 한 표명), 초자연적 신의 틀('신'을 무한과 혼동함), 주류 다중우주 제안(열린 무한 위계가 아닌 다중 우주 구조)"
+status_in_source_material = "라엘 원전 자료는 여러 구절에서 이 틀을 명시적으로 표명합니다. 서로를 강화하는 세 차원에 대한 코퍼스의 표명은 원전이 직접 제공하는 것을 넘어섭니다"
+principal_text = "*진실을 말하는 책*(보릴롱/라엘, 1974); *외계인들이 나를 그들의 행성으로 데려갔다*(1975), '신도 영혼도 아닌'; *외계인들을 환영하자*(1979), '창조자들의 창조자는 누가 창조했는가?'와 여러 자주 묻는 질문 구절; Wheel of Heaven 코퍼스 맺음말 II절"
 +++
 
 **Infinity** is the foundational cosmological framework of the Wheel of Heaven corpus. It holds that **the cosmos is infinite along three mutually reinforcing dimensions**: infinite in **spatial extent** (no boundary, no edge, no center), infinite in **temporal extent** (no beginning, no end), and infinite in **hierarchical scale** (no smallest scale, no largest scale). Its source warrant is the Yahweh-delivered passages in *The Book Which Tells the Truth* (1974) and *Extra-Terrestrials Took Me to Their Planet* (1975), developed through the Outro Section II of *timeline.epub*. Within it, **Fractal Cosmology** is the spatial dimension, the **{% wiki(slug="mass-effect") %}Mass Effect{% end %}** the temporal-scaling dimension, the **Cosmic Chain** the causal-cosmic-civilizational dimension, and the **Four Levels** the ethical-practical correlate.

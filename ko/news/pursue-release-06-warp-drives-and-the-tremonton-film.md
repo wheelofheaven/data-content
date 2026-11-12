@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -18,7 +18,7 @@ claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "제5차 공개로부터 6주 후, 미국 전쟁부는 war.gov/UFO에 제6차 공개를 게시했습니다. 게시 시점에 보도된 전쟁부 집계로 71건의 파일 — 55건의 문서, 15편의 영상, 1건의 음성 녹음 — 이며, 그중 67건은 전쟁부 자체에서, 4건은 프로그램 최초의 비연방 기여 기관인 콜로라도주의 한 지역 법집행기관에서 나왔습니다. 이번 자료군의 무게중심은 문서의 흔적입니다. 국방정보국(Defense Intelligence Agency)의 첨단 항공우주 무기체계 응용 프로그램(Advanced Aerospace Weapon System Applications Program, 2008~2012)의 목표 기술서, 계약 체결, 다섯 차례의 계약 변경, 그리고 이 프로그램이 워프 드라이브, 통과 가능한 웜홀, 반중력, 음의 질량 추진, 투명 은폐, 통계적 드레이크 방정식, 근접 조우로 인한 부상 보고에 관해 의뢰한 38편의 참고 논문 중 37편입니다. 그 곁에는 아카이브에서 가장 오래된 필름 — 해군 준위 델버트 C. 뉴하우스가 1952년 7월 2일 유타주 트레몬턴 상공의 밝은 물체 12~14개를 촬영한 영상과 그 완전한 프로젝트 블루북 파일 — 과, 블루북의 초대 책임자 에드워드 J. 루펠트 대위가 공군의 800건 사례 중 5분의 1이 미설명 상태이며 보고들이 로스앨러모스, 앨버커키, 오크리지 주변에 군집한다고 청중에게 말하는 1952년 3월의 녹음이 자리합니다. 본 코퍼스는 제6차 공개를 귀환의 징후가 아니라 캐논을 읽기 위한 맥락으로 기록합니다 — 그리고 현직 및 전직 인력과 계약업체가 UAP 정보를 PURSUE에 가져올 수 있는 보호된 채널을 여는 전쟁부의 9월 14일 법적 면제를, 이 기간의 더 중대한 전개로 읽습니다."
 filed_under = "현재의 맥락"
-cross_reference = "Age of Aquarius, §IX"
+cross_reference = "물병자리 시대, §IX"
 canon_links = [
     { title = "물병자리 시대", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

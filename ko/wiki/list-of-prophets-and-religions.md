@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -14,20 +14,30 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of religions", "Prophet and tradition index", "Religious-tradition reference"]
+alternative_names = ["종교 목록", "예언자와 전통 색인", "종교 전통 참고 자료"]
 portrait_id = "prophetic-lineage"
 image = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.avif"
-image_alt = "AI-generated editorial group portrait of the prophetic lineage, with figures from multiple eras arranged around a luminous axis."
-image_caption = "Interpretive portrait for the prophets and religions reference catalogue."
+image_alt = "빛나는 축을 중심으로 여러 시대의 인물들이 배치된, 예언자 계보의 AI 생성 편집용 집단 초상."
+image_caption = "예언자 및 종교 참고 목록을 위한 해석적 초상."
+see_also = [
+    { title = "종교", path = "wiki/religion", description = "이 목록이 표로 정리하는 종교사에 대한 프레임워크의 독해를 전개하는 상위 항목." },
+    { title = "라엘리즘", path = "wiki/raelism", description = "여기서 사용하는 비교 척도의 맨 위에 있는 정경 자신의 전통." },
+    { title = "라엘", path = "wiki/rael", description = "목록이 색인하는 예언자 계보의 마지막 사자." },
+    { title = "무함마드", path = "wiki/muhammad", description = "그 전통을 목록이 분류하고 상호 참조하는 창시 예언자들 가운데 하나." },
+    { title = "모세", path = "wiki/moses", description = "그 전통을 목록이 분류하고 상호 참조하는 창시 예언자들 가운데 하나." },
+    { title = "엘로힘", path = "wiki/elohim", description = "프레임워크가 목록에 오른 진정한 전통들 배후에서 그 접촉을 읽는 문명." },
+    { title = "종교들의 종교", path = "articles/the-religion-of-religions", description = "목록의 2층위 보편주의 셋 — 바하이, 오모토, 까오다이 — 를 라엘리즘과 나란히, 그들 자신의 말로 놓습니다." },
+    { title = "마흔 개의 의자", path = "articles/the-forty-chairs", description = "이 목록의 다섯 층위 척도를 여섯 가지 명시된 검증으로 공식화하고, 사이언톨로지와 조지프 스미스–허버드 대비로 보정합니다." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of religious traditions and their founding figures"
-scope = "Major world religions, regional and ethnic traditions, ancient religions, new religious movements"
-classification_instrument = "Five-tier authenticity scale (canonical / highly likely / likely / unlikely / highly unlikely)"
-authenticity_basis = "Wheel of Heaven framework's reading of each tradition as preserving (or not) authentic testimony of Elohim–human contact"
-companion_entries = "[Religion](../religion/); [Bible](../bible/); [Raëlism](../raelism/); individual entries on the major traditions and their founders"
-caveat = "The catalogue is not exhaustive; coverage is most complete for traditions with substantial historical documentation and dedicated wiki entries"
+type = "종교 전통과 그 창시자들에 관한 참고 목록"
+scope = "주요 세계 종교, 지역 및 민족 전통, 고대 종교, 신종교 운동"
+classification_instrument = "다섯 층위 비교 척도(정경적 / 매우 가능성 높음 / 가능성 높음 / 가능성 낮음 / 매우 가능성 낮음) — 비교를 정리하기 위한 코퍼스 자체의 발견적 도구이며, 정경은 층위를 제시하지 않습니다"
+tier_basis = "정경적 층위는 구술된 메시지가 사자들을 명명한 것을 기록합니다. 열린 층위들은 각 창시 서사를 정경의 접촉 설명과 견준 코퍼스의 작업적 비교를 기록할 뿐, 진정성 판정이 아닙니다"
+companion_entries = "[종교](../religion/); [성경](../bible/); [라엘리즘](../raelism/); 주요 전통과 그 창시자들에 관한 개별 항목"
+caveat = "목록은 망라적이지 않음; 역사적 기록이 상당하고 전용 위키 항목이 있는 전통일수록 수록 범위가 가장 완전함"
 +++
 
 This entry catalogues the world's principal religious traditions and the prophets, founders, and visionaries associated with them, with an indication of how each tradition is positioned within the Wheel of Heaven framework's reading of religious history. The catalogue serves three functions: a navigation index for the wiki's coverage of individual traditions, a reference for the corpus's working positions in comparing different traditions, and a transparent statement of the methodology by which tier assignments are made.

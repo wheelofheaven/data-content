@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "在第三批公布四周之后,美国战争部于 war.gov/UFO 发布了 PURSUE 第四批:40份文件——14份文档、19段视频、4段音频录音与3幅图像——材料来自战争部、NASA、中央情报局、联邦调查局,并首次来自能源部。两份领衔文件共享同一主题:核武器基地。一份新近解密的会议记录记载了1949年一场洛斯阿拉莫斯会议,与会的曼哈顿计划物理学家——其中包括 Edward Teller、Norris Bradbury 与流星专家 Lincoln LaPaz——试图解释实验室上空所见的「绿色火球」,却未能成功;一份能源部文件记录了2015年9月得克萨斯州阿马里洛附近潘泰克斯核武器工厂上空的一起空域闯入事件。本项目将第四批材料登记为解读正典的背景,而非征兆——包括其核主题:它触及正典视为当下时代开端的1945年原子门槛,却并不构成关于这一门槛的证据。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §III and §IX"
+filed_under = "当下的背景"
+cross_reference = "水瓶座时代，§III 与 §IX"
 canon_links = [
     { title = "水瓶座时代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

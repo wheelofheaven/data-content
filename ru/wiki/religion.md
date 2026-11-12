@@ -6,26 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["*religio* (Latin)", "*religare* (Latin verbal root, 'to bind/link')", "the cultivated bond", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
+alternative_names = ["*religio* (лат.)", "*religare* (лат. глагольный корень, «связывать»)", "взращиваемая связь", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Элохим", path = "wiki/elohim", description = "Цивилизация-создатель, связь с которой, согласно прочтению рамки, взращивает религия." },
+    { title = "Неоэвгемеризм", path = "wiki/neo-euhemerism", description = "Интерпретационный метод, которым рамка расшифровывает миф и религию как память о реальном контакте." },
+    { title = "Раэлизм", path = "wiki/raelism", description = "Движение, позиционирующее себя как атеистическая религия в смысле religare." },
+    { title = "Жан Сенди", path = "wiki/jean-sendy", description = "Автор, чьё понимание religare как связи предшествует прочтению корпуса и обосновывает его." },
+    { title = "Пророк", path = "wiki/prophet", description = "Роль вестника, через которую периодически обновляется связь между создателями и сотворёнными." },
+    { title = "Множественность богов", path = "wiki/plurality-of-gods", description = "Множественные творцы, которых рамка читает за традициями, сохраняемыми религией." },
+    { title = "Еврейская Библия", path = "wiki/hebrew-bible", description = "Одна из главных текстуальных традиций, сохраняющих содержание о поддержании связи." },
+    { title = "Религия религий", path = "articles/the-religion-of-religions", description = "Читает самоопределение раэлизма как «атеистической религии» через этимологию religare и молодое универсалистское семейство." },
+    { title = "Монотеизм — не тот вопрос", path = "articles/monotheism-is-the-wrong-question", description = "Почему «монотеизм против политеизма» — неверная рамка: антиидольская полемика как память и верность, а единственное число как представитель множественных творцов." },
+]
 
 [extra.infobox]
-type = "Foundational concept; the framework's specific definition of religion as the cultivated relationship between humanity and its extraterrestrial creators"
-etymology = "Latin *religio* ('religious obligation, conscientious observance, sanctity'), most plausibly derived from *religare* ('to bind, to tie, to link'); Cicero in *De Natura Deorum* offered the alternative derivation from *relegere* ('to re-read, to consider carefully'); the *religare* etymology is the one the framework operates principally"
-framework_definition = "The cultivated relationship between humanity and the specific civilization (the Elohim) that produced terrestrial life through deliberate scientific work; the bond requiring active cultivation across generations through ritual, instruction, textual preservation, architectural orientation, and broader institutional apparatus"
-distinguished_from = "Mainstream academic religious-studies definitions (Tylor, Durkheim, Eliade, Geertz, Smart, Asad — operating principally through cultural-symbolic-experiential framings); the Marx/Lenin 'opium of the people' tradition (operating principally through ideological-functional critique); the New Atheist tradition (operating principally through cognitive-error and harmful-institutional framings); the perennialist tradition (operating principally through transcendent-unity framings); the various supernatural-theistic traditions (operating principally through divine-revelation framings)"
-principal_source_articulation = "Vorilhon: 'Religion from the Latin religio means \"that which links\" or \"the tie\", which unites the creators to their creation' (*Let Us Welcome the Extra-Terrestrials*, 1979); Sendy: 'La religion vient du latin religare, qui veut dire relier... l'étymologie définit parfaitement l'objet initial des religions : maintenir le lien entre les cieux et la Terre' (*L'ère du Verseau*, 1970)"
-raelian_movement_self_positioning = "An 'atheist religion' — religion in the *religare* sense (cultivated bond between creators and created) while atheist in the technical sense (rejecting supernatural divinity, since the Elohim are biological beings rather than supernatural gods)"
-cross_cultural_pattern = "Priesthood-architecture-ritual complexes operating as link-maintenance institutions across virtually every major civilization: Mesopotamian, Egyptian, Vedic / Hindu, Greek and Roman, Chinese, Mesoamerican, various indigenous traditions"
-status_in_framework = "Foundational concept; the framework's specific definition of what religion IS, supporting the broader integration of revelation, prophetic-tradition, sacred-text, ritual, and architectural-iconographic content across the corpus"
-principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) — principal direct source articulation; *L'ère du Verseau* (Sendy, 1970), particularly the *La Religion* section — substantial pre-Raëlian articulation; *timeline.epub* — substantial subsequent corpus development with Noah's pre-flood community as the original religious community"
+type = "Основополагающее понятие; определение религии в рамке как культивируемой связи между человечеством и его создателями, Элохим"
+etymology = "Латинское *religio* («религиозная обязанность, тщательное соблюдение, святость»), вероятнее всего от *religare* («связывать, привязывать, соединять»); Цицерон в *De Natura Deorum* предложил альтернативное выведение от *relegere* («перечитывать, тщательно обдумывать»). Рамка исходит из этимологии *religare*"
+framework_definition = "Культивируемая связь между человечеством и Элохим — цивилизацией, создавшей земную жизнь целенаправленной научной работой, — поддерживаемая из поколения в поколение через ритуал, наставление, сохранение текстов и ориентацию сакральной архитектуры"
+distinguished_from = "Академические определения религиоведения (Тайлор, Дюркгейм, Элиаде, Гирц, Смарт, Асад — культурно-символические и опытные подходы); марксистско-ленинская критика религии как «опиума народа»; трактовка Нового атеизма как когнитивной ошибки; перенниалистская трактовка трансцендентного единства; сверхъестественно-теистические трактовки через божественное откровение"
+principal_source_articulation = "Ворильон: «Религия, от латинского religio, означает „то, что связывает“, или „узы“, соединяющие создателей с их творением» (*Встретим инопланетян*, 1979); Сенди: «l'étymologie définit parfaitement l'objet initial des religions : maintenir le lien entre les cieux et la Terre» (*L'ère du Verseau*, 1970)"
+raelian_movement_self_positioning = "«Атеистическая религия» — религия в смысле *religare* (культивируемая связь между создателями и созданными) и атеизм в отрицании сверхъестественного божества, поскольку Элохим — биологические существа, а не боги"
+cross_cultural_pattern = "Комплексы жречества, архитектуры и ритуала, действующие как институты поддержания связи во всех крупных цивилизациях: месопотамской, египетской, ведической, греко-римской, китайской, мезоамериканской, а также в шаманских традициях"
+status_in_framework = "Основополагающее понятие; определение того, что есть религия, на котором в рамке держится трактовка откровения, пророчества, священного текста, ритуала и сакральной архитектуры во всём корпусе"
+principal_corpus_treatment = "*Встретим инопланетян* (Ворильон, 1979) — основная формулировка в источниках; *L'ère du Verseau* (Сенди, 1970), особенно раздел *La Religion* — дораэлианская формулировка; *timeline.epub* — дальнейшая разработка в корпусе, где допотопная община Ноя предстаёт первой религиозной общиной"
 +++
 
 **Religion** (Latin *religio*, most plausibly from *religare*, "to bind, to tie,

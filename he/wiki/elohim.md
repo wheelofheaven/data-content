@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -23,14 +23,20 @@ alternative_names = ["Anunnaki", "השמיימיים", "הבוראים", "אל",
 portrait_id = "elohim"
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.avif"
-image_alt = "AI-generated editorial group portrait of the Elohim as long-haired human-like creators in a green-lit council setting."
-image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
+image_alt = "דיוקן קבוצתי עריכתי שנוצר בבינה מלאכותית של האלוהים כבוראים דמויי אדם ארוכי שיער, במסגרת של מועצה מוארת באור ירוק."
+image_caption = "דיוקן פרשני לערך הוויקי על האלוהים ולמטא־נתוני הדמויות של הספרייה."
 see_also = [
+    { title = "הפן המזרחי של הומרוס", path = "/articles/the-east-face-of-homer/", description = "המאמר הקורא את יוון כמחוז של התחום האלוהימי, על סמך שני עוגנים קנוניים." },
+    { title = "הגשם מעל הליקון", path = "/articles/the-rain-over-helicon/", description = "המאמר היווני השלישי, השוקל מה מסירה ספרותית מתועדת יכולה ואינה יכולה לבסס לגבי מושא משותף שמאחורי מסורות הקרב האלוהי." },
+    { title = "האם האנונאקי הם האלוהים?", path = "articles/anunnaki-and-the-elohim", description = "האם האנונאקי השומריים מציינים את אותם יוצרים — השוואה מקרה אחר מקרה." },
     { title = "יהוה", path = "wiki/yahweh", description = "האלוהה הראשי — נשיא מועצת הנצחיים." },
     { title = "מועצת הנצחיים", path = "wiki/council-of-the-eternals", description = "הגוף השלטוני המכריע בגורל הבריאה האנושית." },
     { title = "ריבוי האלים", path = "wiki/plurality-of-gods", description = "הטיעון הפילולוגי להתייחסות לאלוהים כרבים ולא כיחיד של רוממות." },
     { title = "ראליזם", path = "wiki/raelism", description = "העדשה הפרשנית בת זמננו הקוראת את האלוהים כציוויליזציה אנושית מתקדמת." },
-    { title = "כוכב הלכת הביתי של האלוהים", path = "wiki/elohim-home-planet", description = "כוכב הלכת שמקורם בו, המתואר על ידי ראל לאחר ביקורו ב-1975." },
+    { title = "כוכב־האם של האלוהים", path = "wiki/elohim-home-planet", description = "כוכב הלכת שמקורם בו, המתואר על ידי ראל לאחר ביקורו ב-1975." },
+    { title = "הארכידיאקון והדרקון", path = "articles/the-archdeacon-and-the-dragon", description = "קריאת ה״אלוהים״ של בראשית כרבים, ״בעלי הכוח״, שעליה נשען כל טיעון המאמר." },
+    { title = "המגילות שהתעוררו בשנה הראשונה", path = "articles/the-scrolls-that-woke-in-year-one", description = "״בני אלוהים״ ב־4QDeut(j) וה״אלוהים״ השמימי ב־11QMelchizedek — לשון הרבים נקראת על קלף קומראני עתיק." },
+    { title = "מונותאיזם הוא השאלה הלא־נכונה", path = "articles/monotheism-is-the-wrong-question", description = "מדוע ״האל״ המקראי ביחיד עשוי להיות אלוה נציג ולא מוחלט על־טבעי — הריבוי נקרא לאורך הפולמוס נגד האלילים." },
 ]
 
 footnotes = [

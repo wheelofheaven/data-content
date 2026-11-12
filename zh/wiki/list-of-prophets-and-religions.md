@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -18,16 +18,26 @@ alternative_names = ["Catalogue of religions", "Prophet and tradition index", "R
 portrait_id = "prophetic-lineage"
 image = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.avif"
-image_alt = "AI-generated editorial group portrait of the prophetic lineage, with figures from multiple eras arranged around a luminous axis."
-image_caption = "Interpretive portrait for the prophets and religions reference catalogue."
+image_alt = "AI 生成的先知谱系编辑性群像，来自多个时代的人物环绕一条发光的轴线排列。"
+image_caption = "用于先知与宗教参考目录的诠释性肖像。"
+see_also = [
+    { title = "宗教", path = "wiki/religion", description = "阐发本目录所列表之宗教史框架解读的上级条目。" },
+    { title = "雷尔派", path = "wiki/raelism", description = "正典自身的传统，位于此处所用比较尺度的顶端。" },
+    { title = "雷尔", path = "wiki/rael", description = "本目录所索引之先知世系中的最后一位信使。" },
+    { title = "穆罕默德", path = "wiki/muhammad", description = "其传统被本目录分类并交叉参照的创教先知之一。" },
+    { title = "摩西", path = "wiki/moses", description = "其传统被本目录分类并交叉参照的创教先知之一。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "框架在所列真实传统背后解读出其接触的文明。" },
+    { title = "宗教中的宗教", path = "articles/the-religion-of-religions", description = "以各自的原话，将本目录中三种第二层级的普世主义——巴哈伊、大本教、高台教——与雷尔派并置。" },
+    { title = "四十把椅子", path = "articles/the-forty-chairs", description = "将本目录的五层级尺度形式化为六项明确检验，并以山达基以及 Joseph Smith 与 Hubbard 的对比加以校准。" },
+]
 
 [extra.infobox]
-type = "Reference catalogue of religious traditions and their founding figures"
-scope = "Major world religions, regional and ethnic traditions, ancient religions, new religious movements"
-classification_instrument = "Five-tier authenticity scale (canonical / highly likely / likely / unlikely / highly unlikely)"
-authenticity_basis = "Wheel of Heaven framework's reading of each tradition as preserving (or not) authentic testimony of Elohim–human contact"
-companion_entries = "[Religion](../religion/); [Bible](../bible/); [Raëlism](../raelism/); individual entries on the major traditions and their founders"
-caveat = "The catalogue is not exhaustive; coverage is most complete for traditions with substantial historical documentation and dedicated wiki entries"
+type = "宗教传统及其创立人物的参考目录"
+scope = "主要世界宗教、地区与民族传统、古代宗教、新兴宗教运动"
+classification_instrument = "五层级比较尺度（正典 / 极有可能 / 有可能 / 不太可能 / 极不可能）——文集用以组织比较的自有启发式方法；正典本身并未给出层级"
+tier_basis = "“正典”一级记录的是口授信息对信使的点名；其余开放层级记录的是文集将各创立叙事与正典之接触记述所作的工作性比较，而非真实性裁决"
+companion_entries = "[宗教](../religion/)；[圣经](../bible/)；[雷尔派](../raelism/)；关于各主要传统及其创立者的单独条目"
+caveat = "本目录并不穷尽；对拥有充分历史文献和专门百科条目的传统覆盖最为完整"
 +++
 
 This entry catalogues the world's principal religious traditions and the prophets, founders, and visionaries associated with them, with an indication of how each tradition is positioned within the Wheel of Heaven framework's reading of religious history. The catalogue serves three functions: a navigation index for the wiki's coverage of individual traditions, a reference for the corpus's working positions in comparing different traditions, and a transparent statement of the methodology by which tier assignments are made.

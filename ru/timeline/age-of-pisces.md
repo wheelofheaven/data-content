@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -26,17 +26,17 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
-    { title = "Евангелие от Матфея", author = "Анонимный автор (приписывается апостолу Матфею)", date = "ок. 80–90 гг. н.э.", medium = "religious-text", path = "/library/matthew-woh/" },
-    { title = "Евангелие от Луки / Деяния апостолов", author = "Анонимный автор (приписывается Луке)", date = "ок. 80–90 гг. н.э.", medium = "religious-text", path = "/library/luke/" },
-    { title = "Евангелие от Иоанна", author = "Анонимный автор (Иоаннова община)", date = "ок. 90–110 гг. н.э.", medium = "religious-text", path = "/library/john/" },
-    { title = "Коран", author = "Анонимный автор (исламская традиция: открыт Мухаммаду)", date = "составлен ок. 650 г. н.э.", medium = "religious-text", path = "/library/quran-woh/", description = "Цитируется на протяжении §V о вмешательстве ислама." },
+    { id = "le-livre-qui-dit-la-v-rit" },
+    { id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te" },
+    { id = "gospel-of-matthew" },
+    { id = "gospel-of-luke-acts-of-the-apostles" },
+    { id = "gospel-of-john" },
+    { id = "the-qur-an", note = "Цитируется на протяжении §V о вмешательстве ислама." },
     { id = "the-book-of-mormon", note = "Цитируется в §VI о вмешательстве мормонов в эпоху Рыб." },
-    { title = "Мельница Гамлета: Эссе об истоках человеческого знания и его передаче через миф", author = "Джорджо де Сантильяна и Герта фон Дехенд", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
-    { title = "Quranic Geography", author = "Dan Gibson", date = "2011", medium = "nonfiction-book", description = "Археологическое переосмысление Гибсоном ориентаций киблы раннего ислама, центральное для аргумента §V о Петре, а не Мекке, как изначальном центре ислама." },
-    { title = "Early Islamic Qiblas", author = "Dan Gibson", date = "2017", medium = "nonfiction-book", description = "Каталог и статистический анализ Гибсоном ориентаций киблы ранних мечетей в течение первых двух веков ислама." },
-    { title = "Никейский Символ веры", author = "Никейский собор", date = "325 г. н.э. (пересмотрен в Константинополе в 381 г. н.э.)", medium = "religious-text", description = "Тринитарная формулировка, обсуждаемая и оспариваемая в §IV." },
+    { id = "hamlets-mill" },
+    { id = "qur-anic-geography", note = "Археологическое переосмысление Гибсоном ориентаций киблы раннего ислама, центральное для аргумента §V о Петре, а не Мекке, как изначальном центре ислама." },
+    { id = "early-islamic-qiblas", note = "Каталог и статистический анализ Гибсоном ориентаций киблы ранних мечетей в течение первых двух веков ислама." },
+    { id = "nicene-creed", note = "Тринитарная формулировка, обсуждаемая и оспариваемая в §IV." },
 ]
 
 [[extra.prev_age]]

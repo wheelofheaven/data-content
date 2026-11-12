@@ -6,28 +6,36 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["hexagram", "Magen David (מָגֵן דָּוִד, 'Shield of David')", "Solomon's Seal (Seal of Solomon)", "Hindu Shatkona (षट्कोण, 'six-cornered')", "Star of Goliath (older Karaite designation)", "Creator's Star", "Hex Star"]
+alternative_names = ["육각성", "Magen David (מָגֵן דָּוִד, 'Shield of David')", "솔로몬의 인장", "힌두교의 샤트코나(षट्कोण, '여섯 모서리')", "골리앗의 별(예전 카라이파의 명칭)", "창조자의 별", "육각별"]
 timeline = ["all-ages"]
+see_also = [
+    { title = "라엘 운동 무한의 상징", path = "wiki/raelian-symbol-of-infinity", description = "다윗의 별이 바깥 구성 요소를 이루는 복합 문장." },
+    { title = "스와스티카", path = "wiki/swastika", description = "그 문장의 또 다른 구성 요소로, 무한의 시간적 차원을 담아냅니다." },
+    { title = "무한", path = "wiki/infinity", description = "맞물린 두 삼각형이 프레임워크에서 나타내는 공간적 차원." },
+    { title = "동맹", path = "wiki/the-alliance", description = "상디가 맞물린 두 삼각형이 담고 있다고 읽는 창조자-피조물의 언약." },
+    { title = "프랙탈 우주론", path = "wiki/fractal-cosmology", description = "육각성이 형상화하는, 규모를 가로지르는 '위와 같이 아래도'의 구조." },
+    { title = "이중 서명", path = "wiki/doubled-signature", description = "이 상징이 예시하는, 짝을 이룬 도상 부호화라는 코퍼스의 원리." },
+]
 
 [extra.infobox]
 type = "Religious-iconographic symbol; hexagram comprising two intertwined equilateral triangles forming a six-pointed star; substantial cross-cultural distribution across multiple religious-traditional contexts"
-basic_form = "Two intertwined equilateral triangles, one pointing upward and one pointing downward, forming a six-pointed star (hexagram); the geometric structure produces six points and twelve outer line-segments forming the principal hexagonal outline"
-hebrew_designation = "*Magen David* (מָגֵן דָּוִד, 'Shield of David'); the Hebrew designation became the principal Jewish-cultural designation across the medieval and modern periods"
-oldest_known_usage = "Substantial pre-Jewish-symbol cross-cultural usage extending back at least 4,000-5,000 years across Mesopotamian, Mediterranean, and South Asian traditions; the specific Jewish-symbol identification is principally modern (17th century onward)"
-principal_traditional_meanings = "Cosmic correspondence (Hermetic 'as above, so below'); union of male and female divine principles (Hindu Shatkona); union of opposites and four-elements integration (Hermetic-alchemical); magical-protective seal (Solomon's Seal traditions); Jewish-cultural identification (modern Jewish-symbol usage); the alliance covenant between creators and human creation (Sendy interpretive contribution); the spatial dimension of infinity (Raëlian framework)"
-principal_cross_cultural_traditions = "Hindu (Shatkona, principally Tantric-yantra usage); Hermetic-alchemical (the four-elements-integration framework); Solomon's Seal traditions (magical-protective contexts across medieval Jewish, Christian, and Islamic traditions); Mesopotamian and ancient Mediterranean hexagram usage; medieval Christian and Islamic religious-architectural usage; modern Jewish-cultural and Zionist-political usage; Raëlian-framework iconographic correlate of the spatial dimension of infinity"
-position_in_raelian_framework = "Outer component of the Raëlian Symbol of Infinity (the composite emblem with central swastika or galaxy-spiral); represents the spatial dimension of infinity through the Hermetic 'as above, so below' principle; in Sendy's distinctive interpretive contribution, additionally represents the alliance covenant between the creators (upward triangle) and the human creation (downward triangle)"
-modern_jewish_symbol_status = "Principal Jewish-cultural symbol since approximately the late nineteenth century; adopted by the Zionist movement at the First Zionist Congress (1897); substantial Holocaust-period usage as the yellow-badge identification; adopted on the Israeli national flag (1948); continues as the principal Jewish-cultural-religious symbol in contemporary contexts"
-distinguished_from = "The Swastika (the other principal component of the Raëlian Symbol of Infinity, with its own substantial pre-Nazi religious-traditional history); the Raëlian Symbol of Infinity as composite emblem (treated under separate entry); the broader cross-cultural pentagram and other star-iconographic forms (which operate within distinct iconographic categories); the various national-flag and political-symbol usages (which operate within specific contemporary political contexts)"
-status_in_source_material = "Substantially documented; the principal Yahweh-delivered passages establish both the symbol's specific Raëlian-framework semantic content and its identification with the Hermetic 'as above, so below' principle; Sendy's distinctive interpretive contribution provides substantial additional doctrinal content"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Watching Over the Chosen People' content (the principal Yahweh passage on the emblem); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul' section (the 'as above, so below' explicit articulation and the Bardo Thodol cross-reference); Jean Sendy, *L'ère du Verseau* (1970), the seal-of-Solomon-as-alliance-covenant interpretive contribution"
+basic_form = "위를 향한 것과 아래를 향한 것, 두 개의 맞물린 정삼각형이 이루는 육각별(헥사그램). 중앙 육각형을 둘러싼 여섯 개의 바깥 꼭짓점"
+hebrew_designation = "*Magen David*(מָגֵן דָּוִד, '다윗의 방패'), 중세와 근대에 걸친 표준 유대 명칭"
+oldest_known_usage = "헥사그램은 유대와의 어떤 연관보다 훨씬 앞서 메소포타미아, 지중해, 남아시아 전통에 걸쳐 문화 간에 사용되었습니다. 이것을 특정하게 유대 상징으로 동일시하는 것은 근대(17세기 이후)의 일입니다"
+principal_traditional_meanings = "우주적 대응('위에서와 같이 아래에서도', 헤르메스주의), 남성 원리와 여성 원리의 결합(힌두교 샤트코나), 대립물과 4원소의 결합(헤르메스주의·연금술), 보호의 인장(솔로몬의 인장), 유대 정체성(근대), 창조자와 인류 사이의 동맹(상디), 무한의 공간적 차원(라엘 체계)"
+principal_cross_cultural_traditions = "힌두교(샤트코나), 헤르메스주의·연금술(4원소 도형), 솔로몬의 인장(중세 유대교·그리스도교·이슬람 맥락의 주술적·보호적 사용), 메소포타미아와 지중해의 헥사그램 사용, 근대 유대교 및 시온주의의 사용, 라엘 체계"
+position_in_raelian_framework = "라엘리안 무한의 상징(중앙에 만자 또는 은하 나선이 있는 복합 상징)의 바깥 구성 요소. '위에서와 같이 아래에서도'를 통해 무한의 공간적 차원을 나타내며, 상디의 해석에서는 창조자들(위를 향한 삼각형)과 인류(아래를 향한 삼각형) 사이 동맹의 인장입니다"
+modern_jewish_symbol_status = "대략 19세기 후반 이후의 주요 유대 상징. 제1차 시온주의 대회(1897)에서 시온주의 운동이 채택했고, 나치 정권 아래에서는 노란 식별 배지로 강제되었으며, 이스라엘 국기(1948)에 들어갔습니다"
+distinguished_from = "만자(라엘리안 무한의 상징의 다른 구성 요소), 라엘리안 무한의 상징 자체(별도 항목), 펜타그램과 다른 별 형태, 특정한 국가적·정치적 사용으로서의 이스라엘 국기"
+status_in_source_material = "기록됨. 야훼의 구절들이 상징에 '위에서와 같이 아래에서도'라는 의미를 부여하고, 상디가 동맹·언약 해석을 덧붙입니다"
+principal_text = "*The Book Which Tells the Truth*(1974), 'Watching Over the Chosen People'. *Extra-Terrestrials Took Me to Their Planet*(1975), 'Neither God nor Soul'. 장 상디, *L'ère du Verseau*(1970)"
 +++
 
 **The Star of David** (Hebrew מָגֵן דָּוִד, *Magen David*, "Shield of David") is a

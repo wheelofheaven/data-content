@@ -7,7 +7,7 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -20,7 +20,7 @@ category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 summary = "ジャン・サンディとラエリアンの最初のメッセージは、創世記についての特徴的な読解をまとまって共有しています。科学の書物としての禁じられた知識、反逆者としての蛇、打ち上げ計画としてのバベル、そしておよそ二万二千年前という年代です。一方で、進化、蛇の正体、不死、そして接触の継続については両者は異なります。創世記を越えると重なりはほぼ途絶えます。イスラエル、預言者、福音書についてのメッセージの注解の大半は、1974年以前のサンディの著作に対応するものがなく、彼の論旨はむしろそれを排除しています。創世記については選択的な翻案は依然としてありうる説明ですが、依存関係も独立した成立も立証されてはいません。"
-keywords = ["Jean Sendy", "Raël", "ラエリアンのメッセージ", "文学的依存関係", "Elohim", "創世記", "中世主義"]
+keywords = ["ジャン・サンディ", "ラエル", "ラエリアンのメッセージ", "文学的依存関係", "エロヒム", "創世記", "中世主義"]
 references = [
     { id = "sendy-ces-dieux", title = "Ces dieux qui firent le ciel et la terre: le roman de la Bible", author = "Jean Sendy", date = "1969; inspected in a later J’ai Lu/FeniXX digital edition", locator = "Chs. 1–2 and 9 (method, evolution, chronology), 18–19 and 27 (biology), 24 (voyages and eternity), 28–31 (knowledge, serpent, Noah), 34–35 (departure, later prophets, Babel, death of the original visitors). EPUB files PL3–PL4, PL11, PL20–PL21, PL26, PL29–PL33, PL36–PL37." },
     { id = "the-book-which-tells-the-truth", title = "Le Livre qui dit la vérité / The Book Which Tells the Truth", author = "Raël", date = "1974; French text representing the 2005 collected edition", locator = "TBWTT-1:15–24,44–46,53–55; 2:2–5,16–39,58,68,72–78; 3:113; 5:4,56–66; 6:7,21–22; 7:29–31. References identify paragraphs in the project digitization. Quotations use the Library’s existing English translation; the comparison was checked against the French text." },

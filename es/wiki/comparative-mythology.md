@@ -5,7 +5,7 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -14,16 +14,30 @@ category = "Methodology"
 entry_type = "concept"
 alternative_names = ["Comparative Mythology", "comparative religion (overlapping discipline)", "mythography (related but distinct discipline)", "comparative folklore", "Mythologie comparée (French)", "vergleichende Mythologie (German)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "El molino de Hamlet", path = "wiki/hamlets-mill", description = "La tesis de la codificación precesional que el corpus adopta como principio organizador estructural de la disciplina." },
+    { title = "Teomaquia", path = "wiki/theomachy", description = "El conjunto de motivos de la guerra entre los dioses que la disciplina cataloga entre culturas." },
+    { title = "Hipótesis de los antiguos astronautas", path = "wiki/ancient-astronaut-hypothesis", description = "El marco interpretativo más amplio a través del cual el corpus lee los motivos recurrentes." },
+    { title = "Neo-euhemerismo", path = "wiki/neo-euhemerism", description = "El método del referente histórico común que el corpus aplica a los patrones interculturales." },
+    { title = "Árbol del conocimiento del bien y del mal", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "El motivo del árbol cósmico como una instancia del conjunto de patrones recurrentes de la disciplina." },
+    { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "El proyecto que asume la disciplina como uno de sus principales compromisos metodológicos." },
+    { title = "Carl Jung", path = "wiki/carl-jung", description = "El fundador de la escuela arquetípica de lectura del mito (junto con Campbell); su Aion lee el eón de Piscis." },
+    { title = "Jane Sellers", path = "wiki/jane-sellers", description = "La lectura precesional del mito de la muerte y resurrección de Osiris." },
+    { title = "Sampo", path = "wiki/sampo", description = "El Sampo finlandés como la instancia báltico-fínica del mitema del molino del mundo." },
+    { title = "El mundo tras la Odisea", path = "/articles/the-world-behind-the-odyssey/", description = "El estudio de caso griego del corpus: la transmisión documentada desde el Próximo Oriente hasta Hesíodo y Homero, con la lectura del marco mantenida aparte." },
+    { title = "El rostro oriental de Homero", path = "/articles/the-east-face-of-homer/", description = "La segunda mitad del estudio de caso griego: el corredor de transmisión del siglo VIII en detalle, y la disciplina de lo que el préstamo literario puede y no puede probar." },
+    { title = "La lluvia sobre el Helicón", path = "/articles/the-rain-over-helicon/", description = "Una auditoría metodológica de la propia disciplina: las pruebas que elevan un paralelo por encima de la coincidencia, graduadas a través de Hesíodo, Homero, la dicción poética y las rutas de contacto." },
+]
 
 [extra.infobox]
-type = "Academic and interpretive discipline studying recurring patterns across geographically and historically separated mythological corpora; one of the corpus's principal methodological commitments"
-disciplinary_origin = "Late eighteenth-century European Romantic engagement with non-Western mythologies; formal disciplinary emergence in the nineteenth century with Friedrich Max Müller's comparative-philological work and James George Frazer's anthropological-comparative work"
-principal_methodological_schools = "Solar-mythology (Müller); anthropological-comparative (Frazer, Tylor, Lang); diffusionist (Bastian, Vienna school, Pan-Babylonianism); trifunctional structuralism (Dumézil); phenomenological-religious (Eliade, Otto, van der Leeuw); archetypal-Jungian (Jung, Neumann, Campbell); structural-anthropological (Lévi-Strauss); cognitive science of religion (Boyer, Atran, Barrett)"
-principal_motif_clusters = "Creation narratives; flood narratives; sky-visitor and culture-bringer traditions; theomachy / war-among-the-gods; divine descent and divine-human hybrids; golden age and ages-of-the-world traditions; dying-and-rising-god pattern; cosmic mountain and world-axis; cosmic tree; descent-to-the-underworld"
-corpus_position = "Comparative Mythology is one of the corpus's principal methodological commitments; the cross-cultural patterns are taken as substantive evidence requiring substantive explanation; the corpus differs from the mainstream contemporary academic discipline's retreat from grand-theoretical engagement"
-corpus_explanatory_framework = "Cross-cultural patterns explained principally by common historical referents in the alliance-contact framework, integrated with the Hamlet's Mill precessional structural framework; the corpus does not require rejecting cognitive-science, diffusionist, or archetypal explanations but treats them as partial explanations that miss the common-referent component"
-distinguished_from = "Comparative religion (broader disciplinary engagement with religious traditions beyond their mythological content); mythography (descriptive cataloguing of mythological content without comparative-theoretical framework); folklore studies (focused on contemporary oral tradition rather than ancient mythological corpora); cognitive science of religion (which engages cross-cultural patterns but explains them through evolved cognitive structures)"
-status_in_framework = "Principal methodological commitment alongside Sendy's Conditions of Coherence, the Biglino Method, the Hamlet's Mill precessional integration, and the broader corpus's disciplined epistemic-pluralism methodology"
+type = "Disciplina académica e interpretativa que estudia los patrones recurrentes en corpus mitológicos separados geográfica e históricamente; uno de los principales compromisos metodológicos del corpus"
+disciplinary_origin = "El interés romántico europeo de finales del siglo XVIII por las mitologías no occidentales; surgimiento formal como disciplina en el siglo XIX con el trabajo filológico-comparativo de Friedrich Max Müller y el trabajo antropológico-comparativo de James George Frazer"
+principal_methodological_schools = "Mitología solar (Müller); antropológico-comparativa (Frazer, Tylor, Lang); difusionista (Bastian, escuela de Viena, panbabilonismo); estructuralismo trifuncional (Dumézil); fenomenológico-religiosa (Eliade, Otto, van der Leeuw); arquetípico-junguiana (Jung, Neumann, Campbell); antropológico-estructural (Lévi-Strauss); ciencia cognitiva de la religión (Boyer, Atran, Barrett)"
+principal_motif_clusters = "Narraciones de la creación; narraciones del diluvio; tradiciones de visitantes del cielo y de héroes civilizadores; teomaquia / guerra entre los dioses; descenso divino e híbridos divino-humanos; tradiciones de la edad de oro y de las eras del mundo; patrón del dios que muere y resucita; montaña cósmica y eje del mundo; árbol cósmico; descenso al inframundo"
+corpus_position = "La mitología comparada es uno de los principales compromisos metodológicos del corpus; los patrones interculturales se toman como evidencia real que exige explicación; el corpus se aparta del repliegue de la disciplina contemporánea ante las grandes teorías"
+corpus_explanatory_framework = "Los patrones interculturales se explican principalmente por referentes históricos comunes en el marco del contacto con la alianza, integrados con el marco estructural precesional de *El molino de Hamlet*; el corpus no exige rechazar las explicaciones cognitivas, difusionistas o arquetípicas, sino que las trata como explicaciones parciales que pasan por alto el componente del referente común"
+distinguished_from = "La religión comparada (estudio más amplio de las tradiciones religiosas más allá de su contenido mitológico); la mitografía (catalogación descriptiva del contenido mitológico sin marco teórico-comparativo); los estudios de folclore (centrados en la tradición oral contemporánea y no en los corpus mitológicos antiguos); la ciencia cognitiva de la religión (que estudia los patrones interculturales pero los explica mediante estructuras cognitivas evolucionadas)"
+status_in_framework = "Principal compromiso metodológico, junto a las Condiciones de coherencia de Sendy, el método Biglino, la integración precesional de *El molino de Hamlet* y la metodología disciplinada de pluralismo epistémico del corpus en su conjunto"
 +++
 
 **Comparative mythology** is the academic discipline that studies myths from

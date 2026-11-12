@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Vier Wochen nach Veröffentlichung 04 stellte das US-Department of War Veröffentlichung 05 auf war.gov/UFO online: 41 Akten – Dokumente, Bilder und Videos, nach Presse-Zählung – aus dem Pentagon, dem FBI und der CIA, erstmals ergänzt um das State Department und das Executive Office of the President. Die Leitfälle: ein FBI-Interview von 2024, in dem ein ehemaliger Militärpilot ein gleichseitiges Dreieck erinnert, lautlos und auf 500 Fuß geschätzt, das 2002 über Bagram, Afghanistan, die Sterne verdunkelte; eine Begegnung eines Gunships im Golf von Oman 2021 mit etwa 25 „kalten Kugeln“, die auf das Feuern der Bordkanone zu reagieren schienen; und ein Aktencluster vom November 1963, in dem ein sensationeller brasilianischer Radiobericht über eine abgestürzte Kugel mit totem Besatzungsmitglied von einem CIA-Abhörprotokoll über eine Anfrage des Weltraumrats des Weißen Hauses zu einem Urteil des State Department wandert: fabriziert. Das Korpus registriert Veröffentlichung 05 als Kontext für die Lektüre des Kanons, nicht als Zeichen der Rückkehr – und verzeichnet die Bahia-Akte, die sich unter ihren eigenen Dokumenten auflöst, in voller dokumentarischer Stärke."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "Der Kontext der Gegenwart"
+cross_reference = "Zeitalter des Wassermanns, §IX"
 canon_links = [
     { title = "Wassermann-Zeitalter", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

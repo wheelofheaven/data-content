@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -15,6 +15,18 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Revelation", "ἀποκάλυψις", "Age of Apocalypse", "Age of Revelation"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "宏观生物学", path = "wiki/macrobiology", description = "把人类视为有机体的生物学；对它而言，1945 年标志着行星神经系统的启动。" },
+    { title = "黄金时代", path = "wiki/golden-age", description = "一旦这场过渡得以安然度过，启示所开启的文明结局。" },
+    { title = "先知", path = "wiki/prophet", description = "其累积的工作由启示推向顶点的先知传统。" },
+    { title = "大使馆", path = "wiki/embassy", description = "在这一时期得以实际施行的、计划中的公开回归。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "其内容在启示中可供直接检验的联盟。" },
+    { title = "雷尔", path = "wiki/rael", description = "启示的框架内容借以传达的先知。" },
+    { title = "在元年苏醒的书卷", path = "articles/the-scrolls-that-woke-in-year-one", description = "死海古卷出现在这个时代纪年的元年——将这场揭示对照那次手稿发现来解读。" },
+    { title = "在元年启封", path = "articles/unsealed-in-year-one", description = "对同一发现的姊妹解读——但以理被封的书被打开，以及古卷内容对这个时代所言说的。" },
+    { title = "人类的形状", path = "articles/the-shape-of-humanity", description = "将 1945 年解读为行星有机体的神经系统启动、同时获得自我毁灭能力之时刻的解读文章。" },
+    { title = "卡尔·荣格", path = "wiki/carl-jung", description = "荣格的《伊雍》及其对正在终结的双鱼座纪元的双鱼解读。" },
+]
 +++
 
 **Apocalypse** (Greek: *ἀποκάλυψις*, *apokalypsis*) is, in its plain Greek meaning, an *uncovering* or *unveiling* — the disclosure of what was previously concealed. The English word entered medieval and early-modern usage through the Latin *apocalypsis* and the Vulgate's title for the New Testament's Book of Revelation (*Apocalypsis Iohannis*, "the Unveiling of John"). Across the medieval and early-modern centuries, the term acquired a secondary set of connotations — catastrophic destruction, end-of-the-world judgment, eschatological cataclysm — that the original Greek does not carry and that have come to dominate popular English usage. The two senses are now substantially distinct in contemporary English: the popular *apocalypse* names a destructive end; the technical *apocalypse* names a revelation of hidden truth.

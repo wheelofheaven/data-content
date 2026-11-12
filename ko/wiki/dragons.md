@@ -6,28 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["dinosaurs", "*taninim* (Hebrew plural)", "*tannin* (Hebrew singular)", "great sea creatures (English softened translation)", "*ketos* (Septuagint Greek)", "*cete grandia* (Vulgate Latin)", "sea monsters", "dragons of the deep"]
+alternative_names = ["공룡", "*taninim* (히브리어 복수형)", "*tannin* (히브리어 단수형)", "큰 바다 생물(완화된 영어 번역)", "*ketos* (칠십인역 그리스어)", "*cete grandia* (불가타 라틴어)", "바다 괴물", "깊은 바다의 용"]
 timeline = ["virgo", "leo", "cancer", "gemini"]
+see_also = [
+    { title = "뱀", path = "wiki/serpent", description = "이사야 27장 1절의 세 용어 용 식별에서 그 히브리어 용어가 탄닌과 겹치는 나하시." },
+    { title = "창세기", path = "wiki/genesis", description = "그 다섯째 날 창조 기사는 가장 강한 창조 동사인 바라로 타니님을 명명합니다." },
+    { title = "대홍수", path = "wiki/great-flood", description = "더 큰 용 형태들 대부분을 제거한 쌍둥이자리 시대의 대홍수." },
+    { title = "루시퍼", path = "wiki/lucifer", description = "이사야 27장 1절에서 같은 탄닌 어휘가 그 역사적 지시 대상을 추적하는 반대 분파." },
+    { title = "사탄", path = "wiki/satan", description = "후대의 파충류-용 상징이 덧입혀진 대적자 전통." },
+    { title = "어원학적 독해 목록", path = "wiki/list-of-etymological-readings", description = "코퍼스가 직접 읽는 히브리어 용어들 가운데 탄닌이 놓이는 자리." },
+    { title = "드래곤 곡선", path = "articles/the-dragon-curve", description = "창세기 1장 21절의 큰 용들, 첫 번째 메시지가 결코 인용하지 않는 그 구절, 그리고 그것이 새들 곁에 앉히는 공룡들을 다루는 해설." },
+]
 
 [extra.infobox]
-type = "Concept; category of biological organism with substantial source-grounded creation history, mainstream-paleontological correspondence, and cross-cultural mythological-folkloric attestation"
-basic_premise = "Large reptilian or serpentine creatures deliberately created by specific factional teams within the Elohim creation program during the Age of Virgo (c. 13,170 to 11,010 BCE); corresponding to the dinosaurs of mainstream paleontology; the same creatures whose memory is preserved in dragon folklore across virtually every human culture"
-creation_age = "Age of Virgo (c. 13,170 to 11,010 BCE on the corpus's compressed timeline); the fifth day of the Genesis 1 creation sequence"
-creation_attribution = "Specific factional teams within the broader Elohim creation program; identified by the source as 'some other groups of scientists'; recognized within the program itself as vindicating the home-world opposition faction's prior concerns"
-mainstream_paleontology_correspondence = "Dinosaurs of the Mesozoic Era (mainstream date c. 252-66 million years ago; corpus reading: persisting from Virgo through Gemini, c. 13,170 to c. 6,690 BCE); the K-Pg extinction event substantially reread by the corpus through the Gemini-flood framework"
-hebrew_textual_anchor = "Genesis 1:21 וַיִּבְרָא אֱלֹהִים אֶת־הַתַּנִּינִם הַגְּדֹלִים (*Vayivra Elohim et ha-taninim ha-gedolim*, 'And Elohim created the great taninim'); the strongest Hebrew verb of creation (*bara*) used specifically for the *taninim*; cross-referenced in Isaiah 27:1, Psalm 74:13, Jeremiah 51:34, Exodus 7"
-modern_phylogenetic_status = "Birds (Aves) are the surviving theropod lineage of the dinosaur clade; established through Ostrom's 1960s-1970s Deinonychus-Archaeopteryx work and confirmed by the Liaoning feathered-dinosaur fossils from 1996 onward; the dinosaur-bird connection is settled mainstream paleontology"
-cross_cultural_attestation = "Universal dragon memory across virtually every human culture; Chinese *long* (龍), Indian *naga*, Mesoamerican feathered serpents (Quetzalcoatl, Kukulkan), Mesopotamian Tiamat, Ugaritic Lotan and tannanu, Norse Jörmungandr and Niðhöggr, Greek Python and Ladon and Hydra, Aboriginal Australian Rainbow Serpent, various African dragon traditions"
-status_in_source_material = "Substantially documented; the principal source-material passages establish both the dragons' specific creation history and their identification with the dinosaurs of mainstream paleontology"
-distinguished_from = "Mythological invention (the corpus's specific position is that dragon folklore preserves cultural memory of actually-encountered creatures rather than purely imaginative invention); the broader category of fossil organisms (the corpus reads dragons specifically as the deliberately-created creatures, not as products of unguided evolutionary processes); the Lucifer faction's specific historical referents (the Isaiah 27:1 three-term identification of *liwyatan*/*nachash*/*tannin* applies to the Lucifer faction; the same Hebrew word *tannin* operates in different specific contexts)"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Genesis' chapter (the home-world incident passage; the Day 5 creation passage); *timeline.epub* Age of Virgo chapter (Sections VI-IX, with substantial treatment of dragons-as-dinosaurs, the Hebrew *tannin* translation history, and the dinosaur-bird phylogenetic connection); *timeline.epub* Age of Gemini chapter (treatment of the dinosaur-flood connection)"
+type = "개념; 원전에 근거한 상당한 창조 역사, 주류 고생물학과의 대응, 문화 횡단적 신화·민담의 증언을 지닌 생물 범주"
+basic_premise = "처녀자리 시대(기원전 약 13,170~11,010년)에 엘로힘 창조 프로그램 안의 특정 분파 팀들이 의도적으로 창조한 대형 파충류 또는 뱀 모양의 생물; 주류 고생물학의 공룡에 해당함; 사실상 모든 인류 문화의 용 민담에 그 기억이 보존된 바로 그 생물"
+creation_age = "처녀자리 시대(코퍼스의 압축된 연대표로 기원전 약 13,170~11,010년); 창세기 1장 창조 순서의 다섯째 날"
+creation_attribution = "더 넓은 엘로힘 창조 프로그램 안의 특정 분파 팀들; 원전은 이들을 '다른 몇몇 과학자 집단'으로 지칭함; 프로그램 안에서도 본향 세계 반대 분파의 앞선 우려를 입증하는 것으로 인식됨"
+mainstream_paleontology_correspondence = "중생대의 공룡(주류 연대로 약 2억 5,200만~6,600만 년 전; 코퍼스의 독법으로는 처녀자리부터 쌍둥이자리까지, 기원전 약 13,170년~약 6,690년까지 존속); K-Pg 대멸종 사건은 코퍼스가 쌍둥이자리 홍수 틀을 통해 상당 부분 다시 읽음"
+hebrew_textual_anchor = "창세기 1:21 וַיִּבְרָא אֱלֹהִים אֶת־הַתַּנִּינִם הַגְּדֹלִים (*바이브라 엘로힘 에트 하-타니님 하-게돌림*, '엘로힘이 큰 타니님을 창조하시고'); 가장 강한 히브리어 창조 동사(*바라*)가 특별히 *타니님*에 쓰임; 이사야 27:1, 시편 74:13, 예레미야 51:34, 출애굽기 7장과 교차 참조"
+modern_phylogenetic_status = "조류(Aves)는 공룡 분기군 가운데 살아남은 수각류 계통; 1960~70년대 오스트롬의 데이노니쿠스-시조새 연구로 확립되고 1996년 이후 랴오닝의 깃털 공룡 화석으로 확인됨; 공룡-조류 연결은 주류 고생물학에서 확정된 사실"
+cross_cultural_attestation = "사실상 모든 인류 문화에 걸친 보편적인 용의 기억; 중국의 *룽*(龍), 인도의 *나가*, 메소아메리카의 깃털 달린 뱀(케찰코아틀, 쿠쿨칸), 메소포타미아의 티아마트, 우가리트의 로탄과 탄나누, 북유럽의 요르문간드와 니드호그, 그리스의 피톤과 라돈과 히드라, 오스트레일리아 원주민의 무지개뱀, 다양한 아프리카의 용 전통"
+status_in_source_material = "상당히 문서화됨; 주요 원전 구절이 용의 구체적인 창조 역사와 주류 고생물학의 공룡과의 동일시를 모두 확립함"
+distinguished_from = "신화적 창작(용 민담이 순전히 상상적 창작이 아니라 실제로 마주친 생물에 대한 문화적 기억을 간직한다는 것이 코퍼스의 구체적 입장); 더 넓은 화석 생물 범주(코퍼스는 용을 인도되지 않은 진화 과정의 산물이 아니라 특정하게 의도적으로 창조된 생물로 읽음); 루시퍼 분파의 구체적 역사적 지시 대상(이사야 27:1의 *리브야탄*/*나하쉬*/*탄닌* 세 용어 동일시는 루시퍼 분파에 적용됨; 같은 히브리어 *탄닌*이 서로 다른 구체적 맥락에서 작동함)"
+principal_text = "*진실을 말하는 책*(1974), '창세기' 장(본향 세계 사건 구절; 다섯째 날 창조 구절); *timeline.epub* 처녀자리 시대 장(VI–IX절, 공룡으로서의 용, 히브리어 *탄닌*의 번역사, 공룡-조류 계통 연결을 상당히 다룸); *timeline.epub* 쌍둥이자리 시대 장(공룡-홍수 연결을 다룸)"
 +++
 
 **Dragons** are a category of large reptilian or serpentine creatures that the Wheel of Heaven framework identifies as deliberately created biological organisms produced by specific factional teams within the Elohim creation program during the **Age of Virgo** (c. 13,170 to 11,010 BCE on the corpus's compressed timeline), corresponding to the **fifth day** of the Genesis 1 creation sequence. The framework identifies these creatures with the **dinosaurs** of mainstream paleontology, with the Hebrew word תַּנִּין (*tannin*) of Genesis 1:21 — softened to "whales" or "great sea creatures" in most major Bible translations but unambiguously meaning "dragon" or "sea-monster" in the Hebrew lexicon — providing the principal source-textual anchor. The corpus's reading registers four converging claims: the Hebrew text of Genesis 1:21 explicitly describes the Elohim's creation of dragons using the strongest creation verb available in Hebrew (*bara*); the Raëlian source places dragons and birds together in the same creative age, a pairing that mainstream English translations of Genesis obscure; modern phylogenetics has established that birds are the surviving theropod lineage of the dinosaur clade; and universal dragon memory across human cultures preserves cultural memory of creatures actually encountered before the Gemini-age flood eliminated most of the larger forms.

@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,18 +15,27 @@ editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
 alternative_names = ["Catalogue of pre-modern close encounters", "Pre-1500 UFO and contact-event index", "Catalogue of unexplained aerial phenomena (antiquity through 1499 CE)"]
+see_also = [
+    { title = "Elohim", path = "wiki/elohim", description = "La presencia que, según esta lectura, documentan los encuentros catalogados a lo largo del periodo posterior al Edén." },
+    { title = "Neo-euhemerismo", path = "wiki/neo-euhemerism", description = "El movimiento interpretativo que aplica la terminología moderna de los encuentros a relatos premodernos." },
+    { title = "Lista de mitemas y motivos mitológicos", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "Un catálogo complementario que indexa el material narrativo recurrente junto a los encuentros." },
+    { title = "Lista de yacimientos megalíticos", path = "wiki/list-of-megalithic-sites", description = "Un catálogo de referencia complementario del registro físico de construcción." },
+    { title = "Ezequiel", path = "wiki/ezekiel", description = "Un relato profético de encuentro incluido entre los informes catalogados." },
+    { title = "Elías", path = "wiki/elijah", description = "Un relato bíblico de ascensión aérea leído en el catálogo como un encuentro cercano." },
+    { title = "Seis mañanas, seis años", path = "articles/six-mornings-six-years", description = "Una reconstrucción, párrafo a párrafo, de los encuentros de 1973 y 1975 y de su geografía." },
+]
 
 [extra.infobox]
-type = "Reference catalogue of pre-modern reported close encounters and aerial phenomena"
-scope = "c. 1460 BCE through 1499 CE (pre-modern, pre-Columbian-encounter, pre-scientific-revolution period)"
-principal_source = "Jacques Vallée and Chris Aubeck, *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times* (Tarcher/Penguin, 2009)"
-classification_instrument = "J. Allen Hynek's close-encounter classification (CE1–CE5, 1972 and later additions), applied to pre-modern accounts as a deliberate neo-euhemeristic interpretive move"
-geographic_coverage = "Mediterranean basin, Western Europe, Eastern Mediterranean, East Asia (especially China and Japan), Near East, with sparse coverage of the Americas (pre-1492) and sub-Saharan Africa"
-total_entries = "Approximately 130 reported encounters across the c. 3,000-year period"
-catalogue_columns = "Encounter; year; location; description (combining reported content with framework reading where applicable); Hynek classification where determinable"
-companion_catalogues = "[List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/); [List of megalithic sites](../list-of-megalithic-sites/)"
-framework_position = "The catalogued encounters preserve the documented historical record of operational Elohim and related presence on Earth across the post-Eden period; the cross-cultural phenomenological continuity is read as evidence of a unitary phenomenon rather than as folkloric coincidence or parallel invention"
-caveat = "Source reliability varies substantially across entries; many encounters survive only in single late chronicles or in literary contexts where the line between report and embellishment is unclear; the catalogue presents the reports as transmitted with framework readings indicated separately"
+type = "Catálogo de referencia de encuentros cercanos y fenómenos aéreos premodernos registrados"
+scope = "c. 1460 a. e. c. a 1499 e. c. (período premoderno, anterior al encuentro colombino y a la revolución científica)"
+principal_source = "Jacques Vallée y Chris Aubeck, *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times* (Tarcher/Penguin, 2009)"
+classification_instrument = "La clasificación de encuentros cercanos de J. Allen Hynek (EC1–EC5, 1972 y añadidos posteriores), aplicada a relatos premodernos como un movimiento interpretativo neoevemerista deliberado"
+geographic_coverage = "Cuenca mediterránea, Europa occidental, Mediterráneo oriental, Asia oriental (sobre todo China y Japón), Oriente Próximo, con escasa cobertura de América (antes de 1492) y del África subsahariana"
+total_entries = "Unos 130 encuentros registrados a lo largo de un período de c. 3000 años"
+catalogue_columns = "Encuentro; año; lugar; descripción (que combina el contenido registrado con la lectura del marco cuando procede); clasificación de Hynek cuando es determinable"
+companion_catalogues = "[Lista de mitemas y motivos mitológicos](../list-of-mythemes-and-mythological-motifs/); [Lista de yacimientos megalíticos](../list-of-megalithic-sites/)"
+framework_position = "Los encuentros catalogados conservan el registro histórico documentado de la presencia operativa de los Elohim y afines en la Tierra durante el período posterior al Edén; la continuidad fenomenológica intercultural se lee como prueba de un fenómeno unitario y no como coincidencia folclórica o invención paralela"
+caveat = "La fiabilidad de las fuentes varía mucho de una entrada a otra; muchos encuentros sobreviven solo en crónicas tardías únicas o en contextos literarios donde la línea entre informe y adorno no está clara; el catálogo presenta los informes tal como se transmitieron, indicando por separado las lecturas del marco"
 +++
 
 This entry catalogues reported close encounters with aerial phenomena and their occupants across the pre-modern period, from approximately 1460 BCE through 1499 CE. The catalogue follows the cataloguing work of **Jacques Vallée and Chris Aubeck** in *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times* (Tarcher/Penguin, 2009), the principal contemporary scholarly compilation of pre-modern reports, which examines approximately 500 pre-1880 incidents drawn from chronicles, religious texts, military histories, monastic annals, and other documentary sources.

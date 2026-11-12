@@ -5,7 +5,7 @@ template = "wiki-page.html"
 toc = true
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -14,19 +14,29 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "framework"
 alternative_names = ["ID", "Design theory", "Design hypothesis", "Directed design (the Raëlian variant)"]
+see_also = [
+    { title = "Caja de herramientas del Génesis", path = "wiki/genesis-toolbox", description = "La respuesta del marco al debate sobre el diseño en forma operativa: diseñadores con una caja de herramientas documentada." },
+    { title = "Ingeniería de la vida", path = "wiki/life-engineering", description = "El mecanismo del corpus por el cual se sostiene que actuó el diseñador Elohim." },
+    { title = "Biología sintética", path = "wiki/synthetic-biology", description = "La disciplina contemporánea que el marco considera una recuperación de la capacidad de ingeniería del diseñador." },
+    { title = "Genómica sintética", path = "wiki/synthetic-genomics", description = "La ciencia de la síntesis de genomas que el marco lee en continuidad con la obra de diseño original." },
+    { title = "Pantropía", path = "wiki/pantropy", description = "El concepto de adaptación de organismos que extiende la tesis del diseño a la modificación humana deliberada." },
+    { title = "Génesis", path = "wiki/genesis", description = "El texto cuyas fases de los Yamim el marco lee como el registro de la ingeniería." },
+    { title = "Edén", path = "wiki/eden", description = "El lugar que el marco identifica como el laboratorio donde se sintetizó a los seres humanos." },
+    { title = "La firma y los diseñadores", path = "/articles/the-signature-and-the-designers/", description = "El Explicativo que sitúa el marco en todo el espectro del diseño: al diseñador trascendente de Meyer se responde con uno encarnado y hecho." },
+]
 
 [extra.infobox]
-type = "Philosophical and scientific doctrine that the functional complexity of biological systems is best explained by intelligent design"
-two_senses = "Broad sense: any design-by-intelligence doctrine, with antecedents reaching back to Aristotelian teleology and the medieval scholastic tradition. Narrow sense: the specific American intellectual movement c. 1991 onward associated with the Discovery Institute."
+type = "Doctrina filosófica y científica según la cual la complejidad funcional de los sistemas biológicos se explica mejor por un diseño inteligente"
+two_senses = "Sentido amplio: cualquier doctrina del diseño por una inteligencia, con antecedentes que se remontan a la teleología aristotélica y a la tradición escolástica medieval. Sentido estricto: el movimiento intelectual estadounidense concreto, desde c. 1991, asociado al Discovery Institute."
 foundational_modern_text = "Phillip E. Johnson, *Darwin on Trial* (Regnery Gateway, 1991)"
-key_movement_figures = "Phillip E. Johnson (1940–2019); Michael Behe (b. 1952); William Dembski (b. 1960); Stephen C. Meyer (b. 1958); Jonathan Wells (b. 1942); Paul Nelson; Jay Richards; Douglas Axe"
-principal_organisations = "Discovery Institute (Seattle, founded 1991); Center for Science and Culture (founded 1996, originally Center for the Renewal of Science and Culture)"
-foundational_arguments = "Irreducible complexity (Behe 1996); specified complexity / the design inference (Dembski 1998); the fine-tuning of physical constants; the origin of biological information; abiogenesis difficulty"
-historical_antecedents = "Aristotelian teleology; the medieval scholastic tradition (Aquinas's fifth way); William Paley's *Natural Theology* (1802); the broader 19th-century natural theology tradition"
-foundational_critique = "David Hume, *Dialogues Concerning Natural Religion* (1779); Charles Darwin, *On the Origin of Species* (1859); the broader mainstream evolutionary-biology tradition"
-landmark_court_case = "Kitzmiller v. Dover Area School District (M.D. Pa. 2005), Judge John E. Jones III; 139-page ruling that ID is not science and that teaching it in public schools violates the Establishment Clause"
-relevant_scientific_alternative = "Francis Crick and Leslie E. Orgel, \"Directed Panspermia,\" *Icarus* 19 (1973): 341–346; Crick, *Life Itself* (1981) — the proposal that life on Earth may have been deliberately seeded by an extraterrestrial intelligence, the closest mainstream-scientific cognate of the framework's position"
-framework_position = "The core ID claim (biological systems are best explained by intelligent design) is reinterpreted as: terrestrial biological complexity, particularly humans, is the product of deliberate engineering by the Elohim, a non-terrestrial biological civilisation. The corpus's position is closer to the Crick-Orgel directed-panspermia hypothesis than to the contemporary ID movement, sharing with ID the central design claim while differing on the designer's identity, on the relationship to evolutionary biology, and on the political-religious context."
+key_movement_figures = "Phillip E. Johnson (1940–2019); Michael Behe (n. 1952); William Dembski (n. 1960); Stephen C. Meyer (n. 1958); Jonathan Wells (n. 1942); Paul Nelson; Jay Richards; Douglas Axe"
+principal_organisations = "Discovery Institute (Seattle, fundado en 1991); Center for Science and Culture (fundado en 1996, originalmente Center for the Renewal of Science and Culture)"
+foundational_arguments = "Complejidad irreducible (Behe 1996); complejidad especificada / la inferencia de diseño (Dembski 1998); el ajuste fino de las constantes físicas; el origen de la información biológica; la dificultad de la abiogénesis"
+historical_antecedents = "La teleología aristotélica; la tradición escolástica medieval (la quinta vía de Tomás de Aquino); *Natural Theology* de William Paley (1802); la tradición más amplia de la teología natural del siglo XIX"
+foundational_critique = "David Hume, *Dialogues Concerning Natural Religion* (1779); Charles Darwin, *On the Origin of Species* (1859); la tradición más amplia de la biología evolutiva convencional"
+landmark_court_case = "Kitzmiller v. Dover Area School District (M.D. Pa. 2005), juez John E. Jones III; sentencia de 139 páginas que dictaminó que el DI no es ciencia y que enseñarlo en las escuelas públicas viola la Cláusula de Establecimiento"
+relevant_scientific_alternative = "Francis Crick y Leslie E. Orgel, «Directed Panspermia», *Icarus* 19 (1973): 341–346; Crick, *Life Itself* (1981): la propuesta de que la vida en la Tierra pudo haber sido sembrada deliberadamente por una inteligencia extraterrestre, el pariente científico convencional más cercano a la posición del marco"
+framework_position = "La afirmación central del DI (los sistemas biológicos se explican mejor por un diseño inteligente) se reinterpreta así: la complejidad biológica terrestre, en particular la humana, es producto de la ingeniería deliberada de los Elohim, una civilización biológica no terrestre. La posición del corpus está más cerca de la hipótesis de la panspermia dirigida de Crick y Orgel que del movimiento contemporáneo del DI: comparte con el DI la afirmación central del diseño, pero difiere en la identidad del diseñador, en la relación con la biología evolutiva y en el contexto político-religioso."
 +++
 
 **Intelligent Design** (ID) is, in the broad sense, the claim that the functional

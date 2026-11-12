@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "繼第二批解密三週之後,美國戰爭部於 war.gov/UFO 公布第三批檔案:53 份文件、10 幅數位繪製圖、6 段影片,以及 3 段汲自 CIA、FBI、NASA 與五角大廈的 NASA 音訊紀錄——這是 PURSUE 首批將民事機關館藏與國防部材料並陳的公布。重點案例包含:2022 年 2 月一位陸軍情報官與其單位四名成員在夏延山脈上空目擊的馬鈴薯狀、乳白珠光、魚鱗般物體;2008 年於哈拉雷國際機場上空一艘底部具旋轉光源並射出光束的圓盤;2026 年發生於美國東北部的成對光球遭遇;以及 1949 年 J. 埃德加·胡佛留下、關於喀斯喀特山脈上空天空光束匯聚的檔案。本書將第三批解密記錄為閱讀正典的脈絡,而非回歸的徵兆。"
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "當下的脈絡"
+cross_reference = "水瓶座時代，第 IX 節"
 canon_links = [
     { title = "水瓶座時代", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

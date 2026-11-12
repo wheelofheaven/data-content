@@ -6,15 +6,27 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Revelation", "ἀποκάλυψις", "Age of Apocalypse", "Age of Revelation"]
+alternative_names = ["Откровение", "ἀποκάλυψις", "Эпоха Апокалипсиса", "Эпоха Откровения"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "Макробиология", path = "wiki/macrobiology", description = "Биология человечества как организма, для которой 1945 год отмечает включение планетарной нервной системы." },
+    { title = "Золотой век", path = "wiki/golden-age", description = "Цивилизационный итог, к которому открывается Апокалипсис, если переход будет пройден." },
+    { title = "Пророк", path = "wiki/prophet", description = "Традиция, совокупную работу которой Апокалипсис доводит до кульминации." },
+    { title = "Посольство", path = "wiki/embassy", description = "Запланированное открытое возвращение, ставшее практически осуществимым в этот период." },
+    { title = "Элохим", path = "wiki/elohim", description = "Альянс, содержание которого в Апокалипсисе становится доступным для прямой оценки." },
+    { title = "Раэль", path = "wiki/rael", description = "Пророк, через которого было передано содержание рамки Апокалипсиса." },
+    { title = "Свитки, пробудившиеся в первый год", path = "articles/the-scrolls-that-woke-in-year-one", description = "Свитки Мёртвого моря явились в первый год календаря эпохи — раскрытие, прочитанное на фоне находки рукописей." },
+    { title = "Распечатанное в первый год", path = "articles/unsealed-in-year-one", description = "Парное прочтение той же находки — запечатанная книга Даниила открыта, и что содержание свитков говорит эпохе." },
+    { title = "Облик человечества", path = "articles/the-shape-of-humanity", description = "Статья, читающая 1945 год как момент, когда нервная система планетарного организма включилась одновременно с обретением силы уничтожить саму себя." },
+    { title = "Карл Юнг", path = "wiki/carl-jung", description = "«Эон» Юнга и прочтение двух рыб применительно к завершающемуся эону Рыб." },
+]
 +++
 
 **Apocalypse** (Greek: *ἀποκάλυψις*, *apokalypsis*) is, in its plain Greek meaning, an *uncovering* or *unveiling* — the disclosure of what was previously concealed. The English word entered medieval and early-modern usage through the Latin *apocalypsis* and the Vulgate's title for the New Testament's Book of Revelation (*Apocalypsis Iohannis*, "the Unveiling of John"). Across the medieval and early-modern centuries, the term acquired a secondary set of connotations — catastrophic destruction, end-of-the-world judgment, eschatological cataclysm — that the original Greek does not carry and that have come to dominate popular English usage. The two senses are now substantially distinct in contemporary English: the popular *apocalypse* names a destructive end; the technical *apocalypse* names a revelation of hidden truth.

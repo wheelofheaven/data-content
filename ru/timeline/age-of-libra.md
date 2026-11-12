@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -28,11 +28,11 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Клод Ворильон (Раэль)", date = "1974", medium = "religious-text", path = "/library/the-book-which-tells-the-truth/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Клод Ворильон (Раэль)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
-    { title = "Бытие", author = "Аноним (Еврейская Библия); перевод WoH с огласованного масоретского еврейского текста", date = "ок. VI–V вв. до н. э.", medium = "religious-text", path = "/library/genesis-woh/" },
-    { title = "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth", author = "Джорджо де Сантильяна и Герта фон Дехенд", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/", description = "Межкультурная реконструкция прецессионной системы, которую эта глава наследует и расширяет." },
-    { title = "Astronomical Algorithms", author = "Жан Меус", date = "1991 (2-е изд. 1998)", medium = "nonfiction-book", description = "Стандартный справочник по тропическому, сидерическому и аномалистическому году и по формулам прецессии, цитируемым во всей главе." },
+    { id = "le-livre-qui-dit-la-v-rit" },
+    { id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te" },
+    { id = "genesis" },
+    { id = "hamlets-mill", note = "Межкультурная реконструкция прецессионной системы, которую эта глава наследует и расширяет." },
+    { id = "astronomical-algorithms", note = "Стандартный справочник по тропическому, сидерическому и аномалистическому году и по формулам прецессии, цитируемым во всей главе." },
 ]
 
 [[extra.prev_age]]

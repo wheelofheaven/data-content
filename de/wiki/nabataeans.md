@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -20,6 +20,14 @@ entry_type = "people"
 claim_type = "inferred"
 timeline = ["pisces", "aries"]
 alternative_names = ["נבטו (nabatäisch-aramäisch Nabaṭu)", "Ναβαταῖοι (griechisch Nabataîoi)", "ٱلْأَنْبَاط (arabisch al-Anbāṭ)", "Nabateans", "die Nabati", "Volk von Raqmū"]
+see_also = [
+    { title = "Petra", path = "wiki/petra", description = "Die in den Fels gehauene Hauptstadt der Nabatäer, um die die Petra-Hypothese des Rahmens kreist." },
+    { title = "Hanafiyya", path = "wiki/hanafiyya", description = "Die abrahamitische Wiederherstellung, als deren menschlicher Träger das Volk der Nabatäer gelesen wird." },
+    { title = "Mohammed", path = "wiki/muhammad", description = "Der Prophet, dessen koranisches Arabisch nach dieser Argumentation vom nabatäischen Arabisch abstammt." },
+    { title = "Jesus", path = "wiki/jesus", description = "Sprecher desselben Aramäisch, in dem die Nabatäer schrieben, was den Islam in ein gemeinsames Milieu stellt." },
+    { title = "Abraham", path = "wiki/abraham", description = "Der patriarchale Ursprung des aramäisch-abrahamitischen Milieus, in dem die Nabatäer stehen." },
+    { title = "Hebräische Bibel", path = "wiki/hebrew-bible", description = "Das Korpus, dessen operativer Wortschatz das hier verfolgte aramäisch-abrahamitische Milieu teilt." }
+]
 
 [extra.infobox]
 type = "Altes nordarabisches Karawanenhandels-Volk; Erbauer Petras; Überträger der aramäisch-zu-arabischen Schrift"

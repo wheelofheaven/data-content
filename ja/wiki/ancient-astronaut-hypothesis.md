@@ -6,26 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Ancient Astronaut Hypothesis", "Ancient Astronaut Theory", "Ancient Aliens hypothesis", "paleocontact hypothesis", "extraterrestrial-intervention hypothesis", "ancient-extraterrestrial-hypothesis"]
+alternative_names = ["古代宇宙飛行士仮説", "古代宇宙飛行士説", "古代宇宙人仮説", "古代接触仮説", "地球外介入仮説", "古代地球外生命仮説"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "ジャン・サンディ", path = "wiki/jean-sendy", description = "コーパスがこの仮説の自らの版に統合する枠組みをもつ、ヴォリロン以前の主要な人物。" },
+    { title = "ネオエウヘメリズム", path = "wiki/neo-euhemerism", description = "古代の証言を歪んだ接触の記録として読むコーパスの読解の根底にある、解釈の方法。" },
+    { title = "マウロ・ビグリーノ", path = "wiki/mauro-biglino", description = "一般向けの普及者たちよりも方法論的にコーパスの規律に近いと判断される、現代のテクスト文献学的な取り組み。" },
+    { title = "設計者からのメッセージ", path = "wiki/message-from-the-designers", description = "古代の証拠の思弁的解釈ではなく、コーパスの土台となる、ヴォリロンへの直接の啓示。" },
+    { title = "伝統", path = "wiki/the-tradition", description = "この仮説が古代の諸文化を横断して読む、伝えられた接触の記録を指すコーパスの用語。" },
+    { title = "先駆者たち", path = "wiki/forerunners", description = "20世紀に広く普及する以前にこの仮説を先取りしていた、それ以前の著者たち。" },
+]
 
 [extra.infobox]
-type = "Interpretive tradition / methodological category proposing extraterrestrial influence on prehistoric and ancient human development"
-principal_period = "Modern formulation: 1950s-present; broader antecedents in late nineteenth-century occult tradition and earlier speculative engagement"
-core_proposition = "Extraterrestrial beings visited Earth in prehistoric or ancient past and influenced human cultural, religious, and technological development"
-candidate_evidence = "Anomalous ancient monuments; cross-cultural mythological motifs of sky-descending beings; sophisticated pre-modern astronomical knowledge; religious-textual content involving celestial encounters; structural similarities across global mythologies"
-principal_proponents = "Erich von Däniken (popularizer); Zecharia Sitchin (Sumerian-Anunnaki framework); Jean Sendy (principal corpus-influence figure); Mauro Biglino (contemporary textual-philological engagement); Paul Anthony Wallis; Robert Temple; Robert Charroux; David Hatcher Childress; Giorgio Tsoukalos; Lloyd Pye; others"
-mainstream_status = "Rejected as pseudoscience by mainstream archaeology, history of religion, and skeptical scholarship; principal academic-skeptical engagement in Feder, Colavito, others"
-corpus_positioning = "Wheel of Heaven framework operates within broader tradition while diverging methodologically: Vorilhon source-textual grounding rather than speculative interpretation; Sendy-Vorilhon synthesis; Hamlet's Mill precessional framework integration; disciplined epistemic-pluralism methodology"
-distinguished_from = "Mainstream archaeology and history of religion (which treats human cultural development as autonomous); UFO contactee tradition narrowly (which focuses on contemporary contact rather than ancient); science fiction (which is explicitly fictional); various occult and esoteric traditions (which operate within different theoretical frameworks)"
-status_in_framework = "Broader interpretive tradition within which corpus operates; corpus is identifiably a member of the family while differing methodologically; substantive subject-matter category for understanding corpus's place in contemporary intellectual landscape"
+type = "先史時代と古代の人類の発展に地球外の影響があったと提唱する解釈の伝統/方法論的カテゴリー"
+principal_period = "近代的定式化:1950年代〜現在。より広い先行形態は19世紀後半のオカルト伝統と、それ以前の思弁的な取り組みにある"
+core_proposition = "地球外の存在が先史時代または古代に地球を訪れ、人類の文化的・宗教的・技術的発展に影響を与えた"
+candidate_evidence = "異例の古代遺跡。空から降りてくる存在をめぐる文化横断的な神話モチーフ。高度な前近代の天文学的知識。天上の存在との遭遇を含む宗教テクストの内容。世界各地の神話にわたる構造的類似"
+principal_proponents = "エーリッヒ・フォン・デニケン(普及者)、ゼカリア・シッチン(シュメール=アヌンナキの枠組み)、ジャン・サンディ(コーパスに最も影響を与えた人物)、マウロ・ビリーノ(現代のテクスト文献学的取り組み)、ポール・アンソニー・ウォリス、ロバート・テンプル、ロベール・シャルー、デイヴィッド・ハッチャー・チルドレス、ジョルジオ・ツォカロス、ロイド・パイ、その他"
+mainstream_status = "主流の考古学、宗教史、懐疑派の学術から疑似科学として退けられている。学術的・懐疑的な主要な取り組みはフェダー、コラヴィートほか"
+corpus_positioning = "Wheel of Heaven の枠組みは、より広い伝統の中で活動しつつ方法論的に分岐する:思弁的解釈ではなくヴォリロンの典拠テクストに根拠を置くこと、サンディとヴォリロンの総合、『ハムレットの臼』の歳差運動の枠組みの統合、規律ある認識論的多元主義の方法論"
+distinguished_from = "主流の考古学と宗教史(人類の文化的発展を自律的なものとして扱う)。狭義のUFOコンタクティーの伝統(古代ではなく現代の接触に焦点を当てる)。サイエンス・フィクション(明示的に虚構である)。さまざまなオカルト・秘教的伝統(異なる理論的枠組みの中で活動する)"
+status_in_framework = "コーパスが位置するより広い解釈の伝統。コーパスはこの系統の自覚的な一員でありながら、方法と内容においてそれとは異なる。現代の知的状況の中でこの枠組みを位置づけるための鍵となる範疇"
 +++
 
 **The ancient astronaut hypothesis** — also called the paleocontact hypothesis,

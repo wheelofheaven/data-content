@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -19,6 +19,14 @@ entry_type = "concept"
 claim_type = "inferred"
 timeline = ["pisces"]
 alternative_names = ["ٱلْحَنِيفِيَّة (al-Ḥanīfiyyah)", "حَنِيف (ḥanīf, sing.)", "حُنَفَاء (ḥunafāʾ, plural)", "millat Ibrāhīm («la religión de Abraham»)", "dīn Ibrāhīm", "el monoteísmo primordial", "la religión de los rectos"]
+see_also = [
+    { title = "Abraham", path = "wiki/abraham", description = "La figura fundadora cuya religión original perdida la Hanafiyya afirma restaurar." },
+    { title = "Mahoma", path = "wiki/muhammad", description = "Presentado por el Corán como el que vuelve a la millat Ibrāhīm que nombra la Hanafiyya." },
+    { title = "Petra", path = "wiki/petra", description = "El lugar originario, propuesto por Gibson, del movimiento que se llamó a sí mismo Hanafiyya por primera vez." },
+    { title = "Nabateos", path = "wiki/nabataeans", description = "El medio arameo-cristiano implicado en la transmisión del término a través del cognado ḥanpā." },
+    { title = "Elohim", path = "wiki/elohim", description = "Los creadores cuyo programa de recuperación abrahámica, según la lectura del corpus, continúa la Hanafiyya." },
+    { title = "Lista de profetas y religiones", path = "wiki/list-of-prophets-and-religions", description = "El lugar de la Hanafiyya entre las tradiciones cultivadas por la alianza a lo largo de las eras." },
+]
 
 [extra.infobox]
 type = "Término coránico e islámico temprano para el monoteísmo primordial de Abraham; supuesto autonombre original del islam temprano"

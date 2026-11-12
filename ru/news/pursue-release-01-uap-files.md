@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Министерство войны США открыло публичный портал war.gov/UFO, опубликовав первую партию рассекреченных материалов о НЛО — данные датчиков, отчёты операторов и кадр миссии «Аполлон-17» 1972 года. Корпус Wheel of Heaven регистрирует эту публикацию как контекст для прочтения канона, а не как знак: ни один опубликованный файл не является доказательством для рамки, чей ожидаемый контакт официален, обусловлен и не имеет даты."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "Контекст настоящего"
+cross_reference = "Эпоха Водолея, §IX"
 canon_links = [
     { title = "Эпоха Водолея", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

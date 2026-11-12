@@ -1,5 +1,5 @@
 +++
-title = "Shi'ur Qomah"
+title = "Шиур Кома"
 slug = "shiur-qomah"
 description = "Shi'ur Qomah (ивр. שִׁעוּר קוֹמָה, 'мера стана') — текст докаббалистической литературы Hekhalot / Merkavah, в котором ангел Metatron диктует космические размеры божественного тела, часть за частью, причём каждая измеряется в parasang и наделяется тайным именем. Это тот самый текст, что стоит за числами в parasang, которые раэлианский канон приписывает 'Каббале'."
 template = "wiki-page.html"
@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-07"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-07"
 translation_stale = false
 translation_sync = 100
@@ -17,6 +17,14 @@ entry_type = "text"
 claim_type = "direct"
 alternative_names = ["*Shiʿur Qomah* (שִׁעוּר קוֹמָה)", "Sefer Haqqomah ('Книга [божественного] тела')", "Мера стана", "Мера тела", "Ma'amar Rabbi Yishmael"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "Яхве", path = "wiki/yahweh", description = "Фигура, измерения «роста создателя» которой канон приписывает Каббале." },
+    { title = "Родная планета Элохимов", path = "wiki/elohim-home-planet", description = "Расстояние, которое восстанавливает рамка, если парасанг текста читать как световую секунду." },
+    { title = "Литература Hekhalot", path = "wiki/hekhalot-literature", description = "Позднеантичный мистический корпус о чертогах и колеснице, к которому принадлежит текст." },
+    { title = "Каббала", path = "wiki/kabbalah", description = "Более поздняя мистика, которую раэлианский канон называет источником цифр в парасангах." },
+    { title = "Элохим", path = "wiki/elohim", description = "Инженеры, космические измерения которых рамка читает за цифрами божественного тела." },
+    { title = "Еврейская Библия", path = "wiki/hebrew-bible", description = "Библейский источник, гематрия Псалма 147:5 которого даёт ключевое число 236." },
+]
 
 [extra.infobox]
 type = "Текст мистического корпуса Hekhalot / Merkavah; антропоморфная 'мера божественного тела'"

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -20,12 +20,13 @@ claim_type = "framework"
 alternative_names = ["宇宙の連鎖", "創造の連鎖", "宇宙的創造の連鎖", "反復する宇宙的プロセス", "宇宙的創造の周期", "創造者たちの周期"]
 timeline = ["pre-creation", "aries", "pisces", "aquarius", "post-aquarius"]
 see_also = [
-    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "より広い宇宙の連鎖の中における具体的な評価の局面――継承資格の査定。" },
-    { title = "Elohim", path = "wiki/elohim", description = "牡羊座の時代に、自分たち自身が創造されていたことを発見した創造者文明。" },
-    { title = "Apocalypse", path = "wiki/apocalypse", description = "水瓶座時代の継承評価――地球の人類にとっての、連鎖の現在の局面。" },
-    { title = "Embassy", path = "wiki/embassy", description = "地球が同盟の蓄積された知識を受け取るとされる継承の出来事の、想定された開催地。" },
+    { title = "マクロ生物学", path = "wiki/macrobiology", description = "一段上の尺度の有機体として読まれる人類。創造され、また創造する文明の連鎖に沿って広がっていく。" },
+    { title = "宇宙的競争", path = "wiki/cosmic-competition", description = "より広い宇宙の連鎖の中における具体的な評価の局面――継承資格の査定。" },
+    { title = "エロヒム", path = "wiki/elohim", description = "牡羊座の時代に、自分たち自身が創造されていたことを発見した創造者文明。" },
+    { title = "黙示録", path = "wiki/apocalypse", description = "水瓶座時代の継承評価――地球の人類にとっての、連鎖の現在の局面。" },
+    { title = "大使館", path = "wiki/embassy", description = "地球が同盟の蓄積された知識を受け取るとされる継承の出来事の、想定された開催地。" },
     { title = "二重の署名", path = "wiki/doubled-signature", description = "より広い宇宙の連鎖の枠組みの中で機能する、関連する解釈上の原理。" },
-    { title = "Genesis", path = "wiki/genesis", description = "連鎖の反復する創造パターンの一つの具体的な事例として読まれる創造の記述。" },
+    { title = "創世記", path = "wiki/genesis", description = "連鎖の反復する創造パターンの一つの具体的な事例として読まれる創造の記述。" },
 ]
 
 footnotes = [

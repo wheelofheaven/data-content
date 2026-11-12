@@ -6,35 +6,43 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Jesus of Nazareth", "Jesus Christ", "Yeshua", "Yēšuaʿ", "יֵשׁוּעַ", "Ἰησοῦς", "Iēsoûs", "Isa", "عيسى"]
+alternative_names = ["ナザレのイエス", "イエス・キリスト", "Yeshua", "Yēšuaʿ", "יֵשׁוּעַ", "Ἰησοῦς", "Iēsoûs", "Isa", "عيسى"]
 timeline = ["pisces"]
+see_also = [
+    { title = "同盟", path = "wiki/the-alliance", description = "イエスが意図的に交配によって受胎された計画として読まれる、契約の計画。" },
+    { title = "ヤハウェ", path = "wiki/yahweh", description = "イエスを生み出した同盟の計画を命じたエロヒムの議長。" },
+    { title = "エロヒム", path = "wiki/elohim", description = "同盟が仲介した受胎において、エロハである父をもたらした創造者たち。" },
+    { title = "預言者", path = "wiki/prophet", description = "魚座の時代を開くためにイエスが担った使者の役割。" },
+    { title = "ラエル", path = "wiki/rael", description = "預言者の継承においてイエスと対をなす、水瓶座の時代の使者。" },
+    { title = "黙示録", path = "wiki/apocalypse", description = "彼の魚座の使命がそれに向けて準備するよう命じられた、啓示の時代。" },
+]
 
 [extra.infobox]
 hebrew_name = "יֵשׁוּעַ"
-transliteration = "Yēšuaʿ (Hebrew); Yeshu (Aramaic shortened form)"
+transliteration = "Yēšuaʿ(ヘブライ語)、Yeshu(アラム語の短縮形)"
 greek_name = "Ἰησοῦς (Iēsoûs)"
 latin_name = "Iesus"
 arabic_name = "عيسى (ʿĪsā)"
-title = "Christos / Mashiach ('anointed one')"
-born = "c. 4 BCE, Bethlehem or Nazareth (mainstream consensus)"
-died = "c. 30 CE or c. 33 CE, Jerusalem (crucifixion under Pontius Pilate)"
-ministry_period = "c. 27–30 CE (approximately three years)"
-geographic_context = "Roman Palestine: Galilee and Judea"
-linguistic_context = "Native Aramaic; literate in Biblical Hebrew; multilingual environment"
-mother = "Mary (Hebrew: Miriam)"
-adoptive_father = "Joseph"
-biological_father = "Yahweh (in the framework's reading); 'Holy Spirit' (in the conventional reading)"
-framework_role = "Inaugural figure of the Age of Pisces; biological hybrid; biological half-brother of Raël"
-current_status = "Resurrected; resident on the Planet of the Eternals (per the source material)"
-principal_text = "The four canonical Gospels (Matthew, Mark, Luke, John); the Pauline epistles; the broader New Testament"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974)"
+title = "クリストス/マシアハ(「油注がれた者」)"
+born = "紀元前4年頃、ベツレヘムまたはナザレ(主流の通説)"
+died = "紀元30年頃または33年頃、エルサレム(ポンティウス・ピラトゥスのもとでの磔刑)"
+ministry_period = "紀元27〜30年頃(約3年間)"
+geographic_context = "ローマ支配下のパレスチナ:ガリラヤとユダヤ"
+linguistic_context = "母語はアラム語。聖書ヘブライ語の読み書きができた。多言語環境"
+mother = "マリア(ヘブライ語:ミリアム)"
+adoptive_father = "ヨセフ"
+biological_father = "ヤハウェ(この枠組みの読解において)。「聖霊」(従来の読解において)"
+framework_role = "魚座の時代の開始を告げる人物。生物学的混血。ラエルの生物学上の異母兄弟"
+current_status = "復活し、永遠者の惑星に住んでいる(典拠資料による)"
+principal_text = "四つの正典福音書(マタイ、マルコ、ルカ、ヨハネ)。パウロ書簡。より広い新約聖書"
+principal_framework_source = "『真実を告げる書』(ヴォリロン/ラエル、1974年)"
 +++
 
 **Jesus of Nazareth** (Hebrew: <span class="hebrew">יֵשׁוּעַ</span>, *Yēšuaʿ*; Greek: *Ἰησοῦς*, *Iēsoûs*; Latin: *Iesus*; Arabic: <span class="hebrew">عيسى</span>, *ʿĪsā*; conventionally Anglicized as *Jesus*; titular *Christos / Mashiach*, "anointed one") is a first-century Jewish preacher, healer, and apocalyptic figure whose ministry in Roman Palestine, public execution by crucifixion under Pontius Pilate, and post-mortem appearances to his followers founded the Christian religious tradition. He is the subject of the four canonical Gospels (Matthew, Mark, Luke, John),{{ cite(id="gospel-of-matthew", text="[1]", title="Gospel of Matthew — canonical Synoptic Gospel; principal infancy and Sermon material") }}{{ cite(id="gospel-of-luke-acts-of-the-apostles", text="[2]", title="Gospel of Luke and Acts of the Apostles — Lukan two-volume composition") }}{{ cite(id="gospel-of-john", text="[3]", title="Gospel of John — Logos prologue and high-Christological narrative") }} of the Pauline epistles, and of the broader New Testament corpus. Outside the Christian sources he is attested briefly in Josephus (*Antiquities of the Jews* 18.3.3 and 20.9.1), in Tacitus (*Annals* 15.44), and in a small number of other early non-Christian witnesses. The historical existence of Jesus as a first-century figure is accepted by the substantial majority of mainstream historical scholarship.

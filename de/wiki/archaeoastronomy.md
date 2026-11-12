@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,16 +15,29 @@ category = "Methodology"
 entry_type = "concept"
 alternative_names = ["archaeoastronomy", "astroarchaeology (earlier term)", "cultural astronomy (broader contemporary term)", "ethnoastronomy (related discipline)", "astronomy in culture (alternative designation)", "arch\u00e9oastronomie (French)", "Arch\u00e4oastronomie (German)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus", "age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "Hamlet's Mill", path = "wiki/hamlets-mill", description = "Die Hypothese der präzessionalen Verschlüsselung, deren Aussagen über antike Astronomie die Archäoastronomie prüfen kann." },
+    { title = "Weltzeitalter", path = "wiki/world-age", description = "Die Struktur der präzessionalen Zeitalter, die voraussetzt, dass antike Kulturen Wissen über die Präzession besaßen." },
+    { title = "Tierkreis", path = "wiki/zodiac", description = "Der Sternbildrahmen, dessen antike Berechnung die Archäoastronomie durch Ausrichtungen von Stätten dokumentiert." },
+    { title = "Prä-Astronautik-Hypothese", path = "wiki/ancient-astronaut-hypothesis", description = "Die Deutungstradition, die das Korpus in der Frage eines Wissens vor Hipparch gegen die etablierte Archäoastronomie abwägt." },
+    { title = "Antike Baumeister", path = "wiki/ancient-builders", description = "Die Erbauer von Megalithen und Tempeln, deren astronomische Ausrichtungen die Disziplin vor Ort vermisst." },
+    { title = "Heilige Geometrie", path = "wiki/sacred-geometry", description = "Die architektonisch-mathematische Verschlüsselung himmlischen Wissens, die die Disziplin an ausgerichteten Stätten liest." },
+    { title = "Göbekli Tepe", path = "wiki/gobekli-tepe", description = "Das Heiligtum von etwa 9600 v. Chr. im Zentrum der archäoastronomischen Debatte um Pfeiler 43." },
+    { title = "Graham Hancock", path = "wiki/graham-hancock", description = "Der Autor, dessen Bücher die archäoastronomische Lesart antiker Stätten populär machten — und eine Debatte darüber auslösten." },
+    { title = "Große Sphinx", path = "wiki/great-sphinx", description = "Das nach dem Äquinoktium ausgerichtete Löwenmonument im Zentrum des Arguments für eine ältere Datierung und das Löwe-Zeitalter." },
+    { title = "Orion-Korrelation", path = "wiki/orion-correlation", description = "Bauvals These von Gizeh als Bodenkarte des Orion und die Datierung um 10.500 v. Chr." },
+    { title = "John Anthony West", path = "wiki/john-anthony-west", description = "Das symbolistische Ägypten von West und Schwaller und die These einer Ikonografie, die der Präzession folgt." }
+]
 
 [extra.infobox]
-type = "Interdisciplinary scientific field studying astronomical knowledge, practices, and beliefs of ancient and pre-modern cultures; principal empirical discipline relevant to corpus chronological framework"
-disciplinary_emergence = "Sir Norman Lockyer (*The Dawn of Astronomy*, 1894); Alexander Thom (1950s-1970s); Gerald Hawkins (*Stonehenge Decoded*, 1965); the substantial subsequent disciplinary development since the 1960s-1970s"
+type = "Interdisziplinäres wissenschaftliches Feld, das astronomisches Wissen, Praktiken und Glaubensvorstellungen antiker und vormoderner Kulturen untersucht; die empirische Disziplin mit dem unmittelbarsten Bezug zum chronologischen Rahmen des Korpus"
+disciplinary_emergence = "Sir Norman Lockyer (*The Dawn of Astronomy*, 1894); Alexander Thom (1950er–1970er-Jahre); Gerald Hawkins (*Stonehenge Decoded*, 1965); Festigung zu einer eigenständigen Disziplin in den 1960er- und 1970er-Jahren"
 principal_methodological_framework = "Green vs. brown archaeoastronomy distinction (Ruggles); statistical-quantitative analysis (green) vs. intensive cultural-ethnographic engagement (brown)"
-principal_research_methods = "Field surveys with theodolite measurements of alignment azimuths; astronomical reconstruction of ancient skies; ethnographic and ethnohistorical engagement; statistical analysis of alignment populations; computational simulation of ancient celestial conditions; integrated archaeological-astronomical analysis"
-principal_documented_phenomena = "Solar alignments (solstices, equinoxes, cross-quarter days); lunar alignments (18.6-year lunar standstill cycle); stellar alignments (Sirius heliacal rising, Orion, Pleiades, others); planetary alignments (Venus principally); precessional content (contested degree); calendar-mathematical content; broader cosmological-religious content"
+principal_research_methods = "Feldvermessungen mit Theodolitmessungen der Ausrichtungsazimute; astronomische Rekonstruktion antiker Himmel; ethnografische und ethnohistorische Arbeit; statistische Analyse von Ausrichtungsgruppen; rechnergestützte Simulation antiker Himmelsverhältnisse; integrierte archäologisch-astronomische Analyse"
+principal_documented_phenomena = "Sonnenausrichtungen (Sonnenwenden, Tagundnachtgleichen, Zwischenviertel-Tage); Mondausrichtungen (18,6-jähriger Zyklus der Mondwende); Sternausrichtungen (heliakischer Aufgang des Sirius, Orion, Plejaden und andere); Planetenausrichtungen (vor allem Venus); präzessionaler Gehalt (Ausmaß umstritten); kalendarisch-mathematischer Gehalt; weiterer kosmologisch-religiöser Gehalt"
 principal_corpus_engagement = "Mainstream archaeoastronomy as substantive empirical foundation for corpus chronological framework; *Hamlet's Mill* precessional-encoding hypothesis as principal load-bearing methodological commitment; substantial cross-cultural pre-Hipparchean precessional awareness as corpus claim"
-distinguished_from = "Astrology (the substantial astrological tradition engaging celestial-terrestrial correspondence); the broader history of astronomy (the substantial discipline studying astronomical knowledge through written records principally); pseudo-archaeoastronomy (the substantial alternative-archaeoastronomy tradition with methodologically problematic engagement)"
-status_in_framework = "Principal empirical discipline relevant to corpus chronological framework; substantive engagement with the *Hamlet's Mill* hypothesis and broader corpus precessional content; corpus position threads mainstream-acceptable and alternative-tradition content carefully"
+distinguished_from = "Astrologie (die Tradition der Entsprechung von Himmel und Erde); die Geschichte der Astronomie (die Untersuchung astronomischen Wissens vor allem anhand schriftlicher Quellen); Pseudo-Archäoastronomie (die alternative Tradition, deren Methode die etablierte Archäoastronomie kritisiert)"
+status_in_framework = "Die empirische Disziplin mit dem stärksten Bezug zum chronologischen Rahmen des Korpus; übernimmt die *Hamlet's Mill*-Hypothese als erschlossene Infrastruktur; unterscheidet strenge Archäoastronomie von der spekulativen alternativen Tradition und liest beide fair"
 +++
 
 **Archaeoastronomy** is the interdisciplinary study of how ancient and

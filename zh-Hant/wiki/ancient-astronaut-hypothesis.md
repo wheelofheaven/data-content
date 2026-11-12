@@ -6,26 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Ancient Astronaut Hypothesis", "Ancient Astronaut Theory", "Ancient Aliens hypothesis", "paleocontact hypothesis", "extraterrestrial-intervention hypothesis", "ancient-extraterrestrial-hypothesis"]
+alternative_names = ["Ancient Astronaut Hypothesis", "遠古外星人理論", "遠古外星人假說", "古代接觸假說", "地外干預假說", "古代地外存在假說"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "讓·桑迪", path = "wiki/jean-sendy", description = "沃里隆之前的主要人物,文集將其框架整合入本身版本的假說。" },
+    { title = "新埃烏赫梅羅斯主義", path = "wiki/neo-euhemerism", description = "文集將古代見證讀作失真接觸紀錄之解讀背後的詮釋方法。" },
+    { title = "毛羅·比利諾", path = "wiki/mauro-biglino", description = "當代文本語文學研究,在方法上被認為比通俗作者更接近文集的紀律。" },
+    { title = "來自設計者的訊息", path = "wiki/message-from-the-designers", description = "作為文集基礎的沃里隆直接啟示,而非對古代證據的推測性詮釋。" },
+    { title = "傳統", path = "wiki/the-tradition", description = "文集對此假說跨古代文化所解讀之傳承接觸紀錄的用語。" },
+    { title = "先驅者", path = "wiki/forerunners", description = "在此假說於二十世紀普及之前即已預示它的早期作者。" },
+]
 
 [extra.infobox]
-type = "Interpretive tradition / methodological category proposing extraterrestrial influence on prehistoric and ancient human development"
-principal_period = "Modern formulation: 1950s-present; broader antecedents in late nineteenth-century occult tradition and earlier speculative engagement"
-core_proposition = "Extraterrestrial beings visited Earth in prehistoric or ancient past and influenced human cultural, religious, and technological development"
-candidate_evidence = "Anomalous ancient monuments; cross-cultural mythological motifs of sky-descending beings; sophisticated pre-modern astronomical knowledge; religious-textual content involving celestial encounters; structural similarities across global mythologies"
-principal_proponents = "Erich von Däniken (popularizer); Zecharia Sitchin (Sumerian-Anunnaki framework); Jean Sendy (principal corpus-influence figure); Mauro Biglino (contemporary textual-philological engagement); Paul Anthony Wallis; Robert Temple; Robert Charroux; David Hatcher Childress; Giorgio Tsoukalos; Lloyd Pye; others"
-mainstream_status = "Rejected as pseudoscience by mainstream archaeology, history of religion, and skeptical scholarship; principal academic-skeptical engagement in Feder, Colavito, others"
-corpus_positioning = "Wheel of Heaven framework operates within broader tradition while diverging methodologically: Vorilhon source-textual grounding rather than speculative interpretation; Sendy-Vorilhon synthesis; Hamlet's Mill precessional framework integration; disciplined epistemic-pluralism methodology"
-distinguished_from = "Mainstream archaeology and history of religion (which treats human cultural development as autonomous); UFO contactee tradition narrowly (which focuses on contemporary contact rather than ancient); science fiction (which is explicitly fictional); various occult and esoteric traditions (which operate within different theoretical frameworks)"
-status_in_framework = "Broader interpretive tradition within which corpus operates; corpus is identifiably a member of the family while differing methodologically; substantive subject-matter category for understanding corpus's place in contemporary intellectual landscape"
+type = "詮釋傳統／方法論類別，主張地外存在影響了史前與古代人類的發展"
+principal_period = "現代表述：1950 年代至今；更廣的先驅可追溯至 19 世紀晚期的神祕學傳統及更早的思辨性探討"
+core_proposition = "地外存在曾在史前或古代造訪地球，並影響了人類的文化、宗教與技術發展"
+candidate_evidence = "反常的古代紀念建築；跨文化的「自天降臨者」神話母題；前現代的精深天文知識；涉及天界接觸的宗教文本內容；全球各神話之間的結構相似性"
+principal_proponents = "艾力赫·馮·丹尼肯（普及者）；撒迦利亞·西琴（蘇美—阿努納奇框架）；讓·桑迪（對本文集影響最大的人物）；毛羅·比利諾（當代文本與語文學研究）；保羅·安東尼·華利斯；羅伯特·坦普爾；羅伯特·夏魯；大衛·哈切爾·奇爾德里斯；喬治·楚卡洛斯；勞埃德·派伊；以及其他人"
+mainstream_status = "被主流考古學、宗教史及懷疑論學界斥為偽科學；主要的學術懷疑論回應見於費德、科拉維托等人"
+corpus_positioning = "Wheel of Heaven 框架在此一更廣的傳統之內運作，但在方法上有所分歧：以沃里隆源典文本為根據，而非思辨性詮釋；桑迪—沃里隆綜合；整合《哈姆雷特之磨》的歲差框架；有紀律的認識論多元方法"
+distinguished_from = "主流考古學與宗教史（將人類文化發展視為自主的）；狹義的 UFO 接觸者傳統（著重當代接觸而非古代）；科幻（明確屬於虛構）；各種神祕學與祕傳傳統（在不同的理論框架中運作）"
+status_in_framework = "語料所處的更廣泛詮釋傳統；語料是此家族中具自覺的一員，在方法與實質上與之有所不同；是在當代思想版圖中定位本框架的關鍵類別"
 +++
 
 **The ancient astronaut hypothesis** — also called the paleocontact hypothesis,

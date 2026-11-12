@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,8 +17,8 @@ event_type = "announcement"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "Zwei Wochen nach PURSUE Veröffentlichung 01 stellte das US-Department of War Veröffentlichung 02 auf war.gov/UFO online: über fünfzig zuvor klassifizierte Dokumente, darunter das erste nicht-thermische UAP-Video in voller Farbe, ein Waffenerfassungsvorfall mit einer MQ-9-Reaper-Drohne an der Grenze zwischen Jordanien und Syrien, eine U-Boot-Begegnung vom März 2022 mit transmedialen kugelförmigen Objekten und 116 Archivseiten aus Sandia, New Mexico, 1948–1950. Das Korpus registriert Veröffentlichung 02 als Kontext für die Lektüre des Kanons, nicht als Zeichen der Rückkehr."
-filed_under = "The Context of the Present"
-cross_reference = "Age of Aquarius, §IX"
+filed_under = "Der Kontext der Gegenwart"
+cross_reference = "Zeitalter des Wassermanns, §IX"
 canon_links = [
     { title = "Wassermann-Zeitalter", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

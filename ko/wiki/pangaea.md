@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -18,18 +18,26 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "framework"
-alternative_names = ["Pangea", "Antediluvian supercontinent", "The pre-deluge landmass", "The one continent"]
+alternative_names = ["Pangea", "대홍수 이전의 초대륙", "대홍수 이전의 땅덩어리", "하나의 대륙"]
+see_also = [
+    { title = "에덴", path = "wiki/eden", description = "이 단일한 대홍수 이전 대륙 위에 자리한 창조 장소." },
+    { title = "대홍수 이전 시대", path = "wiki/antediluvian", description = "판게아가 지리적 기반이 된, 대홍수 이전 시기 전체." },
+    { title = "노아의 방주", path = "wiki/noahs-ark", description = "이 대륙이 단 한 번의 파국적 사건으로 쪼개진 일과 연결된 대홍수 생존 기사." },
+    { title = "창세기", path = "wiki/genesis", description = "그 6–9장이 대륙을 쪼갠 대홍수 개입을 제공합니다." },
+    { title = "테라포밍", path = "wiki/terraforming", description = "원시 해저에서 판게아를 융기시킨 대륙 공학 작업." },
+    { title = "전승", path = "wiki/the-tradition", description = "코퍼스가 대홍수 이전 초대륙을 담고 있는 것으로 읽는 보존된 기억." },
+]
 
 [extra.infobox]
-type = "Supercontinent — both a mainstream-geological reconstruction and a framework-adopted antediluvian referent"
-mainstream_dating = "c. 335 million years ago (Carboniferous assembly) through c. 195 million years ago (Triassic-Jurassic breakup)"
-framework_dating = "Constructed during *yom* 3 / Age of Scorpio (c. 17,490 – 15,330 BCE on the corpus's reckoning); broken apart at the deluge event (c. 13,000 BCE on the corpus's reckoning)"
-extent = "Approximately equal to the combined landmass of all present-day continents, organised as a single contiguous body"
-shape_mainstream = "C-shaped with the Tethys Sea contained within the curve, surrounded by the superocean Panthalassa"
-geographic_role_framework = "The geographic substrate of the entire antediluvian period: the location of Eden, the location of the post-Eden dispersed civilisations, the area destroyed by the deluge event"
-breakup_mainstream = "Plate-tectonic rifting beginning approximately 195 million years ago, with progressive separation continuing through the Jurassic and Cretaceous"
-breakup_framework = "Catastrophic single-event breakup at the deluge, described in the source material as a deliberate operational intervention; the framework reads the modern continental configuration as the surface signature of the deluge event preserved in the contemporary geological record"
-divergence_from_mainstream = "Approximately three orders of magnitude on timescale; the framework's reading is incompatible with mainstream plate-tectonic dating and is registered transparently in the entry's dedicated section on the divergence"
+type = "초대륙 — 주류 지질학의 재구성이자 틀이 채택한 대홍수 이전의 지시 대상"
+mainstream_dating = "약 3억 3,500만 년 전(석탄기의 형성)부터 약 1억 9,500만 년 전(트라이아스기-쥐라기의 분열)까지"
+framework_dating = "사수자리 시대 후기(코퍼스의 계산으로 기원전 약 19,650 – 17,490년)에 융기했으며, 창세기 텍스트가 *yom* 3으로 압축한 대륙 작업이고, 안정화는 전갈자리 초기까지 이어졌습니다. 쌍둥이자리 시대가 시작될 때(코퍼스의 계산으로 기원전 약 6,690년) 대홍수에서 분열되었습니다"
+extent = "오늘날 모든 대륙을 합친 육지 면적과 대략 같으며, 하나의 연속된 덩어리로 이루어짐"
+shape_mainstream = "C자 모양으로 곡선 안에 테티스해를 품고, 초대양 판탈라사에 둘러싸임"
+geographic_role_framework = "대홍수 이전 시기 전체의 지리적 기반: 에덴의 위치, 에덴 이후 흩어진 문명들의 위치, 대홍수 사건으로 파괴된 지역"
+breakup_mainstream = "약 1억 9,500만 년 전에 시작된 판구조 열개로, 쥐라기와 백악기를 거치며 점진적인 분리가 계속됨"
+breakup_framework = "대홍수에서 일어난 파국적 단일 사건으로서의 분열. 타격 자체는 첫 번째 책에서 의도적 개입으로 묘사되고, 분열은 세 번째 책(LWTE-4)에 실린 마르셀 테뤼스의 에세이에서 묘사됩니다. 이 체계는 현대의 대륙 배치를, 현재의 지질 기록에 보존된 대홍수 사건의 표면적 서명으로 읽습니다"
+divergence_from_mainstream = "시간 척도에서 약 세 자릿수; 틀의 독법은 주류 판구조론의 연대와 양립할 수 없으며, 이 차이를 다루는 항목의 전용 절에 투명하게 기록됨"
 +++
 
 **Pangaea** is the name conventionally given to the single supercontinent identified by mainstream geology as having existed from approximately 335 million years ago through approximately 195 million years ago, before breaking up via plate-tectonic processes into the continental configuration of the present-day Earth. The name derives from the Greek *Παγγαία*, "all earth," and was introduced into geological scholarship by the German meteorologist and geophysicist **Alfred Wegener** in his 1912 paper *Die Entstehung der Kontinente* and subsequently developed in *Die Entstehung der Kontinente und Ozeane* (*The Origin of Continents and Oceans*, 1915, with major revisions through 1929) — the foundational works of the continental-drift theory that subsequently developed into the contemporary theory of plate tectonics.

@@ -6,7 +6,7 @@ template = "news-page.html"
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -18,7 +18,7 @@ claim_type = "inferred"
 editorial_pass = "2026-05"
 summary = "제4차 공개로부터 4주 후, 미국 전쟁부는 war.gov/UFO에 제5차 공개를 게시했습니다. 언론 집계로 41건의 파일 — 문서, 이미지, 영상 — 이 전쟁부, FBI, CIA에서 나왔고, 국무부와 대통령실이 처음으로 합류했습니다. 표제급 사례는 다음과 같습니다. 한 전직 군 조종사가 2002년 아프가니스탄 바그람 상공에서 별들을 가리며 지나간, 소리 없는 약 500피트 크기의 정삼각형을 회고하는 2024년 FBI 인터뷰; 항공기가 주포를 발사하자 반응하는 듯 보인 약 25개의 「차가운 구체」와 조우한 2021년 오만만 건십 사건; 그리고 사망한 승무원이 실린 추락 구체에 관한 브라질 라디오의 선정적 보도가 CIA 감청 기록에서 백악관 우주위원회의 조회를 거쳐 국무부의 판정 — 조작 — 에 이르는 1963년 11월의 파일 군집입니다. 본 코퍼스는 제5차 공개를 귀환의 징후가 아니라 캐논을 읽기 위한 맥락으로 기록합니다 — 그리고 자체 문서들 아래에서 스스로 무너지는 바이아 파일을 온전한 문서적 강도 그대로 등재합니다."
 filed_under = "현재의 맥락"
-cross_reference = "Age of Aquarius, §IX"
+cross_reference = "물병자리 시대, §IX"
 canon_links = [
     { title = "물병자리 시대", path = "/timeline/age-of-aquarius/" },
     { title = "PURSUE", path = "/wiki/pursue/" },

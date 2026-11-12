@@ -6,26 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Commandments (proper-noun framework concept)", "the Aquarian-age program", "the seven commandments", "the Raëlian socio-political-religious doctrine"]
+alternative_names = ["the New Commandments (proper-noun framework concept)", "물병자리 시대 프로그램", "일곱 계명", "라엘리안 사회·정치·종교 교리"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "모세", path = "wiki/moses", description = "이 계명들이 물병자리 시대를 위해 계승하는, 짝을 이루는 양자리 시대 십계명의 중개자." },
+    { title = "천재정치", path = "wiki/geniocracy", description = "첫 번째 계명 — 일곱 부분 프로그램의 통치 차원." },
+    { title = "휴머니타리아니즘", path = "wiki/humanitarianism", description = "두 번째 계명 — 프로그램의 재산·상속 차원." },
+    { title = "황금시대", path = "wiki/golden-age", description = "프로그램의 온전한 실행이 만들어 내도록 의도된 삶의 형태." },
+    { title = "대사관", path = "wiki/embassy", description = "원래의 '당신의 사명' 단락에서 따로 제시된 건설 요구 사항." },
+    { title = "묵시록", path = "wiki/apocalypse", description = "이 지침들이 지향하는 시대를 여는 문턱의 순간." },
+]
 
 [extra.infobox]
-type = "Raëlian umbrella concept; the seven principal political-religious-cultural directives delivered by Yahweh to Vorilhon during the December 1973 contact"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), Sixth Chapter; *Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), substantial 'The Keys' section; *Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979); consolidated *Message from the Designers* (2005); systematic *timeline.epub* engagement"
-the_seven_commandments = "(1) Geniocracy — political-governance; (2) Humanitarianism — property-and-inheritance; (3) World Government — political-coordination; (4) Demilitarization — peace; (5) Science as Religion — religious-cultural; (6) Telepathic Cultivation — cognitive-developmental; (7) Metaphysical Clarifications — doctrinal-cosmological"
-source_textual_structure = "Original 1974 Chapter VI: four explicit sections (Geniocracy, Humanitarianism, World Government, Your Mission) — with Your Mission articulating the Raëlian institutional engagement distinctly from the seven structural commandments; subsequent corpus consolidation: seven systematic commandments faithful to broader corpus content"
-mosaic_decalogue_parallel = "Aries-age Decalogue (Exodus 20:1-17, Deuteronomy 5:6-21) and Aquarian-age New Commandments paired as substantive age-specific programmatic articulations; both delivered by Yahweh; substantive transition from individual-ethical-prohibitive content to collective-civilizational-constructive content"
-distinguished_from = "the Mosaic Decalogue (the Aries-age individual-ethical paired articulation); the Raëlian Mission (the institutional engagement registered in the original Chapter VI 'Your Mission' section); the Embassy construction (the specific operational requirement); the Apocalypse (the threshold-revelation moment); the Golden Age (the operational form of life that successful implementation produces)"
-parallel_traditions = "The Mosaic Decalogue; the Holiness Code and Deuteronomic Code; the Christian Sermon on the Mount; the Islamic Five Pillars and substantive Sharia; the Buddhist Eightfold Path and Five Precepts; the Hindu purusharthas; the Confucian Five Relationships; various indigenous programmatic traditions; Plato's Republic and Laws; the substantial utopian-programmatic tradition; the substantial revolutionary and democratic-progressive programmatic articulations; the contemporary UN-system programmatic engagements"
-status_in_framework = "Foundational umbrella concept consolidating the seven Aquarian-age program elements; substantively load-bearing for broader corpus eschatological-cosmological architecture"
-contingent_implementation = "Not immediate institutional change but directional orientation across centuries; long-term socio-political-cultural reorganization implementing the program at planetary civilizational scale"
+type = "라엘의 포괄 개념. 1973년 12월 접촉 중 야훼가 보릴롱에게 전한 일곱 가지 주요 정치·종교·문화 지침"
+principal_source = "*The Book Which Tells the Truth*(보릴롱, 1974), 제6장. *Extra-Terrestrials Took Me to Their Planet*(보릴롱, 1975), 'The Keys' 절. *Let Us Welcome the Extra-Terrestrials*(보릴롱, 1979). *Message from the Designers*(2005)에서 통합"
+the_seven_commandments = "(1) 천재정치 — 정치적 통치; (2) 휴머니타리아니즘 — 재산과 상속; (3) 세계 정부 — 정치적 조정; (4) 비무장화 — 평화; (5) 종교로서의 과학 — 종교·문화; (6) 텔레파시 계발 — 인지적 발달; (7) 형이상학적 해명 — 교리·우주론"
+source_textual_structure = "1974년 원본 제6장: 네 절(Geniocracy, Humanitarianism, World Government, Your Mission)로 이루어지며, Your Mission은 구조적 계명들과 별도로 라엘리안의 제도적 과제를 제시합니다. 일곱 가지 열거는 더 넓은 코퍼스에 충실한 후대의 통합입니다"
+mosaic_decalogue_parallel = "양자리 시대의 모세 십계명(출애굽기 20:1-17, 신명기 5:6-21)과 짝을 이루는 물병자리 시대의 후속 표명. 둘 다 야훼가 전했으며, 개인 윤리적 금지('하지 말라')에서 집단적·문명적 건설('발전시키라')로의 전환입니다"
+distinguished_from = "모세 십계명(양자리 시대의 짝 표명), 라엘리안 사명(1974년 'Your Mission' 절에서 별도로 제시된 제도적 과제), 대사관(특정 건축 요구), 묵시록(문턱의 순간), 황금시대(완전한 시행이 낳고자 하는 삶의 형태)"
+parallel_traditions = "모세 십계명, 성결 법전과 신명기 법전, 산상 설교, 이슬람의 다섯 기둥, 불교의 팔정도와 오계, 힌두교의 푸루샤르타, 유교의 오륜, 플라톤의 *Republic*과 *Laws*, 유토피아 전통(모어, 베이컨, 캄파넬라), 계몽주의·사회주의·민주주의 강령, 세계인권선언(1948), 유엔 지속가능발전목표(2015)"
+status_in_framework = "물병자리 시대의 일곱 프로그램 요소를 모으는 기초적 포괄 개념. 코퍼스의 종말론적·우주론적 구조를 떠받칩니다"
+contingent_implementation = "즉각적인 제도 변화가 아니라 수 세기에 걸쳐 향해 나아갈 방향. 행성 규모의 장기적인 사회·정치·문화 재편"
 +++
 
 **The New Commandments** are, in the Wheel of Heaven framework, the seven

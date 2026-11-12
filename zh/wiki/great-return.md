@@ -6,28 +6,38 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
-redirect_to = { title = "Embassy", path = "/wiki/embassy/" }
+redirect_to = { title = "大使馆", path = "/wiki/embassy/" }
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
 claim_type = "direct"
 timeline = ["aquarius"]
 alternative_names = ["The Return", "Second Coming (in some comparative-religion framings)", "The Arrival", "The Reunification"]
+see_also = [
+    { title = "大使馆", path = "wiki/embassy", description = "人类必须建造、作为回归之首要前提的设施。" },
+    { title = "第三圣殿", path = "wiki/third-temple", description = "透过希伯来圣经的圣殿复兴预言来解读的大使馆。" },
+    { title = "黄金时代", path = "wiki/golden-age", description = "一旦其前提得到满足，抵达所开启的回归后状态。" },
+    { title = "永恒者议会", path = "wiki/council-of-the-eternals", description = "回归代表其正式抵达的耶洛因治理机构。" },
+    { title = "耶稣", path = "wiki/jesus", description = "基督教的再临人物，框架将其解读为表述回归的一种词汇。" },
+    { title = "先知与宗教清单", path = "wiki/list-of-prophets-and-religions", description = "框架解读为预示同一事件的跨传统末世人物。" },
+    { title = "哈姆雷特的磨坊", path = "wiki/hamlets-mill", description = "其被废黜、“终将归来的黄金时代之主”被文集与回归并读的比较研究。" },
+    { title = "碾磨诸纪元的磨坊", path = "articles/the-mill-that-grinds-the-ages", description = "醒来的沉睡君王——萨图恩、克洛诺斯、永恒之王——被解读为回归的岁差形态。" },
+]
 
 [extra.infobox]
-type = "Anticipated official arrival of the Elohim on Earth; the framework's culminating eschatological event"
-designation_origin = "Specifically named in the December 13, 1997 \"Message of the Elohim\" preserved in *Intelligent Design: Messages from the Designers*"
-preconditions = "(1) Humanity's genuine desire for the arrival; (2) demonstration of unification and wisdom to receive advanced knowledge responsibly; (3) construction of the Embassy (\"Third Temple\") on neutral territory; (4) safety guarantee from human military forces"
-knowledge_transfer = "Approximately 25,000 years of scientific knowledge, equivalent to the gap between current human technological capability and the Elohim's"
-embassy_location = "Initially proposed in Israel (preferably Jerusalem area), with seven formal land requests denied by Israeli authorities between approximately 1990 and 2015; on August 6, 2015, the Vorilhon-mediated message declared the Elohim's protection of Israel withdrawn; subsequent proposals have involved Palestinian Authority territories and other locations"
-comparative_eschatology = "Connected by the framework to the Jewish Mashiach, Christian Parousia, Islamic Mahdi and return of Isa, Buddhist Maitreya, Hindu Kalki, Zoroastrian Saoshyant, Taoist Li Hong, and the broader cross-cultural eschatological-savior expectation pattern"
-chronological_placement = "The framework places the Great Return in the Age of Aquarius (post-2,160 CE on the broader reckoning), with the contemporary period (early 21st century CE) as the substantive transitional phase; the specific timing is treated as contingent on the satisfaction of the preconditions"
-primary_sources = "Vorilhon, *Le Livre qui dit la vérité* (1974); *Les extra-terrestres m'ont emmené sur leur planète* (1976); the Messages collection, particularly the December 13, 1997 message; the broader Raëlian Movement publication record"
-framework_significance = "The culminating event of the entire corpus interpretive framework; the substantive teleological orientation of the Elohim project on Earth; the inauguration of the broader Golden Age / Age of Aquarius proper"
+type = "预期中耶洛因正式抵达地球；本框架的终极末世事件"
+designation_origin = "在保存于《智能设计：来自设计者的讯息》中的 1997 年 12 月 13 日「耶洛因的讯息」里被明确命名"
+preconditions = "(1) 人类真诚希望他们到来；(2) 展现出团结与智慧，以负责任地接受先进知识；(3) 在中立领土上建造大使馆（「第三圣殿」）；(4) 人类军事力量提供安全保证"
+knowledge_transfer = "约 25,000 年的科学知识，相当于当前人类技术能力与耶洛因之间的差距"
+embassy_location = "最初提议设在以色列（最好是耶路撒冷一带），约 1990 年至 2015 年间以色列当局七次拒绝了正式的用地请求；2015 年 8 月 6 日，经沃里隆传达的讯息宣布撤回耶洛因对以色列的保护；此后的提议涉及巴勒斯坦权力机构的领土及其他地点"
+comparative_eschatology = "文集将其与犹太教的弥赛亚、基督教的再临（Parousia）、伊斯兰教的马赫迪与尔撒归来、佛教的弥勒、印度教的迦尔吉、琐罗亚斯德教的索什扬特、道教的李弘以及更广的跨文化末世救主模式作相似性的比较"
+chronological_placement = "本框架将大归来置于水瓶座时代，以当代（公元 21 世纪初）为过渡阶段；其时间被视为取决于前提条件，而非固定日期"
+primary_sources = "沃里隆，*Le Livre qui dit la vérité*（1974）；*Les extra-terrestres m'ont emmené sur leur planète*（1976）；讯息汇编，尤其是 1997 年 12 月 13 日的讯息；更广的雷尔运动出版记录"
+framework_significance = "文集框架的顶点事件；耶洛因地球计划所指向的时刻；黄金时代的开端"
 +++
 
 **The Great Return** is the Wheel of Heaven framework's name for the anticipated

@@ -6,19 +6,28 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Cosmic Roles"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["נָבִיא", "navi", "προφήτης", "prophētēs", "نبي", "nabī", "messenger", "seer"]
+alternative_names = ["נָבִיא", "navi", "προφήτης", "prophētēs", "نبي", "nabī", "使者", "先見"]
 portrait_id = "prophetic-lineage"
 image = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/prophetic-lineage.avif"
-image_alt = "AI-generated editorial group portrait of the prophetic lineage, with figures from multiple eras arranged around a luminous axis."
-image_caption = "Interpretive portrait for the Prophet wiki entry and cross-tradition metadata."
+image_alt = "AI 生成的編輯用群像：先知世系，來自多個時代的人物環繞一道發光的軸線排列。"
+image_caption = "為先知百科條目及跨傳統元資料所作的詮釋性肖像。"
+see_also = [
+    { title = "耶和華", path = "wiki/yahweh", description = "先知制度作為其對話者所服務的耶洛因人物。" },
+    { title = "亞當與夏娃", path = "wiki/adam-and-eve", description = "在伊甸之後的時期開啟先知名單的譜系。" },
+    { title = "挪亞", path = "wiki/noah", description = "文集討論為先知候選人的一位大洪水前人物;正典並未將他列於先知之中。" },
+    { title = "亞伯拉罕", path = "wiki/abraham", description = "在此制度所推動的累積性預備中的一位族長先知。" },
+    { title = "摩西", path = "wiki/moses", description = "中介接觸機制中的一位重要希伯來先知。" },
+    { title = "耶穌", path = "wiki/jesus", description = "先知傳承中兩位雙魚座時代先知之一。" },
+    { title = "四十把椅子", path = "articles/the-forty-chairs", description = "正典點名了大約四十位入座先知中的五位;此解說文建立了判定還有誰在席的工具。" },
+]
 +++
 
 **Prophet** (Greek: *προφήτης*, *prophētēs*, "one who speaks for"; Hebrew: <span class="hebrew">נָבִיא</span>, *navi*, "one who is called" or "one who proclaims"; Arabic: <span class="hebrew">نبي</span>, *nabī*; Latin: *propheta*) is a human figure who, in the religious traditions of Judaism, Christianity, Islam, and many other systems, serves as a mediator between the divine and the human, receiving communications from the divine and transmitting them to a human audience. The role is universal across the major religious traditions, though its specific shape — the manner of communication, the social position of the prophet, the content of the messages, the relationship to institutional religion — varies substantially across traditions and across periods within traditions. In the Hebrew Bible alone, the prophetic literature occupies a substantial portion of the canon, with the Major and Minor Prophets together comprising fifteen named figures whose oracles, narratives, and visions structure much of the second division of the Tanakh.

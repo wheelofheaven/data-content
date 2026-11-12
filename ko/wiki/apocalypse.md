@@ -6,15 +6,27 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Revelation", "ἀποκάλυψις", "Age of Apocalypse", "Age of Revelation"]
+alternative_names = ["계시", "ἀποκάλυψις", "묵시의 시대", "계시의 시대"]
 timeline = ["aquarius"]
+see_also = [
+    { title = "거시생물학", path = "wiki/macrobiology", description = "유기체로서의 인류를 다루는 생물학으로, 이 분과에서 1945년은 행성 신경계가 켜진 시점입니다." },
+    { title = "황금시대", path = "wiki/golden-age", description = "전환을 무사히 통과하고 나면 묵시록이 열어 주는 문명적 귀결." },
+    { title = "예언자", path = "wiki/prophet", description = "묵시록이 그 누적된 작업을 완성으로 이끄는 전통." },
+    { title = "대사관", path = "wiki/embassy", description = "이 시기에 실행 가능해진, 계획된 공개적 귀환." },
+    { title = "엘로힘", path = "wiki/elohim", description = "묵시록 속에서 그 내용이 직접 평가할 수 있게 되는 동맹." },
+    { title = "라엘", path = "wiki/rael", description = "묵시록의 프레임워크 내용이 그를 통해 전달된 예언자." },
+    { title = "원년에 깨어난 두루마리들", path = "articles/the-scrolls-that-woke-in-year-one", description = "시대 달력의 원년에 모습을 드러낸 사해 두루마리 — 드러냄을 그 사본 발견과 맞대어 읽습니다." },
+    { title = "원년에 봉인이 풀리다", path = "articles/unsealed-in-year-one", description = "같은 발견에 대한 짝을 이루는 독해 — 봉인된 다니엘의 책이 열리고, 두루마리의 내용이 이 시대에 무엇을 말하는가." },
+    { title = "인류의 형상", path = "articles/the-shape-of-humanity", description = "1945년을 행성 유기체의 신경계가 스스로를 끝낼 힘과 함께 켜진 순간으로 읽는 해설." },
+    { title = "카를 융", path = "wiki/carl-jung", description = "융의 『아이온』과, 이제 끝나 가는 물고기자리 시대에 대한 두 물고기 독해." },
+]
 +++
 
 **Apocalypse** (Greek: *ἀποκάλυψις*, *apokalypsis*) is, in its plain Greek meaning, an *uncovering* or *unveiling* — the disclosure of what was previously concealed. The English word entered medieval and early-modern usage through the Latin *apocalypsis* and the Vulgate's title for the New Testament's Book of Revelation (*Apocalypsis Iohannis*, "the Unveiling of John"). Across the medieval and early-modern centuries, the term acquired a secondary set of connotations — catastrophic destruction, end-of-the-world judgment, eschatological cataclysm — that the original Greek does not carry and that have come to dominate popular English usage. The two senses are now substantially distinct in contemporary English: the popular *apocalypse* names a destructive end; the technical *apocalypse* names a revelation of hidden truth.

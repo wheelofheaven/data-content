@@ -6,26 +6,35 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Biglino Method", "Metodo Biglino (Italian)", "the 'let's pretend it's true' method", "the naked-Bible method"]
+alternative_names = ["비글리노 방법", "Metodo Biglino (이탈리아어)", "'사실이라고 가정해 보자' 방법", "벌거벗은 성경 방법"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "마우로 비글리노", path = "wiki/mauro-biglino", description = "이 방법의 이름의 주인이며, 그 독해 실천을 이 방법이 체계화한 이탈리아 번역가." },
+    { title = "장 상디", path = "wiki/jean-sendy", description = "비글리노보다 40년 앞서 같은 슐리만-호메로스 문자적 독해 원칙을 표명했습니다." },
+    { title = "히브리어 성경", path = "wiki/hebrew-bible", description = "이 방법이 물려받은 신학적 틀을 벗겨 내고 원어로 문자 그대로 읽는 텍스트." },
+    { title = "어원학적 독해 목록", path = "wiki/list-of-etymological-readings", description = "이 방법을 용어 하나하나에 적용하여 히브리어 용어를 직접 읽는 코퍼스의 목록." },
+    { title = "신(新)에우헤메리즘", path = "wiki/neo-euhemerism", description = "이 방법이 봉사하는, 신화를 압축된 역사로 다루는 더 넓은 해석적 입장." },
+    { title = "고대 우주비행사 가설", path = "wiki/ancient-astronaut-hypothesis", description = "이 방법의 산출물이 그 문자적 독해의 결론에 이바지하는 더 넓은 분야." },
+    { title = "성경을 달에 건 남자", path = "articles/the-man-who-bet-the-bible-on-the-moon", description = "장 상디는 비글리노보다 40년 앞서 슐리만-호메로스 원칙을 진술했습니다 — 전체 연구." },
+]
 
 [extra.infobox]
-type = "Hermeneutic methodology for reading the Hebrew Bible; principal contemporary articulation of the Schliemann-Sendy literal-reading tradition"
-developer = "Mauro Biglino (1950–), Italian translator and scholar; translator of seventeen books of the Hebrew Bible for Edizioni San Paolo (Pauline Editions, Vatican-affiliated Catholic publisher) across more than a decade; independent author from 2010 onward"
-principal_source = "*Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011); *The Naked Bible* (with Giorgio Cattaneo, English edition 2022) for the explicit methodological articulation"
-methodology = "Three steps: (1) obtain familiarity with the original Hebrew text; (2) set aside accumulated traditional interpretation; (3) read the text literally, taking words in their concrete sense"
-slogan = "'Pretend that the Bible is simply telling the truth' — Biglino's principal methodological formulation"
-methodological_precedent = "Heinrich Schliemann's literal reading of the Homeric epics, leading to the identification and excavation of Troy (1870s); explicitly invoked by Jean Sendy in *Ces dieux qui firent le ciel et la terre* (1969) as the model for Bible reading approximately four decades before Biglino's independent articulation"
-distinguished_from = "Mainstream historical-critical method (which treats the text as composite and seeks original source-strata); confessional theological exegesis (which reads through inherited theological framework); allegorical exegesis (which reads literal narrative as cipher for theological content)"
-corpus_position = "Necessary but insufficient: the corpus accepts the literal-reading principle and applies it to Hebrew terms and narratives, while integrating Biglino's commitments with the broader Hamlet's Mill precessional framework, Vorilhon source-textual primacy, cross-cultural comparative engagement, and disciplined epistemic-pluralism methodology"
-status_in_framework = "Principal contemporary methodological articulation engaging Hebrew Bible directly; one component of the broader corpus hermeneutic alongside Sendy's framework, the Vorilhon revelation, and the Hamlet's Mill integration"
+type = "히브리어 성경을 읽는 해석학적 방법론; 슐리만-상디 문자적 독법 전통의 대표적인 현대적 표현"
+developer = "마우로 비글리노(1950–), 이탈리아의 번역가이자 학자; 10년 넘게 에디치오니 산 파올로(바티칸과 연계된 가톨릭 출판사인 바오로 출판사)를 위해 히브리어 성경 열일곱 권을 번역; 2010년부터 독립 저술가"
+principal_source = "*Il libro che cambierà per sempre le nostre idee sulla Bibbia*(2011); 명시적인 방법론적 표현으로는 *The Naked Bible*(조르조 카타네오와 공저, 영어판 2022)"
+methodology = "세 단계: (1) 히브리어 원문에 익숙해진다; (2) 누적된 전통적 해석을 제쳐 둔다; (3) 낱말을 구체적인 의미로 받아들이며 본문을 문자적으로 읽는다"
+slogan = "'성경이 그저 진실을 말하고 있다고 가정하라' — 비글리노의 대표적인 방법론적 정식"
+methodological_precedent = "호메로스 서사시를 문자적으로 읽어 트로이를 비정하고 발굴한 하인리히 슐리만(1870년대); 비글리노가 독자적으로 표현하기 약 40년 전, 장 상디가 *Ces dieux qui firent le ciel et la terre*(1969)에서 성경 읽기의 모델로 명시적으로 원용함"
+distinguished_from = "주류 역사비평 방법(본문을 복합적인 것으로 보고 본래의 자료층을 찾음); 고백적 신학 주석(물려받은 신학적 틀을 통해 읽음); 우의적 주석(문자적 서사를 신학적 내용의 암호로 읽음)"
+corpus_position = "필요하지만 충분하지는 않음: 코퍼스는 문자적 독법의 원칙을 받아들여 히브리어 용어와 서사에 적용하는 한편, 비글리노의 입장을 *햄릿의 맷돌*의 더 넓은 세차 틀, 보릴롱 원전 텍스트의 우선성, 문화 횡단적 비교 연구, 절제된 인식론적 다원주의 방법론과 통합함"
+status_in_framework = "히브리어 성경을 직접 다루는 대표적인 현대 방법론적 표현; 상디의 틀, 보릴롱의 계시, *햄릿의 맷돌* 통합과 나란히 하는 더 넓은 코퍼스 해석학의 한 구성 요소"
 +++
 
 The **Biglino Method** is the interpretive methodology developed by Italian translator and scholar **Mauro Biglino** (1950–) for reading the Hebrew Bible. The method consists of three commitments:

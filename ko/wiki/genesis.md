@@ -6,27 +6,36 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["Bereshit", "B'reshit", "First Book of Moses"]
+alternative_names = ["Bereshit", "B'reshit", "모세 제1경"]
+see_also = [
+    { title = "창세기 도구 상자", path = "wiki/genesis-toolbox", description = "창조 기사가 작동 중인 모습으로 묘사하는 과학과 기술을 코퍼스가 모아 놓은 것." },
+    { title = "엘로힘", path = "wiki/elohim", description = "첫째 장이 그들의 작업을 서술하는 복수의 창조자들." },
+    { title = "에덴", path = "wiki/eden", description = "창세기 2–3장에서 최초의 인간들이 놓인 동산." },
+    { title = "아담과 하와", path = "wiki/adam-and-eve", description = "두 번째 창조 기사의 최초의 인간들." },
+    { title = "노아", path = "wiki/noah", description = "대홍수에서 살아남는 창세기 6–9장의 언약 인물." },
+    { title = "대홍수", path = "wiki/great-flood", description = "창세기 6–9장에서 인간 이야기를 리셋하는 대홍수 서사." },
+    { title = "히브리어 성경", path = "wiki/hebrew-bible", description = "창세기가 그 첫머리를 여는 더 넓은 성경 코퍼스." },
+]
 
 [extra.infobox]
 hebrew_title = "בְּרֵאשִׁית"
 transliteration = "Bərēʾšît"
-title_meaning = "In the beginning"
-greek_title = "Γένεσις (Génesis, 'origin')"
-language = "Biblical Hebrew"
-length = "50 chapters; approximately 32,000 words in the Masoretic Text"
-canon_position = "First book of the Torah / Pentateuch; first book of the Hebrew Bible and Christian Old Testament"
-traditional_attribution = "Moses (Mosaic authorship)"
-scholarly_dating = "Compositional layers c. 10th–5th century BCE; final redaction post-exilic"
-principal_witnesses = "Masoretic Text; Septuagint; Samaritan Pentateuch; Dead Sea Scrolls fragments (c. 3rd century BCE – 1st century CE)"
-genre = "Primeval and patriarchal history; theological narrative"
+title_meaning = "태초에"
+greek_title = "Γένεσις (Génesis, '기원')"
+language = "성경 히브리어"
+length = "50장; 마소라 본문으로 약 32,000단어"
+canon_position = "토라 / 오경의 첫 번째 책; 히브리어 성경과 그리스도교 구약의 첫 번째 책"
+traditional_attribution = "모세(모세 저작설)"
+scholarly_dating = "구성 층위는 기원전 약 10~5세기; 최종 편집은 포로기 이후"
+principal_witnesses = "마소라 본문; 칠십인역; 사마리아 오경; 사해 문서 단편(기원전 약 3세기 – 기원후 1세기)"
+genre = "원역사와 족장사; 신학적 서사"
 +++
 
 **Genesis** (Hebrew: <span class="hebrew">בְּרֵאשִׁית</span>, *Bərēʾšît*, "in the beginning"; Greek: *Γένεσις*, *Génesis*, "origin") is the first book of the {% wiki(slug="hebrew-bible") %}Hebrew Bible{% end %} and of the Christian Old Testament. The Hebrew title is taken from the book's opening word; the English title derives from the Greek {% wiki(slug="septuagint") %}Septuagint{% end %} translation, which named the book after its principal subject. Genesis contains two distinct creation accounts (Genesis 1:1–2:3 and Genesis 2:4–25), the primeval history (Genesis 3–11) including the expulsion from Eden, the genealogies of the long-lived patriarchs, the Flood, and the dispersal at Babel, and the patriarchal history (Genesis 12–50) covering Abraham, Isaac, Jacob, and Joseph. The book's fifty chapters span what conventional chronology treats as approximately two thousand years from creation to Joseph's death in Egypt, with the framework's reading treating the same narrative as compressing approximately fifteen thousand years of history.

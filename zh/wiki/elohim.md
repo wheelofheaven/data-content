@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -23,14 +23,20 @@ alternative_names = ["阿努纳奇", "天界者", "造物主", "厄勒", "诸神
 portrait_id = "elohim"
 image = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.webp"
 image_avif = "https://assets.wheelofheaven.world/images/wiki/elohim-collective-v2.avif"
-image_alt = "AI-generated editorial group portrait of the Elohim as long-haired human-like creators in a green-lit council setting."
-image_caption = "Interpretive portrait for the Elohim wiki entry and library personality metadata."
+image_alt = "AI 生成的耶洛因编辑性群像：长发、形似人类的创造者，身处绿光照映的议会场景中。"
+image_caption = "用于耶洛因百科条目及图书馆人物元数据的诠释性肖像。"
 see_also = [
+    { title = "荷马的东面", path = "/articles/the-east-face-of-homer/", description = "凭借两处正典锚点，将希腊解读为耶洛因势力范围内一个行省的解读文章。" },
+    { title = "赫利孔山上的雨", path = "/articles/the-rain-over-helicon/", description = "第三篇希腊解读文章，衡量有据可查的文学传播能够、又不能确立神战传统背后共同所指的哪些内容。" },
+    { title = "阿努纳奇就是耶洛因吗？", path = "articles/anunnaki-and-the-elohim", description = "苏美尔的阿努纳奇是否指称同一批造物者——逐案比较。" },
     { title = "耶和华", path = "wiki/yahweh", description = "首要的耶洛因 — 永恒者议会的主席。" },
     { title = "永恒者议会", path = "wiki/council-of-the-eternals", description = "决定人类受造命运的执政机构。" },
-    { title = "诸神的复数性", path = "wiki/plurality-of-gods", description = "将“耶洛因”视为复数而非尊严单数的语文学论证。" },
+    { title = "众神之多元性", path = "wiki/plurality-of-gods", description = "将“耶洛因”视为复数而非尊严单数的语文学论证。" },
     { title = "雷尔派", path = "wiki/raelism", description = "将耶洛因解读为先进人类文明的当代诠释视角。" },
-    { title = "耶洛因母星", path = "wiki/elohim-home-planet", description = "雷尔在 1975 年访问后所描述的起源行星。" },
+    { title = "耶洛因母行星", path = "wiki/elohim-home-planet", description = "雷尔在 1975 年访问后所描述的起源行星。" },
+    { title = "会吏总与龙", path = "articles/the-archdeacon-and-the-dragon", description = "对创世记 elohim 的复数“大能者”解读，全文论证即建立于其上。" },
+    { title = "在元年苏醒的书卷", path = "articles/the-scrolls-that-woke-in-year-one", description = "4QDeut(j) 的“耶洛因之子”与 11QMelchizedek 的天上“elohim”——在古代库姆兰皮卷上读出的复数。" },
+    { title = "一神论是个错误的问题", path = "articles/monotheism-is-the-wrong-question", description = "为何圣经中单数的“神”可能是一位代表性的 Eloha，而非超自然的绝对者——贯穿偶像论战的复数性解读。" },
 ]
 
 footnotes = [

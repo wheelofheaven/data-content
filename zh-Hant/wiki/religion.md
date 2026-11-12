@@ -6,26 +6,37 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["*religio* (Latin)", "*religare* (Latin verbal root, 'to bind/link')", "the cultivated bond", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
+alternative_names = ["*religio* (Latin)", "*religare* (Latin verbal root, 'to bind/link')", "被培養的連結", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
 timeline = ["multi-age"]
+see_also = [
+    { title = "耶洛因", path = "wiki/elohim", description = "依框架的解讀,宗教所培育之聯結紐帶所指向的創造者文明。" },
+    { title = "新埃烏赫梅羅斯主義", path = "wiki/neo-euhemerism", description = "框架將神話與宗教解碼為真實接觸之記憶的詮釋方法。" },
+    { title = "雷爾派", path = "wiki/raelism", description = "在 religare(聯結)意義上自我定位為無神論宗教的運動。" },
+    { title = "讓·桑迪", path = "wiki/jean-sendy", description = "其「religare 即聯結」的論述先於並奠定文集解讀的作者。" },
+    { title = "先知", path = "wiki/prophet", description = "創造者與受造者之間的聯結藉以週期性更新的使者角色。" },
+    { title = "眾神之多元性", path = "wiki/plurality-of-gods", description = "框架在宗教所保存之傳統背後讀出的複數創造者。" },
+    { title = "希伯來聖經", path = "wiki/hebrew-bible", description = "保存維繫聯結之內容的主要文本傳統之一。" },
+    { title = "眾宗教之宗教", path = "articles/the-religion-of-religions", description = "透過 religare 字源與年輕的普世主義宗教家族,解讀雷爾派「無神論宗教」的自我定義。" },
+    { title = "一神論是個問錯的問題", path = "articles/monotheism-is-the-wrong-question", description = "為何「一神論對多神論」是錯誤的框架——反偶像論戰作為記憶與效忠,而單數是複數創造者的代表。" },
+]
 
 [extra.infobox]
-type = "Foundational concept; the framework's specific definition of religion as the cultivated relationship between humanity and its extraterrestrial creators"
-etymology = "Latin *religio* ('religious obligation, conscientious observance, sanctity'), most plausibly derived from *religare* ('to bind, to tie, to link'); Cicero in *De Natura Deorum* offered the alternative derivation from *relegere* ('to re-read, to consider carefully'); the *religare* etymology is the one the framework operates principally"
-framework_definition = "The cultivated relationship between humanity and the specific civilization (the Elohim) that produced terrestrial life through deliberate scientific work; the bond requiring active cultivation across generations through ritual, instruction, textual preservation, architectural orientation, and broader institutional apparatus"
-distinguished_from = "Mainstream academic religious-studies definitions (Tylor, Durkheim, Eliade, Geertz, Smart, Asad — operating principally through cultural-symbolic-experiential framings); the Marx/Lenin 'opium of the people' tradition (operating principally through ideological-functional critique); the New Atheist tradition (operating principally through cognitive-error and harmful-institutional framings); the perennialist tradition (operating principally through transcendent-unity framings); the various supernatural-theistic traditions (operating principally through divine-revelation framings)"
-principal_source_articulation = "Vorilhon: 'Religion from the Latin religio means \"that which links\" or \"the tie\", which unites the creators to their creation' (*Let Us Welcome the Extra-Terrestrials*, 1979); Sendy: 'La religion vient du latin religare, qui veut dire relier... l'étymologie définit parfaitement l'objet initial des religions : maintenir le lien entre les cieux et la Terre' (*L'ère du Verseau*, 1970)"
-raelian_movement_self_positioning = "An 'atheist religion' — religion in the *religare* sense (cultivated bond between creators and created) while atheist in the technical sense (rejecting supernatural divinity, since the Elohim are biological beings rather than supernatural gods)"
-cross_cultural_pattern = "Priesthood-architecture-ritual complexes operating as link-maintenance institutions across virtually every major civilization: Mesopotamian, Egyptian, Vedic / Hindu, Greek and Roman, Chinese, Mesoamerican, various indigenous traditions"
-status_in_framework = "Foundational concept; the framework's specific definition of what religion IS, supporting the broader integration of revelation, prophetic-tradition, sacred-text, ritual, and architectural-iconographic content across the corpus"
-principal_corpus_treatment = "*Let Us Welcome the Extra-Terrestrials* (Vorilhon, 1979) — principal direct source articulation; *L'ère du Verseau* (Sendy, 1970), particularly the *La Religion* section — substantial pre-Raëlian articulation; *timeline.epub* — substantial subsequent corpus development with Noah's pre-flood community as the original religious community"
+type = "基礎概念；本框架對宗教的定義：人類與其創造者耶洛因之間經過培育的紐帶"
+etymology = "拉丁語 *religio*（「宗教義務、謹慎的遵行、神聖性」），最可能源自 *religare*（「捆綁、繫結、連結」）；西塞羅在 *De Natura Deorum* 中提出另一種詞源，源自 *relegere*（「重讀、仔細思量」）。本框架採用 *religare* 詞源"
+framework_definition = "人類與耶洛因——透過有意的科學工作造出地球生命的文明——之間經過培育的紐帶，藉由儀式、教導、文本保存以及神聖建築的朝向而世代延續"
+distinguished_from = "學術宗教研究的定義（泰勒、涂爾幹、伊利亞德、紀爾茲、斯馬特、阿薩德——文化—象徵—經驗的框架）；馬克思／列寧「人民的鴉片」批判；新無神論的認知錯誤框架；永恆主義的超越性統一框架；超自然有神論的神啟框架"
+principal_source_articulation = "沃里隆：「宗教（religion）源自拉丁語 religio，意為『連結之物』或『紐帶』，將創造者與其創造物聯合起來」（《歡迎外星人》，1979）；桑迪：「l'étymologie définit parfaitement l'objet initial des religions : maintenir le lien entre les cieux et la Terre」（《L'ère du Verseau》，1970）"
+raelian_movement_self_positioning = "一種「無神論宗教」——在 *religare* 意義上是宗教（創造者與被造者之間經過培育的紐帶），在否認超自然神性的意義上是無神論，因為耶洛因是生物性的存在，而非神祇"
+cross_cultural_pattern = "祭司—建築—儀式的複合體，在各主要文明中作為維繫連結的機構而運作：美索不達米亞、埃及、吠陀、希臘羅馬、中國、中美洲，以及薩滿傳統"
+status_in_framework = "基礎概念；本框架對宗教為何物的定義，支撐其在整個語料中對啟示、預言、聖典、儀式與神聖建築的處理"
+principal_corpus_treatment = "《歡迎外星人》（沃里隆，1979）——主要的來源表述；《L'ère du Verseau》（桑迪，1970），尤其是 *La Religion* 一節——雷爾派之前的表述；*timeline.epub*——語料後來的發展，以挪亞洪水前的群體為第一個宗教群體"
 +++
 
 **Religion** (Latin *religio*, most plausibly from *religare*, "to bind, to tie,

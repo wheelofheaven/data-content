@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -15,16 +15,23 @@ category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["Sacred Geometry", "geometric symbolism", "sacred mathematics", "sacred proportion", "divine geometry", "Heilige Geometrie (German)", "géométrie sacrée (French)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus", "age-of-aries", "age-of-pisces", "age-of-aquarius"]
+see_also = [
+    { title = "Raëlianisches Unendlichkeits-Symbol", path = "wiki/raelian-symbol-of-infinity", description = "Die wichtigste geometrisch-symbolische Auseinandersetzung des Korpus, die den Davidstern und die Swastika verbindet." },
+    { title = "Kabbala", path = "wiki/kabbalah", description = "Quelle des Lebensbaums und des Sefirot-Diagramms, einer der wichtigsten heilig-geometrischen Formen." },
+    { title = "Dritter Tempel", path = "wiki/third-temple", description = "Dessen genau proportionierte Spezifikationen das Korpus als von der Allianz übermittelte heilige Geometrie liest." },
+    { title = "Botschaft", path = "wiki/embassy", description = "Die Empfangsresidenz, deren architektonische Spezifikationen den Gehalt des Korpus an heiligen Proportionen tragen." },
+    { title = "Tierkreis", path = "wiki/zodiac", description = "Der präzessional-geometrische Rahmen, den das Korpus neben kulturübergreifenden heiligen Proportionen liest." }
+]
 
 [extra.infobox]
-type = "Body of geometric forms, ratios, and proportions to which religious, cosmological, or metaphysical significance has been attributed across cultures and traditions; designates both documented cross-cultural use of geometric ratios in sacred architecture and interpretive tradition treating geometric forms as carrying inherent metaphysical meaning"
-principal_geometric_forms = "Golden ratio (φ ≈ 1.618); Platonic solids; vesica piscis; Flower of Life; Tree of Life / Sephirot diagram; Sri Yantra; mandala; squared circle; π and √2 / √3 relations; harmonic ratios"
-historical_roots = "Pythagoras (c. 570-495 BCE); Plato (c. 428-348 BCE; *Timaeus*); Vitruvius (c. 80-15 BCE; *De Architectura*); Hermetic tradition; Euclid; medieval scholastic and cathedral-builder traditions; Renaissance revival (Pacioli, Leonardo)"
-modern_revival = "Theosophy (Blavatsky); Anthroposophy (Steiner); Schwaller de Lubicz (Egyptian-symbolic); Robert Lawlor; Keith Critchlow; John Michell; Drunvalo Melchizedek; Leonora Leet; Randall Carlson"
-corpus_position = "Accepts documented cross-cultural use of geometric ratios in sacred architecture as substantively real; accepts cross-cultural religious-symbolic use of specific geometric forms as substantively real; engages broader esoteric Sacred Geometry tradition at descriptive level without adopting strongest metaphysical-causal claims; articulates specific Vorilhon-source and Sendy-source engagement with geometric-symbolic content"
-principal_corpus_engagement = "Raëlian Symbol of Infinity (Star of David + swastika); Tabernacle and Ark of the Covenant precise-proportional specifications; Sendy's analysis of Plato's *Timaeus* 35b numerical-geometric content; broader cross-cultural geometric-symbolic content as alliance-transmitted religious-cultural material"
-distinguished_from = "Pure mathematics (geometric content engaged without religious-cosmological commitment); architecture (geometric content engaged for structural and aesthetic purposes); decorative geometric art (geometric content engaged for ornamental purposes without religious-cosmological framework); the strongest 'consciousness-affecting geometry' claims (which the corpus engages descriptively without adopting)"
-status_in_framework = "Substantive corpus engagement at multiple registers; the documented cross-cultural pattern is treated as real evidence; the alliance-transmission framework provides one explanatory framework alongside common-cognitive-structure and diffusion explanations"
+type = "Gesamtheit geometrischer Formen, Verhältnisse und Proportionen, denen kulturübergreifend religiöse, kosmologische oder metaphysische Bedeutung beigemessen wird; umfasst sowohl den belegten kulturübergreifenden Gebrauch geometrischer Verhältnisse in sakraler Architektur als auch die Deutungstradition, die diesen Formen eine innewohnende Bedeutung zuschreibt"
+principal_geometric_forms = "Goldener Schnitt (φ ≈ 1,618); platonische Körper; Vesica piscis; Blume des Lebens; Baum des Lebens / Sephiroth-Diagramm; Sri Yantra; Mandala; Quadratur des Kreises; Beziehungen von π und √2 / √3; harmonische Verhältnisse"
+historical_roots = "Pythagoras (ca. 570–495 v. Chr.); Platon (ca. 428–348 v. Chr.; *Timaios*); Vitruv (ca. 80–15 v. Chr.; *De Architectura*); hermetische Tradition; Euklid; mittelalterliche Scholastik und Traditionen der Kathedralbauer; Wiederbelebung in der Renaissance (Pacioli, Leonardo)"
+modern_revival = "Theosophie (Blavatsky); Anthroposophie (Steiner); Schwaller de Lubicz (ägyptisch-symbolisch); Robert Lawlor; Keith Critchlow; John Michell; Drunvalo Melchizedek; Leonora Leet; Randall Carlson"
+corpus_position = "Akzeptiert den belegten kulturübergreifenden Gebrauch geometrischer Verhältnisse in sakraler Architektur und den religiös-symbolischen Gebrauch bestimmter Formen; behandelt die esoterische Tradition der Heiligen Geometrie deskriptiv, ohne ihre stärksten metaphysisch-kausalen Behauptungen zu übernehmen; liest bestimmte, von der Allianz übermittelte geometrische Inhalte anhand der Quellen von Vorilhon und Sendy"
+principal_corpus_engagement = "Raëlianisches Unendlichkeits-Symbol (Davidstern + Swastika); proportionale Vorgaben für Stiftshütte und Bundeslade; Sendys Analyse des numerisch-geometrischen Gehalts von Platons *Timaios* 35b; kulturübergreifende geometrisch-symbolische Inhalte, gelesen als Teil der gelehrten Tradition"
+distinguished_from = "Reine Mathematik (geometrischer Gehalt ohne religiöse Bindung); Architektur (struktureller und ästhetischer Gebrauch); dekorative geometrische Kunst (Ornament ohne religiösen Rahmen); die stärksten Behauptungen einer „bewusstseinsverändernden Geometrie“ (deskriptiv behandelt, nicht übernommen)"
+status_in_framework = "Auf mehreren Ebenen behandelt; das belegte kulturübergreifende Muster wird als real betrachtet; die Lesart der Übermittlung durch die Allianz wird als ein vorsichtig formulierter Erklärungsrahmen neben gemeinsamer Kognition und Diffusion angeboten, nicht als gesicherte Tatsache"
 +++
 
 **Sacred Geometry** is the body of geometric forms, ratios, and proportions to

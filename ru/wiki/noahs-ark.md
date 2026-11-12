@@ -6,28 +6,34 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["Noah's Ark", "the ark of Noah", "תֵּבַת נֹחַ (Hebrew tevat Noaḥ)", "the preservation vessel", "the orbital spacecraft (corpus reading)", "كَشْتِيُّ نُوحٍ (Arabic safīnat Nūḥ)"]
+alternative_names = ["Ноев Ковчег", "ковчег Ноя", "תֵּבַת נֹחַ (ивр. tevat Noaḥ)", "the preservation vessel", "the orbital spacecraft (corpus reading)", "كَشْتِيُّ نُوحٍ (Arabic safīnat Nūḥ)"]
 timeline = ["age-of-cancer", "age-of-gemini"]
+see_also = [
+    { title = "Ной", path = "wiki/noah", description = "Человек эдемской линии, координировавший операцию сохранения на ковчеге." },
+    { title = "Великий потоп", path = "wiki/great-flood", description = "Катаклизм эпохи Близнецов, против которого был построен ковчег." },
+    { title = "Люцифер", path = "wiki/lucifer", description = "Фракция изгнанных создателей, под руководством которой был построен ковчег." },
+    { title = "Завет с Ноем", path = "wiki/noahic-covenant", description = "Послепотопное соглашение, оформившее сохранение, осуществлённое ковчегом." },
+    { title = "Ковчег Завета", path = "wiki/ark-of-the-covenant", description = "Более поздний сундук арон, с которым английское слово «ark» смешивает тевах." },
+    { title = "Раэль", path = "wiki/rael", description = "Получатель исходного рассказа, читающего ковчег как экранированный аппарат для сохранения." },
+]
 
 [extra.infobox]
-type = "Cancer-Gemini-age preservation event; orbital spacecraft constructed under exiled-creator technical direction, crewed by Noah's family"
-hebrew_term = "תֵּבָה (tevah, 'sealed vessel/container'); distinct from אֲרוֹן (aron) used for Ark of the Covenant"
-biblical_location = "Genesis 6:14-9:18 (principal narrative); subsequent references in Matthew 24:38, Luke 17:27, Hebrews 11:7, 1 Peter 3:20, 2 Peter 2:5"
-biblical_dating = "Cancer-Gemini boundary in corpus chronology (c. 6,690 BCE); mainstream conservative-evangelical Christian chronology places construction c. 2300-3000 BCE per Ussher-and-Septuagint frames"
-principal_source = "*The Book Which Tells the Truth* (Vorilhon, 1974), 'The Truth' chapter, 'The Flood' section; consolidated *Message from the Designers* (2005); *timeline.epub* — substantive corpus engagement principally in Age of Gemini chapter, Sections V-VII"
-core_corpus_articulation = "Orbital spacecraft constructed under exiled-creator technical direction across centuries-long preparation period; crewed by Noah's family (eight humans) and carrying genetic-preservation cargo (single living cells per species) plus living specimens; preserved life through Council-ordered nuclear-missile cataclysm"
-architectural_specifications = "Hebrew *tevah* (sealed vessel) with three stories (Genesis 6:16); gopher wood construction with pitch coating (Genesis 6:14); 300×50×30-cubit dimensions (Genesis 6:15); single window and single door"
-cargo_specification = "Genetic-archive content (single living cells per species, male and female) plus living specimens of certain preserved species; eight human crew (Noah, his wife, Shem-Ham-Japheth, their wives); possible representatives from all seven post-flood lineages"
-operational_sequence = "Construction (centuries-long, on Earth's surface under Council observation); loading (genetic-cargo and living-specimen loading); launch (lifted off surface before/during initial weapon impacts); 150-day orbital phase (during radioactive-decay period); post-flood remediation (exiled creators 'monitored the level of radioactivity and dispersed it scientifically'); atmospheric monitoring (bird-release reconnaissance); landing (on Mount Ararat in biblical tradition)"
-distinguished_from = "The Ark of the Covenant (Aries-age sacred-container, Hebrew *aron* not *tevah*); the Tabernacle (Aries-age portable sanctuary); mainstream wooden-boat readings; conservative young-earth literal-global-flood readings; ancient-astronaut alternative spacecraft readings (Sitchin, von Däniken)"
-status_in_framework = "Foundational Cancer-Gemini-age preservation event; principal originary alliance-and-human collaborative engineering project; structural predecessor to subsequent alliance-and-human engineering projects (Babel, Tabernacle, Solomonic Temple, Embassy)"
+type = "Библейское судно; в рамке прочитывается как экранированный аппарат, построенный под руководством изгнанной фракции Люцифера, чтобы сохранить жизнь во время потопа Эпохи Близнецов"
+hebrew_term = "תֵּבָה (tevah, «запечатанный сосуд, ящик»); то же редкое слово использовано для корзины младенца Моисея (Исход 2:3), в отличие от обычного слова для корабля (oniyyah) и от aron Ковчега Завета"
+biblical_location = "Бытие 6:14–9:18 (основное повествование); позднейшие упоминания: Матфея 24:38; Луки 17:27; Евреям 11:7; 1 Петра 3:20; 2 Петра 2:5"
+biblical_dating = "Эпоха Близнецов в хронологии корпуса (ок. 6690 г. до н. э.); традиционные хронологии Бытия относят событие примерно к 2300–3000 гг. до н. э. в системах Ашшера и Септуагинты"
+principal_source = "*Книга, которая говорит правду* (Ворильон, 1974), раздел «Потоп»; сведено в *Послании от Создателей* (2005)"
+specifications = "Дерево гофер, осмолённое смолой (kopher) внутри и снаружи; 300 × 50 × 30 локтей; одно окно и одна дверь; три яруса (Бытие 6:14–16)"
+ark_reading = "Запечатанный экранированный аппарат, «поднявшийся над землёй» (Бытие 7:17); смола прочитывается как экранирование, 150 дней (Бытие 7:24) — как период распада радиоактивных осадков, груз — как генетические образцы, а не пары животных"
+mesopotamian_counterparts = "Судно из тростника и битума у Атра-хасиса и Утнапиштима (Гильгамеш, XI); судно Зиусудры (шумерское «Бытие из Эреду»)"
+distinguished_from = "Общепринятое прочтение как деревянного судна; Ковчег Завета (иврит aron); младоземельные прочтения о буквальном всемирном потопе; альтернативные прочтения в духе древних астронавтов (Ситчин, фон Дэникен)"
 +++
 
 **Noah's Ark** (Hebrew תֵּבָה, *tevah*, a "sealed vessel" or "chest") is the

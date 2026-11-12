@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-08"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -16,15 +16,23 @@ editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
 alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "Bioengineering of life", "Living-systems engineering"]
+see_also = [
+    { title = "ארגז הכלים של הבריאה", path = "wiki/genesis-toolbox", description = "הסינתזה ברמת התוכנית: הנדסת חיים כשלב המרכזי במערך הבריאה של הקנון." },
+    { title = "ביולוגיה סינתטית", path = "wiki/synthetic-biology", description = "האגף השאפתני ביותר של התחום, השם הדיסציפלינרי המקובל למה שהקורפוס מכנה הנדסת חיים." },
+    { title = "הנדסה גנטית", path = "wiki/genetic-engineering", description = "תת־התחום היסודי של קריאה, כתיבה ועריכה תחת מטריית הנדסת החיים." },
+    { title = "גנומיקה סינתטית", path = "wiki/synthetic-genomics", description = "רכיב התכנון והסינתזה ברמת הגנום של היכולת האנושית המתהווה." },
+    { title = "אלוהים", path = "wiki/elohim", description = "הציוויליזציה שהמסגרת קוראת את האנושות כמתקרבת כעת שוב ליכולת תכנון החיים שלה." },
+    { title = "בראשית", path = "wiki/genesis", description = "סיפור הבריאה שהמסגרת קוראת כמתאר את האלוהים מפעילים את אותה יכולת עצמה." },
+]
 
 [extra.infobox]
-type = "Engineering discipline applied to living systems"
-principal_sub_disciplines = "Genetic engineering; synthetic biology; synthetic genomics; xenobiology"
-adjacent_fields = "Bioinformatics; systems biology; metabolic engineering; protein engineering; directed evolution; cell-free biology; biocomputing; tissue engineering"
-key_capability = "Reading, writing, and editing DNA; designing organisms and biological subsystems at the genetic and molecular level"
-foundational_milestones = "First recombinant DNA (Berg, Boyer, Cohen — 1972–73); first commercial recombinant pharmaceutical (Humulin, 1982); first complete genome sequence (1995); first cell with synthetic genome (JCVI-syn1.0, 2010); first minimal synthetic cell (JCVI-syn3.0, 2016); CRISPR–Cas9 (Doudna and Charpentier, 2012); first CRISPR gene therapy approval (Casgevy, 2023)"
-current_status = "Active and rapidly developing scientific and industrial field; capability expanding by orders of magnitude per decade"
-framework_significance = "The contemporary terrestrial development of the capability the source material attributes to the Elohim civilization; on the framework, the most concrete convergence between source-predicted and observed human development in the Aquarian period"
+type = "דיסציפלינה הנדסית המוחלת על מערכות חיות"
+principal_sub_disciplines = "הנדסה גנטית; ביולוגיה סינתטית; גנומיקה סינתטית; קסנוביולוגיה"
+adjacent_fields = "ביואינפורמטיקה; ביולוגיה מערכתית; הנדסה מטבולית; הנדסת חלבונים; אבולוציה מכוונת; ביולוגיה נטולת תאים; ביו־מחשוב; הנדסת רקמות"
+key_capability = "קריאה, כתיבה ועריכה של DNA; תכנון אורגניזמים ותת־מערכות ביולוגיות ברמה הגנטית והמולקולרית"
+foundational_milestones = "ה־DNA הרקומביננטי הראשון (ברג, בויר, כהן — 1972–73); התרופה הרקומביננטית המסחרית הראשונה (הומולין, 1982); ריצוף הגנום השלם הראשון (1995); התא הראשון עם גנום סינתטי (JCVI-syn1.0, 2010); התא הסינתטי המינימלי הראשון (JCVI-syn3.0, 2016); CRISPR–Cas9 (דודנה ושרפנטייה, 2012); האישור הראשון לריפוי גנטי ב־CRISPR (Casgevy, 2023)"
+current_status = "תחום מדעי ותעשייתי פעיל ומתפתח במהירות; היכולת מתרחבת בסדרי גודל בכל עשור"
+framework_significance = "ההתפתחות הארצית העכשווית של היכולת שחומר המקור מייחס לציוויליזציית האלוהים; לפי המסגרת, ההתכנסות המוחשית ביותר בתקופת הדלי בין ההתפתחות האנושית שהמקור חזה לבין זו שנצפתה"
 +++
 
 **Life engineering** is the application of scientific and engineering methods to the deliberate design and construction of living organisms or biological systems with novel functions, characteristics, or capabilities. It is a contemporary scientific and industrial field, in active development since the early 1970s and expanding rapidly across the 2010s and 2020s. The term is used as an umbrella for several closely related disciplines — most prominently *genetic engineering*, *synthetic biology*, *synthetic genomics*, and *xenobiology* — that share the common project of treating living matter as something that can be designed at the molecular level rather than only observed and described.
