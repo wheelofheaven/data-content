@@ -18,7 +18,7 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "framework"
-alternative_names = ["Pangea", "Antediluvian supercontinent", "The pre-deluge landmass", "The one continent"]
+alternative_names = ["Pangea", "Antediluvian supercontinent", "La masa continental antediluviana", "El continente único"]
 see_also = [
     { title = "Edén", path = "wiki/eden", description = "El lugar de la creación situado en esta única masa continental antediluviana." },
     { title = "Antediluviano", path = "wiki/antediluvian", description = "Todo el periodo anterior al diluvio, para el que Pangea sirvió de sustrato geográfico." },

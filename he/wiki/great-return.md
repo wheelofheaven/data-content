@@ -17,7 +17,7 @@ editorial_pass = "2026-05"
 entry_type = "event"
 claim_type = "direct"
 timeline = ["aquarius"]
-alternative_names = ["The Return", "Second Coming (in some comparative-religion framings)", "The Arrival", "The Reunification"]
+alternative_names = ["השיבה", "Second Coming (in some comparative-religion framings)", "ההגעה", "האיחוד מחדש"]
 see_also = [
     { title = "השגרירות", path = "wiki/embassy", description = "המתקן שהאנושות חייבת לבנות כתנאי המוקדם העיקרי לשיבה." },
     { title = "בית המקדש השלישי", path = "wiki/third-temple", description = "השגרירות הנקראת דרך נבואות שיקום המקדש בתנ״ך." },

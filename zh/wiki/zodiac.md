@@ -182,7 +182,7 @@ Mill* (Giorgio de Santillana and Hertha von Dechend, 1969), the study of
 precession encoded in world mythology that the corpus adopts as interpretive
 infrastructure — honestly, as an inferred reading rather than settled
 fact.{{ cite(id="hamlets-mill", text="[1]", title="de Santillana & von Dechend, *Hamlet's Mill* (1969) — precessional content encoded in cross-cultural myth") }}
-Its biblical half draws on **Jean Sendy**, whose *L'ère du Verseau* (1970) reads
+Its biblical half draws on **让·桑迪**, whose *L'ère du Verseau* (1970) reads
 Moses as working through a *religion zodiacale*: aware that the equinox had moved
 from Taurus into Aries, he cast the Golden Calf as a "calf, son of the Bull" —
 the old bull-cult surviving illegitimately into the age of the
@@ -242,7 +242,7 @@ not its claim to read character or foretell events from the stars.
 - [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Genesis](../genesis/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [让·桑迪](/wiki/jean-sendy/)
 
 ## References
 

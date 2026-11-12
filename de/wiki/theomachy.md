@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["Serpentine Rebellion", "the War in Heaven", "the Battle of the Gods", "the First War", "the Cosmic Conflict", "the War of the Serpent", "the Lucifer-Council Conflict"]
+alternative_names = ["Serpentine Rebellion", "der Krieg im Himmel", "die Schlacht der Götter", "der Erste Krieg", "der Kosmische Konflikt", "der Krieg der Schlange", "der Konflikt zwischen Lucifer und dem Rat"]
 timeline = ["cancer", "gemini", "taurus"]
 see_also = [
     { title = "Luzifer", path = "wiki/lucifer", description = "Der Anführer der Fraktion der verbannten Schöpfer, dessen Enthüllung in Eden den Konflikt auslöst." },

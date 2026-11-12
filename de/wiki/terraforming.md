@@ -14,7 +14,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Planetary engineering", "Ecological engineering at planetary scale", "Earth-shaping", "Geoengineering of other worlds"]
+alternative_names = ["Planetary engineering", "Ecological engineering at planetary scale", "Earth-shaping", "Geoengineering anderer Welten"]
 see_also = [
     { title = "Genesis-Werkzeugkasten", path = "wiki/genesis-toolbox", description = "Die Synthese auf Programmebene: Terraforming als eine Phase des vollständigen Schöpfungsstapels, den der Kanon beschreibt." },
     { title = "Genesis", path = "wiki/genesis", description = "Der Text, dessen erste vier Zeitalter der Rahmen als das Terraforming der Erde durch die Elohim liest." },

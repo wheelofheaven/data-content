@@ -16,7 +16,7 @@ editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
-alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "Moses the Lawgiver", "Mosheh Rabbenu (\"Moses our Teacher\")"]
+alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "משה המחוקק", "Mosheh Rabbenu (\"Moses our Teacher\")"]
 see_also = [
     { title = "יהוה", path = "wiki/yahweh", description = "נשיא האלוהים שמאחורי אירועי המגע בסנה הבוער ובסיני." },
     { title = "מועצת הנצחיים", path = "wiki/council-of-the-eternals", description = "הגוף שבו משה מדווח כנוכח לצד הנביאים הקודמים האחרים." },

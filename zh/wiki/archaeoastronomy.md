@@ -243,7 +243,7 @@ archaeoastronomy proper keeps a deliberate distance.
 
 The corpus treats this tradition descriptively and declines to lean on its
 weak points. The framework's precessional-age chronology comes from the Raëlian
-source material and from Jean Sendy's and *Hamlet's Mill*'s readings, not from
+source material and from 让·桑迪's and *Hamlet's Mill*'s readings, not from
 the Orion Correlation or the Sphinx redating; it shares the alternative
 tradition's interest in deep-time astronomical knowledge while grounding its own
 account in the canon rather than in a lost *human* civilization, and it needs
@@ -272,7 +272,7 @@ archaeoastronomy is the field best equipped, one day, to test.
 - [Number of Man](../number-of-man/)
 - [Age of Leo](../../timeline/age-of-leo/)
 - [Age of Aquarius](../../timeline/age-of-aquarius/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [让·桑迪](/wiki/jean-sendy/)
 - [Raël](../rael/)
 - [Message from the Designers](/wiki/message-from-the-designers/)
 

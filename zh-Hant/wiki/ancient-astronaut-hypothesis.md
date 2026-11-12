@@ -50,7 +50,7 @@ The [Wheel of Heaven](../wheel-of-heaven/) framework belongs to this wider famil
 But where much of the field proceeds by speculative interpretation of ancient
 evidence, the corpus grounds its reading in the [Raëlian](../raelism/) canon — the
 contact account [Claude Vorilhon (Raël)](../rael/) reported in 1973 — and in the
-earlier, more disciplined work of [Jean Sendy](/wiki/jean-sendy/); and it is careful
+earlier, more disciplined work of [讓·桑迪](/wiki/jean-sendy/); and it is careful
 to distinguish its own position from the better-known reconstructions of {% wiki(slug="erich-von-daniken") %}Erich von
 Däniken{% end %} and {% wiki(slug="zecharia-sitchin") %}Zecharia Sitchin{% end %}. It should be said plainly at the outset that the
 field as a whole is rejected by mainstream archaeology and the academic study of
@@ -99,7 +99,7 @@ magiciens* (1960) circulated the idea widely; in France, Robert Charroux built a
 popular alternative history on it.
 
 **The 1968–1970 pivot.** Three works published within two years fixed the modern
-shape of the field. Jean Sendy's *Les dieux nous sont nés* (1968) and *Ces dieux
+shape of the field. 讓·桑迪's *Les dieux nous sont nés* (1968) and *Ces dieux
 qui firent le ciel et la terre* (1969) read the Hebrew *Elohim* as a physical,
 plural presence rather than as a transcendent single God. Erich von Däniken's
 *Chariots of the Gods?* (1968) carried a similar thesis to a mass audience and
@@ -153,13 +153,13 @@ tradition, and his identification of the Anunnaki with the biblical [Elohim](../
 is a point the corpus takes seriously even as it rejects the framework he built
 around it.
 
-**Jean Sendy** (1910–1978) is, for Wheel of Heaven, the most consequential figure
+**讓·桑迪** (1910–1978) is, for Wheel of Heaven, the most consequential figure
 in the field's history. A Russian-French translator and writer, Sendy read
 [Genesis](../genesis/) as a compressed historical-cosmological record, mapped its
 "days" onto the precessional ages, and adopted the *Hamlet's Mill* framework early.
 He published *L'Ère du Verseau* ("The Age of Aquarius") in 1970, three years before
 Vorilhon's reported contact. The corpus treats Sendy as its principal pre-Raëlian
-source; his detailed treatment lives in the [Jean Sendy](/wiki/jean-sendy/) entry.
+source; his detailed treatment lives in the [讓·桑迪](/wiki/jean-sendy/) entry.
 
 **Mauro Biglino** and **Paul Anthony Wallis** represent the contemporary textual
 wing described above — the closest of the field's currents, in method, to the
@@ -268,7 +268,7 @@ as exactly that rather than as an established result.
 - [Raëlism](../raelism/)
 - [Raël](../rael/)
 - [Message from the Designers](/wiki/message-from-the-designers/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Forerunners](../forerunners/)
 - [Neo-Euhemerism](../neo-euhemerism/)
 - [The Tradition](../the-tradition/)
@@ -449,7 +449,7 @@ Hancock, Graham. *America Before*. St. Martin's Press, 2019.
 
 "Zecharia Sitchin." *Wikipedia*. <https://en.wikipedia.org/wiki/Zecharia_Sitchin>.
 
-"Jean Sendy." *Wikipedia*. <https://fr.wikipedia.org/wiki/Jean_Sendy>.
+"讓·桑迪." *Wikipedia*. <https://fr.wikipedia.org/wiki/Jean_Sendy>.
 
 "Mauro Biglino." *Wikipedia*. <https://en.wikipedia.org/wiki/Mauro_Biglino>.
 

@@ -12,7 +12,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["government UAP cover-up", "UFO cover-up", "UAP disclosure", "military cover-up of exobiology (earlier designation)", "UAP secrecy", "extraterrestrial contact cover-up"]
+alternative_names = ["government UAP cover-up", "UFO cover-up", "UAP disclosure", "encubrimiento militar de la exobiología (designación anterior)", "UAP secrecy", "extraterrestrial contact cover-up"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
 see_also = [
     { title = "Embajada", path = "wiki/embassy", description = "La resolución del canon a la cuestión de la divulgación mediante el reconocimiento diplomático formal." },

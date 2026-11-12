@@ -179,7 +179,7 @@ Posthumous treatments of Dhorme's archives include:
 - [Genesis](../genesis/)
 - [Raëlism](../raelism/)
 - [Raël](../rael/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Wallis](/wiki/paul-wallis/)
 - [Neo-euhemerism](../neo-euhemerism/) (project topic page)

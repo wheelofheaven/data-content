@@ -18,7 +18,7 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "framework"
-alternative_names = ["Pangea", "Antediluvian supercontinent", "The pre-deluge landmass", "The one continent"]
+alternative_names = ["Pangea", "Antediluvian supercontinent", "Die Landmasse vor der Sintflut", "Der eine Kontinent"]
 see_also = [
     { title = "Eden", path = "wiki/eden", description = "Der Schöpfungsort, gelegen auf dieser einen vorsintflutlichen Landmasse." },
     { title = "Vorsintflutlich", path = "wiki/antediluvian", description = "Die gesamte Periode vor der Sintflut, für die Pangaea als geografische Grundlage diente." },

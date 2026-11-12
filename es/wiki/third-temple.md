@@ -18,7 +18,7 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "direct"
-alternative_names = ["Beit ha-Mikdash ha-Shlishi (Hebrew, \"the Third Holy House\")", "The Embassy (in Raëlian terminology)", "The Residence (in some source-material passages)", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "The Messianic Temple"]
+alternative_names = ["Beit ha-Mikdash ha-Shlishi (hebreo, \"la Tercera Casa Santa\")", "La Embajada (en la terminología raeliana)", "La Residencia (en algunos pasajes del material fuente)", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "El Templo Mesiánico"]
 timeline = ["aquarius"]
 see_also = [
     { title = "Embajada", path = "wiki/embassy", description = "La residencia de recepción especificada por Vorilhon que el marco identifica con el Tercer Templo." },

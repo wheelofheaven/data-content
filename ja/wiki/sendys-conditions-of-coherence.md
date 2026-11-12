@@ -18,7 +18,7 @@ timeline = ["age-of-aquarius"]
 see_also = [
     { title = "ジャン・サンディ", path = "wiki/jean-sendy", description = "『L'Ère du Verseau』(1970年)で五つの条件を述べた著者。" },
     { title = "ビリーノの方法", path = "wiki/biglino-method", description = "サンディが示す「そうでなければならないもの」に対して、読み手が何をなすべきかを定める、対をなす実践の手続き。" },
-    { title = "マウロ・ビグリーノ", path = "wiki/mauro-biglino", description = "コーパスがその三段階の方法をこれらの条件と対にする文献学者。" },
+    { title = "マウロ・ビリーノ", path = "wiki/mauro-biglino", description = "コーパスがその三段階の方法をこれらの条件と対にする文献学者。" },
     { title = "伝統", path = "wiki/the-tradition", description = "サンディの第四の条件が物理的な銀河の接触として捉え直す、伝えられた知識。" },
     { title = "ネオエウヘメリズム", path = "wiki/neo-euhemerism", description = "これらの条件が読み手に、そこへ入るための備えを与える解釈の伝統。" },
     { title = "古代宇宙飛行士仮説", path = "wiki/ancient-astronaut-hypothesis", description = "これらの条件が読解の方法を定める、より広い解釈の伝統。" },

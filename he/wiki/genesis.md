@@ -15,7 +15,7 @@ featured_order = 8
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["Bereshit", "B'reshit", "First Book of Moses"]
+alternative_names = ["Bereshit", "B'reshit", "הספר הראשון של משה"]
 see_also = [
     { title = "ארגז הכלים של הבריאה", path = "wiki/genesis-toolbox", description = "ליקוט הקורפוס של המדע והטכנולוגיה שסיפור הבריאה מתאר בפעולה." },
     { title = "אלוהים", path = "wiki/elohim", description = "היוצרים הרבים שאת מעשיהם מספר הפרק הראשון." },

@@ -220,7 +220,7 @@ corpus treats the figure as the literal fact, and says so plainly.
 - [Council of the Eternals](../council-of-the-eternals/)
 - [Tree of Life](../tree-of-life/)
 - [Theomachy](../theomachy/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](/wiki/paul-wallis/)
 

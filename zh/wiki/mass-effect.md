@@ -167,7 +167,7 @@ The passage establishes that the Mass Effect produces substantial operational co
 
 ### Sendy on time
 
-**Jean Sendy** in his various works (treated more fully in the [Jean Sendy](/wiki/jean-sendy/) entry) develops substantial complementary content on time. The principal Sendy positions warrant treatment for their specific philosophical engagement with the Mass Effect framework.
+**让·桑迪** in his various works (treated more fully in the [让·桑迪](/wiki/jean-sendy/) entry) develops substantial complementary content on time. The principal Sendy positions warrant treatment for their specific philosophical engagement with the Mass Effect framework.
 
 Sendy's specific position is that time is "parasitic to all formulations and equations of physics" and "an arbitrary element." Time has no existence in itself; the notion is subjective and derived from biological and mental organization, projected into the exterior world to create the "irresistible illusion" of an "absolute universal time." Scientific time is conventional, based on physical standards susceptible of being coordinated under different forms in arbitrary ways. The various relativistic formulations that confuse the dimensions of space and time are, on Sendy's reading, "ridiculous" — though Sendy acknowledges that the relativistic framework captures certain genuine empirical phenomena, his broader position is that the time-as-fundamental-dimension treatment of mainstream physics is substantially mistaken.
 
@@ -387,7 +387,7 @@ Mainstream biological scholarship on allometric scaling has produced substantial
 
 ### Sendy on time
 
-**Jean Sendy** developed substantial complementary content on time across his various works. The principal Sendy positions:
+**让·桑迪** developed substantial complementary content on time across his various works. The principal Sendy positions:
 
 - **Time as parasitic to physics**: Sendy treats time as "parasitic to all formulations and equations of physics," "an arbitrary element" without independent existence
 - **The conventional-scientific-time critique**: Sendy treats scientific time as "conventional, based on physical standards susceptible of being coordinated under different forms in arbitrary ways"
@@ -491,7 +491,7 @@ The corpus does not require rejecting all of the mainstream scholarly framework.
 - [Raëlism](../raelism/)
 - [Council of the Eternals](../council-of-the-eternals/)
 - [Tree of Life](../tree-of-life/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [让·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](/wiki/paul-wallis/)
 

@@ -225,7 +225,7 @@ offered for the reader to weigh, not as established fact.
 - [Prophet](../prophet/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [让·桑迪](/wiki/jean-sendy/)
 - [Message from the Designers](/wiki/message-from-the-designers/)
 - [World Age](../world-age/)
 - [Doubled Signature](../doubled-signature/)

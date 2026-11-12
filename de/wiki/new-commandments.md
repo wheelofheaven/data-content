@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Commandments (proper-noun framework concept)", "the Aquarian-age program", "the seven commandments", "the Raëlian socio-political-religious doctrine"]
+alternative_names = ["the New Commandments (proper-noun framework concept)", "das Programm des Wassermann-Zeitalters", "die sieben Gebote", "die raëlianische sozio-politisch-religiöse Lehre"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "Mose", path = "wiki/moses", description = "Mittler des gepaarten Dekalogs des Widder-Zeitalters, auf den diese Gebote für das Wassermann-Zeitalter folgen." },

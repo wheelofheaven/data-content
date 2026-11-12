@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "the Holy Tongue", "Biblical Hebrew", "Classical Hebrew"]
+alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "לשון הקודש", "Biblical Hebrew", "Classical Hebrew"]
 see_also = [
     { title = "המקרא העברי", path = "wiki/hebrew-bible", description = "הקורפוס העיקרי שנשמר בשפה זו ונקרא לשם תוכן המסגרת." },
     { title = "בראשית", path = "wiki/genesis", description = "סיפור הבריאה שנוסחו העברי נקרא בקורפוס באופן מעשי." },

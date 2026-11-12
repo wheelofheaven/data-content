@@ -13,7 +13,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Biglino Method", "Metodo Biglino (Italian)", "the 'let's pretend it's true' method", "the naked-Bible method"]
+alternative_names = ["Biglino Method", "Metodo Biglino (Italian)", "die Methode 'tun wir so, als wäre es wahr'", "die Methode der nackten Bibel"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "Mauro Biglino", path = "wiki/mauro-biglino", description = "Der italienische Übersetzer, nach dessen Lesepraxis die Methode benannt ist und die sie festschreibt." },

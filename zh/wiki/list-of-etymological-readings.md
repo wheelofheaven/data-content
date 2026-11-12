@@ -69,7 +69,7 @@ The framework reads the literal meanings of source-language terms — recovered 
 
 The framework's etymological work draws from a specific lineage within the broader neo-euhemerist tradition.
 
-**Jean Sendy** (1968–1972) provides the philological-historiographic foundation. Sendy's *La Lune, clé de la Bible* (1968) was the first modern work to apply careful philological method to the Hebrew Bible specifically in the service of a neo-euhemerist reading. Sendy is meticulous about the distinction between literal philological meaning and subsequent theological interpretation, and his work establishes the methodological principle that the framework's readings should be grounded in the source-language texts as they actually read rather than in their theological reception.
+**让·桑迪** (1968–1972) provides the philological-historiographic foundation. Sendy's *La Lune, clé de la Bible* (1968) was the first modern work to apply careful philological method to the Hebrew Bible specifically in the service of a neo-euhemerist reading. Sendy is meticulous about the distinction between literal philological meaning and subsequent theological interpretation, and his work establishes the methodological principle that the framework's readings should be grounded in the source-language texts as they actually read rather than in their theological reception.
 
 **Mauro Biglino** (2012 onward) provides the strictest contemporary Hebrew philology within the neo-euhemerist tradition. Biglino's background as a translator working on official Catholic Church publications gives him direct working familiarity with the Hebrew Bible's source-language details, and his independent publications since 2012 develop a rigorous philological method that reads Hebrew terms for their literal meaning without theological overlay. Biglino's specific contributions include detailed treatments of *Elohim* as plural, *Yahweh* as a specific individual rather than the abstract divine, *kavod* as preserving operational content about an observable presence, and many other specific philological readings.
 
@@ -269,7 +269,7 @@ The catalogue surfaces several open questions of method and substance.
 - [Satan](../satan/)
 - [Kabbalah](../kabbalah/)
 - [Raëlism](../raelism/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [让·桑迪](/wiki/jean-sendy/)
 - [Raël](../rael/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Wallis](/wiki/paul-wallis/)

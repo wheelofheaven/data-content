@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Symbol of Infinity", "the Raëlian emblem", "the Raëlian movement symbol", "the Elohim emblem"]
+alternative_names = ["das Symbol der Unendlichkeit", "das raëlianische Emblem", "das Symbol der Raëlianischen Bewegung", "das Emblem der Elohim"]
 timeline = ["aquarius"]
 see_also = [
     { title = "Unendlichkeit", path = "wiki/infinity", description = "Der umfassendere Rahmen, den das Emblem zu einer einzigen ikonografischen Form verdichtet." },

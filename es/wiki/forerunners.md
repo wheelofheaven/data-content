@@ -13,7 +13,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["Forerunners", "Forerunner", "prodromos (Greek πρόδρομος, 'one who runs ahead')", "preparator", "way-preparer", "the messenger before"]
+alternative_names = ["Forerunners", "Forerunner", "prodromos (Greek πρόδρομος, 'one who runs ahead')", "preparator", "way-preparer", "el mensajero que precede"]
 timeline = ["age-of-aries", "age-of-pisces", "age-of-aquarius"]
 see_also = [
     { title = "Raël", path = "wiki/rael", description = "La figura inaugural de la era de Acuario cuya recepción prepararon los Precursores de finales de Piscis." },

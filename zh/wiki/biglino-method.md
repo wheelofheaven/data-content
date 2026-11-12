@@ -49,7 +49,7 @@ The method's slogan, drawn from Biglino's collaborative book *The Naked Bible* (
 
 The methodological precedent Biglino acknowledges is **Heinrich Schliemann**'s nineteenth-century approach to the Homeric epics — reading the *Iliad* and *Odyssey* as historically grounded accounts and using the literal reading to identify the geographic location of Troy. Schliemann's excavations at Hisarlık in northwestern Turkey, beginning in 1870, recovered material remains of a city that mainstream classical scholarship had treated as legendary, vindicating the literal-reading principle within classical archaeology.
 
-**Jean Sendy**, in *Ces dieux qui firent le ciel et la terre* (1969), articulated the same Schliemann-Homer parallel for Bible reading approximately four decades before Biglino's independent formulation. Sendy wrote: *"The hypothesis that forms the structure of this book is founded on portions of the Bible, read as Schliemann read Homer."* The corpus methodology operates as a synthesis of Sendy's earlier articulation with Biglino's later development — two figures arriving independently at structurally similar methodological commitments and applying them to similar source material with similar results.
+**让·桑迪**, in *Ces dieux qui firent le ciel et la terre* (1969), articulated the same Schliemann-Homer parallel for Bible reading approximately four decades before Biglino's independent formulation. Sendy wrote: *"The hypothesis that forms the structure of this book is founded on portions of the Bible, read as Schliemann read Homer."* The corpus methodology operates as a synthesis of Sendy's earlier articulation with Biglino's later development — two figures arriving independently at structurally similar methodological commitments and applying them to similar source material with similar results.
 
 The Wheel of Heaven framework engages the Biglino Method as a **necessary but insufficient methodological commitment**:
 
@@ -99,9 +99,9 @@ Schliemann's specific methodology has been substantially criticized in subsequen
 
 ## The Sendy-Biglino methodological genealogy
 
-The methodology Biglino articulates in 2011 and elaborates in *The Naked Bible* in 2022 was articulated by Jean Sendy in 1969, approximately four decades earlier. The genealogical relationship between the two figures' methodological commitments is worth setting out, because Biglino is sometimes presented in popular engagement as the originator of the approach when in fact he is its principal contemporary articulator within a longer tradition.
+The methodology Biglino articulates in 2011 and elaborates in *The Naked Bible* in 2022 was articulated by 让·桑迪 in 1969, approximately four decades earlier. The genealogical relationship between the two figures' methodological commitments is worth setting out, because Biglino is sometimes presented in popular engagement as the originator of the approach when in fact he is its principal contemporary articulator within a longer tradition.
 
-### Jean Sendy's 1969 articulation
+### 让·桑迪's 1969 articulation
 
 In *Ces dieux qui firent le ciel et la terre* (Robert Laffont, 1969; English: *Those Gods Who Made Heaven and Earth*, Berkley, 1972), Sendy writes:
 
@@ -322,7 +322,7 @@ The corpus reads Alter as an important contemporary witness to what direct Hebre
 
 Within the broader Ancient Astronaut Hypothesis tradition (treated systematically in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry), several figures operate with methodologies adjacent to Biglino's:
 
-- **Jean Sendy** — the principal pre-Biglino articulator of the Schliemann-Homer methodology applied to the Hebrew Bible; treated in the [Jean Sendy](/wiki/jean-sendy/) entry
+- **让·桑迪** — the principal pre-Biglino articulator of the Schliemann-Homer methodology applied to the Hebrew Bible; treated in the [让·桑迪](/wiki/jean-sendy/) entry
 - **Paul Anthony Wallis** — Australian author whose *Escaping from Eden* (2020) and *The Scars of Eden* (2021) draw substantially on Biglino's textual observations and extend them through additional cross-cultural comparative material; Wallis is the principal Anglophone popularizer of the Biglino-adjacent approach
 - **Various ancient-astronaut figures** — Erich von Däniken, Zecharia Sitchin, and others have engaged biblical texts but generally without Biglino's depth of direct Hebrew engagement; their work is often methodologically looser than Biglino's
 
@@ -395,7 +395,7 @@ The corpus position registers this debate as live rather than settled. The texts
 - [Wheel of Heaven](../wheel-of-heaven/)
 - [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
 - [Neo-Euhemerism](../neo-euhemerism/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [让·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](/wiki/paul-wallis/)
 - [Hebrew Bible](../hebrew-bible/)
@@ -434,7 +434,7 @@ Biglino, Mauro. *La Bibbia non è un libro sacro*. Uno Editori, 2019.
 
 Biglino, Mauro, and Giorgio Cattaneo. *La Bibbia nuda: La verità sul libro più famoso della storia*. Uno Editori, 2018. English: *The Naked Bible: The Truth About the Most Famous Book in History*. Master Mind, 2022.
 
-### Jean Sendy — methodological precedent
+### 让·桑迪 — methodological precedent
 
 Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
 

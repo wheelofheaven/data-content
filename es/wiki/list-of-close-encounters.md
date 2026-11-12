@@ -14,7 +14,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of pre-modern close encounters", "Pre-1500 UFO and contact-event index", "Catalogue of unexplained aerial phenomena (antiquity through 1499 CE)"]
+alternative_names = ["Catálogo de encuentros cercanos premodernos", "Índice de ovnis y eventos de contacto anteriores a 1500", "Catálogo de fenómenos aéreos inexplicados (de la Antigüedad a 1499 d. C.)"]
 see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "La presencia que, según esta lectura, documentan los encuentros catalogados a lo largo del periodo posterior al Edén." },
     { title = "Neo-euhemerismo", path = "wiki/neo-euhemerism", description = "El movimiento interpretativo que aplica la terminología moderna de los encuentros a relatos premodernos." },

@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Commandments (proper-noun framework concept)", "the Aquarian-age program", "the seven commandments", "the Raëlian socio-political-religious doctrine"]
+alternative_names = ["the New Commandments (proper-noun framework concept)", "el programa de la Era de Acuario", "los siete mandamientos", "la doctrina sociopolítico-religiosa raeliana"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "Moisés", path = "wiki/moses", description = "Mediador del Decálogo emparejado de la era de Aries al que suceden estos mandamientos para la era de Acuario." },

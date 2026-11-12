@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Abraham (English)", "Abram (pre-renaming name)", "אַבְרָהָם (Hebrew Avraham)", "אַבְרָם (Hebrew Avram)", "إبراهيم (Arabic Ibrāhīm)", "Ἀβραάμ (Greek Abraám)", "the Patriarch", "Avraham Avinu (Jewish 'Abraham our father')", "Khalīl Allāh (Arabic 'Friend of God')"]
+alternative_names = ["Abraham (English)", "Abram (pre-renaming name)", "אַבְרָהָם (Hebrew Avraham)", "אַבְרָם (Hebrew Avram)", "إبراهيم (Arabic Ibrāhīm)", "Ἀβραάμ (Greek Abraám)", "el Patriarca", "Avraham Avinu (Jewish 'Abraham our father')", "Khalīl Allāh (árabe 'Amigo de Dios')"]
 timeline = ["age-of-taurus", "age-of-aries"]
 see_also = [
     { title = "Pacto Noáquico", path = "wiki/noahic-covenant", description = "La alianza posterior al Diluvio cuyo linaje continúa la alianza abrahámica." },

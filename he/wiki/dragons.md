@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["dinosaurs", "*taninim* (Hebrew plural)", "*tannin* (Hebrew singular)", "great sea creatures (English softened translation)", "*ketos* (Septuagint Greek)", "*cete grandia* (Vulgate Latin)", "sea monsters", "dragons of the deep"]
+alternative_names = ["dinosaurs", "*taninim* (Hebrew plural)", "*tannin* (Hebrew singular)", "great sea creatures (English softened translation)", "*ketos* (Septuagint Greek)", "*cete grandia* (Vulgate Latin)", "sea monsters", "דרקוני התהום"]
 timeline = ["virgo", "leo", "cancer", "gemini"]
 see_also = [
     { title = "הנחש", path = "wiki/serpent", description = "הנחש, שהמונח העברי שלו חופף לתנין בזיהוי הדרקון בשלושה מונחים בישעיהו כז 1." },

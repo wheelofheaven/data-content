@@ -35,7 +35,7 @@ distinguished_from = "主流歷史批判法（有其自身的前提條件——�
 status_in_framework = "本文集在沃里隆之前最主要的方法論遺產；與比利諾方法相配、共同闡明本文集當代主要詮釋學的系統性前提框架；與《哈姆雷特之磨》歲差整合、沃里隆源典文本優先及有紀律的認識論多元並列，為本文集更廣方法論的組成部分之一"
 +++
 
-**Sendy's Conditions of Coherence** is the methodological framework articulated by **Jean Sendy** (1910–1978) in *L'Ère du Verseau* (Robert Laffont, 1970, chapter 18) specifying the five preconditions a reader must satisfy for the Hebrew Bible to appear, in his phrase, *"with the relief and coherence of a hologram."* Sendy's full formulation:
+**Sendy's Conditions of Coherence** is the methodological framework articulated by **讓·桑迪** (1910–1978) in *L'Ère du Verseau* (Robert Laffont, 1970, chapter 18) specifying the five preconditions a reader must satisfy for the Hebrew Bible to appear, in his phrase, *"with the relief and coherence of a hologram."* Sendy's full formulation:
 
 > *"Pour que le texte biblique apparaisse avec le relief et la cohérence d'un hologramme, il y a quatre conditions à remplir : il faut connaître la Bible ; il faut connaître les possibilités et les limitations de la cosmonautique, dans le cadre de la physique d'aujourd'hui ; il faut avoir des notions, élémentaires mais claires et récentes, en matière de biologie, de préhistoire, d'Histoire et d'évolution ; il faut refuser toute 'explication par l'Inexplicable,' c'est-à-dire toute intrusion du surnaturel. Il y a aussi une cinquième condition, implicite : il faut avoir accepté le postulat d'un Univers intelligible pour la raison humaine."*
 
@@ -352,7 +352,7 @@ The early modern European intellectual transformation — the Copernican revolut
 - [Biglino Method](../biglino-method/)
 - [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
 - [Neo-Euhemerism](../neo-euhemerism/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Hamlet's Mill](/wiki/hamlets-mill/)
 - [Hebrew Bible](../hebrew-bible/)
@@ -370,7 +370,7 @@ The early modern European intellectual transformation — the Copernican revolut
 
 ## References
 
-### Jean Sendy — principal source
+### 讓·桑迪 — principal source
 
 Sendy, Jean. *L'Ère du Verseau: fin de l'illusion humaniste*. Robert Laffont, 1970. The five conditions appear in chapter 18, in the section opening *"Pour que le texte biblique apparaisse avec le relief et la cohérence d'un hologramme..."*
 
@@ -438,7 +438,7 @@ The Hebrew Bible. Masoretic Text. Biblia Hebraica Stuttgartensia, 5th edition, D
 
 ### Web resources
 
-"Jean Sendy." *Wikipedia* (French). <https://fr.wikipedia.org/wiki/Jean_Sendy>.
+"讓·桑迪." *Wikipedia* (French). <https://fr.wikipedia.org/wiki/Jean_Sendy>.
 
 "Giordano Bruno." *Wikipedia*. <https://en.wikipedia.org/wiki/Giordano_Bruno>.
 

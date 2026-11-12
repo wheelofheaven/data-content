@@ -18,7 +18,7 @@ timeline = ["multi-age"]
 see_also = [
     { title = "古代宇宙飛行士仮説", path = "wiki/ancient-astronaut-hypothesis", description = "コーパスがその自覚的な一員である、より広い解釈の伝統。ネオエウヘメリズムはその根底にある読解の方法である。" },
     { title = "エロヒム", path = "wiki/elohim", description = "この方法が神性としてではなく歴史上の文明として読む、創世記の人物たち。" },
-    { title = "マウロ・ビグリーノ", path = "wiki/mauro-biglino", description = "ヘブライ語聖書の、厳密な翻訳に基づくネオエウヘメリズム的読解の現代の論者。" },
+    { title = "マウロ・ビリーノ", path = "wiki/mauro-biglino", description = "ヘブライ語聖書の、厳密な翻訳に基づくネオエウヘメリズム的読解の現代の論者。" },
     { title = "伝統", path = "wiki/the-tradition", description = "同じネオエウヘメリズム的読解の上に築かれた、サンディの伝達の枠組み。" },
     { title = "ヘブライ語聖書", path = "wiki/hebrew-bible", description = "この方法がその神の顕現を保存された接触の記憶として読むコーパス。" },
     { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "神話をネオエウヘメリズム的に読みつつ、歳差運動の天文学によってそれを拡張する枠組み。" },

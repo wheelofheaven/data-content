@@ -15,7 +15,7 @@ editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
-alternative_names = ["Eliyyahu", "Eliyahu", "Elias", "Ilyas", "Elijah the Tishbite", "Elijah the Messenger"]
+alternative_names = ["Eliyyahu", "Eliyahu", "Elias", "Ilyas", "Elías el tisbita", "Elías el Mensajero"]
 see_also = [
     { title = "Moisés", path = "wiki/moses", description = "La figura anterior de la teofanía del Horeb cuyo precedente de contacto el relato de Elías evoca deliberadamente." },
     { title = "Ezequiel", path = "wiki/ezekiel", description = "Cuya visión de la merkavá es el único relato de una nave aérea en la Biblia Hebrea más explícito que el carro de Elías." },

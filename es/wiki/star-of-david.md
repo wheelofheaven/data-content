@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["hexagram", "Magen David (מָגֵן דָּוִד, 'Shield of David')", "Solomon's Seal (Seal of Solomon)", "Hindu Shatkona (षट्कोण, 'six-cornered')", "Star of Goliath (older Karaite designation)", "Creator's Star", "Hex Star"]
+alternative_names = ["hexagram", "Magen David (מָגֵן דָּוִד, 'Escudo de David')", "Sello de Salomón (el Sello Salomónico)", "Hindu Shatkona (षट्कोण, 'six-cornered')", "Estrella de Goliat (antigua designación caraíta)", "Creator's Star", "Hex Star"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Símbolo raeliano del Infinito", path = "wiki/raelian-symbol-of-infinity", description = "El emblema compuesto en el que la estrella de David es el componente exterior." },

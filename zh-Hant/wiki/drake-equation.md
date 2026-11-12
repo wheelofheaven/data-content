@@ -100,7 +100,7 @@ are almost as open as they were in 1961. The obstacle here is not a shortage of
 telescopes but a shortage of examples. Earth is the only planet known to have
 produced life, then intelligence, then radio, then a technological civilization
 of measurable duration. From a single instance no fraction can be estimated with
-confidence. This is the methodological limit Jean Sendy named in 1970 (treated in
+confidence. This is the methodological limit 讓·桑迪 named in 1970 (treated in
 [Astrobiology](../astrobiology/) and [Sendy's Conditions of Coherence](../sendys-conditions-of-coherence/)):
 a biology built on one specimen cannot state general laws, and the equation
 inherits that weakness in exactly the terms that matter most.
@@ -239,7 +239,7 @@ record — and both can be right at once.
 - [Mass Effect](../mass-effect/)
 - [Fractal Cosmology](../fractal-cosmology/)
 - [Wheel of Heaven](../wheel-of-heaven/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Raël](../rael/)
 - [Message from the Designers](/wiki/message-from-the-designers/)
 - [Council of the Eternals](../council-of-the-eternals/)

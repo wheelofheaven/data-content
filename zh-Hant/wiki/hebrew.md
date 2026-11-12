@@ -336,9 +336,9 @@ Biglino's specific contributions to Hebrew interpretation include readings of:
 
 Biglino's methodological commitment is to read Hebrew word-for-word and accept what the resulting concrete text actually says, rather than allegorizing it into theological abstraction. The corpus's reading is broadly aligned with Biglino's strict-translational program — the framework's reading of Hebrew vocabulary often coincides with Biglino's specific lexical readings — though the corpus does not depend on Biglino's specific philological judgments and registers some disagreements (notably the framework's adoption of the standard Assyriological reading of Sumerian *EDEN* as "plain/steppe" against Biglino's non-standard "house of the righteous" gloss, treated in the [Eden](../eden/) entry).
 
-### Jean Sendy on Hebrew
+### 讓·桑迪 on Hebrew
 
-**Jean Sendy**'s engagement with Hebrew is developed across his work, with particular concentration in *Ces dieux qui firent le ciel et la terre* (1969) and *Les cahiers de cours de Moïse* (1974). Sendy reads the Hebrew Bible's vocabulary as preserving operational content rather than allegorical theological content, working from comparative-philological analysis without the systematic strict-translation methodology Biglino later developed.
+**讓·桑迪**'s engagement with Hebrew is developed across his work, with particular concentration in *Ces dieux qui firent le ciel et la terre* (1969) and *Les cahiers de cours de Moïse* (1974). Sendy reads the Hebrew Bible's vocabulary as preserving operational content rather than allegorical theological content, working from comparative-philological analysis without the systematic strict-translation methodology Biglino later developed.
 
 Sendy's specific contributions to Hebrew interpretation include readings of the *Elohim* as plural civilization, of the Genesis 1 *yamim* as precessional ages (treated in the [Genesis](../genesis/) entry), of the various manifestations of *kavod* as descriptions of physical alliance technology, and of the broader Hebrew vocabulary as preserving accurate operational memory in religious vocabulary. Sendy's approach is the principal scholarly antecedent of the corpus's adopted reading of Hebrew, predating both Biglino and the Raëlian source material.
 
@@ -440,7 +440,7 @@ The pattern is not universal — many cultural traditions do not develop this ki
 - [Prophet](../prophet/)
 - [Muhammad](../muhammad/)
 - [Qur'an](/wiki/quran/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [*Hamlet's Mill*](/wiki/hamlets-mill/)
 - [Masoretic Text](/wiki/masoretic-text/)

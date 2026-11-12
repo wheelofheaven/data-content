@@ -14,7 +14,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
-alternative_names = ["Genetic modification", "Gene splicing (historical informal usage)", "Recombinant DNA technology (the foundational subdomain)", "Genome editing (the contemporary CRISPR-era subdomain)"]
+alternative_names = ["Genetic modification", "Gene splicing (historical informal usage)", "Tecnología del ADN recombinante (el subdominio fundacional)", "Edición genómica (el subdominio contemporáneo de la era CRISPR)"]
 timeline = ["aquarius"]
 see_also = [
     { title = "Caja de herramientas del Génesis", path = "wiki/genesis-toolbox", description = "La síntesis a nivel de programa que reúne la pila completa de la creación de la que esta disciplina es un componente." },

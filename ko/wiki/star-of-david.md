@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["육각성", "Magen David (מָגֵן דָּוִד, 'Shield of David')", "솔로몬의 인장", "힌두교의 샤트코나(षट्कोण, '여섯 모서리')", "골리앗의 별(예전 카라이파의 명칭)", "창조자의 별", "육각별"]
+alternative_names = ["육각성", "마겐 다비드(מָגֵן דָּוִד, '다윗의 방패')", "솔로몬의 인장", "힌두교의 샤트코나(षट्कोण, '여섯 모서리')", "골리앗의 별(예전 카라이파의 명칭)", "창조자의 별", "육각별"]
 timeline = ["all-ages"]
 see_also = [
     { title = "라엘 운동 무한의 상징", path = "wiki/raelian-symbol-of-infinity", description = "다윗의 별이 바깥 구성 요소를 이루는 복합 문장." },

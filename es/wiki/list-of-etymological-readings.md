@@ -14,7 +14,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of etymological readings", "Framework philology index", "Glossary of source-language readings"]
+alternative_names = ["Catálogo de lecturas etimológicas", "Framework philology index", "Glosario de lecturas en la lengua de origen"]
 see_also = [
     { title = "Lista de lecturas exegéticas", path = "wiki/list-of-exegetic-readings", description = "El catálogo complementario que aborda a qué se refieren los términos, como complemento de este nivel filológico." },
     { title = "Lista de mitemas y motivos mitológicos", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "El tercer catálogo complementario, que aborda patrones narrativos interculturales recurrentes." },

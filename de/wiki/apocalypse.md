@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Revelation", "ἀποκάλυψις", "Age of Apocalypse", "Age of Revelation"]
+alternative_names = ["Revelation", "ἀποκάλυψις", "Zeitalter der Apokalypse", "Zeitalter der Offenbarung"]
 timeline = ["aquarius"]
 see_also = [
     { title = "Makrobiologie", path = "wiki/macrobiology", description = "Die Biologie der Menschheit als Organismus, für die 1945 das Einschalten des planetaren Nervensystems markiert." },

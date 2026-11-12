@@ -14,7 +14,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of megalithic sites", "Ancient megalithic architecture index", "Cyclopean and megalithic construction reference"]
+alternative_names = ["Katalog megalithischer Stätten", "Ancient megalithic architecture index", "Nachschlagewerk zu zyklopischen und megalithischen Bauten"]
 see_also = [
     { title = "Antike Baumeister", path = "wiki/ancient-builders", description = "Der Paareintrag darüber, wer die in diesem Katalog aufgeführten Stätten erbaute." },
     { title = "Archäoastronomie", path = "wiki/archaeoastronomy", description = "Die systematischen astronomischen Ausrichtungen, die an vielen katalogisierten Stätten dokumentiert sind." },

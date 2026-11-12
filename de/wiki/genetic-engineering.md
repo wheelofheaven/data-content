@@ -14,7 +14,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
-alternative_names = ["Genetic modification", "Gene splicing (historical informal usage)", "Recombinant DNA technology (the foundational subdomain)", "Genome editing (the contemporary CRISPR-era subdomain)"]
+alternative_names = ["Genetic modification", "Gene splicing (historical informal usage)", "Rekombinante DNA-Technik (das grundlegende Teilgebiet)", "Genom-Editierung (das heutige Teilgebiet der CRISPR-Ära)"]
 timeline = ["aquarius"]
 see_also = [
     { title = "Genesis-Werkzeugkasten", path = "wiki/genesis-toolbox", description = "Die Synthese auf Programmebene, die den vollständigen Schöpfungsstapel zusammenstellt, von dem diese Disziplin ein Bestandteil ist." },

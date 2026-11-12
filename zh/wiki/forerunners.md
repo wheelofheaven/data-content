@@ -13,7 +13,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["Forerunners", "Forerunner", "prodromos (Greek πρόδρομος, 'one who runs ahead')", "preparator", "way-preparer", "the messenger before"]
+alternative_names = ["Forerunners", "Forerunner", "prodromos (Greek πρόδρομος, 'one who runs ahead')", "preparator", "way-preparer", "先行的使者"]
 timeline = ["age-of-aries", "age-of-pisces", "age-of-aquarius"]
 see_also = [
     { title = "雷尔", path = "wiki/rael", description = "晚期双鱼座时代的先驱者为其接受而预备的水瓶座时代开创人物。" },

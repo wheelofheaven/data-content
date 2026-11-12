@@ -19,7 +19,7 @@ editorial_pass = "2026-05"
 entry_type = "people"
 claim_type = "inferred"
 timeline = ["pisces", "aries"]
-alternative_names = ["נבטו (나바테아 아람어 Nabaṭu)", "Ναβαταῖοι (그리스어 Nabataîoi)", "ٱلْأَنْبَاط (아랍어 al-Anbāṭ)", "Nabateans", "the Nabati", "라크무의 백성"]
+alternative_names = ["נבטו (나바테아 아람어 Nabaṭu)", "Ναβαταῖοι (그리스어 Nabataîoi)", "ٱلْأَنْبَاط (아랍어 al-Anbāṭ)", "Nabateans", "나바티(Nabati)", "라크무의 백성"]
 see_also = [
     { title = "페트라", path = "wiki/petra", description = "나바테아인들의 바위를 깎은 수도로, 프레임워크의 페트라 가설이 중심으로 삼는 장소." },
     { title = "하니피야", path = "wiki/hanafiyya", description = "나바테아 민족이 그 인간적 매개체로 읽히는 아브라함적 복원." },

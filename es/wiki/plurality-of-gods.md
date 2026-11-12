@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["plurality of the gods", "plurality of the Elohim", "the multiple-creators reading", "biblical polytheism", "Hebrew Bible plurality content", "the divine council reading", "the Elohim plural reading"]
+alternative_names = ["pluralidad de los dioses", "pluralidad de los Elohim", "la lectura de los múltiples creadores", "biblical polytheism", "Hebrew Bible plurality content", "la lectura del consejo divino", "la lectura del plural Elohim"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "El sustantivo hebreo plural en el centro de la lectura de la pluralidad." },

@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "the Holy Tongue", "Biblical Hebrew", "Classical Hebrew"]
+alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "la Lengua Santa", "Biblical Hebrew", "Classical Hebrew"]
 see_also = [
     { title = "Biblia hebrea", path = "wiki/hebrew-bible", description = "El corpus principal conservado en esta lengua y leído en busca del contenido del marco." },
     { title = "Génesis", path = "wiki/genesis", description = "El relato de la creación cuya redacción hebrea el corpus lee en clave operativa." },

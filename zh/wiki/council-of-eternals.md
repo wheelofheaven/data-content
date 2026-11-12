@@ -393,7 +393,7 @@ The corpus aligns with the tradition's basic direction — council as actual pol
 
 ### Sendy on the divine council
 
-**Jean Sendy** developed the principal scholarly antecedent of the framework's reading. His *Ces dieux qui firent le ciel et la terre* (1969) and *La lune, clé de la Bible* (1968) treat the Hebrew council material as actual political bodies of advanced biological beings, not theological categories.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[16]", title="Sendy, *Those Gods Who Made Heaven and Earth* (1969/1972) — the philological-historiographic reading of the divine-council material") }}{{ cite(id="a-gentlemans-joyous-esotericism", text="[17]", title="Bigliardi, 'A Gentleman's Joyous Esotericism: Jean Sendy's Reading of the Bible' — academic engagement with Sendy's project") }} His contributions include the philological-historical reading of the *ʿadat ʾēl* and *sod Yhwh* terminology, the recognition that the material preserves operational content, and its placement within the alliance-mediated history he reconstructed. The framework aligns with Sendy's approach and extends it through the Raëlian source's specifics.
+**让·桑迪** developed the principal scholarly antecedent of the framework's reading. His *Ces dieux qui firent le ciel et la terre* (1969) and *La lune, clé de la Bible* (1968) treat the Hebrew council material as actual political bodies of advanced biological beings, not theological categories.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[16]", title="Sendy, *Those Gods Who Made Heaven and Earth* (1969/1972) — the philological-historiographic reading of the divine-council material") }}{{ cite(id="a-gentlemans-joyous-esotericism", text="[17]", title="Bigliardi, 'A Gentleman's Joyous Esotericism: Jean Sendy's Reading of the Bible' — academic engagement with Sendy's project") }} His contributions include the philological-historical reading of the *ʿadat ʾēl* and *sod Yhwh* terminology, the recognition that the material preserves operational content, and its placement within the alliance-mediated history he reconstructed. The framework aligns with Sendy's approach and extends it through the Raëlian source's specifics.
 
 ### The framework's relationship to the broader landscape
 
@@ -508,7 +508,7 @@ After the Taurus-age pardon and reintegration, the Council became one part of th
 - [Jesus](../jesus/)
 - [Moses](../moses/)
 - [Raël](../rael/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [让·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](/wiki/paul-wallis/)
 - [The Archdeacon and the Dragon](/articles/the-archdeacon-and-the-dragon/) (the El-Ba'adat council-of-factions convergence)

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 100
@@ -267,7 +267,7 @@ principal_corpus_treatment = "分布於幾乎每一條目；時間線卷逐章�
 
 **文本與考古學術。**在傳遞問題上，本文集與文本批判（Tov）以及死海古卷對文本穩定性的證實一致。在考古學上，它區分證據所確立者與證據所推測者：Israel Finkelstein 與 Neil Silberman 的極簡主義閱讀（《出土的聖經》，*The Bible Unearthed*，2001）是被認真探討而非被否定的，其所回應的更早的奧爾布賴特傳統亦然。在以色列宗教史上，本框架將 Frank Moore Cross 與 Mark S. Smith 關於神聖議會及迦南連續性的學術研究，讀作在語文學層次上還原了本文集在歷史層次上所讀出的複數性。Robert Alter 的文學翻譯與註釋，以及歐陸註釋傳統（Westermann、Cassuto、Sarna、Kugel），則因其所還原的文本技藝與意義而受到閱讀。
 
-**另類歷史閱讀。**本框架與更廣泛的重新詮釋文獻共享其干預論前提——Jean Sendy 的語文學閱讀、Mauro Biglino 嚴格逐字的方法、Paul Anthony Wallis 的比較研究，以及更早的 Zecharia Sitchin 的阿努納奇重建。它採用 Biglino 按字面閱讀希伯來文的紀律，同時將自身的詮釋立基於雷爾派正典，而非 Sitchin 的蘇美體系。Sitchin 將〈創世記〉視為衍生自蘇美來源，本文集則將它讀作對同一批事件的一份獨立記錄——並且依上述的譜系論證，是更準確的記錄。
+**另類歷史閱讀。**本框架與更廣泛的重新詮釋文獻共享其干預論前提——讓·桑迪 的語文學閱讀、Mauro Biglino 嚴格逐字的方法、Paul Anthony Wallis 的比較研究，以及更早的 Zecharia Sitchin 的阿努納奇重建。它採用 Biglino 按字面閱讀希伯來文的紀律，同時將自身的詮釋立基於雷爾派正典，而非 Sitchin 的蘇美體系。Sitchin 將〈創世記〉視為衍生自蘇美來源，本文集則將它讀作對同一批事件的一份獨立記錄——並且依上述的譜系論證，是更準確的記錄。
 
 ## 另見
 

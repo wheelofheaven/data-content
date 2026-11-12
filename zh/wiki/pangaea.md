@@ -18,7 +18,7 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "framework"
-alternative_names = ["Pangea", "Antediluvian supercontinent", "The pre-deluge landmass", "The one continent"]
+alternative_names = ["Pangea", "Antediluvian supercontinent", "大洪水前的陆块", "唯一的大陆"]
 see_also = [
     { title = "伊甸", path = "wiki/eden", description = "位于这块单一洪水前陆地上的创造场所。" },
     { title = "大洪水前", path = "wiki/antediluvian", description = "盘古大陆作为其地理基底的整个洪水前时期。" },

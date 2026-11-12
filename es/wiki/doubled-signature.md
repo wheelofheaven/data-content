@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the doubled signature", "the doubled-signature principle", "the Hamlet's Mill principle", "the doubled astronomical signature", "doubled invocation across the zodiacal axis"]
+alternative_names = ["la signatura doble", "el principio de la signatura doble", "el principio de Hamlet's Mill", "la signatura astronómica doble", "invocación doble a través del eje zodiacal"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Jesús", path = "wiki/jesus", description = "La figura del pez y la virgen que lleva la signatura Piscis-Virgo de la era cristiana." },

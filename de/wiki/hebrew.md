@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "the Holy Tongue", "Biblical Hebrew", "Classical Hebrew"]
+alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "die Heilige Sprache", "Biblical Hebrew", "Classical Hebrew"]
 see_also = [
     { title = "Hebräische Bibel", path = "wiki/hebrew-bible", description = "Das wichtigste in dieser Sprache überlieferte Korpus, gelesen auf seinen Rahmeninhalt hin." },
     { title = "Genesis", path = "wiki/genesis", description = "Der Schöpfungsbericht, dessen hebräischen Wortlaut das Korpus operativ liest." },

@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["Bereshit", "B'reshit", "First Book of Moses"]
+alternative_names = ["Bereshit", "B'reshit", "Erstes Buch Mose"]
 see_also = [
     { title = "Genesis-Werkzeugkasten", path = "wiki/genesis-toolbox", description = "Die Zusammenstellung des Korpus von Wissenschaft und Technik, die der Schöpfungsbericht im Einsatz beschreibt." },
     { title = "Elohim", path = "wiki/elohim", description = "Die vielen Schöpfer, deren Werk das erste Kapitel erzählt." },

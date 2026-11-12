@@ -14,7 +14,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of neo-euhemeristic readings", "Framework exegesis index", "Glossary of operational readings"]
+alternative_names = ["Catálogo de lecturas neo-euhemeristas", "Framework exegesis index", "Glosario de lecturas operativas"]
 see_also = [
     { title = "Lista de mitemas y motivos mitológicos", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "El catálogo complementario que recoge patrones narrativos interculturales recurrentes en lugar de términos individuales." },
     { title = "Lista de lecturas etimológicas", path = "wiki/list-of-etymological-readings", description = "El catálogo complementario que recoge lecturas filológicas de palabras y expresiones concretas." },

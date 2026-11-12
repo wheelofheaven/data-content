@@ -14,7 +14,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of mythological motifs", "Mythological-motif index (framework reading)", "Cross-cultural mythemes catalogue"]
+alternative_names = ["Katalog mythologischer Motive", "Mythological-motif index (framework reading)", "Cross-cultural mythemes catalogue"]
 see_also = [
     { title = "Mythem", path = "wiki/mytheme", description = "Die Fachbegriffseinheit, auf die sich der Sprachgebrauch des Katalogs stützt und die er von Motiv und Erzähltyp unterscheidet." },
     { title = "Genesis", path = "wiki/genesis", description = "Die Anwendung derselben Methode der operativen Übersetzung im Kapitelmaßstab, die der Katalog ausweitet." },

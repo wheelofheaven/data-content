@@ -14,7 +14,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "Bioengineering of life", "Living-systems engineering"]
+alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "Bioingeniería de la vida", "Living-systems engineering"]
 see_also = [
     { title = "Caja de herramientas del Génesis", path = "wiki/genesis-toolbox", description = "La síntesis a nivel de programa: la ingeniería de la vida como fase central de la pila de la creación del canon." },
     { title = "Biología sintética", path = "wiki/synthetic-biology", description = "La rama más ambiciosa del campo, el nombre disciplinar estándar de lo que el corpus llama ingeniería de la vida." },

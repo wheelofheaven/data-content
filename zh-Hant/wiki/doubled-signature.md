@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the doubled signature", "雙重署名原則", "哈姆雷特之磨原則", "雙重天文署名", "跨黃道軸的雙重援引"]
+alternative_names = ["雙重署名", "雙重署名原則", "哈姆雷特之磨原則", "雙重天文署名", "跨黃道軸的雙重援引"]
 timeline = ["all-ages"]
 see_also = [
     { title = "耶穌", path = "wiki/jesus", description = "承載基督教時代雙魚座—處女座署名的魚與童女人物。" },
@@ -105,7 +105,7 @@ The principal source is *Hamlet's Mill: An Essay Investigating the Origins of Hu
 
 ### Sendy on Hamlet's Mill
 
-**Jean Sendy**, in *L'ère du Verseau* (1970), provides the principal scholarly bridge between *Hamlet's Mill* and the framework the Wheel of Heaven corpus has developed. From his chapter 7:
+**讓·桑迪**, in *L'ère du Verseau* (1970), provides the principal scholarly bridge between *Hamlet's Mill* and the framework the Wheel of Heaven corpus has developed. From his chapter 7:
 
 > *"Je ne saurais trop vous engager à vous procurer Hamlet's Mill, parce que ce livre a changé la face du problème... Depuis la parution de Hamlet's Mill, le fait que la Tradition transmet, depuis le néolithique, des connaissances en astronomie que nous commençons tout juste à retrouver, ce fait n'est plus contestable. C'est une idée neuve."*
 
@@ -292,7 +292,7 @@ The astronomical-historical tradition on precession runs from antiquity to the p
 
 ### Sendy on the doubled signature
 
-**Jean Sendy**'s *L'ère du Verseau* (1970), treated under *In primary sources* above, is the corpus's bridge between *Hamlet's Mill* and its framework. The corpus's systematic application goes well beyond Sendy's own engagement, but his methodological warrant for treating *Hamlet's Mill* as an interpretive framework is the principal scholarly antecedent for the corpus's approach.
+**讓·桑迪**'s *L'ère du Verseau* (1970), treated under *In primary sources* above, is the corpus's bridge between *Hamlet's Mill* and its framework. The corpus's systematic application goes well beyond Sendy's own engagement, but his methodological warrant for treating *Hamlet's Mill* as an interpretive framework is the principal scholarly antecedent for the corpus's approach.
 
 ### Biglino on precessional symbolism
 
@@ -367,7 +367,7 @@ The corpus does not reject the mainstream framework wholesale: cultural diffusio
 - [Age of Pisces](../../timeline/age-of-pisces/)
 - [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Hamlet's Mill](/wiki/hamlets-mill/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](/wiki/paul-wallis/)
 

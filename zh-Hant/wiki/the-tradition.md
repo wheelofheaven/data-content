@@ -43,7 +43,7 @@ framework, {% claim(type="speculative", id="woh-claim-0046") %}the cross-cultura
 astronomical, religious, and technical — handed down across millennia within a
 set of esoteric teaching lineages and, on the framework's reading, traceable to
 the instruction the [Elohim](../elohim/) gave humanity in the early post-flood
-ages.{% end %} The concept is principally the work of [Jean Sendy](/wiki/jean-sendy/)
+ages.{% end %} The concept is principally the work of [讓·桑迪](/wiki/jean-sendy/)
 (1910–1978), the French author who argued across his books from 1963 to 1972
 that the ancient and medieval traditions of the West — Egyptian priestly, Hebrew
 prophetic, Greek philosophical, Hermetic, Christian-scholastic — preserve
@@ -224,7 +224,7 @@ wider cross-cultural synthesis as the interpretive construction it is.
 ## See also
 
 - [Wheel of Heaven](../wheel-of-heaven/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Religion](../religion/)
 - [Kabbalah](../kabbalah/)
 - [Hebrew Bible](../hebrew-bible/)
@@ -261,7 +261,7 @@ Sendy, Jean. *Nous autres, gens du Moyen Âge*. Various editions.
 
 ### Bigliardi's Sendy scholarship
 
-Bigliardi, Stefano. "A Gentleman's Joyous Esotericism: Jean Sendy's 'Religion of Cosmonauts'." Various scholarly publications.
+Bigliardi, Stefano. "A Gentleman's Joyous Esotericism: 讓·桑迪's 'Religion of Cosmonauts'." Various scholarly publications.
 
 ### Raëlian sources
 

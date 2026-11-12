@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -18,7 +18,7 @@ claim_type = "framework"
 core_claim_ids = ["woh-claim-0018"]
 core_versions = { woh-claim-0018 = "0.1.0" }
 entry_type = "figure"
-alternative_names = ["アダム", "エバ", "אָדָם וְחַוָּה", "ʾĀḏām and Ḥawwāh", "最初の人間", "最初の一対", "アダム・カドモンとハッワー（カバラ伝統において）"]
+alternative_names = ["アダム", "エバ", "אָדָם וְחַוָּה", "ʾĀḏām と Ḥawwāh", "最初の人間", "最初の一対", "アダム・カドモンとハッワー（カバラ伝統において）"]
 timeline = ["leo", "cancer"]
 see_also = [
     { title = "エデン", path = "wiki/eden", description = "アダムとエバが合成され、教育を受けたイスラエル・チームの施設。" },

@@ -420,7 +420,7 @@ Beyond the treatment above, **G. W. F. Hegel**'s *Science of Logic* (1812–1816
 
 ### Sendy on infinity
 
-**Jean Sendy**, in *Ces dieux qui firent le ciel et la terre* (1969) and *L'ère du Verseau* (1970), develops complementary content on infinity:
+**讓·桑迪**, in *Ces dieux qui firent le ciel et la terre* (1969) and *L'ère du Verseau* (1970), develops complementary content on infinity:
 
 **Cosmic-civilizational infinity**. Sendy treats the cosmos as holding intelligent civilizations at multiple scales, his Galaxiens framework operating within the infinite cosmic structure.
 
@@ -564,7 +564,7 @@ The corpus does not reject the whole mainstream account. Cultural diffusion did 
 - [Raëlian Symbol of Infinity](../raelian-symbol-of-infinity/)
 - [Star of David](../star-of-david/)
 - [Swastika](../swastika/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](/wiki/paul-wallis/)
 

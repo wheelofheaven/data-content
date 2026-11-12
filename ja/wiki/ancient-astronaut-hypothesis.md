@@ -18,7 +18,7 @@ timeline = ["age-of-aquarius"]
 see_also = [
     { title = "ジャン・サンディ", path = "wiki/jean-sendy", description = "コーパスがこの仮説の自らの版に統合する枠組みをもつ、ヴォリロン以前の主要な人物。" },
     { title = "ネオエウヘメリズム", path = "wiki/neo-euhemerism", description = "古代の証言を歪んだ接触の記録として読むコーパスの読解の根底にある、解釈の方法。" },
-    { title = "マウロ・ビグリーノ", path = "wiki/mauro-biglino", description = "一般向けの普及者たちよりも方法論的にコーパスの規律に近いと判断される、現代のテクスト文献学的な取り組み。" },
+    { title = "マウロ・ビリーノ", path = "wiki/mauro-biglino", description = "一般向けの普及者たちよりも方法論的にコーパスの規律に近いと判断される、現代のテクスト文献学的な取り組み。" },
     { title = "設計者からのメッセージ", path = "wiki/message-from-the-designers", description = "古代の証拠の思弁的解釈ではなく、コーパスの土台となる、ヴォリロンへの直接の啓示。" },
     { title = "伝統", path = "wiki/the-tradition", description = "この仮説が古代の諸文化を横断して読む、伝えられた接触の記録を指すコーパスの用語。" },
     { title = "先駆者たち", path = "wiki/forerunners", description = "20世紀に広く普及する以前にこの仮説を先取りしていた、それ以前の著者たち。" },

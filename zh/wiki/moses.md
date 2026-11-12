@@ -15,7 +15,7 @@ editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
-alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "Moses the Lawgiver", "Mosheh Rabbenu (\"Moses our Teacher\")"]
+alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "立法者摩西", "Mosheh Rabbenu (\"Moses our Teacher\")"]
 see_also = [
     { title = "耶和华", path = "wiki/yahweh", description = "燃烧的荆棘与西奈山接触事件背后的耶洛因主席。" },
     { title = "永恒者议会", path = "wiki/council-of-the-eternals", description = "据报摩西与其他早先先知一同出席的机构。" },

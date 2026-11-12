@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Infinite", "the infinite cosmos", "infinite-cosmological framework", "the broader infinite framework", "cosmic infinity"]
+alternative_names = ["el Infinito", "el cosmos infinito", "infinite-cosmological framework", "el marco infinito más amplio", "cosmic infinity"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Cosmología fractal", path = "wiki/fractal-cosmology", description = "La dimensión espacial que opera dentro del marco del Infinito." },

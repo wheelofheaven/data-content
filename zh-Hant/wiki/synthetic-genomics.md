@@ -318,7 +318,7 @@ Within the specific Sendy–Raëlian interpretive tradition that the corpus read
 - [Apocalypse](../apocalypse/)
 - [Cosmic Chain](../cosmic-chain/)
 - [Cosmic Competition](../cosmic-competition/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Raël](../rael/)
 - [*Message from the Designers*](/wiki/message-from-the-designers/)
 

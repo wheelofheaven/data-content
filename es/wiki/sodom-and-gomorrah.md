@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["the Cities of the Plain", "the Sodom event", "the Sodom strike", "*Sedom va-Amorah* (Hebrew: סְדֹם וַעֲמֹרָה)", "the Genesis 19 destruction", "the Council preventive strike (Taurus phase)", "the second preventive strike", "the Dead Sea event"]
+alternative_names = ["las Ciudades de la Llanura", "el evento de Sodoma", "el ataque a Sodoma", "*Sedom va-Amorah* (Hebrew: סְדֹם וַעֲמֹרָה)", "la destrucción de Génesis 19", "el ataque preventivo del Consejo (fase de Tauro)", "el segundo ataque preventivo", "el evento del mar Muerto"]
 timeline = ["taurus"]
 see_also = [
     { title = "Gran Diluvio", path = "wiki/great-flood", description = "El primer ataque del Consejo, a escala planetaria; Sodoma es uno posterior y localizado." },

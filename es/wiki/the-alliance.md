@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the alliance", "the cross-civilizational alliance", "the Eloha-human alliance", "the Noahic alliance", "the covenant partnership"]
+alternative_names = ["la alianza", "la alianza entre civilizaciones", "la alianza Eloha-humanidad", "la alianza noáquica", "la asociación del pacto"]
 timeline = ["gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
     { title = "Consejo de los Eternos", path = "wiki/council-of-the-eternals", description = "El Consejo del mundo de origen en oposición al cual se formó la Alianza en el momento noáquico." },

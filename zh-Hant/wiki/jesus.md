@@ -407,7 +407,7 @@ The corpus does not endorse mythicism. The corpus's reading depends on Jesus's h
 
 ### Sendy on Jesus
 
-**Jean Sendy**'s engagement with Jesus is developed in *Ces dieux qui firent le ciel et la terre* (1969){{ cite(id="those-gods-who-made-heaven-and-earth", text="[12]", title="Sendy, *Those Gods Who Made Heaven and Earth* (1969/1972) — Sendy on Jesus and the Piscean inauguration") }} and continued in his subsequent works. Sendy's reading treats Jesus as a real historical figure whose ministry occurred in the operational context the broader extraterrestrial-creator framework provides. Specific Sendy contributions to the Jesus question include the precessional reading of the Piscean-age inauguration (subsequently incorporated into the corpus's framework), the reading of the miracles as advanced-technology applications, and the broader treatment of the Gospel narratives as preserving operational content in religious vocabulary.
+**讓·桑迪**'s engagement with Jesus is developed in *Ces dieux qui firent le ciel et la terre* (1969){{ cite(id="those-gods-who-made-heaven-and-earth", text="[12]", title="Sendy, *Those Gods Who Made Heaven and Earth* (1969/1972) — Sendy on Jesus and the Piscean inauguration") }} and continued in his subsequent works. Sendy's reading treats Jesus as a real historical figure whose ministry occurred in the operational context the broader extraterrestrial-creator framework provides. Specific Sendy contributions to the Jesus question include the precessional reading of the Piscean-age inauguration (subsequently incorporated into the corpus's framework), the reading of the miracles as advanced-technology applications, and the broader treatment of the Gospel narratives as preserving operational content in religious vocabulary.
 
 Sendy's approach is philological and comparative-historical rather than revelatory. His treatment of Jesus is more reserved than the Raëlian source material's — Sendy does not address the hybrid-biology question with the specificity the source material develops — but is compatible with the corpus's broader reading and provides important scholarly antecedent material.
 
@@ -499,7 +499,7 @@ The corpus's working position on the comparative-religion question is that the g
 - [Apocalypse](../apocalypse/)
 - [Prophet](../prophet/)
 - [Dead Sea Scrolls](/wiki/dead-sea-scrolls/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [*Hamlet's Mill*](/wiki/hamlets-mill/)
 

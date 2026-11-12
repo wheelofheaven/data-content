@@ -205,7 +205,7 @@ advanced observers refrain from open contact; the framework notes the parallel
 while grounding its version in the canon rather than in speculation.
 
 Behind all of this stands a methodological point drawn from
-[Jean Sendy](/wiki/jean-sendy/), whose *L'Ère du Verseau* (1970) the corpus treats
+[讓·桑迪](/wiki/jean-sendy/), whose *L'Ère du Verseau* (1970) the corpus treats
 as a principal source. Biology, Sendy argued, has only one example to reason from
 — terrestrial life — and any "general laws" drawn from a single case stay
 provisional. A second example, whether found by science or supplied by contact,
@@ -257,7 +257,7 @@ can ask. They differ on whether the answer has already been given.
 - [Mass Effect](../mass-effect/)
 - [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
 - [Drake Equation](../drake-equation/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Raël](../rael/)
 - [Raëlism](../raelism/)
 - [Message from the Designers](/wiki/message-from-the-designers/)

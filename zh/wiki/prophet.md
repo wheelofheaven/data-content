@@ -310,9 +310,9 @@ The framework's prophet category overlaps with but is distinct from the charisma
 
 The prophetic role and the prophetic literature have been major subjects of modern theological, philosophical, and academic engagement across the twentieth and twenty-first centuries.
 
-### Jean Sendy on prophecy
+### 让·桑迪 on prophecy
 
-**Jean Sendy**'s engagement with prophecy is developed across his broader corpus, with specific treatments in *Ces dieux qui firent le ciel et la terre* (1969) and *L'Ère du Verseau* (1970). Sendy reads the prophetic literature — particularly the Hebrew Bible's *Nevi'im* and the Book of Revelation — as preserving substantial alliance-contact content in vision form. His specific contributions to prophetic interpretation include the precessional reading of the Aquarian-age transition (which the framework adopts), the reading of the prophetic literature as a body of operational content rather than as supernatural prediction, and the broader framework within which the prophetic institution can be understood as a historical mechanism rather than as a category of religious experience.
+**让·桑迪**'s engagement with prophecy is developed across his broader corpus, with specific treatments in *Ces dieux qui firent le ciel et la terre* (1969) and *L'Ère du Verseau* (1970). Sendy reads the prophetic literature — particularly the Hebrew Bible's *Nevi'im* and the Book of Revelation — as preserving substantial alliance-contact content in vision form. His specific contributions to prophetic interpretation include the precessional reading of the Aquarian-age transition (which the framework adopts), the reading of the prophetic literature as a body of operational content rather than as supernatural prediction, and the broader framework within which the prophetic institution can be understood as a historical mechanism rather than as a category of religious experience.
 
 Sendy's approach is philological and comparative-historical rather than revelatory; he reaches the framework's reading from textual analysis without recourse to revelatory testimony. His treatment of prophecy is the principal scholarly antecedent of the corpus's adopted reading, alongside the Raëlian source material that develops the corpus's specific framework.
 

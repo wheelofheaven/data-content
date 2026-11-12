@@ -15,7 +15,7 @@ editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
-alternative_names = ["Eliyyahu", "Eliyahu", "Elias", "Ilyas", "Elijah the Tishbite", "Elijah the Messenger"]
+alternative_names = ["Eliyyahu", "Eliyahu", "Elias", "Ilyas", "Elija der Tischbiter", "Elija der Bote"]
 see_also = [
     { title = "Mose", path = "wiki/moses", description = "Die frühere Gestalt der Theophanie am Horeb, deren Kontaktpräzedenz die Elija-Erzählung bewusst aufgreift." },
     { title = "Hesekiel", path = "wiki/ezekiel", description = "Dessen Merkawa-Vision der einzige Bericht der Hebräischen Bibel über ein Luftfahrzeug ist, der deutlicher ist als Elijas Wagen." },

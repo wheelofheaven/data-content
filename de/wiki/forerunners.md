@@ -13,7 +13,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["Forerunners", "Forerunner", "prodromos (Greek πρόδρομος, 'one who runs ahead')", "preparator", "way-preparer", "the messenger before"]
+alternative_names = ["Forerunners", "Forerunner", "prodromos (Greek πρόδρομος, 'one who runs ahead')", "preparator", "way-preparer", "der vorausgehende Bote"]
 timeline = ["age-of-aries", "age-of-pisces", "age-of-aquarius"]
 see_also = [
     { title = "Raël", path = "wiki/rael", description = "Die eröffnende Gestalt des Wassermann-Zeitalters, deren Aufnahme die Vorläufer des späten Fische-Zeitalters vorbereiteten." },

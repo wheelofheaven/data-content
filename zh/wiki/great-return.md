@@ -16,7 +16,7 @@ editorial_pass = "2026-05"
 entry_type = "event"
 claim_type = "direct"
 timeline = ["aquarius"]
-alternative_names = ["The Return", "Second Coming (in some comparative-religion framings)", "The Arrival", "The Reunification"]
+alternative_names = ["归来", "Second Coming (in some comparative-religion framings)", "降临", "重聚"]
 see_also = [
     { title = "大使馆", path = "wiki/embassy", description = "人类必须建造、作为回归之首要前提的设施。" },
     { title = "第三圣殿", path = "wiki/third-temple", description = "透过希伯来圣经的圣殿复兴预言来解读的大使馆。" },

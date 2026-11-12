@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["黃道帶", "黃道圈", "*zōidiakos kyklos* (Greek: ζῳδιακὸς κύκλος, 'circle of small figures')", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "天界之圈", "天之輪（較早的用法）", "十二宮（占星用法）"]
+alternative_names = ["黃道帶", "黃道圈", "*zōidiakos kyklos*（希臘語：ζῳδιακὸς κύκλος，「小形象之圈」）", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "天界之圈", "天之輪（較早的用法）", "十二宮（占星用法）"]
 timeline = ["multi-age"]
 see_also = [
     { title = "世界時代", path = "wiki/world-age", description = "每個黃道區段在框架曆法中所標示的歲差時代。" },
@@ -182,7 +182,7 @@ Mill* (Giorgio de Santillana and Hertha von Dechend, 1969), the study of
 precession encoded in world mythology that the corpus adopts as interpretive
 infrastructure — honestly, as an inferred reading rather than settled
 fact.{{ cite(id="hamlets-mill", text="[1]", title="de Santillana & von Dechend, *Hamlet's Mill* (1969) — precessional content encoded in cross-cultural myth") }}
-Its biblical half draws on **Jean Sendy**, whose *L'ère du Verseau* (1970) reads
+Its biblical half draws on **讓·桑迪**, whose *L'ère du Verseau* (1970) reads
 Moses as working through a *religion zodiacale*: aware that the equinox had moved
 from Taurus into Aries, he cast the Golden Calf as a "calf, son of the Bull" —
 the old bull-cult surviving illegitimately into the age of the
@@ -242,7 +242,7 @@ not its claim to read character or foretell events from the stars.
 - [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Hebrew Bible](../hebrew-bible/)
 - [Genesis](../genesis/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 
 ## References
 

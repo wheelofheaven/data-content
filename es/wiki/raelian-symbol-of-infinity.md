@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Symbol of Infinity", "the Raëlian emblem", "the Raëlian movement symbol", "the Elohim emblem"]
+alternative_names = ["el Símbolo del Infinito", "el emblema raeliano", "el símbolo del Movimiento Raeliano", "el emblema de los Elohim"]
 timeline = ["aquarius"]
 see_also = [
     { title = "Infinito", path = "wiki/infinity", description = "El marco más amplio que el emblema condensa en una única forma iconográfica." },

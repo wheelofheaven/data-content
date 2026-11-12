@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Noah (English)", "נֹחַ (Hebrew Noaḥ)", "Νῶε (Greek Nōe)", "نوح (Arabic Nūḥ)", "the Eden-lineage flood survivor", "the ark-builder", "the post-flood patriarch"]
+alternative_names = ["Noah (English)", "נֹחַ (Hebrew Noaḥ)", "Νῶε (Greek Nōe)", "نوح (Arabic Nūḥ)", "the Eden-lineage flood survivor", "el constructor del arca", "el patriarca posdiluviano"]
 timeline = ["age-of-cancer", "age-of-gemini"]
 see_also = [
     { title = "Gran Diluvio", path = "wiki/great-flood", description = "El cataclismo de la era de Géminis contra el que se montó la operación de preservación del arca." },

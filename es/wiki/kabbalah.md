@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["Cabala (older European spelling)", "Qabalah (Hermetic / Western-esoteric spelling)", "Kabbala", "*Qabbalah* (Hebrew: קַבָּלָה)", "the Jewish mystical tradition", "*shalshelet ha-Kabbalah* ('chain of Tradition')", "*torat ha-sod* ('the secret teaching')", "*chokhmah penimit* ('inner wisdom')"]
+alternative_names = ["Cabala (older European spelling)", "Qabalah (Hermetic / Western-esoteric spelling)", "Kabbala", "*Qabbalah* (Hebrew: קַבָּלָה)", "la tradición mística judía", "*shalshelet ha-Kabbalah* ('cadena de la Tradición')", "*torat ha-sod* ('la enseñanza secreta')", "*chokhmah penimit* ('inner wisdom')"]
 timeline = ["multi-age"]
 see_also = [
     { title = "Pluralidad de dioses", path = "wiki/plurality-of-gods", description = "La lectura de la pluralidad estructurada que, según se dice, la cosmología de las sefirot conserva de forma más directa." },

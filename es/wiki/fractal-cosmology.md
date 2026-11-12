@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["fractal cosmos", "the fractal-self-similar cosmology", "the infinite-hierarchical cosmology", "the nested-cosmos framework", "the scale-invariant cosmology"]
+alternative_names = ["fractal cosmos", "la cosmología fractal autosemejante", "la cosmología infinito-jerárquica", "el marco del cosmos anidado", "la cosmología invariante de escala"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Macrobiología", path = "wiki/macrobiology", description = "El estudio de los sistemas vivos en un peldaño de la escalera fractal: la humanidad es al ser humano lo que el ser humano a la célula." },

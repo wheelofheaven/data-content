@@ -16,13 +16,13 @@ entry_type = "concept"
 alternative_names = ["ビリーノの方法", "Metodo Biglino(イタリア語)", "「真実だと仮定してみよう」の方法", "裸の聖書の方法"]
 timeline = ["age-of-aquarius"]
 see_also = [
-    { title = "マウロ・ビグリーノ", path = "wiki/mauro-biglino", description = "この方法がその名を冠し、その読解の実践を体系化したイタリアの翻訳者。" },
-    { title = "ジャン・サンディ", path = "wiki/jean-sendy", description = "ビグリーノの四十年前に、同じシュリーマン=ホメロスの字義的読解の原則を述べた。" },
+    { title = "マウロ・ビリーノ", path = "wiki/mauro-biglino", description = "この方法がその名を冠し、その読解の実践を体系化したイタリアの翻訳者。" },
+    { title = "ジャン・サンディ", path = "wiki/jean-sendy", description = "ビリーノの四十年前に、同じシュリーマン=ホメロスの字義的読解の原則を述べた。" },
     { title = "ヘブライ語聖書", path = "wiki/hebrew-bible", description = "この方法が、受け継がれた神学的枠組みを取り除いて、原語で字義どおりに読むテクスト。" },
     { title = "語源学的読解のリスト", path = "wiki/list-of-etymological-readings", description = "直接に読まれたヘブライ語の用語を集め、この方法を一語ずつ適用するコーパスの目録。" },
     { title = "ネオエウヘメリズム", path = "wiki/neo-euhemerism", description = "この方法が仕える、神話を圧縮された歴史として扱う、より広い解釈の立場。" },
     { title = "古代宇宙飛行士仮説", path = "wiki/ancient-astronaut-hypothesis", description = "この方法の成果がその字義的読解の結論に寄与する、より広い分野。" },
-    { title = "聖書を月に賭けた男", path = "articles/the-man-who-bet-the-bible-on-the-moon", description = "ジャン・サンディはビグリーノの四十年前にシュリーマン=ホメロスの原則を述べていた。その全体の研究。" },
+    { title = "聖書を月に賭けた男", path = "articles/the-man-who-bet-the-bible-on-the-moon", description = "ジャン・サンディはビリーノの四十年前にシュリーマン=ホメロスの原則を述べていた。その全体の研究。" },
 ]
 
 [extra.infobox]

@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["the Noahic Covenant", "the post-flood covenant", "the rainbow covenant", "the Noahide covenant (Jewish tradition designation)", "the originary biblical covenant"]
+alternative_names = ["el Pacto Noáquico", "el pacto posdiluviano", "el pacto del arcoíris", "the Noahide covenant (Jewish tradition designation)", "el pacto bíblico originario"]
 timeline = ["age-of-gemini"]
 see_also = [
     { title = "Noé", path = "wiki/noah", description = "El socio humano de los creadores exiliados y la parte menor de la alianza." },

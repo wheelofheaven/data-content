@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["セルパント反乱", "天上の戦争", "神々の戦い", "最初の戦争", "宇宙的紛争", "蛇の戦争", "ルシファーと評議会の紛争"]
+alternative_names = ["蛇の反乱", "天上の戦争", "神々の戦い", "最初の戦争", "宇宙的紛争", "蛇の戦争", "ルシファーと評議会の紛争"]
 timeline = ["cancer", "gemini", "taurus"]
 see_also = [
     { title = "ルシファー", path = "wiki/lucifer", description = "そのエデンでの開示が紛争の発端となった、追放された創造者の派閥の指導者。" },

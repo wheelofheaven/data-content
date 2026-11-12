@@ -186,7 +186,7 @@ calls Raël "the last of the line of the prophets".{{ cite(id="extraterrestrials
 The larger nested-scales cosmology this belongs to is treated in the
 [Cosmic Chain](../cosmic-chain/) entry.
 
-**Sendy's parallel reading.** Jean Sendy, in *L'ère du Verseau* (1970), develops
+**Sendy's parallel reading.** 讓·桑迪, in *L'ère du Verseau* (1970), develops
 a complementary account of the Aquarian opening as the moment of a major
 civilizational turn, read through the same precessional lens the corpus
 uses.{{ cite(id="the-coming-of-the-gods", text="[5]", title="Sendy, *L'ère du Verseau* (1970), translated as *The Coming of the Gods* — the principal Sendy treatment of the Aquarian age") }}
@@ -295,7 +295,7 @@ proves.
 - [Age of Aries](../../timeline/age-of-aries/)
 - [Age of Pisces](../../timeline/age-of-pisces/)
 - [Age of Aquarius](../../timeline/age-of-aquarius/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Raël](../rael/)
 
 ## References

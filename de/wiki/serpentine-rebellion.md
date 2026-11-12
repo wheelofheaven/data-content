@@ -1,6 +1,6 @@
 +++
-title = "Serpentinische Rebellion"
-description = "Serpentinische Rebellion — die in der Wheel of Heaven-Tradition spezifizierte operative Konfiguration des Abspaltungs-Konflikts der Schlangen-Fraktion gegen die Jahwe-Fraktion innerhalb der elohimischen Allianz. Der substantielle Eintrag lebt bei Theomachie als Teil des umfassenderen kosmischen Konflikts."
+title = "Schlangenrebellion"
+description = "Schlangenrebellion — die in der Wheel of Heaven-Tradition spezifizierte operative Konfiguration des Abspaltungs-Konflikts der Schlangen-Fraktion gegen die Jahwe-Fraktion innerhalb der elohimischen Allianz. Der substantielle Eintrag lebt bei Theomachie als Teil des umfassenderen kosmischen Konflikts."
 template = "wiki-page.html"
 
 [extra]

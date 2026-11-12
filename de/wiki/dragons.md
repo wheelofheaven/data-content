@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["dinosaurs", "*taninim* (Hebrew plural)", "*tannin* (Hebrew singular)", "great sea creatures (English softened translation)", "*ketos* (Septuagint Greek)", "*cete grandia* (Vulgate Latin)", "sea monsters", "dragons of the deep"]
+alternative_names = ["dinosaurs", "*taninim* (Hebrew plural)", "*tannin* (Hebrew singular)", "great sea creatures (English softened translation)", "*ketos* (Septuagint Greek)", "*cete grandia* (Vulgate Latin)", "sea monsters", "Drachen der Tiefe"]
 timeline = ["virgo", "leo", "cancer", "gemini"]
 see_also = [
     { title = "Schlange", path = "wiki/serpent", description = "Das nachash, dessen hebräischer Begriff sich in der Drachenbestimmung mit drei Begriffen in Jesaja 27,1 mit tannin überschneidet." },

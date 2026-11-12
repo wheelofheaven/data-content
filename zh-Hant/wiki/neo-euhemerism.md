@@ -106,7 +106,7 @@ which a pre-scientific culture stored an encounter it could not otherwise
 describe.
 
 The reading became a recognisable position in the mid-twentieth century, though
-its practitioners rarely used the word "euhemerism." **Jean Sendy** read the
+its practitioners rarely used the word "euhemerism." **讓·桑迪** read the
 Hebrew Bible this way from 1963 onward; {% wiki(slug="erich-von-daniken") %}**Erich von Däniken**{% end %}'s *Chariots of the
 Gods?* (1968) carried a similar thesis to a mass audience; {% wiki(slug="zecharia-sitchin") %}**Zecharia Sitchin**{% end %}'s
 *The 12th Planet* (1976) and the *Earth Chronicles* built the most detailed
@@ -134,7 +134,7 @@ refracted through many cultures. These are foundational premises of the
 framework, not conclusions mainstream scholarship shares, and the corpus states
 them as such.
 
-Jean Sendy is the framework's principal antecedent here. Reading the Hebrew Bible
+讓·桑迪 is the framework's principal antecedent here. Reading the Hebrew Bible
 as a plain historical document rather than an allegory, he argued that its
 strangeness dissolves once its claims about its own subject matter are taken at
 face value:
@@ -242,7 +242,7 @@ euhemeristic method should not be discarded along with the field's excesses.
 
 - [Wheel of Heaven](../wheel-of-heaven/)
 - [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](/wiki/paul-wallis/)
 - [Elohim](../elohim/)

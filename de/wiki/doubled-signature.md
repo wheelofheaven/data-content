@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the doubled signature", "the doubled-signature principle", "the Hamlet's Mill principle", "the doubled astronomical signature", "doubled invocation across the zodiacal axis"]
+alternative_names = ["die doppelte Signatur", "das Prinzip der doppelten Signatur", "das Hamlet's-Mill-Prinzip", "die doppelte astronomische Signatur", "doppelte Anrufung über die Tierkreisachse hinweg"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Jesus", path = "wiki/jesus", description = "Die Gestalt von Fisch und Jungfrau, die die Signatur Fische–Jungfrau der christlichen Ära trägt." },

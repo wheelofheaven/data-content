@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Revelation", "ἀποκάλυψις", "Age of Apocalypse", "Age of Revelation"]
+alternative_names = ["Revelation", "ἀποκάλυψις", "Era del Apocalipsis", "Era de la Revelación"]
 timeline = ["aquarius"]
 see_also = [
     { title = "Macrobiología", path = "wiki/macrobiology", description = "La biología de la humanidad como organismo, para la cual 1945 marca el encendido del sistema nervioso planetario." },

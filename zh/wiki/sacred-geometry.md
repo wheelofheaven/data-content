@@ -142,7 +142,7 @@ connects to the corpus's engagement with the [Third Temple](../third-temple/),
 [Embassy](../embassy/), and [New Jerusalem](../new-jerusalem/). These are
 framework claims — explicit in the canon, not endorsed by mainstream scholarship.
 
-**Sendy's *Timaeus* argument.** [Jean Sendy](/wiki/jean-sendy/), in *L'Ère du
+**Sendy's *Timaeus* argument.** [让·桑迪](/wiki/jean-sendy/), in *L'Ère du
 Verseau* (1970), read the numerical sequence of *Timaeus* 35b — 1, 2, 3, 4, 9,
 8, 27 — as deliberate esoteric arithmetic rather than a musical accident. He
 noted that the 9 arrives before the 8, an ordering standard scholarship treats as
@@ -228,7 +228,7 @@ offered in that same spirit, as a labelled hypothesis rather than a proof.
 - [Embassy](../embassy/)
 - [New Jerusalem](../new-jerusalem/)
 - [Ezekiel](/wiki/ezekiel/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [让·桑迪](/wiki/jean-sendy/)
 - [Zodiac](../zodiac/)
 - [Precession](../precession/)
 - [Hamlet's Mill](/wiki/hamlets-mill/)

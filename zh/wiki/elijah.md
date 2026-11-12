@@ -15,7 +15,7 @@ editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
-alternative_names = ["Eliyyahu", "Eliyahu", "Elias", "Ilyas", "Elijah the Tishbite", "Elijah the Messenger"]
+alternative_names = ["Eliyyahu", "Eliyahu", "Elias", "Ilyas", "提斯比人以利亚", "使者以利亚"]
 see_also = [
     { title = "摩西", path = "wiki/moses", description = "较早的何烈山神显人物，以利亚叙事刻意呼应其接触先例。" },
     { title = "以西结", path = "wiki/ezekiel", description = "其 merkavah 异象是希伯来圣经中唯一比以利亚的战车更明确的飞行器记述。" },

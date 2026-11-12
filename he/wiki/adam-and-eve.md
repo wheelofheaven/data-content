@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -18,7 +18,7 @@ claim_type = "framework"
 core_claim_ids = ["woh-claim-0018"]
 core_versions = { woh-claim-0018 = "0.1.0" }
 entry_type = "figure"
-alternative_names = ["אדם", "חוה", "אָדָם וְחַוָּה", "ʾĀḏām and Ḥawwāh", "בני האדם הראשונים", "הזוג הראשון", "אדם קדמון וחוה (במסורת הקבלית)"]
+alternative_names = ["אדם", "חוה", "אָדָם וְחַוָּה", "ʾĀḏām ו־Ḥawwāh", "בני האדם הראשונים", "הזוג הראשון", "אדם קדמון וחוה (במסורת הקבלית)"]
 timeline = ["leo", "cancer"]
 see_also = [
     { title = "עדן", path = "wiki/eden", description = "מתקן צוות ישראל שבו סונתזו אדם וחוה וחונכו." },

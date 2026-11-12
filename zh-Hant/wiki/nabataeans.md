@@ -19,7 +19,7 @@ editorial_pass = "2026-05"
 entry_type = "people"
 claim_type = "inferred"
 timeline = ["pisces", "aries"]
-alternative_names = ["נבטו(納巴泰亞蘭語 Nabaṭu)", "Ναβαταῖοι(希臘語 Nabataîoi)", "ٱلْأَنْبَاط(阿拉伯語 al-Anbāṭ)", "Nabateans", "the Nabati", "拉克穆之民(people of Raqmū)"]
+alternative_names = ["נבטו(納巴泰亞蘭語 Nabaṭu)", "Ναβαταῖοι(希臘語 Nabataîoi)", "ٱلْأَنْبَاط(阿拉伯語 al-Anbāṭ)", "Nabateans", "納巴提人(Nabati)", "拉克穆之民(people of Raqmū)"]
 see_also = [
     { title = "佩特拉", path = "wiki/petra", description = "納巴泰人的岩鑿首都,框架之佩特拉假說的中心地點。" },
     { title = "哈尼夫信仰", path = "wiki/hanafiyya", description = "納巴泰民族被讀作其人間媒介的亞伯拉罕式復原。" },

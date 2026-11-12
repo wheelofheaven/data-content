@@ -531,7 +531,7 @@ The mainstream scholarly explanation — which generally treats Raël as one fig
 - [Muhammad](../muhammad/)
 - [Age of Aquarius](../../timeline/age-of-aquarius/)
 - [Age of Pisces](../../timeline/age-of-pisces/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](/wiki/paul-wallis/)
 

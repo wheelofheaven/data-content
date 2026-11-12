@@ -13,7 +13,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "framework"
-alternative_names = ["ID", "Design theory", "Design hypothesis", "Directed design (the Raëlian variant)"]
+alternative_names = ["ID", "Design theory", "Design hypothesis", "Gelenktes Design (die raëlianische Variante)"]
 see_also = [
     { title = "Genesis-Werkzeugkasten", path = "wiki/genesis-toolbox", description = "Die Antwort des Rahmens auf die Design-Debatte in praktischer Form: Designer mit einem dokumentierten Werkzeugkasten." },
     { title = "Lebensengineering", path = "wiki/life-engineering", description = "Der Mechanismus des Korpus, durch den die Elohim als Designer gehandelt haben sollen." },

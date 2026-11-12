@@ -16,7 +16,7 @@ editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
-alternative_names = ["Eliyyahu", "Eliyahu", "Elias", "Ilyas", "Elijah the Tishbite", "Elijah the Messenger"]
+alternative_names = ["Eliyyahu", "Eliyahu", "Elias", "Ilyas", "אליהו התשבי", "אליהו השליח"]
 see_also = [
     { title = "משה", path = "wiki/moses", description = "דמות ההתגלות הקודמת בחורב, שתקדים המגע שלה מהדהד במכוון בסיפור אליהו." },
     { title = "יחזקאל", path = "wiki/ezekiel", description = "שחזון המרכבה שלו הוא התיאור היחיד בתנ״ך של כלי טיס מפורש יותר מרכב אליהו." },

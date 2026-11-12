@@ -14,7 +14,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "Bioengineering of life", "Living-systems engineering"]
+alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "生命的生物工程", "Living-systems engineering"]
 see_also = [
     { title = "创世工具箱", path = "wiki/genesis-toolbox", description = "纲领层面的综合：生命工程作为正典创造技术栈的核心阶段。" },
     { title = "合成生物学", path = "wiki/synthetic-biology", description = "该领域最具雄心的分支，即文集所称生命工程的标准学科名称。" },
@@ -373,7 +373,7 @@ The framework's reading is consistent with the direction of Ball's argument. The
 - [Council of the Eternals](../council-of-the-eternals/)
 - [Embassy](../embassy/)
 - [Golden Age](../golden-age/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [让·桑迪](/wiki/jean-sendy/)
 - [Raël](../rael/)
 - [*Message from the Designers*](/wiki/message-from-the-designers/)
 - [Mauro Biglino](/wiki/mauro-biglino/)

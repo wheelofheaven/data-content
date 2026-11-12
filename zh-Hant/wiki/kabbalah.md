@@ -70,7 +70,7 @@ Three spellings track three receptions of the same material:
 - **Kabbalah** — the Jewish tradition and the standard modern scholarly form.
 - **Cabala** (Latinate; French *Cabale*) — the older European spelling, carried
   by the Renaissance Christian Kabbalah of Pico della Mirandola and Johannes
-  Reuchlin, and used by Jean Sendy and his source Alexandre Safran.
+  Reuchlin, and used by 讓·桑迪 and his source Alexandre Safran.
 - **Qabalah** — the Hermetic and Western-esoteric appropriation of the late
   nineteenth and twentieth centuries (the Golden Dawn, Mathers, Crowley).
 
@@ -260,7 +260,7 @@ of it.
 - [Living Earth](../living-earth/)
 - [Four Levels](../four-levels/)
 - [Hebrew](../hebrew/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Elohim Home Planet](../elohim-home-planet/)
 - [*Shi'ur Qomah* — Wheel of Heaven Translation](/library/shiur-qomah-woh/)

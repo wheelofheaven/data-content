@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Revelation", "ἀποκάλυψις", "Age of Apocalypse", "Age of Revelation"]
+alternative_names = ["Revelation", "ἀποκάλυψις", "עידן האפוקליפסה", "עידן ההתגלות"]
 timeline = ["aquarius"]
 see_also = [
     { title = "מקרוביולוגיה", path = "wiki/macrobiology", description = "הביולוגיה של האנושות כאורגניזם, שבה 1945 מסמנת את רגע הפעלתה של מערכת העצבים הפלנטרית." },

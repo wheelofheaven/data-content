@@ -14,7 +14,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of megalithic sites", "Ancient megalithic architecture index", "Cyclopean and megalithic construction reference"]
+alternative_names = ["Catálogo de yacimientos megalíticos", "Ancient megalithic architecture index", "Referencia sobre construcción ciclópea y megalítica"]
 see_also = [
     { title = "Antiguos Constructores", path = "wiki/ancient-builders", description = "La entrada emparejada que aborda quién construyó los yacimientos que enumera este catálogo." },
     { title = "Arqueoastronomía", path = "wiki/archaeoastronomy", description = "Las alineaciones astronómicas sistemáticas documentadas en muchos de los yacimientos catalogados." },

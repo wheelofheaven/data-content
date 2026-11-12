@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Noah (English)", "נֹחַ (Hebrew Noaḥ)", "Νῶε (Greek Nōe)", "نوح (Arabic Nūḥ)", "the Eden-lineage flood survivor", "the ark-builder", "the post-flood patriarch"]
+alternative_names = ["Noah (English)", "נֹחַ (Hebrew Noaḥ)", "Νῶε (Greek Nōe)", "نوح (Arabic Nūḥ)", "the Eden-lineage flood survivor", "der Erbauer der Arche", "der Patriarch nach der Sintflut"]
 timeline = ["age-of-cancer", "age-of-gemini"]
 see_also = [
     { title = "Sintflut", path = "wiki/great-flood", description = "Die Katastrophe des Zwillinge-Zeitalters, gegen die die Bewahrungsoperation der Arche unternommen wurde." },

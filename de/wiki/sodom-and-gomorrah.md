@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["the Cities of the Plain", "the Sodom event", "the Sodom strike", "*Sedom va-Amorah* (Hebrew: סְדֹם וַעֲמֹרָה)", "the Genesis 19 destruction", "the Council preventive strike (Taurus phase)", "the second preventive strike", "the Dead Sea event"]
+alternative_names = ["die Städte der Ebene", "das Sodom-Ereignis", "der Schlag gegen Sodom", "*Sedom va-Amorah* (Hebrew: סְדֹם וַעֲמֹרָה)", "die Zerstörung von Genesis 19", "der Präventivschlag des Rates (Stier-Phase)", "der zweite Präventivschlag", "das Ereignis am Toten Meer"]
 timeline = ["taurus"]
 see_also = [
     { title = "Sintflut", path = "wiki/great-flood", description = "Der erste Schlag des Rates im planetaren Maßstab; Sodom ist ein späterer, örtlich begrenzter." },

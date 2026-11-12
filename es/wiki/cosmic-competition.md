@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the cosmic competition", "the cosmic competition framework", "the inheritance evaluation", "the parallel-humanities framework", "the multiple-worlds creation framework"]
+alternative_names = ["la competencia cósmica", "el marco de la competencia cósmica", "la evaluación de la herencia", "el marco de las humanidades paralelas", "el marco de la creación en múltiples mundos"]
 timeline = ["aries", "pisces", "aquarius"]
 see_also = [
     { title = "Macrobiología", path = "wiki/macrobiology", description = "La biología del todo: la Competencia Cósmica aporta la población de humanidades creadas que requiere una ciencia de los organismos planetarios." },

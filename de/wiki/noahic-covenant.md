@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["the Noahic Covenant", "the post-flood covenant", "the rainbow covenant", "the Noahide covenant (Jewish tradition designation)", "the originary biblical covenant"]
+alternative_names = ["der Noachidische Bund", "der Bund nach der Sintflut", "der Regenbogenbund", "the Noahide covenant (Jewish tradition designation)", "der ursprüngliche biblische Bund"]
 timeline = ["age-of-gemini"]
 see_also = [
     { title = "Noah", path = "wiki/noah", description = "Der menschliche Partner der verbannten Schöpfer und die nachgeordnete Partei des Bundes." },

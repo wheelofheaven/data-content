@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["plurality of the gods", "plurality of the Elohim", "the multiple-creators reading", "biblical polytheism", "Hebrew Bible plurality content", "the divine council reading", "the Elohim plural reading"]
+alternative_names = ["Vielheit der Götter", "Vielheit der Elohim", "die Lesart der vielen Schöpfer", "biblical polytheism", "Hebrew Bible plurality content", "die Lesart des göttlichen Rates", "die Lesart des Plurals Elohim"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "Das hebräische Pluralnomen im Zentrum der Lesart der Vielheit." },

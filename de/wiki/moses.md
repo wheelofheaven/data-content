@@ -15,7 +15,7 @@ editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
-alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "Moses the Lawgiver", "Mosheh Rabbenu (\"Moses our Teacher\")"]
+alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "Mose der Gesetzgeber", "Mosheh Rabbenu (\"Moses our Teacher\")"]
 see_also = [
     { title = "Jahwe", path = "wiki/yahweh", description = "Der Präsident der Elohim hinter dem brennenden Dornbusch und den Kontaktereignissen am Sinai." },
     { title = "Rat der Ewigen", path = "wiki/council-of-the-eternals", description = "Das Gremium, bei dem Mose nach dem Bericht zusammen mit den anderen früheren Propheten anwesend ist." },

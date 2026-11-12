@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-11"
 translation_stale = false
 translation_sync = 100
@@ -18,7 +18,7 @@ claim_type = "framework"
 core_claim_ids = ["woh-claim-0018"]
 core_versions = { woh-claim-0018 = "0.1.0" }
 entry_type = "figure"
-alternative_names = ["亞當", "夏娃", "אָדָם וְחַוָּה", "ʾĀḏām and Ḥawwāh", "第一批人類", "第一對人類", "Adam Kadmon 與 Hawwah(卡巴拉傳統中)"]
+alternative_names = ["亞當", "夏娃", "אָדָם וְחַוָּה", "ʾĀḏām 與 Ḥawwāh", "第一批人類", "第一對人類", "Adam Kadmon 與 Hawwah(卡巴拉傳統中)"]
 timeline = ["leo", "cancer"]
 see_also = [
     { title = "伊甸", path = "wiki/eden", description = "亞當與夏娃在其中被合成並受教育的以色列隊設施。" },

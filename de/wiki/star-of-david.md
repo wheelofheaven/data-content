@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["hexagram", "Magen David (מָגֵן דָּוִד, 'Shield of David')", "Solomon's Seal (Seal of Solomon)", "Hindu Shatkona (षट्कोण, 'six-cornered')", "Star of Goliath (older Karaite designation)", "Creator's Star", "Hex Star"]
+alternative_names = ["hexagram", "Magen David (מָגֵן דָּוִד, 'Schild Davids')", "Siegel Salomos (Salomonisches Siegel)", "Hindu Shatkona (षट्कोण, 'six-cornered')", "Stern Goliaths (ältere karäische Bezeichnung)", "Creator's Star", "Hex Star"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Raëlianisches Unendlichkeits-Symbol", path = "wiki/raelian-symbol-of-infinity", description = "Das zusammengesetzte Emblem, in dem der Davidstern der äußere Bestandteil ist." },

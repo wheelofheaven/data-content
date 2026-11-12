@@ -14,7 +14,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of etymological readings", "Framework philology index", "Glossary of source-language readings"]
+alternative_names = ["Katalog etymologischer Lesarten", "Framework philology index", "Glossar ausgangssprachlicher Lesarten"]
 see_also = [
     { title = "Liste exegetischer Lesarten", path = "wiki/list-of-exegetic-readings", description = "Der Begleitkatalog darüber, worauf sich Begriffe beziehen, als Ergänzung zu dieser philologischen Ebene." },
     { title = "Liste der Mytheme und mythologischen Motive", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "Der dritte Begleitkatalog zu wiederkehrenden kulturübergreifenden Erzählmustern." },

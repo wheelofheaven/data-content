@@ -249,9 +249,9 @@ In all these cases, the corpus's working position is that the global recurrence 
 
 The Apocalypse concept has been a major subject of modern reinterpretive engagement across the twentieth and twenty-first centuries, with several distinct strands bearing on the corpus's adopted reading.
 
-### Jean Sendy: *L'Ère du Verseau* (1970)
+### 讓·桑迪: *L'Ère du Verseau* (1970)
 
-**Jean Sendy**'s *L'Ère du Verseau* (1970, English: *The Coming of the Gods*, 1973) is the framework's principal scholarly antecedent on the Aquarian-age transition specifically. Sendy develops the precessional reading of the prophetic and apocalyptic literature, working from the Hebrew Bible and the Book of Revelation through comparative-mythological evidence to reach a reading substantially close to the framework's: that the Apocalypse names the Aquarian-age transition, that the period is one of disclosure rather than destruction, that the prophetic content of Daniel and Revelation is referential rather than supernaturally predictive, and that the contemporary period is the Apocalypse unfolding.
+**讓·桑迪**'s *L'Ère du Verseau* (1970, English: *The Coming of the Gods*, 1973) is the framework's principal scholarly antecedent on the Aquarian-age transition specifically. Sendy develops the precessional reading of the prophetic and apocalyptic literature, working from the Hebrew Bible and the Book of Revelation through comparative-mythological evidence to reach a reading substantially close to the framework's: that the Apocalypse names the Aquarian-age transition, that the period is one of disclosure rather than destruction, that the prophetic content of Daniel and Revelation is referential rather than supernaturally predictive, and that the contemporary period is the Apocalypse unfolding.
 
 Sendy's specific contributions to Apocalypse interpretation include the precessional reading of *sha'ar ha-dagim* in Zephaniah 1:10 (subsequently incorporated into the framework's reading), the reading of Revelation as preserving alliance-contact content in vision form, and the broader reframing of apocalyptic literature as a body of operational rather than supernatural content. His approach is philological and comparative-historical rather than revelatory; he reaches the framework's reading from textual analysis without recourse to revelatory testimony. The convergence between Sendy's reading and the Raëlian source material's first-person account is one of the corpus's foundational observations on this concept.
 
@@ -298,7 +298,7 @@ The corpus's reading is positioned as follows within the broader landscape: alig
 - [Embassy](../embassy/)
 - [Cosmic Competition](../cosmic-competition/)
 - [Cosmic Chain](../cosmic-chain/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [*Hamlet's Mill*](/wiki/hamlets-mill/)
 - [Doubled Signature](../doubled-signature/)
 - [Great Year](../great-year/)

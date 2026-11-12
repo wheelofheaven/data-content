@@ -60,7 +60,7 @@ The modern neo-euhemeristic lineage that the framework draws on has several prin
 
 - **Brinsley Le Poer Trench**, 8th Earl of Clancarty, published *The Sky People* (1960) — among the earliest modern works to read Genesis specifically as a neo-euhemeristic document, identifying the Elohim of Genesis 1 as one creator-civilisation and Jehovah of Genesis 2 as another, and proposing that the contradiction between the two Genesis creation accounts reflects two different creator interventions rather than a literary aporia. Trench's work predates both Sendy and von Däniken and is the earliest substantial work in the modern lineage.
 
-- **Jean Sendy** published *La Lune, clé de la Bible* (*The Moon: Outpost of the Gods*, 1968), *Ces dieux qui firent le ciel et la terre* (*Those Gods Who Made Heaven and Earth*, 1969), and *L'Ère du Verseau* (*The Age of Aquarius*, 1970) — the foundational works of the specifically philological-historiographic wing of the neo-euhemeristic tradition. Sendy's method is more textually careful than the broader ancient-astronaut literature; he reads the Hebrew Bible's specific lexical choices, syntactic features, and narrative details for their operational content, identifying *Elohim* as a plural creator-civilisation, Genesis 1 as a compressed account of the Earth project's preparatory and biological phases, and the broader Hebrew tradition as preserving authentic content despite subsequent theological transformation. Sendy is the corpus's principal scholarly antecedent.
+- **讓·桑迪** published *La Lune, clé de la Bible* (*The Moon: Outpost of the Gods*, 1968), *Ces dieux qui firent le ciel et la terre* (*Those Gods Who Made Heaven and Earth*, 1969), and *L'Ère du Verseau* (*The Age of Aquarius*, 1970) — the foundational works of the specifically philological-historiographic wing of the neo-euhemeristic tradition. Sendy's method is more textually careful than the broader ancient-astronaut literature; he reads the Hebrew Bible's specific lexical choices, syntactic features, and narrative details for their operational content, identifying *Elohim* as a plural creator-civilisation, Genesis 1 as a compressed account of the Earth project's preparatory and biological phases, and the broader Hebrew tradition as preserving authentic content despite subsequent theological transformation. Sendy is the corpus's principal scholarly antecedent.
 
 - {% wiki(slug="erich-von-daniken") %}**Erich von Däniken**{% end %} published *Erinnerungen an die Zukunft* (*Chariots of the Gods?*, 1968), which became the popular ancient-astronaut tradition's most widely read text. Von Däniken's approach is more associative and less philologically careful than Sendy's, but its global cultural impact established the ancient-astronaut interpretive frame as a recognised position in popular discourse. The framework's adopted positions are substantially more aligned with Sendy than with von Däniken, though the broader cultural recognition of the neo-euhemeristic frame derives substantially from von Däniken's work.
 
@@ -261,7 +261,7 @@ The catalogue surfaces several open questions of method and substance.
 - [Cosmic Chain](../cosmic-chain/)
 - [Embassy](../embassy/)
 - [Raëlism](../raelism/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Raël](../rael/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Wallis](/wiki/paul-wallis/)

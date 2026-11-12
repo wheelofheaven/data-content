@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Infinite", "the infinite cosmos", "infinite-cosmological framework", "the broader infinite framework", "cosmic infinity"]
+alternative_names = ["das Unendliche", "der unendliche Kosmos", "infinite-cosmological framework", "das umfassendere Modell der Unendlichkeit", "cosmic infinity"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Fraktale Kosmologie", path = "wiki/fractal-cosmology", description = "Die räumliche Dimension innerhalb des Rahmens der Unendlichkeit." },

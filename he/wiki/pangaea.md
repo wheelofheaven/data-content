@@ -19,7 +19,7 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "framework"
-alternative_names = ["Pangea", "Antediluvian supercontinent", "The pre-deluge landmass", "The one continent"]
+alternative_names = ["Pangea", "Antediluvian supercontinent", "גוש היבשה שלפני המבול", "היבשת האחת"]
 see_also = [
     { title = "עדן", path = "wiki/eden", description = "אתר הבריאה, הממוקם על יבשת טרום־מבולית אחת זו." },
     { title = "טרום-מבולי", path = "wiki/antediluvian", description = "כל התקופה שלפני המבול, שפנגיאה שימשה לה מצע גאוגרפי." },

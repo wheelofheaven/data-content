@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the alliance", "跨文明聯盟", "耶洛因—人類聯盟", "挪亞聯盟", "立約夥伴關係"]
+alternative_names = ["聯盟", "跨文明聯盟", "耶洛因—人類聯盟", "挪亞聯盟", "立約夥伴關係"]
 timeline = ["gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
     { title = "永恆者議會", path = "wiki/council-of-the-eternals", description = "聯盟在挪亞時刻與之對立而成立的母星議會。" },
@@ -257,7 +257,7 @@ The Alliance is largely the corpus's own construction, not a category developed 
 
 ### Sendy on the alliance structure
 
-**Jean Sendy** is the framework's principal scholarly antecedent. His *Ces dieux qui firent le ciel et la terre* (1969) and *La lune, clé de la Bible* (1968) treat the covenant material as the record of an actual political relationship between identifiable parties — the Elohim creators and the Hebrew people — rather than theological-mythological construction. His contributions include reading *bərît* as an actual diplomatic agreement, recognizing the covenant material's parallels to ancient Near Eastern treaty traditions, and treating the Hebrew Bible as preserving recoverable political-historical content. The framework extends him, specifying that relationship as the cross-civilizational body developed here.
+**讓·桑迪** is the framework's principal scholarly antecedent. His *Ces dieux qui firent le ciel et la terre* (1969) and *La lune, clé de la Bible* (1968) treat the covenant material as the record of an actual political relationship between identifiable parties — the Elohim creators and the Hebrew people — rather than theological-mythological construction. His contributions include reading *bərît* as an actual diplomatic agreement, recognizing the covenant material's parallels to ancient Near Eastern treaty traditions, and treating the Hebrew Bible as preserving recoverable political-historical content. The framework extends him, specifying that relationship as the cross-civilizational body developed here.
 
 ### Biglino on the operational political structure
 
@@ -353,7 +353,7 @@ The corpus's working position is that this global recurrence is meaningful as ev
 - [Age of Aries](../../timeline/age-of-aries/)
 - [Age of Pisces](../../timeline/age-of-pisces/)
 - [Age of Aquarius](../../timeline/age-of-aquarius/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](/wiki/paul-wallis/)
 

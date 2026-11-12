@@ -170,9 +170,9 @@ On the framework's [Doubled Signature](../doubled-signature/) reading, each
 precessional age encodes its astronomy twice, in a zodiacal sign and its
 opposite, so the record survives even after its meaning is lost; the corpus adopts
 *Hamlet's Mill* as the structural spine along which the Elohim's work is organized
-across the twelve ages. Jean Sendy's *L'ère du Verseau* (1970) supplies the
+across the twelve ages. 让·桑迪's *L'ère du Verseau* (1970) supplies the
 bridge between the astronomical thesis and the reading of scripture as history
-(see [Jean Sendy](/wiki/jean-sendy/)).
+(see [让·桑迪](/wiki/jean-sendy/)).
 
 The framework also uses this history to explain why the parallels diverge as much
 as they converge. Some apparent variants of one event in fact record several
@@ -237,7 +237,7 @@ what the other methods legitimately establish.
 - [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
 - [Biglino Method](../biglino-method/)
 - [Sendy's Conditions of Coherence](../sendys-conditions-of-coherence/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [让·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [The Tradition](../the-tradition/)
 - [The Truth](../the-truth/)

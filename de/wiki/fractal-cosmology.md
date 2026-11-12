@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["fractal cosmos", "the fractal-self-similar cosmology", "the infinite-hierarchical cosmology", "the nested-cosmos framework", "the scale-invariant cosmology"]
+alternative_names = ["fractal cosmos", "die fraktal-selbstähnliche Kosmologie", "die unendlich-hierarchische Kosmologie", "das Modell des verschachtelten Kosmos", "die skaleninvariante Kosmologie"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Makrobiologie", path = "wiki/macrobiology", description = "Die Lehre von den lebenden Systemen auf einer Sprosse der fraktalen Leiter: die Menschheit verhält sich zum Menschen wie der Mensch zur Zelle." },

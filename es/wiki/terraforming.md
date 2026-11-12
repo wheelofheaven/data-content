@@ -14,7 +14,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Planetary engineering", "Ecological engineering at planetary scale", "Earth-shaping", "Geoengineering of other worlds"]
+alternative_names = ["Planetary engineering", "Ecological engineering at planetary scale", "Earth-shaping", "Geoingeniería de otros mundos"]
 see_also = [
     { title = "Caja de herramientas del Génesis", path = "wiki/genesis-toolbox", description = "La síntesis a nivel de programa: la terraformación como una fase de la pila completa de la creación que describe el canon." },
     { title = "Génesis", path = "wiki/genesis", description = "El texto cuyas cuatro primeras eras el marco lee como la terraformación de la Tierra por los Elohim." },

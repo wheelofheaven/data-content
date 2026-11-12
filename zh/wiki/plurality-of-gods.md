@@ -248,7 +248,7 @@ The Eastern Orthodox doctrine of *theosis* — "the Son of God became man that w
 might become God," in Athanasius's formula, elaborated by Gregory Palamas and the
 *Philokalia* and grounded in Psalm 82:6 and 2 Peter 1:4 — converges with the
 framework's dynamic dimension while remaining within a Christian metaphysics the
-framework does not share. Within the alternative-history literature, Jean Sendy,
+framework does not share. Within the alternative-history literature, 让·桑迪,
 Mauro Biglino, and Paul Anthony Wallis each reach a plural-creators reading of
 *Elohim* by their own routes. These convergences are structural, not identities:
 each tradition keeps commitments the framework rejects, and the framework
@@ -277,7 +277,7 @@ preserves the differences rather than absorbing them.
 - [Eden](../eden/)
 - [Antediluvian](../antediluvian/)
 - [Apocalypse](../apocalypse/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [让·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](/wiki/paul-wallis/)
 - [Monotheism Is the Wrong Question](/articles/monotheism-is-the-wrong-question/)

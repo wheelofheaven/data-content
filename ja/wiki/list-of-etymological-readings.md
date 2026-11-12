@@ -18,7 +18,7 @@ alternative_names = ["語源学的読解の目録", "枠組みの文献学索引
 see_also = [
     { title = "釈義的読解のリスト", path = "wiki/list-of-exegetic-readings", description = "語が何を指すかを扱い、この文献学的な水準を補う姉妹目録。" },
     { title = "神話素および神話的モチーフのリスト", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "文化を横断して繰り返される物語の型を扱う、三つ目の姉妹目録。" },
-    { title = "ビリーノの方法", path = "wiki/biglino-method", description = "目録のサンディ=ビグリーノの方法が依拠する、厳密な文献学の手続き。" },
+    { title = "ビリーノの方法", path = "wiki/biglino-method", description = "目録のサンディ=ビリーノの方法が依拠する、厳密な文献学の手続き。" },
     { title = "ヘブライ語", path = "wiki/hebrew", description = "目録の中で最大の原語の範疇。" },
     { title = "聖書", path = "wiki/bible", description = "目録がその用語を語源的に回復する、主要なテクストのコーパス。" },
     { title = "ネオエウヘメリズム", path = "wiki/neo-euhemerism", description = "読解が適用する実際的なレンズをもたらす解釈の伝統。" },

@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["Bereshit", "B'reshit", "First Book of Moses"]
+alternative_names = ["Bereshit", "B'reshit", "Primer Libro de Moisés"]
 see_also = [
     { title = "Caja de herramientas del Génesis", path = "wiki/genesis-toolbox", description = "El conjunto que reúne el corpus de la ciencia y la tecnología que el relato de la creación describe en funcionamiento." },
     { title = "Elohim", path = "wiki/elohim", description = "Los creadores plurales cuya obra narra el primer capítulo." },

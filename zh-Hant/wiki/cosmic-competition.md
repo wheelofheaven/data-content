@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the cosmic competition", "宇宙競爭框架", "繼承評估", "平行人類框架", "多世界創造框架"]
+alternative_names = ["宇宙競爭", "宇宙競爭框架", "繼承評估", "平行人類框架", "多世界創造框架"]
 timeline = ["aries", "pisces", "aquarius"]
 see_also = [
     { title = "宏觀生物學", path = "wiki/macrobiology", description = "整體的生物學:宇宙競爭提供了行星有機體科學所需的受造人類群體。" },
@@ -338,7 +338,7 @@ The framework's relationship to mainstream exoplanet research is not one of dire
 
 ### Sendy on the cosmic competition
 
-**Jean Sendy** developed limited engagement with what would become the cosmic-competition framework, principally through his treatment of the broader cosmological context within which the Hebrew Bible's Eden-and-creation material operates. Sendy's specific contributions include:
+**讓·桑迪** developed limited engagement with what would become the cosmic-competition framework, principally through his treatment of the broader cosmological context within which the Hebrew Bible's Eden-and-creation material operates. Sendy's specific contributions include:
 
 - The recognition that the Hebrew Bible's broader cosmological framework is consistent with multiple-worlds creation
 - The treatment of various Hebrew Bible passages as preserving fragmentary references to the broader cosmic context
@@ -479,7 +479,7 @@ The corpus does not require rejecting all of the mainstream scholarly framework.
 - [Age of Aries](../../timeline/age-of-aries/)
 - [Age of Pisces](../../timeline/age-of-pisces/)
 - [Age of Aquarius](../../timeline/age-of-aquarius/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Mauro Biglino](/wiki/mauro-biglino/)
 - [Paul Anthony Wallis](/wiki/paul-wallis/)
 

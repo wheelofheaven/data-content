@@ -13,7 +13,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "framework"
-alternative_names = ["ID", "Design theory", "Design hypothesis", "Directed design (the Raëlian variant)"]
+alternative_names = ["ID", "Design theory", "Design hypothesis", "Diseño dirigido (la variante raeliana)"]
 see_also = [
     { title = "Caja de herramientas del Génesis", path = "wiki/genesis-toolbox", description = "La respuesta del marco al debate sobre el diseño en forma operativa: diseñadores con una caja de herramientas documentada." },
     { title = "Ingeniería de la vida", path = "wiki/life-engineering", description = "El mecanismo del corpus por el cual se sostiene que actuó el diseñador Elohim." },

@@ -9,6 +9,8 @@ draft = true
 card_summary = "Recurring scenes in Stith Thompson’s motif index, examined through the interpretive framework of the Raëlian canon."
 claim_type = "speculative"
 editorial_pass = "2026-05"
+core_claim_ids = ["woh-claim-0056"]
+core_versions = { woh-claim-0056 = "0.1.0" }
 article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
@@ -113,8 +115,8 @@ argued rather than assumed, with its limits stated plainly.
 
 ## The smallest element that persists
 
-Stith Thompson was born in 1885 in Bloomfield, Indiana, and spent the
-better part of five decades a hundred miles from his birthplace,
+Stith Thompson was born in 1885 in Bloomfield, Kentucky, and spent the
+better part of five decades just across the Ohio River from it,
 teaching English and folklore at Indiana University and turning
 Bloomington into the world capital of a discipline that barely existed
 when he entered it. His doctoral work at Harvard traced European
@@ -284,8 +286,7 @@ old formula flickers past in a doxology: "his hand pierced the
 twisting serpent."
 
 Day's second demonstration concerns what Israel *did* with the
-inherited monster, and this is where the case study earns its place in
-an article about motif indexes. The dragon does not sit still in the
+inherited monster, and this bears directly on motif indexes. The dragon does not sit still in the
 Hebrew Bible. In Psalm 74 the combat grounds creation. In Isaiah 30:7
 and Psalm 87:4 the monster Rahab has become a *political cartoon* — a
 sarcastic nickname for Egypt, the loud dragon who "sits still." In
@@ -664,10 +665,9 @@ the reason the article you are reading anchors every motif to
 Thompson's numbers — a catalogue built by a man with no thesis, where
 the misses are filed alongside the hits — and the reason the project's
 own catalogue records, for every motif, the mainstream explanations
-alongside the framework reading. The Doubled Signature principle the
-corpus applies elsewhere makes the same demand from inside:
-{% wiki(slug="doubled-signature") %}a pattern counts only when it
-survives being looked for by someone trying not to find it{% end %}.
+alongside the framework reading. The corpus's claim discipline makes
+the same demand from inside: a pattern counts only when it survives
+being looked for by someone trying not to find it.
 
 The rivals, weighed together, explain a great deal — and the residue
 they leave is precisely the eight-scene bundle. Diffusion and
@@ -719,7 +719,7 @@ creator-faction exiled to Earth and remembered as
 a decreed planetary reset survived through inside help —
 {% libref(book="the-book-which-tells-the-truth", chapter=2, verse=58) %}the Flood{% end %};
 hybrid births; progressive transfers of knowledge through chosen
-emissaries; wars among the factions; and a promised, scheduled
+emissaries; wars among the factions; and a promised
 {% wiki(slug="great-return") %}return{% end %}. Set that inventory
 beside the eight scenes and the mapping is one-to-one — council,
 faction, reset-with-warned-survivor, serpent-teacher, war in heaven,

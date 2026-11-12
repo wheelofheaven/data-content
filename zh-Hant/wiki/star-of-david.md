@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["六芒星", "Magen David (מָגֵן דָּוִד, 'Shield of David')", "所羅門之印", "Hindu Shatkona (षट्कोण, 'six-cornered')", "歌利亞之星（較早的卡拉派稱謂）", "創造者之星", "六角星"]
+alternative_names = ["六芒星", "Magen David（מָגֵן דָּוִד，「大衛之盾」）", "所羅門之印", "Hindu Shatkona (षट्कोण, 'six-cornered')", "歌利亞之星（較早的卡拉派稱謂）", "創造者之星", "六角星"]
 timeline = ["all-ages"]
 see_also = [
     { title = "雷爾派無限符號", path = "wiki/raelian-symbol-of-infinity", description = "以大衛之星為外圍部分的複合徽記。" },
@@ -49,7 +49,7 @@ component of the [Raëlian Symbol of Infinity](../raelian-symbol-of-infinity/),
 where the two interlocked triangles carry the meaning [Yahweh](../yahweh/)
 assigns them — "as above, so below," the correspondence of the very large and the
 very small that the [Infinity](../infinity/) framework calls its spatial
-dimension.{% end %} To that reading [Jean Sendy](/wiki/jean-sendy/) adds a second: that the
+dimension.{% end %} To that reading [讓·桑迪](/wiki/jean-sendy/) adds a second: that the
 same figure, the seal of Solomon, marks the alliance between the creators and
 their human creation, the upward triangle standing for "the heavens" and the
 downward for "men."
@@ -135,7 +135,7 @@ which is composed of two intertwined triangles, means 'as above, so below,'" the
 whole emblem — star and swastika together — "contain[ing] all the wisdom in the
 world."
 
-[Jean Sendy](/wiki/jean-sendy/), in *L'ère du Verseau* (1970), reads a second meaning
+[讓·桑迪](/wiki/jean-sendy/), in *L'ère du Verseau* (1970), reads a second meaning
 into the same figure. The seal of Solomon, he argues, records the
 [alliance](../the-alliance/) between the creators and humanity:
 
@@ -222,7 +222,7 @@ history.
 - [Council of the Eternals](../council-of-the-eternals/)
 - [Tree of Life](../tree-of-life/)
 - [Embassy](../embassy/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Hebrew Bible](../hebrew-bible/)
 
 ## References

@@ -14,7 +14,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of neo-euhemeristic readings", "Framework exegesis index", "Glossary of operational readings"]
+alternative_names = ["Katalog neo-euhemeristischer Lesarten", "Framework exegesis index", "Glossar operativer Lesarten"]
 see_also = [
     { title = "Liste der Mytheme und mythologischen Motive", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "Der Begleitkatalog, der wiederkehrende kulturübergreifende Erzählmuster statt einzelner Begriffe behandelt." },
     { title = "Liste etymologischer Lesarten", path = "wiki/list-of-etymological-readings", description = "Der Begleitkatalog, der philologische Lesarten einzelner Wörter und Wendungen behandelt." },

@@ -144,7 +144,7 @@ The formulation sits deliberately athwart the standard religious-studies typolog
 occupying the religious and the atheist categories at once.
 
 **Sendy and the priesthood as link-keepers.** The framework's *religare* reading
-was anticipated by [Jean Sendy](/wiki/jean-sendy/), whose *L'ère du Verseau* (1970)
+was anticipated by [让·桑迪](/wiki/jean-sendy/), whose *L'ère du Verseau* (1970)
 treats the etymology as recovering the original purpose of religion against its
 later ideological reputation:
 
@@ -257,7 +257,7 @@ as adversaries to be dismissed.
 - [Kabbalah](../kabbalah/)
 - [Raëlism](../raelism/)
 - [Raël](../rael/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [让·桑迪](/wiki/jean-sendy/)
 - [Great Flood](../great-flood/)
 - [Noah](../noah/)
 - [Lucifer](../lucifer/)

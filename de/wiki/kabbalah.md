@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["Cabala (older European spelling)", "Qabalah (Hermetic / Western-esoteric spelling)", "Kabbala", "*Qabbalah* (Hebrew: קַבָּלָה)", "the Jewish mystical tradition", "*shalshelet ha-Kabbalah* ('chain of Tradition')", "*torat ha-sod* ('the secret teaching')", "*chokhmah penimit* ('inner wisdom')"]
+alternative_names = ["Cabala (older European spelling)", "Qabalah (Hermetic / Western-esoteric spelling)", "Kabbala", "*Qabbalah* (Hebrew: קַבָּלָה)", "die jüdische mystische Tradition", "*shalshelet ha-Kabbalah* ('Kette der Überlieferung')", "*torat ha-sod* ('die geheime Lehre')", "*chokhmah penimit* ('inner wisdom')"]
 timeline = ["multi-age"]
 see_also = [
     { title = "Götter-Vielheit", path = "wiki/plurality-of-gods", description = "Die Lesart der strukturierten Vielheit, die die Sefirot-Kosmologie am unmittelbarsten bewahren soll." },

@@ -16,7 +16,7 @@ editorial_pass = "2026-05"
 entry_type = "event"
 claim_type = "direct"
 timeline = ["aquarius"]
-alternative_names = ["The Return", "Second Coming (in some comparative-religion framings)", "The Arrival", "The Reunification"]
+alternative_names = ["El Regreso", "Second Coming (in some comparative-religion framings)", "La Llegada", "La Reunificación"]
 see_also = [
     { title = "Embajada", path = "wiki/embassy", description = "La instalación que la humanidad debe construir como condición previa principal del Regreso." },
     { title = "Tercer Templo", path = "wiki/third-temple", description = "La Embajada leída a través de las profecías de restauración del Templo de la Biblia Hebrea." },

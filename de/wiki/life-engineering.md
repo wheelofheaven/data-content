@@ -14,7 +14,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "Bioengineering of life", "Living-systems engineering"]
+alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "Bioengineering des Lebens", "Living-systems engineering"]
 see_also = [
     { title = "Genesis-Werkzeugkasten", path = "wiki/genesis-toolbox", description = "Die Synthese auf Programmebene: die Lebensengineering als zentrale Phase des Schöpfungsstapels des Kanons." },
     { title = "Synthetische Biologie", path = "wiki/synthetic-biology", description = "Der ehrgeizigste Zweig des Feldes, der übliche Disziplinname für das, was das Korpus Lebensengineering nennt." },

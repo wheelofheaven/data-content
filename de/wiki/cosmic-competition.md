@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the cosmic competition", "the cosmic competition framework", "the inheritance evaluation", "the parallel-humanities framework", "the multiple-worlds creation framework"]
+alternative_names = ["der kosmische Wettbewerb", "das Modell des kosmischen Wettbewerbs", "die Erbschaftsbewertung", "das Modell paralleler Menschheiten", "das Modell der Schöpfung auf vielen Welten"]
 timeline = ["aries", "pisces", "aquarius"]
 see_also = [
     { title = "Makrobiologie", path = "wiki/macrobiology", description = "Die Biologie des Ganzen: Der kosmische Wettbewerb liefert die Population geschaffener Menschheiten, die eine Wissenschaft planetarer Organismen benötigt." },

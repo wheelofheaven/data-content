@@ -16,7 +16,7 @@ editorial_pass = "2026-05"
 entry_type = "event"
 claim_type = "direct"
 timeline = ["aquarius"]
-alternative_names = ["The Return", "Second Coming (in some comparative-religion framings)", "The Arrival", "The Reunification"]
+alternative_names = ["Die Rückkehr", "Second Coming (in some comparative-religion framings)", "Die Ankunft", "Die Wiedervereinigung"]
 see_also = [
     { title = "Botschaft", path = "wiki/embassy", description = "Die Anlage, die die Menschheit als wichtigste Vorbedingung der Rückkehr bauen muss." },
     { title = "Dritter Tempel", path = "wiki/third-temple", description = "Die Botschaft, gelesen durch die Prophezeiungen der Hebräischen Bibel über die Wiederherstellung des Tempels." },

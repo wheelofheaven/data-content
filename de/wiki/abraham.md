@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Abraham (English)", "Abram (pre-renaming name)", "אַבְרָהָם (Hebrew Avraham)", "אַבְרָם (Hebrew Avram)", "إبراهيم (Arabic Ibrāhīm)", "Ἀβραάμ (Greek Abraám)", "the Patriarch", "Avraham Avinu (Jewish 'Abraham our father')", "Khalīl Allāh (Arabic 'Friend of God')"]
+alternative_names = ["Abraham (English)", "Abram (pre-renaming name)", "אַבְרָהָם (Hebrew Avraham)", "אַבְרָם (Hebrew Avram)", "إبراهيم (Arabic Ibrāhīm)", "Ἀβραάμ (Greek Abraám)", "der Patriarch", "Avraham Avinu (Jewish 'Abraham our father')", "Khalīl Allāh (arabisch 'Freund Gottes')"]
 timeline = ["age-of-taurus", "age-of-aries"]
 see_also = [
     { title = "Noachidischer Bund", path = "wiki/noahic-covenant", description = "Der Bund nach der Sintflut, dessen Linie der Abrahamsbund fortsetzt." },

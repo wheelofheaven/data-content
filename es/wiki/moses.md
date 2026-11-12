@@ -15,7 +15,7 @@ editorial_pass = "2026-05"
 entry_type = "biographical"
 claim_type = "direct"
 timeline = ["aries"]
-alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "Moses the Lawgiver", "Mosheh Rabbenu (\"Moses our Teacher\")"]
+alternative_names = ["Moshe", "Mosheh", "Mūsā", "Moisés", "Moisés el Legislador", "Mosheh Rabbenu (\"Moses our Teacher\")"]
 see_also = [
     { title = "Yahvé", path = "wiki/yahweh", description = "El presidente de los Elohim detrás de los contactos de la zarza ardiente y del Sinaí." },
     { title = "Consejo de los Eternos", path = "wiki/council-of-the-eternals", description = "El órgano en el que se dice que Moisés está presente junto a los demás profetas anteriores." },

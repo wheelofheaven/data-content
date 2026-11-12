@@ -75,7 +75,7 @@ Broader work on religious symbolism supplies the theoretical frame. Mircea Eliad
 
 ### Sendy, Biglino, and Wallis
 
-Jean Sendy, Mauro Biglino, and Paul Anthony Wallis engage the emblem only glancingly: Sendy's work on the alliance-mediated Hebrew Bible touches its iconography, Biglino's strict-translation approach stays textual, and Wallis's alliance-mediated history does not treat the symbol at length. The entry therefore rests on the Raëlian source material and corpus development rather than on these authors.
+讓·桑迪, Mauro Biglino, and Paul Anthony Wallis engage the emblem only glancingly: Sendy's work on the alliance-mediated Hebrew Bible touches its iconography, Biglino's strict-translation approach stays textual, and Wallis's alliance-mediated history does not treat the symbol at length. The entry therefore rests on the Raëlian source material and corpus development rather than on these authors.
 
 ## In primary sources
 

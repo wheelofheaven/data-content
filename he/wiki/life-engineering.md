@@ -15,7 +15,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "Bioengineering of life", "Living-systems engineering"]
+alternative_names = ["Engineering biology", "Designer biology", "Constructive biology", "הנדסה ביולוגית של החיים", "Living-systems engineering"]
 see_also = [
     { title = "ארגז הכלים של הבריאה", path = "wiki/genesis-toolbox", description = "הסינתזה ברמת התוכנית: הנדסת חיים כשלב המרכזי במערך הבריאה של הקנון." },
     { title = "ביולוגיה סינתטית", path = "wiki/synthetic-biology", description = "האגף השאפתני ביותר של התחום, השם הדיסציפלינרי המקובל למה שהקורפוס מכנה הנדסת חיים." },

@@ -237,7 +237,7 @@ The catalogue surfaces several open methodological and interpretive questions.
 - [Satan](../satan/)
 - [Leviathan](../leviathan/)
 - [Yahweh](../yahweh/)
-- [Jean Sendy](/wiki/jean-sendy/)
+- [讓·桑迪](/wiki/jean-sendy/)
 - [Raël](../rael/)
 
 ## References
