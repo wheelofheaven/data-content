@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the cosmic competition", "the cosmic competition framework", "the inheritance evaluation", "the parallel-humanities framework", "the multiple-worlds creation framework"]
+alternative_names = ["התחרות הקוסמית", "מסגרת התחרות הקוסמית", "הערכת הירושה", "מסגרת האנושויות המקבילות", "מסגרת הבריאה בעולמות רבים"]
 timeline = ["aries", "pisces", "aquarius"]
 see_also = [
     { title = "מקרוביולוגיה", path = "wiki/macrobiology", description = "הביולוגיה של השלם: התחרות הקוסמית מספקת את אוכלוסיית האנושויות הנבראות שמדע של אורגניזמים פלנטריים זקוק לה." },

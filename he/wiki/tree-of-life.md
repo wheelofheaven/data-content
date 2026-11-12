@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-08"
 translation_stale = false
 translation_sync = 99
@@ -18,7 +18,7 @@ category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 claim_type = "framework"
 entry_type = "concept"
-alternative_names = ["the Tree of Life", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "the Tree of Eternal Life", "the Tree of Immortality", "the longevity technology", "the cellular-transfer technology"]
+alternative_names = ["עץ החיים", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "עץ חיי הנצח", "עץ האלמוות", "טכנולוגיית אריכות הימים", "טכנולוגיית ההעברה התאית"]
 timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
     { title = "עץ הדעת", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "העץ המקביל בעדן — ארכיון הידע המדעי המוגבל, נבדל מן הביוטכנולוגיה של הארכת החיים." },

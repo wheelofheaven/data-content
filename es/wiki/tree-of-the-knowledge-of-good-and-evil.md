@@ -13,7 +13,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["Tree of the Knowledge of Good and Evil", "Tree of Knowledge", "עֵץ הַדַּעַת טוֹב וָרָע (Hebrew etz ha-daat tov va-ra)", "the forbidden tree", "the tree in the midst of the garden", "the second tree (alongside Tree of Life)"]
+alternative_names = ["Árbol del conocimiento del bien y del mal", "Árbol del conocimiento", "עֵץ הַדַּעַת טוֹב וָרָע (hebreo etz ha-daat tov va-ra)", "el árbol prohibido", "el árbol en medio del huerto", "el segundo árbol (junto al Árbol de la vida)"]
 timeline = ["age-of-leo", "age-of-cancer"]
 see_also = [
     { title = "Árbol de la Vida", path = "wiki/tree-of-life", description = "El árbol emparejado que codifica la tecnología de longevidad retenida junto con el conocimiento científico." },

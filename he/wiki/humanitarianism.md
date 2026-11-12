@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Humanitarianism (proper-noun framework concept)", "humanitarianism (lowercase, when used in mainstream sense)", "the second New Commandment", "the Raëlian property-and-inheritance doctrine", "the forty-nine-year rental doctrine"]
+alternative_names = ["הומניטריזם", "הומניטריות (במובן הכללי)", "המצווה החדשה השנייה", "התורה הראליאנית על קניין וירושה", "תורת השכירות לארבעים ותשע שנים", "Humanitarisme (צרפתית)"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "גניוקרטיה", path = "wiki/geniocracy", description = "מצוות הממשל הפוליטי, המזווגת עם ההומניטריזם במצוות החדשות." },

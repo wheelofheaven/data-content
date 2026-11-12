@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Jerusalem", "Third Temple (Jewish-historical register)", "Embassy (contemporary operational register)", "the Heavenly Jerusalem (Christian-apocalyptic register)", "the descending Holy City (Revelation 21 designation)", "the residence of the Elohim (Vorilhon source designation)"]
+alternative_names = ["la Nueva Jerusalén", "la Jerusalén celestial", "la Ciudad Santa que desciende", "Tercer Templo", "Embajada", "la residencia de los Elohim"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "Embajada", path = "wiki/embassy", description = "Las especificaciones operativas de la misma estructura." },

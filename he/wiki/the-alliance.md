@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the alliance", "the cross-civilizational alliance", "the Eloha-human alliance", "the Noahic alliance", "the covenant partnership"]
+alternative_names = ["הברית", "הברית הבין־ציוויליזציונית", "הברית בין אלוה לאדם", "ברית נח", "שותפות הברית"]
 timeline = ["gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
     { title = "מועצת הנצחיים", path = "wiki/council-of-the-eternals", description = "מועצת כוכב הבית שהברית התגבשה בהתנגדות לה ברגע של נח." },

@@ -14,7 +14,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of etymological readings", "Framework philology index", "Glossary of source-language readings"]
+alternative_names = ["词源学阅读目录", "本框架语文学索引", "来源语言阅读词汇表"]
 see_also = [
     { title = "释经学阅读清单", path = "wiki/list-of-exegetic-readings", description = "处理术语所指为何的姊妹目录，与此处的语文学层面相互补充。" },
     { title = "神话素与神话母题清单", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "处理反复出现之跨文化叙事模式的第三份姊妹目录。" },

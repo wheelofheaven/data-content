@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Mass Effect", "the Law of Masstime", "the law of subjective time", "the time-mass relationship", "the scale-time correspondence"]
+alternative_names = ["אפקט המסה", "חוק זמן-המסה", "חוק הזמן הסובייקטיבי", "הקשר בין זמן למסה", "ההתאמה בין קנה מידה לזמן"]
 timeline = ["all-ages"]
 see_also = [
     { title = "מקרוביולוגיה", path = "wiki/macrobiology", description = "הביולוגיה של השלם — האנושות כאורגניזם, שלב אחד מעלה בסולם קני המידה החיים, שאת קנה המידה הזמני שלו מתאר אפקט המסה." },

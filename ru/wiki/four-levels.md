@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Четыре уровня рассмотрения", "Четыре уровня оценки", "четырёхуровневая рамка", "the four-perspective evaluation framework", "the cosmic-to-individual evaluation framework", "*les quatre plans* (франц. оригинал источника)"]
+alternative_names = ["Четыре уровня рассмотрения", "Четыре уровня оценки", "четырёхуровневая рамка", "*les quatre plans* (франц. оригинал источника)"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Бесконечность", path = "wiki/infinity", description = "Первый и самый весомый уровень — космическая точка отсчёта, по которой судится всё." },

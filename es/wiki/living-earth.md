@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Earth-as-organism framework", "the planetary-organism claim", "the cosmic-biology framework", "the universal-aliveness principle", "Living Cosmos", "the biological correlate of Infinity"]
+alternative_names = ["el Cosmos Vivo", "la Tierra como ser vivo", "la tesis del organismo planetario", "la vitalidad universal"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Macrobiología", path = "wiki/macrobiology", description = "La disciplina que estudia los sistemas vivos una escala más arriba —la humanidad como organismo— y extiende la tesis de la Tierra Viva del planeta a la especie." },

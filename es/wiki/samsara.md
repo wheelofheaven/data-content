@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Saṃsāra (Sanskrit संसार, Pali saṃsāra)", "the Wheel of Life (Bhavacakra)", "the cycle of birth, death, and rebirth", "the cycle of reincarnation", "cyclic existence", "the cycle (Vorilhon source designation)"]
+alternative_names = ["Saṃsāra (sánscrito संसार, pali saṃsāra)", "la Rueda de la Vida (Bhavacakra)", "el ciclo de nacimiento, muerte y renacimiento", "el ciclo de la reencarnación", "la existencia cíclica", "el ciclo (designación en la fuente de Vorilhon)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "Macrobiología", path = "wiki/macrobiology", description = "La biología de la humanidad como organismo, para la cual el saṃsāra es el modo de fallo: la transición que se malogra antes de completarse." },

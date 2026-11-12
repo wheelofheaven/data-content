@@ -17,7 +17,7 @@ image_caption = "자료가 묘사하는 엘로힘의 고향 세계 — 온화하
 editorial_pass = "2026-05"
 category = "Elohim"
 entry_type = "place"
-alternative_names = ["Elohim Home Planet", "the home planet", "the planet of the Elohim", "the planet of the creators", "the planet of the Eternals (per single-planet reading)", "the other world", "the Mormon Kolob (per Tvedtnes hypothesis)"]
+alternative_names = ["모행성", "엘로힘의 행성", "창조자들의 행성", "영원자들의 행성"]
 timeline = ["age-of-capricorn", "age-of-aquarius"]
 see_also = [
     { title = "영원자 의회", path = "wiki/council-of-the-eternals", description = "원천의 묘사에서 모행성에 자리한 통치 기구." },

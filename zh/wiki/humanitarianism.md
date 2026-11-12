@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Humanitarianism (proper-noun framework concept)", "humanitarianism (lowercase, when used in mainstream sense)", "the second New Commandment", "the Raëlian property-and-inheritance doctrine", "the forty-nine-year rental doctrine"]
+alternative_names = ["人道主义", "人道主义（一般意义）", "第二条新诫命", "雷尔派的财产与继承学说", "四十九年租用学说", "Humanitarisme（法语）"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "天才政治", path = "wiki/geniocracy", description = "在新诫命中与人道主义并列的政治治理诫命。" },

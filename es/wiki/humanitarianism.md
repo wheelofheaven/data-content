@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Humanitarianism (proper-noun framework concept)", "humanitarianism (lowercase, when used in mainstream sense)", "the second New Commandment", "the Raëlian property-and-inheritance doctrine", "the forty-nine-year rental doctrine"]
+alternative_names = ["Humanitarismo", "humanitarismo (en minúscula, sentido genérico)", "el segundo Nuevo Mandamiento", "la doctrina raeliana de la propiedad y la herencia", "la doctrina del arrendamiento por cuarenta y nueve años", "Humanitarisme (francés)"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "Geniocracia", path = "wiki/geniocracy", description = "El mandamiento de gobierno político emparejado con el humanitarismo en los Nuevos Mandamientos." },

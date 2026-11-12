@@ -18,7 +18,7 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "direct"
-alternative_names = ["Beit ha-Mikdash ha-Shlishi (히브리어, \"세 번째 거룩한 집\")", "대사관(라엘리안 용어에서)", "거주지(일부 원전 자료 구절에서)", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "메시아의 성전"]
+alternative_names = ["Beit ha-Mikdash ha-Shlishi (히브리어, \"세 번째 거룩한 집\")", "대사관(라엘리안 용어에서)", "거주지(일부 원전 자료 구절에서)", "에스겔 성전(에스겔 40-48장의 환상)", "메시아의 성전"]
 timeline = ["aquarius"]
 see_also = [
     { title = "대사관", path = "wiki/embassy", description = "프레임워크가 제3 성전과 동일시하는, 보릴롱이 명세한 영접 거처." },

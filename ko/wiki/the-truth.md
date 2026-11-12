@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["la Vérité (French, the principal Vorilhon designation)", "the truth (lowercase, when referring to the recovered content as such)", "the underlying historical-civilizational reality (corpus-internal expansion)", "the message (in Raëlian source-textual usage)", "*emet* (אֱמֶת, Hebrew)", "*aletheia* (ἀλήθεια, Greek)"]
+alternative_names = ["la Vérité (프랑스어)", "진리(*Le Livre qui dit la vérité*의 장)", "메시지(라엘리안 용법)", "*emet* (אֱמֶת, 히브리어)", "*aletheia* (ἀλήθεια, 그리스어)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "전승", path = "wiki/the-tradition", description = "진리가 수천 년에 걸쳐 전해져 온, 보존된 전승 경로." },

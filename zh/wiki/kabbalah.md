@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["Cabala (older European spelling)", "Qabalah (Hermetic / Western-esoteric spelling)", "Kabbala", "*Qabbalah* (Hebrew: קַבָּלָה)", "the Jewish mystical tradition", "*shalshelet ha-Kabbalah* ('chain of Tradition')", "*torat ha-sod* ('the secret teaching')", "*chokhmah penimit* ('inner wisdom')"]
+alternative_names = ["Cabala（较早的欧洲拼法）", "Qabalah（赫密士／西方秘传拼法）", "Kabbala", "*Qabbalah*（希伯来语：קַבָּלָה）", "犹太神秘主义传统", "*shalshelet ha-Kabbalah*（“传统之链”）", "*torat ha-sod*（“秘密的教导”）", "*chokhmah penimit*（“内在的智慧”）"]
 timeline = ["multi-age"]
 see_also = [
     { title = "众神之多元性", path = "wiki/plurality-of-gods", description = "据说最直接保存了质点宇宙论之结构化复数性解读。" },

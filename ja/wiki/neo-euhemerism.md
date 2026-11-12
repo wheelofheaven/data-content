@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["neo-evhemerism (alternative French spelling)", "neo-Euhemerist interpretation", "the neo-euhemeristic reading", "extraterrestrial euhemerism (occasional descriptive term)", "the ancient astronaut hypothesis (overlapping but not identical)", "paleocontact hypothesis (overlapping but not identical)"]
+alternative_names = ["ネオ・エヴェメリズム(フランス語 néo-évhémérisme)", "ネオエウヘメリスト的解釈", "地球外的エウヘメリズム", "ネオエウヘメリズム的な読み", "パレオコンタクト仮説(部分的に重なる)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "古代宇宙飛行士仮説", path = "wiki/ancient-astronaut-hypothesis", description = "コーパスがその自覚的な一員である、より広い解釈の伝統。ネオエウヘメリズムはその根底にある読解の方法である。" },

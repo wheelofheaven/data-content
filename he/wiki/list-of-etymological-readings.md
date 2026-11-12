@@ -15,7 +15,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of etymological readings", "Framework philology index", "Glossary of source-language readings"]
+alternative_names = ["קטלוג קריאות אטימולוגיות", "מפתח הפילולוגיה של המסגרת", "מילון קריאות בשפות המקור"]
 see_also = [
     { title = "רשימת קריאות פרשניות", path = "wiki/list-of-exegetic-readings", description = "הקטלוג המשלים העוסק במה שמונחים מציינים, המשלים רמה פילולוגית זו." },
     { title = "רשימת מיתמות ומוטיבים מיתולוגיים", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "הקטלוג המשלים השלישי, העוסק בדפוסי סיפור בין־תרבותיים חוזרים." },

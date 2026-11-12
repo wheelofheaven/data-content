@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["Завет с Ноем", "послепотопный завет", "завет радуги", "the Noahide covenant (Jewish tradition designation)", "изначальный библейский завет"]
+alternative_names = ["Завет с Ноем", "послепотопный завет", "завет радуги", "Ноахидский завет (обозначение в иудейской традиции)", "изначальный библейский завет"]
 timeline = ["age-of-gemini"]
 see_also = [
     { title = "Ной", path = "wiki/noah", description = "Человеческий партнёр изгнанных создателей и младшая сторона завета." },

@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the zodiac belt", "the zodiacal circle", "*zōidiakos kyklos* (Greek: ζῳδιακὸς κύκλος, 'circle of small figures')", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "the celestial circle", "the wheel of heaven (in older usage)", "the twelve houses (in astrological usage)"]
+alternative_names = ["der Tierkreisgürtel", "der Zodiakalkreis", "*zōidiakos kyklos* (griechisch: ζῳδιακὸς κύκλος, ‚Kreis der kleinen Figuren‘)", "*Mazzaroth* (hebräisch: מַזָּרוֹת)", "der Himmelskreis", "das Himmelsrad (im älteren Sprachgebrauch)", "die zwölf Häuser (im astrologischen Sprachgebrauch)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "Weltzeitalter", path = "wiki/world-age", description = "Das präzessionale Zeitalter, das jeder Abschnitt des Tierkreises im Kalender des Rahmens markiert." },

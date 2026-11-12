@@ -16,7 +16,7 @@ category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "civilization"
 
-alternative_names = ["the Grand Council of the Eternals", "the Council", "the Council of Eternals", "the Divine Council", "the Divine Assembly", "the Heavenly Court", "the Assembly of the Elohim"]
+alternative_names = ["der Große Rat der Ewigen", "der Rat", "der Rat der Ewigen", "der göttliche Rat", "die göttliche Versammlung", "der himmlische Hofstaat", "die Versammlung der Elohim"]
 timeline = ["pre-creation", "capricorn", "sagittarius", "scorpio", "libra", "virgo", "leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
     { title = "Jahwe", path = "wiki/yahweh", description = "Der Präsident des Rates während des etwa 25.000 Jahre umfassenden Erdprojekts." },

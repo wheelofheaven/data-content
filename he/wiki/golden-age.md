@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the awaited Golden Age", "the Golden Age of civilization", "the earthly paradise", "the Golden Age of interplanetary civilization", "the operational Golden Age"]
+alternative_names = ["תור הזהב המיוחל", "תור הזהב של הציוויליזציה", "גן העדן עלי אדמות", "תור הזהב של הציוויליזציה הבין-כוכבית"]
 timeline = ["age-of-aquarius", "post-aquarius"]
 see_also = [
     { title = "מקרוביולוגיה", path = "wiki/macrobiology", description = "המעבר הגדול שהושלם באינדיבידואליות — האנושות המובאת לכדי אורגניזם עולמי לכיד, בקריאה ביולוגית." },

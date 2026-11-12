@@ -16,7 +16,7 @@ category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "civilization"
 
-alternative_names = ["the Grand Council of the Eternals", "the Council", "the Council of Eternals", "the Divine Council", "the Divine Assembly", "the Heavenly Court", "the Assembly of the Elohim"]
+alternative_names = ["המועצה הגדולה של הנצחיים", "המועצה", "מועצת הנצחיים", "המועצה האלוהית", "עדת אל", "הפמליה של מעלה", "אספת האלוהים"]
 timeline = ["pre-creation", "capricorn", "sagittarius", "scorpio", "libra", "virgo", "leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
     { title = "יהוה", path = "wiki/yahweh", description = "נשיא המועצה לאורך מיזם כדור הארץ בן כ־25,000 השנים." },

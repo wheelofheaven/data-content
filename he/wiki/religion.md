@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["*religio* (Latin)", "*religare* (Latin verbal root, 'to bind/link')", "the cultivated bond", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
+alternative_names = ["*religio* (לטינית)", "*religare* (שורש פועל לטיני, 'לקשור/לחבר')", "הקשר המטופח", "הקשר בין הבוראים לבין בריאתם", "*Dharma* (סנסקריט, מקבילה חלקית)", "*Dao* (סינית, מקבילה חלקית)", "*Din* (ערבית, מקבילה חלקית)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "אלוהים", path = "wiki/elohim", description = "ציוויליזציית היוצרים שאליה, לפי קריאת המסגרת, הדת מטפחת את הקשר המחייב." },

@@ -14,7 +14,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["Tree of the Knowledge of Good and Evil", "Tree of Knowledge", "עֵץ הַדַּעַת טוֹב וָרָע (Hebrew etz ha-daat tov va-ra)", "the forbidden tree", "the tree in the midst of the garden", "the second tree (alongside Tree of Life)"]
+alternative_names = ["עץ הדעת טוב ורע", "עץ הדעת", "עֵץ הַדַּעַת טוֹב וָרָע (עברית, etz ha-daat tov va-ra)", "העץ האסור", "העץ אשר בתוך הגן", "העץ השני (לצד עץ החיים)"]
 timeline = ["age-of-leo", "age-of-cancer"]
 see_also = [
     { title = "עץ החיים", path = "wiki/tree-of-life", description = "העץ המזווג המקודד את טכנולוגיית הארכת החיים, שנמנעה יחד עם הידע המדעי." },

@@ -13,7 +13,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Raëlism"
 entry_type = "concept"
-alternative_names = ["Парадизм", "paradisme (франц.)", "Earthly paradise (substantive Vorilhon designation)", "Paradise on Earth (substantive Vorilhon section title)", "the realized post-scarcity society", "fully-automated post-money society"]
+alternative_names = ["Парадизм", "paradisme (франц.)", "земной рай", "Рай на Земле (название раздела у Ворилона)", "общество постдефицита", "полностью автоматизированное общество без денег"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "Золотой век", path = "wiki/golden-age", description = "Постдефицитное содержание, операциональной формой которого считается парадизм." },

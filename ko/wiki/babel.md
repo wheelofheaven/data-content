@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["바벨탑", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (아카드어: '신의 문')", "바벨 프로젝트", "바벨 사건", "the Tower-of-Babel intervention", "the Confounding of Tongues", "the Confusion of Languages"]
+alternative_names = ["바벨탑", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (아카드어: '신의 문')", "바벨 프로젝트", "바벨 사건", "언어의 혼잡", "말의 혼란"]
 timeline = ["gemini"]
 see_also = [
     { title = "대홍수", path = "wiki/great-flood", description = "앞선 평의회의 리셋. 바벨은 되살아난 인간의 진보에 맞선 다음 개입입니다." },

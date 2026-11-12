@@ -14,7 +14,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "framework"
-alternative_names = ["ID", "Design theory", "Design hypothesis", "Directed design (the Raëlian variant)"]
+alternative_names = ["ID", "תאוריית התכנון", "השערת התכנון", "תכנון מכוון (הגרסה הראליאנית)"]
 see_also = [
     { title = "ארגז הכלים של הבריאה", path = "wiki/genesis-toolbox", description = "תשובת המסגרת לוויכוח על התכנון בצורה מעשית: מתכננים בעלי ארגז כלים מתועד." },
     { title = "הנדסת חיים", path = "wiki/life-engineering", description = "מנגנון הקורפוס שבאמצעותו, לפי הטענה, פעל המתכנן האלוהים." },

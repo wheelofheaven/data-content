@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["四層考量", "四層評估", "四層框架", "the four-perspective evaluation framework", "the cosmic-to-individual evaluation framework", "*les quatre plans* (French source-original)"]
+alternative_names = ["四層考量", "四層評估", "四層框架", "*les quatre plans*（法語原文）"]
 timeline = ["all-ages"]
 see_also = [
     { title = "無限", path = "wiki/infinity", description = "第一個也是最重要的層級——衡量萬物的宇宙參照點。" },

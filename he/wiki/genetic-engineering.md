@@ -15,7 +15,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
-alternative_names = ["Genetic modification", "Gene splicing (historical informal usage)", "Recombinant DNA technology (the foundational subdomain)", "Genome editing (the contemporary CRISPR-era subdomain)"]
+alternative_names = ["שינוי גנטי", "שחבור גנים (שימוש היסטורי לא רשמי)", "טכנולוגיית DNA רקומביננטי (תת-התחום המייסד)", "עריכת גנום (תת-התחום העכשווי של עידן CRISPR)"]
 timeline = ["aquarius"]
 see_also = [
     { title = "ארגז הכלים של הבריאה", path = "wiki/genesis-toolbox", description = "הסינתזה ברמת התוכנית, המרכיבה את מערך הבריאה המלא שתחום זה הוא רכיב אחד בו." },

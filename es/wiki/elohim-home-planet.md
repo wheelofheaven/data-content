@@ -17,7 +17,7 @@ image_caption = "El mundo natal de los Elohim tal como lo describe la fuente: te
 editorial_pass = "2026-05"
 category = "Elohim"
 entry_type = "place"
-alternative_names = ["Elohim Home Planet", "the home planet", "the planet of the Elohim", "the planet of the creators", "the planet of the Eternals (per single-planet reading)", "the other world", "the Mormon Kolob (per Tvedtnes hypothesis)"]
+alternative_names = ["el planeta natal", "el planeta de los Elohim", "el planeta de los creadores", "el Planeta de los Eternos"]
 timeline = ["age-of-capricorn", "age-of-aquarius"]
 see_also = [
     { title = "Consejo de los Eternos", path = "wiki/council-of-the-eternals", description = "El órgano de gobierno con sede en el planeta de origen según la descripción fuente." },

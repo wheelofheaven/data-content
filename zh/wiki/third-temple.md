@@ -18,7 +18,7 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "direct"
-alternative_names = ["Beit ha-Mikdash ha-Shlishi (Hebrew, \"the Third Holy House\")", "The Embassy (in Raëlian terminology)", "The Residence (in some source-material passages)", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "The Messianic Temple"]
+alternative_names = ["Beit ha-Mikdash ha-Shlishi（希伯来语，“第三座圣殿”）", "大使馆（雷尔派术语）", "居所（见于某些源典段落）", "以西结的圣殿（以西结书 40–48 章的异象）", "弥赛亚圣殿"]
 timeline = ["aquarius"]
 see_also = [
     { title = "大使馆", path = "wiki/embassy", description = "框架等同于第三圣殿、由沃里隆指明规格的接待居所。" },

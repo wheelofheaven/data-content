@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["巴別塔", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (Akkadian: 'gate of the god')", "巴別計畫", "巴別事件", "the Tower-of-Babel intervention", "the Confounding of Tongues", "the Confusion of Languages"]
+alternative_names = ["巴別塔", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu*（阿卡德語：「神之門」）", "巴別計畫", "巴別事件", "口音的變亂", "語言的混亂"]
 timeline = ["gemini"]
 see_also = [
     { title = "大洪水", path = "wiki/great-flood", description = "先前的議會重置;巴別是針對人類重新進步的下一次干預。" },

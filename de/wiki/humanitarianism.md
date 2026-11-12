@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Humanitarianism (proper-noun framework concept)", "humanitarianism (lowercase, when used in mainstream sense)", "the second New Commandment", "the Raëlian property-and-inheritance doctrine", "the forty-nine-year rental doctrine"]
+alternative_names = ["Humanitarismus", "Humanitarismus (im allgemeinen Wortsinn)", "das zweite Neue Gebot", "die raëlianische Lehre von Eigentum und Erbe", "die Lehre von der neunundvierzigjährigen Miete", "Humanitarisme (französisch)"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "Geniokratie", path = "wiki/geniocracy", description = "Das Gebot zur politischen Regierungsform, das in den Neuen Geboten mit dem Humanitarismus gepaart ist." },
@@ -21,7 +21,7 @@ see_also = [
     { title = "Hebräische Bibel", path = "wiki/hebrew-bible", description = "Die Quelle der Jubeljahrtradition aus Levitikus 25, die die Besitzdauer von neunundvierzig Jahren verankert." },
     { title = "Jahwe", path = "wiki/yahweh", description = "Der Präsident der Elohim, der Vorilhon die Lehre darlegte." },
     { title = "Raël", path = "wiki/rael", description = "Der Empfänger und Übermittler der sozioökonomischen Lehre." },
-    { title = "Message from the Designers", path = "wiki/message-from-the-designers", description = "Der zusammengefasste Quellentext, der die ursprüngliche Formulierung der Lehre festhält." }
+    { title = "Botschaft der Designer", path = "wiki/message-from-the-designers", description = "Der zusammengefasste Quellentext, der die ursprüngliche Formulierung der Lehre festhält." }
 ]
 
 [extra.infobox]

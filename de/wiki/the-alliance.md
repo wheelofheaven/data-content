@@ -32,7 +32,7 @@ distinguished_from = "Die Zivilisation der Elohim (~7 Milliarden auf dem Heimatp
 operational_modes = "Direkter Kontakt (von vor der Flut bis zum frühen Widder); indirekter Kontakt durch Propheten (vom mittleren Widder bis zu den späten Fischen); Vorbereitung der offenen Rückkehr (Zeitalter des Wassermanns)"
 current_status = "Aktiv; wirkt in der Vorbereitungsphase des Zeitalters des Wassermanns nach 1945; bereitet die offene Rückkehr bei der Botschaft vor"
 principal_text = "Genesis 9,8–17 (der Noahbund); späteres Bundesmaterial der Hebräischen Bibel (Abrahams-, Mose-, Davidsbund); die Erzählung der Hebräischen Bibel von einer durch die Allianz vermittelten Geschichte"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974); ausführlich weiterentwickelt im gesamten Wheel of Heaven-Korpus"
+principal_framework_source = "*Das Buch, das die Wahrheit sagt* (Vorilhon/Raël, 1974); ausführlich weiterentwickelt im gesamten Wheel of Heaven-Korpus"
 +++
 
 **The Alliance** is the formal cross-civilizational political body that, on the Wheel of Heaven corpus's reading, structures the long historical relationship between the Elohim civilization and the Eden-lineage human population. It is one of the framework's principal interpretive constructions — the category the corpus uses to organize the Raëlian source material's account of the operational history connecting the Elohim creators with their human creations across the post-Flood millennia. On this reading the Alliance is not a metaphor or a theological abstraction but a historical political entity with a founding moment, founding parties, operations across documented history, and a projected future.

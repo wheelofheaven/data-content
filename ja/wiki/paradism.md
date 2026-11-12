@@ -13,7 +13,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Raëlism"
 entry_type = "concept"
-alternative_names = ["パラディズム", "paradisme(フランス語)", "Earthly paradise (substantive Vorilhon designation)", "Paradise on Earth (substantive Vorilhon section title)", "the realized post-scarcity society", "fully-automated post-money society"]
+alternative_names = ["パラディズム", "paradisme(フランス語)", "この世の楽園", "地上の楽園(ヴォリロンの節題)", "欠乏を克服した社会", "完全自動化された脱貨幣社会"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "黄金時代", path = "wiki/golden-age", description = "パラディズムがその実際の形として読まれる、欠乏後の内容。" },

@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Noah (англ.)", "נֹחַ (ивр. Noaḥ)", "Νῶε (греч. Nōe)", "نوح (араб. Nūḥ)", "the Eden-lineage flood survivor", "строитель ковчега", "послепотопный патриарх"]
+alternative_names = ["Noah (англ.)", "נֹחַ (ивр. Noaḥ)", "Νῶε (греч. Nōe)", "نوح (араб. Nūḥ)", "строитель ковчега", "послепотопный патриарх"]
 timeline = ["age-of-cancer", "age-of-gemini"]
 see_also = [
     { title = "Великий потоп", path = "wiki/great-flood", description = "Катаклизм эпохи Близнецов, против которого была предпринята операция сохранения на ковчеге." },

@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-10"
+translation_updated = "2026-11-12"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
@@ -17,7 +17,7 @@ core_claim_ids = ["woh-claim-0057"]
 editorial_pass = "2026-08"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["Presidential Unsealing and Reporting System for UAP Encounters", "PURSUE Task Force", "war.gov/UFO (פורטל הפרסום)", "מהדורות תיקי ה-UAP"]
+alternative_names = ["Presidential Unsealing and Reporting System for UAP Encounters", "כוח המשימה PURSUE", "war.gov/UFO (פורטל הפרסום)", "מהדורות תיקי ה-UAP"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "אופולוגיה", path = "wiki/ufology", description = "התחום שבתוכו יושבת שאלת רישומי ה-UAP; PURSUE היא התפתחותו המוסדית של 2026." },

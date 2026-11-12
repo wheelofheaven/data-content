@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Earth-as-organism framework", "the planetary-organism claim", "the cosmic-biology framework", "the universal-aliveness principle", "Living Cosmos", "the biological correlate of Infinity"]
+alternative_names = ["הקוסמוס החי", "כדור הארץ כיצור חי", "הטענה על האורגניזם הפלנטרי", "החיוּת האוניברסלית"]
 timeline = ["all-ages"]
 see_also = [
     { title = "מקרוביולוגיה", path = "wiki/macrobiology", description = "התחום החוקר מערכות חיות בקנה מידה אחד מעלה — האנושות כאורגניזם — ומרחיב את טענת כדור הארץ החי מכוכב הלכת אל המין." },

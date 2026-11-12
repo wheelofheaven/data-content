@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["666", "Six Hundred Sixty-Six", "the Number of the Beast", "the Number of Man (proper-noun framework concept)", "χξϛ (Greek isopsephic representation)"]
+alternative_names = ["666", "六百六十六", "兽的数目", "人之数（本框架的专有概念）", "χξϛ（希腊字母数值表示）"]
 timeline = ["multi-age"]
 see_also = [
     { title = "启示", path = "wiki/apocalypse", description = "启示录 13:18 的背景，以及标志第 666 代的 1945 年核门槛。" },

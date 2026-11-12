@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Mass Effect", "the Law of Masstime", "the law of subjective time", "the time-mass relationship", "the scale-time correspondence"]
+alternative_names = ["die Massenwirkung", "das Gesetz der Massenzeit", "das Gesetz der subjektiven Zeit", "die Zeit-Masse-Beziehung", "die Entsprechung von Größenordnung und Zeit"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Makrobiologie", path = "wiki/macrobiology", description = "Die Biologie des Ganzen — die Menschheit als Organismus eine Sprosse höher auf der Leiter der lebenden Größenordnungen, deren Zeitskalierung der Massenwirkung beschreibt." },

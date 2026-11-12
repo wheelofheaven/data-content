@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["ノアの契約", "洪水後の契約", "虹の契約", "the Noahide covenant (Jewish tradition designation)", "聖書における原初の契約"]
+alternative_names = ["ノアの契約", "洪水後の契約", "虹の契約", "ノアの子らの契約(ユダヤ教伝統での呼称)", "聖書における原初の契約"]
 timeline = ["age-of-gemini"]
 see_also = [
     { title = "ノア", path = "wiki/noah", description = "追放された創造者たちの人間のパートナーであり、契約の下位の当事者。" },

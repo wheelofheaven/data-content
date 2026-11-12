@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the zodiac belt", "the zodiacal circle", "*zōidiakos kyklos* (Greek: ζῳδιακὸς κύκλος, 'circle of small figures')", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "the celestial circle", "the wheel of heaven (in older usage)", "the twelve houses (in astrological usage)"]
+alternative_names = ["黄道带", "黄道圈", "*zōidiakos kyklos*（希腊语：ζῳδιακὸς κύκλος，“小形象之圈”）", "*Mazzaroth*（希伯来语：מַזָּרוֹת）", "天界之圈", "天之轮（较早的用法）", "十二宫（占星用法）"]
 timeline = ["multi-age"]
 see_also = [
     { title = "世界时代", path = "wiki/world-age", description = "每个黄道分段在框架历法中所标示的岁差时代。" },

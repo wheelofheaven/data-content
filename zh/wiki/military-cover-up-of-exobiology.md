@@ -12,7 +12,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["government UAP cover-up", "UFO cover-up", "UAP disclosure", "military cover-up of exobiology (earlier designation)", "UAP secrecy", "extraterrestrial contact cover-up"]
+alternative_names = ["政府的 UAP 隐瞒", "UFO 隐瞒", "UAP 揭露", "外星生物学的军事隐瞒（较早的称谓）", "UAP 保密", "地外接触隐瞒"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
 see_also = [
     { title = "大使馆", path = "wiki/embassy", description = "正典透过正式外交承认对公开问题给出的解决方案。" },

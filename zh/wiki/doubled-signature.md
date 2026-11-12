@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the doubled signature", "the doubled-signature principle", "the Hamlet's Mill principle", "the doubled astronomical signature", "doubled invocation across the zodiacal axis"]
+alternative_names = ["双重署名", "双重署名原则", "哈姆雷特的磨坊原则", "双重天文署名", "跨黄道轴的双重援引"]
 timeline = ["all-ages"]
 see_also = [
     { title = "耶稣", path = "wiki/jesus", description = "承载基督教时代双鱼座—处女座印记的鱼与童贞女人物。" },

@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the awaited Golden Age", "the Golden Age of civilization", "the earthly paradise", "the Golden Age of interplanetary civilization", "the operational Golden Age"]
+alternative_names = ["das erwartete Goldene Zeitalter", "das Goldene Zeitalter der Zivilisation", "das irdische Paradies", "das Goldene Zeitalter der interplanetaren Zivilisation"]
 timeline = ["age-of-aquarius", "post-aquarius"]
 see_also = [
     { title = "Makrobiologie", path = "wiki/macrobiology", description = "Der vollendete große Übergang der Individualität — die Menschheit, zu einem kohärenten globalen Organismus geführt, biologisch gelesen." },

@@ -14,7 +14,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of pre-modern close encounters", "Pre-1500 UFO and contact-event index", "Catalogue of unexplained aerial phenomena (antiquity through 1499 CE)"]
+alternative_names = ["前现代近距离接触目录", "1500 年以前 UFO 与接触事件索引", "不明空中现象目录（古代至公元 1499 年）"]
 see_also = [
     { title = "耶洛因", path = "wiki/elohim", description = "被编目的接触事件被解读为在伊甸之后时期所记录的那一存在。" },
     { title = "新埃乌赫梅罗斯主义", path = "wiki/neo-euhemerism", description = "将现代接触术语应用于前现代记述的诠释步骤。" },

@@ -15,7 +15,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of neo-euhemeristic readings", "Framework exegesis index", "Glossary of operational readings"]
+alternative_names = ["קטלוג קריאות נאו-אוהמריסטיות", "מפתח הפרשנות של המסגרת", "מילון קריאות אופרטיביות"]
 see_also = [
     { title = "רשימת מיתמות ומוטיבים מיתולוגיים", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "הקטלוג המשלים, העוסק בדפוסי סיפור בין־תרבותיים חוזרים ולא במונחים בודדים." },
     { title = "רשימת קריאות אטימולוגיות", path = "wiki/list-of-etymological-readings", description = "הקטלוג המשלים, העוסק בקריאות פילולוגיות של מילים וביטויים מסוימים." },

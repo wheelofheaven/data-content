@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["the Noahic Covenant", "the post-flood covenant", "the rainbow covenant", "the Noahide covenant (Jewish tradition designation)", "the originary biblical covenant"]
+alternative_names = ["ברית נח", "הברית שלאחר המבול", "ברית הקשת", "ברית בני נח (כינוי במסורת היהודית)", "הברית המקראית הראשונית"]
 timeline = ["age-of-gemini"]
 see_also = [
     { title = "נוח", path = "wiki/noah", description = "השותף האנושי של היוצרים הגולים והצד הזוטר בברית." },

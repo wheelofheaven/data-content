@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["the Tower of Babel", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (Akkadian: 'gate of the god')", "the Babel project", "the Babel event", "the Tower-of-Babel intervention", "the Confounding of Tongues", "the Confusion of Languages"]
+alternative_names = ["la Torre de Babel", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (acadio: «puerta del dios»)", "el proyecto de Babel", "el acontecimiento de Babel", "la confusión de las lenguas", "la confusión de idiomas"]
 timeline = ["gemini"]
 see_also = [
     { title = "Gran Diluvio", path = "wiki/great-flood", description = "El reinicio anterior del Consejo; Babel es la siguiente intervención contra el renovado avance humano." },

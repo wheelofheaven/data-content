@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["기다려 온 황금시대", "문명의 황금시대", "지상 낙원", "행성 간 문명의 황금시대", "the operational Golden Age"]
+alternative_names = ["기다려 온 황금시대", "문명의 황금시대", "지상 낙원", "행성 간 문명의 황금시대"]
 timeline = ["age-of-aquarius", "post-aquarius"]
 see_also = [
     { title = "거시생물학", path = "wiki/macrobiology", description = "완료된 개체성의 주요 전환 — 일관된 지구적 유기체에 이른 인류를 생물학적으로 읽은 것." },

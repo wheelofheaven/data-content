@@ -15,7 +15,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Planetary engineering", "Ecological engineering at planetary scale", "Earth-shaping", "Geoengineering of other worlds"]
+alternative_names = ["הנדסה פלנטרית", "הנדסה אקולוגית בקנה מידה פלנטרי", "עיצוב עולם כדמות הארץ", "גאו-הנדסה של עולמות אחרים"]
 see_also = [
     { title = "ארגז הכלים של הבריאה", path = "wiki/genesis-toolbox", description = "הסינתזה ברמת התוכנית: עיצוב כוכב הלכת כשלב אחד במערך הבריאה המלא שהקנון מתאר." },
     { title = "בראשית", path = "wiki/genesis", description = "הטקסט שארבעת עידניו הראשונים נקראים במסגרת כעיצוב כדור הארץ בידי האלוהים." },

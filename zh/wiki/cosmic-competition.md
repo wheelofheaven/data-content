@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the cosmic competition", "the cosmic competition framework", "the inheritance evaluation", "the parallel-humanities framework", "the multiple-worlds creation framework"]
+alternative_names = ["宇宙竞争", "宇宙竞争框架", "继承评估", "平行人类框架", "多世界创造框架"]
 timeline = ["aries", "pisces", "aquarius"]
 see_also = [
     { title = "宏观生物学", path = "wiki/macrobiology", description = "整体的生物学：宇宙竞争提供了行星有机体科学所需的受造人类群体。" },

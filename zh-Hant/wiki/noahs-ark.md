@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["Noah's Ark", "挪亞的方舟", "תֵּבַת נֹחַ (Hebrew tevat Noaḥ)", "the preservation vessel", "the orbital spacecraft (corpus reading)", "كَشْتِيُّ نُوحٍ (Arabic safīnat Nūḥ)"]
+alternative_names = ["挪亞方舟", "挪亞的方舟", "תֵּבַת נֹחַ（希伯來語 tevat Noaḥ）", "tevah（希伯來語「方舟」）", "سَفِينَةُ نُوحٍ（阿拉伯語 safīnat Nūḥ）"]
 timeline = ["age-of-cancer", "age-of-gemini"]
 see_also = [
     { title = "挪亞", path = "wiki/noah", description = "協調方舟保存行動的伊甸譜系人類。" },

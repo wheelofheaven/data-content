@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["Cabala (older European spelling)", "Qabalah (Hermetic / Western-esoteric spelling)", "Kabbala", "*Qabbalah* (Hebrew: קַבָּלָה)", "the Jewish mystical tradition", "*shalshelet ha-Kabbalah* ('chain of Tradition')", "*torat ha-sod* ('the secret teaching')", "*chokhmah penimit* ('inner wisdom')"]
+alternative_names = ["Cabala (כתיב אירופי ישן)", "Qabalah (כתיב הרמטי / אזוטרי-מערבי)", "Kabbala", "*Qabbalah* (עברית: קַבָּלָה)", "המסורת המיסטית היהודית", "*shalshelet ha-Kabbalah* ('שלשלת הקבלה')", "*torat ha-sod* ('תורת הסוד')", "*chokhmah penimit* ('חכמה פנימית')"]
 timeline = ["multi-age"]
 see_also = [
     { title = "ריבוי האלים", path = "wiki/plurality-of-gods", description = "קריאת הריבוי המובנה שקוסמולוגיית הספירות נאמרת כמשמרת אותה באופן הישיר ביותר." },

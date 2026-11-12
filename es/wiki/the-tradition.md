@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["la Tradition (French, Sendy's principal designation)", "the Tradition (capitalized to distinguish from generic 'tradition')", "the chain of Tradition (in the Hebrew *shalshelet ha-Kabbalah* sense)", "the perennial Tradition (in partial alignment with the perennialist designation)", "the Hermetic Tradition (in Western-esoteric usage)", "the Wisdom Tradition (in broader spiritual usage)"]
+alternative_names = ["la Tradition (francés, designación principal de Sendy)", "la Tradición (con mayúscula para distinguirla de la «tradición» genérica)", "la cadena de la Tradición (en el sentido hebreo de *shalshelet ha-Kabbalah*)", "la Tradición perenne (en alineación parcial con la designación perennialista)", "la Tradición hermética (en el uso esotérico occidental)", "la Tradición sapiencial (en un uso espiritual más amplio)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "Jean Sendy", path = "wiki/jean-sendy", description = "El autor que articuló la Tradición como armazón central de su marco." },

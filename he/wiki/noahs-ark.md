@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["Noah's Ark", "the ark of Noah", "תֵּבַת נֹחַ (Hebrew tevat Noaḥ)", "the preservation vessel", "the orbital spacecraft (corpus reading)", "كَشْتِيُّ نُوحٍ (Arabic safīnat Nūḥ)"]
+alternative_names = ["תיבת נח", "התיבה של נח", "תֵּבַת נֹחַ (עברית, tevat Noaḥ)", "הַתֵּבָה", "سَفِينَةُ نُوحٍ (ערבית, safīnat Nūḥ)"]
 timeline = ["age-of-cancer", "age-of-gemini"]
 see_also = [
     { title = "נוח", path = "wiki/noah", description = "האדם משושלת עדן שתיאם את מבצע השימור בתיבה." },

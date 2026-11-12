@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Four Levels of Consideration", "the Four Levels of Estimation", "the four-level framework", "the four-perspective evaluation framework", "the cosmic-to-individual evaluation framework", "*les quatre plans* (French source-original)"]
+alternative_names = ["die Vier Ebenen der Betrachtung", "die Vier Ebenen der Einschätzung", "das Vier-Ebenen-Modell", "*les quatre plans* (französisches Quelloriginal)"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Unendlichkeit", path = "wiki/infinity", description = "Die erste und gewichtigste Ebene — der kosmische Bezugspunkt, an dem alle Dinge zu beurteilen sind." },

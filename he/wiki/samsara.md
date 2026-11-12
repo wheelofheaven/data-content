@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Saṃsāra (Sanskrit संसार, Pali saṃsāra)", "the Wheel of Life (Bhavacakra)", "the cycle of birth, death, and rebirth", "the cycle of reincarnation", "cyclic existence", "the cycle (Vorilhon source designation)"]
+alternative_names = ["Saṃsāra (סנסקריט संसार, פאלי saṃsāra)", "גלגל החיים (Bhavacakra)", "מעגל הלידה, המוות והלידה מחדש", "מעגל גלגולי הנשמות", "קיום מחזורי", "המעגל (כינוי במקורות של וורילון)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "מקרוביולוגיה", path = "wiki/macrobiology", description = "הביולוגיה של האנושות כאורגניזם, שבה הסמסרה היא אופן הכישלון — המעבר שנכשל לפני שהוא מושלם." },

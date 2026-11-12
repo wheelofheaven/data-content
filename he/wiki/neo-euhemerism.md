@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["neo-evhemerism (alternative French spelling)", "neo-Euhemerist interpretation", "the neo-euhemeristic reading", "extraterrestrial euhemerism (occasional descriptive term)", "the ancient astronaut hypothesis (overlapping but not identical)", "paleocontact hypothesis (overlapping but not identical)"]
+alternative_names = ["נאו-אבהמריזם (בצרפתית néo-évhémérisme)", "קריאה נאו-אוהמריסטית", "אוהמריזם חוץ-ארצי", "הקריאה הנאו-אוהמריסטית", "השערת המגע הקדום (חופפת חלקית)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "השערת האסטרונאוטים הקדמונים", path = "wiki/ancient-astronaut-hypothesis", description = "המסורת הפרשנית הרחבה שהקורפוס הוא חבר מודע לעצמו בה; הניאו־אוהמריזם הוא שיטת הקריאה שביסודה." },

@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["*religio* (Latin)", "*religare* (Latin verbal root, 'to bind/link')", "the cultivated bond", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
+alternative_names = ["*religio*（拉丁语）", "*religare*（拉丁语动词词根，意为“绑缚／连结”）", "被培养的连结", "创造者与其造物之间的连结", "*Dharma*（梵语，部分对应）", "*Dao*（汉语，部分对应）", "*Din*（阿拉伯语，部分对应）"]
 timeline = ["multi-age"]
 see_also = [
     { title = "耶洛因", path = "wiki/elohim", description = "按框架的解读，宗教所培育的联结所指向的施造文明。" },

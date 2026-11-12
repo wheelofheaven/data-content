@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["la Vérité (French, the principal Vorilhon designation)", "the truth (lowercase, when referring to the recovered content as such)", "the underlying historical-civilizational reality (corpus-internal expansion)", "the message (in Raëlian source-textual usage)", "*emet* (אֱמֶת, Hebrew)", "*aletheia* (ἀλήθεια, Greek)"]
+alternative_names = ["la Vérité (französisch)", "Die Wahrheit (Kapitel von *Le Livre qui dit la vérité*)", "die Botschaft (raëlianischer Sprachgebrauch)", "*emet* (אֱמֶת, hebräisch)", "*aletheia* (ἀλήθεια, griechisch)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "Die Tradition", path = "wiki/the-tradition", description = "Der bewahrte Überlieferungskanal, durch den die Wahrheit über Jahrtausende getragen wurde." },
@@ -26,7 +26,7 @@ see_also = [
 
 [extra.infobox]
 type = "Grundlegendes Kapitel von *The Book Which Tells the Truth* (1974); der Name des Rahmens für die wiedergewonnene historische Wirklichkeit, die in mystifizierter Form über die religiösen Traditionen hinweg bewahrt ist"
-principal_source_anchor = "*Le Livre qui dit la vérité* (*The Book Which Tells the Truth*, 1974), Kapitel 'The Truth' – Vorilhons grundlegender Quelltext"
+principal_source_anchor = "*Le Livre qui dit la vérité* (*Das Buch, das die Wahrheit sagt*, 1974), Kapitel ‚Die Wahrheit‘ – Vorilhons grundlegender Quelltext"
 framework_definition = "Die zugrunde liegende historische Wirklichkeit – die Elohim, ihre Arbeit auf der Erde über die präzessionalen Zeitalter hinweg und die Kontaktmomente, die die religiösen Traditionen verzeichnen –, bewahrt, aber mystifiziert, und wiedergewinnbar durch etymologisches und rationales Lesen der Quelltexte"
 methodological_framework = "Vorilhons Etymologie als „Wissenschaft der Wahrheit“ (Wiedergewinnung der ursprünglichen Bedeutung des religiösen Vokabulars); Jean Sendys vier Bedingungen für das Lesen der Hebräischen Bibel (die Bibel kennen; die Möglichkeiten und Grenzen der Raumfahrt kennen; den aktuellen Stand von Biologie / Vorgeschichte / Geschichte / Evolution beherrschen; die „Erklärung durch das Unerklärliche“ ablehnen)"
 distinguished_from = "Philosophische Wahrheitstheorien (Korrespondenz-, Kohärenz-, pragmatistische, deflationäre Theorie), die untersuchen, was Wahrheit ist; hier bezeichnet „die Wahrheit“ einen bestimmten historischen Gehalt, keine erkenntnistheoretische Kategorie. Ebenfalls unterschieden von populären Rahmungen einer „Wahrheitsbewegung“ und von neuer Offenbarung – der Rahmen versteht sich als Wiederherstellung."

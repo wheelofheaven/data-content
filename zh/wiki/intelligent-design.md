@@ -13,7 +13,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "framework"
-alternative_names = ["ID", "Design theory", "Design hypothesis", "Directed design (the Raëlian variant)"]
+alternative_names = ["ID", "设计理论", "设计假说", "定向设计（雷尔派的变体）"]
 see_also = [
     { title = "创世工具箱", path = "wiki/genesis-toolbox", description = "框架以操作形式对设计之争作出的回答：拥有一套有据可查工具箱的设计者。" },
     { title = "生命工程", path = "wiki/life-engineering", description = "文集认为耶洛因设计者据以行事的机制。" },

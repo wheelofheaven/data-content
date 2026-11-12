@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the awaited Golden Age", "the Golden Age of civilization", "the earthly paradise", "the Golden Age of interplanetary civilization", "the operational Golden Age"]
+alternative_names = ["所期待的黄金时代", "文明的黄金时代", "地上乐园", "星际文明的黄金时代"]
 timeline = ["age-of-aquarius", "post-aquarius"]
 see_also = [
     { title = "宏观生物学", path = "wiki/macrobiology", description = "已完成的个体性重大转变——人类被带至一个连贯的全球有机体，从生物学角度来解读。" },

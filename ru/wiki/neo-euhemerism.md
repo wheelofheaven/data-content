@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["neo-evhemerism (alternative French spelling)", "neo-Euhemerist interpretation", "неоэвгемеристское прочтение", "extraterrestrial euhemerism (occasional descriptive term)", "the ancient astronaut hypothesis (overlapping but not identical)", "paleocontact hypothesis (overlapping but not identical)"]
+alternative_names = ["неоэвемеризм (франц. néo-évhémérisme)", "неоэвгемеристская интерпретация", "внеземной эвгемеризм", "неоэвгемеристское прочтение", "гипотеза палеоконтакта (частично совпадающая)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "Гипотеза древних астронавтов", path = "wiki/ancient-astronaut-hypothesis", description = "Более широкая интерпретационная традиция, сознательным членом которой является корпус; неоэвгемеризм — лежащий в её основе метод прочтения." },

@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Earth-as-organism framework", "the planetary-organism claim", "the cosmic-biology framework", "the universal-aliveness principle", "Living Cosmos", "the biological correlate of Infinity"]
+alternative_names = ["살아 있는 우주", "살아 있는 존재로서의 지구", "행성 유기체 주장", "보편적 생명성"]
 timeline = ["all-ages"]
 see_also = [
     { title = "거시생물학", path = "wiki/macrobiology", description = "한 규모 위의 생명 체계 — 유기체로서의 인류 — 를 연구하는 분과로, 살아 있는 지구의 주장을 행성에서 종으로 확장합니다." },

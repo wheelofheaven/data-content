@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the zodiac belt", "the zodiacal circle", "*zōidiakos kyklos* (Greek: ζῳδιακὸς κύκλος, 'circle of small figures')", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "the celestial circle", "the wheel of heaven (in older usage)", "the twelve houses (in astrological usage)"]
+alternative_names = ["חגורת המזלות", "מעגל המזלות", "*zōidiakos kyklos* (יוונית: ζῳδιακὸς κύκλος, 'מעגל הדמויות הקטנות')", "*Mazzaroth* (עברית: מַזָּרוֹת)", "המעגל השמימי", "גלגל השמיים (בשימוש ישן)", "שנים-עשר הבתים (בשימוש אסטרולוגי)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "עידן עולם", path = "wiki/world-age", description = "העידן הפרצסיוני שכל מקטע בגלגל המזלות מסמן בלוח של המסגרת." },

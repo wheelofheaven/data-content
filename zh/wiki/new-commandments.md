@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Commandments (proper-noun framework concept)", "the Aquarian-age program", "the seven commandments", "the Raëlian socio-political-religious doctrine"]
+alternative_names = ["新诫命", "水瓶座时代计划", "七条诫命", "雷尔派的社会、政治与宗教学说"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "摩西", path = "wiki/moses", description = "与之配对的白羊座时代十诫的中介者，这些诫命在水瓶座时代接续了十诫。" },

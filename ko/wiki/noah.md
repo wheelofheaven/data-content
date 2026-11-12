@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Noah (영어)", "נֹחַ (히브리어 Noaḥ)", "Νῶε (그리스어 Nōe)", "نوح (아랍어 Nūḥ)", "the Eden-lineage flood survivor", "the ark-builder", "the post-flood patriarch"]
+alternative_names = ["Noah (영어)", "נֹחַ (히브리어 Noaḥ)", "Νῶε (그리스어 Nōe)", "نوح (아랍어 Nūḥ)", "방주를 지은 자", "대홍수 이후의 족장"]
 timeline = ["age-of-cancer", "age-of-gemini"]
 see_also = [
     { title = "대홍수", path = "wiki/great-flood", description = "방주 보존 작전이 그것에 맞서 실행된 쌍둥이자리 시대의 대격변." },

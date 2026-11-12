@@ -19,7 +19,7 @@ see_also = [
     { title = "Jean Sendy", path = "wiki/jean-sendy", description = "Die wichtigste Gestalt vor Vorilhon, deren Rahmen das Korpus in seine Fassung der Hypothese aufnimmt." },
     { title = "Neo-Euhemerismus", path = "wiki/neo-euhemerism", description = "Die Deutungsmethode, die der Lesart des Korpus zugrunde liegt, antike Zeugnisse als entstellte Kontaktüberlieferung zu verstehen." },
     { title = "Mauro Biglino", path = "wiki/mauro-biglino", description = "Gegenwärtige textphilologische Auseinandersetzung, methodisch als näher an der Disziplin des Korpus beurteilt als die Popularisierer." },
-    { title = "Message from the Designers", path = "wiki/message-from-the-designers", description = "Die direkte Offenbarung an Vorilhon, die das Korpus begründet, statt spekulativer Deutung antiker Belege." },
+    { title = "Botschaft der Designer", path = "wiki/message-from-the-designers", description = "Die direkte Offenbarung an Vorilhon, die das Korpus begründet, statt spekulativer Deutung antiker Belege." },
     { title = "Die Tradition", path = "wiki/the-tradition", description = "Der Begriff des Korpus für die überlieferte Kontaktüberlieferung, die die Hypothese über antike Kulturen hinweg liest." },
     { title = "Vorläufer", path = "wiki/forerunners", description = "Die früheren Autoren, die die Hypothese vor ihrer Popularisierung im 20. Jahrhundert vorwegnahmen." }
 ]

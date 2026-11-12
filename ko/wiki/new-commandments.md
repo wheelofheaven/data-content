@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Commandments (proper-noun framework concept)", "물병자리 시대 프로그램", "일곱 계명", "라엘리안 사회·정치·종교 교리"]
+alternative_names = ["새 계명", "물병자리 시대 프로그램", "일곱 계명", "라엘리안 사회·정치·종교 교리"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "모세", path = "wiki/moses", description = "이 계명들이 물병자리 시대를 위해 계승하는, 짝을 이루는 양자리 시대 십계명의 중개자." },

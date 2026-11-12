@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Four Levels of Consideration", "the Four Levels of Estimation", "the four-level framework", "the four-perspective evaluation framework", "the cosmic-to-individual evaluation framework", "*les quatre plans* (French source-original)"]
+alternative_names = ["四层考量", "四层评估", "四层框架", "*les quatre plans*（法语原文）"]
 timeline = ["all-ages"]
 see_also = [
     { title = "无限", path = "wiki/infinity", description = "第一个也是分量最重的层次——据以评判万物的宇宙参照点。" },

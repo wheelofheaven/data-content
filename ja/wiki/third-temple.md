@@ -18,7 +18,7 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "direct"
-alternative_names = ["Beit ha-Mikdash ha-Shlishi(ヘブライ語、「第三の聖なる家」)", "大使館(ラエリアンの用語で)", "公邸(典拠資料のいくつかの箇所で)", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "メシアの神殿"]
+alternative_names = ["Beit ha-Mikdash ha-Shlishi(ヘブライ語、「第三の聖なる家」)", "大使館(ラエリアンの用語で)", "公邸(典拠資料のいくつかの箇所で)", "エゼキエルの神殿(エゼキエル書40〜48章の幻)", "メシアの神殿"]
 timeline = ["aquarius"]
 see_also = [
     { title = "大使館", path = "wiki/embassy", description = "この枠組みが第三神殿と同一視する、ヴォリロンが仕様を示した受け入れのための公邸。" },

@@ -35,7 +35,7 @@ position_in_raelian_framework = "Äußerer Bestandteil des Raëlianischen Unendl
 modern_jewish_symbol_status = "Das wichtigste jüdische Symbol seit etwa dem späten 19. Jahrhundert; von der zionistischen Bewegung auf dem Ersten Zionistenkongress (1897) übernommen; unter dem NS-Regime als gelbes Kennzeichen aufgezwungen; auf die Flagge Israels gesetzt (1948)"
 distinguished_from = "Die Swastika (der andere Bestandteil des Raëlianischen Unendlichkeits-Symbols); das Raëlianische Unendlichkeits-Symbol selbst (eigener Eintrag); das Pentagramm und andere Sternformen; die Flagge Israels als konkreter national-politischer Gebrauch"
 status_in_source_material = "Belegt; Jahwes Passagen geben dem Symbol seine Bedeutung „wie oben, so unten“, und Sendy fügt die Lesart als Bund der Allianz hinzu"
-principal_text = "*The Book Which Tells the Truth* (1974), 'Watching Over the Chosen People'; *Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul'; Jean Sendy, *L'ère du Verseau* (1970)"
+principal_text = "*Das Buch, das die Wahrheit sagt* (1974), ‚Die Wacht über das auserwählte Volk‘; *Außerirdische brachten mich auf ihren Planeten* (1975), ‚Weder Gott noch Seele‘; Jean Sendy, *L'ère du Verseau* (1970)"
 +++
 
 **The Star of David** (Hebrew מָגֵן דָּוִד, *Magen David*, "Shield of David") is a

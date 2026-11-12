@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["노아의 방주", "노아의 방주(the ark of Noah)", "תֵּבַת נֹחַ (히브리어 tevat Noaḥ)", "the preservation vessel", "the orbital spacecraft (corpus reading)", "كَشْتِيُّ نُوحٍ (Arabic safīnat Nūḥ)"]
+alternative_names = ["노아의 방주", "노아가 지은 방주", "תֵּבַת נֹחַ (히브리어 tevat Noaḥ)", "tevah", "سَفِينَةُ نُوحٍ (아랍어 safīnat Nūḥ)"]
 timeline = ["age-of-cancer", "age-of-gemini"]
 see_also = [
     { title = "노아", path = "wiki/noah", description = "방주 보존 작전을 조율한 에덴 계보의 인간." },

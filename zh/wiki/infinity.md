@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Infinite", "the infinite cosmos", "infinite-cosmological framework", "the broader infinite framework", "cosmic infinity"]
+alternative_names = ["无限者", "无限的宇宙", "无限宇宙论框架", "更广的无限框架", "宇宙的无限"]
 timeline = ["all-ages"]
 see_also = [
     { title = "分形宇宙学", path = "wiki/fractal-cosmology", description = "在无限框架内运作的空间维度。" },

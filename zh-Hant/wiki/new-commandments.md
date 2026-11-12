@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Commandments (proper-noun framework concept)", "水瓶座時代計畫", "七條誡命", "雷爾派的社會、政治與宗教學說"]
+alternative_names = ["新誡命", "水瓶座時代計畫", "七條誡命", "雷爾派的社會、政治與宗教學說"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "摩西", path = "wiki/moses", description = "與之成對的白羊座時代十誡之中保,這些誡命在水瓶座時代接續其位。" },

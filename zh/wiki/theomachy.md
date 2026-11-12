@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["Serpentine Rebellion", "the War in Heaven", "the Battle of the Gods", "the First War", "the Cosmic Conflict", "the War of the Serpent", "the Lucifer-Council Conflict"]
+alternative_names = ["蛇式叛乱", "天界之战", "诸神之战", "第一次战争", "宇宙冲突", "蛇之战", "路西法—议会冲突"]
 timeline = ["cancer", "gemini", "taurus"]
 see_also = [
     { title = "路西法", path = "wiki/lucifer", description = "其伊甸披露引发这场冲突的被流放造物者派系领袖。" },

@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["666", "Six Hundred Sixty-Six", "the Number of the Beast", "the Number of Man (proper-noun framework concept)", "χξϛ (Greek isopsephic representation)"]
+alternative_names = ["666", "שש מאות שישים ושש", "מספר החיה", "מספר האדם (מושג של המסגרת, כשם פרטי)", "χξϛ (ייצוג איזופספי ביוונית)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "אפוקליפסה", path = "wiki/apocalypse", description = "הרקע של ההתגלות יג 18 וסף הגרעין של 1945 המסמן את הדור ה־666." },

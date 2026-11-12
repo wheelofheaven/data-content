@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["fractal cosmos", "the fractal-self-similar cosmology", "the infinite-hierarchical cosmology", "the nested-cosmos framework", "the scale-invariant cosmology"]
+alternative_names = ["分形宇宙", "分形自相似宇宙论", "无限层级宇宙论", "嵌套宇宙框架", "尺度不变宇宙论"]
 timeline = ["all-ages"]
 see_also = [
     { title = "宏观生物学", path = "wiki/macrobiology", description = "研究分形阶梯某一级上之生命系统的学问：人类之于个人，犹如个人之于细胞。" },

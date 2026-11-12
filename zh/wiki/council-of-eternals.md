@@ -16,7 +16,7 @@ category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "civilization"
 
-alternative_names = ["the Grand Council of the Eternals", "the Council", "the Council of Eternals", "the Divine Council", "the Divine Assembly", "the Heavenly Court", "the Assembly of the Elohim"]
+alternative_names = ["永恒者大议会", "议会", "永恒者议会", "神圣会议", "神圣集会", "天庭", "耶洛因的集会"]
 timeline = ["pre-creation", "capricorn", "sagittarius", "scorpio", "libra", "virgo", "leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
     { title = "耶和华", path = "wiki/yahweh", description = "贯穿约 25,000 年地球计划的议会主席。" },

@@ -14,7 +14,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of neo-euhemeristic readings", "Framework exegesis index", "Glossary of operational readings"]
+alternative_names = ["新埃乌赫梅罗斯主义阅读目录", "本框架释经索引", "实际运作阅读词汇表"]
 see_also = [
     { title = "神话素与神话母题清单", path = "wiki/list-of-mythemes-and-mythological-motifs", description = "涵盖反复出现的跨文化叙事模式（而非个别术语）的姊妹目录。" },
     { title = "词源学阅读清单", path = "wiki/list-of-etymological-readings", description = "涵盖特定词语与短语之语文学解读的姊妹目录。" },

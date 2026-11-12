@@ -18,7 +18,7 @@ image_caption = "עולם הבית של האלוהים כפי שמתאר אות�
 editorial_pass = "2026-05"
 category = "Elohim"
 entry_type = "place"
-alternative_names = ["Elohim Home Planet", "the home planet", "the planet of the Elohim", "the planet of the creators", "the planet of the Eternals (per single-planet reading)", "the other world", "the Mormon Kolob (per Tvedtnes hypothesis)"]
+alternative_names = ["כוכב־האם", "כוכב הלכת של האלוהים", "כוכב הלכת של הבוראים", "כוכב הלכת של הנצחיים"]
 timeline = ["age-of-capricorn", "age-of-aquarius"]
 see_also = [
     { title = "מועצת הנצחיים", path = "wiki/council-of-the-eternals", description = "הגוף השלטוני היושב על כוכב הבית בתיאור המקור." },

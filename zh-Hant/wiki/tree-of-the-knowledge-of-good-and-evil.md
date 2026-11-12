@@ -13,7 +13,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
-alternative_names = ["Tree of the Knowledge of Good and Evil", "知識之樹", "עֵץ הַדַּעַת טוֹב וָרָע (Hebrew etz ha-daat tov va-ra)", "禁樹", "園中央的樹", "第二棵樹（與生命之樹並列）"]
+alternative_names = ["分別善惡之樹", "知識之樹", "עֵץ הַדַּעַת טוֹב וָרָע（希伯來語 etz ha-daat tov va-ra）", "禁樹", "園中央的樹", "第二棵樹（與生命之樹並列）"]
 timeline = ["age-of-leo", "age-of-cancer"]
 see_also = [
     { title = "生命之樹", path = "wiki/tree-of-life", description = "成對之樹,編碼與科學知識一同被保留的延壽技術。" },

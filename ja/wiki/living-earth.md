@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Earth-as-organism framework", "the planetary-organism claim", "the cosmic-biology framework", "the universal-aliveness principle", "Living Cosmos", "the biological correlate of Infinity"]
+alternative_names = ["生きた宇宙", "生命体としての地球", "惑星有機体説", "普遍的な生命性"]
 timeline = ["all-ages"]
 see_also = [
     { title = "マクロ生物学", path = "wiki/macrobiology", description = "一段上の尺度の生命系 ― 有機体としての人類 ― を研究し、生きた地球の主張を惑星から種へと広げる学問分野。" },

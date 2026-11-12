@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["考察の四つの段階", "評価の四つの段階", "四段階の枠組み", "the four-perspective evaluation framework", "the cosmic-to-individual evaluation framework", "*les quatre plans* (French source-original)"]
+alternative_names = ["考察の四つの段階", "評価の四つの段階", "四段階の枠組み", "*les quatre plans*(フランス語の原典表記)"]
 timeline = ["all-ages"]
 see_also = [
     { title = "無限", path = "wiki/infinity", description = "第一の、最も重いレベル。万物がそれに照らして判断される宇宙的な基準点。" },

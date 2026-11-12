@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["所期待的黃金時代", "文明的黃金時代", "地上樂園", "星際文明的黃金時代", "the operational Golden Age"]
+alternative_names = ["所期待的黃金時代", "文明的黃金時代", "地上樂園", "星際文明的黃金時代"]
 timeline = ["age-of-aquarius", "post-aquarius"]
 see_also = [
     { title = "宏觀生物學", path = "wiki/macrobiology", description = "完成了的個體性重大轉變——人類被帶向一個連貫的全球有機體,以生物學角度解讀。" },

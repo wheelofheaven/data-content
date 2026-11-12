@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Mass Effect", "the Law of Masstime", "the law of subjective time", "the time-mass relationship", "the scale-time correspondence"]
+alternative_names = ["el Efecto de masa", "la Ley de la Masa-Tiempo", "la ley del tiempo subjetivo", "la relación tiempo-masa", "la correspondencia escala-tiempo"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Macrobiología", path = "wiki/macrobiology", description = "La biología del todo: la humanidad como un organismo un peldaño más arriba en la escalera de las escalas vivas, cuyo escalado temporal describe el Efecto Masa." },

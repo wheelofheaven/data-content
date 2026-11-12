@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Noah(英語)", "נֹחַ(ヘブライ語 Noaḥ)", "Νῶε(ギリシア語 Nōe)", "نوح(アラビア語 Nūḥ)", "the Eden-lineage flood survivor", "the ark-builder", "the post-flood patriarch"]
+alternative_names = ["Noah(英語)", "נֹחַ(ヘブライ語 Noaḥ)", "Νῶε(ギリシア語 Nōe)", "نوح(アラビア語 Nūḥ)", "箱舟の建造者", "洪水後の族長"]
 timeline = ["age-of-cancer", "age-of-gemini"]
 see_also = [
     { title = "大洪水", path = "wiki/great-flood", description = "方舟による保存の作戦がそれに対して行われた、双子座の時代の大災害。" },

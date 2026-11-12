@@ -18,7 +18,7 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "direct"
-alternative_names = ["Beit ha-Mikdash ha-Shlishi (ивр., «Третий Святой Дом»)", "Посольство (в раэлианской терминологии)", "Резиденция (в некоторых местах исходных текстов)", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "Мессианский Храм"]
+alternative_names = ["Beit ha-Mikdash ha-Shlishi (ивр., «Третий Святой Дом»)", "Посольство (в раэлианской терминологии)", "Резиденция (в некоторых местах исходных текстов)", "Храм Иезекииля (видение Иез. 40–48)", "Мессианский Храм"]
 timeline = ["aquarius"]
 see_also = [
     { title = "Посольство", path = "wiki/embassy", description = "Резиденция для приёма, описанная Ворильоном, которую рамка отождествляет с Третьим Храмом." },

@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Abraham (English)", "Abram (pre-renaming name)", "אַבְרָהָם (Hebrew Avraham)", "אַבְרָם (Hebrew Avram)", "إبراهيم (Arabic Ibrāhīm)", "Ἀβραάμ (Greek Abraám)", "the Patriarch", "Avraham Avinu (Jewish 'Abraham our father')", "Khalīl Allāh (Arabic 'Friend of God')"]
+alternative_names = ["Abraham (אנגלית)", "Abram (השם שקדם לשינוי השם)", "אַבְרָהָם (עברית, Avraham)", "אַבְרָם (עברית, Avram)", "إبراهيم (ערבית, Ibrāhīm)", "Ἀβραάμ (יוונית, Abraám)", "האב הקדמון", "Avraham Avinu (במסורת היהודית: 'אברהם אבינו')", "Khalīl Allāh (ערבית: 'ידיד האל')"]
 timeline = ["age-of-taurus", "age-of-aries"]
 see_also = [
     { title = "ברית נח", path = "wiki/noahic-covenant", description = "הברית שלאחר המבול, שהברית האברהמית ממשיכה את שושלתה." },

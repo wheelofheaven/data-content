@@ -18,7 +18,7 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "direct"
-alternative_names = ["Beit ha-Mikdash ha-Shlishi (Hebrew, \"the Third Holy House\")", "大使館（雷爾派術語）", "居所（見於某些源典段落）", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "彌賽亞聖殿"]
+alternative_names = ["Beit ha-Mikdash ha-Shlishi（希伯來語，「第三座聖殿」）", "大使館（雷爾派術語）", "居所（見於某些源典段落）", "以西結的聖殿（以西結書 40–48 章的異象）", "彌賽亞聖殿"]
 timeline = ["aquarius"]
 see_also = [
     { title = "大使館", path = "wiki/embassy", description = "由沃里隆闡明規格、被框架等同於第三聖殿的接待居所。" },

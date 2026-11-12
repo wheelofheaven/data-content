@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["neo-evhemerism (alternative French spelling)", "neo-Euhemerist interpretation", "the neo-euhemeristic reading", "extraterrestrial euhemerism (occasional descriptive term)", "the ancient astronaut hypothesis (overlapping but not identical)", "paleocontact hypothesis (overlapping but not identical)"]
+alternative_names = ["neo-evhemerism（法語 néo-évhémérisme）", "新埃烏赫梅羅斯派解讀", "外星埃烏赫梅羅斯主義", "新埃烏赫梅羅斯主義式解讀", "古代接觸假說（部分重疊）"]
 timeline = ["multi-age"]
 see_also = [
     { title = "古代宇航員假說", path = "wiki/ancient-astronaut-hypothesis", description = "文集作為其自覺成員的更廣泛詮釋傳統;新埃烏赫梅羅斯主義是其底層的解讀方法。" },

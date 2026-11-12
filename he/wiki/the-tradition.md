@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["la Tradition (French, Sendy's principal designation)", "the Tradition (capitalized to distinguish from generic 'tradition')", "the chain of Tradition (in the Hebrew *shalshelet ha-Kabbalah* sense)", "the perennial Tradition (in partial alignment with the perennialist designation)", "the Hermetic Tradition (in Western-esoteric usage)", "the Wisdom Tradition (in broader spiritual usage)"]
+alternative_names = ["la Tradition (צרפתית, הכינוי העיקרי של סנדי)", "המסורת (כשם פרטי, להבדיל מ\"מסורת\" במובן הכללי)", "שלשלת המסורת (במובן העברי של *shalshelet ha-Kabbalah*)", "המסורת הנצחית (בהתאמה חלקית לכינוי הפרניאליסטי)", "המסורת ההרמטית (בשימוש האזוטרי-המערבי)", "מסורת החוכמה (בשימוש רוחני רחב)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "ז׳אן סנדי", path = "wiki/jean-sendy", description = "המחבר שניסח את המסורת כפיגום המרכזי של המסגרת שלו." },

@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Abraham (English)", "Abram (pre-renaming name)", "אַבְרָהָם (Hebrew Avraham)", "אַבְרָם (Hebrew Avram)", "إبراهيم (Arabic Ibrāhīm)", "Ἀβραάμ (Greek Abraám)", "the Patriarch", "Avraham Avinu (Jewish 'Abraham our father')", "Khalīl Allāh (Arabic 'Friend of God')"]
+alternative_names = ["Abraham（英语）", "亚伯兰（改名前的名字）", "אַבְרָהָם（希伯来语 Avraham）", "אַבְרָם（希伯来语 Avram）", "إبراهيم（阿拉伯语 Ibrāhīm）", "Ἀβραάμ（希腊语 Abraám）", "族长", "Avraham Avinu（犹太传统称呼，意为“我们的父亚伯拉罕”）", "Khalīl Allāh（阿拉伯语，意为“真主的挚友”）"]
 timeline = ["age-of-taurus", "age-of-aries"]
 see_also = [
     { title = "挪亚之约", path = "wiki/noahic-covenant", description = "亚伯拉罕之约延续其世系的洪水后盟约。" },

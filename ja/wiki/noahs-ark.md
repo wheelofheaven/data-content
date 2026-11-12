@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["ノアの方舟", "ノアの箱舟", "תֵּבַת נֹחַ(ヘブライ語 tevat Noaḥ)", "the preservation vessel", "the orbital spacecraft (corpus reading)", "كَشْتِيُّ نُوحٍ (Arabic safīnat Nūḥ)"]
+alternative_names = ["ノアの方舟", "ノアの箱舟", "תֵּבַת נֹחַ(ヘブライ語 tevat Noaḥ)", "tevah", "سَفِينَةُ نُوحٍ(アラビア語 safīnat Nūḥ)"]
 timeline = ["age-of-cancer", "age-of-gemini"]
 see_also = [
     { title = "ノア", path = "wiki/noah", description = "方舟による保存の作戦を調整したエデン系統の人間。" },

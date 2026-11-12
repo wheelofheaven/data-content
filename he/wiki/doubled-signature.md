@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the doubled signature", "the doubled-signature principle", "the Hamlet's Mill principle", "the doubled astronomical signature", "doubled invocation across the zodiacal axis"]
+alternative_names = ["החתימה הכפולה", "עקרון החתימה הכפולה", "עקרון Hamlet's Mill", "החתימה האסטרונומית הכפולה", "הקריאה הכפולה לאורך ציר המזלות"]
 timeline = ["all-ages"]
 see_also = [
     { title = "ישוע", path = "wiki/jesus", description = "דמות הדג והבתולה הנושאת את חתימת הדגים–הבתולה של העידן הנוצרי." },

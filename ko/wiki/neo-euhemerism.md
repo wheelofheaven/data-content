@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Methodology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["neo-evhemerism (alternative French spelling)", "neo-Euhemerist interpretation", "the neo-euhemeristic reading", "extraterrestrial euhemerism (occasional descriptive term)", "the ancient astronaut hypothesis (overlapping but not identical)", "paleocontact hypothesis (overlapping but not identical)"]
+alternative_names = ["신에베메리즘(프랑스어 néo-évhémérisme)", "신에우헤메리즘적 해석", "외계적 에우헤메리즘", "신에우헤메리즘적 독법", "고대 접촉 가설(부분적으로 겹침)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "고대 우주비행사 가설", path = "wiki/ancient-astronaut-hypothesis", description = "코퍼스가 스스로를 자각하는 구성원인 더 넓은 해석 전통. 신에우헤메리즘은 그 바탕의 독해 방법입니다." },

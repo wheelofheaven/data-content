@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Geniocracy (proper-noun framework concept)", "selective democracy (Vorilhon source-textual designation)", "первая Новая заповедь", "the Raëlian political-governance doctrine", "Géniocratie (франц.)", "government by the geniuses (descriptive expansion)"]
+alternative_names = ["Гениократия", "селективная демократия", "первая Новая заповедь", "раэлианское учение об управлении", "Géniocratie (франц.)", "правление гениев"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "Гуманитаризм", path = "wiki/humanitarianism", description = "Заповедь о собственности и наследовании, составляющая пару с гениократией в Новых заповедях." },

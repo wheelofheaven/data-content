@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["plurality of the gods", "plurality of the Elohim", "the multiple-creators reading", "biblical polytheism", "Hebrew Bible plurality content", "the divine council reading", "the Elohim plural reading"]
+alternative_names = ["ריבוי האלים", "ריבוי האלוהים", "קריאת הבוראים הרבים", "פוליתאיזם מקראי", "תוכן הריבוי במקרא העברי", "קריאת המועצה האלוהית", "קריאת האלוהים כרבים"]
 timeline = ["all-ages"]
 see_also = [
     { title = "אלוהים", path = "wiki/elohim", description = "שם העצם העברי ברבים שבלב קריאת הריבוי." },

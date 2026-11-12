@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["666", "Six Hundred Sixty-Six", "the Number of the Beast", "the Number of Man (proper-noun framework concept)", "χξϛ (Greek isopsephic representation)"]
+alternative_names = ["666", "Seiscientos sesenta y seis", "el Número de la Bestia", "el Número del Hombre (concepto del marco, como nombre propio)", "χξϛ (representación isopséfica griega)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "Apocalipsis", path = "wiki/apocalypse", description = "El contexto de Apocalipsis 13:18 y el umbral nuclear de 1945, que marca la generación 666." },

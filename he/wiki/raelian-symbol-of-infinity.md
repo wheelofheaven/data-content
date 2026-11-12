@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Symbol of Infinity", "the Raëlian emblem", "the Raëlian movement symbol", "the Elohim emblem"]
+alternative_names = ["סמל האינסוף", "הסמליל הראליאני", "סמל התנועה הראליאנית", "סמליל האלוהים"]
 timeline = ["aquarius"]
 see_also = [
     { title = "אינסוף", path = "wiki/infinity", description = "המסגרת הרחבה שהסמל מזקק לצורה איקונוגרפית אחת." },

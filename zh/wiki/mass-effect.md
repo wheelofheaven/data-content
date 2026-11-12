@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Mass Effect", "the Law of Masstime", "the law of subjective time", "the time-mass relationship", "the scale-time correspondence"]
+alternative_names = ["质量效应", "质量时间定律", "主观时间定律", "时间—质量关系", "尺度—时间对应"]
 timeline = ["all-ages"]
 see_also = [
     { title = "宏观生物学", path = "wiki/macrobiology", description = "整体的生物学——人类作为生命尺度阶梯上高一级的有机体，其时间尺度由质量效应描述。" },

@@ -13,14 +13,14 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Geniocracy (proper-noun framework concept)", "selective democracy (Vorilhon source-textual designation)", "the first New Commandment", "the Raëlian political-governance doctrine", "Géniocratie (French)", "government by the geniuses (descriptive expansion)"]
+alternative_names = ["Geniokratie", "selektive Demokratie", "das erste Neue Gebot", "raëlianische Regierungslehre", "Géniocratie (französisch)", "Herrschaft der Genies"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "Humanitarismus", path = "wiki/humanitarianism", description = "Das Gebot zu Eigentum und Erbe, das in den Neuen Geboten mit der Geniokratie gepaart ist." },
     { title = "Neue Gebote", path = "wiki/new-commandments", description = "Das siebenteilige Programm des Wassermann-Zeitalters, dessen erstes Gebot die Geniokratie ist." },
     { title = "Jahwe", path = "wiki/yahweh", description = "Der Präsident der Elohim, der Vorilhon die Lehre darlegte." },
     { title = "Raël", path = "wiki/rael", description = "Der Empfänger der Lehre und Gründer der Bewegung für eine weltweite Geniokratie." },
-    { title = "Message from the Designers", path = "wiki/message-from-the-designers", description = "Der zusammengefasste Quellentext, der die ursprüngliche Formulierung der Lehre festhält." },
+    { title = "Botschaft der Designer", path = "wiki/message-from-the-designers", description = "Der zusammengefasste Quellentext, der die ursprüngliche Formulierung der Lehre festhält." },
     { title = "Raëlismus", path = "wiki/raelism", description = "Die Bewegung, in der die Geniokratie als grundlegende politische Lehre wirkt." }
 ]
 

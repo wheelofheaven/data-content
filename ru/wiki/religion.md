@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["*religio* (лат.)", "*religare* (лат. глагольный корень, «связывать»)", "взращиваемая связь", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
+alternative_names = ["*religio* (лат.)", "*religare* (лат. глагольный корень, «связывать»)", "взращиваемая связь", "связь между создателями и их творением", "*Dharma* (санскр., частичный эквивалент)", "*Dao* (кит., частичный эквивалент)", "*Din* (араб., частичный эквивалент)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "Элохим", path = "wiki/elohim", description = "Цивилизация-создатель, связь с которой, согласно прочтению рамки, взращивает религия." },

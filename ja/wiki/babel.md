@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["バベルの塔", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu*(アッカド語:「神の門」)", "バベル計画", "バベルの出来事", "the Tower-of-Babel intervention", "the Confounding of Tongues", "the Confusion of Languages"]
+alternative_names = ["バベルの塔", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu*(アッカド語:「神の門」)", "バベル計画", "バベルの出来事", "言葉の乱れ", "言語の混乱"]
 timeline = ["gemini"]
 see_also = [
     { title = "大洪水", path = "wiki/great-flood", description = "それ以前の評議会によるリセット。バベルは、新たな人間の進歩に対する次の介入である。" },

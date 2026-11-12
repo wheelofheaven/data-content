@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["ожидаемый Золотой век", "Золотой век цивилизации", "земной рай", "Золотой век межпланетной цивилизации", "the operational Golden Age"]
+alternative_names = ["ожидаемый Золотой век", "Золотой век цивилизации", "земной рай", "Золотой век межпланетной цивилизации"]
 timeline = ["age-of-aquarius", "post-aquarius"]
 see_also = [
     { title = "Макробиология", path = "wiki/macrobiology", description = "Завершённый крупный переход в индивидуальности — человечество, доведённое до целостного глобального организма, прочитанное биологически." },

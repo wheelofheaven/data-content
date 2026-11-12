@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Four Levels of Consideration", "the Four Levels of Estimation", "the four-level framework", "the four-perspective evaluation framework", "the cosmic-to-individual evaluation framework", "*les quatre plans* (French source-original)"]
+alternative_names = ["los Cuatro Niveles de Consideración", "los Cuatro Niveles de Estimación", "el marco de cuatro niveles", "*les quatre plans* (original francés de la fuente)"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Infinito", path = "wiki/infinity", description = "El primer nivel y el de mayor peso: el punto de referencia cósmico con el que se juzgan todas las cosas." },

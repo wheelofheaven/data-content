@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["Noah (English)", "נֹחַ (Hebrew Noaḥ)", "Νῶε (Greek Nōe)", "نوح (Arabic Nūḥ)", "the Eden-lineage flood survivor", "the ark-builder", "the post-flood patriarch"]
+alternative_names = ["Noah (אנגלית)", "נֹחַ (עברית, Noaḥ)", "Νῶε (יוונית, Nōe)", "نوح (ערבית, Nūḥ)", "בונה התיבה", "האב הקדמון שלאחר המבול"]
 timeline = ["age-of-cancer", "age-of-gemini"]
 see_also = [
     { title = "המבול", path = "wiki/great-flood", description = "אסון עידן התאומים שנגדו הועמד מבצע השימור בתיבה." },

@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Commandments (proper-noun framework concept)", "the Aquarian-age program", "the seven commandments", "the Raëlian socio-political-religious doctrine"]
+alternative_names = ["המצוות החדשות", "התוכנית של עידן הדלי", "שבע המצוות", "התורה החברתית-פוליטית-דתית הראליאנית"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "משה", path = "wiki/moses", description = "מתווך עשרת הדיברות של עידן הטלה, שמצוות אלה באות במקומן עבור עידן הדלי." },

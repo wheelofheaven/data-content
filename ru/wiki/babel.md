@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["Вавилонская башня", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (аккад. «врата бога»)", "вавилонский проект", "вавилонское событие", "the Tower-of-Babel intervention", "смешение языков", "смешение наречий"]
+alternative_names = ["Вавилонская башня", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (аккад. «врата бога»)", "вавилонский проект", "вавилонское событие", "смешение языков", "смешение наречий"]
 timeline = ["gemini"]
 see_also = [
     { title = "Великий потоп", path = "wiki/great-flood", description = "Предшествующий перезапуск Совета; Вавилон — следующее вмешательство против возобновившегося продвижения человечества." },

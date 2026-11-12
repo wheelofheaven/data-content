@@ -15,7 +15,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of megalithic sites", "Ancient megalithic architecture index", "Cyclopean and megalithic construction reference"]
+alternative_names = ["קטלוג אתרים מגליתיים", "מפתח אדריכלות מגליתית עתיקה", "מדריך עיון לבנייה ציקלופית ומגליתית"]
 see_also = [
     { title = "בונים קדומים", path = "wiki/ancient-builders", description = "הערך המזווג העוסק בשאלה מי בנה את האתרים שקטלוג זה מונה." },
     { title = "ארכיאואסטרונומיה", path = "wiki/archaeoastronomy", description = "הכיוונים האסטרונומיים השיטתיים המתועדים באתרים מקוטלגים רבים." },

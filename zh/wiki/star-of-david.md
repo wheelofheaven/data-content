@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["hexagram", "Magen David (מָגֵן דָּוִד, 'Shield of David')", "Solomon's Seal (Seal of Solomon)", "Hindu Shatkona (षट्कोण, 'six-cornered')", "Star of Goliath (older Karaite designation)", "Creator's Star", "Hex Star"]
+alternative_names = ["六芒星", "Magen David（מָגֵן דָּוִד，“大卫之盾”）", "所罗门之印", "印度教 Shatkona（षट्कोण，“六角”）", "歌利亚之星（较早的卡拉派称谓）", "创造者之星", "六角星"]
 timeline = ["all-ages"]
 see_also = [
     { title = "雷尔派无限符号", path = "wiki/raelian-symbol-of-infinity", description = "以大卫之星为外层组成部分的复合徽标。" },

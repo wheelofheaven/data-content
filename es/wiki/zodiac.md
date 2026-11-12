@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the zodiac belt", "the zodiacal circle", "*zōidiakos kyklos* (Greek: ζῳδιακὸς κύκλος, 'circle of small figures')", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "the celestial circle", "the wheel of heaven (in older usage)", "the twelve houses (in astrological usage)"]
+alternative_names = ["el cinturón zodiacal", "el círculo zodiacal", "*zōidiakos kyklos* (griego: ζῳδιακὸς κύκλος, «círculo de pequeñas figuras»)", "*Mazzaroth* (hebreo: מַזָּרוֹת)", "el círculo celeste", "la rueda del cielo (en el uso antiguo)", "las doce casas (en el uso astrológico)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "Era del Mundo", path = "wiki/world-age", description = "La era precesional que marca cada segmento zodiacal en el calendario del marco." },

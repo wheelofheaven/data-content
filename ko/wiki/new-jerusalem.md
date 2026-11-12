@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["새 예루살렘", "Third Temple (Jewish-historical register)", "Embassy (contemporary operational register)", "the Heavenly Jerusalem (Christian-apocalyptic register)", "the descending Holy City (Revelation 21 designation)", "the residence of the Elohim (Vorilhon source designation)"]
+alternative_names = ["새 예루살렘", "하늘의 예루살렘", "하늘에서 내려오는 거룩한 성", "제3 성전", "대사관", "엘로힘의 거처"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "대사관", path = "wiki/embassy", description = "같은 구조물의 실행 명세." },

@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["fractal cosmos", "the fractal-self-similar cosmology", "the infinite-hierarchical cosmology", "the nested-cosmos framework", "the scale-invariant cosmology"]
+alternative_names = ["קוסמוס פרקטלי", "הקוסמולוגיה הפרקטלית בעלת הדמיון העצמי", "הקוסמולוגיה ההיררכית האינסופית", "מסגרת הקוסמוס המקונן", "הקוסמולוגיה הבלתי תלויה בקנה מידה"]
 timeline = ["all-ages"]
 see_also = [
     { title = "מקרוביולוגיה", path = "wiki/macrobiology", description = "חקר המערכות החיות בשלב אחד של הסולם הפרקטלי: האנושות ביחס לאדם כאדם ביחס לתא." },

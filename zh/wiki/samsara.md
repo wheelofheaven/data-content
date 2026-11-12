@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Saṃsāra (Sanskrit संसार, Pali saṃsāra)", "the Wheel of Life (Bhavacakra)", "the cycle of birth, death, and rebirth", "the cycle of reincarnation", "cyclic existence", "the cycle (Vorilhon source designation)"]
+alternative_names = ["Saṃsāra（梵语 संसार，巴利语 saṃsāra）", "生命之轮（Bhavacakra）", "生、死与再生的循环", "轮回转世的循环", "循环的存在", "循环（沃里隆源典的称谓）"]
 timeline = ["multi-age"]
 see_also = [
     { title = "宏观生物学", path = "wiki/macrobiology", description = "把人类视为有机体的生物学，对它而言轮回是失败模式——在完成之前就夭折的过渡。" },

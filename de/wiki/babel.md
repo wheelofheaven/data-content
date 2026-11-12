@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["the Tower of Babel", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (Akkadian: 'gate of the god')", "the Babel project", "the Babel event", "the Tower-of-Babel intervention", "the Confounding of Tongues", "the Confusion of Languages"]
+alternative_names = ["der Turm zu Babel", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (akkadisch: ‚Tor des Gottes‘)", "das Babel-Projekt", "das Babel-Ereignis", "die Verwirrung der Zungen", "die Sprachverwirrung"]
 timeline = ["gemini"]
 see_also = [
     { title = "Sintflut", path = "wiki/great-flood", description = "Der frühere Neustart durch den Rat; Babel ist das nächste Eingreifen gegen erneuten menschlichen Fortschritt." },

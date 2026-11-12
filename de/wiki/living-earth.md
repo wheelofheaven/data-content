@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Earth-as-organism framework", "the planetary-organism claim", "the cosmic-biology framework", "the universal-aliveness principle", "Living Cosmos", "the biological correlate of Infinity"]
+alternative_names = ["der Lebende Kosmos", "die Erde als Lebewesen", "die These vom planetaren Organismus", "universelle Lebendigkeit"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Makrobiologie", path = "wiki/macrobiology", description = "Die Disziplin, die lebende Systeme eine Größenordnung höher untersucht — die Menschheit als Organismus — und die These der lebendigen Erde vom Planeten auf die Art ausweitet." },
@@ -35,7 +35,7 @@ relationship_to_fractal_cosmology = "Die Fraktale Kosmologie liefert die verscha
 relationship_to_gaia_hypothesis = "Strukturell nahe an Lovelocks Gaia-Hypothese, und die raëlianische Aussage ist zeitgleich mit seinen frühen Arbeiten; doch die Lebende Erde behauptet einen buchstäblichen Organismus-Status (starke Gaia-These) und dehnt ihn auf alle Planeten und jede Ebene aus"
 distinguished_from = "Metaphorische Rhetorik einer „lebendigen Erde“ (die Behauptung hier ist buchstäblich); schwache Gaia-These (Selbstregulierung auf Systemebene, kein buchstäblicher Organismus); Panpsychismus (Bewusstsein als grundlegend, nicht biologisch); anthropomorphe Erdgöttinnen-Religion (die Behauptung ist biologisch, nicht devotional)"
 status_in_source_material = "Von Jahwe direkt ausgesprochen im Abschnitt 'Neither God nor Soul' von *Extra-Terrestrials Took Me to Their Planet* (1975)"
-principal_text = "*Extra-Terrestrials Took Me to Their Planet* (1975), 'Neither God nor Soul'; *The Book Which Tells the Truth* (1974), 'Mankind: A Disease of the Universe'"
+principal_text = "*Außerirdische brachten mich auf ihren Planeten* (1975), ‚Weder Gott noch Seele‘; *Das Buch, das die Wahrheit sagt* (1974), ‚Die Menschheit: eine Krankheit des Universums‘"
 +++
 
 **Living Earth** is the Wheel of Heaven corpus's name for a claim the Raëlian

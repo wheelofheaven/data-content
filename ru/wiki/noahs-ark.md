@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["Ноев Ковчег", "ковчег Ноя", "תֵּבַת נֹחַ (ивр. tevat Noaḥ)", "the preservation vessel", "the orbital spacecraft (corpus reading)", "كَشْتِيُّ نُوحٍ (Arabic safīnat Nūḥ)"]
+alternative_names = ["Ноев ковчег", "ковчег Ноя", "תֵּבַת נֹחַ (ивр. tevat Noaḥ)", "тева", "سَفِينَةُ نُوحٍ (араб. safīnat Nūḥ)"]
 timeline = ["age-of-cancer", "age-of-gemini"]
 see_also = [
     { title = "Ной", path = "wiki/noah", description = "Человек эдемской линии, координировавший операцию сохранения на ковчеге." },

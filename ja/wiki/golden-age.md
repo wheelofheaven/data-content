@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["待望の黄金時代", "文明の黄金時代", "地上の楽園", "惑星間文明の黄金時代", "the operational Golden Age"]
+alternative_names = ["待望の黄金時代", "文明の黄金時代", "地上の楽園", "惑星間文明の黄金時代"]
 timeline = ["age-of-aquarius", "post-aquarius"]
 see_also = [
     { title = "マクロ生物学", path = "wiki/macrobiology", description = "個体性における大転換の完了。首尾一貫した地球規模の有機体へと至った人類を、生物学的に読む。" },

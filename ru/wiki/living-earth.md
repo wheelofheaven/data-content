@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Earth-as-organism framework", "утверждение о планете-организме", "the cosmic-biology framework", "the universal-aliveness principle", "Living Cosmos", "the biological correlate of Infinity"]
+alternative_names = ["Живой Космос", "Земля как живое существо", "утверждение о планете-организме", "всеобщая жизненность"]
 timeline = ["all-ages"]
 see_also = [
     { title = "Макробиология", path = "wiki/macrobiology", description = "Дисциплина, изучающая живые системы на один масштаб выше — человечество как организм, — распространяя тезис о Живой Земле с планеты на вид." },

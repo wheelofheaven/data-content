@@ -14,7 +14,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of mythological motifs", "Mythological-motif index (framework reading)", "Cross-cultural mythemes catalogue"]
+alternative_names = ["神话母题目录", "神话母题索引（本框架解读）", "跨文化神话素目录"]
 see_also = [
     { title = "神话素", path = "wiki/mytheme", description = "本目录用法所依据、并与母题和故事类型相区分的专门单位。" },
     { title = "创世记", path = "wiki/genesis", description = "本目录所延伸之同一操作性转译方法在章节尺度上的应用。" },

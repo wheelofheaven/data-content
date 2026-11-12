@@ -14,7 +14,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Sendy's Conditions of Coherence", "Sendy's five conditions", "the conditions of coherence", "Les conditions de cohérence (French)", "the hologram conditions"]
+alternative_names = ["תנאי הלכידות של סנדי", "חמשת התנאים של סנדי", "תנאי הלכידות", "Les conditions de cohérence (צרפתית)", "תנאי ההולוגרמה"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "ז׳אן סנדי", path = "wiki/jean-sendy", description = "המחבר שניסח את חמשת התנאים בספרו L'Ère du Verseau (1970)." },

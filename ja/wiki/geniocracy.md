@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Geniocracy (proper-noun framework concept)", "selective democracy (Vorilhon source-textual designation)", "第一の新しい戒め", "the Raëlian political-governance doctrine", "Géniocratie(フランス語)", "government by the geniuses (descriptive expansion)"]
+alternative_names = ["天才政治", "選択的民主主義", "第一の新しい戒め", "ラエリアンの統治教説", "Géniocratie(フランス語)", "天才たちによる統治"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "ヒューマニタリアニズム", path = "wiki/humanitarianism", description = "新しい戒律においてジェニオクラシーと対をなす、財産と相続の戒律。" },

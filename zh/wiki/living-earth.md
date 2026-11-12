@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Earth-as-organism framework", "the planetary-organism claim", "the cosmic-biology framework", "the universal-aliveness principle", "Living Cosmos", "the biological correlate of Infinity"]
+alternative_names = ["活的宇宙", "作为生命体的地球", "行星即有机体之说", "普遍的生命性"]
 timeline = ["all-ages"]
 see_also = [
     { title = "宏观生物学", path = "wiki/macrobiology", description = "研究高一个尺度之生命系统——人类作为有机体——的学科，将活的地球主张从行星延伸至物种。" },

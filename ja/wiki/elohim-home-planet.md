@@ -17,7 +17,7 @@ image_caption = "資料が記すエロヒムの故郷世界——温暖で緑豊
 editorial_pass = "2026-05"
 category = "Elohim"
 entry_type = "place"
-alternative_names = ["Elohim Home Planet", "the home planet", "the planet of the Elohim", "the planet of the creators", "the planet of the Eternals (per single-planet reading)", "the other world", "the Mormon Kolob (per Tvedtnes hypothesis)"]
+alternative_names = ["母星", "エロヒムの惑星", "創造者たちの惑星", "永遠者の惑星"]
 timeline = ["age-of-capricorn", "age-of-aquarius"]
 see_also = [
     { title = "永遠者の評議会", path = "wiki/council-of-the-eternals", description = "原典の記述において、母惑星に置かれている統治機関。" },

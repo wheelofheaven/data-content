@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["la Vérité (French, the principal Vorilhon designation)", "the truth (lowercase, when referring to the recovered content as such)", "the underlying historical-civilizational reality (corpus-internal expansion)", "the message (in Raëlian source-textual usage)", "*emet* (אֱמֶת, Hebrew)", "*aletheia* (ἀλήθεια, Greek)"]
+alternative_names = ["la Vérité（法语）", "真理（*Le Livre qui dit la vérité* 中的章节）", "讯息（雷尔派用法）", "*emet*（אֱמֶת，希伯来语）", "*aletheia*（ἀλήθεια，希腊语）"]
 timeline = ["multi-age"]
 see_also = [
     { title = "传统", path = "wiki/the-tradition", description = "真相借以在数千年间传承下来的、被保存的传递渠道。" },

@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["고려의 네 단계", "평가의 네 단계", "네 단계 틀", "the four-perspective evaluation framework", "the cosmic-to-individual evaluation framework", "*les quatre plans* (French source-original)"]
+alternative_names = ["고려의 네 단계", "평가의 네 단계", "네 단계 틀", "*les quatre plans* (프랑스어 원전 표현)"]
 timeline = ["all-ages"]
 see_also = [
     { title = "무한", path = "wiki/infinity", description = "첫 번째이자 가장 무거운 단계 — 모든 것이 그것에 비추어 판단되는 우주적 기준점." },

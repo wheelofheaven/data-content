@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["la Tradition (French, Sendy's principal designation)", "the Tradition (capitalized to distinguish from generic 'tradition')", "the chain of Tradition (in the Hebrew *shalshelet ha-Kabbalah* sense)", "the perennial Tradition (in partial alignment with the perennialist designation)", "the Hermetic Tradition (in Western-esoteric usage)", "the Wisdom Tradition (in broader spiritual usage)"]
+alternative_names = ["la Tradition（法语，桑迪的主要称谓）", "传统（专指义，以区别于一般意义的“传统”）", "传统之链（希伯来语 *shalshelet ha-Kabbalah* 意义上）", "永恒传统（部分对应长青哲学的称谓）", "赫密士传统（西方秘传用法）", "智慧传统（更广的灵性用法）"]
 timeline = ["multi-age"]
 see_also = [
     { title = "Jean Sendy", path = "wiki/jean-sendy", description = "将“传统”阐述为其框架中心支架的作者。" },

@@ -15,7 +15,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of mythological motifs", "Mythological-motif index (framework reading)", "Cross-cultural mythemes catalogue"]
+alternative_names = ["קטלוג מוטיבים מיתולוגיים", "מפתח מוטיבים מיתולוגיים (קריאת המסגרת)", "קטלוג מיתמות בין-תרבותיות"]
 see_also = [
     { title = "מיתמה", path = "wiki/mytheme", description = "היחידה הטכנית שהשימוש בקטלוג נשען עליה ומבחין בינה לבין מוטיב וטיפוס סיפור." },
     { title = "בראשית", path = "wiki/genesis", description = "החלה ברמת הפרק של אותה שיטת תרגום מעשי שהקטלוג מרחיב." },

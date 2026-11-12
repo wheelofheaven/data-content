@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Saṃsāra (Sanskrit संसार, Pali saṃsāra)", "the Wheel of Life (Bhavacakra)", "the cycle of birth, death, and rebirth", "the cycle of reincarnation", "cyclic existence", "the cycle (Vorilhon source designation)"]
+alternative_names = ["Saṃsāra (Sanskrit संसार, Pali saṃsāra)", "das Lebensrad (Bhavacakra)", "der Kreislauf von Geburt, Tod und Wiedergeburt", "der Kreislauf der Reinkarnation", "zyklische Existenz", "der Kreislauf (Bezeichnung in Vorilhons Quellentext)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "Makrobiologie", path = "wiki/macrobiology", description = "Die Biologie der Menschheit als Organismus, für die saṃsāra der Fehlschlag ist — der Übergang, der vor seiner Vollendung scheitert." },

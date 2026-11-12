@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Commandments (proper-noun framework concept)", "水瓶座の時代の計画", "七つの戒め", "ラエリアンの社会的・政治的・宗教的教説"]
+alternative_names = ["新しい戒め", "水瓶座の時代の計画", "七つの戒め", "ラエリアンの社会的・政治的・宗教的教説"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "モーセ", path = "wiki/moses", description = "これらの戒律が水瓶座の時代に向けて継承する、対をなす牡羊座の時代の十戒の仲介者。" },

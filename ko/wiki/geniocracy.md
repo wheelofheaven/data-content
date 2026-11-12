@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Geniocracy (proper-noun framework concept)", "selective democracy (Vorilhon source-textual designation)", "첫 번째 새 계명", "the Raëlian political-governance doctrine", "Géniocratie (프랑스어)", "government by the geniuses (descriptive expansion)"]
+alternative_names = ["지니오크라시", "선택적 민주주의", "첫 번째 새 계명", "라엘리안 통치 교리", "Géniocratie (프랑스어)", "천재들에 의한 통치"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "휴머니타리아니즘", path = "wiki/humanitarianism", description = "새 계명에서 천재정치와 짝을 이루는 재산·상속의 계명." },

@@ -14,7 +14,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of megalithic sites", "Ancient megalithic architecture index", "Cyclopean and megalithic construction reference"]
+alternative_names = ["巨石遗址目录", "古代巨石建筑索引", "巨型石构与巨石建筑参考"]
 see_also = [
     { title = "古代建造者", path = "wiki/ancient-builders", description = "处理本目录所列遗址由谁建造的配对条目。" },
     { title = "考古天文学", path = "wiki/archaeoastronomy", description = "在许多被编目遗址中记录到的系统性天文朝向。" },

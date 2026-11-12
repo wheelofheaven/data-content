@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Jerusalem", "Third Temple (Jewish-historical register)", "Embassy (contemporary operational register)", "the Heavenly Jerusalem (Christian-apocalyptic register)", "the descending Holy City (Revelation 21 designation)", "the residence of the Elohim (Vorilhon source designation)"]
+alternative_names = ["das Neue Jerusalem", "das Himmlische Jerusalem", "die herabkommende Heilige Stadt", "Dritter Tempel", "Botschaft", "die Residenz der Elohim"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "Botschaft", path = "wiki/embassy", description = "Die praktischen Spezifikationen desselben Baus." },
@@ -27,7 +27,7 @@ see_also = [
 [extra.infobox]
 type = "Bauwerk des Wassermann-Zeitalters, errichtet, um die förmliche Rückkehr der Elohim zu empfangen; der Sitz des offenen Kontakts zwischen Elohim und Menschen"
 three_term_identification = "Neues Jerusalem (christlich-apokalyptischer Name); Dritter Tempel (jüdisch-historischer Name); Botschaft (operativer Name) – drei Namen für ein Gebäude"
-principal_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon, 1975), 'To the People of Israel'; *Let Us Welcome the Extra-Terrestrials* (1979); *Message from the Designers* (2005)"
+principal_source = "*Außerirdische brachten mich auf ihren Planeten* (Vorilhon, 1975), ‚An das Volk Israel‘; *Empfangen wir die Außerirdischen* (1979); *Botschaft der Designer* (2005)"
 biblical_prefigurations = "Hesekiel 47,1–2 (Wasser von der Schwelle des Tempels); Apostelgeschichte 15,16 (die Hütte Davids wieder aufbauen); Offenbarung 21,1–3 (das herabkommende Neue Jerusalem)"
 original_location_preference = "Israel, nahe Jerusalem – der Ort der ursprünglichen Eden-Operation"
 relocation_authorization = "December 13, 1997 Yahweh message — formal authorization to seek permission from any nation following Israeli refusals; Israel preserved as 'last chance' option"

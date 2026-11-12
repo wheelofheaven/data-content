@@ -14,7 +14,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
-alternative_names = ["Plurality of worlds", "Plurality of inhabited worlds", "Many-worlds cosmology (in the classical sense, distinct from the Everett quantum interpretation)", "Pluralität der Welten", "Pluralité des mondes"]
+alternative_names = ["Vielheit der Welten", "Vielheit bewohnter Welten", "Viele-Welten-Kosmologie (im klassischen Sinn, zu unterscheiden von der Everett’schen Quanteninterpretation)", "Pluralität der Welten", "Pluralité des mondes"]
 see_also = [
     { title = "Drake-Gleichung", path = "wiki/drake-equation", description = "Der Versuch des 20. Jahrhunderts, abzuschätzen, wie viele der vielen Welten bewohnt sind." },
     { title = "Elohim", path = "wiki/elohim", description = "Die außerirdische Zivilisation, deren Existenz der kosmische Pluralismus nach der Lesart des Korpus erfordert." },

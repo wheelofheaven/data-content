@@ -13,7 +13,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["government UAP cover-up", "UFO cover-up", "UAP disclosure", "military cover-up of exobiology (earlier designation)", "UAP secrecy", "extraterrestrial contact cover-up"]
+alternative_names = ["טיוח UAP ממשלתי", "טיוח עב\"מים", "חשיפת UAP", "הטיוח הצבאי של אקסוביולוגיה (כינוי קודם)", "סודיות סביב UAP", "טיוח המגע החוץ-ארצי"]
 timeline = ["age-of-pisces", "age-of-aquarius"]
 see_also = [
     { title = "השגרירות", path = "wiki/embassy", description = "הפתרון של הקנון לשאלת החשיפה באמצעות הכרה דיפלומטית רשמית." },

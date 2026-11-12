@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the New Commandments (proper-noun framework concept)", "программа Эпохи Водолея", "семь заповедей", "раэлианское социально-политико-религиозное учение"]
+alternative_names = ["Новые заповеди", "программа Эпохи Водолея", "семь заповедей", "раэлианское социально-политико-религиозное учение"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "Моисей", path = "wiki/moses", description = "Посредник парного Декалога эпохи Овна, преемниками которого для эпохи Водолея выступают эти заповеди." },

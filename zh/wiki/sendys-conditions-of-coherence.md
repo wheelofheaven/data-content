@@ -13,7 +13,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Sendy's Conditions of Coherence", "Sendy's five conditions", "the conditions of coherence", "Les conditions de cohérence (French)", "the hologram conditions"]
+alternative_names = ["桑迪的一致性条件", "桑迪的五项条件", "一致性条件", "Les conditions de cohérence（法语）", "全息条件"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "Jean Sendy", path = "wiki/jean-sendy", description = "在《L'Ère du Verseau》（1970）中阐述五项条件的作者。" },

@@ -17,7 +17,7 @@ image_caption = "Родной мир Элохим в описании источ
 editorial_pass = "2026-05"
 category = "Elohim"
 entry_type = "place"
-alternative_names = ["Elohim Home Planet", "родная планета", "планета Элохим", "планета создателей", "the planet of the Eternals (per single-planet reading)", "the other world", "the Mormon Kolob (per Tvedtnes hypothesis)"]
+alternative_names = ["родная планета", "планета Элохим", "планета создателей", "Планета Вечных"]
 timeline = ["age-of-capricorn", "age-of-aquarius"]
 see_also = [
     { title = "Совет Вечных", path = "wiki/council-of-the-eternals", description = "Руководящий орган, заседающий на родной планете согласно исходному описанию." },

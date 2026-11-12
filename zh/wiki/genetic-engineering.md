@@ -14,7 +14,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
-alternative_names = ["Genetic modification", "Gene splicing (historical informal usage)", "Recombinant DNA technology (the foundational subdomain)", "Genome editing (the contemporary CRISPR-era subdomain)"]
+alternative_names = ["基因改造", "基因剪接（历史上的非正式用法）", "重组 DNA 技术（奠基性的子领域）", "基因组编辑（当代 CRISPR 时代的子领域）"]
 timeline = ["aquarius"]
 see_also = [
     { title = "创世工具箱", path = "wiki/genesis-toolbox", description = "纲领层面的综合，汇集了本学科为其组成部分之一的完整创造技术栈。" },

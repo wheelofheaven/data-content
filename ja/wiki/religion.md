@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["*religio*(ラテン語)", "*religare*(ラテン語の動詞語根、「結ぶ/つなぐ」)", "育まれた絆", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
+alternative_names = ["*religio*(ラテン語)", "*religare*(ラテン語の動詞語根、「結ぶ/つなぐ」)", "育まれた絆", "創造者と被造物とのつながり", "*Dharma*(サンスクリット語、部分的な相当語)", "*Dao*(中国語、部分的な相当語)", "*Din*(アラビア語、部分的な相当語)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "エロヒム", path = "wiki/elohim", description = "この枠組みの読解において、宗教がそれとの結びつきを育む創造者の文明。" },

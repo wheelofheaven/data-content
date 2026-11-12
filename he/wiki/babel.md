@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["the Tower of Babel", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (Akkadian: 'gate of the god')", "the Babel project", "the Babel event", "the Tower-of-Babel intervention", "the Confounding of Tongues", "the Confusion of Languages"]
+alternative_names = ["מגדל בבל", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (אכדית: 'שער האל')", "פרויקט בבל", "אירוע בבל", "בלבול הלשונות", "בלבול השפות"]
 timeline = ["gemini"]
 see_also = [
     { title = "המבול", path = "wiki/great-flood", description = "האתחול הקודם של המועצה; בבל היא ההתערבות הבאה נגד התקדמות אנושית מחודשת." },

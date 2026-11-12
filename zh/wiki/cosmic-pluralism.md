@@ -14,7 +14,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
-alternative_names = ["Plurality of worlds", "Plurality of inhabited worlds", "Many-worlds cosmology (in the classical sense, distinct from the Everett quantum interpretation)", "Pluralität der Welten", "Pluralité des mondes"]
+alternative_names = ["世界的多元性", "有生命居住之世界的多元性", "多世界宇宙论（古典意义上，有别于埃弗雷特的量子诠释）", "Pluralität der Welten", "Pluralité des mondes"]
 see_also = [
     { title = "德雷克方程", path = "wiki/drake-equation", description = "二十世纪估算众多世界中有多少有人居住的尝试。" },
     { title = "耶洛因", path = "wiki/elohim", description = "文集认为宇宙多元论必然要求其存在的地外文明。" },

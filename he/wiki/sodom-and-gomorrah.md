@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["the Cities of the Plain", "the Sodom event", "the Sodom strike", "*Sedom va-Amorah* (Hebrew: סְדֹם וַעֲמֹרָה)", "the Genesis 19 destruction", "the Council preventive strike (Taurus phase)", "the second preventive strike", "the Dead Sea event"]
+alternative_names = ["ערי הכיכר", "אירוע סדום", "המכה על סדום", "*Sedom va-Amorah* (עברית: סְדֹם וַעֲמֹרָה)", "החורבן של בראשית יט", "מכת המנע של המועצה (שלב עידן השור)", "מכת המנע השנייה", "אירוע ים המלח"]
 timeline = ["taurus"]
 see_also = [
     { title = "המבול", path = "wiki/great-flood", description = "המכה הראשונה של המועצה, בקנה מידה פלנטרי; סדום היא מכה מאוחרת ומקומית." },

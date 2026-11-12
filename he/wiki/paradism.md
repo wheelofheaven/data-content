@@ -14,7 +14,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Raëlism"
 entry_type = "concept"
-alternative_names = ["Paradism", "paradisme (French)", "Earthly paradise (substantive Vorilhon designation)", "Paradise on Earth (substantive Vorilhon section title)", "the realized post-scarcity society", "fully-automated post-money society"]
+alternative_names = ["פרדיזם", "paradisme (צרפתית)", "גן עדן עלי אדמות", "גן עדן על פני האדמה (כותרת סעיף אצל וורילון)", "החברה שלאחר המחסור", "חברה אוטומטית לחלוטין שלאחר הכסף"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "תור הזהב", path = "wiki/golden-age", description = "התוכן שלאחר המחסור שהפרדיזם נקרא כצורתו המעשית." },

@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Geniocracy (proper-noun framework concept)", "selective democracy (Vorilhon source-textual designation)", "the first New Commandment", "the Raëlian political-governance doctrine", "Géniocratie (French)", "government by the geniuses (descriptive expansion)"]
+alternative_names = ["天才政治", "选择性民主", "第一条新诫命", "雷尔派治理学说", "Géniocratie（法语）", "由天才治理的政府"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "人道主义", path = "wiki/humanitarianism", description = "在新诫命中与天才政治并列的财产与继承诫命。" },

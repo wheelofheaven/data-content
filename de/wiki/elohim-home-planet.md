@@ -17,7 +17,7 @@ image_caption = "Die Heimatwelt der Elohim, wie sie die Quelle beschreibt: mild,
 editorial_pass = "2026-05"
 category = "Elohim"
 entry_type = "place"
-alternative_names = ["Elohim Home Planet", "the home planet", "the planet of the Elohim", "the planet of the creators", "the planet of the Eternals (per single-planet reading)", "the other world", "the Mormon Kolob (per Tvedtnes hypothesis)"]
+alternative_names = ["der Heimatplanet", "der Planet der Elohim", "der Planet der Schöpfer", "der Planet der Ewigen"]
 timeline = ["age-of-capricorn", "age-of-aquarius"]
 see_also = [
     { title = "Rat der Ewigen", path = "wiki/council-of-the-eternals", description = "Das leitende Gremium, das nach der Beschreibung der Quelle auf dem Heimatplaneten seinen Sitz hat." },

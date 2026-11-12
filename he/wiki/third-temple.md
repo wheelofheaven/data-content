@@ -19,7 +19,7 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "direct"
-alternative_names = ["Beit ha-Mikdash ha-Shlishi (Hebrew, \"the Third Holy House\")", "The Embassy (in Raëlian terminology)", "The Residence (in some source-material passages)", "Ezekiel's Temple (in the specific Ezekiel 40-48 reference)", "The Messianic Temple"]
+alternative_names = ["Beit ha-Mikdash ha-Shlishi (עברית, \"הבית הקדוש השלישי\")", "השגרירות (במינוח הראליאני)", "המעון (בכמה קטעים בחומרי המקור)", "מקדש יחזקאל (חזון יחזקאל מ–מח)", "המקדש המשיחי"]
 timeline = ["aquarius"]
 see_also = [
     { title = "השגרירות", path = "wiki/embassy", description = "משכן קבלת הפנים שוורילון פירט, שהמסגרת מזהה עם בית המקדש השלישי." },

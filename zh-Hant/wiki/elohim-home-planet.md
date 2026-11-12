@@ -17,7 +17,7 @@ image_caption = "源材料所描述的耶洛因母星：氣候溫和、植被繁
 editorial_pass = "2026-05"
 category = "Elohim"
 entry_type = "place"
-alternative_names = ["Elohim Home Planet", "the home planet", "the planet of the Elohim", "the planet of the creators", "the planet of the Eternals (per single-planet reading)", "the other world", "the Mormon Kolob (per Tvedtnes hypothesis)"]
+alternative_names = ["母星", "耶洛因的行星", "創造者的行星", "永恆者行星"]
 timeline = ["age-of-capricorn", "age-of-aquarius"]
 see_also = [
     { title = "永恆者議會", path = "wiki/council-of-the-eternals", description = "源記述中設於母星的治理機構。" },

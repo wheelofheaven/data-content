@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Geniocracy (proper-noun framework concept)", "selective democracy (Vorilhon source-textual designation)", "the first New Commandment", "the Raëlian political-governance doctrine", "Géniocratie (French)", "government by the geniuses (descriptive expansion)"]
+alternative_names = ["גניוקרטיה", "דמוקרטיה סלקטיבית", "המצווה החדשה הראשונה", "תורת הממשל הראליאנית", "Géniocratie (צרפתית)", "שלטון הגאונים"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "הומניטריזם", path = "wiki/humanitarianism", description = "מצוות הקניין והירושה, המזווגת עם הגניוקרטיה במצוות החדשות." },

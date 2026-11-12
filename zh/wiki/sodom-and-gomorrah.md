@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
-alternative_names = ["the Cities of the Plain", "the Sodom event", "the Sodom strike", "*Sedom va-Amorah* (Hebrew: סְדֹם וַעֲמֹרָה)", "the Genesis 19 destruction", "the Council preventive strike (Taurus phase)", "the second preventive strike", "the Dead Sea event"]
+alternative_names = ["平原诸城", "所多玛事件", "所多玛打击", "*Sedom va-Amorah*（希伯来语：סְדֹם וַעֲמֹרָה）", "创世记第 19 章的毁灭", "议会的预防性打击（金牛座阶段）", "第二次预防性打击", "死海事件"]
 timeline = ["taurus"]
 see_also = [
     { title = "大洪水", path = "wiki/great-flood", description = "第一次、行星尺度的议会打击；所多玛则是后来的局部打击。" },

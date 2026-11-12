@@ -14,7 +14,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
-alternative_names = ["Plurality of worlds", "Plurality of inhabited worlds", "Many-worlds cosmology (in the classical sense, distinct from the Everett quantum interpretation)", "Pluralität der Welten", "Pluralité des mondes"]
+alternative_names = ["Pluralidad de mundos", "Pluralidad de mundos habitados", "Cosmología de muchos mundos (en sentido clásico, distinta de la interpretación cuántica de Everett)", "Pluralität der Welten", "Pluralité des mondes"]
 see_also = [
     { title = "Ecuación de Drake", path = "wiki/drake-equation", description = "El intento del siglo XX de estimar cuántos de los mundos plurales están habitados." },
     { title = "Elohim", path = "wiki/elohim", description = "La civilización extraterrestre cuya existencia, según la lectura del corpus, exige el pluralismo cósmico." },

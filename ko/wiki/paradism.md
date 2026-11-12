@@ -13,7 +13,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Raëlism"
 entry_type = "concept"
-alternative_names = ["파라디즘", "paradisme (프랑스어)", "Earthly paradise (substantive Vorilhon designation)", "Paradise on Earth (substantive Vorilhon section title)", "the realized post-scarcity society", "fully-automated post-money society"]
+alternative_names = ["파라디즘", "paradisme (프랑스어)", "지상 낙원", "지상의 낙원(보릴롱의 절 제목)", "탈희소성 사회", "완전 자동화된 탈화폐 사회"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "황금시대", path = "wiki/golden-age", description = "파라디즘이 그 실행적 형태로 읽히는 탈희소성의 내용." },

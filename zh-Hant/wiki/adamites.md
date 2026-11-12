@@ -16,7 +16,7 @@ editorial_pass = "2026-05"
 entry_type = "people group"
 claim_type = "framework"
 timeline = ["leo", "cancer", "gemini"]
-alternative_names = ["亞當族群", "伊甸的人類", "最初的人類群體", "*Bnei adam* (in the Hebrew biblical sense, distinguished from the post-deluge meaning)"]
+alternative_names = ["亞當族群", "伊甸的人類", "最初的人類群體", "*Bnei adam*（希伯來聖經意義上，有別於洪水後的含義）"]
 see_also = [
     { title = "亞當與夏娃", path = "/wiki/adam-and-eve/" },
 ]

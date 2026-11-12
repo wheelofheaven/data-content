@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Symbol of Infinity", "the Raëlian emblem", "the Raëlian movement symbol", "the Elohim emblem"]
+alternative_names = ["无限符号", "雷尔派徽记", "雷尔运动符号", "耶洛因徽记"]
 timeline = ["aquarius"]
 see_also = [
     { title = "无限", path = "wiki/infinity", description = "这一徽标将其凝炼为单一图像形式的更广框架。" },

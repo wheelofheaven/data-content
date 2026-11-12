@@ -13,7 +13,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Sendy's Conditions of Coherence", "Sendy's five conditions", "the conditions of coherence", "Les conditions de cohérence (French)", "the hologram conditions"]
+alternative_names = ["Condiciones de coherencia de Sendy", "las cinco condiciones de Sendy", "las condiciones de coherencia", "Les conditions de cohérence (francés)", "las condiciones del holograma"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "Jean Sendy", path = "wiki/jean-sendy", description = "El autor que formuló las cinco condiciones en L'Ère du Verseau (1970)." },

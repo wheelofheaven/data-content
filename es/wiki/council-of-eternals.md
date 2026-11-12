@@ -16,7 +16,7 @@ category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "civilization"
 
-alternative_names = ["the Grand Council of the Eternals", "the Council", "the Council of Eternals", "the Divine Council", "the Divine Assembly", "the Heavenly Court", "the Assembly of the Elohim"]
+alternative_names = ["el Gran Consejo de los Eternos", "el Consejo", "el Consejo de los Eternos", "el consejo divino", "la asamblea divina", "la corte celestial", "la Asamblea de los Elohim"]
 timeline = ["pre-creation", "capricorn", "sagittarius", "scorpio", "libra", "virgo", "leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
     { title = "Yahvé", path = "wiki/yahweh", description = "El presidente del Consejo a lo largo de los cerca de 25.000 años del proyecto Tierra." },

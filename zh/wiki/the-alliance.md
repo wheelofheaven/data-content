@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the alliance", "the cross-civilizational alliance", "the Eloha-human alliance", "the Noahic alliance", "the covenant partnership"]
+alternative_names = ["联盟", "跨文明联盟", "耶洛因—人类联盟", "挪亚联盟", "立约伙伴关系"]
 timeline = ["gemini", "taurus", "aries", "pisces", "aquarius"]
 see_also = [
     { title = "永恒者议会", path = "wiki/council-of-the-eternals", description = "联盟在挪亚时刻与之对立而组成的母星议会。" },

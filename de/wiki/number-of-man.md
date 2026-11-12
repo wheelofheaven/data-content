@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["666", "Six Hundred Sixty-Six", "the Number of the Beast", "the Number of Man (proper-noun framework concept)", "χξϛ (Greek isopsephic representation)"]
+alternative_names = ["666", "Sechshundertsechsundsechzig", "die Zahl des Tieres", "die Zahl des Menschen (als Eigenbegriff des Rahmenwerks)", "χξϛ (griechische isopsephische Darstellung)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "Apokalypse", path = "wiki/apocalypse", description = "Der Kontext von Offenbarung 13,18 und die nukleare Schwelle von 1945, die die 666. Generation markiert." },

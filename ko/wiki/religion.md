@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["*religio* (라틴어)", "*religare* (라틴어 동사 어근, '묶다/잇다')", "가꾸어진 유대", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
+alternative_names = ["*religio* (라틴어)", "*religare* (라틴어 동사 어근, '묶다/잇다')", "가꾸어진 유대", "창조자와 그 피조물 사이의 연결", "*Dharma* (산스크리트어, 부분적 대응어)", "*Dao* (중국어, 부분적 대응어)", "*Din* (아랍어, 부분적 대응어)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "엘로힘", path = "wiki/elohim", description = "프레임워크의 독해에서 종교가 그와의 결속을 가꾸는 창조자 문명." },

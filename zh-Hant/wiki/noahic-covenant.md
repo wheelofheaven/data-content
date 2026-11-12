@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["the Noahic Covenant", "洪水後之約", "彩虹之約", "the Noahide covenant (Jewish tradition designation)", "聖經中最初的約"]
+alternative_names = ["挪亞之約", "洪水後之約", "彩虹之約", "挪亞後裔之約（猶太傳統的稱謂）", "聖經中最初的約"]
 timeline = ["age-of-gemini"]
 see_also = [
     { title = "挪亞", path = "wiki/noah", description = "流亡創造者的人類夥伴,盟約中的次要一方。" },

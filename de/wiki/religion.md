@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["*religio* (Latin)", "*religare* (Latin verbal root, 'to bind/link')", "the cultivated bond", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
+alternative_names = ["*religio* (lateinisch)", "*religare* (lateinische Verbwurzel, ‚binden, verbinden‘)", "das gepflegte Band", "die Verbindung zwischen den Schöpfern und ihrer Schöpfung", "*Dharma* (Sanskrit, teilweise Entsprechung)", "*Dao* (chinesisch, teilweise Entsprechung)", "*Din* (arabisch, teilweise Entsprechung)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "Die Schöpferzivilisation, zu der die Religion nach der Lesart des Rahmens die verbindende Bindung pflegt." },

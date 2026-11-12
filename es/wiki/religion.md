@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Theology & Traditions"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["*religio* (Latin)", "*religare* (Latin verbal root, 'to bind/link')", "the cultivated bond", "the link between humanity and its creators (corpus-internal articulation)", "*Dharma* (Sanskrit, partial functional equivalent)", "*Dao* (Chinese, partial functional equivalent)", "*Din* (Arabic, partial functional equivalent)"]
+alternative_names = ["*religio* (latín)", "*religare* (raíz verbal latina, «atar, ligar»)", "el vínculo cultivado", "el vínculo entre los creadores y su creación", "*Dharma* (sánscrito, equivalente parcial)", "*Dao* (chino, equivalente parcial)", "*Din* (árabe, equivalente parcial)"]
 timeline = ["multi-age"]
 see_also = [
     { title = "Elohim", path = "wiki/elohim", description = "La civilización creadora con la que la religión, según la lectura del marco, cultiva el vínculo que une." },

@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Infinite", "the infinite cosmos", "infinite-cosmological framework", "the broader infinite framework", "cosmic infinity"]
+alternative_names = ["האינסופי", "הקוסמוס האינסופי", "מסגרת קוסמולוגית אינסופית", "המסגרת האינסופית הרחבה", "אינסוף קוסמי"]
 timeline = ["all-ages"]
 see_also = [
     { title = "קוסמולוגיה פרקטלית", path = "wiki/fractal-cosmology", description = "הממד המרחבי הפועל בתוך מסגרת האינסוף." },

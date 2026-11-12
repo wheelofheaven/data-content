@@ -16,7 +16,7 @@ editorial_pass = "2026-05"
 entry_type = "people group"
 claim_type = "framework"
 timeline = ["leo", "cancer", "gemini"]
-alternative_names = ["The Adamic population", "The Edenic humans", "The first human community", "*Bnei adam* (in the Hebrew biblical sense, distinguished from the post-deluge meaning)"]
+alternative_names = ["亚当族群", "伊甸的人类", "最初的人类群体", "*Bnei adam*（希伯来圣经意义上，有别于洪水后的含义）"]
 see_also = [
     { title = "亚当与夏娃", path = "/wiki/adam-and-eve/" },
 ]

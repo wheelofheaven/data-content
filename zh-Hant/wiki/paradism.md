@@ -13,7 +13,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Raëlism"
 entry_type = "concept"
-alternative_names = ["Paradism", "paradisme (French)", "Earthly paradise (substantive Vorilhon designation)", "Paradise on Earth (substantive Vorilhon section title)", "the realized post-scarcity society", "fully-automated post-money society"]
+alternative_names = ["樂園主義", "paradisme（法語）", "人間樂園", "地上樂園（沃里隆的章節標題）", "後匱乏社會", "全自動化的後貨幣社會"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "黃金時代", path = "wiki/golden-age", description = "樂園主義被讀作其操作形式的後匱乏內容。" },

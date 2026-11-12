@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["plurality of the gods", "plurality of the Elohim", "the multiple-creators reading", "biblical polytheism", "Hebrew Bible plurality content", "the divine council reading", "the Elohim plural reading"]
+alternative_names = ["诸神的多元性", "耶洛因的多元性", "多位创造者的解读", "圣经多神论", "希伯来圣经中的多元性内容", "神圣会议解读", "耶洛因复数解读"]
 timeline = ["all-ages"]
 see_also = [
     { title = "耶洛因", path = "wiki/elohim", description = "处于复数性解读核心的希伯来语复数名词。" },

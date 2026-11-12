@@ -14,7 +14,7 @@ translation_sync = 100
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["hexagram", "Magen David (מָגֵן דָּוִד, 'Shield of David')", "Solomon's Seal (Seal of Solomon)", "Hindu Shatkona (षट्कोण, 'six-cornered')", "Star of Goliath (older Karaite designation)", "Creator's Star", "Hex Star"]
+alternative_names = ["הקסגרמה", "Magen David (מָגֵן דָּוִד, 'מגינו של דוד')", "חותם שלמה (חותמו של שלמה)", "שטקונה ההינדית (षट्कोण, 'בעל שש פינות')", "כוכב גוליית (כינוי קראי ישן)", "כוכב הבורא", "כוכב משושה"]
 timeline = ["all-ages"]
 see_also = [
     { title = "סמל האינסוף הראליאני", path = "wiki/raelian-symbol-of-infinity", description = "הסמל המורכב שמגן דוד הוא רכיבו החיצוני." },

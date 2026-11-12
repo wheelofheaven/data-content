@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Geniocracy (proper-noun framework concept)", "selective democracy (Vorilhon source-textual designation)", "le premier Nouveau Commandement", "the Raëlian political-governance doctrine", "Géniocratie (français)", "government by the geniuses (descriptive expansion)"]
+alternative_names = ["Geniocracy (anglais)", "démocratie sélective", "le premier Nouveau Commandement", "doctrine raëlienne de gouvernement", "Géniocratie (français)", "gouvernement par les génies"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "Humanitarisme", path = "wiki/humanitarianism", description = "Le commandement de la propriété et de l'héritage associé à la Géniocratie dans les Nouveaux commandements." },

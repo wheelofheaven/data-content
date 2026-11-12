@@ -13,7 +13,7 @@ translation_sync = 100
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["노아 언약", "대홍수 이후의 언약", "무지개 언약", "the Noahide covenant (Jewish tradition designation)", "성경의 근원적 언약"]
+alternative_names = ["노아 언약", "대홍수 이후의 언약", "무지개 언약", "노아의 자손 언약(유대 전통의 명칭)", "성경의 근원적 언약"]
 timeline = ["age-of-gemini"]
 see_also = [
     { title = "노아", path = "wiki/noah", description = "유배된 창조자들의 인간 동반자이자 언약의 하위 당사자." },

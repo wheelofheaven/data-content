@@ -15,7 +15,7 @@ category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
 claim_type = "framework"
-alternative_names = ["Catalogue of pre-modern close encounters", "Pre-1500 UFO and contact-event index", "Catalogue of unexplained aerial phenomena (antiquity through 1499 CE)"]
+alternative_names = ["קטלוג מפגשים קרובים טרום-מודרניים", "מפתח עב\"מים ואירועי מגע שלפני 1500", "קטלוג תופעות אוויריות בלתי מוסברות (מן העת העתיקה ועד 1499 לספירה)"]
 see_also = [
     { title = "אלוהים", path = "wiki/elohim", description = "הנוכחות שהמפגשים המקוטלגים נקראים כמתעדים לאורך התקופה שלאחר עדן." },
     { title = "נאו-אוהמריזם", path = "wiki/neo-euhemerism", description = "המהלך הפרשני המחיל מינוח מפגשים מודרני על תיאורים טרום־מודרניים." },

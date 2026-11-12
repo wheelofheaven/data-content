@@ -15,7 +15,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "direct"
-alternative_names = ["Plurality of worlds", "Plurality of inhabited worlds", "Many-worlds cosmology (in the classical sense, distinct from the Everett quantum interpretation)", "Pluralität der Welten", "Pluralité des mondes"]
+alternative_names = ["ריבוי העולמות", "ריבוי העולמות המיושבים", "קוסמולוגיית העולמות הרבים (במובן הקלאסי, להבדיל מהפרשנות הקוונטית של אוורט)", "Pluralität der Welten", "Pluralité des mondes"]
 see_also = [
     { title = "משוואת דרייק", path = "wiki/drake-equation", description = "הניסיון של המאה העשרים לאמוד כמה מן העולמות הרבים מיושבים." },
     { title = "אלוהים", path = "wiki/elohim", description = "הציוויליזציה החוץ־ארצית שהקורפוס קורא את הפלורליזם הקוסמי כמחייב את קיומה." },

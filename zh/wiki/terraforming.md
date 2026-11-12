@@ -14,7 +14,7 @@ category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "discipline"
 claim_type = "direct"
-alternative_names = ["Planetary engineering", "Ecological engineering at planetary scale", "Earth-shaping", "Geoengineering of other worlds"]
+alternative_names = ["行星工程", "行星尺度的生态工程", "塑造地球", "其他世界的地球工程"]
 see_also = [
     { title = "创世工具箱", path = "wiki/genesis-toolbox", description = "纲领层面的综合：地球化作为正典所描述之完整创造技术栈的一个阶段。" },
     { title = "创世记", path = "wiki/genesis", description = "框架将其前四个时期解读为耶洛因对地球进行地球化的文本。" },

@@ -13,7 +13,7 @@ translation_sync = 100
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
-alternative_names = ["Sendy's Conditions of Coherence", "桑迪的五項條件", "一致性條件", "Les conditions de cohérence (French)", "全像條件"]
+alternative_names = ["桑迪的一致性條件", "桑迪的五項條件", "一致性條件", "Les conditions de cohérence（法語）", "全像條件"]
 timeline = ["age-of-aquarius"]
 see_also = [
     { title = "讓·桑迪", path = "wiki/jean-sendy", description = "在《水瓶座時代》(L'Ère du Verseau,1970)中闡述五項條件的作者。" },
