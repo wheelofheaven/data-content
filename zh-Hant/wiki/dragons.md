@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
@@ -23,6 +23,7 @@ see_also = [
     { title = "撒但", path = "wiki/satan", description = "後來的爬蟲—龍象徵被對應其上的敵對者傳統。" },
     { title = "詞源學閱讀清單", path = "wiki/list-of-etymological-readings", description = "tannin 在文集直接解讀之希伯來詞語中的位置。" },
     { title = "龍形曲線", path = "articles/the-dragon-curve", description = "關於《創世記》1:21 的大龍——第一部《訊息》從未引用的經文——以及它與鳥類並列之恐龍的解說文。" },
+    { title = "諸神的檔案櫃", path = "articles/the-filing-cabinet-of-the-gods", description = "關於斯蒂斯·湯普森《民間文學母題索引》及其反覆回到的八個場景的文章。" },
 ]
 
 [extra.infobox]

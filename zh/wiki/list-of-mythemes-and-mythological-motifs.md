@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-10"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Reference Lists"
@@ -22,6 +22,7 @@ see_also = [
     { title = "路西法", path = "wiki/lucifer", description = "在本目录禁忌知识与反叛母题中反复出现的人物。" },
     { title = "宇宙竞争", path = "wiki/cosmic-competition", description = "若干被编目的“诸力量之战”母题所汇聚的框架解读。" },
     { title = "宗教", path = "wiki/religion", description = "被编目母题所嵌入的、更广泛的传统形成类别。" },
+    { title = "众神的档案柜", path = "articles/the-filing-cabinet-of-the-gods", description = "关于斯蒂斯·汤普森《民间文学母题索引》及其反复回到的八个场景的文章。" },
 ]
 
 [extra.infobox]

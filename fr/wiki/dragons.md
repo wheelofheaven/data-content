@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
@@ -23,6 +23,7 @@ see_also = [
     { title = "Satan", path = "wiki/satan", description = "La tradition de l'adversaire sur laquelle fut ensuite projetée la symbolique du dragon reptilien." },
     { title = "Liste de lectures étymologiques", path = "wiki/list-of-etymological-readings", description = "La place de tannin parmi les termes hébreux que le corpus lit directement." },
     { title = "La courbe du dragon", path = "articles/the-dragon-curve", description = "L'article sur les grands dragons de Genèse 1:21, le verset que le premier Message ne cite jamais, et sur les dinosaures qu'il place à côté des oiseaux." },
+    { title = "Le classeur des dieux", path = "articles/the-filing-cabinet-of-the-gods", description = "L'article sur l'Index des motifs de Stith Thompson et les huit scènes auxquelles il revient sans cesse." },
 ]
 
 [extra.infobox]

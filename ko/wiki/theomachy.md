@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
@@ -26,6 +26,7 @@ see_also = [
     { title = "호메로스의 동쪽 면", path = "/articles/the-east-face-of-homer/", description = "패턴의 지층을 동쪽 메소포타미아로 따라가는 짝 해설: 기록된 전승 회랑, 그리고 엘로힘 영역 안의 그리스에 대한 정경의 독해." },
     { title = "헬리콘에 내린 비", path = "/articles/the-rain-over-helicon/", description = "M. L. 웨스트의 비교 방법을 점검하는 세 번째 그리스 해설: 신적 전투 계열이 왜 역사적으로 하나로 묶이면서도 구성원들이 서로의 차이를 지니는가." },
     { title = "드래곤 곡선", path = "/articles/the-dragon-curve/", description = "창세기 1장 21절의 탄닌과 전투 신화의 뱀·용·바다 괴물 어휘를 첫 번째 메시지에 맞대어 읽는 해설." },
+    { title = "신들의 서류함", path = "articles/the-filing-cabinet-of-the-gods", description = "스티스 톰프슨의 모티프 색인과 그 색인이 거듭 되돌아가는 여덟 장면에 관한 글입니다." },
 ]
 
 [extra.infobox]

@@ -2,8 +2,8 @@
 title = "ארון התיוק של האלים"
 description = "סטית' תומפסון תייק את סיפורי העולם תחת קודים עשרוניים. בקריאה קרה, המפתח שלו שב שוב ושוב אל אותן שמונה סצנות — ולקנון יש שם עבורן."
 template = "articles-page.html"
-date = 2026-07-06
-draft = true
+date = 2026-11-12
+draft = false
 
 [extra]
 translation_status = "ai_reviewed"

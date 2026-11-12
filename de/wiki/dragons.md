@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
@@ -22,7 +22,8 @@ see_also = [
     { title = "Luzifer", path = "wiki/lucifer", description = "Die Oppositionsfraktion, deren historische Bezugspunkte derselbe tannin-Wortschatz in Jesaja 27,1 verfolgt." },
     { title = "Satan", path = "wiki/satan", description = "Die Tradition des Widersachers, auf die spätere Reptilien- und Drachensymbolik übertragen wurde." },
     { title = "Liste etymologischer Lesarten", path = "wiki/list-of-etymological-readings", description = "Wo tannin unter den direkt gelesenen hebräischen Begriffen des Korpus steht." },
-    { title = "Die Drachenkurve", path = "articles/the-dragon-curve", description = "Der Artikel über die großen Drachen aus Genesis 1,21, den Vers, den die erste Botschaft nie zitiert, und die Dinosaurier, die sie neben die Vögel stellt." }
+    { title = "Die Drachenkurve", path = "articles/the-dragon-curve", description = "Der Artikel über die großen Drachen aus Genesis 1,21, den Vers, den die erste Botschaft nie zitiert, und die Dinosaurier, die sie neben die Vögel stellt." },
+    { title = "Der Karteischrank der Götter", path = "articles/the-filing-cabinet-of-the-gods", description = "Der Artikel über Stith Thompsons Motiv-Index und die acht Szenen, zu denen er immer wieder zurückkehrt." },
 ]
 
 [extra.infobox]

@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-10"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Reference Lists"
@@ -22,6 +22,7 @@ see_also = [
     { title = "路西法", path = "wiki/lucifer", description = "反覆出現於本目錄禁忌知識與反叛母題中的人物。" },
     { title = "宇宙競爭", path = "wiki/cosmic-competition", description = "數個收錄之強權相爭母題所匯聚的框架解讀。" },
     { title = "宗教", path = "wiki/religion", description = "收錄母題所嵌入的更廣泛傳統形成類別。" },
+    { title = "諸神的檔案櫃", path = "articles/the-filing-cabinet-of-the-gods", description = "關於斯蒂斯·湯普森《民間文學母題索引》及其反覆回到的八個場景的文章。" },
 ]
 
 [extra.infobox]

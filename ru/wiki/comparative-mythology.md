@@ -6,7 +6,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
@@ -27,6 +27,7 @@ see_also = [
     { title = "Мир за «Одиссеей»", path = "/articles/the-world-behind-the-odyssey/", description = "Греческий пример корпуса — задокументированная передача с Ближнего Востока к Гесиоду и Гомеру, причём прочтение рамки держится отдельно." },
     { title = "Восточный лик Гомера", path = "/articles/the-east-face-of-homer/", description = "Вторая половина греческого примера: коридор передачи VIII века в подробностях и дисциплина того, что литературное заимствование может и чего не может доказать." },
     { title = "Дождь над Геликоном", path = "/articles/the-rain-over-helicon/", description = "Методологическая проверка самой дисциплины: критерии, поднимающие параллель выше совпадения, ранжированные по Гесиоду, Гомеру, поэтической дикции и путям контакта." },
+    { title = "Картотека богов", path = "articles/the-filing-cabinet-of-the-gods", description = "Статья об Указателе мотивов Стита Томпсона и восьми сценах, к которым он постоянно возвращается." },
 ]
 
 [extra.infobox]

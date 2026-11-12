@@ -27,6 +27,7 @@ see_also = [
     { title = "Ancient Builders", path = "wiki/ancient-builders", description = "The subjects of the megalith-and-construction motifs the corpus reads across traditions." },
     { title = "The World Behind the Odyssey", path = "/articles/the-world-behind-the-odyssey/", description = "An Explainer tracing the knowledge-transfer and succession mythemes from the Odyssey back through Anatolia and Mesopotamia." },
     { title = "The East Face of Homer", path = "/articles/the-east-face-of-homer/", description = "The companion Explainer on how narrative shapes travel while heroes do not — the Gilgamesh–Odysseus relationship as the model case of mytheme transmission." },
+    { title = "The Filing Cabinet of the Gods", path = "articles/the-filing-cabinet-of-the-gods", description = "The Explainer on Stith Thompson's Motif-Index and the eight scenes it keeps returning to." },
 ]
 
 [extra.infobox]

@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-10"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Reference Lists"
@@ -22,6 +22,7 @@ see_also = [
     { title = "Люцифер", path = "wiki/lucifer", description = "Фигура, повторяющаяся в каталогизированных мотивах запретного знания и мятежа." },
     { title = "Космическое соревнование", path = "wiki/cosmic-competition", description = "Прочтение рамки, к которому сходятся несколько каталогизированных мотивов войны между силами." },
     { title = "Религия", path = "wiki/religion", description = "Более широкая традицеобразующая категория, в которую встроены каталогизированные мотивы." },
+    { title = "Картотека богов", path = "articles/the-filing-cabinet-of-the-gods", description = "Статья об Указателе мотивов Стита Томпсона и восьми сценах, к которым он постоянно возвращается." },
 ]
 
 [extra.infobox]

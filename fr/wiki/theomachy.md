@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
@@ -26,6 +26,7 @@ see_also = [
     { title = "La face orientale d'Homère", path = "/articles/the-east-face-of-homer/", description = "L'article complémentaire qui suit les strates orientales du schéma jusqu'en Mésopotamie : le corridor de transmission documenté, et la lecture que fait le canon de la Grèce au sein de la sphère élohimienne." },
     { title = "La pluie sur l'Hélicon", path = "/articles/the-rain-over-helicon/", description = "Le troisième article grec, qui examine la méthode comparative de M. L. West : pourquoi la famille des combats divins tient historiquement tandis que ses membres conservent leurs différences." },
     { title = "La courbe du dragon", path = "/articles/the-dragon-curve/", description = "L'article sur le tannin de Genèse 1:21 et le vocabulaire serpent-dragon-monstre marin des mythes de combat, lu à la lumière du premier Message." },
+    { title = "Le classeur des dieux", path = "articles/the-filing-cabinet-of-the-gods", description = "L'article sur l'Index des motifs de Stith Thompson et les huit scènes auxquelles il revient sans cesse." },
 ]
 
 [extra.infobox]

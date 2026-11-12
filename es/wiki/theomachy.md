@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
@@ -26,6 +26,7 @@ see_also = [
     { title = "El rostro oriental de Homero", path = "/articles/the-east-face-of-homer/", description = "El Explicativo complementario que sigue los estratos del patrón hacia el este, hasta Mesopotamia: el corredor de transmisión documentado y la lectura del canon que sitúa a Grecia dentro de la esfera elohímica." },
     { title = "La lluvia sobre el Helicón", path = "/articles/the-rain-over-helicon/", description = "El tercer Explicativo griego, que examina el método comparativo de M. L. West: por qué la familia del combate divino se mantiene unida históricamente mientras sus miembros conservan sus diferencias." },
     { title = "La curva del dragón", path = "/articles/the-dragon-curve/", description = "El Explicativo sobre los tannín de Génesis 1:21 y el vocabulario de serpientes, dragones y monstruos marinos de los mitos de combate, leído a la luz del primer Mensaje." },
+    { title = "El fichero de los dioses", path = "articles/the-filing-cabinet-of-the-gods", description = "El artículo sobre el Índice de motivos de Stith Thompson y las ocho escenas a las que vuelve una y otra vez." },
 ]
 
 [extra.infobox]

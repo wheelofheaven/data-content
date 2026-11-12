@@ -6,7 +6,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
@@ -27,6 +27,7 @@ see_also = [
     { title = "《奧德賽》背後的世界", path = "/articles/the-world-behind-the-odyssey/", description = "文集的希臘個案研究——從近東到赫西俄德與荷馬的有據可查傳播,並將框架解讀分開處理。" },
     { title = "荷馬的東面", path = "/articles/the-east-face-of-homer/", description = "希臘個案研究的後半部:詳述八世紀的傳播走廊,以及文學借用能證明與不能證明什麼的方法紀律。" },
     { title = "赫利孔山上的雨", path = "/articles/the-rain-over-helicon/", description = "對本學科本身的方法審查:使平行現象超越巧合的檢驗,分別評定於赫西俄德、荷馬、詩歌措辭與接觸路線。" },
+    { title = "諸神的檔案櫃", path = "articles/the-filing-cabinet-of-the-gods", description = "關於斯蒂斯·湯普森《民間文學母題索引》及其反覆回到的八個場景的文章。" },
 ]
 
 [extra.infobox]

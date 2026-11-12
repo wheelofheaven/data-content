@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-10"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Reference Lists"
@@ -22,6 +22,7 @@ see_also = [
     { title = "루시퍼", path = "wiki/lucifer", description = "목록의 금지된 지식과 반란 모티프 전반에 되풀이해 나타나는 인물." },
     { title = "우주적 경쟁", path = "wiki/cosmic-competition", description = "목록에 실린 권세들 사이의 전쟁 모티프 여럿이 수렴하는 프레임워크의 독해." },
     { title = "종교", path = "wiki/religion", description = "목록에 실린 모티프들이 그 안에 박혀 있는, 전통을 형성하는 더 넓은 범주." },
+    { title = "신들의 서류함", path = "articles/the-filing-cabinet-of-the-gods", description = "스티스 톰프슨의 모티프 색인과 그 색인이 거듭 되돌아가는 여덟 장면에 관한 글입니다." },
 ]
 
 [extra.infobox]

@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
@@ -26,6 +26,7 @@ see_also = [
     { title = "Восточный лик Гомера", path = "/articles/the-east-face-of-homer/", description = "Парная статья, прослеживающая восточные пласты модели до Месопотамии: задокументированный коридор передачи и прочтение каноном Греции внутри сферы Элохим." },
     { title = "Дождь над Геликоном", path = "/articles/the-rain-over-helicon/", description = "Третья греческая статья, проверяющая сравнительный метод М. Л. Уэста: почему семейство мифов о божественной битве исторически держится вместе, хотя его члены сохраняют свои различия." },
     { title = "Кривая дракона", path = "/articles/the-dragon-curve/", description = "Статья о таннин из Бытия 1:21 и лексике змея, дракона и морского чудовища в мифах о битве, прочитанных на фоне первого Послания." },
+    { title = "Картотека богов", path = "articles/the-filing-cabinet-of-the-gods", description = "Статья об Указателе мотивов Стита Томпсона и восьми сценах, к которым он постоянно возвращается." },
 ]
 
 [extra.infobox]

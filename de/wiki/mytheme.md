@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-08"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-08"
@@ -23,7 +23,8 @@ see_also = [
     { title = "Baum der Erkenntnis von Gut und Böse", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "Ein Motiv der Genesis, im Rahmen der Arbeit mit Mythemen als verdichtete Geschichte gelesen." },
     { title = "Antike Baumeister", path = "wiki/ancient-builders", description = "Die Akteure der Megalith- und Baumotive, die das Korpus über die Traditionen hinweg liest." },
     { title = "Die Welt hinter der Odyssee", path = "/articles/the-world-behind-the-odyssey/", description = "Ein Artikel, der die Mytheme von Wissensübertragung und Sukzession von der Odyssee über Anatolien bis nach Mesopotamien zurückverfolgt." },
-    { title = "Die Ostseite Homers", path = "/articles/the-east-face-of-homer/", description = "Der Begleitartikel darüber, wie Erzählformen wandern, Helden aber nicht — die Beziehung zwischen Gilgamesch und Odysseus als Musterfall der Weitergabe von Mythemen." }
+    { title = "Die Ostseite Homers", path = "/articles/the-east-face-of-homer/", description = "Der Begleitartikel darüber, wie Erzählformen wandern, Helden aber nicht — die Beziehung zwischen Gilgamesch und Odysseus als Musterfall der Weitergabe von Mythemen." },
+    { title = "Der Karteischrank der Götter", path = "articles/the-filing-cabinet-of-the-gods", description = "Der Artikel über Stith Thompsons Motiv-Index und die acht Szenen, zu denen er immer wieder zurückkehrt." },
 ]
 
 [extra.infobox]

@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
@@ -26,6 +26,7 @@ see_also = [
     { title = "荷马的东面", path = "/articles/the-east-face-of-homer/", description = "沿着这一模式向东的地层追溯至美索不达米亚的姊妹解读文章：有据可查的传播走廊，以及正典将希腊置于耶洛因势力范围之内的解读。" },
     { title = "赫利孔山上的雨", path = "/articles/the-rain-over-helicon/", description = "第三篇希腊解读文章，审视 M. L. West 的比较方法：为何神战家族在历史上成立，而其成员又各自保有差异。" },
     { title = "龙形曲线", path = "/articles/the-dragon-curve/", description = "关于创世记 1:21 的 tannin 以及战斗神话中蛇—龙—海怪词汇的解读文章，对照第一部信息来解读。" },
+    { title = "众神的档案柜", path = "articles/the-filing-cabinet-of-the-gods", description = "关于斯蒂斯·汤普森《民间文学母题索引》及其反复回到的八个场景的文章。" },
 ]
 
 [extra.infobox]

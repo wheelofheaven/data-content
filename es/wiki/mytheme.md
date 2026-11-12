@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-08"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-08"
@@ -24,6 +24,7 @@ see_also = [
     { title = "Antiguos Constructores", path = "wiki/ancient-builders", description = "Los protagonistas de los motivos de megalitos y construcción que el corpus lee a través de las tradiciones." },
     { title = "El mundo tras la Odisea", path = "/articles/the-world-behind-the-odyssey/", description = "Un Explicativo que rastrea los mitemas de la transferencia de conocimiento y de la sucesión desde la Odisea hacia atrás, a través de Anatolia y Mesopotamia." },
     { title = "El rostro oriental de Homero", path = "/articles/the-east-face-of-homer/", description = "El Explicativo complementario sobre cómo viajan las formas narrativas mientras los héroes no lo hacen: la relación entre Gilgamesh y Odiseo como caso modelo de transmisión de mitemas." },
+    { title = "El fichero de los dioses", path = "articles/the-filing-cabinet-of-the-gods", description = "El artículo sobre el Índice de motivos de Stith Thompson y las ocho escenas a las que vuelve una y otra vez." },
 ]
 
 [extra.infobox]

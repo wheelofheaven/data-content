@@ -6,7 +6,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
@@ -27,6 +27,7 @@ see_also = [
     { title = "『オデュッセイア』の背後の世界", path = "/articles/the-world-behind-the-odyssey/", description = "コーパスのギリシアの事例研究。近東からヘシオドスとホメロスへの記録に残る伝達を、この枠組みの読解と切り離して扱う。" },
     { title = "ホメロスの東面", path = "/articles/the-east-face-of-homer/", description = "ギリシアの事例研究の後半。8世紀の伝達の回廊の詳細と、文学的借用が何を証明でき、何を証明できないかという規律。" },
     { title = "ヘリコンに降る雨", path = "/articles/the-rain-over-helicon/", description = "この学問分野そのものの方法の検証。並行関係を偶然以上のものへと引き上げる検定を、ヘシオドス、ホメロス、詩的語法、接触の経路にわたって段階づける。" },
+    { title = "神々のファイリング・キャビネット", path = "articles/the-filing-cabinet-of-the-gods", description = "スティス・トンプソンのモチーフ索引と、それが繰り返し立ち返る八つの場面についての記事。" },
 ]
 
 [extra.infobox]

@@ -2,8 +2,8 @@
 title = "Картотека богов"
 description = "Стит Томпсон разложил мировые сюжеты по десятичным кодам. Если читать его указатель непредвзято, он снова и снова возвращается к одним и тем же восьми сценам — и у канона есть для них имя."
 template = "articles-page.html"
-date = 2026-07-06
-draft = true
+date = 2026-11-12
+draft = false
 
 [extra]
 translation_status = "ai_reviewed"

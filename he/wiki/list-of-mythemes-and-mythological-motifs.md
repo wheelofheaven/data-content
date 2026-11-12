@@ -8,7 +8,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-10"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Reference Lists"
@@ -23,6 +23,7 @@ see_also = [
     { title = "לוציפר", path = "wiki/lucifer", description = "דמות החוזרת במוטיבים של ידע אסור ומרד בקטלוג." },
     { title = "תחרות קוסמית", path = "wiki/cosmic-competition", description = "קריאת המסגרת שכמה מוטיבים מקוטלגים של מלחמה בין כוחות מתכנסים אליה." },
     { title = "דת", path = "wiki/religion", description = "הקטגוריה הרחבה של יצירת מסורות, שהמוטיבים המקוטלגים משובצים בתוכה." },
+    { title = "ארון התיוק של האלים", path = "articles/the-filing-cabinet-of-the-gods", description = "המאמר על מפתח המוטיבים של סטית' תומפסון ועל שמונה הסצנות שהוא חוזר אליהן שוב ושוב." },
 ]
 
 [extra.infobox]

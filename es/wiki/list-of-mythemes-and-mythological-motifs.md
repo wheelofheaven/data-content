@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-10"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Reference Lists"
@@ -22,6 +22,7 @@ see_also = [
     { title = "Lucifer", path = "wiki/lucifer", description = "Una figura recurrente en los motivos de conocimiento prohibido y rebelión del catálogo." },
     { title = "Competencia cósmica", path = "wiki/cosmic-competition", description = "La lectura del marco en la que convergen varios motivos catalogados de guerra entre poderes." },
     { title = "Religión", path = "wiki/religion", description = "La categoría más amplia de formación de tradiciones en la que se insertan los motivos catalogados." },
+    { title = "El fichero de los dioses", path = "articles/the-filing-cabinet-of-the-gods", description = "El artículo sobre el Índice de motivos de Stith Thompson y las ocho escenas a las que vuelve una y otra vez." },
 ]
 
 [extra.infobox]

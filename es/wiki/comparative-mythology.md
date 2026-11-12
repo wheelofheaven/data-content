@@ -6,7 +6,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
@@ -27,6 +27,7 @@ see_also = [
     { title = "El mundo tras la Odisea", path = "/articles/the-world-behind-the-odyssey/", description = "El estudio de caso griego del corpus: la transmisión documentada desde el Próximo Oriente hasta Hesíodo y Homero, con la lectura del marco mantenida aparte." },
     { title = "El rostro oriental de Homero", path = "/articles/the-east-face-of-homer/", description = "La segunda mitad del estudio de caso griego: el corredor de transmisión del siglo VIII en detalle, y la disciplina de lo que el préstamo literario puede y no puede probar." },
     { title = "La lluvia sobre el Helicón", path = "/articles/the-rain-over-helicon/", description = "Una auditoría metodológica de la propia disciplina: las pruebas que elevan un paralelo por encima de la coincidencia, graduadas a través de Hesíodo, Homero, la dicción poética y las rutas de contacto." },
+    { title = "El fichero de los dioses", path = "articles/the-filing-cabinet-of-the-gods", description = "El artículo sobre el Índice de motivos de Stith Thompson y las ocho escenas a las que vuelve una y otra vez." },
 ]
 
 [extra.infobox]

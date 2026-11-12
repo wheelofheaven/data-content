@@ -2,8 +2,8 @@
 title = "諸神的檔案櫃"
 description = "斯蒂斯·湯普森把世界的故事歸入十進位編碼。冷眼通讀，他的索引一再回到同樣的八個場景——而典籍對它們有一個名字。"
 template = "articles-page.html"
-date = 2026-07-06
-draft = true
+date = 2026-11-12
+draft = false
 
 [extra]
 translation_status = "ai_reviewed"

@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
@@ -23,6 +23,7 @@ see_also = [
     { title = "사탄", path = "wiki/satan", description = "후대의 파충류-용 상징이 덧입혀진 대적자 전통." },
     { title = "어원학적 독해 목록", path = "wiki/list-of-etymological-readings", description = "코퍼스가 직접 읽는 히브리어 용어들 가운데 탄닌이 놓이는 자리." },
     { title = "드래곤 곡선", path = "articles/the-dragon-curve", description = "창세기 1장 21절의 큰 용들, 첫 번째 메시지가 결코 인용하지 않는 그 구절, 그리고 그것이 새들 곁에 앉히는 공룡들을 다루는 해설." },
+    { title = "신들의 서류함", path = "articles/the-filing-cabinet-of-the-gods", description = "스티스 톰프슨의 모티프 색인과 그 색인이 거듭 되돌아가는 여덟 장면에 관한 글입니다." },
 ]
 
 [extra.infobox]

@@ -20,6 +20,7 @@ see_also = [
     { title = "Lucifer", path = "wiki/lucifer", description = "A figure recurring across the catalogue's forbidden-knowledge and rebellion motifs." },
     { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "The framework reading several catalogued war-among-powers motifs converge on." },
     { title = "Religion", path = "wiki/religion", description = "The broader tradition-forming category the catalogued motifs are embedded within." },
+    { title = "The Filing Cabinet of the Gods", path = "articles/the-filing-cabinet-of-the-gods", description = "The Explainer on Stith Thompson's Motif-Index and the eight scenes it keeps returning to." },
 ]
 
 [extra.infobox]

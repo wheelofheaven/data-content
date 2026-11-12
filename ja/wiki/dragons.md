@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
@@ -23,6 +23,7 @@ see_also = [
     { title = "サタン", path = "wiki/satan", description = "後代の爬虫類・竜の象徴がそこへと重ね合わされた、敵対者の伝統。" },
     { title = "語源学的読解のリスト", path = "wiki/list-of-etymological-readings", description = "コーパスが直接に読むヘブライ語の用語の中での tannin の位置。" },
     { title = "ドラゴン曲線", path = "articles/the-dragon-curve", description = "創世記1:21の大いなる竜 ― 最初のメッセージが決して引用しない節 ― と、それが鳥たちの傍らに据える恐竜についての解説記事。" },
+    { title = "神々のファイリング・キャビネット", path = "articles/the-filing-cabinet-of-the-gods", description = "スティス・トンプソンのモチーフ索引と、それが繰り返し立ち返る八つの場面についての記事。" },
 ]
 
 [extra.infobox]

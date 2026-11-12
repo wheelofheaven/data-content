@@ -6,7 +6,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
@@ -26,7 +26,8 @@ see_also = [
     { title = "Sampo", path = "wiki/sampo", description = "Der finnische Sampo als baltisch-finnischer Fall des Mythems der Weltmühle." },
     { title = "Die Welt hinter der Odyssee", path = "/articles/the-world-behind-the-odyssey/", description = "Die griechische Fallstudie des Korpus — dokumentierte Überlieferung aus dem Nahen Osten zu Hesiod und Homer, mit getrennt gehaltener Lesart des Rahmens." },
     { title = "Die Ostseite Homers", path = "/articles/the-east-face-of-homer/", description = "Die zweite Hälfte der griechischen Fallstudie: der Überlieferungskorridor des achten Jahrhunderts im Einzelnen und die Disziplin dessen, was literarische Entlehnung beweisen kann und was nicht." },
-    { title = "Der Regen über dem Helikon", path = "/articles/the-rain-over-helicon/", description = "Eine Methodenprüfung der Disziplin selbst: die Tests, die eine Parallele über den Zufall erheben, abgestuft über Hesiod, Homer, poetische Diktion und die Kontaktwege." }
+    { title = "Der Regen über dem Helikon", path = "/articles/the-rain-over-helicon/", description = "Eine Methodenprüfung der Disziplin selbst: die Tests, die eine Parallele über den Zufall erheben, abgestuft über Hesiod, Homer, poetische Diktion und die Kontaktwege." },
+    { title = "Der Karteischrank der Götter", path = "articles/the-filing-cabinet-of-the-gods", description = "Der Artikel über Stith Thompsons Motiv-Index und die acht Szenen, zu denen er immer wieder zurückkehrt." },
 ]
 
 [extra.infobox]

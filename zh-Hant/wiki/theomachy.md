@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
@@ -26,6 +26,7 @@ see_also = [
     { title = "荷馬的東面", path = "/articles/the-east-face-of-homer/", description = "姊妹篇解說文,沿此模式向東的層位進入美索不達米亞:有據可查的傳播走廊,以及正典將希臘置於耶洛因勢力範圍內的解讀。" },
     { title = "赫利孔山上的雨", path = "/articles/the-rain-over-helicon/", description = "第三篇希臘解說文,審視 M. L. 韋斯特的比較方法:為何神祇爭戰家族在歷史上自成一體,而其成員仍各保差異。" },
     { title = "龍形曲線", path = "/articles/the-dragon-curve/", description = "關於《創世記》1:21 之 tannin 以及爭戰神話中蛇—龍—海怪詞彙的解說文,並對照第一部《訊息》來閱讀。" },
+    { title = "諸神的檔案櫃", path = "articles/the-filing-cabinet-of-the-gods", description = "關於斯蒂斯·湯普森《民間文學母題索引》及其反覆回到的八個場景的文章。" },
 ]
 
 [extra.infobox]

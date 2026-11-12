@@ -2,8 +2,8 @@
 title = "Le classeur des dieux"
 description = "Stith Thompson a classé les récits du monde sous des cotes décimales. Lu à froid, son index revient sans cesse aux huit mêmes scènes — et le canon a un nom pour elles."
 template = "articles-page.html"
-date = 2026-07-06
-draft = true
+date = 2026-11-12
+draft = false
 
 [extra]
 translation_status = "ai_reviewed"

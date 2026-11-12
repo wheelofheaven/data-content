@@ -23,6 +23,7 @@ see_also = [
     { title = "Satan", path = "wiki/satan", description = "The adversary tradition onto which later reptilian-dragon symbolism was mapped." },
     { title = "List of etymological readings", path = "wiki/list-of-etymological-readings", description = "Where tannin sits among the corpus's directly-read Hebrew terms." },
     { title = "The Dragon Curve", path = "articles/the-dragon-curve", description = "The Explainer on Genesis 1:21's great dragons, the verse the first Message never quotes, and the dinosaurs it seats beside the birds." },
+    { title = "The Filing Cabinet of the Gods", path = "articles/the-filing-cabinet-of-the-gods", description = "The Explainer on Stith Thompson's Motif-Index and the eight scenes it keeps returning to." },
 ]
 
 [extra.infobox]

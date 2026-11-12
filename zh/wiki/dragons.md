@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
@@ -23,6 +23,7 @@ see_also = [
     { title = "撒但", path = "wiki/satan", description = "后来的爬行—龙形象征被映射其上的敌对者传统。" },
     { title = "词源学阅读清单", path = "wiki/list-of-etymological-readings", description = "tannin 在文集直接解读之希伯来术语中的位置。" },
     { title = "龙形曲线", path = "articles/the-dragon-curve", description = "关于创世记 1:21 之大龙的解读文章——第一部信息从未引用的这节经文，以及它安置在鸟类旁边的恐龙。" },
+    { title = "众神的档案柜", path = "articles/the-filing-cabinet-of-the-gods", description = "关于斯蒂斯·汤普森《民间文学母题索引》及其反复回到的八个场景的文章。" },
 ]
 
 [extra.infobox]

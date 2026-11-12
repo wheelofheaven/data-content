@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
@@ -25,7 +25,8 @@ see_also = [
     { title = "Die Welt hinter der Odyssee", path = "/articles/the-world-behind-the-odyssey/", description = "Der Artikel, der vor der Lesart des Rahmens die griechischen Schichten des Musters freilegt — Homer, Hesiod und die anatolischen Sukzessionsmythen." },
     { title = "Die Ostseite Homers", path = "/articles/the-east-face-of-homer/", description = "Der Begleitartikel, der den Schichten des Musters ostwärts nach Mesopotamien folgt: der dokumentierte Überlieferungskorridor und die Lesart des Kanons, die Griechenland in der Sphäre der Elohim verortet." },
     { title = "Der Regen über dem Helikon", path = "/articles/the-rain-over-helicon/", description = "Der dritte griechische Artikel, der M. L. Wests vergleichende Methode prüft: warum die Familie der Götterkämpfe historisch zusammenhält, während ihre Glieder ihre Unterschiede behalten." },
-    { title = "Die Drachenkurve", path = "/articles/the-dragon-curve/", description = "Der Artikel über das tannin aus Genesis 1,21 und den Wortschatz von Schlange, Drache und Seeungeheuer in den Kampfmythen, gelesen vor der ersten Botschaft." }
+    { title = "Die Drachenkurve", path = "/articles/the-dragon-curve/", description = "Der Artikel über das tannin aus Genesis 1,21 und den Wortschatz von Schlange, Drache und Seeungeheuer in den Kampfmythen, gelesen vor der ersten Botschaft." },
+    { title = "Der Karteischrank der Götter", path = "articles/the-filing-cabinet-of-the-gods", description = "Der Artikel über Stith Thompsons Motiv-Index und die acht Szenen, zu denen er immer wieder zurückkehrt." },
 ]
 
 [extra.infobox]

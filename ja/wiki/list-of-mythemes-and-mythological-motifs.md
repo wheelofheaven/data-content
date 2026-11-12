@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-10"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Reference Lists"
@@ -22,6 +22,7 @@ see_also = [
     { title = "ルシファー", path = "wiki/lucifer", description = "目録の禁じられた知識と反逆のモチーフに繰り返し現れる人物。" },
     { title = "宇宙的競争", path = "wiki/cosmic-competition", description = "目録に収められた、諸勢力の間の戦争のいくつかのモチーフが収斂する、この枠組みの読解。" },
     { title = "宗教", path = "wiki/religion", description = "目録に収められたモチーフがその中に埋め込まれている、伝統を形成するより広い範疇。" },
+    { title = "神々のファイリング・キャビネット", path = "articles/the-filing-cabinet-of-the-gods", description = "スティス・トンプソンのモチーフ索引と、それが繰り返し立ち返る八つの場面についての記事。" },
 ]
 
 [extra.infobox]

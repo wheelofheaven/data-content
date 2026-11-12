@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-10"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Reference Lists"
@@ -22,6 +22,7 @@ see_also = [
     { title = "Lucifer", path = "wiki/lucifer", description = "Une figure récurrente dans les motifs de savoir interdit et de rébellion du catalogue." },
     { title = "Compétition cosmique", path = "wiki/cosmic-competition", description = "Le cadre de lecture vers lequel convergent plusieurs motifs catalogués de guerre entre puissances." },
     { title = "Religion", path = "wiki/religion", description = "La catégorie plus large de formation des traditions dans laquelle s'inscrivent les motifs catalogués." },
+    { title = "Le classeur des dieux", path = "articles/the-filing-cabinet-of-the-gods", description = "L'article sur l'Index des motifs de Stith Thompson et les huit scènes auxquelles il revient sans cesse." },
 ]
 
 [extra.infobox]

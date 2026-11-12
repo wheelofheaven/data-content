@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
@@ -26,6 +26,7 @@ see_also = [
     { title = "ホメロスの東面", path = "/articles/the-east-face-of-homer/", description = "その型の東方の地層をメソポタミアへとたどる姉妹編の解説記事。記録に残る伝達の回廊と、エロヒムの圏域の内部にギリシアを置く正典の読解。" },
     { title = "ヘリコンに降る雨", path = "/articles/the-rain-over-helicon/", description = "M・L・ウェストの比較の方法を検証する三つ目のギリシアの解説記事。神々の戦いの系統が歴史的にまとまりを保ちつつ、その成員がそれぞれの違いを保つのはなぜか。" },
     { title = "ドラゴン曲線", path = "/articles/the-dragon-curve/", description = "創世記1:21の tannin と、戦闘神話の蛇・竜・海の怪物の語彙を、最初のメッセージに照らして読む解説記事。" },
+    { title = "神々のファイリング・キャビネット", path = "articles/the-filing-cabinet-of-the-gods", description = "スティス・トンプソンのモチーフ索引と、それが繰り返し立ち返る八つの場面についての記事。" },
 ]
 
 [extra.infobox]

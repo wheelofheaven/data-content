@@ -2,8 +2,8 @@
 title = "Der Karteischrank der Götter"
 description = "Stith Thompson legte die Geschichten der Welt unter Dezimalcodes ab. Unvoreingenommen gelesen, kehrt sein Index immer wieder zu denselben acht Szenen zurück — und der Kanon hat einen Namen dafür."
 template = "articles-page.html"
-date = 2026-07-06
-draft = true
+date = 2026-11-12
+draft = false
 
 [extra]
 translation_status = "ai_reviewed"

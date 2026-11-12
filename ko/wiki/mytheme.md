@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-08"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-08"
@@ -24,6 +24,7 @@ see_also = [
     { title = "고대 건설자", path = "wiki/ancient-builders", description = "코퍼스가 전통들을 가로질러 읽는 거석·건축 모티프의 주체들." },
     { title = "오디세이아 뒤의 세계", path = "/articles/the-world-behind-the-odyssey/", description = "지식 이전과 계승의 신화소를 『오디세이아』에서 아나톨리아와 메소포타미아로 거슬러 추적하는 해설." },
     { title = "호메로스의 동쪽 면", path = "/articles/the-east-face-of-homer/", description = "영웅은 여행하지 않아도 서사의 형태는 여행한다는 것을 다루는 짝 해설 — 신화소 전승의 모범 사례로서의 길가메시–오디세우스 관계." },
+    { title = "신들의 서류함", path = "articles/the-filing-cabinet-of-the-gods", description = "스티스 톰프슨의 모티프 색인과 그 색인이 거듭 되돌아가는 여덟 장면에 관한 글입니다." },
 ]
 
 [extra.infobox]

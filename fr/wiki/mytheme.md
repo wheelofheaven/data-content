@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-08"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-08"
@@ -24,6 +24,7 @@ see_also = [
     { title = "Anciens bâtisseurs", path = "wiki/ancient-builders", description = "Les sujets des motifs mégalithiques et architecturaux que le corpus lit à travers les traditions." },
     { title = "Le monde derrière l'Odyssée", path = "/articles/the-world-behind-the-odyssey/", description = "Un article qui suit les mythèmes de la transmission du savoir et de la succession depuis l'Odyssée jusqu'en Anatolie et en Mésopotamie." },
     { title = "La face orientale d'Homère", path = "/articles/the-east-face-of-homer/", description = "L'article compagnon sur la manière dont les formes narratives voyagent quand les héros, eux, ne voyagent pas — la relation entre Gilgamesh et Ulysse comme cas modèle de transmission des mythèmes." },
+    { title = "Le classeur des dieux", path = "articles/the-filing-cabinet-of-the-gods", description = "L'article sur l'Index des motifs de Stith Thompson et les huit scènes auxquelles il revient sans cesse." },
 ]
 
 [extra.infobox]

@@ -6,7 +6,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
@@ -27,6 +27,7 @@ see_also = [
     { title = "Le monde derrière l'Odyssée", path = "/articles/the-world-behind-the-odyssey/", description = "L'étude de cas grecque du corpus — la transmission documentée du Proche-Orient vers Hésiode et Homère, la lecture du cadre étant tenue à part." },
     { title = "La face orientale d'Homère", path = "/articles/the-east-face-of-homer/", description = "La seconde moitié de l'étude de cas grecque : le corridor de transmission du VIIIe siècle en détail, et la discipline de ce que l'emprunt littéraire peut et ne peut pas prouver." },
     { title = "La pluie sur l'Hélicon", path = "/articles/the-rain-over-helicon/", description = "Un audit de méthode de la discipline elle-même : les critères qui élèvent un parallèle au-dessus de la coïncidence, gradués à travers Hésiode, Homère, la diction poétique et les routes de contact." },
+    { title = "Le classeur des dieux", path = "articles/the-filing-cabinet-of-the-gods", description = "L'article sur l'Index des motifs de Stith Thompson et les huit scènes auxquelles il revient sans cesse." },
 ]
 
 [extra.infobox]

@@ -6,7 +6,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
@@ -27,6 +27,7 @@ see_also = [
     { title = "오디세이아 뒤의 세계", path = "/articles/the-world-behind-the-odyssey/", description = "코퍼스의 그리스 사례 연구 — 근동에서 헤시오도스와 호메로스로 이어진 기록된 전승을 다루되, 프레임워크의 독해는 따로 둡니다." },
     { title = "호메로스의 동쪽 면", path = "/articles/the-east-face-of-homer/", description = "그리스 사례 연구의 후반부: 8세기 전승 회랑의 세부, 그리고 문학적 차용이 증명할 수 있는 것과 없는 것을 가리는 규율." },
     { title = "헬리콘에 내린 비", path = "/articles/the-rain-over-helicon/", description = "이 분과 자체에 대한 방법 점검: 평행을 우연 이상으로 끌어올리는 검증들을 헤시오도스, 호메로스, 시어, 접촉 경로에 걸쳐 등급을 매깁니다." },
+    { title = "신들의 서류함", path = "articles/the-filing-cabinet-of-the-gods", description = "스티스 톰프슨의 모티프 색인과 그 색인이 거듭 되돌아가는 여덟 장면에 관한 글입니다." },
 ]
 
 [extra.infobox]

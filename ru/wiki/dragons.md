@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
@@ -23,6 +23,7 @@ see_also = [
     { title = "Сатана", path = "wiki/satan", description = "Традиция противника, на которую позднее была наложена символика рептилий и драконов." },
     { title = "Список этимологических прочтений", path = "wiki/list-of-etymological-readings", description = "Место таннин среди еврейских терминов, которые корпус читает напрямую." },
     { title = "Кривая дракона", path = "articles/the-dragon-curve", description = "Статья о «великих драконах» из Бытия 1:21 — стихе, который первое Послание никогда не цитирует, — и о динозаврах, которых оно помещает рядом с птицами." },
+    { title = "Картотека богов", path = "articles/the-filing-cabinet-of-the-gods", description = "Статья об Указателе мотивов Стита Томпсона и восьми сценах, к которым он постоянно возвращается." },
 ]
 
 [extra.infobox]

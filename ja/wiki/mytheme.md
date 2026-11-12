@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-08"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-08"
@@ -24,6 +24,7 @@ see_also = [
     { title = "古代の建設者", path = "wiki/ancient-builders", description = "コーパスが諸伝統を横断して読む、巨石と建造のモチーフの主題。" },
     { title = "『オデュッセイア』の背後の世界", path = "/articles/the-world-behind-the-odyssey/", description = "知識の伝達と王権継承の神話素を、『オデュッセイア』からアナトリアとメソポタミアへと遡ってたどる解説記事。" },
     { title = "ホメロスの東面", path = "/articles/the-east-face-of-homer/", description = "英雄は旅をしないのに物語の型は旅をする、その仕方を扱う姉妹編の解説記事。ギルガメシュとオデュッセウスの関係を、神話素の伝達の模範事例とする。" },
+    { title = "神々のファイリング・キャビネット", path = "articles/the-filing-cabinet-of-the-gods", description = "スティス・トンプソンのモチーフ索引と、それが繰り返し立ち返る八つの場面についての記事。" },
 ]
 
 [extra.infobox]

@@ -8,7 +8,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Events & Narratives"
@@ -27,6 +27,7 @@ see_also = [
     { title = "הפן המזרחי של הומרוס", path = "/articles/the-east-face-of-homer/", description = "המאמר המשלים העוקב אחר שכבות הדפוס מזרחה אל מסופוטמיה: מסדרון המסירה המתועד, וקריאת הקנון את יוון בתוך התחום האלוהימי." },
     { title = "הגשם מעל הליקון", path = "/articles/the-rain-over-helicon/", description = "המאמר היווני השלישי, הבוחן את השיטה ההשוואתית של מ. ל. וסט: מדוע משפחת מיתוסי הקרב האלוהי מחזיקה יחד מבחינה היסטורית בעוד חבריה שומרים על הבדליהם." },
     { title = "עקומת הדרקון", path = "/articles/the-dragon-curve/", description = "המאמר על התנינים של בראשית א 21 ועל אוצר המילים של נחש, דרקון ומפלצת ים במיתוסי הקרב, הנקרא לעומת המסר הראשון." },
+    { title = "ארון התיוק של האלים", path = "articles/the-filing-cabinet-of-the-gods", description = "המאמר על מפתח המוטיבים של סטית' תומפסון ועל שמונה הסצנות שהוא חוזר אליהן שוב ושוב." },
 ]
 
 [extra.infobox]

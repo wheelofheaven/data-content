@@ -8,7 +8,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-08"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-08"
@@ -25,6 +25,7 @@ see_also = [
     { title = "בונים קדומים", path = "wiki/ancient-builders", description = "נושאי מוטיבי המגליתים והבנייה שהקורפוס קורא לרוחב המסורות." },
     { title = "העולם שמאחורי האודיסיאה", path = "/articles/the-world-behind-the-odyssey/", description = "מאמר העוקב אחר מיתמות העברת הידע והירושה מן האודיסיאה לאחור דרך אנטוליה ומסופוטמיה." },
     { title = "הפן המזרחי של הומרוס", path = "/articles/the-east-face-of-homer/", description = "המאמר המשלים על האופן שבו צורות סיפור נודדות בעוד הגיבורים אינם נודדים — היחס בין גילגמש לאודיסאוס כמקרה המופת של מסירת מיתמות." },
+    { title = "ארון התיוק של האלים", path = "articles/the-filing-cabinet-of-the-gods", description = "המאמר על מפתח המוטיבים של סטית' תומפסון ועל שמונה הסצנות שהוא חוזר אליהן שוב ושוב." },
 ]
 
 [extra.infobox]

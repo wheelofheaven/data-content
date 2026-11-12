@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"
@@ -28,6 +28,7 @@ see_also = [
     { title = "העולם שמאחורי האודיסיאה", path = "/articles/the-world-behind-the-odyssey/", description = "מקרה המבחן היווני של הקורפוס — מסירה מתועדת מן המזרח הקרוב אל הסיודוס והומרוס, כשקריאת המסגרת נשמרת בנפרד." },
     { title = "הפן המזרחי של הומרוס", path = "/articles/the-east-face-of-homer/", description = "המחצית השנייה של מקרה המבחן היווני: מסדרון המסירה של המאה השמינית בפירוט, והמשמעת של מה שהשאלה ספרותית יכולה ואינה יכולה להוכיח." },
     { title = "הגשם מעל הליקון", path = "/articles/the-rain-over-helicon/", description = "בחינת שיטה של התחום עצמו: המבחנים המעלים הקבלה מעל צירוף מקרים, מדורגים על פני הסיודוס, הומרוס, הלשון הפואטית ונתיבי המגע." },
+    { title = "ארון התיוק של האלים", path = "articles/the-filing-cabinet-of-the-gods", description = "המאמר על מפתח המוטיבים של סטית' תומפסון ועל שמונה הסצנות שהוא חוזר אליהן שוב ושוב." },
 ]
 
 [extra.infobox]

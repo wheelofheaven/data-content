@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-08"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-08"
@@ -24,6 +24,7 @@ see_also = [
     { title = "Древние строители", path = "wiki/ancient-builders", description = "Субъекты мотивов мегалитов и строительства, которые корпус читает в разных традициях." },
     { title = "Мир за «Одиссеей»", path = "/articles/the-world-behind-the-odyssey/", description = "Статья, прослеживающая мифемы передачи знания и преемства от «Одиссеи» назад через Анатолию и Месопотамию." },
     { title = "Восточный лик Гомера", path = "/articles/the-east-face-of-homer/", description = "Парная статья о том, как странствуют формы повествования, тогда как герои — нет: отношение Гильгамеша и Одиссея как образцовый случай передачи мифемы." },
+    { title = "Картотека богов", path = "articles/the-filing-cabinet-of-the-gods", description = "Статья об Указателе мотивов Стита Томпсона и восьми сценах, к которым он постоянно возвращается." },
 ]
 
 [extra.infobox]

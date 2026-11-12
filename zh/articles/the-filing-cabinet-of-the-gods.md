@@ -2,8 +2,8 @@
 title = "众神的档案柜"
 description = "Stith Thompson 用十进制编码为世界的故事归档。冷眼细读，他的索引一再回到同样的八个场景——而正典为它们起了名字。"
 template = "articles-page.html"
-date = 2026-07-06
-draft = true
+date = 2026-11-12
+draft = false
 
 [extra]
 translation_status = "ai_reviewed"

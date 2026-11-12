@@ -2,8 +2,8 @@
 title = "El fichero de los dioses"
 description = "Stith Thompson archivó las historias del mundo bajo códigos decimales. Leído en frío, su índice vuelve una y otra vez a las mismas ocho escenas, y el canon tiene un nombre para ellas."
 template = "articles-page.html"
-date = 2026-07-06
-draft = true
+date = 2026-11-12
+draft = false
 
 [extra]
 translation_status = "ai_reviewed"

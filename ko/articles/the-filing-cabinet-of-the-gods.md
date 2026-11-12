@@ -2,8 +2,8 @@
 title = "신들의 서류함"
 description = "스티스 톰프슨은 세계의 이야기들을 십진 부호 아래 분류했습니다. 선입견 없이 읽으면 그의 색인은 같은 여덟 장면으로 거듭 돌아가며, 정경은 그 장면들에 이름을 붙입니다."
 template = "articles-page.html"
-date = 2026-07-06
-draft = true
+date = 2026-11-12
+draft = false
 
 [extra]
 translation_status = "ai_reviewed"

@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-10"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Reference Lists"
@@ -21,7 +21,8 @@ see_also = [
     { title = "Eden", path = "wiki/eden", description = "Eine Quellenerzählung, auf die mehrere katalogisierte Motive zurückgelesen werden." },
     { title = "Luzifer", path = "wiki/lucifer", description = "Eine Gestalt, die in den Motiven des verbotenen Wissens und der Rebellion des Katalogs wiederkehrt." },
     { title = "Kosmischer Wettbewerb", path = "wiki/cosmic-competition", description = "Die Lesart des Rahmens, in der mehrere katalogisierte Motive des Krieges unter Mächten zusammenlaufen." },
-    { title = "Religion", path = "wiki/religion", description = "Die umfassendere traditionsbildende Kategorie, in die die katalogisierten Motive eingebettet sind." }
+    { title = "Religion", path = "wiki/religion", description = "Die umfassendere traditionsbildende Kategorie, in die die katalogisierten Motive eingebettet sind." },
+    { title = "Der Karteischrank der Götter", path = "articles/the-filing-cabinet-of-the-gods", description = "Der Artikel über Stith Thompsons Motiv-Index und die acht Szenen, zu denen er immer wieder zurückkehrt." },
 ]
 
 [extra.infobox]

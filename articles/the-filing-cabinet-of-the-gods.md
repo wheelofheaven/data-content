@@ -2,8 +2,8 @@
 title = "The Filing Cabinet of the Gods"
 description = "Stith Thompson filed the world's stories under decimal codes. Read cold, his index keeps returning to the same eight scenes — and the canon has a name for them."
 template = "articles-page.html"
-date = 2026-07-06
-draft = true
+date = 2026-11-12
+draft = false
 
 [extra]
 card_summary = "Recurring scenes in Stith Thompson’s motif index, examined through the interpretive framework of the Raëlian canon."

@@ -8,7 +8,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-11"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 category = "Symbolism & Motifs"
@@ -24,6 +24,7 @@ see_also = [
     { title = "שָׂטָן", path = "wiki/satan", description = "מסורת היריב, שעליה מופתה מאוחר יותר סמליות הזוחל־הדרקון." },
     { title = "רשימת קריאות אטימולוגיות", path = "wiki/list-of-etymological-readings", description = "מקומו של התנין בין המונחים העבריים שהקורפוס קורא באופן ישיר." },
     { title = "עקומת הדרקון", path = "articles/the-dragon-curve", description = "המאמר על התנינים הגדולים של בראשית א 21, הפסוק שהמסר הראשון אינו מצטט לעולם, והדינוזאורים שהוא ממקם לצד העופות." },
+    { title = "ארון התיוק של האלים", path = "articles/the-filing-cabinet-of-the-gods", description = "המאמר על מפתח המוטיבים של סטית' תומפסון ועל שמונה הסצנות שהוא חוזר אליהן שוב ושוב." },
 ]
 
 [extra.infobox]

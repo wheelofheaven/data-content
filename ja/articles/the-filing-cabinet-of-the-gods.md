@@ -2,8 +2,8 @@
 title = "神々のファイリング・キャビネット"
 description = "スティス・トンプソンは世界の物語を十進法の記号で分類しました。先入観なしに読むと、その索引は同じ八つの場面へと繰り返し立ち戻ります——そして正典はそれらに名を与えています。"
 template = "articles-page.html"
-date = 2026-07-06
-draft = true
+date = 2026-11-12
+draft = false
 
 [extra]
 translation_status = "ai_reviewed"

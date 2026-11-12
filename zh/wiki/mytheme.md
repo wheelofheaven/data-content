@@ -7,7 +7,7 @@ toc = true
 [extra]
 translation_status = "metadata_only"
 translation_updated = "2026-11-12"
-source_updated = "2026-11-08"
+source_updated = "2026-11-12"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-08"
@@ -24,6 +24,7 @@ see_also = [
     { title = "古代建造者", path = "wiki/ancient-builders", description = "文集跨传统解读的巨石与建造母题之主体。" },
     { title = "《奥德赛》背后的世界", path = "/articles/the-world-behind-the-odyssey/", description = "一篇从《奥德赛》经安纳托利亚追溯至美索不达米亚之知识传递与继承神话素的解读文章。" },
     { title = "荷马的东面", path = "/articles/the-east-face-of-homer/", description = "关于叙事形态如何传播而英雄并不随之迁移的姊妹解读文章——吉尔伽美什与奥德修斯的关系作为神话素传播的典型个案。" },
+    { title = "众神的档案柜", path = "articles/the-filing-cabinet-of-the-gods", description = "关于斯蒂斯·汤普森《民间文学母题索引》及其反复回到的八个场景的文章。" },
 ]
 
 [extra.infobox]
