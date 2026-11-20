@@ -7,9 +7,10 @@ template = "dataset-page.html"
 core_claim_ids = ["woh-claim-0056", "woh-claim-0060"]
 core_versions = { woh-claim-0056 = "0.1.0", woh-claim-0060 = "0.1.0" }
 dataset_name = "Wheel of Heaven Myth Index"
+dataset_version = "1.1"
 license = "CC0-1.0"
 license_url = "https://creativecommons.org/publicdomain/zero/1.0/"
-updated = "2026-08"
+updated = "2026-11-20"
 keywords = ["myth index", "mythology dataset", "comparative mythology data", "Thompson Motif-Index", "flood myth", "divine council", "chaoskampf", "creation of humans", "giants", "tower of Babel", "digital humanities", "open data", "CC0 download"]
 
 stats = [
@@ -24,12 +25,12 @@ downloads = [
     { label = "JSON", url = "https://api.wheelofheaven.world/v1/datasets/myth-index.json", format = "application/json", note = "Self-describing: columns + rows; motif lists as arrays." },
 ]
 
-citation_text = "Zinsfuss, Zara. Wheel of Heaven Myth Index. Wheel of Heaven, 2026. CC0-1.0. https://www.wheelofheaven.world/datasets/myth-index/"
+citation_text = "Zinsfuss, Zara. Wheel of Heaven Myth Index, version 1.1. Wheel of Heaven, 2026. CC0-1.0. https://www.wheelofheaven.world/datasets/myth-index/"
 citation_bibtex = '''@misc{woh-myth-index,
   title  = {Wheel of Heaven Myth Index},
   author = {Zinsfuss, Zara},
   year   = {2026},
-  note   = {CC0-1.0 public domain},
+  note   = {Version 1.1; CC0-1.0 public domain},
   url    = {https://www.wheelofheaven.world/datasets/myth-index/}
 }'''
 +++
@@ -57,6 +58,10 @@ the [Divine-Council Index](/datasets/divine-council-index/), and the
 full per-family column depth (survivor and vessel, council term and presiding
 figure, champion and weapon). The index row gives every family the same
 comparable shape.
+
+Version **1.1** reconciles the eleven flood summaries and their inspected
+scopes with Flood-Myth Concordance 1.2. The other families and the motif
+classifications have not been reassessed in this revision.
 
 ## The scholarly crosswalk
 
