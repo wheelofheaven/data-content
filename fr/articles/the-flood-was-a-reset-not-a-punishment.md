@@ -7,8 +7,8 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-11"
-source_updated = "2026-11-10"
+translation_updated = "2026-11-21"
+source_updated = "2026-11-21"
 translation_stale = false
 translation_sync = 100
 core_versions = { woh-claim-0010 = "0.2.0" }
