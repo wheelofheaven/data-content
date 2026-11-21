@@ -7,9 +7,9 @@ toc = true
 
 [extra]
 translation_status = "ai_reviewed"
-translation_updated = "2026-11-12"
+translation_updated = "2026-11-21"
 source_updated = "2026-11-20"
-translation_stale = true
+translation_stale = false
 translation_sync = 100
 same_as = ["https://www.wikidata.org/wiki/Q134052", "https://en.wikipedia.org/wiki/Flood_myth", "https://www.britannica.com/topic/flood-myth"]
 core_versions = { woh-claim-0010 = "0.2.0", woh-claim-0071 = "0.3.1" }
