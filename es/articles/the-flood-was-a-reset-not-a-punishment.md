@@ -526,8 +526,9 @@ no acepta la pérdida de su creación y ayuda a Noé a construir la nave. Solo d
 del suceso cambia de rumbo el Consejo:
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=28) %}
-Decidieron entonces no volver a destruir jamás a la humanidad, y ayudaron al grupo
-de Lucifer a reimplantar las formas de vida preservadas en el «arca».
+Fue en aquel momento que decidieron nunca más tratar de destruir a la Humanidad,
+ayudando al equipo de Lucifer a reimplantar en la Tierra las formas de vida que
+habían sido preservadas en la arca (…)
 {% end %}
 
 La decisión del Consejo fue la destrucción. El reinicio es lo que los exiliados

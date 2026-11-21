@@ -247,7 +247,7 @@ YHWH 聞了那馨香之氣，YHWH 心裡說：「我必不再因人的緣故咒�
 正典後來的記述點出了各方的名字。在{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=26) %}《歡迎外星人》{% end %}的*新啟示*中，{% wiki(slug="satan") %}撒但{% end %}把人類暴行的證據帶到永恆者議會面前，而議會主席{% wiki(slug="yahweh") %}耶和華{% end %}決定摧毀在地球上創造的生命。{% wiki(slug="lucifer") %}路西法{% end %}的流亡團體不肯接受失去自己的造物，便幫助挪亞建造那艘飛行器。直到事件過後，議會才改變方向：
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=28) %}
-於是他們決定永不再毀滅人類，並幫助路西法的團體把保存在「方舟」中的生命形式重新植入。
+因此，他們決定不再摧毀人類，並協助路西華的人員重新創造保存在“方舟”內的生命形態。
 {% end %}
 
 議會的決定是毀滅。重置是流亡者從這一決定中造就出來的，也是議會在毀滅完成之後所採納的。

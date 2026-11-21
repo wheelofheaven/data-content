@@ -555,8 +555,9 @@ nicht hinnehmen und hilft Noah, das Gefährt zu bauen. Erst nach dem Ereignis
 ändert der Rat seinen Kurs:
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=28) %}
-Daraufhin beschlossen sie, die Menschheit nie wieder zu vernichten, und halfen der
-Gruppe Luzifers, die in der „Arche" bewahrten Lebensformen wieder anzusiedeln.
+Sie entscheiden also, nie wieder zu versuchen, die Menschheit zu zerstören und helfen
+Luzifer, die Lebensformen, die in der „Arche“ gerettet worden waren, wieder auf der
+Erde anzusiedeln.
 {% end %}
 
 Der Beschluss des Rates lautete Vernichtung. Der Reset ist das, was die
