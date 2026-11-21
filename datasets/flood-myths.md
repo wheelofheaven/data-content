@@ -5,7 +5,7 @@ template = "dataset-page.html"
 
 [extra]
 core_claim_ids = ["woh-claim-0010", "woh-claim-0060"]
-core_versions = { woh-claim-0010 = "0.1.0", woh-claim-0060 = "0.1.0" }
+core_versions = { woh-claim-0010 = "0.2.0", woh-claim-0060 = "0.1.0" }
 claim_type = "inferred"
 dataset_name = "Wheel of Heaven Flood-Myth Concordance"
 dataset_version = "1.2"

@@ -10,7 +10,7 @@ same_as = ["https://www.wikidata.org/wiki/Q126553", "https://en.wikipedia.org/wi
 category = "Events & Narratives"
 claim_type = "framework"
 core_claim_ids = ["woh-claim-0010"]
-core_versions = { woh-claim-0010 = "0.1.0" }
+core_versions = { woh-claim-0010 = "0.2.0" }
 editorial_pass = "2026-07"
 entry_type = "event"
 alternative_names = ["Noah's Ark", "the ark of Noah", "תֵּבַת נֹחַ (Hebrew tevat Noaḥ)", "the tevah", "سَفِينَةُ نُوحٍ (Arabic safīnat Nūḥ)"]

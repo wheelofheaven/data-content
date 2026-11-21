@@ -9,16 +9,17 @@ draft = false
 card_summary = "Sumerian, Babylonian, Hebrew, and Enochic flood accounts compared through divine decisions, survival, and the preservation of life."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0010"]
-core_versions = { woh-claim-0010 = "0.1.0" }
+core_versions = { woh-claim-0010 = "0.2.0" }
 editorial_pass = "2026-05"
 article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Read closely, the oldest flood stories do not describe a god losing his temper. They describe a decision taken in assembly, sworn under oath, and declared irrevocable; a survivor given precise engineering specifications and told to load *the seed of all living things*; and — most tellingly — a debate among the planners in which one of them argues that a flood is the *wrong instrument*, disproportionate and indiscriminate, and names the targeted alternatives that should have been used instead. The Sumerian *Flood Story*, the Babylonian *Atraḫasīs* and *Gilgamesh* XI, the *Book of the Watchers*, and *Genesis* 6–9 share not a mood but a procedure. This Explainer works through that procedure line by line, takes the mainstream diffusion explanation seriously, and then reads the convergence through the Wheel of Heaven frame — as the administrative record of a managed reset."
+summary = "Read closely, the Mesopotamian flood stories do not describe a god losing his temper. The Sumerian *Flood Story*, *Atraḫasīs* and *Gilgamesh* XI describe a decision taken in assembly and bound by oath; a survivor warned around that decision and given precise building instructions; and, in *Gilgamesh*, a quarrel after the flood in which Ea calls it the *wrong instrument* and names the targeted alternatives: lion, wolf, famine, plague. *Genesis* 6–9 and the *Book of the Watchers* keep the instructed survivor and the preserved seed, but place destruction and rescue under one authority. This Explainer reads these features text by text, takes the mainstream diffusion explanation seriously, and then reads them through the Wheel of Heaven canon, in which the home world decides to destroy life on Earth, the exiled creators save Noah against that decision, and the Council resolves afterwards never to do it again."
 keywords = ["the flood", "deluge", "Atrahasis", "Gilgamesh", "Genesis flood", "Watchers", "Elohim hypothesis"]
 references = [
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (The Flood; the cell-line preserved aboard a staged craft)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2 (¶25–28: the New Revelations; Satan's evidence before the Council of the Eternals, Yahweh's decision, Lucifer's group and Noah, the decision never again to destroy humanity)" },
     { id = "genesis", locator = "Genesis 6:1–9:17 (the Nephilim, the decree, the ark specifications, the offering, the covenant)" },
     { id = "atrahasis", locator = "Tablet I.i (the toil and the making); Tablet III (Ea's warning; the seven-day flood)" },
     { id = "epic-of-gilgamesh", locator = "Tablet XI, lines 8–206 (Utnapishtim's account of the flood)" },
@@ -64,7 +65,7 @@ to thin it, to discipline it, to remove a specific contamination from it — a
 flood is close to the worst tool you could choose, because the one thing it
 cannot do is discriminate.
 
-The oldest flood story we can still read says exactly this, out loud, in the
+The Babylonian flood story in *Gilgamesh* XI says exactly this, out loud, in the
 mouth of one of the gods who planned it. After the waters recede, after the
 survivor's boat grounds and his offering smokes, the assembly of the gods falls
 to quarrelling, and the wisest among them turns on the god who ordered the
@@ -75,16 +76,17 @@ records the complaint without flinching.
 
 This Explainer follows that complaint back through the texts. The argument is
 not the familiar one, that many cultures have a flood myth and the myths happen
-to rhyme. It is more demanding than that. At their oldest, the flood accounts
-describe a procedure: a decision taken in council and sworn under oath, declared
-past appeal; a survivor selected and handed precise technical instructions; a
-cargo defined as *the seed of all living things*; and, around all of it, a
-recorded disagreement about whether the method had been proportionate. What they
-describe is a managed reset, carried out by planners who were divided over it,
-and who afterward second-guessed how they had run it. I will read the texts closely enough to show that procedure
-across four literatures, weigh the mainstream explanation for why it recurs, and
-then set out what the {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %}
-frame makes of it. Where the reading turns from what the words say to what they
+to rhyme. It is more demanding than that. Read one at a time, the flood accounts
+describe parts of a procedure: a decision taken in council and bound by oath; a
+survivor selected and handed precise technical instructions; a cargo defined as
+preserved seed; and, in the Babylonian telling, a recorded disagreement about
+whether the method had been proportionate. No single text has every part, and
+the texts do not divide the parts in the same way. The Mesopotamian accounts set
+a rescuing god against the decree. The Hebrew and Enochic accounts put the
+decree and the rescue in one hand. I will read the texts closely enough to show
+which feature each one carries, weigh the mainstream explanation for why they
+recur, and then set out what the {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %}
+frame makes of them. Where the reading turns from what the words say to what they
 might mean, I mark the line.
 
 ## The decree is taken in council, not in anger
@@ -189,7 +191,7 @@ Make for yourself an ark of gopher wood. Make the ark with compartments, and coa
 
 Same coated hull, same dimensional precision, same decked-and-compartmented
 interior ("lower, second, and third decks," {% libref(book="genesis-woh", chapter=6, verse=16) %}Genesis 6:16{% end %}). And the same defining cargo, stated twice and with the
-purpose attached: the animals are brought aboard, in the older of the two
+purpose attached: the birds are brought aboard by sevens, in the older of the two
 Hebrew flood sources, explicitly
 {% library(book="genesis-woh", chapter=7, verse=3, interlinear=true) %}
 to keep seed alive on the face of all the land.
@@ -231,12 +233,12 @@ Ea grants that humanity was guilty; his quarrel is with the instrument. A flood
 punishes collectively where the offence called for selection, and he names the
 selective tools one after another — lion, wolf, famine, pestilence — each of
 them able to thin a population without erasing it. The
-commentary on the Atraḫasīs{{ footnote(id="7") }} tradition makes the point sharper still: those four
-alternatives are precisely the population-control methods the gods deploy
-*before* resorting to the flood in the older epic — first overpopulation is met
-with plague, then drought, then famine, and only when those fail does the
-council escalate to total deluge. Ea is reminding Enlil that he had a graduated
-toolkit and reached past all of it for the blunt instrument.
+commentary on the Atraḫasīs{{ footnote(id="7") }} tradition makes the point sharper still. In the older epic the gods meet the
+growing population first with plague, then with drought and famine, and only
+when those fail does the council escalate to total deluge. Two of Ea's four
+alternatives, famine and plague, are measures that epic had already shown in
+use. Ea is reminding Enlil that a graduated toolkit existed and that he reached
+past it for the blunt instrument.
 
 This is the language of an after-action review, not a theodicy{{ footnote(id="8") }}. The participants
 are debating *whether the operation was run correctly*. And the rest of the
@@ -254,7 +256,7 @@ and recants her own vote: "How could I have spoken evil in the assembly of the
 gods — calling for a battle to destroy my own people!" Agents carrying out a
 righteous sentence do not behave this way. These are people who authorized a
 method, watched it overrun their control, and recoiled from what they had set
-loose. In its oldest telling the flood is a policy its own makers regretted
+loose. In the Babylonian telling the flood is a policy its own makers regretted
 while it was still running.
 
 ## What the cleansing was *for*: the corrupted earth of Enoch
@@ -324,8 +326,8 @@ Genesis will later strike as a {% wiki(slug="noahic-covenant") %}covenant{% end 
 
 ## Hebrew keeps the mechanics and rewrites the theology
 
-If the procedure is so consistent across Sumerian, Babylonian, and Enochic
-material, the natural question is what Genesis *does* with the inheritance. The
+With the Sumerian, Babylonian, and Enochic material laid out, the natural
+question is what Genesis *does* with the inheritance. The
 answer sharpens everything before it. Hebrew keeps the mechanics almost intact
 and rebuilds the theology around them: the engineering survives the crossing;
 the management structure and the lesson drawn at the end do not.
@@ -393,7 +395,7 @@ a punishment well delivered than like an operator retiring a tool that proved
 both disproportionate and ineffective — the very charge Ea had laid against
 Enlil, now spoken by the single Hebrew actor to himself.
 
-## Why does the procedure hold across four literatures?
+## Why do these features recur across four literatures?
 
 The honest mainstream answer is *diffusion*{{ footnote(id="11") }}, and it is strong. The Sumerian,
 Akkadian, and Hebrew texts emerge from a continuous, demonstrably interconnected
@@ -418,9 +420,9 @@ procedure is that they share an ancestry.
 
 What diffusion accounts for and what it leaves open are two different things. It
 explains why the later texts resemble the earlier ones. It says nothing about
-the character of the earliest layer — why the foundational telling already casts
-the flood as a ratified administrative decision, equips its survivor with
-engineering specifications and a genetic-minimum cargo, and stages a technical
+the character of the Mesopotamian layer — why those tellings already cast the
+flood as a ratified administrative decision, equip the survivor with building
+specifications and a cargo of preserved seed, and, in *Gilgamesh*, stage an
 argument among the planners over whether the method had been proportionate.
 Diffusion tells us the procedure was copied. It does not tell us why the thing
 being copied was already shaped like an operations log.
@@ -439,8 +441,8 @@ flood material with that premise and the texts stop reading like theology that
 happens to sound administrative and start reading like administration that was
 later theologized.
 
-On that reading the convergence is not a puzzle. The flood accounts share a
-procedure because they are compressed, degrading memories of *one operation* —
+On that reading the convergence is not a puzzle. The flood accounts share these
+features because they are compressed, degrading memories of *one operation* —
 and, more exactly, of a *political dispute* inside the body that ran it. The
 makers are not a single will but a set of parties holding opposed views: one
 faction resolves to terminate a population that had become a problem; others
@@ -478,8 +480,8 @@ inside the maker-civilization. One faction — the home authority on the
 destroy life on Earth, and does it with nuclear weaponry; the deluge is the
 *side-effect* of that strike, the tidal wave thrown up by the blast, not a
 moralized rain. A second faction, the exiles who had bound themselves to
-humanity, oppose the decision, and — unable to prevent it — forewarn Noah and
-have him preserve "a couple of each species," which the canon immediately glosses
+humanity, learn of the decision in advance and, unable to prevent it, have Noah
+build a craft and preserve "a couple of each species," which the canon immediately glosses
 in modern terms:
 
 {% library(book="the-book-which-tells-the-truth", chapter=2, verse=58) %}
@@ -501,6 +503,23 @@ the four literatures read above are what such a log looks like after thousands o
 years of retelling by people who had lost the concepts to describe what they were
 remembering.
 
+The canon's later account names the parties. In the *New Revelations* of
+{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=26) %}*Let's
+Welcome the Extraterrestrials*{% end %}, {% wiki(slug="satan") %}Satan{% end %} brings
+evidence of human violence before the Council of the Eternals, and
+{% wiki(slug="yahweh") %}Yahweh{% end %}, its president, decides to destroy the
+life created on Earth. {% wiki(slug="lucifer") %}Lucifer{% end %}'s exiled group
+will not accept the loss of its creation and helps Noah build the craft. Only
+after the event does the Council change course:
+
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=28) %}
+They then decided never again to destroy humanity, and helped Lucifer's group
+to re-implant the life forms preserved in the "ark".
+{% end %}
+
+The Council's decision was destruction. The reset is what the exiles made of
+it, and what the Council adopted once the destruction was done.
+
 This is the reading the essay has been building toward, and it should be said
 without hedging. The Flood is not one being's wrath — and it is not enough to
 answer that the single God of Genesis was "really" many gods, because splitting
@@ -518,15 +537,15 @@ when he says, too late, that a flood takes everyone where a lion would have take
 some. None of this makes the Elohim warlords; the corpus does not describe a
 civilization given to conquest. But sophistication is not the absence of
 disagreement. Opposed convictions, held strongly enough, can end where this essay
-began: in a weapon that cannot aim. The first: this is not the
+began: in a weapon that cannot aim. Two clarifications follow. The first: this is not the
 {% wiki(slug="ancient-astronaut-hypothesis") %}"ancient astronaut"{% end %} reading of popular fringe writing, a lineage the corpus's
 own apparatus explicitly disavows. It is not the Sitchin reading of the Sumerian {% wiki(slug="anunnaki") %}*Anunnaki*{% end %}{{ footnote(id="12") }},
 and it finds no engineering vocabulary hidden under the
-divine names. The case rests on narrative shape alone — on the oldest flood
-story being built as a decision, an execution, and a review. The second: the
+divine names. The case rests on narrative shape alone — on the Mesopotamian flood
+stories being built as a decision, an execution, and a review. The second: the
 close reading does not depend on the frame at all. A reader who finds the canon's
 reconstruction a bridge too far can still keep the load-bearing observation, that
-these texts at their oldest present the flood as a deliberated, contested,
+the Mesopotamian texts present the flood as a deliberated, contested,
 seed-preserving operation rather than the wrath of an offended absolute. The
 frame supplies a motive for that shape; the shape is in the texts whether or not
 one accepts the motive.
@@ -564,16 +583,19 @@ cowering, the committee) are evidence of deliberate theological work, not just
 forgetting. The frame's claim is about the *oldest stratum and its shape*, not a
 demand that the Hebrew tradition's own meaning be discarded.
 
-Finally, the scientific objection, which is decisive on one point and silent on
-another. There was no global flood; the geological record is unambiguous, and
-the case is laid out accessibly by Montgomery, a geologist writing precisely
-about Noah's flood. Nothing in this Explainer argues otherwise, and the canon's
-own account is notably *not* a global-deluge claim in the young-earth sense —
-it describes a regional cataclysm and a preserved stock, not a planet uniformly
-covered to the mountaintops. What the geology forecloses is the literalist
-reading. What it does not address is why the literary tradition, across four
-corpora, remembers the event in the specific shape of a managed reset. That is a
-question for the texts, and the texts answer it consistently.
+Finally, the scientific objection. Mainstream geology finds no global flood
+layer, and the case is laid out accessibly by Montgomery, a geologist writing
+precisely about Noah's flood. The canon's account is not the young-earth deluge
+Montgomery tests: there is no rain covering the planet to the mountaintops. It
+describes a strike from the home world whose blast raised a tidal wave that
+destroyed all life on the land surface of the single continent, with
+consequences for the continents themselves that the corpus treats in its entry
+on {% wiki(slug="pangaea") %}Pangaea{% end %}. Mainstream geology does not accept
+that account either, and the corpus records the disagreement there. What the
+geology does not address is why the literary tradition, across four corpora,
+remembers the event as a decision, a warning given around it, and a preserved
+stock. That is a question for the texts, and this essay has tried to answer it
+text by text.
 
 ## Conclusion
 
@@ -581,7 +603,7 @@ At its oldest legible layer the flood is not the story of a god losing his
 temper. A body takes a decision under procedure and binds itself by oath; a
 survivor is handed a build sheet and a cargo defined as preserved seed; the
 method is carried out and overruns the control of the people who ordered it; and
-afterward — in the very oldest complete telling — those people argue over
+afterward — in *Gilgamesh* XI — those people argue over
 whether it had ever been the right method, naming the graduated, selective
 alternatives out loud. The Hebrew tradition takes in the whole machinery and
 works carefully on the theology around it, cutting the committee and the divine
@@ -590,10 +612,11 @@ conclusion: that the instrument had failed and must never be used again. Enoch
 keeps the rationale the others lose, and gives it as decontamination — *heal the
 earth, which the Watchers have corrupted, that his seed may endure.*
 
-{% claim(type="framework", id="woh-claim-0010") %}Through the frame, this is what survives of a real operation: a managed reset by
-makers of high but finite capacity who decided, executed, preserved a line, and
-fell out among themselves over the cost.{% end %} Without the frame, it remains stranger
-and more interesting than punishment — four literatures, independently,
-remembering the deluge as a deliberation rather than a tantrum. The flood the
+{% claim(type="framework", id="woh-claim-0010") %}Through the frame, this is what survives of a real operation by
+makers of high but finite capacity: one party decided to destroy, another
+preserved a line against that decision, and the body as a whole resolved
+afterwards never to do it again.{% end %} Without the frame, it remains stranger
+and more interesting than punishment: four literatures, one stream of
+transmission, remembering the deluge as a deliberation. The flood the
 texts actually preserve was never simply wrath. It was a decision, taken by
 someone, carried out badly, and sworn off once it was done.
