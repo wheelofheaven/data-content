@@ -1,6 +1,6 @@
 +++
 title = "Myth Index"
-description = "A machine-readable CC0 index of 75 myth-motif attestations across 9 families — flood, divine council, theomachy, creation, giants — with Thompson motif cross-references."
+description = "A machine-readable CC0 index of 74 myth-motif attestations across 9 families — flood, divine council, theomachy, creation, giants — with Thompson motif cross-references."
 template = "dataset-page.html"
 
 [extra]
@@ -14,7 +14,7 @@ updated = "2026-11-20"
 keywords = ["myth index", "mythology dataset", "comparative mythology data", "Thompson Motif-Index", "flood myth", "divine council", "chaoskampf", "creation of humans", "giants", "tower of Babel", "digital humanities", "open data", "CC0 download"]
 
 stats = [
-    { label = "Attestations", value = "75" },
+    { label = "Attestations", value = "74" },
     { label = "Motif families", value = "9" },
     { label = "Fields", value = "13" },
     { label = "License", value = "CC0-1.0" },
@@ -43,7 +43,7 @@ Mediterranean, India, East Asia, Scandinavia, and the Americas.
 
 ## Motif families covered
 
-**Flood** (11), **divine council** (17), **theomachy** (8) — imported from the
+**Flood** (11), **divine council** (16), **theomachy** (8) — imported from the
 three specialized Wheel of Heaven concordances — plus six new families:
 **creation of humans** (9), **sky-descent** (6), **tower of Babel** (5),
 **giants** (7), **garden-paradise** (6), and the **immortality quest** (6).
@@ -59,9 +59,11 @@ full per-family column depth (survivor and vessel, council term and presiding
 figure, champion and weapon). The index row gives every family the same
 comparable shape.
 
-Version **1.1** reconciles the eleven flood summaries and their inspected
-scopes with Flood-Myth Concordance 1.2. The other families and the motif
-classifications have not been reassessed in this revision.
+Version **1.1** reconciled the eleven flood summaries and their inspected
+scopes with Flood-Myth Concordance 1.2. Version **1.2** reconciles the
+divine-council rows with Divine-Council Index 1.2 and withdraws the
+Hurrian-Hittite *Song of Emergence*, which has no assembly. The other families
+and the motif classifications have not been reassessed.
 
 ## The scholarly crosswalk
 
