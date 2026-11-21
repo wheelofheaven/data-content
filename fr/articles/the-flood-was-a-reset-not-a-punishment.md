@@ -11,7 +11,7 @@ translation_updated = "2026-11-11"
 source_updated = "2026-11-10"
 translation_stale = false
 translation_sync = 100
-core_versions = { woh-claim-0010 = "0.1.0" }
+core_versions = { woh-claim-0010 = "0.2.0" }
 core_claim_ids = ["woh-claim-0010"]
 claim_type = "inferred"
 editorial_pass = "2026-05"
@@ -19,10 +19,11 @@ author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
 article_type = "explainer"
 category = "Comparative"
-summary = "Lus de près, les plus anciens récits du déluge ne décrivent pas un dieu emporté par la colère. Ils décrivent une décision prise en assemblée, jurée sous serment et déclarée irrévocable ; un survivant à qui l'on remet des spécifications techniques précises et à qui l'on ordonne de charger *la semence de tous les êtres vivants* ; et — plus révélateur encore — un débat entre les planificateurs au cours duquel l'un d'eux soutient qu'un déluge est le *mauvais instrument*, disproportionné et indiscriminé, et nomme les solutions ciblées qui auraient dû être employées à la place. La *Légende du déluge* sumérienne, l'*Atraḫasīs* et le *Gilgamesh* XI babyloniens, le *Livre des Veilleurs* et la *Genèse* 6–9 partagent non pas une humeur mais une procédure. Cet Explicatif parcourt cette procédure ligne à ligne, prend au sérieux l'explication courante par la diffusion, puis lit la convergence à travers le cadre de Wheel of Heaven — comme le registre administratif d'une réinitialisation pilotée."
+summary = "Lus de près, les récits mésopotamiens du déluge ne décrivent pas un dieu emporté par la colère. La *Légende du déluge* sumérienne, l'*Atraḫasīs* et le *Gilgamesh* XI décrivent une décision prise en assemblée et liée par serment ; un survivant averti en marge de cette décision et muni d'instructions de construction précises ; et, dans *Gilgamesh*, une querelle après le déluge au cours de laquelle Ea le qualifie de *mauvais instrument* et nomme les solutions ciblées : lion, loup, famine, peste. La *Genèse* 6–9 et le *Livre des Veilleurs* conservent le survivant instruit et la semence préservée, mais placent la destruction et le sauvetage sous une seule autorité. Cet Explicatif lit ces traits texte par texte, prend au sérieux l'explication courante par la diffusion, puis les lit à travers le canon de Wheel of Heaven, dans lequel le monde d'origine décide de détruire la vie sur Terre, les créateurs exilés sauvent Noé contre cette décision, et le Conseil résout ensuite de ne plus jamais le faire."
 keywords = ["le déluge", "déluge", "Atrahasis", "Gilgamesh", "déluge de la Genèse", "Veilleurs", "hypothèse Élohim"]
 references = [
     { id = "the-book-which-tells-the-truth", locator = "Chapter 2 (The Flood; the cell-line preserved aboard a staged craft)" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 2 (¶25–28: the New Revelations; Satan's evidence before the Council of the Eternals, Yahweh's decision, Lucifer's group and Noah, the decision never again to destroy humanity)" },
     { id = "genesis", locator = "Genesis 6:1–9:17 (the Nephilim, the decree, the ark specifications, the offering, the covenant)" },
     { id = "atrahasis", locator = "Tablet I.i (the toil and the making); Tablet III (Ea's warning; the seven-day flood)" },
     { id = "epic-of-gilgamesh", locator = "Tablet XI, lines 8–206 (Utnapishtim's account of the flood)" },
@@ -68,7 +69,7 @@ population — l'éclaircir, la discipliner, en retirer une contamination
 précise — un déluge est à peu près le pire outil qu'on puisse choisir, car la
 seule chose qu'il ne sache pas faire, c'est discriminer.
 
-Le plus ancien récit de déluge que nous puissions encore lire dit exactement
+Le récit babylonien du déluge, dans *Gilgamesh* XI, dit exactement
 cela, à voix haute, dans la bouche de l'un des dieux qui l'ont planifié. Une
 fois les eaux retirées, une fois la barque du survivant échouée et son offrande
 fumante, l'assemblée des dieux se met à se quereller, et le plus sage d'entre
@@ -81,18 +82,17 @@ consigne la plainte sans broncher.
 Cet Explicatif suit cette plainte à rebours à travers les textes. L'argument
 n'est pas le plus familier, selon lequel de nombreuses cultures possèdent un
 mythe du déluge et ces mythes se trouvent rimer entre eux. Il est plus exigeant
-que cela. Dans leur strate la plus ancienne, les récits du déluge décrivent une
-procédure : une décision prise en conseil et jurée sous serment, déclarée hors
-d'appel ; un survivant sélectionné et muni d'instructions techniques précises ;
-une cargaison définie comme *la semence de tous les êtres vivants* ; et, autour
-de tout cela, un désaccord consigné sur la question de savoir si la méthode
-avait été proportionnée. Ce qu'ils décrivent, c'est une réinitialisation
-pilotée, menée par des planificateurs qui en étaient divisés, et qui, par la
-suite, remirent en question la manière dont ils l'avaient conduite. Je lirai les
-textes d'assez près pour faire apparaître cette procédure à travers quatre
-littératures, pèserai l'explication courante de sa récurrence, puis exposerai ce
-que le cadre de {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} en
-fait. Là où la lecture passe de ce que disent les mots à ce qu'ils pourraient
+que cela. Lus un par un, les récits du déluge décrivent des éléments d'une
+procédure : une décision prise en conseil et liée par serment ; un survivant
+sélectionné et muni d'instructions techniques précises ; une cargaison définie
+comme semence préservée ; et, dans la version babylonienne, un désaccord
+consigné sur la question de savoir si la méthode avait été proportionnée. Aucun
+texte ne contient tous ces éléments, et les textes ne les répartissent pas de la
+même manière. Les récits mésopotamiens opposent au décret un dieu sauveur. Les
+récits hébreu et hénochien mettent le décret et le sauvetage dans une même main.
+Je lirai les textes d'assez près pour montrer quel trait chacun porte, pèserai
+l'explication courante de leur récurrence, puis exposerai ce que le cadre de
+{% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} en fait. Là où la lecture passe de ce que disent les mots à ce qu'ils pourraient
 signifier, je marque la frontière.
 
 ## Le décret est pris en conseil, non dans la colère
@@ -201,7 +201,7 @@ Fais-toi une arche de bois de gopher. Fais l'arche avec des compartiments, et en
 
 Même coque enduite, même précision dimensionnelle, même intérieur ponté et
 compartimenté (« ponts inférieur, deuxième et troisième », {% libref(book="genesis-woh", chapter=6, verse=16) %}Genèse 6:16{% end %}). Et la même cargaison définitoire, énoncée deux fois et avec le
-but rattaché : les animaux sont amenés à bord, dans la plus ancienne des deux
+but rattaché : les oiseaux sont amenés à bord sept par sept, dans la plus ancienne des deux
 sources hébraïques du déluge, explicitement
 {% library(book="genesis-woh", chapter=7, verse=3, interlinear=true) %}
 pour conserver une semence en vie sur la face de toute la terre.
@@ -245,14 +245,13 @@ Ea concède que l'humanité était coupable ; sa querelle porte sur l'instrument
 Un déluge punit collectivement là où l'offense appelait une sélection, et il
 nomme les outils sélectifs l'un après l'autre — lion, loup, famine, peste —
 chacun capable d'éclaircir une population sans l'effacer. Le commentaire sur la
-tradition de l'Atraḫasīs{{ footnote(id="7") }} rend le point plus net encore : ces quatre
-solutions de rechange sont précisément les méthodes de contrôle de population
-que les dieux déploient *avant* de recourir au déluge dans l'épopée plus
-ancienne — d'abord la surpopulation est rencontrée par la peste, puis la
-sécheresse, puis la famine, et ce n'est que lorsque celles-ci échouent que le
-conseil escalade jusqu'au déluge total. Ea rappelle à Enlil qu'il disposait
-d'une panoplie graduée et qu'il a passé outre pour saisir l'instrument
-contondant.
+tradition de l'Atraḫasīs{{ footnote(id="7") }} rend le point plus net encore. Dans l'épopée plus ancienne, les dieux
+répondent à la population croissante d'abord par la peste, puis par la
+sécheresse et la famine, et ce n'est que lorsque celles-ci échouent que le
+conseil escalade jusqu'au déluge total. Deux des quatre solutions de rechange
+d'Ea, la famine et la peste, sont des mesures que cette épopée avait déjà
+montrées à l'œuvre. Ea rappelle à Enlil qu'une panoplie graduée existait et
+qu'il a passé outre pour saisir l'instrument contondant.
 
 C'est le langage d'un retour d'expérience, non d'une théodicée{{ footnote(id="8") }}. Les
 participants débattent de la question de savoir *si l'opération a été menée
@@ -271,8 +270,8 @@ s'effondre et renie son propre vote : « Comment ai-je pu proférer le mal dans
 l'assemblée des dieux — réclamant une bataille pour détruire mon propre
 peuple ! » Des agents exécutant une sentence juste ne se comportent pas ainsi.
 Ce sont des gens qui ont autorisé une méthode, l'ont vue échapper à leur
-contrôle, et ont reculé devant ce qu'ils avaient déchaîné. Dans son plus ancien
-récit, le déluge est une politique que ses propres auteurs regrettaient alors
+contrôle, et ont reculé devant ce qu'ils avaient déchaîné. Dans le récit
+babylonien, le déluge est une politique que ses propres auteurs regrettaient alors
 qu'elle se déroulait encore.
 
 ## Ce à quoi servait la purification : la terre corrompue d'Hénoch
@@ -348,9 +347,8 @@ une {% wiki(slug="noahic-covenant") %}alliance{% end %}.
 
 ## L'hébreu conserve la mécanique et réécrit la théologie
 
-Si la procédure est si constante à travers le matériau sumérien, babylonien et
-hénochien, la question naturelle est de savoir ce que la Genèse *fait* de cet
-héritage. La réponse aiguise tout ce qui précède. L'hébreu conserve la mécanique
+Le matériau sumérien, babylonien et hénochien une fois exposé, la question
+naturelle est de savoir ce que la Genèse *fait* de cet héritage. La réponse aiguise tout ce qui précède. L'hébreu conserve la mécanique
 presque intacte et reconstruit la théologie autour d'elle : l'ingénierie survit
 à la traversée ; la structure de gestion et la leçon tirée à la fin, non.
 
@@ -421,7 +419,7 @@ outil qui s'est révélé à la fois disproportionné et inefficace — l'accusa
 même qu'Ea avait portée contre Enlil, désormais prononcée par l'acteur hébraïque
 unique à lui-même.
 
-## Pourquoi la procédure tient-elle à travers quatre littératures ?
+## Pourquoi ces traits reviennent-ils à travers quatre littératures ?
 
 L'honnête réponse courante est la *diffusion*{{ footnote(id="11") }}, et elle est solide. Les textes
 sumérien, akkadien et hébraïque émergent d'un monde scribal continu et
@@ -449,11 +447,11 @@ qu'ils partagent une ascendance.
 
 Ce dont la diffusion rend compte et ce qu'elle laisse ouvert sont deux choses
 différentes. Elle explique pourquoi les textes plus tardifs ressemblent aux plus
-anciens. Elle ne dit rien sur le caractère de la strate la plus ancienne —
-pourquoi le récit fondateur dépeint déjà le déluge comme une décision
-administrative ratifiée, équipe son survivant de spécifications d'ingénierie et
-d'une cargaison de minimum génétique, et met en scène un argument technique
-entre les planificateurs sur la question de savoir si la méthode avait été
+anciens. Elle ne dit rien sur le caractère de la strate mésopotamienne —
+pourquoi ces récits dépeignent déjà le déluge comme une décision administrative
+ratifiée, équipent le survivant de spécifications de construction et d'une
+cargaison de semence préservée, et, dans *Gilgamesh*, mettent en scène un
+argument entre les planificateurs sur la question de savoir si la méthode avait été
 proportionnée. La diffusion nous dit que la procédure a été copiée. Elle ne nous
 dit pas pourquoi la chose copiée avait déjà la forme d'un journal d'opérations.
 
@@ -474,7 +472,7 @@ sonner administrativement pour commencer à se lire comme une administration qui
 fut ensuite théologisée.
 
 Dans cette lecture, la convergence n'est pas une énigme. Les récits du déluge
-partagent une procédure parce qu'ils sont les souvenirs comprimés et dégradés
+partagent ces traits parce qu'ils sont les souvenirs comprimés et dégradés
 d'*une seule opération* — et, plus exactement, d'un *différend politique* au sein
 du corps qui l'a conduite. Les fabricants ne sont pas une volonté unique mais un
 ensemble de parties aux vues opposées : une faction se résout à supprimer une
@@ -515,8 +513,9 @@ tutelle sur la {% wiki(slug="elohim-home-planet") %}« planète lointaine »{% e
 se résout à détruire la vie sur Terre, et le fait au moyen d'un armement
 nucléaire ; le déluge est l'*effet secondaire* de cette frappe, le raz-de-marée
 soulevé par l'explosion, et non une pluie moralisée. Une seconde faction, les
-exilés qui s'étaient liés à l'humanité, s'oppose à la décision, et — incapable de
-l'empêcher — prévient Noé et lui fait préserver « un couple de chaque espèce »,
+exilés qui s'étaient liés à l'humanité, apprend la décision à l'avance et,
+incapable de l'empêcher, fait construire un vaisseau à Noé et lui fait préserver
+« un couple de chaque espèce »,
 ce que le canon glose aussitôt en termes modernes :
 
 {% library(book="the-book-which-tells-the-truth", chapter=2, verse=58) %}
@@ -540,6 +539,25 @@ que les quatre littératures lues plus haut sont ce à quoi ressemble un tel
 journal après des milliers d'années de transmission par des gens qui avaient
 perdu les concepts pour décrire ce dont ils se souvenaient.
 
+Le récit ultérieur du canon nomme les parties. Dans les *Nouvelles Révélations*
+d'{% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=26) %}*Accueillir
+les extra-terrestres*{% end %}, {% wiki(slug="satan") %}Satan{% end %} apporte
+devant le Conseil des Éternels les preuves de la violence humaine, et
+{% wiki(slug="yahweh") %}Yahvé{% end %}, son président, décide de détruire la vie
+créée sur la Terre. Le groupe exilé de {% wiki(slug="lucifer") %}Lucifer{% end %}
+n'accepte pas la perte de sa création et aide Noé à construire le vaisseau. Ce
+n'est qu'après l'événement que le Conseil change de cap :
+
+{% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=28) %}
+Ils décident alors que plus jamais ils n'essaieront de détruire l'humanité, et
+aident l'équipe de Lucifer à réimplanter sur Terre les formes de vie qui ont été
+préservées dans « l'arche ».
+{% end %}
+
+La décision du Conseil était la destruction. La réinitialisation est ce que les
+exilés en ont fait, et ce que le Conseil a adopté une fois la destruction
+accomplie.
+
 C'est la lecture vers laquelle l'essai a tendu, et il faut la dire sans détour.
 Le Déluge n'est pas la colère d'un seul être — et il ne suffit pas de répondre
 que le Dieu unique de la Genèse était « en réalité » plusieurs dieux, car
@@ -559,17 +577,17 @@ là où un lion en aurait pris quelques-uns. Rien de tout cela ne fait des Éloh
 des seigneurs de guerre ; le corpus ne décrit pas une civilisation portée à la
 conquête. Mais la sophistication n'est pas l'absence de désaccord. Des
 convictions opposées, tenues avec assez de force, peuvent finir là où cet essai a
-commencé : dans une arme qui ne peut viser. La première : ce n'est pas la lecture
+commencé : dans une arme qui ne peut viser. Deux précisions s'imposent. La première : ce n'est pas la lecture
 des « {% wiki(slug="ancient-astronaut-hypothesis") %}anciens astronautes{% end %} »
 de la littérature marginale populaire, une lignée que l'appareil même du corpus
 désavoue explicitement. Ce n'est pas la lecture que fait Sitchin des {% wiki(slug="anunnaki") %}*Anunnaki*{% end %}{{ footnote(id="12") }} sumériens,
 et elle ne trouve aucun vocabulaire d'ingénierie caché
 sous les noms divins. Le dossier repose sur la seule forme narrative
-— sur le fait que le plus ancien récit du déluge est bâti comme une décision, une
-exécution et une revue. La seconde : la lecture serrée ne dépend pas du tout du
+— sur le fait que les récits mésopotamiens du déluge sont bâtis comme une
+décision, une exécution et une revue. La seconde : la lecture serrée ne dépend pas du tout du
 cadre. Un lecteur qui trouve la reconstruction du canon un pont de trop peut
-encore conserver l'observation porteuse, à savoir que ces textes, dans leur
-strate la plus ancienne, présentent le déluge comme une opération délibérée,
+encore conserver l'observation porteuse, à savoir que les textes mésopotamiens
+présentent le déluge comme une opération délibérée,
 contestée et conservatrice de semence plutôt que comme la colère d'un absolu
 offensé. Le cadre fournit un motif à cette forme ; la forme est dans les textes,
 qu'on accepte ou non le motif.
@@ -609,18 +627,20 @@ théologique délibéré, et non d'un simple oubli. La prétention du cadre port
 la *strate la plus ancienne et sa forme*, non sur l'exigence que le sens propre
 de la tradition hébraïque soit écarté.
 
-Enfin, l'objection scientifique, décisive sur un point et muette sur un autre. Il
-n'y a pas eu de déluge planétaire ; le registre géologique est sans ambiguïté, et
-le dossier est exposé de façon accessible par Montgomery, un géologue écrivant
-précisément sur le déluge de Noé. Rien dans cet Explicatif n'affirme le
-contraire, et le récit propre du canon n'est notablement *pas* une prétention de
-déluge planétaire au sens créationniste de la jeune-Terre — il décrit un
-cataclysme régional et un cheptel préservé, non une planète uniformément couverte
-jusqu'aux sommets. Ce que la géologie exclut, c'est la lecture littéraliste. Ce
-qu'elle n'aborde pas, c'est pourquoi la tradition littéraire, à travers quatre
-corpus, se souvient de l'événement sous la forme spécifique d'une
-réinitialisation pilotée. C'est une question pour les textes, et les textes y
-répondent de manière constante.
+Enfin, l'objection scientifique. La géologie courante ne trouve aucune couche
+de déluge planétaire, et le dossier est exposé de façon accessible par
+Montgomery, un géologue écrivant précisément sur le déluge de Noé. Le récit du
+canon n'est pas le déluge créationniste de la jeune-Terre que Montgomery met à
+l'épreuve : il n'y a pas de pluie couvrant la planète jusqu'aux sommets. Il
+décrit une frappe venue du monde d'origine, dont l'explosion a soulevé un
+raz-de-marée qui a détruit toute vie sur la surface émergée du continent unique,
+avec des conséquences pour les continents eux-mêmes que le corpus traite dans
+son entrée sur la {% wiki(slug="pangaea") %}Pangée{% end %}. La géologie courante
+n'accepte pas non plus ce récit, et le corpus y consigne le désaccord. Ce que la
+géologie n'aborde pas, c'est pourquoi la tradition littéraire, à travers quatre
+corpus, se souvient de l'événement comme d'une décision, d'un avertissement
+donné en la contournant et d'un cheptel préservé. C'est une question pour les
+textes, et cet essai a tenté d'y répondre texte par texte.
 
 ## Conclusion
 
@@ -628,7 +648,7 @@ Dans sa strate lisible la plus ancienne, le déluge n'est pas l'histoire d'un di
 emporté par la colère. Un corps prend une décision selon une procédure et se lie
 par serment ; un survivant reçoit une fiche de construction et une cargaison
 définie comme semence préservée ; la méthode est exécutée et déborde le contrôle
-de ceux qui l'ont ordonnée ; et ensuite — dans le tout premier récit complet —
+de ceux qui l'ont ordonnée ; et ensuite — dans *Gilgamesh* XI —
 ces gens débattent de la question de savoir si elle avait jamais été la bonne
 méthode, nommant à voix haute les solutions graduées et sélectives. La tradition
 hébraïque absorbe toute la machinerie et travaille soigneusement la théologie qui
@@ -638,11 +658,12 @@ identique de la nature humaine la conclusion opposée : que l'instrument avait
 autres perdent, et la donne comme décontamination — *guéris la terre, que les
 Veilleurs ont corrompue, afin que sa semence subsiste.*
 
-{% claim(type="framework", id="woh-claim-0010") %}À travers le cadre, voici ce qui survit d'une opération réelle : une
-réinitialisation pilotée par des fabricants de capacité haute mais finie qui ont
-décidé, exécuté, préservé une lignée, et se sont brouillés entre eux sur le coût.{% end %}
-Sans le cadre, cela demeure plus étrange et plus intéressant qu'un châtiment —
-quatre littératures, indépendamment, se souvenant du déluge comme d'une
-délibération plutôt que d'une crise de colère. Le déluge que les textes préservent
+{% claim(type="framework", id="woh-claim-0010") %}À travers le cadre, voici ce qui survit d'une opération réelle menée
+par des fabricants de capacité haute mais finie : une partie a décidé de
+détruire, une autre a préservé une lignée contre cette décision, et le corps
+tout entier a résolu ensuite de ne plus jamais le faire.{% end %}
+Sans le cadre, cela demeure plus étrange et plus intéressant qu'un châtiment :
+quatre littératures, un seul courant de transmission, se souvenant du déluge
+comme d'une délibération. Le déluge que les textes préservent
 réellement ne fut jamais simplement une colère. Ce fut une décision, prise par
 quelqu'un, mal exécutée, et abjurée une fois accomplie.
