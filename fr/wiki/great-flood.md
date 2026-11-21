@@ -559,6 +559,10 @@ La lecture du Déluge du corpus est positionnée dans ce paysage comme suit : al
 
 Les récits de déluge apparaissent à travers plus de deux cents cultures distinctes dans le monde, avec des parallèles structurels et détaillés substantiels au récit génésien de la Bible hébraïque. Le corpus lit ce schéma interculturel comme preuve substantielle de la réalité historique sous-jacente que décrit le cadre. Les principaux cas interculturels méritent un traitement.
 
+{% info(title="Explorer les données") %}
+Les traditions comparées ci-dessous sont présentées côte à côte dans la [Flood-Myth Concordance](/datasets/flood-myths/), un jeu de données CC0 téléchargeable réunissant onze récits écrits du déluge, avec références des passages et états de la preuve pour le survivant, la puissance qui décrète, l'avertisseur, la cause, l'embarcation, les oiseaux lâchés, le lieu d'arrivée et les suites.
+{% end %}
+
 ### Les traditions mésopotamiennes du déluge
 
 Les traditions mésopotamiennes du déluge fournissent les parallèles les plus substantiellement développés au récit génésien de la Bible hébraïque, avec des preuves textuelles substantielles préservées dans des tablettes cunéiformes datant du troisième millénaire av. J.-C. au premier millénaire av. J.-C.

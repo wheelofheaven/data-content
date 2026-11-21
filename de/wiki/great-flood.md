@@ -559,6 +559,10 @@ Die Sintflut-Lesart des Korpus ist innerhalb dieser Landschaft wie folgt verorte
 
 Sintflut-Erzählungen erscheinen in weltweit mehr als zweihundert distinkten Kulturen, mit substantiellen strukturellen und detaillierten Parallelen zum Genesis-Bericht der hebräischen Bibel. Der Korpus liest dieses kulturübergreifende Muster als substantiellen Hinweis auf die zugrundeliegende historische Realität, die der Rahmen beschreibt. Die wichtigsten kulturübergreifenden Fälle verdienen Behandlung.
 
+{% info(title="Die Daten erkunden") %}
+Die unten verglichenen Traditionen sind in der [Flood-Myth Concordance](/datasets/flood-myths/) nebeneinander tabelliert — einem herunterladbaren CC0-Datensatz mit elf schriftlich überlieferten Flutberichten, mit Stellenangaben und Belegstatus für Überlebenden, beschließende Macht, Warner, Ursache, Fahrzeug, ausgesandte Vögel, Landeplatz und Nachwirkungen.
+{% end %}
+
 ### Die mesopotamischen Sintflut-Traditionen
 
 Die mesopotamischen Sintflut-Traditionen liefern die substantiell am stärksten entwickelten Parallelen zur Genesis-Erzählung der hebräischen Bibel, mit substantiellen textlichen Belegen, die in Keilschrifttafeln aus dem dritten bis ersten Jahrtausend v. u. Z. erhalten sind.

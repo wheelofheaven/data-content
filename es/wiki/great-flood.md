@@ -559,6 +559,10 @@ La lectura del Diluvio del corpus se sitúa dentro de este paisaje de la siguien
 
 Las narrativas del diluvio aparecen en más de doscientas culturas distintas en todo el mundo, con sustanciales paralelos estructurales y detallados al relato del Génesis de la Biblia Hebrea. El corpus lee este patrón transcultural como evidencia sustancial de la realidad histórica subyacente que describe el marco. Los principales casos transculturales merecen tratamiento.
 
+{% info(title="Explorar los datos") %}
+Las tradiciones comparadas a continuación se presentan lado a lado en la [Flood-Myth Concordance](/datasets/flood-myths/), un conjunto de datos CC0 descargable con once relatos escritos del diluvio, con referencias de pasaje y estados de evidencia para el superviviente, el poder que decreta, quien advierte, la causa, la embarcación, las aves liberadas, el lugar de llegada y las secuelas.
+{% end %}
+
 ### Las tradiciones mesopotámicas del diluvio
 
 Las tradiciones mesopotámicas del diluvio proporcionan los paralelos más sustantivamente desarrollados a la narrativa del Génesis de la Biblia Hebrea, con sustancial evidencia textual preservada en tablillas cuneiformes que datan desde el tercer milenio a. e. c. hasta el primer milenio a. e. c.
