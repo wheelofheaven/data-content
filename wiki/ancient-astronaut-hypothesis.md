@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 core_claim_ids = ["woh-claim-0001"]
-core_versions = { woh-claim-0001 = "0.2.1" }
+core_versions = { woh-claim-0001 = "0.2.2" }
 same_as = ["https://www.wikidata.org/wiki/Q646988", "https://en.wikipedia.org/wiki/Ancient_astronauts"]
 editorial_pass = "2026-07"
 claim_type = "direct"
