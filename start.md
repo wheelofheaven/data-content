@@ -14,14 +14,14 @@ cta_label = "Open the timeline"
 +++
 
 {% route(label="Ten minutes, five steps", unit="min") %}
-1-the-premise-and-who-is-making-it | The premise, and who is making it | 1
-2-how-to-tell-a-source-from-an-interpretation | How to tell a source from an interpretation | 2
-3-one-verse-read-closely | One verse, read closely | 3
-4-the-strongest-case-against | The strongest case against | 2
-5-where-to-go-next | Where to go next | 2
+premise | The premise, and who is making it | 1
+labels | How to tell a source from an interpretation | 2
+verse | One verse, read closely | 3
+against | The strongest case against | 2
+next | Where to go next | 2
 {% end %}
 
-## 1. The premise, and who is making it
+## 1. The premise, and who is making it {#premise}
 
 *About one minute.*
 
@@ -37,7 +37,7 @@ The standing | Not an official publication of the Raëlian Movement.
 
 The [About](/about/) and [author](/author/zara-zinsfuss/) pages give the details.
 
-## 2. How to tell a source from an interpretation
+## 2. How to tell a source from an interpretation {#labels}
 
 *About two minutes.*
 
@@ -62,7 +62,7 @@ A long page contains claims of more than one kind.
 The labels mark the ones an argument rests on; the prose marks the others as it goes, with phrases such as "on this reading" or "mainstream scholarship holds".
 The [Method](/method/) page explains the labels in full.
 
-## 3. One verse, read closely
+## 3. One verse, read closely {#verse}
 
 *About three minutes.*
 
@@ -105,7 +105,7 @@ The plural speech recurs at the same kind of moment: at the making of humanity, 
 Each time, the plural speakers decide something about humankind and then act on it.
 The Raëlian Messages give the same account of the creation independently of the grammar.
 
-## 4. The strongest case against
+## 4. The strongest case against {#against}
 
 *About two minutes.*
 
@@ -124,7 +124,7 @@ Held by | Most biblical scholars today | The Raëlian Messages and Wheel of Heav
 
 Nothing in the Hebrew alone decides between them, and the [Elohim](/wiki/elohim/#what-would-revise-this-reading) entry lists the findings that would weaken the project's reading.
 
-## 5. Where to go next
+## 5. Where to go next {#next}
 
 *About two minutes.*
 
