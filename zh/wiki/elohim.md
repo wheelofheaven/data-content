@@ -13,7 +13,7 @@ translation_stale = false
 translation_sync = 100
 same_as = ["https://www.wikidata.org/wiki/Q868915", "https://en.wikipedia.org/wiki/Elohim", "https://www.britannica.com/topic/Elohim"]
 claim_type = "framework"
-core_versions = { woh-claim-0001 = "0.2.0", woh-claim-0009 = "0.1.1", woh-claim-0030 = "0.1.0" }
+core_versions = { woh-claim-0001 = "0.2.1", woh-claim-0009 = "0.1.1", woh-claim-0030 = "0.1.0" }
 core_claim_ids = ["woh-claim-0001", "woh-claim-0009", "woh-claim-0030"]
 featured_order = 1
 category = "Elohim"
