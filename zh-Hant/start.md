@@ -75,7 +75,7 @@ claim:speculative | 超出任何單一資料的綜合。
 動詞 *na'aseh*「讓我們造」是第一人稱複數，所有格 *be-tzalmenu*（「按我們的形象」）與 *ki-dmutenu*（「依我們的樣式」）也是。
 這些形式並無爭議。
 
-{% interlinear(lang="he", dir="rtl", caption="《創世記》1:26 的開頭數詞，由右向左讀。標記的形式為複數。") %}
+{% interlinear(script="he", dir="rtl", caption="《創世記》1:26 的開頭數詞，由右向左讀。標記的形式為複數。") %}
 וַיֹּאמֶר | vayyomer | 並說 | 動詞，單數
 אֱלֹהִים | Elohim | 耶洛因 | 名詞，形式上為複數 | *
 נַעֲשֶׂה | na'aseh | 讓我們造 | 動詞，複數 | *

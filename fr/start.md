@@ -75,7 +75,7 @@ Celui qui parle est *Elohim*, un nom de forme plurielle.
 Le verbe *na'aseh*, « faisons », est à la première personne du pluriel, de même que les possessifs *be-tzalmenu* (« à notre image ») et *ki-dmutenu* (« selon notre ressemblance »).
 Ces formes ne sont pas contestées.
 
-{% interlinear(lang="he", dir="rtl", caption="Les premiers mots de Genèse 1:26, lus de droite à gauche. Les formes marquées sont au pluriel.") %}
+{% interlinear(script="he", dir="rtl", caption="Les premiers mots de Genèse 1:26, lus de droite à gauche. Les formes marquées sont au pluriel.") %}
 וַיֹּאמֶר | vayyomer | et dit | verbe, singulier
 אֱלֹהִים | Elohim | Elohim | nom, de forme plurielle | *
 נַעֲשֶׂה | na'aseh | faisons | verbe, pluriel | *

@@ -75,7 +75,7 @@ El hablante es *Elohim*, un sustantivo de forma plural.
 El verbo *na'aseh*, «hagamos», está en primera persona del plural, y también lo están los posesivos *be-tzalmenu* («a nuestra imagen») y *ki-dmutenu* («según nuestra semejanza»).
 Estas formas no están en discusión.
 
-{% interlinear(lang="he", dir="rtl", caption="Las primeras palabras de Génesis 1:26, leídas de derecha a izquierda. Las formas marcadas son plurales.") %}
+{% interlinear(script="he", dir="rtl", caption="Las primeras palabras de Génesis 1:26, leídas de derecha a izquierda. Las formas marcadas son plurales.") %}
 וַיֹּאמֶר | vayyomer | y dijo | verbo, singular
 אֱלֹהִים | Elohim | Elohim | sustantivo, de forma plural | *
 נַעֲשֶׂה | na'aseh | hagamos | verbo, plural | *

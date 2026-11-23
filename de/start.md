@@ -75,7 +75,7 @@ Der Sprecher ist *Elohim*, ein Substantiv von pluralischer Form.
 Das Verb *na'aseh*, „lasst uns machen", steht in der ersten Person Plural, ebenso die Possessivformen *be-tzalmenu* („in unserem Bild") und *ki-dmutenu* („nach unserem Ebenbild").
 Diese Formen sind unstrittig.
 
-{% interlinear(lang="he", dir="rtl", caption="Die ersten Worte von Genesis 1,26, von rechts nach links gelesen. Die markierten Formen stehen im Plural.") %}
+{% interlinear(script="he", dir="rtl", caption="Die ersten Worte von Genesis 1,26, von rechts nach links gelesen. Die markierten Formen stehen im Plural.") %}
 וַיֹּאמֶר | vayyomer | und sagte | Verb, Singular
 אֱלֹהִים | Elohim | Elohim | Substantiv, der Form nach Plural | *
 נַעֲשֶׂה | na'aseh | lasst uns machen | Verb, Plural | *

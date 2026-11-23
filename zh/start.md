@@ -75,7 +75,7 @@ claim:speculative | 超出任何单一源头的综合。
 动词 *na'aseh*（「让我们造」）是第一人称复数，所有格 *be-tzalmenu*（「按我们的形象」）与 *ki-dmutenu*（「依我们的样式」）也是如此。
 这些形式本身并无争议。
 
-{% interlinear(lang="he", dir="rtl", caption="《创世记》1:26 的开头几个词，从右向左读。带标记的形式是复数。") %}
+{% interlinear(script="he", dir="rtl", caption="《创世记》1:26 的开头几个词，从右向左读。带标记的形式是复数。") %}
 וַיֹּאמֶר | vayyomer | 说 | 动词，单数
 אֱלֹהִים | Elohim | 耶洛因 | 名词，形式上为复数 | *
 נַעֲשֶׂה | na'aseh | 让我们造 | 动词，复数 | *

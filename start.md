@@ -75,7 +75,7 @@ The speaker is *Elohim*, a noun plural in form.
 The verb *na'aseh*, "let us make", is first-person plural, and so are the possessives *be-tzalmenu* ("in our image") and *ki-dmutenu* ("according to our likeness").
 These forms are not in dispute.
 
-{% interlinear(lang="he", dir="rtl", caption="The opening words of Genesis 1:26, read from right to left. The marked forms are plural.") %}
+{% interlinear(script="he", dir="rtl", caption="The opening words of Genesis 1:26, read from right to left. The marked forms are plural.") %}
 וַיֹּאמֶר | vayyomer | and said | verb, singular
 אֱלֹהִים | Elohim | Elohim | noun, plural in form | *
 נַעֲשֶׂה | na'aseh | let us make | verb, plural | *
