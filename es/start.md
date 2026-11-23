@@ -13,34 +13,56 @@ cta_url = "/timeline/"
 cta_label = "Abrir la cronología"
 +++
 
-## 1. La premisa, y quién la propone
+{% route(label="Diez minutos, cinco pasos", unit="min") %}
+premise | La premisa, y quién la propone | 1
+labels | Cómo distinguir una fuente de una interpretación | 2
+verse | Un versículo, leído de cerca | 3
+against | La objeción más sólida | 2
+next | Adónde ir después | 2
+{% end %}
+
+## 1. La premisa, y quién la propone {#premise}
 
 *Alrededor de un minuto.*
 
 Wheel of Heaven propone que los seres a los que el Génesis llama {% wiki(slug="elohim") %}Elohim{% end %} eran una pequeña civilización humana tecnológicamente avanzada procedente de otro mundo.
 Diseñaron la vida en la Tierra, incluida la humanidad, y los textos religiosos de muchas tradiciones conservan recuerdos comprimidos de su trabajo.
 
-La propuesta procede de los Mensajes raelianos, publicados por Claude Vorilhon (Raël) a partir de 1974.
-El sitio lee el material antiguo a través de esa lente y lo dice abiertamente.
-Lo escribe un único autor {% wiki(slug="raelism") %}raeliano{% end %}, bajo seudónimo y con ayuda de IA, y no es una publicación oficial del Movimiento Raeliano.
+{% rows() %}
+La fuente | Los Mensajes raelianos, publicados por Claude Vorilhon (Raël) a partir de 1974.
+El método | El sitio lee el material antiguo a través de esa lente y lo dice abiertamente.
+El autor | Un único autor [raeliano](/es/wiki/raelism/), bajo seudónimo y con ayuda de IA.
+La condición | No es una publicación oficial del Movimiento Raeliano.
+{% end %}
+
 Las páginas [Acerca de](/es/about/) y del [autor](/es/author/zara-zinsfuss/) ofrecen los detalles.
 
-## 2. Cómo distinguir una fuente de una interpretación
+## 2. Cómo distinguir una fuente de una interpretación {#labels}
 
 *Alrededor de dos minutos.*
 
-Cada página lleva una insignia para el tipo de afirmación que hace principalmente:
+Las afirmaciones se etiquetan allí donde se hacen, como uno de cuatro tipos.
+Una frase etiquetada lleva un subrayado fino del color de la etiqueta y un punto; toca el punto para ver qué significa la etiqueta.
 
-- **Directa**: enunciada en una fuente primaria e incontrovertida. *La palabra hebrea* elohim *es de forma plural.*
-- **Marco**: enunciada en el canon raeliano, pero no aceptada por la erudición convencional. *Los Elohim son una civilización de seres físicos.*
-- **Inferida**: una lectura razonable de una fuente que la fuente no enuncia con esas palabras. *La torre de Babel se construyó como ofrenda de paz a los creadores.*
-- **Especulativa**: una síntesis que va más allá de cualquier fuente aislada. *Los relatos de combate divino de Grecia, Mesopotamia y Canaán recuerdan el mismo conflicto.*
+{% rows() %}
+claim:direct | Enunciada en una fuente primaria e incontrovertida.
+claim:framework | Enunciada en el canon raeliano, pero no aceptada por la erudición convencional.
+claim:inferred | Una lectura razonable de una fuente que la fuente no enuncia con esas palabras.
+claim:speculative | Una síntesis que va más allá de cualquier fuente aislada.
+{% end %}
+
+Un ejemplo de cada una, etiquetado como lo estaría en una entrada:
+
+- {% claim(type="direct") %}La palabra hebrea *elohim* es de forma plural.{% end %}
+- {% claim(type="framework") %}Los Elohim son una civilización de seres físicos.{% end %}
+- {% claim(type="inferred") %}La torre de Babel se construyó como ofrenda de paz a los creadores.{% end %}
+- {% claim(type="speculative") %}Los relatos de combate divino de Grecia, Mesopotamia y Canaán recuerdan el mismo conflicto.{% end %}
 
 Una página larga contiene afirmaciones de más de un tipo.
-La insignia nombra la principal; la prosa marca las demás a medida que avanza, con expresiones como «según esta lectura» o «la erudición convencional sostiene».
+Las etiquetas marcan aquellas en las que se apoya un argumento; la prosa marca las demás a medida que avanza, con expresiones como «según esta lectura» o «la erudición convencional sostiene».
 La página [El método](/es/method/) explica las etiquetas en su totalidad.
 
-## 3. Un versículo, leído de cerca
+## 3. Un versículo, leído de cerca {#verse}
 
 *Alrededor de tres minutos.*
 
@@ -53,8 +75,25 @@ El hablante es *Elohim*, un sustantivo de forma plural.
 El verbo *na'aseh*, «hagamos», está en primera persona del plural, y también lo están los posesivos *be-tzalmenu* («a nuestra imagen») y *ki-dmutenu* («según nuestra semejanza»).
 Estas formas no están en discusión.
 
+{% interlinear(script="he", dir="rtl", caption="Las primeras palabras de Génesis 1:26, leídas de derecha a izquierda. Las formas marcadas son plurales.") %}
+וַיֹּאמֶר | vayyomer | y dijo | verbo, singular
+אֱלֹהִים | Elohim | Elohim | sustantivo, de forma plural | *
+נַעֲשֶׂה | na'aseh | hagamos | verbo, plural | *
+אָדָם | adam | ser humano | sustantivo, singular
+בְּצַלְמֵנוּ | be-tzalmenu | a nuestra imagen | «nuestra», plural | *
+כִּדְמוּתֵנוּ | ki-dmutenu | según nuestra semejanza | «nuestra», plural | *
+{% end %}
+
 **Cómo se lee habitualmente.**
-Los lectores han resuelto el plural de cuatro maneras principales: como un «nosotros» regio (un plural mayestático), como un anuncio anticipado de la Trinidad, como Dios dirigiéndose a un consejo de seres celestiales que lo asisten, o como una pluralidad literal de creadores.
+Los lectores han resuelto el plural de cuatro maneras principales:
+
+{% rows() %}
+Un «nosotros» regio | Un plural mayestático: un solo hablante que usa el plural para referirse a sí mismo.
+La Trinidad | Un anuncio anticipado de las tres personas del Dios cristiano.
+Un consejo | Dios dirigiéndose a un consejo de seres celestiales que lo asisten. | La mayoría de los biblistas actuales
+Creadores plurales | Una pluralidad literal: más de un creador. | !Wheel of Heaven
+{% end %}
+
 La mayoría de los biblistas actuales prefieren la lectura del consejo y la comparan con las asambleas celestiales del {% libref(book="psalms", chapter=82, verse=1) %}Salmo 82{% end %} y de {% libref(book="1-kings", chapter=22, verse=19) %}1 Reyes 22{% end %}.
 
 **Lo que propone Wheel of Heaven.**
@@ -66,7 +105,7 @@ El habla en plural reaparece en el mismo tipo de momento: en la creación de la 
 Cada vez, los hablantes en plural deciden algo sobre el ser humano y luego actúan en consecuencia.
 Los Mensajes raelianos dan el mismo relato de la creación con independencia de la gramática.
 
-## 4. La objeción más sólida
+## 4. La objeción más sólida {#against}
 
 *Alrededor de dos minutos.*
 
@@ -76,15 +115,23 @@ Para la mayoría de los lectores, eso zanja la cuestión: el sustantivo es plura
 
 Wheel of Heaven acepta la gramática y no basa su argumento en la forma plural.
 Lo basa en los pasajes en los que el texto habla en plural y en el relato raeliano, que lee los verbos en singular como el habla de un único representante que actúa en nombre del grupo.
-La lectura del consejo y la de los creadores plurales toman ambas en serio el plural; discrepan sobre quiénes estaban presentes.
+
+{% compare(left="La lectura del consejo", right="La lectura de los creadores plurales", shared="Ambas toman en serio el plural. Discrepan sobre quiénes estaban presentes.") %}
+¿Quién dice «nosotros»? | Un solo Dios, a un consejo de seres subordinados | Los creadores, entre sí
+Los verbos en singular | Un solo Dios actúa | Un único representante actúa en nombre del grupo
+Sostenida por | La mayoría de los biblistas actuales | Los Mensajes raelianos y Wheel of Heaven
+{% end %}
+
 Nada en el hebreo por sí solo permite decidir entre ellas, y la entrada [Elohim](/es/wiki/elohim/#what-would-revise-this-reading) enumera los hallazgos que debilitarían la lectura del proyecto.
 
-## 5. Adónde ir después
+## 5. Adónde ir después {#next}
 
 *Alrededor de dos minutos.*
 
-- **Sigue la historia.** La [cronología](/es/timeline/) la cuenta en doce capítulos, uno por cada era precesional.
-- **Consulta los términos.** La entrada [Elohim](/es/wiki/elohim/) es la página más enlazada del sitio; la [enciclopedia](/es/wiki/) tiene unas 150 entradas.
-- **Lee las fuentes.** La [biblioteca](/es/library/) reúne los libros raelianos y nuevas traducciones del Génesis y de otros textos, con la lengua original al lado y notas sobre cada palabra disputada.
-- **Mira el método en toda su extensión.** [Sendy y los Mensajes raelianos](/es/articles/sendy-and-the-raelian-messages/) compara pasaje por pasaje el primer libro raeliano con la obra anterior de Jean Sendy y sopesa los argumentos de que Raël tomara prestado de Sendy.
-- **Usa los datos.** El [Índice del Consejo Divino](/datasets/divine-council-index/) enumera consejos divinos en doce tradiciones con la ubicación en las fuentes, en CSV y JSON, para que cualquiera pueda verificarlos o reutilizarlos.
+{% rows() %}
+Sigue la historia | La [cronología](/es/timeline/) la cuenta en doce capítulos, uno por cada era precesional. | | timeline
+Consulta los términos | La entrada [Elohim](/es/wiki/elohim/) es la página más enlazada del sitio; la [enciclopedia](/es/wiki/) tiene unas 150 entradas. | | wiki
+Lee las fuentes | La [biblioteca](/es/library/) reúne los libros raelianos y nuevas traducciones del Génesis y de otros textos, con la lengua original al lado y notas sobre cada palabra disputada. | | library
+Mira el método en toda su extensión | [Sendy y los Mensajes raelianos](/es/articles/sendy-and-the-raelian-messages/) compara pasaje por pasaje el primer libro raeliano con la obra anterior de Jean Sendy y sopesa los argumentos de que Raël tomara prestado de Sendy. | | articles
+Usa los datos | El [Índice del Consejo Divino](/datasets/divine-council-index/) enumera consejos divinos en doce tradiciones con la ubicación en las fuentes, en CSV y JSON, para que cualquiera pueda verificarlos o reutilizarlos. | | datasets
+{% end %}
