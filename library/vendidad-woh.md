@@ -7,6 +7,9 @@ date = 2026-11-01
 
 [extra]
 same_as = ["https://www.wikidata.org/wiki/Q1193983", "https://en.wikipedia.org/wiki/Vendidad", "https://www.britannica.com/topic/Videvdat"]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/vendidad-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/vendidad-woh"
+dataset_license = "CC0"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "zoroastrian"

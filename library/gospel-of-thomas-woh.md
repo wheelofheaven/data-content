@@ -7,6 +7,9 @@ date = 2026-11-01
 
 [extra]
 same_as = ["https://www.wikidata.org/wiki/Q131546", "https://en.wikipedia.org/wiki/Gospel_of_Thomas", "https://www.britannica.com/topic/Gospel-of-Thomas", "https://viaf.org/viaf/303438479"]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/gospel-of-thomas-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/gospel-of-thomas-woh"
+dataset_license = "CC BY 4.0"
 translation_status = "complete"
 claim_type = "direct"
 source_family = "christian"

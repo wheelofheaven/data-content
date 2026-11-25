@@ -7,6 +7,9 @@ date = 2026-06-01
 
 [extra]
 same_as = ["https://www.wikidata.org/wiki/Q10436112", "https://en.wikipedia.org/wiki/Eridu_Genesis"]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/flood-story-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/flood-story-woh"
+dataset_license = "CC0"
 translation_status = "complete"
 claim_type = "direct"
 source_family = "ane"

@@ -7,6 +7,9 @@ date = 2026-11-02
 
 [extra]
 same_as = ["https://www.wikidata.org/wiki/Q131737"]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/tobit-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/tobit-woh"
+dataset_license = "CC BY-SA 4.0"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "abrahamic"

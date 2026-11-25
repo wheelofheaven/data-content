@@ -7,6 +7,9 @@ date = 2026-11-01
 
 [extra]
 same_as = ["https://www.wikidata.org/wiki/Q179769"]
+hf_dataset = "https://huggingface.co/datasets/wheelofheaven/zechariah-woh"
+kaggle_dataset = "https://www.kaggle.com/datasets/zarazinsfuss/zechariah-woh"
+dataset_license = "CC0"
 translation_status = "partial"
 claim_type = "direct"
 source_family = "abrahamic"
