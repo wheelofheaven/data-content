@@ -7,6 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
+translation_updated = "2026-11-25"
+source_updated = "2026-11-25"
+translation_stale = false
+translation_sync = 100
 card_summary = "La terre, la monnaie et l'organisation technique : des réformateurs économiques considérés à côté du bail de quarante-neuf ans du canon."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0055"]

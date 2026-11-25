@@ -7,6 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
+translation_updated = "2026-11-25"
+source_updated = "2026-11-25"
+translation_stale = false
+translation_sync = 100
 card_summary = "קרקע, כסף וארגון טכנולוגי: רפורמטורים כלכליים הנבחנים לצד החכירה בת ארבעים ותשע השנים של הקנון."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0055"]

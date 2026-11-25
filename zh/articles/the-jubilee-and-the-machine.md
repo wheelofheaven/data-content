@@ -7,6 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
+translation_updated = "2026-11-25"
+source_updated = "2026-11-25"
+translation_stale = false
+translation_sync = 100
 card_summary = "土地、货币与技术组织：把历代经济改革者与正典的四十九年租约并置而观。"
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0055"]

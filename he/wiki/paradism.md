@@ -7,8 +7,8 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-translation_updated = "2026-11-12"
-source_updated = "2026-11-08"
+translation_updated = "2026-11-25"
+source_updated = "2026-11-25"
 translation_stale = false
 translation_sync = 100
 editorial_pass = "2026-05"

@@ -7,6 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
+translation_updated = "2026-11-25"
+source_updated = "2026-11-25"
+translation_stale = false
+translation_sync = 100
 card_summary = "土地、貨幣、そして技術による組織化。経済改革者たちを、カノンの四十九年の賃借と並べて考察します。"
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0055"]

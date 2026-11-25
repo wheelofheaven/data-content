@@ -7,6 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
+translation_updated = "2026-11-25"
+source_updated = "2026-11-25"
+translation_stale = false
+translation_sync = 100
 card_summary = "Tierra, dinero y organización tecnológica: los reformadores económicos leídos junto al arrendamiento de cuarenta y nueve años del canon."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0055"]

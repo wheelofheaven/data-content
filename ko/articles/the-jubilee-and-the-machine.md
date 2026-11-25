@@ -7,6 +7,10 @@ draft = false
 
 [extra]
 translation_status = "ai_reviewed"
+translation_updated = "2026-11-25"
+source_updated = "2026-11-25"
+translation_stale = false
+translation_sync = 100
 card_summary = "토지, 화폐, 기술적 조직: 경제 개혁가들을 정경의 마흔아홉 해 임대와 나란히 살펴봅니다."
 claim_type = "inferred"
 core_claim_ids = ["woh-claim-0055"]
