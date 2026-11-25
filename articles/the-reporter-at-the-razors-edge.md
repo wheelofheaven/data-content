@@ -8,18 +8,20 @@ draft = true
 [extra]
 card_summary = "Annie Jacobsen’s investigations of institutions built after 1945, read through the canon’s account of the Apocalypse."
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0057"]
+core_versions = { woh-claim-0057 = "0.1.0" }
 editorial_pass = "2026-05"
 article_type = "explainer"
 category = "Comparative"
 author = "Zara Zinsfuss"
 author_slug = "zara-zinsfuss"
-summary = "Annie Jacobsen is a national-security reporter with no interest in ancient astronauts and no discernible metaphysics. Her method is the Freedom of Information Act, the archive, and the on-record interview; her subject, across seven books, is the secret machinery the United States built after 1945 — the Nazi scientists it imported, the test site where it hid its spy planes among its mushroom clouds, and the seventy-two-minute war plan that still waits in a leather satchel beside the president. This Explainer reads her three central books closely. It reads *Operation Paperclip* as the story of the moral bargain at the origin of the space age, *Area 51* as a documented case study in how a state manufactures and exploits a UFO mythology — including a full audit of her notorious Roswell chapter, stating plainly where it fails and what stands anyway — and *Nuclear War: A Scenario* as the most rigorous secular apocalypse ever written: a minute-by-minute account of the self-destruction the Raëlian canon has called, since 1973, humanity's final exam. The convergences are specific. The canon dates its Age of Apocalypse from the Hiroshima detonation Jacobsen's scenario ends by rhyming with; it decoded the Book of Revelation as a nuclear-war scenario five decades before she wrote hers; and its account of the Great Flood is, almost image for image, the far-future epilogue with which her book closes — future archaeologists standing over our ruins, asking what happened. Where she ends on a warning, the canon claims a memory. The difference between those two readings is the subject of this article."
+summary = "Annie Jacobsen is a national-security reporter with no interest in ancient astronauts and no discernible metaphysics. Her method is the Freedom of Information Act, the archive, and the on-record interview; her subject, across seven books, is the secret machinery the United States built after 1945 — the Nazi scientists it imported, the test site where it hid its spy planes among its mushroom clouds, and the seventy-two-minute war plan that still waits in a leather satchel beside the president. This Explainer reads her three central books closely. It reads *Operation Paperclip* as the story of the moral bargain at the origin of the space age, *Area 51* as a documented case study in how a state manufactures and exploits a UFO mythology — including a full audit of her notorious Roswell chapter, stating plainly where it fails and what stands anyway — and *Nuclear War: A Scenario* as the most rigorous secular apocalypse ever written: a minute-by-minute account of the self-destruction the Raëlian canon has called, since 1973, humanity's final exam. The convergences are specific. The canon dates its Age of Apocalypse from the Hiroshima detonation Jacobsen's scenario ends by rhyming with; a message printed in its third book and attributed to Yahweh decoded the Book of Revelation as a nuclear-war scenario forty-five years before she wrote hers; and its account of the Great Flood is, almost image for image, the far-future epilogue with which her book closes — future archaeologists standing over our ruins, asking what happened. Where she ends on a warning, the canon claims a memory. The difference between those two readings is the subject of this article."
 keywords = ["Annie Jacobsen", "Nuclear War A Scenario", "Operation Paperclip", "Area 51", "deterrence", "Launch on Warning", "sole authority", "nuclear winter", "Göbekli Tepe", "Age of Apocalypse", "1945", "Roswell", "disarmament", "secrecy", "FOIA"]
 references = [
     # — The canon under comparison —
     { id = "the-book-which-tells-the-truth", locator = "Chapter 1, ¶47 (the choice of a messenger after the first atomic explosion); Chapter 2, ¶¶55–62 (the Flood as nuclear strike and the orbital ark), ¶¶80–87 (Sodom); Chapter 5, ¶4 (the Aquarius threshold), ¶65; Chapter 6, ¶¶3–6 (geniocracy), ¶25; Chapter 7, ¶¶1–6 ('The atomic bombs'), ¶¶25–27 (the disappeared creators and the inheritance protocol), ¶39" },
-    { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, ¶7 (the August 6 anniversary), ¶¶23–25 (the non-intervention rectification and the cosmic filter), ¶39 (against 'dissuasion'); Chapter 3, ¶172 (the calendar of the new era), ¶233" },
-    { id = "lets-welcome-the-extraterrestrials", locator = "Chapter 1, ¶10 (apocalypse as revelation), ¶15 (the thought experiment of the re-seeded Earth), ¶47 (the deduced flood); Chapter 2, ¶28 (the never-again vote), ¶59 (Satan's proposal), ¶96 (one chance in a hundred), ¶¶153–219 (the Revelation decode), ¶¶205–209 (the final test; the 666th generation); Chapter 3, ¶¶56–81 (the responsibility of those who obey orders); Chapter 4, ¶¶34–36" },
+    { id = "extraterrestrials-took-me-to-their-planet", locator = "Chapter 2, ¶7 (the August 6 anniversary), ¶¶23–25 (the non-intervention rectification and the cosmic filter), ¶39 (against 'dissuasion'); Chapter 3, ¶172 (the calendar of the new era), ¶178 and ¶257 (apocalypse as the age of revelation), ¶233" },
+    { id = "lets-welcome-the-extraterrestrials", locator = "Raël's commentary (not dictated text): Chapter 1, ¶15 (the thought experiment of the re-seeded Earth), ¶¶47–48 (the deduced flood); Chapter 3, ¶¶56–81 (the responsibility of those who obey orders). The narrated encounter and the Yahweh message (canonical standing not yet ruled): Chapter 2, ¶28 (the never-again vote), ¶59 (Satan's proposal), ¶96 (one chance in a hundred), ¶¶153–219 (the Revelation decode), ¶¶205–209 (the final test; the 666th generation)" },
     { id = "intelligent-design-message-from-the-designers", locator = "the consolidated English edition of the three messages" },
 
     # — The Jacobsen corpus —
@@ -58,7 +60,7 @@ references = [
 # bibliographic references above.
 footnotes = [
     { content = "Greek *apokalypsis*, from *apo-* (away) and *kalyptein* (to cover): an uncovering, an unveiling. The catastrophic sense — fire, ruin, the end — is a later accretion that attached to the word through the content of John's vision rather than its title. The corpus's own entry treats the restoration of the literal sense as load-bearing: the Age of Apocalypse is the age in which everything can finally be understood." },
-    { content = "The Raëlian calendar counts 1946 — the year following the Hiroshima detonation, and the year of Claude Vorilhon's birth — as year 1 of the new era. The source material makes the linkage explicit: the Elohim state that they decided to choose a final messenger after the first atomic explosion of 1945, and the annual commemoration of the calendar falls on August 6. The same texts count the generation born in 1945 as the 666th since the creation of the first humans — the Beast's number read as a date stamp rather than a devil's mark." },
+    { content = "The Raëlian calendar counts 1946 — the year following the Hiroshima detonation, and the year of Claude Vorilhon's birth — as year 1 of the new era. The source material makes the linkage explicit: the Elohim state that they decided to choose a final messenger after the first atomic explosion of 1945, and the annual commemoration of the calendar falls on August 6. A message printed in the third book and attributed to Yahweh counts the generation born in 1945 as the 666th since the creation of the first humans — the Beast's number read as a date stamp rather than a devil's mark." },
     { content = "Launch on Warning: the standing United States policy of launching land-based intercontinental ballistic missiles after satellite and radar warning of an incoming attack has been generated but before any warhead arrives. The rationale is use-it-or-lose-it — silo-based missiles are targets. The consequence is that the entire decision sequence must fit inside a missile's flight time, roughly thirty minutes for an ICBM and considerably less for submarine-launched weapons." },
     { content = "United States nuclear command authority vests the launch decision in the president alone. A 2021 Congressional Research Service review, cited by Jacobsen, states the position plainly: the president does not need the concurrence of military advisers, the secretary of defense, or Congress to order the use of nuclear weapons. The two-man rules that govern every lower level of the system stop one level below the top." },
     { content = "SIOP: the Single Integrated Operational Plan, the master US nuclear war plan from 1961 to 2003, since renamed within the OPLAN 8010 family. The first SIOP briefing at Offutt Air Force Base in December 1960 projected roughly 600 million dead. John Rubel, a Defense Department official present in the room, waited nearly fifty years to publish his memoir of the meeting, in which he compared its disciplined, methodical planning of megadeath to the Wannsee conference — a comparison Jacobsen quotes and lets stand." },
@@ -124,8 +126,7 @@ convergence tells you something, whatever you decide it tells you.
 
 Jacobsen's *Area 51* carries an epigraph from Horace: "Time will bring to
 light whatever is hidden; it will cover up and conceal what is now shining
-in splendor." It is as close as she comes to a credo, and it is worth
-pausing on how exactly it describes her trade. The postwar security state
+in splendor." It is as close as she comes to a credo, and it describes her trade exactly. The postwar security state
 invented a new ontology for its secrets. Under
 the Atomic Energy Act of 1946, information about nuclear weapons became
 *born classified* — secret from the moment of its conception, no stamp
@@ -155,10 +156,11 @@ latest book calls the razor's edge of the legally knowable, and every book
 she writes moves the edge.
 
 The canon has a name for this labor. Its reading of *apocalypse* as
-*unveiling* is set out in the source material in so many words — "the
-'Age of Revelation', that is to say, the age when everything can be
-understood, and not the 'end of the world'"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=10) %}LWTE 1:10{% end %})
+*unveiling* is set out in so many words: "the apocalypse, that is to say
+literally the age of revelation, has arrived"
+({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=178) %}ETTMTTP 3:178{% end %}),
+"the epoch when everything can be understood"
+({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=257) %}ETTMTTP 3:257{% end %})
 — and the age is given a precise opening date{{ footnote(id="2") }}. The
 Elohim state that they chose their last messenger *because of* the bomb:
 
@@ -243,10 +245,11 @@ belongs to a later section of this article. What belongs here is the
 canon's treatment of individual responsibility inside a chain of command,
 because it converges with Jacobsen's central question — does accomplishment
 cancel crime? — while answering it more severely than any denazification
-board did. The second volume of the source material groups the pilot of
-the Hiroshima aircraft with the war criminals of the camps, refuses the
+board did. Raël, in an essay in the third book, groups the pilot of the
+Hiroshima aircraft with the war criminals of the camps, refuses the
 defense of orders in both cases, and then extends the refusal forward, to
-the missileers of the present:
+the missileers of the present. The passage is his own view, not dictated
+text:
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=3, verse=57) %}
 The man who launched the bomb on Hiroshima was only following orders. In
@@ -310,8 +313,7 @@ CIA historian Gerald Haines, in the monograph she relies on, concedes the
 structural result: the concealment itself "contributed greatly to later
 charges of a CIA conspiracy and cover-up."
 
-For this project the significance of that record cuts in two directions
-at once, and honesty requires stating both. Read deflationarily, *Area
+For this project the record cuts in two directions at once. Read deflationarily, *Area
 51* is the best documented account in print of how much of the postwar
 saucer mythology was terrestrial hardware plus institutional silence — a
 caution the corpus's own {% wiki(slug="ufology") %}ufology{% end %} entry
@@ -323,7 +325,7 @@ whatsoever, because the deniers spent five decades demonstrably lying, by
 policy, about exactly this subject. A reader who wants to dismiss the 2017–2024
 disclosure cycle — the Navy videos, the ODNI reports, the Grusch
 testimony — with "the government would have told us" has *Area 51* to
-answer to. The canon, it should be said, needs nothing from Roswell
+answer to. The canon needs nothing from Roswell
 either way: its contact event is Clermont-Ferrand, 1973, six mornings of
 conversation, and the corpus treats the 1947 crash agnostically. Which
 clears the ground for the audit this article owes.
@@ -438,7 +440,7 @@ thinning until, in her sentence, "the sun's warming rays are now killer
 ultraviolet rays," and an estimated five billion dead of famine within
 two years. Ten thousand years of
 agriculture end; the survivors return to foraging under a hostile sky.
-The register of the book, it should be noted, has been criticized — one
+The book's register has been criticized — one
 reviewer called the prose pulp-thriller apocalyptic, another faulted it
 for offering no disarmament program — and both charges have some
 purchase. Neither touches the sourcing.
@@ -462,7 +464,7 @@ this peril, it suffices for them to take the atomic weapons away from the
 military.
 {% end %}
 
-The policy content of that last sentence deserves a beat of attention. In
+That last sentence is a policy. In
 1973 it was the position of a claimed contactee; in the 2010s and 2020s,
 taking weapons off hair-trigger status, ending Launch on Warning, and
 qualifying sole presidential authority became the published program of
@@ -474,12 +476,14 @@ policy asks converge to the letter.
 
 There is a second convergence, stranger and more specific, and it is the
 reason this article treats *Nuclear War: A Scenario* as a text in the
-comparative-religion sense. The canon's third volume devotes a long
-section to decoding the Book of
+comparative-religion sense. The third book prints a long message
+attributed to Yahweh that decodes the Book of
 {% libref(book="revelation", chapter=6, verse=12) %}Revelation{% end %} —
 within the frame, a vision shown to John "through a visualizer similar to
-your television sets" of the events awaiting the Age of Apocalypse — and
-the decode is, verse by verse, a nuclear-war scenario. The sixth seal:
+your television sets" of the events awaiting the Age of Apocalypse.
+Whether that chapter of the third book counts as dictated Message is not
+yet settled in this project. The decode is, verse by verse, a nuclear-war
+scenario. The sixth seal:
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=2, verse=153) %}
 The sixth seal represents the final danger for Humanity, the greatest
@@ -536,7 +540,7 @@ violence, it will destroy itself by itself either directly or indirectly.
 {% end %}
 
 And the same message generalizes the exam to a law — the canon's version
-of a Great Filter, stated fourteen years before the phrase entered the
+of a Great Filter, stated some twenty years before the phrase entered the
 academic literature:
 
 {% library(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=25) %}
@@ -550,7 +554,7 @@ confirmed this absolute rule in the universe: the beings capable of
 escaping their planetary system are always pacific.
 {% end %}
 
-The corpus even quantifies the odds — "one chance in one hundred that
+The Yahweh message in the third book even quantifies the odds — "one chance in one hundred that
 your Humanity will not self-destroy"
 ({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=96) %}LWTE 2:96{% end %})
 — and instructs its readers to act as if the chance were live. Jacobsen
@@ -590,9 +594,9 @@ will seed — these are its last lines:
 >
 > — *Nuclear War: A Scenario*, Part V, "24,000 Years Later"
 
-Set beside that ending, now, a passage the canon published in 1979 as a
-throwaway thought experiment — an aid for readers struggling with the
-idea that Genesis records laboratory work:
+Set beside that ending, now, a thought experiment Raël offered in 1979,
+in his own answers to readers rather than in dictated text — an aid for
+readers struggling with the idea that Genesis records laboratory work:
 
 {% library(book="lets-welcome-the-extraterrestrials", chapter=1, verse=15) %}
 Imagine that an atomic war breaks out tomorrow, and all life on Earth is
@@ -600,8 +604,7 @@ destroyed. Then 10,000 years later, extra-terrestrials settle down to
 create new living organisms…
 {% end %}
 
-The symmetry is close to perfect, and it is worth being precise about
-what each side claims. Jacobsen's epilogue is a warning: this could
+The symmetry is close, and the two sides claim different things. Jacobsen's epilogue is a warning: this could
 happen, and if it does, the record of who we were will decay into
 mythology. The canon's position is that a version of it *already
 happened* — that the {% wiki(slug="great-flood") %}Great Flood{% end %} of
@@ -624,9 +627,8 @@ Ea's recorded protest that a flood, unlike a lion or a famine, takes
 everyone. What Jacobsen contributes to the file, without intending to, is
 the phenomenology of the aftermath. Her Part V describes survivors under
 a blackened sky, the return to foraging, the loss within generations of
-the knowledge of what the flash had been. The canon's account
-of the Flood approaches the aftermath from the far side: Raël, answering a
-reader, argues that continual rain would have spared every boat and every
+the knowledge of what the flash had been. Raël's own commentary
+approaches the aftermath from the far side: answering a reader, he argues that continual rain would have spared every boat and every
 sailor, so a Flood that left survivors only in Noah's vessel was a
 colossal cataclysm that overturned the surface of the Earth, not the
 rainfall it is generally thought to have been
@@ -694,7 +696,7 @@ neutral — the Elohim power their own civilization with it, "applied
 gently"
 ({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=6) %}TBWTT 7:6{% end %})
 — and locate the danger one level up, in the aggression of the species
-holding it. The "beast" of Revelation, on the corpus's decode, "is simply
+holding it. The "beast" of Revelation, on the Yahweh message's decode, "is simply
 the use of nuclear energy for murderous means"
 ({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=205) %}LWTE 2:205{% end %})
 — the use, and not the energy. The distinction has consequences.
@@ -710,17 +712,18 @@ the hardware performing exactly as built.
 prescribing nothing, and the criticism, while fair as far as it goes,
 mistakes the book's office. Jacobsen is a diagnostician; she ends where
 the x-ray ends. The canon is prescriptive to a degree that embarrasses
-even its sympathizers: total planetary disarmament as the explicit
-pass-condition of the exam
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=205) %}LWTE 2:205{% end %});
-the removal of atomic weapons from military custody
-({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=6) %}TBWTT 7:6{% end %});
-personal, non-delegable responsibility for every hand in the launch
-chain, with the texts proposing that the names of those who hold the keys
-be published so that they know they will answer for their turn of it
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=3, verse=70) %}LWTE 3:70–71{% end %});
+even its sympathizers: the removal of atomic weapons from military custody
+({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=6) %}TBWTT 7:6{% end %}),
 and {% wiki(slug="geniocracy") %}geniocracy{% end %}, the canon's
-institutional answer to the scene at the center of Jacobsen's book. Her
+institutional answer to the scene at the center of Jacobsen's book. The
+third book goes further. Its Yahweh message makes total planetary
+disarmament the explicit pass-condition of the exam
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=205) %}LWTE 2:205{% end %}),
+and Raël, in his own essay, asks for personal, non-delegable
+responsibility for every hand in the launch chain, proposing that the
+names of those who hold the keys be published so that they know they
+will answer for their turn of it
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=3, verse=70) %}LWTE 3:70–71{% end %}). Her
 scenario turns on six minutes of one unadvised mind under the worst
 cognitive conditions ever engineered{{ footnote(id="5") }}. The canon's
 sixth chapter proposes, in effect, that a civilization which entrusts
@@ -739,7 +742,7 @@ soteriology for the failure branch: the faction that once saved Noah
 stands ready to save "the people who follow" the last messenger and
 repopulate a devastated Earth
 ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=23) %}ETTMTTP 2:23{% end %}).
-Within the canon's own dramatis personae, the wager even has a named
+In the third book's Yahweh message, the wager even has a named
 adversary: the {% wiki(slug="satan") %}Satan{% end %} faction of the
 {% wiki(slug="council-of-the-eternals") %}Council of the Eternals{% end %},
 which holds that synthetic species are irredeemably violent and regards
@@ -751,9 +754,7 @@ unwitting witness for one side of a wager older than the species. She
 would not accept the sentence. Her book is, nonetheless, the most
 complete brief either side of it has ever been handed.
 
-**How each knows what it claims.** As always in this series, the last
-divergence is the epistemic one, and it should be stated without
-softening. Jacobsen's method is the gold standard of secular
+**How each knows what it claims.** As always in this series, the last divergence is the epistemic one. Jacobsen's method is the gold standard of secular
 verification: named sources, documents, adversarial fact-checking, a
 notes apparatus that runs to a hundred pages. The canon's foundational
 claims arrive by testimony — one man's report of six conversations — and
@@ -790,8 +791,9 @@ frame, has spent her career producing the test's documentation: the
 bargain that armed it, the veil that hid it, the machinery that will
 grade it in seventy-two minutes. "A nuclear crisis is not a worst-case
 scenario," she writes; "it is *the* worst-case scenario." The canon said
-the same thing in its own voice fifty years ago, added that the graders
-are watching, and put the pass-rate at one in a hundred. Between her
+the same thing in its own voice fifty years ago and added that the
+graders are watching; the Yahweh message printed in 1979 put the
+pass-rate at one in a hundred. Between her
 epilogue's future archaeologists, puzzling over what happened to us, and
 the canon's claim that such archaeologists have stood over such ruins
 before, there remains exactly one difference that matters: whether
@@ -817,7 +819,7 @@ and the canon are on the same side of the wager.
   {% wiki(slug="new-commandments") %}New Commandments{% end %} entries,
   for the canon's institutional answers to the six-minute problem.
 - [*The Book Which Tells the
-  Truth*](/library/the-book-which-tells-the-truth/), chapters 2 and 7,
-  and [*Let's Welcome the
+  Truth*](/library/the-book-which-tells-the-truth/), chapters 2 and 7, for the canon passages quoted throughout, and
+  [*Let's Welcome the
   Extraterrestrials*](/library/lets-welcome-the-extraterrestrials/),
-  chapters 1–3, for the canon passages quoted throughout.
+  chapters 1–3, for Raël's commentary and the Yahweh message.
