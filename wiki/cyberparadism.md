@@ -35,6 +35,7 @@ see_also = [
     { title = "Wheel of Heaven", path = "wiki/wheel-of-heaven", description = "The framework read as a Cyberparadist alliance-civilisation reality." },
     { title = "Raël", path = "wiki/rael", description = "Claude Vorilhon, source of the Planet-of-the-Eternals account." },
     { title = "Embassy", path = "wiki/embassy", description = "The Raëlian project preparing for the return that opens the realisation." },
+    { title = "The Jubilee and the Machine", path = "articles/the-jubilee-and-the-machine", description = "The post-scarcity family from Leviticus to the Techno-Optimist Manifesto, with Cyberparadism at its corpus-adjacent end." }
 ]
 
 footnotes = [
@@ -376,6 +377,11 @@ and restored nature into popular film. The framework reads these as convergent
 recognitions of one possibility, arrived at independently; its own distinctive
 claim is not the abundance, which it shares widely, but the account of where the
 memory of it comes from.
+
+The Explainer [The Jubilee and the Machine](/articles/the-jubilee-and-the-machine/)
+reads Cyberparadism as the corpus-adjacent end of a longer post-scarcity family,
+from Gesell and Fresco to peer production and Andreessen, and notes that open
+source collaboration is the one Sign already operating at industrial scale.
 
 ## Critical perspectives
 

@@ -22,6 +22,7 @@ see_also = [
     { title = "Raël", path = "wiki/rael", description = "The recipient of the doctrine and founder of the Movement for Worldwide Geniocracy." },
     { title = "Message from the Designers", path = "wiki/message-from-the-designers", description = "The consolidated source text recording the doctrine's original articulation." },
     { title = "Raëlism", path = "wiki/raelism", description = "The movement within which Geniocracy functions as foundational political doctrine." },
+    { title = "The Jubilee and the Machine", path = "articles/the-jubilee-and-the-machine", description = "The intelligence-gated franchise read beside the post-scarcity reformers, with the mainstream objection to it stated at full strength." }
 ]
 
 [extra.infobox]

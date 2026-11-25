@@ -221,6 +221,17 @@ abundance, which it shares widely, but the account of where the vision comes fro
 the Elohim civilisation the canon holds up as the working model — and its integration
 into the single Aquarian-age programme of the New Commandments.
 
+The Explainer [The Jubilee and the Machine](/articles/the-jubilee-and-the-machine/)
+sets the doctrine beside Jacque Fresco's resource-based economy, the open-source
+commons and Marc Andreessen's *Techno-Optimist Manifesto* (2023). Its finding is one
+of position. Andreessen promises abundance with wages, prices and accumulation kept
+in place, and rejects a basic income outright, while the canon treats abundance as
+the end of all three
+({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=96) %}ETTMTTP 3:96{% end %},
+{% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=98) %}3:98{% end %}).
+On that reading the venture capitalist is the conservative in the family, and the
+1970s text is the radical.
+
 ## Critical perspectives
 
 Paradism inherits the objections that attach to post-scarcity utopianism generally,

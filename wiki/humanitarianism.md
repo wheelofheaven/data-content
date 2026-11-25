@@ -237,6 +237,16 @@ explains the same pattern through pre-modern constraints and religious-cultural
 elaboration; the framework does not dispute those factors so much as add its own
 reading on top of them.
 
+The Explainer [The Jubilee and the Machine](/articles/the-jubilee-and-the-machine/)
+follows these parallels as one family. It traces the land line from Leviticus 25
+through the physiocrats, Henry George and Theodor Hertzka's *Freiland* (1890) to the
+kibbutz, and the money line through Silvio Gesell's depreciating currency and its
+1932–33 trial at Wörgl. It reads Huet's 1853 reversion of inherited wealth to the
+"general patrimony" and Steiner's treatment of bequests as abandoned assets as the
+closest academic statements of the forty-nine-year lease. The comparison is
+registered as convergence only: none of these thinkers is enlisted, and none of
+them is taken to confirm the doctrine.
+
 ## Critical perspectives
 
 The doctrine draws the objections that meet any programme of this ambition, and

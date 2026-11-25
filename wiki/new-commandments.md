@@ -21,6 +21,7 @@ see_also = [
     { title = "Golden Age", path = "wiki/golden-age", description = "The form of life that full implementation of the program is meant to produce." },
     { title = "Embassy", path = "wiki/embassy", description = "The building requirement set apart in the original Your Mission section." },
     { title = "Apocalypse", path = "wiki/apocalypse", description = "The threshold moment opening the age these directives orient toward." },
+    { title = "The Jubilee and the Machine", path = "articles/the-jubilee-and-the-machine", description = "The property and automation commandments read beside a century and a half of land, money and automation reformers." }
 ]
 
 [extra.infobox]

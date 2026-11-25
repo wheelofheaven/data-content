@@ -27,6 +27,7 @@ see_also = [
     { title = "Cosmic Chain", path = "wiki/cosmic-chain", description = "The nested creator-created lineage in which the home planet is one link." },
     { title = "Forerunners", path = "wiki/forerunners", description = "The prior civilization that seeded the Elohim line preceding the home world." },
     { title = "Six Mornings, Six Years", path = "articles/six-mornings-six-years", description = "Establishes from the itinerary that the 1975 voyage never reaches this world." },
+    { title = "The Jubilee and the Machine", path = "articles/the-jubilee-and-the-machine", description = "The moneyless home world and the planet of the eternals read as the working model the terrestrial program copies." }
 ]
 
 [extra.infobox]
