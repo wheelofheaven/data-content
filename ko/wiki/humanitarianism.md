@@ -22,6 +22,7 @@ see_also = [
     { title = "야훼", path = "wiki/yahweh", description = "이 교리를 보릴롱에게 표명한 엘로힘의 의장." },
     { title = "라엘", path = "wiki/rael", description = "이 사회경제적 교리의 수신자이자 전달자." },
     { title = "설계자들로부터의 메시지", path = "wiki/message-from-the-designers", description = "교리의 본래 표명을 기록한 통합 원천 텍스트." },
+    { title = "희년과 기계", path = "articles/the-jubilee-and-the-machine", description = "레위기의 희년에서 테크노 낙관주의자들에 이르기까지, 조지, 헤르츠카, 게젤, 좌파 자유지상주의자들, 오픈소스 공유지와 나란히 읽은 교리." },
 ]
 
 [extra.infobox]

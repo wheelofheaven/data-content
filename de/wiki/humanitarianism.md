@@ -21,7 +21,8 @@ see_also = [
     { title = "Hebräische Bibel", path = "wiki/hebrew-bible", description = "Die Quelle der Jubeljahrtradition aus Levitikus 25, die die Besitzdauer von neunundvierzig Jahren verankert." },
     { title = "Jahwe", path = "wiki/yahweh", description = "Der Präsident der Elohim, der Vorilhon die Lehre darlegte." },
     { title = "Raël", path = "wiki/rael", description = "Der Empfänger und Übermittler der sozioökonomischen Lehre." },
-    { title = "Botschaft der Designer", path = "wiki/message-from-the-designers", description = "Der zusammengefasste Quellentext, der die ursprüngliche Formulierung der Lehre festhält." }
+    { title = "Botschaft der Designer", path = "wiki/message-from-the-designers", description = "Der zusammengefasste Quellentext, der die ursprüngliche Formulierung der Lehre festhält." },
+    { title = "Das Jubeljahr und die Maschine", path = "articles/the-jubilee-and-the-machine", description = "Die Lehre im Vergleich mit George, Hertzka, Gesell, den Linkslibertären und der Open-Source-Allmende, vom Jubeljahr in Levitikus bis zu den Techno-Optimisten." }
 ]
 
 [extra.infobox]

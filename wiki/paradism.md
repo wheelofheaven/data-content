@@ -20,6 +20,7 @@ see_also = [
     { title = "Geniocracy", path = "wiki/geniocracy", description = "The selective-democracy governance program integrated alongside Paradism." },
     { title = "Humanitarianism", path = "wiki/humanitarianism", description = "The wealth-and-property reform program integrated alongside Paradism." },
     { title = "Cyberparadism", path = "wiki/cyberparadism", description = "The digital-platform extension of the Paradism program." },
+    { title = "The Jubilee and the Machine", path = "articles/the-jubilee-and-the-machine", description = "The abolition of work and money read beside Fresco, peer production and the Techno-Optimist Manifesto, where the venture capitalist turns out to be the conservative." }
 ]
 
 [extra.infobox]

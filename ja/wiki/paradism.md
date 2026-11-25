@@ -21,6 +21,7 @@ see_also = [
     { title = "ジェニオクラシー", path = "wiki/geniocracy", description = "パラディズムとともに統合される、選択的民主制の統治計画。" },
     { title = "ヒューマニタリアニズム", path = "wiki/humanitarianism", description = "パラディズムとともに統合される、富と財産の改革計画。" },
     { title = "サイバーパラディズム", path = "wiki/cyberparadism", description = "パラディズムの計画をデジタル・プラットフォームへと広げたもの。" },
+    { title = "ヨベルと機械", path = "articles/the-jubilee-and-the-machine", description = "労働と貨幣の廃止を、フレスコ、ピア・プロダクション、『テクノ楽観主義者宣言』と並べて読む。そこではベンチャー・キャピタリストこそが保守派であることが判明する。" },
 ]
 
 [extra.infobox]

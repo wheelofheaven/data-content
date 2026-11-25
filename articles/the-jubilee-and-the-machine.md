@@ -2,12 +2,14 @@
 title = "The Jubilee and the Machine"
 description = "Gesell's rotting money, George's single tax, Hertzka's Freiland, Fresco's cybernation, open source, techno-optimism — and the canon's forty-nine-year lease."
 template = "articles-page.html"
-date = 2026-07-06
-draft = true
+date = 2026-11-25
+draft = false
 
 [extra]
 card_summary = "Land, money, and technological organization: economic reformers considered alongside the canon’s forty-nine-year lease."
 claim_type = "inferred"
+core_claim_ids = ["woh-claim-0055"]
+core_versions = { woh-claim-0055 = "0.1.0" }
 editorial_pass = "2026-05"
 article_type = "explainer"
 category = "Comparative"
@@ -109,8 +111,8 @@ Gesell than from that of Marx."
 Gesell is one entry in a file this article proposes to read whole. The
 file's members rarely knew one another. It contains a Viennese financial
 journalist who set a utopia in the Kenyan highlands, an American printer
-whose land tax became the best-selling economics book of the nineteenth
-century, a school of Anglophone philosophers with a taste for
+whose case for a land tax became the best-selling economics book of the
+nineteenth century, a school of Anglophone philosophers with a taste for
 seventeenth-century natural law, a self-taught industrial designer in
 the Florida scrub, the programmers who gave away the most valuable
 software on Earth, and a venture capitalist with a manifesto. What they
@@ -135,7 +137,7 @@ The scene, within the frame, is the crater of an extinct volcano near
 Clermont-Ferrand, where a twenty-seven-year-old motor-sport journalist
 named Claude Vorilhon — {% wiki(slug="rael") %}Raël{% end %}, from the
 second morning on — reported six days of conversation with a visitor he
-would come to call {% wiki(slug="elohim") %}Yahweh{% end %}. The sixth
+would come to call {% wiki(slug="yahweh") %}Yahweh{% end %}. The sixth
 chapter of the book he published the following year is, whatever else it
 is, a political economy. It opens with
 {% wiki(slug="geniocracy") %}geniocracy{% end %} — government screened
@@ -177,8 +179,8 @@ Everything of value — land, enterprises, stocks, gold, buildings —
 belongs to the community and is leased back, for a maximum of
 forty-nine years, to those who have earned the means
 ({% libref(book="the-book-which-tells-the-truth", chapter=6, verse=10) %}TBWTT 6:10{% end %}).
-And then the text does something none of its 1970s contactee peers
-thought to do: it cites its sources. The forty-nine-year term, it says,
+And then the text does something unusual for its genre: it cites a
+precedent. The forty-nine-year term, it says,
 "is already prescribed in the Bible," and it quotes Leviticus 25 at
 length — the sabbath of years counted seven times seven, and the
 land-tenure principle beneath it: *"the land shall not be sold in
@@ -229,10 +231,12 @@ and the engineering priority is stated as a commandment: "Put everything
 to work to create the biological robot that will free you from the lowly
 chores and will allow you to blossom"
 ({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=3, verse=100) %}ETTMTTP 3:100{% end %}).
-The third book closes the loop, listing among the mission's own
-objectives a research center whose work on "the creation of biological
-robots will allow the elimination of work and consequently money"
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=24) %}LWTE 1:24{% end %}).
+Raël later wrote the program into the movement's own plans. Answering
+readers' questions in the third book, he listed among its objectives a
+research center whose work on "the creation of biological robots will
+allow the elimination of work and consequently money"
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=24) %}LWTE 1:24{% end %})
+— his own view, not dictated text.
 
 And the canon claims an exemplar. Asked about life on the creators' own
 world, Yahweh describes a civilization that has finished the program:
@@ -246,23 +250,27 @@ electronic brains and of the computers dealing with the vital problems,
 like energy, food, organization, etc.
 {% end %}
 
-Ninety thousand biological robots serve nine thousand residents; cities
-are single kilometer-scale structures designed by one architect apiece,
-"kinds of cubes so as not to «eat» the countryside"
-({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=47) %}TBWTT 7:39–47{% end %});
-a {% wiki(slug="council-of-the-eternals") %}council of seven hundred{% end %}
-administers the automated substrate for seven billion people who are
-under no obligation to do anything at all. Within the frame, this is
-what the doctrine is *for*: the terrestrial program is a copy of a
-working original. Even the adversary in the canon's dramatis personae
-prices the question in these terms —
-{% wiki(slug="satan") %}Satan{% end %}, the skeptic of the
-{% wiki(slug="council-of-the-eternals") %}Council{% end %}, "will not be
-convinced that something good can be expected of men until they are
-united, and money and all weapons are destroyed"
+On the home world, cities are single kilometer-scale structures designed
+by one architect apiece, "kinds of cubes so as not to «eat» the
+countryside," and a
+{% wiki(slug="council-of-the-eternals") %}council of seven hundred{% end %}
+eternals supervises the automated substrate for seven billion people who
+are under no obligation to do anything at all
+({% libref(book="the-book-which-tells-the-truth", chapter=7, verse=47) %}TBWTT 7:39–47{% end %}).
+On the planet of the eternals described in the second message, about
+ninety thousand biological robots serve a little over nine thousand
+residents
+({% libref(book="extraterrestrials-took-me-to-their-planet", chapter=2, verse=54) %}ETTMTTP 2:53–54{% end %}).
+Within the frame, this is what the doctrine is *for*: the terrestrial
+program is a copy of a working original. The narrated encounter in the
+third book puts the question in the same terms. There Yahweh says that
+{% wiki(slug="satan") %}Satan{% end %}, the skeptic of the Council,
+"will not be convinced that something good can be expected of men until
+they are united, and money and all weapons are destroyed"
 ({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=76) %}LWTE 2:76{% end %}).
-In the canon's accounting, the abolition of money sits beside
-disarmament as one of the two proofs the species owes.
+Whether that chapter counts as dictated Message is not yet settled in
+this project; if it does, the abolition of money sits beside disarmament
+as one of the two proofs the species owes.
 
 So the doctrine has two axes. The first is the **Jubilee axis**: tenure
 in place of ownership, equality at birth, merit rewarded within a life,
@@ -487,7 +495,7 @@ left-libertarianism need not, and arguably should not, recognize …
 the validity of bequests. Any assets owned by a person at death are
 deemed abandoned." The forty-nine-year lease operationalizes exactly
 that intuition, with the family-home exception as its one concession to
-sentiment. The school's third member in the user-facing sense, Philippe
+sentiment. A third member of the school, Philippe
 Van Parijs, converts the common share into a permanent cash flow — a
 basic income funded by the rents on everything "given" rather than
 made, employment rents included — and thereby supplies the
@@ -560,7 +568,7 @@ domain it arrived, and the institutions that formed around it are the
 file's only entries that are neither plan nor novel but operating
 infrastructure. When the marginal cost of copying information fell to
 zero, a production system assembled itself that no economics textbook
-had predicted: Linus Torvalds's 1991 bulletin-board posting became the
+had predicted: Linus Torvalds's 1991 Usenet posting became the
 software substrate of the world's servers and phones, licensed so that
 no one could ever enclose it; Wikipedia, written by no one in
 particular, retired the shelf of paid encyclopedias; and Yochai
@@ -620,8 +628,7 @@ Principle," "de-growth," "the limits of growth" — and the document
 closes with a roll of Patron Saints in place of citations
 {{ footnote(id="9") }}.
 
-The convergence with the canon is real and worth stating precisely.
-Both hold that the material problem is soluble and that the solvent is
+The convergence with the canon is specific. Both hold that the material problem is soluble and that the solvent is
 science; both treat energy abundance as the hinge (fusion is the
 manifesto's "second silver bullet" and the first of Cyberparadism's six
 Signs); both regard the counsel of limits as the counsel of decline —
@@ -643,8 +650,7 @@ canon reads the same machine as a chrysalis: markets and money are the
 larval instruments, and the adult form — "to think, to create, to
 blossom" — has no price system in it.
 
-The finding deserves italics, because nothing in the file predicts it:
-*the venture capitalist is the conservative here, and the 1973 contactee
+Nothing earlier in the file predicts the result: *the venture capitalist is the conservative here, and the 1973 contactee
 text is the radical.* Andreessen offers abundance with wage labor,
 prices, and accumulation preserved in perpetuity — capitalism at escape
 velocity. The canon offers abundance as the solvent in which all three
@@ -736,11 +742,12 @@ mainstream political philosophy rejects rule-by-the-measured in all its
 variants; the objections — who builds the tests, who audits the
 builders, what "raw intelligence" even denominates — are the standard
 ones and they are strong. The corpus treats the commandment as
-directional rather than operational, and its own texts assign the
-program's realization to non-Raëlian political movements at arm's
-length
-({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=87) %}LWTE 1:83–87{% end %});
-none of that discharges the objection. It is recorded here in its own
+directional rather than operational, and Raël himself, answering
+readers in the third book, left the program's realization to
+non-Raëlian political movements at arm's length
+({% libref(book="lets-welcome-the-extraterrestrials", chapter=1, verse=87) %}LWTE 1:83–87{% end %}),
+a position that is his own and not dictated text. None of that
+discharges the objection. It is recorded here in its own
 voice.
 
 **The canon hedges its own abundance.** The strangest sentence in this
@@ -748,8 +755,9 @@ file's canonical stratum is a limit. Discussing whether humanity will
 inherit the creators' role, Yahweh remarks: "we are not sure that man
 can ever stabilize himself in abundance"
 ({% libref(book="the-book-which-tells-the-truth", chapter=5, verse=59) %}TBWTT 5:59{% end %})
-— and elsewhere the odds of the species surviving its own test are put
-at one in a hundred
+— and a later message, printed in the third book as Yahweh's address
+to humanity, puts the odds of the species surviving its own test at one
+in a hundred
 ({% libref(book="lets-welcome-the-extraterrestrials", chapter=2, verse=96) %}LWTE 2:96{% end %}).
 The doctrine is not a promise that abundance arrives; it is a
 specification of what to build if aggression is mastered first. The
@@ -775,7 +783,7 @@ name, reached for the same garden — the place where provision precedes
 labor, where the fruit is on the trees before anyone has earned it.
 Mainstream reading takes the name as the obvious cultural shorthand for
 paradise, which it is. The corpus's reading runs one layer deeper: in
-the canon, {% wiki(slug="cyberparadism") %}Eden was a real
+the canon, {% wiki(slug="eden") %}Eden was a real
 installation{% end %} — the laboratory-garden of the creators, an
 engineered abundance in which the species began — and the creators'
 own world still runs on its economics
@@ -790,11 +798,8 @@ primary sources, verbatim, three times.
 What the frame adds last is stakes. The canon's
 {% wiki(slug="golden-age") %}Golden Age{% end %} is one tine of a fork
 whose other tine — the self-destruction this project's
-{% wiki(slug="apocalypse") %}Apocalypse{% end %} file documents, and
-which a companion article reads through the nuclear literature at full
-length in [*The Reporter at the Razor's
-Edge*](/articles/the-reporter-at-the-razors-edge/) — is reached by
-default. The machine axis is racing: the automation the 1975 text
+{% wiki(slug="apocalypse") %}Apocalypse{% end %} entry documents — is
+reached by default. The machine axis is racing: the automation the 1975 text
 promised is, in the decade of large models and humanoid robotics, a
 capital-expenditure line item. The Jubilee axis is not: wealth
 concentrates across generations at rates Piketty's *r > g* made
@@ -833,6 +838,3 @@ arrived at the golden age.
   and [*Extraterrestrials Took Me to Their
   Planet*](/library/extraterrestrials-took-me-to-their-planet/),
   chapters 2 and 3, for the canon passages quoted throughout.
-- [*The Reporter at the Razor's
-  Edge*](/articles/the-reporter-at-the-razors-edge/), for the dark tine
-  — the Age of Apocalypse read through the nuclear-war literature.

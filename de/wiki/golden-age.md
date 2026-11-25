@@ -25,7 +25,8 @@ see_also = [
     { title = "Botschaft", path = "wiki/embassy", description = "Das Projekt, dessen Vollendung die gelungene Bewältigung des Wassermann-Zeitalters durch die Menschheit bedingt." },
     { title = "Hamlet's Mill", path = "wiki/hamlets-mill", description = "Der abgesetzte „Herr des Goldenen Zeitalters“ — Saturn, der Geber der Maße —, dessen zerstörte Mühle die Zeitalter ausmahlt." },
     { title = "Die Mühle, die die Zeitalter mahlt", path = "articles/the-mill-that-grinds-the-ages", description = "Das Goldene Zeitalter als Herrschaft des abgesetzten schlafenden Königs, dessen Rückkehr ansteht, wenn sich das präzessionale Rad vollendet." },
-    { title = "Die Gestalt der Menschheit", path = "articles/the-shape-of-humanity", description = "Der Artikel, der das Goldene Zeitalter als gelungene Reifung der Menschheit als Organismus über die Schwelle von eins zu hundert hinaus fasst." }
+    { title = "Die Gestalt der Menschheit", path = "articles/the-shape-of-humanity", description = "Der Artikel, der das Goldene Zeitalter als gelungene Reifung der Menschheit als Organismus über die Schwelle von eins zu hundert hinaus fasst." },
+    { title = "Das Jubeljahr und die Maschine", path = "articles/the-jubilee-and-the-machine", description = "Das Programm der Überflussgesellschaft im Vergleich mit anderthalb Jahrhunderten von Boden-, Geld- und Automatisierungsreformern." }
 ]
 
 [extra.infobox]

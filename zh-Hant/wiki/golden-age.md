@@ -26,6 +26,7 @@ see_also = [
     { title = "哈姆雷特之磨", path = "wiki/hamlets-mill", description = "被廢黜的「黃金時代之主」——賜下度量的薩圖恩——其毀壞的磨坊碾出諸時代。" },
     { title = "那座碾磨諸紀元的磨坊", path = "articles/the-mill-that-grinds-the-ages", description = "黃金時代作為被廢黜之沉睡君王的統治,待歲差之輪轉完一周時歸來。" },
     { title = "人類的形狀", path = "articles/the-shape-of-humanity", description = "此解說文將黃金時代框定為人類這一有機體越過百分之一門檻後的成功成熟。" },
+    { title = "禧年與機器", path = "articles/the-jubilee-and-the-machine", description = "將這套後稀缺綱領與一個半世紀以來的土地、貨幣與自動化改革者並讀。" },
 ]
 
 [extra.infobox]

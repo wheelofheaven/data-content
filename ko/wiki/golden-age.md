@@ -26,6 +26,7 @@ see_also = [
     { title = "햄릿의 맷돌", path = "wiki/hamlets-mill", description = "폐위된 '황금시대의 주인' — 척도를 준 자 사투르누스 — 그의 부서진 맷돌이 시대들을 갈아냅니다." },
     { title = "시대를 갈아내는 맷돌", path = "articles/the-mill-that-grinds-the-ages", description = "폐위되어 잠든 왕의 통치로서의 황금시대로, 세차 바퀴가 한 바퀴를 마칠 때 돌아올 것입니다." },
     { title = "인류의 형상", path = "articles/the-shape-of-humanity", description = "황금시대를 유기체로서의 인류가 백분의 일의 문턱을 넘어 성공적으로 성숙하는 것으로 그리는 해설." },
+    { title = "희년과 기계", path = "articles/the-jubilee-and-the-machine", description = "한 세기 반에 걸친 토지·화폐·자동화 개혁가들과 나란히 읽은 탈희소성 프로그램." },
 ]
 
 [extra.infobox]

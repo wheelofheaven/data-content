@@ -22,6 +22,7 @@ see_also = [
     { title = "Yahvé", path = "wiki/yahweh", description = "El presidente de los Elohim que expuso la doctrina a Vorilhon." },
     { title = "Raël", path = "wiki/rael", description = "El receptor y transmisor de la doctrina socioeconómica." },
     { title = "Mensaje de los Diseñadores", path = "wiki/message-from-the-designers", description = "El texto fuente consolidado que recoge la formulación original de la doctrina." },
+    { title = "El Jubileo y la máquina", path = "articles/the-jubilee-and-the-machine", description = "La doctrina leída junto a George, Hertzka, Gesell, los libertarios de izquierda y el procomún del código abierto, desde el Jubileo del Levítico hasta los tecnooptimistas." },
 ]
 
 [extra.infobox]

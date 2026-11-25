@@ -23,6 +23,7 @@ see_also = [
     { title = "יהוה", path = "wiki/yahweh", description = "נשיא האלוהים שניסח את התורה לוורילון." },
     { title = "ראל", path = "wiki/rael", description = "מקבל התורה החברתית־כלכלית ומוסרה." },
     { title = "מסר מהמתכננים", path = "wiki/message-from-the-designers", description = "טקסט המקור המקובץ המתעד את הניסוח המקורי של התורה." },
+    { title = "היובל והמכונה", path = "articles/the-jubilee-and-the-machine", description = "התורה הנקראת לצד ג'ורג', הרצקה, גזל, הליברטריאנים השמאליים ונחלת הכלל של הקוד הפתוח, מן היובל של ויקרא ועד האופטימיסטים הטכנולוגיים." },
 ]
 
 [extra.infobox]

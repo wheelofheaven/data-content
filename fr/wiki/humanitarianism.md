@@ -22,6 +22,7 @@ see_also = [
     { title = "Yahvé", path = "wiki/yahweh", description = "Le président des Élohim qui exposa la doctrine à Vorilhon." },
     { title = "Raël", path = "wiki/rael", description = "Le destinataire et le transmetteur de la doctrine socio-économique." },
     { title = "Le Message donné par les extra-terrestres", path = "wiki/message-from-the-designers", description = "Le texte source consolidé qui consigne la formulation originelle de la doctrine." },
+    { title = "Le Jubilé et la machine", path = "articles/the-jubilee-and-the-machine", description = "La doctrine lue à côté de George, Hertzka, Gesell, des libertariens de gauche et des communs open source, du Jubilé du Lévitique aux techno-optimistes." },
 ]
 
 [extra.infobox]

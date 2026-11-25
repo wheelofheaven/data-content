@@ -22,6 +22,7 @@ see_also = [
     { title = "גניוקרטיה", path = "wiki/geniocracy", description = "תוכנית הממשל של הדמוקרטיה הבררנית, המשולבת לצד הפרדיזם." },
     { title = "הומניטריזם", path = "wiki/humanitarianism", description = "תוכנית הרפורמה בעושר ובקניין, המשולבת לצד הפרדיזם." },
     { title = "סייברפרדיזם", path = "wiki/cyberparadism", description = "הרחבת תוכנית הפרדיזם אל הפלטפורמה הדיגיטלית." },
+    { title = "היובל והמכונה", path = "articles/the-jubilee-and-the-machine", description = "ביטול העבודה והכסף הנקרא לצד פרסקו, ייצור העמיתים ומניפסט האופטימיות הטכנולוגית, שבו מתברר שאיש ההון סיכון הוא השמרן." },
 ]
 
 [extra.infobox]

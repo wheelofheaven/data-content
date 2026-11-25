@@ -21,6 +21,7 @@ see_also = [
     { title = "天才政治", path = "wiki/geniocracy", description = "与乐园主义并行整合的选择性民主治理纲领。" },
     { title = "人道主义", path = "wiki/humanitarianism", description = "与乐园主义并行整合的财富与财产改革纲领。" },
     { title = "赛博乐园主义", path = "wiki/cyberparadism", description = "乐园主义纲领的数字平台延伸。" },
+    { title = "禧年与机器", path = "articles/the-jubilee-and-the-machine", description = "把废除劳动与货币与弗雷斯科、对等生产以及《技术乐观主义宣言》并置而读——在那里，风险投资家原来才是保守派。" },
 ]
 
 [extra.infobox]

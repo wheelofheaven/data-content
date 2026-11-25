@@ -22,6 +22,7 @@ see_also = [
     { title = "Yahweh", path = "wiki/yahweh", description = "The Elohim president who articulated the doctrine to Vorilhon." },
     { title = "Raël", path = "wiki/rael", description = "The recipient and transmitter of the socio-economic doctrine." },
     { title = "Message from the Designers", path = "wiki/message-from-the-designers", description = "The consolidated source text recording the doctrine's original articulation." },
+    { title = "The Jubilee and the Machine", path = "articles/the-jubilee-and-the-machine", description = "The doctrine read beside George, Hertzka, Gesell, the left-libertarians and the open-source commons, from the Jubilee of Leviticus to the techno-optimists." }
 ]
 
 [extra.infobox]

@@ -26,6 +26,7 @@ see_also = [
     { title = "ハムレットの臼", path = "wiki/hamlets-mill", description = "退位させられた「黄金時代の主」― 尺度を与える者サトゥルヌス ― その壊れた臼が時代を挽き出す。" },
     { title = "諸時代を挽く臼", path = "articles/the-mill-that-grinds-the-ages", description = "退位させられ眠る王の治世としての黄金時代。歳差運動の輪が一巡するときに帰還するとされる。" },
     { title = "人類の形", path = "articles/the-shape-of-humanity", description = "黄金時代を、有機体としての人類が百に一つの閾値を越えて首尾よく成熟することとして枠づける解説記事。" },
+    { title = "ヨベルと機械", path = "articles/the-jubilee-and-the-machine", description = "ポスト・スケアシティの計画を、一世紀半にわたる土地、貨幣、自動化の改革者たちと並べて読む。" },
 ]
 
 [extra.infobox]

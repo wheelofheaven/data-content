@@ -22,6 +22,7 @@ see_also = [
     { title = "ヤハウェ", path = "wiki/yahweh", description = "この教義をヴォリロンに語ったエロヒムの議長。" },
     { title = "ラエル", path = "wiki/rael", description = "この社会経済的教義の受け手であり伝え手。" },
     { title = "設計者からのメッセージ", path = "wiki/message-from-the-designers", description = "この教義の最初の表明を記録する、統合された原典テクスト。" },
+    { title = "ヨベルと機械", path = "articles/the-jubilee-and-the-machine", description = "レビ記のヨベルからテクノ楽観主義者まで、ジョージ、ヘルツカ、ゲゼル、左派リバタリアン、オープンソースのコモンズと並べて読む教義。" },
 ]
 
 [extra.infobox]

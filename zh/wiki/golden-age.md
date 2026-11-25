@@ -26,6 +26,7 @@ see_also = [
     { title = "哈姆雷特的磨坊", path = "wiki/hamlets-mill", description = "被废黜的“黄金时代之主”——赐予度量的萨图恩——其毁坏的磨坊碾磨出诸时代。" },
     { title = "碾磨诸纪元的磨坊", path = "articles/the-mill-that-grinds-the-ages", description = "黄金时代作为被废黜之沉睡君王的统治，待岁差之轮转完一周时归来。" },
     { title = "人类的形状", path = "articles/the-shape-of-humanity", description = "将黄金时代构建为人类作为有机体跨越百分之一门槛之成功成熟的解读文章。" },
+    { title = "禧年与机器", path = "articles/the-jubilee-and-the-machine", description = "把后匮乏纲领与一个半世纪以来的土地、货币与自动化改革者并置而读。" },
 ]
 
 [extra.infobox]

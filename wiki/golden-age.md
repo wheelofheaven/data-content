@@ -25,7 +25,8 @@ see_also = [
     { title = "Embassy", path = "wiki/embassy", description = "The project whose completion conditions humanity's successful Aquarian-age navigation." },
     { title = "Hamlet's Mill", path = "wiki/hamlets-mill", description = "The deposed 'Lord of the Golden Age' — Saturn, the giver of measures — whose wrecked mill grinds out the ages." },
     { title = "The Mill That Grinds the Ages", path = "articles/the-mill-that-grinds-the-ages", description = "The Golden Age as the reign of the deposed sleeping king, due back when the precessional wheel completes." },
-    { title = "The Shape of Humanity", path = "articles/the-shape-of-humanity", description = "The Explainer framing the Golden Age as the successful maturation of humanity-as-organism past the one-in-a-hundred threshold." }
+    { title = "The Shape of Humanity", path = "articles/the-shape-of-humanity", description = "The Explainer framing the Golden Age as the successful maturation of humanity-as-organism past the one-in-a-hundred threshold." },
+    { title = "The Jubilee and the Machine", path = "articles/the-jubilee-and-the-machine", description = "The post-scarcity program read beside a century and a half of land, money and automation reformers." }
 ]
 
 [[extra.references]]

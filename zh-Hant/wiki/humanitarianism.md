@@ -22,6 +22,7 @@ see_also = [
     { title = "耶和華", path = "wiki/yahweh", description = "向沃里隆闡述此學說的耶洛因主席。" },
     { title = "雷爾", path = "wiki/rael", description = "此社會經濟學說的接受者與傳遞者。" },
     { title = "來自設計者的訊息", path = "wiki/message-from-the-designers", description = "記錄此學說原初闡述的彙編源文本。" },
+    { title = "禧年與機器", path = "articles/the-jubilee-and-the-machine", description = "將此學說與喬治、赫茨卡、格塞爾、左派自由意志主義者以及開放原始碼公地並讀，從利未記的禧年一直到科技樂觀主義者。" },
 ]
 
 [extra.infobox]

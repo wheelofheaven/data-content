@@ -26,6 +26,7 @@ see_also = [
     { title = "Le Moulin d'Hamlet", path = "wiki/hamlets-mill", description = "Le « Seigneur de l'Âge d'or » déposé — Saturne, le donneur des mesures — dont le moulin brisé broie les âges." },
     { title = "Le moulin qui broie les âges", path = "articles/the-mill-that-grinds-the-ages", description = "L'Âge d'or comme règne du roi déposé et endormi, attendu au retour lorsque la roue précessionnelle s'achève." },
     { title = "La forme de l'humanité", path = "articles/the-shape-of-humanity", description = "L'article qui présente l'Âge d'or comme la maturation réussie de l'humanité-organisme au-delà du seuil d'une sur cent." },
+    { title = "Le Jubilé et la machine", path = "articles/the-jubilee-and-the-machine", description = "Le programme post-pénurie lu à côté d'un siècle et demi de réformateurs de la terre, de la monnaie et de l'automatisation." },
 ]
 
 [extra.infobox]

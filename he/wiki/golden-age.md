@@ -27,6 +27,7 @@ see_also = [
     { title = "טחנת המלט", path = "wiki/hamlets-mill", description = "״אדון תור הזהב״ המודח — שבתאי, נותן המידות — שטחנתו ההרוסה טוחנת את העידנים." },
     { title = "הטחנה הטוחנת את העידנים", path = "articles/the-mill-that-grinds-the-ages", description = "תור הזהב כמלכותו של המלך הישן המודח, שעתיד לשוב כשהגלגל הפרצסיוני משלים את סיבובו." },
     { title = "צורתה של האנושות", path = "articles/the-shape-of-humanity", description = "המאמר הממסגר את תור הזהב כהבשלה המוצלחת של האנושות כאורגניזם מעבר לסף של אחד ממאה." },
+    { title = "היובל והמכונה", path = "articles/the-jubilee-and-the-machine", description = "תוכנית הפוסט-מחסור הנקראת לצד מאה וחמישים שנה של רפורמטורים של קרקע, כסף ואוטומציה." },
 ]
 
 [extra.infobox]

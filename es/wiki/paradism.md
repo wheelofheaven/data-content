@@ -21,6 +21,7 @@ see_also = [
     { title = "Geniocracia", path = "wiki/geniocracy", description = "El programa de gobierno por democracia selectiva integrado junto al paradismo." },
     { title = "Humanitarismo", path = "wiki/humanitarianism", description = "El programa de reforma de la riqueza y la propiedad integrado junto al paradismo." },
     { title = "Ciberparadismo", path = "wiki/cyberparadism", description = "La extensión del programa del paradismo a las plataformas digitales." },
+    { title = "El Jubileo y la máquina", path = "articles/the-jubilee-and-the-machine", description = "La abolición del trabajo y del dinero leída junto a Fresco, la producción entre pares y el Techno-Optimist Manifesto, donde el capitalista de riesgo resulta ser el conservador." },
 ]
 
 [extra.infobox]

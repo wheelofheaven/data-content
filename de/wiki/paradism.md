@@ -20,7 +20,8 @@ see_also = [
     { title = "Neue Gebote", path = "wiki/new-commandments", description = "Das Programm des Wassermann-Zeitalters, dessen Hauptbestandteil der Paradismus ist." },
     { title = "Geniokratie", path = "wiki/geniocracy", description = "Das Regierungsprogramm der selektiven Demokratie, das neben dem Paradismus steht." },
     { title = "Humanitarismus", path = "wiki/humanitarianism", description = "Das Reformprogramm für Vermögen und Eigentum, das neben dem Paradismus steht." },
-    { title = "Cyberparadismus", path = "wiki/cyberparadism", description = "Die Erweiterung des Paradismus-Programms auf digitale Plattformen." }
+    { title = "Cyberparadismus", path = "wiki/cyberparadism", description = "Die Erweiterung des Paradismus-Programms auf digitale Plattformen." },
+    { title = "Das Jubeljahr und die Maschine", path = "articles/the-jubilee-and-the-machine", description = "Die Abschaffung von Arbeit und Geld im Vergleich mit Fresco, der Peer-Produktion und dem Techno-Optimist Manifesto, wobei sich der Risikokapitalgeber als der Konservative erweist." }
 ]
 
 [extra.infobox]

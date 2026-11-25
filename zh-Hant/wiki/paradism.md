@@ -21,6 +21,7 @@ see_also = [
     { title = "天才政治", path = "wiki/geniocracy", description = "與樂園主義並行整合的選擇性民主治理綱領。" },
     { title = "人道主義", path = "wiki/humanitarianism", description = "與樂園主義並行整合的財富與財產改革綱領。" },
     { title = "賽博樂園主義", path = "wiki/cyberparadism", description = "樂園主義綱領的數位平台延伸。" },
+    { title = "禧年與機器", path = "articles/the-jubilee-and-the-machine", description = "將工作與金錢的廢除與弗雷斯科、同儕生產以及《科技樂觀主義宣言》並讀；在這裡，創投資本家反倒成了保守派。" },
 ]
 
 [extra.infobox]

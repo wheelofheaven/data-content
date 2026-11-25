@@ -21,6 +21,7 @@ see_also = [
     { title = "Géniocratie", path = "wiki/geniocracy", description = "Le programme de gouvernance par démocratie sélective intégré aux côtés du Paradisme." },
     { title = "Humanitarisme", path = "wiki/humanitarianism", description = "Le programme de réforme de la richesse et de la propriété intégré aux côtés du Paradisme." },
     { title = "Cyberparadisme", path = "wiki/cyberparadism", description = "L'extension du programme du Paradisme aux plateformes numériques." },
+    { title = "Le Jubilé et la machine", path = "articles/the-jubilee-and-the-machine", description = "L'abolition du travail et de l'argent lue à côté de Fresco, de la production par les pairs et du Techno-Optimist Manifesto, où le capital-risqueur se révèle être le conservateur." },
 ]
 
 [extra.infobox]

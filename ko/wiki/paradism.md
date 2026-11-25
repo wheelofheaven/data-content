@@ -21,6 +21,7 @@ see_also = [
     { title = "천재정치", path = "wiki/geniocracy", description = "파라디즘과 나란히 통합된 선택적 민주주의 통치 프로그램." },
     { title = "휴머니타리아니즘", path = "wiki/humanitarianism", description = "파라디즘과 나란히 통합된 부와 재산 개혁 프로그램." },
     { title = "사이버파라디즘", path = "wiki/cyberparadism", description = "파라디즘 프로그램의 디지털 플랫폼 확장." },
+    { title = "희년과 기계", path = "articles/the-jubilee-and-the-machine", description = "노동과 돈의 폐지를 프레스코, 동료 생산, 『테크노 낙관주의 선언』과 나란히 읽으니, 여기서는 벤처 투자자가 보수주의자로 드러납니다." },
 ]
 
 [extra.infobox]

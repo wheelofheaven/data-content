@@ -26,6 +26,7 @@ see_also = [
     { title = "El molino de Hamlet", path = "wiki/hamlets-mill", description = "El depuesto «Señor de la Edad de Oro» —Saturno, el que da las medidas— cuyo molino destrozado muele las eras." },
     { title = "El molino que muele las eras", path = "articles/the-mill-that-grinds-the-ages", description = "La Edad de Oro como el reinado del rey dormido y depuesto, que ha de volver cuando la rueda precesional complete su giro." },
     { title = "La forma de la humanidad", path = "articles/the-shape-of-humanity", description = "El Explicativo que plantea la Edad de Oro como la maduración lograda de la humanidad como organismo más allá del umbral de uno entre cien." },
+    { title = "El Jubileo y la máquina", path = "articles/the-jubilee-and-the-machine", description = "El programa posterior a la escasez leído junto a siglo y medio de reformadores de la tierra, el dinero y la automatización." },
 ]
 
 [extra.infobox]
