@@ -16,7 +16,7 @@ editorial_pass = "2026-06"
 subtitle = "The primeval and patriarchal frame, from Moses on Sinai to Abraham (chapters 1–12)"
 edition = "Reconstructed verse by verse from the surviving witnesses: the Hebrew Dead Sea Scrolls fragments (4Q216 and others) where they survive, Greek quotations in the Church Fathers (chiefly Epiphanius), and the complete Ge'ez (Ethiopic) text, after VanderKam 1989 and Charles 1902. Each verse records which witness it follows. The English translation and notes are released CC0."
 coverage = "Chapters 1–12 translated (373 verses). Chapters 13–50 are not translated."
-review_status = "Reviewed and signed off. Checking against the critical editions and the manuscripts is still pending."
+review_status = "Provisional. A check on 26 November 2026 found that the Ge'ez shown in the interlinear does not reproduce VanderKam's critical edition, which it cites. The original-language text is being re-sourced from VanderKam, and the English will be re-checked against it."
 editorial_history = '''
 **Review record.** All 12 chapter files carry `status: stable` (v1.0.0) with a named human reviewer, dated 2026-06-06; `_meta.json` records `verificationStatus: human-signed-off-2026-06-06`. Sign-off package: `ship-a-signoff-package.md`. Per-chapter `verificationStatus` notes pending verification against Milik–VanderKam DJD XIII, VanderKam 1989, García Martínez DJD XXIII, Dean 1935 (Epiphanius) and the original codicology.
 

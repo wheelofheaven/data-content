@@ -16,7 +16,7 @@ editorial_pass = "2026-06"
 subtitle = "The Book of the Watchers (chapters 1–36) and the Astronomical Book (chapters 72–82)"
 edition = "Reconstructed verse by verse from the surviving witnesses: the Aramaic Dead Sea Scrolls fragments (4Q201–4Q211) where they survive, the Greek Akhmim codex (chapters 1–32), and the complete Ge'ez (Ethiopic) text. Each verse records which witness it follows. The English translation and notes are released CC0."
 coverage = "Chapters 1–36 and 72–82 translated (47 chapters, 403 verses). The Parables (37–71), Dream Visions (83–90) and Epistle of Enoch (91–108) are not translated."
-review_status = "Reviewed and signed off. Checking against the critical editions and the manuscripts is still pending."
+review_status = "Provisional. A check on 26 November 2026 found that the Ge'ez shown in the interlinear does not reproduce the Ethiopic text it cites. The original-language text (Ge'ez, and the Aramaic and Greek reconstructions) is being re-sourced, and the English will be re-checked against it."
 editorial_history = '''
 **Review record.** All 47 chapter files carry `status: stable` (v1.0.0) with a named human reviewer, dated 2026-06-05; `_meta.json` records `verificationStatus: human-signed-off-2026-06-05`. Sign-off packages: `ship-a-watchers-signoff-package.md` and `ship-b-astronomical-signoff-package.md`. Per-chapter `verificationStatus` notes pending verification against Milik 1976 (DJD apparatus), Nickelsburg 2001, Tigchelaar–García Martínez DJD XXXVI 2000, Drawnel 2011, Neugebauer 1985 and the original codicology.
 
