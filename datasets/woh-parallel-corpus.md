@@ -1,6 +1,6 @@
 +++
 title = "Wheel of Heaven Parallel Corpus"
-description = "10,311 verse-aligned rows across 48 ancient texts — Hebrew, Greek, Ge'ez, Coptic, Akkadian, Ugaritic, Avestan — beside new English translations. Free download."
+description = "10,550 verse-aligned rows across 48 ancient texts — Hebrew, Greek, Ge'ez, Coptic, Akkadian, Ugaritic, Avestan — beside new English translations. Free download."
 template = "dataset-page.html"
 
 [extra]
@@ -12,7 +12,7 @@ updated = "2026-11-26"
 keywords = ["parallel corpus", "ancient languages dataset", "biblical Hebrew parallel text", "Koine Greek", "Ge'ez", "Coptic", "Akkadian", "cuneiform", "Ugaritic", "Avestan", "machine translation", "transliteration", "religious texts dataset", "Hugging Face", "open data"]
 
 stats = [
-    { label = "Rows", value = "10,311" },
+    { label = "Rows", value = "10,550" },
     { label = "Books", value = "48" },
     { label = "Source languages", value = "9" },
     { label = "License", value = "CC BY-SA 4.0" },
