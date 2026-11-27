@@ -55,6 +55,9 @@ shifts.
 
 New here? [Start here: ten minutes](/start/) reads one verse of Genesis
 closely, with the strongest objection to the reading beside it.
+[Genesis in Four Lenses](/genesis/) reads the opening chapters verse by
+verse: the Hebrew, a literal translation, a reading through the Messages,
+and a plain explanation of each passage.
 
 For the method at full length, [Sendy and the Raëlian
 Messages](/articles/sendy-and-the-raelian-messages/) compares the first

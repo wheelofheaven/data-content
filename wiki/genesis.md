@@ -17,6 +17,7 @@ core_claim_ids = ["woh-claim-0039", "woh-claim-0076"]
 core_versions = { woh-claim-0039 = "0.1.0", woh-claim-0076 = "0.1.2" }
 alternative_names = ["Bereshit", "B'reshit", "First Book of Moses"]
 see_also = [
+    { title = "Genesis in Four Lenses", path = "genesis", description = "Read Genesis verse by verse: the Hebrew, a literal translation, a reading through the Messages, and a plain explanation." },
     { title = "Genesis Toolbox", path = "wiki/genesis-toolbox", description = "The corpus's assembly of the science and technology the creation account describes in operation." },
     { title = "Elohim", path = "wiki/elohim", description = "The plural creators whose work the first chapter narrates." },
     { title = "Eden", path = "wiki/eden", description = "The garden where the first humans were placed in Genesis 2–3." },
