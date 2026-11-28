@@ -12,7 +12,7 @@ lede = "One text, four ways in. Slide between the Hebrew, a literal translation,
 
 1. **Hebrew.** The Masoretic text with a transliteration under each word, so you can see what the verse actually says before anyone translates it.
 2. **Literal.** The Wheel of Heaven literal translation of the [Hebrew](/library/genesis-woh/). It keeps what the standard versions smooth away, such as the plural *Elohim*. Every chapter has been reviewed and signed off. Where the translator left a note on a verse, the note icon at the end of the line opens it.
-3. **Reading.** The literal sentence again, with each word the Messages decode put in its decoded sense: *Elohim* becomes "the Sky People", and the tree of knowledge becomes "the scientific books". Nothing else changes, and the swapped words are not marked, so the verse reads as one sentence. This lens is being written; until it is ready, each verse says "Reading in preparation".
+3. **Reading.** The literal sentence again, with each word the Messages decode put in its decoded sense: *Elohim* becomes "the Sky People", and the tree of knowledge becomes "the scientific books". Nothing else changes, and the swapped words are not marked, so the verse reads as one sentence.
 4. **Meaning.** What each verse means, retold in plain sentences as the Messages understand it, citing the paragraph of the Messages it rests on wherever they speak. Under each passage, the note icon opens a longer note on the passage as a whole, with diagrams where they help.
 
 Each chapter opens on the literal translation. Move the slider to change every verse at once, or step a single verse on its own. Your choice is remembered on this device.
@@ -30,4 +30,4 @@ Every sentence in the Meaning and in the passage notes carries one of four label
 - **Inferred:** a reasonable reading of the text that it does not state outright.
 - **Speculative:** a Wheel of Heaven synthesis that goes beyond any single source.
 
-The Reading and Meaning lenses are being written for the primeval history (chapters 1–11) first. Chapters 1–5, from the six days of creation through Cain and Abel to the generations from Adam to Noah, are published with their Meaning and passage notes; their Reading is in preparation. Each further chapter is published after review and the founder's sign-off; until then it shows the Hebrew and the literal translation.
+The Reading and Meaning lenses are being written for the primeval history (chapters 1–11) first. Chapters 1–5, from the six days of creation through Cain and Abel to the generations from Adam to Noah, are published in all four lenses. Each further chapter is published after review and the founder's sign-off; until then it shows the Hebrew and the literal translation.
