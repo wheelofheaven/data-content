@@ -30,4 +30,4 @@ Every sentence in the Reading and the Meaning carries one of four labels, shown 
 - **Inferred:** a reasonable reading of the text that it does not state outright.
 - **Speculative:** a Wheel of Heaven synthesis that goes beyond any single source.
 
-The Reading and Meaning lenses are being written for the primeval history (chapters 1–11) first. Chapters 1–3, from the six days of creation to the garden and the expulsion, are published in all four lenses. Each further chapter is published after review and the founder's sign-off; until then it shows the Hebrew and the literal translation.
+The Reading and Meaning lenses are being written for the primeval history (chapters 1–11) first. Chapters 1–5, from the six days of creation through Cain and Abel to the generations from Adam to Noah, are published in all four lenses. Each further chapter is published after review and the founder's sign-off; until then it shows the Hebrew and the literal translation.
